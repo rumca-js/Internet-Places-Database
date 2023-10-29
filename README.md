@@ -47,5 +47,5 @@ New tickets should clearly describe intent: \[New\] should be present in ticket 
 
 # Q&A
 
-Q: Why page contents is analysed, and is required for a good page ranking?
-A: We use Internet. It is hard to expect to publish something into Internet and expect it to be private. This is counter intuitive. Secondly most of the pages that do not play along with our society are corporate walled gardens. We have a problem with Spotify not providing any useful data when accessing it data through APIs. We need APIs. We need standards. Not everything needs to be open source, and open for free. Front pages should however always be available for reading, scraping and providing useful data about what it is. No javascript should be required to obtain page contents.
+ - Q: Why page contents is analysed, and is required for a good page ranking?
+ - A: We use Internet. It is hard to expect to publish something into Internet and expect it to be private. This is counter intuitive. Secondly most of the pages that do not play along with our society are corporate walled gardens. We have a problem with Spotify not providing any useful data when accessing it data through APIs. We need APIs. We need standards. Not everything needs to be open source, and open for free. Front pages should however always be available for reading, scraping and providing useful data about what it is. No javascript should be required to obtain page contents.
