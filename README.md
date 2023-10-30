@@ -1,5 +1,11 @@
 # Overview
-Database of Internet places. Mostly domains.
+
+Database of Internet places, links. Mostly domains.
+
+Acceptable link types:
+ - domains
+ - repository link. For example github
+ - content creator user link. Might be youtube channel
 
 # Files
 
