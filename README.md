@@ -49,6 +49,17 @@ Status code breakdown:
 # Votes ranking
 
 Database is managed by RSS link database, and user votes. Avarage of votes is calculated for each link.
+
+# Tags
+
+Each entry can be tagged. Most notable examples of tags
+
+ - open source - if entry is "open source" related
+ - company - if entry exists just to provide information about company
+ - personal - if it seems to be a personal website
+ - university, museum, etc - if entry provides details about a univeristy, museum, etc.
+ - disinformation / misinformation - self explanatory
+ - news - if it is "news" content farm
  
 # Feedback
 
