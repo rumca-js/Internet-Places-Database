@@ -11,6 +11,11 @@ Acceptable link types:
 
 Database is distributed as JSON files. It should be easy to export, and import such files. We do not want binary data, binary files. SQL files should be fine, but I am going with JSON files for now.
 
+Fields:
+ - page_rating - cumulative link points
+ - page_rating_contents - contents link points
+ - page_rating_votes - vote link points
+
 # Ranking algorithm
 
 Each page is ranked by several factors.
