@@ -4,8 +4,8 @@ Database of Internet places, links. Mostly domains.
 
 Acceptable link types:
  - domains
- - repository link. For example github
- - content creator user link. Might be youtube channel
+ - repository links. For example to github.
+ - content creator user link. Might be youtube channel link.
 
 # Files
 
