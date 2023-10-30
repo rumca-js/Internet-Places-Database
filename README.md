@@ -9,7 +9,7 @@ Acceptable link types:
 
 # Files
 
-Database is distributed as JSON files. It should be easy to export, and import such files. We do not want binary data, binary files. SQL files should be fine, but I am going with JSON files for now.
+Database is distributed as a set of JSON files. We do not want to store binary data, binary files. SQL files should be fine, but I am going with JSON files for now.
 
 Fields:
  - page_rating - cumulative link points
@@ -60,3 +60,7 @@ New tickets should clearly describe intent: \[New\] should be present in ticket 
 
  - Q: Why page contents is analysed, and is required for a good page ranking?
  - A: We use Internet. It is hard to expect to publish something into Internet and expect it to be private. This is counter intuitive. Secondly most of the pages that do not play along with our society are corporate walled gardens. We have a problem with Spotify not providing any useful data when accessing it data through APIs. We need APIs. We need standards. Not everything needs to be open source, and open for free. Front pages should however always be available for reading, scraping and providing useful data about what it is. No javascript should be required to obtain page contents.
+
+# Other useful data
+
+Marginalia also provides some domain data: [https://downloads.marginalia.nu/](https://downloads.marginalia.nu/)
