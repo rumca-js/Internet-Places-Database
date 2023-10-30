@@ -1,216 +1,204 @@
-## Stockholms universitet
- - [https://www.su.se](https://www.su.se)
- - date published: 2023-10-25T11:23:47.766606+00:00
+## Boring Report
+ - [https://www.boringreport.org](https://www.boringreport.org)
+ - date published: 2023-10-25T21:03:23.184338+00:00
  - user: None
  - tags: $tags
 
-## Hem | Göteborgs universitet
- - [https://www.gu.se](https://www.gu.se)
- - date published: 2023-10-25T11:23:45.206128+00:00
+## Home | Boston Planning & Development Agency
+ - [https://www.bostonplans.org](https://www.bostonplans.org)
+ - date published: 2023-10-25T21:03:28.958237+00:00
  - user: None
  - tags: $tags
 
-## Chalmers tekniska högskola
- - [https://www.chalmers.se](https://www.chalmers.se)
- - date published: 2023-10-25T11:23:40.727663+00:00
+## BoTorch · Bayesian Optimization in PyTorch
+ - [https://botorch.org](https://botorch.org)
+ - date published: 2023-10-25T21:03:30.553611+00:00
  - user: None
  - tags: $tags
 
-## Computer Science
- - [https://www-cs-faculty.stanford.edu](https://www-cs-faculty.stanford.edu)
- - date published: 2023-10-25T11:23:38.340991+00:00
+## Tails - Home
+ - [https://tails.boum.org](https://tails.boum.org)
+ - date published: 2023-10-25T21:03:33.692031+00:00
  - user: None
  - tags: $tags
 
-## Stanford University
- - [https://web.stanford.edu](https://web.stanford.edu)
- - date published: 2023-10-25T11:23:29.593797+00:00
- - user: None
- - tags: ['university']
-
-## The Stanford University InfoLab
- - [http://infolab.stanford.edu](http://infolab.stanford.edu)
- - date published: 2023-10-25T11:23:23.038240+00:00
+## Common Lisp Quick Reference
+ - [http://clqr.boundp.org](http://clqr.boundp.org)
+ - date published: 2023-10-25T21:03:35.374675+00:00
  - user: None
  - tags: $tags
 
-## Computer Science
- - [https://cs.stanford.edu](https://cs.stanford.edu)
- - date published: 2023-10-25T11:23:16.227465+00:00
+## Box2D
+ - [https://box2d.org](https://box2d.org)
+ - date published: 2023-10-25T08:35:42.304717+00:00
  - user: None
  - tags: $tags
 
-## University of San Diego Home Pages
- - [https://home.sandiego.edu](https://home.sandiego.edu)
- - date published: 2023-10-25T11:23:10.865084+00:00
+## Box86 – Linux Userspace x86 Emulator with a Twist
+ - [https://box86.org](https://box86.org)
+ - date published: 2023-10-25T21:03:37.749632+00:00
  - user: None
  - tags: $tags
 
-## Rutgers University
- - [https://www.rutgers.edu](https://www.rutgers.edu)
- - date published: 2023-10-25T11:23:06.491659+00:00
+## Ben E. C. Boyter | Ben E. C. Boyter
+ - [https://boyter.org](https://boyter.org)
+ - date published: 2023-10-25T21:03:43.739592+00:00
  - user: None
  - tags: $tags
 
-## The Rockefeller University
- - [https://www.rockefeller.edu](https://www.rockefeller.edu)
- - date published: 2023-10-25T11:23:02.452486+00:00
+## Services for the Blind and Visually Impaired | Braille Institute
+ - [https://brailleinstitute.org](https://brailleinstitute.org)
+ - date published: 2023-10-25T21:03:49.278625+00:00
  - user: None
  - tags: $tags
 
-## University of Rochester
- - [https://www.rochester.edu](https://www.rochester.edu)
- - date published: 2023-10-25T11:22:58.003643+00:00
+## BrainFlow
+ - [https://brainflow.org](https://brainflow.org)
+ - date published: 2023-10-27T12:06:33.631461+00:00
  - user: None
  - tags: $tags
 
-## Department of Computer Science : University of Rochester
- - [https://www.cs.rochester.edu](https://www.cs.rochester.edu)
- - date published: 2023-10-25T11:22:54.164400+00:00
+## brandur.org — Brandur Leach
+ - [https://brandur.org](https://brandur.org)
+ - date published: 2023-10-27T12:06:34.276245+00:00
  - user: None
  - tags: $tags
 
-## Rice University
- - [https://www.clear.rice.edu](https://www.clear.rice.edu)
- - date published: 2023-10-25T11:22:50.744610+00:00
+## Stig's Soapbox
+ - [https://www.brautaset.org](https://www.brautaset.org)
+ - date published: 2023-10-25T21:04:05.893123+00:00
  - user: None
  - tags: $tags
 
-## More crop per drop | MIT - Massachusetts Institute of Technology
- - [https://web.mit.edu](https://web.mit.edu)
- - date published: 2023-10-25T11:22:48.078614+00:00
+## BAM Weblog
+ - [https://brianmckenna.org](https://brianmckenna.org)
+ - date published: 2023-10-25T21:04:15.068274+00:00
  - user: None
  - tags: $tags
 
-## Official Miami Dade College Homepage
- - [https://www.mdc.edu](https://www.mdc.edu)
- - date published: 2023-10-25T11:22:46.236242+00:00
+## Brian Smith
+ - [https://briansmith.org](https://briansmith.org)
+ - date published: 2023-10-25T09:23:52.621584+00:00
  - user: None
  - tags: $tags
 
-## Kent Campus | Kent State University Kent State, one of Ohio’s leading public universities
- - [https://www.kent.edu](https://www.kent.edu)
- - date published: 2023-10-25T11:22:42.294245+00:00
+## Secure messaging, anywhere -  Briar
+ - [https://briarproject.org](https://briarproject.org)
+ - date published: 2023-10-25T21:04:17.659648+00:00
  - user: None
  - tags: $tags
 
-## Harvard Gazette – Official news from Harvard University covering innovation in teaching, learning, and research
- - [https://news.harvard.edu](https://news.harvard.edu)
- - date published: 2023-10-25T11:22:32.692394+00:00
+## Brilliant | Learn interactively
+ - [https://brilliant.org](https://brilliant.org)
+ - date published: 2023-10-24T20:19:39.194067+00:00
+ - user: None
+ - tags: ['tutorial']
+
+## British Ecological Society
+ - [https://www.britishecologicalsociety.org](https://www.britishecologicalsociety.org)
+ - date published: 2023-10-25T21:04:24.691227+00:00
  - user: None
  - tags: $tags
 
-## Home - Florida State University News
- - [https://news.fsu.edu](https://news.fsu.edu)
- - date published: 2023-10-25T11:22:28.015942+00:00
+## British Museum
+ - [https://www.britishmuseum.org](https://www.britishmuseum.org)
+ - date published: 2023-10-25T21:04:28.140600+00:00
  - user: None
  - tags: $tags
 
-## Duke University School of Law
- - [https://web.law.duke.edu](https://web.law.duke.edu)
- - date published: 2023-10-25T11:22:18.328920+00:00
+## Brownstone Institute ⋆ Freedom, Economics, Science, Health
+ - [https://brownstone.org](https://brownstone.org)
+ - date published: 2023-10-25T21:04:35.069980+00:00
  - user: None
  - tags: $tags
 
-## Home | University of Arizona News
- - [https://news.arizona.edu](https://news.arizona.edu)
- - date published: 2023-10-25T11:22:13.823722+00:00
+## Bruegel
+ - [https://www.bruegel.org](https://www.bruegel.org)
+ - date published: 2023-10-25T21:04:37.159222+00:00
  - user: None
  - tags: $tags
 
-## News – University of Copenhagen
- - [https://news.ku.dk](https://news.ku.dk)
- - date published: 2023-10-25T11:22:10.749501+00:00
+## http://www.bsdcan.org
+ - [http://www.bsdcan.org](http://www.bsdcan.org)
+ - date published: 2023-10-25T21:04:38.324700+00:00
  - user: None
  - tags: $tags
 
-## Heidelberg University EN
- - [https://www.uni-heidelberg.de](https://www.uni-heidelberg.de)
- - date published: 2023-10-25T11:22:07.189480+00:00
+## Hyperlogloglog
+ - [https://carlos.bueno.org](https://carlos.bueno.org)
+ - date published: 2023-10-25T21:04:39.654113+00:00
  - user: None
  - tags: $tags
 
-## CSC - University of Waterloo
- - [https://csclub.uwaterloo.ca](https://csclub.uwaterloo.ca)
- - date published: 2023-10-25T11:22:02.876946+00:00
+## Bugzilla
+ - [https://www.bugzilla.org](https://www.bugzilla.org)
+ - date published: 2023-10-25T21:04:40.513010+00:00
  - user: None
  - tags: $tags
 
-## University of Toronto
- - [https://www.utoronto.ca](https://www.utoronto.ca)
- - date published: 2023-10-25T11:21:50.526226+00:00
- - user: None
- - tags: ['university']
-
-## McGill University
- - [https://www.mcgill.ca](https://www.mcgill.ca)
- - date published: 2023-10-25T11:21:48.349820+00:00
+## Build Your Own X From Scratch Books
+ - [https://build-your-own.org](https://build-your-own.org)
+ - date published: 2023-10-25T21:04:41.262010+00:00
  - user: None
  - tags: $tags
 
-## Apache HTTP Server Test Page powered by CentOS
- - [https://www.math.mcgill.ca](https://www.math.mcgill.ca)
- - date published: 2023-10-25T11:21:45.075447+00:00
+## Hacker News Without News: A curated newsletter of interesting things
+ - [https://hn.build-your-own.org](https://hn.build-your-own.org)
+ - date published: 2023-10-25T21:04:42.635507+00:00
  - user: None
  - tags: $tags
 
-## Concordia University
- - [https://www.concordia.ca](https://www.concordia.ca)
- - date published: 2023-10-25T11:21:43.402681+00:00
+## BuildList.org
+ - [https://buildlist.org](https://buildlist.org)
+ - date published: 2023-10-25T21:04:45.115099+00:00
  - user: None
  - tags: $tags
 
-## The University of Queensland
- - [https://www.uq.edu.au](https://www.uq.edu.au)
- - date published: 2023-10-25T11:21:39.655939+00:00
- - user: None
- - tags: ['university']
-
-## School of Mathematics and Physics - University of Queensland
- - [https://smp.uq.edu.au](https://smp.uq.edu.au)
- - date published: 2023-10-25T11:21:34.636053+00:00
+## Bytecode Alliance
+ - [https://bytecodealliance.org](https://bytecodealliance.org)
+ - date published: 2023-10-25T21:04:46.459709+00:00
  - user: None
  - tags: $tags
 
-## Faculty of Science - University of Queensland
- - [http://science.uq.edu.au](http://science.uq.edu.au)
- - date published: 2023-10-25T11:21:28.871238+00:00
+## C-Fam
+ - [https://c-fam.org](https://c-fam.org)
+ - date published: 2023-10-25T21:04:54.162943+00:00
  - user: None
  - tags: $tags
 
-## The University of Sydney - One of the top universities in Australia
- - [https://www.sydney.edu.au](https://www.sydney.edu.au)
- - date published: 2023-10-25T11:21:22.408191+00:00
- - user: None
- - tags: ['univeristy']
-
-## RMIT University - RMIT University
- - [https://www.rmit.edu.au](https://www.rmit.edu.au)
- - date published: 2023-10-25T11:21:20.300436+00:00
+## CABINET / Homepage
+ - [https://www.cabinetmagazine.org](https://www.cabinetmagazine.org)
+ - date published: 2023-10-25T21:04:55.968628+00:00
  - user: None
  - tags: $tags
 
-## Sites at Flinders University
- - [https://sites.flinders.edu.au](https://sites.flinders.edu.au)
- - date published: 2023-10-25T11:21:12.768059+00:00
+## Cachix Blog
+ - [https://blog.cachix.org](https://blog.cachix.org)
+ - date published: 2023-10-25T21:04:57.090665+00:00
  - user: None
  - tags: $tags
 
-## Edith Cowan University | Creative thinkers made here
- - [https://www.ecu.edu.au](https://www.ecu.edu.au)
- - date published: 2023-10-25T11:21:10.044075+00:00
+## California Policy Center
+ - [https://californiapolicycenter.org](https://californiapolicycenter.org)
+ - date published: 2023-10-25T21:05:06.939673+00:00
  - user: None
  - tags: $tags
 
-## The University of Adelaide
- - [https://www.adelaide.edu.au](https://www.adelaide.edu.au)
- - date published: 2023-10-25T11:20:57.160705+00:00
+## Call-A.P.P.L.E. – Worlds Largest Apple User Group – Since 1978
+ - [https://www.callapple.org](https://www.callapple.org)
+ - date published: 2023-10-25T21:05:17.584675+00:00
  - user: None
- - tags: ['university']
+ - tags: $tags
 
-## Department of Computer Science, University of Oxford
- - [https://www.cs.ox.ac.uk](https://www.cs.ox.ac.uk)
- - date published: 2023-10-25T11:20:51.683475+00:00
+## CalMatters - California Politics, Policy, and Political News
+ - [https://calmatters.org](https://calmatters.org)
+ - date published: 2023-10-25T21:05:28.336887+00:00
+ - user: None
+ - tags: $tags
+
+## Cambridge Dictionary | English Dictionary, Translations & Thesaurus
+ - [https://dictionary.cambridge.org](https://dictionary.cambridge.org)
+ - date published: 2023-10-25T09:28:53.881071+00:00
  - user: None
  - tags: $tags
 
@@ -220,57 +208,299 @@
  - user: None
  - tags: $tags
 
-## Home | Pritzker School of Molecular Engineering | The University of Chicago
- - [https://pme.uchicago.edu](https://pme.uchicago.edu)
- - date published: 2023-10-25T11:20:47.091123+00:00
+## Campaign against Climate Change |
+ - [https://www.campaigncc.org](https://www.campaigncc.org)
+ - date published: 2023-10-25T21:05:30.647817+00:00
  - user: None
  - tags: $tags
 
-## MIT News | Massachusetts Institute of Technology
- - [https://news.mit.edu](https://news.mit.edu)
- - date published: 2023-10-25T11:20:44.709795+00:00
+## Campus Reform the #1 Source for College News
+ - [https://www.campusreform.org](https://www.campusreform.org)
+ - date published: 2023-10-25T21:05:35.423675+00:00
  - user: None
  - tags: $tags
 
-## Simon Fraser University
- - [https://www.sfu.ca](https://www.sfu.ca)
- - date published: 2023-10-25T11:20:42.106068+00:00
+## Index of /
+ - [http://canonical.org](http://canonical.org)
+ - date published: 2023-10-25T11:29:02.618487+00:00
  - user: None
  - tags: $tags
 
-## Streets.mn - Transportation and Land Use in Minnesota
- - [https://streets.mn](https://streets.mn)
- - date published: 2023-10-25T11:20:38.557389+00:00
+## Capital Research Center
+ - [https://capitalresearch.org](https://capitalresearch.org)
+ - date published: 2023-10-25T21:05:39.115851+00:00
  - user: None
  - tags: $tags
 
-## Internet Crime Complaint Center(IC3) | Home Page
- - [https://www.ic3.gov](https://www.ic3.gov)
- - date published: 2023-10-25T11:20:35.175486+00:00
+## Cap'n Proto: Introduction
+ - [https://capnproto.org](https://capnproto.org)
+ - date published: 2023-10-25T21:05:41.035442+00:00
  - user: None
  - tags: $tags
 
-## Federal Aviation Administration
- - [https://www.faa.gov](https://www.faa.gov)
- - date published: 2023-10-25T11:20:33.122723+00:00
+## Charlie Arehart Server Troubleshooting Tuning Configuration Support
+ - [https://www.carehart.org](https://www.carehart.org)
+ - date published: 2023-10-25T21:05:43.266786+00:00
  - user: None
  - tags: $tags
 
-## National Institute of Standards and Technology
- - [https://www.nist.gov](https://www.nist.gov)
- - date published: 2023-10-25T11:20:30.382440+00:00
+## The Carter Center | Waging Peace, Fighting Disease & Building Hope
+ - [https://www.cartercenter.org](https://www.cartercenter.org)
+ - date published: 2023-10-25T21:05:47.773483+00:00
  - user: None
  - tags: $tags
 
-## National Center for Biotechnology Information
- - [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov)
- - date published: 2023-10-25T11:20:27.525952+00:00
+## Trusted Casino & Sportsbook Guide for 25 Years - Casino.org
+ - [https://www.casino.org](https://www.casino.org)
+ - date published: 2023-10-25T21:05:55.534104+00:00
  - user: None
  - tags: $tags
 
-## NPS.gov Homepage (U.S. National Park Service)
- - [https://www.nps.gov](https://www.nps.gov)
- - date published: 2023-10-25T11:20:15.724610+00:00
+## The Cassandra Dispatch
+ - [https://cassandradispatch.org](https://cassandradispatch.org)
+ - date published: 2023-10-25T21:05:57.295512+00:00
+ - user: None
+ - tags: $tags
+
+## Castopod by Ad Aures | Your Free & Open-source Podcast Host
+ - [https://castopod.org](https://castopod.org)
+ - date published: 2023-10-25T21:06:03.752582+00:00
+ - user: None
+ - tags: $tags
+
+## Document archive
+ - [https://doc.cat-v.org](https://doc.cat-v.org)
+ - date published: 2023-10-25T21:06:05.415579+00:00
+ - user: None
+ - tags: $tags
+
+## Cataclysm: Dark Days Ahead
+ - [https://cataclysmdda.org](https://cataclysmdda.org)
+ - date published: 2023-10-25T21:06:06.264019+00:00
+ - user: None
+ - tags: $tags
+
+## catb.org site page
+ - [http://catb.org](http://catb.org)
+ - date published: 2023-10-25T21:06:07.413789+00:00
+ - user: None
+ - tags: $tags
+
+## catb.org site page
+ - [http://www.catb.org](http://www.catb.org)
+ - date published: 2023-10-25T08:54:31.203053+00:00
+ - user: None
+ - tags: $tags
+
+## Home - CatholicVote org
+ - [https://catholicvote.org](https://catholicvote.org)
+ - date published: 2023-10-25T21:06:11.167042+00:00
+ - user: None
+ - tags: $tags
+
+## http://www.cato.org
+ - [http://www.cato.org](http://www.cato.org)
+ - date published: 2023-10-25T21:06:16.446613+00:00
+ - user: None
+ - tags: $tags
+
+## Homepage | Center on Budget and Policy Priorities
+ - [https://www.cbpp.org](https://www.cbpp.org)
+ - date published: 2023-10-25T21:06:23.147057+00:00
+ - user: None
+ - tags: $tags
+
+## C'Dent - A Portable Module Programming Language
+ - [http://cdent.org](http://cdent.org)
+ - date published: 2023-10-25T21:06:23.730786+00:00
+ - user: None
+ - tags: $tags
+
+## cdixon | home
+ - [https://cdixon.org](https://cdixon.org)
+ - date published: 2023-10-25T21:06:24.893004+00:00
+ - user: None
+ - tags: $tags
+
+## Celebratio Mathematica
+ - [https://celebratio.org](https://celebratio.org)
+ - date published: 2023-10-25T21:06:28.716375+00:00
+ - user: None
+ - tags: $tags
+
+## Centauri Dreams – Imagining and Planning Interstellar Exploration
+ - [https://www.centauri-dreams.org](https://www.centauri-dreams.org)
+ - date published: 2023-10-25T21:06:41.664630+00:00
+ - user: None
+ - tags: $tags
+
+## Johns Hopkins Center for Health Security
+ - [https://www.centerforhealthsecurity.org](https://www.centerforhealthsecurity.org)
+ - date published: 2023-10-25T21:06:44.275121+00:00
+ - user: None
+ - tags: $tags
+
+## lists.centos.org Mailing Lists
+ - [https://lists.centos.org](https://lists.centos.org)
+ - date published: 2023-10-25T21:06:46.268573+00:00
+ - user: None
+ - tags: $tags
+
+## Center for European Policy Analysis (CEPA) - CEPA
+ - [https://cepa.org](https://cepa.org)
+ - date published: 2023-10-25T21:06:48.710710+00:00
+ - user: None
+ - tags: $tags
+
+## Home | CEPR
+ - [https://cepr.org](https://cepr.org)
+ - date published: 2023-10-25T21:06:56.328532+00:00
+ - user: None
+ - tags: $tags
+
+## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
+ - [https://blog.cerowrt.org](https://blog.cerowrt.org)
+ - date published: 2023-10-25T21:06:57.314728+00:00
+ - user: None
+ - tags: $tags
+
+## CERT Vulnerability Notes Database
+ - [https://kb.cert.org](https://kb.cert.org)
+ - date published: 2023-10-25T21:06:59.207138+00:00
+ - user: None
+ - tags: $tags
+
+## Council on Foreign Relations
+ - [https://www.cfr.org](https://www.cfr.org)
+ - date published: 2023-10-25T21:07:05.491330+00:00
+ - user: None
+ - tags: $tags
+
+## Chapel: Productive Parallel Programming
+ - [https://chapel-lang.org](https://chapel-lang.org)
+ - date published: 2023-10-25T21:07:07.375203+00:00
+ - user: None
+ - tags: $tags
+
+## Charts.css
+ - [https://chartscss.org](https://chartscss.org)
+ - date published: 2023-10-25T21:07:09.548781+00:00
+ - user: None
+ - tags: $tags
+
+## The Cheapskate's Guide to Computers and the Internet
+ - [https://cheapskatesguide.org](https://cheapskatesguide.org)
+ - date published: 2023-10-25T21:07:11.276610+00:00
+ - user: None
+ - tags: $tags
+
+## Check My Ads Institute | Adtech Watchdog
+ - [https://checkmyads.org](https://checkmyads.org)
+ - date published: 2023-10-25T21:07:12.324867+00:00
+ - user: None
+ - tags: $tags
+
+## Children's Health Defense • Help Children’s Health Defense and RFK, Jr. end the epidemic of poor health plaguing our children.
+ - [https://childrenshealthdefense.org](https://childrenshealthdefense.org)
+ - date published: 2023-10-25T21:07:23.108077+00:00
+ - user: None
+ - tags: $tags
+
+## ChimeraOS
+ - [https://chimeraos.org](https://chimeraos.org)
+ - date published: 2023-10-25T08:34:38.580113+00:00
+ - user: None
+ - tags: $tags
+
+## The Greater China Journal  – The Greater China Journal
+ - [https://china-journal.org](https://china-journal.org)
+ - date published: 2023-10-25T21:07:26.320813+00:00
+ - user: None
+ - tags: $tags
+
+## ChipMusic.org
+ - [https://chipmusic.org](https://chipmusic.org)
+ - date published: 2023-10-28T18:53:32.192644+00:00
+ - user: None
+ - tags: ['chiptune']
+
+## Chocolate Doom
+ - [https://www.chocolate-doom.org](https://www.chocolate-doom.org)
+ - date published: 2023-10-25T21:07:27.565962+00:00
+ - user: None
+ - tags: $tags
+
+## Saving Rural Hospitals - The Crisis in Rural Health Care
+ - [https://ruralhospitals.chqpr.org](https://ruralhospitals.chqpr.org)
+ - date published: 2023-10-25T21:07:30.408857+00:00
+ - user: None
+ - tags: $tags
+
+## Chromium Blog
+ - [https://blog.chromium.org](https://blog.chromium.org)
+ - date published: 2023-10-25T21:07:36.663177+00:00
+ - user: None
+ - tags: $tags
+
+## Monorail - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Monorail
+ - [https://bugs.chromium.org](https://bugs.chromium.org)
+ - date published: 2023-10-25T21:07:37.503432+00:00
+ - user: None
+ - tags: $tags
+
+## CIDR
+ - [https://www.cidrdb.org](https://www.cidrdb.org)
+ - date published: 2023-10-25T21:07:38.570541+00:00
+ - user: None
+ - tags: $tags
+
+## CircuitVerse - Online Digital Logic Circuit Simulator
+ - [https://circuitverse.org](https://circuitverse.org)
+ - date published: 2023-10-25T21:07:40.023436+00:00
+ - user: None
+ - tags: $tags
+
+## citadel.org
+ - [https://www.citadel.org](https://www.citadel.org)
+ - date published: 2023-10-25T21:07:41.061444+00:00
+ - user: None
+ - tags: $tags
+
+## City Journal | Urban Affairs Magazine | Conservative Magazine Online
+ - [https://www.city-journal.org](https://www.city-journal.org)
+ - date published: 2023-10-25T21:07:43.177871+00:00
+ - user: None
+ - tags: $tags
+
+## Top Cancer Treatment and Research Center | City of Hope
+ - [https://www.cityofhope.org](https://www.cityofhope.org)
+ - date published: 2023-10-25T21:07:46.949303+00:00
+ - user: None
+ - tags: $tags
+
+## Hawaii News: In-Depth Local News From Honolulu Civil Beat
+ - [https://www.civilbeat.org](https://www.civilbeat.org)
+ - date published: 2023-10-25T21:07:51.470459+00:00
+ - user: None
+ - tags: $tags
+
+## DAVES OLD COMPUTERS
+ - [http://dunfield.classiccmp.org](http://dunfield.classiccmp.org)
+ - date published: 2023-10-25T21:07:52.168842+00:00
+ - user: None
+ - tags: $tags
+
+## Federal Reserve Bank of Cleveland
+ - [https://www.clevelandfed.org](https://www.clevelandfed.org)
+ - date published: 2023-10-25T21:07:54.878569+00:00
  - user: None
  - tags: $tags
 
@@ -280,2110 +510,123 @@
  - user: None
  - tags: $tags
 
-## Remixes | AmigaRemix
- - [https://www.amigaremix.com](https://www.amigaremix.com)
- - date published: 2023-10-25T11:20:05.098368+00:00
+## Climate Change Tracker
+ - [https://climatechangetracker.org](https://climatechangetracker.org)
+ - date published: 2023-10-25T08:31:20.212953+00:00
  - user: None
- - tags: ['chiptune', 'amiga', 'demoscene', 'keygen']
-
-## Amiga Forever - Amiga Software, Emulation, Games, History and Support Since 1986
- - [https://www.amigaforever.com](https://www.amigaforever.com)
- - date published: 2023-10-25T11:19:56.642363+00:00
- - user: None
- - tags: $tags
-
-## DeviantArt - The Largest Online Art Gallery and Community
- - [https://www.deviantart.com](https://www.deviantart.com)
- - date published: 2023-10-25T11:19:55.257967+00:00
- - user: None
- - tags: $tags
-
-## Audio Asylum -- Audio Reviews, Audiophile Forums and Stereo Reviews
- - [https://www.audioasylum.com](https://www.audioasylum.com)
- - date published: 2023-10-25T11:19:51.622570+00:00
- - user: None
- - tags: $tags
-
-## Wargamer | Warhammer, DnD, MTG, board games, and more
- - [https://www.wargamer.com](https://www.wargamer.com)
- - date published: 2023-10-25T11:19:48.926186+00:00
- - user: None
- - tags: ['board games', 'tabletop games', 'dungeons & dragons', 'warhammer', 'card games']
-
-## UltraBoardGames | Reviews, tips, game rules and more. | UltraBoardGames
- - [https://www.ultraboardgames.com](https://www.ultraboardgames.com)
- - date published: 2023-10-25T11:19:43.994024+00:00
- - user: None
- - tags: $tags
-
-## Miniature Market - Board Games, Magic The Gathering, Table Top Games, Dungeons & Dragons, Role Playing Games | Miniature Market
- - [https://www.miniaturemarket.com](https://www.miniaturemarket.com)
- - date published: 2023-10-25T11:19:41.464959+00:00
- - user: None
- - tags: $tags
-
-## Literary Review | For People Who Devour Books
- - [https://literaryreview.co.uk](https://literaryreview.co.uk)
- - date published: 2023-10-25T11:19:35.941051+00:00
- - user: None
- - tags: $tags
-
-## Największy serwis o książkach. Porównywarka cen książek, opinie, oceny, rekomendacje, wywiady, aktualności.
- - [https://lubimyczytac.pl](https://lubimyczytac.pl)
- - date published: 2023-10-25T11:19:34.231441+00:00
- - user: None
- - tags: $tags
-
-## Scribd: Ebooks, Audiobooks & More - Read Free for 30 Days
- - [https://www.scribd.com](https://www.scribd.com)
- - date published: 2023-10-25T11:19:26.409861+00:00
- - user: None
- - tags: $tags
-
-## Five Books - The Best Books Recommended by Experts
- - [https://fivebooks.com](https://fivebooks.com)
- - date published: 2023-10-25T11:19:21.486882+00:00
- - user: None
- - tags: $tags
-
-## Welcome to Ereads.com!
- - [https://www.ereads.com](https://www.ereads.com)
- - date published: 2023-10-25T11:19:14.702687+00:00
- - user: None
- - tags: $tags
-
-## Bounding Into Comics - Your destination for comic books, gaming, movies and more!
- - [https://boundingintocomics.com](https://boundingintocomics.com)
- - date published: 2023-10-25T11:19:12.732997+00:00
- - user: None
- - tags: $tags
-
-## 2000 AD - the Galaxy's Greatest Comic!
- - [https://2000ad.com](https://2000ad.com)
- - date published: 2023-10-25T11:19:10.657192+00:00
- - user: None
- - tags: $tags
-
-## Home - Lyonsden Blog
- - [https://lyonsden.net](https://lyonsden.net)
- - date published: 2023-10-25T11:19:07.342674+00:00
- - user: None
- - tags: $tags
-
-## Good e-Reader - E-Reader News and Reviews
- - [https://goodereader.com](https://goodereader.com)
- - date published: 2023-10-25T11:19:00.115619+00:00
- - user: None
- - tags: $tags
-
-## Independent Fallout Wiki
- - [https://fallout.wiki](https://fallout.wiki)
- - date published: 2023-10-25T11:18:53.570144+00:00
- - user: None
- - tags: $tags
-
-## http://www.rickdangerous.co.uk
- - [https://www.rickdangerous.co.uk](https://www.rickdangerous.co.uk)
- - date published: 2023-10-25T11:18:46.472784+00:00
- - user: None
- - tags: $tags
-
-## Darmowe gry – graj w gry online na gry.pl
- - [https://www.gry.pl](https://www.gry.pl)
- - date published: 2023-10-25T11:18:46.003977+00:00
- - user: None
- - tags: ['games']
-
-## QUAKE.net.pl - Największy Polski Serwis o Quake Live, Quake Champions, Quake 3 I Quake 4 - pliki, artykuły, newsy, forum
- - [https://quake.net.pl](https://quake.net.pl)
- - date published: 2023-10-25T11:18:37.970311+00:00
- - user: None
- - tags: $tags
-
-## Nowiny - Modyfikacje Heroes III - Jaskinia Behemota
- - [https://h3mods.heroes.net.pl](https://h3mods.heroes.net.pl)
- - date published: 2023-10-25T11:18:35.910684+00:00
- - user: None
- - tags: $tags
-
-## 2 Player Games - TwoPlayerGames.org
- - [https://www.twoplayergames.org](https://www.twoplayergames.org)
- - date published: 2023-10-25T11:18:34.239862+00:00
- - user: None
- - tags: $tags
-
-## Forums - TES Alliance
- - [https://tesalliance.org](https://tesalliance.org)
- - date published: 2023-10-25T11:18:31.942277+00:00
- - user: None
- - tags: $tags
-
-## StrategyWiki, the free strategy guide and walkthrough wiki
- - [https://strategywiki.org](https://strategywiki.org)
- - date published: 2023-10-25T11:18:26.623232+00:00
- - user: None
- - tags: $tags
-
-## Quake Wiki
- - [https://quakewiki.org](https://quakewiki.org)
- - date published: 2023-10-25T11:18:24.728059+00:00
- - user: None
- - tags: $tags
-
-## OpenRetro Game Database
- - [https://openretro.org](https://openretro.org)
- - date published: 2023-10-25T11:18:22.724488+00:00
- - user: None
- - tags: $tags
-
-## Chess programs, 8080 emulator, and retrogaming
- - [https://nanochess.org](https://nanochess.org)
- - date published: 2023-10-25T11:18:21.353496+00:00
- - user: None
- - tags: $tags
-
-## Minecraft Servers | Minecraft Server List
- - [https://minecraftservers.org](https://minecraftservers.org)
- - date published: 2023-10-25T11:18:19.441515+00:00
- - user: None
- - tags: $tags
-
-## DuckStation: Fast PS1 Emulator
- - [https://www.duckstation.org](https://www.duckstation.org)
- - date published: 2023-10-25T11:18:17.981573+00:00
- - user: None
- - tags: $tags
-
-## UESPWiki - The Unofficial Elder Scrolls Pages
- - [https://en.uesp.net](https://en.uesp.net)
- - date published: 2023-10-25T11:18:15.607036+00:00
- - user: None
- - tags: $tags
-
-## UESPWiki - The Unofficial Elder Scrolls Pages
- - [https://en.m.uesp.net](https://en.m.uesp.net)
- - date published: 2023-10-25T11:18:13.072477+00:00
- - user: None
- - tags: $tags
-
-## The Cutting Room Floor
- - [https://tcrf.net](https://tcrf.net)
- - date published: 2023-10-25T11:18:10.805196+00:00
- - user: None
- - tags: $tags
-
-## Sorcerer's Place - Baldur's Gate 3 FAQ, RPG News, Walkthrough, Guide, Mods, Hacks, Cheats, Icewind Dale, Neverwinter Nights, Dragon Age, Wizardry
- - [https://sorcerers.net](https://sorcerers.net)
- - date published: 2023-10-25T11:18:08.570700+00:00
- - user: None
- - tags: $tags
-
-## Planet Emulation - Les jeux video ont aussi leur histoire !
- - [https://www.planetemu.net](https://www.planetemu.net)
- - date published: 2023-10-25T11:18:03.599446+00:00
- - user: None
- - tags: $tags
-
-## MobileGTA.net - GTA Mods, Cars, Maps and Skins for Android & iOS.
- - [https://www.mobilegta.net](https://www.mobilegta.net)
- - date published: 2023-10-25T11:18:02.316371+00:00
- - user: None
- - tags: $tags
-
-## LibertyCity // GTA 6 news, cheats for GTA 5 and GTA San Andreas, download mods, cars
- - [https://libertycity.net](https://libertycity.net)
- - date published: 2023-10-25T11:17:55.769566+00:00
- - user: None
- - tags: $tags
-
-## GTALand.net - GTA Mods | Grand Theft Auto Mods
- - [https://gtaland.net](https://gtaland.net)
- - date published: 2023-10-25T11:17:52.636171+00:00
- - user: None
- - tags: $tags
-
-## Snacks of the internet | Digisnacks.net
- - [https://www.digisnacks.net](https://www.digisnacks.net)
- - date published: 2023-10-25T11:17:47.532576+00:00
- - user: None
- - tags: $tags
-
-## Planet BaldursGate - News, Screenshots, Previews, Reviews, Guides
- - [https://pbg.bgforge.net](https://pbg.bgforge.net)
- - date published: 2023-10-25T11:17:46.608645+00:00
- - user: None
- - tags: $tags
-
-## Kwasowa Grota - Gry "Might & Magic" i "Heroes of Might & Magic" widziane z zupełnie nowej strony...
- - [https://www.acidcave.net](https://www.acidcave.net)
- - date published: 2023-10-25T11:17:44.377617+00:00
- - user: None
- - tags: $tags
-
-## Home - Morrowind++
- - [https://r-fuzzo.gitbook.io](https://r-fuzzo.gitbook.io)
- - date published: 2023-10-25T11:17:42.096564+00:00
- - user: None
- - tags: $tags
-
-## VCMI Project Wiki
- - [https://wiki.vcmi.eu](https://wiki.vcmi.eu)
- - date published: 2023-10-25T11:17:27.869847+00:00
- - user: None
- - tags: $tags
-
-## [CSDb] - The Commodore 64 Scene Database
- - [https://csdb.dk](https://csdb.dk)
- - date published: 2023-10-25T11:17:26.783143+00:00
- - user: None
- - tags: ['social forum', 'commodore']
-
-## FREE ROMs ISOs Download for SNES, NES, GBA, PSX, MAME, PS2, PSP, N64, NDS, ps1 - wowroms.com
- - [https://wowroms.com](https://wowroms.com)
- - date published: 2023-10-25T11:17:25.518772+00:00
- - user: None
- - tags: $tags
-
-## World of Warcraft News and Guides
- - [https://www.wowhead.com](https://www.wowhead.com)
- - date published: 2023-10-25T11:17:23.158608+00:00
- - user: None
- - tags: $tags
-
-## TESR Skywind - Home
- - [https://tesrskywind.com](https://tesrskywind.com)
- - date published: 2023-10-25T11:17:17.551364+00:00
- - user: None
- - tags: $tags
-
-## Strafe Esports | Watch Esports Games Online | Esports Schedules
- - [https://www.strafe.com](https://www.strafe.com)
- - date published: 2023-10-25T11:17:14.755103+00:00
- - user: None
- - tags: $tags
-
-## https://polishpixels.com
- - [https://polishpixels.com](https://polishpixels.com)
- - date published: 2023-10-25T11:17:06.597315+00:00
- - user: None
- - tags: $tags
-
-## Poki - Free Online Games - Play Online Games!
- - [https://poki.com](https://poki.com)
- - date published: 2023-10-25T11:17:06.102313+00:00
- - user: None
- - tags: ['games']
-
-## Planet Minecraft Community | Creative fansite for everything Minecraft!
- - [https://www.planetminecraft.com](https://www.planetminecraft.com)
- - date published: 2023-10-25T11:17:02.235808+00:00
- - user: None
- - tags: $tags
-
-## Nexus mods and community
- - [https://www.nexusmods.com](https://www.nexusmods.com)
- - date published: 2023-10-25T11:16:58.441116+00:00
- - user: None
- - tags: ['game mods']
-
-## Home - MrCrayfish
- - [https://mrcrayfish.com](https://mrcrayfish.com)
- - date published: 2023-10-25T11:16:52.437350+00:00
- - user: None
- - tags: $tags
-
-## Modrinth
- - [https://modrinth.com](https://modrinth.com)
- - date published: 2023-10-25T11:16:51.066359+00:00
- - user: None
- - tags: $tags
-
-## Welcome | Modding OpenMW: A guide to modding and modernizing Morrowind with OpenMW
- - [https://modding-openmw.com](https://modding-openmw.com)
- - date published: 2023-10-25T11:16:48.373285+00:00
- - user: None
- - tags: ['open source']
-
-## LCPDFR.com
- - [https://www.lcpdfr.com](https://www.lcpdfr.com)
- - date published: 2023-10-25T11:16:47.019672+00:00
- - user: None
- - tags: $tags
-
-## Lagged - Free Online Games on Lagged.com
- - [https://lagged.com](https://lagged.com)
- - date published: 2023-10-25T11:16:36.744329+00:00
- - user: None
- - tags: $tags
-
-## Gaming Gorilla | Video Game Reviews, Release Dates, Trailers & Lists
- - [https://gaminggorilla.com](https://gaminggorilla.com)
- - date published: 2023-10-25T11:16:34.246333+00:00
- - user: None
- - tags: $tags
-
-## GameBanana | The Game Modding Community - Since 2001
- - [https://gamebanana.com](https://gamebanana.com)
- - date published: 2023-10-25T11:16:26.951789+00:00
- - user: None
- - tags: $tags
-
-## FandomSpot
- - [https://www.fandomspot.com](https://www.fandomspot.com)
- - date published: 2023-10-25T11:16:25.035308+00:00
- - user: None
- - tags: $tags
-
-## https://www.curseforge.com
- - [https://www.curseforge.com](https://www.curseforge.com)
- - date published: 2023-10-25T11:16:22.703970+00:00
- - user: None
- - tags: $tags
-
-## Internetowy sklep dla elektroników i robotyków - Sklep Kamami
- - [https://kamami.pl](https://kamami.pl)
- - date published: 2023-10-25T11:16:22.452010+00:00
- - user: None
- - tags: $tags
-
-## Hubika.pl
- - [https://hubika.pl](https://hubika.pl)
- - date published: 2023-10-25T11:16:09.280790+00:00
- - user: None
- - tags: $tags
-
-## Sklep elektroniczny, sklep dla robotyków  - elty.pl
- - [https://elty.pl](https://elty.pl)
- - date published: 2023-10-25T11:16:07.459983+00:00
- - user: None
- - tags: $tags
-
-## Sklep Elektroniczny Botland - Sklep z Elektroniką
- - [https://botland.com.pl](https://botland.com.pl)
- - date published: 2023-10-25T11:16:01.784913+00:00
- - user: None
- - tags: $tags
-
-## retrocmp / retro computing
- - [https://retrocmp.de](https://retrocmp.de)
- - date published: 2023-10-25T11:15:38.287955+00:00
- - user: None
- - tags: $tags
-
-## Waveshare Electronics
- - [https://www.waveshare.com](https://www.waveshare.com)
- - date published: 2023-10-25T11:15:35.761134+00:00
- - user: None
- - tags: ['sbc', 'raspberry']
-
-## The Ultimate Raspberry Pi & Maker Store– The Pi Hut
- - [https://thepihut.com](https://thepihut.com)
- - date published: 2023-10-25T11:15:28.747973+00:00
- - user: None
- - tags: ['raspberry']
-
-## Retro32 | Amiga | Commodore | Retro Gaming Store Shop | 3D Printing
- - [https://www.retro32.com](https://www.retro32.com)
- - date published: 2023-10-25T11:15:21.579596+00:00
- - user: None
- - tags: ['shop']
-
-## RaspberryTips – Raspberry Pi projects and tutorials
- - [https://raspberrytips.com](https://raspberrytips.com)
- - date published: 2023-10-25T11:15:16.942230+00:00
- - user: None
- - tags: $tags
-
-## Raspberry PI Projects - World Biggest Site for Raspberry PI Projects - Tutorials - Ebooks - Project Ideas
- - [https://projects-raspberry.com](https://projects-raspberry.com)
- - date published: 2023-10-25T11:15:08.621410+00:00
- - user: None
- - tags: $tags
-
-## How To Electronics | Engineering Projects & Tutorials
- - [https://how2electronics.com](https://how2electronics.com)
- - date published: 2023-10-25T11:15:04.572178+00:00
- - user: None
- - tags: $tags
-
-## Farnell  - podzespoły elektroniczne
- - [https://pl.farnell.com](https://pl.farnell.com)
- - date published: 2023-10-25T11:14:57.081474+00:00
- - user: None
- - tags: $tags
-
-## Commodore Format Archive – Commodore Format magazine fan site
- - [https://commodoreformatarchive.com](https://commodoreformatarchive.com)
- - date published: 2023-10-25T11:14:50.885010+00:00
- - user: None
- - tags: ['commodore', 'magazine']
-
-## AmigaNG
- - [https://amigang.com](https://amigang.com)
- - date published: 2023-10-25T11:14:46.275962+00:00
- - user: None
- - tags: ['amiga']
-
-## Adafruit Industries, Unique & fun DIY electronics and kits
- - [https://www.adafruit.com](https://www.adafruit.com)
- - date published: 2023-10-25T11:14:43.308029+00:00
- - user: None
- - tags: $tags
-
-## Arduino Official Store | Boards Shields Kits Accessories
- - [https://store.arduino.cc](https://store.arduino.cc)
- - date published: 2023-10-25T11:14:39.964485+00:00
- - user: None
- - tags: $tags
-
-## Arduino Project Hub
- - [https://projecthub.arduino.cc](https://projecthub.arduino.cc)
- - date published: 2023-10-25T11:14:36.830518+00:00
- - user: None
- - tags: $tags
-
-## Arduino Blog
- - [https://blog.arduino.cc](https://blog.arduino.cc)
- - date published: 2023-10-25T11:14:33.506767+00:00
- - user: None
- - tags: $tags
-
-## The History of the Web
- - [https://thehistoryoftheweb.com](https://thehistoryoftheweb.com)
- - date published: 2023-10-25T11:14:27.332034+00:00
- - user: None
- - tags: $tags
-
-## Yours for the making - Instructables
- - [https://www.instructables.com](https://www.instructables.com)
- - date published: 2023-10-25T11:14:25.074625+00:00
- - user: None
- - tags: ['craft', 'hobby']
-
-## Bicycling
- - [https://www.bicycling.com](https://www.bicycling.com)
- - date published: 2023-10-25T11:14:15.502657+00:00
- - user: None
- - tags: $tags
-
-## Internetowy sklep Modelarski Agtom - farby modelarskie modele do sklejania - Sklep Modelarski Agtom
- - [https://agtom.eu](https://agtom.eu)
- - date published: 2023-10-25T11:14:12.432348+00:00
- - user: None
- - tags: $tags
-
-## keygenmusic.tk - tracker music player
- - [https://keygenmusic.tk](https://keygenmusic.tk)
- - date published: 2023-10-25T11:13:57.912458+00:00
- - user: None
- - tags: ['chiptune', 'demoscene', 'keygen']
-
-## Loopy
- - [https://www.loopy.fm](https://www.loopy.fm)
- - date published: 2023-10-25T11:13:57.022760+00:00
- - user: None
- - tags: $tags
-
-## The Quietus
- - [https://thequietus.com](https://thequietus.com)
- - date published: 2023-10-25T11:13:56.277412+00:00
- - user: None
- - tags: $tags
-
-## The Tcherepnin Society Website - Welcome!
- - [https://www.tcherepnin.com](https://www.tcherepnin.com)
- - date published: 2023-10-25T11:13:53.299542+00:00
- - user: None
- - tags: $tags
-
-## Radiohead Public Library
- - [https://radiohead.com](https://radiohead.com)
- - date published: 2023-10-25T11:13:51.732057+00:00
- - user: None
- - tags: $tags
-
-## Psytrance Guide
- - [https://psytranceguide.com](https://psytranceguide.com)
- - date published: 2023-10-25T11:13:51.201935+00:00
- - user: None
- - tags: $tags
-
-## Music Gear, Equipment, News, Tutorials & Reviews | MusicRadar
- - [https://www.musicradar.com](https://www.musicradar.com)
- - date published: 2023-10-25T11:13:46.875557+00:00
- - user: None
- - tags: $tags
-
-## Musician Wave | The Ultimate Resource for Music Makers
- - [https://www.musicianwave.com](https://www.musicianwave.com)
- - date published: 2023-10-25T11:13:38.064016+00:00
- - user: None
- - tags: $tags
-
-## Klang Magazine
- - [https://klangmag.co](https://klangmag.co)
- - date published: 2023-10-25T11:13:33.897425+00:00
- - user: None
- - tags: $tags
-
-## Sci Phi Journal - A Universe of Wonder
- - [https://www.sciphijournal.org](https://www.sciphijournal.org)
- - date published: 2023-10-25T11:13:33.009612+00:00
- - user: None
- - tags: $tags
-
-## ISSUE FOURTEEN - Blood Knife
- - [https://bloodknife.com](https://bloodknife.com)
- - date published: 2023-10-25T11:13:25.487678+00:00
- - user: None
- - tags: $tags
-
-## TTG - Tabletop Gaming
- - [https://www.tabletopgaming.co.uk](https://www.tabletopgaming.co.uk)
- - date published: 2023-10-25T11:13:20.932349+00:00
- - user: None
- - tags: ['tabletop games']
-
-## Goblin Gaming: UK's Top Wargaming Retailer & Online Store
- - [https://www.goblingaming.co.uk](https://www.goblingaming.co.uk)
- - date published: 2023-10-25T11:13:18.531364+00:00
- - user: None
- - tags: $tags
-
-## Forgeworld Games Workshop
- - [https://www.forgeworld.co.uk](https://www.forgeworld.co.uk)
- - date published: 2023-10-25T11:13:13+00:00
- - user: rumpel
- - tags: ['lord of the rings', 'warhammer', 'tabletop games']
-
-## Vanaheim.pl - Sklep z Grami - Vanaheim.pl
- - [https://vanaheim.pl](https://vanaheim.pl)
- - date published: 2023-10-25T11:13:12.482870+00:00
- - user: None
- - tags: $tags
-
-## rebel.pl - największy w Polsce sklep z grami planszowymi
- - [https://www.rebel.pl](https://www.rebel.pl)
- - date published: 2023-10-25T11:12:58.256769+00:00
- - user: None
- - tags: $tags
-
-## Tabletop, Board Games, Figure Games, Card Games and Model Accessories
- - [https://gnom-sklep.pl](https://gnom-sklep.pl)
- - date published: 2023-10-25T11:12:46.998303+00:00
- - user: None
- - tags: $tags
-
-## hmgs.org
- - [https://www.hmgs.org](https://www.hmgs.org)
- - date published: 2023-10-25T11:12:44.095189+00:00
- - user: None
- - tags: $tags
-
-## Tabletop, RPG & Pop Culture News - Bell of Lost Souls
- - [https://www.belloflostsouls.net](https://www.belloflostsouls.net)
- - date published: 2023-10-25T11:12:41.616946+00:00
- - user: None
- - tags: ['games workshop', 'warhammer', 'tabletop games', 'news']
-
-## HOME | UKTC.events
- - [https://www.uktc.events](https://www.uktc.events)
- - date published: 2023-10-25T11:12:36.401594+00:00
- - user: None
- - tags: $tags
-
-## Warhammer 40,000
- - [https://warhammer40000.com](https://warhammer40000.com)
- - date published: 2023-10-25T11:12:34.020898+00:00
- - user: None
- - tags: $tags
-
-## https://www.warhammer-community.com
- - [https://www.warhammer-community.com](https://www.warhammer-community.com)
- - date published: 2023-10-25T11:12:32.436432+00:00
- - user: None
- - tags: $tags
-
-## Wargames Foundry Miniatures – WargamesFoundry
- - [https://www.wargamesfoundry.com](https://www.wargamesfoundry.com)
- - date published: 2023-10-25T11:12:20.467045+00:00
- - user: None
- - tags: ['tabletop games', 'shop']
-
-## Home - The Wargame Explorer
- - [https://wargameexplorer.com](https://wargameexplorer.com)
- - date published: 2023-10-25T11:12:16.521806+00:00
- - user: None
- - tags: $tags
-
-## Warfare Miniatures USA
- - [https://www.warfareminiaturesusa.com](https://www.warfareminiaturesusa.com)
- - date published: 2023-10-25T11:12:05.174416+00:00
- - user: None
- - tags: $tags
-
-## Play 2,400+ Board Games Online for Free • Tabletopia
- - [https://tabletopia.com](https://tabletopia.com)
- - date published: 2023-10-25T11:12:02.256440+00:00
- - user: None
- - tags: $tags
-
-## Tabletop Games Blog - All things tabletop games
- - [https://tabletopgamesblog.com](https://tabletopgamesblog.com)
- - date published: 2023-10-25T11:11:51.352396+00:00
- - user: None
- - tags: $tags
-
-## Home - TableTop Game and Hobby
- - [https://tabletopgameandhobby.com](https://tabletopgameandhobby.com)
- - date published: 2023-10-25T11:11:47.639152+00:00
- - user: None
- - tags: $tags
-
-## AGE OF SQUIDMAR
- - [https://www.squidmar.com](https://www.squidmar.com)
- - date published: 2023-10-25T11:11:44.653780+00:00
- - user: None
- - tags: $tags
-
-## https://spikeybits.com
- - [https://spikeybits.com](https://spikeybits.com)
- - date published: 2023-10-25T11:11:37.761643+00:00
- - user: None
- - tags: ['star wars', 'warhammer', 'tabletop games']
-
-## Shut Up & Sit Down
- - [https://www.shutupandsitdown.com](https://www.shutupandsitdown.com)
- - date published: 2023-10-25T11:11:32.580373+00:00
- - user: None
- - tags: $tags
-
-## MinisBarter.com - Miniature wargaming marketplace
- - [https://minisbarter.com](https://minisbarter.com)
- - date published: 2023-10-25T11:11:29.320355+00:00
- - user: None
- - tags: ['marketplace', 'tabletop games']
-
-## Masters Traditional Games Shop - A Myriad of Quality Games
- - [https://www.mastersofgames.com](https://www.mastersofgames.com)
- - date published: 2023-10-25T11:11:26.828761+00:00
- - user: None
- - tags: $tags
-
-## Games Workshop
- - [https://www.games-workshop.com](https://www.games-workshop.com)
- - date published: 2023-10-25T11:11:19.430080+00:00
- - user: None
- - tags: ['tabletop games', 'lord of the rings', 'warhammer']
-
-## GAME ON TABLE TOP • Game On Table Top
- - [https://www.gameontabletop.com](https://www.gameontabletop.com)
- - date published: 2023-10-25T11:11:19.160844+00:00
- - user: None
- - tags: $tags
-
-## Dicebreaker
- - [https://www.dicebreaker.com](https://www.dicebreaker.com)
- - date published: 2023-10-25T11:11:12.489415+00:00
- - user: None
- - tags: ['tabletop games', 'magic the gathering', 'board game news', 'warhammer', 'board games']
-
-## BoardGameGeek
- - [https://boardgamegeek.com](https://boardgamegeek.com)
- - date published: 2023-10-25T11:11:10.042249+00:00
- - user: None
- - tags: $tags
-
-## miniacal
- - [https://miniac.co](https://miniac.co)
- - date published: 2023-10-25T11:11:09.294633+00:00
- - user: None
- - tags: $tags
-
-## Tabletop Games | Board Games in Australia – Tabletop Games Pty Ltd
- - [https://tabletopgames.com.au](https://tabletopgames.com.au)
- - date published: 2023-10-25T11:11:07.596236+00:00
- - user: None
- - tags: $tags
-
-## LandChad.net
- - [https://landchad.net](https://landchad.net)
- - date published: 2023-10-25T11:11:00.105083+00:00
- - user: None
- - tags: $tags
-
-## Web3 is Going Just Great
- - [https://web3isgoinggreat.com](https://web3isgoinggreat.com)
- - date published: 2023-10-25T11:10:58.654027+00:00
- - user: None
- - tags: $tags
-
-## Pi My Life Up - 500+ DIY Projects, Tutorials & Guides
- - [https://pimylifeup.com](https://pimylifeup.com)
- - date published: 2023-10-25T11:10:56.411744+00:00
- - user: None
- - tags: ['sbc', 'raspberry']
-
-## Electronics, Computing and Videogame History - Paleotronic Magazine
- - [https://paleotronic.com](https://paleotronic.com)
- - date published: 2023-10-25T11:10:53.460145+00:00
- - user: None
- - tags: $tags
-
-## Bricks
- - [https://bricks.stackexchange.com](https://bricks.stackexchange.com)
- - date published: 2023-10-25T11:10:47.269042+00:00
- - user: None
- - tags: $tags
-
-## Home | Brickset
- - [https://brickset.com](https://brickset.com)
- - date published: 2023-10-25T11:10:44.314862+00:00
- - user: None
- - tags: $tags
-
-## BrickNerd - All things LEGO and the LEGO fan community
- - [https://bricknerd.com](https://bricknerd.com)
- - date published: 2023-10-25T11:10:40.219577+00:00
- - user: None
- - tags: $tags
-
-## LEGO News, Set Reviews and latest VIP deals - Brick Fanatics
- - [https://www.brickfanatics.com](https://www.brickfanatics.com)
- - date published: 2023-10-25T11:10:37.106187+00:00
- - user: None
- - tags: $tags
-
-## Home - Trains
- - [https://www.trains.com](https://www.trains.com)
- - date published: 2023-10-25T11:10:31.427688+00:00
- - user: None
- - tags: $tags
-
-## Nipponrama - Blog about Japan and Japanese pop culture
- - [https://nipponrama.com](https://nipponrama.com)
- - date published: 2023-10-25T11:10:25.622610+00:00
- - user: None
- - tags: $tags
-
-## GTA 5 mods – GTA5mod.net
- - [https://gta5mod.net](https://gta5mod.net)
- - date published: 2023-10-25T11:10:23.969204+00:00
- - user: None
- - tags: $tags
-
-## Emulator Games - Download Game ROMs
- - [https://www.emulatorgames.net](https://www.emulatorgames.net)
- - date published: 2023-10-25T11:10:21.560069+00:00
- - user: None
- - tags: ['emulation', 'roms']
-
-## Diablo 2 Database Fansite | Diablo-2.net
- - [https://www.diablo-2.net](https://www.diablo-2.net)
- - date published: 2023-10-25T11:10:20.483355+00:00
- - user: None
- - tags: $tags
-
-## Play classic video games on your computer or mobile device | Emuparadise
- - [https://www.emuparadise.me](https://www.emuparadise.me)
- - date published: 2023-10-25T11:10:19.645543+00:00
- - user: None
- - tags: ['emulation']
-
-## SteamDB
- - [https://steamdb.info](https://steamdb.info)
- - date published: 2023-10-25T11:10:17.724172+00:00
- - user: None
- - tags: ['ranking']
-
-## RetroGames.cz - Play Old Games ONLINE
- - [https://www.retrogames.cz](https://www.retrogames.cz)
- - date published: 2023-10-25T11:10:17.378675+00:00
- - user: None
- - tags: $tags
-
-## The Elder Scrolls: Skyblivion
- - [https://skyblivion.com](https://skyblivion.com)
- - date published: 2023-10-25T11:10:12.987130+00:00
- - user: None
- - tags: $tags
-
-## Buy D2R Items and Runes, OSRS Gold, POE Orbs - RPGStash
- - [https://www.rpgstash.com](https://www.rpgstash.com)
- - date published: 2023-10-25T11:10:04.692031+00:00
- - user: None
- - tags: $tags
-
-## ROMS Pack - ROM Sets - All Emulator's ROM Packs
- - [https://www.romspack.com](https://www.romspack.com)
- - date published: 2023-10-25T11:10:00.994137+00:00
- - user: None
- - tags: ['emulation']
-
-## Roblox
- - [https://roblox.com](https://roblox.com)
- - date published: 2023-10-25T11:09:56.980219+00:00
- - user: None
- - tags: ['game']
-
-## Razed Mods
- - [https://www.razedmods.com](https://www.razedmods.com)
- - date published: 2023-10-25T11:09:52.685264+00:00
- - user: None
- - tags: $tags
-
-## Diablo 4, Diablo 2, Wiki, Forums, News, Guides and more.
- - [https://www.purediablo.com](https://www.purediablo.com)
- - date published: 2023-10-25T11:09:49.721507+00:00
- - user: None
- - tags: $tags
-
-## https://www.protondb.com
- - [https://www.protondb.com](https://www.protondb.com)
- - date published: 2023-10-25T11:09:42.837027+00:00
- - user: None
- - tags: ['ranking']
-
-## No Mutants Allowed
- - [https://www.nma-fallout.com](https://www.nma-fallout.com)
- - date published: 2023-10-25T11:09:40.967975+00:00
- - user: None
- - tags: $tags
-
-## Games and mods development for Windows, Linux and Mac - Mod DB
- - [https://www.moddb.com](https://www.moddb.com)
- - date published: 2023-10-25T11:09:37.572465+00:00
- - user: None
- - tags: ['game mods']
-
-## Minecraft Mods | Mods for Minecraft
- - [https://www.minecraftmods.com](https://www.minecraftmods.com)
- - date published: 2023-10-25T11:09:27.371524+00:00
- - user: None
- - tags: $tags
-
-## Minecraft Servers - Minecraft Server List
- - [https://minecraft-server-list.com](https://minecraft-server-list.com)
- - date published: 2023-10-25T11:09:25.967048+00:00
- - user: None
- - tags: $tags
-
-## Lemon Amiga - Games, Download, Emulator, Cheats & Forum
- - [https://www.lemonamiga.com](https://www.lemonamiga.com)
- - date published: 2023-10-25T11:09:23.171003+00:00
- - user: None
- - tags: $tags
-
-## GTAinside - GTA Mods, Addons, Cars, Maps, Skins and more.
- - [https://www.gtainside.com](https://www.gtainside.com)
- - date published: 2023-10-25T11:09:21.952840+00:00
- - user: None
- - tags: $tags
-
-## GTAGarage.com » The GTA Mod Database
- - [https://www.gtagarage.com](https://www.gtagarage.com)
- - date published: 2023-10-25T11:09:14.415046+00:00
- - user: None
- - tags: $tags
-
-## Forums - GTAForums
- - [https://gtaforums.com](https://gtaforums.com)
- - date published: 2023-10-25T11:09:12.304586+00:00
- - user: None
- - tags: $tags
-
-## GCM - Creating High Quality Car Models
- - [https://gtacarmods.com](https://gtacarmods.com)
- - date published: 2023-10-25T11:09:08.963692+00:00
- - user: None
- - tags: $tags
-
-## Grand Theft Auto News, Guides & Cheat Codes | GTA BOOM
- - [https://www.gtaboom.com](https://www.gtaboom.com)
- - date published: 2023-10-25T11:09:05.285670+00:00
- - user: None
- - tags: $tags
-
-## GTAall.com — GTA mods with installer
- - [https://www.gtaall.com](https://www.gtaall.com)
- - date published: 2023-10-25T11:09:02.611838+00:00
- - user: None
- - tags: $tags
-
-## GTA5-Mods.com - Your source for the latest GTA 5 car mods, scripts, tools and more.
- - [https://www.gta5-mods.com](https://www.gta5-mods.com)
- - date published: 2023-10-25T11:08:59.697315+00:00
- - user: None
- - tags: $tags
-
-## Wowpedia, the World of Warcraft wiki encyclopedia
- - [https://wowpedia.fandom.com](https://wowpedia.fandom.com)
- - date published: 2023-10-25T11:08:57.197894+00:00
- - user: None
- - tags: $tags
-
-## The Emulator Zone - Your Source for Emulation!
- - [https://www.emulator-zone.com](https://www.emulator-zone.com)
- - date published: 2023-10-25T11:08:52.480918+00:00
- - user: None
- - tags: $tags
-
-## The Elder Scrolls: Fan site
- - [https://www.elder-scrolls.com](https://www.elder-scrolls.com)
- - date published: 2023-10-25T11:08:49.118090+00:00
- - user: None
- - tags: $tags
-
-## DOTA Mods Installer
- - [https://dota2mods.com](https://dota2mods.com)
- - date published: 2023-10-25T11:08:43.904354+00:00
- - user: None
- - tags: $tags
-
-## Dota 2
- - [https://www.dota2.com](https://www.dota2.com)
- - date published: 2023-10-25T11:08:42.390800+00:00
- - user: None
- - tags: $tags
-
-## Diablo Tavern - Diablo Guides & Tools
- - [https://diablotavern.com](https://diablotavern.com)
- - date published: 2023-10-25T11:08:39.992217+00:00
- - user: None
- - tags: $tags
-
-## Diablo 3 Resources
- - [https://d3resource.com](https://d3resource.com)
- - date published: 2023-10-25T11:08:36.624986+00:00
- - user: None
- - tags: $tags
-
-## Free Online Games on CrazyGames 🎮 Play Now!
- - [https://www.crazygames.com](https://www.crazygames.com)
- - date published: 2023-10-25T11:08:35.067413+00:00
- - user: None
- - tags: ['games']
-
-## Download Free ROMs & Emulators for GBA, SNES, NDS, GBC, GB, N64, NES, PS, MAME - ConsoleRoms
- - [https://www.consoleroms.com](https://www.consoleroms.com)
- - date published: 2023-10-25T11:08:29.694304+00:00
- - user: None
- - tags: $tags
-
-## Bay 12 Games: Dwarf Fortress
- - [https://www.bay12games.com](https://www.bay12games.com)
- - date published: 2023-10-25T11:08:28.145829+00:00
- - user: None
- - tags: $tags
-
-## Mods GTA San Andreas
- - [https://www.gta-sa.com.br](https://www.gta-sa.com.br)
- - date published: 2023-10-25T11:08:27.421230+00:00
- - user: None
- - tags: $tags
-
-## ✂︎ Pixel Sea ✂︎
- - [https://pixelsea.neocities.org](https://pixelsea.neocities.org)
- - date published: 2023-10-25T11:08:14.545672+00:00
- - user: None
- - tags: $tags
-
-## Legal Lullabies
- - [https://www.zzzuckerberg.com](https://www.zzzuckerberg.com)
- - date published: 2023-10-25T11:08:13.765188+00:00
- - user: None
- - tags: ['wtf']
-
-## Zuck Banned Me – My Facebook got hacked, then Meta banned me from all services
- - [https://zuckbannedme.com](https://zuckbannedme.com)
- - date published: 2023-10-25T11:08:11.437717+00:00
- - user: None
- - tags: $tags
-
-## Hamster Dance
- - [https://www.webhamster.com](https://www.webhamster.com)
- - date published: 2023-10-25T11:08:08.311135+00:00
- - user: None
- - tags: ['wtf']
-
-## Johnny Cash Has Been Everywhere (Man)! - Music Hack Day London 2012 - Iain Mullan
- - [https://www.johnnycashhasbeeneverywhere.com](https://www.johnnycashhasbeeneverywhere.com)
- - date published: 2023-10-25T11:07:59.661696+00:00
- - user: None
- - tags: $tags
-
-## Epstein's black book
- - [https://epsteinsblackbook.com](https://epsteinsblackbook.com)
- - date published: 2023-10-25T11:07:59.051951+00:00
- - user: None
- - tags: $tags
-
-## Click
- - [https://clickclickclick.click](https://clickclickclick.click)
- - date published: 2023-10-25T11:07:58.518463+00:00
- - user: None
- - tags: $tags
-
-## TRT Afrika - Breaking News From Africa and Around the World
- - [https://www.trtafrika.com](https://www.trtafrika.com)
- - date published: 2023-10-25T11:07:58.020159+00:00
- - user: None
- - tags: $tags
-
-## Business Insider Africa
- - [https://africa.businessinsider.com](https://africa.businessinsider.com)
- - date published: 2023-10-25T11:07:56.116745+00:00
- - user: None
- - tags: $tags
-
-## Home - allAfrica.com
- - [https://allafrica.com](https://allafrica.com)
- - date published: 2023-10-25T11:07:52.016297+00:00
- - user: None
- - tags: $tags
-
-## News24 | South Africa's leading source of trusted news, opinion and insight
- - [https://www.news24.com](https://www.news24.com)
- - date published: 2023-10-25T11:07:45.142267+00:00
- - user: None
- - tags: $tags
-
-## Airways – A Global Review of Commercial Flight
- - [https://airwaysmag.com](https://airwaysmag.com)
- - date published: 2023-10-25T11:07:36.762016+00:00
- - user: None
- - tags: $tags
-
-## The Texas Observer: Investigating Texas Since 1954
- - [https://www.texasobserver.org](https://www.texasobserver.org)
- - date published: 2023-10-25T11:07:30.415713+00:00
- - user: None
- - tags: $tags
-
-## MPR News
- - [https://www.mprnews.org](https://www.mprnews.org)
- - date published: 2023-10-25T11:07:25.515521+00:00
- - user: None
- - tags: $tags
-
-## Local News Today - Breaking News & Top Stories
- - [https://localtoday.news](https://localtoday.news)
- - date published: 2023-10-25T11:07:16.883371+00:00
- - user: None
- - tags: $tags
-
-## U.S. News & World Report: News, Rankings and Analysis on Politics, Education, Healthcare and More
- - [https://www.usnews.com](https://www.usnews.com)
- - date published: 2023-10-25T11:06:45.360963+00:00
- - user: None
- - tags: $tags
-
-## Texas Monthly – The National Magazine of Texas
- - [https://www.texasmonthly.com](https://www.texasmonthly.com)
- - date published: 2023-10-25T11:06:35.427848+00:00
- - user: None
- - tags: $tags
-
-## Chicago Sun-Times: Chicago news, sports, politics, entertainment
- - [https://chicago.suntimes.com](https://chicago.suntimes.com)
- - date published: 2023-10-25T11:06:25.871318+00:00
- - user: None
- - tags: $tags
-
-## SFGATE: San Francisco Bay Area News, Sports, Culture, Travel, Food and Drink
- - [https://www.sfgate.com](https://www.sfgate.com)
- - date published: 2023-10-25T11:06:19.429757+00:00
- - user: None
- - tags: $tags
-
-## Oregon Local News, Breaking News, Sports & Weather
- - [https://www.oregonlive.com](https://www.oregonlive.com)
- - date published: 2023-10-25T11:06:13.645376+00:00
- - user: None
- - tags: $tags
-
-## New York Daily News: New York News, Sports, Weather, Business & Things to Do
- - [https://www.nydailynews.com](https://www.nydailynews.com)
- - date published: 2023-10-25T11:06:03.850370+00:00
- - user: None
- - tags: $tags
-
-## NBC10 Philadelphia – Philadelphia News, Local News, Weather, Traffic, Entertainment, and Breaking News
- - [https://www.nbcphiladelphia.com](https://www.nbcphiladelphia.com)
- - date published: 2023-10-25T11:05:51.814430+00:00
- - user: None
- - tags: $tags
-
-## NBC New York – New York News, Local News, Weather, Traffic, Entertainment, Breaking News
- - [https://www.nbcnewyork.com](https://www.nbcnewyork.com)
- - date published: 2023-10-25T11:05:45.889334+00:00
- - user: None
- - tags: $tags
-
-## NBC Los Angeles – Los Angeles News, Local News, Weather, Traffic, Entertainment, Breaking News
- - [https://www.nbclosangeles.com](https://www.nbclosangeles.com)
- - date published: 2023-10-25T11:05:35.602882+00:00
- - user: None
- - tags: $tags
-
-## NBC Bay Area – Bay Area News, Local News, Weather, Traffic, Entertainment, Breaking News
- - [https://www.nbcbayarea.com](https://www.nbcbayarea.com)
- - date published: 2023-10-25T11:05:29.767118+00:00
- - user: None
- - tags: $tags
-
-## MintPress News
- - [https://www.mintpressnews.com](https://www.mintpressnews.com)
- - date published: 2023-10-25T11:05:23.202392+00:00
- - user: None
- - tags: $tags
-
-## The Mercury News - Bay Area news, sports, business, entertainment, lifestyle and commentary
- - [https://www.mercurynews.com](https://www.mercurynews.com)
- - date published: 2023-10-25T11:05:14.135332+00:00
- - user: None
- - tags: $tags
-
-## Seattle News, Weather, Sports, Breaking News | KOMO
- - [https://komonews.com](https://komonews.com)
- - date published: 2023-10-25T11:05:08.513586+00:00
- - user: None
- - tags: $tags
-
-## FOX 9 Minneapolis-St. Paul
- - [https://www.fox9.com](https://www.fox9.com)
- - date published: 2023-10-25T11:04:58.976088+00:00
- - user: None
- - tags: $tags
-
-## FOX 7 Austin
- - [https://www.fox7austin.com](https://www.fox7austin.com)
- - date published: 2023-10-25T11:04:44.675389+00:00
- - user: None
- - tags: $tags
-
-## FOX 5 DC
- - [https://www.fox5dc.com](https://www.fox5dc.com)
- - date published: 2023-10-25T11:04:31.305284+00:00
- - user: None
- - tags: $tags
-
-## Fox 4 News | WFTX - Southwest Florida | Fox4Now.com - Home
- - [https://www.fox4now.com](https://www.fox4now.com)
- - date published: 2023-10-25T11:04:21.031601+00:00
- - user: None
- - tags: $tags
-
-## FOX 4 News Dallas-Fort Worth
- - [https://www.fox4news.com](https://www.fox4news.com)
- - date published: 2023-10-25T11:04:13.925923+00:00
- - user: None
- - tags: $tags
-
-## FOX 2 Detroit
- - [https://www.fox2detroit.com](https://www.fox2detroit.com)
- - date published: 2023-10-25T11:03:56.232571+00:00
- - user: None
- - tags: $tags
-
-## FOX19 | Cincinnati
- - [https://www.fox19.com](https://www.fox19.com)
- - date published: 2023-10-25T11:03:39.176612+00:00
- - user: None
- - tags: $tags
-
-## The Denver Post – Colorado breaking news, sports, business, weather, entertainment.
- - [https://www.denverpost.com](https://www.denverpost.com)
- - date published: 2023-10-25T11:03:04.845006+00:00
- - user: None
- - tags: $tags
-
-## Dallas News | Breaking News for DFW, Texas, World
- - [https://www.dallasnews.com](https://www.dallasnews.com)
- - date published: 2023-10-25T11:02:56.988420+00:00
- - user: None
- - tags: $tags
-
-## Los Angeles Daily News
- - [https://www.dailynews.com](https://www.dailynews.com)
- - date published: 2023-10-25T11:02:39.182115+00:00
- - user: None
- - tags: $tags
-
-## Cleveland 19 News | WOIO | Cleveland, Ohio
- - [https://www.cleveland19.com](https://www.cleveland19.com)
- - date published: 2023-10-25T11:02:33.064071+00:00
- - user: None
- - tags: $tags
-
-## Austin News, Weather, Sports, Breaking News | KEYE
- - [https://cbsaustin.com](https://cbsaustin.com)
- - date published: 2023-10-25T11:02:10.272499+00:00
- - user: None
- - tags: $tags
-
-## azcentral.com and The Arizona Republic: Phoenix and Arizona news
- - [https://www.azcentral.com](https://www.azcentral.com)
- - date published: 2023-10-25T11:02:04.408208+00:00
- - user: None
- - tags: $tags
-
-## amiga-news.de - Amiga-News auf den Punkt gebracht
- - [https://amiga-news.de](https://amiga-news.de)
- - date published: 2023-10-25T11:01:48.109047+00:00
- - user: None
- - tags: $tags
-
-## Catsuka
- - [https://www.catsuka.com](https://www.catsuka.com)
- - date published: 2023-10-25T11:01:46.712865+00:00
- - user: None
- - tags: $tags
-
-## None
- - [https://www.batimes.com.ar](https://www.batimes.com.ar)
- - date published: 2023-10-25T11:01:43.850205+00:00
- - user: None
- - tags: $tags
-
-## ARTnews.com – The Leading Source for Art News & Art Event Coverage
- - [https://www.artnews.com](https://www.artnews.com)
- - date published: 2023-10-25T11:01:07.928053+00:00
- - user: None
- - tags: $tags
-
-## Art & Object | News from the Art World
- - [https://www.artandobject.com](https://www.artandobject.com)
- - date published: 2023-10-25T11:01:00.819724+00:00
- - user: None
- - tags: $tags
-
-## Paris Review - Writers, Quotes, Biography, Interviews, Artists
- - [https://www.theparisreview.org](https://www.theparisreview.org)
- - date published: 2023-10-25T11:00:56.051363+00:00
- - user: None
- - tags: $tags
-
-## HackYourNews
- - [https://hackyournews.com](https://hackyournews.com)
- - date published: 2023-10-25T11:00:54.478394+00:00
- - user: None
- - tags: $tags
-
-## AI News & Robotics News - Unite.AI
- - [https://www.unite.ai](https://www.unite.ai)
- - date published: 2023-10-25T11:00:48.637068+00:00
- - user: None
- - tags: $tags
-
-## Artisana | The Latest Generative AI News
- - [https://www.artisana.ai](https://www.artisana.ai)
- - date published: 2023-10-25T11:00:43.611933+00:00
- - user: None
- - tags: $tags
-
-## CNA: Breaking News, Singapore News, World and Asia
- - [https://www.channelnewsasia.com](https://www.channelnewsasia.com)
- - date published: 2023-10-25T11:00:41.576145+00:00
- - user: None
- - tags: $tags
-
-## AsiaOne, Asia's Leading News Portal, Get Latest News at AsiaOne
- - [https://www.asiaone.com](https://www.asiaone.com)
- - date published: 2023-10-25T11:00:36.091714+00:00
- - user: None
- - tags: $tags
-
-## Aviation24.be - Latest News & Breaking Stories - Discussion Forums
- - [https://www.aviation24.be](https://www.aviation24.be)
- - date published: 2023-10-25T10:59:01.632137+00:00
- - user: None
- - tags: $tags
-
-## Home | Times Aerospace
- - [https://www.timesaerospace.aero](https://www.timesaerospace.aero)
- - date published: 2023-10-25T10:58:58.652022+00:00
- - user: None
- - tags: $tags
-
-## thestreet.com
- - [https://www.thestreet.com](https://www.thestreet.com)
- - date published: 2023-10-25T10:58:50.346204+00:00
- - user: None
- - tags: $tags
-
-## Actionable Trading Ideas, Real-Time News, Financial Insight - Benzinga
- - [https://www.benzinga.com](https://www.benzinga.com)
- - date published: 2023-10-25T10:58:49.994699+00:00
- - user: None
- - tags: $tags
-
-## GIGAZINE（ギガジン） - 効果なしと論じられたフェニレフリンを含む風邪薬をドラッグストア大手が棚から自主撤去
- - [https://gigazine.net](https://gigazine.net)
- - date published: 2023-10-25T10:58:35.725805+00:00
- - user: None
- - tags: $tags
-
-## London Review of Books
- - [https://www.lrb.co.uk](https://www.lrb.co.uk)
- - date published: 2023-10-25T10:58:33.599892+00:00
- - user: None
- - tags: $tags
-
-## The Brussels Times
- - [https://www.brusselstimes.com](https://www.brusselstimes.com)
- - date published: 2023-10-25T10:58:28.522482+00:00
- - user: None
- - tags: $tags
-
-## Business Insider Polska
- - [https://businessinsider.com.pl](https://businessinsider.com.pl)
- - date published: 2023-10-25T10:58:26.656129+00:00
- - user: None
- - tags: $tags
-
-## Business News - Read Latest Startup, Tech, Markets, Finance, Science News - Business Insider India
- - [https://www.businessinsider.in](https://www.businessinsider.in)
- - date published: 2023-10-25T10:58:21.187120+00:00
- - user: None
- - tags: $tags
-
-## Parkiet – portal finansowy z najważniejszymi wiadomościami - parkiet.com
- - [https://www.parkiet.com](https://www.parkiet.com)
- - date published: 2023-10-25T10:58:13.846289+00:00
- - user: None
- - tags: $tags
-
-## Nasdaq: Stock Market, Data Updates, Reports & News
- - [https://www.nasdaq.com](https://www.nasdaq.com)
- - date published: 2023-10-25T10:58:04.699701+00:00
- - user: None
- - tags: $tags
-
-## MarketWatch: Stock Market News - Financial News - MarketWatch
- - [https://www.marketwatch.com](https://www.marketwatch.com)
- - date published: 2023-10-25T10:57:58.274767+00:00
- - user: None
- - tags: $tags
-
-## Investopedia
- - [https://www.investopedia.com](https://www.investopedia.com)
- - date published: 2023-10-25T10:57:47.536889+00:00
- - user: None
- - tags: $tags
-
-## Fox Business | Business News &Stock Quotes - Saving & Investing
- - [https://www.foxbusiness.com](https://www.foxbusiness.com)
- - date published: 2023-10-25T10:57:40.272562+00:00
- - user: None
- - tags: $tags
-
-## Barron's | Financial and Investment News
- - [https://www.barrons.com](https://www.barrons.com)
- - date published: 2023-10-25T10:57:29.159607+00:00
- - user: None
- - tags: $tags
-
-## CTV News - Breaking News, Canada News Today
- - [http://www.ctvnews.ca](http://www.ctvnews.ca)
- - date published: 2023-10-25T10:56:16.934571+00:00
- - user: None
- - tags: $tags
-
-## Toronto News | Breaking News | CTV News Toronto
- - [https://toronto.ctvnews.ca](https://toronto.ctvnews.ca)
- - date published: 2023-10-25T10:56:11.669804+00:00
- - user: None
- - tags: $tags
-
-## Ottawa News | Local Breaking | CTV News Ottawa
- - [https://ottawa.ctvnews.ca](https://ottawa.ctvnews.ca)
- - date published: 2023-10-25T10:56:04.116973+00:00
- - user: None
- - tags: $tags
-
-## Vancouver News | Local Breaking | CTV News Vancouver
- - [https://bc.ctvnews.ca](https://bc.ctvnews.ca)
- - date published: 2023-10-25T10:55:57.032920+00:00
- - user: None
- - tags: $tags
-
-## CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
- - [https://www.cbc.ca](https://www.cbc.ca)
- - date published: 2023-10-25T10:55:51.069895+00:00
- - user: None
- - tags: $tags
-
-## Newsroom Toyota Europe
- - [https://newsroom.toyota.eu](https://newsroom.toyota.eu)
- - date published: 2023-10-25T10:55:48.058400+00:00
- - user: None
- - tags: $tags
-
-## Road & Track: Auto News, Reviews, and Car Culture
- - [https://www.roadandtrack.com](https://www.roadandtrack.com)
- - date published: 2023-10-25T10:55:46.397695+00:00
- - user: None
- - tags: $tags
-
-## Autoweek | Car Culture, Breaking Car News, Motorsports and Racing Headlines
- - [https://www.autoweek.com](https://www.autoweek.com)
- - date published: 2023-10-25T10:55:43.101600+00:00
- - user: None
- - tags: $tags
-
-## China Dialogue | China environment and climate news
- - [https://chinadialogue.net](https://chinadialogue.net)
- - date published: 2023-10-25T10:55:40.772242+00:00
- - user: None
- - tags: $tags
-
-## The China Project | Reporting on China without fear or favor
- - [https://thechinaproject.com](https://thechinaproject.com)
- - date published: 2023-10-25T10:55:29.873815+00:00
- - user: None
- - tags: $tags
-
-## HK, China, Asia news & opinion from SCMP’s global edition | South China Morning Post
- - [https://www.scmp.com](https://www.scmp.com)
- - date published: 2023-10-25T10:55:24.006811+00:00
- - user: None
- - tags: $tags
-
-## CnEVPost - China EV news, data, insights and more
- - [https://cnevpost.com](https://cnevpost.com)
- - date published: 2023-10-25T10:55:02.595046+00:00
- - user: None
- - tags: $tags
-
-## Global Edition
- - [https://global.chinadaily.com.cn](https://global.chinadaily.com.cn)
- - date published: 2023-10-25T10:54:54.979976+00:00
- - user: None
- - tags: $tags
-
-## Xinhua – China, World, Business, Sports, Photos and Video | English.news.cn
- - [https://english.news.cn](https://english.news.cn)
- - date published: 2023-10-25T10:54:50.659057+00:00
- - user: None
- - tags: $tags
-
-## Heatmap News
- - [https://heatmap.news](https://heatmap.news)
- - date published: 2023-10-25T10:54:47.126489+00:00
- - user: None
- - tags: $tags
-
-## Recharge | Latest renewable energy news
- - [https://www.rechargenews.com](https://www.rechargenews.com)
- - date published: 2023-10-25T10:54:44.339290+00:00
- - user: None
- - tags: $tags
-
-## NOEMA | Noema Magazine
- - [https://www.noemamag.com](https://www.noemamag.com)
- - date published: 2023-10-25T10:54:27.537584+00:00
- - user: None
- - tags: $tags
-
-## News - DeSmog
- - [http://www.desmog.com](http://www.desmog.com)
- - date published: 2023-10-25T10:54:20.656094+00:00
- - user: None
- - tags: $tags
-
-## Canary Media | Covering the clean energy transition
- - [https://www.canarymedia.com](https://www.canarymedia.com)
- - date published: 2023-10-25T10:54:13.458447+00:00
- - user: None
- - tags: $tags
-
-## ComicBook.com
- - [https://comicbook.com](https://comicbook.com)
- - date published: 2023-10-25T10:54:03.453020+00:00
- - user: None
- - tags: $tags
-
-## Shtetl - Haredi Free Press
- - [https://www.shtetl.org](https://www.shtetl.org)
- - date published: 2023-10-25T10:53:52.750732+00:00
- - user: None
- - tags: $tags
-
-## Zapato Productions intradimensional
- - [https://zapatopi.net](https://zapatopi.net)
- - date published: 2023-10-25T10:53:46.078510+00:00
- - user: None
- - tags: $tags
-
-## Finanse osobiste - rp.pl
- - [https://pieniadze.rp.pl](https://pieniadze.rp.pl)
- - date published: 2023-10-25T10:53:43.228098+00:00
- - user: None
- - tags: $tags
-
-## Crypto News - Latest Cryptocurrency News
- - [https://crypto.news](https://crypto.news)
- - date published: 2023-10-25T10:53:40.383937+00:00
- - user: None
- - tags: $tags
-
-## CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
- - [https://www.coindesk.com](https://www.coindesk.com)
- - date published: 2023-10-25T10:53:34.479334+00:00
- - user: None
- - tags: $tags
-
-## Cyclingnews | Cycling News, Race Results and Bike Reviews
- - [https://www.cyclingnews.com](https://www.cyclingnews.com)
- - date published: 2023-10-25T10:52:58.775912+00:00
- - user: None
- - tags: $tags
-
-## Core77 / Industrial Design Magazine + Resource
- - [https://www.core77.com](https://www.core77.com)
- - date published: 2023-10-25T10:52:48.337026+00:00
- - user: None
- - tags: $tags
-
-## Samsung Developers
- - [https://developer.samsung.com](https://developer.samsung.com)
- - date published: 2023-10-25T10:52:45.538672+00:00
- - user: None
- - tags: $tags
-
-## Home - Microsoft Community Hub
- - [https://techcommunity.microsoft.com](https://techcommunity.microsoft.com)
- - date published: 2023-10-25T10:52:42.152193+00:00
- - user: None
- - tags: $tags
-
-## Homepage - Source
- - [https://news.microsoft.com](https://news.microsoft.com)
- - date published: 2023-10-25T10:52:37.879287+00:00
- - user: None
- - tags: $tags
-
-## Money: Create Richer Lives for Everyone | Money
- - [https://money.com](https://money.com)
- - date published: 2023-10-25T10:52:33.649820+00:00
- - user: None
- - tags: $tags
-
-## The Economist | World News, Economics, Politics, Business & Finance
- - [https://www.economist.com](https://www.economist.com)
- - date published: 2023-10-25T10:52:28.321933+00:00
- - user: None
- - tags: $tags
-
-## Homepage | E+T Magazine
- - [https://eandt.theiet.org](https://eandt.theiet.org)
- - date published: 2023-10-25T10:52:21.940865+00:00
- - user: None
- - tags: $tags
-
-## London News | Weather & Local Breaking | CTV News London
- - [https://london.ctvnews.ca](https://london.ctvnews.ca)
- - date published: 2023-10-25T10:52:18.091793+00:00
- - user: None
- - tags: $tags
-
-## TV news, Movie News, Actor Facts, Things You Didn’t Know | TVovermind
- - [https://tvovermind.com](https://tvovermind.com)
- - date published: 2023-10-25T10:52:12.025157+00:00
- - user: None
- - tags: $tags
-
-## People.com | Celebrity News, Exclusives, Photos and Videos
- - [https://people.com](https://people.com)
- - date published: 2023-10-25T10:52:09.683787+00:00
- - user: None
- - tags: $tags
-
-## Page Six: Latest Celebrity News, Entertainment News & Gossip
- - [https://pagesix.com](https://pagesix.com)
- - date published: 2023-10-25T10:52:05.156137+00:00
- - user: None
- - tags: $tags
-
-## The Hollywood Reporter – Movie news, TV news, awards news, lifestyle news, business news and more from The Hollywood Reporter.
- - [https://www.hollywoodreporter.com](https://www.hollywoodreporter.com)
- - date published: 2023-10-25T10:51:28.356602+00:00
- - user: None
- - tags: $tags
-
-## HBO: Home to Groundbreaking Series, Movies, Comedies & Documentaries
- - [https://www.hbo.com](https://www.hbo.com)
- - date published: 2023-10-25T10:51:21.727029+00:00
- - user: None
- - tags: ['video streaming']
-
-## Entertainment News, Celebrity News, Celebrity Gossip - E! Online
- - [https://www.eonline.com](https://www.eonline.com)
- - date published: 2023-10-25T10:51:17.322617+00:00
- - user: None
- - tags: $tags
-
-## Den of Geek | The Best in TV, Movies, Games, Comics, and More!
- - [https://www.denofgeek.com](https://www.denofgeek.com)
- - date published: 2023-10-25T10:51:12.729993+00:00
- - user: None
- - tags: ['movies', 'fantasy', 'games', 'news']
-
-## Latest breaking news available as free video on demand | Euronews
- - [https://www.euronews.com](https://www.euronews.com)
- - date published: 2023-10-25T10:51:05.127933+00:00
- - user: None
- - tags: $tags
-
-## Homepage - Modern Farmer
- - [https://modernfarmer.com](https://modernfarmer.com)
- - date published: 2023-10-25T10:50:56.136058+00:00
- - user: None
- - tags: $tags
-
-## NPR - Breaking News, Analysis, Music, Arts & Podcasts : NPR
- - [https://feeds.npr.org](https://feeds.npr.org)
- - date published: 2023-10-25T10:50:53.329452+00:00
- - user: None
- - tags: $tags
-
-## The Epoch Times | Breaking News, Latest News, World News and Videos
- - [https://feed.theepochtimes.com](https://feed.theepochtimes.com)
- - date published: 2023-10-25T10:50:48.568852+00:00
- - user: None
- - tags: $tags
-
-## RSS Feeds - The New York Times
- - [https://rss.nytimes.com](https://rss.nytimes.com)
- - date published: 2023-10-25T10:50:36.082162+00:00
- - user: None
- - tags: $tags
-
-## http://feeds.nbcnews.com
- - [http://feeds.nbcnews.com](http://feeds.nbcnews.com)
- - date published: 2023-10-25T10:50:34.177268+00:00
- - user: None
- - tags: $tags
-
-## ABC News - Breaking News, Latest News and Videos
- - [http://feeds.abcnews.com](http://feeds.abcnews.com)
- - date published: 2023-10-25T10:50:33.309447+00:00
- - user: None
- - tags: $tags
-
-## France 24 - International breaking news, top stories and headlines
- - [https://www.france24.com](https://www.france24.com)
- - date published: 2023-10-25T10:50:28.450111+00:00
- - user: None
- - tags: $tags
-
-## TechRaptor - Gaming News and Reviews
- - [https://techraptor.net](https://techraptor.net)
- - date published: 2023-10-25T10:50:24.885098+00:00
- - user: None
- - tags: $tags
-
-## Eurogamer.net
- - [https://www.eurogamer.net](https://www.eurogamer.net)
- - date published: 2023-10-25T10:50:22.327629+00:00
- - user: None
- - tags: $tags
-
-## The Game Haus - Sports & Esports news, from our Haus to yours.
- - [https://thegamehaus.com](https://thegamehaus.com)
- - date published: 2023-10-25T10:50:18.776814+00:00
- - user: None
- - tags: $tags
-
-## Shacknews | Video Game Video Reviews, Celebrity Interviews, Strategy Videos, Original Content and More
- - [https://www.shacknews.com](https://www.shacknews.com)
- - date published: 2023-10-25T10:50:12.343927+00:00
- - user: None
- - tags: $tags
-
-## SamaGame – The Gaming News Arena – English
- - [https://samagame.com](https://samagame.com)
- - date published: 2023-10-25T10:50:09.269662+00:00
- - user: None
- - tags: $tags
-
-## Rock Paper Shotgun
- - [https://www.rockpapershotgun.com](https://www.rockpapershotgun.com)
- - date published: 2023-10-25T10:50:04.819629+00:00
- - user: None
- - tags: $tags
-
-## Polygon: Gaming and Entertainment News, Reviews, and More
- - [https://www.polygon.com](https://www.polygon.com)
- - date published: 2023-10-25T10:50:01.149258+00:00
- - user: None
- - tags: ['game news']
-
-## PCGamesN | PC gaming news, reviews, and guides
- - [https://www.pcgamesn.com](https://www.pcgamesn.com)
- - date published: 2023-10-25T10:49:52.311261+00:00
- - user: None
- - tags: ['game news']
-
-## PC Gamer
- - [https://www.pcgamer.com](https://www.pcgamer.com)
- - date published: 2023-10-25T10:49:45.933777+00:00
- - user: None
- - tags: $tags
-
-## Nintendo Life - Nintendo News & Reviews 24/7
- - [https://www.nintendolife.com](https://www.nintendolife.com)
- - date published: 2023-10-25T10:49:32.925053+00:00
- - user: None
- - tags: $tags
-
-## Nerd Bear
- - [https://nerdbear.com](https://nerdbear.com)
- - date published: 2023-10-25T10:49:27.454085+00:00
- - user: None
- - tags: $tags
-
-## My Nintendo News - Nintendo News
- - [https://mynintendonews.com](https://mynintendonews.com)
- - date published: 2023-10-25T10:49:12.686518+00:00
- - user: None
- - tags: $tags
-
-## Kotaku | Gaming Reviews, News, Tips and More.
- - [https://kotaku.com](https://kotaku.com)
- - date published: 2023-10-25T10:49:08.889355+00:00
- - user: None
- - tags: $tags
-
-## IGN Polska
- - [https://www.ign.com](https://www.ign.com)
- - date published: 2023-10-25T10:49:03.237738+00:00
- - user: None
- - tags: ['video games']
-
-## Linux, SteamOS, Steam Deck gaming | GamingOnLinux
- - [https://www.gamingonlinux.com](https://www.gamingonlinux.com)
- - date published: 2023-10-25T10:48:57.032223+00:00
- - user: None
- - tags: ['linux', 'game news']
-
-## GAMINGbible - Let's All Play
- - [https://www.gamingbible.com](https://www.gamingbible.com)
- - date published: 2023-10-25T10:48:48.447960+00:00
- - user: None
- - tags: $tags
-
-## GameWorldObserver.com: online magazine about video games industry
- - [https://gameworldobserver.com](https://gameworldobserver.com)
- - date published: 2023-10-25T10:48:43.476844+00:00
- - user: None
- - tags: $tags
-
-## GameWatcher: Video Game News, Reviews, and Guides. | GameWatcher
- - [https://www.gamewatcher.com](https://www.gamewatcher.com)
- - date published: 2023-10-25T10:48:40.077724+00:00
- - user: None
- - tags: $tags
-
-## GamesRadar+
- - [https://www.gamesradar.com](https://www.gamesradar.com)
- - date published: 2023-10-25T10:48:35.931056+00:00
- - user: None
- - tags: $tags
-
-## Video Games Reviews & News - GameSpot
- - [https://www.gamespot.com](https://www.gamespot.com)
- - date published: 2023-10-25T10:48:12.023848+00:00
- - user: None
- - tags: ['game news']
-
-## Home - Gameranx
- - [https://gameranx.com](https://gameranx.com)
- - date published: 2023-10-25T10:48:01.663782+00:00
- - user: None
- - tags: $tags
-
-## Game Developer
- - [https://www.gamedeveloper.com](https://www.gamedeveloper.com)
- - date published: 2023-10-25T10:47:56.348736+00:00
- - user: None
- - tags: $tags
-
-## The Escapist
- - [https://www.escapistmagazine.com](https://www.escapistmagazine.com)
- - date published: 2023-10-25T10:47:48.734347+00:00
- - user: None
- - tags: $tags
-
-## Dexerto: Esports, Gaming & Influencer News, Interviews and Analysis
- - [https://www.dexerto.com](https://www.dexerto.com)
- - date published: 2023-10-25T10:47:44.289737+00:00
- - user: None
- - tags: $tags
-
-## Mobile games industry news and insights - Mobilegamer.biz
- - [https://mobilegamer.biz](https://mobilegamer.biz)
- - date published: 2023-10-25T10:47:38.913934+00:00
- - user: None
- - tags: $tags
-
-## GamesIndustry.biz
- - [https://www.gamesindustry.biz](https://www.gamesindustry.biz)
- - date published: 2023-10-25T10:47:30.738123+00:00
- - user: None
- - tags: $tags
-
-## Kotaku Australia | See Games Differently
- - [https://www.kotaku.com.au](https://www.kotaku.com.au)
- - date published: 2023-10-25T10:47:22.630047+00:00
- - user: None
- - tags: $tags
-
-## USNI News - Maritime News and Analysis
- - [https://news.usni.org](https://news.usni.org)
- - date published: 2023-10-25T10:47:11.011084+00:00
- - user: None
- - tags: $tags
-
-## Welcome to the LEB website — LEB
- - [https://leb.fbi.gov](https://leb.fbi.gov)
- - date published: 2023-10-25T10:47:03.596512+00:00
- - user: None
- - tags: $tags
-
-## Retro Dodo - Retro Gaming Reviews & News
- - [https://retrododo.com](https://retrododo.com)
- - date published: 2023-10-25T10:46:34.000501+00:00
- - user: None
- - tags: ['retro game', 'game news']
-
-## Electronics Weekly: Design, Components, Tech & Business News
- - [https://www.electronicsweekly.com](https://www.electronicsweekly.com)
- - date published: 2023-10-25T10:46:26.227627+00:00
- - user: None
- - tags: $tags
-
-## Amitopia - Amiga Magazine | MorphOS | AROS | Classic
- - [https://amitopia.com](https://amitopia.com)
- - date published: 2023-10-25T10:46:19.496715+00:00
- - user: None
- - tags: $tags
-
-## STAT - Reporting from the frontiers of health and medicine
- - [https://www.statnews.com](https://www.statnews.com)
- - date published: 2023-10-25T10:46:15.019573+00:00
- - user: None
- - tags: $tags
-
-## Medical Xpress - medical research advances and health news
- - [https://medicalxpress.com](https://medicalxpress.com)
- - date published: 2023-10-25T10:46:01.116429+00:00
- - user: None
- - tags: $tags
-
-## Endpoints News – Biotech, drug, pharma and health news for business and professional readers
- - [https://endpts.com](https://endpts.com)
- - date published: 2023-10-25T10:45:49.631839+00:00
- - user: None
- - tags: $tags
-
-## CMAJ
- - [https://www.cmaj.ca](https://www.cmaj.ca)
- - date published: 2023-10-25T10:45:45.207661+00:00
- - user: None
- - tags: $tags
-
-## Retronauta
- - [http://www.retronauta.pl](http://www.retronauta.pl)
- - date published: 2023-10-25T10:45:39.916912+00:00
- - user: None
- - tags: $tags
-
-## | Lapham’s Quarterly
- - [https://www.laphamsquarterly.org](https://www.laphamsquarterly.org)
- - date published: 2023-10-25T10:45:33.434280+00:00
- - user: None
- - tags: $tags
-
-## Budowa domu, instalacje, wnętrza, fachowe porady - murator.pl
- - [https://muratordom.pl](https://muratordom.pl)
- - date published: 2023-10-25T10:45:29.322315+00:00
- - user: None
- - tags: $tags
-
-## News: Latest News, India News, World News, Opinion, Politics, Governance, Defence, Economy, Education | ThePrint
- - [https://theprint.in](https://theprint.in)
- - date published: 2023-10-25T10:45:20.955349+00:00
- - user: None
- - tags: $tags
-
-## WION: Breaking News, Latest News, World, South Asia, India, Pakistan, Bangladesh News & Analysis - Latest World News
- - [https://www.wionews.com](https://www.wionews.com)
- - date published: 2023-10-25T10:45:15.167046+00:00
- - user: None
- - tags: $tags
-
-## Breaking News Today, Top Headlines, Live Updates | The Hindu
- - [https://www.thehindu.com](https://www.thehindu.com)
- - date published: 2023-10-25T10:45:05.654304+00:00
- - user: None
- - tags: $tags
-
-## News - Latest News, Breaking News, Bollywood, Sports, Business and Political News | Times of India
- - [https://timesofindia.indiatimes.com](https://timesofindia.indiatimes.com)
- - date published: 2023-10-25T10:44:59.229471+00:00
- - user: None
- - tags: $tags
-
-## News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times
- - [https://www.hindustantimes.com](https://www.hindustantimes.com)
- - date published: 2023-10-25T10:44:25.190390+00:00
- - user: None
- - tags: $tags
-
-## Business News Today - Read Business News, India News, LIVE Share Market News Updates, Economy, Sensex, NIFTY News | CNBCTV18
- - [https://www.cnbctv18.com](https://www.cnbctv18.com)
- - date published: 2023-10-25T10:44:16.268604+00:00
- - user: None
- - tags: $tags
-
-## ABP News LIVE, Latest News, Breaking News, Top Headlines, India News Today - ABP LIVE
- - [https://news.abplive.com](https://news.abplive.com)
- - date published: 2023-10-25T10:43:44.721760+00:00
- - user: None
- - tags: $tags
-
-## The Irish Times | Latest news and headlines - Irish news, world news, video and podcasts
- - [https://www.irishtimes.com](https://www.irishtimes.com)
- - date published: 2023-10-25T10:43:28.313212+00:00
- - user: None
- - tags: $tags
-
-## Irish News
- - [https://www.irishnews.com](https://www.irishnews.com)
- - date published: 2023-10-25T10:43:13.661606+00:00
- - user: None
- - tags: $tags
-
-## IrishCentral - Your daily source for everything Irish | IrishCentral.com
- - [https://www.irishcentral.com](https://www.irishcentral.com)
- - date published: 2023-10-25T10:43:06.219945+00:00
- - user: None
  - tags: $tags
 
-## IraqiNews | Latest News Coverage From Iraq and Worldwide
- - [https://www.iraqinews.com](https://www.iraqinews.com)
- - date published: 2023-10-25T10:42:55.180340+00:00
+## Private Jet Emissions - ClimateJets
+ - [https://climatejets.org](https://climatejets.org)
+ - date published: 2023-10-25T21:07:55.534132+00:00
  - user: None
  - tags: $tags
 
-## Middle East and Israel News | All Breaking News | The Jerusalem Post
- - [https://www.jpost.com](https://www.jpost.com)
- - date published: 2023-10-25T10:42:19.438893+00:00
+## Climate Reanalyzer
+ - [https://climatereanalyzer.org](https://climatereanalyzer.org)
+ - date published: 2023-10-25T21:07:56.503114+00:00
  - user: None
  - tags: $tags
 
-## Haaretz | Israel News, the Middle East and the Jewish World - Haaretz.com
- - [https://www.haaretz.com](https://www.haaretz.com)
- - date published: 2023-10-25T10:41:43.834801+00:00
+## Climate Intelligence (CLINTEL) climate change and climate policy
+ - [https://clintel.org](https://clintel.org)
+ - date published: 2023-10-25T21:07:59.294966+00:00
  - user: None
  - tags: $tags
 
-## Kyodo News+ | Japan's leading news agency.
- - [https://english.kyodonews.net](https://english.kyodonews.net)
- - date published: 2023-10-25T10:41:39.108752+00:00
+## Clojure
+ - [https://clojure.org](https://clojure.org)
+ - date published: 2023-10-25T21:08:00.189323+00:00
  - user: None
  - tags: $tags
 
-## The Japan News - News from Japan, Breaking News, Politics, Economy, Culture - ジャパンニューズ
- - [https://japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp)
- - date published: 2023-10-25T10:41:33.380163+00:00
+## The Cloud Appreciation Society - Cloud Appreciation Society
+ - [https://cloudappreciationsociety.org](https://cloudappreciationsociety.org)
+ - date published: 2023-10-25T21:08:02.476071+00:00
  - user: None
  - tags: $tags
 
-## The Japan Times - News On Japan, Business News, Opinion, Sports, Entertainment And More
- - [https://www.japantimes.co.jp](https://www.japantimes.co.jp)
- - date published: 2023-10-25T10:41:22.679546+00:00
+## CloudNativeFolks Community
+ - [https://blog.cloudnativefolks.org](https://blog.cloudnativefolks.org)
+ - date published: 2023-10-25T21:08:05.587610+00:00
  - user: None
  - tags: $tags
 
-## Tokyo Weekender | Japan's No.1 English Lifestyle Magazine
- - [https://www.tokyoweekender.com](https://www.tokyoweekender.com)
- - date published: 2023-10-25T10:41:20.902583+00:00
+## Homepage - Club of Rome
+ - [https://www.clubofrome.org](https://www.clubofrome.org)
+ - date published: 2023-10-25T21:08:08.943550+00:00
  - user: None
  - tags: $tags
 
-## Nikkei Asia
-                            - Business, Politics, Economy and Tech News & Analysis
- - [https://asia.nikkei.com](https://asia.nikkei.com)
- - date published: 2023-10-25T10:41:13.768215+00:00
+## 澳门尼斯人娱乐网站(中国)有限公司
+ - [http://www.coalpha.org](http://www.coalpha.org)
+ - date published: 2023-10-25T21:08:11.357157+00:00
  - user: None
  - tags: $tags
 
-## Japan Today
- - [https://japantoday.com](https://japantoday.com)
- - date published: 2023-10-25T10:41:08.020128+00:00
+## Cockpit Project — Cockpit Project
+ - [https://cockpit-project.org](https://cockpit-project.org)
+ - date published: 2023-10-25T21:08:15.983483+00:00
  - user: None
  - tags: $tags
 
-## The Spectator
- - [https://www.spectator.co.uk](https://www.spectator.co.uk)
- - date published: 2023-10-25T10:41:04.799652+00:00
+## Codeberg News
+ - [https://blog.codeberg.org](https://blog.codeberg.org)
+ - date published: 2023-10-25T21:08:17.151581+00:00
  - user: None
  - tags: $tags
 
-## Spider’s Web
- - [https://spidersweb.pl](https://spidersweb.pl)
- - date published: 2023-10-25T10:40:53.865008+00:00
+## Codeberg.org
+ - [https://codeberg.org](https://codeberg.org)
+ - date published: 2023-10-25T21:08:17.885638+00:00
  - user: None
  - tags: $tags
 
-## Rzeczpospolita - Najważniejsze wiadomości z Polski i ze świata - rp.pl
- - [https://www.rp.pl](https://www.rp.pl)
- - date published: 2023-10-25T10:40:32.923269+00:00
+## CodeLite • A free, Open Source, Cross Platform C,C++,PHP and Node.js IDE
+ - [https://codelite.org](https://codelite.org)
+ - date published: 2023-10-25T08:33:37.426532+00:00
  - user: None
  - tags: $tags
 
-## Magazyn Sukces – magazyn „Rzeczpospolitej”. Styl życia, moda, kuchnia, design, trendy i rozmowy z ludźmi sukcesu. - rp.pl
- - [https://sukces.rp.pl](https://sukces.rp.pl)
- - date published: 2023-10-25T10:40:27.899274+00:00
+## cohost!
+ - [https://cohost.org](https://cohost.org)
+ - date published: 2023-10-25T21:08:19.011517+00:00
  - user: None
  - tags: $tags
 
-## Logistyka - rp.pl
- - [https://logistyka.rp.pl](https://logistyka.rp.pl)
- - date published: 2023-10-25T10:40:25.335737+00:00
+## News and Press Releases - Newsroom | College Board
+ - [https://newsroom.collegeboard.org](https://newsroom.collegeboard.org)
+ - date published: 2023-10-25T21:08:21.056798+00:00
  - user: None
  - tags: $tags
 
-## Klub ekspertów - rp.pl
- - [https://klubekspertow.rp.pl](https://klubekspertow.rp.pl)
- - date published: 2023-10-25T10:40:22.494044+00:00
+## https://histmed.collegeofphysicians.org
+ - [https://histmed.collegeofphysicians.org](https://histmed.collegeofphysicians.org)
+ - date published: 2023-10-25T21:08:24.028256+00:00
  - user: None
  - tags: $tags
 
-## Edukacja.rp.pl – serwis oświatowy „Rzeczpospolitej” - rp.pl
- - [https://edukacja.rp.pl](https://edukacja.rp.pl)
- - date published: 2023-10-25T10:40:20.011316+00:00
+## Columbia Law Review -
+ - [https://columbialawreview.org](https://columbialawreview.org)
+ - date published: 2023-10-25T21:08:25.935513+00:00
  - user: None
  - tags: $tags
 
-## Zdrowie: choroby, objawy, badania, leczenie, diety, koronawirus | Zdrowie Radio ZET
- - [https://zdrowie.radiozet.pl](https://zdrowie.radiozet.pl)
- - date published: 2023-10-25T10:40:17.701787+00:00
+## Home - Comment Magazine
+ - [https://comment.org](https://comment.org)
+ - date published: 2023-10-25T21:08:30.947601+00:00
  - user: None
  - tags: $tags
 
-## Undark Magazine | Truth, Beauty, Science.
- - [https://undark.org](https://undark.org)
- - date published: 2023-10-25T10:40:08.530856+00:00
+## Commentary Magazine - conservative Jewish thought & opinion
+ - [https://www.commentary.org](https://www.commentary.org)
+ - date published: 2023-10-25T21:08:33.471629+00:00
  - user: None
  - tags: $tags
 
-## First Monday
- - [https://firstmonday.org](https://firstmonday.org)
- - date published: 2023-10-25T10:40:03.231308+00:00
+## Home - Fairplay
+ - [https://commercialfreechildhood.org](https://commercialfreechildhood.org)
+ - date published: 2023-10-25T21:08:43.347861+00:00
  - user: None
  - tags: $tags
 
@@ -2393,1945 +636,111 @@
  - user: None
  - tags: $tags
 
-## Summit News - News From The Summit
- - [https://summit.news](https://summit.news)
- - date published: 2023-10-25T10:39:55.843611+00:00
+## Common Edge
+ - [https://commonedge.org](https://commonedge.org)
+ - date published: 2023-10-25T11:25:25.464212+00:00
  - user: None
  - tags: $tags
 
-## Home
- - [https://rmx.news](https://rmx.news)
- - date published: 2023-10-25T10:39:52.865910+00:00
+## CommonMark
+ - [https://commonmark.org](https://commonmark.org)
+ - date published: 2023-10-25T21:08:49.047103+00:00
  - user: None
  - tags: $tags
 
-## scoop.me - Share it. Translate it. Republish it.
- - [https://scoop.me](https://scoop.me)
- - date published: 2023-10-25T10:39:44.099392+00:00
+## Commonweal Magazine | Religion, Politics, Culture
+ - [https://www.commonwealmagazine.org](https://www.commonwealmagazine.org)
+ - date published: 2023-10-25T21:08:58.637923+00:00
  - user: None
  - tags: $tags
 
-## The MIT Press Reader
- - [https://thereader.mitpress.mit.edu](https://thereader.mitpress.mit.edu)
- - date published: 2023-10-25T10:39:41.389672+00:00
+## CommunityWiki: Front Page
+ - [https://communitywiki.org](https://communitywiki.org)
+ - date published: 2023-10-25T21:09:04.403232+00:00
  - user: None
  - tags: $tags
 
-## Vox - Our world, explained
- - [https://www.vox.com](https://www.vox.com)
- - date published: 2023-10-25T10:39:39.512845+00:00
+## Compassion & Choices | End-of-Life Resources
+ - [https://www.compassionandchoices.org](https://www.compassionandchoices.org)
+ - date published: 2023-10-25T21:09:12.683102+00:00
  - user: None
  - tags: $tags
 
-## Visual Capitalist
- - [https://www.visualcapitalist.com](https://www.visualcapitalist.com)
- - date published: 2023-10-25T10:39:33.539082+00:00
+## The Changelog | Comments on family, technology, and society
+ - [https://changelog.complete.org](https://changelog.complete.org)
+ - date published: 2023-10-25T21:09:18.866235+00:00
  - user: None
  - tags: $tags
 
-## The Week | All you need to know about everything that matters
- - [https://theweek.com](https://theweek.com)
- - date published: 2023-10-25T10:39:27.419795+00:00
+## www.complete.org
+ - [https://www.complete.org](https://www.complete.org)
+ - date published: 2023-10-25T21:09:19.979371+00:00
  - user: None
  - tags: $tags
 
-## Your Source for Trusted and Unbiased News - The Messenger
- - [https://themessenger.com](https://themessenger.com)
- - date published: 2023-10-25T10:39:22.548539+00:00
+## Compoze
+ - [https://www.compoze.org](https://www.compoze.org)
+ - date published: 2023-10-25T21:09:21.237236+00:00
  - user: None
  - tags: $tags
 
-## The Epoch Times | Breaking News, Latest News, World News and Videos
- - [http://www.theepochtimes.com](http://www.theepochtimes.com)
- - date published: 2023-10-25T10:39:18.833935+00:00
+## Computational Complexity
+ - [https://blog.computationalcomplexity.org](https://blog.computationalcomplexity.org)
+ - date published: 2023-10-25T21:09:31.458721+00:00
  - user: None
  - tags: $tags
 
-## History, Travel, Arts, Science, People, Places Smithsonian Magazine
- - [https://www.smithsonianmag.com](https://www.smithsonianmag.com)
- - date published: 2023-10-25T10:38:59.050420+00:00
+## IEEE Computer Society
+ - [https://www.computer.org](https://www.computer.org)
+ - date published: 2023-10-25T21:09:38.026804+00:00
  - user: None
  - tags: $tags
 
-## Semafor - An intelligent, transparent global news platform for breaking stories, analysis and video
- - [https://www.semafor.com](https://www.semafor.com)
- - date published: 2023-10-25T10:38:55.032682+00:00
+## Home - CHM
+ - [https://computerhistory.org](https://computerhistory.org)
+ - date published: 2023-10-25T21:09:43.375622+00:00
  - user: None
  - tags: $tags
 
-## Las Vegas News | Breaking News & Headlines | Las Vegas Review-Journal
- - [https://www.reviewjournal.com](https://www.reviewjournal.com)
- - date published: 2023-10-25T10:38:52.009999+00:00
+## facebook-f icon
+ - [https://info.computerhistory.org](https://info.computerhistory.org)
+ - date published: 2023-10-25T21:09:49.791311+00:00
  - user: None
  - tags: $tags
 
-## Reuters | Breaking International News & Views
- - [https://www.reuters.com](https://www.reuters.com)
- - date published: 2023-10-25T10:38:41.639140+00:00
+## http://s3data.computerhistory.org
+ - [http://s3data.computerhistory.org](http://s3data.computerhistory.org)
+ - date published: 2023-10-25T21:09:53.523928+00:00
  - user: None
  - tags: $tags
 
-## realclearpolitics.com
- - [https://www.realclearpolitics.com](https://www.realclearpolitics.com)
- - date published: 2023-10-25T10:38:12.491250+00:00
+## Home - CHM
+ - [https://www.computerhistory.org](https://www.computerhistory.org)
+ - date published: 2023-10-25T21:09:57.418860+00:00
  - user: None
  - tags: $tags
 
-## Racquet Magazine
- - [https://racquetmag.com](https://racquetmag.com)
- - date published: 2023-10-25T10:38:11.466554+00:00
+## I'm getting some serious “Darmok and Jalad at Tanagra” vibes from this card magic book - The Boston Diaries - Captain Napalm
+ - [https://boston.conman.org](https://boston.conman.org)
+ - date published: 2023-10-25T21:10:01.402711+00:00
  - user: None
  - tags: $tags
 
-## pokolenieX
- - [https://www.pokoleniex.com](https://www.pokoleniex.com)
- - date published: 2023-10-25T10:38:07.920804+00:00
+## Conservative Institute
+ - [https://conservativeinstitute.org](https://conservativeinstitute.org)
+ - date published: 2023-10-25T21:10:09.601436+00:00
  - user: None
  - tags: $tags
 
-## Pluralist - Home
- - [https://pluralist.com](https://pluralist.com)
- - date published: 2023-10-25T10:38:01.680110+00:00
+## The National Constitution Center
+ - [https://constitutioncenter.org](https://constitutioncenter.org)
+ - date published: 2023-10-25T21:10:11.326457+00:00
  - user: None
  - tags: $tags
 
-## News, data and insight about the powerful forces that shape the world. | Observer
- - [https://observer.com](https://observer.com)
- - date published: 2023-10-25T10:37:59.004949+00:00
- - user: None
- - tags: $tags
-
-## New York Magazine
- - [https://nymag.com](https://nymag.com)
- - date published: 2023-10-25T10:37:51.311890+00:00
- - user: None
- - tags: $tags
-
-## The Limited Times
- - [https://newsrnd.com](https://newsrnd.com)
- - date published: 2023-10-25T10:37:43.064262+00:00
- - user: None
- - tags: $tags
-
-## NewsGuard - Transparent Reliability Ratings for News and Information Sources
- - [https://www.newsguardtech.com](https://www.newsguardtech.com)
- - date published: 2023-10-25T10:37:35.478414+00:00
- - user: None
- - tags: $tags
-
-## JAMA Network | Home of JAMA and the Specialty Journals of the American Medical Association
- - [https://jamanetwork.com](https://jamanetwork.com)
- - date published: 2023-10-25T10:37:31.521043+00:00
- - user: None
- - tags: $tags
-
-## Estonian World
- - [https://estonianworld.com](https://estonianworld.com)
- - date published: 2023-10-25T10:37:26.564767+00:00
- - user: None
- - tags: $tags
-
-## Chicago Tribune: Chicago news, sports, weather, entertainment - Chicago Tribune
- - [https://www.chicagotribune.com](https://www.chicagotribune.com)
- - date published: 2023-10-25T10:37:22.041466+00:00
- - user: None
- - tags: $tags
-
-## BNO News - Breaking News, Developing Stories, Latest News Videos
- - [https://bnonews.com](https://bnonews.com)
- - date published: 2023-10-25T10:37:15.012724+00:00
- - user: None
- - tags: $tags
-
-## The BMJ: Leading Medical Research, News, Education, Opinion
- - [https://www.bmj.com](https://www.bmj.com)
- - date published: 2023-10-25T10:37:05.210940+00:00
- - user: None
- - tags: $tags
-
-## BMJ Blogs  BMJ Blogs - Insights and opinion on the latest news and research
- - [https://blogs.bmj.com](https://blogs.bmj.com)
- - date published: 2023-10-25T10:36:56.482885+00:00
- - user: None
- - tags: $tags
-
-## Homepage | BJSM
- - [https://bjsm.bmj.com](https://bjsm.bmj.com)
- - date published: 2023-10-25T10:36:52.375517+00:00
- - user: None
- - tags: $tags
-
-## Biometric Update: Biometrics News, Companies and Explainers
- - [https://www.biometricupdate.com](https://www.biometricupdate.com)
- - date published: 2023-10-25T10:36:49.502438+00:00
- - user: None
- - tags: $tags
-
-## https://www.axios.com
- - [https://www.axios.com](https://www.axios.com)
- - date published: 2023-10-25T10:36:43.619164+00:00
- - user: None
- - tags: $tags
-
-## Asterisk
- - [https://asteriskmag.com](https://asteriskmag.com)
- - date published: 2023-10-25T10:36:42.137629+00:00
- - user: None
- - tags: $tags
-
-## AnandTech: Hardware News and Tech Reviews Since 1997
- - [https://www.anandtech.com](https://www.anandtech.com)
- - date published: 2023-10-25T10:36:40.104893+00:00
- - user: None
- - tags: $tags
-
-## Global News | Breaking, Latest News and Video for Canada
- - [https://globalnews.ca](https://globalnews.ca)
- - date published: 2023-10-25T10:36:35.873873+00:00
- - user: None
- - tags: $tags
-
-## Bloomberg Law News
- - [https://news.bloomberglaw.com](https://news.bloomberglaw.com)
- - date published: 2023-10-25T10:36:09.827486+00:00
- - user: None
- - tags: $tags
-
-## Linux Today: Linux News, Tutorials & Guides for 2022
- - [https://www.linuxtoday.com](https://www.linuxtoday.com)
- - date published: 2023-10-25T10:36:02.093653+00:00
- - user: None
- - tags: $tags
-
-## 9to5Linux - Linux news, reviews, tutorials, and more
- - [https://9to5linux.com](https://9to5linux.com)
- - date published: 2023-10-25T10:35:55.257332+00:00
- - user: None
- - tags: $tags
-
-## Literary  Hub
- - [https://lithub.com](https://lithub.com)
- - date published: 2023-10-25T10:35:52.495629+00:00
- - user: None
- - tags: $tags
-
-## Sosnowiec.Wyborcza.pl- Najnowsze wiadomo¶ci z Sosnowca
- - [https://sosnowiec.wyborcza.pl](https://sosnowiec.wyborcza.pl)
- - date published: 2023-10-25T10:35:47.645864+00:00
- - user: None
- - tags: $tags
-
-## The Seattle Times | Local news, sports, business, politics, entertainment, travel, restaurants and opinion for Seattle and the Pacific Northwest.
- - [https://www.seattletimes.com](https://www.seattletimes.com)
- - date published: 2023-10-25T10:35:40.719975+00:00
- - user: None
- - tags: $tags
-
-## State College Breaking News & Sports | Centre Daily Times
- - [https://www.centredaily.com](https://www.centredaily.com)
- - date published: 2023-10-25T10:35:34.800217+00:00
- - user: None
- - tags: $tags
-
-## American Journal of Transportation | AJOT.COM
- - [https://www.ajot.com](https://www.ajot.com)
- - date published: 2023-10-25T10:35:31.781369+00:00
- - user: None
- - tags: $tags
-
-## The Times & The Sunday Times: breaking news & today's latest headlines
- - [https://www.thetimes.co.uk](https://www.thetimes.co.uk)
- - date published: 2023-10-25T10:35:26.642341+00:00
- - user: None
- - tags: $tags
-
-## The Telegraph - Telegraph Online, Daily Telegraph, Sunday Telegraph - Telegraph
- - [https://www.telegraph.co.uk](https://www.telegraph.co.uk)
- - date published: 2023-10-25T10:35:17.081088+00:00
- - user: None
- - tags: $tags
-
-## UK Home | Daily Mail Online
- - [https://www.dailymail.co.uk](https://www.dailymail.co.uk)
- - date published: 2023-10-25T10:35:12.125790+00:00
- - user: None
- - tags: $tags
-
-## BBC - Home
- - [https://www.bbc.co.uk](https://www.bbc.co.uk)
- - date published: 2023-10-25T10:34:51.357017+00:00
- - user: None
- - tags: $tags
-
-## Home - BBC News
- - [https://news.bbc.co.uk](https://news.bbc.co.uk)
- - date published: 2023-10-25T10:34:44.046411+00:00
- - user: None
- - tags: $tags
-
-## TVN Zdrowie - wszystko o zdrowiu i medycynie
- - [https://zdrowietvn.pl](https://zdrowietvn.pl)
- - date published: 2023-10-25T10:34:35.348293+00:00
- - user: None
- - tags: $tags
-
-## WPROST.pl - Polska i świat, historia, polityka, biznes, kultura
- - [https://www.wprost.pl](https://www.wprost.pl)
- - date published: 2023-10-25T10:34:32.684573+00:00
- - user: None
- - tags: $tags
-
-## Biznes Wprost
- - [https://biznes.wprost.pl](https://biznes.wprost.pl)
- - date published: 2023-10-25T10:34:24.284061+00:00
- - user: None
- - tags: $tags
-
-## Wiadomości z Polski i ze świata
- - [https://wpolityce.pl](https://wpolityce.pl)
- - date published: 2023-10-25T10:34:21.566093+00:00
- - user: None
- - tags: $tags
-
-## Wirtualna Polska - Wszystko co ważne - www.wp.pl
- - [https://www.wp.pl](https://www.wp.pl)
- - date published: 2023-10-25T10:34:14.164674+00:00
- - user: None
- - tags: ['news']
-
-## Wiadomości z kraju i ze świata – wszystko co ważne – WP
- - [https://wiadomosci.wp.pl](https://wiadomosci.wp.pl)
- - date published: 2023-10-25T10:33:51.760182+00:00
- - user: None
- - tags: $tags
-
-## WP Teleshow
- - [https://teleshow.wp.pl](https://teleshow.wp.pl)
- - date published: 2023-10-25T10:33:47.363720+00:00
- - user: None
- - tags: $tags
-
-## Sport w WP SportoweFakty - wiadomości sportowe, relacje na żywo, wyniki
- - [https://sportowefakty.wp.pl](https://sportowefakty.wp.pl)
- - date published: 2023-10-25T10:33:44.154861+00:00
- - user: None
- - tags: $tags
-
-## Media, Reklama, Internet, PR, Telewizja, Radio - najnowsze wiadomości tylko na WirtualneMedia.pl
- - [https://www.wirtualnemedia.pl](https://www.wirtualnemedia.pl)
- - date published: 2023-10-25T10:33:38.734555+00:00
- - user: None
- - tags: $tags
-
-## Wiadomości z kraju i ze świata - najnowsze informacje w TVN24 - TVN24
- - [https://tvn24.pl](https://tvn24.pl)
- - date published: 2023-10-25T10:33:33.358909+00:00
- - user: None
- - tags: $tags
-
-## Konkret24 – weryfikacja fake news, fact-checking, analiza informacji z sieci - Konkret24
- - [https://konkret24.tvn24.pl](https://konkret24.tvn24.pl)
- - date published: 2023-10-25T10:33:26.147699+00:00
- - user: None
- - tags: $tags
-
-## Fakty, Fakty TVN - oficjalna strona Faktów. Warto wiedzieć więcej.
- - [https://fakty.tvn24.pl](https://fakty.tvn24.pl)
- - date published: 2023-10-25T10:33:15.760218+00:00
- - user: None
- - tags: $tags
-
-## Wiadomości, live streaming i wyniki - Eurosport
- - [https://eurosport.tvn24.pl](https://eurosport.tvn24.pl)
- - date published: 2023-10-25T10:33:11.405671+00:00
- - user: None
- - tags: $tags
-
-## Regiony - rp.pl
- - [https://regiony.rp.pl](https://regiony.rp.pl)
- - date published: 2023-10-25T10:33:05.725498+00:00
- - user: None
- - tags: $tags
-
-## Przemysł Zbrojeniowy - rp.pl
- - [https://radar.rp.pl](https://radar.rp.pl)
- - date published: 2023-10-25T10:33:03.068795+00:00
- - user: None
- - tags: $tags
-
-## Motoryzacja - rp.pl
- - [https://moto.rp.pl](https://moto.rp.pl)
- - date published: 2023-10-25T10:33:00.729873+00:00
- - user: None
- - tags: $tags
-
-## kobieta.rp.pl – Serwis o kobietach odnoszących sukcesy. Motywacja, inspiracja, relaks - rp.pl
- - [https://kobieta.rp.pl](https://kobieta.rp.pl)
- - date published: 2023-10-25T10:32:52.288073+00:00
- - user: None
- - tags: $tags
-
-## Klimat - rp.pl
- - [http://klimat.rp.pl](http://klimat.rp.pl)
- - date published: 2023-10-25T10:32:49.543723+00:00
- - user: None
- - tags: $tags
-
-## Firma - rp.pl
- - [https://firma.rp.pl](https://firma.rp.pl)
- - date published: 2023-10-25T10:32:46.866764+00:00
- - user: None
- - tags: $tags
-
-## Energetyka - rp.pl
- - [https://energia.rp.pl](https://energia.rp.pl)
- - date published: 2023-10-25T10:32:43.332278+00:00
- - user: None
- - tags: $tags
-
-## Cyfrowa - rp.pl
- - [https://cyfrowa.rp.pl](https://cyfrowa.rp.pl)
- - date published: 2023-10-25T10:32:40.046489+00:00
- - user: None
- - tags: $tags
-
-## Najnowsze wiadomości z kraju i ze świata - Polsat News
- - [https://www.polsatnews.pl](https://www.polsatnews.pl)
- - date published: 2023-10-25T10:32:34.452899+00:00
- - user: None
- - tags: $tags
-
-## Polityka.pl - serwis internetowy tygodnika Polityka
- - [https://www.polityka.pl](https://www.polityka.pl)
- - date published: 2023-10-25T10:32:24.052562+00:00
- - user: None
- - tags: $tags
-
-## https://www.pap.pl
- - [https://www.pap.pl](https://www.pap.pl)
- - date published: 2023-10-25T10:32:11.461110+00:00
- - user: None
- - tags: $tags
-
-## Onet – Jesteś na bieżąco
- - [https://www.onet.pl](https://www.onet.pl)
- - date published: 2023-10-25T10:32:07.223794+00:00
- - user: None
- - tags: $tags
-
-## Wiadomości -
-        
-        Wiadomości w Onet - Najnowsze i Najważniejsze Wiadomości z Kraju i Świata
- - [https://wiadomosci.onet.pl](https://wiadomosci.onet.pl)
- - date published: 2023-10-25T10:32:01.945249+00:00
- - user: None
- - tags: $tags
-
-## Kobieta -
-        
-        Kobieta - Porady dla Kobiet, Forum Uroda, Moda Damska i Trendy, Horoskop Codzienny
- - [https://kobieta.onet.pl](https://kobieta.onet.pl)
- - date published: 2023-10-25T10:31:51.351331+00:00
- - user: None
- - tags: $tags
-
-## o2 - Serce Internetu
- - [https://www.o2.pl](https://www.o2.pl)
- - date published: 2023-10-25T10:31:48.980569+00:00
- - user: None
- - tags: ['news']
-
-## Money.pl - portal finansowy
- - [https://www.money.pl](https://www.money.pl)
- - date published: 2023-10-25T10:31:43.454780+00:00
- - user: None
- - tags: $tags
-
-## WYDARZENIA w INTERIA.PL - najnowsze wiadomości z Polski i świata, polityka, wydarzenia dnia i najważniejsze informacje, zawsze aktualne wiadomości
- - [https://wydarzenia.interia.pl](https://wydarzenia.interia.pl)
- - date published: 2023-10-25T10:31:39.986701+00:00
- - user: None
- - tags: $tags
-
-## Motoryzacja w INTERIA.PL - auto moto wiadomości, aktualności, wydarzenia i porady motoryzacyjne
- - [https://motoryzacja.interia.pl](https://motoryzacja.interia.pl)
- - date published: 2023-10-25T10:31:39.366002+00:00
- - user: None
- - tags: $tags
-
-## GeekWeek w INTERIA.PL – technologie, nauka, lifestyle i podróże
- - [https://geekweek.interia.pl](https://geekweek.interia.pl)
- - date published: 2023-10-25T10:31:36.806211+00:00
- - user: None
- - tags: $tags
-
-## Biznes w INTERIA.PL
- - [https://biznes.interia.pl](https://biznes.interia.pl)
- - date published: 2023-10-25T10:31:34.569732+00:00
- - user: None
- - tags: $tags
-
-## Zdrowie - choroby - leczenie - porady o zdrowiu - Zdrowy tryb życia | Zdrowie.Gazeta.pl
- - [https://zdrowie.gazeta.pl](https://zdrowie.gazeta.pl)
- - date published: 2023-10-25T10:31:32.035588+00:00
- - user: None
- - tags: $tags
-
-## Wiadomo¶ci - Gazeta.pl
- - [https://wiadomosci.gazeta.pl](https://wiadomosci.gazeta.pl)
- - date published: 2023-10-25T10:31:23.272215+00:00
- - user: None
- - tags: $tags
-
-## Next Gazeta.pl - Biznes, Nowe Technologie i Pieniądze
- - [https://next.gazeta.pl](https://next.gazeta.pl)
- - date published: 2023-10-25T10:31:14.489308+00:00
- - user: None
- - tags: $tags
-
-## Forsal.pl – Biznes, Gospodarka, Świat
- - [https://forsal.pl](https://forsal.pl)
- - date published: 2023-10-25T10:31:03.680126+00:00
- - user: None
- - tags: $tags
-
-## Radio ESKA: Hity na czasie! - ESKA.pl
- - [https://www.eska.pl](https://www.eska.pl)
- - date published: 2023-10-25T10:30:54.777063+00:00
- - user: None
- - tags: $tags
-
-## Bankier.pl – Portal Finansowy – Rynki, Twoje finanse, Biznes
- - [https://www.bankier.pl](https://www.bankier.pl)
- - date published: 2023-10-25T10:30:49.929229+00:00
- - user: None
- - tags: $tags
-
-## NPR - Breaking News, Analysis, Music, Arts & Podcasts : NPR
- - [https://www.npr.org](https://www.npr.org)
- - date published: 2023-10-25T10:30:42.840665+00:00
- - user: None
- - tags: ['news']
-
-## Le Monde.fr - Actualités et Infos en France et dans le monde
- - [https://www.lemonde.fr](https://www.lemonde.fr)
- - date published: 2023-10-25T10:30:38.809449+00:00
- - user: None
- - tags: $tags
-
-## POLITICO – European Politics, Policy, Government News
- - [https://www.politico.eu](https://www.politico.eu)
- - date published: 2023-10-25T10:30:34.441140+00:00
- - user: None
- - tags: $tags
-
-## Yahoo is part of the Yahoo family of brands
- - [https://finance.yahoo.com](https://finance.yahoo.com)
- - date published: 2023-10-25T10:30:30.327746+00:00
- - user: None
- - tags: $tags
-
-## The Wall Street Journal - Breaking News, Business, Financial & Economic News, World News and Video
- - [https://www.wsj.com](https://www.wsj.com)
- - date published: 2023-10-25T10:30:29.252767+00:00
- - user: None
- - tags: $tags
-
-## The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post
- - [https://www.washingtonpost.com](https://www.washingtonpost.com)
- - date published: 2023-10-25T10:29:53.512747+00:00
- - user: None
- - tags: $tags
-
-## Political News and Conservative Analysis About Congress, the President, and the Federal Government | Washington Examiner
- - [https://www.washingtonexaminer.com](https://www.washingtonexaminer.com)
- - date published: 2023-10-25T10:29:27.520286+00:00
- - user: None
- - tags: $tags
-
-## VICE - VICE is the definitive guide to enlightening information.
- - [https://www.vice.com](https://www.vice.com)
- - date published: 2023-10-25T10:29:22.678604+00:00
- - user: None
- - tags: $tags
-
-## Latest World & National News & Headlines - USATODAY.com
- - [https://eu.usatoday.com](https://eu.usatoday.com)
- - date published: 2023-10-25T10:29:19.995983+00:00
- - user: None
- - tags: $tags
-
-## TIME | Current & Breaking News | National & World Updates
- - [https://time.com](https://time.com)
- - date published: 2023-10-25T10:29:18.484712+00:00
- - user: None
- - tags: $tags
-
-## The Verge
- - [https://www.theverge.com](https://www.theverge.com)
- - date published: 2023-10-25T10:29:09.149200+00:00
- - user: None
- - tags: ['news']
-
-## The Register: Enterprise Technology News and Analysis
- - [https://www.theregister.com](https://www.theregister.com)
- - date published: 2023-10-25T10:29:03.269877+00:00
- - user: None
- - tags: $tags
-
-## The Intercept
- - [https://theintercept.com](https://theintercept.com)
- - date published: 2023-10-25T10:29:00.612300+00:00
- - user: None
- - tags: $tags
-
-## The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill
- - [https://thehill.com](https://thehill.com)
- - date published: 2023-10-25T10:28:58.558612+00:00
- - user: None
- - tags: $tags
-
-## World Edition - The Atlantic
- - [https://www.theatlantic.com](https://www.theatlantic.com)
- - date published: 2023-10-25T10:28:51.647818+00:00
- - user: None
- - tags: $tags
-
-## TechRadar | the technology experts
- - [https://www.techradar.com](https://www.techradar.com)
- - date published: 2023-10-25T10:28:41.163318+00:00
- - user: None
- - tags: $tags
-
-## The Latest News from the UK and Around the World | Sky News
- - [https://news.sky.com](https://news.sky.com)
- - date published: 2023-10-25T10:28:27.420874+00:00
- - user: None
- - tags: $tags
-
-## Politics, Policy, Political News - POLITICO
- - [https://www.politico.com](https://www.politico.com)
- - date published: 2023-10-25T10:28:21.996956+00:00
- - user: None
- - tags: $tags
-
-## The New York Times - Breaking News, US News, World News and Videos
- - [https://www.nytimes.com](https://www.nytimes.com)
- - date published: 2023-10-25T10:28:14.756045+00:00
- - user: None
- - tags: $tags
-
-## New York Post – Breaking News, Top Headlines, Photos & Videos
- - [https://nypost.com](https://nypost.com)
- - date published: 2023-10-25T10:28:09.421567+00:00
- - user: None
- - tags: $tags
-
-## Newsweek - News, Analysis, Politics, Business, Technology
- - [https://www.newsweek.com](https://www.newsweek.com)
- - date published: 2023-10-25T10:27:17.507278+00:00
- - user: None
- - tags: $tags
-
-## NBC News - Breaking News & Top Stories - Latest World, US & Local News | NBC News
- - [https://www.nbcnews.com](https://www.nbcnews.com)
- - date published: 2023-10-25T10:27:02.197696+00:00
- - user: None
- - tags: $tags
-
-## National Review: Conservative News, Opinion, Politics, Policy, & Current Events
- - [https://www.nationalreview.com](https://www.nationalreview.com)
- - date published: 2023-10-25T10:26:54.464697+00:00
- - user: None
- - tags: $tags
-
-## MSNBC News - Breaking News and News Today | Latest News
- - [https://www.msnbc.com](https://www.msnbc.com)
- - date published: 2023-10-25T10:26:52.780038+00:00
- - user: None
- - tags: $tags
-
-## MSN
- - [https://www.msn.com](https://www.msn.com)
- - date published: 2023-10-25T10:26:37.266048+00:00
- - user: None
- - tags: $tags
-
-## Financial Times
- - [https://www.ft.com](https://www.ft.com)
- - date published: 2023-10-25T10:26:31.468549+00:00
- - user: None
- - tags: $tags
-
-## Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos
- - [https://www.foxnews.com](https://www.foxnews.com)
- - date published: 2023-10-25T10:26:27.291309+00:00
- - user: None
- - tags: $tags
-
-## http://moxie.foxnews.com
- - [http://moxie.foxnews.com](http://moxie.foxnews.com)
- - date published: 2023-10-25T10:26:21.800868+00:00
- - user: None
- - tags: $tags
-
-## Forbes Africa
- - [https://www.forbesafrica.com](https://www.forbesafrica.com)
- - date published: 2023-10-25T10:26:21.517830+00:00
- - user: None
- - tags: $tags
-
-## Forbes
- - [https://www.forbes.com](https://www.forbes.com)
- - date published: 2023-10-25T10:26:08.645541+00:00
- - user: None
- - tags: $tags
-
-## https://www.dw.com
- - [https://www.dw.com](https://www.dw.com)
- - date published: 2023-10-25T10:26:00.082237+00:00
- - user: None
- - tags: $tags
-
-## Breaking News, Latest News and Videos | CNN
- - [https://www.cnn.com](https://www.cnn.com)
- - date published: 2023-10-25T10:25:59.473108+00:00
- - user: None
- - tags: $tags
-
-## Business News - Latest Headlines on CNN Business | CNN Business
- - [https://money.cnn.com](https://money.cnn.com)
- - date published: 2023-10-25T10:25:51.898732+00:00
- - user: None
- - tags: $tags
-
-## Breaking News, Latest News and Videos | CNN
- - [https://lite.cnn.com](https://lite.cnn.com)
- - date published: 2023-10-25T10:25:40.608108+00:00
- - user: None
- - tags: $tags
-
-## Breaking News, Latest News and Videos | CNN
- - [https://edition.cnn.com](https://edition.cnn.com)
- - date published: 2023-10-25T10:25:37.123636+00:00
- - user: None
- - tags: $tags
-
-## CNET: Product reviews, advice, how-tos and the latest news
- - [https://www.cnet.com](https://www.cnet.com)
- - date published: 2023-10-25T10:25:30.101732+00:00
- - user: None
- - tags: $tags
-
-## International Business, World News & Global Stock Market Analysis
- - [https://www.cnbc.com](https://www.cnbc.com)
- - date published: 2023-10-25T10:25:24.243277+00:00
- - user: None
- - tags: $tags
-
-## CBS News - Breaking news, 24/7 live streaming news & top stories
- - [https://www.cbsnews.com](https://www.cbsnews.com)
- - date published: 2023-10-25T10:25:17.439159+00:00
- - user: None
- - tags: $tags
-
-## Business Insider Polska
- - [https://www.businessinsider.com](https://www.businessinsider.com)
- - date published: 2023-10-25T10:25:10.457971+00:00
- - user: None
- - tags: $tags
-
-## Bloomberg.com
- - [https://www.bloomberg.com](https://www.bloomberg.com)
- - date published: 2023-10-25T10:24:59.505089+00:00
- - user: None
- - tags: ['news']
-
-## Billboard – Music Charts, News, Photos & Video
- - [https://www.billboard.com](https://www.billboard.com)
- - date published: 2023-10-25T10:24:52.548232+00:00
- - user: None
- - tags: $tags
-
-## BBC - Homepage
- - [https://www.bbc.com](https://www.bbc.com)
- - date published: 2023-10-25T10:24:45.520647+00:00
- - user: None
- - tags: $tags
-
-## Breaking News, World News and Video from Al Jazeera
- - [https://www.aljazeera.com](https://www.aljazeera.com)
- - date published: 2023-10-25T10:24:42.377214+00:00
- - user: None
- - tags: $tags
-
-## SkyNews | Canada’s astronomy & space news | Where Earth Meets Sky
- - [https://skynews.ca](https://skynews.ca)
- - date published: 2023-10-25T10:24:38.913027+00:00
- - user: None
- - tags: $tags
-
-## ABC (Australian Broadcasting Corporation)
- - [https://www.abc.net.au](https://www.abc.net.au)
- - date published: 2023-10-25T10:24:32.955292+00:00
- - user: None
- - tags: $tags
-
-## Sky News Australia | Skynews.com.au — Australian News Headlines & World News Online from the best award winning journalists
- - [https://www.skynews.com.au](https://www.skynews.com.au)
- - date published: 2023-10-25T10:24:30.964072+00:00
- - user: None
- - tags: $tags
-
-## Forbes Australia
- - [https://www.forbes.com.au](https://www.forbes.com.au)
- - date published: 2023-10-25T10:24:23.513890+00:00
- - user: None
- - tags: $tags
-
-## The Maritime Executive: Maritime News | Marine News
- - [https://maritime-executive.com](https://maritime-executive.com)
- - date published: 2023-10-25T10:24:16.935111+00:00
- - user: None
- - tags: $tags
-
-## PBS: Public Broadcasting Service
- - [https://www.pbs.org](https://www.pbs.org)
- - date published: 2023-10-25T10:24:08.998645+00:00
- - user: None
- - tags: $tags
-
-## Vulture - Entertainment News - TV, Movies, Music, Books, Theater, Art
- - [https://www.vulture.com](https://www.vulture.com)
- - date published: 2023-10-25T10:24:00.700690+00:00
- - user: None
- - tags: ['movies']
-
-## Turso Blog
- - [https://blog.turso.tech](https://blog.turso.tech)
- - date published: 2023-10-25T10:23:55.028481+00:00
- - user: None
- - tags: $tags
-
-## Zachary Thomas – Medium
- - [https://zachary-thomas.medium.com](https://zachary-thomas.medium.com)
- - date published: 2023-10-25T10:23:48.150446+00:00
- - user: None
- - tags: $tags
-
-## John Pradeep Vincent – Medium
- - [https://yehohanan7.medium.com](https://yehohanan7.medium.com)
- - date published: 2023-10-25T10:23:46.196937+00:00
- - user: None
- - tags: $tags
-
-## George Dillard – Medium
- - [https://worldhistory.medium.com](https://worldhistory.medium.com)
- - date published: 2023-10-25T10:23:43.451858+00:00
- - user: None
- - tags: $tags
-
-## Wolfgang Hauptfleisch – Medium
- - [https://wolfhf.medium.com](https://wolfhf.medium.com)
- - date published: 2023-10-25T10:23:40.880848+00:00
- - user: None
- - tags: $tags
-
-## Wes O'Donnell – Medium
- - [https://wesodonnell.medium.com](https://wesodonnell.medium.com)
- - date published: 2023-10-25T10:23:38.601832+00:00
- - user: None
- - tags: $tags
-
-## Ville Kuosmanen – Medium
- - [https://villekuosmanen.medium.com](https://villekuosmanen.medium.com)
- - date published: 2023-10-25T10:23:36.537987+00:00
- - user: None
- - tags: $tags
-
-## Vikash Ruhil – Medium
- - [https://vikashruhil.medium.com](https://vikashruhil.medium.com)
- - date published: 2023-10-25T10:23:33.945727+00:00
- - user: None
- - tags: $tags
-
-## uNetworking AB – Medium
- - [https://unetworkingab.medium.com](https://unetworkingab.medium.com)
- - date published: 2023-10-25T10:23:32.060381+00:00
- - user: None
- - tags: $tags
-
-## Tony Oreglia – Medium
- - [https://tony-oreglia.medium.com](https://tony-oreglia.medium.com)
- - date published: 2023-10-25T10:23:29.775999+00:00
- - user: None
- - tags: $tags
-
-## Tom Smykowski – Medium
- - [https://tomaszs2.medium.com](https://tomaszs2.medium.com)
- - date published: 2023-10-25T10:23:27.314286+00:00
- - user: None
- - tags: $tags
-
-## Derek Power – Medium
- - [https://thebluejester.medium.com](https://thebluejester.medium.com)
- - date published: 2023-10-25T10:23:25.116345+00:00
- - user: None
- - tags: $tags
-
-## Tim de Rooij – Medium
- - [https://thalein.medium.com](https://thalein.medium.com)
- - date published: 2023-10-25T10:23:17.504654+00:00
- - user: None
- - tags: $tags
-
-## Teiva Harsanyi – Medium
- - [https://teivah.medium.com](https://teivah.medium.com)
- - date published: 2023-10-25T10:23:15.160046+00:00
- - user: None
- - tags: $tags
-
-## Ryszard Szopa – Medium
- - [https://szopa.medium.com](https://szopa.medium.com)
- - date published: 2023-10-25T10:23:13.103162+00:00
- - user: None
- - tags: $tags
-
-## Lee Vinsel – Medium
- - [https://sts-news.medium.com](https://sts-news.medium.com)
- - date published: 2023-10-25T10:23:10.557257+00:00
- - user: None
- - tags: $tags
-
-## Steven Heidel – Medium
- - [https://stevenheidel.medium.com](https://stevenheidel.medium.com)
- - date published: 2023-10-25T10:23:07.806957+00:00
- - user: None
- - tags: $tags
-
-## Stephan Shahinian – Medium
- - [https://stephan-shahinian.medium.com](https://stephan-shahinian.medium.com)
- - date published: 2023-10-25T10:23:05.870308+00:00
- - user: None
- - tags: $tags
-
-## Sourcery – Medium
- - [https://sourcery-ai.medium.com](https://sourcery-ai.medium.com)
- - date published: 2023-10-25T10:23:03.723269+00:00
- - user: None
- - tags: $tags
-
-## Shannon Jacobs – Medium
- - [https://shanen.medium.com](https://shanen.medium.com)
- - date published: 2023-10-25T10:23:01.455983+00:00
- - user: None
- - tags: $tags
-
-## Sebastian Carlos – Medium
- - [https://sebastiancarlos.medium.com](https://sebastiancarlos.medium.com)
- - date published: 2023-10-25T10:22:58.905115+00:00
- - user: None
- - tags: $tags
-
-## Sarah Drinkwater – Medium
- - [https://sarahdrinkwater.medium.com](https://sarahdrinkwater.medium.com)
- - date published: 2023-10-25T10:22:50.413109+00:00
- - user: None
- - tags: $tags
-
-## Sai Gaddam – Medium
- - [https://saigaddam.medium.com](https://saigaddam.medium.com)
- - date published: 2023-10-25T10:22:48.172465+00:00
- - user: None
- - tags: $tags
-
-## Sacha Arbonel – Medium
- - [https://sachaarbonel.medium.com](https://sachaarbonel.medium.com)
- - date published: 2023-10-25T10:22:46.030789+00:00
- - user: None
- - tags: $tags
-
-## Ryonald Teofilo – Medium
- - [https://ryonaldteofilo.medium.com](https://ryonaldteofilo.medium.com)
- - date published: 2023-10-25T10:22:43.785424+00:00
- - user: None
- - tags: $tags
-
-## Ryan Cornateanu – Medium
- - [https://ryancor.medium.com](https://ryancor.medium.com)
- - date published: 2023-10-25T10:22:41.538981+00:00
- - user: None
- - tags: $tags
-
-## Ruurtjan Pul – Medium
- - [https://ruurtjan.medium.com](https://ruurtjan.medium.com)
- - date published: 2023-10-25T10:22:34.320278+00:00
- - user: None
- - tags: $tags
-
-## Rosie Sherry – Medium
- - [https://rosiesherry.medium.com](https://rosiesherry.medium.com)
- - date published: 2023-10-25T10:22:31.783188+00:00
- - user: None
- - tags: $tags
-
-## Richard Kenneth Eng – Medium
- - [https://richardeng.medium.com](https://richardeng.medium.com)
- - date published: 2023-10-25T10:22:29.415887+00:00
- - user: None
- - tags: $tags
-
-## Privacy1St – Medium
- - [https://privacyis1st.medium.com](https://privacyis1st.medium.com)
- - date published: 2023-10-25T10:22:26.531063+00:00
- - user: None
- - tags: $tags
-
-## Piotr Jaworski – Medium
- - [https://piotrjaworski.medium.com](https://piotrjaworski.medium.com)
- - date published: 2023-10-25T10:22:24.976124+00:00
- - user: None
- - tags: $tags
-
-## Paul Fuhr – Medium
- - [https://paulfuhr.medium.com](https://paulfuhr.medium.com)
- - date published: 2023-10-25T10:22:22.357828+00:00
- - user: None
- - tags: $tags
-
-## OneZero
- - [https://onezero.medium.com](https://onezero.medium.com)
- - date published: 2023-10-25T10:22:19.984318+00:00
- - user: None
- - tags: $tags
-
-## Obie Fernandez – Medium
- - [https://obie.medium.com](https://obie.medium.com)
- - date published: 2023-10-25T10:22:12.616559+00:00
- - user: None
- - tags: $tags
-
-## Leonard and Sondra Nones – Medium
- - [https://nones-leonard.medium.com](https://nones-leonard.medium.com)
- - date published: 2023-10-25T10:22:05.192487+00:00
- - user: None
- - tags: $tags
-
-## Nick Hilton – Medium
- - [https://nickfthilton.medium.com](https://nickfthilton.medium.com)
- - date published: 2023-10-25T10:22:03.024047+00:00
- - user: None
- - tags: $tags
-
-## Netflix Technology Blog – Medium
- - [https://netflixtechblog.medium.com](https://netflixtechblog.medium.com)
- - date published: 2023-10-25T10:22:00.831065+00:00
- - user: None
- - tags: $tags
-
-## Matt Calder – Medium
- - [https://mvcalder-01701.medium.com](https://mvcalder-01701.medium.com)
- - date published: 2023-10-25T10:21:58.459803+00:00
- - user: None
- - tags: $tags
-
-## Medium
- - [https://mrs-t.medium.com](https://mrs-t.medium.com)
- - date published: 2023-10-25T10:21:56.734858+00:00
- - user: None
- - tags: $tags
-
-## Andrei R | Mr Fireside – Medium
- - [https://mrfireside.medium.com](https://mrfireside.medium.com)
- - date published: 2023-10-25T10:21:55.362809+00:00
- - user: None
- - tags: $tags
-
-## Masayuki Hatta – Medium
- - [https://mhatta.medium.com](https://mhatta.medium.com)
- - date published: 2023-10-25T10:21:53.146584+00:00
- - user: None
- - tags: $tags
-
-## Matt Welsh – Medium
- - [https://mdwdotla.medium.com](https://mdwdotla.medium.com)
- - date published: 2023-10-25T10:21:50.299253+00:00
- - user: None
- - tags: $tags
-
-## Michael Dubakov – Medium
- - [https://mdubakov.medium.com](https://mdubakov.medium.com)
- - date published: 2023-10-25T10:21:47.728718+00:00
- - user: None
- - tags: $tags
-
-## Matthias Bühlmann – Medium
- - [https://matthias-buehlmann.medium.com](https://matthias-buehlmann.medium.com)
- - date published: 2023-10-25T10:21:45.263139+00:00
- - user: None
- - tags: $tags
-
-## Matt Schellhas – Medium
- - [https://matt-schellhas.medium.com](https://matt-schellhas.medium.com)
- - date published: 2023-10-25T10:21:43.331825+00:00
- - user: None
- - tags: $tags
-
-## Mate Marschalko – Medium
- - [https://matemarschalko.medium.com](https://matemarschalko.medium.com)
- - date published: 2023-10-25T10:21:41.075375+00:00
- - user: None
- - tags: $tags
-
-## Martin C. W. Walker – Medium
- - [https://martincwwalker.medium.com](https://martincwwalker.medium.com)
- - date published: 2023-10-25T10:21:38.834542+00:00
- - user: None
- - tags: $tags
-
-## Marker
- - [https://marker.medium.com](https://marker.medium.com)
- - date published: 2023-10-25T10:21:36.663031+00:00
- - user: None
- - tags: $tags
-
-## Mark Riedl – Medium
- - [https://mark-riedl.medium.com](https://mark-riedl.medium.com)
- - date published: 2023-10-25T10:21:34.322681+00:00
- - user: None
- - tags: $tags
-
-## Marco Chiappetta – Medium
- - [https://marcochiappetta.medium.com](https://marcochiappetta.medium.com)
- - date published: 2023-10-25T10:21:32.397453+00:00
- - user: None
- - tags: $tags
-
-## Steven Renwick – Medium
- - [https://major-grooves.medium.com](https://major-grooves.medium.com)
- - date published: 2023-10-25T10:21:30.099042+00:00
- - user: None
- - tags: $tags
-
-## Ryan McGeehan – Medium
- - [https://magoo.medium.com](https://magoo.medium.com)
- - date published: 2023-10-25T10:21:27.463778+00:00
- - user: None
- - tags: $tags
-
-## Lucas McGregor – Medium
- - [https://lucas-mcgregor.medium.com](https://lucas-mcgregor.medium.com)
- - date published: 2023-10-25T10:21:25.050681+00:00
- - user: None
- - tags: $tags
-
-## Logan Kilpatrick – Medium
- - [https://logankilpatrick.medium.com](https://logankilpatrick.medium.com)
- - date published: 2023-10-25T10:21:22.786994+00:00
- - user: None
- - tags: $tags
-
-## Ming – Medium
- - [https://lmy.medium.com](https://lmy.medium.com)
- - date published: 2023-10-25T10:21:20.575852+00:00
- - user: None
- - tags: $tags
-
-## Lance Ng – Medium
- - [https://lancengym.medium.com](https://lancengym.medium.com)
- - date published: 2023-10-25T10:21:18.220706+00:00
- - user: None
- - tags: $tags
-
-## Kristian Dupont – Medium
- - [https://kristiandupont.medium.com](https://kristiandupont.medium.com)
- - date published: 2023-10-25T10:21:15.916884+00:00
- - user: None
- - tags: $tags
-
-## Kieran Healey – Medium
- - [https://kjhealey.medium.com](https://kjhealey.medium.com)
- - date published: 2023-10-25T10:21:13.813062+00:00
- - user: None
- - tags: $tags
-
-## Kevin Basset – Medium
- - [https://kevinbasset.medium.com](https://kevinbasset.medium.com)
- - date published: 2023-10-25T10:21:11.583444+00:00
- - user: None
- - tags: $tags
-
-## Kevin Da Silva – Medium
- - [https://kevin-da-silva.medium.com](https://kevin-da-silva.medium.com)
- - date published: 2023-10-25T10:21:09.233370+00:00
- - user: None
- - tags: $tags
-
-## Keith McNulty – Medium
- - [https://keith-mcnulty.medium.com](https://keith-mcnulty.medium.com)
- - date published: 2023-10-25T10:21:07.216026+00:00
- - user: None
- - tags: $tags
-
-## Andrej Karpathy – Medium
- - [https://karpathy.medium.com](https://karpathy.medium.com)
- - date published: 2023-10-25T10:21:00.289688+00:00
- - user: None
- - tags: $tags
-
-## Joonas – Medium
- - [https://jooonas.medium.com](https://jooonas.medium.com)
- - date published: 2023-10-25T10:20:58.382697+00:00
- - user: None
- - tags: $tags
-
-## Medium
- - [https://joonaskoppa.medium.com](https://joonaskoppa.medium.com)
- - date published: 2023-10-25T10:20:56.612466+00:00
- - user: None
- - tags: $tags
-
-## John Wang – Medium
- - [https://johnjianwang.medium.com](https://johnjianwang.medium.com)
- - date published: 2023-10-25T10:20:55.393950+00:00
- - user: None
- - tags: $tags
-
-## Jessica Wildfire – Medium
- - [https://jessicalexicus.medium.com](https://jessicalexicus.medium.com)
- - date published: 2023-10-25T10:20:53.235136+00:00
- - user: None
- - tags: $tags
-
-## Jeffrey Kaye – Medium
- - [https://jeff-kaye.medium.com](https://jeff-kaye.medium.com)
- - date published: 2023-10-25T10:20:51.003396+00:00
- - user: None
- - tags: $tags
-
-## Jason Yip – Medium
- - [https://jchyip.medium.com](https://jchyip.medium.com)
- - date published: 2023-10-25T10:20:48.187900+00:00
- - user: None
- - tags: $tags
-
-## Jake Spracher – Medium
- - [https://jakespracher.medium.com](https://jakespracher.medium.com)
- - date published: 2023-10-25T10:20:46.053371+00:00
- - user: None
- - tags: $tags
-
-## Jackson Cunningham – Medium
- - [https://jacksoncunningham.medium.com](https://jacksoncunningham.medium.com)
- - date published: 2023-10-25T10:20:43.946689+00:00
- - user: None
- - tags: $tags
-
-## Chris Altonji – Medium
- - [https://introductory.medium.com](https://introductory.medium.com)
- - date published: 2023-10-25T10:20:42.119853+00:00
- - user: None
- - tags: $tags
-
-## Inflect Health – Medium
- - [https://inflecthealth.medium.com](https://inflecthealth.medium.com)
- - date published: 2023-10-25T10:20:40.099627+00:00
- - user: None
- - tags: $tags
-
-## Index
- - [https://index.medium.com](https://index.medium.com)
- - date published: 2023-10-25T10:20:38.107205+00:00
- - user: None
- - tags: $tags
-
-## Grace Huang – Medium
- - [https://imgracehuang.medium.com](https://imgracehuang.medium.com)
- - date published: 2023-10-25T10:20:35.581391+00:00
- - user: None
- - tags: $tags
-
-## Glauber Costa – Medium
- - [https://glaubercosta-11125.medium.com](https://glaubercosta-11125.medium.com)
- - date published: 2023-10-25T10:20:33.543522+00:00
- - user: None
- - tags: $tags
-
-## Chris Parnin – Medium
- - [https://gameweld.medium.com](https://gameweld.medium.com)
- - date published: 2023-10-25T10:20:30.941220+00:00
- - user: None
- - tags: $tags
-
-## ＧΛËＬ ＤＵＶΛＬ – Medium
- - [https://gael-duval.medium.com](https://gael-duval.medium.com)
- - date published: 2023-10-25T10:20:28.861577+00:00
- - user: None
- - tags: $tags
-
-## Ayush Singh – Medium
- - [https://g147.medium.com](https://g147.medium.com)
- - date published: 2023-10-25T10:20:26.675224+00:00
- - user: None
- - tags: $tags
-
-## fwsGonzo – Medium
- - [https://fwsgonzo.medium.com](https://fwsgonzo.medium.com)
- - date published: 2023-10-25T10:20:24.721924+00:00
- - user: None
- - tags: $tags
-
-## Fredrick Brennan – Medium
- - [https://fredrickbrennan.medium.com](https://fredrickbrennan.medium.com)
- - date published: 2023-10-25T10:20:17.725128+00:00
- - user: None
- - tags: $tags
-
-## Francisco Trindade – Medium
- - [https://franciscomt.medium.com](https://franciscomt.medium.com)
- - date published: 2023-10-25T10:20:15.354599+00:00
- - user: None
- - tags: $tags
-
-## Robert Barron – Medium
- - [https://flyingbarron.medium.com](https://flyingbarron.medium.com)
- - date published: 2023-10-25T10:20:12.651490+00:00
- - user: None
- - tags: $tags
-
-## Esther Crawford – Medium
- - [https://esthercrawford.medium.com](https://esthercrawford.medium.com)
- - date published: 2023-10-25T10:20:04.645101+00:00
- - user: None
- - tags: $tags
-
-## Erik van de Ven – Medium
- - [https://erikvandeven.medium.com](https://erikvandeven.medium.com)
- - date published: 2023-10-25T10:20:02.499859+00:00
- - user: None
- - tags: $tags
-
-## Elaine Cao – Medium
- - [https://elaine-cao-93.medium.com](https://elaine-cao-93.medium.com)
- - date published: 2023-10-25T10:20:00.285620+00:00
- - user: None
- - tags: $tags
-
-## Raju Dawadi – Medium
- - [https://dwdraju.medium.com](https://dwdraju.medium.com)
- - date published: 2023-10-25T10:19:58.595133+00:00
- - user: None
- - tags: $tags
-
-## Daniel Vassallo – Medium
- - [https://dvassallo.medium.com](https://dvassallo.medium.com)
- - date published: 2023-10-25T10:19:56.210495+00:00
- - user: None
- - tags: $tags
-
-## Dustin Godevais – Medium
- - [https://dustin-godevais.medium.com](https://dustin-godevais.medium.com)
- - date published: 2023-10-25T10:19:54.217237+00:00
- - user: None
- - tags: $tags
-
-## Don Hopkins – Medium
- - [https://donhopkins.medium.com](https://donhopkins.medium.com)
- - date published: 2023-10-25T10:19:46.013612+00:00
- - user: None
- - tags: $tags
-
-## Dmitry Kan – Medium
- - [https://dmitry-kan.medium.com](https://dmitry-kan.medium.com)
- - date published: 2023-10-25T10:19:43.394552+00:00
- - user: None
- - tags: $tags
-
-## Pardis Noorzad – Medium
- - [https://djpardis.medium.com](https://djpardis.medium.com)
- - date published: 2023-10-25T10:19:41.017651+00:00
- - user: None
- - tags: $tags
-
-## Dave Feldman – Medium
- - [https://dfeldman.medium.com](https://dfeldman.medium.com)
- - date published: 2023-10-25T10:19:38.830473+00:00
- - user: None
- - tags: $tags
-
-## Denys Linkov – Medium
- - [https://denyslinkov.medium.com](https://denyslinkov.medium.com)
- - date published: 2023-10-25T10:19:36.501051+00:00
- - user: None
- - tags: $tags
-
-## David Lu – Medium
- - [https://delu.medium.com](https://delu.medium.com)
- - date published: 2023-10-25T10:19:34.250111+00:00
- - user: None
- - tags: $tags
-
-## Debugger
- - [https://debugger.medium.com](https://debugger.medium.com)
- - date published: 2023-10-25T10:19:31.889138+00:00
- - user: None
- - tags: $tags
-
-## David Gilbertson – Medium
- - [https://david-gilbertson.medium.com](https://david-gilbertson.medium.com)
- - date published: 2023-10-25T10:19:29.708680+00:00
- - user: None
- - tags: $tags
-
-## David Delassus – Medium
- - [https://david-delassus.medium.com](https://david-delassus.medium.com)
- - date published: 2023-10-25T10:19:26.852264+00:00
- - user: None
- - tags: $tags
-
-## DataFinnovation - ChainArgos - 4AC – Medium
- - [https://datafinnovation.medium.com](https://datafinnovation.medium.com)
- - date published: 2023-10-25T10:19:24.661478+00:00
- - user: None
- - tags: $tags
-
-## Craig Younkins – Medium
- - [https://cyounkins.medium.com](https://cyounkins.medium.com)
- - date published: 2023-10-25T10:19:22.286315+00:00
- - user: None
- - tags: $tags
-
-## Arthur Hayes – Medium
- - [https://cryptohayes.medium.com](https://cryptohayes.medium.com)
- - date published: 2023-10-25T10:19:20.082601+00:00
- - user: None
- - tags: $tags
-
-## Clive Thompson – Medium
- - [https://clivethompson.medium.com](https://clivethompson.medium.com)
- - date published: 2023-10-25T10:19:18.196307+00:00
- - user: None
- - tags: $tags
-
-## Charles Chen – Medium
- - [https://chrlschn.medium.com](https://chrlschn.medium.com)
- - date published: 2023-10-25T10:19:10.864666+00:00
- - user: None
- - tags: $tags
-
-## Medium
- - [https://cherp.medium.com](https://cherp.medium.com)
- - date published: 2023-10-25T10:19:08.602659+00:00
- - user: None
- - tags: $tags
-
-## Catherine Andrews – Medium
- - [https://candrews.medium.com](https://candrews.medium.com)
- - date published: 2023-10-25T10:19:07.319497+00:00
- - user: None
- - tags: $tags
-
-## Byrne Hobart – Medium
- - [https://byrnehobart.medium.com](https://byrnehobart.medium.com)
- - date published: 2023-10-25T10:19:04.794986+00:00
- - user: None
- - tags: $tags
-
-## Bruce Sterling – Medium
- - [https://bruces.medium.com](https://bruces.medium.com)
- - date published: 2023-10-25T10:19:02.375482+00:00
- - user: None
- - tags: $tags
-
-## Vladimir Smirnov – Medium
- - [https://boredengineer.medium.com](https://boredengineer.medium.com)
- - date published: 2023-10-25T10:18:59.986959+00:00
- - user: None
- - tags: $tags
-
-## The Medium Blog
- - [https://blog.medium.com](https://blog.medium.com)
- - date published: 2023-10-25T10:18:57.853664+00:00
- - user: None
- - tags: $tags
-
-## Billy Chasen – Medium
- - [https://billychasen.medium.com](https://billychasen.medium.com)
- - date published: 2023-10-25T10:18:55.524086+00:00
- - user: None
- - tags: $tags
-
-## Bilal Mahmood – Medium
- - [https://bilalmahmood.medium.com](https://bilalmahmood.medium.com)
- - date published: 2023-10-25T10:18:53.537436+00:00
- - user: None
- - tags: $tags
-
-## Ben Einstein – Medium
- - [https://beneinstein.medium.com](https://beneinstein.medium.com)
- - date published: 2023-10-25T10:18:51.271180+00:00
- - user: None
- - tags: $tags
-
-## Marianne Bellotti – Medium
- - [https://bellmar.medium.com](https://bellmar.medium.com)
- - date published: 2023-10-25T10:18:48.828996+00:00
- - user: None
- - tags: $tags
-
-## Behdad Esfahbod – Medium
- - [https://behdadesfahbod.medium.com](https://behdadesfahbod.medium.com)
- - date published: 2023-10-25T10:18:46.008539+00:00
- - user: None
- - tags: $tags
-
-## Avi Loeb – Medium
- - [https://avi-loeb.medium.com](https://avi-loeb.medium.com)
- - date published: 2023-10-25T10:18:43.733455+00:00
- - user: None
- - tags: $tags
-
-## Andy Walker – Medium
- - [https://andzwa.medium.com](https://andzwa.medium.com)
- - date published: 2023-10-25T10:18:41.766784+00:00
- - user: None
- - tags: $tags
-
-## Alexandre Olive – Medium
- - [https://alexandreolive.medium.com](https://alexandreolive.medium.com)
- - date published: 2023-10-25T10:18:39.600805+00:00
- - user: None
- - tags: $tags
-
-## Alen Tred – Medium
- - [https://alentred.medium.com](https://alentred.medium.com)
- - date published: 2023-10-25T10:18:37.466546+00:00
- - user: None
- - tags: $tags
-
-## Sander Mertens – Medium
- - [https://ajmmertens.medium.com](https://ajmmertens.medium.com)
- - date published: 2023-10-25T10:18:35.461737+00:00
- - user: None
- - tags: $tags
-
-## adrian cockcroft – Medium
- - [https://adrianco.medium.com](https://adrianco.medium.com)
- - date published: 2023-10-25T10:18:33.437352+00:00
- - user: None
- - tags: $tags
-
-## Admiral Cloudberg – Medium
- - [https://admiralcloudberg.medium.com](https://admiralcloudberg.medium.com)
- - date published: 2023-10-25T10:18:31.319523+00:00
- - user: None
- - tags: $tags
-
-## The Data Observer – Medium
- - [https://acceldataio.medium.com](https://acceldataio.medium.com)
- - date published: 2023-10-25T10:18:29.480316+00:00
- - user: None
- - tags: $tags
-
-## Paul Greenberg – Medium
- - [https://4fishgreenberg.medium.com](https://4fishgreenberg.medium.com)
- - date published: 2023-10-25T10:18:26.978914+00:00
- - user: None
- - tags: $tags
-
-## NBC 6 South Florida – NBC 6 South Florida | NBC 6 South Florida – Local News, Weather, Traffic, Entertainment, Events, Breaking News
- - [https://www.nbcmiami.com](https://www.nbcmiami.com)
- - date published: 2023-10-25T10:18:24.865109+00:00
- - user: None
- - tags: $tags
-
-## Al Jazeera Interactives
- - [https://remix.aljazeera.com](https://remix.aljazeera.com)
- - date published: 2023-10-25T10:18:21.192555+00:00
- - user: None
- - tags: $tags
-
-## Military Times - Independent News About Your Military | Military Times
- - [https://www.militarytimes.com](https://www.militarytimes.com)
- - date published: 2023-10-25T10:18:20.645155+00:00
- - user: None
- - tags: $tags
-
-## Home | Military Aerospace
- - [https://www.militaryaerospace.com](https://www.militaryaerospace.com)
- - date published: 2023-10-25T10:18:16.055349+00:00
- - user: None
- - tags: $tags
-
-## The People's Voice - Where Mainstream Fears to Tread
- - [https://thepeoplesvoice.tv](https://thepeoplesvoice.tv)
- - date published: 2023-10-25T10:18:10.941418+00:00
- - user: None
- - tags: $tags
-
-## Salon24 - Blogi, wiadomości, opinie i komentarze
- - [https://www.salon24.pl](https://www.salon24.pl)
- - date published: 2023-10-25T10:18:06.716240+00:00
- - user: None
- - tags: $tags
-
-## The Daily Sceptic
- - [https://dailysceptic.org](https://dailysceptic.org)
- - date published: 2023-10-25T10:18:01.741807+00:00
- - user: None
- - tags: ['misinformation', 'disinformation']
-
-## ScreenGeek
- - [https://www.screengeek.net](https://www.screengeek.net)
- - date published: 2023-10-25T10:17:57.016680+00:00
- - user: None
- - tags: $tags
-
-## Variety
- - [https://variety.com](https://variety.com)
- - date published: 2023-10-25T10:17:55.128799+00:00
- - user: None
- - tags: $tags
-
-## IMDb: Ratings, Reviews, and Where to Watch the Best Movies & TV Shows
- - [https://www.imdb.com](https://www.imdb.com)
- - date published: 2023-10-25T10:17:46.139545+00:00
- - user: None
- - tags: ['ranking']
-
-## Deadline – Hollywood Entertainment Breaking News
- - [https://deadline.com](https://deadline.com)
- - date published: 2023-10-25T10:17:40.928660+00:00
- - user: None
- - tags: $tags
-
-## Synthtopia – Synthesizer and electronic music news, synth and music software reviews and more!
- - [https://www.synthtopia.com](https://www.synthtopia.com)
- - date published: 2023-10-25T10:17:36.780975+00:00
- - user: None
- - tags: $tags
-
-## NYS Music - New York State's Music News Source
- - [https://nysmusic.com](https://nysmusic.com)
- - date published: 2023-10-25T10:17:28.556912+00:00
- - user: None
- - tags: $tags
-
-## DJ Mag — living & breathing dance music
- - [https://djmag.com](https://djmag.com)
- - date published: 2023-10-25T10:17:22.278104+00:00
- - user: None
- - tags: $tags
-
-## Complete Music Update: the music business explained
- - [https://completemusicupdate.com](https://completemusicupdate.com)
- - date published: 2023-10-25T10:17:15.256759+00:00
- - user: None
- - tags: $tags
-
-## Bay Nature Magazine Home
- - [https://baynature.org](https://baynature.org)
- - date published: 2023-10-25T10:17:13.593504+00:00
- - user: None
- - tags: $tags
-
-## Navy Times - Independent News For Sailors | Navy Times
- - [https://www.navytimes.com](https://www.navytimes.com)
- - date published: 2023-10-25T10:17:10.551232+00:00
- - user: None
- - tags: $tags
-
-## Scottish Daily Express - Scottish News, Politics & Showbiz
- - [https://www.scottishdailyexpress.co.uk](https://www.scottishdailyexpress.co.uk)
- - date published: 2023-10-25T10:17:05.888387+00:00
- - user: None
- - tags: $tags
-
-## Rocknerd – all the fits that's news
- - [https://rocknerd.co.uk](https://rocknerd.co.uk)
- - date published: 2023-10-25T10:16:59.458632+00:00
- - user: None
- - tags: $tags
-
-## 500 Server Error
- - [https://here.news](https://here.news)
- - date published: 2023-10-25T10:16:53.490443+00:00
- - user: None
- - tags: $tags
-
-## Yahoo is part of the Yahoo family of brands
- - [https://news.yahoo.com](https://news.yahoo.com)
- - date published: 2023-10-25T10:16:52.263929+00:00
- - user: None
- - tags: $tags
-
-## The Village Voice
- - [https://www.villagevoice.com](https://www.villagevoice.com)
- - date published: 2023-10-25T10:16:50.071015+00:00
- - user: None
- - tags: $tags
-
-## Latest News, Entertainment Stories And Viral Videos - UNILAD
- - [https://www.unilad.com](https://www.unilad.com)
- - date published: 2023-10-25T10:16:45.242033+00:00
- - user: None
- - tags: $tags
-
-## Latest News, Videos & Guest Interviews from the Today Show on NBC | TODAY
- - [https://www.today.com](https://www.today.com)
- - date published: 2023-10-25T10:16:42.705063+00:00
- - user: None
- - tags: $tags
-
-## Columbia SC Breaking News, Sports & Crime | The State
- - [https://www.thestate.com](https://www.thestate.com)
- - date published: 2023-10-25T10:16:34.615346+00:00
- - user: None
- - tags: $tags
-
-## Breaking News - Headlines & Top Stories | The Star
- - [https://www.thestar.com](https://www.thestar.com)
- - date published: 2023-10-25T10:16:30.014950+00:00
- - user: None
- - tags: $tags
-
-## The San Francisco Standard
- - [https://sfstandard.com](https://sfstandard.com)
- - date published: 2023-10-25T10:16:18.496044+00:00
- - user: None
- - tags: $tags
-
-## NewsWars
- - [https://www.newswars.com](https://www.newswars.com)
- - date published: 2023-10-25T10:16:10.898418+00:00
- - user: None
- - tags: $tags
-
-## Massachusetts Local News, Breaking News, Sports and Weather
- - [https://www.masslive.com](https://www.masslive.com)
- - date published: 2023-10-25T10:16:06.752056+00:00
- - user: None
- - tags: $tags
-
-## Liberland Press
- - [https://liberlandpress.com](https://liberlandpress.com)
- - date published: 2023-10-25T10:15:59.341820+00:00
- - user: None
- - tags: $tags
-
-## Associated Press News: Breaking News, Latest Headlines and Videos | AP News
- - [http://apnews.com](http://apnews.com)
- - date published: 2023-10-25T10:15:53.744031+00:00
- - user: None
- - tags: $tags
-
-## SBS | Latest News, Audio, TV, Video Streaming, Sports, Food & More
- - [https://www.sbs.com.au](https://www.sbs.com.au)
- - date published: 2023-10-25T10:15:43.534856+00:00
- - user: None
- - tags: $tags
-
-## Punch newspapers - Breaking News, Nigerian News & Top Stories
- - [https://punchng.com](https://punchng.com)
- - date published: 2023-10-25T10:15:32.859277+00:00
- - user: None
- - tags: $tags
-
-## Norwegian SciTech News - Research News from NTNU and Sintef
- - [https://norwegianscitechnews.com](https://norwegianscitechnews.com)
- - date published: 2023-10-25T10:15:24.266544+00:00
- - user: None
- - tags: $tags
-
-## OpenBSD Journal: A resource for the OpenBSD community
- - [https://www.undeadly.org](https://www.undeadly.org)
- - date published: 2023-10-25T10:15:21.266043+00:00
- - user: None
- - tags: $tags
-
-## OMG! Linux - Linux News, Distros, Apps and Reviews
- - [https://www.omglinux.com](https://www.omglinux.com)
- - date published: 2023-10-25T10:15:18.092529+00:00
- - user: None
- - tags: $tags
-
-## Pakistan Observer - Latest News, Pakistan News, and World News
- - [https://pakobserver.net](https://pakobserver.net)
- - date published: 2023-10-25T10:15:15.857044+00:00
- - user: None
- - tags: $tags
-
-## Reclaim The Net - Restore Individual Liberty Online
- - [https://reclaimthenet.org](https://reclaimthenet.org)
- - date published: 2023-10-25T10:15:05.217370+00:00
- - user: None
- - tags: $tags
-
-## Techdirt.
- - [https://www.techdirt.com](https://www.techdirt.com)
- - date published: 2023-10-25T10:15:01.446813+00:00
- - user: None
- - tags: $tags
-
-## Krebs on Security – In-depth security news and investigation
- - [https://krebsonsecurity.com](https://krebsonsecurity.com)
- - date published: 2023-10-25T10:14:56.854608+00:00
- - user: None
- - tags: $tags
-
-## PhoneArena | Phone News, Reviews, Deals and Specs
- - [https://www.phonearena.com](https://www.phonearena.com)
- - date published: 2023-10-25T10:14:53.382529+00:00
- - user: None
- - tags: $tags
-
-## PetaPixel | Photography and Camera News, Reviews, and Inspiration
- - [https://petapixel.com](https://petapixel.com)
- - date published: 2023-10-25T10:14:49.031072+00:00
- - user: None
- - tags: $tags
-
-## pv magazine International – Photovoltaic Markets and Technology
- - [https://www.pv-magazine.com](https://www.pv-magazine.com)
- - date published: 2023-10-25T10:14:46.327383+00:00
- - user: None
- - tags: $tags
-
-## Culture.pl EN | Polish culture: literature, art, film, design, language, cuisine & more! | Culture.pl
- - [https://culture.pl](https://culture.pl)
- - date published: 2023-10-25T10:14:36.451684+00:00
- - user: None
- - tags: $tags
-
-## Notes From Poland | regular summaries of news from Poland
- - [https://notesfrompoland.com](https://notesfrompoland.com)
- - date published: 2023-10-25T10:14:35.905271+00:00
- - user: None
- - tags: $tags
-
-## NCZAS.COM | Najwyższy CZAS! Najnowsze informacje z Polski, Europy i Świata. Wolnościowe spojrzenie, bez poprawności politycznej
- - [https://nczas.com](https://nczas.com)
- - date published: 2023-10-25T10:14:32.674298+00:00
- - user: None
- - tags: $tags
-
-## Strona główna - Polityko.com
- - [https://polityko.com](https://polityko.com)
- - date published: 2023-10-25T10:14:27.475929+00:00
- - user: None
- - tags: $tags
-
-## Louder With Crowder
- - [https://www.louderwithcrowder.com](https://www.louderwithcrowder.com)
- - date published: 2023-10-25T10:14:23.696193+00:00
- - user: None
- - tags: $tags
-
-## Louder With Crowder
- - [https://louderwithcrowder.com](https://louderwithcrowder.com)
- - date published: 2023-10-25T10:14:21.412153+00:00
- - user: None
- - tags: $tags
-
-## Palladium Magazine
- - [https://palladiummag.com](https://palladiummag.com)
- - date published: 2023-10-25T10:14:15.909364+00:00
- - user: None
- - tags: $tags
-
-## epoznan.pl - pierwszy portal Poznania
- - [https://epoznan.pl](https://epoznan.pl)
- - date published: 2023-10-25T10:14:12.175401+00:00
- - user: None
- - tags: $tags
-
-## SD Times - Software Development News
- - [https://sdtimes.com](https://sdtimes.com)
- - date published: 2023-10-25T10:14:09.646584+00:00
- - user: None
- - tags: $tags
-
-## DevBlogs - Microsoft Developer Blogs
- - [https://devblogs.microsoft.com](https://devblogs.microsoft.com)
- - date published: 2023-10-25T10:14:03.592606+00:00
- - user: None
- - tags: $tags
-
-## Developer Tech News | Latest App Developer News & Insights
- - [https://www.developer-tech.com](https://www.developer-tech.com)
- - date published: 2023-10-25T10:13:59.122086+00:00
- - user: None
- - tags: $tags
-
-## C++ Stories
- - [https://www.cppstories.com](https://www.cppstories.com)
- - date published: 2023-10-25T10:13:51.273697+00:00
- - user: None
- - tags: $tags
-
-## CodeProject - For those who code
- - [https://www.codeproject.com](https://www.codeproject.com)
- - date published: 2023-10-25T10:13:50.403402+00:00
- - user: None
- - tags: $tags
-
-## Homepage | Them
- - [https://www.them.us](https://www.them.us)
- - date published: 2023-10-25T10:13:47.652819+00:00
- - user: None
- - tags: $tags
-
-## Home Page |The New Arab
- - [https://www.newarab.com](https://www.newarab.com)
- - date published: 2023-10-25T10:13:43.068959+00:00
- - user: None
- - tags: $tags
-
-## Experience Magazine - Stories from the intersection of technology and humanity
- - [https://expmag.com](https://expmag.com)
- - date published: 2023-10-25T10:13:37.586225+00:00
- - user: None
- - tags: $tags
-
-## Strona główna - PCH24.pl
- - [https://pch24.pl](https://pch24.pl)
- - date published: 2023-10-25T10:13:34.615189+00:00
- - user: None
- - tags: $tags
-
-## Strona główna - PCH24.pl
- - [https://m.pch24.pl](https://m.pch24.pl)
- - date published: 2023-10-25T10:13:31.026028+00:00
- - user: None
- - tags: $tags
-
-## Misyjne.pl - Portal chrześcijański dla ludzi z misją.
- - [https://misyjne.pl](https://misyjne.pl)
- - date published: 2023-10-25T10:13:22.284811+00:00
- - user: None
- - tags: $tags
-
-## Facts-Based News for Christians | WORLD
- - [https://wng.org](https://wng.org)
- - date published: 2023-10-25T10:13:18.284192+00:00
- - user: None
- - tags: $tags
-
-## CNE.news
- - [https://cne.news](https://cne.news)
- - date published: 2023-10-25T10:13:15.031338+00:00
- - user: None
- - tags: $tags
-
-## Christian Post | Christian News & Commentaries
- - [https://www.christianpost.com](https://www.christianpost.com)
- - date published: 2023-10-25T10:13:13.137647+00:00
- - user: None
- - tags: $tags
-
-## Christian News Headlines - Breaking and Trending Religion News
- - [https://www.christianheadlines.com](https://www.christianheadlines.com)
- - date published: 2023-10-25T10:13:08.561605+00:00
+## Innovation at Consumer Reports
+ - [https://digital-lab.consumerreports.org](https://digital-lab.consumerreports.org)
+ - date published: 2023-10-25T21:10:14.257493+00:00
  - user: None
  - tags: $tags
 
@@ -4341,57 +750,1000 @@
  - user: None
  - tags: $tags
 
-## The Moscow Times
- - [https://www.themoscowtimes.com](https://www.themoscowtimes.com)
- - date published: 2023-10-25T10:12:59.328407+00:00
+## Home - Contemporary Psychotherapy
+ - [https://www.contemporarypsychotherapy.org](https://www.contemporarypsychotherapy.org)
+ - date published: 2023-10-25T21:10:16.379674+00:00
  - user: None
  - tags: $tags
 
-## RT - Breaking News, Russia News, World News and Video
- - [https://www.rt.com](https://www.rt.com)
- - date published: 2023-10-25T10:12:55.826509+00:00
+## Cooklang: recipe markup language
+ - [https://cooklang.org](https://cooklang.org)
+ - date published: 2023-10-25T21:10:17.107498+00:00
  - user: None
  - tags: $tags
 
-## Gulf Insider - News, Opinions and Business in GCC
- - [https://www.gulf-insider.com](https://www.gulf-insider.com)
- - date published: 2023-10-25T10:12:42.660917+00:00
+## The Copetti site | Rodrigo Copetti
+ - [https://www.copetti.org](https://www.copetti.org)
+ - date published: 2023-10-25T08:54:33.181982+00:00
  - user: None
  - tags: $tags
 
-## Arab News | Worldwide News, Latest Breaking News & Updates
- - [https://www.arabnews.com](https://www.arabnews.com)
- - date published: 2023-10-25T10:12:38.174591+00:00
+## Home | Corporate Europe Observatory
+ - [https://corporateeurope.org](https://corporateeurope.org)
+ - date published: 2023-10-25T21:10:18.379127+00:00
  - user: None
  - tags: $tags
 
-## Nautilus | Science Connected
- - [https://nautil.us](https://nautil.us)
- - date published: 2023-10-25T10:12:29.112780+00:00
+## About CorpWatch | corpwatch
+ - [https://www.corpwatch.org](https://www.corpwatch.org)
+ - date published: 2023-10-25T21:10:20.522811+00:00
  - user: None
  - tags: $tags
 
-## Science News | The latest news from all areas of science
- - [https://www.sciencenews.org](https://www.sciencenews.org)
- - date published: 2023-10-25T10:12:21.604183+00:00
- - user: None
- - tags: ['science', 'news']
-
-## https://www.science.org
- - [https://www.science.org](https://www.science.org)
- - date published: 2023-10-25T10:12:15.147885+00:00
- - user: None
- - tags: ['science', 'news']
-
-## Quanta Magazine
- - [https://www.quantamagazine.org](https://www.quantamagazine.org)
- - date published: 2023-10-25T10:12:13.758505+00:00
+## corsix.org
+ - [https://www.corsix.org](https://www.corsix.org)
+ - date published: 2023-10-25T21:10:23.384582+00:00
  - user: None
  - tags: $tags
 
-## Phys.org - News and Articles on Science and Technology
- - [https://phys.org](https://phys.org)
- - date published: 2023-10-25T10:12:05.871783+00:00
+## Counterexamples in Type Systems - Counterexamples in Type Systems
+ - [https://counterexamples.org](https://counterexamples.org)
+ - date published: 2023-10-25T21:10:24.650321+00:00
+ - user: None
+ - tags: $tags
+
+## Countle - Daily Math Puzzle
+ - [https://www.countle.org](https://www.countle.org)
+ - date published: 2023-10-25T21:10:30.023116+00:00
+ - user: None
+ - tags: $tags
+
+## Coursera | Degrees, Certificates, & Free Online Courses
+ - [https://www.coursera.org](https://www.coursera.org)
+ - date published: 2023-10-25T21:10:36.489801+00:00
+ - user: None
+ - tags: $tags
+
+## The Coutant Microphone Site
+ - [https://coutant.org](https://coutant.org)
+ - date published: 2023-10-25T21:10:37.446578+00:00
+ - user: None
+ - tags: $tags
+
+## CoWasm: Collaborative WebAssembly for Servers and Browsers
+ - [https://cowasm.org](https://cowasm.org)
+ - date published: 2023-10-25T21:10:37.899251+00:00
+ - user: None
+ - tags: $tags
+
+## Coyote Cartography
+ - [https://micro.coyotetracks.org](https://micro.coyotetracks.org)
+ - date published: 2023-10-25T21:10:44.276462+00:00
+ - user: None
+ - tags: $tags
+
+## CozoDB v0.7
+ - [https://docs.cozodb.org](https://docs.cozodb.org)
+ - date published: 2023-10-25T21:10:46.284600+00:00
+ - user: None
+ - tags: $tags
+
+## Clear Physics
+ - [https://www.cphysics.org](https://www.cphysics.org)
+ - date published: 2023-10-25T21:10:48.724655+00:00
+ - user: None
+ - tags: $tags
+
+## Committee to Protect Journalists – Defending Journalists Worldwide. - Committee to Protect Journalists
+ - [https://cpj.org](https://cpj.org)
+ - date published: 2023-10-25T21:10:54.852143+00:00
+ - user: None
+ - tags: $tags
+
+## CppCon | The C++ Conference
+ - [https://cppcon.org](https://cppcon.org)
+ - date published: 2023-10-25T21:10:58.474003+00:00
+ - user: None
+ - tags: $tags
+
+## Lists.pglaf.org redirect
+ - [https://lists.cpunks.org](https://lists.cpunks.org)
+ - date published: 2023-10-25T21:10:59.366823+00:00
+ - user: None
+ - tags: $tags
+
+## cr0 blog
+ - [https://blog.cr0.org](https://blog.cr0.org)
+ - date published: 2023-10-25T09:23:55.156396+00:00
+ - user: None
+ - tags: $tags
+
+## CrabLang
+ - [https://crablang.org](https://crablang.org)
+ - date published: 2023-10-25T21:11:04.727468+00:00
+ - user: None
+ - tags: $tags
+
+## Crooked Timber — Out of the crooked timber of humanity, no straight thing was ever made
+ - [https://crookedtimber.org](https://crookedtimber.org)
+ - date published: 2023-10-25T21:11:11.664607+00:00
+ - user: None
+ - tags: $tags
+
+## Home 2022
+ - [https://www.crosslabs.org](https://www.crosslabs.org)
+ - date published: 2023-10-25T21:11:13.410986+00:00
+ - user: None
+ - tags: $tags
+
+## Cryptome
+ - [https://cryptome.org](https://cryptome.org)
+ - date published: 2023-10-25T21:11:22.912914+00:00
+ - user: None
+ - tags: $tags
+
+## The Crystal Programming Language
+ - [https://crystal-lang.org](https://crystal-lang.org)
+ - date published: 2023-10-25T21:11:24.443668+00:00
+ - user: None
+ - tags: $tags
+
+## CSA-IOT - Connectivity Standards Alliance
+ - [https://csa-iot.org](https://csa-iot.org)
+ - date published: 2023-10-25T17:24:26.444239+00:00
+ - user: None
+ - tags: ['zigbee']
+
+## https://beyondparallel.csis.org
+ - [https://beyondparallel.csis.org](https://beyondparallel.csis.org)
+ - date published: 2023-10-25T21:11:34.001427+00:00
+ - user: None
+ - tags: $tags
+
+## CSIS | Center for Strategic and International Studies
+ - [https://www.csis.org](https://www.csis.org)
+ - date published: 2023-10-25T21:11:40.174391+00:00
+ - user: None
+ - tags: $tags
+
+## CTAN: Comprehensive TeX Archive Network
+ - [https://ctan.org](https://ctan.org)
+ - date published: 2023-10-25T21:11:42.198733+00:00
+ - user: None
+ - tags: $tags
+
+## CTIF - International Association of Fire Services for Safer Citizens through Skilled Firefighters
+ - [https://ctif.org](https://ctif.org)
+ - date published: 2023-10-25T21:11:51.392667+00:00
+ - user: None
+ - tags: $tags
+
+## Current - For people in public media
+ - [https://current.org](https://current.org)
+ - date published: 2023-10-25T21:12:00.535305+00:00
+ - user: None
+ - tags: $tags
+
+## https://www.cyberdemon.org
+ - [https://www.cyberdemon.org](https://www.cyberdemon.org)
+ - date published: 2023-10-25T21:12:02.225294+00:00
+ - user: None
+ - tags: $tags
+
+## cypherspace
+ - [http://www.cypherspace.org](http://www.cypherspace.org)
+ - date published: 2023-10-25T21:12:03.701108+00:00
+ - user: None
+ - tags: $tags
+
+## The Daily Californian | Berkeley's News
+ - [https://www.dailycal.org](https://www.dailycal.org)
+ - date published: 2023-10-25T21:12:09.133140+00:00
+ - user: None
+ - tags: $tags
+
+## The Daily Sceptic
+ - [https://dailysceptic.org](https://dailysceptic.org)
+ - date published: 2023-10-25T10:18:01.741807+00:00
+ - user: None
+ - tags: ['misinformation', 'disinformation']
+
+## Federal Reserve Bank of Dallas -
+        Dallasfed.org
+ - [https://www.dallasfed.org](https://www.dallasfed.org)
+ - date published: 2023-10-25T21:12:12.982710+00:00
+ - user: None
+ - tags: $tags
+
+## Home | DanceSafe
+ - [https://dancesafe.org](https://dancesafe.org)
+ - date published: 2023-10-25T21:12:23.473262+00:00
+ - user: None
+ - tags: $tags
+
+## Experimental chill – a random walk through Software Engineering
+ - [https://danlark.org](https://danlark.org)
+ - date published: 2023-10-25T21:12:26.450742+00:00
+ - user: None
+ - tags: $tags
+
+## Dann Berg: blog, newsletter, shop, and more
+ - [https://dannb.org](https://dannb.org)
+ - date published: 2023-10-25T08:54:34.964396+00:00
+ - user: None
+ - tags: $tags
+
+## Darling Development Blog
+ - [https://blog.darlinghq.org](https://blog.darlinghq.org)
+ - date published: 2023-10-25T21:12:33.218511+00:00
+ - user: None
+ - tags: $tags
+
+## Data Colada - Thinking about evidence and vice versa
+ - [https://datacolada.org](https://datacolada.org)
+ - date published: 2023-10-25T21:12:37.004872+00:00
+ - user: None
+ - tags: $tags
+
+## Data Physicalization - Data Physicalization Wiki
+ - [http://dataphys.org](http://dataphys.org)
+ - date published: 2023-10-25T21:12:38.813690+00:00
+ - user: None
+ - tags: $tags
+
+## The Professional Data Science Manifesto - Manifesto of Professional Data Science
+ - [http://datasciencemanifesto.org](http://datasciencemanifesto.org)
+ - date published: 2023-10-25T21:12:40.078564+00:00
+ - user: None
+ - tags: $tags
+
+## dataswamp.org
+ - [https://dataswamp.org](https://dataswamp.org)
+ - date published: 2023-10-25T21:12:41.913989+00:00
+ - user: None
+ - tags: $tags
+
+## David Smith, Independent iOS Developer
+ - [https://www.david-smith.org](https://www.david-smith.org)
+ - date published: 2023-10-25T21:12:44.390007+00:00
+ - user: None
+ - tags: $tags
+
+## David Cummings on Startups – 3,000+ posts on entrepreneurship and startups
+ - [https://davidcummings.org](https://davidcummings.org)
+ - date published: 2023-10-25T21:12:47.339422+00:00
+ - user: None
+ - tags: $tags
+
+## david galbraith
+ - [https://davidgalbraith.org](https://davidgalbraith.org)
+ - date published: 2023-10-25T21:12:51.395744+00:00
+ - user: None
+ - tags: $tags
+
+## Democracy for the Arab World Now - DAWN - Home
+ - [https://dawnmena.org](https://dawnmena.org)
+ - date published: 2023-10-25T21:12:58.207782+00:00
+ - user: None
+ - tags: $tags
+
+## Home - DBpedia Association
+ - [https://www.dbpedia.org](https://www.dbpedia.org)
+ - date published: 2023-10-25T21:13:01.971237+00:00
+ - user: None
+ - tags: $tags
+
+## A Data-Centric Introduction to Computing
+ - [https://dcic-world.org](https://dcic-world.org)
+ - date published: 2023-10-25T21:13:03.296556+00:00
+ - user: None
+ - tags: $tags
+
+## http://dconf.org
+ - [http://dconf.org](http://dconf.org)
+ - date published: 2023-10-25T21:13:05.108135+00:00
+ - user: None
+ - tags: $tags
+
+## De-Dollarization Facts: Up-To-Date Facts About The U.S. Dollar In The World
+ - [https://www.de-dollarization.org](https://www.de-dollarization.org)
+ - date published: 2023-10-25T21:13:07.530962+00:00
+ - user: None
+ - tags: $tags
+
+## Bits from Debian - Blog from the Debian Project
+ - [https://bits.debian.org](https://bits.debian.org)
+ - date published: 2023-10-25T21:13:16.611368+00:00
+ - user: None
+ - tags: $tags
+
+## Debian bug tracking system
+ - [https://bugs.debian.org](https://bugs.debian.org)
+ - date published: 2023-10-25T21:13:19.916026+00:00
+ - user: None
+ - tags: $tags
+
+## Debian Mailing Lists -- Index
+ - [https://lists.debian.org](https://lists.debian.org)
+ - date published: 2023-10-25T21:13:21.561311+00:00
+ - user: None
+ - tags: $tags
+
+## FrontPage - Debian Wiki
+ - [https://wiki.debian.org](https://wiki.debian.org)
+ - date published: 2023-10-25T21:13:23.896963+00:00
+ - user: None
+ - tags: $tags
+
+## Debian -- The Universal Operating System
+ - [https://www.debian.org](https://www.debian.org)
+ - date published: 2023-10-25T08:32:06.148094+00:00
+ - user: None
+ - tags: ['operating system']
+
+## Allconnect.com: Find Internet Providers Near You | 844-845-3968
+ - [https://decisiondata.org](https://decisiondata.org)
+ - date published: 2023-10-25T21:13:30.075023+00:00
+ - user: None
+ - tags: $tags
+
+## Declassified Australia
+ - [https://declassifiedaus.org](https://declassifiedaus.org)
+ - date published: 2023-10-25T21:13:35.111668+00:00
+ - user: None
+ - tags: $tags
+
+## Welcome to the Deep State Blog
+ - [https://www.deepstateblog.org](https://www.deepstateblog.org)
+ - date published: 2023-10-25T21:13:44.064425+00:00
+ - user: None
+ - tags: $tags
+
+## Deep Synoptic Array (DSA)
+ - [https://www.deepsynoptic.org](https://www.deepsynoptic.org)
+ - date published: 2023-10-25T21:13:47.752146+00:00
+ - user: None
+ - tags: $tags
+
+## The DEF CON® Media Server - Archives of the conferences
+ - [https://media.defcon.org](https://media.defcon.org)
+ - date published: 2023-10-25T21:13:50.784512+00:00
+ - user: None
+ - tags: $tags
+
+## Deja Vu: (re-)creating web history
+ - [https://www.dejavu.org](https://www.dejavu.org)
+ - date published: 2023-10-25T21:13:58.736177+00:00
+ - user: None
+ - tags: $tags
+
+## Democracy Now! | Democracy Now!
+ - [https://www.democracynow.org](https://www.democracynow.org)
+ - date published: 2023-10-25T21:14:03.352030+00:00
+ - user: None
+ - tags: $tags
+
+## The blog at the bottom of the sea « Programming, Graphics, Gamedev, Exotic Computation, Audio Synthesis
+ - [https://blog.demofox.org](https://blog.demofox.org)
+ - date published: 2023-10-25T21:14:10.363138+00:00
+ - user: None
+ - tags: $tags
+
+## Demozoo
+ - [https://demozoo.org](https://demozoo.org)
+ - date published: 2023-10-27T14:46:20.722956+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## DevTools Tips
+ - [https://devtoolstips.org](https://devtoolstips.org)
+ - date published: 2023-10-25T21:14:12.309236+00:00
+ - user: None
+ - tags: $tags
+
+## DFRLab - DFRLab
+ - [https://dfrlab.org](https://dfrlab.org)
+ - date published: 2023-10-25T21:14:16.103433+00:00
+ - user: None
+ - tags: $tags
+
+## DIEGO  VERA
+ - [https://www.diegovera.org](https://www.diegovera.org)
+ - date published: 2023-10-25T21:14:18.082525+00:00
+ - user: None
+ - tags: $tags
+
+## diffoscope: in-depth comparison of files, archives, and directories
+ - [https://diffoscope.org](https://diffoscope.org)
+ - date published: 2023-10-25T21:14:19.698212+00:00
+ - user: None
+ - tags: $tags
+
+## Dinosaur Images & Facts - The Online Database
+ - [https://dinosaurpictures.org](https://dinosaurpictures.org)
+ - date published: 2023-10-25T21:14:21.679378+00:00
+ - user: None
+ - tags: $tags
+
+## http://dirtyprosecutor.org
+ - [http://dirtyprosecutor.org](http://dirtyprosecutor.org)
+ - date published: 2023-10-25T21:14:23.436582+00:00
+ - user: None
+ - tags: $tags
+
+## Discourse is the place to build civilized communities | Discourse - Civilized Discussion
+ - [https://discourse.org](https://discourse.org)
+ - date published: 2023-10-25T21:14:25.105642+00:00
+ - user: None
+ - tags: $tags
+
+## distcc: a fast, free distributed C/C++ compiler
+ - [https://www.distcc.org](https://www.distcc.org)
+ - date published: 2023-10-25T21:14:26.079192+00:00
+ - user: None
+ - tags: $tags
+
+## Simple search
+ - [https://sh.diva-portal.org](https://sh.diva-portal.org)
+ - date published: 2023-10-25T21:14:32.161650+00:00
+ - user: None
+ - tags: $tags
+
+## Simple search
+ - [https://uu.diva-portal.org](https://uu.diva-portal.org)
+ - date published: 2023-10-25T21:14:33.208064+00:00
+ - user: None
+ - tags: $tags
+
+## Home - DivestOS Mobile
+ - [https://divestos.org](https://divestos.org)
+ - date published: 2023-10-25T21:14:34.497389+00:00
+ - user: None
+ - tags: $tags
+
+## Django Packages : Reusable apps, sites and tools directory for Django
+ - [https://djangopackages.org](https://djangopackages.org)
+ - date published: 2023-10-25T21:14:37.143169+00:00
+ - user: None
+ - tags: $tags
+
+## DJ Food | An online scrapbook by Strictly Kev aka DJ Food & Openmind.
+ - [https://www.djfood.org](https://www.djfood.org)
+ - date published: 2023-10-25T21:14:43.286931+00:00
+ - user: None
+ - tags: $tags
+
+## Home - D Programming Language
+ - [https://dlang.org](https://dlang.org)
+ - date published: 2023-10-25T21:14:45.334948+00:00
+ - user: None
+ - tags: $tags
+
+## Index - D Programming Language Discussion Forum
+ - [https://forum.dlang.org](https://forum.dlang.org)
+ - date published: 2023-10-25T21:14:51.989473+00:00
+ - user: None
+ - tags: $tags
+
+## Deep Learning Systems
+ - [https://dlsyscourse.org](https://dlsyscourse.org)
+ - date published: 2023-10-25T21:14:57.710621+00:00
+ - user: None
+ - tags: $tags
+
+## DocumentCloud
+ - [https://www.documentcloud.org](https://www.documentcloud.org)
+ - date published: 2023-10-25T21:14:58.036496+00:00
+ - user: None
+ - tags: $tags
+
+## The Document Foundation Blog - The home of LibreOffice
+ - [https://blog.documentfoundation.org](https://blog.documentfoundation.org)
+ - date published: 2023-10-25T21:14:59.845814+00:00
+ - user: None
+ - tags: $tags
+
+## LibreOffice Development Blog - Blog for the LibreOffice Developers Community; Tutorials, tips and tricks for working with the LibreOffice code
+ - [https://dev.blog.documentfoundation.org](https://dev.blog.documentfoundation.org)
+ - date published: 2023-10-25T21:15:02.330486+00:00
+ - user: None
+ - tags: $tags
+
+## Welcome to The Document Foundation’s wiki - The Document Foundation Wiki
+ - [https://wiki.documentfoundation.org](https://wiki.documentfoundation.org)
+ - date published: 2023-10-25T21:15:04.376783+00:00
+ - user: None
+ - tags: $tags
+
+## Home Page
+ - [https://doi.org](https://doi.org)
+ - date published: 2023-10-25T21:15:05.945582+00:00
+ - user: None
+ - tags: $tags
+
+## Dolphin Emulator - GameCube/Wii games on PC
+ - [https://dolphin-emu.org](https://dolphin-emu.org)
+ - date published: 2023-10-25T08:36:22.762291+00:00
+ - user: None
+ - tags: ['emulator']
+
+## Domain Verification Protocol
+ - [https://domainverification.org](https://domainverification.org)
+ - date published: 2023-10-25T21:15:06.523985+00:00
+ - user: None
+ - tags: $tags
+
+## Domain Verification Protocol
+ - [https://www.domainverification.org](https://www.domainverification.org)
+ - date published: 2023-10-25T21:15:07.191275+00:00
+ - user: None
+ - tags: $tags
+
+## Domestika
+ - [https://www.domestika.org](https://www.domestika.org)
+ - date published: 2023-10-24T20:19:43.752630+00:00
+ - user: None
+ - tags: ['drawing', 'tutorials', 'writing', 'courses']
+
+## The Doom Wiki at DoomWiki.org - Doom, Heretic, Hexen, Strife, and more
+ - [https://doomwiki.org](https://doomwiki.org)
+ - date published: 2023-10-25T21:15:10.502720+00:00
+ - user: None
+ - tags: $tags
+
+## .NET Foundation | .NET Foundation
+ - [https://dotnetfoundation.org](https://dotnetfoundation.org)
+ - date published: 2023-10-25T21:15:11.977111+00:00
+ - user: None
+ - tags: $tags
+
+## Welcome - Doug Engelbart Institute
+ - [https://www.dougengelbart.org](https://www.dougengelbart.org)
+ - date published: 2023-10-25T21:15:15.673050+00:00
+ - user: None
+ - tags: $tags
+
+## DragonFlyBSD: DragonFly BSD
+ - [https://www.dragonflybsd.org](https://www.dragonflybsd.org)
+ - date published: 2023-10-25T21:15:22.406789+00:00
+ - user: None
+ - tags: $tags
+
+## D.R.A.S.T.I.C. Research – D.R.A.S.T.I.C. Research
+ - [https://drasticresearch.org](https://drasticresearch.org)
+ - date published: 2023-10-25T21:15:25.874666+00:00
+ - user: None
+ - tags: $tags
+
+## diziet | Recent Entries
+ - [https://diziet.dreamwidth.org](https://diziet.dreamwidth.org)
+ - date published: 2023-10-25T21:15:30.379033+00:00
+ - user: None
+ - tags: $tags
+
+## graydon2 | Recent Entries
+ - [https://graydon2.dreamwidth.org](https://graydon2.dreamwidth.org)
+ - date published: 2023-10-25T21:15:34.097894+00:00
+ - user: None
+ - tags: $tags
+
+## liam_on_linux | Recent Entries
+ - [https://liam-on-linux.dreamwidth.org](https://liam-on-linux.dreamwidth.org)
+ - date published: 2023-10-25T21:15:39.084907+00:00
+ - user: None
+ - tags: $tags
+
+## mjg59 | Recent Entries
+ - [https://mjg59.dreamwidth.org](https://mjg59.dreamwidth.org)
+ - date published: 2023-10-25T21:15:42.543885+00:00
+ - user: None
+ - tags: $tags
+
+## roadrunnertwice | Recent Entries
+ - [https://roadrunnertwice.dreamwidth.org](https://roadrunnertwice.dreamwidth.org)
+ - date published: 2023-10-25T21:15:47.028918+00:00
+ - user: None
+ - tags: $tags
+
+## siderea | Recent Entries
+ - [https://siderea.dreamwidth.org](https://siderea.dreamwidth.org)
+ - date published: 2023-10-25T21:15:50.428581+00:00
+ - user: None
+ - tags: $tags
+
+## spindas | Recent Entries
+ - [https://spindas.dreamwidth.org](https://spindas.dreamwidth.org)
+ - date published: 2023-10-25T21:15:54.073987+00:00
+ - user: None
+ - tags: $tags
+
+## Drupal - Open Source CMS | Drupal.org
+ - [https://www.drupal.org](https://www.drupal.org)
+ - date published: 2023-10-25T21:15:56.363748+00:00
+ - user: None
+ - tags: $tags
+
+## DSLinux - Linux for the Nintendo DS
+ - [https://www.dslinux.org](https://www.dslinux.org)
+ - date published: 2023-10-25T08:32:08.225858+00:00
+ - user: None
+ - tags: $tags
+
+## dtrace.org
+ - [http://dtrace.org](http://dtrace.org)
+ - date published: 2023-10-25T21:15:59.090146+00:00
+ - user: None
+ - tags: $tags
+
+## DuckDB - An in-process SQL OLAP database management system
+ - [https://duckdb.org](https://duckdb.org)
+ - date published: 2023-10-25T21:16:01.562376+00:00
+ - user: None
+ - tags: $tags
+
+## Duck DNS
+ - [https://www.duckdns.org](https://www.duckdns.org)
+ - date published: 2023-10-25T21:16:02.876094+00:00
+ - user: None
+ - tags: $tags
+
+## DuckStation: Fast PS1 Emulator
+ - [https://www.duckstation.org](https://www.duckstation.org)
+ - date published: 2023-10-25T11:18:17.981573+00:00
+ - user: None
+ - tags: $tags
+
+## Earthjustice: Because the earth needs a good lawyer
+ - [https://earthjustice.org](https://earthjustice.org)
+ - date published: 2023-10-25T09:27:32.950598+00:00
+ - user: None
+ - tags: $tags
+
+## Econlib - The Library of Economics and Liberty
+ - [https://www.econlib.org](https://www.econlib.org)
+ - date published: 2023-10-25T21:16:15.326410+00:00
+ - user: None
+ - tags: $tags
+
+## Econofact
+ - [https://econofact.org](https://econofact.org)
+ - date published: 2023-10-25T21:16:17.972710+00:00
+ - user: None
+ - tags: $tags
+
+## http://simplecast.econtalk.org
+ - [http://simplecast.econtalk.org](http://simplecast.econtalk.org)
+ - date published: 2023-10-25T21:16:19.356173+00:00
+ - user: None
+ - tags: $tags
+
+## EcoRenovator.org — Diy, Green, Home Improvements, Energy Efficiency
+ - [https://ecorenovator.org](https://ecorenovator.org)
+ - date published: 2023-10-25T21:16:25.962788+00:00
+ - user: None
+ - tags: $tags
+
+## Ecstatic Integration | Jules Evans | Substack
+ - [https://www.ecstaticintegration.org](https://www.ecstaticintegration.org)
+ - date published: 2023-10-25T21:16:29.105749+00:00
+ - user: None
+ - tags: $tags
+
+## Edge.org
+ - [https://www.edge.org](https://www.edge.org)
+ - date published: 2023-10-25T21:16:31.469598+00:00
+ - user: None
+ - tags: $tags
+
+## European Digital Rights (EDRi)
+ - [https://edri.org](https://edri.org)
+ - date published: 2023-10-25T21:16:34.020264+00:00
+ - user: None
+ - tags: $tags
+
+## Covering education in California and beyond | EdSource
+ - [https://edsource.org](https://edsource.org)
+ - date published: 2023-10-25T21:16:39.216605+00:00
+ - user: None
+ - tags: $tags
+
+## Educated Guesswork
+ - [https://educatedguesswork.org](https://educatedguesswork.org)
+ - date published: 2023-10-25T21:16:41.328615+00:00
+ - user: None
+ - tags: $tags
+
+## Education Next - A Journal of Opinion and Research About Education Policy
+ - [https://www.educationnext.org](https://www.educationnext.org)
+ - date published: 2023-10-25T21:16:46.987080+00:00
+ - user: None
+ - tags: $tags
+
+## Electronic Frontier Foundation | Defending your rights in the digital world
+ - [https://www.eff.org](https://www.eff.org)
+ - date published: 2023-10-25T09:27:01.838372+00:00
+ - user: None
+ - tags: $tags
+
+## Effective Altruism Forum
+ - [https://forum.effectivealtruism.org](https://forum.effectivealtruism.org)
+ - date published: 2023-10-25T21:16:59.215662+00:00
+ - user: None
+ - tags: $tags
+
+## The Egison Programming Language
+ - [https://www.egison.org](https://www.egison.org)
+ - date published: 2023-10-25T21:17:02.744731+00:00
+ - user: None
+ - tags: $tags
+
+## Home - Economic Innovation Group
+ - [https://eig.org](https://eig.org)
+ - date published: 2023-10-25T21:17:07.746023+00:00
+ - user: None
+ - tags: $tags
+
+## Main Index (eighty-twenty news)
+ - [https://eighty-twenty.org](https://eighty-twenty.org)
+ - date published: 2023-10-25T21:17:10.228233+00:00
+ - user: None
+ - tags: $tags
+
+## Peter Eisentraut | Peter Eisentraut’s blog
+ - [https://peter.eisentraut.org](https://peter.eisentraut.org)
+ - date published: 2023-10-25T21:17:12.533774+00:00
+ - user: None
+ - tags: $tags
+
+## https://eklitzke.org
+ - [https://eklitzke.org](https://eklitzke.org)
+ - date published: 2023-10-25T21:17:15.981137+00:00
+ - user: None
+ - tags: $tags
+
+## Title | There is so much pleasure to be gained from useless knowledge !  B. Russell
+ - [https://www.elbruz.org](https://www.elbruz.org)
+ - date published: 2023-10-25T21:17:18.766800+00:00
+ - user: None
+ - tags: $tags
+
+## Latest research | eLife
+ - [https://elifesciences.org](https://elifesciences.org)
+ - date published: 2023-10-25T21:17:23.164782+00:00
+ - user: None
+ - tags: $tags
+
+## eLinux.org
+ - [https://elinux.org](https://elinux.org)
+ - date published: 2023-10-25T21:17:26.630312+00:00
+ - user: None
+ - tags: $tags
+
+## elixir-lang.github.com
+ - [https://elixir-lang.org](https://elixir-lang.org)
+ - date published: 2023-10-25T08:35:12.152981+00:00
+ - user: None
+ - tags: $tags
+
+## ELM by ChaN
+ - [http://elm-chan.org](http://elm-chan.org)
+ - date published: 2023-10-25T21:17:29.697589+00:00
+ - user: None
+ - tags: $tags
+
+## home
+ - [https://elm-lang.org](https://elm-lang.org)
+ - date published: 2023-10-25T21:17:32.410731+00:00
+ - user: None
+ - tags: $tags
+
+## EmacsConf
+ - [https://emacsconf.org](https://emacsconf.org)
+ - date published: 2023-10-25T21:17:34.183101+00:00
+ - user: None
+ - tags: $tags
+
+## Hello from Emacs Docs | Emacs Docs
+ - [https://www.emacsdocs.org](https://www.emacsdocs.org)
+ - date published: 2023-10-25T21:17:36.522307+00:00
+ - user: None
+ - tags: $tags
+
+## Emacs User Survey
+ - [https://emacssurvey.org](https://emacssurvey.org)
+ - date published: 2023-10-25T21:17:38.020899+00:00
+ - user: None
+ - tags: $tags
+
+## EmacsWiki: Site Map
+ - [https://www.emacswiki.org](https://www.emacswiki.org)
+ - date published: 2023-10-25T21:17:41.959548+00:00
+ - user: None
+ - tags: $tags
+
+## Connecting the threads between ecology, culture, and spirituality – Emergence Magazine
+ - [https://emergencemagazine.org](https://emergencemagazine.org)
+ - date published: 2023-10-25T21:17:51.675310+00:00
+ - user: None
+ - tags: $tags
+
+## Emojipedia
+ - [https://blog.emojipedia.org](https://blog.emojipedia.org)
+ - date published: 2023-10-25T21:17:53.068101+00:00
+ - user: None
+ - tags: $tags
+
+## EmulationStation
+ - [https://emulationstation.org](https://emulationstation.org)
+ - date published: 2023-10-25T08:33:41.083763+00:00
+ - user: None
+ - tags: ['emulation']
+
+## Centre for Research on Energy and Clean Air
+ - [https://energyandcleanair.org](https://energyandcleanair.org)
+ - date published: 2023-10-25T21:17:56.401220+00:00
+ - user: None
+ - tags: $tags
+
+## Home - Enhanced Games. A Better Version of the Olympic Games.
+ - [https://enhanced.org](https://enhanced.org)
+ - date published: 2023-10-27T12:06:37.342704+00:00
+ - user: None
+ - tags: $tags
+
+## http://www.enist.org
+ - [http://www.enist.org](http://www.enist.org)
+ - date published: 2023-10-25T21:17:56.923691+00:00
+ - user: None
+ - tags: $tags
+
+## Entomology Today - Brought to you by the Entomological Society of America
+ - [https://entomologytoday.org](https://entomologytoday.org)
+ - date published: 2023-10-25T21:18:01.981972+00:00
+ - user: None
+ - tags: $tags
+
+## Home - Environment America
+ - [https://environmentamerica.org](https://environmentamerica.org)
+ - date published: 2023-10-25T21:18:06.610672+00:00
+ - user: None
+ - tags: $tags
+
+## EN World Tabletop RPG News & Reviews | EN World Tabletop RPG News & Reviews
+ - [https://www.enworld.org](https://www.enworld.org)
+ - date published: 2023-10-25T21:18:11.096732+00:00
+ - user: None
+ - tags: $tags
+
+## Encyclopedia of Life
+ - [https://eol.org](https://eol.org)
+ - date published: 2023-10-25T21:18:13.102746+00:00
+ - user: None
+ - tags: $tags
+
+## Homepage - Eos
+ - [https://eos.org](https://eos.org)
+ - date published: 2023-10-25T21:18:16.991699+00:00
+ - user: None
+ - tags: $tags
+
+## Economic Policy Institute | Research and Ideas for Shared Prosperity
+ - [https://www.epi.org](https://www.epi.org)
+ - date published: 2023-10-25T21:18:19.591674+00:00
+ - user: None
+ - tags: $tags
+
+## EPIC – Electronic Privacy Information Center
+ - [https://epic.org](https://epic.org)
+ - date published: 2023-10-25T11:25:29.729478+00:00
+ - user: None
+ - tags: $tags
+
+## Epoch
+ - [https://epochai.org](https://epochai.org)
+ - date published: 2023-10-25T21:18:20.910858+00:00
+ - user: None
+ - tags: $tags
+
+## September 2023 | Epoché Magazine
+ - [https://epochemagazine.org](https://epochemagazine.org)
+ - date published: 2023-10-25T21:18:22.655480+00:00
+ - user: None
+ - tags: $tags
+
+## Thib's Home
+ - [https://ergaster.org](https://ergaster.org)
+ - date published: 2023-10-25T21:18:23.232043+00:00
+ - user: None
+ - tags: $tags
+
+## Technology & Marketing Law Blog -
+ - [https://blog.ericgoldman.org](https://blog.ericgoldman.org)
+ - date published: 2023-10-25T21:18:25.753223+00:00
+ - user: None
+ - tags: $tags
+
+## Index - Erlang/OTP
+ - [https://erlang.org](https://erlang.org)
+ - date published: 2023-10-25T08:35:13.923538+00:00
+ - user: None
+ - tags: $tags
+
+## Index - Erlang/OTP
+ - [https://www.erlang.org](https://www.erlang.org)
+ - date published: 2023-10-25T21:18:27.346511+00:00
+ - user: None
+ - tags: $tags
+
+## ESA/Webb
+ - [https://esawebb.org](https://esawebb.org)
+ - date published: 2023-10-25T21:18:30.193112+00:00
+ - user: None
+ - tags: $tags
+
+## European Society of Cardiology
+ - [https://www.escardio.org](https://www.escardio.org)
+ - date published: 2023-10-25T21:18:40.217871+00:00
+ - user: None
+ - tags: $tags
+
+## ESO
+ - [https://www.eso.org](https://www.eso.org)
+ - date published: 2023-10-25T21:19:17.326149+00:00
+ - user: None
+ - tags: $tags
+
+## Esolang, the esoteric programming languages wiki
+ - [https://esolangs.org](https://esolangs.org)
+ - date published: 2023-10-25T21:19:19.044717+00:00
+ - user: None
+ - tags: $tags
+
+## KZG Summoning Ceremony
+ - [https://ceremony.ethereum.org](https://ceremony.ethereum.org)
+ - date published: 2023-10-25T21:19:21.268688+00:00
+ - user: None
+ - tags: $tags
+
+## Home | ethereum.org
+ - [https://ethereum.org](https://ethereum.org)
+ - date published: 2023-10-29T15:14:03.641830+00:00
+ - user: None
+ - tags: ['crypto']
+
+## Digital Freedom now - Swarm
+ - [https://www.ethswarm.org](https://www.ethswarm.org)
+ - date published: 2023-10-25T21:19:23.703832+00:00
+ - user: None
+ - tags: $tags
+
+## Engineering and Technology History Wiki
+ - [https://ethw.org](https://ethw.org)
+ - date published: 2023-10-25T21:19:26.800170+00:00
+ - user: None
+ - tags: $tags
+
+## https://caaspp-elpac.ets.org
+ - [https://caaspp-elpac.ets.org](https://caaspp-elpac.ets.org)
+ - date published: 2023-10-25T21:19:28.296308+00:00
+ - user: None
+ - tags: $tags
+
+## About
+ - [https://kapouay.eu.org](https://kapouay.eu.org)
+ - date published: 2023-10-25T08:54:36.343299+00:00
+ - user: None
+ - tags: $tags
+
+## SVMetaSearch
+ - [https://svmetasearch.eu.org](https://svmetasearch.eu.org)
+ - date published: 2023-10-25T08:29:26.848505+00:00
+ - user: None
+ - tags: $tags
+
+## Zola's WebPage
+ - [https://znano.eu.org](https://znano.eu.org)
+ - date published: 2023-10-25T21:19:29.918186+00:00
  - user: None
  - tags: $tags
 
@@ -4401,1599 +1753,4261 @@
  - user: None
  - tags: $tags
 
-## Sciencenorway - Science News from Norway
- - [https://sciencenorway.no](https://sciencenorway.no)
- - date published: 2023-10-25T10:11:59.195592+00:00
+## European Lisp Symposium
+ - [https://www.european-lisp-symposium.org](https://www.european-lisp-symposium.org)
+ - date published: 2023-10-25T21:19:31.534165+00:00
  - user: None
  - tags: $tags
 
-## Sci.News: Breaking Science News
- - [https://www.sci.news](https://www.sci.news)
- - date published: 2023-10-25T10:11:45.286879+00:00
+## Hi, I'm Aditya Athalye.
+ - [https://www.evalapply.org](https://www.evalapply.org)
+ - date published: 2023-10-25T21:19:33.111462+00:00
  - user: None
  - tags: $tags
 
-## Weizmann Wonder Wander - News, Features and Discoveries from the Weizmann Institute of Science
- - [https://wis-wander.weizmann.ac.il](https://wis-wander.weizmann.ac.il)
- - date published: 2023-10-25T10:11:36.340185+00:00
+## Home Page of Evan Miller
+ - [https://www.evanmiller.org](https://www.evanmiller.org)
+ - date published: 2023-10-25T21:19:35.240645+00:00
  - user: None
  - tags: $tags
 
-## NASA Science
- - [https://science.nasa.gov](https://science.nasa.gov)
- - date published: 2023-10-25T10:11:29.336904+00:00
+## Ex Astris Scientia - Bernd Schneider's Star Trek Site
+ - [https://www.ex-astris-scientia.org](https://www.ex-astris-scientia.org)
+ - date published: 2023-10-25T21:19:36.786033+00:00
  - user: None
  - tags: $tags
 
-## NASA Mars Exploration
- - [https://mars.nasa.gov](https://mars.nasa.gov)
- - date published: 2023-10-25T10:11:24.762016+00:00
+## Exercism
+ - [https://exercism.org](https://exercism.org)
+ - date published: 2023-10-25T21:19:39.464087+00:00
  - user: None
  - tags: $tags
 
-## https://www.thelancet.com
- - [https://www.thelancet.com](https://www.thelancet.com)
- - date published: 2023-10-25T10:11:22.609313+00:00
+## ExifTool by Phil Harvey
+ - [https://exiftool.org](https://exiftool.org)
+ - date published: 2023-10-25T21:19:45.814769+00:00
  - user: None
  - tags: $tags
 
-## Home - SpaceNews
- - [https://spacenews.com](https://spacenews.com)
- - date published: 2023-10-25T10:11:21.607203+00:00
+## Explore.org
+ - [https://explore.org](https://explore.org)
+ - date published: 2023-10-25T21:19:47.761417+00:00
  - user: None
  - tags: $tags
 
-## SciTechDaily - Science, Space and Technology News 2023
- - [https://scitechdaily.com](https://scitechdaily.com)
- - date published: 2023-10-25T10:11:08.449489+00:00
+## EXP TV
+ - [https://exptv.org](https://exptv.org)
+ - date published: 2023-10-25T21:19:50.136672+00:00
  - user: None
  - tags: $tags
 
-## Scientific American: Science News, Expert Analysis, Health Research - Scientific American
- - [https://www.scientificamerican.com](https://www.scientificamerican.com)
- - date published: 2023-10-25T10:11:03.956799+00:00
+## Extism - make all software programmable. Extend from within. | Extism - make all software programmable. Extend from within.
+ - [https://extism.org](https://extism.org)
+ - date published: 2023-10-25T21:19:54.073061+00:00
  - user: None
  - tags: $tags
 
-## ScienceDirect
- - [https://www.sciencedirect.com](https://www.sciencedirect.com)
- - date published: 2023-10-25T10:10:59.662060+00:00
+## F-Droid - Free and Open Source Android App Repository
+ - [https://f-droid.org](https://f-droid.org)
+ - date published: 2023-10-24T20:10:50.007548+00:00
  - user: None
+ - tags: ['open source', 'app store']
+
+## F4PGA - the GCC of FPGAs
+ - [https://f4pga.org](https://f4pga.org)
+ - date published: 2023-10-25T21:19:57.352430+00:00
+ - user: None
+ - tags: $tags
+
+## 403 Forbidden
+ - [https://fair.org](https://fair.org)
+ - date published: 2023-10-25T21:19:59.248745+00:00
+ - user: None
+ - tags: $tags
+
+## Fair Trials | Fairness, equality, justice
+ - [https://www.fairtrials.org](https://www.fairtrials.org)
+ - date published: 2023-10-25T21:20:03.100788+00:00
+ - user: None
+ - tags: $tags
+
+## Falco
+ - [https://falco.org](https://falco.org)
+ - date published: 2023-10-25T21:20:05.441013+00:00
+ - user: None
+ - tags: $tags
+
+## Fanlore
+ - [https://fanlore.org](https://fanlore.org)
+ - date published: 2023-10-25T13:58:14.775906+00:00
+ - user: None
+ - tags: $tags
+
+## Home - Federation of American Scientists
+ - [https://fas.org](https://fas.org)
+ - date published: 2023-10-25T21:20:09.087511+00:00
+ - user: None
+ - tags: $tags
+
+## FAS Project on Government Secrecy (1991-2021)
+ - [https://sgp.fas.org](https://sgp.fas.org)
+ - date published: 2023-10-25T21:20:11.503363+00:00
+ - user: None
+ - tags: $tags
+
+## Fe - A next generation, statically typed, future-proof smart contract language for the Ethereum Virtual Machine
+ - [https://fe-lang.org](https://fe-lang.org)
+ - date published: 2023-10-25T21:20:12.316273+00:00
+ - user: None
+ - tags: $tags
+
+## Home | Federal Reserve History
+ - [https://www.federalreservehistory.org](https://www.federalreservehistory.org)
+ - date published: 2023-10-25T21:20:14.023107+00:00
+ - user: None
+ - tags: $tags
+
+## FediScience.org
+ - [https://fediscience.org](https://fediscience.org)
+ - date published: 2023-10-25T21:20:14.575500+00:00
+ - user: None
+ - tags: $tags
+
+## Fedora Magazine - Guides, information, and news about the Fedora operating system for users, developers, system administrators, and community members.
+ - [https://fedoramagazine.org](https://fedoramagazine.org)
+ - date published: 2023-10-25T21:20:17.331969+00:00
+ - user: None
+ - tags: $tags
+
+## Fedora Updates System
+ - [https://bodhi.fedoraproject.org](https://bodhi.fedoraproject.org)
+ - date published: 2023-10-25T21:20:23.751445+00:00
+ - user: None
+ - tags: $tags
+
+## Fedora Linux | The Fedora Project
+ - [https://www.fedoraproject.org](https://www.fedoraproject.org)
+ - date published: 2023-10-25T08:32:14.208110+00:00
+ - user: None
+ - tags: ['operating system']
+
+## Home - Foundation for Economic Education
+ - [https://fee.org](https://fee.org)
+ - date published: 2023-10-25T21:20:25.430776+00:00
+ - user: None
+ - tags: $tags
+
+## Feedbase
+ - [https://feedbase.org](https://feedbase.org)
+ - date published: 2023-10-25T21:20:26.634084+00:00
+ - user: None
+ - tags: $tags
+
+## feldspaten
+ - [https://feldspaten.org](https://feldspaten.org)
+ - date published: 2023-10-25T21:20:28.648981+00:00
+ - user: None
+ - tags: $tags
+
+## FFII | Foundation for a Free Information Infrastructure information on software patents, enforcement of IP, trade agreements
+ - [https://ffii.org](https://ffii.org)
+ - date published: 2023-10-25T21:20:31.744673+00:00
+ - user: None
+ - tags: $tags
+
+## FFmpeg
+ - [https://ffmpeg.org](https://ffmpeg.org)
+ - date published: 2023-10-25T21:20:33.094820+00:00
+ - user: None
+ - tags: $tags
+
+## FFmpeg
+ - [https://www.ffmpeg.org](https://www.ffmpeg.org)
+ - date published: 2023-10-25T21:20:34.755297+00:00
+ - user: None
+ - tags: $tags
+
+## Fifth Estate - Radical publishing since 1965
+ - [https://www.fifthestate.org](https://www.fifthestate.org)
+ - date published: 2023-10-25T21:20:45.587600+00:00
+ - user: None
+ - tags: $tags
+
+## Welcome to fiftythree.org
+ - [http://www.fiftythree.org](http://www.fiftythree.org)
+ - date published: 2023-10-25T21:20:49.852667+00:00
+ - user: None
+ - tags: $tags
+
+## Greatest Films - The Best Movies in Cinematic History
+ - [https://www.filmsite.org](https://www.filmsite.org)
+ - date published: 2023-10-27T14:19:55.460312+00:00
+ - user: None
+ - tags: ['movies']
+
+## Filmulator
+ - [https://filmulator.org](https://filmulator.org)
+ - date published: 2023-10-25T21:20:50.979098+00:00
+ - user: None
+ - tags: $tags
+
+## Filter - Harm reduction journalism from a dedicated nonprofit
+ - [https://filtermag.org](https://filtermag.org)
+ - date published: 2023-10-25T21:20:54.669237+00:00
+ - user: None
+ - tags: $tags
+
+## Perspective | Perspective
+ - [https://perspective.finos.org](https://perspective.finos.org)
+ - date published: 2023-10-25T21:20:56.182673+00:00
+ - user: None
+ - tags: $tags
+
+## First Monday
+ - [https://firstmonday.org](https://firstmonday.org)
+ - date published: 2023-10-25T10:40:03.231308+00:00
+ - user: None
+ - tags: $tags
+
+## Home - First Street Foundation
+ - [https://firststreet.org](https://firststreet.org)
+ - date published: 2023-10-25T21:21:02.002987+00:00
+ - user: None
+ - tags: $tags
+
+## www.fitzsim.org - Home
+ - [https://www.fitzsim.org](https://www.fitzsim.org)
+ - date published: 2023-10-25T21:21:04.082460+00:00
+ - user: None
+ - tags: $tags
+
+## FlashMuseum - Flash Games & Animations
+ - [https://flashmuseum.org](https://flashmuseum.org)
+ - date published: 2023-10-25T21:21:09.908752+00:00
+ - user: None
+ - tags: $tags
+
+## Flatcar Container Linux | Flatcar Container Linux
+ - [https://www.flatcar.org](https://www.flatcar.org)
+ - date published: 2023-10-25T21:21:16.338373+00:00
+ - user: None
+ - tags: $tags
+
+## Home | Flathub
+ - [https://flathub.org](https://flathub.org)
+ - date published: 2023-10-24T20:10:54.843465+00:00
+ - user: None
+ - tags: ['app store']
+
+## François Fleuret's Homepage
+ - [https://fleuret.org](https://fleuret.org)
+ - date published: 2023-10-25T21:21:18.004916+00:00
+ - user: None
+ - tags: $tags
+
+## Home - Flickr Foundation
+ - [https://www.flickr.org](https://www.flickr.org)
+ - date published: 2023-10-25T21:21:20.421034+00:00
+ - user: None
+ - tags: $tags
+
+## floverfelt.org | Thoughts, notes, etc.
+ - [https://floverfelt.org](https://floverfelt.org)
+ - date published: 2023-10-25T21:21:21.603835+00:00
+ - user: None
+ - tags: $tags
+
+## Flow – The officially worst software development methodology in history
+ - [https://flowmanifest.org](https://flowmanifest.org)
+ - date published: 2023-10-25T21:21:23.100842+00:00
+ - user: None
+ - tags: $tags
+
+## Fluxus Portal
+ - [https://fluxus.org](https://fluxus.org)
+ - date published: 2023-10-25T21:21:25.292968+00:00
+ - user: None
+ - tags: $tags
+
+## Build production-grade data and ML workflows, hassle-free with Flyte
+ - [https://flyte.org](https://flyte.org)
+ - date published: 2023-10-25T21:21:33.769405+00:00
+ - user: None
+ - tags: $tags
+
+## Folklore.org: The Original Macintosh
+ - [https://www.folklore.org](https://www.folklore.org)
+ - date published: 2023-10-25T21:21:35.138546+00:00
+ - user: None
+ - tags: $tags
+
+## ForgeFed
+ - [https://forgefed.org](https://forgefed.org)
+ - date published: 2023-10-25T21:21:36.586257+00:00
+ - user: None
+ - tags: $tags
+
+## Forgejo – Beyond coding. We forge.
+ - [https://forgejo.org](https://forgejo.org)
+ - date published: 2023-10-25T21:21:37.400053+00:00
+ - user: None
+ - tags: $tags
+
+## Software Forge Performance Index
+ - [https://forgeperf.org](https://forgeperf.org)
+ - date published: 2023-10-25T21:21:47.839606+00:00
+ - user: None
+ - tags: $tags
+
+## Forth Interest Group Home Page
+ - [http://www.forth.org](http://www.forth.org)
+ - date published: 2023-10-25T21:21:50.066557+00:00
+ - user: None
+ - tags: $tags
+
+## for Tomorrow | A long-term, multifaceted commitment to building a more sustainable world
+ - [https://fortomorrow.org](https://fortomorrow.org)
+ - date published: 2023-10-25T21:21:57.633900+00:00
+ - user: None
+ - tags: $tags
+
+## The Fortran Programming Language — Fortran Programming Language
+ - [https://fortran-lang.org](https://fortran-lang.org)
+ - date published: 2023-10-25T21:21:58.660647+00:00
+ - user: None
+ - tags: $tags
+
+## FOSDEM24 - Previous FOSDEM Editions
+ - [https://archive.fosdem.org](https://archive.fosdem.org)
+ - date published: 2023-10-25T21:22:00.131913+00:00
+ - user: None
+ - tags: $tags
+
+## FOSDEM24 - Home
+ - [https://fosdem.org](https://fosdem.org)
+ - date published: 2023-10-25T21:22:01.486923+00:00
+ - user: None
+ - tags: $tags
+
+## FOSS and Crafts
+ - [https://fossandcrafts.org](https://fossandcrafts.org)
+ - date published: 2023-10-25T21:22:03.037482+00:00
+ - user: None
+ - tags: $tags
+
+## Fossil: Home
+ - [https://www.fossil-scm.org](https://www.fossil-scm.org)
+ - date published: 2023-10-25T21:22:05.638420+00:00
+ - user: None
+ - tags: $tags
+
+## Fosstodon
+ - [https://fosstodon.org](https://fosstodon.org)
+ - date published: 2023-10-24T20:13:36.118898+00:00
+ - user: None
+ - tags: $tags
+
+## Fosstodon Hub
+ - [https://hub.fosstodon.org](https://hub.fosstodon.org)
+ - date published: 2023-10-25T21:22:06.810545+00:00
+ - user: None
+ - tags: $tags
+
+## FoundSF
+ - [https://www.foundsf.org](https://www.foundsf.org)
+ - date published: 2023-10-25T21:22:16.106715+00:00
+ - user: None
+ - tags: $tags
+
+## The History of FoxPro
+ - [http://www.foxprohistory.org](http://www.foxprohistory.org)
+ - date published: 2023-10-25T21:22:16.878309+00:00
+ - user: None
+ - tags: $tags
+
+## Framablog – La route est longue mais la voie est libre…
+ - [https://framablog.org](https://framablog.org)
+ - date published: 2023-10-25T21:22:21.674069+00:00
+ - user: None
+ - tags: $tags
+
+## Franck Goddio: Homepage
+ - [https://www.franckgoddio.org](https://www.franckgoddio.org)
+ - date published: 2023-10-25T21:22:23.863582+00:00
+ - user: None
+ - tags: $tags
+
+## Fraser Institute
+ - [https://fraserinstitute.org](https://fraserinstitute.org)
+ - date published: 2023-10-25T21:22:27.402641+00:00
+ - user: None
+ - tags: $tags
+
+## FreeBSD Git repositories
+ - [https://cgit.freebsd.org](https://cgit.freebsd.org)
+ - date published: 2023-10-25T21:22:28.105203+00:00
+ - user: None
+ - tags: $tags
+
+## https://docs.freebsd.org/en/
+ - [https://docs.freebsd.org](https://docs.freebsd.org)
+ - date published: 2023-10-25T21:22:28.573567+00:00
+ - user: None
+ - tags: $tags
+
+## FreeBSD Mailing lists
+ - [https://lists.freebsd.org](https://lists.freebsd.org)
+ - date published: 2023-10-25T21:22:31.820209+00:00
+ - user: None
+ - tags: $tags
+
+## FreeBSD Homepages - redirect
+ - [https://people.freebsd.org](https://people.freebsd.org)
+ - date published: 2023-10-25T21:22:32.400113+00:00
+ - user: None
+ - tags: $tags
+
+## The FreeBSD Project
+ - [https://www.freebsd.org](https://www.freebsd.org)
+ - date published: 2023-10-25T21:22:33.812166+00:00
+ - user: None
+ - tags: $tags
+
+## FreeCAD Forum - FreeCAD forum
+ - [https://forum.freecad.org](https://forum.freecad.org)
+ - date published: 2023-10-25T21:22:34.862514+00:00
+ - user: None
+ - tags: $tags
+
+## Freeciv.org - open source empire-building strategy game.
+ - [http://freeciv.org](http://freeciv.org)
+ - date published: 2023-10-29T10:01:59.628403+00:00
+ - user: None
+ - tags: ['open source', 'game']
+
+## http://www.freecodecamp.org
+ - [http://www.freecodecamp.org](http://www.freecodecamp.org)
+ - date published: 2023-10-25T21:22:35.841864+00:00
+ - user: None
+ - tags: $tags
+
+## Free Code Tools - Build better and faster
+ - [https://freecodetools.org](https://freecodetools.org)
+ - date published: 2023-10-25T21:22:36.834803+00:00
+ - user: None
+ - tags: $tags
+
+## freedesktop.org git repository browser
+ - [http://cgit.freedesktop.org](http://cgit.freedesktop.org)
+ - date published: 2023-10-25T21:22:52.032357+00:00
+ - user: None
+ - tags: $tags
+
+## Explore groups · GitLab
+ - [https://gitlab.freedesktop.org](https://gitlab.freedesktop.org)
+ - date published: 2023-10-25T21:22:53.665835+00:00
+ - user: None
+ - tags: $tags
+
+## Poppler
+ - [https://poppler.freedesktop.org](https://poppler.freedesktop.org)
+ - date published: 2023-10-25T21:22:54.773695+00:00
+ - user: None
+ - tags: $tags
+
+## FreeLists
+ - [https://www.freelists.org](https://www.freelists.org)
+ - date published: 2023-10-25T21:22:55.668408+00:00
+ - user: None
+ - tags: $tags
+
+## Freenet
+ - [https://freenet.org](https://freenet.org)
+ - date published: 2023-10-25T21:22:56.444630+00:00
+ - user: None
+ - tags: $tags
+
+## Hyphanet
+ - [https://freenetproject.org](https://freenetproject.org)
+ - date published: 2023-10-25T21:22:57.618651+00:00
+ - user: None
+ - tags: $tags
+
+## THE OFFICIAL WEBSITE FOR ROSS ULBRICHT | FreeRoss.org
+ - [https://freeross.org](https://freeross.org)
+ - date published: 2023-10-25T21:23:00.806197+00:00
+ - user: None
+ - tags: $tags
+
+## http://brianb.freeshell.org
+ - [http://brianb.freeshell.org](http://brianb.freeshell.org)
+ - date published: 2023-10-25T21:23:01.878498+00:00
+ - user: None
+ - tags: $tags
+
+## FreshRSS, a free, self-hostable feeds aggregator
+ - [https://freshrss.org](https://freshrss.org)
+ - date published: 2023-10-25T08:33:42.668110+00:00
+ - user: None
+ - tags: $tags
+
+## FreshRSS, a free, self-hostable feeds aggregator
+ - [https://www.freshrss.org](https://www.freshrss.org)
+ - date published: 2023-10-25T08:30:53.379132+00:00
+ - user: None
+ - tags: $tags
+
+## FROG PEAK MUSIC (a composers\' collective)
+ - [http://www.frogpeak.org](http://www.frogpeak.org)
+ - date published: 2023-10-25T21:23:03.243812+00:00
+ - user: None
+ - tags: $tags
+
+## Home - Science & research news | Frontiers
+ - [https://blog.frontiersin.org](https://blog.frontiersin.org)
+ - date published: 2023-10-25T21:23:07.967640+00:00
+ - user: None
+ - tags: $tags
+
+## Frontiers for Young Minds: Science for kids, edited by kids
+ - [https://kids.frontiersin.org](https://kids.frontiersin.org)
+ - date published: 2023-10-25T21:23:11.244829+00:00
+ - user: None
+ - tags: $tags
+
+## Frontiers | Publisher of peer-reviewed articles in open access journals
+ - [https://www.frontiersin.org](https://www.frontiersin.org)
+ - date published: 2023-10-25T21:23:13.104896+00:00
+ - user: None
+ - tags: $tags
+
+## Front Page — Free Software Foundation — working together for free software
+ - [https://www.fsf.org](https://www.fsf.org)
+ - date published: 2023-10-25T11:34:35.490281+00:00
+ - user: None
+ - tags: $tags
+
+## FSFE - Free Software Foundation Europe
+ - [https://fsfe.org](https://fsfe.org)
+ - date published: 2023-10-25T21:23:19.235558+00:00
+ - user: None
+ - tags: $tags
+
+## Full Fact
+ - [https://fullfact.org](https://fullfact.org)
+ - date published: 2023-10-25T21:23:20.334750+00:00
+ - user: None
+ - tags: $tags
+
+## Pliant web site
+ - [https://www.fullpliant.org](https://www.fullpliant.org)
+ - date published: 2023-10-25T21:23:24.194863+00:00
+ - user: None
+ - tags: $tags
+
+## Funtoo
+ - [https://www.funtoo.org](https://www.funtoo.org)
+ - date published: 2023-10-25T21:23:26.324616+00:00
+ - user: None
+ - tags: $tags
+
+## furbo.org by Craig Hockenberry
+ - [https://furbo.org](https://furbo.org)
+ - date published: 2023-10-25T08:54:39.367362+00:00
+ - user: None
+ - tags: $tags
+
+## FUSE-T
+ - [https://www.fuse-t.org](https://www.fuse-t.org)
+ - date published: 2023-10-25T21:23:27.287219+00:00
+ - user: None
+ - tags: $tags
+
+## Why Futhark?
+ - [https://futhark-lang.org](https://futhark-lang.org)
+ - date published: 2023-10-25T21:23:28.010255+00:00
+ - user: None
+ - tags: $tags
+
+## FUTO - Bringing control of computing back to the people
+ - [https://futo.org](https://futo.org)
+ - date published: 2023-10-25T11:34:21.566306+00:00
+ - user: None
+ - tags: $tags
+
+## Sign in · GitLab
+ - [https://gitlab.futo.org](https://gitlab.futo.org)
+ - date published: 2023-10-25T21:23:29.252807+00:00
+ - user: None
+ - tags: $tags
+
+## Home - Future of Life Institute
+ - [https://futureoflife.org](https://futureoflife.org)
+ - date published: 2023-10-25T21:23:32.572356+00:00
+ - user: None
+ - tags: $tags
+
+## Pause Giant Superconductor Experiments
+ - [https://futureofliff.org](https://futureofliff.org)
+ - date published: 2023-10-25T21:23:37.964754+00:00
+ - user: None
+ - tags: $tags
+
+## Futurity: Research News from Top Universities
+ - [https://www.futurity.org](https://www.futurity.org)
+ - date published: 2023-10-25T21:23:40.912905+00:00
+ - user: None
+ - tags: $tags
+
+## LVFS: Home
+ - [https://fwupd.org](https://fwupd.org)
+ - date published: 2023-10-25T21:23:45.839751+00:00
+ - user: None
+ - tags: $tags
+
+## Gabarro | gabarro.github.io
+ - [http://gabarro.org](http://gabarro.org)
+ - date published: 2023-10-25T21:23:46.498612+00:00
+ - user: None
+ - tags: $tags
+
+## Gadgetbridge for android
+ - [https://gadgetbridge.org](https://gadgetbridge.org)
+ - date published: 2023-10-25T21:23:47.950756+00:00
+ - user: None
+ - tags: $tags
+
+## Galactica Demo
+ - [https://galactica.org](https://galactica.org)
+ - date published: 2023-10-25T21:23:49.587771+00:00
+ - user: None
+ - tags: $tags
+
+## Galène videoconference server
+ - [https://galene.org](https://galene.org)
+ - date published: 2023-10-27T12:06:39.811505+00:00
+ - user: None
+ - tags: $tags
+
+## Home | Video Game History Foundation
+ - [https://gamehistory.org](https://gamehistory.org)
+ - date published: 2023-10-25T21:24:05.080231+00:00
+ - user: None
+ - tags: $tags
+
+## WWW.GAMERS.ORG
+ - [https://www.gamers.org](https://www.gamers.org)
+ - date published: 2023-10-25T21:24:07.317158+00:00
+ - user: None
+ - tags: $tags
+
+## This page has moved!
+ - [https://personal.garrettfuller.org](https://personal.garrettfuller.org)
+ - date published: 2023-10-25T21:24:13.310361+00:00
+ - user: None
+ - tags: $tags
+
+## Gavi, the Vaccine Alliance
+ - [https://www.gavi.org](https://www.gavi.org)
+ - date published: 2023-10-25T21:24:19.083058+00:00
+ - user: None
+ - tags: $tags
+
+## Home
+ | Geany
+ - [https://www.geany.org](https://www.geany.org)
+ - date published: 2023-10-27T13:13:54.781191+00:00
+ - user: None
+ - tags: $tags
+
+## Genetic Literacy Project | Science Not Ideology
+ - [https://geneticliteracyproject.org](https://geneticliteracyproject.org)
+ - date published: 2023-10-25T21:24:26.578613+00:00
+ - user: None
+ - tags: $tags
+
+## Genode - Genode Operating System Framework
+ - [https://genode.org](https://genode.org)
+ - date published: 2023-10-29T22:06:15.188212+00:00
+ - user: None
+ - tags: $tags
+
+## Genodians.org - Stories around the Genode Operating System
+ - [https://genodians.org](https://genodians.org)
+ - date published: 2023-10-25T21:24:29.740509+00:00
+ - user: None
+ - tags: $tags
+
+## Gentoo Wiki
+ - [https://wiki.gentoo.org](https://wiki.gentoo.org)
+ - date published: 2023-10-25T21:24:31.672851+00:00
+ - user: None
+ - tags: $tags
+
+## Welcome – Gentoo Linux
+ - [https://www.gentoo.org](https://www.gentoo.org)
+ - date published: 2023-10-25T08:32:16.955736+00:00
+ - user: None
+ - tags: ['operating system']
+
+## Professor Peck
+ - [https://peck.geoengineer.org](https://peck.geoengineer.org)
+ - date published: 2023-10-25T21:24:33.960963+00:00
+ - user: None
+ - tags: $tags
+
+## George Orwell - Complete works, Biography, Quotes, Essays
+ - [https://www.george-orwell.org](https://www.george-orwell.org)
+ - date published: 2023-10-25T21:24:35.469965+00:00
+ - user: None
+ - tags: $tags
+
+## Hello! I’m George (a.k.a. eigenfoo) | George Ho
+ - [https://www.georgeho.org](https://www.georgeho.org)
+ - date published: 2023-10-25T21:24:36.198262+00:00
+ - user: None
+ - tags: $tags
+
+## GeoScienceWorld
+ - [https://pubs.geoscienceworld.org](https://pubs.geoscienceworld.org)
+ - date published: 2023-10-25T21:24:38.489509+00:00
+ - user: None
+ - tags: $tags
+
+## GeoServer
+ - [https://geoserver.org](https://geoserver.org)
+ - date published: 2023-10-25T21:24:39.577688+00:00
+ - user: None
+ - tags: $tags
+
+## Grav - A Modern Flat-File CMS | Grav CMS
+ - [https://getgrav.org](https://getgrav.org)
+ - date published: 2023-10-25T21:24:41.224513+00:00
+ - user: None
+ - tags: $tags
+
+## Home - gettalong's web home
+ - [https://gettalong.org](https://gettalong.org)
+ - date published: 2023-10-25T21:24:42.045117+00:00
+ - user: None
+ - tags: $tags
+
+## Ghidra
+ - [https://ghidra-sre.org](https://ghidra-sre.org)
+ - date published: 2023-10-25T21:24:42.859130+00:00
+ - user: None
+ - tags: $tags
+
+## GHSA | Governors Highway Safety Association
+ - [https://www.ghsa.org](https://www.ghsa.org)
+ - date published: 2023-10-25T21:24:45.901586+00:00
+ - user: None
+ - tags: $tags
+
+## Marek Gibney
+ - [https://www.gibney.org](https://www.gibney.org)
+ - date published: 2023-10-25T21:24:48.576733+00:00
+ - user: None
+ - tags: $tags
+
+## Global Investigative Journalism Network
+ - [https://gijn.org](https://gijn.org)
+ - date published: 2023-10-25T21:24:56.514394+00:00
+ - user: None
+ - tags: $tags
+
+## GIMP - GNU Image Manipulation Program
+ - [https://www.gimp.org](https://www.gimp.org)
+ - date published: 2023-10-25T21:24:57.942609+00:00
+ - user: None
+ - tags: ['program', 'open source']
+
+## gingerBill
+ - [https://www.gingerbill.org](https://www.gingerbill.org)
+ - date published: 2023-10-25T21:24:58.962507+00:00
+ - user: None
+ - tags: $tags
+
+## GitLab Foundation
+ - [https://www.gitlabfoundation.org](https://www.gitlabfoundation.org)
+ - date published: 2023-10-25T21:25:00.592742+00:00
+ - user: None
+ - tags: $tags
+
+## GLLAMM
+ - [http://www.gllamm.org](http://www.gllamm.org)
+ - date published: 2023-10-25T21:25:02.085411+00:00
+ - user: None
+ - tags: $tags
+
+## Global Chemistry
+ - [https://www.globalchemistry.org](https://www.globalchemistry.org)
+ - date published: 2023-10-25T21:25:13.879712+00:00
+ - user: None
+ - tags: $tags
+
+## Global Encryption Coalition – Global Encryption Coalition
+ - [https://www.globalencryption.org](https://www.globalencryption.org)
+ - date published: 2023-10-25T21:25:17.459696+00:00
+ - user: None
+ - tags: $tags
+
+## Home | GLOBSEC - A Global Think Tank: Ideas Shaping the World
+ - [https://www.globsec.org](https://www.globsec.org)
+ - date published: 2023-10-25T21:25:21.123333+00:00
+ - user: None
+ - tags: $tags
+
+## The GNU MP Bignum Library
+ - [https://gmplib.org](https://gmplib.org)
+ - date published: 2023-10-25T21:25:27.856241+00:00
+ - user: None
+ - tags: $tags
+
+## GNOME Blogs – A blogging community for GNOME contributors
+ - [https://blogs.gnome.org](https://blogs.gnome.org)
+ - date published: 2023-10-25T21:25:31.296886+00:00
+ - user: None
+ - tags: $tags
+
+## The GNOME Foundation – Building a diverse and sustainable free software ecosystem
+ - [https://foundation.gnome.org](https://foundation.gnome.org)
+ - date published: 2023-10-25T21:25:34.346769+00:00
+ - user: None
+ - tags: $tags
+
+## This Week in GNOME
+ - [https://thisweek.gnome.org](https://thisweek.gnome.org)
+ - date published: 2023-10-25T21:25:35.832307+00:00
+ - user: None
+ - tags: $tags
+
+## The Gnosis Archive
+ - [http://gnosis.org](http://gnosis.org)
+ - date published: 2023-10-25T21:25:37.434433+00:00
+ - user: None
+ - tags: $tags
+
+## Audio/Video - GNU Project - Free-Software Foundation
+ - [https://audio-video.gnu.org](https://audio-video.gnu.org)
+ - date published: 2023-10-25T21:25:39.128462+00:00
+ - user: None
+ - tags: $tags
+
+## Index of /
+ - [https://ftp.gnu.org](https://ftp.gnu.org)
+ - date published: 2023-10-25T21:25:41.505440+00:00
+ - user: None
+ - tags: $tags
+
+## GCC, the GNU Compiler Collection
+- GNU Project
+ - [https://gcc.gnu.org](https://gcc.gnu.org)
+ - date published: 2023-10-25T21:25:44.167805+00:00
+ - user: None
+ - tags: $tags
+
+## GNU Guix transactional package manager and distribution — GNU Guix
+ - [https://guix.gnu.org](https://guix.gnu.org)
+ - date published: 2023-10-25T21:25:47.790129+00:00
+ - user: None
+ - tags: $tags
+
+## lists.gnu.org
+ - [https://lists.gnu.org](https://lists.gnu.org)
+ - date published: 2023-10-25T21:25:51.009984+00:00
+ - user: None
+ - tags: $tags
+
+## The GNU Operating System and the Free Software Movement
+ - [https://www.gnu.org](https://www.gnu.org)
+ - date published: 2023-10-25T11:25:37.259701+00:00
+ - user: None
+ - tags: $tags
+
+## Compiler Explorer
+ - [https://godbolt.org](https://godbolt.org)
+ - date published: 2023-10-25T21:25:55.654816+00:00
+ - user: None
+ - tags: $tags
+
+## Godot Docs – 4.1 branch — Godot Engine (stable) documentation in English
+ - [https://docs.godotengine.org](https://docs.godotengine.org)
+ - date published: 2023-10-25T21:26:38.077433+00:00
+ - user: None
+ - tags: $tags
+
+## Godot Development Fund
+ - [https://fund.godotengine.org](https://fund.godotengine.org)
+ - date published: 2023-10-25T08:39:29.413240+00:00
+ - user: None
+ - tags: $tags
+
+## Godot Engine - Free and open source 2D and 3D game engine
+ - [https://godotengine.org](https://godotengine.org)
+ - date published: 2023-10-25T08:33:45.047771+00:00
+ - user: None
+ - tags: ['game engine', 'open source']
+
+## Godot Forums
+ - [https://godotforums.org](https://godotforums.org)
+ - date published: 2023-10-25T21:26:41.786556+00:00
+ - user: None
+ - tags: $tags
+
+## Back in 5 mins | Ruby, loadsa bash, tweets and cats.
+ - [https://jay.gooby.org](https://jay.gooby.org)
+ - date published: 2023-10-25T21:26:49.689151+00:00
+ - user: None
+ - tags: $tags
+
+## Violation Tracker
+ - [https://violationtracker.goodjobsfirst.org](https://violationtracker.goodjobsfirst.org)
+ - date published: 2023-10-25T21:26:52.979652+00:00
+ - user: None
+ - tags: $tags
+
+## Good News, Inspiring, Positive Stories - Good News Network
+ - [https://www.goodnewsnetwork.org](https://www.goodnewsnetwork.org)
+ - date published: 2023-10-25T21:27:00.650084+00:00
+ - user: None
+ - tags: $tags
+
+## GovLeaders.org - Growing Leaders for the Public Service
+ - [https://govleaders.org](https://govleaders.org)
+ - date published: 2023-10-25T21:27:03.116588+00:00
+ - user: None
+ - tags: $tags
+
+## GPSJAM GPS/GNSS Interference Map
+ - [https://gpsjam.org](https://gpsjam.org)
+ - date published: 2023-10-25T21:27:04.103247+00:00
+ - user: None
+ - tags: $tags
+
+## GraalVM
+ - [https://www.graalvm.org](https://www.graalvm.org)
+ - date published: 2023-10-25T21:27:05.271343+00:00
+ - user: None
+ - tags: $tags
+
+## Grand Egyptian Museum – Estimated opening: Late-2023 or Early-2024
+ - [https://grandegyptianmuseum.org](https://grandegyptianmuseum.org)
+ - date published: 2023-10-27T13:05:42.702945+00:00
+ - user: None
+ - tags: ['museum']
+
+## Greenpeace
+ - [https://www.greenpeace.org](https://www.greenpeace.org)
+ - date published: 2023-10-25T21:27:06.203930+00:00
+ - user: None
+ - tags: $tags
+
+## Gren
+ - [https://gren-lang.org](https://gren-lang.org)
+ - date published: 2023-10-25T21:27:06.909825+00:00
+ - user: None
+ - tags: $tags
+
+## Welcome to Grex: Public Access Unix (Legacy Site)
+ - [https://grex.org](https://grex.org)
+ - date published: 2023-10-25T21:27:12.688248+00:00
+ - user: None
+ - tags: $tags
+
+## Pavel Grinfeld
+ - [https://grinfeld.org](https://grinfeld.org)
+ - date published: 2023-10-25T21:27:14.153144+00:00
+ - user: None
+ - tags: $tags
+
+## GripTape Challenge - Learn How and What You Want
+ - [https://www.griptape.org](https://www.griptape.org)
+ - date published: 2023-10-25T21:27:16.108644+00:00
+ - user: None
+ - tags: $tags
+
+## Grist.org: Climate. Justice. Solutions. | Grist
+ - [https://grist.org](https://grist.org)
+ - date published: 2023-10-25T21:27:20.287221+00:00
+ - user: None
+ - tags: $tags
+
+## Grml Blog
+ - [https://blog.grml.org](https://blog.grml.org)
+ - date published: 2023-10-25T08:32:20.640698+00:00
+ - user: None
+ - tags: $tags
+
+## GUIdebook: Graphical User Interface gallery
+ - [https://guidebookgallery.org](https://guidebookgallery.org)
+ - date published: 2023-10-25T21:27:21.314042+00:00
+ - user: None
+ - tags: $tags
+
+## Free eBooks | Project Gutenberg
+ - [https://gutenberg.org](https://gutenberg.org)
+ - date published: 2023-10-25T21:27:22.828743+00:00
+ - user: None
+ - tags: $tags
+
+## Free eBooks | Project Gutenberg
+ - [https://www.gutenberg.org](https://www.gutenberg.org)
+ - date published: 2023-10-25T09:29:03.291223+00:00
+ - user: None
+ - tags: $tags
+
+## http://cme.h-its.org
+ - [http://cme.h-its.org](http://cme.h-its.org)
+ - date published: 2023-10-25T21:27:23.278893+00:00
+ - user: None
+ - tags: $tags
+
+## Haiku Community
+ - [https://discuss.haiku-os.org](https://discuss.haiku-os.org)
+ - date published: 2023-10-25T21:27:25.896496+00:00
+ - user: None
+ - tags: $tags
+
+## Home | Haiku Project
+ - [https://www.haiku-os.org](https://www.haiku-os.org)
+ - date published: 2023-10-25T21:27:27.267272+00:00
+ - user: None
+ - tags: $tags
+
+## hails.org
+ - [https://hails.org](https://hails.org)
+ - date published: 2023-10-25T21:27:29.684298+00:00
+ - user: None
+ - tags: $tags
+
+## Joel David Hamkins | mathematics and philosophy of the infinite
+ - [https://jdh.hamkins.org](https://jdh.hamkins.org)
+ - date published: 2023-10-25T21:27:46.698687+00:00
+ - user: None
+ - tags: $tags
+
+## Hanami | The web, with simplicity
+ - [https://hanamirb.org](https://hanamirb.org)
+ - date published: 2023-10-25T21:27:52.118904+00:00
+ - user: None
+ - tags: $tags
+
+## HAProxy - The Reliable, High Perf. TCP/HTTP Load Balancer
+ - [https://www.haproxy.org](https://www.haproxy.org)
+ - date published: 2023-10-25T21:27:56.904932+00:00
+ - user: None
+ - tags: $tags
+
+## Home | Harper's Magazine
+ - [https://harpers.org](https://harpers.org)
+ - date published: 2023-10-25T21:28:02.019118+00:00
+ - user: None
+ - tags: $tags
+
+## Haskell Community - Haskell
+ - [https://discourse.haskell.org](https://discourse.haskell.org)
+ - date published: 2023-10-25T21:28:05.125703+00:00
+ - user: None
+ - tags: $tags
+
+## Sign in · GitLab
+ - [https://gitlab.haskell.org](https://gitlab.haskell.org)
+ - date published: 2023-10-25T21:28:06.166974+00:00
+ - user: None
+ - tags: $tags
+
+## Haven: Host your own private blog
+ - [https://havenweb.org](https://havenweb.org)
+ - date published: 2023-10-25T21:28:07.014052+00:00
+ - user: None
+ - tags: $tags
+
+## HCI Bibliography : Human-Computer Interaction Resources
+ - [https://hcibib.org](https://hcibib.org)
+ - date published: 2023-10-25T21:28:08.623566+00:00
+ - user: None
+ - tags: $tags
+
+## High Country News – Know the West
+ - [https://www.hcn.org](https://www.hcn.org)
+ - date published: 2023-10-25T21:28:11.840838+00:00
+ - user: None
+ - tags: $tags
+
+## HDMI Licensing Administrator, Inc.
+ - [https://www.hdmi.org](https://www.hdmi.org)
+ - date published: 2023-10-25T21:28:19.437472+00:00
+ - user: None
+ - tags: $tags
+
+## https://www.healthaffairs.org
+ - [https://www.healthaffairs.org](https://www.healthaffairs.org)
+ - date published: 2023-10-25T21:28:19.809492+00:00
+ - user: None
+ - tags: $tags
+
+## Scientific Reference to Reliable Health Information - Health Feedback
+ - [https://healthfeedback.org](https://healthfeedback.org)
+ - date published: 2023-10-25T21:28:21.366345+00:00
+ - user: None
+ - tags: $tags
+
+## Welcome to the AHA/ASA Newsroom | American Heart Association
+ - [https://newsroom.heart.org](https://newsroom.heart.org)
+ - date published: 2023-10-25T21:28:23.483045+00:00
+ - user: None
+ - tags: $tags
+
+## American Heart Association | To be a relentless force for a world of longer, healthier lives
+ - [https://www.heart.org](https://www.heart.org)
+ - date published: 2023-10-25T21:28:27.272418+00:00
+ - user: None
+ - tags: $tags
+
+## Home - The Hechinger Report
+ - [https://hechingerreport.org](https://hechingerreport.org)
+ - date published: 2023-10-25T21:28:32.308583+00:00
+ - user: None
+ - tags: $tags
+
+## About     – HelenOS
+ - [http://www.helenos.org](http://www.helenos.org)
+ - date published: 2023-10-25T21:28:33.498042+00:00
+ - user: None
+ - tags: $tags
+
+## Philip Heltweg
+ - [https://www.heltweg.org](https://www.heltweg.org)
+ - date published: 2023-10-25T08:54:40.981603+00:00
+ - user: None
+ - tags: $tags
+
+## hezmatt.org
+ - [https://www.hezmatt.org](https://www.hezmatt.org)
+ - date published: 2023-10-25T21:28:33.908256+00:00
+ - user: None
+ - tags: $tags
+
+## Home | AHA
+ - [https://www.historians.org](https://www.historians.org)
+ - date published: 2023-10-25T21:28:41.074702+00:00
+ - user: None
+ - tags: $tags
+
+## hmgs.org
+ - [https://www.hmgs.org](https://www.hmgs.org)
+ - date published: 2023-10-25T11:12:44.095189+00:00
+ - user: None
+ - tags: $tags
+
+## Hacker News RSS
+ - [https://hnrss.org](https://hnrss.org)
+ - date published: 2023-10-25T21:28:42.854542+00:00
+ - user: None
+ - tags: $tags
+
+## Hoover Institution
+ - [https://www.hoover.org](https://www.hoover.org)
+ - date published: 2023-10-25T21:28:47.678884+00:00
+ - user: None
+ - tags: $tags
+
+## Johns Hopkins Medicine, based in Baltimore, Maryland
+ - [https://www.hopkinsmedicine.org](https://www.hopkinsmedicine.org)
+ - date published: 2023-10-25T21:28:49.403905+00:00
+ - user: None
+ - tags: $tags
+
+## Home | Humanitarian OpenStreetMap Team
+ - [https://www.hotosm.org](https://www.hotosm.org)
+ - date published: 2023-10-25T21:28:50.976793+00:00
+ - user: None
+ - tags: $tags
+
+## Howardism
+ - [https://howardism.org](https://howardism.org)
+ - date published: 2023-10-25T21:28:53.869348+00:00
+ - user: None
+ - tags: $tags
+
+## How to Design Programs
+ - [https://htdp.org](https://htdp.org)
+ - date published: 2023-10-25T21:28:54.381719+00:00
+ - user: None
+ - tags: $tags
+
+## </> htmx - high power tools for html
+ - [https://htmx.org](https://htmx.org)
+ - date published: 2023-10-25T21:29:00.359686+00:00
+ - user: None
+ - tags: $tags
+
+## IETF HTTP Working Group
+ - [https://httpwg.org](https://httpwg.org)
+ - date published: 2023-10-25T21:29:01.274615+00:00
+ - user: None
+ - tags: $tags
+
+## Hubble Home
+ - [https://hubblesite.org](https://hubblesite.org)
+ - date published: 2023-10-25T21:29:08.287960+00:00
+ - user: None
+ - tags: $tags
+
+## The Humane Society of the United States| End suffering for all animals
+ - [https://www.humanesociety.org](https://www.humanesociety.org)
+ - date published: 2023-10-25T21:29:17.708287+00:00
+ - user: None
+ - tags: $tags
+
+## Humans TXT: We Are People, Not Machines.
+ - [https://humanstxt.org](https://humanstxt.org)
+ - date published: 2023-10-25T21:29:19.630955+00:00
+ - user: None
+ - tags: $tags
+
+## Bread & Circuits
+ - [https://blog.humphd.org](https://blog.humphd.org)
+ - date published: 2023-10-25T21:29:21.631841+00:00
+ - user: None
+ - tags: $tags
+
+## None
+ - [http://www.humprog.org](http://www.humprog.org)
+ - date published: 2023-10-25T21:29:35.001353+00:00
+ - user: None
+ - tags: $tags
+
+## The Hy Manual — hy 0.27.0 documentation
+ - [https://docs.hylang.org](https://docs.hylang.org)
+ - date published: 2023-10-25T21:29:39.020853+00:00
+ - user: None
+ - tags: $tags
+
+## Hyperview · Native mobile apps, as easy as creating a web site
+ - [https://hyperview.org](https://hyperview.org)
+ - date published: 2023-10-25T21:29:42.395442+00:00
+ - user: None
+ - tags: $tags
+
+## Hyprland - A wayland compositor that doesn't sacrifice on its looks!
+ - [https://hyprland.org](https://hyprland.org)
+ - date published: 2023-10-25T21:29:43.958993+00:00
+ - user: None
+ - tags: $tags
+
+## Cryptology ePrint Archive
+ - [https://eprint.iacr.org](https://eprint.iacr.org)
+ - date published: 2023-10-25T21:29:46.021630+00:00
+ - user: None
+ - tags: $tags
+
+## Internet Assigned Numbers Authority
+ - [https://www.iana.org](https://www.iana.org)
+ - date published: 2023-10-25T21:29:48.306690+00:00
+ - user: None
+ - tags: $tags
+
+## Ian Bicking: a home page
+ - [https://ianbicking.org](https://ianbicking.org)
+ - date published: 2023-10-25T21:29:50.096372+00:00
+ - user: None
+ - tags: $tags
+
+## International Association of Privacy Professionals
+ - [https://iapp.org](https://iapp.org)
+ - date published: 2023-10-25T21:29:55.000235+00:00
+ - user: None
+ - tags: $tags
+
+## The Public's Library and Digital Archive
+ - [https://www.ibiblio.org](https://www.ibiblio.org)
+ - date published: 2023-10-25T21:30:05.195229+00:00
+ - user: None
+ - tags: $tags
+
+## Internet Corporation for Assigned Names and Numbers (ICANN)
+ - [https://www.icann.org](https://www.icann.org)
+ - date published: 2023-10-25T21:30:12.025982+00:00
+ - user: None
+ - tags: $tags
+
+## icculus.org -- The Helping Phriendly Box
+ - [https://icculus.org](https://icculus.org)
+ - date published: 2023-10-25T21:30:17.259961+00:00
+ - user: None
+ - tags: $tags
+
+## The Ideophone – Sounding out ideas on language, vivid sensory words, and iconicity
+ - [https://ideophone.org](https://ideophone.org)
+ - date published: 2023-10-25T21:30:19.847987+00:00
+ - user: None
+ - tags: $tags
+
+## Idiomdrottning
+ - [https://idiomdrottning.org](https://idiomdrottning.org)
+ - date published: 2023-10-25T21:30:30.824876+00:00
+ - user: None
+ - tags: $tags
+
+## Idris: A Language for Type-Driven Development
+ - [https://www.idris-lang.org](https://www.idris-lang.org)
+ - date published: 2023-10-25T21:30:31.785483+00:00
+ - user: None
+ - tags: $tags
+
+## IEA – International Energy Agency
+ - [https://www.iea.org](https://www.iea.org)
+ - date published: 2023-10-25T21:30:35.332830+00:00
+ - user: None
+ - tags: $tags
+
+## IEEE Committee Hosting | IEEE Web Hosting
+ - [https://cmte.ieee.org](https://cmte.ieee.org)
+ - date published: 2023-10-25T21:30:36.743098+00:00
+ - user: None
+ - tags: $tags
+
+## IEEE Xplore
+ - [https://ieeexplore.ieee.org](https://ieeexplore.ieee.org)
+ - date published: 2023-10-25T21:30:43.346715+00:00
+ - user: None
+ - tags: $tags
+
+## IEEE Spectrum
+ - [https://spectrum.ieee.org](https://spectrum.ieee.org)
+ - date published: 2023-10-25T09:37:30.327947+00:00
+ - user: None
+ - tags: $tags
+
+## IEEFA | Institute for Energy Economics and Financial Analysis
+ - [https://ieefa.org](https://ieefa.org)
+ - date published: 2023-10-25T21:30:45.746945+00:00
+ - user: None
+ - tags: $tags
+
+## IETF Datatracker
+ - [https://datatracker.ietf.org](https://datatracker.ietf.org)
+ - date published: 2023-10-25T21:30:47.881444+00:00
+ - user: None
+ - tags: $tags
+
+## IETF  | Internet Engineering Task Force
+ - [https://www.ietf.org](https://www.ietf.org)
+ - date published: 2023-10-25T21:30:48.819024+00:00
+ - user: None
+ - tags: $tags
+
+## The Interactive Fiction Competition
+ - [https://ifcomp.org](https://ifcomp.org)
+ - date published: 2023-10-25T21:30:50.333081+00:00
+ - user: None
+ - tags: $tags
+
+## Strong Families. Sustainable Societies. | Institute for Family Studies
+ - [https://ifstudies.org](https://ifstudies.org)
+ - date published: 2023-10-25T21:30:52.138173+00:00
+ - user: None
+ - tags: $tags
+
+## The Institute for Justice
+ - [https://ij.org](https://ij.org)
+ - date published: 2023-10-25T21:30:57.584145+00:00
+ - user: None
+ - tags: $tags
+
+## Jefferson Public Radio | JPR | Jefferson Public Radio
+ - [https://www.ijpr.org](https://www.ijpr.org)
+ - date published: 2023-10-25T21:31:10.155878+00:00
+ - user: None
+ - tags: $tags
+
+## Shun Ikejima
+ - [https://www.ikejima.org](https://www.ikejima.org)
+ - date published: 2023-10-25T21:31:12.629003+00:00
+ - user: None
+ - tags: $tags
+
+## ImageMagick
+ - [https://imagemagick.org](https://imagemagick.org)
+ - date published: 2023-10-29T15:05:34.172722+00:00
+ - user: None
+ - tags: ['program', 'open source']
+
+## International Monetary Fund - IMF
+ - [https://www.imf.org](https://www.imf.org)
+ - date published: 2023-10-25T21:31:18.207372+00:00
+ - user: None
+ - tags: $tags
+
+## ImperialViolet - ImperialViolet.org
+ - [https://www.imperialviolet.org](https://www.imperialviolet.org)
+ - date published: 2023-10-25T21:31:20.575833+00:00
+ - user: None
+ - tags: $tags
+
+## IMSLP: Free Sheet Music PDF Download
+ - [https://imslp.org](https://imslp.org)
+ - date published: 2023-10-25T21:31:23.143691+00:00
+ - user: None
+ - tags: $tags
+
+## http://incise.org
+ - [http://incise.org](http://incise.org)
+ - date published: 2023-10-25T21:31:25.476725+00:00
+ - user: None
+ - tags: $tags
+
+## IndieWeb
+ - [https://indieweb.org](https://indieweb.org)
+ - date published: 2023-10-25T11:34:51.031707+00:00
+ - user: None
+ - tags: $tags
+
+## Institute for New Economic Thinking | Institute for New Economic Thinking
+ - [https://www.ineteconomics.org](https://www.ineteconomics.org)
+ - date published: 2023-10-25T21:31:33.465007+00:00
+ - user: None
+ - tags: $tags
+
+## Infiltration
+ - [http://www.infiltration.org](http://www.infiltration.org)
+ - date published: 2023-10-25T21:31:35.594354+00:00
+ - user: None
+ - tags: $tags
+
+## Infinite Mac
+ - [https://infinitemac.org](https://infinitemac.org)
+ - date published: 2023-10-25T21:31:41.996518+00:00
+ - user: None
+ - tags: $tags
+
+## Home - InfluenceWatch - InfluenceWatch
+ - [https://www.influencewatch.org](https://www.influencewatch.org)
+ - date published: 2023-10-25T21:31:45.921130+00:00
+ - user: None
+ - tags: $tags
+
+## IOL Home - INFORMS
+ - [https://www.informs.org](https://www.informs.org)
+ - date published: 2023-10-25T21:31:50.305378+00:00
+ - user: None
+ - tags: $tags
+
+## Infrequently Noted
+ - [https://infrequently.org](https://infrequently.org)
+ - date published: 2023-10-25T21:31:56.492851+00:00
+ - user: None
+ - tags: $tags
+
+## Draw Freely | Inkscape
+ - [https://inkscape.org](https://inkscape.org)
+ - date published: 2023-10-25T21:31:59.892142+00:00
+ - user: None
+ - tags: $tags
+
+## InnerSource Commons
+ - [https://innersourcecommons.org](https://innersourcecommons.org)
+ - date published: 2023-10-25T21:32:02.785880+00:00
+ - user: None
+ - tags: $tags
+
+## Innocence Project
+ - [https://innocenceproject.org](https://innocenceproject.org)
+ - date published: 2023-10-25T21:32:06.738613+00:00
+ - user: None
+ - tags: $tags
+
+## Home - Inside Climate News
+ - [https://insideclimatenews.org](https://insideclimatenews.org)
+ - date published: 2023-10-25T21:32:16.454142+00:00
+ - user: None
+ - tags: $tags
+
+## INT 10h
+ - [https://int10h.org](https://int10h.org)
+ - date published: 2023-10-25T21:32:20.037397+00:00
+ - user: None
+ - tags: $tags
+
+## Integrity Institute
+ - [https://integrityinstitute.org](https://integrityinstitute.org)
+ - date published: 2023-10-25T21:32:23.954640+00:00
+ - user: None
+ - tags: $tags
+
+## Intellectual Takeout - Feeding Minds, Pursuing Truth
+ - [https://intellectualtakeout.org](https://intellectualtakeout.org)
+ - date published: 2023-10-25T21:32:30.723471+00:00
+ - user: None
+ - tags: $tags
+
+## Interactions.org - Particle physics, high energy physics, news and resources
+ - [https://www.interactions.org](https://www.interactions.org)
+ - date published: 2023-10-25T21:32:35.993247+00:00
+ - user: None
+ - tags: $tags
+
+## Matt Webb
+ - [https://interconnected.org](https://interconnected.org)
+ - date published: 2023-10-25T09:23:55.908411+00:00
+ - user: None
+ - tags: $tags
+
+## https://interlisp.org
+ - [https://interlisp.org](https://interlisp.org)
+ - date published: 2023-10-25T21:32:37.569846+00:00
+ - user: None
+ - tags: $tags
+
+## Internet in a Box - Mandela's Library of Alexandria
+ - [https://internet-in-a-box.org](https://internet-in-a-box.org)
+ - date published: 2023-10-25T21:32:39.821895+00:00
+ - user: None
+ - tags: $tags
+
+## Build, Promote, and Defend the Internet - Internet Society
+ - [https://www.internetsociety.org](https://www.internetsociety.org)
+ - date published: 2023-10-25T21:32:43.991287+00:00
+ - user: None
+ - tags: $tags
+
+## Investigative Post - Jim Heaney Editor & Executive Director, Buffalo & WNY Investigative Reporting Center : Investigative Post
+ - [https://www.investigativepost.org](https://www.investigativepost.org)
+ - date published: 2023-10-25T21:32:47.866255+00:00
+ - user: None
+ - tags: $tags
+
+## IOPscience
+ - [https://iopscience.iop.org](https://iopscience.iop.org)
+ - date published: 2023-10-25T21:32:50.116824+00:00
+ - user: None
+ - tags: $tags
+
+## ioquake3
+ - [https://ioquake3.org](https://ioquake3.org)
+ - date published: 2023-10-27T13:49:15.050683+00:00
+ - user: None
+ - tags: ['open source', 'game']
+
+## Inigo Quilez :: computer graphics, mathematics, shaders, fractals, demoscene and more
+ - [https://iquilezles.org](https://iquilezles.org)
+ - date published: 2023-10-25T21:32:51.784263+00:00
+ - user: None
+ - tags: $tags
+
+## Irreal.org
+ - [https://irreal.org](https://irreal.org)
+ - date published: 2023-10-25T21:32:53.835017+00:00
+ - user: None
+ - tags: $tags
+
+## ISC - ISC
+ - [https://www.isc.org](https://www.isc.org)
+ - date published: 2023-10-25T21:32:55.725838+00:00
+ - user: None
+ - tags: $tags
+
+## ismypackagereproducibleyet
+ - [https://ismypackagereproducibleyet.org](https://ismypackagereproducibleyet.org)
+ - date published: 2023-10-25T21:32:56.987958+00:00
+ - user: None
+ - tags: $tags
+
+## Standard C++
+ - [https://isocpp.org](https://isocpp.org)
+ - date published: 2023-10-25T09:28:01.037564+00:00
+ - user: None
+ - tags: ['c++', 'cpp']
+
+## http://isotropic.org
+ - [http://isotropic.org](http://isotropic.org)
+ - date published: 2023-10-25T21:32:58.997394+00:00
+ - user: None
+ - tags: $tags
+
+## ISRAEL21c - STORIES THAT IMPACT OUR WORLD
+ - [https://www.israel21c.org](https://www.israel21c.org)
+ - date published: 2023-10-25T21:33:04.834653+00:00
+ - user: None
+ - tags: $tags
+
+## Issues in Science and Technology
+ - [https://issues.org](https://issues.org)
+ - date published: 2023-10-25T21:33:09.555507+00:00
+ - user: None
+ - tags: $tags
+
+## Home | Independent Women's Forum
+ - [https://www.iwf.org](https://www.iwf.org)
+ - date published: 2023-10-25T21:33:13.825519+00:00
+ - user: None
+ - tags: $tags
+
+## jabber.org - the original XMPP instant messaging service
+ - [https://www.jabber.org](https://www.jabber.org)
+ - date published: 2023-10-25T21:33:15.148967+00:00
+ - user: None
+ - tags: $tags
+
+## https://www.jacionline.org
+ - [https://www.jacionline.org](https://www.jacionline.org)
+ - date published: 2023-10-25T21:33:16.595076+00:00
+ - user: None
+ - tags: $tags
+
+## Jacob Kaplan-Moss
+ - [https://jacobian.org](https://jacobian.org)
+ - date published: 2023-10-25T09:23:56.443318+00:00
+ - user: None
+ - tags: $tags
+
+## Welcome to Jacobin JVM | jacobin
+ - [https://jacobin.org](https://jacobin.org)
+ - date published: 2023-10-25T21:33:23.184536+00:00
+ - user: None
+ - tags: $tags
+
+## Międzynarodowy konkurs projektowania | Nagroda Jamesa Dysona
+ - [https://www.jamesdysonaward.org](https://www.jamesdysonaward.org)
+ - date published: 2023-10-25T21:33:26.040445+00:00
+ - user: None
+ - tags: $tags
+
+## Janet Programming Language
+ - [https://janet-lang.org](https://janet-lang.org)
+ - date published: 2023-10-25T21:33:27.778151+00:00
+ - user: None
+ - tags: $tags
+
+## JCI Insight -
+Welcome
+ - [https://insight.jci.org](https://insight.jci.org)
+ - date published: 2023-10-25T21:33:32.162300+00:00
+ - user: None
+ - tags: $tags
+
+## joshua stein
+ - [https://jcs.org](https://jcs.org)
+ - date published: 2023-10-25T21:33:34.730352+00:00
+ - user: None
+ - tags: $tags
+
+## The Free Software Media System | Jellyfin
+ - [https://jellyfin.org](https://jellyfin.org)
+ - date published: 2023-10-25T21:33:41.843077+00:00
+ - user: None
+ - tags: $tags
+
+## Scott Jenson – Exploring the world beyond mobile
+ - [https://jenson.org](https://jenson.org)
+ - date published: 2023-10-25T08:54:47.957915+00:00
+ - user: None
+ - tags: $tags
+
+## web.jfet.org
+ - [https://web.jfet.org](https://web.jfet.org)
+ - date published: 2023-10-25T21:33:43.509595+00:00
+ - user: None
+ - tags: $tags
+
+## John Graham-Cumming's blog
+ - [https://blog.jgc.org](https://blog.jgc.org)
+ - date published: 2023-10-25T21:33:49.105192+00:00
+ - user: None
+ - tags: $tags
+
+## JHI Blog – The Journal of the History of Ideas Blog
+ - [https://jhiblog.org](https://jhiblog.org)
+ - date published: 2023-10-25T09:26:48.882576+00:00
+ - user: None
+ - tags: $tags
+
+## Exposing the role that Islamic jihad theology and ideology play in the modern global conflicts
+ - [https://www.jihadwatch.org](https://www.jihadwatch.org)
+ - date published: 2023-10-25T21:34:04.072137+00:00
+ - user: None
+ - tags: $tags
+
+## Free Video Conferencing Software for Web & Mobile | Jitsi
+ - [https://jitsi.org](https://jitsi.org)
+ - date published: 2023-10-25T21:34:13.186384+00:00
+ - user: None
+ - tags: $tags
+
+## Journal of Machine Learning Research
+ - [https://www.jmlr.org](https://www.jmlr.org)
+ - date published: 2023-10-25T21:34:26.430835+00:00
+ - user: None
+ - tags: $tags
+
+## Joblint
+ - [https://joblint.org](https://joblint.org)
+ - date published: 2023-10-25T21:34:29.523770+00:00
+ - user: None
+ - tags: $tags
+
+## John Horgan (The Science Writer)
+ - [https://johnhorgan.org](https://johnhorgan.org)
+ - date published: 2023-10-25T08:54:50.144199+00:00
+ - user: None
+ - tags: $tags
+
+## John Horgan (The Science Writer)
+ - [https://www.johnhorgan.org](https://www.johnhorgan.org)
+ - date published: 2023-10-25T21:34:35.099221+00:00
+ - user: None
+ - tags: $tags
+
+## Lemmy - A link aggregator for the fediverse
+ - [https://join-lemmy.org](https://join-lemmy.org)
+ - date published: 2023-10-24T20:15:04.346134+00:00
+ - user: None
+ - tags: $tags
+
+## Mastodon Blog
+ - [https://blog.joinmastodon.org](https://blog.joinmastodon.org)
+ - date published: 2023-10-24T20:17:06.109620+00:00
+ - user: None
+ - tags: $tags
+
+## PeerTube instances
+ - [https://instances.joinpeertube.org](https://instances.joinpeertube.org)
+ - date published: 2023-10-25T11:44:39.511568+00:00
+ - user: None
+ - tags: ['video streaming']
+
+## What is PeerTube? | JoinPeerTube
+ - [https://joinpeertube.org](https://joinpeertube.org)
+ - date published: 2023-10-24T20:06:01.634426+00:00
+ - user: None
+ - tags: $tags
+
+## Welcome | Takahē
+ - [https://jointakahe.org](https://jointakahe.org)
+ - date published: 2023-10-25T21:34:38.084888+00:00
+ - user: None
+ - tags: $tags
+
+## Joker
+ - [https://joker-lang.org](https://joker-lang.org)
+ - date published: 2023-10-25T21:34:44.306193+00:00
+ - user: None
+ - tags: $tags
+
+## JONATHAN TURLEY – Res ipsa loquitur – The thing itself speaks
+ - [https://jonathanturley.org](https://jonathanturley.org)
+ - date published: 2023-10-25T21:34:51.595319+00:00
+ - user: None
+ - tags: $tags
+
+## Simon Josefsson's blog
+ - [https://blog.josefsson.org](https://blog.josefsson.org)
+ - date published: 2023-10-25T09:24:02.008742+00:00
+ - user: None
+ - tags: $tags
+
+## Day.js · 2kB JavaScript date utility library
+ - [https://day.js.org](https://day.js.org)
+ - date published: 2023-10-25T21:35:01.156471+00:00
+ - user: None
+ - tags: $tags
+
+## Build lightweight cross-platform desktop apps with JavaScript, HTML, and CSS | Neutralinojs
+ - [https://neutralino.js.org](https://neutralino.js.org)
+ - date published: 2023-10-25T21:35:04.047579+00:00
+ - user: None
+ - tags: $tags
+
+## Nostalgist.js
+ - [https://nostalgist.js.org](https://nostalgist.js.org)
+ - date published: 2023-10-25T21:35:11.516801+00:00
+ - user: None
+ - tags: $tags
+
+## Storybook: Frontend workshop for UI development
+ - [https://storybook.js.org](https://storybook.js.org)
+ - date published: 2023-10-25T21:35:15.535761+00:00
+ - user: None
+ - tags: $tags
+
+## TwinSpark
+ - [https://twinspark.js.org](https://twinspark.js.org)
+ - date published: 2023-10-25T21:35:17.129272+00:00
+ - user: None
+ - tags: $tags
+
+## XState - JavaScript State Machines and Statecharts
+ - [https://xstate.js.org](https://xstate.js.org)
+ - date published: 2023-10-25T21:35:18.263757+00:00
+ - user: None
+ - tags: $tags
+
+## JSON-LD - JSON for Linking Data
+ - [https://json-ld.org](https://json-ld.org)
+ - date published: 2023-10-25T21:35:20.538149+00:00
+ - user: None
+ - tags: $tags
+
+## Jsonnet - Jsonnet Configuration Language
+ - [https://jsonnet.org](https://jsonnet.org)
+ - date published: 2023-10-25T21:35:22.344537+00:00
+ - user: None
+ - tags: $tags
+
+## JSTOR Daily Homepage - JSTOR Daily
+ - [https://daily.jstor.org](https://daily.jstor.org)
+ - date published: 2023-10-25T21:35:29.037741+00:00
+ - user: None
+ - tags: $tags
+
+## http://jsx-mail.org
+ - [http://jsx-mail.org](http://jsx-mail.org)
+ - date published: 2023-10-25T21:35:35.101318+00:00
+ - user: None
+ - tags: $tags
+
+## Juggling Lab
+ - [https://jugglinglab.org](https://jugglinglab.org)
+ - date published: 2023-10-25T21:35:36.225777+00:00
+ - user: None
+ - tags: $tags
+
+## Julia Programming Language - A forum for users and developers
+ - [https://discourse.julialang.org](https://discourse.julialang.org)
+ - date published: 2023-10-25T21:35:40.545200+00:00
+ - user: None
+ - tags: $tags
+
+## The Julia Programming Language
+ - [https://julialang.org](https://julialang.org)
+ - date published: 2023-10-25T21:35:42.851009+00:00
+ - user: None
+ - tags: $tags
+
+## http://jumblejournal.org
+ - [http://jumblejournal.org](http://jumblejournal.org)
+ - date published: 2023-10-25T21:35:43.599111+00:00
+ - user: None
+ - tags: $tags
+
+## Stop irreversible damage to the Amazon
+ - [https://www.junglekeepers.org](https://www.junglekeepers.org)
+ - date published: 2023-10-25T21:35:45.246371+00:00
+ - user: None
+ - tags: $tags
+
+## Jupyter Blog
+ - [https://blog.jupyter.org](https://blog.jupyter.org)
+ - date published: 2023-10-25T08:31:26.996270+00:00
+ - user: None
+ - tags: $tags
+
+## Just Security - A Forum on Law, Rights, and U.S. National Security
+ - [https://www.justsecurity.org](https://www.justsecurity.org)
+ - date published: 2023-10-25T21:35:52.137435+00:00
+ - user: None
+ - tags: $tags
+
+## Kakoune - Official site
+ - [https://kakoune.org](https://kakoune.org)
+ - date published: 2023-10-25T21:35:52.995500+00:00
+ - user: None
+ - tags: $tags
+
+## Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution
+ - [https://www.kali.org](https://www.kali.org)
+ - date published: 2023-10-27T16:38:43.999429+00:00
+ - user: None
+ - tags: ['operating system']
+
+## Kamby Language
+ - [https://kamby.org](https://kamby.org)
+ - date published: 2023-10-25T21:35:58.399472+00:00
+ - user: None
+ - tags: $tags
+
+## Kanban Project Management Software - Kanboard
+ - [https://kanboard.org](https://kanboard.org)
+ - date published: 2023-10-25T21:35:59.351365+00:00
+ - user: None
+ - tags: $tags
+
+## KaTeX – The fastest math typesetting library for the web
+ - [https://katex.org](https://katex.org)
+ - date published: 2023-10-25T21:36:00.014489+00:00
+ - user: None
+ - tags: $tags
+
+## KDE Discuss - KDE Community
+ - [https://discuss.kde.org](https://discuss.kde.org)
+ - date published: 2023-10-25T21:36:01.965434+00:00
+ - user: None
+ - tags: $tags
+
+## KDE Eco
+ - [https://eco.kde.org](https://eco.kde.org)
+ - date published: 2023-10-25T21:36:03.672195+00:00
+ - user: None
+ - tags: $tags
+
+## Explore groups · GitLab
+ - [https://invent.kde.org](https://invent.kde.org)
+ - date published: 2023-10-25T21:36:04.476762+00:00
+ - user: None
+ - tags: $tags
+
+## Home - KDE Community
+ - [https://kde.org](https://kde.org)
+ - date published: 2023-10-25T21:36:06.463462+00:00
+ - user: None
+ - tags: $tags
+
+## KDE Mailing Lists - KDE Community
+ - [https://mail.kde.org](https://mail.kde.org)
+ - date published: 2023-10-25T21:36:08.509574+00:00
+ - user: None
+ - tags: $tags
+
+## KeePassXC Password Manager
+ - [https://keepassxc.org](https://keepassxc.org)
+ - date published: 2023-10-25T21:36:09.258338+00:00
+ - user: None
+ - tags: $tags
+
+## Knowledge Ecology International - Attending and mending the knowledge ecosystem
+ - [https://www.keionline.org](https://www.keionline.org)
+ - date published: 2023-10-25T21:36:12.622310+00:00
+ - user: None
+ - tags: $tags
+
+## Open-Source Kermit Project -
+Free, Portable, Scriptable, Transport-Independent Communications Software.
+Hosted by Panix.com.
+ - [https://www.kermitproject.org](https://www.kermitproject.org)
+ - date published: 2023-10-25T21:36:15.806979+00:00
+ - user: None
+ - tags: $tags
+
+## Kernel.org Bugzilla Main Page
+ - [https://bugzilla.kernel.org](https://bugzilla.kernel.org)
+ - date published: 2023-10-25T21:36:18.126215+00:00
+ - user: None
+ - tags: $tags
+
+## Kernel.org git repositories
+ - [https://git.kernel.org](https://git.kernel.org)
+ - date published: 2023-10-25T21:36:22.264353+00:00
+ - user: None
+ - tags: $tags
+
+## public-inbox listing
+ - [https://lore.kernel.org](https://lore.kernel.org)
+ - date published: 2023-10-25T21:36:24.705702+00:00
+ - user: None
+ - tags: $tags
+
+## mirrors.kernel.org
+ - [https://mirrors.edge.kernel.org](https://mirrors.edge.kernel.org)
+ - date published: 2023-10-25T21:36:25.751314+00:00
+ - user: None
+ - tags: $tags
+
+## people.kernel.org Reader
+ - [https://people.kernel.org](https://people.kernel.org)
+ - date published: 2023-10-25T21:36:30.389450+00:00
+ - user: None
+ - tags: $tags
+
+## A kernel-based root solution for Android | KernelSU
+ - [https://kernelsu.org](https://kernelsu.org)
+ - date published: 2023-10-25T21:36:36.612083+00:00
+ - user: None
+ - tags: $tags
+
+## WordPress › Error
+ - [http://blog.kevtris.org](http://blog.kevtris.org)
+ - date published: 2023-10-25T21:36:37.992822+00:00
+ - user: None
+ - tags: $tags
+
+## The Khronos Group Inc
+ - [https://www.khronos.org](https://www.khronos.org)
+ - date published: 2023-10-25T21:36:40.765055+00:00
+ - user: None
+ - tags: $tags
+
+## Documentation | KiCad
+ - [https://docs.kicad.org](https://docs.kicad.org)
+ - date published: 2023-10-25T21:36:41.762036+00:00
+ - user: None
+ - tags: $tags
+
+## KiCad EDA - Schematic Capture & PCB Design Software
+ - [https://www.kicad.org](https://www.kicad.org)
+ - date published: 2023-10-25T21:36:43.199325+00:00
+ - user: None
+ - tags: $tags
+
+## Welcome to Kiwix Server
+ - [https://library.kiwix.org](https://library.kiwix.org)
+ - date published: 2023-10-25T21:36:43.855326+00:00
+ - user: None
+ - tags: $tags
+
+## Kevin Kelly – Over the long term, the future is decided by optimists
+ - [https://kk.org](https://kk.org)
+ - date published: 2023-10-25T21:36:46.122026+00:00
+ - user: None
+ - tags: $tags
+
+## WebGPU GPT Model Demo
+ - [https://www.kmeans.org](https://www.kmeans.org)
+ - date published: 2023-10-25T21:36:46.471227+00:00
+ - user: None
+ - tags: $tags
+
+## Mark J. Nelson
+ - [https://www.kmjn.org](https://www.kmjn.org)
+ - date published: 2023-10-25T21:36:47.730721+00:00
+ - user: None
+ - tags: $tags
+
+## | Knight First Amendment Institute
+ - [https://knightcolumbia.org](https://knightcolumbia.org)
+ - date published: 2023-10-25T21:36:54.362080+00:00
+ - user: None
+ - tags: $tags
+
+## Knight Foundation
+ - [https://knightfoundation.org](https://knightfoundation.org)
+ - date published: 2023-10-25T21:37:00.753387+00:00
+ - user: None
+ - tags: $tags
+
+## KNKX Public Radio | Jazz, Blues & NPR News | KNKX Public Radio
+ - [https://www.knkx.org](https://www.knkx.org)
+ - date published: 2023-10-25T21:37:06.340326+00:00
+ - user: None
+ - tags: $tags
+
+## Knowable Magazine
+ - [https://knowablemagazine.org](https://knowablemagazine.org)
+ - date published: 2023-10-25T21:37:11.035991+00:00
+ - user: None
+ - tags: $tags
+
+## Home Page of Marat Fayzullin
+ - [https://fms.komkon.org](https://fms.komkon.org)
+ - date published: 2023-10-25T21:37:12.156811+00:00
+ - user: None
+ - tags: $tags
+
+## Origami by Michał Kosmulski
+ - [https://origami.kosmulski.org](https://origami.kosmulski.org)
+ - date published: 2023-10-25T21:37:13.563028+00:00
+ - user: None
+ - tags: $tags
+
+## kottke.org - home of fine hypertext products
+ - [https://kottke.org](https://kottke.org)
+ - date published: 2023-10-25T09:24:05.372537+00:00
+ - user: None
+ - tags: $tags
+
+## KPBS Homepage | KPBS Public Media
+ - [https://www.kpbs.org](https://www.kpbs.org)
+ - date published: 2023-10-25T21:37:17.991746+00:00
+ - user: None
+ - tags: $tags
+
+## KQED | News, Radio, Podcasts, TV | Public Media for Northern California
+ - [https://www.kqed.org](https://www.kqed.org)
+ - date published: 2023-10-25T21:37:32.208784+00:00
+ - user: None
+ - tags: $tags
+
+## Krita Fund | Digital Painting. Creative Freedom.
+ - [https://fund.krita.org](https://fund.krita.org)
+ - date published: 2023-10-25T21:37:38.421533+00:00
+ - user: None
+ - tags: $tags
+
+## Krita
+ - [https://krita.org](https://krita.org)
+ - date published: 2023-10-25T08:33:48.431626+00:00
+ - user: None
+ - tags: ['program', 'open source']
+
+## KUNR Public Radio: Northern Nevada and the Eastern Sierra
+ - [https://www.kunr.org](https://www.kunr.org)
+ - date published: 2023-10-25T21:37:42.573020+00:00
+ - user: None
+ - tags: $tags
+
+## KUOW - KUOW Public Radio
+ - [https://kuow.org](https://kuow.org)
+ - date published: 2023-10-25T21:37:47.724694+00:00
+ - user: None
+ - tags: $tags
+
+## KUT Homepage | KUT Radio, Austin's NPR Station
+ - [https://www.kut.org](https://www.kut.org)
+ - date published: 2023-10-25T21:37:51.868361+00:00
+ - user: None
+ - tags: $tags
+
+## X-Files
+ - [https://doc.lagout.org](https://doc.lagout.org)
+ - date published: 2023-10-25T21:37:53.135655+00:00
+ - user: None
+ - tags: $tags
+
+## Lambda the Ultimate | Programming Languages Weblog
+ - [http://lambda-the-ultimate.org](http://lambda-the-ultimate.org)
+ - date published: 2023-10-25T21:37:59.339898+00:00
+ - user: None
+ - tags: $tags
+
+## Ashton Wiersdorf | Lambda Land
+ - [https://lambdaland.org](https://lambdaland.org)
+ - date published: 2023-10-25T21:38:00.130658+00:00
+ - user: None
+ - tags: $tags
+
+## Land Camp
+ - [https://www.landcamp.org](https://www.landcamp.org)
+ - date published: 2023-10-25T21:38:02.232316+00:00
+ - user: None
+ - tags: $tags
+
+## | Lapham’s Quarterly
+ - [https://www.laphamsquarterly.org](https://www.laphamsquarterly.org)
+ - date published: 2023-10-25T10:45:33.434280+00:00
+ - user: None
+ - tags: $tags
+
+## Brian Foote
+ - [http://www.laputan.org](http://www.laputan.org)
+ - date published: 2023-10-25T08:54:53.702441+00:00
+ - user: None
+ - tags: $tags
+
+## Los Angeles Review of Books
+ - [https://lareviewofbooks.org](https://lareviewofbooks.org)
+ - date published: 2023-10-25T21:38:04.444325+00:00
+ - user: None
+ - tags: $tags
+
+## Mastodon
+ - [https://mastodon.laurenweinstein.org](https://mastodon.laurenweinstein.org)
+ - date published: 2023-10-25T21:38:06.486264+00:00
+ - user: None
+ - tags: $tags
+
+## https://www.lawfaremedia.org
+ - [https://www.lawfaremedia.org](https://www.lawfaremedia.org)
+ - date published: 2023-10-30T04:52:46.101056+00:00
+ - user: None
+ - tags: $tags
+
+## Law & Liberty, part of the Liberty Fund Network
+ - [https://lawliberty.org](https://lawliberty.org)
+ - date published: 2023-10-25T21:38:09.051770+00:00
+ - user: None
+ - tags: $tags
+
+## 🚀 Getting Started | LazyVim
+ - [https://www.lazyvim.org](https://www.lazyvim.org)
+ - date published: 2023-10-25T08:35:28.988360+00:00
+ - user: None
+ - tags: $tags
+
+## Learn About Electronics - Home Page
+ - [https://learnabout-electronics.org](https://learnabout-electronics.org)
+ - date published: 2023-10-25T21:38:15.033617+00:00
+ - user: None
+ - tags: $tags
+
+## LENFEST INSTITUTE -
+ - [https://www.lenfestinstitute.org](https://www.lenfestinstitute.org)
+ - date published: 2023-10-25T21:38:16.663488+00:00
+ - user: None
+ - tags: $tags
+
+## Let Grow - When Adults Step Back, Kids Step Up.
+ - [https://letgrow.org](https://letgrow.org)
+ - date published: 2023-10-25T21:38:20.621745+00:00
+ - user: None
+ - tags: $tags
+
+## Lets-Plot: open-source plotting library for statistical data
+ - [https://lets-plot.org](https://lets-plot.org)
+ - date published: 2023-10-25T21:38:26.790873+00:00
+ - user: None
+ - tags: $tags
+
+## Let's Encrypt Community Support
+ - [https://community.letsencrypt.org](https://community.letsencrypt.org)
+ - date published: 2023-10-25T21:38:30.513053+00:00
+ - user: None
+ - tags: $tags
+
+## Let's Encrypt
+ - [https://letsencrypt.org](https://letsencrypt.org)
+ - date published: 2023-10-25T08:33:56.588669+00:00
+ - user: None
+ - tags: $tags
+
+## https://lfortran.org
+ - [https://lfortran.org](https://lfortran.org)
+ - date published: 2023-10-25T21:38:31.696970+00:00
+ - user: None
+ - tags: $tags
+
+## libcamera.org git repository browser
+ - [https://git.libcamera.org](https://git.libcamera.org)
+ - date published: 2023-10-25T21:38:32.187144+00:00
+ - user: None
+ - tags: $tags
+
+## Online Library of Liberty
+ - [https://oll.libertyfund.org](https://oll.libertyfund.org)
+ - date published: 2023-10-25T21:38:34.220715+00:00
+ - user: None
+ - tags: $tags
+
+## Libreboot – Libreboot project
+ - [https://libreboot.org](https://libreboot.org)
+ - date published: 2023-10-25T21:38:35.428842+00:00
+ - user: None
+ - tags: $tags
+
+## Create electronics the easy way | LibrePCB
+ - [https://librepcb.org](https://librepcb.org)
+ - date published: 2023-10-25T21:38:40.170206+00:00
+ - user: None
+ - tags: $tags
+
+## LibrePlanet
+ - [https://libreplanet.org](https://libreplanet.org)
+ - date published: 2023-10-25T21:38:48.708694+00:00
+ - user: None
+ - tags: $tags
+
+## LibriVox  | free public domain audiobooks
+ - [https://librivox.org](https://librivox.org)
+ - date published: 2023-10-25T11:35:50.460711+00:00
+ - user: None
+ - tags: ['audiobooks']
+
+## lichess.org • Free Online Chess
+ - [https://lichess.org](https://lichess.org)
+ - date published: 2023-10-25T21:38:50.442880+00:00
+ - user: None
+ - tags: $tags
+
+## Lily's Things at The Cool Site
+ - [https://www.lilysthings.org](https://www.lilysthings.org)
+ - date published: 2023-10-25T21:38:51.555067+00:00
+ - user: None
+ - tags: $tags
+
+## The National Lime Association – NLA – NLA's mission is to represent, protect, and promote the nation's lime industry.
+ - [https://www.lime.org](https://www.lime.org)
+ - date published: 2023-10-27T04:21:17.555582+00:00
+ - user: None
+ - tags: $tags
+
+## Accelerating deployment of Arm-based solutions | Linaro
+ - [https://www.linaro.org](https://www.linaro.org)
+ - date published: 2023-10-25T21:38:54.212541+00:00
+ - user: None
+ - tags: $tags
+
+## LineageOS – LineageOS Android Distribution
+ - [https://lineageos.org](https://lineageos.org)
+ - date published: 2023-10-25T08:32:27.769540+00:00
+ - user: None
+ - tags: ['operating system', 'lineageos', 'android']
+
+## Linear Book Scanner - The open-source automatic book scanner
+ - [https://linearbookscanner.org](https://linearbookscanner.org)
+ - date published: 2023-10-25T08:36:34.572791+00:00
+ - user: None
+ - tags: $tags
+
+## The Linux Information Project (LINFO) Home Page
+ - [https://www.linfo.org](https://www.linfo.org)
+ - date published: 2023-10-25T21:38:55.368279+00:00
+ - user: None
+ - tags: $tags
+
+## Linux.org
+ - [https://www.linux.org](https://www.linux.org)
+ - date published: 2023-10-25T21:38:58.347661+00:00
+ - user: None
+ - tags: $tags
+
+## KVM
+ - [https://www.linux-kvm.org](https://www.linux-kvm.org)
+ - date published: 2023-10-25T21:39:00.493933+00:00
+ - user: None
+ - tags: $tags
+
+## Linux Containers Forum
+ - [https://discuss.linuxcontainers.org](https://discuss.linuxcontainers.org)
+ - date published: 2023-10-25T21:39:03.769630+00:00
+ - user: None
+ - tags: $tags
+
+## Linux Containers
+ - [https://linuxcontainers.org](https://linuxcontainers.org)
+ - date published: 2023-10-25T21:39:05.617056+00:00
+ - user: None
+ - tags: $tags
+
+## Welcome to Linux From Scratch!
+ - [https://www.linuxfromscratch.org](https://www.linuxfromscratch.org)
+ - date published: 2023-10-25T21:39:07.168165+00:00
+ - user: None
+ - tags: $tags
+
+## LiteDB :: A .NET embedded NoSQL database
+ - [https://www.litedb.org](https://www.litedb.org)
+ - date published: 2023-10-25T21:39:07.941318+00:00
+ - user: None
+ - tags: $tags
+
+## Take a Book. Share a Book. - Little Free Library
+ - [https://littlefreelibrary.org](https://littlefreelibrary.org)
+ - date published: 2023-10-25T21:39:11.222918+00:00
+ - user: None
+ - tags: $tags
+
+## Live Action |  Pro-Life Advocacy for Dignity and Human Rights
+ - [https://www.liveaction.org](https://www.liveaction.org)
+ - date published: 2023-10-25T21:39:14.444748+00:00
+ - user: None
+ - tags: $tags
+
+## Universal and Transferable Attacks on Aligned Language Models
+ - [https://llm-attacks.org](https://llm-attacks.org)
+ - date published: 2023-10-25T21:39:17.051556+00:00
+ - user: None
+ - tags: $tags
+
+## GPU Utils ⚡️
+ - [https://gpus.llm-utils.org](https://gpus.llm-utils.org)
+ - date published: 2023-10-25T21:39:18.562208+00:00
+ - user: None
+ - tags: $tags
+
+## Home - LLM Utils
+ - [https://llm-utils.org](https://llm-utils.org)
+ - date published: 2023-10-25T21:39:20.535334+00:00
+ - user: None
+ - tags: $tags
+
+## LLVM Discussion Forums - Our community includes both users and developers of various compiler technologies within the LLVM project.
+ - [https://discourse.llvm.org](https://discourse.llvm.org)
+ - date published: 2023-10-25T21:39:24.567913+00:00
+ - user: None
+ - tags: $tags
+
+## The LLVM Compiler Infrastructure Project
+ - [https://llvm.org](https://llvm.org)
+ - date published: 2023-10-25T21:39:28.896311+00:00
+ - user: None
+ - tags: $tags
+
+## Download LLVM releases
+ - [https://releases.llvm.org](https://releases.llvm.org)
+ - date published: 2023-10-25T21:39:30.474866+00:00
+ - user: None
+ - tags: $tags
+
+## LMSYS Org
+ - [https://lmsys.org](https://lmsys.org)
+ - date published: 2023-10-25T21:39:31.970567+00:00
+ - user: None
+ - tags: $tags
+
+## Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality | LMSYS Org
+ - [https://vicuna.lmsys.org](https://vicuna.lmsys.org)
+ - date published: 2023-10-25T21:39:33.956719+00:00
+ - user: None
+ - tags: $tags
+
+## Opening the target...
+ - [https://mw.lojban.org](https://mw.lojban.org)
+ - date published: 2023-10-25T21:39:36.643198+00:00
+ - user: None
+ - tags: $tags
+
+## LONG NOW — fostering long term thinking
+ - [https://longnow.org](https://longnow.org)
+ - date published: 2023-10-25T21:39:39.438749+00:00
+ - user: None
+ - tags: $tags
+
+## LÖVE - Free 2D Game Engine
+ - [https://love2d.org](https://love2d.org)
+ - date published: 2023-10-25T08:35:50.630389+00:00
+ - user: None
+ - tags: $tags
+
+## https://lpython.org
+ - [https://lpython.org](https://lpython.org)
+ - date published: 2023-10-25T21:39:41.946449+00:00
+ - user: None
+ - tags: $tags
+
+## The Long Riders Guild Academic Foundation
+ - [http://www.lrgaf.org](http://www.lrgaf.org)
+ - date published: 2023-10-25T21:39:43.328877+00:00
+ - user: None
+ - tags: $tags
+
+## The Programming Language Lua
+ - [https://www.lua.org](https://www.lua.org)
+ - date published: 2023-10-25T21:39:44.587710+00:00
+ - user: None
+ - tags: $tags
+
+## Home Page for David Drysdale
+ - [https://www.lurklurk.org](https://www.lurklurk.org)
+ - date published: 2023-10-25T21:39:48.617218+00:00
+ - user: None
+ - tags: $tags
+
+## Homepage | Mathematical Association of America
+ - [https://maa.org](https://maa.org)
+ - date published: 2023-10-25T21:39:56.661675+00:00
+ - user: None
+ - tags: $tags
+
+## Homepage | Mathematical Association of America
+ - [https://www.maa.org](https://www.maa.org)
+ - date published: 2023-10-25T21:40:08.149299+00:00
+ - user: None
+ - tags: $tags
+
+## Macintosh Garden - Celebrating Macintosh Abandonware!
+ - [https://www.macintoshgarden.org](https://www.macintoshgarden.org)
+ - date published: 2023-10-27T14:50:05.944370+00:00
+ - user: None
+ - tags: ['abandonware', 'retro games']
+
+## macOS Containers Initiative
+ - [https://macoscontainers.org](https://macoscontainers.org)
+ - date published: 2023-10-25T21:40:08.656728+00:00
+ - user: None
+ - tags: $tags
+
+## MadSciNet: The 24-hour exploding laboratory.
+ - [https://www.madsci.org](https://www.madsci.org)
+ - date published: 2023-10-25T21:40:09.904654+00:00
+ - user: None
+ - tags: $tags
+
+## Secure e-mail for private and business customers | mailbox.org
+ - [https://mailbox.org](https://mailbox.org)
+ - date published: 2023-10-25T21:40:11.120497+00:00
+ - user: None
+ - tags: $tags
+
+## Maine State Legislature - Home
+ - [https://www.mainelegislature.org](https://www.mainelegislature.org)
+ - date published: 2023-10-25T21:40:12.533641+00:00
+ - user: None
  - tags: $tags
 
-## ScienceDaily: Your source for the latest research news
- - [https://www.sciencedaily.com](https://www.sciencedaily.com)
- - date published: 2023-10-25T10:10:58.373293+00:00
+## Index of /.
+ - [https://maizure.org](https://maizure.org)
+ - date published: 2023-10-25T21:40:18.210567+00:00
  - user: None
- - tags: ['science']
+ - tags: $tags
+
+## http://makie.org
+ - [http://makie.org](http://makie.org)
+ - date published: 2023-10-25T21:40:19.984747+00:00
+ - user: None
+ - tags: $tags
+
+## MAMEdev.org | Home of The MAME Project
+ - [https://www.mamedev.org](https://www.mamedev.org)
+ - date published: 2023-10-25T08:33:59.180459+00:00
+ - user: None
+ - tags: $tags
+
+## Michael Kerrisk - man7.org
+ - [https://man7.org](https://man7.org)
+ - date published: 2023-10-25T08:54:54.932586+00:00
+ - user: None
+ - tags: $tags
+
+## Manifund
+ - [https://manifund.org](https://manifund.org)
+ - date published: 2023-10-25T21:40:31.014774+00:00
+ - user: None
+ - tags: $tags
+
+## Manjaro
+ - [https://manjaro.org](https://manjaro.org)
+ - date published: 2023-10-25T08:32:30.040310+00:00
+ - user: None
+ - tags: ['operating system', 'linux']
+
+## Manton Reece
+ - [https://www.manton.org](https://www.manton.org)
+ - date published: 2023-10-25T08:54:57.479172+00:00
+ - user: None
+ - tags: $tags
+
+## Marco.org
+ - [https://marco.org](https://marco.org)
+ - date published: 2023-10-25T08:55:03.700528+00:00
+ - user: None
+ - tags: $tags
+
+## Home - Marcosticks
+ - [https://marcosticks.org](https://marcosticks.org)
+ - date published: 2023-10-25T21:40:39.086833+00:00
+ - user: None
+ - tags: $tags
+
+## Marketplace - Business News & Economic Stories For Everyone.
+ - [https://www.marketplace.org](https://www.marketplace.org)
+ - date published: 2023-10-25T21:40:43.366236+00:00
+ - user: None
+ - tags: $tags
+
+## massicotte.org | I write stuff here.
+ - [https://www.massicotte.org](https://www.massicotte.org)
+ - date published: 2023-10-25T21:40:44.215042+00:00
+ - user: None
+ - tags: $tags
+
+## Mastering Emacs
+ - [https://www.masteringemacs.org](https://www.masteringemacs.org)
+ - date published: 2023-10-25T08:40:44.720587+00:00
+ - user: None
+ - tags: $tags
+
+## Mathics
+ - [https://mathics.org](https://mathics.org)
+ - date published: 2023-10-25T21:40:45.148461+00:00
+ - user: None
+ - tags: $tags
+
+## Welcome to Plus! | plus.maths.org
+ - [https://plus.maths.org](https://plus.maths.org)
+ - date published: 2023-10-25T21:40:46.513276+00:00
+ - user: None
+ - tags: $tags
+
+## Matomo Analytics - The Google Analytics alternative that protects your data
+ - [https://matomo.org](https://matomo.org)
+ - date published: 2023-10-25T21:40:48.794247+00:00
+ - user: None
+ - tags: $tags
+
+## Matplotlib — Visualization with Python
+ - [https://matplotlib.org](https://matplotlib.org)
+ - date published: 2023-10-25T21:40:50.255598+00:00
+ - user: None
+ - tags: $tags
+
+## mastodon.matrix.org - Matrix.org's Mastodon
+ - [https://mastodon.matrix.org](https://mastodon.matrix.org)
+ - date published: 2023-10-25T21:40:51.505890+00:00
+ - user: None
+ - tags: $tags
+
+## Matrix.org
+ - [https://matrix.org](https://matrix.org)
+ - date published: 2023-10-25T08:36:31.764842+00:00
+ - user: None
+ - tags: ['social communicator']
+
+## Matrix Calculus
+ - [https://www.matrixcalculus.org](https://www.matrixcalculus.org)
+ - date published: 2023-10-25T21:40:52.658451+00:00
+ - user: None
+ - tags: $tags
+
+## Matt Lakeman – Writing on books, experiments, and random things I can't stop thinking about
+ - [https://mattlakeman.org](https://mattlakeman.org)
+ - date published: 2023-10-25T21:40:58.876749+00:00
+ - user: None
+ - tags: $tags
+
+## mCaptcha - mCaptcha
+ - [https://mcaptcha.org](https://mcaptcha.org)
+ - date published: 2023-10-25T21:41:00.182452+00:00
+ - user: None
+ - tags: $tags
+
+## Material Curricular Libre - www.mclibre.org
+ - [https://www.mclibre.org](https://www.mclibre.org)
+ - date published: 2023-10-25T21:41:01.332000+00:00
+ - user: None
+ - tags: $tags
+
+## Media Lens – Correcting for the distorted vision of the corporate media
+ - [https://www.medialens.org](https://www.medialens.org)
+ - date published: 2023-10-25T21:41:03.647662+00:00
+ - user: None
+ - tags: $tags
+
+## Homepage | Media Matters for America
+ - [https://www.mediamatters.org](https://www.mediamatters.org)
+ - date published: 2023-10-25T09:30:18.940421+00:00
+ - user: None
+ - tags: $tags
+
+## medRxiv.org - the preprint server for Health Sciences
+ - [https://www.medrxiv.org](https://www.medrxiv.org)
+ - date published: 2023-10-25T21:41:10.551921+00:00
+ - user: None
+ - tags: $tags
+
+## Melang | A script language of step-sharing scheduling coroutine in single thread
+ - [https://melang.org](https://melang.org)
+ - date published: 2023-10-25T21:41:11.360853+00:00
+ - user: None
+ - tags: $tags
+
+## Prossimo
+ - [https://www.memorysafety.org](https://www.memorysafety.org)
+ - date published: 2023-10-25T21:41:12.258442+00:00
+ - user: None
+ - tags: $tags
+
+## Memtest86+ | The Open-Source Memory Testing Tool
+ - [https://www.memtest.org](https://www.memtest.org)
+ - date published: 2023-10-25T21:41:13.583448+00:00
+ - user: None
+ - tags: $tags
+
+## Men Having Babies: guidance, advocacy & financial assistance for current and future gay surrogacy parents
+ - [https://menhavingbabies.org](https://menhavingbabies.org)
+ - date published: 2023-10-25T21:41:19.592510+00:00
+ - user: None
+ - tags: $tags
+
+## Road to Reality Essays
+ - [https://reality.mentat.org](https://reality.mentat.org)
+ - date published: 2023-10-25T21:41:20.518174+00:00
+ - user: None
+ - tags: $tags
+
+## Meribold
+ - [https://meribold.org](https://meribold.org)
+ - date published: 2023-10-25T21:41:21.356947+00:00
+ - user: None
+ - tags: $tags
+
+## mersenneforum.org
+ - [https://mersenneforum.org](https://mersenneforum.org)
+ - date published: 2023-10-25T21:41:28.576008+00:00
+ - user: None
+ - tags: $tags
+
+## mersenneforum.org
+ - [https://www.mersenneforum.org](https://www.mersenneforum.org)
+ - date published: 2023-10-25T21:41:34.285651+00:00
+ - user: None
+ - tags: $tags
+
+## Introduction — The Mesa 3D Graphics Library latest documentation
+ - [https://docs.mesa3d.org](https://docs.mesa3d.org)
+ - date published: 2023-10-25T21:41:37.809868+00:00
+ - user: None
+ - tags: $tags
+
+## MetaBrainz Blog – MetaBrainz Foundation community blog
+ - [https://blog.metabrainz.org](https://blog.metabrainz.org)
+ - date published: 2023-10-25T21:41:49.234942+00:00
+ - user: None
+ - tags: $tags
+
+## METEA MEDIA - Your World. Your Stories. Everyday.
+ - [https://meteamedia.org](https://meteamedia.org)
+ - date published: 2023-10-25T21:41:57.632879+00:00
+ - user: None
+ - tags: $tags
+
+## The Masonry Heater Association (MHA) Website
+ - [https://www.mha-net.org](https://www.mha-net.org)
+ - date published: 2023-10-25T11:34:45.766867+00:00
+ - user: None
+ - tags: $tags
+
+## http://www.michaeleisen.org
+ - [http://www.michaeleisen.org](http://www.michaeleisen.org)
+ - date published: 2023-10-25T21:41:59.650547+00:00
+ - user: None
+ - tags: $tags
+
+## The Michael J. Fox Foundation for Parkinson's Research | Parkinson's Disease
+ - [https://www.michaeljfox.org](https://www.michaeljfox.org)
+ - date published: 2023-10-25T21:42:04.712986+00:00
+ - user: None
+ - tags: $tags
+
+## Michael Nielsen
+ - [https://michaelnielsen.org](https://michaelnielsen.org)
+ - date published: 2023-10-25T21:42:09.865320+00:00
+ - user: None
+ - tags: $tags
 
-## realclearscience.com
- - [https://www.realclearscience.com](https://www.realclearscience.com)
- - date published: 2023-10-25T10:10:53.865897+00:00
+## I put things here so they are on the internet – Michael Weinberg
+ - [https://michaelweinberg.org](https://michaelweinberg.org)
+ - date published: 2023-10-25T21:42:12.922202+00:00
  - user: None
  - tags: $tags
 
-## Popular Science Homepage | Popular Science
- - [https://www.popsci.com](https://www.popsci.com)
- - date published: 2023-10-25T10:10:46.771446+00:00
+## [Home] | Michigan Medicine
+ - [https://www.michiganmedicine.org](https://www.michiganmedicine.org)
+ - date published: 2023-10-25T21:42:18.236155+00:00
  - user: None
  - tags: $tags
 
-## New Scientist | Science news, articles, and features
- - [https://www.newscientist.com](https://www.newscientist.com)
- - date published: 2023-10-25T10:10:38.374883+00:00
+## Microbiology Society
+ - [https://www.microbiologyresearch.org](https://www.microbiologyresearch.org)
+ - date published: 2023-10-25T21:42:27.306478+00:00
  - user: None
  - tags: $tags
 
-## New Atlas - New Technology & Science News
- - [https://newatlas.com](https://newatlas.com)
- - date published: 2023-10-25T10:10:32.003978+00:00
+## Military Poisons | WILPF US
+ - [https://www.militarypoisons.org](https://www.militarypoisons.org)
+ - date published: 2023-10-25T21:42:31.932290+00:00
  - user: None
  - tags: $tags
 
-## Nature
- - [https://www.nature.com](https://www.nature.com)
- - date published: 2023-10-25T10:10:29.099676+00:00
+## Min | A fast, minimal browser that protects your privacy
+ - [https://minbrowser.org](https://minbrowser.org)
+ - date published: 2023-10-25T21:42:38.172126+00:00
  - user: None
- - tags: ['science', 'news']
+ - tags: $tags
+
+## Minding The Campus — Reforming Our Universities
+ - [https://www.mindingthecampus.org](https://www.mindingthecampus.org)
+ - date published: 2023-10-25T21:42:55.312806+00:00
+ - user: None
+ - tags: $tags
 
-## Live Science | Latest science news and articles for those with curious minds
- - [https://www.livescience.com](https://www.livescience.com)
- - date published: 2023-10-25T10:10:25.617283+00:00
+## Minecraft Servers | Minecraft Server List
+ - [https://minecraftservers.org](https://minecraftservers.org)
+ - date published: 2023-10-25T11:18:19.441515+00:00
  - user: None
  - tags: $tags
 
-## The Lighter Side of Science | IFLScience
- - [https://www.iflscience.com](https://www.iflscience.com)
- - date published: 2023-10-25T10:10:17.143653+00:00
+## MineDojo | Building Open-Ended Embodied Agents with
+        Internet-Scale Knowledge
+ - [https://minedojo.org](https://minedojo.org)
+ - date published: 2023-10-25T21:42:57.598309+00:00
  - user: None
  - tags: $tags
 
-## Discover Magazine
- - [https://www.discovermagazine.com](https://www.discovermagazine.com)
- - date published: 2023-10-25T10:10:08.015699+00:00
+## Voyager | An Open-Ended Embodied Agent with Large Language Models
+ - [https://voyager.minedojo.org](https://voyager.minedojo.org)
+ - date published: 2023-10-25T21:43:00.475854+00:00
  - user: None
  - tags: $tags
 
-## Cosmos – Science News, Features, Podcasts, Video and Print Magazine
- - [https://cosmosmagazine.com](https://cosmosmagazine.com)
- - date published: 2023-10-25T10:10:04.251424+00:00
+## Minidisc Community Portal
+ - [https://www.minidisc.org](https://www.minidisc.org)
+ - date published: 2023-10-25T21:43:02.864383+00:00
  - user: None
  - tags: $tags
 
-## STV News | The home of Scottish News, Sport & Weather
- - [https://news.stv.tv](https://news.stv.tv)
- - date published: 2023-10-25T10:10:00.186984+00:00
+## Manifesto for Minimalist Software Engineers | Minifesto.org
+ - [http://minifesto.org](http://minifesto.org)
+ - date published: 2023-10-25T21:43:06.254953+00:00
  - user: None
  - tags: $tags
 
-## Space.com: NASA, Space Exploration and Astronomy News
- - [https://www.space.com](https://www.space.com)
- - date published: 2023-10-25T10:09:39.737329+00:00
+## Minifree Ltd – GNU+Linux laptops with Libreboot preinstalled, based on coreboot
+ - [https://minifree.org](https://minifree.org)
+ - date published: 2023-10-25T21:43:09.325144+00:00
  - user: None
  - tags: $tags
 
-## ESPN - Serving Sports Fans. Anytime. Anywhere.
- - [https://www.espn.com](https://www.espn.com)
- - date published: 2023-10-25T10:09:24.738987+00:00
+## git.minix3.org Git
+ - [https://git.minix3.org](https://git.minix3.org)
+ - date published: 2023-10-25T21:43:12.370760+00:00
  - user: None
  - tags: $tags
 
-## OutKick - Fearless Sports Media Company Founded by Clay Travis
- - [https://www.outkick.com](https://www.outkick.com)
- - date published: 2023-10-25T10:09:04.240719+00:00
+## MiniZinc
+ - [https://www.minizinc.org](https://www.minizinc.org)
+ - date published: 2023-10-25T21:43:16.189696+00:00
  - user: None
  - tags: $tags
 
-## fractional.work | Sanjay Saraf | Substack
- - [https://www.fractional.work](https://www.fractional.work)
- - date published: 2023-10-25T10:08:52.365132+00:00
+## 100% free, ad-free wikis, request yours today! - Miraheze
+ - [https://meta.miraheze.org](https://meta.miraheze.org)
+ - date published: 2023-10-25T21:43:20.077625+00:00
  - user: None
  - tags: $tags
 
-## Creator Economy by Peter Yang | Substack
- - [https://creatoreconomy.so](https://creatoreconomy.so)
- - date published: 2023-10-25T10:08:47.677770+00:00
+## Mission Local: local news for a global city | San Francisco, CA
+ - [https://missionlocal.org](https://missionlocal.org)
+ - date published: 2023-10-25T21:43:31.496412+00:00
  - user: None
  - tags: $tags
 
-## The Industry | Substack
- - [https://www.theindustry.pw](https://www.theindustry.pw)
- - date published: 2023-10-25T10:08:44.517714+00:00
+## MIT Admissions
+ - [https://mitadmissions.org](https://mitadmissions.org)
+ - date published: 2023-10-25T21:43:35.721118+00:00
  - user: None
  - tags: $tags
 
-## The Palindrome | Tivadar Danka | Substack
- - [https://thepalindrome.org](https://thepalindrome.org)
- - date published: 2023-10-25T10:08:41.434839+00:00
+## mitmproxy - an interactive HTTPS proxy
+ - [https://mitmproxy.org](https://mitmproxy.org)
+ - date published: 2023-10-25T21:43:42.450770+00:00
  - user: None
  - tags: $tags
 
-## Supervised | Matthew Lynley | Substack
- - [https://www.supervised.news](https://www.supervised.news)
- - date published: 2023-10-25T10:08:38.358107+00:00
+## CVE -
+
+CVE
+ - [https://cve.mitre.org](https://cve.mitre.org)
+ - date published: 2023-10-25T21:43:44.813392+00:00
  - user: None
  - tags: $tags
 
-## Ryan's Corner | Ryan Blakeley | Substack
- - [https://ryanblakeley.net](https://ryanblakeley.net)
- - date published: 2023-10-25T10:08:35.676878+00:00
+## CWE - 
+Common Weakness Enumeration
+ - [https://cwe.mitre.org](https://cwe.mitre.org)
+ - date published: 2023-10-25T21:43:47.269871+00:00
  - user: None
  - tags: $tags
 
-## Silver Bulletin | Nate Silver | Substack
- - [https://www.natesilver.net](https://www.natesilver.net)
- - date published: 2023-10-25T10:08:33.139664+00:00
+## Tom's Home Page
+ - [http://cholla.mmto.org](http://cholla.mmto.org)
+ - date published: 2023-10-27T12:06:43.535423+00:00
  - user: None
  - tags: $tags
 
-## Molly White | Substack
- - [https://newsletter.mollywhite.net](https://newsletter.mollywhite.net)
- - date published: 2023-10-25T10:08:31.113594+00:00
+## Mobian's Blog
+ - [https://blog.mobian.org](https://blog.mobian.org)
+ - date published: 2023-10-25T21:44:05.166649+00:00
  - user: None
  - tags: $tags
 
-## DYNOMIGHT INTERNET WEBSITE
- - [https://dynomight.net](https://dynomight.net)
- - date published: 2023-10-25T10:08:18.133719+00:00
+## The Mod Archive v4.0b - A distinctive collection of modules
+ - [https://modarchive.org](https://modarchive.org)
+ - date published: 2023-10-28T19:01:07.809021+00:00
  - user: None
  - tags: $tags
 
-## Deus In Machina | Diego Crespo | Substack
- - [https://www.deusinmachina.net](https://www.deusinmachina.net)
- - date published: 2023-10-25T10:08:14.443830+00:00
+## mojo.js - JavaScript real-time web framework
+ - [https://mojojs.org](https://mojojs.org)
+ - date published: 2023-10-25T21:44:11.865057+00:00
  - user: None
  - tags: $tags
 
-## ChinaTalk | Jordan Schneider | Substack
- - [https://www.chinatalk.media](https://www.chinatalk.media)
- - date published: 2023-10-25T10:08:05.206493+00:00
+## https://www.moma.org
+ - [https://www.moma.org](https://www.moma.org)
+ - date published: 2023-10-25T21:44:12.528195+00:00
  - user: None
  - tags: $tags
 
-## TJCX | Tom | Substack
- - [https://blog.tjcx.me](https://blog.tjcx.me)
- - date published: 2023-10-25T10:08:00.355305+00:00
+## Monkeynoodle.Org – A Scientific Venture!
+ - [https://monkeynoodle.org](https://monkeynoodle.org)
+ - date published: 2023-10-25T21:44:16.728817+00:00
  - user: None
  - tags: $tags
 
-## Simon’s Newsletter | Substack
- - [https://simonberens.me](https://simonberens.me)
- - date published: 2023-10-25T10:07:57.433976+00:00
+## Monthly Review | An Independent Socialist Magazine
+ - [https://monthlyreview.org](https://monthlyreview.org)
+ - date published: 2023-10-25T21:44:28.453577+00:00
  - user: None
  - tags: $tags
 
-## Zion Lights | Substack
- - [http://zionlights.substack.com](http://zionlights.substack.com)
- - date published: 2023-10-25T10:07:55.352493+00:00
+## Home | Moodle.org
+ - [https://moodle.org](https://moodle.org)
+ - date published: 2023-10-25T21:44:33.671005+00:00
  - user: None
  - tags: $tags
 
-## Zero Day | Kim Zetter | Substack
- - [https://zetter.substack.com](https://zetter.substack.com)
- - date published: 2023-10-25T10:07:53.099694+00:00
+## In Event of Moon Disaster
+ - [https://moondisaster.org](https://moondisaster.org)
+ - date published: 2023-10-25T21:44:36.544360+00:00
  - user: None
  - tags: $tags
 
-## In The Long Run | Zachary D. Carter | Substack
- - [https://zacharydcarter.substack.com](https://zacharydcarter.substack.com)
- - date published: 2023-10-25T10:07:50.275708+00:00
+## Home - Gordon and Betty Moore Foundation
+ - [https://www.moore.org](https://www.moore.org)
+ - date published: 2023-10-25T21:44:45.883763+00:00
  - user: None
  - tags: $tags
 
-## Your Local Epidemiologist | Katelyn Jetelina | Substack
- - [http://yourlocalepidemiologist.substack.com](http://yourlocalepidemiologist.substack.com)
- - date published: 2023-10-25T10:07:48.469561+00:00
+## Mosh: the mobile shell
+ - [https://mosh.org](https://mosh.org)
+ - date published: 2023-10-25T21:44:49.078711+00:00
  - user: None
  - tags: $tags
 
-## Simon's Blog | Simon Farshid | Substack
- - [http://yonom.substack.com](http://yonom.substack.com)
- - date published: 2023-10-25T10:07:45.579155+00:00
+## Mount Washington Observatory - Mount Washington Observatory
+ - [https://www.mountwashington.org](https://www.mountwashington.org)
+ - date published: 2023-10-25T21:44:53.270678+00:00
  - user: None
  - tags: $tags
 
-## Yassine Meskhout | Substack
- - [http://ymeskhout.substack.com](http://ymeskhout.substack.com)
- - date published: 2023-10-25T10:07:44.217889+00:00
+## Movetodon: Find your Twitter Friends on Mastodon
+ - [https://movetodon.org](https://movetodon.org)
+ - date published: 2023-10-25T21:44:54.599883+00:00
  - user: None
  - tags: $tags
 
-## Fun With The Cloud | Yehuda Cohen | Substack
- - [https://yehudacohen.substack.com](https://yehudacohen.substack.com)
- - date published: 2023-10-25T10:07:41.995878+00:00
+## Moxie Marlinspike >> About
+ - [https://moxie.org](https://moxie.org)
+ - date published: 2023-10-25T21:44:56.078354+00:00
  - user: None
  - tags: $tags
 
-## Wyclif's Dust | Substack
- - [https://wyclif.substack.com](https://wyclif.substack.com)
- - date published: 2023-10-25T10:07:39.575720+00:00
+## Add-ons for Firefox (en-US)
+ - [https://addons.mozilla.org](https://addons.mozilla.org)
+ - date published: 2023-10-25T09:27:04.184973+00:00
  - user: None
  - tags: $tags
 
-## Worldish | Substack
- - [https://worldish.substack.com](https://worldish.substack.com)
- - date published: 2023-10-25T10:07:36.707638+00:00
+## Home - The Mozilla Blog
+ - [https://blog.mozilla.org](https://blog.mozilla.org)
+ - date published: 2023-10-25T09:27:06.601346+00:00
  - user: None
  - tags: $tags
 
-## The Works in Progress Newsletter | Substack
- - [https://worksinprogress.substack.com](https://worksinprogress.substack.com)
- - date published: 2023-10-25T10:07:34.429207+00:00
+## Bugzilla Main Page
+ - [https://bugzilla.mozilla.org](https://bugzilla.mozilla.org)
+ - date published: 2023-10-25T09:27:16.128502+00:00
  - user: None
  - tags: $tags
 
-## Wood From Eden | Anders L | Substack
- - [http://woodfromeden.substack.com](http://woodfromeden.substack.com)
- - date published: 2023-10-25T10:07:31.771414+00:00
+## MDN Web Docs
+ - [https://developer.mozilla.org](https://developer.mozilla.org)
+ - date published: 2023-10-25T09:27:17.722718+00:00
  - user: None
  - tags: $tags
 
-## Wittgenfine’s Word | Substack
- - [http://wittgenfine.substack.com](http://wittgenfine.substack.com)
- - date published: 2023-10-25T10:07:29.511868+00:00
+## Mozilla Foundation - Homepage
+ - [https://foundation.mozilla.org](https://foundation.mozilla.org)
+ - date published: 2023-10-25T09:27:19.580881+00:00
  - user: None
  - tags: $tags
 
-## Why is this interesting? | Noah Brier | Substack
- - [http://whyisthisinteresting.substack.com](http://whyisthisinteresting.substack.com)
- - date published: 2023-10-25T10:07:28.108360+00:00
+## Innovations
+ - [https://future.mozilla.org](https://future.mozilla.org)
+ - date published: 2023-10-25T09:27:20.433592+00:00
  - user: None
  - tags: $tags
 
-## Wheel’s Substack | Wheel Reinventor | Substack
- - [http://wheelreinventor.substack.com](http://wheelreinventor.substack.com)
- - date published: 2023-10-25T10:07:25.662382+00:00
+## Home - Mozilla Hacks - the Web developer blog
+ - [https://hacks.mozilla.org](https://hacks.mozilla.org)
+ - date published: 2023-10-25T09:27:22.380438+00:00
  - user: None
  - tags: $tags
 
-## weird medieval guys  | Substack
- - [http://weirdmedievalguys.substack.com](http://weirdmedievalguys.substack.com)
- - date published: 2023-10-25T10:07:23.489664+00:00
+## Papers & Publications - Mozilla Research
+ - [https://research.mozilla.org](https://research.mozilla.org)
+ - date published: 2023-10-25T09:27:25.209201+00:00
  - user: None
  - tags: $tags
 
-## Weekly PHP | Víctor Falcón 🤟 | Substack
- - [https://weeklyphp.substack.com](https://weeklyphp.substack.com)
- - date published: 2023-10-25T10:07:21.630667+00:00
+## Mozilla Support
+ - [https://support.mozilla.org](https://support.mozilla.org)
+ - date published: 2023-10-25T11:32:03.980205+00:00
  - user: None
  - tags: $tags
 
-## Startup Real Talk | Waseem Daher | Substack
- - [http://waseem.substack.com](http://waseem.substack.com)
- - date published: 2023-10-25T10:07:19.382687+00:00
+## Treeherder
+ - [https://treeherder.mozilla.org](https://treeherder.mozilla.org)
+ - date published: 2023-10-25T09:27:25.901270+00:00
  - user: None
  - tags: $tags
 
-## Chris Arnade Walks the World  | Substack
- - [http://walkingtheworld.substack.com](http://walkingtheworld.substack.com)
- - date published: 2023-10-25T10:07:17.981428+00:00
+## MozillaWiki
+ - [https://wiki.mozilla.org](https://wiki.mozilla.org)
+ - date published: 2023-10-25T09:27:28.058443+00:00
  - user: None
  - tags: $tags
 
-## Volted: Electrify your Life | Jeff Eiden | Substack
- - [http://volted.substack.com](http://volted.substack.com)
- - date published: 2023-10-25T10:07:15.949383+00:00
+## Internet for people, not profit — Mozilla (US)
+ - [https://www.mozilla.org](https://www.mozilla.org)
+ - date published: 2023-10-25T09:27:30.838308+00:00
  - user: None
  - tags: $tags
 
-## Void Papers | Tobi | Substack
- - [https://voidpapers.substack.com](https://voidpapers.substack.com)
- - date published: 2023-10-25T10:07:14.153042+00:00
+## MPR News
+ - [https://www.mprnews.org](https://www.mprnews.org)
+ - date published: 2023-10-25T11:07:25.515521+00:00
  - user: None
  - tags: $tags
 
-## Vigneshwarar’s Newsletter | Substack
- - [https://vigneshwarar.substack.com](https://vigneshwarar.substack.com)
- - date published: 2023-10-25T10:07:12.438218+00:00
+## MR Online
+ - [https://mronline.org](https://mronline.org)
+ - date published: 2023-10-25T21:45:02.065470+00:00
  - user: None
  - tags: $tags
 
-## Public Experiments | Varun | Substack
- - [https://varunshenoy.substack.com](https://varunshenoy.substack.com)
- - date published: 2023-10-25T10:07:10.677121+00:00
+## mruby
+ - [https://mruby.org](https://mruby.org)
+ - date published: 2023-10-25T21:45:04.103594+00:00
  - user: None
  - tags: $tags
+
+## MSX Resource Center
+ - [https://www.msx.org](https://www.msx.org)
+ - date published: 2023-10-28T18:52:39.028551+00:00
+ - user: None
+ - tags: ['internet forum']
 
-## Val's Pals | Valerie | Substack
- - [http://valspals.substack.com](http://valspals.substack.com)
- - date published: 2023-10-25T10:07:08.624140+00:00
+## Montana Public Radio | Montana Public Radio
+ - [https://www.mtpr.org](https://www.mtpr.org)
+ - date published: 2023-10-25T21:45:11.677857+00:00
  - user: None
  - tags: $tags
+
+## Mudlet – A cross-platform, open source, and super fast MUD client with scripting in Lua
+ - [https://www.mudlet.org](https://www.mudlet.org)
+ - date published: 2023-10-27T13:35:28.124871+00:00
+ - user: None
+ - tags: ['mud']
 
-## Unfashionable | Sven Schnieders | Substack
- - [https://unfashionable.substack.com](https://unfashionable.substack.com)
- - date published: 2023-10-25T10:07:06.313221+00:00
+## Multics
+ - [https://multicians.org](https://multicians.org)
+ - date published: 2023-10-25T21:45:15.492870+00:00
  - user: None
  - tags: $tags
 
-## Type Classes | Chris Martin | Substack
- - [https://typeclasses.substack.com](https://typeclasses.substack.com)
- - date published: 2023-10-25T10:06:58.858555+00:00
+## Multics
+ - [https://www.multicians.org](https://www.multicians.org)
+ - date published: 2023-10-25T21:45:18.889786+00:00
  - user: None
  - tags: $tags
 
-## Tyler’s Substack | Tyler Glaiel | Substack
- - [https://tylerglaiel.substack.com](https://tylerglaiel.substack.com)
- - date published: 2023-10-25T10:06:56.239008+00:00
+## MultiPath TCP - Linux Kernel implementation : Main - Home Page browse
+ - [https://www.multipath-tcp.org](https://www.multipath-tcp.org)
+ - date published: 2023-10-25T21:45:21.667260+00:00
  - user: None
  - tags: $tags
 
-## Truth on the Streets by Kevin Dahlgren  | Substack
- - [https://truthonthestreets.substack.com](https://truthonthestreets.substack.com)
- - date published: 2023-10-25T10:06:54.506330+00:00
+## mupuf.org
+ - [https://www.mupuf.org](https://www.mupuf.org)
+ - date published: 2023-10-25T21:45:24.514993+00:00
  - user: None
  - tags: $tags
 
-## Trevor Klee’s Newsletter | Substack
- - [https://trevorklee.substack.com](https://trevorklee.substack.com)
- - date published: 2023-10-25T10:06:52.536361+00:00
+## Digital Giza | Educational Resources
+ - [https://giza.mused.org](https://giza.mused.org)
+ - date published: 2023-10-25T08:35:37.841688+00:00
  - user: None
  - tags: $tags
 
-## Contemplations on the Tree of Woe | Substack
- - [https://treeofwoe.substack.com](https://treeofwoe.substack.com)
- - date published: 2023-10-25T10:06:49.846572+00:00
+## Free music composition and notation software | MuseScore
+ - [https://musescore.org](https://musescore.org)
+ - date published: 2023-10-25T21:45:30.331302+00:00
  - user: None
  - tags: $tags
 
-## Life on the Trail | Allison Barr Allen | Substack
- - [https://trailruncapital.substack.com](https://trailruncapital.substack.com)
- - date published: 2023-10-25T10:06:47.676757+00:00
+## Museum Crush – from Culture24
+ - [https://museumcrush.org](https://museumcrush.org)
+ - date published: 2023-10-25T21:45:32.572221+00:00
  - user: None
  - tags: $tags
+
+## Free Sheet Music, Royalty Free & Public Domain Music | Musopen
+ - [https://musopen.org](https://musopen.org)
+ - date published: 2023-10-25T11:35:30.710422+00:00
+ - user: None
+ - tags: ['asset audio']
 
-## Tracing Woodgrains | TracingWoodgrains | Substack
- - [http://tracingwoodgrains.substack.com](http://tracingwoodgrains.substack.com)
- - date published: 2023-10-25T10:06:46.088816+00:00
+## MWMBL - Search
+ - [https://mwmbl.org](https://mwmbl.org)
+ - date published: 2023-10-25T09:07:24.154196+00:00
  - user: None
  - tags: $tags
 
-## Torture Chamber Small Talk | Loudt Darrow | Substack
- - [https://torturechambersmalltalk.substack.com](https://torturechambersmalltalk.substack.com)
- - date published: 2023-10-25T10:06:43.996611+00:00
+## mycophobia's web site
+ - [https://mycophobia.org](https://mycophobia.org)
+ - date published: 2023-10-25T09:24:06.461885+00:00
  - user: None
  - tags: $tags
 
-## Tilting At Windmills | Tom Knighton | Substack
- - [http://tomknighton.substack.com](http://tomknighton.substack.com)
- - date published: 2023-10-25T10:06:41.579404+00:00
+## MyNOR - The yet minor computer. No CPU, no ALU, one NOR-gate is enough.
+ - [http://mynor.org](http://mynor.org)
+ - date published: 2023-10-25T21:45:34.676973+00:00
  - user: None
  - tags: $tags
 
-## tldraw | Steve Ruiz | Substack
- - [https://tldraw.substack.com](https://tldraw.substack.com)
- - date published: 2023-10-25T10:06:33.454002+00:00
+## Chess programs, 8080 emulator, and retrogaming
+ - [https://nanochess.org](https://nanochess.org)
+ - date published: 2023-10-25T11:18:21.353496+00:00
  - user: None
  - tags: $tags
 
-## Tiny Empires | JT | Substack
- - [https://tinyempires.substack.com](https://tinyempires.substack.com)
- - date published: 2023-10-25T10:06:31.208743+00:00
+## http://mailman.nanog.org
+ - [http://mailman.nanog.org](http://mailman.nanog.org)
+ - date published: 2023-10-25T21:45:41.294147+00:00
  - user: None
  - tags: $tags
 
-## Software Design: Tidy First? | Kent Beck | Substack
- - [https://tidyfirst.substack.com](https://tidyfirst.substack.com)
- - date published: 2023-10-25T10:06:29.035400+00:00
+## NANOG Home Page
+ - [https://www.nanog.org](https://www.nanog.org)
+ - date published: 2023-10-25T21:45:45.101391+00:00
  - user: None
  - tags: $tags
 
-## The Path Not Taken | Thomas Prosser | Substack
- - [https://thomasprosser.substack.com](https://thomasprosser.substack.com)
- - date published: 2023-10-25T10:06:26.448291+00:00
+## Nat Friedman
+ - [https://nat.org](https://nat.org)
+ - date published: 2023-10-25T21:45:46.502795+00:00
  - user: None
  - tags: $tags
 
-## Unpacked | Viggy Balagopalakrishnan | Substack
- - [http://thisisunpacked.substack.com](http://thisisunpacked.substack.com)
- - date published: 2023-10-25T10:06:23.550654+00:00
+## Education | National Geographic Society
+ - [https://education.nationalgeographic.org](https://education.nationalgeographic.org)
+ - date published: 2023-10-25T21:45:48.804890+00:00
  - user: None
  - tags: $tags
 
-## The Why Axis | Christopher Ingraham | Substack
- - [http://thewhyaxis.substack.com](http://thewhyaxis.substack.com)
- - date published: 2023-10-25T10:06:20.791472+00:00
+## The National Interest: Defense, National Security, Politics and More
+ - [https://nationalinterest.org](https://nationalinterest.org)
+ - date published: 2023-10-25T21:45:52.331901+00:00
  - user: None
  - tags: $tags
 
-## TheSequence | Jesus Rodriguez | Substack
- - [http://thesequence.substack.com](http://thesequence.substack.com)
- - date published: 2023-10-25T10:06:18.657064+00:00
+## National Parks Traveler | Essential coverage of essential places
+ - [https://www.nationalparkstraveler.org](https://www.nationalparkstraveler.org)
+ - date published: 2023-10-25T21:45:57.282234+00:00
  - user: None
  - tags: $tags
 
-## The Rectangle | Callum Booth | Substack
- - [http://therectangle.substack.com](http://therectangle.substack.com)
- - date published: 2023-10-25T10:06:10.629585+00:00
+## The Nature Conservancy: A World Where People & Nature Thrive
+ - [https://www.nature.org](https://www.nature.org)
+ - date published: 2023-10-25T21:46:02.089333+00:00
  - user: None
  - tags: $tags
 
-## The Rationalist | Petra | Substack
- - [https://therationalist.substack.com](https://therationalist.substack.com)
- - date published: 2023-10-25T10:06:07.569258+00:00
+## Nature Programming Language | Nature Programming Language
+ - [https://nature-lang.org](https://nature-lang.org)
+ - date published: 2023-10-25T21:46:04.159471+00:00
  - user: None
  - tags: $tags
 
-## The Macro Compass | Alfonso Peccatiello (Alf) | Substack
- - [http://themacrocompass.substack.com](http://themacrocompass.substack.com)
- - date published: 2023-10-25T10:06:06.324400+00:00
+## Beetle Space
+ - [https://blog.nawaz.org](https://blog.nawaz.org)
+ - date published: 2023-10-25T21:46:08.068352+00:00
  - user: None
  - tags: $tags
 
-## The Handbasket | Marisa Kabas | Substack
- - [https://thehandbasket.substack.com](https://thehandbasket.substack.com)
- - date published: 2023-10-25T10:06:03.171125+00:00
+## National Bureau of Economic Research | NBER
+ - [https://www.nber.org](https://www.nber.org)
+ - date published: 2023-10-25T21:46:12.704252+00:00
  - user: None
  - tags: $tags
 
-## The Gauntlet | Julia Doubleday | Substack
- - [https://thegauntlet.substack.com](https://thegauntlet.substack.com)
- - date published: 2023-10-25T10:05:59.859496+00:00
+## Nicholas Cameron
+ - [https://www.ncameron.org](https://www.ncameron.org)
+ - date published: 2023-10-25T08:55:05.858077+00:00
  - user: None
  - tags: $tags
 
-## The Exit Game | Mujavid Bukhari | Substack
- - [http://theexitgame.substack.com](http://theexitgame.substack.com)
- - date published: 2023-10-25T10:05:57.330614+00:00
+## Network and Distributed System Security (NDSS) Symposium
+ - [https://www.ndss-symposium.org](https://www.ndss-symposium.org)
+ - date published: 2023-10-25T21:46:15.238050+00:00
  - user: None
  - tags: $tags
 
-## The Egg And The Rock | Julian Gough | Substack
- - [http://theeggandtherock.substack.com](http://theeggandtherock.substack.com)
- - date published: 2023-10-25T10:05:55.551572+00:00
+## https://neelc.org
+ - [https://neelc.org](https://neelc.org)
+ - date published: 2023-10-25T09:24:12.492485+00:00
  - user: None
  - tags: $tags
 
-## The Convivial Society | L. M. Sacasas | Substack
- - [http://theconvivialsociety.substack.com](http://theconvivialsociety.substack.com)
- - date published: 2023-10-25T10:05:50.863086+00:00
+## https://www.neelc.org
+ - [https://www.neelc.org](https://www.neelc.org)
+ - date published: 2023-10-25T09:24:18.851938+00:00
  - user: None
  - tags: $tags
 
-## The Column  | Adam Johnson | Substack
- - [https://thecolumn.substack.com](https://thecolumn.substack.com)
- - date published: 2023-10-25T10:05:48.708696+00:00
+## https://www.nejm.org
+ - [https://www.nejm.org](https://www.nejm.org)
+ - date published: 2023-10-25T21:46:16.467517+00:00
  - user: None
  - tags: $tags
 
-## The Climate Brink | Andrew Dessler | Substack
- - [https://theclimatebrink.substack.com](https://theclimatebrink.substack.com)
- - date published: 2023-10-25T10:05:41.214841+00:00
+## A.N. Lucas's Web Lounge
+ - [https://anlucas.neocities.org](https://anlucas.neocities.org)
+ - date published: 2023-10-25T21:46:19.248401+00:00
  - user: None
  - tags: $tags
 
-## The Chip Letter | Babbage | Substack
- - [https://thechipletter.substack.com](https://thechipletter.substack.com)
- - date published: 2023-10-25T10:05:37.013524+00:00
+## Bedr00mZ
+ - [https://bedr00mz.neocities.org](https://bedr00mz.neocities.org)
+ - date published: 2023-10-25T21:46:21.140056+00:00
  - user: None
  - tags: $tags
 
-## JR’s Newsletter | Substack
- - [http://thebuilderjr.substack.com](http://thebuilderjr.substack.com)
- - date published: 2023-10-25T10:05:34.411774+00:00
+## Neocities: Create your own free website!
+ - [https://neocities.org](https://neocities.org)
+ - date published: 2023-10-25T21:46:23.053595+00:00
  - user: None
  - tags: $tags
 
-## The AP (Alex Pareene) Newsletter | Substack
- - [http://theap.substack.com](http://theap.substack.com)
- - date published: 2023-10-25T10:05:32.575961+00:00
+## niconiconi's blog
+ - [https://niconiconi.neocities.org](https://niconiconi.neocities.org)
+ - date published: 2023-10-25T21:46:29.922160+00:00
  - user: None
  - tags: $tags
 
-## The AI Underwriter | Otakar G. Hubschmann | Substack
- - [https://theaiunderwriter.substack.com](https://theaiunderwriter.substack.com)
- - date published: 2023-10-25T10:05:29.847109+00:00
+## NRK's Homepage
+ - [https://nrk.neocities.org](https://nrk.neocities.org)
+ - date published: 2023-10-25T08:55:07.452720+00:00
  - user: None
  - tags: $tags
 
-## The AI Report | Substack
- - [https://theaireport.substack.com](https://theaireport.substack.com)
- - date published: 2023-10-25T10:05:28.121557+00:00
+## ✂︎ Pixel Sea ✂︎
+ - [https://pixelsea.neocities.org](https://pixelsea.neocities.org)
+ - date published: 2023-10-25T11:08:14.545672+00:00
  - user: None
  - tags: $tags
 
-## Textual Variations | Mikhail Skoptsov | Substack
- - [https://textualvariations.substack.com](https://textualvariations.substack.com)
- - date published: 2023-10-25T10:05:24.832937+00:00
+## Simplifier
+ - [https://simplifier.neocities.org](https://simplifier.neocities.org)
+ - date published: 2023-10-25T21:46:36.977513+00:00
  - user: None
  - tags: $tags
 
-## Hope For Film | Ted Hope | Substack
- - [https://tedhope.substack.com](https://tedhope.substack.com)
- - date published: 2023-10-25T10:05:16.815969+00:00
+## zamfofex’s thoughts
+ - [https://zamfofex.neocities.org](https://zamfofex.neocities.org)
+ - date published: 2023-10-25T21:46:40.648706+00:00
  - user: None
  - tags: $tags
 
-## The Honest Broker | Ted Gioia | Substack
- - [https://tedgioia.substack.com](https://tedgioia.substack.com)
- - date published: 2023-10-25T10:05:14.471020+00:00
+## Home - NetBlocks
+ - [https://netblocks.org](https://netblocks.org)
+ - date published: 2023-10-25T21:46:44.646804+00:00
  - user: None
  - tags: $tags
 
-## The Reactionary | Techno Fog | Substack
- - [https://technofog.substack.com](https://technofog.substack.com)
- - date published: 2023-10-25T10:05:12.420026+00:00
+## NetBSD Blog
+ - [https://blog.netbsd.org](https://blog.netbsd.org)
+ - date published: 2023-10-25T21:46:48.750598+00:00
  - user: None
  - tags: $tags
 
-## The Technically Challenged Newsletter | Jesse | Substack
- - [https://technicallychallenged.substack.com](https://technicallychallenged.substack.com)
- - date published: 2023-10-25T10:05:10.127902+00:00
+## NetBSD Manual Pages
+ - [https://man.netbsd.org](https://man.netbsd.org)
+ - date published: 2023-10-25T21:46:50.320830+00:00
  - user: None
  - tags: $tags
 
-## Systems Approach | Bruce Davie | Substack
- - [https://systemsapproach.substack.com](https://systemsapproach.substack.com)
- - date published: 2023-10-25T10:05:02.967943+00:00
+## NetHack 3.6.7: NetHack Home Page
+ - [https://www.nethack.org](https://www.nethack.org)
+ - date published: 2023-10-25T21:46:54.945600+00:00
  - user: None
  - tags: $tags
 
-## Syntopikon | Substack
- - [https://syntopikon.substack.com](https://syntopikon.substack.com)
- - date published: 2023-10-25T10:05:00.115504+00:00
+## netmeister.org
+ - [https://netmeister.org](https://netmeister.org)
+ - date published: 2023-10-25T21:46:57.084024+00:00
  - user: None
  - tags: $tags
 
-## Synthedia | Bret Kinsella | Substack
- - [https://synthedia.substack.com](https://synthedia.substack.com)
- - date published: 2023-10-25T10:04:58.013922+00:00
+## Jan Schaumann
+ - [https://stevens.netmeister.org](https://stevens.netmeister.org)
+ - date published: 2023-10-25T21:46:58.589145+00:00
  - user: None
  - tags: $tags
 
-## Super Self | Lewis Kallow | Substack
- - [http://superself.substack.com](http://superself.substack.com)
- - date published: 2023-10-25T10:04:50.317296+00:00
+## netmeister.org
+ - [https://www.netmeister.org](https://www.netmeister.org)
+ - date published: 2023-10-25T21:47:00.987397+00:00
  - user: None
  - tags: $tags
 
-## Superb Owl | Max Goodbird | Substack
- - [http://superbowl.substack.com](http://superbowl.substack.com)
- - date published: 2023-10-25T10:04:47.194439+00:00
+## NetworkProfile.org
+ - [https://blog.networkprofile.org](https://blog.networkprofile.org)
+ - date published: 2023-10-25T21:47:08.072566+00:00
  - user: None
  - tags: $tags
 
-## Sungho Yahng | Substack
- - [https://sunghoyahng.substack.com](https://sunghoyahng.substack.com)
- - date published: 2023-10-25T10:04:44.363089+00:00
+## NetworkX — NetworkX  documentation
+ - [https://networkx.org](https://networkx.org)
+ - date published: 2023-10-25T21:47:09.511886+00:00
  - user: None
  - tags: $tags
 
-## Sudo Apps | Samir Khoja | Substack
- - [http://sudoapps.substack.com](http://sudoapps.substack.com)
- - date published: 2023-10-25T10:04:37.792112+00:00
+## netzpolitik.org
+ - [https://netzpolitik.org](https://netzpolitik.org)
+ - date published: 2023-10-25T21:47:21.147104+00:00
  - user: None
  - tags: $tags
 
-## Substack - A new economic engine for culture
- - [https://substack.com](https://substack.com)
- - date published: 2023-10-25T10:04:35.854636+00:00
+## neugierig.org
+ - [https://neugierig.org](https://neugierig.org)
+ - date published: 2023-10-25T21:47:23.369252+00:00
  - user: None
  - tags: $tags
 
-## Subconscious | Gordon Brander | Substack
- - [https://subconscious.substack.com](https://subconscious.substack.com)
- - date published: 2023-10-25T10:04:33.464701+00:00
+## NewClimate Institute
+ - [https://newclimate.org](https://newclimate.org)
+ - date published: 2023-10-27T19:11:53.122941+00:00
  - user: None
  - tags: $tags
 
-## Science Fictions | Stuart Ritchie | Substack
- - [https://stuartritchie.substack.com](https://stuartritchie.substack.com)
- - date published: 2023-10-25T10:04:31.154160+00:00
+## New Design Congress · New Design Congress
+ - [https://members.newdesigncongress.org](https://members.newdesigncongress.org)
+ - date published: 2023-10-25T21:47:28.284268+00:00
  - user: None
  - tags: $tags
 
-## Data People Etc. | Stephen Bailey | Substack
- - [https://stkbailey.substack.com](https://stkbailey.substack.com)
- - date published: 2023-10-25T10:04:23.504857+00:00
+## New Internationalist | The world unspun
+ - [https://newint.org](https://newint.org)
+ - date published: 2023-10-25T21:47:31.543425+00:00
  - user: None
  - tags: $tags
 
-## Startup Pirate by Alex Alexakis | Substack
- - [http://startuppirate.substack.com](http://startuppirate.substack.com)
- - date published: 2023-10-25T10:04:20.623964+00:00
+## NLR 143, September–October 2023
+ - [https://newleftreview.org](https://newleftreview.org)
+ - date published: 2023-10-25T21:47:34.032815+00:00
  - user: None
  - tags: $tags
 
-## Innovation Nation | George Patterson Sibble | Substack
- - [https://startupdreams.substack.com](https://startupdreams.substack.com)
- - date published: 2023-10-25T10:04:12.459507+00:00
+## NewOS Operating System
+ - [https://newos.org](https://newos.org)
+ - date published: 2023-10-25T21:47:35.251769+00:00
  - user: None
  - tags: $tags
 
-## NeoNarrative | Sotonye | Substack
- - [https://sotonye.substack.com](https://sotonye.substack.com)
- - date published: 2023-10-25T10:04:03.629604+00:00
+## Reform Your Mind
+ - [https://newreformedamish.org](https://newreformedamish.org)
+ - date published: 2023-10-25T21:47:38.374269+00:00
  - user: None
  - tags: $tags
 
-## Reverie by Daniel Cawrey | Substack
- - [https://somereverie.substack.com](https://somereverie.substack.com)
- - date published: 2023-10-25T10:03:59.905705+00:00
+## Newsboat, an RSS reader
+ - [https://newsboat.org](https://newsboat.org)
+ - date published: 2023-10-25T08:34:03.455256+00:00
  - user: None
  - tags: $tags
 
-## Soaring Twenties | Thomas J Bevan | Substack
- - [http://soaringtwenties.substack.com](http://soaringtwenties.substack.com)
- - date published: 2023-10-25T10:03:56.149302+00:00
+## Newsbusters | Exposing and Combating Liberal Media Bias
+ - [https://www.newsbusters.org](https://www.newsbusters.org)
+ - date published: 2023-10-25T21:47:44.403089+00:00
  - user: None
  - tags: $tags
 
-## Skybrian’s Blog | Substack
- - [https://skybrian.substack.com](https://skybrian.substack.com)
- - date published: 2023-10-25T10:03:51.030062+00:00
+## New Story | We Pioneer Solutions To End Global Homelessness
+ - [https://newstorycharity.org](https://newstorycharity.org)
+ - date published: 2023-10-25T21:47:49.695249+00:00
  - user: None
  - tags: $tags
 
-## Irregular Ideas with Paul Kedrosky & Eric Norlin of SKV | SK Ventures | Substack
- - [http://skventures.substack.com](http://skventures.substack.com)
- - date published: 2023-10-25T10:03:48.193818+00:00
+## New Tolerance Campaign - Be Consistent. Be Transparent. Be Tolerant.
+ - [https://newtolerance.org](https://newtolerance.org)
+ - date published: 2023-10-25T21:47:52.287738+00:00
  - user: None
  - tags: $tags
 
-## Skunk Ledger | BLAP | Substack
- - [http://skunkledger.substack.com](http://skunkledger.substack.com)
- - date published: 2023-10-25T10:03:44.642061+00:00
+## Liberty Street Economics
+ - [https://libertystreeteconomics.newyorkfed.org](https://libertystreeteconomics.newyorkfed.org)
+ - date published: 2023-10-25T21:48:00.388564+00:00
  - user: None
  - tags: $tags
 
-## Simplicity is SOTA | Richard Demsyn-Jones | Substack
- - [http://simplicityissota.substack.com](http://simplicityissota.substack.com)
- - date published: 2023-10-25T10:03:41.559064+00:00
+## Building Better Cities - Urban Transportation and Housing News
+ - [https://nextcity.org](https://nextcity.org)
+ - date published: 2023-10-25T21:48:03.814905+00:00
  - user: None
  - tags: $tags
 
-## The Map is Mostly Water | Simon Sarris | Substack
- - [https://simonsarris.substack.com](https://simonsarris.substack.com)
- - date published: 2023-10-25T10:03:37.881602+00:00
+## Welcome To The NeXT World
+ - [https://www.nextcomputers.org](https://www.nextcomputers.org)
+ - date published: 2023-10-25T21:48:05.461680+00:00
  - user: None
  - tags: $tags
 
-## Madhur’s Writings | Madhur Shrimal | Substack
- - [https://shrimalmadhur.substack.com](https://shrimalmadhur.substack.com)
- - date published: 2023-10-25T10:03:33.706563+00:00
+## Next.js by Vercel - The React Framework
+ - [https://nextjs.org](https://nextjs.org)
+ - date published: 2023-10-25T21:48:06.673472+00:00
  - user: None
  - tags: $tags
 
-## the shimmering void | Ben Follington | Substack
- - [http://shimmeringvoid.substack.com](http://shimmeringvoid.substack.com)
- - date published: 2023-10-25T10:03:29.652859+00:00
+## nginx news
+ - [https://nginx.org](https://nginx.org)
+ - date published: 2023-10-25T08:35:27.087627+00:00
  - user: None
  - tags: $tags
 
-## Shatter Zone | The Only Robert Evans | Substack
- - [http://shatterzone.substack.com](http://shatterzone.substack.com)
- - date published: 2023-10-25T10:03:23.969375+00:00
+## Home | NHPR | New Hampshire Public Radio
+ - [https://www.nhpr.org](https://www.nhpr.org)
+ - date published: 2023-10-25T21:48:11.912598+00:00
  - user: None
  - tags: $tags
 
-## Seymour Hersh | Substack
- - [https://seymourhersh.substack.com](https://seymourhersh.substack.com)
- - date published: 2023-10-25T10:03:20.073223+00:00
+## Nieman Journalism Lab
+ - [https://www.niemanlab.org](https://www.niemanlab.org)
+ - date published: 2023-10-25T21:48:15.437749+00:00
  - user: None
  - tags: $tags
 
-## Sensible Medicine | Substack
- - [https://sensiblemed.substack.com](https://sensiblemed.substack.com)
- - date published: 2023-10-25T10:03:15.606034+00:00
+## Nim forum
+ - [https://forum.nim-lang.org](https://forum.nim-lang.org)
+ - date published: 2023-10-25T21:48:16.486470+00:00
  - user: None
  - tags: $tags
 
-## scribepod | Yacine | Substack
- - [http://scribepod.substack.com](http://scribepod.substack.com)
- - date published: 2023-10-25T10:03:10.373544+00:00
+## Nim Programming Language
+ - [https://nim-lang.org](https://nim-lang.org)
+ - date published: 2023-10-25T21:48:18.211159+00:00
  - user: None
  - tags: $tags
 
-## Implications, by Scott Belsky | Substack
- - [https://scottbelsky.substack.com](https://scottbelsky.substack.com)
- - date published: 2023-10-25T10:02:57.280453+00:00
+## Front Page - National Institute on Retirement Security
+ - [https://www.nirsonline.org](https://www.nirsonline.org)
+ - date published: 2023-10-27T12:06:50.540028+00:00
  - user: None
  - tags: $tags
 
-## Sasha's 'Newsletter' | Sasha Chapin | Substack
- - [http://sashachapin.substack.com](http://sashachapin.substack.com)
- - date published: 2023-10-25T10:02:53.975339+00:00
+## Niskanen Center - Niskanen Center
+ - [https://www.niskanencenter.org](https://www.niskanencenter.org)
+ - date published: 2023-10-27T12:06:52.294662+00:00
  - user: None
  - tags: $tags
 
-## Scatter Brain | Sar Haribhakti | Substack
- - [http://sarharibhakti.substack.com](http://sarharibhakti.substack.com)
- - date published: 2023-10-25T10:02:49.102729+00:00
+## The Nivenly Foundation
+ - [https://nivenly.org](https://nivenly.org)
+ - date published: 2023-10-25T21:48:42.767553+00:00
  - user: None
  - tags: $tags
 
-## Numb at the Lodge | Sam Kriss | Substack
- - [http://samkriss.substack.com](http://samkriss.substack.com)
- - date published: 2023-10-25T10:02:45.924044+00:00
+## 20 Years of Nix
+ - [https://20th.nixos.org](https://20th.nixos.org)
+ - date published: 2023-10-25T21:48:44.867007+00:00
  - user: None
  - tags: $tags
 
-## Entry Level Investing | Ryan Shannon | Substack
- - [http://ryanshannon.substack.com](http://ryanshannon.substack.com)
- - date published: 2023-10-25T10:02:43.142233+00:00
+## NixOS Discourse - NixOS community forum
+ - [https://discourse.nixos.org](https://discourse.nixos.org)
+ - date published: 2023-10-25T21:48:46.933315+00:00
  - user: None
  - tags: $tags
 
-## RSS DS+AI Section Newsletter | Substack
- - [http://rssdsaisection.substack.com](http://rssdsaisection.substack.com)
- - date published: 2023-10-25T10:02:40.265611+00:00
+## Nix & NixOS | Reproducible builds and deployments
+ - [https://nixos.org](https://nixos.org)
+ - date published: 2023-10-25T21:48:48.526213+00:00
  - user: None
  - tags: $tags
 
-## The Honest Broker | Roger Pielke Jr. | Substack
- - [https://rogerpielkejr.substack.com](https://rogerpielkejr.substack.com)
- - date published: 2023-10-25T10:02:34.687234+00:00
+## NO_COLOR: disabling ANSI color output by default
+ - [https://no-color.org](https://no-color.org)
+ - date published: 2023-10-25T21:48:56.184642+00:00
  - user: None
  - tags: $tags
 
-## Interconnects | Nathan Lambert | Substack
- - [https://robotic.substack.com](https://robotic.substack.com)
- - date published: 2023-10-25T10:02:26.630773+00:00
+## Nobel Peace Prize - Home
+ - [https://www.nobelpeaceprize.org](https://www.nobelpeaceprize.org)
+ - date published: 2023-10-25T21:48:57.442582+00:00
  - user: None
  - tags: $tags
 
-## Rob Henderson's Newsletter | Substack
- - [http://robkhenderson.substack.com](http://robkhenderson.substack.com)
- - date published: 2023-10-25T10:02:22.444518+00:00
+## The official website of the Nobel Prize - NobelPrize.org
+ - [https://www.nobelprize.org](https://www.nobelprize.org)
+ - date published: 2023-10-25T21:49:01.273963+00:00
  - user: None
  - tags: $tags
 
-## Robert Bryce | Substack
- - [http://robertbryce.substack.com](http://robertbryce.substack.com)
- - date published: 2023-10-25T10:02:18.368822+00:00
+## Node.js
+ - [https://nodejs.org](https://nodejs.org)
+ - date published: 2023-10-25T08:34:04.424955+00:00
  - user: None
  - tags: $tags
 
-## The Poetry of Reality with Richard Dawkins | Substack
- - [https://richarddawkins.substack.com](https://richarddawkins.substack.com)
- - date published: 2023-10-25T10:01:47.068642+00:00
+## Human-made Content | Nonbot.org
+ - [https://nonbot.org](https://nonbot.org)
+ - date published: 2023-10-25T21:49:07.333742+00:00
  - user: None
  - tags: $tags
 
-## Res Obscura | Benjamin Breen | Substack
- - [http://resobscura.substack.com](http://resobscura.substack.com)
- - date published: 2023-10-25T10:01:43.733936+00:00
+## Official NORAD Tracks Santa
+ - [https://www.noradsanta.org](https://www.noradsanta.org)
+ - date published: 2023-10-25T21:49:15.959731+00:00
  - user: None
  - tags: $tags
 
-## 2050 | Peter Havers | Substack
- - [http://read2050.substack.com](http://read2050.substack.com)
- - date published: 2023-10-25T10:01:40.815826+00:00
+## notmuch
+ - [https://notmuchmail.org](https://notmuchmail.org)
+ - date published: 2023-10-25T21:49:23.394283+00:00
  - user: None
  - tags: $tags
 
-## Razib Khan's Unsupervised Learning | Substack
- - [https://razib.substack.com](https://razib.substack.com)
- - date published: 2023-10-25T10:01:38.890917+00:00
+## David "Novalis" Turner
+ - [https://novalis.org](https://novalis.org)
+ - date published: 2023-10-25T08:55:09.654027+00:00
  - user: None
  - tags: $tags
 
-## Lazy Afternoons | Ravi Teja Kanta | Substack
- - [https://ravitejakanta.substack.com](https://ravitejakanta.substack.com)
- - date published: 2023-10-25T10:01:35.638481+00:00
+## NPG - Negative Population Growth
+ - [https://npg.org](https://npg.org)
+ - date published: 2023-10-25T21:49:31.052897+00:00
  - user: None
  - tags: $tags
 
-## Ravi Parikh’s Newsletter | Substack
- - [http://ravisparikh.substack.com](http://ravisparikh.substack.com)
- - date published: 2023-10-25T10:01:33.302368+00:00
+## NPR - Breaking News, Analysis, Music, Arts & Podcasts : NPR
+ - [https://feeds.npr.org](https://feeds.npr.org)
+ - date published: 2023-10-25T10:50:53.329452+00:00
  - user: None
  - tags: $tags
 
-## Random Minds by Katherine Brodsky | Substack
- - [http://randomminds.substack.com](http://randomminds.substack.com)
- - date published: 2023-10-25T10:01:31.854876+00:00
+## NPR : National Public Radio
+ - [https://text.npr.org](https://text.npr.org)
+ - date published: 2023-10-25T21:49:34.712481+00:00
  - user: None
  - tags: $tags
+
+## NPR - Breaking News, Analysis, Music, Arts & Podcasts : NPR
+ - [https://www.npr.org](https://www.npr.org)
+ - date published: 2023-10-25T10:30:42.840665+00:00
+ - user: None
+ - tags: ['news']
 
-## Random Acts of Medicine | Chris Worsham | Substack
- - [https://randomactsofmedicine.substack.com](https://randomactsofmedicine.substack.com)
- - date published: 2023-10-25T10:01:28.416412+00:00
+## Homepage | National Snow and Ice Data Center
+ - [https://nsidc.org](https://nsidc.org)
+ - date published: 2023-10-25T21:49:42.497034+00:00
  - user: None
  - tags: $tags
 
-## A Blog For The Anthropocene | Rama Pascala | Substack
- - [http://ramapascala.substack.com](http://ramapascala.substack.com)
- - date published: 2023-10-25T10:01:25.970350+00:00
+## National Tidal and Sea Level Facility
+ - [https://ntslf.org](https://ntslf.org)
+ - date published: 2023-10-25T21:49:47.112219+00:00
  - user: None
  - tags: $tags
 
-## Identity Revive | Rakkhi Joy | Substack
- - [https://rakkhi.substack.com](https://rakkhi.substack.com)
- - date published: 2023-10-25T10:01:24.275651+00:00
+## Nuclear Museum
+ - [https://ahf.nuclearmuseum.org](https://ahf.nuclearmuseum.org)
+ - date published: 2023-10-25T21:49:52.230399+00:00
  - user: None
  - tags: $tags
 
-## The Watch | Radley Balko | Substack
- - [http://radleybalko.substack.com](http://radleybalko.substack.com)
- - date published: 2023-10-25T10:01:21.315352+00:00
+## Nue / Frontend troublesolver
+ - [https://nuejs.org](https://nuejs.org)
+ - date published: 2023-10-25T21:49:55.241244+00:00
  - user: None
  - tags: $tags
 
-## Popcorn Penguin Posts | PopcornPenguin | Substack
- - [http://puzzledpenguin.substack.com](http://puzzledpenguin.substack.com)
- - date published: 2023-10-25T10:01:18.667937+00:00
+## Nurse.org | Nursing News, Education & Community
+ - [https://nurse.org](https://nurse.org)
+ - date published: 2023-10-25T21:50:21.823014+00:00
  - user: None
  - tags: $tags
 
-## Public | Michael Shellenberger | Substack
- - [http://public.substack.com](http://public.substack.com)
- - date published: 2023-10-25T10:01:16.858074+00:00
+## Home | NutriTruth
+ - [https://www.nutritruth.org](https://www.nutritruth.org)
+ - date published: 2023-10-25T21:50:32.911635+00:00
  - user: None
  - tags: $tags
 
-## Not Found
- - [http://progalpha.substack.com](http://progalpha.substack.com)
- - date published: 2023-10-25T10:01:13.866774+00:00
+## Home | New York Heritage
+ - [https://nyheritage.org](https://nyheritage.org)
+ - date published: 2023-10-25T21:50:35.710953+00:00
  - user: None
  - tags: $tags
 
-## offscript | Priya | Substack
- - [http://prigoose.substack.com](http://prigoose.substack.com)
- - date published: 2023-10-25T10:01:09.250258+00:00
+## Engelberg Center on Innovation Law & Policy
+ - [https://www.nyuengelberg.org](https://www.nyuengelberg.org)
+ - date published: 2023-10-25T21:50:38.141828+00:00
  - user: None
  - tags: $tags
 
-## The Popehat Report | Ken White | Substack
- - [http://popehat.substack.com](http://popehat.substack.com)
- - date published: 2023-10-25T10:01:06.356169+00:00
+## Patient Care at NYU Langone Health
+ - [https://nyulangone.org](https://nyulangone.org)
+ - date published: 2023-10-25T21:50:42.972835+00:00
  - user: None
  - tags: $tags
 
-## Polymathic Being | Michael Woudenberg | Substack
- - [https://polymathicbeing.substack.com](https://polymathicbeing.substack.com)
- - date published: 2023-10-25T10:01:04.036294+00:00
+## Oakland Public Library
+ - [https://oaklandlibrary.org](https://oaklandlibrary.org)
+ - date published: 2023-10-25T21:50:54.405209+00:00
  - user: None
  - tags: $tags
 
-## Marc Andreessen Substack | Substack
- - [http://pmarca.substack.com](http://pmarca.substack.com)
- - date published: 2023-10-25T10:01:00.076662+00:00
+## Objective-See Foundation
+ - [https://objective-see.org](https://objective-see.org)
+ - date published: 2023-10-25T21:50:57.451695+00:00
  - user: None
  - tags: $tags
 
-## Planet Waves FM - Chiron Return | Eric F Coppolino | Substack
- - [http://planetwavesfm.substack.com](http://planetwavesfm.substack.com)
- - date published: 2023-10-25T10:00:58.204326+00:00
+## OCaml
+ - [https://discuss.ocaml.org](https://discuss.ocaml.org)
+ - date published: 2023-10-25T21:51:04.317444+00:00
  - user: None
  - tags: $tags
 
-## Photon-Lines Substack | Nick M | Substack
- - [https://photonlines.substack.com](https://photonlines.substack.com)
- - date published: 2023-10-25T10:00:55.503118+00:00
+## Welcome to a World of OCaml
+ - [https://ocaml.org](https://ocaml.org)
+ - date published: 2023-10-25T21:51:06.937636+00:00
  - user: None
  - tags: $tags
 
-## The PhilaVerse | Phil Siarri | Substack
- - [https://philsiarri.substack.com](https://philsiarri.substack.com)
- - date published: 2023-10-25T10:00:53.681393+00:00
+## http://bost.ocks.org
+ - [http://bost.ocks.org](http://bost.ocks.org)
+ - date published: 2023-10-25T21:51:08.895778+00:00
  - user: None
  - tags: $tags
 
-## Unverified Revelations | Substack
- - [https://philosophyinhell.substack.com](https://philosophyinhell.substack.com)
- - date published: 2023-10-25T10:00:51.129883+00:00
+## GNU Octave
+ - [https://octave.org](https://octave.org)
+ - date published: 2023-10-25T21:51:12.283785+00:00
  - user: None
  - tags: $tags
 
-## Philosophy bear | Substack
- - [https://philosophybear.substack.com](https://philosophybear.substack.com)
- - date published: 2023-10-25T10:00:48.623849+00:00
+## OctoPrint.org
+ - [https://octoprint.org](https://octoprint.org)
+ - date published: 2023-10-26T22:41:36.495865+00:00
  - user: None
  - tags: $tags
 
-## MD&A | Philo | Substack
- - [http://philo.substack.com](http://philo.substack.com)
- - date published: 2023-10-25T10:00:46.257294+00:00
+## The OECD Forum Network | Shaping Better Policies for Better Lives
+ - [https://www.oecd-forum.org](https://www.oecd-forum.org)
+ - date published: 2023-10-25T21:51:19.585705+00:00
  - user: None
  - tags: $tags
 
-## The PhilaVerse | Phil Siarri | Substack
- - [http://philaverse.substack.com](http://philaverse.substack.com)
- - date published: 2023-10-25T10:00:44.149519+00:00
+## OffGuardian – because facts really should be sacred
+ - [https://off-guardian.org](https://off-guardian.org)
+ - date published: 2023-10-25T21:51:27.398115+00:00
  - user: None
  - tags: $tags
 
-## PG's Substack | Substack
- - [https://pgpt.substack.com](https://pgpt.substack.com)
- - date published: 2023-10-25T10:00:41.628701+00:00
+## https://www.ohchr.org
+ - [https://www.ohchr.org](https://www.ohchr.org)
+ - date published: 2023-10-25T21:51:29.728838+00:00
  - user: None
  - tags: $tags
 
-## Pea Bee | pb | Substack
- - [https://peabee.substack.com](https://peabee.substack.com)
- - date published: 2023-10-25T10:00:40.276763+00:00
+## Welcome · Open Hardware Repository
+ - [https://ohwr.org](https://ohwr.org)
+ - date published: 2023-10-25T21:51:32.457993+00:00
  - user: None
  - tags: $tags
 
-## Uni Watch | Paul Lukas | Substack
- - [http://paullukas.substack.com](http://paullukas.substack.com)
- - date published: 2023-10-25T10:00:38.291980+00:00
+## Oils
+ - [https://www.oilshell.org](https://www.oilshell.org)
+ - date published: 2023-10-25T21:51:34.355660+00:00
  - user: None
  - tags: $tags
 
-## The Abbey of Misrule | Paul Kingsnorth | Substack
- - [https://paulkingsnorth.substack.com](https://paulkingsnorth.substack.com)
- - date published: 2023-10-25T10:00:34.889123+00:00
+## Oldlinux.org -- Linux plinux - Early Linux Kernel Analysis and Comments
+ - [http://www.oldlinux.org](http://www.oldlinux.org)
+ - date published: 2023-10-25T21:51:37.339430+00:00
  - user: None
  - tags: $tags
 
-## Passing Time | Michael Bateman | Substack
- - [https://passingtime.substack.com](https://passingtime.substack.com)
- - date published: 2023-10-25T10:00:31.464969+00:00
+## OLF Conference 2023 - Free and Open Software Conference and Expo
+ - [https://olfconference.org](https://olfconference.org)
+ - date published: 2023-10-25T21:51:41.610121+00:00
  - user: None
  - tags: $tags
 
-## The Trick Revealed | Jabari | Substack
- - [https://owlpal.substack.com](https://owlpal.substack.com)
- - date published: 2023-10-25T10:00:28.577107+00:00
+## Om: Main Page
+ - [https://www.om-language.org](https://www.om-language.org)
+ - date published: 2023-10-25T21:51:44.378412+00:00
  - user: None
  - tags: $tags
 
-## Persuasive Engineering | Oscar Watson-Smith | Substack
- - [http://oscargws.substack.com](http://oscargws.substack.com)
- - date published: 2023-10-25T10:00:25.765981+00:00
+## Together, we can solve the climate crisis | One Earth
+ - [https://www.oneearth.org](https://www.oneearth.org)
+ - date published: 2023-10-25T21:51:52.977152+00:00
  - user: None
  - tags: $tags
 
 ## One Useful Thing | Ethan Mollick | Substack
- - [https://oneusefulthing.substack.com](https://oneusefulthing.substack.com)
- - date published: 2023-10-25T10:00:23.738941+00:00
+ - [https://www.oneusefulthing.org](https://www.oneusefulthing.org)
+ - date published: 2023-10-25T21:51:56.259603+00:00
  - user: None
  - tags: $tags
 
-## On Substack | Substack Writers | Substack
- - [http://on.substack.com](http://on.substack.com)
- - date published: 2023-10-25T10:00:20.683392+00:00
+## On the public record | a would-be mouthpiece for big corporate enviros, neopagans and totalitarian leftists.
+ - [https://onthepublicrecord.org](https://onthepublicrecord.org)
+ - date published: 2023-10-25T21:52:02.318093+00:00
  - user: None
  - tags: $tags
 
-## Omnibudsman | Dunstan Ramsay | Substack
- - [https://omnibudsman.substack.com](https://omnibudsman.substack.com)
- - date published: 2023-10-25T10:00:16.370204+00:00
+## Oregon Public Broadcasting - OPB
+ - [https://www.opb.org](https://www.opb.org)
+ - date published: 2023-10-25T21:52:14.305899+00:00
  - user: None
  - tags: $tags
 
-## OH8HUB’s Substack | Ossi Herrala | Substack
- - [https://oh8hub.substack.com](https://oh8hub.substack.com)
- - date published: 2023-10-25T10:00:13.190871+00:00
+## Open Standards
+ - [https://www.open-std.org](https://www.open-std.org)
+ - date published: 2023-10-25T21:52:16.128054+00:00
  - user: None
  - tags: $tags
 
-## OSINT & Analysis by Oliver Alexander | Substack
- - [https://oalexanderdk.substack.com](https://oalexanderdk.substack.com)
- - date published: 2023-10-25T10:00:10.875590+00:00
+## http://open5gs.org
+ - [http://open5gs.org](http://open5gs.org)
+ - date published: 2023-10-25T21:52:17.924370+00:00
  - user: None
  - tags: $tags
 
-## Navaneeth’s Newsletter | Navaneeth pk | Substack
- - [https://nvnt.substack.com](https://nvnt.substack.com)
- - date published: 2023-10-25T10:00:08.008896+00:00
+## Open Access Government | Government | Health & Social Care | Research
+ - [https://www.openaccessgovernment.org](https://www.openaccessgovernment.org)
+ - date published: 2023-10-25T21:52:23.443094+00:00
  - user: None
  - tags: $tags
 
-## Novum Newsletter | Anton Cebalo | Substack
- - [http://novum.substack.com](http://novum.substack.com)
- - date published: 2023-10-25T10:00:05.707586+00:00
+## http://openairportmap.org
+ - [http://openairportmap.org](http://openairportmap.org)
+ - date published: 2023-10-25T08:25:19.672818+00:00
  - user: None
  - tags: $tags
 
-## Nothing Human | Ivan Vendrov | Substack
- - [https://nothinghuman.substack.com](https://nothinghuman.substack.com)
- - date published: 2023-10-25T10:00:02.157255+00:00
+## http://code.openark.org
+ - [http://code.openark.org](http://code.openark.org)
+ - date published: 2023-10-25T21:52:24.915203+00:00
  - user: None
  - tags: $tags
 
-## The Notado Newsletter | Substack
- - [http://notado.substack.com](http://notado.substack.com)
- - date published: 2023-10-25T09:59:59.410446+00:00
+## OpenBSD
+ - [https://www.openbsd.org](https://www.openbsd.org)
+ - date published: 2023-10-25T21:52:26.569830+00:00
  - user: None
  - tags: $tags
 
-## Nonzero Newsletter | Robert Wright | Substack
- - [https://nonzero.substack.com](https://nonzero.substack.com)
- - date published: 2023-10-25T09:59:56.570916+00:00
+## Open Compute Project
+ - [https://www.opencompute.org](https://www.opencompute.org)
+ - date published: 2023-10-27T12:06:56.023487+00:00
  - user: None
  - tags: $tags
 
-## Nongaap Investing | Mike | Substack
- - [https://nongaap.substack.com](https://nongaap.substack.com)
- - date published: 2023-10-25T09:59:52.831490+00:00
+## Home | OpenEnergyMonitor
+ - [https://openenergymonitor.org](https://openenergymonitor.org)
+ - date published: 2023-10-25T21:52:27.669344+00:00
  - user: None
  - tags: $tags
 
-## Noahpinion | Noah Smith | Substack
- - [https://noahpinion.substack.com](https://noahpinion.substack.com)
- - date published: 2023-10-25T09:59:49.877797+00:00
+## System Dashboard - Java Bug System
+ - [https://bugs.openjdk.org](https://bugs.openjdk.org)
+ - date published: 2023-10-25T21:52:29.217064+00:00
  - user: None
  - tags: $tags
 
-## Augmented Realist | Noah Norman | Substack
- - [https://noahnorman.substack.com](https://noahnorman.substack.com)
- - date published: 2023-10-25T09:59:47.121602+00:00
+## cr.openjdk.org Server
+ - [https://cr.openjdk.org](https://cr.openjdk.org)
+ - date published: 2023-10-25T21:52:36.509765+00:00
  - user: None
  - tags: $tags
 
-## News from Uncibal | David McGrogan | Substack
- - [https://newsfromuncibal.substack.com](https://newsfromuncibal.substack.com)
- - date published: 2023-10-25T09:59:44.684685+00:00
+## mail.openjdk.org Mailing Lists
+ - [https://mail.openjdk.org](https://mail.openjdk.org)
+ - date published: 2023-10-25T21:52:40.582021+00:00
  - user: None
  - tags: $tags
 
-## Nerology | Nero Vanbiervliet | Substack
- - [http://nerology.substack.com](http://nerology.substack.com)
- - date published: 2023-10-25T09:59:41.616987+00:00
+## OpenJDK
+ - [https://openjdk.org](https://openjdk.org)
+ - date published: 2023-10-25T08:36:58.066021+00:00
  - user: None
  - tags: $tags
 
-## Monomythical | Nadia | Substack
- - [http://nayafia.substack.com](http://nayafia.substack.com)
- - date published: 2023-10-25T09:59:39.569987+00:00
+## Welcome to Open Library | Open Library
+ - [https://openlibrary.org](https://openlibrary.org)
+ - date published: 2023-10-25T09:29:24.655304+00:00
  - user: None
  - tags: $tags
 
-## Silver Bulletin | Nate Silver | Substack
- - [https://natesilver.substack.com](https://natesilver.substack.com)
- - date published: 2023-10-25T09:59:37.463830+00:00
+## AI Ethics and Trustworthy Language Modeling - OpenLSR
+ - [https://openlsr.org](https://openlsr.org)
+ - date published: 2023-10-25T21:52:42.100852+00:00
  - user: None
  - tags: $tags
 
-## Anti-Suckers | Nabil Alouani | Substack
- - [http://nabilalouani.substack.com](http://nabilalouani.substack.com)
- - date published: 2023-10-25T09:59:33.528404+00:00
+## Home - Open Mainframe Project
+ - [https://www.openmainframeproject.org](https://www.openmainframeproject.org)
+ - date published: 2023-10-25T21:52:55.287205+00:00
  - user: None
  - tags: $tags
 
-## Nabeel S. Qureshi | Substack
- - [http://nabeelqu.substack.com](http://nabeelqu.substack.com)
- - date published: 2023-10-25T09:59:30.873478+00:00
+## openmediavault - The open network attached storage solution
+ - [https://www.openmediavault.org](https://www.openmediavault.org)
+ - date published: 2023-10-25T08:35:04.416698+00:00
  - user: None
  - tags: $tags
 
-## Mule Britannia! | Chris Smith | Substack
- - [http://mulebritannia.substack.com](http://mulebritannia.substack.com)
- - date published: 2023-10-25T09:59:28.386639+00:00
+## Home - Open MKT
+ - [https://openmkt.org](https://openmkt.org)
+ - date published: 2023-10-25T21:52:57.063348+00:00
  - user: None
  - tags: $tags
 
-## muk’s Newsletter | Substack
- - [http://mukdde.substack.com](http://mukdde.substack.com)
- - date published: 2023-10-25T09:59:20.910475+00:00
+## MoonRay Production Renderer
+ - [https://openmoonray.org](https://openmoonray.org)
+ - date published: 2023-10-25T21:52:57.993654+00:00
  - user: None
  - tags: $tags
 
-## Mr. E Reports | Substack
- - [https://mrereports.substack.com](https://mrereports.substack.com)
- - date published: 2023-10-25T09:59:18.422192+00:00
+## OpenMPT - Discover the music inside... | OpenMPT - Open ModPlug Tracker
+ - [https://openmpt.org](https://openmpt.org)
+ - date published: 2023-10-25T21:52:59.935278+00:00
  - user: None
- - tags: $tags
-
-## Mostly Python | Eric Matthes | Substack
- - [http://mostlypython.substack.com](http://mostlypython.substack.com)
- - date published: 2023-10-25T09:59:15.454735+00:00
- - user: None
- - tags: $tags
-
-## Mosquito Chronicles | Mosquito Capital | Substack
- - [http://mosquitocapital.substack.com](http://mosquitocapital.substack.com)
- - date published: 2023-10-25T09:59:10.579965+00:00
- - user: None
- - tags: $tags
-
-## Molecular Spectacular | Adomas Malaiska | Substack
- - [http://molecularspec.substack.com](http://molecularspec.substack.com)
- - date published: 2023-10-25T09:59:05.792951+00:00
- - user: None
- - tags: $tags
+ - tags: ['music tracker', 'open source']
 
-## Wrong ideas strongly held | mkBaio | Substack
- - [http://mkbaio.substack.com](http://mkbaio.substack.com)
- - date published: 2023-10-25T09:59:03.525397+00:00
+## OpenMW
+ - [https://openmw.org](https://openmw.org)
+ - date published: 2023-10-29T10:00:57.928021+00:00
  - user: None
- - tags: $tags
+ - tags: ['open source', 'morrowind']
 
-## Cosmic Column | Kai Christensen | Substack
- - [https://mkaic.substack.com](https://mkaic.substack.com)
- - date published: 2023-10-25T09:59:01.344820+00:00
+## OpenProcessing - Creative Coding for the Curious Mind
+ - [https://openprocessing.org](https://openprocessing.org)
+ - date published: 2023-10-25T21:53:01.379367+00:00
  - user: None
  - tags: $tags
 
-## Methexis | Kevin Fischer | Substack
- - [https://methexis.substack.com](https://methexis.substack.com)
- - date published: 2023-10-25T09:58:53.573354+00:00
+## OpenRailwayMap
+ - [https://www.openrailwaymap.org](https://www.openrailwaymap.org)
+ - date published: 2023-10-25T08:25:20.516625+00:00
  - user: None
  - tags: $tags
 
-## The Melt by Jason Diamond  | Substack
- - [http://meltedcheeseonwhitefish.substack.com](http://meltedcheeseonwhitefish.substack.com)
- - date published: 2023-10-25T09:58:50.797890+00:00
+## OpenRCT2 project
+ - [https://openrct2.org](https://openrct2.org)
+ - date published: 2023-10-25T21:53:01.909495+00:00
  - user: None
  - tags: $tags
 
-## Melos Han-Tani | Substack
- - [https://melodicambient.substack.com](https://melodicambient.substack.com)
- - date published: 2023-10-25T09:58:46.701668+00:00
+## OpenRetro Game Database
+ - [https://openretro.org](https://openretro.org)
+ - date published: 2023-10-25T11:18:22.724488+00:00
  - user: None
  - tags: $tags
 
-## Off-Topic | Meghan Boilard | Substack
- - [http://meghanboilard.substack.com](http://meghanboilard.substack.com)
- - date published: 2023-10-25T09:58:42.396985+00:00
+## Home | Open Rights Group
+ - [https://www.openrightsgroup.org](https://www.openrightsgroup.org)
+ - date published: 2023-10-25T21:53:03.331761+00:00
  - user: None
  - tags: $tags
 
-## Mindful Ruminations | Michael Oliver | Substack
- - [https://mcoliver.substack.com](https://mcoliver.substack.com)
- - date published: 2023-10-25T09:58:39.266748+00:00
+## Open Robotics
+ - [https://www.openrobotics.org](https://www.openrobotics.org)
+ - date published: 2023-10-25T21:53:09.705140+00:00
  - user: None
  - tags: $tags
 
-## Read Max | Max Read | Substack
- - [http://maxread.substack.com](http://maxread.substack.com)
- - date published: 2023-10-25T09:58:37.229697+00:00
+## OpenSAFELY: Home
+ - [https://www.opensafely.org](https://www.opensafely.org)
+ - date published: 2023-10-25T21:53:15.561678+00:00
  - user: None
  - tags: $tags
 
-## Maximum Effort, Minimum Reward | Dylan Black | Substack
- - [http://maximumeffort.substack.com](http://maximumeffort.substack.com)
- - date published: 2023-10-25T09:58:34.023752+00:00
+## Home - The Open Sanctuary Project
+ - [https://opensanctuary.org](https://opensanctuary.org)
+ - date published: 2023-10-25T21:53:20.102001+00:00
  - user: None
  - tags: $tags
 
-## BIG by Matt Stoller | Substack
- - [https://mattstoller.substack.com](https://mattstoller.substack.com)
- - date published: 2023-10-25T09:58:31.080586+00:00
+## OpenSCAD
+ - [https://www.openscad.org](https://www.openscad.org)
+ - date published: 2023-10-27T10:20:28.967315+00:00
  - user: None
- - tags: $tags
+ - tags: ['open source', 'cad software']
 
-## Matthew’s Writing | Matthew Tejo | Substack
- - [http://matthewtejo.substack.com](http://matthewtejo.substack.com)
- - date published: 2023-10-25T09:58:23.262759+00:00
+## OpenSecrets
+ - [https://www.opensecrets.org](https://www.opensecrets.org)
+ - date published: 2023-10-25T21:53:23.720431+00:00
  - user: None
  - tags: $tags
 
-## Matthew’s Substack | Matthew Grohman | Substack
- - [https://matthewgrohman.substack.com](https://matthewgrohman.substack.com)
- - date published: 2023-10-25T09:58:21.025332+00:00
+## Scale your e-commerce operations by using multi-channel fulfillment | Openship
+ - [https://openship.org](https://openship.org)
+ - date published: 2023-10-25T21:53:32.292650+00:00
  - user: None
  - tags: $tags
 
-## !important | Matt Frisbie | Substack
- - [https://mattfrisbie.substack.com](https://mattfrisbie.substack.com)
- - date published: 2023-10-25T09:58:18.461443+00:00
+## Home - Voices of Open Source
+ - [https://blog.opensource.org](https://blog.opensource.org)
+ - date published: 2023-10-25T21:53:35.210044+00:00
  - user: None
  - tags: $tags
 
-## Martin’s Newsletter | Martin Shkreli | Substack
- - [https://martinshkreli.substack.com](https://martinshkreli.substack.com)
- - date published: 2023-10-25T09:58:16.042885+00:00
+## Home - Open Source Security Foundation
+ - [https://openssf.org](https://openssf.org)
+ - date published: 2023-10-25T21:53:38.058024+00:00
  - user: None
  - tags: $tags
 
-## Mimir's Well | Mark McNeilly | Substack
- - [https://markmcneilly.substack.com](https://markmcneilly.substack.com)
- - date published: 2023-10-25T09:58:13.271057+00:00
+## http://mta.openssl.org
+ - [http://mta.openssl.org](http://mta.openssl.org)
+ - date published: 2023-10-25T21:53:39.244783+00:00
  - user: None
  - tags: $tags
 
-## Teniade Topics | Marion Teniade | Substack
- - [https://marionteniade.substack.com](https://marionteniade.substack.com)
- - date published: 2023-10-25T09:58:10.422380+00:00
+## /index.html
+ - [https://www.openssl.org](https://www.openssl.org)
+ - date published: 2023-10-25T21:53:40.757319+00:00
  - user: None
  - tags: $tags
 
-## Marcio Klepacz | Substack
- - [https://marciok.substack.com](https://marciok.substack.com)
- - date published: 2023-10-25T09:58:02.149600+00:00
+## Home | Open Steno Project
+ - [https://www.openstenoproject.org](https://www.openstenoproject.org)
+ - date published: 2023-10-25T21:53:42.685049+00:00
  - user: None
  - tags: $tags
 
-## Many One Percents | Tuấn Mon | Substack
- - [https://manyonepercents.substack.com](https://manyonepercents.substack.com)
- - date published: 2023-10-25T09:58:00.066649+00:00
+## OpenStreetMap Blog | Supporting the OpenStreetMap project
+ - [https://blog.openstreetmap.org](https://blog.openstreetmap.org)
+ - date published: 2023-10-25T21:54:00.090175+00:00
  - user: None
  - tags: $tags
 
-## Maneesh’s Substack | Maneesh Agrawala | Substack
- - [https://magrawala.substack.com](https://magrawala.substack.com)
- - date published: 2023-10-25T09:57:57.039994+00:00
+## OpenStreetMap
+ - [https://www.openstreetmap.org](https://www.openstreetmap.org)
+ - date published: 2023-10-25T08:25:21.448647+00:00
  - user: None
  - tags: $tags
 
-## Maestro's Musings | Justin Cranshaw | Substack
- - [https://maestroai.substack.com](https://maestroai.substack.com)
- - date published: 2023-10-25T09:57:55.016069+00:00
+## Get openSUSE
+ - [https://get.opensuse.org](https://get.opensuse.org)
+ - date published: 2023-10-25T21:54:02.204473+00:00
  - user: None
  - tags: $tags
 
-## Grandmotherly Wisdom | Made in Cosmos ✨ | Substack
- - [http://madeincosmos.substack.com](http://madeincosmos.substack.com)
- - date published: 2023-10-25T09:57:51.157296+00:00
+## openSUSE News
+ - [https://news.opensuse.org](https://news.opensuse.org)
+ - date published: 2023-10-25T21:54:11.240130+00:00
  - user: None
  - tags: $tags
 
-## Mad at the Internet | Joshua Moon | Substack
- - [https://madattheinternet.substack.com](https://madattheinternet.substack.com)
- - date published: 2023-10-25T09:57:47.051520+00:00
+## https://opentf.org
+ - [https://opentf.org](https://opentf.org)
+ - date published: 2023-10-25T21:54:12.348282+00:00
  - user: None
  - tags: $tags
 
-## The Lunduke Journal of Technology | Bryan Lunduke | Substack
- - [https://lunduke.substack.com](https://lunduke.substack.com)
- - date published: 2023-10-25T09:57:45.004420+00:00
+## OpenTofu
+ - [https://opentofu.org](https://opentofu.org)
+ - date published: 2023-10-25T21:54:15.162985+00:00
  - user: None
  - tags: $tags
 
-## Luis | Luis Thiam-Nye | Substack
- - [http://luisthiamnye.substack.com](http://luisthiamnye.substack.com)
- - date published: 2023-10-25T09:57:41.435951+00:00
+## Open Transcripts
+ - [http://opentranscripts.org](http://opentranscripts.org)
+ - date published: 2023-10-25T21:54:20.026368+00:00
  - user: None
  - tags: $tags
 
-## Lucas’s Substack | Lucas Erb | Substack
- - [https://lucaserb.substack.com](https://lucaserb.substack.com)
- - date published: 2023-10-25T09:57:39.289039+00:00
+## OpenTTD | OpenTTD's Wiki
+ - [https://wiki.openttd.org](https://wiki.openttd.org)
+ - date published: 2023-10-25T21:54:22.399587+00:00
  - user: None
  - tags: $tags
 
-## Louison’s newsletter | Louison Dumont | Substack
- - [https://louison.substack.com](https://louison.substack.com)
- - date published: 2023-10-25T09:57:31.845037+00:00
+## OpenTTD | Home
+ - [https://www.openttd.org](https://www.openttd.org)
+ - date published: 2023-10-25T21:54:30.332521+00:00
  - user: None
  - tags: $tags
 
-## Loeber on Substack | John Loeber | Substack
- - [https://loeber.substack.com](https://loeber.substack.com)
- - date published: 2023-10-25T09:57:29.028429+00:00
+## Open Web Docs
+ - [https://openwebdocs.org](https://openwebdocs.org)
+ - date published: 2023-10-25T21:54:33.151027+00:00
  - user: None
  - tags: $tags
 
-## Paola Writes | Paola Bonomo | Substack
- - [http://livepaola.substack.com](http://livepaola.substack.com)
- - date published: 2023-10-25T09:57:26.552752+00:00
+## [OpenWrt Wiki] Welcome to the OpenWrt Project
+ - [https://openwrt.org](https://openwrt.org)
+ - date published: 2023-10-25T21:54:37.020038+00:00
  - user: None
  - tags: $tags
 
-## Tech, investment and a little bit of everything.  | John | Substack
- - [http://littlebitofeverything.substack.com](http://littlebitofeverything.substack.com)
- - date published: 2023-10-25T09:57:23.667655+00:00
+## OPNsense® a true open source security platform and more - OPNsense® is a true open source firewall and more
+ - [https://opnsense.org](https://opnsense.org)
+ - date published: 2023-10-25T21:54:42.178862+00:00
  - user: None
  - tags: $tags
 
-## I Have No Idea What I'm Doing | Lior Neu-ner | Substack
- - [http://liorn.substack.com](http://liorn.substack.com)
- - date published: 2023-10-25T09:57:21.160891+00:00
+## Optica Publishing Group
+ - [https://opg.optica.org](https://opg.optica.org)
+ - date published: 2023-10-25T21:54:45.913732+00:00
  - user: None
  - tags: $tags
 
-## ICYMI by Lia Haberman | Substack
- - [https://liahaberman.substack.com](https://liahaberman.substack.com)
- - date published: 2023-10-25T09:57:18.422857+00:00
+## Home | Optica
+ - [https://www.optica.org](https://www.optica.org)
+ - date published: 2023-10-25T21:54:49.744968+00:00
  - user: None
  - tags: $tags
 
-## A Particular Weird | Lyle Enright | Substack
- - [https://lenright.substack.com](https://lenright.substack.com)
- - date published: 2023-10-25T09:57:15.186001+00:00
+## Orange Pi - Orange Pi official website - Orange Pi development board, open source hardware, open source
+        software, open source chip, computer keyboard
+ - [http://www.orangepi.org](http://www.orangepi.org)
+ - date published: 2023-10-25T21:54:52.162979+00:00
  - user: None
  - tags: $tags
 
-## Leigh Marie’s Newsletter | Leigh Marie Braswell | Substack
- - [https://leighmariebraswell.substack.com](https://leighmariebraswell.substack.com)
- - date published: 2023-10-25T09:57:12.216880+00:00
+## Orion Magazine | Nature, Culture & Place
+ - [https://orionmagazine.org](https://orionmagazine.org)
+ - date published: 2023-10-25T21:54:59.353571+00:00
  - user: None
  - tags: $tags
 
-## lcamtuf’s thing | Substack
- - [https://lcamtuf.substack.com](https://lcamtuf.substack.com)
- - date published: 2023-10-25T09:57:09.013670+00:00
+## OS.js Web Desktop
+ - [https://www.os-js.org](https://www.os-js.org)
+ - date published: 2023-10-25T21:55:06.625725+00:00
  - user: None
  - tags: $tags
 
-## The Free Mind | Laura Dodsworth | Substack
- - [http://lauradodsworth.substack.com](http://lauradodsworth.substack.com)
- - date published: 2023-10-25T09:57:06.732865+00:00
+## Rod's Slide Rules
+ - [https://osgalleries.org](https://osgalleries.org)
+ - date published: 2023-10-25T21:55:08.267829+00:00
  - user: None
  - tags: $tags
 
-## Laetitia@Work | Laëtitia Vitaud | Substack
- - [https://laetitiaatwork.substack.com](https://laetitiaatwork.substack.com)
- - date published: 2023-10-25T09:57:02.350935+00:00
+## Open Source Mobile Communications
+ - [https://projects.osmocom.org](https://projects.osmocom.org)
+ - date published: 2023-10-25T21:55:10.623342+00:00
  - user: None
  - tags: $tags
 
-## System Failure | Nathan Knopp | Substack
- - [https://knopp.substack.com](https://knopp.substack.com)
- - date published: 2023-10-25T09:56:59.004155+00:00
+## Welcome to the Open Source Seed Initiative - Open Source Seed Initiative
+ - [https://osseeds.org](https://osseeds.org)
+ - date published: 2023-10-25T21:55:13.834590+00:00
  - user: None
  - tags: $tags
 
-## Knoll’s Law | Knoll's Law | Substack
- - [http://knollslaw.substack.com](http://knollslaw.substack.com)
- - date published: 2023-10-25T09:56:49.775113+00:00
+## Our World in Data
+ - [https://ourworldindata.org](https://ourworldindata.org)
+ - date published: 2023-10-25T21:55:14.796544+00:00
  - user: None
  - tags: $tags
 
-## Kids Who Love Math | Sebastian Gutierrez | Substack
- - [http://kidswholovemath.substack.com](http://kidswholovemath.substack.com)
- - date published: 2023-10-25T09:56:47.449033+00:00
+## Earth Overshoot Day home - #MoveTheDate
+ - [https://www.overshootday.org](https://www.overshootday.org)
+ - date published: 2023-10-25T21:55:21.472858+00:00
  - user: None
  - tags: $tags
 
-## Kareem Abdul-Jabbar | Substack
- - [https://kareem.substack.com](https://kareem.substack.com)
- - date published: 2023-10-25T09:56:43.884000+00:00
+## http://overthewire.org
+ - [http://overthewire.org](http://overthewire.org)
+ - date published: 2023-10-25T21:55:21.941008+00:00
  - user: None
  - tags: $tags
 
-## Nine Lives | Karawynn Long | Substack
- - [http://karawynn.substack.com](http://karawynn.substack.com)
- - date published: 2023-10-25T09:56:38.827443+00:00
+## Overture Maps Foundation – Linux Foundation Project
+ - [https://overturemaps.org](https://overturemaps.org)
+ - date published: 2023-10-25T21:55:23.960595+00:00
  - user: None
  - tags: $tags
 
-## Kanekoa News | Substack
- - [http://kanekoa.substack.com](http://kanekoa.substack.com)
- - date published: 2023-10-25T09:56:30.623110+00:00
+## OWASP Foundation, the Open Source Foundation for Application Security | OWASP Foundation
+ - [https://owasp.org](https://owasp.org)
+ - date published: 2023-10-25T21:55:25.406620+00:00
  - user: None
  - tags: $tags
 
-## The Kaitchup – AI on a Budget | Benjamin Marie, PhD | Substack
- - [https://kaitchup.substack.com](https://kaitchup.substack.com)
- - date published: 2023-10-25T09:56:18.279130+00:00
+## Owl’s Portfolio
+ - [https://www.owlfolio.org](https://www.owlfolio.org)
+ - date published: 2023-10-25T21:55:28.509100+00:00
  - user: None
  - tags: $tags
 
-## Justin Smith-Ruiu’s Hinternet | Substack
- - [http://justinehsmith.substack.com](http://justinehsmith.substack.com)
- - date published: 2023-10-25T09:56:15.176051+00:00
+## The future is equal | Oxfam International
+ - [https://www.oxfam.org](https://www.oxfam.org)
+ - date published: 2023-10-25T21:55:30.733555+00:00
  - user: None
  - tags: $tags
 
-## Teaching computers how to talk | Jurgen Gravestein | Substack
- - [https://jurgengravestein.substack.com](https://jurgengravestein.substack.com)
- - date published: 2023-10-25T09:56:12.153586+00:00
+## Oxford American | Home
+ - [https://main.oxfordamerican.org](https://main.oxfordamerican.org)
+ - date published: 2023-10-25T21:55:33.395856+00:00
  - user: None
  - tags: $tags
 
-## Delayed Branch | Jason Rahman | Substack
- - [http://jprahman.substack.com](http://jprahman.substack.com)
- - date published: 2023-10-25T09:56:03.024868+00:00
+## Oxford American | Home
+ - [https://oxfordamerican.org](https://oxfordamerican.org)
+ - date published: 2023-10-25T21:55:35.228196+00:00
  - user: None
  - tags: $tags
 
-## Finding Joy | Joy Lere, Psy.D. | Substack
- - [https://joylere.substack.com](https://joylere.substack.com)
- - date published: 2023-10-25T09:56:00.200869+00:00
+## Home | p2panda
+ - [https://p2panda.org](https://p2panda.org)
+ - date published: 2023-10-25T21:55:36.083870+00:00
  - user: None
  - tags: $tags
 
-## quite useless | a. natasha joukovsky | Substack
- - [https://joukovsky.substack.com](https://joukovsky.substack.com)
- - date published: 2023-10-25T09:55:57.553758+00:00
+## Hummus and Magnets
+ - [https://h14s.p5r.org](https://h14s.p5r.org)
+ - date published: 2023-10-25T21:55:43.963463+00:00
  - user: None
  - tags: $tags
 
-## Joscha Bach | Substack
- - [https://joscha.substack.com](https://joscha.substack.com)
- - date published: 2023-10-25T09:55:48.369614+00:00
+## pablotron.org
+ - [https://pablotron.org](https://pablotron.org)
+ - date published: 2023-10-25T21:55:47.144745+00:00
  - user: None
  - tags: $tags
 
-## After Babel | Jon Haidt | Substack
- - [http://jonathanhaidt.substack.com](http://jonathanhaidt.substack.com)
- - date published: 2023-10-25T09:55:45.684767+00:00
+## PackagingCon 2023
+ - [https://packaging-con.org](https://packaging-con.org)
+ - date published: 2023-10-25T21:55:54.179386+00:00
  - user: None
  - tags: $tags
 
-## JoeBlogs | Joe Posnanski | Substack
- - [https://joeposnanski.substack.com](https://joeposnanski.substack.com)
- - date published: 2023-10-25T09:55:38.595856+00:00
+## The Palaeontological Association | Reg. Charity No. 1168330
+ - [https://www.palass.org](https://www.palass.org)
+ - date published: 2023-10-25T11:25:34.390632+00:00
  - user: None
  - tags: $tags
 
-## A Closer Look with Joe Morrison | Substack
- - [http://joemorrison.substack.com](http://joemorrison.substack.com)
- - date published: 2023-10-25T09:55:32.860081+00:00
+## pamela fox's blog
+ - [https://blog.pamelafox.org](https://blog.pamelafox.org)
+ - date published: 2023-10-25T21:55:58.273502+00:00
  - user: None
  - tags: $tags
 
-## Causal Deference | John McDonnell | Substack
- - [https://jmcdonnell.substack.com](https://jmcdonnell.substack.com)
- - date published: 2023-10-25T09:55:29.223040+00:00
+## Pandoc - index
+ - [https://pandoc.org](https://pandoc.org)
+ - date published: 2023-10-25T21:55:59.781435+00:00
  - user: None
  - tags: $tags
 
-## Pryor Thoughts | JJ Pryor | Substack
- - [https://jjpryor.substack.com](https://jjpryor.substack.com)
- - date published: 2023-10-25T09:55:26.042636+00:00
+## Strona główna | Fundacja Panoptykon
+ - [https://panoptykon.org](https://panoptykon.org)
+ - date published: 2023-10-25T21:56:01.636917+00:00
  - user: None
  - tags: $tags
 
-## Jinay's Substack | Jinay Jain | Substack
- - [https://jjain.substack.com](https://jjain.substack.com)
- - date published: 2023-10-25T09:55:19.692399+00:00
+## Papers, Please! – The Identity Project
+ - [https://papersplease.org](https://papersplease.org)
+ - date published: 2023-10-25T21:56:07.417099+00:00
  - user: None
  - tags: $tags
 
-## The Unpublishable | Jessica DeFino | Substack
- - [https://jessicadefino.substack.com](https://jessicadefino.substack.com)
- - date published: 2023-10-25T09:55:15.775970+00:00
+## paredit — parenthetical editing in Emacs
+ - [https://paredit.org](https://paredit.org)
+ - date published: 2023-10-25T21:56:08.422643+00:00
  - user: None
  - tags: $tags
 
-## Singal-Minded | Jesse Singal | Substack
- - [http://jessesingal.substack.com](http://jessesingal.substack.com)
- - date published: 2023-10-25T09:55:10.675192+00:00
+## Welcome!
+ - [https://parentheticallyspeaking.org](https://parentheticallyspeaking.org)
+ - date published: 2023-10-25T21:56:09.143442+00:00
  - user: None
  - tags: $tags
 
-## Jérôme à Paris  | Substack
- - [https://jeromeaparis.substack.com](https://jeromeaparis.substack.com)
- - date published: 2023-10-25T09:55:06.824850+00:00
+## parsonsmatt.org
+ - [https://www.parsonsmatt.org](https://www.parsonsmatt.org)
+ - date published: 2023-10-25T21:56:09.832668+00:00
  - user: None
  - tags: $tags
 
-## Points And Figures | Jeffrey Carter | Substack
- - [https://jeffreycarter.substack.com](https://jeffreycarter.substack.com)
- - date published: 2023-10-25T09:55:01.324163+00:00
+## Patrick T. Brown, PhD | It’s easy to construct a persuasive argument, it’s much more difficult to figure out the truth…
+ - [https://patricktbrown.org](https://patricktbrown.org)
+ - date published: 2023-10-25T21:56:15.510577+00:00
  - user: None
  - tags: $tags
 
-## Tech and Tea | Jean Hsu | Substack
- - [http://jeanhsu.substack.com](http://jeanhsu.substack.com)
- - date published: 2023-10-25T09:54:58.011335+00:00
+## Andrew Payne | payne.org
+ - [https://payne.org](https://payne.org)
+ - date published: 2023-10-25T21:56:16.509535+00:00
  - user: None
  - tags: $tags
 
-## These Are Systems | Jacob Bayless | Substack
- - [http://jbconsulting.substack.com](http://jbconsulting.substack.com)
- - date published: 2023-10-25T09:54:52.365590+00:00
+## PBS: Public Broadcasting Service
+ - [https://www.pbs.org](https://www.pbs.org)
+ - date published: 2023-10-25T10:24:08.998645+00:00
  - user: None
  - tags: $tags
 
-## Politics, News, Novels and More | MJ Javani | Substack
- - [http://javani.substack.com](http://javani.substack.com)
- - date published: 2023-10-25T09:54:47.162953+00:00
+## PCG, A Family of Better Random Number Generators | PCG, A Better Random Number Generator
+ - [https://www.pcg-random.org](https://www.pcg-random.org)
+ - date published: 2023-10-25T21:56:20.672047+00:00
  - user: None
  - tags: $tags
 
-## As Clay Awakens | Jacob Buckman | Substack
- - [http://jacobbuckman.substack.com](http://jacobbuckman.substack.com)
- - date published: 2023-10-25T09:54:43.703400+00:00
+## PCjs Machines
+ - [https://www.pcjs.org](https://www.pcjs.org)
+ - date published: 2023-10-25T21:56:26.849904+00:00
  - user: None
  - tags: $tags
 
-## Jacob’s Tech Tavern | Jacob Bartlett | Substack
- - [http://jacobbartlett.substack.com](http://jacobbartlett.substack.com)
- - date published: 2023-10-25T09:54:40.999839+00:00
+## PDF Association – Home of the worldwide PDF technical community
+ - [https://www.pdfa.org](https://www.pdfa.org)
+ - date published: 2023-10-25T21:56:35.310113+00:00
  - user: None
  - tags: $tags
 
-## Cracking the PM Newsletter | Jackie Bavaro | Substack
- - [http://jackiebavaro.substack.com](http://jackiebavaro.substack.com)
- - date published: 2023-10-25T09:54:37.177651+00:00
+## pdfgrep
+ - [https://pdfgrep.org](https://pdfgrep.org)
+ - date published: 2023-10-25T21:56:36.063095+00:00
  - user: None
  - tags: $tags
 
-## Gordian Knot News | Jack Devanney | Substack
- - [http://jackdevanney.substack.com](http://jackdevanney.substack.com)
- - date published: 2023-10-25T09:54:34.311319+00:00
+## PDFTool: secure and seamless online PDF modifications
+ - [https://www.pdftool.org](https://www.pdftool.org)
+ - date published: 2023-10-25T21:56:37.161684+00:00
  - user: None
  - tags: $tags
 
-## Ivan's Indie Journey | Ivan Klimchuk | Substack
- - [http://ivanklimchuk.substack.com](http://ivanklimchuk.substack.com)
- - date published: 2023-10-25T09:54:29.524336+00:00
+## Public Domain Operating System
+ - [https://www.pdos.org](https://www.pdos.org)
+ - date published: 2023-10-25T21:56:39.058423+00:00
  - user: None
  - tags: $tags
 
-## Ironic Sans | David Friedman | Substack
- - [https://ironicsans.substack.com](https://ironicsans.substack.com)
- - date published: 2023-10-25T09:54:27.002372+00:00
+## PEN America
+ - [https://pen.org](https://pen.org)
+ - date published: 2023-10-25T21:56:42.955186+00:00
  - user: None
  - tags: $tags
 
-## Investing 101 | Kyle Harrison | Substack
- - [https://investing1012dot0.substack.com](https://investing1012dot0.substack.com)
- - date published: 2023-10-25T09:54:23.993215+00:00
+## blogs.perl.org — blogging the onion
+ - [https://blogs.perl.org](https://blogs.perl.org)
+ - date published: 2023-10-25T21:56:44.273665+00:00
  - user: None
  - tags: $tags
 
-## Intuitive AI | Will Seltzer | Substack
- - [https://intuitiveai.substack.com](https://intuitiveai.substack.com)
- - date published: 2023-10-25T09:54:20.839554+00:00
+## Perl Documentation - Perldoc Browser
+ - [https://perldoc.perl.org](https://perldoc.perl.org)
+ - date published: 2023-10-25T21:56:51.003512+00:00
  - user: None
  - tags: $tags
 
-## inter human agreement | linked zero sync | Substack
- - [https://interhumanagreement.substack.com](https://interhumanagreement.substack.com)
- - date published: 2023-10-25T09:54:18.928911+00:00
+## The Perl Foundation News
+ - [https://news.perlfoundation.org](https://news.perlfoundation.org)
+ - date published: 2023-10-25T21:56:58.087141+00:00
  - user: None
  - tags: $tags
 
-## Interconnected | Kevin Xu | Substack
- - [https://interconnect.substack.com](https://interconnect.substack.com)
- - date published: 2023-10-25T09:54:16.997332+00:00
+## Pessimists Archive Newsletter | Substack
+ - [https://newsletter.pessimistsarchive.org](https://newsletter.pessimistsarchive.org)
+ - date published: 2023-10-25T21:57:00.476125+00:00
  - user: None
  - tags: $tags
 
-## a newsletter for infovores. | Age of Infovores | Substack
- - [https://infovores.substack.com](https://infovores.substack.com)
- - date published: 2023-10-25T09:54:08.800392+00:00
+## People for the Ethical Treatment of Reinforcement Learners
+ - [http://petrl.org](http://petrl.org)
+ - date published: 2023-10-25T21:57:01.212093+00:00
  - user: None
  - tags: $tags
 
-## I have thoughts | Thomas Poinsot | Substack
- - [https://ihavemanythoughts.substack.com](https://ihavemanythoughts.substack.com)
- - date published: 2023-10-25T09:54:07.794382+00:00
+## Pew Research Center | Nonpartisan, nonadvocacy, public opinion polling and data-driven social science research | Pew Research Center
+ - [https://www.pewresearch.org](https://www.pewresearch.org)
+ - date published: 2023-10-25T21:57:05.064047+00:00
  - user: None
  - tags: $tags
 
-## 50 Years of Text Games | Aaron A. Reed | Substack
- - [https://if50.substack.com](https://if50.substack.com)
- - date published: 2023-10-25T09:54:06.218172+00:00
+## Simon Peyton Jones - Simon Peyton Jones
+ - [https://simon.peytonjones.org](https://simon.peytonjones.org)
+ - date published: 2023-10-25T21:57:06.231617+00:00
  - user: None
  - tags: $tags
 
