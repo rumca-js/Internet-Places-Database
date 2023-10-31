@@ -26,6 +26,8 @@ Each page is ranked by several factors.
 The result is equal according to calculation
  page ranking = content ranking + users votes
 
+Note: Page rating should not be based 'on time'. Good contents does is not 'worse' because x amount has passed. It should be however a suspect for verification, as it can be a case of abandoned project.
+
 # Content ranking
 
 Each page is automatically ranked by it's contents. There are several factors that are included into the ranking:
