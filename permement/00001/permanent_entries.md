@@ -1,3 +1,57 @@
+## Al Anany | Substack
+ - [https://alanany.com](https://alanany.com)
+ - date published: 2023-10-25T12:37:18.791716+00:00
+ - user: None
+ - tags: $tags
+
+## Welcome
+ - [https://www.alasdairb.com](https://www.alasdairb.com)
+ - date published: 2023-10-25T12:37:20.783455+00:00
+ - user: None
+ - tags: $tags
+
+## Home - Alaska Beacon
+ - [https://alaskabeacon.com](https://alaskabeacon.com)
+ - date published: 2023-10-25T12:37:23.430042+00:00
+ - user: None
+ - tags: $tags
+
+## Al Bawaba | Middle East News & Arab Headlines From A Local Perspective
+ - [https://www.albawaba.com](https://www.albawaba.com)
+ - date published: 2023-10-25T12:37:26.893113+00:00
+ - user: None
+ - tags: $tags
+
+## https://www.alcademics.com
+ - [https://www.alcademics.com](https://www.alcademics.com)
+ - date published: 2023-10-25T12:37:32.547279+00:00
+ - user: None
+ - tags: $tags
+
+## Aleksandr Hovhannisyan
+ - [https://www.aleksandrhovhannisyan.com](https://www.aleksandrhovhannisyan.com)
+ - date published: 2023-10-25T12:37:33.866549+00:00
+ - user: None
+ - tags: $tags
+
+## http://www.alessiofanelli.com
+ - [http://www.alessiofanelli.com](http://www.alessiofanelli.com)
+ - date published: 2023-10-25T12:37:35.125084+00:00
+ - user: None
+ - tags: $tags
+
+## Aletho News
+ - [https://alethonews.com](https://alethonews.com)
+ - date published: 2023-10-25T12:37:44.955559+00:00
+ - user: None
+ - tags: $tags
+
+## Alexander Obenauer
+ - [https://alexanderobenauer.com](https://alexanderobenauer.com)
+ - date published: 2023-10-25T12:37:47.022909+00:00
+ - user: None
+ - tags: $tags
+
 ## Alex Cabal
  - [https://alexcabal.com](https://alexcabal.com)
  - date published: 2023-10-25T09:04:23.166247+00:00
@@ -232,6 +286,12 @@
  - user: None
  - tags: $tags
 
+## Altered Gamer
+ - [https://www.alteredgamer.com](https://www.alteredgamer.com)
+ - date published: 2023-10-30T15:51:18.947793+00:00
+ - user: None
+ - tags: $tags
+
 ## Alternative Armies
  - [https://www.alternative-armies.com](https://www.alternative-armies.com)
  - date published: 2023-10-27T07:43:25.466564+00:00
@@ -302,7 +362,7 @@
  - [https://www.amazon.com](https://www.amazon.com)
  - date published: 2023-10-24T20:20:03.290504+00:00
  - user: None
- - tags: ['gatekeeper']
+ - tags: ['company', 'gatekeeper']
 
 ## Amazon Digital and Device Forums - US
  - [https://www.amazonforum.com](https://www.amazonforum.com)
@@ -340,6 +400,12 @@
  - user: None
  - tags: $tags
 
+## AmiBay
+ - [https://www.amibay.com](https://www.amibay.com)
+ - date published: 2023-10-30T10:13:48.951607+00:00
+ - user: None
+ - tags: $tags
+
 ## Amiga Addict Magazine - The UK's best Amiga magazine
  - [https://www.amiga-addict.com](https://www.amiga-addict.com)
  - date published: 2023-10-27T14:32:38.105988+00:00
@@ -349,6 +415,12 @@
 ## Amiga Forever - Amiga Software, Emulation, Games, History and Support Since 1986
  - [https://www.amigaforever.com](https://www.amigaforever.com)
  - date published: 2023-10-25T11:19:56.642363+00:00
+ - user: None
+ - tags: $tags
+
+## Amiga Informatics Inspiring Innovation
+ - [https://amigainformatics.com](https://amigainformatics.com)
+ - date published: 2023-10-30T10:14:06.222948+00:00
  - user: None
  - tags: $tags
 
@@ -772,6 +844,12 @@
  - user: None
  - tags: ['tabletop games', 'warhammer']
 
+## Apashe - Official Website
+ - [https://www.apashemusic.com](https://www.apashemusic.com)
+ - date published: 2023-10-30T13:35:25.814266+00:00
+ - user: None
+ - tags: ['music artist']
+
 ## The Aperiodical
  - [https://aperiodical.com](https://aperiodical.com)
  - date published: 2023-10-25T12:42:31.903480+00:00
@@ -969,6 +1047,12 @@
  - date published: 2023-10-25T08:44:35.714453+00:00
  - user: None
  - tags: $tags
+
+## Appuals
+ - [https://appuals.com](https://appuals.com)
+ - date published: 2023-10-30T16:31:30.650736+00:00
+ - user: None
+ - tags: ['tech news']
 
 ## The No Infrastructure Platform as a Service | Aptible
  - [https://www.aptible.com](https://www.aptible.com)
@@ -1364,7 +1448,7 @@
  - [https://tinker-board.asus.com](https://tinker-board.asus.com)
  - date published: 2023-10-25T08:38:34.670910+00:00
  - user: None
- - tags: $tags
+ - tags: ['hardware', 'product']
 
 ## ASUS Global
  - [https://www.asus.com](https://www.asus.com)
@@ -1390,6 +1474,12 @@
  - user: None
  - tags: $tags
 
+## Home
+ - [https://atari.com](https://atari.com)
+ - date published: 2023-10-30T11:59:21.517294+00:00
+ - user: None
+ - tags: ['company']
+
 ## Forums - AtariAge Forums
  - [https://forums.atariage.com](https://forums.atariage.com)
  - date published: 2023-10-25T12:47:32.642001+00:00
@@ -1401,6 +1491,12 @@
  - date published: 2023-10-25T11:25:51.476313+00:00
  - user: None
  - tags: $tags
+
+## The World's Finest Atari Database : games, demos, utilities for 2600, 5200, 400, 800, xl, xe, st and falcon
+ - [http://www.atarimania.com](http://www.atarimania.com)
+ - date published: 2023-10-30T12:00:17.683140+00:00
+ - user: None
+ - tags: ['atari']
 
 ## Homepage - The Atavist Magazine
  - [https://magazine.atavist.com](https://magazine.atavist.com)
@@ -1642,6 +1738,12 @@
  - user: None
  - tags: $tags
 
+## Avast Free Antivirus i Avast VPN | Darmowy antywirus
+ - [https://www.avast.com](https://www.avast.com)
+ - date published: 2023-10-30T12:54:06.035216+00:00
+ - user: None
+ - tags: ['antivirus']
+
 ## Avatartion - Create Your Notion-Style Avatar
  - [https://www.avatartion.com](https://www.avatartion.com)
  - date published: 2023-10-25T12:49:56.329217+00:00
@@ -1659,6 +1761,12 @@
  - date published: 2023-10-25T12:50:03.407757+00:00
  - user: None
  - tags: $tags
+
+## AVG 2024 | DARMOWY antywirus, VPN i TuneUp
+ - [https://www.avg.com](https://www.avg.com)
+ - date published: 2023-10-30T12:54:23.203236+00:00
+ - user: None
+ - tags: ['antivirus']
 
 ## The Aviation Herald
  - [https://avherald.com](https://avherald.com)
@@ -1690,11 +1798,23 @@
  - user: None
  - tags: $tags
 
+## Download Security Software for Windows, Mac, Android & iOS | Avira Antivirus
+ - [https://www.avira.com](https://www.avira.com)
+ - date published: 2023-10-30T12:55:20.105525+00:00
+ - user: None
+ - tags: ['antivirus']
+
 ## AVS Forum
  - [https://www.avsforum.com](https://www.avsforum.com)
  - date published: 2023-10-25T12:50:48.844024+00:00
  - user: None
  - tags: $tags
+
+## Awaken With JP - Official JP Sears Site
+ - [https://awakenwithjp.com](https://awakenwithjp.com)
+ - date published: 2023-10-30T10:48:56.613025+00:00
+ - user: None
+ - tags: ['comedian']
 
 ## Track your rewards and travel plans in a convenient, secure place
  - [https://awardwallet.com](https://awardwallet.com)
@@ -2536,6 +2656,12 @@
  - user: None
  - tags: $tags
 
+## Endocrine Connections
+ - [https://ec.bioscientifica.com](https://ec.bioscientifica.com)
+ - date published: 2023-10-30T21:38:42.489942+00:00
+ - user: None
+ - tags: $tags
+
 ## https://biosrhythm.com
  - [https://biosrhythm.com](https://biosrhythm.com)
  - date published: 2023-10-25T13:00:45.370666+00:00
@@ -2804,7 +2930,7 @@
  - [https://www.blizzard.com](https://www.blizzard.com)
  - date published: 2023-10-25T11:26:31.588113+00:00
  - user: None
- - tags: ['starcraft', 'warcraft', 'diablo', 'overwatch']
+ - tags: ['starcraft', 'diablo', 'overwatch', 'warcraft', 'company']
 
 ## Blockade Labs Skybox - AI-Generated 3D Worlds
  - [https://skybox.blockadelabs.com](https://skybox.blockadelabs.com)
@@ -3748,6 +3874,12 @@
  - user: None
  - tags: $tags
 
+## Brave Search
+ - [https://search.brave.com](https://search.brave.com)
+ - date published: 2023-10-30T12:58:01.536939+00:00
+ - user: None
+ - tags: ['search engine']
+
 ## https://support.brave.com
  - [https://support.brave.com](https://support.brave.com)
  - date published: 2023-10-25T13:11:46.961415+00:00
@@ -4030,6 +4162,12 @@
  - user: None
  - tags: $tags
 
+## Business News, Finance News, India News, BSE/NSE News, Stock Markets News, Sensex NIFTY, Union Budget 2023
+ - [https://www.business-standard.com](https://www.business-standard.com)
+ - date published: 2023-10-31T03:18:05.634110+00:00
+ - user: None
+ - tags: $tags
+
 ## Business Insider Africa
  - [https://africa.businessinsider.com](https://africa.businessinsider.com)
  - date published: 2023-10-25T11:07:56.116745+00:00
@@ -4300,6 +4438,12 @@
  - user: None
  - tags: $tags
 
+## Canon Global
+ - [https://www.canon.com](https://www.canon.com)
+ - date published: 2023-10-30T18:15:36.625705+00:00
+ - user: None
+ - tags: ['company']
+
 ## Canonical | Trusted open source for enterprises
  - [https://canonical.com](https://canonical.com)
  - date published: 2023-10-25T11:27:41.221603+00:00
@@ -4377,6 +4521,12 @@
  - date published: 2023-10-25T13:17:57.032401+00:00
  - user: None
  - tags: $tags
+
+## Caravan Palace
+ - [https://www.caravanpalace.com](https://www.caravanpalace.com)
+ - date published: 2023-10-30T15:47:14.174508+00:00
+ - user: None
+ - tags: ['music band']
 
 ## CarbonCredits.com - Your Source For Carbon Credit News & Opportunities
  - [https://carboncredits.com](https://carboncredits.com)
@@ -4502,7 +4652,13 @@
  - [https://www.casio.com](https://www.casio.com)
  - date published: 2023-10-30T02:32:30.241370+00:00
  - user: None
- - tags: $tags
+ - tags: ['company', 'watches']
+
+## Castagne Fighting Game Engine
+ - [https://castagneengine.com](https://castagneengine.com)
+ - date published: 2023-10-30T16:39:00.525090+00:00
+ - user: None
+ - tags: ['open source', 'game engine']
 
 ## CAT BOUNCE!
  - [https://cat-bounce.com](https://cat-bounce.com)
@@ -4588,6 +4744,12 @@
  - user: None
  - tags: ['cyberpunk', 'witcher']
 
+## CD PROJEKT RED - Award-winning creators of story-driven role-playing games.
+ - [https://www.cdprojektred.com](https://www.cdprojektred.com)
+ - date published: 2023-10-30T18:25:46.679662+00:00
+ - user: None
+ - tags: ['company', 'game studio']
+
 ## Carbon dioxide removal API
  - [https://docs.cdrplatform.com](https://docs.cdrplatform.com)
  - date published: 2023-10-25T13:19:36.142531+00:00
@@ -4629,6 +4791,12 @@
  - date published: 2023-10-25T13:19:41.208125+00:00
  - user: None
  - tags: $tags
+
+## Home
+ - [https://cellebrite.com](https://cellebrite.com)
+ - date published: 2023-10-30T12:02:28.412650+00:00
+ - user: None
+ - tags: ['israel', 'pegasus software', 'espionage']
 
 ## celsiusnetworth - Blockchain - tecnología del futuro
  - [https://celsiusnetworth.com](https://celsiusnetworth.com)
@@ -4699,6 +4867,12 @@
 ## Empowering your eCommerce growth | Channable
  - [https://www.channable.com](https://www.channable.com)
  - date published: 2023-10-25T13:20:22.302391+00:00
+ - user: None
+ - tags: $tags
+
+## Channel 4 | Stream & Watch Live TV
+ - [https://www.channel4.com](https://www.channel4.com)
+ - date published: 2023-10-30T21:58:20.006710+00:00
  - user: None
  - tags: $tags
 
@@ -5158,6 +5332,12 @@
  - user: None
  - tags: $tags
 
+## Networking, Cloud, and Cybersecurity Solutions
+ - [https://www.cisco.com](https://www.cisco.com)
+ - date published: 2023-10-31T13:19:01.525709+00:00
+ - user: None
+ - tags: ['company', 'technology']
+
 ## news.cision.com
  - [https://news.cision.com](https://news.cision.com)
  - date published: 2023-10-25T13:24:47.937269+00:00
@@ -5284,6 +5464,12 @@
  - user: None
  - tags: $tags
 
+## clevelandjewishnews.com | Award-winning coverage of local, national and world news of Jewish interest.
+ - [https://www.clevelandjewishnews.com](https://www.clevelandjewishnews.com)
+ - date published: 2023-10-31T03:38:08.908723+00:00
+ - user: None
+ - tags: $tags
+
 ## Click2Houston | Houston News, Texas News, Weather, Sports | KPRC 2
  - [https://www.click2houston.com](https://www.click2houston.com)
  - date published: 2023-10-25T13:26:13.604036+00:00
@@ -5318,7 +5504,7 @@
  - [https://www.climatedrift.com](https://www.climatedrift.com)
  - date published: 2023-10-25T09:40:02.589131+00:00
  - user: None
- - tags: $tags
+ - tags: ['substack']
 
 ## Journey toward net zero with Climeworks' carbon removal service
  - [https://climeworks.com](https://climeworks.com)
@@ -5814,192 +6000,6 @@
 ## Solving the Colossal Problem of Extinction | Colossal
  - [https://colossal.com](https://colossal.com)
  - date published: 2023-10-25T13:30:56.706749+00:00
- - user: None
- - tags: $tags
-
-## ComicBook.com
- - [https://comicbook.com](https://comicbook.com)
- - date published: 2023-10-25T10:54:03.453020+00:00
- - user: None
- - tags: $tags
-
-## https://comicskingdom.com
- - [https://comicskingdom.com](https://comicskingdom.com)
- - date published: 2023-10-25T11:30:10.989237+00:00
- - user: None
- - tags: $tags
-
-## HelpHub by CommandBar
- - [https://helphub.commandbar.com](https://helphub.commandbar.com)
- - date published: 2023-10-25T13:30:57.194991+00:00
- - user: None
- - tags: $tags
-
-## Commit Mono. Neutral programming typeface.
- - [https://commitmono.com](https://commitmono.com)
- - date published: 2023-10-25T13:30:58.581020+00:00
- - user: None
- - tags: $tags
-
-## Commodore Format Archive – Commodore Format magazine fan site
- - [https://commodoreformatarchive.com](https://commodoreformatarchive.com)
- - date published: 2023-10-25T11:14:50.885010+00:00
- - user: None
- - tags: ['commodore', 'magazine']
-
-## Commoncog
- - [https://commoncog.com](https://commoncog.com)
- - date published: 2023-10-25T13:31:01.859441+00:00
- - user: None
- - tags: $tags
-
-## Commsrisk | The information exchange for communication risk
- - [https://commsrisk.com](https://commsrisk.com)
- - date published: 2023-10-25T13:31:48.140145+00:00
- - user: None
- - tags: $tags
-
-## Compact Mag
- - [https://compactmag.com](https://compactmag.com)
- - date published: 2023-10-25T13:32:08.062307+00:00
- - user: None
- - tags: $tags
-
-## Companies ranked by Market Cap - CompaniesMarketCap.com
- - [https://companiesmarketcap.com](https://companiesmarketcap.com)
- - date published: 2023-10-25T13:32:11.154630+00:00
- - user: None
- - tags: $tags
-
-## Compaq
- - [https://www.compaq.com](https://www.compaq.com)
- - date published: 2023-10-25T13:32:11.836021+00:00
- - user: None
- - tags: $tags
-
-## Compare Mobile Phone Deals & Contracts - CompareDial
- - [https://www.comparedial.com](https://www.comparedial.com)
- - date published: 2023-10-25T13:32:13.613388+00:00
- - user: None
- - tags: $tags
-
-## Compart - Customer Communication Management Company, Software Vendor, CCM Provider - Compart
- - [https://www.compart.com](https://www.compart.com)
- - date published: 2023-10-25T13:32:16.206710+00:00
- - user: None
- - tags: $tags
-
-## Compelling Science Fiction Newsletter
- - [https://compellingsciencefiction.com](https://compellingsciencefiction.com)
- - date published: 2023-10-25T13:32:16.715575+00:00
- - user: None
- - tags: $tags
-
-## Abdur-Rahmaan Janhangeer
- - [https://www.compileralchemy.com](https://www.compileralchemy.com)
- - date published: 2023-10-25T13:32:19.285480+00:00
- - user: None
- - tags: $tags
-
-## Complete Music Update: the music business explained
- - [https://completemusicupdate.com](https://completemusicupdate.com)
- - date published: 2023-10-25T10:17:15.256759+00:00
- - user: None
- - tags: $tags
-
-## Compliance Week | News, Events & Thought Leadership for the Chief Compliance Officer
- - [https://www.complianceweek.com](https://www.complianceweek.com)
- - date published: 2023-10-25T13:32:26.382565+00:00
- - user: None
- - tags: $tags
-
-## AOL is part of the Yahoo family of brands
- - [https://www.compuserve.com](https://www.compuserve.com)
- - date published: 2023-10-25T13:32:28.259728+00:00
- - user: None
- - tags: $tags
-
-## Computational Audiology Computational Audiology - Computational Audiology
- - [https://computationalaudiology.com](https://computationalaudiology.com)
- - date published: 2023-10-25T13:32:34.981402+00:00
- - user: None
- - tags: $tags
-
-## Computer, Enhance! | Casey Muratori | Substack
- - [https://www.computerenhance.com](https://www.computerenhance.com)
- - date published: 2023-10-25T13:32:39.542030+00:00
- - user: None
- - tags: $tags
-
-## Computer Weekly | Information Technology (IT) News, UK IT Jobs, Industry News
- - [https://www.computerweekly.com](https://www.computerweekly.com)
- - date published: 2023-10-25T13:32:49.374619+00:00
- - user: None
- - tags: $tags
-
-## IT news, careers, business technology, reviews | Computerworld
- - [https://www.computerworld.com](https://www.computerworld.com)
- - date published: 2023-10-25T09:32:24.152677+00:00
- - user: None
- - tags: $tags
-
-## https://www.concordmonitor.com
- - [https://www.concordmonitor.com](https://www.concordmonitor.com)
- - date published: 2023-10-25T13:32:50.154763+00:00
- - user: None
- - tags: $tags
-
-## The Condiment Packet Gallery
- - [https://www.condimentpacket.com](https://www.condimentpacket.com)
- - date published: 2023-10-25T13:32:52.059539+00:00
- - user: None
- - tags: $tags
-
-## Conf42: online tech events
- - [https://www.conf42.com](https://www.conf42.com)
- - date published: 2023-10-25T13:32:57.935406+00:00
- - user: None
- - tags: $tags
-
-## Confiant | The First & Leading Ad Security & Quality Platform
- - [https://www.confiant.com](https://www.confiant.com)
- - date published: 2023-10-25T13:32:59.560606+00:00
- - user: None
- - tags: $tags
-
-## DeepEval
- - [https://docs.confident-ai.com](https://docs.confident-ai.com)
- - date published: 2023-10-25T13:33:10.255539+00:00
- - user: None
- - tags: $tags
-
-## Connor Tumbleson
- - [https://connortumbleson.com](https://connortumbleson.com)
- - date published: 2023-10-25T13:33:12.107835+00:00
- - user: None
- - tags: $tags
-
-## Download Free ROMs & Emulators for GBA, SNES, NDS, GBC, GB, N64, NES, PS, MAME - ConsoleRoms
- - [https://www.consoleroms.com](https://www.consoleroms.com)
- - date published: 2023-10-25T11:08:29.694304+00:00
- - user: None
- - tags: $tags
-
-## Construction Physics | Brian Potter | Substack
- - [https://www.construction-physics.com](https://www.construction-physics.com)
- - date published: 2023-10-25T09:40:04.890162+00:00
- - user: None
- - tags: $tags
-
-## constructionweekonline.com
- - [https://www.constructionweekonline.com](https://www.constructionweekonline.com)
- - date published: 2023-10-25T13:33:14.015936+00:00
- - user: None
- - tags: $tags
-
-## Best Free AI Copywriting & SEO Content Generation Tool | ContentEdge
- - [https://www.contentedge.com](https://www.contentedge.com)
- - date published: 2023-10-25T13:33:16.108871+00:00
  - user: None
  - tags: $tags
 

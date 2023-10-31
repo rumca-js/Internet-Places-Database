@@ -10,6 +10,18 @@
  - user: rumpel
  - tags: ['tabletop games', 'turnip28']
 
+## matrixfansite.com
+ - [http://www.matrixfansite.com](http://www.matrixfansite.com)
+ - date published: 2023-10-30T13:29:27.624260+00:00
+ - user: None
+ - tags: $tags
+
+## renegat0x0 site
+ - [http://rapidshare.com](http://rapidshare.com)
+ - date published: 2023-10-30T15:14:10.638673+00:00
+ - user: None
+ - tags: $tags
+
 ## Kern Type
  - [https://type.method.ac](https://type.method.ac)
  - date published: 2023-10-25T08:31:02.163535+00:00
@@ -584,7 +596,7 @@
  - [https://masto.ai](https://masto.ai)
  - date published: 2023-10-24T20:13:16.747974+00:00
  - user: None
- - tags: $tags
+ - tags: ['mastodon']
 
 ## jamie - Summarize Any Meeting.
  - [https://www.meetjamie.ai](https://www.meetjamie.ai)
@@ -1774,6 +1786,12 @@
  - user: None
  - tags: $tags
 
+## OctoArt
+ - [https://octoart.vercel.app](https://octoart.vercel.app)
+ - date published: 2023-10-30T18:59:23.812847+00:00
+ - user: None
+ - tags: $tags
+
 ## Pathfinding Visualizer
  - [https://pathfinding-visualizer-nu.vercel.app](https://pathfinding-visualizer-nu.vercel.app)
  - date published: 2023-10-25T11:50:32.291197+00:00
@@ -2054,7 +2072,7 @@
  - [https://wheresyoured.at](https://wheresyoured.at)
  - date published: 2023-10-25T09:38:58.101054+00:00
  - user: None
- - tags: $tags
+ - tags: ['substack']
 
 ## ruscur's blog
  - [https://ruscur.au](https://ruscur.au)
@@ -2260,6 +2278,12 @@
  - user: None
  - tags: $tags
 
+## UNSW Newsroom
+ - [https://newsroom.unsw.edu.au](https://newsroom.unsw.edu.au)
+ - date published: 2023-10-31T05:38:26.362329+00:00
+ - user: None
+ - tags: $tags
+
 ## School of Physics
  - [https://newt.phys.unsw.edu.au](https://newt.phys.unsw.edu.au)
  - date published: 2023-10-25T11:57:14.823273+00:00
@@ -2378,7 +2402,7 @@
  - [https://social.bbc](https://social.bbc)
  - date published: 2023-10-24T20:13:17.429474+00:00
  - user: None
- - tags: $tags
+ - tags: ['mastodon']
 
 ## Welcome to Principia Cybernetica Web
  - [http://pespmc1.vub.ac.be](http://pespmc1.vub.ac.be)
@@ -2566,6 +2590,12 @@
  - user: None
  - tags: $tags
 
+## beep.blog
+ - [https://www.beep.blog](https://www.beep.blog)
+ - date published: 2023-10-31T14:38:44.816259+00:00
+ - user: None
+ - tags: $tags
+
 ## The Best Interest - Invest in Knowledge
  - [https://bestinterest.blog](https://bestinterest.blog)
  - date published: 2023-10-25T11:59:55.232003+00:00
@@ -2606,13 +2636,13 @@
  - [https://www.disconnect.blog](https://www.disconnect.blog)
  - date published: 2023-10-25T09:39:08.037198+00:00
  - user: None
- - tags: $tags
+ - tags: ['substack']
 
 ## DKB Blog | Dmitri Brereton | Substack
  - [https://dkb.blog](https://dkb.blog)
  - date published: 2023-10-25T09:39:13.079588+00:00
  - user: None
- - tags: $tags
+ - tags: ['substack']
 
 ## Life at Eclipse | Musings on the Eclipse Foundation, the community and the ecosystem
  - [https://eclipse-foundation.blog](https://eclipse-foundation.blog)
@@ -2756,7 +2786,7 @@
  - [https://www.noahpinion.blog](https://www.noahpinion.blog)
  - date published: 2023-10-25T09:39:20.899129+00:00
  - user: None
- - tags: $tags
+ - tags: ['substack']
 
 ## Paperless
  - [https://paperless.blog](https://paperless.blog)
@@ -2804,7 +2834,7 @@
  - [https://newsletter.smarter.blog](https://newsletter.smarter.blog)
  - date published: 2023-10-25T09:39:31.008633+00:00
  - user: None
- - tags: $tags
+ - tags: ['substack']
 
 ## Dhole Moments - Software, Security, Cryptography, and Furries
  - [https://soatok.blog](https://soatok.blog)
@@ -2822,7 +2852,7 @@
  - [https://www.sudarkoff.blog](https://www.sudarkoff.blog)
  - date published: 2023-10-25T09:39:42.624484+00:00
  - user: None
- - tags: $tags
+ - tags: ['substack']
 
 ## Surfing Complexity – Lorin Hochstein's ramblings about software, complex systems, and incidents.
  - [https://surfingcomplexity.blog](https://surfingcomplexity.blog)
@@ -3490,6 +3520,12 @@
  - user: None
  - tags: $tags
 
+## OpenBSD webzine homepage
+ - [https://webzine.puffy.cafe](https://webzine.puffy.cafe)
+ - date published: 2023-10-30T21:38:37.602934+00:00
+ - user: None
+ - tags: $tags
+
 ## Pencil
  - [https://pencil.toast.cafe](https://pencil.toast.cafe)
  - date published: 2023-10-25T12:09:51.787994+00:00
@@ -3518,7 +3554,7 @@
  - [https://global.canon](https://global.canon)
  - date published: 2023-10-25T12:10:02.392667+00:00
  - user: None
- - tags: $tags
+ - tags: ['company']
 
 ## CS Cards
  - [https://www.cs.cards](https://www.cs.cards)
@@ -3626,7 +3662,7 @@
  - [https://www.mindprison.cc](https://www.mindprison.cc)
  - date published: 2023-10-25T09:39:44.637114+00:00
  - user: None
- - tags: $tags
+ - tags: ['substack']
 
 ## Home | Nannou
  - [https://nannou.cc](https://nannou.cc)
@@ -4103,6 +4139,12 @@
  - user: None
  - tags: $tags
 
+## Home | J-Novel Club
+ - [https://j-novel.club](https://j-novel.club)
+ - date published: 2023-10-30T23:18:51.751078+00:00
+ - user: None
+ - tags: $tags
+
 ## Kinopio – Thinking Canvas
  - [https://kinopio.club](https://kinopio.club)
  - date published: 2023-10-25T12:15:55.482462+00:00
@@ -4491,13 +4533,13 @@
  - [https://www.netinterest.co](https://www.netinterest.co)
  - date published: 2023-10-25T09:39:48.627101+00:00
  - user: None
- - tags: $tags
+ - tags: ['substack']
 
 ## Newcomer | Eric Newcomer | Substack
  - [https://www.newcomer.co](https://www.newcomer.co)
  - date published: 2023-10-25T09:39:52.534184+00:00
  - user: None
- - tags: $tags
+ - tags: ['substack']
 
 ## Not Boring by Packy McCormick | Substack
  - [https://www.notboring.co](https://www.notboring.co)
@@ -4671,7 +4713,7 @@
  - [https://www.spytalk.co](https://www.spytalk.co)
  - date published: 2023-10-25T09:39:56.063632+00:00
  - user: None
- - tags: $tags
+ - tags: ['substack']
 
 ## Empowering the world to develop technology through collective knowledge - Stack Overflow
  - [https://stackoverflow.co](https://stackoverflow.co)
@@ -4767,7 +4809,7 @@
  - [https://build.typogram.co](https://build.typogram.co)
  - date published: 2023-10-25T09:39:59.013867+00:00
  - user: None
- - tags: $tags
+ - tags: ['substack']
 
 ## ChatCody
  - [https://chatcody.umso.co](https://chatcody.umso.co)
@@ -4979,6 +5021,12 @@
  - user: None
  - tags: $tags
 
+## WTVG | 13Action News, Local News and Weather
+ - [https://www.13abc.com](https://www.13abc.com)
+ - date published: 2023-10-31T13:19:09.774057+00:00
+ - user: None
+ - tags: $tags
+
 ## Eliran Turgeman
  - [https://www.16elt.com](https://www.16elt.com)
  - date published: 2023-10-25T12:26:18.338306+00:00
@@ -5123,6 +5171,12 @@
  - user: None
  - tags: $tags
 
+## 8BitDo
+ - [https://www.8bitdo.com](https://www.8bitdo.com)
+ - date published: 2023-10-30T20:58:48.707728+00:00
+ - user: None
+ - tags: $tags
+
 ## 8bitworkshop
  - [https://8bitworkshop.com](https://8bitworkshop.com)
  - date published: 2023-10-25T12:28:00.907669+00:00
@@ -5139,7 +5193,7 @@
  - [https://9gag.com](https://9gag.com)
  - date published: 2023-10-25T11:29:58.134778+00:00
  - user: None
- - tags: $tags
+ - tags: ['funny images', 'memes']
 
 ## 9 Tailed Kitsune – Get Your Daily Dose of Quality Anime Content
  - [https://9tailedkitsune.com](https://9tailedkitsune.com)
@@ -5421,7 +5475,7 @@
  - [https://www.activision.com](https://www.activision.com)
  - date published: 2023-10-25T11:27:02.301683+00:00
  - user: None
- - tags: $tags
+ - tags: ['company', 'call of duty']
 
 ## Activision Blizzard | Home
  - [https://www.activisionblizzard.com](https://www.activisionblizzard.com)
@@ -5936,60 +5990,6 @@
 ## Akita Software — the fastest and easiest way to understand your APIs.
  - [https://www.akitasoftware.com](https://www.akitasoftware.com)
  - date published: 2023-10-25T12:37:09.424295+00:00
- - user: None
- - tags: $tags
-
-## Akshay's Blog
- - [https://www.akshaykhot.com](https://www.akshaykhot.com)
- - date published: 2023-10-25T12:37:10.359877+00:00
- - user: None
- - tags: $tags
-
-## Al Anany | Substack
- - [https://alanany.com](https://alanany.com)
- - date published: 2023-10-25T12:37:18.791716+00:00
- - user: None
- - tags: $tags
-
-## Welcome
- - [https://www.alasdairb.com](https://www.alasdairb.com)
- - date published: 2023-10-25T12:37:20.783455+00:00
- - user: None
- - tags: $tags
-
-## Home - Alaska Beacon
- - [https://alaskabeacon.com](https://alaskabeacon.com)
- - date published: 2023-10-25T12:37:23.430042+00:00
- - user: None
- - tags: $tags
-
-## Al Bawaba | Middle East News & Arab Headlines From A Local Perspective
- - [https://www.albawaba.com](https://www.albawaba.com)
- - date published: 2023-10-25T12:37:26.893113+00:00
- - user: None
- - tags: $tags
-
-## https://www.alcademics.com
- - [https://www.alcademics.com](https://www.alcademics.com)
- - date published: 2023-10-25T12:37:32.547279+00:00
- - user: None
- - tags: $tags
-
-## Aleksandr Hovhannisyan
- - [https://www.aleksandrhovhannisyan.com](https://www.aleksandrhovhannisyan.com)
- - date published: 2023-10-25T12:37:33.866549+00:00
- - user: None
- - tags: $tags
-
-## http://www.alessiofanelli.com
- - [http://www.alessiofanelli.com](http://www.alessiofanelli.com)
- - date published: 2023-10-25T12:37:35.125084+00:00
- - user: None
- - tags: $tags
-
-## Aletho News
- - [https://alethonews.com](https://alethonews.com)
- - date published: 2023-10-25T12:37:44.955559+00:00
  - user: None
  - tags: $tags
 
