@@ -1,3 +1,45 @@
+## https://www.neelc.org
+ - [https://www.neelc.org](https://www.neelc.org)
+ - date published: 2023-10-25T09:24:18.851938+00:00
+ - user: None
+ - tags: $tags
+
+## https://www.nejm.org
+ - [https://www.nejm.org](https://www.nejm.org)
+ - date published: 2023-10-25T21:46:16.467517+00:00
+ - user: None
+ - tags: $tags
+
+## A.N. Lucas's Web Lounge
+ - [https://anlucas.neocities.org](https://anlucas.neocities.org)
+ - date published: 2023-10-25T21:46:19.248401+00:00
+ - user: None
+ - tags: $tags
+
+## Bedr00mZ
+ - [https://bedr00mz.neocities.org](https://bedr00mz.neocities.org)
+ - date published: 2023-10-25T21:46:21.140056+00:00
+ - user: None
+ - tags: $tags
+
+## Neocities: Create your own free website!
+ - [https://neocities.org](https://neocities.org)
+ - date published: 2023-10-25T21:46:23.053595+00:00
+ - user: None
+ - tags: $tags
+
+## niconiconi's blog
+ - [https://niconiconi.neocities.org](https://niconiconi.neocities.org)
+ - date published: 2023-10-25T21:46:29.922160+00:00
+ - user: None
+ - tags: $tags
+
+## NRK's Homepage
+ - [https://nrk.neocities.org](https://nrk.neocities.org)
+ - date published: 2023-10-25T08:55:07.452720+00:00
+ - user: None
+ - tags: $tags
+
 ## ✂︎ Pixel Sea ✂︎
  - [https://pixelsea.neocities.org](https://pixelsea.neocities.org)
  - date published: 2023-10-25T11:08:14.545672+00:00
@@ -1907,6 +1949,12 @@
  - user: None
  - tags: $tags
 
+## ROS Discourse
+ - [https://discourse.ros.org](https://discourse.ros.org)
+ - date published: 2023-10-31T21:37:52.061749+00:00
+ - user: None
+ - tags: $tags
+
 ## Redirect Page
  - [http://rosecompiler.org](http://rosecompiler.org)
  - date published: 2023-10-27T12:07:07.571520+00:00
@@ -2968,6 +3016,12 @@
 ## The 74 – America's Education News Source
  - [https://www.the74million.org](https://www.the74million.org)
  - date published: 2023-10-25T22:13:19.613880+00:00
+ - user: None
+ - tags: $tags
+
+## AI Digest
+ - [https://theaidigest.org](https://theaidigest.org)
+ - date published: 2023-10-31T19:39:04.054230+00:00
  - user: None
  - tags: $tags
 
@@ -4705,7 +4759,7 @@ is forbidden
  - [https://www.brd24.pl](https://www.brd24.pl)
  - date published: 2023-10-31T16:18:06.350280+00:00
  - user: None
- - tags: $tags
+ - tags: ['news']
 
 ## Bulldogjob - Think IT
  - [https://bulldogjob.pl](https://bulldogjob.pl)
@@ -5946,60 +6000,6 @@ is forbidden
 ## TrueStory - Piszemy dla Was, nie dla algorytmów
  - [https://truestory.pl](https://truestory.pl)
  - date published: 2023-10-25T22:32:08.653401+00:00
- - user: None
- - tags: $tags
-
-## Wiadomości, live streaming i wyniki - Eurosport
- - [https://eurosport.tvn24.pl](https://eurosport.tvn24.pl)
- - date published: 2023-10-25T10:33:11.405671+00:00
- - user: None
- - tags: $tags
-
-## Fakty, Fakty TVN - oficjalna strona Faktów. Warto wiedzieć więcej.
- - [https://fakty.tvn24.pl](https://fakty.tvn24.pl)
- - date published: 2023-10-25T10:33:15.760218+00:00
- - user: None
- - tags: $tags
-
-## TVN24 GO - najnowsze odcinki online, świeże materiały przez internet
- - [https://go.tvn24.pl](https://go.tvn24.pl)
- - date published: 2023-10-25T22:32:13.892689+00:00
- - user: None
- - tags: $tags
-
-## Konkret24 – weryfikacja fake news, fact-checking, analiza informacji z sieci - Konkret24
- - [https://konkret24.tvn24.pl](https://konkret24.tvn24.pl)
- - date published: 2023-10-25T10:33:26.147699+00:00
- - user: None
- - tags: $tags
-
-## Kontakt 24 - Serwis Reporterów 24 | Oglądaj i Współtwórz!
- - [https://kontakt24.tvn24.pl](https://kontakt24.tvn24.pl)
- - date published: 2023-10-25T22:32:17.183207+00:00
- - user: None
- - tags: $tags
-
-## Szkło Kontaktowe online - oficjalna strona magazynu TVN24 - TVN24
- - [https://szklokontaktowe.tvn24.pl](https://szklokontaktowe.tvn24.pl)
- - date published: 2023-10-25T22:32:26.069743+00:00
- - user: None
- - tags: $tags
-
-## Wiadomości z kraju i ze świata - najnowsze informacje w TVN24 - TVN24
- - [https://tvn24.pl](https://tvn24.pl)
- - date published: 2023-10-25T10:33:33.358909+00:00
- - user: None
- - tags: $tags
-
-## Tygodnik Solidarność | Wiadomości i polityka w Polsce
- - [https://www.tysol.pl](https://www.tysol.pl)
- - date published: 2023-10-27T13:11:42.088111+00:00
- - user: None
- - tags: $tags
-
-## Vanaheim.pl - Sklep z Grami - Vanaheim.pl
- - [https://vanaheim.pl](https://vanaheim.pl)
- - date published: 2023-10-25T11:13:12.482870+00:00
  - user: None
  - tags: $tags
 

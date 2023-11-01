@@ -1,3 +1,9 @@
+## Discover gists · GitHub
+ - [https://gist.github.com](https://gist.github.com)
+ - date published: 2023-10-25T14:44:47.049318+00:00
+ - user: None
+ - tags: $tags
+
 ## GitHub: Let’s build from here · GitHub
  - [https://github.com](https://github.com)
  - date published: 2023-10-25T14:42:43.938249+00:00
@@ -1900,6 +1906,12 @@
 ## House of Strauss | Ethan Strauss | Substack
  - [https://www.houseofstrauss.com](https://www.houseofstrauss.com)
  - date published: 2023-10-25T15:10:43.032376+00:00
+ - user: None
+ - tags: $tags
+
+## HousingWire: Industry News for Housing Professionals
+ - [https://www.housingwire.com](https://www.housingwire.com)
+ - date published: 2023-10-31T20:40:24.761197+00:00
  - user: None
  - tags: $tags
 
@@ -5981,18 +5993,6 @@
 ## WPLG Local 10 | Miami News, Fort Lauderdale News, Weather | Local10.com
  - [https://www.local10.com](https://www.local10.com)
  - date published: 2023-10-25T15:49:04.332840+00:00
- - user: None
- - tags: $tags
-
-## Find the Best Offer - LocalBitcoins
- - [https://localbitcoins.com](https://localbitcoins.com)
- - date published: 2023-10-25T15:49:07.190897+00:00
- - user: None
- - tags: $tags
-
-## LocalCan™ - HTTPS domains for localhost and wi-fi network
- - [https://www.localcan.com](https://www.localcan.com)
- - date published: 2023-10-25T15:49:08.332866+00:00
  - user: None
  - tags: $tags
 

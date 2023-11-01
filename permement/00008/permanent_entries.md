@@ -1,3 +1,27 @@
+## refine | Build your React-based CRUD applications, without constraints! | refine
+ - [https://refine.dev](https://refine.dev)
+ - date published: 2023-10-25T18:41:19.334120+00:00
+ - user: None
+ - tags: $tags
+
+## SDXL – A settings guide by Replicate
+ - [https://sdxl.replicate.dev](https://sdxl.replicate.dev)
+ - date published: 2023-10-25T18:41:20.011892+00:00
+ - user: None
+ - tags: $tags
+
+## Restfox
+ - [https://restfox.dev](https://restfox.dev)
+ - date published: 2023-10-25T18:41:21.360876+00:00
+ - user: None
+ - tags: $tags
+
+## reyem.dev blog
+ - [https://blog.reyem.dev](https://blog.reyem.dev)
+ - date published: 2023-10-25T08:58:49.186324+00:00
+ - user: None
+ - tags: $tags
+
 ## Richard Taylor
      · Richard Taylor
  - [https://www.richardtaylor.dev](https://www.richardtaylor.dev)
@@ -1672,6 +1696,12 @@
 ## Social Psychology Perspectives – Applying social psychology to the world around us
  - [https://socialpsych.blogs.pace.edu](https://socialpsych.blogs.pace.edu)
  - date published: 2023-10-25T18:56:44.098429+00:00
+ - user: None
+ - tags: $tags
+
+## Peninsula College presents a podcast honoring the work of the influential American poet and short story writer, Raymond Carver from the last town he called home: Port Angeles, Washington. You can listen here on our Episode page. You can also find us on Stitcher, Google Podcasts, Apple Podcasts, Spotify, and more. In each regular episode, | Raymond Carver Podcast
+ - [https://raymondcarverpodcast.pencol.edu](https://raymondcarverpodcast.pencol.edu)
+ - date published: 2023-10-31T19:57:35.429326+00:00
  - user: None
  - tags: $tags
 
@@ -5979,36 +6009,6 @@
 ## OneRNG - Hardware Random Number Generator
  - [https://onerng.info](https://onerng.info)
  - date published: 2023-10-25T19:33:47.389423+00:00
- - user: None
- - tags: $tags
-
-## OpenBible.info
- - [https://www.openbible.info](https://www.openbible.info)
- - date published: 2023-10-25T19:33:48.004774+00:00
- - user: None
- - tags: $tags
-
-## OpenSecurityTraining2
- - [https://opensecuritytraining.info](https://opensecuritytraining.info)
- - date published: 2023-10-25T19:33:50.370733+00:00
- - user: None
- - tags: $tags
-
-## Home | Opinionated Guides
- - [https://opguides.info](https://opguides.info)
- - date published: 2023-10-25T19:34:07.741709+00:00
- - user: None
- - tags: $tags
-
-## Unladen swallow - Olivier Wulveryck
- - [https://blog.owulveryck.info](https://blog.owulveryck.info)
- - date published: 2023-10-25T19:34:10.813618+00:00
- - user: None
- - tags: $tags
-
-## Almost Secure
- - [https://palant.info](https://palant.info)
- - date published: 2023-10-25T19:34:13.982051+00:00
  - user: None
  - tags: $tags
 

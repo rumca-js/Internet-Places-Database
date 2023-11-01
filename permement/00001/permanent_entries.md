@@ -1,3 +1,9 @@
+## Akshay's Blog
+ - [https://www.akshaykhot.com](https://www.akshaykhot.com)
+ - date published: 2023-10-25T12:37:10.359877+00:00
+ - user: None
+ - tags: $tags
+
 ## Al Anany | Substack
  - [https://alanany.com](https://alanany.com)
  - date published: 2023-10-25T12:37:18.791716+00:00
@@ -5994,12 +6000,6 @@
 ## Color & Contrast
  - [https://colorandcontrast.com](https://colorandcontrast.com)
  - date published: 2023-10-25T13:30:53.499355+00:00
- - user: None
- - tags: $tags
-
-## Solving the Colossal Problem of Extinction | Colossal
- - [https://colossal.com](https://colossal.com)
- - date published: 2023-10-25T13:30:56.706749+00:00
  - user: None
  - tags: $tags
 

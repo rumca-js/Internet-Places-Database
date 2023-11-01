@@ -1,3 +1,15 @@
+## LocalCan™ - HTTPS domains for localhost and wi-fi network
+ - [https://www.localcan.com](https://www.localcan.com)
+ - date published: 2023-10-25T15:49:08.332866+00:00
+ - user: None
+ - tags: $tags
+
+## Attention Required! | Cloudflare
+ - [https://lunduke.locals.com](https://lunduke.locals.com)
+ - date published: 2023-10-27T11:55:26.064550+00:00
+ - user: None
+ - tags: $tags
+
 ## Attention Required! | Cloudflare
  - [https://ngo.locals.com](https://ngo.locals.com)
  - date published: 2023-10-25T15:49:08.719216+00:00
@@ -5985,18 +5997,6 @@ Answering Machine Greetings!
 ## People.com | Celebrity News, Exclusives, Photos and Videos
  - [https://people.com](https://people.com)
  - date published: 2023-10-25T10:52:09.683787+00:00
- - user: None
- - tags: $tags
-
-## People and Blogs
- - [https://peopleandblogs.com](https://peopleandblogs.com)
- - date published: 2023-10-25T16:32:21.821382+00:00
- - user: None
- - tags: $tags
-
-## POCIT. Telling the stories and thoughts of people of color in tech.
- - [https://peopleofcolorintech.com](https://peopleofcolorintech.com)
- - date published: 2023-10-25T16:32:25.934361+00:00
  - user: None
  - tags: $tags
 

@@ -1,3 +1,15 @@
+## POCIT. Telling the stories and thoughts of people of color in tech.
+ - [https://peopleofcolorintech.com](https://peopleofcolorintech.com)
+ - date published: 2023-10-25T16:32:25.934361+00:00
+ - user: None
+ - tags: $tags
+
+## Samuel Pepys: Diary, Letters, Family Tree, Maps, Encyclopedia, Discussion and more
+ - [https://www.pepysdiary.com](https://www.pepysdiary.com)
+ - date published: 2023-10-25T16:32:28.890530+00:00
+ - user: None
+ - tags: $tags
+
 ## Open Source Database Software Support & Services | Percona
  - [https://www.percona.com](https://www.percona.com)
  - date published: 2023-10-25T16:32:31.939924+00:00
@@ -1312,6 +1324,12 @@
 ## Chambersburg Breaking News, Sports, Weather, Traffic - Chambersburg Public Opinion
  - [https://eu.publicopiniononline.com](https://eu.publicopiniononline.com)
  - date published: 2023-10-25T16:42:09.010556+00:00
+ - user: None
+ - tags: $tags
+
+## Book Reviews, Bestselling Books & Publishing Business News | Publishers Weekly
+ - [https://www.publishersweekly.com](https://www.publishersweekly.com)
+ - date published: 2023-10-31T20:17:32.697765+00:00
  - user: None
  - tags: $tags
 
@@ -5983,24 +6001,6 @@
 ## Stephen Marz: Blog
  - [https://osblog.stephenmarz.com](https://osblog.stephenmarz.com)
  - date published: 2023-10-25T17:16:40.260176+00:00
- - user: None
- - tags: $tags
-
-## Stephen's Tech Blog
- - [https://stephenn.com](https://stephenn.com)
- - date published: 2023-10-25T17:16:41.369605+00:00
- - user: None
- - tags: $tags
-
-## Stephen Wolfram Writings
- - [https://writings.stephenwolfram.com](https://writings.stephenwolfram.com)
- - date published: 2023-10-25T17:16:44.317454+00:00
- - user: None
- - tags: $tags
-
-## Home Page | Stereophile.com
- - [https://www.stereophile.com](https://www.stereophile.com)
- - date published: 2023-10-25T17:16:49.062593+00:00
  - user: None
  - tags: $tags
 

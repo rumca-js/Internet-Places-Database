@@ -1,3 +1,33 @@
+## OpenSecurityTraining2
+ - [https://opensecuritytraining.info](https://opensecuritytraining.info)
+ - date published: 2023-10-25T19:33:50.370733+00:00
+ - user: None
+ - tags: $tags
+
+## Home | Opinionated Guides
+ - [https://opguides.info](https://opguides.info)
+ - date published: 2023-10-25T19:34:07.741709+00:00
+ - user: None
+ - tags: $tags
+
+## Unladen swallow - Olivier Wulveryck
+ - [https://blog.owulveryck.info](https://blog.owulveryck.info)
+ - date published: 2023-10-25T19:34:10.813618+00:00
+ - user: None
+ - tags: $tags
+
+## Almost Secure
+ - [https://palant.info](https://palant.info)
+ - date published: 2023-10-25T19:34:13.982051+00:00
+ - user: None
+ - tags: $tags
+
+## persistent.info
+ - [https://blog.persistent.info](https://blog.persistent.info)
+ - date published: 2023-10-25T19:34:18.685599+00:00
+ - user: None
+ - tags: $tags
+
 ## Blago's blog
  - [https://petrovs.info](https://petrovs.info)
  - date published: 2023-10-25T19:34:19.745447+00:00
@@ -5967,36 +5997,6 @@ End-to-end typesafe APIs made easy. | tRPC
 ## The atomic web toolkit for pragmatists | a17t
  - [https://a17t.miles.land](https://a17t.miles.land)
  - date published: 2023-10-25T20:17:43.810118+00:00
- - user: None
- - tags: $tags
-
-## R. Miles McCain | About, contact, and portfolio
- - [https://miles.land](https://miles.land)
- - date published: 2023-10-25T20:17:44.827325+00:00
- - user: None
- - tags: $tags
-
-## nami.land
- - [https://nami.land](https://nami.land)
- - date published: 2023-10-25T20:17:45.915791+00:00
- - user: None
- - tags: $tags
-
-## This page is no longer available due to ending availability of Gatsby Cloud.
- - [https://oio.land](https://oio.land)
- - date published: 2023-10-25T20:17:46.574075+00:00
- - user: None
- - tags: $tags
-
-## Rosieland
- - [https://rosie.land](https://rosie.land)
- - date published: 2023-10-25T20:17:48.264563+00:00
- - user: None
- - tags: $tags
-
-## Immigration for Startups, Founders, and Companies
- - [https://www.alcorn.law](https://www.alcorn.law)
- - date published: 2023-10-25T20:17:51.883094+00:00
  - user: None
  - tags: $tags
 

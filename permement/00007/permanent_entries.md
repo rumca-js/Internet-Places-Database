@@ -1,3 +1,21 @@
+## Brain Dump — Geoff's Technical Notebook
+ - [https://geoff.tuxpup.com](https://geoff.tuxpup.com)
+ - date published: 2023-10-25T17:50:20.921936+00:00
+ - user: None
+ - tags: $tags
+
+## TV news, Movie News, Actor Facts, Things You Didn’t Know | TVovermind
+ - [https://tvovermind.com](https://tvovermind.com)
+ - date published: 2023-10-25T10:52:12.025157+00:00
+ - user: None
+ - tags: $tags
+
+## TVP World - Poland and World breaking, daily & top news
+ - [https://tvpworld.com](https://tvpworld.com)
+ - date published: 2023-10-25T17:50:22.771972+00:00
+ - user: None
+ - tags: $tags
+
 ## TweakTown: Latest Worldwide Tech News & Game Reviews
  - [https://www.tweaktown.com](https://www.tweaktown.com)
  - date published: 2023-10-25T09:36:28.596286+00:00
@@ -1343,6 +1361,12 @@
  - date published: 2023-10-25T11:12:20.467045+00:00
  - user: None
  - tags: ['tabletop games', 'shop']
+
+## Home - Warhammer
+ - [https://www.warhammer.com](https://www.warhammer.com)
+ - date published: 2023-10-31T20:55:20.625099+00:00
+ - user: None
+ - tags: ['games workshop', 'tabletop games', 'warhammer']
 
 ## https://www.warhammer-community.com
  - [https://www.warhammer-community.com](https://www.warhammer-community.com)
@@ -5969,30 +5993,6 @@ home
 ## Ryan's Dev Blog
  - [https://rbates.dev](https://rbates.dev)
  - date published: 2023-10-25T08:58:48.184268+00:00
- - user: None
- - tags: $tags
-
-## React
- - [https://react.dev](https://react.dev)
- - date published: 2023-10-25T18:41:12.872406+00:00
- - user: None
- - tags: $tags
-
-## refine | Build your React-based CRUD applications, without constraints! | refine
- - [https://refine.dev](https://refine.dev)
- - date published: 2023-10-25T18:41:19.334120+00:00
- - user: None
- - tags: $tags
-
-## SDXL – A settings guide by Replicate
- - [https://sdxl.replicate.dev](https://sdxl.replicate.dev)
- - date published: 2023-10-25T18:41:20.011892+00:00
- - user: None
- - tags: $tags
-
-## Restfox
- - [https://restfox.dev](https://restfox.dev)
- - date published: 2023-10-25T18:41:21.360876+00:00
  - user: None
  - tags: $tags
 

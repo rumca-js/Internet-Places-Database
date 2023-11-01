@@ -3430,6 +3430,12 @@
  - user: None
  - tags: $tags
 
+## Home
+ - [https://www.universitymagazine.ca](https://www.universitymagazine.ca)
+ - date published: 2023-10-31T21:38:04.165908+00:00
+ - user: None
+ - tags: $tags
+
 ## http://utcc.utoronto.ca
  - [http://utcc.utoronto.ca](http://utcc.utoronto.ca)
  - date published: 2023-10-25T12:08:57.993153+00:00
@@ -5984,12 +5990,6 @@
 ## Akiflow - Centralize your schedule
  - [https://akiflow.com](https://akiflow.com)
  - date published: 2023-10-25T12:37:07.042316+00:00
- - user: None
- - tags: $tags
-
-## Akita Software — the fastest and easiest way to understand your APIs.
- - [https://www.akitasoftware.com](https://www.akitasoftware.com)
- - date published: 2023-10-25T12:37:09.424295+00:00
  - user: None
  - tags: $tags
 

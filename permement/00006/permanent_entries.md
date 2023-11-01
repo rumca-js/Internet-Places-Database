@@ -1,3 +1,21 @@
+## Stephen Wolfram Writings
+ - [https://writings.stephenwolfram.com](https://writings.stephenwolfram.com)
+ - date published: 2023-10-25T17:16:44.317454+00:00
+ - user: None
+ - tags: $tags
+
+## Home Page | Stereophile.com
+ - [https://www.stereophile.com](https://www.stereophile.com)
+ - date published: 2023-10-25T17:16:49.062593+00:00
+ - user: None
+ - tags: $tags
+
+## Steve Blank Innovation and Entrepreneurship
+ - [https://steveblank.com](https://steveblank.com)
+ - date published: 2023-10-25T17:17:02.815342+00:00
+ - user: None
+ - tags: $tags
+
 ## Make Something Wonderful | Steve Jobs
  - [https://book.stevejobsarchive.com](https://book.stevejobsarchive.com)
  - date published: 2023-10-25T17:17:04.834291+00:00
@@ -5975,24 +5993,6 @@
 ## TUXEDO Computers
  - [https://www.tuxedocomputers.com](https://www.tuxedocomputers.com)
  - date published: 2023-10-25T17:50:14.276119+00:00
- - user: None
- - tags: $tags
-
-## TuxPhones - Linux phones, tablets and portable devices
- - [https://tuxphones.com](https://tuxphones.com)
- - date published: 2023-10-25T17:50:19.263654+00:00
- - user: None
- - tags: $tags
-
-## Brain Dump — Geoff's Technical Notebook
- - [https://geoff.tuxpup.com](https://geoff.tuxpup.com)
- - date published: 2023-10-25T17:50:20.921936+00:00
- - user: None
- - tags: $tags
-
-## TV news, Movie News, Actor Facts, Things You Didn’t Know | TVovermind
- - [https://tvovermind.com](https://tvovermind.com)
- - date published: 2023-10-25T10:52:12.025157+00:00
  - user: None
  - tags: $tags
 
