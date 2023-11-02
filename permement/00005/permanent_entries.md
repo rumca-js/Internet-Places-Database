@@ -1,3 +1,616 @@
+## OSnews  -  Exploring the Future of Computing
+ - [https://www.osnews.com](https://www.osnews.com)
+ - date published: 2023-10-25T09:34:29.424722+00:00
+ - user: None
+ - tags: $tags
+
+## All Projects
+    - OSSRank
+ - [https://ossrank.com](https://ossrank.com)
+ - date published: 2023-10-25T16:27:50.745403+00:00
+ - user: None
+ - tags: $tags
+
+## Danny's Blog
+ - [https://blog.otterstack.com](https://blog.otterstack.com)
+ - date published: 2023-10-25T16:27:51.252333+00:00
+ - user: None
+ - tags: $tags
+
+## AI-Powered Automatic PostgreSQL & MySQL Tuning | OtterTune
+ - [https://ottertune.com](https://ottertune.com)
+ - date published: 2023-10-25T16:27:55.088952+00:00
+ - user: None
+ - tags: $tags
+
+## Oxford Academic
+ - [https://academic.oup.com](https://academic.oup.com)
+ - date published: 2023-10-25T16:27:59.208559+00:00
+ - user: None
+ - tags: $tags
+
+## OUPblog | Oxford University Press’s Academic Insights for the World
+ - [https://blog.oup.com](https://blog.oup.com)
+ - date published: 2023-10-25T16:28:04.688791+00:00
+ - user: None
+ - tags: $tags
+
+## Homepage - Oxford University Press
+ - [https://global.oup.com](https://global.oup.com)
+ - date published: 2023-10-25T16:28:11.875051+00:00
+ - user: None
+ - tags: $tags
+
+## World of Pixels
+ - [https://ourworldofpixels.com](https://ourworldofpixels.com)
+ - date published: 2023-10-25T08:36:48.464142+00:00
+ - user: None
+ - tags: $tags
+
+## Outdoor Status
+ - [https://outdoorstatus.com](https://outdoorstatus.com)
+ - date published: 2023-10-25T16:28:14.906908+00:00
+ - user: None
+ - tags: $tags
+
+## Outfunnel - Sales & Marketing Workflow Platform
+ - [https://outfunnel.com](https://outfunnel.com)
+ - date published: 2023-10-25T16:28:17.037385+00:00
+ - user: None
+ - tags: $tags
+
+## OutHorse Your Email
+ - [http://outhorseyouremail.com](http://outhorseyouremail.com)
+ - date published: 2023-10-25T16:28:24.817697+00:00
+ - user: None
+ - tags: $tags
+
+## OutKick - Fearless Sports Media Company Founded by Clay Travis
+ - [https://www.outkick.com](https://www.outkick.com)
+ - date published: 2023-10-25T10:09:04.240719+00:00
+ - user: None
+ - tags: $tags
+
+## Outside Magazine
+ - [https://www.outsideonline.com](https://www.outsideonline.com)
+ - date published: 2023-10-25T16:28:28.955211+00:00
+ - user: None
+ - tags: $tags
+
+## Outsider Club | Because You'll Never Be On The Inside
+ - [https://www.outsiderclub.com](https://www.outsiderclub.com)
+ - date published: 2023-10-25T16:28:31.579451+00:00
+ - user: None
+ - tags: $tags
+
+## OutThere Colorado
+ - [https://www.outtherecolorado.com](https://www.outtherecolorado.com)
+ - date published: 2023-10-25T16:28:37.775032+00:00
+ - user: None
+ - tags: $tags
+
+## Overcoming Bias | Robin Hanson | Substack
+ - [https://www.overcomingbias.com](https://www.overcomingbias.com)
+ - date published: 2023-10-25T09:40:33.681379+00:00
+ - user: None
+ - tags: ['substack']
+
+## overexact.com
+ - [https://overexact.com](https://overexact.com)
+ - date published: 2023-10-25T16:28:44.079753+00:00
+ - user: None
+ - tags: $tags
+
+## OVHcloud
+ - [https://www.ovhcloud.com](https://www.ovhcloud.com)
+ - date published: 2023-10-25T08:26:40.799882+00:00
+ - user: None
+ - tags: ['hosting service']
+
+## OBN | Hey, how are ya?
+ - [https://www.owlbynight.com](https://www.owlbynight.com)
+ - date published: 2023-10-25T16:28:44.701322+00:00
+ - user: None
+ - tags: $tags
+
+## Tutoring Services | Oxford Learning
+ - [https://www.oxfordlearning.com](https://www.oxfordlearning.com)
+ - date published: 2023-10-25T16:28:48.244897+00:00
+ - user: None
+ - tags: $tags
+
+## Home - Oxford Political Review
+ - [https://oxfordpoliticalreview.com](https://oxfordpoliticalreview.com)
+ - date published: 2023-10-25T16:28:52.447028+00:00
+ - user: None
+ - tags: $tags
+
+## The Oxford Student – The Oxford Student
+ - [https://www.oxfordstudent.com](https://www.oxfordstudent.com)
+ - date published: 2023-10-25T16:29:04.754563+00:00
+ - user: None
+ - tags: $tags
+
+## Oxygen Official Site
+ - [https://www.oxygen.com](https://www.oxygen.com)
+ - date published: 2023-10-28T17:36:52.135541+00:00
+ - user: None
+ - tags: $tags
+
+## http://www.oyonale.com
+ - [http://www.oyonale.com](http://www.oyonale.com)
+ - date published: 2023-10-25T16:29:06.302463+00:00
+ - user: None
+ - tags: $tags
+
+## Unified In-game and On-Chain Analytics
+ - [https://p2eanalytics.com](https://p2eanalytics.com)
+ - date published: 2023-10-25T16:29:07.420465+00:00
+ - user: None
+ - tags: $tags
+
+## Paavan — Digital Product Designer
+ - [https://paavandesign.com](https://paavandesign.com)
+ - date published: 2023-10-25T16:29:13.648161+00:00
+ - user: None
+ - tags: $tags
+
+## Home Page | Pachyderm
+ - [https://www.pachyderm.com](https://www.pachyderm.com)
+ - date published: 2023-10-25T16:29:16.162733+00:00
+ - user: None
+ - tags: $tags
+
+## Graphing Calculator
+ - [https://www.pacifict.com](https://www.pacifict.com)
+ - date published: 2023-10-25T16:29:17.519350+00:00
+ - user: None
+ - tags: $tags
+
+## Packt | Programming Books, eBooks & Videos for Developers
+ - [https://www.packtpub.com](https://www.packtpub.com)
+ - date published: 2023-10-25T08:25:45.035269+00:00
+ - user: None
+ - tags: $tags
+
+## Home - PYOK
+ - [https://www.paddleyourownkanoo.com](https://www.paddleyourownkanoo.com)
+ - date published: 2023-10-25T16:29:23.750808+00:00
+ - user: None
+ - tags: $tags
+
+## Home - New - Pagely
+ - [https://pagely.com](https://pagely.com)
+ - date published: 2023-10-25T16:29:33.698142+00:00
+ - user: None
+ - tags: $tags
+
+## Link Building, SEO, Content Marketing | Page One Power
+ - [https://www.pageonepower.com](https://www.pageonepower.com)
+ - date published: 2023-10-25T16:29:36.991160+00:00
+ - user: None
+ - tags: $tags
+
+## Page Six: Latest Celebrity News, Entertainment News & Gossip
+ - [https://pagesix.com](https://pagesix.com)
+ - date published: 2023-10-25T10:52:05.156137+00:00
+ - user: None
+ - tags: $tags
+
+## Cheap Books!
+ - [https://www.pagesonpages.com](https://www.pagesonpages.com)
+ - date published: 2023-10-25T16:29:38.022535+00:00
+ - user: None
+ - tags: $tags
+
+## pagetable.com – Some Assembly Required
+ - [https://www.pagetable.com](https://www.pagetable.com)
+ - date published: 2023-10-25T16:29:42.920014+00:00
+ - user: None
+ - tags: $tags
+
+## Home of the Pathfinder and Starfinder RPGs. The Golem’s Got It! | Paizo
+ - [https://paizo.com](https://paizo.com)
+ - date published: 2023-10-25T16:29:51.558859+00:00
+ - user: None
+ - tags: $tags
+
+## Paleofuture
+ - [https://paleofuture.com](https://paleofuture.com)
+ - date published: 2023-10-25T16:29:54.151105+00:00
+ - user: None
+ - tags: $tags
+
+## Electronics, Computing and Videogame History - Paleotronic Magazine
+ - [https://paleotronic.com](https://paleotronic.com)
+ - date published: 2023-10-25T11:10:53.460145+00:00
+ - user: None
+ - tags: $tags
+
+## Paliparan - Travels Around the World
+ - [https://paliparan.com](https://paliparan.com)
+ - date published: 2023-10-25T16:29:56.800882+00:00
+ - user: None
+ - tags: $tags
+
+## Palladium Magazine
+ - [https://palladiummag.com](https://palladiummag.com)
+ - date published: 2023-10-25T10:14:15.909364+00:00
+ - user: None
+ - tags: $tags
+
+## Palladium Magazine
+ - [https://www.palladiummag.com](https://www.palladiummag.com)
+ - date published: 2023-10-25T16:30:09.505258+00:00
+ - user: None
+ - tags: $tags
+
+## The Blog of Palmer Luckey – The #1 Palmer Luckey Blog on the Internet
+ - [https://palmerluckey.com](https://palmerluckey.com)
+ - date published: 2023-10-25T16:30:13.359058+00:00
+ - user: None
+ - tags: $tags
+
+## | Palo Alto Online |
+ - [https://www.paloaltoonline.com](https://www.paloaltoonline.com)
+ - date published: 2023-10-25T16:30:19.898249+00:00
+ - user: None
+ - tags: $tags
+
+## Panasonic Polska
+ - [https://www.panasonic.com](https://www.panasonic.com)
+ - date published: 2023-11-01T07:37:07.821934+00:00
+ - user: None
+ - tags: ['company']
+
+## The Antivirus Revolution - Panda Security
+ - [https://www.pandasecurity.com](https://www.pandasecurity.com)
+ - date published: 2023-10-29T12:00:35.028997+00:00
+ - user: None
+ - tags: $tags
+
+## HOME
+ - [https://www.pangeosyacht.com](https://www.pangeosyacht.com)
+ - date published: 2023-10-25T16:30:22.156795+00:00
+ - user: None
+ - tags: $tags
+
+## Panic Social
+ - [https://social.panic.com](https://social.panic.com)
+ - date published: 2023-10-24T20:13:18.672824+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Paolo Amoroso's Journal
+ - [https://journal.paoloamoroso.com](https://journal.paoloamoroso.com)
+ - date published: 2023-10-25T16:30:24.194833+00:00
+ - user: None
+ - tags: $tags
+
+## Paolo Mainardi
+ - [https://www.paolomainardi.com](https://www.paolomainardi.com)
+ - date published: 2023-10-25T16:30:26.103996+00:00
+ - user: None
+ - tags: $tags
+
+## Paperpile Reference Manager
+ - [https://paperpile.com](https://paperpile.com)
+ - date published: 2023-11-01T08:42:53.570173+00:00
+ - user: None
+ - tags: $tags
+
+## Cloud GPUs & Hosting for AI | Paperspace
+ - [https://www.paperspace.com](https://www.paperspace.com)
+ - date published: 2023-10-25T16:30:30.437808+00:00
+ - user: None
+ - tags: $tags
+
+## The latest in Machine Learning | Papers With Code
+ - [https://paperswithcode.com](https://paperswithcode.com)
+ - date published: 2023-10-25T16:30:32.725669+00:00
+ - user: None
+ - tags: $tags
+
+## collection of sébastien de ganay, paper toilet .com by rafaël rozendaal, 2006
+ - [https://papertoilet.com](https://papertoilet.com)
+ - date published: 2023-10-27T10:58:53.737739+00:00
+ - user: None
+ - tags: ['wtf']
+
+## Welcome to ParadeDB - ParadeDB
+ - [https://docs.paradedb.com](https://docs.paradedb.com)
+ - date published: 2023-10-25T16:30:38.822701+00:00
+ - user: None
+ - tags: $tags
+
+## Paradox Interactive
+ - [https://www.paradoxinteractive.com](https://www.paradoxinteractive.com)
+ - date published: 2023-11-01T19:36:55.276204+00:00
+ - user: None
+ - tags: ['vampire masquarade', 'role playing games']
+
+## Growing Products — weekly essays for founders and startup teams
+ - [https://growing-products.paralect.com](https://growing-products.paralect.com)
+ - date published: 2023-10-25T16:30:41.101886+00:00
+ - user: None
+ - tags: $tags
+
+## Parallel Economy | A Censor-Resistant Ecosystem
+ - [https://www.paralleleconomy.com](https://www.paralleleconomy.com)
+ - date published: 2023-10-25T16:30:43.965679+00:00
+ - user: None
+ - tags: $tags
+
+## Parand
+ - [https://www.parand.com](https://www.parand.com)
+ - date published: 2023-10-25T16:30:46.136740+00:00
+ - user: None
+ - tags: $tags
+
+## Parkiet – portal finansowy z najważniejszymi wiadomościami - parkiet.com
+ - [https://www.parkiet.com](https://www.parkiet.com)
+ - date published: 2023-10-25T10:58:13.846289+00:00
+ - user: None
+ - tags: $tags
+
+## MOONLIGHT LOVE AFFAIR
+ - [https://www.parovstelar.com](https://www.parovstelar.com)
+ - date published: 2023-10-30T15:45:25.629658+00:00
+ - user: None
+ - tags: ['music artist', 'parov stellar']
+
+## Pastebin.com - #1 paste tool since 2002!
+ - [https://pastebin.com](https://pastebin.com)
+ - date published: 2023-10-24T20:19:33.932082+00:00
+ - user: None
+ - tags: $tags
+
+## Patagonia Outdoor Clothing & Gear
+ - [https://www.patagonia.com](https://www.patagonia.com)
+ - date published: 2023-10-25T16:30:56.435107+00:00
+ - user: None
+ - tags: $tags
+
+## Inpics Gadget Repair Services - InPics Solutions
+ - [https://patersontech.com](https://patersontech.com)
+ - date published: 2023-10-25T16:30:59.777009+00:00
+ - user: None
+ - tags: $tags
+
+## Path of Exile
+ - [https://www.pathofexile.com](https://www.pathofexile.com)
+ - date published: 2023-10-25T08:39:41.111324+00:00
+ - user: None
+ - tags: ['game']
+
+## Path-Sensitive
+ - [https://www.pathsensitive.com](https://www.pathsensitive.com)
+ - date published: 2023-10-25T16:31:04.472557+00:00
+ - user: None
+ - tags: $tags
+
+## Patreon | News | Home
+ - [https://blog.patreon.com](https://blog.patreon.com)
+ - date published: 2023-10-25T11:32:44.994110+00:00
+ - user: None
+ - tags: $tags
+
+## Home — Patreon
+ - [https://www.patreon.com](https://www.patreon.com)
+ - date published: 2023-10-25T11:34:19.134811+00:00
+ - user: None
+ - tags: ['crowdfunding']
+
+## Home · Patrick Collison
+ - [https://patrickcollison.com](https://patrickcollison.com)
+ - date published: 2023-10-25T08:47:23.257678+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paul Graham
+ - [http://paulgraham.com](http://paulgraham.com)
+ - date published: 2023-10-25T16:31:18.326572+00:00
+ - user: None
+ - tags: $tags
+
+## Paul Graham
+ - [http://www.paulgraham.com](http://www.paulgraham.com)
+ - date published: 2023-10-25T16:31:25.213048+00:00
+ - user: None
+ - tags: $tags
+
+## Paul Graham AI
+ - [https://www.paulgrahamai.com](https://www.paulgrahamai.com)
+ - date published: 2023-10-25T16:31:25.983543+00:00
+ - user: None
+ - tags: $tags
+
+## Paul Irish
+ - [https://www.paulirish.com](https://www.paulirish.com)
+ - date published: 2023-10-25T09:26:01.615259+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paul Plowman
+ - [https://paulplowman.com](https://paulplowman.com)
+ - date published: 2023-10-25T16:31:26.762919+00:00
+ - user: None
+ - tags: $tags
+
+## Paul Robert Lloyd
+ - [https://paulrobertlloyd.com](https://paulrobertlloyd.com)
+ - date published: 2023-10-25T16:31:27.499225+00:00
+ - user: None
+ - tags: $tags
+
+## Technology, Design and Photography — PaulStamatiou.com
+ - [https://paulstamatiou.com](https://paulstamatiou.com)
+ - date published: 2023-10-25T09:26:02.596314+00:00
+ - user: None
+ - tags: ['personal']
+
+## Pavel Panchekha
+ - [https://pavpanchekha.com](https://pavpanchekha.com)
+ - date published: 2023-10-25T16:31:28.802817+00:00
+ - user: None
+ - tags: $tags
+
+## Rails, PostgreSQL Performance Audit and Tuning Consultant for Hire
+ - [https://pawelurbanek.com](https://pawelurbanek.com)
+ - date published: 2023-10-25T16:31:35.547056+00:00
+ - user: None
+ - tags: $tags
+
+## P.O.D. | The Official Website
+ - [https://payableondeath.com](https://payableondeath.com)
+ - date published: 2023-10-30T15:39:18.619441+00:00
+ - user: None
+ - tags: ['music band']
+
+## Paychex: Payroll & HR Solutions
+ - [https://www.paychex.com](https://www.paychex.com)
+ - date published: 2023-10-25T16:31:40.359186+00:00
+ - user: None
+ - tags: $tags
+
+## Payload - We cover the business and policy of space.
+ - [https://payloadspace.com](https://payloadspace.com)
+ - date published: 2023-10-25T16:31:46.185011+00:00
+ - user: None
+ - tags: $tags
+
+## E-płatności, wysyłaj pieniądze i akceptuj płatności | PayPal PL
+ - [https://www.paypal.com](https://www.paypal.com)
+ - date published: 2023-10-25T08:26:52.063948+00:00
+ - user: None
+ - tags: ['banking']
+
+## PayPal Status Page
+ - [https://www.paypal-status.com](https://www.paypal-status.com)
+ - date published: 2023-10-25T08:26:54.739488+00:00
+ - user: None
+ - tags: $tags
+
+## 403
+ - [https://www.paypalobjects.com](https://www.paypalobjects.com)
+ - date published: 2023-10-25T16:31:48.214530+00:00
+ - user: None
+ - tags: $tags
+
+## PC Builder AI
+ - [https://www.pcbuilderai.com](https://www.pcbuilderai.com)
+ - date published: 2023-10-25T16:31:48.907547+00:00
+ - user: None
+ - tags: $tags
+
+## PC Gamer
+ - [https://www.pcgamer.com](https://www.pcgamer.com)
+ - date published: 2023-10-25T10:49:45.933777+00:00
+ - user: None
+ - tags: $tags
+
+## PCGamesN | PC gaming news, reviews, and guides
+ - [https://www.pcgamesn.com](https://www.pcgamesn.com)
+ - date published: 2023-10-25T10:49:52.311261+00:00
+ - user: None
+ - tags: ['game news']
+
+## Intro: P.C. Maffey
+ - [https://pcmaffey.com](https://pcmaffey.com)
+ - date published: 2023-10-25T08:47:24.013987+00:00
+ - user: None
+ - tags: ['personal']
+
+## PCMag.com - Technology Product Reviews, News, Prices & Tips
+ - [https://uk.pcmag.com](https://uk.pcmag.com)
+ - date published: 2023-10-25T09:34:32.882984+00:00
+ - user: None
+ - tags: $tags
+
+## The Latest Technology Product Reviews, News, Tips, and Deals | PCMag
+ - [https://www.pcmag.com](https://www.pcmag.com)
+ - date published: 2023-10-25T09:34:47.167027+00:00
+ - user: None
+ - tags: $tags
+
+## The Starman's Realm
+ - [https://thestarman.pcministry.com](https://thestarman.pcministry.com)
+ - date published: 2023-10-25T16:31:49.593366+00:00
+ - user: None
+ - tags: $tags
+
+## PCWorld
+ - [https://www.pcworld.com](https://www.pcworld.com)
+ - date published: 2023-10-25T09:34:49.726201+00:00
+ - user: None
+ - tags: $tags
+
+## PDF Differ — Compare the differences between two pdfs
+ - [https://pdfdiffer.com](https://pdfdiffer.com)
+ - date published: 2023-10-25T16:31:51.020705+00:00
+ - user: None
+ - tags: $tags
+
+## Easy to use free PDF tools online - pdfux
+ - [https://pdfux.com](https://pdfux.com)
+ - date published: 2023-10-25T16:31:51.991250+00:00
+ - user: None
+ - tags: $tags
+
+## PEARL, Inc. Homepage
+ - [https://www.pearl-hifi.com](https://www.pearl-hifi.com)
+ - date published: 2023-10-25T16:31:53.681955+00:00
+ - user: None
+ - tags: $tags
+
+## Pearson | The World’s Leading Education Provider
+ - [https://www.pearson.com](https://www.pearson.com)
+ - date published: 2023-10-25T16:31:59.807682+00:00
+ - user: None
+ - tags: $tags
+
+## Book update.  Now includes recent work on best fit solutions. - Peeter Joot's Blog
+ - [https://peeterjoot.com](https://peeterjoot.com)
+ - date published: 2023-10-25T08:57:37.286572+00:00
+ - user: None
+ - tags: ['personal']
+
+## Pegasus Games
+ - [https://pegasusgames.com](https://pegasusgames.com)
+ - date published: 2023-10-30T12:01:37.114574+00:00
+ - user: None
+ - tags: $tags
+
+## PelotonCal
+ - [https://pelotoncal.com](https://pelotoncal.com)
+ - date published: 2023-10-25T16:32:06.386585+00:00
+ - user: None
+ - tags: $tags
+
+## Penmachine - Derek K. Miller
+ - [https://www.penmachine.com](https://www.penmachine.com)
+ - date published: 2023-10-25T16:32:10.562369+00:00
+ - user: None
+ - tags: $tags
+
+## Tom Francis
+ - [https://www.pentadact.com](https://www.pentadact.com)
+ - date published: 2023-10-25T09:21:08.810960+00:00
+ - user: None
+ - tags: ['personal']
+
+## People.com | Celebrity News, Exclusives, Photos and Videos
+ - [https://people.com](https://people.com)
+ - date published: 2023-10-25T10:52:09.683787+00:00
+ - user: None
+ - tags: $tags
+
+## People and Blogs
+ - [https://peopleandblogs.com](https://peopleandblogs.com)
+ - date published: 2023-10-25T16:32:21.821382+00:00
+ - user: None
+ - tags: $tags
+
 ## POCIT. Telling the stories and thoughts of people of color in tech.
  - [https://peopleofcolorintech.com](https://peopleofcolorintech.com)
  - date published: 2023-10-25T16:32:25.934361+00:00
@@ -104,7 +717,7 @@
  - [https://petergabriel.com](https://petergabriel.com)
  - date published: 2023-10-25T08:47:30.180606+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Peter Is Pedaling
  - [https://www.peterispedaling.com](https://www.peterispedaling.com)
@@ -130,6 +743,12 @@
  - user: None
  - tags: ['asset images']
 
+## https://www.pfizer.com
+ - [https://www.pfizer.com](https://www.pfizer.com)
+ - date published: 2023-11-01T08:42:53.876422+00:00
+ - user: None
+ - tags: $tags
+
 ## Postgres performance at any scale | PostgreSQL Tuning - pganalyze
  - [https://pganalyze.com](https://pganalyze.com)
  - date published: 2023-10-25T16:33:32.420093+00:00
@@ -140,7 +759,7 @@
  - [https://ph-uhl.com](https://ph-uhl.com)
  - date published: 2023-10-25T08:47:31.001721+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## PhaseLLM
  - [https://phasellm.com](https://phasellm.com)
@@ -200,7 +819,7 @@
  - [https://www.philzimmermann.com](https://www.philzimmermann.com)
  - date published: 2023-10-25T08:47:32.129006+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## https://phind.com
  - [https://phind.com](https://phind.com)
@@ -413,7 +1032,7 @@
  - [https://pippinbarr.com](https://pippinbarr.com)
  - date published: 2023-10-25T08:47:32.689249+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The Pirate Surgeon's Journal Main Page
  - [https://www.piratesurgeon.com](https://www.piratesurgeon.com)
@@ -450,6 +1069,12 @@
  - date published: 2023-10-25T11:35:36.504703+00:00
  - user: None
  - tags: ['asset images']
+
+## Pixar Animation Studios
+ - [https://www.pixar.com](https://www.pixar.com)
+ - date published: 2023-11-01T09:04:42.688240+00:00
+ - user: None
+ - tags: ['company', 'movie studio']
 
 ## Pixelmator Pro
  - [https://www.pixelmator.com](https://www.pixelmator.com)
@@ -593,7 +1218,7 @@
  - [https://blog.plover.com](https://blog.plover.com)
  - date published: 2023-10-25T08:47:36.647639+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## PlugWorld
  - [https://plug-world.com](https://plug-world.com)
@@ -610,6 +1235,12 @@
 ## Pluralist - Home
  - [https://pluralist.com](https://pluralist.com)
  - date published: 2023-10-25T10:38:01.680110+00:00
+ - user: None
+ - tags: $tags
+
+## Online Courses, Learning Paths, and Certifications - Pluralsight
+ - [https://www.pluralsight.com](https://www.pluralsight.com)
+ - date published: 2023-11-01T08:42:54.864121+00:00
  - user: None
  - tags: $tags
 
@@ -779,13 +1410,13 @@
  - [https://popey.com](https://popey.com)
  - date published: 2023-10-25T08:47:37.216100+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Uros Popovic
  - [https://popovicu.com](https://popovicu.com)
  - date published: 2023-10-25T08:58:16.378232+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Popular Science Homepage | Popular Science
  - [https://www.popsci.com](https://www.popsci.com)
@@ -798,6 +1429,12 @@
  - date published: 2023-10-25T16:37:51.033102+00:00
  - user: None
  - tags: $tags
+
+## Official Porsche Website - Dr. Ing. h.c. F. Porsche AG
+ - [https://www.porsche.com](https://www.porsche.com)
+ - date published: 2023-11-01T08:55:25.017871+00:00
+ - user: None
+ - tags: ['company', 'car producer']
 
 ## Portugal Resident - Portugal News and Lifestyle Newspaper in English
  - [https://www.portugalresident.com](https://www.portugalresident.com)
@@ -895,6 +1532,12 @@
  - user: None
  - tags: $tags
 
+## mailman.powerdns.com Mailing Lists
+ - [https://mailman.powerdns.com](https://mailman.powerdns.com)
+ - date published: 2023-11-01T08:42:56.060079+00:00
+ - user: None
+ - tags: $tags
+
 ## Prabros. - Maker Duo
  - [https://prabros.com](https://prabros.com)
  - date published: 2023-10-25T16:38:55.357789+00:00
@@ -958,6 +1601,12 @@
 ## Preshing on Programming
  - [https://preshing.com](https://preshing.com)
  - date published: 2023-10-25T16:39:24.657091+00:00
+ - user: None
+ - tags: $tags
+
+## https://www.pressdemocrat.com
+ - [https://www.pressdemocrat.com](https://www.pressdemocrat.com)
+ - date published: 2023-11-01T08:42:56.938211+00:00
  - user: None
  - tags: $tags
 
@@ -1144,6 +1793,12 @@
 ## OBS Studio
  - [https://projectobs.com](https://projectobs.com)
  - date published: 2023-10-25T16:41:05.851378+00:00
+ - user: None
+ - tags: $tags
+
+## Atomic Rockets - Atomic Rockets
+ - [https://projectrho.com](https://projectrho.com)
+ - date published: 2023-11-01T08:42:59.050025+00:00
  - user: None
  - tags: $tags
 
@@ -1427,7 +2082,7 @@
  - [https://pxlnv.com](https://pxlnv.com)
  - date published: 2023-10-25T08:58:19.153772+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## pyinfra automates infrastructure super fast at massive scale
  - [https://pyinfra.com](https://pyinfra.com)
@@ -1593,6 +2248,12 @@
  - user: None
  - tags: $tags
 
+## Home | Quansight Consulting
+ - [https://quansight.com](https://quansight.com)
+ - date published: 2023-11-01T16:45:54.231176+00:00
+ - user: None
+ - tags: $tags
+
 ## Quantable Analytics - Analytics & Optimization
  - [https://www.quantable.com](https://www.quantable.com)
  - date published: 2023-10-25T16:43:40.171804+00:00
@@ -1717,7 +2378,7 @@
  - [https://rachelbythebay.com](https://rachelbythebay.com)
  - date published: 2023-10-25T08:47:38.309860+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Start Here - Rachel Laudan
  - [https://www.rachellaudan.com](https://www.rachellaudan.com)
@@ -1764,6 +2425,12 @@
 ## Radiohead Public Library
  - [https://radiohead.com](https://radiohead.com)
  - date published: 2023-10-25T11:13:51.732057+00:00
+ - user: None
+ - tags: $tags
+
+## Radiohead Public Library
+ - [https://www.radiohead.com](https://www.radiohead.com)
+ - date published: 2023-11-01T08:42:59.904814+00:00
  - user: None
  - tags: $tags
 
@@ -1836,6 +2503,12 @@
 ## Home - Ramraj's personal site
  - [https://www.ramrajv.com](https://www.ramrajv.com)
  - date published: 2023-10-25T16:45:35.093200+00:00
+ - user: None
+ - tags: $tags
+
+## Innovate Everywhere
+ - [https://www.rancher.com](https://www.rancher.com)
+ - date published: 2023-11-01T08:43:01.849335+00:00
  - user: None
  - tags: $tags
 
@@ -1938,6 +2611,12 @@
 ## Razed Mods
  - [https://www.razedmods.com](https://www.razedmods.com)
  - date published: 2023-10-25T11:09:52.685264+00:00
+ - user: None
+ - tags: $tags
+
+## Razer United States | For Gamers. By Gamers.
+ - [https://www.razer.com](https://www.razer.com)
+ - date published: 2023-11-01T08:43:02.828069+00:00
  - user: None
  - tags: $tags
 
@@ -2067,6 +2746,12 @@
  - user: None
  - tags: $tags
 
+## Reaper Miniatures
+ - [https://www.reapermini.com](https://www.reapermini.com)
+ - date published: 2023-11-01T18:13:42.385023+00:00
+ - user: None
+ - tags: ['sculpting', 'tabletop games', 'miniatures']
+
 ## Reason Magazine - Free Minds and Free Markets
  - [https://reason.com](https://reason.com)
  - date published: 2023-10-25T16:47:08.897275+00:00
@@ -2115,6 +2800,12 @@
  - user: None
  - tags: $tags
 
+## Redgate Software - Compliant Database DevOps Solutions and Tools For SQL Server, Oracle, & .NET
+ - [https://www.red-gate.com](https://www.red-gate.com)
+ - date published: 2023-11-01T08:43:03.996831+00:00
+ - user: None
+ - tags: $tags
+
 ## Red Blob Games
  - [https://www.redblobgames.com](https://www.redblobgames.com)
  - date published: 2023-10-25T16:47:32.544748+00:00
@@ -2142,6 +2833,12 @@
 ## reddit
  - [https://www.reddit.com](https://www.reddit.com)
  - date published: 2023-10-24T20:16:46.235665+00:00
+ - user: None
+ - tags: $tags
+
+## reddit-stream - a better way to view live reddit threads
+ - [https://www.reddit-stream.com](https://www.reddit-stream.com)
+ - date published: 2023-11-01T21:08:19.834690+00:00
  - user: None
  - tags: $tags
 
@@ -2233,7 +2930,7 @@
  - [https://rednafi.com](https://rednafi.com)
  - date published: 2023-10-25T08:47:39.220352+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Redpanda | The streaming data platform for developers
  - [https://redpanda.com](https://redpanda.com)
@@ -2349,6 +3046,12 @@
  - user: None
  - tags: ['company', 'max payne', 'game studio', 'alan wake']
 
+## Remote NBS
+ - [https://www.remotenbs.com](https://www.remotenbs.com)
+ - date published: 2023-11-01T15:43:43.376035+00:00
+ - user: None
+ - tags: $tags
+
 ## Find Your Dream Remote Job
  - [https://www.remoterocketship.com](https://www.remoterocketship.com)
  - date published: 2023-10-25T16:49:26.841818+00:00
@@ -2371,7 +3074,7 @@
  - [https://renegadeotter.com](https://renegadeotter.com)
  - date published: 2023-10-25T08:47:39.799499+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Rene Herse Cycles
  - [https://www.renehersecycles.com](https://www.renehersecycles.com)
@@ -2515,7 +3218,7 @@
  - [https://retrorepairsandrefurbs.com](https://retrorepairsandrefurbs.com)
  - date published: 2023-10-25T08:47:47.426248+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Retro Reverse Engineering · RetroReversing
  - [https://www.retroreversing.com](https://www.retroreversing.com)
@@ -2527,7 +3230,7 @@
  - [https://www.retrotechnology.com](https://www.retrotechnology.com)
  - date published: 2023-10-25T08:47:48.567953+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Return to Monkey Island | Available now on PC, Nintendo Swtich, PS5, and Xbox S/X
  - [https://returntomonkeyisland.com](https://returntomonkeyisland.com)
@@ -2923,7 +3626,7 @@
  - [https://rocket9labs.com](https://rocket9labs.com)
  - date published: 2023-10-25T09:26:03.860837+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Rock Paper Shotgun
  - [https://www.rockpapershotgun.com](https://www.rockpapershotgun.com)
@@ -2959,7 +3662,7 @@
  - [https://rodriguezcommaj.com](https://rodriguezcommaj.com)
  - date published: 2023-10-25T08:47:49.289045+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Movie reviews and ratings by Film Critic Roger Ebert | Roger Ebert
  - [https://www.rogerebert.com](https://www.rogerebert.com)
@@ -3061,7 +3764,7 @@
  - [https://www.ronpatrickstuff.com](https://www.ronpatrickstuff.com)
  - date published: 2023-10-25T08:47:50.285670+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## About | Undeleted Files
  - [https://undeleted.ronsor.com](https://undeleted.ronsor.com)
@@ -3171,6 +3874,12 @@
  - user: None
  - tags: $tags
 
+## R. Talsorian Games - We create worlds you can only imagine.
+ - [https://rtalsoriangames.com](https://rtalsoriangames.com)
+ - date published: 2023-11-01T19:34:54.050124+00:00
+ - user: None
+ - tags: ['cyberpunk', 'role playing games']
+
 ## http://www.rtl-sdr.com
  - [http://www.rtl-sdr.com](http://www.rtl-sdr.com)
  - date published: 2023-10-25T16:55:17.950328+00:00
@@ -3187,7 +3896,7 @@
  - [https://www.rubick.com](https://www.rubick.com)
  - date published: 2023-10-25T08:47:51.358817+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Ruetir | Latest News, World News, Breaking News, Games, Business & Health
  - [https://www.ruetir.com](https://www.ruetir.com)
@@ -3246,6 +3955,12 @@
 ## About me - Ryan Bigg
  - [https://ryanbigg.com](https://ryanbigg.com)
  - date published: 2023-10-25T16:55:42.654673+00:00
+ - user: None
+ - tags: $tags
+
+## Ryan Liptak - ryanliptak.com
+ - [https://www.ryanliptak.com](https://www.ryanliptak.com)
+ - date published: 2023-11-01T08:43:05.964722+00:00
  - user: None
  - tags: $tags
 
@@ -3528,6 +4243,12 @@
 ## Sandi Metz
  - [https://sandimetz.com](https://sandimetz.com)
  - date published: 2023-10-25T16:57:25.228625+00:00
+ - user: None
+ - tags: $tags
+
+## Sandor Dargo’s Blog
+ - [https://www.sandordargo.com](https://www.sandordargo.com)
+ - date published: 2023-11-01T13:42:46.470895+00:00
  - user: None
  - tags: $tags
 
@@ -3879,6 +4600,12 @@
  - user: None
  - tags: $tags
 
+## Best Polymer Clay | For All Ages & Skill Level | Sculpey.com
+ - [https://www.sculpey.com](https://www.sculpey.com)
+ - date published: 2023-11-01T18:12:03.550727+00:00
+ - user: None
+ - tags: ['sculpting']
+
 ## ScyllaDB | Monstrously Fast + Scalable NoSQL
  - [https://www.scylladb.com](https://www.scylladb.com)
  - date published: 2023-10-25T17:00:38.077012+00:00
@@ -3949,7 +4676,7 @@
  - [https://sebastianraschka.com](https://sebastianraschka.com)
  - date published: 2023-10-25T09:26:05.600172+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Secjuice | Non-Profit Cyber Goodness
  - [https://www.secjuice.com](https://www.secjuice.com)
@@ -4099,7 +4826,7 @@
  - [https://blog.separateconcerns.com](https://blog.separateconcerns.com)
  - date published: 2023-10-25T09:26:06.936644+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Home - Sequoia
  - [https://www.sequoiacap.com](https://www.sequoiacap.com)
@@ -4285,7 +5012,7 @@
  - [https://www.sharoma.com](https://www.sharoma.com)
  - date published: 2023-10-25T08:47:52.772488+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## ShaunOConnell.com – GP | Commissioner | Coach & Mentor | Blogger
  - [https://shaunoconnell.com](https://shaunoconnell.com)
@@ -4296,6 +5023,12 @@
 ## Shawn Tabrizi | A site about discovery through experience
  - [https://www.shawntabrizi.com](https://www.shawntabrizi.com)
  - date published: 2023-10-25T17:03:28.603657+00:00
+ - user: None
+ - tags: $tags
+
+## Shepherd - Browse the best books to read.
+ - [https://shepherd.com](https://shepherd.com)
+ - date published: 2023-11-01T13:03:34.046684+00:00
  - user: None
  - tags: $tags
 
@@ -4494,6 +5227,12 @@
 ## Simon Grimm
  - [https://www.simongrimm.com](https://www.simongrimm.com)
  - date published: 2023-10-25T17:04:35.984500+00:00
+ - user: None
+ - tags: $tags
+
+## Simon Owen
+ - [https://simonowen.com](https://simonowen.com)
+ - date published: 2023-10-31T19:57:41.845940+00:00
  - user: None
  - tags: $tags
 
@@ -4873,6 +5612,12 @@
 ## Snopes.com | The definitive fact-checking site and reference source for urban legends, folklore, myths, rumors, and misinformation.
  - [https://www.snopes.com](https://www.snopes.com)
  - date published: 2023-10-25T17:07:24.158275+00:00
+ - user: None
+ - tags: $tags
+
+## Snowflake
+ - [https://app.snowflake.com](https://app.snowflake.com)
+ - date published: 2023-11-01T19:48:03.541761+00:00
  - user: None
  - tags: $tags
 
@@ -5257,750 +6002,6 @@
 ## Spinfuel Magazine
  - [https://spinfuel.com](https://spinfuel.com)
  - date published: 2023-10-25T17:10:35.537230+00:00
- - user: None
- - tags: $tags
-
-## Splunk | The Key to Enterprise Resilience
- - [https://www.splunk.com](https://www.splunk.com)
- - date published: 2023-10-25T17:10:39.211445+00:00
- - user: None
- - tags: $tags
-
-## The Spokesman-Review | Local News, Business, Entertainment, Sports & Weather for Eastern Washington
- - [https://www.spokesman.com](https://www.spokesman.com)
- - date published: 2023-10-25T17:10:45.399309+00:00
- - user: None
- - tags: $tags
-
-## Spoon & Tamago | japanese art, design and culture
- - [https://www.spoon-tamago.com](https://www.spoon-tamago.com)
- - date published: 2023-10-25T17:10:53.324617+00:00
- - user: None
- - tags: $tags
-
-## Sportskeeda - Sports News, Live Scores, Gaming, Fantasy and Wrestling News
- - [https://www.sportskeeda.com](https://www.sportskeeda.com)
- - date published: 2023-10-25T17:11:10.338467+00:00
- - user: None
- - tags: $tags
-
-## Home - The Spotify Community
- - [https://community.spotify.com](https://community.spotify.com)
- - date published: 2023-10-25T17:11:13.595614+00:00
- - user: None
- - tags: $tags
-
-## Spotify — For the Record
- - [https://newsroom.spotify.com](https://newsroom.spotify.com)
- - date published: 2023-10-24T20:06:18.415946+00:00
- - user: None
- - tags: $tags
-
-## Spotify - Web Player: Music for everyone
- - [https://open.spotify.com](https://open.spotify.com)
- - date published: 2023-10-25T13:14:14.516318+00:00
- - user: None
- - tags: ['audio streaming']
-
-## Spotify - Web Player: Music for everyone
- - [https://www.spotify.com](https://www.spotify.com)
- - date published: 2023-10-24T20:06:19.517755+00:00
- - user: None
- - tags: ['audio streaming']
-
-## Spot | Virtual office for teams
- - [https://www.spotvirtual.com](https://www.spotvirtual.com)
- - date published: 2023-10-25T17:11:14.472863+00:00
- - user: None
- - tags: $tags
-
-## Spread Privacy
- - [https://spreadprivacy.com](https://spreadprivacy.com)
- - date published: 2023-10-25T17:11:16.811041+00:00
- - user: None
- - tags: $tags
-
-## Home | SpringerLink
- - [https://link.springer.com](https://link.springer.com)
- - date published: 2023-10-25T17:11:18.919117+00:00
- - user: None
- - tags: $tags
-
-## The Spriters Resource
- - [https://www.spriters-resource.com](https://www.spriters-resource.com)
- - date published: 2023-10-25T11:35:11.849563+00:00
- - user: None
- - tags: ['assets sprites']
-
-## Sprites mods - Welcome - Welcome!
- - [https://spritesmods.com](https://spritesmods.com)
- - date published: 2023-10-25T17:11:19.992109+00:00
- - user: None
- - tags: $tags
-
-## SPY – Men's Style, Health, Grooming, Tech, Sports
- - [https://spy.com](https://spy.com)
- - date published: 2023-10-25T17:11:25.023835+00:00
- - user: None
- - tags: $tags
-
-## Squarofumi – Design & Engineering
- - [http://beepberry.sqfmi.com](http://beepberry.sqfmi.com)
- - date published: 2023-10-25T17:11:27.104217+00:00
- - user: None
- - tags: $tags
-
-## SQLforDevs.com - Database Tips & Tricks
- - [https://sqlfordevs.com](https://sqlfordevs.com)
- - date published: 2023-10-25T17:11:28.657539+00:00
- - user: None
- - tags: $tags
-
-## Solar Car City Car for daily Urban Mobility
- - [https://www.squadmobility.com](https://www.squadmobility.com)
- - date published: 2023-10-25T17:11:30.184077+00:00
- - user: None
- - tags: $tags
-
-## Squarespace / Engineering
- - [https://engineering.squarespace.com](https://engineering.squarespace.com)
- - date published: 2023-10-25T17:11:31.582819+00:00
- - user: None
- - tags: $tags
-
-## The Official Squarespace Newsroom
- - [https://newsroom.squarespace.com](https://newsroom.squarespace.com)
- - date published: 2023-10-25T17:11:33.322378+00:00
- - user: None
- - tags: $tags
-
-## Website Builder — Create a Website in Minutes — Squarespace
- - [https://www.squarespace.com](https://www.squarespace.com)
- - date published: 2023-10-25T08:24:15.197115+00:00
- - user: None
- - tags: $tags
-
-## Power your entire business | Square
- - [https://squareup.com](https://squareup.com)
- - date published: 2023-10-25T17:11:36.693918+00:00
- - user: None
- - tags: $tags
-
-## Squidgeefish
- - [https://squidgeefish.com](https://squidgeefish.com)
- - date published: 2023-10-25T17:11:37.299993+00:00
- - user: None
- - tags: $tags
-
-## AGE OF SQUIDMAR
- - [https://www.squidmar.com](https://www.squidmar.com)
- - date published: 2023-10-25T11:11:44.653780+00:00
- - user: None
- - tags: $tags
-
-## Фотографии, биография звезд, моделей и просто красивых девушек!
- - [https://sqwera.com](https://sqwera.com)
- - date published: 2023-10-25T17:11:38.934790+00:00
- - user: None
- - tags: $tags
-
-## Source & Binary
- - [https://src-bin.com](https://src-bin.com)
- - date published: 2023-10-25T17:11:39.487909+00:00
- - user: None
- - tags: $tags
-
-## SRI International - American Nonprofit Research Institute
- - [https://www.sri.com](https://www.sri.com)
- - date published: 2023-10-25T17:11:43.284336+00:00
- - user: None
- - tags: $tags
-
-## Home Page - SSC - Swedish Space Corporation
- - [https://sscspace.com](https://sscspace.com)
- - date published: 2023-10-25T17:11:50.984142+00:00
- - user: None
- - tags: $tags
-
-## Search eLibrary :: SSRN
- - [https://papers.ssrn.com](https://papers.ssrn.com)
- - date published: 2023-10-25T17:11:54.538915+00:00
- - user: None
- - tags: $tags
-
-## STMicroelectronics: Our technology starts with you
- - [https://www.st.com](https://www.st.com)
- - date published: 2023-10-25T17:11:58.173044+00:00
- - user: None
- - tags: $tags
-
-## Stable Diffusion Art - Tutorials, prompts and resources
- - [https://stable-diffusion-art.com](https://stable-diffusion-art.com)
- - date published: 2023-10-25T17:12:02.050014+00:00
- - user: None
- - tags: $tags
-
-## Stable Attribution
- - [https://www.stableattribution.com](https://www.stableattribution.com)
- - date published: 2023-10-25T17:12:02.415931+00:00
- - user: None
- - tags: $tags
-
-## Stable Diffusion Frivolous · Because lawsuits based on ignorance deserve a response.
- - [http://www.stablediffusionfrivolous.com](http://www.stablediffusionfrivolous.com)
- - date published: 2023-10-25T17:12:04.189851+00:00
- - user: None
- - tags: $tags
-
-## Stable Diffusion litigation · Joseph Saveri Law Firm & Matthew Butterick
- - [https://stablediffusionlitigation.com](https://stablediffusionlitigation.com)
- - date published: 2023-10-25T17:12:06.170800+00:00
- - user: None
- - tags: $tags
-
-## Stacey on IoT | Internet of Things news and analysis - Internet of Things
- - [https://staceyoniot.com](https://staceyoniot.com)
- - date published: 2023-10-25T17:12:08.633977+00:00
- - user: None
- - tags: $tags
-
-## Stack Diary - For Developers, Designers and Makers.
- - [https://stackdiary.com](https://stackdiary.com)
- - date published: 2023-10-25T09:35:47.301307+00:00
- - user: None
- - tags: $tags
-
-## Stacker | Turn your team's data into business apps
- - [https://www.stackerhq.com](https://www.stackerhq.com)
- - date published: 2023-10-25T17:12:16.159510+00:00
- - user: None
- - tags: $tags
-
-## Academia Stack Exchange
- - [https://academia.stackexchange.com](https://academia.stackexchange.com)
- - date published: 2023-10-25T17:12:23.792259+00:00
- - user: None
- - tags: $tags
-
-## Astronomy Stack Exchange
- - [https://astronomy.stackexchange.com](https://astronomy.stackexchange.com)
- - date published: 2023-10-25T17:12:31.667957+00:00
- - user: None
- - tags: $tags
-
-## Aviation Stack Exchange
- - [https://aviation.stackexchange.com](https://aviation.stackexchange.com)
- - date published: 2023-10-25T17:12:34.520438+00:00
- - user: None
- - tags: $tags
-
-## Bioinformatics Stack Exchange
- - [https://bioinformatics.stackexchange.com](https://bioinformatics.stackexchange.com)
- - date published: 2023-10-25T17:12:37.237051+00:00
- - user: None
- - tags: $tags
-
-## Bricks
- - [https://bricks.stackexchange.com](https://bricks.stackexchange.com)
- - date published: 2023-10-25T11:10:47.269042+00:00
- - user: None
- - tags: $tags
-
-## Chinese Language Stack Exchange
- - [https://chinese.stackexchange.com](https://chinese.stackexchange.com)
- - date published: 2023-10-25T17:12:39.833472+00:00
- - user: None
- - tags: $tags
-
-## Code Golf Stack Exchange
- - [https://codegolf.stackexchange.com](https://codegolf.stackexchange.com)
- - date published: 2023-10-25T17:12:42.935950+00:00
- - user: None
- - tags: $tags
-
-## Cryptography Stack Exchange
- - [https://crypto.stackexchange.com](https://crypto.stackexchange.com)
- - date published: 2023-10-25T17:12:45.696459+00:00
- - user: None
- - tags: $tags
-
-## Theoretical Computer Science Stack Exchange
- - [https://cstheory.stackexchange.com](https://cstheory.stackexchange.com)
- - date published: 2023-10-25T17:12:48.475706+00:00
- - user: None
- - tags: $tags
-
-## Home Improvement Stack Exchange
- - [https://diy.stackexchange.com](https://diy.stackexchange.com)
- - date published: 2023-10-25T17:12:51.266960+00:00
- - user: None
- - tags: $tags
-
-## Electrical Engineering Stack Exchange
- - [https://electronics.stackexchange.com](https://electronics.stackexchange.com)
- - date published: 2023-10-25T17:12:54.126216+00:00
- - user: None
- - tags: $tags
-
-## Emacs Stack Exchange
- - [https://emacs.stackexchange.com](https://emacs.stackexchange.com)
- - date published: 2023-10-25T17:13:01.838382+00:00
- - user: None
- - tags: $tags
-
-## English Language & Usage Meta Stack Exchange
- - [https://english.meta.stackexchange.com](https://english.meta.stackexchange.com)
- - date published: 2023-10-25T17:13:05.766252+00:00
- - user: None
- - tags: $tags
-
-## English Language & Usage Stack Exchange
- - [https://english.stackexchange.com](https://english.stackexchange.com)
- - date published: 2023-10-25T17:13:08.440521+00:00
- - user: None
- - tags: $tags
-
-## GenAI Stack Exchange
- - [https://genai.stackexchange.com](https://genai.stackexchange.com)
- - date published: 2023-10-25T17:13:16.165956+00:00
- - user: None
- - tags: $tags
-
-## German Language Stack Exchange
- - [https://german.stackexchange.com](https://german.stackexchange.com)
- - date published: 2023-10-25T17:13:18.799900+00:00
- - user: None
- - tags: $tags
-
-## Geographic Information Systems Stack Exchange
- - [https://gis.stackexchange.com](https://gis.stackexchange.com)
- - date published: 2023-10-25T17:13:21.499749+00:00
- - user: None
- - tags: $tags
-
-## Programming Language Design and Implementation Stack Exchange
- - [https://langdev.stackexchange.com](https://langdev.stackexchange.com)
- - date published: 2023-10-25T17:13:24.333367+00:00
- - user: None
- - tags: $tags
-
-## Latin Language Stack Exchange
- - [https://latin.stackexchange.com](https://latin.stackexchange.com)
- - date published: 2023-10-25T17:13:26.969617+00:00
- - user: None
- - tags: $tags
-
-## Law Stack Exchange
- - [https://law.stackexchange.com](https://law.stackexchange.com)
- - date published: 2023-10-25T17:13:29.773395+00:00
- - user: None
- - tags: $tags
-
-## Mathematics Stack Exchange
- - [https://math.stackexchange.com](https://math.stackexchange.com)
- - date published: 2023-10-25T17:13:42.554988+00:00
- - user: None
- - tags: $tags
-
-## Mathematica Stack Exchange
- - [https://mathematica.stackexchange.com](https://mathematica.stackexchange.com)
- - date published: 2023-10-25T17:13:45.339618+00:00
- - user: None
- - tags: $tags
-
-## Meta Stack Exchange
- - [https://meta.stackexchange.com](https://meta.stackexchange.com)
- - date published: 2023-10-25T17:13:50.218460+00:00
- - user: None
- - tags: $tags
-
-## Movies & TV Stack Exchange
- - [https://movies.stackexchange.com](https://movies.stackexchange.com)
- - date published: 2023-10-25T17:13:53.200178+00:00
- - user: None
- - tags: $tags
-
-## Physics Stack Exchange
- - [https://physics.stackexchange.com](https://physics.stackexchange.com)
- - date published: 2023-10-25T17:13:56.651090+00:00
- - user: None
- - tags: $tags
-
-## Project Management Stack Exchange
- - [https://pm.stackexchange.com](https://pm.stackexchange.com)
- - date published: 2023-10-25T17:14:00.083237+00:00
- - user: None
- - tags: $tags
-
-## Proof Assistants Stack Exchange
- - [https://proofassistants.stackexchange.com](https://proofassistants.stackexchange.com)
- - date published: 2023-10-27T23:10:18.343496+00:00
- - user: None
- - tags: $tags
-
-## Puzzling Stack Exchange
- - [https://puzzling.stackexchange.com](https://puzzling.stackexchange.com)
- - date published: 2023-10-25T17:14:03.428352+00:00
- - user: None
- - tags: $tags
-
-## Retrocomputing Stack Exchange
- - [https://retrocomputing.stackexchange.com](https://retrocomputing.stackexchange.com)
- - date published: 2023-10-25T17:14:06.682774+00:00
- - user: None
- - tags: $tags
-
-## Computational Science Stack Exchange
- - [https://scicomp.stackexchange.com](https://scicomp.stackexchange.com)
- - date published: 2023-10-25T17:14:10.060152+00:00
- - user: None
- - tags: $tags
-
-## Information Security Stack Exchange
- - [https://security.stackexchange.com](https://security.stackexchange.com)
- - date published: 2023-10-25T17:14:13.452807+00:00
- - user: None
- - tags: $tags
-
-## Skeptics Stack Exchange
- - [https://skeptics.stackexchange.com](https://skeptics.stackexchange.com)
- - date published: 2023-10-25T17:14:16.355135+00:00
- - user: None
- - tags: $tags
-
-## Software Engineering Stack Exchange
- - [https://softwareengineering.stackexchange.com](https://softwareengineering.stackexchange.com)
- - date published: 2023-10-25T17:14:19.605475+00:00
- - user: None
- - tags: $tags
-
-## Substrate and Polkadot Stack Exchange
- - [https://substrate.stackexchange.com](https://substrate.stackexchange.com)
- - date published: 2023-10-25T17:14:27.990996+00:00
- - user: None
- - tags: $tags
-
-## Travel Stack Exchange
- - [https://travel.stackexchange.com](https://travel.stackexchange.com)
- - date published: 2023-10-25T17:14:31.765614+00:00
- - user: None
- - tags: $tags
-
-## Unix & Linux Stack Exchange
- - [https://unix.stackexchange.com](https://unix.stackexchange.com)
- - date published: 2023-10-25T17:14:39.830149+00:00
- - user: None
- - tags: $tags
-
-## The Workplace Stack Exchange
- - [https://workplace.stackexchange.com](https://workplace.stackexchange.com)
- - date published: 2023-10-25T17:14:43.195803+00:00
- - user: None
- - tags: $tags
-
-## Meta Stack Overflow
- - [https://meta.stackoverflow.com](https://meta.stackoverflow.com)
- - date published: 2023-10-25T17:14:47.678996+00:00
- - user: None
- - tags: $tags
-
-## Stack Overflow - Where Developers Learn, Share, & Build Careers
- - [https://stackoverflow.com](https://stackoverflow.com)
- - date published: 2023-10-24T20:16:48.479485+00:00
- - user: None
- - tags: ['social platform']
-
-## Stack Overflowed - Where Developers Vent
- - [https://stackoverflowed.com](https://stackoverflowed.com)
- - date published: 2023-10-25T17:14:48.341607+00:00
- - user: None
- - tags: $tags
-
-## Krizmi
- - [https://www.stadai.com](https://www.stadai.com)
- - date published: 2023-10-25T17:14:49.261880+00:00
- - user: None
- - tags: $tags
-
-## Community - Stadia Community
- - [https://community.stadia.com](https://community.stadia.com)
- - date published: 2023-10-25T17:14:53.188546+00:00
- - user: None
- - tags: $tags
-
-## Cloud Dosage - Cloud Gaming News, Stats and Community
- - [https://stadiadosage.com](https://stadiadosage.com)
- - date published: 2023-10-25T17:15:02.831617+00:00
- - user: None
- - tags: $tags
-
-## Staggering Beauty
- - [http://www.staggeringbeauty.com](http://www.staggeringbeauty.com)
- - date published: 2023-10-27T10:52:14.870047+00:00
- - user: None
- - tags: ['wtf']
-
-## Stairways Software: Excellence In Software – Only with a Mac
- - [https://www.stairways.com](https://www.stairways.com)
- - date published: 2023-10-26T06:39:49.777154+00:00
- - user: None
- - tags: $tags
-
-## André Staltz
- - [https://staltz.com](https://staltz.com)
- - date published: 2023-10-25T08:47:54.035732+00:00
- - user: None
- - tags: $tags
-
-## Stamen | Data Visualization Design Agency & Cartography Firm
- - [https://stamen.com](https://stamen.com)
- - date published: 2023-10-25T17:15:09.970317+00:00
- - user: None
- - tags: $tags
-
-## Decrypted | Standard Notes
- - [https://blog.standardnotes.com](https://blog.standardnotes.com)
- - date published: 2023-10-25T17:15:17.057873+00:00
- - user: None
- - tags: $tags
-
-## Standard Notes | End-To-End Encrypted Notes App
- - [https://standardnotes.com](https://standardnotes.com)
- - date published: 2023-10-25T17:15:18.077449+00:00
- - user: None
- - tags: $tags
-
-## The Stanley Parable: Ultra Deluxe
- - [https://www.stanleyparable.com](https://www.stanleyparable.com)
- - date published: 2023-10-27T11:52:46.954868+00:00
- - user: None
- - tags: ['game']
-
-## Travel Trailers & Fifth Wheels - Camping Made Simple | Starcraft RV
- - [https://starcraftrv.com](https://starcraftrv.com)
- - date published: 2023-10-25T11:45:04.160648+00:00
- - user: None
- - tags: $tags
-
-## Homepage | Starweld by Starcraft Fishing Boats
- - [https://www.starcraftstarweld.com](https://www.starcraftstarweld.com)
- - date published: 2023-10-25T11:45:01.357309+00:00
- - user: None
- - tags: $tags
-
-## Starfish & Coffee Official Merchandise
- - [https://www.starfishandcoffeeofficial.com](https://www.starfishandcoffeeofficial.com)
- - date published: 2023-10-25T17:15:25.182161+00:00
- - user: None
- - tags: $tags
-
-## 首页
- - [https://www.starfivetech.com](https://www.starfivetech.com)
- - date published: 2023-10-25T17:15:27.917895+00:00
- - user: None
- - tags: $tags
-
-## Home - Starlink - Direct to Cell
- - [https://direct.starlink.com](https://direct.starlink.com)
- - date published: 2023-10-25T17:15:29.991528+00:00
- - user: None
- - tags: $tags
-
-## Starlink
- - [https://www.starlink.com](https://www.starlink.com)
- - date published: 2023-10-27T13:17:14.300712+00:00
- - user: None
- - tags: $tags
-
-## Start a Fucking Blog
- - [https://startafuckingblog.com](https://startafuckingblog.com)
- - date published: 2023-10-25T17:15:30.754300+00:00
- - user: None
- - tags: $tags
-
-## Starter Story: Learn How People Are Starting Successful Businesses
- - [https://www.starterstory.com](https://www.starterstory.com)
- - date published: 2023-10-25T17:15:33.599452+00:00
- - user: None
- - tags: $tags
-
-## StarterTab
- - [http://startertab.com](http://startertab.com)
- - date published: 2023-10-25T17:15:34.417654+00:00
- - user: None
- - tags: $tags
-
-## Startpage - Private Search Engine. No Tracking. No Search History.
- - [https://www.startpage.com](https://www.startpage.com)
- - date published: 2023-10-30T12:57:24.455062+00:00
- - user: None
- - tags: ['search engine']
-
-## Star Trek | Official Site
- - [https://www.startrek.com](https://www.startrek.com)
- - date published: 2023-10-25T14:10:12.970610+00:00
- - user: None
- - tags: $tags
-
-## Latest Minnesota news, weather, and sports.
- - [https://www.startribune.com](https://www.startribune.com)
- - date published: 2023-10-25T17:15:40.882414+00:00
- - user: None
- - tags: $tags
-
-## Good Neighbor Stories
- - [https://newsroom.statefarm.com](https://newsroom.statefarm.com)
- - date published: 2023-10-25T17:15:42.417830+00:00
- - user: None
- - tags: $tags
-
-## State of JavaScript 2022
- - [https://2022.stateofjs.com](https://2022.stateofjs.com)
- - date published: 2023-10-25T17:15:45.689391+00:00
- - user: None
- - tags: $tags
-
-## Asset Manager | State Street
- - [https://www.statestreet.com](https://www.statestreet.com)
- - date published: 2023-10-25T16:16:42.971262+00:00
- - user: None
- - tags: $tags
-
-## Statista - The Statistics Portal for Market Data, Market Research and Market Studies
- - [https://www.statista.com](https://www.statista.com)
- - date published: 2023-10-25T17:15:49.586308+00:00
- - user: None
- - tags: $tags
-
-## Home - Statistically Relevant
- - [https://statisticallyrelevant.com](https://statisticallyrelevant.com)
- - date published: 2023-10-25T17:15:58.229909+00:00
- - user: None
- - tags: $tags
-
-## STAT - Reporting from the frontiers of health and medicine
- - [https://www.statnews.com](https://www.statnews.com)
- - date published: 2023-10-25T10:46:15.019573+00:00
- - user: None
- - tags: $tags
-
-## Stats, Maps n Pix
- - [https://www.statsmapsnpix.com](https://www.statsmapsnpix.com)
- - date published: 2023-10-25T17:16:02.812082+00:00
- - user: None
- - tags: $tags
-
-## Stay SaaSy | Keeping it SaaSy
- - [https://staysaasy.com](https://staysaasy.com)
- - date published: 2023-10-25T17:16:04.075504+00:00
- - user: None
- - tags: $tags
-
-## https://www.steadipulse.com
- - [https://www.steadipulse.com](https://www.steadipulse.com)
- - date published: 2023-10-25T17:16:04.897773+00:00
- - user: None
- - tags: $tags
-
-## Steam Deck
- - [https://www.steamdeck.com](https://www.steamdeck.com)
- - date published: 2023-10-27T12:54:20.650329+00:00
- - user: None
- - tags: ['product']
-
-## Steam Store
- - [https://store.steampowered.com](https://store.steampowered.com)
- - date published: 2023-10-24T20:12:11.678324+00:00
- - user: None
- - tags: ['game store', 'gatekeeper']
-
-## Steamship
- - [https://www.steamship.com](https://www.steamship.com)
- - date published: 2023-10-25T17:16:11.048919+00:00
- - user: None
- - tags: $tags
-
-## http://cdn.cloudflare.steamstatic.com
- - [http://cdn.cloudflare.steamstatic.com](http://cdn.cloudflare.steamstatic.com)
- - date published: 2023-10-25T17:16:11.248521+00:00
- - user: None
- - tags: $tags
-
-## Simplified EDI, now with flat pricing - Stedi
- - [https://www.stedi.com](https://www.stedi.com)
- - date published: 2023-10-25T17:16:12.750079+00:00
- - user: None
- - tags: $tags
-
-## Steemit
- - [https://steemit.com](https://steemit.com)
- - date published: 2023-10-25T17:16:19.491738+00:00
- - user: None
- - tags: $tags
-
-## Stefan Abi-Karam
- - [https://stefanabikaram.com](https://stefanabikaram.com)
- - date published: 2023-10-25T17:16:20.232528+00:00
- - user: None
- - tags: $tags
-
-## Developer, writer and speaker | Stefan Judis Web Development
- - [https://www.stefanjudis.com](https://www.stefanjudis.com)
- - date published: 2023-10-25T17:16:21.789433+00:00
- - user: None
- - tags: $tags
-
-## steipete's blog
- - [https://steipete.com](https://steipete.com)
- - date published: 2023-10-25T17:16:23.057157+00:00
- - user: None
- - tags: $tags
-
-## Steno Research - The Independent Macro Research Platform
- - [https://stenoresearch.com](https://stenoresearch.com)
- - date published: 2023-10-25T17:16:30.954448+00:00
- - user: None
- - tags: $tags
-
-## Step CI Documentation | Step CI Docs
- - [https://docs.stepci.com](https://docs.stepci.com)
- - date published: 2023-10-25T17:16:32.298822+00:00
- - user: None
- - tags: $tags
-
-## Step CI — Open-source API Test Automation
- - [https://stepci.com](https://stepci.com)
- - date published: 2023-10-25T17:16:34.681107+00:00
- - user: None
- - tags: $tags
-
-## Steph Ango
- - [https://stephanango.com](https://stephanango.com)
- - date published: 2023-10-25T17:16:36.144916+00:00
- - user: None
- - tags: $tags
-
-## Steph Ango
- - [https://stephango.com](https://stephango.com)
- - date published: 2023-10-25T17:16:37.377748+00:00
- - user: None
- - tags: $tags
-
-## Stephanie Stimac
- - [https://stephaniestimac.com](https://stephaniestimac.com)
- - date published: 2023-10-25T09:21:09.810001+00:00
- - user: None
- - tags: $tags
-
-## Home
- - [https://www.stephendiehl.com](https://www.stephendiehl.com)
- - date published: 2023-10-25T17:16:38.851876+00:00
- - user: None
- - tags: $tags
-
-## Stephen Marz: Blog
- - [https://osblog.stephenmarz.com](https://osblog.stephenmarz.com)
- - date published: 2023-10-25T17:16:40.260176+00:00
  - user: None
  - tags: $tags
 

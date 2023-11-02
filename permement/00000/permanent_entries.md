@@ -22,6 +22,12 @@
  - user: None
  - tags: $tags
 
+## Sort: Supercharged collaboration for your database
+ - [https://sort.xyz.](https://sort.xyz.)
+ - date published: 2023-11-01T23:07:07.991006+00:00
+ - user: None
+ - tags: $tags
+
 ## Kern Type
  - [https://type.method.ac](https://type.method.ac)
  - date published: 2023-10-25T08:31:02.163535+00:00
@@ -62,7 +68,7 @@
  - [https://predr.ag](https://predr.ag)
  - date published: 2023-10-25T08:41:22.336448+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Website Design Services | Fractalmax Agency
  - [https://www.fractalmax.agency](https://www.fractalmax.agency)
@@ -170,7 +176,7 @@
  - [https://catgirl.ai](https://catgirl.ai)
  - date published: 2023-10-25T09:25:20.588228+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## ChainForge: A visual programming environment for prompt engineering
  - [https://chainforge.ai](https://chainforge.ai)
@@ -430,6 +436,12 @@
  - user: None
  - tags: $tags
 
+## Show HN: Clone someone and talk to them like in real life
+ - [https://gptclone.ai](https://gptclone.ai)
+ - date published: 2023-11-01T01:18:44+00:00
+ - user: None
+ - tags: $tags
+
 ## GPUX
  - [https://gpux.ai](https://gpux.ai)
  - date published: 2023-10-25T11:39:08.196097+00:00
@@ -494,7 +506,7 @@
  - [https://islamov.ai](https://islamov.ai)
  - date published: 2023-10-25T09:01:03.717603+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Jina AI - Your Portal to Multimodal AI
  - [https://jina.ai](https://jina.ai)
@@ -518,7 +530,7 @@
  - [https://karpathy.ai](https://karpathy.ai)
  - date published: 2023-10-25T08:41:25.837395+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Klavier AI
  - [https://klavier.ai](https://klavier.ai)
@@ -566,7 +578,7 @@
  - [https://lifearchitect.ai](https://lifearchitect.ai)
  - date published: 2023-10-25T08:41:31.295096+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Lightning AI
  - [https://lightning.ai](https://lightning.ai)
@@ -1070,7 +1082,7 @@
  - [https://ar.al](https://ar.al)
  - date published: 2023-10-25T08:41:38.253677+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## decomposition ∘ al
  - [https://decomposition.al](https://decomposition.al)
@@ -1088,7 +1100,7 @@
  - [https://jes.al](https://jes.al)
  - date published: 2023-10-25T09:01:04.989896+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Naval
  - [https://nav.al](https://nav.al)
@@ -1994,7 +2006,7 @@
  - [https://dotat.at](https://dotat.at)
  - date published: 2023-10-25T09:07:46.063856+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## en|crypted.at – Private tech and tutorial blog
  - [https://www.encrypted.at](https://www.encrypted.at)
@@ -2018,7 +2030,7 @@
  - [https://karl-voit.at](https://karl-voit.at)
  - date published: 2023-10-25T09:07:49.887813+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## mass:werk <home>
  - [https://www.masswerk.at](https://www.masswerk.at)
@@ -2030,13 +2042,13 @@
  - [https://www.matuzo.at](https://www.matuzo.at)
  - date published: 2023-10-25T08:57:51.245566+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Home Page of Markus Triska
  - [https://www.metalevel.at](https://www.metalevel.at)
  - date published: 2023-10-25T09:07:52.175776+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Objective Development
  - [https://obdev.at](https://obdev.at)
@@ -2060,7 +2072,7 @@
  - [https://thenumb.at](https://thenumb.at)
  - date published: 2023-10-25T09:01:05.992187+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## selfie
  - [https://selfie.cs.uni-salzburg.at](https://selfie.cs.uni-salzburg.at)
@@ -2078,13 +2090,13 @@
  - [https://ruscur.au](https://ruscur.au)
  - date published: 2023-10-25T09:01:09.096657+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Whistlr
  - [https://samthor.au](https://samthor.au)
  - date published: 2023-10-25T09:01:10.088810+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Australian Associated Press – AAP is Australia's national news agency, delivering a continuous stream of breaking news, information and photographs direct to subscribers.
  - [https://www.aap.com.au](https://www.aap.com.au)
@@ -2203,6 +2215,12 @@
 ## Tabletop Games | Board Games in Australia – Tabletop Games Pty Ltd
  - [https://tabletopgames.com.au](https://tabletopgames.com.au)
  - date published: 2023-10-25T11:11:07.596236+00:00
+ - user: None
+ - tags: $tags
+
+## Latest & Breaking News Melbourne, Victoria | The Age
+ - [https://www.theage.com.au](https://www.theage.com.au)
+ - date published: 2023-11-02T00:30:23.542079+00:00
  - user: None
  - tags: $tags
 
@@ -2342,7 +2360,7 @@
  - [https://emily.id.au](https://emily.id.au)
  - date published: 2023-10-25T09:07:53.316523+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## ABC (Australian Broadcasting Corporation)
  - [https://www.abc.net.au](https://www.abc.net.au)
@@ -2354,7 +2372,7 @@
  - [https://fy.blackhats.net.au](https://fy.blackhats.net.au)
  - date published: 2023-10-25T09:01:15.316197+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The Australia Institute's Centre for Future Work
  - [https://futurework.org.au](https://futurework.org.au)
@@ -2396,7 +2414,7 @@
  - [https://stan.bar](https://stan.bar)
  - date published: 2023-10-25T08:42:23.420600+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## BBC Mastodon
  - [https://social.bbc](https://social.bbc)
@@ -2468,7 +2486,7 @@
  - [https://mouha.be](https://mouha.be)
  - date published: 2023-10-25T08:42:30.629043+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## There oughta be…
  - [https://there.oughta.be](https://there.oughta.be)
@@ -2480,7 +2498,7 @@
  - [https://ma.ttias.be](https://ma.ttias.be)
  - date published: 2023-10-25T08:42:40.398770+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Zeus WPI | Werkgroep Informatica van de Universiteit Gent
  - [https://zeus.ugent.be](https://zeus.ugent.be)
@@ -2522,7 +2540,7 @@
  - [https://ibob.bg](https://ibob.bg)
  - date published: 2023-10-25T09:01:22.391586+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Actionable Analytics for Growth teams | Narrative BI
  - [https://www.narrative.bi](https://www.narrative.bi)
@@ -2564,13 +2582,13 @@
  - [https://adamnash.blog](https://adamnash.blog)
  - date published: 2023-10-25T09:01:28.320767+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## alistair smith • blog
  - [https://alistair.blog](https://alistair.blog)
  - date published: 2023-10-25T09:01:30.775423+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Alternative Friday Factorio Fan Facts
  - [https://alt-f4.blog](https://alt-f4.blog)
@@ -2588,7 +2606,7 @@
  - [https://bb-i.blog](https://bb-i.blog)
  - date published: 2023-10-25T09:01:38.298843+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## beep.blog
  - [https://www.beep.blog](https://www.beep.blog)
@@ -2606,7 +2624,7 @@
  - [https://cmart.blog](https://cmart.blog)
  - date published: 2023-10-25T09:01:40.133698+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## codingkaiser.blog
  - [http://codingkaiser.blog](http://codingkaiser.blog)
@@ -2630,7 +2648,7 @@
  - [https://www.ctrl.blog](https://www.ctrl.blog)
  - date published: 2023-10-25T09:01:41.317387+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Disconnect | Paris Marx | Substack
  - [https://www.disconnect.blog](https://www.disconnect.blog)
@@ -2662,6 +2680,13 @@
  - user: None
  - tags: $tags
 
+## Home
+ | eval.blog
+ - [https://eval.blog](https://eval.blog)
+ - date published: 2023-11-01T08:41:26.691929+00:00
+ - user: None
+ - tags: $tags
+
 ## The Firebase Blog
  - [https://firebase.blog](https://firebase.blog)
  - date published: 2023-10-25T12:00:17.338871+00:00
@@ -2678,7 +2703,7 @@
  - [https://garry.blog](https://garry.blog)
  - date published: 2023-10-25T09:01:42.242618+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.
  - [https://github.blog](https://github.blog)
@@ -2696,13 +2721,13 @@
  - [https://handwritten.blog](https://handwritten.blog)
  - date published: 2023-10-25T09:01:43.570784+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## To Be Determined
  - [https://locationtbd.home.blog](https://locationtbd.home.blog)
  - date published: 2023-10-25T09:01:46.793235+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Hypersphere
  - [https://hypersphere.blog](https://hypersphere.blog)
@@ -2726,13 +2751,13 @@
  - [https://jamesg.blog](https://jamesg.blog)
  - date published: 2023-10-25T08:42:49.809384+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Jeff Wilcox
  - [https://jeffwilcox.blog](https://jeffwilcox.blog)
  - date published: 2023-10-25T09:25:21.956648+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Web-focused software development - kimmo.blog
  - [https://kimmo.blog](https://kimmo.blog)
@@ -2762,19 +2787,19 @@
  - [https://mckayla.blog](https://mckayla.blog)
  - date published: 2023-10-25T09:01:48.490146+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## mmap(blog)
  - [https://mmapped.blog](https://mmapped.blog)
  - date published: 2023-10-25T09:25:23.417879+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Neil Madden
  - [https://neilmadden.blog](https://neilmadden.blog)
  - date published: 2023-10-25T09:01:51.726758+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Nicheless | Think. Write away.
  - [https://nicheless.blog](https://nicheless.blog)
@@ -2792,7 +2817,7 @@
  - [https://paperless.blog](https://paperless.blog)
  - date published: 2023-10-25T08:57:53.071595+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Pixelfed Blog
  - [https://pixelfed.blog](https://pixelfed.blog)
@@ -2828,7 +2853,7 @@
  - [https://seths.blog](https://seths.blog)
  - date published: 2023-10-25T09:01:55.034633+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Smarter.Blog Newsletter | Mahesh | Substack
  - [https://newsletter.smarter.blog](https://newsletter.smarter.blog)
@@ -2864,13 +2889,13 @@
  - [https://thetechtrailblazer.blog](https://thetechtrailblazer.blog)
  - date published: 2023-10-25T09:01:58.683638+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The Blog of Author Tim Ferriss
  - [https://tim.blog](https://tim.blog)
  - date published: 2023-10-25T09:02:05.192967+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## twdev.blog
  - [https://twdev.blog](https://twdev.blog)
@@ -2888,7 +2913,7 @@
  - [https://www.yieldcode.blog](https://www.yieldcode.blog)
  - date published: 2023-10-25T09:02:08.513966+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Matt Steele
  - [https://steele.blue](https://steele.blue)
@@ -2960,13 +2985,13 @@
  - [https://alestsurko.by](https://alestsurko.by)
  - date published: 2023-10-25T09:02:09.768428+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## George's Home Page
  - [http://48k.ca](http://48k.ca)
  - date published: 2023-10-25T09:02:15.320332+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The Call of the Open Sidewalk [The Call of the Open Sidewalk]
  - [https://articles.59.ca](https://articles.59.ca)
@@ -2984,7 +3009,7 @@
  - [https://alantrick.ca](https://alantrick.ca)
  - date published: 2023-10-25T08:42:53.134691+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Alberta Machine Intelligence Institute | AI for good and for all
  - [https://www.amii.ca](https://www.amii.ca)
@@ -3098,7 +3123,7 @@
  - [https://dgross.ca](https://dgross.ca)
  - date published: 2023-10-25T09:02:15.935166+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## eContact!
  - [https://econtact.ca](https://econtact.ca)
@@ -3122,19 +3147,19 @@
  - [https://finbarr.ca](https://finbarr.ca)
  - date published: 2023-10-25T08:42:53.636850+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## froghat.ca
  - [https://froghat.ca](https://froghat.ca)
  - date published: 2023-10-25T09:02:17.770370+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Tim Gadanidis - Home
  - [https://gadanidis.ca](https://gadanidis.ca)
  - date published: 2023-10-25T08:42:54.581662+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Global News | Breaking, Latest News and Video for Canada
  - [https://globalnews.ca](https://globalnews.ca)
@@ -3152,19 +3177,19 @@
  - [http://www.gotw.ca](http://www.gotw.ca)
  - date published: 2023-10-25T08:42:56.028814+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## hypatia dot ca – Leigh Honeywell's Blog
  - [https://hypatia.ca](https://hypatia.ca)
  - date published: 2023-10-25T09:25:27.291271+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Ibraheem Ahmed
  - [https://ibraheem.ca](https://ibraheem.ca)
  - date published: 2023-10-25T08:42:56.661128+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Interrupt Labs
  - [https://interruptlabs.ca](https://interruptlabs.ca)
@@ -3176,7 +3201,7 @@
  - [https://ivanish.ca](https://ivanish.ca)
  - date published: 2023-10-25T08:42:57.754586+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## JonLuca’s Blog | JonLuca’s Blog - A blog about tech, programming, and finance
  - [https://blog.jonlu.ca](https://blog.jonlu.ca)
@@ -3188,25 +3213,25 @@
  - [https://jrhawley.ca](https://jrhawley.ca)
  - date published: 2023-10-25T08:42:58.953735+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## https://justinjackson.ca
  - [https://justinjackson.ca](https://justinjackson.ca)
  - date published: 2023-10-25T09:02:24.126240+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Julia Evans
  - [https://jvns.ca](https://jvns.ca)
  - date published: 2023-10-25T09:02:41.915700+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Kevin Cox
  - [https://kevincox.ca](https://kevincox.ca)
  - date published: 2023-10-25T08:42:59.460120+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## @luqman
  - [https://luqman.ca](https://luqman.ca)
@@ -3236,7 +3261,7 @@
  - [http://madrona.ca](http://madrona.ca)
  - date published: 2023-10-25T08:43:01.127813+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## McGill School Of Computer Science
  - [https://www.cs.mcgill.ca](https://www.cs.mcgill.ca)
@@ -3266,13 +3291,13 @@
  - [https://mina.naguib.ca](https://mina.naguib.ca)
  - date published: 2023-10-25T09:02:42.738096+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Noah Bailey
  - [https://nbailey.ca](https://nbailey.ca)
  - date published: 2023-10-25T09:02:43.574973+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Personal Banking Solutions | National Bank
  - [https://www.nbc.ca](https://www.nbc.ca)
@@ -3296,13 +3321,13 @@
  - [https://blog.peterzhu.ca](https://blog.peterzhu.ca)
  - date published: 2023-10-25T09:02:44.361368+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Paul Khuong: some Lisp
  - [https://pvk.ca](https://pvk.ca)
  - date published: 2023-10-25T09:02:45.102005+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Quantum | Quantum’s (a.k.a. Guanzhong Chen) blog about coding, security, and other computer technology.
  - [https://quantum5.ca](https://quantum5.ca)
@@ -3314,7 +3339,7 @@
  - [https://schroer.ca](https://schroer.ca)
  - date published: 2023-10-25T09:02:45.716038+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The Second Egress: Building a Code Change
  - [https://secondegress.ca](https://secondegress.ca)
@@ -3350,7 +3375,7 @@
  - [https://snarky.ca](https://snarky.ca)
  - date published: 2023-10-25T09:25:28.864660+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Emanote
  - [https://emanote.srid.ca](https://emanote.srid.ca)
@@ -3398,7 +3423,7 @@
  - [https://thume.ca](https://thume.ca)
  - date published: 2023-10-25T08:43:07.236288+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Department of Electrical, Computer, & Biomedical Engineering - Toronto Metropolitan University
  - [https://www.ecb.torontomu.ca](https://www.ecb.torontomu.ca)
@@ -3482,13 +3507,13 @@
  - [https://varun.ca](https://varun.ca)
  - date published: 2023-10-25T09:02:48.656185+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Vitalik Buterin's website
  - [https://vitalik.ca](https://vitalik.ca)
  - date published: 2023-10-25T09:03:03.847296+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Women of Influence –
  - [https://www.womenofinfluence.ca](https://www.womenofinfluence.ca)
@@ -3524,7 +3549,7 @@
  - [https://owen.cafe](https://owen.cafe)
  - date published: 2023-10-25T08:43:10.163631+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## OpenBSD webzine homepage
  - [https://webzine.puffy.cafe](https://webzine.puffy.cafe)
@@ -3656,7 +3681,7 @@
  - [https://mako.cc](https://mako.cc)
  - date published: 2023-10-25T09:03:06.147739+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Karmanyaah Malhotra
  - [https://karmanyaah.malhotra.cc](https://karmanyaah.malhotra.cc)
@@ -3687,7 +3712,7 @@
  - [https://pickard.cc](https://pickard.cc)
  - date published: 2023-10-25T08:43:16.329645+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Postimages — free image hosting / image upload
  - [https://postimg.cc](https://postimg.cc)
@@ -3813,7 +3838,7 @@
  - [https://vincent.bernat.ch](https://vincent.bernat.ch)
  - date published: 2023-10-25T08:43:17.908139+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## CernVM
  - [https://cernvm.cern.ch](https://cernvm.cern.ch)
@@ -3849,7 +3874,7 @@
  - [https://dugas.ch](https://dugas.ch)
  - date published: 2023-10-25T09:03:06.949619+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Home - European Journalism Observatory - EJO
  - [https://en.ejo.ch](https://en.ejo.ch)
@@ -3885,7 +3910,7 @@
  - [https://www.fabiocrameri.ch](https://www.fabiocrameri.ch)
  - date published: 2023-10-25T09:03:08.833901+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Scanalyst - Fourmilab Forum: SCANALYZER and more
  - [https://scanalyst.fourmilab.ch](https://scanalyst.fourmilab.ch)
@@ -3897,13 +3922,13 @@
  - [https://blog.frankel.ch](https://blog.frankel.ch)
  - date published: 2023-10-25T09:03:10.100142+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## GalaSoft Laurent Bugnion - On Azure
  - [https://galasoft.ch](https://galasoft.ch)
  - date published: 2023-10-25T09:03:11.978072+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## galaxus.ch – fast alles für fast jede*n
  - [https://www.galaxus.ch](https://www.galaxus.ch)
@@ -3915,13 +3940,13 @@
  - [https://ionathan.ch](https://ionathan.ch)
  - date published: 2023-10-25T09:03:13.206809+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Pasar Jalan Petaling
  - [https://www.maurits.ch](https://www.maurits.ch)
  - date published: 2023-10-25T08:43:18.862210+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## NZZ – Neue Zürcher Zeitung | Aktuelle News, Hintergründe & mehr
  - [https://www.nzz.ch](https://www.nzz.ch)
@@ -3951,7 +3976,7 @@
  - [https://michael.stapelberg.ch](https://michael.stapelberg.ch)
  - date published: 2023-10-25T09:03:20.383919+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Switzerland - News and perspectives - SWI swissinfo.ch
  - [https://www.swissinfo.ch](https://www.swissinfo.ch)
@@ -4067,6 +4092,12 @@
  - user: None
  - tags: $tags
 
+## Bits and Cloud
+ - [https://www.bitsand.cloud](https://www.bitsand.cloud)
+ - date published: 2023-11-01T08:41:28.256638+00:00
+ - user: None
+ - tags: $tags
+
 ## Datasette Cloud
  - [https://www.datasette.cloud](https://www.datasette.cloud)
  - date published: 2023-10-25T12:15:18.435087+00:00
@@ -4142,6 +4173,12 @@
 ## carhenge.club
  - [https://carhenge.club](https://carhenge.club)
  - date published: 2023-10-25T12:15:54.088553+00:00
+ - user: None
+ - tags: $tags
+
+## GlyphDrawing.Club -blog
+ - [https://blog.glyphdrawing.club](https://blog.glyphdrawing.club)
+ - date published: 2023-11-01T08:41:29.882135+00:00
  - user: None
  - tags: $tags
 
@@ -4239,7 +4276,7 @@
  - [https://www.alexcharlton.co](https://www.alexcharlton.co)
  - date published: 2023-10-25T08:43:20.426465+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Analogue
  - [https://www.analogue.co](https://www.analogue.co)
@@ -4317,7 +4354,7 @@
  - [https://blog.charliemeyer.co](https://blog.charliemeyer.co)
  - date published: 2023-10-25T09:25:30.556146+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Chartr - Subscribe
  - [https://www.chartr.co](https://www.chartr.co)
@@ -4437,19 +4474,19 @@
  - [https://www.izzy.co](https://www.izzy.co)
  - date published: 2023-10-25T08:43:21.263927+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Jose M.
  - [https://josem.co](https://josem.co)
  - date published: 2023-10-25T09:03:21.010231+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Kevin Chung
  - [https://blog.kchung.co](https://blog.kchung.co)
  - date published: 2023-10-25T09:07:54.432482+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Ketan Joshi – Climate and energy, words and pictures
  - [https://ketanjoshi.co](https://ketanjoshi.co)
@@ -4637,6 +4674,12 @@
  - user: None
  - tags: $tags
 
+## Prospective
+ - [https://prospective.co](https://prospective.co)
+ - date published: 2023-11-01T17:24:22.525282+00:00
+ - user: None
+ - tags: $tags
+
 ## Psyche | on the human condition
  - [https://psyche.co](https://psyche.co)
  - date published: 2023-10-25T12:21:50.754555+00:00
@@ -4652,6 +4695,12 @@
 ## RankedVote: Online Ranked-Choice Voting Polls
  - [https://www.rankedvote.co](https://www.rankedvote.co)
  - date published: 2023-10-25T12:22:03.760424+00:00
+ - user: None
+ - tags: $tags
+
+## reddit
+ - [http://www.reddit.co](http://www.reddit.co)
+ - date published: 2023-11-01T02:23:42.836195+00:00
  - user: None
  - tags: $tags
 
@@ -4671,7 +4720,7 @@
  - [https://rtpg.co](https://rtpg.co)
  - date published: 2023-10-25T09:03:23.998136+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Consumer Surplus | Sam Bowman | Substack
  - [https://www.sambowman.co](https://www.sambowman.co)
@@ -4683,7 +4732,7 @@
  - [https://shubhamjain.co](https://shubhamjain.co)
  - date published: 2023-10-25T09:07:56.781772+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## SkyPilot Blog
  - [https://blog.skypilot.co](https://blog.skypilot.co)
@@ -4785,13 +4834,13 @@
  - [https://thomaspark.co](https://thomaspark.co)
  - date published: 2023-10-25T09:03:30.252211+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Tim Ruffles' blog
  - [https://www.timr.co](https://www.timr.co)
  - date published: 2023-10-25T09:03:35.521288+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Tinybird · The Way to build Real-time Data Products
  - [https://www.tinybird.co](https://www.tinybird.co)
@@ -4875,25 +4924,25 @@
  - [https://aj.codes](https://aj.codes)
  - date published: 2023-10-25T09:07:57.863652+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## aleksandra.codes
  - [https://www.aleksandra.codes](https://www.aleksandra.codes)
  - date published: 2023-10-25T09:03:41.251041+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Bas codes
  - [https://bas.codes](https://bas.codes)
  - date published: 2023-10-25T08:43:47.558616+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Diego Vicente
  - [https://diego.codes](https://diego.codes)
  - date published: 2023-10-25T08:43:55.105962+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Dusted Codes
  - [https://dusted.codes](https://dusted.codes)
@@ -4905,49 +4954,49 @@
  - [https://maciej.codes](https://maciej.codes)
  - date published: 2023-10-25T09:03:46.761617+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Emmanuel Hayford
  - [https://manny.codes](https://manny.codes)
  - date published: 2023-10-25T09:03:51.081821+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Leonora Tindall | Nora Codes
  - [https://nora.codes](https://nora.codes)
  - date published: 2023-10-25T09:03:56.861895+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Qubyte Codes - About
  - [https://qubyte.codes](https://qubyte.codes)
  - date published: 2023-10-25T08:43:56.747901+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Rambo.codes | Gui Rambo writes about his coding and reverse engineering adventures. | Rambo Codes
  - [https://rambo.codes](https://rambo.codes)
  - date published: 2023-10-25T09:03:57.646840+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Day by Day - Rory Flint
  - [https://days.rory.codes](https://days.rory.codes)
  - date published: 2023-10-25T09:03:59.903891+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## solnic.codes
  - [https://solnic.codes](https://solnic.codes)
  - date published: 2023-10-25T08:44:02.393684+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Blog - Stargirl (Thea) Flowers
  - [https://blog.thea.codes](https://blog.thea.codes)
  - date published: 2023-10-25T09:04:01.639181+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## ERROR: The request could not be satisfied
  - [https://up.codes](https://up.codes)
@@ -4989,7 +5038,7 @@
  - [https://www.0x58ed.com](https://www.0x58ed.com)
  - date published: 2023-10-25T09:04:02.768854+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## 1991
  - [https://www.1-9-9-1.com](https://www.1-9-9-1.com)
@@ -5025,7 +5074,7 @@
  - [https://1299651405.com](https://1299651405.com)
  - date published: 2023-10-25T09:04:03.821322+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## WTVG | 13Action News, Local News and Weather
  - [https://www.13abc.com](https://www.13abc.com)
@@ -5265,13 +5314,13 @@
  - [https://blog.aadilali.com](https://blog.aadilali.com)
  - date published: 2023-10-25T08:44:04.159881+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## LINQ to Fail
  - [https://www.aaron-powell.com](https://www.aaron-powell.com)
  - date published: 2023-10-25T08:57:54.880761+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## aaronbell.com | words about humans and tech.
  - [https://www.aaronbell.com](https://www.aaronbell.com)
@@ -5295,25 +5344,25 @@
  - [https://blog.aaronkharris.com](https://blog.aaronkharris.com)
  - date published: 2023-10-25T09:04:05.212716+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Aaron Harris
  - [https://www.aaronkharris.com](https://www.aaronkharris.com)
  - date published: 2023-10-25T09:04:06.682843+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Aaron Lou
  - [https://aaronlou.com](https://aaronlou.com)
  - date published: 2023-10-25T09:04:07.643972+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Aatish Bhatia
  - [https://aatishb.com](https://aatishb.com)
  - date published: 2023-10-25T09:04:13.761042+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## ABC13 Houston news, weather and traffic - Latest Texas news and weather
  - [https://abc13.com](https://abc13.com)
@@ -5345,6 +5394,12 @@
  - user: None
  - tags: $tags
 
+## ABC7 New York - NY News, Local News, Breaking News, Weather
+ - [https://abc7ny.com](https://abc7ny.com)
+ - date published: 2023-11-02T00:30:26.145061+00:00
+ - user: None
+ - tags: $tags
+
 ## Tampa Bay, Florida News and Weather | ABC Action News
  - [https://www.abcactionnews.com](https://www.abcactionnews.com)
  - date published: 2023-10-25T12:29:59.792652+00:00
@@ -5373,7 +5428,7 @@
  - [https://abhishekbanthia.com](https://abhishekbanthia.com)
  - date published: 2023-10-25T09:04:22.035223+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Creative tools for music makers | Ableton
  - [https://www.ableton.com](https://www.ableton.com)
@@ -5385,7 +5440,7 @@
  - [https://abnercoimbre.com](https://abnercoimbre.com)
  - date published: 2023-10-25T08:44:05.326397+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## About Amazon
  - [https://www.aboutamazon.com](https://www.aboutamazon.com)
@@ -5595,7 +5650,7 @@
  - [https://www.adityabaradwaj.com](https://www.adityabaradwaj.com)
  - date published: 2023-10-25T08:44:06.720224+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Home | Adiuvo Engineering
  - [https://www.adiuvoengineering.com](https://www.adiuvoengineering.com)
@@ -5633,6 +5688,12 @@
  - user: None
  - tags: $tags
 
+## Adobe: Creative, marketing and document management solutions
+ - [https://get.adobe.com](https://get.adobe.com)
+ - date published: 2023-11-01T06:20:20.809265+00:00
+ - user: None
+ - tags: $tags
+
 ## Adobe Help Center
  - [https://helpx.adobe.com](https://helpx.adobe.com)
  - date published: 2023-10-25T12:33:18.128561+00:00
@@ -5661,7 +5722,7 @@
  - [https://www.adobe.com](https://www.adobe.com)
  - date published: 2023-10-25T12:33:24.758155+00:00
  - user: None
- - tags: $tags
+ - tags: ['photoshop', 'company', 'acrobat reader']
 
 ## Adrian Preda Woodworks
  - [https://www.adrianpreda.com](https://www.adrianpreda.com)
@@ -5787,7 +5848,7 @@
  - [https://agraphicsguynotes.com](https://agraphicsguynotes.com)
  - date published: 2023-10-25T08:44:08.007635+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Successful Farming: Practical, Trusted Farming and Ranching Information
  - [https://www.agriculture.com](https://www.agriculture.com)
@@ -5930,66 +5991,6 @@
 ## Airways – A Global Review of Commercial Flight
  - [https://airwaysmag.com](https://airwaysmag.com)
  - date published: 2023-10-25T11:07:36.762016+00:00
- - user: None
- - tags: $tags
-
-## Airways Museum / Civil Aviation Historical Society
- - [https://www.airwaysmuseum.com](https://www.airwaysmuseum.com)
- - date published: 2023-10-25T12:36:49.815531+00:00
- - user: None
- - tags: $tags
-
-## AiSupervision - Operating system for factory production lines (YC W22)
- - [https://www.aisupervision.com](https://www.aisupervision.com)
- - date published: 2023-10-25T12:36:51.228430+00:00
- - user: None
- - tags: $tags
-
-## AGI Simulator
- - [https://agi.aitida.com](https://agi.aitida.com)
- - date published: 2023-10-25T12:36:52.507774+00:00
- - user: None
- - tags: $tags
-
-## AI Weirdness
- - [https://www.aiweirdness.com](https://www.aiweirdness.com)
- - date published: 2023-10-25T12:36:54.679172+00:00
- - user: None
- - tags: $tags
-
-## GDPR Support
- - [https://www.ajc.com](https://www.ajc.com)
- - date published: 2023-10-25T12:36:55.797670+00:00
- - user: None
- - tags: $tags
-
-## American Journal of Transportation | AJOT.COM
- - [https://www.ajot.com](https://www.ajot.com)
- - date published: 2023-10-25T10:35:31.781369+00:00
- - user: None
- - tags: $tags
-
-## Cloud Computing, Security, Content Delivery (CDN) | Akamai
- - [https://www.akamai.com](https://www.akamai.com)
- - date published: 2023-10-25T12:36:57.964483+00:00
- - user: None
- - tags: $tags
-
-## Akash Hamirwasia
- - [https://akashhamirwasia.com](https://akashhamirwasia.com)
- - date published: 2023-10-25T08:44:09.887696+00:00
- - user: None
- - tags: $tags
-
-## Home | Akash Rajpurohit
- - [https://akashrajpurohit.com](https://akashrajpurohit.com)
- - date published: 2023-10-25T12:36:59.463235+00:00
- - user: None
- - tags: $tags
-
-## Akiflow - Centralize your schedule
- - [https://akiflow.com](https://akiflow.com)
- - date published: 2023-10-25T12:37:07.042316+00:00
  - user: None
  - tags: $tags
 

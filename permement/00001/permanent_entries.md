@@ -1,3 +1,63 @@
+## AiSupervision - Operating system for factory production lines (YC W22)
+ - [https://www.aisupervision.com](https://www.aisupervision.com)
+ - date published: 2023-10-25T12:36:51.228430+00:00
+ - user: None
+ - tags: $tags
+
+## AGI Simulator
+ - [https://agi.aitida.com](https://agi.aitida.com)
+ - date published: 2023-10-25T12:36:52.507774+00:00
+ - user: None
+ - tags: $tags
+
+## AI Weirdness
+ - [https://www.aiweirdness.com](https://www.aiweirdness.com)
+ - date published: 2023-10-25T12:36:54.679172+00:00
+ - user: None
+ - tags: $tags
+
+## GDPR Support
+ - [https://www.ajc.com](https://www.ajc.com)
+ - date published: 2023-10-25T12:36:55.797670+00:00
+ - user: None
+ - tags: $tags
+
+## American Journal of Transportation | AJOT.COM
+ - [https://www.ajot.com](https://www.ajot.com)
+ - date published: 2023-10-25T10:35:31.781369+00:00
+ - user: None
+ - tags: $tags
+
+## Cloud Computing, Security, Content Delivery (CDN) | Akamai
+ - [https://www.akamai.com](https://www.akamai.com)
+ - date published: 2023-10-25T12:36:57.964483+00:00
+ - user: None
+ - tags: $tags
+
+## Akash Hamirwasia
+ - [https://akashhamirwasia.com](https://akashhamirwasia.com)
+ - date published: 2023-10-25T08:44:09.887696+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | Akash Rajpurohit
+ - [https://akashrajpurohit.com](https://akashrajpurohit.com)
+ - date published: 2023-10-25T12:36:59.463235+00:00
+ - user: None
+ - tags: $tags
+
+## Akiflow - Centralize your schedule
+ - [https://akiflow.com](https://akiflow.com)
+ - date published: 2023-10-25T12:37:07.042316+00:00
+ - user: None
+ - tags: $tags
+
+## Akita Software — the fastest and easiest way to understand your APIs.
+ - [https://www.akitasoftware.com](https://www.akitasoftware.com)
+ - date published: 2023-10-25T12:37:09.424295+00:00
+ - user: None
+ - tags: $tags
+
 ## Akshay's Blog
  - [https://www.akshaykhot.com](https://www.akshaykhot.com)
  - date published: 2023-10-25T12:37:10.359877+00:00
@@ -62,7 +122,7 @@
  - [https://alexcabal.com](https://alexcabal.com)
  - date published: 2023-10-25T09:04:23.166247+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Alex Crompton
  - [https://www.alexcrompton.com](https://www.alexcrompton.com)
@@ -98,13 +158,13 @@
  - [https://alexmeub.com](https://alexmeub.com)
  - date published: 2023-10-25T09:04:24.113928+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Alex Molas
  - [https://www.alexmolas.com](https://www.alexmolas.com)
  - date published: 2023-10-25T09:04:24.675550+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Web and mobile developer | Alex Plescan
  - [https://alexplescan.com](https://alexplescan.com)
@@ -218,13 +278,13 @@
  - [https://www.allencheng.com](https://www.allencheng.com)
  - date published: 2023-10-25T08:44:11.625237+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Allen Downey
  - [https://www.allendowney.com](https://www.allendowney.com)
  - date published: 2023-10-25T08:44:16.793723+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Allen Pike, pixel crafter
  - [https://allenpike.com](https://allenpike.com)
@@ -236,13 +296,13 @@
  - [https://www.allisongrayce.com](https://www.allisongrayce.com)
  - date published: 2023-10-25T09:04:25.699505+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Allison Seboldt
  - [https://allisonseboldt.com](https://allisonseboldt.com)
  - date published: 2023-10-25T08:44:20.992114+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## AllSides | Balanced news and media bias ratings. Unbiased news doesn't exist.
  - [https://www.allsides.com](https://www.allsides.com)
@@ -266,7 +326,7 @@
  - [https://almirvuk.com](https://almirvuk.com)
  - date published: 2023-10-25T09:04:27.439268+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Web Application Development in Brighton, UK | Alone On A Hill
  - [https://aloneonahill.com](https://aloneonahill.com)
@@ -326,7 +386,7 @@
  - [http://alvyray.com](http://alvyray.com)
  - date published: 2023-10-25T08:44:25.872695+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Amadeus Pagel's Newsletter | Substack
  - [https://amadeuspagel.com](https://amadeuspagel.com)
@@ -338,7 +398,7 @@
  - [https://amandapeyton.com](https://amandapeyton.com)
  - date published: 2023-10-25T08:44:26.814354+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Amarkdown | Markdown Editor
  - [https://amarkdown.com](https://amarkdown.com)
@@ -361,6 +421,12 @@
 ## http://docs.aws.amazon.com
  - [http://docs.aws.amazon.com](http://docs.aws.amazon.com)
  - date published: 2023-10-25T12:39:43.454998+00:00
+ - user: None
+ - tags: $tags
+
+## Amazon Kindle: Your free personal library you can take anywhere
+ - [https://read.amazon.com](https://read.amazon.com)
+ - date published: 2023-11-01T08:41:30.861997+00:00
  - user: None
  - tags: $tags
 
@@ -500,7 +566,7 @@
  - [https://www.amygoodchild.com](https://www.amygoodchild.com)
  - date published: 2023-10-25T09:04:30.562050+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Mixed-signal and digital signal processing ICs | Analog Devices
  - [https://www.analog.com](https://www.analog.com)
@@ -512,7 +578,7 @@
  - [https://www.analogmantra.com](https://www.analogmantra.com)
  - date published: 2023-10-25T09:04:32.622907+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## AnandTech: Hardware News and Tech Reviews Since 1997
  - [https://www.anandtech.com](https://www.anandtech.com)
@@ -542,13 +608,13 @@
  - [https://andreabergia.com](https://andreabergia.com)
  - date published: 2023-10-25T08:44:33.024628+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Andrea Leopardi
  - [https://andrealeopardi.com](https://andrealeopardi.com)
  - date published: 2023-10-25T09:04:34.468261+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Andrea Yip
  - [https://www.andrealyip.com](https://www.andrealyip.com)
@@ -560,7 +626,7 @@
  - [https://www.andreasfragner.com](https://www.andreasfragner.com)
  - date published: 2023-10-25T08:44:35.155156+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Andreas Kambanis
  - [https://andreaskambanis.com](https://andreaskambanis.com)
@@ -572,7 +638,7 @@
  - [https://andregarzia.com](https://andregarzia.com)
  - date published: 2023-10-25T09:04:40.841851+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Home
  - [https://andreisurugiu.com](https://andreisurugiu.com)
@@ -584,7 +650,7 @@
  - [https://andreizgirvaci.com](https://andreizgirvaci.com)
  - date published: 2023-10-25T09:04:48.009725+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## andrewchen
  - [https://andrewchen.com](https://andrewchen.com)
@@ -620,7 +686,7 @@
  - [https://andrewpillar.com](https://andrewpillar.com)
  - date published: 2023-10-25T09:04:51.025265+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Android | Do More With Google on Android Phones & Devices
  - [https://www.android.com](https://www.android.com)
@@ -682,6 +748,12 @@
  - user: None
  - tags: $tags
 
+## AngleLock Extruded Aluminum Framing | Beats T-Slots & Steel
+ - [https://anglelock.com](https://anglelock.com)
+ - date published: 2023-11-01T11:38:19.728459+00:00
+ - user: None
+ - tags: $tags
+
 ## Angry Reviewer - Academic style editor
  - [https://www.angryreviewer.com](https://www.angryreviewer.com)
  - date published: 2023-10-25T08:31:09.186019+00:00
@@ -698,7 +770,7 @@
  - [https://www.anildash.com](https://www.anildash.com)
  - date published: 2023-10-25T09:04:53.040594+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Animated Knots by Grog | Learn how to tie knots with step-by-step animation
  - [https://www.animatedknots.com](https://www.animatedknots.com)
@@ -758,7 +830,7 @@
  - [https://anotherangrywoman.com](https://anotherangrywoman.com)
  - date published: 2023-10-25T09:04:57.927341+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Answer Overflow - Search all of Discord
  - [https://www.answeroverflow.com](https://www.answeroverflow.com)
@@ -1052,7 +1124,7 @@
  - [https://shreevatsa.appspot.com](https://shreevatsa.appspot.com)
  - date published: 2023-10-25T08:44:35.714453+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Appuals
  - [https://appuals.com](https://appuals.com)
@@ -1094,7 +1166,7 @@
  - [https://www.arafattehsin.com](https://www.arafattehsin.com)
  - date published: 2023-10-25T09:05:04.114903+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Ultimate Scalable Graph Database: ArangoDB for Real-World Use Cases
  - [https://arangodb.com](https://arangodb.com)
@@ -1244,7 +1316,7 @@
  - [http://arielnorling.com](http://arielnorling.com)
  - date published: 2023-10-25T08:44:38.202749+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Ariyh | Thomas McKinlay | Substack
  - [https://tips.ariyh.com](https://tips.ariyh.com)
@@ -1306,6 +1378,12 @@
  - user: None
  - tags: $tags
 
+## Warhammer Miniature Painting Studio | Art-W Studio
+ - [https://www.artwstudio.com](https://www.artwstudio.com)
+ - date published: 2023-11-01T18:36:06.432842+00:00
+ - user: None
+ - tags: $tags
+
 ## Arun Prasad
  - [https://arunkprasad.com](https://arunkprasad.com)
  - date published: 2023-10-25T12:45:49.661197+00:00
@@ -1358,7 +1436,7 @@
  - [https://ashvardanian.com](https://ashvardanian.com)
  - date published: 2023-10-25T09:05:07.778656+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Asia Markets | Invest in Asia - Business & Finance News
  - [https://www.asiamarkets.com](https://www.asiamarkets.com)
@@ -1444,6 +1522,12 @@
  - user: None
  - tags: $tags
 
+## AstraZeneca - Research-Based BioPharmaceutical Company
+ - [https://www.astrazeneca.com](https://www.astrazeneca.com)
+ - date published: 2023-11-01T08:41:31.502444+00:00
+ - user: None
+ - tags: $tags
+
 ## AstroBin
  - [https://www.astrobin.com](https://www.astrobin.com)
  - date published: 2023-10-25T12:47:15.474607+00:00
@@ -1520,7 +1604,7 @@
  - [https://renato.athaydes.com](https://renato.athaydes.com)
  - date published: 2023-10-25T09:05:15.180164+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## @Large Research - Massivizing Computer Systems
  - [https://atlarge-research.com](https://atlarge-research.com)
@@ -1600,6 +1684,12 @@
  - user: None
  - tags: $tags
 
+## Audi.com – the international Audi website | audi.com
+ - [https://www.audi.com](https://www.audi.com)
+ - date published: 2023-11-01T08:41:32.663490+00:00
+ - user: None
+ - tags: ['company', 'car producer']
+
 ## Emergent Drums by Audialab - Generate infinite, royalty-free drum samples with AI
  - [https://audialab.com](https://audialab.com)
  - date published: 2023-10-25T12:48:17.613530+00:00
@@ -1610,7 +1700,7 @@
  - [https://www.audible.com](https://www.audible.com)
  - date published: 2023-10-25T11:44:50.898900+00:00
  - user: None
- - tags: ['audio streaming']
+ - tags: ['company', 'amazon', 'audio streaming']
 
 ## Audio Asylum -- Audio Reviews, Audiophile Forums and Stereo Reviews
  - [https://www.audioasylum.com](https://www.audioasylum.com)
@@ -1640,7 +1730,7 @@
  - [http://aurelm.com](http://aurelm.com)
  - date published: 2023-10-25T08:44:43.415942+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The Particular Finest
  - [https://blog.aurynn.com](https://blog.aurynn.com)
@@ -1652,13 +1742,13 @@
  - [https://austingil.com](https://austingil.com)
  - date published: 2023-10-25T08:44:45.948237+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Austin Henley - I work on AI + dev tools
  - [https://austinhenley.com](https://austinhenley.com)
  - date published: 2023-10-25T08:44:47.634188+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Austin Kleon is a writer who draws.
  - [https://austinkleon.com](https://austinkleon.com)
@@ -1670,17 +1760,23 @@
  - [https://tumblr.austinkleon.com](https://tumblr.austinkleon.com)
  - date published: 2023-10-25T08:44:52.393474+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Travel Photographer - Austin Mann
  - [https://www.austinmann.com](https://www.austinmann.com)
  - date published: 2023-10-25T08:44:54.347482+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Austin Poor's Personal Website
  - [https://austinpoor.com](https://austinpoor.com)
  - date published: 2023-10-25T08:44:54.973912+00:00
+ - user: None
+ - tags: ['personal']
+
+## Authory - Save & Showcase Everything You've Written and Created
+ - [https://authory.com](https://authory.com)
+ - date published: 2023-11-01T17:47:10.742189+00:00
  - user: None
  - tags: $tags
 
@@ -2102,7 +2198,7 @@
  - [https://basicappleguy.com](https://basicappleguy.com)
  - date published: 2023-10-25T08:45:02.790197+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Ramblings of a self-taught software engineer
  - [https://blog.bassemdy.com](https://blog.bassemdy.com)
@@ -2150,7 +2246,7 @@
  - [https://bbarrows.com](https://bbarrows.com)
  - date published: 2023-10-25T09:05:16.650245+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## BBC - Homepage
  - [https://www.bbc.com](https://www.bbc.com)
@@ -2338,11 +2434,17 @@
  - user: None
  - tags: $tags
 
+## Ben Burwell
+ - [https://www.benburwell.com](https://www.benburwell.com)
+ - date published: 2023-11-01T08:41:33.680868+00:00
+ - user: None
+ - tags: $tags
+
 ## Ben Hoyt
  - [https://benhoyt.com](https://benhoyt.com)
  - date published: 2023-10-25T08:45:03.337226+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Insider Songwriting Secrets | Music Publishing Tips | Artistic Marketing - Benjamin Groff
  - [https://www.benjamingroff.com](https://www.benjamingroff.com)
@@ -2360,13 +2462,13 @@
  - [https://benjoffe.com](https://benjoffe.com)
  - date published: 2023-10-25T09:05:18.406692+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Ben Lorantfy
  - [https://www.benlorantfy.com](https://www.benlorantfy.com)
  - date published: 2023-10-25T08:45:04.064540+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Bennett Notes
  - [https://www.bennettnotes.com](https://www.bennettnotes.com)
@@ -2384,7 +2486,7 @@
  - [https://benovermyer.com](https://benovermyer.com)
  - date published: 2023-10-25T08:45:05.256213+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Music for Video Creators - Hear the Difference
  - [https://www.bensound.com](https://www.bensound.com)
@@ -2402,7 +2504,7 @@
  - [https://www.berkansasmaz.com](https://www.berkansasmaz.com)
  - date published: 2023-10-25T08:58:03.732653+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Berkeley Graphics - Home
  - [https://berkeleygraphics.com](https://berkeleygraphics.com)
@@ -2762,7 +2864,7 @@
  - [https://www.bitrotten.com](https://www.bitrotten.com)
  - date published: 2023-10-25T08:45:06.636297+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Bits about Money by Patrick McKenzie (patio11)
  - [https://www.bitsaboutmoney.com](https://www.bitsaboutmoney.com)
@@ -2822,7 +2924,7 @@
  - [https://www.bjmalicoat.com](https://www.bjmalicoat.com)
  - date published: 2023-10-25T08:45:07.568665+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Bjorn Pagen
  - [https://bjornpagen.com](https://bjornpagen.com)
@@ -2882,11 +2984,17 @@
  - [https://blakeashleyjr.com](https://blakeashleyjr.com)
  - date published: 2023-10-25T09:05:20.382306+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## blakewatson.com
  - [https://blakewatson.com](https://blakewatson.com)
  - date published: 2023-10-25T08:45:09.755901+00:00
+ - user: None
+ - tags: ['personal']
+
+## BLDGBLOG
+ - [https://bldgblog.com](https://bldgblog.com)
+ - date published: 2023-11-01T08:41:35.585470+00:00
  - user: None
  - tags: $tags
 
@@ -2966,91 +3074,91 @@
  - [https://blogscroll.com](https://blogscroll.com)
  - date published: 2023-10-25T09:25:19.865484+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## busypoll
  - [https://1f604.blogspot.com](https://1f604.blogspot.com)
  - date published: 2023-10-25T09:05:27.653037+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Agile Otter Blog
  - [https://agileotter.blogspot.com](https://agileotter.blogspot.com)
  - date published: 2023-10-25T09:05:30.845699+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Dave Airlie Linux Graphics blog
  - [https://airlied.blogspot.com](https://airlied.blogspot.com)
  - date published: 2023-10-25T09:05:33.830706+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## I hate software
  - [https://allsoftwaresucks.blogspot.com](https://allsoftwaresucks.blogspot.com)
  - date published: 2023-10-25T09:05:39.838601+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Amit's Thoughts
  - [https://amitp.blogspot.com](https://amitp.blogspot.com)
  - date published: 2023-10-25T09:05:44.139609+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## blog
  - [https://avodonosov.blogspot.com](https://avodonosov.blogspot.com)
  - date published: 2023-10-25T09:05:48.878271+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Sabine Hossenfelder: Backreaction
  - [https://backreaction.blogspot.com](https://backreaction.blogspot.com)
  - date published: 2023-10-25T09:05:55.426378+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The art of simplicity
  - [https://bartwullems.blogspot.com](https://bartwullems.blogspot.com)
  - date published: 2023-10-25T09:06:01.627020+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## BeeLine
  - [https://beelineblogger.blogspot.com](https://beelineblogger.blogspot.com)
  - date published: 2023-10-25T09:06:07.861952+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Follow me down the optimization rabbit hole
  - [https://bitbanksoftware.blogspot.com](https://bitbanksoftware.blogspot.com)
  - date published: 2023-10-25T09:06:09.966506+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Bits, Math and Performance(?)
  - [https://bitmath.blogspot.com](https://bitmath.blogspot.com)
  - date published: 2023-10-25T09:06:12.474139+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The Brassic Gamer
  - [https://brassicgamer.blogspot.com](https://brassicgamer.blogspot.com)
  - date published: 2023-10-25T09:06:15.283500+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## That grumpy BSD guy
  - [https://bsdly.blogspot.com](https://bsdly.blogspot.com)
  - date published: 2023-10-25T09:06:20.001075+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Making a C64/C65 compatible computer
  - [https://c65gs.blogspot.com](https://c65gs.blogspot.com)
  - date published: 2023-10-25T09:06:24.335016+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Cererean Scratchpad
  - [https://cerereanscratchpad.blogspot.com](https://cerereanscratchpad.blogspot.com)
@@ -3062,43 +3170,43 @@
  - [https://coding-and-computers.blogspot.com](https://coding-and-computers.blogspot.com)
  - date published: 2023-10-25T09:06:35.597530+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## command center
  - [https://commandcenter.blogspot.com](https://commandcenter.blogspot.com)
  - date published: 2023-10-25T09:06:37.426358+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Cubic
  - [https://cubicspot.blogspot.com](https://cubicspot.blogspot.com)
  - date published: 2023-10-25T09:08:04.589544+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Cypher Phunk
  - [https://cypherphunk.blogspot.com](https://cypherphunk.blogspot.com)
  - date published: 2023-10-25T09:08:06.752061+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Database Architects
  - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
  - date published: 2023-10-25T09:08:09.774302+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## DBMS Musings
  - [https://dbmsmusings.blogspot.com](https://dbmsmusings.blogspot.com)
  - date published: 2023-10-25T09:08:13.440905+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## diamond geezer
  - [https://diamondgeezer.blogspot.com](https://diamondgeezer.blogspot.com)
  - date published: 2023-10-25T09:08:20.616641+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Disagreeable Me
  - [https://disagreeableme.blogspot.com](https://disagreeableme.blogspot.com)
@@ -3116,11 +3224,17 @@
  - [https://educationandstatistics.blogspot.com](https://educationandstatistics.blogspot.com)
  - date published: 2023-10-25T09:08:22.410886+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Egyptian Chronicles
  - [https://egyptianchronicles.blogspot.com](https://egyptianchronicles.blogspot.com)
  - date published: 2023-10-25T09:08:26.568446+00:00
+ - user: None
+ - tags: ['personal']
+
+## Epeus' epigone
+ - [https://epeus.blogspot.com](https://epeus.blogspot.com)
+ - date published: 2023-10-31T19:57:41.846195+00:00
  - user: None
  - tags: $tags
 
@@ -3128,19 +3242,19 @@
  - [https://epicandmonicisnotiso.blogspot.com](https://epicandmonicisnotiso.blogspot.com)
  - date published: 2023-10-25T09:08:27.957242+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Anecdotal Evidence
  - [https://evidenceanecdotal.blogspot.com](https://evidenceanecdotal.blogspot.com)
  - date published: 2023-10-25T09:08:32.163200+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Far Away Times
  - [https://farawaytimes.blogspot.com](https://farawaytimes.blogspot.com)
  - date published: 2023-10-25T09:08:37.053310+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Gary's hacking stuff
  - [https://garyodernichts.blogspot.com](https://garyodernichts.blogspot.com)
@@ -3152,7 +3266,7 @@
  - [https://gbracha.blogspot.com](https://gbracha.blogspot.com)
  - date published: 2023-10-25T09:08:39.659561+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The Keyword | Google Product and Technology News and Stories
  - [https://googleblog.blogspot.com](https://googleblog.blogspot.com)
@@ -3164,73 +3278,73 @@
  - [https://googleprojectzero.blogspot.com](https://googleprojectzero.blogspot.com)
  - date published: 2023-10-25T09:08:43.856862+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## HaggardHawks
  - [https://haggardhawksblog.blogspot.com](https://haggardhawksblog.blogspot.com)
  - date published: 2023-10-25T09:08:48.506429+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Harman How to Listen
  - [https://harmanhowtolisten.blogspot.com](https://harmanhowtolisten.blogspot.com)
  - date published: 2023-10-25T09:08:50.306562+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Heron's Perch
  - [https://heronsperch.blogspot.com](https://heronsperch.blogspot.com)
  - date published: 2023-10-25T09:08:53.609378+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Information Processing
  - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
  - date published: 2023-10-25T09:09:06.318517+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Jan's Tech Talk
  - [https://janstechtalk.blogspot.com](https://janstechtalk.blogspot.com)
  - date published: 2023-10-25T08:45:14.097788+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## JazzProfiles
  - [https://jazzprofiles.blogspot.com](https://jazzprofiles.blogspot.com)
  - date published: 2023-10-25T09:09:09.036174+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The Grumpy Economist
  - [https://johnhcochrane.blogspot.com](https://johnhcochrane.blogspot.com)
  - date published: 2023-10-25T09:09:15.482686+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Moneyness
  - [https://jpkoning.blogspot.com](https://jpkoning.blogspot.com)
  - date published: 2023-10-25T09:09:24.984611+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Koodihommia
  - [https://koodihommia.blogspot.com](https://koodihommia.blogspot.com)
  - date published: 2023-10-25T09:09:28.527989+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Kuro Time Design
  - [https://kurotimedesign.blogspot.com](https://kurotimedesign.blogspot.com)
  - date published: 2023-10-25T09:09:31.726360+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The Legasov Tapes
  - [https://legasovtapetranslation.blogspot.com](https://legasovtapetranslation.blogspot.com)
  - date published: 2023-10-25T09:09:33.364290+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Litherum
  - [https://litherum.blogspot.com](https://litherum.blogspot.com)
@@ -3248,13 +3362,13 @@
  - [https://maddy06.blogspot.com](https://maddy06.blogspot.com)
  - date published: 2023-10-25T09:09:39.571727+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## main is usually a function
  - [https://mainisusuallyafunction.blogspot.com](https://mainisusuallyafunction.blogspot.com)
  - date published: 2023-10-25T09:09:43.541835+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Adventures in PC Emulation
  - [https://martypc.blogspot.com](https://martypc.blogspot.com)
@@ -3266,55 +3380,55 @@
  - [https://mikehadlow.blogspot.com](https://mikehadlow.blogspot.com)
  - date published: 2023-10-25T09:09:48.126384+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Mike Lynch Cartoons
  - [https://mikelynchcartoons.blogspot.com](https://mikelynchcartoons.blogspot.com)
  - date published: 2023-10-25T09:09:53.674589+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Milwaukee Maven
  - [https://milwaukeemaven.blogspot.com](https://milwaukeemaven.blogspot.com)
  - date published: 2023-10-25T09:09:55.902718+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Minborg's Java Pot
  - [https://minborgsjavapot.blogspot.com](https://minborgsjavapot.blogspot.com)
  - date published: 2023-10-25T09:09:59.083948+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Musings of Michael McThrow
  - [https://mmcthrow-musings.blogspot.com](https://mmcthrow-musings.blogspot.com)
  - date published: 2023-10-25T09:10:01.509820+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Push the Red Button
  - [https://moyix.blogspot.com](https://moyix.blogspot.com)
  - date published: 2023-10-25T09:10:03.220983+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Medieval Manuscripts Provenance
  - [https://mssprovenance.blogspot.com](https://mssprovenance.blogspot.com)
  - date published: 2023-10-25T09:10:06.865435+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The Art is Long
  - [https://multixden.blogspot.com](https://multixden.blogspot.com)
  - date published: 2023-10-25T09:10:09.729418+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Metadata
  - [https://muratbuffalo.blogspot.com](https://muratbuffalo.blogspot.com)
  - date published: 2023-10-25T09:10:15.224216+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The Mypy Blog
  - [https://mypy-lang.blogspot.com](https://mypy-lang.blogspot.com)
@@ -3326,13 +3440,13 @@
  - [https://nibblestew.blogspot.com](https://nibblestew.blogspot.com)
  - date published: 2023-10-25T09:10:18.405908+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## nmav's Blog
  - [https://nikmav.blogspot.com](https://nikmav.blogspot.com)
  - date published: 2023-10-25T09:10:21.474878+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Old Vintage Computing Research
  - [https://oldvcr.blogspot.com](https://oldvcr.blogspot.com)
@@ -3344,109 +3458,109 @@
  - [https://programming-puzzler.blogspot.com](https://programming-puzzler.blogspot.com)
  - date published: 2023-10-25T09:10:24.409498+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## pts.blog
  - [https://ptspts.blogspot.com](https://ptspts.blogspot.com)
  - date published: 2023-10-25T09:10:29.527000+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Python Software Foundation News
  - [https://pyfound.blogspot.com](https://pyfound.blogspot.com)
  - date published: 2023-10-25T09:10:33.540585+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Python Insider
  - [https://pythoninsider.blogspot.com](https://pythoninsider.blogspot.com)
  - date published: 2023-10-25T09:10:39.347997+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Public Rants
  - [https://recursive-public-rants.blogspot.com](https://recursive-public-rants.blogspot.com)
  - date published: 2023-10-25T09:10:45.681581+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Richard Geldreich's Blog
  - [https://richg42.blogspot.com](https://richg42.blogspot.com)
  - date published: 2023-10-25T09:10:49.721564+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Poemas del río Wang
  - [https://riowang.blogspot.com](https://riowang.blogspot.com)
  - date published: 2023-10-25T09:17:38.044539+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The Splintered Mind
  - [https://schwitzsplinters.blogspot.com](https://schwitzsplinters.blogspot.com)
  - date published: 2023-10-25T09:17:44.221645+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The Science Unicorn
  - [https://scienceunicorn.blogspot.com](https://scienceunicorn.blogspot.com)
  - date published: 2023-10-25T09:17:47.984805+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Blobs in Games
  - [https://simblob.blogspot.com](https://simblob.blogspot.com)
  - date published: 2023-10-25T09:17:52.514335+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## smackeyacky
  - [https://smackeyacky.blogspot.com](https://smackeyacky.blogspot.com)
  - date published: 2023-10-25T09:17:55.345473+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Small Datum
  - [https://smalldatum.blogspot.com](https://smalldatum.blogspot.com)
  - date published: 2023-10-25T09:18:01.254095+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## No Shortage of Dreams
  - [https://spaceflighthistory.blogspot.com](https://spaceflighthistory.blogspot.com)
  - date published: 2023-10-25T09:18:07.149723+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Nick Brown's blog
  - [https://steamtraen.blogspot.com](https://steamtraen.blogspot.com)
  - date published: 2023-10-25T09:18:13.991557+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Stevey's Blog Rants
  - [https://steve-yegge.blogspot.com](https://steve-yegge.blogspot.com)
  - date published: 2023-10-25T09:18:17.413852+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Tertulia Moderna
  - [https://tertulia-moderna.blogspot.com](https://tertulia-moderna.blogspot.com)
  - date published: 2023-10-25T09:18:22.137314+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The Little Engineer That Could
  - [https://thelittleengineerthatcould.blogspot.com](https://thelittleengineerthatcould.blogspot.com)
  - date published: 2023-10-25T09:18:26.159190+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The Programmer's Paradox
  - [https://theprogrammersparadox.blogspot.com](https://theprogrammersparadox.blogspot.com)
  - date published: 2023-10-25T09:18:30.860433+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Tzvetan Mikov's Blog
  - [https://tmikov.blogspot.com](https://tmikov.blogspot.com)
@@ -3464,7 +3578,7 @@
  - [https://understandingsociety.blogspot.com](https://understandingsociety.blogspot.com)
  - date published: 2023-10-25T09:18:50.492120+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Value Investing Japan
  - [https://undervaluedjapan.blogspot.com](https://undervaluedjapan.blogspot.com)
@@ -3476,31 +3590,37 @@
  - [https://vintagecomputerstories.blogspot.com](https://vintagecomputerstories.blogspot.com)
  - date published: 2023-10-25T09:18:53.892256+00:00
  - user: None
+ - tags: ['personal']
+
+## Warhammer Armies Project
+ - [https://warhammerarmiesproject.blogspot.com](https://warhammerarmiesproject.blogspot.com)
+ - date published: 2023-11-01T18:41:15.792907+00:00
+ - user: None
  - tags: $tags
 
 ## WifiNigel
  - [https://wifinigel.blogspot.com](https://wifinigel.blogspot.com)
  - date published: 2023-10-25T09:18:59.263238+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Wormwoodiana
  - [https://wormwoodiana.blogspot.com](https://wormwoodiana.blogspot.com)
  - date published: 2023-10-25T09:19:09.946892+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The Typewriter Revolution blog
  - [https://writingball.blogspot.com](https://writingball.blogspot.com)
  - date published: 2023-10-25T09:19:25.640753+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Willy Tarreau's stuff
  - [https://wtarreau.blogspot.com](https://wtarreau.blogspot.com)
  - date published: 2023-10-25T09:19:30.682529+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## blogTO
  - [https://www.blogto.com](https://www.blogto.com)
@@ -3574,6 +3694,12 @@
  - user: None
  - tags: $tags
 
+## Homepage | Journal of Epidemiology and Community Health (JECH)
+ - [https://jech.bmj.com](https://jech.bmj.com)
+ - date published: 2023-11-02T01:27:19.579767+00:00
+ - user: None
+ - tags: $tags
+
 ## The BMJ: Leading Medical Research, News, Education, Opinion
  - [https://www.bmj.com](https://www.bmj.com)
  - date published: 2023-10-25T10:37:05.210940+00:00
@@ -3638,7 +3764,7 @@
  - [https://bojanvidanovic.com](https://bojanvidanovic.com)
  - date published: 2023-10-25T09:25:33.186509+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Bolin - Home Page
  - [https://bolinlang.com](https://bolinlang.com)
@@ -3908,7 +4034,7 @@
  - [https://www.breck-mckye.com](https://www.breck-mckye.com)
  - date published: 2023-10-25T09:19:31.624038+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Breitbart News Network
  - [https://www.breitbart.com](https://www.breitbart.com)
@@ -4058,7 +4184,7 @@
  - [http://brittanycheng.com](http://brittanycheng.com)
  - date published: 2023-10-25T09:19:32.224894+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Broken Bear  - a comforting AI Teddy Bear
  - [https://brokenbear.com](https://brokenbear.com)
@@ -4069,6 +4195,12 @@
 ## Brooklyn Bar Menu Generator
  - [https://www.brooklynbarmenus.com](https://www.brooklynbarmenus.com)
  - date published: 2023-10-25T13:14:01.856253+00:00
+ - user: None
+ - tags: $tags
+
+## For Product and Support Information
+ - [https://www.brother.com](https://www.brother.com)
+ - date published: 2023-11-01T08:41:39.902633+00:00
  - user: None
  - tags: $tags
 
@@ -4094,7 +4226,7 @@
  - [https://www.bryanleetc.com](https://www.bryanleetc.com)
  - date published: 2023-10-25T09:19:33.479733+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## BryceWray.com
  - [https://www.brycewray.com](https://www.brycewray.com)
@@ -4276,6 +4408,12 @@
  - user: None
  - tags: $tags
 
+## The C4 model for visualising software architecture
+ - [https://c4model.com](https://c4model.com)
+ - date published: 2023-11-01T08:41:41.323389+00:00
+ - user: None
+ - tags: $tags
+
 ## Do amazing things with the Commodore 64, with ease. | C64 OS
  - [https://c64os.com](https://c64os.com)
  - date published: 2023-10-25T08:38:35.968588+00:00
@@ -4430,7 +4568,7 @@
  - [https://www.candicepoon.com](https://www.candicepoon.com)
  - date published: 2023-10-25T09:19:34.667288+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The National Confectioners Association - NCA
  - [https://candyusa.com](https://candyusa.com)
@@ -4442,13 +4580,19 @@
  - [https://canolcer.com](https://canolcer.com)
  - date published: 2023-10-25T09:19:35.940458+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Canon Global
  - [https://www.canon.com](https://www.canon.com)
  - date published: 2023-10-30T18:15:36.625705+00:00
  - user: None
  - tags: ['company']
+
+## Canon Homepage | Canon U.S.A., Inc.
+ - [https://www.usa.canon.com](https://www.usa.canon.com)
+ - date published: 2023-11-01T08:41:43.065426+00:00
+ - user: None
+ - tags: $tags
 
 ## Canonical | Trusted open source for enterprises
  - [https://canonical.com](https://canonical.com)
@@ -4580,7 +4724,7 @@
  - [https://nicholas.carlini.com](https://nicholas.carlini.com)
  - date published: 2023-10-25T08:45:15.272588+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Home | CarlMultimedia
  - [https://carlmultimedia.com](https://carlmultimedia.com)
@@ -4592,7 +4736,7 @@
  - [https://carloslagoa.com](https://carloslagoa.com)
  - date published: 2023-10-25T08:45:15.800384+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Carmelite Monks of Wyoming Gothic - Carmelite Gothic
  - [https://carmelitegothic.com](https://carmelitegothic.com)
@@ -4772,7 +4916,7 @@
  - [https://blog.cedriccharly.com](https://blog.cedriccharly.com)
  - date published: 2023-10-25T09:19:37.116006+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Celebrity Private Jet Flights & Environmental Impact | CelebrityFlight
  - [https://celebrityflight.com](https://celebrityflight.com)
@@ -4790,7 +4934,7 @@
  - [https://www.celestineyeh.com](https://www.celestineyeh.com)
  - date published: 2023-10-25T09:19:38.270194+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## https://www.cell.com
  - [https://www.cell.com](https://www.cell.com)
@@ -4910,13 +5054,13 @@
  - [https://www.charlespetzold.com](https://www.charlespetzold.com)
  - date published: 2023-10-25T09:19:39.959226+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Charlie Harrington
  - [https://charlieharrington.com](https://charlieharrington.com)
  - date published: 2023-10-25T09:19:41.271593+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Charlotte Eiffel Lilith Buff | Official Homepage
  - [https://charlottebuff.com](https://charlottebuff.com)
@@ -4928,7 +5072,7 @@
  - [https://www.charmaineklee.com](https://www.charmaineklee.com)
  - date published: 2023-10-25T09:19:42.820729+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Home - Charming Science
  - [https://charmingscience.com](https://charmingscience.com)
@@ -5072,7 +5216,7 @@
  - [https://www.chestergrant.com](https://www.chestergrant.com)
  - date published: 2023-10-25T09:19:45.648985+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Chicago Magazine
  - [https://www.chicagomag.com](https://www.chicagomag.com)
@@ -5102,7 +5246,7 @@
  - [https://chidiwilliams.com](https://chidiwilliams.com)
  - date published: 2023-10-25T09:19:46.454066+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Chime
  - [https://www.chimehq.com](https://www.chimehq.com)
@@ -5128,11 +5272,17 @@
  - user: None
  - tags: $tags
 
+## Chocolate and Vodka — bubbling enthusiasm for $arbitrary_topic
+ - [https://chocolateandvodka.com](https://chocolateandvodka.com)
+ - date published: 2023-10-31T19:57:41.846110+00:00
+ - user: None
+ - tags: $tags
+
 ## Christian Hollinger
  - [https://chollinger.com](https://chollinger.com)
  - date published: 2023-10-25T08:45:21.585578+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Choosing Therapy | Find a Life-Changing Therapist
  - [https://www.choosingtherapy.com](https://www.choosingtherapy.com)
@@ -5192,7 +5342,7 @@
  - [https://christianjmills.com](https://christianjmills.com)
  - date published: 2023-10-25T08:45:22.645601+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Christian Post | Christian News & Commentaries
  - [https://www.christianpost.com](https://www.christianpost.com)
@@ -5204,7 +5354,7 @@
  - [https://christianvarga.com](https://christianvarga.com)
  - date published: 2023-10-25T08:45:24.982295+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Christine DeMerchant Site about Boats, boat plans, Boatbuilding, Cats, and other good stuff
  - [https://christinedemerchant.com](https://christinedemerchant.com)
@@ -5222,7 +5372,7 @@
  - [https://chriswarrick.com](https://chriswarrick.com)
  - date published: 2023-10-25T09:19:47.812882+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Chris Zacharias
  - [https://blog.chriszacharias.com](https://blog.chriszacharias.com)
@@ -5368,6 +5518,12 @@
  - user: None
  - tags: $tags
 
+## Citroën.com, le site International de Citroën JJ
+ - [https://www.citroen.com](https://www.citroen.com)
+ - date published: 2023-11-01T08:41:52.291259+00:00
+ - user: None
+ - tags: $tags
+
 ## Citus Data | Distributed Postgres. At any scale.
  - [https://www.citusdata.com](https://www.citusdata.com)
  - date published: 2023-10-25T13:25:06.065645+00:00
@@ -5462,7 +5618,7 @@
  - [https://clementneo.com](https://clementneo.com)
  - date published: 2023-10-25T09:19:48.402987+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## Cleveland 19 News | WOIO | Cleveland, Ohio
  - [https://www.cleveland19.com](https://www.cleveland19.com)
@@ -5833,7 +5989,7 @@
  - [https://blog.codinghorror.com](https://blog.codinghorror.com)
  - date published: 2023-10-25T09:19:51.330520+00:00
  - user: None
- - tags: $tags
+ - tags: ['personal']
 
 ## The Coding Nest
  - [https://codingnest.com](https://codingnest.com)
@@ -5845,161 +6001,5 @@
  - [https://codingotaku.com](https://codingotaku.com)
  - date published: 2023-10-25T08:45:26.168140+00:00
  - user: None
- - tags: $tags
-
-## Coding VC | Leo Polovets | Substack
- - [https://www.codingvc.com](https://www.codingvc.com)
- - date published: 2023-10-25T13:29:03.799383+00:00
- - user: None
- - tags: $tags
-
-## Phishing Protection Solutions | Cofense Email Security
- - [https://cofense.com](https://cofense.com)
- - date published: 2023-10-25T13:29:08.010341+00:00
- - user: None
- - tags: $tags
-
-## CogDogBlog – Alan Levine barks about and plays with stuff here
- - [https://cogdogblog.com](https://cogdogblog.com)
- - date published: 2023-10-25T13:29:20.506901+00:00
- - user: None
- - tags: $tags
-
-## Cognitive Medium
- - [https://cognitivemedium.com](https://cognitivemedium.com)
- - date published: 2023-10-25T13:29:27.971125+00:00
- - user: None
- - tags: $tags
-
-## Context by Cohere
- - [https://txt.cohere.com](https://txt.cohere.com)
- - date published: 2023-10-25T13:29:30.418945+00:00
- - user: None
- - tags: $tags
-
-## https://blog.coinbase.com
- - [https://blog.coinbase.com](https://blog.coinbase.com)
- - date published: 2023-10-25T13:29:30.685839+00:00
- - user: None
- - tags: $tags
-
-## Coinbase Pro | Digital Asset Exchange
- - [https://pro.coinbase.com](https://pro.coinbase.com)
- - date published: 2023-10-25T13:29:31.574956+00:00
- - user: None
- - tags: $tags
-
-## Coinbase Status
- - [https://status.coinbase.com](https://status.coinbase.com)
- - date published: 2023-10-25T13:29:33.191629+00:00
- - user: None
- - tags: $tags
-
-## https://www.coinbase.com
- - [https://www.coinbase.com](https://www.coinbase.com)
- - date published: 2023-10-25T13:29:34.420261+00:00
- - user: None
- - tags: $tags
-
-## Coincu News
- - [https://news.coincu.com](https://news.coincu.com)
- - date published: 2023-10-25T13:29:45.572927+00:00
- - user: None
- - tags: $tags
-
-## CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
- - [https://www.coindesk.com](https://www.coindesk.com)
- - date published: 2023-10-25T10:53:34.479334+00:00
- - user: None
- - tags: $tags
-
-## Cryptocurrency Prices, Charts And Market Capitalizations | CoinMarketCap
- - [https://coinmarketcap.com](https://coinmarketcap.com)
- - date published: 2023-10-25T13:29:57.804711+00:00
- - user: None
- - tags: $tags
-
-## Coinpaper.com - Information is the asset - Coinpaper
- - [https://coinpaper.com](https://coinpaper.com)
- - date published: 2023-10-25T13:30:03.297371+00:00
- - user: None
- - tags: $tags
-
-## Coinspeaker - Business, Markets, Crypto, FinTech, Personal Finance, Technology News
- - [https://www.coinspeaker.com](https://www.coinspeaker.com)
- - date published: 2023-10-25T13:30:06.826205+00:00
- - user: None
- - tags: $tags
-
-## Cointelegraph: Bitcoin, Ethereum, Crypto News & Price Indexes
- - [https://cointelegraph.com](https://cointelegraph.com)
- - date published: 2023-10-25T13:30:10.788946+00:00
- - user: None
- - tags: $tags
-
-## Cold Takes
- - [https://www.cold-takes.com](https://www.cold-takes.com)
- - date published: 2023-10-25T13:30:13.903706+00:00
- - user: None
- - tags: $tags
-
-## » nature photography / natural history / misc
- - [https://colinpurrington.com](https://colinpurrington.com)
- - date published: 2023-10-25T13:30:21.511015+00:00
- - user: None
- - tags: $tags
-
-## colinraffel.com
- - [https://colinraffel.com](https://colinraffel.com)
- - date published: 2023-10-25T13:30:26.172605+00:00
- - user: None
- - tags: $tags
-
-## Collab Fund
- - [https://collabfund.com](https://collabfund.com)
- - date published: 2023-10-25T13:30:27.777475+00:00
- - user: None
- - tags: $tags
-
-## Collabora | Open Source Software Consulting
- - [https://www.collabora.com](https://www.collabora.com)
- - date published: 2023-10-25T13:30:29.607246+00:00
- - user: None
- - tags: $tags
-
-## CollegeVine Guidance | CollegeVine
- - [https://blog.collegevine.com](https://blog.collegevine.com)
- - date published: 2023-10-25T13:30:36.294256+00:00
- - user: None
- - tags: $tags
-
-## Collin Donnell
- - [https://collindonnell.com](https://collindonnell.com)
- - date published: 2023-10-25T13:30:38.616919+00:00
- - user: None
- - tags: $tags
-
-## Home | Collin M. Barrett
- - [https://collinmbarrett.com](https://collinmbarrett.com)
- - date published: 2023-10-25T13:30:41.006144+00:00
- - user: None
- - tags: $tags
-
-## coloradopolitics.com | coloradopolitics.com
- - [https://www.coloradopolitics.com](https://www.coloradopolitics.com)
- - date published: 2023-10-25T13:30:44.120352+00:00
- - user: None
- - tags: $tags
-
-## The Colorado Sun: News, climate, politics, water, business and more
- - [https://coloradosun.com](https://coloradosun.com)
- - date published: 2023-10-25T13:30:52.197190+00:00
- - user: None
- - tags: $tags
-
-## Color & Contrast
- - [https://colorandcontrast.com](https://colorandcontrast.com)
- - date published: 2023-10-25T13:30:53.499355+00:00
- - user: None
- - tags: $tags
+ - tags: ['personal']
 
