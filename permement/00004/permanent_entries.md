@@ -1,3 +1,225 @@
+## JavaFiddle - Build and share Java code snippets in your browser
+ - [https://javafiddle.leaningtech.com](https://javafiddle.leaningtech.com)
+ - date published: 2023-10-25T15:43:39.439255+00:00
+ - user: None
+ - tags: $tags
+
+## We Are WebAssembly Experts | Leaning Technologies
+ - [https://leaningtech.com](https://leaningtech.com)
+ - date published: 2023-10-25T15:43:41.678164+00:00
+ - user: None
+ - tags: $tags
+
+## LeapSecond Home Page
+ - [http://leapsecond.com](http://leapsecond.com)
+ - date published: 2023-10-25T15:43:48.984506+00:00
+ - user: None
+ - tags: $tags
+
+## LeapSecond Home Page
+ - [http://www.leapsecond.com](http://www.leapsecond.com)
+ - date published: 2023-10-25T15:43:50.814570+00:00
+ - user: None
+ - tags: $tags
+
+## Learn C++ – Skill up with our free tutorials
+ - [https://www.learncpp.com](https://www.learncpp.com)
+ - date published: 2023-10-25T15:43:56.323518+00:00
+ - user: None
+ - tags: $tags
+
+## Learn and Test DMARC
+ - [https://www.learndmarc.com](https://www.learndmarc.com)
+ - date published: 2023-10-25T15:43:57.010265+00:00
+ - user: None
+ - tags: $tags
+
+## AI-Powered AI News | Emergent Mind
+ - [https://www.learngpt.com](https://www.learngpt.com)
+ - date published: 2023-10-25T15:44:04.488107+00:00
+ - user: None
+ - tags: $tags
+
+## Hardcore Software by Steven Sinofsky | Substack
+ - [https://hardcoresoftware.learningbyshipping.com](https://hardcoresoftware.learningbyshipping.com)
+ - date published: 2023-10-25T15:44:07.575535+00:00
+ - user: None
+ - tags: $tags
+
+## Learn Code the Hard Way
+ - [https://learnjsthehardway.com](https://learnjsthehardway.com)
+ - date published: 2023-10-25T15:44:09.394971+00:00
+ - user: None
+ - tags: $tags
+
+## Learn TLA+ — Learn TLA+
+ - [https://learntla.com](https://learntla.com)
+ - date published: 2023-10-25T15:44:15.064986+00:00
+ - user: None
+ - tags: $tags
+
+## Learn X in Y Minutes: Scenic Programming Language Tours
+ - [https://learnxinyminutes.com](https://learnxinyminutes.com)
+ - date published: 2023-10-25T15:44:16.698078+00:00
+ - user: None
+ - tags: $tags
+
+## Lectronz
+ - [https://lectronz.com](https://lectronz.com)
+ - date published: 2023-10-25T15:44:18.811085+00:00
+ - user: None
+ - tags: $tags
+
+## Ledger Labs
+ - [https://blog.ledger.com](https://blog.ledger.com)
+ - date published: 2023-10-25T15:44:20.094476+00:00
+ - user: None
+ - tags: $tags
+
+## Ledger - Home of the first and only certified Hardware wallets | Ledger
+ - [https://shop.ledger.com](https://shop.ledger.com)
+ - date published: 2023-10-25T15:44:25.359911+00:00
+ - user: None
+ - tags: $tags
+
+## Little Short Bulletins | Likely Some Balderdash
+ - [https://www.leebutterman.com](https://www.leebutterman.com)
+ - date published: 2023-10-25T15:44:26.549554+00:00
+ - user: None
+ - tags: $tags
+
+## Lee Byron
+ - [https://leebyron.com](https://leebyron.com)
+ - date published: 2023-10-25T15:44:27.988608+00:00
+ - user: None
+ - tags: $tags
+
+## Lee Fang | Substack
+ - [https://www.leefang.com](https://www.leefang.com)
+ - date published: 2023-10-25T15:44:30.439070+00:00
+ - user: None
+ - tags: $tags
+
+## Pittsburgh Injury Law News | A Legal Examiner Affiliate
+ - [https://pittsburgh.legalexaminer.com](https://pittsburgh.legalexaminer.com)
+ - date published: 2023-10-25T15:44:33.564468+00:00
+ - user: None
+ - tags: $tags
+
+## Legends of Localization - Exploring the best & worst game translations
+ - [https://legendsoflocalization.com](https://legendsoflocalization.com)
+ - date published: 2023-10-25T15:44:36.189494+00:00
+ - user: None
+ - tags: $tags
+
+## Legit Websites
+ - [https://legit-startups.com](https://legit-startups.com)
+ - date published: 2023-10-25T15:44:41.638239+00:00
+ - user: None
+ - tags: $tags
+
+## Strona główna | Witamy w oficjalnym sklepie LEGO® PL
+ - [https://www.lego.com](https://www.lego.com)
+ - date published: 2023-10-25T11:24:02.411518+00:00
+ - user: None
+ - tags: $tags
+
+## The Lego Mirror
+ - [https://blog.legoktm.com](https://blog.legoktm.com)
+ - date published: 2023-10-25T15:44:43.009239+00:00
+ - user: None
+ - tags: $tags
+
+## Leif Gehrmann
+ - [https://leifgehrmann.com](https://leifgehrmann.com)
+ - date published: 2023-10-25T15:44:43.990623+00:00
+ - user: None
+ - tags: $tags
+
+## Interesting things
+ - [https://www.lelanthran.com](https://www.lelanthran.com)
+ - date published: 2023-10-25T15:44:45.580173+00:00
+ - user: None
+ - tags: $tags
+
+## Lemon64 - Commodore 64 Games - C64 Reviews & Music
+ - [https://www.lemon64.com](https://www.lemon64.com)
+ - date published: 2023-10-27T14:47:48.864514+00:00
+ - user: None
+ - tags: ['commodore', 'retro games']
+
+## Lemon Amiga - Games, Download, Emulator, Cheats & Forum
+ - [https://www.lemonamiga.com](https://www.lemonamiga.com)
+ - date published: 2023-10-25T11:09:23.171003+00:00
+ - user: None
+ - tags: $tags
+
+## LemonSpawn – Turbo Rascal Syntax Error
+ - [https://lemonspawn.com](https://lemonspawn.com)
+ - date published: 2023-10-25T15:44:46.519531+00:00
+ - user: None
+ - tags: $tags
+
+## LendingTree: You Win
+ - [https://www.lendingtree.com](https://www.lendingtree.com)
+ - date published: 2023-10-25T15:44:50.204528+00:00
+ - user: None
+ - tags: $tags
+
+## Lenny's Newsletter | Lenny Rachitsky | Substack
+ - [https://www.lennysnewsletter.com](https://www.lennysnewsletter.com)
+ - date published: 2023-10-25T09:40:14.932048+00:00
+ - user: None
+ - tags: ['substack']
+
+## Lenovo Press
+ - [https://lenovopress.lenovo.com](https://lenovopress.lenovo.com)
+ - date published: 2023-10-25T15:44:54.928538+00:00
+ - user: None
+ - tags: $tags
+
+## Oficjalna witryna Lenovo® | Laptopy, tablety, komputery, urządzenia inteligentne, telefony i Data Center | Lenovo Poland
+ - [https://www.lenovo.com](https://www.lenovo.com)
+ - date published: 2023-10-25T11:28:05.722801+00:00
+ - user: None
+ - tags: ['company']
+
+## leonidasv.com
+ - [https://leonidasv.com](https://leonidasv.com)
+ - date published: 2023-10-25T15:45:05.620518+00:00
+ - user: None
+ - tags: $tags
+
+## LEO Weekly • Louisville's Alt-Weekly
+ - [https://www.leoweekly.com](https://www.leoweekly.com)
+ - date published: 2023-10-25T15:45:09.727753+00:00
+ - user: None
+ - tags: $tags
+
+## Les bons comptes
+ - [https://www.lesbonscomptes.com](https://www.lesbonscomptes.com)
+ - date published: 2023-10-25T15:45:12.138163+00:00
+ - user: None
+ - tags: $tags
+
+## LessWrong
+ - [https://www.lesswrong.com](https://www.lesswrong.com)
+ - date published: 2023-10-25T15:45:22.248975+00:00
+ - user: None
+ - tags: $tags
+
+## Leteyski's blog
+ - [https://www.leteyski.com](https://www.leteyski.com)
+ - date published: 2023-10-25T15:45:24.651458+00:00
+ - user: None
+ - tags: $tags
+
+## Irrational Exuberance
+ - [https://lethain.com](https://lethain.com)
+ - date published: 2023-10-25T15:45:34.098626+00:00
+ - user: None
+ - tags: $tags
+
 ## LetMyPeopleCode.com – A blog about software, schmaltz, and monkey-patches for the soul
  - [https://letmypeoplecode.com](https://letmypeoplecode.com)
  - date published: 2023-10-25T15:45:37.465526+00:00
@@ -394,6 +616,12 @@
  - user: None
  - tags: $tags
 
+## Livebeam: search, meet & connect globally
+ - [https://livebeam.com](https://livebeam.com)
+ - date published: 2023-11-02T10:01:46.090394+00:00
+ - user: None
+ - tags: $tags
+
 ## -
  - [https://livefreeordichotomize.com](https://livefreeordichotomize.com)
  - date published: 2023-10-25T15:48:39.963713+00:00
@@ -550,6 +778,12 @@
  - user: None
  - tags: $tags
 
+## LoL Esports
+ - [https://watch.lolesports.com](https://watch.lolesports.com)
+ - date published: 2023-11-02T10:41:03.461742+00:00
+ - user: None
+ - tags: $tags
+
 ## Londonist - Things to see and do in London
  - [https://londonist.com](https://londonist.com)
  - date published: 2023-10-25T15:50:00.489659+00:00
@@ -673,6 +907,12 @@
 ## Louder With Crowder
  - [https://www.louderwithcrowder.com](https://www.louderwithcrowder.com)
  - date published: 2023-10-25T10:14:23.696193+00:00
+ - user: None
+ - tags: $tags
+
+## Loudwire
+ - [https://loudwire.com](https://loudwire.com)
+ - date published: 2023-11-02T09:15:06.840788+00:00
  - user: None
  - tags: $tags
 
@@ -2705,6 +2945,12 @@ diversions.
  - date published: 2023-10-29T15:29:31.205442+00:00
  - user: None
  - tags: ['music']
+
+## Home - Metal Construction News
+ - [https://www.metalconstructionnews.com](https://www.metalconstructionnews.com)
+ - date published: 2023-11-02T09:15:50.607713+00:00
+ - user: None
+ - tags: $tags
 
 ## Metal In Theory – Analyzing Heavy Metal Music
  - [https://metalintheory.com](https://metalintheory.com)
@@ -5750,252 +5996,6 @@ Answering Machine Greetings!
 ## OpenAI
  - [https://openai.com](https://openai.com)
  - date published: 2023-10-25T11:28:25.619086+00:00
- - user: None
- - tags: $tags
-
-## OpenAI Platform
- - [https://platform.openai.com](https://platform.openai.com)
- - date published: 2023-10-25T16:26:25.632367+00:00
- - user: None
- - tags: $tags
-
-## OpenAI Status
- - [https://status.openai.com](https://status.openai.com)
- - date published: 2023-10-25T16:26:27.103892+00:00
- - user: None
- - tags: $tags
-
-## Home | OpenBSD Handbook
- - [https://www.openbsdhandbook.com](https://www.openbsdhandbook.com)
- - date published: 2023-10-25T16:26:28.495244+00:00
- - user: None
- - tags: $tags
-
-## OpenBW – free and open-source
- - [http://www.openbw.com](http://www.openbw.com)
- - date published: 2023-10-30T13:52:51.432424+00:00
- - user: None
- - tags: ['open source', 'starcraft']
-
-## OpenCage blog - what's new at OpenCage
- - [https://blog.opencagedata.com](https://blog.opencagedata.com)
- - date published: 2023-10-25T16:26:29.828123+00:00
- - user: None
- - tags: $tags
-
-## Home | Open Core Ventures
- - [https://opencoreventures.com](https://opencoreventures.com)
- - date published: 2023-10-25T16:26:31.896557+00:00
- - user: None
- - tags: $tags
-
-## OpenCritic - The top critics in gaming. All in one place.
- - [https://opencritic.com](https://opencritic.com)
- - date published: 2023-10-27T07:30:11.127691+00:00
- - user: None
- - tags: ['game news']
-
-## The best free cultural & educational media on the web - Open Culture
- - [https://www.openculture.com](https://www.openculture.com)
- - date published: 2023-10-25T09:28:29.608798+00:00
- - user: None
- - tags: $tags
-
-## Cloud Delivered Enterprise Security by OpenDNS
- - [https://www.opendns.com](https://www.opendns.com)
- - date published: 2023-10-30T12:52:26.123819+00:00
- - user: None
- - tags: ['dns']
-
-## Home | OpenFaaS - Serverless Functions Made Simple
- - [https://www.openfaas.com](https://www.openfaas.com)
- - date published: 2023-10-25T16:26:32.887003+00:00
- - user: None
- - tags: $tags
-
-## The Open Heart Project - Susan Piver
- - [https://openheartproject.com](https://openheartproject.com)
- - date published: 2023-10-25T16:26:38.251087+00:00
- - user: None
- - tags: $tags
-
-## Openlayer - The evaluation workspace for machine learning
- - [https://www.openlayer.com](https://www.openlayer.com)
- - date published: 2023-10-25T16:26:39.469662+00:00
- - user: None
- - tags: $tags
-
-## Advancing connectivity for all | Opensignal
- - [https://www.opensignal.com](https://www.opensignal.com)
- - date published: 2023-10-25T16:26:41.916120+00:00
- - user: None
- - tags: $tags
-
-## OpenSSH
- - [https://www.openssh.com](https://www.openssh.com)
- - date published: 2023-10-25T08:32:56.764937+00:00
- - user: None
- - tags: $tags
-
-## OpenSX70
- - [https://opensx70.com](https://opensx70.com)
- - date published: 2023-11-01T08:42:52.647761+00:00
- - user: None
- - tags: $tags
-
-## Open Magazine
- - [https://openthemagazine.com](https://openthemagazine.com)
- - date published: 2023-10-25T16:26:47.462037+00:00
- - user: None
- - tags: $tags
-
-## Interactive Vim tutorial
- - [https://www.openvim.com](https://www.openvim.com)
- - date published: 2023-10-25T09:27:45.430152+00:00
- - user: None
- - tags: $tags
-
-## Openwall - bringing security into open computing environments
- - [https://www.openwall.com](https://www.openwall.com)
- - date published: 2023-10-25T16:26:56.278778+00:00
- - user: None
- - tags: $tags
-
-## The Opera Blog - News | Opera
- - [https://blogs.opera.com](https://blogs.opera.com)
- - date published: 2023-10-25T11:29:22.476464+00:00
- - user: None
- - tags: $tags
-
-## Opera Web Browser | Faster, Safer, Smarter | Opera
- - [https://www.opera.com](https://www.opera.com)
- - date published: 2023-11-01T08:41:07.913556+00:00
- - user: None
- - tags: $tags
-
-## Ant-Like Persistence
- - [https://blog.oppedahl.com](https://blog.oppedahl.com)
- - date published: 2023-10-25T16:27:01.429670+00:00
- - user: None
- - tags: $tags
-
-## Smartfony i akcesoria OPPO | OPPO Polska
- - [https://www.oppo.com](https://www.oppo.com)
- - date published: 2023-10-25T11:26:11.032644+00:00
- - user: None
- - tags: ['company']
-
-## Opposite Invictus
- - [https://oppositeinvictus.com](https://oppositeinvictus.com)
- - date published: 2023-10-25T16:27:04.778062+00:00
- - user: None
- - tags: $tags
-
-## Optimising Nutrition
- - [https://optimisingnutrition.com](https://optimisingnutrition.com)
- - date published: 2023-10-25T16:27:10.295055+00:00
- - user: None
- - tags: $tags
-
-## Oracle Blogs
- - [https://blogs.oracle.com](https://blogs.oracle.com)
- - date published: 2023-10-25T16:27:16.386692+00:00
- - user: None
- - tags: $tags
-
-## Oracle | Cloud Applications and Cloud Platform
- - [https://www.oracle.com](https://www.oracle.com)
- - date published: 2023-10-25T11:28:29.767741+00:00
- - user: None
- - tags: ['company', 'java']
-
-## Orange Juice Liberation Front | Uli’s blog on programming, game development, pop culture and other boring things.
- - [https://orangejuiceliberationfront.com](https://orangejuiceliberationfront.com)
- - date published: 2023-10-25T16:27:20.212216+00:00
- - user: None
- - tags: $tags
-
-## The Orbital Index | Space: weekly, technical, curated.
- - [https://orbitalindex.com](https://orbitalindex.com)
- - date published: 2023-10-25T16:27:22.300273+00:00
- - user: None
- - tags: $tags
-
-## Homepage - Orbital
- - [https://www.orbitalofficial.com](https://www.orbitalofficial.com)
- - date published: 2023-10-30T13:56:48.367456+00:00
- - user: None
- - tags: ['music band']
-
-## Ordently - A simpler way to get things done
- - [https://www.ordently.com](https://www.ordently.com)
- - date published: 2023-10-25T16:27:23.383546+00:00
- - user: None
- - tags: $tags
-
-## Ord Phone
- - [https://ordphone.com](https://ordphone.com)
- - date published: 2023-10-25T08:37:02.073914+00:00
- - user: None
- - tags: $tags
-
-## Oregon Local News, Breaking News, Sports & Weather
- - [https://www.oregonlive.com](https://www.oregonlive.com)
- - date published: 2023-10-25T11:06:13.645376+00:00
- - user: None
- - tags: $tags
-
-## O'Reilly Media - Technology and Business Training
- - [https://www.oreilly.com](https://www.oreilly.com)
- - date published: 2023-10-24T20:19:32.879408+00:00
- - user: None
- - tags: $tags
-
-## Organ Clearing House
- - [https://www.organclearinghouse.com](https://www.organclearinghouse.com)
- - date published: 2023-10-25T16:27:25.213840+00:00
- - user: None
- - tags: $tags
-
-## Orinoco Tribune – News and opinion pieces about Venezuela and beyond – From Venezuela and made by Venezuelan Chavistas
- - [https://orinocotribune.com](https://orinocotribune.com)
- - date published: 2023-10-25T09:29:37.225218+00:00
- - user: None
- - tags: $tags
-
-## OrioleDB – the next generation storage engine for PostgreSQL
- - [https://www.orioledata.com](https://www.orioledata.com)
- - date published: 2023-10-25T16:27:26.200155+00:00
- - user: None
- - tags: $tags
-
-## Orville McDonald – Random thoughts on technology and business
- - [https://orvillemcdonald.com](https://orvillemcdonald.com)
- - date published: 2023-10-25T09:21:05.715824+00:00
- - user: None
- - tags: ['personal']
-
-## The Orwell Foundation
- - [https://www.orwellfoundation.com](https://www.orwellfoundation.com)
- - date published: 2023-10-25T11:26:43.410563+00:00
- - user: None
- - tags: $tags
-
-## Oryx
- - [https://www.oryxspioenkop.com](https://www.oryxspioenkop.com)
- - date published: 2023-10-25T16:27:36.030855+00:00
- - user: None
- - tags: $tags
-
-## The OS/2 Museum
- - [https://www.os2museum.com](https://www.os2museum.com)
- - date published: 2023-10-25T16:27:40.415903+00:00
- - user: None
- - tags: $tags
-
-## oschvr.com
- - [https://oschvr.com](https://oschvr.com)
- - date published: 2023-10-25T16:27:41.499435+00:00
  - user: None
  - tags: $tags
 

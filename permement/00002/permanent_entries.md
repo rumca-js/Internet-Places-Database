@@ -1,3 +1,148 @@
+## Blog | Backendhance
+ - [https://code-held.com](https://code-held.com)
+ - date published: 2023-10-25T13:27:52.449301+00:00
+ - user: None
+ - tags: $tags
+
+## Code Maze - C#, .NET and Web Development Tutorials
+ - [https://code-maze.com](https://code-maze.com)
+ - date published: 2023-10-25T13:27:55.458215+00:00
+ - user: None
+ - tags: $tags
+
+## Blog · Codeanywhere
+ - [https://blog.codeanywhere.com](https://blog.codeanywhere.com)
+ - date published: 2023-10-25T13:27:59.137947+00:00
+ - user: None
+ - tags: $tags
+
+## Code Code Ship
+     · Code Code Ship
+ - [https://codecodeship.com](https://codecodeship.com)
+ - date published: 2023-10-25T13:28:01.849017+00:00
+ - user: None
+ - tags: $tags
+
+## Learn To Code For Free — Interactive Courses And Practice Problems
+ - [https://codedamn.com](https://codedamn.com)
+ - date published: 2023-10-25T13:28:03.885487+00:00
+ - user: None
+ - tags: $tags
+
+## Codeforces
+ - [https://codeforces.com](https://codeforces.com)
+ - date published: 2023-10-25T13:28:14.373320+00:00
+ - user: None
+ - tags: $tags
+
+## CodeGuppy | Free coding platform and projects for middle school and high school students
+ - [https://codeguppy.com](https://codeguppy.com)
+ - date published: 2023-10-25T13:28:20.545811+00:00
+ - user: None
+ - tags: $tags
+
+## Codeium · Free AI Code Completion & Chat
+ - [https://codeium.com](https://codeium.com)
+ - date published: 2023-10-25T13:28:21.432922+00:00
+ - user: None
+ - tags: $tags
+
+## Codeium · Free AI Code Completion & Chat
+ - [https://www.codeium.com](https://www.codeium.com)
+ - date published: 2023-10-25T13:28:22.792901+00:00
+ - user: None
+ - tags: $tags
+
+## Code Language Converter - Convert code to other languages using AI
+ - [https://codelanguageconverter.com](https://codelanguageconverter.com)
+ - date published: 2023-10-25T13:28:24.823933+00:00
+ - user: None
+ - tags: $tags
+
+## CodePerfect
+ - [https://codeperfect95.com](https://codeperfect95.com)
+ - date published: 2023-10-25T13:28:25.510592+00:00
+ - user: None
+ - tags: $tags
+
+## CodeProject - For those who code
+ - [https://www.codeproject.com](https://www.codeproject.com)
+ - date published: 2023-10-25T10:13:50.403402+00:00
+ - user: None
+ - tags: $tags
+
+## CodeRed - Wagtail web development and hosting for businesses.
+ - [https://www.coderedcorp.com](https://www.coderedcorp.com)
+ - date published: 2023-10-27T13:11:12.513520+00:00
+ - user: None
+ - tags: $tags
+
+## codeshaunted | code’s haunted
+ - [https://codeshaunted.com](https://codeshaunted.com)
+ - date published: 2023-10-25T13:28:26.229731+00:00
+ - user: None
+ - tags: $tags
+
+## Codesolvent Blog
+ - [https://blog.codesolvent.com](https://blog.codesolvent.com)
+ - date published: 2023-10-25T13:28:28.190326+00:00
+ - user: None
+ - tags: $tags
+
+## Home » Codetapper's Amiga and C64 Site
+ - [http://www.codetapper.com](http://www.codetapper.com)
+ - date published: 2023-11-02T09:46:58.705416+00:00
+ - user: None
+ - tags: ['commodore', 'personal', 'amiga']
+
+## | codethrasher
+ - [https://codethrasher.com](https://codethrasher.com)
+ - date published: 2023-10-25T13:28:29.506444+00:00
+ - user: None
+ - tags: $tags
+
+## Windows Software on Mac, Linux, and ChromeOS with CrossOver | CodeWeavers
+ - [https://www.codeweavers.com](https://www.codeweavers.com)
+ - date published: 2023-10-25T13:28:37.655699+00:00
+ - user: None
+ - tags: $tags
+
+## Code with Jason - Learn Ruby on Rails, Rails Testing, Docker, OOP
+ - [https://www.codewithjason.com](https://www.codewithjason.com)
+ - date published: 2023-10-25T13:28:40.388558+00:00
+ - user: None
+ - tags: $tags
+
+## CodeWritePlay – Game Development, Tech, Humor
+ - [https://codewriteplay.com](https://codewriteplay.com)
+ - date published: 2023-10-25T13:28:50.815482+00:00
+ - user: None
+ - tags: $tags
+
+## Coding Horror
+ - [https://blog.codinghorror.com](https://blog.codinghorror.com)
+ - date published: 2023-10-25T09:19:51.330520+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Coding Nest
+ - [https://codingnest.com](https://codingnest.com)
+ - date published: 2023-10-25T13:28:59.884471+00:00
+ - user: None
+ - tags: $tags
+
+## Home - Coding Otaku
+ - [https://codingotaku.com](https://codingotaku.com)
+ - date published: 2023-10-25T08:45:26.168140+00:00
+ - user: None
+ - tags: ['personal']
+
+## Coding VC | Leo Polovets | Substack
+ - [https://www.codingvc.com](https://www.codingvc.com)
+ - date published: 2023-10-25T13:29:03.799383+00:00
+ - user: None
+ - tags: $tags
+
 ## Phishing Protection Solutions | Cofense Email Security
  - [https://cofense.com](https://cofense.com)
  - date published: 2023-10-25T13:29:08.010341+00:00
@@ -369,6 +514,12 @@
  - date published: 2023-11-01T18:37:29.679475+00:00
  - user: None
  - tags: ['tabletop games', 'miniatures']
+
+## IT programming and software development tutorials - Copy Programming
+ - [https://copyprogramming.com](https://copyprogramming.com)
+ - date published: 2023-11-02T09:40:02.045986+00:00
+ - user: None
+ - tags: ['php', 'java']
 
 ## Copyright Lately | Creative Law For Curious People
  - [https://copyrightlately.com](https://copyrightlately.com)
@@ -1540,6 +1691,12 @@
  - date published: 2023-10-30T19:26:33.002271+00:00
  - user: None
  - tags: ['company', 'shop']
+
+## Home
+ - [https://www.dbreunig.com](https://www.dbreunig.com)
+ - date published: 2023-11-02T20:51:00.357968+00:00
+ - user: None
+ - tags: $tags
 
 ## Library of Database Schema - Best Practice from Industry
  - [https://www.dbschemalibrary.com](https://www.dbschemalibrary.com)
@@ -3276,6 +3433,12 @@
  - user: None
  - tags: ['music news']
 
+## Diary Of A Mad Chaos - The Largest Online Diary In The World
+ - [https://www.eleninovski.com](https://www.eleninovski.com)
+ - date published: 2023-11-02T11:03:35.042983+00:00
+ - user: None
+ - tags: ['blog', 'personal', 'amiga']
+
 ## Elevator Saga - the elevator programming game
  - [https://play.elevatorsaga.com](https://play.elevatorsaga.com)
  - date published: 2023-10-25T14:05:22.236086+00:00
@@ -3894,6 +4057,12 @@
  - user: None
  - tags: $tags
 
+## {{meta.title}}
+ - [https://eventvods.com](https://eventvods.com)
+ - date published: 2023-11-02T10:40:57.348617+00:00
+ - user: None
+ - tags: $tags
+
 ## Home - Evergreen Off-Grid
  - [https://evergreenoffgrid.com](https://evergreenoffgrid.com)
  - date published: 2023-10-25T14:12:15.348595+00:00
@@ -3929,6 +4098,12 @@
  - date published: 2023-10-25T14:12:52.624817+00:00
  - user: None
  - tags: $tags
+
+## Everything Amiga - Everything Amiga
+ - [https://www.everythingamiga.com](https://www.everythingamiga.com)
+ - date published: 2023-11-02T10:44:11.776078+00:00
+ - user: None
+ - tags: ['amiga']
 
 ## All Forums - EVGA Forums
  - [https://forums.evga.com](https://forums.evga.com)
@@ -4257,6 +4432,12 @@
 ## Harry Potter Wiki | Fandom
  - [https://harrypotter.fandom.com](https://harrypotter.fandom.com)
  - date published: 2023-10-25T14:07:38.718523+00:00
+ - user: None
+ - tags: $tags
+
+## Leaguepedia | League of Legends Esports Wiki
+ - [https://lol.fandom.com](https://lol.fandom.com)
+ - date published: 2023-11-02T10:40:56.776995+00:00
  - user: None
  - tags: $tags
 
@@ -5062,7 +5243,7 @@
  - [https://focusrite.com](https://focusrite.com)
  - date published: 2023-10-30T18:33:00.064219+00:00
  - user: None
- - tags: ['audio hardware']
+ - tags: ['scarlett', 'audio hardware']
 
 ## Fold 'N Fly » Paper Airplane Folding Instructions
  - [https://www.foldnfly.com](https://www.foldnfly.com)
@@ -5754,6 +5935,12 @@
  - user: None
  - tags: $tags
 
+## Leaguepedia | League of Legends Esports Wiki
+ - [https://lol.gamepedia.com](https://lol.gamepedia.com)
+ - date published: 2023-11-02T10:40:59.813503+00:00
+ - user: None
+ - tags: $tags
+
 ## Home - Gameranx
  - [https://gameranx.com](https://gameranx.com)
  - date published: 2023-10-25T10:48:01.663782+00:00
@@ -5805,193 +5992,6 @@
 ## GameWatcher: Video Game News, Reviews, and Guides. | GameWatcher
  - [https://www.gamewatcher.com](https://www.gamewatcher.com)
  - date published: 2023-10-25T10:48:40.077724+00:00
- - user: None
- - tags: $tags
-
-## GameWorldObserver.com: online magazine about video games industry
- - [https://gameworldobserver.com](https://gameworldobserver.com)
- - date published: 2023-10-25T10:48:43.476844+00:00
- - user: None
- - tags: $tags
-
-## ▷ Game Guides, Tutorials and Reviews for E-Sport Games
- - [https://gaming-tools.com](https://gaming-tools.com)
- - date published: 2023-10-29T10:37:29.297437+00:00
- - user: None
- - tags: ['warcraft']
-
-## Gaming Alexandria – Video Game History and Preservation
- - [https://www.gamingalexandria.com](https://www.gamingalexandria.com)
- - date published: 2023-10-25T14:41:14.275764+00:00
- - user: None
- - tags: $tags
-
-## GAMINGbible - Let's All Play
- - [https://www.gamingbible.com](https://www.gamingbible.com)
- - date published: 2023-10-25T10:48:48.447960+00:00
- - user: None
- - tags: $tags
-
-## Video Game News, Reviews, Walkthroughs And Guides | GamingBolt
- - [https://gamingbolt.com](https://gamingbolt.com)
- - date published: 2023-11-01T07:18:36.819292+00:00
- - user: None
- - tags: ['game news']
-
-## GAMINGDEPUTY - ‏‏‎‎‏‏‎ ‎News, Reviews & Insights
- - [https://www.gamingdeputy.com](https://www.gamingdeputy.com)
- - date published: 2023-10-25T14:41:18.532720+00:00
- - user: None
- - tags: $tags
-
-## Gaming Gorilla | Video Game Reviews, Release Dates, Trailers & Lists
- - [https://gaminggorilla.com](https://gaminggorilla.com)
- - date published: 2023-10-25T11:16:34.246333+00:00
- - user: None
- - tags: $tags
-
-## Gaming History 101
- - [https://gaminghistory101.com](https://gaminghistory101.com)
- - date published: 2023-10-27T14:41:44.461635+00:00
- - user: None
- - tags: ['amiga']
-
-## Linux, SteamOS, Steam Deck gaming | GamingOnLinux
- - [https://www.gamingonlinux.com](https://www.gamingonlinux.com)
- - date published: 2023-10-25T10:48:57.032223+00:00
- - user: None
- - tags: ['linux', 'game news']
-
-## GamingScan | Your Source For Gaming Advice
- - [https://www.gamingscan.com](https://www.gamingscan.com)
- - date published: 2023-10-26T18:49:00.039944+00:00
- - user: None
- - tags: $tags
-
-## Gaming Street - Where Gaming meets Wall Street - Gaming Street
- - [https://gamingstreet.com](https://gamingstreet.com)
- - date published: 2023-10-25T14:41:24.384607+00:00
- - user: None
- - tags: $tags
-
-## GammaWire - Tech News & Trends
- - [https://gammawire.com](https://gammawire.com)
- - date published: 2023-10-25T14:41:33.539645+00:00
- - user: None
- - tags: $tags
-
-## Garden & Gun | Official Website of Garden & Gun Magazine
- - [https://gardenandgun.com](https://gardenandgun.com)
- - date published: 2023-10-25T14:41:38.475199+00:00
- - user: None
- - tags: $tags
-
-## Gardens of Hecate
- - [https://gardensofhecate.com](https://gardensofhecate.com)
- - date published: 2023-10-27T15:05:43.896413+00:00
- - user: None
- - tags: ['tabletop games']
-
-## GarlicGPT - America's second finest news source.
- - [https://www.garlicgpt.com](https://www.garlicgpt.com)
- - date published: 2023-10-25T14:41:45.529584+00:00
- - user: None
- - tags: $tags
-
-## Garmin | Polska | Home
- - [https://www.garmin.com](https://www.garmin.com)
- - date published: 2023-10-25T14:41:51.269725+00:00
- - user: None
- - tags: $tags
-
-## Gartner | Delivering Actionable, Objective Insight to Executives and Their Teams
- - [https://www.gartner.com](https://www.gartner.com)
- - date published: 2023-10-25T14:41:54.624249+00:00
- - user: None
- - tags: $tags
-
-## Gary Voth – Photography, Technology, Design
- - [https://www.garyvoth.com](https://www.garyvoth.com)
- - date published: 2023-10-25T14:41:58.580348+00:00
- - user: None
- - tags: $tags
-
-## Home | Bill Gates
- - [https://www.gatesnotes.com](https://www.gatesnotes.com)
- - date published: 2023-10-25T14:42:06.251930+00:00
- - user: None
- - tags: $tags
-
-## Gaurang Tandon
- - [https://gaurangtandon.com](https://gaurangtandon.com)
- - date published: 2023-11-01T08:42:09.254638+00:00
- - user: None
- - tags: $tags
-
-## Gavin D. Howard
- - [https://gavinhoward.com](https://gavinhoward.com)
- - date published: 2023-10-25T14:42:07.699227+00:00
- - user: None
- - tags: $tags
-
-## Gawker
- - [https://www.gawker.com](https://www.gawker.com)
- - date published: 2023-10-25T14:42:10.336138+00:00
- - user: None
- - tags: $tags
-
-## Peoples Gazette - Truth, Courage or Nothing...
- - [https://gazettengr.com](https://gazettengr.com)
- - date published: 2023-10-25T14:42:16.982105+00:00
- - user: None
- - tags: $tags
-
-## GBurghoorn
- - [https://gburghoorn.com](https://gburghoorn.com)
- - date published: 2023-10-25T08:45:50.786825+00:00
- - user: None
- - tags: ['personal']
-
-## gCaptain – Maritime News
- - [https://gcaptain.com](https://gcaptain.com)
- - date published: 2023-10-25T14:42:22.481020+00:00
- - user: None
- - tags: $tags
-
-## Historic Stock Lookup | Microsoft Corporation
- - [https://microsoft.gcs-web.com](https://microsoft.gcs-web.com)
- - date published: 2023-10-25T14:42:23.906807+00:00
- - user: None
- - tags: $tags
-
-## Pages (iframe) | Qualtrics
- - [https://qualtrics.gcs-web.com](https://qualtrics.gcs-web.com)
- - date published: 2023-10-25T14:42:24.720200+00:00
- - user: None
- - tags: $tags
-
-## Gearrice - Explore the Tech World
- - [https://www.gearrice.com](https://www.gearrice.com)
- - date published: 2023-10-25T14:42:28.981386+00:00
- - user: None
- - tags: $tags
-
-## Gear Solutions Magazine Your Resource to the Gear Industry | Advertise and reach a broad-base audience of gear industry professionals and buyers with Gear Solutions magazine — the complete online resource for the gear industry. Media kit available at Gear Solutions.
- - [https://gearsolutions.com](https://gearsolutions.com)
- - date published: 2023-10-25T14:42:36.223188+00:00
- - user: None
- - tags: $tags
-
-## Gearspace.com - Gearspace.com - The No. 1 Website for Pro Audio
- - [https://gearspace.com](https://gearspace.com)
- - date published: 2023-10-26T14:06:10.928654+00:00
- - user: None
- - tags: $tags
-
-## Home
- - Geekbench
- - [https://browser.geekbench.com](https://browser.geekbench.com)
- - date published: 2023-11-02T05:02:44.382001+00:00
  - user: None
  - tags: $tags
 

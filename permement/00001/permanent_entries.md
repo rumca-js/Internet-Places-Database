@@ -1,3 +1,45 @@
+## AirGradient
+ - [https://www.airgradient.com](https://www.airgradient.com)
+ - date published: 2023-10-25T12:36:26.738806+00:00
+ - user: None
+ - tags: $tags
+
+## Engraving Tools, Stone Setting Tools for Jewelers, Metal artists, Guns, Knives and Jewelry Engrave.
+ - [https://airgraver.com](https://airgraver.com)
+ - date published: 2023-10-25T12:36:30.785485+00:00
+ - user: None
+ - tags: $tags
+
+## Home - Airlock Digital - Allowlisting Software
+ - [https://airlockdigital.com](https://airlockdigital.com)
+ - date published: 2023-10-25T12:36:31.768458+00:00
+ - user: None
+ - tags: $tags
+
+## Airline safety and security information
+ - [https://www.airsafe.com](https://www.airsafe.com)
+ - date published: 2023-10-25T12:36:41.280025+00:00
+ - user: None
+ - tags: $tags
+
+## Blog | Airsequel
+ - [https://blog.airsequel.com](https://blog.airsequel.com)
+ - date published: 2023-10-25T12:36:42.787514+00:00
+ - user: None
+ - tags: $tags
+
+## Airways – A Global Review of Commercial Flight
+ - [https://airwaysmag.com](https://airwaysmag.com)
+ - date published: 2023-10-25T11:07:36.762016+00:00
+ - user: None
+ - tags: $tags
+
+## Airways Museum / Civil Aviation Historical Society
+ - [https://www.airwaysmuseum.com](https://www.airwaysmuseum.com)
+ - date published: 2023-10-25T12:36:49.815531+00:00
+ - user: None
+ - tags: $tags
+
 ## AiSupervision - Operating system for factory production lines (YC W22)
  - [https://www.aisupervision.com](https://www.aisupervision.com)
  - date published: 2023-10-25T12:36:51.228430+00:00
@@ -91,6 +133,12 @@
 ## https://www.alcademics.com
  - [https://www.alcademics.com](https://www.alcademics.com)
  - date published: 2023-10-25T12:37:32.547279+00:00
+ - user: None
+ - tags: $tags
+
+## Dropsafe
+ - [https://alecmuffett.com](https://alecmuffett.com)
+ - date published: 2023-11-02T09:02:34.151189+00:00
  - user: None
  - tags: $tags
 
@@ -193,6 +241,12 @@
 ## Alex Vermeer — Life-Hacking. Climbing. Striving for awesome. Coffee.
  - [https://alexvermeer.com](https://alexvermeer.com)
  - date published: 2023-10-25T12:38:14.741434+00:00
+ - user: None
+ - tags: $tags
+
+## Home - Algemeiner.com
+ - [https://www.algemeiner.com](https://www.algemeiner.com)
+ - date published: 2023-11-02T18:22:20.943073+00:00
  - user: None
  - tags: $tags
 
@@ -303,6 +357,12 @@
  - date published: 2023-10-25T08:44:20.992114+00:00
  - user: None
  - tags: ['personal']
+
+## Tracking news and events impacting Israel & the Middle East for the world’s 600 million Evangelicals
+ - [https://allisrael.com](https://allisrael.com)
+ - date published: 2023-11-02T16:07:28.733577+00:00
+ - user: None
+ - tags: $tags
 
 ## AllSides | Balanced news and media bias ratings. Unbiased news doesn't exist.
  - [https://www.allsides.com](https://www.allsides.com)
@@ -478,6 +538,12 @@
  - user: None
  - tags: $tags
 
+## Amiga emulator for ARM boards
+ - [https://amiberry.com](https://amiberry.com)
+ - date published: 2023-11-02T10:54:13.941845+00:00
+ - user: None
+ - tags: ['amiga']
+
 ## Amiga Addict Magazine - The UK's best Amiga magazine
  - [https://www.amiga-addict.com](https://www.amiga-addict.com)
  - date published: 2023-10-27T14:32:38.105988+00:00
@@ -489,6 +555,12 @@
  - date published: 2023-10-25T11:19:56.642363+00:00
  - user: None
  - tags: $tags
+
+## Amiga In A Box
+ - [http://www.amigainabox.com](http://www.amigainabox.com)
+ - date published: 2023-11-02T10:45:02.104650+00:00
+ - user: None
+ - tags: ['personal', 'amiga']
 
 ## Amiga Informatics Inspiring Innovation
  - [https://amigainformatics.com](https://amigainformatics.com)
@@ -508,9 +580,27 @@
  - user: None
  - tags: $tags
 
+## Amigamap.com - The global map of all known Amiga, MorphOS and AROS computers and their users
+ - [https://amigamap.com](https://amigamap.com)
+ - date published: 2023-11-02T10:47:07.922932+00:00
+ - user: None
+ - tags: $tags
+
 ## AmigaNG
  - [https://amigang.com](https://amigang.com)
  - date published: 2023-10-25T11:14:46.275962+00:00
+ - user: None
+ - tags: ['amiga']
+
+## amigapd
+ - [https://www.amigapd.com](https://www.amigapd.com)
+ - date published: 2023-11-02T09:47:39.471542+00:00
+ - user: None
+ - tags: $tags
+
+## Amiga Podcast
+ - [http://www.amigapodcast.com](http://www.amigapodcast.com)
+ - date published: 2023-11-02T09:59:53.082268+00:00
  - user: None
  - tags: ['amiga']
 
@@ -1336,6 +1426,12 @@
  - user: None
  - tags: $tags
 
+## Arm Newsroom
+ - [https://newsroom.arm.com](https://newsroom.arm.com)
+ - date published: 2023-11-02T14:38:10.439533+00:00
+ - user: None
+ - tags: $tags
+
 ## Building the Future of Computing – Arm®
  - [https://www.arm.com](https://www.arm.com)
  - date published: 2023-10-25T11:27:17.516393+00:00
@@ -1582,6 +1678,12 @@
  - user: None
  - tags: $tags
 
+## www.atarimagazines.com: Error 403: Access Forbidden
+ - [https://www.atarimagazines.com](https://www.atarimagazines.com)
+ - date published: 2023-11-02T09:37:23.602518+00:00
+ - user: None
+ - tags: ['commodore', 'magazine', 'amiga']
+
 ## The World's Finest Atari Database : games, demos, utilities for 2600, 5200, 400, 800, xl, xe, st and falcon
  - [http://www.atarimania.com](http://www.atarimania.com)
  - date published: 2023-10-30T12:00:17.683140+00:00
@@ -1808,7 +1910,7 @@
  - [https://www.autohotkey.com](https://www.autohotkey.com)
  - date published: 2023-10-25T08:37:34.638633+00:00
  - user: None
- - tags: $tags
+ - tags: ['open source', 'program']
 
 ## AUTOMATON | オートマトンは日本・海外のゲーム情報サイト。ニュースやレビューを発信中
  - [https://automaton-media.com](https://automaton-media.com)
@@ -2632,6 +2734,12 @@
  - user: None
  - tags: $tags
 
+## Big Book of Amiga Hardware
+ - [https://bigbookofamigahardware.com](https://bigbookofamigahardware.com)
+ - date published: 2023-11-02T09:45:50.385820+00:00
+ - user: None
+ - tags: $tags
+
 ## Big Mess o' Wires
  - [https://www.bigmessowires.com](https://www.bigmessowires.com)
  - date published: 2023-10-25T12:59:26.339536+00:00
@@ -2715,6 +2823,12 @@
  - date published: 2023-10-25T13:00:12.406008+00:00
  - user: None
  - tags: $tags
+
+## Binary Devotion – 011001110110010101100101011010110010000001110000011100100011000001101110
+ - [https://www.binarydevotion.com](https://www.binarydevotion.com)
+ - date published: 2023-11-02T10:52:24.493504+00:00
+ - user: None
+ - tags: ['amiga']
 
 ## Bing Blogs | Home
  - [https://blogs.bing.com](https://blogs.bing.com)
@@ -3046,6 +3160,18 @@
  - user: None
  - tags: ['starcraft', 'diablo', 'overwatch', 'warcraft', 'company']
 
+## Blizzbrush - the best toothbrush in the world.
+ - [https://blizzbrush.com](https://blizzbrush.com)
+ - date published: 2023-11-02T14:14:36.913015+00:00
+ - user: None
+ - tags: $tags
+
+## BlizzCon
+ - [https://blizzcon.com](https://blizzcon.com)
+ - date published: 2023-11-02T19:01:40.399355+00:00
+ - user: None
+ - tags: ['event']
+
 ## Blockade Labs Skybox - AI-Generated 3D Worlds
  - [https://skybox.blockadelabs.com](https://skybox.blockadelabs.com)
  - date published: 2023-10-25T13:04:48.005443+00:00
@@ -3099,6 +3225,12 @@
  - date published: 2023-10-25T09:05:39.838601+00:00
  - user: None
  - tags: ['personal']
+
+## Amiga Gamer
+ - [https://amigagamer.blogspot.com](https://amigagamer.blogspot.com)
+ - date published: 2023-11-02T09:55:15.962797+00:00
+ - user: None
+ - tags: $tags
 
 ## Amit's Thoughts
  - [https://amitp.blogspot.com](https://amitp.blogspot.com)
@@ -5578,6 +5710,12 @@
  - user: None
  - tags: ['amiga', 'social forum']
 
+## Main Page - Classicamiga
+ - [http://wiki.classicamiga.com](http://wiki.classicamiga.com)
+ - date published: 2023-11-02T09:36:22.561590+00:00
+ - user: None
+ - tags: $tags
+
 ## classicamiga.com - Home
  - [http://www.classicamiga.com](http://www.classicamiga.com)
  - date published: 2023-10-27T14:25:07.382434+00:00
@@ -5863,143 +6001,4 @@
  - date published: 2023-10-25T13:27:39.106894+00:00
  - user: None
  - tags: $tags
-
-## Coda Story
- - [https://www.codastory.com](https://www.codastory.com)
- - date published: 2023-10-25T13:27:42.184729+00:00
- - user: None
- - tags: $tags
-
-## Blog | Backendhance
- - [https://code-held.com](https://code-held.com)
- - date published: 2023-10-25T13:27:52.449301+00:00
- - user: None
- - tags: $tags
-
-## Code Maze - C#, .NET and Web Development Tutorials
- - [https://code-maze.com](https://code-maze.com)
- - date published: 2023-10-25T13:27:55.458215+00:00
- - user: None
- - tags: $tags
-
-## Blog · Codeanywhere
- - [https://blog.codeanywhere.com](https://blog.codeanywhere.com)
- - date published: 2023-10-25T13:27:59.137947+00:00
- - user: None
- - tags: $tags
-
-## Code Code Ship
-     · Code Code Ship
- - [https://codecodeship.com](https://codecodeship.com)
- - date published: 2023-10-25T13:28:01.849017+00:00
- - user: None
- - tags: $tags
-
-## Learn To Code For Free — Interactive Courses And Practice Problems
- - [https://codedamn.com](https://codedamn.com)
- - date published: 2023-10-25T13:28:03.885487+00:00
- - user: None
- - tags: $tags
-
-## Codeforces
- - [https://codeforces.com](https://codeforces.com)
- - date published: 2023-10-25T13:28:14.373320+00:00
- - user: None
- - tags: $tags
-
-## CodeGuppy | Free coding platform and projects for middle school and high school students
- - [https://codeguppy.com](https://codeguppy.com)
- - date published: 2023-10-25T13:28:20.545811+00:00
- - user: None
- - tags: $tags
-
-## Codeium · Free AI Code Completion & Chat
- - [https://codeium.com](https://codeium.com)
- - date published: 2023-10-25T13:28:21.432922+00:00
- - user: None
- - tags: $tags
-
-## Codeium · Free AI Code Completion & Chat
- - [https://www.codeium.com](https://www.codeium.com)
- - date published: 2023-10-25T13:28:22.792901+00:00
- - user: None
- - tags: $tags
-
-## Code Language Converter - Convert code to other languages using AI
- - [https://codelanguageconverter.com](https://codelanguageconverter.com)
- - date published: 2023-10-25T13:28:24.823933+00:00
- - user: None
- - tags: $tags
-
-## CodePerfect
- - [https://codeperfect95.com](https://codeperfect95.com)
- - date published: 2023-10-25T13:28:25.510592+00:00
- - user: None
- - tags: $tags
-
-## CodeProject - For those who code
- - [https://www.codeproject.com](https://www.codeproject.com)
- - date published: 2023-10-25T10:13:50.403402+00:00
- - user: None
- - tags: $tags
-
-## CodeRed - Wagtail web development and hosting for businesses.
- - [https://www.coderedcorp.com](https://www.coderedcorp.com)
- - date published: 2023-10-27T13:11:12.513520+00:00
- - user: None
- - tags: $tags
-
-## codeshaunted | code’s haunted
- - [https://codeshaunted.com](https://codeshaunted.com)
- - date published: 2023-10-25T13:28:26.229731+00:00
- - user: None
- - tags: $tags
-
-## Codesolvent Blog
- - [https://blog.codesolvent.com](https://blog.codesolvent.com)
- - date published: 2023-10-25T13:28:28.190326+00:00
- - user: None
- - tags: $tags
-
-## | codethrasher
- - [https://codethrasher.com](https://codethrasher.com)
- - date published: 2023-10-25T13:28:29.506444+00:00
- - user: None
- - tags: $tags
-
-## Windows Software on Mac, Linux, and ChromeOS with CrossOver | CodeWeavers
- - [https://www.codeweavers.com](https://www.codeweavers.com)
- - date published: 2023-10-25T13:28:37.655699+00:00
- - user: None
- - tags: $tags
-
-## Code with Jason - Learn Ruby on Rails, Rails Testing, Docker, OOP
- - [https://www.codewithjason.com](https://www.codewithjason.com)
- - date published: 2023-10-25T13:28:40.388558+00:00
- - user: None
- - tags: $tags
-
-## CodeWritePlay – Game Development, Tech, Humor
- - [https://codewriteplay.com](https://codewriteplay.com)
- - date published: 2023-10-25T13:28:50.815482+00:00
- - user: None
- - tags: $tags
-
-## Coding Horror
- - [https://blog.codinghorror.com](https://blog.codinghorror.com)
- - date published: 2023-10-25T09:19:51.330520+00:00
- - user: None
- - tags: ['personal']
-
-## The Coding Nest
- - [https://codingnest.com](https://codingnest.com)
- - date published: 2023-10-25T13:28:59.884471+00:00
- - user: None
- - tags: $tags
-
-## Home - Coding Otaku
- - [https://codingotaku.com](https://codingotaku.com)
- - date published: 2023-10-25T08:45:26.168140+00:00
- - user: None
- - tags: ['personal']
 

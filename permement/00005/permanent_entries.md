@@ -1,3 +1,249 @@
+## OpenAI Status
+ - [https://status.openai.com](https://status.openai.com)
+ - date published: 2023-10-25T16:26:27.103892+00:00
+ - user: None
+ - tags: $tags
+
+## Home | OpenBSD Handbook
+ - [https://www.openbsdhandbook.com](https://www.openbsdhandbook.com)
+ - date published: 2023-10-25T16:26:28.495244+00:00
+ - user: None
+ - tags: $tags
+
+## OpenBW – free and open-source
+ - [http://www.openbw.com](http://www.openbw.com)
+ - date published: 2023-10-30T13:52:51.432424+00:00
+ - user: None
+ - tags: ['open source', 'starcraft']
+
+## OpenCage blog - what's new at OpenCage
+ - [https://blog.opencagedata.com](https://blog.opencagedata.com)
+ - date published: 2023-10-25T16:26:29.828123+00:00
+ - user: None
+ - tags: $tags
+
+## Home | Open Core Ventures
+ - [https://opencoreventures.com](https://opencoreventures.com)
+ - date published: 2023-10-25T16:26:31.896557+00:00
+ - user: None
+ - tags: $tags
+
+## OpenCritic - The top critics in gaming. All in one place.
+ - [https://opencritic.com](https://opencritic.com)
+ - date published: 2023-10-27T07:30:11.127691+00:00
+ - user: None
+ - tags: ['game news']
+
+## The best free cultural & educational media on the web - Open Culture
+ - [https://www.openculture.com](https://www.openculture.com)
+ - date published: 2023-10-25T09:28:29.608798+00:00
+ - user: None
+ - tags: $tags
+
+## Cloud Delivered Enterprise Security by OpenDNS
+ - [https://www.opendns.com](https://www.opendns.com)
+ - date published: 2023-10-30T12:52:26.123819+00:00
+ - user: None
+ - tags: ['dns']
+
+## Home | OpenFaaS - Serverless Functions Made Simple
+ - [https://www.openfaas.com](https://www.openfaas.com)
+ - date published: 2023-10-25T16:26:32.887003+00:00
+ - user: None
+ - tags: $tags
+
+## The Open Heart Project - Susan Piver
+ - [https://openheartproject.com](https://openheartproject.com)
+ - date published: 2023-10-25T16:26:38.251087+00:00
+ - user: None
+ - tags: $tags
+
+## Openlayer - The evaluation workspace for machine learning
+ - [https://www.openlayer.com](https://www.openlayer.com)
+ - date published: 2023-10-25T16:26:39.469662+00:00
+ - user: None
+ - tags: $tags
+
+## Advancing connectivity for all | Opensignal
+ - [https://www.opensignal.com](https://www.opensignal.com)
+ - date published: 2023-10-25T16:26:41.916120+00:00
+ - user: None
+ - tags: $tags
+
+## OpenSSH
+ - [https://www.openssh.com](https://www.openssh.com)
+ - date published: 2023-10-25T08:32:56.764937+00:00
+ - user: None
+ - tags: $tags
+
+## OpenSX70
+ - [https://opensx70.com](https://opensx70.com)
+ - date published: 2023-11-01T08:42:52.647761+00:00
+ - user: None
+ - tags: $tags
+
+## Open Magazine
+ - [https://openthemagazine.com](https://openthemagazine.com)
+ - date published: 2023-10-25T16:26:47.462037+00:00
+ - user: None
+ - tags: $tags
+
+## Interactive Vim tutorial
+ - [https://www.openvim.com](https://www.openvim.com)
+ - date published: 2023-10-25T09:27:45.430152+00:00
+ - user: None
+ - tags: $tags
+
+## Openwall - bringing security into open computing environments
+ - [https://www.openwall.com](https://www.openwall.com)
+ - date published: 2023-10-25T16:26:56.278778+00:00
+ - user: None
+ - tags: $tags
+
+## The Opera Blog - News | Opera
+ - [https://blogs.opera.com](https://blogs.opera.com)
+ - date published: 2023-10-25T11:29:22.476464+00:00
+ - user: None
+ - tags: $tags
+
+## Opera Web Browser | Faster, Safer, Smarter | Opera
+ - [https://www.opera.com](https://www.opera.com)
+ - date published: 2023-11-01T08:41:07.913556+00:00
+ - user: None
+ - tags: $tags
+
+## Ant-Like Persistence
+ - [https://blog.oppedahl.com](https://blog.oppedahl.com)
+ - date published: 2023-10-25T16:27:01.429670+00:00
+ - user: None
+ - tags: $tags
+
+## Smartfony i akcesoria OPPO | OPPO Polska
+ - [https://www.oppo.com](https://www.oppo.com)
+ - date published: 2023-10-25T11:26:11.032644+00:00
+ - user: None
+ - tags: ['company']
+
+## Opposite Invictus
+ - [https://oppositeinvictus.com](https://oppositeinvictus.com)
+ - date published: 2023-10-25T16:27:04.778062+00:00
+ - user: None
+ - tags: $tags
+
+## Optimising Nutrition
+ - [https://optimisingnutrition.com](https://optimisingnutrition.com)
+ - date published: 2023-10-25T16:27:10.295055+00:00
+ - user: None
+ - tags: $tags
+
+## Oracle Blogs
+ - [https://blogs.oracle.com](https://blogs.oracle.com)
+ - date published: 2023-10-25T16:27:16.386692+00:00
+ - user: None
+ - tags: $tags
+
+## Oracle | Cloud Applications and Cloud Platform
+ - [https://www.oracle.com](https://www.oracle.com)
+ - date published: 2023-10-25T11:28:29.767741+00:00
+ - user: None
+ - tags: ['company', 'java']
+
+## Orange Juice Liberation Front | Uli’s blog on programming, game development, pop culture and other boring things.
+ - [https://orangejuiceliberationfront.com](https://orangejuiceliberationfront.com)
+ - date published: 2023-10-25T16:27:20.212216+00:00
+ - user: None
+ - tags: $tags
+
+## The Orbital Index | Space: weekly, technical, curated.
+ - [https://orbitalindex.com](https://orbitalindex.com)
+ - date published: 2023-10-25T16:27:22.300273+00:00
+ - user: None
+ - tags: $tags
+
+## Homepage - Orbital
+ - [https://www.orbitalofficial.com](https://www.orbitalofficial.com)
+ - date published: 2023-10-30T13:56:48.367456+00:00
+ - user: None
+ - tags: ['music band']
+
+## Ordently - A simpler way to get things done
+ - [https://www.ordently.com](https://www.ordently.com)
+ - date published: 2023-10-25T16:27:23.383546+00:00
+ - user: None
+ - tags: $tags
+
+## Ord Phone
+ - [https://ordphone.com](https://ordphone.com)
+ - date published: 2023-10-25T08:37:02.073914+00:00
+ - user: None
+ - tags: $tags
+
+## Oregon Local News, Breaking News, Sports & Weather
+ - [https://www.oregonlive.com](https://www.oregonlive.com)
+ - date published: 2023-10-25T11:06:13.645376+00:00
+ - user: None
+ - tags: $tags
+
+## O'Reilly Media - Technology and Business Training
+ - [https://www.oreilly.com](https://www.oreilly.com)
+ - date published: 2023-10-24T20:19:32.879408+00:00
+ - user: None
+ - tags: $tags
+
+## Organ Clearing House
+ - [https://www.organclearinghouse.com](https://www.organclearinghouse.com)
+ - date published: 2023-10-25T16:27:25.213840+00:00
+ - user: None
+ - tags: $tags
+
+## Orinoco Tribune – News and opinion pieces about Venezuela and beyond – From Venezuela and made by Venezuelan Chavistas
+ - [https://orinocotribune.com](https://orinocotribune.com)
+ - date published: 2023-10-25T09:29:37.225218+00:00
+ - user: None
+ - tags: $tags
+
+## OrioleDB – the next generation storage engine for PostgreSQL
+ - [https://www.orioledata.com](https://www.orioledata.com)
+ - date published: 2023-10-25T16:27:26.200155+00:00
+ - user: None
+ - tags: $tags
+
+## Orville McDonald – Random thoughts on technology and business
+ - [https://orvillemcdonald.com](https://orvillemcdonald.com)
+ - date published: 2023-10-25T09:21:05.715824+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Orwell Foundation
+ - [https://www.orwellfoundation.com](https://www.orwellfoundation.com)
+ - date published: 2023-10-25T11:26:43.410563+00:00
+ - user: None
+ - tags: $tags
+
+## Oryx
+ - [https://www.oryxspioenkop.com](https://www.oryxspioenkop.com)
+ - date published: 2023-10-25T16:27:36.030855+00:00
+ - user: None
+ - tags: $tags
+
+## The OS/2 Museum
+ - [https://www.os2museum.com](https://www.os2museum.com)
+ - date published: 2023-10-25T16:27:40.415903+00:00
+ - user: None
+ - tags: $tags
+
+## oschvr.com
+ - [https://oschvr.com](https://oschvr.com)
+ - date published: 2023-10-25T16:27:41.499435+00:00
+ - user: None
+ - tags: $tags
+
+## osintme.com
+ - [https://www.osintme.com](https://www.osintme.com)
+ - date published: 2023-10-25T16:27:45.841879+00:00
+ - user: None
+ - tags: $tags
+
 ## OSnews  -  Exploring the Future of Computing
  - [https://www.osnews.com](https://www.osnews.com)
  - date published: 2023-10-25T09:34:29.424722+00:00
@@ -68,6 +314,12 @@
 ## OutKick - Fearless Sports Media Company Founded by Clay Travis
  - [https://www.outkick.com](https://www.outkick.com)
  - date published: 2023-10-25T10:09:04.240719+00:00
+ - user: None
+ - tags: $tags
+
+## VELO - Competitive Cycling News, Race Results and Bike Reviews
+ - [https://velo.outsideonline.com](https://velo.outsideonline.com)
+ - date published: 2023-11-02T15:51:17.506295+00:00
  - user: None
  - tags: $tags
 
@@ -266,6 +518,12 @@
 ## The Antivirus Revolution - Panda Security
  - [https://www.pandasecurity.com](https://www.pandasecurity.com)
  - date published: 2023-10-29T12:00:35.028997+00:00
+ - user: None
+ - tags: $tags
+
+## Panels & Prose
+ - [https://panelsandprose.com](https://panelsandprose.com)
+ - date published: 2023-11-02T11:19:49.225609+00:00
  - user: None
  - tags: $tags
 
@@ -566,6 +824,12 @@
 ## Pearson | The World’s Leading Education Provider
  - [https://www.pearson.com](https://www.pearson.com)
  - date published: 2023-10-25T16:31:59.807682+00:00
+ - user: None
+ - tags: $tags
+
+## PeerJ
+ - [https://peerj.com](https://peerj.com)
+ - date published: 2023-11-02T17:53:38.956577+00:00
  - user: None
  - tags: $tags
 
@@ -2554,6 +2818,12 @@
  - user: None
  - tags: $tags
 
+## Rapid7 - Practitioner-First Cybersecurity Solutions
+ - [https://www.rapid7.com](https://www.rapid7.com)
+ - date published: 2023-11-02T21:48:53.486716+00:00
+ - user: None
+ - tags: $tags
+
 ## Raptitude.com – Getting Better at Being Human
  - [https://www.raptitude.com](https://www.raptitude.com)
  - date published: 2023-10-25T16:45:55.472030+00:00
@@ -2769,6 +3039,12 @@
  - date published: 2023-10-25T16:47:14.074710+00:00
  - user: None
  - tags: $tags
+
+## Recalbox Home
+ - [https://www.recalbox.com](https://www.recalbox.com)
+ - date published: 2023-11-02T10:57:32.260196+00:00
+ - user: None
+ - tags: ['retro games', 'amiga']
 
 ## Recall - Your AI-powered knowledge base
  - [https://www.recall-app.com](https://www.recall-app.com)
@@ -3201,6 +3477,18 @@
  - date published: 2023-10-25T10:46:34.000501+00:00
  - user: None
  - tags: ['retro game', 'game news']
+
+## Retro entre Amigos
+ - [https://www.retroentreamigos.com](https://www.retroentreamigos.com)
+ - date published: 2023-11-02T09:46:17.486897+00:00
+ - user: None
+ - tags: $tags
+
+## Home
+ - [https://retrogamecoders.com](https://retrogamecoders.com)
+ - date published: 2023-11-02T11:00:22.902914+00:00
+ - user: None
+ - tags: ['retro games', 'amiga']
 
 ## RetroKingPin - Retro Gaming News & Reviews
  - [https://www.retrokingpin.com](https://www.retrokingpin.com)
@@ -3740,7 +4028,7 @@
  - [https://www.rollingstone.com](https://www.rollingstone.com)
  - date published: 2023-10-25T16:18:12.778211+00:00
  - user: None
- - tags: ['music']
+ - tags: ['political news', 'music news']
 
 ## Roll Or Don't
  - [https://www.rollordont.com](https://www.rollordont.com)
@@ -5714,294 +6002,6 @@
 ## Songtell
  - [https://www.songtell.com](https://www.songtell.com)
  - date published: 2023-10-25T17:08:13.907903+00:00
- - user: None
- - tags: $tags
-
-## Sony Group Portal - Home
- - [https://www.sony.com](https://www.sony.com)
- - date published: 2023-10-25T11:28:44.351859+00:00
- - user: None
- - tags: ['company']
-
-## Sony Semiconductor Solutions Group
- - [https://www.sony-semicon.com](https://www.sony-semicon.com)
- - date published: 2023-10-25T17:08:19.816230+00:00
- - user: None
- - tags: $tags
-
-## Naked Security – Sophos News
- - [https://nakedsecurity.sophos.com](https://nakedsecurity.sophos.com)
- - date published: 2023-10-25T17:08:21.418653+00:00
- - user: None
- - tags: $tags
-
-## SoraNews24 -Japan News-
- - [https://soranews24.com](https://soranews24.com)
- - date published: 2023-10-27T11:54:48.691383+00:00
- - user: None
- - tags: $tags
-
-## So Raven
- - [https://soraven.com](https://soraven.com)
- - date published: 2023-10-25T17:08:25.074516+00:00
- - user: None
- - tags: $tags
-
-## Sortabase | Collaborative, visual databases by communities
- - [https://www.sortabase.com](https://www.sortabase.com)
- - date published: 2023-10-25T17:08:25.672322+00:00
- - user: None
- - tags: $tags
-
-## Fine Art, Jewels, Watches, Wine Auctions & Sales | Sotheby's
- - [https://www.sothebys.com](https://www.sothebys.com)
- - date published: 2023-10-25T17:08:32.046840+00:00
- - user: None
- - tags: $tags
-
-## Sound On Sound | The World's Premier Music Recording Technology Magazine
- - [https://www.soundonsound.com](https://www.soundonsound.com)
- - date published: 2023-10-25T17:08:36.679583+00:00
- - user: None
- - tags: $tags
-
-## Sourcegraph | Code AI platform
- - [https://about.sourcegraph.com](https://about.sourcegraph.com)
- - date published: 2023-10-25T17:08:38.987824+00:00
- - user: None
- - tags: $tags
-
-## South Central Illinois' News, Sports and Weather Station
- - [https://southernillinoisnow.com](https://southernillinoisnow.com)
- - date published: 2023-10-25T17:08:42.571432+00:00
- - user: None
- - tags: $tags
-
-## Home
- - [https://southfloridagaynews.com](https://southfloridagaynews.com)
- - date published: 2023-10-25T17:08:46.864761+00:00
- - user: None
- - tags: $tags
-
-## South Park Commons
- - [https://blog.southparkcommons.com](https://blog.southparkcommons.com)
- - date published: 2023-10-25T17:08:48.298136+00:00
- - user: None
- - tags: $tags
-
-## South Park  -  Satirical Animated  TV Show | Watch Free Episodes | South Park Studios Global
- - [https://www.southparkstudios.com](https://www.southparkstudios.com)
- - date published: 2023-10-25T11:51:28.267947+00:00
- - user: None
- - tags: ['video streaming']
-
-## South Seattle Emerald | Amplifying the Authentic Narratives of South Seattle
- - [https://southseattleemerald.com](https://southseattleemerald.com)
- - date published: 2023-10-25T17:08:53.460751+00:00
- - user: None
- - tags: $tags
-
-## Space.com: NASA, Space Exploration and Astronomy News
- - [https://www.space.com](https://www.space.com)
- - date published: 2023-10-25T10:09:39.737329+00:00
- - user: None
- - tags: $tags
-
-## Space Tourism, Space Transport and Space Exploration News
- - [https://www.space-travel.com](https://www.space-travel.com)
- - date published: 2023-10-25T17:08:56.413677+00:00
- - user: None
- - tags: $tags
-
-## SpaceBattles
- - [https://forums.spacebattles.com](https://forums.spacebattles.com)
- - date published: 2023-10-25T17:08:58.795934+00:00
- - user: None
- - tags: $tags
-
-## SpaceChatter - Houston, We have some Chatter
- - [https://www.spacechatter.com](https://www.spacechatter.com)
- - date published: 2023-10-26T17:02:39.838269+00:00
- - user: None
- - tags: $tags
-
-## Space News From SpaceDaily.Com
- - [https://www.spacedaily.com](https://www.spacedaily.com)
- - date published: 2023-10-25T17:09:01.895784+00:00
- - user: None
- - tags: $tags
-
-## Spacedimp
- - [https://spacedimp.com](https://spacedimp.com)
- - date published: 2023-10-25T17:09:02.393709+00:00
- - user: None
- - tags: $tags
-
-## Spacedrive — A file manager from the future.
- - [https://www.spacedrive.com](https://www.spacedrive.com)
- - date published: 2023-10-27T11:55:43.614175+00:00
- - user: None
- - tags: $tags
-
-## NEODyS
- - [https://newton.spacedys.com](https://newton.spacedys.com)
- - date published: 2023-10-25T17:09:03.246191+00:00
- - user: None
- - tags: $tags
-
-## Spaceflight101 – Space News and Beyond
- - [https://spaceflight101.com](https://spaceflight101.com)
- - date published: 2023-10-25T17:09:05.078240+00:00
- - user: None
- - tags: $tags
-
-## Space Intel Report - Intelligence report for the space industry
- - [https://www.spaceintelreport.com](https://www.spaceintelreport.com)
- - date published: 2023-10-25T17:09:09.148488+00:00
- - user: None
- - tags: $tags
-
-## Home - SpaceNews
- - [https://spacenews.com](https://spacenews.com)
- - date published: 2023-10-25T10:11:21.607203+00:00
- - user: None
- - tags: $tags
-
-## SpacePolicyOnline.com – Your first stop for news, information and analysis about civil, military and commercial space programs
- - [https://spacepolicyonline.com](https://spacepolicyonline.com)
- - date published: 2023-10-25T17:09:11.721721+00:00
- - user: None
- - tags: $tags
-
-## Home - SpaceRef
- - [https://spaceref.com](https://spaceref.com)
- - date published: 2023-10-25T17:09:14.536126+00:00
- - user: None
- - tags: $tags
-
-## Spaceweather.com
- - [https://spaceweatherarchive.com](https://spaceweatherarchive.com)
- - date published: 2023-10-25T17:09:20.403477+00:00
- - user: None
- - tags: $tags
-
-## SPACEX - ISS Docking Simulator
- - [https://iss-sim.spacex.com](https://iss-sim.spacex.com)
- - date published: 2023-10-25T17:09:21.103392+00:00
- - user: None
- - tags: $tags
-
-## SpaceX
- - [https://www.spacex.com](https://www.spacex.com)
- - date published: 2023-10-25T17:09:21.854731+00:00
- - user: None
- - tags: $tags
-
-## Zero Credibility | Slava Akhmechet | Substack
- - [https://www.spakhm.com](https://www.spakhm.com)
- - date published: 2023-10-25T17:09:24.192822+00:00
- - user: None
- - tags: $tags
-
-## Spannr - Longevity News & Insights
- - [https://spannr.com](https://spannr.com)
- - date published: 2023-10-25T17:09:26.064802+00:00
- - user: None
- - tags: $tags
-
-## Learn at SparkFun Electronics - SparkFun Learn
- - [https://learn.sparkfun.com](https://learn.sparkfun.com)
- - date published: 2023-10-25T17:09:28.626320+00:00
- - user: None
- - tags: $tags
-
-## SparkFun Electronics
- - [https://www.sparkfun.com](https://www.sparkfun.com)
- - date published: 2023-10-25T17:09:37.100830+00:00
- - user: None
- - tags: $tags
-
-## Spark Mail — Smart. Focused. Email.
- - [https://sparkmailapp.com](https://sparkmailapp.com)
- - date published: 2023-10-25T17:09:39.568079+00:00
- - user: None
- - tags: $tags
-
-## Sparring Mind: Creative Work and Human Behavior
- - [https://www.sparringmind.com](https://www.sparringmind.com)
- - date published: 2023-10-25T17:09:40.935104+00:00
- - user: None
- - tags: $tags
-
-## Speaker Deck | Easily Share Your Presentations Online
- - [https://speakerdeck.com](https://speakerdeck.com)
- - date published: 2023-10-25T17:09:48.220637+00:00
- - user: None
- - tags: $tags
-
-## Speculative Branches
- - [https://specbranch.com](https://specbranch.com)
- - date published: 2023-10-25T17:09:49.340220+00:00
- - user: None
- - tags: $tags
-
-## The Spectator
- - [https://spectatorworld.com](https://spectatorworld.com)
- - date published: 2023-10-25T17:09:52.971452+00:00
- - user: None
- - tags: $tags
-
-## http://spectrumlocalnews.com
- - [http://spectrumlocalnews.com](http://spectrumlocalnews.com)
- - date published: 2023-10-25T17:09:53.979019+00:00
- - user: None
- - tags: $tags
-
-## Speech Meter - Analyze your accent and improve your pronunciation
- - [https://speechmeter.com](https://speechmeter.com)
- - date published: 2023-10-25T17:09:54.893442+00:00
- - user: None
- - tags: $tags
-
-## SpeedCurve | Website Performance Monitoring
- - [https://www.speedcurve.com](https://www.speedcurve.com)
- - date published: 2023-10-25T17:09:59.183470+00:00
- - user: None
- - tags: $tags
-
-## spf13
- - [https://spf13.com](https://spf13.com)
- - date published: 2023-10-25T17:10:00.325400+00:00
- - user: None
- - tags: $tags
-
-## Spherical Cow Consulting - Translating geek to human
- - [https://sphericalcowconsulting.com](https://sphericalcowconsulting.com)
- - date published: 2023-10-25T17:10:09.453631+00:00
- - user: None
- - tags: $tags
-
-## Business and Industry News, Analysis and Expert Insights - Spiceworks
- - [https://www.spiceworks.com](https://www.spiceworks.com)
- - date published: 2023-10-25T17:10:27.438171+00:00
- - user: None
- - tags: $tags
-
-## spiked - humanity is underrated
- - [https://www.spiked-online.com](https://www.spiked-online.com)
- - date published: 2023-10-25T17:10:30.358271+00:00
- - user: None
- - tags: $tags
-
-## https://spikeybits.com
- - [https://spikeybits.com](https://spikeybits.com)
- - date published: 2023-10-25T11:11:37.761643+00:00
- - user: None
- - tags: ['star wars', 'warhammer', 'tabletop games']
-
-## Spinfuel Magazine
- - [https://spinfuel.com](https://spinfuel.com)
- - date published: 2023-10-25T17:10:35.537230+00:00
  - user: None
  - tags: $tags
 

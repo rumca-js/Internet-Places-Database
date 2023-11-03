@@ -1,3 +1,190 @@
+## ▷ Game Guides, Tutorials and Reviews for E-Sport Games
+ - [https://gaming-tools.com](https://gaming-tools.com)
+ - date published: 2023-10-29T10:37:29.297437+00:00
+ - user: None
+ - tags: ['warcraft']
+
+## Gaming Alexandria – Video Game History and Preservation
+ - [https://www.gamingalexandria.com](https://www.gamingalexandria.com)
+ - date published: 2023-10-25T14:41:14.275764+00:00
+ - user: None
+ - tags: $tags
+
+## GAMINGbible - Let's All Play
+ - [https://www.gamingbible.com](https://www.gamingbible.com)
+ - date published: 2023-10-25T10:48:48.447960+00:00
+ - user: None
+ - tags: $tags
+
+## Video Game News, Reviews, Walkthroughs And Guides | GamingBolt
+ - [https://gamingbolt.com](https://gamingbolt.com)
+ - date published: 2023-11-01T07:18:36.819292+00:00
+ - user: None
+ - tags: ['game news']
+
+## GAMINGDEPUTY - ‏‏‎‎‏‏‎ ‎News, Reviews & Insights
+ - [https://www.gamingdeputy.com](https://www.gamingdeputy.com)
+ - date published: 2023-10-25T14:41:18.532720+00:00
+ - user: None
+ - tags: $tags
+
+## Gaming Gorilla | Video Game Reviews, Release Dates, Trailers & Lists
+ - [https://gaminggorilla.com](https://gaminggorilla.com)
+ - date published: 2023-10-25T11:16:34.246333+00:00
+ - user: None
+ - tags: $tags
+
+## Gaming History 101
+ - [https://gaminghistory101.com](https://gaminghistory101.com)
+ - date published: 2023-10-27T14:41:44.461635+00:00
+ - user: None
+ - tags: ['amiga']
+
+## Linux, SteamOS, Steam Deck gaming | GamingOnLinux
+ - [https://www.gamingonlinux.com](https://www.gamingonlinux.com)
+ - date published: 2023-10-25T10:48:57.032223+00:00
+ - user: None
+ - tags: ['linux', 'game news']
+
+## GamingScan | Your Source For Gaming Advice
+ - [https://www.gamingscan.com](https://www.gamingscan.com)
+ - date published: 2023-10-26T18:49:00.039944+00:00
+ - user: None
+ - tags: $tags
+
+## Gaming Street - Where Gaming meets Wall Street - Gaming Street
+ - [https://gamingstreet.com](https://gamingstreet.com)
+ - date published: 2023-10-25T14:41:24.384607+00:00
+ - user: None
+ - tags: $tags
+
+## GammaWire - Tech News & Trends
+ - [https://gammawire.com](https://gammawire.com)
+ - date published: 2023-10-25T14:41:33.539645+00:00
+ - user: None
+ - tags: $tags
+
+## Garden & Gun | Official Website of Garden & Gun Magazine
+ - [https://gardenandgun.com](https://gardenandgun.com)
+ - date published: 2023-10-25T14:41:38.475199+00:00
+ - user: None
+ - tags: $tags
+
+## Gardens of Hecate
+ - [https://gardensofhecate.com](https://gardensofhecate.com)
+ - date published: 2023-10-27T15:05:43.896413+00:00
+ - user: None
+ - tags: ['tabletop games']
+
+## GarlicGPT - America's second finest news source.
+ - [https://www.garlicgpt.com](https://www.garlicgpt.com)
+ - date published: 2023-10-25T14:41:45.529584+00:00
+ - user: None
+ - tags: $tags
+
+## Garmin | Polska | Home
+ - [https://www.garmin.com](https://www.garmin.com)
+ - date published: 2023-10-25T14:41:51.269725+00:00
+ - user: None
+ - tags: $tags
+
+## Gartner | Delivering Actionable, Objective Insight to Executives and Their Teams
+ - [https://www.gartner.com](https://www.gartner.com)
+ - date published: 2023-10-25T14:41:54.624249+00:00
+ - user: None
+ - tags: $tags
+
+## Gary Voth – Photography, Technology, Design
+ - [https://www.garyvoth.com](https://www.garyvoth.com)
+ - date published: 2023-10-25T14:41:58.580348+00:00
+ - user: None
+ - tags: $tags
+
+## Home | Bill Gates
+ - [https://www.gatesnotes.com](https://www.gatesnotes.com)
+ - date published: 2023-10-25T14:42:06.251930+00:00
+ - user: None
+ - tags: $tags
+
+## Gaurang Tandon
+ - [https://gaurangtandon.com](https://gaurangtandon.com)
+ - date published: 2023-11-01T08:42:09.254638+00:00
+ - user: None
+ - tags: $tags
+
+## Gavin D. Howard
+ - [https://gavinhoward.com](https://gavinhoward.com)
+ - date published: 2023-10-25T14:42:07.699227+00:00
+ - user: None
+ - tags: $tags
+
+## Gawker
+ - [https://www.gawker.com](https://www.gawker.com)
+ - date published: 2023-10-25T14:42:10.336138+00:00
+ - user: None
+ - tags: $tags
+
+## Peoples Gazette - Truth, Courage or Nothing...
+ - [https://gazettengr.com](https://gazettengr.com)
+ - date published: 2023-10-25T14:42:16.982105+00:00
+ - user: None
+ - tags: $tags
+
+## GBurghoorn
+ - [https://gburghoorn.com](https://gburghoorn.com)
+ - date published: 2023-10-25T08:45:50.786825+00:00
+ - user: None
+ - tags: ['personal']
+
+## gCaptain – Maritime News
+ - [https://gcaptain.com](https://gcaptain.com)
+ - date published: 2023-10-25T14:42:22.481020+00:00
+ - user: None
+ - tags: $tags
+
+## Historic Stock Lookup | Microsoft Corporation
+ - [https://microsoft.gcs-web.com](https://microsoft.gcs-web.com)
+ - date published: 2023-10-25T14:42:23.906807+00:00
+ - user: None
+ - tags: $tags
+
+## Pages (iframe) | Qualtrics
+ - [https://qualtrics.gcs-web.com](https://qualtrics.gcs-web.com)
+ - date published: 2023-10-25T14:42:24.720200+00:00
+ - user: None
+ - tags: $tags
+
+## Gearrice - Explore the Tech World
+ - [https://www.gearrice.com](https://www.gearrice.com)
+ - date published: 2023-10-25T14:42:28.981386+00:00
+ - user: None
+ - tags: $tags
+
+## Gear Solutions Magazine Your Resource to the Gear Industry | Advertise and reach a broad-base audience of gear industry professionals and buyers with Gear Solutions magazine — the complete online resource for the gear industry. Media kit available at Gear Solutions.
+ - [https://gearsolutions.com](https://gearsolutions.com)
+ - date published: 2023-10-25T14:42:36.223188+00:00
+ - user: None
+ - tags: $tags
+
+## Gearspace.com - Gearspace.com - The No. 1 Website for Pro Audio
+ - [https://gearspace.com](https://gearspace.com)
+ - date published: 2023-10-26T14:06:10.928654+00:00
+ - user: None
+ - tags: $tags
+
+## Home
+ - Geekbench
+ - [https://browser.geekbench.com](https://browser.geekbench.com)
+ - date published: 2023-11-02T05:02:44.382001+00:00
+ - user: None
+ - tags: $tags
+
+## Geek Metaverse News – AI, Crypto, Metaverse, NFT, Tech, Web3, Gaming and Reviews
+ - [https://www.geekmetaverse.com](https://www.geekmetaverse.com)
+ - date published: 2023-10-25T09:33:13.008147+00:00
+ - user: None
+ - tags: $tags
+
 ## GeekPress
  - [http://blog.geekpress.com](http://blog.geekpress.com)
  - date published: 2023-10-25T14:42:47.338191+00:00
@@ -27,6 +214,12 @@
  - date published: 2023-10-25T14:42:49.519488+00:00
  - user: None
  - tags: $tags
+
+## GenerationAmiga.com
+ - [https://www.generationamiga.com](https://www.generationamiga.com)
+ - date published: 2023-11-02T10:54:43.329371+00:00
+ - user: None
+ - tags: ['amiga', 'magazine']
 
 ## Genius | Song Lyrics & Knowledge
  - [https://genius.com](https://genius.com)
@@ -157,6 +350,12 @@
 ## GetWaitlist | Waitlist Software with Referral and Email Marketing
  - [https://getwaitlist.com](https://getwaitlist.com)
  - date published: 2023-10-25T14:43:42.184167+00:00
+ - user: None
+ - tags: $tags
+
+## Georgi Gerganov's Home Page
+ - [https://ggerganov.com](https://ggerganov.com)
+ - date published: 2023-11-02T14:14:54.310461+00:00
  - user: None
  - tags: $tags
 
@@ -994,6 +1193,12 @@
 ## Grammarly API: Get the Grammarly Text Editor SDK
  - [https://developer.grammarly.com](https://developer.grammarly.com)
  - date published: 2023-10-25T14:50:34.615002+00:00
+ - user: None
+ - tags: $tags
+
+## Service Status | Grammarly Status
+ - [https://status.grammarly.com](https://status.grammarly.com)
+ - date published: 2023-11-02T17:04:05.272966+00:00
  - user: None
  - tags: $tags
 
@@ -2380,6 +2585,12 @@
 ## Home | Huck
  - [https://www.huckmag.com](https://www.huckmag.com)
  - date published: 2023-10-25T15:14:27.054185+00:00
+ - user: None
+ - tags: $tags
+
+## The Hudson Review
+ - [https://hudsonreview.com](https://hudsonreview.com)
+ - date published: 2023-11-02T13:02:21.294337+00:00
  - user: None
  - tags: $tags
 
@@ -4519,6 +4730,12 @@
  - user: None
  - tags: $tags
 
+## https://www.jsad.com
+ - [https://www.jsad.com](https://www.jsad.com)
+ - date published: 2023-11-02T20:51:07.780630+00:00
+ - user: None
+ - tags: $tags
+
 ## J. Sanilac
  - [https://www.jsanilac.com](https://www.jsanilac.com)
  - date published: 2023-10-25T15:32:29.108341+00:00
@@ -5768,231 +5985,15 @@
  - user: None
  - tags: $tags
 
+## https://www.leagueoflegends.com
+ - [https://www.leagueoflegends.com](https://www.leagueoflegends.com)
+ - date published: 2023-11-02T10:41:02.774533+00:00
+ - user: None
+ - tags: $tags
+
 ## And now it’s all this
  - [https://leancrew.com](https://leancrew.com)
  - date published: 2023-10-25T08:58:14.214738+00:00
  - user: None
  - tags: ['personal']
-
-## And now it’s all this
- - [http://www.leancrew.com](http://www.leancrew.com)
- - date published: 2023-10-25T15:43:33.995361+00:00
- - user: None
- - tags: $tags
-
-## JavaFiddle - Build and share Java code snippets in your browser
- - [https://javafiddle.leaningtech.com](https://javafiddle.leaningtech.com)
- - date published: 2023-10-25T15:43:39.439255+00:00
- - user: None
- - tags: $tags
-
-## We Are WebAssembly Experts | Leaning Technologies
- - [https://leaningtech.com](https://leaningtech.com)
- - date published: 2023-10-25T15:43:41.678164+00:00
- - user: None
- - tags: $tags
-
-## LeapSecond Home Page
- - [http://leapsecond.com](http://leapsecond.com)
- - date published: 2023-10-25T15:43:48.984506+00:00
- - user: None
- - tags: $tags
-
-## LeapSecond Home Page
- - [http://www.leapsecond.com](http://www.leapsecond.com)
- - date published: 2023-10-25T15:43:50.814570+00:00
- - user: None
- - tags: $tags
-
-## Learn C++ – Skill up with our free tutorials
- - [https://www.learncpp.com](https://www.learncpp.com)
- - date published: 2023-10-25T15:43:56.323518+00:00
- - user: None
- - tags: $tags
-
-## Learn and Test DMARC
- - [https://www.learndmarc.com](https://www.learndmarc.com)
- - date published: 2023-10-25T15:43:57.010265+00:00
- - user: None
- - tags: $tags
-
-## AI-Powered AI News | Emergent Mind
- - [https://www.learngpt.com](https://www.learngpt.com)
- - date published: 2023-10-25T15:44:04.488107+00:00
- - user: None
- - tags: $tags
-
-## Hardcore Software by Steven Sinofsky | Substack
- - [https://hardcoresoftware.learningbyshipping.com](https://hardcoresoftware.learningbyshipping.com)
- - date published: 2023-10-25T15:44:07.575535+00:00
- - user: None
- - tags: $tags
-
-## Learn Code the Hard Way
- - [https://learnjsthehardway.com](https://learnjsthehardway.com)
- - date published: 2023-10-25T15:44:09.394971+00:00
- - user: None
- - tags: $tags
-
-## Learn TLA+ — Learn TLA+
- - [https://learntla.com](https://learntla.com)
- - date published: 2023-10-25T15:44:15.064986+00:00
- - user: None
- - tags: $tags
-
-## Learn X in Y Minutes: Scenic Programming Language Tours
- - [https://learnxinyminutes.com](https://learnxinyminutes.com)
- - date published: 2023-10-25T15:44:16.698078+00:00
- - user: None
- - tags: $tags
-
-## Lectronz
- - [https://lectronz.com](https://lectronz.com)
- - date published: 2023-10-25T15:44:18.811085+00:00
- - user: None
- - tags: $tags
-
-## Ledger Labs
- - [https://blog.ledger.com](https://blog.ledger.com)
- - date published: 2023-10-25T15:44:20.094476+00:00
- - user: None
- - tags: $tags
-
-## Ledger - Home of the first and only certified Hardware wallets | Ledger
- - [https://shop.ledger.com](https://shop.ledger.com)
- - date published: 2023-10-25T15:44:25.359911+00:00
- - user: None
- - tags: $tags
-
-## Little Short Bulletins | Likely Some Balderdash
- - [https://www.leebutterman.com](https://www.leebutterman.com)
- - date published: 2023-10-25T15:44:26.549554+00:00
- - user: None
- - tags: $tags
-
-## Lee Byron
- - [https://leebyron.com](https://leebyron.com)
- - date published: 2023-10-25T15:44:27.988608+00:00
- - user: None
- - tags: $tags
-
-## Lee Fang | Substack
- - [https://www.leefang.com](https://www.leefang.com)
- - date published: 2023-10-25T15:44:30.439070+00:00
- - user: None
- - tags: $tags
-
-## Pittsburgh Injury Law News | A Legal Examiner Affiliate
- - [https://pittsburgh.legalexaminer.com](https://pittsburgh.legalexaminer.com)
- - date published: 2023-10-25T15:44:33.564468+00:00
- - user: None
- - tags: $tags
-
-## Legends of Localization - Exploring the best & worst game translations
- - [https://legendsoflocalization.com](https://legendsoflocalization.com)
- - date published: 2023-10-25T15:44:36.189494+00:00
- - user: None
- - tags: $tags
-
-## Legit Websites
- - [https://legit-startups.com](https://legit-startups.com)
- - date published: 2023-10-25T15:44:41.638239+00:00
- - user: None
- - tags: $tags
-
-## Strona główna | Witamy w oficjalnym sklepie LEGO® PL
- - [https://www.lego.com](https://www.lego.com)
- - date published: 2023-10-25T11:24:02.411518+00:00
- - user: None
- - tags: $tags
-
-## The Lego Mirror
- - [https://blog.legoktm.com](https://blog.legoktm.com)
- - date published: 2023-10-25T15:44:43.009239+00:00
- - user: None
- - tags: $tags
-
-## Leif Gehrmann
- - [https://leifgehrmann.com](https://leifgehrmann.com)
- - date published: 2023-10-25T15:44:43.990623+00:00
- - user: None
- - tags: $tags
-
-## Interesting things
- - [https://www.lelanthran.com](https://www.lelanthran.com)
- - date published: 2023-10-25T15:44:45.580173+00:00
- - user: None
- - tags: $tags
-
-## Lemon64 - Commodore 64 Games - C64 Reviews & Music
- - [https://www.lemon64.com](https://www.lemon64.com)
- - date published: 2023-10-27T14:47:48.864514+00:00
- - user: None
- - tags: ['commodore', 'retro games']
-
-## Lemon Amiga - Games, Download, Emulator, Cheats & Forum
- - [https://www.lemonamiga.com](https://www.lemonamiga.com)
- - date published: 2023-10-25T11:09:23.171003+00:00
- - user: None
- - tags: $tags
-
-## LemonSpawn – Turbo Rascal Syntax Error
- - [https://lemonspawn.com](https://lemonspawn.com)
- - date published: 2023-10-25T15:44:46.519531+00:00
- - user: None
- - tags: $tags
-
-## LendingTree: You Win
- - [https://www.lendingtree.com](https://www.lendingtree.com)
- - date published: 2023-10-25T15:44:50.204528+00:00
- - user: None
- - tags: $tags
-
-## Lenny's Newsletter | Lenny Rachitsky | Substack
- - [https://www.lennysnewsletter.com](https://www.lennysnewsletter.com)
- - date published: 2023-10-25T09:40:14.932048+00:00
- - user: None
- - tags: ['substack']
-
-## Lenovo Press
- - [https://lenovopress.lenovo.com](https://lenovopress.lenovo.com)
- - date published: 2023-10-25T15:44:54.928538+00:00
- - user: None
- - tags: $tags
-
-## Oficjalna witryna Lenovo® | Laptopy, tablety, komputery, urządzenia inteligentne, telefony i Data Center | Lenovo Poland
- - [https://www.lenovo.com](https://www.lenovo.com)
- - date published: 2023-10-25T11:28:05.722801+00:00
- - user: None
- - tags: ['company']
-
-## leonidasv.com
- - [https://leonidasv.com](https://leonidasv.com)
- - date published: 2023-10-25T15:45:05.620518+00:00
- - user: None
- - tags: $tags
-
-## LEO Weekly • Louisville's Alt-Weekly
- - [https://www.leoweekly.com](https://www.leoweekly.com)
- - date published: 2023-10-25T15:45:09.727753+00:00
- - user: None
- - tags: $tags
-
-## Les bons comptes
- - [https://www.lesbonscomptes.com](https://www.lesbonscomptes.com)
- - date published: 2023-10-25T15:45:12.138163+00:00
- - user: None
- - tags: $tags
-
-## LessWrong
- - [https://www.lesswrong.com](https://www.lesswrong.com)
- - date published: 2023-10-25T15:45:22.248975+00:00
- - user: None
- - tags: $tags
-
-## Leteyski's blog
- - [https://www.leteyski.com](https://www.leteyski.com)
- - date published: 2023-10-25T15:45:24.651458+00:00
- - user: None
- - tags: $tags
 
