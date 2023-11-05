@@ -1,3 +1,238 @@
+## Global Investigative Journalism Network
+ - [https://gijn.org](https://gijn.org)
+ - date published: 2023-10-25T21:24:56.514394+00:00
+ - user: None
+ - tags: []
+
+## GIMP - GNU Image Manipulation Program
+ - [https://www.gimp.org](https://www.gimp.org)
+ - date published: 2023-10-25T21:24:57.942609+00:00
+ - user: None
+ - tags: ['program', 'open source']
+
+## gingerBill
+ - [https://www.gingerbill.org](https://www.gingerbill.org)
+ - date published: 2023-10-25T21:24:58.962507+00:00
+ - user: None
+ - tags: []
+
+## GitLab Foundation
+ - [https://www.gitlabfoundation.org](https://www.gitlabfoundation.org)
+ - date published: 2023-10-25T21:25:00.592742+00:00
+ - user: None
+ - tags: []
+
+## GLLAMM
+ - [http://www.gllamm.org](http://www.gllamm.org)
+ - date published: 2023-10-25T21:25:02.085411+00:00
+ - user: None
+ - tags: []
+
+## Global Chemistry
+ - [https://www.globalchemistry.org](https://www.globalchemistry.org)
+ - date published: 2023-10-25T21:25:13.879712+00:00
+ - user: None
+ - tags: []
+
+## Global Encryption Coalition – Global Encryption Coalition
+ - [https://www.globalencryption.org](https://www.globalencryption.org)
+ - date published: 2023-10-25T21:25:17.459696+00:00
+ - user: None
+ - tags: []
+
+## Home | GLOBSEC - A Global Think Tank: Ideas Shaping the World
+ - [https://www.globsec.org](https://www.globsec.org)
+ - date published: 2023-10-25T21:25:21.123333+00:00
+ - user: None
+ - tags: []
+
+## The GNU MP Bignum Library
+ - [https://gmplib.org](https://gmplib.org)
+ - date published: 2023-10-25T21:25:27.856241+00:00
+ - user: None
+ - tags: []
+
+## GNOME Blogs – A blogging community for GNOME contributors
+ - [https://blogs.gnome.org](https://blogs.gnome.org)
+ - date published: 2023-10-25T21:25:31.296886+00:00
+ - user: None
+ - tags: []
+
+## The GNOME Foundation – Building a diverse and sustainable free software ecosystem
+ - [https://foundation.gnome.org](https://foundation.gnome.org)
+ - date published: 2023-10-25T21:25:34.346769+00:00
+ - user: None
+ - tags: []
+
+## This Week in GNOME
+ - [https://thisweek.gnome.org](https://thisweek.gnome.org)
+ - date published: 2023-10-25T21:25:35.832307+00:00
+ - user: None
+ - tags: []
+
+## Overview
+ - [https://gnome-terminator.org](https://gnome-terminator.org)
+ - date published: 2023-10-30T14:12:47.646665+00:00
+ - user: None
+ - tags: ['terminal']
+
+## The Gnosis Archive
+ - [http://gnosis.org](http://gnosis.org)
+ - date published: 2023-10-25T21:25:37.434433+00:00
+ - user: None
+ - tags: []
+
+## Audio/Video - GNU Project - Free-Software Foundation
+ - [https://audio-video.gnu.org](https://audio-video.gnu.org)
+ - date published: 2023-10-25T21:25:39.128462+00:00
+ - user: None
+ - tags: []
+
+## Index of /
+ - [https://ftp.gnu.org](https://ftp.gnu.org)
+ - date published: 2023-10-25T21:25:41.505440+00:00
+ - user: None
+ - tags: []
+
+## GCC, the GNU Compiler Collection
+- GNU Project
+ - [https://gcc.gnu.org](https://gcc.gnu.org)
+ - date published: 2023-10-25T21:25:44.167805+00:00
+ - user: None
+ - tags: []
+
+## GNU Guix transactional package manager and distribution — GNU Guix
+ - [https://guix.gnu.org](https://guix.gnu.org)
+ - date published: 2023-10-25T21:25:47.790129+00:00
+ - user: None
+ - tags: []
+
+## lists.gnu.org
+ - [https://lists.gnu.org](https://lists.gnu.org)
+ - date published: 2023-10-25T21:25:51.009984+00:00
+ - user: None
+ - tags: []
+
+## The GNU Operating System and the Free Software Movement
+ - [https://www.gnu.org](https://www.gnu.org)
+ - date published: 2023-10-25T11:25:37.259701+00:00
+ - user: None
+ - tags: ['open source']
+
+## Compiler Explorer
+ - [https://godbolt.org](https://godbolt.org)
+ - date published: 2023-10-25T21:25:55.654816+00:00
+ - user: None
+ - tags: []
+
+## Godot Docs – 4.1 branch — Godot Engine (stable) documentation in English
+ - [https://docs.godotengine.org](https://docs.godotengine.org)
+ - date published: 2023-10-25T21:26:38.077433+00:00
+ - user: None
+ - tags: []
+
+## Godot Development Fund
+ - [https://fund.godotengine.org](https://fund.godotengine.org)
+ - date published: 2023-10-25T08:39:29.413240+00:00
+ - user: None
+ - tags: []
+
+## Godot Engine - Free and open source 2D and 3D game engine
+ - [https://godotengine.org](https://godotengine.org)
+ - date published: 2023-10-25T08:33:45.047771+00:00
+ - user: None
+ - tags: ['game engine', 'open source']
+
+## Godot Forums
+ - [https://godotforums.org](https://godotforums.org)
+ - date published: 2023-10-25T21:26:41.786556+00:00
+ - user: None
+ - tags: []
+
+## Back in 5 mins | Ruby, loadsa bash, tweets and cats.
+ - [https://jay.gooby.org](https://jay.gooby.org)
+ - date published: 2023-10-25T21:26:49.689151+00:00
+ - user: None
+ - tags: []
+
+## Violation Tracker
+ - [https://violationtracker.goodjobsfirst.org](https://violationtracker.goodjobsfirst.org)
+ - date published: 2023-10-25T21:26:52.979652+00:00
+ - user: None
+ - tags: []
+
+## Good News, Inspiring, Positive Stories - Good News Network
+ - [https://www.goodnewsnetwork.org](https://www.goodnewsnetwork.org)
+ - date published: 2023-10-25T21:27:00.650084+00:00
+ - user: None
+ - tags: []
+
+## GovLeaders.org - Growing Leaders for the Public Service
+ - [https://govleaders.org](https://govleaders.org)
+ - date published: 2023-10-25T21:27:03.116588+00:00
+ - user: None
+ - tags: []
+
+## GPSJAM GPS/GNSS Interference Map
+ - [https://gpsjam.org](https://gpsjam.org)
+ - date published: 2023-10-25T21:27:04.103247+00:00
+ - user: None
+ - tags: []
+
+## GraalVM
+ - [https://www.graalvm.org](https://www.graalvm.org)
+ - date published: 2023-10-25T21:27:05.271343+00:00
+ - user: None
+ - tags: []
+
+## Grand Egyptian Museum – Estimated opening: Late-2023 or Early-2024
+ - [https://grandegyptianmuseum.org](https://grandegyptianmuseum.org)
+ - date published: 2023-10-27T13:05:42.702945+00:00
+ - user: None
+ - tags: ['museum']
+
+## GrapheneOS: the private and secure mobile OS
+ - [https://grapheneos.org](https://grapheneos.org)
+ - date published: 2023-10-30T16:18:44.734101+00:00
+ - user: None
+ - tags: ['open source', 'android', 'operating system']
+
+## Greenpeace
+ - [https://www.greenpeace.org](https://www.greenpeace.org)
+ - date published: 2023-10-25T21:27:06.203930+00:00
+ - user: None
+ - tags: []
+
+## Personal website of Gregory S. Donner
+ - [https://www.gregdonner.org](https://www.gregdonner.org)
+ - date published: 2023-11-02T10:50:28.897514+00:00
+ - user: None
+ - tags: ['personal', 'amiga']
+
+## Gren
+ - [https://gren-lang.org](https://gren-lang.org)
+ - date published: 2023-10-25T21:27:06.909825+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Grex: Public Access Unix (Legacy Site)
+ - [https://grex.org](https://grex.org)
+ - date published: 2023-10-25T21:27:12.688248+00:00
+ - user: None
+ - tags: []
+
+## Pavel Grinfeld
+ - [https://grinfeld.org](https://grinfeld.org)
+ - date published: 2023-10-25T21:27:14.153144+00:00
+ - user: None
+ - tags: []
+
+## GripTape Challenge - Learn How and What You Want
+ - [https://www.griptape.org](https://www.griptape.org)
+ - date published: 2023-10-25T21:27:16.108644+00:00
+ - user: None
+ - tags: []
+
 ## Grist.org: Climate. Justice. Solutions. | Grist
  - [https://grist.org](https://grist.org)
  - date published: 2023-10-25T21:27:20.287221+00:00
@@ -926,6 +1161,12 @@ Welcome
 ## KaTeX – The fastest math typesetting library for the web
  - [https://katex.org](https://katex.org)
  - date published: 2023-10-25T21:36:00.014489+00:00
+ - user: None
+ - tags: []
+
+## KCUR | KCUR - Kansas City news and NPR
+ - [https://www.kcur.org](https://www.kcur.org)
+ - date published: 2023-11-04T18:28:47.889014+00:00
  - user: None
  - tags: []
 
@@ -3360,6 +3601,12 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
+## People's World
+ - [https://peoplesworld.org](https://peoplesworld.org)
+ - date published: 2023-11-04T02:47:57.842267+00:00
+ - user: None
+ - tags: []
+
 ## blogs.perl.org — blogging the onion
  - [https://blogs.perl.org](https://blogs.perl.org)
  - date published: 2023-10-25T21:56:44.273665+00:00
@@ -3381,6 +3628,12 @@ Common Weakness Enumeration
 ## Pessimists Archive Newsletter | Substack
  - [https://newsletter.pessimistsarchive.org](https://newsletter.pessimistsarchive.org)
  - date published: 2023-10-25T21:57:00.476125+00:00
+ - user: None
+ - tags: []
+
+## Pessimists Archive
+ - [https://pessimistsarchive.org](https://pessimistsarchive.org)
+ - date published: 2023-11-04T23:05:27+00:00
  - user: None
  - tags: []
 
@@ -4323,6 +4576,12 @@ Common Weakness Enumeration
 ## RSC Publishing Home – Chemical Science Journals, Books and Databases
  - [https://pubs.rsc.org](https://pubs.rsc.org)
  - date published: 2023-10-25T22:04:39.470576+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://rsf.org](https://rsf.org)
+ - date published: 2023-11-04T05:27:56.792967+00:00
  - user: None
  - tags: []
 
@@ -5741,264 +6000,6 @@ Common Weakness Enumeration
 ## renegat0x0 site
  - [http://tsoding.org](http://tsoding.org)
  - date published: 2023-10-25T22:15:43.791618+00:00
- - user: None
- - tags: []
-
-## Minnie's Home Page
- - [https://minnie.tuhs.org](https://minnie.tuhs.org)
- - date published: 2023-10-25T22:15:45.834689+00:00
- - user: None
- - tags: []
-
-## The Unix Heritage Society
- - [https://www.tuhs.org](https://www.tuhs.org)
- - date published: 2023-10-25T22:15:47.417509+00:00
- - user: None
- - tags: []
-
-## Homepage | Tulsa Library
- - [https://www.tulsalibrary.org](https://www.tulsalibrary.org)
- - date published: 2023-10-27T10:21:07.270897+00:00
- - user: None
- - tags: ['library']
-
-## TurboWarp Desktop - Better offline editor for Scratch 3
- - [https://desktop.turbowarp.org](https://desktop.turbowarp.org)
- - date published: 2023-10-25T22:15:48.691606+00:00
- - user: None
- - tags: []
-
-## TV Tropes
- - [https://tvtropes.org](https://tvtropes.org)
- - date published: 2023-10-25T22:15:56.479437+00:00
- - user: None
- - tags: []
-
-## Two-Bit History
- - [https://twobithistory.org](https://twobithistory.org)
- - date published: 2023-10-25T22:15:57.521416+00:00
- - user: None
- - tags: []
-
-## 2 Player Games - TwoPlayerGames.org
- - [https://www.twoplayergames.org](https://www.twoplayergames.org)
- - date published: 2023-10-25T11:18:34.239862+00:00
- - user: None
- - tags: []
-
-## TypeAPI
- - [https://typeapi.org](https://typeapi.org)
- - date published: 2023-10-25T22:15:58.228065+00:00
- - user: None
- - tags: []
-
-## JavaScript With Syntax For Types.
- - [https://www.typescriptlang.org](https://www.typescriptlang.org)
- - date published: 2023-10-30T13:48:03.524384+00:00
- - user: None
- - tags: ['javascript', 'typescript']
-
-## Typesense | Fast, typo-tolerant open source search engine
- - [https://typesense.org](https://typesense.org)
- - date published: 2023-10-25T22:15:59.784891+00:00
- - user: None
- - tags: []
-
-## Typewritten Software - Retrotechnology Research Laboratory
- - [http://www.typewritten.org](http://www.typewritten.org)
- - date published: 2023-10-25T22:16:01.583832+00:00
- - user: None
- - tags: []
-
-## UCLA Health: Center for High Quality Health Care Services
- - [https://www.uclahealth.org](https://www.uclahealth.org)
- - date published: 2023-10-25T22:16:04.259788+00:00
- - user: None
- - tags: []
-
-## The Equation - Union of Concerned Scientists
- - [https://blog.ucsusa.org](https://blog.ucsusa.org)
- - date published: 2023-10-25T22:16:07.751665+00:00
- - user: None
- - tags: []
-
-## Ultibo.org – Make something amazing
- - [https://ultibo.org](https://ultibo.org)
- - date published: 2023-10-25T22:16:12.188671+00:00
- - user: None
- - tags: []
-
-## UN News | Global perspective Human stories
- - [https://news.un.org](https://news.un.org)
- - date published: 2023-10-25T22:16:15.307275+00:00
- - user: None
- - tags: []
-
-## Welcome to the United Nations
- - [https://www.un.org](https://www.un.org)
- - date published: 2023-10-25T22:16:21.032376+00:00
- - user: None
- - tags: []
-
-## 2023 Report - UNAIDS - Global Report 2023
- - [https://thepath.unaids.org](https://thepath.unaids.org)
- - date published: 2023-10-25T22:16:22.303503+00:00
- - user: None
- - tags: []
-
-## Undark Magazine | Truth, Beauty, Science.
- - [https://undark.org](https://undark.org)
- - date published: 2023-10-25T10:40:08.530856+00:00
- - user: None
- - tags: []
-
-## OpenBSD Journal: A resource for the OpenBSD community
- - [https://undeadly.org](https://undeadly.org)
- - date published: 2023-10-25T22:16:23.799423+00:00
- - user: None
- - tags: []
-
-## OpenBSD Journal: A resource for the OpenBSD community
- - [https://www.undeadly.org](https://www.undeadly.org)
- - date published: 2023-10-25T10:15:21.266043+00:00
- - user: None
- - tags: []
-
-## Understanding AI | Timothy B Lee | Substack
- - [https://www.understandingai.org](https://www.understandingai.org)
- - date published: 2023-10-25T22:16:26.229235+00:00
- - user: None
- - tags: []
-
-## UNEP - UN Environment Programme
- - [https://www.unep.org](https://www.unep.org)
- - date published: 2023-10-25T22:16:28.858183+00:00
- - user: None
- - tags: []
-
-## Unicon.org - the Unicon Programming Language Home Page
- - [http://unicon.org](http://unicon.org)
- - date published: 2023-10-25T22:16:30.161488+00:00
- - user: None
- - tags: []
-
-## UnifiedPush
- - [https://unifiedpush.org](https://unifiedpush.org)
- - date published: 2023-10-25T22:16:36.878388+00:00
- - user: None
- - tags: []
-
-## The Unison language
- - [https://www.unison-lang.org](https://www.unison-lang.org)
- - date published: 2023-10-25T22:16:43.435256+00:00
- - user: None
- - tags: []
-
-## United Way of the National Capital Area - Assistance for DC, MD & VA
- - [https://unitedwaynca.org](https://unitedwaynca.org)
- - date published: 2023-10-25T22:16:46.777544+00:00
- - user: None
- - tags: []
-
-## Universal Blue
- - [https://universal-blue.org](https://universal-blue.org)
- - date published: 2023-10-25T22:16:48.799969+00:00
- - user: None
- - tags: []
-
-## House Absolute(ly Pointless)
- - [https://blog.urth.org](https://blog.urth.org)
- - date published: 2023-10-25T22:16:50.060450+00:00
- - user: None
- - tags: []
-
-## Erich Boleyn's Home Page
- - [http://www.uruk.org](http://www.uruk.org)
- - date published: 2023-10-25T22:16:51.177684+00:00
- - user: None
- - tags: []
-
-## USA National Phenology Network | USA National Phenology Network
- - [https://www.usanpn.org](https://www.usanpn.org)
- - date published: 2023-10-25T22:16:53.580862+00:00
- - user: None
- - tags: []
-
-## Front Page | USB-IF
- - [https://www.usb.org](https://www.usb.org)
- - date published: 2023-10-25T22:16:55.660013+00:00
- - user: None
- - tags: []
-
-## USENIX | The Advanced Computing Systems Association
- - [https://www.usenix.org](https://www.usenix.org)
- - date published: 2023-10-25T22:16:57.549244+00:00
- - user: None
- - tags: []
-
-## USNI News - Maritime News and Analysis
- - [https://news.usni.org](https://news.usni.org)
- - date published: 2023-10-25T10:47:11.011084+00:00
- - user: None
- - tags: []
-
-## https://www.usni.org
- - [https://www.usni.org](https://www.usni.org)
- - date published: 2023-10-25T22:17:02.758104+00:00
- - user: None
- - tags: []
-
-## U.S. Right To Know - Pursuing truth and transparency for public health
- - [https://usrtk.org](https://usrtk.org)
- - date published: 2023-10-25T22:17:06.462467+00:00
- - user: None
- - tags: []
-
-## USS Los Angeles CA-135
- - [https://uss-la-ca135.org](https://uss-la-ca135.org)
- - date published: 2023-10-25T22:17:08.646577+00:00
- - user: None
- - tags: []
-
-## Portal
- - [https://ut99.org](https://ut99.org)
- - date published: 2023-10-30T15:41:29.210700+00:00
- - user: None
- - tags: []
-
-## Uyuni
- - [https://www.uyuni-project.org](https://www.uyuni-project.org)
- - date published: 2023-10-25T22:17:10.350047+00:00
- - user: None
- - tags: []
-
-## Vanilla OS Handbook
- - [https://handbook.vanillaos.org](https://handbook.vanillaos.org)
- - date published: 2023-10-25T22:17:11.694319+00:00
- - user: None
- - tags: []
-
-## Vanilla OS
- - [https://vanillaos.org](https://vanillaos.org)
- - date published: 2023-10-25T22:17:12.831357+00:00
- - user: None
- - tags: []
-
-## Vaughn Tan - Vaughn Tan
- - [https://vaughntan.org](https://vaughntan.org)
- - date published: 2023-10-25T22:17:15.170507+00:00
- - user: None
- - tags: []
-
-## Vintage Computer Federation Forums
- - [https://forum.vcfed.org](https://forum.vcfed.org)
- - date published: 2023-10-25T22:17:18.497361+00:00
- - user: None
- - tags: []
-
-## Vintage Computer Federation – VCF — A organization for computer history enthusiasts
- - [https://vcfed.org](https://vcfed.org)
- - date published: 2023-10-25T11:33:37.708206+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,69 @@
+## We Explain L.A. | LAist
+ - [https://laist.com](https://laist.com)
+ - date published: 2023-10-25T15:40:43.203265+00:00
+ - user: None
+ - tags: []
+
+## https://lajili.com
+ - [https://lajili.com](https://lajili.com)
+ - date published: 2023-10-25T15:40:43.836423+00:00
+ - user: None
+ - tags: []
+
+## lamag.com
+ - [https://www.lamag.com](https://www.lamag.com)
+ - date published: 2023-10-25T15:40:44.165341+00:00
+ - user: None
+ - tags: []
+
+## Lambda Funk
+ - [https://lambdafunk.com](https://lambdafunk.com)
+ - date published: 2023-10-25T15:40:50.826332+00:00
+ - user: None
+ - tags: []
+
+## lili's musings
+ - [https://musings.lambdaloop.com](https://musings.lambdaloop.com)
+ - date published: 2023-10-25T15:40:52.257452+00:00
+ - user: None
+ - tags: []
+
+## Automobili Lamborghini - Official Website | Lamborghini.com
+ - [https://www.lamborghini.com](https://www.lamborghini.com)
+ - date published: 2023-11-01T08:56:31.362672+00:00
+ - user: None
+ - tags: ['company', 'car producer']
+
+## Home | Lambros Petrou
+ - [https://www.lambrospetrou.com](https://www.lambrospetrou.com)
+ - date published: 2023-10-25T15:40:55.086746+00:00
+ - user: None
+ - tags: []
+
+## LanceDB
+ - [https://blog.lancedb.com](https://blog.lancedb.com)
+ - date published: 2023-10-25T15:40:58.755872+00:00
+ - user: None
+ - tags: []
+
+## 🦜️🔗 Langchain
+ - [https://python.langchain.com](https://python.langchain.com)
+ - date published: 2023-10-25T15:40:59.811350+00:00
+ - user: None
+ - tags: []
+
+## LangoGuessr
+ - [https://langoguessr.com](https://langoguessr.com)
+ - date published: 2023-10-25T15:41:00.327608+00:00
+ - user: None
+ - tags: []
+
+## Language Learning with Netflix
+ - [https://languagelearningwithnetflix.com](https://languagelearningwithnetflix.com)
+ - date published: 2023-10-25T15:41:01.160963+00:00
+ - user: None
+ - tags: []
+
 ## Language World Map
  - [https://languageworldmap.com](https://languageworldmap.com)
  - date published: 2023-10-25T08:24:47.023665+00:00
@@ -27,6 +93,12 @@
  - date published: 2023-10-25T15:41:11.614231+00:00
  - user: None
  - tags: []
+
+## Homepage - Larian Studios
+ - [https://larian.com](https://larian.com)
+ - date published: 2023-11-04T19:14:56.784693+00:00
+ - user: None
+ - tags: ['baldurs gate', 'game studio', 'dungeons and dragons']
 
 ## Lariat Data
  - [https://www.lariatdata.com](https://www.lariatdata.com)
@@ -3534,6 +3606,12 @@ diversions.
  - user: None
  - tags: []
 
+## Military and Veteran Benefits, News, Veteran Jobs
+ - [https://www.military.com](https://www.military.com)
+ - date published: 2023-11-04T18:08:01.043546+00:00
+ - user: None
+ - tags: []
+
 ## Home | Military Aerospace
  - [https://www.militaryaerospace.com](https://www.militaryaerospace.com)
  - date published: 2023-10-25T10:18:16.055349+00:00
@@ -5918,84 +5996,6 @@ Answering Machine Greetings!
 ## https://www.occamm.com
  - [https://www.occamm.com](https://www.occamm.com)
  - date published: 2023-10-25T16:24:08.687098+00:00
- - user: None
- - tags: []
-
-## Orange County Register: Local News, Sports and Things to Do
- - [https://www.ocregister.com](https://www.ocregister.com)
- - date published: 2023-10-25T16:24:14.175658+00:00
- - user: None
- - tags: []
-
-## Continuous delivery & deployment automation tool for DevOps teams | Octopus Deploy - Octopus Deploy
- - [https://octopus.com](https://octopus.com)
- - date published: 2023-10-25T16:24:25.189119+00:00
- - user: None
- - tags: []
-
-## Error
- - [https://www.oculus.com](https://www.oculus.com)
- - date published: 2023-10-31T13:13:01.625587+00:00
- - user: None
- - tags: ['virtual reality']
-
-## blog.oddbit.com
- - [https://blog.oddbit.com](https://blog.oddbit.com)
- - date published: 2023-10-25T16:24:27.134295+00:00
- - user: None
- - tags: []
-
-## Oddity Central - Weird Places, Odd Events, Bizarre News, Strange People and A Lot More
- - [https://www.odditycentral.com](https://www.odditycentral.com)
- - date published: 2023-10-25T16:24:35.768219+00:00
- - user: None
- - tags: []
-
-## Odysee
- - [https://odysee.com](https://odysee.com)
- - date published: 2023-10-24T20:05:47.992634+00:00
- - user: None
- - tags: ['video streaming']
-
-## OFBizian ~ Bilgin Ibryam (@bibryam)
- - [https://www.ofbizian.com](https://www.ofbizian.com)
- - date published: 2023-10-25T16:24:47.385419+00:00
- - user: None
- - tags: []
-
-## OfficeChai - Startups, Businesses And Careers
- - [https://officechai.com](https://officechai.com)
- - date published: 2023-10-25T16:24:53.969223+00:00
- - user: None
- - tags: []
-
-## OFRAK: unpack, modify, and repack binaries
- - [https://ofrak.com](https://ofrak.com)
- - date published: 2023-10-25T16:24:56.351939+00:00
- - user: None
- - tags: []
-
-## Home - Ogletree
- - [https://ogletree.com](https://ogletree.com)
- - date published: 2023-10-25T16:25:01.982432+00:00
- - user: None
- - tags: []
-
-## http://ohiocapitaljournal.com
- - [http://ohiocapitaljournal.com](http://ohiocapitaljournal.com)
- - date published: 2023-10-25T16:25:03.995264+00:00
- - user: None
- - tags: []
-
-## Crude Oil Prices Today | OilPrice.com
- - [https://oilprice.com](https://oilprice.com)
- - date published: 2023-10-25T16:25:08.877775+00:00
- - user: None
- - tags: []
-
-## Oisín Moran
- - [https://oisinmoran.com](https://oisinmoran.com)
- - date published: 2023-10-25T16:25:09.684817+00:00
  - user: None
  - tags: []
 

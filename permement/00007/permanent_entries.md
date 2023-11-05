@@ -1,3 +1,141 @@
+## The Nevada Independent - Your state.  Your news.  Your voice.
+ - [https://thenevadaindependent.com](https://thenevadaindependent.com)
+ - date published: 2023-10-30T22:37:57.650531+00:00
+ - user: None
+ - tags: []
+
+## The New American - That Freedom Shall Not Perish
+ - [https://thenewamerican.com](https://thenewamerican.com)
+ - date published: 2023-10-25T17:37:12.548840+00:00
+ - user: None
+ - tags: []
+
+## Home — The New Atlantis
+ - [https://www.thenewatlantis.com](https://www.thenewatlantis.com)
+ - date published: 2023-10-25T17:37:16.636956+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://thenewscrypto.com](https://thenewscrypto.com)
+ - date published: 2023-10-27T11:54:53.243638+00:00
+ - user: None
+ - tags: []
+
+## TNW | The heart of tech
+ - [https://thenextweb.com](https://thenextweb.com)
+ - date published: 2023-10-25T17:37:19.246024+00:00
+ - user: None
+ - tags: []
+
+## The Nib | Political satire, journalism and non-fiction on what is going down in the world. All in comics form, the best medium.
+ - [https://thenib.com](https://thenib.com)
+ - date published: 2023-10-25T11:30:22.418990+00:00
+ - user: None
+ - tags: []
+
+## Homepage – TheNNT
+ - [https://www.thennt.com](https://www.thennt.com)
+ - date published: 2023-10-25T17:37:23.280828+00:00
+ - user: None
+ - tags: []
+
+## Blog Home - The Noun Project Blog
+ - [https://blog.thenounproject.com](https://blog.thenounproject.com)
+ - date published: 2023-10-25T11:32:55.187940+00:00
+ - user: None
+ - tags: []
+
+## The Oatmeal - Comics by Matthew Inman
+ - [https://theoatmeal.com](https://theoatmeal.com)
+ - date published: 2023-10-25T17:37:26.681539+00:00
+ - user: None
+ - tags: []
+
+## Welcome To The Old Bard - The Old Bard
+ - [https://theoldbard.com](https://theoldbard.com)
+ - date published: 2023-10-25T14:21:08.394844+00:00
+ - user: None
+ - tags: []
+
+## The Organic Prepper Home - The Organic Prepper
+ - [https://www.theorganicprepper.com](https://www.theorganicprepper.com)
+ - date published: 2023-10-25T17:37:32.012266+00:00
+ - user: None
+ - tags: []
+
+## The Outlaw Ocean Project
+ - [https://www.theoutlawocean.com](https://www.theoutlawocean.com)
+ - date published: 2023-10-25T17:37:32.955048+00:00
+ - user: None
+ - tags: []
+
+## The Ultimate Raspberry Pi & Maker Store– The Pi Hut
+ - [https://thepihut.com](https://thepihut.com)
+ - date published: 2023-10-25T11:15:28.747973+00:00
+ - user: None
+ - tags: ['raspberry', 'electronic parts']
+
+## thepilot.com | Links to The Sandhills
+ - [https://www.thepilot.com](https://www.thepilot.com)
+ - date published: 2023-10-25T17:37:38.645793+00:00
+ - user: None
+ - tags: []
+
+## PinkNews | LGBTQ+ news | Latest lesbian, gay, bi and trans news
+ - [https://www.thepinknews.com](https://www.thepinknews.com)
+ - date published: 2023-10-25T17:37:47.176421+00:00
+ - user: None
+ - tags: []
+
+## The Point | A magazine of the examined life
+ - [https://thepointmag.com](https://thepointmag.com)
+ - date published: 2023-10-25T17:37:50.438072+00:00
+ - user: None
+ - tags: []
+
+## The Points Guy - Maximize your travel.
+ - [https://thepointsguy.com](https://thepointsguy.com)
+ - date published: 2023-10-25T17:37:54.272229+00:00
+ - user: None
+ - tags: []
+
+## Popverse
+ - [https://www.thepopverse.com](https://www.thepopverse.com)
+ - date published: 2023-10-25T17:37:57.583328+00:00
+ - user: None
+ - tags: []
+
+## Welcome | The Post Millennial | thepostmillennial.com
+ - [https://thepostmillennial.com](https://thepostmillennial.com)
+ - date published: 2023-10-25T17:38:05.518685+00:00
+ - user: None
+ - tags: []
+
+## Welcome to The Privacy Dad's Blog!
+ - [https://theprivacydad.com](https://theprivacydad.com)
+ - date published: 2023-10-25T17:38:07.762914+00:00
+ - user: None
+ - tags: []
+
+## The Privacy Whisperer | Luiza Jarovsky | Substack
+ - [https://www.theprivacywhisperer.com](https://www.theprivacywhisperer.com)
+ - date published: 2023-10-25T17:38:09.903943+00:00
+ - user: None
+ - tags: []
+
+## The Prodigy
+ - [https://theprodigy.com](https://theprodigy.com)
+ - date published: 2023-11-02T18:19:16.436104+00:00
+ - user: None
+ - tags: ['music band']
+
+## Mr. and Mrs. Psmith’s Bookshelf | Jane Psmith | Substack
+ - [https://www.thepsmiths.com](https://www.thepsmiths.com)
+ - date published: 2023-10-25T17:38:12.746905+00:00
+ - user: None
+ - tags: []
+
 ## The Publica- News Done Right
  - [https://www.thepublica.com](https://www.thepublica.com)
  - date published: 2023-10-25T17:38:15.783870+00:00
@@ -404,6 +542,12 @@
 ## Thomas Vitale | Software Engineer, Spring, Cloud Native, Kubernetes | Software Engineer
  - [https://www.thomasvitale.com](https://www.thomasvitale.com)
  - date published: 2023-10-25T17:41:03.821932+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.thomsonreuters.com](https://www.thomsonreuters.com)
+ - date published: 2023-11-04T18:07:51.075849+00:00
  - user: None
  - tags: []
 
@@ -2204,6 +2348,12 @@
  - user: None
  - tags: []
 
+## Valheim
+ - [https://www.valheimgame.com](https://www.valheimgame.com)
+ - date published: 2023-11-04T19:20:47.911512+00:00
+ - user: None
+ - tags: ['game']
+
 ## The Vallejo Sun: An independent news publication for Solano County
  - [https://www.vallejosun.com](https://www.vallejosun.com)
  - date published: 2023-10-25T17:54:48.425962+00:00
@@ -2556,6 +2706,12 @@
 ## viralinstruction
  - [https://viralinstruction.com](https://viralinstruction.com)
  - date published: 2023-10-25T17:56:50.835332+00:00
+ - user: None
+ - tags: []
+
+## https://www.virginiamercury.com
+ - [https://www.virginiamercury.com](https://www.virginiamercury.com)
+ - date published: 2023-11-04T03:07:08.777366+00:00
  - user: None
  - tags: []
 
@@ -4467,6 +4623,12 @@
  - user: None
  - tags: []
 
+## Access Restricted
+ - [https://www.wrbl.com](https://www.wrbl.com)
+ - date published: 2023-11-04T05:07:11.984619+00:00
+ - user: None
+ - tags: []
+
 ## The Wall Street Journal - Breaking News, Business, Financial & Economic News, World News and Video
  - [https://online.wsj.com](https://online.wsj.com)
  - date published: 2023-10-25T18:20:48.069060+00:00
@@ -4476,6 +4638,12 @@
 ## The Wall Street Journal - Breaking News, Business, Financial & Economic News, World News and Video
  - [https://www.wsj.com](https://www.wsj.com)
  - date published: 2023-10-25T10:30:29.252767+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.wtvm.com](https://www.wtvm.com)
+ - date published: 2023-11-04T05:07:09.334162+00:00
  - user: None
  - tags: []
 
@@ -5028,6 +5196,12 @@
 ## The official home for The Legend of Zelda - Home
  - [https://www.zelda.com](https://www.zelda.com)
  - date published: 2023-10-25T18:24:52.923632+00:00
+ - user: None
+ - tags: []
+
+## https://theathletic.zendesk.com
+ - [https://theathletic.zendesk.com](https://theathletic.zendesk.com)
+ - date published: 2023-11-04T23:17:18.597491+00:00
  - user: None
  - tags: []
 
@@ -5821,180 +5995,6 @@ home
 ## Max-Planck-Institut für Meteorologie: Startseite
  - [https://mpimet.mpg.de](https://mpimet.mpg.de)
  - date published: 2023-10-25T18:32:13.317317+00:00
- - user: None
- - tags: []
-
-## http://resources.mpi-inf.mpg.de
- - [http://resources.mpi-inf.mpg.de](http://resources.mpi-inf.mpg.de)
- - date published: 2023-10-25T18:32:14.941018+00:00
- - user: None
- - tags: []
-
-## Visual Computing and Artificial Intelligence
- - [https://vcai.mpi-inf.mpg.de](https://vcai.mpi-inf.mpg.de)
- - date published: 2023-10-25T18:32:16.725149+00:00
- - user: None
- - tags: []
-
-## Startseite | Max-Planck-Institut für Plasmaphysik
- - [https://www.ipp.mpg.de](https://www.ipp.mpg.de)
- - date published: 2023-10-25T18:32:19.987824+00:00
- - user: None
- - tags: []
-
-## Startseite
- - [https://www.mpip-mainz.mpg.de](https://www.mpip-mainz.mpg.de)
- - date published: 2023-10-27T13:11:14.983477+00:00
- - user: None
- - tags: []
-
-## mprove ideas + interaction + design @mprove
- - [https://mprove.de](https://mprove.de)
- - date published: 2023-10-25T18:32:22.617521+00:00
- - user: None
- - tags: []
-
-## Neuters - Reuters Proxy
- - [https://neuters.de](https://neuters.de)
- - date published: 2023-10-25T18:32:23.062741+00:00
- - user: None
- - tags: []
-
-## neveragain.de teletype | A blog about IT infrastructure and AWS
- - [https://tty.neveragain.de](https://tty.neveragain.de)
- - date published: 2023-10-25T18:32:23.770704+00:00
- - user: None
- - tags: []
-
-## APK Downloader for PC
- - [https://raccoon.onyxbits.de](https://raccoon.onyxbits.de)
- - date published: 2023-10-25T18:32:24.624846+00:00
- - user: None
- - tags: []
-
-## Georg Lukas :: Homepage
- - [https://op-co.de](https://op-co.de)
- - date published: 2023-10-25T18:32:26.343159+00:00
- - user: None
- - tags: []
-
-## Patrick Breyer – Digitaler Freiheitskämpfer und Europaabgeordneter
- - [https://www.patrick-breyer.de](https://www.patrick-breyer.de)
- - date published: 2023-10-25T18:32:28.196653+00:00
- - user: None
- - tags: []
-
-## Pegasus Spiele
- - [https://pegasus.de](https://pegasus.de)
- - date published: 2023-10-30T12:01:05.937311+00:00
- - user: None
- - tags: []
-
-## phryneas.de
- - [https://phryneas.de](https://phryneas.de)
- - date published: 2023-10-25T18:32:28.870643+00:00
- - user: None
- - tags: []
-
-## PSI Software SE - Software für Energieversorger, Industrieunternehmen und Infrastrukturbetreiber
- - [https://www.psi.de](https://www.psi.de)
- - date published: 2023-10-25T11:28:57.913466+00:00
- - user: None
- - tags: []
-
-## Qantara.de - Dialogue with the Islamic World |
- - [https://en.qantara.de](https://en.qantara.de)
- - date published: 2023-10-25T18:32:31.147423+00:00
- - user: None
- - tags: []
-
-## ralfj.de
- - [https://www.ralfj.de](https://www.ralfj.de)
- - date published: 2023-10-25T18:32:31.634686+00:00
- - user: None
- - tags: []
-
-## https://www.rammstein.de
- - [https://www.rammstein.de](https://www.rammstein.de)
- - date published: 2023-10-25T13:45:45.378120+00:00
- - user: None
- - tags: ['music band']
-
-## retrocmp / retro computing
- - [https://retrocmp.de](https://retrocmp.de)
- - date published: 2023-10-25T11:15:38.287955+00:00
- - user: None
- - tags: []
-
-## RWieruch
- - [https://www.robinwieruch.de](https://www.robinwieruch.de)
- - date published: 2023-10-25T18:32:32.464114+00:00
- - user: None
- - tags: []
-
-## root42 - Arne's Homepage
- - [https://www.root42.de](https://www.root42.de)
- - date published: 2023-10-25T18:32:33.188691+00:00
- - user: None
- - tags: []
-
-## Newsportal - Ruhr-Universität Bochum
- - [https://news.rub.de](https://news.rub.de)
- - date published: 2023-10-30T21:58:13.353774+00:00
- - user: None
- - tags: []
-
-## Homepage von Andreas und Marie-Theres Saremba
- - [http://www.saremba.de](http://www.saremba.de)
- - date published: 2023-10-25T18:32:33.526919+00:00
- - user: None
- - tags: []
-
-## Sebastian Holstein
- - [https://sebastian-holstein.de](https://sebastian-holstein.de)
- - date published: 2023-10-25T18:32:34.240038+00:00
- - user: None
- - tags: []
-
-## Simon schreibt.
- - [https://simonschreibt.de](https://simonschreibt.de)
- - date published: 2023-10-25T18:32:36.399916+00:00
- - user: None
- - tags: []
-
-## Tagebücher der Wissenschaft » SciLogs - Wissenschaftsblogs
- - [https://scilogs.spektrum.de](https://scilogs.spektrum.de)
- - date published: 2023-10-25T18:32:38.955822+00:00
- - user: None
- - tags: []
-
-## sst13 - Quake3 Maps
- - [https://sst13.de](https://sst13.de)
- - date published: 2023-10-28T20:30:23.101250+00:00
- - user: None
- - tags: ['quake']
-
-## https://digital.staatsbibliothek-berlin.de
- - [https://digital.staatsbibliothek-berlin.de](https://digital.staatsbibliothek-berlin.de)
- - date published: 2023-10-25T18:32:39.387140+00:00
- - user: None
- - tags: []
-
-## Stefan-Marr.de · personal and research notes
- - [https://stefan-marr.de](https://stefan-marr.de)
- - date published: 2023-10-25T18:32:40.817597+00:00
- - user: None
- - tags: []
-
-## Aktuelle Nachrichten und Kommentare - SZ.de
- - [https://www.sueddeutsche.de](https://www.sueddeutsche.de)
- - date published: 2023-10-25T18:32:54.580719+00:00
- - user: None
- - tags: []
-
-## HP-15C: A Simulator for Windows, Linux and macOS
- - [https://hp-15c.homepage.t-online.de](https://hp-15c.homepage.t-online.de)
- - date published: 2023-10-25T18:32:55.137051+00:00
  - user: None
  - tags: []
 

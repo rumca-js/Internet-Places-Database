@@ -100,6 +100,12 @@
  - user: rumpel
  - tags: []
 
+## BBS Still Exist
+ - [https://www.telnetbbsguide.com](https://www.telnetbbsguide.com)
+ - date published: 2023-11-03T23:29:11+00:00
+ - user: None
+ - tags: []
+
 ## Sort: Supercharged collaboration for your database
  - [https://sort.xyz.](https://sort.xyz.)
  - date published: 2023-11-01T23:07:07.991006+00:00
@@ -3557,6 +3563,12 @@
  - user: None
  - tags: ['university']
 
+## UdeMNouvelles, l’actualité de l’Université de Montréal | UdeMNouvelles
+ - [https://nouvelles.umontreal.ca](https://nouvelles.umontreal.ca)
+ - date published: 2023-11-04T12:47:25.272671+00:00
+ - user: None
+ - tags: []
+
 ## Département d'informatique et de recherche opérationnelle - Université de Montréal
  - [https://www.iro.umontreal.ca](https://www.iro.umontreal.ca)
  - date published: 2023-10-25T12:08:56.540416+00:00
@@ -5979,18 +5991,6 @@
 ## Agora Road's Macintosh Cafe
  - [https://forum.agoraroad.com](https://forum.agoraroad.com)
  - date published: 2023-10-24T20:12:27.718591+00:00
- - user: None
- - tags: []
-
-## A Graphics Guy's Note
- - [https://agraphicsguynotes.com](https://agraphicsguynotes.com)
- - date published: 2023-10-25T08:44:08.007635+00:00
- - user: None
- - tags: ['personal']
-
-## Successful Farming: Practical, Trusted Farming and Ranching Information
- - [https://www.agriculture.com](https://www.agriculture.com)
- - date published: 2023-10-25T12:35:14.231208+00:00
  - user: None
  - tags: []
 

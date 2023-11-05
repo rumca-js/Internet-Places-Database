@@ -1,3 +1,81 @@
+## Continuous delivery & deployment automation tool for DevOps teams | Octopus Deploy - Octopus Deploy
+ - [https://octopus.com](https://octopus.com)
+ - date published: 2023-10-25T16:24:25.189119+00:00
+ - user: None
+ - tags: []
+
+## Error
+ - [https://www.oculus.com](https://www.oculus.com)
+ - date published: 2023-10-31T13:13:01.625587+00:00
+ - user: None
+ - tags: ['virtual reality']
+
+## blog.oddbit.com
+ - [https://blog.oddbit.com](https://blog.oddbit.com)
+ - date published: 2023-10-25T16:24:27.134295+00:00
+ - user: None
+ - tags: []
+
+## Oddity Central - Weird Places, Odd Events, Bizarre News, Strange People and A Lot More
+ - [https://www.odditycentral.com](https://www.odditycentral.com)
+ - date published: 2023-10-25T16:24:35.768219+00:00
+ - user: None
+ - tags: []
+
+## Odysee
+ - [https://odysee.com](https://odysee.com)
+ - date published: 2023-10-24T20:05:47.992634+00:00
+ - user: None
+ - tags: ['video streaming']
+
+## OFBizian ~ Bilgin Ibryam (@bibryam)
+ - [https://www.ofbizian.com](https://www.ofbizian.com)
+ - date published: 2023-10-25T16:24:47.385419+00:00
+ - user: None
+ - tags: []
+
+## OfficeChai - Startups, Businesses And Careers
+ - [https://officechai.com](https://officechai.com)
+ - date published: 2023-10-25T16:24:53.969223+00:00
+ - user: None
+ - tags: []
+
+## OFRAK: unpack, modify, and repack binaries
+ - [https://ofrak.com](https://ofrak.com)
+ - date published: 2023-10-25T16:24:56.351939+00:00
+ - user: None
+ - tags: []
+
+## Home - Ogletree
+ - [https://ogletree.com](https://ogletree.com)
+ - date published: 2023-10-25T16:25:01.982432+00:00
+ - user: None
+ - tags: []
+
+## http://ohiocapitaljournal.com
+ - [http://ohiocapitaljournal.com](http://ohiocapitaljournal.com)
+ - date published: 2023-10-25T16:25:03.995264+00:00
+ - user: None
+ - tags: []
+
+## Crude Oil Prices Today | OilPrice.com
+ - [https://oilprice.com](https://oilprice.com)
+ - date published: 2023-10-25T16:25:08.877775+00:00
+ - user: None
+ - tags: []
+
+## Oisín Moran
+ - [https://oisinmoran.com](https://oisinmoran.com)
+ - date published: 2023-10-25T16:25:09.684817+00:00
+ - user: None
+ - tags: []
+
+## Home | Okta Developer
+ - [https://developer.okta.com](https://developer.okta.com)
+ - date published: 2023-10-25T16:25:11.442571+00:00
+ - user: None
+ - tags: []
+
 ## Articles (Page 1 of 9) | Okta Security
  - [https://sec.okta.com](https://sec.okta.com)
  - date published: 2023-10-25T16:25:12.911081+00:00
@@ -1091,6 +1169,12 @@
  - user: None
  - tags: []
 
+## Central PA Local News, Breaking News, Sports & Weather
+ - [https://www.pennlive.com](https://www.pennlive.com)
+ - date published: 2023-11-04T15:48:22.366123+00:00
+ - user: None
+ - tags: []
+
 ## Tom Francis
  - [https://www.pentadact.com](https://www.pentadact.com)
  - date published: 2023-10-25T09:21:08.810960+00:00
@@ -1190,6 +1274,12 @@
 ## PetaPixel | Photography and Camera News, Reviews, and Inspiration
  - [https://petapixel.com](https://petapixel.com)
  - date published: 2023-10-25T10:14:49.031072+00:00
+ - user: None
+ - tags: []
+
+## Pete Millspaugh
+ - [https://www.petemillspaugh.com](https://www.petemillspaugh.com)
+ - date published: 2023-11-04T01:47:29.221107+00:00
  - user: None
  - tags: []
 
@@ -1940,6 +2030,12 @@
  - user: None
  - tags: []
 
+## Portugal. The Man Official Website
+ - [https://www.portugaltheman.com](https://www.portugaltheman.com)
+ - date published: 2023-11-04T01:47:27.168159+00:00
+ - user: None
+ - tags: []
+
 ## Postadio - Share and Discover
  - [https://postadio.com](https://postadio.com)
  - date published: 2023-10-25T16:38:03.754934+00:00
@@ -2099,6 +2195,12 @@
 ## Preshing on Programming
  - [https://preshing.com](https://preshing.com)
  - date published: 2023-10-25T16:39:24.657091+00:00
+ - user: None
+ - tags: []
+
+## Shaun Gallagher - Author, Software Engineer, Fast Typer
+ - [https://shaungallagher.pressbin.com](https://shaungallagher.pressbin.com)
+ - date published: 2023-11-04T13:47:28.938025+00:00
  - user: None
  - tags: []
 
@@ -5074,6 +5176,12 @@
  - user: None
  - tags: []
 
+## The World According to Scott
+ - [https://scottswezey.com](https://scottswezey.com)
+ - date published: 2023-11-04T15:48:18.224107+00:00
+ - user: None
+ - tags: []
+
 ## ScrapingBee, the best web scraping API.
  - [https://www.scrapingbee.com](https://www.scrapingbee.com)
  - date published: 2023-10-25T16:59:56.121936+00:00
@@ -5893,114 +6001,6 @@
 ## The State Journal-Register: Local News, Politics & Sports in Springfield, IL
  - [https://www.sj-r.com](https://www.sj-r.com)
  - date published: 2023-10-27T11:55:41.059970+00:00
- - user: None
- - tags: []
-
-## skagmo.com
- - [https://skagmo.com](https://skagmo.com)
- - date published: 2023-10-27T11:55:42.413804+00:00
- - user: None
- - tags: []
-
-## Sketchfab - The best 3D viewer on the web
- - [https://sketchfab.com](https://sketchfab.com)
- - date published: 2023-10-27T10:26:31.358910+00:00
- - user: None
- - tags: ['assets models', '3d printing']
-
-## 3D Warehouse
- - [https://3dwarehouse.sketchup.com](https://3dwarehouse.sketchup.com)
- - date published: 2023-10-27T10:30:39.685349+00:00
- - user: None
- - tags: ['assets models', '3d printing']
-
-## Skiff - Private, encrypted, secure email - 10 GB free
- - [https://skiff.com](https://skiff.com)
- - date published: 2023-10-25T17:05:52.635675+00:00
- - user: None
- - tags: []
-
-## https://www.skillshare.com
- - [https://www.skillshare.com](https://www.skillshare.com)
- - date published: 2023-10-24T20:19:37.469993+00:00
- - user: None
- - tags: ['tutorial']
-
-## skio: subscriptions for shopify
- - [https://skio.com](https://skio.com)
- - date published: 2023-10-25T17:05:56.544814+00:00
- - user: None
- - tags: []
-
-## Welcome to Skippy.com - Home of Percy Crosby's lovable "Skippy" character
- - [http://www.skippy.com](http://www.skippy.com)
- - date published: 2023-10-25T17:05:57.442936+00:00
- - user: None
- - tags: []
-
-## Škoda Auto a.s. | The International Website
- - [https://skoda-auto.com](https://skoda-auto.com)
- - date published: 2023-11-03T13:13:05.594047+00:00
- - user: None
- - tags: ['car producer']
-
-## Skorks
- - [https://skorks.com](https://skorks.com)
- - date published: 2023-10-25T17:05:59.705764+00:00
- - user: None
- - tags: []
-
-## Mobile solutions for warehousing, fulfillment, and shipping | SKUSavvy
- - [https://skusavvy.com](https://skusavvy.com)
- - date published: 2023-10-25T17:06:01.743430+00:00
- - user: None
- - tags: []
-
-## The Latest News from the UK and Around the World | Sky News
- - [https://news.sky.com](https://news.sky.com)
- - date published: 2023-10-25T10:28:27.420874+00:00
- - user: None
- - tags: []
-
-## The Elder Scrolls: Skyblivion
- - [https://skyblivion.com](https://skyblivion.com)
- - date published: 2023-10-25T11:10:12.987130+00:00
- - user: None
- - tags: []
-
-## Commercial High Resolution Satellite Imagery and Video | SkyFi
- - [https://www.skyfi.com](https://www.skyfi.com)
- - date published: 2023-10-25T17:06:03.208902+00:00
- - user: None
- - tags: []
-
-## Sky Sports - Sports News, Transfers, Scores | Watch Live Sport
- - [https://www.skysports.com](https://www.skysports.com)
- - date published: 2023-10-25T17:06:08.924160+00:00
- - user: None
- - tags: []
-
-## Slack is your productivity platform
- - [https://slack.com](https://slack.com)
- - date published: 2023-10-24T20:12:43.324913+00:00
- - user: None
- - tags: []
-
-## Slack System Status
- - [https://status.slack.com](https://status.slack.com)
- - date published: 2023-10-25T17:06:09.862444+00:00
- - user: None
- - tags: []
-
-## SlashGear | Tech, Cars, Gaming, Science, & Reviews
- - [https://www.slashgear.com](https://www.slashgear.com)
- - date published: 2023-10-25T17:06:11.913148+00:00
- - user: None
- - tags: []
-
-## Complete Generative AI Security for Email, Mobile, and Browser |SlashNext
- - [https://slashnext.com](https://slashnext.com)
- - date published: 2023-10-25T17:06:16.257225+00:00
  - user: None
  - tags: []
 

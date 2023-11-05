@@ -1,3 +1,33 @@
+## Mission Critical Enterprise Software by Cloud Software Group - Cloud Software Group
+ - [https://www.cloud.com](https://www.cloud.com)
+ - date published: 2023-10-25T13:26:40.246262+00:00
+ - user: None
+ - tags: []
+
+## The Cloudflare Blog
+ - [https://blog.cloudflare.com](https://blog.cloudflare.com)
+ - date published: 2023-10-25T13:26:44.738944+00:00
+ - user: None
+ - tags: []
+
+## https://community.cloudflare.com
+ - [https://community.cloudflare.com](https://community.cloudflare.com)
+ - date published: 2023-10-25T13:26:48.405370+00:00
+ - user: None
+ - tags: []
+
+## https://radar.cloudflare.com
+ - [https://radar.cloudflare.com](https://radar.cloudflare.com)
+ - date published: 2023-10-25T13:26:48.681639+00:00
+ - user: None
+ - tags: []
+
+## Internet Speed Test - Measure Network Performance | Cloudflare
+ - [https://speed.cloudflare.com](https://speed.cloudflare.com)
+ - date published: 2023-10-25T13:26:49.007179+00:00
+ - user: None
+ - tags: []
+
 ## Cloudflare - The Web Performance & Security Company | Cloudflare
  - [https://www.cloudflare.com](https://www.cloudflare.com)
  - date published: 2023-10-25T11:27:48.505610+00:00
@@ -2086,6 +2116,12 @@
  - user: None
  - tags: []
 
+## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
+ - [https://democratherald.com](https://democratherald.com)
+ - date published: 2023-11-04T05:50:19.542658+00:00
+ - user: None
+ - tags: []
+
 ## Demodesk | The sales meeting platform
  - [https://demodesk.com](https://demodesk.com)
  - date published: 2023-10-25T13:48:59.749649+00:00
@@ -2469,6 +2505,12 @@
  - date published: 2023-10-27T13:15:36.746639+00:00
  - user: None
  - tags: ['comics']
+
+## Dinosaur Dracula!
+ - [https://dinosaurdracula.com](https://dinosaurdracula.com)
+ - date published: 2023-11-04T08:51:31.090289+00:00
+ - user: None
+ - tags: []
 
 ## Diora
  - [https://dioragame.com](https://dioragame.com)
@@ -3134,6 +3176,12 @@
 ## Duvar English
  - [https://www.duvarenglish.com](https://www.duvarenglish.com)
  - date published: 2023-10-25T14:00:07.518414+00:00
+ - user: None
+ - tags: []
+
+## https://p.dw.com
+ - [https://p.dw.com](https://p.dw.com)
+ - date published: 2023-11-04T11:47:38.546816+00:00
  - user: None
  - tags: []
 
@@ -5003,6 +5051,12 @@
  - user: None
  - tags: []
 
+## Fidelity International Usage Agreement
+ - [https://www.fidelity.com](https://www.fidelity.com)
+ - date published: 2023-11-04T01:07:36.664889+00:00
+ - user: None
+ - tags: []
+
 ## www.fieggen.com – Welcome To My Website!
  - [https://www.fieggen.com](https://www.fieggen.com)
  - date published: 2023-10-25T08:45:46.864817+00:00
@@ -5942,60 +5996,6 @@
 ## Full Stack Economics | Timothy B Lee | Substack
  - [https://www.fullstackeconomics.com](https://www.fullstackeconomics.com)
  - date published: 2023-10-25T14:39:39.123373+00:00
- - user: None
- - tags: []
-
-## AI Test Automation with Machine Learning | Functionize
- - [https://www.functionize.com](https://www.functionize.com)
- - date published: 2023-10-25T14:39:43.665354+00:00
- - user: None
- - tags: []
-
-## FunctionTrace - human-oriented profiling for Python
- - [https://functiontrace.com](https://functiontrace.com)
- - date published: 2023-10-25T14:39:45.039373+00:00
- - user: None
- - tags: []
-
-## American Express
- - [https://fungi.com](https://fungi.com)
- - date published: 2023-10-25T14:39:47.684195+00:00
- - user: None
- - tags: []
-
-## Ain't it funny how the knight moves?
- - [https://www.funnyhowtheknightmoves.com](https://www.funnyhowtheknightmoves.com)
- - date published: 2023-10-25T14:39:54.444676+00:00
- - user: None
- - tags: []
-
-## Future | Understand the Future and How to Build It
- - [https://future.com](https://future.com)
- - date published: 2023-10-25T14:39:58.458173+00:00
- - user: None
- - tags: []
-
-## 3-2-1..Let's Jam! Emily's Cowboy Bebop Page
- - [https://futureblues.com](https://futureblues.com)
- - date published: 2023-10-25T14:40:05.297218+00:00
- - user: None
- - tags: []
-
-## Future Pinball
- - [https://futurepinball.com](https://futurepinball.com)
- - date published: 2023-10-25T14:40:08.222311+00:00
- - user: None
- - tags: []
-
-## Futurice, an outcome-focused digital transformation company
- - [https://futurice.com](https://futurice.com)
- - date published: 2023-10-25T14:40:11.459344+00:00
- - user: None
- - tags: []
-
-## Futurism | Science and Technology News and Videos
- - [https://futurism.com](https://futurism.com)
- - date published: 2023-10-25T14:40:14.917356+00:00
  - user: None
  - tags: []
 

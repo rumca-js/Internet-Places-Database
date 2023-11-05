@@ -1,3 +1,57 @@
+## FunctionTrace - human-oriented profiling for Python
+ - [https://functiontrace.com](https://functiontrace.com)
+ - date published: 2023-10-25T14:39:45.039373+00:00
+ - user: None
+ - tags: []
+
+## American Express
+ - [https://fungi.com](https://fungi.com)
+ - date published: 2023-10-25T14:39:47.684195+00:00
+ - user: None
+ - tags: []
+
+## Ain't it funny how the knight moves?
+ - [https://www.funnyhowtheknightmoves.com](https://www.funnyhowtheknightmoves.com)
+ - date published: 2023-10-25T14:39:54.444676+00:00
+ - user: None
+ - tags: []
+
+## Future | Understand the Future and How to Build It
+ - [https://future.com](https://future.com)
+ - date published: 2023-10-25T14:39:58.458173+00:00
+ - user: None
+ - tags: []
+
+## 3-2-1..Let's Jam! Emily's Cowboy Bebop Page
+ - [https://futureblues.com](https://futureblues.com)
+ - date published: 2023-10-25T14:40:05.297218+00:00
+ - user: None
+ - tags: []
+
+## Future Pinball
+ - [https://futurepinball.com](https://futurepinball.com)
+ - date published: 2023-10-25T14:40:08.222311+00:00
+ - user: None
+ - tags: []
+
+## Futurice, an outcome-focused digital transformation company
+ - [https://futurice.com](https://futurice.com)
+ - date published: 2023-10-25T14:40:11.459344+00:00
+ - user: None
+ - tags: []
+
+## Futurism | Science and Technology News and Videos
+ - [https://futurism.com](https://futurism.com)
+ - date published: 2023-10-25T14:40:14.917356+00:00
+ - user: None
+ - tags: []
+
+## Mahmoud Mazouz
+ - [https://fuzzypixelz.com](https://fuzzypixelz.com)
+ - date published: 2023-10-25T14:40:16.267218+00:00
+ - user: None
+ - tags: []
+
 ## Mahmoud Mazouz
  - [https://www.fuzzypixelz.com](https://www.fuzzypixelz.com)
  - date published: 2023-10-25T14:40:17.490437+00:00
@@ -4760,6 +4814,12 @@
  - user: None
  - tags: []
 
+## BATTLEBIT REMASTERED
+ - [https://joinbattlebit.com](https://joinbattlebit.com)
+ - date published: 2023-11-04T19:18:12.604508+00:00
+ - user: None
+ - tags: ['game', 'massive online multiplayer', 'mmo']
+
 ## BookWyrm: Social Reading and Reviewing
  - [https://joinbookwyrm.com](https://joinbookwyrm.com)
  - date published: 2023-10-25T15:30:50.406250+00:00
@@ -5907,6 +5967,12 @@
  - user: None
  - tags: ['audio news']
 
+## The Kyiv Independent — News from Ukraine, Eastern Europe
+ - [https://kyivindependent.com](https://kyivindependent.com)
+ - date published: 2023-11-04T17:28:08.928869+00:00
+ - user: None
+ - tags: []
+
 ## Get the Latest Ukraine News Today - KyivPost
  - [https://www.kyivpost.com](https://www.kyivpost.com)
  - date published: 2023-10-30T13:20:43.795967+00:00
@@ -5928,72 +5994,6 @@
 ## LADbible - Redefining Entertainment & News For a Social Generation
  - [https://www.ladbible.com](https://www.ladbible.com)
  - date published: 2023-10-25T15:40:37.138269+00:00
- - user: None
- - tags: []
-
-## Lagged - Free Online Games on Lagged.com
- - [https://lagged.com](https://lagged.com)
- - date published: 2023-10-25T11:16:36.744329+00:00
- - user: None
- - tags: []
-
-## We Explain L.A. | LAist
- - [https://laist.com](https://laist.com)
- - date published: 2023-10-25T15:40:43.203265+00:00
- - user: None
- - tags: []
-
-## https://lajili.com
- - [https://lajili.com](https://lajili.com)
- - date published: 2023-10-25T15:40:43.836423+00:00
- - user: None
- - tags: []
-
-## lamag.com
- - [https://www.lamag.com](https://www.lamag.com)
- - date published: 2023-10-25T15:40:44.165341+00:00
- - user: None
- - tags: []
-
-## Lambda Funk
- - [https://lambdafunk.com](https://lambdafunk.com)
- - date published: 2023-10-25T15:40:50.826332+00:00
- - user: None
- - tags: []
-
-## lili's musings
- - [https://musings.lambdaloop.com](https://musings.lambdaloop.com)
- - date published: 2023-10-25T15:40:52.257452+00:00
- - user: None
- - tags: []
-
-## Automobili Lamborghini - Official Website | Lamborghini.com
- - [https://www.lamborghini.com](https://www.lamborghini.com)
- - date published: 2023-11-01T08:56:31.362672+00:00
- - user: None
- - tags: ['company', 'car producer']
-
-## Home | Lambros Petrou
- - [https://www.lambrospetrou.com](https://www.lambrospetrou.com)
- - date published: 2023-10-25T15:40:55.086746+00:00
- - user: None
- - tags: []
-
-## LanceDB
- - [https://blog.lancedb.com](https://blog.lancedb.com)
- - date published: 2023-10-25T15:40:58.755872+00:00
- - user: None
- - tags: []
-
-## 🦜️🔗 Langchain
- - [https://python.langchain.com](https://python.langchain.com)
- - date published: 2023-10-25T15:40:59.811350+00:00
- - user: None
- - tags: []
-
-## LangoGuessr
- - [https://langoguessr.com](https://langoguessr.com)
- - date published: 2023-10-25T15:41:00.327608+00:00
  - user: None
  - tags: []
 

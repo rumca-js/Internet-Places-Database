@@ -1,3 +1,15 @@
+## Successful Farming: Practical, Trusted Farming and Ranching Information
+ - [https://www.agriculture.com](https://www.agriculture.com)
+ - date published: 2023-10-25T12:35:14.231208+00:00
+ - user: None
+ - tags: []
+
+## AgWeb - Agriculture news, commodity markets insights and weather
+ - [https://www.agweb.com](https://www.agweb.com)
+ - date published: 2023-10-25T12:35:22.012044+00:00
+ - user: None
+ - tags: []
+
 ## https://ahalbert.com
  - [https://ahalbert.com](https://ahalbert.com)
  - date published: 2023-10-25T12:35:23.943556+00:00
@@ -1852,6 +1864,12 @@
  - user: None
  - tags: []
 
+## atomic14
+ - [https://blog.atomic14.com](https://blog.atomic14.com)
+ - date published: 2023-11-04T18:28:37.686431+00:00
+ - user: None
+ - tags: []
+
 ## atomic14 | atomic14
  - [https://www.atomic14.com](https://www.atomic14.com)
  - date published: 2023-10-25T12:47:55.499147+00:00
@@ -2121,6 +2139,12 @@
  - date published: 2023-10-30T12:55:20.105525+00:00
  - user: None
  - tags: ['antivirus']
+
+## AvSax | A thermal runaway solution in a fireproof bag | Avsax.com
+ - [https://avsax.com](https://avsax.com)
+ - date published: 2023-11-04T09:27:46.266247+00:00
+ - user: None
+ - tags: []
 
 ## AVS Forum
  - [https://www.avsforum.com](https://www.avsforum.com)
@@ -2725,6 +2749,12 @@
 ## Actionable Trading Ideas, Real-Time News, Financial Insight - Benzinga
  - [https://www.benzinga.com](https://www.benzinga.com)
  - date published: 2023-10-25T10:58:49.994699+00:00
+ - user: None
+ - tags: []
+
+## Robin Berjon
+ - [https://berjon.com](https://berjon.com)
+ - date published: 2023-11-04T23:58:12.595194+00:00
  - user: None
  - tags: []
 
@@ -5965,36 +5995,6 @@
 ## ClockworkPi | Open Source Hardware
  - [https://www.clockworkpi.com](https://www.clockworkpi.com)
  - date published: 2023-10-25T08:35:32.122401+00:00
- - user: None
- - tags: []
-
-## The Making of Close
- - [https://making.close.com](https://making.close.com)
- - date published: 2023-10-25T13:26:39.375532+00:00
- - user: None
- - tags: []
-
-## Mission Critical Enterprise Software by Cloud Software Group - Cloud Software Group
- - [https://www.cloud.com](https://www.cloud.com)
- - date published: 2023-10-25T13:26:40.246262+00:00
- - user: None
- - tags: []
-
-## The Cloudflare Blog
- - [https://blog.cloudflare.com](https://blog.cloudflare.com)
- - date published: 2023-10-25T13:26:44.738944+00:00
- - user: None
- - tags: []
-
-## https://community.cloudflare.com
- - [https://community.cloudflare.com](https://community.cloudflare.com)
- - date published: 2023-10-25T13:26:48.405370+00:00
- - user: None
- - tags: []
-
-## https://radar.cloudflare.com
- - [https://radar.cloudflare.com](https://radar.cloudflare.com)
- - date published: 2023-10-25T13:26:48.681639+00:00
  - user: None
  - tags: []
 
