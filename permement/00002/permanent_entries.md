@@ -1,3 +1,39 @@
+## Climate Drift | Marco & Skander | Substack
+ - [https://www.climatedrift.com](https://www.climatedrift.com)
+ - date published: 2023-10-25T09:40:02.589131+00:00
+ - user: None
+ - tags: ['substack']
+
+## Journey toward net zero with Climeworks' carbon removal service
+ - [https://climeworks.com](https://climeworks.com)
+ - date published: 2023-10-25T13:26:37.360343+00:00
+ - user: None
+ - tags: []
+
+## https://www.clinicalmicrobiologyandinfection.com
+ - [https://www.clinicalmicrobiologyandinfection.com](https://www.clinicalmicrobiologyandinfection.com)
+ - date published: 2023-11-05T07:28:30.587332+00:00
+ - user: None
+ - tags: []
+
+## Clockwork Micro: Map tools that work like clockwork | Clockwork Micro
+ - [https://www.clockworkmicro.com](https://www.clockworkmicro.com)
+ - date published: 2023-10-25T13:26:38.479404+00:00
+ - user: None
+ - tags: []
+
+## ClockworkPi | Open Source Hardware
+ - [https://www.clockworkpi.com](https://www.clockworkpi.com)
+ - date published: 2023-10-25T08:35:32.122401+00:00
+ - user: None
+ - tags: []
+
+## The Making of Close
+ - [https://making.close.com](https://making.close.com)
+ - date published: 2023-10-25T13:26:39.375532+00:00
+ - user: None
+ - tags: []
+
 ## Mission Critical Enterprise Software by Cloud Software Group - Cloud Software Group
  - [https://www.cloud.com](https://www.cloud.com)
  - date published: 2023-10-25T13:26:40.246262+00:00
@@ -1468,6 +1504,12 @@
  - user: None
  - tags: []
 
+## Dailynewsegypt
+ - [https://www.dailynewsegypt.com](https://www.dailynewsegypt.com)
+ - date published: 2023-11-05T22:14:24.944012+00:00
+ - user: None
+ - tags: []
+
 ## Daily Nous - news for & about the philosophy profession
  - [https://dailynous.com](https://dailynous.com)
  - date published: 2023-10-25T13:41:48.743475+00:00
@@ -1864,6 +1906,12 @@
  - user: None
  - tags: ['pakistan news']
 
+## GDPR Support
+ - [https://www.daytondailynews.com](https://www.daytondailynews.com)
+ - date published: 2023-11-05T04:28:19.630117+00:00
+ - user: None
+ - tags: []
+
 ## Dazed & Confused Magazine | Fashion, Art, Music, Film, Ideas | Dazed
  - [https://www.dazeddigital.com](https://www.dazeddigital.com)
  - date published: 2023-10-25T13:46:21.108219+00:00
@@ -1957,6 +2005,12 @@
 ## Decathlon | Move people through the wonders of sport | Decathlon
  - [https://www.decathlon.com](https://www.decathlon.com)
  - date published: 2023-10-25T13:47:16.336867+00:00
+ - user: None
+ - tags: []
+
+## decaturdaily.com | The Independent Voice of the Tennessee Valley since 1912
+ - [https://www.decaturdaily.com](https://www.decaturdaily.com)
+ - date published: 2023-11-05T17:32:42.494420+00:00
  - user: None
  - tags: []
 
@@ -4085,6 +4139,12 @@
  - user: None
  - tags: []
 
+## Esports Charts - Esports Viewership, Popularity and Analytics
+ - [https://escharts.com](https://escharts.com)
+ - date published: 2023-11-05T13:09:00.793905+00:00
+ - user: None
+ - tags: []
+
 ## eSeller365 is a leading ecommerce news and magazine for marketplace sellers
  - [https://www.eseller365.com](https://www.eseller365.com)
  - date published: 2023-10-25T14:09:36.512453+00:00
@@ -5936,66 +5996,6 @@
 ## Frore Systems
  - [https://www.froresystems.com](https://www.froresystems.com)
  - date published: 2023-10-25T14:39:04.489972+00:00
- - user: None
- - tags: []
-
-## Home | Fruitnet
- - [https://www.fruitnet.com](https://www.fruitnet.com)
- - date published: 2023-10-25T14:39:13.475748+00:00
- - user: None
- - tags: []
-
-## FryAI
- - [https://www.fry-ai.com](https://www.fry-ai.com)
- - date published: 2023-10-25T14:39:16.490708+00:00
- - user: None
- - tags: []
-
-## F# for fun and profit
- - [https://fsharpforfunandprofit.com](https://fsharpforfunandprofit.com)
- - date published: 2023-10-25T14:39:18.087751+00:00
- - user: None
- - tags: []
-
-## Redirect to... FT visual journalism
- - [https://ig.ft.com](https://ig.ft.com)
- - date published: 2023-10-25T14:39:20.226820+00:00
- - user: None
- - tags: []
-
-## Home | FT Property Listings
- - [https://propertylistings.ft.com](https://propertylistings.ft.com)
- - date published: 2023-10-25T14:39:22.270151+00:00
- - user: None
- - tags: []
-
-## Financial Times
- - [https://www.ft.com](https://www.ft.com)
- - date published: 2023-10-25T10:26:31.468549+00:00
- - user: None
- - tags: []
-
-## FTAdviser
- - [https://www.ftadviser.com](https://www.ftadviser.com)
- - date published: 2023-10-25T14:39:26.291885+00:00
- - user: None
- - tags: []
-
-## FTX Homepage
- - [https://ftx.com](https://ftx.com)
- - date published: 2023-10-25T14:39:27.320966+00:00
- - user: None
- - tags: []
-
-## The Full Stack
- - [https://fullstackdeeplearning.com](https://fullstackdeeplearning.com)
- - date published: 2023-10-25T14:39:35.486425+00:00
- - user: None
- - tags: []
-
-## Full Stack Economics | Timothy B Lee | Substack
- - [https://www.fullstackeconomics.com](https://www.fullstackeconomics.com)
- - date published: 2023-10-25T14:39:39.123373+00:00
  - user: None
  - tags: []
 

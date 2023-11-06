@@ -1,3 +1,153 @@
+## The Lamp Magazine | Home Page
+ - [https://thelampmagazine.com](https://thelampmagazine.com)
+ - date published: 2023-10-25T17:35:45.158460+00:00
+ - user: None
+ - tags: []
+
+## https://www.thelancet.com
+ - [https://www.thelancet.com](https://www.thelancet.com)
+ - date published: 2023-10-25T10:11:22.609313+00:00
+ - user: None
+ - tags: []
+
+## theLAnd
+ - [https://thelandmag.com](https://thelandmag.com)
+ - date published: 2023-10-25T17:35:49.568464+00:00
+ - user: None
+ - tags: []
+
+## The LawDog Files
+ - [https://thelawdogfiles.com](https://thelawdogfiles.com)
+ - date published: 2023-10-25T17:35:54.122209+00:00
+ - user: None
+ - tags: []
+
+## The Life of Kenneth
+ - [https://blog.thelifeofkenneth.com](https://blog.thelifeofkenneth.com)
+ - date published: 2023-10-25T17:35:58.459927+00:00
+ - user: None
+ - tags: []
+
+## The Little Typer
+ - [https://thelittletyper.com](https://thelittletyper.com)
+ - date published: 2023-10-25T17:35:59.133098+00:00
+ - user: None
+ - tags: []
+
+## The Loadstar - Making sense of the supply chain
+ - [https://theloadstar.com](https://theloadstar.com)
+ - date published: 2023-10-25T17:36:04.646846+00:00
+ - user: None
+ - tags: []
+
+## The Local - Europe's news in English
+ - [https://www.thelocal.com](https://www.thelocal.com)
+ - date published: 2023-10-31T12:38:37.277060+00:00
+ - user: None
+ - tags: ['news']
+
+## Home - The Maine Wire
+ - [https://www.themainewire.com](https://www.themainewire.com)
+ - date published: 2023-10-25T17:36:10.533115+00:00
+ - user: None
+ - tags: []
+
+## The Manual - The Essential Guide for Men
+ - [https://www.themanual.com](https://www.themanual.com)
+ - date published: 2023-10-25T17:36:14.473294+00:00
+ - user: None
+ - tags: []
+
+## The Marijuana Herald - Marijuana news and information.
+ - [https://themarijuanaherald.com](https://themarijuanaherald.com)
+ - date published: 2023-10-25T17:36:16.609074+00:00
+ - user: None
+ - tags: []
+
+## The Measure of a Plan
+ - [https://themeasureofaplan.com](https://themeasureofaplan.com)
+ - date published: 2023-10-25T17:36:25.790887+00:00
+ - user: None
+ - tags: []
+
+## MeatEater | Your link to the food chain
+ - [https://www.themeateater.com](https://www.themeateater.com)
+ - date published: 2023-10-25T17:36:29.402967+00:00
+ - user: None
+ - tags: []
+
+## Your Source for Trusted and Unbiased News - The Messenger
+ - [https://themessenger.com](https://themessenger.com)
+ - date published: 2023-10-25T10:39:22.548539+00:00
+ - user: None
+ - tags: []
+
+## The Millennium Report
+ - [https://themillenniumreport.com](https://themillenniumreport.com)
+ - date published: 2023-10-25T17:36:36.632220+00:00
+ - user: None
+ - tags: []
+
+## The Millions - Books, Arts, and Culture
+ - [https://themillions.com](https://themillions.com)
+ - date published: 2023-10-25T17:36:38.668264+00:00
+ - user: None
+ - tags: []
+
+## Themindcircle
+ - [https://themindcircle.com](https://themindcircle.com)
+ - date published: 2023-10-25T17:36:40.779932+00:00
+ - user: None
+ - tags: []
+
+## Dunfield Development Services
+ - [https://dunfield.themindfactory.com](https://dunfield.themindfactory.com)
+ - date published: 2023-11-03T19:34:30.475581+00:00
+ - user: None
+ - tags: []
+
+## [TMP] The Miniatures Page
+ - [http://theminiaturespage.com](http://theminiaturespage.com)
+ - date published: 2023-11-01T18:35:06.205324+00:00
+ - user: None
+ - tags: ['warhammer']
+
+## The Moscow Times
+ - [https://www.themoscowtimes.com](https://www.themoscowtimes.com)
+ - date published: 2023-10-25T10:12:59.328407+00:00
+ - user: None
+ - tags: []
+
+## Job Search, Companies Hiring Near Me, and Advice | The Muse
+ - [https://www.themuse.com](https://www.themuse.com)
+ - date published: 2023-10-25T17:36:42.158729+00:00
+ - user: None
+ - tags: []
+
+## The Mythical Engineer | Blog about Software Engineering
+ - [https://themythicalengineer.com](https://themythicalengineer.com)
+ - date published: 2023-10-25T17:36:48.478058+00:00
+ - user: None
+ - tags: []
+
+## The Nation
+ - [https://www.thenation.com](https://www.thenation.com)
+ - date published: 2023-10-25T17:36:57.288491+00:00
+ - user: None
+ - tags: []
+
+## The National - Latest world news, sport & opinion
+ - [https://www.thenationalnews.com](https://www.thenationalnews.com)
+ - date published: 2023-10-25T17:37:06.236021+00:00
+ - user: None
+ - tags: []
+
+## The NESS
+ - [https://theness.com](https://theness.com)
+ - date published: 2023-10-25T17:37:07.430556+00:00
+ - user: None
+ - tags: []
+
 ## The Nevada Independent - Your state.  Your news.  Your voice.
  - [https://thenevadaindependent.com](https://thenevadaindependent.com)
  - date published: 2023-10-30T22:37:57.650531+00:00
@@ -2576,6 +2726,12 @@
  - user: None
  - tags: []
 
+## Welcome to the Victoria News
+ - [https://www.vicnews.com](https://www.vicnews.com)
+ - date published: 2023-11-05T01:47:17.761566+00:00
+ - user: None
+ - tags: []
+
 ## Home | Victor Brandalise
  - [https://victorbrandalise.com](https://victorbrandalise.com)
  - date published: 2023-10-25T17:56:19.318141+00:00
@@ -4545,6 +4701,12 @@
  - user: None
  - tags: []
 
+## https://www.worldscientific.com
+ - [https://www.worldscientific.com](https://www.worldscientific.com)
+ - date published: 2023-11-05T06:28:18.690574+00:00
+ - user: None
+ - tags: []
+
 ## World Sensorium / Conservancy
  - [https://worldsensorium.com](https://worldsensorium.com)
  - date published: 2023-10-25T18:19:09.609444+00:00
@@ -4629,6 +4791,12 @@
  - user: None
  - tags: []
 
+## Atlanta News, Weather and Sports. Breaking stories from around the Metro Area. Coverage you can count on from WSB-TV Channel 2. – WSB-TV Channel 2 - Atlanta
+ - [https://www.wsbtv.com](https://www.wsbtv.com)
+ - date published: 2023-11-05T03:04:19.560301+00:00
+ - user: None
+ - tags: []
+
 ## The Wall Street Journal - Breaking News, Business, Financial & Economic News, World News and Video
  - [https://online.wsj.com](https://online.wsj.com)
  - date published: 2023-10-25T18:20:48.069060+00:00
@@ -4638,6 +4806,12 @@
 ## The Wall Street Journal - Breaking News, Business, Financial & Economic News, World News and Video
  - [https://www.wsj.com](https://www.wsj.com)
  - date published: 2023-10-25T10:30:29.252767+00:00
+ - user: None
+ - tags: []
+
+## Nashville News, Weather, Sports
+ - [https://www.wsmv.com](https://www.wsmv.com)
+ - date published: 2023-11-05T16:32:47.785699+00:00
  - user: None
  - tags: []
 
@@ -5821,180 +5995,6 @@ home
 ## Forschen für die Energiewende - Fraunhofer-Institut für Solare Energiesysteme ISE -  Fraunhofer ISE
  - [https://www.ise.fraunhofer.de](https://www.ise.fraunhofer.de)
  - date published: 2023-10-25T18:30:39.964840+00:00
- - user: None
- - tags: []
-
-## FRUNC – Schnall den Rucksack um, Ulf. Ich glaub, es geht los!
- - [https://frunc.de](https://frunc.de)
- - date published: 2023-10-25T18:30:43.652219+00:00
- - user: None
- - tags: []
-
-## John-F.-Kennedy-Institut: Startseite
- - [https://www.jfki.fu-berlin.de](https://www.jfki.fu-berlin.de)
- - date published: 2023-10-25T18:30:45.808648+00:00
- - user: None
- - tags: []
-
-## GNU Pascal
- - [https://www.gnu-pascal.de](https://www.gnu-pascal.de)
- - date published: 2023-10-25T18:30:47.993234+00:00
- - user: None
- - tags: []
-
-## Gorilla Sun
- - [https://gorillasun.de](https://gorillasun.de)
- - date published: 2023-10-25T18:30:51.098785+00:00
- - user: None
- - tags: []
-
-## Beglaubigung OpenPGP-Schlüssel
- - [https://pgp.governikus.de](https://pgp.governikus.de)
- - date published: 2023-10-25T18:30:54.264820+00:00
- - user: None
- - tags: []
-
-## H2FLY - Realizes hydrogen-powered zero-emission aviation.
- - [https://www.h2fly.de](https://www.h2fly.de)
- - date published: 2023-10-25T18:30:56.863209+00:00
- - user: None
- - tags: []
-
-## HanNet: Welcome to HanNet e.V.
- - [https://www.han.de](https://www.han.de)
- - date published: 2023-10-25T18:30:58.302906+00:00
- - user: None
- - tags: []
-
-## heise online - IT-News, Nachrichten und Hintergründe
- - [https://www.heise.de](https://www.heise.de)
- - date published: 2023-10-25T18:31:10.163609+00:00
- - user: None
- - tags: []
-
-## igor´sLAB | PC & Components | Reviews & News
- - [https://www.igorslab.de](https://www.igorslab.de)
- - date published: 2023-10-25T18:31:18.439027+00:00
- - user: None
- - tags: []
-
-## imagico.de - Home
- - [https://imagico.de](https://imagico.de)
- - date published: 2023-10-25T18:31:21.792895+00:00
- - user: None
- - tags: []
-
-## JavE - Java Ascii Versatile Editor
- - [http://www.jave.de](http://www.jave.de)
- - date published: 2023-10-25T18:31:23.796550+00:00
- - user: None
- - tags: []
-
-## jj's USEFUL and UGLY pages
- - [https://www.jjj.de](https://www.jjj.de)
- - date published: 2023-10-25T18:31:25.414779+00:00
- - user: None
- - tags: []
-
-## Blog – Joachim Breitner's Homepage
- - [https://www.joachim-breitner.de](https://www.joachim-breitner.de)
- - date published: 2023-10-25T18:31:28.248214+00:00
- - user: None
- - tags: []
-
-## JouMxyzptlk - 4K HD, Ultra HD, 6K HD, 8K, 10k, 15k HighRes game videos and panoramas
- - [https://joumxyzptlk.de](https://joumxyzptlk.de)
- - date published: 2023-10-25T18:31:29.862637+00:00
- - user: None
- - tags: []
-
-## Nachrichten aus Bremen und Niedersachsen | kreiszeitung.de
- - [https://www.kreiszeitung.de](https://www.kreiszeitung.de)
- - date published: 2023-10-25T18:31:36.569218+00:00
- - user: None
- - tags: []
-
-## Michael Kuron's Blog
- - [https://blog.michael.kuron-germany.de](https://blog.michael.kuron-germany.de)
- - date published: 2023-10-25T18:31:39.282220+00:00
- - user: None
- - tags: []
-
-## Jacob 'kurtextrem' Groß | Jacob Groß | kurtextrem.de
- - [https://kurtextrem.de](https://kurtextrem.de)
- - date published: 2023-10-25T18:31:39.984385+00:00
- - user: None
- - tags: []
-
-## LMU Munich - Media Informatics
- - [https://www.medien.ifi.lmu.de](https://www.medien.ifi.lmu.de)
- - date published: 2023-10-25T18:31:46.269292+00:00
- - user: None
- - tags: []
-
-## LSWW - Mach dein Online Business smarter!
- - [https://lsww.de](https://lsww.de)
- - date published: 2023-10-25T18:31:53.223152+00:00
- - user: None
- - tags: []
-
-## Lukas Schwarz
- - [https://lukasschwarz.de](https://lukasschwarz.de)
- - date published: 2023-10-25T18:31:56.457029+00:00
- - user: None
- - tags: []
-
-## M5E's Blog
- - [https://blog.m5e.de](https://blog.m5e.de)
- - date published: 2023-10-25T18:31:59.192949+00:00
- - user: None
- - tags: []
-
-## Max Delbrück Center
- - [https://www.mdc-berlin.de](https://www.mdc-berlin.de)
- - date published: 2023-10-25T18:32:02.264905+00:00
- - user: None
- - tags: []
-
-## Elektronik, Trends & Technik kaufen im Onlineshop
- - [https://www.mediamarkt.de](https://www.mediamarkt.de)
- - date published: 2023-11-01T08:41:24.416647+00:00
- - user: None
- - tags: []
-
-## Metal Hammer
- - [https://www.metal-hammer.de](https://www.metal-hammer.de)
- - date published: 2023-11-02T09:15:35.360663+00:00
- - user: None
- - tags: []
-
-## Institute for Digital Medicine -  Fraunhofer MEVIS
- - [http://www.mevis-research.de](http://www.mevis-research.de)
- - date published: 2023-10-25T18:32:07.302710+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://michaelbach.de](https://michaelbach.de)
- - date published: 2023-10-25T18:32:09.114872+00:00
- - user: None
- - tags: []
-
-## minus' blog
- - [https://blog.mnus.de](https://blog.mnus.de)
- - date published: 2023-10-25T18:32:10.479952+00:00
- - user: None
- - tags: []
-
-## lingweb.eva.mpg.de
- - [https://lingweb.eva.mpg.de](https://lingweb.eva.mpg.de)
- - date published: 2023-10-25T18:32:10.923468+00:00
- - user: None
- - tags: []
-
-## Max-Planck-Institut für Meteorologie: Startseite
- - [https://mpimet.mpg.de](https://mpimet.mpg.de)
- - date published: 2023-10-25T18:32:13.317317+00:00
  - user: None
  - tags: []
 

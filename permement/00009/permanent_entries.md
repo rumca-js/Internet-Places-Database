@@ -1,3 +1,189 @@
+## The Autopilot Fund
+ - [https://blog.autopilot.fund](https://blog.autopilot.fund)
+ - date published: 2023-10-25T19:15:50.122692+00:00
+ - user: None
+ - tags: []
+
+## Adriano Caloiaro's personal blog
+ - [https://adriano.fyi](https://adriano.fyi)
+ - date published: 2023-10-25T08:59:03.095518+00:00
+ - user: None
+ - tags: ['personal']
+
+## brr
+ - [https://brr.fyi](https://brr.fyi)
+ - date published: 2023-10-25T19:15:50.754055+00:00
+ - user: None
+ - tags: []
+
+## Freelance rates by contractrates.fyi
+ - [https://www.contractrates.fyi](https://www.contractrates.fyi)
+ - date published: 2023-10-25T19:15:52.506601+00:00
+ - user: None
+ - tags: []
+
+## DevBase - Product Gallery for Developers
+ - [https://devbase.fyi](https://devbase.fyi)
+ - date published: 2023-10-25T19:15:55.735011+00:00
+ - user: None
+ - tags: []
+
+## Digital culture and entertainment insights daily: Digital culture and entertainment insights daily
+ - [https://dirt.fyi](https://dirt.fyi)
+ - date published: 2023-10-25T19:15:57.266413+00:00
+ - user: None
+ - tags: []
+
+## ESPP.fyi - ESPP Calculator
+ - [https://espp.fyi](https://espp.fyi)
+ - date published: 2023-10-25T19:15:58.160226+00:00
+ - user: None
+ - tags: []
+
+## iliana.fyi
+ - [https://iliana.fyi](https://iliana.fyi)
+ - date published: 2023-10-25T19:15:59.645382+00:00
+ - user: None
+ - tags: []
+
+## Layoffs.fyi - Tech Layoff Tracker and Startup Layoff Lists
+ - [https://layoffs.fyi](https://layoffs.fyi)
+ - date published: 2023-10-25T19:16:02.675285+00:00
+ - user: None
+ - tags: []
+
+## Levels.fyi | Salaries & Tools to Level Up Your Career
+ - [https://www.levels.fyi](https://www.levels.fyi)
+ - date published: 2023-10-25T19:16:09.416624+00:00
+ - user: None
+ - tags: []
+
+## Not a Number
+ - [https://www.nan.fyi](https://www.nan.fyi)
+ - date published: 2023-10-25T19:16:10.047779+00:00
+ - user: None
+ - tags: []
+
+## Not By AI — Add the Badge to Your Human-Created Content
+ - [https://notbyai.fyi](https://notbyai.fyi)
+ - date published: 2023-10-25T19:16:11.639093+00:00
+ - user: None
+ - tags: []
+
+## 2 Weeks Notice/Layoff Checklist
+ - [https://notice.fyi](https://notice.fyi)
+ - date published: 2023-10-25T19:16:13.369510+00:00
+ - user: None
+ - tags: []
+
+## Paisa
+ - [https://paisa.fyi](https://paisa.fyi)
+ - date published: 2023-10-25T19:16:14.401445+00:00
+ - user: None
+ - tags: []
+
+## physician.fyi
+ - [https://www.physician.fyi](https://www.physician.fyi)
+ - date published: 2023-10-25T19:16:19.520735+00:00
+ - user: None
+ - tags: []
+
+## rustjobs.fyi
+ - [https://www.rustjobs.fyi](https://www.rustjobs.fyi)
+ - date published: 2023-10-25T19:16:20.460320+00:00
+ - user: None
+ - tags: []
+
+## The ideal viewport doesn’t exist
+ - [https://viewports.fyi](https://viewports.fyi)
+ - date published: 2023-10-25T19:16:21.804980+00:00
+ - user: None
+ - tags: []
+
+## Vizly - Data to insights in seconds
+ - [https://www.vizly.fyi](https://www.vizly.fyi)
+ - date published: 2023-10-25T19:16:23.095453+00:00
+ - user: None
+ - tags: []
+
+## William Edmisten
+ - [https://wcedmisten.fyi](https://wcedmisten.fyi)
+ - date published: 2023-10-25T19:16:24.081987+00:00
+ - user: None
+ - tags: []
+
+## Jack Wrenn
+ - [https://jack.wrenn.fyi](https://jack.wrenn.fyi)
+ - date published: 2023-10-25T19:16:25.606719+00:00
+ - user: None
+ - tags: []
+
+## Are the Americans Awake?
+ - [https://are-the-americans-awake.yusuf.fyi](https://are-the-americans-awake.yusuf.fyi)
+ - date published: 2023-10-25T19:16:26.673031+00:00
+ - user: None
+ - tags: []
+
+## http://blog.joren.ga
+ - [http://blog.joren.ga](http://blog.joren.ga)
+ - date published: 2023-10-25T19:16:27.842923+00:00
+ - user: None
+ - tags: []
+
+## Minimal Gallery – Website inspiration
+ - [https://minimal.gallery](https://minimal.gallery)
+ - date published: 2023-10-25T19:16:29.833681+00:00
+ - user: None
+ - tags: []
+
+## Nyx.gallery - AI-generated photography
+ - [https://nyx.gallery](https://nyx.gallery)
+ - date published: 2023-10-25T19:16:35.991453+00:00
+ - user: None
+ - tags: []
+
+## Baldur's Gate 3
+ - [https://baldursgate3.game](https://baldursgate3.game)
+ - date published: 2023-10-25T19:16:37.135932+00:00
+ - user: None
+ - tags: []
+
+## Nour: Play With Your Food
+ - [https://food.game](https://food.game)
+ - date published: 2023-10-25T19:16:38.689460+00:00
+ - user: None
+ - tags: []
+
+## GuessTheGame - Your daily video game guessing puzzle!
+ - [https://guessthe.game](https://guessthe.game)
+ - date published: 2023-10-25T19:16:39.291433+00:00
+ - user: None
+ - tags: []
+
+## games
+ - [https://eieio.games](https://eieio.games)
+ - date published: 2023-10-25T08:49:11.104677+00:00
+ - user: None
+ - tags: ['personal']
+
+## Imperial Games
+ - [https://imperial.games](https://imperial.games)
+ - date published: 2023-10-27T08:01:51.543359+00:00
+ - user: None
+ - tags: []
+
+## IPv4 Turf War
+ - [https://ipv4.games](https://ipv4.games)
+ - date published: 2023-10-25T19:16:40.305776+00:00
+ - user: None
+ - tags: []
+
+## #OpenDND
+ - [https://www.opendnd.games](https://www.opendnd.games)
+ - date published: 2023-10-25T19:16:41.427149+00:00
+ - user: None
+ - tags: []
+
 ## Pixel Puzzler
  - [https://pixel-puzzler.playcurious.games](https://pixel-puzzler.playcurious.games)
  - date published: 2023-10-25T19:16:41.899108+00:00
@@ -1719,6 +1905,12 @@
  - user: None
  - tags: []
 
+## THE WEEK
+ - [https://www.theweek.in](https://www.theweek.in)
+ - date published: 2023-11-05T18:14:02.101671+00:00
+ - user: None
+ - tags: []
+
 ## The Wire: The Wire News India, Latest News,News from India, Politics, External Affairs, Science, Economics, Gender and Culture
  - [https://thewire.in](https://thewire.in)
  - date published: 2023-10-25T19:31:55.783674+00:00
@@ -2232,6 +2424,12 @@
 ## XRain - Rainfall statistics for the globe
  - [https://xrain.info](https://xrain.info)
  - date published: 2023-10-25T19:35:41.888661+00:00
+ - user: None
+ - tags: []
+
+## XtoF’s Lair
+ - [https://www.xtof.info](https://www.xtof.info)
+ - date published: 2023-11-05T23:15:15.251290+00:00
  - user: None
  - tags: []
 
@@ -3657,6 +3855,12 @@
  - user: None
  - tags: []
 
+## Site not found · GitHub Pages
+ - [https://cellularprivacy.github.io](https://cellularprivacy.github.io)
+ - date published: 2023-11-05T15:09:09.700016+00:00
+ - user: None
+ - tags: []
+
 ## Clayton's Website
  - [https://claytonwramsey.github.io](https://claytonwramsey.github.io)
  - date published: 2023-10-25T19:44:41.848803+00:00
@@ -3998,6 +4202,12 @@ through Composable Diffusion
       Media aggregator and podcast client
  - [https://gpodder.github.io](https://gpodder.github.io)
  - date published: 2023-10-25T19:45:54.620928+00:00
+ - user: None
+ - tags: []
+
+## Site not found · GitHub Pages
+ - [https://gpuweb.github.io](https://gpuweb.github.io)
+ - date published: 2023-11-05T20:13:45.820697+00:00
  - user: None
  - tags: []
 
@@ -5786,216 +5996,6 @@ through Composable Diffusion
 ## The Bibites - itch.io
  - [https://leocaussan.itch.io](https://leocaussan.itch.io)
  - date published: 2023-10-25T19:58:07.357268+00:00
- - user: None
- - tags: []
-
-## Lorenzo Pilia - itch.io
- - [https://lorenzo.itch.io](https://lorenzo.itch.io)
- - date published: 2023-10-25T19:58:13.361412+00:00
- - user: None
- - tags: []
-
-## Ludipe - itch.io
- - [https://ludipe.itch.io](https://ludipe.itch.io)
- - date published: 2023-10-25T19:58:18.254514+00:00
- - user: None
- - tags: []
-
-## Daniel Linssen - itch.io
- - [https://managore.itch.io](https://managore.itch.io)
- - date published: 2023-10-25T19:58:21.800220+00:00
- - user: None
- - tags: []
-
-## Martin Piper - itch.io
- - [https://martin-piper.itch.io](https://martin-piper.itch.io)
- - date published: 2023-10-25T19:58:23.868424+00:00
- - user: None
- - tags: []
-
-## mslivo - itch.io
- - [https://mslivo.itch.io](https://mslivo.itch.io)
- - date published: 2023-10-25T19:58:25.730802+00:00
- - user: None
- - tags: []
-
-## RETREAM - itch.io
- - [https://retream.itch.io](https://retream.itch.io)
- - date published: 2023-10-25T19:58:28.088117+00:00
- - user: None
- - tags: []
-
-## sdkgames - itch.io
- - [https://sdkgames.itch.io](https://sdkgames.itch.io)
- - date published: 2023-10-25T19:58:30.146116+00:00
- - user: None
- - tags: []
-
-## Sebastian Lague - itch.io
- - [https://sebastian.itch.io](https://sebastian.itch.io)
- - date published: 2023-10-25T19:58:32.648638+00:00
- - user: None
- - tags: []
-
-## Sonic Sloth - itch.io
- - [https://sonicslothgames.itch.io](https://sonicslothgames.itch.io)
- - date published: 2023-10-25T19:58:34.548921+00:00
- - user: None
- - tags: []
-
-## steamknight - itch.io
- - [https://steamknight.itch.io](https://steamknight.itch.io)
- - date published: 2023-10-25T19:58:41.779852+00:00
- - user: None
- - tags: []
-
-## Neil Thapen - itch.io
- - [https://thapen.itch.io](https://thapen.itch.io)
- - date published: 2023-10-25T19:58:44.194991+00:00
- - user: None
- - tags: []
-
-## ToulouTouMou - itch.io
- - [https://toulou.itch.io](https://toulou.itch.io)
- - date published: 2023-10-25T19:58:46.804568+00:00
- - user: None
- - tags: []
-
-## tRaum Books - itch.io
- - [https://traumbooks.itch.io](https://traumbooks.itch.io)
- - date published: 2023-10-25T19:58:49.226697+00:00
- - user: None
- - tags: []
-
-## Uniday Studio - itch.io
- - [https://unidaystudio.itch.io](https://unidaystudio.itch.io)
- - date published: 2023-11-01T15:43:57.773429+00:00
- - user: None
- - tags: []
-
-## vividfax - itch.io
- - [https://vividfax.itch.io](https://vividfax.itch.io)
- - date published: 2023-10-25T19:59:06.021245+00:00
- - user: None
- - tags: []
-
-## Vkgames82 - itch.io
- - [https://vkgames82.itch.io](https://vkgames82.itch.io)
- - date published: 2023-10-25T19:59:07.894042+00:00
- - user: None
- - tags: []
-
-## jacko.io
- - [https://jacko.io](https://jacko.io)
- - date published: 2023-10-25T19:59:09.714979+00:00
- - user: None
- - tags: []
-
-## JanOS - Turn your phone into an IoT board
- - [http://janos.io](http://janos.io)
- - date published: 2023-10-25T19:59:11.353354+00:00
- - user: None
- - tags: []
-
-## Home | Thoughts by Javier
- - [https://www.javiergonzalez.io](https://www.javiergonzalez.io)
- - date published: 2023-10-25T19:59:13.172540+00:00
- - user: None
- - tags: []
-
-## Jetpack.io | Tools for sophisticated cloud development
- - [https://www.jetpack.io](https://www.jetpack.io)
- - date published: 2023-10-25T19:59:15.286431+00:00
- - user: None
- - tags: []
-
-## Jetstack Consult Services Overview | Venafi
- - [https://www.jetstack.io](https://www.jetstack.io)
- - date published: 2023-10-25T19:59:19.124604+00:00
- - user: None
- - tags: []
-
-## Jake Zimmerman – Jake Zimmerman
- - [https://blog.jez.io](https://blog.jez.io)
- - date published: 2023-10-25T19:59:21.513456+00:00
- - user: None
- - tags: []
-
-## JSON Meta Application Protocol Specification (JMAP)
- - [https://jmap.io](https://jmap.io)
- - date published: 2023-10-25T19:59:23.210564+00:00
- - user: None
- - tags: []
-
-## https://www.jobrunr.io/en/
- - [https://www.jobrunr.io](https://www.jobrunr.io)
- - date published: 2023-10-25T19:59:24.463885+00:00
- - user: None
- - tags: []
-
-## JoinBase | JoinBase, a single-binary AIoT-first data-service platform.
- - [https://joinbase.io](https://joinbase.io)
- - date published: 2023-10-25T19:59:26.326546+00:00
- - user: None
- - tags: []
-
-## JSONGenerator - Create Random JSON Data
- - [https://www.jsongenerator.io](https://www.jsongenerator.io)
- - date published: 2023-10-25T19:59:28.663902+00:00
- - user: None
- - tags: []
-
-## JustPaid
- - [https://www.justpaid.io](https://www.justpaid.io)
- - date published: 2023-10-25T11:28:59.968204+00:00
- - user: None
- - tags: []
-
-## K3s
- - [https://k3s.io](https://k3s.io)
- - date published: 2023-10-25T19:59:30.052320+00:00
- - user: None
- - tags: []
-
-## Kairos - The immutable Linux meta-distribution for edge Kubernetes
- - [https://kairos.io](https://kairos.io)
- - date published: 2023-10-25T19:59:31.686672+00:00
- - user: None
- - tags: []
-
-## Kata Containers - Open Source Container Runtime Software | Kata Containers
- - [https://katacontainers.io](https://katacontainers.io)
- - date published: 2023-10-25T19:59:34.155323+00:00
- - user: None
- - tags: []
-
-## Kiru.io
- - [https://kiru.io](https://kiru.io)
- - date published: 2023-10-25T19:59:36.324745+00:00
- - user: None
- - tags: []
-
-## Kitze
- - [https://kitze.io](https://kitze.io)
- - date published: 2023-10-25T19:59:38.773048+00:00
- - user: None
- - tags: []
-
-## Kitze
- - [https://www.kitze.io](https://www.kitze.io)
- - date published: 2023-10-27T12:05:16.392878+00:00
- - user: None
- - tags: []
-
-## KnifeGeek - Pocket Knives, Blades, and More!
- - [https://www.knifegeek.io](https://www.knifegeek.io)
- - date published: 2023-10-25T19:59:41.551736+00:00
- - user: None
- - tags: []
-
-## Kopia
- - [https://kopia.io](https://kopia.io)
- - date published: 2023-10-25T08:33:21.694650+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,81 @@
+## KumaZen - KumaZen
+ - [https://kumazen.com](https://kumazen.com)
+ - date published: 2023-10-25T15:40:09.511817+00:00
+ - user: None
+ - tags: []
+
+## Kurtis Beavers | Creative Director of Product Design at Stack Overflow
+ - [http://www.kurtisbeavers.com](http://www.kurtisbeavers.com)
+ - date published: 2023-10-25T08:46:49.496983+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kurtis Knodel
+ - [https://kurtisknodel.com](https://kurtisknodel.com)
+ - date published: 2023-10-25T15:40:12.241280+00:00
+ - user: None
+ - tags: []
+
+## Introduction | Kurtosis Docs
+ - [https://docs.kurtosis.com](https://docs.kurtosis.com)
+ - date published: 2023-10-30T19:33:30.429047+00:00
+ - user: None
+ - tags: []
+
+## Salt Lake City News, Weather, Sports, Breaking News | KUTV
+ - [https://kutv.com](https://kutv.com)
+ - date published: 2023-10-25T15:40:15.091573+00:00
+ - user: None
+ - tags: []
+
+## Kùzu
+ - [https://kuzudb.com](https://kuzudb.com)
+ - date published: 2023-10-25T15:40:15.724858+00:00
+ - user: None
+ - tags: []
+
+## Buy VST Plugins, Audio Units, AAX, Instruments and Effects, Download Free Plugins - KVR Audio Software
+ - [https://www.kvraudio.com](https://www.kvraudio.com)
+ - date published: 2023-10-28T18:48:38.042040+00:00
+ - user: None
+ - tags: ['audio news']
+
+## The Kyiv Independent — News from Ukraine, Eastern Europe
+ - [https://kyivindependent.com](https://kyivindependent.com)
+ - date published: 2023-11-04T17:28:08.928869+00:00
+ - user: None
+ - tags: []
+
+## Get the Latest Ukraine News Today - KyivPost
+ - [https://www.kyivpost.com](https://www.kyivpost.com)
+ - date published: 2023-10-30T13:20:43.795967+00:00
+ - user: None
+ - tags: []
+
+## Kyle Halladay - Home Page
+ - [http://kylehalladay.com](http://kylehalladay.com)
+ - date published: 2023-10-25T15:40:17.831961+00:00
+ - user: None
+ - tags: []
+
+## Home - La Civilta Cattolica English
+ - [https://www.laciviltacattolica.com](https://www.laciviltacattolica.com)
+ - date published: 2023-10-25T15:40:34.047342+00:00
+ - user: None
+ - tags: []
+
+## LADbible - Redefining Entertainment & News For a Social Generation
+ - [https://www.ladbible.com](https://www.ladbible.com)
+ - date published: 2023-10-25T15:40:37.138269+00:00
+ - user: None
+ - tags: []
+
+## Lagged - Free Online Games on Lagged.com
+ - [https://lagged.com](https://lagged.com)
+ - date published: 2023-10-25T11:16:36.744329+00:00
+ - user: None
+ - tags: []
+
 ## We Explain L.A. | LAist
  - [https://laist.com](https://laist.com)
  - date published: 2023-10-25T15:40:43.203265+00:00
@@ -1061,6 +1139,12 @@
  - tags: []
 
 ## LoL Esports
+ - [https://lolesports.com](https://lolesports.com)
+ - date published: 2023-11-05T08:48:28.445714+00:00
+ - user: None
+ - tags: []
+
+## LoL Esports
  - [https://watch.lolesports.com](https://watch.lolesports.com)
  - date published: 2023-11-02T10:41:03.461742+00:00
  - user: None
@@ -1532,6 +1616,12 @@ diversions.
 ## Mainmatter
  - [https://mainmatter.com](https://mainmatter.com)
  - date published: 2023-10-25T15:54:37.268613+00:00
+ - user: None
+ - tags: []
+
+## The Iteration | Kenn Costales | Substack
+ - [https://iteration.maiwriter.com](https://iteration.maiwriter.com)
+ - date published: 2023-11-05T11:29:59.648908+00:00
  - user: None
  - tags: []
 
@@ -3528,6 +3618,12 @@ diversions.
  - user: None
  - tags: []
 
+## Middle East Monitor
+ - [https://www.middleeastmonitor.com](https://www.middleeastmonitor.com)
+ - date published: 2023-11-05T15:09:13.933802+00:00
+ - user: None
+ - tags: []
+
 ## https://www.midjourney.com
  - [https://www.midjourney.com](https://www.midjourney.com)
  - date published: 2023-10-25T11:35:57.322285+00:00
@@ -4221,6 +4317,12 @@ diversions.
 ## MSN
  - [https://www.msn.com](https://www.msn.com)
  - date published: 2023-10-25T10:26:37.266048+00:00
+ - user: None
+ - tags: []
+
+## MSNBC News - Breaking News and News Today | Latest News
+ - [https://msnbc.com](https://msnbc.com)
+ - date published: 2023-11-05T15:29:41.824039+00:00
  - user: None
  - tags: []
 
@@ -5894,108 +5996,6 @@ Answering Machine Greetings!
 ## Światowy lider w dziedzinie technologii obliczeniowych opartych na sztucznej inteligencji | NVIDIA
  - [https://www.nvidia.com](https://www.nvidia.com)
  - date published: 2023-10-25T11:28:24.272276+00:00
- - user: None
- - tags: []
-
-## Home - NXTaltfoods
- - [https://www.nxtaltfoods.com](https://www.nxtaltfoods.com)
- - date published: 2023-10-25T16:23:37.700057+00:00
- - user: None
- - tags: []
-
-## Home | The New York Review of Books
- - [https://www.nybooks.com](https://www.nybooks.com)
- - date published: 2023-10-25T16:23:43.264499+00:00
- - user: None
- - tags: []
-
-## New York Daily News: New York News, Sports, Weather, Business & Things to Do
- - [https://www.nydailynews.com](https://www.nydailynews.com)
- - date published: 2023-10-25T11:06:03.850370+00:00
- - user: None
- - tags: []
-
-## New York Magazine
- - [https://nymag.com](https://nymag.com)
- - date published: 2023-10-25T10:37:51.311890+00:00
- - user: None
- - tags: []
-
-## New York Post – Breaking News, Top Headlines, Photos & Videos
- - [https://nypost.com](https://nypost.com)
- - date published: 2023-10-25T10:28:09.421567+00:00
- - user: None
- - tags: []
-
-## NYS Music - New York State's Music News Source
- - [https://nysmusic.com](https://nysmusic.com)
- - date published: 2023-10-25T10:17:28.556912+00:00
- - user: None
- - tags: []
-
-## The New York Times Web Archive
- - [https://archive.nytimes.com](https://archive.nytimes.com)
- - date published: 2023-10-25T16:23:44.901744+00:00
- - user: None
- - tags: []
-
-## RSS Feeds - The New York Times
- - [https://rss.nytimes.com](https://rss.nytimes.com)
- - date published: 2023-10-25T10:50:36.082162+00:00
- - user: None
- - tags: []
-
-## The New York Times - Breaking News, US News, World News and Videos
- - [https://www.nytimes.com](https://www.nytimes.com)
- - date published: 2023-10-25T10:28:14.756045+00:00
- - user: None
- - tags: []
-
-## Oaktree Capital Management
- - [https://www.oaktreecapital.com](https://www.oaktreecapital.com)
- - date published: 2023-10-25T16:23:47.230313+00:00
- - user: None
- - tags: []
-
-## Oblivious Investor — Low-Maintenance Investing with Index Funds and ETFs
- - [https://obliviousinvestor.com](https://obliviousinvestor.com)
- - date published: 2023-10-25T16:23:50.646888+00:00
- - user: None
- - tags: []
-
-## Oblivus | The next generation GPU Cloud
- - [https://oblivus.com](https://oblivus.com)
- - date published: 2023-10-25T16:23:53.272979+00:00
- - user: None
- - tags: []
-
-## The Obscuritory
- - [https://obscuritory.com](https://obscuritory.com)
- - date published: 2023-10-25T16:23:58.860161+00:00
- - user: None
- - tags: []
-
-## Data visualization platform | Observable
- - [https://observablehq.com](https://observablehq.com)
- - date published: 2023-10-25T16:24:07.429854+00:00
- - user: None
- - tags: []
-
-## News, data and insight about the powerful forces that shape the world. | Observer
- - [https://observer.com](https://observer.com)
- - date published: 2023-10-25T10:37:59.004949+00:00
- - user: None
- - tags: []
-
-## Oliver Byford
- - [https://obyford.com](https://obyford.com)
- - date published: 2023-10-25T16:24:08.350790+00:00
- - user: None
- - tags: []
-
-## https://www.occamm.com
- - [https://www.occamm.com](https://www.occamm.com)
- - date published: 2023-10-25T16:24:08.687098+00:00
  - user: None
  - tags: []
 

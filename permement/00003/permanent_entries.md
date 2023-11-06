@@ -1,3 +1,63 @@
+## FryAI
+ - [https://www.fry-ai.com](https://www.fry-ai.com)
+ - date published: 2023-10-25T14:39:16.490708+00:00
+ - user: None
+ - tags: []
+
+## F# for fun and profit
+ - [https://fsharpforfunandprofit.com](https://fsharpforfunandprofit.com)
+ - date published: 2023-10-25T14:39:18.087751+00:00
+ - user: None
+ - tags: []
+
+## Redirect to... FT visual journalism
+ - [https://ig.ft.com](https://ig.ft.com)
+ - date published: 2023-10-25T14:39:20.226820+00:00
+ - user: None
+ - tags: []
+
+## Home | FT Property Listings
+ - [https://propertylistings.ft.com](https://propertylistings.ft.com)
+ - date published: 2023-10-25T14:39:22.270151+00:00
+ - user: None
+ - tags: []
+
+## Financial Times
+ - [https://www.ft.com](https://www.ft.com)
+ - date published: 2023-10-25T10:26:31.468549+00:00
+ - user: None
+ - tags: []
+
+## FTAdviser
+ - [https://www.ftadviser.com](https://www.ftadviser.com)
+ - date published: 2023-10-25T14:39:26.291885+00:00
+ - user: None
+ - tags: []
+
+## FTX Homepage
+ - [https://ftx.com](https://ftx.com)
+ - date published: 2023-10-25T14:39:27.320966+00:00
+ - user: None
+ - tags: []
+
+## The Full Stack
+ - [https://fullstackdeeplearning.com](https://fullstackdeeplearning.com)
+ - date published: 2023-10-25T14:39:35.486425+00:00
+ - user: None
+ - tags: []
+
+## Full Stack Economics | Timothy B Lee | Substack
+ - [https://www.fullstackeconomics.com](https://www.fullstackeconomics.com)
+ - date published: 2023-10-25T14:39:39.123373+00:00
+ - user: None
+ - tags: []
+
+## AI Test Automation with Machine Learning | Functionize
+ - [https://www.functionize.com](https://www.functionize.com)
+ - date published: 2023-10-25T14:39:43.665354+00:00
+ - user: None
+ - tags: []
+
 ## FunctionTrace - human-oriented profiling for Python
  - [https://functiontrace.com](https://functiontrace.com)
  - date published: 2023-10-25T14:39:45.039373+00:00
@@ -1988,6 +2048,12 @@
  - user: None
  - tags: ['game mod']
 
+## Half Mystic
+ - [https://www.halfmystic.com](https://www.halfmystic.com)
+ - date published: 2023-11-05T04:28:25.437727+00:00
+ - user: None
+ - tags: []
+
 ## Halo - Official Site
  - [https://www.halowaypoint.com](https://www.halowaypoint.com)
  - date published: 2023-10-30T18:28:31.338398+00:00
@@ -2903,6 +2969,12 @@
 ## Hunter Walk | Self-Aware Self-Promotion
  - [https://hunterwalk.com](https://hunterwalk.com)
  - date published: 2023-10-25T15:15:02.800614+00:00
+ - user: None
+ - tags: []
+
+## 虎扑社区-虎扑网
+ - [https://bbs.hupu.com](https://bbs.hupu.com)
+ - date published: 2023-11-05T18:55:39.686319+00:00
  - user: None
  - tags: []
 
@@ -5559,6 +5631,12 @@
  - user: None
  - tags: []
 
+## ESP32
+ - [http://esp.khalsalabs.com](http://esp.khalsalabs.com)
+ - date published: 2023-11-05T18:55:24.401739+00:00
+ - user: None
+ - tags: []
+
 ## Cambodia News Home - Khmer Times
  - [https://www.khmertimeskh.com](https://www.khmertimeskh.com)
  - date published: 2023-10-25T15:37:02.303950+00:00
@@ -5916,84 +5994,6 @@
 ## Kudelski Security Research – The Latest News from Research at Kudelski Security
  - [https://research.kudelskisecurity.com](https://research.kudelskisecurity.com)
  - date published: 2023-10-25T15:40:04.469104+00:00
- - user: None
- - tags: []
-
-## kudotap.com
- - [https://kudotap.com](https://kudotap.com)
- - date published: 2023-10-25T15:40:07.335888+00:00
- - user: None
- - tags: []
-
-## KumaZen - KumaZen
- - [https://kumazen.com](https://kumazen.com)
- - date published: 2023-10-25T15:40:09.511817+00:00
- - user: None
- - tags: []
-
-## Kurtis Beavers | Creative Director of Product Design at Stack Overflow
- - [http://www.kurtisbeavers.com](http://www.kurtisbeavers.com)
- - date published: 2023-10-25T08:46:49.496983+00:00
- - user: None
- - tags: ['personal']
-
-## Kurtis Knodel
- - [https://kurtisknodel.com](https://kurtisknodel.com)
- - date published: 2023-10-25T15:40:12.241280+00:00
- - user: None
- - tags: []
-
-## Introduction | Kurtosis Docs
- - [https://docs.kurtosis.com](https://docs.kurtosis.com)
- - date published: 2023-10-30T19:33:30.429047+00:00
- - user: None
- - tags: []
-
-## Salt Lake City News, Weather, Sports, Breaking News | KUTV
- - [https://kutv.com](https://kutv.com)
- - date published: 2023-10-25T15:40:15.091573+00:00
- - user: None
- - tags: []
-
-## Kùzu
- - [https://kuzudb.com](https://kuzudb.com)
- - date published: 2023-10-25T15:40:15.724858+00:00
- - user: None
- - tags: []
-
-## Buy VST Plugins, Audio Units, AAX, Instruments and Effects, Download Free Plugins - KVR Audio Software
- - [https://www.kvraudio.com](https://www.kvraudio.com)
- - date published: 2023-10-28T18:48:38.042040+00:00
- - user: None
- - tags: ['audio news']
-
-## The Kyiv Independent — News from Ukraine, Eastern Europe
- - [https://kyivindependent.com](https://kyivindependent.com)
- - date published: 2023-11-04T17:28:08.928869+00:00
- - user: None
- - tags: []
-
-## Get the Latest Ukraine News Today - KyivPost
- - [https://www.kyivpost.com](https://www.kyivpost.com)
- - date published: 2023-10-30T13:20:43.795967+00:00
- - user: None
- - tags: []
-
-## Kyle Halladay - Home Page
- - [http://kylehalladay.com](http://kylehalladay.com)
- - date published: 2023-10-25T15:40:17.831961+00:00
- - user: None
- - tags: []
-
-## Home - La Civilta Cattolica English
- - [https://www.laciviltacattolica.com](https://www.laciviltacattolica.com)
- - date published: 2023-10-25T15:40:34.047342+00:00
- - user: None
- - tags: []
-
-## LADbible - Redefining Entertainment & News For a Social Generation
- - [https://www.ladbible.com](https://www.ladbible.com)
- - date published: 2023-10-25T15:40:37.138269+00:00
  - user: None
  - tags: []
 

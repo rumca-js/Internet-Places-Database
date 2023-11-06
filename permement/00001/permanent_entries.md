@@ -1,3 +1,21 @@
+## Home - AGI Sphere
+ - [https://agi-sphere.com](https://agi-sphere.com)
+ - date published: 2023-10-25T12:35:09.117453+00:00
+ - user: None
+ - tags: []
+
+## Agora Road's Macintosh Cafe
+ - [https://forum.agoraroad.com](https://forum.agoraroad.com)
+ - date published: 2023-10-24T20:12:27.718591+00:00
+ - user: None
+ - tags: []
+
+## A Graphics Guy's Note
+ - [https://agraphicsguynotes.com](https://agraphicsguynotes.com)
+ - date published: 2023-10-25T08:44:08.007635+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Successful Farming: Practical, Trusted Farming and Ranching Information
  - [https://www.agriculture.com](https://www.agriculture.com)
  - date published: 2023-10-25T12:35:14.231208+00:00
@@ -2674,6 +2692,12 @@
  - user: None
  - tags: []
 
+## bellingcat - the home of online investigations
+ - [https://www.bellingcat.com](https://www.bellingcat.com)
+ - date published: 2023-11-05T19:13:31.558970+00:00
+ - user: None
+ - tags: []
+
 ## Electric and Automatic Commercial Coffee Roaster | Bellwether Coffee
  - [https://bellwethercoffee.com](https://bellwethercoffee.com)
  - date published: 2023-10-25T12:56:52.055674+00:00
@@ -2953,6 +2977,12 @@
 ## Photons, Electrons, and Dirt | A blog by Glen Akins
  - [https://bikerglen.com](https://bikerglen.com)
  - date published: 2023-10-25T12:59:59.834463+00:00
+ - user: None
+ - tags: []
+
+## 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+ - [https://www.bilibili.com](https://www.bilibili.com)
+ - date published: 2023-11-05T01:07:16.969115+00:00
  - user: None
  - tags: []
 
@@ -5965,36 +5995,6 @@
 ## ClickOnDetroit | WDIV Local 4
  - [https://www.clickondetroit.com](https://www.clickondetroit.com)
  - date published: 2023-10-25T13:26:31.744637+00:00
- - user: None
- - tags: []
-
-## Cliffle
- - [https://cliffle.com](https://cliffle.com)
- - date published: 2023-10-25T13:26:33.249479+00:00
- - user: None
- - tags: []
-
-## Climate Drift | Marco & Skander | Substack
- - [https://www.climatedrift.com](https://www.climatedrift.com)
- - date published: 2023-10-25T09:40:02.589131+00:00
- - user: None
- - tags: ['substack']
-
-## Journey toward net zero with Climeworks' carbon removal service
- - [https://climeworks.com](https://climeworks.com)
- - date published: 2023-10-25T13:26:37.360343+00:00
- - user: None
- - tags: []
-
-## Clockwork Micro: Map tools that work like clockwork | Clockwork Micro
- - [https://www.clockworkmicro.com](https://www.clockworkmicro.com)
- - date published: 2023-10-25T13:26:38.479404+00:00
- - user: None
- - tags: []
-
-## ClockworkPi | Open Source Hardware
- - [https://www.clockworkpi.com](https://www.clockworkpi.com)
- - date published: 2023-10-25T08:35:32.122401+00:00
  - user: None
  - tags: []
 

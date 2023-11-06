@@ -1,3 +1,105 @@
+## Home | The New York Review of Books
+ - [https://www.nybooks.com](https://www.nybooks.com)
+ - date published: 2023-10-25T16:23:43.264499+00:00
+ - user: None
+ - tags: []
+
+## New York Daily News: New York News, Sports, Weather, Business & Things to Do
+ - [https://www.nydailynews.com](https://www.nydailynews.com)
+ - date published: 2023-10-25T11:06:03.850370+00:00
+ - user: None
+ - tags: []
+
+## New York Magazine
+ - [https://nymag.com](https://nymag.com)
+ - date published: 2023-10-25T10:37:51.311890+00:00
+ - user: None
+ - tags: []
+
+## New York Post – Breaking News, Top Headlines, Photos & Videos
+ - [https://nypost.com](https://nypost.com)
+ - date published: 2023-10-25T10:28:09.421567+00:00
+ - user: None
+ - tags: []
+
+## NYS Music - New York State's Music News Source
+ - [https://nysmusic.com](https://nysmusic.com)
+ - date published: 2023-10-25T10:17:28.556912+00:00
+ - user: None
+ - tags: []
+
+## The New York Times Web Archive
+ - [https://archive.nytimes.com](https://archive.nytimes.com)
+ - date published: 2023-10-25T16:23:44.901744+00:00
+ - user: None
+ - tags: []
+
+## RSS Feeds - The New York Times
+ - [https://rss.nytimes.com](https://rss.nytimes.com)
+ - date published: 2023-10-25T10:50:36.082162+00:00
+ - user: None
+ - tags: []
+
+## The New York Times - Breaking News, US News, World News and Videos
+ - [https://www.nytimes.com](https://www.nytimes.com)
+ - date published: 2023-10-25T10:28:14.756045+00:00
+ - user: None
+ - tags: []
+
+## Oaktree Capital Management
+ - [https://www.oaktreecapital.com](https://www.oaktreecapital.com)
+ - date published: 2023-10-25T16:23:47.230313+00:00
+ - user: None
+ - tags: []
+
+## Oblivious Investor — Low-Maintenance Investing with Index Funds and ETFs
+ - [https://obliviousinvestor.com](https://obliviousinvestor.com)
+ - date published: 2023-10-25T16:23:50.646888+00:00
+ - user: None
+ - tags: []
+
+## Oblivus | The next generation GPU Cloud
+ - [https://oblivus.com](https://oblivus.com)
+ - date published: 2023-10-25T16:23:53.272979+00:00
+ - user: None
+ - tags: []
+
+## The Obscuritory
+ - [https://obscuritory.com](https://obscuritory.com)
+ - date published: 2023-10-25T16:23:58.860161+00:00
+ - user: None
+ - tags: []
+
+## Data visualization platform | Observable
+ - [https://observablehq.com](https://observablehq.com)
+ - date published: 2023-10-25T16:24:07.429854+00:00
+ - user: None
+ - tags: []
+
+## News, data and insight about the powerful forces that shape the world. | Observer
+ - [https://observer.com](https://observer.com)
+ - date published: 2023-10-25T10:37:59.004949+00:00
+ - user: None
+ - tags: []
+
+## Oliver Byford
+ - [https://obyford.com](https://obyford.com)
+ - date published: 2023-10-25T16:24:08.350790+00:00
+ - user: None
+ - tags: []
+
+## https://www.occamm.com
+ - [https://www.occamm.com](https://www.occamm.com)
+ - date published: 2023-10-25T16:24:08.687098+00:00
+ - user: None
+ - tags: []
+
+## Orange County Register: Local News, Sports and Things to Do
+ - [https://www.ocregister.com](https://www.ocregister.com)
+ - date published: 2023-10-25T16:24:14.175658+00:00
+ - user: None
+ - tags: []
+
 ## Continuous delivery & deployment automation tool for DevOps teams | Octopus Deploy - Octopus Deploy
  - [https://octopus.com](https://octopus.com)
  - date published: 2023-10-25T16:24:25.189119+00:00
@@ -4102,6 +4204,12 @@
  - user: None
  - tags: []
 
+## Bow Valley News - Powered by Rocky Mountain Outlook
+ - [https://www.rmoutlook.com](https://www.rmoutlook.com)
+ - date published: 2023-11-05T16:12:44.302581+00:00
+ - user: None
+ - tags: []
+
 ## Road & Track: Auto News, Reviews, and Car Culture
  - [https://www.roadandtrack.com](https://www.roadandtrack.com)
  - date published: 2023-10-25T10:55:46.397695+00:00
@@ -5893,114 +6001,6 @@
 ## SIMON WECKERT
  - [https://simonweckert.com](https://simonweckert.com)
  - date published: 2023-10-25T17:04:37.109036+00:00
- - user: None
- - tags: []
-
-## The privacy-first Google Analytics alternative - Simple Analytics
- - [https://www.simpleanalytics.com](https://www.simpleanalytics.com)
- - date published: 2023-10-25T17:04:39.478313+00:00
- - user: None
- - tags: []
-
-## Simple Mobile Tools
- - [https://www.simplemobiletools.com](https://www.simplemobiletools.com)
- - date published: 2023-10-25T17:04:40.615776+00:00
- - user: None
- - tags: []
-
-## Deep links to opt-out of data sharing by 100+ companies – Simple Opt Out
- - [https://simpleoptout.com](https://simpleoptout.com)
- - date published: 2023-10-25T17:04:45.497629+00:00
- - user: None
- - tags: []
-
-## Simple Syllabus
- - [https://harvard.simplesyllabus.com](https://harvard.simplesyllabus.com)
- - date published: 2023-10-25T17:04:47.126115+00:00
- - user: None
- - tags: []
-
-## Digital Product Agency - User Experience Design and Engineering - Richmond VA
- - [https://www.simplethread.com](https://www.simplethread.com)
- - date published: 2023-10-25T17:04:50.170129+00:00
- - user: None
- - tags: []
-
-## Simplified Privacy – Privacy Made Easy
- - [https://simplifiedprivacy.com](https://simplifiedprivacy.com)
- - date published: 2023-10-25T17:04:52.957351+00:00
- - user: None
- - tags: []
-
-## Home | Simplify3D Software
- - [https://www.simplify3d.com](https://www.simplify3d.com)
- - date published: 2023-10-27T10:23:04.726869+00:00
- - user: None
- - tags: ['3d printing']
-
-## The Simpsons Archive
- - [https://www.simpsonsarchive.com](https://www.simpsonsarchive.com)
- - date published: 2023-10-25T17:04:54.288233+00:00
- - user: None
- - tags: ['simpsons', 'show']
-
-## SimulaVR
- - [https://simulavr.com](https://simulavr.com)
- - date published: 2023-10-25T17:04:56.644575+00:00
- - user: None
- - tags: []
-
-## The Simutrans Blog
- - [https://blog.simutrans.com](https://blog.simutrans.com)
- - date published: 2023-10-25T17:05:01.425973+00:00
- - user: None
- - tags: []
-
-## Sindre Sorhus
- - [https://sindresorhus.com](https://sindresorhus.com)
- - date published: 2023-10-25T17:05:01.970721+00:00
- - user: None
- - tags: []
-
-## Home - Singularity Hub
- - [https://singularityhub.com](https://singularityhub.com)
- - date published: 2023-10-25T17:05:04.668985+00:00
- - user: None
- - tags: []
-
-## sipeed 矽速科技 官网
- - [https://sipeed.com](https://sipeed.com)
- - date published: 2023-10-25T17:05:07.136550+00:00
- - user: None
- - tags: []
-
-## Simon Eskildsen - Sirupsen
- - [https://sirupsen.com](https://sirupsen.com)
- - date published: 2023-10-25T17:05:08.760756+00:00
- - user: None
- - tags: []
-
-## SitePoint – Learn HTML, CSS, JavaScript, PHP, UX & Responsive Design
- - [https://www.sitepoint.com](https://www.sitepoint.com)
- - date published: 2023-10-25T17:05:11.503452+00:00
- - user: None
- - tags: []
-
-## Six Colors – Apple, technology, and other stuff by Jason Snell & Dan Moren
- - [https://sixcolors.com](https://sixcolors.com)
- - date published: 2023-10-25T17:05:14.070957+00:00
- - user: None
- - tags: []
-
-## Python web application development and cloud management services
- - [https://sixfeetup.com](https://sixfeetup.com)
- - date published: 2023-10-25T17:05:25.383126+00:00
- - user: None
- - tags: []
-
-## The State Journal-Register: Local News, Politics & Sports in Springfield, IL
- - [https://www.sj-r.com](https://www.sj-r.com)
- - date published: 2023-10-27T11:55:41.059970+00:00
  - user: None
  - tags: []
 

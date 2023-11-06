@@ -1,3 +1,275 @@
+## Frink
+ - [https://frinklang.org](https://frinklang.org)
+ - date published: 2023-11-03T15:33:16.841160+00:00
+ - user: None
+ - tags: []
+
+## FROG PEAK MUSIC (a composers\' collective)
+ - [http://www.frogpeak.org](http://www.frogpeak.org)
+ - date published: 2023-10-25T21:23:03.243812+00:00
+ - user: None
+ - tags: []
+
+## Home - Science & research news | Frontiers
+ - [https://blog.frontiersin.org](https://blog.frontiersin.org)
+ - date published: 2023-10-25T21:23:07.967640+00:00
+ - user: None
+ - tags: []
+
+## Frontiers for Young Minds: Science for kids, edited by kids
+ - [https://kids.frontiersin.org](https://kids.frontiersin.org)
+ - date published: 2023-10-25T21:23:11.244829+00:00
+ - user: None
+ - tags: []
+
+## Frontiers | Publisher of peer-reviewed articles in open access journals
+ - [https://www.frontiersin.org](https://www.frontiersin.org)
+ - date published: 2023-10-25T21:23:13.104896+00:00
+ - user: None
+ - tags: []
+
+## Front Page — Free Software Foundation — working together for free software
+ - [https://www.fsf.org](https://www.fsf.org)
+ - date published: 2023-10-25T11:34:35.490281+00:00
+ - user: None
+ - tags: []
+
+## FSFE - Free Software Foundation Europe
+ - [https://fsfe.org](https://fsfe.org)
+ - date published: 2023-10-25T21:23:19.235558+00:00
+ - user: None
+ - tags: []
+
+## Full Fact
+ - [https://fullfact.org](https://fullfact.org)
+ - date published: 2023-10-25T21:23:20.334750+00:00
+ - user: None
+ - tags: []
+
+## Pliant web site
+ - [https://www.fullpliant.org](https://www.fullpliant.org)
+ - date published: 2023-10-25T21:23:24.194863+00:00
+ - user: None
+ - tags: []
+
+## Funtoo
+ - [https://www.funtoo.org](https://www.funtoo.org)
+ - date published: 2023-10-25T21:23:26.324616+00:00
+ - user: None
+ - tags: []
+
+## furbo.org by Craig Hockenberry
+ - [https://furbo.org](https://furbo.org)
+ - date published: 2023-10-25T08:54:39.367362+00:00
+ - user: None
+ - tags: ['personal']
+
+## FUSE-T
+ - [https://www.fuse-t.org](https://www.fuse-t.org)
+ - date published: 2023-10-25T21:23:27.287219+00:00
+ - user: None
+ - tags: []
+
+## Why Futhark?
+ - [https://futhark-lang.org](https://futhark-lang.org)
+ - date published: 2023-10-25T21:23:28.010255+00:00
+ - user: None
+ - tags: []
+
+## FUTO - Bringing control of computing back to the people
+ - [https://futo.org](https://futo.org)
+ - date published: 2023-10-25T11:34:21.566306+00:00
+ - user: None
+ - tags: []
+
+## Sign in · GitLab
+ - [https://gitlab.futo.org](https://gitlab.futo.org)
+ - date published: 2023-10-25T21:23:29.252807+00:00
+ - user: None
+ - tags: []
+
+## Home - Future of Life Institute
+ - [https://futureoflife.org](https://futureoflife.org)
+ - date published: 2023-10-25T21:23:32.572356+00:00
+ - user: None
+ - tags: []
+
+## Pause Giant Superconductor Experiments
+ - [https://futureofliff.org](https://futureofliff.org)
+ - date published: 2023-10-25T21:23:37.964754+00:00
+ - user: None
+ - tags: []
+
+## Futurity: Research News from Top Universities
+ - [https://www.futurity.org](https://www.futurity.org)
+ - date published: 2023-10-25T21:23:40.912905+00:00
+ - user: None
+ - tags: []
+
+## LVFS: Home
+ - [https://fwupd.org](https://fwupd.org)
+ - date published: 2023-10-25T21:23:45.839751+00:00
+ - user: None
+ - tags: []
+
+## Gabarro | gabarro.github.io
+ - [http://gabarro.org](http://gabarro.org)
+ - date published: 2023-10-25T21:23:46.498612+00:00
+ - user: None
+ - tags: []
+
+## Gadgetbridge for android
+ - [https://gadgetbridge.org](https://gadgetbridge.org)
+ - date published: 2023-10-25T21:23:47.950756+00:00
+ - user: None
+ - tags: []
+
+## Galactica Demo
+ - [https://galactica.org](https://galactica.org)
+ - date published: 2023-10-25T21:23:49.587771+00:00
+ - user: None
+ - tags: []
+
+## Galène videoconference server
+ - [https://galene.org](https://galene.org)
+ - date published: 2023-10-27T12:06:39.811505+00:00
+ - user: None
+ - tags: []
+
+## Home | Video Game History Foundation
+ - [https://gamehistory.org](https://gamehistory.org)
+ - date published: 2023-10-25T21:24:05.080231+00:00
+ - user: None
+ - tags: []
+
+## WWW.GAMERS.ORG
+ - [https://www.gamers.org](https://www.gamers.org)
+ - date published: 2023-10-25T21:24:07.317158+00:00
+ - user: None
+ - tags: []
+
+## This page has moved!
+ - [https://personal.garrettfuller.org](https://personal.garrettfuller.org)
+ - date published: 2023-10-25T21:24:13.310361+00:00
+ - user: None
+ - tags: []
+
+## Bill & Melinda Gates Foundation
+ - [https://www.gatesfoundation.org](https://www.gatesfoundation.org)
+ - date published: 2023-11-03T13:52:16.890501+00:00
+ - user: None
+ - tags: ['foundation']
+
+## Gavi, the Vaccine Alliance
+ - [https://www.gavi.org](https://www.gavi.org)
+ - date published: 2023-10-25T21:24:19.083058+00:00
+ - user: None
+ - tags: []
+
+## Home
+ | Geany
+ - [https://geany.org](https://geany.org)
+ - date published: 2023-11-01T08:44:20.592858+00:00
+ - user: None
+ - tags: []
+
+## Home
+ | Geany
+ - [https://www.geany.org](https://www.geany.org)
+ - date published: 2023-10-27T13:13:54.781191+00:00
+ - user: None
+ - tags: []
+
+## Genetic Literacy Project | Science Not Ideology
+ - [https://geneticliteracyproject.org](https://geneticliteracyproject.org)
+ - date published: 2023-10-25T21:24:26.578613+00:00
+ - user: None
+ - tags: []
+
+## Genode - Genode Operating System Framework
+ - [https://genode.org](https://genode.org)
+ - date published: 2023-10-29T22:06:15.188212+00:00
+ - user: None
+ - tags: []
+
+## Genodians.org - Stories around the Genode Operating System
+ - [https://genodians.org](https://genodians.org)
+ - date published: 2023-10-25T21:24:29.740509+00:00
+ - user: None
+ - tags: []
+
+## Gentoo Wiki
+ - [https://wiki.gentoo.org](https://wiki.gentoo.org)
+ - date published: 2023-10-25T21:24:31.672851+00:00
+ - user: None
+ - tags: []
+
+## Welcome – Gentoo Linux
+ - [https://www.gentoo.org](https://www.gentoo.org)
+ - date published: 2023-10-25T08:32:16.955736+00:00
+ - user: None
+ - tags: ['operating system']
+
+## Professor Peck
+ - [https://peck.geoengineer.org](https://peck.geoengineer.org)
+ - date published: 2023-10-25T21:24:33.960963+00:00
+ - user: None
+ - tags: []
+
+## George Orwell - Complete works, Biography, Quotes, Essays
+ - [https://www.george-orwell.org](https://www.george-orwell.org)
+ - date published: 2023-10-25T21:24:35.469965+00:00
+ - user: None
+ - tags: []
+
+## Hello! I’m George (a.k.a. eigenfoo) | George Ho
+ - [https://www.georgeho.org](https://www.georgeho.org)
+ - date published: 2023-10-25T21:24:36.198262+00:00
+ - user: None
+ - tags: []
+
+## GeoScienceWorld
+ - [https://pubs.geoscienceworld.org](https://pubs.geoscienceworld.org)
+ - date published: 2023-10-25T21:24:38.489509+00:00
+ - user: None
+ - tags: []
+
+## GeoServer
+ - [https://geoserver.org](https://geoserver.org)
+ - date published: 2023-10-25T21:24:39.577688+00:00
+ - user: None
+ - tags: []
+
+## Grav - A Modern Flat-File CMS | Grav CMS
+ - [https://getgrav.org](https://getgrav.org)
+ - date published: 2023-10-25T21:24:41.224513+00:00
+ - user: None
+ - tags: []
+
+## Home - gettalong's web home
+ - [https://gettalong.org](https://gettalong.org)
+ - date published: 2023-10-25T21:24:42.045117+00:00
+ - user: None
+ - tags: []
+
+## Ghidra
+ - [https://ghidra-sre.org](https://ghidra-sre.org)
+ - date published: 2023-10-25T21:24:42.859130+00:00
+ - user: None
+ - tags: []
+
+## GHSA | Governors Highway Safety Association
+ - [https://www.ghsa.org](https://www.ghsa.org)
+ - date published: 2023-10-25T21:24:45.901586+00:00
+ - user: None
+ - tags: []
+
+## Marek Gibney
+ - [https://www.gibney.org](https://www.gibney.org)
+ - date published: 2023-10-25T21:24:48.576733+00:00
+ - user: None
+ - tags: []
+
 ## Global Investigative Journalism Network
  - [https://gijn.org](https://gijn.org)
  - date published: 2023-10-25T21:24:56.514394+00:00
@@ -1197,6 +1469,12 @@ Welcome
 ## KDE Mailing Lists - KDE Community
  - [https://mail.kde.org](https://mail.kde.org)
  - date published: 2023-10-25T21:36:08.509574+00:00
+ - user: None
+ - tags: []
+
+## Browse  Latest | https://store.kde.org/browse/
+ - [https://store.kde.org](https://store.kde.org)
+ - date published: 2023-11-05T10:28:13.360219+00:00
  - user: None
  - tags: []
 
@@ -5724,282 +6002,6 @@ Common Weakness Enumeration
 ## The Markup
  - [https://themarkup.org](https://themarkup.org)
  - date published: 2023-10-25T22:14:11.526822+00:00
- - user: None
- - tags: []
-
-## The Marshall Project
- - [https://www.themarshallproject.org](https://www.themarshallproject.org)
- - date published: 2023-10-25T22:14:13.882732+00:00
- - user: None
- - tags: []
-
-## The New Humanitarian • humanitarian news and analysis from Africa, Asia and the Middle East - updated daily
- - [https://www.thenewhumanitarian.org](https://www.thenewhumanitarian.org)
- - date published: 2023-10-25T22:14:18.022538+00:00
- - user: None
- - tags: []
-
-## The New Lede
- - [https://www.thenewlede.org](https://www.thenewlede.org)
- - date published: 2023-10-25T22:14:19.999816+00:00
- - user: None
- - tags: []
-
-## Theorem of the Day
- - [https://www.theoremoftheday.org](https://www.theoremoftheday.org)
- - date published: 2023-10-25T22:14:22.000968+00:00
- - user: None
- - tags: []
-
-## The Palindrome | Tivadar Danka | Substack
- - [https://thepalindrome.org](https://thepalindrome.org)
- - date published: 2023-10-25T10:08:41.434839+00:00
- - user: None
- - tags: ['substack']
-
-## Paris Review - Writers, Quotes, Biography, Interviews, Artists
- - [https://www.theparisreview.org](https://www.theparisreview.org)
- - date published: 2023-10-25T11:00:56.051363+00:00
- - user: None
- - tags: []
-
-## Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site
- - [https://thepiratebay.org](https://thepiratebay.org)
- - date published: 2023-10-25T11:30:24.153144+00:00
- - user: None
- - tags: ['piracy', 'dark web']
-
-## Home — The Revealer
- - [https://therevealer.org](https://therevealer.org)
- - date published: 2023-10-25T22:14:31.471099+00:00
- - user: None
- - tags: []
-
-## The Sifter - A Food History Research Tool
- - [https://thesifter.org](https://thesifter.org)
- - date published: 2023-10-25T22:14:32.844291+00:00
- - user: None
- - tags: []
-
-## The Sun Magazine
- - [https://www.thesunmagazine.org](https://www.thesunmagazine.org)
- - date published: 2023-10-25T22:14:36.249512+00:00
- - user: None
- - tags: []
-
-## The Things Network
- - [https://www.thethingsnetwork.org](https://www.thethingsnetwork.org)
- - date published: 2023-10-25T22:14:38.088881+00:00
- - user: None
- - tags: []
-
-## Home - The Urbanist
- - [https://www.theurbanist.org](https://www.theurbanist.org)
- - date published: 2023-10-25T22:14:42.141298+00:00
- - user: None
- - tags: []
-
-## This Week in Rust
- - [https://this-week-in-rust.org](https://this-week-in-rust.org)
- - date published: 2023-10-25T22:14:42.923387+00:00
- - user: None
- - tags: []
-
-## Thonny, Python IDE for beginners
- - [https://thonny.org](https://thonny.org)
- - date published: 2023-10-25T22:14:43.992295+00:00
- - user: None
- - tags: []
-
-## Thraxil.org
- - [https://thraxil.org](https://thraxil.org)
- - date published: 2023-10-25T22:14:45.881243+00:00
- - user: None
- - tags: []
-
-## The Thoreau Institute
- - [https://ti.org](https://ti.org)
- - date published: 2023-10-25T22:14:46.754363+00:00
- - user: None
- - tags: []
-
-## Timac
- - [https://blog.timac.org](https://blog.timac.org)
- - date published: 2023-10-25T22:14:47.546975+00:00
- - user: None
- - tags: []
-
-## My Point of View
- - [https://mpov.timmorgan.org](https://mpov.timmorgan.org)
- - date published: 2023-10-25T22:14:48.078083+00:00
- - user: None
- - tags: []
-
-## Timothy Rice
- - [https://www.timothyrice.org](https://www.timothyrice.org)
- - date published: 2023-10-25T22:14:49.049934+00:00
- - user: None
- - tags: []
-
-## tinc
- - [https://www.tinc-vpn.org](https://www.tinc-vpn.org)
- - date published: 2023-10-25T22:14:49.848736+00:00
- - user: None
- - tags: []
-
-## tinyapps.org
- - [https://tinyapps.org](https://tinyapps.org)
- - date published: 2023-10-25T22:14:50.630713+00:00
- - user: None
- - tags: []
-
-## TinyBase
- - [https://tinybase.org](https://tinybase.org)
- - date published: 2023-10-25T22:14:53.370881+00:00
- - user: None
- - tags: []
-
-## Ryan Dahl
- - [https://tinyclouds.org](https://tinyclouds.org)
- - date published: 2023-10-25T09:24:20.208297+00:00
- - user: None
- - tags: ['personal']
-
-## tinygrad: A simple and powerful neural network framework
- - [https://tinygrad.org](https://tinygrad.org)
- - date published: 2023-10-25T22:14:54.100856+00:00
- - user: None
- - tags: []
-
-## http://tirania.org
- - [http://tirania.org](http://tirania.org)
- - date published: 2023-10-25T09:26:49.638533+00:00
- - user: None
- - tags: ['personal']
-
-## http://exple.tive.org
- - [http://exple.tive.org](http://exple.tive.org)
- - date published: 2023-10-25T22:14:57.426617+00:00
- - user: None
- - tags: []
-
-## The Linux Documentation Project
- - [https://tldp.org](https://tldp.org)
- - date published: 2023-10-25T22:14:58.578899+00:00
- - user: None
- - tags: []
-
-## The National Museum of Computing
- - [https://www.tnmoc.org](https://www.tnmoc.org)
- - date published: 2023-10-27T10:22:09.468148+00:00
- - user: None
- - tags: ['museum']
-
-## Home - Texas National Security Review
- - [https://tnsr.org](https://tnsr.org)
- - date published: 2023-10-25T22:15:00.554967+00:00
- - user: None
- - tags: []
-
-## Tom Murphy 7's Invincible Web Page
- - [http://tom7.org](http://tom7.org)
- - date published: 2023-10-25T22:15:02.094981+00:00
- - user: None
- - tags: []
-
-## FontCDN: Search and Proxy for Google web fonts
- - [https://fontcdn.toolforge.org](https://fontcdn.toolforge.org)
- - date published: 2023-10-25T22:15:02.996428+00:00
- - user: None
- - tags: []
-
-## Tor Blog | The Tor Project
- - [https://blog.torproject.org](https://blog.torproject.org)
- - date published: 2023-10-25T22:15:09.398883+00:00
- - user: None
- - tags: []
-
-## Tor Project Forum - Defend yourself against tracking and surveillance. Circumvent censorship.
- - [https://forum.torproject.org](https://forum.torproject.org)
- - date published: 2023-10-25T22:15:12.526435+00:00
- - user: None
- - tags: []
-
-## Welcome to Tor Metrics
- - [https://metrics.torproject.org](https://metrics.torproject.org)
- - date published: 2023-10-25T22:15:13.678313+00:00
- - user: None
- - tags: []
-
-## The Tor Project | Privacy & Freedom Online
- - [https://www.torproject.org](https://www.torproject.org)
- - date published: 2023-10-30T14:40:32.920820+00:00
- - user: None
- - tags: ['privacy', 'dark web', 'tor']
-
-## TortoiseGit – Windows Shell Interface to Git
- - [https://tortoisegit.org](https://tortoisegit.org)
- - date published: 2023-10-31T12:01:44.737036+00:00
- - user: None
- - tags: ['open source', 'program']
-
-## Frontpage -- Terms of Service; Didn't Read
- - [https://tosdr.org](https://tosdr.org)
- - date published: 2023-10-25T22:15:19.624851+00:00
- - user: None
- - tags: []
-
-## touchHLE
- - [https://touchhle.org](https://touchhle.org)
- - date published: 2023-10-25T22:15:20.558373+00:00
- - user: None
- - tags: []
-
-## Texas Public Radio | TPR
- - [https://www.tpr.org](https://www.tpr.org)
- - date published: 2023-10-25T22:15:25.876244+00:00
- - user: None
- - tags: []
-
-## Trinity Desktop Environment
- - [https://www.trinitydesktop.org](https://www.trinitydesktop.org)
- - date published: 2023-10-25T22:15:27.131626+00:00
- - user: None
- - tags: []
-
-## TripleA: An Open Source Turn Based Grand Strategy Game
- - [https://triplea-game.org](https://triplea-game.org)
- - date published: 2023-10-25T22:15:28.144410+00:00
- - user: None
- - tags: []
-
-## Home - Trisul Network Analytics
- - [https://www.trisul.org](https://www.trisul.org)
- - date published: 2023-10-25T11:29:06.015532+00:00
- - user: None
- - tags: []
-
-## Home Page
- - [https://www.trsearch.org](https://www.trsearch.org)
- - date published: 2023-10-27T12:07:10.556271+00:00
- - user: None
- - tags: []
-
-## News Home | Thomson Reuters Foundation News
- - [https://news.trust.org](https://news.trust.org)
- - date published: 2023-10-25T22:15:38.811272+00:00
- - user: None
- - tags: []
-
-## Truthout | Fearless Independent Journalism
- - [https://truthout.org](https://truthout.org)
- - date published: 2023-10-25T22:15:42.168983+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [http://tsoding.org](http://tsoding.org)
- - date published: 2023-10-25T22:15:43.791618+00:00
  - user: None
  - tags: []
 

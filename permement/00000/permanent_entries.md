@@ -106,6 +106,12 @@
  - user: None
  - tags: []
 
+## Website is hosted on ESP32 ($3 chip)
+ - [https://esp.khalsalabs.com](https://esp.khalsalabs.com)
+ - date published: 2023-11-05T18:31:24+00:00
+ - user: None
+ - tags: []
+
 ## Sort: Supercharged collaboration for your database
  - [https://sort.xyz.](https://sort.xyz.)
  - date published: 2023-11-01T23:07:07.991006+00:00
@@ -3179,6 +3185,12 @@
  - user: None
  - tags: []
 
+## Breaking News | Top Local Stories | CityNews Montreal
+ - [https://montreal.citynews.ca](https://montreal.citynews.ca)
+ - date published: 2023-11-05T06:28:16.282544+00:00
+ - user: None
+ - tags: []
+
 ## CMAJ
  - [https://www.cmaj.ca](https://www.cmaj.ca)
  - date published: 2023-10-25T10:45:45.207661+00:00
@@ -3470,6 +3482,12 @@
 ## Simon Fraser University
  - [https://www.sfu.ca](https://www.sfu.ca)
  - date published: 2023-10-25T11:20:42.106068+00:00
+ - user: None
+ - tags: []
+
+## Computing Science
+ - [https://www2.cs.sfu.ca](https://www2.cs.sfu.ca)
+ - date published: 2023-11-05T04:50:03.089549+00:00
  - user: None
  - tags: []
 
@@ -5975,22 +5993,4 @@
  - date published: 2023-10-27T12:08:05.552673+00:00
  - user: None
  - tags: ['tabletop games', 'warhammer']
-
-## AFN (Europe) - FoodTech, AgTech, Startups, Venture Capital
- - [https://agfundernews.com](https://agfundernews.com)
- - date published: 2023-10-25T12:35:05.170467+00:00
- - user: None
- - tags: []
-
-## Home - AGI Sphere
- - [https://agi-sphere.com](https://agi-sphere.com)
- - date published: 2023-10-25T12:35:09.117453+00:00
- - user: None
- - tags: []
-
-## Agora Road's Macintosh Cafe
- - [https://forum.agoraroad.com](https://forum.agoraroad.com)
- - date published: 2023-10-24T20:12:27.718591+00:00
- - user: None
- - tags: []
 

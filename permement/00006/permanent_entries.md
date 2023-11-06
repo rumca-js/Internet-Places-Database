@@ -1,3 +1,111 @@
+## Simple Mobile Tools
+ - [https://www.simplemobiletools.com](https://www.simplemobiletools.com)
+ - date published: 2023-10-25T17:04:40.615776+00:00
+ - user: None
+ - tags: []
+
+## Deep links to opt-out of data sharing by 100+ companies – Simple Opt Out
+ - [https://simpleoptout.com](https://simpleoptout.com)
+ - date published: 2023-10-25T17:04:45.497629+00:00
+ - user: None
+ - tags: []
+
+## Simple Syllabus
+ - [https://harvard.simplesyllabus.com](https://harvard.simplesyllabus.com)
+ - date published: 2023-10-25T17:04:47.126115+00:00
+ - user: None
+ - tags: []
+
+## Digital Product Agency - User Experience Design and Engineering - Richmond VA
+ - [https://www.simplethread.com](https://www.simplethread.com)
+ - date published: 2023-10-25T17:04:50.170129+00:00
+ - user: None
+ - tags: []
+
+## Simplified Privacy – Privacy Made Easy
+ - [https://simplifiedprivacy.com](https://simplifiedprivacy.com)
+ - date published: 2023-10-25T17:04:52.957351+00:00
+ - user: None
+ - tags: []
+
+## Home | Simplify3D Software
+ - [https://www.simplify3d.com](https://www.simplify3d.com)
+ - date published: 2023-10-27T10:23:04.726869+00:00
+ - user: None
+ - tags: ['3d printing']
+
+## The Simpsons Archive
+ - [https://www.simpsonsarchive.com](https://www.simpsonsarchive.com)
+ - date published: 2023-10-25T17:04:54.288233+00:00
+ - user: None
+ - tags: ['simpsons', 'show']
+
+## SimulaVR
+ - [https://simulavr.com](https://simulavr.com)
+ - date published: 2023-10-25T17:04:56.644575+00:00
+ - user: None
+ - tags: []
+
+## The Simutrans Blog
+ - [https://blog.simutrans.com](https://blog.simutrans.com)
+ - date published: 2023-10-25T17:05:01.425973+00:00
+ - user: None
+ - tags: []
+
+## Sindre Sorhus
+ - [https://sindresorhus.com](https://sindresorhus.com)
+ - date published: 2023-10-25T17:05:01.970721+00:00
+ - user: None
+ - tags: []
+
+## Home - Singularity Hub
+ - [https://singularityhub.com](https://singularityhub.com)
+ - date published: 2023-10-25T17:05:04.668985+00:00
+ - user: None
+ - tags: []
+
+## sipeed 矽速科技 官网
+ - [https://sipeed.com](https://sipeed.com)
+ - date published: 2023-10-25T17:05:07.136550+00:00
+ - user: None
+ - tags: []
+
+## Simon Eskildsen - Sirupsen
+ - [https://sirupsen.com](https://sirupsen.com)
+ - date published: 2023-10-25T17:05:08.760756+00:00
+ - user: None
+ - tags: []
+
+## SitePoint – Learn HTML, CSS, JavaScript, PHP, UX & Responsive Design
+ - [https://www.sitepoint.com](https://www.sitepoint.com)
+ - date published: 2023-10-25T17:05:11.503452+00:00
+ - user: None
+ - tags: []
+
+## Six Colors – Apple, technology, and other stuff by Jason Snell & Dan Moren
+ - [https://sixcolors.com](https://sixcolors.com)
+ - date published: 2023-10-25T17:05:14.070957+00:00
+ - user: None
+ - tags: []
+
+## Python web application development and cloud management services
+ - [https://sixfeetup.com](https://sixfeetup.com)
+ - date published: 2023-10-25T17:05:25.383126+00:00
+ - user: None
+ - tags: []
+
+## The State Journal-Register: Local News, Politics & Sports in Springfield, IL
+ - [https://www.sj-r.com](https://www.sj-r.com)
+ - date published: 2023-10-27T11:55:41.059970+00:00
+ - user: None
+ - tags: []
+
+## skagmo.com
+ - [https://skagmo.com](https://skagmo.com)
+ - date published: 2023-10-27T11:55:42.413804+00:00
+ - user: None
+ - tags: []
+
 ## Sketchfab - The best 3D viewer on the web
  - [https://sketchfab.com](https://sketchfab.com)
  - date published: 2023-10-27T10:26:31.358910+00:00
@@ -500,6 +608,12 @@
 ## Spaceflight101 – Space News and Beyond
  - [https://spaceflight101.com](https://spaceflight101.com)
  - date published: 2023-10-25T17:09:05.078240+00:00
+ - user: None
+ - tags: []
+
+## Spaceflight Now – The leading source for online space news
+ - [https://spaceflightnow.com](https://spaceflightnow.com)
+ - date published: 2023-11-05T04:49:57.688623+00:00
  - user: None
  - tags: []
 
@@ -1115,6 +1229,12 @@
  - user: None
  - tags: []
 
+## StackStorm – IFTTT for Ops
+ - [https://stackstorm.com](https://stackstorm.com)
+ - date published: 2023-11-05T09:32:01+00:00
+ - user: None
+ - tags: []
+
 ## Krizmi
  - [https://www.stadai.com](https://www.stadai.com)
  - date published: 2023-10-25T17:14:49.261880+00:00
@@ -1286,6 +1406,12 @@
 ## https://www.steadipulse.com
  - [https://www.steadipulse.com](https://www.steadipulse.com)
  - date published: 2023-10-25T17:16:04.897773+00:00
+ - user: None
+ - tags: []
+
+## Steam Community
+ - [https://steamcommunity.com](https://steamcommunity.com)
+ - date published: 2023-11-05T19:13:40.009701+00:00
  - user: None
  - tags: []
 
@@ -1478,6 +1604,12 @@
 ## Stewart Calculus Textbooks and Online Course Materials
  - [https://www.stewartcalculus.com](https://www.stewartcalculus.com)
  - date published: 2023-10-25T17:17:21.875785+00:00
+ - user: None
+ - tags: []
+
+## St George News – Southern Utah's Premier Free Local News
+ - [https://www.stgeorgeutah.com](https://www.stgeorgeutah.com)
+ - date published: 2023-11-05T13:08:52.220398+00:00
  - user: None
  - tags: []
 
@@ -4277,6 +4409,12 @@
  - user: None
  - tags: []
 
+## Sustainability by numbers | Hannah Ritchie | Substack
+ - [https://www.sustainabilitybynumbers.com](https://www.sustainabilitybynumbers.com)
+ - date published: 2023-11-05T15:52:28.331482+00:00
+ - user: None
+ - tags: []
+
 ## https://www.sustainableplastics.com
  - [https://www.sustainableplastics.com](https://www.sustainableplastics.com)
  - date published: 2023-10-25T17:19:58.477450+00:00
@@ -4997,6 +5135,12 @@
  - user: None
  - tags: []
 
+## Teflon™ Home | Teflon™ Fluoropolymers
+ - [https://www.teflon.com](https://www.teflon.com)
+ - date published: 2023-11-05T16:32:38.956419+00:00
+ - user: None
+ - tags: []
+
 ## TelecomTV | Where Telecoms Connects – 5G, Open Source, SDN, NFV
  - [https://www.telecomtv.com](https://www.telecomtv.com)
  - date published: 2023-10-25T17:26:27.343477+00:00
@@ -5096,6 +5240,12 @@
 ## Electric Cars, Solar & Clean Energy | Tesla
  - [https://www.tesla.com](https://www.tesla.com)
  - date published: 2023-10-25T17:27:12.705475+00:00
+ - user: None
+ - tags: []
+
+## Tesla Motors Club
+ - [https://teslamotorsclub.com](https://teslamotorsclub.com)
+ - date published: 2023-11-05T01:07:09.607810+00:00
  - user: None
  - tags: []
 
@@ -5841,156 +5991,6 @@
 ## thejorgemedina | Jorge Medina | Substack
  - [https://newsletter.thejorgemedina.com](https://newsletter.thejorgemedina.com)
  - date published: 2023-10-27T11:55:47.114642+00:00
- - user: None
- - tags: []
-
-## The Justice Gap – A magazine about law & justice – and the difference between the two
- - [https://www.thejusticegap.com](https://www.thejusticegap.com)
- - date published: 2023-10-25T17:35:41.354720+00:00
- - user: None
- - tags: []
-
-## The Lamp Magazine | Home Page
- - [https://thelampmagazine.com](https://thelampmagazine.com)
- - date published: 2023-10-25T17:35:45.158460+00:00
- - user: None
- - tags: []
-
-## https://www.thelancet.com
- - [https://www.thelancet.com](https://www.thelancet.com)
- - date published: 2023-10-25T10:11:22.609313+00:00
- - user: None
- - tags: []
-
-## theLAnd
- - [https://thelandmag.com](https://thelandmag.com)
- - date published: 2023-10-25T17:35:49.568464+00:00
- - user: None
- - tags: []
-
-## The LawDog Files
- - [https://thelawdogfiles.com](https://thelawdogfiles.com)
- - date published: 2023-10-25T17:35:54.122209+00:00
- - user: None
- - tags: []
-
-## The Life of Kenneth
- - [https://blog.thelifeofkenneth.com](https://blog.thelifeofkenneth.com)
- - date published: 2023-10-25T17:35:58.459927+00:00
- - user: None
- - tags: []
-
-## The Little Typer
- - [https://thelittletyper.com](https://thelittletyper.com)
- - date published: 2023-10-25T17:35:59.133098+00:00
- - user: None
- - tags: []
-
-## The Loadstar - Making sense of the supply chain
- - [https://theloadstar.com](https://theloadstar.com)
- - date published: 2023-10-25T17:36:04.646846+00:00
- - user: None
- - tags: []
-
-## The Local - Europe's news in English
- - [https://www.thelocal.com](https://www.thelocal.com)
- - date published: 2023-10-31T12:38:37.277060+00:00
- - user: None
- - tags: ['news']
-
-## Home - The Maine Wire
- - [https://www.themainewire.com](https://www.themainewire.com)
- - date published: 2023-10-25T17:36:10.533115+00:00
- - user: None
- - tags: []
-
-## The Manual - The Essential Guide for Men
- - [https://www.themanual.com](https://www.themanual.com)
- - date published: 2023-10-25T17:36:14.473294+00:00
- - user: None
- - tags: []
-
-## The Marijuana Herald - Marijuana news and information.
- - [https://themarijuanaherald.com](https://themarijuanaherald.com)
- - date published: 2023-10-25T17:36:16.609074+00:00
- - user: None
- - tags: []
-
-## The Measure of a Plan
- - [https://themeasureofaplan.com](https://themeasureofaplan.com)
- - date published: 2023-10-25T17:36:25.790887+00:00
- - user: None
- - tags: []
-
-## MeatEater | Your link to the food chain
- - [https://www.themeateater.com](https://www.themeateater.com)
- - date published: 2023-10-25T17:36:29.402967+00:00
- - user: None
- - tags: []
-
-## Your Source for Trusted and Unbiased News - The Messenger
- - [https://themessenger.com](https://themessenger.com)
- - date published: 2023-10-25T10:39:22.548539+00:00
- - user: None
- - tags: []
-
-## The Millennium Report
- - [https://themillenniumreport.com](https://themillenniumreport.com)
- - date published: 2023-10-25T17:36:36.632220+00:00
- - user: None
- - tags: []
-
-## The Millions - Books, Arts, and Culture
- - [https://themillions.com](https://themillions.com)
- - date published: 2023-10-25T17:36:38.668264+00:00
- - user: None
- - tags: []
-
-## Themindcircle
- - [https://themindcircle.com](https://themindcircle.com)
- - date published: 2023-10-25T17:36:40.779932+00:00
- - user: None
- - tags: []
-
-## Dunfield Development Services
- - [https://dunfield.themindfactory.com](https://dunfield.themindfactory.com)
- - date published: 2023-11-03T19:34:30.475581+00:00
- - user: None
- - tags: []
-
-## [TMP] The Miniatures Page
- - [http://theminiaturespage.com](http://theminiaturespage.com)
- - date published: 2023-11-01T18:35:06.205324+00:00
- - user: None
- - tags: ['warhammer']
-
-## The Moscow Times
- - [https://www.themoscowtimes.com](https://www.themoscowtimes.com)
- - date published: 2023-10-25T10:12:59.328407+00:00
- - user: None
- - tags: []
-
-## Job Search, Companies Hiring Near Me, and Advice | The Muse
- - [https://www.themuse.com](https://www.themuse.com)
- - date published: 2023-10-25T17:36:42.158729+00:00
- - user: None
- - tags: []
-
-## The Mythical Engineer | Blog about Software Engineering
- - [https://themythicalengineer.com](https://themythicalengineer.com)
- - date published: 2023-10-25T17:36:48.478058+00:00
- - user: None
- - tags: []
-
-## The Nation
- - [https://www.thenation.com](https://www.thenation.com)
- - date published: 2023-10-25T17:36:57.288491+00:00
- - user: None
- - tags: []
-
-## The National - Latest world news, sport & opinion
- - [https://www.thenationalnews.com](https://www.thenationalnews.com)
- - date published: 2023-10-25T17:37:06.236021+00:00
  - user: None
  - tags: []
 

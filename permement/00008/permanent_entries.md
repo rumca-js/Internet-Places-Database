@@ -1,3 +1,177 @@
+## John-F.-Kennedy-Institut: Startseite
+ - [https://www.jfki.fu-berlin.de](https://www.jfki.fu-berlin.de)
+ - date published: 2023-10-25T18:30:45.808648+00:00
+ - user: None
+ - tags: []
+
+## GNU Pascal
+ - [https://www.gnu-pascal.de](https://www.gnu-pascal.de)
+ - date published: 2023-10-25T18:30:47.993234+00:00
+ - user: None
+ - tags: []
+
+## Gorilla Sun
+ - [https://gorillasun.de](https://gorillasun.de)
+ - date published: 2023-10-25T18:30:51.098785+00:00
+ - user: None
+ - tags: []
+
+## Beglaubigung OpenPGP-Schlüssel
+ - [https://pgp.governikus.de](https://pgp.governikus.de)
+ - date published: 2023-10-25T18:30:54.264820+00:00
+ - user: None
+ - tags: []
+
+## H2FLY - Realizes hydrogen-powered zero-emission aviation.
+ - [https://www.h2fly.de](https://www.h2fly.de)
+ - date published: 2023-10-25T18:30:56.863209+00:00
+ - user: None
+ - tags: []
+
+## HanNet: Welcome to HanNet e.V.
+ - [https://www.han.de](https://www.han.de)
+ - date published: 2023-10-25T18:30:58.302906+00:00
+ - user: None
+ - tags: []
+
+## heise online - IT-News, Nachrichten und Hintergründe
+ - [https://www.heise.de](https://www.heise.de)
+ - date published: 2023-10-25T18:31:10.163609+00:00
+ - user: None
+ - tags: []
+
+## igor´sLAB | PC & Components | Reviews & News
+ - [https://www.igorslab.de](https://www.igorslab.de)
+ - date published: 2023-10-25T18:31:18.439027+00:00
+ - user: None
+ - tags: []
+
+## imagico.de - Home
+ - [https://imagico.de](https://imagico.de)
+ - date published: 2023-10-25T18:31:21.792895+00:00
+ - user: None
+ - tags: []
+
+## JavE - Java Ascii Versatile Editor
+ - [http://www.jave.de](http://www.jave.de)
+ - date published: 2023-10-25T18:31:23.796550+00:00
+ - user: None
+ - tags: []
+
+## jj's USEFUL and UGLY pages
+ - [https://www.jjj.de](https://www.jjj.de)
+ - date published: 2023-10-25T18:31:25.414779+00:00
+ - user: None
+ - tags: []
+
+## Blog – Joachim Breitner's Homepage
+ - [https://www.joachim-breitner.de](https://www.joachim-breitner.de)
+ - date published: 2023-10-25T18:31:28.248214+00:00
+ - user: None
+ - tags: []
+
+## JouMxyzptlk - 4K HD, Ultra HD, 6K HD, 8K, 10k, 15k HighRes game videos and panoramas
+ - [https://joumxyzptlk.de](https://joumxyzptlk.de)
+ - date published: 2023-10-25T18:31:29.862637+00:00
+ - user: None
+ - tags: []
+
+## Nachrichten aus Bremen und Niedersachsen | kreiszeitung.de
+ - [https://www.kreiszeitung.de](https://www.kreiszeitung.de)
+ - date published: 2023-10-25T18:31:36.569218+00:00
+ - user: None
+ - tags: []
+
+## Michael Kuron's Blog
+ - [https://blog.michael.kuron-germany.de](https://blog.michael.kuron-germany.de)
+ - date published: 2023-10-25T18:31:39.282220+00:00
+ - user: None
+ - tags: []
+
+## Jacob 'kurtextrem' Groß | Jacob Groß | kurtextrem.de
+ - [https://kurtextrem.de](https://kurtextrem.de)
+ - date published: 2023-10-25T18:31:39.984385+00:00
+ - user: None
+ - tags: []
+
+## LMU Munich - Media Informatics
+ - [https://www.medien.ifi.lmu.de](https://www.medien.ifi.lmu.de)
+ - date published: 2023-10-25T18:31:46.269292+00:00
+ - user: None
+ - tags: []
+
+## LSWW - Mach dein Online Business smarter!
+ - [https://lsww.de](https://lsww.de)
+ - date published: 2023-10-25T18:31:53.223152+00:00
+ - user: None
+ - tags: []
+
+## Lukas Schwarz
+ - [https://lukasschwarz.de](https://lukasschwarz.de)
+ - date published: 2023-10-25T18:31:56.457029+00:00
+ - user: None
+ - tags: []
+
+## M5E's Blog
+ - [https://blog.m5e.de](https://blog.m5e.de)
+ - date published: 2023-10-25T18:31:59.192949+00:00
+ - user: None
+ - tags: []
+
+## Max Delbrück Center
+ - [https://www.mdc-berlin.de](https://www.mdc-berlin.de)
+ - date published: 2023-10-25T18:32:02.264905+00:00
+ - user: None
+ - tags: []
+
+## Elektronik, Trends & Technik kaufen im Onlineshop
+ - [https://www.mediamarkt.de](https://www.mediamarkt.de)
+ - date published: 2023-11-01T08:41:24.416647+00:00
+ - user: None
+ - tags: []
+
+## Metal Hammer
+ - [https://www.metal-hammer.de](https://www.metal-hammer.de)
+ - date published: 2023-11-02T09:15:35.360663+00:00
+ - user: None
+ - tags: []
+
+## Institute for Digital Medicine -  Fraunhofer MEVIS
+ - [http://www.mevis-research.de](http://www.mevis-research.de)
+ - date published: 2023-10-25T18:32:07.302710+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://michaelbach.de](https://michaelbach.de)
+ - date published: 2023-10-25T18:32:09.114872+00:00
+ - user: None
+ - tags: []
+
+## minus' blog
+ - [https://blog.mnus.de](https://blog.mnus.de)
+ - date published: 2023-10-25T18:32:10.479952+00:00
+ - user: None
+ - tags: []
+
+## lingweb.eva.mpg.de
+ - [https://lingweb.eva.mpg.de](https://lingweb.eva.mpg.de)
+ - date published: 2023-10-25T18:32:10.923468+00:00
+ - user: None
+ - tags: []
+
+## Max-Planck-Institut für Meteorologie: Startseite
+ - [https://mpimet.mpg.de](https://mpimet.mpg.de)
+ - date published: 2023-10-25T18:32:13.317317+00:00
+ - user: None
+ - tags: []
+
+## http://resources.mpi-inf.mpg.de
+ - [http://resources.mpi-inf.mpg.de](http://resources.mpi-inf.mpg.de)
+ - date published: 2023-10-25T18:32:14.941018+00:00
+ - user: None
+ - tags: []
+
 ## Visual Computing and Artificial Intelligence
  - [https://vcai.mpi-inf.mpg.de](https://vcai.mpi-inf.mpg.de)
  - date published: 2023-10-25T18:32:16.725149+00:00
@@ -2722,6 +2896,12 @@
 ## Thomas J. Watson College of Engineering and Applied Science | Binghamton University
  - [http://www.ws.binghamton.edu](http://www.ws.binghamton.edu)
  - date published: 2023-10-25T18:48:19.170626+00:00
+ - user: None
+ - tags: []
+
+## Brookings - Quality. Independence. Impact.
+ - [https://www.brookings.edu](https://www.brookings.edu)
+ - date published: 2023-11-05T11:08:07.121051+00:00
  - user: None
  - tags: []
 
@@ -5678,6 +5858,12 @@
  - user: None
  - tags: []
 
+## Actualités et Infos en direct & replay | Europe 1
+ - [https://www.europe1.fr](https://www.europe1.fr)
+ - date published: 2023-11-05T12:49:53.622670+00:00
+ - user: None
+ - tags: []
+
 ## Fathy Boundjadj
  - [https://fathy.fr](https://fathy.fr)
  - date published: 2023-10-25T19:14:59.727135+00:00
@@ -5819,192 +6005,6 @@
 ## Flowchart Fun — Fast, Free Online Flowchart Maker
  - [https://flowchart.fun](https://flowchart.fun)
  - date published: 2023-10-25T19:15:48.621117+00:00
- - user: None
- - tags: []
-
-## Neal.fun
- - [https://neal.fun](https://neal.fun)
- - date published: 2023-10-25T19:15:49.467863+00:00
- - user: None
- - tags: []
-
-## The Autopilot Fund
- - [https://blog.autopilot.fund](https://blog.autopilot.fund)
- - date published: 2023-10-25T19:15:50.122692+00:00
- - user: None
- - tags: []
-
-## Adriano Caloiaro's personal blog
- - [https://adriano.fyi](https://adriano.fyi)
- - date published: 2023-10-25T08:59:03.095518+00:00
- - user: None
- - tags: ['personal']
-
-## brr
- - [https://brr.fyi](https://brr.fyi)
- - date published: 2023-10-25T19:15:50.754055+00:00
- - user: None
- - tags: []
-
-## Freelance rates by contractrates.fyi
- - [https://www.contractrates.fyi](https://www.contractrates.fyi)
- - date published: 2023-10-25T19:15:52.506601+00:00
- - user: None
- - tags: []
-
-## DevBase - Product Gallery for Developers
- - [https://devbase.fyi](https://devbase.fyi)
- - date published: 2023-10-25T19:15:55.735011+00:00
- - user: None
- - tags: []
-
-## Digital culture and entertainment insights daily: Digital culture and entertainment insights daily
- - [https://dirt.fyi](https://dirt.fyi)
- - date published: 2023-10-25T19:15:57.266413+00:00
- - user: None
- - tags: []
-
-## ESPP.fyi - ESPP Calculator
- - [https://espp.fyi](https://espp.fyi)
- - date published: 2023-10-25T19:15:58.160226+00:00
- - user: None
- - tags: []
-
-## iliana.fyi
- - [https://iliana.fyi](https://iliana.fyi)
- - date published: 2023-10-25T19:15:59.645382+00:00
- - user: None
- - tags: []
-
-## Layoffs.fyi - Tech Layoff Tracker and Startup Layoff Lists
- - [https://layoffs.fyi](https://layoffs.fyi)
- - date published: 2023-10-25T19:16:02.675285+00:00
- - user: None
- - tags: []
-
-## Levels.fyi | Salaries & Tools to Level Up Your Career
- - [https://www.levels.fyi](https://www.levels.fyi)
- - date published: 2023-10-25T19:16:09.416624+00:00
- - user: None
- - tags: []
-
-## Not a Number
- - [https://www.nan.fyi](https://www.nan.fyi)
- - date published: 2023-10-25T19:16:10.047779+00:00
- - user: None
- - tags: []
-
-## Not By AI — Add the Badge to Your Human-Created Content
- - [https://notbyai.fyi](https://notbyai.fyi)
- - date published: 2023-10-25T19:16:11.639093+00:00
- - user: None
- - tags: []
-
-## 2 Weeks Notice/Layoff Checklist
- - [https://notice.fyi](https://notice.fyi)
- - date published: 2023-10-25T19:16:13.369510+00:00
- - user: None
- - tags: []
-
-## Paisa
- - [https://paisa.fyi](https://paisa.fyi)
- - date published: 2023-10-25T19:16:14.401445+00:00
- - user: None
- - tags: []
-
-## physician.fyi
- - [https://www.physician.fyi](https://www.physician.fyi)
- - date published: 2023-10-25T19:16:19.520735+00:00
- - user: None
- - tags: []
-
-## rustjobs.fyi
- - [https://www.rustjobs.fyi](https://www.rustjobs.fyi)
- - date published: 2023-10-25T19:16:20.460320+00:00
- - user: None
- - tags: []
-
-## The ideal viewport doesn’t exist
- - [https://viewports.fyi](https://viewports.fyi)
- - date published: 2023-10-25T19:16:21.804980+00:00
- - user: None
- - tags: []
-
-## Vizly - Data to insights in seconds
- - [https://www.vizly.fyi](https://www.vizly.fyi)
- - date published: 2023-10-25T19:16:23.095453+00:00
- - user: None
- - tags: []
-
-## William Edmisten
- - [https://wcedmisten.fyi](https://wcedmisten.fyi)
- - date published: 2023-10-25T19:16:24.081987+00:00
- - user: None
- - tags: []
-
-## Jack Wrenn
- - [https://jack.wrenn.fyi](https://jack.wrenn.fyi)
- - date published: 2023-10-25T19:16:25.606719+00:00
- - user: None
- - tags: []
-
-## Are the Americans Awake?
- - [https://are-the-americans-awake.yusuf.fyi](https://are-the-americans-awake.yusuf.fyi)
- - date published: 2023-10-25T19:16:26.673031+00:00
- - user: None
- - tags: []
-
-## http://blog.joren.ga
- - [http://blog.joren.ga](http://blog.joren.ga)
- - date published: 2023-10-25T19:16:27.842923+00:00
- - user: None
- - tags: []
-
-## Minimal Gallery – Website inspiration
- - [https://minimal.gallery](https://minimal.gallery)
- - date published: 2023-10-25T19:16:29.833681+00:00
- - user: None
- - tags: []
-
-## Nyx.gallery - AI-generated photography
- - [https://nyx.gallery](https://nyx.gallery)
- - date published: 2023-10-25T19:16:35.991453+00:00
- - user: None
- - tags: []
-
-## Baldur's Gate 3
- - [https://baldursgate3.game](https://baldursgate3.game)
- - date published: 2023-10-25T19:16:37.135932+00:00
- - user: None
- - tags: []
-
-## Nour: Play With Your Food
- - [https://food.game](https://food.game)
- - date published: 2023-10-25T19:16:38.689460+00:00
- - user: None
- - tags: []
-
-## GuessTheGame - Your daily video game guessing puzzle!
- - [https://guessthe.game](https://guessthe.game)
- - date published: 2023-10-25T19:16:39.291433+00:00
- - user: None
- - tags: []
-
-## games
- - [https://eieio.games](https://eieio.games)
- - date published: 2023-10-25T08:49:11.104677+00:00
- - user: None
- - tags: ['personal']
-
-## Imperial Games
- - [https://imperial.games](https://imperial.games)
- - date published: 2023-10-27T08:01:51.543359+00:00
- - user: None
- - tags: []
-
-## IPv4 Turf War
- - [https://ipv4.games](https://ipv4.games)
- - date published: 2023-10-25T19:16:40.305776+00:00
  - user: None
  - tags: []
 

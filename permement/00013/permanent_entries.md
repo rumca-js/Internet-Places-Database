@@ -1,3 +1,279 @@
+## The New Humanitarian • humanitarian news and analysis from Africa, Asia and the Middle East - updated daily
+ - [https://www.thenewhumanitarian.org](https://www.thenewhumanitarian.org)
+ - date published: 2023-10-25T22:14:18.022538+00:00
+ - user: None
+ - tags: []
+
+## The New Lede
+ - [https://www.thenewlede.org](https://www.thenewlede.org)
+ - date published: 2023-10-25T22:14:19.999816+00:00
+ - user: None
+ - tags: []
+
+## Theorem of the Day
+ - [https://www.theoremoftheday.org](https://www.theoremoftheday.org)
+ - date published: 2023-10-25T22:14:22.000968+00:00
+ - user: None
+ - tags: []
+
+## The Palindrome | Tivadar Danka | Substack
+ - [https://thepalindrome.org](https://thepalindrome.org)
+ - date published: 2023-10-25T10:08:41.434839+00:00
+ - user: None
+ - tags: ['substack']
+
+## Paris Review - Writers, Quotes, Biography, Interviews, Artists
+ - [https://www.theparisreview.org](https://www.theparisreview.org)
+ - date published: 2023-10-25T11:00:56.051363+00:00
+ - user: None
+ - tags: []
+
+## Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site
+ - [https://thepiratebay.org](https://thepiratebay.org)
+ - date published: 2023-10-25T11:30:24.153144+00:00
+ - user: None
+ - tags: ['piracy', 'dark web']
+
+## Home — The Revealer
+ - [https://therevealer.org](https://therevealer.org)
+ - date published: 2023-10-25T22:14:31.471099+00:00
+ - user: None
+ - tags: []
+
+## The Sifter - A Food History Research Tool
+ - [https://thesifter.org](https://thesifter.org)
+ - date published: 2023-10-25T22:14:32.844291+00:00
+ - user: None
+ - tags: []
+
+## The Sun Magazine
+ - [https://www.thesunmagazine.org](https://www.thesunmagazine.org)
+ - date published: 2023-10-25T22:14:36.249512+00:00
+ - user: None
+ - tags: []
+
+## The Things Network
+ - [https://www.thethingsnetwork.org](https://www.thethingsnetwork.org)
+ - date published: 2023-10-25T22:14:38.088881+00:00
+ - user: None
+ - tags: []
+
+## Home - The Urbanist
+ - [https://www.theurbanist.org](https://www.theurbanist.org)
+ - date published: 2023-10-25T22:14:42.141298+00:00
+ - user: None
+ - tags: []
+
+## This Week in Rust
+ - [https://this-week-in-rust.org](https://this-week-in-rust.org)
+ - date published: 2023-10-25T22:14:42.923387+00:00
+ - user: None
+ - tags: []
+
+## Thonny, Python IDE for beginners
+ - [https://thonny.org](https://thonny.org)
+ - date published: 2023-10-25T22:14:43.992295+00:00
+ - user: None
+ - tags: []
+
+## Thraxil.org
+ - [https://thraxil.org](https://thraxil.org)
+ - date published: 2023-10-25T22:14:45.881243+00:00
+ - user: None
+ - tags: []
+
+## The Thoreau Institute
+ - [https://ti.org](https://ti.org)
+ - date published: 2023-10-25T22:14:46.754363+00:00
+ - user: None
+ - tags: []
+
+## Timac
+ - [https://blog.timac.org](https://blog.timac.org)
+ - date published: 2023-10-25T22:14:47.546975+00:00
+ - user: None
+ - tags: []
+
+## My Point of View
+ - [https://mpov.timmorgan.org](https://mpov.timmorgan.org)
+ - date published: 2023-10-25T22:14:48.078083+00:00
+ - user: None
+ - tags: []
+
+## Timothy Rice
+ - [https://www.timothyrice.org](https://www.timothyrice.org)
+ - date published: 2023-10-25T22:14:49.049934+00:00
+ - user: None
+ - tags: []
+
+## tinc
+ - [https://www.tinc-vpn.org](https://www.tinc-vpn.org)
+ - date published: 2023-10-25T22:14:49.848736+00:00
+ - user: None
+ - tags: []
+
+## tinyapps.org
+ - [https://tinyapps.org](https://tinyapps.org)
+ - date published: 2023-10-25T22:14:50.630713+00:00
+ - user: None
+ - tags: []
+
+## TinyBase
+ - [https://tinybase.org](https://tinybase.org)
+ - date published: 2023-10-25T22:14:53.370881+00:00
+ - user: None
+ - tags: []
+
+## Ryan Dahl
+ - [https://tinyclouds.org](https://tinyclouds.org)
+ - date published: 2023-10-25T09:24:20.208297+00:00
+ - user: None
+ - tags: ['personal']
+
+## tinygrad: A simple and powerful neural network framework
+ - [https://tinygrad.org](https://tinygrad.org)
+ - date published: 2023-10-25T22:14:54.100856+00:00
+ - user: None
+ - tags: []
+
+## http://tirania.org
+ - [http://tirania.org](http://tirania.org)
+ - date published: 2023-10-25T09:26:49.638533+00:00
+ - user: None
+ - tags: ['personal']
+
+## http://exple.tive.org
+ - [http://exple.tive.org](http://exple.tive.org)
+ - date published: 2023-10-25T22:14:57.426617+00:00
+ - user: None
+ - tags: []
+
+## The Linux Documentation Project
+ - [https://tldp.org](https://tldp.org)
+ - date published: 2023-10-25T22:14:58.578899+00:00
+ - user: None
+ - tags: []
+
+## The National Museum of Computing
+ - [https://www.tnmoc.org](https://www.tnmoc.org)
+ - date published: 2023-10-27T10:22:09.468148+00:00
+ - user: None
+ - tags: ['museum']
+
+## Home - Texas National Security Review
+ - [https://tnsr.org](https://tnsr.org)
+ - date published: 2023-10-25T22:15:00.554967+00:00
+ - user: None
+ - tags: []
+
+## Tom Murphy 7's Invincible Web Page
+ - [http://tom7.org](http://tom7.org)
+ - date published: 2023-10-25T22:15:02.094981+00:00
+ - user: None
+ - tags: []
+
+## FontCDN: Search and Proxy for Google web fonts
+ - [https://fontcdn.toolforge.org](https://fontcdn.toolforge.org)
+ - date published: 2023-10-25T22:15:02.996428+00:00
+ - user: None
+ - tags: []
+
+## Tor Blog | The Tor Project
+ - [https://blog.torproject.org](https://blog.torproject.org)
+ - date published: 2023-10-25T22:15:09.398883+00:00
+ - user: None
+ - tags: []
+
+## Tor Project Forum - Defend yourself against tracking and surveillance. Circumvent censorship.
+ - [https://forum.torproject.org](https://forum.torproject.org)
+ - date published: 2023-10-25T22:15:12.526435+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Tor Metrics
+ - [https://metrics.torproject.org](https://metrics.torproject.org)
+ - date published: 2023-10-25T22:15:13.678313+00:00
+ - user: None
+ - tags: []
+
+## The Tor Project | Privacy & Freedom Online
+ - [https://www.torproject.org](https://www.torproject.org)
+ - date published: 2023-10-30T14:40:32.920820+00:00
+ - user: None
+ - tags: ['privacy', 'dark web', 'tor']
+
+## TortoiseGit – Windows Shell Interface to Git
+ - [https://tortoisegit.org](https://tortoisegit.org)
+ - date published: 2023-10-31T12:01:44.737036+00:00
+ - user: None
+ - tags: ['open source', 'program']
+
+## Frontpage -- Terms of Service; Didn't Read
+ - [https://tosdr.org](https://tosdr.org)
+ - date published: 2023-10-25T22:15:19.624851+00:00
+ - user: None
+ - tags: []
+
+## touchHLE
+ - [https://touchhle.org](https://touchhle.org)
+ - date published: 2023-10-25T22:15:20.558373+00:00
+ - user: None
+ - tags: []
+
+## Texas Public Radio | TPR
+ - [https://www.tpr.org](https://www.tpr.org)
+ - date published: 2023-10-25T22:15:25.876244+00:00
+ - user: None
+ - tags: []
+
+## Trinity Desktop Environment
+ - [https://www.trinitydesktop.org](https://www.trinitydesktop.org)
+ - date published: 2023-10-25T22:15:27.131626+00:00
+ - user: None
+ - tags: []
+
+## TripleA: An Open Source Turn Based Grand Strategy Game
+ - [https://triplea-game.org](https://triplea-game.org)
+ - date published: 2023-10-25T22:15:28.144410+00:00
+ - user: None
+ - tags: []
+
+## Home - Trisul Network Analytics
+ - [https://www.trisul.org](https://www.trisul.org)
+ - date published: 2023-10-25T11:29:06.015532+00:00
+ - user: None
+ - tags: []
+
+## Home Page
+ - [https://www.trsearch.org](https://www.trsearch.org)
+ - date published: 2023-10-27T12:07:10.556271+00:00
+ - user: None
+ - tags: []
+
+## News Home | Thomson Reuters Foundation News
+ - [https://news.trust.org](https://news.trust.org)
+ - date published: 2023-10-25T22:15:38.811272+00:00
+ - user: None
+ - tags: []
+
+## Truthout | Fearless Independent Journalism
+ - [https://truthout.org](https://truthout.org)
+ - date published: 2023-10-25T22:15:42.168983+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [http://tsoding.org](http://tsoding.org)
+ - date published: 2023-10-25T22:15:43.791618+00:00
+ - user: None
+ - tags: []
+
+## Minnie's Home Page
+ - [https://minnie.tuhs.org](https://minnie.tuhs.org)
+ - date published: 2023-10-25T22:15:45.834689+00:00
+ - user: None
+ - tags: []
+
 ## The Unix Heritage Society
  - [https://www.tuhs.org](https://www.tuhs.org)
  - date published: 2023-10-25T22:15:47.417509+00:00
@@ -91,6 +367,12 @@
 ## 2023 Report - UNAIDS - Global Report 2023
  - [https://thepath.unaids.org](https://thepath.unaids.org)
  - date published: 2023-10-25T22:16:22.303503+00:00
+ - user: None
+ - tags: []
+
+## UNC Health & UNC School of Medicine Newsroom
+ - [https://news.unchealthcare.org](https://news.unchealthcare.org)
+ - date published: 2023-11-05T02:04:02.063047+00:00
  - user: None
  - tags: []
 
@@ -685,6 +967,12 @@
 ## wingolog
  - [https://www.wingolog.org](https://www.wingolog.org)
  - date published: 2023-10-25T22:21:34.064097+00:00
+ - user: None
+ - tags: []
+
+## Show HN: WireHub – easily create and share WireGuard networks
+ - [https://www.wirehub.org](https://www.wirehub.org)
+ - date published: 2023-11-05T20:54:33+00:00
  - user: None
  - tags: []
 
@@ -4118,6 +4406,12 @@ is forbidden
  - tags: []
 
 ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://bulkninja.notion.site](https://bulkninja.notion.site)
+ - date published: 2023-11-05T12:07:53.538117+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
  - [https://chaudhry.notion.site](https://chaudhry.notion.site)
  - date published: 2023-10-25T22:39:24.906292+00:00
  - user: None
@@ -5709,300 +6003,6 @@ Introduction
 ## University of Cambridge
  - [https://www.cam.ac.uk](https://www.cam.ac.uk)
  - date published: 2023-10-25T22:48:25.688531+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science and Technology |
- - [https://www.cl.cam.ac.uk](https://www.cl.cam.ac.uk)
- - date published: 2023-10-25T22:48:31.027561+00:00
- - user: None
- - tags: []
-
-## UK Centre for Ecology & Hydrology
- - [https://www.ceh.ac.uk](https://www.ceh.ac.uk)
- - date published: 2023-10-25T22:48:32.418903+00:00
- - user: None
- - tags: []
-
-## Durham University
- - [https://www.durham.ac.uk](https://www.durham.ac.uk)
- - date published: 2023-11-02T13:02:33.895215+00:00
- - user: None
- - tags: []
-
-## EMBL-EBI homepage | EMBL-EBI
- - [https://www.ebi.ac.uk](https://www.ebi.ac.uk)
- - date published: 2023-10-25T22:48:33.245753+00:00
- - user: None
- - tags: []
-
-## School of Mathematics | School of Mathematics
- - [https://www.maths.ed.ac.uk](https://www.maths.ed.ac.uk)
- - date published: 2023-10-25T22:48:35.495631+00:00
- - user: None
- - tags: []
-
-## The University of Glasgow, Scotland, UK. A world top 100 university
- - [https://www.gla.ac.uk](https://www.gla.ac.uk)
- - date published: 2023-10-25T22:48:37.249525+00:00
- - user: None
- - tags: []
-
-## The Institute of Cancer Research, London
- - [https://www.icr.ac.uk](https://www.icr.ac.uk)
- - date published: 2023-11-03T11:36:33.556794+00:00
- - user: None
- - tags: []
-
-## Spiral: Home
- - [https://spiral.imperial.ac.uk](https://spiral.imperial.ac.uk)
- - date published: 2023-10-25T22:48:39.774318+00:00
- - user: None
- - tags: []
-
-## Imperial College London
- - [https://www.imperial.ac.uk](https://www.imperial.ac.uk)
- - date published: 2023-10-25T22:48:43.072561+00:00
- - user: None
- - tags: []
-
-## Internet Archaeology - Global. Open. Free. Peer-reviewed archaeological research
- - [https://intarch.ac.uk](https://intarch.ac.uk)
- - date published: 2023-10-25T22:48:44.581467+00:00
- - user: None
- - tags: []
-
-## King's College London
- - [https://www.kcl.ac.uk](https://www.kcl.ac.uk)
- - date published: 2023-10-27T12:08:52.500221+00:00
- - user: None
- - tags: []
-
-## University of Leeds
- - [https://www.leeds.ac.uk](https://www.leeds.ac.uk)
- - date published: 2023-10-25T22:48:46.915969+00:00
- - user: None
- - tags: []
-
-## LSE Blogs | Expert analysis & debate from LSE
- - [https://blogs.lse.ac.uk](https://blogs.lse.ac.uk)
- - date published: 2023-10-25T22:48:48.518267+00:00
- - user: None
- - tags: []
-
-## The London School of Hygiene & Tropical Medicine | LSHTM
- - [https://www.lshtm.ac.uk](https://www.lshtm.ac.uk)
- - date published: 2023-10-25T22:48:50.709213+00:00
- - user: None
- - tags: []
-
-## Home | Natural History Museum
- - [https://www.nhm.ac.uk](https://www.nhm.ac.uk)
- - date published: 2023-10-27T12:08:54.547443+00:00
- - user: None
- - tags: ['museum']
-
-## Practical Ethics
- - [https://blog.practicalethics.ox.ac.uk](https://blog.practicalethics.ox.ac.uk)
- - date published: 2023-10-25T22:49:17.344700+00:00
- - user: None
- - tags: []
-
-## http://eodg.atm.ox.ac.uk
- - [http://eodg.atm.ox.ac.uk](http://eodg.atm.ox.ac.uk)
- - date published: 2023-10-25T22:49:17.664834+00:00
- - user: None
- - tags: []
-
-## Home — Centre for Evidence-Based Medicine (CEBM), University of Oxford
- - [https://www.cebm.ox.ac.uk](https://www.cebm.ox.ac.uk)
- - date published: 2023-10-25T22:49:23.492759+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science, University of Oxford
- - [https://www.cs.ox.ac.uk](https://www.cs.ox.ac.uk)
- - date published: 2023-10-25T11:20:51.683475+00:00
- - user: None
- - tags: []
-
-## Home — Department of Physiology, Anatomy and Genetics (DPAG)
- - [https://www.dpag.ox.ac.uk](https://www.dpag.ox.ac.uk)
- - date published: 2023-10-31T19:57:19.175495+00:00
- - user: None
- - tags: []
-
-## University of Oxford
- - [https://www.ox.ac.uk](https://www.ox.ac.uk)
- - date published: 2023-10-25T22:49:34.482125+00:00
- - user: None
- - tags: []
-
-## Information Engineering Main/Home Page
- - [https://www.robots.ox.ac.uk](https://www.robots.ox.ac.uk)
- - date published: 2023-10-25T22:49:36.138908+00:00
- - user: None
- - tags: []
-
-## Queen Mary University of London
- - [https://www.qmul.ac.uk](https://www.qmul.ac.uk)
- - date published: 2023-10-25T22:49:40.586466+00:00
- - user: None
- - tags: []
-
-## The Royal Astronomical Society
- - [https://ras.ac.uk](https://ras.ac.uk)
- - date published: 2023-10-25T22:49:44.106790+00:00
- - user: None
- - tags: []
-
-## IT Services blog – Latest news, advice and information from the IT Services team
- - [https://itservices.wp.st-andrews.ac.uk](https://itservices.wp.st-andrews.ac.uk)
- - date published: 2023-10-25T22:49:46.498310+00:00
- - user: None
- - tags: []
-
-## MacTutor Index - MacTutor History of Mathematics
- - [https://mathshistory.st-andrews.ac.uk](https://mathshistory.st-andrews.ac.uk)
- - date published: 2023-10-25T22:49:48.719060+00:00
- - user: None
- - tags: []
-
-## Find your place at UEA
- - [https://www.uea.ac.uk](https://www.uea.ac.uk)
- - date published: 2023-10-25T22:49:55.186219+00:00
- - user: None
- - tags: []
-
-## Computer Science - Computer Science, University of York
- - [https://www.cs.york.ac.uk](https://www.cs.york.ac.uk)
- - date published: 2023-10-25T22:50:02.708001+00:00
- - user: None
- - tags: []
-
-## Adam K Dean
- - [https://adamkdean.co.uk](https://adamkdean.co.uk)
- - date published: 2023-10-25T08:56:16.522890+00:00
- - user: None
- - tags: ['personal']
-
-## GPT Unicorn
- - [https://gpt-unicorn.adamkdean.co.uk](https://gpt-unicorn.adamkdean.co.uk)
- - date published: 2023-10-25T22:50:04.452981+00:00
- - user: None
- - tags: []
-
-## ADMIRALTY Maritime Data Solutions
- - [https://www.admiralty.co.uk](https://www.admiralty.co.uk)
- - date published: 2023-10-25T22:50:10.346848+00:00
- - user: None
- - tags: []
-
-## Alex Murrell
- - [https://www.alexmurrell.co.uk](https://www.alexmurrell.co.uk)
- - date published: 2023-10-25T08:56:17.999808+00:00
- - user: None
- - tags: ['personal']
-
-## Amazon.co.uk: Low Prices in Electronics, Books, Sports Equipment & more
- - [https://www.amazon.co.uk](https://www.amazon.co.uk)
- - date published: 2023-10-25T22:50:25.984254+00:00
- - user: None
- - tags: []
-
-## AN.
- - [https://www.andrewnile.co.uk](https://www.andrewnile.co.uk)
- - date published: 2023-10-25T22:50:28.355553+00:00
- - user: None
- - tags: []
-
-## Andy Bell - Designer, front-end developer and founder of Set Studio
- - [https://andy-bell.co.uk](https://andy-bell.co.uk)
- - date published: 2023-10-25T22:50:30.224777+00:00
- - user: None
- - tags: []
-
-## art market art online artsmarket da  vinci code last supper
- - [http://www.artsmarket.co.uk](http://www.artsmarket.co.uk)
- - date published: 2023-10-25T22:50:35.558821+00:00
- - user: None
- - tags: []
-
-## ASCII.co.uk - The home of all things ASCII
- - [https://ascii.co.uk](https://ascii.co.uk)
- - date published: 2023-10-30T13:46:28.309681+00:00
- - user: None
- - tags: []
-
-## Autocar | Car News and Car Reviews
- - [https://www.autocar.co.uk](https://www.autocar.co.uk)
- - date published: 2023-10-25T22:50:42.741657+00:00
- - user: None
- - tags: []
-
-## BabelStone
- - [https://www.babelstone.co.uk](https://www.babelstone.co.uk)
- - date published: 2023-10-25T22:50:46.375041+00:00
- - user: None
- - tags: []
-
-## Home | Bank of England
- - [https://www.bankofengland.co.uk](https://www.bankofengland.co.uk)
- - date published: 2023-10-25T22:50:52.361987+00:00
- - user: None
- - tags: []
-
-## Home - BBC News
- - [https://news.bbc.co.uk](https://news.bbc.co.uk)
- - date published: 2023-10-25T10:34:44.046411+00:00
- - user: None
- - tags: []
-
-## BBC - Home
- - [https://www.bbc.co.uk](https://www.bbc.co.uk)
- - date published: 2023-10-25T10:34:51.357017+00:00
- - user: None
- - tags: []
-
-## BBC Computer Literacy Project Archive
- - [https://clp.bbcrewind.co.uk](https://clp.bbcrewind.co.uk)
- - date published: 2023-10-25T22:50:58.960438+00:00
- - user: None
- - tags: []
-
-## Belfast Live: Latest Belfast News, sport & celebrity gossip
- - [https://www.belfastlive.co.uk](https://www.belfastlive.co.uk)
- - date published: 2023-10-25T22:51:11.575136+00:00
- - user: None
- - tags: []
-
-## Benji Weber
- - [https://benjiweber.co.uk](https://benjiweber.co.uk)
- - date published: 2023-10-25T22:51:13.295230+00:00
- - user: None
- - tags: []
-
-## Benjojo's Blog
- - [https://blog.benjojo.co.uk](https://blog.benjojo.co.uk)
- - date published: 2023-10-25T08:56:20.029035+00:00
- - user: None
- - tags: ['personal']
-
-## Binary Moon > Ben Gillbanks
- - [https://www.binarymoon.co.uk](https://www.binarymoon.co.uk)
- - date published: 2023-10-25T22:51:15.031956+00:00
- - user: None
- - tags: []
-
-## Bristol Live - latest local news, sport & business from Bristol
- - [https://www.bristolpost.co.uk](https://www.bristolpost.co.uk)
- - date published: 2023-10-25T22:51:29.047653+00:00
- - user: None
- - tags: []
-
-## hubs = geodesic domes made simple
- - [https://buildwithhubs.co.uk](https://buildwithhubs.co.uk)
- - date published: 2023-10-25T22:51:31.098717+00:00
  - user: None
  - tags: []
 
