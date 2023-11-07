@@ -1,3 +1,190 @@
+## Aktuelle Nachrichten | BILD.de
+ - [https://www.bild.de](https://www.bild.de)
+ - date published: 2023-10-25T18:28:30.805665+00:00
+ - user: None
+ - tags: []
+
+## social.bund.de
+ - [https://social.bund.de](https://social.bund.de)
+ - date published: 2023-10-25T18:28:31.356395+00:00
+ - user: None
+ - tags: []
+
+## Bundesverfassungsgericht  -  Startseite
+ - [https://www.bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de)
+ - date published: 2023-10-25T18:28:33.150667+00:00
+ - user: None
+ - tags: []
+
+## Caspar’s Website | Caspar von Wrede
+ - [https://casparwre.de](https://casparwre.de)
+ - date published: 2023-10-25T18:28:35.732274+00:00
+ - user: None
+ - tags: []
+
+## 37C3 Call For Participation
+ - [https://content.events.ccc.de](https://content.events.ccc.de)
+ - date published: 2023-10-25T18:28:37.146400+00:00
+ - user: None
+ - tags: []
+
+## CCC Event Blog
+ - [https://events.ccc.de](https://events.ccc.de)
+ - date published: 2023-10-25T18:28:39.662895+00:00
+ - user: None
+ - tags: []
+
+## media.ccc.de -
+home
+ - [https://media.ccc.de](https://media.ccc.de)
+ - date published: 2023-10-25T18:28:41.208202+00:00
+ - user: None
+ - tags: []
+
+## See you soon … somewhere else! – C3VOC Streaming
+ - [https://streaming.media.ccc.de](https://streaming.media.ccc.de)
+ - date published: 2023-10-25T18:28:42.515686+00:00
+ - user: None
+ - tags: []
+
+## CCC | Startseite
+ - [https://www.ccc.de](https://www.ccc.de)
+ - date published: 2023-10-25T18:28:44.193001+00:00
+ - user: None
+ - tags: []
+
+## Yet another IT blog
+ - [https://ch-st.de](https://ch-st.de)
+ - date published: 2023-11-06T18:48:19.602527+00:00
+ - user: None
+ - tags: []
+
+## CKTN Forum - Tech & Privacy for People
+ - [https://forum.cktn.de](https://forum.cktn.de)
+ - date published: 2023-10-25T18:28:48.772187+00:00
+ - user: None
+ - tags: []
+
+## The Cyber Vanguard
+ - [https://cyber.dabamos.de](https://cyber.dabamos.de)
+ - date published: 2023-10-27T11:56:58.035109+00:00
+ - user: None
+ - tags: []
+
+## DROPS - Series
+ - [https://drops.dagstuhl.de](https://drops.dagstuhl.de)
+ - date published: 2023-10-25T18:29:09.557733+00:00
+ - user: None
+ - tags: []
+
+## Datawrapper Blog
+ - [https://blog.datawrapper.de](https://blog.datawrapper.de)
+ - date published: 2023-10-25T18:29:23.861867+00:00
+ - user: None
+ - tags: []
+
+## Blogless — Writing Articles online without a Blog
+ - [https://blogless.datenbrei.de](https://blogless.datenbrei.de)
+ - date published: 2023-10-25T18:29:26.642822+00:00
+ - user: None
+ - tags: []
+
+## lists.denx.de Mailing Lists
+ - [https://lists.denx.de](https://lists.denx.de)
+ - date published: 2023-10-25T18:29:27.869041+00:00
+ - user: None
+ - tags: []
+
+## Deutschlands größtes Beschleunigerzentrum - Deutsches Elektronen-Synchrotron DESY
+ - [https://www.desy.de](https://www.desy.de)
+ - date published: 2023-10-25T18:29:33.914611+00:00
+ - user: None
+ - tags: []
+
+## deutschland.de - Your link to Germany
+ - [https://www.deutschland.de](https://www.deutschland.de)
+ - date published: 2023-10-25T18:29:41.108581+00:00
+ - user: None
+ - tags: []
+
+## German Cancer Research Center
+ - [https://www.dkfz.de](https://www.dkfz.de)
+ - date published: 2023-10-25T18:30:06.376806+00:00
+ - user: None
+ - tags: []
+
+## e-basteln
+ - [https://www.e-basteln.de](https://www.e-basteln.de)
+ - date published: 2023-10-25T18:30:07.534543+00:00
+ - user: None
+ - tags: []
+
+## Startseite - Econtribute
+ - [https://www.econtribute.de](https://www.econtribute.de)
+ - date published: 2023-10-25T18:30:10.727479+00:00
+ - user: None
+ - tags: []
+
+## FACTOR 5
+ - [http://www.factor5.de](http://www.factor5.de)
+ - date published: 2023-11-02T10:55:33.784420+00:00
+ - user: None
+ - tags: ['amiga']
+
+## Lemmymap - a lemmy federation map
+ - [https://lemmymap.feddit.de](https://lemmymap.feddit.de)
+ - date published: 2023-10-25T18:30:11.155382+00:00
+ - user: None
+ - tags: []
+
+## felix fisgus | Felix Fisgus
+ - [https://felixfisgus.de](https://felixfisgus.de)
+ - date published: 2023-10-25T18:30:12.186826+00:00
+ - user: None
+ - tags: []
+
+## Felix Geisendörfer
+ - [https://blog.felixge.de](https://blog.felixge.de)
+ - date published: 2023-10-25T18:30:14.021327+00:00
+ - user: None
+ - tags: []
+
+## Fenix Magazin - Početna
+ - [https://fenix-magazin.de](https://fenix-magazin.de)
+ - date published: 2023-10-30T19:00:12.736074+00:00
+ - user: None
+ - tags: []
+
+## feststelltaste – About Legacy Systems, Software Analytics and the Fundamental Problems of Software Engineering
+ - [https://www.feststelltaste.de](https://www.feststelltaste.de)
+ - date published: 2023-10-25T18:30:19.967784+00:00
+ - user: None
+ - tags: []
+
+## Startseite Fraunhofer-Gesellschaft
+ - [https://www.fraunhofer.de](https://www.fraunhofer.de)
+ - date published: 2023-10-25T18:30:27.906517+00:00
+ - user: None
+ - tags: []
+
+## Fraunhofer IISB (English)
+ - [https://www.iisb.fraunhofer.de](https://www.iisb.fraunhofer.de)
+ - date published: 2023-10-25T18:30:29.853786+00:00
+ - user: None
+ - tags: []
+
+## Forschen für die Energiewende - Fraunhofer-Institut für Solare Energiesysteme ISE -  Fraunhofer ISE
+ - [https://www.ise.fraunhofer.de](https://www.ise.fraunhofer.de)
+ - date published: 2023-10-25T18:30:39.964840+00:00
+ - user: None
+ - tags: []
+
+## FRUNC – Schnall den Rucksack um, Ulf. Ich glaub, es geht los!
+ - [https://frunc.de](https://frunc.de)
+ - date published: 2023-10-25T18:30:43.652219+00:00
+ - user: None
+ - tags: []
+
 ## John-F.-Kennedy-Institut: Startseite
  - [https://www.jfki.fu-berlin.de](https://www.jfki.fu-berlin.de)
  - date published: 2023-10-25T18:30:45.808648+00:00
@@ -309,6 +496,12 @@
  - date published: 2023-10-25T18:32:38.955822+00:00
  - user: None
  - tags: []
+
+## DER SPIEGEL | Online-Nachrichten
+ - [https://www.spiegel.de](https://www.spiegel.de)
+ - date published: 2023-11-06T15:41:57.887667+00:00
+ - user: None
+ - tags: ['news', 'germany']
 
 ## sst13 - Quake3 Maps
  - [https://sst13.de](https://sst13.de)
@@ -1305,7 +1498,7 @@
  - [https://fuchsia.dev](https://fuchsia.dev)
  - date published: 2023-11-03T22:14:28.845169+00:00
  - user: None
- - tags: []
+ - tags: ['operating system']
 
 ## fusectore.dev | My blog on programming.
  - [https://fusectore.dev](https://fusectore.dev)
@@ -2536,6 +2729,12 @@
 ## http://www.windmill.dev
  - [http://www.windmill.dev](http://www.windmill.dev)
  - date published: 2023-10-25T18:44:26.132315+00:00
+ - user: None
+ - tags: []
+
+## A corner of the internet for people who love building digital products.
+ - [https://www.wking.dev](https://www.wking.dev)
+ - date published: 2023-11-06T19:19:56.497567+00:00
  - user: None
  - tags: []
 
@@ -3833,6 +4032,12 @@
 ## Penn State University
  - [https://www.psu.edu](https://www.psu.edu)
  - date published: 2023-11-01T07:44:07.480002+00:00
+ - user: None
+ - tags: []
+
+## Purdue University
+ - [https://www.purdue.edu](https://www.purdue.edu)
+ - date published: 2023-11-06T05:55:24.051315+00:00
  - user: None
  - tags: []
 
@@ -5801,210 +6006,6 @@
 ## Particulier | CNIL
  - [https://www.cnil.fr](https://www.cnil.fr)
  - date published: 2023-10-25T19:14:33.796480+00:00
- - user: None
- - tags: []
-
-## CNRS News | Making sense of science
- - [https://news.cnrs.fr](https://news.cnrs.fr)
- - date published: 2023-10-25T19:14:35.947342+00:00
- - user: None
- - tags: []
-
-## Ctrl-Alt-Test - A French Demoscene Group, since 2009
- - [https://www.ctrl-alt-test.fr](https://www.ctrl-alt-test.fr)
- - date published: 2023-10-25T19:14:41.705580+00:00
- - user: None
- - tags: []
-
-## seb.deleuze.fr
- - [https://seb.deleuze.fr](https://seb.deleuze.fr)
- - date published: 2023-10-25T19:14:43.374157+00:00
- - user: None
- - tags: []
-
-## Garage - An open-source distributed object storage service
- - [https://garagehq.deuxfleurs.fr](https://garagehq.deuxfleurs.fr)
- - date published: 2023-10-25T19:14:45.117352+00:00
- - user: None
- - tags: []
-
-## Diátaxis
- - [https://diataxis.fr](https://diataxis.fr)
- - date published: 2023-10-25T19:14:47.414067+00:00
- - user: None
- - tags: []
-
-## EQUIUM - La pompe à chaleur acoustique
- - [https://www.equium.fr](https://www.equium.fr)
- - date published: 2023-10-25T19:14:50.049264+00:00
- - user: None
- - tags: []
-
-## http://pierre.equoy.fr
- - [http://pierre.equoy.fr](http://pierre.equoy.fr)
- - date published: 2023-10-25T19:14:51.741740+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.errno.fr](https://www.errno.fr)
- - date published: 2023-10-25T19:14:53.591095+00:00
- - user: None
- - tags: []
-
-## European Synchrotron Radiation Facility (ESRF)
- - [https://www.esrf.fr](https://www.esrf.fr)
- - date published: 2023-10-25T19:14:58.288540+00:00
- - user: None
- - tags: []
-
-## Actualités et Infos en direct & replay | Europe 1
- - [https://www.europe1.fr](https://www.europe1.fr)
- - date published: 2023-11-05T12:49:53.622670+00:00
- - user: None
- - tags: []
-
-## Fathy Boundjadj
- - [https://fathy.fr](https://fathy.fr)
- - date published: 2023-10-25T19:14:59.727135+00:00
- - user: None
- - tags: []
-
-## Amiga Libraries FTP
- - [https://amiga.foul.fr](https://amiga.foul.fr)
- - date published: 2023-11-02T09:55:43.484734+00:00
- - user: None
- - tags: ['amiga']
-
-## Obligement - L'Amiga au maximum
- - [http://obligement.free.fr](http://obligement.free.fr)
- - date published: 2023-11-02T09:51:57.420141+00:00
- - user: None
- - tags: ['amiga']
-
-## Sign in · GitLab
- - [https://gustedt.gitlabpages.inria.fr](https://gustedt.gitlabpages.inria.fr)
- - date published: 2023-10-25T19:15:07.742650+00:00
- - user: None
- - tags: []
-
-## Centre Inria d'Université Côte d'Azur | Inria
- - [https://www-sop.inria.fr](https://www-sop.inria.fr)
- - date published: 2023-10-25T19:15:12.301697+00:00
- - user: None
- - tags: []
-
-## ipfyx blog
- - [http://ipfyx.fr](http://ipfyx.fr)
- - date published: 2023-10-25T19:15:14.175450+00:00
- - user: None
- - tags: []
-
-## http://dept-info.labri.fr
- - [http://dept-info.labri.fr](http://dept-info.labri.fr)
- - date published: 2023-10-25T19:15:15.685072+00:00
- - user: None
- - tags: []
-
-## Le Figaro - Actualité en direct et informations en continu
- - [https://www.lefigaro.fr](https://www.lefigaro.fr)
- - date published: 2023-10-25T19:15:28.361007+00:00
- - user: None
- - tags: []
-
-## Le Monde.fr - Actualités et Infos en France et dans le monde
- - [https://www.lemonde.fr](https://www.lemonde.fr)
- - date published: 2023-10-25T10:30:38.809449+00:00
- - user: None
- - tags: []
-
-## Julien's DevRel corner
- - [https://lengrand.fr](https://lengrand.fr)
- - date published: 2023-10-25T19:15:29.943632+00:00
- - user: None
- - tags: []
-
-## lesenechal.fr
- - [https://lesenechal.fr](https://lesenechal.fr)
- - date published: 2023-10-25T19:15:30.524166+00:00
- - user: None
- - tags: []
-
-## http://pages.lip6.fr
- - [http://pages.lip6.fr](http://pages.lip6.fr)
- - date published: 2023-10-25T19:15:31.096916+00:00
- - user: None
- - tags: []
-
-## http://www.loicmathieu.fr
- - [http://www.loicmathieu.fr](http://www.loicmathieu.fr)
- - date published: 2023-10-25T19:15:31.436352+00:00
- - user: None
- - tags: []
-
-## Loup Vaillant's Home Page
- - [https://loup-vaillant.fr](https://loup-vaillant.fr)
- - date published: 2023-10-25T19:15:31.999364+00:00
- - user: None
- - tags: []
-
-## La Quadrature du Net - Mastodon - Media Fédéré
- - [https://mamot.fr](https://mamot.fr)
- - date published: 2023-10-25T19:15:32.656881+00:00
- - user: None
- - tags: []
-
-## mdk.fr – Julien Palard
- - [https://mdk.fr](https://mdk.fr)
- - date published: 2023-10-25T19:15:33.507337+00:00
- - user: None
- - tags: []
-
-## Institut Pasteur | Pour la recherche, pour la santé, pour demain
- - [https://www.pasteur.fr](https://www.pasteur.fr)
- - date published: 2023-10-25T19:15:36.559641+00:00
- - user: None
- - tags: []
-
-## RFI - All the news from France, Europe, Africa and the rest of the world.
- - [https://www.rfi.fr](https://www.rfi.fr)
- - date published: 2023-10-25T19:15:39.019325+00:00
- - user: None
- - tags: []
-
-## Siècle Digital - L'actualité internationale de l'économie du numérique
- - [https://siecledigital.fr](https://siecledigital.fr)
- - date published: 2023-10-25T19:15:41.666599+00:00
- - user: None
- - tags: []
-
-## SunEstra
- - [https://sunestra.fr](https://sunestra.fr)
- - date published: 2023-10-25T09:21:54.389722+00:00
- - user: None
- - tags: ['personal']
-
-## The Local - France's news in English
- - [https://www.thelocal.fr](https://www.thelocal.fr)
- - date published: 2023-10-25T19:15:46.734185+00:00
- - user: None
- - tags: []
-
-## http://www.veracrypt.fr
- - [http://www.veracrypt.fr](http://www.veracrypt.fr)
- - date published: 2023-10-25T19:15:47.213628+00:00
- - user: None
- - tags: []
-
-## Victor MARTIN | Machine Learning Engineer
- - [https://vmartin.fr](https://vmartin.fr)
- - date published: 2023-10-25T19:15:48.126680+00:00
- - user: None
- - tags: []
-
-## Flowchart Fun — Fast, Free Online Flowchart Maker
- - [https://flowchart.fun](https://flowchart.fun)
- - date published: 2023-10-25T19:15:48.621117+00:00
  - user: None
  - tags: []
 

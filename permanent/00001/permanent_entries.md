@@ -1,3 +1,33 @@
+## A Frugal Doctor
+ - [https://www.afrugaldoctor.com](https://www.afrugaldoctor.com)
+ - date published: 2023-10-25T12:34:50.329559+00:00
+ - user: None
+ - tags: []
+
+## Age of Miniatures Frontpage
+ - [https://ageofminiatures.com](https://ageofminiatures.com)
+ - date published: 2023-10-27T07:27:48.958410+00:00
+ - user: None
+ - tags: []
+
+## Age of Revolutions – An Open-Access, Peer-Reviewed Journal
+ - [https://ageofrevolutions.com](https://ageofrevolutions.com)
+ - date published: 2023-10-25T12:34:53.490969+00:00
+ - user: None
+ - tags: []
+
+## Age of Sigmar
+ - [https://ageofsigmar.com](https://ageofsigmar.com)
+ - date published: 2023-10-27T12:08:05.552673+00:00
+ - user: None
+ - tags: ['tabletop games', 'warhammer']
+
+## AFN (Europe) - FoodTech, AgTech, Startups, Venture Capital
+ - [https://agfundernews.com](https://agfundernews.com)
+ - date published: 2023-10-25T12:35:05.170467+00:00
+ - user: None
+ - tags: []
+
 ## Home - AGI Sphere
  - [https://agi-sphere.com](https://agi-sphere.com)
  - date published: 2023-10-25T12:35:09.117453+00:00
@@ -1154,7 +1184,7 @@
  - [https://www.apashemusic.com](https://www.apashemusic.com)
  - date published: 2023-10-30T13:35:25.814266+00:00
  - user: None
- - tags: ['music artist']
+ - tags: ['music band']
 
 ## The Aperiodical
  - [https://aperiodical.com](https://aperiodical.com)
@@ -1912,6 +1942,12 @@
  - user: None
  - tags: []
 
+## ATCQ
+ - [https://atribecalledquest.com](https://atribecalledquest.com)
+ - date published: 2023-11-06T11:26:11.153578+00:00
+ - user: None
+ - tags: ['music band']
+
 ## Spotify Research - Spotify’s official research blog : Spotify Research
  - [https://research.atspotify.com](https://research.atspotify.com)
  - date published: 2023-10-25T12:48:11.735370+00:00
@@ -2353,6 +2389,12 @@
 ## bakersfield.com | Kern County news, events, shopping & search
  - [https://www.bakersfield.com](https://www.bakersfield.com)
  - date published: 2023-10-25T12:51:56.284017+00:00
+ - user: None
+ - tags: []
+
+## balajis.com | Substack
+ - [https://balajis.com](https://balajis.com)
+ - date published: 2023-11-06T01:54:36.678817+00:00
  - user: None
  - tags: []
 
@@ -3037,6 +3079,12 @@
 ## Bioinformatics Zen
  - [http://www.bioinformaticszen.com](http://www.bioinformaticszen.com)
  - date published: 2023-10-25T13:00:26.988105+00:00
+ - user: None
+ - tags: []
+
+## Journals Gateway | The Company of Biologists
+ - [https://journals.biologists.com](https://journals.biologists.com)
+ - date published: 2023-11-06T05:14:46.381516+00:00
  - user: None
  - tags: []
 
@@ -5947,54 +5995,6 @@
 ## Cleantech News — #1 In EV, Solar, Wind, Tesla News
  - [https://cleantechnica.com](https://cleantechnica.com)
  - date published: 2023-10-25T13:25:53.572311+00:00
- - user: None
- - tags: []
-
-## Home | Clearleft
- - [https://clearleft.com](https://clearleft.com)
- - date published: 2023-10-25T13:26:02.351814+00:00
- - user: None
- - tags: []
-
-## Clement Neo - Blog
- - [https://clementneo.com](https://clementneo.com)
- - date published: 2023-10-25T09:19:48.402987+00:00
- - user: None
- - tags: ['personal']
-
-## Cleveland 19 News | WOIO | Cleveland, Ohio
- - [https://www.cleveland19.com](https://www.cleveland19.com)
- - date published: 2023-10-25T11:02:33.064071+00:00
- - user: None
- - tags: []
-
-## clevelandjewishnews.com | Award-winning coverage of local, national and world news of Jewish interest.
- - [https://www.clevelandjewishnews.com](https://www.clevelandjewishnews.com)
- - date published: 2023-10-31T03:38:08.908723+00:00
- - user: None
- - tags: []
-
-## Click2Houston | Houston News, Texas News, Weather, Sports | KPRC 2
- - [https://www.click2houston.com](https://www.click2houston.com)
- - date published: 2023-10-25T13:26:13.604036+00:00
- - user: None
- - tags: []
-
-## Click Americana: Your free time machine to revisit good stuff from the past
- - [https://clickamericana.com](https://clickamericana.com)
- - date published: 2023-10-25T13:26:23.255464+00:00
- - user: None
- - tags: []
-
-## Fast Open-Source OLAP DBMS - ClickHouse
- - [https://clickhouse.com](https://clickhouse.com)
- - date published: 2023-10-25T13:26:25.919496+00:00
- - user: None
- - tags: []
-
-## ClickOnDetroit | WDIV Local 4
- - [https://www.clickondetroit.com](https://www.clickondetroit.com)
- - date published: 2023-10-25T13:26:31.744637+00:00
  - user: None
  - tags: []
 

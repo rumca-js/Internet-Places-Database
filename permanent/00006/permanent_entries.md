@@ -1,3 +1,159 @@
+## Stock Images, Photos, Vectors, Video, and Music | Shutterstock
+ - [https://www.shutterstock.com](https://www.shutterstock.com)
+ - date published: 2023-10-25T11:35:43.225421+00:00
+ - user: None
+ - tags: ['assets']
+
+## Shut Up & Sit Down
+ - [https://www.shutupandsitdown.com](https://www.shutupandsitdown.com)
+ - date published: 2023-10-25T11:11:32.580373+00:00
+ - user: None
+ - tags: []
+
+## Latest News from Hyderabad, Telangana, Bollywood, India | Siasat.com
+ - [https://www.siasat.com](https://www.siasat.com)
+ - date published: 2023-10-25T17:03:56.554286+00:00
+ - user: None
+ - tags: []
+
+## siboehm
+ - [https://siboehm.com](https://siboehm.com)
+ - date published: 2023-10-25T17:03:57.531359+00:00
+ - user: None
+ - tags: []
+
+## Cash Prices for Medical Procedures | Sidecar Health Care Calculator
+ - [https://cost.sidecarhealth.com](https://cost.sidecarhealth.com)
+ - date published: 2023-10-25T17:03:58.680063+00:00
+ - user: None
+ - tags: []
+
+## sidsite | The site of Sid.
+ - [https://sidsite.com](https://sidsite.com)
+ - date published: 2023-10-25T17:03:59.649008+00:00
+ - user: None
+ - tags: []
+
+## Sieve: The cloud for video & audio AI
+ - [https://sievedata.com](https://sievedata.com)
+ - date published: 2023-10-25T17:04:03.267450+00:00
+ - user: None
+ - tags: []
+
+## Sieve: The cloud for video & audio AI
+ - [https://www.sievedata.com](https://www.sievedata.com)
+ - date published: 2023-10-25T17:04:06.211318+00:00
+ - user: None
+ - tags: []
+
+## SiFive - Leading the RISC-V Revolution
+ - [https://www.sifive.com](https://www.sifive.com)
+ - date published: 2023-10-25T17:04:08.169028+00:00
+ - user: None
+ - tags: []
+
+## A Neighborhood of Infinity
+ - [http://blog.sigfpe.com](http://blog.sigfpe.com)
+ - date published: 2023-10-25T17:04:10.840798+00:00
+ - user: None
+ - tags: []
+
+## Signal Identification Wiki
+ - [https://www.sigidwiki.com](https://www.sigidwiki.com)
+ - date published: 2023-10-25T17:04:13.723312+00:00
+ - user: None
+ - tags: []
+
+## sigmoid prime
+ - [https://sigmoidprime.com](https://sigmoidprime.com)
+ - date published: 2023-10-25T17:04:14.422223+00:00
+ - user: None
+ - tags: []
+
+## HardwareTeams.com - The #1 job board and blog for electrical and computer engineers. | HardwareTeams.com
+ - [https://signalprocessingjobs.com](https://signalprocessingjobs.com)
+ - date published: 2023-10-25T17:04:23.975007+00:00
+ - user: None
+ - tags: []
+
+## SiliconANGLE
+ - [https://siliconangle.com](https://siliconangle.com)
+ - date published: 2023-10-25T09:35:42.821126+00:00
+ - user: None
+ - tags: []
+
+## Silicon Folklore Intro
+ - [https://siliconfolklore.com](https://siliconfolklore.com)
+ - date published: 2023-10-25T17:04:24.882753+00:00
+ - user: None
+ - tags: []
+
+## Silicon Republic | Technology, science and start-up news
+ - [https://www.siliconrepublic.com](https://www.siliconrepublic.com)
+ - date published: 2023-10-25T17:04:28.463396+00:00
+ - user: None
+ - tags: []
+
+## Silly Co Valley
+ - [https://sillycovalley.com](https://sillycovalley.com)
+ - date published: 2023-10-25T08:35:59.167411+00:00
+ - user: None
+ - tags: []
+
+## Your Azure Function App is up and running.
+ - [https://watermark.silverchair.com](https://watermark.silverchair.com)
+ - date published: 2023-10-25T17:04:29.678704+00:00
+ - user: None
+ - tags: []
+
+## Silverlinings | Silverlinings
+ - [https://www.silverliningsinfo.com](https://www.silverliningsinfo.com)
+ - date published: 2023-10-25T17:04:31.936559+00:00
+ - user: None
+ - tags: []
+
+## Simon Backx
+ - [https://www.simonbackx.com](https://www.simonbackx.com)
+ - date published: 2023-10-25T17:04:32.685077+00:00
+ - user: None
+ - tags: []
+
+## Simon’s Newsletter | Substack
+ - [https://www.simonberens.com](https://www.simonberens.com)
+ - date published: 2023-10-25T09:40:43.632137+00:00
+ - user: None
+ - tags: ['substack']
+
+## Simon Dalvai
+ - [https://simondalvai.com](https://simondalvai.com)
+ - date published: 2023-10-25T17:04:34.162658+00:00
+ - user: None
+ - tags: []
+
+## Simon Grimm
+ - [https://www.simongrimm.com](https://www.simongrimm.com)
+ - date published: 2023-10-25T17:04:35.984500+00:00
+ - user: None
+ - tags: []
+
+## Simon Owen
+ - [https://simonowen.com](https://simonowen.com)
+ - date published: 2023-10-31T19:57:41.845940+00:00
+ - user: None
+ - tags: []
+
+## SIMON WECKERT
+ - [https://simonweckert.com](https://simonweckert.com)
+ - date published: 2023-10-25T17:04:37.109036+00:00
+ - user: None
+ - tags: []
+
+## The privacy-first Google Analytics alternative - Simple Analytics
+ - [https://www.simpleanalytics.com](https://www.simpleanalytics.com)
+ - date published: 2023-10-25T17:04:39.478313+00:00
+ - user: None
+ - tags: []
+
 ## Simple Mobile Tools
  - [https://www.simplemobiletools.com](https://www.simplemobiletools.com)
  - date published: 2023-10-25T17:04:40.615776+00:00
@@ -195,6 +351,12 @@
  - date published: 2023-10-25T17:06:09.862444+00:00
  - user: None
  - tags: []
+
+## The Slackware Linux Project
+ - [https://www.slackware.com](https://www.slackware.com)
+ - date published: 2023-11-06T10:09:19.255807+00:00
+ - user: None
+ - tags: ['linux', 'operating system']
 
 ## SlashGear | Tech, Cars, Gaming, Science, & Reviews
  - [https://www.slashgear.com](https://www.slashgear.com)
@@ -1154,6 +1316,12 @@
 ## Puzzling Stack Exchange
  - [https://puzzling.stackexchange.com](https://puzzling.stackexchange.com)
  - date published: 2023-10-25T17:14:03.428352+00:00
+ - user: None
+ - tags: []
+
+## Raspberry Pi Stack Exchange
+ - [https://raspberrypi.stackexchange.com](https://raspberrypi.stackexchange.com)
+ - date published: 2023-11-06T10:17:19.467869+00:00
  - user: None
  - tags: []
 
@@ -4911,7 +5079,7 @@
  - [https://www.team17.com](https://www.team17.com)
  - date published: 2023-11-01T13:30:58.364849+00:00
  - user: None
- - tags: ['company', 'game studio', 'retro games']
+ - tags: ['retro games', 'amiga', 'company', 'game studio']
 
 ## Blind - The #1 Tech Career Community - Blind
  - [https://www.teamblind.com](https://www.teamblind.com)
@@ -5823,174 +5991,6 @@
 ## Home - The Financial Diet
  - [https://thefinancialdiet.com](https://thefinancialdiet.com)
  - date published: 2023-10-25T17:32:55.918295+00:00
- - user: None
- - tags: []
-
-## Fintech News & Reviews Daily | The Fintech Times
- - [https://thefintechtimes.com](https://thefintechtimes.com)
- - date published: 2023-10-25T17:32:58.805761+00:00
- - user: None
- - tags: []
-
-## The Fitzwilliam | Fitzwilliam Staff | Substack
- - [https://www.thefitzwilliam.com](https://www.thefitzwilliam.com)
- - date published: 2023-10-25T17:33:02.110637+00:00
- - user: None
- - tags: []
-
-## The Free Press
- - [https://www.thefp.com](https://www.thefp.com)
- - date published: 2023-10-25T17:33:05.546830+00:00
- - user: None
- - tags: []
-
-## Dictionary, Encyclopedia and Thesaurus - The Free Dictionary
- - [https://www.thefreedictionary.com](https://www.thefreedictionary.com)
- - date published: 2023-10-25T09:28:50.951090+00:00
- - user: None
- - tags: []
-
-## thefreethoughtproject.com
- - [https://thefreethoughtproject.com](https://thefreethoughtproject.com)
- - date published: 2023-10-25T17:33:10.910442+00:00
- - user: None
- - tags: []
-
-## The Fresh Loaf | A Community of Amateur Bakers and Artisan Bread Enthusiasts.
- - [https://www.thefreshloaf.com](https://www.thefreshloaf.com)
- - date published: 2023-10-25T17:33:13.762985+00:00
- - user: None
- - tags: []
-
-## The Game Chamber | Board Games & Miniatures
- - [https://www.thegamechamber.com](https://www.thegamechamber.com)
- - date published: 2023-10-27T08:02:09.465547+00:00
- - user: None
- - tags: []
-
-## The Game Haus - Sports & Esports news, from our Haus to yours.
- - [https://thegamehaus.com](https://thegamehaus.com)
- - date published: 2023-10-25T10:50:18.776814+00:00
- - user: None
- - tags: []
-
-## The Gateway Pundit
- - [https://www.thegatewaypundit.com](https://www.thegatewaypundit.com)
- - date published: 2023-10-25T17:33:17.157623+00:00
- - user: None
- - tags: []
-
-## Marc Crouch - The Ginger Viking
- - [https://www.thegingerviking.com](https://www.thegingerviking.com)
- - date published: 2023-10-25T17:33:17.978121+00:00
- - user: None
- - tags: []
-
-## The Globe and Mail: Canadian, World, Politics and Business News & Analysis
- - [https://www.theglobeandmail.com](https://www.theglobeandmail.com)
- - date published: 2023-10-25T17:34:27.274173+00:00
- - user: None
- - tags: []
-
-## The Government Rag -
- - [https://thegovernmentrag.com](https://thegovernmentrag.com)
- - date published: 2023-10-25T17:34:35.516598+00:00
- - user: None
- - tags: []
-
-## The Grayzone - The Grayzone
- - [https://thegrayzone.com](https://thegrayzone.com)
- - date published: 2023-10-25T17:34:46.262866+00:00
- - user: None
- - tags: []
-
-## News, sport and opinion from the Guardian's Europe edition | The Guardian
- - [https://www.theguardian.com](https://www.theguardian.com)
- - date published: 2023-10-25T17:34:59.991351+00:00
- - user: None
- - tags: []
-
-## The Hacker News | #1 Trusted Cybersecurity News Site
- - [https://thehackernews.com](https://thehackernews.com)
- - date published: 2023-10-25T09:36:10.524213+00:00
- - user: None
- - tags: ['tech news']
-
-## The HFT Guy – A developer in London
- - [https://thehftguy.com](https://thehftguy.com)
- - date published: 2023-10-25T17:35:02.811605+00:00
- - user: None
- - tags: []
-
-## The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill
- - [https://digital-dev.thehill.com](https://digital-dev.thehill.com)
- - date published: 2023-10-25T17:35:11.876851+00:00
- - user: None
- - tags: []
-
-## The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill
- - [https://thehill.com](https://thehill.com)
- - date published: 2023-10-25T10:28:58.558612+00:00
- - user: None
- - tags: []
-
-## Breaking News Today, Top Headlines, Live Updates | The Hindu
- - [https://www.thehindu.com](https://www.thehindu.com)
- - date published: 2023-10-25T10:45:05.654304+00:00
- - user: None
- - tags: []
-
-## Business Financial, Economy, Market, Stock - News & Updates | The Hindu BusinessLine
- - [https://www.thehindubusinessline.com](https://www.thehindubusinessline.com)
- - date published: 2023-10-25T17:35:19.405660+00:00
- - user: None
- - tags: []
-
-## The History Blog
- - [https://www.thehistoryblog.com](https://www.thehistoryblog.com)
- - date published: 2023-10-25T17:35:27.586648+00:00
- - user: None
- - tags: []
-
-## The History of the Web
- - [https://thehistoryoftheweb.com](https://thehistoryoftheweb.com)
- - date published: 2023-10-25T11:14:27.332034+00:00
- - user: None
- - tags: []
-
-## The IF Life
- - [https://theiflife.com](https://theiflife.com)
- - date published: 2023-10-25T17:35:29.793250+00:00
- - user: None
- - tags: []
-
-## The Information
- - [https://www.theinformation.com](https://www.theinformation.com)
- - date published: 2023-10-25T17:35:34.711500+00:00
- - user: None
- - tags: []
-
-## Insane - TheInsaneApp.com
- - [https://www.theinsaneapp.com](https://www.theinsaneapp.com)
- - date published: 2023-10-25T17:35:37.951848+00:00
- - user: None
- - tags: []
-
-## The Intercept
- - [https://theintercept.com](https://theintercept.com)
- - date published: 2023-10-25T10:29:00.612300+00:00
- - user: None
- - tags: []
-
-## https://www.thejc.com
- - [https://www.thejc.com](https://www.thejc.com)
- - date published: 2023-10-30T20:00:00.128988+00:00
- - user: None
- - tags: []
-
-## thejorgemedina | Jorge Medina | Substack
- - [https://newsletter.thejorgemedina.com](https://newsletter.thejorgemedina.com)
- - date published: 2023-10-27T11:55:47.114642+00:00
  - user: None
  - tags: []
 

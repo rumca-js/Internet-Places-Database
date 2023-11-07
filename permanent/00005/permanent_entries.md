@@ -1,3 +1,126 @@
+## npm | Home
+ - [https://www.npmjs.com](https://www.npmjs.com)
+ - date published: 2023-10-25T16:22:41.165614+00:00
+ - user: None
+ - tags: []
+
+## nikic's Blog
+ - [https://www.npopov.com](https://www.npopov.com)
+ - date published: 2023-10-25T16:22:42.315915+00:00
+ - user: None
+ - tags: []
+
+## NSKYC - The average color of the New York sky
+ - [https://nskyc.com](https://nskyc.com)
+ - date published: 2023-10-25T16:22:44.266267+00:00
+ - user: None
+ - tags: []
+
+## NTD News - Breaking News, Latest News and Videos | NTD
+ - [https://www.ntd.com](https://www.ntd.com)
+ - date published: 2023-10-25T16:22:54.420463+00:00
+ - user: None
+ - tags: []
+
+## NthBrock
+ - [https://www.nthbrock.com](https://www.nthbrock.com)
+ - date published: 2023-10-25T16:22:55.034114+00:00
+ - user: None
+ - tags: []
+
+## hello! | nicole@web
+ - [https://ntietz.com](https://ntietz.com)
+ - date published: 2023-10-25T08:47:22.778087+00:00
+ - user: None
+ - tags: ['personal']
+
+## n-Track Studio | Multitrack recording, editing & mixing software
+ - [https://ntrack.com](https://ntrack.com)
+ - date published: 2023-10-28T18:50:04.541480+00:00
+ - user: None
+ - tags: []
+
+## Restricted Data: The Nuclear Secrecy Blog
+ - [https://blog.nuclearsecrecy.com](https://blog.nuclearsecrecy.com)
+ - date published: 2023-10-25T16:22:59.792200+00:00
+ - user: None
+ - tags: []
+
+## Nucor | 
+         
+             
+                Home
+ - [https://nucor.com](https://nucor.com)
+ - date published: 2023-10-25T16:23:04.186037+00:00
+ - user: None
+ - tags: []
+
+## Nukeni - Cheapest price for Apple products
+ - [https://www.nukeni.com](https://www.nukeni.com)
+ - date published: 2023-10-25T16:23:10.174485+00:00
+ - user: None
+ - tags: []
+
+## null program
+ - [https://nullprogram.com](https://nullprogram.com)
+ - date published: 2023-10-25T08:58:15.798116+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nuno Donato – "receive with simplicity everything that happens to you" ~ Rashi
+ - [https://www.nunodonato.com](https://www.nunodonato.com)
+ - date published: 2023-10-25T16:23:16.851212+00:00
+ - user: None
+ - tags: []
+
+## nutcroft
+ - [https://nutcroft.com](https://nutcroft.com)
+ - date published: 2023-10-25T16:23:18.757272+00:00
+ - user: None
+ - tags: []
+
+## | Nuts & Volts Magazine
+ - [http://www.nutsvolts.com](http://www.nutsvolts.com)
+ - date published: 2023-10-25T16:23:25.758451+00:00
+ - user: None
+ - tags: []
+
+## NVIDIA Blog
+ - [https://blogs.nvidia.com](https://blogs.nvidia.com)
+ - date published: 2023-10-25T11:32:33.263418+00:00
+ - user: None
+ - tags: []
+
+## NVIDIA Developer
+ - [https://developer.nvidia.com](https://developer.nvidia.com)
+ - date published: 2023-10-25T11:32:38.712146+00:00
+ - user: None
+ - tags: []
+
+## Home | NVIDIA Newsroom
+ - [https://nvidianews.nvidia.com](https://nvidianews.nvidia.com)
+ - date published: 2023-10-25T11:30:45.056506+00:00
+ - user: None
+ - tags: []
+
+## Research, Publications & Journals | NVIDIA
+ - [https://research.nvidia.com](https://research.nvidia.com)
+ - date published: 2023-10-25T11:31:49.259630+00:00
+ - user: None
+ - tags: []
+
+## Światowy lider w dziedzinie technologii obliczeniowych opartych na sztucznej inteligencji | NVIDIA
+ - [https://www.nvidia.com](https://www.nvidia.com)
+ - date published: 2023-10-25T11:28:24.272276+00:00
+ - user: None
+ - tags: []
+
+## Home - NXTaltfoods
+ - [https://www.nxtaltfoods.com](https://www.nxtaltfoods.com)
+ - date published: 2023-10-25T16:23:37.700057+00:00
+ - user: None
+ - tags: []
+
 ## Home | The New York Review of Books
  - [https://www.nybooks.com](https://www.nybooks.com)
  - date published: 2023-10-25T16:23:43.264499+00:00
@@ -91,6 +214,18 @@
 ## https://www.occamm.com
  - [https://www.occamm.com](https://www.occamm.com)
  - date published: 2023-10-25T16:24:08.687098+00:00
+ - user: None
+ - tags: []
+
+## Ocean of Games
+ - [https://ocean-of-games.com](https://ocean-of-games.com)
+ - date published: 2023-11-06T12:55:20.842494+00:00
+ - user: None
+ - tags: []
+
+## Ocean of Games
+ - [https://oceanofgames.com](https://oceanofgames.com)
+ - date published: 2023-11-06T13:05:46.128895+00:00
  - user: None
  - tags: []
 
@@ -475,6 +610,12 @@
 ## Advancing connectivity for all | Opensignal
  - [https://www.opensignal.com](https://www.opensignal.com)
  - date published: 2023-10-25T16:26:41.916120+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Open Source Heroes – Explore the world of Open Source
+ - [https://opensource-heroes.com](https://opensource-heroes.com)
+ - date published: 2023-11-06T18:16:28+00:00
  - user: None
  - tags: []
 
@@ -1023,7 +1164,7 @@
  - [https://www.parovstelar.com](https://www.parovstelar.com)
  - date published: 2023-10-30T15:45:25.629658+00:00
  - user: None
- - tags: ['music artist', 'parov stellar']
+ - tags: ['parov stellar', 'music band']
 
 ## Pastebin.com - #1 paste tool since 2002!
  - [https://pastebin.com](https://pastebin.com)
@@ -1546,7 +1687,7 @@
  - [https://www.phoronix.com](https://www.phoronix.com)
  - date published: 2023-10-25T09:34:52.687128+00:00
  - user: None
- - tags: []
+ - tags: ['tech news', 'open source', 'linux']
 
 ## Photopea | Online Photo Editor
  - [https://www.photopea.com](https://www.photopea.com)
@@ -2240,6 +2381,12 @@
  - user: None
  - tags: []
 
+## Practical betterments
+ - [https://practicalbetterments.com](https://practicalbetterments.com)
+ - date published: 2023-11-06T16:16:52.692314+00:00
+ - user: None
+ - tags: []
+
 ## Practical Self Reliance – Your Practical Guide To Self Reliant Living
  - [https://practicalselfreliance.com](https://practicalselfreliance.com)
  - date published: 2023-10-25T16:38:58.139254+00:00
@@ -2623,6 +2770,12 @@
  - date published: 2023-10-25T16:41:52.919701+00:00
  - user: None
  - tags: []
+
+## Landing Page - PS3 Developer wiki
+ - [https://www.psdevwiki.com](https://www.psdevwiki.com)
+ - date published: 2023-11-06T09:59:44.183787+00:00
+ - user: None
+ - tags: ['playstation']
 
 ## psmag.com
  - [https://psmag.com](https://psmag.com)
@@ -4462,6 +4615,12 @@
  - user: None
  - tags: []
 
+## Roland - Global
+ - [https://www.roland.com](https://www.roland.com)
+ - date published: 2023-11-06T09:56:02.793816+00:00
+ - user: None
+ - tags: ['audio equipment']
+
 ## Rolepad - Take the work out of the job search
  - [https://rolepad.com](https://rolepad.com)
  - date published: 2023-10-25T16:54:13.237013+00:00
@@ -4880,7 +5039,7 @@
  - [https://www.salvatoreganacci.com](https://www.salvatoreganacci.com)
  - date published: 2023-10-30T15:37:09.133549+00:00
  - user: None
- - tags: ['music artist']
+ - tags: ['music band']
 
 ## SamaGame – The Gaming News Arena – English
  - [https://samagame.com](https://samagame.com)
@@ -5845,162 +6004,6 @@
 ## Shruggingface - Exploring the future with artificial intelligence
  - [https://www.shruggingface.com](https://www.shruggingface.com)
  - date published: 2023-10-25T17:03:52.789799+00:00
- - user: None
- - tags: []
-
-## Shuffling Bytes | Valtteri Lehtinen
- - [https://shufflingbytes.com](https://shufflingbytes.com)
- - date published: 2023-10-25T17:03:53.519028+00:00
- - user: None
- - tags: []
-
-## Stock Images, Photos, Vectors, Video, and Music | Shutterstock
- - [https://www.shutterstock.com](https://www.shutterstock.com)
- - date published: 2023-10-25T11:35:43.225421+00:00
- - user: None
- - tags: ['assets']
-
-## Shut Up & Sit Down
- - [https://www.shutupandsitdown.com](https://www.shutupandsitdown.com)
- - date published: 2023-10-25T11:11:32.580373+00:00
- - user: None
- - tags: []
-
-## Latest News from Hyderabad, Telangana, Bollywood, India | Siasat.com
- - [https://www.siasat.com](https://www.siasat.com)
- - date published: 2023-10-25T17:03:56.554286+00:00
- - user: None
- - tags: []
-
-## siboehm
- - [https://siboehm.com](https://siboehm.com)
- - date published: 2023-10-25T17:03:57.531359+00:00
- - user: None
- - tags: []
-
-## Cash Prices for Medical Procedures | Sidecar Health Care Calculator
- - [https://cost.sidecarhealth.com](https://cost.sidecarhealth.com)
- - date published: 2023-10-25T17:03:58.680063+00:00
- - user: None
- - tags: []
-
-## sidsite | The site of Sid.
- - [https://sidsite.com](https://sidsite.com)
- - date published: 2023-10-25T17:03:59.649008+00:00
- - user: None
- - tags: []
-
-## Sieve: The cloud for video & audio AI
- - [https://sievedata.com](https://sievedata.com)
- - date published: 2023-10-25T17:04:03.267450+00:00
- - user: None
- - tags: []
-
-## Sieve: The cloud for video & audio AI
- - [https://www.sievedata.com](https://www.sievedata.com)
- - date published: 2023-10-25T17:04:06.211318+00:00
- - user: None
- - tags: []
-
-## SiFive - Leading the RISC-V Revolution
- - [https://www.sifive.com](https://www.sifive.com)
- - date published: 2023-10-25T17:04:08.169028+00:00
- - user: None
- - tags: []
-
-## A Neighborhood of Infinity
- - [http://blog.sigfpe.com](http://blog.sigfpe.com)
- - date published: 2023-10-25T17:04:10.840798+00:00
- - user: None
- - tags: []
-
-## Signal Identification Wiki
- - [https://www.sigidwiki.com](https://www.sigidwiki.com)
- - date published: 2023-10-25T17:04:13.723312+00:00
- - user: None
- - tags: []
-
-## sigmoid prime
- - [https://sigmoidprime.com](https://sigmoidprime.com)
- - date published: 2023-10-25T17:04:14.422223+00:00
- - user: None
- - tags: []
-
-## HardwareTeams.com - The #1 job board and blog for electrical and computer engineers. | HardwareTeams.com
- - [https://signalprocessingjobs.com](https://signalprocessingjobs.com)
- - date published: 2023-10-25T17:04:23.975007+00:00
- - user: None
- - tags: []
-
-## SiliconANGLE
- - [https://siliconangle.com](https://siliconangle.com)
- - date published: 2023-10-25T09:35:42.821126+00:00
- - user: None
- - tags: []
-
-## Silicon Folklore Intro
- - [https://siliconfolklore.com](https://siliconfolklore.com)
- - date published: 2023-10-25T17:04:24.882753+00:00
- - user: None
- - tags: []
-
-## Silicon Republic | Technology, science and start-up news
- - [https://www.siliconrepublic.com](https://www.siliconrepublic.com)
- - date published: 2023-10-25T17:04:28.463396+00:00
- - user: None
- - tags: []
-
-## Silly Co Valley
- - [https://sillycovalley.com](https://sillycovalley.com)
- - date published: 2023-10-25T08:35:59.167411+00:00
- - user: None
- - tags: []
-
-## Your Azure Function App is up and running.
- - [https://watermark.silverchair.com](https://watermark.silverchair.com)
- - date published: 2023-10-25T17:04:29.678704+00:00
- - user: None
- - tags: []
-
-## Silverlinings | Silverlinings
- - [https://www.silverliningsinfo.com](https://www.silverliningsinfo.com)
- - date published: 2023-10-25T17:04:31.936559+00:00
- - user: None
- - tags: []
-
-## Simon Backx
- - [https://www.simonbackx.com](https://www.simonbackx.com)
- - date published: 2023-10-25T17:04:32.685077+00:00
- - user: None
- - tags: []
-
-## Simon’s Newsletter | Substack
- - [https://www.simonberens.com](https://www.simonberens.com)
- - date published: 2023-10-25T09:40:43.632137+00:00
- - user: None
- - tags: ['substack']
-
-## Simon Dalvai
- - [https://simondalvai.com](https://simondalvai.com)
- - date published: 2023-10-25T17:04:34.162658+00:00
- - user: None
- - tags: []
-
-## Simon Grimm
- - [https://www.simongrimm.com](https://www.simongrimm.com)
- - date published: 2023-10-25T17:04:35.984500+00:00
- - user: None
- - tags: []
-
-## Simon Owen
- - [https://simonowen.com](https://simonowen.com)
- - date published: 2023-10-31T19:57:41.845940+00:00
- - user: None
- - tags: []
-
-## SIMON WECKERT
- - [https://simonweckert.com](https://simonweckert.com)
- - date published: 2023-10-25T17:04:37.109036+00:00
  - user: None
  - tags: []
 

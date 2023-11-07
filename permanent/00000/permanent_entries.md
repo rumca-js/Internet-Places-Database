@@ -166,6 +166,12 @@
  - user: None
  - tags: []
 
+## 零一万物-AI2.0大模型技术和应用的全球公司（01.ai）
+ - [https://www.01.ai](https://www.01.ai)
+ - date published: 2023-11-06T06:15:11.901481+00:00
+ - user: None
+ - tags: []
+
 ## The Abacus.AI Blog
  - [https://blog.abacus.ai](https://blog.abacus.ai)
  - date published: 2023-10-25T11:36:29.098403+00:00
@@ -1180,11 +1186,23 @@
  - user: None
  - tags: []
 
+## Announcing Grok
+ - [https://x.ai](https://x.ai)
+ - date published: 2023-11-06T17:18:02.778679+00:00
+ - user: None
+ - tags: []
+
 ## Aral Balkan
  - [https://ar.al](https://ar.al)
  - date published: 2023-10-25T08:41:38.253677+00:00
  - user: None
  - tags: ['personal']
+
+## CNA - Pa censurë!
+ - [https://www.cna.al](https://www.cna.al)
+ - date published: 2023-11-06T08:34:19.526910+00:00
+ - user: None
+ - tags: []
 
 ## decomposition ∘ al
  - [https://decomposition.al](https://decomposition.al)
@@ -3171,7 +3189,7 @@
  - [https://www.canada.ca](https://www.canada.ca)
  - date published: 2023-10-25T11:26:45.357716+00:00
  - user: None
- - tags: []
+ - tags: ['canada', 'government']
 
 ## CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
  - [https://www.cbc.ca](https://www.cbc.ca)
@@ -3230,6 +3248,12 @@
 ## CTV News - Breaking News, Canada News Today
  - [http://www.ctvnews.ca](http://www.ctvnews.ca)
  - date published: 2023-10-25T10:56:16.934571+00:00
+ - user: None
+ - tags: []
+
+## Cypherpunks Canada
+ - [https://cypherpunks.ca](https://cypherpunks.ca)
+ - date published: 2023-11-06T12:33:33.276999+00:00
  - user: None
  - tags: []
 
@@ -5580,6 +5604,12 @@
  - user: None
  - tags: []
 
+## Charleston News, Weather, Sports, Breaking News | WCIV
+ - [https://abcnews4.com](https://abcnews4.com)
+ - date published: 2023-11-06T20:23:15.804452+00:00
+ - user: None
+ - tags: []
+
 ## Abenezer Belachew / Software Developer
  - [https://www.abenezerbelachew.com](https://www.abenezerbelachew.com)
  - date published: 2023-10-30T08:53:04.273441+00:00
@@ -5963,34 +5993,4 @@
  - date published: 2023-10-25T12:34:42.761602+00:00
  - user: None
  - tags: []
-
-## AfroTech
- - [https://afrotech.com](https://afrotech.com)
- - date published: 2023-10-25T12:34:47.438342+00:00
- - user: None
- - tags: []
-
-## A Frugal Doctor
- - [https://www.afrugaldoctor.com](https://www.afrugaldoctor.com)
- - date published: 2023-10-25T12:34:50.329559+00:00
- - user: None
- - tags: []
-
-## Age of Miniatures Frontpage
- - [https://ageofminiatures.com](https://ageofminiatures.com)
- - date published: 2023-10-27T07:27:48.958410+00:00
- - user: None
- - tags: []
-
-## Age of Revolutions – An Open-Access, Peer-Reviewed Journal
- - [https://ageofrevolutions.com](https://ageofrevolutions.com)
- - date published: 2023-10-25T12:34:53.490969+00:00
- - user: None
- - tags: []
-
-## Age of Sigmar
- - [https://ageofsigmar.com](https://ageofsigmar.com)
- - date published: 2023-10-27T12:08:05.552673+00:00
- - user: None
- - tags: ['tabletop games', 'warhammer']
 

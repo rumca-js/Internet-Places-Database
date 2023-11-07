@@ -1,3 +1,207 @@
+## Ctrl-Alt-Test - A French Demoscene Group, since 2009
+ - [https://www.ctrl-alt-test.fr](https://www.ctrl-alt-test.fr)
+ - date published: 2023-10-25T19:14:41.705580+00:00
+ - user: None
+ - tags: []
+
+## seb.deleuze.fr
+ - [https://seb.deleuze.fr](https://seb.deleuze.fr)
+ - date published: 2023-10-25T19:14:43.374157+00:00
+ - user: None
+ - tags: []
+
+## Garage - An open-source distributed object storage service
+ - [https://garagehq.deuxfleurs.fr](https://garagehq.deuxfleurs.fr)
+ - date published: 2023-10-25T19:14:45.117352+00:00
+ - user: None
+ - tags: []
+
+## Diátaxis
+ - [https://diataxis.fr](https://diataxis.fr)
+ - date published: 2023-10-25T19:14:47.414067+00:00
+ - user: None
+ - tags: []
+
+## EQUIUM - La pompe à chaleur acoustique
+ - [https://www.equium.fr](https://www.equium.fr)
+ - date published: 2023-10-25T19:14:50.049264+00:00
+ - user: None
+ - tags: []
+
+## http://pierre.equoy.fr
+ - [http://pierre.equoy.fr](http://pierre.equoy.fr)
+ - date published: 2023-10-25T19:14:51.741740+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.errno.fr](https://www.errno.fr)
+ - date published: 2023-10-25T19:14:53.591095+00:00
+ - user: None
+ - tags: []
+
+## European Synchrotron Radiation Facility (ESRF)
+ - [https://www.esrf.fr](https://www.esrf.fr)
+ - date published: 2023-10-25T19:14:58.288540+00:00
+ - user: None
+ - tags: []
+
+## Actualités et Infos en direct & replay | Europe 1
+ - [https://www.europe1.fr](https://www.europe1.fr)
+ - date published: 2023-11-05T12:49:53.622670+00:00
+ - user: None
+ - tags: []
+
+## Fathy Boundjadj
+ - [https://fathy.fr](https://fathy.fr)
+ - date published: 2023-10-25T19:14:59.727135+00:00
+ - user: None
+ - tags: []
+
+## Amiga Libraries FTP
+ - [https://amiga.foul.fr](https://amiga.foul.fr)
+ - date published: 2023-11-02T09:55:43.484734+00:00
+ - user: None
+ - tags: ['amiga']
+
+## Obligement - L'Amiga au maximum
+ - [http://obligement.free.fr](http://obligement.free.fr)
+ - date published: 2023-11-02T09:51:57.420141+00:00
+ - user: None
+ - tags: ['amiga']
+
+## Sign in · GitLab
+ - [https://gustedt.gitlabpages.inria.fr](https://gustedt.gitlabpages.inria.fr)
+ - date published: 2023-10-25T19:15:07.742650+00:00
+ - user: None
+ - tags: []
+
+## Centre Inria d'Université Côte d'Azur | Inria
+ - [https://www-sop.inria.fr](https://www-sop.inria.fr)
+ - date published: 2023-10-25T19:15:12.301697+00:00
+ - user: None
+ - tags: []
+
+## ipfyx blog
+ - [http://ipfyx.fr](http://ipfyx.fr)
+ - date published: 2023-10-25T19:15:14.175450+00:00
+ - user: None
+ - tags: []
+
+## http://dept-info.labri.fr
+ - [http://dept-info.labri.fr](http://dept-info.labri.fr)
+ - date published: 2023-10-25T19:15:15.685072+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro - Actualité en direct et informations en continu
+ - [https://www.lefigaro.fr](https://www.lefigaro.fr)
+ - date published: 2023-10-25T19:15:28.361007+00:00
+ - user: None
+ - tags: []
+
+## Le Monde.fr - Actualités et Infos en France et dans le monde
+ - [https://www.lemonde.fr](https://www.lemonde.fr)
+ - date published: 2023-10-25T10:30:38.809449+00:00
+ - user: None
+ - tags: []
+
+## Julien's DevRel corner
+ - [https://lengrand.fr](https://lengrand.fr)
+ - date published: 2023-10-25T19:15:29.943632+00:00
+ - user: None
+ - tags: []
+
+## lesenechal.fr
+ - [https://lesenechal.fr](https://lesenechal.fr)
+ - date published: 2023-10-25T19:15:30.524166+00:00
+ - user: None
+ - tags: []
+
+## http://pages.lip6.fr
+ - [http://pages.lip6.fr](http://pages.lip6.fr)
+ - date published: 2023-10-25T19:15:31.096916+00:00
+ - user: None
+ - tags: []
+
+## http://www.loicmathieu.fr
+ - [http://www.loicmathieu.fr](http://www.loicmathieu.fr)
+ - date published: 2023-10-25T19:15:31.436352+00:00
+ - user: None
+ - tags: []
+
+## Loup Vaillant's Home Page
+ - [https://loup-vaillant.fr](https://loup-vaillant.fr)
+ - date published: 2023-10-25T19:15:31.999364+00:00
+ - user: None
+ - tags: []
+
+## La Quadrature du Net - Mastodon - Media Fédéré
+ - [https://mamot.fr](https://mamot.fr)
+ - date published: 2023-10-25T19:15:32.656881+00:00
+ - user: None
+ - tags: []
+
+## mdk.fr – Julien Palard
+ - [https://mdk.fr](https://mdk.fr)
+ - date published: 2023-10-25T19:15:33.507337+00:00
+ - user: None
+ - tags: []
+
+## Institut Pasteur | Pour la recherche, pour la santé, pour demain
+ - [https://www.pasteur.fr](https://www.pasteur.fr)
+ - date published: 2023-10-25T19:15:36.559641+00:00
+ - user: None
+ - tags: []
+
+## RFI - All the news from France, Europe, Africa and the rest of the world.
+ - [https://www.rfi.fr](https://www.rfi.fr)
+ - date published: 2023-10-25T19:15:39.019325+00:00
+ - user: None
+ - tags: []
+
+## Siècle Digital - L'actualité internationale de l'économie du numérique
+ - [https://siecledigital.fr](https://siecledigital.fr)
+ - date published: 2023-10-25T19:15:41.666599+00:00
+ - user: None
+ - tags: []
+
+## SunEstra
+ - [https://sunestra.fr](https://sunestra.fr)
+ - date published: 2023-10-25T09:21:54.389722+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Local - France's news in English
+ - [https://www.thelocal.fr](https://www.thelocal.fr)
+ - date published: 2023-10-25T19:15:46.734185+00:00
+ - user: None
+ - tags: []
+
+## http://www.veracrypt.fr
+ - [http://www.veracrypt.fr](http://www.veracrypt.fr)
+ - date published: 2023-10-25T19:15:47.213628+00:00
+ - user: None
+ - tags: []
+
+## Victor MARTIN | Machine Learning Engineer
+ - [https://vmartin.fr](https://vmartin.fr)
+ - date published: 2023-10-25T19:15:48.126680+00:00
+ - user: None
+ - tags: []
+
+## Flowchart Fun — Fast, Free Online Flowchart Maker
+ - [https://flowchart.fun](https://flowchart.fun)
+ - date published: 2023-10-25T19:15:48.621117+00:00
+ - user: None
+ - tags: []
+
+## Neal.fun
+ - [https://neal.fun](https://neal.fun)
+ - date published: 2023-10-25T19:15:49.467863+00:00
+ - user: None
+ - tags: []
+
 ## The Autopilot Fund
  - [https://blog.autopilot.fund](https://blog.autopilot.fund)
  - date published: 2023-10-25T19:15:50.122692+00:00
@@ -238,6 +442,12 @@
  - user: None
  - tags: []
 
+## Civil Georgia
+ - [https://civil.ge](https://civil.ge)
+ - date published: 2023-11-06T23:14:45.688164+00:00
+ - user: None
+ - tags: []
+
 ## http://gebir.ge
  - [http://gebir.ge](http://gebir.ge)
  - date published: 2023-10-25T19:17:06.678927+00:00
@@ -313,6 +523,12 @@
 ## Homepage | Toyota Research Institute
  - [https://www.tri.global](https://www.tri.global)
  - date published: 2023-10-25T19:17:16.769072+00:00
+ - user: None
+ - tags: []
+
+## Google Translate
+ - [https://www-bild-de.translate.goog](https://www-bild-de.translate.goog)
+ - date published: 2023-11-06T18:03:15.833718+00:00
  - user: None
  - tags: []
 
@@ -3237,6 +3453,12 @@
  - user: None
  - tags: []
 
+## The thoughtful, capable, and ethical replacement for Windows and macOS ⋅ elementary OS
+ - [https://elementary.io](https://elementary.io)
+ - date published: 2023-11-06T10:12:43.278462+00:00
+ - user: None
+ - tags: ['linux', 'operating system']
+
 ## https://beta.elevenlabs.io
  - [https://beta.elevenlabs.io](https://beta.elevenlabs.io)
  - date published: 2023-10-25T19:41:58.716242+00:00
@@ -3306,6 +3528,12 @@
 ## The EV Universe
  - [https://www.evuniverse.io](https://www.evuniverse.io)
  - date published: 2023-10-25T19:42:17.038711+00:00
+ - user: None
+ - tags: []
+
+## Ewan Valentine | Home
+ - [https://ewanvalentine.io](https://ewanvalentine.io)
+ - date published: 2023-11-06T08:14:47.316226+00:00
  - user: None
  - tags: []
 
@@ -4027,6 +4255,12 @@ through Composable Diffusion
 ## dtinth.github.io
  - [https://dtinth.github.io](https://dtinth.github.io)
  - date published: 2023-10-25T19:45:10.444392+00:00
+ - user: None
+ - tags: []
+
+## Damian Bogunowicz - dtransposed
+ - [https://dtransposed.github.io](https://dtransposed.github.io)
+ - date published: 2023-11-06T13:53:20.330919+00:00
  - user: None
  - tags: []
 
@@ -5762,240 +5996,6 @@ through Composable Diffusion
 ## High Signal - startup news and interviews with founders
  - [https://www.highsignal.io](https://www.highsignal.io)
  - date published: 2023-10-25T19:56:35.856286+00:00
- - user: None
- - tags: []
-
-## Hivekit - Build amazing geospatial apps
- - [https://hivekit.io](https://hivekit.io)
- - date published: 2023-10-25T19:56:36.813918+00:00
- - user: None
- - tags: []
-
-## Matthew Hodgkins Blog
- - [https://hodgkins.io](https://hodgkins.io)
- - date published: 2023-10-29T14:00:30.252607+00:00
- - user: None
- - tags: []
-
-## Home Assistant Community
- - [https://community.home-assistant.io](https://community.home-assistant.io)
- - date published: 2023-11-01T13:42:47.519479+00:00
- - user: None
- - tags: []
-
-## Home Assistant
- - [https://www.home-assistant.io](https://www.home-assistant.io)
- - date published: 2023-10-25T08:33:17.353283+00:00
- - user: None
- - tags: []
-
-## Observability for Distributed Services | Honeycomb
- - [https://www.honeycomb.io](https://www.honeycomb.io)
- - date published: 2023-10-25T19:56:44.725039+00:00
- - user: None
- - tags: []
-
-## https://cult.honeypot.io
- - [https://cult.honeypot.io](https://cult.honeypot.io)
- - date published: 2023-10-25T19:56:47.304525+00:00
- - user: None
- - tags: []
-
-## Alexandre Defossez AI homepage
- - [https://ai.honu.io](https://ai.honu.io)
- - date published: 2023-10-25T19:56:49.150077+00:00
- - user: None
- - tags: []
-
-## Hydra - Fast Postgres Analytics ++
- - [https://hydras.io](https://hydras.io)
- - date published: 2023-10-25T19:57:02.346775+00:00
- - user: None
- - tags: []
-
-## Hyperswitch | More power to your payments
- - [https://hyperswitch.io](https://hyperswitch.io)
- - date published: 2023-10-25T19:57:04.241273+00:00
- - user: None
- - tags: []
-
-## IBRAMENU - Automation & Deployment System
- - [https://ibramenu.io](https://ibramenu.io)
- - date published: 2023-10-25T19:57:07.102425+00:00
- - user: None
- - tags: []
-
-## We Analyzed 425,909 Favicons
- - [https://iconmap.io](https://iconmap.io)
- - date published: 2023-10-25T19:57:09.705620+00:00
- - user: None
- - tags: []
-
-## ImageUpload.io — Image Upload Direct Link for FREE
- - [https://imageupload.io](https://imageupload.io)
- - date published: 2023-11-02T10:59:47.799558+00:00
- - user: None
- - tags: []
-
-## Imba - The friendly full-stack language!
- - [https://imba.io](https://imba.io)
- - date published: 2023-10-25T19:57:11.205980+00:00
- - user: None
- - tags: []
-
-## Img2Prompt
- - [https://www.img2prompt.io](https://www.img2prompt.io)
- - date published: 2023-10-25T19:57:12.510590+00:00
- - user: None
- - tags: []
-
-## incident.io — Incident management that brings calm to chaos
- - [https://incident.io](https://incident.io)
- - date published: 2023-10-25T19:57:14.644771+00:00
- - user: None
- - tags: []
-
-## Indigo
- - [https://indigoengine.io](https://indigoengine.io)
- - date published: 2023-10-25T08:35:39.867270+00:00
- - user: None
- - tags: []
-
-## Infracost: The Cloud’s Checkout Screen
- - [https://infracost.io](https://infracost.io)
- - date published: 2023-10-25T19:57:18.523836+00:00
- - user: None
- - tags: []
-
-## IngestAI.io – The AI Trained on Your Business – Artificial Intelligence Powered Knowledge Base
- - [https://ingestai.io](https://ingestai.io)
- - date published: 2023-10-25T19:57:23.010796+00:00
- - user: None
- - tags: []
-
-## Interpeer Project
- - [https://interpeer.io](https://interpeer.io)
- - date published: 2023-10-25T19:57:24.660916+00:00
- - user: None
- - tags: []
-
-## Blog | interviewing.io
- - [https://blog.interviewing.io](https://blog.interviewing.io)
- - date published: 2023-10-25T19:57:27.977991+00:00
- - user: None
- - tags: []
-
-## Anonymous mock interviews with engineers from FAANG and more | interviewing.io
- - [https://interviewing.io](https://interviewing.io)
- - date published: 2023-10-25T19:57:29.822787+00:00
- - user: None
- - tags: []
-
-## Investor Radar
- - [https://www.investorradar.io](https://www.investorradar.io)
- - date published: 2023-10-25T19:57:31.409326+00:00
- - user: None
- - tags: []
-
-## Invidious
- - [https://invidious.io](https://invidious.io)
- - date published: 2023-10-25T08:30:27.273833+00:00
- - user: None
- - tags: ['video streaming', 'youtube']
-
-## Select instance - Invidious
- - [https://redirect.invidious.io](https://redirect.invidious.io)
- - date published: 2023-10-24T20:05:59.872912+00:00
- - user: None
- - tags: []
-
-## Ionic: Enterprise App Platform
- - [https://ionic.io](https://ionic.io)
- - date published: 2023-10-25T08:40:05.862288+00:00
- - user: None
- - tags: []
-
-## An open system to manage data without a central server | IPFS
- - [https://ipfs.io](https://ipfs.io)
- - date published: 2023-10-25T19:57:39.545409+00:00
- - user: None
- - tags: []
-
-## AriNeonShark - itch.io
- - [https://arineonshark.itch.io](https://arineonshark.itch.io)
- - date published: 2023-10-25T19:57:41.797330+00:00
- - user: None
- - tags: []
-
-## BlackwellWriter - itch.io
- - [https://blackwellwriter.itch.io](https://blackwellwriter.itch.io)
- - date published: 2023-10-25T19:57:45.103109+00:00
- - user: None
- - tags: []
-
-## codav - itch.io
- - [https://codav.itch.io](https://codav.itch.io)
- - date published: 2023-10-25T19:57:46.903191+00:00
- - user: None
- - tags: []
-
-## DaFluffyPotato - itch.io
- - [https://dafluffypotato.itch.io](https://dafluffypotato.itch.io)
- - date published: 2023-10-25T19:57:49.574367+00:00
- - user: None
- - tags: []
-
-## dukope - itch.io
- - [https://dukope.itch.io](https://dukope.itch.io)
- - date published: 2023-10-25T19:57:51.516696+00:00
- - user: None
- - tags: []
-
-## Edward La Barbera - itch.io
- - [https://edward-la-barbera.itch.io](https://edward-la-barbera.itch.io)
- - date published: 2023-10-25T19:57:53.615759+00:00
- - user: None
- - tags: []
-
-## Haplo - itch.io
- - [https://h4plo.itch.io](https://h4plo.itch.io)
- - date published: 2023-10-25T19:57:55.830373+00:00
- - user: None
- - tags: []
-
-## Download the latest indie games
- - [https://itch.io](https://itch.io)
- - date published: 2023-10-24T20:10:45.851043+00:00
- - user: None
- - tags: ['game store']
-
-## jimbo - itch.io
- - [https://jimbo.itch.io](https://jimbo.itch.io)
- - date published: 2023-10-25T19:57:58.091881+00:00
- - user: None
- - tags: []
-
-## jimhall - itch.io
- - [https://jimhall.itch.io](https://jimhall.itch.io)
- - date published: 2023-10-25T19:57:59.993232+00:00
- - user: None
- - tags: []
-
-## Johan Peitz - itch.io
- - [https://johanpeitz.itch.io](https://johanpeitz.itch.io)
- - date published: 2023-10-25T19:58:02.347390+00:00
- - user: None
- - tags: []
-
-## Antoine L. - itch.io
- - [https://ledoc.itch.io](https://ledoc.itch.io)
- - date published: 2023-10-25T19:58:04.823346+00:00
- - user: None
- - tags: []
-
-## The Bibites - itch.io
- - [https://leocaussan.itch.io](https://leocaussan.itch.io)
- - date published: 2023-10-25T19:58:07.357268+00:00
  - user: None
  - tags: []
 

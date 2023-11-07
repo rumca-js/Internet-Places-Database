@@ -1,3 +1,51 @@
+## Clement Neo - Blog
+ - [https://clementneo.com](https://clementneo.com)
+ - date published: 2023-10-25T09:19:48.402987+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cleveland 19 News | WOIO | Cleveland, Ohio
+ - [https://www.cleveland19.com](https://www.cleveland19.com)
+ - date published: 2023-10-25T11:02:33.064071+00:00
+ - user: None
+ - tags: []
+
+## clevelandjewishnews.com | Award-winning coverage of local, national and world news of Jewish interest.
+ - [https://www.clevelandjewishnews.com](https://www.clevelandjewishnews.com)
+ - date published: 2023-10-31T03:38:08.908723+00:00
+ - user: None
+ - tags: []
+
+## Click2Houston | Houston News, Texas News, Weather, Sports | KPRC 2
+ - [https://www.click2houston.com](https://www.click2houston.com)
+ - date published: 2023-10-25T13:26:13.604036+00:00
+ - user: None
+ - tags: []
+
+## Click Americana: Your free time machine to revisit good stuff from the past
+ - [https://clickamericana.com](https://clickamericana.com)
+ - date published: 2023-10-25T13:26:23.255464+00:00
+ - user: None
+ - tags: []
+
+## Fast Open-Source OLAP DBMS - ClickHouse
+ - [https://clickhouse.com](https://clickhouse.com)
+ - date published: 2023-10-25T13:26:25.919496+00:00
+ - user: None
+ - tags: []
+
+## ClickOnDetroit | WDIV Local 4
+ - [https://www.clickondetroit.com](https://www.clickondetroit.com)
+ - date published: 2023-10-25T13:26:31.744637+00:00
+ - user: None
+ - tags: []
+
+## Cliffle
+ - [https://cliffle.com](https://cliffle.com)
+ - date published: 2023-10-25T13:26:33.249479+00:00
+ - user: None
+ - tags: []
+
 ## Climate Drift | Marco & Skander | Substack
  - [https://www.climatedrift.com](https://www.climatedrift.com)
  - date published: 2023-10-25T09:40:02.589131+00:00
@@ -139,6 +187,12 @@
 ## CnEVPost - China EV news, data, insights and more
  - [https://cnevpost.com](https://cnevpost.com)
  - date published: 2023-10-25T10:55:02.595046+00:00
+ - user: None
+ - tags: []
+
+## Breaking News, Latest News and Videos | CNN
+ - [https://amp.cnn.com](https://amp.cnn.com)
+ - date published: 2023-11-06T15:59:27.176146+00:00
  - user: None
  - tags: []
 
@@ -1960,6 +2014,12 @@
  - user: None
  - tags: []
 
+## DD-WRT
+ - [https://dd-wrt.com](https://dd-wrt.com)
+ - date published: 2023-11-06T10:05:15.978362+00:00
+ - user: None
+ - tags: ['linux', 'operating system']
+
 ## Deadline – Hollywood Entertainment Breaking News
  - [https://deadline.com](https://deadline.com)
  - date published: 2023-10-25T10:17:40.928660+00:00
@@ -2205,6 +2265,12 @@
  - date published: 2023-10-25T10:51:12.729993+00:00
  - user: None
  - tags: ['movies', 'fantasy', 'games', 'news']
+
+## Homepage
+ - [https://www.denver7.com](https://www.denver7.com)
+ - date published: 2023-11-06T03:55:12.502837+00:00
+ - user: None
+ - tags: []
 
 ## Denver News, Sports & Business | Denver Gazette, N
  - [https://denvergazette.com](https://denvergazette.com)
@@ -5523,7 +5589,7 @@
  - [https://focusrite.com](https://focusrite.com)
  - date published: 2023-10-30T18:33:00.064219+00:00
  - user: None
- - tags: ['scarlett', 'audio hardware']
+ - tags: ['audio equipment', 'scarlett']
 
 ## Fold 'N Fly » Paper Airplane Folding Instructions
  - [https://www.foldnfly.com](https://www.foldnfly.com)
@@ -5564,6 +5630,18 @@
 ## Fonts Plugin | Google Fonts for WordPress
  - [https://fontsplugin.com](https://fontsplugin.com)
  - date published: 2023-10-25T14:34:24.794642+00:00
+ - user: None
+ - tags: []
+
+## FoodBev Media
+ - [https://www.foodbev.com](https://www.foodbev.com)
+ - date published: 2023-11-06T23:21:46.548226+00:00
+ - user: None
+ - tags: []
+
+## https://www.foodlogistics.com
+ - [https://www.foodlogistics.com](https://www.foodlogistics.com)
+ - date published: 2023-11-06T12:50:59.714989+00:00
  - user: None
  - tags: []
 
@@ -5843,6 +5921,12 @@
  - user: None
  - tags: []
 
+## FPGAjobs - Jobs for Logic Designers!
+ - [https://www.fpgajobs.com](https://www.fpgajobs.com)
+ - date published: 2023-11-06T13:53:26.006456+00:00
+ - user: None
+ - tags: []
+
 ## Morphing Fractal Engraving Vise Jaws
  - [https://fractalvise.com](https://fractalvise.com)
  - date published: 2023-10-25T14:37:12.415206+00:00
@@ -5912,90 +5996,6 @@
 ## Detroit Free Press - Home
  - [https://www.freep.com](https://www.freep.com)
  - date published: 2023-10-25T14:37:45.876385+00:00
- - user: None
- - tags: []
-
-## Freepik: Download Free Videos, Vectors, Photos, and PSD
- - [https://www.freepik.com](https://www.freepik.com)
- - date published: 2023-10-25T14:37:49.693989+00:00
- - user: None
- - tags: []
-
-## FreeRDP
- - [https://www.freerdp.com](https://www.freerdp.com)
- - date published: 2023-10-25T14:37:51.172396+00:00
- - user: None
- - tags: []
-
-## Latest Articles
- - [https://freerepublic.com](https://freerepublic.com)
- - date published: 2023-10-25T14:37:55.802675+00:00
- - user: None
- - tags: []
-
-## Freethink - Move the World
- - [https://www.freethink.com](https://www.freethink.com)
- - date published: 2023-10-25T14:38:09.460936+00:00
- - user: None
- - tags: []
-
-## Supply Chain, Logistics, and Trucking News & Data - FreightWaves
- - [https://www.freightwaves.com](https://www.freightwaves.com)
- - date published: 2023-10-25T14:38:16.495067+00:00
- - user: None
- - tags: []
-
-## Fretboard Fly | Games for musicians
- - [https://www.fretboardfly.com](https://www.fretboardfly.com)
- - date published: 2023-10-25T14:38:18.866372+00:00
- - user: None
- - tags: []
-
-## Friendly Captcha - GDPR-Compliant Bot Protection
- - [https://friendlycaptcha.com](https://friendlycaptcha.com)
- - date published: 2023-10-25T14:38:20.875386+00:00
- - user: None
- - tags: []
-
-## Friendster
- - [https://friendster.com](https://friendster.com)
- - date published: 2023-11-03T08:29:40.931350+00:00
- - user: None
- - tags: []
-
-## Frigade – Build better product onboarding, faster.
- - [https://frigade.com](https://frigade.com)
- - date published: 2023-10-25T14:38:29.995888+00:00
- - user: None
- - tags: []
-
-## http://www.frobocode.com
- - [http://www.frobocode.com](http://www.frobocode.com)
- - date published: 2023-10-25T14:38:42.952747+00:00
- - user: None
- - tags: []
-
-## OneBite.Dev - Coding blog in a bite size
- - [https://fromdevtodev.com](https://fromdevtodev.com)
- - date published: 2023-10-25T14:38:53.656381+00:00
- - user: None
- - tags: []
-
-## Frontend Masters — Learn JavaScript, React, Vue & Angular from Masters of Front-End Development! | Frontend Masters
- - [https://frontendmasters.com](https://frontendmasters.com)
- - date published: 2023-10-25T14:38:56.831068+00:00
- - user: None
- - tags: []
-
-## Frontend Mastery
- - [https://frontendmastery.com](https://frontendmastery.com)
- - date published: 2023-10-25T14:39:00.390979+00:00
- - user: None
- - tags: []
-
-## Frore Systems
- - [https://www.froresystems.com](https://www.froresystems.com)
- - date published: 2023-10-25T14:39:04.489972+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,237 @@
+## Matthew Hodgkins Blog
+ - [https://hodgkins.io](https://hodgkins.io)
+ - date published: 2023-10-29T14:00:30.252607+00:00
+ - user: None
+ - tags: []
+
+## Home Assistant Community
+ - [https://community.home-assistant.io](https://community.home-assistant.io)
+ - date published: 2023-11-01T13:42:47.519479+00:00
+ - user: None
+ - tags: []
+
+## Home Assistant
+ - [https://www.home-assistant.io](https://www.home-assistant.io)
+ - date published: 2023-10-25T08:33:17.353283+00:00
+ - user: None
+ - tags: []
+
+## Observability for Distributed Services | Honeycomb
+ - [https://www.honeycomb.io](https://www.honeycomb.io)
+ - date published: 2023-10-25T19:56:44.725039+00:00
+ - user: None
+ - tags: []
+
+## https://cult.honeypot.io
+ - [https://cult.honeypot.io](https://cult.honeypot.io)
+ - date published: 2023-10-25T19:56:47.304525+00:00
+ - user: None
+ - tags: []
+
+## Alexandre Defossez AI homepage
+ - [https://ai.honu.io](https://ai.honu.io)
+ - date published: 2023-10-25T19:56:49.150077+00:00
+ - user: None
+ - tags: []
+
+## Hydra - Fast Postgres Analytics ++
+ - [https://hydras.io](https://hydras.io)
+ - date published: 2023-10-25T19:57:02.346775+00:00
+ - user: None
+ - tags: []
+
+## Hyperswitch | More power to your payments
+ - [https://hyperswitch.io](https://hyperswitch.io)
+ - date published: 2023-10-25T19:57:04.241273+00:00
+ - user: None
+ - tags: []
+
+## IBRAMENU - Automation & Deployment System
+ - [https://ibramenu.io](https://ibramenu.io)
+ - date published: 2023-10-25T19:57:07.102425+00:00
+ - user: None
+ - tags: []
+
+## We Analyzed 425,909 Favicons
+ - [https://iconmap.io](https://iconmap.io)
+ - date published: 2023-10-25T19:57:09.705620+00:00
+ - user: None
+ - tags: []
+
+## ImageUpload.io — Image Upload Direct Link for FREE
+ - [https://imageupload.io](https://imageupload.io)
+ - date published: 2023-11-02T10:59:47.799558+00:00
+ - user: None
+ - tags: []
+
+## Imba - The friendly full-stack language!
+ - [https://imba.io](https://imba.io)
+ - date published: 2023-10-25T19:57:11.205980+00:00
+ - user: None
+ - tags: []
+
+## Img2Prompt
+ - [https://www.img2prompt.io](https://www.img2prompt.io)
+ - date published: 2023-10-25T19:57:12.510590+00:00
+ - user: None
+ - tags: []
+
+## incident.io — Incident management that brings calm to chaos
+ - [https://incident.io](https://incident.io)
+ - date published: 2023-10-25T19:57:14.644771+00:00
+ - user: None
+ - tags: []
+
+## Indigo
+ - [https://indigoengine.io](https://indigoengine.io)
+ - date published: 2023-10-25T08:35:39.867270+00:00
+ - user: None
+ - tags: []
+
+## Infracost: The Cloud’s Checkout Screen
+ - [https://infracost.io](https://infracost.io)
+ - date published: 2023-10-25T19:57:18.523836+00:00
+ - user: None
+ - tags: []
+
+## IngestAI.io – The AI Trained on Your Business – Artificial Intelligence Powered Knowledge Base
+ - [https://ingestai.io](https://ingestai.io)
+ - date published: 2023-10-25T19:57:23.010796+00:00
+ - user: None
+ - tags: []
+
+## Interpeer Project
+ - [https://interpeer.io](https://interpeer.io)
+ - date published: 2023-10-25T19:57:24.660916+00:00
+ - user: None
+ - tags: []
+
+## Blog | interviewing.io
+ - [https://blog.interviewing.io](https://blog.interviewing.io)
+ - date published: 2023-10-25T19:57:27.977991+00:00
+ - user: None
+ - tags: []
+
+## Anonymous mock interviews with engineers from FAANG and more | interviewing.io
+ - [https://interviewing.io](https://interviewing.io)
+ - date published: 2023-10-25T19:57:29.822787+00:00
+ - user: None
+ - tags: []
+
+## Investor Radar
+ - [https://www.investorradar.io](https://www.investorradar.io)
+ - date published: 2023-10-25T19:57:31.409326+00:00
+ - user: None
+ - tags: []
+
+## Invidious
+ - [https://invidious.io](https://invidious.io)
+ - date published: 2023-10-25T08:30:27.273833+00:00
+ - user: None
+ - tags: ['video streaming', 'youtube']
+
+## Select instance - Invidious
+ - [https://redirect.invidious.io](https://redirect.invidious.io)
+ - date published: 2023-10-24T20:05:59.872912+00:00
+ - user: None
+ - tags: []
+
+## Ionic: Enterprise App Platform
+ - [https://ionic.io](https://ionic.io)
+ - date published: 2023-10-25T08:40:05.862288+00:00
+ - user: None
+ - tags: []
+
+## An open system to manage data without a central server | IPFS
+ - [https://ipfs.io](https://ipfs.io)
+ - date published: 2023-10-25T19:57:39.545409+00:00
+ - user: None
+ - tags: []
+
+## AriNeonShark - itch.io
+ - [https://arineonshark.itch.io](https://arineonshark.itch.io)
+ - date published: 2023-10-25T19:57:41.797330+00:00
+ - user: None
+ - tags: []
+
+## BlackwellWriter - itch.io
+ - [https://blackwellwriter.itch.io](https://blackwellwriter.itch.io)
+ - date published: 2023-10-25T19:57:45.103109+00:00
+ - user: None
+ - tags: []
+
+## codav - itch.io
+ - [https://codav.itch.io](https://codav.itch.io)
+ - date published: 2023-10-25T19:57:46.903191+00:00
+ - user: None
+ - tags: []
+
+## DaFluffyPotato - itch.io
+ - [https://dafluffypotato.itch.io](https://dafluffypotato.itch.io)
+ - date published: 2023-10-25T19:57:49.574367+00:00
+ - user: None
+ - tags: []
+
+## dukope - itch.io
+ - [https://dukope.itch.io](https://dukope.itch.io)
+ - date published: 2023-10-25T19:57:51.516696+00:00
+ - user: None
+ - tags: []
+
+## Edward La Barbera - itch.io
+ - [https://edward-la-barbera.itch.io](https://edward-la-barbera.itch.io)
+ - date published: 2023-10-25T19:57:53.615759+00:00
+ - user: None
+ - tags: []
+
+## Haplo - itch.io
+ - [https://h4plo.itch.io](https://h4plo.itch.io)
+ - date published: 2023-10-25T19:57:55.830373+00:00
+ - user: None
+ - tags: []
+
+## Download the latest indie games
+ - [https://itch.io](https://itch.io)
+ - date published: 2023-10-24T20:10:45.851043+00:00
+ - user: None
+ - tags: ['game store']
+
+## jimbo - itch.io
+ - [https://jimbo.itch.io](https://jimbo.itch.io)
+ - date published: 2023-10-25T19:57:58.091881+00:00
+ - user: None
+ - tags: []
+
+## jimhall - itch.io
+ - [https://jimhall.itch.io](https://jimhall.itch.io)
+ - date published: 2023-10-25T19:57:59.993232+00:00
+ - user: None
+ - tags: []
+
+## Johan Peitz - itch.io
+ - [https://johanpeitz.itch.io](https://johanpeitz.itch.io)
+ - date published: 2023-10-25T19:58:02.347390+00:00
+ - user: None
+ - tags: []
+
+## Antoine L. - itch.io
+ - [https://ledoc.itch.io](https://ledoc.itch.io)
+ - date published: 2023-10-25T19:58:04.823346+00:00
+ - user: None
+ - tags: []
+
+## The Bibites - itch.io
+ - [https://leocaussan.itch.io](https://leocaussan.itch.io)
+ - date published: 2023-10-25T19:58:07.357268+00:00
+ - user: None
+ - tags: []
+
+## Lorenzo Pilia - itch.io
+ - [https://lorenzo.itch.io](https://lorenzo.itch.io)
+ - date published: 2023-10-25T19:58:13.361412+00:00
+ - user: None
+ - tags: []
+
 ## Ludipe - itch.io
  - [https://ludipe.itch.io](https://ludipe.itch.io)
  - date published: 2023-10-25T19:58:18.254514+00:00
@@ -693,6 +927,12 @@
 ## pboyd.io
  - [https://pboyd.io](https://pboyd.io)
  - date published: 2023-10-25T20:03:22.972100+00:00
+ - user: None
+ - tags: []
+
+## PeerDB Blog
+ - [https://blog.peerdb.io](https://blog.peerdb.io)
+ - date published: 2023-11-06T20:41:48.742787+00:00
  - user: None
  - tags: []
 
@@ -2134,6 +2374,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
+## L'Unione Sarda.it
+ - [https://www.unionesarda.it](https://www.unionesarda.it)
+ - date published: 2023-11-06T02:35:24.227351+00:00
+ - user: None
+ - tags: []
+
 ## Home - Dipartimento di Informatica
  - [http://groups.di.unipi.it](http://groups.di.unipi.it)
  - date published: 2023-10-25T20:15:43.305470+00:00
@@ -2155,6 +2401,12 @@ End-to-end typesafe APIs made easy. | tRPC
 ## Linus's blog - Home
  - [https://linus.schreibt.jetzt](https://linus.schreibt.jetzt)
  - date published: 2023-10-25T20:15:48.629425+00:00
+ - user: None
+ - tags: []
+
+## Home Page - Jordan News | Latest News from Jordan, MENA
+ - [https://www.jordannews.jo](https://www.jordannews.jo)
+ - date published: 2023-11-06T01:35:39.245161+00:00
  - user: None
  - tags: []
 
@@ -2299,6 +2551,12 @@ End-to-end typesafe APIs made easy. | tRPC
 ## SYSSEC
  - [https://syssec.kaist.ac.kr](https://syssec.kaist.ac.kr)
  - date published: 2023-10-25T20:17:21.001514+00:00
+ - user: None
+ - tags: []
+
+## https://m.koreatimes.co.kr
+ - [https://m.koreatimes.co.kr](https://m.koreatimes.co.kr)
+ - date published: 2023-11-06T20:12:00.704345+00:00
  - user: None
  - tags: []
 
@@ -4737,7 +4995,7 @@ End-to-end typesafe APIs made easy. | tRPC
  - [http://dobrzewiesz.net](http://dobrzewiesz.net)
  - date published: 2023-10-30T13:37:49.977157+00:00
  - user: None
- - tags: ['music artist']
+ - tags: ['music band']
 
 ## Upload & Share PDF | DocDroid
  - [https://www.docdroid.net](https://www.docdroid.net)
@@ -5650,7 +5908,7 @@ End-to-end typesafe APIs made easy. | tRPC
  - [https://amiga.lychesis.net](https://amiga.lychesis.net)
  - date published: 2023-10-30T10:13:32.873579+00:00
  - user: None
- - tags: []
+ - tags: ['amiga', 'retro games']
 
 ## Home - Lyonsden Blog
  - [https://lyonsden.net](https://lyonsden.net)
@@ -5741,262 +5999,4 @@ End-to-end typesafe APIs made easy. | tRPC
  - date published: 2023-10-29T22:06:17.393907+00:00
  - user: None
  - tags: []
-
-## mess with dns
- - [https://messwithdns.net](https://messwithdns.net)
- - date published: 2023-10-25T20:33:44.669726+00:00
- - user: None
- - tags: []
-
-## Heavy Metal News, Music Videos, Tour Dates - Metal Injection
- - [https://metalinjection.net](https://metalinjection.net)
- - date published: 2023-11-02T09:14:46.967961+00:00
- - user: None
- - tags: []
-
-## Metal Storm
- - [https://metalstorm.net](https://metalstorm.net)
- - date published: 2023-11-02T09:15:21.901367+00:00
- - user: None
- - tags: []
-
-## https://metaltoilet.net
- - [https://metaltoilet.net](https://metaltoilet.net)
- - date published: 2023-10-25T20:33:45.878115+00:00
- - user: None
- - tags: []
-
-## Meziantou's blog
- - [https://www.meziantou.net](https://www.meziantou.net)
- - date published: 2023-10-25T09:23:16.052241+00:00
- - user: None
- - tags: ['personal']
-
-## Posts
- - [https://mfiano.net](https://mfiano.net)
- - date published: 2023-10-25T20:33:46.763605+00:00
- - user: None
- - tags: []
-
-## Michael Altfield's Tech Blog - Technology, Science, and the pursuit of Enlightenment
- - [https://tech.michaelaltfield.net](https://tech.michaelaltfield.net)
- - date published: 2023-10-25T20:33:49.526354+00:00
- - user: None
- - tags: []
-
-## Michael Burns Home Page
- - [https://www.michaelburns.net](https://www.michaelburns.net)
- - date published: 2023-10-25T20:33:52.485316+00:00
- - user: None
- - tags: []
-
-## Middle East Eye: News, Opinion, and Analysis | Middle East Eye
- - [https://www.middleeasteye.net](https://www.middleeasteye.net)
- - date published: 2023-10-25T20:33:56.885428+00:00
- - user: None
- - tags: []
-
-## Matt Might
- - [https://matt.might.net](https://matt.might.net)
- - date published: 2023-10-25T09:23:18.396889+00:00
- - user: None
- - tags: ['personal']
-
-## Nemanja Mijailovic's Blog
- - [https://mijailovic.net](https://mijailovic.net)
- - date published: 2023-10-25T09:23:24.318126+00:00
- - user: None
- - tags: ['personal']
-
-## Michael Kohn - Home
- - [https://www.mikekohn.net](https://www.mikekohn.net)
- - date published: 2023-10-25T20:33:58.454003+00:00
- - user: None
- - tags: []
-
-## Czech/in/Japan
- - [https://www.milanvit.net](https://www.milanvit.net)
- - date published: 2023-10-25T08:53:15.153678+00:00
- - user: None
- - tags: ['personal']
-
-## Welcome to the Minecraft Official Site
- - [https://www.minecraft.net](https://www.minecraft.net)
- - date published: 2023-10-25T08:39:46.892619+00:00
- - user: None
- - tags: ['game']
-
-## Minetest | Open source voxel game engine
- - [https://www.minetest.net](https://www.minetest.net)
- - date published: 2023-10-25T20:33:59.488993+00:00
- - user: None
- - tags: ['minecraft', 'open source', 'game']
-
-## MIRRORSITE.NET :: Archive of rare files
- - [http://www.mirrorsite.net](http://www.mirrorsite.net)
- - date published: 2023-10-25T20:34:00.194721+00:00
- - user: None
- - tags: []
-
-## Books at mixu.net
- - [https://book.mixu.net](https://book.mixu.net)
- - date published: 2023-10-25T20:34:01.737645+00:00
- - user: None
- - tags: []
-
-## MobaXterm free Xserver and tabbed SSH client for Windows
- - [https://mobaxterm.mobatek.net](https://mobaxterm.mobatek.net)
- - date published: 2023-10-30T14:11:40.446975+00:00
- - user: None
- - tags: ['terminal', 'ssh']
-
-## MobileGTA.net - GTA Mods, Cars, Maps and Skins for Android & iOS.
- - [https://www.mobilegta.net](https://www.mobilegta.net)
- - date published: 2023-10-25T11:18:02.316371+00:00
- - user: None
- - tags: []
-
-## Gaming Mods Community - ModLand.net
- - [https://www.modland.net](https://www.modland.net)
- - date published: 2023-10-28T20:37:21.020092+00:00
- - user: None
- - tags: ['game mods']
-
-## Molly White
- - [https://blog.mollywhite.net](https://blog.mollywhite.net)
- - date published: 2023-10-25T08:53:16.916499+00:00
- - user: None
- - tags: ['personal']
-
-## Molly White | Substack
- - [https://newsletter.mollywhite.net](https://newsletter.mollywhite.net)
- - date published: 2023-10-25T10:08:31.113594+00:00
- - user: None
- - tags: ['substack']
-
-## Molly White
- - [https://www.mollywhite.net](https://www.mollywhite.net)
- - date published: 2023-10-25T08:53:18.469779+00:00
- - user: None
- - tags: ['personal']
-
-## Computational Impacts – AI Industry Analysis Without Hype or Tech-bro-ism
- - [https://monroelab.net](https://monroelab.net)
- - date published: 2023-10-25T20:34:04.478483+00:00
- - user: None
- - tags: []
-
-## The New Mordheimer
- - [https://mordheimer.net](https://mordheimer.net)
- - date published: 2023-10-27T07:28:45.510198+00:00
- - user: None
- - tags: ['tabletop games', 'mordheim']
-
-## Recent posts | More magic
- - [https://www.more-magic.net](https://www.more-magic.net)
- - date published: 2023-10-25T20:34:05.992593+00:00
- - user: None
- - tags: []
-
-## More Stina Maslina!
- - [https://morestina.net](https://morestina.net)
- - date published: 2023-10-25T20:34:06.375461+00:00
- - user: None
- - tags: []
-
-## Moritz F. Fürst – Home
- - [https://moritzfuerst.net](https://moritzfuerst.net)
- - date published: 2023-10-25T20:34:07.121897+00:00
- - user: None
- - tags: []
-
-## MorphOS Storage : a webserver dedicated to MorphOS users
- - [https://www.morphos-storage.net](https://www.morphos-storage.net)
- - date published: 2023-10-27T14:29:16.512566+00:00
- - user: None
- - tags: ['morphos', 'amiga']
-
-## MorphOS - Welcome
- - [https://www.morphos-team.net](https://www.morphos-team.net)
- - date published: 2023-10-27T14:26:06.965833+00:00
- - user: None
- - tags: ['operating system']
-
-## MOSFET
- - [https://mosfet.net](https://mosfet.net)
- - date published: 2023-10-27T20:11:03.683472+00:00
- - user: None
- - tags: []
-
-## Motion Mountain - The Captivating Free Physics Pdf Book
- - [https://www.motionmountain.net](https://www.motionmountain.net)
- - date published: 2023-10-25T20:34:14.405241+00:00
- - user: None
- - tags: []
-
-## MOVEMNT - Urban Transport news
- - [https://movemnt.net](https://movemnt.net)
- - date published: 2023-10-25T20:34:19.095153+00:00
- - user: None
- - tags: []
-
-## MrAntiFun, PC Video Game Trainers, Cheats and mods
- - [https://mrantifun.net](https://mrantifun.net)
- - date published: 2023-10-28T20:43:51.740342+00:00
- - user: None
- - tags: ['game trainer']
-
-## Mullvad Leta
- - [https://leta.mullvad.net](https://leta.mullvad.net)
- - date published: 2023-10-25T20:34:19.754384+00:00
- - user: None
- - tags: []
-
-## Mullvad VPN - Privacy is a universal right
- - [https://mullvad.net](https://mullvad.net)
- - date published: 2023-10-25T20:34:21.400698+00:00
- - user: None
- - tags: []
-
-## Brain dump
- - [https://www.n16f.net](https://www.n16f.net)
- - date published: 2023-10-25T20:34:22.540160+00:00
- - user: None
- - tags: []
-
-## Naich's crappy blog – It's not very good but there is lots of swearing
- - [https://naich.net](https://naich.net)
- - date published: 2023-10-25T20:34:26.421954+00:00
- - user: None
- - tags: []
-
-## Silver Bulletin | Nate Silver | Substack
- - [https://www.natesilver.net](https://www.natesilver.net)
- - date published: 2023-10-25T10:08:33.139664+00:00
- - user: None
- - tags: ['substack']
-
-## NearlyFreeSpeech.NET Blog
- - [https://blog.nearlyfreespeech.net](https://blog.nearlyfreespeech.net)
- - date published: 2023-10-25T20:34:29.365280+00:00
- - user: None
- - tags: []
-
-## Tech News, Reviews & Betas | Neowin
- - [https://www.neowin.net](https://www.neowin.net)
- - date published: 2023-10-25T09:37:10.924245+00:00
- - user: None
- - tags: []
-
-## NewPipe - a free YouTube client
- - [https://newpipe.net](https://newpipe.net)
- - date published: 2023-10-25T08:33:34.940844+00:00
- - user: None
- - tags: ['youtube']
-
-## Nick Lane Personal Website
- - [https://nick-lane.net](https://nick-lane.net)
- - date published: 2023-10-25T08:53:20.451071+00:00
- - user: None
- - tags: ['personal']
 

@@ -1,3 +1,105 @@
+## Krebs on Security – In-depth security news and investigation
+ - [https://krebsonsecurity.com](https://krebsonsecurity.com)
+ - date published: 2023-10-25T10:14:56.854608+00:00
+ - user: None
+ - tags: []
+
+## Krickelkrackel | I had nothing in mind while painting this.
+ - [https://krickelkrackel.com](https://krickelkrackel.com)
+ - date published: 2023-10-25T15:39:08.147156+00:00
+ - user: None
+ - tags: []
+
+## Restructuring Administration Cases | Kroll
+ - [https://restructuring.ra.kroll.com](https://restructuring.ra.kroll.com)
+ - date published: 2023-10-25T15:39:22.144519+00:00
+ - user: None
+ - tags: []
+
+## Kronian Titans
+ - [https://kroniantitans.com](https://kroniantitans.com)
+ - date published: 2023-10-30T16:39:31.815312+00:00
+ - user: None
+ - tags: ['open source']
+
+## Nicolas Kruchten
+ - [https://nicolas.kruchten.com](https://nicolas.kruchten.com)
+ - date published: 2023-10-25T15:39:24.376523+00:00
+ - user: None
+ - tags: []
+
+## Welcome - Artem Krylysov
+ - [https://artem.krylysov.com](https://artem.krylysov.com)
+ - date published: 2023-10-25T15:39:25.889023+00:00
+ - user: None
+ - tags: []
+
+## Artemi Krymski
+ - [http://krymski.com](http://krymski.com)
+ - date published: 2023-10-25T15:39:26.426536+00:00
+ - user: None
+ - tags: []
+
+## San Antonio News, Texas News, Sports, Weather from KSAT.com, Expect More
+ - [https://www.ksat.com](https://www.ksat.com)
+ - date published: 2023-10-25T15:39:32.812120+00:00
+ - user: None
+ - tags: []
+
+## Kevin Schaul
+ - [https://www.kschaul.com](https://www.kschaul.com)
+ - date published: 2023-10-25T15:39:33.921474+00:00
+ - user: None
+ - tags: []
+
+## KSHB 41 Kansas City: News, Weather, Chiefs, Traffic and Sports
+ - [https://www.kshb.com](https://www.kshb.com)
+ - date published: 2023-10-25T15:39:39.874814+00:00
+ - user: None
+ - tags: []
+
+## Utah news from KSLTV.com
+ - [https://ksltv.com](https://ksltv.com)
+ - date published: 2023-10-25T15:39:47.395431+00:00
+ - user: None
+ - tags: []
+
+## 5 EYEWITNESS NEWS - KSTP.com 5 Eyewitness News
+ - [https://kstp.com](https://kstp.com)
+ - date published: 2023-10-25T15:39:51.142245+00:00
+ - user: None
+ - tags: []
+
+## Access Restricted
+ - [https://ktla.com](https://ktla.com)
+ - date published: 2023-10-29T00:16:58.388308+00:00
+ - user: None
+ - tags: []
+
+## KTVU FOX 2
+ - [https://www.ktvu.com](https://www.ktvu.com)
+ - date published: 2023-10-25T15:40:00.583963+00:00
+ - user: None
+ - tags: []
+
+## Kuboble - the logical puzzle game
+ - [https://kuboble.com](https://kuboble.com)
+ - date published: 2023-10-25T15:40:00.922873+00:00
+ - user: None
+ - tags: []
+
+## Kudelski Security Research – The Latest News from Research at Kudelski Security
+ - [https://research.kudelskisecurity.com](https://research.kudelskisecurity.com)
+ - date published: 2023-10-25T15:40:04.469104+00:00
+ - user: None
+ - tags: []
+
+## kudotap.com
+ - [https://kudotap.com](https://kudotap.com)
+ - date published: 2023-10-25T15:40:07.335888+00:00
+ - user: None
+ - tags: []
+
 ## KumaZen - KumaZen
  - [https://kumazen.com](https://kumazen.com)
  - date published: 2023-10-25T15:40:09.511817+00:00
@@ -85,6 +187,12 @@
 ## https://lajili.com
  - [https://lajili.com](https://lajili.com)
  - date published: 2023-10-25T15:40:43.836423+00:00
+ - user: None
+ - tags: []
+
+## Lake and McHenry County Scanner - Local News in Lake County and McHenry County, IL
+ - [https://www.lakemchenryscanner.com](https://www.lakemchenryscanner.com)
+ - date published: 2023-11-06T16:59:54.220046+00:00
  - user: None
  - tags: []
 
@@ -357,6 +465,12 @@
  - date published: 2023-10-25T15:43:33.995361+00:00
  - user: None
  - tags: []
+
+## Leandro Linares
+ - [https://leandrolinares.com](https://leandrolinares.com)
+ - date published: 2023-11-06T10:16:31.848185+00:00
+ - user: None
+ - tags: ['personal', 'blog']
 
 ## JavaFiddle - Build and share Java code snippets in your browser
  - [https://javafiddle.leaningtech.com](https://javafiddle.leaningtech.com)
@@ -1382,7 +1496,7 @@
  - [https://lukhash.com](https://lukhash.com)
  - date published: 2023-10-30T13:31:43.558214+00:00
  - user: None
- - tags: ['music artist']
+ - tags: ['music band']
 
 ## LUKHASH | www.lukhash.com
  - [https://www.lukhash.com](https://www.lukhash.com)
@@ -3497,6 +3611,12 @@ diversions.
  - date published: 2023-10-25T16:03:02.581392+00:00
  - user: None
  - tags: []
+
+## MicroProse | The name of the game in strategy and simulation
+ - [https://www.microprose.com](https://www.microprose.com)
+ - date published: 2023-11-06T10:58:40.981934+00:00
+ - user: None
+ - tags: ['amiga', 'game studio']
 
 ## Micro SaaS HQ
  - [https://microsaashq.com](https://microsaashq.com)
@@ -5873,129 +5993,6 @@ Answering Machine Greetings!
 ## 🚨🚨 That's a lot of YAML 🚨🚨
  - [https://noyaml.com](https://noyaml.com)
  - date published: 2023-10-25T16:22:34.214643+00:00
- - user: None
- - tags: []
-
-## n+1 | n+1 is a print and digital magazine of literature, culture, and politics.
- - [https://www.nplusonemag.com](https://www.nplusonemag.com)
- - date published: 2023-10-25T16:22:37.832655+00:00
- - user: None
- - tags: []
-
-## npm | Home
- - [https://www.npmjs.com](https://www.npmjs.com)
- - date published: 2023-10-25T16:22:41.165614+00:00
- - user: None
- - tags: []
-
-## nikic's Blog
- - [https://www.npopov.com](https://www.npopov.com)
- - date published: 2023-10-25T16:22:42.315915+00:00
- - user: None
- - tags: []
-
-## NSKYC - The average color of the New York sky
- - [https://nskyc.com](https://nskyc.com)
- - date published: 2023-10-25T16:22:44.266267+00:00
- - user: None
- - tags: []
-
-## NTD News - Breaking News, Latest News and Videos | NTD
- - [https://www.ntd.com](https://www.ntd.com)
- - date published: 2023-10-25T16:22:54.420463+00:00
- - user: None
- - tags: []
-
-## NthBrock
- - [https://www.nthbrock.com](https://www.nthbrock.com)
- - date published: 2023-10-25T16:22:55.034114+00:00
- - user: None
- - tags: []
-
-## hello! | nicole@web
- - [https://ntietz.com](https://ntietz.com)
- - date published: 2023-10-25T08:47:22.778087+00:00
- - user: None
- - tags: ['personal']
-
-## n-Track Studio | Multitrack recording, editing & mixing software
- - [https://ntrack.com](https://ntrack.com)
- - date published: 2023-10-28T18:50:04.541480+00:00
- - user: None
- - tags: []
-
-## Restricted Data: The Nuclear Secrecy Blog
- - [https://blog.nuclearsecrecy.com](https://blog.nuclearsecrecy.com)
- - date published: 2023-10-25T16:22:59.792200+00:00
- - user: None
- - tags: []
-
-## Nucor | 
-         
-             
-                Home
- - [https://nucor.com](https://nucor.com)
- - date published: 2023-10-25T16:23:04.186037+00:00
- - user: None
- - tags: []
-
-## Nukeni - Cheapest price for Apple products
- - [https://www.nukeni.com](https://www.nukeni.com)
- - date published: 2023-10-25T16:23:10.174485+00:00
- - user: None
- - tags: []
-
-## null program
- - [https://nullprogram.com](https://nullprogram.com)
- - date published: 2023-10-25T08:58:15.798116+00:00
- - user: None
- - tags: ['personal']
-
-## Nuno Donato – "receive with simplicity everything that happens to you" ~ Rashi
- - [https://www.nunodonato.com](https://www.nunodonato.com)
- - date published: 2023-10-25T16:23:16.851212+00:00
- - user: None
- - tags: []
-
-## nutcroft
- - [https://nutcroft.com](https://nutcroft.com)
- - date published: 2023-10-25T16:23:18.757272+00:00
- - user: None
- - tags: []
-
-## | Nuts & Volts Magazine
- - [http://www.nutsvolts.com](http://www.nutsvolts.com)
- - date published: 2023-10-25T16:23:25.758451+00:00
- - user: None
- - tags: []
-
-## NVIDIA Blog
- - [https://blogs.nvidia.com](https://blogs.nvidia.com)
- - date published: 2023-10-25T11:32:33.263418+00:00
- - user: None
- - tags: []
-
-## NVIDIA Developer
- - [https://developer.nvidia.com](https://developer.nvidia.com)
- - date published: 2023-10-25T11:32:38.712146+00:00
- - user: None
- - tags: []
-
-## Home | NVIDIA Newsroom
- - [https://nvidianews.nvidia.com](https://nvidianews.nvidia.com)
- - date published: 2023-10-25T11:30:45.056506+00:00
- - user: None
- - tags: []
-
-## Research, Publications & Journals | NVIDIA
- - [https://research.nvidia.com](https://research.nvidia.com)
- - date published: 2023-10-25T11:31:49.259630+00:00
- - user: None
- - tags: []
-
-## Światowy lider w dziedzinie technologii obliczeniowych opartych na sztucznej inteligencji | NVIDIA
- - [https://www.nvidia.com](https://www.nvidia.com)
- - date published: 2023-10-25T11:28:24.272276+00:00
  - user: None
  - tags: []
 

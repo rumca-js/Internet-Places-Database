@@ -1,3 +1,177 @@
+## The Fitzwilliam | Fitzwilliam Staff | Substack
+ - [https://www.thefitzwilliam.com](https://www.thefitzwilliam.com)
+ - date published: 2023-10-25T17:33:02.110637+00:00
+ - user: None
+ - tags: []
+
+## The Free Press
+ - [https://www.thefp.com](https://www.thefp.com)
+ - date published: 2023-10-25T17:33:05.546830+00:00
+ - user: None
+ - tags: []
+
+## Dictionary, Encyclopedia and Thesaurus - The Free Dictionary
+ - [https://www.thefreedictionary.com](https://www.thefreedictionary.com)
+ - date published: 2023-10-25T09:28:50.951090+00:00
+ - user: None
+ - tags: []
+
+## thefreethoughtproject.com
+ - [https://thefreethoughtproject.com](https://thefreethoughtproject.com)
+ - date published: 2023-10-25T17:33:10.910442+00:00
+ - user: None
+ - tags: []
+
+## The Fresh Loaf | A Community of Amateur Bakers and Artisan Bread Enthusiasts.
+ - [https://www.thefreshloaf.com](https://www.thefreshloaf.com)
+ - date published: 2023-10-25T17:33:13.762985+00:00
+ - user: None
+ - tags: []
+
+## The Game Chamber | Board Games & Miniatures
+ - [https://www.thegamechamber.com](https://www.thegamechamber.com)
+ - date published: 2023-10-27T08:02:09.465547+00:00
+ - user: None
+ - tags: []
+
+## The Game Haus - Sports & Esports news, from our Haus to yours.
+ - [https://thegamehaus.com](https://thegamehaus.com)
+ - date published: 2023-10-25T10:50:18.776814+00:00
+ - user: None
+ - tags: []
+
+## The Gateway Pundit
+ - [https://www.thegatewaypundit.com](https://www.thegatewaypundit.com)
+ - date published: 2023-10-25T17:33:17.157623+00:00
+ - user: None
+ - tags: []
+
+## Marc Crouch - The Ginger Viking
+ - [https://www.thegingerviking.com](https://www.thegingerviking.com)
+ - date published: 2023-10-25T17:33:17.978121+00:00
+ - user: None
+ - tags: []
+
+## The Globe and Mail: Canadian, World, Politics and Business News & Analysis
+ - [https://www.theglobeandmail.com](https://www.theglobeandmail.com)
+ - date published: 2023-10-25T17:34:27.274173+00:00
+ - user: None
+ - tags: []
+
+## The Government Rag -
+ - [https://thegovernmentrag.com](https://thegovernmentrag.com)
+ - date published: 2023-10-25T17:34:35.516598+00:00
+ - user: None
+ - tags: []
+
+## The Grayzone - The Grayzone
+ - [https://thegrayzone.com](https://thegrayzone.com)
+ - date published: 2023-10-25T17:34:46.262866+00:00
+ - user: None
+ - tags: []
+
+## News, sport and opinion from the Guardian's Europe edition | The Guardian
+ - [https://amp.theguardian.com](https://amp.theguardian.com)
+ - date published: 2023-11-06T19:50:32.699604+00:00
+ - user: None
+ - tags: []
+
+## News, sport and opinion from the Guardian's Europe edition | The Guardian
+ - [https://www.theguardian.com](https://www.theguardian.com)
+ - date published: 2023-10-25T17:34:59.991351+00:00
+ - user: None
+ - tags: []
+
+## The Hacker News | #1 Trusted Cybersecurity News Site
+ - [https://thehackernews.com](https://thehackernews.com)
+ - date published: 2023-10-25T09:36:10.524213+00:00
+ - user: None
+ - tags: ['tech news']
+
+## The HFT Guy – A developer in London
+ - [https://thehftguy.com](https://thehftguy.com)
+ - date published: 2023-10-25T17:35:02.811605+00:00
+ - user: None
+ - tags: []
+
+## The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill
+ - [https://digital-dev.thehill.com](https://digital-dev.thehill.com)
+ - date published: 2023-10-25T17:35:11.876851+00:00
+ - user: None
+ - tags: []
+
+## The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill
+ - [https://thehill.com](https://thehill.com)
+ - date published: 2023-10-25T10:28:58.558612+00:00
+ - user: None
+ - tags: []
+
+## Breaking News Today, Top Headlines, Live Updates | The Hindu
+ - [https://www.thehindu.com](https://www.thehindu.com)
+ - date published: 2023-10-25T10:45:05.654304+00:00
+ - user: None
+ - tags: []
+
+## Business Financial, Economy, Market, Stock - News & Updates | The Hindu BusinessLine
+ - [https://www.thehindubusinessline.com](https://www.thehindubusinessline.com)
+ - date published: 2023-10-25T17:35:19.405660+00:00
+ - user: None
+ - tags: []
+
+## The History Blog
+ - [https://www.thehistoryblog.com](https://www.thehistoryblog.com)
+ - date published: 2023-10-25T17:35:27.586648+00:00
+ - user: None
+ - tags: []
+
+## The History of the Web
+ - [https://thehistoryoftheweb.com](https://thehistoryoftheweb.com)
+ - date published: 2023-10-25T11:14:27.332034+00:00
+ - user: None
+ - tags: []
+
+## The IF Life
+ - [https://theiflife.com](https://theiflife.com)
+ - date published: 2023-10-25T17:35:29.793250+00:00
+ - user: None
+ - tags: []
+
+## The Information
+ - [https://www.theinformation.com](https://www.theinformation.com)
+ - date published: 2023-10-25T17:35:34.711500+00:00
+ - user: None
+ - tags: []
+
+## Insane - TheInsaneApp.com
+ - [https://www.theinsaneapp.com](https://www.theinsaneapp.com)
+ - date published: 2023-10-25T17:35:37.951848+00:00
+ - user: None
+ - tags: []
+
+## The Intercept
+ - [https://theintercept.com](https://theintercept.com)
+ - date published: 2023-10-25T10:29:00.612300+00:00
+ - user: None
+ - tags: []
+
+## https://www.thejc.com
+ - [https://www.thejc.com](https://www.thejc.com)
+ - date published: 2023-10-30T20:00:00.128988+00:00
+ - user: None
+ - tags: []
+
+## thejorgemedina | Jorge Medina | Substack
+ - [https://newsletter.thejorgemedina.com](https://newsletter.thejorgemedina.com)
+ - date published: 2023-10-27T11:55:47.114642+00:00
+ - user: None
+ - tags: []
+
+## The Justice Gap – A magazine about law & justice – and the difference between the two
+ - [https://www.thejusticegap.com](https://www.thejusticegap.com)
+ - date published: 2023-10-25T17:35:41.354720+00:00
+ - user: None
+ - tags: []
+
 ## The Lamp Magazine | Home Page
  - [https://thelampmagazine.com](https://thelampmagazine.com)
  - date published: 2023-10-25T17:35:45.158460+00:00
@@ -5499,6 +5673,12 @@
  - user: None
  - tags: ['audio equipment']
 
+## Zorin
+ - [https://zorin.com](https://zorin.com)
+ - date published: 2023-11-06T10:11:49.466457+00:00
+ - user: None
+ - tags: ['linux', 'operating system']
+
 ## zserge's blog
  - [https://zserge.com](https://zserge.com)
  - date published: 2023-10-25T18:25:42.935979+00:00
@@ -5816,185 +5996,4 @@
  - date published: 2023-10-29T18:16:15.369094+00:00
  - user: rumpel
  - tags: ['germany news']
-
-## Aktuelle Nachrichten | BILD.de
- - [https://m.bild.de](https://m.bild.de)
- - date published: 2023-10-29T18:15:30.206767+00:00
- - user: None
- - tags: ['news']
-
-## Aktuelle Nachrichten | BILD.de
- - [https://www.bild.de](https://www.bild.de)
- - date published: 2023-10-25T18:28:30.805665+00:00
- - user: None
- - tags: []
-
-## social.bund.de
- - [https://social.bund.de](https://social.bund.de)
- - date published: 2023-10-25T18:28:31.356395+00:00
- - user: None
- - tags: []
-
-## Bundesverfassungsgericht  -  Startseite
- - [https://www.bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de)
- - date published: 2023-10-25T18:28:33.150667+00:00
- - user: None
- - tags: []
-
-## Caspar’s Website | Caspar von Wrede
- - [https://casparwre.de](https://casparwre.de)
- - date published: 2023-10-25T18:28:35.732274+00:00
- - user: None
- - tags: []
-
-## 37C3 Call For Participation
- - [https://content.events.ccc.de](https://content.events.ccc.de)
- - date published: 2023-10-25T18:28:37.146400+00:00
- - user: None
- - tags: []
-
-## CCC Event Blog
- - [https://events.ccc.de](https://events.ccc.de)
- - date published: 2023-10-25T18:28:39.662895+00:00
- - user: None
- - tags: []
-
-## media.ccc.de -
-home
- - [https://media.ccc.de](https://media.ccc.de)
- - date published: 2023-10-25T18:28:41.208202+00:00
- - user: None
- - tags: []
-
-## See you soon … somewhere else! – C3VOC Streaming
- - [https://streaming.media.ccc.de](https://streaming.media.ccc.de)
- - date published: 2023-10-25T18:28:42.515686+00:00
- - user: None
- - tags: []
-
-## CCC | Startseite
- - [https://www.ccc.de](https://www.ccc.de)
- - date published: 2023-10-25T18:28:44.193001+00:00
- - user: None
- - tags: []
-
-## CKTN Forum - Tech & Privacy for People
- - [https://forum.cktn.de](https://forum.cktn.de)
- - date published: 2023-10-25T18:28:48.772187+00:00
- - user: None
- - tags: []
-
-## The Cyber Vanguard
- - [https://cyber.dabamos.de](https://cyber.dabamos.de)
- - date published: 2023-10-27T11:56:58.035109+00:00
- - user: None
- - tags: []
-
-## DROPS - Series
- - [https://drops.dagstuhl.de](https://drops.dagstuhl.de)
- - date published: 2023-10-25T18:29:09.557733+00:00
- - user: None
- - tags: []
-
-## Datawrapper Blog
- - [https://blog.datawrapper.de](https://blog.datawrapper.de)
- - date published: 2023-10-25T18:29:23.861867+00:00
- - user: None
- - tags: []
-
-## Blogless — Writing Articles online without a Blog
- - [https://blogless.datenbrei.de](https://blogless.datenbrei.de)
- - date published: 2023-10-25T18:29:26.642822+00:00
- - user: None
- - tags: []
-
-## lists.denx.de Mailing Lists
- - [https://lists.denx.de](https://lists.denx.de)
- - date published: 2023-10-25T18:29:27.869041+00:00
- - user: None
- - tags: []
-
-## Deutschlands größtes Beschleunigerzentrum - Deutsches Elektronen-Synchrotron DESY
- - [https://www.desy.de](https://www.desy.de)
- - date published: 2023-10-25T18:29:33.914611+00:00
- - user: None
- - tags: []
-
-## deutschland.de - Your link to Germany
- - [https://www.deutschland.de](https://www.deutschland.de)
- - date published: 2023-10-25T18:29:41.108581+00:00
- - user: None
- - tags: []
-
-## German Cancer Research Center
- - [https://www.dkfz.de](https://www.dkfz.de)
- - date published: 2023-10-25T18:30:06.376806+00:00
- - user: None
- - tags: []
-
-## e-basteln
- - [https://www.e-basteln.de](https://www.e-basteln.de)
- - date published: 2023-10-25T18:30:07.534543+00:00
- - user: None
- - tags: []
-
-## Startseite - Econtribute
- - [https://www.econtribute.de](https://www.econtribute.de)
- - date published: 2023-10-25T18:30:10.727479+00:00
- - user: None
- - tags: []
-
-## FACTOR 5
- - [http://www.factor5.de](http://www.factor5.de)
- - date published: 2023-11-02T10:55:33.784420+00:00
- - user: None
- - tags: ['amiga']
-
-## Lemmymap - a lemmy federation map
- - [https://lemmymap.feddit.de](https://lemmymap.feddit.de)
- - date published: 2023-10-25T18:30:11.155382+00:00
- - user: None
- - tags: []
-
-## felix fisgus | Felix Fisgus
- - [https://felixfisgus.de](https://felixfisgus.de)
- - date published: 2023-10-25T18:30:12.186826+00:00
- - user: None
- - tags: []
-
-## Felix Geisendörfer
- - [https://blog.felixge.de](https://blog.felixge.de)
- - date published: 2023-10-25T18:30:14.021327+00:00
- - user: None
- - tags: []
-
-## Fenix Magazin - Početna
- - [https://fenix-magazin.de](https://fenix-magazin.de)
- - date published: 2023-10-30T19:00:12.736074+00:00
- - user: None
- - tags: []
-
-## feststelltaste – About Legacy Systems, Software Analytics and the Fundamental Problems of Software Engineering
- - [https://www.feststelltaste.de](https://www.feststelltaste.de)
- - date published: 2023-10-25T18:30:19.967784+00:00
- - user: None
- - tags: []
-
-## Startseite Fraunhofer-Gesellschaft
- - [https://www.fraunhofer.de](https://www.fraunhofer.de)
- - date published: 2023-10-25T18:30:27.906517+00:00
- - user: None
- - tags: []
-
-## Fraunhofer IISB (English)
- - [https://www.iisb.fraunhofer.de](https://www.iisb.fraunhofer.de)
- - date published: 2023-10-25T18:30:29.853786+00:00
- - user: None
- - tags: []
-
-## Forschen für die Energiewende - Fraunhofer-Institut für Solare Energiesysteme ISE -  Fraunhofer ISE
- - [https://www.ise.fraunhofer.de](https://www.ise.fraunhofer.de)
- - date published: 2023-10-25T18:30:39.964840+00:00
- - user: None
- - tags: []
 
