@@ -1,3 +1,165 @@
+## Software Engineer and Maker - Lloyd Atkinson
+ - [https://www.lloydatkinson.net](https://www.lloydatkinson.net)
+ - date published: 2023-10-25T20:33:02.816512+00:00
+ - user: None
+ - tags: []
+
+## - Logic Matters
+ - [https://www.logicmatters.net](https://www.logicmatters.net)
+ - date published: 2023-10-25T20:33:04.168407+00:00
+ - user: None
+ - tags: []
+
+## Longtermtrends | Find the most interesting financial charts!
+ - [https://www.longtermtrends.net](https://www.longtermtrends.net)
+ - date published: 2023-10-25T20:33:06.001904+00:00
+ - user: None
+ - tags: []
+
+## Cypherpunk Cogitations
+ - [https://blog.lopp.net](https://blog.lopp.net)
+ - date published: 2023-11-01T08:43:54.638506+00:00
+ - user: None
+ - tags: []
+
+## Julien Guertault (Zavie)
+ - [https://lousodrome.net](https://lousodrome.net)
+ - date published: 2023-11-01T08:43:55.529677+00:00
+ - user: None
+ - tags: []
+
+## Lowyat.NET | Technology News Malaysia
+ - [https://www.lowyat.net](https://www.lowyat.net)
+ - date published: 2023-10-25T20:33:11.272378+00:00
+ - user: None
+ - tags: []
+
+## LUCIDBOX
+ - [https://lucidbox.net](https://lucidbox.net)
+ - date published: 2023-10-25T20:33:16.621214+00:00
+ - user: None
+ - tags: []
+
+## Lukas Rosenstock's Blog
+ - [https://lukasrosenstock.net](https://lukasrosenstock.net)
+ - date published: 2023-10-25T09:23:15.450577+00:00
+ - user: None
+ - tags: ['personal']
+
+## Lutris - Open Gaming Platform
+ - [https://lutris.net](https://lutris.net)
+ - date published: 2023-10-25T08:35:41.232931+00:00
+ - user: None
+ - tags: []
+
+## Welcome to LWN.net [LWN.net]
+ - [https://lwn.net](https://lwn.net)
+ - date published: 2023-10-25T20:33:18.171971+00:00
+ - user: None
+ - tags: []
+
+## Amiga Graphics Archive
+ - [https://amiga.lychesis.net](https://amiga.lychesis.net)
+ - date published: 2023-10-30T10:13:32.873579+00:00
+ - user: None
+ - tags: ['amiga', 'retro games']
+
+## Home - Lyonsden Blog
+ - [https://lyonsden.net](https://lyonsden.net)
+ - date published: 2023-10-25T11:19:07.342674+00:00
+ - user: None
+ - tags: []
+
+## Introducing Cheetah: A Lightweight Virtual Machine Manager for macOS | Cheetah
+ - [https://macspot.net](https://macspot.net)
+ - date published: 2023-10-25T20:33:19.344039+00:00
+ - user: None
+ - tags: []
+
+## The Map of the Universe
+ - [https://mapoftheuniverse.net](https://mapoftheuniverse.net)
+ - date published: 2023-10-25T08:25:19.111191+00:00
+ - user: None
+ - tags: []
+
+## N=1 (marcua’s blog) | I’m the Co-Founder and CTO of B12, where we’re building a better future of creative and analytical work. Before that, I was Director of Data at Locu, a startup that was acquired by GoDaddy. I went to grad school at MIT’s CSAIL. One time in Jerusalem I ate a whole tub of hummus on my own. I don’t regret that day.
+ - [https://blog.marcua.net](https://blog.marcua.net)
+ - date published: 2023-10-25T20:33:20.374918+00:00
+ - user: None
+ - tags: []
+
+## Marijuana Moment - All your cannabis news, in one place
+ - [https://www.marijuanamoment.net](https://www.marijuanamoment.net)
+ - date published: 2023-10-25T20:33:26.925572+00:00
+ - user: None
+ - tags: []
+
+## MathOverflow
+ - [https://mathoverflow.net](https://mathoverflow.net)
+ - date published: 2023-10-25T20:33:30.026920+00:00
+ - user: None
+ - tags: []
+
+## Recent Discussions - Matrix Fans Official Forum
+ - [https://forums.matrixfans.net](https://forums.matrixfans.net)
+ - date published: 2023-10-25T16:24:25.044961+00:00
+ - user: None
+ - tags: []
+
+## Matrix Fans - The Matrix Resurrections News, Trailers, Posters
+ - [https://www.matrixfans.net](https://www.matrixfans.net)
+ - date published: 2023-10-25T16:23:48.175925+00:00
+ - user: None
+ - tags: []
+
+## Matt Wynne
+ - [https://mattwynne.net](https://mattwynne.net)
+ - date published: 2023-10-25T08:53:05.442698+00:00
+ - user: None
+ - tags: ['personal']
+
+## McSweeney’s Internet Tendency
+ - [https://www.mcsweeneys.net](https://www.mcsweeneys.net)
+ - date published: 2023-10-25T20:33:32.469274+00:00
+ - user: None
+ - tags: []
+
+## MCToon
+ - [https://mctoon.net](https://mctoon.net)
+ - date published: 2023-10-25T20:33:39.743559+00:00
+ - user: None
+ - tags: ['flat earth']
+
+## Medievalists.net - Where the Middle Ages Begin
+ - [https://www.medievalists.net](https://www.medievalists.net)
+ - date published: 2023-10-25T20:33:42.220747+00:00
+ - user: None
+ - tags: []
+
+## Men Rights India - Fight against Legal Terrorism
+ - [https://menrightsindia.net](https://menrightsindia.net)
+ - date published: 2023-10-25T20:33:43.991054+00:00
+ - user: None
+ - tags: []
+
+## MenuetOS
+ - [https://menuetos.net](https://menuetos.net)
+ - date published: 2023-10-25T08:32:01.277687+00:00
+ - user: None
+ - tags: []
+
+## MenuetOS
+ - [https://www.menuetos.net](https://www.menuetos.net)
+ - date published: 2023-10-29T22:06:17.393907+00:00
+ - user: None
+ - tags: []
+
+## mess with dns
+ - [https://messwithdns.net](https://messwithdns.net)
+ - date published: 2023-10-25T20:33:44.669726+00:00
+ - user: None
+ - tags: []
+
 ## Heavy Metal News, Music Videos, Tour Dates - Metal Injection
  - [https://metalinjection.net](https://metalinjection.net)
  - date published: 2023-11-02T09:14:46.967961+00:00
@@ -3738,6 +3900,12 @@ marginalia.nu
  - user: None
  - tags: []
 
+## https://ballotpedia.org
+ - [https://ballotpedia.org](https://ballotpedia.org)
+ - date published: 2023-11-07T14:32:58.201410+00:00
+ - user: None
+ - tags: []
+
 ## Bandcamp United - Home
  - [https://www.bandcampunited.org](https://www.bandcampunited.org)
  - date published: 2023-10-25T21:01:13.837050+00:00
@@ -5805,6 +5973,12 @@ marginalia.nu
  - user: None
  - tags: []
 
+## Environmental Working Group – EWG’s Holiday Gift Box: Sustainable Swaps | Environmental Working Group
+ - [https://www.ewg.org](https://www.ewg.org)
+ - date published: 2023-11-07T20:37:47.472532+00:00
+ - user: None
+ - tags: []
+
 ## Ex Astris Scientia - Bernd Schneider's Star Trek Site
  - [https://www.ex-astris-scientia.org](https://www.ex-astris-scientia.org)
  - date published: 2023-10-25T21:19:36.786033+00:00
@@ -5826,180 +6000,6 @@ marginalia.nu
 ## Explore.org
  - [https://explore.org](https://explore.org)
  - date published: 2023-10-25T21:19:47.761417+00:00
- - user: None
- - tags: []
-
-## EXP TV
- - [https://exptv.org](https://exptv.org)
- - date published: 2023-10-25T21:19:50.136672+00:00
- - user: None
- - tags: []
-
-## Extism - make all software programmable. Extend from within. | Extism - make all software programmable. Extend from within.
- - [https://extism.org](https://extism.org)
- - date published: 2023-10-25T21:19:54.073061+00:00
- - user: None
- - tags: []
-
-## F-Droid - Free and Open Source Android App Repository
- - [https://f-droid.org](https://f-droid.org)
- - date published: 2023-10-24T20:10:50.007548+00:00
- - user: None
- - tags: ['open source', 'app store']
-
-## F4PGA - the GCC of FPGAs
- - [https://f4pga.org](https://f4pga.org)
- - date published: 2023-10-25T21:19:57.352430+00:00
- - user: None
- - tags: []
-
-## 403 Forbidden
- - [https://fair.org](https://fair.org)
- - date published: 2023-10-25T21:19:59.248745+00:00
- - user: None
- - tags: []
-
-## Fair Trials | Fairness, equality, justice
- - [https://www.fairtrials.org](https://www.fairtrials.org)
- - date published: 2023-10-25T21:20:03.100788+00:00
- - user: None
- - tags: []
-
-## Falco
- - [https://falco.org](https://falco.org)
- - date published: 2023-10-25T21:20:05.441013+00:00
- - user: None
- - tags: []
-
-## Fanlore
- - [https://fanlore.org](https://fanlore.org)
- - date published: 2023-10-25T13:58:14.775906+00:00
- - user: None
- - tags: []
-
-## Home - Federation of American Scientists
- - [https://fas.org](https://fas.org)
- - date published: 2023-10-25T21:20:09.087511+00:00
- - user: None
- - tags: []
-
-## FAS Project on Government Secrecy (1991-2021)
- - [https://sgp.fas.org](https://sgp.fas.org)
- - date published: 2023-10-25T21:20:11.503363+00:00
- - user: None
- - tags: []
-
-## Fe - A next generation, statically typed, future-proof smart contract language for the Ethereum Virtual Machine
- - [https://fe-lang.org](https://fe-lang.org)
- - date published: 2023-10-25T21:20:12.316273+00:00
- - user: None
- - tags: []
-
-## Home | Federal Reserve History
- - [https://www.federalreservehistory.org](https://www.federalreservehistory.org)
- - date published: 2023-10-25T21:20:14.023107+00:00
- - user: None
- - tags: []
-
-## FediScience.org
- - [https://fediscience.org](https://fediscience.org)
- - date published: 2023-10-25T21:20:14.575500+00:00
- - user: None
- - tags: []
-
-## Fedora Magazine - Guides, information, and news about the Fedora operating system for users, developers, system administrators, and community members.
- - [https://fedoramagazine.org](https://fedoramagazine.org)
- - date published: 2023-10-25T21:20:17.331969+00:00
- - user: None
- - tags: []
-
-## Fedora Updates System
- - [https://bodhi.fedoraproject.org](https://bodhi.fedoraproject.org)
- - date published: 2023-10-25T21:20:23.751445+00:00
- - user: None
- - tags: []
-
-## Fedora Linux | The Fedora Project
- - [https://www.fedoraproject.org](https://www.fedoraproject.org)
- - date published: 2023-10-25T08:32:14.208110+00:00
- - user: None
- - tags: ['operating system']
-
-## Home - Foundation for Economic Education
- - [https://fee.org](https://fee.org)
- - date published: 2023-10-25T21:20:25.430776+00:00
- - user: None
- - tags: []
-
-## Feedbase
- - [https://feedbase.org](https://feedbase.org)
- - date published: 2023-10-25T21:20:26.634084+00:00
- - user: None
- - tags: []
-
-## feldspaten
- - [https://feldspaten.org](https://feldspaten.org)
- - date published: 2023-10-25T21:20:28.648981+00:00
- - user: None
- - tags: []
-
-## FFII | Foundation for a Free Information Infrastructure information on software patents, enforcement of IP, trade agreements
- - [https://ffii.org](https://ffii.org)
- - date published: 2023-10-25T21:20:31.744673+00:00
- - user: None
- - tags: []
-
-## FFmpeg
- - [https://ffmpeg.org](https://ffmpeg.org)
- - date published: 2023-10-25T21:20:33.094820+00:00
- - user: None
- - tags: []
-
-## FFmpeg
- - [https://www.ffmpeg.org](https://www.ffmpeg.org)
- - date published: 2023-10-25T21:20:34.755297+00:00
- - user: None
- - tags: []
-
-## Fifth Estate - Radical publishing since 1965
- - [https://www.fifthestate.org](https://www.fifthestate.org)
- - date published: 2023-10-25T21:20:45.587600+00:00
- - user: None
- - tags: []
-
-## Welcome to fiftythree.org
- - [http://www.fiftythree.org](http://www.fiftythree.org)
- - date published: 2023-10-25T21:20:49.852667+00:00
- - user: None
- - tags: []
-
-## Greatest Films - The Best Movies in Cinematic History
- - [https://www.filmsite.org](https://www.filmsite.org)
- - date published: 2023-10-27T14:19:55.460312+00:00
- - user: None
- - tags: ['movies']
-
-## Filmulator
- - [https://filmulator.org](https://filmulator.org)
- - date published: 2023-10-25T21:20:50.979098+00:00
- - user: None
- - tags: []
-
-## Filter - Harm reduction journalism from a dedicated nonprofit
- - [https://filtermag.org](https://filtermag.org)
- - date published: 2023-10-25T21:20:54.669237+00:00
- - user: None
- - tags: []
-
-## Perspective | Perspective
- - [https://perspective.finos.org](https://perspective.finos.org)
- - date published: 2023-10-25T21:20:56.182673+00:00
- - user: None
- - tags: []
-
-## First Monday
- - [https://firstmonday.org](https://firstmonday.org)
- - date published: 2023-10-25T10:40:03.231308+00:00
  - user: None
  - tags: []
 

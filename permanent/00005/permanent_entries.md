@@ -1,3 +1,58 @@
+## Not My Cows
+ - [https://notmycows.com](https://notmycows.com)
+ - date published: 2023-10-25T16:22:22.211652+00:00
+ - user: None
+ - tags: []
+
+## Stop others from tracking your car | NOTMYPLATE.COM
+ - [https://notmyplate.com](https://notmyplate.com)
+ - date published: 2023-10-25T16:22:22.710434+00:00
+ - user: None
+ - tags: []
+
+## No To Spy Pixels
+ - [https://notospypixels.com](https://notospypixels.com)
+ - date published: 2023-10-25T16:22:23.444274+00:00
+ - user: None
+ - tags: []
+
+## Not So Profound: A Newsletter for Misfit Psychonauts 🗞️
+ - [https://notsoprofound.com](https://notsoprofound.com)
+ - date published: 2023-10-25T16:22:24.427864+00:00
+ - user: None
+ - tags: []
+
+## NovaMostra - who seeks ... shall find
+ - [https://novamostra.com](https://novamostra.com)
+ - date published: 2023-10-25T16:22:29.141519+00:00
+ - user: None
+ - tags: []
+
+## No Vehicles In The Park
+ - [https://novehiclesinthepark.com](https://novehiclesinthepark.com)
+ - date published: 2023-10-25T16:22:32.007173+00:00
+ - user: None
+ - tags: []
+
+## NoveltyAnsweringMachine.com | The World's Largest Archive for Novelty 
+Answering Machine Greetings!
+ - [https://www.noveltyansweringmachine.com](https://www.noveltyansweringmachine.com)
+ - date published: 2023-10-25T16:22:33.282289+00:00
+ - user: None
+ - tags: []
+
+## 🚨🚨 That's a lot of YAML 🚨🚨
+ - [https://noyaml.com](https://noyaml.com)
+ - date published: 2023-10-25T16:22:34.214643+00:00
+ - user: None
+ - tags: []
+
+## n+1 | n+1 is a print and digital magazine of literature, culture, and politics.
+ - [https://www.nplusonemag.com](https://www.nplusonemag.com)
+ - date published: 2023-10-25T16:22:37.832655+00:00
+ - user: None
+ - tags: []
+
 ## npm | Home
  - [https://www.npmjs.com](https://www.npmjs.com)
  - date published: 2023-10-25T16:22:41.165614+00:00
@@ -5950,60 +6005,6 @@
 ## Shepherd - Browse the best books to read.
  - [https://shepherd.com](https://shepherd.com)
  - date published: 2023-11-01T13:03:34.046684+00:00
- - user: None
- - tags: []
-
-## Sherman On Software
- - [https://shermanonsoftware.com](https://shermanonsoftware.com)
- - date published: 2023-10-29T04:21:17.368512+00:00
- - user: None
- - tags: []
-
-## Shining Science
- - [https://www.shiningscience.com](https://www.shiningscience.com)
- - date published: 2023-10-25T17:03:30.804921+00:00
- - user: None
- - tags: []
-
-## Shitlassian - name and shame
- - [https://shitlassian.com](https://shitlassian.com)
- - date published: 2023-10-25T17:03:32.102260+00:00
- - user: None
- - tags: []
-
-## shmuplations.com
- - [https://shmuplations.com](https://shmuplations.com)
- - date published: 2023-10-25T17:03:34.248572+00:00
- - user: None
- - tags: []
-
-## Shondaland.com
- - [https://www.shondaland.com](https://www.shondaland.com)
- - date published: 2023-10-25T17:03:37.480551+00:00
- - user: None
- - tags: []
-
-## Shopify - Pressroom
- - [https://news.shopify.com](https://news.shopify.com)
- - date published: 2023-10-25T17:03:39.469521+00:00
- - user: None
- - tags: []
-
-## Shortwave — The smartest email app on planet Earth
- - [https://www.shortwave.com](https://www.shortwave.com)
- - date published: 2023-10-25T17:03:40.767954+00:00
- - user: None
- - tags: []
-
-## ShowBizPizza.com | Where Everyone Can Be a Kid
- - [https://www.showbizpizza.com](https://www.showbizpizza.com)
- - date published: 2023-10-25T17:03:47.085791+00:00
- - user: None
- - tags: []
-
-## Shruggingface - Exploring the future with artificial intelligence
- - [https://www.shruggingface.com](https://www.shruggingface.com)
- - date published: 2023-10-25T17:03:52.789799+00:00
  - user: None
  - tags: []
 

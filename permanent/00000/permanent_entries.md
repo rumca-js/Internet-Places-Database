@@ -3593,6 +3593,12 @@
  - user: None
  - tags: []
 
+## University of Alberta
+ - [https://www.ualberta.ca](https://www.ualberta.ca)
+ - date published: 2023-11-07T11:03:04.316671+00:00
+ - user: None
+ - tags: []
+
 ## UBC News: News from the University of British Columbia
  - [https://news.ubc.ca](https://news.ubc.ca)
  - date published: 2023-10-25T12:08:34.236560+00:00
@@ -4197,6 +4203,12 @@
 ## Dare To Build Your Data-Driven Future - Visium
  - [https://www.visium.ch](https://www.visium.ch)
  - date published: 2023-10-25T12:15:00.565886+00:00
+ - user: None
+ - tags: []
+
+## aider is AI pair programming in your terminal
+ - [https://aider.chat](https://aider.chat)
+ - date published: 2023-11-08T00:15:40.726262+00:00
  - user: None
  - tags: []
 
@@ -5979,18 +5991,6 @@
 ## Fact Check |
  - [https://factcheck.afp.com](https://factcheck.afp.com)
  - date published: 2023-10-25T12:34:29.892424+00:00
- - user: None
- - tags: []
-
-## Financial Review - Business, Finance and Investment News | afr.com
- - [https://www.afr.com](https://www.afr.com)
- - date published: 2023-10-25T12:34:36.173207+00:00
- - user: None
- - tags: []
-
-## Afridigest | Ideas, analysis, & insight for business innovators across Africa & beyond.
- - [https://afridigest.com](https://afridigest.com)
- - date published: 2023-10-25T12:34:42.761602+00:00
  - user: None
  - tags: []
 

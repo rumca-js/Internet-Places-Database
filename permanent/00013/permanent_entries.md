@@ -1,3 +1,201 @@
+## SolarPACES - International CSP research
+ - [https://www.solarpaces.org](https://www.solarpaces.org)
+ - date published: 2023-10-25T22:09:59.992144+00:00
+ - user: None
+ - tags: []
+
+## Home · Solid
+ - [https://solidproject.org](https://solidproject.org)
+ - date published: 2023-10-25T22:10:03.110937+00:00
+ - user: None
+ - tags: []
+
+## Source Academy
+ - [https://sourceacademy.org](https://sourceacademy.org)
+ - date published: 2023-10-25T22:10:04.254495+00:00
+ - user: None
+ - tags: []
+
+## sourcehut - the hacker's forge
+ - [https://sourcehut.org](https://sourcehut.org)
+ - date published: 2023-10-25T22:10:11.306606+00:00
+ - user: None
+ - tags: []
+
+## sourceware.org:  Free software!  Get your fresh hot free software!
+ - [https://sourceware.org](https://sourceware.org)
+ - date published: 2023-10-25T22:10:14.177604+00:00
+ - user: None
+ - tags: []
+
+## Church of the Flying Spaghetti Monster – The world's fastest growing religion
+ - [https://www.spaghettimonster.org](https://www.spaghettimonster.org)
+ - date published: 2023-10-25T11:33:27.690487+00:00
+ - user: None
+ - tags: []
+
+## Spatial
+ - [https://spatial-lang.org](https://spatial-lang.org)
+ - date published: 2023-10-25T22:10:16.765918+00:00
+ - user: None
+ - tags: []
+
+## The American Spectator | USA News and Politics
+ - [https://spectator.org](https://spectator.org)
+ - date published: 2023-10-25T22:10:25.131810+00:00
+ - user: None
+ - tags: []
+
+## Southern Poverty Law Center
+ - [https://www.splcenter.org](https://www.splcenter.org)
+ - date published: 2023-10-25T22:10:28.735082+00:00
+ - user: None
+ - tags: []
+
+## SQLAlchemy - The Database Toolkit for Python
+ - [https://www.sqlalchemy.org](https://www.sqlalchemy.org)
+ - date published: 2023-10-25T22:10:35.303229+00:00
+ - user: None
+ - tags: []
+
+## SQLite Home Page
+ - [https://sqlite.org](https://sqlite.org)
+ - date published: 2023-10-25T08:34:11.917438+00:00
+ - user: None
+ - tags: []
+
+## SQLite Home Page
+ - [https://www.sqlite.org](https://www.sqlite.org)
+ - date published: 2023-10-25T08:30:44.493063+00:00
+ - user: None
+ - tags: ['open source']
+
+## sqlpkg - SQLite Package Manager and Registry
+ - [https://sqlpkg.org](https://sqlpkg.org)
+ - date published: 2023-10-25T22:10:36.907709+00:00
+ - user: None
+ - tags: []
+
+## Swikis on this Site
+ - [https://wiki.squeak.org](https://wiki.squeak.org)
+ - date published: 2023-10-25T22:10:38.150045+00:00
+ - user: None
+ - tags: []
+
+## Stanford Social Innovation Review: Informing and Inspiring Leaders of Social Change
+ - [https://ssir.org](https://ssir.org)
+ - date published: 2023-10-25T22:10:50.257498+00:00
+ - user: None
+ - tags: []
+
+## Home - The Scholarly Kitchen
+ - [https://scholarlykitchen.sspnet.org](https://scholarlykitchen.sspnet.org)
+ - date published: 2023-10-25T22:10:54.233750+00:00
+ - user: None
+ - tags: []
+
+## Richard Stallman's Personal Page
+ - [https://stallman.org](https://stallman.org)
+ - date published: 2023-10-25T08:55:16.261378+00:00
+ - user: None
+ - tags: ['open source', 'personal']
+
+## Introduction | Stallman Support
+ - [https://stallmansupport.org](https://stallmansupport.org)
+ - date published: 2023-10-25T22:10:55.015261+00:00
+ - user: None
+ - tags: []
+
+## Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.
+ - [https://standardebooks.org](https://standardebooks.org)
+ - date published: 2023-10-25T22:10:56.245275+00:00
+ - user: None
+ - tags: []
+
+## Statewatch |
+ - [https://www.statewatch.org](https://www.statewatch.org)
+ - date published: 2023-10-25T22:10:57.959001+00:00
+ - user: None
+ - tags: []
+
+## Stellarium Astronomy Software
+ - [https://stellarium.org](https://stellarium.org)
+ - date published: 2023-10-25T22:10:59.327792+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.stevelipner.org](https://www.stevelipner.org)
+ - date published: 2023-10-25T22:11:00.688213+00:00
+ - user: None
+ - tags: []
+
+## One-Step Webpages by Stephen P. Morse
+ - [https://stevemorse.org](https://stevemorse.org)
+ - date published: 2023-10-25T22:11:08.422161+00:00
+ - user: None
+ - tags: []
+
+## Stéphane Graber's website
+ - [https://stgraber.org](https://stgraber.org)
+ - date published: 2023-10-25T22:11:13.024939+00:00
+ - user: None
+ - tags: []
+
+## The Stinging Fly – New Writers, New Writing
+ - [https://stingingfly.org](https://stingingfly.org)
+ - date published: 2023-10-25T22:11:21.155830+00:00
+ - user: None
+ - tags: []
+
+## Federal Reserve Economic Data | FRED | St. Louis Fed
+ - [https://fred.stlouisfed.org](https://fred.stlouisfed.org)
+ - date published: 2023-10-25T22:11:23.050121+00:00
+ - user: None
+ - tags: []
+
+## FRED Blog | Interesting graphs from the FRED library
+ - [https://fredblog.stlouisfed.org](https://fredblog.stlouisfed.org)
+ - date published: 2023-10-25T22:11:26.375746+00:00
+ - user: None
+ - tags: []
+
+## Stockfish - Open Source Chess Engine
+ - [https://stockfishchess.org](https://stockfishchess.org)
+ - date published: 2023-10-25T22:11:27.059896+00:00
+ - user: None
+ - tags: []
+
+## StrategyWiki, the free strategy guide and walkthrough wiki
+ - [https://strategywiki.org](https://strategywiki.org)
+ - date published: 2023-10-25T11:18:26.623232+00:00
+ - user: None
+ - tags: []
+
+## Homepage — Streetsblog USA
+ - [https://usa.streetsblog.org](https://usa.streetsblog.org)
+ - date published: 2023-10-25T22:11:35.865350+00:00
+ - user: None
+ - tags: []
+
+## Conor's Staring out the Window
+ - [http://strictlypositive.org](http://strictlypositive.org)
+ - date published: 2023-10-25T22:11:37.341628+00:00
+ - user: None
+ - tags: []
+
+## Strong Towns
+ - [https://www.strongtowns.org](https://www.strongtowns.org)
+ - date published: 2023-10-25T22:11:39.760573+00:00
+ - user: None
+ - tags: []
+
+## Study Finds - Original news coverage of the latest research studies
+ - [https://studyfinds.org](https://studyfinds.org)
+ - date published: 2023-10-25T22:11:44.208145+00:00
+ - user: None
+ - tags: []
+
 ## SubAnima
  - [https://www.subanima.org](https://www.subanima.org)
  - date published: 2023-10-25T22:11:45.191195+00:00
@@ -349,6 +547,12 @@
 ## The Marshall Project
  - [https://www.themarshallproject.org](https://www.themarshallproject.org)
  - date published: 2023-10-25T22:14:13.882732+00:00
+ - user: None
+ - tags: []
+
+## The Media Line - Trusted Mideast News
+ - [https://themedialine.org](https://themedialine.org)
+ - date published: 2023-11-07T18:14:10.457841+00:00
  - user: None
  - tags: []
 
@@ -763,6 +967,12 @@
 ## UNEP - UN Environment Programme
  - [https://www.unep.org](https://www.unep.org)
  - date published: 2023-10-25T22:16:28.858183+00:00
+ - user: None
+ - tags: []
+
+## UNHCR, the UN Refugee Agency | UNHCR
+ - [https://www.unhcr.org](https://www.unhcr.org)
+ - date published: 2023-11-07T18:14:19.052073+00:00
  - user: None
  - tags: []
 
@@ -2181,6 +2391,12 @@ is forbidden
 ## DEON.pl
  - [https://deon.pl](https://deon.pl)
  - date published: 2023-10-25T22:26:47.842454+00:00
+ - user: None
+ - tags: []
+
+## Archidiecezja Krakowska - Strona Archidiecezji Krakowskiej
+ - [https://diecezja.pl](https://diecezja.pl)
+ - date published: 2023-11-07T09:24:34.029916+00:00
  - user: None
  - tags: []
 
@@ -4153,6 +4369,12 @@ is forbidden
  - user: None
  - tags: []
 
+## Gleam: a type safe language on the Erlang VM
+ - [https://gleam.run](https://gleam.run)
+ - date published: 2023-11-07T21:53:29+00:00
+ - user: None
+ - tags: []
+
 ## iNet
  - [https://inet.run](https://inet.run)
  - date published: 2023-10-25T08:31:33.654821+00:00
@@ -4762,6 +4984,12 @@ is forbidden
 ## Narodni muzej Slovenije
  - [https://www.nms.si](https://www.nms.si)
  - date published: 2023-10-25T22:39:12.070893+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Aftermath
+ - [https://aftermath.site](https://aftermath.site)
+ - date published: 2023-11-07T15:23:01.879660+00:00
  - user: None
  - tags: []
 
@@ -5773,234 +6001,6 @@ conflicts of interest and restore Community Trust.
 ## Landing Engineering
  - [https://blog.hellolanding.tech](https://blog.hellolanding.tech)
  - date published: 2023-10-25T22:44:10.798939+00:00
- - user: None
- - tags: []
-
-## Hex - Magical data tools for working with data together
- - [https://hex.tech](https://hex.tech)
- - date published: 2023-10-25T22:44:12.529147+00:00
- - user: None
- - tags: []
-
-## HPC-AI Tech - Deep Learning Speed and Scale, Open Source
- - [https://www.hpc-ai.tech](https://www.hpc-ai.tech)
- - date published: 2023-10-25T22:44:15.106088+00:00
- - user: None
- - tags: []
-
-## Intercept, debug & mock HTTP with HTTP Toolkit
- - [https://httptoolkit.tech](https://httptoolkit.tech)
- - date published: 2023-10-25T22:44:22.116524+00:00
- - user: None
- - tags: []
-
-## IBEX
- - [https://ibex.tech](https://ibex.tech)
- - date published: 2023-10-25T22:44:23.978327+00:00
- - user: None
- - tags: []
-
-## iodé - Take back control of your data.
- - [https://iode.tech](https://iode.tech)
- - date published: 2023-10-25T22:44:27.390058+00:00
- - user: None
- - tags: []
-
-## Home | IPFS Blog & News
- - [https://blog.ipfs.tech](https://blog.ipfs.tech)
- - date published: 2023-10-25T22:44:33.770088+00:00
- - user: None
- - tags: []
-
-## Leporello.js · Interactive functional programming IDE for JavaScript
- - [https://leporello.tech](https://leporello.tech)
- - date published: 2023-10-25T22:44:34.491251+00:00
- - user: None
- - tags: []
-
-## We are Manas
- - [https://manas.tech](https://manas.tech)
- - date published: 2023-10-26T06:39:43.427836+00:00
- - user: None
- - tags: []
-
-## Home | Modos
- - [https://www.modos.tech](https://www.modos.tech)
- - date published: 2023-10-25T22:44:40.523599+00:00
- - user: None
- - tags: []
-
-## Neon — Serverless, Fault-Tolerant, Branchable Postgres
- - [https://neon.tech](https://neon.tech)
- - date published: 2023-10-25T22:44:42.493550+00:00
- - user: None
- - tags: []
-
-## Nothing (United States)
- - [https://us.nothing.tech](https://us.nothing.tech)
- - date published: 2023-10-25T22:44:45.536178+00:00
- - user: None
- - tags: []
-
-## http://report.opensustain.tech
- - [http://report.opensustain.tech](http://report.opensustain.tech)
- - date published: 2023-10-25T22:44:45.913149+00:00
- - user: None
- - tags: []
-
-## Qdrant - Vector Database
- - [https://qdrant.tech](https://qdrant.tech)
- - date published: 2023-10-25T22:44:47.684444+00:00
- - user: None
- - tags: []
-
-## Sanket Shanbhag
- - [https://sanket.tech](https://sanket.tech)
- - date published: 2023-10-25T08:57:30.024022+00:00
- - user: None
- - tags: ['personal']
-
-## spiffytech
- - [https://spiffy.tech](https://spiffy.tech)
- - date published: 2023-10-25T22:44:49.054342+00:00
- - user: None
- - tags: []
-
-## Vladimir Klepov as a Coder
- - [https://blog.thoughtspile.tech](https://blog.thoughtspile.tech)
- - date published: 2023-10-25T22:44:49.893333+00:00
- - user: None
- - tags: []
-
-## Learn Building Modern Go applications - Three Dots Labs blog
- - [https://threedots.tech](https://threedots.tech)
- - date published: 2023-11-01T08:44:41.241942+00:00
- - user: None
- - tags: []
-
-## TinyVG Vector Graphics
- - [https://tinyvg.tech](https://tinyvg.tech)
- - date published: 2023-10-27T12:07:55.561755+00:00
- - user: None
- - tags: []
-
-## ToolHub · Online webtools
- - [https://toolhub.tech](https://toolhub.tech)
- - date published: 2023-10-27T12:07:58.014742+00:00
- - user: None
- - tags: []
-
-## TRIBAL KNOWLEDGE - Knowledge Sharing Process Automation
- - [https://www.tribalknowledge.tech](https://www.tribalknowledge.tech)
- - date published: 2023-10-27T12:08:00.055280+00:00
- - user: None
- - tags: []
-
-## Turso Blog
- - [https://blog.turso.tech](https://blog.turso.tech)
- - date published: 2023-10-25T10:23:55.028481+00:00
- - user: None
- - tags: []
-
-## Unstructed.tech
- - [https://unstructed.tech](https://unstructed.tech)
- - date published: 2023-10-27T12:08:02.752207+00:00
- - user: None
- - tags: []
-
-## /uses
- - [https://uses.tech](https://uses.tech)
- - date published: 2023-10-27T12:08:40.398803+00:00
- - user: None
- - tags: []
-
-## Abstract Machinist
- - [https://voidstar.tech](https://voidstar.tech)
- - date published: 2023-10-27T12:08:41.186511+00:00
- - user: None
- - tags: []
-
-## Winny's Blog
- - [https://blog.winny.tech](https://blog.winny.tech)
- - date published: 2023-10-25T09:24:51.352755+00:00
- - user: None
- - tags: ['personal']
-
-## https://pranshum.yarn.tech
- - [https://pranshum.yarn.tech](https://pranshum.yarn.tech)
- - date published: 2023-10-27T12:08:42.161041+00:00
- - user: None
- - tags: []
-
-## Zuru Tech - Changing the way we build
- - [https://zuru.tech](https://zuru.tech)
- - date published: 2023-10-27T12:08:43.088416+00:00
- - user: None
- - tags: []
-
-## The Stack
- - [https://thestack.technology](https://thestack.technology)
- - date published: 2023-10-27T12:08:49.317432+00:00
- - user: None
- - tags: []
-
-## The Stack
- - [https://www.thestack.technology](https://www.thestack.technology)
- - date published: 2023-10-27T12:08:50.148423+00:00
- - user: None
- - tags: []
-
-## blog.dave.tf
- - [https://blog.dave.tf](https://blog.dave.tf)
- - date published: 2023-10-25T09:24:52.465504+00:00
- - user: None
- - tags: ['personal']
-
-## notes.dt.in.th | notes.dt.in.th
- - [https://notes.dt.in.th](https://notes.dt.in.th)
- - date published: 2023-10-25T22:46:03.059073+00:00
- - user: None
- - tags: []
-
-## DX Tips: The DevTools Magazine
- - [https://dx.tips](https://dx.tips)
- - date published: 2023-10-25T22:46:09.880882+00:00
- - user: None
- - tags: []
-
-## Fedi.Tips – An Unofficial Guide to Mastodon and the Fediverse
- - [https://fedi.tips](https://fedi.tips)
- - date published: 2023-10-25T22:46:12.057334+00:00
- - user: None
- - tags: []
-
-## Overview of Projects
- - [https://deat.tk](https://deat.tk)
- - date published: 2023-10-25T22:46:12.989902+00:00
- - user: None
- - tags: []
-
-## keygenmusic.tk - tracker music player
- - [https://keygenmusic.tk](https://keygenmusic.tk)
- - date published: 2023-10-25T11:13:57.912458+00:00
- - user: None
- - tags: ['chiptune', 'demoscene', 'keygen']
-
-## WeTransfer - Send Large Files & Share Photos Online - Up to 2GB Free
- - [https://we.tl](https://we.tl)
- - date published: 2023-11-06T22:50:48.746634+00:00
- - user: None
- - tags: []
-
-## Watch Anime Online, Free Anime Streaming Online on Aniwatch.to Anime Website
- - [https://aniwatch.to](https://aniwatch.to)
- - date published: 2023-10-25T13:12:13.844100+00:00
- - user: None
- - tags: ['video streaming', 'anime']
-
-## DEV Community
- - [https://dev.to](https://dev.to)
- - date published: 2023-10-25T11:33:22.959017+00:00
  - user: None
  - tags: []
 

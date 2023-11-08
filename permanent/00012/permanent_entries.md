@@ -1,3 +1,177 @@
+## Extism - make all software programmable. Extend from within. | Extism - make all software programmable. Extend from within.
+ - [https://extism.org](https://extism.org)
+ - date published: 2023-10-25T21:19:54.073061+00:00
+ - user: None
+ - tags: []
+
+## F-Droid - Free and Open Source Android App Repository
+ - [https://f-droid.org](https://f-droid.org)
+ - date published: 2023-10-24T20:10:50.007548+00:00
+ - user: None
+ - tags: ['open source', 'app store']
+
+## F4PGA - the GCC of FPGAs
+ - [https://f4pga.org](https://f4pga.org)
+ - date published: 2023-10-25T21:19:57.352430+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [https://fair.org](https://fair.org)
+ - date published: 2023-10-25T21:19:59.248745+00:00
+ - user: None
+ - tags: []
+
+## Fair Trials | Fairness, equality, justice
+ - [https://www.fairtrials.org](https://www.fairtrials.org)
+ - date published: 2023-10-25T21:20:03.100788+00:00
+ - user: None
+ - tags: []
+
+## Falco
+ - [https://falco.org](https://falco.org)
+ - date published: 2023-10-25T21:20:05.441013+00:00
+ - user: None
+ - tags: []
+
+## Fanlore
+ - [https://fanlore.org](https://fanlore.org)
+ - date published: 2023-10-25T13:58:14.775906+00:00
+ - user: None
+ - tags: []
+
+## Home - Federation of American Scientists
+ - [https://fas.org](https://fas.org)
+ - date published: 2023-10-25T21:20:09.087511+00:00
+ - user: None
+ - tags: []
+
+## FAS Project on Government Secrecy (1991-2021)
+ - [https://sgp.fas.org](https://sgp.fas.org)
+ - date published: 2023-10-25T21:20:11.503363+00:00
+ - user: None
+ - tags: []
+
+## Fe - A next generation, statically typed, future-proof smart contract language for the Ethereum Virtual Machine
+ - [https://fe-lang.org](https://fe-lang.org)
+ - date published: 2023-10-25T21:20:12.316273+00:00
+ - user: None
+ - tags: []
+
+## Home | Federal Reserve History
+ - [https://www.federalreservehistory.org](https://www.federalreservehistory.org)
+ - date published: 2023-10-25T21:20:14.023107+00:00
+ - user: None
+ - tags: []
+
+## FediScience.org
+ - [https://fediscience.org](https://fediscience.org)
+ - date published: 2023-10-25T21:20:14.575500+00:00
+ - user: None
+ - tags: []
+
+## Fedora Magazine - Guides, information, and news about the Fedora operating system for users, developers, system administrators, and community members.
+ - [https://fedoramagazine.org](https://fedoramagazine.org)
+ - date published: 2023-10-25T21:20:17.331969+00:00
+ - user: None
+ - tags: []
+
+## Fedora Updates System
+ - [https://bodhi.fedoraproject.org](https://bodhi.fedoraproject.org)
+ - date published: 2023-10-25T21:20:23.751445+00:00
+ - user: None
+ - tags: []
+
+## Fedora Linux | The Fedora Project
+ - [https://www.fedoraproject.org](https://www.fedoraproject.org)
+ - date published: 2023-10-25T08:32:14.208110+00:00
+ - user: None
+ - tags: ['operating system']
+
+## Home - Foundation for Economic Education
+ - [https://fee.org](https://fee.org)
+ - date published: 2023-10-25T21:20:25.430776+00:00
+ - user: None
+ - tags: []
+
+## Feedbase
+ - [https://feedbase.org](https://feedbase.org)
+ - date published: 2023-10-25T21:20:26.634084+00:00
+ - user: None
+ - tags: []
+
+## feldspaten
+ - [https://feldspaten.org](https://feldspaten.org)
+ - date published: 2023-10-25T21:20:28.648981+00:00
+ - user: None
+ - tags: []
+
+## FFII | Foundation for a Free Information Infrastructure information on software patents, enforcement of IP, trade agreements
+ - [https://ffii.org](https://ffii.org)
+ - date published: 2023-10-25T21:20:31.744673+00:00
+ - user: None
+ - tags: []
+
+## FFmpeg
+ - [https://ffmpeg.org](https://ffmpeg.org)
+ - date published: 2023-10-25T21:20:33.094820+00:00
+ - user: None
+ - tags: []
+
+## FFmpeg
+ - [https://www.ffmpeg.org](https://www.ffmpeg.org)
+ - date published: 2023-10-25T21:20:34.755297+00:00
+ - user: None
+ - tags: []
+
+## Fifth Estate - Radical publishing since 1965
+ - [https://www.fifthestate.org](https://www.fifthestate.org)
+ - date published: 2023-10-25T21:20:45.587600+00:00
+ - user: None
+ - tags: []
+
+## Welcome to fiftythree.org
+ - [http://www.fiftythree.org](http://www.fiftythree.org)
+ - date published: 2023-10-25T21:20:49.852667+00:00
+ - user: None
+ - tags: []
+
+## Greatest Films - The Best Movies in Cinematic History
+ - [https://www.filmsite.org](https://www.filmsite.org)
+ - date published: 2023-10-27T14:19:55.460312+00:00
+ - user: None
+ - tags: ['movies']
+
+## Filmulator
+ - [https://filmulator.org](https://filmulator.org)
+ - date published: 2023-10-25T21:20:50.979098+00:00
+ - user: None
+ - tags: []
+
+## Filter - Harm reduction journalism from a dedicated nonprofit
+ - [https://filtermag.org](https://filtermag.org)
+ - date published: 2023-10-25T21:20:54.669237+00:00
+ - user: None
+ - tags: []
+
+## Perspective | Perspective
+ - [https://perspective.finos.org](https://perspective.finos.org)
+ - date published: 2023-10-25T21:20:56.182673+00:00
+ - user: None
+ - tags: []
+
+## First Monday
+ - [https://firstmonday.org](https://firstmonday.org)
+ - date published: 2023-10-25T10:40:03.231308+00:00
+ - user: None
+ - tags: []
+
+## Home - First Street Foundation
+ - [https://firststreet.org](https://firststreet.org)
+ - date published: 2023-10-25T21:21:02.002987+00:00
+ - user: None
+ - tags: []
+
 ## www.fitzsim.org - Home
  - [https://www.fitzsim.org](https://www.fitzsim.org)
  - date published: 2023-10-25T21:21:04.082460+00:00
@@ -1102,6 +1276,12 @@
 ## International Association of Privacy Professionals
  - [https://iapp.org](https://iapp.org)
  - date published: 2023-10-25T21:29:55.000235+00:00
+ - user: None
+ - tags: []
+
+## JTUR: home
+ - [https://jtur.iatur.org](https://jtur.iatur.org)
+ - date published: 2023-11-07T18:14:15.877684+00:00
  - user: None
  - tags: []
 
@@ -2446,6 +2626,12 @@ Hosted by Panix.com.
  - user: None
  - tags: []
 
+## Award-winning cancer care in Virginia
+ - [https://www.masseycancercenter.org](https://www.masseycancercenter.org)
+ - date published: 2023-11-07T14:33:04.946309+00:00
+ - user: None
+ - tags: []
+
 ## massicotte.org | I write stuff here.
  - [https://www.massicotte.org](https://www.massicotte.org)
  - date published: 2023-10-25T21:40:44.215042+00:00
@@ -2762,6 +2948,12 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
+## Maine Indian Tribal-State Commission
+ - [https://www.mitsc.org](https://www.mitsc.org)
+ - date published: 2023-11-07T15:22:54.544635+00:00
+ - user: None
+ - tags: []
+
 ## Tom's Home Page
  - [http://cholla.mmto.org](http://cholla.mmto.org)
  - date published: 2023-10-27T12:06:43.535423+00:00
@@ -2795,6 +2987,12 @@ Common Weakness Enumeration
 ## Monkeynoodle.Org – A Scientific Venture!
  - [https://monkeynoodle.org](https://monkeynoodle.org)
  - date published: 2023-10-25T21:44:16.728817+00:00
+ - user: None
+ - tags: []
+
+## Monoskop
+ - [https://monoskop.org](https://monoskop.org)
+ - date published: 2023-11-07T15:23:03.904739+00:00
  - user: None
  - tags: []
 
@@ -5802,206 +6000,6 @@ Common Weakness Enumeration
 ## index — Quarrelsome
  - [https://sockpuppet.org](https://sockpuppet.org)
  - date published: 2023-10-25T22:09:48.555382+00:00
- - user: None
- - tags: []
-
-## Software Preservation Group
-        —
-        Software Preservation Group
- - [https://www.softwarepreservation.org](https://www.softwarepreservation.org)
- - date published: 2023-10-25T22:09:52.170128+00:00
- - user: None
- - tags: []
-
-## SolarPACES - International CSP research
- - [https://www.solarpaces.org](https://www.solarpaces.org)
- - date published: 2023-10-25T22:09:59.992144+00:00
- - user: None
- - tags: []
-
-## Home · Solid
- - [https://solidproject.org](https://solidproject.org)
- - date published: 2023-10-25T22:10:03.110937+00:00
- - user: None
- - tags: []
-
-## Source Academy
- - [https://sourceacademy.org](https://sourceacademy.org)
- - date published: 2023-10-25T22:10:04.254495+00:00
- - user: None
- - tags: []
-
-## sourcehut - the hacker's forge
- - [https://sourcehut.org](https://sourcehut.org)
- - date published: 2023-10-25T22:10:11.306606+00:00
- - user: None
- - tags: []
-
-## sourceware.org:  Free software!  Get your fresh hot free software!
- - [https://sourceware.org](https://sourceware.org)
- - date published: 2023-10-25T22:10:14.177604+00:00
- - user: None
- - tags: []
-
-## Church of the Flying Spaghetti Monster – The world's fastest growing religion
- - [https://www.spaghettimonster.org](https://www.spaghettimonster.org)
- - date published: 2023-10-25T11:33:27.690487+00:00
- - user: None
- - tags: []
-
-## Spatial
- - [https://spatial-lang.org](https://spatial-lang.org)
- - date published: 2023-10-25T22:10:16.765918+00:00
- - user: None
- - tags: []
-
-## The American Spectator | USA News and Politics
- - [https://spectator.org](https://spectator.org)
- - date published: 2023-10-25T22:10:25.131810+00:00
- - user: None
- - tags: []
-
-## Southern Poverty Law Center
- - [https://www.splcenter.org](https://www.splcenter.org)
- - date published: 2023-10-25T22:10:28.735082+00:00
- - user: None
- - tags: []
-
-## SQLAlchemy - The Database Toolkit for Python
- - [https://www.sqlalchemy.org](https://www.sqlalchemy.org)
- - date published: 2023-10-25T22:10:35.303229+00:00
- - user: None
- - tags: []
-
-## SQLite Home Page
- - [https://sqlite.org](https://sqlite.org)
- - date published: 2023-10-25T08:34:11.917438+00:00
- - user: None
- - tags: []
-
-## SQLite Home Page
- - [https://www.sqlite.org](https://www.sqlite.org)
- - date published: 2023-10-25T08:30:44.493063+00:00
- - user: None
- - tags: ['open source']
-
-## sqlpkg - SQLite Package Manager and Registry
- - [https://sqlpkg.org](https://sqlpkg.org)
- - date published: 2023-10-25T22:10:36.907709+00:00
- - user: None
- - tags: []
-
-## Swikis on this Site
- - [https://wiki.squeak.org](https://wiki.squeak.org)
- - date published: 2023-10-25T22:10:38.150045+00:00
- - user: None
- - tags: []
-
-## Stanford Social Innovation Review: Informing and Inspiring Leaders of Social Change
- - [https://ssir.org](https://ssir.org)
- - date published: 2023-10-25T22:10:50.257498+00:00
- - user: None
- - tags: []
-
-## Home - The Scholarly Kitchen
- - [https://scholarlykitchen.sspnet.org](https://scholarlykitchen.sspnet.org)
- - date published: 2023-10-25T22:10:54.233750+00:00
- - user: None
- - tags: []
-
-## Richard Stallman's Personal Page
- - [https://stallman.org](https://stallman.org)
- - date published: 2023-10-25T08:55:16.261378+00:00
- - user: None
- - tags: ['open source', 'personal']
-
-## Introduction | Stallman Support
- - [https://stallmansupport.org](https://stallmansupport.org)
- - date published: 2023-10-25T22:10:55.015261+00:00
- - user: None
- - tags: []
-
-## Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.
- - [https://standardebooks.org](https://standardebooks.org)
- - date published: 2023-10-25T22:10:56.245275+00:00
- - user: None
- - tags: []
-
-## Statewatch |
- - [https://www.statewatch.org](https://www.statewatch.org)
- - date published: 2023-10-25T22:10:57.959001+00:00
- - user: None
- - tags: []
-
-## Stellarium Astronomy Software
- - [https://stellarium.org](https://stellarium.org)
- - date published: 2023-10-25T22:10:59.327792+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.stevelipner.org](https://www.stevelipner.org)
- - date published: 2023-10-25T22:11:00.688213+00:00
- - user: None
- - tags: []
-
-## One-Step Webpages by Stephen P. Morse
- - [https://stevemorse.org](https://stevemorse.org)
- - date published: 2023-10-25T22:11:08.422161+00:00
- - user: None
- - tags: []
-
-## Stéphane Graber's website
- - [https://stgraber.org](https://stgraber.org)
- - date published: 2023-10-25T22:11:13.024939+00:00
- - user: None
- - tags: []
-
-## The Stinging Fly – New Writers, New Writing
- - [https://stingingfly.org](https://stingingfly.org)
- - date published: 2023-10-25T22:11:21.155830+00:00
- - user: None
- - tags: []
-
-## Federal Reserve Economic Data | FRED | St. Louis Fed
- - [https://fred.stlouisfed.org](https://fred.stlouisfed.org)
- - date published: 2023-10-25T22:11:23.050121+00:00
- - user: None
- - tags: []
-
-## FRED Blog | Interesting graphs from the FRED library
- - [https://fredblog.stlouisfed.org](https://fredblog.stlouisfed.org)
- - date published: 2023-10-25T22:11:26.375746+00:00
- - user: None
- - tags: []
-
-## Stockfish - Open Source Chess Engine
- - [https://stockfishchess.org](https://stockfishchess.org)
- - date published: 2023-10-25T22:11:27.059896+00:00
- - user: None
- - tags: []
-
-## StrategyWiki, the free strategy guide and walkthrough wiki
- - [https://strategywiki.org](https://strategywiki.org)
- - date published: 2023-10-25T11:18:26.623232+00:00
- - user: None
- - tags: []
-
-## Homepage — Streetsblog USA
- - [https://usa.streetsblog.org](https://usa.streetsblog.org)
- - date published: 2023-10-25T22:11:35.865350+00:00
- - user: None
- - tags: []
-
-## Conor's Staring out the Window
- - [http://strictlypositive.org](http://strictlypositive.org)
- - date published: 2023-10-25T22:11:37.341628+00:00
- - user: None
- - tags: []
-
-## Strong Towns
- - [https://www.strongtowns.org](https://www.strongtowns.org)
- - date published: 2023-10-25T22:11:39.760573+00:00
  - user: None
  - tags: []
 

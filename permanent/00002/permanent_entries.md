@@ -1,3 +1,21 @@
+## yet another tech-blog - made in Switzerland
+ - [https://www.claudiokuenzler.com](https://www.claudiokuenzler.com)
+ - date published: 2023-10-25T13:25:46.623422+00:00
+ - user: None
+ - tags: []
+
+## Cleantech News — #1 In EV, Solar, Wind, Tesla News
+ - [https://cleantechnica.com](https://cleantechnica.com)
+ - date published: 2023-10-25T13:25:53.572311+00:00
+ - user: None
+ - tags: []
+
+## Home | Clearleft
+ - [https://clearleft.com](https://clearleft.com)
+ - date published: 2023-10-25T13:26:02.351814+00:00
+ - user: None
+ - tags: []
+
 ## Clement Neo - Blog
  - [https://clementneo.com](https://clementneo.com)
  - date published: 2023-10-25T09:19:48.402987+00:00
@@ -1119,6 +1137,12 @@
  - user: None
  - tags: []
 
+## CrimeReads
+ - [https://crimereads.com](https://crimereads.com)
+ - date published: 2023-11-07T14:07:13.850793+00:00
+ - user: None
+ - tags: []
+
 ## CrimethInc. ex-Workers’ Collective: Your ticket to a world free of charge
  - [https://crimethinc.com](https://crimethinc.com)
  - date published: 2023-11-01T08:41:53.567673+00:00
@@ -1128,6 +1152,12 @@
 ## I, Cringely
  - [https://www.cringely.com](https://www.cringely.com)
  - date published: 2023-10-25T13:36:47.106347+00:00
+ - user: None
+ - tags: []
+
+## Notes on the Crises
+ - [https://www.crisesnotes.com](https://www.crisesnotes.com)
+ - date published: 2023-11-07T19:56:40.157638+00:00
  - user: None
  - tags: []
 
@@ -2008,6 +2038,12 @@
  - user: None
  - tags: []
 
+## DCist: News, Food, Arts, Events in DC
+ - [https://dcist.com](https://dcist.com)
+ - date published: 2023-11-07T06:24:04.856984+00:00
+ - user: None
+ - tags: []
+
 ## DC Rainmaker
  - [https://www.dcrainmaker.com](https://www.dcrainmaker.com)
  - date published: 2023-10-25T13:46:39.342895+00:00
@@ -2653,6 +2689,12 @@
 ## Optimize Your IT Decisions | Directions on Microsoft
  - [https://www.directionsonmicrosoft.com](https://www.directionsonmicrosoft.com)
  - date published: 2023-10-25T13:52:59.308239+00:00
+ - user: None
+ - tags: []
+
+## Job Search | DirectlyApply
+ - [https://directlyapply.com](https://directlyapply.com)
+ - date published: 2023-11-07T16:06:41.136104+00:00
  - user: None
  - tags: []
 
@@ -5844,6 +5886,12 @@
  - tags: []
 
 ## FOX 4 News Dallas-Fort Worth
+ - [https://fox4news.com](https://fox4news.com)
+ - date published: 2023-11-07T15:12:46.586235+00:00
+ - user: None
+ - tags: []
+
+## FOX 4 News Dallas-Fort Worth
  - [https://www.fox4news.com](https://www.fox4news.com)
  - date published: 2023-10-25T11:04:13.925923+00:00
  - user: None
@@ -5950,52 +5998,4 @@
  - date published: 2023-10-25T08:45:49.273455+00:00
  - user: None
  - tags: ['personal']
-
-## Home Page - FrankSpeech
- - [https://frankspeech.com](https://frankspeech.com)
- - date published: 2023-10-25T14:37:21.205761+00:00
- - user: None
- - tags: []
-
-## Freakonomics - The hidden side of everything
- - [https://freakonomics.com](https://freakonomics.com)
- - date published: 2023-10-25T14:37:24.395000+00:00
- - user: None
- - tags: []
-
-## Fredrik Holmqvist
- - [https://www.fredrikholmqvist.com](https://www.fredrikholmqvist.com)
- - date published: 2023-10-25T14:37:25.960001+00:00
- - user: None
- - tags: []
-
-## "Free Beacon" — Breaking News, Politics, National Security
- - [https://freebeacon.com](https://freebeacon.com)
- - date published: 2023-10-25T14:37:31.540999+00:00
- - user: None
- - tags: []
-
-## Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials
- - [https://freecomputerbooks.com](https://freecomputerbooks.com)
- - date published: 2023-10-25T11:34:58.922103+00:00
- - user: None
- - tags: []
-
-## Freedom to Tinker - Research and expert commentary on digital technologies
- - [https://freedom-to-tinker.com](https://freedom-to-tinker.com)
- - date published: 2023-10-25T14:37:41.063916+00:00
- - user: None
- - tags: []
-
-## free-music-demixer
- - [https://freemusicdemixer.com](https://freemusicdemixer.com)
- - date published: 2023-10-25T08:35:05.961264+00:00
- - user: None
- - tags: []
-
-## Detroit Free Press - Home
- - [https://www.freep.com](https://www.freep.com)
- - date published: 2023-10-25T14:37:45.876385+00:00
- - user: None
- - tags: []
 

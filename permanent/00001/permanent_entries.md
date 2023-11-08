@@ -1,3 +1,15 @@
+## Afridigest | Ideas, analysis, & insight for business innovators across Africa & beyond.
+ - [https://afridigest.com](https://afridigest.com)
+ - date published: 2023-10-25T12:34:42.761602+00:00
+ - user: None
+ - tags: []
+
+## AfroTech
+ - [https://afrotech.com](https://afrotech.com)
+ - date published: 2023-10-25T12:34:47.438342+00:00
+ - user: None
+ - tags: []
+
 ## A Frugal Doctor
  - [https://www.afrugaldoctor.com](https://www.afrugaldoctor.com)
  - date published: 2023-10-25T12:34:50.329559+00:00
@@ -4198,6 +4210,12 @@
  - user: None
  - tags: []
 
+## Bookreporter.com |
+ - [https://www.bookreporter.com](https://www.bookreporter.com)
+ - date published: 2023-11-07T16:06:19.097099+00:00
+ - user: None
+ - tags: []
+
 ## BOOK RIOT - Book Recommendations and Reviews
  - [https://bookriot.com](https://bookriot.com)
  - date published: 2023-10-25T13:08:14.644680+00:00
@@ -5977,24 +5995,6 @@
 ## Classic FM
  - [https://www.classicfm.com](https://www.classicfm.com)
  - date published: 2023-10-25T13:25:45.737723+00:00
- - user: None
- - tags: []
-
-## ClassicReload.com | Game and Software Preservation
- - [https://classicreload.com](https://classicreload.com)
- - date published: 2023-10-25T16:37:42.619258+00:00
- - user: None
- - tags: ['retro game', 'abandonware']
-
-## yet another tech-blog - made in Switzerland
- - [https://www.claudiokuenzler.com](https://www.claudiokuenzler.com)
- - date published: 2023-10-25T13:25:46.623422+00:00
- - user: None
- - tags: []
-
-## Cleantech News — #1 In EV, Solar, Wind, Tesla News
- - [https://cleantechnica.com](https://cleantechnica.com)
- - date published: 2023-10-25T13:25:53.572311+00:00
  - user: None
  - tags: []
 

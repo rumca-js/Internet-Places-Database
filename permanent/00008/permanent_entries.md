@@ -1,3 +1,87 @@
+## Smell Dating
+ - [https://smell.dating](https://smell.dating)
+ - date published: 2023-10-25T18:27:37.466544+00:00
+ - user: None
+ - tags: []
+
+## Darnell (Seize The Day)
+ - [https://darnell.day](https://darnell.day)
+ - date published: 2023-10-25T18:27:40.908329+00:00
+ - user: None
+ - tags: []
+
+## dade
+ - [https://0xda.de](https://0xda.de)
+ - date published: 2023-10-25T18:27:43.060988+00:00
+ - user: None
+ - tags: []
+
+## Thomas' Digital Garden
+ - [https://www.2uo.de](https://www.2uo.de)
+ - date published: 2023-10-25T18:27:45.765864+00:00
+ - user: None
+ - tags: []
+
+## amiga-news.de - Amiga-News auf den Punkt gebracht
+ - [https://amiga-news.de](https://amiga-news.de)
+ - date published: 2023-10-25T11:01:48.109047+00:00
+ - user: None
+ - tags: []
+
+## Startseite
+ - [http://amiga-spiele.de](http://amiga-spiele.de)
+ - date published: 2023-11-02T09:56:45.846843+00:00
+ - user: None
+ - tags: ['amiga']
+
+## social.anoxinon.de - Mastodon
+ - [https://social.anoxinon.de](https://social.anoxinon.de)
+ - date published: 2023-10-24T20:13:21.748400+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Ascii Art Dictionary (Andreas Freise)
+ - [http://www.ascii-art.de](http://www.ascii-art.de)
+ - date published: 2023-10-30T13:46:52.013374+00:00
+ - user: None
+ - tags: []
+
+## AWS Works Council Germany
+ - [https://www.aws-works-council-initiative.de](https://www.aws-works-council-initiative.de)
+ - date published: 2023-10-25T18:27:47.880406+00:00
+ - user: None
+ - tags: []
+
+## Baker Tilly. 4 Perspektiven. Eine Lösung. Weltweit.
+ - [https://www.bakertilly.de](https://www.bakertilly.de)
+ - date published: 2023-10-25T18:27:57.686783+00:00
+ - user: None
+ - tags: []
+
+## Benchkram
+ - [https://benchkram.de](https://benchkram.de)
+ - date published: 2023-10-25T18:27:59.151379+00:00
+ - user: None
+ - tags: []
+
+## BfS  -  Startseite
+ - [https://www.bfs.de](https://www.bfs.de)
+ - date published: 2023-10-25T18:28:14.718430+00:00
+ - user: None
+ - tags: []
+
+## Aktuelle Nachrichten | BILD.de
+ - [https://bild.de](https://bild.de)
+ - date published: 2023-10-29T18:16:15.369094+00:00
+ - user: rumpel
+ - tags: ['germany news']
+
+## Aktuelle Nachrichten | BILD.de
+ - [https://m.bild.de](https://m.bild.de)
+ - date published: 2023-10-29T18:15:30.206767+00:00
+ - user: None
+ - tags: ['news']
+
 ## Aktuelle Nachrichten | BILD.de
  - [https://www.bild.de](https://www.bild.de)
  - date published: 2023-10-25T18:28:30.805665+00:00
@@ -1956,6 +2040,12 @@ home
  - user: None
  - tags: []
 
+## MoonGuard - Web Monitoring Tools | MoonGuard - Web Monitoring Tools
+ - [https://blog.moonguard.dev](https://blog.moonguard.dev)
+ - date published: 2023-11-07T19:56:34.884228+00:00
+ - user: None
+ - tags: []
+
 ## Gunnar Morling - Random Musings on All Things Software Engineering
  - [https://www.morling.dev](https://www.morling.dev)
  - date published: 2023-10-25T18:39:54.535047+00:00
@@ -2262,6 +2352,12 @@ home
  - date published: 2023-10-25T08:48:57.534022+00:00
  - user: None
  - tags: ['personal']
+
+## River Phillips
+ - [https://www.riverphillips.dev](https://www.riverphillips.dev)
+ - date published: 2023-11-07T19:56:32.446810+00:00
+ - user: None
+ - tags: []
 
 ## rmkit
  - [https://rmkit.dev](https://rmkit.dev)
@@ -2690,6 +2786,12 @@ home
  - user: None
  - tags: []
 
+## WasmFX: Effect Handlers for WebAssembly
+ - [https://wasmfx.dev](https://wasmfx.dev)
+ - date published: 2023-11-07T23:04:21+00:00
+ - user: None
+ - tags: []
+
 ## Wasm Labs at VMware OCTO
  - [https://wasmlabs.dev](https://wasmlabs.dev)
  - date published: 2023-10-25T18:44:11.962330+00:00
@@ -3041,6 +3143,12 @@ home
 ## UCB Mathematics | Department of Mathematics at University of California Berkeley
  - [https://math.berkeley.edu](https://math.berkeley.edu)
  - date published: 2023-10-25T18:47:32.688694+00:00
+ - user: None
+ - tags: []
+
+## UC Berkeley Rausser College of Natural Resources
+ - [https://nature.berkeley.edu](https://nature.berkeley.edu)
+ - date published: 2023-11-07T06:24:12.895605+00:00
  - user: None
  - tags: []
 
@@ -4557,6 +4665,12 @@ home
  - user: None
  - tags: []
 
+## TinyUGA - link shortener for University of Georgia websites
+ - [https://t.uga.edu](https://t.uga.edu)
+ - date published: 2023-11-07T14:54:18.985053+00:00
+ - user: None
+ - tags: []
+
 ## Stories - University of Houston
  - [https://stories.uh.edu](https://stories.uh.edu)
  - date published: 2023-10-25T19:01:29.577878+00:00
@@ -4899,6 +5013,12 @@ home
  - user: None
  - tags: []
 
+## Home
+ - [https://www.utsouthwestern.edu](https://www.utsouthwestern.edu)
+ - date published: 2023-11-07T23:09:54.425580+00:00
+ - user: None
+ - tags: []
+
 ## Peter Sheridan Dodds
  - [https://pdodds.w3.uvm.edu](https://pdodds.w3.uvm.edu)
  - date published: 2023-10-25T19:05:35.714061+00:00
@@ -5175,6 +5295,12 @@ home
  - user: None
  - tags: ['personal']
 
+## Blog about my engineering projects
+ - [https://mark.engineer](https://mark.engineer)
+ - date published: 2023-11-07T15:23:05.500491+00:00
+ - user: None
+ - tags: []
+
 ## Max Chernyak
  - [https://max.engineer](https://max.engineer)
  - date published: 2023-10-25T19:07:41.764398+00:00
@@ -5250,6 +5376,12 @@ home
 ## 50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs
  - [https://golang50shad.es](https://golang50shad.es)
  - date published: 2023-10-25T19:08:05.583584+00:00
+ - user: None
+ - tags: []
+
+## One Piece Pirateking • Comunidad Española de One Piece
+ - [https://www.pirate-king.es](https://www.pirate-king.es)
+ - date published: 2023-11-07T11:03:11.060365+00:00
  - user: None
  - tags: []
 
@@ -5793,6 +5925,12 @@ home
  - user: None
  - tags: []
 
+## University of Helsinki
+ - [https://www.helsinki.fi](https://www.helsinki.fi)
+ - date published: 2023-11-07T12:03:41.332278+00:00
+ - user: None
+ - tags: []
+
 ## News from Finland "Helsinki Times"
  - [https://www.helsinkitimes.fi](https://www.helsinkitimes.fi)
  - date published: 2023-10-25T19:13:07.329659+00:00
@@ -5868,144 +6006,6 @@ home
 ## Amid Fish
  - [http://amid.fish](http://amid.fish)
  - date published: 2023-10-25T19:13:44.067449+00:00
- - user: None
- - tags: []
-
-## Blog | Payara
- - [https://blog.payara.fish](https://blog.payara.fish)
- - date published: 2023-10-25T19:13:49.856733+00:00
- - user: None
- - tags: []
-
-## Smaller Fish
- - [https://smaller.fish](https://smaller.fish)
- - date published: 2023-10-25T19:13:50.642656+00:00
- - user: None
- - tags: []
-
-## Spotify for Podcasters
- - [https://anchor.fm](https://anchor.fm)
- - date published: 2023-10-25T19:13:51.960255+00:00
- - user: None
- - tags: []
-
-## BeatBot
- - [https://beatbot.fm](https://beatbot.fm)
- - date published: 2023-10-25T19:13:52.441362+00:00
- - user: None
- - tags: []
-
-## Fastmail | We Respect Your Privacy & Put You in Control
- - [https://fastmail.fm](https://fastmail.fm)
- - date published: 2023-10-25T19:13:54.865826+00:00
- - user: None
- - tags: []
-
-## Loopy
- - [https://www.loopy.fm](https://www.loopy.fm)
- - date published: 2023-10-25T11:13:57.022760+00:00
- - user: None
- - tags: []
-
-## mihai.fm
- - [https://mihai.fm](https://mihai.fm)
- - date published: 2023-10-25T19:13:55.412418+00:00
- - user: None
- - tags: []
-
-## Omny Studio - Omny.fm
- - [https://omny.fm](https://omny.fm)
- - date published: 2023-10-25T19:13:56.003139+00:00
- - user: None
- - tags: []
-
-## Colorize Photos - Try Free without Sign-up - Palette.fm
- - [https://palette.fm](https://palette.fm)
- - date published: 2023-10-25T19:13:56.818041+00:00
- - user: None
- - tags: []
-
-## Peel — Little drum machine in your browser
- - [https://peel.fm](https://peel.fm)
- - date published: 2023-10-25T19:13:57.408480+00:00
- - user: None
- - tags: []
-
-## The REWORK podcast
- - [https://www.rework.fm](https://www.rework.fm)
- - date published: 2023-10-25T19:14:00.060458+00:00
- - user: None
- - tags: []
-
-## stephen.fm
- - [https://stephen.fm](https://stephen.fm)
- - date published: 2023-10-25T08:49:10.105327+00:00
- - user: None
- - tags: ['personal']
-
-## Kube Cuddle
- - [https://kubecuddle.transistor.fm](https://kubecuddle.transistor.fm)
- - date published: 2023-10-25T19:14:07.098237+00:00
- - user: None
- - tags: []
-
-## ⊙
- - [https://writing.fm](https://writing.fm)
- - date published: 2023-10-25T19:14:07.984597+00:00
- - user: None
- - tags: []
-
-## Nomad
- - [https://nomad.foo](https://nomad.foo)
- - date published: 2023-10-25T19:14:08.549233+00:00
- - user: None
- - tags: []
-
-## Unix Foo Essays - unix.foo
- - [https://unix.foo](https://unix.foo)
- - date published: 2023-10-25T19:14:09.766393+00:00
- - user: None
- - tags: []
-
-## e Foundation - deGoogled unGoogled smartphone operating systems and online services - your data is your data
- - [https://e.foundation](https://e.foundation)
- - date published: 2023-10-25T08:31:59.915876+00:00
- - user: None
- - tags: ['open source', 'android', 'operating system']
-
-## Haskell Foundation
- - [https://haskell.foundation](https://haskell.foundation)
- - date published: 2023-10-25T19:14:11.510664+00:00
- - user: None
- - tags: []
-
-## Volta Foundation - World's Largest Battery Community
- - [https://www.volta.foundation](https://www.volta.foundation)
- - date published: 2023-10-25T19:14:14.835516+00:00
- - user: None
- - tags: []
-
-## Afnic, solution de Registre Internet des noms de domaine Accueil - Afnic
- - [https://www.afnic.fr](https://www.afnic.fr)
- - date published: 2023-10-25T19:14:19.014743+00:00
- - user: None
- - tags: []
-
-## ANFR-Accueil
- - [https://www.anfr.fr](https://www.anfr.fr)
- - date published: 2023-10-25T09:36:54.938413+00:00
- - user: None
- - tags: []
-
-## Anicet Nougaret's portfolio & blog.
- - [https://anicetnougaret.fr](https://anicetnougaret.fr)
- - date published: 2023-10-25T19:14:22.734164+00:00
- - user: None
- - tags: []
-
-## Particulier | CNIL
- - [https://www.cnil.fr](https://www.cnil.fr)
- - date published: 2023-10-25T19:14:33.796480+00:00
  - user: None
  - tags: []
 

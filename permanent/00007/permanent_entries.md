@@ -1,3 +1,57 @@
+## The Epoch Times | Breaking News, Latest News, World News and Videos
+ - [http://www.theepochtimes.com](http://www.theepochtimes.com)
+ - date published: 2023-10-25T10:39:18.833935+00:00
+ - user: None
+ - tags: []
+
+## The Ethical Skeptic - Challenging Pseudo-Skepticism, its Agency and Cultivated Ignorance
+ - [https://theethicalskeptic.com](https://theethicalskeptic.com)
+ - date published: 2023-10-25T17:32:27.140151+00:00
+ - user: None
+ - tags: []
+
+## The Eyewall
+ - [https://theeyewall.com](https://theeyewall.com)
+ - date published: 2023-10-26T23:03:38.216802+00:00
+ - user: None
+ - tags: []
+
+## Home - The Face
+ - [https://theface.com](https://theface.com)
+ - date published: 2023-10-25T17:32:30.737419+00:00
+ - user: None
+ - tags: []
+
+## The Fact Site | Fun & Interesting Facts
+ - [https://www.thefactsite.com](https://www.thefactsite.com)
+ - date published: 2023-10-25T17:32:48.524933+00:00
+ - user: None
+ - tags: []
+
+## The Federalist - Culture, Politics, Religion
+ - [https://thefederalist.com](https://thefederalist.com)
+ - date published: 2023-10-25T17:32:52.453047+00:00
+ - user: None
+ - tags: []
+
+## The Final Hop
+ - [https://www.thefinalhop.com](https://www.thefinalhop.com)
+ - date published: 2023-10-25T17:32:53.667976+00:00
+ - user: None
+ - tags: []
+
+## Home - The Financial Diet
+ - [https://thefinancialdiet.com](https://thefinancialdiet.com)
+ - date published: 2023-10-25T17:32:55.918295+00:00
+ - user: None
+ - tags: []
+
+## Fintech News & Reviews Daily | The Fintech Times
+ - [https://thefintechtimes.com](https://thefintechtimes.com)
+ - date published: 2023-10-25T17:32:58.805761+00:00
+ - user: None
+ - tags: []
+
 ## The Fitzwilliam | Fitzwilliam Staff | Substack
  - [https://www.thefitzwilliam.com](https://www.thefitzwilliam.com)
  - date published: 2023-10-25T17:33:02.110637+00:00
@@ -73,6 +127,12 @@
 ## News, sport and opinion from the Guardian's Europe edition | The Guardian
  - [https://amp.theguardian.com](https://amp.theguardian.com)
  - date published: 2023-11-06T19:50:32.699604+00:00
+ - user: None
+ - tags: []
+
+## The Guardian digital design style guide
+ - [https://design.theguardian.com](https://design.theguardian.com)
+ - date published: 2023-11-07T17:48:30+00:00
  - user: None
  - tags: []
 
@@ -616,6 +676,12 @@
  - user: None
  - tags: []
 
+## Thaiger
+ - [https://thethaiger.com](https://thethaiger.com)
+ - date published: 2023-11-07T18:32:57.135612+00:00
+ - user: None
+ - tags: []
+
 ## The official website of the band The Ting Tings.
  - [https://thetingtings.com](https://thetingtings.com)
  - date published: 2023-10-30T12:06:10.450298+00:00
@@ -727,6 +793,12 @@
 ## theworldsworstwebsiteever.com
  - [http://www.theworldsworstwebsiteever.com](http://www.theworldsworstwebsiteever.com)
  - date published: 2023-10-25T17:40:14.612649+00:00
+ - user: None
+ - tags: []
+
+## The World Thinks - Self-help, Social, Spiritual, Strength and Success
+ - [https://theworldthinks.com](https://theworldthinks.com)
+ - date published: 2023-11-07T20:19:24.129998+00:00
  - user: None
  - tags: []
 
@@ -3387,6 +3459,12 @@
  - user: None
  - tags: ['tabletop games', 'wargames']
 
+## Washington Blade Newspaper
+ - [https://www.washingtonblade.com](https://www.washingtonblade.com)
+ - date published: 2023-11-07T16:06:11.624222+00:00
+ - user: None
+ - tags: []
+
 ## Washington City Paper: The Free Source for Local News in D.C.
  - [https://washingtoncitypaper.com](https://washingtoncitypaper.com)
  - date published: 2023-10-25T11:50:54.805063+00:00
@@ -3888,6 +3966,12 @@
 ## https://febs.onlinelibrary.wiley.com
  - [https://febs.onlinelibrary.wiley.com](https://febs.onlinelibrary.wiley.com)
  - date published: 2023-10-25T18:05:30.579131+00:00
+ - user: None
+ - tags: []
+
+## https://myscp.onlinelibrary.wiley.com
+ - [https://myscp.onlinelibrary.wiley.com](https://myscp.onlinelibrary.wiley.com)
+ - date published: 2023-11-07T02:17:31.388440+00:00
  - user: None
  - tags: []
 
@@ -5912,88 +5996,4 @@
  - date published: 2023-10-25T18:27:35.295304+00:00
  - user: None
  - tags: []
-
-## Playdate News
- - [https://news.play.date](https://news.play.date)
- - date published: 2023-11-01T08:43:29.130061+00:00
- - user: None
- - tags: []
-
-## Smell Dating
- - [https://smell.dating](https://smell.dating)
- - date published: 2023-10-25T18:27:37.466544+00:00
- - user: None
- - tags: []
-
-## Darnell (Seize The Day)
- - [https://darnell.day](https://darnell.day)
- - date published: 2023-10-25T18:27:40.908329+00:00
- - user: None
- - tags: []
-
-## dade
- - [https://0xda.de](https://0xda.de)
- - date published: 2023-10-25T18:27:43.060988+00:00
- - user: None
- - tags: []
-
-## Thomas' Digital Garden
- - [https://www.2uo.de](https://www.2uo.de)
- - date published: 2023-10-25T18:27:45.765864+00:00
- - user: None
- - tags: []
-
-## amiga-news.de - Amiga-News auf den Punkt gebracht
- - [https://amiga-news.de](https://amiga-news.de)
- - date published: 2023-10-25T11:01:48.109047+00:00
- - user: None
- - tags: []
-
-## Startseite
- - [http://amiga-spiele.de](http://amiga-spiele.de)
- - date published: 2023-11-02T09:56:45.846843+00:00
- - user: None
- - tags: ['amiga']
-
-## social.anoxinon.de - Mastodon
- - [https://social.anoxinon.de](https://social.anoxinon.de)
- - date published: 2023-10-24T20:13:21.748400+00:00
- - user: None
- - tags: ['mastodon']
-
-## Ascii Art Dictionary (Andreas Freise)
- - [http://www.ascii-art.de](http://www.ascii-art.de)
- - date published: 2023-10-30T13:46:52.013374+00:00
- - user: None
- - tags: []
-
-## AWS Works Council Germany
- - [https://www.aws-works-council-initiative.de](https://www.aws-works-council-initiative.de)
- - date published: 2023-10-25T18:27:47.880406+00:00
- - user: None
- - tags: []
-
-## Baker Tilly. 4 Perspektiven. Eine Lösung. Weltweit.
- - [https://www.bakertilly.de](https://www.bakertilly.de)
- - date published: 2023-10-25T18:27:57.686783+00:00
- - user: None
- - tags: []
-
-## Benchkram
- - [https://benchkram.de](https://benchkram.de)
- - date published: 2023-10-25T18:27:59.151379+00:00
- - user: None
- - tags: []
-
-## BfS  -  Startseite
- - [https://www.bfs.de](https://www.bfs.de)
- - date published: 2023-10-25T18:28:14.718430+00:00
- - user: None
- - tags: []
-
-## Aktuelle Nachrichten | BILD.de
- - [https://bild.de](https://bild.de)
- - date published: 2023-10-29T18:16:15.369094+00:00
- - user: rumpel
- - tags: ['germany news']
 

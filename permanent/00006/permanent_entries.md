@@ -1,3 +1,57 @@
+## Shining Science
+ - [https://www.shiningscience.com](https://www.shiningscience.com)
+ - date published: 2023-10-25T17:03:30.804921+00:00
+ - user: None
+ - tags: []
+
+## Shitlassian - name and shame
+ - [https://shitlassian.com](https://shitlassian.com)
+ - date published: 2023-10-25T17:03:32.102260+00:00
+ - user: None
+ - tags: []
+
+## shmuplations.com
+ - [https://shmuplations.com](https://shmuplations.com)
+ - date published: 2023-10-25T17:03:34.248572+00:00
+ - user: None
+ - tags: []
+
+## Shondaland.com
+ - [https://www.shondaland.com](https://www.shondaland.com)
+ - date published: 2023-10-25T17:03:37.480551+00:00
+ - user: None
+ - tags: []
+
+## Shopify - Pressroom
+ - [https://news.shopify.com](https://news.shopify.com)
+ - date published: 2023-10-25T17:03:39.469521+00:00
+ - user: None
+ - tags: []
+
+## Shortwave — The smartest email app on planet Earth
+ - [https://www.shortwave.com](https://www.shortwave.com)
+ - date published: 2023-10-25T17:03:40.767954+00:00
+ - user: None
+ - tags: []
+
+## ShowBizPizza.com | Where Everyone Can Be a Kid
+ - [https://www.showbizpizza.com](https://www.showbizpizza.com)
+ - date published: 2023-10-25T17:03:47.085791+00:00
+ - user: None
+ - tags: []
+
+## Shruggingface - Exploring the future with artificial intelligence
+ - [https://www.shruggingface.com](https://www.shruggingface.com)
+ - date published: 2023-10-25T17:03:52.789799+00:00
+ - user: None
+ - tags: []
+
+## Shuffling Bytes | Valtteri Lehtinen
+ - [https://shufflingbytes.com](https://shufflingbytes.com)
+ - date published: 2023-10-25T17:03:53.519028+00:00
+ - user: None
+ - tags: []
+
 ## Stock Images, Photos, Vectors, Video, and Music | Shutterstock
  - [https://www.shutterstock.com](https://www.shutterstock.com)
  - date published: 2023-10-25T11:35:43.225421+00:00
@@ -5937,60 +5991,6 @@
 ## https://www.theedgesingapore.com
  - [https://www.theedgesingapore.com](https://www.theedgesingapore.com)
  - date published: 2023-10-25T17:32:15.590070+00:00
- - user: None
- - tags: []
-
-## The Epoch Times | Breaking News, Latest News, World News and Videos
- - [https://feed.theepochtimes.com](https://feed.theepochtimes.com)
- - date published: 2023-10-25T10:50:48.568852+00:00
- - user: None
- - tags: []
-
-## The Epoch Times | Breaking News, Latest News, World News and Videos
- - [http://www.theepochtimes.com](http://www.theepochtimes.com)
- - date published: 2023-10-25T10:39:18.833935+00:00
- - user: None
- - tags: []
-
-## The Ethical Skeptic - Challenging Pseudo-Skepticism, its Agency and Cultivated Ignorance
- - [https://theethicalskeptic.com](https://theethicalskeptic.com)
- - date published: 2023-10-25T17:32:27.140151+00:00
- - user: None
- - tags: []
-
-## The Eyewall
- - [https://theeyewall.com](https://theeyewall.com)
- - date published: 2023-10-26T23:03:38.216802+00:00
- - user: None
- - tags: []
-
-## Home - The Face
- - [https://theface.com](https://theface.com)
- - date published: 2023-10-25T17:32:30.737419+00:00
- - user: None
- - tags: []
-
-## The Fact Site | Fun & Interesting Facts
- - [https://www.thefactsite.com](https://www.thefactsite.com)
- - date published: 2023-10-25T17:32:48.524933+00:00
- - user: None
- - tags: []
-
-## The Federalist - Culture, Politics, Religion
- - [https://thefederalist.com](https://thefederalist.com)
- - date published: 2023-10-25T17:32:52.453047+00:00
- - user: None
- - tags: []
-
-## The Final Hop
- - [https://www.thefinalhop.com](https://www.thefinalhop.com)
- - date published: 2023-10-25T17:32:53.667976+00:00
- - user: None
- - tags: []
-
-## Home - The Financial Diet
- - [https://thefinancialdiet.com](https://thefinancialdiet.com)
- - date published: 2023-10-25T17:32:55.918295+00:00
  - user: None
  - tags: []
 

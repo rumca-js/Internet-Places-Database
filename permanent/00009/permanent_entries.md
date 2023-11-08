@@ -1,3 +1,141 @@
+## Smaller Fish
+ - [https://smaller.fish](https://smaller.fish)
+ - date published: 2023-10-25T19:13:50.642656+00:00
+ - user: None
+ - tags: []
+
+## Spotify for Podcasters
+ - [https://anchor.fm](https://anchor.fm)
+ - date published: 2023-10-25T19:13:51.960255+00:00
+ - user: None
+ - tags: []
+
+## BeatBot
+ - [https://beatbot.fm](https://beatbot.fm)
+ - date published: 2023-10-25T19:13:52.441362+00:00
+ - user: None
+ - tags: []
+
+## Fastmail | We Respect Your Privacy & Put You in Control
+ - [https://fastmail.fm](https://fastmail.fm)
+ - date published: 2023-10-25T19:13:54.865826+00:00
+ - user: None
+ - tags: []
+
+## Loopy
+ - [https://www.loopy.fm](https://www.loopy.fm)
+ - date published: 2023-10-25T11:13:57.022760+00:00
+ - user: None
+ - tags: []
+
+## mihai.fm
+ - [https://mihai.fm](https://mihai.fm)
+ - date published: 2023-10-25T19:13:55.412418+00:00
+ - user: None
+ - tags: []
+
+## Omny Studio - Omny.fm
+ - [https://omny.fm](https://omny.fm)
+ - date published: 2023-10-25T19:13:56.003139+00:00
+ - user: None
+ - tags: []
+
+## Colorize Photos - Try Free without Sign-up - Palette.fm
+ - [https://palette.fm](https://palette.fm)
+ - date published: 2023-10-25T19:13:56.818041+00:00
+ - user: None
+ - tags: []
+
+## Peel — Little drum machine in your browser
+ - [https://peel.fm](https://peel.fm)
+ - date published: 2023-10-25T19:13:57.408480+00:00
+ - user: None
+ - tags: []
+
+## The REWORK podcast
+ - [https://www.rework.fm](https://www.rework.fm)
+ - date published: 2023-10-25T19:14:00.060458+00:00
+ - user: None
+ - tags: []
+
+## stephen.fm
+ - [https://stephen.fm](https://stephen.fm)
+ - date published: 2023-10-25T08:49:10.105327+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kube Cuddle
+ - [https://kubecuddle.transistor.fm](https://kubecuddle.transistor.fm)
+ - date published: 2023-10-25T19:14:07.098237+00:00
+ - user: None
+ - tags: []
+
+## ⊙
+ - [https://writing.fm](https://writing.fm)
+ - date published: 2023-10-25T19:14:07.984597+00:00
+ - user: None
+ - tags: []
+
+## Nomad
+ - [https://nomad.foo](https://nomad.foo)
+ - date published: 2023-10-25T19:14:08.549233+00:00
+ - user: None
+ - tags: []
+
+## Unix Foo Essays - unix.foo
+ - [https://unix.foo](https://unix.foo)
+ - date published: 2023-10-25T19:14:09.766393+00:00
+ - user: None
+ - tags: []
+
+## e Foundation - deGoogled unGoogled smartphone operating systems and online services - your data is your data
+ - [https://e.foundation](https://e.foundation)
+ - date published: 2023-10-25T08:31:59.915876+00:00
+ - user: None
+ - tags: ['open source', 'android', 'operating system']
+
+## Haskell Foundation
+ - [https://haskell.foundation](https://haskell.foundation)
+ - date published: 2023-10-25T19:14:11.510664+00:00
+ - user: None
+ - tags: []
+
+## Volta Foundation - World's Largest Battery Community
+ - [https://www.volta.foundation](https://www.volta.foundation)
+ - date published: 2023-10-25T19:14:14.835516+00:00
+ - user: None
+ - tags: []
+
+## Afnic, solution de Registre Internet des noms de domaine Accueil - Afnic
+ - [https://www.afnic.fr](https://www.afnic.fr)
+ - date published: 2023-10-25T19:14:19.014743+00:00
+ - user: None
+ - tags: []
+
+## ANFR-Accueil
+ - [https://www.anfr.fr](https://www.anfr.fr)
+ - date published: 2023-10-25T09:36:54.938413+00:00
+ - user: None
+ - tags: []
+
+## Anicet Nougaret's portfolio & blog.
+ - [https://anicetnougaret.fr](https://anicetnougaret.fr)
+ - date published: 2023-10-25T19:14:22.734164+00:00
+ - user: None
+ - tags: []
+
+## Particulier | CNIL
+ - [https://www.cnil.fr](https://www.cnil.fr)
+ - date published: 2023-10-25T19:14:33.796480+00:00
+ - user: None
+ - tags: []
+
+## CNRS News | Making sense of science
+ - [https://news.cnrs.fr](https://news.cnrs.fr)
+ - date published: 2023-10-25T19:14:35.947342+00:00
+ - user: None
+ - tags: []
+
 ## Ctrl-Alt-Test - A French Demoscene Group, since 2009
  - [https://www.ctrl-alt-test.fr](https://www.ctrl-alt-test.fr)
  - date published: 2023-10-25T19:14:41.705580+00:00
@@ -493,6 +631,12 @@
 ## NRG Esports | Home
  - [https://www.nrg.gg](https://www.nrg.gg)
  - date published: 2023-11-02T10:40:58.258689+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Scorecard.gg – minimalist scoring tool for your favorite board games
+ - [https://scorecard.gg](https://scorecard.gg)
+ - date published: 2023-11-07T14:33:53+00:00
  - user: None
  - tags: []
 
@@ -1691,6 +1835,12 @@
 ## %DOC_TITLE%Optery
  - [https://optery.breezy.hr](https://optery.breezy.hr)
  - date published: 2023-10-25T19:28:18.453398+00:00
+ - user: None
+ - tags: []
+
+## Početna
+ - [https://n1info.hr](https://n1info.hr)
+ - date published: 2023-11-07T20:56:46.124743+00:00
  - user: None
  - tags: []
 
@@ -5846,156 +5996,6 @@ through Composable Diffusion
 ## Lisp journey
  - [https://lisp-journey.gitlab.io](https://lisp-journey.gitlab.io)
  - date published: 2023-10-25T19:55:27.274355+00:00
- - user: None
- - tags: []
-
-## nakst
- - [https://nakst.gitlab.io](https://nakst.gitlab.io)
- - date published: 2023-10-25T08:49:33.733980+00:00
- - user: None
- - tags: ['personal']
-
-## PsychOS - Home
- - [https://psychoslinux.gitlab.io](https://psychoslinux.gitlab.io)
- - date published: 2023-10-25T19:55:29.305645+00:00
- - user: None
- - tags: []
-
-## TheEvilSkeleton
- - [https://theevilskeleton.gitlab.io](https://theevilskeleton.gitlab.io)
- - date published: 2023-10-25T19:55:30.314837+00:00
- - user: None
- - tags: []
-
-## Fast Business Intelligence | Hashboard
- - [https://glean.io](https://glean.io)
- - date published: 2023-10-25T19:55:31.930520+00:00
- - user: None
- - tags: []
-
-## Welcome | authentik
- - [https://goauthentik.io](https://goauthentik.io)
- - date published: 2023-10-25T19:55:33.189796+00:00
- - user: None
- - tags: []
-
-## Harbor
- - [https://goharbor.io](https://goharbor.io)
- - date published: 2023-10-25T12:33:52.005977+00:00
- - user: None
- - tags: []
-
-## The world’s fastest framework for building websites
- - [https://gohugo.io](https://gohugo.io)
- - date published: 2023-10-25T08:35:22.384926+00:00
- - user: None
- - tags: []
-
-## Gource - a software version control visualization tool
- - [https://gource.io](https://gource.io)
- - date published: 2023-10-25T19:55:39.341671+00:00
- - user: None
- - tags: []
-
-## GPT4All
- - [https://gpt4all.io](https://gpt4all.io)
- - date published: 2023-10-25T19:55:40.004796+00:00
- - user: None
- - tags: []
-
-## All posts | Grady Simon
- - [https://grady.io](https://grady.io)
- - date published: 2023-10-25T09:22:01.791602+00:00
- - user: None
- - tags: ['personal']
-
-## Greenhouse | Applicant tracking system & hiring software | Greenhouse
- - [https://boards.greenhouse.io](https://boards.greenhouse.io)
- - date published: 2023-10-25T19:55:44.562981+00:00
- - user: None
- - tags: []
-
-## Bootstrap, Bulma, HTML builder | Free hosting | Code Export
- - [https://www.gridbox.io](https://www.gridbox.io)
- - date published: 2023-10-25T19:55:45.460186+00:00
- - user: None
- - tags: []
-
-## Gruntwork
- - [https://blog.gruntwork.io](https://blog.gruntwork.io)
- - date published: 2023-10-25T19:56:03.403757+00:00
- - user: None
- - tags: []
-
-## Hachyderm Community
- - [https://community.hachyderm.io](https://community.hachyderm.io)
- - date published: 2023-10-25T19:56:04.825432+00:00
- - user: None
- - tags: []
-
-## Hachyderm.io
- - [https://hachyderm.io](https://hachyderm.io)
- - date published: 2023-10-25T19:56:05.579526+00:00
- - user: None
- - tags: []
-
-## Hackaday.io | The world's largest collaborative hardware development community.
- - [https://hackaday.io](https://hackaday.io)
- - date published: 2023-10-25T19:56:17.909646+00:00
- - user: None
- - tags: []
-
-## HackMD - Collaborative Markdown Knowledge Base
- - [https://hackmd.io](https://hackmd.io)
- - date published: 2023-10-25T19:56:20.694162+00:00
- - user: None
- - tags: []
-
-## Hackster.io - The community dedicated to learning hardware.
- - [https://www.hackster.io](https://www.hackster.io)
- - date published: 2023-10-25T11:33:07.301617+00:00
- - user: None
- - tags: ['community', 'hardware']
-
-## hardwear.io | Hardware Security Conference & Training | Netherlands, Germany & USA
- - [https://hardwear.io](https://hardwear.io)
- - date published: 2023-10-25T19:56:22.144827+00:00
- - user: None
- - tags: []
-
-## Healthchecks.io – The Joy of Building a Cron Monitoring Service
- - [https://blog.healthchecks.io](https://blog.healthchecks.io)
- - date published: 2023-10-25T19:56:24.199243+00:00
- - user: None
- - tags: []
-
-## Heap - Better Insights. Faster. | Heap
- - [https://www.heap.io](https://www.heap.io)
- - date published: 2023-10-25T19:56:26.723209+00:00
- - user: None
- - tags: []
-
-## Pentest Reporting Collaboration & DevSecOps solutions | Hexway
- - [https://hexway.io](https://hexway.io)
- - date published: 2023-10-25T19:56:30.314272+00:00
- - user: None
- - tags: []
-
-## Next-Generation Git Client | HighFlux
- - [https://www.highflux.io](https://www.highflux.io)
- - date published: 2023-10-25T19:56:31.971622+00:00
- - user: None
- - tags: []
-
-## highlight.io: The open source monitoring platform.
- - [https://www.highlight.io](https://www.highlight.io)
- - date published: 2023-11-01T19:27:39.270525+00:00
- - user: None
- - tags: []
-
-## High Signal - startup news and interviews with founders
- - [https://www.highsignal.io](https://www.highsignal.io)
- - date published: 2023-10-25T19:56:35.856286+00:00
  - user: None
  - tags: []
 
