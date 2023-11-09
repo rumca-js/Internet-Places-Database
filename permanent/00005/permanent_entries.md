@@ -1,3 +1,129 @@
+## Legal Encyclopedia, Legal Forms, Law Books, & Software
+ - [https://www.nolo.com](https://www.nolo.com)
+ - date published: 2023-10-31T14:57:36.056016+00:00
+ - user: None
+ - tags: []
+
+## No Man's Sky
+ - [https://www.nomanssky.com](https://www.nomanssky.com)
+ - date published: 2023-10-25T16:21:33.028725+00:00
+ - user: None
+ - tags: []
+
+## nomnoml
+ - [https://nomnoml.com](https://nomnoml.com)
+ - date published: 2023-10-25T16:21:33.570735+00:00
+ - user: None
+ - tags: []
+
+## Non_Interactive – Software & ML
+ - [https://nonint.com](https://nonint.com)
+ - date published: 2023-10-25T16:21:35.607377+00:00
+ - user: None
+ - tags: []
+
+## America First Report – American exceptionalism isn't dead. It just needs to be embraced.
+ - [https://noqreport.com](https://noqreport.com)
+ - date published: 2023-10-25T16:21:43.282379+00:00
+ - user: None
+ - tags: []
+
+## Nora Sandler
+ - [https://norasandler.com](https://norasandler.com)
+ - date published: 2023-10-25T16:21:46.398093+00:00
+ - user: None
+ - tags: []
+
+## Nord
+ - [https://www.nordtheme.com](https://www.nordtheme.com)
+ - date published: 2023-10-25T16:21:49.654388+00:00
+ - user: None
+ - tags: []
+
+## The best online VPN service for speed and security
+ - [https://nordvpn.com](https://nordvpn.com)
+ - date published: 2023-10-30T12:51:19.370709+00:00
+ - user: None
+ - tags: ['privacy', 'vpn']
+
+## Normally Notes
+ - [https://notes.normally.com](https://notes.normally.com)
+ - date published: 2023-10-25T16:21:50.474932+00:00
+ - user: None
+ - tags: []
+
+## Newsroom | Northrop Grumman
+ - [https://news.northropgrumman.com](https://news.northropgrumman.com)
+ - date published: 2023-10-25T16:21:52.840892+00:00
+ - user: None
+ - tags: []
+
+## Now. Powered by Northrop Grumman - Now. Powered by Northrop Grumman
+ - [https://now.northropgrumman.com](https://now.northropgrumman.com)
+ - date published: 2023-10-25T16:21:56.193641+00:00
+ - user: None
+ - tags: []
+
+## Official Site | Norton™ - Antivirus & Anti-Malware Software
+ - [https://us.norton.com](https://us.norton.com)
+ - date published: 2023-10-30T12:54:58.008009+00:00
+ - user: None
+ - tags: ['antivirus']
+
+## Peter Norvig
+ - [https://norvig.com](https://norvig.com)
+ - date published: 2023-10-25T16:21:58.144681+00:00
+ - user: None
+ - tags: []
+
+## Norwegian SciTech News - Research News from NTNU and Sintef
+ - [https://norwegianscitechnews.com](https://norwegianscitechnews.com)
+ - date published: 2023-10-25T10:15:24.266544+00:00
+ - user: None
+ - tags: []
+
+## No Starch Press | "The finest in geek entertainment"
+ - [https://nostarch.com](https://nostarch.com)
+ - date published: 2023-10-25T16:22:00.975649+00:00
+ - user: None
+ - tags: []
+
+## Nostr, a simple protocol for decentralizing social media that has a chance of working
+ - [https://nostr.com](https://nostr.com)
+ - date published: 2023-10-25T16:22:01.809831+00:00
+ - user: None
+ - tags: []
+
+## ⍻ — U+237B NOT CHECKMARK
+ - [https://www.notcheckmark.com](https://www.notcheckmark.com)
+ - date published: 2023-10-25T16:22:03.206228+00:00
+ - user: None
+ - tags: []
+
+## NO TECH MAGAZINE – We believe in progress and technology
+ - [https://www.notechmagazine.com](https://www.notechmagazine.com)
+ - date published: 2023-10-25T16:22:07.109594+00:00
+ - user: None
+ - tags: []
+
+## Notes by Lex
+ - [https://notesbylex.com](https://notesbylex.com)
+ - date published: 2023-10-25T16:22:08.633640+00:00
+ - user: None
+ - tags: []
+
+## Notes From Poland | regular summaries of news from Poland
+ - [https://notesfrompoland.com](https://notesfrompoland.com)
+ - date published: 2023-10-25T10:14:35.905271+00:00
+ - user: None
+ - tags: []
+
+## Notion Things
+ - [https://notionthings.com](https://notionthings.com)
+ - date published: 2023-10-25T16:22:13.671476+00:00
+ - user: None
+ - tags: []
+
 ## Not My Cows
  - [https://notmycows.com](https://notmycows.com)
  - date published: 2023-10-25T16:22:22.211652+00:00
@@ -169,6 +295,12 @@ Answering Machine Greetings!
  - date published: 2023-10-25T11:28:24.272276+00:00
  - user: None
  - tags: []
+
+## NXP® Semiconductors Official Site
+ - [https://www.nxp.com](https://www.nxp.com)
+ - date published: 2023-11-08T11:33:00.662536+00:00
+ - user: None
+ - tags: ['semiconductors', 'company']
 
 ## Home - NXTaltfoods
  - [https://www.nxtaltfoods.com](https://www.nxtaltfoods.com)
@@ -737,6 +869,12 @@ Answering Machine Greetings!
 ## Optimising Nutrition
  - [https://optimisingnutrition.com](https://optimisingnutrition.com)
  - date published: 2023-10-25T16:27:10.295055+00:00
+ - user: None
+ - tags: []
+
+## Opusmodus: Common Lisp Music Composition System
+ - [https://opusmodus.com](https://opusmodus.com)
+ - date published: 2023-11-08T10:57:11+00:00
  - user: None
  - tags: []
 
@@ -2898,6 +3036,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## PUFFBUNNY STUDIO
+ - [https://www.puffbunnystudio.com](https://www.puffbunnystudio.com)
+ - date published: 2023-11-08T04:36:44.784840+00:00
+ - user: None
+ - tags: []
+
 ## America's Custom Workstation Leader | Puget Systems
  - [https://www.pugetsystems.com](https://www.pugetsystems.com)
  - date published: 2023-10-25T16:42:14.792651+00:00
@@ -3078,6 +3222,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Amazon November Sale: 20 Fantastic Deals You Can Grab Right Now! | TECHWALTZ
+ - [https://qechtech.com](https://qechtech.com)
+ - date published: 2023-11-08T16:41:19.370020+00:00
+ - user: None
+ - tags: []
+
 ## QRP Labs Kits
  - [https://qrp-labs.com](https://qrp-labs.com)
  - date published: 2023-10-25T16:43:23.293063+00:00
@@ -3150,7 +3300,7 @@ Answering Machine Greetings!
  - [https://www.qualcomm.com](https://www.qualcomm.com)
  - date published: 2023-10-25T11:28:30.303519+00:00
  - user: None
- - tags: ['company']
+ - tags: ['semiconductors', 'company']
 
 ## Qualys Security Blog | Expert network security guidance and news
  - [https://blog.qualys.com](https://blog.qualys.com)
@@ -5184,7 +5334,7 @@ Answering Machine Greetings!
  - [https://www.samsung.com](https://www.samsung.com)
  - date published: 2023-10-25T11:28:36.759869+00:00
  - user: None
- - tags: ['company']
+ - tags: ['semiconductors', 'company']
 
 ## Samsung Mobile Press – Samsung Mobile Press is the official source of news about Samsung's mobile products. Read press releases and features, watch videos, and download images.
  - [https://www.samsungmobilepress.com](https://www.samsungmobilepress.com)
@@ -5580,7 +5730,7 @@ Answering Machine Greetings!
  - [https://www.sdlgbtn.com](https://www.sdlgbtn.com)
  - date published: 2023-10-25T17:00:39.793963+00:00
  - user: None
- - tags: []
+ - tags: ['the left wing', 'lgbt']
 
 ## SD Times - Software Development News
  - [https://sdtimes.com](https://sdtimes.com)
@@ -5855,156 +6005,6 @@ Answering Machine Greetings!
 ## Sesquiotica | Words, words, words
  - [https://sesquiotic.com](https://sesquiotic.com)
  - date published: 2023-10-25T17:02:31.243228+00:00
- - user: None
- - tags: []
-
-## set-inform.com | Adventures in Ubiquiti Routing and Switching
- - [https://set-inform.com](https://set-inform.com)
- - date published: 2023-10-25T17:02:35.226495+00:00
- - user: None
- - tags: []
-
-## Seth Ariel Green's website
- - [https://setharielgreen.com](https://setharielgreen.com)
- - date published: 2023-10-25T17:02:35.994039+00:00
- - user: None
- - tags: []
-
-## Happy Warrior by Seth Bannon | Substack
- - [https://www.sethbannon.com](https://www.sethbannon.com)
- - date published: 2023-10-25T17:02:37.932924+00:00
- - user: None
- - tags: []
-
-## Go away, the cloud is full
- - [http://www.sevangelatos.com](http://www.sevangelatos.com)
- - date published: 2023-10-25T17:02:39.146947+00:00
- - user: None
- - tags: []
-
-## Sevish – electronic microtonal music
- - [https://sevish.com](https://sevish.com)
- - date published: 2023-10-25T17:02:41.671400+00:00
- - user: None
- - tags: []
-
-## Sex, Drugs, and Suicide | Jeff Clark, MD | Substack
- - [https://www.sexdrugsandsuicide.com](https://www.sexdrugsandsuicide.com)
- - date published: 2023-10-25T17:02:43.133456+00:00
- - user: None
- - tags: []
-
-## San Francisco Chronicle - Bay Area news, sports, tech, food - San Francisco Chronicle
- - [https://www.sfchronicle.com](https://www.sfchronicle.com)
- - date published: 2023-10-25T17:02:52.832420+00:00
- - user: None
- - tags: []
-
-## San Francisco Examiner
- - [https://www.sfexaminer.com](https://www.sfexaminer.com)
- - date published: 2023-10-25T17:02:57.221140+00:00
- - user: None
- - tags: []
-
-## SFGATE: San Francisco Bay Area News, Sports, Culture, Travel, Food and Drink
- - [https://www.sfgate.com](https://www.sfgate.com)
- - date published: 2023-10-25T11:06:19.429757+00:00
- - user: None
- - tags: []
-
-## The San Francisco Standard
- - [https://sfstandard.com](https://sfstandard.com)
- - date published: 2023-10-25T10:16:18.496044+00:00
- - user: None
- - tags: []
-
-## San Francisco YIMBY
- - [https://sfyimby.com](https://sfyimby.com)
- - date published: 2023-10-25T17:03:07.889213+00:00
- - user: None
- - tags: []
-
-## Shacknews | Video Game Video Reviews, Celebrity Interviews, Strategy Videos, Original Content and More
- - [https://www.shacknews.com](https://www.shacknews.com)
- - date published: 2023-10-25T10:50:12.343927+00:00
- - user: None
- - tags: []
-
-## Shadertoy BETA
- - [https://www.shadertoy.com](https://www.shadertoy.com)
- - date published: 2023-10-25T17:03:10.073076+00:00
- - user: None
- - tags: []
-
-## ShadowBox Training – Accelerate Expertise
- - [https://www.shadowboxtraining.com](https://www.shadowboxtraining.com)
- - date published: 2023-10-25T17:03:12.236336+00:00
- - user: None
- - tags: []
-
-## Shanley
- - [https://www.shanleykane.com](https://www.shanleykane.com)
- - date published: 2023-10-25T17:03:13.290534+00:00
- - user: None
- - tags: []
-
-## The Shape of Code
- - [https://shape-of-code.com](https://shape-of-code.com)
- - date published: 2023-10-25T17:03:20.555625+00:00
- - user: None
- - tags: []
-
-## Shapecatcher: Draw the Unicode character you want!
- - [https://shapecatcher.com](https://shapecatcher.com)
- - date published: 2023-10-25T17:03:21.120346+00:00
- - user: None
- - tags: []
-
-## Larry Charbonneau - Web Developer / Diver / Husker
- - [https://www.sharbonline.com](https://www.sharbonline.com)
- - date published: 2023-10-25T17:03:23.397222+00:00
- - user: None
- - tags: []
-
-## ShareGPT: Share your wildest ChatGPT conversations with one click.
- - [https://sharegpt.com](https://sharegpt.com)
- - date published: 2023-10-25T17:03:24.394627+00:00
- - user: None
- - tags: []
-
-## Shareware Heroes | A book by Richard Moss
- - [https://sharewareheroes.com](https://sharewareheroes.com)
- - date published: 2023-10-25T17:03:25.595114+00:00
- - user: None
- - tags: []
-
-## Sharoma
- - [https://www.sharoma.com](https://www.sharoma.com)
- - date published: 2023-10-25T08:47:52.772488+00:00
- - user: None
- - tags: ['personal']
-
-## ShaunOConnell.com – GP | Commissioner | Coach & Mentor | Blogger
- - [https://shaunoconnell.com](https://shaunoconnell.com)
- - date published: 2023-10-25T17:03:27.779859+00:00
- - user: None
- - tags: []
-
-## Shawn Tabrizi | A site about discovery through experience
- - [https://www.shawntabrizi.com](https://www.shawntabrizi.com)
- - date published: 2023-10-25T17:03:28.603657+00:00
- - user: None
- - tags: []
-
-## https://www.sheepesports.com
- - [https://www.sheepesports.com](https://www.sheepesports.com)
- - date published: 2023-11-03T01:49:18.102291+00:00
- - user: None
- - tags: []
-
-## Shepherd - Browse the best books to read.
- - [https://shepherd.com](https://shepherd.com)
- - date published: 2023-11-01T13:03:34.046684+00:00
  - user: None
  - tags: []
 

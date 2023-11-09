@@ -1,3 +1,57 @@
+## Advent of Code 2023
+ - [https://adventofcode.com](https://adventofcode.com)
+ - date published: 2023-10-25T12:34:08.250343+00:00
+ - user: None
+ - tags: []
+
+## Advocate.com
+ - [https://www.advocate.com](https://www.advocate.com)
+ - date published: 2023-11-02T14:14:43.133390+00:00
+ - user: None
+ - tags: []
+
+## ADV Pulse - Adventure Bike / Dual Sport News, Reviews, Tests & Tips
+ - [https://www.advpulse.com](https://www.advpulse.com)
+ - date published: 2023-10-25T12:34:21.082812+00:00
+ - user: None
+ - tags: []
+
+## Adyen | Engineered for ambition - Adyen
+ - [https://www.adyen.com](https://www.adyen.com)
+ - date published: 2023-10-25T12:34:25.534381+00:00
+ - user: None
+ - tags: []
+
+## Adze JS - Better JavaScript Logging
+ - [https://adzejs.com](https://adzejs.com)
+ - date published: 2023-10-25T12:34:27.271211+00:00
+ - user: None
+ - tags: []
+
+## AeroXplorer - Aviation News & Photography
+ - [https://aeroxplorer.com](https://aeroxplorer.com)
+ - date published: 2023-10-25T11:48:26.790533+00:00
+ - user: None
+ - tags: []
+
+## affectedbysvbornot.com - Affected by the collapse of Silicon Valley Bank or not?
+ - [https://affectedbysvbornot.com](https://affectedbysvbornot.com)
+ - date published: 2023-10-25T12:34:28.407989+00:00
+ - user: None
+ - tags: []
+
+## Fact Check |
+ - [https://factcheck.afp.com](https://factcheck.afp.com)
+ - date published: 2023-10-25T12:34:29.892424+00:00
+ - user: None
+ - tags: []
+
+## Financial Review - Business, Finance and Investment News | afr.com
+ - [https://www.afr.com](https://www.afr.com)
+ - date published: 2023-10-25T12:34:36.173207+00:00
+ - user: None
+ - tags: []
+
 ## Afridigest | Ideas, analysis, & insight for business innovators across Africa & beyond.
  - [https://afridigest.com](https://afridigest.com)
  - date published: 2023-10-25T12:34:42.761602+00:00
@@ -1616,7 +1670,7 @@
  - [https://www.arm.com](https://www.arm.com)
  - date published: 2023-10-25T11:27:17.516393+00:00
  - user: None
- - tags: []
+ - tags: ['semiconductors']
 
 ## Army Times, Independent News For Soldiers | Army Times
  - [https://www.armytimes.com](https://www.armytimes.com)
@@ -2606,7 +2660,7 @@
  - [https://www.beastsofwar.com](https://www.beastsofwar.com)
  - date published: 2023-10-27T07:44:29.363282+00:00
  - user: None
- - tags: ['tabletop games']
+ - tags: ['tabletop games', 'wargames', 'warhammer']
 
 ## http://www.beatandraise.com
  - [http://www.beatandraise.com](http://www.beatandraise.com)
@@ -4148,7 +4202,7 @@
  - [https://www.boeing.com](https://www.boeing.com)
  - date published: 2023-10-25T13:07:39.244470+00:00
  - user: None
- - tags: []
+ - tags: ['avionics', 'aerospace', 'aviation']
 
 ## Blog on tech, productivity, books, tools, and web development · Bojan Vidanovic
  - [https://bojanvidanovic.com](https://bojanvidanovic.com)
@@ -5941,60 +5995,6 @@
 ## CJ Chilvers
  - [https://www.cjchilvers.com](https://www.cjchilvers.com)
  - date published: 2023-10-25T13:25:16.340035+00:00
- - user: None
- - tags: []
-
-## Clagnut by Richard Rutter
- - [https://clagnut.com](https://clagnut.com)
- - date published: 2023-10-25T13:25:19.677369+00:00
- - user: None
- - tags: []
-
-## Clara Le
- - [https://clarale.com](https://clarale.com)
- - date published: 2023-10-25T13:25:22.685810+00:00
- - user: None
- - tags: []
-
-## Claremont Review of Books
- - [https://claremontreviewofbooks.com](https://claremontreviewofbooks.com)
- - date published: 2023-10-25T13:25:28.224639+00:00
- - user: None
- - tags: []
-
-## https://clarifycapital.com
- - [https://clarifycapital.com](https://clarifycapital.com)
- - date published: 2023-10-25T13:25:29.523442+00:00
- - user: None
- - tags: []
-
-## Clash Magazine Music News, Reviews & Interviews
- - [https://www.clashmusic.com](https://www.clashmusic.com)
- - date published: 2023-10-25T13:25:34.751984+00:00
- - user: None
- - tags: []
-
-## Classicamiga.com - Welcome to Classicamiga
- - [http://forum.classicamiga.com](http://forum.classicamiga.com)
- - date published: 2023-10-27T14:34:17.553527+00:00
- - user: None
- - tags: ['amiga', 'social forum']
-
-## Main Page - Classicamiga
- - [http://wiki.classicamiga.com](http://wiki.classicamiga.com)
- - date published: 2023-11-02T09:36:22.561590+00:00
- - user: None
- - tags: []
-
-## classicamiga.com - Home
- - [http://www.classicamiga.com](http://www.classicamiga.com)
- - date published: 2023-10-27T14:25:07.382434+00:00
- - user: None
- - tags: ['amiga']
-
-## Classic FM
- - [https://www.classicfm.com](https://www.classicfm.com)
- - date published: 2023-10-25T13:25:45.737723+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,153 @@
+## Seth Ariel Green's website
+ - [https://setharielgreen.com](https://setharielgreen.com)
+ - date published: 2023-10-25T17:02:35.994039+00:00
+ - user: None
+ - tags: []
+
+## Happy Warrior by Seth Bannon | Substack
+ - [https://www.sethbannon.com](https://www.sethbannon.com)
+ - date published: 2023-10-25T17:02:37.932924+00:00
+ - user: None
+ - tags: []
+
+## Go away, the cloud is full
+ - [http://www.sevangelatos.com](http://www.sevangelatos.com)
+ - date published: 2023-10-25T17:02:39.146947+00:00
+ - user: None
+ - tags: []
+
+## Sevish – electronic microtonal music
+ - [https://sevish.com](https://sevish.com)
+ - date published: 2023-10-25T17:02:41.671400+00:00
+ - user: None
+ - tags: []
+
+## Sex, Drugs, and Suicide | Jeff Clark, MD | Substack
+ - [https://www.sexdrugsandsuicide.com](https://www.sexdrugsandsuicide.com)
+ - date published: 2023-10-25T17:02:43.133456+00:00
+ - user: None
+ - tags: []
+
+## San Francisco Chronicle - Bay Area news, sports, tech, food - San Francisco Chronicle
+ - [https://www.sfchronicle.com](https://www.sfchronicle.com)
+ - date published: 2023-10-25T17:02:52.832420+00:00
+ - user: None
+ - tags: []
+
+## San Francisco Examiner
+ - [https://www.sfexaminer.com](https://www.sfexaminer.com)
+ - date published: 2023-10-25T17:02:57.221140+00:00
+ - user: None
+ - tags: []
+
+## SFGATE: San Francisco Bay Area News, Sports, Culture, Travel, Food and Drink
+ - [https://www.sfgate.com](https://www.sfgate.com)
+ - date published: 2023-10-25T11:06:19.429757+00:00
+ - user: None
+ - tags: []
+
+## The San Francisco Standard
+ - [https://sfstandard.com](https://sfstandard.com)
+ - date published: 2023-10-25T10:16:18.496044+00:00
+ - user: None
+ - tags: []
+
+## San Francisco YIMBY
+ - [https://sfyimby.com](https://sfyimby.com)
+ - date published: 2023-10-25T17:03:07.889213+00:00
+ - user: None
+ - tags: []
+
+## Shacknews | Video Game Video Reviews, Celebrity Interviews, Strategy Videos, Original Content and More
+ - [https://www.shacknews.com](https://www.shacknews.com)
+ - date published: 2023-10-25T10:50:12.343927+00:00
+ - user: None
+ - tags: []
+
+## Shadertoy BETA
+ - [https://www.shadertoy.com](https://www.shadertoy.com)
+ - date published: 2023-10-25T17:03:10.073076+00:00
+ - user: None
+ - tags: []
+
+## ShadowBox Training – Accelerate Expertise
+ - [https://www.shadowboxtraining.com](https://www.shadowboxtraining.com)
+ - date published: 2023-10-25T17:03:12.236336+00:00
+ - user: None
+ - tags: []
+
+## Shanley
+ - [https://www.shanleykane.com](https://www.shanleykane.com)
+ - date published: 2023-10-25T17:03:13.290534+00:00
+ - user: None
+ - tags: []
+
+## The Shape of Code
+ - [https://shape-of-code.com](https://shape-of-code.com)
+ - date published: 2023-10-25T17:03:20.555625+00:00
+ - user: None
+ - tags: []
+
+## Shapecatcher: Draw the Unicode character you want!
+ - [https://shapecatcher.com](https://shapecatcher.com)
+ - date published: 2023-10-25T17:03:21.120346+00:00
+ - user: None
+ - tags: []
+
+## Larry Charbonneau - Web Developer / Diver / Husker
+ - [https://www.sharbonline.com](https://www.sharbonline.com)
+ - date published: 2023-10-25T17:03:23.397222+00:00
+ - user: None
+ - tags: []
+
+## ShareGPT: Share your wildest ChatGPT conversations with one click.
+ - [https://sharegpt.com](https://sharegpt.com)
+ - date published: 2023-10-25T17:03:24.394627+00:00
+ - user: None
+ - tags: []
+
+## Shareware Heroes | A book by Richard Moss
+ - [https://sharewareheroes.com](https://sharewareheroes.com)
+ - date published: 2023-10-25T17:03:25.595114+00:00
+ - user: None
+ - tags: []
+
+## Sharoma
+ - [https://www.sharoma.com](https://www.sharoma.com)
+ - date published: 2023-10-25T08:47:52.772488+00:00
+ - user: None
+ - tags: ['personal']
+
+## ShaunOConnell.com – GP | Commissioner | Coach & Mentor | Blogger
+ - [https://shaunoconnell.com](https://shaunoconnell.com)
+ - date published: 2023-10-25T17:03:27.779859+00:00
+ - user: None
+ - tags: []
+
+## Shawn Tabrizi | A site about discovery through experience
+ - [https://www.shawntabrizi.com](https://www.shawntabrizi.com)
+ - date published: 2023-10-25T17:03:28.603657+00:00
+ - user: None
+ - tags: []
+
+## https://www.sheepesports.com
+ - [https://www.sheepesports.com](https://www.sheepesports.com)
+ - date published: 2023-11-03T01:49:18.102291+00:00
+ - user: None
+ - tags: []
+
+## Shepherd - Browse the best books to read.
+ - [https://shepherd.com](https://shepherd.com)
+ - date published: 2023-11-01T13:03:34.046684+00:00
+ - user: None
+ - tags: []
+
+## Sherman On Software
+ - [https://shermanonsoftware.com](https://shermanonsoftware.com)
+ - date published: 2023-10-29T04:21:17.368512+00:00
+ - user: None
+ - tags: []
+
 ## Shining Science
  - [https://www.shiningscience.com](https://www.shiningscience.com)
  - date published: 2023-10-25T17:03:30.804921+00:00
@@ -454,6 +604,12 @@
  - date published: 2023-10-25T17:06:38.502399+00:00
  - user: None
  - tags: []
+
+## Home
+ - [https://www.slipseer.com](https://www.slipseer.com)
+ - date published: 2023-11-08T15:37:22.189671+00:00
+ - user: None
+ - tags: ['game mods', 'quake']
 
 ## Slite - AI-powered knowledge base
  - [https://slite.com](https://slite.com)
@@ -975,7 +1131,7 @@
  - [https://spikeybits.com](https://spikeybits.com)
  - date published: 2023-10-25T11:11:37.761643+00:00
  - user: None
- - tags: ['star wars', 'warhammer', 'tabletop games']
+ - tags: ['news', 'tabletop games', 'star wars', 'warhammer']
 
 ## Spinfuel Magazine
  - [https://spinfuel.com](https://spinfuel.com)
@@ -4301,6 +4457,12 @@
  - user: None
  - tags: ['substack']
 
+## Thoguhts | Akshay Raveendran | Substack
+ - [https://thoguhts.substack.com](https://thoguhts.substack.com)
+ - date published: 2023-11-08T09:45:32.418742+00:00
+ - user: None
+ - tags: []
+
 ## The Path Not Taken | Thomas Prosser | Substack
  - [https://thomasprosser.substack.com](https://thomasprosser.substack.com)
  - date published: 2023-10-25T10:06:26.448291+00:00
@@ -4888,6 +5050,12 @@
  - date published: 2023-10-25T11:11:51.352396+00:00
  - user: None
  - tags: []
+
+## Tabletop Gaming News - TGN
+ - [https://www.tabletopgamingnews.com](https://www.tabletopgamingnews.com)
+ - date published: 2023-11-08T09:29:32.273419+00:00
+ - user: None
+ - tags: ['game news', 'tabletop games', 'warhammer']
 
 ## Play 2,400+ Board Games Online for Free • Tabletopia
  - [https://tabletopia.com](https://tabletopia.com)
@@ -5822,175 +5990,6 @@
 ## The Bureau of Investigative Journalism (en-GB)
  - [https://www.thebureauinvestigates.com](https://www.thebureauinvestigates.com)
  - date published: 2023-10-25T17:30:38.816859+00:00
- - user: None
- - tags: []
-
-## New Cars, Car Reviews, Car Shows, Car Photos - The Car Connection
- - [https://www.thecarconnection.com](https://www.thecarconnection.com)
- - date published: 2023-10-25T17:30:43.374179+00:00
- - user: None
- - tags: []
-
-## The Chainsaw | The Home of Web3
- - [https://thechainsaw.com](https://thechainsaw.com)
- - date published: 2023-10-25T17:30:48.327080+00:00
- - user: None
- - tags: []
-
-## The China Project | Reporting on China without fear or favor
- - [https://thechinaproject.com](https://thechinaproject.com)
- - date published: 2023-10-25T10:55:29.873815+00:00
- - user: None
- - tags: []
-
-## THE CHRONICLES OF HISTORY
- - [https://thechroniclesofhistory.com](https://thechroniclesofhistory.com)
- - date published: 2023-11-02T08:43:01.591027+00:00
- - user: None
- - tags: []
-
-## The Coded Message
- - [https://www.thecodedmessage.com](https://www.thecodedmessage.com)
- - date published: 2023-10-25T17:30:50.090607+00:00
- - user: None
- - tags: []
-
-## The Codeless Code:
-    Case 234 Ozymandias
- - [http://www.thecodelesscode.com](http://www.thecodelesscode.com)
- - date published: 2023-10-25T17:30:52.649018+00:00
- - user: None
- - tags: []
-
-## The Codist
- - [https://thecodist.com](https://thecodist.com)
- - date published: 2023-10-25T17:30:55.549212+00:00
- - user: None
- - tags: []
-
-## TheCollector | Ancient History, Philosophy, Religion, Art & Artists
- - [https://www.thecollector.com](https://www.thecollector.com)
- - date published: 2023-10-25T17:31:06.391542+00:00
- - user: None
- - tags: []
-
-## The College Fix | Breaking Campus News. Launching Media Careers.
- - [https://www.thecollegefix.com](https://www.thecollegefix.com)
- - date published: 2023-10-25T17:31:10.322137+00:00
- - user: None
- - tags: []
-
-## The Comeback: Today’s Top Sports Stories & Reactions - The Comeback provides today’s top sports stories and reactions for the NFL, NBA, MLB, NHL, college football, college basketball, and more.
- - [https://thecomeback.com](https://thecomeback.com)
- - date published: 2023-10-25T17:31:13.743341+00:00
- - user: None
- - tags: []
-
-## The Computer Science Book | Learn computer science the easy way for self-taught developers
- - [https://thecomputersciencebook.com](https://thecomputersciencebook.com)
- - date published: 2023-10-25T17:31:15.914209+00:00
- - user: None
- - tags: []
-
-## The Conversation: In-depth analysis, research, news and ideas from leading academics and researchers.
- - [https://theconversation.com](https://theconversation.com)
- - date published: 2023-10-25T17:31:19.094203+00:00
- - user: None
- - tags: []
-
-## The Counter Signal | Alternative News and Media
- - [https://thecountersignal.com](https://thecountersignal.com)
- - date published: 2023-10-25T17:31:22.944359+00:00
- - user: None
- - tags: []
-
-## The Cramped – Celebrating The Unique Pleasures of Analog Writing
- - [https://www.thecramped.com](https://www.thecramped.com)
- - date published: 2023-10-25T17:31:27.867495+00:00
- - user: None
- - tags: []
-
-## The Harvard Crimson
- - [https://www.thecrimson.com](https://www.thecrimson.com)
- - date published: 2023-10-25T17:31:36.026603+00:00
- - user: None
- - tags: []
-
-## TheCustomDroid - Android Tutorials, Tips and Tricks
- - [https://www.thecustomdroid.com](https://www.thecustomdroid.com)
- - date published: 2023-10-25T17:31:38.674743+00:00
- - user: None
- - tags: []
-
-## The Cut – Fashion, Beauty, Politics, Sex and Celebrity
- - [https://www.thecut.com](https://www.thecut.com)
- - date published: 2023-10-25T17:31:44.882099+00:00
- - user: None
- - tags: []
-
-## The Cyber Express | #1 Cybersecurity News & Hacker News Site
- - [https://thecyberexpress.com](https://thecyberexpress.com)
- - date published: 2023-10-25T17:31:53.779909+00:00
- - user: None
- - tags: []
-
-## The Daily Beast: The Latest in Politics, Media & Entertainment News
- - [https://www.thedailybeast.com](https://www.thedailybeast.com)
- - date published: 2023-10-25T17:31:56.772366+00:00
- - user: None
- - tags: []
-
-## The Daily WTF: Curious Perversions in Information Technology
- - [https://thedailywtf.com](https://thedailywtf.com)
- - date published: 2023-10-25T17:32:00.501920+00:00
- - user: None
- - tags: []
-
-## The Dark Mod - Stealth Gaming in a Gothic Steampunk World | The Dark Mod
- - [https://www.thedarkmod.com](https://www.thedarkmod.com)
- - date published: 2023-10-30T15:27:29.953311+00:00
- - user: None
- - tags: ['game mod', 'thief']
-
-## The Defense Post • Global defense news, analysis and opinion
- - [https://www.thedefensepost.com](https://www.thedefensepost.com)
- - date published: 2023-10-25T17:32:04.440811+00:00
- - user: None
- - tags: []
-
-## The Digital Cat - Home
- - [https://blog.thedigitalcatonline.com](https://blog.thedigitalcatonline.com)
- - date published: 2023-11-02T09:53:02.939077+00:00
- - user: None
- - tags: ['blog', 'personal', 'amiga']
-
-## The Diplomat – The Diplomat is a current-affairs magazine for the Asia-Pacific, with news and analysis on politics, security, business, technology and life across the region.
- - [https://thediplomat.com](https://thediplomat.com)
- - date published: 2023-10-25T17:32:09.273734+00:00
- - user: None
- - tags: []
-
-## Dividend List | home
- - [https://thedividendlist.com](https://thedividendlist.com)
- - date published: 2023-10-25T17:32:10.176414+00:00
- - user: None
- - tags: []
-
-## The Daily Pennsylvanian
- - [https://www.thedp.com](https://www.thedp.com)
- - date published: 2023-10-27T17:14:41.275709+00:00
- - user: None
- - tags: []
-
-## The Edge Malaysia
- - [https://theedgemalaysia.com](https://theedgemalaysia.com)
- - date published: 2023-11-01T08:43:10.638443+00:00
- - user: None
- - tags: []
-
-## https://www.theedgesingapore.com
- - [https://www.theedgesingapore.com](https://www.theedgesingapore.com)
- - date published: 2023-10-25T17:32:15.590070+00:00
  - user: None
  - tags: []
 

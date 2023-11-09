@@ -1,3 +1,57 @@
+## Clara Le
+ - [https://clarale.com](https://clarale.com)
+ - date published: 2023-10-25T13:25:22.685810+00:00
+ - user: None
+ - tags: []
+
+## Claremont Review of Books
+ - [https://claremontreviewofbooks.com](https://claremontreviewofbooks.com)
+ - date published: 2023-10-25T13:25:28.224639+00:00
+ - user: None
+ - tags: []
+
+## https://clarifycapital.com
+ - [https://clarifycapital.com](https://clarifycapital.com)
+ - date published: 2023-10-25T13:25:29.523442+00:00
+ - user: None
+ - tags: []
+
+## Clash Magazine Music News, Reviews & Interviews
+ - [https://www.clashmusic.com](https://www.clashmusic.com)
+ - date published: 2023-10-25T13:25:34.751984+00:00
+ - user: None
+ - tags: []
+
+## Classicamiga.com - Welcome to Classicamiga
+ - [http://forum.classicamiga.com](http://forum.classicamiga.com)
+ - date published: 2023-10-27T14:34:17.553527+00:00
+ - user: None
+ - tags: ['amiga', 'social forum']
+
+## Main Page - Classicamiga
+ - [http://wiki.classicamiga.com](http://wiki.classicamiga.com)
+ - date published: 2023-11-02T09:36:22.561590+00:00
+ - user: None
+ - tags: []
+
+## classicamiga.com - Home
+ - [http://www.classicamiga.com](http://www.classicamiga.com)
+ - date published: 2023-10-27T14:25:07.382434+00:00
+ - user: None
+ - tags: ['amiga']
+
+## Classic FM
+ - [https://www.classicfm.com](https://www.classicfm.com)
+ - date published: 2023-10-25T13:25:45.737723+00:00
+ - user: None
+ - tags: []
+
+## ClassicReload.com | Game and Software Preservation
+ - [https://classicreload.com](https://classicreload.com)
+ - date published: 2023-10-25T16:37:42.619258+00:00
+ - user: None
+ - tags: ['retro game', 'abandonware']
+
 ## yet another tech-blog - made in Switzerland
  - [https://www.claudiokuenzler.com](https://www.claudiokuenzler.com)
  - date published: 2023-10-25T13:25:46.623422+00:00
@@ -21,6 +75,12 @@
  - date published: 2023-10-25T09:19:48.402987+00:00
  - user: None
  - tags: ['personal']
+
+## Cleveland OH Local News, Breaking News, Sports & Weather
+ - [https://www.cleveland.com](https://www.cleveland.com)
+ - date published: 2023-11-08T15:16:39.134401+00:00
+ - user: None
+ - tags: []
 
 ## Cleveland 19 News | WOIO | Cleveland, Ohio
  - [https://www.cleveland19.com](https://www.cleveland19.com)
@@ -2044,6 +2104,12 @@
  - user: None
  - tags: []
 
+## Access Restricted
+ - [https://www.dcnewsnow.com](https://www.dcnewsnow.com)
+ - date published: 2023-11-08T19:51:54.434384+00:00
+ - user: None
+ - tags: []
+
 ## DC Rainmaker
  - [https://www.dcrainmaker.com](https://www.dcrainmaker.com)
  - date published: 2023-10-25T13:46:39.342895+00:00
@@ -4007,6 +4073,12 @@
  - user: None
  - tags: []
 
+## The Software Engineer's Guidebook
+ - [https://www.engguidebook.com](https://www.engguidebook.com)
+ - date published: 2023-11-08T00:46:17+00:00
+ - user: None
+ - tags: []
+
 ## Engineering Book Club - Online community for reading books
  - [https://www.engineeringbookclub.com](https://www.engineeringbookclub.com)
  - date published: 2023-10-25T14:07:27.340540+00:00
@@ -5926,76 +5998,4 @@
  - date published: 2023-10-25T11:04:58.976088+00:00
  - user: None
  - tags: []
-
-## Fox Business | Business News &Stock Quotes - Saving & Investing
- - [https://www.foxbusiness.com](https://www.foxbusiness.com)
- - date published: 2023-10-25T10:57:40.272562+00:00
- - user: None
- - tags: []
-
-## FOX 11 Los Angeles
- - [https://www.foxla.com](https://www.foxla.com)
- - date published: 2023-10-25T09:29:54.593194+00:00
- - user: None
- - tags: []
-
-## http://moxie.foxnews.com
- - [http://moxie.foxnews.com](http://moxie.foxnews.com)
- - date published: 2023-10-25T10:26:21.800868+00:00
- - user: None
- - tags: []
-
-## Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos
- - [https://www.foxnews.com](https://www.foxnews.com)
- - date published: 2023-10-25T10:26:27.291309+00:00
- - user: None
- - tags: []
-
-## Home Page - FP Complete
- - [https://www.fpcomplete.com](https://www.fpcomplete.com)
- - date published: 2023-10-25T14:37:06.434619+00:00
- - user: None
- - tags: []
-
-## FPGAArcade | Programmable Gaming Hardware
- - [https://www.fpgaarcade.com](https://www.fpgaarcade.com)
- - date published: 2023-10-27T14:40:13.859509+00:00
- - user: None
- - tags: ['fpga', 'amiga', 'retro games']
-
-## FPGA Design and Tutorials - FPGA Developer
- - [https://www.fpgadeveloper.com](https://www.fpgadeveloper.com)
- - date published: 2023-10-25T14:37:09.642182+00:00
- - user: None
- - tags: []
-
-## FPGAjobs - Jobs for Logic Designers!
- - [https://www.fpgajobs.com](https://www.fpgajobs.com)
- - date published: 2023-11-06T13:53:26.006456+00:00
- - user: None
- - tags: []
-
-## Morphing Fractal Engraving Vise Jaws
- - [https://fractalvise.com](https://fractalvise.com)
- - date published: 2023-10-25T14:37:12.415206+00:00
- - user: None
- - tags: []
-
-## The France 24 Observers - Breaking the news thanks to amateur images - Film, verify, share.
- - [https://observers.france24.com](https://observers.france24.com)
- - date published: 2023-10-25T14:37:17.132636+00:00
- - user: None
- - tags: []
-
-## France 24 - International breaking news, top stories and headlines
- - [https://www.france24.com](https://www.france24.com)
- - date published: 2023-10-25T10:50:28.450111+00:00
- - user: None
- - tags: []
-
-## Frank Caron - Product Guy and Writer At Large
- - [https://www.frankcaron.com](https://www.frankcaron.com)
- - date published: 2023-10-25T08:45:49.273455+00:00
- - user: None
- - tags: ['personal']
 

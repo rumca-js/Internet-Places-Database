@@ -244,6 +244,12 @@
  - user: None
  - tags: []
 
+## Show HN: Bulletpapers – ArXiv AI paper summarizer, won Anthropic Hackathon
+ - [https://www.bulletpapers.ai](https://www.bulletpapers.ai)
+ - date published: 2023-11-08T18:20:11+00:00
+ - user: None
+ - tags: []
+
 ## Bunch - AI Coaching | Become a Better Leader in 2 Mins a Day
  - [https://bunch.ai](https://bunch.ai)
  - date published: 2023-10-25T11:36:43.928399+00:00
@@ -841,6 +847,12 @@
 ## AI Art Generator | Create AI Images and Photos Online Free | OpenArt
  - [https://openart.ai](https://openart.ai)
  - date published: 2023-10-25T11:41:08.932333+00:00
+ - user: None
+ - tags: []
+
+## OpenPipe: Fine-Tuning for Developers
+ - [https://openpipe.ai](https://openpipe.ai)
+ - date published: 2023-11-08T18:45:06.077157+00:00
  - user: None
  - tags: []
 
@@ -1840,6 +1852,12 @@
  - user: None
  - tags: []
 
+## Antidepressants or Tolkien
+ - [https://antidepressantsortolkien.vercel.app](https://antidepressantsortolkien.vercel.app)
+ - date published: 2023-11-08T02:53:20+00:00
+ - user: None
+ - tags: ['app', 'funny', 'tolkien', 'lord of the rings']
+
 ## Boot & Shoe Blog
  - [https://boot-and-shoe.vercel.app](https://boot-and-shoe.vercel.app)
  - date published: 2023-10-25T11:49:59.378423+00:00
@@ -2644,6 +2662,12 @@
  - user: None
  - tags: ['youtube']
 
+## YouTube
+ - [https://youtu.be](https://youtu.be)
+ - date published: 2023-11-08T20:32:57.103890+00:00
+ - user: None
+ - tags: []
+
 ## DNS points to prohibited IP | blog.cto.berlin | Cloudflare
  - [https://blog.cto.berlin](https://blog.cto.berlin)
  - date published: 2023-10-25T11:59:33.436078+00:00
@@ -3101,6 +3125,12 @@
  - user: None
  - tags: []
 
+## Ko: Easy Go Containers
+ - [https://ko.build](https://ko.build)
+ - date published: 2023-11-08T00:37:54+00:00
+ - user: None
+ - tags: []
+
 ## Index – Turbo
  - [https://turbo.build](https://turbo.build)
  - date published: 2023-10-25T12:02:59.657620+00:00
@@ -3551,6 +3581,12 @@
  - user: None
  - tags: []
 
+## thecanadianpressnews.ca
+ - [https://www.thecanadianpressnews.ca](https://www.thecanadianpressnews.ca)
+ - date published: 2023-11-08T21:50:08.227809+00:00
+ - user: None
+ - tags: []
+
 ## the deep dive | Providing stock analysis for investors of the Canadian junior markets
  - [https://thedeepdive.ca](https://thedeepdive.ca)
  - date published: 2023-10-25T12:07:49.884004+00:00
@@ -3640,6 +3676,12 @@
  - date published: 2023-10-27T10:23:57.087268+00:00
  - user: None
  - tags: ['university']
+
+## Home | University of Toronto Mississauga
+ - [https://www.utm.utoronto.ca](https://www.utm.utoronto.ca)
+ - date published: 2023-11-08T22:51:00.987663+00:00
+ - user: None
+ - tags: []
 
 ## University of Toronto
  - [https://www.utoronto.ca](https://www.utoronto.ca)
@@ -5268,6 +5310,12 @@
  - user: None
  - tags: []
 
+## Access Denied
+ - [https://www.13newsnow.com](https://www.13newsnow.com)
+ - date published: 2023-11-08T01:58:27.155648+00:00
+ - user: None
+ - tags: []
+
 ## Rochester News, Weather, Sports, Breaking News | WHAM
  - [https://13wham.com](https://13wham.com)
  - date published: 2023-11-02T23:08:08.908311+00:00
@@ -5700,6 +5748,12 @@
  - user: None
  - tags: []
 
+## Acceltex - Antennas, Mounts & Other Wireless Networking Products
+ - [https://www.acceltex.com](https://www.acceltex.com)
+ - date published: 2023-11-08T22:30:29.834195+00:00
+ - user: None
+ - tags: []
+
 ## Welcome to AccessibilityForDevelopers.com
  - [https://accessibilityfordevelopers.com](https://accessibilityfordevelopers.com)
  - date published: 2023-10-25T12:31:13.498578+00:00
@@ -5937,60 +5991,6 @@
 ## aduros.com
  - [https://aduros.com](https://aduros.com)
  - date published: 2023-10-25T12:33:57.524854+00:00
- - user: None
- - tags: []
-
-## Advait’s Newsletter | Advait Ruia | Substack
- - [https://www.advaitruia.com](https://www.advaitruia.com)
- - date published: 2023-10-25T12:34:01.081535+00:00
- - user: None
- - tags: []
-
-## Advent of Code 2023
- - [https://adventofcode.com](https://adventofcode.com)
- - date published: 2023-10-25T12:34:08.250343+00:00
- - user: None
- - tags: []
-
-## Advocate.com
- - [https://www.advocate.com](https://www.advocate.com)
- - date published: 2023-11-02T14:14:43.133390+00:00
- - user: None
- - tags: []
-
-## ADV Pulse - Adventure Bike / Dual Sport News, Reviews, Tests & Tips
- - [https://www.advpulse.com](https://www.advpulse.com)
- - date published: 2023-10-25T12:34:21.082812+00:00
- - user: None
- - tags: []
-
-## Adyen | Engineered for ambition - Adyen
- - [https://www.adyen.com](https://www.adyen.com)
- - date published: 2023-10-25T12:34:25.534381+00:00
- - user: None
- - tags: []
-
-## Adze JS - Better JavaScript Logging
- - [https://adzejs.com](https://adzejs.com)
- - date published: 2023-10-25T12:34:27.271211+00:00
- - user: None
- - tags: []
-
-## AeroXplorer - Aviation News & Photography
- - [https://aeroxplorer.com](https://aeroxplorer.com)
- - date published: 2023-10-25T11:48:26.790533+00:00
- - user: None
- - tags: []
-
-## affectedbysvbornot.com - Affected by the collapse of Silicon Valley Bank or not?
- - [https://affectedbysvbornot.com](https://affectedbysvbornot.com)
- - date published: 2023-10-25T12:34:28.407989+00:00
- - user: None
- - tags: []
-
-## Fact Check |
- - [https://factcheck.afp.com](https://factcheck.afp.com)
- - date published: 2023-10-25T12:34:29.892424+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,75 @@
+## FOX 11 Los Angeles
+ - [https://www.foxla.com](https://www.foxla.com)
+ - date published: 2023-10-25T09:29:54.593194+00:00
+ - user: None
+ - tags: []
+
+## http://moxie.foxnews.com
+ - [http://moxie.foxnews.com](http://moxie.foxnews.com)
+ - date published: 2023-10-25T10:26:21.800868+00:00
+ - user: None
+ - tags: []
+
+## Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos
+ - [https://www.foxnews.com](https://www.foxnews.com)
+ - date published: 2023-10-25T10:26:27.291309+00:00
+ - user: None
+ - tags: []
+
+## Home Page - FP Complete
+ - [https://www.fpcomplete.com](https://www.fpcomplete.com)
+ - date published: 2023-10-25T14:37:06.434619+00:00
+ - user: None
+ - tags: []
+
+## FPGAArcade | Programmable Gaming Hardware
+ - [https://www.fpgaarcade.com](https://www.fpgaarcade.com)
+ - date published: 2023-10-27T14:40:13.859509+00:00
+ - user: None
+ - tags: ['fpga', 'amiga', 'retro games']
+
+## FPGA Design and Tutorials - FPGA Developer
+ - [https://www.fpgadeveloper.com](https://www.fpgadeveloper.com)
+ - date published: 2023-10-25T14:37:09.642182+00:00
+ - user: None
+ - tags: []
+
+## FPGAjobs - Jobs for Logic Designers!
+ - [https://www.fpgajobs.com](https://www.fpgajobs.com)
+ - date published: 2023-11-06T13:53:26.006456+00:00
+ - user: None
+ - tags: []
+
+## Morphing Fractal Engraving Vise Jaws
+ - [https://fractalvise.com](https://fractalvise.com)
+ - date published: 2023-10-25T14:37:12.415206+00:00
+ - user: None
+ - tags: []
+
+## The France 24 Observers - Breaking the news thanks to amateur images - Film, verify, share.
+ - [https://observers.france24.com](https://observers.france24.com)
+ - date published: 2023-10-25T14:37:17.132636+00:00
+ - user: None
+ - tags: []
+
+## France 24 - International breaking news, top stories and headlines
+ - [https://www.france24.com](https://www.france24.com)
+ - date published: 2023-10-25T10:50:28.450111+00:00
+ - user: None
+ - tags: []
+
+## Frank Caron - Product Guy and Writer At Large
+ - [https://www.frankcaron.com](https://www.frankcaron.com)
+ - date published: 2023-10-25T08:45:49.273455+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home Page - FrankSpeech
+ - [https://frankspeech.com](https://frankspeech.com)
+ - date published: 2023-10-25T14:37:21.205761+00:00
+ - user: None
+ - tags: []
+
 ## Freakonomics - The hidden side of everything
  - [https://freakonomics.com](https://freakonomics.com)
  - date published: 2023-10-25T14:37:24.395000+00:00
@@ -249,6 +321,12 @@
  - date published: 2023-10-25T14:40:17.490437+00:00
  - user: None
  - tags: []
+
+## Future vs. Fantasy Quake
+ - [https://fvfonline.com](https://fvfonline.com)
+ - date published: 2023-11-08T21:17:28.959973+00:00
+ - user: None
+ - tags: ['quake']
 
 ## https://www.g2a.com
  - [https://www.g2a.com](https://www.g2a.com)
@@ -568,6 +646,12 @@
  - user: None
  - tags: []
 
+## The Next Generation and Future of GE | General Electric
+ - [https://www.ge.com](https://www.ge.com)
+ - date published: 2023-11-08T11:28:22.739493+00:00
+ - user: None
+ - tags: ['avionics', 'corporation']
+
 ## Gearrice - Explore the Tech World
  - [https://www.gearrice.com](https://www.gearrice.com)
  - date published: 2023-10-25T14:42:28.981386+00:00
@@ -668,6 +752,12 @@
 ## Geopolitical Economy Report - News and analysis to understand the world
  - [https://geopoliticaleconomy.com](https://geopoliticaleconomy.com)
  - date published: 2023-10-25T14:43:01.004998+00:00
+ - user: None
+ - tags: []
+
+## https://blog.georeactor.com
+ - [https://blog.georeactor.com](https://blog.georeactor.com)
+ - date published: 2023-11-08T20:32:19.048906+00:00
  - user: None
  - tags: []
 
@@ -1836,7 +1926,7 @@
  - [https://www.gscene.com](https://www.gscene.com)
  - date published: 2023-10-25T14:52:21.396611+00:00
  - user: None
- - tags: []
+ - tags: ['the left wing', 'lgbt']
 
 ## Gold IRA & Silver IRA | Buy Gold And Silver | GSI Exchange
  - [https://gsiexchange.com](https://gsiexchange.com)
@@ -3882,7 +3972,7 @@
  - [https://www.intel.com](https://www.intel.com)
  - date published: 2023-10-25T11:28:01.096443+00:00
  - user: None
- - tags: []
+ - tags: ['semiconductors']
 
 ## Intellectual Mathematics
  - [https://intellectualmathematics.com](https://intellectualmathematics.com)
@@ -5114,6 +5204,12 @@
  - user: None
  - tags: []
 
+## joseph of iowa
+ - [https://blog.josephofiowa.com](https://blog.josephofiowa.com)
+ - date published: 2023-11-08T21:31:37.242452+00:00
+ - user: None
+ - tags: []
+
 ## Josh Collinsworth
  - [https://joshcollinsworth.com](https://joshcollinsworth.com)
  - date published: 2023-10-25T08:46:42.529511+00:00
@@ -5898,102 +5994,6 @@
 ## Kiwi Electronics
  - [https://www.kiwi-electronics.com](https://www.kiwi-electronics.com)
  - date published: 2023-10-28T20:22:54.470874+00:00
- - user: None
- - tags: []
-
-## Klara Inc | Open Source Development. Reimagined.
- - [https://klarasystems.com](https://klarasystems.com)
- - date published: 2023-10-25T15:38:07.509792+00:00
- - user: None
- - tags: []
-
-## Martin Kleppmann’s website
- - [https://martin.kleppmann.com](https://martin.kleppmann.com)
- - date published: 2023-10-25T15:38:09.134153+00:00
- - user: None
- - tags: []
-
-## KMOV | Missouri Local News, Weather, Sports | St. Louis, MO
- - [https://www.kmov.com](https://www.kmov.com)
- - date published: 2023-11-03T13:09:21.024110+00:00
- - user: None
- - tags: []
-
-## knotend | The fastest flowchart editor. Being keyboard-first and optimized for speed, knotend is the best flowchart editor for project management, todo lists, collaboration, and more.
- - [https://www.knotend.com](https://www.knotend.com)
- - date published: 2023-10-25T15:38:20.588866+00:00
- - user: None
- - tags: []
-
-## Knowridge Science Report | Inspiring science news
- - [https://knowridge.com](https://knowridge.com)
- - date published: 2023-10-31T19:11:15.180516+00:00
- - user: None
- - tags: ['science news']
-
-## Rakuten Kobo
- - [https://www.kobo.com](https://www.kobo.com)
- - date published: 2023-10-25T08:24:09.609956+00:00
- - user: None
- - tags: []
-
-## Eastman Kodak Company
- - [https://www.kodak.com](https://www.kodak.com)
- - date published: 2023-11-01T08:42:26.818065+00:00
- - user: None
- - tags: []
-
-## Kodezi | Autocorrect For Programmers - AI Dev-Tool
- - [https://kodezi.com](https://kodezi.com)
- - date published: 2023-10-25T15:38:22.265932+00:00
- - user: None
- - tags: []
-
-## Koding Kitty | We turn design into responsive code
- - [https://www.kodingkitty.com](https://www.kodingkitty.com)
- - date published: 2023-10-25T15:38:23.060949+00:00
- - user: None
- - tags: []
-
-## Kody Tools
- - [https://www.kodytools.com](https://www.kodytools.com)
- - date published: 2023-10-25T15:38:24.551235+00:00
- - user: None
- - tags: []
-
-## Kohina Web Player
- - [https://player.kohina.com](https://player.kohina.com)
- - date published: 2023-10-25T15:38:24.816845+00:00
- - user: None
- - tags: ['chiptune', 'keygen']
-
-## Kolide - Zero Trust for Okta
- - [https://www.kolide.com](https://www.kolide.com)
- - date published: 2023-10-25T15:38:27.401193+00:00
- - user: None
- - tags: []
-
-## Arabic Numbers Practice
- - [https://arabic-numbers.koljapluemer.com](https://arabic-numbers.koljapluemer.com)
- - date published: 2023-10-25T15:38:27.990224+00:00
- - user: None
- - tags: []
-
-## Seattle News, Weather, Sports, Breaking News | KOMO
- - [https://komonews.com](https://komonews.com)
- - date published: 2023-10-25T11:05:08.513586+00:00
- - user: None
- - tags: []
-
-## Alex Komoroske
- - [https://komoroske.com](https://komoroske.com)
- - date published: 2023-10-25T15:38:29.399609+00:00
- - user: None
- - tags: []
-
-## Overhead Cranes | Port Cranes | Crane Parts | Crane Services | Konecranes
- - [https://www.konecranes.com](https://www.konecranes.com)
- - date published: 2023-10-25T15:38:35.642593+00:00
  - user: None
  - tags: []
 

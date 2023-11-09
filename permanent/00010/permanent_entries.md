@@ -1,3 +1,255 @@
+## Hackflow
+ - [https://suor.github.io](https://suor.github.io)
+ - date published: 2023-10-25T19:54:37.097870+00:00
+ - user: None
+ - tags: []
+
+## Josh Berry's Blog
+ - [https://taeric.github.io](https://taeric.github.io)
+ - date published: 2023-10-25T19:54:38.604675+00:00
+ - user: None
+ - tags: []
+
+## System Programming Lab | The next public class is SOLD OUT – November 27-28 and December 4-5 (4 days) via Zoom
+ - [https://tandasat.github.io](https://tandasat.github.io)
+ - date published: 2023-10-25T19:54:40.015158+00:00
+ - user: None
+ - tags: []
+
+## Text-to-Audio Generation using Instruction Tuned LLM and Latent Diffusion Model
+ - [https://tango-web.github.io](https://tango-web.github.io)
+ - date published: 2023-10-25T19:54:41.441534+00:00
+ - user: None
+ - tags: []
+
+## The Force Engine ·
+ - [https://theforceengine.github.io](https://theforceengine.github.io)
+ - date published: 2023-10-25T19:54:43.382443+00:00
+ - user: None
+ - tags: []
+
+## Electronics etc…
+ - [https://tomverbeure.github.io](https://tomverbeure.github.io)
+ - date published: 2023-10-25T19:54:56.629189+00:00
+ - user: None
+ - tags: []
+
+## Redirecting to Peng Wang's Public Notion Site
+ - [https://totoro97.github.io](https://totoro97.github.io)
+ - date published: 2023-10-25T19:54:57.690671+00:00
+ - user: None
+ - tags: []
+
+## tpaschalis – software, systems
+ - [https://tpaschalis.github.io](https://tpaschalis.github.io)
+ - date published: 2023-10-25T19:55:00.774309+00:00
+ - user: None
+ - tags: []
+
+## Tristan de Cacqueray – Tristan's Zettelkasten
+ - [https://tristancacqueray.github.io](https://tristancacqueray.github.io)
+ - date published: 2023-10-25T19:55:02.459044+00:00
+ - user: None
+ - tags: []
+
+## trofi's blog: /
+ - [https://trofi.github.io](https://trofi.github.io)
+ - date published: 2023-10-25T08:59:17.032313+00:00
+ - user: None
+ - tags: ['personal']
+
+## John  Tromp HomePage
+ - [https://tromp.github.io](https://tromp.github.io)
+ - date published: 2023-10-25T19:55:03.866969+00:00
+ - user: None
+ - tags: []
+
+## http://tschatzl.github.io
+ - [http://tschatzl.github.io](http://tschatzl.github.io)
+ - date published: 2023-10-25T19:55:05.631179+00:00
+ - user: None
+ - tags: []
+
+## Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models
+ - [https://tuning-encoder.github.io](https://tuning-encoder.github.io)
+ - date published: 2023-10-25T19:55:06.349691+00:00
+ - user: None
+ - tags: []
+
+## Home - Richard Marmorstein
+ - [https://twitchard.github.io](https://twitchard.github.io)
+ - date published: 2023-10-25T19:55:07.096382+00:00
+ - user: None
+ - tags: []
+
+## http://twitter.github.io
+ - [http://twitter.github.io](http://twitter.github.io)
+ - date published: 2023-10-25T19:55:07.679745+00:00
+ - user: None
+ - tags: []
+
+## Vertette's Blog
+ - [https://vertette.github.io](https://vertette.github.io)
+ - date published: 2023-10-28T07:51:18.208706+00:00
+ - user: None
+ - tags: []
+
+## Vimium - the hacker's browser
+ - [https://vimium.github.io](https://vimium.github.io)
+ - date published: 2023-10-25T19:55:08.196629+00:00
+ - user: None
+ - tags: []
+
+## Victor Stinner blog 3
+ - [https://vstinner.github.io](https://vstinner.github.io)
+ - date published: 2023-10-25T19:55:09.424906+00:00
+ - user: None
+ - tags: []
+
+## Val on Programming
+ - [https://vvvvalvalval.github.io](https://vvvvalvalval.github.io)
+ - date published: 2023-10-25T08:49:30.971591+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://wh0.github.io](https://wh0.github.io)
+ - date published: 2023-10-25T19:55:10.951365+00:00
+ - user: None
+ - tags: []
+
+## Wisha Wanichwecharungruang
+ - [https://wishawa.github.io](https://wishawa.github.io)
+ - date published: 2023-10-25T19:55:11.585400+00:00
+ - user: None
+ - tags: []
+
+## https://woodrush.github.io
+ - [https://woodrush.github.io](https://woodrush.github.io)
+ - date published: 2023-10-25T19:55:12.403642+00:00
+ - user: None
+ - tags: []
+
+## Willy R. Vasquez - Homepage
+ - [https://wrv.github.io](https://wrv.github.io)
+ - date published: 2023-10-25T19:55:13.735359+00:00
+ - user: None
+ - tags: []
+
+## Blog
+ - [https://wsdookadr.github.io](https://wsdookadr.github.io)
+ - date published: 2023-10-25T09:26:23.835465+00:00
+ - user: None
+ - tags: ['personal']
+
+## Xin Huang 黄鑫
+ - [https://xhuangcv.github.io](https://xhuangcv.github.io)
+ - date published: 2023-10-25T19:55:14.739671+00:00
+ - user: None
+ - tags: []
+
+## Home | This & That
+ - [https://yafetn.github.io](https://yafetn.github.io)
+ - date published: 2023-10-25T19:55:15.262479+00:00
+ - user: None
+ - tags: []
+
+## Yaksha Programming Language
+ - [https://yakshalang.github.io](https://yakshalang.github.io)
+ - date published: 2023-10-25T19:55:16.207333+00:00
+ - user: None
+ - tags: []
+
+## yanmaani's blog
+ - [https://yanmaani.github.io](https://yanmaani.github.io)
+ - date published: 2023-10-25T08:59:17.521757+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | YJDoc2
+ - [https://yjdoc2.github.io](https://yjdoc2.github.io)
+ - date published: 2023-10-25T19:55:16.923294+00:00
+ - user: None
+ - tags: []
+
+## Il y a du thé renversé au bord de la table !
+ - [https://yoric.github.io](https://yoric.github.io)
+ - date published: 2023-10-25T19:55:17.779830+00:00
+ - user: None
+ - tags: []
+
+## Mogan
+ - [https://yufeng-shen.github.io](https://yufeng-shen.github.io)
+ - date published: 2023-10-25T19:55:18.194289+00:00
+ - user: None
+ - tags: []
+
+## Page not found · GitHub Pages
+ - [https://zju3dv.github.io](https://zju3dv.github.io)
+ - date published: 2023-10-25T19:55:18.667660+00:00
+ - user: None
+ - tags: []
+
+## zrepl - ZFS replication — zrepl  documentation
+ - [https://zrepl.github.io](https://zrepl.github.io)
+ - date published: 2023-10-25T19:55:19.875471+00:00
+ - user: None
+ - tags: []
+
+## __del__( self )
+ - [https://zulko.github.io](https://zulko.github.io)
+ - date published: 2023-10-25T19:55:20.629671+00:00
+ - user: None
+ - tags: []
+
+## Zachary Yedidia
+ - [https://zyedidia.github.io](https://zyedidia.github.io)
+ - date published: 2023-10-25T19:55:21.722255+00:00
+ - user: None
+ - tags: []
+
+## Garett Brown
+ - [https://zyrxvo.github.io](https://zyrxvo.github.io)
+ - date published: 2023-10-25T08:49:32.688735+00:00
+ - user: None
+ - tags: ['personal']
+
+## GitHub Trends
+ - [https://www.githubtrends.io](https://www.githubtrends.io)
+ - date published: 2023-10-25T19:55:22.901532+00:00
+ - user: None
+ - tags: []
+
+## Show HN: GitInsights – a weekly summary email of your team's GitHub activity
+ - [https://gitinsights.io](https://gitinsights.io)
+ - date published: 2023-11-03T20:15:03+00:00
+ - user: None
+ - tags: []
+
+## Andrey Listopadov
+ - [https://andreyorst.gitlab.io](https://andreyorst.gitlab.io)
+ - date published: 2023-10-25T19:55:24.276900+00:00
+ - user: None
+ - tags: []
+
+## https://esr.gitlab.io
+ - [https://esr.gitlab.io](https://esr.gitlab.io)
+ - date published: 2023-10-25T19:55:25.824776+00:00
+ - user: None
+ - tags: []
+
+## Lisp journey
+ - [https://lisp-journey.gitlab.io](https://lisp-journey.gitlab.io)
+ - date published: 2023-10-25T19:55:27.274355+00:00
+ - user: None
+ - tags: []
+
+## nakst
+ - [https://nakst.gitlab.io](https://nakst.gitlab.io)
+ - date published: 2023-10-25T08:49:33.733980+00:00
+ - user: None
+ - tags: ['personal']
+
 ## PsychOS - Home
  - [https://psychoslinux.gitlab.io](https://psychoslinux.gitlab.io)
  - date published: 2023-10-25T19:55:29.305645+00:00
@@ -2620,6 +2872,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
+## 任天堂ホームページ
+ - [https://www.nintendo.co.jp](https://www.nintendo.co.jp)
+ - date published: 2023-11-08T01:15:47.345043+00:00
+ - user: None
+ - tags: []
+
 ## MANGA Plus by SHUEISHA
  - [https://mangaplus.shueisha.co.jp](https://mangaplus.shueisha.co.jp)
  - date published: 2023-10-31T15:38:03.194595+00:00
@@ -2701,6 +2959,12 @@ End-to-end typesafe APIs made easy. | tRPC
 ## SYSSEC
  - [https://syssec.kaist.ac.kr](https://syssec.kaist.ac.kr)
  - date published: 2023-10-25T20:17:21.001514+00:00
+ - user: None
+ - tags: []
+
+## English Edition : The Hankyoreh
+ - [https://english.hani.co.kr](https://english.hani.co.kr)
+ - date published: 2023-11-08T12:51:12.262880+00:00
  - user: None
  - tags: []
 
@@ -5732,271 +5996,6 @@ End-to-end typesafe APIs made easy. | tRPC
 ## Jami
  - [https://jami.net](https://jami.net)
  - date published: 2023-10-25T08:33:33.108947+00:00
- - user: None
- - tags: []
-
-## Software Download | Oracle
- - [https://download.java.net](https://download.java.net)
- - date published: 2023-10-25T20:32:12.072850+00:00
- - user: None
- - tags: []
-
-## JDK Builds from Oracle
- - [https://jdk.java.net](https://jdk.java.net)
- - date published: 2023-10-25T20:32:13.251661+00:00
- - user: None
- - tags: []
-
-## Tim Zöller
- - [https://javahippie.net](https://javahippie.net)
- - date published: 2023-10-25T08:52:46.073444+00:00
- - user: None
- - tags: ['personal']
-
-## Blog - Jay Carlson
- - [https://jaycarlson.net](https://jaycarlson.net)
- - date published: 2023-10-25T08:52:49.258835+00:00
- - user: None
- - tags: ['personal']
-
-## Homepage of Jose E. Marchesi
- - [https://jemarch.net](https://jemarch.net)
- - date published: 2023-10-25T09:00:36.096519+00:00
- - user: None
- - tags: ['personal']
-
-## John Floren
- - [https://jfloren.net](https://jfloren.net)
- - date published: 2023-10-25T08:52:50.325125+00:00
- - user: None
- - tags: ['personal']
-
-## Jonathan Dowland
- - [https://jmtd.net](https://jmtd.net)
- - date published: 2023-10-25T08:52:51.054917+00:00
- - user: None
- - tags: ['personal']
-
-## JOFLA.NET
- - [http://www.jofla.net](http://www.jofla.net)
- - date published: 2023-10-25T09:00:42.556174+00:00
- - user: None
- - tags: ['personal']
-
-## John MacFarlane - Home
- - [https://johnmacfarlane.net](https://johnmacfarlane.net)
- - date published: 2023-10-25T20:32:14.592861+00:00
- - user: None
- - tags: []
-
-## John Papa
- - [https://johnpapa.net](https://johnpapa.net)
- - date published: 2023-10-25T09:26:32.853254+00:00
- - user: None
- - tags: ['personal']
-
-## Join the fediverse!
- - [https://jointhefediverse.net](https://jointhefediverse.net)
- - date published: 2023-10-25T20:32:15.618583+00:00
- - user: None
- - tags: []
-
-## The Ravenna Ultra-Low-Altitude Vehicle: A Rocketship Treehouse
- - [http://rocket.jonh.net](http://rocket.jonh.net)
- - date published: 2023-10-25T20:32:19.071597+00:00
- - user: None
- - tags: []
-
-## jonhilton.net - Making sense of .NET
- - [https://jonhilton.net](https://jonhilton.net)
- - date published: 2023-10-25T09:00:43.605815+00:00
- - user: None
- - tags: ['personal']
-
-## Jon Udell – Strategies for Internet citizens
- - [https://blog.jonudell.net](https://blog.jonudell.net)
- - date published: 2023-10-25T20:32:25.142965+00:00
- - user: None
- - tags: []
-
-## Jan-Piet Mens
- - [https://jpmens.net](https://jpmens.net)
- - date published: 2023-10-25T09:00:45.582283+00:00
- - user: None
- - tags: ['personal']
-
-## James Somers
- - [https://jsomers.net](https://jsomers.net)
- - date published: 2023-10-25T08:52:53.562320+00:00
- - user: None
- - tags: ['personal']
-
-## Junker HQ: Projects
- - [https://junkerhq.net](https://junkerhq.net)
- - date published: 2023-10-25T20:32:26.799389+00:00
- - user: None
- - tags: []
-
-## Kalman Filter Tutorial
- - [https://www.kalmanfilter.net](https://www.kalmanfilter.net)
- - date published: 2023-10-25T20:32:28.311113+00:00
- - user: None
- - tags: []
-
-## Welcome to Kanaries Docs – Kanaries
- - [https://docs.kanaries.net](https://docs.kanaries.net)
- - date published: 2023-10-25T20:32:35.579830+00:00
- - user: None
- - tags: []
-
-## Mike's Blog — Technologist at Large
- - [https://blog.karliner.net](https://blog.karliner.net)
- - date published: 2023-10-25T09:23:11.406124+00:00
- - user: None
- - tags: ['personal']
-
-## kc8apf.net - Embedded Systems, Audio, Cars, Hacks
- - [https://www.kc8apf.net](https://www.kc8apf.net)
- - date published: 2023-10-25T20:32:36.639375+00:00
- - user: None
- - tags: []
-
-## https://www.kinguin.net
- - [https://www.kinguin.net](https://www.kinguin.net)
- - date published: 2023-10-29T11:07:49.299424+00:00
- - user: None
- - tags: ['keys', 'piracy']
-
-## Kitguru.net - Tech News | Hardware News | Hardware Reviews | IOS | Mobile | Gaming | Graphics Cards
- - [https://www.kitguru.net](https://www.kitguru.net)
- - date published: 2023-10-25T20:32:42.943722+00:00
- - user: None
- - tags: []
-
-## That blog I keep intending to update | Knowing.NET
- - [https://knowing.net](https://knowing.net)
- - date published: 2023-10-25T09:26:37.474273+00:00
- - user: None
- - tags: ['personal']
-
-## Blog
- - [https://www.kooslooijesteijn.net](https://www.kooslooijesteijn.net)
- - date published: 2023-10-25T08:52:55.119175+00:00
- - user: None
- - tags: ['personal']
-
-## Current projects | Korban.net
- - [https://korban.net](https://korban.net)
- - date published: 2023-10-25T20:32:44.199557+00:00
- - user: None
- - tags: []
-
-## Kris Nóva | Kris Nóva
- - [https://krisnova.net](https://krisnova.net)
- - date published: 2023-10-25T08:52:55.779180+00:00
- - user: None
- - tags: ['personal']
-
-## Kyle McDonald
- - [https://kylemcdonald.net](https://kylemcdonald.net)
- - date published: 2023-10-25T08:53:01.468418+00:00
- - user: None
- - tags: ['personal']
-
-## Kyodo News+ | Japan's leading news agency.
- - [https://english.kyodonews.net](https://english.kyodonews.net)
- - date published: 2023-10-25T10:41:39.108752+00:00
- - user: None
- - tags: []
-
-## LabIncubators.net
-       | The Largest Selection of Laboratory Incubators!
- - [https://labincubators.net](https://labincubators.net)
- - date published: 2023-10-25T20:32:45.620684+00:00
- - user: None
- - tags: []
-
-## LandChad.net
- - [https://landchad.net](https://landchad.net)
- - date published: 2023-10-25T11:11:00.105083+00:00
- - user: None
- - tags: []
-
-## La Quadrature du Net
- - [https://www.laquadrature.net](https://www.laquadrature.net)
- - date published: 2023-10-25T20:32:46.883924+00:00
- - user: None
- - tags: []
-
-## Launchpad Bugs
- - [https://bugs.launchpad.net](https://bugs.launchpad.net)
- - date published: 2023-10-25T20:32:47.781928+00:00
- - user: None
- - tags: []
-
-## Legacy Update: Get back online, activate, and install updates on your legacy Windows PC
- - [https://legacyupdate.net](https://legacyupdate.net)
- - date published: 2023-10-25T20:32:48.666498+00:00
- - user: None
- - tags: []
-
-## Nikita's Homepage
- - [https://www.leshenko.net](https://www.leshenko.net)
- - date published: 2023-10-25T08:53:01.995172+00:00
- - user: None
- - tags: ['personal']
-
-## LibertyCity // GTA 6 news, cheats for GTA 5 and GTA San Andreas, download mods, cars
- - [https://libertycity.net](https://libertycity.net)
- - date published: 2023-10-25T11:17:55.769566+00:00
- - user: None
- - tags: ['grand theft auto']
-
-## LibreWolf
- - [https://librewolf.net](https://librewolf.net)
- - date published: 2023-10-25T20:32:49.628211+00:00
- - user: None
- - tags: []
-
-## adq – Andrew de Quincey's miscellaneous tech projects
- - [http://blog.lidskialf.net](http://blog.lidskialf.net)
- - date published: 2023-10-25T20:32:52.498780+00:00
- - user: None
- - tags: []
-
-## limpet.net
- - [https://limpet.net](https://limpet.net)
- - date published: 2023-10-25T20:32:53.415063+00:00
- - user: None
- - tags: []
-
-## Linda Stone
- - [https://lindastone.net](https://lindastone.net)
- - date published: 2023-10-25T08:53:03.480692+00:00
- - user: None
- - tags: ['personal']
-
-## linusakesson.net
- - [https://linusakesson.net](https://linusakesson.net)
- - date published: 2023-10-25T20:32:54.866699+00:00
- - user: None
- - tags: []
-
-## linusakesson.net
- - [https://www.linusakesson.net](https://www.linusakesson.net)
- - date published: 2023-10-25T20:33:01.198358+00:00
- - user: None
- - tags: []
-
-## Eli Lipsitz
- - [https://eli.lipsitz.net](https://eli.lipsitz.net)
- - date published: 2023-10-25T09:23:12.493617+00:00
- - user: None
- - tags: ['personal']
-
-## Liquipedia
- - [https://liquipedia.net](https://liquipedia.net)
- - date published: 2023-10-25T11:48:20.723694+00:00
  - user: None
  - tags: []
 

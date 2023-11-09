@@ -1,3 +1,99 @@
+## Martin Kleppmann’s website
+ - [https://martin.kleppmann.com](https://martin.kleppmann.com)
+ - date published: 2023-10-25T15:38:09.134153+00:00
+ - user: None
+ - tags: []
+
+## KMOV | Missouri Local News, Weather, Sports | St. Louis, MO
+ - [https://www.kmov.com](https://www.kmov.com)
+ - date published: 2023-11-03T13:09:21.024110+00:00
+ - user: None
+ - tags: []
+
+## knotend | The fastest flowchart editor. Being keyboard-first and optimized for speed, knotend is the best flowchart editor for project management, todo lists, collaboration, and more.
+ - [https://www.knotend.com](https://www.knotend.com)
+ - date published: 2023-10-25T15:38:20.588866+00:00
+ - user: None
+ - tags: []
+
+## Knowridge Science Report | Inspiring science news
+ - [https://knowridge.com](https://knowridge.com)
+ - date published: 2023-10-31T19:11:15.180516+00:00
+ - user: None
+ - tags: ['science news']
+
+## Rakuten Kobo
+ - [https://www.kobo.com](https://www.kobo.com)
+ - date published: 2023-10-25T08:24:09.609956+00:00
+ - user: None
+ - tags: []
+
+## Eastman Kodak Company
+ - [https://www.kodak.com](https://www.kodak.com)
+ - date published: 2023-11-01T08:42:26.818065+00:00
+ - user: None
+ - tags: []
+
+## Kodezi | Autocorrect For Programmers - AI Dev-Tool
+ - [https://kodezi.com](https://kodezi.com)
+ - date published: 2023-10-25T15:38:22.265932+00:00
+ - user: None
+ - tags: []
+
+## Koding Kitty | We turn design into responsive code
+ - [https://www.kodingkitty.com](https://www.kodingkitty.com)
+ - date published: 2023-10-25T15:38:23.060949+00:00
+ - user: None
+ - tags: []
+
+## Kody Tools
+ - [https://www.kodytools.com](https://www.kodytools.com)
+ - date published: 2023-10-25T15:38:24.551235+00:00
+ - user: None
+ - tags: []
+
+## Kohina Web Player
+ - [https://player.kohina.com](https://player.kohina.com)
+ - date published: 2023-10-25T15:38:24.816845+00:00
+ - user: None
+ - tags: ['chiptune', 'keygen']
+
+## Kolide - Zero Trust for Okta
+ - [https://www.kolide.com](https://www.kolide.com)
+ - date published: 2023-10-25T15:38:27.401193+00:00
+ - user: None
+ - tags: []
+
+## Arabic Numbers Practice
+ - [https://arabic-numbers.koljapluemer.com](https://arabic-numbers.koljapluemer.com)
+ - date published: 2023-10-25T15:38:27.990224+00:00
+ - user: None
+ - tags: []
+
+## Seattle News, Weather, Sports, Breaking News | KOMO
+ - [https://komonews.com](https://komonews.com)
+ - date published: 2023-10-25T11:05:08.513586+00:00
+ - user: None
+ - tags: []
+
+## Alex Komoroske
+ - [https://komoroske.com](https://komoroske.com)
+ - date published: 2023-10-25T15:38:29.399609+00:00
+ - user: None
+ - tags: []
+
+## Overhead Cranes | Port Cranes | Crane Parts | Crane Services | Konecranes
+ - [https://www.konecranes.com](https://www.konecranes.com)
+ - date published: 2023-10-25T15:38:35.642593+00:00
+ - user: None
+ - tags: []
+
+## KonichiValue | Rei Saito | Substack
+ - [https://www.konichivalue.com](https://www.konichivalue.com)
+ - date published: 2023-10-25T15:38:38.318253+00:00
+ - user: None
+ - tags: []
+
 ## KonstaKANG
  - [https://konstakang.com](https://konstakang.com)
  - date published: 2023-10-25T08:31:41.475437+00:00
@@ -622,6 +718,12 @@
  - user: None
  - tags: []
 
+## https://www.legacy.com
+ - [https://www.legacy.com](https://www.legacy.com)
+ - date published: 2023-11-08T09:45:29.440345+00:00
+ - user: None
+ - tags: []
+
 ## Pittsburgh Injury Law News | A Legal Examiner Affiliate
  - [https://pittsburgh.legalexaminer.com](https://pittsburgh.legalexaminer.com)
  - date published: 2023-10-25T15:44:33.564468+00:00
@@ -818,7 +920,7 @@
  - [https://www.lgbtqnation.com](https://www.lgbtqnation.com)
  - date published: 2023-10-30T19:33:36.663163+00:00
  - user: None
- - tags: []
+ - tags: ['the left wing', 'lgbt']
 
 ## LGUG2Z
  - [https://lgug2z.com](https://lgug2z.com)
@@ -943,6 +1045,12 @@
 ## Liliputing
  - [https://liliputing.com](https://liliputing.com)
  - date published: 2023-10-25T09:33:48.782855+00:00
+ - user: None
+ - tags: []
+
+## Investors | Eli Lilly and Company
+ - [https://investor.lilly.com](https://investor.lilly.com)
+ - date published: 2023-11-08T18:45:04.828436+00:00
  - user: None
  - tags: []
 
@@ -1233,6 +1341,12 @@
  - date published: 2023-10-25T15:49:14.174047+00:00
  - user: None
  - tags: []
+
+## Leading Aerospace and Defense
+ - [https://www.lockheedmartin.com](https://www.lockheedmartin.com)
+ - date published: 2023-11-08T11:24:51.674356+00:00
+ - user: None
+ - tags: ['avionics', 'aerospace', 'lockheed martin']
 
 ## Lockval Engine
  - [https://lockval.com](https://lockval.com)
@@ -3366,6 +3480,12 @@ diversions.
  - user: None
  - tags: []
 
+## Mensur Duraković
+ - [https://www.mensurdurakovic.com](https://www.mensurdurakovic.com)
+ - date published: 2023-11-08T11:21:41.631421+00:00
+ - user: None
+ - tags: []
+
 ## Mental Floss
  - [https://www.mentalfloss.com](https://www.mentalfloss.com)
  - date published: 2023-10-25T16:01:19.537538+00:00
@@ -4407,6 +4527,12 @@ diversions.
 ## Mother Jones – Smart, fearless journalism
  - [https://www.motherjones.com](https://www.motherjones.com)
  - date published: 2023-10-25T16:07:37.660102+00:00
+ - user: None
+ - tags: []
+
+## Car News and Information | Motor1.com
+ - [https://www.motor1.com](https://www.motor1.com)
+ - date published: 2023-11-08T00:56:14.804673+00:00
  - user: None
  - tags: []
 
@@ -5866,132 +5992,6 @@ diversions.
 ## nolan caudill's internet house
  - [https://nolancaudill.com](https://nolancaudill.com)
  - date published: 2023-10-25T16:21:21.891174+00:00
- - user: None
- - tags: []
-
-## Read the Tea Leaves | Software and other dark arts, by Nolan Lawson
- - [https://nolanlawson.com](https://nolanlawson.com)
- - date published: 2023-10-25T16:21:29.999439+00:00
- - user: None
- - tags: []
-
-## Legal Encyclopedia, Legal Forms, Law Books, & Software
- - [https://www.nolo.com](https://www.nolo.com)
- - date published: 2023-10-31T14:57:36.056016+00:00
- - user: None
- - tags: []
-
-## No Man's Sky
- - [https://www.nomanssky.com](https://www.nomanssky.com)
- - date published: 2023-10-25T16:21:33.028725+00:00
- - user: None
- - tags: []
-
-## nomnoml
- - [https://nomnoml.com](https://nomnoml.com)
- - date published: 2023-10-25T16:21:33.570735+00:00
- - user: None
- - tags: []
-
-## Non_Interactive – Software & ML
- - [https://nonint.com](https://nonint.com)
- - date published: 2023-10-25T16:21:35.607377+00:00
- - user: None
- - tags: []
-
-## America First Report – American exceptionalism isn't dead. It just needs to be embraced.
- - [https://noqreport.com](https://noqreport.com)
- - date published: 2023-10-25T16:21:43.282379+00:00
- - user: None
- - tags: []
-
-## Nora Sandler
- - [https://norasandler.com](https://norasandler.com)
- - date published: 2023-10-25T16:21:46.398093+00:00
- - user: None
- - tags: []
-
-## Nord
- - [https://www.nordtheme.com](https://www.nordtheme.com)
- - date published: 2023-10-25T16:21:49.654388+00:00
- - user: None
- - tags: []
-
-## The best online VPN service for speed and security
- - [https://nordvpn.com](https://nordvpn.com)
- - date published: 2023-10-30T12:51:19.370709+00:00
- - user: None
- - tags: ['privacy', 'vpn']
-
-## Normally Notes
- - [https://notes.normally.com](https://notes.normally.com)
- - date published: 2023-10-25T16:21:50.474932+00:00
- - user: None
- - tags: []
-
-## Newsroom | Northrop Grumman
- - [https://news.northropgrumman.com](https://news.northropgrumman.com)
- - date published: 2023-10-25T16:21:52.840892+00:00
- - user: None
- - tags: []
-
-## Now. Powered by Northrop Grumman - Now. Powered by Northrop Grumman
- - [https://now.northropgrumman.com](https://now.northropgrumman.com)
- - date published: 2023-10-25T16:21:56.193641+00:00
- - user: None
- - tags: []
-
-## Official Site | Norton™ - Antivirus & Anti-Malware Software
- - [https://us.norton.com](https://us.norton.com)
- - date published: 2023-10-30T12:54:58.008009+00:00
- - user: None
- - tags: ['antivirus']
-
-## Peter Norvig
- - [https://norvig.com](https://norvig.com)
- - date published: 2023-10-25T16:21:58.144681+00:00
- - user: None
- - tags: []
-
-## Norwegian SciTech News - Research News from NTNU and Sintef
- - [https://norwegianscitechnews.com](https://norwegianscitechnews.com)
- - date published: 2023-10-25T10:15:24.266544+00:00
- - user: None
- - tags: []
-
-## No Starch Press | "The finest in geek entertainment"
- - [https://nostarch.com](https://nostarch.com)
- - date published: 2023-10-25T16:22:00.975649+00:00
- - user: None
- - tags: []
-
-## Nostr, a simple protocol for decentralizing social media that has a chance of working
- - [https://nostr.com](https://nostr.com)
- - date published: 2023-10-25T16:22:01.809831+00:00
- - user: None
- - tags: []
-
-## ⍻ — U+237B NOT CHECKMARK
- - [https://www.notcheckmark.com](https://www.notcheckmark.com)
- - date published: 2023-10-25T16:22:03.206228+00:00
- - user: None
- - tags: []
-
-## NO TECH MAGAZINE – We believe in progress and technology
- - [https://www.notechmagazine.com](https://www.notechmagazine.com)
- - date published: 2023-10-25T16:22:07.109594+00:00
- - user: None
- - tags: []
-
-## Notes by Lex
- - [https://notesbylex.com](https://notesbylex.com)
- - date published: 2023-10-25T16:22:08.633640+00:00
- - user: None
- - tags: []
-
-## Notes From Poland | regular summaries of news from Poland
- - [https://notesfrompoland.com](https://notesfrompoland.com)
- - date published: 2023-10-25T10:14:35.905271+00:00
  - user: None
  - tags: []
 

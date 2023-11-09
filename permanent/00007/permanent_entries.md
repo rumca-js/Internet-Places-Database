@@ -1,3 +1,172 @@
+## The Chainsaw | The Home of Web3
+ - [https://thechainsaw.com](https://thechainsaw.com)
+ - date published: 2023-10-25T17:30:48.327080+00:00
+ - user: None
+ - tags: []
+
+## The China Project | Reporting on China without fear or favor
+ - [https://thechinaproject.com](https://thechinaproject.com)
+ - date published: 2023-10-25T10:55:29.873815+00:00
+ - user: None
+ - tags: []
+
+## THE CHRONICLES OF HISTORY
+ - [https://thechroniclesofhistory.com](https://thechroniclesofhistory.com)
+ - date published: 2023-11-02T08:43:01.591027+00:00
+ - user: None
+ - tags: []
+
+## The Coded Message
+ - [https://www.thecodedmessage.com](https://www.thecodedmessage.com)
+ - date published: 2023-10-25T17:30:50.090607+00:00
+ - user: None
+ - tags: []
+
+## The Codeless Code:
+    Case 234 Ozymandias
+ - [http://www.thecodelesscode.com](http://www.thecodelesscode.com)
+ - date published: 2023-10-25T17:30:52.649018+00:00
+ - user: None
+ - tags: []
+
+## The Codist
+ - [https://thecodist.com](https://thecodist.com)
+ - date published: 2023-10-25T17:30:55.549212+00:00
+ - user: None
+ - tags: []
+
+## TheCollector | Ancient History, Philosophy, Religion, Art & Artists
+ - [https://www.thecollector.com](https://www.thecollector.com)
+ - date published: 2023-10-25T17:31:06.391542+00:00
+ - user: None
+ - tags: []
+
+## The College Fix | Breaking Campus News. Launching Media Careers.
+ - [https://www.thecollegefix.com](https://www.thecollegefix.com)
+ - date published: 2023-10-25T17:31:10.322137+00:00
+ - user: None
+ - tags: []
+
+## The Comeback: Today’s Top Sports Stories & Reactions - The Comeback provides today’s top sports stories and reactions for the NFL, NBA, MLB, NHL, college football, college basketball, and more.
+ - [https://thecomeback.com](https://thecomeback.com)
+ - date published: 2023-10-25T17:31:13.743341+00:00
+ - user: None
+ - tags: []
+
+## The Computer Science Book | Learn computer science the easy way for self-taught developers
+ - [https://thecomputersciencebook.com](https://thecomputersciencebook.com)
+ - date published: 2023-10-25T17:31:15.914209+00:00
+ - user: None
+ - tags: []
+
+## The Conversation: In-depth analysis, research, news and ideas from leading academics and researchers.
+ - [https://theconversation.com](https://theconversation.com)
+ - date published: 2023-10-25T17:31:19.094203+00:00
+ - user: None
+ - tags: []
+
+## The Counter Signal | Alternative News and Media
+ - [https://thecountersignal.com](https://thecountersignal.com)
+ - date published: 2023-10-25T17:31:22.944359+00:00
+ - user: None
+ - tags: []
+
+## The Cramped – Celebrating The Unique Pleasures of Analog Writing
+ - [https://www.thecramped.com](https://www.thecramped.com)
+ - date published: 2023-10-25T17:31:27.867495+00:00
+ - user: None
+ - tags: []
+
+## The Harvard Crimson
+ - [https://www.thecrimson.com](https://www.thecrimson.com)
+ - date published: 2023-10-25T17:31:36.026603+00:00
+ - user: None
+ - tags: []
+
+## TheCustomDroid - Android Tutorials, Tips and Tricks
+ - [https://www.thecustomdroid.com](https://www.thecustomdroid.com)
+ - date published: 2023-10-25T17:31:38.674743+00:00
+ - user: None
+ - tags: []
+
+## The Cut – Fashion, Beauty, Politics, Sex and Celebrity
+ - [https://www.thecut.com](https://www.thecut.com)
+ - date published: 2023-10-25T17:31:44.882099+00:00
+ - user: None
+ - tags: []
+
+## The Cyber Express | #1 Cybersecurity News & Hacker News Site
+ - [https://thecyberexpress.com](https://thecyberexpress.com)
+ - date published: 2023-10-25T17:31:53.779909+00:00
+ - user: None
+ - tags: []
+
+## The Daily Beast: The Latest in Politics, Media & Entertainment News
+ - [https://www.thedailybeast.com](https://www.thedailybeast.com)
+ - date published: 2023-10-25T17:31:56.772366+00:00
+ - user: None
+ - tags: []
+
+## The Daily WTF: Curious Perversions in Information Technology
+ - [https://thedailywtf.com](https://thedailywtf.com)
+ - date published: 2023-10-25T17:32:00.501920+00:00
+ - user: None
+ - tags: []
+
+## The Dark Mod - Stealth Gaming in a Gothic Steampunk World | The Dark Mod
+ - [https://www.thedarkmod.com](https://www.thedarkmod.com)
+ - date published: 2023-10-30T15:27:29.953311+00:00
+ - user: None
+ - tags: ['game mod', 'thief']
+
+## The Defense Post • Global defense news, analysis and opinion
+ - [https://www.thedefensepost.com](https://www.thedefensepost.com)
+ - date published: 2023-10-25T17:32:04.440811+00:00
+ - user: None
+ - tags: []
+
+## The Digital Cat - Home
+ - [https://blog.thedigitalcatonline.com](https://blog.thedigitalcatonline.com)
+ - date published: 2023-11-02T09:53:02.939077+00:00
+ - user: None
+ - tags: ['blog', 'personal', 'amiga']
+
+## The Diplomat – The Diplomat is a current-affairs magazine for the Asia-Pacific, with news and analysis on politics, security, business, technology and life across the region.
+ - [https://thediplomat.com](https://thediplomat.com)
+ - date published: 2023-10-25T17:32:09.273734+00:00
+ - user: None
+ - tags: []
+
+## Dividend List | home
+ - [https://thedividendlist.com](https://thedividendlist.com)
+ - date published: 2023-10-25T17:32:10.176414+00:00
+ - user: None
+ - tags: []
+
+## The Daily Pennsylvanian
+ - [https://www.thedp.com](https://www.thedp.com)
+ - date published: 2023-10-27T17:14:41.275709+00:00
+ - user: None
+ - tags: []
+
+## The Edge Malaysia
+ - [https://theedgemalaysia.com](https://theedgemalaysia.com)
+ - date published: 2023-11-01T08:43:10.638443+00:00
+ - user: None
+ - tags: []
+
+## https://www.theedgesingapore.com
+ - [https://www.theedgesingapore.com](https://www.theedgesingapore.com)
+ - date published: 2023-10-25T17:32:15.590070+00:00
+ - user: None
+ - tags: []
+
+## The Epoch Times | Breaking News, Latest News, World News and Videos
+ - [https://feed.theepochtimes.com](https://feed.theepochtimes.com)
+ - date published: 2023-10-25T10:50:48.568852+00:00
+ - user: None
+ - tags: []
+
 ## The Epoch Times | Breaking News, Latest News, World News and Videos
  - [http://www.theepochtimes.com](http://www.theepochtimes.com)
  - date published: 2023-10-25T10:39:18.833935+00:00
@@ -470,7 +639,7 @@
  - [https://www.thepinknews.com](https://www.thepinknews.com)
  - date published: 2023-10-25T17:37:47.176421+00:00
  - user: None
- - tags: []
+ - tags: ['the left wing', 'lgbt']
 
 ## The Point | A magazine of the examined life
  - [https://thepointmag.com](https://thepointmag.com)
@@ -1024,6 +1193,12 @@
  - date published: 2023-10-25T17:41:32.049875+00:00
  - user: None
  - tags: []
+
+## Analog | Embedded processing | Semiconductor company |  TI.com
+ - [https://www.ti.com](https://www.ti.com)
+ - date published: 2023-11-08T11:32:13.774051+00:00
+ - user: None
+ - tags: ['semiconductor', 'company', 'electronics']
 
 ## FastAPI
  - [https://fastapi.tiangolo.com](https://fastapi.tiangolo.com)
@@ -1855,11 +2030,23 @@
  - user: None
  - tags: []
 
+## https://www.tsmc.com
+ - [https://www.tsmc.com](https://www.tsmc.com)
+ - date published: 2023-11-08T11:35:51.667076+00:00
+ - user: None
+ - tags: ['semiconductors', 'company']
+
 ## Materially Better | Tsung Xu | Substack
  - [https://www.tsungxu.com](https://www.tsungxu.com)
  - date published: 2023-10-25T17:48:45.462935+00:00
  - user: None
  - tags: []
+
+## Technologies that improve human lives - TTTech
+ - [https://www.tttech.com](https://www.tttech.com)
+ - date published: 2023-11-08T11:30:13.377450+00:00
+ - user: None
+ - tags: ['company']
 
 ## TubeArchivist
  - [https://www.tubearchivist.com](https://www.tubearchivist.com)
@@ -2227,6 +2414,12 @@
  - user: None
  - tags: []
 
+## UAV Navigation | Cutting-edge Autopilots
+ - [https://www.uavnavigation.com](https://www.uavnavigation.com)
+ - date published: 2023-11-08T11:27:58.101729+00:00
+ - user: None
+ - tags: ['avionics', 'aerospace', 'aviation']
+
 ## Zostań kierowcą i osiągaj przychody albo zamów przejazd | Uber Polska
  - [https://www.uber.com](https://www.uber.com)
  - date published: 2023-10-25T17:52:04.965059+00:00
@@ -2286,6 +2479,12 @@
  - date published: 2023-10-25T17:52:15.234962+00:00
  - user: None
  - tags: []
+
+## United Electronic Industries (UEI) – DAQ, Test, HIL
+ - [https://www.ueidaq.com](https://www.ueidaq.com)
+ - date published: 2023-11-08T11:27:00.057057+00:00
+ - user: None
+ - tags: ['avionics', 'aerospace', 'aviation']
 
 ## Umar Farooqi
  - [https://www.ufarooqi.com](https://www.ufarooqi.com)
@@ -2922,7 +3121,7 @@
  - [https://verocel.com](https://verocel.com)
  - date published: 2023-10-25T11:28:53.666720+00:00
  - user: None
- - tags: []
+ - tags: ['avionics', 'aerospace', 'aviation']
 
 ## Vertical Mag - The pulse of the helicopter industry
  - [https://verticalmag.com](https://verticalmag.com)
@@ -3463,7 +3662,7 @@
  - [https://www.washingtonblade.com](https://www.washingtonblade.com)
  - date published: 2023-11-07T16:06:11.624222+00:00
  - user: None
- - tags: []
+ - tags: ['the left wing', 'transgender', 'lgbt']
 
 ## Washington City Paper: The Free Source for Local News in D.C.
  - [https://washingtoncitypaper.com](https://washingtoncitypaper.com)
@@ -3564,6 +3763,12 @@
 ## Wing Commander CIC
  - [https://www.wcnews.com](https://www.wcnews.com)
  - date published: 2023-10-25T18:00:29.103522+00:00
+ - user: None
+ - tags: []
+
+## Cincinnati, Ohio News and Weather | WCPO 9 News
+ - [https://www.wcpo.com](https://www.wcpo.com)
+ - date published: 2023-11-08T15:37:27.444601+00:00
  - user: None
  - tags: []
 
@@ -3939,6 +4144,12 @@
  - user: None
  - tags: []
 
+## https://agsjournals.onlinelibrary.wiley.com
+ - [https://agsjournals.onlinelibrary.wiley.com](https://agsjournals.onlinelibrary.wiley.com)
+ - date published: 2023-11-08T12:11:17.951453+00:00
+ - user: None
+ - tags: []
+
 ## https://agupubs.onlinelibrary.wiley.com
  - [https://agupubs.onlinelibrary.wiley.com](https://agupubs.onlinelibrary.wiley.com)
  - date published: 2023-10-25T18:05:22.087600+00:00
@@ -4094,6 +4305,12 @@
  - date published: 2023-10-25T18:06:32.626702+00:00
  - user: None
  - tags: []
+
+## Wind River
+ - [https://www.windriver.com](https://www.windriver.com)
+ - date published: 2023-11-08T11:30:59.705560+00:00
+ - user: None
+ - tags: ['linux', 'windriver', 'wind river', 'operating system']
 
 ## Windscribe - Free VPN and Ad Block
  - [https://windscribe.com](https://windscribe.com)
@@ -4296,6 +4513,12 @@
 ## WMBF | Myrtle Beach, Florence
  - [https://www.wmbfnews.com](https://www.wmbfnews.com)
  - date published: 2023-11-01T23:07:15.838462+00:00
+ - user: None
+ - tags: []
+
+## Access Denied
+ - [https://www.wnep.com](https://www.wnep.com)
+ - date published: 2023-11-08T07:17:30.357213+00:00
  - user: None
  - tags: []
 
@@ -5073,6 +5296,12 @@
  - user: None
  - tags: []
 
+## WTOP | Washington’s Top News | DC, MD & VA News, Traffic & Weather
+ - [https://wtop.com](https://wtop.com)
+ - date published: 2023-11-08T13:11:29.249332+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://www.wtvm.com](https://www.wtvm.com)
  - date published: 2023-11-04T05:07:09.334162+00:00
@@ -5130,6 +5359,12 @@
 ## Wyoming Trust & LLC Attorney - Asset Protection is Our Only Focus
  - [https://wyomingllcattorney.com](https://wyomingllcattorney.com)
  - date published: 2023-10-25T18:21:07.429056+00:00
+ - user: None
+ - tags: []
+
+## Access Denied
+ - [https://www.wzzm13.com](https://www.wzzm13.com)
+ - date published: 2023-11-08T15:16:55.250942+00:00
  - user: None
  - tags: []
 
@@ -5275,7 +5510,7 @@
  - [https://xtramagazine.com](https://xtramagazine.com)
  - date published: 2023-10-25T18:22:10.782790+00:00
  - user: None
- - tags: []
+ - tags: ['the left wing', 'lgbt']
 
 ## XXIIVV — In Transit
  - [https://wiki.xxiivv.com](https://wiki.xxiivv.com)
@@ -5316,6 +5551,12 @@
 ## Yahoo is part of the Yahoo family of brands
  - [https://news.yahoo.com](https://news.yahoo.com)
  - date published: 2023-10-25T10:16:52.263929+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://sg.news.yahoo.com](https://sg.news.yahoo.com)
+ - date published: 2023-11-08T17:23:05.854339+00:00
  - user: None
  - tags: []
 
@@ -5756,244 +5997,4 @@
  - date published: 2023-11-02T09:09:25.938526+00:00
  - user: None
  - tags: ['audio equipment']
-
-## Zorin
- - [https://zorin.com](https://zorin.com)
- - date published: 2023-11-06T10:11:49.466457+00:00
- - user: None
- - tags: ['linux', 'operating system']
-
-## zserge's blog
- - [https://zserge.com](https://zserge.com)
- - date published: 2023-10-25T18:25:42.935979+00:00
- - user: None
- - tags: []
-
-## Zuck Banned Me – My Facebook got hacked, then Meta banned me from all services
- - [https://zuckbannedme.com](https://zuckbannedme.com)
- - date published: 2023-10-25T11:08:11.437717+00:00
- - user: None
- - tags: []
-
-## The Zulip Blog
- - [https://blog.zulip.com](https://blog.zulip.com)
- - date published: 2023-10-25T18:25:44.890990+00:00
- - user: None
- - tags: []
-
-## Zxch3n's Blog | Zxch3n
- - [https://www.zxch3n.com](https://www.zxch3n.com)
- - date published: 2023-10-25T18:25:50.490464+00:00
- - user: None
- - tags: []
-
-## The Intellectual Wilderness – There is nothing more useless than doing efficiently that which should not be done at all.
- - [https://zxq9.com](https://zxq9.com)
- - date published: 2023-10-25T18:25:54.864362+00:00
- - user: None
- - tags: []
-
-## Legal Lullabies
- - [https://www.zzzuckerberg.com](https://www.zzzuckerberg.com)
- - date published: 2023-10-25T11:08:13.765188+00:00
- - user: None
- - tags: ['wtf']
-
-## Introduction - Building Games with DragonRuby
- - [https://book.dragonriders.community](https://book.dragonriders.community)
- - date published: 2023-10-25T18:25:56.311837+00:00
- - user: None
- - tags: []
-
-## Flux — A platform for change
- - [https://flux.community](https://flux.community)
- - date published: 2023-10-25T18:25:58.051970+00:00
- - user: None
- - tags: []
-
-## Persuasion | Yascha Mounk | Substack
- - [https://www.persuasion.community](https://www.persuasion.community)
- - date published: 2023-10-25T18:26:06.826791+00:00
- - user: None
- - tags: []
-
-## home
- - [https://www.tga.community](https://www.tga.community)
- - date published: 2023-11-01T18:31:03.321945+00:00
- - user: None
- - tags: []
-
-## X, the moonshot factory
- - [https://x.company](https://x.company)
- - date published: 2023-10-25T18:26:15.275324+00:00
- - user: None
- - tags: []
-
-## Bad Computer
- - [https://bad.computer](https://bad.computer)
- - date published: 2023-10-25T18:26:17.111050+00:00
- - user: None
- - tags: []
-
-## Writing by Bob Doto
- - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
- - date published: 2023-10-25T18:26:25.643905+00:00
- - user: None
- - tags: []
-
-## Iroh
- - [https://iroh.computer](https://iroh.computer)
- - date published: 2023-10-25T18:26:28.682186+00:00
- - user: None
- - tags: []
-
-## Mythic Computer Co.
- - [https://www.mythic.computer](https://www.mythic.computer)
- - date published: 2023-10-25T18:26:30.118803+00:00
- - user: None
- - tags: []
-
-## Neil Panchal
- - [https://neil.computer](https://neil.computer)
- - date published: 2023-10-25T18:26:32.134105+00:00
- - user: None
- - tags: []
-
-## Dot by New Computer
- - [https://new.computer](https://new.computer)
- - date published: 2023-11-01T17:45:32+00:00
- - user: None
- - tags: []
-
-## List disks /  API / Oxide
- - [https://docs.oxide.computer](https://docs.oxide.computer)
- - date published: 2023-10-25T18:26:35.191809+00:00
- - user: None
- - tags: []
-
-## Hubris
- - [https://hubris.oxide.computer](https://hubris.oxide.computer)
- - date published: 2023-10-25T18:26:37.051005+00:00
- - user: None
- - tags: []
-
-## Oxide Computer Company
- - [https://oxide.computer](https://oxide.computer)
- - date published: 2023-10-25T18:26:40.340286+00:00
- - user: None
- - tags: []
-
-## RFD / Oxide
- - [https://rfd.shared.oxide.computer](https://rfd.shared.oxide.computer)
- - date published: 2023-11-03T17:54:12.549938+00:00
- - user: None
- - tags: []
-
-## Certitude Consulting Vienna - Information Security
- - [https://certitude.consulting](https://certitude.consulting)
- - date published: 2023-10-25T18:26:41.919963+00:00
- - user: None
- - tags: []
-
-## Airtable.cool - Link previews and analytics for your Airtable shared view links
- - [https://airtable.cool](https://airtable.cool)
- - date published: 2023-10-25T18:26:45.983340+00:00
- - user: None
- - tags: []
-
-## Dan's Site
- - [https://www.mayer.cool](https://www.mayer.cool)
- - date published: 2023-10-25T18:26:46.688031+00:00
- - user: None
- - tags: []
-
-## Home of Val Packett
- - [https://val.packett.cool](https://val.packett.cool)
- - date published: 2023-10-25T18:26:48.292933+00:00
- - user: None
- - tags: []
-
-## The Pudding
- - [https://pudding.cool](https://pudding.cool)
- - date published: 2023-10-25T18:26:52.831116+00:00
- - user: None
- - tags: []
-
-## Hellō
- - [https://www.hello.coop](https://www.hello.coop)
- - date published: 2023-10-25T18:26:53.905223+00:00
- - user: None
- - tags: []
-
-## [lcamtuf.coredump.cx]
- - [https://lcamtuf.coredump.cx](https://lcamtuf.coredump.cx)
- - date published: 2023-10-25T18:26:54.648487+00:00
- - user: None
- - tags: []
-
-## Kostya's Boring Codec World
- - [https://codecs.multimedia.cx](https://codecs.multimedia.cx)
- - date published: 2023-10-25T18:27:06.338688+00:00
- - user: None
- - tags: []
-
-## REcon - Home
- - [https://www.recon.cx](https://www.recon.cx)
- - date published: 2023-10-25T18:27:08.079660+00:00
- - user: None
- - tags: []
-
-## Amiga Hardware Database
- - [https://amiga.resource.cx](https://amiga.resource.cx)
- - date published: 2023-11-02T10:38:55.509567+00:00
- - user: None
- - tags: []
-
-## Department of Distributed and Dependable Systems | D3S
- - [https://d3s.mff.cuni.cz](https://d3s.mff.cuni.cz)
- - date published: 2023-11-03T00:27:03.410640+00:00
- - user: None
- - tags: []
-
-## Jiri Stepanovsky
- - [https://www.jiristepanovsky.cz](https://www.jiristepanovsky.cz)
- - date published: 2023-10-25T18:27:15.846550+00:00
- - user: None
- - tags: []
-
-## Mapy.cz
- - [https://mapy.cz](https://mapy.cz)
- - date published: 2023-10-25T18:27:28.698444+00:00
- - user: None
- - tags: []
-
-## MAXELL's HOME
- - [http://mxl.cz](http://mxl.cz)
- - date published: 2023-10-28T20:31:31.754648+00:00
- - user: None
- - tags: []
-
-## RetroGames.cz - Play Old Games ONLINE
- - [https://www.retrogames.cz](https://www.retrogames.cz)
- - date published: 2023-10-25T11:10:17.378675+00:00
- - user: None
- - tags: []
-
-## Dawn of the Dad
- - [https://dawnofthe.dad](https://dawnofthe.dad)
- - date published: 2023-10-25T18:27:30.960009+00:00
- - user: None
- - tags: []
-
-## sweet & sour notes
- - [https://write.hamster.dance](https://write.hamster.dance)
- - date published: 2023-10-25T18:27:33.948069+00:00
- - user: None
- - tags: []
-
-## sorry@idont.date
- - [https://sorry.idont.date](https://sorry.idont.date)
- - date published: 2023-10-25T18:27:35.295304+00:00
- - user: None
- - tags: []
 
