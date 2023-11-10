@@ -1,3 +1,45 @@
+## Adobe Landing Pages
+ - [https://pages.adobe.com](https://pages.adobe.com)
+ - date published: 2023-10-25T12:33:18.873394+00:00
+ - user: None
+ - tags: []
+
+## Adobe Podcast | AI audio recording and editing, all on the web
+ - [https://podcast.adobe.com](https://podcast.adobe.com)
+ - date published: 2023-10-25T12:33:19.421794+00:00
+ - user: None
+ - tags: []
+
+## React Spectrum Libraries
+ - [https://react-spectrum.adobe.com](https://react-spectrum.adobe.com)
+ - date published: 2023-10-25T12:33:22.838073+00:00
+ - user: None
+ - tags: []
+
+## Adobe: Creative, marketing and document management solutions
+ - [https://www.adobe.com](https://www.adobe.com)
+ - date published: 2023-10-25T12:33:24.758155+00:00
+ - user: None
+ - tags: ['photoshop', 'company', 'acrobat reader']
+
+## Adrian Preda Woodworks
+ - [https://www.adrianpreda.com](https://www.adrianpreda.com)
+ - date published: 2023-10-25T12:33:29.430582+00:00
+ - user: None
+ - tags: []
+
+## aduros.com
+ - [https://aduros.com](https://aduros.com)
+ - date published: 2023-10-25T12:33:57.524854+00:00
+ - user: None
+ - tags: []
+
+## Advait’s Newsletter | Advait Ruia | Substack
+ - [https://www.advaitruia.com](https://www.advaitruia.com)
+ - date published: 2023-10-25T12:34:01.081535+00:00
+ - user: None
+ - tags: []
+
 ## Advent of Code 2023
  - [https://adventofcode.com](https://adventofcode.com)
  - date published: 2023-10-25T12:34:08.250343+00:00
@@ -253,6 +295,12 @@
 ## Blog | Airsequel
  - [https://blog.airsequel.com](https://blog.airsequel.com)
  - date published: 2023-10-25T12:36:42.787514+00:00
+ - user: None
+ - tags: []
+
+## A VC firm investing in AI-first companies
+ - [https://www.airstreet.com](https://www.airstreet.com)
+ - date published: 2023-11-10T03:51:05.801091+00:00
  - user: None
  - tags: []
 
@@ -5949,52 +5997,4 @@
  - date published: 2023-10-31T13:19:01.525709+00:00
  - user: None
  - tags: ['company', 'technology']
-
-## news.cision.com
- - [https://news.cision.com](https://news.cision.com)
- - date published: 2023-10-25T13:24:47.937269+00:00
- - user: None
- - tags: []
-
-## Citi | Global Investment Bank and Financial Services
- - [https://www.citigroup.com](https://www.citigroup.com)
- - date published: 2023-10-25T13:24:56.886316+00:00
- - user: None
- - tags: []
-
-## CITIZEN WATCH Global Network
- - [https://www.citizenwatch-global.com](https://www.citizenwatch-global.com)
- - date published: 2023-10-25T13:25:01.204497+00:00
- - user: None
- - tags: []
-
-## Snowflake Observability Software | Cito Data
- - [https://www.citodata.com](https://www.citodata.com)
- - date published: 2023-10-25T13:25:04.311443+00:00
- - user: None
- - tags: []
-
-## Citroën.com, le site International de Citroën JJ
- - [https://www.citroen.com](https://www.citroen.com)
- - date published: 2023-11-01T08:41:52.291259+00:00
- - user: None
- - tags: []
-
-## Citus Data | Distributed Postgres. At any scale.
- - [https://www.citusdata.com](https://www.citusdata.com)
- - date published: 2023-10-25T13:25:06.065645+00:00
- - user: None
- - tags: []
-
-## Citymapper - The Ultimate Transport App
- - [https://content.citymapper.com](https://content.citymapper.com)
- - date published: 2023-10-25T13:25:14.582903+00:00
- - user: None
- - tags: []
-
-## CJ Chilvers
- - [https://www.cjchilvers.com](https://www.cjchilvers.com)
- - date published: 2023-10-25T13:25:16.340035+00:00
- - user: None
- - tags: []
 

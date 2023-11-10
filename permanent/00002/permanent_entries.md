@@ -1,3 +1,51 @@
+## Citi | Global Investment Bank and Financial Services
+ - [https://www.citigroup.com](https://www.citigroup.com)
+ - date published: 2023-10-25T13:24:56.886316+00:00
+ - user: None
+ - tags: []
+
+## CITIZEN WATCH Global Network
+ - [https://www.citizenwatch-global.com](https://www.citizenwatch-global.com)
+ - date published: 2023-10-25T13:25:01.204497+00:00
+ - user: None
+ - tags: []
+
+## Snowflake Observability Software | Cito Data
+ - [https://www.citodata.com](https://www.citodata.com)
+ - date published: 2023-10-25T13:25:04.311443+00:00
+ - user: None
+ - tags: []
+
+## Citroën.com, le site International de Citroën JJ
+ - [https://www.citroen.com](https://www.citroen.com)
+ - date published: 2023-11-01T08:41:52.291259+00:00
+ - user: None
+ - tags: []
+
+## Citus Data | Distributed Postgres. At any scale.
+ - [https://www.citusdata.com](https://www.citusdata.com)
+ - date published: 2023-10-25T13:25:06.065645+00:00
+ - user: None
+ - tags: []
+
+## Citymapper - The Ultimate Transport App
+ - [https://content.citymapper.com](https://content.citymapper.com)
+ - date published: 2023-10-25T13:25:14.582903+00:00
+ - user: None
+ - tags: []
+
+## CJ Chilvers
+ - [https://www.cjchilvers.com](https://www.cjchilvers.com)
+ - date published: 2023-10-25T13:25:16.340035+00:00
+ - user: None
+ - tags: []
+
+## Clagnut by Richard Rutter
+ - [https://clagnut.com](https://clagnut.com)
+ - date published: 2023-10-25T13:25:19.677369+00:00
+ - user: None
+ - tags: []
+
 ## Clara Le
  - [https://clarale.com](https://clarale.com)
  - date published: 2023-10-25T13:25:22.685810+00:00
@@ -115,6 +163,12 @@
 ## ClickOnDetroit | WDIV Local 4
  - [https://www.clickondetroit.com](https://www.clickondetroit.com)
  - date published: 2023-10-25T13:26:31.744637+00:00
+ - user: None
+ - tags: []
+
+## ClickOrlando l Orlando, Florida News, Local Headlines l WKMG News 6
+ - [https://www.clickorlando.com](https://www.clickorlando.com)
+ - date published: 2023-11-10T02:51:33.674297+00:00
  - user: None
  - tags: []
 
@@ -486,6 +540,12 @@
 ## Coding VC | Leo Polovets | Substack
  - [https://www.codingvc.com](https://www.codingvc.com)
  - date published: 2023-10-25T13:29:03.799383+00:00
+ - user: None
+ - tags: []
+
+## Coed Cherry - College Girls Porn Pics
+ - [https://coedcherry.com](https://coedcherry.com)
+ - date published: 2023-11-10T01:51:08.280919+00:00
  - user: None
  - tags: []
 
@@ -1244,6 +1304,12 @@
  - date published: 2023-10-25T13:36:59.002500+00:00
  - user: None
  - tags: []
+
+## Crosscut | Washington state & Seattle News
+ - [https://crosscut.com](https://crosscut.com)
+ - date published: 2023-11-09T07:35:36.311494+00:00
+ - user: None
+ - tags: ['news']
 
 ## Crossword Unclued
  - [https://www.crosswordunclued.com](https://www.crosswordunclued.com)
@@ -3935,6 +4001,12 @@
  - user: None
  - tags: []
 
+## Elsevier | An Information Analytics Business
+ - [https://www.elsevier.com](https://www.elsevier.com)
+ - date published: 2023-11-09T12:46:24.027751+00:00
+ - user: None
+ - tags: []
+
 ## Emmanuel Maggiori – Freelance software engineer
  - [https://emaggiori.com](https://emaggiori.com)
  - date published: 2023-10-25T14:06:10.029962+00:00
@@ -4415,6 +4487,12 @@
  - user: None
  - tags: []
 
+## EuclideanSpace
+ - [https://euclideanspace.com](https://euclideanspace.com)
+ - date published: 2023-11-10T04:19:14+00:00
+ - user: None
+ - tags: []
+
 ## Eugene Yan
  - [https://eugeneyan.com](https://eugeneyan.com)
  - date published: 2023-10-25T14:10:14.129450+00:00
@@ -4778,6 +4856,12 @@
 ## Fairphone Shop | Fairphone
  - [https://shop.fairphone.com](https://shop.fairphone.com)
  - date published: 2023-10-25T09:07:38.743517+00:00
+ - user: None
+ - tags: []
+
+## Fairphone | The phone that cares for people and planet
+ - [https://www.fairphone.com](https://www.fairphone.com)
+ - date published: 2023-11-09T14:01:46.526866+00:00
  - user: None
  - tags: []
 
@@ -5912,90 +5996,6 @@
 ## FOSS Force - Keeping tech free
  - [https://fossforce.com](https://fossforce.com)
  - date published: 2023-10-25T09:32:58.587105+00:00
- - user: None
- - tags: []
-
-## Market & Opportunity Explorer for Devs · Fossfox
- - [https://fossfox.com](https://fossfox.com)
- - date published: 2023-10-25T14:36:32.664186+00:00
- - user: None
- - tags: []
-
-## FOSS Patents
- - [http://www.fosspatents.com](http://www.fosspatents.com)
- - date published: 2023-10-25T14:36:39.372249+00:00
- - user: None
- - tags: []
-
-## Founder's Choice
- - [https://www.founderschoicevc.com](https://www.founderschoicevc.com)
- - date published: 2023-10-25T14:36:45.980846+00:00
- - user: None
- - tags: []
-
-## Founding Fuel
- - [https://foundingfuel.com](https://foundingfuel.com)
- - date published: 2023-10-25T14:36:52.016854+00:00
- - user: None
- - tags: []
-
-## Four Bar Design
- - [https://www.fourbardesign.com](https://www.fourbardesign.com)
- - date published: 2023-10-25T14:36:55.657537+00:00
- - user: None
- - tags: []
-
-## FOX19 | Cincinnati
- - [https://www.fox19.com](https://www.fox19.com)
- - date published: 2023-10-25T11:03:39.176612+00:00
- - user: None
- - tags: []
-
-## FOX 2 Detroit
- - [https://www.fox2detroit.com](https://www.fox2detroit.com)
- - date published: 2023-10-25T11:03:56.232571+00:00
- - user: None
- - tags: []
-
-## FOX 4 News Dallas-Fort Worth
- - [https://fox4news.com](https://fox4news.com)
- - date published: 2023-11-07T15:12:46.586235+00:00
- - user: None
- - tags: []
-
-## FOX 4 News Dallas-Fort Worth
- - [https://www.fox4news.com](https://www.fox4news.com)
- - date published: 2023-10-25T11:04:13.925923+00:00
- - user: None
- - tags: []
-
-## Fox 4 News | WFTX - Southwest Florida | Fox4Now.com - Home
- - [https://www.fox4now.com](https://www.fox4now.com)
- - date published: 2023-10-25T11:04:21.031601+00:00
- - user: None
- - tags: []
-
-## FOX 5 DC
- - [https://www.fox5dc.com](https://www.fox5dc.com)
- - date published: 2023-10-25T11:04:31.305284+00:00
- - user: None
- - tags: []
-
-## FOX 5 New York
- - [https://www.fox5ny.com](https://www.fox5ny.com)
- - date published: 2023-11-01T17:47:22.130538+00:00
- - user: None
- - tags: []
-
-## FOX 7 Austin
- - [https://www.fox7austin.com](https://www.fox7austin.com)
- - date published: 2023-10-25T11:04:44.675389+00:00
- - user: None
- - tags: []
-
-## FOX 9 Minneapolis-St. Paul
- - [https://www.fox9.com](https://www.fox9.com)
- - date published: 2023-10-25T11:04:58.976088+00:00
  - user: None
  - tags: []
 

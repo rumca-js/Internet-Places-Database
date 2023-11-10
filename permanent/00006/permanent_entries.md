@@ -1,3 +1,159 @@
+## Cybersecurity News, Insights and Analysis | SecurityWeek
+ - [https://www.securityweek.com](https://www.securityweek.com)
+ - date published: 2023-10-25T09:35:37.584443+00:00
+ - user: None
+ - tags: []
+
+## Security Wale | Aditya Patel | Substack
+ - [https://www.secwale.com](https://www.secwale.com)
+ - date published: 2023-10-25T17:01:27.543178+00:00
+ - user: None
+ - tags: []
+
+## Seeking Alpha | Stock Market Analysis & Tools for Investors
+ - [https://seekingalpha.com](https://seekingalpha.com)
+ - date published: 2023-10-25T17:01:28.875847+00:00
+ - user: None
+ - tags: []
+
+## Software Development Tools by SEGGER – The Embedded Experts
+ - [https://www.segger.com](https://www.segger.com)
+ - date published: 2023-10-25T17:01:38.604350+00:00
+ - user: None
+ - tags: []
+
+## Segment Anything | Meta AI
+ - [https://segment-anything.com](https://segment-anything.com)
+ - date published: 2023-10-25T17:01:39.445324+00:00
+ - user: None
+ - tags: []
+
+## Seinfeld - A site for all of us Seinfeld Fans!
+ - [https://www.seinfeldscripts.com](https://www.seinfeldscripts.com)
+ - date published: 2023-10-25T17:01:41.058524+00:00
+ - user: None
+ - tags: []
+
+## Seldo.com
+ - [https://seldo.com](https://seldo.com)
+ - date published: 2023-10-25T17:01:43.879007+00:00
+ - user: None
+ - tags: []
+
+## Semafor - An intelligent, transparent global news platform for breaking stories, analysis and video
+ - [https://www.semafor.com](https://www.semafor.com)
+ - date published: 2023-10-25T10:38:55.032682+00:00
+ - user: None
+ - tags: []
+
+## Continuous Integration & Delivery - Semaphore
+ - [https://semaphoreci.com](https://semaphoreci.com)
+ - date published: 2023-10-25T17:01:46.828627+00:00
+ - user: None
+ - tags: []
+
+## SemiAnalysis | Dylan Patel | Substack
+ - [https://www.semianalysis.com](https://www.semianalysis.com)
+ - date published: 2023-10-25T17:01:49.736351+00:00
+ - user: None
+ - tags: []
+
+## Semiconductor Engineering - Deep Insights For Chip Engineers
+ - [https://semiengineering.com](https://semiengineering.com)
+ - date published: 2023-10-25T17:01:53.874840+00:00
+ - user: None
+ - tags: []
+
+## SemiWiki - All Things Semiconductor!
+ - [https://semiwiki.com](https://semiwiki.com)
+ - date published: 2023-10-25T17:02:04.737377+00:00
+ - user: None
+ - tags: []
+
+## Sennheiser — Headphones, Microphones, Wireless Systems
+ - [https://en-us.sennheiser.com](https://en-us.sennheiser.com)
+ - date published: 2023-10-30T18:21:56.549124+00:00
+ - user: None
+ - tags: ['audio']
+
+## Sennheiser — Headphones, Microphones, Wireless Systems
+ - [https://sennheiser.com](https://sennheiser.com)
+ - date published: 2023-10-30T18:22:42.525350+00:00
+ - user: None
+ - tags: ['company', 'audio']
+
+## Separate Concerns
+ - [https://blog.separateconcerns.com](https://blog.separateconcerns.com)
+ - date published: 2023-10-25T09:26:06.936644+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Sequoia
+ - [https://www.sequoiacap.com](https://www.sequoiacap.com)
+ - date published: 2023-10-25T08:26:15.206357+00:00
+ - user: None
+ - tags: []
+
+## Home | Campbell Jones
+ - [https://serebit.com](https://serebit.com)
+ - date published: 2023-10-25T17:02:05.830940+00:00
+ - user: None
+ - tags: []
+
+## Atlas Alpha: Your Source for Cutting-Edge Tech News and Updates
+ - [https://atlasalpha.serenebase.com](https://atlasalpha.serenebase.com)
+ - date published: 2023-10-25T17:02:07.368934+00:00
+ - user: None
+ - tags: []
+
+## Affinity – Professional Creative Software
+ - [https://affinity.serif.com](https://affinity.serif.com)
+ - date published: 2023-10-25T17:02:09.216110+00:00
+ - user: None
+ - tags: []
+
+## Serious Eats
+ - [https://www.seriouseats.com](https://www.seriouseats.com)
+ - date published: 2023-10-25T17:02:11.867889+00:00
+ - user: None
+ - tags: []
+
+## Search Engine Roundtable ::: The Pulse Of The Search Marketing Community
+ - [https://www.seroundtable.com](https://www.seroundtable.com)
+ - date published: 2023-10-25T17:02:14.125409+00:00
+ - user: None
+ - tags: []
+
+## SerpApi: Google Search API
+ - [https://serpapi.com](https://serpapi.com)
+ - date published: 2023-10-25T17:02:15.903948+00:00
+ - user: None
+ - tags: []
+
+## Server Fault
+ - [https://serverfault.com](https://serverfault.com)
+ - date published: 2023-10-25T17:02:23.306221+00:00
+ - user: None
+ - tags: []
+
+## ServeTheHome Server Storage and Networking Reviews
+ - [https://www.servethehome.com](https://www.servethehome.com)
+ - date published: 2023-10-25T17:02:27.165383+00:00
+ - user: None
+ - tags: []
+
+## Sesquiotica | Words, words, words
+ - [https://sesquiotic.com](https://sesquiotic.com)
+ - date published: 2023-10-25T17:02:31.243228+00:00
+ - user: None
+ - tags: []
+
+## set-inform.com | Adventures in Ubiquiti Routing and Switching
+ - [https://set-inform.com](https://set-inform.com)
+ - date published: 2023-10-25T17:02:35.226495+00:00
+ - user: None
+ - tags: []
+
 ## Seth Ariel Green's website
  - [https://setharielgreen.com](https://setharielgreen.com)
  - date published: 2023-10-25T17:02:35.994039+00:00
@@ -1772,6 +1928,12 @@
 ## Stats, Maps n Pix
  - [https://www.statsmapsnpix.com](https://www.statsmapsnpix.com)
  - date published: 2023-10-25T17:16:02.812082+00:00
+ - user: None
+ - tags: []
+
+## Show HN: I built a tool to get "Your app was approved/rejected " alerts on Slack
+ - [https://statused.com](https://statused.com)
+ - date published: 2023-11-09T09:51:26+00:00
  - user: None
  - tags: []
 
@@ -5828,168 +5990,6 @@
 ## RecapioGPT | Bot Summarizer for Articles, PDFs, and more
  - [http://theaialfred.com](http://theaialfred.com)
  - date published: 2023-10-25T17:28:26.449751+00:00
- - user: None
- - tags: []
-
-## The Air Current
- - [https://theaircurrent.com](https://theaircurrent.com)
- - date published: 2023-10-25T17:28:30.305578+00:00
- - user: None
- - tags: []
-
-## Home - The American Conservative
- - [https://www.theamericanconservative.com](https://www.theamericanconservative.com)
- - date published: 2023-10-25T17:28:33.109644+00:00
- - user: None
- - tags: []
-
-## The Amiga Museum
- - [https://theamigamuseum.com](https://theamigamuseum.com)
- - date published: 2023-11-02T09:36:38.476435+00:00
- - user: None
- - tags: ['amiga']
-
-## The Ankler. | Richard Rushfield | Substack
- - [https://theankler.com](https://theankler.com)
- - date published: 2023-10-25T17:28:36.485877+00:00
- - user: None
- - tags: []
-
-## TheArticle. Every Angle.
- - [https://www.thearticle.com](https://www.thearticle.com)
- - date published: 2023-10-25T17:28:38.047382+00:00
- - user: None
- - tags: []
-
-## The Art Newspaper - International art news and events
- - [https://www.theartnewspaper.com](https://www.theartnewspaper.com)
- - date published: 2023-10-25T17:28:41.293190+00:00
- - user: None
- - tags: []
-
-## Home - The Assembly NC
- - [https://www.theassemblync.com](https://www.theassemblync.com)
- - date published: 2023-10-25T17:28:45.181864+00:00
- - user: None
- - tags: []
-
-## Subscriber Newsletters - The Atlantic
- - [https://newsletters.theatlantic.com](https://newsletters.theatlantic.com)
- - date published: 2023-10-25T17:28:47.108510+00:00
- - user: None
- - tags: []
-
-## World Edition - The Atlantic
- - [https://www-stage.theatlantic.com](https://www-stage.theatlantic.com)
- - date published: 2023-11-04T22:47:32.432382+00:00
- - user: None
- - tags: []
-
-## World Edition - The Atlantic
- - [https://www.theatlantic.com](https://www.theatlantic.com)
- - date published: 2023-10-25T10:28:51.647818+00:00
- - user: None
- - tags: []
-
-## Pages of Tragedy - the official Theatre of Tragedy website
- - [https://theatreoftragedy.com](https://theatreoftragedy.com)
- - date published: 2023-10-30T15:39:45.915538+00:00
- - user: None
- - tags: ['music band']
-
-## Blog - The Audio Owl
- - [https://theaudioowl.com](https://theaudioowl.com)
- - date published: 2023-10-25T17:28:56.261413+00:00
- - user: None
- - tags: []
-
-## Home - The Autopian
- - [https://www.theautopian.com](https://www.theautopian.com)
- - date published: 2023-10-25T17:29:04.495821+00:00
- - user: None
- - tags: []
-
-## The Aviation Geek Club - Stories and News for true aviation Geeks
- - [https://theaviationgeekclub.com](https://theaviationgeekclub.com)
- - date published: 2023-10-25T17:29:13.141576+00:00
- - user: None
- - tags: []
-
-## The Baffler—The Journal That Blunts the Cutting Edge
- - [https://thebaffler.com](https://thebaffler.com)
- - date published: 2023-10-25T17:29:18.078335+00:00
- - user: None
- - tags: []
-
-## The Baltimore Banner: Baltimore News, Politics, Business, Food, Events
- - [https://www.thebaltimorebanner.com](https://www.thebaltimorebanner.com)
- - date published: 2023-10-25T17:29:35.515805+00:00
- - user: None
- - tags: []
-
-## The Beauty of Transport – Transport design, transport architecture, and transport's influence on art and culture. Part travelogue, part history, all transport (but sometimes tangentially so)
- - [https://thebeautyoftransport.com](https://thebeautyoftransport.com)
- - date published: 2023-10-25T17:29:47.187685+00:00
- - user: None
- - tags: []
-
-## BIG by Matt Stoller | Substack
- - [https://www.thebignewsletter.com](https://www.thebignewsletter.com)
- - date published: 2023-10-25T17:29:51.179343+00:00
- - user: None
- - tags: []
-
-## The Black Vault
- - [https://www.theblackvault.com](https://www.theblackvault.com)
- - date published: 2023-10-25T17:29:54.543631+00:00
- - user: None
- - tags: []
-
-## Blaze Media
- - [https://www.theblaze.com](https://www.theblaze.com)
- - date published: 2023-10-25T17:30:01.051201+00:00
- - user: None
- - tags: []
-
-## Kitchen - The Blind Kitchen - Everyone has a place at the table!
- - [https://theblindkitchen.com](https://theblindkitchen.com)
- - date published: 2023-10-25T17:30:11.200484+00:00
- - user: None
- - tags: []
-
-## Trusted Polymer Clay Info!
- - [https://thebluebottletree.com](https://thebluebottletree.com)
- - date published: 2023-11-01T18:26:06.137168+00:00
- - user: None
- - tags: ['sculpting', 'polymer clay', 'hobby']
-
-## The Bold Italic
- - [https://thebolditalic.com](https://thebolditalic.com)
- - date published: 2023-10-25T17:30:21.886512+00:00
- - user: None
- - tags: []
-
-## The Bookseller - Home
- - [https://www.thebookseller.com](https://www.thebookseller.com)
- - date published: 2023-10-25T17:30:31.028831+00:00
- - user: None
- - tags: []
-
-## Welcome to The Broadcast Bridge - Connecting IT to Broadcast -  The Broadcast Bridge - Connecting IT to Broadcast
- - [https://www.thebroadcastbridge.com](https://www.thebroadcastbridge.com)
- - date published: 2023-10-25T17:30:34.098201+00:00
- - user: None
- - tags: []
-
-## TheBrokenRail
- - [https://thebrokenrail.com](https://thebrokenrail.com)
- - date published: 2023-10-25T17:30:36.056975+00:00
- - user: None
- - tags: []
-
-## The Bureau of Investigative Journalism (en-GB)
- - [https://www.thebureauinvestigates.com](https://www.thebureauinvestigates.com)
- - date published: 2023-10-25T17:30:38.816859+00:00
  - user: None
  - tags: []
 

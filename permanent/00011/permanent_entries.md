@@ -1,3 +1,231 @@
+## GTALand.net - GTA Mods | Grand Theft Auto Mods
+ - [https://gtaland.net](https://gtaland.net)
+ - date published: 2023-10-25T11:17:52.636171+00:00
+ - user: None
+ - tags: []
+
+## Foren
+ - [https://www.gw-fanworld.net](https://www.gw-fanworld.net)
+ - date published: 2023-10-27T07:30:39.843574+00:00
+ - user: None
+ - tags: ['tabletop games', 'warhammer']
+
+## Essays · Gwern.net
+ - [https://gwern.net](https://gwern.net)
+ - date published: 2023-10-25T08:52:40.007182+00:00
+ - user: None
+ - tags: ['personal']
+
+## Essays · Gwern.net
+ - [https://www.gwern.net](https://www.gwern.net)
+ - date published: 2023-10-25T20:31:15.067679+00:00
+ - user: None
+ - tags: []
+
+## /bɑs ˈtjɛ̃ no ˈse ʁɑ/  (hadess) | News
+ - [https://www.hadess.net](https://www.hadess.net)
+ - date published: 2023-10-25T20:31:19.295251+00:00
+ - user: None
+ - tags: []
+
+## Halestrom's Peregrinations
+ - [https://halestrom.net](https://halestrom.net)
+ - date published: 2023-10-25T20:31:21.737543+00:00
+ - user: None
+ - tags: []
+
+## Vladimir Haltakov
+ - [https://haltakov.net](https://haltakov.net)
+ - date published: 2023-10-25T09:23:08.743881+00:00
+ - user: None
+ - tags: ['personal']
+
+## Tumble Forth
+ - [http://tumbleforth.hardcoded.net](http://tumbleforth.hardcoded.net)
+ - date published: 2023-11-07T23:23:22+00:00
+ - user: None
+ - tags: []
+
+## HardenedVault - Building Your Own Cyber Bunker
+ - [https://hardenedvault.net](https://hardenedvault.net)
+ - date published: 2023-10-25T20:31:23.525032+00:00
+ - user: None
+ - tags: []
+
+## recycled math
+ - [https://harrystern.net](https://harrystern.net)
+ - date published: 2023-10-25T08:52:41.328899+00:00
+ - user: None
+ - tags: ['personal']
+
+## Aftersleep Travel Log
+ - [http://www.hat.net](http://www.hat.net)
+ - date published: 2023-10-27T11:37:41.993043+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hazlitt
+ - [https://hazlitt.net](https://hazlitt.net)
+ - date published: 2023-10-25T20:31:25.130401+00:00
+ - user: None
+ - tags: []
+
+## Index & News — hermiene.net
+ - [https://hermiene.net](https://hermiene.net)
+ - date published: 2023-10-25T08:52:43.448249+00:00
+ - user: None
+ - tags: ['personal']
+
+## HEXUS.net - Definitive Technology News and Reviews
+ - [https://hexus.net](https://hexus.net)
+ - date published: 2023-10-25T20:31:28.683808+00:00
+ - user: None
+ - tags: []
+
+## History Defined
+ - [https://www.historydefined.net](https://www.historydefined.net)
+ - date published: 2023-10-25T20:31:31.894518+00:00
+ - user: None
+ - tags: []
+
+## Sci-Hub
+ - [https://sci-hubtw.hkvisa.net](https://sci-hubtw.hkvisa.net)
+ - date published: 2023-10-25T20:31:32.809393+00:00
+ - user: None
+ - tags: []
+
+## hllmn.net
+ - [https://hllmn.net](https://hllmn.net)
+ - date published: 2023-10-25T20:31:33.334908+00:00
+ - user: None
+ - tags: []
+
+## http://steve.hollasch.net
+ - [http://steve.hollasch.net](http://steve.hollasch.net)
+ - date published: 2023-10-25T20:31:33.789130+00:00
+ - user: None
+ - tags: []
+
+## The Silicon Underground - David L. Farquhar, computer security professional, train hobbyist, and landlord
+ - [https://dfarq.homeip.net](https://dfarq.homeip.net)
+ - date published: 2023-10-25T20:31:36.204722+00:00
+ - user: None
+ - tags: []
+
+## HookRace Blog
+ - [https://hookrace.net](https://hookrace.net)
+ - date published: 2023-10-25T09:23:10.789042+00:00
+ - user: None
+ - tags: ['personal']
+
+## http://www.hughrundle.net
+ - [http://www.hughrundle.net](http://www.hughrundle.net)
+ - date published: 2023-10-25T20:31:38.391968+00:00
+ - user: None
+ - tags: []
+
+## Welcome
+ - [https://huntertur.net](https://huntertur.net)
+ - date published: 2023-10-25T20:31:39.306377+00:00
+ - user: None
+ - tags: []
+
+## 500'000€ Prize for Compressing Human Knowledge
+ - [http://prize.hutter1.net](http://prize.hutter1.net)
+ - date published: 2023-10-25T20:31:40.973909+00:00
+ - user: None
+ - tags: []
+
+## Home – iA
+ - [https://ia.net](https://ia.net)
+ - date published: 2023-10-25T20:31:41.939052+00:00
+ - user: None
+ - tags: []
+
+## Ido Perlmuter
+ - [https://ido50.net](https://ido50.net)
+ - date published: 2023-10-25T20:31:42.586769+00:00
+ - user: None
+ - tags: []
+
+## ignore the code
+ - [https://ignorethecode.net](https://ignorethecode.net)
+ - date published: 2023-10-25T20:31:48.804771+00:00
+ - user: None
+ - tags: []
+
+## The Most Officialest SkiFree Home Page
+ - [https://ski.ihoc.net](https://ski.ihoc.net)
+ - date published: 2023-10-25T20:31:50.207165+00:00
+ - user: None
+ - tags: []
+
+## Report a Fireball
+ - [https://ams.imo.net](https://ams.imo.net)
+ - date published: 2023-10-25T20:31:51.974716+00:00
+ - user: None
+ - tags: []
+
+## Rich Sutton's Home Page
+ - [http://incompleteideas.net](http://incompleteideas.net)
+ - date published: 2023-10-25T08:52:45.098056+00:00
+ - user: None
+ - tags: ['personal']
+
+## blog dot information dash superhighway dot net
+ - [https://blog.information-superhighway.net](https://blog.information-superhighway.net)
+ - date published: 2023-10-25T20:31:53.286397+00:00
+ - user: None
+ - tags: []
+
+## Philippines Top Stories: Politics, Environment, Education, Trending | Inquirer.net
+ - [https://newsinfo.inquirer.net](https://newsinfo.inquirer.net)
+ - date published: 2023-10-25T20:31:56.026133+00:00
+ - user: None
+ - tags: []
+
+## Inquirer Technology | Philippine News for Filipinos
+ - [https://technology.inquirer.net](https://technology.inquirer.net)
+ - date published: 2023-10-25T20:31:58.708336+00:00
+ - user: None
+ - tags: []
+
+## Eleanor on Everything | Eleanor Berger | Substack
+ - [https://everything.intellectronica.net](https://everything.intellectronica.net)
+ - date published: 2023-10-25T20:32:05.438974+00:00
+ - user: None
+ - tags: []
+
+## http://www.inverary.net
+ - [http://www.inverary.net](http://www.inverary.net)
+ - date published: 2023-10-25T20:32:06.069535+00:00
+ - user: None
+ - tags: []
+
+## Welcome - IRCv3
+ - [https://ircv3.net](https://ircv3.net)
+ - date published: 2023-10-25T20:32:06.852691+00:00
+ - user: None
+ - tags: []
+
+## Holy on Dev
+ - [https://blog.jakubholy.net](https://blog.jakubholy.net)
+ - date published: 2023-10-25T20:32:08.234661+00:00
+ - user: None
+ - tags: []
+
+## Jami
+ - [https://jami.net](https://jami.net)
+ - date published: 2023-10-25T08:33:33.108947+00:00
+ - user: None
+ - tags: []
+
+## Software Download | Oracle
+ - [https://download.java.net](https://download.java.net)
+ - date published: 2023-10-25T20:32:12.072850+00:00
+ - user: None
+ - tags: []
+
 ## JDK Builds from Oracle
  - [https://jdk.java.net](https://jdk.java.net)
  - date published: 2023-10-25T20:32:13.251661+00:00
@@ -5367,6 +5595,12 @@ marginalia.nu
  - user: None
  - tags: []
 
+## Home ❧ Current Affairs
+ - [https://www.currentaffairs.org](https://www.currentaffairs.org)
+ - date published: 2023-11-09T22:43:56.697894+00:00
+ - user: None
+ - tags: []
+
 ## https://www.cyberdemon.org
  - [https://www.cyberdemon.org](https://www.cyberdemon.org)
  - date published: 2023-10-25T21:12:02.225294+00:00
@@ -5767,240 +6001,6 @@ marginalia.nu
 ## D.R.A.S.T.I.C. Research – D.R.A.S.T.I.C. Research
  - [https://drasticresearch.org](https://drasticresearch.org)
  - date published: 2023-10-25T21:15:25.874666+00:00
- - user: None
- - tags: []
-
-## diziet | Recent Entries
- - [https://diziet.dreamwidth.org](https://diziet.dreamwidth.org)
- - date published: 2023-10-25T21:15:30.379033+00:00
- - user: None
- - tags: []
-
-## graydon2 | Recent Entries
- - [https://graydon2.dreamwidth.org](https://graydon2.dreamwidth.org)
- - date published: 2023-10-25T21:15:34.097894+00:00
- - user: None
- - tags: []
-
-## liam_on_linux | Recent Entries
- - [https://liam-on-linux.dreamwidth.org](https://liam-on-linux.dreamwidth.org)
- - date published: 2023-10-25T21:15:39.084907+00:00
- - user: None
- - tags: []
-
-## mjg59 | Recent Entries
- - [https://mjg59.dreamwidth.org](https://mjg59.dreamwidth.org)
- - date published: 2023-10-25T21:15:42.543885+00:00
- - user: None
- - tags: []
-
-## roadrunnertwice | Recent Entries
- - [https://roadrunnertwice.dreamwidth.org](https://roadrunnertwice.dreamwidth.org)
- - date published: 2023-10-25T21:15:47.028918+00:00
- - user: None
- - tags: []
-
-## siderea | Recent Entries
- - [https://siderea.dreamwidth.org](https://siderea.dreamwidth.org)
- - date published: 2023-10-25T21:15:50.428581+00:00
- - user: None
- - tags: []
-
-## spindas | Recent Entries
- - [https://spindas.dreamwidth.org](https://spindas.dreamwidth.org)
- - date published: 2023-10-25T21:15:54.073987+00:00
- - user: None
- - tags: []
-
-## Drupal - Open Source CMS | Drupal.org
- - [https://www.drupal.org](https://www.drupal.org)
- - date published: 2023-10-25T21:15:56.363748+00:00
- - user: None
- - tags: []
-
-## DSLinux - Linux for the Nintendo DS
- - [https://www.dslinux.org](https://www.dslinux.org)
- - date published: 2023-10-25T08:32:08.225858+00:00
- - user: None
- - tags: []
-
-## dtrace.org
- - [http://dtrace.org](http://dtrace.org)
- - date published: 2023-10-25T21:15:59.090146+00:00
- - user: None
- - tags: []
-
-## DuckDB - An in-process SQL OLAP database management system
- - [https://duckdb.org](https://duckdb.org)
- - date published: 2023-10-25T21:16:01.562376+00:00
- - user: None
- - tags: []
-
-## Duck DNS
- - [https://www.duckdns.org](https://www.duckdns.org)
- - date published: 2023-10-25T21:16:02.876094+00:00
- - user: None
- - tags: ['dns']
-
-## DuckStation: Fast PS1 Emulator
- - [https://www.duckstation.org](https://www.duckstation.org)
- - date published: 2023-10-25T11:18:17.981573+00:00
- - user: None
- - tags: []
-
-## Dune 3D
- - [https://dune3d.org](https://dune3d.org)
- - date published: 2023-11-01T08:44:19.648377+00:00
- - user: None
- - tags: []
-
-## Earthjustice: Because the earth needs a good lawyer
- - [https://earthjustice.org](https://earthjustice.org)
- - date published: 2023-10-25T09:27:32.950598+00:00
- - user: None
- - tags: []
-
-## Econlib - The Library of Economics and Liberty
- - [https://www.econlib.org](https://www.econlib.org)
- - date published: 2023-10-25T21:16:15.326410+00:00
- - user: None
- - tags: []
-
-## Econofact
- - [https://econofact.org](https://econofact.org)
- - date published: 2023-10-25T21:16:17.972710+00:00
- - user: None
- - tags: []
-
-## http://simplecast.econtalk.org
- - [http://simplecast.econtalk.org](http://simplecast.econtalk.org)
- - date published: 2023-10-25T21:16:19.356173+00:00
- - user: None
- - tags: []
-
-## EcoRenovator.org — Diy, Green, Home Improvements, Energy Efficiency
- - [https://ecorenovator.org](https://ecorenovator.org)
- - date published: 2023-10-25T21:16:25.962788+00:00
- - user: None
- - tags: []
-
-## Ecstatic Integration | Jules Evans | Substack
- - [https://www.ecstaticintegration.org](https://www.ecstaticintegration.org)
- - date published: 2023-10-25T21:16:29.105749+00:00
- - user: None
- - tags: []
-
-## Edge.org
- - [https://www.edge.org](https://www.edge.org)
- - date published: 2023-10-25T21:16:31.469598+00:00
- - user: None
- - tags: []
-
-## European Digital Rights (EDRi)
- - [https://edri.org](https://edri.org)
- - date published: 2023-10-25T21:16:34.020264+00:00
- - user: None
- - tags: []
-
-## Covering education in California and beyond | EdSource
- - [https://edsource.org](https://edsource.org)
- - date published: 2023-10-25T21:16:39.216605+00:00
- - user: None
- - tags: []
-
-## Educated Guesswork
- - [https://educatedguesswork.org](https://educatedguesswork.org)
- - date published: 2023-10-25T21:16:41.328615+00:00
- - user: None
- - tags: []
-
-## Education Next - A Journal of Opinion and Research About Education Policy
- - [https://www.educationnext.org](https://www.educationnext.org)
- - date published: 2023-10-25T21:16:46.987080+00:00
- - user: None
- - tags: []
-
-## Test browser for web tracking – EFF
- - [https://coveryourtracks.eff.org](https://coveryourtracks.eff.org)
- - date published: 2023-11-05T20:31:06+00:00
- - user: None
- - tags: []
-
-## Electronic Frontier Foundation | Defending your rights in the digital world
- - [https://www.eff.org](https://www.eff.org)
- - date published: 2023-10-25T09:27:01.838372+00:00
- - user: None
- - tags: []
-
-## Effective Altruism Forum
- - [https://forum.effectivealtruism.org](https://forum.effectivealtruism.org)
- - date published: 2023-10-25T21:16:59.215662+00:00
- - user: None
- - tags: []
-
-## The Egison Programming Language
- - [https://www.egison.org](https://www.egison.org)
- - date published: 2023-10-25T21:17:02.744731+00:00
- - user: None
- - tags: []
-
-## EHN
- - [https://www.ehn.org](https://www.ehn.org)
- - date published: 2023-11-04T15:28:12.775152+00:00
- - user: None
- - tags: []
-
-## EU proposes to take control of web browser root certificates (open letter)
- - [https://eidas-open-letter.org](https://eidas-open-letter.org)
- - date published: 2023-11-03T11:08:42+00:00
- - user: None
- - tags: []
-
-## Home - Economic Innovation Group
- - [https://eig.org](https://eig.org)
- - date published: 2023-10-25T21:17:07.746023+00:00
- - user: None
- - tags: []
-
-## Main Index (eighty-twenty news)
- - [https://eighty-twenty.org](https://eighty-twenty.org)
- - date published: 2023-10-25T21:17:10.228233+00:00
- - user: None
- - tags: []
-
-## Peter Eisentraut | Peter Eisentraut’s blog
- - [https://peter.eisentraut.org](https://peter.eisentraut.org)
- - date published: 2023-10-25T21:17:12.533774+00:00
- - user: None
- - tags: []
-
-## https://eklitzke.org
- - [https://eklitzke.org](https://eklitzke.org)
- - date published: 2023-10-25T21:17:15.981137+00:00
- - user: None
- - tags: []
-
-## Title | There is so much pleasure to be gained from useless knowledge !  B. Russell
- - [https://www.elbruz.org](https://www.elbruz.org)
- - date published: 2023-10-25T21:17:18.766800+00:00
- - user: None
- - tags: []
-
-## Latest research | eLife
- - [https://elifesciences.org](https://elifesciences.org)
- - date published: 2023-10-25T21:17:23.164782+00:00
- - user: None
- - tags: []
-
-## eLinux.org
- - [https://elinux.org](https://elinux.org)
- - date published: 2023-10-25T21:17:26.630312+00:00
- - user: None
- - tags: []
-
-## elixir-lang.github.com
- - [https://elixir-lang.org](https://elixir-lang.org)
- - date published: 2023-10-25T08:35:12.152981+00:00
  - user: None
  - tags: []
 

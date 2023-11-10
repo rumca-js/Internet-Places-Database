@@ -1,3 +1,225 @@
+## Raph Levien’s blog | Blog of Raph Levien.
+ - [https://raphlinus.github.io](https://raphlinus.github.io)
+ - date published: 2023-10-25T19:51:36.478581+00:00
+ - user: None
+ - tags: []
+
+## ReAct: Synergizing Reasoning and Acting in Language Models
+ - [https://react-lm.github.io](https://react-lm.github.io)
+ - date published: 2023-10-25T19:51:37.875070+00:00
+ - user: None
+ - tags: []
+
+## RealFill
+ - [https://realfill.github.io](https://realfill.github.io)
+ - date published: 2023-10-25T19:51:39.362206+00:00
+ - user: None
+ - tags: []
+
+## Reanimate
+ - [https://reanimate.github.io](https://reanimate.github.io)
+ - date published: 2023-10-25T19:51:40.811373+00:00
+ - user: None
+ - tags: []
+
+## Simplex Sigillum Veri
+ - [https://remusao.github.io](https://remusao.github.io)
+ - date published: 2023-10-25T19:51:47.504665+00:00
+ - user: None
+ - tags: []
+
+## Wenhao (Reself) Chai
+ - [https://rese1f.github.io](https://rese1f.github.io)
+ - date published: 2023-10-25T19:51:49.283567+00:00
+ - user: None
+ - tags: []
+
+## Expressive Text-to-Image Generation with Rich Text
+ - [https://rich-text-to-image.github.io](https://rich-text-to-image.github.io)
+ - date published: 2023-10-25T19:51:51.003701+00:00
+ - user: None
+ - tags: []
+
+## Ryohei (Rio) Weil
+ - [https://rioweil.github.io](https://rioweil.github.io)
+ - date published: 2023-10-25T19:51:52.549274+00:00
+ - user: None
+ - tags: []
+
+## RoboAgent: Towards Sample Efficient Robot Manipulation with Semantic Augmentations and Action Chunking
+ - [https://robopen.github.io](https://robopen.github.io)
+ - date published: 2023-10-25T19:51:54.669938+00:00
+ - user: None
+ - tags: []
+
+## Open X-Embodiment: Robotic Learning Datasets and RT-X Models
+ - [https://robotics-transformer-x.github.io](https://robotics-transformer-x.github.io)
+ - date published: 2023-10-25T19:51:56.287307+00:00
+ - user: None
+ - tags: []
+
+## Rodrigodd
+ - [https://rodrigodd.github.io](https://rodrigodd.github.io)
+ - date published: 2023-10-25T19:51:57.633401+00:00
+ - user: None
+ - tags: []
+
+## Ruby Hacking Guide
+ - [https://ruby-hacking-guide.github.io](https://ruby-hacking-guide.github.io)
+ - date published: 2023-10-25T19:51:59.280808+00:00
+ - user: None
+ - tags: []
+
+## rust-analyzer
+ - [https://rust-analyzer.github.io](https://rust-analyzer.github.io)
+ - date published: 2023-10-25T19:52:01.419582+00:00
+ - user: None
+ - tags: []
+
+## GCC Front-End For Rust | Alternative Rust Compiler for GCC
+ - [https://rust-gcc.github.io](https://rust-gcc.github.io)
+ - date published: 2023-10-25T19:52:02.960686+00:00
+ - user: None
+ - tags: []
+
+## http://rust-hosted-langs.github.io
+ - [http://rust-hosted-langs.github.io](http://rust-hosted-langs.github.io)
+ - date published: 2023-10-25T19:52:04.370226+00:00
+ - user: None
+ - tags: []
+
+## Rustam Kovhaev's blog
+ - [https://rustylife.github.io](https://rustylife.github.io)
+ - date published: 2023-10-25T08:59:14.364536+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sam Pruden Does Stuff
+ - [https://sampruden.github.io](https://sampruden.github.io)
+ - date published: 2023-10-25T19:52:05.808364+00:00
+ - user: None
+ - tags: []
+
+## sam.bigos
+ - [https://samuelbigos.github.io](https://samuelbigos.github.io)
+ - date published: 2023-10-25T19:52:07.178304+00:00
+ - user: None
+ - tags: []
+
+## Site not found · GitHub Pages
+ - [https://sergeyteplyakov.github.io](https://sergeyteplyakov.github.io)
+ - date published: 2023-11-04T18:07:51.717956+00:00
+ - user: None
+ - tags: []
+
+## SHA-1 is a Shambles
+ - [https://sha-mbles.github.io](https://sha-mbles.github.io)
+ - date published: 2023-10-25T19:52:08.723718+00:00
+ - user: None
+ - tags: []
+
+## Shishir Patil
+ - [https://shishirpatil.github.io](https://shishirpatil.github.io)
+ - date published: 2023-10-25T08:59:15.329709+00:00
+ - user: None
+ - tags: ['personal']
+
+## Open Source Software Projects - Shopify
+ - [https://shopify.github.io](https://shopify.github.io)
+ - date published: 2023-10-27T12:05:08.814711+00:00
+ - user: None
+ - tags: []
+
+## Work Hard, Span Easy | Parallelizing things is easy, but making them fast is hard. A blog about parallel algorithms, data structures, programming languages, and anything else that comes to mind. Written by Sam Westrick.
+ - [https://shwestrick.github.io](https://shwestrick.github.io)
+ - date published: 2023-10-25T19:54:05.578167+00:00
+ - user: None
+ - tags: []
+
+## https://sillycross.github.io
+ - [https://sillycross.github.io](https://sillycross.github.io)
+ - date published: 2023-10-25T19:54:11.123868+00:00
+ - user: None
+ - tags: []
+
+## SilverhammerMBA's Home
+ - [https://silverhammermba.github.io](https://silverhammermba.github.io)
+ - date published: 2023-10-25T19:54:12.735851+00:00
+ - user: None
+ - tags: []
+
+## Hacker News
+ - [https://simonpure.github.io](https://simonpure.github.io)
+ - date published: 2023-10-25T19:54:14.176500+00:00
+ - user: None
+ - tags: []
+
+## Simple Statistics
+ - [https://simple-statistics.github.io](https://simple-statistics.github.io)
+ - date published: 2023-10-25T19:54:14.937648+00:00
+ - user: None
+ - tags: []
+
+## Ramblings of a cloud engineer
+ - [https://skarlso.github.io](https://skarlso.github.io)
+ - date published: 2023-10-27T10:24:30.773839+00:00
+ - user: None
+ - tags: []
+
+## Snakemake - A framework for reproducible data analysis
+ - [https://snakemake.github.io](https://snakemake.github.io)
+ - date published: 2023-10-25T19:54:15.726455+00:00
+ - user: None
+ - tags: []
+
+## Everything Racket
+ - [https://soegaard.github.io](https://soegaard.github.io)
+ - date published: 2023-10-25T19:54:22.183680+00:00
+ - user: None
+ - tags: []
+
+## Jascha’s blog | This blog is intended to be a place to share ideas and results that are too weird, incomplete, or off-topic to turn into an academic paper, but that I think may be important. Let me know what you think! Contact links to the left.
+ - [https://sohl-dickstein.github.io](https://sohl-dickstein.github.io)
+ - date published: 2023-10-25T19:54:22.838537+00:00
+ - user: None
+ - tags: []
+
+## https://sollecitom.github.io
+ - [https://sollecitom.github.io](https://sollecitom.github.io)
+ - date published: 2023-10-29T16:02:19.082465+00:00
+ - user: None
+ - tags: []
+
+## Soufflé | Soufflé • A Datalog Synthesis Tool for Static Analysis
+ - [https://souffle-lang.github.io](https://souffle-lang.github.io)
+ - date published: 2023-10-25T19:54:24.056975+00:00
+ - user: None
+ - tags: []
+
+## Speech Research
+ - [https://speechresearch.github.io](https://speechresearch.github.io)
+ - date published: 2023-10-25T19:54:25.616717+00:00
+ - user: None
+ - tags: []
+
+## Stefan Schüller
+ - [https://sschueller.github.io](https://sschueller.github.io)
+ - date published: 2023-10-25T19:54:28.538345+00:00
+ - user: None
+ - tags: []
+
+## stdnoerr's blog
+ - [https://stdnoerr.github.io](https://stdnoerr.github.io)
+ - date published: 2023-10-25T08:59:16.279940+00:00
+ - user: None
+ - tags: ['personal']
+
+## StyleDrop: Text-to-Image Generation in Any Style
+ - [https://styledrop.github.io](https://styledrop.github.io)
+ - date published: 2023-10-25T19:54:34.980707+00:00
+ - user: None
+ - tags: []
+
 ## Hackflow
  - [https://suor.github.io](https://suor.github.io)
  - date published: 2023-10-25T19:54:37.097870+00:00
@@ -3316,6 +3538,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: ['personal']
 
+## Lietuvos nacionalinis radijas ir televizija. Naujienos, įrašai ir transliacijos. - LRT
+ - [https://www.lrt.lt](https://www.lrt.lt)
+ - date published: 2023-11-09T21:50:21.776046+00:00
+ - user: None
+ - tags: []
+
 ## Manto Šimkūno tinklaraštis | Rašau įvairios tematikos tekstus, domiuosi IT naujovėmis. PHP programuotojas.
  - [https://msimkunas.lt](https://msimkunas.lt)
  - date published: 2023-10-25T20:19:22.841335+00:00
@@ -5770,232 +5998,4 @@ End-to-end typesafe APIs made easy. | tRPC
  - date published: 2023-10-25T08:52:34.982040+00:00
  - user: None
  - tags: ['personal']
-
-## GTA 5 mods – GTA5mod.net
- - [https://gta5mod.net](https://gta5mod.net)
- - date published: 2023-10-25T11:10:23.969204+00:00
- - user: None
- - tags: []
-
-## GTALand.net - GTA Mods | Grand Theft Auto Mods
- - [https://gtaland.net](https://gtaland.net)
- - date published: 2023-10-25T11:17:52.636171+00:00
- - user: None
- - tags: []
-
-## Foren
- - [https://www.gw-fanworld.net](https://www.gw-fanworld.net)
- - date published: 2023-10-27T07:30:39.843574+00:00
- - user: None
- - tags: ['tabletop games', 'warhammer']
-
-## Essays · Gwern.net
- - [https://gwern.net](https://gwern.net)
- - date published: 2023-10-25T08:52:40.007182+00:00
- - user: None
- - tags: ['personal']
-
-## Essays · Gwern.net
- - [https://www.gwern.net](https://www.gwern.net)
- - date published: 2023-10-25T20:31:15.067679+00:00
- - user: None
- - tags: []
-
-## /bɑs ˈtjɛ̃ no ˈse ʁɑ/  (hadess) | News
- - [https://www.hadess.net](https://www.hadess.net)
- - date published: 2023-10-25T20:31:19.295251+00:00
- - user: None
- - tags: []
-
-## Halestrom's Peregrinations
- - [https://halestrom.net](https://halestrom.net)
- - date published: 2023-10-25T20:31:21.737543+00:00
- - user: None
- - tags: []
-
-## Vladimir Haltakov
- - [https://haltakov.net](https://haltakov.net)
- - date published: 2023-10-25T09:23:08.743881+00:00
- - user: None
- - tags: ['personal']
-
-## Tumble Forth
- - [http://tumbleforth.hardcoded.net](http://tumbleforth.hardcoded.net)
- - date published: 2023-11-07T23:23:22+00:00
- - user: None
- - tags: []
-
-## HardenedVault - Building Your Own Cyber Bunker
- - [https://hardenedvault.net](https://hardenedvault.net)
- - date published: 2023-10-25T20:31:23.525032+00:00
- - user: None
- - tags: []
-
-## recycled math
- - [https://harrystern.net](https://harrystern.net)
- - date published: 2023-10-25T08:52:41.328899+00:00
- - user: None
- - tags: ['personal']
-
-## Aftersleep Travel Log
- - [http://www.hat.net](http://www.hat.net)
- - date published: 2023-10-27T11:37:41.993043+00:00
- - user: None
- - tags: ['personal']
-
-## Hazlitt
- - [https://hazlitt.net](https://hazlitt.net)
- - date published: 2023-10-25T20:31:25.130401+00:00
- - user: None
- - tags: []
-
-## Index & News — hermiene.net
- - [https://hermiene.net](https://hermiene.net)
- - date published: 2023-10-25T08:52:43.448249+00:00
- - user: None
- - tags: ['personal']
-
-## HEXUS.net - Definitive Technology News and Reviews
- - [https://hexus.net](https://hexus.net)
- - date published: 2023-10-25T20:31:28.683808+00:00
- - user: None
- - tags: []
-
-## History Defined
- - [https://www.historydefined.net](https://www.historydefined.net)
- - date published: 2023-10-25T20:31:31.894518+00:00
- - user: None
- - tags: []
-
-## Sci-Hub
- - [https://sci-hubtw.hkvisa.net](https://sci-hubtw.hkvisa.net)
- - date published: 2023-10-25T20:31:32.809393+00:00
- - user: None
- - tags: []
-
-## hllmn.net
- - [https://hllmn.net](https://hllmn.net)
- - date published: 2023-10-25T20:31:33.334908+00:00
- - user: None
- - tags: []
-
-## http://steve.hollasch.net
- - [http://steve.hollasch.net](http://steve.hollasch.net)
- - date published: 2023-10-25T20:31:33.789130+00:00
- - user: None
- - tags: []
-
-## The Silicon Underground - David L. Farquhar, computer security professional, train hobbyist, and landlord
- - [https://dfarq.homeip.net](https://dfarq.homeip.net)
- - date published: 2023-10-25T20:31:36.204722+00:00
- - user: None
- - tags: []
-
-## HookRace Blog
- - [https://hookrace.net](https://hookrace.net)
- - date published: 2023-10-25T09:23:10.789042+00:00
- - user: None
- - tags: ['personal']
-
-## http://www.hughrundle.net
- - [http://www.hughrundle.net](http://www.hughrundle.net)
- - date published: 2023-10-25T20:31:38.391968+00:00
- - user: None
- - tags: []
-
-## Welcome
- - [https://huntertur.net](https://huntertur.net)
- - date published: 2023-10-25T20:31:39.306377+00:00
- - user: None
- - tags: []
-
-## 500'000€ Prize for Compressing Human Knowledge
- - [http://prize.hutter1.net](http://prize.hutter1.net)
- - date published: 2023-10-25T20:31:40.973909+00:00
- - user: None
- - tags: []
-
-## Home – iA
- - [https://ia.net](https://ia.net)
- - date published: 2023-10-25T20:31:41.939052+00:00
- - user: None
- - tags: []
-
-## Ido Perlmuter
- - [https://ido50.net](https://ido50.net)
- - date published: 2023-10-25T20:31:42.586769+00:00
- - user: None
- - tags: []
-
-## ignore the code
- - [https://ignorethecode.net](https://ignorethecode.net)
- - date published: 2023-10-25T20:31:48.804771+00:00
- - user: None
- - tags: []
-
-## The Most Officialest SkiFree Home Page
- - [https://ski.ihoc.net](https://ski.ihoc.net)
- - date published: 2023-10-25T20:31:50.207165+00:00
- - user: None
- - tags: []
-
-## Report a Fireball
- - [https://ams.imo.net](https://ams.imo.net)
- - date published: 2023-10-25T20:31:51.974716+00:00
- - user: None
- - tags: []
-
-## Rich Sutton's Home Page
- - [http://incompleteideas.net](http://incompleteideas.net)
- - date published: 2023-10-25T08:52:45.098056+00:00
- - user: None
- - tags: ['personal']
-
-## blog dot information dash superhighway dot net
- - [https://blog.information-superhighway.net](https://blog.information-superhighway.net)
- - date published: 2023-10-25T20:31:53.286397+00:00
- - user: None
- - tags: []
-
-## Philippines Top Stories: Politics, Environment, Education, Trending | Inquirer.net
- - [https://newsinfo.inquirer.net](https://newsinfo.inquirer.net)
- - date published: 2023-10-25T20:31:56.026133+00:00
- - user: None
- - tags: []
-
-## Inquirer Technology | Philippine News for Filipinos
- - [https://technology.inquirer.net](https://technology.inquirer.net)
- - date published: 2023-10-25T20:31:58.708336+00:00
- - user: None
- - tags: []
-
-## Eleanor on Everything | Eleanor Berger | Substack
- - [https://everything.intellectronica.net](https://everything.intellectronica.net)
- - date published: 2023-10-25T20:32:05.438974+00:00
- - user: None
- - tags: []
-
-## http://www.inverary.net
- - [http://www.inverary.net](http://www.inverary.net)
- - date published: 2023-10-25T20:32:06.069535+00:00
- - user: None
- - tags: []
-
-## Welcome - IRCv3
- - [https://ircv3.net](https://ircv3.net)
- - date published: 2023-10-25T20:32:06.852691+00:00
- - user: None
- - tags: []
-
-## Holy on Dev
- - [https://blog.jakubholy.net](https://blog.jakubholy.net)
- - date published: 2023-10-25T20:32:08.234661+00:00
- - user: None
- - tags: []
-
-## Jami
- - [https://jami.net](https://jami.net)
- - date published: 2023-10-25T08:33:33.108947+00:00
- - user: None
- - tags: []
 

@@ -1,3 +1,237 @@
+## graydon2 | Recent Entries
+ - [https://graydon2.dreamwidth.org](https://graydon2.dreamwidth.org)
+ - date published: 2023-10-25T21:15:34.097894+00:00
+ - user: None
+ - tags: []
+
+## liam_on_linux | Recent Entries
+ - [https://liam-on-linux.dreamwidth.org](https://liam-on-linux.dreamwidth.org)
+ - date published: 2023-10-25T21:15:39.084907+00:00
+ - user: None
+ - tags: []
+
+## mjg59 | Recent Entries
+ - [https://mjg59.dreamwidth.org](https://mjg59.dreamwidth.org)
+ - date published: 2023-10-25T21:15:42.543885+00:00
+ - user: None
+ - tags: []
+
+## roadrunnertwice | Recent Entries
+ - [https://roadrunnertwice.dreamwidth.org](https://roadrunnertwice.dreamwidth.org)
+ - date published: 2023-10-25T21:15:47.028918+00:00
+ - user: None
+ - tags: []
+
+## siderea | Recent Entries
+ - [https://siderea.dreamwidth.org](https://siderea.dreamwidth.org)
+ - date published: 2023-10-25T21:15:50.428581+00:00
+ - user: None
+ - tags: []
+
+## spindas | Recent Entries
+ - [https://spindas.dreamwidth.org](https://spindas.dreamwidth.org)
+ - date published: 2023-10-25T21:15:54.073987+00:00
+ - user: None
+ - tags: []
+
+## Drupal - Open Source CMS | Drupal.org
+ - [https://www.drupal.org](https://www.drupal.org)
+ - date published: 2023-10-25T21:15:56.363748+00:00
+ - user: None
+ - tags: []
+
+## DSLinux - Linux for the Nintendo DS
+ - [https://www.dslinux.org](https://www.dslinux.org)
+ - date published: 2023-10-25T08:32:08.225858+00:00
+ - user: None
+ - tags: []
+
+## dtrace.org
+ - [http://dtrace.org](http://dtrace.org)
+ - date published: 2023-10-25T21:15:59.090146+00:00
+ - user: None
+ - tags: []
+
+## DuckDB - An in-process SQL OLAP database management system
+ - [https://duckdb.org](https://duckdb.org)
+ - date published: 2023-10-25T21:16:01.562376+00:00
+ - user: None
+ - tags: []
+
+## Duck DNS
+ - [https://www.duckdns.org](https://www.duckdns.org)
+ - date published: 2023-10-25T21:16:02.876094+00:00
+ - user: None
+ - tags: ['dns']
+
+## DuckStation: Fast PS1 Emulator
+ - [https://www.duckstation.org](https://www.duckstation.org)
+ - date published: 2023-10-25T11:18:17.981573+00:00
+ - user: None
+ - tags: []
+
+## Dune 3D
+ - [https://dune3d.org](https://dune3d.org)
+ - date published: 2023-11-01T08:44:19.648377+00:00
+ - user: None
+ - tags: []
+
+## Earthjustice: Because the earth needs a good lawyer
+ - [https://earthjustice.org](https://earthjustice.org)
+ - date published: 2023-10-25T09:27:32.950598+00:00
+ - user: None
+ - tags: []
+
+## Econlib - The Library of Economics and Liberty
+ - [https://www.econlib.org](https://www.econlib.org)
+ - date published: 2023-10-25T21:16:15.326410+00:00
+ - user: None
+ - tags: []
+
+## Econofact
+ - [https://econofact.org](https://econofact.org)
+ - date published: 2023-10-25T21:16:17.972710+00:00
+ - user: None
+ - tags: []
+
+## http://simplecast.econtalk.org
+ - [http://simplecast.econtalk.org](http://simplecast.econtalk.org)
+ - date published: 2023-10-25T21:16:19.356173+00:00
+ - user: None
+ - tags: []
+
+## EcoRenovator.org — Diy, Green, Home Improvements, Energy Efficiency
+ - [https://ecorenovator.org](https://ecorenovator.org)
+ - date published: 2023-10-25T21:16:25.962788+00:00
+ - user: None
+ - tags: []
+
+## Ecstatic Integration | Jules Evans | Substack
+ - [https://www.ecstaticintegration.org](https://www.ecstaticintegration.org)
+ - date published: 2023-10-25T21:16:29.105749+00:00
+ - user: None
+ - tags: []
+
+## Edge.org
+ - [https://www.edge.org](https://www.edge.org)
+ - date published: 2023-10-25T21:16:31.469598+00:00
+ - user: None
+ - tags: []
+
+## European Digital Rights (EDRi)
+ - [https://edri.org](https://edri.org)
+ - date published: 2023-10-25T21:16:34.020264+00:00
+ - user: None
+ - tags: []
+
+## Covering education in California and beyond | EdSource
+ - [https://edsource.org](https://edsource.org)
+ - date published: 2023-10-25T21:16:39.216605+00:00
+ - user: None
+ - tags: []
+
+## Educated Guesswork
+ - [https://educatedguesswork.org](https://educatedguesswork.org)
+ - date published: 2023-10-25T21:16:41.328615+00:00
+ - user: None
+ - tags: []
+
+## Education Next - A Journal of Opinion and Research About Education Policy
+ - [https://www.educationnext.org](https://www.educationnext.org)
+ - date published: 2023-10-25T21:16:46.987080+00:00
+ - user: None
+ - tags: []
+
+## Test browser for web tracking – EFF
+ - [https://coveryourtracks.eff.org](https://coveryourtracks.eff.org)
+ - date published: 2023-11-05T20:31:06+00:00
+ - user: None
+ - tags: []
+
+## Electronic Frontier Foundation | Defending your rights in the digital world
+ - [https://www.eff.org](https://www.eff.org)
+ - date published: 2023-10-25T09:27:01.838372+00:00
+ - user: None
+ - tags: []
+
+## Effective Altruism Forum
+ - [https://forum.effectivealtruism.org](https://forum.effectivealtruism.org)
+ - date published: 2023-10-25T21:16:59.215662+00:00
+ - user: None
+ - tags: []
+
+## The Egison Programming Language
+ - [https://www.egison.org](https://www.egison.org)
+ - date published: 2023-10-25T21:17:02.744731+00:00
+ - user: None
+ - tags: []
+
+## EHN
+ - [https://www.ehn.org](https://www.ehn.org)
+ - date published: 2023-11-04T15:28:12.775152+00:00
+ - user: None
+ - tags: []
+
+## EU proposes to take control of web browser root certificates (open letter)
+ - [https://eidas-open-letter.org](https://eidas-open-letter.org)
+ - date published: 2023-11-03T11:08:42+00:00
+ - user: None
+ - tags: []
+
+## Home - Economic Innovation Group
+ - [https://eig.org](https://eig.org)
+ - date published: 2023-10-25T21:17:07.746023+00:00
+ - user: None
+ - tags: []
+
+## Main Index (eighty-twenty news)
+ - [https://eighty-twenty.org](https://eighty-twenty.org)
+ - date published: 2023-10-25T21:17:10.228233+00:00
+ - user: None
+ - tags: []
+
+## Peter Eisentraut | Peter Eisentraut’s blog
+ - [https://peter.eisentraut.org](https://peter.eisentraut.org)
+ - date published: 2023-10-25T21:17:12.533774+00:00
+ - user: None
+ - tags: []
+
+## https://eklitzke.org
+ - [https://eklitzke.org](https://eklitzke.org)
+ - date published: 2023-10-25T21:17:15.981137+00:00
+ - user: None
+ - tags: []
+
+## Title | There is so much pleasure to be gained from useless knowledge !  B. Russell
+ - [https://www.elbruz.org](https://www.elbruz.org)
+ - date published: 2023-10-25T21:17:18.766800+00:00
+ - user: None
+ - tags: []
+
+## Latest research | eLife
+ - [https://elifesciences.org](https://elifesciences.org)
+ - date published: 2023-10-25T21:17:23.164782+00:00
+ - user: None
+ - tags: []
+
+## eLinux.org
+ - [https://elinux.org](https://elinux.org)
+ - date published: 2023-10-25T21:17:26.630312+00:00
+ - user: None
+ - tags: []
+
+## elixir-lang.github.com
+ - [https://elixir-lang.org](https://elixir-lang.org)
+ - date published: 2023-10-25T08:35:12.152981+00:00
+ - user: None
+ - tags: []
+
+## ELM by ChaN
+ - [http://elm-chan.org](http://elm-chan.org)
+ - date published: 2023-10-25T21:17:29.697589+00:00
+ - user: None
+ - tags: []
+
 ## home
  - [https://elm-lang.org](https://elm-lang.org)
  - date published: 2023-10-25T21:17:32.410731+00:00
@@ -2350,6 +2584,12 @@ Hosted by Panix.com.
  - user: None
  - tags: []
 
+## KMUW - Homepage | KMUW
+ - [https://www.kmuw.org](https://www.kmuw.org)
+ - date published: 2023-11-09T13:45:32.889287+00:00
+ - user: None
+ - tags: []
+
 ## | Knight First Amendment Institute
  - [https://knightcolumbia.org](https://knightcolumbia.org)
  - date published: 2023-10-25T21:36:54.362080+00:00
@@ -2758,6 +2998,12 @@ Hosted by Panix.com.
  - user: None
  - tags: []
 
+## FDD's Long War Journal
+ - [https://www.longwarjournal.org](https://www.longwarjournal.org)
+ - date published: 2023-11-10T03:51:21.976358+00:00
+ - user: None
+ - tags: []
+
 ## LÖVE - Free 2D Game Engine
  - [https://love2d.org](https://love2d.org)
  - date published: 2023-10-25T08:35:50.630389+00:00
@@ -2971,6 +3217,12 @@ Hosted by Panix.com.
 ## Matt Lakeman – Writing on books, experiments, and random things I can't stop thinking about
  - [https://mattlakeman.org](https://mattlakeman.org)
  - date published: 2023-10-25T21:40:58.876749+00:00
+ - user: None
+ - tags: []
+
+## Stan
+ - [https://mc-stan.org](https://mc-stan.org)
+ - date published: 2023-11-10T00:49:59.615646+00:00
  - user: None
  - tags: []
 
@@ -3629,6 +3881,12 @@ Common Weakness Enumeration
 ## Bedr00mZ
  - [https://bedr00mz.neocities.org](https://bedr00mz.neocities.org)
  - date published: 2023-10-25T21:46:21.140056+00:00
+ - user: None
+ - tags: []
+
+## Coby Cat's Abode
+ - [https://cobycat.neocities.org](https://cobycat.neocities.org)
+ - date published: 2023-11-09T19:01:08.263713+00:00
  - user: None
  - tags: []
 
@@ -5742,264 +6000,6 @@ Common Weakness Enumeration
 ## Ruby on Rails
  - [https://rubyonrails.org](https://rubyonrails.org)
  - date published: 2023-10-25T08:31:28.729010+00:00
- - user: None
- - tags: []
-
-## RSF
- - [https://www.russellsage.org](https://www.russellsage.org)
- - date published: 2023-10-25T22:04:52.238484+00:00
- - user: None
- - tags: []
-
-## cs4414: Operating Systems
- - [https://rust-class.org](https://rust-class.org)
- - date published: 2023-11-08T19:28:02.140877+00:00
- - user: None
- - tags: []
-
-## The Rust Programming Language Blog
- - [https://blog.rust-lang.org](https://blog.rust-lang.org)
- - date published: 2023-10-25T22:04:57.445467+00:00
- - user: None
- - tags: []
-
-## Rust Magazine
- - [https://rustmagazine.org](https://rustmagazine.org)
- - date published: 2023-10-25T22:05:06.434628+00:00
- - user: None
- - tags: []
-
-## About – Alex Rutar
- - [https://rutar.org](https://rutar.org)
- - date published: 2023-10-25T22:05:07.183562+00:00
- - user: None
- - tags: []
-
-## The Rutherford Institute :: Home |
- - [https://www.rutherford.org](https://www.rutherford.org)
- - date published: 2023-10-25T22:05:08.700126+00:00
- - user: None
- - tags: []
-
-## RVspace Forum
- - [https://forum.rvspace.org](https://forum.rvspace.org)
- - date published: 2023-10-25T22:05:11.836037+00:00
- - user: None
- - tags: []
-
-## Ryujinx - Blog
- - [https://blog.ryujinx.org](https://blog.ryujinx.org)
- - date published: 2023-10-25T22:05:13.302746+00:00
- - user: None
- - tags: []
-
-## Ryujinx - Nintendo Switch Emulator
- - [https://ryujinx.org](https://ryujinx.org)
- - date published: 2023-10-25T08:36:23.207142+00:00
- - user: None
- - tags: []
-
-## Sabrina Jewson
- - [https://sabrinajewson.org](https://sabrinajewson.org)
- - date published: 2023-10-25T22:05:13.957543+00:00
- - user: None
- - tags: []
-
-## The Mission of SAE International is to advance mobility knowledge and solutions
- - [https://www.sae.org](https://www.sae.org)
- - date published: 2023-10-25T22:05:23.612089+00:00
- - user: None
- - tags: []
-
-## San Antonio Report - Nonprofit journalism for an informed community
- - [https://sanantonioreport.org](https://sanantonioreport.org)
- - date published: 2023-10-25T22:05:42.245865+00:00
- - user: None
- - tags: []
-
-## SAPIENS – Anthropology Magazine
- - [https://www.sapiens.org](https://www.sapiens.org)
- - date published: 2023-10-25T22:05:54.397882+00:00
- - user: None
- - tags: []
-
-## SAT Competitions
- - [http://www.satcompetition.org](http://www.satcompetition.org)
- - date published: 2023-10-25T22:06:06.919026+00:00
- - user: None
- - tags: []
-
-## saurabhs.org
- - [https://saurabhs.org](https://saurabhs.org)
- - date published: 2023-10-25T22:06:08.304854+00:00
- - user: None
- - tags: []
-
-## Charity Organization for Children
- - [https://www.savethechildren.org](https://www.savethechildren.org)
- - date published: 2023-10-30T12:42:11.141123+00:00
- - user: None
- - tags: []
-
-## About - Steel Bank Common Lisp
- - [https://sbcl.org](https://sbcl.org)
- - date published: 2023-10-25T22:06:10.407198+00:00
- - user: None
- - tags: []
-
-## About - Steel Bank Common Lisp
- - [https://www.sbcl.org](https://www.sbcl.org)
- - date published: 2023-10-25T22:06:12.372280+00:00
- - user: None
- - tags: []
-
-## http://sbp-brims.org
- - [http://sbp-brims.org](http://sbp-brims.org)
- - date published: 2023-10-25T22:06:13.485387+00:00
- - user: None
- - tags: []
-
-## The Scala Programming Language
- - [https://www.scala-lang.org](https://www.scala-lang.org)
- - date published: 2023-10-25T22:06:15.979197+00:00
- - user: None
- - tags: []
-
-## SCENE.ORG WILL BE BACK SOON
- - [https://www.scene.org](https://www.scene.org)
- - date published: 2023-10-27T14:45:56.505689+00:00
- - user: None
- - tags: ['demoscene']
-
-## JSON Schema Store
- - [https://www.schemastore.org](https://www.schemastore.org)
- - date published: 2023-10-25T22:06:22.537229+00:00
- - user: None
- - tags: []
-
-## Schism Tracker
- - [https://schismtracker.org](https://schismtracker.org)
- - date published: 2023-10-28T18:46:27.023408+00:00
- - user: None
- - tags: ['music tracker', 'open source']
-
-## Schluss
- - [https://schluss.org](https://schluss.org)
- - date published: 2023-10-25T22:06:24.909149+00:00
- - user: None
- - tags: []
-
-## The Scholar's Stage
- - [https://scholars-stage.org](https://scholars-stage.org)
- - date published: 2023-10-25T22:06:28.586955+00:00
- - user: None
- - tags: []
-
-## Charles M. Schulz Museum | Official Website
- - [https://schulzmuseum.org](https://schulzmuseum.org)
- - date published: 2023-10-25T22:06:33.393025+00:00
- - user: None
- - tags: []
-
-## https://www.science.org
- - [https://www.science.org](https://www.science.org)
- - date published: 2023-10-25T10:12:15.147885+00:00
- - user: None
- - tags: ['science', 'news']
-
-## Science-Based Medicine
- - [https://sciencebasedmedicine.org](https://sciencebasedmedicine.org)
- - date published: 2023-10-25T22:06:36.641943+00:00
- - user: None
- - tags: []
-
-## Science History Institute
- - [https://www.sciencehistory.org](https://www.sciencehistory.org)
- - date published: 2023-10-25T22:06:41.108965+00:00
- - user: None
- - tags: []
-
-## https://science.sciencemag.org
- - [https://science.sciencemag.org](https://science.sciencemag.org)
- - date published: 2023-10-25T22:06:42.582536+00:00
- - user: None
- - tags: []
-
-## https://www.sciencemag.org
- - [https://www.sciencemag.org](https://www.sciencemag.org)
- - date published: 2023-10-25T22:06:43.911187+00:00
- - user: None
- - tags: []
-
-## Science Media Centre
- - [https://www.sciencemediacentre.org](https://www.sciencemediacentre.org)
- - date published: 2023-10-25T22:06:46.673683+00:00
- - user: None
- - tags: []
-
-## Science News | The latest news from all areas of science
- - [https://www.sciencenews.org](https://www.sciencenews.org)
- - date published: 2023-10-25T10:12:21.604183+00:00
- - user: None
- - tags: ['science', 'news']
-
-## The Science++ Project
- - [https://scienceplusplus.org](https://scienceplusplus.org)
- - date published: 2023-10-25T22:06:47.991949+00:00
- - user: None
- - tags: []
-
-## Science Media Exchange - Scimex
- - [https://www.scimex.org](https://www.scimex.org)
- - date published: 2023-10-25T22:06:56.073682+00:00
- - user: None
- - tags: []
-
-## Scintilla and SciTE
- - [https://www.scintilla.org](https://www.scintilla.org)
- - date published: 2023-10-25T22:06:57.037238+00:00
- - user: None
- - tags: []
-
-## Sci Phi Journal - A Universe of Wonder
- - [https://www.sciphijournal.org](https://www.sciphijournal.org)
- - date published: 2023-10-25T11:13:33.009612+00:00
- - user: None
- - tags: []
-
-## American Association of Physics Teachers | AIP Publishing
- - [https://aapt.scitation.org](https://aapt.scitation.org)
- - date published: 2023-10-25T22:07:00.202610+00:00
- - user: None
- - tags: []
-
-## AIP Publishing Portfolio | AIP Publishing
- - [https://aip.scitation.org](https://aip.scitation.org)
- - date published: 2023-10-25T22:07:04.043537+00:00
- - user: None
- - tags: []
-
-## Physics Today | AIP Publishing
- - [https://physicstoday.scitation.org](https://physicstoday.scitation.org)
- - date published: 2023-10-25T22:07:12.198844+00:00
- - user: None
- - tags: []
-
-## Vesuvius Challenge
- - [https://scrollprize.org](https://scrollprize.org)
- - date published: 2023-10-25T22:07:20.213921+00:00
- - user: None
- - tags: []
-
-## ScummVM
- - [https://www.scummvm.org](https://www.scummvm.org)
- - date published: 2023-10-27T14:48:26.977695+00:00
- - user: None
- - tags: ['emulator', 'retro games']
-
-## SD Association | The SD Association
- - [https://www.sdcard.org](https://www.sdcard.org)
- - date published: 2023-10-25T22:07:25.829748+00:00
  - user: None
  - tags: []
 

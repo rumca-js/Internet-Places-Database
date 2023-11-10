@@ -1,3 +1,189 @@
+## Zapier | Automation that moves you forward
+ - [https://zapier.com](https://zapier.com)
+ - date published: 2023-10-25T18:24:27.455409+00:00
+ - user: None
+ - tags: []
+
+## Lukáš Zapletal - lzap
+ - [https://lukas.zapletalovi.com](https://lukas.zapletalovi.com)
+ - date published: 2023-10-25T18:24:29.105564+00:00
+ - user: None
+ - tags: []
+
+## Zarf Updates
+ - [https://blog.zarfhome.com](https://blog.zarfhome.com)
+ - date published: 2023-10-25T18:24:37.052916+00:00
+ - user: None
+ - tags: []
+
+## zarkzork.com
+ - [https://zarkzork.com](https://zarkzork.com)
+ - date published: 2023-10-25T18:24:38.695430+00:00
+ - user: None
+ - tags: []
+
+## News and Advice on the World's Latest Innovations | ZDNET
+ - [https://www.zdnet.com](https://www.zdnet.com)
+ - date published: 2023-10-25T09:36:51.823960+00:00
+ - user: None
+ - tags: []
+
+## Zdziarski – DFIR, security, reverse engineering, photography, theology, funky bass guitar. All opinions are my own.
+ - [https://www.zdziarski.com](https://www.zdziarski.com)
+ - date published: 2023-10-25T18:24:42.534877+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Zeihan on Geopolitics
+ - [https://zeihan.com](https://zeihan.com)
+ - date published: 2023-10-25T18:24:46.179893+00:00
+ - user: None
+ - tags: []
+
+## The official home for The Legend of Zelda - Home
+ - [https://www.zelda.com](https://www.zelda.com)
+ - date published: 2023-10-25T18:24:52.923632+00:00
+ - user: None
+ - tags: []
+
+## https://theathletic.zendesk.com
+ - [https://theathletic.zendesk.com](https://theathletic.zendesk.com)
+ - date published: 2023-11-04T23:17:18.597491+00:00
+ - user: None
+ - tags: []
+
+## https://www.zenrows.com
+ - [https://www.zenrows.com](https://www.zenrows.com)
+ - date published: 2023-10-25T18:24:53.180839+00:00
+ - user: None
+ - tags: []
+
+## ZeptoBars
+ - [https://zeptobars.com](https://zeptobars.com)
+ - date published: 2023-10-25T18:24:54.075440+00:00
+ - user: None
+ - tags: []
+
+## zeptonaut
+ - [https://www.zeptonaut.com](https://www.zeptonaut.com)
+ - date published: 2023-10-25T18:25:01.191982+00:00
+ - user: None
+ - tags: []
+
+## Zero to Nix
+ - [https://zero-to-nix.com](https://zero-to-nix.com)
+ - date published: 2023-10-25T18:25:02.088596+00:00
+ - user: None
+ - tags: []
+
+## Zero ASIC
+ - [https://www.zeroasic.com](https://www.zeroasic.com)
+ - date published: 2023-10-27T11:56:56.373630+00:00
+ - user: None
+ - tags: []
+
+## ZeroBanana: Software for Humans
+ - [https://www.zerobanana.com](https://www.zerobanana.com)
+ - date published: 2023-10-25T18:25:03.471194+00:00
+ - user: None
+ - tags: []
+
+## Home | Zero Day Initiative
+ - [https://www.zerodayinitiative.com](https://www.zerodayinitiative.com)
+ - date published: 2023-10-25T18:25:09.801572+00:00
+ - user: None
+ - tags: []
+
+## Zerohedge
+ - [https://www.zerohedge.com](https://www.zerohedge.com)
+ - date published: 2023-10-25T18:25:12.953645+00:00
+ - user: None
+ - tags: []
+
+## Zeta Alpha | The Neural Discovery Platform
+ - [https://www.zeta-alpha.com](https://www.zeta-alpha.com)
+ - date published: 2023-10-25T18:25:15.162782+00:00
+ - user: None
+ - tags: []
+
+## Press Start Page - ZF
+ - [https://press.zf.com](https://press.zf.com)
+ - date published: 2023-10-25T18:25:23.791399+00:00
+ - user: None
+ - tags: []
+
+## Luyao Zhang
+ - [http://zhangluyao.com](http://zhangluyao.com)
+ - date published: 2023-10-25T09:21:32.151001+00:00
+ - user: None
+ - tags: ['personal']
+
+## Yitong Zhang
+ - [https://zhayitong.com](https://zhayitong.com)
+ - date published: 2023-10-25T18:25:24.963388+00:00
+ - user: None
+ - tags: []
+
+## Home | Zhengdong
+ - [https://zhengdongwang.com](https://zhengdongwang.com)
+ - date published: 2023-10-25T18:25:25.764800+00:00
+ - user: None
+ - tags: []
+
+## Vector Database built for enterprise-grade AI applications - Zilliz
+ - [https://zilliz.com](https://zilliz.com)
+ - date published: 2023-10-25T18:25:27.230254+00:00
+ - user: None
+ - tags: []
+
+## OpenObserve | Open Source Observability Platform for Logs, Metrics, Traces, and More – Your Ultimate Dashboard for Alerts and Insights
+ - [https://zincsearch.com](https://zincsearch.com)
+ - date published: 2023-10-25T18:25:28.914613+00:00
+ - user: None
+ - tags: []
+
+## Light and Illusion
+ - [https://zintaglio.com](https://zintaglio.com)
+ - date published: 2023-10-25T18:25:29.902791+00:00
+ - user: None
+ - tags: []
+
+## Zippia - Find Jobs, Salaries, Companies, Resume Help, Career Paths, and More
+ - [https://www.zippia.com](https://www.zippia.com)
+ - date published: 2023-10-25T18:25:39.229043+00:00
+ - user: None
+ - tags: []
+
+## ZITADEL • Identity infrastructure, simplified for you
+ - [https://zitadel.com](https://zitadel.com)
+ - date published: 2023-10-25T18:25:40.528841+00:00
+ - user: None
+ - tags: []
+
+## ZME Science: not exactly rocket science
+ - [https://www.zmescience.com](https://www.zmescience.com)
+ - date published: 2023-11-09T06:35:18.336550+00:00
+ - user: None
+ - tags: ['science news', 'news']
+
+## Online Word Processor | Create & Edit Documents Online - Writer
+ - [https://writer.zohopublic.com](https://writer.zohopublic.com)
+ - date published: 2023-10-25T18:25:42.345907+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Zoom - ZOOM Europe
+ - [https://www.zoom-europe.com](https://www.zoom-europe.com)
+ - date published: 2023-11-02T09:09:25.938526+00:00
+ - user: None
+ - tags: ['audio equipment']
+
+## Zorin
+ - [https://zorin.com](https://zorin.com)
+ - date published: 2023-11-06T10:11:49.466457+00:00
+ - user: None
+ - tags: ['linux', 'operating system']
+
 ## zserge's blog
  - [https://zserge.com](https://zserge.com)
  - date published: 2023-10-25T18:25:42.935979+00:00
@@ -4497,6 +4683,12 @@ home
  - user: None
  - tags: []
 
+## Request Rejected
+ - [https://nationalzoo.si.edu](https://nationalzoo.si.edu)
+ - date published: 2023-11-09T12:24:21.084128+00:00
+ - user: None
+ - tags: []
+
 ## Smithsonian Institution | Home
  - [https://www.si.edu](https://www.si.edu)
  - date published: 2023-10-25T18:57:58.976078+00:00
@@ -4896,6 +5088,12 @@ home
 ## http://plaza.ufl.edu
  - [http://plaza.ufl.edu](http://plaza.ufl.edu)
  - date published: 2023-10-25T19:01:27.333883+00:00
+ - user: None
+ - tags: []
+
+## Florida Museum
+ - [https://www.floridamuseum.ufl.edu](https://www.floridamuseum.ufl.edu)
+ - date published: 2023-11-09T19:00:22.567256+00:00
  - user: None
  - tags: []
 
@@ -5595,6 +5793,12 @@ home
  - user: None
  - tags: []
 
+## J. Ryan Stinnett
+ - [https://convolv.es](https://convolv.es)
+ - date published: 2023-11-10T06:49:58.797104+00:00
+ - user: None
+ - tags: []
+
 ## Creactivities - A chatbot that exercises your creative muscles
  - [https://www.creactiviti.es](https://www.creactiviti.es)
  - date published: 2023-10-25T19:07:58.865084+00:00
@@ -5646,6 +5850,12 @@ home
 ## TC39 - Specifying JavaScript.
  - [https://tc39.es](https://tc39.es)
  - date published: 2023-10-25T19:08:11.963270+00:00
+ - user: None
+ - tags: []
+
+## The Local - Spain's news in English
+ - [https://www.thelocal.es](https://www.thelocal.es)
+ - date published: 2023-11-09T21:28:01.789542+00:00
  - user: None
  - tags: []
 
@@ -5796,216 +6006,6 @@ home
 ## EquiValent
  - [https://blog.eq8.eu](https://blog.eq8.eu)
  - date published: 2023-10-25T19:10:02.527258+00:00
- - user: None
- - tags: []
-
-## Untitled Document
- - [https://curia.europa.eu](https://curia.europa.eu)
- - date published: 2023-10-25T19:10:04.254569+00:00
- - user: None
- - tags: []
-
-## Language selection | European Commission
- - [https://ec.europa.eu](https://ec.europa.eu)
- - date published: 2023-10-25T11:24:45.809790+00:00
- - user: None
- - tags: []
-
-## Language selection | Migration and Home Affairs
- - [https://home-affairs.ec.europa.eu](https://home-affairs.ec.europa.eu)
- - date published: 2023-10-25T19:10:06.998621+00:00
- - user: None
- - tags: []
-
-## EU Voice
- - [https://social.network.europa.eu](https://social.network.europa.eu)
- - date published: 2023-10-25T19:10:09.557687+00:00
- - user: None
- - tags: []
-
-## Browser check - Consilium
- - [https://www.consilium.europa.eu](https://www.consilium.europa.eu)
- - date published: 2023-10-25T19:10:10.580564+00:00
- - user: None
- - tags: []
-
-## European Environment Agency's home page
- - [https://www.eea.europa.eu](https://www.eea.europa.eu)
- - date published: 2023-10-25T19:10:12.718824+00:00
- - user: None
- - tags: []
-
-## The European Pirate Party
- - [https://european-pirateparty.eu](https://european-pirateparty.eu)
- - date published: 2023-10-25T19:10:16.824965+00:00
- - user: None
- - tags: []
-
-## EuroPython Blog
- - [https://blog.europython.eu](https://blog.europython.eu)
- - date published: 2023-10-25T19:10:20.746169+00:00
- - user: None
- - tags: []
-
-## Alan's Lair
- - [https://www.franzoni.eu](https://www.franzoni.eu)
- - date published: 2023-10-25T19:10:27.546886+00:00
- - user: None
- - tags: []
-
-## galmon.eu
- - [https://galmon.eu](https://galmon.eu)
- - date published: 2023-10-25T19:10:28.853146+00:00
- - user: None
- - tags: []
-
-## Gas Infrastructure Europe - AGSI
- - [https://agsi.gie.eu](https://agsi.gie.eu)
- - date published: 2023-10-25T19:10:29.723020+00:00
- - user: None
- - tags: []
-
-## I don't care about cookies 3.4.9
- - [https://www.i-dont-care-about-cookies.eu](https://www.i-dont-care-about-cookies.eu)
- - date published: 2023-10-25T19:10:30.440091+00:00
- - user: None
- - tags: []
-
-## Ingo Blechschmidt
- - [https://www.ingo-blechschmidt.eu](https://www.ingo-blechschmidt.eu)
- - date published: 2023-10-25T19:10:37.193734+00:00
- - user: None
- - tags: []
-
-## ugBASIC - An isomorphic BASIC language compiler for retrocomputers
- - [https://ugbasic.iwashere.eu](https://ugbasic.iwashere.eu)
- - date published: 2023-10-25T19:10:40.211235+00:00
- - user: None
- - tags: []
-
-## Justune
- - [https://justune.eu](https://justune.eu)
- - date published: 2023-10-25T19:10:41.586076+00:00
- - user: None
- - tags: []
-
-## Civil Liberties Union for Europe | liberties.eu
- - [https://www.liberties.eu](https://www.liberties.eu)
- - date published: 2023-10-25T19:10:46.265989+00:00
- - user: None
- - tags: []
-
-## Linux Foundation Europe
- - [https://linuxfoundation.eu](https://linuxfoundation.eu)
- - date published: 2023-10-25T19:10:54.862417+00:00
- - user: None
- - tags: []
-
-## Search | lobbyfacts
- - [https://www.lobbyfacts.eu](https://www.lobbyfacts.eu)
- - date published: 2023-10-25T19:11:00.138993+00:00
- - user: None
- - tags: []
-
-## M0AGX / LB9MG
- - [https://m0agx.eu](https://m0agx.eu)
- - date published: 2023-10-25T19:11:01.705514+00:00
- - user: None
- - tags: []
-
-## Alex’s website
- - [https://muscar.eu](https://muscar.eu)
- - date published: 2023-10-25T19:11:03.118706+00:00
- - user: None
- - tags: []
-
-## Neoteric — Digital Transformation Partner
- - [https://neoteric.eu](https://neoteric.eu)
- - date published: 2023-10-25T19:11:06.793746+00:00
- - user: None
- - tags: []
-
-## NIS2 Directive | Prepare Your Organization Now
- - [https://nis2directive.eu](https://nis2directive.eu)
- - date published: 2023-10-25T19:11:09.618121+00:00
- - user: None
- - tags: []
-
-## NOYB enforces your right to privacy everyday
- - [https://noyb.eu](https://noyb.eu)
- - date published: 2023-10-25T11:24:53.335930+00:00
- - user: None
- - tags: []
-
-## Welcome - Open Web Search – Promoting Europe's Independence in Web Search
- - [https://openwebsearch.eu](https://openwebsearch.eu)
- - date published: 2023-10-25T19:11:14.751829+00:00
- - user: None
- - tags: []
-
-## POLITICO – European Politics, Policy, Government News
- - [https://www.politico.eu](https://www.politico.eu)
- - date published: 2023-10-25T10:30:34.441140+00:00
- - user: None
- - tags: []
-
-## https://publiccode.eu/en/
- - [https://publiccode.eu](https://publiccode.eu)
- - date published: 2023-10-25T19:11:20.936558+00:00
- - user: None
- - tags: []
-
-## On Programming, Software Architecture, and Sociotechnical Systems
- - [https://www.reactivesystems.eu](https://www.reactivesystems.eu)
- - date published: 2023-10-25T19:11:27.315296+00:00
- - user: None
- - tags: []
-
-## Your voice in the European Parliament - Renew Europe
- - [https://www.reneweuropegroup.eu](https://www.reneweuropegroup.eu)
- - date published: 2023-10-25T19:11:30.012318+00:00
- - user: None
- - tags: []
-
-## Home - Right to Repair Europe
- - [https://repair.eu](https://repair.eu)
- - date published: 2023-11-03T10:38:49.832941+00:00
- - user: None
- - tags: []
-
-## Bystroushaak's blog
- - [https://blog.rfox.eu](https://blog.rfox.eu)
- - date published: 2023-10-25T11:45:10.258800+00:00
- - user: None
- - tags: ['personal']
-
-## Severe Weather Europe » “Follow severe weather as it happens. Anywhere. Any time.”
- - [https://www.severe-weather.eu](https://www.severe-weather.eu)
- - date published: 2023-10-25T19:11:37.267092+00:00
- - user: None
- - tags: []
-
-## The latest startup news and analysis from Europe | Sifted
- - [https://sifted.eu](https://sifted.eu)
- - date published: 2023-10-25T19:11:43.124785+00:00
- - user: None
- - tags: []
-
-## Silent Signal Techblog
- - [https://blog.silentsignal.eu](https://blog.silentsignal.eu)
- - date published: 2023-10-25T19:11:44.624027+00:00
- - user: None
- - tags: []
-
-## State of the Map EU 2023
- - [https://stateofthemap.eu](https://stateofthemap.eu)
- - date published: 2023-10-25T19:11:51.109957+00:00
- - user: None
- - tags: []
-
-## Let's stop the EU chat control! - stopchatcontrol.eu
- - [https://stopchatcontrol.eu](https://stopchatcontrol.eu)
- - date published: 2023-10-25T19:11:53.766629+00:00
  - user: None
  - tags: []
 

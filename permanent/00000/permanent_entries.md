@@ -112,6 +112,30 @@
  - user: None
  - tags: []
 
+## Luetin09 YouTube Channel
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ)
+ - date published: 2023-11-08T09:33:03+00:00
+ - user: rumpel
+ - tags: ['tabletop games', 'warhammer']
+
+## Squidmar Miniatures
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g)
+ - date published: 2023-11-08T09:58:45+00:00
+ - user: rumpel
+ - tags: ['miniatures', 'wargames', 'warhammer']
+
+## Tabletop Minions
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ)
+ - date published: 2023-11-08T09:59:26+00:00
+ - user: rumpel
+ - tags: ['miniatures', 'tabletop games', 'wargames', 'warhammer']
+
+## Miniac
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g)
+ - date published: 2023-11-08T10:01:11+00:00
+ - user: rumpel
+ - tags: ['miniatures', 'tabletop games', 'wargames', 'warhammer']
+
 ## Sort: Supercharged collaboration for your database
  - [https://sort.xyz.](https://sort.xyz.)
  - date published: 2023-11-01T23:07:07.991006+00:00
@@ -721,6 +745,12 @@
 ## jamie - Summarize Any Meeting.
  - [https://www.meetjamie.ai](https://www.meetjamie.ai)
  - date published: 2023-10-25T11:39:55.404261+00:00
+ - user: None
+ - tags: []
+
+## Mentat | Blog
+ - [https://blog.mentat.ai](https://blog.mentat.ai)
+ - date published: 2023-11-09T13:45:29.329129+00:00
  - user: None
  - tags: []
 
@@ -2666,7 +2696,7 @@
  - [https://youtu.be](https://youtu.be)
  - date published: 2023-11-08T20:32:57.103890+00:00
  - user: None
- - tags: []
+ - tags: ['youtube']
 
 ## DNS points to prohibited IP | blog.cto.berlin | Cloudflare
  - [https://blog.cto.berlin](https://blog.cto.berlin)
@@ -3263,6 +3293,12 @@
  - user: None
  - tags: []
 
+## Montreal News | Local Breaking | CTV News Montreal
+ - [https://montreal.ctvnews.ca](https://montreal.ctvnews.ca)
+ - date published: 2023-11-09T19:00:28.953347+00:00
+ - user: None
+ - tags: []
+
 ## Ottawa News | Local Breaking | CTV News Ottawa
  - [https://ottawa.ctvnews.ca](https://ottawa.ctvnews.ca)
  - date published: 2023-10-25T10:56:04.116973+00:00
@@ -3585,7 +3621,7 @@
  - [https://www.thecanadianpressnews.ca](https://www.thecanadianpressnews.ca)
  - date published: 2023-11-08T21:50:08.227809+00:00
  - user: None
- - tags: []
+ - tags: ['canada news']
 
 ## the deep dive | Providing stock analysis for investors of the Canadian junior markets
  - [https://thedeepdive.ca](https://thedeepdive.ca)
@@ -4065,6 +4101,12 @@
 ## CERN 2019 WorldWideWeb Rebuild
  - [https://worldwideweb.cern.ch](https://worldwideweb.cern.ch)
  - date published: 2023-10-25T12:13:10.879188+00:00
+ - user: None
+ - tags: []
+
+## Accueil
+ - [https://www.chuv.ch](https://www.chuv.ch)
+ - date published: 2023-11-09T02:35:18.265223+00:00
  - user: None
  - tags: []
 
@@ -5949,48 +5991,6 @@
 ## Adobe: Creative, marketing and document management solutions
  - [https://get.adobe.com](https://get.adobe.com)
  - date published: 2023-11-01T06:20:20.809265+00:00
- - user: None
- - tags: []
-
-## Adobe Help Center
- - [https://helpx.adobe.com](https://helpx.adobe.com)
- - date published: 2023-10-25T12:33:18.128561+00:00
- - user: None
- - tags: []
-
-## Adobe Landing Pages
- - [https://pages.adobe.com](https://pages.adobe.com)
- - date published: 2023-10-25T12:33:18.873394+00:00
- - user: None
- - tags: []
-
-## Adobe Podcast | AI audio recording and editing, all on the web
- - [https://podcast.adobe.com](https://podcast.adobe.com)
- - date published: 2023-10-25T12:33:19.421794+00:00
- - user: None
- - tags: []
-
-## React Spectrum Libraries
- - [https://react-spectrum.adobe.com](https://react-spectrum.adobe.com)
- - date published: 2023-10-25T12:33:22.838073+00:00
- - user: None
- - tags: []
-
-## Adobe: Creative, marketing and document management solutions
- - [https://www.adobe.com](https://www.adobe.com)
- - date published: 2023-10-25T12:33:24.758155+00:00
- - user: None
- - tags: ['photoshop', 'company', 'acrobat reader']
-
-## Adrian Preda Woodworks
- - [https://www.adrianpreda.com](https://www.adrianpreda.com)
- - date published: 2023-10-25T12:33:29.430582+00:00
- - user: None
- - tags: []
-
-## aduros.com
- - [https://aduros.com](https://aduros.com)
- - date published: 2023-10-25T12:33:57.524854+00:00
  - user: None
  - tags: []
 

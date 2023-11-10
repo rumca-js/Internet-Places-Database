@@ -1,3 +1,93 @@
+## FOSS Patents
+ - [http://www.fosspatents.com](http://www.fosspatents.com)
+ - date published: 2023-10-25T14:36:39.372249+00:00
+ - user: None
+ - tags: []
+
+## Founder's Choice
+ - [https://www.founderschoicevc.com](https://www.founderschoicevc.com)
+ - date published: 2023-10-25T14:36:45.980846+00:00
+ - user: None
+ - tags: []
+
+## Founding Fuel
+ - [https://foundingfuel.com](https://foundingfuel.com)
+ - date published: 2023-10-25T14:36:52.016854+00:00
+ - user: None
+ - tags: []
+
+## Four Bar Design
+ - [https://www.fourbardesign.com](https://www.fourbardesign.com)
+ - date published: 2023-10-25T14:36:55.657537+00:00
+ - user: None
+ - tags: []
+
+## FOX 13 Tampa Bay
+ - [https://www.fox13news.com](https://www.fox13news.com)
+ - date published: 2023-11-09T20:23:39.042535+00:00
+ - user: None
+ - tags: []
+
+## FOX19 | Cincinnati
+ - [https://www.fox19.com](https://www.fox19.com)
+ - date published: 2023-10-25T11:03:39.176612+00:00
+ - user: None
+ - tags: []
+
+## FOX 2 Detroit
+ - [https://www.fox2detroit.com](https://www.fox2detroit.com)
+ - date published: 2023-10-25T11:03:56.232571+00:00
+ - user: None
+ - tags: []
+
+## FOX 4 News Dallas-Fort Worth
+ - [https://fox4news.com](https://fox4news.com)
+ - date published: 2023-11-07T15:12:46.586235+00:00
+ - user: None
+ - tags: []
+
+## FOX 4 News Dallas-Fort Worth
+ - [https://www.fox4news.com](https://www.fox4news.com)
+ - date published: 2023-10-25T11:04:13.925923+00:00
+ - user: None
+ - tags: []
+
+## Fox 4 News | WFTX - Southwest Florida | Fox4Now.com - Home
+ - [https://www.fox4now.com](https://www.fox4now.com)
+ - date published: 2023-10-25T11:04:21.031601+00:00
+ - user: None
+ - tags: []
+
+## FOX 5 DC
+ - [https://www.fox5dc.com](https://www.fox5dc.com)
+ - date published: 2023-10-25T11:04:31.305284+00:00
+ - user: None
+ - tags: []
+
+## FOX 5 New York
+ - [https://www.fox5ny.com](https://www.fox5ny.com)
+ - date published: 2023-11-01T17:47:22.130538+00:00
+ - user: None
+ - tags: []
+
+## FOX 7 Austin
+ - [https://www.fox7austin.com](https://www.fox7austin.com)
+ - date published: 2023-10-25T11:04:44.675389+00:00
+ - user: None
+ - tags: []
+
+## FOX 9 Minneapolis-St. Paul
+ - [https://www.fox9.com](https://www.fox9.com)
+ - date published: 2023-10-25T11:04:58.976088+00:00
+ - user: None
+ - tags: []
+
+## Fox Business | Business News &Stock Quotes - Saving & Investing
+ - [https://www.foxbusiness.com](https://www.foxbusiness.com)
+ - date published: 2023-10-25T10:57:40.272562+00:00
+ - user: None
+ - tags: []
+
 ## FOX 11 Los Angeles
  - [https://www.foxla.com](https://www.foxla.com)
  - date published: 2023-10-25T09:29:54.593194+00:00
@@ -277,6 +367,12 @@
 ## Ain't it funny how the knight moves?
  - [https://www.funnyhowtheknightmoves.com](https://www.funnyhowtheknightmoves.com)
  - date published: 2023-10-25T14:39:54.444676+00:00
+ - user: None
+ - tags: []
+
+## Furbes
+ - [https://furbes.com](https://furbes.com)
+ - date published: 2023-11-10T00:50:03.270668+00:00
  - user: None
  - tags: []
 
@@ -1067,6 +1163,12 @@
  - user: None
  - tags: []
 
+## Monaspace
+ - [https://monaspace.githubnext.com](https://monaspace.githubnext.com)
+ - date published: 2023-11-09T20:16:34+00:00
+ - user: None
+ - tags: []
+
 ## GitHub Status
  - [https://www.githubstatus.com](https://www.githubstatus.com)
  - date published: 2023-10-25T14:45:11.841528+00:00
@@ -1205,6 +1307,12 @@
  - user: None
  - tags: []
 
+## GMA Network
+ - [https://www.gmanetwork.com](https://www.gmanetwork.com)
+ - date published: 2023-11-09T03:55:55+00:00
+ - user: rumpel
+ - tags: ['philippine news']
+
 ## GMUNK
  - [https://gmunk.com](https://gmunk.com)
  - date published: 2023-10-25T14:46:51.066856+00:00
@@ -1246,6 +1354,12 @@
  - date published: 2023-10-24T20:11:00.912262+00:00
  - user: None
  - tags: ['game store']
+
+## Going Medieval
+ - [https://going-medieval.com](https://going-medieval.com)
+ - date published: 2023-11-09T21:44:17.263991+00:00
+ - user: None
+ - tags: []
 
 ## Golang Example
  - [https://golangexample.com](https://golangexample.com)
@@ -2003,6 +2117,12 @@
 ## Home | Guernsey Press
  - [https://guernseypress.com](https://guernseypress.com)
  - date published: 2023-10-25T14:52:45.193590+00:00
+ - user: None
+ - tags: []
+
+## HN: I built a tool to create interactive demo in seconds for SaaS
+ - [https://www.guideflow.com](https://www.guideflow.com)
+ - date published: 2023-11-09T09:56:39+00:00
  - user: None
  - tags: []
 
@@ -2957,6 +3077,12 @@
 ## Hopfions in modern physics. Hopfion description
  - [http://hopfion.com](http://hopfion.com)
  - date published: 2023-10-25T15:00:47.115452+00:00
+ - user: None
+ - tags: []
+
+## Hoppscotch • Make better APIs
+ - [https://hoppscotch.com](https://hoppscotch.com)
+ - date published: 2023-11-09T11:44:46.047949+00:00
  - user: None
  - tags: []
 
@@ -4886,6 +5012,12 @@
  - user: None
  - tags: []
 
+## Ji'hyn's Webbed Site – Thinkin' 'bout stuff
+ - [https://jihyn.com](https://jihyn.com)
+ - date published: 2023-11-09T19:01:08.263803+00:00
+ - user: None
+ - tags: []
+
 ## Jim Nielsen’s Blog
  - [https://blog.jim-nielsen.com](https://blog.jim-nielsen.com)
  - date published: 2023-10-25T15:29:09.082962+00:00
@@ -5861,139 +5993,6 @@
 ## KGOnTech – Karl Guttag On Technology
  - [https://kguttag.com](https://kguttag.com)
  - date published: 2023-10-25T15:36:49.596060+00:00
- - user: None
- - tags: []
-
-## Latest Posts  |
-      Khalid Abuhakmeh
- - [https://khalidabuhakmeh.com](https://khalidabuhakmeh.com)
- - date published: 2023-10-25T15:36:57.339652+00:00
- - user: None
- - tags: []
-
-## ESP32
- - [http://esp.khalsalabs.com](http://esp.khalsalabs.com)
- - date published: 2023-11-05T18:55:24.401739+00:00
- - user: rumpel
- - tags: []
-
-## KhalsaLabs
- - [https://khalsalabs.com](https://khalsalabs.com)
- - date published: 2023-11-06T09:36:09.883241+00:00
- - user: None
- - tags: ['tech news']
-
-## Cambodia News Home - Khmer Times
- - [https://www.khmertimeskh.com](https://www.khmertimeskh.com)
- - date published: 2023-10-25T15:37:02.303950+00:00
- - user: None
- - tags: []
-
-## КАК УБИТЬ ДРАКОНА?
- - [https://dragonbook.khodorkovsky.com](https://dragonbook.khodorkovsky.com)
- - date published: 2023-10-25T15:37:08.829000+00:00
- - user: None
- - tags: []
-
-## Access Denied
- - [https://www.khou.com](https://www.khou.com)
- - date published: 2023-10-25T15:37:09.537350+00:00
- - user: None
- - tags: []
-
-## Potassium Iodide Anti-Radiation Pill, NukAlert & Nuclear Crisis FAQ. Radiation Detectors, Meters, Geiger Counters & Potassium Iodine Iodate pills
- - [http://ki4u.com](http://ki4u.com)
- - date published: 2023-10-25T15:37:10.999533+00:00
- - user: None
- - tags: []
-
-## Potassium Iodide Anti-Radiation Pill, NukAlert & Nuclear Crisis FAQ. Radiation Detectors, Meters, Geiger Counters & Potassium Iodine Iodate pills
- - [http://www.ki4u.com](http://www.ki4u.com)
- - date published: 2023-10-25T15:37:12.601421+00:00
- - user: None
- - tags: []
-
-## Main
- - [https://www.kia.com](https://www.kia.com)
- - date published: 2023-11-01T08:42:25.388134+00:00
- - user: None
- - tags: ['company', 'car producer']
-
-## Real-time Software For Business-Critical Applications | Kickstage
- - [https://kickstage.com](https://kickstage.com)
- - date published: 2023-10-25T15:37:16.966035+00:00
- - user: None
- - tags: []
-
-## https://www.kickstarter.com
- - [https://www.kickstarter.com](https://www.kickstarter.com)
- - date published: 2023-10-25T11:34:13.762253+00:00
- - user: None
- - tags: ['crowdfunding']
-
-## Kilian Valkhof
- - [https://kilianvalkhof.com](https://kilianvalkhof.com)
- - date published: 2023-10-25T15:37:18.080803+00:00
- - user: None
- - tags: []
-
-## Google Graveyard - Killed by Google
- - [https://killedbygoogle.com](https://killedbygoogle.com)
- - date published: 2023-10-25T15:37:23.961973+00:00
- - user: None
- - tags: []
-
-## A new era of authentication - Kinde
- - [https://kinde.com](https://kinde.com)
- - date published: 2023-10-25T15:37:26.153431+00:00
- - user: None
- - tags: []
-
-## cek.log : Geeky rants from Charlie Kindel...
- - [https://ceklog.kindel.com](https://ceklog.kindel.com)
- - date published: 2023-10-25T09:25:45.647823+00:00
- - user: None
- - tags: ['personal']
-
-## Casa | Alejandro AR (kinduff)
- - [https://kinduff.com](https://kinduff.com)
- - date published: 2023-10-25T15:37:27.297746+00:00
- - user: None
- - tags: []
-
-## Kinsta® Cloud Hosting - All Your Projects in One Platform
- - [https://kinsta.com](https://kinsta.com)
- - date published: 2023-10-25T15:37:30.397385+00:00
- - user: None
- - tags: []
-
-## Kirkus Reviews
- - [https://www.kirkusreviews.com](https://www.kirkusreviews.com)
- - date published: 2023-10-25T15:37:36.619388+00:00
- - user: None
- - tags: []
-
-## Live Gold Prices | Gold News And Analysis | Mining News | KITCO
- - [https://www.kitco.com](https://www.kitco.com)
- - date published: 2023-10-25T15:37:43.834479+00:00
- - user: None
- - tags: []
-
-## Kite is saying farewell - Code Faster with Kite
- - [https://www.kite.com](https://www.kite.com)
- - date published: 2023-10-25T15:37:45.311140+00:00
- - user: None
- - tags: []
-
-## Kitty says hi. | Kitty Giraudel
- - [https://kittygiraudel.com](https://kittygiraudel.com)
- - date published: 2023-10-25T15:37:51.215366+00:00
- - user: None
- - tags: []
-
-## Kiwi Electronics
- - [https://www.kiwi-electronics.com](https://www.kiwi-electronics.com)
- - date published: 2023-10-28T20:22:54.470874+00:00
  - user: None
  - tags: []
 
