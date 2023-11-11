@@ -1,3 +1,219 @@
+## The Repair Association
+ - [https://www.repair.org](https://www.repair.org)
+ - date published: 2023-11-03T10:39:08.955951+00:00
+ - user: None
+ - tags: []
+
+## Resilience
+ - [https://www.resilience.org](https://www.resilience.org)
+ - date published: 2023-10-25T22:03:05.665315+00:00
+ - user: None
+ - tags: []
+
+## Resolution Foundation • Analysis and action on living standards
+ - [https://www.resolutionfoundation.org](https://www.resolutionfoundation.org)
+ - date published: 2023-10-25T22:03:08.429417+00:00
+ - user: None
+ - tags: []
+
+## Official.Resource.Org
+ - [https://official.resource.org](https://official.resource.org)
+ - date published: 2023-10-25T22:03:09.381581+00:00
+ - user: None
+ - tags: []
+
+## Home - Responsible Statecraft
+ - [https://responsiblestatecraft.org](https://responsiblestatecraft.org)
+ - date published: 2023-10-25T22:03:17.450852+00:00
+ - user: None
+ - tags: []
+
+## Rest of World - Reporting Global Tech Stories
+ - [https://restofworld.org](https://restofworld.org)
+ - date published: 2023-10-25T22:03:21.741352+00:00
+ - user: None
+ - tags: []
+
+## Unleash the Science of Learning – Retrieval Practice
+ - [https://www.retrievalpractice.org](https://www.retrievalpractice.org)
+ - date published: 2023-10-25T22:03:23.382603+00:00
+ - user: None
+ - tags: []
+
+## http://www.retroforth.org
+ - [http://www.retroforth.org](http://www.retroforth.org)
+ - date published: 2023-10-25T22:03:24.082210+00:00
+ - user: None
+ - tags: []
+
+## » RFC Editor
+ - [https://www.rfc-editor.org](https://www.rfc-editor.org)
+ - date published: 2023-10-25T22:03:26.421150+00:00
+ - user: None
+ - tags: []
+
+## Radio Free Europe/Radio Liberty
+ - [https://www.rferl.org](https://www.rferl.org)
+ - date published: 2023-11-06T18:21:07.940965+00:00
+ - user: None
+ - tags: []
+
+## Rhino Linux
+ - [https://rhinolinux.org](https://rhinolinux.org)
+ - date published: 2023-10-25T22:03:28.922070+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Right Wing Watch
+ - [https://www.rightwingwatch.org](https://www.rightwingwatch.org)
+ - date published: 2023-11-01T06:03:39.439988+00:00
+ - user: None
+ - tags: []
+
+## ror-website
+ - [https://www.rigsofrods.org](https://www.rigsofrods.org)
+ - date published: 2023-10-25T22:03:29.951694+00:00
+ - user: None
+ - tags: []
+
+## rinzewind.org: choose your language
+ - [https://rinzewind.org](https://rinzewind.org)
+ - date published: 2023-10-25T22:03:31.110631+00:00
+ - user: None
+ - tags: []
+
+## RISC-V International – RISC-V: The Open Standard RISC Instruction Set Architecture
+ - [https://riscv.org](https://riscv.org)
+ - date published: 2023-10-25T22:03:35.635398+00:00
+ - user: None
+ - tags: []
+
+## RISC-V Assembly Programming
+ - [https://riscv-programming.org](https://riscv-programming.org)
+ - date published: 2023-10-25T22:03:36.272967+00:00
+ - user: None
+ - tags: []
+
+## Articles On Linux, Command-line & Software Engineering
+ - [https://blog.robertelder.org](https://blog.robertelder.org)
+ - date published: 2023-10-25T22:03:37.326786+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Robert H Jackson Center
+ - [https://www.roberthjackson.org](https://www.roberthjackson.org)
+ - date published: 2023-10-25T22:03:42.146332+00:00
+ - user: None
+ - tags: []
+
+## Robot Framework
+ - [https://robotframework.org](https://robotframework.org)
+ - date published: 2023-10-25T22:03:42.661228+00:00
+ - user: None
+ - tags: []
+
+## Rocky Linux
+ - [https://rockylinux.org](https://rockylinux.org)
+ - date published: 2023-10-25T22:03:43.968856+00:00
+ - user: None
+ - tags: []
+
+## Home - Rodef Shalom 613
+ - [https://www.rodefshalom613.org](https://www.rodefshalom613.org)
+ - date published: 2023-10-27T12:06:58.791396+00:00
+ - user: None
+ - tags: []
+
+## The Roots of Progress
+ - [https://rootsofprogress.org](https://rootsofprogress.org)
+ - date published: 2023-10-27T12:07:01.975017+00:00
+ - user: None
+ - tags: []
+
+## ROS Discourse
+ - [https://discourse.ros.org](https://discourse.ros.org)
+ - date published: 2023-10-31T21:37:52.061749+00:00
+ - user: None
+ - tags: []
+
+## Redirect Page
+ - [http://rosecompiler.org](http://rosecompiler.org)
+ - date published: 2023-10-27T12:07:07.571520+00:00
+ - user: None
+ - tags: []
+
+## https://royalsocietypublishing.org
+ - [https://royalsocietypublishing.org](https://royalsocietypublishing.org)
+ - date published: 2023-10-27T12:07:07.849182+00:00
+ - user: None
+ - tags: []
+
+## Fallen Flag Railroad Photos
+ - [https://www.rr-fallenflags.org](https://www.rr-fallenflags.org)
+ - date published: 2023-10-25T22:04:34.495586+00:00
+ - user: None
+ - tags: []
+
+## $HOME :: rsapkf.org
+ - [https://rsapkf.org](https://rsapkf.org)
+ - date published: 2023-10-25T22:04:36.393939+00:00
+ - user: None
+ - tags: []
+
+## RSC Publishing Home – Chemical Science Journals, Books and Databases
+ - [https://pubs.rsc.org](https://pubs.rsc.org)
+ - date published: 2023-10-25T22:04:39.470576+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://rsf.org](https://rsf.org)
+ - date published: 2023-11-04T05:27:56.792967+00:00
+ - user: None
+ - tags: []
+
+## https://pubs.rsna.org
+ - [https://pubs.rsna.org](https://pubs.rsna.org)
+ - date published: 2023-10-25T22:04:40.820372+00:00
+ - user: None
+ - tags: []
+
+## rss-bridge.org
+ - [https://rss-bridge.org](https://rss-bridge.org)
+ - date published: 2023-10-25T22:04:41.853594+00:00
+ - user: None
+ - tags: []
+
+## RSS Advisory Board
+ - [https://www.rssboard.org](https://www.rssboard.org)
+ - date published: 2023-10-25T22:04:44.575114+00:00
+ - user: None
+ - tags: []
+
+## docs.ruby-lang.org
+ - [https://docs.ruby-lang.org](https://docs.ruby-lang.org)
+ - date published: 2023-10-25T22:04:45.654923+00:00
+ - user: None
+ - tags: []
+
+## Ruby Programming Language
+ - [https://www.ruby-lang.org](https://www.ruby-lang.org)
+ - date published: 2023-10-25T22:04:46.800323+00:00
+ - user: None
+ - tags: []
+
+## Ruby on Rails
+ - [https://rubyonrails.org](https://rubyonrails.org)
+ - date published: 2023-10-25T08:31:28.729010+00:00
+ - user: None
+ - tags: []
+
+## RSF
+ - [https://www.russellsage.org](https://www.russellsage.org)
+ - date published: 2023-10-25T22:04:52.238484+00:00
+ - user: None
+ - tags: []
+
 ## cs4414: Operating Systems
  - [https://rust-class.org](https://rust-class.org)
  - date published: 2023-11-08T19:28:02.140877+00:00
@@ -3430,6 +3646,12 @@ is forbidden
  - user: None
  - tags: ['news']
 
+## Krytyka Polityczna – największy lewicowy dziennik w Polsce
+ - [https://krytykapolityczna.pl](https://krytykapolityczna.pl)
+ - date published: 2023-11-10T17:18:24.333837+00:00
+ - user: None
+ - tags: []
+
 ## Ministerstwo memów, zdjęć i innych śmiesznych obrazków - KWEJK.pl
  - [https://kwejk.pl](https://kwejk.pl)
  - date published: 2023-10-25T11:30:00.177575+00:00
@@ -4662,7 +4884,7 @@ is forbidden
  - [https://www.re](https://www.re)
  - date published: 2023-11-09T15:44:52.051414+00:00
  - user: None
- - tags: []
+ - tags: ['unavailable']
 
 ## Mofi - Find perfect loops and shorten or lengthen a song seamlessly!
  - [https://mofi.loud.red](https://mofi.loud.red)
@@ -5625,6 +5847,12 @@ is forbidden
  - user: None
  - tags: ['personal']
 
+## Automa – Automate the browser by connecting blocks
+ - [https://www.automa.site](https://www.automa.site)
+ - date published: 2023-11-10T13:05:40+00:00
+ - user: None
+ - tags: []
+
 ## bit.site - Make Distributed Web faster and more reliable. - bit.site
  - [https://bit.site](https://bit.site)
  - date published: 2023-10-25T22:39:13.932367+00:00
@@ -5774,233 +6002,4 @@ is forbidden
  - date published: 2023-10-25T22:40:08.100234+00:00
  - user: None
  - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://yaofu.notion.site](https://yaofu.notion.site)
- - date published: 2023-10-25T22:40:15.132648+00:00
- - user: None
- - tags: []
-
-## permission.site
- - [https://permission.site](https://permission.site)
- - date published: 2023-10-25T22:40:18.074064+00:00
- - user: None
- - tags: []
-
-## Reflect Notes
- - [https://reflect.site](https://reflect.site)
- - date published: 2023-10-25T22:40:25.344272+00:00
- - user: None
- - tags: []
-
-## Shift Happens newsletter
- - [https://newsletter.shifthappens.site](https://newsletter.shifthappens.site)
- - date published: 2023-10-25T22:40:27.644529+00:00
- - user: None
- - tags: []
-
-## Shift Happens
- - [https://shifthappens.site](https://shifthappens.site)
- - date published: 2023-10-25T22:40:33.666065+00:00
- - user: None
- - tags: []
-
-## timor's site
- - [https://timor.site](https://timor.site)
- - date published: 2023-10-25T09:24:39.424560+00:00
- - user: None
- - tags: ['personal']
-
-## The Topos Lab
- - [https://topos.site](https://topos.site)
- - date published: 2023-10-25T22:40:37.112240+00:00
- - user: None
- - tags: []
-
-## Amiga on PC/Mac/Raspberry | AmiKit - Modern Retro Amiga
- - [https://www.amikit.amiga.sk](https://www.amikit.amiga.sk)
- - date published: 2023-11-02T10:51:09.860795+00:00
- - user: None
- - tags: ['amiga']
-
-## Michal's low level corner
- - [https://migeel.sk](https://migeel.sk)
- - date published: 2023-10-25T08:55:55.090139+00:00
- - user: None
- - tags: ['personal']
-
-## Staré Hry Na Stiahnutie :: DJ OldGames
- - [https://www.oldgames.sk](https://www.oldgames.sk)
- - date published: 2023-11-02T09:17:26.938750+00:00
- - user: None
- - tags: ['commodore', 'old games', 'abandonware', 'dos', 'retro games', 'amiga']
-
-## cgad.ski
- - [https://cgad.ski](https://cgad.ski)
- - date published: 2023-10-28T01:56:13.112964+00:00
- - user: None
- - tags: []
-
-## Bartosz Ciechanowski
- - [https://ciechanow.ski](https://ciechanow.ski)
- - date published: 2023-10-25T09:24:42.451995+00:00
- - user: None
- - tags: ['personal']
-
-## Skin's Blog
- - [https://blog.djha.skin](https://blog.djha.skin)
- - date published: 2023-10-25T09:24:43.363018+00:00
- - user: None
- - tags: ['personal']
-
-## Beautiful, Secure, Privacy-Respecting Devices - Purism
- - [https://puri.sm](https://puri.sm)
- - date published: 2023-10-25T08:37:55.771167+00:00
- - user: None
- - tags: []
-
-## Cohesive
- - [https://www.cohesive.so](https://www.cohesive.so)
- - date published: 2023-10-25T22:40:45.366113+00:00
- - user: None
- - tags: []
-
-## Creator Economy by Peter Yang | Substack
- - [https://creatoreconomy.so](https://creatoreconomy.so)
- - date published: 2023-10-25T10:08:47.677770+00:00
- - user: None
- - tags: ['substack']
-
-## Dendron
- - [https://wiki.dendron.so](https://wiki.dendron.so)
- - date published: 2023-10-25T22:40:48.362194+00:00
- - user: None
- - tags: []
-
-## Hydra - Fast Postgres Analytics ++
- - [https://www.hydra.so](https://www.hydra.so)
- - date published: 2023-10-25T08:34:30.335331+00:00
- - user: None
- - tags: []
-
-## Service Suspended
- - [https://mimosa.so](https://mimosa.so)
- - date published: 2023-10-25T22:40:50.567686+00:00
- - user: None
- - tags: []
-
-## Notion Status
- - [https://status.notion.so](https://status.notion.so)
- - date published: 2023-10-25T22:40:58.174104+00:00
- - user: None
- - tags: []
-
-## Your connected workspace for wiki, docs & projects | Notion
- - [https://www.notion.so](https://www.notion.so)
- - date published: 2023-10-25T22:41:01.221665+00:00
- - user: None
- - tags: []
-
-## Plane - The open source project management tool
- - [https://plane.so](https://plane.so)
- - date published: 2023-10-25T22:41:04.981097+00:00
- - user: None
- - tags: []
-
-## Relate: Full, Simple Sales CRM powered by AI
- - [https://www.relate.so](https://www.relate.so)
- - date published: 2023-10-25T22:41:11.464805+00:00
- - user: None
- - tags: []
-
-## https://beta.sayhello.so
- - [https://beta.sayhello.so](https://beta.sayhello.so)
- - date published: 2023-10-25T22:41:12.269082+00:00
- - user: None
- - tags: []
-
-## Scribbler: AI-powered Summaries
- - [https://app.scribbler.so](https://app.scribbler.so)
- - date published: 2023-10-25T22:41:13.999339+00:00
- - user: None
- - tags: []
-
-## Subset - A remarkably simple way to create a spreadsheet
- - [https://about.subset.so](https://about.subset.so)
- - date published: 2023-10-25T22:41:15.156625+00:00
- - user: None
- - tags: []
-
-## The Sequin Blog
- - [https://blog.syncinc.so](https://blog.syncinc.so)
- - date published: 2023-10-25T11:29:17.861449+00:00
- - user: None
- - tags: []
-
-## Free Online Form Builder | Tally
- - [https://tally.so](https://tally.so)
- - date published: 2023-10-25T22:41:21.758592+00:00
- - user: None
- - tags: []
-
-## Telematica | Universal API for EVs and energy devices
- - [https://www.telematica.so](https://www.telematica.so)
- - date published: 2023-10-25T22:41:23.982087+00:00
- - user: None
- - tags: []
-
-## Tidepool - Tidepool by Aquarium
- - [https://www.tidepool.so](https://www.tidepool.so)
- - date published: 2023-10-25T22:41:27.323642+00:00
- - user: None
- - tags: []
-
-## Tremor – The React library to build dashboards fast
- - [https://www.tremor.so](https://www.tremor.so)
- - date published: 2023-10-25T22:41:30.193965+00:00
- - user: None
- - tags: []
-
-## Tweek Calendar — Minimal To Do list and Weekly Task Planner App
- - [https://tweek.so](https://tweek.so)
- - date published: 2023-10-25T22:41:31.700370+00:00
- - user: None
- - tags: []
-
-## Vento - Stress-Free Screen Recording
- - [https://vento.so](https://vento.so)
- - date published: 2023-10-25T22:41:33.922119+00:00
- - user: None
- - tags: []
-
-## http://abolish.social
- - [http://abolish.social](http://abolish.social)
- - date published: 2023-10-24T20:13:48.263115+00:00
- - user: None
- - tags: ['mastodon']
-
-## Aus.Social
- - [https://aus.social](https://aus.social)
- - date published: 2023-10-24T20:13:49.966651+00:00
- - user: None
- - tags: ['mastodon']
-
-## chaos.social
- - [https://chaos.social](https://chaos.social)
- - date published: 2023-10-24T20:13:50.437577+00:00
- - user: None
- - tags: ['mastodon']
-
-## The Gitea Community is asking Gitea Owners to correct
-conflicts of interest and restore Community Trust.
- - [https://gitea-open-letter.coding.social](https://gitea-open-letter.coding.social)
- - date published: 2023-10-24T20:13:51.584131+00:00
- - user: None
- - tags: ['mastodon']
-
-## Cyberplace
- - [https://cyberplace.social](https://cyberplace.social)
- - date published: 2023-10-24T20:13:52.156249+00:00
- - user: None
- - tags: ['mastodon']
 

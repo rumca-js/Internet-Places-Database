@@ -1,3 +1,129 @@
+## text/plain – ericlaw talks about security, the web, and software in general
+ - [https://textslashplain.com](https://textslashplain.com)
+ - date published: 2023-10-25T17:27:44.879677+00:00
+ - user: None
+ - tags: []
+
+## Team Fortress 2 Classic
+ - [https://tf2classic.com](https://tf2classic.com)
+ - date published: 2023-10-30T15:18:47.971437+00:00
+ - user: None
+ - tags: ['game mod']
+
+## Thai PBS World
+ - [https://www.thaipbsworld.com](https://www.thaipbsworld.com)
+ - date published: 2023-11-04T20:48:18.797299+00:00
+ - user: None
+ - tags: []
+
+## Thai Train Guide – The Railways of Thailand by Richard Barrow
+ - [https://www.thaitrainguide.com](https://www.thaitrainguide.com)
+ - date published: 2023-10-25T17:27:49.470333+00:00
+ - user: None
+ - tags: []
+
+## Thales - Building a future we can all trust
+ - [https://www.thalesgroup.com](https://www.thalesgroup.com)
+ - date published: 2023-10-25T17:27:51.414954+00:00
+ - user: None
+ - tags: []
+
+## 3D model community. Search & download free 3D models. Share 3D models
+ - [https://thangs.com](https://thangs.com)
+ - date published: 2023-10-27T10:25:36.186824+00:00
+ - user: None
+ - tags: ['assets models', '3d printing']
+
+## The finger, deal with it.
+ - [https://thatsthefinger.com](https://thatsthefinger.com)
+ - date published: 2023-10-27T10:40:28.736495+00:00
+ - user: None
+ - tags: ['wtf']
+
+## The Algorithms
+ - [https://the-algorithms.com](https://the-algorithms.com)
+ - date published: 2023-10-25T17:27:53.195977+00:00
+ - user: None
+ - tags: []
+
+## Anthony Warner
+ - [https://www.the-angry-chef.com](https://www.the-angry-chef.com)
+ - date published: 2023-10-25T17:27:54.586096+00:00
+ - user: None
+ - tags: []
+
+## Artificial Intelligence: News, Business, Science | THE DECODER
+ - [https://the-decoder.com](https://the-decoder.com)
+ - date published: 2023-10-25T17:27:56.260291+00:00
+ - user: None
+ - tags: []
+
+## The Fence – The UK’s Only Magazine - The Fence Magazine
+ - [https://www.the-fence.com](https://www.the-fence.com)
+ - date published: 2023-10-25T17:27:58.391729+00:00
+ - user: None
+ - tags: []
+
+## News | The Independent | Today's headlines and latest breaking news | The Independent
+ - [https://www.the-independent.com](https://www.the-independent.com)
+ - date published: 2023-10-30T18:59:54.254380+00:00
+ - user: None
+ - tags: ['news']
+
+## The investing desk
+ - [https://www.the-investing-desk.com](https://www.the-investing-desk.com)
+ - date published: 2023-10-25T17:28:05.105433+00:00
+ - user: None
+ - tags: []
+
+## The Ninth Age
+ - [https://www.the-ninth-age.com](https://www.the-ninth-age.com)
+ - date published: 2023-11-01T18:39:46.811526+00:00
+ - user: None
+ - tags: ['tabletop games', '9th age', 'miniatures', 'wargames']
+
+## The ODIN
+ - [https://www.the-odin.com](https://www.the-odin.com)
+ - date published: 2023-10-25T17:28:13.498404+00:00
+ - user: None
+ - tags: []
+
+## Lu's blog
+ - [https://blog.the-pans.com](https://blog.the-pans.com)
+ - date published: 2023-10-25T09:21:12.558068+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Scientist - Science News, Educational Articles, Expert Opinion
+ - [https://www.the-scientist.com](https://www.the-scientist.com)
+ - date published: 2023-10-25T17:28:17.141345+00:00
+ - user: None
+ - tags: []
+
+## News, sport, celebrities and gossip | The US Sun
+ - [https://www.the-sun.com](https://www.the-sun.com)
+ - date published: 2023-10-25T17:28:21.561356+00:00
+ - user: None
+ - tags: []
+
+## The Yorkshireman - The Home Of All Things Yorkshire
+ - [https://the-yorkshireman.com](https://the-yorkshireman.com)
+ - date published: 2023-10-25T17:28:24.690732+00:00
+ - user: None
+ - tags: []
+
+## RecapioGPT | Bot Summarizer for Articles, PDFs, and more
+ - [http://theaialfred.com](http://theaialfred.com)
+ - date published: 2023-10-25T17:28:26.449751+00:00
+ - user: None
+ - tags: []
+
+## The Air Current
+ - [https://theaircurrent.com](https://theaircurrent.com)
+ - date published: 2023-10-25T17:28:30.305578+00:00
+ - user: None
+ - tags: []
+
 ## Home - The American Conservative
  - [https://www.theamericanconservative.com](https://www.theamericanconservative.com)
  - date published: 2023-10-25T17:28:33.109644+00:00
@@ -1764,6 +1890,12 @@
  - user: None
  - tags: []
 
+## Tony Mottaz
+ - [https://www.tonymottaz.com](https://www.tonymottaz.com)
+ - date published: 2023-11-10T23:40:09.155479+00:00
+ - user: None
+ - tags: []
+
 ## ToolGuyd | Tool Reviews, Deals, Industry News
  - [https://toolguyd.com](https://toolguyd.com)
  - date published: 2023-10-25T17:44:21.148611+00:00
@@ -2819,6 +2951,12 @@
 ## unixsheikh.com
  - [https://www.unixsheikh.com](https://www.unixsheikh.com)
  - date published: 2023-10-25T17:52:59.076683+00:00
+ - user: None
+ - tags: []
+
+## The Unix timestamp will begin with 17 this Tuesday
+ - [https://www.unixtimestamp.com](https://www.unixtimestamp.com)
+ - date published: 2023-11-10T18:54:54+00:00
  - user: None
  - tags: []
 
@@ -5390,7 +5528,7 @@
  - [https://www.worthynews.com](https://www.worthynews.com)
  - date published: 2023-11-10T02:33:14.187464+00:00
  - user: None
- - tags: []
+ - tags: ['news']
 
 ## World of Warcraft News and Guides
  - [https://www.wowhead.com](https://www.wowhead.com)
@@ -5857,144 +5995,6 @@
 ## Yossi Kreinin
  - [https://yosefk.com](https://yosefk.com)
  - date published: 2023-10-25T18:23:05.096406+00:00
- - user: None
- - tags: []
-
-## Yoshua Wuyts — Blog
- - [https://blog.yoshuawuyts.com](https://blog.yoshuawuyts.com)
- - date published: 2023-10-25T18:23:07.449278+00:00
- - user: None
- - tags: []
-
-## The AI Search Engine You Control | AI Chat & Apps
- - [https://you.com](https://you.com)
- - date published: 2023-10-25T18:23:08.879353+00:00
- - user: None
- - tags: []
-
-## you-tldr | Home
- - [https://www.you-tldr.com](https://www.you-tldr.com)
- - date published: 2023-10-25T18:23:10.293011+00:00
- - user: None
- - tags: []
-
-## YouMagine – YouMagine - Where makers collaborate on 3D designs 🚀
- - [https://www.youmagine.com](https://www.youmagine.com)
- - date published: 2023-10-27T10:31:57.935885+00:00
- - user: None
- - tags: ['assets models', '3d printing']
-
-## You Might Not Need JavaScript
- - [http://youmightnotneedjs.com](http://youmightnotneedjs.com)
- - date published: 2023-10-25T18:23:12.126405+00:00
- - user: None
- - tags: []
-
-## YourTango | Opening Hearts, Building Relationships, Spreading Love
- - [https://www.yourtango.com](https://www.yourtango.com)
- - date published: 2023-10-25T18:23:15.528948+00:00
- - user: None
- - tags: []
-
-## YouTube
- - [https://m.youtube.com](https://m.youtube.com)
- - date published: 2023-10-24T20:17:00.123818+00:00
- - user: None
- - tags: []
-
-## YouTube Music
- - [https://music.youtube.com](https://music.youtube.com)
- - date published: 2023-10-26T14:50:50+00:00
- - user: rumpel
- - tags: ['music', 'audio streaming']
-
-## YouTube
- - [https://www.youtube.com](https://www.youtube.com)
- - date published: 2023-10-24T20:05:58.291792+00:00
- - user: None
- - tags: ['video streaming', 'gatekeeper', 'google']
-
-## YouTube Transcript - read YouTube videos
- - [https://youtubetranscript.com](https://youtubetranscript.com)
- - date published: 2023-10-24T20:19:28.976903+00:00
- - user: None
- - tags: []
-
-## Jorge Castro
- - [https://www.ypsidanger.com](https://www.ypsidanger.com)
- - date published: 2023-10-25T18:23:17.156239+00:00
- - user: None
- - tags: []
-
-## Yubico Developers
- - [https://developers.yubico.com](https://developers.yubico.com)
- - date published: 2023-10-25T18:23:18.968885+00:00
- - user: None
- - tags: []
-
-## Yubico | YubiKey Strong Two Factor Authentication
- - [https://www.yubico.com](https://www.yubico.com)
- - date published: 2023-10-25T18:23:27.582497+00:00
- - user: None
- - tags: []
-
-## YugabyteDB—The Distributed SQL Database for Mission-Critical Applications
- - [https://www.yugabyte.com](https://www.yugabyte.com)
- - date published: 2023-10-25T18:23:30.790573+00:00
- - user: None
- - tags: []
-
-## Yuling Yao
- - [https://www.yulingyao.com](https://www.yulingyao.com)
- - date published: 2023-10-25T18:23:33.318865+00:00
- - user: None
- - tags: []
-
-## yyzkevin | Just another WordPress site
- - [https://www.yyzkevin.com](https://www.yyzkevin.com)
- - date published: 2023-10-25T18:23:38.141863+00:00
- - user: None
- - tags: []
-
-## Z505.COM
- - [https://z505.com](https://z505.com)
- - date published: 2023-10-25T18:23:39.778540+00:00
- - user: None
- - tags: []
-
-## Zachary Cohn – Zachary Cohn's Blog
- - [https://blog.zaccohn.com](https://blog.zaccohn.com)
- - date published: 2023-10-25T18:23:42.509673+00:00
- - user: None
- - tags: []
-
-## 👋 Hello
- - [https://zacdenham.com](https://zacdenham.com)
- - date published: 2023-10-25T18:23:44.548994+00:00
- - user: None
- - tags: []
-
-## Currently - Zach Klein
- - [https://zachklein.com](https://zachklein.com)
- - date published: 2023-10-25T18:23:46.449837+00:00
- - user: None
- - tags: []
-
-## zachleat.com
- - [https://www.zachleat.com](https://www.zachleat.com)
- - date published: 2023-10-25T18:23:48.541850+00:00
- - user: None
- - tags: []
-
-## Zachary Proser's portfolio site
- - [https://www.zackproser.com](https://www.zackproser.com)
- - date published: 2023-10-27T11:56:53.160498+00:00
- - user: None
- - tags: []
-
-## Zachary Proser's portfolio site
- - [https://zackproser.com](https://zackproser.com)
- - date published: 2023-10-27T11:56:54.574142+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,141 @@
+## The AI Search Engine You Control | AI Chat & Apps
+ - [https://you.com](https://you.com)
+ - date published: 2023-10-25T18:23:08.879353+00:00
+ - user: None
+ - tags: []
+
+## you-tldr | Home
+ - [https://www.you-tldr.com](https://www.you-tldr.com)
+ - date published: 2023-10-25T18:23:10.293011+00:00
+ - user: None
+ - tags: []
+
+## YouMagine – YouMagine - Where makers collaborate on 3D designs 🚀
+ - [https://www.youmagine.com](https://www.youmagine.com)
+ - date published: 2023-10-27T10:31:57.935885+00:00
+ - user: None
+ - tags: ['assets models', '3d printing']
+
+## You Might Not Need JavaScript
+ - [http://youmightnotneedjs.com](http://youmightnotneedjs.com)
+ - date published: 2023-10-25T18:23:12.126405+00:00
+ - user: None
+ - tags: []
+
+## YourTango | Opening Hearts, Building Relationships, Spreading Love
+ - [https://www.yourtango.com](https://www.yourtango.com)
+ - date published: 2023-10-25T18:23:15.528948+00:00
+ - user: None
+ - tags: []
+
+## YouTube
+ - [https://m.youtube.com](https://m.youtube.com)
+ - date published: 2023-10-24T20:17:00.123818+00:00
+ - user: None
+ - tags: []
+
+## YouTube Music
+ - [https://music.youtube.com](https://music.youtube.com)
+ - date published: 2023-10-26T14:50:50+00:00
+ - user: rumpel
+ - tags: ['music', 'audio streaming']
+
+## YouTube
+ - [https://www.youtube.com](https://www.youtube.com)
+ - date published: 2023-10-24T20:05:58.291792+00:00
+ - user: None
+ - tags: ['video streaming', 'gatekeeper', 'google']
+
+## YouTube Transcript - read YouTube videos
+ - [https://youtubetranscript.com](https://youtubetranscript.com)
+ - date published: 2023-10-24T20:19:28.976903+00:00
+ - user: None
+ - tags: []
+
+## Jorge Castro
+ - [https://www.ypsidanger.com](https://www.ypsidanger.com)
+ - date published: 2023-10-25T18:23:17.156239+00:00
+ - user: None
+ - tags: []
+
+## Yubico Developers
+ - [https://developers.yubico.com](https://developers.yubico.com)
+ - date published: 2023-10-25T18:23:18.968885+00:00
+ - user: None
+ - tags: []
+
+## Yubico | YubiKey Strong Two Factor Authentication
+ - [https://www.yubico.com](https://www.yubico.com)
+ - date published: 2023-10-25T18:23:27.582497+00:00
+ - user: None
+ - tags: []
+
+## YugabyteDB—The Distributed SQL Database for Mission-Critical Applications
+ - [https://www.yugabyte.com](https://www.yugabyte.com)
+ - date published: 2023-10-25T18:23:30.790573+00:00
+ - user: None
+ - tags: []
+
+## Yuling Yao
+ - [https://www.yulingyao.com](https://www.yulingyao.com)
+ - date published: 2023-10-25T18:23:33.318865+00:00
+ - user: None
+ - tags: []
+
+## yyzkevin | Just another WordPress site
+ - [https://www.yyzkevin.com](https://www.yyzkevin.com)
+ - date published: 2023-10-25T18:23:38.141863+00:00
+ - user: None
+ - tags: []
+
+## Z505.COM
+ - [https://z505.com](https://z505.com)
+ - date published: 2023-10-25T18:23:39.778540+00:00
+ - user: None
+ - tags: []
+
+## Zachary Cohn – Zachary Cohn's Blog
+ - [https://blog.zaccohn.com](https://blog.zaccohn.com)
+ - date published: 2023-10-25T18:23:42.509673+00:00
+ - user: None
+ - tags: []
+
+## 👋 Hello
+ - [https://zacdenham.com](https://zacdenham.com)
+ - date published: 2023-10-25T18:23:44.548994+00:00
+ - user: None
+ - tags: []
+
+## Currently - Zach Klein
+ - [https://zachklein.com](https://zachklein.com)
+ - date published: 2023-10-25T18:23:46.449837+00:00
+ - user: None
+ - tags: []
+
+## zachleat.com
+ - [https://www.zachleat.com](https://www.zachleat.com)
+ - date published: 2023-10-25T18:23:48.541850+00:00
+ - user: None
+ - tags: []
+
+## Zachary Proser's portfolio site
+ - [https://www.zackproser.com](https://www.zackproser.com)
+ - date published: 2023-10-27T11:56:53.160498+00:00
+ - user: None
+ - tags: []
+
+## Zachary Proser's portfolio site
+ - [https://zackproser.com](https://zackproser.com)
+ - date published: 2023-10-27T11:56:54.574142+00:00
+ - user: None
+ - tags: []
+
+## zannzen
+ - [http://www.zannzen.com](http://www.zannzen.com)
+ - date published: 2023-10-25T18:24:16.904827+00:00
+ - user: None
+ - tags: []
+
 ## Zapier | Automation that moves you forward
  - [https://zapier.com](https://zapier.com)
  - date published: 2023-10-25T18:24:27.455409+00:00
@@ -2424,6 +2562,12 @@ home
  - user: None
  - tags: ['personal']
 
+## Sine Machine, a new additive synth · Melatonin
+ - [https://melatonin.dev](https://melatonin.dev)
+ - date published: 2023-11-10T14:03:59.822755+00:00
+ - user: None
+ - tags: []
+
 ## mhdm.dev
  - [https://mhdm.dev](https://mhdm.dev)
  - date published: 2023-10-25T18:39:43.340614+00:00
@@ -3366,7 +3510,7 @@ home
  - [https://csdb.dk](https://csdb.dk)
  - date published: 2023-10-25T11:17:26.783143+00:00
  - user: None
- - tags: ['social forum', 'commodore']
+ - tags: ['social forum', 'commodore', 'demoscene']
 
 ## Datatilsynet
  - [https://www.datatilsynet.dk](https://www.datatilsynet.dk)
@@ -4797,6 +4941,12 @@ home
  - user: None
  - tags: []
 
+## Protégé: A free, open-source ontology editor for building intelligent systems
+ - [https://protege.stanford.edu](https://protege.stanford.edu)
+ - date published: 2023-11-10T17:29:05+00:00
+ - user: None
+ - tags: []
+
 ## Sebastian Thrun – Home
  - [http://robots.stanford.edu](http://robots.stanford.edu)
  - date published: 2023-10-25T18:58:43.127336+00:00
@@ -5856,156 +6006,6 @@ home
 ## The Local - Spain's news in English
  - [https://www.thelocal.es](https://www.thelocal.es)
  - date published: 2023-11-09T21:28:01.789542+00:00
- - user: None
- - tags: []
-
-## Tom's corner of the internet
- - [https://tomforb.es](https://tomforb.es)
- - date published: 2023-10-25T19:08:13.819393+00:00
- - user: None
- - tags: []
-
-## txti - Fast web pages for everybody
- - [https://txti.es](https://txti.es)
- - date published: 2023-10-25T19:08:15.517131+00:00
- - user: None
- - tags: []
-
-## Vintage Everyday
- - [https://www.vintag.es](https://www.vintag.es)
- - date published: 2023-10-25T19:08:19.055347+00:00
- - user: None
- - tags: []
-
-## yakshav.es
- - [https://yakshav.es](https://yakshav.es)
- - date published: 2023-10-25T19:08:20.882564+00:00
- - user: None
- - tags: []
-
-## about:intel - European Voices on Surveillance - about:intel
- - [https://aboutintel.eu](https://aboutintel.eu)
- - date published: 2023-10-25T19:08:32.174278+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://adamj.eu](https://adamj.eu)
- - date published: 2023-10-25T19:08:33.506682+00:00
- - user: None
- - tags: []
-
-## Internetowy sklep Modelarski Agtom - farby modelarskie modele do sklejania - Sklep Modelarski Agtom
- - [https://agtom.eu](https://agtom.eu)
- - date published: 2023-10-25T11:14:12.432348+00:00
- - user: None
- - tags: ['tabletop games', 'shop', 'wargames']
-
-## The Artificial Intelligence Act |
- - [https://artificialintelligenceact.eu](https://artificialintelligenceact.eu)
- - date published: 2023-10-25T19:08:37.980787+00:00
- - user: None
- - tags: []
-
-## ASCII Art Archive
- - [https://www.asciiart.eu](https://www.asciiart.eu)
- - date published: 2023-10-30T13:46:18.944535+00:00
- - user: None
- - tags: []
-
-## Back-on-Track
- - [https://back-on-track.eu](https://back-on-track.eu)
- - date published: 2023-10-25T19:08:41.990986+00:00
- - user: None
- - tags: []
-
-## Batchrocket.eu - Introduction
- - [https://batchrocket.eu](https://batchrocket.eu)
- - date published: 2023-10-25T19:08:43.947295+00:00
- - user: None
- - tags: []
-
-## Battery2030+ - Battery 2030+
- - [https://battery2030.eu](https://battery2030.eu)
- - date published: 2023-10-25T19:08:59.246351+00:00
- - user: None
- - tags: []
-
-## | BenQ Polska
- - [https://www.benq.eu](https://www.benq.eu)
- - date published: 2023-10-29T18:30:57.646486+00:00
- - user: None
- - tags: ['company']
-
-## Bert Hubert
- - [https://berthub.eu](https://berthub.eu)
- - date published: 2023-10-25T19:09:02.529024+00:00
- - user: None
- - tags: []
-
-## Betterbird. Simply better.
- - [https://www.betterbird.eu](https://www.betterbird.eu)
- - date published: 2023-10-25T19:09:05.014951+00:00
- - user: None
- - tags: []
-
-## Bits'n'Bites – Learning things, bit by bit…
- - [https://www.bitsnbites.eu](https://www.bitsnbites.eu)
- - date published: 2023-10-25T19:09:06.960784+00:00
- - user: None
- - tags: []
-
-## Scribe
- - [https://scribe.citizen4.eu](https://scribe.citizen4.eu)
- - date published: 2023-10-25T19:09:08.180577+00:00
- - user: None
- - tags: []
-
-## CS SYD
- - [https://cs-syd.eu](https://cs-syd.eu)
- - date published: 2023-10-25T19:09:17.766546+00:00
- - user: None
- - tags: []
-
-## Home | Daniël de Kok
- - [https://danieldk.eu](https://danieldk.eu)
- - date published: 2023-10-25T08:49:09.327114+00:00
- - user: None
- - tags: ['personal']
-
-## DeepReview - Write compelling resumes, cover letters, performance reviews and more, in just minutes.
- - [https://deepreview.eu](https://deepreview.eu)
- - date published: 2023-10-25T19:09:19.206888+00:00
- - user: None
- - tags: []
-
-## dns0.eu — The European public DNS that makes your Internet safer
- - [https://www.dns0.eu](https://www.dns0.eu)
- - date published: 2023-10-25T19:09:21.881247+00:00
- - user: None
- - tags: []
-
-## EAVI - Media Literacy for Citizenship
- - [https://eavi.eu](https://eavi.eu)
- - date published: 2023-10-25T19:09:47.932688+00:00
- - user: None
- - tags: []
-
-## ECPR's Political Science Blog - The Loop
- - [https://theloop.ecpr.eu](https://theloop.ecpr.eu)
- - date published: 2023-10-25T19:09:55.861914+00:00
- - user: None
- - tags: []
-
-## ENTSO-E Transparency Platform
- - [https://transparency.entsoe.eu](https://transparency.entsoe.eu)
- - date published: 2023-10-25T19:09:58.582217+00:00
- - user: None
- - tags: []
-
-## EquiValent
- - [https://blog.eq8.eu](https://blog.eq8.eu)
- - date published: 2023-10-25T19:10:02.527258+00:00
  - user: None
  - tags: []
 

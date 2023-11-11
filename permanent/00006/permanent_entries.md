@@ -1,3 +1,123 @@
+## SDxCentral | The Leading Resource on Next-Gen IT Infrastructure
+ - [https://www.sdxcentral.com](https://www.sdxcentral.com)
+ - date published: 2023-10-25T17:00:42.132971+00:00
+ - user: None
+ - tags: []
+
+## seanmonstar
+ - [https://seanmonstar.com](https://seanmonstar.com)
+ - date published: 2023-10-25T17:00:49.391284+00:00
+ - user: None
+ - tags: []
+
+## Search Engine Journal - SEO, Search Marketing News and Tutorials
+ - [https://www.searchenginejournal.com](https://www.searchenginejournal.com)
+ - date published: 2023-10-25T09:35:20.638084+00:00
+ - user: None
+ - tags: []
+
+## Search Engine Land - News, Search Engine Optimization (SEO), Pay-Per-Click (PPC)
+ - [https://searchengineland.com](https://searchengineland.com)
+ - date published: 2023-10-25T09:35:26.282775+00:00
+ - user: None
+ - tags: []
+
+## Seattle in Progress
+ - [https://www.seattleinprogress.com](https://www.seattleinprogress.com)
+ - date published: 2023-10-25T17:00:50.746487+00:00
+ - user: None
+ - tags: []
+
+## The Seattle Times | Local news, sports, business, politics, entertainment, travel, restaurants and opinion for Seattle and the Pacific Northwest.
+ - [https://www.seattletimes.com](https://www.seattletimes.com)
+ - date published: 2023-10-25T10:35:40.719975+00:00
+ - user: None
+ - tags: []
+
+## Sebastian Carlos – Medium
+ - [https://sebastiancarlos.com](https://sebastiancarlos.com)
+ - date published: 2023-10-25T17:00:58.658383+00:00
+ - user: None
+ - tags: []
+
+## Ahead of AI | Sebastian Raschka, PhD | Substack
+ - [https://magazine.sebastianraschka.com](https://magazine.sebastianraschka.com)
+ - date published: 2023-10-25T17:01:02.536800+00:00
+ - user: None
+ - tags: []
+
+## Sebastian Raschka, PhD
+ - [https://sebastianraschka.com](https://sebastianraschka.com)
+ - date published: 2023-10-25T09:26:05.600172+00:00
+ - user: None
+ - tags: ['personal']
+
+## Secjuice | Non-Profit Cyber Goodness
+ - [https://www.secjuice.com](https://www.secjuice.com)
+ - date published: 2023-10-25T17:01:04.524586+00:00
+ - user: None
+ - tags: []
+
+## Second Life - Second Life Community
+ - [https://community.secondlife.com](https://community.secondlife.com)
+ - date published: 2023-10-25T17:01:11.124459+00:00
+ - user: None
+ - tags: []
+
+## Secret Art of Science
+ - [https://secretartofscience.com](https://secretartofscience.com)
+ - date published: 2023-10-25T17:01:12.115930+00:00
+ - user: None
+ - tags: []
+
+## Secret Mission DC: a fun and interactive scavenger hunt around the city
+ - [https://secretmissiondc.com](https://secretmissiondc.com)
+ - date published: 2023-10-25T17:01:13.451456+00:00
+ - user: None
+ - tags: []
+
+## Secret San Francisco - Your Complete Guide To Things To Do In San Francisco
+ - [https://secretsanfrancisco.com](https://secretsanfrancisco.com)
+ - date published: 2023-10-25T17:01:15.070667+00:00
+ - user: None
+ - tags: []
+
+## Secrets of Success
+ - [https://www.secretsofsuccess.com](https://www.secretsofsuccess.com)
+ - date published: 2023-11-03T15:08:00.408650+00:00
+ - user: None
+ - tags: []
+
+## Heuristic Application Security Management Platform | Secure Blink
+ - [https://www.secureblink.com](https://www.secureblink.com)
+ - date published: 2023-10-25T17:01:18.017496+00:00
+ - user: None
+ - tags: []
+
+## Securelist | Kaspersky’s threat research and reports
+ - [https://securelist.com](https://securelist.com)
+ - date published: 2023-10-25T11:32:51.852760+00:00
+ - user: None
+ - tags: []
+
+## Symantec Enterprise Blogs
+ - [https://symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com)
+ - date published: 2023-10-25T17:01:22.426033+00:00
+ - user: None
+ - tags: []
+
+## Security Affairs - Read, think, share … Security is everyone's responsibility
+ - [https://securityaffairs.com](https://securityaffairs.com)
+ - date published: 2023-10-25T09:35:33.117030+00:00
+ - user: None
+ - tags: []
+
+## Security Magazine | The business magazine for security executives
+ - [https://www.securitymagazine.com](https://www.securitymagazine.com)
+ - date published: 2023-10-25T17:01:25.815257+00:00
+ - user: None
+ - tags: []
+
 ## Cybersecurity News, Insights and Analysis | SecurityWeek
  - [https://www.securityweek.com](https://www.securityweek.com)
  - date published: 2023-10-25T09:35:37.584443+00:00
@@ -892,6 +1012,12 @@
  - date published: 2023-10-25T11:35:29.676605+00:00
  - user: None
  - tags: ['asset audio']
+
+## Snarling Badger Studios
+ - [https://www.snarlingbadger.com](https://www.snarlingbadger.com)
+ - date published: 2023-11-10T10:42:34.914133+00:00
+ - user: None
+ - tags: ['warhammer', 'wargames', 'tabletop games', 'magazine']
 
 ## Snopes.com | The definitive fact-checking site and reference source for urban legends, folklore, myths, rumors, and misinformation.
  - [https://www.snopes.com](https://www.snopes.com)
@@ -5864,132 +5990,6 @@
 ## T E X T F I L E S D O T C O M
  - [http://www.textfiles.com](http://www.textfiles.com)
  - date published: 2023-10-25T17:27:38.764706+00:00
- - user: None
- - tags: []
-
-## textshader
- - [https://textshader.com](https://textshader.com)
- - date published: 2023-10-25T17:27:39.371628+00:00
- - user: None
- - tags: []
-
-## text/plain – ericlaw talks about security, the web, and software in general
- - [https://textslashplain.com](https://textslashplain.com)
- - date published: 2023-10-25T17:27:44.879677+00:00
- - user: None
- - tags: []
-
-## Team Fortress 2 Classic
- - [https://tf2classic.com](https://tf2classic.com)
- - date published: 2023-10-30T15:18:47.971437+00:00
- - user: None
- - tags: ['game mod']
-
-## Thai PBS World
- - [https://www.thaipbsworld.com](https://www.thaipbsworld.com)
- - date published: 2023-11-04T20:48:18.797299+00:00
- - user: None
- - tags: []
-
-## Thai Train Guide – The Railways of Thailand by Richard Barrow
- - [https://www.thaitrainguide.com](https://www.thaitrainguide.com)
- - date published: 2023-10-25T17:27:49.470333+00:00
- - user: None
- - tags: []
-
-## Thales - Building a future we can all trust
- - [https://www.thalesgroup.com](https://www.thalesgroup.com)
- - date published: 2023-10-25T17:27:51.414954+00:00
- - user: None
- - tags: []
-
-## 3D model community. Search & download free 3D models. Share 3D models
- - [https://thangs.com](https://thangs.com)
- - date published: 2023-10-27T10:25:36.186824+00:00
- - user: None
- - tags: ['assets models', '3d printing']
-
-## The finger, deal with it.
- - [https://thatsthefinger.com](https://thatsthefinger.com)
- - date published: 2023-10-27T10:40:28.736495+00:00
- - user: None
- - tags: ['wtf']
-
-## The Algorithms
- - [https://the-algorithms.com](https://the-algorithms.com)
- - date published: 2023-10-25T17:27:53.195977+00:00
- - user: None
- - tags: []
-
-## Anthony Warner
- - [https://www.the-angry-chef.com](https://www.the-angry-chef.com)
- - date published: 2023-10-25T17:27:54.586096+00:00
- - user: None
- - tags: []
-
-## Artificial Intelligence: News, Business, Science | THE DECODER
- - [https://the-decoder.com](https://the-decoder.com)
- - date published: 2023-10-25T17:27:56.260291+00:00
- - user: None
- - tags: []
-
-## The Fence – The UK’s Only Magazine - The Fence Magazine
- - [https://www.the-fence.com](https://www.the-fence.com)
- - date published: 2023-10-25T17:27:58.391729+00:00
- - user: None
- - tags: []
-
-## News | The Independent | Today's headlines and latest breaking news | The Independent
- - [https://www.the-independent.com](https://www.the-independent.com)
- - date published: 2023-10-30T18:59:54.254380+00:00
- - user: None
- - tags: ['news']
-
-## The investing desk
- - [https://www.the-investing-desk.com](https://www.the-investing-desk.com)
- - date published: 2023-10-25T17:28:05.105433+00:00
- - user: None
- - tags: []
-
-## The Ninth Age
- - [https://www.the-ninth-age.com](https://www.the-ninth-age.com)
- - date published: 2023-11-01T18:39:46.811526+00:00
- - user: None
- - tags: ['tabletop games', '9th age', 'miniatures', 'wargames']
-
-## The ODIN
- - [https://www.the-odin.com](https://www.the-odin.com)
- - date published: 2023-10-25T17:28:13.498404+00:00
- - user: None
- - tags: []
-
-## Lu's blog
- - [https://blog.the-pans.com](https://blog.the-pans.com)
- - date published: 2023-10-25T09:21:12.558068+00:00
- - user: None
- - tags: ['personal']
-
-## The Scientist - Science News, Educational Articles, Expert Opinion
- - [https://www.the-scientist.com](https://www.the-scientist.com)
- - date published: 2023-10-25T17:28:17.141345+00:00
- - user: None
- - tags: []
-
-## News, sport, celebrities and gossip | The US Sun
- - [https://www.the-sun.com](https://www.the-sun.com)
- - date published: 2023-10-25T17:28:21.561356+00:00
- - user: None
- - tags: []
-
-## The Yorkshireman - The Home Of All Things Yorkshire
- - [https://the-yorkshireman.com](https://the-yorkshireman.com)
- - date published: 2023-10-25T17:28:24.690732+00:00
- - user: None
- - tags: []
-
-## RecapioGPT | Bot Summarizer for Articles, PDFs, and more
- - [http://theaialfred.com](http://theaialfred.com)
- - date published: 2023-10-25T17:28:26.449751+00:00
  - user: None
  - tags: []
 

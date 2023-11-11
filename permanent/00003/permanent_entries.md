@@ -1,3 +1,57 @@
+## software development systems & services
+ - [https://www.forth.com](https://www.forth.com)
+ - date published: 2023-10-25T14:35:54.553513+00:00
+ - user: None
+ - tags: []
+
+## For the Badge
+ - [http://forthebadge.com](http://forthebadge.com)
+ - date published: 2023-10-25T14:36:02.087814+00:00
+ - user: None
+ - tags: []
+
+## Global Leader of Cybersecurity Solutions and Services | Fortinet
+ - [https://www.fortinet.com](https://www.fortinet.com)
+ - date published: 2023-10-25T14:36:07.519364+00:00
+ - user: None
+ - tags: []
+
+## Fortress of Doors
+ - [https://www.fortressofdoors.com](https://www.fortressofdoors.com)
+ - date published: 2023-10-25T14:36:09.294965+00:00
+ - user: None
+ - tags: []
+
+## Fortune - Fortune 500 Daily & Breaking Business News | Fortune
+ - [https://fortune.com](https://fortune.com)
+ - date published: 2023-10-25T14:36:22.071682+00:00
+ - user: None
+ - tags: []
+
+## News That Matters to American Jews – The Forward
+ - [https://forward.com](https://forward.com)
+ - date published: 2023-10-25T14:36:25.563672+00:00
+ - user: None
+ - tags: []
+
+## FOSSA: Audit-Grade Open Source Dependency Protection
+ - [https://fossa.com](https://fossa.com)
+ - date published: 2023-10-25T14:36:27.833673+00:00
+ - user: None
+ - tags: []
+
+## FOSS Force - Keeping tech free
+ - [https://fossforce.com](https://fossforce.com)
+ - date published: 2023-10-25T09:32:58.587105+00:00
+ - user: None
+ - tags: []
+
+## Market & Opportunity Explorer for Devs · Fossfox
+ - [https://fossfox.com](https://fossfox.com)
+ - date published: 2023-10-25T14:36:32.664186+00:00
+ - user: None
+ - tags: []
+
 ## FOSS Patents
  - [http://www.fosspatents.com](http://www.fosspatents.com)
  - date published: 2023-10-25T14:36:39.372249+00:00
@@ -373,6 +427,12 @@
 ## Furbes
  - [https://furbes.com](https://furbes.com)
  - date published: 2023-11-10T00:50:03.270668+00:00
+ - user: None
+ - tags: []
+
+## Futility Closet
+ - [https://www.futilitycloset.com](https://www.futilitycloset.com)
+ - date published: 2023-11-10T09:07:41.167861+00:00
  - user: None
  - tags: []
 
@@ -1359,7 +1419,7 @@
  - [https://going-medieval.com](https://going-medieval.com)
  - date published: 2023-11-09T21:44:17.263991+00:00
  - user: None
- - tags: []
+ - tags: ['history', 'medieval']
 
 ## Golang Example
  - [https://golangexample.com](https://golangexample.com)
@@ -2546,6 +2606,12 @@
  - user: None
  - tags: []
 
+## Hawaii News Now - Breaking News, Latest News, Weather & Traffic
+ - [https://www.hawaiinewsnow.com](https://www.hawaiinewsnow.com)
+ - date published: 2023-11-10T15:38:49.585422+00:00
+ - user: None
+ - tags: []
+
 ## Haynes repair and workshop manuals | Print & Digital | DIY friendly
  - [https://haynes.com](https://haynes.com)
  - date published: 2023-10-25T14:56:53.770534+00:00
@@ -3389,6 +3455,12 @@
 ## Hypebot
  - [https://www.hypebot.com](https://www.hypebot.com)
  - date published: 2023-10-27T11:55:14.224062+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://hyperallergic.com](https://hyperallergic.com)
+ - date published: 2023-11-11T10:15:47.959186+00:00
  - user: None
  - tags: []
 
@@ -4520,6 +4592,12 @@
  - user: None
  - tags: ['personal']
 
+## jacksonprogress-argus.com
+ - [https://www.jacksonprogress-argus.com](https://www.jacksonprogress-argus.com)
+ - date published: 2023-11-11T07:53:49.320058+00:00
+ - user: None
+ - tags: []
+
 ## Jacob Does Code
  - [https://jacobdoescode.com](https://jacobdoescode.com)
  - date published: 2023-10-25T08:46:14.075308+00:00
@@ -4885,6 +4963,12 @@
  - date published: 2023-10-25T09:20:58.479167+00:00
  - user: None
  - tags: ['personal']
+
+## Holy Ghost Stories – Faith, technology, and everything in between.
+ - [https://www.jeffwofford.com](https://www.jeffwofford.com)
+ - date published: 2023-11-10T23:40:06.837839+00:00
+ - user: None
+ - tags: []
 
 ## Jellylade
  - [https://app.jellylade.com](https://app.jellylade.com)
@@ -5279,6 +5363,12 @@
 ## AI for Tech Support
  - [https://www.jointwig.com](https://www.jointwig.com)
  - date published: 2023-10-25T15:31:05.890192+00:00
+ - user: None
+ - tags: []
+
+## Joltmailer
+ - [https://joltmailer.com](https://joltmailer.com)
+ - date published: 2023-11-10T11:04:46.045640+00:00
  - user: None
  - tags: []
 
@@ -5903,96 +5993,6 @@
 ## Kerbal Space Program Forums
  - [https://forum.kerbalspaceprogram.com](https://forum.kerbalspaceprogram.com)
  - date published: 2023-10-25T08:39:16.787582+00:00
- - user: None
- - tags: []
-
-## Sylvain Kerkour
- - [https://kerkour.com](https://kerkour.com)
- - date published: 2023-10-25T08:46:46.409680+00:00
- - user: None
- - tags: ['personal']
-
-## Kerrick Long’s Home Page
- - [https://kerricklong.com](https://kerricklong.com)
- - date published: 2023-10-25T15:36:29.663619+00:00
- - user: None
- - tags: []
-
-## kevingal.com
- - [https://kevingal.com](https://kevingal.com)
- - date published: 2023-10-25T15:36:30.394253+00:00
- - user: None
- - tags: []
-
-## Kevin Lynagh
- - [https://kevinlynagh.com](https://kevinlynagh.com)
- - date published: 2023-10-25T15:36:31.915798+00:00
- - user: None
- - tags: []
-
-## Kevin Marks
- - [https://www.kevinmarks.com](https://www.kevinmarks.com)
- - date published: 2023-10-25T15:36:33.157019+00:00
- - user: None
- - tags: []
-
-## Bit by Bit | Kevin Lin | Substack
- - [https://bit.kevinslin.com](https://bit.kevinslin.com)
- - date published: 2023-10-25T15:36:35.176903+00:00
- - user: None
- - tags: []
-
-## Hi 👋
- - [https://www.kevinslin.com](https://www.kevinslin.com)
- - date published: 2023-10-25T15:36:37.677790+00:00
- - user: None
- - tags: []
-
-## Kevin Yank
- - [https://kevinyank.com](https://kevinyank.com)
- - date published: 2023-10-25T15:36:38.854404+00:00
- - user: None
- - tags: []
-
-## Blog | Kev Quirk
- - [https://kevquirk.com](https://kevquirk.com)
- - date published: 2023-10-25T15:36:40.173950+00:00
- - user: None
- - tags: []
-
-## Kev Zettler
- - [https://kevzettler.com](https://kevzettler.com)
- - date published: 2023-10-25T15:36:42.199963+00:00
- - user: None
- - tags: []
-
-## Keyboard Jobs
- - [https://keyboardjobs.com](https://keyboardjobs.com)
- - date published: 2023-10-25T15:36:42.941842+00:00
- - user: None
- - tags: []
-
-## Key Discussions – are tech companies delivering on basic promises?
- - [https://keydiscussions.com](https://keydiscussions.com)
- - date published: 2023-10-27T11:55:16.696603+00:00
- - user: None
- - tags: []
-
-## Find engineering teams that share your values | Key Values
- - [https://www.keyvalues.com](https://www.keyvalues.com)
- - date published: 2023-10-25T15:36:45.585933+00:00
- - user: None
- - tags: []
-
-## KFC
- - [https://global.kfc.com](https://global.kfc.com)
- - date published: 2023-11-01T08:42:23.921787+00:00
- - user: None
- - tags: []
-
-## KGOnTech – Karl Guttag On Technology
- - [https://kguttag.com](https://kguttag.com)
- - date published: 2023-10-25T15:36:49.596060+00:00
  - user: None
  - tags: []
 

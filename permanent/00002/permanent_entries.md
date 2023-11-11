@@ -1,3 +1,33 @@
+## Embedded Engineering
+ - [https://www.circuitvalley.com](https://www.circuitvalley.com)
+ - date published: 2023-10-25T13:24:14.388051+00:00
+ - user: None
+ - tags: []
+
+## The Circus Scientist Site - Circus Scientist
+ - [https://www.circusscientist.com](https://www.circusscientist.com)
+ - date published: 2023-10-25T13:24:25.453287+00:00
+ - user: None
+ - tags: []
+
+## Cisco Blogs
+ - [https://blogs.cisco.com](https://blogs.cisco.com)
+ - date published: 2023-10-25T13:24:33.805114+00:00
+ - user: None
+ - tags: []
+
+## Networking, Cloud, and Cybersecurity Solutions
+ - [https://www.cisco.com](https://www.cisco.com)
+ - date published: 2023-10-31T13:19:01.525709+00:00
+ - user: None
+ - tags: ['company', 'technology']
+
+## news.cision.com
+ - [https://news.cision.com](https://news.cision.com)
+ - date published: 2023-10-25T13:24:47.937269+00:00
+ - user: None
+ - tags: []
+
 ## Citi | Global Investment Bank and Financial Services
  - [https://www.citigroup.com](https://www.citigroup.com)
  - date published: 2023-10-25T13:24:56.886316+00:00
@@ -681,6 +711,12 @@
  - user: None
  - tags: []
 
+## Colombia Reports
+ - [https://colombiareports.com](https://colombiareports.com)
+ - date published: 2023-11-10T11:04:46.934107+00:00
+ - user: None
+ - tags: ['colombia news']
+
 ## coloradopolitics.com | coloradopolitics.com
  - [https://www.coloradopolitics.com](https://www.coloradopolitics.com)
  - date published: 2023-10-25T13:30:44.120352+00:00
@@ -920,6 +956,12 @@
  - date published: 2023-11-01T18:37:29.679475+00:00
  - user: None
  - tags: ['tabletop games', 'miniatures']
+
+## Emi's Feed
+ - [https://coppolaemilio.com](https://coppolaemilio.com)
+ - date published: 2023-11-11T01:28:20.213648+00:00
+ - user: None
+ - tags: []
 
 ## IT programming and software development tutorials - Copy Programming
  - [https://copyprogramming.com](https://copyprogramming.com)
@@ -1777,6 +1819,12 @@
 ## Damn Interesting • Obscure true stories from science & history
  - [https://www.damninteresting.com](https://www.damninteresting.com)
  - date published: 2023-10-25T13:42:23.621997+00:00
+ - user: None
+ - tags: []
+
+## Daniel Angell
+ - [https://danangell.com](https://danangell.com)
+ - date published: 2023-11-10T09:07:42.336917+00:00
  - user: None
  - tags: []
 
@@ -3635,6 +3683,12 @@
  - user: None
  - tags: []
 
+## Lists
+ - [https://lists.eatonphil.com](https://lists.eatonphil.com)
+ - date published: 2023-11-10T16:43:03.630097+00:00
+ - user: None
+ - tags: []
+
 ## Notes on software development | notes.eatonphil.com
  - [https://notes.eatonphil.com](https://notes.eatonphil.com)
  - date published: 2023-10-25T14:02:07.570734+00:00
@@ -4863,7 +4917,7 @@
  - [https://www.fairphone.com](https://www.fairphone.com)
  - date published: 2023-11-09T14:01:46.526866+00:00
  - user: None
- - tags: []
+ - tags: ['fairphone', 'right to repair', 'smartphone']
 
 ## Fake Hacker News
  - [https://www.fakehn.com](https://www.fakehn.com)
@@ -5942,60 +5996,6 @@
 ## Ben Forta
  - [https://forta.com](https://forta.com)
  - date published: 2023-10-25T14:35:41.162914+00:00
- - user: None
- - tags: []
-
-## Home - Forte Labs
- - [https://fortelabs.com](https://fortelabs.com)
- - date published: 2023-10-25T14:35:48.567669+00:00
- - user: None
- - tags: []
-
-## software development systems & services
- - [https://www.forth.com](https://www.forth.com)
- - date published: 2023-10-25T14:35:54.553513+00:00
- - user: None
- - tags: []
-
-## For the Badge
- - [http://forthebadge.com](http://forthebadge.com)
- - date published: 2023-10-25T14:36:02.087814+00:00
- - user: None
- - tags: []
-
-## Global Leader of Cybersecurity Solutions and Services | Fortinet
- - [https://www.fortinet.com](https://www.fortinet.com)
- - date published: 2023-10-25T14:36:07.519364+00:00
- - user: None
- - tags: []
-
-## Fortress of Doors
- - [https://www.fortressofdoors.com](https://www.fortressofdoors.com)
- - date published: 2023-10-25T14:36:09.294965+00:00
- - user: None
- - tags: []
-
-## Fortune - Fortune 500 Daily & Breaking Business News | Fortune
- - [https://fortune.com](https://fortune.com)
- - date published: 2023-10-25T14:36:22.071682+00:00
- - user: None
- - tags: []
-
-## News That Matters to American Jews – The Forward
- - [https://forward.com](https://forward.com)
- - date published: 2023-10-25T14:36:25.563672+00:00
- - user: None
- - tags: []
-
-## FOSSA: Audit-Grade Open Source Dependency Protection
- - [https://fossa.com](https://fossa.com)
- - date published: 2023-10-25T14:36:27.833673+00:00
- - user: None
- - tags: []
-
-## FOSS Force - Keeping tech free
- - [https://fossforce.com](https://fossforce.com)
- - date published: 2023-10-25T09:32:58.587105+00:00
  - user: None
  - tags: []
 

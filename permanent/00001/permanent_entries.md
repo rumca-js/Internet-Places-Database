@@ -1,3 +1,15 @@
+## Adobe: Creative, marketing and document management solutions
+ - [https://get.adobe.com](https://get.adobe.com)
+ - date published: 2023-11-01T06:20:20.809265+00:00
+ - user: None
+ - tags: []
+
+## Adobe Help Center
+ - [https://helpx.adobe.com](https://helpx.adobe.com)
+ - date published: 2023-10-25T12:33:18.128561+00:00
+ - user: None
+ - tags: []
+
 ## Adobe Landing Pages
  - [https://pages.adobe.com](https://pages.adobe.com)
  - date published: 2023-10-25T12:33:18.873394+00:00
@@ -211,6 +223,12 @@
 ## AIMultiple: AI Usecases & Tools to Grow Your Business
  - [https://research.aimultiple.com](https://research.aimultiple.com)
  - date published: 2023-10-25T12:36:02.211402+00:00
+ - user: None
+ - tags: []
+
+## Ain't It Cool News: The best in movie, TV, DVD, and comic book news.
+ - [https://www.aintitcool.com](https://www.aintitcool.com)
+ - date published: 2023-11-11T06:14:23.603803+00:00
  - user: None
  - tags: []
 
@@ -3184,6 +3202,12 @@
  - user: rumpel
  - tags: ['search engine', 'artificial intelligence', 'gatekeeper']
 
+## BingeHulu: Your Ultimate Hulu Binging Destination!
+ - [https://www.bingehulu.com](https://www.bingehulu.com)
+ - date published: 2023-11-10T15:00:07.542887+00:00
+ - user: None
+ - tags: []
+
 ## Biofabrik: The Planet's Company – Circular Economy
  - [https://biofabrik.com](https://biofabrik.com)
  - date published: 2023-10-25T13:00:23.478111+00:00
@@ -3199,6 +3223,12 @@
 ## Journals Gateway | The Company of Biologists
  - [https://journals.biologists.com](https://journals.biologists.com)
  - date published: 2023-11-06T05:14:46.381516+00:00
+ - user: None
+ - tags: []
+
+## BMC Biology
+ - [https://bmcbiol.biomedcentral.com](https://bmcbiol.biomedcentral.com)
+ - date published: 2023-11-11T09:33:57.954725+00:00
  - user: None
  - tags: []
 
@@ -5967,34 +5997,4 @@
  - date published: 2023-10-25T13:24:02.589280+00:00
  - user: None
  - tags: []
-
-## Circuit Digest - Electronics Engineering News, Latest Products, Articles and Projects
- - [https://circuitdigest.com](https://circuitdigest.com)
- - date published: 2023-10-28T20:15:59.074787+00:00
- - user: None
- - tags: []
-
-## Embedded Engineering
- - [https://www.circuitvalley.com](https://www.circuitvalley.com)
- - date published: 2023-10-25T13:24:14.388051+00:00
- - user: None
- - tags: []
-
-## The Circus Scientist Site - Circus Scientist
- - [https://www.circusscientist.com](https://www.circusscientist.com)
- - date published: 2023-10-25T13:24:25.453287+00:00
- - user: None
- - tags: []
-
-## Cisco Blogs
- - [https://blogs.cisco.com](https://blogs.cisco.com)
- - date published: 2023-10-25T13:24:33.805114+00:00
- - user: None
- - tags: []
-
-## Networking, Cloud, and Cybersecurity Solutions
- - [https://www.cisco.com](https://www.cisco.com)
- - date published: 2023-10-31T13:19:01.525709+00:00
- - user: None
- - tags: ['company', 'technology']
 

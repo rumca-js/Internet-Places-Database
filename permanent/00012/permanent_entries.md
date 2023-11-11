@@ -1,3 +1,195 @@
+## Demozoo
+ - [https://demozoo.org](https://demozoo.org)
+ - date published: 2023-10-27T14:46:20.722956+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## DevTools Tips
+ - [https://devtoolstips.org](https://devtoolstips.org)
+ - date published: 2023-10-25T21:14:12.309236+00:00
+ - user: None
+ - tags: []
+
+## DFRLab - DFRLab
+ - [https://dfrlab.org](https://dfrlab.org)
+ - date published: 2023-10-25T21:14:16.103433+00:00
+ - user: None
+ - tags: []
+
+## DIEGO  VERA
+ - [https://www.diegovera.org](https://www.diegovera.org)
+ - date published: 2023-10-25T21:14:18.082525+00:00
+ - user: None
+ - tags: []
+
+## diffoscope: in-depth comparison of files, archives, and directories
+ - [https://diffoscope.org](https://diffoscope.org)
+ - date published: 2023-10-25T21:14:19.698212+00:00
+ - user: None
+ - tags: []
+
+## Dinosaur Images & Facts - The Online Database
+ - [https://dinosaurpictures.org](https://dinosaurpictures.org)
+ - date published: 2023-10-25T21:14:21.679378+00:00
+ - user: None
+ - tags: []
+
+## http://dirtyprosecutor.org
+ - [http://dirtyprosecutor.org](http://dirtyprosecutor.org)
+ - date published: 2023-10-25T21:14:23.436582+00:00
+ - user: None
+ - tags: []
+
+## Discourse is the place to build civilized communities | Discourse - Civilized Discussion
+ - [https://discourse.org](https://discourse.org)
+ - date published: 2023-10-25T21:14:25.105642+00:00
+ - user: None
+ - tags: []
+
+## distcc: a fast, free distributed C/C++ compiler
+ - [https://www.distcc.org](https://www.distcc.org)
+ - date published: 2023-10-25T21:14:26.079192+00:00
+ - user: None
+ - tags: []
+
+## Simple search
+ - [https://sh.diva-portal.org](https://sh.diva-portal.org)
+ - date published: 2023-10-25T21:14:32.161650+00:00
+ - user: None
+ - tags: []
+
+## Simple search
+ - [https://uu.diva-portal.org](https://uu.diva-portal.org)
+ - date published: 2023-10-25T21:14:33.208064+00:00
+ - user: None
+ - tags: []
+
+## Home - DivestOS Mobile
+ - [https://divestos.org](https://divestos.org)
+ - date published: 2023-10-25T21:14:34.497389+00:00
+ - user: None
+ - tags: []
+
+## Django Packages : Reusable apps, sites and tools directory for Django
+ - [https://djangopackages.org](https://djangopackages.org)
+ - date published: 2023-10-25T21:14:37.143169+00:00
+ - user: None
+ - tags: []
+
+## DJ Food | An online scrapbook by Strictly Kev aka DJ Food & Openmind.
+ - [https://www.djfood.org](https://www.djfood.org)
+ - date published: 2023-10-25T21:14:43.286931+00:00
+ - user: None
+ - tags: []
+
+## Home - D Programming Language
+ - [https://dlang.org](https://dlang.org)
+ - date published: 2023-10-25T21:14:45.334948+00:00
+ - user: None
+ - tags: []
+
+## Index - D Programming Language Discussion Forum
+ - [https://forum.dlang.org](https://forum.dlang.org)
+ - date published: 2023-10-25T21:14:51.989473+00:00
+ - user: None
+ - tags: []
+
+## Deep Learning Systems
+ - [https://dlsyscourse.org](https://dlsyscourse.org)
+ - date published: 2023-10-25T21:14:57.710621+00:00
+ - user: None
+ - tags: []
+
+## DocumentCloud
+ - [https://www.documentcloud.org](https://www.documentcloud.org)
+ - date published: 2023-10-25T21:14:58.036496+00:00
+ - user: None
+ - tags: []
+
+## The Document Foundation Blog - The home of LibreOffice
+ - [https://blog.documentfoundation.org](https://blog.documentfoundation.org)
+ - date published: 2023-10-25T21:14:59.845814+00:00
+ - user: None
+ - tags: []
+
+## LibreOffice Development Blog - Blog for the LibreOffice Developers Community; Tutorials, tips and tricks for working with the LibreOffice code
+ - [https://dev.blog.documentfoundation.org](https://dev.blog.documentfoundation.org)
+ - date published: 2023-10-25T21:15:02.330486+00:00
+ - user: None
+ - tags: []
+
+## Welcome to The Document Foundation’s wiki - The Document Foundation Wiki
+ - [https://wiki.documentfoundation.org](https://wiki.documentfoundation.org)
+ - date published: 2023-10-25T21:15:04.376783+00:00
+ - user: None
+ - tags: []
+
+## Home Page
+ - [https://doi.org](https://doi.org)
+ - date published: 2023-10-25T21:15:05.945582+00:00
+ - user: None
+ - tags: []
+
+## Dolphin Emulator - GameCube/Wii games on PC
+ - [https://dolphin-emu.org](https://dolphin-emu.org)
+ - date published: 2023-10-25T08:36:22.762291+00:00
+ - user: None
+ - tags: ['emulator']
+
+## Domain Verification Protocol
+ - [https://domainverification.org](https://domainverification.org)
+ - date published: 2023-10-25T21:15:06.523985+00:00
+ - user: None
+ - tags: []
+
+## Domain Verification Protocol
+ - [https://www.domainverification.org](https://www.domainverification.org)
+ - date published: 2023-10-25T21:15:07.191275+00:00
+ - user: None
+ - tags: []
+
+## Domestika
+ - [https://www.domestika.org](https://www.domestika.org)
+ - date published: 2023-10-24T20:19:43.752630+00:00
+ - user: None
+ - tags: ['drawing', 'tutorials', 'writing', 'courses']
+
+## The Doom Wiki at DoomWiki.org - Doom, Heretic, Hexen, Strife, and more
+ - [https://doomwiki.org](https://doomwiki.org)
+ - date published: 2023-10-25T21:15:10.502720+00:00
+ - user: None
+ - tags: []
+
+## .NET Foundation | .NET Foundation
+ - [https://dotnetfoundation.org](https://dotnetfoundation.org)
+ - date published: 2023-10-25T21:15:11.977111+00:00
+ - user: None
+ - tags: []
+
+## Welcome - Doug Engelbart Institute
+ - [https://www.dougengelbart.org](https://www.dougengelbart.org)
+ - date published: 2023-10-25T21:15:15.673050+00:00
+ - user: None
+ - tags: []
+
+## DragonFlyBSD: DragonFly BSD
+ - [https://www.dragonflybsd.org](https://www.dragonflybsd.org)
+ - date published: 2023-10-25T21:15:22.406789+00:00
+ - user: None
+ - tags: []
+
+## D.R.A.S.T.I.C. Research – D.R.A.S.T.I.C. Research
+ - [https://drasticresearch.org](https://drasticresearch.org)
+ - date published: 2023-10-25T21:15:25.874666+00:00
+ - user: None
+ - tags: []
+
+## diziet | Recent Entries
+ - [https://diziet.dreamwidth.org](https://diziet.dreamwidth.org)
+ - date published: 2023-10-25T21:15:30.379033+00:00
+ - user: None
+ - tags: []
+
 ## graydon2 | Recent Entries
  - [https://graydon2.dreamwidth.org](https://graydon2.dreamwidth.org)
  - date published: 2023-10-25T21:15:34.097894+00:00
@@ -259,6 +451,12 @@
 ## EmacsWiki: Site Map
  - [https://www.emacswiki.org](https://www.emacswiki.org)
  - date published: 2023-10-25T21:17:41.959548+00:00
+ - user: None
+ - tags: []
+
+## https://www.embopress.org
+ - [https://www.embopress.org](https://www.embopress.org)
+ - date published: 2023-11-10T20:18:27.220482+00:00
  - user: None
  - tags: []
 
@@ -529,6 +727,12 @@
 ## F4PGA - the GCC of FPGAs
  - [https://f4pga.org](https://f4pga.org)
  - date published: 2023-10-25T21:19:57.352430+00:00
+ - user: None
+ - tags: []
+
+## Re: Factor
+ - [https://re.factorcode.org](https://re.factorcode.org)
+ - date published: 2023-11-11T04:10:27.144245+00:00
  - user: None
  - tags: []
 
@@ -1656,6 +1860,12 @@
  - date published: 2023-10-25T08:54:40.981603+00:00
  - user: None
  - tags: ['personal']
+
+## American Society of Hematology
+ - [https://www.hematology.org](https://www.hematology.org)
+ - date published: 2023-11-11T10:57:39.004357+00:00
+ - user: None
+ - tags: []
 
 ## hezmatt.org
  - [https://www.hezmatt.org](https://www.hezmatt.org)
@@ -4983,6 +5193,12 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
+## Discover plants, swap seeds, plan gardens, share knowledge
+ - [https://permapeople.org](https://permapeople.org)
+ - date published: 2023-11-10T20:31:47+00:00
+ - user: None
+ - tags: []
+
 ## Pessimists Archive Newsletter | Substack
  - [https://newsletter.pessimistsarchive.org](https://newsletter.pessimistsarchive.org)
  - date published: 2023-10-25T21:57:00.476125+00:00
@@ -5784,222 +6000,6 @@ Common Weakness Enumeration
 ## Regex Licensing
  - [https://regexlicensing.org](https://regexlicensing.org)
  - date published: 2023-10-25T22:02:53.291382+00:00
- - user: None
- - tags: []
-
-## Remote Jobs - Developer, designer, marketing, sales jobs, and more | RemoteJobs.org
- - [https://remotejobs.org](https://remotejobs.org)
- - date published: 2023-10-25T22:02:55.614939+00:00
- - user: None
- - tags: []
-
-## The Repair Association
- - [https://www.repair.org](https://www.repair.org)
- - date published: 2023-11-03T10:39:08.955951+00:00
- - user: None
- - tags: []
-
-## Resilience
- - [https://www.resilience.org](https://www.resilience.org)
- - date published: 2023-10-25T22:03:05.665315+00:00
- - user: None
- - tags: []
-
-## Resolution Foundation • Analysis and action on living standards
- - [https://www.resolutionfoundation.org](https://www.resolutionfoundation.org)
- - date published: 2023-10-25T22:03:08.429417+00:00
- - user: None
- - tags: []
-
-## Official.Resource.Org
- - [https://official.resource.org](https://official.resource.org)
- - date published: 2023-10-25T22:03:09.381581+00:00
- - user: None
- - tags: []
-
-## Home - Responsible Statecraft
- - [https://responsiblestatecraft.org](https://responsiblestatecraft.org)
- - date published: 2023-10-25T22:03:17.450852+00:00
- - user: None
- - tags: []
-
-## Rest of World - Reporting Global Tech Stories
- - [https://restofworld.org](https://restofworld.org)
- - date published: 2023-10-25T22:03:21.741352+00:00
- - user: None
- - tags: []
-
-## Unleash the Science of Learning – Retrieval Practice
- - [https://www.retrievalpractice.org](https://www.retrievalpractice.org)
- - date published: 2023-10-25T22:03:23.382603+00:00
- - user: None
- - tags: []
-
-## http://www.retroforth.org
- - [http://www.retroforth.org](http://www.retroforth.org)
- - date published: 2023-10-25T22:03:24.082210+00:00
- - user: None
- - tags: []
-
-## » RFC Editor
- - [https://www.rfc-editor.org](https://www.rfc-editor.org)
- - date published: 2023-10-25T22:03:26.421150+00:00
- - user: None
- - tags: []
-
-## Radio Free Europe/Radio Liberty
- - [https://www.rferl.org](https://www.rferl.org)
- - date published: 2023-11-06T18:21:07.940965+00:00
- - user: None
- - tags: []
-
-## Rhino Linux
- - [https://rhinolinux.org](https://rhinolinux.org)
- - date published: 2023-10-25T22:03:28.922070+00:00
- - user: None
- - tags: []
-
-## Homepage | Right Wing Watch
- - [https://www.rightwingwatch.org](https://www.rightwingwatch.org)
- - date published: 2023-11-01T06:03:39.439988+00:00
- - user: None
- - tags: []
-
-## ror-website
- - [https://www.rigsofrods.org](https://www.rigsofrods.org)
- - date published: 2023-10-25T22:03:29.951694+00:00
- - user: None
- - tags: []
-
-## rinzewind.org: choose your language
- - [https://rinzewind.org](https://rinzewind.org)
- - date published: 2023-10-25T22:03:31.110631+00:00
- - user: None
- - tags: []
-
-## RISC-V International – RISC-V: The Open Standard RISC Instruction Set Architecture
- - [https://riscv.org](https://riscv.org)
- - date published: 2023-10-25T22:03:35.635398+00:00
- - user: None
- - tags: []
-
-## RISC-V Assembly Programming
- - [https://riscv-programming.org](https://riscv-programming.org)
- - date published: 2023-10-25T22:03:36.272967+00:00
- - user: None
- - tags: []
-
-## Articles On Linux, Command-line & Software Engineering
- - [https://blog.robertelder.org](https://blog.robertelder.org)
- - date published: 2023-10-25T22:03:37.326786+00:00
- - user: None
- - tags: []
-
-## Homepage - Robert H Jackson Center
- - [https://www.roberthjackson.org](https://www.roberthjackson.org)
- - date published: 2023-10-25T22:03:42.146332+00:00
- - user: None
- - tags: []
-
-## Robot Framework
- - [https://robotframework.org](https://robotframework.org)
- - date published: 2023-10-25T22:03:42.661228+00:00
- - user: None
- - tags: []
-
-## Rocky Linux
- - [https://rockylinux.org](https://rockylinux.org)
- - date published: 2023-10-25T22:03:43.968856+00:00
- - user: None
- - tags: []
-
-## Home - Rodef Shalom 613
- - [https://www.rodefshalom613.org](https://www.rodefshalom613.org)
- - date published: 2023-10-27T12:06:58.791396+00:00
- - user: None
- - tags: []
-
-## The Roots of Progress
- - [https://rootsofprogress.org](https://rootsofprogress.org)
- - date published: 2023-10-27T12:07:01.975017+00:00
- - user: None
- - tags: []
-
-## ROS Discourse
- - [https://discourse.ros.org](https://discourse.ros.org)
- - date published: 2023-10-31T21:37:52.061749+00:00
- - user: None
- - tags: []
-
-## Redirect Page
- - [http://rosecompiler.org](http://rosecompiler.org)
- - date published: 2023-10-27T12:07:07.571520+00:00
- - user: None
- - tags: []
-
-## https://royalsocietypublishing.org
- - [https://royalsocietypublishing.org](https://royalsocietypublishing.org)
- - date published: 2023-10-27T12:07:07.849182+00:00
- - user: None
- - tags: []
-
-## Fallen Flag Railroad Photos
- - [https://www.rr-fallenflags.org](https://www.rr-fallenflags.org)
- - date published: 2023-10-25T22:04:34.495586+00:00
- - user: None
- - tags: []
-
-## $HOME :: rsapkf.org
- - [https://rsapkf.org](https://rsapkf.org)
- - date published: 2023-10-25T22:04:36.393939+00:00
- - user: None
- - tags: []
-
-## RSC Publishing Home – Chemical Science Journals, Books and Databases
- - [https://pubs.rsc.org](https://pubs.rsc.org)
- - date published: 2023-10-25T22:04:39.470576+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://rsf.org](https://rsf.org)
- - date published: 2023-11-04T05:27:56.792967+00:00
- - user: None
- - tags: []
-
-## https://pubs.rsna.org
- - [https://pubs.rsna.org](https://pubs.rsna.org)
- - date published: 2023-10-25T22:04:40.820372+00:00
- - user: None
- - tags: []
-
-## rss-bridge.org
- - [https://rss-bridge.org](https://rss-bridge.org)
- - date published: 2023-10-25T22:04:41.853594+00:00
- - user: None
- - tags: []
-
-## RSS Advisory Board
- - [https://www.rssboard.org](https://www.rssboard.org)
- - date published: 2023-10-25T22:04:44.575114+00:00
- - user: None
- - tags: []
-
-## docs.ruby-lang.org
- - [https://docs.ruby-lang.org](https://docs.ruby-lang.org)
- - date published: 2023-10-25T22:04:45.654923+00:00
- - user: None
- - tags: []
-
-## Ruby Programming Language
- - [https://www.ruby-lang.org](https://www.ruby-lang.org)
- - date published: 2023-10-25T22:04:46.800323+00:00
- - user: None
- - tags: []
-
-## Ruby on Rails
- - [https://rubyonrails.org](https://rubyonrails.org)
- - date published: 2023-10-25T08:31:28.729010+00:00
  - user: None
  - tags: []
 

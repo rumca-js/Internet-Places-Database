@@ -1,3 +1,94 @@
+## Kerrick Long’s Home Page
+ - [https://kerricklong.com](https://kerricklong.com)
+ - date published: 2023-10-25T15:36:29.663619+00:00
+ - user: None
+ - tags: []
+
+## kevingal.com
+ - [https://kevingal.com](https://kevingal.com)
+ - date published: 2023-10-25T15:36:30.394253+00:00
+ - user: None
+ - tags: []
+
+## Kevin Lynagh
+ - [https://kevinlynagh.com](https://kevinlynagh.com)
+ - date published: 2023-10-25T15:36:31.915798+00:00
+ - user: None
+ - tags: []
+
+## Kevin Marks
+ - [https://www.kevinmarks.com](https://www.kevinmarks.com)
+ - date published: 2023-10-25T15:36:33.157019+00:00
+ - user: None
+ - tags: []
+
+## Bit by Bit | Kevin Lin | Substack
+ - [https://bit.kevinslin.com](https://bit.kevinslin.com)
+ - date published: 2023-10-25T15:36:35.176903+00:00
+ - user: None
+ - tags: []
+
+## Hi 👋
+ - [https://www.kevinslin.com](https://www.kevinslin.com)
+ - date published: 2023-10-25T15:36:37.677790+00:00
+ - user: None
+ - tags: []
+
+## Kevin Yank
+ - [https://kevinyank.com](https://kevinyank.com)
+ - date published: 2023-10-25T15:36:38.854404+00:00
+ - user: None
+ - tags: []
+
+## Blog | Kev Quirk
+ - [https://kevquirk.com](https://kevquirk.com)
+ - date published: 2023-10-25T15:36:40.173950+00:00
+ - user: None
+ - tags: []
+
+## Kev Zettler
+ - [https://kevzettler.com](https://kevzettler.com)
+ - date published: 2023-10-25T15:36:42.199963+00:00
+ - user: None
+ - tags: []
+
+## Keyboard Jobs
+ - [https://keyboardjobs.com](https://keyboardjobs.com)
+ - date published: 2023-10-25T15:36:42.941842+00:00
+ - user: None
+ - tags: []
+
+## Key Discussions – are tech companies delivering on basic promises?
+ - [https://keydiscussions.com](https://keydiscussions.com)
+ - date published: 2023-10-27T11:55:16.696603+00:00
+ - user: None
+ - tags: []
+
+## Find engineering teams that share your values | Key Values
+ - [https://www.keyvalues.com](https://www.keyvalues.com)
+ - date published: 2023-10-25T15:36:45.585933+00:00
+ - user: None
+ - tags: []
+
+## KFC
+ - [https://global.kfc.com](https://global.kfc.com)
+ - date published: 2023-11-01T08:42:23.921787+00:00
+ - user: None
+ - tags: []
+
+## KGOnTech – Karl Guttag On Technology
+ - [https://kguttag.com](https://kguttag.com)
+ - date published: 2023-10-25T15:36:49.596060+00:00
+ - user: None
+ - tags: []
+
+## Latest Posts  |
+      Khalid Abuhakmeh
+ - [https://khalidabuhakmeh.com](https://khalidabuhakmeh.com)
+ - date published: 2023-10-25T15:36:57.339652+00:00
+ - user: None
+ - tags: []
+
 ## ESP32
  - [http://esp.khalsalabs.com](http://esp.khalsalabs.com)
  - date published: 2023-11-05T18:55:24.401739+00:00
@@ -5142,6 +5233,12 @@ diversions.
  - user: None
  - tags: []
 
+## National Journal
+ - [https://www.nationaljournal.com](https://www.nationaljournal.com)
+ - date published: 2023-11-10T19:58:41.389822+00:00
+ - user: None
+ - tags: []
+
 ## Canada's National Observer: News & Analysis
  - [https://www.nationalobserver.com](https://www.nationalobserver.com)
  - date published: 2023-10-25T16:11:50.828726+00:00
@@ -5895,103 +5992,6 @@ diversions.
 ## nicolodavis.com
  - [https://nicolodavis.com](https://nicolodavis.com)
  - date published: 2023-10-25T16:19:20.241031+00:00
- - user: None
- - tags: []
-
-## Intelligent Investment Research - Nicoya Research
- - [https://nicoyaresearch.com](https://nicoyaresearch.com)
- - date published: 2023-10-25T16:19:22.899131+00:00
- - user: None
- - tags: []
-
-## nigamanth.com
- - [https://www.nigamanth.com](https://www.nigamanth.com)
- - date published: 2023-10-25T16:19:26.052125+00:00
- - user: None
- - tags: []
-
-## Nightingale - Home
- - [https://nightingaledvs.com](https://nightingaledvs.com)
- - date published: 2023-10-25T16:19:50.390330+00:00
- - user: None
- - tags: []
-
-## Artium Nihamkin's Blog
- - [http://www.nihamkin.com](http://www.nihamkin.com)
- - date published: 2023-10-25T16:19:55.061448+00:00
- - user: None
- - tags: []
-
-## Nihongo Lessons: Learn Japanese more efficiently than ever
- - [https://lessons.nihongo-app.com](https://lessons.nihongo-app.com)
- - date published: 2023-10-25T16:19:56.516233+00:00
- - user: None
- - tags: []
-
-## Nikkei Asia
-                            - Business, Politics, Economy and Tech News & Analysis
- - [https://asia.nikkei.com](https://asia.nikkei.com)
- - date published: 2023-10-25T10:41:13.768215+00:00
- - user: None
- - tags: []
-
-## Nikolai Vazquez
- - [https://nikolaivazquez.com](https://nikolaivazquez.com)
- - date published: 2023-10-25T08:47:21.833024+00:00
- - user: None
- - tags: ['personal']
-
-## Nikolas Bentel
- - [https://www.nikolasbentelstudio.com](https://www.nikolasbentelstudio.com)
- - date published: 2023-10-25T16:20:03.082094+00:00
- - user: None
- - tags: []
-
-## Nikon’s Small World
- - [https://www.nikonsmallworld.com](https://www.nikonsmallworld.com)
- - date published: 2023-10-27T20:10:59.160219+00:00
- - user: None
- - tags: []
-
-## NileRodgers.com :: HOME - NileRodgers.com
- - [http://www.nilerodgers.com](http://www.nilerodgers.com)
- - date published: 2023-10-25T16:20:07.587412+00:00
- - user: None
- - tags: []
-
-## Blog by Nilesh
- - [https://www.nileshonly.com](https://www.nileshonly.com)
- - date published: 2023-10-25T16:20:12.249802+00:00
- - user: None
- - tags: []
-
-## Krishna Sundarram
- - [https://blog.nindalf.com](https://blog.nindalf.com)
- - date published: 2023-10-25T16:20:17.397755+00:00
- - user: None
- - tags: []
-
-## Nintendo Official Site: Consoles, Games, News, and More
- - [https://www.nintendo.com](https://www.nintendo.com)
- - date published: 2023-10-27T12:55:02.230844+00:00
- - user: None
- - tags: ['company', 'nintendo switch']
-
-## Nintendo Life - Nintendo News & Reviews 24/7
- - [https://www.nintendolife.com](https://www.nintendolife.com)
- - date published: 2023-10-25T10:49:32.925053+00:00
- - user: None
- - tags: []
-
-## Nippon.com | Your Doorway to Japan
- - [https://www.nippon.com](https://www.nippon.com)
- - date published: 2023-10-25T16:20:19.777758+00:00
- - user: None
- - tags: []
-
-## Nipponrama - Blog about Japan and Japanese pop culture
- - [https://nipponrama.com](https://nipponrama.com)
- - date published: 2023-10-25T11:10:25.622610+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,232 @@
+## permission.site
+ - [https://permission.site](https://permission.site)
+ - date published: 2023-10-25T22:40:18.074064+00:00
+ - user: None
+ - tags: []
+
+## Reflect Notes
+ - [https://reflect.site](https://reflect.site)
+ - date published: 2023-10-25T22:40:25.344272+00:00
+ - user: None
+ - tags: []
+
+## Shift Happens newsletter
+ - [https://newsletter.shifthappens.site](https://newsletter.shifthappens.site)
+ - date published: 2023-10-25T22:40:27.644529+00:00
+ - user: None
+ - tags: []
+
+## Shift Happens
+ - [https://shifthappens.site](https://shifthappens.site)
+ - date published: 2023-10-25T22:40:33.666065+00:00
+ - user: None
+ - tags: []
+
+## timor's site
+ - [https://timor.site](https://timor.site)
+ - date published: 2023-10-25T09:24:39.424560+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Topos Lab
+ - [https://topos.site](https://topos.site)
+ - date published: 2023-10-25T22:40:37.112240+00:00
+ - user: None
+ - tags: []
+
+## Amiga on PC/Mac/Raspberry | AmiKit - Modern Retro Amiga
+ - [https://www.amikit.amiga.sk](https://www.amikit.amiga.sk)
+ - date published: 2023-11-02T10:51:09.860795+00:00
+ - user: None
+ - tags: ['amiga']
+
+## Michal's low level corner
+ - [https://migeel.sk](https://migeel.sk)
+ - date published: 2023-10-25T08:55:55.090139+00:00
+ - user: None
+ - tags: ['personal']
+
+## Staré Hry Na Stiahnutie :: DJ OldGames
+ - [https://www.oldgames.sk](https://www.oldgames.sk)
+ - date published: 2023-11-02T09:17:26.938750+00:00
+ - user: None
+ - tags: ['commodore', 'old games', 'abandonware', 'dos', 'retro games', 'amiga']
+
+## cgad.ski
+ - [https://cgad.ski](https://cgad.ski)
+ - date published: 2023-10-28T01:56:13.112964+00:00
+ - user: None
+ - tags: []
+
+## Bartosz Ciechanowski
+ - [https://ciechanow.ski](https://ciechanow.ski)
+ - date published: 2023-10-25T09:24:42.451995+00:00
+ - user: None
+ - tags: ['personal']
+
+## Skin's Blog
+ - [https://blog.djha.skin](https://blog.djha.skin)
+ - date published: 2023-10-25T09:24:43.363018+00:00
+ - user: None
+ - tags: ['personal']
+
+## Beautiful, Secure, Privacy-Respecting Devices - Purism
+ - [https://puri.sm](https://puri.sm)
+ - date published: 2023-10-25T08:37:55.771167+00:00
+ - user: None
+ - tags: []
+
+## Cohesive
+ - [https://www.cohesive.so](https://www.cohesive.so)
+ - date published: 2023-10-25T22:40:45.366113+00:00
+ - user: None
+ - tags: []
+
+## Creator Economy by Peter Yang | Substack
+ - [https://creatoreconomy.so](https://creatoreconomy.so)
+ - date published: 2023-10-25T10:08:47.677770+00:00
+ - user: None
+ - tags: ['substack']
+
+## Dendron
+ - [https://wiki.dendron.so](https://wiki.dendron.so)
+ - date published: 2023-10-25T22:40:48.362194+00:00
+ - user: None
+ - tags: []
+
+## Hydra - Fast Postgres Analytics ++
+ - [https://www.hydra.so](https://www.hydra.so)
+ - date published: 2023-10-25T08:34:30.335331+00:00
+ - user: None
+ - tags: []
+
+## Service Suspended
+ - [https://mimosa.so](https://mimosa.so)
+ - date published: 2023-10-25T22:40:50.567686+00:00
+ - user: None
+ - tags: []
+
+## Notion Status
+ - [https://status.notion.so](https://status.notion.so)
+ - date published: 2023-10-25T22:40:58.174104+00:00
+ - user: None
+ - tags: []
+
+## Your connected workspace for wiki, docs & projects | Notion
+ - [https://www.notion.so](https://www.notion.so)
+ - date published: 2023-10-25T22:41:01.221665+00:00
+ - user: None
+ - tags: []
+
+## Plane - The open source project management tool
+ - [https://plane.so](https://plane.so)
+ - date published: 2023-10-25T22:41:04.981097+00:00
+ - user: None
+ - tags: []
+
+## Relate: Full, Simple Sales CRM powered by AI
+ - [https://www.relate.so](https://www.relate.so)
+ - date published: 2023-10-25T22:41:11.464805+00:00
+ - user: None
+ - tags: []
+
+## https://beta.sayhello.so
+ - [https://beta.sayhello.so](https://beta.sayhello.so)
+ - date published: 2023-10-25T22:41:12.269082+00:00
+ - user: None
+ - tags: []
+
+## Scribbler: AI-powered Summaries
+ - [https://app.scribbler.so](https://app.scribbler.so)
+ - date published: 2023-10-25T22:41:13.999339+00:00
+ - user: None
+ - tags: []
+
+## Subset - A remarkably simple way to create a spreadsheet
+ - [https://about.subset.so](https://about.subset.so)
+ - date published: 2023-10-25T22:41:15.156625+00:00
+ - user: None
+ - tags: []
+
+## The Sequin Blog
+ - [https://blog.syncinc.so](https://blog.syncinc.so)
+ - date published: 2023-10-25T11:29:17.861449+00:00
+ - user: None
+ - tags: []
+
+## Free Online Form Builder | Tally
+ - [https://tally.so](https://tally.so)
+ - date published: 2023-10-25T22:41:21.758592+00:00
+ - user: None
+ - tags: []
+
+## Telematica | Universal API for EVs and energy devices
+ - [https://www.telematica.so](https://www.telematica.so)
+ - date published: 2023-10-25T22:41:23.982087+00:00
+ - user: None
+ - tags: []
+
+## Tidepool - Tidepool by Aquarium
+ - [https://www.tidepool.so](https://www.tidepool.so)
+ - date published: 2023-10-25T22:41:27.323642+00:00
+ - user: None
+ - tags: []
+
+## Tremor – The React library to build dashboards fast
+ - [https://www.tremor.so](https://www.tremor.so)
+ - date published: 2023-10-25T22:41:30.193965+00:00
+ - user: None
+ - tags: []
+
+## Tweek Calendar — Minimal To Do list and Weekly Task Planner App
+ - [https://tweek.so](https://tweek.so)
+ - date published: 2023-10-25T22:41:31.700370+00:00
+ - user: None
+ - tags: []
+
+## Vento - Stress-Free Screen Recording
+ - [https://vento.so](https://vento.so)
+ - date published: 2023-10-25T22:41:33.922119+00:00
+ - user: None
+ - tags: []
+
+## http://abolish.social
+ - [http://abolish.social](http://abolish.social)
+ - date published: 2023-10-24T20:13:48.263115+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Aus.Social
+ - [https://aus.social](https://aus.social)
+ - date published: 2023-10-24T20:13:49.966651+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## chaos.social
+ - [https://chaos.social](https://chaos.social)
+ - date published: 2023-10-24T20:13:50.437577+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## The Gitea Community is asking Gitea Owners to correct
+conflicts of interest and restore Community Trust.
+ - [https://gitea-open-letter.coding.social](https://gitea-open-letter.coding.social)
+ - date published: 2023-10-24T20:13:51.584131+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Cyberplace
+ - [https://cyberplace.social](https://cyberplace.social)
+ - date published: 2023-10-24T20:13:52.156249+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## DEF CON Social
+ - [https://defcon.social](https://defcon.social)
+ - date published: 2023-10-24T20:13:53.592152+00:00
+ - user: None
+ - tags: ['mastodon']
+
 ## digitalcourage.social
  - [https://digitalcourage.social](https://digitalcourage.social)
  - date published: 2023-11-09T12:46:12.081546+00:00
@@ -153,6 +382,12 @@
  - date published: 2023-10-24T20:14:29.349003+00:00
  - user: None
  - tags: ['mastodon']
+
+## Commodore Software - New Files
+ - [https://commodore.software](https://commodore.software)
+ - date published: 2023-11-10T13:02:40.505410+00:00
+ - user: None
+ - tags: ['commodore', 'retro']
 
 ## Ellie for Windows
  - [https://ellie.software](https://ellie.software)
@@ -415,6 +650,12 @@
 ## nerfstudio
  - [https://docs.nerf.studio](https://docs.nerf.studio)
  - date published: 2023-10-25T22:43:15.774720+00:00
+ - user: None
+ - tags: []
+
+## paul bowman studio
+ - [https://pdbowman.studio](https://pdbowman.studio)
+ - date published: 2023-11-10T18:20:29.303681+00:00
  - user: None
  - tags: []
 
