@@ -1,3 +1,21 @@
+## Continuous Integration and Delivery - CircleCI
+ - [https://circleci.com](https://circleci.com)
+ - date published: 2023-10-25T13:23:58.608577+00:00
+ - user: None
+ - tags: []
+
+## CircleID - Breaking Internet News, Opinions and Blogs
+ - [https://circleid.com](https://circleid.com)
+ - date published: 2023-10-25T13:24:02.589280+00:00
+ - user: None
+ - tags: []
+
+## Circuit Digest - Electronics Engineering News, Latest Products, Articles and Projects
+ - [https://circuitdigest.com](https://circuitdigest.com)
+ - date published: 2023-10-28T20:15:59.074787+00:00
+ - user: None
+ - tags: []
+
 ## Embedded Engineering
  - [https://www.circuitvalley.com](https://www.circuitvalley.com)
  - date published: 2023-10-25T13:24:14.388051+00:00
@@ -3857,6 +3875,12 @@
  - user: None
  - tags: []
 
+## Egyptian Streets
+ - [https://egyptianstreets.com](https://egyptianstreets.com)
+ - date published: 2023-11-11T23:41:04.114730+00:00
+ - user: None
+ - tags: []
+
 ## Edwin Morris, product designer and front-end developer
  - [https://ehmorris.com](https://ehmorris.com)
  - date published: 2023-10-25T14:04:14.233521+00:00
@@ -5974,28 +5998,4 @@
  - date published: 2023-10-27T10:15:17.313202+00:00
  - user: None
  - tags: ['corporate', '3d printing']
-
-## Forrester Helps Organizations Grow Through Customer Obsession
- - [https://www.forrester.com](https://www.forrester.com)
- - date published: 2023-10-25T15:10:40.006112+00:00
- - user: None
- - tags: []
-
-## ForrestTheWoods - Home
- - [https://www.forrestthewoods.com](https://www.forrestthewoods.com)
- - date published: 2023-10-25T14:35:30.429573+00:00
- - user: None
- - tags: []
-
-## blog.forret.com · Peter Forret
- - [https://blog.forret.com](https://blog.forret.com)
- - date published: 2023-10-25T14:35:33.678369+00:00
- - user: None
- - tags: []
-
-## Ben Forta
- - [https://forta.com](https://forta.com)
- - date published: 2023-10-25T14:35:41.162914+00:00
- - user: None
- - tags: []
 

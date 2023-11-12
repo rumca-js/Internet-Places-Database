@@ -1,3 +1,57 @@
+## Yisheng's blog – software engineering, poetry and short stories
+ - [https://yishenggong.com](https://yishenggong.com)
+ - date published: 2023-10-25T18:22:43.268814+00:00
+ - user: None
+ - tags: []
+
+## Kami Community - Official Kami Community. Ask questions, get answers and connect with your fellow Kami users.
+ - [https://forum.yitechnology.com](https://forum.yitechnology.com)
+ - date published: 2023-10-25T18:22:47.588798+00:00
+ - user: None
+ - tags: []
+
+## Yannic Kilcher
+ - [https://www.ykilcher.com](https://www.ykilcher.com)
+ - date published: 2023-10-25T18:22:48.702538+00:00
+ - user: None
+ - tags: []
+
+## Y.M.Cinema - News and Insights on Digital Cinema
+ - [https://ymcinema.com](https://ymcinema.com)
+ - date published: 2023-10-25T18:22:54.121601+00:00
+ - user: None
+ - tags: []
+
+## ynetnews - Homepage
+ - [https://www.ynetnews.com](https://www.ynetnews.com)
+ - date published: 2023-10-25T11:48:08.047931+00:00
+ - user: None
+ - tags: []
+
+## YoboWargames – Hex based wargames
+ - [https://www.yobowargames.com](https://www.yobowargames.com)
+ - date published: 2023-10-25T18:23:01.907368+00:00
+ - user: None
+ - tags: []
+
+## Yorick Peterse
+ - [https://yorickpeterse.com](https://yorickpeterse.com)
+ - date published: 2023-10-25T18:23:03.114867+00:00
+ - user: None
+ - tags: []
+
+## Yossi Kreinin
+ - [https://yosefk.com](https://yosefk.com)
+ - date published: 2023-10-25T18:23:05.096406+00:00
+ - user: None
+ - tags: []
+
+## Yoshua Wuyts — Blog
+ - [https://blog.yoshuawuyts.com](https://blog.yoshuawuyts.com)
+ - date published: 2023-10-25T18:23:07.449278+00:00
+ - user: None
+ - tags: []
+
 ## The AI Search Engine You Control | AI Chat & Apps
  - [https://you.com](https://you.com)
  - date published: 2023-10-25T18:23:08.879353+00:00
@@ -3043,6 +3097,12 @@ home
  - user: None
  - tags: ['personal']
 
+## ShiftMag
+ - [https://shiftmag.dev](https://shiftmag.dev)
+ - date published: 2023-11-11T21:40:32.425246+00:00
+ - user: None
+ - tags: []
+
 ## Sideko
  - [https://hacker-news.sideko.dev](https://hacker-news.sideko.dev)
  - date published: 2023-10-25T18:42:00.575012+00:00
@@ -5946,66 +6006,6 @@ home
 ## J. Ryan Stinnett
  - [https://convolv.es](https://convolv.es)
  - date published: 2023-11-10T06:49:58.797104+00:00
- - user: None
- - tags: []
-
-## Creactivities - A chatbot that exercises your creative muscles
- - [https://www.creactiviti.es](https://www.creactiviti.es)
- - date published: 2023-10-25T19:07:58.865084+00:00
- - user: None
- - tags: []
-
-## Main | CS 61B Spring 2023
- - [https://sp23.datastructur.es](https://sp23.datastructur.es)
- - date published: 2023-10-25T19:08:03.607596+00:00
- - user: None
- - tags: []
-
-## Damien Desfontaines' personal page
- - [https://desfontain.es](https://desfontain.es)
- - date published: 2023-10-25T08:59:01.998187+00:00
- - user: None
- - tags: ['personal']
-
-## On digital experiences, Open Source, Open Web, Drupal, and our digital future | Dries Buytaert
- - [https://dri.es](https://dri.es)
- - date published: 2023-10-25T19:08:04.348478+00:00
- - user: None
- - tags: []
-
-## Page Not Found
- - [https://especiales.eldiario.es](https://especiales.eldiario.es)
- - date published: 2023-11-08T15:16:25.119237+00:00
- - user: None
- - tags: []
-
-## 50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs
- - [https://golang50shad.es](https://golang50shad.es)
- - date published: 2023-10-25T19:08:05.583584+00:00
- - user: None
- - tags: []
-
-## One Piece Pirateking • Comunidad Española de One Piece
- - [https://www.pirate-king.es](https://www.pirate-king.es)
- - date published: 2023-11-07T11:03:11.060365+00:00
- - user: None
- - tags: []
-
-## ruiper.es | ruiper.es
- - [https://ruiper.es](https://ruiper.es)
- - date published: 2023-10-25T19:08:09.589824+00:00
- - user: None
- - tags: []
-
-## TC39 - Specifying JavaScript.
- - [https://tc39.es](https://tc39.es)
- - date published: 2023-10-25T19:08:11.963270+00:00
- - user: None
- - tags: []
-
-## The Local - Spain's news in English
- - [https://www.thelocal.es](https://www.thelocal.es)
- - date published: 2023-11-09T21:28:01.789542+00:00
  - user: None
  - tags: []
 

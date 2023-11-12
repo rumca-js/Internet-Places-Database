@@ -1,3 +1,93 @@
+## Raymii.org
+ - [https://raymii.org](https://raymii.org)
+ - date published: 2023-10-25T22:02:29.476274+00:00
+ - user: None
+ - tags: []
+
+## Reporters Committee for Freedom of the Press - Home
+ - [https://www.rcfp.org](https://www.rcfp.org)
+ - date published: 2023-10-25T22:02:31.122985+00:00
+ - user: None
+ - tags: []
+
+## rclone forum
+ - [https://forum.rclone.org](https://forum.rclone.org)
+ - date published: 2023-10-25T22:02:33.460676+00:00
+ - user: None
+ - tags: []
+
+## levels and maps by spirit -- maps.rcmd.org
+ - [https://maps.rcmd.org](https://maps.rcmd.org)
+ - date published: 2023-10-28T20:34:18.070153+00:00
+ - user: None
+ - tags: ['quake']
+
+## Richard Crowley
+ - [https://rcrowley.org](https://rcrowley.org)
+ - date published: 2023-10-25T22:02:34.293829+00:00
+ - user: None
+ - tags: []
+
+## Front Page | ReactOS Project
+ - [https://reactos.org](https://reactos.org)
+ - date published: 2023-10-25T22:02:35.485454+00:00
+ - user: None
+ - tags: ['operating system', 'open source']
+
+## realclearenergy.org
+ - [https://www.realclearenergy.org](https://www.realclearenergy.org)
+ - date published: 2023-10-25T22:02:36.663158+00:00
+ - user: None
+ - tags: []
+
+## reb00ted | reb00ted
+ - [https://reb00ted.org](https://reb00ted.org)
+ - date published: 2023-10-25T22:02:38.955071+00:00
+ - user: None
+ - tags: []
+
+## Reclaim The Net - Restore Individual Liberty Online
+ - [https://reclaimthenet.org](https://reclaimthenet.org)
+ - date published: 2023-10-25T10:15:05.217370+00:00
+ - user: None
+ - tags: []
+
+## Red Programming Language
+ - [https://www.red-lang.org](https://www.red-lang.org)
+ - date published: 2023-10-25T22:02:45.229562+00:00
+ - user: None
+ - tags: []
+
+## Overview - Redmine
+ - [https://www.redmine.org](https://www.redmine.org)
+ - date published: 2023-10-25T22:02:47.206923+00:00
+ - user: None
+ - tags: []
+
+## Redox - Your Next(Gen) OS - Redox - Your Next(Gen) OS
+ - [https://www.redox-os.org](https://www.redox-os.org)
+ - date published: 2023-10-25T22:02:49.026357+00:00
+ - user: None
+ - tags: []
+
+## Embedded in Academia – John Regehr, Professor of Computer Science, University of Utah, USA
+ - [https://blog.regehr.org](https://blog.regehr.org)
+ - date published: 2023-10-25T22:02:51.074554+00:00
+ - user: None
+ - tags: []
+
+## Regex Licensing
+ - [https://regexlicensing.org](https://regexlicensing.org)
+ - date published: 2023-10-25T22:02:53.291382+00:00
+ - user: None
+ - tags: []
+
+## Remote Jobs - Developer, designer, marketing, sales jobs, and more | RemoteJobs.org
+ - [https://remotejobs.org](https://remotejobs.org)
+ - date published: 2023-10-25T22:02:55.614939+00:00
+ - user: None
+ - tags: []
+
 ## The Repair Association
  - [https://www.repair.org](https://www.repair.org)
  - date published: 2023-11-03T10:39:08.955951+00:00
@@ -5910,96 +6000,6 @@ is forbidden
 ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
  - [https://flower-nutria-41d.notion.site](https://flower-nutria-41d.notion.site)
  - date published: 2023-10-25T22:39:27.897053+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://hydra-so.notion.site](https://hydra-so.notion.site)
- - date published: 2023-10-25T22:39:34.085319+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://knowsuchagency.notion.site](https://knowsuchagency.notion.site)
- - date published: 2023-10-25T22:39:35.501901+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://kyndinfo.notion.site](https://kyndinfo.notion.site)
- - date published: 2023-10-25T22:39:36.740705+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://loro-dev.notion.site](https://loro-dev.notion.site)
- - date published: 2023-10-25T22:39:38.139653+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://medarc.notion.site](https://medarc.notion.site)
- - date published: 2023-10-25T22:39:39.354553+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://observant-hoodie-597.notion.site](https://observant-hoodie-597.notion.site)
- - date published: 2023-10-25T22:39:45.482702+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://plusdocs.notion.site](https://plusdocs.notion.site)
- - date published: 2023-10-25T22:39:46.603183+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://postgrowthguide.notion.site](https://postgrowthguide.notion.site)
- - date published: 2023-10-25T22:39:47.779531+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://prequelco.notion.site](https://prequelco.notion.site)
- - date published: 2023-10-27T12:07:52.584102+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://provision-software.notion.site](https://provision-software.notion.site)
- - date published: 2023-10-25T22:39:49.561712+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://rosacarbo.notion.site](https://rosacarbo.notion.site)
- - date published: 2023-10-25T22:39:50.906331+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://rxhl.notion.site](https://rxhl.notion.site)
- - date published: 2023-10-25T22:39:52.281261+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://serverlessai.notion.site](https://serverlessai.notion.site)
- - date published: 2023-10-25T22:39:58.896287+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://snowsoft.notion.site](https://snowsoft.notion.site)
- - date published: 2023-10-25T22:40:06.077935+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://taxproper.notion.site](https://taxproper.notion.site)
- - date published: 2023-10-25T22:40:08.100234+00:00
  - user: None
  - tags: []
 

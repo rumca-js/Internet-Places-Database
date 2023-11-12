@@ -1,3 +1,51 @@
+## TESSIE SANTIAGO
+ - [https://www.tessiesantiagoart.com](https://www.tessiesantiagoart.com)
+ - date published: 2023-10-25T17:27:22.119122+00:00
+ - user: None
+ - tags: []
+
+## Test Double | Blog | Articles and Screencasts
+ - [https://blog.testdouble.com](https://blog.testdouble.com)
+ - date published: 2023-10-25T17:27:24.348664+00:00
+ - user: None
+ - tags: []
+
+## Texas Monthly – The National Magazine of Texas
+ - [https://www.texasmonthly.com](https://www.texasmonthly.com)
+ - date published: 2023-10-25T11:06:35.427848+00:00
+ - user: None
+ - tags: []
+
+## Text to diagram
+ - [https://text-to-diagram.com](https://text-to-diagram.com)
+ - date published: 2023-10-25T17:27:30.474856+00:00
+ - user: None
+ - tags: []
+
+## ASCII by Jason Scott
+ - [http://ascii.textfiles.com](http://ascii.textfiles.com)
+ - date published: 2023-10-25T17:27:37.366525+00:00
+ - user: None
+ - tags: []
+
+## T E X T F I L E S D O T C O M
+ - [http://textfiles.com](http://textfiles.com)
+ - date published: 2023-10-25T17:27:38.063116+00:00
+ - user: None
+ - tags: []
+
+## T E X T F I L E S D O T C O M
+ - [http://www.textfiles.com](http://www.textfiles.com)
+ - date published: 2023-10-25T17:27:38.764706+00:00
+ - user: None
+ - tags: []
+
+## textshader
+ - [https://textshader.com](https://textshader.com)
+ - date published: 2023-10-25T17:27:39.371628+00:00
+ - user: None
+ - tags: []
+
 ## text/plain – ericlaw talks about security, the web, and software in general
  - [https://textslashplain.com](https://textslashplain.com)
  - date published: 2023-10-25T17:27:44.879677+00:00
@@ -1919,6 +1967,12 @@
  - date published: 2023-10-25T17:44:34.590867+00:00
  - user: None
  - tags: ['fantasy news']
+
+## toronto.com | Latest Daily Breaking News Stories
+ - [https://www.toronto.com](https://www.toronto.com)
+ - date published: 2023-11-11T20:00:21.025764+00:00
+ - user: None
+ - tags: []
 
 ## Toronto Life
  - [https://torontolife.com](https://torontolife.com)
@@ -5941,60 +5995,6 @@
 ## YKM's Corner on the Web
  - [https://yeokhengmeng.com](https://yeokhengmeng.com)
  - date published: 2023-10-25T18:22:37.585912+00:00
- - user: None
- - tags: []
-
-## Yet Another Blog
- - [https://www.yet-another-blog.com](https://www.yet-another-blog.com)
- - date published: 2023-10-25T18:22:39.053631+00:00
- - user: None
- - tags: []
-
-## Yisheng's blog – software engineering, poetry and short stories
- - [https://yishenggong.com](https://yishenggong.com)
- - date published: 2023-10-25T18:22:43.268814+00:00
- - user: None
- - tags: []
-
-## Kami Community - Official Kami Community. Ask questions, get answers and connect with your fellow Kami users.
- - [https://forum.yitechnology.com](https://forum.yitechnology.com)
- - date published: 2023-10-25T18:22:47.588798+00:00
- - user: None
- - tags: []
-
-## Yannic Kilcher
- - [https://www.ykilcher.com](https://www.ykilcher.com)
- - date published: 2023-10-25T18:22:48.702538+00:00
- - user: None
- - tags: []
-
-## Y.M.Cinema - News and Insights on Digital Cinema
- - [https://ymcinema.com](https://ymcinema.com)
- - date published: 2023-10-25T18:22:54.121601+00:00
- - user: None
- - tags: []
-
-## ynetnews - Homepage
- - [https://www.ynetnews.com](https://www.ynetnews.com)
- - date published: 2023-10-25T11:48:08.047931+00:00
- - user: None
- - tags: []
-
-## YoboWargames – Hex based wargames
- - [https://www.yobowargames.com](https://www.yobowargames.com)
- - date published: 2023-10-25T18:23:01.907368+00:00
- - user: None
- - tags: []
-
-## Yorick Peterse
- - [https://yorickpeterse.com](https://yorickpeterse.com)
- - date published: 2023-10-25T18:23:03.114867+00:00
- - user: None
- - tags: []
-
-## Yossi Kreinin
- - [https://yosefk.com](https://yosefk.com)
- - date published: 2023-10-25T18:23:05.096406+00:00
  - user: None
  - tags: []
 

@@ -142,6 +142,12 @@
  - user: rumpel
  - tags: ['warhammer', 'wargames', 'tabletop games', 'magazine', 'warhammer', 'wargames', 'tabletop games']
 
+## Twitter's onion service is serving an invalid TLS certificate since 3/6/2023
+ - [https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion)
+ - date published: 2023-11-11T17:49:21+00:00
+ - user: None
+ - tags: []
+
 ## Sort: Supercharged collaboration for your database
  - [https://sort.xyz.](https://sort.xyz.)
  - date published: 2023-11-01T23:07:07.991006+00:00
@@ -1273,6 +1279,12 @@
 ## Naval
  - [https://nav.al](https://nav.al)
  - date published: 2023-10-25T11:45:20.135109+00:00
+ - user: None
+ - tags: []
+
+## Sot News
+ - [https://sot.com.al](https://sot.com.al)
+ - date published: 2023-11-11T16:04:51.715456+00:00
  - user: None
  - tags: []
 
@@ -3647,6 +3659,12 @@
  - user: None
  - tags: []
 
+## Archived YouTube Video Finder
+ - [https://findyoutubevideo.thetechrobo.ca](https://findyoutubevideo.thetechrobo.ca)
+ - date published: 2023-11-11T08:20:40+00:00
+ - user: None
+ - tags: []
+
 ## The Walrus | Canada's Conversation
  - [https://thewalrus.ca](https://thewalrus.ca)
  - date published: 2023-10-25T12:12:23.582516+00:00
@@ -5973,24 +5991,6 @@
 ## Admin Hacks
  - [https://adminhacks.com](https://adminhacks.com)
  - date published: 2023-10-25T12:32:45.243933+00:00
- - user: None
- - tags: []
-
-## Anchorage Daily News: Alaska News, Politics, Outdoors, Science and Events - Anchorage Daily News
- - [https://www.adn.com](https://www.adn.com)
- - date published: 2023-10-25T12:32:55.678833+00:00
- - user: None
- - tags: []
-
-## ADN América
- - [https://adnamerica.com](https://adnamerica.com)
- - date published: 2023-10-25T12:33:03.332537+00:00
- - user: None
- - tags: []
-
-## Welcome to the Adobe Blog
- - [https://blog.adobe.com](https://blog.adobe.com)
- - date published: 2023-10-25T12:33:04.951350+00:00
  - user: None
  - tags: []
 

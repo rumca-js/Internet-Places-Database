@@ -1,3 +1,45 @@
+## Scripps News | U.S. News and Latest World Headlines
+ - [https://scrippsnews.com](https://scrippsnews.com)
+ - date published: 2023-10-25T17:00:14.765540+00:00
+ - user: None
+ - tags: []
+
+## Scripting News
+ - [http://scripting.com](http://scripting.com)
+ - date published: 2023-10-25T17:00:18.736315+00:00
+ - user: None
+ - tags: []
+
+## Script Kit: Shortcut to Everything
+ - [https://www.scriptkit.com](https://www.scriptkit.com)
+ - date published: 2023-10-25T17:00:20.833237+00:00
+ - user: None
+ - tags: []
+
+## Best Polymer Clay | For All Ages & Skill Level | Sculpey.com
+ - [https://www.sculpey.com](https://www.sculpey.com)
+ - date published: 2023-11-01T18:12:03.550727+00:00
+ - user: None
+ - tags: ['sculpting']
+
+## ScyllaDB | Monstrously Fast + Scalable NoSQL
+ - [https://www.scylladb.com](https://www.scylladb.com)
+ - date published: 2023-10-25T17:00:38.077012+00:00
+ - user: None
+ - tags: []
+
+## Sdlgbtn – San Diego Lesbian, Gay, Bisexual, Transgender News
+ - [https://www.sdlgbtn.com](https://www.sdlgbtn.com)
+ - date published: 2023-10-25T17:00:39.793963+00:00
+ - user: None
+ - tags: ['the left wing', 'lgbt']
+
+## SD Times - Software Development News
+ - [https://sdtimes.com](https://sdtimes.com)
+ - date published: 2023-10-25T10:14:09.646584+00:00
+ - user: None
+ - tags: []
+
 ## SDxCentral | The Leading Resource on Next-Gen IT Infrastructure
  - [https://www.sdxcentral.com](https://www.sdxcentral.com)
  - date published: 2023-10-25T17:00:42.132971+00:00
@@ -5753,6 +5795,12 @@
  - user: None
  - tags: []
 
+## Tech Three Dots
+ - [https://techthreedots.com](https://techthreedots.com)
+ - date published: 2023-11-11T23:40:58.568624+00:00
+ - user: None
+ - tags: []
+
 ## TechTinkering - Retro Computers, Programming, General Technical Tinkering
  - [https://techtinkering.com](https://techtinkering.com)
  - date published: 2023-10-25T17:25:47.542481+00:00
@@ -5942,54 +5990,6 @@
 ## Home | Tesorio
  - [https://www.tesorio.com](https://www.tesorio.com)
  - date published: 2023-10-25T17:27:21.250370+00:00
- - user: None
- - tags: []
-
-## TESR Skywind - Home
- - [https://tesrskywind.com](https://tesrskywind.com)
- - date published: 2023-10-25T11:17:17.551364+00:00
- - user: None
- - tags: []
-
-## TESSIE SANTIAGO
- - [https://www.tessiesantiagoart.com](https://www.tessiesantiagoart.com)
- - date published: 2023-10-25T17:27:22.119122+00:00
- - user: None
- - tags: []
-
-## Test Double | Blog | Articles and Screencasts
- - [https://blog.testdouble.com](https://blog.testdouble.com)
- - date published: 2023-10-25T17:27:24.348664+00:00
- - user: None
- - tags: []
-
-## Texas Monthly – The National Magazine of Texas
- - [https://www.texasmonthly.com](https://www.texasmonthly.com)
- - date published: 2023-10-25T11:06:35.427848+00:00
- - user: None
- - tags: []
-
-## Text to diagram
- - [https://text-to-diagram.com](https://text-to-diagram.com)
- - date published: 2023-10-25T17:27:30.474856+00:00
- - user: None
- - tags: []
-
-## ASCII by Jason Scott
- - [http://ascii.textfiles.com](http://ascii.textfiles.com)
- - date published: 2023-10-25T17:27:37.366525+00:00
- - user: None
- - tags: []
-
-## T E X T F I L E S D O T C O M
- - [http://textfiles.com](http://textfiles.com)
- - date published: 2023-10-25T17:27:38.063116+00:00
- - user: None
- - tags: []
-
-## T E X T F I L E S D O T C O M
- - [http://www.textfiles.com](http://www.textfiles.com)
- - date published: 2023-10-25T17:27:38.764706+00:00
  - user: None
  - tags: []
 
