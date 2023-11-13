@@ -1,3 +1,297 @@
+## Harlequin: The DuckDB IDE for Your Terminal.
+ - [https://harlequin.sh](https://harlequin.sh)
+ - date published: 2023-10-25T22:38:24.159361+00:00
+ - user: None
+ - tags: []
+
+## ian carroll
+ - [https://ian.sh](https://ian.sh)
+ - date published: 2023-10-25T22:38:25.169602+00:00
+ - user: None
+ - tags: []
+
+## j3s.sh
+ - [https://j3s.sh](https://j3s.sh)
+ - date published: 2023-10-25T22:38:25.955497+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Jeeves – A Pythonic Alternative to GNU Make
+ - [https://jeeves.sh](https://jeeves.sh)
+ - date published: 2023-11-06T00:04:25+00:00
+ - user: None
+ - tags: []
+
+## Kaushik Gopal's Site
+ - [https://kau.sh](https://kau.sh)
+ - date published: 2023-10-25T08:55:45.952108+00:00
+ - user: None
+ - tags: ['personal']
+
+## change is - matt.sh
+ - [https://matt.sh](https://matt.sh)
+ - date published: 2023-10-25T22:38:28.757019+00:00
+ - user: None
+ - tags: []
+
+## mkws themes
+ - [https://t.mkws.sh](https://t.mkws.sh)
+ - date published: 2023-10-25T22:38:29.732632+00:00
+ - user: None
+ - tags: []
+
+## mzrnsh › Home
+ - [https://mzrn.sh](https://mzrn.sh)
+ - date published: 2023-10-25T22:38:30.595869+00:00
+ - user: None
+ - tags: []
+
+## WHOIS
+ - [http://whois.nic.sh](http://whois.nic.sh)
+ - date published: 2023-10-25T22:38:31.614461+00:00
+ - user: None
+ - tags: []
+
+## nodb.sh
+ - [https://nodb.sh](https://nodb.sh)
+ - date published: 2023-10-25T22:38:32.548203+00:00
+ - user: None
+ - tags: []
+
+## Novel – Notion-style WYSIWYG editor with AI-powered autocompletions
+ - [https://novel.sh](https://novel.sh)
+ - date published: 2023-10-25T22:38:38.175820+00:00
+ - user: None
+ - tags: []
+
+## ntfy.sh | Send push notifications to your phone via PUT/POST
+ - [https://ntfy.sh](https://ntfy.sh)
+ - date published: 2023-10-25T22:38:40.020029+00:00
+ - user: None
+ - tags: []
+
+## Nushell
+ - [https://www.nushell.sh](https://www.nushell.sh)
+ - date published: 2023-10-25T08:34:23.003511+00:00
+ - user: None
+ - tags: []
+
+## nwb.sh
+ - [https://nwb.sh](https://nwb.sh)
+ - date published: 2023-10-25T22:38:41.217075+00:00
+ - user: None
+ - tags: []
+
+## Open Folder
+ - [https://openfolder.sh](https://openfolder.sh)
+ - date published: 2023-10-25T22:38:42.170725+00:00
+ - user: None
+ - tags: []
+
+## gniP
+ - [https://www.peeng.sh](https://www.peeng.sh)
+ - date published: 2023-10-25T22:38:43.225021+00:00
+ - user: None
+ - tags: []
+
+## Peter Beverloo
+ - [https://peter.sh](https://peter.sh)
+ - date published: 2023-10-25T22:38:45.358697+00:00
+ - user: None
+ - tags: []
+
+## pgs.sh -- A zero-dependency static site hosting service for hackers.
+ - [https://pgs.sh](https://pgs.sh)
+ - date published: 2023-10-25T22:38:46.155641+00:00
+ - user: None
+ - tags: []
+
+## pkgx — Run Anything
+ - [https://pkgx.sh](https://pkgx.sh)
+ - date published: 2023-10-25T22:38:47.144388+00:00
+ - user: None
+ - tags: []
+
+## Plural | Secure, self-hosted applications in your cloud
+ - [https://www.plural.sh](https://www.plural.sh)
+ - date published: 2023-10-25T22:38:50.500372+00:00
+ - user: None
+ - tags: []
+
+## Polar
+ - [http://blog.polar.sh](http://blog.polar.sh)
+ - date published: 2023-10-25T22:38:51.571787+00:00
+ - user: None
+ - tags: []
+
+## welcome | osu!
+ - [https://osu.ppy.sh](https://osu.ppy.sh)
+ - date published: 2023-11-12T22:06:36.000555+00:00
+ - user: None
+ - tags: []
+
+## Developer Roadmaps - roadmap.sh
+ - [https://roadmap.sh](https://roadmap.sh)
+ - date published: 2023-10-25T22:38:53.579530+00:00
+ - user: None
+ - tags: []
+
+## Vale.sh - A linter for prose
+ - [https://vale.sh](https://vale.sh)
+ - date published: 2023-10-25T22:38:55.124011+00:00
+ - user: None
+ - tags: []
+
+## I mishandle my smartphone in my nightmares - foobuzz
+ - [https://blog.valentin.sh](https://blog.valentin.sh)
+ - date published: 2023-10-25T22:38:56.047581+00:00
+ - user: None
+ - tags: []
+
+## verto.sh - Your Gateway to Open Source Collaboration
+ - [https://www.verto.sh](https://www.verto.sh)
+ - date published: 2023-11-03T08:29:52.703892+00:00
+ - user: None
+ - tags: []
+
+## R3zk0n
+ - [https://x64.sh](https://x64.sh)
+ - date published: 2023-10-25T22:38:58.240784+00:00
+ - user: None
+ - tags: []
+
+## ./xai.sh
+ - [https://xai.sh](https://xai.sh)
+ - date published: 2023-10-25T22:38:58.899589+00:00
+ - user: None
+ - tags: []
+
+## Welcome To Yacht | Yacht
+ - [https://yacht.sh](https://yacht.sh)
+ - date published: 2023-11-01T08:44:39.492740+00:00
+ - user: None
+ - tags: []
+
+## The Wandering Shop
+ - [https://wandering.shop](https://wandering.shop)
+ - date published: 2023-10-25T22:38:59.839954+00:00
+ - user: None
+ - tags: []
+
+## Create an Ecommerce Website and Sell Online! Ecommerce Software by Shopify
+ - [http://zerowastenyc.shop](http://zerowastenyc.shop)
+ - date published: 2023-10-25T22:39:01.212212+00:00
+ - user: None
+ - tags: []
+
+## banger.show - video maker app for busy musicians
+ - [https://banger.show](https://banger.show)
+ - date published: 2023-10-25T22:39:02.762788+00:00
+ - user: None
+ - tags: []
+
+## Serious Trouble | Substack
+ - [https://www.serioustrouble.show](https://www.serioustrouble.show)
+ - date published: 2023-10-25T22:39:05.030372+00:00
+ - user: None
+ - tags: []
+
+## Narodni muzej Slovenije
+ - [https://www.nms.si](https://www.nms.si)
+ - date published: 2023-10-25T22:39:12.070893+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Aftermath
+ - [https://aftermath.site](https://aftermath.site)
+ - date published: 2023-11-07T15:23:01.879660+00:00
+ - user: None
+ - tags: []
+
+## Austin Vernon - Austin Vernon's Blog
+ - [https://austinvernon.site](https://austinvernon.site)
+ - date published: 2023-10-25T08:55:48.649144+00:00
+ - user: None
+ - tags: ['personal']
+
+## Automa – Automate the browser by connecting blocks
+ - [https://www.automa.site](https://www.automa.site)
+ - date published: 2023-11-10T13:05:40+00:00
+ - user: None
+ - tags: []
+
+## bit.site - Make Distributed Web faster and more reliable. - bit.site
+ - [https://bit.site](https://bit.site)
+ - date published: 2023-10-25T22:39:13.932367+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://grossack.site](https://grossack.site)
+ - date published: 2023-11-12T20:26:23.938812+00:00
+ - user: None
+ - tags: []
+
+## IconHunt
+ - [https://www.iconhunt.site](https://www.iconhunt.site)
+ - date published: 2023-10-25T22:39:14.631628+00:00
+ - user: None
+ - tags: []
+
+## Patrick Kidger
+ - [https://kidger.site](https://kidger.site)
+ - date published: 2023-10-25T08:55:53.732866+00:00
+ - user: None
+ - tags: ['personal']
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://activeloop.notion.site](https://activeloop.notion.site)
+ - date published: 2023-10-25T22:39:21.105796+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://alliancedao.notion.site](https://alliancedao.notion.site)
+ - date published: 2023-10-25T22:39:22.325561+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://auspicious-domain-086.notion.site](https://auspicious-domain-086.notion.site)
+ - date published: 2023-10-25T22:39:23.726835+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://bulkninja.notion.site](https://bulkninja.notion.site)
+ - date published: 2023-11-05T12:07:53.538117+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://chaudhry.notion.site](https://chaudhry.notion.site)
+ - date published: 2023-10-25T22:39:24.906292+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://enchanting-trader-463.notion.site](https://enchanting-trader-463.notion.site)
+ - date published: 2023-10-25T22:39:26.286235+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://flower-nutria-41d.notion.site](https://flower-nutria-41d.notion.site)
+ - date published: 2023-10-25T22:39:27.897053+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://hydra-so.notion.site](https://hydra-so.notion.site)
+ - date published: 2023-10-25T22:39:34.085319+00:00
+ - user: None
+ - tags: []
+
 ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
  - [https://knowsuchagency.notion.site](https://knowsuchagency.notion.site)
  - date published: 2023-10-25T22:39:35.501901+00:00
@@ -356,6 +650,12 @@ conflicts of interest and restore Community Trust.
 ## graz.social
  - [https://graz.social](https://graz.social)
  - date published: 2023-10-25T22:41:35.241574+00:00
+ - user: None
+ - tags: []
+
+## Idle Mastodon
+ - [https://idlethumbs.social](https://idlethumbs.social)
+ - date published: 2023-11-12T18:45:17.298083+00:00
  - user: None
  - tags: []
 
@@ -994,6 +1294,12 @@ conflicts of interest and restore Community Trust.
 ## Leporello.js · Interactive functional programming IDE for JavaScript
  - [https://leporello.tech](https://leporello.tech)
  - date published: 2023-10-25T22:44:34.491251+00:00
+ - user: None
+ - tags: []
+
+## Lewis Campbell Tech
+ - [https://lewiscampbell.tech](https://lewiscampbell.tech)
+ - date published: 2023-11-12T18:27:09.724007+00:00
  - user: None
  - tags: []
 
@@ -2262,6 +2568,12 @@ Introduction
 ## Oxford News, Sport, Events | Oxford Mail
  - [https://www.oxfordmail.co.uk](https://www.oxfordmail.co.uk)
  - date published: 2023-10-25T22:54:22.081707+00:00
+ - user: None
+ - tags: []
+
+## Penguin Books UK | Official Website
+ - [https://www.penguin.co.uk](https://www.penguin.co.uk)
+ - date published: 2023-11-12T19:08:10.285698+00:00
  - user: None
  - tags: []
 
@@ -3904,6 +4216,12 @@ Introduction
 ## the mango zone
  - [https://mango.pdf.zone](https://mango.pdf.zone)
  - date published: 2023-10-25T23:06:34.386402+00:00
+ - user: None
+ - tags: []
+
+## skip’s house
+ - [https://www.slice.zone](https://www.slice.zone)
+ - date published: 2023-11-12T10:19:22.949732+00:00
  - user: None
  - tags: []
 

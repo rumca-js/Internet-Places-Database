@@ -1,3 +1,51 @@
+## https://www.chronicle.com
+ - [https://www.chronicle.com](https://www.chronicle.com)
+ - date published: 2023-10-25T13:23:11.311164+00:00
+ - user: None
+ - tags: []
+
+## Loading...  - Chronology Clock
+ - [https://chronologyclock.com](https://chronologyclock.com)
+ - date published: 2023-10-25T13:23:11.800564+00:00
+ - user: None
+ - tags: []
+
+## The Latest Indian Movie News And Film Reviews | Cinema Express
+ - [https://www.cinemaexpress.com](https://www.cinemaexpress.com)
+ - date published: 2023-10-25T11:29:56.350559+00:00
+ - user: None
+ - tags: []
+
+## Cinematography.com - Community, Education, News and Resources - Cinematography.com
+ - [https://cinematography.com](https://cinematography.com)
+ - date published: 2023-10-25T13:23:20.039978+00:00
+ - user: None
+ - tags: []
+
+## CIO | The voice of IT leadership
+ - [https://www.cio.com](https://www.cio.com)
+ - date published: 2023-10-25T13:23:27.607432+00:00
+ - user: None
+ - tags: []
+
+## Information and Enterprise Technology News | CIO Dive
+ - [https://www.ciodive.com](https://www.ciodive.com)
+ - date published: 2023-10-25T13:23:37.193248+00:00
+ - user: None
+ - tags: []
+
+## CIO Influence | IT, Cloud Computing and InfoSec news
+ - [https://cioinfluence.com](https://cioinfluence.com)
+ - date published: 2023-10-25T13:23:43.397807+00:00
+ - user: None
+ - tags: []
+
+## Circle | USDC Payments, Treasury Management, & Developer Tools
+ - [https://www.circle.com](https://www.circle.com)
+ - date published: 2023-10-25T13:23:50.181753+00:00
+ - user: None
+ - tags: []
+
 ## Continuous Integration and Delivery - CircleCI
  - [https://circleci.com](https://circleci.com)
  - date published: 2023-10-25T13:23:58.608577+00:00
@@ -2434,6 +2482,12 @@
  - user: None
  - tags: []
 
+## RIP Google Groups Dejanews.com Archive
+ - [http://dejanews.com](http://dejanews.com)
+ - date published: 2023-11-12T09:43:15+00:00
+ - user: None
+ - tags: []
+
 ## SEO & Digital Marketing Agency - DEJAN ™
  - [https://dejanmarketing.com](https://dejanmarketing.com)
  - date published: 2023-10-25T13:48:37.761453+00:00
@@ -3848,6 +3902,12 @@
 ## Agencia EFE
  - [https://efe.com](https://efe.com)
  - date published: 2023-10-25T14:04:03.691646+00:00
+ - user: None
+ - tags: []
+
+## Effective Rust
+ - [https://effective-rust.com](https://effective-rust.com)
+ - date published: 2023-11-12T22:06:18.106711+00:00
  - user: None
  - tags: []
 
@@ -5938,64 +5998,4 @@
  - date published: 2023-10-25T10:26:08.645541+00:00
  - user: None
  - tags: []
-
-## Forbes Africa
- - [https://www.forbesafrica.com](https://www.forbesafrica.com)
- - date published: 2023-10-25T10:26:21.517830+00:00
- - user: None
- - tags: []
-
-## Home | Ford of Europe | Ford Media Center
- - [https://media.ford.com](https://media.ford.com)
- - date published: 2023-10-25T15:10:06.084869+00:00
- - user: None
- - tags: []
-
-## Ford® - New Hybrid & Electric Vehicles, SUVs, Crossovers, Trucks, Vans & Cars
- - [https://www.ford.com](https://www.ford.com)
- - date published: 2023-11-01T08:42:08.838585+00:00
- - user: None
- - tags: []
-
-## Foreign Affairs Magazine
- - [https://www.foreignaffairs.com](https://www.foreignaffairs.com)
- - date published: 2023-10-25T15:10:16.234805+00:00
- - user: None
- - tags: []
-
-## Foreign Policy – the Global Magazine of News and Ideas
- - [https://foreignpolicy.com](https://foreignpolicy.com)
- - date published: 2023-10-25T15:10:25.310637+00:00
- - user: None
- - tags: []
-
-## When it matters, say it on Forem — Forem
- - [https://forem.com](https://forem.com)
- - date published: 2023-10-25T08:32:55.266940+00:00
- - user: None
- - tags: []
-
-## News  | On the Scene and in the Lab - Forensic®
- - [https://www.forensicmag.com](https://www.forensicmag.com)
- - date published: 2023-10-25T15:10:28.071402+00:00
- - user: None
- - tags: []
-
-## Forensic Science Society
- - [https://forensicsciencesociety.com](https://forensicsciencesociety.com)
- - date published: 2023-10-28T17:32:29.161406+00:00
- - user: None
- - tags: ['crime', 'police']
-
-## Home
- - [https://www.format.com](https://www.format.com)
- - date published: 2023-10-27T10:24:23.394039+00:00
- - user: None
- - tags: []
-
-## High Resolution SLA and SLS 3D Printers for Professionals
- - [https://formlabs.com](https://formlabs.com)
- - date published: 2023-10-27T10:15:17.313202+00:00
- - user: None
- - tags: ['corporate', '3d printing']
 

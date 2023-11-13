@@ -1,3 +1,195 @@
+## http://www.cs.yale.edu
+ - [http://www.cs.yale.edu](http://www.cs.yale.edu)
+ - date published: 2023-10-25T19:06:55.836434+00:00
+ - user: None
+ - tags: []
+
+## Esileht - Ants Nomm
+ - [https://ano.ee](https://ano.ee)
+ - date published: 2023-10-25T19:06:58.105867+00:00
+ - user: None
+ - tags: []
+
+## fuzzy notepad
+ - [https://eev.ee](https://eev.ee)
+ - date published: 2023-10-25T08:49:06.921537+00:00
+ - user: None
+ - tags: ['personal']
+
+## news | ERR
+ - [https://news.err.ee](https://news.err.ee)
+ - date published: 2023-10-25T19:07:03.906710+00:00
+ - user: None
+ - tags: []
+
+## Haze Booth
+ - [https://haz.ee](https://haz.ee)
+ - date published: 2023-10-25T19:07:04.320998+00:00
+ - user: None
+ - tags: []
+
+## Jakarta® EE | Cloud Native Enterprise Java | Java EE | the Eclipse Foundation | The Eclipse Foundation
+ - [https://jakarta.ee](https://jakarta.ee)
+ - date published: 2023-10-25T19:07:06.974394+00:00
+ - user: None
+ - tags: []
+
+## lemm.ee - General-purpose Lemmy instance. New users and communities welcome!
+ - [https://lemm.ee](https://lemm.ee)
+ - date published: 2023-10-24T20:14:55.872230+00:00
+ - user: None
+ - tags: []
+
+## Linktree: Link everything you are
+ - [https://linktr.ee](https://linktr.ee)
+ - date published: 2023-10-31T16:18:01.056130+00:00
+ - user: None
+ - tags: []
+
+## Hello there.
+ - [https://ounapuu.ee](https://ounapuu.ee)
+ - date published: 2023-10-25T08:49:07.717738+00:00
+ - user: None
+ - tags: ['personal']
+
+## Solutional - Agile Software Development Company
+ - [https://solutional.ee](https://solutional.ee)
+ - date published: 2023-10-25T19:07:07.982182+00:00
+ - user: None
+ - tags: []
+
+## http://raport.valisluureamet.ee
+ - [http://raport.valisluureamet.ee](http://raport.valisluureamet.ee)
+ - date published: 2023-10-25T19:07:08.839982+00:00
+ - user: None
+ - tags: []
+
+## e-Residency of Estonia | Apply & start an EU company online
+ - [https://www.e-resident.gov.ee](https://www.e-resident.gov.ee)
+ - date published: 2023-10-25T19:07:11.004930+00:00
+ - user: None
+ - tags: []
+
+## Buttondown
+ - [https://buttondown.email](https://buttondown.email)
+ - date published: 2023-10-25T19:07:12.851726+00:00
+ - user: None
+ - tags: []
+
+## Hired - Job Search Marketplace. Tech Job Hunting Simplified!
+ - [https://pages.hired.email](https://pages.hired.email)
+ - date published: 2023-10-25T19:07:15.214689+00:00
+ - user: None
+ - tags: []
+
+## Tabular — Free email editor to build responsive emails
+ - [https://tabular.email](https://tabular.email)
+ - date published: 2023-10-25T19:07:16.469881+00:00
+ - user: None
+ - tags: []
+
+## Use plaintext email
+ - [https://useplaintext.email](https://useplaintext.email)
+ - date published: 2023-10-25T19:07:18.065331+00:00
+ - user: None
+ - tags: []
+
+## mastodon.energy
+ - [https://mastodon.energy](https://mastodon.energy)
+ - date published: 2023-10-25T19:07:20.188942+00:00
+ - user: None
+ - tags: []
+
+## Same Energy | Visual Search Engine
+ - [https://same.energy](https://same.energy)
+ - date published: 2023-10-27T11:57:04.678687+00:00
+ - user: None
+ - tags: []
+
+## 16x Engineer
+ - [https://16x.engineer](https://16x.engineer)
+ - date published: 2023-10-27T11:57:06.295677+00:00
+ - user: None
+ - tags: []
+
+## Nyxt browser: The hacker's browser
+ - [https://nyxt.atlas.engineer](https://nyxt.atlas.engineer)
+ - date published: 2023-10-27T11:57:07.797367+00:00
+ - user: None
+ - tags: []
+
+## Cookie Engineer's Portfolio
+ - [https://cookie.engineer](https://cookie.engineer)
+ - date published: 2023-10-25T08:49:08.447741+00:00
+ - user: None
+ - tags: ['personal']
+
+## Blog about my engineering projects
+ - [https://mark.engineer](https://mark.engineer)
+ - date published: 2023-11-07T15:23:05.500491+00:00
+ - user: None
+ - tags: []
+
+## Max Chernyak
+ - [https://max.engineer](https://max.engineer)
+ - date published: 2023-10-25T19:07:41.764398+00:00
+ - user: None
+ - tags: []
+
+## DoorDash Engineering
+ - [https://doordash.engineering](https://doordash.engineering)
+ - date published: 2023-10-25T19:07:47.207070+00:00
+ - user: None
+ - tags: []
+
+## Practical Engineering
+ - [https://practical.engineering](https://practical.engineering)
+ - date published: 2023-10-25T19:07:48.828528+00:00
+ - user: None
+ - tags: []
+
+## Shopify Engineering
+ - [https://shopify.engineering](https://shopify.engineering)
+ - date published: 2023-10-25T19:07:52.357916+00:00
+ - user: None
+ - tags: []
+
+## Slack Engineering -
+ - [https://slack.engineering](https://slack.engineering)
+ - date published: 2023-10-25T19:07:53.963866+00:00
+ - user: None
+ - tags: []
+
+## teenage engineering
+ - [https://teenage.engineering](https://teenage.engineering)
+ - date published: 2023-10-25T19:07:54.710750+00:00
+ - user: None
+ - tags: []
+
+## Home - Kayce Basques
+ - [https://kayce.basqu.es](https://kayce.basqu.es)
+ - date published: 2023-10-25T19:07:55.486364+00:00
+ - user: None
+ - tags: []
+
+## Bèr ‘berkes’ Kessels
+ - [https://berk.es](https://berk.es)
+ - date published: 2023-10-25T19:07:56.813852+00:00
+ - user: None
+ - tags: []
+
+## J. Ryan Stinnett
+ - [https://convolv.es](https://convolv.es)
+ - date published: 2023-11-10T06:49:58.797104+00:00
+ - user: None
+ - tags: []
+
+## Creactivities - A chatbot that exercises your creative muscles
+ - [https://www.creactiviti.es](https://www.creactiviti.es)
+ - date published: 2023-10-25T19:07:58.865084+00:00
+ - user: None
+ - tags: []
+
 ## Main | CS 61B Spring 2023
  - [https://sp23.datastructur.es](https://sp23.datastructur.es)
  - date published: 2023-10-25T19:08:03.607596+00:00
@@ -343,6 +535,12 @@
 ## Welcome - Open Web Search – Promoting Europe's Independence in Web Search
  - [https://openwebsearch.eu](https://openwebsearch.eu)
  - date published: 2023-10-25T19:11:14.751829+00:00
+ - user: None
+ - tags: []
+
+## pnote.eu
+ - [https://pnote.eu](https://pnote.eu)
+ - date published: 2023-11-12T09:42:04.084639+00:00
  - user: None
  - tags: []
 
@@ -1516,6 +1714,12 @@
  - user: None
  - tags: []
 
+## https://cde.ucr.cjis.gov
+ - [https://cde.ucr.cjis.gov](https://cde.ucr.cjis.gov)
+ - date published: 2023-11-12T13:04:34.470969+00:00
+ - user: None
+ - tags: []
+
 ## Homepage
  - [https://www.commerce.gov](https://www.commerce.gov)
  - date published: 2023-11-01T19:47:55.173039+00:00
@@ -2441,6 +2645,12 @@
 ## Turquoise Health Blog
  - [https://blog.turquoise.health](https://blog.turquoise.health)
  - date published: 2023-10-25T19:27:58.234456+00:00
+ - user: None
+ - tags: []
+
+## City University of Hong Kong
+ - [https://www.cityu.edu.hk](https://www.cityu.edu.hk)
+ - date published: 2023-11-12T14:24:15.942518+00:00
  - user: None
  - tags: []
 
@@ -5786,216 +5996,6 @@ through Composable Diffusion
 ## Redirecting…
  - [https://m680x0.github.io](https://m680x0.github.io)
  - date published: 2023-10-25T19:49:07.954208+00:00
- - user: None
- - tags: []
-
-## Machines Reading Maps | Unlocking unique information from large collections of historical maps using AI
- - [https://machines-reading-maps.github.io](https://machines-reading-maps.github.io)
- - date published: 2023-10-25T19:49:08.905340+00:00
- - user: None
- - tags: []
-
-## Articles | Madaidan's Insecurities
- - [https://madaidans-insecurities.github.io](https://madaidans-insecurities.github.io)
- - date published: 2023-10-25T19:49:09.552990+00:00
- - user: None
- - tags: []
-
-## MagicEdit: High-Fidelity Temporally Coherent Video Editing
- - [https://magic-edit.github.io](https://magic-edit.github.io)
- - date published: 2023-10-25T19:49:15.486474+00:00
- - user: None
- - tags: []
-
-## Maik Klein
- - [https://maikklein.github.io](https://maikklein.github.io)
- - date published: 2023-10-25T19:49:16.084796+00:00
- - user: None
- - tags: []
-
-## Text-To-4D Dynamic Scene Generation
- - [https://make-a-video3d.github.io](https://make-a-video3d.github.io)
- - date published: 2023-10-25T19:49:16.845049+00:00
- - user: None
- - tags: []
-
-## https://makelinux.github.io
- - [https://makelinux.github.io](https://makelinux.github.io)
- - date published: 2023-10-25T19:49:17.988414+00:00
- - user: None
- - tags: []
-
-## Make Source Not Code!
- - [https://makesourcenotcode.github.io](https://makesourcenotcode.github.io)
- - date published: 2023-10-25T19:49:19.134099+00:00
- - user: None
- - tags: []
-
-## Marc Khoury
- - [https://marckhoury.github.io](https://marckhoury.github.io)
- - date published: 2023-10-25T19:49:20.531403+00:00
- - user: None
- - tags: []
-
-## matklad
- - [https://matklad.github.io](https://matklad.github.io)
- - date published: 2023-10-25T08:59:11.538366+00:00
- - user: None
- - tags: ['personal']
-
-## max-bittker
- - [https://maxbittker.github.io](https://maxbittker.github.io)
- - date published: 2023-10-25T19:49:22.435813+00:00
- - user: None
- - tags: []
-
-## Max Halford
- - [https://maxhalford.github.io](https://maxhalford.github.io)
- - date published: 2023-10-25T19:49:24.332431+00:00
- - user: None
- - tags: []
-
-## TL;DR
- - [https://mazzzystar.github.io](https://mazzzystar.github.io)
- - date published: 2023-10-25T19:49:26.116164+00:00
- - user: None
- - tags: []
-
-## About me - Matthew N. Bernstein
- - [https://mbernste.github.io](https://mbernste.github.io)
- - date published: 2023-10-25T19:49:29.242200+00:00
- - user: None
- - tags: []
-
-## Main Page | mcraiha.github.io
- - [https://mcraiha.github.io](https://mcraiha.github.io)
- - date published: 2023-10-25T19:49:31.004901+00:00
- - user: None
- - tags: []
-
-## memN0ps | Home
- - [https://memn0ps.github.io](https://memn0ps.github.io)
- - date published: 2023-10-25T19:49:32.657873+00:00
- - user: None
- - tags: []
-
-## Faizan Muhammad
- - [https://mfaizan.github.io](https://mfaizan.github.io)
- - date published: 2023-10-25T19:49:34.141989+00:00
- - user: None
- - tags: []
-
-## Micro - Home
- - [https://micro-editor.github.io](https://micro-editor.github.io)
- - date published: 2023-10-25T19:49:35.768499+00:00
- - user: None
- - tags: []
-
-## Microsoft on GitHub
- - [https://microsoft.github.io](https://microsoft.github.io)
- - date published: 2023-10-25T19:49:36.893262+00:00
- - user: None
- - tags: []
-
-## Åsbjørnsson-Stensland
- - [https://mikaei.github.io](https://mikaei.github.io)
- - date published: 2023-10-25T08:59:12.188442+00:00
- - user: None
- - tags: ['personal']
-
-## MinD-Vis
- - [https://mind-vis.github.io](https://mind-vis.github.io)
- - date published: 2023-10-25T19:49:38.256010+00:00
- - user: None
- - tags: []
-
-## Minigpt-4
- - [https://minigpt-4.github.io](https://minigpt-4.github.io)
- - date published: 2023-10-25T19:49:44.882724+00:00
- - user: None
- - tags: []
-
-## Mist
- - [https://mist-project.github.io](https://mist-project.github.io)
- - date published: 2023-10-25T19:49:50.638949+00:00
- - user: None
- - tags: []
-
-## Page Redirection
- - [https://mister-devel.github.io](https://mister-devel.github.io)
- - date published: 2023-10-25T19:49:51.049608+00:00
- - user: None
- - tags: []
-
-## Repositories
- - [https://mlochbaum.github.io](https://mlochbaum.github.io)
- - date published: 2023-10-25T19:49:51.923737+00:00
- - user: None
- - tags: []
-
-## home
- - [https://mnky9800n.github.io](https://mnky9800n.github.io)
- - date published: 2023-10-25T08:49:23.910775+00:00
- - user: None
- - tags: ['personal']
-
-## Mnpn
- - [https://mnpn.github.io](https://mnpn.github.io)
- - date published: 2023-10-25T19:49:53.566169+00:00
- - user: None
- - tags: []
-
-## http://mode80.github.io
- - [http://mode80.github.io](http://mode80.github.io)
- - date published: 2023-10-25T19:49:54.906689+00:00
- - user: None
- - tags: []
-
-## Moonthoughts
- - [https://moonthought.github.io](https://moonthought.github.io)
- - date published: 2023-10-25T08:49:24.474212+00:00
- - user: None
- - tags: ['personal']
-
-## Morten Rieger Hannemose
- - [https://mortenhannemose.github.io](https://mortenhannemose.github.io)
- - date published: 2023-10-25T19:49:56.748812+00:00
- - user: None
- - tags: []
-
-## Jingxiang Sun (孙景翔)'s Homepage
- - [https://mrtornado24.github.io](https://mrtornado24.github.io)
- - date published: 2023-10-27T15:10:51.824415+00:00
- - user: None
- - tags: []
-
-## Mutt0-ds Notes
- - [https://mutt0-ds.github.io](https://mutt0-ds.github.io)
- - date published: 2023-10-25T19:49:59.363681+00:00
- - user: None
- - tags: []
-
-## n-eq · Nabil Elqatib's blog
- - [https://n-eq.github.io](https://n-eq.github.io)
- - date published: 2023-10-25T19:50:01.556221+00:00
- - user: None
- - tags: []
-
-## Nathan Rooy
- - [https://nathanrooy.github.io](https://nathanrooy.github.io)
- - date published: 2023-10-25T19:50:08.197904+00:00
- - user: None
- - tags: []
-
-## The Neat Language — Neat  documentation
- - [https://neat-lang.github.io](https://neat-lang.github.io)
- - date published: 2023-10-25T19:50:11.219633+00:00
- - user: None
- - tags: []
-
-## Nebuchadnezzar | Practically-exploitable Cryptographic Vulnerabilities in Matrix
- - [https://nebuchadnezzar-megolm.github.io](https://nebuchadnezzar-megolm.github.io)
- - date published: 2023-10-25T19:50:12.879107+00:00
  - user: None
  - tags: []
 

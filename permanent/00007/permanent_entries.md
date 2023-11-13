@@ -1,3 +1,129 @@
+## Telefunc
+ - [https://telefunc.com](https://telefunc.com)
+ - date published: 2023-10-25T17:26:28.348990+00:00
+ - user: None
+ - tags: []
+
+## Teleprompter Mirror | Beamsplitter & Teleprompter Software
+ - [https://telepromptermirror.com](https://telepromptermirror.com)
+ - date published: 2023-10-25T17:26:33.807422+00:00
+ - user: None
+ - tags: []
+
+## Telerik & Kendo UI - .NET Components Suites & JavaScript UI Libraries
+ - [https://www.telerik.com](https://www.telerik.com)
+ - date published: 2023-10-25T17:26:36.939420+00:00
+ - user: None
+ - tags: []
+
+## Teller Report
+ - [https://www.tellerreport.com](https://www.tellerreport.com)
+ - date published: 2023-10-25T17:26:40.471754+00:00
+ - user: None
+ - tags: []
+
+## Tempus Ex Blog
+ - [https://blog.tempus-ex.com](https://blog.tempus-ex.com)
+ - date published: 2023-10-25T17:26:41.521155+00:00
+ - user: None
+ - tags: []
+
+## Tenacious D - The Official Website!
+ - [https://tenaciousd.com](https://tenaciousd.com)
+ - date published: 2023-11-01T09:33:17.217029+00:00
+ - user: None
+ - tags: ['music band']
+
+## Tenderlove Making |  tenderlovemaking.com
+ - [https://tenderlovemaking.com](https://tenderlovemaking.com)
+ - date published: 2023-10-25T17:26:44.547477+00:00
+ - user: None
+ - tags: []
+
+## TenderOwl
+ - [https://tenderowl.com](https://tenderowl.com)
+ - date published: 2023-10-25T17:26:45.249090+00:00
+ - user: None
+ - tags: []
+
+## Tenzir
+ - [https://docs.tenzir.com](https://docs.tenzir.com)
+ - date published: 2023-10-25T17:26:46.083579+00:00
+ - user: None
+ - tags: []
+
+## TerminusDB - Made for developers who see the value of data
+ - [https://terminusdb.com](https://terminusdb.com)
+ - date published: 2023-10-25T17:26:59.630117+00:00
+ - user: None
+ - tags: []
+
+## Terrastruct
+ - [https://terrastruct.com](https://terrastruct.com)
+ - date published: 2023-10-27T08:52:26.171059+00:00
+ - user: None
+ - tags: []
+
+## Terrastruct | Diagramming tools crafted to visualize software architecture
+ - [https://www.terrastruct.com](https://www.terrastruct.com)
+ - date published: 2023-10-25T17:27:01.530729+00:00
+ - user: None
+ - tags: []
+
+## Terrible real estate agent photographs
+ - [https://terriblerealestateagentphotos.com](https://terriblerealestateagentphotos.com)
+ - date published: 2023-10-25T17:27:04.177363+00:00
+ - user: None
+ - tags: []
+
+## Tesla | Developer
+ - [https://developer.tesla.com](https://developer.tesla.com)
+ - date published: 2023-10-25T17:27:05.491866+00:00
+ - user: None
+ - tags: []
+
+## Tesla Investor Relations
+ - [https://ir.tesla.com](https://ir.tesla.com)
+ - date published: 2023-10-25T17:27:09.938562+00:00
+ - user: None
+ - tags: []
+
+## Electric Cars, Solar & Clean Energy | Tesla
+ - [https://www.tesla.com](https://www.tesla.com)
+ - date published: 2023-10-25T17:27:12.705475+00:00
+ - user: None
+ - tags: []
+
+## Tesla Motors Club
+ - [https://teslamotorsclub.com](https://teslamotorsclub.com)
+ - date published: 2023-11-05T01:07:09.607810+00:00
+ - user: None
+ - tags: []
+
+## Tesla North – EV and Tesla News, SpaceX, Elon Musk and More - TeslaNorth.com
+ - [https://teslanorth.com](https://teslanorth.com)
+ - date published: 2023-10-25T17:27:16.707356+00:00
+ - user: None
+ - tags: []
+
+## Tesla News, Tips, Rumors, and Reviews
+ - [https://www.teslarati.com](https://www.teslarati.com)
+ - date published: 2023-10-25T17:27:19.960483+00:00
+ - user: None
+ - tags: []
+
+## Home | Tesorio
+ - [https://www.tesorio.com](https://www.tesorio.com)
+ - date published: 2023-10-25T17:27:21.250370+00:00
+ - user: None
+ - tags: []
+
+## TESR Skywind - Home
+ - [https://tesrskywind.com](https://tesrskywind.com)
+ - date published: 2023-10-25T11:17:17.551364+00:00
+ - user: None
+ - tags: []
+
 ## TESSIE SANTIAGO
  - [https://www.tessiesantiagoart.com](https://www.tessiesantiagoart.com)
  - date published: 2023-10-25T17:27:22.119122+00:00
@@ -668,6 +794,12 @@
 ## The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill
  - [https://thehill.com](https://thehill.com)
  - date published: 2023-10-25T10:28:58.558612+00:00
+ - user: None
+ - tags: []
+
+## Home - The Hilltop
+ - [https://thehilltoponline.com](https://thehilltoponline.com)
+ - date published: 2023-11-12T21:46:12.194115+00:00
  - user: None
  - tags: []
 
@@ -3459,6 +3591,12 @@
  - user: None
  - tags: []
 
+## VERA Version Control Systems
+ - [https://vcs.vera-visions.com](https://vcs.vera-visions.com)
+ - date published: 2023-11-12T12:21:17.875383+00:00
+ - user: None
+ - tags: []
+
 ## Vercel: Build and deploy the best Web experiences with The Frontend Cloud
  - [https://vercel.com](https://vercel.com)
  - date published: 2023-10-25T17:55:50.277514+00:00
@@ -4384,6 +4522,12 @@
  - user: None
  - tags: ['emulation', 'amiga', 'roms']
 
+## News10NBC
+ - [https://www.whec.com](https://www.whec.com)
+ - date published: 2023-11-12T18:45:25.297898+00:00
+ - user: None
+ - tags: []
+
 ## http://wheybags.com
  - [http://wheybags.com](http://wheybags.com)
  - date published: 2023-10-25T18:03:36.870087+00:00
@@ -4447,6 +4591,12 @@
 ## WhoFundsWho – WhoFundsWho instantly shows you who funds the experts, politicians, think tanks and other institutions you are reading about
  - [https://whofundswho.com](https://whofundswho.com)
  - date published: 2023-10-25T18:04:21.086464+00:00
+ - user: None
+ - tags: []
+
+## Why.com - Premium category defining domain names for sale, exact match domains
+ - [http://why.com](http://why.com)
+ - date published: 2023-11-12T05:59:10.336738+00:00
  - user: None
  - tags: []
 
@@ -4555,6 +4705,12 @@
 ## https://onlinelibrary.wiley.com
  - [https://onlinelibrary.wiley.com](https://onlinelibrary.wiley.com)
  - date published: 2023-10-25T18:05:35.898602+00:00
+ - user: None
+ - tags: []
+
+## https://physoc.onlinelibrary.wiley.com
+ - [https://physoc.onlinelibrary.wiley.com](https://physoc.onlinelibrary.wiley.com)
+ - date published: 2023-11-12T06:59:06.705475+00:00
  - user: None
  - tags: []
 
@@ -5596,6 +5752,12 @@
  - user: None
  - tags: []
 
+## WOWT | Nebraska Breaking News, Weather, Sports | Omaha, NE
+ - [https://www.wowt.com](https://www.wowt.com)
+ - date published: 2023-11-12T06:59:00.622017+00:00
+ - user: None
+ - tags: []
+
 ## Officially Woz | A Free Exchange of Information : Officially Woz
  - [http://mhpo.woz.com](http://mhpo.woz.com)
  - date published: 2023-10-25T18:19:36.115836+00:00
@@ -5833,168 +5995,6 @@
 ## x mod 2 | Kirk Thaker | Substack
  - [https://www.xmodtwo.com](https://www.xmodtwo.com)
  - date published: 2023-10-25T18:21:58.704877+00:00
- - user: None
- - tags: []
-
-## Xmodulo ‒ Linux FAQ
- - [https://www.xmodulo.com](https://www.xmodulo.com)
- - date published: 2023-10-25T18:22:00.974957+00:00
- - user: None
- - tags: []
-
-## マリウス
- - [https://xn--gckvb8fzb.com](https://xn--gckvb8fzb.com)
- - date published: 2023-10-25T18:22:01.979918+00:00
- - user: None
- - tags: []
-
-## XOR’s Hammer – Some things in mathematical logic that I find interesting
- - [https://xorshammer.com](https://xorshammer.com)
- - date published: 2023-10-25T18:22:04.640484+00:00
- - user: None
- - tags: []
-
-## xorvoid
- - [https://xorvoid.com](https://xorvoid.com)
- - date published: 2023-10-25T18:22:05.503748+00:00
- - user: None
- - tags: []
-
-## Graphic drawing tablets & Digital Art Pads With Screen | XPPen
- - [https://www.xp-pen.com](https://www.xp-pen.com)
- - date published: 2023-10-27T13:56:49.144113+00:00
- - user: None
- - tags: ['drawing', 'hardware']
-
-## XPN InfoSec Blog
- - [https://blog.xpnsec.com](https://blog.xpnsec.com)
- - date published: 2023-10-25T18:22:06.411182+00:00
- - user: None
- - tags: []
-
-## XTDB
- - [https://www.xtdb.com](https://www.xtdb.com)
- - date published: 2023-10-25T18:22:07.780785+00:00
- - user: None
- - tags: []
-
-## Xtra Magazine - Queering the conversation
- - [https://xtramagazine.com](https://xtramagazine.com)
- - date published: 2023-10-25T18:22:10.782790+00:00
- - user: None
- - tags: ['the left wing', 'lgbt']
-
-## XXIIVV — In Transit
- - [https://wiki.xxiivv.com](https://wiki.xxiivv.com)
- - date published: 2023-10-25T18:22:11.321810+00:00
- - user: None
- - tags: []
-
-## Yahoo is part of the Yahoo family of brands
- - [https://au.finance.yahoo.com](https://au.finance.yahoo.com)
- - date published: 2023-10-25T18:22:17.506355+00:00
- - user: None
- - tags: []
-
-## Yahoo is part of the Yahoo family of brands
- - [https://au.news.yahoo.com](https://au.news.yahoo.com)
- - date published: 2023-11-02T01:27:24.024533+00:00
- - user: None
- - tags: []
-
-## Yahoo is part of the Yahoo family of brands
- - [https://ca.news.yahoo.com](https://ca.news.yahoo.com)
- - date published: 2023-10-25T18:22:19.311480+00:00
- - user: None
- - tags: []
-
-## Yahoo is part of the Yahoo family of brands
- - [https://ca.style.yahoo.com](https://ca.style.yahoo.com)
- - date published: 2023-11-02T17:22:20.047082+00:00
- - user: None
- - tags: []
-
-## Yahoo is part of the Yahoo family of brands
- - [https://finance.yahoo.com](https://finance.yahoo.com)
- - date published: 2023-10-25T10:30:30.327746+00:00
- - user: None
- - tags: []
-
-## Yahoo is part of the Yahoo family of brands
- - [https://news.yahoo.com](https://news.yahoo.com)
- - date published: 2023-10-25T10:16:52.263929+00:00
- - user: None
- - tags: []
-
-## Yahoo is part of the Yahoo family of brands
- - [https://sg.news.yahoo.com](https://sg.news.yahoo.com)
- - date published: 2023-11-08T17:23:05.854339+00:00
- - user: None
- - tags: []
-
-## Yahoo is part of the Yahoo family of brands
- - [https://uk.news.yahoo.com](https://uk.news.yahoo.com)
- - date published: 2023-10-25T18:22:21.043179+00:00
- - user: None
- - tags: []
-
-## Yahoo is part of the Yahoo family of brands
- - [https://uk.sports.yahoo.com](https://uk.sports.yahoo.com)
- - date published: 2023-10-25T18:22:22.751947+00:00
- - user: None
- - tags: []
-
-## Yahoo is part of the Yahoo family of brands
- - [https://www.yahoo.com](https://www.yahoo.com)
- - date published: 2023-10-25T08:28:22.683805+00:00
- - user: None
- - tags: ['search engine']
-
-## Yakihonne
- - [https://yakihonne.com](https://yakihonne.com)
- - date published: 2023-10-25T18:22:24.673328+00:00
- - user: None
- - tags: []
-
-## Yandex
- - [https://yandex.com](https://yandex.com)
- - date published: 2023-10-25T08:28:25.478842+00:00
- - user: None
- - tags: ['search engine']
-
-## VC Europe I Yannick Oswald I Blog I European VC Musings
- - [https://www.yannickoswald.com](https://www.yannickoswald.com)
- - date published: 2023-10-25T18:22:27.341830+00:00
- - user: None
- - tags: []
-
-## Home — @ybouane
- - [https://ybouane.com](https://ybouane.com)
- - date published: 2023-10-25T18:22:29.074580+00:00
- - user: None
- - tags: []
-
-## Hacker News
- - [https://news.ycombinator.com](https://news.ycombinator.com)
- - date published: 2023-10-25T18:22:31.665387+00:00
- - user: None
- - tags: ['hacker']
-
-## Y Combinator
- - [https://www.ycombinator.com](https://www.ycombinator.com)
- - date published: 2023-10-25T18:22:35.240796+00:00
- - user: None
- - tags: []
-
-## yeggi - 3D Printer Models Search Engine
- - [https://www.yeggi.com](https://www.yeggi.com)
- - date published: 2023-10-25T08:30:16.926541+00:00
- - user: None
- - tags: ['3d printing', 'assets models']
-
-## YKM's Corner on the Web
- - [https://yeokhengmeng.com](https://yeokhengmeng.com)
- - date published: 2023-10-25T18:22:37.585912+00:00
  - user: None
  - tags: []
 

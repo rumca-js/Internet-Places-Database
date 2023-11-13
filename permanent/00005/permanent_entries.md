@@ -1,3 +1,111 @@
+## The Next Platform - The Next Platform
+ - [https://www.nextplatform.com](https://www.nextplatform.com)
+ - date published: 2023-10-25T16:18:18.912435+00:00
+ - user: None
+ - tags: []
+
+## NextShark.com - Asian American News
+ - [https://nextshark.com](https://nextshark.com)
+ - date published: 2023-10-25T16:18:27.133745+00:00
+ - user: None
+ - tags: []
+
+## Nexus mods and community
+ - [https://www.nexusmods.com](https://www.nexusmods.com)
+ - date published: 2023-10-25T11:16:58.441116+00:00
+ - user: None
+ - tags: ['game mods']
+
+## NFCW • Contactless World Congress, NFC World, Payments, Ticketing and more
+ - [https://www.nfcw.com](https://www.nfcw.com)
+ - date published: 2023-10-25T16:18:31.125364+00:00
+ - user: None
+ - tags: []
+
+## Welcome to NFG Games
+ - [https://nfggames.com](https://nfggames.com)
+ - date published: 2023-11-03T23:41:55.297344+00:00
+ - user: None
+ - tags: []
+
+## https://nftnow.com
+ - [https://nftnow.com](https://nftnow.com)
+ - date published: 2023-10-25T16:18:32.471558+00:00
+ - user: None
+ - tags: []
+
+## NGA玩家社区
+ - [https://ngabbs.com](https://ngabbs.com)
+ - date published: 2023-11-01T04:23:29.552971+00:00
+ - user: None
+ - tags: []
+
+## Advanced Load Balancer, Web Server, & Reverse Proxy - NGINX
+ - [https://www.nginx.com](https://www.nginx.com)
+ - date published: 2023-10-25T16:18:35.958680+00:00
+ - user: None
+ - tags: []
+
+## Nick Higham – Applied mathematics, numerical linear algebra and software.
+ - [https://nhigham.com](https://nhigham.com)
+ - date published: 2023-10-25T16:18:41.691573+00:00
+ - user: None
+ - tags: []
+
+## WarCraft 3 | Nibbits
+ - [http://wc3.nibbits.com](http://wc3.nibbits.com)
+ - date published: 2023-10-29T10:41:30.446641+00:00
+ - user: None
+ - tags: []
+
+## Niche Gamer - Video Game News, Community, Videos, & Reviews
+ - [https://nichegamer.com](https://nichegamer.com)
+ - date published: 2023-10-25T16:18:45.402324+00:00
+ - user: None
+ - tags: []
+
+## dankwiki, the wiki of nick black
+ - [https://nick-black.com](https://nick-black.com)
+ - date published: 2023-10-25T16:18:49.657215+00:00
+ - user: None
+ - tags: []
+
+## Nick Arner
+ - [https://nickarner.com](https://nickarner.com)
+ - date published: 2023-10-25T16:18:50.406162+00:00
+ - user: None
+ - tags: []
+
+## Nick Bostrom’s Home Page
+ - [https://nickbostrom.com](https://nickbostrom.com)
+ - date published: 2023-10-25T16:18:53.656941+00:00
+ - user: None
+ - tags: []
+
+## Projects by Nick Gravgaard
+ - [https://nickgravgaard.com](https://nickgravgaard.com)
+ - date published: 2023-10-27T11:55:26.819267+00:00
+ - user: None
+ - tags: []
+
+## From Development to Production — Nick Janetakis
+ - [https://nickjanetakis.com](https://nickjanetakis.com)
+ - date published: 2023-10-25T16:18:55.075225+00:00
+ - user: None
+ - tags: []
+
+## Nick Olinger's blog | Software Engineer
+ - [https://nickolinger.com](https://nickolinger.com)
+ - date published: 2023-10-25T16:19:01.749061+00:00
+ - user: None
+ - tags: []
+
+## The Cusp
+ - [https://nicksaraev.com](https://nicksaraev.com)
+ - date published: 2023-10-25T16:19:03.290919+00:00
+ - user: None
+ - tags: []
+
 ## Nick vs Networking | Telco Network Engineering
  - [https://nickvsnetworking.com](https://nickvsnetworking.com)
  - date published: 2023-10-25T16:19:06.491677+00:00
@@ -786,6 +894,12 @@ Answering Machine Greetings!
 ## Oisín Moran
  - [https://oisinmoran.com](https://oisinmoran.com)
  - date published: 2023-10-25T16:25:09.684817+00:00
+ - user: None
+ - tags: []
+
+## Oklahoma City News, Weather, Sports, Breaking News | KOKH
+ - [https://okcfox.com](https://okcfox.com)
+ - date published: 2023-11-12T03:19:07.648289+00:00
  - user: None
  - tags: []
 
@@ -2020,6 +2134,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Pete Freitag - ColdFusion, Java & Web Blog
+ - [https://www.petefreitag.com](https://www.petefreitag.com)
+ - date published: 2023-11-12T00:21:12.930083+00:00
+ - user: None
+ - tags: []
+
 ## Pete Millspaugh
  - [https://www.petemillspaugh.com](https://www.petemillspaugh.com)
  - date published: 2023-11-04T01:47:29.221107+00:00
@@ -2758,6 +2878,12 @@ Answering Machine Greetings!
 ## Popular Mechanics - Product Reviews, How-To, Space, Military, Math, Science, and New Technology
  - [https://www.popularmechanics.com](https://www.popularmechanics.com)
  - date published: 2023-10-25T16:37:51.033102+00:00
+ - user: None
+ - tags: []
+
+## Porsche Open Source Platform
+ - [https://opensource.porsche.com](https://opensource.porsche.com)
+ - date published: 2023-11-12T21:17:02+00:00
  - user: None
  - tags: []
 
@@ -5880,132 +6006,6 @@ Answering Machine Greetings!
 ## Scientific American: Science News, Expert Analysis, Health Research - Scientific American
  - [https://www.scientificamerican.com](https://www.scientificamerican.com)
  - date published: 2023-10-25T10:11:03.956799+00:00
- - user: None
- - tags: []
-
-## The Scientific Coder
- - [https://scientificcoder.com](https://scientificcoder.com)
- - date published: 2023-10-25T16:59:14.570457+00:00
- - user: None
- - tags: []
-
-## SciProgramming - Home
- - [https://sciprogramming.com](https://sciprogramming.com)
- - date published: 2023-10-25T16:59:15.991666+00:00
- - user: None
- - tags: []
-
-## SciTechDaily - Science, Space and Technology News 2023
- - [https://scitechdaily.com](https://scitechdaily.com)
- - date published: 2023-10-25T10:11:08.449489+00:00
- - user: None
- - tags: []
-
-## sciter – Multiplatform HTML/CSS/JavaScript UI Engine for Desktop and Mobile Application
- - [https://sciter.com](https://sciter.com)
- - date published: 2023-10-25T16:59:18.546109+00:00
- - user: None
- - tags: []
-
-## Cybersecurity News, Awards, Webinars, eSummits, Research | SC Media
- - [https://www.scmagazine.com](https://www.scmagazine.com)
- - date published: 2023-10-25T16:59:21.821719+00:00
- - user: None
- - tags: []
-
-## HK, China, Asia news & opinion from SCMP’s global edition | South China Morning Post
- - [https://www.scmp.com](https://www.scmp.com)
- - date published: 2023-10-25T10:55:24.006811+00:00
- - user: None
- - tags: []
-
-## Welcome to scmscx.com
- - [https://scmscx.com](https://scmscx.com)
- - date published: 2023-10-25T11:51:08.396681+00:00
- - user: None
- - tags: []
-
-## Latest News | The Scotsman
- - [https://www.scotsman.com](https://www.scotsman.com)
- - date published: 2023-10-25T16:59:27.807401+00:00
- - user: None
- - tags: []
-
-## Scott Aaronson
- - [https://scottaaronson.com](https://scottaaronson.com)
- - date published: 2023-10-25T16:59:29.689793+00:00
- - user: None
- - tags: []
-
-## Scott Aaronson
- - [https://www.scottaaronson.com](https://www.scottaaronson.com)
- - date published: 2023-10-25T16:59:31.584638+00:00
- - user: None
- - tags: []
-
-## Scott Antipa
- - [https://www.scottantipa.com](https://www.scottantipa.com)
- - date published: 2023-10-25T16:59:37.222129+00:00
- - user: None
- - tags: []
-
-## Scott Santens' Universal Basic Income Guide
- - [https://www.scottsantens.com](https://www.scottsantens.com)
- - date published: 2023-10-25T16:59:48.391411+00:00
- - user: None
- - tags: []
-
-## Scott P. Scheper - Official Website
- - [https://scottscheper.com](https://scottscheper.com)
- - date published: 2023-10-25T16:59:51.789848+00:00
- - user: None
- - tags: []
-
-## Scott P. Scheper - Official Website
- - [https://www.scottscheper.com](https://www.scottscheper.com)
- - date published: 2023-10-25T16:59:54.583038+00:00
- - user: None
- - tags: []
-
-## The World According to Scott
- - [https://scottswezey.com](https://scottswezey.com)
- - date published: 2023-11-04T15:48:18.224107+00:00
- - user: None
- - tags: []
-
-## ScrapingBee, the best web scraping API.
- - [https://www.scrapingbee.com](https://www.scrapingbee.com)
- - date published: 2023-10-25T16:59:56.121936+00:00
- - user: None
- - tags: []
-
-## ScratchDB
- - [https://scratchdb.com](https://scratchdb.com)
- - date published: 2023-10-25T16:59:56.874210+00:00
- - user: None
- - tags: []
-
-## Screen Idle - Funny Movie News for Groovy People
- - [https://www.screen-idle.com](https://www.screen-idle.com)
- - date published: 2023-10-25T16:59:58.854404+00:00
- - user: None
- - tags: []
-
-## Screen Slate | Cinematic Excellence Est. 2011 | Upcoming Film Showtimes NYC
- - [https://www.screenslate.com](https://www.screenslate.com)
- - date published: 2023-10-25T17:00:00.067981+00:00
- - user: None
- - tags: []
-
-## Screenstab
- - [https://www.screenstab.com](https://www.screenstab.com)
- - date published: 2023-10-25T17:00:01.292835+00:00
- - user: None
- - tags: []
-
-## Scribble Diffusion
- - [https://scribblediffusion.com](https://scribblediffusion.com)
- - date published: 2023-10-25T17:00:06.661637+00:00
  - user: None
  - tags: []
 

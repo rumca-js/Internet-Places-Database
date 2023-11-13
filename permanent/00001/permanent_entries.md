@@ -1,3 +1,27 @@
+## Adi's Thoughts
+ - [https://www.adityabaradwaj.com](https://www.adityabaradwaj.com)
+ - date published: 2023-10-25T08:44:06.720224+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | Adiuvo Engineering
+ - [https://www.adiuvoengineering.com](https://www.adiuvoengineering.com)
+ - date published: 2023-10-25T12:32:43.380851+00:00
+ - user: None
+ - tags: []
+
+## Admin Hacks
+ - [https://adminhacks.com](https://adminhacks.com)
+ - date published: 2023-10-25T12:32:45.243933+00:00
+ - user: None
+ - tags: []
+
+## Anchorage Daily News: Alaska News, Politics, Outdoors, Science and Events - Anchorage Daily News
+ - [https://www.adn.com](https://www.adn.com)
+ - date published: 2023-10-25T12:32:55.678833+00:00
+ - user: None
+ - tags: []
+
 ## ADN América
  - [https://adnamerica.com](https://adnamerica.com)
  - date published: 2023-10-25T12:33:03.332537+00:00
@@ -2584,6 +2608,12 @@
  - user: None
  - tags: []
 
+## Bangkok Post - The world’s window on Thailand | Breaking news, Thailand news, Latest news, World news
+ - [https://www.bangkokpost.com](https://www.bangkokpost.com)
+ - date published: 2023-11-12T14:24:31.094852+00:00
+ - user: None
+ - tags: []
+
 ## Bank information security news, training, education - BankInfoSecurity
  - [https://www.bankinfosecurity.com](https://www.bankinfosecurity.com)
  - date published: 2023-11-03T13:09:05.489070+00:00
@@ -3253,6 +3283,12 @@
 ## BMC Medicine | Home page
  - [https://bmcmedicine.biomedcentral.com](https://bmcmedicine.biomedcentral.com)
  - date published: 2023-10-25T13:00:29.613132+00:00
+ - user: None
+ - tags: []
+
+## International Journal of Emergency Medicine
+ - [https://intjem.biomedcentral.com](https://intjem.biomedcentral.com)
+ - date published: 2023-11-12T16:05:33.724173+00:00
  - user: None
  - tags: []
 
@@ -5554,6 +5590,12 @@
  - user: None
  - tags: []
 
+## Challonge
+ - [https://challonge.com](https://challonge.com)
+ - date published: 2023-11-12T22:06:34.634033+00:00
+ - user: None
+ - tags: []
+
 ## chandrakantha.com – Information of interest to the student and lover of Indian music
  - [https://chandrakantha.com](https://chandrakantha.com)
  - date published: 2023-10-25T13:20:16.676397+00:00
@@ -5581,6 +5623,12 @@
 ## CNA: Breaking News, Singapore News, World and Asia
  - [https://www.channelnewsasia.com](https://www.channelnewsasia.com)
  - date published: 2023-10-25T11:00:41.576145+00:00
+ - user: None
+ - tags: []
+
+## Channels Television - Breaking Nigerian News
+ - [https://www.channelstv.com](https://www.channelstv.com)
+ - date published: 2023-11-12T22:06:26.227303+00:00
  - user: None
  - tags: []
 
@@ -5947,54 +5995,6 @@
 ## Chrome Unboxed | Chromebooks | Chromecast | Assistant | News
  - [https://chromeunboxed.com](https://chromeunboxed.com)
  - date published: 2023-10-25T13:23:05.320515+00:00
- - user: None
- - tags: []
-
-## Chron: Houston News, Sports, Weather, Food, Politics & Texas
- - [https://www.chron.com](https://www.chron.com)
- - date published: 2023-10-25T13:23:10.991817+00:00
- - user: None
- - tags: []
-
-## https://www.chronicle.com
- - [https://www.chronicle.com](https://www.chronicle.com)
- - date published: 2023-10-25T13:23:11.311164+00:00
- - user: None
- - tags: []
-
-## Loading...  - Chronology Clock
- - [https://chronologyclock.com](https://chronologyclock.com)
- - date published: 2023-10-25T13:23:11.800564+00:00
- - user: None
- - tags: []
-
-## The Latest Indian Movie News And Film Reviews | Cinema Express
- - [https://www.cinemaexpress.com](https://www.cinemaexpress.com)
- - date published: 2023-10-25T11:29:56.350559+00:00
- - user: None
- - tags: []
-
-## Cinematography.com - Community, Education, News and Resources - Cinematography.com
- - [https://cinematography.com](https://cinematography.com)
- - date published: 2023-10-25T13:23:20.039978+00:00
- - user: None
- - tags: []
-
-## CIO | The voice of IT leadership
- - [https://www.cio.com](https://www.cio.com)
- - date published: 2023-10-25T13:23:27.607432+00:00
- - user: None
- - tags: []
-
-## Information and Enterprise Technology News | CIO Dive
- - [https://www.ciodive.com](https://www.ciodive.com)
- - date published: 2023-10-25T13:23:37.193248+00:00
- - user: None
- - tags: []
-
-## CIO Influence | IT, Cloud Computing and InfoSec news
- - [https://cioinfluence.com](https://cioinfluence.com)
- - date published: 2023-10-25T13:23:43.397807+00:00
  - user: None
  - tags: []
 

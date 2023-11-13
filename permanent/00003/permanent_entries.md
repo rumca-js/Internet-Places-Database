@@ -1,3 +1,63 @@
+## Home | Ford of Europe | Ford Media Center
+ - [https://media.ford.com](https://media.ford.com)
+ - date published: 2023-10-25T15:10:06.084869+00:00
+ - user: None
+ - tags: []
+
+## Ford® - New Hybrid & Electric Vehicles, SUVs, Crossovers, Trucks, Vans & Cars
+ - [https://www.ford.com](https://www.ford.com)
+ - date published: 2023-11-01T08:42:08.838585+00:00
+ - user: None
+ - tags: []
+
+## Foreign Affairs Magazine
+ - [https://www.foreignaffairs.com](https://www.foreignaffairs.com)
+ - date published: 2023-10-25T15:10:16.234805+00:00
+ - user: None
+ - tags: []
+
+## Foreign Policy – the Global Magazine of News and Ideas
+ - [https://foreignpolicy.com](https://foreignpolicy.com)
+ - date published: 2023-10-25T15:10:25.310637+00:00
+ - user: None
+ - tags: []
+
+## When it matters, say it on Forem — Forem
+ - [https://forem.com](https://forem.com)
+ - date published: 2023-10-25T08:32:55.266940+00:00
+ - user: None
+ - tags: []
+
+## News  | On the Scene and in the Lab - Forensic®
+ - [https://www.forensicmag.com](https://www.forensicmag.com)
+ - date published: 2023-10-25T15:10:28.071402+00:00
+ - user: None
+ - tags: []
+
+## Forensic Science Society
+ - [https://forensicsciencesociety.com](https://forensicsciencesociety.com)
+ - date published: 2023-10-28T17:32:29.161406+00:00
+ - user: None
+ - tags: ['crime', 'police']
+
+## Home
+ - [https://www.format.com](https://www.format.com)
+ - date published: 2023-10-27T10:24:23.394039+00:00
+ - user: None
+ - tags: []
+
+## High Resolution SLA and SLS 3D Printers for Professionals
+ - [https://formlabs.com](https://formlabs.com)
+ - date published: 2023-10-27T10:15:17.313202+00:00
+ - user: None
+ - tags: ['corporate', '3d printing']
+
+## Forrester Helps Organizations Grow Through Customer Obsession
+ - [https://www.forrester.com](https://www.forrester.com)
+ - date published: 2023-10-25T15:10:40.006112+00:00
+ - user: None
+ - tags: []
+
 ## ForrestTheWoods - Home
  - [https://www.forrestthewoods.com](https://www.forrestthewoods.com)
  - date published: 2023-10-25T14:35:30.429573+00:00
@@ -1396,6 +1456,12 @@
  - date published: 2023-11-09T03:55:55+00:00
  - user: rumpel
  - tags: ['philippine news']
+
+## Gabriel Mays - Semper esurientem.
+ - [https://gmays.com](https://gmays.com)
+ - date published: 2023-11-12T12:21:25.185278+00:00
+ - user: None
+ - tags: []
 
 ## GMUNK
  - [https://gmunk.com](https://gmunk.com)
@@ -2888,6 +2954,12 @@
  - user: None
  - tags: []
 
+## Hexmos Journal
+ - [https://journal.hexmos.com](https://journal.hexmos.com)
+ - date published: 2023-11-12T15:06:10.696477+00:00
+ - user: None
+ - tags: []
+
 ## Hexops' devlog
  - [https://devlog.hexops.com](https://devlog.hexops.com)
  - date published: 2023-10-25T14:58:51.147852+00:00
@@ -3308,6 +3380,12 @@
  - user: None
  - tags: []
 
+## HTML First – Six principles for building simple, maintainable, web software
+ - [https://html-first.com](https://html-first.com)
+ - date published: 2023-11-12T16:00:36+00:00
+ - user: None
+ - tags: []
+
 ## Site not found · DreamHost
  - [https://httpstatusdogs.com](https://httpstatusdogs.com)
  - date published: 2023-10-25T15:11:40.931619+00:00
@@ -3425,6 +3503,12 @@
 ## 虎扑社区-虎扑网
  - [https://bbs.hupu.com](https://bbs.hupu.com)
  - date published: 2023-11-05T18:55:39.686319+00:00
+ - user: None
+ - tags: []
+
+## 虎扑体育-手机虎扑网
+ - [https://m.hupu.com](https://m.hupu.com)
+ - date published: 2023-11-12T23:25:15.858728+00:00
  - user: None
  - tags: []
 
@@ -5909,90 +5993,6 @@
 ## Portfolio | Kat Snyder | UX Researcher | Palo Alto, CA
  - [https://www.katsnyderux.com](https://www.katsnyderux.com)
  - date published: 2023-10-25T15:35:22.405683+00:00
- - user: None
- - tags: []
-
-## Kavii Suri
- - [https://kaviisuri.com](https://kaviisuri.com)
- - date published: 2023-10-25T15:35:24.728646+00:00
- - user: None
- - tags: []
-
-## Access Denied
- - [https://www.kbb.com](https://www.kbb.com)
- - date published: 2023-10-25T15:35:25.046506+00:00
- - user: None
- - tags: []
-
-## KBH Games - Play Free Online Web Games
- - [https://kbhgames.com](https://kbhgames.com)
- - date published: 2023-10-26T18:52:24.828608+00:00
- - user: None
- - tags: ['games']
-
-## KCRW 89.9FM | Music, NPR News, Culture Los Angeles | KCRW
- - [https://www.kcrw.com](https://www.kcrw.com)
- - date published: 2023-10-25T15:35:29.861868+00:00
- - user: None
- - tags: []
-
-## KDP Community
- - [https://www.kdpcommunity.com](https://www.kdpcommunity.com)
- - date published: 2023-10-25T15:35:34.149390+00:00
- - user: None
- - tags: []
-
-## Kellan Elliott-McCrea
- - [https://kellanem.com](https://kellanem.com)
- - date published: 2023-10-25T08:58:12.167205+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Brazil's Blog
- - [https://blog.kellybrazil.com](https://blog.kellybrazil.com)
- - date published: 2023-10-25T15:35:42.425437+00:00
- - user: None
- - tags: []
-
-## Startup Win | Kelsus | Substack
- - [https://startupwin.kelsus.com](https://startupwin.kelsus.com)
- - date published: 2023-10-25T15:35:46.064869+00:00
- - user: None
- - tags: []
-
-## /dev/lawyer
- - [https://writing.kemitchell.com](https://writing.kemitchell.com)
- - date published: 2023-10-25T15:35:58.761033+00:00
- - user: None
- - tags: []
-
-## Kempa.com
- - [https://www.kempa.com](https://www.kempa.com)
- - date published: 2023-10-25T08:46:44.860682+00:00
- - user: None
- - tags: ['personal']
-
-## kennedn
- - [https://kennedn.com](https://kennedn.com)
- - date published: 2023-10-25T15:36:00.034186+00:00
- - user: None
- - tags: []
-
-## Kenny Log-Ins
- - [https://www.kennylog-in.com](https://www.kennylog-in.com)
- - date published: 2023-10-25T15:36:01.766783+00:00
- - user: None
- - tags: []
-
-## http://kenschutte.com
- - [http://kenschutte.com](http://kenschutte.com)
- - date published: 2023-10-25T15:36:02.691694+00:00
- - user: None
- - tags: []
-
-## Kent C. Dodds
- - [https://kentcdodds.com](https://kentcdodds.com)
- - date published: 2023-10-25T15:36:05.091092+00:00
  - user: None
  - tags: []
 

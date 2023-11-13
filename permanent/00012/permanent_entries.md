@@ -1,3 +1,244 @@
+## Committee to Protect Journalists – Defending Journalists Worldwide. - Committee to Protect Journalists
+ - [https://cpj.org](https://cpj.org)
+ - date published: 2023-10-25T21:10:54.852143+00:00
+ - user: None
+ - tags: []
+
+## CppCon | The C++ Conference
+ - [https://cppcon.org](https://cppcon.org)
+ - date published: 2023-10-25T21:10:58.474003+00:00
+ - user: None
+ - tags: []
+
+## Lists.pglaf.org redirect
+ - [https://lists.cpunks.org](https://lists.cpunks.org)
+ - date published: 2023-10-25T21:10:59.366823+00:00
+ - user: None
+ - tags: []
+
+## cr0 blog
+ - [https://blog.cr0.org](https://blog.cr0.org)
+ - date published: 2023-10-25T09:23:55.156396+00:00
+ - user: None
+ - tags: ['personal']
+
+## CrabLang
+ - [https://crablang.org](https://crablang.org)
+ - date published: 2023-10-25T21:11:04.727468+00:00
+ - user: None
+ - tags: []
+
+## Crooked Timber — Out of the crooked timber of humanity, no straight thing was ever made
+ - [https://crookedtimber.org](https://crookedtimber.org)
+ - date published: 2023-10-25T21:11:11.664607+00:00
+ - user: None
+ - tags: []
+
+## Home 2022
+ - [https://www.crosslabs.org](https://www.crosslabs.org)
+ - date published: 2023-10-25T21:11:13.410986+00:00
+ - user: None
+ - tags: []
+
+## Cryptome
+ - [https://cryptome.org](https://cryptome.org)
+ - date published: 2023-10-25T21:11:22.912914+00:00
+ - user: None
+ - tags: []
+
+## The Crystal Programming Language
+ - [https://crystal-lang.org](https://crystal-lang.org)
+ - date published: 2023-10-25T21:11:24.443668+00:00
+ - user: None
+ - tags: []
+
+## CSA-IOT - Connectivity Standards Alliance
+ - [https://csa-iot.org](https://csa-iot.org)
+ - date published: 2023-10-25T17:24:26.444239+00:00
+ - user: None
+ - tags: ['zigbee']
+
+## https://beyondparallel.csis.org
+ - [https://beyondparallel.csis.org](https://beyondparallel.csis.org)
+ - date published: 2023-10-25T21:11:34.001427+00:00
+ - user: None
+ - tags: []
+
+## CSIS | Center for Strategic and International Studies
+ - [https://www.csis.org](https://www.csis.org)
+ - date published: 2023-10-25T21:11:40.174391+00:00
+ - user: None
+ - tags: []
+
+## CT State Police | CSP News | United States
+ - [https://www.cspnews.org](https://www.cspnews.org)
+ - date published: 2023-11-08T06:18:08.421428+00:00
+ - user: None
+ - tags: []
+
+## CTAN: Comprehensive TeX Archive Network
+ - [https://ctan.org](https://ctan.org)
+ - date published: 2023-10-25T21:11:42.198733+00:00
+ - user: None
+ - tags: []
+
+## CTIF - International Association of Fire Services for Safer Citizens through Skilled Firefighters
+ - [https://ctif.org](https://ctif.org)
+ - date published: 2023-10-25T21:11:51.392667+00:00
+ - user: None
+ - tags: []
+
+## Current - For people in public media
+ - [https://current.org](https://current.org)
+ - date published: 2023-10-25T21:12:00.535305+00:00
+ - user: None
+ - tags: []
+
+## Home ❧ Current Affairs
+ - [https://www.currentaffairs.org](https://www.currentaffairs.org)
+ - date published: 2023-11-09T22:43:56.697894+00:00
+ - user: None
+ - tags: []
+
+## https://www.cyberdemon.org
+ - [https://www.cyberdemon.org](https://www.cyberdemon.org)
+ - date published: 2023-10-25T21:12:02.225294+00:00
+ - user: None
+ - tags: []
+
+## cypherspace
+ - [http://www.cypherspace.org](http://www.cypherspace.org)
+ - date published: 2023-10-25T21:12:03.701108+00:00
+ - user: None
+ - tags: []
+
+## The Daily Californian | Berkeley's News
+ - [https://www.dailycal.org](https://www.dailycal.org)
+ - date published: 2023-10-25T21:12:09.133140+00:00
+ - user: None
+ - tags: []
+
+## The Daily Sceptic
+ - [https://dailysceptic.org](https://dailysceptic.org)
+ - date published: 2023-10-25T10:18:01.741807+00:00
+ - user: None
+ - tags: ['misinformation', 'disinformation']
+
+## Federal Reserve Bank of Dallas -
+        Dallasfed.org
+ - [https://www.dallasfed.org](https://www.dallasfed.org)
+ - date published: 2023-10-25T21:12:12.982710+00:00
+ - user: None
+ - tags: []
+
+## Home | DanceSafe
+ - [https://dancesafe.org](https://dancesafe.org)
+ - date published: 2023-10-25T21:12:23.473262+00:00
+ - user: None
+ - tags: []
+
+## Experimental chill – a random walk through Software Engineering
+ - [https://danlark.org](https://danlark.org)
+ - date published: 2023-10-25T21:12:26.450742+00:00
+ - user: None
+ - tags: []
+
+## Dann Berg: blog, newsletter, shop, and more
+ - [https://dannb.org](https://dannb.org)
+ - date published: 2023-10-25T08:54:34.964396+00:00
+ - user: None
+ - tags: ['personal']
+
+## Darling Development Blog
+ - [https://blog.darlinghq.org](https://blog.darlinghq.org)
+ - date published: 2023-10-25T21:12:33.218511+00:00
+ - user: None
+ - tags: []
+
+## daScript - The High Performance Programming Language
+ - [https://dascript.org](https://dascript.org)
+ - date published: 2023-11-03T08:29:51.010996+00:00
+ - user: None
+ - tags: []
+
+## Data Colada - Thinking about evidence and vice versa
+ - [https://datacolada.org](https://datacolada.org)
+ - date published: 2023-10-25T21:12:37.004872+00:00
+ - user: None
+ - tags: []
+
+## Data Physicalization - Data Physicalization Wiki
+ - [http://dataphys.org](http://dataphys.org)
+ - date published: 2023-10-25T21:12:38.813690+00:00
+ - user: None
+ - tags: []
+
+## The Professional Data Science Manifesto - Manifesto of Professional Data Science
+ - [http://datasciencemanifesto.org](http://datasciencemanifesto.org)
+ - date published: 2023-10-25T21:12:40.078564+00:00
+ - user: None
+ - tags: []
+
+## dataswamp.org
+ - [https://dataswamp.org](https://dataswamp.org)
+ - date published: 2023-10-25T21:12:41.913989+00:00
+ - user: None
+ - tags: []
+
+## David Smith, Independent iOS Developer
+ - [https://www.david-smith.org](https://www.david-smith.org)
+ - date published: 2023-10-25T21:12:44.390007+00:00
+ - user: None
+ - tags: []
+
+## David Cummings on Startups – 3,000+ posts on entrepreneurship and startups
+ - [https://davidcummings.org](https://davidcummings.org)
+ - date published: 2023-10-25T21:12:47.339422+00:00
+ - user: None
+ - tags: []
+
+## david galbraith
+ - [https://davidgalbraith.org](https://davidgalbraith.org)
+ - date published: 2023-10-25T21:12:51.395744+00:00
+ - user: None
+ - tags: []
+
+## Democracy for the Arab World Now - DAWN - Home
+ - [https://dawnmena.org](https://dawnmena.org)
+ - date published: 2023-10-25T21:12:58.207782+00:00
+ - user: None
+ - tags: []
+
+## Home - DBpedia Association
+ - [https://www.dbpedia.org](https://www.dbpedia.org)
+ - date published: 2023-10-25T21:13:01.971237+00:00
+ - user: None
+ - tags: []
+
+## A Data-Centric Introduction to Computing
+ - [https://dcic-world.org](https://dcic-world.org)
+ - date published: 2023-10-25T21:13:03.296556+00:00
+ - user: None
+ - tags: []
+
+## http://dconf.org
+ - [http://dconf.org](http://dconf.org)
+ - date published: 2023-10-25T21:13:05.108135+00:00
+ - user: None
+ - tags: []
+
+## De-Dollarization Facts: Up-To-Date Facts About The U.S. Dollar In The World
+ - [https://www.de-dollarization.org](https://www.de-dollarization.org)
+ - date published: 2023-10-25T21:13:07.530962+00:00
+ - user: None
+ - tags: []
+
+## Bits from Debian - Blog from the Debian Project
+ - [https://bits.debian.org](https://bits.debian.org)
+ - date published: 2023-10-25T21:13:16.611368+00:00
+ - user: None
+ - tags: []
+
 ## Debian bug tracking system
  - [https://bugs.debian.org](https://bugs.debian.org)
  - date published: 2023-10-25T21:13:19.916026+00:00
@@ -883,6 +1124,12 @@
 ## Fedora Updates System
  - [https://bodhi.fedoraproject.org](https://bodhi.fedoraproject.org)
  - date published: 2023-10-25T21:20:23.751445+00:00
+ - user: None
+ - tags: []
+
+## Fedora Linux
+ - [https://fedoraproject.org](https://fedoraproject.org)
+ - date published: 2023-11-12T00:21:07.905097+00:00
  - user: None
  - tags: []
 
@@ -3514,6 +3761,12 @@ Hosted by Panix.com.
  - user: None
  - tags: []
 
+## Matt Blaze / mattblaze.org
+ - [https://www.mattblaze.org](https://www.mattblaze.org)
+ - date published: 2023-11-12T18:27:09.723895+00:00
+ - user: None
+ - tags: []
+
 ## Matt Lakeman – Writing on books, experiments, and random things I can't stop thinking about
  - [https://mattlakeman.org](https://mattlakeman.org)
  - date published: 2023-10-25T21:40:58.876749+00:00
@@ -4244,6 +4497,12 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
+## The NetBSD Project
+ - [https://netbsd.org](https://netbsd.org)
+ - date published: 2023-11-12T09:19:23.719540+00:00
+ - user: None
+ - tags: []
+
 ## NetHack 3.6.7: NetHack Home Page
  - [https://www.nethack.org](https://www.nethack.org)
  - date published: 2023-10-25T21:46:54.945600+00:00
@@ -4589,6 +4848,12 @@ Common Weakness Enumeration
 ## Oakland Public Library
  - [https://oaklandlibrary.org](https://oaklandlibrary.org)
  - date published: 2023-10-25T21:50:54.405209+00:00
+ - user: None
+ - tags: []
+
+## Free Oberon
+ - [https://free.oberon.org](https://free.oberon.org)
+ - date published: 2023-11-12T15:24:40.934897+00:00
  - user: None
  - tags: []
 
@@ -5738,268 +6003,4 @@ Common Weakness Enumeration
  - date published: 2023-10-25T22:00:34.789587+00:00
  - user: None
  - tags: []
-
-## Association for Psychological Science – APS
- - [https://www.psychologicalscience.org](https://www.psychologicalscience.org)
- - date published: 2023-10-25T22:00:43.205501+00:00
- - user: None
- - tags: []
-
-## PostgreSQL driver for Python — Psycopg
- - [https://www.psycopg.org](https://www.psycopg.org)
- - date published: 2023-10-25T22:00:45.711335+00:00
- - user: None
- - tags: []
-
-## http://www.psygnosis.org
- - [http://www.psygnosis.org](http://www.psygnosis.org)
- - date published: 2023-11-06T10:59:24.530295+00:00
- - user: None
- - tags: ['amiga', 'game studio']
-
-## PsyPost - Reporting the latest scientific research on behavior, cognition and society
- - [https://www.psypost.org](https://www.psypost.org)
- - date published: 2023-10-25T22:00:49.739432+00:00
- - user: None
- - tags: []
-
-## Homepage - Public Books
- - [https://www.publicbooks.org](https://www.publicbooks.org)
- - date published: 2023-10-25T22:00:55.631572+00:00
- - user: None
- - tags: []
-
-## The Public Domain Review – Online journal dedicated to showcasing the most interesting and unusual out-of-copyright works available on the web
- - [https://publicdomainreview.org](https://publicdomainreview.org)
- - date published: 2023-10-25T22:00:57.723285+00:00
- - user: None
- - tags: []
-
-## Home - Initiative for Digital Public Infrastructure
- - [https://publicinfrastructure.org](https://publicinfrastructure.org)
- - date published: 2023-10-25T22:00:59.372808+00:00
- - user: None
- - tags: []
-
-## PubMedInfo - niewygodne informacje i komunikaty - Chcesz podejmować świadome decyzje na temat szczepień? Dowiedz się tego co jest pomijane w debacie na temat szczepień, aby móc takie decyzje podejmować.
- - [https://pubmedinfo.org](https://pubmedinfo.org)
- - date published: 2023-10-25T22:01:02.466312+00:00
- - user: None
- - tags: []
-
-## RS Open Journal on Innovative Communication Technologies
- - [https://rs-ojict.pubpub.org](https://rs-ojict.pubpub.org)
- - date published: 2023-10-25T22:01:11.596207+00:00
- - user: None
- - tags: []
-
-## http://punkx.org
- - [http://punkx.org](http://punkx.org)
- - date published: 2023-10-25T22:01:12.902044+00:00
- - user: None
- - tags: []
-
-## Download PuTTY - a free SSH and telnet client for Windows
- - [https://putty.org](https://putty.org)
- - date published: 2023-10-30T14:12:02.186125+00:00
- - user: None
- - tags: ['terminal', 'ssh']
-
-## Printable Puzzle Project
- - [https://www.puzzlehub.org](https://www.puzzlehub.org)
- - date published: 2023-10-25T22:01:15.608110+00:00
- - user: None
- - tags: []
-
-## PyPI Data
- - [https://py-code.org](https://py-code.org)
- - date published: 2023-10-25T22:01:22.138423+00:00
- - user: None
- - tags: []
-
-## Numba: A High Performance Python Compiler
- - [https://numba.pydata.org](https://numba.pydata.org)
- - date published: 2023-10-25T22:01:24.536126+00:00
- - user: None
- - tags: []
-
-## PyData |
- - [https://pydata.org](https://pydata.org)
- - date published: 2023-10-25T22:01:28.793660+00:00
- - user: None
- - tags: []
-
-## The Python Package Index
- - [https://blog.pypi.org](https://blog.pypi.org)
- - date published: 2023-10-25T22:01:31.397737+00:00
- - user: None
- - tags: []
-
-## PyPI · The Python Package Index
- - [https://pypi.org](https://pypi.org)
- - date published: 2023-10-25T22:01:32.343167+00:00
- - user: None
- - tags: []
-
-## PyPy
- - [https://www.pypy.org](https://www.pypy.org)
- - date published: 2023-10-25T22:01:33.685132+00:00
- - user: None
- - tags: []
-
-## Discussions on Python.org
- - [https://discuss.python.org](https://discuss.python.org)
- - date published: 2023-10-25T22:01:36.521112+00:00
- - user: None
- - tags: []
-
-## 3.12.0 Documentation
- - [https://docs.python.org](https://docs.python.org)
- - date published: 2023-10-25T22:01:37.607967+00:00
- - user: None
- - tags: []
-
-## PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org
- - [https://peps.python.org](https://peps.python.org)
- - date published: 2023-10-25T22:01:48.328063+00:00
- - user: None
- - tags: []
-
-## Python Infrastructure Status
- - [https://status.python.org](https://status.python.org)
- - date published: 2023-10-25T22:01:55.156781+00:00
- - user: None
- - tags: []
-
-## Python Software Foundation Wiki Server
- - [https://wiki.python.org](https://wiki.python.org)
- - date published: 2023-10-29T15:06:13.910839+00:00
- - user: None
- - tags: ['python']
-
-## Welcome to Python.org
- - [https://www.python.org](https://www.python.org)
- - date published: 2023-11-01T08:44:37.169601+00:00
- - user: None
- - tags: []
-
-## PyTorch
- - [https://pytorch.org](https://pytorch.org)
- - date published: 2023-10-25T08:34:08.387489+00:00
- - user: None
- - tags: []
-
-## Worldspawn Archiwum
- - [https://pl.ws.q3df.org](https://pl.ws.q3df.org)
- - date published: 2023-10-30T15:15:49.034470+00:00
- - user: None
- - tags: []
-
-## Worldspawn Archive
- - [https://ws.q3df.org](https://ws.q3df.org)
- - date published: 2023-10-28T20:31:03.999056+00:00
- - user: None
- - tags: []
-
-## q3k
- - [https://q3k.org](https://q3k.org)
- - date published: 2023-10-25T22:01:55.679629+00:00
- - user: None
- - tags: []
-
-## KVM Forum 2023 :: pretalx
- - [https://kvm-forum.qemu.org](https://kvm-forum.qemu.org)
- - date published: 2023-10-25T22:01:56.457833+00:00
- - user: None
- - tags: []
-
-## QEMU
- - [https://www.qemu.org](https://www.qemu.org)
- - date published: 2023-10-25T08:34:09.763125+00:00
- - user: None
- - tags: ['emulation']
-
-## Things Of Interest @ Things Of Interest
- - [https://qntm.org](https://qntm.org)
- - date published: 2023-10-25T22:01:57.192098+00:00
- - user: None
- - tags: []
-
-## Quake Wiki
- - [https://quakewiki.org](https://quakewiki.org)
- - date published: 2023-10-25T11:18:24.728059+00:00
- - user: None
- - tags: []
-
-## Home Page | Labs
- - [https://labs.quansight.org](https://labs.quansight.org)
- - date published: 2023-10-25T22:01:58.917306+00:00
- - user: None
- - tags: []
-
-## Quanta Magazine
- - [https://www.quantamagazine.org](https://www.quantamagazine.org)
- - date published: 2023-10-25T10:12:13.758505+00:00
- - user: None
- - tags: []
-
-## Qubes OS: A reasonably secure operating system | Qubes OS
- - [https://www.qubes-os.org](https://www.qubes-os.org)
- - date published: 2023-10-25T22:02:00.525326+00:00
- - user: None
- - tags: []
-
-## Matthias Kramm's Homepage
- - [http://www.quiss.org](http://www.quiss.org)
- - date published: 2023-10-25T22:02:01.175325+00:00
- - user: None
- - tags: []
-
-## index - quitesimple
- - [https://quitesimple.org](https://quitesimple.org)
- - date published: 2023-10-25T22:02:01.982681+00:00
- - user: None
- - tags: []
-
-## (thirteenth RacketCon)
- - [https://con.racket-lang.org](https://con.racket-lang.org)
- - date published: 2023-10-25T22:02:08.109541+00:00
- - user: None
- - tags: []
-
-## Racket Documentation
- - [https://docs.racket-lang.org](https://docs.racket-lang.org)
- - date published: 2023-10-25T22:02:21.902657+00:00
- - user: None
- - tags: []
-
-## RacketScript Playground
- - [http://racketscript.org](http://racketscript.org)
- - date published: 2023-10-25T22:02:22.780541+00:00
- - user: None
- - tags: []
-
-## Maritime Radio Historical Society
- - [https://www.radiomarine.org](https://www.radiomarine.org)
- - date published: 2023-10-25T22:02:24.468695+00:00
- - user: None
- - tags: []
-
-## raf
- - [https://raf.org](https://raf.org)
- - date published: 2023-10-25T22:02:27.334662+00:00
- - user: None
- - tags: []
-
-## Rampant.org
- - [http://www.rampant.org](http://www.rampant.org)
- - date published: 2023-10-25T22:02:28.158293+00:00
- - user: None
- - tags: []
-
-## FrontPage - Raspbian
- - [https://www.raspbian.org](https://www.raspbian.org)
- - date published: 2023-10-25T08:32:31.918076+00:00
- - user: None
- - tags: ['open source', 'operating system', 'linux', 'raspberry']
 

@@ -1,3 +1,165 @@
+## マリウス
+ - [https://xn--gckvb8fzb.com](https://xn--gckvb8fzb.com)
+ - date published: 2023-10-25T18:22:01.979918+00:00
+ - user: None
+ - tags: []
+
+## XOR’s Hammer – Some things in mathematical logic that I find interesting
+ - [https://xorshammer.com](https://xorshammer.com)
+ - date published: 2023-10-25T18:22:04.640484+00:00
+ - user: None
+ - tags: []
+
+## xorvoid
+ - [https://xorvoid.com](https://xorvoid.com)
+ - date published: 2023-10-25T18:22:05.503748+00:00
+ - user: None
+ - tags: []
+
+## Graphic drawing tablets & Digital Art Pads With Screen | XPPen
+ - [https://www.xp-pen.com](https://www.xp-pen.com)
+ - date published: 2023-10-27T13:56:49.144113+00:00
+ - user: None
+ - tags: ['drawing', 'hardware']
+
+## XPN InfoSec Blog
+ - [https://blog.xpnsec.com](https://blog.xpnsec.com)
+ - date published: 2023-10-25T18:22:06.411182+00:00
+ - user: None
+ - tags: []
+
+## XTDB
+ - [https://www.xtdb.com](https://www.xtdb.com)
+ - date published: 2023-10-25T18:22:07.780785+00:00
+ - user: None
+ - tags: []
+
+## Xtra Magazine - Queering the conversation
+ - [https://xtramagazine.com](https://xtramagazine.com)
+ - date published: 2023-10-25T18:22:10.782790+00:00
+ - user: None
+ - tags: ['the left wing', 'lgbt']
+
+## XXIIVV — In Transit
+ - [https://wiki.xxiivv.com](https://wiki.xxiivv.com)
+ - date published: 2023-10-25T18:22:11.321810+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://au.finance.yahoo.com](https://au.finance.yahoo.com)
+ - date published: 2023-10-25T18:22:17.506355+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://au.news.yahoo.com](https://au.news.yahoo.com)
+ - date published: 2023-11-02T01:27:24.024533+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://ca.news.yahoo.com](https://ca.news.yahoo.com)
+ - date published: 2023-10-25T18:22:19.311480+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://ca.style.yahoo.com](https://ca.style.yahoo.com)
+ - date published: 2023-11-02T17:22:20.047082+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://finance.yahoo.com](https://finance.yahoo.com)
+ - date published: 2023-10-25T10:30:30.327746+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://news.yahoo.com](https://news.yahoo.com)
+ - date published: 2023-10-25T10:16:52.263929+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://sg.news.yahoo.com](https://sg.news.yahoo.com)
+ - date published: 2023-11-08T17:23:05.854339+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://uk.news.yahoo.com](https://uk.news.yahoo.com)
+ - date published: 2023-10-25T18:22:21.043179+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://uk.sports.yahoo.com](https://uk.sports.yahoo.com)
+ - date published: 2023-10-25T18:22:22.751947+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://www.yahoo.com](https://www.yahoo.com)
+ - date published: 2023-10-25T08:28:22.683805+00:00
+ - user: None
+ - tags: ['search engine']
+
+## Yakihonne
+ - [https://yakihonne.com](https://yakihonne.com)
+ - date published: 2023-10-25T18:22:24.673328+00:00
+ - user: None
+ - tags: []
+
+## Yandex
+ - [https://yandex.com](https://yandex.com)
+ - date published: 2023-10-25T08:28:25.478842+00:00
+ - user: None
+ - tags: ['search engine']
+
+## VC Europe I Yannick Oswald I Blog I European VC Musings
+ - [https://www.yannickoswald.com](https://www.yannickoswald.com)
+ - date published: 2023-10-25T18:22:27.341830+00:00
+ - user: None
+ - tags: []
+
+## Home — @ybouane
+ - [https://ybouane.com](https://ybouane.com)
+ - date published: 2023-10-25T18:22:29.074580+00:00
+ - user: None
+ - tags: []
+
+## Hacker News
+ - [https://news.ycombinator.com](https://news.ycombinator.com)
+ - date published: 2023-10-25T18:22:31.665387+00:00
+ - user: None
+ - tags: ['hacker']
+
+## Y Combinator
+ - [https://www.ycombinator.com](https://www.ycombinator.com)
+ - date published: 2023-10-25T18:22:35.240796+00:00
+ - user: None
+ - tags: []
+
+## yeggi - 3D Printer Models Search Engine
+ - [https://www.yeggi.com](https://www.yeggi.com)
+ - date published: 2023-10-25T08:30:16.926541+00:00
+ - user: None
+ - tags: ['3d printing', 'assets models']
+
+## YKM's Corner on the Web
+ - [https://yeokhengmeng.com](https://yeokhengmeng.com)
+ - date published: 2023-10-25T18:22:37.585912+00:00
+ - user: None
+ - tags: []
+
+## Yet Another Blog
+ - [https://www.yet-another-blog.com](https://www.yet-another-blog.com)
+ - date published: 2023-10-25T18:22:39.053631+00:00
+ - user: None
+ - tags: []
+
 ## Yisheng's blog – software engineering, poetry and short stories
  - [https://yishenggong.com](https://yishenggong.com)
  - date published: 2023-10-25T18:22:43.268814+00:00
@@ -2280,6 +2442,12 @@ home
  - user: None
  - tags: []
 
+## Steel Rods
+ - [https://steelrods.hashnode.dev](https://steelrods.hashnode.dev)
+ - date published: 2023-11-12T13:46:14.283644+00:00
+ - user: None
+ - tags: []
+
 ## Henrique Vicente
  - [https://henvic.dev](https://henvic.dev)
  - date published: 2023-10-25T09:21:40.457532+00:00
@@ -3644,6 +3812,12 @@ home
  - user: None
  - tags: []
 
+## SektorCERT
+ - [https://sektorcert.dk](https://sektorcert.dk)
+ - date published: 2023-11-12T14:44:45.072325+00:00
+ - user: None
+ - tags: []
+
 ## Sundhedsstyrelsen
  - [https://www.sst.dk](https://www.sst.dk)
  - date published: 2023-10-25T18:46:10.089946+00:00
@@ -4947,6 +5121,12 @@ home
  - user: None
  - tags: []
 
+## Data Science
+ - [https://datascience.stanford.edu](https://datascience.stanford.edu)
+ - date published: 2023-11-12T13:46:11.993969+00:00
+ - user: None
+ - tags: []
+
 ## http://ee380.stanford.edu
  - [http://ee380.stanford.edu](http://ee380.stanford.edu)
  - date published: 2023-10-25T18:58:22.600634+00:00
@@ -5493,6 +5673,12 @@ home
  - user: None
  - tags: []
 
+## REDCap
+ - [https://survey.cas.unt.edu](https://survey.cas.unt.edu)
+ - date published: 2023-11-12T22:46:43.305600+00:00
+ - user: None
+ - tags: []
+
 ## Around the O | University of Oregon
  - [https://around.uoregon.edu](https://around.uoregon.edu)
  - date published: 2023-10-25T19:03:45.815223+00:00
@@ -5775,6 +5961,12 @@ home
  - user: None
  - tags: []
 
+## News from the University of Wisconsin–Madison
+ - [https://news.wisc.edu](https://news.wisc.edu)
+ - date published: 2023-11-12T12:01:17.297435+00:00
+ - user: None
+ - tags: []
+
 ## UW Computer Sciences User Pages
  - [https://pages.cs.wisc.edu](https://pages.cs.wisc.edu)
  - date published: 2023-10-25T19:06:38.993669+00:00
@@ -5814,198 +6006,6 @@ home
 ## Yale E360
  - [https://e360.yale.edu](https://e360.yale.edu)
  - date published: 2023-10-25T19:06:53.110107+00:00
- - user: None
- - tags: []
-
-## YaleNews | Home
- - [https://news.yale.edu](https://news.yale.edu)
- - date published: 2023-10-25T19:06:55.320385+00:00
- - user: None
- - tags: []
-
-## http://www.cs.yale.edu
- - [http://www.cs.yale.edu](http://www.cs.yale.edu)
- - date published: 2023-10-25T19:06:55.836434+00:00
- - user: None
- - tags: []
-
-## Esileht - Ants Nomm
- - [https://ano.ee](https://ano.ee)
- - date published: 2023-10-25T19:06:58.105867+00:00
- - user: None
- - tags: []
-
-## fuzzy notepad
- - [https://eev.ee](https://eev.ee)
- - date published: 2023-10-25T08:49:06.921537+00:00
- - user: None
- - tags: ['personal']
-
-## news | ERR
- - [https://news.err.ee](https://news.err.ee)
- - date published: 2023-10-25T19:07:03.906710+00:00
- - user: None
- - tags: []
-
-## Haze Booth
- - [https://haz.ee](https://haz.ee)
- - date published: 2023-10-25T19:07:04.320998+00:00
- - user: None
- - tags: []
-
-## Jakarta® EE | Cloud Native Enterprise Java | Java EE | the Eclipse Foundation | The Eclipse Foundation
- - [https://jakarta.ee](https://jakarta.ee)
- - date published: 2023-10-25T19:07:06.974394+00:00
- - user: None
- - tags: []
-
-## lemm.ee - General-purpose Lemmy instance. New users and communities welcome!
- - [https://lemm.ee](https://lemm.ee)
- - date published: 2023-10-24T20:14:55.872230+00:00
- - user: None
- - tags: []
-
-## Linktree: Link everything you are
- - [https://linktr.ee](https://linktr.ee)
- - date published: 2023-10-31T16:18:01.056130+00:00
- - user: None
- - tags: []
-
-## Hello there.
- - [https://ounapuu.ee](https://ounapuu.ee)
- - date published: 2023-10-25T08:49:07.717738+00:00
- - user: None
- - tags: ['personal']
-
-## Solutional - Agile Software Development Company
- - [https://solutional.ee](https://solutional.ee)
- - date published: 2023-10-25T19:07:07.982182+00:00
- - user: None
- - tags: []
-
-## http://raport.valisluureamet.ee
- - [http://raport.valisluureamet.ee](http://raport.valisluureamet.ee)
- - date published: 2023-10-25T19:07:08.839982+00:00
- - user: None
- - tags: []
-
-## e-Residency of Estonia | Apply & start an EU company online
- - [https://www.e-resident.gov.ee](https://www.e-resident.gov.ee)
- - date published: 2023-10-25T19:07:11.004930+00:00
- - user: None
- - tags: []
-
-## Buttondown
- - [https://buttondown.email](https://buttondown.email)
- - date published: 2023-10-25T19:07:12.851726+00:00
- - user: None
- - tags: []
-
-## Hired - Job Search Marketplace. Tech Job Hunting Simplified!
- - [https://pages.hired.email](https://pages.hired.email)
- - date published: 2023-10-25T19:07:15.214689+00:00
- - user: None
- - tags: []
-
-## Tabular — Free email editor to build responsive emails
- - [https://tabular.email](https://tabular.email)
- - date published: 2023-10-25T19:07:16.469881+00:00
- - user: None
- - tags: []
-
-## Use plaintext email
- - [https://useplaintext.email](https://useplaintext.email)
- - date published: 2023-10-25T19:07:18.065331+00:00
- - user: None
- - tags: []
-
-## mastodon.energy
- - [https://mastodon.energy](https://mastodon.energy)
- - date published: 2023-10-25T19:07:20.188942+00:00
- - user: None
- - tags: []
-
-## Same Energy | Visual Search Engine
- - [https://same.energy](https://same.energy)
- - date published: 2023-10-27T11:57:04.678687+00:00
- - user: None
- - tags: []
-
-## 16x Engineer
- - [https://16x.engineer](https://16x.engineer)
- - date published: 2023-10-27T11:57:06.295677+00:00
- - user: None
- - tags: []
-
-## Nyxt browser: The hacker's browser
- - [https://nyxt.atlas.engineer](https://nyxt.atlas.engineer)
- - date published: 2023-10-27T11:57:07.797367+00:00
- - user: None
- - tags: []
-
-## Cookie Engineer's Portfolio
- - [https://cookie.engineer](https://cookie.engineer)
- - date published: 2023-10-25T08:49:08.447741+00:00
- - user: None
- - tags: ['personal']
-
-## Blog about my engineering projects
- - [https://mark.engineer](https://mark.engineer)
- - date published: 2023-11-07T15:23:05.500491+00:00
- - user: None
- - tags: []
-
-## Max Chernyak
- - [https://max.engineer](https://max.engineer)
- - date published: 2023-10-25T19:07:41.764398+00:00
- - user: None
- - tags: []
-
-## DoorDash Engineering
- - [https://doordash.engineering](https://doordash.engineering)
- - date published: 2023-10-25T19:07:47.207070+00:00
- - user: None
- - tags: []
-
-## Practical Engineering
- - [https://practical.engineering](https://practical.engineering)
- - date published: 2023-10-25T19:07:48.828528+00:00
- - user: None
- - tags: []
-
-## Shopify Engineering
- - [https://shopify.engineering](https://shopify.engineering)
- - date published: 2023-10-25T19:07:52.357916+00:00
- - user: None
- - tags: []
-
-## Slack Engineering -
- - [https://slack.engineering](https://slack.engineering)
- - date published: 2023-10-25T19:07:53.963866+00:00
- - user: None
- - tags: []
-
-## teenage engineering
- - [https://teenage.engineering](https://teenage.engineering)
- - date published: 2023-10-25T19:07:54.710750+00:00
- - user: None
- - tags: []
-
-## Home - Kayce Basques
- - [https://kayce.basqu.es](https://kayce.basqu.es)
- - date published: 2023-10-25T19:07:55.486364+00:00
- - user: None
- - tags: []
-
-## Bèr ‘berkes’ Kessels
- - [https://berk.es](https://berk.es)
- - date published: 2023-10-25T19:07:56.813852+00:00
- - user: None
- - tags: []
-
-## J. Ryan Stinnett
- - [https://convolv.es](https://convolv.es)
- - date published: 2023-11-10T06:49:58.797104+00:00
  - user: None
  - tags: []
 

@@ -598,6 +598,12 @@
  - user: None
  - tags: []
 
+## Guides.ai - Tutorials for Artificial Intelligence (AI)
+ - [https://guides.ai](https://guides.ai)
+ - date published: 2023-11-12T22:06:18.850956+00:00
+ - user: None
+ - tags: []
+
 ## HaiHai Labs - What will we build with AI?
  - [https://www.haihai.ai](https://www.haihai.ai)
  - date published: 2023-10-25T11:26:46.096389+00:00
@@ -2278,6 +2284,12 @@
  - user: None
  - tags: ['substack']
 
+## Show HN: Send me an IRL message and watch it arrive
+ - [https://hi.benren.au](https://hi.benren.au)
+ - date published: 2023-11-11T21:30:48+00:00
+ - user: None
+ - tags: []
+
 ## ruscur's blog
  - [https://ruscur.au](https://ruscur.au)
  - date published: 2023-10-25T09:01:09.096657+00:00
@@ -2425,6 +2437,12 @@
 ## Latest News Headlines From Australia & World | The New Daily
  - [https://thenewdaily.com.au](https://thenewdaily.com.au)
  - date published: 2023-10-25T11:47:23.724928+00:00
+ - user: None
+ - tags: []
+
+## Latest News Headlines From Australia & World | The New Daily
+ - [https://www.thenewdaily.com.au](https://www.thenewdaily.com.au)
+ - date published: 2023-11-12T03:18:59.841211+00:00
  - user: None
  - tags: []
 
@@ -5616,6 +5634,12 @@
  - user: None
  - tags: []
 
+## TED: Ideas Worth Spreading
+ - [https://Ted.com](https://Ted.com)
+ - date published: 2023-11-12T01:39:05.401960+00:00
+ - user: None
+ - tags: []
+
 ## Andreessen Horowitz | Software Is Eating the World
  - [https://a16z.com](https://a16z.com)
  - date published: 2023-10-25T12:28:40.833485+00:00
@@ -5967,30 +5991,6 @@
 ## AdGuard — World's most advanced adblocker!
  - [https://adguard.com](https://adguard.com)
  - date published: 2023-10-25T12:32:34.038564+00:00
- - user: None
- - tags: []
-
-## AdGuard VPN for your privacy and security
- - [https://adguard-vpn.com](https://adguard-vpn.com)
- - date published: 2023-10-25T12:32:39.988761+00:00
- - user: None
- - tags: []
-
-## Adi's Thoughts
- - [https://www.adityabaradwaj.com](https://www.adityabaradwaj.com)
- - date published: 2023-10-25T08:44:06.720224+00:00
- - user: None
- - tags: ['personal']
-
-## Home | Adiuvo Engineering
- - [https://www.adiuvoengineering.com](https://www.adiuvoengineering.com)
- - date published: 2023-10-25T12:32:43.380851+00:00
- - user: None
- - tags: []
-
-## Admin Hacks
- - [https://adminhacks.com](https://adminhacks.com)
- - date published: 2023-10-25T12:32:45.243933+00:00
  - user: None
  - tags: []
 

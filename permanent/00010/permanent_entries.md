@@ -1,3 +1,213 @@
+## Articles | Madaidan's Insecurities
+ - [https://madaidans-insecurities.github.io](https://madaidans-insecurities.github.io)
+ - date published: 2023-10-25T19:49:09.552990+00:00
+ - user: None
+ - tags: []
+
+## MagicEdit: High-Fidelity Temporally Coherent Video Editing
+ - [https://magic-edit.github.io](https://magic-edit.github.io)
+ - date published: 2023-10-25T19:49:15.486474+00:00
+ - user: None
+ - tags: []
+
+## Maik Klein
+ - [https://maikklein.github.io](https://maikklein.github.io)
+ - date published: 2023-10-25T19:49:16.084796+00:00
+ - user: None
+ - tags: []
+
+## Text-To-4D Dynamic Scene Generation
+ - [https://make-a-video3d.github.io](https://make-a-video3d.github.io)
+ - date published: 2023-10-25T19:49:16.845049+00:00
+ - user: None
+ - tags: []
+
+## https://makelinux.github.io
+ - [https://makelinux.github.io](https://makelinux.github.io)
+ - date published: 2023-10-25T19:49:17.988414+00:00
+ - user: None
+ - tags: []
+
+## Make Source Not Code!
+ - [https://makesourcenotcode.github.io](https://makesourcenotcode.github.io)
+ - date published: 2023-10-25T19:49:19.134099+00:00
+ - user: None
+ - tags: []
+
+## Marc Khoury
+ - [https://marckhoury.github.io](https://marckhoury.github.io)
+ - date published: 2023-10-25T19:49:20.531403+00:00
+ - user: None
+ - tags: []
+
+## matklad
+ - [https://matklad.github.io](https://matklad.github.io)
+ - date published: 2023-10-25T08:59:11.538366+00:00
+ - user: None
+ - tags: ['personal']
+
+## max-bittker
+ - [https://maxbittker.github.io](https://maxbittker.github.io)
+ - date published: 2023-10-25T19:49:22.435813+00:00
+ - user: None
+ - tags: []
+
+## Max Halford
+ - [https://maxhalford.github.io](https://maxhalford.github.io)
+ - date published: 2023-10-25T19:49:24.332431+00:00
+ - user: None
+ - tags: []
+
+## TL;DR
+ - [https://mazzzystar.github.io](https://mazzzystar.github.io)
+ - date published: 2023-10-25T19:49:26.116164+00:00
+ - user: None
+ - tags: []
+
+## About me - Matthew N. Bernstein
+ - [https://mbernste.github.io](https://mbernste.github.io)
+ - date published: 2023-10-25T19:49:29.242200+00:00
+ - user: None
+ - tags: []
+
+## Main Page | mcraiha.github.io
+ - [https://mcraiha.github.io](https://mcraiha.github.io)
+ - date published: 2023-10-25T19:49:31.004901+00:00
+ - user: None
+ - tags: []
+
+## memN0ps | Home
+ - [https://memn0ps.github.io](https://memn0ps.github.io)
+ - date published: 2023-10-25T19:49:32.657873+00:00
+ - user: None
+ - tags: []
+
+## Faizan Muhammad
+ - [https://mfaizan.github.io](https://mfaizan.github.io)
+ - date published: 2023-10-25T19:49:34.141989+00:00
+ - user: None
+ - tags: []
+
+## Micro - Home
+ - [https://micro-editor.github.io](https://micro-editor.github.io)
+ - date published: 2023-10-25T19:49:35.768499+00:00
+ - user: None
+ - tags: []
+
+## Microsoft on GitHub
+ - [https://microsoft.github.io](https://microsoft.github.io)
+ - date published: 2023-10-25T19:49:36.893262+00:00
+ - user: None
+ - tags: []
+
+## Åsbjørnsson-Stensland
+ - [https://mikaei.github.io](https://mikaei.github.io)
+ - date published: 2023-10-25T08:59:12.188442+00:00
+ - user: None
+ - tags: ['personal']
+
+## MinD-Vis
+ - [https://mind-vis.github.io](https://mind-vis.github.io)
+ - date published: 2023-10-25T19:49:38.256010+00:00
+ - user: None
+ - tags: []
+
+## Minigpt-4
+ - [https://minigpt-4.github.io](https://minigpt-4.github.io)
+ - date published: 2023-10-25T19:49:44.882724+00:00
+ - user: None
+ - tags: []
+
+## Mist
+ - [https://mist-project.github.io](https://mist-project.github.io)
+ - date published: 2023-10-25T19:49:50.638949+00:00
+ - user: None
+ - tags: []
+
+## Page Redirection
+ - [https://mister-devel.github.io](https://mister-devel.github.io)
+ - date published: 2023-10-25T19:49:51.049608+00:00
+ - user: None
+ - tags: []
+
+## Repositories
+ - [https://mlochbaum.github.io](https://mlochbaum.github.io)
+ - date published: 2023-10-25T19:49:51.923737+00:00
+ - user: None
+ - tags: []
+
+## home
+ - [https://mnky9800n.github.io](https://mnky9800n.github.io)
+ - date published: 2023-10-25T08:49:23.910775+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mnpn
+ - [https://mnpn.github.io](https://mnpn.github.io)
+ - date published: 2023-10-25T19:49:53.566169+00:00
+ - user: None
+ - tags: []
+
+## http://mode80.github.io
+ - [http://mode80.github.io](http://mode80.github.io)
+ - date published: 2023-10-25T19:49:54.906689+00:00
+ - user: None
+ - tags: []
+
+## Moonthoughts
+ - [https://moonthought.github.io](https://moonthought.github.io)
+ - date published: 2023-10-25T08:49:24.474212+00:00
+ - user: None
+ - tags: ['personal']
+
+## Morten Rieger Hannemose
+ - [https://mortenhannemose.github.io](https://mortenhannemose.github.io)
+ - date published: 2023-10-25T19:49:56.748812+00:00
+ - user: None
+ - tags: []
+
+## Jingxiang Sun (孙景翔)'s Homepage
+ - [https://mrtornado24.github.io](https://mrtornado24.github.io)
+ - date published: 2023-10-27T15:10:51.824415+00:00
+ - user: None
+ - tags: []
+
+## Mutt0-ds Notes
+ - [https://mutt0-ds.github.io](https://mutt0-ds.github.io)
+ - date published: 2023-10-25T19:49:59.363681+00:00
+ - user: None
+ - tags: []
+
+## n-eq · Nabil Elqatib's blog
+ - [https://n-eq.github.io](https://n-eq.github.io)
+ - date published: 2023-10-25T19:50:01.556221+00:00
+ - user: None
+ - tags: []
+
+## Nathan Rooy
+ - [https://nathanrooy.github.io](https://nathanrooy.github.io)
+ - date published: 2023-10-25T19:50:08.197904+00:00
+ - user: None
+ - tags: []
+
+## The Neat Language — Neat  documentation
+ - [https://neat-lang.github.io](https://neat-lang.github.io)
+ - date published: 2023-10-25T19:50:11.219633+00:00
+ - user: None
+ - tags: []
+
+## Nebuchadnezzar | Practically-exploitable Cryptographic Vulnerabilities in Matrix
+ - [https://nebuchadnezzar-megolm.github.io](https://nebuchadnezzar-megolm.github.io)
+ - date published: 2023-10-25T19:50:12.879107+00:00
+ - user: None
+ - tags: []
+
+## 🏡 Neil's Place
+ - [https://neilbostian.github.io](https://neilbostian.github.io)
+ - date published: 2023-10-25T19:50:14.329695+00:00
+ - user: None
+ - tags: []
+
 ## Eight million pixels and counting
  - [https://nical.github.io](https://nical.github.io)
  - date published: 2023-10-25T19:50:15.945525+00:00
@@ -145,6 +355,12 @@
 ## My public GitHub repositories
  - [https://phiresky.github.io](https://phiresky.github.io)
  - date published: 2023-10-25T19:51:09.677043+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://pit-ray.github.io](https://pit-ray.github.io)
+ - date published: 2023-11-12T04:00:37.739533+00:00
  - user: None
  - tags: []
 
@@ -400,6 +616,12 @@
  - user: None
  - tags: []
 
+## Sivome
+ - [https://sivome.github.io](https://sivome.github.io)
+ - date published: 2023-11-12T08:19:47.034590+00:00
+ - user: None
+ - tags: []
+
 ## Ramblings of a cloud engineer
  - [https://skarlso.github.io](https://skarlso.github.io)
  - date published: 2023-10-27T10:24:30.773839+00:00
@@ -445,6 +667,12 @@
 ## Stefan Schüller
  - [https://sschueller.github.io](https://sschueller.github.io)
  - date published: 2023-10-25T19:54:28.538345+00:00
+ - user: None
+ - tags: []
+
+## https://stanforddatascience.github.io
+ - [https://stanforddatascience.github.io](https://stanforddatascience.github.io)
+ - date published: 2023-11-12T20:45:27.941454+00:00
  - user: None
  - tags: []
 
@@ -5770,232 +5998,4 @@ End-to-end typesafe APIs made easy. | tRPC
  - date published: 2023-10-25T20:28:44.980999+00:00
  - user: None
  - tags: []
-
-## renegat0x0 site
- - [https://renegat0x0.ddns.net](https://renegat0x0.ddns.net)
- - date published: 2023-10-25T08:52:16.878263+00:00
- - user: None
- - tags: ['personal']
-
-## Retro cracking and art underground | Defacto2
- - [https://defacto2.net](https://defacto2.net)
- - date published: 2023-10-25T20:28:49.622968+00:00
- - user: None
- - tags: []
-
-## Defined Networking
- - [https://www.defined.net](https://www.defined.net)
- - date published: 2023-10-25T20:28:51.152764+00:00
- - user: None
- - tags: []
-
-## Mastodon
- - [https://mastodon.delroth.net](https://mastodon.delroth.net)
- - date published: 2023-10-24T20:12:45.014547+00:00
- - user: None
- - tags: []
-
-## Art-of-Coding, an initiative to enlist the demoscene as first digital culture on the list of UNESCO intangible world cultural heritage - Demoscene - The Art of Coding
- - [http://demoscene-the-art-of-coding.net](http://demoscene-the-art-of-coding.net)
- - date published: 2023-10-25T20:28:56.641621+00:00
- - user: None
- - tags: []
-
-## Desdemona Despair – Blogging the End of the World™
- - [https://desdemonadespair.net](https://desdemonadespair.net)
- - date published: 2023-10-25T20:28:59.822386+00:00
- - user: None
- - tags: []
-
-## deskthority - Index page
- - [https://deskthority.net](https://deskthority.net)
- - date published: 2023-10-25T20:29:00.971441+00:00
- - user: None
- - tags: []
-
-## Daniel Estévez – Scientific & Technical Amateur Radio — Home of EA4GPZ / M0HXM
- - [https://destevez.net](https://destevez.net)
- - date published: 2023-10-25T09:23:00.010601+00:00
- - user: None
- - tags: ['personal']
-
-## Deus In Machina | Diego Crespo | Substack
- - [https://www.deusinmachina.net](https://www.deusinmachina.net)
- - date published: 2023-10-25T10:08:14.443830+00:00
- - user: None
- - tags: ['substack']
-
-## devever
- - [https://www.devever.net](https://www.devever.net)
- - date published: 2023-10-25T08:41:20.331085+00:00
- - user: None
- - tags: ['personal']
-
-## Diablo 2 Database Fansite | Diablo-2.net
- - [https://www.diablo-2.net](https://www.diablo-2.net)
- - date published: 2023-10-25T11:10:20.483355+00:00
- - user: None
- - tags: []
-
-## Welcome to dialup.net
- - [https://www.dialup.net](https://www.dialup.net)
- - date published: 2023-10-25T20:29:02.353079+00:00
- - user: None
- - tags: []
-
-## Sign in · GitLab
- - [https://gitlab.digilol.net](https://gitlab.digilol.net)
- - date published: 2023-10-25T20:29:04.046376+00:00
- - user: None
- - tags: []
-
-## Snacks of the internet | Digisnacks.net
- - [https://www.digisnacks.net](https://www.digisnacks.net)
- - date published: 2023-10-25T11:17:47.532576+00:00
- - user: None
- - tags: []
-
-## Digital Foundry
- - [https://www.digitalfoundry.net](https://www.digitalfoundry.net)
- - date published: 2023-10-25T18:13:04.739169+00:00
- - user: None
- - tags: []
-
-## Discuit
- - [https://discuit.net](https://discuit.net)
- - date published: 2023-10-25T20:29:05.581236+00:00
- - user: None
- - tags: []
-
-## Dittytoy
- - [https://dittytoy.net](https://dittytoy.net)
- - date published: 2023-10-25T20:29:07.339713+00:00
- - user: None
- - tags: []
-
-## DIY-Thermocam | Open-source thermal imaging for everyone!
- - [https://www.diy-thermocam.net](https://www.diy-thermocam.net)
- - date published: 2023-10-25T20:29:10.410970+00:00
- - user: None
- - tags: []
-
-## DIY Photography - Your one stop shop for everything photo-video
- - [https://www.diyphotography.net](https://www.diyphotography.net)
- - date published: 2023-10-25T20:29:15.677437+00:00
- - user: None
- - tags: []
-
-## Notes from a data witch
- - [https://blog.djnavarro.net](https://blog.djnavarro.net)
- - date published: 2023-10-25T20:29:17.118132+00:00
- - user: None
- - tags: []
-
-## Łona i Webber / Dobrzewiesz Nagrania
- - [http://dobrzewiesz.net](http://dobrzewiesz.net)
- - date published: 2023-10-30T13:37:49.977157+00:00
- - user: None
- - tags: ['music band']
-
-## Upload & Share PDF | DocDroid
- - [https://www.docdroid.net](https://www.docdroid.net)
- - date published: 2023-10-25T20:29:17.961774+00:00
- - user: None
- - tags: []
-
-## Mikhail Gusarov
- - [https://dottedmag.net](https://dottedmag.net)
- - date published: 2023-10-25T09:00:34.520480+00:00
- - user: None
- - tags: ['personal']
-
-## doubleagent.net
- - [https://doubleagent.net](https://doubleagent.net)
- - date published: 2023-10-25T20:29:18.710543+00:00
- - user: None
- - tags: []
-
-## IT Notes
- - [https://it-notes.dragas.net](https://it-notes.dragas.net)
- - date published: 2023-10-25T20:29:24.860280+00:00
- - user: None
- - tags: []
-
-## duncan­lock­.net
- - [https://duncanlock.net](https://duncanlock.net)
- - date published: 2023-10-25T08:57:06.125112+00:00
- - user: None
- - tags: ['personal']
-
-## Duncan Mackenzie
- - [https://www.duncanmackenzie.net](https://www.duncanmackenzie.net)
- - date published: 2023-10-25T09:26:31.408589+00:00
- - user: None
- - tags: ['personal']
-
-## DYNOMIGHT INTERNET WEBSITE
- - [https://dynomight.net](https://dynomight.net)
- - date published: 2023-10-25T10:08:18.133719+00:00
- - user: None
- - tags: ['substack']
-
-## Stare gry - stare.e-gry.net
- - [https://stare.e-gry.net](https://stare.e-gry.net)
- - date published: 2023-10-29T13:17:57.644528+00:00
- - user: None
- - tags: ['retro games', 'commodore', 'roms', 'amiga', 'games']
-
-## EarthCam: Construction Camera Solutions, Time-Lapse, Webcams
- - [https://www.earthcam.net](https://www.earthcam.net)
- - date published: 2023-10-25T20:29:27.847020+00:00
- - user: None
- - tags: []
-
-## Ben Eater
- - [https://eater.net](https://eater.net)
- - date published: 2023-10-27T21:33:15.902295+00:00
- - user: None
- - tags: []
-
-## edge|emulation | your source for roms
- - [https://edgeemu.net](https://edgeemu.net)
- - date published: 2023-10-25T14:21:14.160241+00:00
- - user: None
- - tags: []
-
-## Edward Nevard's Blog
- - [https://blog.edned.net](https://blog.edned.net)
- - date published: 2023-10-25T20:29:28.757804+00:00
- - user: None
- - tags: []
-
-## Eggspensive
- - [https://eggspensive.net](https://eggspensive.net)
- - date published: 2023-10-25T20:29:30.169998+00:00
- - user: None
- - tags: []
-
-## Hyperfiddle
- - [https://dustingetz.electricfiddle.net](https://dustingetz.electricfiddle.net)
- - date published: 2023-10-25T20:29:30.936289+00:00
- - user: None
- - tags: []
-
-## Electrospaces.net
- - [https://www.electrospaces.net](https://www.electrospaces.net)
- - date published: 2023-10-25T20:29:39.719378+00:00
- - user: None
- - tags: []
-
-## http://elonjet.net
- - [http://elonjet.net](http://elonjet.net)
- - date published: 2023-10-25T20:29:40.045307+00:00
- - user: None
- - tags: []
-
-## Emulator Games - Download Game ROMs
- - [https://www.emulatorgames.net](https://www.emulatorgames.net)
- - date published: 2023-10-25T11:10:21.560069+00:00
- - user: None
- - tags: ['emulation', 'roms']
 
