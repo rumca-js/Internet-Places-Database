@@ -148,6 +148,36 @@
  - user: None
  - tags: []
 
+## NewRetroWave YouTube Channel
+ - [https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g](https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g)
+ - date published: 2023-11-13T09:23:17+00:00
+ - user: rumpel
+ - tags: ['new retro wave', 'synthwave']
+
+## New Retro Wave
+ - [https://newretrowave.com](https://newretrowave.com)
+ - date published: 2023-11-13T09:25:37+00:00
+ - user: rumpel
+ - tags: ['new retro wave', 'synthwave']
+
+## Internet Archive
+ - [https://archive.ph](https://archive.ph)
+ - date published: 2023-11-13T12:03:03+00:00
+ - user: rumpel
+ - tags: ['internet archive']
+
+## ScreenRant
+ - [https://screenrant.com](https://screenrant.com)
+ - date published: 2023-11-13T12:48:23+00:00
+ - user: rumpel
+ - tags: ['news', 'movie news']
+
+## Pocket | Discover, Capture and Savor Content That Fascinates You
+ - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
+ - date published: 2023-11-13T13:38:32+00:00
+ - user: rumpel
+ - tags: ['link aggregation']
+
 ## Sort: Supercharged collaboration for your database
  - [https://sort.xyz.](https://sort.xyz.)
  - date published: 2023-11-01T23:07:07.991006+00:00
@@ -1174,6 +1204,12 @@
  - user: None
  - tags: []
 
+## Twogether.ai - AI Generated Couple Photographs
+ - [https://twogether.ai](https://twogether.ai)
+ - date published: 2023-11-13T19:48:22.481817+00:00
+ - user: None
+ - tags: []
+
 ## AI News & Robotics News - Unite.AI
  - [https://www.unite.ai](https://www.unite.ai)
  - date published: 2023-10-25T11:00:48.637068+00:00
@@ -2164,6 +2200,12 @@
  - user: None
  - tags: []
 
+## Museo de Arte Latinoamericano de Buenos Aires Malba
+ - [https://malba.org.ar](https://malba.org.ar)
+ - date published: 2023-11-13T13:54:50.142967+00:00
+ - user: None
+ - tags: ['museum']
+
 ## Whimsical Watercolors - brushify.art
  - [https://brushify.art](https://brushify.art)
  - date published: 2023-10-25T11:52:28.663714+00:00
@@ -2229,6 +2271,12 @@
  - date published: 2023-10-25T09:07:49.887813+00:00
  - user: None
  - tags: ['personal']
+
+## Kunsthistorisches Museum Wien
+ - [https://www.khm.at](https://www.khm.at)
+ - date published: 2023-11-13T13:47:09.993986+00:00
+ - user: None
+ - tags: ['museum']
 
 ## mass:werk <home>
  - [https://www.masswerk.at](https://www.masswerk.at)
@@ -2389,6 +2437,12 @@
 ## Optus - Mobile Phones, nbn, Home Internet, Entertainment and Sport
  - [https://www.optus.com.au](https://www.optus.com.au)
  - date published: 2023-10-25T11:55:30.728146+00:00
+ - user: None
+ - tags: []
+
+## Penguin Books Australia
+ - [https://www.penguin.com.au](https://www.penguin.com.au)
+ - date published: 2023-11-13T17:27:35.903796+00:00
  - user: None
  - tags: []
 
@@ -2619,6 +2673,12 @@
  - date published: 2023-10-25T11:58:35.214250+00:00
  - user: None
  - tags: []
+
+## HOME | laleroux
+ - [https://www.leroux.band](https://www.leroux.band)
+ - date published: 2023-11-13T10:38:43.858200+00:00
+ - user: None
+ - tags: ['music band']
 
 ## https://saucecode.bar
  - [https://saucecode.bar](https://saucecode.bar)
@@ -3185,6 +3245,24 @@
  - user: None
  - tags: []
 
+## Home - Inhotim
+ - [https://www.inhotim.org.br](https://www.inhotim.org.br)
+ - date published: 2023-11-13T13:54:33.035629+00:00
+ - user: None
+ - tags: ['museum']
+
+## Instituto Ricardo Brennand
+ - [https://www.institutoricardobrennand.org.br](https://www.institutoricardobrennand.org.br)
+ - date published: 2023-11-13T13:53:50.117261+00:00
+ - user: None
+ - tags: ['museum']
+
+## MASP
+ - [https://masp.org.br](https://masp.org.br)
+ - date published: 2023-11-13T13:41:34.414087+00:00
+ - user: None
+ - tags: ['museum']
+
 ## Astro
  - [https://astro.build](https://astro.build)
  - date published: 2023-10-25T12:02:53.334268+00:00
@@ -3244,6 +3322,12 @@
  - date published: 2023-10-25T08:42:53.134691+00:00
  - user: None
  - tags: ['personal']
+
+## Majd Alsado | Blog
+ - [https://alsado.ca](https://alsado.ca)
+ - date published: 2023-11-13T20:52:10.674159+00:00
+ - user: None
+ - tags: []
 
 ## Alberta Machine Intelligence Institute | AI for good and for all
  - [https://www.amii.ca](https://www.amii.ca)
@@ -3418,6 +3502,12 @@
  - date published: 2023-10-25T08:42:54.581662+00:00
  - user: None
  - tags: ['personal']
+
+## National Gallery of Canada
+ - [https://www.gallery.ca](https://www.gallery.ca)
+ - date published: 2023-11-13T13:45:23.318113+00:00
+ - user: None
+ - tags: ['museum']
 
 ## Global News | Breaking, Latest News and Video for Canada
  - [https://globalnews.ca](https://globalnews.ca)
@@ -4559,6 +4649,12 @@
  - date published: 2023-10-25T10:54:50.659057+00:00
  - user: None
  - tags: []
+
+## 秦始皇帝陵博物院官网
+ - [https://www.bmy.com.cn](https://www.bmy.com.cn)
+ - date published: 2023-11-13T13:49:10.021687+00:00
+ - user: None
+ - tags: ['museum']
 
 ## Global Edition
  - [https://global.chinadaily.com.cn](https://global.chinadaily.com.cn)
@@ -5895,102 +5991,6 @@
 ## Activision Blizzard | Home
  - [https://www.activisionblizzard.com](https://www.activisionblizzard.com)
  - date published: 2023-10-25T11:27:03.898191+00:00
- - user: None
- - tags: []
-
-## Activist Post - Alternative News & Independent Views
- - [https://www.activistpost.com](https://www.activistpost.com)
- - date published: 2023-10-25T12:31:44.035152+00:00
- - user: None
- - tags: []
-
-## Actual
- - [https://actualbudget.com](https://actualbudget.com)
- - date published: 2023-10-28T23:34:48.545584+00:00
- - user: None
- - tags: []
-
-## The AdaCore Blog
- - [https://blog.adacore.com](https://blog.adacore.com)
- - date published: 2023-10-25T12:31:46.863448+00:00
- - user: None
- - tags: []
-
-## Commercial software solutions for Ada, C and C++ | AdaCore
- - [https://www.adacore.com](https://www.adacore.com)
- - date published: 2023-10-25T11:27:07.163203+00:00
- - user: None
- - tags: []
-
-## Adafruit Industries – Makers, hackers, artists, designers and engineers!
- - [https://blog.adafruit.com](https://blog.adafruit.com)
- - date published: 2023-10-25T12:31:55.789084+00:00
- - user: None
- - tags: []
-
-## Adafruit Industries, Unique & fun DIY electronics and kits
- - [https://www.adafruit.com](https://www.adafruit.com)
- - date published: 2023-10-25T11:14:43.308029+00:00
- - user: None
- - tags: []
-
-## https://adage.com
- - [https://adage.com](https://adage.com)
- - date published: 2023-10-25T12:31:57.417942+00:00
- - user: None
- - tags: []
-
-## Adama Platform
- - [https://www.adama-platform.com](https://www.adama-platform.com)
- - date published: 2023-10-25T12:31:58.924577+00:00
- - user: None
- - tags: []
-
-## http://adamard.com
- - [http://adamard.com](http://adamard.com)
- - date published: 2023-10-25T12:31:59.675953+00:00
- - user: None
- - tags: []
-
-## Adam Caudill
- - [https://adamcaudill.com](https://adamcaudill.com)
- - date published: 2023-10-25T12:32:03.058600+00:00
- - user: None
- - tags: []
-
-## Adam Chalmers
- - [https://blog.adamchalmers.com](https://blog.adamchalmers.com)
- - date published: 2023-10-25T12:32:05.936257+00:00
- - user: None
- - tags: []
-
-## adamfallon.com
- - [https://adamfallon.com](https://adamfallon.com)
- - date published: 2023-10-25T12:32:07.492619+00:00
- - user: None
- - tags: []
-
-## Adam Fuhrer | Frontend Engineer
- - [https://adamfuhrer.com](https://adamfuhrer.com)
- - date published: 2023-10-25T12:32:10.321239+00:00
- - user: None
- - tags: []
-
-## Home - Addis Standard
- - [https://addisstandard.com](https://addisstandard.com)
- - date published: 2023-10-25T12:32:22.406834+00:00
- - user: None
- - tags: []
-
-## AddyOsmani.com
- - [https://addyosmani.com](https://addyosmani.com)
- - date published: 2023-10-25T12:32:27.930354+00:00
- - user: None
- - tags: []
-
-## AdGuard — World's most advanced adblocker!
- - [https://adguard.com](https://adguard.com)
- - date published: 2023-10-25T12:32:34.038564+00:00
  - user: None
  - tags: []
 

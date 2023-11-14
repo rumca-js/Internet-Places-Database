@@ -1,3 +1,99 @@
+## Actual
+ - [https://actualbudget.com](https://actualbudget.com)
+ - date published: 2023-10-28T23:34:48.545584+00:00
+ - user: None
+ - tags: []
+
+## The AdaCore Blog
+ - [https://blog.adacore.com](https://blog.adacore.com)
+ - date published: 2023-10-25T12:31:46.863448+00:00
+ - user: None
+ - tags: []
+
+## Commercial software solutions for Ada, C and C++ | AdaCore
+ - [https://www.adacore.com](https://www.adacore.com)
+ - date published: 2023-10-25T11:27:07.163203+00:00
+ - user: None
+ - tags: []
+
+## Adafruit Industries – Makers, hackers, artists, designers and engineers!
+ - [https://blog.adafruit.com](https://blog.adafruit.com)
+ - date published: 2023-10-25T12:31:55.789084+00:00
+ - user: None
+ - tags: []
+
+## Adafruit Industries, Unique & fun DIY electronics and kits
+ - [https://www.adafruit.com](https://www.adafruit.com)
+ - date published: 2023-10-25T11:14:43.308029+00:00
+ - user: None
+ - tags: []
+
+## https://adage.com
+ - [https://adage.com](https://adage.com)
+ - date published: 2023-10-25T12:31:57.417942+00:00
+ - user: None
+ - tags: []
+
+## Adama Platform
+ - [https://www.adama-platform.com](https://www.adama-platform.com)
+ - date published: 2023-10-25T12:31:58.924577+00:00
+ - user: None
+ - tags: []
+
+## http://adamard.com
+ - [http://adamard.com](http://adamard.com)
+ - date published: 2023-10-25T12:31:59.675953+00:00
+ - user: None
+ - tags: []
+
+## Adam Caudill
+ - [https://adamcaudill.com](https://adamcaudill.com)
+ - date published: 2023-10-25T12:32:03.058600+00:00
+ - user: None
+ - tags: []
+
+## Adam Chalmers
+ - [https://blog.adamchalmers.com](https://blog.adamchalmers.com)
+ - date published: 2023-10-25T12:32:05.936257+00:00
+ - user: None
+ - tags: []
+
+## adamfallon.com
+ - [https://adamfallon.com](https://adamfallon.com)
+ - date published: 2023-10-25T12:32:07.492619+00:00
+ - user: None
+ - tags: []
+
+## Adam Fuhrer | Frontend Engineer
+ - [https://adamfuhrer.com](https://adamfuhrer.com)
+ - date published: 2023-10-25T12:32:10.321239+00:00
+ - user: None
+ - tags: []
+
+## Home - Addis Standard
+ - [https://addisstandard.com](https://addisstandard.com)
+ - date published: 2023-10-25T12:32:22.406834+00:00
+ - user: None
+ - tags: []
+
+## AddyOsmani.com
+ - [https://addyosmani.com](https://addyosmani.com)
+ - date published: 2023-10-25T12:32:27.930354+00:00
+ - user: None
+ - tags: []
+
+## AdGuard — World's most advanced adblocker!
+ - [https://adguard.com](https://adguard.com)
+ - date published: 2023-10-25T12:32:34.038564+00:00
+ - user: None
+ - tags: []
+
+## AdGuard VPN for your privacy and security
+ - [https://adguard-vpn.com](https://adguard-vpn.com)
+ - date published: 2023-10-25T12:32:39.988761+00:00
+ - user: None
+ - tags: []
+
 ## Adi's Thoughts
  - [https://www.adityabaradwaj.com](https://www.adityabaradwaj.com)
  - date published: 2023-10-25T08:44:06.720224+00:00
@@ -135,6 +231,12 @@
  - date published: 2023-10-25T12:34:28.407989+00:00
  - user: None
  - tags: []
+
+## Home page
+ - [https://www.afi.com](https://www.afi.com)
+ - date published: 2023-11-13T12:55:51.514282+00:00
+ - user: None
+ - tags: ['movies']
 
 ## Fact Check |
  - [https://factcheck.afp.com](https://factcheck.afp.com)
@@ -604,6 +706,12 @@
  - user: None
  - tags: []
 
+## Alice In Chains | Official Website
+ - [https://aliceinchains.com](https://aliceinchains.com)
+ - date published: 2023-11-13T09:56:55.913912+00:00
+ - user: None
+ - tags: ['music band']
+
 ## AliExpress – kupuj online produkty najwyższej jakości w niskich cenach prosto z Chin - AliExpress
  - [https://www.aliexpress.com](https://www.aliexpress.com)
  - date published: 2023-10-24T20:19:53.605037+00:00
@@ -644,7 +752,7 @@
  - [https://www.aljazeera.com](https://www.aljazeera.com)
  - date published: 2023-10-25T10:24:42.377214+00:00
  - user: None
- - tags: []
+ - tags: ['middle east', 'news']
 
 ## All About Circuits - Electrical Engineering & Electronics Community
  - [https://www.allaboutcircuits.com](https://www.allaboutcircuits.com)
@@ -771,6 +879,12 @@
  - date published: 2023-10-25T12:39:30.132261+00:00
  - user: None
  - tags: []
+
+## Alternative Press Magazine
+ - [https://www.altpress.com](https://www.altpress.com)
+ - date published: 2023-11-13T12:44:50.761297+00:00
+ - user: None
+ - tags: ['music news']
 
 ## Altwork Station The New Way to Work
  - [https://altwork.com](https://altwork.com)
@@ -1005,6 +1119,12 @@
  - date published: 2023-10-25T09:04:32.622907+00:00
  - user: None
  - tags: ['personal']
+
+## Anamanaguchi - Scott Pilgrim Takes Off! on Netflix November 2023
+ - [https://www.anamanaguchi.com](https://www.anamanaguchi.com)
+ - date published: 2023-11-13T10:23:44.698644+00:00
+ - user: None
+ - tags: ['music band']
 
 ## AnandTech: Hardware News and Tech Reviews Since 1997
  - [https://www.anandtech.com](https://www.anandtech.com)
@@ -1360,6 +1480,12 @@
  - user: None
  - tags: ['music band']
 
+## A Perfect Circle
+ - [https://www.aperfectcircle.com](https://www.aperfectcircle.com)
+ - date published: 2023-11-13T10:42:55.224010+00:00
+ - user: None
+ - tags: ['music band']
+
 ## The Aperiodical
  - [https://aperiodical.com](https://aperiodical.com)
  - date published: 2023-10-25T12:42:31.903480+00:00
@@ -1407,6 +1533,12 @@
  - date published: 2023-10-25T10:15:53.744031+00:00
  - user: None
  - tags: []
+
+## Apocalyptica | Official homepage
+ - [https://www.apocalyptica.com](https://www.apocalyptica.com)
+ - date published: 2023-11-13T10:24:20.609730+00:00
+ - user: None
+ - tags: ['music band']
 
 ## APOLLO 68080 - High Performance Processor
  - [http://www.apollo-core.com](http://www.apollo-core.com)
@@ -1780,6 +1912,12 @@
  - user: None
  - tags: ['semiconductors']
 
+## Armin van Buuren
+ - [https://www.arminvanbuuren.com](https://www.arminvanbuuren.com)
+ - date published: 2023-11-13T10:22:59.517128+00:00
+ - user: None
+ - tags: ['music band']
+
 ## Army Times, Independent News For Soldiers | Army Times
  - [https://www.armytimes.com](https://www.armytimes.com)
  - date published: 2023-10-25T12:45:36.927830+00:00
@@ -2038,6 +2176,12 @@
  - user: None
  - tags: []
 
+## atb - NEXT
+ - [https://atb-music.com](https://atb-music.com)
+ - date published: 2023-11-13T10:23:22.137674+00:00
+ - user: None
+ - tags: ['music band']
+
 ## mathew's web site  | Ghost of a chance
  - [https://meta.ath0.com](https://meta.ath0.com)
  - date published: 2023-10-25T12:47:40.391860+00:00
@@ -2193,6 +2337,12 @@
  - date published: 2023-10-25T08:44:43.415942+00:00
  - user: None
  - tags: ['personal']
+
+## AURORA
+ - [https://www.aurora-music.com](https://www.aurora-music.com)
+ - date published: 2023-11-13T09:45:36.627181+00:00
+ - user: None
+ - tags: ['music band']
 
 ## The Particular Finest
  - [https://blog.aurynn.com](https://blog.aurynn.com)
@@ -2601,6 +2751,30 @@
  - date published: 2023-10-25T12:52:19.240695+00:00
  - user: None
  - tags: []
+
+## Bandcamp
+ - [https://bandcamp.com](https://bandcamp.com)
+ - date published: 2023-11-13T09:21:59.175085+00:00
+ - user: None
+ - tags: ['crowdfunding']
+
+## Dreamrider, by Lazerhawk
+ - [https://lazerhawk.bandcamp.com](https://lazerhawk.bandcamp.com)
+ - date published: 2023-11-13T10:27:23.152211+00:00
+ - user: None
+ - tags: []
+
+## NewRetroWave
+ - [https://newretrowave.bandcamp.com](https://newretrowave.bandcamp.com)
+ - date published: 2023-11-13T09:21:49.604230+00:00
+ - user: None
+ - tags: ['new retro wave', 'synthwave']
+
+## Ott
+ - [https://ottsonic.bandcamp.com](https://ottsonic.bandcamp.com)
+ - date published: 2023-11-13T09:47:44.891343+00:00
+ - user: None
+ - tags: ['music band']
 
 ## The joy, excitement, and surprise of computing - !!Con 2022
  - [https://bangbangcon.com](https://bangbangcon.com)
@@ -3346,6 +3520,12 @@
  - user: None
  - tags: []
 
+## Birdy Nam Nam
+ - [https://www.birdynamnam.com](https://www.birdynamnam.com)
+ - date published: 2023-11-13T10:25:25.562269+00:00
+ - user: None
+ - tags: ['music band']
+
 ## BIT-101 – Bill Gates touched my Mac Book Pro.
  - [https://www.bit-101.com](https://www.bit-101.com)
  - date published: 2023-10-25T13:01:06.324531+00:00
@@ -3472,6 +3652,12 @@
  - user: None
  - tags: ['personal']
 
+## björk
+ - [https://bjork.com](https://bjork.com)
+ - date published: 2023-11-13T10:31:46.069132+00:00
+ - user: None
+ - tags: ['music band']
+
 ## Bjorn Pagen
  - [https://bjornpagen.com](https://bjornpagen.com)
  - date published: 2023-10-25T13:03:18.214285+00:00
@@ -3519,6 +3705,12 @@
  - date published: 2023-10-25T11:27:39.252299+00:00
  - user: None
  - tags: []
+
+## The Official Black Sabbath Website :: Official Black Sabbath Website - Latest Black Sabbath News Shows and Videos
+ - [https://www.blacksabbath.com](https://www.blacksabbath.com)
+ - date published: 2023-11-13T11:07:53.514482+00:00
+ - user: None
+ - tags: ['music band']
 
 ## Black Swan Street
  - [https://www.blackswanstreet.com](https://www.blackswanstreet.com)
@@ -4516,6 +4708,12 @@
  - user: None
  - tags: []
 
+## HOME | Bovska
+ - [https://www.bovska.com](https://www.bovska.com)
+ - date published: 2023-11-13T09:47:00.519610+00:00
+ - user: None
+ - tags: ['music band']
+
 ## boz.
  - [https://boz.com](https://boz.com)
  - date published: 2023-10-25T13:10:06.427820+00:00
@@ -4773,6 +4971,12 @@
  - date published: 2023-10-25T09:19:32.224894+00:00
  - user: None
  - tags: ['personal']
+
+## Broadcom Inc. | Connecting Everything
+ - [https://www.broadcom.com](https://www.broadcom.com)
+ - date published: 2023-11-13T14:03:14.360342+00:00
+ - user: None
+ - tags: ['company', 'semiconductors']
 
 ## Broken Bear  - a comforting AI Teddy Bear
  - [https://brokenbear.com](https://brokenbear.com)
@@ -5468,7 +5672,7 @@
  - [https://southpark.cc.com](https://southpark.cc.com)
  - date published: 2023-10-25T11:44:25.966783+00:00
  - user: None
- - tags: ['video streaming']
+ - tags: ['comedy central', 'video streaming']
 
 ## CCN | Crypto and Bitcoin News, Analysis and Guides.
  - [https://www.ccn.com](https://www.ccn.com)
@@ -5791,210 +5995,6 @@
 ## chess24 wall
  - [https://new.chess24.com](https://new.chess24.com)
  - date published: 2023-10-25T13:21:26.844592+00:00
- - user: None
- - tags: []
-
-## Chess News | ChessBase
- - [https://en.chessbase.com](https://en.chessbase.com)
- - date published: 2023-10-25T13:21:28.502428+00:00
- - user: None
- - tags: []
-
-## Chessdom - Chess, chess news, live chess games
- - [https://www.chessdom.com](https://www.chessdom.com)
- - date published: 2023-10-25T13:21:41.450959+00:00
- - user: None
- - tags: []
-
-## ChessMonitor.com - Analytics for Chess Players
- - [https://www.chessmonitor.com](https://www.chessmonitor.com)
- - date published: 2023-10-25T13:21:47.807179+00:00
- - user: None
- - tags: []
-
-## Chester Grant
- - [https://www.chestergrant.com](https://www.chestergrant.com)
- - date published: 2023-10-25T09:19:45.648985+00:00
- - user: None
- - tags: ['personal']
-
-## Chicago Magazine
- - [https://www.chicagomag.com](https://www.chicagomag.com)
- - date published: 2023-10-25T13:21:56.030020+00:00
- - user: None
- - tags: []
-
-## Chicago Reader
- - [https://chicagoreader.com](https://chicagoreader.com)
- - date published: 2023-10-25T13:22:02.366112+00:00
- - user: None
- - tags: []
-
-## Chicago Tribune: Chicago news, sports, weather, entertainment - Chicago Tribune
- - [https://www.chicagotribune.com](https://www.chicagotribune.com)
- - date published: 2023-10-25T10:37:22.041466+00:00
- - user: None
- - tags: []
-
-## Chicken Sandwiches, Waffle Potato Fries, Salads & More | Chick-fil-A
- - [https://www.chick-fil-a.com](https://www.chick-fil-a.com)
- - date published: 2023-10-25T13:22:05.954894+00:00
- - user: None
- - tags: []
-
-## Chidi Williams
- - [https://chidiwilliams.com](https://chidiwilliams.com)
- - date published: 2023-10-25T09:19:46.454066+00:00
- - user: None
- - tags: ['personal']
-
-## Chime
- - [https://www.chimehq.com](https://www.chimehq.com)
- - date published: 2023-10-25T13:22:06.549511+00:00
- - user: None
- - tags: []
-
-## ChinaCarHistory
- - [https://chinacarhistory.com](https://chinacarhistory.com)
- - date published: 2023-10-25T13:22:13.022336+00:00
- - user: None
- - tags: []
-
-## Chips and Cheese – The Devil is in the Details
- - [https://chipsandcheese.com](https://chipsandcheese.com)
- - date published: 2023-10-25T09:32:20.539268+00:00
- - user: None
- - tags: []
-
-## Redirecting to https://blog.turso.tech/
- - [https://blog.chiselstrike.com](https://blog.chiselstrike.com)
- - date published: 2023-10-25T13:22:15.246863+00:00
- - user: None
- - tags: []
-
-## Chocolate and Vodka — bubbling enthusiasm for $arbitrary_topic
- - [https://chocolateandvodka.com](https://chocolateandvodka.com)
- - date published: 2023-10-31T19:57:41.846110+00:00
- - user: None
- - tags: []
-
-## Christian Hollinger
- - [https://chollinger.com](https://chollinger.com)
- - date published: 2023-10-25T08:45:21.585578+00:00
- - user: None
- - tags: ['personal']
-
-## Choosing Therapy | Find a Life-Changing Therapist
- - [https://www.choosingtherapy.com](https://www.choosingtherapy.com)
- - date published: 2023-10-25T13:22:20.583825+00:00
- - user: None
- - tags: []
-
-## chreke's blog
- - [https://chreke.com](https://chreke.com)
- - date published: 2023-10-25T13:22:21.390839+00:00
- - user: None
- - tags: []
-
-## Less Talk, More Do – Christopher Finke writes about things he has done: software, woodworking, and other creative endeavors.
- - [https://www.chrisfinke.com](https://www.chrisfinke.com)
- - date published: 2023-10-25T13:22:23.741521+00:00
- - user: None
- - tags: []
-
-## Chris Gagné – Delight people. Create value. Do good.
- - [https://chrisgagne.com](https://chrisgagne.com)
- - date published: 2023-10-25T13:22:28.478637+00:00
- - user: None
- - tags: []
-
-## Measure latency
- - [https://ping.projects.chrisjeakle.com](https://ping.projects.chrisjeakle.com)
- - date published: 2023-10-25T13:22:31.002085+00:00
- - user: None
- - tags: []
-
-## Home - Blogomatano
- - [https://chriskiehl.com](https://chriskiehl.com)
- - date published: 2023-10-25T13:22:34.612646+00:00
- - user: None
- - tags: []
-
-## Sympolymathesy, by Chris Krycho
- - [https://v5.chriskrycho.com](https://v5.chriskrycho.com)
- - date published: 2023-10-25T13:22:35.700191+00:00
- - user: None
- - tags: []
-
-## Christian News Headlines - Breaking and Trending Religion News
- - [https://www.christianheadlines.com](https://www.christianheadlines.com)
- - date published: 2023-10-25T10:13:08.561605+00:00
- - user: None
- - tags: []
-
-## Christian Heilmann
- - [https://christianheilmann.com](https://christianheilmann.com)
- - date published: 2023-10-25T13:22:37.195350+00:00
- - user: None
- - tags: []
-
-## Christian Mills
- - [https://christianjmills.com](https://christianjmills.com)
- - date published: 2023-10-25T08:45:22.645601+00:00
- - user: None
- - tags: ['personal']
-
-## Christian Post | Christian News & Commentaries
- - [https://www.christianpost.com](https://www.christianpost.com)
- - date published: 2023-10-25T10:13:13.137647+00:00
- - user: None
- - tags: []
-
-## Christian Varga
- - [https://christianvarga.com](https://christianvarga.com)
- - date published: 2023-10-25T08:45:24.982295+00:00
- - user: None
- - tags: ['personal']
-
-## Christine DeMerchant Site about Boats, boat plans, Boatbuilding, Cats, and other good stuff
- - [https://christinedemerchant.com](https://christinedemerchant.com)
- - date published: 2023-10-25T13:22:43.758095+00:00
- - user: None
- - tags: []
-
-## Chris Titus Tech | Tech Content Creator
- - [https://christitus.com](https://christitus.com)
- - date published: 2023-10-25T09:32:21.672470+00:00
- - user: None
- - tags: []
-
-## Blog | Chris Warrick
- - [https://chriswarrick.com](https://chriswarrick.com)
- - date published: 2023-10-25T09:19:47.812882+00:00
- - user: None
- - tags: ['personal']
-
-## Chris Zacharias
- - [https://blog.chriszacharias.com](https://blog.chriszacharias.com)
- - date published: 2023-10-25T13:22:45.023126+00:00
- - user: None
- - tags: []
-
-## Chrome for Developers
- - [https://developer.chrome.com](https://developer.chrome.com)
- - date published: 2023-10-25T13:22:57.046360+00:00
- - user: None
- - tags: []
-
-## Chrome Platform Status
- - [https://chromestatus.com](https://chromestatus.com)
- - date published: 2023-10-25T13:22:59.796806+00:00
- - user: None
- - tags: []
-
-## Chrome Unboxed | Chromebooks | Chromecast | Assistant | News
- - [https://chromeunboxed.com](https://chromeunboxed.com)
- - date published: 2023-10-25T13:23:05.320515+00:00
  - user: None
  - tags: []
 
