@@ -1,3 +1,117 @@
+## Nate Hoffelder
+ - [https://natehoffelder.com](https://natehoffelder.com)
+ - date published: 2023-10-25T16:10:56.376597+00:00
+ - user: None
+ - tags: []
+
+## Nat Eliason's Newsletter | Substack
+ - [https://blog.nateliason.com](https://blog.nateliason.com)
+ - date published: 2023-10-25T16:11:04.110312+00:00
+ - user: None
+ - tags: []
+
+## nate's website
+ - [https://www.nateranda.com](https://www.nateranda.com)
+ - date published: 2023-10-25T16:11:06.408957+00:00
+ - user: None
+ - tags: []
+
+## Nathan Craddock
+ - [https://nathancraddock.com](https://nathancraddock.com)
+ - date published: 2023-10-25T16:11:07.784296+00:00
+ - user: None
+ - tags: []
+
+## Nathan Otterness' Page
+ - [https://nathanotterness.com](https://nathanotterness.com)
+ - date published: 2023-10-25T16:11:10.707029+00:00
+ - user: None
+ - tags: []
+
+## Nathan Peck
+ - [https://nathanpeck.com](https://nathanpeck.com)
+ - date published: 2023-10-25T16:11:12.511630+00:00
+ - user: None
+ - tags: []
+
+## Nat Henry
+ - [https://nathenry.com](https://nathenry.com)
+ - date published: 2023-10-25T16:11:15.803624+00:00
+ - user: None
+ - tags: []
+
+## Home | National Affairs
+ - [https://nationalaffairs.com](https://nationalaffairs.com)
+ - date published: 2023-10-25T16:11:19.497717+00:00
+ - user: None
+ - tags: []
+
+## Home | National Affairs
+ - [https://www.nationalaffairs.com](https://www.nationalaffairs.com)
+ - date published: 2023-10-25T16:11:25.921422+00:00
+ - user: None
+ - tags: []
+
+## National File
+ - [https://nationalfile.com](https://nationalfile.com)
+ - date published: 2023-10-25T16:11:33.651688+00:00
+ - user: None
+ - tags: []
+
+## National Geographic
+ - [https://www.nationalgeographic.com](https://www.nationalgeographic.com)
+ - date published: 2023-10-25T16:11:46.782249+00:00
+ - user: None
+ - tags: []
+
+## National Journal
+ - [https://www.nationaljournal.com](https://www.nationaljournal.com)
+ - date published: 2023-11-10T19:58:41.389822+00:00
+ - user: None
+ - tags: []
+
+## Canada's National Observer: News & Analysis
+ - [https://www.nationalobserver.com](https://www.nationalobserver.com)
+ - date published: 2023-10-25T16:11:50.828726+00:00
+ - user: None
+ - tags: []
+
+## Home | The National Post Home Page | National Post
+ - [https://nationalpost.com](https://nationalpost.com)
+ - date published: 2023-10-25T16:12:03.903762+00:00
+ - user: None
+ - tags: []
+
+## National Review: Conservative News, Opinion, Politics, Policy, & Current Events
+ - [https://www.nationalreview.com](https://www.nationalreview.com)
+ - date published: 2023-10-25T10:26:54.464697+00:00
+ - user: None
+ - tags: []
+
+## Nation World News | Get Latest Breaking News Update
+ - [https://nationworldnews.com](https://nationworldnews.com)
+ - date published: 2023-10-25T16:12:09.375654+00:00
+ - user: None
+ - tags: []
+
+## NativePHP | Baking Delicious Native Apps
+ - [https://nativephp.com](https://nativephp.com)
+ - date published: 2023-10-25T16:12:10.571354+00:00
+ - user: None
+ - tags: []
+
+## Legal News & Business Law News | The National Law Review
+ - [https://www.natlawreview.com](https://www.natlawreview.com)
+ - date published: 2023-11-01T08:42:43.779371+00:00
+ - user: None
+ - tags: []
+
+## Natural Health News - Holistic Medicine - Homeopathic Remedies - Food Freedom
+ - [https://www.naturalblaze.com](https://www.naturalblaze.com)
+ - date published: 2023-10-25T16:12:15.256265+00:00
+ - user: None
+ - tags: []
+
 ## Natural Language Playlist
  - [https://www.naturallanguageplaylist.com](https://www.naturallanguageplaylist.com)
  - date published: 2023-10-25T16:12:17.879048+00:00
@@ -433,6 +547,12 @@
 ## The NewsBlur Blog | A new sound of an old instrument
  - [https://blog.newsblur.com](https://blog.newsblur.com)
  - date published: 2023-10-25T16:17:10.791955+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://www.newschannel5.com](https://www.newschannel5.com)
+ - date published: 2023-11-14T03:03:37.951482+00:00
  - user: None
  - tags: []
 
@@ -1686,6 +1806,12 @@ Answering Machine Greetings!
 ## ONYX BOOX electronic books
  - [https://onyxboox.com](https://onyxboox.com)
  - date published: 2023-11-01T08:41:23.046907+00:00
+ - user: None
+ - tags: []
+
+## Opal Camera Inc.
+ - [https://opalcamera.com](https://opalcamera.com)
+ - date published: 2023-11-14T16:39:03.324171+00:00
  - user: None
  - tags: []
 
@@ -3412,6 +3538,12 @@ Answering Machine Greetings!
 ## Politics, Policy, Political News - POLITICO
  - [https://www.politico.com](https://www.politico.com)
  - date published: 2023-10-25T10:28:21.996956+00:00
+ - user: None
+ - tags: []
+
+## PolitiFact
+ - [https://www.politifact.com](https://www.politifact.com)
+ - date published: 2023-11-14T13:36:23.125783+00:00
  - user: None
  - tags: []
 
@@ -5253,6 +5385,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## https://www.rentcafe.com
+ - [https://www.rentcafe.com](https://www.rentcafe.com)
+ - date published: 2023-11-14T01:04:03.281266+00:00
+ - user: None
+ - tags: []
+
 ## Explore - Repables
  - [https://repables.com](https://repables.com)
  - date published: 2023-10-27T10:31:30.534866+00:00
@@ -5862,144 +6000,6 @@ Answering Machine Greetings!
 ## Rodney Brooks – Robots, AI, and other stuff
  - [https://rodneybrooks.com](https://rodneybrooks.com)
  - date published: 2023-10-25T16:53:31.841027+00:00
- - user: None
- - tags: []
-
-## Jason Rodriguez
- - [https://rodriguezcommaj.com](https://rodriguezcommaj.com)
- - date published: 2023-10-25T08:47:49.289045+00:00
- - user: None
- - tags: ['personal']
-
-## Movie reviews and ratings by Film Critic Roger Ebert | Roger Ebert
- - [https://www.rogerebert.com](https://www.rogerebert.com)
- - date published: 2023-10-27T14:18:10.449564+00:00
- - user: None
- - tags: ['movies']
-
-## Roger Schank
- - [https://www.rogerschank.com](https://www.rogerschank.com)
- - date published: 2023-10-25T16:53:33.728783+00:00
- - user: None
- - tags: []
-
-## Rogue Amoeba - Under the Microscope
- - [https://weblog.rogueamoeba.com](https://weblog.rogueamoeba.com)
- - date published: 2023-10-25T16:53:36.308176+00:00
- - user: None
- - tags: []
-
-## RogueBasin
- - [https://www.roguebasin.com](https://www.roguebasin.com)
- - date published: 2023-10-25T16:53:39.345258+00:00
- - user: None
- - tags: []
-
-## Temple of The Roguelike – Preserving the spirit of classic roguelikes
- - [https://roguetemple.com](https://roguetemple.com)
- - date published: 2023-10-25T16:53:45.225348+00:00
- - user: None
- - tags: []
-
-## Rogule - a dungeon a day keeps the Balrog away
- - [https://rogule.com](https://rogule.com)
- - date published: 2023-10-25T16:53:50.312363+00:00
- - user: None
- - tags: []
-
-## Roku Community Support | Fast Responses | Roku Community
- - [https://community.roku.com](https://community.roku.com)
- - date published: 2023-10-25T16:54:01.511231+00:00
- - user: None
- - tags: []
-
-## Roku
- - [https://www.roku.com](https://www.roku.com)
- - date published: 2023-10-24T20:19:37.202078+00:00
- - user: None
- - tags: []
-
-## Roland Articles | Home
- - [https://articles.roland.com](https://articles.roland.com)
- - date published: 2023-10-25T16:54:06.876407+00:00
- - user: None
- - tags: []
-
-## http://static.roland.com
- - [http://static.roland.com](http://static.roland.com)
- - date published: 2023-10-25T16:54:07.496146+00:00
- - user: None
- - tags: []
-
-## Roland - Global
- - [https://www.roland.com](https://www.roland.com)
- - date published: 2023-11-06T09:56:02.793816+00:00
- - user: None
- - tags: ['audio equipment']
-
-## Rolepad - Take the work out of the job search
- - [https://rolepad.com](https://rolepad.com)
- - date published: 2023-10-25T16:54:13.237013+00:00
- - user: None
- - tags: []
-
-## Roll Call - Covering Capitol Hill Since 1955
- - [https://rollcall.com](https://rollcall.com)
- - date published: 2023-10-25T16:54:16.275639+00:00
- - user: None
- - tags: []
-
-## Rolling Stone – Music, Film, TV and Political News Coverage
- - [https://www.rollingstone.com](https://www.rollingstone.com)
- - date published: 2023-10-25T16:18:12.778211+00:00
- - user: None
- - tags: ['political news', 'music news']
-
-## Roll Or Don't
- - [https://www.rollordont.com](https://www.rollordont.com)
- - date published: 2023-10-25T16:54:28.108990+00:00
- - user: None
- - tags: []
-
-## ROMS Pack - ROM Sets - All Emulator's ROM Packs
- - [https://www.romspack.com](https://www.romspack.com)
- - date published: 2023-10-25T11:10:00.994137+00:00
- - user: None
- - tags: ['emulation']
-
-## Ronak Ganatra
- - [https://ronakganatra.com](https://ronakganatra.com)
- - date published: 2023-10-25T16:54:28.835966+00:00
- - user: None
- - tags: []
-
-## Electronic Music | Rone
- - [https://www.rone-music.com](https://www.rone-music.com)
- - date published: 2023-11-13T10:26:39.229989+00:00
- - user: None
- - tags: ['music band']
-
-## Jet Beetle
- - [https://www.ronpatrickstuff.com](https://www.ronpatrickstuff.com)
- - date published: 2023-10-25T08:47:50.285670+00:00
- - user: None
- - tags: ['personal']
-
-## About | Undeleted Files
- - [https://undeleted.ronsor.com](https://undeleted.ronsor.com)
- - date published: 2023-10-25T16:54:29.700415+00:00
- - user: None
- - tags: []
-
-## MacBook Repair Austin | (347) 552-2258 | Rossmann Repair Group
- - [https://www.rossmanngroup.com](https://www.rossmanngroup.com)
- - date published: 2023-11-03T10:37:01.928688+00:00
- - user: None
- - tags: ['louis rossmann']
-
-## Rotaboxes - the daily photo puzzle game
- - [https://rotaboxes.com](https://rotaboxes.com)
- - date published: 2023-10-25T16:54:35.233146+00:00
  - user: None
  - tags: []
 

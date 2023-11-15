@@ -1,3 +1,315 @@
+## Najnowsze wiadomości z kraju i ze świata - Polsat News
+ - [https://www.polsatnews.pl](https://www.polsatnews.pl)
+ - date published: 2023-10-25T10:32:34.452899+00:00
+ - user: None
+ - tags: []
+
+## Polskie Radio - najlepsze radio online - Polskie Radio w internecie
+ - [https://www.polskieradio.pl](https://www.polskieradio.pl)
+ - date published: 2023-10-25T22:29:52.603318+00:00
+ - user: None
+ - tags: []
+
+## Polygamia - strona główna
+ - [https://polygamia.pl](https://polygamia.pl)
+ - date published: 2023-10-28T18:55:10.582488+00:00
+ - user: None
+ - tags: ['game news']
+
+## Poradnik Przedsiębiorcy
+ - [https://poradnikprzedsiebiorcy.pl](https://poradnikprzedsiebiorcy.pl)
+ - date published: 2023-10-25T22:29:59.924807+00:00
+ - user: None
+ - tags: []
+
+## Portal Samorządowy - gmina, powiat, województwo w pigułce
+ - [https://www.portalsamorzadowy.pl](https://www.portalsamorzadowy.pl)
+ - date published: 2023-10-25T22:30:11.620783+00:00
+ - user: None
+ - tags: []
+
+## Instytut Informatyki Politechniki Poznańskiej
+ - [https://www.cs.put.poznan.pl](https://www.cs.put.poznan.pl)
+ - date published: 2023-10-27T12:07:15.043574+00:00
+ - user: None
+ - tags: []
+
+## Strona główna | Politechnika Poznańska
+ - [https://www.put.poznan.pl](https://www.put.poznan.pl)
+ - date published: 2023-10-27T13:02:27.240844+00:00
+ - user: None
+ - tags: ['university']
+
+## Amiga - Polski Portal Amigowy: AmigaOS, MorphOS, AROS, AmigaOne, gry, programy - [ 30.10.2023 ]
+ - [https://www.ppa.pl](https://www.ppa.pl)
+ - date published: 2023-10-30T10:10:26.983167+00:00
+ - user: None
+ - tags: ['amiga', 'morphos']
+
+## PPE.pl
+ - [https://www.ppe.pl](https://www.ppe.pl)
+ - date published: 2023-10-29T13:13:02.505571+00:00
+ - user: None
+ - tags: []
+
+## Prawo.pl
+ - [https://www.prawo.pl](https://www.prawo.pl)
+ - date published: 2023-10-27T12:07:19.387485+00:00
+ - user: None
+ - tags: []
+
+## Polityka, gospodarka, historia - to, co ważne dla wolności - Prokapitalizm, gospodarka, polityka, historia
+ - [https://www.prokapitalizm.pl](https://www.prokapitalizm.pl)
+ - date published: 2023-10-27T12:07:22.884336+00:00
+ - user: None
+ - tags: []
+
+## Sklep Komputerowy ProLine.pl
+ - [https://proline.pl](https://proline.pl)
+ - date published: 2023-10-24T20:17:42.060505+00:00
+ - user: None
+ - tags: []
+
+## Manifest Teda Kaczynskiego
+ - [https://ted-manifesto.prv.pl](https://ted-manifesto.prv.pl)
+ - date published: 2023-10-27T12:07:23.416270+00:00
+ - user: None
+ - tags: ['ted kaczynski', 'unabomber']
+
+## Przeczywistość
+ - [http://przeczywistosc.pl](http://przeczywistosc.pl)
+ - date published: 2023-10-27T12:07:26.355932+00:00
+ - user: None
+ - tags: []
+
+## PSI Polska Sp. z o.o. | Poznań | Innowacyjne oprogramowanie. Solidne wdrożenie.
+ - [https://www.psi.pl](https://www.psi.pl)
+ - date published: 2023-10-25T11:29:10.274203+00:00
+ - user: None
+ - tags: []
+
+## Polskie Towarzystwo Turystyczno-Krajoznawcze | PTTK
+ - [https://pttk.pl](https://pttk.pl)
+ - date published: 2023-11-01T18:06:26.432164+00:00
+ - user: None
+ - tags: ['travel', 'mountains']
+
+## Ebooki, Audiobooki, Eprasa, Kindle Ebook | Darmowe, nowości, bestsellery (książki epub, kindle mobi, PDF, MP3) - Publio.pl
+ - [https://www.publio.pl](https://www.publio.pl)
+ - date published: 2023-10-24T20:18:58.510354+00:00
+ - user: None
+ - tags: []
+
+## Puls Medycyny - portal medyczny  - wiadomości, lekarze, szpitale, opieka medyczna
+ - [https://pulsmedycyny.pl](https://pulsmedycyny.pl)
+ - date published: 2023-10-27T12:07:33.165592+00:00
+ - user: None
+ - tags: []
+
+## PurePC - wiemy, co się kręci!
+ - [https://www.purepc.pl](https://www.purepc.pl)
+ - date published: 2023-10-30T10:12:11.129017+00:00
+ - user: None
+ - tags: []
+
+## Strona Główna
+ - [https://pyrkon.pl](https://pyrkon.pl)
+ - date published: 2023-10-29T15:10:10.114957+00:00
+ - user: None
+ - tags: ['pyrkon', 'event', 'fantasy']
+
+## Rachit Nigam | PhD Candidate, Cornell University
+ - [https://rachit.pl](https://rachit.pl)
+ - date published: 2023-10-27T12:07:34.246036+00:00
+ - user: None
+ - tags: []
+
+## Wiadomości - najnowsze informacje z Polski i Świata
+ - [https://wiadomosci.radiozet.pl](https://wiadomosci.radiozet.pl)
+ - date published: 2023-10-27T12:07:45.470666+00:00
+ - user: None
+ - tags: []
+
+## Zdrowie: choroby, objawy, badania, leczenie, diety, koronawirus | Zdrowie Radio ZET
+ - [https://zdrowie.radiozet.pl](https://zdrowie.radiozet.pl)
+ - date published: 2023-10-25T10:40:17.701787+00:00
+ - user: None
+ - tags: []
+
+## rcwz.pl
+ - [https://rcwz.pl](https://rcwz.pl)
+ - date published: 2023-10-27T12:07:45.928784+00:00
+ - user: None
+ - tags: []
+
+## rebel.pl - największy w Polsce sklep z grami planszowymi
+ - [https://www.rebel.pl](https://www.rebel.pl)
+ - date published: 2023-10-25T11:12:58.256769+00:00
+ - user: None
+ - tags: []
+
+## Retro Maniek wita na swoim blogu!
+ - [https://www.retromaniek.pl](https://www.retromaniek.pl)
+ - date published: 2023-11-02T09:41:07.935535+00:00
+ - user: None
+ - tags: ['amiga', 'blog', 'retro games', 'personal']
+
+## Retronauta
+ - [http://www.retronauta.pl](http://www.retronauta.pl)
+ - date published: 2023-10-25T10:45:39.916912+00:00
+ - user: None
+ - tags: []
+
+## RMF24 - Najbliżej faktów - Wydarzenia z Polski i Świata
+ - [https://www.rmf24.pl](https://www.rmf24.pl)
+ - date published: 2023-10-25T22:31:19.469054+00:00
+ - user: None
+ - tags: []
+
+## Roche Polska
+ - [https://www.roche.pl](https://www.roche.pl)
+ - date published: 2023-10-25T11:29:11.118955+00:00
+ - user: None
+ - tags: []
+
+## Cyfrowa - rp.pl
+ - [https://cyfrowa.rp.pl](https://cyfrowa.rp.pl)
+ - date published: 2023-10-25T10:32:40.046489+00:00
+ - user: None
+ - tags: []
+
+## Edukacja.rp.pl – serwis oświatowy „Rzeczpospolitej” - rp.pl
+ - [https://edukacja.rp.pl](https://edukacja.rp.pl)
+ - date published: 2023-10-25T10:40:20.011316+00:00
+ - user: None
+ - tags: []
+
+## Energetyka - rp.pl
+ - [https://energia.rp.pl](https://energia.rp.pl)
+ - date published: 2023-10-25T10:32:43.332278+00:00
+ - user: None
+ - tags: []
+
+## Firma - rp.pl
+ - [https://firma.rp.pl](https://firma.rp.pl)
+ - date published: 2023-10-25T10:32:46.866764+00:00
+ - user: None
+ - tags: []
+
+## Klimat - rp.pl
+ - [http://klimat.rp.pl](http://klimat.rp.pl)
+ - date published: 2023-10-25T10:32:49.543723+00:00
+ - user: None
+ - tags: []
+
+## Klub ekspertów - rp.pl
+ - [https://klubekspertow.rp.pl](https://klubekspertow.rp.pl)
+ - date published: 2023-10-25T10:40:22.494044+00:00
+ - user: None
+ - tags: []
+
+## kobieta.rp.pl – Serwis o kobietach odnoszących sukcesy. Motywacja, inspiracja, relaks - rp.pl
+ - [https://kobieta.rp.pl](https://kobieta.rp.pl)
+ - date published: 2023-10-25T10:32:52.288073+00:00
+ - user: None
+ - tags: []
+
+## Logistyka - rp.pl
+ - [https://logistyka.rp.pl](https://logistyka.rp.pl)
+ - date published: 2023-10-25T10:40:25.335737+00:00
+ - user: None
+ - tags: []
+
+## Motoryzacja - rp.pl
+ - [https://moto.rp.pl](https://moto.rp.pl)
+ - date published: 2023-10-25T10:33:00.729873+00:00
+ - user: None
+ - tags: []
+
+## Finanse osobiste - rp.pl
+ - [https://pieniadze.rp.pl](https://pieniadze.rp.pl)
+ - date published: 2023-10-25T10:53:43.228098+00:00
+ - user: None
+ - tags: []
+
+## Przemysł Zbrojeniowy - rp.pl
+ - [https://radar.rp.pl](https://radar.rp.pl)
+ - date published: 2023-10-25T10:33:03.068795+00:00
+ - user: None
+ - tags: []
+
+## Regiony - rp.pl
+ - [https://regiony.rp.pl](https://regiony.rp.pl)
+ - date published: 2023-10-25T10:33:05.725498+00:00
+ - user: None
+ - tags: []
+
+## Magazyn Sukces – magazyn „Rzeczpospolitej”. Styl życia, moda, kuchnia, design, trendy i rozmowy z ludźmi sukcesu. - rp.pl
+ - [https://sukces.rp.pl](https://sukces.rp.pl)
+ - date published: 2023-10-25T10:40:27.899274+00:00
+ - user: None
+ - tags: []
+
+## Rzeczpospolita - Najważniejsze wiadomości z Polski i ze świata - rp.pl
+ - [https://www.rp.pl](https://www.rp.pl)
+ - date published: 2023-10-25T10:40:32.923269+00:00
+ - user: None
+ - tags: []
+
+## RynekZdrowia - portal medyczny: służba zdrowia, polityka, zarządzanie
+ - [https://www.rynekzdrowia.pl](https://www.rynekzdrowia.pl)
+ - date published: 2023-10-25T22:31:23.987232+00:00
+ - user: None
+ - tags: []
+
+## Salon24 - Blogi, wiadomości, opinie i komentarze
+ - [https://www.salon24.pl](https://www.salon24.pl)
+ - date published: 2023-10-25T10:18:06.716240+00:00
+ - user: None
+ - tags: []
+
+## Samoloty pasażerskie
+ - [http://www.samolotypasazerskie.pl](http://www.samolotypasazerskie.pl)
+ - date published: 2023-10-25T22:31:24.489910+00:00
+ - user: None
+ - tags: []
+
+## Konta bankowe, kredyty hipoteczne, pożyczki gotówkowe, karty, lokaty, oszczędności, kantor i ubezpieczenia online - Santander Bank Polska (dawniej BZWBK)
+ - [https://www.santander.pl](https://www.santander.pl)
+ - date published: 2023-10-25T11:29:50.717986+00:00
+ - user: None
+ - tags: []
+
+## Sekurak - piszemy o bezpieczeństwie
+ - [https://sekurak.pl](https://sekurak.pl)
+ - date published: 2023-10-25T09:38:15.336451+00:00
+ - user: None
+ - tags: []
+
+## SENNHEISER.pl - sennheiser.pl | Oficjalny sklep Sennheiser
+ - [https://sennheiser.pl](https://sennheiser.pl)
+ - date published: 2023-10-30T18:21:28.341096+00:00
+ - user: None
+ - tags: ['company', 'audio', 'headphones']
+
+## Graal
+ - [https://sklep-graal.pl](https://sklep-graal.pl)
+ - date published: 2023-11-01T19:15:02.634304+00:00
+ - user: None
+ - tags: ['tabletop games', 'shop', 'wargames']
+
+## Strona Głowna Wiadomości
+ - [https://sluzbywakcji.pl](https://sluzbywakcji.pl)
+ - date published: 2023-11-08T13:11:34.780788+00:00
+ - user: None
+ - tags: []
+
+## O mnie, o Was i nie tylko | Smyku.pl
+ - [https://www.smyku.pl](https://www.smyku.pl)
+ - date published: 2023-10-25T22:31:25.036654+00:00
+ - user: None
+ - tags: []
+
 ## Soldat :: Homepage
  - [https://soldat.pl](https://soldat.pl)
  - date published: 2023-10-26T18:43:32.087389+00:00
@@ -1739,6 +2051,12 @@
  - user: None
  - tags: []
 
+## Bounded-Error Log
+ - [https://blog.vero.site](https://blog.vero.site)
+ - date published: 2023-11-14T07:22:39.220127+00:00
+ - user: None
+ - tags: []
+
 ## Amiga on PC/Mac/Raspberry | AmiKit - Modern Retro Amiga
  - [https://www.amikit.amiga.sk](https://www.amikit.amiga.sk)
  - date published: 2023-11-02T10:51:09.860795+00:00
@@ -3208,6 +3526,12 @@ Introduction
  - user: None
  - tags: []
 
+## Ukraine News Premier Independent English-language Source — The New Voice of Ukraine
+ - [https://english.nv.ua](https://english.nv.ua)
+ - date published: 2023-11-14T17:39:42.631502+00:00
+ - user: None
+ - tags: []
+
 ## NTV Uganda
  - [https://www.ntv.co.ug](https://www.ntv.co.ug)
  - date published: 2023-10-25T22:48:05.575547+00:00
@@ -3421,6 +3745,12 @@ Introduction
 ## MacTutor Index - MacTutor History of Mathematics
  - [https://mathshistory.st-andrews.ac.uk](https://mathshistory.st-andrews.ac.uk)
  - date published: 2023-10-25T22:49:48.719060+00:00
+ - user: None
+ - tags: []
+
+## UCL – University College London
+ - [https://www.ucl.ac.uk](https://www.ucl.ac.uk)
+ - date published: 2023-11-14T14:17:51.871742+00:00
  - user: None
  - tags: []
 

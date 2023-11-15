@@ -1,3 +1,141 @@
+## Movie reviews and ratings by Film Critic Roger Ebert | Roger Ebert
+ - [https://www.rogerebert.com](https://www.rogerebert.com)
+ - date published: 2023-10-27T14:18:10.449564+00:00
+ - user: None
+ - tags: ['movies']
+
+## Roger Schank
+ - [https://www.rogerschank.com](https://www.rogerschank.com)
+ - date published: 2023-10-25T16:53:33.728783+00:00
+ - user: None
+ - tags: []
+
+## Rogue Amoeba - Under the Microscope
+ - [https://weblog.rogueamoeba.com](https://weblog.rogueamoeba.com)
+ - date published: 2023-10-25T16:53:36.308176+00:00
+ - user: None
+ - tags: []
+
+## RogueBasin
+ - [https://www.roguebasin.com](https://www.roguebasin.com)
+ - date published: 2023-10-25T16:53:39.345258+00:00
+ - user: None
+ - tags: []
+
+## Temple of The Roguelike – Preserving the spirit of classic roguelikes
+ - [https://roguetemple.com](https://roguetemple.com)
+ - date published: 2023-10-25T16:53:45.225348+00:00
+ - user: None
+ - tags: []
+
+## Rogule - a dungeon a day keeps the Balrog away
+ - [https://rogule.com](https://rogule.com)
+ - date published: 2023-10-25T16:53:50.312363+00:00
+ - user: None
+ - tags: []
+
+## Roku Community Support | Fast Responses | Roku Community
+ - [https://community.roku.com](https://community.roku.com)
+ - date published: 2023-10-25T16:54:01.511231+00:00
+ - user: None
+ - tags: []
+
+## Roku
+ - [https://www.roku.com](https://www.roku.com)
+ - date published: 2023-10-24T20:19:37.202078+00:00
+ - user: None
+ - tags: []
+
+## Roland Articles | Home
+ - [https://articles.roland.com](https://articles.roland.com)
+ - date published: 2023-10-25T16:54:06.876407+00:00
+ - user: None
+ - tags: []
+
+## http://static.roland.com
+ - [http://static.roland.com](http://static.roland.com)
+ - date published: 2023-10-25T16:54:07.496146+00:00
+ - user: None
+ - tags: []
+
+## Roland - Global
+ - [https://www.roland.com](https://www.roland.com)
+ - date published: 2023-11-06T09:56:02.793816+00:00
+ - user: None
+ - tags: ['audio equipment']
+
+## Rolepad - Take the work out of the job search
+ - [https://rolepad.com](https://rolepad.com)
+ - date published: 2023-10-25T16:54:13.237013+00:00
+ - user: None
+ - tags: []
+
+## Roll Call - Covering Capitol Hill Since 1955
+ - [https://rollcall.com](https://rollcall.com)
+ - date published: 2023-10-25T16:54:16.275639+00:00
+ - user: None
+ - tags: []
+
+## Rolling Stone – Music, Film, TV and Political News Coverage
+ - [https://www.rollingstone.com](https://www.rollingstone.com)
+ - date published: 2023-10-25T16:18:12.778211+00:00
+ - user: None
+ - tags: ['political news', 'music news']
+
+## Roll Or Don't
+ - [https://www.rollordont.com](https://www.rollordont.com)
+ - date published: 2023-10-25T16:54:28.108990+00:00
+ - user: None
+ - tags: []
+
+## ROMS Pack - ROM Sets - All Emulator's ROM Packs
+ - [https://www.romspack.com](https://www.romspack.com)
+ - date published: 2023-10-25T11:10:00.994137+00:00
+ - user: None
+ - tags: ['emulation']
+
+## Ronak Ganatra
+ - [https://ronakganatra.com](https://ronakganatra.com)
+ - date published: 2023-10-25T16:54:28.835966+00:00
+ - user: None
+ - tags: []
+
+## Electronic Music | Rone
+ - [https://www.rone-music.com](https://www.rone-music.com)
+ - date published: 2023-11-13T10:26:39.229989+00:00
+ - user: None
+ - tags: ['music band']
+
+## Jet Beetle
+ - [https://www.ronpatrickstuff.com](https://www.ronpatrickstuff.com)
+ - date published: 2023-10-25T08:47:50.285670+00:00
+ - user: None
+ - tags: ['personal']
+
+## About | Undeleted Files
+ - [https://undeleted.ronsor.com](https://undeleted.ronsor.com)
+ - date published: 2023-10-25T16:54:29.700415+00:00
+ - user: None
+ - tags: []
+
+## MacBook Repair Austin | (347) 552-2258 | Rossmann Repair Group
+ - [https://www.rossmanngroup.com](https://www.rossmanngroup.com)
+ - date published: 2023-11-03T10:37:01.928688+00:00
+ - user: None
+ - tags: ['louis rossmann']
+
+## Rotaboxes - the daily photo puzzle game
+ - [https://rotaboxes.com](https://rotaboxes.com)
+ - date published: 2023-10-25T16:54:35.233146+00:00
+ - user: None
+ - tags: []
+
+## Rotating Sandwiches – that's it
+ - [https://rotatingsandwiches.com](https://rotatingsandwiches.com)
+ - date published: 2023-10-25T16:54:37.119990+00:00
+ - user: None
+ - tags: []
+
 ## Rotten Tomatoes: Movies | TV Shows | Movie Trailers | Reviews - Rotten Tomatoes
  - [https://www.rottentomatoes.com](https://www.rottentomatoes.com)
  - date published: 2023-10-25T16:43:03.779236+00:00
@@ -850,6 +988,12 @@
  - user: None
  - tags: []
 
+## Scholarly Digital Editions
+ - [http://www.sd-editions.com](http://www.sd-editions.com)
+ - date published: 2023-11-14T22:09:48.566402+00:00
+ - user: None
+ - tags: []
+
 ## Sdlgbtn – San Diego Lesbian, Gay, Bisexual, Transgender News
  - [https://www.sdlgbtn.com](https://www.sdlgbtn.com)
  - date published: 2023-10-25T17:00:39.793963+00:00
@@ -1183,6 +1327,12 @@
 ## San Francisco Chronicle - Bay Area news, sports, tech, food - San Francisco Chronicle
  - [https://www.sfchronicle.com](https://www.sfchronicle.com)
  - date published: 2023-10-25T17:02:52.832420+00:00
+ - user: None
+ - tags: []
+
+## The San Francisco Compute Company
+ - [https://sfcompute.com](https://sfcompute.com)
+ - date published: 2023-11-14T03:36:57.945860+00:00
  - user: None
  - tags: []
 
@@ -4139,6 +4289,12 @@
  - user: None
  - tags: ['substack']
 
+## Dougald Lamont’s Substack | Substack
+ - [https://dougaldlamont.substack.com](https://dougaldlamont.substack.com)
+ - date published: 2023-11-14T18:21:47.758730+00:00
+ - user: None
+ - tags: []
+
 ## Dr. Eric Ding’s Journal | Eric Feigl-Ding | Substack
  - [https://drericding.substack.com](https://drericding.substack.com)
  - date published: 2023-10-25T09:48:29.176011+00:00
@@ -5777,6 +5933,12 @@
  - user: None
  - tags: ['substack']
 
+## Very Distant Lands Newsletter | Adam Fleming Petty | Substack
+ - [https://verydistantlands.substack.com](https://verydistantlands.substack.com)
+ - date published: 2023-11-14T19:01:26.764845+00:00
+ - user: None
+ - tags: []
+
 ## Vigneshwarar’s Newsletter | Substack
  - [https://vigneshwarar.substack.com](https://vigneshwarar.substack.com)
  - date published: 2023-10-25T10:07:12.438218+00:00
@@ -5836,166 +5998,4 @@
  - date published: 2023-10-25T10:07:29.511868+00:00
  - user: None
  - tags: ['substack']
-
-## Wood From Eden | Anders L | Substack
- - [http://woodfromeden.substack.com](http://woodfromeden.substack.com)
- - date published: 2023-10-25T10:07:31.771414+00:00
- - user: None
- - tags: ['substack']
-
-## The Works in Progress Newsletter | Substack
- - [https://worksinprogress.substack.com](https://worksinprogress.substack.com)
- - date published: 2023-10-25T10:07:34.429207+00:00
- - user: None
- - tags: ['substack']
-
-## Worldish | Substack
- - [https://worldish.substack.com](https://worldish.substack.com)
- - date published: 2023-10-25T10:07:36.707638+00:00
- - user: None
- - tags: ['substack']
-
-## Wyclif's Dust | Substack
- - [https://wyclif.substack.com](https://wyclif.substack.com)
- - date published: 2023-10-25T10:07:39.575720+00:00
- - user: None
- - tags: ['substack']
-
-## Fun With The Cloud | Yehuda Cohen | Substack
- - [https://yehudacohen.substack.com](https://yehudacohen.substack.com)
- - date published: 2023-10-25T10:07:41.995878+00:00
- - user: None
- - tags: ['substack']
-
-## Yassine Meskhout | Substack
- - [http://ymeskhout.substack.com](http://ymeskhout.substack.com)
- - date published: 2023-10-25T10:07:44.217889+00:00
- - user: None
- - tags: ['substack']
-
-## Simon's Blog | Simon Farshid | Substack
- - [http://yonom.substack.com](http://yonom.substack.com)
- - date published: 2023-10-25T10:07:45.579155+00:00
- - user: None
- - tags: ['substack']
-
-## Your Local Epidemiologist | Katelyn Jetelina | Substack
- - [http://yourlocalepidemiologist.substack.com](http://yourlocalepidemiologist.substack.com)
- - date published: 2023-10-25T10:07:48.469561+00:00
- - user: None
- - tags: ['substack']
-
-## In The Long Run | Zachary D. Carter | Substack
- - [https://zacharydcarter.substack.com](https://zacharydcarter.substack.com)
- - date published: 2023-10-25T10:07:50.275708+00:00
- - user: None
- - tags: ['substack']
-
-## Zero Day | Kim Zetter | Substack
- - [https://zetter.substack.com](https://zetter.substack.com)
- - date published: 2023-10-25T10:07:53.099694+00:00
- - user: None
- - tags: ['substack']
-
-## Zion Lights | Substack
- - [http://zionlights.substack.com](http://zionlights.substack.com)
- - date published: 2023-10-25T10:07:55.352493+00:00
- - user: None
- - tags: ['substack']
-
-## Welcome to Sudo Null IT News / Sudo Null IT News
- - [https://sudonull.com](https://sudonull.com)
- - date published: 2023-10-25T17:19:21.870327+00:00
- - user: None
- - tags: []
-
-## What color is it?
- - [http://whatcolorisit.sumbioun.com](http://whatcolorisit.sumbioun.com)
- - date published: 2023-10-25T17:19:22.474186+00:00
- - user: None
- - tags: []
-
-## Summary Cat
- - [https://www.summarycat.com](https://www.summarycat.com)
- - date published: 2023-10-25T17:19:23.747610+00:00
- - user: None
- - tags: []
-
-## Sundial:Do it yourself
- - [https://www.sundialzone.com](https://www.sundialzone.com)
- - date published: 2023-10-25T17:19:29.731342+00:00
- - user: None
- - tags: []
-
-## Chicago Sun-Times: Chicago news, sports, politics, entertainment
- - [https://chicago.suntimes.com](https://chicago.suntimes.com)
- - date published: 2023-10-25T11:06:25.871318+00:00
- - user: None
- - tags: []
-
-## Supabase | The Open Source Firebase Alternative
- - [https://supabase.com](https://supabase.com)
- - date published: 2023-10-25T17:19:31.509105+00:00
- - user: None
- - tags: []
-
-## Supademo: Create Engaging Interactive Demos and Guides
- - [https://supademo.com](https://supademo.com)
- - date published: 2023-10-25T17:19:33.311498+00:00
- - user: None
- - tags: []
-
-## Superblocks | Save 100s of developer hours on internal tools
- - [https://www.superblocks.com](https://www.superblocks.com)
- - date published: 2023-10-25T17:19:38.285897+00:00
- - user: None
- - tags: []
-
-## Our Greatest Space Stories
- - [https://www.supercluster.com](https://www.supercluster.com)
- - date published: 2023-10-25T17:19:39.677669+00:00
- - user: None
- - tags: []
-
-## Super Fast Python – making you awesome at concurrency
- - [https://superfastpython.com](https://superfastpython.com)
- - date published: 2023-10-25T17:19:42.973908+00:00
- - user: None
- - tags: []
-
-## Super Soldier Talk | Milabs, Monarchs, Mkultra
- - [https://supersoldiertalk.com](https://supersoldiertalk.com)
- - date published: 2023-10-25T17:19:46.384521+00:00
- - user: None
- - tags: []
-
-## Mapping Ideas That Change the World
- - [https://www.superusapp.com](https://www.superusapp.com)
- - date published: 2023-10-25T17:19:48.556306+00:00
- - user: None
- - tags: []
-
-## Super User
- - [https://superuser.com](https://superuser.com)
- - date published: 2023-10-25T17:19:51.369524+00:00
- - user: None
- - tags: []
-
-## SurrealDB | The ultimate multi-model database for tomorrow's applications
- - [https://surrealdb.com](https://surrealdb.com)
- - date published: 2023-10-29T17:22:37.369138+00:00
- - user: None
- - tags: []
-
-## SursockHouse
- - [https://sursockhouse.com](https://sursockhouse.com)
- - date published: 2023-10-25T17:19:53.345575+00:00
- - user: None
- - tags: []
-
-## Susan Rigetti
- - [https://www.susanrigetti.com](https://www.susanrigetti.com)
- - date published: 2023-10-25T17:19:55.091861+00:00
- - user: None
- - tags: []
 

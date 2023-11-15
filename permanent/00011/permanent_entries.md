@@ -1,3 +1,261 @@
+## Shalvah's Blog
+ - [https://blog.shalvah.me](https://blog.shalvah.me)
+ - date published: 2023-10-25T09:00:00.613048+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Sharat's
+ - [https://sharats.me](https://sharats.me)
+ - date published: 2023-10-25T09:00:01.772363+00:00
+ - user: None
+ - tags: ['personal']
+
+## The homepage of Leonid Shevtsov - systems architect, software enthusiast and philosopher. Opinions, tips and case studies
+ - [https://leonid.shevtsov.me](https://leonid.shevtsov.me)
+ - date published: 2023-10-25T20:21:12.014354+00:00
+ - user: None
+ - tags: []
+
+## Shyim's Brain
+ - [https://shyim.me](https://shyim.me)
+ - date published: 2023-10-25T08:37:50.607216+00:00
+ - user: None
+ - tags: []
+
+## Simon’s Newsletter | Substack
+ - [https://simonberens.me](https://simonberens.me)
+ - date published: 2023-10-25T10:07:57.433976+00:00
+ - user: None
+ - tags: ['substack']
+
+## The online home of Stephen Lewis. No, not that one.
+ - [https://www.stephenlewis.me](https://www.stephenlewis.me)
+ - date published: 2023-10-25T20:21:14.210743+00:00
+ - user: None
+ - tags: []
+
+## Telegram Messenger
+ - [https://t.me](https://t.me)
+ - date published: 2023-10-25T20:21:15.924156+00:00
+ - user: None
+ - tags: []
+
+## TheFrenchGhosty's Blog
+ - [https://blog.thefrenchghosty.me](https://blog.thefrenchghosty.me)
+ - date published: 2023-10-25T09:22:39.074426+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Sloth Blog
+ - [https://thesloth.me](https://thesloth.me)
+ - date published: 2023-10-25T09:22:40.122984+00:00
+ - user: None
+ - tags: ['personal']
+
+## ThoughtfulBits: Ideas that Matter | Alexander Gounares | Substack
+ - [https://www.thoughtfulbits.me](https://www.thoughtfulbits.me)
+ - date published: 2023-10-25T20:21:19.757249+00:00
+ - user: None
+ - tags: []
+
+## TJCX | Tom | Substack
+ - [https://blog.tjcx.me](https://blog.tjcx.me)
+ - date published: 2023-10-25T10:08:00.355305+00:00
+ - user: None
+ - tags: ['substack']
+
+## Hacker News Startup Ideas
+ - [https://hn-ideas.tjcx.me](https://hn-ideas.tjcx.me)
+ - date published: 2023-10-25T20:21:21.018665+00:00
+ - user: None
+ - tags: []
+
+## Blog
+ - [https://tonsky.me](https://tonsky.me)
+ - date published: 2023-10-25T08:51:14.857368+00:00
+ - user: None
+ - tags: ['personal']
+
+## Oleksii Holub
+ - [https://tyrrrz.me](https://tyrrrz.me)
+ - date published: 2023-10-25T08:51:16.110382+00:00
+ - user: None
+ - tags: ['personal']
+
+## Toby Law
+ - [https://www.tzcl.me](https://www.tzcl.me)
+ - date published: 2023-10-25T08:51:17.497845+00:00
+ - user: None
+ - tags: ['personal']
+
+## About
+ - [https://univalence.me](https://univalence.me)
+ - date published: 2023-10-25T09:00:04.426204+00:00
+ - user: None
+ - tags: ['personal']
+
+## http://unschooler.me
+ - [http://unschooler.me](http://unschooler.me)
+ - date published: 2023-10-25T20:21:22.380785+00:00
+ - user: None
+ - tags: []
+
+## The Latest and Most Common User Agents List (Updated Weekly)
+ - [https://www.useragents.me](https://www.useragents.me)
+ - date published: 2023-10-25T20:21:25.088929+00:00
+ - user: None
+ - tags: []
+
+## Home • Lea Verou
+ - [https://lea.verou.me](https://lea.verou.me)
+ - date published: 2023-10-25T08:51:19.673236+00:00
+ - user: None
+ - tags: ['personal']
+
+## Theia Vogel's website & blog
+ - [https://vgel.me](https://vgel.me)
+ - date published: 2023-10-25T08:51:21.160541+00:00
+ - user: None
+ - tags: ['personal']
+
+## Victor Mota
+ - [https://vimota.me](https://vimota.me)
+ - date published: 2023-10-25T08:51:22.371547+00:00
+ - user: None
+ - tags: ['personal']
+
+## Weights & Biases: The AI Developer Platform
+ - [https://wandb.me](https://wandb.me)
+ - date published: 2023-10-25T20:21:35.519973+00:00
+ - user: None
+ - tags: []
+
+## Wiby - Search Engine for the Classic Web
+ - [https://wiby.me](https://wiby.me)
+ - date published: 2023-10-25T08:29:23.355198+00:00
+ - user: None
+ - tags: []
+
+## WIRED Middle East - Technology, culture, science, gadgets, and business in the Middle East
+ - [https://wired.me](https://wired.me)
+ - date published: 2023-10-25T20:21:44.182813+00:00
+ - user: None
+ - tags: []
+
+## bugs.xdavidhu.me - David Schütz's bug bounty writeups
+ - [https://bugs.xdavidhu.me](https://bugs.xdavidhu.me)
+ - date published: 2023-10-25T20:21:45.732787+00:00
+ - user: None
+ - tags: []
+
+## xnacly - blog
+ - [https://xnacly.me](https://xnacly.me)
+ - date published: 2023-10-25T09:00:05.042896+00:00
+ - user: None
+ - tags: ['personal']
+
+## Welcome! — Wenting's Web Page
+ - [https://www.zephray.me](https://www.zephray.me)
+ - date published: 2023-10-25T20:21:52.856939+00:00
+ - user: None
+ - tags: []
+
+## ChinaTalk | Jordan Schneider | Substack
+ - [https://www.chinatalk.media](https://www.chinatalk.media)
+ - date published: 2023-10-25T10:08:05.206493+00:00
+ - user: None
+ - tags: ['substack']
+
+## Infusionmedia – Professional book publishing, design, and marketing
+ - [https://infusion.media](https://infusion.media)
+ - date published: 2023-10-25T20:21:56.655300+00:00
+ - user: None
+ - tags: []
+
+## Insight News: Insightful News and Analytic Articles on Ukraine and EU
+ - [https://insightnews.media](https://insightnews.media)
+ - date published: 2023-10-25T09:29:41.200467+00:00
+ - user: None
+ - tags: []
+
+## Home - International Press Institute
+ - [https://ipi.media](https://ipi.media)
+ - date published: 2023-10-25T20:22:02.576652+00:00
+ - user: None
+ - tags: []
+
+## Mezha.Media • новини IT та огляди
+ - [https://mezha.media](https://mezha.media)
+ - date published: 2023-10-25T20:22:07.948757+00:00
+ - user: None
+ - tags: []
+
+## The Record from Recorded Future News
+ - [https://therecord.media](https://therecord.media)
+ - date published: 2023-10-25T20:22:09.467233+00:00
+ - user: None
+ - tags: []
+
+## TMG
+ - [https://thrillseeker.media](https://thrillseeker.media)
+ - date published: 2023-10-31T13:11:53.641462+00:00
+ - user: None
+ - tags: ['virtual reality']
+
+## Vocal
+ - [https://vocal.media](https://vocal.media)
+ - date published: 2023-10-27T19:31:14.591931+00:00
+ - user: None
+ - tags: []
+
+## NIM-Aviation Homepage
+ - [https://www.airdomainintelligence.mil](https://www.airdomainintelligence.mil)
+ - date published: 2023-10-25T20:22:13.913036+00:00
+ - user: None
+ - tags: []
+
+## Defense Advanced Research Projects Agency
+ - [https://www.darpa.mil](https://www.darpa.mil)
+ - date published: 2023-10-25T20:22:24.810237+00:00
+ - user: None
+ - tags: []
+
+## Page Redirection
+ - [https://apps.dtic.mil](https://apps.dtic.mil)
+ - date published: 2023-10-25T20:22:26.297274+00:00
+ - user: None
+ - tags: []
+
+## Marines.mil - Official website of the United States Marine Corps
+ - [https://www.marines.mil](https://www.marines.mil)
+ - date published: 2023-10-25T20:22:30.689838+00:00
+ - user: None
+ - tags: []
+
+## Celestial Reference Frame Department - Home | USNO
+ - [https://crf.usno.navy.mil](https://crf.usno.navy.mil)
+ - date published: 2023-10-27T12:05:30.068659+00:00
+ - user: None
+ - tags: []
+
+## NHHC
+ - [https://www.history.navy.mil](https://www.history.navy.mil)
+ - date published: 2023-10-25T20:22:52.200634+00:00
+ - user: None
+ - tags: []
+
+## Shadow's Edge | Home
+ - [https://www.shadowsedge.mil](https://www.shadowsedge.mil)
+ - date published: 2023-11-05T03:04:15.281086+00:00
+ - user: None
+ - tags: []
+
+## Lemmy - A community of privacy and FOSS enthusiasts, run by Lemmy’s developers
+ - [https://lemmy.ml](https://lemmy.ml)
+ - date published: 2023-10-24T20:14:58.384075+00:00
+ - user: None
+ - tags: []
+
 ## Scott.mn
  - [https://scott.mn](https://scott.mn)
  - date published: 2023-10-25T09:22:41.721028+00:00
@@ -1378,6 +1636,12 @@
  - user: None
  - tags: []
 
+## flu0r1ne.net
+ - [https://www.flu0r1ne.net](https://www.flu0r1ne.net)
+ - date published: 2023-11-14T04:42:18.031975+00:00
+ - user: None
+ - tags: []
+
 ## fodev.net
  - [https://fodev.net](https://fodev.net)
  - date published: 2023-10-25T08:36:01.914297+00:00
@@ -2332,6 +2596,12 @@
  - date published: 2023-10-25T08:53:18.469779+00:00
  - user: None
  - tags: ['personal']
+
+## Community | MonoGame
+ - [https://community.monogame.net](https://community.monogame.net)
+ - date published: 2023-11-14T13:55:36.213436+00:00
+ - user: None
+ - tags: []
 
 ## Computational Impacts – AI Industry Analysis Without Hype or Tech-bro-ism
  - [https://monroelab.net](https://monroelab.net)
@@ -3435,6 +3705,12 @@
 ## Lord of the Rings on Prime News and Info - The One Ring .net
  - [https://theonering.net](https://theonering.net)
  - date published: 2023-10-25T13:57:49.200628+00:00
+ - user: None
+ - tags: []
+
+## The Path Not Taken | Thomas Prosser | Substack
+ - [https://www.thepathnottaken.net](https://www.thepathnottaken.net)
+ - date published: 2023-11-14T11:53:38.062486+00:00
  - user: None
  - tags: []
 
@@ -5718,280 +5994,4 @@ marginalia.nu
  - date published: 2023-10-25T20:58:37.121202+00:00
  - user: None
  - tags: []
-
-## APT Browse - Home
- - [https://www.apt-browse.org](https://www.apt-browse.org)
- - date published: 2023-10-25T20:58:43.373403+00:00
- - user: None
- - tags: []
-
-## Beijing Air Pollution: Real-time Air Quality Index
- - [https://aqicn.org](https://aqicn.org)
- - date published: 2023-10-25T20:58:48.998676+00:00
- - user: None
- - tags: []
-
-## Archaeology - Archaeology Magazine
- - [https://www.archaeology.org](https://www.archaeology.org)
- - date published: 2023-10-27T12:06:24.724348+00:00
- - user: None
- - tags: []
-
-## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
- - [https://archive.org](https://archive.org)
- - date published: 2023-10-25T09:29:04.093943+00:00
- - user: None
- - tags: ['archive']
-
-## Internet Archive Blogs | A blog from the team at archive.org
- - [https://blog.archive.org](https://blog.archive.org)
- - date published: 2023-10-25T09:29:16.005203+00:00
- - user: None
- - tags: []
-
-## The Great 78 Project – Community Preservation, Research, Discovery of 78rpm Records
- - [https://great78.archive.org](https://great78.archive.org)
- - date published: 2023-10-27T12:06:31.660655+00:00
- - user: None
- - tags: []
-
-## Directory listing for ia600700.us.archive.org
- - [https://ia600700.us.archive.org](https://ia600700.us.archive.org)
- - date published: 2023-10-25T20:59:13.402630+00:00
- - user: None
- - tags: []
-
-## Directory listing for ia601406.us.archive.org
- - [https://ia601406.us.archive.org](https://ia601406.us.archive.org)
- - date published: 2023-10-25T20:59:19.795275+00:00
- - user: None
- - tags: []
-
-## Directory listing for ia601707.us.archive.org
- - [https://ia601707.us.archive.org](https://ia601707.us.archive.org)
- - date published: 2023-10-25T20:59:20.976004+00:00
- - user: None
- - tags: []
-
-## Directory listing for ia601808.us.archive.org
- - [https://ia601808.us.archive.org](https://ia601808.us.archive.org)
- - date published: 2023-10-25T20:59:22.280884+00:00
- - user: None
- - tags: []
-
-## Directory listing for ia801508.us.archive.org
- - [https://ia801508.us.archive.org](https://ia801508.us.archive.org)
- - date published: 2023-10-25T20:59:23.511795+00:00
- - user: None
- - tags: []
-
-## Directory listing for ia804605.us.archive.org
- - [https://ia804605.us.archive.org](https://ia804605.us.archive.org)
- - date published: 2023-10-25T20:59:24.951539+00:00
- - user: None
- - tags: []
-
-## Directory listing for ia903105.us.archive.org
- - [https://ia903105.us.archive.org](https://ia903105.us.archive.org)
- - date published: 2023-10-25T20:59:26.153617+00:00
- - user: None
- - tags: []
-
-## Internet Archive
- - [https://mastodon.archive.org](https://mastodon.archive.org)
- - date published: 2023-10-24T20:13:30.645813+00:00
- - user: None
- - tags: ['mastodon']
-
-## Internet Archive Scholar
- - [https://scholar.archive.org](https://scholar.archive.org)
- - date published: 2023-10-25T20:59:27.635866+00:00
- - user: None
- - tags: []
-
-## Wayback Machine
- - [https://web.archive.org](https://web.archive.org)
- - date published: 2023-10-25T09:29:18.969501+00:00
- - user: None
- - tags: ['archive']
-
-## Arch Linux
- - [https://archlinux.org](https://archlinux.org)
- - date published: 2023-10-25T08:32:04.840346+00:00
- - user: None
- - tags: ['operating system']
-
-## Arch Linux Forums
- - [https://bbs.archlinux.org](https://bbs.archlinux.org)
- - date published: 2023-10-25T20:59:28.398072+00:00
- - user: None
- - tags: []
-
-## What can I do for Arch Linux?
- - [https://whatcanidofor.archlinux.org](https://whatcanidofor.archlinux.org)
- - date published: 2023-10-25T20:59:29.334535+00:00
- - user: None
- - tags: []
-
-## ArchWiki
- - [https://wiki.archlinux.org](https://wiki.archlinux.org)
- - date published: 2023-11-01T08:44:11.744107+00:00
- - user: None
- - tags: []
-
-## Arch Mission Foundation - Preserving humanity forever, in space and on Earth.
- - [https://www.archmission.org](https://www.archmission.org)
- - date published: 2023-11-01T08:44:12.919349+00:00
- - user: None
- - tags: []
-
-## https://ardour.org
- - [https://ardour.org](https://ardour.org)
- - date published: 2023-10-25T20:59:31.008744+00:00
- - user: None
- - tags: []
-
-## Free Download Full Version PC Games - ARealGamer
- - [https://www.arealgamer.org](https://www.arealgamer.org)
- - date published: 2023-10-29T11:05:38.002005+00:00
- - user: None
- - tags: []
-
-## Arepo code - moving mesh hydrodynamics - open source code
- - [https://arepo-code.org](https://arepo-code.org)
- - date published: 2023-10-25T20:59:32.572801+00:00
- - user: None
- - tags: []
-
-## Aresluna
- - [https://aresluna.org](https://aresluna.org)
- - date published: 2023-10-25T20:59:33.736041+00:00
- - user: None
- - tags: []
-
-## ArmorPaint | 3D PBR Texture Painting
- - [https://armorpaint.org](https://armorpaint.org)
- - date published: 2023-10-25T20:59:39.560209+00:00
- - user: None
- - tags: []
-
-## ARRL - Home
- - [https://www.arrl.org](https://www.arrl.org)
- - date published: 2023-10-25T20:59:47.271850+00:00
- - user: None
- - tags: []
-
-## ARTICLE 19 - Defending freedom of expression and information.
- - [https://www.article19.org](https://www.article19.org)
- - date published: 2023-10-25T20:59:49.244012+00:00
- - user: None
- - tags: []
-
-## arXiv.org e-Print archive
- - [https://arxiv.org](https://arxiv.org)
- - date published: 2023-10-25T09:28:35.420233+00:00
- - user: None
- - tags: ['archive', 'database']
-
-## arXiv blog – News from arXiv.org
- - [https://blog.arxiv.org](https://blog.arxiv.org)
- - date published: 2023-10-25T20:59:51.213396+00:00
- - user: None
- - tags: []
-
-## export.arxiv.org e-Print archive mirror
- - [https://export.arxiv.org](https://export.arxiv.org)
- - date published: 2023-10-25T21:00:05.827571+00:00
- - user: None
- - tags: []
-
-## Asahi Linux
- - [https://asahilinux.org](https://asahilinux.org)
- - date published: 2023-10-25T21:00:12.219742+00:00
- - user: None
- - tags: []
-
-## AsciiMath
- - [http://asciimath.org](http://asciimath.org)
- - date published: 2023-10-25T21:00:13.643263+00:00
- - user: None
- - tags: []
-
-## Asciinema: Record and share your terminal sessions, the simple way
- - [https://asciinema.org](https://asciinema.org)
- - date published: 2023-11-03T20:53:30+00:00
- - user: None
- - tags: []
-
-## asciinema blog · asciinema blog
- - [https://blog.asciinema.org](https://blog.asciinema.org)
- - date published: 2023-10-25T21:00:15.393590+00:00
- - user: None
- - tags: []
-
-## Ash Framework
- - [https://ash-hq.org](https://ash-hq.org)
- - date published: 2023-10-25T21:00:22.655697+00:00
- - user: None
- - tags: []
-
-## Ask a Manager
- - [https://www.askamanager.org](https://www.askamanager.org)
- - date published: 2023-10-25T21:00:28.272656+00:00
- - user: None
- - tags: []
-
-## https://journals.asm.org
- - [https://journals.asm.org](https://journals.asm.org)
- - date published: 2023-11-13T10:20:42.113220+00:00
- - user: None
- - tags: []
-
-## AssemblyScript
- - [https://www.assemblyscript.org](https://www.assemblyscript.org)
- - date published: 2023-10-25T21:00:34.720207+00:00
- - user: None
- - tags: []
-
-## astrobites | the astro-ph reader's digest
- - [https://astrobites.org](https://astrobites.org)
- - date published: 2023-10-25T21:00:38.772984+00:00
- - user: None
- - tags: []
-
-## Atlantic Council - Shaping the global future together
- - [https://www.atlanticcouncil.org](https://www.atlanticcouncil.org)
- - date published: 2023-10-25T21:00:45.775086+00:00
- - user: None
- - tags: []
-
-## Atlas of Surveillance
- - [https://atlasofsurveillance.org](https://atlasofsurveillance.org)
- - date published: 2023-10-25T21:00:52.536001+00:00
- - user: None
- - tags: []
-
-## Nuclear Museum
- - [https://www.atomicheritage.org](https://www.atomicheritage.org)
- - date published: 2023-10-25T21:00:56.284988+00:00
- - user: None
- - tags: []
-
-## AttorneyHelp.org: attorney finder, attorney at law, lawyers and law firms
- - [https://www.attorneyhelp.org](https://www.attorneyhelp.org)
- - date published: 2023-10-25T21:00:59.206451+00:00
- - user: None
- - tags: []
-
-## Audacity ® | Free, open source, cross-platform audio software for multi-track recording and editing.
- - [https://www.audacityteam.org](https://www.audacityteam.org)
- - date published: 2023-10-27T15:11:33.412728+00:00
- - user: None
- - tags: ['audio editor', 'open source', 'program']
-
-## Aurora Store - Download Aurora Store Apk for Android {4.1.1}
- - [https://aurorastore.org](https://aurorastore.org)
- - date published: 2023-10-24T20:10:48.155491+00:00
- - user: None
- - tags: ['app store']
 

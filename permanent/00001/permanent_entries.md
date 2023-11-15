@@ -1,3 +1,45 @@
+## Aceso Under Glass – What if we understood more things?
+ - [https://acesounderglass.com](https://acesounderglass.com)
+ - date published: 2023-10-25T12:31:27.015752+00:00
+ - user: None
+ - tags: []
+
+## ACM Wealth - Advisor Capital Management
+ - [https://acmwealth.com](https://acmwealth.com)
+ - date published: 2023-10-25T12:31:35.736632+00:00
+ - user: None
+ - tags: []
+
+## acreom — The way developers get things done
+ - [https://acreom.com](https://acreom.com)
+ - date published: 2023-10-25T12:31:37.824249+00:00
+ - user: None
+ - tags: []
+
+## Jacksonville News, Weather, Traffic and Sports – Action News Jax
+ - [https://www.actionnewsjax.com](https://www.actionnewsjax.com)
+ - date published: 2023-10-25T12:31:40.119598+00:00
+ - user: None
+ - tags: []
+
+## Activision | Home
+ - [https://www.activision.com](https://www.activision.com)
+ - date published: 2023-10-25T11:27:02.301683+00:00
+ - user: None
+ - tags: ['company', 'call of duty']
+
+## Activision Blizzard | Home
+ - [https://www.activisionblizzard.com](https://www.activisionblizzard.com)
+ - date published: 2023-10-25T11:27:03.898191+00:00
+ - user: None
+ - tags: []
+
+## Activist Post - Alternative News & Independent Views
+ - [https://www.activistpost.com](https://www.activistpost.com)
+ - date published: 2023-10-25T12:31:44.035152+00:00
+ - user: None
+ - tags: []
+
 ## Actual
  - [https://actualbudget.com](https://actualbudget.com)
  - date published: 2023-10-28T23:34:48.545584+00:00
@@ -5032,6 +5074,12 @@
  - user: None
  - tags: []
 
+## Home - The Bucks County Herald
+ - [https://buckscountyherald.com](https://buckscountyherald.com)
+ - date published: 2023-11-14T23:58:04.625845+00:00
+ - user: None
+ - tags: []
+
 ## Buddy Pond
  - [https://buddypond.com](https://buddypond.com)
  - date published: 2023-10-25T08:37:35.139877+00:00
@@ -5227,6 +5275,12 @@
 ## Invent the Future - CableLabs
  - [https://www.cablelabs.com](https://www.cablelabs.com)
  - date published: 2023-10-25T13:16:17.847430+00:00
+ - user: None
+ - tags: []
+
+## CacheWarp: A new software fault attack on AMD SEV-ES and SEV-SNP
+ - [https://cachewarpattack.com](https://cachewarpattack.com)
+ - date published: 2023-11-14T19:56:52+00:00
  - user: None
  - tags: []
 
@@ -5941,60 +5995,6 @@
 ## Car Accident Records Search and Check VIN  |  Vehicle History Reports  |  Junk and Salvage Records  |  Check Any VIN
  - [https://checkanyvin.com](https://checkanyvin.com)
  - date published: 2023-10-25T13:20:49.534387+00:00
- - user: None
- - tags: []
-
-## Application Security Testing Company | Software Security Testing Solutions | Checkmarx
- - [https://checkmarx.com](https://checkmarx.com)
- - date published: 2023-10-25T13:20:53.896133+00:00
- - user: None
- - tags: []
-
-## Check Point Blog - Cyber Security News, Research & Trends
- - [https://blog.checkpoint.com](https://blog.checkpoint.com)
- - date published: 2023-10-25T13:21:03.502709+00:00
- - user: None
- - tags: []
-
-## CPR - Check Point Research
- - [https://research.checkpoint.com](https://research.checkpoint.com)
- - date published: 2023-10-25T13:21:06.052525+00:00
- - user: None
- - tags: []
-
-## The Cheese Professor | The Class You Always Wanted To Take
- - [https://www.cheeseprofessor.com](https://www.cheeseprofessor.com)
- - date published: 2023-10-25T13:21:10.552300+00:00
- - user: None
- - tags: []
-
-## Chelsea Troy
- - [https://chelseatroy.com](https://chelseatroy.com)
- - date published: 2023-10-25T13:21:13.217018+00:00
- - user: None
- - tags: []
-
-## Chemistry news, research and opinions | Chemistry World
- - [https://www.chemistryworld.com](https://www.chemistryworld.com)
- - date published: 2023-10-25T13:21:20.243948+00:00
- - user: None
- - tags: []
-
-## Chess.com - Play Chess Online - Free Games
- - [https://www.chess.com](https://www.chess.com)
- - date published: 2023-10-25T13:21:22.359293+00:00
- - user: None
- - tags: []
-
-## Chess - Play, Learn & Watch Live Tournaments - chess24 | chess24.com
- - [https://chess24.com](https://chess24.com)
- - date published: 2023-10-25T13:21:24.370913+00:00
- - user: None
- - tags: []
-
-## chess24 wall
- - [https://new.chess24.com](https://new.chess24.com)
- - date published: 2023-10-25T13:21:26.844592+00:00
  - user: None
  - tags: []
 

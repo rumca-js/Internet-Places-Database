@@ -202,6 +202,12 @@
  - user: None
  - tags: []
 
+## Wisdom In a Nutshell
+ - [https://www.wisdominanutshell.academy](https://www.wisdominanutshell.academy)
+ - date published: 2023-11-14T14:40:46.425150+00:00
+ - user: None
+ - tags: []
+
 ## Welcome – Thomann United Arab Emirates
  - [https://www.thomann.ae](https://www.thomann.ae)
  - date published: 2023-10-25T11:36:13.551700+00:00
@@ -247,6 +253,12 @@
 ## Adept: Useful General Intelligence
  - [https://www.adept.ai](https://www.adept.ai)
  - date published: 2023-10-25T11:36:32.301944+00:00
+ - user: None
+ - tags: []
+
+## agent.ai
+ - [https://agent.ai](https://agent.ai)
+ - date published: 2023-11-14T03:03:33.035878+00:00
  - user: None
  - tags: []
 
@@ -895,6 +907,12 @@
 ## AMD – Performant A.I for everyone
  - [https://nod.ai](https://nod.ai)
  - date published: 2023-10-25T11:40:47.861518+00:00
+ - user: None
+ - tags: []
+
+## The Normal Blog - System Two: The Normal Computing Blog
+ - [https://blog.normalcomputing.ai](https://blog.normalcomputing.ai)
+ - date published: 2023-11-14T06:42:22.516104+00:00
  - user: None
  - tags: []
 
@@ -2578,6 +2596,12 @@
  - user: None
  - tags: []
 
+## Queensland Brain Institute
+ - [https://qbi.uq.edu.au](https://qbi.uq.edu.au)
+ - date published: 2023-11-14T23:49:22.026061+00:00
+ - user: None
+ - tags: []
+
 ## Faculty of Science - University of Queensland
  - [http://science.uq.edu.au](http://science.uq.edu.au)
  - date published: 2023-10-25T11:21:28.871238+00:00
@@ -2785,6 +2809,12 @@
 ## Agendas
  - [https://www.news.uliege.be](https://www.news.uliege.be)
  - date published: 2023-10-25T11:59:32.579730+00:00
+ - user: None
+ - tags: []
+
+## Accueil
+ - [https://www.sciences.uliege.be](https://www.sciences.uliege.be)
+ - date published: 2023-11-14T13:14:53.218739+00:00
  - user: None
  - tags: []
 
@@ -3262,6 +3292,12 @@
  - date published: 2023-11-13T13:41:34.414087+00:00
  - user: None
  - tags: ['museum']
+
+## Repórter Brasil
+ - [https://reporterbrasil.org.br](https://reporterbrasil.org.br)
+ - date published: 2023-11-14T17:00:02.121596+00:00
+ - user: None
+ - tags: []
 
 ## Astro
  - [https://astro.build](https://astro.build)
@@ -5802,6 +5838,12 @@
  - user: None
  - tags: ['personal']
 
+## Collection of the Best Mathematics and Science Stuff | Abakcus
+ - [https://abakcus.com](https://abakcus.com)
+ - date published: 2023-11-14T17:18:23.546364+00:00
+ - user: None
+ - tags: []
+
 ## ABC13 Houston news, weather and traffic - Latest Texas news and weather
  - [https://abc13.com](https://abc13.com)
  - date published: 2023-10-25T12:28:58.013073+00:00
@@ -5949,48 +5991,6 @@
 ## Welcome to AccessibilityForDevelopers.com
  - [https://accessibilityfordevelopers.com](https://accessibilityfordevelopers.com)
  - date published: 2023-10-25T12:31:13.498578+00:00
- - user: None
- - tags: []
-
-## Local, National, & Global Daily Weather Forecast | AccuWeather
- - [https://www.accuweather.com](https://www.accuweather.com)
- - date published: 2023-10-24T20:19:12.824786+00:00
- - user: None
- - tags: ['weather']
-
-## Aceso Under Glass – What if we understood more things?
- - [https://acesounderglass.com](https://acesounderglass.com)
- - date published: 2023-10-25T12:31:27.015752+00:00
- - user: None
- - tags: []
-
-## ACM Wealth - Advisor Capital Management
- - [https://acmwealth.com](https://acmwealth.com)
- - date published: 2023-10-25T12:31:35.736632+00:00
- - user: None
- - tags: []
-
-## acreom — The way developers get things done
- - [https://acreom.com](https://acreom.com)
- - date published: 2023-10-25T12:31:37.824249+00:00
- - user: None
- - tags: []
-
-## Jacksonville News, Weather, Traffic and Sports – Action News Jax
- - [https://www.actionnewsjax.com](https://www.actionnewsjax.com)
- - date published: 2023-10-25T12:31:40.119598+00:00
- - user: None
- - tags: []
-
-## Activision | Home
- - [https://www.activision.com](https://www.activision.com)
- - date published: 2023-10-25T11:27:02.301683+00:00
- - user: None
- - tags: ['company', 'call of duty']
-
-## Activision Blizzard | Home
- - [https://www.activisionblizzard.com](https://www.activisionblizzard.com)
- - date published: 2023-10-25T11:27:03.898191+00:00
  - user: None
  - tags: []
 

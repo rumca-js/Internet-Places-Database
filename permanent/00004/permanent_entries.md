@@ -1,3 +1,87 @@
+## JavaScript diagramming library for interactive UIs – JointJS
+ - [https://www.jointjs.com](https://www.jointjs.com)
+ - date published: 2023-10-25T15:31:04.622694+00:00
+ - user: None
+ - tags: []
+
+## AI for Tech Support
+ - [https://www.jointwig.com](https://www.jointwig.com)
+ - date published: 2023-10-25T15:31:05.890192+00:00
+ - user: None
+ - tags: []
+
+## Joltmailer
+ - [https://joltmailer.com](https://joltmailer.com)
+ - date published: 2023-11-10T11:04:46.045640+00:00
+ - user: None
+ - tags: []
+
+## jonandnic dot com - suddenly nothing happened
+ - [https://www.jonandnic.com](https://www.jonandnic.com)
+ - date published: 2023-10-25T15:31:08.960393+00:00
+ - user: None
+ - tags: []
+
+## Jon Lajoie
+ - [https://www.jonlajoie.com](https://www.jonlajoie.com)
+ - date published: 2023-11-13T10:41:04.131591+00:00
+ - user: None
+ - tags: ['comedy', 'music artist', 'music band', 'satire']
+
+## JonPaulUritis.com
+ - [https://jonpauluritis.com](https://jonpauluritis.com)
+ - date published: 2023-10-25T15:31:13.129837+00:00
+ - user: None
+ - tags: []
+
+## Code & Sundry
+ - [https://blog.jonstodle.com](https://blog.jonstodle.com)
+ - date published: 2023-10-25T15:31:14.644491+00:00
+ - user: None
+ - tags: []
+
+## jonstokes.com | Jon Stokes | Substack
+ - [https://www.jonstokes.com](https://www.jonstokes.com)
+ - date published: 2023-10-25T15:31:18.894851+00:00
+ - user: None
+ - tags: []
+
+## Home | Jordan Peterson
+ - [https://www.jordanbpeterson.com](https://www.jordanbpeterson.com)
+ - date published: 2023-10-25T08:46:41.267780+00:00
+ - user: None
+ - tags: ['personal']
+
+## Josef Erben's Blog
+ - [https://www.joseferben.com](https://www.joseferben.com)
+ - date published: 2023-10-25T15:31:22.326088+00:00
+ - user: None
+ - tags: []
+
+## Joseon
+ - [https://www.joseon.com](https://www.joseon.com)
+ - date published: 2023-10-26T11:09:14.356479+00:00
+ - user: None
+ - tags: []
+
+## Joseph A. McCullough – Writer & Games Designer
+ - [https://www.josephamccullough.com](https://www.josephamccullough.com)
+ - date published: 2023-10-27T07:26:53.904248+00:00
+ - user: None
+ - tags: ['tabletop games', 'personal', 'frostgrave']
+
+## Seph
+ - [https://josephg.com](https://josephg.com)
+ - date published: 2023-10-25T15:31:24.014626+00:00
+ - user: None
+ - tags: []
+
+## joseph of iowa
+ - [https://blog.josephofiowa.com](https://blog.josephofiowa.com)
+ - date published: 2023-11-08T21:31:37.242452+00:00
+ - user: None
+ - tags: []
+
 ## Josh Collinsworth
  - [https://joshcollinsworth.com](https://joshcollinsworth.com)
  - date published: 2023-10-25T08:46:42.529511+00:00
@@ -953,6 +1037,12 @@
  - user: None
  - tags: []
 
+## The Korea Herald
+ - [https://www.koreaherald.com](https://www.koreaherald.com)
+ - date published: 2023-11-14T07:43:10.469895+00:00
+ - user: None
+ - tags: []
+
 ## home 10-4-23 - Korn | Official Website
  - [https://kornofficial.com](https://kornofficial.com)
  - date published: 2023-11-13T09:45:06.784075+00:00
@@ -1346,6 +1436,18 @@
 ## People Management Platform | Performance and Engagement Software | Lattice
  - [https://lattice.com](https://lattice.com)
  - date published: 2023-10-25T15:42:39.571265+00:00
+ - user: None
+ - tags: []
+
+## Introduction - Launch Leopard
+ - [https://docs.launchleopard.com](https://docs.launchleopard.com)
+ - date published: 2023-11-14T15:18:54.247417+00:00
+ - user: None
+ - tags: []
+
+## Show HN: SvelteKit SaaS Boilerplate to help launch your product fast
+ - [https://launchleopard.com](https://launchleopard.com)
+ - date published: 2023-11-14T13:33:49+00:00
  - user: None
  - tags: []
 
@@ -3667,6 +3769,12 @@ diversions.
  - user: None
  - tags: []
 
+## Carlos Arguelles – Medium
+ - [https://carloarg02.medium.com](https://carloarg02.medium.com)
+ - date published: 2023-11-14T03:03:34.674567+00:00
+ - user: None
+ - tags: []
+
 ## Medium
  - [https://cherp.medium.com](https://cherp.medium.com)
  - date published: 2023-10-25T10:19:08.602659+00:00
@@ -4612,6 +4720,12 @@ diversions.
 ## meWho.com
  - [https://www.mewho.com](https://www.mewho.com)
  - date published: 2023-10-25T16:02:17.586198+00:00
+ - user: None
+ - tags: []
+
+## Home - Mexico News Daily
+ - [https://mexiconewsdaily.com](https://mexiconewsdaily.com)
+ - date published: 2023-11-14T01:23:54.266794+00:00
  - user: None
  - tags: []
 
@@ -5878,120 +5992,6 @@ diversions.
 ## Cloudflare
  - [https://nassimsoftware.com](https://nassimsoftware.com)
  - date published: 2023-10-25T16:10:46.275013+00:00
- - user: None
- - tags: []
-
-## Natecation · from Nathan H. Leung
- - [https://www.natecation.com](https://www.natecation.com)
- - date published: 2023-10-25T16:10:48.264572+00:00
- - user: None
- - tags: []
-
-## Nate Hoffelder
- - [https://natehoffelder.com](https://natehoffelder.com)
- - date published: 2023-10-25T16:10:56.376597+00:00
- - user: None
- - tags: []
-
-## Nat Eliason's Newsletter | Substack
- - [https://blog.nateliason.com](https://blog.nateliason.com)
- - date published: 2023-10-25T16:11:04.110312+00:00
- - user: None
- - tags: []
-
-## nate's website
- - [https://www.nateranda.com](https://www.nateranda.com)
- - date published: 2023-10-25T16:11:06.408957+00:00
- - user: None
- - tags: []
-
-## Nathan Craddock
- - [https://nathancraddock.com](https://nathancraddock.com)
- - date published: 2023-10-25T16:11:07.784296+00:00
- - user: None
- - tags: []
-
-## Nathan Otterness' Page
- - [https://nathanotterness.com](https://nathanotterness.com)
- - date published: 2023-10-25T16:11:10.707029+00:00
- - user: None
- - tags: []
-
-## Nathan Peck
- - [https://nathanpeck.com](https://nathanpeck.com)
- - date published: 2023-10-25T16:11:12.511630+00:00
- - user: None
- - tags: []
-
-## Nat Henry
- - [https://nathenry.com](https://nathenry.com)
- - date published: 2023-10-25T16:11:15.803624+00:00
- - user: None
- - tags: []
-
-## Home | National Affairs
- - [https://nationalaffairs.com](https://nationalaffairs.com)
- - date published: 2023-10-25T16:11:19.497717+00:00
- - user: None
- - tags: []
-
-## Home | National Affairs
- - [https://www.nationalaffairs.com](https://www.nationalaffairs.com)
- - date published: 2023-10-25T16:11:25.921422+00:00
- - user: None
- - tags: []
-
-## National File
- - [https://nationalfile.com](https://nationalfile.com)
- - date published: 2023-10-25T16:11:33.651688+00:00
- - user: None
- - tags: []
-
-## National Geographic
- - [https://www.nationalgeographic.com](https://www.nationalgeographic.com)
- - date published: 2023-10-25T16:11:46.782249+00:00
- - user: None
- - tags: []
-
-## National Journal
- - [https://www.nationaljournal.com](https://www.nationaljournal.com)
- - date published: 2023-11-10T19:58:41.389822+00:00
- - user: None
- - tags: []
-
-## Canada's National Observer: News & Analysis
- - [https://www.nationalobserver.com](https://www.nationalobserver.com)
- - date published: 2023-10-25T16:11:50.828726+00:00
- - user: None
- - tags: []
-
-## Home | The National Post Home Page | National Post
- - [https://nationalpost.com](https://nationalpost.com)
- - date published: 2023-10-25T16:12:03.903762+00:00
- - user: None
- - tags: []
-
-## National Review: Conservative News, Opinion, Politics, Policy, & Current Events
- - [https://www.nationalreview.com](https://www.nationalreview.com)
- - date published: 2023-10-25T10:26:54.464697+00:00
- - user: None
- - tags: []
-
-## Nation World News | Get Latest Breaking News Update
- - [https://nationworldnews.com](https://nationworldnews.com)
- - date published: 2023-10-25T16:12:09.375654+00:00
- - user: None
- - tags: []
-
-## NativePHP | Baking Delicious Native Apps
- - [https://nativephp.com](https://nativephp.com)
- - date published: 2023-10-25T16:12:10.571354+00:00
- - user: None
- - tags: []
-
-## Legal News & Business Law News | The National Law Review
- - [https://www.natlawreview.com](https://www.natlawreview.com)
- - date published: 2023-11-01T08:42:43.779371+00:00
  - user: None
  - tags: []
 

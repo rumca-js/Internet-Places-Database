@@ -1,3 +1,165 @@
+## The Works in Progress Newsletter | Substack
+ - [https://worksinprogress.substack.com](https://worksinprogress.substack.com)
+ - date published: 2023-10-25T10:07:34.429207+00:00
+ - user: None
+ - tags: ['substack']
+
+## Worldish | Substack
+ - [https://worldish.substack.com](https://worldish.substack.com)
+ - date published: 2023-10-25T10:07:36.707638+00:00
+ - user: None
+ - tags: ['substack']
+
+## Wyclif's Dust | Substack
+ - [https://wyclif.substack.com](https://wyclif.substack.com)
+ - date published: 2023-10-25T10:07:39.575720+00:00
+ - user: None
+ - tags: ['substack']
+
+## Fun With The Cloud | Yehuda Cohen | Substack
+ - [https://yehudacohen.substack.com](https://yehudacohen.substack.com)
+ - date published: 2023-10-25T10:07:41.995878+00:00
+ - user: None
+ - tags: ['substack']
+
+## Yassine Meskhout | Substack
+ - [http://ymeskhout.substack.com](http://ymeskhout.substack.com)
+ - date published: 2023-10-25T10:07:44.217889+00:00
+ - user: None
+ - tags: ['substack']
+
+## Simon's Blog | Simon Farshid | Substack
+ - [http://yonom.substack.com](http://yonom.substack.com)
+ - date published: 2023-10-25T10:07:45.579155+00:00
+ - user: None
+ - tags: ['substack']
+
+## Your Local Epidemiologist | Katelyn Jetelina | Substack
+ - [http://yourlocalepidemiologist.substack.com](http://yourlocalepidemiologist.substack.com)
+ - date published: 2023-10-25T10:07:48.469561+00:00
+ - user: None
+ - tags: ['substack']
+
+## In The Long Run | Zachary D. Carter | Substack
+ - [https://zacharydcarter.substack.com](https://zacharydcarter.substack.com)
+ - date published: 2023-10-25T10:07:50.275708+00:00
+ - user: None
+ - tags: ['substack']
+
+## Zero Day | Kim Zetter | Substack
+ - [https://zetter.substack.com](https://zetter.substack.com)
+ - date published: 2023-10-25T10:07:53.099694+00:00
+ - user: None
+ - tags: ['substack']
+
+## Zion Lights | Substack
+ - [http://zionlights.substack.com](http://zionlights.substack.com)
+ - date published: 2023-10-25T10:07:55.352493+00:00
+ - user: None
+ - tags: ['substack']
+
+## Welcome to Sudo Null IT News / Sudo Null IT News
+ - [https://sudonull.com](https://sudonull.com)
+ - date published: 2023-10-25T17:19:21.870327+00:00
+ - user: None
+ - tags: []
+
+## What color is it?
+ - [http://whatcolorisit.sumbioun.com](http://whatcolorisit.sumbioun.com)
+ - date published: 2023-10-25T17:19:22.474186+00:00
+ - user: None
+ - tags: []
+
+## Summary Cat
+ - [https://www.summarycat.com](https://www.summarycat.com)
+ - date published: 2023-10-25T17:19:23.747610+00:00
+ - user: None
+ - tags: []
+
+## Sundial:Do it yourself
+ - [https://www.sundialzone.com](https://www.sundialzone.com)
+ - date published: 2023-10-25T17:19:29.731342+00:00
+ - user: None
+ - tags: []
+
+## Chicago Sun-Times: Chicago news, sports, politics, entertainment
+ - [https://chicago.suntimes.com](https://chicago.suntimes.com)
+ - date published: 2023-10-25T11:06:25.871318+00:00
+ - user: None
+ - tags: []
+
+## Supabase | The Open Source Firebase Alternative
+ - [https://supabase.com](https://supabase.com)
+ - date published: 2023-10-25T17:19:31.509105+00:00
+ - user: None
+ - tags: []
+
+## Supademo: Create Engaging Interactive Demos and Guides
+ - [https://supademo.com](https://supademo.com)
+ - date published: 2023-10-25T17:19:33.311498+00:00
+ - user: None
+ - tags: []
+
+## Superblocks | Save 100s of developer hours on internal tools
+ - [https://www.superblocks.com](https://www.superblocks.com)
+ - date published: 2023-10-25T17:19:38.285897+00:00
+ - user: None
+ - tags: []
+
+## Our Greatest Space Stories
+ - [https://www.supercluster.com](https://www.supercluster.com)
+ - date published: 2023-10-25T17:19:39.677669+00:00
+ - user: None
+ - tags: []
+
+## Super Fast Python – making you awesome at concurrency
+ - [https://superfastpython.com](https://superfastpython.com)
+ - date published: 2023-10-25T17:19:42.973908+00:00
+ - user: None
+ - tags: []
+
+## Super Soldier Talk | Milabs, Monarchs, Mkultra
+ - [https://supersoldiertalk.com](https://supersoldiertalk.com)
+ - date published: 2023-10-25T17:19:46.384521+00:00
+ - user: None
+ - tags: []
+
+## Mapping Ideas That Change the World
+ - [https://www.superusapp.com](https://www.superusapp.com)
+ - date published: 2023-10-25T17:19:48.556306+00:00
+ - user: None
+ - tags: []
+
+## Super User
+ - [https://superuser.com](https://superuser.com)
+ - date published: 2023-10-25T17:19:51.369524+00:00
+ - user: None
+ - tags: []
+
+## SurrealDB | The ultimate multi-model database for tomorrow's applications
+ - [https://surrealdb.com](https://surrealdb.com)
+ - date published: 2023-10-29T17:22:37.369138+00:00
+ - user: None
+ - tags: []
+
+## SursockHouse
+ - [https://sursockhouse.com](https://sursockhouse.com)
+ - date published: 2023-10-25T17:19:53.345575+00:00
+ - user: None
+ - tags: []
+
+## Susan Rigetti
+ - [https://www.susanrigetti.com](https://www.susanrigetti.com)
+ - date published: 2023-10-25T17:19:55.091861+00:00
+ - user: None
+ - tags: []
+
+## Open Source Solutions for Enterprise Servers & Cloud | SUSE
+ - [https://www.suse.com](https://www.suse.com)
+ - date published: 2023-10-25T08:31:47.830684+00:00
+ - user: None
+ - tags: ['operating system']
+
 ## Sushi Swap
  - [https://forum.sushi.com](https://forum.sushi.com)
  - date published: 2023-10-25T17:19:58.195025+00:00
@@ -3458,6 +3620,12 @@
  - user: None
  - tags: []
 
+## Secure email: Tuta free encrypted email.
+ - [https://tuta.com](https://tuta.com)
+ - date published: 2023-11-14T11:08:15.033743+00:00
+ - user: None
+ - tags: []
+
 ## Secure email: Tutanota free encrypted email.
  - [https://tutanota.com](https://tutanota.com)
  - date published: 2023-10-25T08:25:36.402149+00:00
@@ -4055,6 +4223,12 @@
 ## https://support.upwork.com
  - [https://support.upwork.com](https://support.upwork.com)
  - date published: 2023-10-25T17:53:47.601210+00:00
+ - user: None
+ - tags: []
+
+## Upworthy
+ - [https://www.upworthy.com](https://www.upworthy.com)
+ - date published: 2023-11-14T15:38:14.749648+00:00
  - user: None
  - tags: []
 
@@ -5566,6 +5740,12 @@
  - user: None
  - tags: []
 
+## Willem Laurentz Middelkoop
+ - [https://willem.com](https://willem.com)
+ - date published: 2023-11-14T16:19:39.927104+00:00
+ - user: None
+ - tags: []
+
 ## Will Hackett
  - [https://notes.willhackett.com](https://notes.willhackett.com)
  - date published: 2023-10-25T18:05:50.791703+00:00
@@ -5815,186 +5995,6 @@
 ## Wix UX
  - [https://wix-ux.com](https://wix-ux.com)
  - date published: 2023-10-25T18:08:04.082110+00:00
- - user: None
- - tags: []
-
-## https://gameknightplaysyt.wixsite.com
- - [https://gameknightplaysyt.wixsite.com](https://gameknightplaysyt.wixsite.com)
- - date published: 2023-11-03T08:29:48.426730+00:00
- - user: None
- - tags: []
-
-## Wizarding World: The Official Home of Harry Potter
- - [https://www.wizardingworld.com](https://www.wizardingworld.com)
- - date published: 2023-10-25T14:07:20.273222+00:00
- - user: None
- - tags: ['fantasy', 'harry potter']
-
-## Dungeons & Dragons | Official Home of the World's Greatest Roleplaying Game
- - [https://dnd.wizards.com](https://dnd.wizards.com)
- - date published: 2023-10-25T14:21:12.029966+00:00
- - user: None
- - tags: ['role playing games', 'dungeons and dragons']
-
-## Magic: The Gathering | Official site for MTG news, sets, and events
- - [https://magic.wizards.com](https://magic.wizards.com)
- - date published: 2023-10-25T14:21:19.809601+00:00
- - user: None
- - tags: ['card games', 'magic the gathering']
-
-## Implement DNS in a weekend
- - [https://implement-dns.wizardzines.com](https://implement-dns.wizardzines.com)
- - date published: 2023-10-25T18:08:06.154837+00:00
- - user: None
- - tags: []
-
-## Free Security Awareness Training, Phishing Simulation and Gamification
- - [https://www.wizer-training.com](https://www.wizer-training.com)
- - date published: 2023-10-25T18:08:09.120291+00:00
- - user: None
- - tags: []
-
-## Arlington News, Weather, Sports, Breaking News | WJLA
- - [https://wjla.com](https://wjla.com)
- - date published: 2023-10-25T18:08:13.273867+00:00
- - user: None
- - tags: []
-
-## Buffalo, New York News and Weather | WKBW | wkbw.com
- - [https://www.wkbw.com](https://www.wkbw.com)
- - date published: 2023-10-25T18:08:20.272024+00:00
- - user: None
- - tags: []
-
-## WMBF | Myrtle Beach, Florence
- - [https://www.wmbfnews.com](https://www.wmbfnews.com)
- - date published: 2023-11-01T23:07:15.838462+00:00
- - user: None
- - tags: []
-
-## Access Denied
- - [https://www.wnep.com](https://www.wnep.com)
- - date published: 2023-11-08T07:17:30.357213+00:00
- - user: None
- - tags: []
-
-## Wobaka | Refreshingly Simple CRM And Email Automation
- - [https://wobaka.com](https://wobaka.com)
- - date published: 2023-10-25T18:08:22.084560+00:00
- - user: None
- - tags: []
-
-## Ebooki | Epub, Mobi Kindle, PDF | Woblink
- - [https://woblink.com](https://woblink.com)
- - date published: 2023-10-24T20:17:54.362233+00:00
- - user: None
- - tags: []
-
-## WokeLark - Turn your habit into passion!
- - [https://wokelark.com](https://wokelark.com)
- - date published: 2023-10-25T18:08:25.407403+00:00
- - user: None
- - tags: []
-
-## Wolfram: Computation Meets Knowledge
- - [https://www.wolfram.com](https://www.wolfram.com)
- - date published: 2023-10-25T08:28:20.259729+00:00
- - user: None
- - tags: ['search engine']
-
-## Wolf Street | The stories behind business, finance, and money
- - [https://wolfstreet.com](https://wolfstreet.com)
- - date published: 2023-10-25T18:08:28.134505+00:00
- - user: None
- - tags: []
-
-## Womp: Free 3D design software
- - [https://www.womp.com](https://www.womp.com)
- - date published: 2023-10-25T18:08:34.593844+00:00
- - user: None
- - tags: []
-
-## Wood Mackenzie | Energy Research & Consultancy
- - [https://www.woodmac.com](https://www.woodmac.com)
- - date published: 2023-10-25T18:08:37.374452+00:00
- - user: None
- - tags: []
-
-## Woolyss
- - [https://woolyss.com](https://woolyss.com)
- - date published: 2023-10-28T18:51:06.662825+00:00
- - user: None
- - tags: ['chiptune']
-
-## Void
- - [https://amigavoid.wordpress.com](https://amigavoid.wordpress.com)
- - date published: 2023-10-27T14:47:03.899292+00:00
- - user: None
- - tags: ['amiga', 'demoscene']
-
-## concoctinghistory | Ancient recipes for the modern kitchen
- - [https://ancientrecipes.wordpress.com](https://ancientrecipes.wordpress.com)
- - date published: 2023-10-25T18:08:43.938404+00:00
- - user: None
- - tags: []
-
-## @AndrewMayne – Exploring the intersection of artificial intelligence and creativity.
- - [https://andrewmayneblog.wordpress.com](https://andrewmayneblog.wordpress.com)
- - date published: 2023-10-25T18:08:47.025550+00:00
- - user: None
- - tags: []
-
-## Kritik der Animationskraft
- - [https://animekritik.wordpress.com](https://animekritik.wordpress.com)
- - date published: 2023-10-25T09:21:19.416145+00:00
- - user: None
- - tags: ['personal']
-
-## ArcheoThoughts – Andre Costopoulos, University of Alberta
- - [https://archeothoughts.wordpress.com](https://archeothoughts.wordpress.com)
- - date published: 2023-10-25T18:08:49.700117+00:00
- - user: None
- - tags: []
-
-## The Army OE Program – Organizational Development and the Army: 1970-1985
- - [https://armyoe.files.wordpress.com](https://armyoe.files.wordpress.com)
- - date published: 2023-10-25T18:08:52.688037+00:00
- - user: None
- - tags: []
-
-## Art as Illumination | An art blog from Jacob Rowan Studios
- - [https://artasillumination.files.wordpress.com](https://artasillumination.files.wordpress.com)
- - date published: 2023-10-25T18:08:58.698123+00:00
- - user: None
- - tags: []
-
-## The Beat Patrol | Music and Beat literature-related blogsite
- - [https://beatpatrol.wordpress.com](https://beatpatrol.wordpress.com)
- - date published: 2023-10-25T18:09:12.393648+00:00
- - user: None
- - tags: []
-
-## There's no place like home – (residence of electronics enthusiasts)
- - [https://beletronics.wordpress.com](https://beletronics.wordpress.com)
- - date published: 2023-10-25T18:09:15.682629+00:00
- - user: None
- - tags: []
-
-## Big Dan the Blogging Man
- - [https://bigdanzblog.wordpress.com](https://bigdanzblog.wordpress.com)
- - date published: 2023-10-25T18:09:29.075936+00:00
- - user: None
- - tags: []
-
-## Binary Debt – Systems programming, computer architecture & algorithms
- - [https://binarydebt.wordpress.com](https://binarydebt.wordpress.com)
- - date published: 2023-10-25T18:09:32.894806+00:00
- - user: None
- - tags: []
-
-## Brick Experiment Channel
- - [https://brickexperimentchannel.wordpress.com](https://brickexperimentchannel.wordpress.com)
- - date published: 2023-10-25T18:09:40.411395+00:00
  - user: None
  - tags: []
 

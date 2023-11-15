@@ -1,3 +1,183 @@
+## Wizarding World: The Official Home of Harry Potter
+ - [https://www.wizardingworld.com](https://www.wizardingworld.com)
+ - date published: 2023-10-25T14:07:20.273222+00:00
+ - user: None
+ - tags: ['fantasy', 'harry potter']
+
+## Dungeons & Dragons | Official Home of the World's Greatest Roleplaying Game
+ - [https://dnd.wizards.com](https://dnd.wizards.com)
+ - date published: 2023-10-25T14:21:12.029966+00:00
+ - user: None
+ - tags: ['role playing games', 'dungeons and dragons']
+
+## Magic: The Gathering | Official site for MTG news, sets, and events
+ - [https://magic.wizards.com](https://magic.wizards.com)
+ - date published: 2023-10-25T14:21:19.809601+00:00
+ - user: None
+ - tags: ['card games', 'magic the gathering']
+
+## Implement DNS in a weekend
+ - [https://implement-dns.wizardzines.com](https://implement-dns.wizardzines.com)
+ - date published: 2023-10-25T18:08:06.154837+00:00
+ - user: None
+ - tags: []
+
+## Free Security Awareness Training, Phishing Simulation and Gamification
+ - [https://www.wizer-training.com](https://www.wizer-training.com)
+ - date published: 2023-10-25T18:08:09.120291+00:00
+ - user: None
+ - tags: []
+
+## Arlington News, Weather, Sports, Breaking News | WJLA
+ - [https://wjla.com](https://wjla.com)
+ - date published: 2023-10-25T18:08:13.273867+00:00
+ - user: None
+ - tags: []
+
+## Buffalo, New York News and Weather | WKBW | wkbw.com
+ - [https://www.wkbw.com](https://www.wkbw.com)
+ - date published: 2023-10-25T18:08:20.272024+00:00
+ - user: None
+ - tags: []
+
+## WMBF | Myrtle Beach, Florence
+ - [https://www.wmbfnews.com](https://www.wmbfnews.com)
+ - date published: 2023-11-01T23:07:15.838462+00:00
+ - user: None
+ - tags: []
+
+## Access Denied
+ - [https://www.wnep.com](https://www.wnep.com)
+ - date published: 2023-11-08T07:17:30.357213+00:00
+ - user: None
+ - tags: []
+
+## Wobaka | Refreshingly Simple CRM And Email Automation
+ - [https://wobaka.com](https://wobaka.com)
+ - date published: 2023-10-25T18:08:22.084560+00:00
+ - user: None
+ - tags: []
+
+## Ebooki | Epub, Mobi Kindle, PDF | Woblink
+ - [https://woblink.com](https://woblink.com)
+ - date published: 2023-10-24T20:17:54.362233+00:00
+ - user: None
+ - tags: []
+
+## WokeLark - Turn your habit into passion!
+ - [https://wokelark.com](https://wokelark.com)
+ - date published: 2023-10-25T18:08:25.407403+00:00
+ - user: None
+ - tags: []
+
+## Wolfram: Computation Meets Knowledge
+ - [https://www.wolfram.com](https://www.wolfram.com)
+ - date published: 2023-10-25T08:28:20.259729+00:00
+ - user: None
+ - tags: ['search engine']
+
+## Wolf Street | The stories behind business, finance, and money
+ - [https://wolfstreet.com](https://wolfstreet.com)
+ - date published: 2023-10-25T18:08:28.134505+00:00
+ - user: None
+ - tags: []
+
+## Womp: Free 3D design software
+ - [https://www.womp.com](https://www.womp.com)
+ - date published: 2023-10-25T18:08:34.593844+00:00
+ - user: None
+ - tags: []
+
+## Wood Mackenzie | Energy Research & Consultancy
+ - [https://www.woodmac.com](https://www.woodmac.com)
+ - date published: 2023-10-25T18:08:37.374452+00:00
+ - user: None
+ - tags: []
+
+## Woolyss
+ - [https://woolyss.com](https://woolyss.com)
+ - date published: 2023-10-28T18:51:06.662825+00:00
+ - user: None
+ - tags: ['chiptune']
+
+## Void
+ - [https://amigavoid.wordpress.com](https://amigavoid.wordpress.com)
+ - date published: 2023-10-27T14:47:03.899292+00:00
+ - user: None
+ - tags: ['amiga', 'demoscene']
+
+## concoctinghistory | Ancient recipes for the modern kitchen
+ - [https://ancientrecipes.wordpress.com](https://ancientrecipes.wordpress.com)
+ - date published: 2023-10-25T18:08:43.938404+00:00
+ - user: None
+ - tags: []
+
+## @AndrewMayne – Exploring the intersection of artificial intelligence and creativity.
+ - [https://andrewmayneblog.wordpress.com](https://andrewmayneblog.wordpress.com)
+ - date published: 2023-10-25T18:08:47.025550+00:00
+ - user: None
+ - tags: []
+
+## Kritik der Animationskraft
+ - [https://animekritik.wordpress.com](https://animekritik.wordpress.com)
+ - date published: 2023-10-25T09:21:19.416145+00:00
+ - user: None
+ - tags: ['personal']
+
+## ArcheoThoughts – Andre Costopoulos, University of Alberta
+ - [https://archeothoughts.wordpress.com](https://archeothoughts.wordpress.com)
+ - date published: 2023-10-25T18:08:49.700117+00:00
+ - user: None
+ - tags: []
+
+## The Army OE Program – Organizational Development and the Army: 1970-1985
+ - [https://armyoe.files.wordpress.com](https://armyoe.files.wordpress.com)
+ - date published: 2023-10-25T18:08:52.688037+00:00
+ - user: None
+ - tags: []
+
+## Art as Illumination | An art blog from Jacob Rowan Studios
+ - [https://artasillumination.files.wordpress.com](https://artasillumination.files.wordpress.com)
+ - date published: 2023-10-25T18:08:58.698123+00:00
+ - user: None
+ - tags: []
+
+## The Beat Patrol | Music and Beat literature-related blogsite
+ - [https://beatpatrol.wordpress.com](https://beatpatrol.wordpress.com)
+ - date published: 2023-10-25T18:09:12.393648+00:00
+ - user: None
+ - tags: []
+
+## There's no place like home – (residence of electronics enthusiasts)
+ - [https://beletronics.wordpress.com](https://beletronics.wordpress.com)
+ - date published: 2023-10-25T18:09:15.682629+00:00
+ - user: None
+ - tags: []
+
+## Big Dan the Blogging Man
+ - [https://bigdanzblog.wordpress.com](https://bigdanzblog.wordpress.com)
+ - date published: 2023-10-25T18:09:29.075936+00:00
+ - user: None
+ - tags: []
+
+## Binary Debt – Systems programming, computer architecture & algorithms
+ - [https://binarydebt.wordpress.com](https://binarydebt.wordpress.com)
+ - date published: 2023-10-25T18:09:32.894806+00:00
+ - user: None
+ - tags: []
+
+## Brick Experiment Channel
+ - [https://brickexperimentchannel.wordpress.com](https://brickexperimentchannel.wordpress.com)
+ - date published: 2023-10-25T18:09:40.411395+00:00
+ - user: None
+ - tags: []
+
+## blog :: Brent -> [String]
+ - [https://byorgey.wordpress.com](https://byorgey.wordpress.com)
+ - date published: 2023-10-25T18:09:52.299601+00:00
+ - user: None
+ - tags: []
+
 ## Casey Handmer's blog – Space, Travel, Technology, 3D Printing, Energy, Writing
  - [https://caseyhandmer.wordpress.com](https://caseyhandmer.wordpress.com)
  - date published: 2023-10-25T18:09:57.703133+00:00
@@ -658,6 +838,12 @@
  - user: None
  - tags: []
 
+## WSOC-TV Channel 9 – WSOC TV
+ - [https://www.wsoctv.com](https://www.wsoctv.com)
+ - date published: 2023-11-14T23:38:32.237217+00:00
+ - user: None
+ - tags: []
+
 ## WTOP | Washington’s Top News | DC, MD & VA News, Traffic & Weather
  - [https://wtop.com](https://wtop.com)
  - date published: 2023-11-08T13:11:29.249332+00:00
@@ -1113,6 +1299,12 @@
  - date published: 2023-10-24T20:05:58.291792+00:00
  - user: None
  - tags: ['video streaming', 'gatekeeper', 'google']
+
+## YouTube
+ - [https://youtube.com](https://youtube.com)
+ - date published: 2023-11-14T01:45:17.978988+00:00
+ - user: None
+ - tags: []
 
 ## YouTube Transcript - read YouTube videos
  - [https://youtubetranscript.com](https://youtubetranscript.com)
@@ -4652,6 +4844,12 @@ home
  - user: None
  - tags: []
 
+## Faculty of Health and Medical Sciences – University of Copenhagen
+ - [https://healthsciences.ku.dk](https://healthsciences.ku.dk)
+ - date published: 2023-11-14T09:26:10.548804+00:00
+ - user: None
+ - tags: []
+
 ## News – University of Copenhagen
  - [https://news.ku.dk](https://news.ku.dk)
  - date published: 2023-10-25T11:22:10.749501+00:00
@@ -5161,6 +5359,12 @@ home
  - user: None
  - tags: []
 
+## User Homepages @Drew University
+ - [https://users.drew.edu](https://users.drew.edu)
+ - date published: 2023-11-14T23:58:00.601263+00:00
+ - user: None
+ - tags: []
+
 ## Drexel Home
  - [https://drexel.edu](https://drexel.edu)
  - date published: 2023-10-25T18:51:05.420930+00:00
@@ -5326,6 +5530,12 @@ home
 ## Health Information and Medical Information - Harvard Health
  - [https://www.health.harvard.edu](https://www.health.harvard.edu)
  - date published: 2023-10-25T18:52:11.043760+00:00
+ - user: None
+ - tags: []
+
+## Harvard T.H. Chan School of Public Health
+ - [https://www.hsph.harvard.edu](https://www.hsph.harvard.edu)
+ - date published: 2023-11-14T14:40:33.102536+00:00
  - user: None
  - tags: []
 
@@ -5790,216 +6000,6 @@ home
 ## Against Predictive Optimization
  - [https://predictive-optimization.cs.princeton.edu](https://predictive-optimization.cs.princeton.edu)
  - date published: 2023-10-25T18:56:49.990374+00:00
- - user: None
- - tags: []
-
-## Princeton Site Builder
- - [https://scholar.princeton.edu](https://scholar.princeton.edu)
- - date published: 2023-10-25T18:56:53.006902+00:00
- - user: None
- - tags: []
-
-## Home | Princeton Science & Global Security
- - [https://sgs.princeton.edu](https://sgs.princeton.edu)
- - date published: 2023-10-25T18:56:54.261014+00:00
- - user: None
- - tags: []
-
-## Home | Math
- - [https://web.math.princeton.edu](https://web.math.princeton.edu)
- - date published: 2023-10-25T18:56:57.474310+00:00
- - user: None
- - tags: []
-
-## Computer Science Department at Princeton University
- - [https://www.cs.princeton.edu](https://www.cs.princeton.edu)
- - date published: 2023-10-25T18:56:59.790460+00:00
- - user: None
- - tags: []
-
-## Home | Princeton University
- - [https://www.princeton.edu](https://www.princeton.edu)
- - date published: 2023-10-25T18:57:02.402538+00:00
- - user: None
- - tags: ['university']
-
-## CiteSeerX
- - [https://citeseerx.ist.psu.edu](https://citeseerx.ist.psu.edu)
- - date published: 2023-10-25T18:57:04.773829+00:00
- - user: None
- - tags: []
-
-## Sites at Penn State | Create websites easily with WordPress
- - [https://sites.psu.edu](https://sites.psu.edu)
- - date published: 2023-10-25T18:57:08.218702+00:00
- - user: None
- - tags: []
-
-## Penn State University
- - [https://www.psu.edu](https://www.psu.edu)
- - date published: 2023-11-01T07:44:07.480002+00:00
- - user: None
- - tags: []
-
-## Purdue University
- - [https://www.purdue.edu](https://www.purdue.edu)
- - date published: 2023-11-06T05:55:24.051315+00:00
- - user: None
- - tags: []
-
-## Rice News | News and Media Relations | Rice University
- - [https://news.rice.edu](https://news.rice.edu)
- - date published: 2023-10-25T09:29:39.683713+00:00
- - user: None
- - tags: []
-
-## Rice
- - [https://rice.edu](https://rice.edu)
- - date published: 2023-10-27T13:02:00.219008+00:00
- - user: None
- - tags: ['university']
-
-## Rice University
- - [https://www.clear.rice.edu](https://www.clear.rice.edu)
- - date published: 2023-10-25T11:22:50.744610+00:00
- - user: None
- - tags: []
-
-## Rochester Institute of Technology | RIT
- - [https://www.rit.edu](https://www.rit.edu)
- - date published: 2023-10-25T18:57:15.262189+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science : University of Rochester
- - [https://www.cs.rochester.edu](https://www.cs.rochester.edu)
- - date published: 2023-10-25T11:22:54.164400+00:00
- - user: None
- - tags: []
-
-## University of Rochester
- - [https://www.rochester.edu](https://www.rochester.edu)
- - date published: 2023-10-25T11:22:58.003643+00:00
- - user: None
- - tags: []
-
-## The Rockefeller University
- - [https://www.rockefeller.edu](https://www.rockefeller.edu)
- - date published: 2023-10-25T11:23:02.452486+00:00
- - user: None
- - tags: []
-
-## Rowan Today | Rowan University
- - [https://today.rowan.edu](https://today.rowan.edu)
- - date published: 2023-10-25T18:57:18.671620+00:00
- - user: None
- - tags: []
-
-## Rensselaer News | News & Events
- - [https://news.rpi.edu](https://news.rpi.edu)
- - date published: 2023-10-24T20:05:28.211262+00:00
- - user: None
- - tags: []
-
-## Mathematics Department - Welcome
- - [https://sites.math.rutgers.edu](https://sites.math.rutgers.edu)
- - date published: 2023-10-25T18:57:21.555977+00:00
- - user: None
- - tags: []
-
-## Rutgers University
- - [https://www.rutgers.edu](https://www.rutgers.edu)
- - date published: 2023-10-25T11:23:06.491659+00:00
- - user: None
- - tags: []
-
-## University of San Diego Home Pages
- - [https://home.sandiego.edu](https://home.sandiego.edu)
- - date published: 2023-10-25T11:23:10.865084+00:00
- - user: None
- - tags: []
-
-## SANS.edu Internet Storm Center - SANS Internet Storm Center
- - [https://isc.sans.edu](https://isc.sans.edu)
- - date published: 2023-10-25T18:57:24.482790+00:00
- - user: None
- - tags: []
-
-## Home | Santa Fe Institute
- - [https://www.santafe.edu](https://www.santafe.edu)
- - date published: 2023-10-25T18:57:32.428032+00:00
- - user: None
- - tags: []
-
-## http://edoras.sdsu.edu
- - [http://edoras.sdsu.edu](http://edoras.sdsu.edu)
- - date published: 2023-10-25T18:57:44.552438+00:00
- - user: None
- - tags: []
-
-## Homepage | National Air and Space Museum
- - [https://airandspace.si.edu](https://airandspace.si.edu)
- - date published: 2023-11-13T13:53:14.274573+00:00
- - user: None
- - tags: ['aviation', 'aerospace', 'museum']
-
-## Home | National Museum of American History
- - [https://americanhistory.si.edu](https://americanhistory.si.edu)
- - date published: 2023-10-25T18:57:48.749072+00:00
- - user: None
- - tags: []
-
-## Chandra X-ray Observatory - NASA's flagship X-ray telescope
- - [https://chandra.si.edu](https://chandra.si.edu)
- - date published: 2023-10-25T18:57:53.939009+00:00
- - user: None
- - tags: []
-
-## Request Rejected
- - [https://nationalzoo.si.edu](https://nationalzoo.si.edu)
- - date published: 2023-11-09T12:24:21.084128+00:00
- - user: None
- - tags: []
-
-## A People’s Journey, A Nation’s Story | National Museum of African American History and Culture
- - [https://nmaahc.si.edu](https://nmaahc.si.edu)
- - date published: 2023-11-13T13:44:30.377020+00:00
- - user: None
- - tags: ['museum']
-
-## Smithsonian Institution | Home
- - [https://www.si.edu](https://www.si.edu)
- - date published: 2023-10-25T18:57:58.976078+00:00
- - user: None
- - tags: []
-
-## St. John's College | Liberal Arts College with a World-Class Faculty
- - [https://www.sjc.edu](https://www.sjc.edu)
- - date published: 2023-10-25T18:58:03.261142+00:00
- - user: None
- - tags: []
-
-## Stanford Artificial Intelligence Laboratory
- - [https://ai.stanford.edu](https://ai.stanford.edu)
- - date published: 2023-10-25T18:58:06.440600+00:00
- - user: None
- - tags: []
-
-## Artificial Intelligence Index
- - [https://aiindex.stanford.edu](https://aiindex.stanford.edu)
- - date published: 2023-10-25T18:58:07.854720+00:00
- - user: None
- - tags: []
-
-## Stanford CRFM
- - [https://crfm.stanford.edu](https://crfm.stanford.edu)
- - date published: 2023-10-25T18:58:08.596511+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://cs.stanford.edu](https://cs.stanford.edu)
- - date published: 2023-10-25T11:23:16.227465+00:00
  - user: None
  - tags: []
 
