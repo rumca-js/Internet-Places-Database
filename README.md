@@ -1,24 +1,19 @@
 # Overview
 
-Database of Internet places, links. Mostly domains.
+This is a database of Internet places. Mostly domains. Sometimes other things.
 
 Acceptable link types:
  - domains
- - repository links. For example to github.
- - content creator user link. Might be youtube channel link.
+ - repository links. For example [https://github.com/rumca-js/Internet-Places-Database](https://github.com/rumca-js/Internet-Places-Database)
+ - user spaces. Might be youtube channel link: [Linus Tech Tips YouTube Channel](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw). Might be X/Twitter user account.
 
 # Files
 
-Database is distributed as a set of JSON files. We do not want to store binary data, binary files. SQL files should be fine, but I am going with JSON files for now.
-
-Fields:
- - page_rating - cumulative link points
- - page_rating_contents - contents link points
- - page_rating_votes - vote link points
+The database is distributed as a set of JSON files. We do not want to store binary data, binary files. SQL files should be fine, but I am going with JSON files for now.
 
 # Ranking algorithm
 
-Each page is ranked by several factors.
+Each link, page is ranked by several factors.
 
  - content ranking
  - users votes
@@ -26,7 +21,12 @@ Each page is ranked by several factors.
 The result is equal according to calculation
  page ranking = content ranking + users votes
 
-Note: Page rating should not be based 'on time'. Good contents does is not 'worse' because x amount has passed. It should be however a suspect for verification, as it can be a case of abandoned project.
+Note: Page rating should not be based on 'time'. Older pages are not 'worse' because x amount has passed. Older pages need to be verified however, and content votes should be updated.
+
+Each link has fields:
+ - page_rating - cumulative link points
+ - page_rating_contents - contents link points
+ - page_rating_votes - vote link points
 
 # Content ranking
 
@@ -61,7 +61,8 @@ Each entry can be tagged. Most notable examples of tags
  - personal - if it seems to be a personal website
  - university, museum, etc - if entry provides details about a univeristy, museum, etc.
  - disinformation / misinformation - self explanatory
- - news - if it is "news" content farm
+ - news - if it is "news" content farm. Might be also "game news", "tech news", etc.
+ - propaganda
  
 # Feedback
 
