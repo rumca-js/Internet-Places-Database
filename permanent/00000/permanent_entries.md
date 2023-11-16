@@ -892,6 +892,12 @@
  - user: None
  - tags: []
 
+## Power-efficient analog compute for edge AI - Mythic
+ - [https://mythic.ai](https://mythic.ai)
+ - date published: 2023-11-15T17:21:43.194605+00:00
+ - user: None
+ - tags: []
+
 ## Neuroengine.ai
  - [https://www.neuroengine.ai](https://www.neuroengine.ai)
  - date published: 2023-10-25T11:40:43.546844+00:00
@@ -2356,6 +2362,12 @@
  - user: None
  - tags: []
 
+## Commonwealth Scientific and Industrial Research Organisation, Australian Government
+ - [https://www.csiro.au](https://www.csiro.au)
+ - date published: 2023-11-15T19:47:40.888708+00:00
+ - user: None
+ - tags: []
+
 ## ruscur's blog
  - [https://ruscur.au](https://ruscur.au)
  - date published: 2023-10-25T09:01:09.096657+00:00
@@ -3218,6 +3230,12 @@
 ## twdev.blog
  - [https://twdev.blog](https://twdev.blog)
  - date published: 2023-10-25T12:01:34.984757+00:00
+ - user: None
+ - tags: []
+
+## Unfashionable | Sven Schnieders | Substack
+ - [https://unfashionable.blog](https://unfashionable.blog)
+ - date published: 2023-11-15T19:47:13.588134+00:00
  - user: None
  - tags: []
 
@@ -5973,24 +5991,6 @@
 ## Podcasting For Creators & Advertisers | Acast Podcasts
  - [https://shows.acast.com](https://shows.acast.com)
  - date published: 2023-10-25T12:30:59.128079+00:00
- - user: None
- - tags: []
-
-## New Business Models Based on Technology - Acceleration Economy
- - [https://accelerationeconomy.com](https://accelerationeconomy.com)
- - date published: 2023-10-25T12:31:10.661539+00:00
- - user: None
- - tags: []
-
-## Acceltex - Antennas, Mounts & Other Wireless Networking Products
- - [https://www.acceltex.com](https://www.acceltex.com)
- - date published: 2023-11-08T22:30:29.834195+00:00
- - user: None
- - tags: []
-
-## Welcome to AccessibilityForDevelopers.com
- - [https://accessibilityfordevelopers.com](https://accessibilityfordevelopers.com)
- - date published: 2023-10-25T12:31:13.498578+00:00
  - user: None
  - tags: []
 

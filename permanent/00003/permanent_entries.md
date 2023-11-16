@@ -1,3 +1,81 @@
+## Fidelity International Usage Agreement
+ - [https://www.fidelity.com](https://www.fidelity.com)
+ - date published: 2023-11-04T01:07:36.664889+00:00
+ - user: None
+ - tags: []
+
+## www.fieggen.com – Welcome To My Website!
+ - [https://www.fieggen.com](https://www.fieggen.com)
+ - date published: 2023-10-25T08:45:46.864817+00:00
+ - user: None
+ - tags: ['personal']
+
+## Field & Stream: How to Hunt, Fish, Camp, and Survive | Field & Stream
+ - [https://www.fieldandstream.com](https://www.fieldandstream.com)
+ - date published: 2023-10-25T14:29:50.103816+00:00
+ - user: None
+ - tags: []
+
+## Fierce Biotech | Fierce Biotech
+ - [https://www.fiercebiotech.com](https://www.fiercebiotech.com)
+ - date published: 2023-10-25T14:29:54.614952+00:00
+ - user: None
+ - tags: []
+
+## Fierce Pharma | Fierce Pharma
+ - [https://www.fiercepharma.com](https://www.fiercepharma.com)
+ - date published: 2023-10-25T14:29:57.976970+00:00
+ - user: None
+ - tags: []
+
+## Fierce Telecom | Fierce Telecom
+ - [https://www.fiercetelecom.com](https://www.fiercetelecom.com)
+ - date published: 2023-10-25T14:30:00.941607+00:00
+ - user: None
+ - tags: []
+
+## Fifty Years News | Substack
+ - [https://substack.fiftyyears.com](https://substack.fiftyyears.com)
+ - date published: 2023-10-25T09:40:09.439242+00:00
+ - user: None
+ - tags: ['substack']
+
+## Figma: The Collaborative Interface Design Tool
+ - [https://figma.com](https://figma.com)
+ - date published: 2023-10-25T14:30:07.343705+00:00
+ - user: None
+ - tags: []
+
+## Figma: The Collaborative Interface Design Tool
+ - [https://www.figma.com](https://www.figma.com)
+ - date published: 2023-10-25T14:30:12.788670+00:00
+ - user: None
+ - tags: []
+
+## Filament - Accelerated Laravel development framework: admin panel, form builder, table builder and more
+ - [https://filamentphp.com](https://filamentphp.com)
+ - date published: 2023-10-25T14:30:20.221791+00:00
+ - user: None
+ - tags: []
+
+## File 770 - Mike Glyer's news of science fiction fandom
+ - [https://file770.com](https://file770.com)
+ - date published: 2023-10-25T14:30:32.720358+00:00
+ - user: None
+ - tags: []
+
+## Fill & Flush - A Better Way to De-Plane
+ - [https://www.fillandflush.com](https://www.fillandflush.com)
+ - date published: 2023-10-25T14:30:36.229686+00:00
+ - user: None
+ - tags: []
+
+## Colossus - Your Guide to Movies
+ - [https://filmcolossus.com](https://filmcolossus.com)
+ - date published: 2023-10-25T14:30:39.555722+00:00
+ - user: None
+ - tags: []
+
 ## Filson | American Heritage Outerwear, Clothing, Bags & More
  - [https://www.filson.com](https://www.filson.com)
  - date published: 2023-10-25T14:30:48.727661+00:00
@@ -135,6 +213,12 @@
  - date published: 2023-10-25T14:32:36.676696+00:00
  - user: None
  - tags: []
+
+## Flamed Fury
+ - [https://flamedfury.com](https://flamedfury.com)
+ - date published: 2023-11-15T17:59:09.730156+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Flappy Birdle - Flappy Bird meets Wordle by AE Studio
  - [https://flappybirdle.com](https://flappybirdle.com)
@@ -1066,6 +1150,12 @@
  - user: None
  - tags: []
 
+## GameBoomers - PC adventure games news, forum, walkthroughs, reviews.
+ - [https://www.gameboomers.com](https://www.gameboomers.com)
+ - date published: 2023-11-15T17:51:04.934743+00:00
+ - user: None
+ - tags: ['games', 'game news']
+
 ## Gamebryo
  - [http://www.gamebryo.com](http://www.gamebryo.com)
  - date published: 2023-11-13T11:56:49.492696+00:00
@@ -1431,7 +1521,7 @@
  - [https://www.geoffchappell.com](https://www.geoffchappell.com)
  - date published: 2023-10-25T14:42:56.546565+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Geoffrey Litt
  - [https://www.geoffreylitt.com](https://www.geoffreylitt.com)
@@ -3193,6 +3283,12 @@
  - date published: 2023-10-25T14:57:02.032491+00:00
  - user: None
  - tags: []
+
+## HD-DN
+ - [https://hd-dn.com](https://hd-dn.com)
+ - date published: 2023-11-15T17:58:29.304927+00:00
+ - user: None
+ - tags: ['personal']
 
 ## HawkEye 360 | The Leader of Spectrum-Based RF Geoanalytics
  - [https://www.he360.com](https://www.he360.com)
@@ -5897,102 +5993,6 @@
 ## Jose's Sketchbook – A personal collection of ideas, programming and shiny stuff
  - [https://www.joesfer.com](https://www.joesfer.com)
  - date published: 2023-10-25T15:29:56.370927+00:00
- - user: None
- - tags: []
-
-## John Millikin
- - [https://john-millikin.com](https://john-millikin.com)
- - date published: 2023-10-25T15:30:06.935540+00:00
- - user: None
- - tags: []
-
-## Johnathan at Limbo
- - [https://johnathanbi.com](https://johnathanbi.com)
- - date published: 2023-10-25T15:30:08.552189+00:00
- - user: None
- - tags: []
-
-## Johnathan Nader
- - [https://johnathannader.com](https://johnathannader.com)
- - date published: 2023-10-25T15:30:10.394938+00:00
- - user: None
- - tags: []
-
-## John Cleese Live Tour
- - [https://www.johncleeselive.com](https://www.johncleeselive.com)
- - date published: 2023-10-30T10:56:21.749252+00:00
- - user: None
- - tags: []
-
-## Expert consulting in applied mathematics & data privacy
- - [https://www.johndcook.com](https://www.johndcook.com)
- - date published: 2023-10-25T15:30:12.313572+00:00
- - user: None
- - tags: []
-
-## John Higgs – Author of Love And Let Die, William Blake Vs The World, Watling Street and The KLF
- - [https://johnhiggs.com](https://johnhiggs.com)
- - date published: 2023-10-25T15:30:16.620693+00:00
- - user: None
- - tags: []
-
-## Johnny Cash Has Been Everywhere (Man)! - Music Hack Day London 2012 - Iain Mullan
- - [https://www.johnnycashhasbeeneverywhere.com](https://www.johnnycashhasbeeneverywhere.com)
- - date published: 2023-10-25T11:07:59.661696+00:00
- - user: None
- - tags: []
-
-## 11.01 Introduction║J•D
- - [https://johnnydecimal.com](https://johnnydecimal.com)
- - date published: 2023-10-25T15:30:19.537551+00:00
- - user: None
- - tags: []
-
-## johnnyreilly | johnnyreilly
- - [https://johnnyreilly.com](https://johnnyreilly.com)
- - date published: 2023-10-25T15:30:28.366557+00:00
- - user: None
- - tags: []
-
-## Welcome to Johnny's Software Lab! - Johnny's Software Lab
- - [https://johnnysswlab.com](https://johnnysswlab.com)
- - date published: 2023-10-25T15:30:38.384314+00:00
- - user: None
- - tags: []
-
-## Johnny Webber 🔥 – some thoughts, some links
- - [https://johnnywebber.com](https://johnnywebber.com)
- - date published: 2023-10-25T09:25:42.382699+00:00
- - user: None
- - tags: ['personal']
-
-## John P. Weiss Artist and Writer
- - [https://johnpweiss.com](https://johnpweiss.com)
- - date published: 2023-10-25T15:30:43.191667+00:00
- - user: None
- - tags: []
-
-## John Qian's blog
- - [https://blog.johnqian.com](https://blog.johnqian.com)
- - date published: 2023-10-25T15:30:45.804332+00:00
- - user: None
- - tags: []
-
-## John Reed Stark | Incident Response and Digital Compliance
- - [https://www.johnreedstark.com](https://www.johnreedstark.com)
- - date published: 2023-10-25T15:30:48.365940+00:00
- - user: None
- - tags: []
-
-## BATTLEBIT REMASTERED
- - [https://joinbattlebit.com](https://joinbattlebit.com)
- - date published: 2023-11-04T19:18:12.604508+00:00
- - user: None
- - tags: ['game', 'massive online multiplayer', 'mmo']
-
-## BookWyrm: Social Reading and Reviewing
- - [https://joinbookwyrm.com](https://joinbookwyrm.com)
- - date published: 2023-10-25T15:30:50.406250+00:00
  - user: None
  - tags: []
 

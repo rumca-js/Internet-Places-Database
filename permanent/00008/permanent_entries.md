@@ -1,3 +1,201 @@
+## Windows Repair Toolbox
+ - [https://windows-repair-toolbox.com](https://windows-repair-toolbox.com)
+ - date published: 2023-10-25T18:06:10.245644+00:00
+ - user: None
+ - tags: []
+
+## Windows 95 Tips, Tricks, and Tweaks
+ - [https://windows95tips.com](https://windows95tips.com)
+ - date published: 2023-10-25T18:06:17.364143+00:00
+ - user: None
+ - tags: ['windows']
+
+## Windows Central - News, Reviews & Help on Windows 10, Windows 11, Xbox & more
+ - [https://www.windowscentral.com](https://www.windowscentral.com)
+ - date published: 2023-10-25T09:36:42.590120+00:00
+ - user: None
+ - tags: []
+
+## Windows Latest: Your Source for all things Microsoft
+ - [https://www.windowslatest.com](https://www.windowslatest.com)
+ - date published: 2023-10-25T18:06:31.585381+00:00
+ - user: None
+ - tags: []
+
+## Windows Update Restored: Fix Windows Update on Windows 95, 98, Me, 2000, and XP
+ - [http://windowsupdaterestored.com](http://windowsupdaterestored.com)
+ - date published: 2023-10-25T18:06:32.626702+00:00
+ - user: None
+ - tags: []
+
+## Wind River
+ - [https://www.windriver.com](https://www.windriver.com)
+ - date published: 2023-11-08T11:30:59.705560+00:00
+ - user: None
+ - tags: ['linux', 'windriver', 'wind river', 'operating system']
+
+## Windscribe - Free VPN and Ad Block
+ - [https://windscribe.com](https://windscribe.com)
+ - date published: 2023-10-25T18:06:36.879450+00:00
+ - user: None
+ - tags: []
+
+## Windy as forecasted
+ - [https://www.windy.com](https://www.windy.com)
+ - date published: 2023-10-24T20:19:13.472192+00:00
+ - user: None
+ - tags: []
+
+## absorptions
+ - [https://www.windytan.com](https://www.windytan.com)
+ - date published: 2023-10-25T18:06:44.382900+00:00
+ - user: None
+ - tags: []
+
+## wineanorak.com – online wine magazine
+ - [https://wineanorak.com](https://wineanorak.com)
+ - date published: 2023-10-25T18:06:50.105227+00:00
+ - user: None
+ - tags: []
+
+## WINK News - Breaking News and Weather | First. Fair. Everywhere
+ - [https://winknews.com](https://winknews.com)
+ - date published: 2023-10-25T18:07:00.974361+00:00
+ - user: None
+ - tags: []
+
+## The International Law Firm of Winston & Strawn LLP | Winston & Strawn
+ - [https://www.winston.com](https://www.winston.com)
+ - date published: 2023-10-25T18:07:03.303397+00:00
+ - user: None
+ - tags: []
+
+## WION: Breaking News, Latest News, World, South Asia, India, Pakistan, Bangladesh News & Analysis - Latest World News
+ - [https://www.wionews.com](https://www.wionews.com)
+ - date published: 2023-10-25T10:45:15.167046+00:00
+ - user: None
+ - tags: []
+
+## WIRED - The Latest in Technology, Science, Culture and Business | WIRED
+ - [https://www.wired.com](https://www.wired.com)
+ - date published: 2023-10-25T09:36:45.817671+00:00
+ - user: None
+ - tags: ['technology news', 'science news']
+
+## Wirehead hedonism versus paradise-engineering
+ - [https://www.wireheading.com](https://www.wireheading.com)
+ - date published: 2023-10-25T18:07:05.948427+00:00
+ - user: None
+ - tags: []
+
+## Wirfs-Brock Associates
+ - [https://wirfs-brock.com](https://wirfs-brock.com)
+ - date published: 2023-10-25T18:07:07.838674+00:00
+ - user: None
+ - tags: []
+
+## WISDOMINATION
+ - [https://www.wisdomination.com](https://www.wisdomination.com)
+ - date published: 2023-10-25T18:07:12.621625+00:00
+ - user: None
+ - tags: []
+
+## Wise, Formerly TransferWise: Online Money Transfers | International Banking Features
+ - [https://wise.com](https://wise.com)
+ - date published: 2023-10-28T03:56:49.631440+00:00
+ - user: None
+ - tags: []
+
+## WitcherHour: Bringing the latest Witcher news, guides, & more.
+ - [https://witcherhour.com](https://witcherhour.com)
+ - date published: 2023-10-25T14:23:14.446827+00:00
+ - user: None
+ - tags: []
+
+## Cardinal is the Database for Humans
+ - [https://www.withcardinal.com](https://www.withcardinal.com)
+ - date published: 2023-10-25T18:07:14.230770+00:00
+ - user: None
+ - tags: []
+
+## Coherence — The Integrated Developer Platform for your own cloud account
+ - [https://www.withcoherence.com](https://www.withcoherence.com)
+ - date published: 2023-10-25T18:07:16.180638+00:00
+ - user: None
+ - tags: []
+
+## Compound Planning | Modern Wealth & Investment Management
+ - [https://withcompound.com](https://withcompound.com)
+ - date published: 2023-10-25T18:07:21.872974+00:00
+ - user: None
+ - tags: []
+
+## Nonobvious | Edge | Substack
+ - [https://blog.withedge.com](https://blog.withedge.com)
+ - date published: 2023-10-25T18:07:38.413246+00:00
+ - user: None
+ - tags: []
+
+## Google's latest experiments in Labs
+ - [https://labs.withgoogle.com](https://labs.withgoogle.com)
+ - date published: 2023-10-25T18:07:40.867814+00:00
+ - user: None
+ - tags: []
+
+## http://learnkubernetes.withgoogle.com
+ - [http://learnkubernetes.withgoogle.com](http://learnkubernetes.withgoogle.com)
+ - date published: 2023-10-25T18:07:42.025514+00:00
+ - user: None
+ - tags: []
+
+## People + AI Research
+ - [https://pair.withgoogle.com](https://pair.withgoogle.com)
+ - date published: 2023-10-25T18:07:44.673354+00:00
+ - user: None
+ - tags: []
+
+## Home | Google Summer of Code
+ - [https://summerofcode.withgoogle.com](https://summerofcode.withgoogle.com)
+ - date published: 2023-10-25T18:07:48.328715+00:00
+ - user: None
+ - tags: []
+
+## Project Sunroof
+ - [https://sunroof.withgoogle.com](https://sunroof.withgoogle.com)
+ - date published: 2023-10-25T18:07:51.710648+00:00
+ - user: None
+ - tags: []
+
+## TextFX
+ - [https://textfx.withgoogle.com](https://textfx.withgoogle.com)
+ - date published: 2023-10-25T18:07:53.024899+00:00
+ - user: None
+ - tags: []
+
+## Within Temptation Music Store
+ - [https://www.within-temptation.com](https://www.within-temptation.com)
+ - date published: 2023-11-13T11:10:55.031197+00:00
+ - user: None
+ - tags: ['music band']
+
+## Home | WithSecure™ Labs
+ - [https://labs.withsecure.com](https://labs.withsecure.com)
+ - date published: 2023-10-25T18:07:54.930284+00:00
+ - user: None
+ - tags: []
+
+## Wix UX
+ - [https://wix-ux.com](https://wix-ux.com)
+ - date published: 2023-10-25T18:08:04.082110+00:00
+ - user: None
+ - tags: []
+
+## https://gameknightplaysyt.wixsite.com
+ - [https://gameknightplaysyt.wixsite.com](https://gameknightplaysyt.wixsite.com)
+ - date published: 2023-11-03T08:29:48.426730+00:00
+ - user: None
+ - tags: []
+
 ## Wizarding World: The Official Home of Harry Potter
  - [https://www.wizardingworld.com](https://www.wizardingworld.com)
  - date published: 2023-10-25T14:07:20.273222+00:00
@@ -382,6 +580,12 @@
  - user: None
  - tags: []
 
+## memorial ecosystems blog
+ - [https://memorialecosystemswordpress.wordpress.com](https://memorialecosystemswordpress.wordpress.com)
+ - date published: 2023-11-15T14:45:26.536754+00:00
+ - user: None
+ - tags: []
+
 ## MicroCore Labs – Ted Fried's Project Blog
  - [https://microcorelabs.wordpress.com](https://microcorelabs.wordpress.com)
  - date published: 2023-10-25T18:13:41.373066+00:00
@@ -754,6 +958,12 @@
  - user: None
  - tags: []
 
+## Access Restricted
+ - [https://www.wowktv.com](https://www.wowktv.com)
+ - date published: 2023-11-15T02:43:30.908279+00:00
+ - user: None
+ - tags: []
+
 ## FREE ROMs ISOs Download for SNES, NES, GBA, PSX, MAME, PS2, PSP, N64, NDS, ps1 - wowroms.com
  - [https://wowroms.com](https://wowroms.com)
  - date published: 2023-10-25T11:17:25.518772+00:00
@@ -1070,7 +1280,7 @@
  - [https://wiki.xxiivv.com](https://wiki.xxiivv.com)
  - date published: 2023-10-25T18:22:11.321810+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Yahoo is part of the Yahoo family of brands
  - [https://au.finance.yahoo.com](https://au.finance.yahoo.com)
@@ -2398,6 +2608,12 @@ home
  - date published: 2023-10-25T18:32:33.526919+00:00
  - user: None
  - tags: []
+
+## Beyond the Frame
+ - [https://schmud.de](https://schmud.de)
+ - date published: 2023-11-15T17:42:13.603677+00:00
+ - user: None
+ - tags: ['personal', 'blog']
 
 ## Sebastian Holstein
  - [https://sebastian-holstein.de](https://sebastian-holstein.de)
@@ -4398,7 +4614,7 @@ home
  - [https://surma.dev](https://surma.dev)
  - date published: 2023-10-25T18:42:23.561265+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Svelte • Cybernetically enhanced web apps
  - [https://svelte.dev](https://svelte.dev)
@@ -4643,6 +4859,12 @@ home
 ## Washi
  - [https://blog.washi.dev](https://blog.washi.dev)
  - date published: 2023-10-25T18:44:10.022725+00:00
+ - user: None
+ - tags: []
+
+## Wasm By Example
+ - [https://wasmbyexample.dev](https://wasmbyexample.dev)
+ - date published: 2023-11-15T15:16:15.958415+00:00
  - user: None
  - tags: []
 
@@ -5778,228 +6000,6 @@ home
 ## MIT Office of the President | MIT - Massachusetts Institute of Technology
  - [https://president.mit.edu](https://president.mit.edu)
  - date published: 2023-10-25T18:54:35.562240+00:00
- - user: None
- - tags: []
-
-## Home Page | MIT CSAIL
- - [https://projects.csail.mit.edu](https://projects.csail.mit.edu)
- - date published: 2023-10-25T18:54:37.343144+00:00
- - user: None
- - tags: []
-
-## MIT School of Science
- - [https://science.mit.edu](https://science.mit.edu)
- - date published: 2023-10-25T18:54:41.430859+00:00
- - user: None
- - tags: []
-
-## Scratch - Imagine, Program, Share
- - [https://scratch.mit.edu](https://scratch.mit.edu)
- - date published: 2023-10-25T18:54:41.797954+00:00
- - user: None
- - tags: []
-
-## MIT Sloan Management Review
- - [https://sloanreview.mit.edu](https://sloanreview.mit.edu)
- - date published: 2023-10-25T18:54:48.399246+00:00
- - user: None
- - tags: []
-
-## Telecom Digest and Archives
- - [http://telecom.csail.mit.edu](http://telecom.csail.mit.edu)
- - date published: 2023-10-25T18:54:50.229504+00:00
- - user: None
- - tags: []
-
-## The MIT Press Reader
- - [https://thereader.mitpress.mit.edu](https://thereader.mitpress.mit.edu)
- - date published: 2023-10-25T10:39:41.389672+00:00
- - user: None
- - tags: []
-
-## Topology
- - [https://topology.mitpress.mit.edu](https://topology.mitpress.mit.edu)
- - date published: 2023-10-25T18:54:52.088797+00:00
- - user: None
- - tags: []
-
-## News + Updates — MIT Media Lab
- - [https://web.media.mit.edu](https://web.media.mit.edu)
- - date published: 2023-10-25T18:54:57.442420+00:00
- - user: None
- - tags: []
-
-## More crop per drop | MIT - Massachusetts Institute of Technology
- - [https://web.mit.edu](https://web.mit.edu)
- - date published: 2023-10-25T11:22:48.078614+00:00
- - user: None
- - tags: []
-
-## Home Page | MIT CSAIL
- - [https://www.csail.mit.edu](https://www.csail.mit.edu)
- - date published: 2023-10-25T18:55:00.580862+00:00
- - user: None
- - tags: []
-
-## MIT FUTURE OF AI
- - [https://www.futureofai.mit.edu](https://www.futureofai.mit.edu)
- - date published: 2023-10-25T18:55:02.414323+00:00
- - user: None
- - tags: []
-
-## MIT Haystack Observatory - Radio science & technology research center
- - [https://www.haystack.mit.edu](https://www.haystack.mit.edu)
- - date published: 2023-10-25T18:55:07.021253+00:00
- - user: None
- - tags: []
-
-## Homepage | MIT Lincoln Laboratory
- - [https://www.ll.mit.edu](https://www.ll.mit.edu)
- - date published: 2023-10-25T18:55:14.624029+00:00
- - user: None
- - tags: []
-
-## More crop per drop | MIT - Massachusetts Institute of Technology
- - [https://www.mit.edu](https://www.mit.edu)
- - date published: 2023-10-25T18:55:16.546253+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.monash.edu](https://www.monash.edu)
- - date published: 2023-10-31T10:59:13.130253+00:00
- - user: None
- - tags: []
-
-## Middle Tennessee State University | Middle Tennessee State University
- - [https://www.mtsu.edu](https://www.mtsu.edu)
- - date published: 2023-10-25T18:55:21.754876+00:00
- - user: None
- - tags: []
-
-## NC State News
- - [https://news.ncsu.edu](https://news.ncsu.edu)
- - date published: 2023-10-25T18:55:26.541930+00:00
- - user: None
- - tags: []
-
-## Notre Dame News | University of Notre Dame
- - [https://news.nd.edu](https://news.nd.edu)
- - date published: 2023-10-25T18:55:35.076777+00:00
- - user: None
- - tags: []
-
-## NDSU - North Dakota State University
- - [https://www.ndsu.edu](https://www.ndsu.edu)
- - date published: 2023-10-25T18:55:39.000458+00:00
- - user: None
- - tags: []
-
-## Northeastern Global News - News, Discovery, and Analysis from Around the World
- - [https://news.northeastern.edu](https://news.northeastern.edu)
- - date published: 2023-10-25T18:55:44.990462+00:00
- - user: None
- - tags: []
-
-## Home - Programming Research Laboratory - Northeastern University
- - [https://prl.khoury.northeastern.edu](https://prl.khoury.northeastern.edu)
- - date published: 2023-10-25T18:55:46.864652+00:00
- - user: None
- - tags: []
-
-## Feinstein Institutes for Medical Research | Northwell Health
- - [https://feinstein.northwell.edu](https://feinstein.northwell.edu)
- - date published: 2023-10-25T18:55:49.028133+00:00
- - user: None
- - tags: []
-
-## Main Home - News Center
- - [https://news.feinberg.northwestern.edu](https://news.feinberg.northwestern.edu)
- - date published: 2023-10-25T18:55:55.307920+00:00
- - user: None
- - tags: []
-
-## Northwestern Now News
- - [https://news.northwestern.edu](https://news.northwestern.edu)
- - date published: 2023-10-25T18:56:08.345374+00:00
- - user: None
- - tags: []
-
-## OSIRIS Lab at NYU Tandon
- - [https://blog.osiris.cyber.nyu.edu](https://blog.osiris.cyber.nyu.edu)
- - date published: 2023-10-25T18:56:14.326050+00:00
- - user: None
- - tags: []
-
-## Institute | NYU Courant
- - [https://cims.nyu.edu](https://cims.nyu.edu)
- - date published: 2023-10-25T18:56:17.174439+00:00
- - user: None
- - tags: []
-
-## NYU
- - [https://www.nyu.edu](https://www.nyu.edu)
- - date published: 2023-10-25T18:56:19.949944+00:00
- - user: None
- - tags: []
-
-## Welcome to Ohio University
- - [https://www.ohio.edu](https://www.ohio.edu)
- - date published: 2023-10-25T18:56:22.621409+00:00
- - user: None
- - tags: ['university']
-
-## CSE
- - [https://web.cse.ohio-state.edu](https://web.cse.ohio-state.edu)
- - date published: 2023-10-25T18:56:24.315200+00:00
- - user: None
- - tags: []
-
-## Home | OHSU News
- - [https://news.ohsu.edu](https://news.ohsu.edu)
- - date published: 2023-10-25T18:56:26.525047+00:00
- - user: None
- - tags: []
-
-## Distance Learning Courses and Adult Education - The Open University
- - [https://www.open.edu](https://www.open.edu)
- - date published: 2023-10-25T18:56:29.084298+00:00
- - user: None
- - tags: []
-
-## Ohio State News
- - [https://news.osu.edu](https://news.osu.edu)
- - date published: 2023-10-25T18:56:36.422788+00:00
- - user: None
- - tags: []
-
-## Social Psychology Perspectives – Applying social psychology to the world around us
- - [https://socialpsych.blogs.pace.edu](https://socialpsych.blogs.pace.edu)
- - date published: 2023-10-25T18:56:44.098429+00:00
- - user: None
- - tags: []
-
-## Peninsula College presents a podcast honoring the work of the influential American poet and short story writer, Raymond Carver from the last town he called home: Port Angeles, Washington. You can listen here on our Episode page. You can also find us on Stitcher, Google Podcasts, Apple Podcasts, Spotify, and more. In each regular episode, | Raymond Carver Podcast
- - [https://raymondcarverpodcast.pencol.edu](https://raymondcarverpodcast.pencol.edu)
- - date published: 2023-10-31T19:57:35.429326+00:00
- - user: None
- - tags: []
-
-## University of Pittsburgh: Error HTTP 403 - Forbidden
- - [https://sites.pitt.edu](https://sites.pitt.edu)
- - date published: 2023-10-25T18:56:45.029939+00:00
- - user: None
- - tags: []
-
-## Nuclear Princeton
- - [https://nuclearprinceton.princeton.edu](https://nuclearprinceton.princeton.edu)
- - date published: 2023-10-25T18:56:47.383073+00:00
- - user: None
- - tags: []
-
-## Against Predictive Optimization
- - [https://predictive-optimization.cs.princeton.edu](https://predictive-optimization.cs.princeton.edu)
- - date published: 2023-10-25T18:56:49.990374+00:00
  - user: None
  - tags: []
 

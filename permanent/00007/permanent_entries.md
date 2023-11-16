@@ -1,3 +1,189 @@
+## The Why Axis | Christopher Ingraham | Substack
+ - [http://thewhyaxis.substack.com](http://thewhyaxis.substack.com)
+ - date published: 2023-10-25T10:06:20.791472+00:00
+ - user: None
+ - tags: ['substack']
+
+## Unpacked | Viggy Balagopalakrishnan | Substack
+ - [http://thisisunpacked.substack.com](http://thisisunpacked.substack.com)
+ - date published: 2023-10-25T10:06:23.550654+00:00
+ - user: None
+ - tags: ['substack']
+
+## Thoguhts | Akshay Raveendran | Substack
+ - [https://thoguhts.substack.com](https://thoguhts.substack.com)
+ - date published: 2023-11-08T09:45:32.418742+00:00
+ - user: None
+ - tags: []
+
+## The Path Not Taken | Thomas Prosser | Substack
+ - [https://thomasprosser.substack.com](https://thomasprosser.substack.com)
+ - date published: 2023-10-25T10:06:26.448291+00:00
+ - user: None
+ - tags: ['substack']
+
+## Software Design: Tidy First? | Kent Beck | Substack
+ - [https://tidyfirst.substack.com](https://tidyfirst.substack.com)
+ - date published: 2023-10-25T10:06:29.035400+00:00
+ - user: None
+ - tags: ['substack']
+
+## Tiny Empires | JT | Substack
+ - [https://tinyempires.substack.com](https://tinyempires.substack.com)
+ - date published: 2023-10-25T10:06:31.208743+00:00
+ - user: None
+ - tags: ['substack']
+
+## tldraw | Steve Ruiz | Substack
+ - [https://tldraw.substack.com](https://tldraw.substack.com)
+ - date published: 2023-10-25T10:06:33.454002+00:00
+ - user: None
+ - tags: ['substack']
+
+## Tilting At Windmills | Tom Knighton | Substack
+ - [http://tomknighton.substack.com](http://tomknighton.substack.com)
+ - date published: 2023-10-25T10:06:41.579404+00:00
+ - user: None
+ - tags: ['substack']
+
+## Torture Chamber Small Talk | Loudt Darrow | Substack
+ - [https://torturechambersmalltalk.substack.com](https://torturechambersmalltalk.substack.com)
+ - date published: 2023-10-25T10:06:43.996611+00:00
+ - user: None
+ - tags: ['substack']
+
+## Tracing Woodgrains | TracingWoodgrains | Substack
+ - [http://tracingwoodgrains.substack.com](http://tracingwoodgrains.substack.com)
+ - date published: 2023-10-25T10:06:46.088816+00:00
+ - user: None
+ - tags: ['substack']
+
+## Life on the Trail | Allison Barr Allen | Substack
+ - [https://trailruncapital.substack.com](https://trailruncapital.substack.com)
+ - date published: 2023-10-25T10:06:47.676757+00:00
+ - user: None
+ - tags: ['substack']
+
+## Contemplations on the Tree of Woe | Substack
+ - [https://treeofwoe.substack.com](https://treeofwoe.substack.com)
+ - date published: 2023-10-25T10:06:49.846572+00:00
+ - user: None
+ - tags: ['substack']
+
+## Trevor Klee’s Newsletter | Substack
+ - [https://trevorklee.substack.com](https://trevorklee.substack.com)
+ - date published: 2023-10-25T10:06:52.536361+00:00
+ - user: None
+ - tags: ['substack']
+
+## Truth on the Streets by Kevin Dahlgren  | Substack
+ - [https://truthonthestreets.substack.com](https://truthonthestreets.substack.com)
+ - date published: 2023-10-25T10:06:54.506330+00:00
+ - user: None
+ - tags: ['substack']
+
+## Tyler’s Substack | Tyler Glaiel | Substack
+ - [https://tylerglaiel.substack.com](https://tylerglaiel.substack.com)
+ - date published: 2023-10-25T10:06:56.239008+00:00
+ - user: None
+ - tags: ['substack']
+
+## Type Classes | Chris Martin | Substack
+ - [https://typeclasses.substack.com](https://typeclasses.substack.com)
+ - date published: 2023-10-25T10:06:58.858555+00:00
+ - user: None
+ - tags: ['substack']
+
+## Unfashionable | Sven Schnieders | Substack
+ - [https://unfashionable.substack.com](https://unfashionable.substack.com)
+ - date published: 2023-10-25T10:07:06.313221+00:00
+ - user: None
+ - tags: ['substack']
+
+## Val's Pals | Valerie | Substack
+ - [http://valspals.substack.com](http://valspals.substack.com)
+ - date published: 2023-10-25T10:07:08.624140+00:00
+ - user: None
+ - tags: ['substack']
+
+## Public Experiments | Varun | Substack
+ - [https://varunshenoy.substack.com](https://varunshenoy.substack.com)
+ - date published: 2023-10-25T10:07:10.677121+00:00
+ - user: None
+ - tags: ['substack']
+
+## Very Distant Lands Newsletter | Adam Fleming Petty | Substack
+ - [https://verydistantlands.substack.com](https://verydistantlands.substack.com)
+ - date published: 2023-11-14T19:01:26.764845+00:00
+ - user: None
+ - tags: []
+
+## Vigneshwarar’s Newsletter | Substack
+ - [https://vigneshwarar.substack.com](https://vigneshwarar.substack.com)
+ - date published: 2023-10-25T10:07:12.438218+00:00
+ - user: None
+ - tags: ['substack']
+
+## Void Papers | Tobi | Substack
+ - [https://voidpapers.substack.com](https://voidpapers.substack.com)
+ - date published: 2023-10-25T10:07:14.153042+00:00
+ - user: None
+ - tags: ['substack']
+
+## Volted: Electrify your Life | Jeff Eiden | Substack
+ - [http://volted.substack.com](http://volted.substack.com)
+ - date published: 2023-10-25T10:07:15.949383+00:00
+ - user: None
+ - tags: ['substack']
+
+## Chris Arnade Walks the World  | Substack
+ - [http://walkingtheworld.substack.com](http://walkingtheworld.substack.com)
+ - date published: 2023-10-25T10:07:17.981428+00:00
+ - user: None
+ - tags: ['substack']
+
+## Startup Real Talk | Waseem Daher | Substack
+ - [http://waseem.substack.com](http://waseem.substack.com)
+ - date published: 2023-10-25T10:07:19.382687+00:00
+ - user: None
+ - tags: ['substack']
+
+## Weekly PHP | Víctor Falcón 🤟 | Substack
+ - [https://weeklyphp.substack.com](https://weeklyphp.substack.com)
+ - date published: 2023-10-25T10:07:21.630667+00:00
+ - user: None
+ - tags: ['substack']
+
+## weird medieval guys  | Substack
+ - [http://weirdmedievalguys.substack.com](http://weirdmedievalguys.substack.com)
+ - date published: 2023-10-25T10:07:23.489664+00:00
+ - user: None
+ - tags: ['substack']
+
+## Wheel’s Substack | Wheel Reinventor | Substack
+ - [http://wheelreinventor.substack.com](http://wheelreinventor.substack.com)
+ - date published: 2023-10-25T10:07:25.662382+00:00
+ - user: None
+ - tags: ['substack']
+
+## Why is this interesting? | Noah Brier | Substack
+ - [http://whyisthisinteresting.substack.com](http://whyisthisinteresting.substack.com)
+ - date published: 2023-10-25T10:07:28.108360+00:00
+ - user: None
+ - tags: ['substack']
+
+## Wittgenfine’s Word | Substack
+ - [http://wittgenfine.substack.com](http://wittgenfine.substack.com)
+ - date published: 2023-10-25T10:07:29.511868+00:00
+ - user: None
+ - tags: ['substack']
+
+## Wood From Eden | Anders L | Substack
+ - [http://woodfromeden.substack.com](http://woodfromeden.substack.com)
+ - date published: 2023-10-25T10:07:31.771414+00:00
+ - user: None
+ - tags: ['substack']
+
 ## The Works in Progress Newsletter | Substack
  - [https://worksinprogress.substack.com](https://worksinprogress.substack.com)
  - date published: 2023-10-25T10:07:34.429207+00:00
@@ -5416,6 +5602,12 @@
  - user: None
  - tags: ['game trainer']
 
+## Home
+ - [https://www.weny.com](https://www.weny.com)
+ - date published: 2023-11-15T15:16:18.816467+00:00
+ - user: None
+ - tags: []
+
 ## THE CONTRARIAN IMPULSE
  - [https://wesammikhail.com](https://wesammikhail.com)
  - date published: 2023-10-27T11:56:36.318781+00:00
@@ -5461,6 +5653,12 @@
 ## The WFMT Studs Terkel Radio Archive | A Living Celebration
  - [https://studsterkel.wfmt.com](https://studsterkel.wfmt.com)
  - date published: 2023-10-25T18:03:10.011308+00:00
+ - user: None
+ - tags: []
+
+## wfmz.com | Your Life, Your World, Your NEWS
+ - [https://www.wfmz.com](https://www.wfmz.com)
+ - date published: 2023-11-15T18:40:50.031661+00:00
  - user: None
  - tags: []
 
@@ -5797,204 +5995,6 @@
 ## Window-swap – open a new window somewhere in the world
  - [https://www.window-swap.com](https://www.window-swap.com)
  - date published: 2023-11-02T01:16:22+00:00
- - user: None
- - tags: []
-
-## Home | Windows Blog
- - [https://blogs.windows.com](https://blogs.windows.com)
- - date published: 2023-10-25T11:29:25.500201+00:00
- - user: None
- - tags: []
-
-## Windows Repair Toolbox
- - [https://windows-repair-toolbox.com](https://windows-repair-toolbox.com)
- - date published: 2023-10-25T18:06:10.245644+00:00
- - user: None
- - tags: []
-
-## Windows 95 Tips, Tricks, and Tweaks
- - [https://windows95tips.com](https://windows95tips.com)
- - date published: 2023-10-25T18:06:17.364143+00:00
- - user: None
- - tags: []
-
-## Windows Central - News, Reviews & Help on Windows 10, Windows 11, Xbox & more
- - [https://www.windowscentral.com](https://www.windowscentral.com)
- - date published: 2023-10-25T09:36:42.590120+00:00
- - user: None
- - tags: []
-
-## Windows Latest: Your Source for all things Microsoft
- - [https://www.windowslatest.com](https://www.windowslatest.com)
- - date published: 2023-10-25T18:06:31.585381+00:00
- - user: None
- - tags: []
-
-## Windows Update Restored: Fix Windows Update on Windows 95, 98, Me, 2000, and XP
- - [http://windowsupdaterestored.com](http://windowsupdaterestored.com)
- - date published: 2023-10-25T18:06:32.626702+00:00
- - user: None
- - tags: []
-
-## Wind River
- - [https://www.windriver.com](https://www.windriver.com)
- - date published: 2023-11-08T11:30:59.705560+00:00
- - user: None
- - tags: ['linux', 'windriver', 'wind river', 'operating system']
-
-## Windscribe - Free VPN and Ad Block
- - [https://windscribe.com](https://windscribe.com)
- - date published: 2023-10-25T18:06:36.879450+00:00
- - user: None
- - tags: []
-
-## Windy as forecasted
- - [https://www.windy.com](https://www.windy.com)
- - date published: 2023-10-24T20:19:13.472192+00:00
- - user: None
- - tags: []
-
-## absorptions
- - [https://www.windytan.com](https://www.windytan.com)
- - date published: 2023-10-25T18:06:44.382900+00:00
- - user: None
- - tags: []
-
-## wineanorak.com – online wine magazine
- - [https://wineanorak.com](https://wineanorak.com)
- - date published: 2023-10-25T18:06:50.105227+00:00
- - user: None
- - tags: []
-
-## WINK News - Breaking News and Weather | First. Fair. Everywhere
- - [https://winknews.com](https://winknews.com)
- - date published: 2023-10-25T18:07:00.974361+00:00
- - user: None
- - tags: []
-
-## The International Law Firm of Winston & Strawn LLP | Winston & Strawn
- - [https://www.winston.com](https://www.winston.com)
- - date published: 2023-10-25T18:07:03.303397+00:00
- - user: None
- - tags: []
-
-## WION: Breaking News, Latest News, World, South Asia, India, Pakistan, Bangladesh News & Analysis - Latest World News
- - [https://www.wionews.com](https://www.wionews.com)
- - date published: 2023-10-25T10:45:15.167046+00:00
- - user: None
- - tags: []
-
-## WIRED - The Latest in Technology, Science, Culture and Business | WIRED
- - [https://www.wired.com](https://www.wired.com)
- - date published: 2023-10-25T09:36:45.817671+00:00
- - user: None
- - tags: ['technology news', 'science news']
-
-## Wirehead hedonism versus paradise-engineering
- - [https://www.wireheading.com](https://www.wireheading.com)
- - date published: 2023-10-25T18:07:05.948427+00:00
- - user: None
- - tags: []
-
-## Wirfs-Brock Associates
- - [https://wirfs-brock.com](https://wirfs-brock.com)
- - date published: 2023-10-25T18:07:07.838674+00:00
- - user: None
- - tags: []
-
-## WISDOMINATION
- - [https://www.wisdomination.com](https://www.wisdomination.com)
- - date published: 2023-10-25T18:07:12.621625+00:00
- - user: None
- - tags: []
-
-## Wise, Formerly TransferWise: Online Money Transfers | International Banking Features
- - [https://wise.com](https://wise.com)
- - date published: 2023-10-28T03:56:49.631440+00:00
- - user: None
- - tags: []
-
-## WitcherHour: Bringing the latest Witcher news, guides, & more.
- - [https://witcherhour.com](https://witcherhour.com)
- - date published: 2023-10-25T14:23:14.446827+00:00
- - user: None
- - tags: []
-
-## Cardinal is the Database for Humans
- - [https://www.withcardinal.com](https://www.withcardinal.com)
- - date published: 2023-10-25T18:07:14.230770+00:00
- - user: None
- - tags: []
-
-## Coherence — The Integrated Developer Platform for your own cloud account
- - [https://www.withcoherence.com](https://www.withcoherence.com)
- - date published: 2023-10-25T18:07:16.180638+00:00
- - user: None
- - tags: []
-
-## Compound Planning | Modern Wealth & Investment Management
- - [https://withcompound.com](https://withcompound.com)
- - date published: 2023-10-25T18:07:21.872974+00:00
- - user: None
- - tags: []
-
-## Nonobvious | Edge | Substack
- - [https://blog.withedge.com](https://blog.withedge.com)
- - date published: 2023-10-25T18:07:38.413246+00:00
- - user: None
- - tags: []
-
-## Google's latest experiments in Labs
- - [https://labs.withgoogle.com](https://labs.withgoogle.com)
- - date published: 2023-10-25T18:07:40.867814+00:00
- - user: None
- - tags: []
-
-## http://learnkubernetes.withgoogle.com
- - [http://learnkubernetes.withgoogle.com](http://learnkubernetes.withgoogle.com)
- - date published: 2023-10-25T18:07:42.025514+00:00
- - user: None
- - tags: []
-
-## People + AI Research
- - [https://pair.withgoogle.com](https://pair.withgoogle.com)
- - date published: 2023-10-25T18:07:44.673354+00:00
- - user: None
- - tags: []
-
-## Home | Google Summer of Code
- - [https://summerofcode.withgoogle.com](https://summerofcode.withgoogle.com)
- - date published: 2023-10-25T18:07:48.328715+00:00
- - user: None
- - tags: []
-
-## Project Sunroof
- - [https://sunroof.withgoogle.com](https://sunroof.withgoogle.com)
- - date published: 2023-10-25T18:07:51.710648+00:00
- - user: None
- - tags: []
-
-## TextFX
- - [https://textfx.withgoogle.com](https://textfx.withgoogle.com)
- - date published: 2023-10-25T18:07:53.024899+00:00
- - user: None
- - tags: []
-
-## Within Temptation Music Store
- - [https://www.within-temptation.com](https://www.within-temptation.com)
- - date published: 2023-11-13T11:10:55.031197+00:00
- - user: None
- - tags: ['music band']
-
-## Home | WithSecure™ Labs
- - [https://labs.withsecure.com](https://labs.withsecure.com)
- - date published: 2023-10-25T18:07:54.930284+00:00
- - user: None
- - tags: []
-
-## Wix UX
- - [https://wix-ux.com](https://wix-ux.com)
- - date published: 2023-10-25T18:08:04.082110+00:00
  - user: None
  - tags: []
 

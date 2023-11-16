@@ -1,3 +1,225 @@
+## MIT School of Science
+ - [https://science.mit.edu](https://science.mit.edu)
+ - date published: 2023-10-25T18:54:41.430859+00:00
+ - user: None
+ - tags: []
+
+## Scratch - Imagine, Program, Share
+ - [https://scratch.mit.edu](https://scratch.mit.edu)
+ - date published: 2023-10-25T18:54:41.797954+00:00
+ - user: None
+ - tags: []
+
+## MIT Sloan Management Review
+ - [https://sloanreview.mit.edu](https://sloanreview.mit.edu)
+ - date published: 2023-10-25T18:54:48.399246+00:00
+ - user: None
+ - tags: []
+
+## Telecom Digest and Archives
+ - [http://telecom.csail.mit.edu](http://telecom.csail.mit.edu)
+ - date published: 2023-10-25T18:54:50.229504+00:00
+ - user: None
+ - tags: []
+
+## The MIT Press Reader
+ - [https://thereader.mitpress.mit.edu](https://thereader.mitpress.mit.edu)
+ - date published: 2023-10-25T10:39:41.389672+00:00
+ - user: None
+ - tags: []
+
+## Topology
+ - [https://topology.mitpress.mit.edu](https://topology.mitpress.mit.edu)
+ - date published: 2023-10-25T18:54:52.088797+00:00
+ - user: None
+ - tags: []
+
+## News + Updates — MIT Media Lab
+ - [https://web.media.mit.edu](https://web.media.mit.edu)
+ - date published: 2023-10-25T18:54:57.442420+00:00
+ - user: None
+ - tags: []
+
+## More crop per drop | MIT - Massachusetts Institute of Technology
+ - [https://web.mit.edu](https://web.mit.edu)
+ - date published: 2023-10-25T11:22:48.078614+00:00
+ - user: None
+ - tags: []
+
+## Home Page | MIT CSAIL
+ - [https://www.csail.mit.edu](https://www.csail.mit.edu)
+ - date published: 2023-10-25T18:55:00.580862+00:00
+ - user: None
+ - tags: []
+
+## MIT FUTURE OF AI
+ - [https://www.futureofai.mit.edu](https://www.futureofai.mit.edu)
+ - date published: 2023-10-25T18:55:02.414323+00:00
+ - user: None
+ - tags: []
+
+## MIT Haystack Observatory - Radio science & technology research center
+ - [https://www.haystack.mit.edu](https://www.haystack.mit.edu)
+ - date published: 2023-10-25T18:55:07.021253+00:00
+ - user: None
+ - tags: []
+
+## Homepage | MIT Lincoln Laboratory
+ - [https://www.ll.mit.edu](https://www.ll.mit.edu)
+ - date published: 2023-10-25T18:55:14.624029+00:00
+ - user: None
+ - tags: []
+
+## More crop per drop | MIT - Massachusetts Institute of Technology
+ - [https://www.mit.edu](https://www.mit.edu)
+ - date published: 2023-10-25T18:55:16.546253+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.monash.edu](https://www.monash.edu)
+ - date published: 2023-10-31T10:59:13.130253+00:00
+ - user: None
+ - tags: []
+
+## Middle Tennessee State University | Middle Tennessee State University
+ - [https://www.mtsu.edu](https://www.mtsu.edu)
+ - date published: 2023-10-25T18:55:21.754876+00:00
+ - user: None
+ - tags: []
+
+## NC State News
+ - [https://news.ncsu.edu](https://news.ncsu.edu)
+ - date published: 2023-10-25T18:55:26.541930+00:00
+ - user: None
+ - tags: []
+
+## Notre Dame News | University of Notre Dame
+ - [https://news.nd.edu](https://news.nd.edu)
+ - date published: 2023-10-25T18:55:35.076777+00:00
+ - user: None
+ - tags: []
+
+## NDSU - North Dakota State University
+ - [https://www.ndsu.edu](https://www.ndsu.edu)
+ - date published: 2023-10-25T18:55:39.000458+00:00
+ - user: None
+ - tags: []
+
+## Northeastern Global News - News, Discovery, and Analysis from Around the World
+ - [https://news.northeastern.edu](https://news.northeastern.edu)
+ - date published: 2023-10-25T18:55:44.990462+00:00
+ - user: None
+ - tags: []
+
+## Home - Programming Research Laboratory - Northeastern University
+ - [https://prl.khoury.northeastern.edu](https://prl.khoury.northeastern.edu)
+ - date published: 2023-10-25T18:55:46.864652+00:00
+ - user: None
+ - tags: []
+
+## Feinstein Institutes for Medical Research | Northwell Health
+ - [https://feinstein.northwell.edu](https://feinstein.northwell.edu)
+ - date published: 2023-10-25T18:55:49.028133+00:00
+ - user: None
+ - tags: []
+
+## Main Home - News Center
+ - [https://news.feinberg.northwestern.edu](https://news.feinberg.northwestern.edu)
+ - date published: 2023-10-25T18:55:55.307920+00:00
+ - user: None
+ - tags: []
+
+## Northwestern Now News
+ - [https://news.northwestern.edu](https://news.northwestern.edu)
+ - date published: 2023-10-25T18:56:08.345374+00:00
+ - user: None
+ - tags: []
+
+## OSIRIS Lab at NYU Tandon
+ - [https://blog.osiris.cyber.nyu.edu](https://blog.osiris.cyber.nyu.edu)
+ - date published: 2023-10-25T18:56:14.326050+00:00
+ - user: None
+ - tags: []
+
+## Institute | NYU Courant
+ - [https://cims.nyu.edu](https://cims.nyu.edu)
+ - date published: 2023-10-25T18:56:17.174439+00:00
+ - user: None
+ - tags: []
+
+## NYU
+ - [https://www.nyu.edu](https://www.nyu.edu)
+ - date published: 2023-10-25T18:56:19.949944+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Ohio University
+ - [https://www.ohio.edu](https://www.ohio.edu)
+ - date published: 2023-10-25T18:56:22.621409+00:00
+ - user: None
+ - tags: ['university']
+
+## CSE
+ - [https://web.cse.ohio-state.edu](https://web.cse.ohio-state.edu)
+ - date published: 2023-10-25T18:56:24.315200+00:00
+ - user: None
+ - tags: []
+
+## Home | OHSU News
+ - [https://news.ohsu.edu](https://news.ohsu.edu)
+ - date published: 2023-10-25T18:56:26.525047+00:00
+ - user: None
+ - tags: []
+
+## Distance Learning Courses and Adult Education - The Open University
+ - [https://www.open.edu](https://www.open.edu)
+ - date published: 2023-10-25T18:56:29.084298+00:00
+ - user: None
+ - tags: []
+
+## Ohio State News
+ - [https://news.osu.edu](https://news.osu.edu)
+ - date published: 2023-10-25T18:56:36.422788+00:00
+ - user: None
+ - tags: []
+
+## Social Psychology Perspectives – Applying social psychology to the world around us
+ - [https://socialpsych.blogs.pace.edu](https://socialpsych.blogs.pace.edu)
+ - date published: 2023-10-25T18:56:44.098429+00:00
+ - user: None
+ - tags: []
+
+## Peninsula College presents a podcast honoring the work of the influential American poet and short story writer, Raymond Carver from the last town he called home: Port Angeles, Washington. You can listen here on our Episode page. You can also find us on Stitcher, Google Podcasts, Apple Podcasts, Spotify, and more. In each regular episode, | Raymond Carver Podcast
+ - [https://raymondcarverpodcast.pencol.edu](https://raymondcarverpodcast.pencol.edu)
+ - date published: 2023-10-31T19:57:35.429326+00:00
+ - user: None
+ - tags: []
+
+## University of Pittsburgh: Error HTTP 403 - Forbidden
+ - [https://sites.pitt.edu](https://sites.pitt.edu)
+ - date published: 2023-10-25T18:56:45.029939+00:00
+ - user: None
+ - tags: []
+
+## Nuclear Princeton
+ - [https://nuclearprinceton.princeton.edu](https://nuclearprinceton.princeton.edu)
+ - date published: 2023-10-25T18:56:47.383073+00:00
+ - user: None
+ - tags: []
+
+## Against Predictive Optimization
+ - [https://predictive-optimization.cs.princeton.edu](https://predictive-optimization.cs.princeton.edu)
+ - date published: 2023-10-25T18:56:49.990374+00:00
+ - user: None
+ - tags: []
+
+## Princeton Site Builder
+ - [https://scholar.princeton.edu](https://scholar.princeton.edu)
+ - date published: 2023-10-25T18:56:53.006902+00:00
+ - user: None
+ - tags: []
+
 ## Home | Princeton Science & Global Security
  - [https://sgs.princeton.edu](https://sgs.princeton.edu)
  - date published: 2023-10-25T18:56:54.261014+00:00
@@ -1510,6 +1732,12 @@
  - user: None
  - tags: []
 
+## Don't Spy EU
+ - [https://dontspy.eu](https://dontspy.eu)
+ - date published: 2023-11-15T13:03:17+00:00
+ - user: rumpel
+ - tags: ['biometrics', 'surveillance', 'facial recognition']
+
 ## EAVI - Media Literacy for Citizenship
  - [https://eavi.eu](https://eavi.eu)
  - date published: 2023-10-25T19:09:47.932688+00:00
@@ -1624,6 +1852,12 @@
  - user: None
  - tags: []
 
+## Jan Kremer
+ - [https://jankremer.eu](https://jankremer.eu)
+ - date published: 2023-11-15T10:39:22.705314+00:00
+ - user: None
+ - tags: []
+
 ## Justune
  - [https://justune.eu](https://justune.eu)
  - date published: 2023-10-25T19:10:41.586076+00:00
@@ -1669,6 +1903,12 @@
 ## NIS2 Directive | Prepare Your Organization Now
  - [https://nis2directive.eu](https://nis2directive.eu)
  - date published: 2023-10-25T19:11:09.618121+00:00
+ - user: None
+ - tags: []
+
+## Новая газета Европа
+ - [https://novayagazeta.eu](https://novayagazeta.eu)
+ - date published: 2023-11-15T18:40:56.455675+00:00
  - user: None
  - tags: []
 
@@ -2092,6 +2332,12 @@
  - user: None
  - tags: []
 
+## 90.5 WESA – Pittsburgh's NPR station
+ - [https://www.wesa.fm](https://www.wesa.fm)
+ - date published: 2023-11-15T22:04:18.302598+00:00
+ - user: None
+ - tags: []
+
 ## ⊙
  - [https://writing.fm](https://writing.fm)
  - date published: 2023-10-25T19:14:07.984597+00:00
@@ -2313,6 +2559,12 @@
  - date published: 2023-10-25T19:15:33.507337+00:00
  - user: None
  - tags: []
+
+## Parimal Satyal - Neustadt.fr
+ - [https://neustadt.fr](https://neustadt.fr)
+ - date published: 2023-11-15T17:47:22.781493+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Institut Pasteur | Pour la recherche, pour la santé, pour demain
  - [https://www.pasteur.fr](https://www.pasteur.fr)
@@ -3252,6 +3504,12 @@
  - user: None
  - tags: []
 
+## NASA’s Eyes
+ - [https://eyes.nasa.gov](https://eyes.nasa.gov)
+ - date published: 2023-11-15T15:16:14.417143+00:00
+ - user: None
+ - tags: []
+
 ## NASA Mars Exploration
  - [https://mars.nasa.gov](https://mars.nasa.gov)
  - date published: 2023-10-25T10:11:24.762016+00:00
@@ -4046,6 +4304,12 @@
  - user: None
  - tags: []
 
+## Home
+ - [https://ind.ie](https://ind.ie)
+ - date published: 2023-11-15T17:47:45.736424+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Independent.ie
  - [https://www.independent.ie](https://www.independent.ie)
  - date published: 2023-10-25T19:29:09.791542+00:00
@@ -4190,6 +4454,12 @@
  - date published: 2023-10-25T19:30:00.308281+00:00
  - user: None
  - tags: []
+
+## Peter Saint-Andre
+ - [https://stpeter.im](https://stpeter.im)
+ - date published: 2023-11-15T17:36:31.286138+00:00
+ - user: None
+ - tags: ['personal', 'blog']
 
 ## The Fomu family. | I’m Tomu - A tiny ARM microprocessor which fits in your USB port.
  - [https://tomu.im](https://tomu.im)
@@ -4524,6 +4794,12 @@
 ## The Debian Administrator's Handbook
  - [https://debian-handbook.info](https://debian-handbook.info)
  - date published: 2023-10-25T19:33:04.117034+00:00
+ - user: None
+ - tags: []
+
+## Demoscene
+ - [https://www.demoscene.info](https://www.demoscene.info)
+ - date published: 2023-11-15T19:08:10+00:00
  - user: None
  - tags: []
 
@@ -5724,282 +6000,6 @@
 ## https://beta.elevenlabs.io
  - [https://beta.elevenlabs.io](https://beta.elevenlabs.io)
  - date published: 2023-10-25T19:41:58.716242+00:00
- - user: None
- - tags: []
-
-## ElevenLabs | Blog
- - [https://blog.elevenlabs.io](https://blog.elevenlabs.io)
- - date published: 2023-10-25T19:42:00.359950+00:00
- - user: None
- - tags: []
-
-## https://elevenlabs.io
- - [https://elevenlabs.io](https://elevenlabs.io)
- - date published: 2023-10-25T19:42:00.993836+00:00
- - user: None
- - tags: []
-
-## Traceloop - LLM Application Observability
- - [https://www.enrolla.io](https://www.enrolla.io)
- - date published: 2023-10-25T19:42:02.521004+00:00
- - user: None
- - tags: []
-
-## EnterpriseReady - Build SaaS Features Enterprises Love
- - [https://www.enterpriseready.io](https://www.enterpriseready.io)
- - date published: 2023-10-25T19:42:03.442332+00:00
- - user: None
- - tags: []
-
-## Epsio | Instant query results, effortlessly
- - [https://www.epsio.io](https://www.epsio.io)
- - date published: 2023-11-01T08:43:38.220991+00:00
- - user: None
- - tags: []
-
-## Esper | Device Management with Kiosk Mode, Remote Control, & more | MDM Solution
- - [https://www.esper.io](https://www.esper.io)
- - date published: 2023-10-25T19:42:06.992319+00:00
- - user: None
- - tags: []
-
-## Ethereum (ETH) Blockchain Explorer
- - [https://etherscan.io](https://etherscan.io)
- - date published: 2023-10-25T19:42:08.971913+00:00
- - user: None
- - tags: []
-
-## Evan Todd
- - [https://etodd.io](https://etodd.io)
- - date published: 2023-10-25T19:42:09.513819+00:00
- - user: None
- - tags: []
-
-## Event-Driven by Oskar Dudycz
- - [https://event-driven.io](https://event-driven.io)
- - date published: 2023-10-25T19:42:13.572557+00:00
- - user: None
- - tags: []
-
-## Everstrike Blog
- - [https://blog.everstrike.io](https://blog.everstrike.io)
- - date published: 2023-10-25T19:42:15.001515+00:00
- - user: None
- - tags: []
-
-## The EV Universe
- - [https://www.evuniverse.io](https://www.evuniverse.io)
- - date published: 2023-10-25T19:42:17.038711+00:00
- - user: None
- - tags: []
-
-## Ewan Valentine | Home
- - [https://ewanvalentine.io](https://ewanvalentine.io)
- - date published: 2023-11-06T08:14:47.316226+00:00
- - user: None
- - tags: []
-
-## Home | Exaloop blog
- - [https://blog.exaloop.io](https://blog.exaloop.io)
- - date published: 2023-10-25T19:42:17.703333+00:00
- - user: None
- - tags: []
-
-## Exaltitude Engineering Leadership Community
- - [https://www.exaltitude.io](https://www.exaltitude.io)
- - date published: 2023-10-25T19:42:19.238033+00:00
- - user: None
- - tags: []
-
-## Failing Fast
- - [https://failingfast.io](https://failingfast.io)
- - date published: 2023-10-25T19:42:20.010109+00:00
- - user: None
- - tags: []
-
-## Fan Pu Zeng
- - [https://fanpu.io](https://fanpu.io)
- - date published: 2023-10-25T19:42:21.616085+00:00
- - user: None
- - tags: []
-
-## Favoree - Discover quality channels from YouTube
- - [https://www.favoree.io](https://www.favoree.io)
- - date published: 2023-10-25T19:42:22.471809+00:00
- - user: None
- - tags: []
-
-## FerretDB Blog | FerretDB Blog
- - [https://blog.ferretdb.io](https://blog.ferretdb.io)
- - date published: 2023-10-25T19:42:24.585480+00:00
- - user: None
- - tags: []
-
-## Build your company workspace with no code — Fibery
- - [https://fibery.io](https://fibery.io)
- - date published: 2023-10-25T19:42:31.278832+00:00
- - user: None
- - tags: []
-
-## Fig
- - [https://fig.io](https://fig.io)
- - date published: 2023-10-25T19:42:32.304878+00:00
- - user: None
- - tags: []
-
-## Filippo Valsorda
- - [https://blog.filippo.io](https://blog.filippo.io)
- - date published: 2023-10-25T19:42:34.529201+00:00
- - user: None
- - tags: []
-
-## Filippo Valsorda
- - [https://filippo.io](https://filippo.io)
- - date published: 2023-10-25T19:42:35.382816+00:00
- - user: None
- - tags: []
-
-## Filippo Valsorda
- - [https://words.filippo.io](https://words.filippo.io)
- - date published: 2023-10-25T08:59:06.743488+00:00
- - user: None
- - tags: ['personal']
-
-## Filtra
- - [https://filtra.io](https://filtra.io)
- - date published: 2023-10-31T13:18:58.615018+00:00
- - user: None
- - tags: []
-
-## FindMyCat - The Open-Source Pet Tracker
- - [https://www.findmycat.io](https://www.findmycat.io)
- - date published: 2023-10-25T19:42:41.070101+00:00
- - user: None
- - tags: ['open hardware', 'hardware tracker']
-
-## Fireship - Learn to Code Faster
- - [https://fireship.io](https://fireship.io)
- - date published: 2023-10-25T19:42:41.631253+00:00
- - user: None
- - tags: []
-
-## Fly.io
- - [https://community.fly.io](https://community.fly.io)
- - date published: 2023-10-25T19:42:46.027252+00:00
- - user: None
- - tags: []
-
-## Deploy app servers close to your users · Fly
- - [https://fly.io](https://fly.io)
- - date published: 2023-10-25T19:42:47.102257+00:00
- - user: None
- - tags: []
-
-## FoAz - Frontend-Only-AuthZ | FoAz
- - [https://foaz.io](https://foaz.io)
- - date published: 2023-10-25T19:42:48.088096+00:00
- - user: None
- - tags: []
-
-## Foxy.io | Flexible Ecommerce for Your Website
- - [https://www.foxy.io](https://www.foxy.io)
- - date published: 2023-10-25T19:42:49.688772+00:00
- - user: None
- - tags: []
-
-## FreeTube - The Private YouTube Client
- - [https://freetubeapp.io](https://freetubeapp.io)
- - date published: 2023-10-25T08:30:25.633576+00:00
- - user: None
- - tags: ['youtube']
-
-## Freshpaint | Healthcare Privacy Platform To Manage Your Data And Meet HIPAA Regulations
- - [https://www.freshpaint.io](https://www.freshpaint.io)
- - date published: 2023-10-25T19:42:56.058009+00:00
- - user: None
- - tags: []
-
-## FusionAuth: Auth. Built for Devs, by Devs
- - [https://fusionauth.io](https://fusionauth.io)
- - date published: 2023-10-27T16:12:10.629678+00:00
- - user: None
- - tags: []
-
-## futurecoder: learn python from scratch
- - [https://futurecoder.io](https://futurecoder.io)
- - date published: 2023-10-25T19:42:57.568016+00:00
- - user: None
- - tags: []
-
-## Visual Scripting For The Web | G-Script
- - [https://g-script.io](https://g-script.io)
- - date published: 2023-10-25T19:43:00.841246+00:00
- - user: None
- - tags: []
-
-## Paul Ganssle
- - [https://blog.ganssle.io](https://blog.ganssle.io)
- - date published: 2023-10-25T19:43:02.935158+00:00
- - user: None
- - tags: []
-
-## Gantry | Build AI your users trust
- - [https://gantry.io](https://gantry.io)
- - date published: 2023-10-25T19:43:06.618863+00:00
- - user: None
- - tags: []
-
-## Garden - The DevOps automation tool for K8s
- - [https://garden.io](https://garden.io)
- - date published: 2023-10-25T19:43:09.096788+00:00
- - user: None
- - tags: []
-
-## 2D and 3D Game-Making App | Free and Easy to Use | GDevelop
- - [https://gdevelop.io](https://gdevelop.io)
- - date published: 2023-10-25T19:43:11.960036+00:00
- - user: None
- - tags: []
-
-## Convoy
- - [https://getconvoy.io](https://getconvoy.io)
- - date published: 2023-10-25T19:43:14.580849+00:00
- - user: None
- - tags: []
-
-## Daft Blog | Sammy Sidhu | Substack
- - [https://blog.getdaft.io](https://blog.getdaft.io)
- - date published: 2023-10-25T19:43:16.770689+00:00
- - user: None
- - tags: []
-
-## Scalable Feeds & Chat - Powerful APIs and Components by Stream
- - [https://getstream.io](https://getstream.io)
- - date published: 2023-10-25T19:43:19.021581+00:00
- - user: None
- - tags: []
-
-## About the docs | Unleash
- - [https://docs.getunleash.io](https://docs.getunleash.io)
- - date published: 2023-10-25T19:43:20.921880+00:00
- - user: None
- - tags: []
-
-## One from Nippon
- - [https://one-from-nippon.ghost.io](https://one-from-nippon.ghost.io)
- - date published: 2023-10-25T19:43:22.404656+00:00
- - user: None
- - tags: []
-
-## Ghostfolio – Open Source Wealth Management Software
- - [https://ghostfol.io](https://ghostfol.io)
- - date published: 2023-10-25T19:43:23.662694+00:00
- - user: None
- - tags: []
-
-## GhostLabel | Online Food & Beverage Manufacturing
- - [https://www.ghostlabel.io](https://www.ghostlabel.io)
- - date published: 2023-10-25T19:43:24.941611+00:00
  - user: None
  - tags: []
 

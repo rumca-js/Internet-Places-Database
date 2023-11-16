@@ -1,3 +1,279 @@
+## https://elevenlabs.io
+ - [https://elevenlabs.io](https://elevenlabs.io)
+ - date published: 2023-10-25T19:42:00.993836+00:00
+ - user: None
+ - tags: []
+
+## Traceloop - LLM Application Observability
+ - [https://www.enrolla.io](https://www.enrolla.io)
+ - date published: 2023-10-25T19:42:02.521004+00:00
+ - user: None
+ - tags: []
+
+## EnterpriseReady - Build SaaS Features Enterprises Love
+ - [https://www.enterpriseready.io](https://www.enterpriseready.io)
+ - date published: 2023-10-25T19:42:03.442332+00:00
+ - user: None
+ - tags: []
+
+## Epsio | Instant query results, effortlessly
+ - [https://www.epsio.io](https://www.epsio.io)
+ - date published: 2023-11-01T08:43:38.220991+00:00
+ - user: None
+ - tags: []
+
+## Esper | Device Management with Kiosk Mode, Remote Control, & more | MDM Solution
+ - [https://www.esper.io](https://www.esper.io)
+ - date published: 2023-10-25T19:42:06.992319+00:00
+ - user: None
+ - tags: []
+
+## Ethereum (ETH) Blockchain Explorer
+ - [https://etherscan.io](https://etherscan.io)
+ - date published: 2023-10-25T19:42:08.971913+00:00
+ - user: None
+ - tags: []
+
+## Evan Todd
+ - [https://etodd.io](https://etodd.io)
+ - date published: 2023-10-25T19:42:09.513819+00:00
+ - user: None
+ - tags: []
+
+## Event-Driven by Oskar Dudycz
+ - [https://event-driven.io](https://event-driven.io)
+ - date published: 2023-10-25T19:42:13.572557+00:00
+ - user: None
+ - tags: []
+
+## Everstrike Blog
+ - [https://blog.everstrike.io](https://blog.everstrike.io)
+ - date published: 2023-10-25T19:42:15.001515+00:00
+ - user: None
+ - tags: []
+
+## The EV Universe
+ - [https://www.evuniverse.io](https://www.evuniverse.io)
+ - date published: 2023-10-25T19:42:17.038711+00:00
+ - user: None
+ - tags: []
+
+## Ewan Valentine | Home
+ - [https://ewanvalentine.io](https://ewanvalentine.io)
+ - date published: 2023-11-06T08:14:47.316226+00:00
+ - user: None
+ - tags: []
+
+## Home | Exaloop blog
+ - [https://blog.exaloop.io](https://blog.exaloop.io)
+ - date published: 2023-10-25T19:42:17.703333+00:00
+ - user: None
+ - tags: []
+
+## Exaltitude Engineering Leadership Community
+ - [https://www.exaltitude.io](https://www.exaltitude.io)
+ - date published: 2023-10-25T19:42:19.238033+00:00
+ - user: None
+ - tags: []
+
+## Failing Fast
+ - [https://failingfast.io](https://failingfast.io)
+ - date published: 2023-10-25T19:42:20.010109+00:00
+ - user: None
+ - tags: []
+
+## Fan Pu Zeng
+ - [https://fanpu.io](https://fanpu.io)
+ - date published: 2023-10-25T19:42:21.616085+00:00
+ - user: None
+ - tags: []
+
+## Favoree - Discover quality channels from YouTube
+ - [https://www.favoree.io](https://www.favoree.io)
+ - date published: 2023-10-25T19:42:22.471809+00:00
+ - user: None
+ - tags: []
+
+## FerretDB Blog | FerretDB Blog
+ - [https://blog.ferretdb.io](https://blog.ferretdb.io)
+ - date published: 2023-10-25T19:42:24.585480+00:00
+ - user: None
+ - tags: []
+
+## Build your company workspace with no code — Fibery
+ - [https://fibery.io](https://fibery.io)
+ - date published: 2023-10-25T19:42:31.278832+00:00
+ - user: None
+ - tags: []
+
+## Fig
+ - [https://fig.io](https://fig.io)
+ - date published: 2023-10-25T19:42:32.304878+00:00
+ - user: None
+ - tags: []
+
+## Filippo Valsorda
+ - [https://blog.filippo.io](https://blog.filippo.io)
+ - date published: 2023-10-25T19:42:34.529201+00:00
+ - user: None
+ - tags: []
+
+## Filippo Valsorda
+ - [https://filippo.io](https://filippo.io)
+ - date published: 2023-10-25T19:42:35.382816+00:00
+ - user: None
+ - tags: []
+
+## Filippo Valsorda
+ - [https://words.filippo.io](https://words.filippo.io)
+ - date published: 2023-10-25T08:59:06.743488+00:00
+ - user: None
+ - tags: ['personal']
+
+## Filtra
+ - [https://filtra.io](https://filtra.io)
+ - date published: 2023-10-31T13:18:58.615018+00:00
+ - user: None
+ - tags: []
+
+## FindMyCat - The Open-Source Pet Tracker
+ - [https://www.findmycat.io](https://www.findmycat.io)
+ - date published: 2023-10-25T19:42:41.070101+00:00
+ - user: None
+ - tags: ['open hardware', 'hardware tracker']
+
+## Fireship - Learn to Code Faster
+ - [https://fireship.io](https://fireship.io)
+ - date published: 2023-10-25T19:42:41.631253+00:00
+ - user: None
+ - tags: []
+
+## Fly.io
+ - [https://community.fly.io](https://community.fly.io)
+ - date published: 2023-10-25T19:42:46.027252+00:00
+ - user: None
+ - tags: []
+
+## Deploy app servers close to your users · Fly
+ - [https://fly.io](https://fly.io)
+ - date published: 2023-10-25T19:42:47.102257+00:00
+ - user: None
+ - tags: []
+
+## FoAz - Frontend-Only-AuthZ | FoAz
+ - [https://foaz.io](https://foaz.io)
+ - date published: 2023-10-25T19:42:48.088096+00:00
+ - user: None
+ - tags: []
+
+## Foxy.io | Flexible Ecommerce for Your Website
+ - [https://www.foxy.io](https://www.foxy.io)
+ - date published: 2023-10-25T19:42:49.688772+00:00
+ - user: None
+ - tags: []
+
+## FreeTube - The Private YouTube Client
+ - [https://freetubeapp.io](https://freetubeapp.io)
+ - date published: 2023-10-25T08:30:25.633576+00:00
+ - user: None
+ - tags: ['youtube']
+
+## Freshpaint | Healthcare Privacy Platform To Manage Your Data And Meet HIPAA Regulations
+ - [https://www.freshpaint.io](https://www.freshpaint.io)
+ - date published: 2023-10-25T19:42:56.058009+00:00
+ - user: None
+ - tags: []
+
+## FusionAuth: Auth. Built for Devs, by Devs
+ - [https://fusionauth.io](https://fusionauth.io)
+ - date published: 2023-10-27T16:12:10.629678+00:00
+ - user: None
+ - tags: []
+
+## futurecoder: learn python from scratch
+ - [https://futurecoder.io](https://futurecoder.io)
+ - date published: 2023-10-25T19:42:57.568016+00:00
+ - user: None
+ - tags: []
+
+## Visual Scripting For The Web | G-Script
+ - [https://g-script.io](https://g-script.io)
+ - date published: 2023-10-25T19:43:00.841246+00:00
+ - user: None
+ - tags: []
+
+## Paul Ganssle
+ - [https://blog.ganssle.io](https://blog.ganssle.io)
+ - date published: 2023-10-25T19:43:02.935158+00:00
+ - user: None
+ - tags: []
+
+## Gantry | Build AI your users trust
+ - [https://gantry.io](https://gantry.io)
+ - date published: 2023-10-25T19:43:06.618863+00:00
+ - user: None
+ - tags: []
+
+## Garden - The DevOps automation tool for K8s
+ - [https://garden.io](https://garden.io)
+ - date published: 2023-10-25T19:43:09.096788+00:00
+ - user: None
+ - tags: []
+
+## 2D and 3D Game-Making App | Free and Easy to Use | GDevelop
+ - [https://gdevelop.io](https://gdevelop.io)
+ - date published: 2023-10-25T19:43:11.960036+00:00
+ - user: None
+ - tags: []
+
+## Convoy
+ - [https://getconvoy.io](https://getconvoy.io)
+ - date published: 2023-10-25T19:43:14.580849+00:00
+ - user: None
+ - tags: []
+
+## Daft Blog | Sammy Sidhu | Substack
+ - [https://blog.getdaft.io](https://blog.getdaft.io)
+ - date published: 2023-10-25T19:43:16.770689+00:00
+ - user: None
+ - tags: []
+
+## Scalable Feeds & Chat - Powerful APIs and Components by Stream
+ - [https://getstream.io](https://getstream.io)
+ - date published: 2023-10-25T19:43:19.021581+00:00
+ - user: None
+ - tags: []
+
+## About the docs | Unleash
+ - [https://docs.getunleash.io](https://docs.getunleash.io)
+ - date published: 2023-10-25T19:43:20.921880+00:00
+ - user: None
+ - tags: []
+
+## One from Nippon
+ - [https://one-from-nippon.ghost.io](https://one-from-nippon.ghost.io)
+ - date published: 2023-10-25T19:43:22.404656+00:00
+ - user: None
+ - tags: []
+
+## Ghostfolio – Open Source Wealth Management Software
+ - [https://ghostfol.io](https://ghostfol.io)
+ - date published: 2023-10-25T19:43:23.662694+00:00
+ - user: None
+ - tags: []
+
+## GhostLabel | Online Food & Beverage Manufacturing
+ - [https://www.ghostlabel.io](https://www.ghostlabel.io)
+ - date published: 2023-10-25T19:43:24.941611+00:00
+ - user: None
+ - tags: []
+
+## Learn to use email with git!
+ - [https://git-send-email.io](https://git-send-email.io)
+ - date published: 2023-10-25T19:43:27.077574+00:00
+ - user: None
+ - tags: []
+
 ## The Internals of Deno - The Internals of Deno
  - [https://choubey.gitbook.io](https://choubey.gitbook.io)
  - date published: 2023-10-25T19:43:30.635169+00:00
@@ -1767,6 +2043,12 @@ through Composable Diffusion
 ## sam.bigos
  - [https://samuelbigos.github.io](https://samuelbigos.github.io)
  - date published: 2023-10-25T19:52:07.178304+00:00
+ - user: None
+ - tags: []
+
+## https://sancarn.github.io
+ - [https://sancarn.github.io](https://sancarn.github.io)
+ - date published: 2023-11-15T02:22:26.981632+00:00
  - user: None
  - tags: []
 
@@ -4704,6 +4986,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
+## Rome in the footsteps of a 1750 traveller
+ - [https://www.romeartlover.it](https://www.romeartlover.it)
+ - date published: 2023-11-15T17:37:09.666911+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Linkfire Acquired smartURL | Music Marketing | Smart Links for music
  - [https://smarturl.it](https://smarturl.it)
  - date published: 2023-11-05T16:12:49.518226+00:00
@@ -5710,294 +5998,6 @@ End-to-end typesafe APIs made easy. | tRPC
 ## Klafyvel's personal page
  - [https://klafyvel.me](https://klafyvel.me)
  - date published: 2023-10-25T08:50:35.431083+00:00
- - user: None
- - tags: ['personal']
-
-## About
- - [https://laplab.me](https://laplab.me)
- - date published: 2023-10-25T08:50:36.037865+00:00
- - user: None
- - tags: ['personal']
-
-## Daniel Lemire's blog
- - [https://lemire.me](https://lemire.me)
- - date published: 2023-10-25T08:57:12.664570+00:00
- - user: None
- - tags: ['personal']
-
-## 静水铭室 Silent Water and Curved Mountain
- - [https://liuliu.me](https://liuliu.me)
- - date published: 2023-10-25T20:20:32.015989+00:00
- - user: None
- - tags: []
-
-## I'm Alex MacArthur
- - [https://www.macarthur.me](https://www.macarthur.me)
- - date published: 2023-10-25T08:50:37.022613+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://macoy.me](https://macoy.me)
- - date published: 2023-10-25T20:20:33.858057+00:00
- - user: None
- - tags: []
-
-## MaskRay
- - [https://maskray.me](https://maskray.me)
- - date published: 2023-10-25T08:59:54.363115+00:00
- - user: None
- - tags: ['personal']
-
-## Matthieu's blog
- - [https://blog.matthieud.me](https://blog.matthieud.me)
- - date published: 2023-10-25T08:59:55.198007+00:00
- - user: None
- - tags: ['personal']
-
-## Max Greenwald
- - [https://maxgreenwald.me](https://maxgreenwald.me)
- - date published: 2023-10-25T08:50:38.396994+00:00
- - user: None
- - tags: ['personal']
-
-## https://mgregory22.me
- - [https://mgregory22.me](https://mgregory22.me)
- - date published: 2023-10-27T12:05:23.328151+00:00
- - user: None
- - tags: []
-
-## Mihai Olteanu
- - [https://mihaiolteanu.me](https://mihaiolteanu.me)
- - date published: 2023-10-25T20:20:34.685721+00:00
- - user: None
- - tags: []
-
-## milen.me — About
- - [https://milen.me](https://milen.me)
- - date published: 2023-10-25T20:20:35.555910+00:00
- - user: None
- - tags: []
-
-## Matt's Headroom
- - [https://blog.millerti.me](https://blog.millerti.me)
- - date published: 2023-10-25T08:59:55.745324+00:00
- - user: None
- - tags: ['personal']
-
-## Misframe - Home
- - [https://misfra.me](https://misfra.me)
- - date published: 2023-10-25T20:20:39.309810+00:00
- - user: None
- - tags: []
-
-## Yury Molodtsov
- - [https://molodtsov.me](https://molodtsov.me)
- - date published: 2023-10-25T09:22:27.300795+00:00
- - user: None
- - tags: ['personal']
-
-## Riccardo Mori | Writer & Translator
- - [https://morrick.me](https://morrick.me)
- - date published: 2023-10-25T20:20:42.075379+00:00
- - user: None
- - tags: []
-
-## { mrsk mE }
- - [https://vez.mrsk.me](https://vez.mrsk.me)
- - date published: 2023-10-25T20:20:42.804549+00:00
- - user: None
- - tags: []
-
-## Muhammad | Personal Blog where I write about things I learn or discover.
- - [https://muhammadraza.me](https://muhammadraza.me)
- - date published: 2023-10-25T20:20:43.774048+00:00
- - user: None
- - tags: []
-
-## a blog by biggiemac42
- - [https://btm.qva.mybluehost.me](https://btm.qva.mybluehost.me)
- - date published: 2023-10-25T09:22:31.896364+00:00
- - user: None
- - tags: ['personal']
-
-## Navendu Pottekkat
- - [https://navendu.me](https://navendu.me)
- - date published: 2023-10-25T08:59:57.701859+00:00
- - user: None
- - tags: ['personal']
-
-## It's Nicky Case!
- - [https://ncase.me](https://ncase.me)
- - date published: 2023-10-25T08:50:40.025023+00:00
- - user: None
- - tags: ['personal']
-
-## Nova Skin - Minecraft Skin Editor
- - [https://minecraft.novaskin.me](https://minecraft.novaskin.me)
- - date published: 2023-10-30T15:19:59.219664+00:00
- - user: None
- - tags: []
-
-## Omar Shehata
- - [https://omarshehata.me](https://omarshehata.me)
- - date published: 2023-10-25T08:50:42.172246+00:00
- - user: None
- - tags: ['personal']
-
-## paavohtl's blog
- - [https://blog.paavo.me](https://blog.paavo.me)
- - date published: 2023-11-05T18:33:22.286573+00:00
- - user: None
- - tags: []
-
-## Eric Pauley
- - [https://pauley.me](https://pauley.me)
- - date published: 2023-10-25T08:50:43.702674+00:00
- - user: None
- - tags: ['personal']
-
-## Paul Osman
- - [https://paulosman.me](https://paulosman.me)
- - date published: 2023-10-25T09:22:37.534273+00:00
- - user: None
- - tags: ['personal']
-
-## Paul Brown
- - [https://pbrown.me](https://pbrown.me)
- - date published: 2023-10-25T08:59:59.207817+00:00
- - user: None
- - tags: ['personal']
-
-## Pete's Blog
- - [https://petevilter.me](https://petevilter.me)
- - date published: 2023-10-25T08:50:45.050699+00:00
- - user: None
- - tags: ['personal']
-
-## Petter Holme
- - [https://petterhol.me](https://petterhol.me)
- - date published: 2023-10-25T08:50:47.284099+00:00
- - user: None
- - tags: ['personal']
-
-## Phil Booth
- - [https://philbooth.me](https://philbooth.me)
- - date published: 2023-10-25T08:50:48.807135+00:00
- - user: None
- - tags: ['personal']
-
-## ubitux/blog
- - [https://blog.pkh.me](https://blog.pkh.me)
- - date published: 2023-10-25T20:20:45.149687+00:00
- - user: None
- - tags: []
-
-## Pradyun Gedam
- - [https://pradyunsg.me](https://pradyunsg.me)
- - date published: 2023-10-25T09:22:38.359262+00:00
- - user: None
- - tags: ['personal']
-
-## Preslav Rachev
- - [https://preslav.me](https://preslav.me)
- - date published: 2023-10-25T08:50:50.134536+00:00
- - user: None
- - tags: ['personal']
-
-## Corey Prophitt's Website
- - [https://prophitt.me](https://prophitt.me)
- - date published: 2023-10-25T08:50:51.665289+00:00
- - user: None
- - tags: ['personal']
-
-## Proton — Privacy by default
- - [https://proton.me](https://proton.me)
- - date published: 2023-10-25T08:25:39.070341+00:00
- - user: None
- - tags: ['privacy', 'vpn', 'email']
-
-## Rauno Freiberg
- - [https://rauno.me](https://rauno.me)
- - date published: 2023-10-25T08:50:53.557307+00:00
- - user: None
- - tags: ['personal']
-
-## Redbrick | The official student newspaper of the University of Birmingham
- - [https://www.redbrick.me](https://www.redbrick.me)
- - date published: 2023-10-25T20:20:51.810256+00:00
- - user: None
- - tags: []
-
-## https://roastmyresu.me
- - [https://roastmyresu.me](https://roastmyresu.me)
- - date published: 2023-10-25T20:20:52.494687+00:00
- - user: None
- - tags: []
-
-## Rukshan's Blog
- - [https://ruky.me](https://ruky.me)
- - date published: 2023-10-25T08:50:56.032223+00:00
- - user: None
- - tags: ['personal']
-
-## RyotaK's Blog - 技術的な話とか
- - [https://blog.ryotak.me](https://blog.ryotak.me)
- - date published: 2023-10-25T20:20:53.525118+00:00
- - user: None
- - tags: []
-
-## Stefan Saasen
- - [https://stefan.saasen.me](https://stefan.saasen.me)
- - date published: 2023-11-01T08:43:50.249821+00:00
- - user: None
- - tags: []
-
-## Sam Dickie | Product Manager & Maker based in Scotland
- - [https://www.samdickie.me](https://www.samdickie.me)
- - date published: 2023-10-25T20:21:00.260047+00:00
- - user: None
- - tags: []
-
-## samyaksahu.me
- - [https://samyaksahu.me](https://samyaksahu.me)
- - date published: 2023-10-25T20:21:02.710847+00:00
- - user: None
- - tags: []
-
-## HandlR
- - [https://handlr.sapico.me](https://handlr.sapico.me)
- - date published: 2023-10-25T20:21:09.032470+00:00
- - user: None
- - tags: []
-
-## [Michał Sapka's website]
- - [https://michal.sapka.me](https://michal.sapka.me)
- - date published: 2023-10-25T08:50:59.399029+00:00
- - user: None
- - tags: ['personal']
-
-## scoop.me - Share it. Translate it. Republish it.
- - [https://scoop.me](https://scoop.me)
- - date published: 2023-10-25T10:39:44.099392+00:00
- - user: None
- - tags: []
-
-## Seiya Nuta
- - [https://seiya.me](https://seiya.me)
- - date published: 2023-10-25T08:51:02.101892+00:00
- - user: None
- - tags: ['personal']
-
-## SerCe's blog
- - [https://serce.me](https://serce.me)
- - date published: 2023-10-25T08:51:03.677213+00:00
- - user: None
- - tags: ['personal']
-
-## SerHack – Security Researcher and Writer
- - [https://serhack.me](https://serhack.me)
- - date published: 2023-10-25T08:51:06.357837+00:00
  - user: None
  - tags: ['personal']
 

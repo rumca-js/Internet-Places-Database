@@ -1,3 +1,21 @@
+## Acceltex - Antennas, Mounts & Other Wireless Networking Products
+ - [https://www.acceltex.com](https://www.acceltex.com)
+ - date published: 2023-11-08T22:30:29.834195+00:00
+ - user: None
+ - tags: []
+
+## Welcome to AccessibilityForDevelopers.com
+ - [https://accessibilityfordevelopers.com](https://accessibilityfordevelopers.com)
+ - date published: 2023-10-25T12:31:13.498578+00:00
+ - user: None
+ - tags: []
+
+## Local, National, & Global Daily Weather Forecast | AccuWeather
+ - [https://www.accuweather.com](https://www.accuweather.com)
+ - date published: 2023-10-24T20:19:12.824786+00:00
+ - user: None
+ - tags: ['weather']
+
 ## Aceso Under Glass – What if we understood more things?
  - [https://acesounderglass.com](https://acesounderglass.com)
  - date published: 2023-10-25T12:31:27.015752+00:00
@@ -549,6 +567,12 @@
  - date published: 2023-10-25T10:35:31.781369+00:00
  - user: None
  - tags: []
+
+## ~ajroach42.com – I'm Andrew. I write about the past and future of tech, music, media, culture, art, and activism. This is my blog.
+ - [https://ajroach42.com](https://ajroach42.com)
+ - date published: 2023-11-15T17:40:49.093816+00:00
+ - user: None
+ - tags: ['personal', 'blog']
 
 ## Cloud Computing, Security, Content Delivery (CDN) | Akamai
  - [https://www.akamai.com](https://www.akamai.com)
@@ -1267,6 +1291,12 @@
 ## Andrew Leahey
  - [https://andrewleahey.com](https://andrewleahey.com)
  - date published: 2023-10-25T12:41:09.467079+00:00
+ - user: None
+ - tags: []
+
+## @AndrewMayne
+ - [https://andrewmayne.com](https://andrewmayne.com)
+ - date published: 2023-11-15T00:43:08.139966+00:00
  - user: None
  - tags: []
 
@@ -3058,6 +3088,12 @@
  - user: None
  - tags: []
 
+## Health Brief
+ - [https://healthbrief.beehiiv.com](https://healthbrief.beehiiv.com)
+ - date published: 2023-11-15T09:58:50.981130+00:00
+ - user: None
+ - tags: []
+
 ## IdeaHub
  - [https://ideahub.beehiiv.com](https://ideahub.beehiiv.com)
  - date published: 2023-10-25T12:55:48.185995+00:00
@@ -3505,6 +3541,12 @@
 ## International Journal of Emergency Medicine
  - [https://intjem.biomedcentral.com](https://intjem.biomedcentral.com)
  - date published: 2023-11-12T16:05:33.724173+00:00
+ - user: None
+ - tags: []
+
+## Molecular Cancer
+ - [https://molecular-cancer.biomedcentral.com](https://molecular-cancer.biomedcentral.com)
+ - date published: 2023-11-15T02:03:10.897398+00:00
  - user: None
  - tags: []
 
@@ -5344,6 +5386,12 @@
  - user: None
  - tags: []
 
+## Calgary Herald
+ - [https://calgaryherald.com](https://calgaryherald.com)
+ - date published: 2023-11-15T21:24:51.402505+00:00
+ - user: None
+ - tags: []
+
 ## California Forever
  - [https://californiaforever.com](https://californiaforever.com)
  - date published: 2023-10-25T13:16:56.359728+00:00
@@ -5947,54 +5995,6 @@
 ## Chase λ
  - [https://blog.chaselambda.com](https://blog.chaselambda.com)
  - date published: 2023-10-25T13:20:40.077289+00:00
- - user: None
- - tags: []
-
-## ChatBA: Generative AI for Slides ✨
- - [https://www.chatbcg.com](https://www.chatbcg.com)
- - date published: 2023-10-25T13:20:40.648474+00:00
- - user: None
- - tags: []
-
-## ChatBotKit
- - [https://chatbotkit.com](https://chatbotkit.com)
- - date published: 2023-10-25T13:20:41.975572+00:00
- - user: None
- - tags: []
-
-## ChatGPT Online - No Login Needed!
- - [https://chatgptbay.com](https://chatgptbay.com)
- - date published: 2023-10-25T13:20:42.654731+00:00
- - user: None
- - tags: []
-
-## ChatGPT on Telegram | Access ChatGPT anywhere on Telegram
- - [https://chatgptontelegram.com](https://chatgptontelegram.com)
- - date published: 2023-10-25T13:20:43.958030+00:00
- - user: None
- - tags: []
-
-## ChatPDF - Chat with any PDF!
- - [https://www.chatpdf.com](https://www.chatpdf.com)
- - date published: 2023-10-25T13:20:44.651673+00:00
- - user: None
- - tags: []
-
-## Ratika Deshpande – Learning + doing + sharing
- - [https://chavanniclass.com](https://chavanniclass.com)
- - date published: 2023-10-25T13:20:46.419776+00:00
- - user: None
- - tags: []
-
-## CHCollins - You Are What You Create
- - [https://chcollins.com](https://chcollins.com)
- - date published: 2023-10-25T13:20:47.748663+00:00
- - user: None
- - tags: []
-
-## Car Accident Records Search and Check VIN  |  Vehicle History Reports  |  Junk and Salvage Records  |  Check Any VIN
- - [https://checkanyvin.com](https://checkanyvin.com)
- - date published: 2023-10-25T13:20:49.534387+00:00
  - user: None
  - tags: []
 
