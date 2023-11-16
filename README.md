@@ -11,6 +11,13 @@ Acceptable link types:
 
 The database is distributed as a set of JSON files. We do not want to store binary data, binary files. SQL files should be fine, but I am going with JSON files for now.
 
+Each link contains a set of attributes, like:
+ - title
+ - description
+ - page rating
+ - date of creation
+ - etc.
+
 # Ranking algorithm
 
 Each link, page is ranked by several factors.
