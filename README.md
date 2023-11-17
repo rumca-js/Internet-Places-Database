@@ -7,6 +7,11 @@ Acceptable link types:
  - repository links. For example [https://github.com/rumca-js/Internet-Places-Database](https://github.com/rumca-js/Internet-Places-Database)
  - user spaces. Might be youtube channel link: [Linus Tech Tips YouTube Channel](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw). Might be X/Twitter user account.
 
+# Sources of data
+
+ - [https://nownownow.com/](https://nownownow.com/)
+ - [https://searchmysite.net/](https://searchmysite.net/)
+
 # Files
 
 The database is distributed as a set of JSON files. We do not want to store binary data, binary files. SQL files should be fine, but I am going with JSON files for now.
