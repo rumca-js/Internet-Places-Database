@@ -11,6 +11,9 @@ Acceptable link types:
 
  - [https://nownownow.com/](https://nownownow.com/)
  - [https://searchmysite.net/](https://searchmysite.net/)
+ - [https://downloads.marginalia.nu/](https://downloads.marginalia.nu/)
+ - hacker front page entries
+ - some reddit channels
 
 # Files
 
@@ -90,14 +93,3 @@ New tickets should clearly describe intent: \[New\] should be present in ticket 
 # Demo database
 
 Might not be working. Used for development: [https://renegat0x0.ddns.net/apps/places/](https://renegat0x0.ddns.net/apps/places/)
-
-# Sources of domain data
-
-New domains are added via sources:
- - Hacker news RSS
- - Some RSS channels
- - [https://searchmysite.net/](https://searchmysite.net/) RSS feed
-
-# Other useful data
-
-Marginalia also provides some domain data: [https://downloads.marginalia.nu/](https://downloads.marginalia.nu/)
