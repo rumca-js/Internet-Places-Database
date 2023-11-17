@@ -562,6 +562,12 @@
  - user: None
  - tags: []
 
+## FlowChai  - AI For Your Business
+ - [https://flowch.ai](https://flowch.ai)
+ - date published: 2023-11-16T11:39:08.948375+00:00
+ - user: None
+ - tags: []
+
 ## http://docs.flux.ai
  - [http://docs.flux.ai](http://docs.flux.ai)
  - date published: 2023-10-25T11:38:52.337233+00:00
@@ -1408,6 +1414,12 @@
  - user: None
  - tags: []
 
+## Books by AI
+ - [https://booksbyai.app](https://booksbyai.app)
+ - date published: 2023-11-16T14:14:55.138763+00:00
+ - user: None
+ - tags: []
+
 ## Three Lessons from Threema: Analysis of a Secure Messenger
  - [https://breakingthe3ma.app](https://breakingthe3ma.app)
  - date published: 2023-10-25T11:45:41.239888+00:00
@@ -1945,6 +1957,12 @@
 ## Unfolder for Mac - Create papercraft easily
  - [https://www.unfolder.app](https://www.unfolder.app)
  - date published: 2023-10-25T11:49:41.773041+00:00
+ - user: None
+ - tags: []
+
+## Made an app that summarizes recent popular stories from Hacker News
+ - [https://hackerdigest.upstash.app](https://hackerdigest.upstash.app)
+ - date published: 2023-11-16T12:26:14+00:00
  - user: None
  - tags: []
 
@@ -4728,6 +4746,12 @@
  - user: None
  - tags: []
 
+## Amazon.com. Spend less. Smile more.
+ - [https://a.co](https://a.co)
+ - date published: 2023-11-16T04:19:10.428435+00:00
+ - user: None
+ - tags: []
+
 ## Aeon | a world of ideas
  - [https://aeon.co](https://aeon.co)
  - date published: 2023-10-25T12:16:27.025696+00:00
@@ -4917,6 +4941,12 @@
 ## The Home of UX Research | Great Question
  - [https://greatquestion.co](https://greatquestion.co)
  - date published: 2023-10-25T12:19:02.989040+00:00
+ - user: None
+ - tags: []
+
+## Green Investing Co. - Build Wealth. Save the Planet.
+ - [https://greeninvesting.co](https://greeninvesting.co)
+ - date published: 2023-11-16T15:37:38.056532+00:00
  - user: None
  - tags: []
 
@@ -5961,36 +5991,6 @@
 ## ABP News LIVE, Latest News, Breaking News, Top Headlines, India News Today - ABP LIVE
  - [https://news.abplive.com](https://news.abplive.com)
  - date published: 2023-10-25T10:43:44.721760+00:00
- - user: None
- - tags: []
-
-## Albuquerque Journal | News & Sports in New Mexico
- - [https://www.abqjournal.com](https://www.abqjournal.com)
- - date published: 2023-10-25T12:30:44.095634+00:00
- - user: None
- - tags: []
-
-## AbsInt: Cutting-Edge Tools for Static Analysis of Safety-Critical Software
- - [https://www.absint.com](https://www.absint.com)
- - date published: 2023-10-25T12:30:47.068672+00:00
- - user: None
- - tags: []
-
-## Abstract Expression – Software Development Blog
- - [https://abstractexpr.com](https://abstractexpr.com)
- - date published: 2023-10-25T12:30:50.290125+00:00
- - user: None
- - tags: []
-
-## Academic Torrents
- - [https://academictorrents.com](https://academictorrents.com)
- - date published: 2023-10-25T12:30:53.766432+00:00
- - user: None
- - tags: []
-
-## Podcasting For Creators & Advertisers | Acast Podcasts
- - [https://shows.acast.com](https://shows.acast.com)
- - date published: 2023-10-25T12:30:59.128079+00:00
  - user: None
  - tags: []
 

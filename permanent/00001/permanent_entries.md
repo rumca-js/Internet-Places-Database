@@ -1,3 +1,33 @@
+## AbsInt: Cutting-Edge Tools for Static Analysis of Safety-Critical Software
+ - [https://www.absint.com](https://www.absint.com)
+ - date published: 2023-10-25T12:30:47.068672+00:00
+ - user: None
+ - tags: []
+
+## Abstract Expression – Software Development Blog
+ - [https://abstractexpr.com](https://abstractexpr.com)
+ - date published: 2023-10-25T12:30:50.290125+00:00
+ - user: None
+ - tags: []
+
+## Academic Torrents
+ - [https://academictorrents.com](https://academictorrents.com)
+ - date published: 2023-10-25T12:30:53.766432+00:00
+ - user: None
+ - tags: []
+
+## Podcasting For Creators & Advertisers | Acast Podcasts
+ - [https://shows.acast.com](https://shows.acast.com)
+ - date published: 2023-10-25T12:30:59.128079+00:00
+ - user: None
+ - tags: []
+
+## New Business Models Based on Technology - Acceleration Economy
+ - [https://accelerationeconomy.com](https://accelerationeconomy.com)
+ - date published: 2023-10-25T12:31:10.661539+00:00
+ - user: None
+ - tags: []
+
 ## Acceltex - Antennas, Mounts & Other Wireless Networking Products
  - [https://www.acceltex.com](https://www.acceltex.com)
  - date published: 2023-11-08T22:30:29.834195+00:00
@@ -129,6 +159,12 @@
  - date published: 2023-10-25T12:32:10.321239+00:00
  - user: None
  - tags: []
+
+## adamtcroft.com
+ - [https://adamtcroft.com](https://adamtcroft.com)
+ - date published: 2023-11-16T21:06:42.760162+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Home - Addis Standard
  - [https://addisstandard.com](https://addisstandard.com)
@@ -4474,6 +4510,12 @@
  - user: None
  - tags: ['personal']
 
+## Zandar Versus The Stupid
+ - [https://zandarvts.blogspot.com](https://zandarvts.blogspot.com)
+ - date published: 2023-11-16T06:39:55.486202+00:00
+ - user: None
+ - tags: []
+
 ## blogTO
  - [https://www.blogto.com](https://www.blogto.com)
  - date published: 2023-10-25T14:21:46.462131+00:00
@@ -5953,48 +5995,6 @@
 ## Welcome to Charles Atlas LTD.
  - [https://www.charlesatlas.com](https://www.charlesatlas.com)
  - date published: 2023-10-25T13:20:30.485142+00:00
- - user: None
- - tags: []
-
-## Charles Petzold
- - [https://www.charlespetzold.com](https://www.charlespetzold.com)
- - date published: 2023-10-25T09:19:39.959226+00:00
- - user: None
- - tags: ['personal']
-
-## Charlie Harrington
- - [https://charlieharrington.com](https://charlieharrington.com)
- - date published: 2023-10-25T09:19:41.271593+00:00
- - user: None
- - tags: ['personal']
-
-## Charlotte Eiffel Lilith Buff | Official Homepage
- - [https://charlottebuff.com](https://charlottebuff.com)
- - date published: 2023-10-25T13:20:31.888241+00:00
- - user: None
- - tags: []
-
-## Charmaine Lee
- - [https://www.charmaineklee.com](https://www.charmaineklee.com)
- - date published: 2023-10-25T09:19:42.820729+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Charming Science
- - [https://charmingscience.com](https://charmingscience.com)
- - date published: 2023-10-25T13:20:36.046950+00:00
- - user: None
- - tags: []
-
-## Credit Card, Mortgage, Banking, Auto | Chase Online | Chase.com
- - [https://www.chase.com](https://www.chase.com)
- - date published: 2023-10-25T13:20:38.268897+00:00
- - user: None
- - tags: []
-
-## Chase λ
- - [https://blog.chaselambda.com](https://blog.chaselambda.com)
- - date published: 2023-10-25T13:20:40.077289+00:00
  - user: None
  - tags: []
 

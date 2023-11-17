@@ -1,3 +1,81 @@
+## Home
+ - [https://joaodlf.com](https://joaodlf.com)
+ - date published: 2023-10-25T15:29:35.649022+00:00
+ - user: None
+ - tags: []
+
+## Jobsort · Find jobs in top startups
+ - [https://jobsort.com](https://jobsort.com)
+ - date published: 2023-10-25T15:29:37.310595+00:00
+ - user: None
+ - tags: []
+
+## Joe Antonakakis - Eng @ Notion
+ - [https://www.joeantonakakis.com](https://www.joeantonakakis.com)
+ - date published: 2023-10-25T15:29:38.688326+00:00
+ - user: None
+ - tags: []
+
+## On the Web
+ - [https://joeblu.com](https://joeblu.com)
+ - date published: 2023-10-25T08:57:49.719476+00:00
+ - user: None
+ - tags: ['personal']
+
+## Platform Centric | Modern Architectures for Modern Development
+ - [http://joelcrabb.com](http://joelcrabb.com)
+ - date published: 2023-10-25T15:29:47.738303+00:00
+ - user: None
+ - tags: []
+
+## Joel Dare
+ - [https://joeldare.com](https://joeldare.com)
+ - date published: 2023-10-25T15:29:49.328434+00:00
+ - user: None
+ - tags: []
+
+## Neat CSS
+ - [https://neat.joeldare.com](https://neat.joeldare.com)
+ - date published: 2023-10-25T15:29:50.003390+00:00
+ - user: None
+ - tags: []
+
+## Joe Lonsdale  | Substack
+ - [https://blog.joelonsdale.com](https://blog.joelonsdale.com)
+ - date published: 2023-10-25T09:40:12.500751+00:00
+ - user: None
+ - tags: ['substack']
+
+## Joel on Software
+ - [https://www.joelonsoftware.com](https://www.joelonsoftware.com)
+ - date published: 2023-10-25T08:46:38.077970+00:00
+ - user: None
+ - tags: ['personal']
+
+## Joe Previte's Site
+ - [https://joeprevite.com](https://joeprevite.com)
+ - date published: 2023-10-25T15:29:51.059464+00:00
+ - user: None
+ - tags: []
+
+## Joe rogan
+ - [https://www.joerogan.com](https://www.joerogan.com)
+ - date published: 2023-11-01T08:42:22.375231+00:00
+ - user: None
+ - tags: []
+
+## Jose's Sketchbook – A personal collection of ideas, programming and shiny stuff
+ - [https://www.joesfer.com](https://www.joesfer.com)
+ - date published: 2023-10-25T15:29:56.370927+00:00
+ - user: None
+ - tags: []
+
+## John Millikin
+ - [https://john-millikin.com](https://john-millikin.com)
+ - date published: 2023-10-25T15:30:06.935540+00:00
+ - user: None
+ - tags: []
+
 ## Johnathan at Limbo
  - [https://johnathanbi.com](https://johnathanbi.com)
  - date published: 2023-10-25T15:30:08.552189+00:00
@@ -974,6 +1052,12 @@
 ## Kirkus Reviews
  - [https://www.kirkusreviews.com](https://www.kirkusreviews.com)
  - date published: 2023-10-25T15:37:36.619388+00:00
+ - user: None
+ - tags: []
+
+## Seattle News, Weather, Traffic & Sports | KIRO-TV – KIRO 7 News Seattle
+ - [https://www.kiro7.com](https://www.kiro7.com)
+ - date published: 2023-11-16T15:37:29.970900+00:00
  - user: None
  - tags: []
 
@@ -3160,7 +3244,7 @@ diversions.
  - [https://manuelmoreale.com](https://manuelmoreale.com)
  - date published: 2023-10-25T15:55:29.728049+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Manufacturing News | Manufacturing Dive
  - [https://www.manufacturingdive.com](https://www.manufacturingdive.com)
@@ -3382,6 +3466,12 @@ diversions.
 ## Martin Rue
  - [https://martinrue.com](https://martinrue.com)
  - date published: 2023-10-25T15:57:29.125644+00:00
+ - user: None
+ - tags: []
+
+## Martin Vigo - Personal hacking projects, writeups and tools
+ - [https://www.martinvigo.com](https://www.martinvigo.com)
+ - date published: 2023-11-16T16:28:38.549404+00:00
  - user: None
  - tags: []
 
@@ -4891,6 +4981,12 @@ diversions.
  - user: None
  - tags: []
 
+## Michael Hudson
+ - [https://michael-hudson.com](https://michael-hudson.com)
+ - date published: 2023-11-16T12:41:59.799273+00:00
+ - user: None
+ - tags: []
+
 ## Code Review Workshops with Dr. Michaela Greiler - Dr. McKayla
  - [https://www.michaelagreiler.com](https://www.michaelagreiler.com)
  - date published: 2023-10-25T16:02:47.336831+00:00
@@ -5898,100 +5994,4 @@ diversions.
  - date published: 2023-10-25T16:08:56.804634+00:00
  - user: None
  - tags: []
-
-## Music Industry | Record labels | Record Companies | Music Gateway
- - [https://www.musicgateway.com](https://www.musicgateway.com)
- - date published: 2023-10-28T20:09:12.896749+00:00
- - user: None
- - tags: []
-
-## Musician Wave | The Ultimate Resource for Music Makers
- - [https://www.musicianwave.com](https://www.musicianwave.com)
- - date published: 2023-10-25T11:13:38.064016+00:00
- - user: None
- - tags: []
-
-## musicnotes.com
- - [https://www.musicnotes.com](https://www.musicnotes.com)
- - date published: 2023-11-13T12:45:38.213438+00:00
- - user: None
- - tags: ['database', 'music notes']
-
-## Music Gear, Equipment, News, Tutorials & Reviews | MusicRadar
- - [https://www.musicradar.com](https://www.musicradar.com)
- - date published: 2023-10-25T11:13:46.875557+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://musictech.com](https://musictech.com)
- - date published: 2023-10-28T18:49:40.424751+00:00
- - user: None
- - tags: []
-
-## The Internet's video infrastructure | Mux
- - [https://mux.com](https://mux.com)
- - date published: 2023-10-25T16:09:05.771772+00:00
- - user: None
- - tags: []
-
-## The Internet's video infrastructure | Mux
- - [https://www.mux.com](https://www.mux.com)
- - date published: 2023-10-25T16:09:22.904159+00:00
- - user: None
- - tags: []
-
-## Muxup - Adventures in collaborative open source development
- - [https://muxup.com](https://muxup.com)
- - date published: 2023-10-25T16:09:26.038159+00:00
- - user: None
- - tags: []
-
-## | Mountain View Online |
- - [https://www.mv-voice.com](https://www.mv-voice.com)
- - date published: 2023-10-25T16:09:34.714338+00:00
- - user: None
- - tags: []
-
-## Blog · Max Gorin
- - [https://mxgrn.com](https://mxgrn.com)
- - date published: 2023-10-25T16:09:39.374278+00:00
- - user: None
- - tags: []
-
-## My 90's TV!
- - [https://my90stv.com](https://my90stv.com)
- - date published: 2023-10-25T16:09:42.269232+00:00
- - user: None
- - tags: []
-
-## My Abandonware - Download Old Video Games
- - [https://www.myabandonware.com](https://www.myabandonware.com)
- - date published: 2023-10-25T16:35:49.568489+00:00
- - user: None
- - tags: []
-
-## http://status.mycloud.com
- - [http://status.mycloud.com](http://status.mycloud.com)
- - date published: 2023-10-25T16:09:44.729520+00:00
- - user: None
- - tags: []
-
-## Japanese Green Tea
- - [https://www.myjapanesegreentea.com](https://www.myjapanesegreentea.com)
- - date published: 2023-10-25T16:09:48.957754+00:00
- - user: None
- - tags: []
-
-## Mango Mail - Email Hosting
- - [https://mymangomail.com](https://mymangomail.com)
- - date published: 2023-10-25T16:09:51.519785+00:00
- - user: None
- - tags: []
-
-## Discover STL files for 3D printing ideas and high-quality 3D printer models. | MyMiniFactory
- - [https://www.myminifactory.com](https://www.myminifactory.com)
- - date published: 2023-10-27T07:43:49.625978+00:00
- - user: None
- - tags: ['3d printing']
 

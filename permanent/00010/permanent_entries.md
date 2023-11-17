@@ -1,3 +1,213 @@
+## Emilio Cobos
+ - [https://crisal.io](https://crisal.io)
+ - date published: 2023-10-25T19:40:37.795139+00:00
+ - user: None
+ - tags: []
+
+## BDD Testing & Collaboration Tools for Teams | Cucumber
+ - [https://cucumber.io](https://cucumber.io)
+ - date published: 2023-10-25T19:40:40.322079+00:00
+ - user: None
+ - tags: []
+
+## CutiePi tablet - Raspberry Pi, Untethered
+ - [https://cutiepi.io](https://cutiepi.io)
+ - date published: 2023-10-25T08:33:13.077918+00:00
+ - user: None
+ - tags: []
+
+## Dagger.io - CI/CD as Code that Runs Anywhere
+ - [https://dagger.io](https://dagger.io)
+ - date published: 2023-10-25T19:40:43.652868+00:00
+ - user: None
+ - tags: []
+
+## Dagster | Cloud-native orchestration of data pipelines
+ - [https://dagster.io](https://dagster.io)
+ - date published: 2023-10-25T19:40:45.923782+00:00
+ - user: None
+ - tags: []
+
+## DataPen | Free online resources for data scientist and analyst
+ - [https://www.datapen.io](https://www.datapen.io)
+ - date published: 2023-10-25T19:40:47.269798+00:00
+ - user: None
+ - tags: []
+
+## Datasette: An open source multi-tool for exploring and publishing data
+ - [https://datasette.io](https://datasette.io)
+ - date published: 2023-10-25T19:40:50.285897+00:00
+ - user: None
+ - tags: []
+
+## ScotRail announcements: scotrail
+ - [https://scotrail.datasette.io](https://scotrail.datasette.io)
+ - date published: 2023-10-25T19:40:52.060224+00:00
+ - user: None
+ - tags: []
+
+## sqlite-utils
+ - [https://sqlite-utils.datasette.io](https://sqlite-utils.datasette.io)
+ - date published: 2023-10-25T19:40:55.564238+00:00
+ - user: None
+ - tags: []
+
+## Home - Database of Databases
+ - [https://dbdb.io](https://dbdb.io)
+ - date published: 2023-10-25T19:40:57.960570+00:00
+ - user: None
+ - tags: []
+
+## DB Pilot - Database GUI With a Twist.
+ - [https://www.dbpilot.io](https://www.dbpilot.io)
+ - date published: 2023-10-25T19:40:59.702757+00:00
+ - user: None
+ - tags: []
+
+## CNAPP - Trusted Cloud Security Solutions - Deepfence
+ - [https://www.deepfence.io](https://www.deepfence.io)
+ - date published: 2023-10-25T19:41:03.652311+00:00
+ - user: None
+ - tags: []
+
+## Publisher Fraud Detection | Advertising Block List - DeepSee
+ - [https://deepsee.io](https://deepsee.io)
+ - date published: 2023-10-25T19:41:08.024996+00:00
+ - user: None
+ - tags: []
+
+## DeepSource: The Code Health Platform
+ - [https://deepsource.io](https://deepsource.io)
+ - date published: 2023-10-25T19:41:12.065286+00:00
+ - user: None
+ - tags: []
+
+## Posts — defn.io
+ - [https://defn.io](https://defn.io)
+ - date published: 2023-10-27T11:57:20.669257+00:00
+ - user: None
+ - tags: []
+
+## Desio
+ - [https://blog.des.io](https://blog.des.io)
+ - date published: 2023-10-25T19:41:20.380240+00:00
+ - user: None
+ - tags: []
+
+## Dev Genius
+ - [https://blog.devgenius.io](https://blog.devgenius.io)
+ - date published: 2023-10-25T19:41:22.720361+00:00
+ - user: None
+ - tags: []
+
+## devmio - Software Know-How
+ - [https://devm.io](https://devm.io)
+ - date published: 2023-10-25T19:41:26.103460+00:00
+ - user: None
+ - tags: []
+
+## Index page
+ - [https://diablo2.io](https://diablo2.io)
+ - date published: 2023-10-28T20:39:54.136574+00:00
+ - user: None
+ - tags: ['diablo']
+
+## The Backend to Build Anything or Everything | Directus
+ - [https://directus.io](https://directus.io)
+ - date published: 2023-10-25T19:41:31.635966+00:00
+ - user: None
+ - tags: []
+
+## Discipline.io
+ - [https://discipline.io](https://discipline.io)
+ - date published: 2023-10-25T19:41:34.208367+00:00
+ - user: None
+ - tags: []
+
+## DKB
+ - [https://dkb.io](https://dkb.io)
+ - date published: 2023-10-25T19:41:35.635759+00:00
+ - user: None
+ - tags: ['blog', 'personal', 'dead internet']
+
+## Welcome – dominikbraun.io
+ - [https://dominikbraun.io](https://dominikbraun.io)
+ - date published: 2023-10-25T19:41:36.355907+00:00
+ - user: None
+ - tags: []
+
+## dpk
+ - [http://dpk.io](http://dpk.io)
+ - date published: 2023-10-25T19:41:36.809597+00:00
+ - user: None
+ - tags: []
+
+## Dragonfly - The Fastest In-Memory Data Store
+ - [https://dragonflydb.io](https://dragonflydb.io)
+ - date published: 2023-10-25T19:41:38.376089+00:00
+ - user: None
+ - tags: []
+
+## Dragonfly - The Fastest In-Memory Data Store
+ - [https://www.dragonflydb.io](https://www.dragonflydb.io)
+ - date published: 2023-10-25T19:41:38.968543+00:00
+ - user: None
+ - tags: []
+
+## Minetest for the Web
+ - [https://minetest.dustlabs.io](https://minetest.dustlabs.io)
+ - date published: 2023-10-25T19:41:39.853096+00:00
+ - user: None
+ - tags: []
+
+## eGPU.io | External Graphics Card Community
+ - [https://egpu.io](https://egpu.io)
+ - date published: 2023-10-25T19:41:43.768453+00:00
+ - user: None
+ - tags: []
+
+## Home | Oliver Eidel
+ - [https://www.eidel.io](https://www.eidel.io)
+ - date published: 2023-10-25T19:41:45.111372+00:00
+ - user: None
+ - tags: []
+
+## eitherway - A Story to my Start-Up
+ - [https://eitherway.io](https://eitherway.io)
+ - date published: 2023-10-25T19:41:45.822044+00:00
+ - user: None
+ - tags: []
+
+## Element | Secure collaboration and messaging
+ - [https://element.io](https://element.io)
+ - date published: 2023-10-25T19:41:47.032259+00:00
+ - user: None
+ - tags: []
+
+## elementary Blog
+ - [https://blog.elementary.io](https://blog.elementary.io)
+ - date published: 2023-10-25T19:41:52.719369+00:00
+ - user: None
+ - tags: []
+
+## The thoughtful, capable, and ethical replacement for Windows and macOS ⋅ elementary OS
+ - [https://elementary.io](https://elementary.io)
+ - date published: 2023-11-06T10:12:43.278462+00:00
+ - user: None
+ - tags: ['linux', 'operating system']
+
+## https://beta.elevenlabs.io
+ - [https://beta.elevenlabs.io](https://beta.elevenlabs.io)
+ - date published: 2023-10-25T19:41:58.716242+00:00
+ - user: None
+ - tags: []
+
+## ElevenLabs | Blog
+ - [https://blog.elevenlabs.io](https://blog.elevenlabs.io)
+ - date published: 2023-10-25T19:42:00.359950+00:00
+ - user: None
+ - tags: []
+
 ## https://elevenlabs.io
  - [https://elevenlabs.io](https://elevenlabs.io)
  - date published: 2023-10-25T19:42:00.993836+00:00
@@ -637,6 +847,12 @@
 ## CoTracker: It is Better to Track Together
  - [https://co-tracker.github.io](https://co-tracker.github.io)
  - date published: 2023-10-25T19:44:42.584023+00:00
+ - user: None
+ - tags: []
+
+## Patai Gergely
+ - [https://cobbpg.github.io](https://cobbpg.github.io)
+ - date published: 2023-11-16T00:32:47.215451+00:00
  - user: None
  - tags: []
 
@@ -4692,6 +4908,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
+## /dev/knill
+ - [https://zknill.io](https://zknill.io)
+ - date published: 2023-11-16T16:03:25.433854+00:00
+ - user: None
+ - tags: []
+
 ## Home | Znote blog
  - [https://blog.znote.io](https://blog.znote.io)
  - date published: 2023-10-25T20:13:14.658258+00:00
@@ -5777,227 +5999,4 @@ End-to-end typesafe APIs made easy. | tRPC
  - date published: 2023-11-01T08:43:49.291657+00:00
  - user: None
  - tags: []
-
-## Home
- - [https://cdoyle.me](https://cdoyle.me)
- - date published: 2023-10-25T08:59:38.960966+00:00
- - user: None
- - tags: ['personal']
-
-## Chris Hannah
- - [https://chrishannah.me](https://chrishannah.me)
- - date published: 2023-10-25T08:59:40.123667+00:00
- - user: None
- - tags: ['personal']
-
-## Contexto
- - [https://contexto.me](https://contexto.me)
- - date published: 2023-10-25T20:19:47.355902+00:00
- - user: None
- - tags: []
-
-## Dan Palmer
- - [https://danpalmer.me](https://danpalmer.me)
- - date published: 2023-10-25T08:59:41.122925+00:00
- - user: None
- - tags: ['personal']
-
-## Dan Q – Personal blog of Dan Q: hacker, magician, geocacher, gamer…
- - [https://danq.me](https://danq.me)
- - date published: 2023-10-25T20:19:51.222809+00:00
- - user: None
- - tags: []
-
-## Marc Garcia - datapythonista - data engineer, data scientist and pandas core developer
- - [https://datapythonista.me](https://datapythonista.me)
- - date published: 2023-10-25T20:19:53.271359+00:00
- - user: None
- - tags: []
-
-## decomp.me
- - [https://decomp.me](https://decomp.me)
- - date published: 2023-10-25T20:19:55.795742+00:00
- - user: None
- - tags: []
-
-## Dimensional - A personality test to get to know yourself and your friends
- - [https://www.dimensional.me](https://www.dimensional.me)
- - date published: 2023-10-25T20:19:58.970410+00:00
- - user: None
- - tags: []
-
-## dlaa.me - David Anson
- - [https://dlaa.me](https://dlaa.me)
- - date published: 2023-10-25T09:22:08.811953+00:00
- - user: None
- - tags: ['personal']
-
-## Doumer's Blog
- - [https://doumer.me](https://doumer.me)
- - date published: 2023-10-25T09:22:18.056619+00:00
- - user: None
- - tags: ['personal']
-
-## Drshika Asher | Drshika Asher’s Personal Website
- - [https://drshika.me](https://drshika.me)
- - date published: 2023-10-25T09:22:19.272169+00:00
- - user: None
- - tags: ['personal']
-
-## Ed | Dev -  Software Development Author
- - [https://www.edfreitas.me](https://www.edfreitas.me)
- - date published: 2023-10-25T08:59:43.609564+00:00
- - user: None
- - tags: ['personal']
-
-## Play classic video games on your computer or mobile device | Emuparadise
- - [https://www.emuparadise.me](https://www.emuparadise.me)
- - date published: 2023-10-25T11:10:19.645543+00:00
- - user: None
- - tags: ['emulation']
-
-## Ernestas
- - [https://ernestas.me](https://ernestas.me)
- - date published: 2023-10-25T20:20:00.836610+00:00
- - user: None
- - tags: []
-
-## Eryn Rachel Wells
- - [https://erynwells.me](https://erynwells.me)
- - date published: 2023-10-25T09:22:20.359282+00:00
- - user: None
- - tags: ['personal']
-
-## Daudix UFO
- - [https://daudix.exozy.me](https://daudix.exozy.me)
- - date published: 2023-10-25T20:20:02.919781+00:00
- - user: None
- - tags: []
-
-## fasterthanli.me
- - [https://fasterthanli.me](https://fasterthanli.me)
- - date published: 2023-10-25T20:20:05.358338+00:00
- - user: None
- - tags: []
-
-## fhur
- - [https://fhur.me](https://fhur.me)
- - date published: 2023-10-25T08:50:23.592020+00:00
- - user: None
- - tags: ['personal']
-
-## fogus: Send More Paramedics
- - [https://blog.fogus.me](https://blog.fogus.me)
- - date published: 2023-10-25T20:20:10.304773+00:00
- - user: None
- - tags: []
-
-## Home - Geoff Graham
- - [https://geoffgraham.me](https://geoffgraham.me)
- - date published: 2023-10-25T08:50:25.138457+00:00
- - user: None
- - tags: ['personal']
-
-## Hex Triplet Words
- - [https://hex-triplet-words.glitch.me](https://hex-triplet-words.glitch.me)
- - date published: 2023-10-25T20:20:13.574717+00:00
- - user: None
- - tags: []
-
-## Wobbly clock!
- - [https://wobble-clock.glitch.me](https://wobble-clock.glitch.me)
- - date published: 2023-10-25T20:20:15.928891+00:00
- - user: None
- - tags: []
-
-## GPTZero | The Trusted AI Detector for ChatGPT, GPT-4, & More
- - [https://gptzero.me](https://gptzero.me)
- - date published: 2023-10-25T20:20:17.993202+00:00
- - user: None
- - tags: []
-
-## Hajo Nils Krabbenhöft
- - [https://hajo.me](https://hajo.me)
- - date published: 2023-10-25T08:59:44.463447+00:00
- - user: None
- - tags: ['personal']
-
-## Holy-Elie Scaide's Notes
- - [https://hescaide.me](https://hescaide.me)
- - date published: 2023-10-25T08:50:26.162093+00:00
- - user: None
- - tags: ['personal']
-
-## Hynek Schlawack
- - [https://hynek.me](https://hynek.me)
- - date published: 2023-10-25T08:50:26.973911+00:00
- - user: None
- - tags: ['personal']
-
-## Planner and calendar for reMarkable, Supernote, Kindle Scribe, and more
- - [https://hyperpaper.me](https://hyperpaper.me)
- - date published: 2023-10-25T20:20:20.003623+00:00
- - user: None
- - tags: []
-
-## Squarespace - Website Expired
- - [https://www.jakso.me](https://www.jakso.me)
- - date published: 2023-10-25T20:20:20.791103+00:00
- - user: None
- - tags: []
-
-## Juncheng Yang's website
- - [https://jasony.me](https://jasony.me)
- - date published: 2023-10-25T08:50:28.528054+00:00
- - user: None
- - tags: ['personal']
-
-## jfhr's blog
- - [https://jfhr.me](https://jfhr.me)
- - date published: 2023-10-25T08:59:45.249417+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Joost Jansen
- - [https://joostjansen.me](https://joostjansen.me)
- - date published: 2023-10-25T20:20:26.328305+00:00
- - user: None
- - tags: []
-
-## Josh Anderson
- - [https://joshanderson.me](https://joshanderson.me)
- - date published: 2023-10-25T08:50:31.529094+00:00
- - user: None
- - tags: ['personal']
-
-## HN - Recommendation
- - [https://hn-recommend.julienc.me](https://hn-recommend.julienc.me)
- - date published: 2023-10-25T20:20:26.855778+00:00
- - user: None
- - tags: []
-
-## Jamie Tanna | Software Engineer
- · Jamie Tanna | Software Engineer
- - [https://www.jvt.me](https://www.jvt.me)
- - date published: 2023-10-25T08:50:33.488748+00:00
- - user: None
- - tags: ['personal']
-
-## Index | katafrakt's garden
- - [https://katafrakt.me](https://katafrakt.me)
- - date published: 2023-10-25T08:50:34.441819+00:00
- - user: None
- - tags: ['personal']
-
-## Modern Web Development with Chrome
- - [https://paul.kinlan.me](https://paul.kinlan.me)
- - date published: 2023-10-25T20:20:27.860589+00:00
- - user: None
- - tags: []
-
-## Klafyvel's personal page
- - [https://klafyvel.me](https://klafyvel.me)
- - date published: 2023-10-25T08:50:35.431083+00:00
- - user: None
- - tags: ['personal']
 

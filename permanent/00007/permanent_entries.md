@@ -1,3 +1,141 @@
+## Syntopikon | Substack
+ - [https://syntopikon.substack.com](https://syntopikon.substack.com)
+ - date published: 2023-10-25T10:05:00.115504+00:00
+ - user: None
+ - tags: ['substack']
+
+## Systems Approach | Bruce Davie | Substack
+ - [https://systemsapproach.substack.com](https://systemsapproach.substack.com)
+ - date published: 2023-10-25T10:05:02.967943+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Technically Challenged Newsletter | Jesse | Substack
+ - [https://technicallychallenged.substack.com](https://technicallychallenged.substack.com)
+ - date published: 2023-10-25T10:05:10.127902+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Reactionary | Techno Fog | Substack
+ - [https://technofog.substack.com](https://technofog.substack.com)
+ - date published: 2023-10-25T10:05:12.420026+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Honest Broker | Ted Gioia | Substack
+ - [https://tedgioia.substack.com](https://tedgioia.substack.com)
+ - date published: 2023-10-25T10:05:14.471020+00:00
+ - user: None
+ - tags: ['substack']
+
+## Hope For Film | Ted Hope | Substack
+ - [https://tedhope.substack.com](https://tedhope.substack.com)
+ - date published: 2023-10-25T10:05:16.815969+00:00
+ - user: None
+ - tags: ['substack']
+
+## Textual Variations | Mikhail Skoptsov | Substack
+ - [https://textualvariations.substack.com](https://textualvariations.substack.com)
+ - date published: 2023-10-25T10:05:24.832937+00:00
+ - user: None
+ - tags: ['substack']
+
+## The AI Report | Substack
+ - [https://theaireport.substack.com](https://theaireport.substack.com)
+ - date published: 2023-10-25T10:05:28.121557+00:00
+ - user: None
+ - tags: ['substack']
+
+## The AI Underwriter | Otakar G. Hubschmann | Substack
+ - [https://theaiunderwriter.substack.com](https://theaiunderwriter.substack.com)
+ - date published: 2023-10-25T10:05:29.847109+00:00
+ - user: None
+ - tags: ['substack']
+
+## The AP (Alex Pareene) Newsletter | Substack
+ - [http://theap.substack.com](http://theap.substack.com)
+ - date published: 2023-10-25T10:05:32.575961+00:00
+ - user: None
+ - tags: ['substack']
+
+## JR’s Newsletter | Substack
+ - [http://thebuilderjr.substack.com](http://thebuilderjr.substack.com)
+ - date published: 2023-10-25T10:05:34.411774+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Chip Letter | Babbage | Substack
+ - [https://thechipletter.substack.com](https://thechipletter.substack.com)
+ - date published: 2023-10-25T10:05:37.013524+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Climate Brink | Andrew Dessler | Substack
+ - [https://theclimatebrink.substack.com](https://theclimatebrink.substack.com)
+ - date published: 2023-10-25T10:05:41.214841+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Column  | Adam Johnson | Substack
+ - [https://thecolumn.substack.com](https://thecolumn.substack.com)
+ - date published: 2023-10-25T10:05:48.708696+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Convivial Society | L. M. Sacasas | Substack
+ - [http://theconvivialsociety.substack.com](http://theconvivialsociety.substack.com)
+ - date published: 2023-10-25T10:05:50.863086+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Egg And The Rock | Julian Gough | Substack
+ - [http://theeggandtherock.substack.com](http://theeggandtherock.substack.com)
+ - date published: 2023-10-25T10:05:55.551572+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Exit Game | Mujavid Bukhari | Substack
+ - [http://theexitgame.substack.com](http://theexitgame.substack.com)
+ - date published: 2023-10-25T10:05:57.330614+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Gauntlet | Julia Doubleday | Substack
+ - [https://thegauntlet.substack.com](https://thegauntlet.substack.com)
+ - date published: 2023-10-25T10:05:59.859496+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Handbasket | Marisa Kabas | Substack
+ - [https://thehandbasket.substack.com](https://thehandbasket.substack.com)
+ - date published: 2023-10-25T10:06:03.171125+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Macro Compass | Alfonso Peccatiello (Alf) | Substack
+ - [http://themacrocompass.substack.com](http://themacrocompass.substack.com)
+ - date published: 2023-10-25T10:06:06.324400+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Rationalist | Petra | Substack
+ - [https://therationalist.substack.com](https://therationalist.substack.com)
+ - date published: 2023-10-25T10:06:07.569258+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Rectangle | Callum Booth | Substack
+ - [http://therectangle.substack.com](http://therectangle.substack.com)
+ - date published: 2023-10-25T10:06:10.629585+00:00
+ - user: None
+ - tags: ['substack']
+
+## TheSequence | Jesus Rodriguez | Substack
+ - [http://thesequence.substack.com](http://thesequence.substack.com)
+ - date published: 2023-10-25T10:06:18.657064+00:00
+ - user: None
+ - tags: ['substack']
+
 ## The Why Axis | Christopher Ingraham | Substack
  - [http://thewhyaxis.substack.com](http://thewhyaxis.substack.com)
  - date published: 2023-10-25T10:06:20.791472+00:00
@@ -3024,6 +3162,12 @@
  - user: None
  - tags: []
 
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://timtesluck.com](https://timtesluck.com)
+ - date published: 2023-11-16T21:08:06.043609+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Buy and Sell DIY Hardware Products - Tindie
  - [https://www.tindie.com](https://www.tindie.com)
  - date published: 2023-10-25T17:43:02.164185+00:00
@@ -3071,6 +3215,18 @@
  - date published: 2023-10-25T17:43:21.793371+00:00
  - user: None
  - tags: []
+
+## draw my ui
+ - [https://makereal.tldraw.com](https://makereal.tldraw.com)
+ - date published: 2023-11-16T13:22:37.653367+00:00
+ - user: None
+ - tags: ['ui creator', 'online tool']
+
+## tldraw
+ - [https://tldraw.com](https://tldraw.com)
+ - date published: 2023-11-16T13:23:01.595371+00:00
+ - user: None
+ - tags: ['drawing', 'online tool']
 
 ## https://www.tlo.com
  - [https://www.tlo.com](https://www.tlo.com)
@@ -3810,7 +3966,7 @@
  - [https://tuta.com](https://tuta.com)
  - date published: 2023-11-14T11:08:15.033743+00:00
  - user: None
- - tags: []
+ - tags: ['privacy', 'email']
 
 ## Secure email: Tutanota free encrypted email.
  - [https://tutanota.com](https://tutanota.com)
@@ -4863,6 +5019,12 @@
  - user: None
  - tags: []
 
+## VictoriaNow | Victoria news and the stuff that matters
+ - [https://www.victorianow.com](https://www.victorianow.com)
+ - date published: 2023-11-16T08:28:10.924553+00:00
+ - user: None
+ - tags: []
+
 ## Nader Ouerdiane - Software Engineer
  - [https://www.vicyyn.com](https://www.vicyyn.com)
  - date published: 2023-11-13T00:40:41.668000+00:00
@@ -5405,6 +5567,12 @@
  - tags: []
 
 ## Home
+ - [https://www.wave3.com](https://www.wave3.com)
+ - date published: 2023-11-16T19:28:13.533348+00:00
+ - user: None
+ - tags: []
+
+## Home
  - [https://waveletbeam.com](https://waveletbeam.com)
  - date published: 2023-10-25T17:59:57.246144+00:00
  - user: None
@@ -5827,174 +5995,6 @@
 ## WiiLink
  - [https://www.wiilink24.com](https://www.wiilink24.com)
  - date published: 2023-10-25T18:04:45.747440+00:00
- - user: None
- - tags: []
-
-## WikiBinge: Discover how all things are vaguely connected.
- - [https://www.wikibinge.com](https://www.wikibinge.com)
- - date published: 2023-10-25T18:04:47.548936+00:00
- - user: None
- - tags: []
-
-## Wikipedia Speedruns!
- - [https://wikispeedruns.com](https://wikispeedruns.com)
- - date published: 2023-10-25T18:04:54.204112+00:00
- - user: None
- - tags: []
-
-## Billy Wilcosky
- - [https://www.wilcosky.com](https://www.wilcosky.com)
- - date published: 2023-10-25T18:05:03.137920+00:00
- - user: None
- - tags: []
-
-## Wildbit: Building a people-first business | Wildbit
- - [https://wildbit.com](https://wildbit.com)
- - date published: 2023-10-25T18:05:13.348290+00:00
- - user: None
- - tags: []
-
-## What is a Wildcard? | Robert Merki
- - [https://wildcardpeople.com](https://wildcardpeople.com)
- - date published: 2023-10-25T18:05:20.188372+00:00
- - user: None
- - tags: []
-
-## https://agsjournals.onlinelibrary.wiley.com
- - [https://agsjournals.onlinelibrary.wiley.com](https://agsjournals.onlinelibrary.wiley.com)
- - date published: 2023-11-08T12:11:17.951453+00:00
- - user: None
- - tags: []
-
-## https://agupubs.onlinelibrary.wiley.com
- - [https://agupubs.onlinelibrary.wiley.com](https://agupubs.onlinelibrary.wiley.com)
- - date published: 2023-10-25T18:05:22.087600+00:00
- - user: None
- - tags: []
-
-## https://alz-journals.onlinelibrary.wiley.com
- - [https://alz-journals.onlinelibrary.wiley.com](https://alz-journals.onlinelibrary.wiley.com)
- - date published: 2023-10-25T18:05:29.978998+00:00
- - user: None
- - tags: []
-
-## https://bpspsychub.onlinelibrary.wiley.com
- - [https://bpspsychub.onlinelibrary.wiley.com](https://bpspsychub.onlinelibrary.wiley.com)
- - date published: 2023-10-31T19:09:57.335556+00:00
- - user: None
- - tags: []
-
-## https://compass.onlinelibrary.wiley.com
- - [https://compass.onlinelibrary.wiley.com](https://compass.onlinelibrary.wiley.com)
- - date published: 2023-10-25T18:05:30.278884+00:00
- - user: None
- - tags: []
-
-## https://febs.onlinelibrary.wiley.com
- - [https://febs.onlinelibrary.wiley.com](https://febs.onlinelibrary.wiley.com)
- - date published: 2023-10-25T18:05:30.579131+00:00
- - user: None
- - tags: []
-
-## https://myscp.onlinelibrary.wiley.com
- - [https://myscp.onlinelibrary.wiley.com](https://myscp.onlinelibrary.wiley.com)
- - date published: 2023-11-07T02:17:31.388440+00:00
- - user: None
- - tags: []
-
-## https://onlinelibrary.wiley.com
- - [https://onlinelibrary.wiley.com](https://onlinelibrary.wiley.com)
- - date published: 2023-10-25T18:05:35.898602+00:00
- - user: None
- - tags: []
-
-## https://physoc.onlinelibrary.wiley.com
- - [https://physoc.onlinelibrary.wiley.com](https://physoc.onlinelibrary.wiley.com)
- - date published: 2023-11-12T06:59:06.705475+00:00
- - user: None
- - tags: []
-
-## https://srcd.onlinelibrary.wiley.com
- - [https://srcd.onlinelibrary.wiley.com](https://srcd.onlinelibrary.wiley.com)
- - date published: 2023-10-25T18:05:36.256171+00:00
- - user: None
- - tags: []
-
-## posts
- - [https://will-keleher.com](https://will-keleher.com)
- - date published: 2023-10-25T18:05:37.139130+00:00
- - user: None
- - tags: []
-
-## Will Brownsberger – STATE SENATOR
- - [https://willbrownsberger.com](https://willbrownsberger.com)
- - date published: 2023-10-25T18:05:47.473903+00:00
- - user: None
- - tags: []
-
-## Will DePue
- - [https://blog.willdepue.com](https://blog.willdepue.com)
- - date published: 2023-10-25T18:05:49.001502+00:00
- - user: None
- - tags: []
-
-## Willem Laurentz Middelkoop
- - [https://willem.com](https://willem.com)
- - date published: 2023-11-14T16:19:39.927104+00:00
- - user: None
- - tags: []
-
-## Will Hackett
- - [https://notes.willhackett.com](https://notes.willhackett.com)
- - date published: 2023-10-25T18:05:50.791703+00:00
- - user: None
- - tags: []
-
-## Welcome to all those learning Haskell | William Yao
- - [https://williamyaoh.com](https://williamyaoh.com)
- - date published: 2023-10-25T18:05:52.874728+00:00
- - user: None
- - tags: []
-
-## Where there is a Will
- - [https://www.willmcgugan.com](https://www.willmcgugan.com)
- - date published: 2023-10-25T18:05:57.116791+00:00
- - user: None
- - tags: []
-
-## Will Robots Take My Job?
- - [https://willrobotstakemyjob.com](https://willrobotstakemyjob.com)
- - date published: 2023-10-27T10:59:41.287959+00:00
- - user: None
- - tags: ['artificial intelligence', 'wtf']
-
-## Wimpy's World
- - [https://wimpysworld.com](https://wimpysworld.com)
- - date published: 2023-10-25T18:05:58.887304+00:00
- - user: None
- - tags: []
-
-## Win Vector LLC – Data science advising, consulting, and training
- - [https://win-vector.com](https://win-vector.com)
- - date published: 2023-10-25T18:06:02.876087+00:00
- - user: None
- - tags: []
-
-## https://forums.winamp.com
- - [https://forums.winamp.com](https://forums.winamp.com)
- - date published: 2023-10-25T18:06:05.343618+00:00
- - user: None
- - tags: []
-
-## The ultimate music machine empowering listeners, creators and fans - Winamp
- - [https://www.winamp.com](https://www.winamp.com)
- - date published: 2023-11-01T08:43:27.866000+00:00
- - user: None
- - tags: []
-
-## Window-swap – open a new window somewhere in the world
- - [https://www.window-swap.com](https://www.window-swap.com)
- - date published: 2023-11-02T01:16:22+00:00
  - user: None
  - tags: []
 

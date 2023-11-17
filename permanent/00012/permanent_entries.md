@@ -1,3 +1,231 @@
+## the morning paper | a random walk through Computer Science research, by Adrian Colyer
+ - [https://blog.acolyer.org](https://blog.acolyer.org)
+ - date published: 2023-10-25T20:54:28.113947+00:00
+ - user: None
+ - tags: []
+
+## https://www.acpjournals.org
+ - [https://www.acpjournals.org](https://www.acpjournals.org)
+ - date published: 2023-10-25T20:54:28.582674+00:00
+ - user: None
+ - tags: []
+
+## C&EN | Chemistry news from around the world
+ - [http://cen.acs.org](http://cen.acs.org)
+ - date published: 2023-10-25T20:54:31.476472+00:00
+ - user: None
+ - tags: []
+
+## https://pubs.acs.org
+ - [https://pubs.acs.org](https://pubs.acs.org)
+ - date published: 2023-10-25T20:54:31.739169+00:00
+ - user: None
+ - tags: []
+
+## American Chemical Society
+ - [https://www.acs.org](https://www.acs.org)
+ - date published: 2023-10-25T20:54:33.698417+00:00
+ - user: None
+ - tags: []
+
+## American Council on Science and Health |
+ - [https://www.acsh.org](https://www.acsh.org)
+ - date published: 2023-10-25T20:54:38.389591+00:00
+ - user: None
+ - tags: []
+
+## Adblock Plus | The world's #1 free ad blocker
+ - [https://adblockplus.org](https://adblockplus.org)
+ - date published: 2023-11-01T08:44:08.907697+00:00
+ - user: None
+ - tags: []
+
+## Adblock Plus and (a little) more
+ - [https://blog.adblockplus.org](https://blog.adblockplus.org)
+ - date published: 2023-11-01T08:44:10.579602+00:00
+ - user: None
+ - tags: []
+
+## ADHD Evidence Project
+ - [https://www.adhdevidence.org](https://www.adhdevidence.org)
+ - date published: 2023-10-25T20:54:40.433717+00:00
+ - user: None
+ - tags: []
+
+## Homepage ORG | ADL
+ - [https://www.adl.org](https://www.adl.org)
+ - date published: 2023-10-25T11:25:00.786315+00:00
+ - user: None
+ - tags: []
+
+## American Economic Association
+ - [https://www.aeaweb.org](https://www.aeaweb.org)
+ - date published: 2023-10-25T20:54:42.266806+00:00
+ - user: None
+ - tags: []
+
+## American Enterprise Institute - AEI | The American Enterprise Institute, AEI, is a nonpartisan public policy research institute with a community of scholars and supporters committed to expanding liberty, increasing individual opportunity and strengthening free enterprise.
+ - [https://www.aei.org](https://www.aei.org)
+ - date published: 2023-10-25T20:54:50.144785+00:00
+ - user: None
+ - tags: []
+
+## aerc - a pretty good email client
+ - [https://aerc-mail.org](https://aerc-mail.org)
+ - date published: 2023-10-25T20:54:51.165477+00:00
+ - user: None
+ - tags: []
+
+## Home | The Aerospace Corporation
+ - [https://aerospace.org](https://aerospace.org)
+ - date published: 2023-10-25T20:54:52.323717+00:00
+ - user: None
+ - tags: []
+
+## Home | American Foundation for the Blind
+ - [https://www.afb.org](https://www.afb.org)
+ - date published: 2023-10-25T20:54:54.541993+00:00
+ - user: None
+ - tags: []
+
+## AFCEA International | AFCEA International
+ - [https://www.afcea.org](https://www.afcea.org)
+ - date published: 2023-10-25T20:54:58.723737+00:00
+ - user: None
+ - tags: []
+
+## American Friends Musées d'Orsay et de l'Orangerie
+ - [https://aforsay.org](https://aforsay.org)
+ - date published: 2023-11-13T13:48:20.528443+00:00
+ - user: None
+ - tags: ['museum']
+
+## A Social Front Organization
+ - [https://social.afront.org](https://social.afront.org)
+ - date published: 2023-10-25T20:55:00.121595+00:00
+ - user: None
+ - tags: []
+
+## Agentscript: agent based modeling in the browser
+ - [https://agentscript.org](https://agentscript.org)
+ - date published: 2023-10-25T20:55:01.985709+00:00
+ - user: None
+ - tags: []
+
+## AGU Newsroom - AGU Newsroom
+ - [https://news.agu.org](https://news.agu.org)
+ - date published: 2023-10-25T20:55:04.762063+00:00
+ - user: None
+ - tags: []
+
+## AIER | American Institute for Economic Research
+ - [https://www.aier.org](https://www.aier.org)
+ - date published: 2023-10-25T20:55:07.515677+00:00
+ - user: None
+ - tags: []
+
+## Eye on Design – AIGA Eye on Design
+ - [https://eyeondesign.aiga.org](https://eyeondesign.aiga.org)
+ - date published: 2023-10-25T20:55:10.704075+00:00
+ - user: None
+ - tags: []
+
+## Physical Science Publishing - AIP Publishing LLC
+ - [https://publishing.aip.org](https://publishing.aip.org)
+ - date published: 2023-10-25T20:55:13.345986+00:00
+ - user: None
+ - tags: []
+
+## AIP Publishing
+ - [https://pubs.aip.org](https://pubs.aip.org)
+ - date published: 2023-10-25T20:55:20.450014+00:00
+ - user: None
+ - tags: []
+
+## https://blog.akatz.org
+ - [https://blog.akatz.org](https://blog.akatz.org)
+ - date published: 2023-10-25T20:55:21.266459+00:00
+ - user: None
+ - tags: []
+
+## Aleteia Polska
+ - [https://pl.aleteia.org](https://pl.aleteia.org)
+ - date published: 2023-10-25T20:55:31.908312+00:00
+ - user: None
+ - tags: []
+
+## Alexandru Nedelcu - On programming and personal projects
+ - [https://alexn.org](https://alexn.org)
+ - date published: 2023-10-25T20:55:32.922079+00:00
+ - user: None
+ - tags: []
+
+## Algorithmica
+ - [https://algorithmica.org](https://algorithmica.org)
+ - date published: 2023-10-25T20:55:33.448638+00:00
+ - user: None
+ - tags: []
+
+## Algorithmica
+ - [https://en.algorithmica.org](https://en.algorithmica.org)
+ - date published: 2023-10-25T20:55:34.160164+00:00
+ - user: None
+ - tags: []
+
+## Algorithmic Botany: Home
+ - [http://algorithmicbotany.org](http://algorithmicbotany.org)
+ - date published: 2023-10-25T20:55:35.655600+00:00
+ - user: None
+ - tags: []
+
+## AI Alignment Forum
+ - [https://www.alignmentforum.org](https://www.alignmentforum.org)
+ - date published: 2023-10-25T20:55:41.600420+00:00
+ - user: None
+ - tags: []
+
+## Allen Institute - Unlocking the Mysteries of Us
+ - [https://alleninstitute.org](https://alleninstitute.org)
+ - date published: 2023-10-25T20:55:43.644922+00:00
+ - user: None
+ - tags: []
+
+## Alliance of Democracies
+ - [https://www.allianceofdemocracies.org](https://www.allianceofdemocracies.org)
+ - date published: 2023-10-25T20:55:45.299398+00:00
+ - user: None
+ - tags: []
+
+## Alloy Artifacts Tool History Page
+ - [http://alloy-artifacts.org](http://alloy-artifacts.org)
+ - date published: 2023-10-25T20:55:48.932219+00:00
+ - user: None
+ - tags: []
+
+## AlmaLinux OS - Forever-Free Enterprise-Grade Operating System
+ - [https://almalinux.org](https://almalinux.org)
+ - date published: 2023-10-25T20:55:50.368364+00:00
+ - user: None
+ - tags: []
+
+## Alpha Galileo |  alphagalileo.org
+ - [https://www.alphagalileo.org](https://www.alphagalileo.org)
+ - date published: 2023-10-25T20:55:53.089379+00:00
+ - user: None
+ - tags: []
+
+## http://www.alprofoundation.org
+ - [http://www.alprofoundation.org](http://www.alprofoundation.org)
+ - date published: 2023-10-25T20:55:55.673427+00:00
+ - user: None
+ - tags: []
+
+## Alternet.org
+ - [https://www.alternet.org](https://www.alternet.org)
+ - date published: 2023-10-25T20:56:03.811289+00:00
+ - user: None
+ - tags: []
+
 ## An IT guy corner: information and rant about modern operating systems: Windows 10, Windows 11, Linux, iOS and Android
  - [https://itvision.altervista.org](https://itvision.altervista.org)
  - date published: 2023-10-25T20:56:05.444671+00:00
@@ -5413,6 +5641,12 @@ Hosted by Panix.com.
  - user: None
  - tags: []
 
+## The L-Space Web - A Terry Pratchett / Discworld Web® Site
+ - [https://www.lspace.org](https://www.lspace.org)
+ - date published: 2023-11-16T07:01:44.475059+00:00
+ - user: None
+ - tags: []
+
 ## The Programming Language Lua
  - [https://www.lua.org](https://www.lua.org)
  - date published: 2023-10-25T21:39:44.587710+00:00
@@ -5770,244 +6004,6 @@ Hosted by Panix.com.
 ## Military Poisons | WILPF US
  - [https://www.militarypoisons.org](https://www.militarypoisons.org)
  - date published: 2023-10-25T21:42:31.932290+00:00
- - user: None
- - tags: []
-
-## Min | A fast, minimal browser that protects your privacy
- - [https://minbrowser.org](https://minbrowser.org)
- - date published: 2023-10-25T21:42:38.172126+00:00
- - user: None
- - tags: []
-
-## Minding The Campus — Reforming Our Universities
- - [https://www.mindingthecampus.org](https://www.mindingthecampus.org)
- - date published: 2023-10-25T21:42:55.312806+00:00
- - user: None
- - tags: []
-
-## Minecraft Servers | Minecraft Server List
- - [https://minecraftservers.org](https://minecraftservers.org)
- - date published: 2023-10-25T11:18:19.441515+00:00
- - user: None
- - tags: []
-
-## MineDojo | Building Open-Ended Embodied Agents with
-        Internet-Scale Knowledge
- - [https://minedojo.org](https://minedojo.org)
- - date published: 2023-10-25T21:42:57.598309+00:00
- - user: None
- - tags: []
-
-## Voyager | An Open-Ended Embodied Agent with Large Language Models
- - [https://voyager.minedojo.org](https://voyager.minedojo.org)
- - date published: 2023-10-25T21:43:00.475854+00:00
- - user: None
- - tags: []
-
-## MinGW-w64
- - [https://www.mingw-w64.org](https://www.mingw-w64.org)
- - date published: 2023-10-30T14:03:46.137119+00:00
- - user: None
- - tags: ['open source']
-
-## Minidisc Community Portal
- - [https://www.minidisc.org](https://www.minidisc.org)
- - date published: 2023-10-25T21:43:02.864383+00:00
- - user: None
- - tags: []
-
-## Manifesto for Minimalist Software Engineers | Minifesto.org
- - [http://minifesto.org](http://minifesto.org)
- - date published: 2023-10-25T21:43:06.254953+00:00
- - user: None
- - tags: []
-
-## Minifree Ltd – GNU+Linux laptops with Libreboot preinstalled, based on coreboot
- - [https://minifree.org](https://minifree.org)
- - date published: 2023-10-25T21:43:09.325144+00:00
- - user: None
- - tags: []
-
-## We champion the writer in every child - Ministry of Stories
- - [https://ministryofstories.org](https://ministryofstories.org)
- - date published: 2023-10-30T10:55:17.609587+00:00
- - user: None
- - tags: ['community']
-
-## git.minix3.org Git
- - [https://git.minix3.org](https://git.minix3.org)
- - date published: 2023-10-25T21:43:12.370760+00:00
- - user: None
- - tags: []
-
-## MiniZinc
- - [https://www.minizinc.org](https://www.minizinc.org)
- - date published: 2023-10-25T21:43:16.189696+00:00
- - user: None
- - tags: []
-
-## 100% free, ad-free wikis, request yours today! - Miraheze
- - [https://meta.miraheze.org](https://meta.miraheze.org)
- - date published: 2023-10-25T21:43:20.077625+00:00
- - user: None
- - tags: []
-
-## Mission Local: local news for a global city | San Francisco, CA
- - [https://missionlocal.org](https://missionlocal.org)
- - date published: 2023-10-25T21:43:31.496412+00:00
- - user: None
- - tags: []
-
-## MIT Admissions
- - [https://mitadmissions.org](https://mitadmissions.org)
- - date published: 2023-10-25T21:43:35.721118+00:00
- - user: None
- - tags: []
-
-## mitmproxy - an interactive HTTPS proxy
- - [https://mitmproxy.org](https://mitmproxy.org)
- - date published: 2023-10-25T21:43:42.450770+00:00
- - user: None
- - tags: []
-
-## CVE -
-
-CVE
- - [https://cve.mitre.org](https://cve.mitre.org)
- - date published: 2023-10-25T21:43:44.813392+00:00
- - user: None
- - tags: []
-
-## CWE - 
-Common Weakness Enumeration
- - [https://cwe.mitre.org](https://cwe.mitre.org)
- - date published: 2023-10-25T21:43:47.269871+00:00
- - user: None
- - tags: []
-
-## Maine Indian Tribal-State Commission
- - [https://www.mitsc.org](https://www.mitsc.org)
- - date published: 2023-11-07T15:22:54.544635+00:00
- - user: None
- - tags: []
-
-## Tom's Home Page
- - [http://cholla.mmto.org](http://cholla.mmto.org)
- - date published: 2023-10-27T12:06:43.535423+00:00
- - user: None
- - tags: []
-
-## Mobian's Blog
- - [https://blog.mobian.org](https://blog.mobian.org)
- - date published: 2023-10-25T21:44:05.166649+00:00
- - user: None
- - tags: []
-
-## The Mod Archive v4.0b - A distinctive collection of modules
- - [https://modarchive.org](https://modarchive.org)
- - date published: 2023-10-28T19:01:07.809021+00:00
- - user: None
- - tags: []
-
-## mojo.js - JavaScript real-time web framework
- - [https://mojojs.org](https://mojojs.org)
- - date published: 2023-10-25T21:44:11.865057+00:00
- - user: None
- - tags: []
-
-## https://www.moma.org
- - [https://www.moma.org](https://www.moma.org)
- - date published: 2023-10-25T21:44:12.528195+00:00
- - user: None
- - tags: []
-
-## Monkeynoodle.Org – A Scientific Venture!
- - [https://monkeynoodle.org](https://monkeynoodle.org)
- - date published: 2023-10-25T21:44:16.728817+00:00
- - user: None
- - tags: []
-
-## Monoskop
- - [https://monoskop.org](https://monoskop.org)
- - date published: 2023-11-07T15:23:03.904739+00:00
- - user: None
- - tags: []
-
-## Monthly Review | An Independent Socialist Magazine
- - [https://monthlyreview.org](https://monthlyreview.org)
- - date published: 2023-10-25T21:44:28.453577+00:00
- - user: None
- - tags: []
-
-## Home | Moodle.org
- - [https://moodle.org](https://moodle.org)
- - date published: 2023-10-25T21:44:33.671005+00:00
- - user: None
- - tags: []
-
-## In Event of Moon Disaster
- - [https://moondisaster.org](https://moondisaster.org)
- - date published: 2023-10-25T21:44:36.544360+00:00
- - user: None
- - tags: []
-
-## Home - Gordon and Betty Moore Foundation
- - [https://www.moore.org](https://www.moore.org)
- - date published: 2023-10-25T21:44:45.883763+00:00
- - user: None
- - tags: []
-
-## Mosh: the mobile shell
- - [https://mosh.org](https://mosh.org)
- - date published: 2023-10-25T21:44:49.078711+00:00
- - user: None
- - tags: []
-
-## Mount Washington Observatory - Mount Washington Observatory
- - [https://www.mountwashington.org](https://www.mountwashington.org)
- - date published: 2023-10-25T21:44:53.270678+00:00
- - user: None
- - tags: []
-
-## Movetodon: Find your Twitter Friends on Mastodon
- - [https://movetodon.org](https://movetodon.org)
- - date published: 2023-10-25T21:44:54.599883+00:00
- - user: None
- - tags: []
-
-## Moxie Marlinspike >> About
- - [https://moxie.org](https://moxie.org)
- - date published: 2023-10-25T21:44:56.078354+00:00
- - user: None
- - tags: []
-
-## Add-ons for Firefox (en-US)
- - [https://addons.mozilla.org](https://addons.mozilla.org)
- - date published: 2023-10-25T09:27:04.184973+00:00
- - user: None
- - tags: ['browser extensions']
-
-## Home - The Mozilla Blog
- - [https://blog.mozilla.org](https://blog.mozilla.org)
- - date published: 2023-10-25T09:27:06.601346+00:00
- - user: None
- - tags: []
-
-## Bugzilla Main Page
- - [https://bugzilla.mozilla.org](https://bugzilla.mozilla.org)
- - date published: 2023-10-25T09:27:16.128502+00:00
- - user: None
- - tags: []
-
-## MDN Web Docs
- - [https://developer.mozilla.org](https://developer.mozilla.org)
- - date published: 2023-10-25T09:27:17.722718+00:00
- - user: None
- - tags: []
-
-## Mozilla Foundation - Homepage
- - [https://foundation.mozilla.org](https://foundation.mozilla.org)
- - date published: 2023-10-25T09:27:19.580881+00:00
  - user: None
  - tags: []
 

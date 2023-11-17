@@ -1,3 +1,241 @@
+## Minding The Campus — Reforming Our Universities
+ - [https://www.mindingthecampus.org](https://www.mindingthecampus.org)
+ - date published: 2023-10-25T21:42:55.312806+00:00
+ - user: None
+ - tags: []
+
+## Minecraft Servers | Minecraft Server List
+ - [https://minecraftservers.org](https://minecraftservers.org)
+ - date published: 2023-10-25T11:18:19.441515+00:00
+ - user: None
+ - tags: []
+
+## MineDojo | Building Open-Ended Embodied Agents with
+        Internet-Scale Knowledge
+ - [https://minedojo.org](https://minedojo.org)
+ - date published: 2023-10-25T21:42:57.598309+00:00
+ - user: None
+ - tags: []
+
+## Voyager | An Open-Ended Embodied Agent with Large Language Models
+ - [https://voyager.minedojo.org](https://voyager.minedojo.org)
+ - date published: 2023-10-25T21:43:00.475854+00:00
+ - user: None
+ - tags: []
+
+## MinGW-w64
+ - [https://www.mingw-w64.org](https://www.mingw-w64.org)
+ - date published: 2023-10-30T14:03:46.137119+00:00
+ - user: None
+ - tags: ['open source']
+
+## Minidisc Community Portal
+ - [https://www.minidisc.org](https://www.minidisc.org)
+ - date published: 2023-10-25T21:43:02.864383+00:00
+ - user: None
+ - tags: []
+
+## Manifesto for Minimalist Software Engineers | Minifesto.org
+ - [http://minifesto.org](http://minifesto.org)
+ - date published: 2023-10-25T21:43:06.254953+00:00
+ - user: None
+ - tags: []
+
+## Minifree Ltd – GNU+Linux laptops with Libreboot preinstalled, based on coreboot
+ - [https://minifree.org](https://minifree.org)
+ - date published: 2023-10-25T21:43:09.325144+00:00
+ - user: None
+ - tags: []
+
+## We champion the writer in every child - Ministry of Stories
+ - [https://ministryofstories.org](https://ministryofstories.org)
+ - date published: 2023-10-30T10:55:17.609587+00:00
+ - user: None
+ - tags: ['community']
+
+## git.minix3.org Git
+ - [https://git.minix3.org](https://git.minix3.org)
+ - date published: 2023-10-25T21:43:12.370760+00:00
+ - user: None
+ - tags: []
+
+## MiniZinc
+ - [https://www.minizinc.org](https://www.minizinc.org)
+ - date published: 2023-10-25T21:43:16.189696+00:00
+ - user: None
+ - tags: []
+
+## 100% free, ad-free wikis, request yours today! - Miraheze
+ - [https://meta.miraheze.org](https://meta.miraheze.org)
+ - date published: 2023-10-25T21:43:20.077625+00:00
+ - user: None
+ - tags: []
+
+## Mission Local: local news for a global city | San Francisco, CA
+ - [https://missionlocal.org](https://missionlocal.org)
+ - date published: 2023-10-25T21:43:31.496412+00:00
+ - user: None
+ - tags: []
+
+## MIT Admissions
+ - [https://mitadmissions.org](https://mitadmissions.org)
+ - date published: 2023-10-25T21:43:35.721118+00:00
+ - user: None
+ - tags: []
+
+## mitmproxy - an interactive HTTPS proxy
+ - [https://mitmproxy.org](https://mitmproxy.org)
+ - date published: 2023-10-25T21:43:42.450770+00:00
+ - user: None
+ - tags: []
+
+## CVE -
+
+CVE
+ - [https://cve.mitre.org](https://cve.mitre.org)
+ - date published: 2023-10-25T21:43:44.813392+00:00
+ - user: None
+ - tags: []
+
+## CWE - 
+Common Weakness Enumeration
+ - [https://cwe.mitre.org](https://cwe.mitre.org)
+ - date published: 2023-10-25T21:43:47.269871+00:00
+ - user: None
+ - tags: []
+
+## Maine Indian Tribal-State Commission
+ - [https://www.mitsc.org](https://www.mitsc.org)
+ - date published: 2023-11-07T15:22:54.544635+00:00
+ - user: None
+ - tags: []
+
+## Tom's Home Page
+ - [http://cholla.mmto.org](http://cholla.mmto.org)
+ - date published: 2023-10-27T12:06:43.535423+00:00
+ - user: None
+ - tags: []
+
+## Mobian's Blog
+ - [https://blog.mobian.org](https://blog.mobian.org)
+ - date published: 2023-10-25T21:44:05.166649+00:00
+ - user: None
+ - tags: []
+
+## The Mod Archive v4.0b - A distinctive collection of modules
+ - [https://modarchive.org](https://modarchive.org)
+ - date published: 2023-10-28T19:01:07.809021+00:00
+ - user: None
+ - tags: []
+
+## mojo.js - JavaScript real-time web framework
+ - [https://mojojs.org](https://mojojs.org)
+ - date published: 2023-10-25T21:44:11.865057+00:00
+ - user: None
+ - tags: []
+
+## https://www.moma.org
+ - [https://www.moma.org](https://www.moma.org)
+ - date published: 2023-10-25T21:44:12.528195+00:00
+ - user: None
+ - tags: []
+
+## Monkeynoodle.Org – A Scientific Venture!
+ - [https://monkeynoodle.org](https://monkeynoodle.org)
+ - date published: 2023-10-25T21:44:16.728817+00:00
+ - user: None
+ - tags: []
+
+## Monoskop
+ - [https://monoskop.org](https://monoskop.org)
+ - date published: 2023-11-07T15:23:03.904739+00:00
+ - user: None
+ - tags: []
+
+## Monthly Review | An Independent Socialist Magazine
+ - [https://monthlyreview.org](https://monthlyreview.org)
+ - date published: 2023-10-25T21:44:28.453577+00:00
+ - user: None
+ - tags: []
+
+## Home | Moodle.org
+ - [https://moodle.org](https://moodle.org)
+ - date published: 2023-10-25T21:44:33.671005+00:00
+ - user: None
+ - tags: []
+
+## In Event of Moon Disaster
+ - [https://moondisaster.org](https://moondisaster.org)
+ - date published: 2023-10-25T21:44:36.544360+00:00
+ - user: None
+ - tags: []
+
+## Home - Gordon and Betty Moore Foundation
+ - [https://www.moore.org](https://www.moore.org)
+ - date published: 2023-10-25T21:44:45.883763+00:00
+ - user: None
+ - tags: []
+
+## Mosh: the mobile shell
+ - [https://mosh.org](https://mosh.org)
+ - date published: 2023-10-25T21:44:49.078711+00:00
+ - user: None
+ - tags: []
+
+## Mount Washington Observatory - Mount Washington Observatory
+ - [https://www.mountwashington.org](https://www.mountwashington.org)
+ - date published: 2023-10-25T21:44:53.270678+00:00
+ - user: None
+ - tags: []
+
+## Movetodon: Find your Twitter Friends on Mastodon
+ - [https://movetodon.org](https://movetodon.org)
+ - date published: 2023-10-25T21:44:54.599883+00:00
+ - user: None
+ - tags: []
+
+## Moxie Marlinspike >> About
+ - [https://moxie.org](https://moxie.org)
+ - date published: 2023-10-25T21:44:56.078354+00:00
+ - user: None
+ - tags: []
+
+## Add-ons for Firefox (en-US)
+ - [https://addons.mozilla.org](https://addons.mozilla.org)
+ - date published: 2023-10-25T09:27:04.184973+00:00
+ - user: None
+ - tags: ['browser extensions']
+
+## Home - The Mozilla Blog
+ - [https://blog.mozilla.org](https://blog.mozilla.org)
+ - date published: 2023-10-25T09:27:06.601346+00:00
+ - user: None
+ - tags: []
+
+## Bugzilla Main Page
+ - [https://bugzilla.mozilla.org](https://bugzilla.mozilla.org)
+ - date published: 2023-10-25T09:27:16.128502+00:00
+ - user: None
+ - tags: []
+
+## MDN Web Docs
+ - [https://developer.mozilla.org](https://developer.mozilla.org)
+ - date published: 2023-10-25T09:27:17.722718+00:00
+ - user: None
+ - tags: []
+
+## Mozilla Foundation - Homepage
+ - [https://foundation.mozilla.org](https://foundation.mozilla.org)
+ - date published: 2023-10-25T09:27:19.580881+00:00
+ - user: None
+ - tags: []
+
+## Innovations
+ - [https://future.mozilla.org](https://future.mozilla.org)
+ - date published: 2023-10-25T09:27:20.433592+00:00
+ - user: None
+ - tags: []
+
 ## Home - Mozilla Hacks - the Web developer blog
  - [https://hacks.mozilla.org](https://hacks.mozilla.org)
  - date published: 2023-10-25T09:27:22.380438+00:00
@@ -1679,6 +1917,12 @@
  - user: None
  - tags: []
 
+## Positive Atheism (since 1995) Join the Struggle Against Anti-Atheist Bigotry!
+ - [http://www.positiveatheism.org](http://www.positiveatheism.org)
+ - date published: 2023-11-16T12:21:04.148010+00:00
+ - user: None
+ - tags: []
+
 ## PostgresML | You know Postgres. Now you know machine learning
  - [https://postgresml.org](https://postgresml.org)
  - date published: 2023-10-25T21:59:00.170278+00:00
@@ -2752,6 +2996,12 @@
  - date published: 2023-10-25T22:07:58.320918+00:00
  - user: None
  - tags: []
+
+## sendaiben.org
+ - [https://sendaiben.org](https://sendaiben.org)
+ - date published: 2023-11-16T21:08:00.508002+00:00
+ - user: None
+ - tags: ['personal']
 
 ## www.sensi.org
  - [http://sensi.org](http://sensi.org)
@@ -4027,6 +4277,12 @@
  - user: None
  - tags: []
 
+## UNESCO : Building Peace through Education, Science and Culture, communication and information
+ - [https://www.unesco.org](https://www.unesco.org)
+ - date published: 2023-11-16T12:13:51.361275+00:00
+ - user: None
+ - tags: []
+
 ## UNHCR, the UN Refugee Agency | UNHCR
  - [https://www.unhcr.org](https://www.unhcr.org)
  - date published: 2023-11-07T18:14:19.052073+00:00
@@ -4138,6 +4394,12 @@
 ## Uyuni
  - [https://www.uyuni-project.org](https://www.uyuni-project.org)
  - date published: 2023-10-25T22:17:10.350047+00:00
+ - user: None
+ - tags: []
+
+## Van Andel Institute - Independent Biomedical Research Institute
+ - [https://www.vai.org](https://www.vai.org)
+ - date published: 2023-11-16T13:27:50.392681+00:00
  - user: None
  - tags: []
 
@@ -5145,6 +5407,12 @@ is forbidden
  - user: None
  - tags: ['government', 'healthcare']
 
+## Najwyższa Izba Kontroli
+ - [https://www.nik.gov.pl](https://www.nik.gov.pl)
+ - date published: 2023-11-16T16:54:09.383687+00:00
+ - user: None
+ - tags: []
+
 ## Portal Gov.pl
  - [https://www.gov.pl](https://www.gov.pl)
  - date published: 2023-10-25T22:25:05.025399+00:00
@@ -5730,272 +5998,6 @@ is forbidden
 ## Podatki - GazetaPrawna.pl - wiadomości, akcyza, CIT, PIT, VAT
  - [https://podatki.gazetaprawna.pl](https://podatki.gazetaprawna.pl)
  - date published: 2023-10-25T22:27:36.796232+00:00
- - user: None
- - tags: []
-
-## Serwisy Tematyczne- GazetaPrawna.pl
- - [https://serwisy.gazetaprawna.pl](https://serwisy.gazetaprawna.pl)
- - date published: 2023-10-25T22:27:40.688880+00:00
- - user: None
- - tags: []
-
-## GeekWeek w INTERIA.PL – technologie, nauka, lifestyle i podróże
- - [https://www.geekweek.pl](https://www.geekweek.pl)
- - date published: 2023-10-25T22:27:43.375194+00:00
- - user: None
- - tags: []
-
-## Game Exe :: Pillars of Eternity, Skyrim, Wiedźmin 3, Dragon Age: Inkwizycja, Mass Effect 3, cRPG, RPG, Fantasy
- - [https://gexe.pl](https://gexe.pl)
- - date published: 2023-10-27T13:52:06.302322+00:00
- - user: None
- - tags: ['game news']
-
-## GG - Lekki i Niezawodny Komunikator (d. Gadu-Gadu)
- - [https://www.gg.pl](https://www.gg.pl)
- - date published: 2023-10-25T13:22:16.410779+00:00
- - user: None
- - tags: ['social communicator']
-
-## Gry online - zagraj w darmowe gry na Giercownia.pl
- - [https://www.giercownia.pl](https://www.giercownia.pl)
- - date published: 2023-11-13T11:59:22.324826+00:00
- - user: None
- - tags: ['games']
-
-## Głos Wielkopolski - Wiadomości Poznań, Wiadomości Wielkopolska
- - [https://gloswielkopolski.pl](https://gloswielkopolski.pl)
- - date published: 2023-10-25T22:27:51.505382+00:00
- - user: None
- - tags: []
-
-## Tabletop, Board Games, Figure Games, Card Games and Model Accessories
- - [https://gnom-sklep.pl](https://gnom-sklep.pl)
- - date published: 2023-10-25T11:12:46.998303+00:00
- - user: None
- - tags: []
-
-## Google
- - [https://www.google.pl](https://www.google.pl)
- - date published: 2023-11-01T07:06:35.266786+00:00
- - user: None
- - tags: []
-
-## Darmowe gry – graj w gry online na gry.pl
- - [https://www.gry.pl](https://www.gry.pl)
- - date published: 2023-10-25T11:18:46.003977+00:00
- - user: None
- - tags: ['games']
-
-## Gry planszowe, karciane, na imprezę | Basanti - sklep Poznań
- - [https://gryplanszowe-basanti.pl](https://gryplanszowe-basanti.pl)
- - date published: 2023-11-01T18:54:38.033521+00:00
- - user: None
- - tags: ['card games', 'tabletop games', 'warhammer', 'shop', 'bilard games']
-
-## GTA Mods ZONE
- - [https://www.gta-mods.pl](https://www.gta-mods.pl)
- - date published: 2023-10-30T15:28:57.483148+00:00
- - user: None
- - tags: ['grand theft auto']
-
-## Przepisy wideo i porady kulinarne - Haps.pl
- - [https://haps.pl](https://haps.pl)
- - date published: 2023-10-25T22:28:03.313446+00:00
- - user: None
- - tags: []
-
-## Domeny, Hosting, Serwery WWW, Strony, Sklepy internetowe | home.pl
- - [https://home.pl](https://home.pl)
- - date published: 2023-10-25T08:26:47.726693+00:00
- - user: None
- - tags: ['hosting service']
-
-## Hubika.pl
- - [https://hubika.pl](https://hubika.pl)
- - date published: 2023-10-25T11:16:09.280790+00:00
- - user: None
- - tags: ['shop', 'electronics']
-
-## Portal i.pl - nowy portal informacyjny - i wiesz wszystko - wiadomości z Polski i ze Świata
- - [https://i.pl](https://i.pl)
- - date published: 2023-10-25T22:28:09.834838+00:00
- - user: None
- - tags: []
-
-## ~aki
- - [https://ignore.pl](https://ignore.pl)
- - date published: 2023-10-25T22:28:10.577701+00:00
- - user: None
- - tags: []
-
-## Niezależny Portal Finansowy - Independent Trader.pl
- - [https://independenttrader.pl](https://independenttrader.pl)
- - date published: 2023-10-25T22:28:12.140238+00:00
- - user: None
- - tags: []
-
-## ING Bank Śląski
- - [https://www.ing.pl](https://www.ing.pl)
- - date published: 2023-10-25T11:29:39.102663+00:00
- - user: None
- - tags: []
-
-## InPost dla Ciebie - Paczkomat®, Kurier, Przesyłki Kurierskie i Paczki
- - [https://inpost.pl](https://inpost.pl)
- - date published: 2023-10-25T08:26:12.097725+00:00
- - user: None
- - tags: []
-
-## • Insimilion • gry, książki, fantastyka
- - [https://www.insimilion.pl](https://www.insimilion.pl)
- - date published: 2023-10-27T13:52:27.671881+00:00
- - user: None
- - tags: ['fantasy', 'game news', 'dungeons and dragons', 'role playing games']
-
-## INSTALKI - technologie, sprzęt, recenzje, programy
- - [https://www.instalki.pl](https://www.instalki.pl)
- - date published: 2023-10-25T09:37:54.865975+00:00
- - user: None
- - tags: []
-
-## Biznes w INTERIA.PL
- - [https://biznes.interia.pl](https://biznes.interia.pl)
- - date published: 2023-10-25T10:31:34.569732+00:00
- - user: None
- - tags: []
-
-## GeekWeek w INTERIA.PL – technologie, nauka, lifestyle i podróże
- - [https://geekweek.interia.pl](https://geekweek.interia.pl)
- - date published: 2023-10-25T10:31:36.806211+00:00
- - user: None
- - tags: []
-
-## Motoryzacja w INTERIA.PL - auto moto wiadomości, aktualności, wydarzenia i porady motoryzacyjne
- - [https://motoryzacja.interia.pl](https://motoryzacja.interia.pl)
- - date published: 2023-10-25T10:31:39.366002+00:00
- - user: None
- - tags: []
-
-## Pogoda w INTERIA.PL – długoterminowa (na 25 dni) prognoza pogody dla Polski, Europy i Świata
- - [https://pogoda.interia.pl](https://pogoda.interia.pl)
- - date published: 2023-10-24T20:19:26.422240+00:00
- - user: None
- - tags: []
-
-## WYDARZENIA w INTERIA.PL - najnowsze wiadomości z Polski i świata, polityka, wydarzenia dnia i najważniejsze informacje, zawsze aktualne wiadomości
- - [https://wydarzenia.interia.pl](https://wydarzenia.interia.pl)
- - date published: 2023-10-25T10:31:39.986701+00:00
- - user: None
- - tags: []
-
-## Testy, aktualności, poradniki, forum  | ITHardware
- - [https://ithardware.pl](https://ithardware.pl)
- - date published: 2023-10-25T09:37:59.835574+00:00
- - user: None
- - tags: []
-
-## Main page - Komoda & Amiga plus
- - [https://ka-plus.pl](https://ka-plus.pl)
- - date published: 2023-10-30T10:12:59.609663+00:00
- - user: None
- - tags: ['commodore', 'amiga']
-
-## Internetowy sklep dla elektroników i robotyków - Sklep Kamami
- - [https://kamami.pl](https://kamami.pl)
- - date published: 2023-10-25T11:16:22.452010+00:00
- - user: None
- - tags: ['electronic parts']
-
-## Agencja Kayax - management i wytwórnia płytowa
- - [https://kayax.pl](https://kayax.pl)
- - date published: 2023-11-13T11:20:40.366329+00:00
- - user: None
- - tags: ['music label']
-
-## 403 Access Forbidden
- - [http://kempinsky.pl](http://kempinsky.pl)
- - date published: 2023-10-25T22:28:22.845799+00:00
- - user: None
- - tags: []
-
-## Klub Jagielloński
- - [https://klubjagiellonski.pl](https://klubjagiellonski.pl)
- - date published: 2023-10-25T22:28:25.705607+00:00
- - user: None
- - tags: []
-
-## Komputer Świat -
-        
-        Komputery, Testy Sprzętu, Newsy
- - [https://www.komputerswiat.pl](https://www.komputerswiat.pl)
- - date published: 2023-10-25T09:38:04.112938+00:00
- - user: None
- - tags: ['tech news']
-
-## Sklep komputerowy - Komputronik Mamy to!
- - [https://www.komputronik.pl](https://www.komputronik.pl)
- - date published: 2023-10-24T20:17:22.663939+00:00
- - user: None
- - tags: []
-
-## Koncerty, kabarety, bilety, portal muzyczny
- - [https://www.koncertomania.pl](https://www.koncertomania.pl)
- - date published: 2023-10-25T15:03:06.652752+00:00
- - user: None
- - tags: []
-
-## Koncerty w Polsce - wszystko o koncertach
- - [https://koncertyw.pl](https://koncertyw.pl)
- - date published: 2023-10-25T15:02:52.254702+00:00
- - user: None
- - tags: []
-
-## Konsolowo.pl
- - [https://konsolowo.pl](https://konsolowo.pl)
- - date published: 2023-11-06T09:57:41.054533+00:00
- - user: None
- - tags: []
-
-## Kresy.pl - wiadomości z kraju i ze świata
- - [https://kresy.pl](https://kresy.pl)
- - date published: 2023-10-29T18:25:17.647277+00:00
- - user: None
- - tags: ['news']
-
-## Krytyka Polityczna – największy lewicowy dziennik w Polsce
- - [https://krytykapolityczna.pl](https://krytykapolityczna.pl)
- - date published: 2023-11-10T17:18:24.333837+00:00
- - user: None
- - tags: []
-
-## Ministerstwo memów, zdjęć i innych śmiesznych obrazków - KWEJK.pl
- - [https://kwejk.pl](https://kwejk.pl)
- - date published: 2023-10-25T11:30:00.177575+00:00
- - user: None
- - tags: ['funny images', 'memes']
-
-## Łukasz Langa
- - [https://lukasz.langa.pl](https://lukasz.langa.pl)
- - date published: 2023-10-25T22:28:26.657798+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://langustanapalmie.pl](https://langustanapalmie.pl)
- - date published: 2023-10-27T13:13:37.180103+00:00
- - user: None
- - tags: []
-
-## Kancelaria LEGA ARTIS - Tani Prawnik Warszawa
- - [http://legaartis.pl](http://legaartis.pl)
- - date published: 2023-10-25T22:28:27.457502+00:00
- - user: None
- - tags: []
-
-## Legimi - czytaj ebooki i słuchaj audiobooki bez limitu
- - [https://www.legimi.pl](https://www.legimi.pl)
- - date published: 2023-10-24T20:18:39.913925+00:00
  - user: None
  - tags: []
 

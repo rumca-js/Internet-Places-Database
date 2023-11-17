@@ -1,3 +1,123 @@
+## RimWorld - Sci-Fi Colony Sim
+ - [https://rimworldgame.com](https://rimworldgame.com)
+ - date published: 2023-10-25T16:51:42.834278+00:00
+ - user: None
+ - tags: []
+
+## Ring.com Status
+ - [https://status.ring.com](https://status.ring.com)
+ - date published: 2023-10-25T16:51:44.473538+00:00
+ - user: None
+ - tags: []
+
+## Ringer
+ - [https://www.ringerhq.com](https://www.ringerhq.com)
+ - date published: 2023-10-25T16:51:53.579899+00:00
+ - user: None
+ - tags: []
+
+## Ripley's Believe It or Not! | Aquariums, Attractions, and Weird News
+ - [https://www.ripleys.com](https://www.ripleys.com)
+ - date published: 2023-10-25T16:51:58.390818+00:00
+ - user: None
+ - tags: []
+
+## Oven Career Opportunities
+ - [https://oven.rippling-ats.com](https://oven.rippling-ats.com)
+ - date published: 2023-10-25T16:51:59.432468+00:00
+ - user: None
+ - tags: []
+
+## RisingWave: Open-Source Streaming Database
+ - [https://www.risingwave.com](https://www.risingwave.com)
+ - date published: 2023-10-25T16:52:03.481553+00:00
+ - user: None
+ - tags: []
+
+## RisingWave: Open-Source Streaming Database
+ - [https://www.risingwave-labs.com](https://www.risingwave-labs.com)
+ - date published: 2023-10-25T16:52:06.777687+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://www.riveducha.com](https://www.riveducha.com)
+ - date published: 2023-10-25T16:52:07.967889+00:00
+ - user: None
+ - tags: []
+
+## St. Louis Riverfront Times
+ - [https://www.riverfronttimes.com](https://www.riverfronttimes.com)
+ - date published: 2023-11-03T11:36:25.413238+00:00
+ - user: None
+ - tags: []
+
+## RiverGlide Ideas
+ - [https://ideas.riverglide.com](https://ideas.riverglide.com)
+ - date published: 2023-10-25T16:52:12.023700+00:00
+ - user: None
+ - tags: []
+
+## Hammock-Led Engineering
+ - [https://rlopzc.com](https://rlopzc.com)
+ - date published: 2023-10-25T16:52:12.715133+00:00
+ - user: None
+ - tags: []
+
+## Custom Electronics, PWM Circuits, Induction Heating, and DIY Science Projects - RMCybernetics
+ - [https://www.rmcybernetics.com](https://www.rmcybernetics.com)
+ - date published: 2023-10-25T16:52:17.665472+00:00
+ - user: None
+ - tags: []
+
+## Bow Valley News - Powered by Rocky Mountain Outlook
+ - [https://www.rmoutlook.com](https://www.rmoutlook.com)
+ - date published: 2023-11-05T16:12:44.302581+00:00
+ - user: None
+ - tags: []
+
+## Road & Track: Auto News, Reviews, and Car Culture
+ - [https://www.roadandtrack.com](https://www.roadandtrack.com)
+ - date published: 2023-10-25T10:55:46.397695+00:00
+ - user: None
+ - tags: []
+
+## Roads - Discover the Future of Audio
+ - [https://roadsaudio.com](https://roadsaudio.com)
+ - date published: 2023-10-25T16:52:18.699605+00:00
+ - user: None
+ - tags: []
+
+## Robb Report – The Best Luxury Cars, Jets, Yachts, Travel, Watches
+ - [https://robbreport.com](https://robbreport.com)
+ - date published: 2023-10-25T16:52:27.034462+00:00
+ - user: None
+ - tags: []
+
+## RoberDam.com
+ - [https://roberdam.com](https://roberdam.com)
+ - date published: 2023-10-25T16:52:36.682376+00:00
+ - user: None
+ - tags: []
+
+## Robert Heaton
+ - [https://robertheaton.com](https://robertheaton.com)
+ - date published: 2023-10-25T16:52:38.686002+00:00
+ - user: None
+ - tags: []
+
+## All posts
+ - [https://robertovitillo.com](https://robertovitillo.com)
+ - date published: 2023-10-30T18:59:37.293132+00:00
+ - user: None
+ - tags: []
+
+## Roberts Space Industries | Follow the development of Star Citizen and Squadron 42
+ - [https://robertsspaceindustries.com](https://robertsspaceindustries.com)
+ - date published: 2023-10-25T16:52:40.913384+00:00
+ - user: None
+ - tags: []
+
 ## Robert Pearce
  - [https://robertwpearce.com](https://robertwpearce.com)
  - date published: 2023-10-25T16:52:43.442261+00:00
@@ -1522,6 +1642,12 @@
  - user: None
  - tags: []
 
+## sglavoie.com
+ - [https://www.sglavoie.com](https://www.sglavoie.com)
+ - date published: 2023-11-16T09:28:41.834908+00:00
+ - user: None
+ - tags: []
+
 ## Shacknews | Video Game Video Reviews, Celebrity Interviews, Strategy Videos, Original Content and More
  - [https://www.shacknews.com](https://www.shacknews.com)
  - date published: 2023-10-25T10:50:12.343927+00:00
@@ -2108,6 +2234,12 @@
 ## Slow Boring  | Matthew Yglesias | Substack
  - [https://www.slowboring.com](https://www.slowboring.com)
  - date published: 2023-10-25T17:06:44.335021+00:00
+ - user: None
+ - tags: []
+
+## The Salt Lake Tribune - Utah News, Sports, Religion & Entertainment
+ - [https://www.sltrib.com](https://www.sltrib.com)
+ - date published: 2023-11-16T16:03:31.289543+00:00
  - user: None
  - tags: []
 
@@ -3844,6 +3976,12 @@
  - date published: 2023-10-25T09:41:35.577450+00:00
  - user: None
  - tags: ['substack']
+
+## Public Service | Alethios | Substack
+ - [https://alethios.substack.com](https://alethios.substack.com)
+ - date published: 2023-11-16T09:10:46.307541+00:00
+ - user: None
+ - tags: []
 
 ## Unreported Truths | Alex Berenson | Substack
  - [https://alexberenson.substack.com](https://alexberenson.substack.com)
@@ -5858,144 +5996,6 @@
 ## Super Self | Lewis Kallow | Substack
  - [http://superself.substack.com](http://superself.substack.com)
  - date published: 2023-10-25T10:04:50.317296+00:00
- - user: None
- - tags: ['substack']
-
-## Synthedia | Bret Kinsella | Substack
- - [https://synthedia.substack.com](https://synthedia.substack.com)
- - date published: 2023-10-25T10:04:58.013922+00:00
- - user: None
- - tags: ['substack']
-
-## Syntopikon | Substack
- - [https://syntopikon.substack.com](https://syntopikon.substack.com)
- - date published: 2023-10-25T10:05:00.115504+00:00
- - user: None
- - tags: ['substack']
-
-## Systems Approach | Bruce Davie | Substack
- - [https://systemsapproach.substack.com](https://systemsapproach.substack.com)
- - date published: 2023-10-25T10:05:02.967943+00:00
- - user: None
- - tags: ['substack']
-
-## The Technically Challenged Newsletter | Jesse | Substack
- - [https://technicallychallenged.substack.com](https://technicallychallenged.substack.com)
- - date published: 2023-10-25T10:05:10.127902+00:00
- - user: None
- - tags: ['substack']
-
-## The Reactionary | Techno Fog | Substack
- - [https://technofog.substack.com](https://technofog.substack.com)
- - date published: 2023-10-25T10:05:12.420026+00:00
- - user: None
- - tags: ['substack']
-
-## The Honest Broker | Ted Gioia | Substack
- - [https://tedgioia.substack.com](https://tedgioia.substack.com)
- - date published: 2023-10-25T10:05:14.471020+00:00
- - user: None
- - tags: ['substack']
-
-## Hope For Film | Ted Hope | Substack
- - [https://tedhope.substack.com](https://tedhope.substack.com)
- - date published: 2023-10-25T10:05:16.815969+00:00
- - user: None
- - tags: ['substack']
-
-## Textual Variations | Mikhail Skoptsov | Substack
- - [https://textualvariations.substack.com](https://textualvariations.substack.com)
- - date published: 2023-10-25T10:05:24.832937+00:00
- - user: None
- - tags: ['substack']
-
-## The AI Report | Substack
- - [https://theaireport.substack.com](https://theaireport.substack.com)
- - date published: 2023-10-25T10:05:28.121557+00:00
- - user: None
- - tags: ['substack']
-
-## The AI Underwriter | Otakar G. Hubschmann | Substack
- - [https://theaiunderwriter.substack.com](https://theaiunderwriter.substack.com)
- - date published: 2023-10-25T10:05:29.847109+00:00
- - user: None
- - tags: ['substack']
-
-## The AP (Alex Pareene) Newsletter | Substack
- - [http://theap.substack.com](http://theap.substack.com)
- - date published: 2023-10-25T10:05:32.575961+00:00
- - user: None
- - tags: ['substack']
-
-## JR’s Newsletter | Substack
- - [http://thebuilderjr.substack.com](http://thebuilderjr.substack.com)
- - date published: 2023-10-25T10:05:34.411774+00:00
- - user: None
- - tags: ['substack']
-
-## The Chip Letter | Babbage | Substack
- - [https://thechipletter.substack.com](https://thechipletter.substack.com)
- - date published: 2023-10-25T10:05:37.013524+00:00
- - user: None
- - tags: ['substack']
-
-## The Climate Brink | Andrew Dessler | Substack
- - [https://theclimatebrink.substack.com](https://theclimatebrink.substack.com)
- - date published: 2023-10-25T10:05:41.214841+00:00
- - user: None
- - tags: ['substack']
-
-## The Column  | Adam Johnson | Substack
- - [https://thecolumn.substack.com](https://thecolumn.substack.com)
- - date published: 2023-10-25T10:05:48.708696+00:00
- - user: None
- - tags: ['substack']
-
-## The Convivial Society | L. M. Sacasas | Substack
- - [http://theconvivialsociety.substack.com](http://theconvivialsociety.substack.com)
- - date published: 2023-10-25T10:05:50.863086+00:00
- - user: None
- - tags: ['substack']
-
-## The Egg And The Rock | Julian Gough | Substack
- - [http://theeggandtherock.substack.com](http://theeggandtherock.substack.com)
- - date published: 2023-10-25T10:05:55.551572+00:00
- - user: None
- - tags: ['substack']
-
-## The Exit Game | Mujavid Bukhari | Substack
- - [http://theexitgame.substack.com](http://theexitgame.substack.com)
- - date published: 2023-10-25T10:05:57.330614+00:00
- - user: None
- - tags: ['substack']
-
-## The Gauntlet | Julia Doubleday | Substack
- - [https://thegauntlet.substack.com](https://thegauntlet.substack.com)
- - date published: 2023-10-25T10:05:59.859496+00:00
- - user: None
- - tags: ['substack']
-
-## The Handbasket | Marisa Kabas | Substack
- - [https://thehandbasket.substack.com](https://thehandbasket.substack.com)
- - date published: 2023-10-25T10:06:03.171125+00:00
- - user: None
- - tags: ['substack']
-
-## The Macro Compass | Alfonso Peccatiello (Alf) | Substack
- - [http://themacrocompass.substack.com](http://themacrocompass.substack.com)
- - date published: 2023-10-25T10:06:06.324400+00:00
- - user: None
- - tags: ['substack']
-
-## The Rationalist | Petra | Substack
- - [https://therationalist.substack.com](https://therationalist.substack.com)
- - date published: 2023-10-25T10:06:07.569258+00:00
- - user: None
- - tags: ['substack']
-
-## The Rectangle | Callum Booth | Substack
- - [http://therectangle.substack.com](http://therectangle.substack.com)
- - date published: 2023-10-25T10:06:10.629585+00:00
  - user: None
  - tags: ['substack']
 

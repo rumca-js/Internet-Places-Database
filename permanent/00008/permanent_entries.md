@@ -1,3 +1,171 @@
+## Wikipedia Speedruns!
+ - [https://wikispeedruns.com](https://wikispeedruns.com)
+ - date published: 2023-10-25T18:04:54.204112+00:00
+ - user: None
+ - tags: []
+
+## Billy Wilcosky
+ - [https://www.wilcosky.com](https://www.wilcosky.com)
+ - date published: 2023-10-25T18:05:03.137920+00:00
+ - user: None
+ - tags: []
+
+## Wildbit: Building a people-first business | Wildbit
+ - [https://wildbit.com](https://wildbit.com)
+ - date published: 2023-10-25T18:05:13.348290+00:00
+ - user: None
+ - tags: []
+
+## What is a Wildcard? | Robert Merki
+ - [https://wildcardpeople.com](https://wildcardpeople.com)
+ - date published: 2023-10-25T18:05:20.188372+00:00
+ - user: None
+ - tags: []
+
+## https://agsjournals.onlinelibrary.wiley.com
+ - [https://agsjournals.onlinelibrary.wiley.com](https://agsjournals.onlinelibrary.wiley.com)
+ - date published: 2023-11-08T12:11:17.951453+00:00
+ - user: None
+ - tags: []
+
+## https://agupubs.onlinelibrary.wiley.com
+ - [https://agupubs.onlinelibrary.wiley.com](https://agupubs.onlinelibrary.wiley.com)
+ - date published: 2023-10-25T18:05:22.087600+00:00
+ - user: None
+ - tags: []
+
+## https://alz-journals.onlinelibrary.wiley.com
+ - [https://alz-journals.onlinelibrary.wiley.com](https://alz-journals.onlinelibrary.wiley.com)
+ - date published: 2023-10-25T18:05:29.978998+00:00
+ - user: None
+ - tags: []
+
+## https://bpspsychub.onlinelibrary.wiley.com
+ - [https://bpspsychub.onlinelibrary.wiley.com](https://bpspsychub.onlinelibrary.wiley.com)
+ - date published: 2023-10-31T19:09:57.335556+00:00
+ - user: None
+ - tags: []
+
+## https://compass.onlinelibrary.wiley.com
+ - [https://compass.onlinelibrary.wiley.com](https://compass.onlinelibrary.wiley.com)
+ - date published: 2023-10-25T18:05:30.278884+00:00
+ - user: None
+ - tags: []
+
+## https://febs.onlinelibrary.wiley.com
+ - [https://febs.onlinelibrary.wiley.com](https://febs.onlinelibrary.wiley.com)
+ - date published: 2023-10-25T18:05:30.579131+00:00
+ - user: None
+ - tags: []
+
+## https://myscp.onlinelibrary.wiley.com
+ - [https://myscp.onlinelibrary.wiley.com](https://myscp.onlinelibrary.wiley.com)
+ - date published: 2023-11-07T02:17:31.388440+00:00
+ - user: None
+ - tags: []
+
+## https://onlinelibrary.wiley.com
+ - [https://onlinelibrary.wiley.com](https://onlinelibrary.wiley.com)
+ - date published: 2023-10-25T18:05:35.898602+00:00
+ - user: None
+ - tags: []
+
+## https://physoc.onlinelibrary.wiley.com
+ - [https://physoc.onlinelibrary.wiley.com](https://physoc.onlinelibrary.wiley.com)
+ - date published: 2023-11-12T06:59:06.705475+00:00
+ - user: None
+ - tags: []
+
+## https://srcd.onlinelibrary.wiley.com
+ - [https://srcd.onlinelibrary.wiley.com](https://srcd.onlinelibrary.wiley.com)
+ - date published: 2023-10-25T18:05:36.256171+00:00
+ - user: None
+ - tags: []
+
+## posts
+ - [https://will-keleher.com](https://will-keleher.com)
+ - date published: 2023-10-25T18:05:37.139130+00:00
+ - user: None
+ - tags: []
+
+## Will Brownsberger – STATE SENATOR
+ - [https://willbrownsberger.com](https://willbrownsberger.com)
+ - date published: 2023-10-25T18:05:47.473903+00:00
+ - user: None
+ - tags: []
+
+## Will DePue
+ - [https://blog.willdepue.com](https://blog.willdepue.com)
+ - date published: 2023-10-25T18:05:49.001502+00:00
+ - user: None
+ - tags: []
+
+## Willem Laurentz Middelkoop
+ - [https://willem.com](https://willem.com)
+ - date published: 2023-11-14T16:19:39.927104+00:00
+ - user: None
+ - tags: []
+
+## Will Hackett
+ - [https://notes.willhackett.com](https://notes.willhackett.com)
+ - date published: 2023-10-25T18:05:50.791703+00:00
+ - user: None
+ - tags: []
+
+## Welcome to all those learning Haskell | William Yao
+ - [https://williamyaoh.com](https://williamyaoh.com)
+ - date published: 2023-10-25T18:05:52.874728+00:00
+ - user: None
+ - tags: []
+
+## Where there is a Will
+ - [https://www.willmcgugan.com](https://www.willmcgugan.com)
+ - date published: 2023-10-25T18:05:57.116791+00:00
+ - user: None
+ - tags: []
+
+## Will Robots Take My Job?
+ - [https://willrobotstakemyjob.com](https://willrobotstakemyjob.com)
+ - date published: 2023-10-27T10:59:41.287959+00:00
+ - user: None
+ - tags: ['artificial intelligence', 'wtf']
+
+## Wimpy's World
+ - [https://wimpysworld.com](https://wimpysworld.com)
+ - date published: 2023-10-25T18:05:58.887304+00:00
+ - user: None
+ - tags: []
+
+## Win Vector LLC – Data science advising, consulting, and training
+ - [https://win-vector.com](https://win-vector.com)
+ - date published: 2023-10-25T18:06:02.876087+00:00
+ - user: None
+ - tags: []
+
+## https://forums.winamp.com
+ - [https://forums.winamp.com](https://forums.winamp.com)
+ - date published: 2023-10-25T18:06:05.343618+00:00
+ - user: None
+ - tags: []
+
+## The ultimate music machine empowering listeners, creators and fans - Winamp
+ - [https://www.winamp.com](https://www.winamp.com)
+ - date published: 2023-11-01T08:43:27.866000+00:00
+ - user: None
+ - tags: []
+
+## Window-swap – open a new window somewhere in the world
+ - [https://www.window-swap.com](https://www.window-swap.com)
+ - date published: 2023-11-02T01:16:22+00:00
+ - user: None
+ - tags: []
+
+## Home | Windows Blog
+ - [https://blogs.windows.com](https://blogs.windows.com)
+ - date published: 2023-10-25T11:29:25.500201+00:00
+ - user: None
+ - tags: []
+
 ## Windows Repair Toolbox
  - [https://windows-repair-toolbox.com](https://windows-repair-toolbox.com)
  - date published: 2023-10-25T18:06:10.245644+00:00
@@ -1840,6 +2008,12 @@
  - user: None
  - tags: []
 
+## Nothing Community
+ - [https://nothing.community](https://nothing.community)
+ - date published: 2023-11-16T06:39:37.887354+00:00
+ - user: None
+ - tags: []
+
 ## Persuasion | Yascha Mounk | Substack
  - [https://www.persuasion.community](https://www.persuasion.community)
  - date published: 2023-10-25T18:26:06.826791+00:00
@@ -2336,6 +2510,12 @@ home
 ## Beglaubigung OpenPGP-Schlüssel
  - [https://pgp.governikus.de](https://pgp.governikus.de)
  - date published: 2023-10-25T18:30:54.264820+00:00
+ - user: None
+ - tags: []
+
+## Grönauer Infos
+ - [https://www.groenauer-infos.de](https://www.groenauer-infos.de)
+ - date published: 2023-11-16T18:10:42.478283+00:00
  - user: None
  - tags: []
 
@@ -3455,6 +3635,12 @@ home
  - user: None
  - tags: ['personal']
 
+## Writing | denvaar's Site
+ - [https://denvaar.dev](https://denvaar.dev)
+ - date published: 2023-11-16T09:28:41.834997+00:00
+ - user: None
+ - tags: []
+
 ## Depot
  - [https://depot.dev](https://depot.dev)
  - date published: 2023-10-25T18:37:13.920387+00:00
@@ -3597,6 +3783,12 @@ home
 ## Flightcontrol Jobs
  - [https://jobs.flightcontrol.dev](https://jobs.flightcontrol.dev)
  - date published: 2023-10-25T18:38:01.725933+00:00
+ - user: None
+ - tags: []
+
+## Flower: A Friendly Federated Learning Framework
+ - [https://flower.dev](https://flower.dev)
+ - date published: 2023-11-16T20:06:53.497502+00:00
  - user: None
  - tags: []
 
@@ -5806,200 +5998,6 @@ home
 ## News Bureau | ILLINOIS
  - [https://news.illinois.edu](https://news.illinois.edu)
  - date published: 2023-10-25T18:53:10.492770+00:00
- - user: None
- - tags: []
-
-## Information Sciences Institute
- - [https://www.isi.edu](https://www.isi.edu)
- - date published: 2023-10-25T18:53:13.988342+00:00
- - user: None
- - tags: []
-
-## Page Title
- - [https://lkml.iu.edu](https://lkml.iu.edu)
- - date published: 2023-10-25T18:53:15.506203+00:00
- - user: None
- - tags: []
-
-## Home
-        
-       | Hub
- - [https://hub.jhu.edu](https://hub.jhu.edu)
- - date published: 2023-10-25T18:53:19.413125+00:00
- - user: None
- - tags: []
-
-## Homepage | Hopkins Press
- - [https://www.press.jhu.edu](https://www.press.jhu.edu)
- - date published: 2023-10-25T18:53:23.816743+00:00
- - user: None
- - tags: []
-
-## Kent Campus | Kent State University Kent State, one of Ohio’s leading public universities
- - [https://www.kent.edu](https://www.kent.edu)
- - date published: 2023-10-25T11:22:42.294245+00:00
- - user: None
- - tags: []
-
-## People
- - [https://people.cs.ksu.edu](https://people.cs.ksu.edu)
- - date published: 2023-10-25T18:53:27.215934+00:00
- - user: None
- - tags: []
-
-## KU Today | The University of Kansas
- - [https://today.ku.edu](https://today.ku.edu)
- - date published: 2023-10-25T18:53:30.550703+00:00
- - user: None
- - tags: []
-
-## http://cs.lmu.edu
- - [http://cs.lmu.edu](http://cs.lmu.edu)
- - date published: 2023-10-25T18:53:41.692173+00:00
- - user: None
- - tags: []
-
-## Electrical & Computer Engineering, Division of
- - [https://www.ece.lsu.edu](https://www.ece.lsu.edu)
- - date published: 2023-10-25T11:24:20.932943+00:00
- - user: None
- - tags: []
-
-## An Introduction to Computer Networks
- - [https://intronetworks.cs.luc.edu](https://intronetworks.cs.luc.edu)
- - date published: 2023-10-25T18:53:42.818300+00:00
- - user: None
- - tags: []
-
-## Official Miami Dade College Homepage
- - [https://www.mdc.edu](https://www.mdc.edu)
- - date published: 2023-10-25T11:22:46.236242+00:00
- - user: None
- - tags: []
-
-## aera
- - [https://aera.mit.edu](https://aera.mit.edu)
- - date published: 2023-10-25T18:53:43.612659+00:00
- - user: None
- - tags: []
-
-## MIT MAS.S68 | Generative AI for Constructive Communication
- - [https://ai4comm.media.mit.edu](https://ai4comm.media.mit.edu)
- - date published: 2023-10-25T18:53:45.427456+00:00
- - user: None
- - tags: []
-
-## Yuan Cao's Homepage
- - [http://caoyuan.scripts.mit.edu](http://caoyuan.scripts.mit.edu)
- - date published: 2023-10-25T08:49:04.244293+00:00
- - user: None
- - tags: ['personal']
-
-## Home | MIT Climate Portal
- - [https://climate.mit.edu](https://climate.mit.edu)
- - date published: 2023-10-25T18:53:47.317024+00:00
- - user: None
- - tags: []
-
-## courses.csail.mit.edu
- - [https://courses.csail.mit.edu](https://courses.csail.mit.edu)
- - date published: 2023-10-25T18:53:48.768679+00:00
- - user: None
- - tags: []
-
-## Introduction to Data-Centric AI
- - [https://dcai.csail.mit.edu](https://dcai.csail.mit.edu)
- - date published: 2023-10-25T18:53:49.969803+00:00
- - user: None
- - tags: []
-
-## MIT Press
- - [https://direct.mit.edu](https://direct.mit.edu)
- - date published: 2023-10-25T18:53:52.060229+00:00
- - user: None
- - tags: []
-
-## DSpace@MIT Home
- - [https://dspace.mit.edu](https://dspace.mit.edu)
- - date published: 2023-10-25T18:53:53.742765+00:00
- - user: None
- - tags: []
-
-## Fab Central
- - [https://fab.cba.mit.edu](https://fab.cba.mit.edu)
- - date published: 2023-10-25T18:53:54.780890+00:00
- - user: None
- - tags: []
-
-## Living Wage Calculator
- - [https://livingwage.mit.edu](https://livingwage.mit.edu)
- - date published: 2023-10-25T18:53:56.639883+00:00
- - user: None
- - tags: []
-
-## MIT Mathematics
- - [https://math.mit.edu](https://math.mit.edu)
- - date published: 2023-10-25T18:54:09.948920+00:00
- - user: None
- - tags: []
-
-## The Missing Semester of Your CS Education
- - [https://missing.csail.mit.edu](https://missing.csail.mit.edu)
- - date published: 2023-10-25T18:54:11.265361+00:00
- - user: None
- - tags: []
-
-## Home Page - MIT Press
- - [https://mitpress.mit.edu](https://mitpress.mit.edu)
- - date published: 2023-10-25T18:54:21.358865+00:00
- - user: None
- - tags: []
-
-## MIT Sloan
- - [https://mitsloan.mit.edu](https://mitsloan.mit.edu)
- - date published: 2023-10-25T18:54:22.918721+00:00
- - user: None
- - tags: []
-
-## MITx Online
- - [https://mitxonline.mit.edu](https://mitxonline.mit.edu)
- - date published: 2023-10-25T18:54:25.878690+00:00
- - user: None
- - tags: []
-
-## MIT News | Massachusetts Institute of Technology
- - [https://news.mit.edu](https://news.mit.edu)
- - date published: 2023-10-25T11:20:44.709795+00:00
- - user: None
- - tags: []
-
-## MIT OpenCourseWare | Free Online Course Materials
- - [https://ocw.mit.edu](https://ocw.mit.edu)
- - date published: 2023-10-25T18:54:28.607293+00:00
- - user: None
- - tags: []
-
-## MIT CSAIL Parallel and Distributed Operating Systems Group
- - [https://pdos.csail.mit.edu](https://pdos.csail.mit.edu)
- - date published: 2023-10-25T18:54:29.573498+00:00
- - user: None
- - tags: []
-
-## People | MIT CSAIL
- - [https://people.csail.mit.edu](https://people.csail.mit.edu)
- - date published: 2023-10-25T18:54:31.453216+00:00
- - user: None
- - tags: []
-
-## Home - MIT PE
- - [https://physicaleducationandwellness.mit.edu](https://physicaleducationandwellness.mit.edu)
- - date published: 2023-10-25T18:54:34.032158+00:00
- - user: None
- - tags: []
-
-## MIT Office of the President | MIT - Massachusetts Institute of Technology
- - [https://president.mit.edu](https://president.mit.edu)
- - date published: 2023-10-25T18:54:35.562240+00:00
  - user: None
  - tags: []
 
