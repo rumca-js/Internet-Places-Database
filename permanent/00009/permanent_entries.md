@@ -1,3 +1,33 @@
+## The City College of New York
+ - [https://www.ccny.cuny.edu](https://www.ccny.cuny.edu)
+ - date published: 2023-10-25T18:51:01.179182+00:00
+ - user: None
+ - tags: []
+
+## Mathematics at Dartmouth
+ - [https://math.dartmouth.edu](https://math.dartmouth.edu)
+ - date published: 2023-10-25T18:51:02.976336+00:00
+ - user: None
+ - tags: []
+
+## User Homepages @Drew University
+ - [https://users.drew.edu](https://users.drew.edu)
+ - date published: 2023-11-14T23:58:00.601263+00:00
+ - user: None
+ - tags: []
+
+## Drexel Home
+ - [https://drexel.edu](https://drexel.edu)
+ - date published: 2023-10-25T18:51:05.420930+00:00
+ - user: None
+ - tags: []
+
+## Duke Today | Duke Today
+ - [https://today.duke.edu](https://today.duke.edu)
+ - date published: 2023-10-25T18:51:07.229842+00:00
+ - user: None
+ - tags: []
+
 ## Duke University School of Law
  - [https://web.law.duke.edu](https://web.law.duke.edu)
  - date published: 2023-10-25T11:22:18.328920+00:00
@@ -5972,36 +6002,6 @@
 ## Mahesh Balakrishnan
  - [https://maheshba.bitbucket.io](https://maheshba.bitbucket.io)
  - date published: 2023-10-25T19:38:39.794842+00:00
- - user: None
- - tags: []
-
-## Home | bitmagnet
- - [https://bitmagnet.io](https://bitmagnet.io)
- - date published: 2023-10-25T19:38:40.683226+00:00
- - user: None
- - tags: []
-
-## MindPop
- - [https://mindpop.blankenship.io](https://mindpop.blankenship.io)
- - date published: 2023-10-25T19:38:41.879757+00:00
- - user: None
- - tags: []
-
-## WikiScroll
- - [https://wikiscroll.blankenship.io](https://wikiscroll.blankenship.io)
- - date published: 2023-10-25T19:38:42.548565+00:00
- - user: None
- - tags: []
-
-## Matt Blewitt
- - [https://matt.blwt.io](https://matt.blwt.io)
- - date published: 2023-10-25T19:38:43.360921+00:00
- - user: None
- - tags: []
-
-## Brad Woods' Digital Garden
- - [https://garden.bradwoods.io](https://garden.bradwoods.io)
- - date published: 2023-10-25T19:38:45.624360+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,33 @@
+## CDA - Społeczność cda.pl
+ - [https://www.cda.pl](https://www.cda.pl)
+ - date published: 2023-10-25T11:30:26.520324+00:00
+ - user: None
+ - tags: ['piracy', 'video streaming']
+
+## CD-Action – Strona główna
+ - [https://cdaction.pl](https://cdaction.pl)
+ - date published: 2023-10-25T09:29:32.142014+00:00
+ - user: None
+ - tags: ['game news']
+
+## Ceneo - porównanie cen, sklepy, perfumy, agd, rtv, komputery
+ - [https://www.ceneo.pl](https://www.ceneo.pl)
+ - date published: 2023-10-24T20:20:37.877202+00:00
+ - user: None
+ - tags: ['ranking']
+
+## CERT Polska
+ - [https://cert.pl](https://cert.pl)
+ - date published: 2023-10-25T22:26:24.449840+00:00
+ - user: None
+ - tags: []
+
+## CHIP - Technologie mamy we krwi!
+ - [https://www.chip.pl](https://www.chip.pl)
+ - date published: 2023-10-25T09:37:50.574235+00:00
+ - user: None
+ - tags: ['tech news']
+
 ## Przyjazny dysk internetowy - Chomikuj.pl
  - [https://chomikuj.pl](https://chomikuj.pl)
  - date published: 2023-10-25T11:30:27.215016+00:00
@@ -1705,6 +1735,12 @@
 ## PlanLike.Pro - Create Estimates in Minutes
  - [https://planlike.pro](https://planlike.pro)
  - date published: 2023-10-25T22:34:13.525784+00:00
+ - user: None
+ - tags: []
+
+## Uptime Lab / Hackathon every day
+ - [https://uplab.pro](https://uplab.pro)
+ - date published: 2023-11-18T08:17:04.377091+00:00
  - user: None
  - tags: []
 
@@ -5966,42 +6002,6 @@ Introduction
 ## HHKB & REALFORCE - Mechanical Programming & Gaming Keyboards
  - [https://hhkeyboard.us](https://hhkeyboard.us)
  - date published: 2023-11-16T09:10:45.032248+00:00
- - user: None
- - tags: []
-
-## some words
- - [https://karmanivero.us](https://karmanivero.us)
- - date published: 2023-10-25T22:58:57.980658+00:00
- - user: None
- - tags: []
-
-## The Netwide Assembler (NASM)
- - [https://www.nasm.us](https://www.nasm.us)
- - date published: 2023-11-09T11:11:08+00:00
- - user: None
- - tags: []
-
-## Nautilus | Science Connected
- - [https://nautil.us](https://nautil.us)
- - date published: 2023-10-25T10:12:29.112780+00:00
- - user: None
- - tags: []
-
-## Chris Dickinson
- - [https://www.neversaw.us](https://www.neversaw.us)
- - date published: 2023-10-25T08:56:46.944646+00:00
- - user: None
- - tags: ['personal']
-
-## More Perfect Union
- - [https://perfectunion.us](https://perfectunion.us)
- - date published: 2023-10-25T22:59:00.018761+00:00
- - user: None
- - tags: []
-
-## Roastidio.us Blog
- - [https://blog.roastidio.us](https://blog.roastidio.us)
- - date published: 2023-10-25T22:59:01.153689+00:00
  - user: None
  - tags: []
 

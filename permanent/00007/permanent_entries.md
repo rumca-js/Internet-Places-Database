@@ -1,3 +1,33 @@
+## The Honest Broker | Roger Pielke Jr. | Substack
+ - [https://rogerpielkejr.substack.com](https://rogerpielkejr.substack.com)
+ - date published: 2023-10-25T10:02:34.687234+00:00
+ - user: None
+ - tags: ['substack']
+
+## RSS DS+AI Section Newsletter | Substack
+ - [http://rssdsaisection.substack.com](http://rssdsaisection.substack.com)
+ - date published: 2023-10-25T10:02:40.265611+00:00
+ - user: None
+ - tags: ['substack']
+
+## Entry Level Investing | Ryan Shannon | Substack
+ - [http://ryanshannon.substack.com](http://ryanshannon.substack.com)
+ - date published: 2023-10-25T10:02:43.142233+00:00
+ - user: None
+ - tags: ['substack']
+
+## Numb at the Lodge | Sam Kriss | Substack
+ - [http://samkriss.substack.com](http://samkriss.substack.com)
+ - date published: 2023-10-25T10:02:45.924044+00:00
+ - user: None
+ - tags: ['substack']
+
+## Scatter Brain | Sar Haribhakti | Substack
+ - [http://sarharibhakti.substack.com](http://sarharibhakti.substack.com)
+ - date published: 2023-10-25T10:02:49.102729+00:00
+ - user: None
+ - tags: ['substack']
+
 ## Sasha's 'Newsletter' | Sasha Chapin | Substack
  - [http://sashachapin.substack.com](http://sashachapin.substack.com)
  - date published: 2023-10-25T10:02:53.975339+00:00
@@ -5965,36 +5995,6 @@
 ## We Love Trump - We Love Trump
  - [https://welovetrump.com](https://welovetrump.com)
  - date published: 2023-10-27T11:56:34.660336+00:00
- - user: None
- - tags: []
-
-## Free Cheats and Trainers for Thousands of PC Games - WeMod App
- - [https://www.wemod.com](https://www.wemod.com)
- - date published: 2023-10-28T20:43:16.661569+00:00
- - user: None
- - tags: ['game trainer']
-
-## Home
- - [https://www.weny.com](https://www.weny.com)
- - date published: 2023-11-15T15:16:18.816467+00:00
- - user: None
- - tags: []
-
-## THE CONTRARIAN IMPULSE
- - [https://wesammikhail.com](https://wesammikhail.com)
- - date published: 2023-10-27T11:56:36.318781+00:00
- - user: None
- - tags: []
-
-## Main Page
- - [https://blog.wesleyac.com](https://blog.wesleyac.com)
- - date published: 2023-10-27T11:56:37.768938+00:00
- - user: None
- - tags: []
-
-## Wes McKinney
- - [https://wesmckinney.com](https://wesmckinney.com)
- - date published: 2023-10-27T11:56:39.333955+00:00
  - user: None
  - tags: []
 

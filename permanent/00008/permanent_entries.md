@@ -1,3 +1,33 @@
+## Home
+ - [https://www.weny.com](https://www.weny.com)
+ - date published: 2023-11-15T15:16:18.816467+00:00
+ - user: None
+ - tags: []
+
+## THE CONTRARIAN IMPULSE
+ - [https://wesammikhail.com](https://wesammikhail.com)
+ - date published: 2023-10-27T11:56:36.318781+00:00
+ - user: None
+ - tags: []
+
+## Main Page
+ - [https://blog.wesleyac.com](https://blog.wesleyac.com)
+ - date published: 2023-10-27T11:56:37.768938+00:00
+ - user: None
+ - tags: []
+
+## Wes McKinney
+ - [https://wesmckinney.com](https://wesmckinney.com)
+ - date published: 2023-10-27T11:56:39.333955+00:00
+ - user: None
+ - tags: []
+
+## High-Performance SSDs, HDDs, USB Drives, &amp; Memory Cards | Western Digital
+ - [https://www.westerndigital.com](https://www.westerndigital.com)
+ - date published: 2023-11-01T08:43:25.034810+00:00
+ - user: None
+ - tags: []
+
 ## Shaping Tomorrow's Energy | Westinghouse Electric Company
  - [http://www.westinghousenuclear.com](http://www.westinghousenuclear.com)
  - date published: 2023-10-27T11:56:50.936719+00:00
@@ -5968,36 +5998,6 @@ home
 ## Home | Department of Computer Science
  - [https://www.cs.cornell.edu](https://www.cs.cornell.edu)
  - date published: 2023-10-25T18:50:50.915149+00:00
- - user: None
- - tags: []
-
-## CU Anschutz Newsroom
- - [https://news.cuanschutz.edu](https://news.cuanschutz.edu)
- - date published: 2023-10-25T18:50:58.468453+00:00
- - user: None
- - tags: []
-
-## The City College of New York
- - [https://www.ccny.cuny.edu](https://www.ccny.cuny.edu)
- - date published: 2023-10-25T18:51:01.179182+00:00
- - user: None
- - tags: []
-
-## Mathematics at Dartmouth
- - [https://math.dartmouth.edu](https://math.dartmouth.edu)
- - date published: 2023-10-25T18:51:02.976336+00:00
- - user: None
- - tags: []
-
-## User Homepages @Drew University
- - [https://users.drew.edu](https://users.drew.edu)
- - date published: 2023-11-14T23:58:00.601263+00:00
- - user: None
- - tags: []
-
-## Drexel Home
- - [https://drexel.edu](https://drexel.edu)
- - date published: 2023-10-25T18:51:05.420930+00:00
  - user: None
  - tags: []
 

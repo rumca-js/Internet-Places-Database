@@ -1,3 +1,33 @@
+## Index of /.
+ - [https://maizure.org](https://maizure.org)
+ - date published: 2023-10-25T21:40:18.210567+00:00
+ - user: None
+ - tags: []
+
+## http://makie.org
+ - [http://makie.org](http://makie.org)
+ - date published: 2023-10-25T21:40:19.984747+00:00
+ - user: None
+ - tags: []
+
+## MAMEdev.org | Home of The MAME Project
+ - [https://www.mamedev.org](https://www.mamedev.org)
+ - date published: 2023-10-25T08:33:59.180459+00:00
+ - user: None
+ - tags: []
+
+## Michael Kerrisk - man7.org
+ - [https://man7.org](https://man7.org)
+ - date published: 2023-10-25T08:54:54.932586+00:00
+ - user: None
+ - tags: ['personal']
+
+## Michael Kerrisk - man7.org
+ - [https://www.man7.org](https://www.man7.org)
+ - date published: 2023-11-01T08:44:26.382114+00:00
+ - user: None
+ - tags: []
+
 ## Manifund
  - [https://manifund.org](https://manifund.org)
  - date published: 2023-10-25T21:40:31.014774+00:00
@@ -5968,36 +5998,6 @@ is forbidden
 ## Calcoolator.pl - Kalkulatory online
  - [https://calcoolator.pl](https://calcoolator.pl)
  - date published: 2023-10-25T22:26:23.368301+00:00
- - user: None
- - tags: []
-
-## Sklepy Castorama to sieć marketów z materiałami budowlanymi, remontowymi, dekoracyjnymi i ogrodniczymi.
- - [https://www.castorama.pl](https://www.castorama.pl)
- - date published: 2023-10-26T08:34:33.606484+00:00
- - user: None
- - tags: ['shop']
-
-## CDA - Społeczność cda.pl
- - [https://www.cda.pl](https://www.cda.pl)
- - date published: 2023-10-25T11:30:26.520324+00:00
- - user: None
- - tags: ['piracy', 'video streaming']
-
-## CD-Action – Strona główna
- - [https://cdaction.pl](https://cdaction.pl)
- - date published: 2023-10-25T09:29:32.142014+00:00
- - user: None
- - tags: ['game news']
-
-## Ceneo - porównanie cen, sklepy, perfumy, agd, rtv, komputery
- - [https://www.ceneo.pl](https://www.ceneo.pl)
- - date published: 2023-10-24T20:20:37.877202+00:00
- - user: None
- - tags: ['ranking']
-
-## CERT Polska
- - [https://cert.pl](https://cert.pl)
- - date published: 2023-10-25T22:26:24.449840+00:00
  - user: None
  - tags: []
 

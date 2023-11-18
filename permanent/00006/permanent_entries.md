@@ -1,3 +1,27 @@
+## retrotechnology.com, retrotechnology.net
+ - [https://www.retrotechnology.com](https://www.retrotechnology.com)
+ - date published: 2023-10-25T08:47:48.567953+00:00
+ - user: None
+ - tags: ['personal']
+
+## Return to Monkey Island | Available now on PC, Nintendo Swtich, PS5, and Xbox S/X
+ - [https://returntomonkeyisland.com](https://returntomonkeyisland.com)
+ - date published: 2023-10-25T16:50:39.735294+00:00
+ - user: None
+ - tags: []
+
+## The Lord of the Rings: Return to Moria™
+ - [https://www.returntomoria.com](https://www.returntomoria.com)
+ - date published: 2023-10-25T13:56:54.054723+00:00
+ - user: None
+ - tags: ['tolkien']
+
+## Reuters | Breaking International News & Views
+ - [https://www.reuters.com](https://www.reuters.com)
+ - date published: 2023-10-25T10:38:41.639140+00:00
+ - user: None
+ - tags: []
+
 ## International News Agency | Multimedia News Provider | Reuters
  - [https://www.reutersagency.com](https://www.reutersagency.com)
  - date published: 2023-10-25T16:50:47.197541+00:00
@@ -5972,30 +5996,6 @@
 ## Interconnects | Nathan Lambert | Substack
  - [https://robotic.substack.com](https://robotic.substack.com)
  - date published: 2023-10-25T10:02:26.630773+00:00
- - user: None
- - tags: ['substack']
-
-## The Honest Broker | Roger Pielke Jr. | Substack
- - [https://rogerpielkejr.substack.com](https://rogerpielkejr.substack.com)
- - date published: 2023-10-25T10:02:34.687234+00:00
- - user: None
- - tags: ['substack']
-
-## RSS DS+AI Section Newsletter | Substack
- - [http://rssdsaisection.substack.com](http://rssdsaisection.substack.com)
- - date published: 2023-10-25T10:02:40.265611+00:00
- - user: None
- - tags: ['substack']
-
-## Entry Level Investing | Ryan Shannon | Substack
- - [http://ryanshannon.substack.com](http://ryanshannon.substack.com)
- - date published: 2023-10-25T10:02:43.142233+00:00
- - user: None
- - tags: ['substack']
-
-## Numb at the Lodge | Sam Kriss | Substack
- - [http://samkriss.substack.com](http://samkriss.substack.com)
- - date published: 2023-10-25T10:02:45.924044+00:00
  - user: None
  - tags: ['substack']
 

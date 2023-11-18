@@ -1,3 +1,15 @@
+## faq - Chad Nauseam Home
+ - [https://chadnauseam.com](https://chadnauseam.com)
+ - date published: 2023-10-25T13:20:12.854613+00:00
+ - user: None
+ - tags: []
+
+## Challonge
+ - [https://challonge.com](https://challonge.com)
+ - date published: 2023-11-12T22:06:34.634033+00:00
+ - user: None
+ - tags: []
+
 ## chandrakantha.com – Information of interest to the student and lover of Indian music
  - [https://chandrakantha.com](https://chandrakantha.com)
  - date published: 2023-10-25T13:20:16.676397+00:00
@@ -1490,6 +1502,12 @@
  - date published: 2023-11-01T18:37:29.679475+00:00
  - user: None
  - tags: ['tabletop games', 'miniatures']
+
+## Get an email address at coons.com. It's ad-free, reliable email that's based on your own name | coons.com
+ - [http://coons.com](http://coons.com)
+ - date published: 2023-11-18T08:16:57.088256+00:00
+ - user: None
+ - tags: []
 
 ## Emi's Feed
  - [https://coppolaemilio.com](https://coppolaemilio.com)
@@ -5978,24 +5996,6 @@
 ## Fathers.com - National Center for Fathering
  - [https://fathers.com](https://fathers.com)
  - date published: 2023-10-25T14:28:06.222344+00:00
- - user: None
- - tags: []
-
-## Fauna | The distributed serverless database
- - [https://fauna.com](https://fauna.com)
- - date published: 2023-10-25T08:37:18.101548+00:00
- - user: None
- - tags: []
-
-## Facebook
- - [https://about.fb.com](https://about.fb.com)
- - date published: 2023-10-25T14:28:10.356594+00:00
- - user: None
- - tags: []
-
-## Engineering at Meta - Engineering at Meta Blog
- - [https://engineering.fb.com](https://engineering.fb.com)
- - date published: 2023-10-25T14:28:11.988492+00:00
  - user: None
  - tags: []
 

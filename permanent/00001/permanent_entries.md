@@ -1,3 +1,9 @@
+## Abner
+ - [https://abnercoimbre.com](https://abnercoimbre.com)
+ - date published: 2023-10-25T08:44:05.326397+00:00
+ - user: None
+ - tags: ['personal']
+
 ## About Amazon
  - [https://www.aboutamazon.com](https://www.aboutamazon.com)
  - date published: 2023-10-25T12:30:23.394156+00:00
@@ -5989,12 +5995,6 @@
 ## thoughts by ch3ngl0rd ᕦʕ •ᴥ•ʔᕤ
  - [https://www.ch3ngl0rd.com](https://www.ch3ngl0rd.com)
  - date published: 2023-10-28T05:40:39.418464+00:00
- - user: None
- - tags: []
-
-## faq - Chad Nauseam Home
- - [https://chadnauseam.com](https://chadnauseam.com)
- - date published: 2023-10-25T13:20:12.854613+00:00
  - user: None
  - tags: []
 

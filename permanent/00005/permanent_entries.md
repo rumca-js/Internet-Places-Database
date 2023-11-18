@@ -1,3 +1,27 @@
+## Home | Mr James Bell
+ - [https://mrjamesbell.com](https://mrjamesbell.com)
+ - date published: 2023-10-25T16:08:12.987041+00:00
+ - user: None
+ - tags: []
+
+## MrScraper, a visual and dead-simple web scraper.
+ - [https://mrscraper.com](https://mrscraper.com)
+ - date published: 2023-10-25T16:08:15.862672+00:00
+ - user: None
+ - tags: []
+
+## – Things I wish I knew when I started (mrsteinberg.com/)
+ - [https://mrsteinberg.com](https://mrsteinberg.com)
+ - date published: 2023-10-25T16:08:17.444015+00:00
+ - user: None
+ - tags: []
+
+## MSN
+ - [https://www.msn.com](https://www.msn.com)
+ - date published: 2023-10-25T10:26:37.266048+00:00
+ - user: None
+ - tags: []
+
 ## MSNBC News - Breaking News and News Today | Latest News
  - [https://msnbc.com](https://msnbc.com)
  - date published: 2023-11-05T15:29:41.824039+00:00
@@ -5978,28 +6002,4 @@ Answering Machine Greetings!
  - date published: 2023-10-25T08:47:47.426248+00:00
  - user: None
  - tags: ['personal']
-
-## Retro Reverse Engineering · RetroReversing
- - [https://www.retroreversing.com](https://www.retroreversing.com)
- - date published: 2023-10-25T16:50:34.097785+00:00
- - user: None
- - tags: []
-
-## retrotechnology.com, retrotechnology.net
- - [https://www.retrotechnology.com](https://www.retrotechnology.com)
- - date published: 2023-10-25T08:47:48.567953+00:00
- - user: None
- - tags: ['personal']
-
-## Return to Monkey Island | Available now on PC, Nintendo Swtich, PS5, and Xbox S/X
- - [https://returntomonkeyisland.com](https://returntomonkeyisland.com)
- - date published: 2023-10-25T16:50:39.735294+00:00
- - user: None
- - tags: []
-
-## The Lord of the Rings: Return to Moria™
- - [https://www.returntomoria.com](https://www.returntomoria.com)
- - date published: 2023-10-25T13:56:54.054723+00:00
- - user: None
- - tags: ['tolkien']
 

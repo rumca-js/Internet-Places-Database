@@ -1,3 +1,27 @@
+## JETNET | World Leader in Aviation Market Intelligence
+ - [https://www.jetnet.com](https://www.jetnet.com)
+ - date published: 2023-10-25T15:28:36.142271+00:00
+ - user: None
+ - tags: []
+
+## JetPens - The Best Pens & Stationery From Japan & Beyond
+ - [https://www.jetpens.com](https://www.jetpens.com)
+ - date published: 2023-10-25T15:28:45.728960+00:00
+ - user: None
+ - tags: []
+
+## Jezen Thomas | Haskell, Unix, Minimalism, and Entrepreneurship.
+ - [https://jezenthomas.com](https://jezenthomas.com)
+ - date published: 2023-10-25T15:28:46.503280+00:00
+ - user: None
+ - tags: []
+
+## Software Supply Chain Platform for DevOps & Security | JFrog
+ - [https://jfrog.com](https://jfrog.com)
+ - date published: 2023-10-25T15:29:02.160628+00:00
+ - user: None
+ - tags: []
+
 ## jgallant's Indie Game Developer Homepage
  - [https://www.jgallant.com](https://www.jgallant.com)
  - date published: 2023-10-25T15:29:05.166800+00:00
@@ -5968,30 +5992,6 @@ diversions.
 ## Daniel Bourke
  - [https://www.mrdbourke.com](https://www.mrdbourke.com)
  - date published: 2023-10-25T16:08:10.310346+00:00
- - user: None
- - tags: []
-
-## -= MrElusive.com =-
- - [https://mrelusive.com](https://mrelusive.com)
- - date published: 2023-10-25T08:47:18.136526+00:00
- - user: None
- - tags: ['personal']
-
-## Home | Mr James Bell
- - [https://mrjamesbell.com](https://mrjamesbell.com)
- - date published: 2023-10-25T16:08:12.987041+00:00
- - user: None
- - tags: []
-
-## MrScraper, a visual and dead-simple web scraper.
- - [https://mrscraper.com](https://mrscraper.com)
- - date published: 2023-10-25T16:08:15.862672+00:00
- - user: None
- - tags: []
-
-## – Things I wish I knew when I started (mrsteinberg.com/)
- - [https://mrsteinberg.com](https://mrsteinberg.com)
- - date published: 2023-10-25T16:08:17.444015+00:00
  - user: None
  - tags: []
 

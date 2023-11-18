@@ -1,3 +1,21 @@
+## Facebook
+ - [https://about.fb.com](https://about.fb.com)
+ - date published: 2023-10-25T14:28:10.356594+00:00
+ - user: None
+ - tags: []
+
+## Engineering at Meta - Engineering at Meta Blog
+ - [https://engineering.fb.com](https://engineering.fb.com)
+ - date published: 2023-10-25T14:28:11.988492+00:00
+ - user: None
+ - tags: []
+
+## Meta - Home
+ - [https://investor.fb.com](https://investor.fb.com)
+ - date published: 2023-10-25T14:28:14.546794+00:00
+ - user: None
+ - tags: []
+
 ## Fck Oatly
  - [https://fckoatly.com](https://fckoatly.com)
  - date published: 2023-10-25T14:28:16.635829+00:00
@@ -5975,24 +5993,6 @@
 ## JetBrains: Essential tools for software developers and teams
  - [https://www.jetbrains.com](https://www.jetbrains.com)
  - date published: 2023-10-25T11:28:02.006390+00:00
- - user: None
- - tags: []
-
-## JETNET | World Leader in Aviation Market Intelligence
- - [https://www.jetnet.com](https://www.jetnet.com)
- - date published: 2023-10-25T15:28:36.142271+00:00
- - user: None
- - tags: []
-
-## JetPens - The Best Pens & Stationery From Japan & Beyond
- - [https://www.jetpens.com](https://www.jetpens.com)
- - date published: 2023-10-25T15:28:45.728960+00:00
- - user: None
- - tags: []
-
-## Jezen Thomas | Haskell, Unix, Minimalism, and Entrepreneurship.
- - [https://jezenthomas.com](https://jezenthomas.com)
- - date published: 2023-10-25T15:28:46.503280+00:00
  - user: None
  - tags: []
 
