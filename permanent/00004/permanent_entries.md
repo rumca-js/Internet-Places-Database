@@ -1,3 +1,93 @@
+## jgallant's Indie Game Developer Homepage
+ - [https://www.jgallant.com](https://www.jgallant.com)
+ - date published: 2023-10-25T15:29:05.166800+00:00
+ - user: None
+ - tags: []
+
+## Ji'hyn's Webbed Site – Thinkin' 'bout stuff
+ - [https://jihyn.com](https://jihyn.com)
+ - date published: 2023-11-09T19:01:08.263803+00:00
+ - user: None
+ - tags: []
+
+## Jim Nielsen’s Blog
+ - [https://blog.jim-nielsen.com](https://blog.jim-nielsen.com)
+ - date published: 2023-10-25T15:29:09.082962+00:00
+ - user: None
+ - tags: []
+
+## Jim Clair – Blog
+ - [https://jimclair.com](https://jimclair.com)
+ - date published: 2023-10-25T15:29:13.208321+00:00
+ - user: None
+ - tags: []
+
+## Jingnan Shi
+ - [https://jingnanshi.com](https://jingnanshi.com)
+ - date published: 2023-10-25T15:29:17.944385+00:00
+ - user: None
+ - tags: []
+
+## JITX - Software-defined electronics
+ - [https://www.jitx.com](https://www.jitx.com)
+ - date published: 2023-10-25T15:29:20.014336+00:00
+ - user: None
+ - tags: []
+
+## Jonathan Katz
+ - [https://jkatz05.com](https://jkatz05.com)
+ - date published: 2023-10-25T15:29:21.287258+00:00
+ - user: None
+ - tags: []
+
+## Jon Kulton
+ - [https://jkulton.com](https://jkulton.com)
+ - date published: 2023-10-25T15:29:22.992517+00:00
+ - user: None
+ - tags: []
+
+## Jon Quixote | In which the author considers whether a community is more like a giant or more like a windmill.
+ - [https://jlericson.com](https://jlericson.com)
+ - date published: 2023-10-25T15:29:25.754618+00:00
+ - user: None
+ - tags: []
+
+## James Long - blog & knowledge graph
+ - [https://jlongster.com](https://jlongster.com)
+ - date published: 2023-10-25T15:29:27.238133+00:00
+ - user: None
+ - tags: []
+
+## A sonic soul with a relentless drive to make & learn - JmsDnns
+ - [https://jmsdnns.com](https://jmsdnns.com)
+ - date published: 2023-10-25T15:29:28.593016+00:00
+ - user: None
+ - tags: []
+
+## Johnson & Johnson
+ - [https://www.jnj.com](https://www.jnj.com)
+ - date published: 2023-11-01T08:42:21.909273+00:00
+ - user: None
+ - tags: []
+
+## https://www.jntrnr.com
+ - [https://www.jntrnr.com](https://www.jntrnr.com)
+ - date published: 2023-10-25T15:29:29.920596+00:00
+ - user: None
+ - tags: []
+
+## Joanne Jacobs on Education and Parenting
+ - [https://www.joannejacobs.com](https://www.joannejacobs.com)
+ - date published: 2023-10-25T15:29:32.835787+00:00
+ - user: None
+ - tags: []
+
+## Tech + Economics + Humans
+ - [https://joanwestenberg.com](https://joanwestenberg.com)
+ - date published: 2023-10-30T12:42:03.697617+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://joaodlf.com](https://joaodlf.com)
  - date published: 2023-10-25T15:29:35.649022+00:00
@@ -110,7 +200,7 @@
  - [https://www.johnnycashhasbeeneverywhere.com](https://www.johnnycashhasbeeneverywhere.com)
  - date published: 2023-10-25T11:07:59.661696+00:00
  - user: None
- - tags: []
+ - tags: ['funny', 'animation']
 
 ## 11.01 Introduction║J•D
  - [https://johnnydecimal.com](https://johnnydecimal.com)
@@ -224,6 +314,12 @@
  - [https://www.jordanbpeterson.com](https://www.jordanbpeterson.com)
  - date published: 2023-10-25T08:46:41.267780+00:00
  - user: None
+ - tags: ['personal']
+
+## Jorge Sancho Muñoz
+ - [https://jorgesm.com](https://jorgesm.com)
+ - date published: 2023-11-17T15:06:23+00:00
+ - user: rumpel
  - tags: ['personal']
 
 ## Josef Erben's Blog
@@ -995,6 +1091,12 @@
  - user: None
  - tags: ['company', 'car producer']
 
+## https://kick.com
+ - [https://kick.com](https://kick.com)
+ - date published: 2023-11-18T06:42:22.619931+00:00
+ - user: None
+ - tags: []
+
 ## Real-time Software For Business-Critical Applications | Kickstage
  - [https://kickstage.com](https://kickstage.com)
  - date published: 2023-10-25T15:37:16.966035+00:00
@@ -1124,6 +1226,12 @@
 ## Rakuten Kobo
  - [https://www.kobo.com](https://www.kobo.com)
  - date published: 2023-10-25T08:24:09.609956+00:00
+ - user: None
+ - tags: []
+
+## Site Not Available
+ - [https://www.koco.com](https://www.koco.com)
+ - date published: 2023-11-17T23:48:52.603924+00:00
  - user: None
  - tags: []
 
@@ -3189,6 +3297,12 @@ diversions.
 ## Malay Mail | Breaking News, Malaysia, World, Lifestyle News
  - [https://www.malaymail.com](https://www.malaymail.com)
  - date published: 2023-10-25T15:54:56.436525+00:00
+ - user: None
+ - tags: []
+
+## MalaysiaNow | News, views and insights into Malaysian current affairs.
+ - [https://www.malaysianow.com](https://www.malaysianow.com)
+ - date published: 2023-11-17T07:41:45.486280+00:00
  - user: None
  - tags: []
 
@@ -5878,120 +5992,6 @@ diversions.
 ## – Things I wish I knew when I started (mrsteinberg.com/)
  - [https://mrsteinberg.com](https://mrsteinberg.com)
  - date published: 2023-10-25T16:08:17.444015+00:00
- - user: None
- - tags: []
-
-## MSN
- - [https://www.msn.com](https://www.msn.com)
- - date published: 2023-10-25T10:26:37.266048+00:00
- - user: None
- - tags: []
-
-## MSNBC News - Breaking News and News Today | Latest News
- - [https://msnbc.com](https://msnbc.com)
- - date published: 2023-11-05T15:29:41.824039+00:00
- - user: None
- - tags: []
-
-## MSNBC News - Breaking News and News Today | Latest News
- - [https://www.msnbc.com](https://www.msnbc.com)
- - date published: 2023-10-25T10:26:52.780038+00:00
- - user: None
- - tags: ['news']
-
-## Home - MSPoweruser
- - [https://mspoweruser.com](https://mspoweruser.com)
- - date published: 2023-10-25T16:08:22.790856+00:00
- - user: None
- - tags: []
-
-## MT-Propeller - Home
- - [https://www.mt-propeller.com](https://www.mt-propeller.com)
- - date published: 2023-10-25T16:08:24.716570+00:00
- - user: None
- - tags: []
-
-## MTG Rocks - Magic The Gathering Decks, Spoilers, Strategy & More!
- - [https://mtgrocks.com](https://mtgrocks.com)
- - date published: 2023-10-25T16:08:30.301225+00:00
- - user: None
- - tags: []
-
-## MUBI: Watch and Discover Movies
- - [https://mubi.com](https://mubi.com)
- - date published: 2023-11-13T12:46:47.451838+00:00
- - user: None
- - tags: []
-
-## The MUGEN ARCHIVE - Home
- - [https://mugenarchive.com](https://mugenarchive.com)
- - date published: 2023-10-29T09:58:23.978741+00:00
- - user: None
- - tags: []
-
-## MUGEN CHARACTERS: Download Chars, Games, Stages
- - [https://www.mugendb.com](https://www.mugendb.com)
- - date published: 2023-10-30T16:29:57.817187+00:00
- - user: None
- - tags: []
-
-## Mugen Free For All
- - [https://mugenfreeforall.com](https://mugenfreeforall.com)
- - date published: 2023-10-29T09:56:20.071922+00:00
- - user: None
- - tags: []
-
-## MuggleNet - The #1 Wizarding World Resource Since 1999
- - [https://www.mugglenet.com](https://www.mugglenet.com)
- - date published: 2023-10-25T14:08:36.190046+00:00
- - user: None
- - tags: []
-
-## Mule Design
- - [https://www.muledesign.com](https://www.muledesign.com)
- - date published: 2023-10-25T16:08:34.253814+00:00
- - user: None
- - tags: []
-
-## Mumsnet | The UK’s most popular website for parents | Mumsnet
- - [https://www.mumsnet.com](https://www.mumsnet.com)
- - date published: 2023-10-25T16:08:38.624280+00:00
- - user: None
- - tags: []
-
-## Welcome to Muppetlabs
- - [https://www.muppetlabs.com](https://www.muppetlabs.com)
- - date published: 2023-10-25T16:08:39.656420+00:00
- - user: None
- - tags: []
-
-## Muscle Cars and Trucks - Your Single Source For Automotive Americana
- - [https://www.musclecarsandtrucks.com](https://www.musclecarsandtrucks.com)
- - date published: 2023-10-25T16:08:45.559609+00:00
- - user: None
- - tags: []
-
-## MuscleWiki - Simplify your workout
- - [https://musclewiki.com](https://musclewiki.com)
- - date published: 2023-10-25T16:08:46.078982+00:00
- - user: None
- - tags: []
-
-## Muse — dive into big ideas
- - [https://museapp.com](https://museapp.com)
- - date published: 2023-10-25T16:08:46.848223+00:00
- - user: None
- - tags: []
-
-## Museum of Failure Main - Museum of Failure
- - [https://museumoffailure.com](https://museumoffailure.com)
- - date published: 2023-10-25T16:08:49.578439+00:00
- - user: None
- - tags: []
-
-## Musico - AI generative music
- - [https://www.musi-co.com](https://www.musi-co.com)
- - date published: 2023-10-25T16:08:56.804634+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,285 @@
+## Manifund
+ - [https://manifund.org](https://manifund.org)
+ - date published: 2023-10-25T21:40:31.014774+00:00
+ - user: None
+ - tags: []
+
+## Manjaro
+ - [https://manjaro.org](https://manjaro.org)
+ - date published: 2023-10-25T08:32:30.040310+00:00
+ - user: None
+ - tags: ['operating system', 'linux']
+
+## Manton Reece
+ - [https://www.manton.org](https://www.manton.org)
+ - date published: 2023-10-25T08:54:57.479172+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://manytools.org](https://manytools.org)
+ - date published: 2023-10-30T13:46:40.956044+00:00
+ - user: None
+ - tags: []
+
+## Museo de Arte de Puerto Rico |
+ - [https://www.mapr.org](https://www.mapr.org)
+ - date published: 2023-11-13T13:47:30.668564+00:00
+ - user: None
+ - tags: ['museum']
+
+## Marco.org
+ - [https://marco.org](https://marco.org)
+ - date published: 2023-10-25T08:55:03.700528+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Marcosticks
+ - [https://marcosticks.org](https://marcosticks.org)
+ - date published: 2023-10-25T21:40:39.086833+00:00
+ - user: None
+ - tags: []
+
+## Marketplace - Business News & Economic Stories For Everyone.
+ - [https://www.marketplace.org](https://www.marketplace.org)
+ - date published: 2023-10-25T21:40:43.366236+00:00
+ - user: None
+ - tags: []
+
+## Award-winning cancer care in Virginia
+ - [https://www.masseycancercenter.org](https://www.masseycancercenter.org)
+ - date published: 2023-11-07T14:33:04.946309+00:00
+ - user: None
+ - tags: []
+
+## massicotte.org | I write stuff here.
+ - [https://www.massicotte.org](https://www.massicotte.org)
+ - date published: 2023-10-25T21:40:44.215042+00:00
+ - user: None
+ - tags: []
+
+## Mastering Emacs
+ - [https://www.masteringemacs.org](https://www.masteringemacs.org)
+ - date published: 2023-10-25T08:40:44.720587+00:00
+ - user: None
+ - tags: []
+
+## Mathics
+ - [https://mathics.org](https://mathics.org)
+ - date published: 2023-10-25T21:40:45.148461+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Plus! | plus.maths.org
+ - [https://plus.maths.org](https://plus.maths.org)
+ - date published: 2023-10-25T21:40:46.513276+00:00
+ - user: None
+ - tags: []
+
+## Matomo Analytics - The Google Analytics alternative that protects your data
+ - [https://matomo.org](https://matomo.org)
+ - date published: 2023-10-25T21:40:48.794247+00:00
+ - user: None
+ - tags: []
+
+## Matplotlib — Visualization with Python
+ - [https://matplotlib.org](https://matplotlib.org)
+ - date published: 2023-10-25T21:40:50.255598+00:00
+ - user: None
+ - tags: []
+
+## mastodon.matrix.org - Matrix.org's Mastodon
+ - [https://mastodon.matrix.org](https://mastodon.matrix.org)
+ - date published: 2023-10-25T21:40:51.505890+00:00
+ - user: None
+ - tags: []
+
+## Matrix.org
+ - [https://matrix.org](https://matrix.org)
+ - date published: 2023-10-25T08:36:31.764842+00:00
+ - user: None
+ - tags: ['social communicator']
+
+## Matrix Calculus
+ - [https://www.matrixcalculus.org](https://www.matrixcalculus.org)
+ - date published: 2023-10-25T21:40:52.658451+00:00
+ - user: None
+ - tags: []
+
+## Matt Blaze / mattblaze.org
+ - [https://www.mattblaze.org](https://www.mattblaze.org)
+ - date published: 2023-11-12T18:27:09.723895+00:00
+ - user: None
+ - tags: []
+
+## Matt Lakeman – Writing on books, experiments, and random things I can't stop thinking about
+ - [https://mattlakeman.org](https://mattlakeman.org)
+ - date published: 2023-10-25T21:40:58.876749+00:00
+ - user: None
+ - tags: []
+
+## Stan
+ - [https://mc-stan.org](https://mc-stan.org)
+ - date published: 2023-11-10T00:49:59.615646+00:00
+ - user: None
+ - tags: []
+
+## mCaptcha - mCaptcha
+ - [https://mcaptcha.org](https://mcaptcha.org)
+ - date published: 2023-10-25T21:41:00.182452+00:00
+ - user: None
+ - tags: []
+
+## Material Curricular Libre - www.mclibre.org
+ - [https://www.mclibre.org](https://www.mclibre.org)
+ - date published: 2023-10-25T21:41:01.332000+00:00
+ - user: None
+ - tags: []
+
+## Media Lens – Correcting for the distorted vision of the corporate media
+ - [https://www.medialens.org](https://www.medialens.org)
+ - date published: 2023-10-25T21:41:03.647662+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Media Matters for America
+ - [https://www.mediamatters.org](https://www.mediamatters.org)
+ - date published: 2023-10-25T09:30:18.940421+00:00
+ - user: None
+ - tags: []
+
+## medRxiv.org - the preprint server for Health Sciences
+ - [https://www.medrxiv.org](https://www.medrxiv.org)
+ - date published: 2023-10-25T21:41:10.551921+00:00
+ - user: None
+ - tags: []
+
+## Melang | A script language of step-sharing scheduling coroutine in single thread
+ - [https://melang.org](https://melang.org)
+ - date published: 2023-10-25T21:41:11.360853+00:00
+ - user: None
+ - tags: []
+
+## Prossimo
+ - [https://www.memorysafety.org](https://www.memorysafety.org)
+ - date published: 2023-10-25T21:41:12.258442+00:00
+ - user: None
+ - tags: []
+
+## Memtest86+ | The Open-Source Memory Testing Tool
+ - [https://www.memtest.org](https://www.memtest.org)
+ - date published: 2023-10-25T21:41:13.583448+00:00
+ - user: None
+ - tags: []
+
+## Men Having Babies: guidance, advocacy & financial assistance for current and future gay surrogacy parents
+ - [https://menhavingbabies.org](https://menhavingbabies.org)
+ - date published: 2023-10-25T21:41:19.592510+00:00
+ - user: None
+ - tags: []
+
+## Road to Reality Essays
+ - [https://reality.mentat.org](https://reality.mentat.org)
+ - date published: 2023-10-25T21:41:20.518174+00:00
+ - user: None
+ - tags: []
+
+## Meribold
+ - [https://meribold.org](https://meribold.org)
+ - date published: 2023-10-25T21:41:21.356947+00:00
+ - user: None
+ - tags: []
+
+## mersenneforum.org
+ - [https://mersenneforum.org](https://mersenneforum.org)
+ - date published: 2023-10-25T21:41:28.576008+00:00
+ - user: None
+ - tags: []
+
+## mersenneforum.org
+ - [https://www.mersenneforum.org](https://www.mersenneforum.org)
+ - date published: 2023-10-25T21:41:34.285651+00:00
+ - user: None
+ - tags: []
+
+## Introduction — The Mesa 3D Graphics Library latest documentation
+ - [https://docs.mesa3d.org](https://docs.mesa3d.org)
+ - date published: 2023-10-25T21:41:37.809868+00:00
+ - user: None
+ - tags: []
+
+## MetaBrainz Blog – MetaBrainz Foundation community blog
+ - [https://blog.metabrainz.org](https://blog.metabrainz.org)
+ - date published: 2023-10-25T21:41:49.234942+00:00
+ - user: None
+ - tags: []
+
+## METEA MEDIA - Your World. Your Stories. Everyday.
+ - [https://meteamedia.org](https://meteamedia.org)
+ - date published: 2023-10-25T21:41:57.632879+00:00
+ - user: None
+ - tags: []
+
+## The Metropolitan Museum of Art
+ - [https://www.metmuseum.org](https://www.metmuseum.org)
+ - date published: 2023-11-13T13:45:57.754259+00:00
+ - user: None
+ - tags: ['museum']
+
+## The Masonry Heater Association (MHA) Website
+ - [https://www.mha-net.org](https://www.mha-net.org)
+ - date published: 2023-10-25T11:34:45.766867+00:00
+ - user: None
+ - tags: []
+
+## http://www.michaeleisen.org
+ - [http://www.michaeleisen.org](http://www.michaeleisen.org)
+ - date published: 2023-10-25T21:41:59.650547+00:00
+ - user: None
+ - tags: []
+
+## The Michael J. Fox Foundation for Parkinson's Research | Parkinson's Disease
+ - [https://www.michaeljfox.org](https://www.michaeljfox.org)
+ - date published: 2023-10-25T21:42:04.712986+00:00
+ - user: None
+ - tags: []
+
+## Michael Nielsen
+ - [https://michaelnielsen.org](https://michaelnielsen.org)
+ - date published: 2023-10-25T21:42:09.865320+00:00
+ - user: None
+ - tags: []
+
+## I put things here so they are on the internet – Michael Weinberg
+ - [https://michaelweinberg.org](https://michaelweinberg.org)
+ - date published: 2023-10-25T21:42:12.922202+00:00
+ - user: None
+ - tags: []
+
+## [Home] | Michigan Medicine
+ - [https://www.michiganmedicine.org](https://www.michiganmedicine.org)
+ - date published: 2023-10-25T21:42:18.236155+00:00
+ - user: None
+ - tags: []
+
+## Microbiology Society
+ - [https://www.microbiologyresearch.org](https://www.microbiologyresearch.org)
+ - date published: 2023-10-25T21:42:27.306478+00:00
+ - user: None
+ - tags: []
+
+## Military Poisons | WILPF US
+ - [https://www.militarypoisons.org](https://www.militarypoisons.org)
+ - date published: 2023-10-25T21:42:31.932290+00:00
+ - user: None
+ - tags: []
+
+## Min | A fast, minimal browser that protects your privacy
+ - [https://minbrowser.org](https://minbrowser.org)
+ - date published: 2023-10-25T21:42:38.172126+00:00
+ - user: None
+ - tags: []
+
 ## Minding The Campus — Reforming Our Universities
  - [https://www.mindingthecampus.org](https://www.mindingthecampus.org)
  - date published: 2023-10-25T21:42:55.312806+00:00
@@ -552,7 +834,7 @@ Common Weakness Enumeration
  - [https://pixelsea.neocities.org](https://pixelsea.neocities.org)
  - date published: 2023-10-25T11:08:14.545672+00:00
  - user: None
- - tags: []
+ - tags: ['weird', 'wtf']
 
 ## Simplifier
  - [https://simplifier.neocities.org](https://simplifier.neocities.org)
@@ -911,6 +1193,12 @@ Common Weakness Enumeration
 ## Home | New York Heritage
  - [https://nyheritage.org](https://nyheritage.org)
  - date published: 2023-10-25T21:50:35.710953+00:00
+ - user: None
+ - tags: []
+
+## The New York Public Library
+ - [https://www.nypl.org](https://www.nypl.org)
+ - date published: 2023-11-17T20:24:45.384198+00:00
  - user: None
  - tags: []
 
@@ -3395,6 +3683,12 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
+## The Stanford Review
+ - [https://stanfordreview.org](https://stanfordreview.org)
+ - date published: 2023-11-17T20:05:24.177437+00:00
+ - user: None
+ - tags: []
+
 ## Statewatch |
  - [https://www.statewatch.org](https://www.statewatch.org)
  - date published: 2023-10-25T22:10:57.959001+00:00
@@ -4757,6 +5051,12 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
+## Wikidata
+ - [https://wikidata.org](https://wikidata.org)
+ - date published: 2023-11-17T16:44:51+00:00
+ - user: rumpel
+ - tags: ['database', 'archive']
+
 ## WikiIndex
  - [https://wikiindex.org](https://wikiindex.org)
  - date published: 2023-10-25T22:20:32.639179+00:00
@@ -5425,6 +5725,12 @@ is forbidden
  - user: None
  - tags: []
 
+## Sterowniki, Programy, Gry i Aktualności - Download.net.pl
+ - [https://www.download.net.pl](https://www.download.net.pl)
+ - date published: 2023-11-17T21:42:39+00:00
+ - user: rumpel
+ - tags: ['downloads', 'drivers', 'game news', 'programs']
+
 ## Nowiny - Modyfikacje Heroes III - Jaskinia Behemota
  - [https://h3mods.heroes.net.pl](https://h3mods.heroes.net.pl)
  - date published: 2023-10-25T11:18:35.910684+00:00
@@ -5692,312 +5998,6 @@ is forbidden
 ## CERT Polska
  - [https://cert.pl](https://cert.pl)
  - date published: 2023-10-25T22:26:24.449840+00:00
- - user: None
- - tags: []
-
-## CHIP - Technologie mamy we krwi!
- - [https://www.chip.pl](https://www.chip.pl)
- - date published: 2023-10-25T09:37:50.574235+00:00
- - user: None
- - tags: ['tech news']
-
-## Przyjazny dysk internetowy - Chomikuj.pl
- - [https://chomikuj.pl](https://chomikuj.pl)
- - date published: 2023-10-25T11:30:27.215016+00:00
- - user: None
- - tags: ['piracy', 'cloud drive']
-
-## Chrześcijanin.pl - Chrześcijański Serwis Informacyjny
- - [https://chrzescijanin.pl](https://chrzescijanin.pl)
- - date published: 2023-10-25T22:26:26.748789+00:00
- - user: None
- - tags: []
-
-## Computerworld - Wiadomości IT, biznes IT, praca w IT, konferencje
- - [https://www.computerworld.pl](https://www.computerworld.pl)
- - date published: 2023-10-25T22:26:31.404697+00:00
- - user: None
- - tags: []
-
-## Conrad Electronic | All parts of success
- - [https://www.conrad.pl](https://www.conrad.pl)
- - date published: 2023-10-28T20:22:09.990341+00:00
- - user: None
- - tags: ['shop', 'electronic']
-
-## Cowzdrowiu
- - [https://cowzdrowiu.pl](https://cowzdrowiu.pl)
- - date published: 2023-10-25T22:26:33.140596+00:00
- - user: None
- - tags: []
-
-## Culture.pl EN | Polish culture: literature, art, film, design, language, cuisine & more! | Culture.pl
- - [https://culture.pl](https://culture.pl)
- - date published: 2023-10-25T10:14:36.451684+00:00
- - user: None
- - tags: []
-
-## Strona główna | CyberDefence24
- - [https://cyberdefence24.pl](https://cyberdefence24.pl)
- - date published: 2023-10-25T22:26:39.035498+00:00
- - user: None
- - tags: []
-
-## Daniel Janus – blog
- - [https://blog.danieljanus.pl](https://blog.danieljanus.pl)
- - date published: 2023-10-25T09:24:20.873041+00:00
- - user: None
- - tags: ['personal']
-
-## Dawid Podsiadło - oficjalna strona
- - [https://dawidpodsiadlo.pl](https://dawidpodsiadlo.pl)
- - date published: 2023-10-29T15:30:33.114136+00:00
- - user: None
- - tags: ['music band', 'celebrity']
-
-## Demotywatory.pl
- - [https://demotywatory.pl](https://demotywatory.pl)
- - date published: 2023-10-31T13:19:51.709657+00:00
- - user: None
- - tags: ['funny images', 'memes']
-
-## DEON.pl
- - [https://deon.pl](https://deon.pl)
- - date published: 2023-10-25T22:26:47.842454+00:00
- - user: None
- - tags: []
-
-## Archidiecezja Krakowska - Strona Archidiecezji Krakowskiej
- - [https://diecezja.pl](https://diecezja.pl)
- - date published: 2023-11-07T09:24:34.029916+00:00
- - user: None
- - tags: []
-
-## Disney Polska | Oficjalna strona filmów Disneya
- - [https://www.disney.pl](https://www.disney.pl)
- - date published: 2023-10-25T11:29:08.216261+00:00
- - user: None
- - tags: []
-
-## Donald.pl
- - [https://www.donald.pl](https://www.donald.pl)
- - date published: 2023-10-25T22:26:50.268952+00:00
- - user: None
- - tags: []
-
-## Do Rzeczy – Piszemy o tym co najważniejsze, zawsze do rzeczy
- - [https://dorzeczy.pl](https://dorzeczy.pl)
- - date published: 2023-10-25T22:26:53.947542+00:00
- - user: None
- - tags: []
-
-## Polskie centrum Deluxe Ski Jump 2 ▪ DSJ2.pl
- - [https://dsj2.pl](https://dsj2.pl)
- - date published: 2023-10-26T20:51:51.569154+00:00
- - user: None
- - tags: ['retro game']
-
-## Kultura i Sztuka - książki, teatr, sztuka -  kultura wysoka i masowa - Dziennik.pl  - Dziennik
- - [https://kultura.dziennik.pl](https://kultura.dziennik.pl)
- - date published: 2023-10-25T22:26:59.359405+00:00
- - user: None
- - tags: []
-
-## Wiadomości z kraju i ze świata - Dziennik.pl - Wydarzenia i Fakty  - Dziennik
- - [https://wiadomosci.dziennik.pl](https://wiadomosci.dziennik.pl)
- - date published: 2023-10-25T22:27:05.933765+00:00
- - user: None
- - tags: []
-
-## Dziennik Bałtycki - Wiadomości Trójmiasto, Wiadomości Pomorskie
- - [https://dziennikbaltycki.pl](https://dziennikbaltycki.pl)
- - date published: 2023-10-25T22:27:19.284645+00:00
- - user: None
- - tags: []
-
-## Elektronika, Odzież, Samochody, Przedmioty kolekcjonerskie i jeszcze więcej | eBay
- - [https://www.ebay.pl](https://www.ebay.pl)
- - date published: 2023-10-24T20:20:08.021134+00:00
- - user: None
- - tags: ['marketplace']
-
-## Bilety na koncerty, imprezy, mecze i do teatru 2023/2024 | eBilet.pl
- - [https://www.ebilet.pl](https://www.ebilet.pl)
- - date published: 2023-10-25T15:02:41.696363+00:00
- - user: None
- - tags: []
-
-## Księgarnia ebookpoint.pl - ebooki i audiobooki, książki: ePub, PDF, mobi, mp3
- - [https://ebookpoint.pl](https://ebookpoint.pl)
- - date published: 2023-10-24T20:18:27.785398+00:00
- - user: None
- - tags: []
-
-## eDziecko.pl - Serwis dla Rodziców. Ciąŋa, Poród, Zdrowie i Wychowanie Dzieci
- - [https://www.edziecko.pl](https://www.edziecko.pl)
- - date published: 2023-11-14T13:15:06.737125+00:00
- - user: None
- - tags: []
-
-## elektroda.pl - Electronics Tutorials, Forums, Tools, IoT, and More
- - [https://www.elektroda.pl](https://www.elektroda.pl)
- - date published: 2023-10-27T11:55:07.546233+00:00
- - user: None
- - tags: ['internet forum', 'electricity', 'hardware']
-
-## ElektronikaB2B - Portal branżowy dla Elektroników
- - [https://elektronikab2b.pl](https://elektronikab2b.pl)
- - date published: 2023-11-01T06:49:25.502818+00:00
- - user: None
- - tags: ['electronic news']
-
-## Elektryczne Gitary - Strona oficjalna
- - [http://www.elektrycznegitary.pl](http://www.elektrycznegitary.pl)
- - date published: 2023-11-13T10:25:45.174448+00:00
- - user: None
- - tags: ['music band']
-
-## Sklep elektroniczny, sklep dla robotyków  - elty.pl
- - [https://elty.pl](https://elty.pl)
- - date published: 2023-10-25T11:16:07.459983+00:00
- - user: None
- - tags: ['raspberry', 'electronic parts']
-
-## Main Home - L.U.C.
- - [https://eluce.pl](https://eluce.pl)
- - date published: 2023-10-30T13:37:08.582551+00:00
- - user: None
- - tags: ['music band']
-
-## Enklawa Network - Gry RPG, gry MMORPG, gry strategiczne, fantastyka, konwenty.
- - [https://enklawanetwork.pl](https://enklawanetwork.pl)
- - date published: 2023-10-27T13:53:39.500995+00:00
- - user: None
- - tags: ['fantasy', 'game news']
-
-## epoznan.pl - pierwszy portal Poznania
- - [https://epoznan.pl](https://epoznan.pl)
- - date published: 2023-10-25T10:14:12.175401+00:00
- - user: None
- - tags: []
-
-## Radio ESKA: Hity na czasie! - ESKA.pl
- - [https://www.eska.pl](https://www.eska.pl)
- - date published: 2023-10-25T10:30:54.777063+00:00
- - user: None
- - tags: []
-
-## Estrada i Studio - serwis dla muzyków i producentów
- - [https://estradaistudio.pl](https://estradaistudio.pl)
- - date published: 2023-10-28T20:08:29.693117+00:00
- - user: None
- - tags: ['audio news']
-
-## Eventim Bilety na Koncerty, Bilety na Imprezy
- - [https://www.eventim.pl](https://www.eventim.pl)
- - date published: 2023-10-25T15:02:30.121028+00:00
- - user: None
- - tags: []
-
-## Amiga aktualności - AmigaOS, Amiga Classic, AmigaOne, programy, gry, porady, forum
- - [https://www.exec.pl](https://www.exec.pl)
- - date published: 2023-10-30T10:10:51.905899+00:00
- - user: None
- - tags: ['amiga']
-
-## stare gry do pobrania - stare gry to nasza pasja - eXtragry.pl
- - [http://www.extragry.pl](http://www.extragry.pl)
- - date published: 2023-10-30T15:35:30.121292+00:00
- - user: None
- - tags: ['retro games']
-
-## Filmweb - filmy takie jak Ty!
- - [https://www.filmweb.pl](https://www.filmweb.pl)
- - date published: 2023-10-27T13:25:39.706562+00:00
- - user: None
- - tags: ['movies', 'ranking']
-
-## FISZ EMADE - TWORZYWO
- - [http://fiszemade.pl](http://fiszemade.pl)
- - date published: 2023-10-29T15:32:55.132072+00:00
- - user: None
- - tags: ['music band']
-
-## FISZ EMADE TWORZYWO
- - [https://sklep.fiszemade.pl](https://sklep.fiszemade.pl)
- - date published: 2023-10-29T15:32:44.993626+00:00
- - user: None
- - tags: []
-
-## Budowa domu, remont mieszkania, meble na wymiar Fixly.pl
- - [https://fixly.pl](https://fixly.pl)
- - date published: 2023-11-13T09:42:24.591486+00:00
- - user: None
- - tags: ['services']
-
-## FL STUDIO - FL STUDIO - POLSKIE CENTRUM
- - [https://flstudio.pl](https://flstudio.pl)
- - date published: 2023-10-28T20:08:12.231521+00:00
- - user: None
- - tags: []
-
-## Forbot
- - [https://forbot.pl](https://forbot.pl)
- - date published: 2023-11-01T06:48:34.843254+00:00
- - user: None
- - tags: ['electronic news']
-
-## Forsal.pl – Biznes, Gospodarka, Świat
- - [https://forsal.pl](https://forsal.pl)
- - date published: 2023-10-25T10:31:03.680126+00:00
- - user: None
- - tags: []
-
-## Fronda - strona główna | Fronda.pl
- - [https://www.fronda.pl](https://www.fronda.pl)
- - date published: 2023-10-25T22:27:20.822064+00:00
- - user: None
- - tags: []
-
-## Futurex Gdynia - sklep online
- - [https://futurex.pl](https://futurex.pl)
- - date published: 2023-11-01T19:13:40.420967+00:00
- - user: None
- - tags: ['tabletop games', 'shop', 'wargames']
-
-## Poznań Game Arena | 6-8 października 2023 | Tu Bije Serce Gamingu
- - [https://gamearena.pl](https://gamearena.pl)
- - date published: 2023-11-01T08:41:25.764766+00:00
- - user: None
- - tags: []
-
-## Next Gazeta.pl - Biznes, Nowe Technologie i Pieniądze
- - [https://next.gazeta.pl](https://next.gazeta.pl)
- - date published: 2023-10-25T10:31:14.489308+00:00
- - user: None
- - tags: []
-
-## Weekend w Gazeta.pl trwa ca³y tydzieñ
- - [https://weekend.gazeta.pl](https://weekend.gazeta.pl)
- - date published: 2023-10-25T22:27:32.339026+00:00
- - user: None
- - tags: []
-
-## Wiadomo¶ci - Gazeta.pl
- - [https://wiadomosci.gazeta.pl](https://wiadomosci.gazeta.pl)
- - date published: 2023-10-25T10:31:23.272215+00:00
- - user: None
- - tags: []
-
-## Zdrowie - choroby - leczenie - porady o zdrowiu - Zdrowy tryb życia | Zdrowie.Gazeta.pl
- - [https://zdrowie.gazeta.pl](https://zdrowie.gazeta.pl)
- - date published: 2023-10-25T10:31:32.035588+00:00
- - user: None
- - tags: []
-
-## Podatki - GazetaPrawna.pl - wiadomości, akcyza, CIT, PIT, VAT
- - [https://podatki.gazetaprawna.pl](https://podatki.gazetaprawna.pl)
- - date published: 2023-10-25T22:27:36.796232+00:00
  - user: None
  - tags: []
 

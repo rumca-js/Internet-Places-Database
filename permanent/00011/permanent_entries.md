@@ -1,3 +1,249 @@
+## Workout.lol | The easiest way to create a workout routine
+ - [https://workout.lol](https://workout.lol)
+ - date published: 2023-10-25T20:19:13.005054+00:00
+ - user: None
+ - tags: []
+
+## Loved Before | Eco-Friendly Toys
+ - [https://www.lovedbefore.london](https://www.lovedbefore.london)
+ - date published: 2023-10-25T20:19:17.480812+00:00
+ - user: None
+ - tags: []
+
+## Koshka's Kingdom
+ - [https://koshka.love](https://koshka.love)
+ - date published: 2023-10-25T08:49:56.487593+00:00
+ - user: None
+ - tags: ['retro', 'blog', 'personal']
+
+## Nicco Loves Linux
+ - [https://blog.nicco.love](https://blog.nicco.love)
+ - date published: 2023-10-25T20:19:18.376556+00:00
+ - user: None
+ - tags: []
+
+## Svija: build websites with Adobe Illustrator ∴ Svija ∴ Websites with Adobe Illustrator
+ - [https://svija.love](https://svija.love)
+ - date published: 2023-10-25T20:19:22.153913+00:00
+ - user: None
+ - tags: []
+
+## Motiejus Jakštys Public Record
+ - [https://jakstys.lt](https://jakstys.lt)
+ - date published: 2023-10-25T09:22:02.418529+00:00
+ - user: None
+ - tags: ['personal']
+
+## Lietuvos nacionalinis radijas ir televizija. Naujienos, įrašai ir transliacijos. - LRT
+ - [https://www.lrt.lt](https://www.lrt.lt)
+ - date published: 2023-11-09T21:50:21.776046+00:00
+ - user: None
+ - tags: []
+
+## Manto Šimkūno tinklaraštis | Rašau įvairios tematikos tekstus, domiuosi IT naujovėmis. PHP programuotojas.
+ - [https://msimkunas.lt](https://msimkunas.lt)
+ - date published: 2023-10-25T20:19:22.841335+00:00
+ - user: None
+ - tags: []
+
+## Lietuviškos klaviaturos QNX 6
+ - [http://qnx.puslapiai.lt](http://qnx.puslapiai.lt)
+ - date published: 2023-10-25T20:19:23.313975+00:00
+ - user: None
+ - tags: []
+
+## 80 Level
+ - [https://80.lv](https://80.lv)
+ - date published: 2023-10-25T20:19:34.078313+00:00
+ - user: None
+ - tags: []
+
+## index(1) - Ingo Schwarze
+ - [http://schwarze.bsd.lv](http://schwarze.bsd.lv)
+ - date published: 2023-10-25T20:19:35.570316+00:00
+ - user: None
+ - tags: []
+
+## Eng.lsm.lv - Reliable news from Latvia
+ - [https://eng.lsm.lv](https://eng.lsm.lv)
+ - date published: 2023-11-03T13:09:26.959330+00:00
+ - user: None
+ - tags: []
+
+## Bigcapital | Financial accounting software for medium and small businesses.
+ - [https://bigcapital.ly](https://bigcapital.ly)
+ - date published: 2023-10-25T20:19:36.733650+00:00
+ - user: None
+ - tags: []
+
+## Technical.ly - News for technologists and entrepreneurs
+ - [https://technical.ly](https://technical.ly)
+ - date published: 2023-10-24T20:52:29.169639+00:00
+ - user: None
+ - tags: []
+
+## bird.makeup - Home Page
+ - [https://bird.makeup](https://bird.makeup)
+ - date published: 2023-10-25T20:19:37.462759+00:00
+ - user: None
+ - tags: []
+
+## Manifold | Bet on news, politics, science, AI, & more!
+ - [https://manifold.markets](https://manifold.markets)
+ - date published: 2023-10-25T20:19:39.313936+00:00
+ - user: None
+ - tags: []
+
+## Obsidian - Sharpen your thinking
+ - [https://obsidian.md](https://obsidian.md)
+ - date published: 2023-10-25T08:37:48.748857+00:00
+ - user: None
+ - tags: []
+
+## SilverBullet
+ - [https://silverbullet.md](https://silverbullet.md)
+ - date published: 2023-10-25T08:33:25.948426+00:00
+ - user: None
+ - tags: []
+
+## Home - Arsen Arsenović
+ - [https://www.aarsen.me](https://www.aarsen.me)
+ - date published: 2023-10-25T20:19:40.454803+00:00
+ - user: None
+ - tags: []
+
+## Adam Tal's Blog
+ - [https://www.adamtal.me](https://www.adamtal.me)
+ - date published: 2023-10-25T08:49:57.976864+00:00
+ - user: None
+ - tags: ['personal']
+
+## Andrew Diamond
+ - [https://adiamond.me](https://adiamond.me)
+ - date published: 2023-10-25T20:19:43.593914+00:00
+ - user: None
+ - tags: []
+
+## ~ajxs
+ - [https://ajxs.me](https://ajxs.me)
+ - date published: 2023-10-25T08:49:59.217785+00:00
+ - user: None
+ - tags: ['personal']
+
+## - Ali Khan
+ - [https://akhan.me](https://akhan.me)
+ - date published: 2023-10-25T09:22:04.191836+00:00
+ - user: None
+ - tags: ['personal']
+
+## http://andrew-quinn.me
+ - [http://andrew-quinn.me](http://andrew-quinn.me)
+ - date published: 2023-10-25T08:59:35.612149+00:00
+ - user: None
+ - tags: ['personal']
+
+## Andrew Kelley
+ - [https://andrewkelley.me](https://andrewkelley.me)
+ - date published: 2023-10-25T08:59:37.110667+00:00
+ - user: None
+ - tags: ['personal']
+
+## Anime Corner - News & Features Straight From Japan
+ - [https://animecorner.me](https://animecorner.me)
+ - date published: 2023-10-25T14:21:05.794363+00:00
+ - user: None
+ - tags: []
+
+## Aquiles Carattino | Scientist, Entrepreneur - Science, Entrepreneurship | Aquiles Carattino
+ - [https://www.aquiles.me](https://www.aquiles.me)
+ - date published: 2023-10-25T08:50:05.476417+00:00
+ - user: None
+ - tags: ['personal']
+
+## Arne Bahlo
+ - [https://arne.me](https://arne.me)
+ - date published: 2023-11-03T15:33:10.414628+00:00
+ - user: None
+ - tags: []
+
+## Aswin Mohan · aswinmohan.me
+ - [https://aswinmohan.me](https://aswinmohan.me)
+ - date published: 2023-10-25T09:22:04.899221+00:00
+ - user: None
+ - tags: ['personal']
+
+## Barnabas Kendall
+ - [https://barnabas.me](https://barnabas.me)
+ - date published: 2023-10-25T08:50:07.867741+00:00
+ - user: None
+ - tags: ['personal']
+
+## bazhenov.me
+ - [https://www.bazhenov.me](https://www.bazhenov.me)
+ - date published: 2023-10-25T08:50:09.306260+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ben Congdon
+ - [http://benjamincongdon.me](http://benjamincongdon.me)
+ - date published: 2023-10-25T08:50:12.063191+00:00
+ - user: None
+ - tags: ['personal']
+
+## Birchtree
+ - [https://birchtree.me](https://birchtree.me)
+ - date published: 2023-10-25T09:22:06.360313+00:00
+ - user: None
+ - tags: ['personal']
+
+## Blaine Hansen
+ - [https://blainehansen.me](https://blainehansen.me)
+ - date published: 2023-10-25T08:50:15.333097+00:00
+ - user: None
+ - tags: ['personal']
+
+## Fernando Borretti
+ - [https://borretti.me](https://borretti.me)
+ - date published: 2023-10-25T08:50:16.706944+00:00
+ - user: None
+ - tags: ['personal']
+
+## Bruno Calza
+ - [https://brunocalza.me](https://brunocalza.me)
+ - date published: 2023-10-25T08:57:14.652750+00:00
+ - user: None
+ - tags: ['personal']
+
+## bsago.me
+ - [https://bsago.me](https://bsago.me)
+ - date published: 2023-10-25T08:50:22.982395+00:00
+ - user: None
+ - tags: ['personal']
+
+## Buu342's Land
+ - [https://buu342.me](https://buu342.me)
+ - date published: 2023-10-25T09:22:06.880074+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ben Visness
+ - [https://bvisness.me](https://bvisness.me)
+ - date published: 2023-10-25T08:59:38.030901+00:00
+ - user: None
+ - tags: ['personal']
+
+## Flavio Castelli
+ - [https://flavio.castelli.me](https://flavio.castelli.me)
+ - date published: 2023-11-01T08:43:49.291657+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://cdoyle.me](https://cdoyle.me)
+ - date published: 2023-10-25T08:59:38.960966+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Chris Hannah
  - [https://chrishannah.me](https://chrishannah.me)
  - date published: 2023-10-25T08:59:40.123667+00:00
@@ -550,6 +796,12 @@
  - date published: 2023-10-25T20:21:15.924156+00:00
  - user: None
  - tags: []
+
+## Hi, I’m Taylor Pearson -
+ - [https://taylorpearson.me](https://taylorpearson.me)
+ - date published: 2023-11-17T07:29:25.425464+00:00
+ - user: None
+ - tags: ['personal']
 
 ## TheFrenchGhosty's Blog
  - [https://blog.thefrenchghosty.me](https://blog.thefrenchghosty.me)
@@ -4813,6 +5065,12 @@
  - user: None
  - tags: []
 
+## AI PANIC  | Nirit Weiss-Blatt | Substack
+ - [https://www.aipanic.news](https://www.aipanic.news)
+ - date published: 2023-11-18T01:49:17.235532+00:00
+ - user: None
+ - tags: []
+
 ## From the Desk of Alicia Kennedy | Substack
  - [https://www.aliciakennedy.news](https://www.aliciakennedy.news)
  - date published: 2023-10-25T20:42:12.893955+00:00
@@ -5735,264 +5993,6 @@ marginalia.nu
 ## Obl.ong
  - [https://obl.ong](https://obl.ong)
  - date published: 2023-10-25T20:52:14.964448+00:00
- - user: None
- - tags: []
-
-## Andrew Marble
- - [http://marble.onl](http://marble.onl)
- - date published: 2023-10-25T08:54:29.542212+00:00
- - user: None
- - tags: ['personal']
-
-## Commonplace
- - [https://commonplace.online](https://commonplace.online)
- - date published: 2023-10-28T19:11:46.865259+00:00
- - user: None
- - tags: []
-
-## In Solidarity with Library Genesis and Sci-hub
- - [https://custodians.online](https://custodians.online)
- - date published: 2023-10-25T20:52:16.578477+00:00
- - user: None
- - tags: []
-
-## Easylang
- - [https://easylang.online](https://easylang.online)
- - date published: 2023-10-25T20:52:17.584984+00:00
- - user: None
- - tags: []
-
-## LOF home
- - [https://lof.flounder.online](https://lof.flounder.online)
- - date published: 2023-10-25T20:52:19.126166+00:00
- - user: None
- - tags: []
-
-## Mastodon
- - [https://mastodon.online](https://mastodon.online)
- - date published: 2023-10-24T20:13:29.617793+00:00
- - user: None
- - tags: ['mastodon']
-
-## sunfishcode's blog · A blog by sunfishcode
- - [https://blog.sunfishcode.online](https://blog.sunfishcode.online)
- - date published: 2023-10-25T20:52:20.694186+00:00
- - user: None
- - tags: []
-
-## Welcome to Suricrasia Online!
- - [https://suricrasia.online](https://suricrasia.online)
- - date published: 2023-10-25T20:52:21.735662+00:00
- - user: None
- - tags: []
-
-## Words and buttons online
- - [https://wordsandbuttons.online](https://wordsandbuttons.online)
- - date published: 2023-10-25T09:27:52.515926+00:00
- - user: None
- - tags: []
-
-## Memo Garcia
- - [https://memooo.ooo](https://memooo.ooo)
- - date published: 2023-10-25T20:52:23.026355+00:00
- - user: None
- - tags: []
-
-## soso
- - [https://soso.ooo](https://soso.ooo)
- - date published: 2023-10-25T20:52:25.205752+00:00
- - user: None
- - tags: []
-
-## ZeroVer: 0-based Versioning — zer0ver
- - [https://0ver.org](https://0ver.org)
- - date published: 2023-10-25T20:52:28.963764+00:00
- - user: None
- - tags: []
-
-## The 19th News | An independent, nonprofit newsroom.
- - [https://19thnews.org](https://19thnews.org)
- - date published: 2023-10-25T20:52:35.003868+00:00
- - user: None
- - tags: []
-
-## 2009Scape - A free & open-source remake of 2009 era RuneScape
- - [https://2009scape.org](https://2009scape.org)
- - date published: 2023-10-25T20:52:36.474767+00:00
- - user: None
- - tags: []
-
-## 38 North - Informed analysis of events in and around North Korea
- - [https://www.38north.org](https://www.38north.org)
- - date published: 2023-10-25T20:52:39.281469+00:00
- - user: None
- - tags: []
-
-## 3dbrew
- - [https://www.3dbrew.org](https://www.3dbrew.org)
- - date published: 2023-10-25T20:52:41.660191+00:00
- - user: None
- - tags: []
-
-## 3ders.org - 3D printer and 3D printing news
- - [https://www.3ders.org](https://www.3ders.org)
- - date published: 2023-10-27T10:33:25.336432+00:00
- - user: None
- - tags: ['3d printing', 'tech news']
-
-## https://4chan.org
- - [https://4chan.org](https://4chan.org)
- - date published: 2023-10-24T20:12:50.282981+00:00
- - user: None
- - tags: []
-
-## https://www.4chan.org
- - [https://www.4chan.org](https://www.4chan.org)
- - date published: 2023-10-24T20:12:50.536524+00:00
- - user: None
- - tags: []
-
-## 7-Zip
- - [https://7-zip.org](https://7-zip.org)
- - date published: 2023-10-25T20:52:43.015422+00:00
- - user: None
- - tags: []
-
-## 80,000 Hours: How to make a difference with your career
- - [https://80000hours.org](https://80000hours.org)
- - date published: 2023-10-25T20:52:46.868740+00:00
- - user: None
- - tags: []
-
-## 9/11 Realtime
- - [https://911realtime.org](https://911realtime.org)
- - date published: 2023-10-25T20:52:48.596512+00:00
- - user: None
- - tags: []
-
-## 99% Invisible
- - [https://99percentinvisible.org](https://99percentinvisible.org)
- - date published: 2023-10-25T20:52:52.176166+00:00
- - user: None
- - tags: []
-
-## 9FRONT.ORG THE PLAN FELL OFF
- - [https://9front.org](https://9front.org)
- - date published: 2023-10-25T20:52:59.435440+00:00
- - user: None
- - tags: []
-
-## American Association for Cancer Research
- - [https://aacrjournals.org](https://aacrjournals.org)
- - date published: 2023-11-05T06:08:41.957585+00:00
- - user: None
- - tags: []
-
-## American Academy of Pediatrics
- - [https://publications.aap.org](https://publications.aap.org)
- - date published: 2023-11-06T10:39:21.892891+00:00
- - user: None
- - tags: []
-
-## Home | Adam Aaronson
- - [https://aaronson.org](https://aaronson.org)
- - date published: 2023-10-25T20:53:01.643487+00:00
- - user: None
- - tags: []
-
-## Games
- - [https://games.aarp.org](https://games.aarp.org)
- - date published: 2023-10-30T11:59:48.224688+00:00
- - user: None
- - tags: ['atari', 'games']
-
-## AARP® Official Site - Join & Explore the Benefits
- - [https://www.aarp.org](https://www.aarp.org)
- - date published: 2023-10-25T20:53:09.275713+00:00
- - user: None
- - tags: []
-
-## Homepage - AAS Nova
- - [https://aasnova.org](https://aasnova.org)
- - date published: 2023-10-25T20:53:12.339589+00:00
- - user: None
- - tags: []
-
-## abelard public education website
- - [https://www.abelard.org](https://www.abelard.org)
- - date published: 2023-10-25T20:53:20.409245+00:00
- - user: None
- - tags: []
-
-## Home - American College of Cardiology
- - [https://www.acc.org](https://www.acc.org)
- - date published: 2023-10-25T20:53:25.158857+00:00
- - user: None
- - tags: []
-
-## Access to Insight
- - [https://www.accesstoinsight.org](https://www.accesstoinsight.org)
- - date published: 2023-10-25T20:53:32.094744+00:00
- - user: None
- - tags: []
-
-## ACCU
- - [https://accu.org](https://accu.org)
- - date published: 2023-10-25T20:53:34.238905+00:00
- - user: None
- - tags: []
-
-## ACL Anthology - ACL Anthology
- - [https://aclanthology.org](https://aclanthology.org)
- - date published: 2023-10-25T20:53:36.329517+00:00
- - user: None
- - tags: []
-
-## Home | American Civil Liberties Union
- - [https://www.aclu.org](https://www.aclu.org)
- - date published: 2023-10-25T20:53:44.491527+00:00
- - user: None
- - tags: []
-
-## A.M. Turing Award
- - [https://amturing.acm.org](https://amturing.acm.org)
- - date published: 2023-10-25T20:53:46.979207+00:00
- - user: None
- - tags: []
-
-## Awards Home
- - [https://awards.acm.org](https://awards.acm.org)
- - date published: 2023-10-25T20:53:56.997751+00:00
- - user: None
- - tags: []
-
-## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
- - user: None
- - tags: []
-
-## ACM Digital Library
- - [https://dl.acm.org](https://dl.acm.org)
- - date published: 2023-10-25T20:54:07.913205+00:00
- - user: None
- - tags: []
-
-## ACM Code of Ethics and Professional Conduct
- - [https://ethics.acm.org](https://ethics.acm.org)
- - date published: 2023-10-25T20:54:10.467772+00:00
- - user: None
- - tags: []
-
-## ACM Learning Center
- - [https://learning.acm.org](https://learning.acm.org)
- - date published: 2023-10-25T20:54:19.348249+00:00
- - user: None
- - tags: []
-
-## ACMQ Site - ACM Queue
- - [https://queue.acm.org](https://queue.acm.org)
- - date published: 2023-10-25T20:54:22.401799+00:00
  - user: None
  - tags: []
 

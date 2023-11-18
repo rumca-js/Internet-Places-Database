@@ -1,3 +1,63 @@
+## chandrakantha.com – Information of interest to the student and lover of Indian music
+ - [https://chandrakantha.com](https://chandrakantha.com)
+ - date published: 2023-10-25T13:20:16.676397+00:00
+ - user: None
+ - tags: []
+
+## Podcasts for developers
+ - [https://changelog.com](https://changelog.com)
+ - date published: 2023-10-24T20:06:15.289782+00:00
+ - user: None
+ - tags: []
+
+## Empowering your eCommerce growth | Channable
+ - [https://www.channable.com](https://www.channable.com)
+ - date published: 2023-10-25T13:20:22.302391+00:00
+ - user: None
+ - tags: []
+
+## Channel 4 | Stream & Watch Live TV
+ - [https://www.channel4.com](https://www.channel4.com)
+ - date published: 2023-10-30T21:58:20.006710+00:00
+ - user: None
+ - tags: []
+
+## CNA: Breaking News, Singapore News, World and Asia
+ - [https://www.channelnewsasia.com](https://www.channelnewsasia.com)
+ - date published: 2023-10-25T11:00:41.576145+00:00
+ - user: None
+ - tags: []
+
+## Channels Television - Breaking Nigerian News
+ - [https://www.channelstv.com](https://www.channelstv.com)
+ - date published: 2023-11-12T22:06:26.227303+00:00
+ - user: None
+ - tags: []
+
+## Chargeback Prevention for Software Companies | ChargebackStop
+ - [https://chargebackstop.com](https://chargebackstop.com)
+ - date published: 2023-10-25T13:20:24.056373+00:00
+ - user: None
+ - tags: []
+
+## CHARL-E: Make art with AI on your Mac
+ - [https://www.charl-e.com](https://www.charl-e.com)
+ - date published: 2023-10-25T13:20:24.713725+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Charles Atlas LTD.
+ - [https://www.charlesatlas.com](https://www.charlesatlas.com)
+ - date published: 2023-10-25T13:20:30.485142+00:00
+ - user: None
+ - tags: []
+
+## Charles Petzold
+ - [https://www.charlespetzold.com](https://www.charlespetzold.com)
+ - date published: 2023-10-25T09:19:39.959226+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Charlie Harrington
  - [https://charlieharrington.com](https://charlieharrington.com)
  - date published: 2023-10-25T09:19:41.271593+00:00
@@ -363,6 +423,12 @@
  - date published: 2023-10-25T13:23:11.311164+00:00
  - user: None
  - tags: []
+
+## Red Alert 2: Chrono Divide
+ - [https://chronodivide.com](https://chronodivide.com)
+ - date published: 2023-11-17T21:39:41+00:00
+ - user: rumpel
+ - tags: ['red alert']
 
 ## Loading...  - Chronology Clock
  - [https://chronologyclock.com](https://chronologyclock.com)
@@ -5930,72 +5996,6 @@
 ## Engineering at Meta - Engineering at Meta Blog
  - [https://engineering.fb.com](https://engineering.fb.com)
  - date published: 2023-10-25T14:28:11.988492+00:00
- - user: None
- - tags: []
-
-## Meta - Home
- - [https://investor.fb.com](https://investor.fb.com)
- - date published: 2023-10-25T14:28:14.546794+00:00
- - user: None
- - tags: []
-
-## Fck Oatly
- - [https://fckoatly.com](https://fckoatly.com)
- - date published: 2023-10-25T14:28:16.635829+00:00
- - user: None
- - tags: []
-
-## Fear of Landing
- - [https://fearoflanding.com](https://fearoflanding.com)
- - date published: 2023-10-25T14:28:18.898214+00:00
- - user: None
- - tags: []
-
-## Fear of Oblivion
- - [https://www.fearofoblivion.com](https://www.fearofoblivion.com)
- - date published: 2023-10-25T14:28:20.783552+00:00
- - user: None
- - tags: []
-
-## Feather – Simply beautiful open source icons
- - [https://feathericons.com](https://feathericons.com)
- - date published: 2023-10-25T14:28:27.109754+00:00
- - user: None
- - tags: []
-
-## Featurevisor - Feature management for developers with GitOps
- - [https://featurevisor.com](https://featurevisor.com)
- - date published: 2023-10-25T14:28:27.860814+00:00
- - user: None
- - tags: []
-
-## Federal News Network | Breaking Federal News & Information | Helping feds meet their mission.
- - [https://federalnewsnetwork.com](https://federalnewsnetwork.com)
- - date published: 2023-10-25T14:28:37.827433+00:00
- - user: None
- - tags: []
-
-## FedEx Global Home - Select Your Location
- - [https://www.fedex.com](https://www.fedex.com)
- - date published: 2023-11-01T08:42:05.834694+00:00
- - user: None
- - tags: []
-
-## Joseph Wang - money to macro
- - [https://fedguy.com](https://fedguy.com)
- - date published: 2023-10-25T14:28:40.203160+00:00
- - user: None
- - tags: []
-
-## CFedi — FediList
- - [http://demo.fedilist.com](http://demo.fedilist.com)
- - date published: 2023-10-25T14:28:44.764060+00:00
- - user: None
- - tags: []
-
-## FedScoop | Federal Government Tech News, Breaking Govt IT News
- - [https://fedscoop.com](https://fedscoop.com)
- - date published: 2023-10-25T14:28:53.042098+00:00
  - user: None
  - tags: []
 

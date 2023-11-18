@@ -1,3 +1,177 @@
+## Sasha's 'Newsletter' | Sasha Chapin | Substack
+ - [http://sashachapin.substack.com](http://sashachapin.substack.com)
+ - date published: 2023-10-25T10:02:53.975339+00:00
+ - user: None
+ - tags: ['substack']
+
+## Implications, by Scott Belsky | Substack
+ - [https://scottbelsky.substack.com](https://scottbelsky.substack.com)
+ - date published: 2023-10-25T10:02:57.280453+00:00
+ - user: None
+ - tags: ['substack']
+
+## scribepod | Yacine | Substack
+ - [http://scribepod.substack.com](http://scribepod.substack.com)
+ - date published: 2023-10-25T10:03:10.373544+00:00
+ - user: None
+ - tags: ['substack']
+
+## Sensible Medicine | Substack
+ - [https://sensiblemed.substack.com](https://sensiblemed.substack.com)
+ - date published: 2023-10-25T10:03:15.606034+00:00
+ - user: None
+ - tags: ['substack']
+
+## Seymour Hersh | Substack
+ - [https://seymourhersh.substack.com](https://seymourhersh.substack.com)
+ - date published: 2023-10-25T10:03:20.073223+00:00
+ - user: None
+ - tags: ['substack']
+
+## Shatter Zone | The Only Robert Evans | Substack
+ - [http://shatterzone.substack.com](http://shatterzone.substack.com)
+ - date published: 2023-10-25T10:03:23.969375+00:00
+ - user: None
+ - tags: ['substack']
+
+## the shimmering void | Ben Follington | Substack
+ - [http://shimmeringvoid.substack.com](http://shimmeringvoid.substack.com)
+ - date published: 2023-10-25T10:03:29.652859+00:00
+ - user: None
+ - tags: ['substack']
+
+## Shawn’s Substack | Substack
+ - [https://shmck.substack.com](https://shmck.substack.com)
+ - date published: 2023-11-03T14:50:19.834430+00:00
+ - user: None
+ - tags: []
+
+## Madhur’s Writings | Madhur Shrimal | Substack
+ - [https://shrimalmadhur.substack.com](https://shrimalmadhur.substack.com)
+ - date published: 2023-10-25T10:03:33.706563+00:00
+ - user: None
+ - tags: ['substack']
+
+## Sibelius’s Newsletter | Sibelius Seraphini | Substack
+ - [https://sibelius.substack.com](https://sibelius.substack.com)
+ - date published: 2023-10-25T17:19:21.199989+00:00
+ - user: None
+ - tags: []
+
+## The Map is Mostly Water | Simon Sarris | Substack
+ - [https://simonsarris.substack.com](https://simonsarris.substack.com)
+ - date published: 2023-10-25T10:03:37.881602+00:00
+ - user: None
+ - tags: ['substack']
+
+## Simplicity is SOTA | Richard Demsyn-Jones | Substack
+ - [http://simplicityissota.substack.com](http://simplicityissota.substack.com)
+ - date published: 2023-10-25T10:03:41.559064+00:00
+ - user: None
+ - tags: ['substack']
+
+## Skunk Ledger | BLAP | Substack
+ - [http://skunkledger.substack.com](http://skunkledger.substack.com)
+ - date published: 2023-10-25T10:03:44.642061+00:00
+ - user: None
+ - tags: ['substack']
+
+## Irregular Ideas with Paul Kedrosky & Eric Norlin of SKV | SK Ventures | Substack
+ - [http://skventures.substack.com](http://skventures.substack.com)
+ - date published: 2023-10-25T10:03:48.193818+00:00
+ - user: None
+ - tags: ['substack']
+
+## Skybrian’s Blog | Substack
+ - [https://skybrian.substack.com](https://skybrian.substack.com)
+ - date published: 2023-10-25T10:03:51.030062+00:00
+ - user: None
+ - tags: ['substack']
+
+## Soaring Twenties | Thomas J Bevan | Substack
+ - [http://soaringtwenties.substack.com](http://soaringtwenties.substack.com)
+ - date published: 2023-10-25T10:03:56.149302+00:00
+ - user: None
+ - tags: ['substack']
+
+## Reverie by Daniel Cawrey | Substack
+ - [https://somereverie.substack.com](https://somereverie.substack.com)
+ - date published: 2023-10-25T10:03:59.905705+00:00
+ - user: None
+ - tags: ['substack']
+
+## NeoNarrative | Sotonye | Substack
+ - [https://sotonye.substack.com](https://sotonye.substack.com)
+ - date published: 2023-10-25T10:04:03.629604+00:00
+ - user: None
+ - tags: ['substack']
+
+## Innovation Nation | George Patterson Sibble | Substack
+ - [https://startupdreams.substack.com](https://startupdreams.substack.com)
+ - date published: 2023-10-25T10:04:12.459507+00:00
+ - user: None
+ - tags: ['substack']
+
+## Startup Pirate by Alex Alexakis | Substack
+ - [http://startuppirate.substack.com](http://startuppirate.substack.com)
+ - date published: 2023-10-25T10:04:20.623964+00:00
+ - user: None
+ - tags: ['substack']
+
+## Data People Etc. | Stephen Bailey | Substack
+ - [https://stkbailey.substack.com](https://stkbailey.substack.com)
+ - date published: 2023-10-25T10:04:23.504857+00:00
+ - user: None
+ - tags: ['substack']
+
+## Science Fictions | Stuart Ritchie | Substack
+ - [https://stuartritchie.substack.com](https://stuartritchie.substack.com)
+ - date published: 2023-10-25T10:04:31.154160+00:00
+ - user: None
+ - tags: ['substack']
+
+## Subconscious | Gordon Brander | Substack
+ - [https://subconscious.substack.com](https://subconscious.substack.com)
+ - date published: 2023-10-25T10:04:33.464701+00:00
+ - user: None
+ - tags: ['substack']
+
+## Substack - A new economic engine for culture
+ - [https://substack.com](https://substack.com)
+ - date published: 2023-10-25T10:04:35.854636+00:00
+ - user: None
+ - tags: ['substack']
+
+## Sudo Apps | Samir Khoja | Substack
+ - [http://sudoapps.substack.com](http://sudoapps.substack.com)
+ - date published: 2023-10-25T10:04:37.792112+00:00
+ - user: None
+ - tags: ['substack']
+
+## Sungho Yahng | Substack
+ - [https://sunghoyahng.substack.com](https://sunghoyahng.substack.com)
+ - date published: 2023-10-25T10:04:44.363089+00:00
+ - user: None
+ - tags: ['substack']
+
+## Superb Owl | Max Goodbird | Substack
+ - [http://superbowl.substack.com](http://superbowl.substack.com)
+ - date published: 2023-10-25T10:04:47.194439+00:00
+ - user: None
+ - tags: ['substack']
+
+## Super Self | Lewis Kallow | Substack
+ - [http://superself.substack.com](http://superself.substack.com)
+ - date published: 2023-10-25T10:04:50.317296+00:00
+ - user: None
+ - tags: ['substack']
+
+## Synthedia | Bret Kinsella | Substack
+ - [https://synthedia.substack.com](https://synthedia.substack.com)
+ - date published: 2023-10-25T10:04:58.013922+00:00
+ - user: None
+ - tags: ['substack']
+
 ## Syntopikon | Substack
  - [https://syntopikon.substack.com](https://syntopikon.substack.com)
  - date published: 2023-10-25T10:05:00.115504+00:00
@@ -699,6 +873,12 @@
  - date published: 2023-10-30T15:37:43.794306+00:00
  - user: None
  - tags: ['music band']
+
+## Gry strategiczne. Gry
+ - [https://www.sztab.com](https://www.sztab.com)
+ - date published: 2023-11-17T21:40:40+00:00
+ - user: rumpel
+ - tags: ['video games', 'strategic games', 'games']
 
 ## Smarter Living | T3
  - [https://www.t3.com](https://www.t3.com)
@@ -2417,6 +2597,12 @@
  - user: None
  - tags: ['music band']
 
+## The Progress Playbook
+ - [https://theprogressplaybook.com](https://theprogressplaybook.com)
+ - date published: 2023-11-17T13:27:24.779793+00:00
+ - user: None
+ - tags: []
+
 ## Mr. and Mrs. Psmith’s Bookshelf | Jane Psmith | Substack
  - [https://www.thepsmiths.com](https://www.thepsmiths.com)
  - date published: 2023-10-25T17:38:12.746905+00:00
@@ -2714,6 +2900,12 @@
 ## TheWrap - Your trusted source for breaking entertainment news, film reviews, TV updates and Hollywood insights. Stay informed with the latest entertainment headlines and analysis from TheWrap.
  - [https://www.thewrap.com](https://www.thewrap.com)
  - date published: 2023-10-25T17:40:23.680900+00:00
+ - user: None
+ - tags: []
+
+## Home | Yeshiva World News | The Yeshiva World
+ - [https://www.theyeshivaworld.com](https://www.theyeshivaworld.com)
+ - date published: 2023-11-17T07:41:54.275650+00:00
  - user: None
  - tags: []
 
@@ -5332,6 +5524,12 @@
  - user: None
  - tags: []
 
+## Welcome to Volvo Trucks
+ - [https://www.volvotrucks.com](https://www.volvotrucks.com)
+ - date published: 2023-11-17T19:49:46.635994+00:00
+ - user: None
+ - tags: []
+
 ## Lauren Weinstein's Blog
  - [https://lauren.vortex.com](https://lauren.vortex.com)
  - date published: 2023-10-25T17:58:32.739644+00:00
@@ -5521,6 +5719,12 @@
 ## Political News and Conservative Analysis About Congress, the President, and the Federal Government | Washington Examiner
  - [https://www.washingtonexaminer.com](https://www.washingtonexaminer.com)
  - date published: 2023-10-25T10:29:27.520286+00:00
+ - user: None
+ - tags: []
+
+## Home | Washington Monthly
+ - [https://washingtonmonthly.com](https://washingtonmonthly.com)
+ - date published: 2023-11-17T19:04:36.842471+00:00
  - user: None
  - tags: []
 
@@ -5791,210 +5995,6 @@
 ## Wes McKinney
  - [https://wesmckinney.com](https://wesmckinney.com)
  - date published: 2023-10-27T11:56:39.333955+00:00
- - user: None
- - tags: []
-
-## High-Performance SSDs, HDDs, USB Drives, &amp; Memory Cards | Western Digital
- - [https://www.westerndigital.com](https://www.westerndigital.com)
- - date published: 2023-11-01T08:43:25.034810+00:00
- - user: None
- - tags: []
-
-## Shaping Tomorrow's Energy | Westinghouse Electric Company
- - [http://www.westinghousenuclear.com](http://www.westinghousenuclear.com)
- - date published: 2023-10-27T11:56:50.936719+00:00
- - user: None
- - tags: []
-
-## Access Denied
- - [https://www.wfaa.com](https://www.wfaa.com)
- - date published: 2023-10-27T11:56:51.812151+00:00
- - user: None
- - tags: []
-
-## Access Restricted
- - [https://www.wfla.com](https://www.wfla.com)
- - date published: 2023-11-10T02:12:09.738510+00:00
- - user: None
- - tags: []
-
-## The WFMT Studs Terkel Radio Archive | A Living Celebration
- - [https://studsterkel.wfmt.com](https://studsterkel.wfmt.com)
- - date published: 2023-10-25T18:03:10.011308+00:00
- - user: None
- - tags: []
-
-## wfmz.com | Your Life, Your World, Your NEWS
- - [https://www.wfmz.com](https://www.wfmz.com)
- - date published: 2023-11-15T18:40:50.031661+00:00
- - user: None
- - tags: []
-
-## Orlando News, Weather, and Sports | WFTV – WFTV
- - [https://www.wftv.com](https://www.wftv.com)
- - date published: 2023-10-31T19:10:21.991353+00:00
- - user: None
- - tags: []
-
-## Access Denied
- - [https://www.whas11.com](https://www.whas11.com)
- - date published: 2023-10-25T18:03:10.464733+00:00
- - user: None
- - tags: []
-
-## What does this code do?
- - [https://whatdoesthiscodedo.com](https://whatdoesthiscodedo.com)
- - date published: 2023-10-25T18:03:11.005084+00:00
- - user: None
- - tags: []
-
-## What Hi-Fi? | Tech news and reviews
- - [https://www.whathifi.com](https://www.whathifi.com)
- - date published: 2023-10-25T18:03:26.791247+00:00
- - user: None
- - tags: []
-
-## What Lisa Cooks
- - [https://www.whatlisacooks.com](https://www.whatlisacooks.com)
- - date published: 2023-10-25T18:03:33.421482+00:00
- - user: None
- - tags: []
-
-## Error
- - [https://blog.whatsapp.com](https://blog.whatsapp.com)
- - date published: 2023-10-25T18:03:33.987561+00:00
- - user: None
- - tags: []
-
-## Error
- - [https://web.whatsapp.com](https://web.whatsapp.com)
- - date published: 2023-10-25T18:03:35.151613+00:00
- - user: None
- - tags: []
-
-## Error
- - [https://whatsapp.com](https://whatsapp.com)
- - date published: 2023-11-01T09:36:41.682769+00:00
- - user: None
- - tags: ['social communicator']
-
-## Whatsapp
- - [https://www.whatsapp.com](https://www.whatsapp.com)
- - date published: 2023-10-25T13:24:38+00:00
- - user: rumpel
- - tags: ['gatekeeper', 'social communicator']
-
-## WHDownLoad
- - [https://www.whdownload.com](https://www.whdownload.com)
- - date published: 2023-10-27T14:30:25.747347+00:00
- - user: None
- - tags: ['emulation', 'amiga', 'roms']
-
-## News10NBC
- - [https://www.whec.com](https://www.whec.com)
- - date published: 2023-11-12T18:45:25.297898+00:00
- - user: None
- - tags: []
-
-## http://wheybags.com
- - [http://wheybags.com](http://wheybags.com)
- - date published: 2023-10-25T18:03:36.870087+00:00
- - user: None
- - tags: []
-
-## Which Face Is Real?
- - [https://www.whichfaceisreal.com](https://www.whichfaceisreal.com)
- - date published: 2023-10-25T18:03:39.608286+00:00
- - user: None
- - tags: []
-
-## David J. Pearce
- - [https://whileydave.com](https://whileydave.com)
- - date published: 2023-10-25T18:03:41.534311+00:00
- - user: None
- - tags: []
-
-## Whimsy Soul - Find your everyday magic
- - [https://whimsysoul.com](https://whimsysoul.com)
- - date published: 2023-10-25T18:03:48.676684+00:00
- - user: None
- - tags: []
-
-## Whipsaw: Product Design and Experience Innovation
- - [https://whipsaw.com](https://whipsaw.com)
- - date published: 2023-10-25T18:04:05.026714+00:00
- - user: None
- - tags: []
-
-## Whisper Memos
- - [https://whispermemos.com](https://whispermemos.com)
- - date published: 2023-10-25T18:04:06.690848+00:00
- - user: None
- - tags: []
-
-## Closed Captioning Services - White Coat Captioning
- - [https://whitecoatcaptioning.com](https://whitecoatcaptioning.com)
- - date published: 2023-10-25T18:04:14.532374+00:00
- - user: None
- - tags: []
-
-## Blade Runner White Dragon Cut
- - [https://whitedragoncut.com](https://whitedragoncut.com)
- - date published: 2023-11-01T08:43:27.462487+00:00
- - user: None
- - tags: []
-
-## Salma Alam-Naylor — live streamer, software engineer and developer educator
- - [https://whitep4nth3r.com](https://whitep4nth3r.com)
- - date published: 2023-10-25T18:04:18.275962+00:00
- - user: None
- - tags: []
-
-## ✌️ I'm Zoe Chew, Product Builder.
- - [https://whizzoe.com](https://whizzoe.com)
- - date published: 2023-10-25T08:58:23.078811+00:00
- - user: None
- - tags: ['personal']
-
-## WhoFundsWho – WhoFundsWho instantly shows you who funds the experts, politicians, think tanks and other institutions you are reading about
- - [https://whofundswho.com](https://whofundswho.com)
- - date published: 2023-10-25T18:04:21.086464+00:00
- - user: None
- - tags: []
-
-## Why.com - Premium category defining domain names for sale, exact match domains
- - [http://why.com](http://why.com)
- - date published: 2023-11-12T05:59:10.336738+00:00
- - user: None
- - tags: []
-
-## Why Do We Interface?
- - [https://whydoweinterface.com](https://whydoweinterface.com)
- - date published: 2023-10-25T18:04:25.390477+00:00
- - user: None
- - tags: []
-
-## Why Evolution Is True – Why Evolution is True is a blog written by Jerry Coyne, centered on evolution and biology but also dealing with diverse topics like politics, culture, and cats.
- - [https://whyevolutionistrue.com](https://whyevolutionistrue.com)
- - date published: 2023-10-25T18:04:36.858105+00:00
- - user: None
- - tags: []
-
-## AWS Wickr | Protecting Communications with End-to-End Encryption
- - [https://wickr.com](https://wickr.com)
- - date published: 2023-10-25T18:04:40.910250+00:00
- - user: None
- - tags: []
-
-## widgets and shit
- - [http://widgetsandshit.com](http://widgetsandshit.com)
- - date published: 2023-10-25T18:04:42.009067+00:00
- - user: None
- - tags: []
-
-## WiiLink
- - [https://www.wiilink24.com](https://www.wiilink24.com)
- - date published: 2023-10-25T18:04:45.747440+00:00
  - user: None
  - tags: []
 

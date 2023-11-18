@@ -1,3 +1,225 @@
+## https://bricolage.io
+ - [https://bricolage.io](https://bricolage.io)
+ - date published: 2023-10-25T09:22:00.295903+00:00
+ - user: None
+ - tags: ['personal']
+
+## Bug reporting for Next.js - Bugpilot
+ - [https://www.bugpilot.io](https://www.bugpilot.io)
+ - date published: 2023-10-25T19:38:50.347269+00:00
+ - user: None
+ - tags: []
+
+## Bazel at Enterprise Scale | BuildBuddy
+ - [https://www.buildbuddy.io](https://www.buildbuddy.io)
+ - date published: 2023-10-25T19:38:52.255059+00:00
+ - user: None
+ - tags: []
+
+## Framework reimagined for the edge! 📚 Qwik Documentation
+ - [https://qwik.builder.io](https://qwik.builder.io)
+ - date published: 2023-10-25T19:39:02.264388+00:00
+ - user: None
+ - tags: []
+
+## Builder.io: Drag & Drop Headless CMS
+ - [https://www.builder.io](https://www.builder.io)
+ - date published: 2023-11-10T17:59:53.727555+00:00
+ - user: None
+ - tags: []
+
+## Buttplug.io Documentation Site | buttplug.io
+ - [https://stpihkal.docs.buttplug.io](https://stpihkal.docs.buttplug.io)
+ - date published: 2023-10-25T19:39:09.612892+00:00
+ - user: None
+ - tags: []
+
+## Homepage – bytewax
+ - [https://bytewax.io](https://bytewax.io)
+ - date published: 2023-10-25T19:39:17.817255+00:00
+ - user: None
+ - tags: []
+
+## Code. Simply. Clearly. Calmly.
+ - [https://calmcode.io](https://calmcode.io)
+ - date published: 2023-10-25T19:39:22.006027+00:00
+ - user: None
+ - tags: []
+
+## Capillaries
+ - [https://capillaries.io](https://capillaries.io)
+ - date published: 2023-10-25T19:39:24.840675+00:00
+ - user: None
+ - tags: []
+
+## Career Fair - Level up your tech career
+ - [https://www.careerfair.io](https://www.careerfair.io)
+ - date published: 2023-10-25T19:39:29.525523+00:00
+ - user: None
+ - tags: []
+
+## CasaOS - A simple, easy-to-use, elegant open-source personal cloud system
+ - [https://casaos.io](https://casaos.io)
+ - date published: 2023-10-31T13:15:43.772223+00:00
+ - user: None
+ - tags: ['operating system']
+
+## Castle Game Engine - Free open-source cross-platform 3D 2D game engine with editor and powerful Pascal API
+ - [https://castle-engine.io](https://castle-engine.io)
+ - date published: 2023-10-25T19:39:32.258962+00:00
+ - user: None
+ - tags: []
+
+## Celso Martinho
+ - [https://celso.io](https://celso.io)
+ - date published: 2023-10-25T19:39:38.279176+00:00
+ - user: None
+ - tags: []
+
+## ramblings of 1lann
+ - [https://blog.chuie.io](https://blog.chuie.io)
+ - date published: 2023-10-25T19:39:39.618395+00:00
+ - user: None
+ - tags: []
+
+## CLA assistant
+ - [https://cla-assistant.io](https://cla-assistant.io)
+ - date published: 2023-10-25T19:39:40.964570+00:00
+ - user: None
+ - tags: []
+
+## cli-ck | Tips & Tools for Text Mode Lovers
+ - [https://cli-ck.io](https://cli-ck.io)
+ - date published: 2023-10-25T19:39:42.415952+00:00
+ - user: None
+ - tags: []
+
+## CloudNativePG - PostgreSQL Operator for Kubernetes
+ - [http://cloudnative-pg.io](http://cloudnative-pg.io)
+ - date published: 2023-10-25T19:39:44.629529+00:00
+ - user: None
+ - tags: []
+
+## Cloud Native Computing Foundation
+ - [https://www.cncf.io](https://www.cncf.io)
+ - date published: 2023-10-25T19:39:58.852886+00:00
+ - user: None
+ - tags: []
+
+## Codecov - The Leading Code Coverage Solution
+ - [https://about.codecov.io](https://about.codecov.io)
+ - date published: 2023-10-25T19:40:02.327168+00:00
+ - user: None
+ - tags: []
+
+## Codefol.io, Latest Posts
+ - [https://codefol.io](https://codefol.io)
+ - date published: 2023-10-25T19:40:03.506530+00:00
+ - user: None
+ - tags: []
+
+## CodePreview Preview environments with unlimited users for a fixed price | CodePreview
+ - [https://codepreview.io](https://codepreview.io)
+ - date published: 2023-10-25T19:40:05.317249+00:00
+ - user: None
+ - tags: []
+
+## CODE PUZZLE | Puzzles de Parsons & Défis
+ - [https://www.codepuzzle.io](https://www.codepuzzle.io)
+ - date published: 2023-10-25T19:40:06.305398+00:00
+ - user: None
+ - tags: []
+
+## code relay
+ - [https://www.coderelay.io](https://www.coderelay.io)
+ - date published: 2023-10-25T19:40:08.126174+00:00
+ - user: None
+ - tags: []
+
+## CodeSandbox: Instant Cloud-Based IDE
+ - [https://codesandbox.io](https://codesandbox.io)
+ - date published: 2023-10-25T19:40:10.647121+00:00
+ - user: None
+ - tags: []
+
+## Conan C/C++ Package Manager Official Blog
+ - [https://blog.conan.io](https://blog.conan.io)
+ - date published: 2023-10-25T19:40:13.832753+00:00
+ - user: None
+ - tags: []
+
+## Conduition
+ - [https://conduition.io](https://conduition.io)
+ - date published: 2023-10-25T19:40:16.029942+00:00
+ - user: None
+ - tags: []
+
+## Confidential Computing Consortium – Linux Foundation Project
+ - [https://confidentialcomputing.io](https://confidentialcomputing.io)
+ - date published: 2023-10-25T19:40:18.712434+00:00
+ - user: None
+ - tags: []
+
+## Confluent | Apache Kafka Reinvented for the Cloud
+ - [https://www.confluent.io](https://www.confluent.io)
+ - date published: 2023-10-25T19:40:22.771641+00:00
+ - user: None
+ - tags: []
+
+## ContextKeeper | Making context switching painless in Visual Studio Plugin
+ - [https://contextkeeper.io](https://contextkeeper.io)
+ - date published: 2023-10-25T19:40:24.620883+00:00
+ - user: None
+ - tags: []
+
+## Coolify
+ - [https://coolify.io](https://coolify.io)
+ - date published: 2023-10-25T19:40:25.622157+00:00
+ - user: None
+ - tags: []
+
+## Virtual Smartphone | Cophone
+ - [https://cophone.io](https://cophone.io)
+ - date published: 2023-10-25T19:40:27.103251+00:00
+ - user: None
+ - tags: []
+
+## Core64 - Interactive Core Memory Kit
+ - [https://www.core64.io](https://www.core64.io)
+ - date published: 2023-10-25T19:40:28.833224+00:00
+ - user: None
+ - tags: []
+
+## http://corndog.io
+ - [http://corndog.io](http://corndog.io)
+ - date published: 2023-10-27T10:53:58.367495+00:00
+ - user: None
+ - tags: []
+
+## Cotten.IO
+ - [https://blog.cotten.io](https://blog.cotten.io)
+ - date published: 2023-10-25T19:40:32.348755+00:00
+ - user: None
+ - tags: []
+
+## Open Source Integration and Data Platform | cptn.io
+ - [https://cptn.io](https://cptn.io)
+ - date published: 2023-10-25T19:40:33.685467+00:00
+ - user: None
+ - tags: []
+
+## crates.io: Rust Package Registry
+ - [https://crates.io](https://crates.io)
+ - date published: 2023-10-25T19:40:34.607822+00:00
+ - user: None
+ - tags: []
+
+## crawshaw blog
+ - [https://crawshaw.io](https://crawshaw.io)
+ - date published: 2023-10-25T19:40:36.732900+00:00
+ - user: None
+ - tags: []
+
 ## Emilio Cobos
  - [https://crisal.io](https://crisal.io)
  - date published: 2023-10-25T19:40:37.795139+00:00
@@ -2370,6 +2592,12 @@ through Composable Diffusion
  - user: None
  - tags: []
 
+## Site not found · GitHub Pages
+ - [https://squint-cljs.github.io](https://squint-cljs.github.io)
+ - date published: 2023-11-17T22:23:46.639677+00:00
+ - user: None
+ - tags: []
+
 ## Stefan Schüller
  - [https://sschueller.github.io](https://sschueller.github.io)
  - date published: 2023-10-25T19:54:28.538345+00:00
@@ -2421,6 +2649,12 @@ through Composable Diffusion
 ## The Force Engine ·
  - [https://theforceengine.github.io](https://theforceengine.github.io)
  - date published: 2023-10-25T19:54:43.382443+00:00
+ - user: None
+ - tags: []
+
+## Site not found · GitHub Pages
+ - [https://thelast19digitsofpi.github.io](https://thelast19digitsofpi.github.io)
+ - date published: 2023-11-17T07:14:39.625280+00:00
  - user: None
  - tags: []
 
@@ -4986,6 +5220,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
+## Ian Smith – Software Development, Electronics, and 3D Printing
+ - [https://www.iansmith.is](https://www.iansmith.is)
+ - date published: 2023-11-17T07:30:16.055744+00:00
+ - user: None
+ - tags: ['personal']
+
 ## ipapi.is
  - [https://ipapi.is](https://ipapi.is)
  - date published: 2023-10-25T20:14:12.692518+00:00
@@ -5490,6 +5730,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
+## Ismail Elouafiq
+ - [https://www.ismail.land](https://www.ismail.land)
+ - date published: 2023-11-17T07:30:34.168221+00:00
+ - user: None
+ - tags: ['personal']
+
 ## welcome. | maya.land
  - [https://maya.land](https://maya.land)
  - date published: 2023-10-25T20:17:42.650479+00:00
@@ -5751,252 +5997,6 @@ End-to-end typesafe APIs made easy. | tRPC
 ## omg.lol - A lovable web page and email address, just for you
  - [https://home.omg.lol](https://home.omg.lol)
  - date published: 2023-10-25T20:19:09.924678+00:00
- - user: None
- - tags: []
-
-## Tushar's Blog
- - [https://tushar.lol](https://tushar.lol)
- - date published: 2023-10-25T20:19:11.738542+00:00
- - user: None
- - tags: []
-
-## Workout.lol | The easiest way to create a workout routine
- - [https://workout.lol](https://workout.lol)
- - date published: 2023-10-25T20:19:13.005054+00:00
- - user: None
- - tags: []
-
-## Loved Before | Eco-Friendly Toys
- - [https://www.lovedbefore.london](https://www.lovedbefore.london)
- - date published: 2023-10-25T20:19:17.480812+00:00
- - user: None
- - tags: []
-
-## Koshka's Kingdom
- - [https://koshka.love](https://koshka.love)
- - date published: 2023-10-25T08:49:56.487593+00:00
- - user: None
- - tags: ['retro', 'blog', 'personal']
-
-## Nicco Loves Linux
- - [https://blog.nicco.love](https://blog.nicco.love)
- - date published: 2023-10-25T20:19:18.376556+00:00
- - user: None
- - tags: []
-
-## Svija: build websites with Adobe Illustrator ∴ Svija ∴ Websites with Adobe Illustrator
- - [https://svija.love](https://svija.love)
- - date published: 2023-10-25T20:19:22.153913+00:00
- - user: None
- - tags: []
-
-## Motiejus Jakštys Public Record
- - [https://jakstys.lt](https://jakstys.lt)
- - date published: 2023-10-25T09:22:02.418529+00:00
- - user: None
- - tags: ['personal']
-
-## Lietuvos nacionalinis radijas ir televizija. Naujienos, įrašai ir transliacijos. - LRT
- - [https://www.lrt.lt](https://www.lrt.lt)
- - date published: 2023-11-09T21:50:21.776046+00:00
- - user: None
- - tags: []
-
-## Manto Šimkūno tinklaraštis | Rašau įvairios tematikos tekstus, domiuosi IT naujovėmis. PHP programuotojas.
- - [https://msimkunas.lt](https://msimkunas.lt)
- - date published: 2023-10-25T20:19:22.841335+00:00
- - user: None
- - tags: []
-
-## Lietuviškos klaviaturos QNX 6
- - [http://qnx.puslapiai.lt](http://qnx.puslapiai.lt)
- - date published: 2023-10-25T20:19:23.313975+00:00
- - user: None
- - tags: []
-
-## 80 Level
- - [https://80.lv](https://80.lv)
- - date published: 2023-10-25T20:19:34.078313+00:00
- - user: None
- - tags: []
-
-## index(1) - Ingo Schwarze
- - [http://schwarze.bsd.lv](http://schwarze.bsd.lv)
- - date published: 2023-10-25T20:19:35.570316+00:00
- - user: None
- - tags: []
-
-## Eng.lsm.lv - Reliable news from Latvia
- - [https://eng.lsm.lv](https://eng.lsm.lv)
- - date published: 2023-11-03T13:09:26.959330+00:00
- - user: None
- - tags: []
-
-## Bigcapital | Financial accounting software for medium and small businesses.
- - [https://bigcapital.ly](https://bigcapital.ly)
- - date published: 2023-10-25T20:19:36.733650+00:00
- - user: None
- - tags: []
-
-## Technical.ly - News for technologists and entrepreneurs
- - [https://technical.ly](https://technical.ly)
- - date published: 2023-10-24T20:52:29.169639+00:00
- - user: None
- - tags: []
-
-## bird.makeup - Home Page
- - [https://bird.makeup](https://bird.makeup)
- - date published: 2023-10-25T20:19:37.462759+00:00
- - user: None
- - tags: []
-
-## Manifold | Bet on news, politics, science, AI, & more!
- - [https://manifold.markets](https://manifold.markets)
- - date published: 2023-10-25T20:19:39.313936+00:00
- - user: None
- - tags: []
-
-## Obsidian - Sharpen your thinking
- - [https://obsidian.md](https://obsidian.md)
- - date published: 2023-10-25T08:37:48.748857+00:00
- - user: None
- - tags: []
-
-## SilverBullet
- - [https://silverbullet.md](https://silverbullet.md)
- - date published: 2023-10-25T08:33:25.948426+00:00
- - user: None
- - tags: []
-
-## Home - Arsen Arsenović
- - [https://www.aarsen.me](https://www.aarsen.me)
- - date published: 2023-10-25T20:19:40.454803+00:00
- - user: None
- - tags: []
-
-## Adam Tal's Blog
- - [https://www.adamtal.me](https://www.adamtal.me)
- - date published: 2023-10-25T08:49:57.976864+00:00
- - user: None
- - tags: ['personal']
-
-## Andrew Diamond
- - [https://adiamond.me](https://adiamond.me)
- - date published: 2023-10-25T20:19:43.593914+00:00
- - user: None
- - tags: []
-
-## ~ajxs
- - [https://ajxs.me](https://ajxs.me)
- - date published: 2023-10-25T08:49:59.217785+00:00
- - user: None
- - tags: ['personal']
-
-## - Ali Khan
- - [https://akhan.me](https://akhan.me)
- - date published: 2023-10-25T09:22:04.191836+00:00
- - user: None
- - tags: ['personal']
-
-## http://andrew-quinn.me
- - [http://andrew-quinn.me](http://andrew-quinn.me)
- - date published: 2023-10-25T08:59:35.612149+00:00
- - user: None
- - tags: ['personal']
-
-## Andrew Kelley
- - [https://andrewkelley.me](https://andrewkelley.me)
- - date published: 2023-10-25T08:59:37.110667+00:00
- - user: None
- - tags: ['personal']
-
-## Anime Corner - News & Features Straight From Japan
- - [https://animecorner.me](https://animecorner.me)
- - date published: 2023-10-25T14:21:05.794363+00:00
- - user: None
- - tags: []
-
-## Aquiles Carattino | Scientist, Entrepreneur - Science, Entrepreneurship | Aquiles Carattino
- - [https://www.aquiles.me](https://www.aquiles.me)
- - date published: 2023-10-25T08:50:05.476417+00:00
- - user: None
- - tags: ['personal']
-
-## Arne Bahlo
- - [https://arne.me](https://arne.me)
- - date published: 2023-11-03T15:33:10.414628+00:00
- - user: None
- - tags: []
-
-## Aswin Mohan · aswinmohan.me
- - [https://aswinmohan.me](https://aswinmohan.me)
- - date published: 2023-10-25T09:22:04.899221+00:00
- - user: None
- - tags: ['personal']
-
-## Barnabas Kendall
- - [https://barnabas.me](https://barnabas.me)
- - date published: 2023-10-25T08:50:07.867741+00:00
- - user: None
- - tags: ['personal']
-
-## bazhenov.me
- - [https://www.bazhenov.me](https://www.bazhenov.me)
- - date published: 2023-10-25T08:50:09.306260+00:00
- - user: None
- - tags: ['personal']
-
-## Ben Congdon
- - [http://benjamincongdon.me](http://benjamincongdon.me)
- - date published: 2023-10-25T08:50:12.063191+00:00
- - user: None
- - tags: ['personal']
-
-## Birchtree
- - [https://birchtree.me](https://birchtree.me)
- - date published: 2023-10-25T09:22:06.360313+00:00
- - user: None
- - tags: ['personal']
-
-## Blaine Hansen
- - [https://blainehansen.me](https://blainehansen.me)
- - date published: 2023-10-25T08:50:15.333097+00:00
- - user: None
- - tags: ['personal']
-
-## Fernando Borretti
- - [https://borretti.me](https://borretti.me)
- - date published: 2023-10-25T08:50:16.706944+00:00
- - user: None
- - tags: ['personal']
-
-## Bruno Calza
- - [https://brunocalza.me](https://brunocalza.me)
- - date published: 2023-10-25T08:57:14.652750+00:00
- - user: None
- - tags: ['personal']
-
-## bsago.me
- - [https://bsago.me](https://bsago.me)
- - date published: 2023-10-25T08:50:22.982395+00:00
- - user: None
- - tags: ['personal']
-
-## Buu342's Land
- - [https://buu342.me](https://buu342.me)
- - date published: 2023-10-25T09:22:06.880074+00:00
- - user: None
- - tags: ['personal']
-
-## Ben Visness
- - [https://bvisness.me](https://bvisness.me)
- - date published: 2023-10-25T08:59:38.030901+00:00
- - user: None
- - tags: ['personal']
-
-## Flavio Castelli
- - [https://flavio.castelli.me](https://flavio.castelli.me)
- - date published: 2023-11-01T08:43:49.291657+00:00
  - user: None
  - tags: []
 

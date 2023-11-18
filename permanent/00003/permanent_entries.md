@@ -1,3 +1,69 @@
+## Fck Oatly
+ - [https://fckoatly.com](https://fckoatly.com)
+ - date published: 2023-10-25T14:28:16.635829+00:00
+ - user: None
+ - tags: []
+
+## Fear of Landing
+ - [https://fearoflanding.com](https://fearoflanding.com)
+ - date published: 2023-10-25T14:28:18.898214+00:00
+ - user: None
+ - tags: []
+
+## Fear of Oblivion
+ - [https://www.fearofoblivion.com](https://www.fearofoblivion.com)
+ - date published: 2023-10-25T14:28:20.783552+00:00
+ - user: None
+ - tags: []
+
+## Feather – Simply beautiful open source icons
+ - [https://feathericons.com](https://feathericons.com)
+ - date published: 2023-10-25T14:28:27.109754+00:00
+ - user: None
+ - tags: []
+
+## Featurevisor - Feature management for developers with GitOps
+ - [https://featurevisor.com](https://featurevisor.com)
+ - date published: 2023-10-25T14:28:27.860814+00:00
+ - user: None
+ - tags: []
+
+## Federal News Network | Breaking Federal News & Information | Helping feds meet their mission.
+ - [https://federalnewsnetwork.com](https://federalnewsnetwork.com)
+ - date published: 2023-10-25T14:28:37.827433+00:00
+ - user: None
+ - tags: []
+
+## FedEx Global Home - Select Your Location
+ - [https://www.fedex.com](https://www.fedex.com)
+ - date published: 2023-11-01T08:42:05.834694+00:00
+ - user: None
+ - tags: []
+
+## Joseph Wang - money to macro
+ - [https://fedguy.com](https://fedguy.com)
+ - date published: 2023-10-25T14:28:40.203160+00:00
+ - user: None
+ - tags: []
+
+## CFedi — FediList
+ - [http://demo.fedilist.com](http://demo.fedilist.com)
+ - date published: 2023-10-25T14:28:44.764060+00:00
+ - user: None
+ - tags: []
+
+## FedScoop | Federal Government Tech News, Breaking Govt IT News
+ - [https://fedscoop.com](https://fedscoop.com)
+ - date published: 2023-10-25T14:28:53.042098+00:00
+ - user: None
+ - tags: []
+
+## Brad Feld
+ - [https://feld.com](https://feld.com)
+ - date published: 2023-10-25T14:28:55.922376+00:00
+ - user: None
+ - tags: []
+
 ## Felicis
  - [https://www.felicis.com](https://www.felicis.com)
  - date published: 2023-10-25T14:28:57.322341+00:00
@@ -2033,6 +2099,12 @@
  - user: None
  - tags: []
 
+## Global Table Adventure | Bringing the World to your Kitchen
+ - [https://globaltableadventure.com](https://globaltableadventure.com)
+ - date published: 2023-11-17T07:29:02.885266+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Global Toy News – The World's Most Influential Toy Magazine
  - [https://globaltoynews.com](https://globaltoynews.com)
  - date published: 2023-10-25T14:46:04.543243+00:00
@@ -3164,6 +3236,12 @@
  - user: None
  - tags: []
 
+## Half-Life
+ - [https://www.half-life.com](https://www.half-life.com)
+ - date published: 2023-11-17T19:04:24.870102+00:00
+ - user: None
+ - tags: ['game', 'half life', 'valve']
+
 ## Half-Life 2: VR Mod
  - [https://halflife2vr.com](https://halflife2vr.com)
  - date published: 2023-10-30T15:50:50.492955+00:00
@@ -3901,6 +3979,12 @@
  - date published: 2023-10-25T15:00:49.744923+00:00
  - user: None
  - tags: []
+
+## Horia Constantin
+ - [https://horiaconstantin.com](https://horiaconstantin.com)
+ - date published: 2023-11-17T07:32:27.986043+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Spy Balloon Simulator - deploy your own balloon!
  - [https://spyballoonsim.hornetsnestguild.com](https://spyballoonsim.hornetsnestguild.com)
@@ -5810,6 +5894,12 @@
  - user: None
  - tags: []
 
+## JEREMY DEPRISCO - JEREMY DEPRISCO
+ - [https://www.jeremydeprisco.com](https://www.jeremydeprisco.com)
+ - date published: 2023-11-17T10:12:35.173571+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Math ∩ Programming
  - [https://jeremykun.com](https://jeremykun.com)
  - date published: 2023-10-25T15:28:05.702522+00:00
@@ -5903,96 +5993,6 @@
 ## Jezen Thomas | Haskell, Unix, Minimalism, and Entrepreneurship.
  - [https://jezenthomas.com](https://jezenthomas.com)
  - date published: 2023-10-25T15:28:46.503280+00:00
- - user: None
- - tags: []
-
-## Software Supply Chain Platform for DevOps & Security | JFrog
- - [https://jfrog.com](https://jfrog.com)
- - date published: 2023-10-25T15:29:02.160628+00:00
- - user: None
- - tags: []
-
-## jgallant's Indie Game Developer Homepage
- - [https://www.jgallant.com](https://www.jgallant.com)
- - date published: 2023-10-25T15:29:05.166800+00:00
- - user: None
- - tags: []
-
-## Ji'hyn's Webbed Site – Thinkin' 'bout stuff
- - [https://jihyn.com](https://jihyn.com)
- - date published: 2023-11-09T19:01:08.263803+00:00
- - user: None
- - tags: []
-
-## Jim Nielsen’s Blog
- - [https://blog.jim-nielsen.com](https://blog.jim-nielsen.com)
- - date published: 2023-10-25T15:29:09.082962+00:00
- - user: None
- - tags: []
-
-## Jim Clair – Blog
- - [https://jimclair.com](https://jimclair.com)
- - date published: 2023-10-25T15:29:13.208321+00:00
- - user: None
- - tags: []
-
-## Jingnan Shi
- - [https://jingnanshi.com](https://jingnanshi.com)
- - date published: 2023-10-25T15:29:17.944385+00:00
- - user: None
- - tags: []
-
-## JITX - Software-defined electronics
- - [https://www.jitx.com](https://www.jitx.com)
- - date published: 2023-10-25T15:29:20.014336+00:00
- - user: None
- - tags: []
-
-## Jonathan Katz
- - [https://jkatz05.com](https://jkatz05.com)
- - date published: 2023-10-25T15:29:21.287258+00:00
- - user: None
- - tags: []
-
-## Jon Kulton
- - [https://jkulton.com](https://jkulton.com)
- - date published: 2023-10-25T15:29:22.992517+00:00
- - user: None
- - tags: []
-
-## Jon Quixote | In which the author considers whether a community is more like a giant or more like a windmill.
- - [https://jlericson.com](https://jlericson.com)
- - date published: 2023-10-25T15:29:25.754618+00:00
- - user: None
- - tags: []
-
-## James Long - blog & knowledge graph
- - [https://jlongster.com](https://jlongster.com)
- - date published: 2023-10-25T15:29:27.238133+00:00
- - user: None
- - tags: []
-
-## A sonic soul with a relentless drive to make & learn - JmsDnns
- - [https://jmsdnns.com](https://jmsdnns.com)
- - date published: 2023-10-25T15:29:28.593016+00:00
- - user: None
- - tags: []
-
-## Johnson & Johnson
- - [https://www.jnj.com](https://www.jnj.com)
- - date published: 2023-11-01T08:42:21.909273+00:00
- - user: None
- - tags: []
-
-## https://www.jntrnr.com
- - [https://www.jntrnr.com](https://www.jntrnr.com)
- - date published: 2023-10-25T15:29:29.920596+00:00
- - user: None
- - tags: []
-
-## Joanne Jacobs on Education and Parenting
- - [https://www.joannejacobs.com](https://www.joannejacobs.com)
- - date published: 2023-10-25T15:29:32.835787+00:00
  - user: None
  - tags: []
 

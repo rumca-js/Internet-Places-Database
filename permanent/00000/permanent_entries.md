@@ -178,6 +178,18 @@
  - user: rumpel
  - tags: ['link aggregation']
 
+## Motherfucking Website
+ - [https://motherfuckingwebsite.com](https://motherfuckingwebsite.com)
+ - date published: 2023-11-17T18:03:41+00:00
+ - user: rumpel
+ - tags: ['funny', 'wtf', 'internet']
+
+## http://blog.abctaylor.com
+ - [http://blog.abctaylor.com](http://blog.abctaylor.com)
+ - date published: 2023-11-17T18:45:18.152341+00:00
+ - user: None
+ - tags: []
+
 ## Sort: Supercharged collaboration for your database
  - [https://sort.xyz.](https://sort.xyz.)
  - date published: 2023-11-01T23:07:07.991006+00:00
@@ -2644,6 +2656,12 @@
  - user: None
  - tags: []
 
+## https://stories.uq.edu.au
+ - [https://stories.uq.edu.au](https://stories.uq.edu.au)
+ - date published: 2023-11-17T13:27:47.905862+00:00
+ - user: None
+ - tags: []
+
 ## The University of Queensland
  - [https://www.uq.edu.au](https://www.uq.edu.au)
  - date published: 2023-10-25T11:21:39.655939+00:00
@@ -4558,7 +4576,7 @@
  - [https://clickclickclick.click](https://clickclickclick.click)
  - date published: 2023-10-25T11:07:58.518463+00:00
  - user: None
- - tags: []
+ - tags: ['funny', 'weird', 'wtf']
 
 ## Write an email to Santa Claus!
  - [https://hohoho.click](https://hohoho.click)
@@ -5952,6 +5970,12 @@
  - user: None
  - tags: []
 
+## Diary of a SysAdmin
+ - [https://blog.abctaylor.com](https://blog.abctaylor.com)
+ - date published: 2023-11-17T18:44:51.502563+00:00
+ - user: None
+ - tags: []
+
 ## Abenezer Belachew / Software Developer
  - [https://www.abenezerbelachew.com](https://www.abenezerbelachew.com)
  - date published: 2023-10-30T08:53:04.273441+00:00
@@ -5967,30 +5991,6 @@
 ## Creative tools for music makers | Ableton
  - [https://www.ableton.com](https://www.ableton.com)
  - date published: 2023-10-25T12:30:06.725974+00:00
- - user: None
- - tags: []
-
-## Abner
- - [https://abnercoimbre.com](https://abnercoimbre.com)
- - date published: 2023-10-25T08:44:05.326397+00:00
- - user: None
- - tags: ['personal']
-
-## About Amazon
- - [https://www.aboutamazon.com](https://www.aboutamazon.com)
- - date published: 2023-10-25T12:30:23.394156+00:00
- - user: None
- - tags: []
-
-## About Chromebooks
- - [https://www.aboutchromebooks.com](https://www.aboutchromebooks.com)
- - date published: 2023-10-25T12:30:39.841135+00:00
- - user: None
- - tags: []
-
-## ABP News LIVE, Latest News, Breaking News, Top Headlines, India News Today - ABP LIVE
- - [https://news.abplive.com](https://news.abplive.com)
- - date published: 2023-10-25T10:43:44.721760+00:00
  - user: None
  - tags: []
 

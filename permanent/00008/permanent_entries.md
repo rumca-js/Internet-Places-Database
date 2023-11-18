@@ -1,3 +1,207 @@
+## Shaping Tomorrow's Energy | Westinghouse Electric Company
+ - [http://www.westinghousenuclear.com](http://www.westinghousenuclear.com)
+ - date published: 2023-10-27T11:56:50.936719+00:00
+ - user: None
+ - tags: []
+
+## Access Denied
+ - [https://www.wfaa.com](https://www.wfaa.com)
+ - date published: 2023-10-27T11:56:51.812151+00:00
+ - user: None
+ - tags: []
+
+## Access Restricted
+ - [https://www.wfla.com](https://www.wfla.com)
+ - date published: 2023-11-10T02:12:09.738510+00:00
+ - user: None
+ - tags: []
+
+## The WFMT Studs Terkel Radio Archive | A Living Celebration
+ - [https://studsterkel.wfmt.com](https://studsterkel.wfmt.com)
+ - date published: 2023-10-25T18:03:10.011308+00:00
+ - user: None
+ - tags: []
+
+## wfmz.com | Your Life, Your World, Your NEWS
+ - [https://www.wfmz.com](https://www.wfmz.com)
+ - date published: 2023-11-15T18:40:50.031661+00:00
+ - user: None
+ - tags: []
+
+## Orlando News, Weather, and Sports | WFTV – WFTV
+ - [https://www.wftv.com](https://www.wftv.com)
+ - date published: 2023-10-31T19:10:21.991353+00:00
+ - user: None
+ - tags: []
+
+## Access Denied
+ - [https://www.whas11.com](https://www.whas11.com)
+ - date published: 2023-10-25T18:03:10.464733+00:00
+ - user: None
+ - tags: []
+
+## What does this code do?
+ - [https://whatdoesthiscodedo.com](https://whatdoesthiscodedo.com)
+ - date published: 2023-10-25T18:03:11.005084+00:00
+ - user: None
+ - tags: []
+
+## What Hi-Fi? | Tech news and reviews
+ - [https://www.whathifi.com](https://www.whathifi.com)
+ - date published: 2023-10-25T18:03:26.791247+00:00
+ - user: None
+ - tags: []
+
+## What Lisa Cooks
+ - [https://www.whatlisacooks.com](https://www.whatlisacooks.com)
+ - date published: 2023-10-25T18:03:33.421482+00:00
+ - user: None
+ - tags: []
+
+## Error
+ - [https://blog.whatsapp.com](https://blog.whatsapp.com)
+ - date published: 2023-10-25T18:03:33.987561+00:00
+ - user: None
+ - tags: []
+
+## Error
+ - [https://web.whatsapp.com](https://web.whatsapp.com)
+ - date published: 2023-10-25T18:03:35.151613+00:00
+ - user: None
+ - tags: []
+
+## Error
+ - [https://whatsapp.com](https://whatsapp.com)
+ - date published: 2023-11-01T09:36:41.682769+00:00
+ - user: None
+ - tags: ['social communicator']
+
+## Whatsapp
+ - [https://www.whatsapp.com](https://www.whatsapp.com)
+ - date published: 2023-10-25T13:24:38+00:00
+ - user: rumpel
+ - tags: ['gatekeeper', 'social communicator']
+
+## WHDownLoad
+ - [https://www.whdownload.com](https://www.whdownload.com)
+ - date published: 2023-10-27T14:30:25.747347+00:00
+ - user: None
+ - tags: ['emulation', 'amiga', 'roms']
+
+## News10NBC
+ - [https://www.whec.com](https://www.whec.com)
+ - date published: 2023-11-12T18:45:25.297898+00:00
+ - user: None
+ - tags: []
+
+## http://wheybags.com
+ - [http://wheybags.com](http://wheybags.com)
+ - date published: 2023-10-25T18:03:36.870087+00:00
+ - user: None
+ - tags: []
+
+## Which Face Is Real?
+ - [https://www.whichfaceisreal.com](https://www.whichfaceisreal.com)
+ - date published: 2023-10-25T18:03:39.608286+00:00
+ - user: None
+ - tags: []
+
+## David J. Pearce
+ - [https://whileydave.com](https://whileydave.com)
+ - date published: 2023-10-25T18:03:41.534311+00:00
+ - user: None
+ - tags: []
+
+## Whimsy Soul - Find your everyday magic
+ - [https://whimsysoul.com](https://whimsysoul.com)
+ - date published: 2023-10-25T18:03:48.676684+00:00
+ - user: None
+ - tags: []
+
+## Whipsaw: Product Design and Experience Innovation
+ - [https://whipsaw.com](https://whipsaw.com)
+ - date published: 2023-10-25T18:04:05.026714+00:00
+ - user: None
+ - tags: []
+
+## Whisper Memos
+ - [https://whispermemos.com](https://whispermemos.com)
+ - date published: 2023-10-25T18:04:06.690848+00:00
+ - user: None
+ - tags: []
+
+## Closed Captioning Services - White Coat Captioning
+ - [https://whitecoatcaptioning.com](https://whitecoatcaptioning.com)
+ - date published: 2023-10-25T18:04:14.532374+00:00
+ - user: None
+ - tags: []
+
+## Blade Runner White Dragon Cut
+ - [https://whitedragoncut.com](https://whitedragoncut.com)
+ - date published: 2023-11-01T08:43:27.462487+00:00
+ - user: None
+ - tags: []
+
+## Salma Alam-Naylor — live streamer, software engineer and developer educator
+ - [https://whitep4nth3r.com](https://whitep4nth3r.com)
+ - date published: 2023-10-25T18:04:18.275962+00:00
+ - user: None
+ - tags: []
+
+## ✌️ I'm Zoe Chew, Product Builder.
+ - [https://whizzoe.com](https://whizzoe.com)
+ - date published: 2023-10-25T08:58:23.078811+00:00
+ - user: None
+ - tags: ['personal']
+
+## WhoFundsWho – WhoFundsWho instantly shows you who funds the experts, politicians, think tanks and other institutions you are reading about
+ - [https://whofundswho.com](https://whofundswho.com)
+ - date published: 2023-10-25T18:04:21.086464+00:00
+ - user: None
+ - tags: []
+
+## Why.com - Premium category defining domain names for sale, exact match domains
+ - [http://why.com](http://why.com)
+ - date published: 2023-11-12T05:59:10.336738+00:00
+ - user: None
+ - tags: []
+
+## Why Do We Interface?
+ - [https://whydoweinterface.com](https://whydoweinterface.com)
+ - date published: 2023-10-25T18:04:25.390477+00:00
+ - user: None
+ - tags: []
+
+## Why Evolution Is True – Why Evolution is True is a blog written by Jerry Coyne, centered on evolution and biology but also dealing with diverse topics like politics, culture, and cats.
+ - [https://whyevolutionistrue.com](https://whyevolutionistrue.com)
+ - date published: 2023-10-25T18:04:36.858105+00:00
+ - user: None
+ - tags: []
+
+## AWS Wickr | Protecting Communications with End-to-End Encryption
+ - [https://wickr.com](https://wickr.com)
+ - date published: 2023-10-25T18:04:40.910250+00:00
+ - user: None
+ - tags: []
+
+## widgets and shit
+ - [http://widgetsandshit.com](http://widgetsandshit.com)
+ - date published: 2023-10-25T18:04:42.009067+00:00
+ - user: None
+ - tags: []
+
+## WiiLink
+ - [https://www.wiilink24.com](https://www.wiilink24.com)
+ - date published: 2023-10-25T18:04:45.747440+00:00
+ - user: None
+ - tags: []
+
+## WikiBinge: Discover how all things are vaguely connected.
+ - [https://www.wikibinge.com](https://www.wikibinge.com)
+ - date published: 2023-10-25T18:04:47.548936+00:00
+ - user: None
+ - tags: []
+
 ## Wikipedia Speedruns!
  - [https://wikispeedruns.com](https://wikispeedruns.com)
  - date published: 2023-10-25T18:04:54.204112+00:00
@@ -1970,7 +2174,7 @@
  - [https://zuckbannedme.com](https://zuckbannedme.com)
  - date published: 2023-10-25T11:08:11.437717+00:00
  - user: None
- - tags: []
+ - tags: ['censorship', 'facebook', 'meta']
 
 ## The Zulip Blog
  - [https://blog.zulip.com](https://blog.zulip.com)
@@ -1995,6 +2199,12 @@
  - date published: 2023-10-25T11:08:13.765188+00:00
  - user: None
  - tags: ['wtf']
+
+## How to play C&C guides, C&C News, C&C Remastered Leaderboards - Command & Conquer
+ - [https://cnc.community](https://cnc.community)
+ - date published: 2023-11-17T21:46:11+00:00
+ - user: rumpel
+ - tags: ['red alert', 'command and conquer']
 
 ## Introduction - Building Games with DragonRuby
  - [https://book.dragonriders.community](https://book.dragonriders.community)
@@ -3520,6 +3730,12 @@ home
  - date published: 2023-10-25T18:36:35.450021+00:00
  - user: None
  - tags: []
+
+## Cohan Robinson
+ - [https://cohan.dev](https://cohan.dev)
+ - date published: 2023-11-17T12:48:41+00:00
+ - user: rumpel
+ - tags: ['personal']
 
 ## Embeddable Common-Lisp
  - [https://ecl.common-lisp.dev](https://ecl.common-lisp.dev)
@@ -5782,222 +5998,6 @@ home
 ## Drexel Home
  - [https://drexel.edu](https://drexel.edu)
  - date published: 2023-10-25T18:51:05.420930+00:00
- - user: None
- - tags: []
-
-## Duke Today | Duke Today
- - [https://today.duke.edu](https://today.duke.edu)
- - date published: 2023-10-25T18:51:07.229842+00:00
- - user: None
- - tags: []
-
-## Duke University School of Law
- - [https://web.law.duke.edu](https://web.law.duke.edu)
- - date published: 2023-10-25T11:22:18.328920+00:00
- - user: None
- - tags: []
-
-## Duke University Press
- - [https://read.dukeupress.edu](https://read.dukeupress.edu)
- - date published: 2023-10-25T18:51:09.503912+00:00
- - user: None
- - tags: []
-
-## FIU News - Florida International University
- - [https://news.fiu.edu](https://news.fiu.edu)
- - date published: 2023-10-30T12:42:14.738633+00:00
- - user: None
- - tags: []
-
-## Florida State University
- - [https://fsu.edu](https://fsu.edu)
- - date published: 2023-10-27T12:59:00.241454+00:00
- - user: None
- - tags: ['university']
-
-## Home - Florida State University News
- - [https://news.fsu.edu](https://news.fsu.edu)
- - date published: 2023-10-25T11:22:28.015942+00:00
- - user: None
- - tags: []
-
-## CSUF Psychology Department Research and Teaching Materials
- - [https://psych.fullerton.edu](https://psych.fullerton.edu)
- - date published: 2023-10-25T18:51:10.992214+00:00
- - user: None
- - tags: []
-
-## https://faculty.cc.gatech.edu
- - [https://faculty.cc.gatech.edu](https://faculty.cc.gatech.edu)
- - date published: 2023-10-25T18:51:12.075741+00:00
- - user: None
- - tags: []
-
-## Getty: Resources for Visual Art and Cultural Heritage
- - [http://getty.edu](http://getty.edu)
- - date published: 2023-11-13T13:53:09.501275+00:00
- - user: None
- - tags: ['museum']
-
-## Getty: Resources for Visual Art and Cultural Heritage
- - [https://www.getty.edu](https://www.getty.edu)
- - date published: 2023-10-25T18:51:15.051347+00:00
- - user: None
- - tags: []
-
-## Home | National Security Archive
- - [https://nsarchive.gwu.edu](https://nsarchive.gwu.edu)
- - date published: 2023-10-25T18:51:17.562894+00:00
- - user: None
- - tags: []
-
-## School of Engineering & Applied Science | The George Washington University
- - [https://www2.seas.gwu.edu](https://www2.seas.gwu.edu)
- - date published: 2023-10-25T18:51:22.184962+00:00
- - user: None
- - tags: []
-
-## A Top Liberal Arts College - homepage - Hamilton College
- - [https://www.hamilton.edu](https://www.hamilton.edu)
- - date published: 2023-10-25T18:51:24.815538+00:00
- - user: None
- - tags: []
-
-## Faculty | Hampshire College
- - [https://faculty.hampshire.edu](https://faculty.hampshire.edu)
- - date published: 2023-10-25T18:51:31.521956+00:00
- - user: None
- - tags: []
-
-## Weblogs at Harvard
- - [https://blogs.harvard.edu](https://blogs.harvard.edu)
- - date published: 2023-10-25T18:51:34.410192+00:00
- - user: None
- - tags: []
-
-## The Harvard Law School Forum on Corporate Governance | The leading online blog in the fields of corporate governance and financial regulation.
- - [https://corpgov.law.harvard.edu](https://corpgov.law.harvard.edu)
- - date published: 2023-10-25T18:51:38.896224+00:00
- - user: None
- - tags: []
-
-## Home | Digital Data Design Institute at Harvard
- - [https://d3.harvard.edu](https://d3.harvard.edu)
- - date published: 2023-10-25T18:51:42.107342+00:00
- - user: None
- - tags: []
-
-## Harvard Business Publishing Education
- - [https://hbsp.harvard.edu](https://hbsp.harvard.edu)
- - date published: 2023-10-25T18:51:44.051862+00:00
- - user: None
- - tags: []
-
-## Home - Harvard Law School | Harvard Law School
- - [https://hls.harvard.edu](https://hls.harvard.edu)
- - date published: 2023-10-25T18:51:50.060436+00:00
- - user: None
- - tags: []
-
-## Home | Harvard Medical School
- - [https://hms.harvard.edu](https://hms.harvard.edu)
- - date published: 2023-10-25T18:51:52.607343+00:00
- - user: None
- - tags: []
-
-## Home | Center for Astrophysics
- - [https://lweb.cfa.harvard.edu](https://lweb.cfa.harvard.edu)
- - date published: 2023-10-25T18:51:56.891134+00:00
- - user: None
- - tags: []
-
-## Harvard Gazette – Official news from Harvard University covering innovation in teaching, learning, and research
- - [https://news.harvard.edu](https://news.harvard.edu)
- - date published: 2023-10-25T11:22:32.692394+00:00
- - user: None
- - tags: []
-
-## Home Page | Harvard John A. Paulson School of Engineering and Applied Sciences
- - [https://people.seas.harvard.edu](https://people.seas.harvard.edu)
- - date published: 2023-10-25T18:52:00.075501+00:00
- - user: None
- - tags: []
-
-## Home | Scholars at Harvard
- - [https://scholar.harvard.edu](https://scholar.harvard.edu)
- - date published: 2023-10-25T18:52:02.303424+00:00
- - user: None
- - tags: []
-
-## Home Page | Harvard John A. Paulson School of Engineering and Applied Sciences
- - [https://seas.harvard.edu](https://seas.harvard.edu)
- - date published: 2023-10-25T18:52:04.448986+00:00
- - user: None
- - tags: []
-
-## Computer Science | Harvard John A. Paulson School of Engineering and Applied Sciences
- - [https://www.eecs.harvard.edu](https://www.eecs.harvard.edu)
- - date published: 2023-10-25T18:52:07.507044+00:00
- - user: None
- - tags: []
-
-## Health Information and Medical Information - Harvard Health
- - [https://www.health.harvard.edu](https://www.health.harvard.edu)
- - date published: 2023-10-25T18:52:11.043760+00:00
- - user: None
- - tags: []
-
-## Harvard T.H. Chan School of Public Health
- - [https://www.hsph.harvard.edu](https://www.hsph.harvard.edu)
- - date published: 2023-11-14T14:40:33.102536+00:00
- - user: None
- - tags: []
-
-## PON - Program on Negotiation at Harvard Law School
- - [https://www.pon.harvard.edu](https://www.pon.harvard.edu)
- - date published: 2023-10-25T18:52:14.185371+00:00
- - user: None
- - tags: []
-
-## HBS Working Knowledge – Harvard Business School Faculty Research
- - [https://hbswk.hbs.edu](https://hbswk.hbs.edu)
- - date published: 2023-10-25T18:52:16.527569+00:00
- - user: None
- - tags: []
-
-## Home | Hillsdale in D.C.
- - [https://dc.hillsdale.edu](https://dc.hillsdale.edu)
- - date published: 2023-10-25T18:52:19.460793+00:00
- - user: None
- - tags: []
-
-## Institute for Advanced Study
- - [https://www.ias.edu](https://www.ias.edu)
- - date published: 2023-10-25T18:52:27.675140+00:00
- - user: None
- - tags: []
-
-## Course Websites | The Grainger College of Engineering | UIUC
- - [https://courses.physics.illinois.edu](https://courses.physics.illinois.edu)
- - date published: 2023-10-25T18:53:00.332561+00:00
- - user: None
- - tags: []
-
-## Jeff Erickson
- - [https://jeffe.cs.illinois.edu](https://jeffe.cs.illinois.edu)
- - date published: 2023-11-13T19:48:15.697958+00:00
- - user: None
- - tags: []
-
-## Margaret M. Fleck
- - [https://mfleck.cs.illinois.edu](https://mfleck.cs.illinois.edu)
- - date published: 2023-10-25T18:53:02.929808+00:00
- - user: None
- - tags: []
-
-## News Bureau | ILLINOIS
- - [https://news.illinois.edu](https://news.illinois.edu)
- - date published: 2023-10-25T18:53:10.492770+00:00
  - user: None
  - tags: []
 

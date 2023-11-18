@@ -1,3 +1,117 @@
+## MSNBC News - Breaking News and News Today | Latest News
+ - [https://msnbc.com](https://msnbc.com)
+ - date published: 2023-11-05T15:29:41.824039+00:00
+ - user: None
+ - tags: []
+
+## MSNBC News - Breaking News and News Today | Latest News
+ - [https://www.msnbc.com](https://www.msnbc.com)
+ - date published: 2023-10-25T10:26:52.780038+00:00
+ - user: None
+ - tags: ['news']
+
+## Home - MSPoweruser
+ - [https://mspoweruser.com](https://mspoweruser.com)
+ - date published: 2023-10-25T16:08:22.790856+00:00
+ - user: None
+ - tags: []
+
+## MT-Propeller - Home
+ - [https://www.mt-propeller.com](https://www.mt-propeller.com)
+ - date published: 2023-10-25T16:08:24.716570+00:00
+ - user: None
+ - tags: []
+
+## MTG Rocks - Magic The Gathering Decks, Spoilers, Strategy & More!
+ - [https://mtgrocks.com](https://mtgrocks.com)
+ - date published: 2023-10-25T16:08:30.301225+00:00
+ - user: None
+ - tags: []
+
+## MUBI: Watch and Discover Movies
+ - [https://mubi.com](https://mubi.com)
+ - date published: 2023-11-13T12:46:47.451838+00:00
+ - user: None
+ - tags: []
+
+## The MUGEN ARCHIVE - Home
+ - [https://mugenarchive.com](https://mugenarchive.com)
+ - date published: 2023-10-29T09:58:23.978741+00:00
+ - user: None
+ - tags: []
+
+## MUGEN CHARACTERS: Download Chars, Games, Stages
+ - [https://www.mugendb.com](https://www.mugendb.com)
+ - date published: 2023-10-30T16:29:57.817187+00:00
+ - user: None
+ - tags: []
+
+## Mugen Free For All
+ - [https://mugenfreeforall.com](https://mugenfreeforall.com)
+ - date published: 2023-10-29T09:56:20.071922+00:00
+ - user: None
+ - tags: []
+
+## MuggleNet - The #1 Wizarding World Resource Since 1999
+ - [https://www.mugglenet.com](https://www.mugglenet.com)
+ - date published: 2023-10-25T14:08:36.190046+00:00
+ - user: None
+ - tags: []
+
+## Mule Design
+ - [https://www.muledesign.com](https://www.muledesign.com)
+ - date published: 2023-10-25T16:08:34.253814+00:00
+ - user: None
+ - tags: []
+
+## Mumsnet | The UK’s most popular website for parents | Mumsnet
+ - [https://www.mumsnet.com](https://www.mumsnet.com)
+ - date published: 2023-10-25T16:08:38.624280+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Muppetlabs
+ - [https://www.muppetlabs.com](https://www.muppetlabs.com)
+ - date published: 2023-10-25T16:08:39.656420+00:00
+ - user: None
+ - tags: []
+
+## Muscle Cars and Trucks - Your Single Source For Automotive Americana
+ - [https://www.musclecarsandtrucks.com](https://www.musclecarsandtrucks.com)
+ - date published: 2023-10-25T16:08:45.559609+00:00
+ - user: None
+ - tags: []
+
+## MuscleWiki - Simplify your workout
+ - [https://musclewiki.com](https://musclewiki.com)
+ - date published: 2023-10-25T16:08:46.078982+00:00
+ - user: None
+ - tags: []
+
+## Muse — dive into big ideas
+ - [https://museapp.com](https://museapp.com)
+ - date published: 2023-10-25T16:08:46.848223+00:00
+ - user: None
+ - tags: []
+
+## Museum of Failure Main - Museum of Failure
+ - [https://museumoffailure.com](https://museumoffailure.com)
+ - date published: 2023-10-25T16:08:49.578439+00:00
+ - user: None
+ - tags: []
+
+## Musico - AI generative music
+ - [https://www.musi-co.com](https://www.musi-co.com)
+ - date published: 2023-10-25T16:08:56.804634+00:00
+ - user: None
+ - tags: []
+
+## Music Industry | Record labels | Record Companies | Music Gateway
+ - [https://www.musicgateway.com](https://www.musicgateway.com)
+ - date published: 2023-10-28T20:09:12.896749+00:00
+ - user: None
+ - tags: []
+
 ## Musician Wave | The Ultimate Resource for Music Makers
  - [https://www.musicianwave.com](https://www.musicianwave.com)
  - date published: 2023-10-25T11:13:38.064016+00:00
@@ -379,6 +493,12 @@
 ## NBC Bay Area – Bay Area News, Local News, Weather, Traffic, Entertainment, Breaking News
  - [https://www.nbcbayarea.com](https://www.nbcbayarea.com)
  - date published: 2023-10-25T11:05:29.767118+00:00
+ - user: None
+ - tags: []
+
+## NBC 5 Dallas-Fort Worth
+ - [https://www.nbcdfw.com](https://www.nbcdfw.com)
+ - date published: 2023-11-17T07:14:58.587632+00:00
  - user: None
  - tags: []
 
@@ -886,6 +1006,12 @@
  - user: None
  - tags: []
 
+## Home - New York Verified
+ - [https://newyorkverified.com](https://newyorkverified.com)
+ - date published: 2023-11-17T18:25:41.742645+00:00
+ - user: None
+ - tags: []
+
 ## Nex Lumina
  - [https://nexlumina.com](https://nexlumina.com)
  - date published: 2023-10-25T16:18:01.978044+00:00
@@ -1047,6 +1173,12 @@
  - date published: 2023-10-25T16:19:16.764375+00:00
  - user: None
  - tags: []
+
+## Nicole Fu
+ - [https://nicolefu.com](https://nicolefu.com)
+ - date published: 2023-11-17T07:31:48.682236+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Nicollet Investment Management
  - [https://www.nicolletinvest.com](https://www.nicolletinvest.com)
@@ -1867,7 +1999,7 @@ Answering Machine Greetings!
  - [https://oldgamesdownload.com](https://oldgamesdownload.com)
  - date published: 2023-10-25T16:33:49.666375+00:00
  - user: None
- - tags: ['abandonware', 'atari', 'game roms', 'amiga']
+ - tags: ['command and conquer', 'abandonware', 'game roms', 'red alert', 'amiga', 'atari']
 
 ## The Old Operating Theatre
  - [https://oldoperatingtheatre.com](https://oldoperatingtheatre.com)
@@ -3256,6 +3388,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Dr. Phil Maffetone - founder of the 180 formula and MAF test
+ - [https://philmaffetone.com](https://philmaffetone.com)
+ - date published: 2023-11-18T07:33:39.194122+00:00
+ - user: None
+ - tags: []
+
 ## Philosophy Bro
  - [https://www.philosophybro.com](https://www.philosophybro.com)
  - date published: 2023-10-25T16:34:04.305344+00:00
@@ -3514,6 +3652,12 @@ Answering Machine Greetings!
 ## Home - PiunikaWeb
  - [https://piunikaweb.com](https://piunikaweb.com)
  - date published: 2023-10-25T16:35:36.299294+00:00
+ - user: None
+ - tags: []
+
+## Access Restricted
+ - [https://pix11.com](https://pix11.com)
+ - date published: 2023-11-17T21:44:28.337836+00:00
  - user: None
  - tags: []
 
@@ -4054,6 +4198,12 @@ Answering Machine Greetings!
 ## The Pragmatic Engineer | Gergely Orosz | Substack
  - [https://newsletter.pragmaticengineer.com](https://newsletter.pragmaticengineer.com)
  - date published: 2023-10-25T16:39:06.934231+00:00
+ - user: None
+ - tags: []
+
+## Prakhar Gupta - Home
+ - [https://prakgupta.com](https://prakgupta.com)
+ - date published: 2023-11-17T07:14:25.973919+00:00
  - user: None
  - tags: []
 
@@ -5355,6 +5505,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Red Alert 2 | Online Gameplay
+ - [https://redalert2.com](https://redalert2.com)
+ - date published: 2023-11-17T21:46:56+00:00
+ - user: rumpel
+ - tags: ['command and conquer']
+
 ## Red Blob Games
  - [https://www.redblobgames.com](https://www.redblobgames.com)
  - date published: 2023-10-25T16:47:32.544748+00:00
@@ -5805,6 +5961,12 @@ Answering Machine Greetings!
  - user: None
  - tags: ['game news']
 
+## Los mejores juegos retro para descargar gratis - Retrolorian
+ - [https://www.retrolorian.com](https://www.retrolorian.com)
+ - date published: 2023-11-17T21:44:04+00:00
+ - user: rumpel
+ - tags: ['retro games']
+
 ## About the Retro-Printer Module | RetroPrinter.com
  - [https://www.retroprinter.com](https://www.retroprinter.com)
  - date published: 2023-10-25T16:50:29.050727+00:00
@@ -5840,166 +6002,4 @@ Answering Machine Greetings!
  - date published: 2023-10-25T13:56:54.054723+00:00
  - user: None
  - tags: ['tolkien']
-
-## Reuters | Breaking International News & Views
- - [https://www.reuters.com](https://www.reuters.com)
- - date published: 2023-10-25T10:38:41.639140+00:00
- - user: None
- - tags: []
-
-## International News Agency | Multimedia News Provider | Reuters
- - [https://www.reutersagency.com](https://www.reutersagency.com)
- - date published: 2023-10-25T16:50:47.197541+00:00
- - user: None
- - tags: []
-
-## Home | Reverb Machine
- - [https://reverbmachine.com](https://reverbmachine.com)
- - date published: 2023-10-25T16:50:50.350568+00:00
- - user: None
- - tags: []
-
-## Reversemode
- - [https://www.reversemode.com](https://www.reversemode.com)
- - date published: 2023-10-25T16:50:52.011927+00:00
- - user: None
- - tags: []
-
-## Software Supply Chain Security & Threat Intelligence  | ReversingLabs
- - [https://www.reversinglabs.com](https://www.reversinglabs.com)
- - date published: 2023-10-25T16:50:55.808121+00:00
- - user: None
- - tags: []
-
-## Las Vegas News | Breaking News & Headlines | Las Vegas Review-Journal
- - [https://www.reviewjournal.com](https://www.reviewjournal.com)
- - date published: 2023-10-25T10:38:52.009999+00:00
- - user: None
- - tags: []
-
-## ReviewNB - Jupyter Notebook Code Reviews & Collaboration
- - [https://www.reviewnb.com](https://www.reviewnb.com)
- - date published: 2023-10-25T16:50:57.986129+00:00
- - user: None
- - tags: []
-
-## Revive Machines
- - [https://revive-machines.com](https://revive-machines.com)
- - date published: 2023-10-25T16:50:58.488773+00:00
- - user: None
- - tags: []
-
-## Revolut | All-in-one Finance App for your Money | Revolut
- - [https://www.revolut.com](https://www.revolut.com)
- - date published: 2023-10-25T14:49:03.844755+00:00
- - user: None
- - tags: ['banking']
-
-## https://blog.revolutionanalytics.com
- - [https://blog.revolutionanalytics.com](https://blog.revolutionanalytics.com)
- - date published: 2023-10-25T16:50:58.906287+00:00
- - user: None
- - tags: []
-
-## Rex Research Archives Home Page
- - [http://rexresearch.com](http://rexresearch.com)
- - date published: 2023-10-25T16:51:02.503663+00:00
- - user: None
- - tags: []
-
-## Der integrierte internationale Technologiekonzern  | Rheinmetall
- - [https://www.rheinmetall.com](https://www.rheinmetall.com)
- - date published: 2023-10-25T16:51:08.413247+00:00
- - user: None
- - tags: []
-
-## Enterprise NoSQL Database | Scalable Database Solutions | Riak
- - [https://riak.com](https://riak.com)
- - date published: 2023-10-25T16:51:09.866070+00:00
- - user: None
- - tags: []
-
-## Ribbonfarm Studio | Venkatesh Rao | Substack
- - [https://studio.ribbonfarm.com](https://studio.ribbonfarm.com)
- - date published: 2023-10-25T16:51:12.705518+00:00
- - user: None
- - tags: []
-
-## ribbonfarm
- - [https://www.ribbonfarm.com](https://www.ribbonfarm.com)
- - date published: 2023-10-25T16:51:14.885911+00:00
- - user: None
- - tags: []
-
-## Ribbon Health partners with innovators across the healthcare ecosystem
- - [https://www.ribbonhealth.com](https://www.ribbonhealth.com)
- - date published: 2023-10-25T16:51:16.455485+00:00
- - user: None
- - tags: []
-
-## rand[om] - med ∩ ml
- - [https://ricardoanderegg.com](https://ricardoanderegg.com)
- - date published: 2023-10-25T16:51:16.979088+00:00
- - user: None
- - tags: []
-
-## Richard Towers | Home
- - [https://www.richard-towers.com](https://www.richard-towers.com)
- - date published: 2023-10-25T16:51:17.775661+00:00
- - user: None
- - tags: []
-
-## Bézier Curves - and the logic behind them | Richard Ekwonye
- - [https://blog.richardekwonye.com](https://blog.richardekwonye.com)
- - date published: 2023-10-25T16:51:18.543659+00:00
- - user: None
- - tags: []
-
-## rick@console:/
- - [https://staging.rickconsole.com](https://staging.rickconsole.com)
- - date published: 2023-10-25T16:51:19.430482+00:00
- - user: None
- - tags: []
-
-## Ride Report: The platform to manage mobility
- - [https://www.ridereport.com](https://www.ridereport.com)
- - date published: 2023-10-25T16:51:25.938785+00:00
- - user: None
- - tags: []
-
-## RIFE2 Framework : Full-stack, no-declaration, framework to quickly and effortlessly create web applications with modern Java.
- - [https://rife2.com](https://rife2.com)
- - date published: 2023-10-25T16:51:26.581095+00:00
- - user: None
- - tags: []
-
-## Riffusion
- - [https://www.riffusion.com](https://www.riffusion.com)
- - date published: 2023-10-25T16:51:27.329208+00:00
- - user: None
- - tags: []
-
-## Ken Shirriff's blog
- - [https://www.righto.com](https://www.righto.com)
- - date published: 2023-10-25T16:51:33.313104+00:00
- - user: None
- - tags: ['personal', 'blog']
-
-## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
- - [https://www.rigzone.com](https://www.rigzone.com)
- - date published: 2023-10-25T16:51:39.145136+00:00
- - user: None
- - tags: []
-
-## Rihanna - Rihanna
- - [https://www.rihannanow.com](https://www.rihannanow.com)
- - date published: 2023-11-13T10:35:34.882090+00:00
- - user: None
- - tags: ['music band']
-
-## http://ui.rilldata.com
- - [http://ui.rilldata.com](http://ui.rilldata.com)
- - date published: 2023-10-25T16:51:39.943524+00:00
- - user: None
- - tags: []
 
