@@ -1,3 +1,123 @@
+## Download LLVM releases
+ - [https://releases.llvm.org](https://releases.llvm.org)
+ - date published: 2023-10-25T21:39:30.474866+00:00
+ - user: None
+ - tags: []
+
+## LMSYS Org
+ - [https://lmsys.org](https://lmsys.org)
+ - date published: 2023-10-25T21:39:31.970567+00:00
+ - user: None
+ - tags: []
+
+## Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality | LMSYS Org
+ - [https://vicuna.lmsys.org](https://vicuna.lmsys.org)
+ - date published: 2023-10-25T21:39:33.956719+00:00
+ - user: None
+ - tags: []
+
+## Opening the target...
+ - [https://mw.lojban.org](https://mw.lojban.org)
+ - date published: 2023-10-25T21:39:36.643198+00:00
+ - user: None
+ - tags: []
+
+## LONG NOW — fostering long term thinking
+ - [https://longnow.org](https://longnow.org)
+ - date published: 2023-10-25T21:39:39.438749+00:00
+ - user: None
+ - tags: []
+
+## FDD's Long War Journal
+ - [https://www.longwarjournal.org](https://www.longwarjournal.org)
+ - date published: 2023-11-10T03:51:21.976358+00:00
+ - user: None
+ - tags: []
+
+## LÖVE - Free 2D Game Engine
+ - [https://love2d.org](https://love2d.org)
+ - date published: 2023-10-25T08:35:50.630389+00:00
+ - user: None
+ - tags: []
+
+## Louisville Public Media
+ - [https://www.lpm.org](https://www.lpm.org)
+ - date published: 2023-11-06T14:35:50.495843+00:00
+ - user: None
+ - tags: []
+
+## https://lpython.org
+ - [https://lpython.org](https://lpython.org)
+ - date published: 2023-10-25T21:39:41.946449+00:00
+ - user: None
+ - tags: []
+
+## The Long Riders Guild Academic Foundation
+ - [http://www.lrgaf.org](http://www.lrgaf.org)
+ - date published: 2023-10-25T21:39:43.328877+00:00
+ - user: None
+ - tags: []
+
+## The L-Space Web - A Terry Pratchett / Discworld Web® Site
+ - [https://www.lspace.org](https://www.lspace.org)
+ - date published: 2023-11-16T07:01:44.475059+00:00
+ - user: None
+ - tags: []
+
+## The Programming Language Lua
+ - [https://www.lua.org](https://www.lua.org)
+ - date published: 2023-10-25T21:39:44.587710+00:00
+ - user: None
+ - tags: []
+
+## Home Page for David Drysdale
+ - [https://www.lurklurk.org](https://www.lurklurk.org)
+ - date published: 2023-10-25T21:39:48.617218+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Mathematical Association of America
+ - [https://maa.org](https://maa.org)
+ - date published: 2023-10-25T21:39:56.661675+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Mathematical Association of America
+ - [https://www.maa.org](https://www.maa.org)
+ - date published: 2023-10-25T21:40:08.149299+00:00
+ - user: None
+ - tags: []
+
+## Macintosh Garden - Celebrating Macintosh Abandonware!
+ - [https://www.macintoshgarden.org](https://www.macintoshgarden.org)
+ - date published: 2023-10-27T14:50:05.944370+00:00
+ - user: None
+ - tags: ['abandonware', 'retro games']
+
+## macOS Containers Initiative
+ - [https://macoscontainers.org](https://macoscontainers.org)
+ - date published: 2023-10-25T21:40:08.656728+00:00
+ - user: None
+ - tags: []
+
+## MadSciNet: The 24-hour exploding laboratory.
+ - [https://www.madsci.org](https://www.madsci.org)
+ - date published: 2023-10-25T21:40:09.904654+00:00
+ - user: None
+ - tags: []
+
+## Secure e-mail for private and business customers | mailbox.org
+ - [https://mailbox.org](https://mailbox.org)
+ - date published: 2023-10-25T21:40:11.120497+00:00
+ - user: None
+ - tags: []
+
+## Maine State Legislature - Home
+ - [https://www.mainelegislature.org](https://www.mainelegislature.org)
+ - date published: 2023-10-25T21:40:12.533641+00:00
+ - user: None
+ - tags: []
+
 ## Index of /.
  - [https://maizure.org](https://maizure.org)
  - date published: 2023-10-25T21:40:18.210567+00:00
@@ -5880,124 +6000,4 @@ is forbidden
  - date published: 2023-11-02T19:28:07.593267+00:00
  - user: None
  - tags: ['radio station', 'music']
-
-## Antyweb - blog technologiczny
- - [https://antyweb.pl](https://antyweb.pl)
- - date published: 2023-10-25T09:37:36.960984+00:00
- - user: None
- - tags: []
-
-## Arka Noego | Oficjalna strona zespołu
- - [https://www.arkanoego.pl](https://www.arkanoego.pl)
- - date published: 2023-10-29T15:27:58.295310+00:00
- - user: None
- - tags: ['music band']
-
-## Kult
- - [https://kult.art.pl](https://kult.art.pl)
- - date published: 2023-11-13T10:29:17.821704+00:00
- - user: None
- - tags: ['music band']
-
-## Aktualności - LAO CHE - Oficjalna strona zespołu
- - [http://laoche.art.pl](http://laoche.art.pl)
- - date published: 2023-10-29T15:34:12.277158+00:00
- - user: None
- - tags: ['music band']
-
-## Happysad - official website
- - [https://www.happysad.art.pl](https://www.happysad.art.pl)
- - date published: 2023-11-13T10:28:59.677916+00:00
- - user: None
- - tags: ['music band']
-
-## Museum of Modern Art in Warsaw
- - [https://artmuseum.pl](https://artmuseum.pl)
- - date published: 2023-10-25T22:25:43.556262+00:00
- - user: None
- - tags: []
-
-## Caesar's blog – Raspberry Pi, Domoticz, Smart home, Retro Gaming
- - [http://blog.asobczak.pl](http://blog.asobczak.pl)
- - date published: 2023-11-06T10:15:28.100145+00:00
- - user: None
- - tags: ['retro games', 'retropie', 'raspberry']
-
-## Fundacja AVLab.pl dla Cyberbezpieczeństwa
- - [https://avlab.pl](https://avlab.pl)
- - date published: 2023-10-25T22:25:46.610794+00:00
- - user: None
- - tags: []
-
-## Bankier.pl – Portal Finansowy – Rynki, Twoje finanse, Biznes
- - [https://www.bankier.pl](https://www.bankier.pl)
- - date published: 2023-10-25T10:30:49.929229+00:00
- - user: None
- - tags: []
-
-## Klienci Indywidualni - Konta, pożyczki, kredyty mieszkaniowe, karty, lokaty - Bank Millennium
- - [https://www.bankmillennium.pl](https://www.bankmillennium.pl)
- - date published: 2023-10-25T11:29:36.503555+00:00
- - user: None
- - tags: []
-
-## benchmark.pl | recenzje, testy, newsy, rankingi
- - [https://www.benchmark.pl](https://www.benchmark.pl)
- - date published: 2023-10-25T09:37:41.453957+00:00
- - user: None
- - tags: []
-
-## Bezprawnik - prawo, biznes, finanse, eCommerce
- - [https://bezprawnik.pl](https://bezprawnik.pl)
- - date published: 2023-10-25T22:25:53.965245+00:00
- - user: None
- - tags: []
-
-## BIG CYC - oficjalny serwis internetowy zespołu
- - [https://www.bigcyc.pl](https://www.bigcyc.pl)
- - date published: 2023-11-13T10:27:04.357594+00:00
- - user: None
- - tags: ['music band']
-
-## Bitcoin.pl - Bitcoin, kryptowaluty i technologia blockchain
- - [https://bitcoin.pl](https://bitcoin.pl)
- - date published: 2023-10-29T15:13:20.134080+00:00
- - user: None
- - tags: []
-
-## BiznesAlert.pl - Portal informacyjny poświęcony energetyce, infrastrukturze i bezpieczeństwu
- - [https://biznesalert.pl](https://biznesalert.pl)
- - date published: 2023-10-25T22:25:56.810285+00:00
- - user: None
- - tags: []
-
-## BOLTER.pl
- - [https://bolter.pl](https://bolter.pl)
- - date published: 2023-10-27T08:00:40.271425+00:00
- - user: None
- - tags: ['tabletop games', 'board games']
-
-## BOMEGA | To serwis internetowy z ogromną dawką wiarygodnych informacji, poświęcony dla tych, którzy lubią znać prawdę. Każdy z nas tworzy własną rzeczywistość, i każdy z nas chce wypełniać swój dzień pozytywną dawką dziennych informacji. Sam zdecyduj, jakimi wiadomościami z Polski oraz Świata chcesz się otaczać, dzięki zaawansowanym filtrom, dobierz tematy, które najbardziej Cię interesują.
- - [https://bomega.pl](https://bomega.pl)
- - date published: 2023-10-25T22:26:10.720989+00:00
- - user: None
- - tags: []
-
-## Home - brd24.pl
- - [https://www.brd24.pl](https://www.brd24.pl)
- - date published: 2023-10-31T16:18:06.350280+00:00
- - user: None
- - tags: ['news']
-
-## Bulldogjob - Think IT
- - [https://bulldogjob.pl](https://bulldogjob.pl)
- - date published: 2023-10-25T22:26:18.519501+00:00
- - user: None
- - tags: []
-
-## Calcoolator.pl - Kalkulatory online
- - [https://calcoolator.pl](https://calcoolator.pl)
- - date published: 2023-10-25T22:26:23.368301+00:00
- - user: None
- - tags: []
 

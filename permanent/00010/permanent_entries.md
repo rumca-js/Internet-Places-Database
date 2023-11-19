@@ -1,3 +1,105 @@
+## The Autodidacts
+ - [https://www.autodidacts.io](https://www.autodidacts.io)
+ - date published: 2023-10-25T09:21:59.454981+00:00
+ - user: None
+ - tags: ['personal']
+
+## Automatisch - Open Source Zapier Alternative
+ - [https://automatisch.io](https://automatisch.io)
+ - date published: 2023-10-25T19:38:01.066958+00:00
+ - user: None
+ - tags: []
+
+## Axel’s Blog | Technical blog discussing reverse engineering, detections engineering, exploit development, capability development, and other cybersecurity topics.
+ - [https://axelp.io](https://axelp.io)
+ - date published: 2023-10-25T19:38:02.657295+00:00
+ - user: None
+ - tags: []
+
+## Babel · Babel
+ - [https://babeljs.io](https://babeljs.io)
+ - date published: 2023-10-25T19:38:04.462286+00:00
+ - user: None
+ - tags: []
+
+## Bank List - Find the Best Bank for Your Needs
+ - [https://banklist.io](https://banklist.io)
+ - date published: 2023-10-25T19:38:08.774494+00:00
+ - user: None
+ - tags: []
+
+## http://assets.bbhub.io
+ - [http://assets.bbhub.io](http://assets.bbhub.io)
+ - date published: 2023-10-25T19:38:14.807002+00:00
+ - user: None
+ - tags: []
+
+## The SQL Editor and Database Manager Of Your Dreams | Beekeeper Studio
+ - [https://www.beekeeperstudio.io](https://www.beekeeperstudio.io)
+ - date published: 2023-10-25T19:38:16.881595+00:00
+ - user: None
+ - tags: []
+
+## Ricard Bejarano – Site Reliability Engineer
+ - [https://www.bejarano.io](https://www.bejarano.io)
+ - date published: 2023-10-25T08:49:12.684001+00:00
+ - user: None
+ - tags: ['personal']
+
+## Andrew Benton's Blog
+ - [https://blog.benton.io](https://blog.benton.io)
+ - date published: 2023-10-25T19:38:20.516581+00:00
+ - user: None
+ - tags: []
+
+## Beren's Blog
+ - [https://www.beren.io](https://www.beren.io)
+ - date published: 2023-10-25T08:49:13.643486+00:00
+ - user: None
+ - tags: ['personal']
+
+## Alexis Bernard
+ - [https://alexis.bernard.io](https://alexis.bernard.io)
+ - date published: 2023-10-25T19:38:27.013256+00:00
+ - user: None
+ - tags: []
+
+## Hacker News Summary - by ChatGPT
+ - [https://hackernews.betacat.io](https://hackernews.betacat.io)
+ - date published: 2023-10-25T19:38:30.979928+00:00
+ - user: None
+ - tags: []
+
+## The BigPicture.io Blog
+ - [https://blog.bigpicture.io](https://blog.bigpicture.io)
+ - date published: 2023-10-25T19:38:32.903857+00:00
+ - user: None
+ - tags: []
+
+## The Inner Join
+ - [https://innerjoin.bit.io](https://innerjoin.bit.io)
+ - date published: 2023-10-25T19:38:36.310405+00:00
+ - user: None
+ - tags: []
+
+## Bit Bashing
+ - [https://bitbashing.io](https://bitbashing.io)
+ - date published: 2023-10-25T19:38:38.348088+00:00
+ - user: None
+ - tags: []
+
+## Mahesh Balakrishnan
+ - [https://maheshba.bitbucket.io](https://maheshba.bitbucket.io)
+ - date published: 2023-10-25T19:38:39.794842+00:00
+ - user: None
+ - tags: []
+
+## Home | bitmagnet
+ - [https://bitmagnet.io](https://bitmagnet.io)
+ - date published: 2023-10-25T19:38:40.683226+00:00
+ - user: None
+ - tags: []
+
 ## MindPop
  - [https://mindpop.blankenship.io](https://mindpop.blankenship.io)
  - date published: 2023-10-25T19:38:41.879757+00:00
@@ -5580,6 +5682,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
+## Tokyo University of Science | 東京理科大学
+ - [https://www.tus.ac.jp](https://www.tus.ac.jp)
+ - date published: 2023-11-18T21:00:20.695704+00:00
+ - user: None
+ - tags: []
+
 ## 東京大学 大澤 研究室
  - [https://www.panda.sys.t.u-tokyo.ac.jp](https://www.panda.sys.t.u-tokyo.ac.jp)
  - date published: 2023-10-25T20:16:13.506038+00:00
@@ -5889,114 +5997,6 @@ End-to-end typesafe APIs made easy. | tRPC
 ## Clues Dot Life
  - [https://www.clues.life](https://www.clues.life)
  - date published: 2023-10-25T20:18:08.324160+00:00
- - user: None
- - tags: []
-
-## Home - Earth4All
- - [https://earth4all.life](https://earth4all.life)
- - date published: 2023-10-25T20:18:15.902498+00:00
- - user: None
- - tags: []
-
-## Dan Fernandez Home Page – Dan Fernandez
- - [https://fernandez.life](https://fernandez.life)
- - date published: 2023-10-25T09:26:30.059169+00:00
- - user: None
- - tags: ['personal']
-
-## Hard Fault Life
- - [https://hardfault.life](https://hardfault.life)
- - date published: 2023-10-25T08:49:51.355120+00:00
- - user: None
- - tags: ['personal']
-
-## Posterity - Everyone needs a plan.
- - [https://posterity.life](https://posterity.life)
- - date published: 2023-10-25T20:18:20.839473+00:00
- - user: None
- - tags: []
-
-## RETURN | Substack
- - [https://return.life](https://return.life)
- - date published: 2023-10-25T20:18:24.096295+00:00
- - user: None
- - tags: []
-
-## Tushar's Blog
- - [https://sadh.life](https://sadh.life)
- - date published: 2023-10-25T08:59:28.425834+00:00
- - user: None
- - tags: ['personal']
-
-## BlinderKitten
- - [http://blinderkitten.lighting](http://blinderkitten.lighting)
- - date published: 2023-10-25T20:18:25.187517+00:00
- - user: None
- - tags: []
-
-## Vitalik Buterin's website
- - [https://vitalik.eth.limo](https://vitalik.eth.limo)
- - date published: 2023-10-25T08:59:30.996681+00:00
- - user: None
- - tags: ['personal']
-
-## CDM Create Digital Music - Create digital music, motion, and more.
- - [https://cdm.link](https://cdm.link)
- - date published: 2023-10-25T20:18:28.057200+00:00
- - user: None
- - tags: []
-
-## Free Video Hosting Made Easy - Dubz Platform
- - [https://dubz.link](https://dubz.link)
- - date published: 2023-11-05T07:07:53.519389+00:00
- - user: None
- - tags: []
-
-## gptoverflow | Questions
- - [https://www.gptoverflow.link](https://www.gptoverflow.link)
- - date published: 2023-10-25T20:18:36.976348+00:00
- - user: None
- - tags: []
-
-## Ditto - Sync without internet
- - [https://www.ditto.live](https://www.ditto.live)
- - date published: 2023-10-25T20:18:43.975066+00:00
- - user: None
- - tags: []
-
-## Live Video Chat With Your Website Visitors · Joyyo
- - [https://hibox.live](https://hibox.live)
- - date published: 2023-10-25T20:18:45.413550+00:00
- - user: None
- - tags: []
-
-## jott - landing
- - [https://jott.live](https://jott.live)
- - date published: 2023-10-25T20:18:53.019754+00:00
- - user: None
- - tags: []
-
-## LiveView Native
- - [https://native.live](https://native.live)
- - date published: 2023-10-25T20:18:54.280137+00:00
- - user: None
- - tags: []
-
-## Neovim Conf 2022
- - [https://www.neovimconf.live](https://www.neovimconf.live)
- - date published: 2023-10-25T20:18:55.238673+00:00
- - user: None
- - tags: []
-
-## OpenArena Live
- - [https://openarena.live](https://openarena.live)
- - date published: 2023-10-27T13:49:27.327714+00:00
- - user: None
- - tags: ['quake']
-
-## Intro
- - [https://usegpu.live](https://usegpu.live)
- - date published: 2023-10-25T20:18:56.873594+00:00
  - user: None
  - tags: []
 

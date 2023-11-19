@@ -1,3 +1,111 @@
+## Dan Fernandez Home Page – Dan Fernandez
+ - [https://fernandez.life](https://fernandez.life)
+ - date published: 2023-10-25T09:26:30.059169+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hard Fault Life
+ - [https://hardfault.life](https://hardfault.life)
+ - date published: 2023-10-25T08:49:51.355120+00:00
+ - user: None
+ - tags: ['personal']
+
+## Posterity - Everyone needs a plan.
+ - [https://posterity.life](https://posterity.life)
+ - date published: 2023-10-25T20:18:20.839473+00:00
+ - user: None
+ - tags: []
+
+## RETURN | Substack
+ - [https://return.life](https://return.life)
+ - date published: 2023-10-25T20:18:24.096295+00:00
+ - user: None
+ - tags: []
+
+## Tushar's Blog
+ - [https://sadh.life](https://sadh.life)
+ - date published: 2023-10-25T08:59:28.425834+00:00
+ - user: None
+ - tags: ['personal']
+
+## BlinderKitten
+ - [http://blinderkitten.lighting](http://blinderkitten.lighting)
+ - date published: 2023-10-25T20:18:25.187517+00:00
+ - user: None
+ - tags: []
+
+## Vitalik Buterin's website
+ - [https://vitalik.eth.limo](https://vitalik.eth.limo)
+ - date published: 2023-10-25T08:59:30.996681+00:00
+ - user: None
+ - tags: ['personal']
+
+## CDM Create Digital Music - Create digital music, motion, and more.
+ - [https://cdm.link](https://cdm.link)
+ - date published: 2023-10-25T20:18:28.057200+00:00
+ - user: None
+ - tags: []
+
+## Free Video Hosting Made Easy - Dubz Platform
+ - [https://dubz.link](https://dubz.link)
+ - date published: 2023-11-05T07:07:53.519389+00:00
+ - user: None
+ - tags: []
+
+## gptoverflow | Questions
+ - [https://www.gptoverflow.link](https://www.gptoverflow.link)
+ - date published: 2023-10-25T20:18:36.976348+00:00
+ - user: None
+ - tags: []
+
+## Ditto - Sync without internet
+ - [https://www.ditto.live](https://www.ditto.live)
+ - date published: 2023-10-25T20:18:43.975066+00:00
+ - user: None
+ - tags: []
+
+## Live Video Chat With Your Website Visitors · Joyyo
+ - [https://hibox.live](https://hibox.live)
+ - date published: 2023-10-25T20:18:45.413550+00:00
+ - user: None
+ - tags: []
+
+## jott - landing
+ - [https://jott.live](https://jott.live)
+ - date published: 2023-10-25T20:18:53.019754+00:00
+ - user: None
+ - tags: []
+
+## LiveView Native
+ - [https://native.live](https://native.live)
+ - date published: 2023-10-25T20:18:54.280137+00:00
+ - user: None
+ - tags: []
+
+## Neovim Conf 2022
+ - [https://www.neovimconf.live](https://www.neovimconf.live)
+ - date published: 2023-10-25T20:18:55.238673+00:00
+ - user: None
+ - tags: []
+
+## OpenArena Live
+ - [https://openarena.live](https://openarena.live)
+ - date published: 2023-10-27T13:49:27.327714+00:00
+ - user: None
+ - tags: ['quake']
+
+## Intro
+ - [https://usegpu.live](https://usegpu.live)
+ - date published: 2023-10-25T20:18:56.873594+00:00
+ - user: None
+ - tags: []
+
+## Scribblings of an introvert
+ - [https://yadukrishnan.live](https://yadukrishnan.live)
+ - date published: 2023-10-25T08:59:32.300933+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Justine Tunney's Web Page
  - [https://justine.lol](https://justine.lol)
  - date published: 2023-10-25T08:59:33.852013+00:00
@@ -5099,7 +5207,7 @@
  - [https://www.aipanic.news](https://www.aipanic.news)
  - date published: 2023-11-18T01:49:17.235532+00:00
  - user: None
- - tags: []
+ - tags: ['artificial intelligence', 'substack']
 
 ## From the Desk of Alicia Kennedy | Substack
  - [https://www.aliciakennedy.news](https://www.aliciakennedy.news)
@@ -5885,114 +5993,6 @@ marginalia.nu
 ## SmartView Christchurch
  - [https://smartview.ccc.govt.nz](https://smartview.ccc.govt.nz)
  - date published: 2023-10-25T20:51:03.510470+00:00
- - user: None
- - tags: []
-
-## Te Ara Encyclopedia of New Zealand – Te Ara Encyclopedia of New Zealand
- - [https://teara.govt.nz](https://teara.govt.nz)
- - date published: 2023-10-25T20:51:07.098533+00:00
- - user: None
- - tags: []
-
-## home
- - [https://www.tepapa.govt.nz](https://www.tepapa.govt.nz)
- - date published: 2023-11-13T13:55:09.677844+00:00
- - user: None
- - tags: ['museum']
-
-## Cloud Island
- - [https://cloudisland.nz](https://cloudisland.nz)
- - date published: 2023-10-25T20:51:13.906554+00:00
- - user: None
- - tags: []
-
-## Home » InternetNZ
- - [https://internetnz.nz](https://internetnz.nz)
- - date published: 2023-10-25T20:51:16.741237+00:00
- - user: None
- - tags: []
-
-## InternetNZ Status
- - [https://status.internetnz.nz](https://status.internetnz.nz)
- - date published: 2023-10-25T20:51:22.956753+00:00
- - user: None
- - tags: []
-
-## is this it?
- - [https://isthisit.nz](https://isthisit.nz)
- - date published: 2023-10-25T20:51:24.181241+00:00
- - user: None
- - tags: []
-
-## Welcome! - Matt Brown
- - [https://www.mattb.nz](https://www.mattb.nz)
- - date published: 2023-10-25T20:51:25.148571+00:00
- - user: None
- - tags: []
-
-## Tim McNamara (@timClicks)
- - [https://tim.mcnamara.nz](https://tim.mcnamara.nz)
- - date published: 2023-10-25T20:51:26.754354+00:00
- - user: None
- - tags: []
-
-## Constant Meiring
- - [https://constant.meiring.nz](https://constant.meiring.nz)
- - date published: 2023-10-25T20:51:27.602839+00:00
- - user: None
- - tags: []
-
-## Mobile made for you. One NZ.
- - [https://one.nz](https://one.nz)
- - date published: 2023-10-27T12:06:21.792668+00:00
- - user: None
- - tags: []
-
-## Te Awamutu Space Centre
- - [https://www.spacecentre.nz](https://www.spacecentre.nz)
- - date published: 2023-10-25T20:51:43.027687+00:00
- - user: None
- - tags: []
-
-## Asia Media Centre | Helping New Zealand media cover Asia
- - [https://www.asiamediacentre.org.nz](https://www.asiamediacentre.org.nz)
- - date published: 2023-10-25T20:51:53.621097+00:00
- - user: None
- - tags: []
-
-## http://www.privacy.org.nz
- - [http://www.privacy.org.nz](http://www.privacy.org.nz)
- - date published: 2023-10-25T20:51:54.522749+00:00
- - user: None
- - tags: []
-
-## Ian's blog | entropy.observer
- - [https://blog.entropy.observer](https://blog.entropy.observer)
- - date published: 2023-10-25T20:51:56.441202+00:00
- - user: None
- - tags: []
-
-## Flipper Blog
- - [https://blog.flipperzero.one](https://blog.flipperzero.one)
- - date published: 2023-10-25T20:51:58.988894+00:00
- - user: None
- - tags: []
-
-## Market Map
- - [https://marketmap.one](https://marketmap.one)
- - date published: 2023-10-25T20:52:00.513890+00:00
- - user: None
- - tags: []
-
-## Best websites design inspiration feed • MaxiBestOf
- - [https://maxibestof.one](https://maxibestof.one)
- - date published: 2023-10-25T20:52:03.198688+00:00
- - user: None
- - tags: []
-
-## http://www.octobrain.one
- - [http://www.octobrain.one](http://www.octobrain.one)
- - date published: 2023-10-25T20:52:04.984357+00:00
  - user: None
  - tags: []
 

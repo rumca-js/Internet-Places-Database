@@ -1,3 +1,39 @@
+## Pursuit Of Laziness – A blog by Jesse Duffield
+ - [https://jesseduffield.com](https://jesseduffield.com)
+ - date published: 2023-10-25T15:28:22.799029+00:00
+ - user: None
+ - tags: []
+
+## About
+ - [https://jessems.com](https://jessems.com)
+ - date published: 2023-10-25T15:28:23.274118+00:00
+ - user: None
+ - tags: []
+
+## Jesse Wright
+ - [https://www.jessewright.com](https://www.jessewright.com)
+ - date published: 2023-10-25T15:28:24.345752+00:00
+ - user: None
+ - tags: []
+
+## Jessitron – symmathecist, in the medium of code
+ - [https://jessitron.com](https://jessitron.com)
+ - date published: 2023-10-25T15:28:28.652075+00:00
+ - user: None
+ - tags: []
+
+## JetBrains Blog: The Drive to Develop
+ - [https://blog.jetbrains.com](https://blog.jetbrains.com)
+ - date published: 2023-10-25T08:37:43.300846+00:00
+ - user: None
+ - tags: []
+
+## JetBrains: Essential tools for software developers and teams
+ - [https://www.jetbrains.com](https://www.jetbrains.com)
+ - date published: 2023-10-25T11:28:02.006390+00:00
+ - user: None
+ - tags: []
+
 ## JETNET | World Leader in Aviation Market Intelligence
  - [https://www.jetnet.com](https://www.jetnet.com)
  - date published: 2023-10-25T15:28:36.142271+00:00
@@ -265,6 +301,12 @@
 ## John Reed Stark | Incident Response and Digital Compliance
  - [https://www.johnreedstark.com](https://www.johnreedstark.com)
  - date published: 2023-10-25T15:30:48.365940+00:00
+ - user: None
+ - tags: []
+
+## John's internet house
+ - [https://johnwhiles.com](https://johnwhiles.com)
+ - date published: 2023-11-18T22:08:05.217014+00:00
  - user: None
  - tags: []
 
@@ -5950,48 +5992,6 @@ diversions.
 ## MotorTrend: New Cars - Car News and Expert Reviews
  - [https://www.motortrend.com](https://www.motortrend.com)
  - date published: 2023-10-25T16:07:43.987801+00:00
- - user: None
- - tags: []
-
-## MovingLake
- - [https://app.movinglake.com](https://app.movinglake.com)
- - date published: 2023-10-25T16:07:54.313990+00:00
- - user: None
- - tags: []
-
-## Moving the Limit
- - [https://movingthelimit.com](https://movingthelimit.com)
- - date published: 2023-10-25T16:07:55.366690+00:00
- - user: None
- - tags: []
-
-## ShowMeYourHotKeys
- - [https://showmeyourhotkeys.moxadventu.com](https://showmeyourhotkeys.moxadventu.com)
- - date published: 2023-10-25T16:07:57.215743+00:00
- - user: None
- - tags: []
-
-## Mozilla Lifeboat
- - [https://mozillalifeboat.com](https://mozillalifeboat.com)
- - date published: 2023-10-25T16:08:00.354945+00:00
- - user: None
- - tags: []
-
-## Mobile Relay Associates - Radio Communications - Los Angeles California
- - [https://mra-raycom.com](https://mra-raycom.com)
- - date published: 2023-10-25T16:08:05.955413+00:00
- - user: None
- - tags: []
-
-## Home - MrCrayfish
- - [https://mrcrayfish.com](https://mrcrayfish.com)
- - date published: 2023-10-25T11:16:52.437350+00:00
- - user: None
- - tags: []
-
-## Daniel Bourke
- - [https://www.mrdbourke.com](https://www.mrdbourke.com)
- - date published: 2023-10-25T16:08:10.310346+00:00
  - user: None
  - tags: []
 

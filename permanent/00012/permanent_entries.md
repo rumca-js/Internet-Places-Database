@@ -1,3 +1,111 @@
+## home
+ - [https://www.tepapa.govt.nz](https://www.tepapa.govt.nz)
+ - date published: 2023-11-13T13:55:09.677844+00:00
+ - user: None
+ - tags: ['museum']
+
+## Cloud Island
+ - [https://cloudisland.nz](https://cloudisland.nz)
+ - date published: 2023-10-25T20:51:13.906554+00:00
+ - user: None
+ - tags: []
+
+## Home » InternetNZ
+ - [https://internetnz.nz](https://internetnz.nz)
+ - date published: 2023-10-25T20:51:16.741237+00:00
+ - user: None
+ - tags: []
+
+## InternetNZ Status
+ - [https://status.internetnz.nz](https://status.internetnz.nz)
+ - date published: 2023-10-25T20:51:22.956753+00:00
+ - user: None
+ - tags: []
+
+## is this it?
+ - [https://isthisit.nz](https://isthisit.nz)
+ - date published: 2023-10-25T20:51:24.181241+00:00
+ - user: None
+ - tags: []
+
+## Welcome! - Matt Brown
+ - [https://www.mattb.nz](https://www.mattb.nz)
+ - date published: 2023-10-25T20:51:25.148571+00:00
+ - user: None
+ - tags: []
+
+## Tim McNamara (@timClicks)
+ - [https://tim.mcnamara.nz](https://tim.mcnamara.nz)
+ - date published: 2023-10-25T20:51:26.754354+00:00
+ - user: None
+ - tags: []
+
+## Constant Meiring
+ - [https://constant.meiring.nz](https://constant.meiring.nz)
+ - date published: 2023-10-25T20:51:27.602839+00:00
+ - user: None
+ - tags: []
+
+## Mobile made for you. One NZ.
+ - [https://one.nz](https://one.nz)
+ - date published: 2023-10-27T12:06:21.792668+00:00
+ - user: None
+ - tags: []
+
+## Te Awamutu Space Centre
+ - [https://www.spacecentre.nz](https://www.spacecentre.nz)
+ - date published: 2023-10-25T20:51:43.027687+00:00
+ - user: None
+ - tags: []
+
+## Asia Media Centre | Helping New Zealand media cover Asia
+ - [https://www.asiamediacentre.org.nz](https://www.asiamediacentre.org.nz)
+ - date published: 2023-10-25T20:51:53.621097+00:00
+ - user: None
+ - tags: []
+
+## http://www.privacy.org.nz
+ - [http://www.privacy.org.nz](http://www.privacy.org.nz)
+ - date published: 2023-10-25T20:51:54.522749+00:00
+ - user: None
+ - tags: []
+
+## Ian's blog | entropy.observer
+ - [https://blog.entropy.observer](https://blog.entropy.observer)
+ - date published: 2023-10-25T20:51:56.441202+00:00
+ - user: None
+ - tags: []
+
+## Flipper Blog
+ - [https://blog.flipperzero.one](https://blog.flipperzero.one)
+ - date published: 2023-10-25T20:51:58.988894+00:00
+ - user: None
+ - tags: []
+
+## Market Map
+ - [https://marketmap.one](https://marketmap.one)
+ - date published: 2023-10-25T20:52:00.513890+00:00
+ - user: None
+ - tags: []
+
+## Best websites design inspiration feed • MaxiBestOf
+ - [https://maxibestof.one](https://maxibestof.one)
+ - date published: 2023-10-25T20:52:03.198688+00:00
+ - user: None
+ - tags: []
+
+## http://www.octobrain.one
+ - [http://www.octobrain.one](http://www.octobrain.one)
+ - date published: 2023-10-25T20:52:04.984357+00:00
+ - user: None
+ - tags: []
+
+## plei.one - Blog
+ - [https://plei.one](https://plei.one)
+ - date published: 2023-10-25T20:52:06.193322+00:00
+ - user: None
+ - tags: []
+
 ## Taylor Robinson
  - [https://robins.one](https://robins.one)
  - date published: 2023-10-25T08:54:27.100131+00:00
@@ -2575,6 +2683,12 @@
  - user: None
  - tags: []
 
+## DECUServe on-line
+ - [https://eisner.decus.org](https://eisner.decus.org)
+ - date published: 2023-11-18T11:29:46.509000+00:00
+ - user: None
+ - tags: []
+
 ## deepin  - 基于Linux的开源国产操作系统
  - [https://www.deepin.org](https://www.deepin.org)
  - date published: 2023-11-06T10:10:58.272990+00:00
@@ -2884,6 +2998,12 @@
 ## DuckStation: Fast PS1 Emulator
  - [https://www.duckstation.org](https://www.duckstation.org)
  - date published: 2023-10-25T11:18:17.981573+00:00
+ - user: None
+ - tags: []
+
+## Home | Duke Health
+ - [https://corporate.dukehealth.org](https://corporate.dukehealth.org)
+ - date published: 2023-11-18T13:29:15.830491+00:00
  - user: None
  - tags: []
 
@@ -5884,126 +6004,6 @@ Hosted by Panix.com.
 ## LLVM Discussion Forums - Our community includes both users and developers of various compiler technologies within the LLVM project.
  - [https://discourse.llvm.org](https://discourse.llvm.org)
  - date published: 2023-10-25T21:39:24.567913+00:00
- - user: None
- - tags: []
-
-## The LLVM Compiler Infrastructure Project
- - [https://llvm.org](https://llvm.org)
- - date published: 2023-10-25T21:39:28.896311+00:00
- - user: None
- - tags: []
-
-## Download LLVM releases
- - [https://releases.llvm.org](https://releases.llvm.org)
- - date published: 2023-10-25T21:39:30.474866+00:00
- - user: None
- - tags: []
-
-## LMSYS Org
- - [https://lmsys.org](https://lmsys.org)
- - date published: 2023-10-25T21:39:31.970567+00:00
- - user: None
- - tags: []
-
-## Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality | LMSYS Org
- - [https://vicuna.lmsys.org](https://vicuna.lmsys.org)
- - date published: 2023-10-25T21:39:33.956719+00:00
- - user: None
- - tags: []
-
-## Opening the target...
- - [https://mw.lojban.org](https://mw.lojban.org)
- - date published: 2023-10-25T21:39:36.643198+00:00
- - user: None
- - tags: []
-
-## LONG NOW — fostering long term thinking
- - [https://longnow.org](https://longnow.org)
- - date published: 2023-10-25T21:39:39.438749+00:00
- - user: None
- - tags: []
-
-## FDD's Long War Journal
- - [https://www.longwarjournal.org](https://www.longwarjournal.org)
- - date published: 2023-11-10T03:51:21.976358+00:00
- - user: None
- - tags: []
-
-## LÖVE - Free 2D Game Engine
- - [https://love2d.org](https://love2d.org)
- - date published: 2023-10-25T08:35:50.630389+00:00
- - user: None
- - tags: []
-
-## Louisville Public Media
- - [https://www.lpm.org](https://www.lpm.org)
- - date published: 2023-11-06T14:35:50.495843+00:00
- - user: None
- - tags: []
-
-## https://lpython.org
- - [https://lpython.org](https://lpython.org)
- - date published: 2023-10-25T21:39:41.946449+00:00
- - user: None
- - tags: []
-
-## The Long Riders Guild Academic Foundation
- - [http://www.lrgaf.org](http://www.lrgaf.org)
- - date published: 2023-10-25T21:39:43.328877+00:00
- - user: None
- - tags: []
-
-## The L-Space Web - A Terry Pratchett / Discworld Web® Site
- - [https://www.lspace.org](https://www.lspace.org)
- - date published: 2023-11-16T07:01:44.475059+00:00
- - user: None
- - tags: []
-
-## The Programming Language Lua
- - [https://www.lua.org](https://www.lua.org)
- - date published: 2023-10-25T21:39:44.587710+00:00
- - user: None
- - tags: []
-
-## Home Page for David Drysdale
- - [https://www.lurklurk.org](https://www.lurklurk.org)
- - date published: 2023-10-25T21:39:48.617218+00:00
- - user: None
- - tags: []
-
-## Homepage | Mathematical Association of America
- - [https://maa.org](https://maa.org)
- - date published: 2023-10-25T21:39:56.661675+00:00
- - user: None
- - tags: []
-
-## Homepage | Mathematical Association of America
- - [https://www.maa.org](https://www.maa.org)
- - date published: 2023-10-25T21:40:08.149299+00:00
- - user: None
- - tags: []
-
-## Macintosh Garden - Celebrating Macintosh Abandonware!
- - [https://www.macintoshgarden.org](https://www.macintoshgarden.org)
- - date published: 2023-10-27T14:50:05.944370+00:00
- - user: None
- - tags: ['abandonware', 'retro games']
-
-## macOS Containers Initiative
- - [https://macoscontainers.org](https://macoscontainers.org)
- - date published: 2023-10-25T21:40:08.656728+00:00
- - user: None
- - tags: []
-
-## MadSciNet: The 24-hour exploding laboratory.
- - [https://www.madsci.org](https://www.madsci.org)
- - date published: 2023-10-25T21:40:09.904654+00:00
- - user: None
- - tags: []
-
-## Secure e-mail for private and business customers | mailbox.org
- - [https://mailbox.org](https://mailbox.org)
- - date published: 2023-10-25T21:40:11.120497+00:00
  - user: None
  - tags: []
 

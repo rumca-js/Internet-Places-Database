@@ -1,3 +1,51 @@
+## Retro Dodo - Retro Gaming Reviews & News
+ - [https://retrododo.com](https://retrododo.com)
+ - date published: 2023-10-25T10:46:34.000501+00:00
+ - user: None
+ - tags: ['retro game', 'game news']
+
+## Retro entre Amigos
+ - [https://www.retroentreamigos.com](https://www.retroentreamigos.com)
+ - date published: 2023-11-02T09:46:17.486897+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://retrogamecoders.com](https://retrogamecoders.com)
+ - date published: 2023-11-02T11:00:22.902914+00:00
+ - user: None
+ - tags: ['retro games', 'amiga']
+
+## RetroKingPin - Retro Gaming News & Reviews
+ - [https://www.retrokingpin.com](https://www.retrokingpin.com)
+ - date published: 2023-10-26T18:55:54.590808+00:00
+ - user: None
+ - tags: ['game news']
+
+## Los mejores juegos retro para descargar gratis - Retrolorian
+ - [https://www.retrolorian.com](https://www.retrolorian.com)
+ - date published: 2023-11-17T21:44:04+00:00
+ - user: rumpel
+ - tags: ['retro games']
+
+## About the Retro-Printer Module | RetroPrinter.com
+ - [https://www.retroprinter.com](https://www.retroprinter.com)
+ - date published: 2023-10-25T16:50:29.050727+00:00
+ - user: None
+ - tags: []
+
+## Adam's Vintage Computer Restorations
+ - [https://retrorepairsandrefurbs.com](https://retrorepairsandrefurbs.com)
+ - date published: 2023-10-25T08:47:47.426248+00:00
+ - user: None
+ - tags: ['personal']
+
+## Retro Reverse Engineering · RetroReversing
+ - [https://www.retroreversing.com](https://www.retroreversing.com)
+ - date published: 2023-10-25T16:50:34.097785+00:00
+ - user: None
+ - tags: []
+
 ## retrotechnology.com, retrotechnology.net
  - [https://www.retrotechnology.com](https://www.retrotechnology.com)
  - date published: 2023-10-25T08:47:48.567953+00:00
@@ -717,6 +765,12 @@
  - date published: 2023-10-25T16:55:20.911142+00:00
  - user: None
  - tags: []
+
+## rubenwardy's blog
+ - [https://blog.rubenwardy.com](https://blog.rubenwardy.com)
+ - date published: 2023-11-18T18:28:01.582764+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Jade Rubick - Rubick.com
  - [https://www.rubick.com](https://www.rubick.com)
@@ -5045,6 +5099,12 @@
  - user: None
  - tags: ['substack']
 
+## The Good Teacher | Matthew Kaul | Substack
+ - [https://goodteacher.substack.com](https://goodteacher.substack.com)
+ - date published: 2023-11-18T19:08:05.233065+00:00
+ - user: None
+ - tags: []
+
 ## Gould Asks | Substack
  - [http://gouldasks.substack.com](http://gouldasks.substack.com)
  - date published: 2023-10-25T11:46:40.336918+00:00
@@ -5230,6 +5290,12 @@
  - date published: 2023-10-25T09:54:37.177651+00:00
  - user: None
  - tags: ['substack']
+
+## All-Source Intelligence Fusion | Jack Poulson | Substack
+ - [https://jackpoulson.substack.com](https://jackpoulson.substack.com)
+ - date published: 2023-11-18T19:07:51.838890+00:00
+ - user: None
+ - tags: []
 
 ## Jacob’s Tech Tavern | Jacob Bartlett | Substack
  - [http://jacobbartlett.substack.com](http://jacobbartlett.substack.com)
@@ -5930,72 +5996,6 @@
 ## Random Minds by Katherine Brodsky | Substack
  - [http://randomminds.substack.com](http://randomminds.substack.com)
  - date published: 2023-10-25T10:01:31.854876+00:00
- - user: None
- - tags: ['substack']
-
-## Ravi Parikh’s Newsletter | Substack
- - [http://ravisparikh.substack.com](http://ravisparikh.substack.com)
- - date published: 2023-10-25T10:01:33.302368+00:00
- - user: None
- - tags: ['substack']
-
-## Lazy Afternoons | Ravi Teja Kanta | Substack
- - [https://ravitejakanta.substack.com](https://ravitejakanta.substack.com)
- - date published: 2023-10-25T10:01:35.638481+00:00
- - user: None
- - tags: ['substack']
-
-## rants by razberry | Substack
- - [https://razberry.substack.com](https://razberry.substack.com)
- - date published: 2023-11-15T18:40:37.968645+00:00
- - user: None
- - tags: []
-
-## Razib Khan's Unsupervised Learning | Substack
- - [https://razib.substack.com](https://razib.substack.com)
- - date published: 2023-10-25T10:01:38.890917+00:00
- - user: None
- - tags: ['substack']
-
-## 2050 | Peter Havers | Substack
- - [http://read2050.substack.com](http://read2050.substack.com)
- - date published: 2023-10-25T10:01:40.815826+00:00
- - user: None
- - tags: ['substack']
-
-## Res Obscura | Benjamin Breen | Substack
- - [http://resobscura.substack.com](http://resobscura.substack.com)
- - date published: 2023-10-25T10:01:43.733936+00:00
- - user: None
- - tags: ['substack']
-
-## The Poetry of Reality with Richard Dawkins | Substack
- - [https://richarddawkins.substack.com](https://richarddawkins.substack.com)
- - date published: 2023-10-25T10:01:47.068642+00:00
- - user: None
- - tags: ['substack']
-
-## Risky Business News | Patrick Gray | Substack
- - [http://riskybiznews.substack.com](http://riskybiznews.substack.com)
- - date published: 2023-10-25T11:47:06.614681+00:00
- - user: None
- - tags: ['substack']
-
-## Robert Bryce | Substack
- - [http://robertbryce.substack.com](http://robertbryce.substack.com)
- - date published: 2023-10-25T10:02:18.368822+00:00
- - user: None
- - tags: ['substack']
-
-## Rob Henderson's Newsletter | Substack
- - [http://robkhenderson.substack.com](http://robkhenderson.substack.com)
- - date published: 2023-10-25T10:02:22.444518+00:00
- - user: None
- - tags: ['substack']
-
-## Interconnects | Nathan Lambert | Substack
- - [https://robotic.substack.com](https://robotic.substack.com)
- - date published: 2023-10-25T10:02:26.630773+00:00
  - user: None
  - tags: ['substack']
 

@@ -1,3 +1,87 @@
+## 日本経済に貢献できるアルバイト
+ - [https://webdatarender.com](https://webdatarender.com)
+ - date published: 2023-10-25T18:01:17.992554+00:00
+ - user: None
+ - tags: []
+
+## WebFX | The Digital Marketing Agency That Drives Revenue
+ - [https://www.webfx.com](https://www.webfx.com)
+ - date published: 2023-10-25T18:01:24.290708+00:00
+ - user: None
+ - tags: []
+
+## Hamster Dance
+ - [https://www.webhamster.com](https://www.webhamster.com)
+ - date published: 2023-10-25T11:08:08.311135+00:00
+ - user: None
+ - tags: ['wtf']
+
+## webrtcHacks - [10 years of] guides and information for WebRTC developers
+ - [https://webrtchacks.com](https://webrtchacks.com)
+ - date published: 2023-10-25T18:01:28.146325+00:00
+ - user: None
+ - tags: []
+
+## the grillo-marxuach experimental design bureau - Home
+ - [https://okbjgm.weebly.com](https://okbjgm.weebly.com)
+ - date published: 2023-10-25T18:01:31.000422+00:00
+ - user: None
+ - tags: []
+
+## Wee Noise Maker
+ - [https://weenoisemaker.com](https://weenoisemaker.com)
+ - date published: 2023-10-27T07:31:28.667298+00:00
+ - user: None
+ - tags: []
+
+## Movie News, TV News, Celebrity News, Marvel News, Netflix News, Anime News | We Got This Covered
+ - [https://wegotthiscovered.com](https://wegotthiscovered.com)
+ - date published: 2023-10-25T18:01:40.322328+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Hell World
+ - [https://www.welcometohellworld.com](https://www.welcometohellworld.com)
+ - date published: 2023-11-01T08:43:23.743333+00:00
+ - user: None
+ - tags: []
+
+## Award-winning news, views, and insight from the ESET security community
+ - [https://www.welivesecurity.com](https://www.welivesecurity.com)
+ - date published: 2023-10-27T11:56:13.676440+00:00
+ - user: None
+ - tags: []
+
+## Well-Typed - The Haskell Consultants
+ - [https://well-typed.com](https://well-typed.com)
+ - date published: 2023-10-27T11:56:14.296417+00:00
+ - user: None
+ - tags: []
+
+## The Well-Appointed Desk
+ - [https://www.wellappointeddesk.com](https://www.wellappointeddesk.com)
+ - date published: 2023-10-27T11:56:32.300412+00:00
+ - user: None
+ - tags: []
+
+## Wellfound (formerly AngelList Talent) - Startup Job Search
+ - [https://wellfound.com](https://wellfound.com)
+ - date published: 2023-10-27T11:56:34.071844+00:00
+ - user: None
+ - tags: []
+
+## We Love Trump - We Love Trump
+ - [https://welovetrump.com](https://welovetrump.com)
+ - date published: 2023-10-27T11:56:34.660336+00:00
+ - user: None
+ - tags: []
+
+## Free Cheats and Trainers for Thousands of PC Games - WeMod App
+ - [https://www.wemod.com](https://www.wemod.com)
+ - date published: 2023-10-28T20:43:16.661569+00:00
+ - user: None
+ - tags: ['game trainer']
+
 ## Home
  - [https://www.weny.com](https://www.weny.com)
  - date published: 2023-11-15T15:16:18.816467+00:00
@@ -3996,6 +4080,12 @@ home
  - user: None
  - tags: []
 
+## Show HN: Etcha – Infinite scale, serverless config management
+ - [https://etcha.dev](https://etcha.dev)
+ - date published: 2023-11-18T15:39:55+00:00
+ - user: None
+ - tags: []
+
 ## Evidence - Business Intelligence as Code
  - [https://evidence.dev](https://evidence.dev)
  - date published: 2023-10-25T18:37:57.379219+00:00
@@ -5908,96 +5998,6 @@ home
 ## ViperGPT: Visual Inference via Python Execution for Reasoning
  - [https://viper.cs.columbia.edu](https://viper.cs.columbia.edu)
  - date published: 2023-10-25T18:50:05.789837+00:00
- - user: None
- - tags: []
-
-## Herbert Irving Comprehensive Cancer Center (HICCC) - New York
- - [https://www.cancer.columbia.edu](https://www.cancer.columbia.edu)
- - date published: 2023-10-25T18:50:13.811298+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science, Columbia University
- - [https://www.cs.columbia.edu](https://www.cs.columbia.edu)
- - date published: 2023-10-25T18:50:17.823882+00:00
- - user: None
- - tags: []
-
-## Columbia University Irving Medical Center
- - [https://www.cuimc.columbia.edu](https://www.cuimc.columbia.edu)
- - date published: 2023-10-25T18:50:21.143055+00:00
- - user: None
- - tags: []
-
-## Department of Mathematics at Columbia University - Welcome
- - [https://www.math.columbia.edu](https://www.math.columbia.edu)
- - date published: 2023-10-25T18:50:23.763635+00:00
- - user: None
- - tags: []
-
-## Department of Statistics - Columbia University
- - [http://www.stat.columbia.edu](http://www.stat.columbia.edu)
- - date published: 2023-10-25T18:50:28.275767+00:00
- - user: None
- - tags: []
-
-## Zero-1-to-3: Zero-shot One Image to 3D Object
- - [https://zero123.cs.columbia.edu](https://zero123.cs.columbia.edu)
- - date published: 2023-10-25T18:50:29.530822+00:00
- - user: None
- - tags: []
-
-## Columbia | Zuckerman Institute
- - [https://zuckermaninstitute.columbia.edu](https://zuckermaninstitute.columbia.edu)
- - date published: 2023-10-25T18:50:31.676775+00:00
- - user: None
- - tags: []
-
-## Cornell Virtual Workshop
- - [https://cvw.cac.cornell.edu](https://cvw.cac.cornell.edu)
- - date published: 2023-10-25T18:50:32.946582+00:00
- - user: None
- - tags: []
-
-## Learning Strategies Center – Academic Support at Cornell University
- - [https://lsc.cornell.edu](https://lsc.cornell.edu)
- - date published: 2023-10-25T18:50:35.715625+00:00
- - user: None
- - tags: []
-
-## Home | Cornell Chronicle
- - [https://news.cornell.edu](https://news.cornell.edu)
- - date published: 2023-10-25T18:50:38.276285+00:00
- - user: None
- - tags: []
-
-## Newsroom | Weill Cornell Medicine
- - [https://news.weill.cornell.edu](https://news.weill.cornell.edu)
- - date published: 2023-10-25T18:50:39.847779+00:00
- - user: None
- - tags: []
-
-## Electrical and Computer Engineering | Electrical and Computer Engineering
- - [https://people.ece.cornell.edu](https://people.ece.cornell.edu)
- - date published: 2023-10-25T18:50:42.502337+00:00
- - user: None
- - tags: []
-
-## http://pi.math.cornell.edu
- - [http://pi.math.cornell.edu](http://pi.math.cornell.edu)
- - date published: 2023-10-25T18:50:43.600153+00:00
- - user: None
- - tags: []
-
-## Follow the Story – Research & Innovation
- - [https://research.cornell.edu](https://research.cornell.edu)
- - date published: 2023-10-25T18:50:46.764859+00:00
- - user: None
- - tags: []
-
-## Home | Department of Computer Science
- - [https://www.cs.cornell.edu](https://www.cs.cornell.edu)
- - date published: 2023-10-25T18:50:50.915149+00:00
  - user: None
  - tags: []
 

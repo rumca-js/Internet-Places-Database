@@ -190,6 +190,12 @@
  - user: None
  - tags: []
 
+## TrasHTTPandas – Trash Panda HTTP Responses
+ - [https://httpraccoons.com](https://httpraccoons.com)
+ - date published: 2023-11-18T05:17:18+00:00
+ - user: None
+ - tags: []
+
 ## Sort: Supercharged collaboration for your database
  - [https://sort.xyz.](https://sort.xyz.)
  - date published: 2023-11-01T23:07:07.991006+00:00
@@ -3323,6 +3329,12 @@
  - user: None
  - tags: []
 
+## Notícias de hoje do Brasil e do Mundo | Folha de S.Paulo
+ - [https://www1.folha.uol.com.br](https://www1.folha.uol.com.br)
+ - date published: 2023-11-18T08:17:46.153355+00:00
+ - user: None
+ - tags: []
+
 ## Resultados Oficial
  - [https://resultados.tse.jus.br](https://resultados.tse.jus.br)
  - date published: 2023-10-25T12:02:51.440167+00:00
@@ -3941,6 +3953,12 @@
  - user: None
  - tags: ['university']
 
+## Rotman School of Management | University of Toronto - Rotman School of Management
+ - [https://www.rotman.utoronto.ca](https://www.rotman.utoronto.ca)
+ - date published: 2023-11-18T08:17:18.470993+00:00
+ - user: None
+ - tags: []
+
 ## Home | University of Toronto Mississauga
  - [https://www.utm.utoronto.ca](https://www.utm.utoronto.ca)
  - date published: 2023-11-08T22:51:00.987663+00:00
@@ -4458,6 +4476,12 @@
  - user: None
  - tags: []
 
+## Srijan Choudhary's personal website
+ - [https://srijan.ch](https://srijan.ch)
+ - date published: 2023-11-18T23:28:44.408301+00:00
+ - user: None
+ - tags: ['personal']
+
 ## About
  - [https://michael.stapelberg.ch](https://michael.stapelberg.ch)
  - date published: 2023-10-25T09:03:20.383919+00:00
@@ -4965,6 +4989,12 @@
 ## Green Investing Co. - Build Wealth. Save the Planet.
  - [https://greeninvesting.co](https://greeninvesting.co)
  - date published: 2023-11-16T15:37:38.056532+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Grigora.co – A Blogger's Answer to Secure, Simple Web Building
+ - [https://grigora.co](https://grigora.co)
+ - date published: 2023-11-18T05:39:21+00:00
  - user: None
  - tags: []
 
@@ -5961,36 +5991,6 @@
 ## ABC News - Breaking News, Latest News and Videos
  - [http://feeds.abcnews.com](http://feeds.abcnews.com)
  - date published: 2023-10-25T10:50:33.309447+00:00
- - user: None
- - tags: []
-
-## Charleston News, Weather, Sports, Breaking News | WCIV
- - [https://abcnews4.com](https://abcnews4.com)
- - date published: 2023-11-06T20:23:15.804452+00:00
- - user: None
- - tags: []
-
-## Diary of a SysAdmin
- - [https://blog.abctaylor.com](https://blog.abctaylor.com)
- - date published: 2023-11-17T18:44:51.502563+00:00
- - user: None
- - tags: []
-
-## Abenezer Belachew / Software Developer
- - [https://www.abenezerbelachew.com](https://www.abenezerbelachew.com)
- - date published: 2023-10-30T08:53:04.273441+00:00
- - user: None
- - tags: []
-
-## Abhishek
- - [https://abhishekbanthia.com](https://abhishekbanthia.com)
- - date published: 2023-10-25T09:04:22.035223+00:00
- - user: None
- - tags: ['personal']
-
-## Creative tools for music makers | Ableton
- - [https://www.ableton.com](https://www.ableton.com)
- - date published: 2023-10-25T12:30:06.725974+00:00
  - user: None
  - tags: []
 

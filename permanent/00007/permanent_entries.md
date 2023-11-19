@@ -1,3 +1,63 @@
+## Lazy Afternoons | Ravi Teja Kanta | Substack
+ - [https://ravitejakanta.substack.com](https://ravitejakanta.substack.com)
+ - date published: 2023-10-25T10:01:35.638481+00:00
+ - user: None
+ - tags: ['substack']
+
+## rants by razberry | Substack
+ - [https://razberry.substack.com](https://razberry.substack.com)
+ - date published: 2023-11-15T18:40:37.968645+00:00
+ - user: None
+ - tags: []
+
+## Razib Khan's Unsupervised Learning | Substack
+ - [https://razib.substack.com](https://razib.substack.com)
+ - date published: 2023-10-25T10:01:38.890917+00:00
+ - user: None
+ - tags: ['substack']
+
+## 2050 | Peter Havers | Substack
+ - [http://read2050.substack.com](http://read2050.substack.com)
+ - date published: 2023-10-25T10:01:40.815826+00:00
+ - user: None
+ - tags: ['substack']
+
+## Res Obscura | Benjamin Breen | Substack
+ - [http://resobscura.substack.com](http://resobscura.substack.com)
+ - date published: 2023-10-25T10:01:43.733936+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Poetry of Reality with Richard Dawkins | Substack
+ - [https://richarddawkins.substack.com](https://richarddawkins.substack.com)
+ - date published: 2023-10-25T10:01:47.068642+00:00
+ - user: None
+ - tags: ['substack']
+
+## Risky Business News | Patrick Gray | Substack
+ - [http://riskybiznews.substack.com](http://riskybiznews.substack.com)
+ - date published: 2023-10-25T11:47:06.614681+00:00
+ - user: None
+ - tags: ['substack']
+
+## Robert Bryce | Substack
+ - [http://robertbryce.substack.com](http://robertbryce.substack.com)
+ - date published: 2023-10-25T10:02:18.368822+00:00
+ - user: None
+ - tags: ['substack']
+
+## Rob Henderson's Newsletter | Substack
+ - [http://robkhenderson.substack.com](http://robkhenderson.substack.com)
+ - date published: 2023-10-25T10:02:22.444518+00:00
+ - user: None
+ - tags: ['substack']
+
+## Interconnects | Nathan Lambert | Substack
+ - [https://robotic.substack.com](https://robotic.substack.com)
+ - date published: 2023-10-25T10:02:26.630773+00:00
+ - user: None
+ - tags: ['substack']
+
 ## The Honest Broker | Roger Pielke Jr. | Substack
  - [https://rogerpielkejr.substack.com](https://rogerpielkejr.substack.com)
  - date published: 2023-10-25T10:02:34.687234+00:00
@@ -255,6 +315,12 @@
  - date published: 2023-10-25T10:05:29.847109+00:00
  - user: None
  - tags: ['substack']
+
+## The Algorithmic Bridge | Alberto Romero | Substack
+ - [https://thealgorithmicbridge.substack.com](https://thealgorithmicbridge.substack.com)
+ - date published: 2023-11-18T13:29:05.300485+00:00
+ - user: None
+ - tags: []
 
 ## The AP (Alex Pareene) Newsletter | Substack
  - [http://theap.substack.com](http://theap.substack.com)
@@ -3492,6 +3558,12 @@
  - user: None
  - tags: []
 
+## Welcome to Today In BC | British Columbia News
+ - [https://www.todayinbc.com](https://www.todayinbc.com)
+ - date published: 2023-11-18T19:07:55.241515+00:00
+ - user: None
+ - tags: []
+
 ## Red Deer News & Red Deer Events - Todayville.com
  - [https://www.todayville.com](https://www.todayville.com)
  - date published: 2023-10-25T17:43:42.189847+00:00
@@ -4595,6 +4667,18 @@
 ## Understand Legacy Code | Understand Legacy Code
  - [https://understandlegacycode.com](https://understandlegacycode.com)
  - date published: 2023-10-25T17:52:32.315084+00:00
+ - user: None
+ - tags: []
+
+## Sign in
+ - [https://app.uneebee.com](https://app.uneebee.com)
+ - date published: 2023-11-18T09:11:01.611761+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Open-source tool for creating courses like Duolingo
+ - [https://uneebee.com](https://uneebee.com)
+ - date published: 2023-11-18T08:28:27+00:00
  - user: None
  - tags: []
 
@@ -5911,90 +5995,6 @@
 ## Web3 is Going Just Great
  - [https://web3isgoinggreat.com](https://web3isgoinggreat.com)
  - date published: 2023-10-25T11:10:58.654027+00:00
- - user: None
- - tags: []
-
-## webase.com WeBase Tailwind Editor
- - [https://www.webase.com](https://www.webase.com)
- - date published: 2023-10-25T18:01:16.116937+00:00
- - user: None
- - tags: []
-
-## 日本経済に貢献できるアルバイト
- - [https://webdatarender.com](https://webdatarender.com)
- - date published: 2023-10-25T18:01:17.992554+00:00
- - user: None
- - tags: []
-
-## WebFX | The Digital Marketing Agency That Drives Revenue
- - [https://www.webfx.com](https://www.webfx.com)
- - date published: 2023-10-25T18:01:24.290708+00:00
- - user: None
- - tags: []
-
-## Hamster Dance
- - [https://www.webhamster.com](https://www.webhamster.com)
- - date published: 2023-10-25T11:08:08.311135+00:00
- - user: None
- - tags: ['wtf']
-
-## webrtcHacks - [10 years of] guides and information for WebRTC developers
- - [https://webrtchacks.com](https://webrtchacks.com)
- - date published: 2023-10-25T18:01:28.146325+00:00
- - user: None
- - tags: []
-
-## the grillo-marxuach experimental design bureau - Home
- - [https://okbjgm.weebly.com](https://okbjgm.weebly.com)
- - date published: 2023-10-25T18:01:31.000422+00:00
- - user: None
- - tags: []
-
-## Wee Noise Maker
- - [https://weenoisemaker.com](https://weenoisemaker.com)
- - date published: 2023-10-27T07:31:28.667298+00:00
- - user: None
- - tags: []
-
-## Movie News, TV News, Celebrity News, Marvel News, Netflix News, Anime News | We Got This Covered
- - [https://wegotthiscovered.com](https://wegotthiscovered.com)
- - date published: 2023-10-25T18:01:40.322328+00:00
- - user: None
- - tags: []
-
-## Welcome to Hell World
- - [https://www.welcometohellworld.com](https://www.welcometohellworld.com)
- - date published: 2023-11-01T08:43:23.743333+00:00
- - user: None
- - tags: []
-
-## Award-winning news, views, and insight from the ESET security community
- - [https://www.welivesecurity.com](https://www.welivesecurity.com)
- - date published: 2023-10-27T11:56:13.676440+00:00
- - user: None
- - tags: []
-
-## Well-Typed - The Haskell Consultants
- - [https://well-typed.com](https://well-typed.com)
- - date published: 2023-10-27T11:56:14.296417+00:00
- - user: None
- - tags: []
-
-## The Well-Appointed Desk
- - [https://www.wellappointeddesk.com](https://www.wellappointeddesk.com)
- - date published: 2023-10-27T11:56:32.300412+00:00
- - user: None
- - tags: []
-
-## Wellfound (formerly AngelList Talent) - Startup Job Search
- - [https://wellfound.com](https://wellfound.com)
- - date published: 2023-10-27T11:56:34.071844+00:00
- - user: None
- - tags: []
-
-## We Love Trump - We Love Trump
- - [https://welovetrump.com](https://welovetrump.com)
- - date published: 2023-10-27T11:56:34.660336+00:00
  - user: None
  - tags: []
 

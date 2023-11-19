@@ -1,3 +1,27 @@
+## Environmental Science | CERES-Science
+ - [https://www.ceres-science.com](https://www.ceres-science.com)
+ - date published: 2023-10-25T13:20:00.076730+00:00
+ - user: None
+ - tags: []
+
+## Manuel Cerón – A blog mostly about programming languages
+ - [https://ceronman.com](https://ceronman.com)
+ - date published: 2023-10-25T13:20:05.254140+00:00
+ - user: None
+ - tags: []
+
+## Carlos Fenollosa
+ - [https://cfenollosa.com](https://cfenollosa.com)
+ - date published: 2023-10-25T13:20:11.729770+00:00
+ - user: None
+ - tags: []
+
+## thoughts by ch3ngl0rd ᕦʕ •ᴥ•ʔᕤ
+ - [https://www.ch3ngl0rd.com](https://www.ch3ngl0rd.com)
+ - date published: 2023-10-28T05:40:39.418464+00:00
+ - user: None
+ - tags: []
+
 ## faq - Chad Nauseam Home
  - [https://chadnauseam.com](https://chadnauseam.com)
  - date published: 2023-10-25T13:20:12.854613+00:00
@@ -1314,6 +1338,12 @@
 ## Commoncog
  - [https://commoncog.com](https://commoncog.com)
  - date published: 2023-10-25T13:31:01.859441+00:00
+ - user: None
+ - tags: []
+
+## CommonsWare
+ - [https://commonsware.com](https://commonsware.com)
+ - date published: 2023-11-18T17:28:00.877085+00:00
  - user: None
  - tags: []
 
@@ -4163,6 +4193,12 @@
  - user: None
  - tags: ['personal']
 
+## Kapil Dutta - Blog
+ - [https://duttakapil.com](https://duttakapil.com)
+ - date published: 2023-11-18T19:08:01.389864+00:00
+ - user: None
+ - tags: []
+
 ## Duvar English
  - [https://www.duvarenglish.com](https://www.duvarenglish.com)
  - date published: 2023-10-25T14:00:07.518414+00:00
@@ -4444,6 +4480,12 @@
  - date published: 2023-10-25T14:03:47.916137+00:00
  - user: None
  - tags: ['news', 'music']
+
+## Edmonton Journal
+ - [https://edmontonjournal.com](https://edmontonjournal.com)
+ - date published: 2023-11-18T23:09:44.705538+00:00
+ - user: None
+ - tags: []
 
 ## EDN - Voice of the Engineer
  - [https://www.edn.com](https://www.edn.com)
@@ -5954,48 +5996,6 @@
 ## Causality for Machine Learning
  - [https://ff13.fastforwardlabs.com](https://ff13.fastforwardlabs.com)
  - date published: 2023-10-25T14:27:42.587796+00:00
- - user: None
- - tags: []
-
-## The edge cloud platform behind the best of the web | Fastly
- - [https://www.fastly.com](https://www.fastly.com)
- - date published: 2023-10-25T14:27:45.158485+00:00
- - user: None
- - tags: []
-
-## Fastmail | We Respect Your Privacy & Put You in Control
- - [https://www.fastmail.com](https://www.fastmail.com)
- - date published: 2023-10-25T14:27:47.232402+00:00
- - user: None
- - tags: []
-
-## Fastmail - Status
- - [https://fastmailstatus.com](https://fastmailstatus.com)
- - date published: 2023-10-25T14:27:49.382788+00:00
- - user: None
- - tags: []
-
-## Fastmail - Status
- - [https://www.fastmailstatus.com](https://www.fastmailstatus.com)
- - date published: 2023-10-25T14:27:50.680975+00:00
- - user: None
- - tags: []
-
-## Enhanced PostgreSQL for enterprise applications | Fujitsu
- - [https://www.postgresql.fastware.com](https://www.postgresql.fastware.com)
- - date published: 2023-10-25T14:27:54.131539+00:00
- - user: None
- - tags: []
-
-## Fatherly
- - [https://www.fatherly.com](https://www.fatherly.com)
- - date published: 2023-10-25T14:28:00.474199+00:00
- - user: None
- - tags: []
-
-## Fathers.com - National Center for Fathering
- - [https://fathers.com](https://fathers.com)
- - date published: 2023-10-25T14:28:06.222344+00:00
  - user: None
  - tags: []
 

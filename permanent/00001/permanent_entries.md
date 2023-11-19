@@ -1,3 +1,27 @@
+## Diary of a SysAdmin
+ - [https://blog.abctaylor.com](https://blog.abctaylor.com)
+ - date published: 2023-11-17T18:44:51.502563+00:00
+ - user: None
+ - tags: []
+
+## Abenezer Belachew / Software Developer
+ - [https://www.abenezerbelachew.com](https://www.abenezerbelachew.com)
+ - date published: 2023-10-30T08:53:04.273441+00:00
+ - user: None
+ - tags: []
+
+## Abhishek
+ - [https://abhishekbanthia.com](https://abhishekbanthia.com)
+ - date published: 2023-10-25T09:04:22.035223+00:00
+ - user: None
+ - tags: ['personal']
+
+## Creative tools for music makers | Ableton
+ - [https://www.ableton.com](https://www.ableton.com)
+ - date published: 2023-10-25T12:30:06.725974+00:00
+ - user: None
+ - tags: []
+
 ## Abner
  - [https://abnercoimbre.com](https://abnercoimbre.com)
  - date published: 2023-10-25T08:44:05.326397+00:00
@@ -673,6 +697,12 @@
 ## Akshay's Blog
  - [https://www.akshaykhot.com](https://www.akshaykhot.com)
  - date published: 2023-10-25T12:37:10.359877+00:00
+ - user: None
+ - tags: []
+
+## Al-Monitor: Independent, trusted coverage of the Middle East
+ - [https://www.al-monitor.com](https://www.al-monitor.com)
+ - date published: 2023-11-18T18:48:50.203800+00:00
  - user: None
  - tags: []
 
@@ -5965,36 +5995,6 @@
 ## State College Breaking News & Sports | Centre Daily Times
  - [https://www.centredaily.com](https://www.centredaily.com)
  - date published: 2023-10-25T10:35:34.800217+00:00
- - user: None
- - tags: []
-
-## Open Brains
- - [https://cerebralab.com](https://cerebralab.com)
- - date published: 2023-10-25T13:19:58.310239+00:00
- - user: None
- - tags: []
-
-## Environmental Science | CERES-Science
- - [https://www.ceres-science.com](https://www.ceres-science.com)
- - date published: 2023-10-25T13:20:00.076730+00:00
- - user: None
- - tags: []
-
-## Manuel Cerón – A blog mostly about programming languages
- - [https://ceronman.com](https://ceronman.com)
- - date published: 2023-10-25T13:20:05.254140+00:00
- - user: None
- - tags: []
-
-## Carlos Fenollosa
- - [https://cfenollosa.com](https://cfenollosa.com)
- - date published: 2023-10-25T13:20:11.729770+00:00
- - user: None
- - tags: []
-
-## thoughts by ch3ngl0rd ᕦʕ •ᴥ•ʔᕤ
- - [https://www.ch3ngl0rd.com](https://www.ch3ngl0rd.com)
- - date published: 2023-10-28T05:40:39.418464+00:00
  - user: None
  - tags: []
 
