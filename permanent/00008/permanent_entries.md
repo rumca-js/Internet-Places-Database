@@ -1,6 +1,168 @@
+## MLB / Dashboard / Today
+ - [https://mlb.watchbotapp.com](https://mlb.watchbotapp.com)
+ - date published: 2023-10-25T17:59:36.285080+00:00
+ - user: None
+ - tags: []
+
+## SJX Watches
+ - [https://watchesbysjx.com](https://watchesbysjx.com)
+ - date published: 2023-11-19T21:14:18.263510+00:00
+ - user: None
+ - tags: []
+
+## watchlimits | Solve binge watching and unlock hours of lost productivity
+ - [https://watchlimits.com](https://watchlimits.com)
+ - date published: 2023-10-25T17:59:42.937801+00:00
+ - user: None
+ - tags: []
+
+## Watermelon - Passive Docs Search Engine
+ - [https://www.watermelontools.com](https://www.watermelontools.com)
+ - date published: 2023-10-25T17:59:51.446577+00:00
+ - user: None
+ - tags: []
+
+## Amelia Wattenberger
+ - [https://wattenberger.com](https://wattenberger.com)
+ - date published: 2023-10-25T17:59:53.718598+00:00
+ - user: None
+ - tags: []
+
+## Wavacity | Online Audio Editor Based on Audacity
+ - [https://wavacity.com](https://wavacity.com)
+ - date published: 2023-10-25T17:59:55.062963+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.wave3.com](https://www.wave3.com)
+ - date published: 2023-11-16T19:28:13.533348+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://waveletbeam.com](https://waveletbeam.com)
+ - date published: 2023-10-25T17:59:57.246144+00:00
+ - user: None
+ - tags: []
+
+## Waveshare Electronics
+ - [https://www.waveshare.com](https://www.waveshare.com)
+ - date published: 2023-10-25T11:15:35.761134+00:00
+ - user: None
+ - tags: ['raspberry', 'sbc', 'electronic parts']
+
+## Waypoint - The official Waymo blog
+ - [https://blog.waymo.com](https://blog.waymo.com)
+ - date published: 2023-10-25T18:00:00.798700+00:00
+ - user: None
+ - tags: []
+
+## Warner Bros. Discovery
+ - [https://wbd.com](https://wbd.com)
+ - date published: 2023-10-25T15:07:26.945711+00:00
+ - user: None
+ - tags: []
+
+## WBTV | On Your Side | First Alert Weather | Charlotte, NC
+ - [https://www.wbtv.com](https://www.wbtv.com)
+ - date published: 2023-10-25T18:00:19.259430+00:00
+ - user: None
+ - tags: []
+
+## Warcraft III Maps
+ - [https://wc3maps.com](https://wc3maps.com)
+ - date published: 2023-10-29T10:34:30.812872+00:00
+ - user: None
+ - tags: []
+
+## Wccftech
+ - [https://wccftech.com](https://wccftech.com)
+ - date published: 2023-10-25T18:00:23.184055+00:00
+ - user: None
+ - tags: []
+
+## Wing Commander CIC
+ - [https://www.wcnews.com](https://www.wcnews.com)
+ - date published: 2023-10-25T18:00:29.103522+00:00
+ - user: None
+ - tags: []
+
+## Cincinnati, Ohio News and Weather | WCPO 9 News
+ - [https://www.wcpo.com](https://www.wcpo.com)
+ - date published: 2023-11-08T15:37:27.444601+00:00
+ - user: None
+ - tags: []
+
+## New Bern News, Weather, Sports, Breaking News | WCTI
+ - [https://wcti12.com](https://wcti12.com)
+ - date published: 2023-10-25T18:00:32.950631+00:00
+ - user: None
+ - tags: []
+
+## We Find Wildness
+ - [https://www.we-find-wildness.com](https://www.we-find-wildness.com)
+ - date published: 2023-10-25T18:00:37.033994+00:00
+ - user: None
+ - tags: []
+
+## We Make Money Not Art
+ - [https://we-make-money-not-art.com](https://we-make-money-not-art.com)
+ - date published: 2023-10-25T18:00:42.370825+00:00
+ - user: None
+ - tags: []
+
+## Wealest
+ - [https://www.wealest.com](https://www.wealest.com)
+ - date published: 2023-10-25T18:00:45.305555+00:00
+ - user: None
+ - tags: []
+
+## WeAreDevelopers - Developer Jobs & Event Platform
+ - [https://www.wearedevelopers.com](https://www.wearedevelopers.com)
+ - date published: 2023-10-25T18:00:51.808878+00:00
+ - user: None
+ - tags: []
+
+## We Are Not Saved | R.W. Richey | Substack
+ - [https://wearenotsaved.com](https://wearenotsaved.com)
+ - date published: 2023-10-25T18:00:55.853558+00:00
+ - user: None
+ - tags: []
+
+## National and Local Weather Radar, Daily Forecast, Hurricane and information from The Weather Channel and weather.com
+ - [https://weather.com](https://weather.com)
+ - date published: 2023-10-25T18:01:07.406371+00:00
+ - user: None
+ - tags: []
+
+## WebGL, WebGL2 and WebGPU Browser Support Statistics and Capabilities | Web3D Survey
+ - [https://web3dsurvey.com](https://web3dsurvey.com)
+ - date published: 2023-10-25T18:01:14.070217+00:00
+ - user: None
+ - tags: []
+
+## Web3 is Going Just Great
+ - [https://web3isgoinggreat.com](https://web3isgoinggreat.com)
+ - date published: 2023-10-25T11:10:58.654027+00:00
+ - user: None
+ - tags: []
+
+## webase.com WeBase Tailwind Editor
+ - [https://www.webase.com](https://www.webase.com)
+ - date published: 2023-10-25T18:01:16.116937+00:00
+ - user: None
+ - tags: []
+
 ## 日本経済に貢献できるアルバイト
  - [https://webdatarender.com](https://webdatarender.com)
  - date published: 2023-10-25T18:01:17.992554+00:00
+ - user: None
+ - tags: []
+
+## Dominik Weber
+ - [https://weberdominik.com](https://weberdominik.com)
+ - date published: 2023-11-19T20:14:16.580743+00:00
  - user: None
  - tags: []
 
@@ -5831,173 +5993,6 @@ home
 ## Statistics at UC Berkeley | Department of Statistics
  - [https://www.stat.berkeley.edu](https://www.stat.berkeley.edu)
  - date published: 2023-10-25T18:48:16.122861+00:00
- - user: None
- - tags: []
-
-## Thomas J. Watson College of Engineering and Applied Science | Binghamton University
- - [http://www.ws.binghamton.edu](http://www.ws.binghamton.edu)
- - date published: 2023-10-25T18:48:19.170626+00:00
- - user: None
- - tags: []
-
-## Brookings - Quality. Independence. Impact.
- - [https://www.brookings.edu](https://www.brookings.edu)
- - date published: 2023-11-05T11:08:07.121051+00:00
- - user: None
- - tags: []
-
-## https://esl.cs.brown.edu
- - [https://esl.cs.brown.edu](https://esl.cs.brown.edu)
- - date published: 2023-10-25T18:48:26.205486+00:00
- - user: None
- - tags: []
-
-## Watson Institute for International and Public Affairs
- - [https://watson.brown.edu](https://watson.brown.edu)
- - date published: 2023-10-25T18:48:34.751888+00:00
- - user: None
- - tags: []
-
-## Homepage | Boston University
- - [https://www.bu.edu](https://www.bu.edu)
- - date published: 2023-10-25T18:48:37.312705+00:00
- - user: None
- - tags: []
-
-## Home | Markelz Research Group
- - [http://markelz.physics.buffalo.edu](http://markelz.physics.buffalo.edu)
- - date published: 2023-10-25T18:48:40.190828+00:00
- - user: None
- - tags: []
-
-## Welcome to the University at Buffalo - University at Buffalo
- - [http://www.buffalo.edu](http://www.buffalo.edu)
- - date published: 2023-10-25T18:48:43.864466+00:00
- - user: None
- - tags: []
-
-## News Homepage - BYU News
- - [https://news.byu.edu](https://news.byu.edu)
- - date published: 2023-10-25T18:48:47.775303+00:00
- - user: None
- - tags: []
-
-## Plant & Wildlife Sciences Homepage
- - [https://pws.byu.edu](https://pws.byu.edu)
- - date published: 2023-10-25T18:49:07.807137+00:00
- - user: None
- - tags: []
-
-## http://users.csc.calpoly.edu
- - [http://users.csc.calpoly.edu](http://users.csc.calpoly.edu)
- - date published: 2023-10-25T18:49:10.117700+00:00
- - user: None
- - tags: []
-
-## Welcome to Caltech Magazine (formerly Engineering & Science) - Caltech Magazine
- - [https://calteches.library.caltech.edu](https://calteches.library.caltech.edu)
- - date published: 2023-10-25T18:49:12.742737+00:00
- - user: None
- - tags: []
-
-## Taking to www.astro.caltech.edu
- - [https://sites.astro.caltech.edu](https://sites.astro.caltech.edu)
- - date published: 2023-10-25T18:49:21.036394+00:00
- - user: None
- - tags: []
-
-## Home
-  
-
-     | 
-    
-    www.caltech.edu
- - [https://www.caltech.edu](https://www.caltech.edu)
- - date published: 2023-10-25T18:49:26.802906+00:00
- - user: None
- - tags: []
-
-## The Feynman Lectures on Physics
- - [https://www.feynmanlectures.caltech.edu](https://www.feynmanlectures.caltech.edu)
- - date published: 2023-10-25T18:49:32.962260+00:00
- - user: None
- - tags: []
-
-## ITS - Technology Infrastructure Services
- - [https://tiswww.case.edu](https://tiswww.case.edu)
- - date published: 2023-10-25T18:49:35.427501+00:00
- - user: None
- - tags: []
-
-## Chapman Blogs | Chapman University
- - [https://blogs.chapman.edu](https://blogs.chapman.edu)
- - date published: 2023-10-25T18:49:38.865941+00:00
- - user: None
- - tags: []
-
-## CMU CS Academy
- - [https://academy.cs.cmu.edu](https://academy.cs.cmu.edu)
- - date published: 2023-10-25T18:49:39.691260+00:00
- - user: None
- - tags: []
-
-## Carnegie Mellon Database Group
- - [https://db.cs.cmu.edu](https://db.cs.cmu.edu)
- - date published: 2023-10-25T18:49:41.742513+00:00
- - user: None
- - tags: []
-
-## Penrose | Penrose
- - [https://penrose.cs.cmu.edu](https://penrose.cs.cmu.edu)
- - date published: 2023-10-25T18:49:42.884999+00:00
- - user: None
- - tags: []
-
-## index -     Electrical and Computer Engineering -     College of Engineering - Carnegie Mellon University
- - [https://users.ece.cmu.edu](https://users.ece.cmu.edu)
- - date published: 2023-10-25T18:49:47.511158+00:00
- - user: None
- - tags: []
-
-## Homepage -     CMU - Carnegie Mellon University
- - [https://www.cmu.edu](https://www.cmu.edu)
- - date published: 2023-10-25T18:49:49.835716+00:00
- - user: None
- - tags: []
-
-## CMU School of Computer Science
- - [https://www.cs.cmu.edu](https://www.cs.cmu.edu)
- - date published: 2023-10-25T18:49:52.744969+00:00
- - user: None
- - tags: []
-
-## Department of Mathematical Sciences
- - [https://www.math.cmu.edu](https://www.math.cmu.edu)
- - date published: 2023-10-25T18:49:53.580780+00:00
- - user: None
- - tags: []
-
-## Home | University of Colorado Boulder
- - [https://www.colorado.edu](https://www.colorado.edu)
- - date published: 2023-10-25T18:49:55.392617+00:00
- - user: None
- - tags: []
-
-## Columbia Magazine
- - [https://magazine.columbia.edu](https://magazine.columbia.edu)
- - date published: 2023-10-25T18:49:57.691308+00:00
- - user: None
- - tags: []
-
-## Statistical Modeling, Causal Inference, and Social Science
- - [https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu)
- - date published: 2023-10-25T18:50:02.076404+00:00
- - user: None
- - tags: []
-
-## ViperGPT: Visual Inference via Python Execution for Reasoning
- - [https://viper.cs.columbia.edu](https://viper.cs.columbia.edu)
- - date published: 2023-10-25T18:50:05.789837+00:00
  - user: None
  - tags: []
 

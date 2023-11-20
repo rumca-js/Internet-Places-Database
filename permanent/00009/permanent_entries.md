@@ -1,3 +1,170 @@
+## Brookings - Quality. Independence. Impact.
+ - [https://www.brookings.edu](https://www.brookings.edu)
+ - date published: 2023-11-05T11:08:07.121051+00:00
+ - user: None
+ - tags: []
+
+## https://esl.cs.brown.edu
+ - [https://esl.cs.brown.edu](https://esl.cs.brown.edu)
+ - date published: 2023-10-25T18:48:26.205486+00:00
+ - user: None
+ - tags: []
+
+## Watson Institute for International and Public Affairs
+ - [https://watson.brown.edu](https://watson.brown.edu)
+ - date published: 2023-10-25T18:48:34.751888+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Boston University
+ - [https://www.bu.edu](https://www.bu.edu)
+ - date published: 2023-10-25T18:48:37.312705+00:00
+ - user: None
+ - tags: []
+
+## Home | Markelz Research Group
+ - [http://markelz.physics.buffalo.edu](http://markelz.physics.buffalo.edu)
+ - date published: 2023-10-25T18:48:40.190828+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the University at Buffalo - University at Buffalo
+ - [http://www.buffalo.edu](http://www.buffalo.edu)
+ - date published: 2023-10-25T18:48:43.864466+00:00
+ - user: None
+ - tags: []
+
+## News Homepage - BYU News
+ - [https://news.byu.edu](https://news.byu.edu)
+ - date published: 2023-10-25T18:48:47.775303+00:00
+ - user: None
+ - tags: []
+
+## Plant & Wildlife Sciences Homepage
+ - [https://pws.byu.edu](https://pws.byu.edu)
+ - date published: 2023-10-25T18:49:07.807137+00:00
+ - user: None
+ - tags: []
+
+## http://users.csc.calpoly.edu
+ - [http://users.csc.calpoly.edu](http://users.csc.calpoly.edu)
+ - date published: 2023-10-25T18:49:10.117700+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Caltech Magazine (formerly Engineering & Science) - Caltech Magazine
+ - [https://calteches.library.caltech.edu](https://calteches.library.caltech.edu)
+ - date published: 2023-10-25T18:49:12.742737+00:00
+ - user: None
+ - tags: []
+
+## Taking to www.astro.caltech.edu
+ - [https://sites.astro.caltech.edu](https://sites.astro.caltech.edu)
+ - date published: 2023-10-25T18:49:21.036394+00:00
+ - user: None
+ - tags: []
+
+## Home
+  
+
+     | 
+    
+    www.caltech.edu
+ - [https://www.caltech.edu](https://www.caltech.edu)
+ - date published: 2023-10-25T18:49:26.802906+00:00
+ - user: None
+ - tags: []
+
+## The Feynman Lectures on Physics
+ - [https://www.feynmanlectures.caltech.edu](https://www.feynmanlectures.caltech.edu)
+ - date published: 2023-10-25T18:49:32.962260+00:00
+ - user: None
+ - tags: []
+
+## ITS - Technology Infrastructure Services
+ - [https://tiswww.case.edu](https://tiswww.case.edu)
+ - date published: 2023-10-25T18:49:35.427501+00:00
+ - user: None
+ - tags: []
+
+## Chapman Blogs | Chapman University
+ - [https://blogs.chapman.edu](https://blogs.chapman.edu)
+ - date published: 2023-10-25T18:49:38.865941+00:00
+ - user: None
+ - tags: []
+
+## CMU CS Academy
+ - [https://academy.cs.cmu.edu](https://academy.cs.cmu.edu)
+ - date published: 2023-10-25T18:49:39.691260+00:00
+ - user: None
+ - tags: []
+
+## Carnegie Mellon Database Group
+ - [https://db.cs.cmu.edu](https://db.cs.cmu.edu)
+ - date published: 2023-10-25T18:49:41.742513+00:00
+ - user: None
+ - tags: []
+
+## Penrose | Penrose
+ - [https://penrose.cs.cmu.edu](https://penrose.cs.cmu.edu)
+ - date published: 2023-10-25T18:49:42.884999+00:00
+ - user: None
+ - tags: []
+
+## index -     Electrical and Computer Engineering -     College of Engineering - Carnegie Mellon University
+ - [https://users.ece.cmu.edu](https://users.ece.cmu.edu)
+ - date published: 2023-10-25T18:49:47.511158+00:00
+ - user: None
+ - tags: []
+
+## Homepage -     CMU - Carnegie Mellon University
+ - [https://www.cmu.edu](https://www.cmu.edu)
+ - date published: 2023-10-25T18:49:49.835716+00:00
+ - user: None
+ - tags: []
+
+## CMU School of Computer Science
+ - [https://www.cs.cmu.edu](https://www.cs.cmu.edu)
+ - date published: 2023-10-25T18:49:52.744969+00:00
+ - user: None
+ - tags: []
+
+## Department of Mathematical Sciences
+ - [https://www.math.cmu.edu](https://www.math.cmu.edu)
+ - date published: 2023-10-25T18:49:53.580780+00:00
+ - user: None
+ - tags: []
+
+## Home | University of Colorado Boulder
+ - [https://www.colorado.edu](https://www.colorado.edu)
+ - date published: 2023-10-25T18:49:55.392617+00:00
+ - user: None
+ - tags: []
+
+## Columbia Magazine
+ - [https://magazine.columbia.edu](https://magazine.columbia.edu)
+ - date published: 2023-10-25T18:49:57.691308+00:00
+ - user: None
+ - tags: []
+
+## Statistical Modeling, Causal Inference, and Social Science
+ - [https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu)
+ - date published: 2023-10-25T18:50:02.076404+00:00
+ - user: None
+ - tags: []
+
+## ViperGPT: Visual Inference via Python Execution for Reasoning
+ - [https://viper.cs.columbia.edu](https://viper.cs.columbia.edu)
+ - date published: 2023-10-25T18:50:05.789837+00:00
+ - user: None
+ - tags: []
+
+## Herbert Irving Comprehensive Cancer Center (HICCC) - New York
+ - [https://www.cancer.columbia.edu](https://www.cancer.columbia.edu)
+ - date published: 2023-10-25T18:50:13.811298+00:00
+ - user: None
+ - tags: []
+
 ## Department of Computer Science, Columbia University
  - [https://www.cs.columbia.edu](https://www.cs.columbia.edu)
  - date published: 2023-10-25T18:50:17.823882+00:00
@@ -1380,6 +1547,12 @@
  - user: None
  - tags: []
 
+## Iowa Now | The University of Iowa
+ - [https://now.uiowa.edu](https://now.uiowa.edu)
+ - date published: 2023-11-19T05:08:59.202397+00:00
+ - user: None
+ - tags: []
+
 ## The Aggregate
  - [http://aggregate.ee.engr.uky.edu](http://aggregate.ee.engr.uky.edu)
  - date published: 2023-10-25T19:01:38.933454+00:00
@@ -1683,6 +1856,12 @@
 ## Welcome
  - [https://golem.ph.utexas.edu](https://golem.ph.utexas.edu)
  - date published: 2023-10-25T19:05:13.177282+00:00
+ - user: None
+ - tags: []
+
+## LBJ School | The University of Texas at Austin | LBJ School of Public Affairs
+ - [https://lbj.utexas.edu](https://lbj.utexas.edu)
+ - date published: 2023-11-19T15:39:17.659158+00:00
  - user: None
  - tags: []
 
@@ -3030,6 +3209,18 @@
  - user: None
  - tags: ['amiga']
 
+## HandBrake - Index page
+ - [https://forum.handbrake.fr](https://forum.handbrake.fr)
+ - date published: 2023-11-19T07:59:22.879848+00:00
+ - user: None
+ - tags: []
+
+## HandBrake: Open Source Video Transcoder
+ - [https://handbrake.fr](https://handbrake.fr)
+ - date published: 2023-11-19T12:04:56+00:00
+ - user: rumpel
+ - tags: ['open source', 'program']
+
 ## Sign in · GitLab
  - [https://gustedt.gitlabpages.inria.fr](https://gustedt.gitlabpages.inria.fr)
  - date published: 2023-10-25T19:15:07.742650+00:00
@@ -3483,6 +3674,12 @@
 ## Sunny Golovine
  - [https://sunny.gg](https://sunny.gg)
  - date published: 2023-10-25T19:17:12.779363+00:00
+ - user: None
+ - tags: []
+
+## T1
+ - [https://t1.gg](https://t1.gg)
+ - date published: 2023-11-19T11:19:04.284643+00:00
  - user: None
  - tags: []
 
@@ -5753,6 +5950,12 @@
  - user: None
  - tags: []
 
+## Zero-k: A libre sci-fi RTS game, with an economy based on metal and energy
+ - [https://zero-k.info](https://zero-k.info)
+ - date published: 2023-11-19T10:43:09+00:00
+ - user: None
+ - tags: []
+
 ## Capsule | Share a link, tell a story.
  - [https://www.capsulel.ink](https://www.capsulel.ink)
  - date published: 2023-10-27T11:57:16.396518+00:00
@@ -5804,204 +6007,6 @@
 ## http://ideas.esa.int
  - [http://ideas.esa.int](http://ideas.esa.int)
  - date published: 2023-10-25T19:36:24.005576+00:00
- - user: None
- - tags: []
-
-## Cosmos Home - Cosmos
- - [http://www.cosmos.esa.int](http://www.cosmos.esa.int)
- - date published: 2023-10-25T19:36:26.329868+00:00
- - user: None
- - tags: []
-
-## European Space Agency
- - [https://www.esa.int](https://www.esa.int)
- - date published: 2023-10-25T19:36:27.942390+00:00
- - user: None
- - tags: []
-
-## EUMETSAT | Monitoring the weather and climate from space | EUMETSAT
- - [https://www.eumetsat.int](https://www.eumetsat.int)
- - date published: 2023-10-25T19:36:32.487462+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.icao.int](https://www.icao.int)
- - date published: 2023-10-25T19:36:35.257231+00:00
- - user: None
- - tags: []
-
-## | International Criminal Court
- - [https://www.icc-cpi.int](https://www.icc-cpi.int)
- - date published: 2023-10-25T19:36:37.915405+00:00
- - user: None
- - tags: []
-
-## NATO - Homepage
- - [https://www.nato.int](https://www.nato.int)
- - date published: 2023-10-25T19:36:41.145399+00:00
- - user: None
- - tags: []
-
-## ReliefWeb - Informing humanitarians worldwide
- - [https://reliefweb.int](https://reliefweb.int)
- - date published: 2023-10-25T19:36:44.632738+00:00
- - user: None
- - tags: []
-
-## World Health Organization (WHO)
- - [https://www.who.int](https://www.who.int)
- - date published: 2023-10-25T19:36:52.392796+00:00
- - user: None
- - tags: []
-
-## World Meteorological Organization |
- - [https://public.wmo.int](https://public.wmo.int)
- - date published: 2023-10-25T19:36:59.974563+00:00
- - user: None
- - tags: []
-
-## 12ft Ladder
- - [https://12ft.io](https://12ft.io)
- - date published: 2023-10-25T19:37:01.821312+00:00
- - user: None
- - tags: []
-
-## F*** Paywalls
- - [https://1ft.io](https://1ft.io)
- - date published: 2023-11-04T16:59:18+00:00
- - user: None
- - tags: []
-
-## former Bell Labs Computing and Mathematical Sciences Research
- - [https://9p.io](https://9p.io)
- - date published: 2023-10-25T19:37:03.235955+00:00
- - user: None
- - tags: []
-
-## abseil / abseil.io
- - [https://abseil.io](https://abseil.io)
- - date published: 2023-10-25T19:37:05.168960+00:00
- - user: None
- - tags: []
-
-## Adalytics
- - [https://adalytics.io](https://adalytics.io)
- - date published: 2023-10-25T19:37:08.319881+00:00
- - user: None
- - tags: []
-
-## AdNauseam
- - [https://adnauseam.io](https://adnauseam.io)
- - date published: 2023-10-25T19:37:10.261889+00:00
- - user: None
- - tags: []
-
-## The World's #1 Product Development Software | Aha!
- - [https://www.aha.io](https://www.aha.io)
- - date published: 2023-10-25T19:37:14.450720+00:00
- - user: None
- - tags: []
-
-## Airframes
- - [https://app.airframes.io](https://app.airframes.io)
- - date published: 2023-10-25T19:37:15.997927+00:00
- - user: None
- - tags: []
-
-## Simple Automation
- - [https://blog.ajour.io](https://blog.ajour.io)
- - date published: 2023-10-25T19:37:17.812878+00:00
- - user: None
- - tags: []
-
-## Deploy to Kubernetes safely and at scale with Argo CD as a managed service | Akuity
- - [https://akuity.io](https://akuity.io)
- - date published: 2023-10-25T19:37:25.269732+00:00
- - user: None
- - tags: []
-
-## Alex Ellis' Blog
- - [https://blog.alexellis.io](https://blog.alexellis.io)
- - date published: 2023-10-25T08:59:05.007883+00:00
- - user: None
- - tags: ['personal']
-
-## Algora
- - [https://console.algora.io](https://console.algora.io)
- - date published: 2023-10-25T19:37:26.590641+00:00
- - user: None
- - tags: []
-
-## AltStore
- - [https://altstore.io](https://altstore.io)
- - date published: 2023-10-25T19:37:28.350698+00:00
- - user: None
- - tags: []
-
-## Ameliorated.io
- - [https://ameliorated.io](https://ameliorated.io)
- - date published: 2023-10-25T19:37:30.300979+00:00
- - user: None
- - tags: []
-
-## American Express Technology
- - [https://americanexpress.io](https://americanexpress.io)
- - date published: 2023-10-25T19:37:33.148951+00:00
- - user: None
- - tags: []
-
-## Angular
- - [https://angular.io](https://angular.io)
- - date published: 2023-10-27T12:21:52.948727+00:00
- - user: None
- - tags: ['angular']
-
-## Angular Blog
- - [https://blog.angular.io](https://blog.angular.io)
- - date published: 2023-10-25T19:37:37.334016+00:00
- - user: None
- - tags: []
-
-## The Everything App
- - [https://anytype.io](https://anytype.io)
- - date published: 2023-10-25T19:37:39.588844+00:00
- - user: None
- - tags: []
-
-## API Handyman
- - [https://apihandyman.io](https://apihandyman.io)
- - date published: 2023-10-25T19:37:41.287684+00:00
- - user: None
- - tags: []
-
-## Ultra simple back end for static websites
- - [https://appbackend.io](https://appbackend.io)
- - date published: 2023-11-02T23:57:04+00:00
- - user: None
- - tags: []
-
-## The AppCensus Blog
- - [https://blog.appcensus.io](https://blog.appcensus.io)
- - date published: 2023-10-25T19:37:44.083298+00:00
- - user: None
- - tags: []
-
-## Apricitas Economics | Joseph Politano | Substack
- - [https://www.apricitas.io](https://www.apricitas.io)
- - date published: 2023-10-25T19:37:47.487142+00:00
- - user: None
- - tags: []
-
-## Open-source data curation platform for LLMs
- - [https://argilla.io](https://argilla.io)
- - date published: 2023-10-25T19:37:49.975085+00:00
- - user: None
- - tags: []
-
-## Fatih Arslan
- - [https://arslan.io](https://arslan.io)
- - date published: 2023-10-25T19:37:51.402475+00:00
  - user: None
  - tags: []
 

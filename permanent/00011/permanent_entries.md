@@ -1,3 +1,207 @@
+## The EastAfrican
+ - [https://www.theeastafrican.co.ke](https://www.theeastafrican.co.ke)
+ - date published: 2023-10-25T20:17:16.702238+00:00
+ - user: None
+ - tags: []
+
+## Tuko News - Breaking News, Kenya News, World News Today
+ - [https://www.tuko.co.ke](https://www.tuko.co.ke)
+ - date published: 2023-10-25T11:47:20.087461+00:00
+ - user: None
+ - tags: []
+
+## SYSSEC
+ - [https://syssec.kaist.ac.kr](https://syssec.kaist.ac.kr)
+ - date published: 2023-10-25T20:17:21.001514+00:00
+ - user: None
+ - tags: []
+
+## English Edition : The Hankyoreh
+ - [https://english.hani.co.kr](https://english.hani.co.kr)
+ - date published: 2023-11-08T12:51:12.262880+00:00
+ - user: None
+ - tags: []
+
+## https://m.koreatimes.co.kr
+ - [https://m.koreatimes.co.kr](https://m.koreatimes.co.kr)
+ - date published: 2023-11-06T20:12:00.704345+00:00
+ - user: None
+ - tags: []
+
+## http://www.koreatimes.co.kr
+ - [http://www.koreatimes.co.kr](http://www.koreatimes.co.kr)
+ - date published: 2023-10-25T20:17:22.559257+00:00
+ - user: None
+ - tags: []
+
+## dot.LA
+ - [https://dot.la](https://dot.la)
+ - date published: 2023-10-25T20:17:32.149624+00:00
+ - user: None
+ - tags: []
+
+## Intro | Putting the "You" in CPU
+ - [https://cpu.land](https://cpu.land)
+ - date published: 2023-10-25T20:17:37.959240+00:00
+ - user: None
+ - tags: []
+
+## Deno by Example
+ - [https://examples.deno.land](https://examples.deno.land)
+ - date published: 2023-10-25T08:35:20.172288+00:00
+ - user: None
+ - tags: []
+
+## Erika Rowland
+ - [https://erikarow.land](https://erikarow.land)
+ - date published: 2023-10-27T02:22:33.008024+00:00
+ - user: None
+ - tags: []
+
+## The Indiependent | Rosie Sherry | Substack
+ - [https://www.indiependent.land](https://www.indiependent.land)
+ - date published: 2023-10-25T20:17:40.510359+00:00
+ - user: None
+ - tags: []
+
+## Ismail Elouafiq
+ - [https://www.ismail.land](https://www.ismail.land)
+ - date published: 2023-11-17T07:30:34.168221+00:00
+ - user: None
+ - tags: ['personal']
+
+## welcome. | maya.land
+ - [https://maya.land](https://maya.land)
+ - date published: 2023-10-25T20:17:42.650479+00:00
+ - user: None
+ - tags: []
+
+## The atomic web toolkit for pragmatists | a17t
+ - [https://a17t.miles.land](https://a17t.miles.land)
+ - date published: 2023-10-25T20:17:43.810118+00:00
+ - user: None
+ - tags: []
+
+## R. Miles McCain | About, contact, and portfolio
+ - [https://miles.land](https://miles.land)
+ - date published: 2023-10-25T20:17:44.827325+00:00
+ - user: None
+ - tags: []
+
+## nami.land
+ - [https://nami.land](https://nami.land)
+ - date published: 2023-10-25T20:17:45.915791+00:00
+ - user: None
+ - tags: []
+
+## This page is no longer available due to ending availability of Gatsby Cloud.
+ - [https://oio.land](https://oio.land)
+ - date published: 2023-10-25T20:17:46.574075+00:00
+ - user: None
+ - tags: []
+
+## Rosieland
+ - [https://rosie.land](https://rosie.land)
+ - date published: 2023-10-25T20:17:48.264563+00:00
+ - user: None
+ - tags: []
+
+## Immigration for Startups, Founders, and Companies
+ - [https://www.alcorn.law](https://www.alcorn.law)
+ - date published: 2023-10-25T20:17:51.883094+00:00
+ - user: None
+ - tags: []
+
+## Read Caselaw | Caselaw Access Project
+ - [https://cite.case.law](https://cite.case.law)
+ - date published: 2023-11-03T05:08:43.245024+00:00
+ - user: None
+ - tags: []
+
+## Los Angeles Personal Injury Lawyer | $10 Billion+ Won For Clients
+ - [https://www.psbr.law](https://www.psbr.law)
+ - date published: 2023-10-25T20:17:55.746662+00:00
+ - user: None
+ - tags: []
+
+## Homepage - MTV Lebanon
+ - [https://www.mtv.com.lb](https://www.mtv.com.lb)
+ - date published: 2023-11-05T16:53:37.498703+00:00
+ - user: None
+ - tags: []
+
+## Bridge | Where Immigration Meets Innovation
+ - [https://www.bridge.legal](https://www.bridge.legal)
+ - date published: 2023-10-25T20:17:57.823788+00:00
+ - user: None
+ - tags: []
+
+## decoded.legal
+ - [https://decoded.legal](https://decoded.legal)
+ - date published: 2023-10-25T20:17:58.671735+00:00
+ - user: None
+ - tags: []
+
+## Wiki - Front Page
+ - [https://wiki.alopex.li](https://wiki.alopex.li)
+ - date published: 2023-10-25T20:17:59.299382+00:00
+ - user: None
+ - tags: []
+
+## Cock.li – Tor-friendly, free E-mail and XMPP provider
+ - [https://cock.li](https://cock.li)
+ - date published: 2023-11-07T14:44:07+00:00
+ - user: None
+ - tags: []
+
+## The Earth
+ - [https://www.earth.li](https://www.earth.li)
+ - date published: 2023-10-25T20:17:59.815511+00:00
+ - user: None
+ - tags: []
+
+## Jesse Li
+ - [https://blog.jse.li](https://blog.jse.li)
+ - date published: 2023-10-25T20:18:00.622412+00:00
+ - user: None
+ - tags: []
+
+## Francesco Mazzoli
+ - [https://mazzo.li](https://mazzo.li)
+ - date published: 2023-10-25T08:49:50.321389+00:00
+ - user: None
+ - tags: ['personal']
+
+## Omar Kamali | Founder, Engineer & Strategic Technology Advisor
+ - [https://omarkama.li](https://omarkama.li)
+ - date published: 2023-10-31T00:57:49.537580+00:00
+ - user: None
+ - tags: []
+
+## tortel.li
+ - [https://tortel.li](https://tortel.li)
+ - date published: 2023-10-25T20:18:02.544996+00:00
+ - user: None
+ - tags: []
+
+## The Cat Fox Life – Photography, cats, computing, and anecdotes from an Oklahoman fox.
+ - [https://catfox.life](https://catfox.life)
+ - date published: 2023-10-25T20:18:04.685223+00:00
+ - user: None
+ - tags: []
+
+## Clues Dot Life
+ - [https://www.clues.life](https://www.clues.life)
+ - date published: 2023-10-25T20:18:08.324160+00:00
+ - user: None
+ - tags: []
+
+## Home - Earth4All
+ - [https://earth4all.life](https://earth4all.life)
+ - date published: 2023-10-25T20:18:15.902498+00:00
+ - user: None
+ - tags: []
+
 ## Dan Fernandez Home Page – Dan Fernandez
  - [https://fernandez.life](https://fernandez.life)
  - date published: 2023-10-25T09:26:30.059169+00:00
@@ -749,6 +953,12 @@
  - user: None
  - tags: ['personal']
 
+## Uzyskaj własne łącze PayPal.Me
+ - [https://paypal.me](https://paypal.me)
+ - date published: 2023-11-19T21:29:39+00:00
+ - user: rumpel
+ - tags: ['crowdfunding']
+
 ## Paul Brown
  - [https://pbrown.me](https://pbrown.me)
  - date published: 2023-10-25T08:59:59.207817+00:00
@@ -1022,6 +1232,12 @@
 ## Victor Mota
  - [https://vimota.me](https://vimota.me)
  - date published: 2023-10-25T08:51:22.371547+00:00
+ - user: None
+ - tags: ['personal']
+
+## Venkkatesh Sekar
+ - [https://vsekar.me](https://vsekar.me)
+ - date published: 2023-11-19T12:38:58.925737+00:00
  - user: None
  - tags: ['personal']
 
@@ -1605,7 +1821,7 @@
  - [https://amigaworld.net](https://amigaworld.net)
  - date published: 2023-10-27T14:32:09.267109+00:00
  - user: None
- - tags: ['amiga', 'news']
+ - tags: ['amiga', 'retro news']
 
 ## Aminet - Latest packages, last 14 days
  - [https://www.aminet.net](https://www.aminet.net)
@@ -3781,6 +3997,12 @@
  - user: None
  - tags: []
 
+## Home - OpenSource.net
+ - [https://opensource.net](https://opensource.net)
+ - date published: 2023-11-19T06:48:48.853037+00:00
+ - user: None
+ - tags: ['open source', 'tech news']
+
 ## The Opt Out Project
  - [https://www.optoutproject.net](https://www.optoutproject.net)
  - date published: 2023-10-25T20:35:18.928134+00:00
@@ -5772,227 +5994,4 @@
  - date published: 2023-10-25T09:26:39.160690+00:00
  - user: None
  - tags: ['personal']
-
-## NRK.no – nyheter, tv og radio fra Norge og hele verden
- - [https://www.nrk.no](https://www.nrk.no)
- - date published: 2023-10-27T12:06:00.384332+00:00
- - user: None
- - tags: []
-
-## NRKbeta
- - [https://nrkbeta.no](https://nrkbeta.no)
- - date published: 2023-10-27T12:06:09.586789+00:00
- - user: None
- - tags: []
-
-## bsdly.net - Reliable Networking With Free Software
- - [https://nxdomain.no](https://nxdomain.no)
- - date published: 2023-10-27T12:06:10.297276+00:00
- - user: None
- - tags: []
-
-## Home | Patricia Aas - Programmer
- - [https://patricia.no](https://patricia.no)
- - date published: 2023-10-27T12:06:11.527326+00:00
- - user: None
- - tags: []
-
-## Sciencenorway - Science News from Norway
- - [https://sciencenorway.no](https://sciencenorway.no)
- - date published: 2023-10-25T10:11:59.195592+00:00
- - user: None
- - tags: []
-
-## SECRET GARDEN
- - [https://www.secretgarden.no](https://www.secretgarden.no)
- - date published: 2023-11-13T11:05:43.854609+00:00
- - user: None
- - tags: ['music band']
-
-## Person - Skatteetaten
- - [https://www.skatteetaten.no](https://www.skatteetaten.no)
- - date published: 2023-10-27T12:06:13.607518+00:00
- - user: None
- - tags: []
-
-## Et ledende miljø i norsk romindustri | Space Norway
- - [https://spacenorway.no](https://spacenorway.no)
- - date published: 2023-11-10T16:04:50.344777+00:00
- - user: None
- - tags: []
-
-## Sysselmesteren på Svalbard
- - [https://www.sysselmesteren.no](https://www.sysselmesteren.no)
- - date published: 2023-10-27T12:06:14.747150+00:00
- - user: None
- - tags: []
-
-## Homepage | Telia Engineering
- - [https://engineering.telia.no](https://engineering.telia.no)
- - date published: 2023-10-27T12:06:15.995309+00:00
- - user: None
- - tags: []
-
-## Tim Hårek
- - [https://timharek.no](https://timharek.no)
- - date published: 2023-10-25T20:48:55.149316+00:00
- - user: None
- - tags: []
-
-## Manu Cornet's website
- - [https://ma.nu](https://ma.nu)
- - date published: 2023-10-25T20:48:57.839136+00:00
- - user: None
- - tags: []
-
-## Start
- - [https://www.malarna.nu](https://www.malarna.nu)
- - date published: 2023-11-10T14:03:58.337435+00:00
- - user: None
- - tags: []
-
-## Marginalia Downloads
- - [https://downloads.marginalia.nu](https://downloads.marginalia.nu)
- - date published: 2023-10-25T08:29:33.050968+00:00
- - user: None
- - tags: []
-
-## www.marginalia.nu @
-marginalia.nu
- - [https://memex.marginalia.nu](https://memex.marginalia.nu)
- - date published: 2023-10-25T20:48:59.430464+00:00
- - user: None
- - tags: []
-
-## Marginalia Search
- - [https://search.marginalia.nu](https://search.marginalia.nu)
- - date published: 2023-10-25T13:51:19.392203+00:00
- - user: None
- - tags: ['search engine']
-
-## www.marginalia.nu
- - [https://www.marginalia.nu](https://www.marginalia.nu)
- - date published: 2023-10-25T08:29:34.569325+00:00
- - user: None
- - tags: ['search engine']
-
-## QuakeWorld.nu
- - [https://www.quakeworld.nu](https://www.quakeworld.nu)
- - date published: 2023-10-28T20:28:45.927247+00:00
- - user: None
- - tags: []
-
-## Shantnu's Silent Site
- - [https://shant.nu](https://shant.nu)
- - date published: 2023-10-25T20:49:02.194922+00:00
- - user: None
- - tags: []
-
-## The Voynich Manuscript
- - [https://voynich.nu](https://voynich.nu)
- - date published: 2023-11-15T17:43:27.049719+00:00
- - user: None
- - tags: ['personal']
-
-## Lily Ray: NYC Based SEO Professional, DJ, & Drummer 😏
- - [https://lilyray.nyc](https://lilyray.nyc)
- - date published: 2023-11-02T09:00:26.721068+00:00
- - user: None
- - tags: ['seo']
-
-## THE CITY - NYC News
- - [https://www.thecity.nyc](https://www.thecity.nyc)
- - date published: 2023-10-25T20:49:08.995182+00:00
- - user: None
- - tags: []
-
-## Welcome - The University of Auckland
- - [https://www.auckland.ac.nz](https://www.auckland.ac.nz)
- - date published: 2023-10-30T07:13:26.243060+00:00
- - user: None
- - tags: []
-
-## University of Otago
- - [https://www.otago.ac.nz](https://www.otago.ac.nz)
- - date published: 2023-10-30T21:58:29.556224+00:00
- - user: None
- - tags: []
-
-## Alpha Rail - Rail Design, Consultancy, Construction and Plant
- - [https://www.alpharail.co.nz](https://www.alpharail.co.nz)
- - date published: 2023-10-25T20:49:14.642345+00:00
- - user: None
- - tags: []
-
-## Unofficial CD32 Ports
- - [https://unofficial-cd32-ports.blogspot.co.nz](https://unofficial-cd32-ports.blogspot.co.nz)
- - date published: 2023-11-02T09:51:01.000200+00:00
- - user: None
- - tags: ['amiga']
-
-## New Zealand Cyber Security Blog | CyberCX
- - [https://blog.cybercx.co.nz](https://blog.cybercx.co.nz)
- - date published: 2023-10-25T20:49:21.245581+00:00
- - user: None
- - tags: []
-
-## Google
- - [https://www.google.co.nz](https://www.google.co.nz)
- - date published: 2023-10-25T20:49:22.482071+00:00
- - user: None
- - tags: []
-
-## Niche Software - Niche Software
- - [https://www.nichesoftware.co.nz](https://www.nichesoftware.co.nz)
- - date published: 2023-10-25T20:49:26.344940+00:00
- - user: None
- - tags: []
-
-## NZ Herald: Latest NZ news, plus World, Sport, Business and more - NZ Herald
- - [https://www.nzherald.co.nz](https://www.nzherald.co.nz)
- - date published: 2023-10-25T20:50:14.328097+00:00
- - user: None
- - tags: []
-
-## Pulse Security
- - [https://pulsesecurity.co.nz](https://pulsesecurity.co.nz)
- - date published: 2023-10-25T20:50:15.343196+00:00
- - user: None
- - tags: []
-
-## Reseller News - The voice of the New Zealand IT channel
- - [https://www.reseller.co.nz](https://www.reseller.co.nz)
- - date published: 2023-10-25T20:50:24.511375+00:00
- - user: None
- - tags: []
-
-## RNZ - NZ News, Current Affairs, Audio On Demand
- - [https://www.rnz.co.nz](https://www.rnz.co.nz)
- - date published: 2023-10-25T20:50:30.480752+00:00
- - user: None
- - tags: []
-
-## Latest breaking news NZ | Stuff.co.nz | New Zealand
- - [https://www.stuff.co.nz](https://www.stuff.co.nz)
- - date published: 2023-10-25T20:50:45.473515+00:00
- - user: None
- - tags: []
-
-## Maori Geek
- - [https://maori.geek.nz](https://maori.geek.nz)
- - date published: 2023-10-25T20:50:54.301684+00:00
- - user: None
- - tags: []
-
-## Arabesque | Systems, Tools, and Terminal Science
- - [https://blog.sanctum.geek.nz](https://blog.sanctum.geek.nz)
- - date published: 2023-10-25T20:51:00.552568+00:00
- - user: None
- - tags: []
-
-## SmartView Christchurch
- - [https://smartview.ccc.govt.nz](https://smartview.ccc.govt.nz)
- - date published: 2023-10-25T20:51:03.510470+00:00
- - user: None
- - tags: []
 

@@ -1,3 +1,243 @@
+## Last Chance to Fix eIDAS (Mozilla)
+ - [https://last-chance-for-eidas.org](https://last-chance-for-eidas.org)
+ - date published: 2023-11-02T05:57:42+00:00
+ - user: None
+ - tags: []
+
+## Mastodon
+ - [https://mastodon.laurenweinstein.org](https://mastodon.laurenweinstein.org)
+ - date published: 2023-10-25T21:38:06.486264+00:00
+ - user: None
+ - tags: []
+
+## https://www.lawfaremedia.org
+ - [https://www.lawfaremedia.org](https://www.lawfaremedia.org)
+ - date published: 2023-10-30T04:52:46.101056+00:00
+ - user: None
+ - tags: []
+
+## Law & Liberty, part of the Liberty Fund Network
+ - [https://lawliberty.org](https://lawliberty.org)
+ - date published: 2023-10-25T21:38:09.051770+00:00
+ - user: None
+ - tags: []
+
+## 🚀 Getting Started | LazyVim
+ - [https://www.lazyvim.org](https://www.lazyvim.org)
+ - date published: 2023-10-25T08:35:28.988360+00:00
+ - user: None
+ - tags: []
+
+## Learn About Electronics - Home Page
+ - [https://learnabout-electronics.org](https://learnabout-electronics.org)
+ - date published: 2023-10-25T21:38:15.033617+00:00
+ - user: None
+ - tags: []
+
+## LENFEST INSTITUTE -
+ - [https://www.lenfestinstitute.org](https://www.lenfestinstitute.org)
+ - date published: 2023-10-25T21:38:16.663488+00:00
+ - user: None
+ - tags: []
+
+## Let Grow - When Adults Step Back, Kids Step Up.
+ - [https://letgrow.org](https://letgrow.org)
+ - date published: 2023-10-25T21:38:20.621745+00:00
+ - user: None
+ - tags: []
+
+## Lets-Plot: open-source plotting library for statistical data
+ - [https://lets-plot.org](https://lets-plot.org)
+ - date published: 2023-10-25T21:38:26.790873+00:00
+ - user: None
+ - tags: []
+
+## Let's Encrypt Community Support
+ - [https://community.letsencrypt.org](https://community.letsencrypt.org)
+ - date published: 2023-10-25T21:38:30.513053+00:00
+ - user: None
+ - tags: []
+
+## Let's Encrypt
+ - [https://letsencrypt.org](https://letsencrypt.org)
+ - date published: 2023-10-25T08:33:56.588669+00:00
+ - user: None
+ - tags: []
+
+## https://lfortran.org
+ - [https://lfortran.org](https://lfortran.org)
+ - date published: 2023-10-25T21:38:31.696970+00:00
+ - user: None
+ - tags: []
+
+## libcamera.org git repository browser
+ - [https://git.libcamera.org](https://git.libcamera.org)
+ - date published: 2023-10-25T21:38:32.187144+00:00
+ - user: None
+ - tags: []
+
+## Online Library of Liberty
+ - [https://oll.libertyfund.org](https://oll.libertyfund.org)
+ - date published: 2023-10-25T21:38:34.220715+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://librearts.org](https://librearts.org)
+ - date published: 2023-11-11T17:39:29.225756+00:00
+ - user: None
+ - tags: ['linux']
+
+## Libreboot – Libreboot project
+ - [https://libreboot.org](https://libreboot.org)
+ - date published: 2023-10-25T21:38:35.428842+00:00
+ - user: None
+ - tags: []
+
+## Create electronics the easy way | LibrePCB
+ - [https://librepcb.org](https://librepcb.org)
+ - date published: 2023-10-25T21:38:40.170206+00:00
+ - user: None
+ - tags: []
+
+## LibrePlanet
+ - [https://libreplanet.org](https://libreplanet.org)
+ - date published: 2023-10-25T21:38:48.708694+00:00
+ - user: None
+ - tags: []
+
+## LibriVox  | free public domain audiobooks
+ - [https://librivox.org](https://librivox.org)
+ - date published: 2023-10-25T11:35:50.460711+00:00
+ - user: None
+ - tags: ['audiobooks']
+
+## lichess.org • Free Online Chess
+ - [https://lichess.org](https://lichess.org)
+ - date published: 2023-10-25T21:38:50.442880+00:00
+ - user: None
+ - tags: []
+
+## Lily's Things at The Cool Site
+ - [https://www.lilysthings.org](https://www.lilysthings.org)
+ - date published: 2023-10-25T21:38:51.555067+00:00
+ - user: None
+ - tags: []
+
+## The National Lime Association – NLA – NLA's mission is to represent, protect, and promote the nation's lime industry.
+ - [https://www.lime.org](https://www.lime.org)
+ - date published: 2023-10-27T04:21:17.555582+00:00
+ - user: None
+ - tags: []
+
+## Accelerating deployment of Arm-based solutions | Linaro
+ - [https://www.linaro.org](https://www.linaro.org)
+ - date published: 2023-10-25T21:38:54.212541+00:00
+ - user: None
+ - tags: []
+
+## LineageOS – LineageOS Android Distribution
+ - [https://lineageos.org](https://lineageos.org)
+ - date published: 2023-10-25T08:32:27.769540+00:00
+ - user: None
+ - tags: ['operating system', 'lineageos', 'android']
+
+## Linear Book Scanner - The open-source automatic book scanner
+ - [https://linearbookscanner.org](https://linearbookscanner.org)
+ - date published: 2023-10-25T08:36:34.572791+00:00
+ - user: None
+ - tags: []
+
+## The Linux Information Project (LINFO) Home Page
+ - [https://www.linfo.org](https://www.linfo.org)
+ - date published: 2023-10-25T21:38:55.368279+00:00
+ - user: None
+ - tags: []
+
+## Linux.org
+ - [https://www.linux.org](https://www.linux.org)
+ - date published: 2023-10-25T21:38:58.347661+00:00
+ - user: None
+ - tags: []
+
+## KVM
+ - [https://www.linux-kvm.org](https://www.linux-kvm.org)
+ - date published: 2023-10-25T21:39:00.493933+00:00
+ - user: None
+ - tags: []
+
+## Linux Containers Forum
+ - [https://discuss.linuxcontainers.org](https://discuss.linuxcontainers.org)
+ - date published: 2023-10-25T21:39:03.769630+00:00
+ - user: None
+ - tags: []
+
+## Linux Containers
+ - [https://linuxcontainers.org](https://linuxcontainers.org)
+ - date published: 2023-10-25T21:39:05.617056+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Linux From Scratch!
+ - [https://www.linuxfromscratch.org](https://www.linuxfromscratch.org)
+ - date published: 2023-10-25T21:39:07.168165+00:00
+ - user: None
+ - tags: []
+
+## LiteDB :: A .NET embedded NoSQL database
+ - [https://www.litedb.org](https://www.litedb.org)
+ - date published: 2023-10-25T21:39:07.941318+00:00
+ - user: None
+ - tags: []
+
+## Take a Book. Share a Book. - Little Free Library
+ - [https://littlefreelibrary.org](https://littlefreelibrary.org)
+ - date published: 2023-10-25T21:39:11.222918+00:00
+ - user: None
+ - tags: []
+
+## Live Action |  Pro-Life Advocacy for Dignity and Human Rights
+ - [https://www.liveaction.org](https://www.liveaction.org)
+ - date published: 2023-10-25T21:39:14.444748+00:00
+ - user: None
+ - tags: []
+
+## LKML.ORG - the Linux Kernel Mailing List Archive
+ - [https://lkml.org](https://lkml.org)
+ - date published: 2023-11-13T12:04:53.320666+00:00
+ - user: None
+ - tags: []
+
+## Universal and Transferable Attacks on Aligned Language Models
+ - [https://llm-attacks.org](https://llm-attacks.org)
+ - date published: 2023-10-25T21:39:17.051556+00:00
+ - user: None
+ - tags: []
+
+## GPU Utils ⚡️
+ - [https://gpus.llm-utils.org](https://gpus.llm-utils.org)
+ - date published: 2023-10-25T21:39:18.562208+00:00
+ - user: None
+ - tags: []
+
+## Home - LLM Utils
+ - [https://llm-utils.org](https://llm-utils.org)
+ - date published: 2023-10-25T21:39:20.535334+00:00
+ - user: None
+ - tags: []
+
+## LLVM Discussion Forums - Our community includes both users and developers of various compiler technologies within the LLVM project.
+ - [https://discourse.llvm.org](https://discourse.llvm.org)
+ - date published: 2023-10-25T21:39:24.567913+00:00
+ - user: None
+ - tags: []
+
+## The LLVM Compiler Infrastructure Project
+ - [https://llvm.org](https://llvm.org)
+ - date published: 2023-10-25T21:39:28.896311+00:00
+ - user: None
+ - tags: []
+
 ## Download LLVM releases
  - [https://releases.llvm.org](https://releases.llvm.org)
  - date published: 2023-10-25T21:39:30.474866+00:00
@@ -2001,6 +2241,12 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
+## PBS North Carolina
+ - [https://www.pbsnc.org](https://www.pbsnc.org)
+ - date published: 2023-11-19T19:54:33.463328+00:00
+ - user: None
+ - tags: []
+
 ## PCG, A Family of Better Random Number Generators | PCG, A Better Random Number Generator
  - [https://www.pcg-random.org](https://www.pcg-random.org)
  - date published: 2023-10-25T21:56:20.672047+00:00
@@ -3192,6 +3438,12 @@ Common Weakness Enumeration
 ## SAT Competitions
  - [http://www.satcompetition.org](http://www.satcompetition.org)
  - date published: 2023-10-25T22:06:06.919026+00:00
+ - user: None
+ - tags: []
+
+## Home - Sat Saheb
+ - [https://www.satsaheb.org](https://www.satsaheb.org)
+ - date published: 2023-11-19T16:19:23.198165+00:00
  - user: None
  - tags: []
 
@@ -4919,6 +5171,12 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
+## A virtual museum of Tektronix products, technology, and people
+ - [https://vintagetek.org](https://vintagetek.org)
+ - date published: 2023-11-19T23:34:21.585596+00:00
+ - user: None
+ - tags: []
+
 ## The Viridian Design Movement
  - [https://www.viridiandesign.org](https://www.viridiandesign.org)
  - date published: 2023-10-25T22:17:40.101109+00:00
@@ -5700,6 +5958,12 @@ Zig Programming Language
  - user: None
  - tags: []
 
+## Buffer
+ - [https://buffer.start.page](https://buffer.start.page)
+ - date published: 2023-11-19T15:19:04.082607+00:00
+ - user: None
+ - tags: []
+
 ## Superfunctions - Ai Prompts as a service
  - [https://superfunctions.versoly.page](https://superfunctions.versoly.page)
  - date published: 2023-10-25T22:24:38.792551+00:00
@@ -5736,268 +6000,4 @@ is forbidden
  - date published: 2023-10-25T22:24:44.942470+00:00
  - user: None
  - tags: []
-
-## Tiny Code Christmas
- - [https://tcc.lovebyte.party](https://tcc.lovebyte.party)
- - date published: 2023-10-25T22:24:45.776384+00:00
- - user: None
- - tags: []
-
-## Matthew Pope
- - [https://mattpo.pe](https://mattpo.pe)
- - date published: 2023-10-25T22:24:47.280695+00:00
- - user: None
- - tags: []
-
-## Telegraph
- - [https://telegra.ph](https://telegra.ph)
- - date published: 2023-10-25T22:24:48.190795+00:00
- - user: None
- - tags: []
-
-## Generated Photos | Unique, worry-free model photos
- - [https://generated.photos](https://generated.photos)
- - date published: 2023-10-25T22:24:50.468939+00:00
- - user: None
- - tags: []
-
-## ANDROID.COM.PL - społeczność entuzjastów technologii
- - [https://android.com.pl](https://android.com.pl)
- - date published: 2023-10-25T22:24:55.790888+00:00
- - user: None
- - tags: []
-
-## Sklep Elektroniczny Botland - Sklep z Elektroniką
- - [https://botland.com.pl](https://botland.com.pl)
- - date published: 2023-10-25T11:16:01.784913+00:00
- - user: None
- - tags: ['electronic parts']
-
-## BrandMe CEO
- - [https://brandmeceo.businessinsider.com.pl](https://brandmeceo.businessinsider.com.pl)
- - date published: 2023-10-25T22:24:57.674006+00:00
- - user: None
- - tags: []
-
-## Business Insider Polska
- - [https://businessinsider.com.pl](https://businessinsider.com.pl)
- - date published: 2023-10-25T10:58:26.656129+00:00
- - user: None
- - tags: []
-
-## https://www.euro.com.pl
- - [https://www.euro.com.pl](https://www.euro.com.pl)
- - date published: 2023-10-24T20:17:32.488635+00:00
- - user: None
- - tags: ['electronics', 'shop']
-
-## Flamberg - gry planszowe Katowice
- - [https://flamberg.com.pl](https://flamberg.com.pl)
- - date published: 2023-11-01T19:12:06.616555+00:00
- - user: None
- - tags: ['tabletop games', 'shop', 'board games', 'wargames']
-
-## Gandalf.com.pl - księgarnia i sklep internetowy z zabawkami, muzyką i perfumami
- - [https://www.gandalf.com.pl](https://www.gandalf.com.pl)
- - date published: 2023-10-24T20:18:08.254055+00:00
- - user: None
- - tags: []
-
-## Jbzd.com.pl - najgorsze obrazki w internecie!
- - [https://jbzd.com.pl](https://jbzd.com.pl)
- - date published: 2023-10-27T11:55:01.917890+00:00
- - user: None
- - tags: ['funny images', 'memes']
-
-## Oficjalna strona zespołu LADY PANK » Strona główna
- - [http://www.lady-pank.com.pl](http://www.lady-pank.com.pl)
- - date published: 2023-10-30T13:32:30.328651+00:00
- - user: None
- - tags: ['music band']
-
-## PAN OD KULTURY
- - [https://panodkultury.com.pl](https://panodkultury.com.pl)
- - date published: 2023-10-27T13:12:52.295579+00:00
- - user: None
- - tags: []
-
-## FISZ EMADE - TWORZYWO
- - [http://tworzywo.com.pl](http://tworzywo.com.pl)
- - date published: 2023-10-29T15:32:10.429259+00:00
- - user: None
- - tags: ['music band']
-
-## Wilki - Oficjalna Strona Zespołu - Strona Główna
- - [http://www.wilki.com.pl](http://www.wilki.com.pl)
- - date published: 2023-11-13T10:21:16.087686+00:00
- - user: None
- - tags: ['music band']
-
-## Wolni i Solidarni – Wolni i Solidarni – Partia polityczna Kornela Morawieckiego. Koło Częstochowa. Dotyczy spraw politycznych ale także historii i przyszłości.
- - [https://www.wolniisolidarni.czest.pl](https://www.wolniisolidarni.czest.pl)
- - date published: 2023-10-25T22:25:00.119842+00:00
- - user: None
- - tags: []
-
-## Strona główna - Uniwersytet im. Adama Mickiewicza w Poznaniu
- - [https://amu.edu.pl](https://amu.edu.pl)
- - date published: 2023-10-27T13:02:57.267906+00:00
- - user: None
- - tags: ['university']
-
-## Serwis prasowy IFJ PAN
- - [https://press.ifj.edu.pl](https://press.ifj.edu.pl)
- - date published: 2023-10-25T22:25:01.663981+00:00
- - user: None
- - tags: []
-
-## Narodowy Fundusz Zdrowia (NFZ) – finansujemy zdrowie Polaków
- - [https://www.nfz.gov.pl](https://www.nfz.gov.pl)
- - date published: 2023-10-25T22:25:03.318274+00:00
- - user: None
- - tags: ['government', 'healthcare']
-
-## Najwyższa Izba Kontroli
- - [https://www.nik.gov.pl](https://www.nik.gov.pl)
- - date published: 2023-11-16T16:54:09.383687+00:00
- - user: None
- - tags: []
-
-## Portal Gov.pl
- - [https://www.gov.pl](https://www.gov.pl)
- - date published: 2023-10-25T22:25:05.025399+00:00
- - user: None
- - tags: ['government']
-
-## Amiga – gry i porady – Serwis o komputerach i grach
- - [https://amiga.net.pl](https://amiga.net.pl)
- - date published: 2023-10-30T10:11:58.772522+00:00
- - user: None
- - tags: []
-
-## Sterowniki, Programy, Gry i Aktualności - Download.net.pl
- - [https://www.download.net.pl](https://www.download.net.pl)
- - date published: 2023-11-17T21:42:39+00:00
- - user: rumpel
- - tags: ['downloads', 'drivers', 'game news', 'programs']
-
-## Nowiny - Modyfikacje Heroes III - Jaskinia Behemota
- - [https://h3mods.heroes.net.pl](https://h3mods.heroes.net.pl)
- - date published: 2023-10-25T11:18:35.910684+00:00
- - user: None
- - tags: []
-
-## Psychologia.net.pl  - portal psychologiczny
- - [http://www.psychologia.net.pl](http://www.psychologia.net.pl)
- - date published: 2023-10-25T22:25:05.755276+00:00
- - user: None
- - tags: []
-
-## QUAKE.net.pl - Największy Polski Serwis o Quake Live, Quake Champions, Quake 3 I Quake 4 - pliki, artykuły, newsy, forum
- - [https://quake.net.pl](https://quake.net.pl)
- - date published: 2023-10-25T11:18:37.970311+00:00
- - user: None
- - tags: []
-
-## Portal AMIGA ORG PL – amiga.org.pl
- - [https://amiga.org.pl](https://amiga.org.pl)
- - date published: 2023-10-30T10:12:38.092153+00:00
- - user: None
- - tags: []
-
-## DEMAGOG - fakty są najważniejsze! Weryfikujemy i kontrolujemy.
- - [https://demagog.org.pl](https://demagog.org.pl)
- - date published: 2023-10-25T22:25:14.949568+00:00
- - user: None
- - tags: []
-
-## Historia.org.pl - Polski portal historyczny
- - [https://historia.org.pl](https://historia.org.pl)
- - date published: 2023-10-25T22:25:19.313712+00:00
- - user: None
- - tags: []
-
-## Darmowe MMORPG - spis gier MMO, MMOFPS, MMORPG 3d, MOBA
- - [https://mmorpg.org.pl](https://mmorpg.org.pl)
- - date published: 2023-10-26T18:37:58.388090+00:00
- - user: None
- - tags: []
-
-## OPOKA. Portal katolicki
- - [https://opoka.org.pl](https://opoka.org.pl)
- - date published: 2023-10-25T22:25:23.274370+00:00
- - user: None
- - tags: []
-
-## Stare gry - Świat klasyki gier komputerowych.
- - [https://16bit.pl](https://16bit.pl)
- - date published: 2023-10-25T16:37:07.710478+00:00
- - user: None
- - tags: ['emulation', 'abandonware', 'roms', 'amiga', 'games', 'atari']
-
-## Jelenia Góra, Portal informacyjny powiatu i miasta  - 24jgora.pl
- - [https://24jgora.pl](https://24jgora.pl)
- - date published: 2023-10-25T22:25:26.816865+00:00
- - user: None
- - tags: []
-
-## 300Gospodarka.pl - gospodarka, nowe technologie, klimat, samorządy
- - [https://300gospodarka.pl](https://300gospodarka.pl)
- - date published: 2023-10-25T22:25:30.356095+00:00
- - user: None
- - tags: []
-
-## 3D-INFO.PL - Portal ludzi z pasją. Mobile, gry, komputery, Telewizory i Hi-Fi
- - [https://3d-info.pl](https://3d-info.pl)
- - date published: 2023-11-02T19:02:18.392184+00:00
- - user: None
- - tags: ['tech news', 'game news']
-
-## Zdrowie i zdrowy styl życia | WP abcZdrowie
- - [https://portal.abczdrowie.pl](https://portal.abczdrowie.pl)
- - date published: 2023-10-25T22:25:39.094951+00:00
- - user: None
- - tags: []
-
-## allegro.pl
- - [https://allegro.pl](https://allegro.pl)
- - date published: 2023-10-24T20:20:03.496697+00:00
- - user: None
- - tags: ['marketplace']
-
-## Amica - AGD: Piekarniki, kuchnie wolnostojące, płyty, okapy
- - [https://www.amica.pl](https://www.amica.pl)
- - date published: 2023-11-01T07:06:57.139074+00:00
- - user: None
- - tags: []
-
-## AmigaONE Zone | Polska strona komputera AmigaOne
- - [https://www.amigaone.pl](https://www.amigaone.pl)
- - date published: 2023-11-02T10:37:41.725545+00:00
- - user: None
- - tags: []
-
-## Amigowiec.pl Amiga rulez!
- - [https://www.amigowiec.pl](https://www.amigowiec.pl)
- - date published: 2023-10-30T10:11:46.861015+00:00
- - user: None
- - tags: []
-
-## Androidowy - blog dla ludzi. Smartfony, tablety, smartwatch.
- - [https://www.androidowy.pl](https://www.androidowy.pl)
- - date published: 2023-10-25T22:25:42.357332+00:00
- - user: None
- - tags: []
-
-## Andrzej Sapkowski
- - [http://www.andrzejsapkowski.pl](http://www.andrzejsapkowski.pl)
- - date published: 2023-11-13T12:57:23.505832+00:00
- - user: None
- - tags: ['witcher']
-
-## Najlepsza muzyka rockowa, newsy, koncerty, recenzje
- - [https://www.antyradio.pl](https://www.antyradio.pl)
- - date published: 2023-11-02T19:28:07.593267+00:00
- - user: None
- - tags: ['radio station', 'music']
 

@@ -196,6 +196,12 @@
  - user: None
  - tags: []
 
+## Iowa Now | The University of Iowa
+ - [http://now.uiowa.edu](http://now.uiowa.edu)
+ - date published: 2023-11-19T05:08:57.849752+00:00
+ - user: None
+ - tags: []
+
 ## Sort: Supercharged collaboration for your database
  - [https://sort.xyz.](https://sort.xyz.)
  - date published: 2023-11-01T23:07:07.991006+00:00
@@ -5952,6 +5958,12 @@
  - user: None
  - tags: []
 
+## Columbus News, Weather, Sports, Breaking News | WSYX
+ - [https://abc6onyourside.com](https://abc6onyourside.com)
+ - date published: 2023-11-19T04:08:56.180171+00:00
+ - user: None
+ - tags: ['news']
+
 ## Los Angeles and Southern California News, Weather, Traffic - ABC7 KABC
  - [https://abc7.com](https://abc7.com)
  - date published: 2023-10-25T12:29:24.377691+00:00
@@ -5979,18 +5991,6 @@
 ## Tampa Bay, Florida News and Weather | ABC Action News
  - [https://www.abcactionnews.com](https://www.abcactionnews.com)
  - date published: 2023-10-25T12:29:59.792652+00:00
- - user: None
- - tags: []
-
-## ABC Digital Syndication | ABC Audio Digital Syndication
- - [https://digital.abcaudio.com](https://digital.abcaudio.com)
- - date published: 2023-10-25T12:30:03.797320+00:00
- - user: None
- - tags: []
-
-## ABC News - Breaking News, Latest News and Videos
- - [http://feeds.abcnews.com](http://feeds.abcnews.com)
- - date published: 2023-10-25T10:50:33.309447+00:00
  - user: None
  - tags: []
 

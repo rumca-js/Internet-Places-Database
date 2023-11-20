@@ -1,3 +1,123 @@
+## https://www.rentcafe.com
+ - [https://www.rentcafe.com](https://www.rentcafe.com)
+ - date published: 2023-11-14T01:04:03.281266+00:00
+ - user: None
+ - tags: []
+
+## Explore - Repables
+ - [https://repables.com](https://repables.com)
+ - date published: 2023-10-27T10:31:30.534866+00:00
+ - user: None
+ - tags: ['assets models', '3d printing']
+
+## Replicate – Run open-source machine learning models with a cloud API
+ - [https://replicate.com](https://replicate.com)
+ - date published: 2023-10-25T16:49:37.539506+00:00
+ - user: None
+ - tags: []
+
+## Replit - Blog
+ - [https://blog.replit.com](https://blog.replit.com)
+ - date published: 2023-10-25T16:49:47.879635+00:00
+ - user: None
+ - tags: []
+
+## Replit: the collaborative browser based IDE - Replit
+ - [https://replit.com](https://replit.com)
+ - date published: 2023-10-25T16:49:49.955967+00:00
+ - user: None
+ - tags: []
+
+## Repography: Make your GitHub repo beautiful
+ - [https://repography.com](https://repography.com)
+ - date published: 2023-10-25T16:49:50.660347+00:00
+ - user: None
+ - tags: []
+
+## Request Metrics
+ - [https://requestmetrics.com](https://requestmetrics.com)
+ - date published: 2023-10-25T16:49:51.790104+00:00
+ - user: None
+ - tags: []
+
+## ReRender AI - Instant Renders for Architectures. Enhance your AutoCAD/Blender/Sketchup results!
+ - [https://rerenderai.com](https://rerenderai.com)
+ - date published: 2023-10-25T16:49:53.163297+00:00
+ - user: None
+ - tags: []
+
+## ResearchHub | Open Science Community
+ - [https://www.researchhub.com](https://www.researchhub.com)
+ - date published: 2023-10-25T16:49:54.114014+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Research Professional News
+ - [https://www.researchprofessionalnews.com](https://www.researchprofessionalnews.com)
+ - date published: 2023-10-25T16:50:04.201997+00:00
+ - user: None
+ - tags: []
+
+## Resend
+ - [https://resend.com](https://resend.com)
+ - date published: 2023-10-25T16:50:10.173228+00:00
+ - user: None
+ - tags: []
+
+## Resident Contrarian | Substack
+ - [https://www.residentcontrarian.com](https://www.residentcontrarian.com)
+ - date published: 2023-10-25T16:50:13.160491+00:00
+ - user: None
+ - tags: []
+
+## RestorePrivacy | Your online privacy resource center
+ - [https://restoreprivacy.com](https://restoreprivacy.com)
+ - date published: 2023-10-25T16:50:18.686824+00:00
+ - user: None
+ - tags: []
+
+## The Best Free Online Resume Builder - ResumeBuilder.com
+ - [https://www.resumebuilder.com](https://www.resumebuilder.com)
+ - date published: 2023-10-25T16:50:20.501887+00:00
+ - user: None
+ - tags: []
+
+## RetailWire - Insights & Trends from Retail Industry Experts
+ - [http://retailwire.com](http://retailwire.com)
+ - date published: 2023-10-25T16:50:25.483951+00:00
+ - user: None
+ - tags: []
+
+## Retool | The fastest way to develop effective software.
+ - [https://retool.com](https://retool.com)
+ - date published: 2023-10-25T16:50:27.329954+00:00
+ - user: None
+ - tags: []
+
+## http://retractionwatch.com
+ - [http://retractionwatch.com](http://retractionwatch.com)
+ - date published: 2023-10-25T16:50:27.848193+00:00
+ - user: None
+ - tags: []
+
+## Retro Otaku - My nerdy video gaming soapbox...
+ - [https://www.retro-otaku.com](https://www.retro-otaku.com)
+ - date published: 2023-10-27T14:43:31.465677+00:00
+ - user: None
+ - tags: ['retro games']
+
+## Retro Synthwave – Outrun
+ - [https://www.retro-synthwave.com](https://www.retro-synthwave.com)
+ - date published: 2023-11-13T10:27:34.345834+00:00
+ - user: None
+ - tags: ['synthwave']
+
+## Retro32 | Amiga | Commodore | Retro Gaming Store Shop | 3D Printing
+ - [https://www.retro32.com](https://www.retro32.com)
+ - date published: 2023-10-25T11:15:21.579596+00:00
+ - user: None
+ - tags: ['shop']
+
 ## Retro Dodo - Retro Gaming Reviews & News
  - [https://retrododo.com](https://retrododo.com)
  - date published: 2023-10-25T10:46:34.000501+00:00
@@ -1702,6 +1822,12 @@
  - user: None
  - tags: []
 
+## Sam's Blog
+ - [https://selectfromwhereand.com](https://selectfromwhereand.com)
+ - date published: 2023-11-19T07:59:28.405717+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Semafor - An intelligent, transparent global news platform for breaking stories, analysis and video
  - [https://www.semafor.com](https://www.semafor.com)
  - date published: 2023-10-25T10:38:55.032682+00:00
@@ -1957,6 +2083,12 @@
 ## ShaunOConnell.com – GP | Commissioner | Coach & Mentor | Blogger
  - [https://shaunoconnell.com](https://shaunoconnell.com)
  - date published: 2023-10-25T17:03:27.779859+00:00
+ - user: None
+ - tags: []
+
+## %vops, SRE, and Software Engineering Blog%%
+ - [https://shavingtheyak.com](https://shavingtheyak.com)
+ - date published: 2023-11-19T16:59:12.994606+00:00
  - user: None
  - tags: []
 
@@ -2696,6 +2828,12 @@
 ## http://www.solidjs.com
  - [http://www.solidjs.com](http://www.solidjs.com)
  - date published: 2023-10-25T17:07:51.247666+00:00
+ - user: None
+ - tags: []
+
+## Solving Procrastination
+ - [https://solvingprocrastination.com](https://solvingprocrastination.com)
+ - date published: 2023-11-19T14:19:03.262194+00:00
  - user: None
  - tags: []
 
@@ -5103,7 +5241,7 @@
  - [https://goodteacher.substack.com](https://goodteacher.substack.com)
  - date published: 2023-11-18T19:08:05.233065+00:00
  - user: None
- - tags: []
+ - tags: ['substack']
 
 ## Gould Asks | Substack
  - [http://gouldasks.substack.com](http://gouldasks.substack.com)
@@ -5858,144 +5996,6 @@
 ## Passing Time | Michael Bateman | Substack
  - [https://passingtime.substack.com](https://passingtime.substack.com)
  - date published: 2023-10-25T10:00:31.464969+00:00
- - user: None
- - tags: ['substack']
-
-## The Abbey of Misrule | Paul Kingsnorth | Substack
- - [https://paulkingsnorth.substack.com](https://paulkingsnorth.substack.com)
- - date published: 2023-10-25T10:00:34.889123+00:00
- - user: None
- - tags: ['substack']
-
-## Uni Watch | Paul Lukas | Substack
- - [http://paullukas.substack.com](http://paullukas.substack.com)
- - date published: 2023-10-25T10:00:38.291980+00:00
- - user: None
- - tags: ['substack']
-
-## Pea Bee | pb | Substack
- - [https://peabee.substack.com](https://peabee.substack.com)
- - date published: 2023-10-25T10:00:40.276763+00:00
- - user: None
- - tags: ['substack']
-
-## PG's Substack | Substack
- - [https://pgpt.substack.com](https://pgpt.substack.com)
- - date published: 2023-10-25T10:00:41.628701+00:00
- - user: None
- - tags: ['substack']
-
-## The PhilaVerse | Phil Siarri | Substack
- - [http://philaverse.substack.com](http://philaverse.substack.com)
- - date published: 2023-10-25T10:00:44.149519+00:00
- - user: None
- - tags: ['substack']
-
-## MD&A | Philo | Substack
- - [http://philo.substack.com](http://philo.substack.com)
- - date published: 2023-10-25T10:00:46.257294+00:00
- - user: None
- - tags: ['substack']
-
-## Philosophy bear | Substack
- - [https://philosophybear.substack.com](https://philosophybear.substack.com)
- - date published: 2023-10-25T10:00:48.623849+00:00
- - user: None
- - tags: ['substack']
-
-## Unverified Revelations | Substack
- - [https://philosophyinhell.substack.com](https://philosophyinhell.substack.com)
- - date published: 2023-10-25T10:00:51.129883+00:00
- - user: None
- - tags: ['substack']
-
-## The PhilaVerse | Phil Siarri | Substack
- - [https://philsiarri.substack.com](https://philsiarri.substack.com)
- - date published: 2023-10-25T10:00:53.681393+00:00
- - user: None
- - tags: ['substack']
-
-## Photon-Lines Substack | Nick M | Substack
- - [https://photonlines.substack.com](https://photonlines.substack.com)
- - date published: 2023-10-25T10:00:55.503118+00:00
- - user: None
- - tags: ['substack']
-
-## Planetocracy | Peter Hague | Substack
- - [https://planetocracy.substack.com](https://planetocracy.substack.com)
- - date published: 2023-10-31T16:17:52.828871+00:00
- - user: None
- - tags: []
-
-## Planet Waves FM - Chiron Return | Eric F Coppolino | Substack
- - [http://planetwavesfm.substack.com](http://planetwavesfm.substack.com)
- - date published: 2023-10-25T10:00:58.204326+00:00
- - user: None
- - tags: ['substack']
-
-## Marc Andreessen Substack | Substack
- - [http://pmarca.substack.com](http://pmarca.substack.com)
- - date published: 2023-10-25T10:01:00.076662+00:00
- - user: None
- - tags: ['substack']
-
-## Polymathic Being | Michael Woudenberg | Substack
- - [https://polymathicbeing.substack.com](https://polymathicbeing.substack.com)
- - date published: 2023-10-25T10:01:04.036294+00:00
- - user: None
- - tags: ['substack']
-
-## The Popehat Report | Ken White | Substack
- - [http://popehat.substack.com](http://popehat.substack.com)
- - date published: 2023-10-25T10:01:06.356169+00:00
- - user: None
- - tags: ['substack']
-
-## offscript | Priya | Substack
- - [http://prigoose.substack.com](http://prigoose.substack.com)
- - date published: 2023-10-25T10:01:09.250258+00:00
- - user: None
- - tags: ['substack']
-
-## Public | Michael Shellenberger | Substack
- - [http://public.substack.com](http://public.substack.com)
- - date published: 2023-10-25T10:01:16.858074+00:00
- - user: None
- - tags: ['substack']
-
-## Popcorn Penguin Posts | PopcornPenguin | Substack
- - [http://puzzledpenguin.substack.com](http://puzzledpenguin.substack.com)
- - date published: 2023-10-25T10:01:18.667937+00:00
- - user: None
- - tags: ['substack']
-
-## The Watch | Radley Balko | Substack
- - [http://radleybalko.substack.com](http://radleybalko.substack.com)
- - date published: 2023-10-25T10:01:21.315352+00:00
- - user: None
- - tags: ['substack']
-
-## Identity Revive | Rakkhi Joy | Substack
- - [https://rakkhi.substack.com](https://rakkhi.substack.com)
- - date published: 2023-10-25T10:01:24.275651+00:00
- - user: None
- - tags: ['substack']
-
-## A Blog For The Anthropocene | Rama Pascala | Substack
- - [http://ramapascala.substack.com](http://ramapascala.substack.com)
- - date published: 2023-10-25T10:01:25.970350+00:00
- - user: None
- - tags: ['substack']
-
-## Random Acts of Medicine | Chris Worsham | Substack
- - [https://randomactsofmedicine.substack.com](https://randomactsofmedicine.substack.com)
- - date published: 2023-10-25T10:01:28.416412+00:00
- - user: None
- - tags: ['substack']
-
-## Random Minds by Katherine Brodsky | Substack
- - [http://randomminds.substack.com](http://randomminds.substack.com)
- - date published: 2023-10-25T10:01:31.854876+00:00
  - user: None
  - tags: ['substack']
 

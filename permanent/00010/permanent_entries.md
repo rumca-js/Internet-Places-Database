@@ -1,3 +1,201 @@
+## European Space Agency
+ - [https://www.esa.int](https://www.esa.int)
+ - date published: 2023-10-25T19:36:27.942390+00:00
+ - user: None
+ - tags: []
+
+## EUMETSAT | Monitoring the weather and climate from space | EUMETSAT
+ - [https://www.eumetsat.int](https://www.eumetsat.int)
+ - date published: 2023-10-25T19:36:32.487462+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.icao.int](https://www.icao.int)
+ - date published: 2023-10-25T19:36:35.257231+00:00
+ - user: None
+ - tags: []
+
+## | International Criminal Court
+ - [https://www.icc-cpi.int](https://www.icc-cpi.int)
+ - date published: 2023-10-25T19:36:37.915405+00:00
+ - user: None
+ - tags: []
+
+## NATO - Homepage
+ - [https://www.nato.int](https://www.nato.int)
+ - date published: 2023-10-25T19:36:41.145399+00:00
+ - user: None
+ - tags: []
+
+## ReliefWeb - Informing humanitarians worldwide
+ - [https://reliefweb.int](https://reliefweb.int)
+ - date published: 2023-10-25T19:36:44.632738+00:00
+ - user: None
+ - tags: []
+
+## World Health Organization (WHO)
+ - [https://www.who.int](https://www.who.int)
+ - date published: 2023-10-25T19:36:52.392796+00:00
+ - user: None
+ - tags: []
+
+## World Meteorological Organization |
+ - [https://public.wmo.int](https://public.wmo.int)
+ - date published: 2023-10-25T19:36:59.974563+00:00
+ - user: None
+ - tags: []
+
+## 12ft Ladder
+ - [https://12ft.io](https://12ft.io)
+ - date published: 2023-10-25T19:37:01.821312+00:00
+ - user: None
+ - tags: []
+
+## F*** Paywalls
+ - [https://1ft.io](https://1ft.io)
+ - date published: 2023-11-04T16:59:18+00:00
+ - user: None
+ - tags: []
+
+## former Bell Labs Computing and Mathematical Sciences Research
+ - [https://9p.io](https://9p.io)
+ - date published: 2023-10-25T19:37:03.235955+00:00
+ - user: None
+ - tags: []
+
+## abseil / abseil.io
+ - [https://abseil.io](https://abseil.io)
+ - date published: 2023-10-25T19:37:05.168960+00:00
+ - user: None
+ - tags: []
+
+## Adalytics
+ - [https://adalytics.io](https://adalytics.io)
+ - date published: 2023-10-25T19:37:08.319881+00:00
+ - user: None
+ - tags: []
+
+## AdNauseam
+ - [https://adnauseam.io](https://adnauseam.io)
+ - date published: 2023-10-25T19:37:10.261889+00:00
+ - user: None
+ - tags: []
+
+## The World's #1 Product Development Software | Aha!
+ - [https://www.aha.io](https://www.aha.io)
+ - date published: 2023-10-25T19:37:14.450720+00:00
+ - user: None
+ - tags: []
+
+## Airframes
+ - [https://app.airframes.io](https://app.airframes.io)
+ - date published: 2023-10-25T19:37:15.997927+00:00
+ - user: None
+ - tags: []
+
+## Simple Automation
+ - [https://blog.ajour.io](https://blog.ajour.io)
+ - date published: 2023-10-25T19:37:17.812878+00:00
+ - user: None
+ - tags: []
+
+## Deploy to Kubernetes safely and at scale with Argo CD as a managed service | Akuity
+ - [https://akuity.io](https://akuity.io)
+ - date published: 2023-10-25T19:37:25.269732+00:00
+ - user: None
+ - tags: []
+
+## Alex Ellis' Blog
+ - [https://blog.alexellis.io](https://blog.alexellis.io)
+ - date published: 2023-10-25T08:59:05.007883+00:00
+ - user: None
+ - tags: ['personal']
+
+## Algora
+ - [https://console.algora.io](https://console.algora.io)
+ - date published: 2023-10-25T19:37:26.590641+00:00
+ - user: None
+ - tags: []
+
+## AltStore
+ - [https://altstore.io](https://altstore.io)
+ - date published: 2023-10-25T19:37:28.350698+00:00
+ - user: None
+ - tags: []
+
+## Ameliorated.io
+ - [https://ameliorated.io](https://ameliorated.io)
+ - date published: 2023-10-25T19:37:30.300979+00:00
+ - user: None
+ - tags: []
+
+## American Express Technology
+ - [https://americanexpress.io](https://americanexpress.io)
+ - date published: 2023-10-25T19:37:33.148951+00:00
+ - user: None
+ - tags: []
+
+## Angular
+ - [https://angular.io](https://angular.io)
+ - date published: 2023-10-27T12:21:52.948727+00:00
+ - user: None
+ - tags: ['angular']
+
+## Angular Blog
+ - [https://blog.angular.io](https://blog.angular.io)
+ - date published: 2023-10-25T19:37:37.334016+00:00
+ - user: None
+ - tags: []
+
+## The Everything App
+ - [https://anytype.io](https://anytype.io)
+ - date published: 2023-10-25T19:37:39.588844+00:00
+ - user: None
+ - tags: []
+
+## API Handyman
+ - [https://apihandyman.io](https://apihandyman.io)
+ - date published: 2023-10-25T19:37:41.287684+00:00
+ - user: None
+ - tags: []
+
+## Ultra simple back end for static websites
+ - [https://appbackend.io](https://appbackend.io)
+ - date published: 2023-11-02T23:57:04+00:00
+ - user: None
+ - tags: []
+
+## The AppCensus Blog
+ - [https://blog.appcensus.io](https://blog.appcensus.io)
+ - date published: 2023-10-25T19:37:44.083298+00:00
+ - user: None
+ - tags: []
+
+## Apricitas Economics | Joseph Politano | Substack
+ - [https://www.apricitas.io](https://www.apricitas.io)
+ - date published: 2023-10-25T19:37:47.487142+00:00
+ - user: None
+ - tags: []
+
+## Open-source data curation platform for LLMs
+ - [https://argilla.io](https://argilla.io)
+ - date published: 2023-10-25T19:37:49.975085+00:00
+ - user: None
+ - tags: []
+
+## Fatih Arslan
+ - [https://arslan.io](https://arslan.io)
+ - date published: 2023-10-25T19:37:51.402475+00:00
+ - user: None
+ - tags: []
+
+## Academy Software Foundation - ASWF
+ - [https://www.aswf.io](https://www.aswf.io)
+ - date published: 2023-10-25T19:37:54.400426+00:00
+ - user: None
+ - tags: []
+
 ## The Autodidacts
  - [https://www.autodidacts.io](https://www.autodidacts.io)
  - date published: 2023-10-25T09:21:59.454981+00:00
@@ -2571,6 +2769,12 @@ through Composable Diffusion
 ## Rodrigodd
  - [https://rodrigodd.github.io](https://rodrigodd.github.io)
  - date published: 2023-10-25T19:51:57.633401+00:00
+ - user: None
+ - tags: []
+
+## https://rubjo.github.io
+ - [https://rubjo.github.io](https://rubjo.github.io)
+ - date published: 2023-11-19T14:59:13.915453+00:00
  - user: None
  - tags: []
 
@@ -5793,210 +5997,6 @@ End-to-end typesafe APIs made easy. | tRPC
 ## Kenya breaking news | Kenya news today | Capitalfm.co.ke » Capital News
  - [https://www.capitalfm.co.ke](https://www.capitalfm.co.ke)
  - date published: 2023-10-25T20:17:13.001387+00:00
- - user: None
- - tags: []
-
-## Kenyans.co.ke
- - [https://www.kenyans.co.ke](https://www.kenyans.co.ke)
- - date published: 2023-10-25T20:17:14.583353+00:00
- - user: None
- - tags: []
-
-## The EastAfrican
- - [https://www.theeastafrican.co.ke](https://www.theeastafrican.co.ke)
- - date published: 2023-10-25T20:17:16.702238+00:00
- - user: None
- - tags: []
-
-## Tuko News - Breaking News, Kenya News, World News Today
- - [https://www.tuko.co.ke](https://www.tuko.co.ke)
- - date published: 2023-10-25T11:47:20.087461+00:00
- - user: None
- - tags: []
-
-## SYSSEC
- - [https://syssec.kaist.ac.kr](https://syssec.kaist.ac.kr)
- - date published: 2023-10-25T20:17:21.001514+00:00
- - user: None
- - tags: []
-
-## English Edition : The Hankyoreh
- - [https://english.hani.co.kr](https://english.hani.co.kr)
- - date published: 2023-11-08T12:51:12.262880+00:00
- - user: None
- - tags: []
-
-## https://m.koreatimes.co.kr
- - [https://m.koreatimes.co.kr](https://m.koreatimes.co.kr)
- - date published: 2023-11-06T20:12:00.704345+00:00
- - user: None
- - tags: []
-
-## http://www.koreatimes.co.kr
- - [http://www.koreatimes.co.kr](http://www.koreatimes.co.kr)
- - date published: 2023-10-25T20:17:22.559257+00:00
- - user: None
- - tags: []
-
-## dot.LA
- - [https://dot.la](https://dot.la)
- - date published: 2023-10-25T20:17:32.149624+00:00
- - user: None
- - tags: []
-
-## Intro | Putting the "You" in CPU
- - [https://cpu.land](https://cpu.land)
- - date published: 2023-10-25T20:17:37.959240+00:00
- - user: None
- - tags: []
-
-## Deno by Example
- - [https://examples.deno.land](https://examples.deno.land)
- - date published: 2023-10-25T08:35:20.172288+00:00
- - user: None
- - tags: []
-
-## Erika Rowland
- - [https://erikarow.land](https://erikarow.land)
- - date published: 2023-10-27T02:22:33.008024+00:00
- - user: None
- - tags: []
-
-## The Indiependent | Rosie Sherry | Substack
- - [https://www.indiependent.land](https://www.indiependent.land)
- - date published: 2023-10-25T20:17:40.510359+00:00
- - user: None
- - tags: []
-
-## Ismail Elouafiq
- - [https://www.ismail.land](https://www.ismail.land)
- - date published: 2023-11-17T07:30:34.168221+00:00
- - user: None
- - tags: ['personal']
-
-## welcome. | maya.land
- - [https://maya.land](https://maya.land)
- - date published: 2023-10-25T20:17:42.650479+00:00
- - user: None
- - tags: []
-
-## The atomic web toolkit for pragmatists | a17t
- - [https://a17t.miles.land](https://a17t.miles.land)
- - date published: 2023-10-25T20:17:43.810118+00:00
- - user: None
- - tags: []
-
-## R. Miles McCain | About, contact, and portfolio
- - [https://miles.land](https://miles.land)
- - date published: 2023-10-25T20:17:44.827325+00:00
- - user: None
- - tags: []
-
-## nami.land
- - [https://nami.land](https://nami.land)
- - date published: 2023-10-25T20:17:45.915791+00:00
- - user: None
- - tags: []
-
-## This page is no longer available due to ending availability of Gatsby Cloud.
- - [https://oio.land](https://oio.land)
- - date published: 2023-10-25T20:17:46.574075+00:00
- - user: None
- - tags: []
-
-## Rosieland
- - [https://rosie.land](https://rosie.land)
- - date published: 2023-10-25T20:17:48.264563+00:00
- - user: None
- - tags: []
-
-## Immigration for Startups, Founders, and Companies
- - [https://www.alcorn.law](https://www.alcorn.law)
- - date published: 2023-10-25T20:17:51.883094+00:00
- - user: None
- - tags: []
-
-## Read Caselaw | Caselaw Access Project
- - [https://cite.case.law](https://cite.case.law)
- - date published: 2023-11-03T05:08:43.245024+00:00
- - user: None
- - tags: []
-
-## Los Angeles Personal Injury Lawyer | $10 Billion+ Won For Clients
- - [https://www.psbr.law](https://www.psbr.law)
- - date published: 2023-10-25T20:17:55.746662+00:00
- - user: None
- - tags: []
-
-## Homepage - MTV Lebanon
- - [https://www.mtv.com.lb](https://www.mtv.com.lb)
- - date published: 2023-11-05T16:53:37.498703+00:00
- - user: None
- - tags: []
-
-## Bridge | Where Immigration Meets Innovation
- - [https://www.bridge.legal](https://www.bridge.legal)
- - date published: 2023-10-25T20:17:57.823788+00:00
- - user: None
- - tags: []
-
-## decoded.legal
- - [https://decoded.legal](https://decoded.legal)
- - date published: 2023-10-25T20:17:58.671735+00:00
- - user: None
- - tags: []
-
-## Wiki - Front Page
- - [https://wiki.alopex.li](https://wiki.alopex.li)
- - date published: 2023-10-25T20:17:59.299382+00:00
- - user: None
- - tags: []
-
-## Cock.li – Tor-friendly, free E-mail and XMPP provider
- - [https://cock.li](https://cock.li)
- - date published: 2023-11-07T14:44:07+00:00
- - user: None
- - tags: []
-
-## The Earth
- - [https://www.earth.li](https://www.earth.li)
- - date published: 2023-10-25T20:17:59.815511+00:00
- - user: None
- - tags: []
-
-## Jesse Li
- - [https://blog.jse.li](https://blog.jse.li)
- - date published: 2023-10-25T20:18:00.622412+00:00
- - user: None
- - tags: []
-
-## Francesco Mazzoli
- - [https://mazzo.li](https://mazzo.li)
- - date published: 2023-10-25T08:49:50.321389+00:00
- - user: None
- - tags: ['personal']
-
-## Omar Kamali | Founder, Engineer & Strategic Technology Advisor
- - [https://omarkama.li](https://omarkama.li)
- - date published: 2023-10-31T00:57:49.537580+00:00
- - user: None
- - tags: []
-
-## tortel.li
- - [https://tortel.li](https://tortel.li)
- - date published: 2023-10-25T20:18:02.544996+00:00
- - user: None
- - tags: []
-
-## The Cat Fox Life – Photography, cats, computing, and anecdotes from an Oklahoman fox.
- - [https://catfox.life](https://catfox.life)
- - date published: 2023-10-25T20:18:04.685223+00:00
- - user: None
- - tags: []
-
-## Clues Dot Life
- - [https://www.clues.life](https://www.clues.life)
- - date published: 2023-10-25T20:18:08.324160+00:00
  - user: None
  - tags: []
 

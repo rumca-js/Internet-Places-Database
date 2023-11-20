@@ -1,3 +1,268 @@
+## Blog | The National Archives
+ - [https://blog.nationalarchives.gov.uk](https://blog.nationalarchives.gov.uk)
+ - date published: 2023-10-25T22:56:25.323831+00:00
+ - user: None
+ - tags: []
+
+## NCSC
+ - [https://www.ncsc.gov.uk](https://www.ncsc.gov.uk)
+ - date published: 2023-10-25T22:56:26.670249+00:00
+ - user: None
+ - tags: []
+
+## Home
+      - Office for National Statistics
+ - [https://www.ons.gov.uk](https://www.ons.gov.uk)
+ - date published: 2023-10-25T22:56:28.295217+00:00
+ - user: None
+ - tags: []
+
+## Find and update company information - GOV.UK
+ - [https://find-and-update.company-information.service.gov.uk](https://find-and-update.company-information.service.gov.uk)
+ - date published: 2023-10-25T22:56:34.267694+00:00
+ - user: None
+ - tags: []
+
+## Experience London blog
+ - [https://londonblog.tfl.gov.uk](https://londonblog.tfl.gov.uk)
+ - date published: 2023-11-02T14:58:34.376654+00:00
+ - user: None
+ - tags: []
+
+## Keeping London moving - Transport for London
+ - [https://tfl.gov.uk](https://tfl.gov.uk)
+ - date published: 2023-10-25T22:56:36.464450+00:00
+ - user: None
+ - tags: []
+
+## Welcome to GOV.UK
+ - [https://www.gov.uk](https://www.gov.uk)
+ - date published: 2023-10-25T22:56:37.798175+00:00
+ - user: None
+ - tags: []
+
+## Luke Plant's home page - lukeplant.me.uk
+ - [https://lukeplant.me.uk](https://lukeplant.me.uk)
+ - date published: 2023-10-25T22:56:38.556582+00:00
+ - user: None
+ - tags: []
+
+## mjt.me.uk
+ - [https://www.mjt.me.uk](https://www.mjt.me.uk)
+ - date published: 2023-10-25T22:56:39.604297+00:00
+ - user: None
+ - tags: []
+
+## Oliver Caldwell's blog
+ - [https://oli.me.uk](https://oli.me.uk)
+ - date published: 2023-10-25T22:56:41.819363+00:00
+ - user: None
+ - tags: []
+
+## ParkyTowers
+ - [https://www.parkytowers.me.uk](https://www.parkytowers.me.uk)
+ - date published: 2023-10-25T22:56:42.561833+00:00
+ - user: None
+ - tags: []
+
+## Wilfred Hughes::Blog
+ - [https://www.wilfred.me.uk](https://www.wilfred.me.uk)
+ - date published: 2023-10-25T22:56:43.588732+00:00
+ - user: None
+ - tags: []
+
+## The NHS website - NHS
+ - [https://www.nhs.uk](https://www.nhs.uk)
+ - date published: 2023-10-25T22:56:51.378578+00:00
+ - user: None
+ - tags: []
+
+## Institute and Faculty of Actuaries
+ - [https://actuaries.org.uk](https://actuaries.org.uk)
+ - date published: 2023-10-25T22:56:55.289212+00:00
+ - user: None
+ - tags: []
+
+## Apostrophe Protection Society
+ - [https://www.apostrophe.org.uk](https://www.apostrophe.org.uk)
+ - date published: 2023-11-17T17:21:53+00:00
+ - user: None
+ - tags: []
+
+## BFI homepage | BFI
+ - [https://www.bfi.org.uk](https://www.bfi.org.uk)
+ - date published: 2023-10-25T11:25:45.592319+00:00
+ - user: None
+ - tags: []
+
+## Welcome to British Heart Foundation - BHF
+ - [https://www.bhf.org.uk](https://www.bhf.org.uk)
+ - date published: 2023-10-25T22:56:59.166189+00:00
+ - user: None
+ - tags: []
+
+## Homepage | BPS
+ - [https://www.bps.org.uk](https://www.bps.org.uk)
+ - date published: 2023-10-25T22:57:00.514396+00:00
+ - user: None
+ - tags: []
+
+## The Centre for Computing History - Computer and Video Game Museum - Cambridge
+ - [https://www.computinghistory.org.uk](https://www.computinghistory.org.uk)
+ - date published: 2023-10-25T22:57:02.300127+00:00
+ - user: None
+ - tags: []
+
+## Freedom News -
+ - [https://freedomnews.org.uk](https://freedomnews.org.uk)
+ - date published: 2023-10-25T22:57:05.266267+00:00
+ - user: None
+ - tags: []
+
+## chiark home page
+ - [https://www.chiark.greenend.org.uk](https://www.chiark.greenend.org.uk)
+ - date published: 2023-10-25T22:57:05.714965+00:00
+ - user: None
+ - tags: []
+
+## History Workshop
+ - [https://www.historyworkshop.org.uk](https://www.historyworkshop.org.uk)
+ - date published: 2023-10-25T22:57:09.347098+00:00
+ - user: None
+ - tags: []
+
+## Inference Group WWW Server, Cavendish Lab, Univ of Cambridge
+ - [https://inference.org.uk](https://inference.org.uk)
+ - date published: 2023-10-25T22:57:10.604665+00:00
+ - user: None
+ - tags: []
+
+## The National Gallery, London
+ - [https://www.nationalgallery.org.uk](https://www.nationalgallery.org.uk)
+ - date published: 2023-11-13T13:50:11.868537+00:00
+ - user: None
+ - tags: ['museum']
+
+## New Humanist
+ - [https://newhumanist.org.uk](https://newhumanist.org.uk)
+ - date published: 2023-10-25T22:57:11.440097+00:00
+ - user: None
+ - tags: []
+
+## Home - Ofcom
+ - [https://www.ofcom.org.uk](https://www.ofcom.org.uk)
+ - date published: 2023-10-25T22:57:15.911643+00:00
+ - user: None
+ - tags: []
+
+## RetroPie
+ - [https://retropie.org.uk](https://retropie.org.uk)
+ - date published: 2023-10-25T08:32:36.591558+00:00
+ - user: None
+ - tags: ['raspberry']
+
+## Welcome to Roads.org.uk! | Roads.org.uk
+ - [https://www.roads.org.uk](https://www.roads.org.uk)
+ - date published: 2023-10-25T22:57:18.174730+00:00
+ - user: None
+ - tags: []
+
+## but she's a girl...
+ - [https://www.rousette.org.uk](https://www.rousette.org.uk)
+ - date published: 2023-10-25T22:57:19.403373+00:00
+ - user: None
+ - tags: []
+
+## RSPH |  Royal Society for Public Health UK
+ - [https://www.rsph.org.uk](https://www.rsph.org.uk)
+ - date published: 2023-10-25T22:57:26.976302+00:00
+ - user: None
+ - tags: []
+
+## Science and Industry Museum blog -
+ - [https://blog.scienceandindustrymuseum.org.uk](https://blog.scienceandindustrymuseum.org.uk)
+ - date published: 2023-10-25T22:57:28.615159+00:00
+ - user: None
+ - tags: []
+
+## National Secular Society
+ - [https://www.secularism.org.uk](https://www.secularism.org.uk)
+ - date published: 2023-11-17T07:41:39.916069+00:00
+ - user: None
+ - tags: []
+
+## Tate
+ - [https://www.tate.org.uk](https://www.tate.org.uk)
+ - date published: 2023-11-13T13:45:38.774190+00:00
+ - user: None
+ - tags: ['museum']
+
+## Richard Murphy on developing a fairer and sustainable economy
+ - [https://www.taxresearch.org.uk](https://www.taxresearch.org.uk)
+ - date published: 2023-10-25T22:57:33.665522+00:00
+ - user: None
+ - tags: []
+
+## Welcome to theJPster.org.uk
+ - [https://thejpster.org.uk](https://thejpster.org.uk)
+ - date published: 2023-10-25T22:57:35.741935+00:00
+ - user: None
+ - tags: []
+
+## ADF UK - We are a faith-based legal advocacy organisation defending fundamental freedoms & human dignity
+ - [https://adf.uk](https://adf.uk)
+ - date published: 2023-10-25T22:57:39.314863+00:00
+ - user: None
+ - tags: []
+
+## https://blogs.bl.uk
+ - [https://blogs.bl.uk](https://blogs.bl.uk)
+ - date published: 2023-10-25T22:57:41.434749+00:00
+ - user: None
+ - tags: []
+
+## Xiao Han @ Vision
+ - [https://brandonhan.uk](https://brandonhan.uk)
+ - date published: 2023-10-25T22:57:42.731821+00:00
+ - user: None
+ - tags: []
+
+## CyberHost - Tech Blogs and Tutorials
+ - [https://cyberhost.uk](https://cyberhost.uk)
+ - date published: 2023-10-25T22:57:44.230985+00:00
+ - user: None
+ - tags: []
+
+## Darren Parkinson - Darren Parkinson
+ - [https://darrenparkinson.uk](https://darrenparkinson.uk)
+ - date published: 2023-10-25T22:57:46.799383+00:00
+ - user: None
+ - tags: []
+
+## Foon by Robin Allen
+ - [https://foon.uk](https://foon.uk)
+ - date published: 2023-10-25T22:57:48.425446+00:00
+ - user: None
+ - tags: []
+
+## GPT Excel - AI Powered Excel formula Generator
+ - [https://gptexcel.uk](https://gptexcel.uk)
+ - date published: 2023-10-25T22:57:49.069669+00:00
+ - user: None
+ - tags: []
+
+## Are you looking for something ?
+ - [https://jdebp.uk](https://jdebp.uk)
+ - date published: 2023-10-25T22:57:54.432720+00:00
+ - user: None
+ - tags: []
+
+## https://bills.parliament.uk
+ - [https://bills.parliament.uk](https://bills.parliament.uk)
+ - date published: 2023-10-25T22:57:54.760654+00:00
+ - user: None
+ - tags: []
+
 ## https://committees.parliament.uk
  - [https://committees.parliament.uk](https://committees.parliament.uk)
  - date published: 2023-10-25T22:57:55.117414+00:00
@@ -303,7 +568,7 @@
  - [https://frigate.video](https://frigate.video)
  - date published: 2023-11-18T16:44:44+00:00
  - user: None
- - tags: []
+ - tags: ['open source', 'frigate']
 
 ## Phenaki
  - [https://phenaki.video](https://phenaki.video)
@@ -488,6 +753,12 @@
 ## 3D Animation and Automated Rigging | Anything World
  - [https://anything.world](https://anything.world)
  - date published: 2023-10-25T23:01:41.604403+00:00
+ - user: None
+ - tags: []
+
+## From the New World | Brian Chau | Substack
+ - [https://www.fromthenew.world](https://www.fromthenew.world)
+ - date published: 2023-11-19T23:54:22.493481+00:00
  - user: None
  - tags: []
 

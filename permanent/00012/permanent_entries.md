@@ -1,3 +1,232 @@
+## NRKbeta
+ - [https://nrkbeta.no](https://nrkbeta.no)
+ - date published: 2023-10-27T12:06:09.586789+00:00
+ - user: None
+ - tags: []
+
+## bsdly.net - Reliable Networking With Free Software
+ - [https://nxdomain.no](https://nxdomain.no)
+ - date published: 2023-10-27T12:06:10.297276+00:00
+ - user: None
+ - tags: []
+
+## Home | Patricia Aas - Programmer
+ - [https://patricia.no](https://patricia.no)
+ - date published: 2023-10-27T12:06:11.527326+00:00
+ - user: None
+ - tags: []
+
+## Sciencenorway - Science News from Norway
+ - [https://sciencenorway.no](https://sciencenorway.no)
+ - date published: 2023-10-25T10:11:59.195592+00:00
+ - user: None
+ - tags: []
+
+## SECRET GARDEN
+ - [https://www.secretgarden.no](https://www.secretgarden.no)
+ - date published: 2023-11-13T11:05:43.854609+00:00
+ - user: None
+ - tags: ['music band']
+
+## Person - Skatteetaten
+ - [https://www.skatteetaten.no](https://www.skatteetaten.no)
+ - date published: 2023-10-27T12:06:13.607518+00:00
+ - user: None
+ - tags: []
+
+## Et ledende miljø i norsk romindustri | Space Norway
+ - [https://spacenorway.no](https://spacenorway.no)
+ - date published: 2023-11-10T16:04:50.344777+00:00
+ - user: None
+ - tags: []
+
+## Sysselmesteren på Svalbard
+ - [https://www.sysselmesteren.no](https://www.sysselmesteren.no)
+ - date published: 2023-10-27T12:06:14.747150+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Telia Engineering
+ - [https://engineering.telia.no](https://engineering.telia.no)
+ - date published: 2023-10-27T12:06:15.995309+00:00
+ - user: None
+ - tags: []
+
+## Tim Hårek
+ - [https://timharek.no](https://timharek.no)
+ - date published: 2023-10-25T20:48:55.149316+00:00
+ - user: None
+ - tags: []
+
+## Universitetet i Bergen
+ - [https://www.uib.no](https://www.uib.no)
+ - date published: 2023-11-19T10:39:06.443673+00:00
+ - user: None
+ - tags: []
+
+## Manu Cornet's website
+ - [https://ma.nu](https://ma.nu)
+ - date published: 2023-10-25T20:48:57.839136+00:00
+ - user: None
+ - tags: []
+
+## Start
+ - [https://www.malarna.nu](https://www.malarna.nu)
+ - date published: 2023-11-10T14:03:58.337435+00:00
+ - user: None
+ - tags: []
+
+## Marginalia Downloads
+ - [https://downloads.marginalia.nu](https://downloads.marginalia.nu)
+ - date published: 2023-10-25T08:29:33.050968+00:00
+ - user: None
+ - tags: []
+
+## www.marginalia.nu @
+marginalia.nu
+ - [https://memex.marginalia.nu](https://memex.marginalia.nu)
+ - date published: 2023-10-25T20:48:59.430464+00:00
+ - user: None
+ - tags: []
+
+## Marginalia Search
+ - [https://search.marginalia.nu](https://search.marginalia.nu)
+ - date published: 2023-10-25T13:51:19.392203+00:00
+ - user: None
+ - tags: ['search engine']
+
+## www.marginalia.nu
+ - [https://www.marginalia.nu](https://www.marginalia.nu)
+ - date published: 2023-10-25T08:29:34.569325+00:00
+ - user: None
+ - tags: ['search engine']
+
+## QuakeWorld.nu
+ - [https://www.quakeworld.nu](https://www.quakeworld.nu)
+ - date published: 2023-10-28T20:28:45.927247+00:00
+ - user: None
+ - tags: []
+
+## Shantnu's Silent Site
+ - [https://shant.nu](https://shant.nu)
+ - date published: 2023-10-25T20:49:02.194922+00:00
+ - user: None
+ - tags: []
+
+## The Voynich Manuscript
+ - [https://voynich.nu](https://voynich.nu)
+ - date published: 2023-11-15T17:43:27.049719+00:00
+ - user: None
+ - tags: ['personal']
+
+## Lily Ray: NYC Based SEO Professional, DJ, & Drummer 😏
+ - [https://lilyray.nyc](https://lilyray.nyc)
+ - date published: 2023-11-02T09:00:26.721068+00:00
+ - user: None
+ - tags: ['seo']
+
+## THE CITY - NYC News
+ - [https://www.thecity.nyc](https://www.thecity.nyc)
+ - date published: 2023-10-25T20:49:08.995182+00:00
+ - user: None
+ - tags: []
+
+## Welcome - The University of Auckland
+ - [https://www.auckland.ac.nz](https://www.auckland.ac.nz)
+ - date published: 2023-10-30T07:13:26.243060+00:00
+ - user: None
+ - tags: []
+
+## University of Otago
+ - [https://www.otago.ac.nz](https://www.otago.ac.nz)
+ - date published: 2023-10-30T21:58:29.556224+00:00
+ - user: None
+ - tags: []
+
+## Alpha Rail - Rail Design, Consultancy, Construction and Plant
+ - [https://www.alpharail.co.nz](https://www.alpharail.co.nz)
+ - date published: 2023-10-25T20:49:14.642345+00:00
+ - user: None
+ - tags: []
+
+## Unofficial CD32 Ports
+ - [https://unofficial-cd32-ports.blogspot.co.nz](https://unofficial-cd32-ports.blogspot.co.nz)
+ - date published: 2023-11-02T09:51:01.000200+00:00
+ - user: None
+ - tags: ['amiga']
+
+## New Zealand Cyber Security Blog | CyberCX
+ - [https://blog.cybercx.co.nz](https://blog.cybercx.co.nz)
+ - date published: 2023-10-25T20:49:21.245581+00:00
+ - user: None
+ - tags: []
+
+## Google
+ - [https://www.google.co.nz](https://www.google.co.nz)
+ - date published: 2023-10-25T20:49:22.482071+00:00
+ - user: None
+ - tags: []
+
+## Niche Software - Niche Software
+ - [https://www.nichesoftware.co.nz](https://www.nichesoftware.co.nz)
+ - date published: 2023-10-25T20:49:26.344940+00:00
+ - user: None
+ - tags: []
+
+## NZ Herald: Latest NZ news, plus World, Sport, Business and more - NZ Herald
+ - [https://www.nzherald.co.nz](https://www.nzherald.co.nz)
+ - date published: 2023-10-25T20:50:14.328097+00:00
+ - user: None
+ - tags: []
+
+## Pulse Security
+ - [https://pulsesecurity.co.nz](https://pulsesecurity.co.nz)
+ - date published: 2023-10-25T20:50:15.343196+00:00
+ - user: None
+ - tags: []
+
+## Reseller News - The voice of the New Zealand IT channel
+ - [https://www.reseller.co.nz](https://www.reseller.co.nz)
+ - date published: 2023-10-25T20:50:24.511375+00:00
+ - user: None
+ - tags: []
+
+## RNZ - NZ News, Current Affairs, Audio On Demand
+ - [https://www.rnz.co.nz](https://www.rnz.co.nz)
+ - date published: 2023-10-25T20:50:30.480752+00:00
+ - user: None
+ - tags: []
+
+## Latest breaking news NZ | Stuff.co.nz | New Zealand
+ - [https://www.stuff.co.nz](https://www.stuff.co.nz)
+ - date published: 2023-10-25T20:50:45.473515+00:00
+ - user: None
+ - tags: []
+
+## Maori Geek
+ - [https://maori.geek.nz](https://maori.geek.nz)
+ - date published: 2023-10-25T20:50:54.301684+00:00
+ - user: None
+ - tags: []
+
+## Arabesque | Systems, Tools, and Terminal Science
+ - [https://blog.sanctum.geek.nz](https://blog.sanctum.geek.nz)
+ - date published: 2023-10-25T20:51:00.552568+00:00
+ - user: None
+ - tags: []
+
+## SmartView Christchurch
+ - [https://smartview.ccc.govt.nz](https://smartview.ccc.govt.nz)
+ - date published: 2023-10-25T20:51:03.510470+00:00
+ - user: None
+ - tags: []
+
+## Te Ara Encyclopedia of New Zealand – Te Ara Encyclopedia of New Zealand
+ - [https://teara.govt.nz](https://teara.govt.nz)
+ - date published: 2023-10-25T20:51:07.098533+00:00
+ - user: None
+ - tags: []
+
 ## home
  - [https://www.tepapa.govt.nz](https://www.tepapa.govt.nz)
  - date published: 2023-11-13T13:55:09.677844+00:00
@@ -81,6 +310,12 @@
  - date published: 2023-10-25T20:51:58.988894+00:00
  - user: None
  - tags: []
+
+## Installati.one
+ - [https://installati.one](https://installati.one)
+ - date published: 2023-11-19T12:07:10+00:00
+ - user: rumpel
+ - tags: ['guide', 'tutorial']
 
 ## Market Map
  - [https://marketmap.one](https://marketmap.one)
@@ -1909,6 +2144,12 @@
 ## Council on Foreign Relations
  - [https://www.cfr.org](https://www.cfr.org)
  - date published: 2023-10-25T21:07:05.491330+00:00
+ - user: None
+ - tags: []
+
+## https://www.cghjournal.org
+ - [https://www.cghjournal.org](https://www.cghjournal.org)
+ - date published: 2023-11-19T19:55:05.210367+00:00
  - user: None
  - tags: []
 
@@ -5766,244 +6007,4 @@ Hosted by Panix.com.
  - date published: 2023-10-25T08:54:53.702441+00:00
  - user: None
  - tags: ['personal']
-
-## Los Angeles Review of Books
- - [https://lareviewofbooks.org](https://lareviewofbooks.org)
- - date published: 2023-10-25T21:38:04.444325+00:00
- - user: None
- - tags: []
-
-## Last Chance to Fix eIDAS (Mozilla)
- - [https://last-chance-for-eidas.org](https://last-chance-for-eidas.org)
- - date published: 2023-11-02T05:57:42+00:00
- - user: None
- - tags: []
-
-## Mastodon
- - [https://mastodon.laurenweinstein.org](https://mastodon.laurenweinstein.org)
- - date published: 2023-10-25T21:38:06.486264+00:00
- - user: None
- - tags: []
-
-## https://www.lawfaremedia.org
- - [https://www.lawfaremedia.org](https://www.lawfaremedia.org)
- - date published: 2023-10-30T04:52:46.101056+00:00
- - user: None
- - tags: []
-
-## Law & Liberty, part of the Liberty Fund Network
- - [https://lawliberty.org](https://lawliberty.org)
- - date published: 2023-10-25T21:38:09.051770+00:00
- - user: None
- - tags: []
-
-## 🚀 Getting Started | LazyVim
- - [https://www.lazyvim.org](https://www.lazyvim.org)
- - date published: 2023-10-25T08:35:28.988360+00:00
- - user: None
- - tags: []
-
-## Learn About Electronics - Home Page
- - [https://learnabout-electronics.org](https://learnabout-electronics.org)
- - date published: 2023-10-25T21:38:15.033617+00:00
- - user: None
- - tags: []
-
-## LENFEST INSTITUTE -
- - [https://www.lenfestinstitute.org](https://www.lenfestinstitute.org)
- - date published: 2023-10-25T21:38:16.663488+00:00
- - user: None
- - tags: []
-
-## Let Grow - When Adults Step Back, Kids Step Up.
- - [https://letgrow.org](https://letgrow.org)
- - date published: 2023-10-25T21:38:20.621745+00:00
- - user: None
- - tags: []
-
-## Lets-Plot: open-source plotting library for statistical data
- - [https://lets-plot.org](https://lets-plot.org)
- - date published: 2023-10-25T21:38:26.790873+00:00
- - user: None
- - tags: []
-
-## Let's Encrypt Community Support
- - [https://community.letsencrypt.org](https://community.letsencrypt.org)
- - date published: 2023-10-25T21:38:30.513053+00:00
- - user: None
- - tags: []
-
-## Let's Encrypt
- - [https://letsencrypt.org](https://letsencrypt.org)
- - date published: 2023-10-25T08:33:56.588669+00:00
- - user: None
- - tags: []
-
-## https://lfortran.org
- - [https://lfortran.org](https://lfortran.org)
- - date published: 2023-10-25T21:38:31.696970+00:00
- - user: None
- - tags: []
-
-## libcamera.org git repository browser
- - [https://git.libcamera.org](https://git.libcamera.org)
- - date published: 2023-10-25T21:38:32.187144+00:00
- - user: None
- - tags: []
-
-## Online Library of Liberty
- - [https://oll.libertyfund.org](https://oll.libertyfund.org)
- - date published: 2023-10-25T21:38:34.220715+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://librearts.org](https://librearts.org)
- - date published: 2023-11-11T17:39:29.225756+00:00
- - user: None
- - tags: ['linux']
-
-## Libreboot – Libreboot project
- - [https://libreboot.org](https://libreboot.org)
- - date published: 2023-10-25T21:38:35.428842+00:00
- - user: None
- - tags: []
-
-## Create electronics the easy way | LibrePCB
- - [https://librepcb.org](https://librepcb.org)
- - date published: 2023-10-25T21:38:40.170206+00:00
- - user: None
- - tags: []
-
-## LibrePlanet
- - [https://libreplanet.org](https://libreplanet.org)
- - date published: 2023-10-25T21:38:48.708694+00:00
- - user: None
- - tags: []
-
-## LibriVox  | free public domain audiobooks
- - [https://librivox.org](https://librivox.org)
- - date published: 2023-10-25T11:35:50.460711+00:00
- - user: None
- - tags: ['audiobooks']
-
-## lichess.org • Free Online Chess
- - [https://lichess.org](https://lichess.org)
- - date published: 2023-10-25T21:38:50.442880+00:00
- - user: None
- - tags: []
-
-## Lily's Things at The Cool Site
- - [https://www.lilysthings.org](https://www.lilysthings.org)
- - date published: 2023-10-25T21:38:51.555067+00:00
- - user: None
- - tags: []
-
-## The National Lime Association – NLA – NLA's mission is to represent, protect, and promote the nation's lime industry.
- - [https://www.lime.org](https://www.lime.org)
- - date published: 2023-10-27T04:21:17.555582+00:00
- - user: None
- - tags: []
-
-## Accelerating deployment of Arm-based solutions | Linaro
- - [https://www.linaro.org](https://www.linaro.org)
- - date published: 2023-10-25T21:38:54.212541+00:00
- - user: None
- - tags: []
-
-## LineageOS – LineageOS Android Distribution
- - [https://lineageos.org](https://lineageos.org)
- - date published: 2023-10-25T08:32:27.769540+00:00
- - user: None
- - tags: ['operating system', 'lineageos', 'android']
-
-## Linear Book Scanner - The open-source automatic book scanner
- - [https://linearbookscanner.org](https://linearbookscanner.org)
- - date published: 2023-10-25T08:36:34.572791+00:00
- - user: None
- - tags: []
-
-## The Linux Information Project (LINFO) Home Page
- - [https://www.linfo.org](https://www.linfo.org)
- - date published: 2023-10-25T21:38:55.368279+00:00
- - user: None
- - tags: []
-
-## Linux.org
- - [https://www.linux.org](https://www.linux.org)
- - date published: 2023-10-25T21:38:58.347661+00:00
- - user: None
- - tags: []
-
-## KVM
- - [https://www.linux-kvm.org](https://www.linux-kvm.org)
- - date published: 2023-10-25T21:39:00.493933+00:00
- - user: None
- - tags: []
-
-## Linux Containers Forum
- - [https://discuss.linuxcontainers.org](https://discuss.linuxcontainers.org)
- - date published: 2023-10-25T21:39:03.769630+00:00
- - user: None
- - tags: []
-
-## Linux Containers
- - [https://linuxcontainers.org](https://linuxcontainers.org)
- - date published: 2023-10-25T21:39:05.617056+00:00
- - user: None
- - tags: []
-
-## Welcome to Linux From Scratch!
- - [https://www.linuxfromscratch.org](https://www.linuxfromscratch.org)
- - date published: 2023-10-25T21:39:07.168165+00:00
- - user: None
- - tags: []
-
-## LiteDB :: A .NET embedded NoSQL database
- - [https://www.litedb.org](https://www.litedb.org)
- - date published: 2023-10-25T21:39:07.941318+00:00
- - user: None
- - tags: []
-
-## Take a Book. Share a Book. - Little Free Library
- - [https://littlefreelibrary.org](https://littlefreelibrary.org)
- - date published: 2023-10-25T21:39:11.222918+00:00
- - user: None
- - tags: []
-
-## Live Action |  Pro-Life Advocacy for Dignity and Human Rights
- - [https://www.liveaction.org](https://www.liveaction.org)
- - date published: 2023-10-25T21:39:14.444748+00:00
- - user: None
- - tags: []
-
-## LKML.ORG - the Linux Kernel Mailing List Archive
- - [https://lkml.org](https://lkml.org)
- - date published: 2023-11-13T12:04:53.320666+00:00
- - user: None
- - tags: []
-
-## Universal and Transferable Attacks on Aligned Language Models
- - [https://llm-attacks.org](https://llm-attacks.org)
- - date published: 2023-10-25T21:39:17.051556+00:00
- - user: None
- - tags: []
-
-## GPU Utils ⚡️
- - [https://gpus.llm-utils.org](https://gpus.llm-utils.org)
- - date published: 2023-10-25T21:39:18.562208+00:00
- - user: None
- - tags: []
-
-## Home - LLM Utils
- - [https://llm-utils.org](https://llm-utils.org)
- - date published: 2023-10-25T21:39:20.535334+00:00
- - user: None
- - tags: []
-
-## LLVM Discussion Forums - Our community includes both users and developers of various compiler technologies within the LLVM project.
- - [https://discourse.llvm.org](https://discourse.llvm.org)
- - date published: 2023-10-25T21:39:24.567913+00:00
- - user: None
- - tags: []
 

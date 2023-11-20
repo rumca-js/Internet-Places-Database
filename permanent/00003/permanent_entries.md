@@ -1,3 +1,63 @@
+## Drew Curtis' FARK.com
+ - [https://www.fark.com](https://www.fark.com)
+ - date published: 2023-10-25T14:27:12.540081+00:00
+ - user: None
+ - tags: []
+
+## Far Manager Official Site : main
+ - [https://www.farmanager.com](https://www.farmanager.com)
+ - date published: 2023-10-25T14:27:13.447438+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Farnell Global | Global Electronic Component Distributor
+ - [http://farnell.com](http://farnell.com)
+ - date published: 2023-11-01T06:55:06.176630+00:00
+ - user: None
+ - tags: ['electronic parts']
+
+## Farnell  - podzespoły elektroniczne
+ - [https://pl.farnell.com](https://pl.farnell.com)
+ - date published: 2023-10-25T11:14:57.081474+00:00
+ - user: None
+ - tags: ['raspberry', 'electronic parts']
+
+## fastcompany.com
+ - [https://www.fastcompany.com](https://www.fastcompany.com)
+ - date published: 2023-10-25T09:32:54.680145+00:00
+ - user: None
+ - tags: []
+
+## Fast Company Middle East: Latest News & Updates in Business, Technology & Design
+ - [https://fastcompanyme.com](https://fastcompanyme.com)
+ - date published: 2023-10-25T14:27:18.555483+00:00
+ - user: None
+ - tags: []
+
+## Fast Company Middle East: Latest News & Updates in Business, Technology & Design
+ - [https://www.fastcompanyme.com](https://www.fastcompanyme.com)
+ - date published: 2023-10-25T14:27:35.357244+00:00
+ - user: None
+ - tags: []
+
+## Stop paying for expensive tuition and start saving money today.
+ - [https://fastflowchart.com](https://fastflowchart.com)
+ - date published: 2023-10-25T14:27:35.987764+00:00
+ - user: None
+ - tags: []
+
+## Causality for Machine Learning
+ - [https://ff13.fastforwardlabs.com](https://ff13.fastforwardlabs.com)
+ - date published: 2023-10-25T14:27:42.587796+00:00
+ - user: None
+ - tags: []
+
+## The edge cloud platform behind the best of the web | Fastly
+ - [https://www.fastly.com](https://www.fastly.com)
+ - date published: 2023-10-25T14:27:45.158485+00:00
+ - user: None
+ - tags: []
+
 ## Fastmail | We Respect Your Privacy & Put You in Control
  - [https://www.fastmail.com](https://www.fastmail.com)
  - date published: 2023-10-25T14:27:47.232402+00:00
@@ -394,6 +454,12 @@
  - user: None
  - tags: []
 
+## FiWEH Books
+ - [https://fiweh.com](https://fiweh.com)
+ - date published: 2023-11-19T11:59:19.146085+00:00
+ - user: None
+ - tags: []
+
 ## Frankfurt Kurnit Klein & Selz
  - [https://fkks.com](https://fkks.com)
  - date published: 2023-10-25T14:32:33.167969+00:00
@@ -595,6 +661,12 @@
 ## Aviation, Airplanes, News & Training | Flying
  - [https://www.flyingmag.com](https://www.flyingmag.com)
  - date published: 2023-10-25T11:49:16.977687+00:00
+ - user: None
+ - tags: []
+
+## 에펨코리아 - 유머, 축구, 아프리카TV, 게임, 풋볼매니저, 에펨, 펨코
+ - [https://m.fmkorea.com](https://m.fmkorea.com)
+ - date published: 2023-11-19T14:19:27.294240+00:00
  - user: None
  - tags: []
 
@@ -2327,6 +2399,12 @@
  - user: None
  - tags: []
 
+## Chrome Web Store
+ - [https://chromewebstore.google.com](https://chromewebstore.google.com)
+ - date published: 2023-11-19T01:48:44.969811+00:00
+ - user: None
+ - tags: []
+
 ## https://cloud.google.com
  - [https://cloud.google.com](https://cloud.google.com)
  - date published: 2023-10-25T14:47:43.318651+00:00
@@ -2840,9 +2918,21 @@
  - user: None
  - tags: []
 
+## Philip Greenspun's home page
+ - [https://philip.greenspun.com](https://philip.greenspun.com)
+ - date published: 2023-11-19T01:48:48.082052+00:00
+ - user: None
+ - tags: []
+
 ## Homepage - gregalder.com
  - [https://gregalder.com](https://gregalder.com)
  - date published: 2023-10-25T14:51:38.211893+00:00
+ - user: None
+ - tags: []
+
+## Greg Brockman on Svbtle
+ - [https://blog.gregbrockman.com](https://blog.gregbrockman.com)
+ - date published: 2023-11-19T21:34:17.374452+00:00
  - user: None
  - tags: []
 
@@ -4640,6 +4730,12 @@
  - user: None
  - tags: []
 
+## I Like Big Bits
+ - [https://www.ilikebigbits.com](https://www.ilikebigbits.com)
+ - date published: 2023-11-19T21:54:17.899109+00:00
+ - user: None
+ - tags: []
+
 ## Illumination Entertainment
  - [https://www.illumination.com](https://www.illumination.com)
  - date published: 2023-11-01T09:03:07.821926+00:00
@@ -5897,102 +5993,6 @@
 ## Jeff Ammons
  - [https://jeffammons.com](https://jeffammons.com)
  - date published: 2023-10-25T08:46:29.891059+00:00
- - user: None
- - tags: ['personal']
-
-## Jeff Geerling - Author and Software Developer in St. Louis, MO
- - [https://www.jeffgeerling.com](https://www.jeffgeerling.com)
- - date published: 2023-10-25T08:46:31.532738+00:00
- - user: None
- - tags: ['personal']
-
-## Jeff Huang · Computer Science at Brown University
- - [https://jeffhuang.com](https://jeffhuang.com)
- - date published: 2023-10-25T15:27:58.164772+00:00
- - user: None
- - tags: []
-
-## Home | Jeff Nobbs
- - [https://www.jeffnobbs.com](https://www.jeffnobbs.com)
- - date published: 2023-10-25T08:46:33.428500+00:00
- - user: None
- - tags: ['personal']
-
-## Jeff Sandquist – Just a farmer.
- - [https://www.jeffsandquist.com](https://www.jeffsandquist.com)
- - date published: 2023-10-25T09:20:57.411695+00:00
- - user: None
- - tags: ['personal']
-
-## Jeff Kaufman
- - [https://www.jefftk.com](https://www.jefftk.com)
- - date published: 2023-10-25T09:20:58.479167+00:00
- - user: None
- - tags: ['personal']
-
-## Holy Ghost Stories – Faith, technology, and everything in between.
- - [https://www.jeffwofford.com](https://www.jeffwofford.com)
- - date published: 2023-11-10T23:40:06.837839+00:00
- - user: None
- - tags: []
-
-## Jellylade
- - [https://app.jellylade.com](https://app.jellylade.com)
- - date published: 2023-10-25T15:27:58.907008+00:00
- - user: None
- - tags: []
-
-## Literature Clock
- - [https://literature-clock.jenevoldsen.com](https://literature-clock.jenevoldsen.com)
- - date published: 2023-10-25T15:27:59.485399+00:00
- - user: None
- - tags: []
-
-## 👋🏻 - Jeremia on the internet
- - [https://www.jeremiak.com](https://www.jeremiak.com)
- - date published: 2023-10-25T15:28:00.104721+00:00
- - user: None
- - tags: []
-
-## JEREMY DEPRISCO - JEREMY DEPRISCO
- - [https://www.jeremydeprisco.com](https://www.jeremydeprisco.com)
- - date published: 2023-11-17T10:12:35.173571+00:00
- - user: None
- - tags: ['personal']
-
-## Math ∩ Programming
- - [https://jeremykun.com](https://jeremykun.com)
- - date published: 2023-10-25T15:28:05.702522+00:00
- - user: None
- - tags: []
-
-## Jeremy Mikkola - Home
- - [https://jeremymikkola.com](https://jeremymikkola.com)
- - date published: 2023-10-25T09:20:59.043607+00:00
- - user: None
- - tags: ['personal']
-
-## Jeremy's Programming Blog
- - [https://www.jeremymorgan.com](https://www.jeremymorgan.com)
- - date published: 2023-10-25T15:28:07.381699+00:00
- - user: None
- - tags: []
-
-## Jeremy's Blog
- - [https://www.jeremyong.com](https://www.jeremyong.com)
- - date published: 2023-10-25T15:28:08.983378+00:00
- - user: None
- - tags: []
-
-## Juan Ernesto Blog
- - [https://www.jernesto.com](https://www.jernesto.com)
- - date published: 2023-10-25T15:28:10.434639+00:00
- - user: None
- - tags: []
-
-## Jerome Leroy | Composer
- - [https://www.jeromeleroy.com](https://www.jeromeleroy.com)
- - date published: 2023-10-25T08:46:34.625108+00:00
  - user: None
  - tags: ['personal']
 

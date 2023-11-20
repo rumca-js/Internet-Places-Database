@@ -1,3 +1,99 @@
+## Jeff Huang · Computer Science at Brown University
+ - [https://jeffhuang.com](https://jeffhuang.com)
+ - date published: 2023-10-25T15:27:58.164772+00:00
+ - user: None
+ - tags: []
+
+## Home | Jeff Nobbs
+ - [https://www.jeffnobbs.com](https://www.jeffnobbs.com)
+ - date published: 2023-10-25T08:46:33.428500+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeff Sandquist – Just a farmer.
+ - [https://www.jeffsandquist.com](https://www.jeffsandquist.com)
+ - date published: 2023-10-25T09:20:57.411695+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeff Kaufman
+ - [https://www.jefftk.com](https://www.jefftk.com)
+ - date published: 2023-10-25T09:20:58.479167+00:00
+ - user: None
+ - tags: ['personal']
+
+## Holy Ghost Stories – Faith, technology, and everything in between.
+ - [https://www.jeffwofford.com](https://www.jeffwofford.com)
+ - date published: 2023-11-10T23:40:06.837839+00:00
+ - user: None
+ - tags: []
+
+## Jellylade
+ - [https://app.jellylade.com](https://app.jellylade.com)
+ - date published: 2023-10-25T15:27:58.907008+00:00
+ - user: None
+ - tags: []
+
+## Literature Clock
+ - [https://literature-clock.jenevoldsen.com](https://literature-clock.jenevoldsen.com)
+ - date published: 2023-10-25T15:27:59.485399+00:00
+ - user: None
+ - tags: []
+
+## 👋🏻 - Jeremia on the internet
+ - [https://www.jeremiak.com](https://www.jeremiak.com)
+ - date published: 2023-10-25T15:28:00.104721+00:00
+ - user: None
+ - tags: []
+
+## JEREMY DEPRISCO - JEREMY DEPRISCO
+ - [https://www.jeremydeprisco.com](https://www.jeremydeprisco.com)
+ - date published: 2023-11-17T10:12:35.173571+00:00
+ - user: None
+ - tags: ['personal']
+
+## Math ∩ Programming
+ - [https://jeremykun.com](https://jeremykun.com)
+ - date published: 2023-10-25T15:28:05.702522+00:00
+ - user: None
+ - tags: []
+
+## Jeremy Mikkola - Home
+ - [https://jeremymikkola.com](https://jeremymikkola.com)
+ - date published: 2023-10-25T09:20:59.043607+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeremy's Programming Blog
+ - [https://www.jeremymorgan.com](https://www.jeremymorgan.com)
+ - date published: 2023-10-25T15:28:07.381699+00:00
+ - user: None
+ - tags: []
+
+## Jeremy's Blog
+ - [https://www.jeremyong.com](https://www.jeremyong.com)
+ - date published: 2023-10-25T15:28:08.983378+00:00
+ - user: None
+ - tags: []
+
+## Juan Ernesto Blog
+ - [https://www.jernesto.com](https://www.jernesto.com)
+ - date published: 2023-10-25T15:28:10.434639+00:00
+ - user: None
+ - tags: []
+
+## Jerome Leroy | Composer
+ - [https://www.jeromeleroy.com](https://www.jeromeleroy.com)
+ - date published: 2023-10-25T08:46:34.625108+00:00
+ - user: None
+ - tags: ['personal']
+
+## JESDA.COM | Cars, travel, etc.
+ - [https://jesda.com](https://jesda.com)
+ - date published: 2023-10-25T15:28:14.048562+00:00
+ - user: None
+ - tags: []
+
 ## Pursuit Of Laziness – A blog by Jesse Duffield
  - [https://jesseduffield.com](https://jesseduffield.com)
  - date published: 2023-10-25T15:28:22.799029+00:00
@@ -909,6 +1005,12 @@
  - date published: 2023-10-26T18:52:24.828608+00:00
  - user: None
  - tags: ['games']
+
+## KCRG | Cedar Rapids, Iowa City, Waterloo, Dubuque | News, Sports and Weather
+ - [https://www.kcrg.com](https://www.kcrg.com)
+ - date published: 2023-11-19T00:29:17.547259+00:00
+ - user: None
+ - tags: ['news']
 
 ## KCRW 89.9FM | Music, NPR News, Culture Los Angeles | KCRW
  - [https://www.kcrw.com](https://www.kcrw.com)
@@ -2279,6 +2381,12 @@
  - user: None
  - tags: []
 
+## https://liberapay.com
+ - [https://liberapay.com](https://liberapay.com)
+ - date published: 2023-11-19T21:28:17+00:00
+ - user: rumpel
+ - tags: ['crowdfunding']
+
 ## Liberland Press
  - [https://liberlandpress.com](https://liberlandpress.com)
  - date published: 2023-10-25T10:15:59.341820+00:00
@@ -2428,6 +2536,12 @@
  - date published: 2023-10-27T13:16:10.184199+00:00
  - user: None
  - tags: ['gatekeeper', 'social platform']
+
+## Oliver Wolf – Medium
+ - [https://linkedrecords.com](https://linkedrecords.com)
+ - date published: 2023-11-19T10:38:56.546441+00:00
+ - user: None
+ - tags: []
 
 ## Linkidex
  - [https://linkidex.com](https://linkidex.com)
@@ -5878,120 +5992,6 @@ diversions.
 ## Monzo – Online Banking Made Easy | Open An Account Online
  - [https://monzo.com](https://monzo.com)
  - date published: 2023-10-25T16:06:43.718528+00:00
- - user: None
- - tags: []
-
-## MoonBit
- - [https://www.moonbitlang.com](https://www.moonbitlang.com)
- - date published: 2023-10-25T16:06:44.746203+00:00
- - user: None
- - tags: []
-
-## More Pablo
- - [https://morepablo.com](https://morepablo.com)
- - date published: 2023-10-25T16:06:48.588242+00:00
- - user: None
- - tags: []
-
-## More To That
- - [https://moretothat.com](https://moretothat.com)
- - date published: 2023-10-25T16:06:52.787774+00:00
- - user: None
- - tags: []
-
-## Morgan Hill Times | Morgan Hill, San Martin, CA | Home of the Morgan Hill Times
- - [https://morganhilltimes.com](https://morganhilltimes.com)
- - date published: 2023-10-25T16:06:57.200736+00:00
- - user: None
- - tags: []
-
-## MorningChores - Build Your Self-Sufficient Life
- - [https://morningchores.com](https://morningchores.com)
- - date published: 2023-10-28T17:39:06.396407+00:00
- - user: None
- - tags: ['homesteading']
-
-## Morningstar | Empowering Investor Success
- - [https://www.morningstar.com](https://www.morningstar.com)
- - date published: 2023-10-25T16:07:11.198196+00:00
- - user: None
- - tags: []
-
-## Morocco World News - Morocco Now - Morocco Latest News
- - [https://www.moroccoworldnews.com](https://www.moroccoworldnews.com)
- - date published: 2023-10-25T16:07:11.896750+00:00
- - user: None
- - tags: []
-
-## Mortal Kombat 11 Ultimate
- - [https://mk11.mortalkombat.com](https://mk11.mortalkombat.com)
- - date published: 2023-11-01T08:42:40.063578+00:00
- - user: None
- - tags: []
-
-## 1
- - [https://www.mortalkombat.com](https://www.mortalkombat.com)
- - date published: 2023-11-01T08:42:41.715550+00:00
- - user: None
- - tags: []
-
-## Morten Vistisen | Ramblings about Tech and making Internet Money
- - [https://mortenvistisen.com](https://mortenvistisen.com)
- - date published: 2023-10-25T16:07:12.653400+00:00
- - user: None
- - tags: []
-
-## None
- - [https://mosaicmagazine.com](https://mosaicmagazine.com)
- - date published: 2023-10-27T12:49:31.579848+00:00
- - user: None
- - tags: []
-
-## MosaicML | Home
- - [https://www.mosaicml.com](https://www.mosaicml.com)
- - date published: 2023-10-25T16:07:15.073011+00:00
- - user: None
- - tags: []
-
-## Moserware
- - [https://www.moserware.com](https://www.moserware.com)
- - date published: 2023-10-25T16:07:21.129599+00:00
- - user: None
- - tags: []
-
-## Mostly metrics | CJ Gustafson | Substack
- - [https://www.mostlymetrics.com](https://www.mostlymetrics.com)
- - date published: 2023-10-25T16:07:25.793429+00:00
- - user: None
- - tags: []
-
-## MotherDuck: Serverless Data Analytics with DuckDB
- - [https://motherduck.com](https://motherduck.com)
- - date published: 2023-10-25T16:07:29.673636+00:00
- - user: None
- - tags: []
-
-## Mother Jones – Smart, fearless journalism
- - [https://www.motherjones.com](https://www.motherjones.com)
- - date published: 2023-10-25T16:07:37.660102+00:00
- - user: None
- - tags: []
-
-## Car News and Information | Motor1.com
- - [https://www.motor1.com](https://www.motor1.com)
- - date published: 2023-11-08T00:56:14.804673+00:00
- - user: None
- - tags: []
-
-## motorola Polska | Smartfony z systemem Android & Razr
- - [https://www.motorola.com](https://www.motorola.com)
- - date published: 2023-10-25T11:26:01.181427+00:00
- - user: None
- - tags: []
-
-## MotorTrend: New Cars - Car News and Expert Reviews
- - [https://www.motortrend.com](https://www.motortrend.com)
- - date published: 2023-10-25T16:07:43.987801+00:00
  - user: None
  - tags: []
 
