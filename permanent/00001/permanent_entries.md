@@ -1,3 +1,57 @@
+## ABC13 Houston news, weather and traffic - Latest Texas news and weather
+ - [https://abc13.com](https://abc13.com)
+ - date published: 2023-10-25T12:28:58.013073+00:00
+ - user: None
+ - tags: []
+
+## Phoenix, Arizona News and Weather | ABC15 Arizona
+ - [https://www.abc15.com](https://www.abc15.com)
+ - date published: 2023-10-25T12:29:09.415306+00:00
+ - user: None
+ - tags: []
+
+## Columbus News, Weather, Sports, Breaking News | WSYX
+ - [https://abc6onyourside.com](https://abc6onyourside.com)
+ - date published: 2023-11-19T04:08:56.180171+00:00
+ - user: None
+ - tags: ['news']
+
+## Los Angeles and Southern California News, Weather, Traffic - ABC7 KABC
+ - [https://abc7.com](https://abc7.com)
+ - date published: 2023-10-25T12:29:24.377691+00:00
+ - user: None
+ - tags: []
+
+## ABC Chicago - Breaking News and Weather
+ - [https://abc7chicago.com](https://abc7chicago.com)
+ - date published: 2023-10-25T12:29:44.532407+00:00
+ - user: None
+ - tags: []
+
+## ABC7 News -  KGO Bay Area and San Francisco News and Weather
+ - [https://abc7news.com](https://abc7news.com)
+ - date published: 2023-10-25T11:50:30.347969+00:00
+ - user: None
+ - tags: []
+
+## ABC7 New York - NY News, Local News, Breaking News, Weather
+ - [https://abc7ny.com](https://abc7ny.com)
+ - date published: 2023-11-02T00:30:26.145061+00:00
+ - user: None
+ - tags: []
+
+## Tampa Bay, Florida News and Weather | ABC Action News
+ - [https://www.abcactionnews.com](https://www.abcactionnews.com)
+ - date published: 2023-10-25T12:29:59.792652+00:00
+ - user: None
+ - tags: []
+
+## ABC Digital Syndication | ABC Audio Digital Syndication
+ - [https://digital.abcaudio.com](https://digital.abcaudio.com)
+ - date published: 2023-10-25T12:30:03.797320+00:00
+ - user: None
+ - tags: []
+
 ## ABC News - Breaking News, Latest News and Videos
  - [http://feeds.abcnews.com](http://feeds.abcnews.com)
  - date published: 2023-10-25T10:50:33.309447+00:00
@@ -2116,6 +2170,12 @@
  - user: None
  - tags: ['music band']
 
+## Home
+ - [https://www.army-technology.com](https://www.army-technology.com)
+ - date published: 2023-11-21T18:14:15.942961+00:00
+ - user: None
+ - tags: []
+
 ## Army Times, Independent News For Soldiers | Army Times
  - [https://www.armytimes.com](https://www.armytimes.com)
  - date published: 2023-10-25T12:45:36.927830+00:00
@@ -2804,7 +2864,7 @@
  - [https://www.axios.com](https://www.axios.com)
  - date published: 2023-10-25T10:36:43.619164+00:00
  - user: None
- - tags: []
+ - tags: ['news']
 
 ## Axis Communications — lider w dziedzinie kamer sieciowych i innych rozwiązań sieciowych IP | Axis Communications
  - [https://www.axis.com](https://www.axis.com)
@@ -4270,6 +4330,12 @@
  - user: None
  - tags: ['personal']
 
+## FXRant
+ - [https://fxrant.blogspot.com](https://fxrant.blogspot.com)
+ - date published: 2023-11-20T09:24:52.399558+00:00
+ - user: None
+ - tags: []
+
 ## Gary's hacking stuff
  - [https://garyodernichts.blogspot.com](https://garyodernichts.blogspot.com)
  - date published: 2023-10-29T08:40:47.881044+00:00
@@ -4317,6 +4383,12 @@
  - date published: 2023-10-25T09:09:06.318517+00:00
  - user: None
  - tags: ['personal']
+
+## Development of the trilogy & IV
+ - [https://insiderockstarnorth.blogspot.com](https://insiderockstarnorth.blogspot.com)
+ - date published: 2023-11-21T23:34:01.400243+00:00
+ - user: None
+ - tags: []
 
 ## Jan's Tech Talk
  - [https://janstechtalk.blogspot.com](https://janstechtalk.blogspot.com)
@@ -4661,6 +4733,12 @@
  - tags: []
 
 ## Bloomberg.com
+ - [https://bloomberg.com](https://bloomberg.com)
+ - date published: 2023-11-21T22:14:02.885363+00:00
+ - user: None
+ - tags: []
+
+## Bloomberg.com
  - [https://www.bloomberg.com](https://www.bloomberg.com)
  - date published: 2023-10-25T10:24:59.505089+00:00
  - user: None
@@ -4717,6 +4795,12 @@
 ## Homepage | BMJ Oncology
  - [https://bmjoncology.bmj.com](https://bmjoncology.bmj.com)
  - date published: 2023-10-25T13:07:13.553869+00:00
+ - user: None
+ - tags: []
+
+## Homepage | BMJ Open
+ - [https://bmjopen.bmj.com](https://bmjopen.bmj.com)
+ - date published: 2023-11-21T13:29:50.036206+00:00
  - user: None
  - tags: []
 
@@ -5913,88 +5997,4 @@
  - date published: 2023-10-25T13:19:07.478903+00:00
  - user: None
  - tags: []
-
-## Catholic News Agency
- - [https://www.catholicnewsagency.com](https://www.catholicnewsagency.com)
- - date published: 2023-10-25T13:19:11.621062+00:00
- - user: None
- - tags: []
-
-## 宁德时代·CATL
- - [https://www.catl.com](https://www.catl.com)
- - date published: 2023-10-25T13:19:14.141081+00:00
- - user: None
- - tags: []
-
-## Made Mighty | Cat phones
- - [https://www.catphones.com](https://www.catphones.com)
- - date published: 2023-10-25T13:19:18.983531+00:00
- - user: None
- - tags: []
-
-## Catsuka
- - [https://www.catsuka.com](https://www.catsuka.com)
- - date published: 2023-10-25T11:01:46.712865+00:00
- - user: None
- - tags: []
-
-## Cayman News Service
- - [https://caymannewsservice.com](https://caymannewsservice.com)
- - date published: 2023-10-25T13:19:25.716492+00:00
- - user: None
- - tags: []
-
-## Austin News, Weather, Sports, Breaking News | KEYE
- - [https://cbsaustin.com](https://cbsaustin.com)
- - date published: 2023-10-25T11:02:10.272499+00:00
- - user: None
- - tags: []
-
-## CBS News - Breaking news, 24/7 live streaming news & top stories
- - [https://www.cbsnews.com](https://www.cbsnews.com)
- - date published: 2023-10-25T10:25:17.439159+00:00
- - user: None
- - tags: []
-
-## South Park  -  Satirical Animated  TV Show | Watch Free Episodes | South Park Studios Global
- - [https://southpark.cc.com](https://southpark.cc.com)
- - date published: 2023-10-25T11:44:25.966783+00:00
- - user: None
- - tags: ['comedy central', 'video streaming']
-
-## CCN | Crypto and Bitcoin News, Analysis and Guides.
- - [https://www.ccn.com](https://www.ccn.com)
- - date published: 2023-10-25T13:19:35.212758+00:00
- - user: None
- - tags: []
-
-## Home - CD PROJEKT
- - [https://www.cdprojekt.com](https://www.cdprojekt.com)
- - date published: 2023-10-25T14:21:50.256113+00:00
- - user: None
- - tags: ['cyberpunk', 'witcher']
-
-## CD PROJEKT RED - Award-winning creators of story-driven role-playing games.
- - [https://www.cdprojektred.com](https://www.cdprojektred.com)
- - date published: 2023-10-30T18:25:46.679662+00:00
- - user: None
- - tags: ['company', 'game studio']
-
-## Carbon dioxide removal API
- - [https://docs.cdrplatform.com](https://docs.cdrplatform.com)
- - date published: 2023-10-25T13:19:36.142531+00:00
- - user: None
- - tags: []
-
-## Cedar Language Playground
- - [https://www.cedarpolicy.com](https://www.cedarpolicy.com)
- - date published: 2023-10-25T13:19:37.088830+00:00
- - user: None
- - tags: []
-
-## Cedric Charly's Blog
- - [https://blog.cedriccharly.com](https://blog.cedriccharly.com)
- - date published: 2023-10-25T09:19:37.116006+00:00
- - user: None
- - tags: ['personal']
 

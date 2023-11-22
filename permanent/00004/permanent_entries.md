@@ -1,3 +1,129 @@
+## Jason Zweig | A safe haven for investors by Jason Zweig of The Wall Street Journal.
+ - [https://jasonzweig.com](https://jasonzweig.com)
+ - date published: 2023-10-25T15:27:17.416854+00:00
+ - user: None
+ - tags: []
+
+## https://www.java.com
+ - [https://www.java.com](https://www.java.com)
+ - date published: 2023-11-01T08:42:20.753072+00:00
+ - user: None
+ - tags: []
+
+## Java Playground
+ - [https://java-playground.com](https://java-playground.com)
+ - date published: 2023-10-25T15:27:20.226781+00:00
+ - user: None
+ - tags: []
+
+## Welcome To The Java Advent Calendar - JVM Advent
+ - [https://www.javaadvent.com](https://www.javaadvent.com)
+ - date published: 2023-10-25T15:27:22.352791+00:00
+ - user: None
+ - tags: []
+
+## Learn JavaScript Online - Courses for Beginners - javascript.com
+ - [https://www.javascript.com](https://www.javascript.com)
+ - date published: 2023-11-01T08:42:21.170598+00:00
+ - user: None
+ - tags: []
+
+## Jay Acunzo | Author, Speaker, Showrunner
+ - [https://jayacunzo.com](https://jayacunzo.com)
+ - date published: 2023-10-25T08:46:19.898867+00:00
+ - user: None
+ - tags: ['personal']
+
+## Goroutines: the concurrency model we wanted all along — jayconrod.com
+ - [https://jayconrod.com](https://jayconrod.com)
+ - date published: 2023-10-25T15:27:26.026976+00:00
+ - user: None
+ - tags: []
+
+## Jay Mody
+ - [https://jaykmody.com](https://jaykmody.com)
+ - date published: 2023-10-25T09:20:55.650339+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://jaylittle.com](https://jaylittle.com)
+ - date published: 2023-10-25T08:46:22.108869+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jesse's Website - Home Page
+ - [http://www.jbcse.com](http://www.jbcse.com)
+ - date published: 2023-10-25T08:46:23.944313+00:00
+ - user: None
+ - tags: ['personal']
+
+## Juraj's Blog
+ - [https://jborza.com](https://jborza.com)
+ - date published: 2023-10-25T08:58:08.654807+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hack The World · Juan Carlos Jimenez
+ - [https://jcjc-dev.com](https://jcjc-dev.com)
+ - date published: 2023-10-25T15:27:34.864299+00:00
+ - user: None
+ - tags: []
+
+## https://www.jclinepi.com
+ - [https://www.jclinepi.com](https://www.jclinepi.com)
+ - date published: 2023-10-25T15:27:36.093054+00:00
+ - user: None
+ - tags: []
+
+## The If Works – The If Works
+ - [https://blog.jcoglan.com](https://blog.jcoglan.com)
+ - date published: 2023-10-25T15:27:36.894719+00:00
+ - user: None
+ - tags: []
+
+## Financial Markets and Electoral Systems
+ - [https://www.jdawiseman.com](https://www.jdawiseman.com)
+ - date published: 2023-10-25T15:27:40.087215+00:00
+ - user: None
+ - tags: []
+
+## JD Meier | High Performance. Innovation. Strategy.
+ - [https://jdmeier.com](https://jdmeier.com)
+ - date published: 2023-10-25T15:27:42.784067+00:00
+ - user: None
+ - tags: []
+
+## Need-to-Know News, Insights, & Intelligence for Business Leaders | JD Supra
+ - [https://www.jdsupra.com](https://www.jdsupra.com)
+ - date published: 2023-10-25T15:27:52.591885+00:00
+ - user: None
+ - tags: []
+
+## Jeannen  – Cool and dumb stuff, mainly about AI
+ - [https://jeannen.com](https://jeannen.com)
+ - date published: 2023-10-25T15:27:54.634589+00:00
+ - user: None
+ - tags: []
+
+## Jedi Mind Tricks - Vinnie Paz x Stoupe x Jus Allah
+ - [https://jedi-mind-tricks.com](https://jedi-mind-tricks.com)
+ - date published: 2023-11-13T10:31:15.448394+00:00
+ - user: None
+ - tags: ['music band']
+
+## Jeff Ammons
+ - [https://jeffammons.com](https://jeffammons.com)
+ - date published: 2023-10-25T08:46:29.891059+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeff Geerling - Author and Software Developer in St. Louis, MO
+ - [https://www.jeffgeerling.com](https://www.jeffgeerling.com)
+ - date published: 2023-10-25T08:46:31.532738+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Jeff Huang · Computer Science at Brown University
  - [https://jeffhuang.com](https://jeffhuang.com)
  - date published: 2023-10-25T15:27:58.164772+00:00
@@ -1589,6 +1715,12 @@
  - user: None
  - tags: []
 
+## Homepage
+ - [https://www.ksby.com](https://www.ksby.com)
+ - date published: 2023-11-21T18:13:53.146023+00:00
+ - user: None
+ - tags: []
+
 ## Kevin Schaul
  - [https://www.kschaul.com](https://www.kschaul.com)
  - date published: 2023-10-25T15:39:33.921474+00:00
@@ -2006,6 +2138,12 @@
 ## Leaded Solder | Old computer repair, history and programming.
  - [https://www.leadedsolder.com](https://www.leadedsolder.com)
  - date published: 2023-10-25T15:43:32.295992+00:00
+ - user: None
+ - tags: []
+
+## Leading in Product | Benedikt Kantus | Substack
+ - [https://www.leadinginproduct.com](https://www.leadinginproduct.com)
+ - date published: 2023-11-21T09:09:34.603189+00:00
  - user: None
  - tags: []
 
@@ -4405,6 +4543,12 @@ diversions.
  - user: None
  - tags: []
 
+## Flipboard – Medium
+ - [https://flipboard.medium.com](https://flipboard.medium.com)
+ - date published: 2023-11-21T21:54:55.251511+00:00
+ - user: None
+ - tags: []
+
 ## Robert Barron – Medium
  - [https://flyingbarron.medium.com](https://flyingbarron.medium.com)
  - date published: 2023-10-25T10:20:12.651490+00:00
@@ -5848,150 +5992,6 @@ diversions.
 ## Money Movement APIs | Modern Treasury | ACH, RTP, Wires and more payment methods
  - [https://www.moderntreasury.com](https://www.moderntreasury.com)
  - date published: 2023-10-25T16:05:53.474763+00:00
- - user: None
- - tags: []
-
-## Modrinth
- - [https://modrinth.com](https://modrinth.com)
- - date published: 2023-10-25T11:16:51.066359+00:00
- - user: None
- - tags: []
-
-## Modular Docs
- - [https://docs.modular.com](https://docs.modular.com)
- - date published: 2023-10-25T16:05:54.312316+00:00
- - user: None
- - tags: []
-
-## Modular: AI development starts here
- - [https://www.modular.com](https://www.modular.com)
- - date published: 2023-10-25T16:05:56.151309+00:00
- - user: None
- - tags: []
-
-## Mojeek
- - [https://www.mojeek.com](https://www.mojeek.com)
- - date published: 2023-10-25T09:07:25.783266+00:00
- - user: None
- - tags: []
-
-## Home | Monadical Consulting
- - [https://monadical.com](https://monadical.com)
- - date published: 2023-10-25T16:05:58.077632+00:00
- - user: None
- - tags: []
-
-## Monad Monkey
- - [https://monadmonkey.com](https://monadmonkey.com)
- - date published: 2023-10-25T16:05:58.559782+00:00
- - user: None
- - tags: []
-
-## George Monbiot
- - [https://www.monbiot.com](https://www.monbiot.com)
- - date published: 2023-10-28T15:38:01.543527+00:00
- - user: None
- - tags: []
-
-## Monday Note
- - [https://mondaynote.com](https://mondaynote.com)
- - date published: 2023-10-25T16:06:02.801355+00:00
- - user: None
- - tags: []
-
-## Money: Create Richer Lives for Everyone | Money
- - [https://money.com](https://money.com)
- - date published: 2023-10-25T10:52:33.649820+00:00
- - user: None
- - tags: []
-
-## Login Consent - Moneycontrol
- - [https://www.moneycontrol.com](https://www.moneycontrol.com)
- - date published: 2023-10-25T16:06:05.568468+00:00
- - user: None
- - tags: []
-
-## Money Inc - The Business of Money
- - [https://moneyinc.com](https://moneyinc.com)
- - date published: 2023-10-25T16:06:09.228395+00:00
- - user: None
- - tags: []
-
-## MoneyWeek | Investment advice, analysis, finance news
- - [https://moneyweek.com](https://moneyweek.com)
- - date published: 2023-10-25T16:06:15.176047+00:00
- - user: None
- - tags: []
-
-## https://moneywise.com
- - [https://moneywise.com](https://moneywise.com)
- - date published: 2023-10-25T16:06:15.474941+00:00
- - user: None
- - tags: []
-
-## Conservation news - Environmental science and conservation news
- - [https://news.mongabay.com](https://news.mongabay.com)
- - date published: 2023-10-25T16:06:20.302376+00:00
- - user: None
- - tags: []
-
-## Personal CRM done right - Monica
- - [https://www.monicahq.com](https://www.monicahq.com)
- - date published: 2023-10-25T16:06:21.691787+00:00
- - user: None
- - tags: []
-
-## Monica Lent's Website
- - [https://monicalent.com](https://monicalent.com)
- - date published: 2023-10-25T16:06:22.675426+00:00
- - user: None
- - tags: []
-
-## Monochrome Watches | An Online Magazine Dedicated To Fine Watches
- - [https://monochrome-watches.com](https://monochrome-watches.com)
- - date published: 2023-10-25T16:06:25.829565+00:00
- - user: None
- - tags: []
-
-## MonoDevelop | MonoDevelop
- - [https://www.monodevelop.com](https://www.monodevelop.com)
- - date published: 2023-10-25T16:06:27.432727+00:00
- - user: None
- - tags: []
-
-## MOnSter 6502
- - [https://monster6502.com](https://monster6502.com)
- - date published: 2023-10-25T16:06:28.942526+00:00
- - user: None
- - tags: []
-
-## Mam - Month After Mars
- - [https://www.monthaftermars.com](https://www.monthaftermars.com)
- - date published: 2023-10-25T09:25:59.073568+00:00
- - user: None
- - tags: ['personal']
-
-## Mont Marte Global
- - [https://www.montmarte.com](https://www.montmarte.com)
- - date published: 2023-11-01T18:49:31.831083+00:00
- - user: None
- - tags: ['drawing', 'hobby']
-
-## Home | Montreal Gazette | Montreal Gazette
- - [https://montrealgazette.com](https://montrealgazette.com)
- - date published: 2023-10-25T16:06:41.382989+00:00
- - user: None
- - tags: []
-
-## https://www.montypython.com
- - [https://www.montypython.com](https://www.montypython.com)
- - date published: 2023-10-30T10:51:43.445860+00:00
- - user: None
- - tags: ['monty python']
-
-## Monzo – Online Banking Made Easy | Open An Account Online
- - [https://monzo.com](https://monzo.com)
- - date published: 2023-10-25T16:06:43.718528+00:00
  - user: None
  - tags: []
 

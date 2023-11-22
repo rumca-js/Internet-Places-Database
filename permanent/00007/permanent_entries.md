@@ -1,3 +1,225 @@
+## Mindful Ruminations | Michael Oliver | Substack
+ - [https://mcoliver.substack.com](https://mcoliver.substack.com)
+ - date published: 2023-10-25T09:58:39.266748+00:00
+ - user: None
+ - tags: ['substack']
+
+## Off-Topic | Meghan Boilard | Substack
+ - [http://meghanboilard.substack.com](http://meghanboilard.substack.com)
+ - date published: 2023-10-25T09:58:42.396985+00:00
+ - user: None
+ - tags: ['substack']
+
+## Melos Han-Tani | Substack
+ - [https://melodicambient.substack.com](https://melodicambient.substack.com)
+ - date published: 2023-10-25T09:58:46.701668+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Melt by Jason Diamond  | Substack
+ - [http://meltedcheeseonwhitefish.substack.com](http://meltedcheeseonwhitefish.substack.com)
+ - date published: 2023-10-25T09:58:50.797890+00:00
+ - user: None
+ - tags: ['substack']
+
+## Methexis | Kevin Fischer | Substack
+ - [https://methexis.substack.com](https://methexis.substack.com)
+ - date published: 2023-10-25T09:58:53.573354+00:00
+ - user: None
+ - tags: ['substack']
+
+## Cosmic Column | Kai Christensen | Substack
+ - [https://mkaic.substack.com](https://mkaic.substack.com)
+ - date published: 2023-10-25T09:59:01.344820+00:00
+ - user: None
+ - tags: ['substack']
+
+## Wrong ideas strongly held | mkBaio | Substack
+ - [http://mkbaio.substack.com](http://mkbaio.substack.com)
+ - date published: 2023-10-25T09:59:03.525397+00:00
+ - user: None
+ - tags: ['substack']
+
+## Molecular Spectacular | Adomas Malaiska | Substack
+ - [http://molecularspec.substack.com](http://molecularspec.substack.com)
+ - date published: 2023-10-25T09:59:05.792951+00:00
+ - user: None
+ - tags: ['substack']
+
+## Mosquito Chronicles | Mosquito Capital | Substack
+ - [http://mosquitocapital.substack.com](http://mosquitocapital.substack.com)
+ - date published: 2023-10-25T09:59:10.579965+00:00
+ - user: None
+ - tags: ['substack']
+
+## Mostly Python | Eric Matthes | Substack
+ - [http://mostlypython.substack.com](http://mostlypython.substack.com)
+ - date published: 2023-10-25T09:59:15.454735+00:00
+ - user: None
+ - tags: ['substack']
+
+## Mr. E Reports | Substack
+ - [https://mrereports.substack.com](https://mrereports.substack.com)
+ - date published: 2023-10-25T09:59:18.422192+00:00
+ - user: None
+ - tags: ['substack']
+
+## muk’s Newsletter | Substack
+ - [http://mukdde.substack.com](http://mukdde.substack.com)
+ - date published: 2023-10-25T09:59:20.910475+00:00
+ - user: None
+ - tags: ['substack']
+
+## Mule Britannia! | Chris Smith | Substack
+ - [http://mulebritannia.substack.com](http://mulebritannia.substack.com)
+ - date published: 2023-10-25T09:59:28.386639+00:00
+ - user: None
+ - tags: ['substack']
+
+## Nabeel S. Qureshi | Substack
+ - [http://nabeelqu.substack.com](http://nabeelqu.substack.com)
+ - date published: 2023-10-25T09:59:30.873478+00:00
+ - user: None
+ - tags: ['substack']
+
+## Anti-Suckers | Nabil Alouani | Substack
+ - [http://nabilalouani.substack.com](http://nabilalouani.substack.com)
+ - date published: 2023-10-25T09:59:33.528404+00:00
+ - user: None
+ - tags: ['substack']
+
+## Silver Bulletin | Nate Silver | Substack
+ - [https://natesilver.substack.com](https://natesilver.substack.com)
+ - date published: 2023-10-25T09:59:37.463830+00:00
+ - user: None
+ - tags: ['substack']
+
+## Monomythical | Nadia | Substack
+ - [http://nayafia.substack.com](http://nayafia.substack.com)
+ - date published: 2023-10-25T09:59:39.569987+00:00
+ - user: None
+ - tags: ['substack']
+
+## Nerology | Nero Vanbiervliet | Substack
+ - [http://nerology.substack.com](http://nerology.substack.com)
+ - date published: 2023-10-25T09:59:41.616987+00:00
+ - user: None
+ - tags: ['substack']
+
+## News from Uncibal | David McGrogan | Substack
+ - [https://newsfromuncibal.substack.com](https://newsfromuncibal.substack.com)
+ - date published: 2023-10-25T09:59:44.684685+00:00
+ - user: None
+ - tags: ['substack']
+
+## Enterprise AI Trends | John Hwang | Substack
+ - [https://nextword.substack.com](https://nextword.substack.com)
+ - date published: 2023-10-25T17:19:14.088118+00:00
+ - user: None
+ - tags: []
+
+## Augmented Realist | Noah Norman | Substack
+ - [https://noahnorman.substack.com](https://noahnorman.substack.com)
+ - date published: 2023-10-25T09:59:47.121602+00:00
+ - user: None
+ - tags: ['substack']
+
+## Noahpinion | Noah Smith | Substack
+ - [https://noahpinion.substack.com](https://noahpinion.substack.com)
+ - date published: 2023-10-25T09:59:49.877797+00:00
+ - user: None
+ - tags: ['substack']
+
+## Nongaap Investing | Mike | Substack
+ - [https://nongaap.substack.com](https://nongaap.substack.com)
+ - date published: 2023-10-25T09:59:52.831490+00:00
+ - user: None
+ - tags: ['substack']
+
+## Nonzero Newsletter | Robert Wright | Substack
+ - [https://nonzero.substack.com](https://nonzero.substack.com)
+ - date published: 2023-10-25T09:59:56.570916+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Notado Newsletter | Substack
+ - [http://notado.substack.com](http://notado.substack.com)
+ - date published: 2023-10-25T09:59:59.410446+00:00
+ - user: None
+ - tags: ['substack']
+
+## Nothing Human | Ivan Vendrov | Substack
+ - [https://nothinghuman.substack.com](https://nothinghuman.substack.com)
+ - date published: 2023-10-25T10:00:02.157255+00:00
+ - user: None
+ - tags: ['substack']
+
+## Novum Newsletter | Anton Cebalo | Substack
+ - [http://novum.substack.com](http://novum.substack.com)
+ - date published: 2023-10-25T10:00:05.707586+00:00
+ - user: None
+ - tags: ['substack']
+
+## Navaneeth’s Newsletter | Navaneeth pk | Substack
+ - [https://nvnt.substack.com](https://nvnt.substack.com)
+ - date published: 2023-10-25T10:00:08.008896+00:00
+ - user: None
+ - tags: ['substack']
+
+## OSINT & Analysis by Oliver Alexander | Substack
+ - [https://oalexanderdk.substack.com](https://oalexanderdk.substack.com)
+ - date published: 2023-10-25T10:00:10.875590+00:00
+ - user: None
+ - tags: ['substack']
+
+## OH8HUB’s Substack | Ossi Herrala | Substack
+ - [https://oh8hub.substack.com](https://oh8hub.substack.com)
+ - date published: 2023-10-25T10:00:13.190871+00:00
+ - user: None
+ - tags: ['substack']
+
+## Omnibudsman | Dunstan Ramsay | Substack
+ - [https://omnibudsman.substack.com](https://omnibudsman.substack.com)
+ - date published: 2023-10-25T10:00:16.370204+00:00
+ - user: None
+ - tags: ['substack']
+
+## On Substack | Substack Writers | Substack
+ - [http://on.substack.com](http://on.substack.com)
+ - date published: 2023-10-25T10:00:20.683392+00:00
+ - user: None
+ - tags: ['substack']
+
+## One Useful Thing | Ethan Mollick | Substack
+ - [https://oneusefulthing.substack.com](https://oneusefulthing.substack.com)
+ - date published: 2023-10-25T10:00:23.738941+00:00
+ - user: None
+ - tags: ['substack']
+
+## Persuasive Engineering | Oscar Watson-Smith | Substack
+ - [http://oscargws.substack.com](http://oscargws.substack.com)
+ - date published: 2023-10-25T10:00:25.765981+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Trick Revealed | Jabari | Substack
+ - [https://owlpal.substack.com](https://owlpal.substack.com)
+ - date published: 2023-10-25T10:00:28.577107+00:00
+ - user: None
+ - tags: ['substack']
+
+## Passing Time | Michael Bateman | Substack
+ - [https://passingtime.substack.com](https://passingtime.substack.com)
+ - date published: 2023-10-25T10:00:31.464969+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Abbey of Misrule | Paul Kingsnorth | Substack
+ - [https://paulkingsnorth.substack.com](https://paulkingsnorth.substack.com)
+ - date published: 2023-10-25T10:00:34.889123+00:00
+ - user: None
+ - tags: ['substack']
+
 ## Uni Watch | Paul Lukas | Substack
  - [http://paullukas.substack.com](http://paullukas.substack.com)
  - date published: 2023-10-25T10:00:38.291980+00:00
@@ -411,6 +633,12 @@
  - date published: 2023-10-25T10:05:02.967943+00:00
  - user: None
  - tags: ['substack']
+
+## Tech Arena | Paul | Substack
+ - [https://techarena.substack.com](https://techarena.substack.com)
+ - date published: 2023-11-20T17:03:59.764776+00:00
+ - user: None
+ - tags: []
 
 ## The Technically Challenged Newsletter | Jesse | Substack
  - [https://technicallychallenged.substack.com](https://technicallychallenged.substack.com)
@@ -2038,6 +2266,12 @@
  - user: None
  - tags: []
 
+## Construction's Leading Video Channel - The B1M
+ - [https://www.theb1m.com](https://www.theb1m.com)
+ - date published: 2023-11-20T12:43:48.423603+00:00
+ - user: None
+ - tags: ['construction', 'engineering', 'architecture']
+
 ## The Baffler—The Journal That Blunts the Cutting Edge
  - [https://thebaffler.com](https://thebaffler.com)
  - date published: 2023-10-25T17:29:18.078335+00:00
@@ -2930,6 +3164,12 @@
 ## The Social Radars
  - [https://www.thesocialradars.com](https://www.thesocialradars.com)
  - date published: 2023-10-25T17:38:56.286148+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Fast News - The Space Coast Rocket
+ - [https://thespacecoastrocket.com](https://thespacecoastrocket.com)
+ - date published: 2023-11-20T19:14:01.066167+00:00
  - user: None
  - tags: []
 
@@ -5006,6 +5246,12 @@
  - user: None
  - tags: []
 
+## UPMC: #1 Ranked Hospital in Pittsburgh
+ - [https://www.upmc.com](https://www.upmc.com)
+ - date published: 2023-11-20T12:44:00.405525+00:00
+ - user: None
+ - tags: []
+
 ## Upstash: Serverless Data for Redis® and Kafka®
  - [https://upstash.com](https://upstash.com)
  - date published: 2023-10-27T10:24:34.359042+00:00
@@ -5749,252 +5995,6 @@
 ## Vogue: Fashion, Beauty, Celebrity, Fashion Shows | Vogue
  - [https://www.vogue.com](https://www.vogue.com)
  - date published: 2023-10-25T17:58:10.904686+00:00
- - user: None
- - tags: []
-
-## Vogue Business: Fashion Industry Expertise From an Insider's Perspective | Vogue Business
- - [https://www.voguebusiness.com](https://www.voguebusiness.com)
- - date published: 2023-10-25T17:58:13.232753+00:00
- - user: None
- - tags: []
-
-## VoidStar Security LLC
- - [https://voidstarsec.com](https://voidstarsec.com)
- - date published: 2023-11-01T08:43:22.489825+00:00
- - user: None
- - tags: []
-
-## Voiture Blog: It's all about cars
- - [https://www.voitureblog.com](https://www.voitureblog.com)
- - date published: 2023-10-25T17:58:19.010249+00:00
- - user: None
- - tags: []
-
-## Volocopter brings urban air mobility to life
- - [https://www.volocopter.com](https://www.volocopter.com)
- - date published: 2023-11-13T13:14:21.543535+00:00
- - user: None
- - tags: ['avionics', 'aviation']
-
-## Home - Volumio
- - [https://volumio.com](https://volumio.com)
- - date published: 2023-10-25T17:58:28.288602+00:00
- - user: None
- - tags: []
-
-## Volvo Cars
- - [https://www.volvocars.com](https://www.volvocars.com)
- - date published: 2023-11-01T08:43:23.237480+00:00
- - user: None
- - tags: []
-
-## Welcome to Volvo Trucks
- - [https://www.volvotrucks.com](https://www.volvotrucks.com)
- - date published: 2023-11-17T19:49:46.635994+00:00
- - user: None
- - tags: []
-
-## Lauren Weinstein's Blog
- - [https://lauren.vortex.com](https://lauren.vortex.com)
- - date published: 2023-10-25T17:58:32.739644+00:00
- - user: None
- - tags: []
-
-## Vox - Our world, explained
- - [https://www.vox.com](https://www.vox.com)
- - date published: 2023-10-25T10:39:39.512845+00:00
- - user: None
- - tags: []
-
-## Voxel51 // Open source computer vision tools for machine learning
- - [https://voxel51.com](https://voxel51.com)
- - date published: 2023-10-25T17:58:36.656429+00:00
- - user: None
- - tags: []
-
-## VPNCentral - Your #1 Resource for VPN Information
- - [https://vpncentral.com](https://vpncentral.com)
- - date published: 2023-10-25T17:58:38.882345+00:00
- - user: None
- - tags: []
-
-## VPNOverview.com | News and Reviews, Privacy and Anonymity
- - [https://vpnoverview.com](https://vpnoverview.com)
- - date published: 2023-10-25T17:58:41.057138+00:00
- - user: None
- - tags: []
-
-## VSCodium - Open Source Binaries of VSCode
- - [https://vscodium.com](https://vscodium.com)
- - date published: 2023-10-25T17:58:41.892210+00:00
- - user: None
- - tags: []
-
-## Vulture - Entertainment News - TV, Movies, Music, Books, Theater, Art
- - [https://www.vulture.com](https://www.vulture.com)
- - date published: 2023-10-25T10:24:00.700690+00:00
- - user: None
- - tags: ['entertainment news', 'movies']
-
-## VW.com | Official Home of Volkswagen Cars & SUVs
- - [https://www.vw.com](https://www.vw.com)
- - date published: 2023-10-25T18:10:11.961099+00:00
- - user: None
- - tags: ['company', 'car producer']
-
-## Warcraft 3: Reforged - Map database
- - [https://maps.w3reforged.com](https://maps.w3reforged.com)
- - date published: 2023-10-29T10:35:07.109924+00:00
- - user: None
- - tags: []
-
-## W3Schools Online Web Tutorials
- - [https://www.w3schools.com](https://www.w3schools.com)
- - date published: 2023-10-25T17:25:37.350967+00:00
- - user: None
- - tags: ['standards']
-
-## W4 Games – Home
- - [https://w4games.com](https://w4games.com)
- - date published: 2023-10-25T17:58:48.483188+00:00
- - user: None
- - tags: []
-
-## Wacom | Interactive pen displays , pen tablets and stylus products.
- - [https://www.wacom.com](https://www.wacom.com)
- - date published: 2023-10-27T13:57:25.561009+00:00
- - user: None
- - tags: ['drawing', 'hardware']
-
-## WAD Commander
- - [https://wadcmd.com](https://wadcmd.com)
- - date published: 2023-10-25T17:58:50.087656+00:00
- - user: None
- - tags: []
-
-## WakaTime - Dashboards for developers
- - [https://wakatime.com](https://wakatime.com)
- - date published: 2023-10-25T17:59:03.808055+00:00
- - user: None
- - tags: []
-
-## Wallpapers.com | 1,500,000+ Free HD Wallpapers for Desktop, Mobiles & Tablets
- - [https://wallpapers.com](https://wallpapers.com)
- - date published: 2023-10-25T16:30:58.046543+00:00
- - user: None
- - tags: []
-
-## Wannabe Angels | Substack
- - [https://wannabeangels.com](https://wannabeangels.com)
- - date published: 2023-10-25T17:59:09.818436+00:00
- - user: None
- - tags: []
-
-## Warfare Miniatures USA
- - [https://www.warfareminiaturesusa.com](https://www.warfareminiaturesusa.com)
- - date published: 2023-10-25T11:12:05.174416+00:00
- - user: None
- - tags: []
-
-## Home - The Wargame Explorer
- - [https://wargameexplorer.com](https://wargameexplorer.com)
- - date published: 2023-10-25T11:12:16.521806+00:00
- - user: None
- - tags: []
-
-## Wargamer | Warhammer, DnD, MTG, board games, and more
- - [https://www.wargamer.com](https://www.wargamer.com)
- - date published: 2023-10-25T11:19:48.926186+00:00
- - user: None
- - tags: ['board games', 'tabletop games', 'dungeons & dragons', 'warhammer', 'card games']
-
-## Wargames Foundry Miniatures – WargamesFoundry
- - [https://www.wargamesfoundry.com](https://www.wargamesfoundry.com)
- - date published: 2023-10-25T11:12:20.467045+00:00
- - user: None
- - tags: ['tabletop games', 'shop']
-
-## Home - Warhammer
- - [https://www.warhammer.com](https://www.warhammer.com)
- - date published: 2023-10-31T20:55:20.625099+00:00
- - user: None
- - tags: ['games workshop', 'tabletop games', 'warhammer']
-
-## https://www.warhammer-community.com
- - [https://www.warhammer-community.com](https://www.warhammer-community.com)
- - date published: 2023-10-25T11:12:32.436432+00:00
- - user: None
- - tags: []
-
-## Warhammer 40,000
- - [https://warhammer40000.com](https://warhammer40000.com)
- - date published: 2023-10-25T11:12:34.020898+00:00
- - user: None
- - tags: []
-
-## WarnerBros.com | Home of WB Movies, TV, Games, and more!
- - [https://www.warnerbros.com](https://www.warnerbros.com)
- - date published: 2023-10-25T15:08:19.885376+00:00
- - user: None
- - tags: []
-
-## WARNTracker
- - [https://yarn.warntracker.com](https://yarn.warntracker.com)
- - date published: 2023-10-25T17:59:11.816306+00:00
- - user: None
- - tags: []
-
-## War on the Rocks
- - [https://warontherocks.com](https://warontherocks.com)
- - date published: 2023-10-25T17:59:17.181704+00:00
- - user: None
- - tags: []
-
-## WarpStream - Stream More, Manage Less
- - [https://www.warpstream.com](https://www.warpstream.com)
- - date published: 2023-10-25T17:59:20.863843+00:00
- - user: None
- - tags: []
-
-## War Remnants Museum
- - [https://warremnantsmuseum.com](https://warremnantsmuseum.com)
- - date published: 2023-11-13T13:42:19.429391+00:00
- - user: None
- - tags: ['museum']
-
-## Buy Double-Sided Mouse Pad or Fabric Battle Mat, Miniatures, Terrain and Accessories for your Tabletop Wargaming Board. USA, Canada, Europe, Worldwide Shipping!
- - [https://warzonestudio.com](https://warzonestudio.com)
- - date published: 2023-11-01T19:18:45.990572+00:00
- - user: None
- - tags: ['tabletop games', 'wargames']
-
-## Washington Blade Newspaper
- - [https://www.washingtonblade.com](https://www.washingtonblade.com)
- - date published: 2023-11-07T16:06:11.624222+00:00
- - user: None
- - tags: ['the left wing', 'transgender', 'lgbt']
-
-## Washington City Paper: The Free Source for Local News in D.C.
- - [https://washingtoncitypaper.com](https://washingtoncitypaper.com)
- - date published: 2023-10-25T11:50:54.805063+00:00
- - user: None
- - tags: []
-
-## Political News and Conservative Analysis About Congress, the President, and the Federal Government | Washington Examiner
- - [https://www.washingtonexaminer.com](https://www.washingtonexaminer.com)
- - date published: 2023-10-25T10:29:27.520286+00:00
- - user: None
- - tags: []
-
-## Home | Washington Monthly
- - [https://washingtonmonthly.com](https://washingtonmonthly.com)
- - date published: 2023-11-17T19:04:36.842471+00:00
- - user: None
- - tags: []
-
-## The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post
- - [https://www.washingtonpost.com](https://www.washingtonpost.com)
- - date published: 2023-10-25T10:29:53.512747+00:00
  - user: None
  - tags: []
 

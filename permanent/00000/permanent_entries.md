@@ -244,6 +244,12 @@
  - user: None
  - tags: []
 
+## Stralis Aircraft – Emission free hydrogen electric aircraft
+ - [https://stralis.aero](https://stralis.aero)
+ - date published: 2023-11-20T20:24:12.351020+00:00
+ - user: None
+ - tags: ['avionics', 'airspace', 'aircraft']
+
 ## Home | Times Aerospace
  - [https://www.timesaerospace.aero](https://www.timesaerospace.aero)
  - date published: 2023-10-25T10:58:58.652022+00:00
@@ -457,6 +463,12 @@
 ## Create and share beautiful and engaging annotated charts · contextualize.ai
  - [https://www.contextualize.ai](https://www.contextualize.ai)
  - date published: 2023-10-25T11:37:51.365869+00:00
+ - user: None
+ - tags: []
+
+## Show HN: I made a catalog of useful GPTs
+ - [https://coolgpts.ai](https://coolgpts.ai)
+ - date published: 2023-11-21T21:11:42+00:00
  - user: None
  - tags: []
 
@@ -1978,6 +1990,12 @@
  - user: None
  - tags: []
 
+## Typst – Compose Papers Faster
+ - [https://typst.app](https://typst.app)
+ - date published: 2023-11-20T20:44:03+00:00
+ - user: None
+ - tags: []
+
 ## Unfolder for Mac - Create papercraft easily
  - [https://www.unfolder.app](https://www.unfolder.app)
  - date published: 2023-10-25T11:49:41.773041+00:00
@@ -2257,6 +2275,12 @@
 ## Indice General de Histarmar
  - [https://www.histarmar.com.ar](https://www.histarmar.com.ar)
  - date published: 2023-10-25T11:52:20.656286+00:00
+ - user: None
+ - tags: []
+
+## Últimas noticias de Argentina y el mundo
+ - [https://www.lanacion.com.ar](https://www.lanacion.com.ar)
+ - date published: 2023-11-20T00:34:26.327597+00:00
  - user: None
  - tags: []
 
@@ -2818,6 +2842,12 @@
  - user: None
  - tags: []
 
+## The IDP Knowledge Base System
+ - [https://www.idp-z3.be](https://www.idp-z3.be)
+ - date published: 2023-11-21T08:44:02+00:00
+ - user: None
+ - tags: []
+
 ## Faculteit Rechtsgeleerdheid en Criminologische Wetenschappen
  - [https://www.law.kuleuven.be](https://www.law.kuleuven.be)
  - date published: 2023-10-25T11:58:59.394268+00:00
@@ -3009,6 +3039,12 @@
  - date published: 2023-10-25T11:29:52.059875+00:00
  - user: None
  - tags: []
+
+## Colin Walker — Home
+ - [https://colinwalker.blog](https://colinwalker.blog)
+ - date published: 2023-11-20T07:44:38.276818+00:00
+ - user: None
+ - tags: ['personal']
 
 ## ML and robotics notes | Tutorials and implementations of machine learning and robotics algorithms.
  - [https://comsci.blog](https://comsci.blog)
@@ -3465,7 +3501,7 @@
  - [https://bestiary.ca](https://bestiary.ca)
  - date published: 2023-10-25T12:03:35.908634+00:00
  - user: None
- - tags: []
+ - tags: ['bestiary', 'medieval', 'history', 'animals']
 
 ## BNN Bloomberg - Canadian Business News, TSX Today, interest rates and Bank of Canada coverage
  - [https://www.bnnbloomberg.ca](https://www.bnnbloomberg.ca)
@@ -4524,6 +4560,12 @@
  - user: None
  - tags: []
 
+## Universität Basel
+ - [https://www.unibas.ch](https://www.unibas.ch)
+ - date published: 2023-11-21T10:09:34.554675+00:00
+ - user: None
+ - tags: []
+
 ## Media | Für Medien | UZH
  - [https://www.media.uzh.ch](https://www.media.uzh.ch)
  - date published: 2023-10-25T12:14:48.655408+00:00
@@ -4842,6 +4884,12 @@
  - user: None
  - tags: []
 
+## Baseten | Machine learning infrastructure
+ - [https://www.baseten.co](https://www.baseten.co)
+ - date published: 2023-11-20T21:09:03.643831+00:00
+ - user: None
+ - tags: []
+
 ## 9front Research
  - [http://cm.bell-labs.co](http://cm.bell-labs.co)
  - date published: 2023-10-25T12:16:44.235815+00:00
@@ -4971,6 +5019,12 @@
 ## Blockchain Analytics & Crypto Compliance Solutions | Elliptic
  - [https://www.elliptic.co](https://www.elliptic.co)
  - date published: 2023-10-25T12:18:50.885934+00:00
+ - user: None
+ - tags: []
+
+## https://links.fable.co
+ - [https://links.fable.co](https://links.fable.co)
+ - date published: 2023-11-20T16:24:00.649414+00:00
  - user: None
  - tags: []
 
@@ -5939,58 +5993,4 @@
  - date published: 2023-10-25T09:04:13.761042+00:00
  - user: None
  - tags: ['personal']
-
-## Collection of the Best Mathematics and Science Stuff | Abakcus
- - [https://abakcus.com](https://abakcus.com)
- - date published: 2023-11-14T17:18:23.546364+00:00
- - user: None
- - tags: []
-
-## ABC13 Houston news, weather and traffic - Latest Texas news and weather
- - [https://abc13.com](https://abc13.com)
- - date published: 2023-10-25T12:28:58.013073+00:00
- - user: None
- - tags: []
-
-## Phoenix, Arizona News and Weather | ABC15 Arizona
- - [https://www.abc15.com](https://www.abc15.com)
- - date published: 2023-10-25T12:29:09.415306+00:00
- - user: None
- - tags: []
-
-## Columbus News, Weather, Sports, Breaking News | WSYX
- - [https://abc6onyourside.com](https://abc6onyourside.com)
- - date published: 2023-11-19T04:08:56.180171+00:00
- - user: None
- - tags: ['news']
-
-## Los Angeles and Southern California News, Weather, Traffic - ABC7 KABC
- - [https://abc7.com](https://abc7.com)
- - date published: 2023-10-25T12:29:24.377691+00:00
- - user: None
- - tags: []
-
-## ABC Chicago - Breaking News and Weather
- - [https://abc7chicago.com](https://abc7chicago.com)
- - date published: 2023-10-25T12:29:44.532407+00:00
- - user: None
- - tags: []
-
-## ABC7 News -  KGO Bay Area and San Francisco News and Weather
- - [https://abc7news.com](https://abc7news.com)
- - date published: 2023-10-25T11:50:30.347969+00:00
- - user: None
- - tags: []
-
-## ABC7 New York - NY News, Local News, Breaking News, Weather
- - [https://abc7ny.com](https://abc7ny.com)
- - date published: 2023-11-02T00:30:26.145061+00:00
- - user: None
- - tags: []
-
-## Tampa Bay, Florida News and Weather | ABC Action News
- - [https://www.abcactionnews.com](https://www.abcactionnews.com)
- - date published: 2023-10-25T12:29:59.792652+00:00
- - user: None
- - tags: []
 
