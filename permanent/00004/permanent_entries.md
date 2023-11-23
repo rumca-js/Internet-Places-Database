@@ -1,3 +1,99 @@
+## Janell Sihay
+ - [https://janellsihay.com](https://janellsihay.com)
+ - date published: 2023-10-25T09:20:42.428341+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jane Street Tech Blog
+ - [https://blog.janestreet.com](https://blog.janestreet.com)
+ - date published: 2023-10-25T09:20:44.071103+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home :: Jane Street
+ - [https://www.janestreet.com](https://www.janestreet.com)
+ - date published: 2023-10-25T15:26:48.642287+00:00
+ - user: None
+ - tags: []
+
+## jan's stuff
+ - [https://www.janromme.com](https://www.janromme.com)
+ - date published: 2023-10-25T09:20:48.395468+00:00
+ - user: None
+ - tags: ['personal']
+
+## Business and Self-Development Concepts - Build Your Base For Success
+ - [https://janwillemverstraten.com](https://janwillemverstraten.com)
+ - date published: 2023-11-16T21:08:15.834187+00:00
+ - user: None
+ - tags: ['blog', 'personal']
+
+## Learn Japanese Online. Get started for free with the swiftest and most efficient system ever devised.
+ - [https://japanesecomplete.com](https://japanesecomplete.com)
+ - date published: 2023-10-25T15:26:50.459751+00:00
+ - user: None
+ - tags: []
+
+## Japan Today
+ - [https://japantoday.com](https://japantoday.com)
+ - date published: 2023-10-25T10:41:08.020128+00:00
+ - user: None
+ - tags: []
+
+## Jared Forsyth.com | Jared Forsyth.com
+ - [https://jaredforsyth.com](https://jaredforsyth.com)
+ - date published: 2023-10-25T15:26:52.976715+00:00
+ - user: None
+ - tags: []
+
+## Jared Ramsey
+ - [https://jaredramsey.com](https://jaredramsey.com)
+ - date published: 2023-10-25T09:20:49.239478+00:00
+ - user: None
+ - tags: ['personal']
+
+## Derek Jarvis' Blog
+ - [https://jarvispowered.com](https://jarvispowered.com)
+ - date published: 2023-10-25T09:20:50.084354+00:00
+ - user: None
+ - tags: ['personal']
+
+## Almost looks like work
+ - [https://jasmcole.com](https://jasmcole.com)
+ - date published: 2023-10-25T15:26:56.478165+00:00
+ - user: None
+ - tags: []
+
+## JASON COLAVITO - Home
+ - [https://www.jasoncolavito.com](https://www.jasoncolavito.com)
+ - date published: 2023-10-25T15:27:13.210438+00:00
+ - user: None
+ - tags: []
+
+## Jason Davies - Freelance Data Visualisation
+ - [https://www.jasondavies.com](https://www.jasondavies.com)
+ - date published: 2023-10-25T08:31:16.657113+00:00
+ - user: None
+ - tags: []
+
+## Simply Confusing
+ - [https://jasonfantl.com](https://jasonfantl.com)
+ - date published: 2023-10-25T15:27:14.283439+00:00
+ - user: None
+ - tags: []
+
+## Jason Shen | Cultivating Resilience
+ - [https://www.jasonshen.com](https://www.jasonshen.com)
+ - date published: 2023-10-25T08:46:15.822607+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jason Shulman
+ - [https://www.jasonshulmanstudio.com](https://www.jasonshulmanstudio.com)
+ - date published: 2023-10-25T08:46:16.648529+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Jason Zweig | A safe haven for investors by Jason Zweig of The Wall Street Journal.
  - [https://jasonzweig.com](https://jasonzweig.com)
  - date published: 2023-10-25T15:27:17.416854+00:00
@@ -2649,7 +2745,7 @@
  - [https://liliputing.com](https://liliputing.com)
  - date published: 2023-10-25T09:33:48.782855+00:00
  - user: None
- - tags: []
+ - tags: ['tablets', 'abc', 'notebooks', 'tech news', 'smartphones', 'raspberry']
 
 ## Investors | Eli Lilly and Company
  - [https://investor.lilly.com](https://investor.lilly.com)
@@ -2744,6 +2840,12 @@
 ## Linuxiac - Linux News, Tutorials, Tips & Tricks, and More
  - [https://linuxiac.com](https://linuxiac.com)
  - date published: 2023-10-25T15:47:47.501936+00:00
+ - user: None
+ - tags: []
+
+## Linux Impact
+ - [https://linuximpact.com](https://linuximpact.com)
+ - date published: 2023-11-22T01:14:01.701144+00:00
  - user: None
  - tags: []
 
@@ -2980,6 +3082,12 @@
  - date published: 2023-10-25T15:49:23.976381+00:00
  - user: None
  - tags: ['fantasy', 'books', 'science fiction']
+
+## Double Talk with Hannah and Cailin Loesch
+ - [https://loeschtwins.com](https://loeschtwins.com)
+ - date published: 2023-11-22T14:55:22.397602+00:00
+ - user: None
+ - tags: []
 
 ## lofi air traffic control
  - [https://www.lofiatc.com](https://www.lofiatc.com)
@@ -5884,114 +5992,6 @@ diversions.
 ## Michael Tsai - Good Evening
  - [https://mjtsai.com](https://mjtsai.com)
  - date published: 2023-10-25T16:05:23.023112+00:00
- - user: None
- - tags: []
-
-## MKBHD
- - [https://mkbhd.com](https://mkbhd.com)
- - date published: 2023-10-27T11:54:59.212907+00:00
- - user: None
- - tags: []
-
-## MLE Online
- - [https://mle-online.com](https://mle-online.com)
- - date published: 2023-10-25T16:05:27.416057+00:00
- - user: None
- - tags: []
-
-## Michigan Local News, Breaking News, Sports &amp; Weather
- - [https://www.mlive.com](https://www.mlive.com)
- - date published: 2023-11-03T15:33:21.597418+00:00
- - user: None
- - tags: []
-
-## Matteo Mazzarolo
- - [https://mmazzarolo.com](https://mmazzarolo.com)
- - date published: 2023-10-25T16:05:28.258789+00:00
- - user: None
- - tags: []
-
-## Monday Morning Haskell
- - [https://mmhaskell.com](https://mmhaskell.com)
- - date published: 2023-10-25T16:05:30.500620+00:00
- - user: None
- - tags: []
-
-## Home | MMLab@NTU
- - [https://www.mmlab-ntu.com](https://www.mmlab-ntu.com)
- - date published: 2023-10-25T16:05:35.375867+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://mobilesyrup.com](https://mobilesyrup.com)
- - date published: 2023-11-13T04:39:37.774142+00:00
- - user: None
- - tags: []
-
-## Games and mods development for Windows, Linux and Mac - Mod DB
- - [https://www.moddb.com](https://www.moddb.com)
- - date published: 2023-10-25T11:09:37.572465+00:00
- - user: None
- - tags: ['game mods']
-
-## Welcome | Modding OpenMW: A guide to modding and modernizing Morrowind with OpenMW
- - [https://modding-openmw.com](https://modding-openmw.com)
- - date published: 2023-10-25T11:16:48.373285+00:00
- - user: None
- - tags: ['open source', 'the elder scrolls']
-
-## Ozmo
- - [https://fi.sds.modeaondemand.com](https://fi.sds.modeaondemand.com)
- - date published: 2023-10-25T16:05:36.500010+00:00
- - user: None
- - tags: []
-
-## Modern SQL: A lot has changed since SQL-92
- - [https://modern-sql.com](https://modern-sql.com)
- - date published: 2023-10-25T16:05:37.782237+00:00
- - user: None
- - tags: []
-
-## Home - Modern CSV
- - [https://www.moderncsv.com](https://www.moderncsv.com)
- - date published: 2023-10-25T16:05:39.699562+00:00
- - user: None
- - tags: []
-
-## Brian Lee's Website
- - [https://www.moderndescartes.com](https://www.moderndescartes.com)
- - date published: 2023-10-25T16:05:43.508519+00:00
- - user: None
- - tags: []
-
-## MC++ BLOG – Der Blog für Modernes C++ von Rainer Grimm
- - [https://modernescpp.com](https://modernescpp.com)
- - date published: 2023-10-25T16:05:47.749861+00:00
- - user: None
- - tags: []
-
-## Homepage - Modern Farmer
- - [https://modernfarmer.com](https://modernfarmer.com)
- - date published: 2023-10-25T10:50:56.136058+00:00
- - user: None
- - tags: []
-
-## Modern Font Stacks
- - [https://modernfontstacks.com](https://modernfontstacks.com)
- - date published: 2023-10-25T16:05:50.332208+00:00
- - user: None
- - tags: []
-
-## Modern for Hacker News
- - [https://www.modernhn.com](https://www.modernhn.com)
- - date published: 2023-10-25T16:05:51.568528+00:00
- - user: None
- - tags: []
-
-## Money Movement APIs | Modern Treasury | ACH, RTP, Wires and more payment methods
- - [https://www.moderntreasury.com](https://www.moderntreasury.com)
- - date published: 2023-10-25T16:05:53.474763+00:00
  - user: None
  - tags: []
 

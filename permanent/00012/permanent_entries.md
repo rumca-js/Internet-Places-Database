@@ -1,3 +1,255 @@
+## Cyberpunk Radio - Free 24/7 Live Streaming | Rekt FM
+ - [https://rekt.network](https://rekt.network)
+ - date published: 2023-10-25T20:42:05.141539+00:00
+ - user: None
+ - tags: ['radio', 'audio streaming']
+
+## 68k.news: Headlines From the Future
+ - [http://68k.news](http://68k.news)
+ - date published: 2023-10-25T20:42:09.495127+00:00
+ - user: None
+ - tags: []
+
+## AI PANIC  | Nirit Weiss-Blatt | Substack
+ - [https://www.aipanic.news](https://www.aipanic.news)
+ - date published: 2023-11-18T01:49:17.235532+00:00
+ - user: None
+ - tags: ['artificial intelligence', 'substack']
+
+## From the Desk of Alicia Kennedy | Substack
+ - [https://www.aliciakennedy.news](https://www.aliciakennedy.news)
+ - date published: 2023-10-25T20:42:12.893955+00:00
+ - user: None
+ - tags: []
+
+## Boulder Beat - Covering City Council and Sundry, with flair
+ - [https://boulderbeat.news](https://boulderbeat.news)
+ - date published: 2023-10-25T20:42:22.165490+00:00
+ - user: None
+ - tags: []
+
+## Brief
+ - [https://www.brief.news](https://www.brief.news)
+ - date published: 2023-11-03T16:52:58.968294+00:00
+ - user: None
+ - tags: []
+
+## CNE.news
+ - [https://cne.news](https://cne.news)
+ - date published: 2023-10-25T10:13:15.031338+00:00
+ - user: None
+ - tags: []
+
+## The Free Press
+ - [https://www.commonsense.news](https://www.commonsense.news)
+ - date published: 2023-10-25T20:42:27.993523+00:00
+ - user: None
+ - tags: []
+
+## Crypto News - Latest Cryptocurrency News
+ - [https://crypto.news](https://crypto.news)
+ - date published: 2023-10-25T10:53:40.383937+00:00
+ - user: None
+ - tags: []
+
+## Newsroom | DoorDash
+ - [https://doordash.news](https://doordash.news)
+ - date published: 2023-10-25T20:42:33.072348+00:00
+ - user: None
+ - tags: []
+
+## Global news, analysis and opinion on energy storage innovation and technologies - Energy-Storage.News
+ - [https://www.energy-storage.news](https://www.energy-storage.news)
+ - date published: 2023-10-25T20:42:39.410552+00:00
+ - user: None
+ - tags: []
+
+## https://www.forth.news
+ - [https://www.forth.news](https://www.forth.news)
+ - date published: 2023-10-25T20:42:40.486870+00:00
+ - user: None
+ - tags: []
+
+## Your Source for Trusted and Unbiased News - The Messenger
+ - [https://www.grid.news](https://www.grid.news)
+ - date published: 2023-10-25T20:42:43.995084+00:00
+ - user: None
+ - tags: []
+
+## Haskell Weekly
+ - [https://haskellweekly.news](https://haskellweekly.news)
+ - date published: 2023-10-25T20:42:45.054681+00:00
+ - user: None
+ - tags: []
+
+## Heatmap News
+ - [https://heatmap.news](https://heatmap.news)
+ - date published: 2023-10-25T10:54:47.126489+00:00
+ - user: None
+ - tags: []
+
+## 500 Server Error
+ - [https://here.news](https://here.news)
+ - date published: 2023-10-25T10:16:53.490443+00:00
+ - user: None
+ - tags: []
+
+## Johnnys.News
+ - [https://johnnys.news](https://johnnys.news)
+ - date published: 2023-10-25T20:42:45.586603+00:00
+ - user: None
+ - tags: []
+
+## Local News Today - Breaking News & Top Stories
+ - [https://localtoday.news](https://localtoday.news)
+ - date published: 2023-10-25T11:07:16.883371+00:00
+ - user: None
+ - tags: []
+
+## Not Yet News
+ - [https://www.notyet.news](https://www.notyet.news)
+ - date published: 2023-10-25T20:42:46.888810+00:00
+ - user: None
+ - tags: []
+
+## The Omg Lol Times · St. Jude Fundraiser Report
+ - [https://omglol.news](https://omglol.news)
+ - date published: 2023-10-25T20:42:48.905677+00:00
+ - user: None
+ - tags: []
+
+## Platformer | Casey Newton | Substack
+ - [https://www.platformer.news](https://www.platformer.news)
+ - date published: 2023-10-25T20:42:52.117652+00:00
+ - user: None
+ - tags: []
+
+## Positive News | Good journalism about good things - Positive News
+ - [https://www.positive.news](https://www.positive.news)
+ - date published: 2023-10-25T20:42:54.838847+00:00
+ - user: None
+ - tags: []
+
+## Post
+ - [https://post.news](https://post.news)
+ - date published: 2023-10-25T20:43:00.854072+00:00
+ - user: None
+ - tags: []
+
+## Racket News | Matt Taibbi | Substack
+ - [https://www.racket.news](https://www.racket.news)
+ - date published: 2023-10-25T20:43:04.969237+00:00
+ - user: None
+ - tags: []
+
+## Rekt - Home
+ - [https://rekt.news](https://rekt.news)
+ - date published: 2023-10-25T20:43:07.706883+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://rmx.news](https://rmx.news)
+ - date published: 2023-10-25T10:39:52.865910+00:00
+ - user: None
+ - tags: []
+
+## Sci.News: Breaking Science News
+ - [https://www.sci.news](https://www.sci.news)
+ - date published: 2023-10-25T10:11:45.286879+00:00
+ - user: None
+ - tags: []
+
+## Home - Stonks News
+ - [https://stonks.news](https://stonks.news)
+ - date published: 2023-10-25T20:43:11.649456+00:00
+ - user: None
+ - tags: []
+
+## Summit News - News From The Summit
+ - [https://summit.news](https://summit.news)
+ - date published: 2023-10-25T10:39:55.843611+00:00
+ - user: None
+ - tags: []
+
+## Supervised | Matthew Lynley | Substack
+ - [https://www.supervised.news](https://www.supervised.news)
+ - date published: 2023-10-25T10:08:38.358107+00:00
+ - user: None
+ - tags: ['substack']
+
+## Technocracy News & Trends
+ - [https://www.technocracy.news](https://www.technocracy.news)
+ - date published: 2023-10-25T09:37:25.423842+00:00
+ - user: None
+ - tags: []
+
+## tilde news
+ - [https://tilde.news](https://tilde.news)
+ - date published: 2023-10-25T20:43:14.869847+00:00
+ - user: None
+ - tags: []
+
+## True North | Breaking Canadian News and Opinion
+ - [https://tnc.news](https://tnc.news)
+ - date published: 2023-10-25T20:43:19.101154+00:00
+ - user: None
+ - tags: []
+
+## Web Platform News
+ - [https://webplatform.news](https://webplatform.news)
+ - date published: 2023-10-25T20:43:23.872213+00:00
+ - user: None
+ - tags: []
+
+## WorkLife — Authority on how modern work is changing people’s lives
+ - [https://www.worklife.news](https://www.worklife.news)
+ - date published: 2023-10-25T20:43:26.647990+00:00
+ - user: None
+ - tags: []
+
+## The Works in Progress Newsletter | Substack
+ - [https://www.worksinprogress.news](https://www.worksinprogress.news)
+ - date published: 2023-10-25T20:43:29.879565+00:00
+ - user: None
+ - tags: []
+
+## Zig NEWS
+ - [https://zig.news](https://zig.news)
+ - date published: 2023-10-25T20:43:39.498351+00:00
+ - user: None
+ - tags: []
+
+## The Times Nigeria Newspaper | TheTimes.com.ng
+ - [https://www.thetimes.com.ng](https://www.thetimes.com.ng)
+ - date published: 2023-10-25T20:43:43.215777+00:00
+ - user: None
+ - tags: []
+
+## Welcome to my digital space — Phuoc Nguyen
+ - [https://phuoc.ng](https://phuoc.ng)
+ - date published: 2023-11-06T14:12:19.315700+00:00
+ - user: None
+ - tags: []
+
+## Home | TheCable
+ - [https://www.thecable.ng](https://www.thecable.ng)
+ - date published: 2023-11-04T18:28:54.971018+00:00
+ - user: None
+ - tags: []
+
+## Home - 『混沌とした 忍者』
+ - [https://chaotic.ninja](https://chaotic.ninja)
+ - date published: 2023-10-26T06:39:30.397007+00:00
+ - user: None
+ - tags: []
+
+## UNICORN RIOT - Your Alternative Media
+ - [https://unicornriot.ninja](https://unicornriot.ninja)
+ - date published: 2023-10-25T20:43:47.381363+00:00
+ - user: None
+ - tags: []
+
 ## Mianzhi Wang
  - [https://research.wmz.ninja](https://research.wmz.ninja)
  - date published: 2023-10-25T20:43:49.197052+00:00
@@ -229,6 +481,12 @@
 ## Research Support: Research Information System (RIS) Pure | research.utwente.nl | University of Twente | Service Portal | University of Twente
  - [https://ris.utwente.nl](https://ris.utwente.nl)
  - date published: 2023-10-25T20:46:45.735524+00:00
+ - user: None
+ - tags: []
+
+## Masters of Media
+ - [https://mastersofmedia.hum.uva.nl](https://mastersofmedia.hum.uva.nl)
+ - date published: 2023-11-22T16:18:32.753071+00:00
  - user: None
  - tags: []
 
@@ -647,6 +905,12 @@ marginalia.nu
  - user: None
  - tags: []
 
+## Flipper Zero — Portable Multi-tool Device for Geeks
+ - [https://flipperzero.one](https://flipperzero.one)
+ - date published: 2023-11-22T17:23:10+00:00
+ - user: rumpel
+ - tags: ['hardware', 'hacking']
+
 ## Installati.one
  - [https://installati.one](https://installati.one)
  - date published: 2023-11-19T12:07:10+00:00
@@ -1005,7 +1269,7 @@ marginalia.nu
  - [https://adblockplus.org](https://adblockplus.org)
  - date published: 2023-11-01T08:44:08.907697+00:00
  - user: None
- - tags: []
+ - tags: ['ad block']
 
 ## Adblock Plus and (a little) more
  - [https://blog.adblockplus.org](https://blog.adblockplus.org)
@@ -2342,6 +2606,12 @@ marginalia.nu
 ## Cap'n Proto: Introduction
  - [https://capnproto.org](https://capnproto.org)
  - date published: 2023-10-25T21:05:41.035442+00:00
+ - user: None
+ - tags: []
+
+## CARE - Fighting Global Poverty and World Hunger
+ - [https://www.care.org](https://www.care.org)
+ - date published: 2023-11-22T01:14:20.947848+00:00
  - user: None
  - tags: []
 
@@ -5732,277 +6002,6 @@ marginalia.nu
 ## http://isotropic.org
  - [http://isotropic.org](http://isotropic.org)
  - date published: 2023-10-25T21:32:58.997394+00:00
- - user: None
- - tags: []
-
-## ISRAEL21c - STORIES THAT IMPACT OUR WORLD
- - [https://www.israel21c.org](https://www.israel21c.org)
- - date published: 2023-10-25T21:33:04.834653+00:00
- - user: None
- - tags: []
-
-## Issues in Science and Technology
- - [https://issues.org](https://issues.org)
- - date published: 2023-10-25T21:33:09.555507+00:00
- - user: None
- - tags: []
-
-## Home | Independent Women's Forum
- - [https://www.iwf.org](https://www.iwf.org)
- - date published: 2023-10-25T21:33:13.825519+00:00
- - user: None
- - tags: []
-
-## jabber.org - the original XMPP instant messaging service
- - [https://www.jabber.org](https://www.jabber.org)
- - date published: 2023-10-25T21:33:15.148967+00:00
- - user: None
- - tags: []
-
-## https://www.jacionline.org
- - [https://www.jacionline.org](https://www.jacionline.org)
- - date published: 2023-10-25T21:33:16.595076+00:00
- - user: None
- - tags: []
-
-## Jacob Kaplan-Moss
- - [https://jacobian.org](https://jacobian.org)
- - date published: 2023-10-25T09:23:56.443318+00:00
- - user: None
- - tags: ['personal']
-
-## Welcome to Jacobin JVM | jacobin
- - [https://jacobin.org](https://jacobin.org)
- - date published: 2023-10-25T21:33:23.184536+00:00
- - user: None
- - tags: []
-
-## Międzynarodowy konkurs projektowania | Nagroda Jamesa Dysona
- - [https://www.jamesdysonaward.org](https://www.jamesdysonaward.org)
- - date published: 2023-10-25T21:33:26.040445+00:00
- - user: None
- - tags: []
-
-## Janet Programming Language
- - [https://janet-lang.org](https://janet-lang.org)
- - date published: 2023-10-25T21:33:27.778151+00:00
- - user: None
- - tags: []
-
-## JCI Insight -
-Welcome
- - [https://insight.jci.org](https://insight.jci.org)
- - date published: 2023-10-25T21:33:32.162300+00:00
- - user: None
- - tags: []
-
-## joshua stein
- - [https://jcs.org](https://jcs.org)
- - date published: 2023-10-25T21:33:34.730352+00:00
- - user: None
- - tags: []
-
-## The Free Software Media System | Jellyfin
- - [https://jellyfin.org](https://jellyfin.org)
- - date published: 2023-10-25T21:33:41.843077+00:00
- - user: None
- - tags: []
-
-## Scott Jenson – Exploring the world beyond mobile
- - [https://jenson.org](https://jenson.org)
- - date published: 2023-10-25T08:54:47.957915+00:00
- - user: None
- - tags: ['personal']
-
-## web.jfet.org
- - [https://web.jfet.org](https://web.jfet.org)
- - date published: 2023-10-25T21:33:43.509595+00:00
- - user: None
- - tags: []
-
-## John Graham-Cumming's blog
- - [https://blog.jgc.org](https://blog.jgc.org)
- - date published: 2023-10-25T21:33:49.105192+00:00
- - user: None
- - tags: []
-
-## JHI Blog – The Journal of the History of Ideas Blog
- - [https://jhiblog.org](https://jhiblog.org)
- - date published: 2023-10-25T09:26:48.882576+00:00
- - user: None
- - tags: ['personal']
-
-## Exposing the role that Islamic jihad theology and ideology play in the modern global conflicts
- - [https://www.jihadwatch.org](https://www.jihadwatch.org)
- - date published: 2023-10-25T21:34:04.072137+00:00
- - user: None
- - tags: []
-
-## Free Video Conferencing Software for Web & Mobile | Jitsi
- - [https://jitsi.org](https://jitsi.org)
- - date published: 2023-10-25T21:34:13.186384+00:00
- - user: None
- - tags: []
-
-## Journal of Machine Learning Research
- - [https://www.jmlr.org](https://www.jmlr.org)
- - date published: 2023-10-25T21:34:26.430835+00:00
- - user: None
- - tags: []
-
-## JNS.org
- - [https://www.jns.org](https://www.jns.org)
- - date published: 2023-11-02T15:51:39.301436+00:00
- - user: None
- - tags: []
-
-## Joblint
- - [https://joblint.org](https://joblint.org)
- - date published: 2023-10-25T21:34:29.523770+00:00
- - user: None
- - tags: []
-
-## John Horgan (The Science Writer)
- - [https://johnhorgan.org](https://johnhorgan.org)
- - date published: 2023-10-25T08:54:50.144199+00:00
- - user: None
- - tags: ['personal']
-
-## John Horgan (The Science Writer)
- - [https://www.johnhorgan.org](https://www.johnhorgan.org)
- - date published: 2023-10-25T21:34:35.099221+00:00
- - user: None
- - tags: []
-
-## Lemmy - A link aggregator for the fediverse
- - [https://join-lemmy.org](https://join-lemmy.org)
- - date published: 2023-10-24T20:15:04.346134+00:00
- - user: None
- - tags: []
-
-## Mastodon Blog
- - [https://blog.joinmastodon.org](https://blog.joinmastodon.org)
- - date published: 2023-10-24T20:17:06.109620+00:00
- - user: None
- - tags: []
-
-## PeerTube instances
- - [https://instances.joinpeertube.org](https://instances.joinpeertube.org)
- - date published: 2023-10-25T11:44:39.511568+00:00
- - user: None
- - tags: ['video streaming']
-
-## What is PeerTube? | JoinPeerTube
- - [https://joinpeertube.org](https://joinpeertube.org)
- - date published: 2023-10-24T20:06:01.634426+00:00
- - user: None
- - tags: []
-
-## Welcome | Takahē
- - [https://jointakahe.org](https://jointakahe.org)
- - date published: 2023-10-25T21:34:38.084888+00:00
- - user: None
- - tags: []
-
-## Joker
- - [https://joker-lang.org](https://joker-lang.org)
- - date published: 2023-10-25T21:34:44.306193+00:00
- - user: None
- - tags: []
-
-## JONATHAN TURLEY – Res ipsa loquitur – The thing itself speaks
- - [https://jonathanturley.org](https://jonathanturley.org)
- - date published: 2023-10-25T21:34:51.595319+00:00
- - user: None
- - tags: []
-
-## Simon Josefsson's blog
- - [https://blog.josefsson.org](https://blog.josefsson.org)
- - date published: 2023-10-25T09:24:02.008742+00:00
- - user: None
- - tags: ['personal']
-
-## Day.js · 2kB JavaScript date utility library
- - [https://day.js.org](https://day.js.org)
- - date published: 2023-10-25T21:35:01.156471+00:00
- - user: None
- - tags: []
-
-## Build lightweight cross-platform desktop apps with JavaScript, HTML, and CSS | Neutralinojs
- - [https://neutralino.js.org](https://neutralino.js.org)
- - date published: 2023-10-25T21:35:04.047579+00:00
- - user: None
- - tags: []
-
-## Nostalgist.js
- - [https://nostalgist.js.org](https://nostalgist.js.org)
- - date published: 2023-10-25T21:35:11.516801+00:00
- - user: None
- - tags: []
-
-## Storybook: Frontend workshop for UI development
- - [https://storybook.js.org](https://storybook.js.org)
- - date published: 2023-10-25T21:35:15.535761+00:00
- - user: None
- - tags: []
-
-## TwinSpark
- - [https://twinspark.js.org](https://twinspark.js.org)
- - date published: 2023-10-25T21:35:17.129272+00:00
- - user: None
- - tags: []
-
-## XState - JavaScript State Machines and Statecharts
- - [https://xstate.js.org](https://xstate.js.org)
- - date published: 2023-10-25T21:35:18.263757+00:00
- - user: None
- - tags: []
-
-## JSON-LD - JSON for Linking Data
- - [https://json-ld.org](https://json-ld.org)
- - date published: 2023-10-25T21:35:20.538149+00:00
- - user: None
- - tags: []
-
-## Jsonnet - Jsonnet Configuration Language
- - [https://jsonnet.org](https://jsonnet.org)
- - date published: 2023-10-25T21:35:22.344537+00:00
- - user: None
- - tags: []
-
-## JSTOR Daily Homepage - JSTOR Daily
- - [https://daily.jstor.org](https://daily.jstor.org)
- - date published: 2023-10-25T21:35:29.037741+00:00
- - user: None
- - tags: []
-
-## JSTOR Home
- - [https://www.jstor.org](https://www.jstor.org)
- - date published: 2023-11-15T00:43:06.140214+00:00
- - user: None
- - tags: []
-
-## http://jsx-mail.org
- - [http://jsx-mail.org](http://jsx-mail.org)
- - date published: 2023-10-25T21:35:35.101318+00:00
- - user: None
- - tags: []
-
-## Jewish Telegraphic Agency - The Global Jewish News Source
- - [https://www.jta.org](https://www.jta.org)
- - date published: 2023-11-21T01:59:22.551429+00:00
- - user: None
- - tags: ['israel']
-
-## Juggling Lab
- - [https://jugglinglab.org](https://jugglinglab.org)
- - date published: 2023-10-25T21:35:36.225777+00:00
- - user: None
- - tags: []
-
-## Julia Programming Language - A forum for users and developers
- - [https://discourse.julialang.org](https://discourse.julialang.org)
- - date published: 2023-10-25T21:35:40.545200+00:00
  - user: None
  - tags: []
 

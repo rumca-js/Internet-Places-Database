@@ -1,3 +1,207 @@
+## Stories of the Development of Large Scale Scientific Computing at Lawrence Livermore National Laboratory
+ - [https://www.computer-history.info](https://www.computer-history.info)
+ - date published: 2023-10-25T19:32:55.417340+00:00
+ - user: None
+ - tags: []
+
+## CrystalDoc.info - Crystal Shards API Documentation
+ - [https://crystaldoc.info](https://crystaldoc.info)
+ - date published: 2023-10-25T19:33:01.610194+00:00
+ - user: None
+ - tags: []
+
+## CSS { In Real Life }
+ - [https://css-irl.info](https://css-irl.info)
+ - date published: 2023-10-25T19:33:02.818546+00:00
+ - user: None
+ - tags: []
+
+## The Phrozen Keep - The Phrozen Keep
+ - [https://d2mods.info](https://d2mods.info)
+ - date published: 2023-10-30T15:21:48.086998+00:00
+ - user: None
+ - tags: ['diablo']
+
+## The Debian Administrator's Handbook
+ - [https://debian-handbook.info](https://debian-handbook.info)
+ - date published: 2023-10-25T19:33:04.117034+00:00
+ - user: None
+ - tags: []
+
+## Demoscene
+ - [https://www.demoscene.info](https://www.demoscene.info)
+ - date published: 2023-11-15T19:08:10+00:00
+ - user: None
+ - tags: []
+
+## Erthalion
+ - [https://erthalion.info](https://erthalion.info)
+ - date published: 2023-10-25T19:33:09.948190+00:00
+ - user: None
+ - tags: []
+
+## Escape Big Tech
+ - [https://escapebigtech.info](https://escapebigtech.info)
+ - date published: 2023-10-25T19:33:10.907999+00:00
+ - user: None
+ - tags: []
+
+## Free The Game Boy
+ - [https://www.freethegameboy.info](https://www.freethegameboy.info)
+ - date published: 2023-10-25T19:33:12.137630+00:00
+ - user: None
+ - tags: []
+
+## Gazeta Trybunalska - Niezależny, wolny portal informacyjny.
+ - [https://gazetatrybunalska.info](https://gazetatrybunalska.info)
+ - date published: 2023-10-25T19:33:17.600578+00:00
+ - user: None
+ - tags: []
+
+## cathode ray dude dot com
+ - [https://gekk.info](https://gekk.info)
+ - date published: 2023-10-25T19:33:19.051679+00:00
+ - user: None
+ - tags: []
+
+## Writing | Jonatan Heyman | heyman.info
+ - [https://heyman.info](https://heyman.info)
+ - date published: 2023-10-25T19:33:21.115785+00:00
+ - user: None
+ - tags: []
+
+## HOPLOFOBIA.INFO – BROŃ PALNA | PRZESTĘPCZOŚĆ | STATYSTYKI | MEDIA
+ - [https://www.hoplofobia.info](https://www.hoplofobia.info)
+ - date published: 2023-10-25T19:33:26.453233+00:00
+ - user: None
+ - tags: []
+
+## 20:33:27
+ - [http://hummingbirdclock.info](http://hummingbirdclock.info)
+ - date published: 2023-10-25T19:33:27.379921+00:00
+ - user: None
+ - tags: []
+
+## 20:33:27
+ - [http://www.hummingbirdclock.info](http://www.hummingbirdclock.info)
+ - date published: 2023-10-25T19:33:28.001956+00:00
+ - user: None
+ - tags: []
+
+## i-programmer.info
+ - [https://www.i-programmer.info](https://www.i-programmer.info)
+ - date published: 2023-10-25T19:33:31.493267+00:00
+ - user: None
+ - tags: []
+
+## The Modern JavaScript Tutorial
+ - [https://javascript.info](https://javascript.info)
+ - date published: 2023-11-01T08:43:37.651655+00:00
+ - user: None
+ - tags: []
+
+## Jerry Yin
+ - [https://jerryyin.info](https://jerryyin.info)
+ - date published: 2023-10-25T19:33:32.588799+00:00
+ - user: None
+ - tags: []
+
+## Pascal Junod
+ - [https://crypto.junod.info](https://crypto.junod.info)
+ - date published: 2023-10-25T19:33:33.225435+00:00
+ - user: None
+ - tags: []
+
+## KeePass Password Safe
+ - [https://keepass.info](https://keepass.info)
+ - date published: 2023-10-25T08:33:10.096294+00:00
+ - user: None
+ - tags: []
+
+## Konsolowe.info - Portal o konsolach, grach, technologii i kulturze.
+ - [https://konsolowe.info](https://konsolowe.info)
+ - date published: 2023-11-02T19:02:55.540671+00:00
+ - user: None
+ - tags: ['game news']
+
+## Krzysztof Kowalczyk
+ - [https://blog.kowalczyk.info](https://blog.kowalczyk.info)
+ - date published: 2023-10-25T19:33:33.900748+00:00
+ - user: None
+ - tags: []
+
+## Krishna Bharadwaj
+ - [https://www.krishnabharadwaj.info](https://www.krishnabharadwaj.info)
+ - date published: 2023-10-25T19:33:34.798737+00:00
+ - user: None
+ - tags: []
+
+## Legit Torrents - Legal Torrents, Free Media
+ - [https://www.legittorrents.info](https://www.legittorrents.info)
+ - date published: 2023-10-25T11:29:52.709268+00:00
+ - user: None
+ - tags: []
+
+## Internet history, design, advanced use, help, security, important features...
+ - [https://www.livinginternet.info](https://www.livinginternet.info)
+ - date published: 2023-10-25T19:33:36.815620+00:00
+ - user: None
+ - tags: []
+
+## bubblicapp
+ - [https://www.lonelyworld.info](https://www.lonelyworld.info)
+ - date published: 2023-10-25T19:33:39.942848+00:00
+ - user: None
+ - tags: []
+
+## Łucznik - strona główna
+ - [https://lucznik.info](https://lucznik.info)
+ - date published: 2023-11-01T08:27:11.323992+00:00
+ - user: None
+ - tags: ['company']
+
+## MARC: Mailing list ARChives
+ - [https://marc.info](https://marc.info)
+ - date published: 2023-10-25T19:33:43.196860+00:00
+ - user: None
+ - tags: []
+
+## More Quantum
+ - [https://mateusaraujo.info](https://mateusaraujo.info)
+ - date published: 2023-10-25T19:33:45.307209+00:00
+ - user: None
+ - tags: []
+
+## Milk Sad: /summary
+ - [https://milksad.info](https://milksad.info)
+ - date published: 2023-10-25T19:33:46.583686+00:00
+ - user: None
+ - tags: []
+
+## OneRNG - Hardware Random Number Generator
+ - [https://onerng.info](https://onerng.info)
+ - date published: 2023-10-25T19:33:47.389423+00:00
+ - user: None
+ - tags: []
+
+## OpenBible.info
+ - [https://www.openbible.info](https://www.openbible.info)
+ - date published: 2023-10-25T19:33:48.004774+00:00
+ - user: None
+ - tags: []
+
+## OpenSecurityTraining2
+ - [https://opensecuritytraining.info](https://opensecuritytraining.info)
+ - date published: 2023-10-25T19:33:50.370733+00:00
+ - user: None
+ - tags: []
+
+## Home | Opinionated Guides
+ - [https://opguides.info](https://opguides.info)
+ - date published: 2023-10-25T19:34:07.741709+00:00
+ - user: None
+ - tags: []
+
 ## Unladen swallow - Olivier Wulveryck
  - [https://blog.owulveryck.info](https://blog.owulveryck.info)
  - date published: 2023-10-25T19:34:10.813618+00:00
@@ -357,6 +561,12 @@
  - date published: 2023-10-25T19:37:08.319881+00:00
  - user: None
  - tags: []
+
+## AdGuard DNS — ad-blocking DNS server
+ - [https://adguard-dns.io](https://adguard-dns.io)
+ - date published: 2023-11-22T06:50:43+00:00
+ - user: rumpel
+ - tags: ['ad block', 'dns']
 
 ## AdNauseam
  - [https://adnauseam.io](https://adnauseam.io)
@@ -2103,6 +2313,12 @@ through Composable Diffusion
 ## Hamed Haddadi – Imperial College London & Brave Software
  - [https://haddadi.github.io](https://haddadi.github.io)
  - date published: 2023-10-25T19:46:27.415612+00:00
+ - user: None
+ - tags: []
+
+## The Hardware Lottery
+ - [https://hardwarelottery.github.io](https://hardwarelottery.github.io)
+ - date published: 2023-11-22T10:06:06+00:00
  - user: None
  - tags: []
 
@@ -4454,6 +4670,12 @@ through Composable Diffusion
  - user: None
  - tags: []
 
+## NextDNS
+ - [https://nextdns.io](https://nextdns.io)
+ - date published: 2023-11-22T06:45:53+00:00
+ - user: rumpel
+ - tags: ['ad block', 'dns']
+
 ## toyrus
  - [https://toyrus.ngrok.io](https://toyrus.ngrok.io)
  - date published: 2023-10-25T20:02:09.036413+00:00
@@ -5775,228 +5997,6 @@ End-to-end typesafe APIs made easy. | tRPC
 ## Xata - The serverless database built for modern development
  - [https://xata.io](https://xata.io)
  - date published: 2023-10-25T20:13:05.962993+00:00
- - user: None
- - tags: []
-
-## Xavier Denis
- - [https://xav.io](https://xav.io)
- - date published: 2023-10-25T20:13:06.573410+00:00
- - user: None
- - tags: []
-
-## Home :: Will Yager
- - [https://yager.io](https://yager.io)
- - date published: 2023-10-25T20:13:07.484512+00:00
- - user: None
- - tags: []
-
-## Zenoh - The Zero Overhead, Pub/Sub, Store, Query, and Compute Protocol.
- - [https://zenoh.io](https://zenoh.io)
- - date published: 2023-10-25T20:13:08.098477+00:00
- - user: None
- - tags: []
-
-## zeux.io - Home
- - [https://zeux.io](https://zeux.io)
- - date published: 2023-10-25T20:13:08.866670+00:00
- - user: None
- - tags: []
-
-## /dev/knill
- - [https://zknill.io](https://zknill.io)
- - date published: 2023-11-16T16:03:25.433854+00:00
- - user: None
- - tags: []
-
-## Home | Znote blog
- - [https://blog.znote.io](https://blog.znote.io)
- - date published: 2023-10-25T20:13:14.658258+00:00
- - user: None
- - tags: []
-
-## Home - zrok
- - [https://zrok.io](https://zrok.io)
- - date published: 2023-10-25T20:13:22.333219+00:00
- - user: None
- - tags: []
-
-## The Voyager: A powerful, low-profile, split ergonomic keyboard | zsa.io
- - [https://www.zsa.io](https://www.zsa.io)
- - date published: 2023-10-25T20:13:25.369797+00:00
- - user: None
- - tags: []
-
-## خانه
- - [https://icdt.ir](https://icdt.ir)
- - date published: 2023-10-27T12:05:21.857952+00:00
- - user: None
- - tags: []
-
-## Of Shaders & Triangles
- - [https://blog.42yeah.is](https://blog.42yeah.is)
- - date published: 2023-10-25T20:13:58.111694+00:00
- - user: None
- - tags: []
-
-## Caffeinspiration
- - [https://alexanderell.is](https://alexanderell.is)
- - date published: 2023-10-25T20:13:59.904634+00:00
- - user: None
- - tags: []
-
-## Arun Venkatesan
- - [https://arun.is](https://arun.is)
- - date published: 2023-10-25T20:14:01.882609+00:00
- - user: None
- - tags: []
-
-## Darcy - Social media done proper
- - [https://darcy.is](https://darcy.is)
- - date published: 2023-10-25T20:14:04.210843+00:00
- - user: None
- - tags: []
-
-## davidcel.is
- - [https://davidcel.is](https://davidcel.is)
- - date published: 2023-10-25T20:14:07.579909+00:00
- - user: None
- - tags: []
-
-## Dusty Jewett Is...
- - [https://dusty.is](https://dusty.is)
- - date published: 2023-10-25T08:49:47.947739+00:00
- - user: None
- - tags: ['personal']
-
-## Elias Daler
- - [https://edw.is](https://edw.is)
- - date published: 2023-10-25T20:14:11.018793+00:00
- - user: None
- - tags: []
-
-## Moderator Mayhem: A Content Moderation Game
- - [https://moderatormayhem.engine.is](https://moderatormayhem.engine.is)
- - date published: 2023-10-25T20:14:11.536786+00:00
- - user: None
- - tags: []
-
-## Ian Smith – Software Development, Electronics, and 3D Printing
- - [https://www.iansmith.is](https://www.iansmith.is)
- - date published: 2023-11-17T07:30:16.055744+00:00
- - user: None
- - tags: ['personal']
-
-## ipapi.is
- - [https://ipapi.is](https://ipapi.is)
- - date published: 2023-10-25T20:14:12.692518+00:00
- - user: None
- - tags: []
-
-## Ísland.is
- - [https://island.is](https://island.is)
- - date published: 2023-10-25T20:14:16.567535+00:00
- - user: None
- - tags: []
-
-## Jake Jarvis – Front-End Web Developer in Boston, MA
- - [https://jarv.is](https://jarv.is)
- - date published: 2023-10-25T20:14:22.428117+00:00
- - user: None
- - tags: []
-
-## | a.programming.blog
- - [https://who.ldelossa.is](https://who.ldelossa.is)
- - date published: 2023-10-25T20:14:23.039703+00:00
- - user: None
- - tags: []
-
-## Library Genesis
- - [https://libgen.is](https://libgen.is)
- - date published: 2023-10-25T20:14:24.181142+00:00
- - user: None
- - tags: []
-
-## Iceland Monitor - monitor.is
- - [https://icelandmonitor.mbl.is](https://icelandmonitor.mbl.is)
- - date published: 2023-11-14T14:17:41.442172+00:00
- - user: None
- - tags: []
-
-## Professor Steven J. Murdoch
- - [https://murdoch.is](https://murdoch.is)
- - date published: 2023-10-25T20:14:25.931346+00:00
- - user: None
- - tags: []
-
-## pratik.is/
- - [https://pratik.is](https://pratik.is)
- - date published: 2023-10-25T20:14:27.508195+00:00
- - user: None
- - tags: []
-
-## RÚV.is
- - [https://www.ruv.is](https://www.ruv.is)
- - date published: 2023-11-11T03:29:34.003690+00:00
- - user: None
- - tags: []
-
-## Your story estimation can be lightweight and efficient
- - [https://smartguess.is](https://smartguess.is)
- - date published: 2023-11-01T08:43:48.191532+00:00
- - user: None
- - tags: []
-
-## The (Site of) Davis
- - [https://thedav.is](https://thedav.is)
- - date published: 2023-10-25T20:14:33.148978+00:00
- - user: None
- - tags: []
-
-## Time.is - exact time, any time zone
- - [https://time.is](https://time.is)
- - date published: 2023-10-25T20:14:35.850640+00:00
- - user: None
- - tags: []
-
-## timing blog
- - [https://blog.timing.is](https://blog.timing.is)
- - date published: 2023-10-25T20:14:37.573106+00:00
- - user: None
- - tags: []
-
-## Open visual  development for the open web
- - [https://webstudio.is](https://webstudio.is)
- - date published: 2023-10-25T20:14:38.592018+00:00
- - user: None
- - tags: []
-
-## Amigapage - Sito italiano dedicato ad Amiga
- - [https://www.amigapage.it](https://www.amigapage.it)
- - date published: 2023-11-02T09:47:56.546618+00:00
- - user: None
- - tags: []
-
-## Agenzia ANSA: ultime notizie di cronaca, politica e sport - ANSA
- - [https://www.ansa.it](https://www.ansa.it)
- - date published: 2023-10-25T20:14:45.151180+00:00
- - user: None
- - tags: []
-
-## Aurelio De Rosa
- - [https://www.audero.it](https://www.audero.it)
- - date published: 2023-10-25T20:14:45.892675+00:00
- - user: None
- - tags: []
-
-## Wifi & Bed
- - [https://bitslap.it](https://bitslap.it)
- - date published: 2023-10-25T20:14:46.393122+00:00
- - user: None
- - tags: []
-
-## Davide Quaranta
- - [https://davquar.it](https://davquar.it)
- - date published: 2023-10-25T20:14:47.000469+00:00
  - user: None
  - tags: []
 

@@ -202,6 +202,12 @@
  - user: None
  - tags: []
 
+## https://www.androidpolice.com
+ - [https://www.androidpolice.com](https://www.androidpolice.com)
+ - date published: 2023-11-22T19:38:02+00:00
+ - user: rumpel
+ - tags: []
+
 ## Sort: Supercharged collaboration for your database
  - [https://sort.xyz.](https://sort.xyz.)
  - date published: 2023-11-01T23:07:07.991006+00:00
@@ -832,6 +838,12 @@
  - user: None
  - tags: []
 
+## LM Studio – Discover, download, and run local LLMs
+ - [https://lmstudio.ai](https://lmstudio.ai)
+ - date published: 2023-11-22T09:38:46+00:00
+ - user: None
+ - tags: []
+
 ## Luma AI
  - [https://lumalabs.ai](https://lumalabs.ai)
  - date published: 2023-10-25T11:39:54.133649+00:00
@@ -1249,6 +1261,12 @@
 ## Tesseract Analytics & AI – For Data-Driven Decisions
  - [https://tesseractanalytics.ai](https://tesseractanalytics.ai)
  - date published: 2023-10-25T11:44:18.736977+00:00
+ - user: None
+ - tags: []
+
+## TigerLab – Adversarial Testing for LLMs and Chatbots
+ - [https://www.tigerlab.ai](https://www.tigerlab.ai)
+ - date published: 2023-11-22T06:52:56+00:00
  - user: None
  - tags: []
 
@@ -3119,6 +3137,12 @@
  - user: None
  - tags: ['personal']
 
+## genehack.blog
+ - [https://genehack.blog](https://genehack.blog)
+ - date published: 2023-11-22T09:04:44.779260+00:00
+ - user: None
+ - tags: ['personal']
+
 ## The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.
  - [https://github.blog](https://github.blog)
  - date published: 2023-10-25T11:32:12.073420+00:00
@@ -4473,6 +4497,12 @@
 ## galaxus.ch – fast alles für fast jede*n
  - [https://www.galaxus.ch](https://www.galaxus.ch)
  - date published: 2023-10-25T12:13:52.492514+00:00
+ - user: None
+ - tags: []
+
+## Reflecting on 18 Years at Google
+ - [https://ln.hixie.ch](https://ln.hixie.ch)
+ - date published: 2023-11-22T16:44:15+00:00
  - user: None
  - tags: []
 
@@ -5874,6 +5904,12 @@
  - user: None
  - tags: ['funny images', 'memes']
 
+## Access Denied
+ - [https://www.9news.com](https://www.9news.com)
+ - date published: 2023-11-22T04:44:23.039556+00:00
+ - user: None
+ - tags: []
+
 ## 9 Tailed Kitsune – Get Your Daily Dose of Quality Anime Content
  - [https://9tailedkitsune.com](https://9tailedkitsune.com)
  - date published: 2023-10-25T15:04:47.546602+00:00
@@ -5928,6 +5964,12 @@
  - user: None
  - tags: []
 
+## Desarrollador/Programador de aplicaciones web freelance en Chile. - a-chacon
+ - [https://a-chacon.com](https://a-chacon.com)
+ - date published: 2023-11-22T12:09:25.204194+00:00
+ - user: None
+ - tags: []
+
 ## Andreessen Horowitz | Software Is Eating the World
  - [https://a16z.com](https://a16z.com)
  - date published: 2023-10-25T12:28:40.833485+00:00
@@ -5949,48 +5991,6 @@
 ## LINQ to Fail
  - [https://www.aaron-powell.com](https://www.aaron-powell.com)
  - date published: 2023-10-25T08:57:54.880761+00:00
- - user: None
- - tags: ['personal']
-
-## aaronbell.com | words about humans and tech.
- - [https://www.aaronbell.com](https://www.aaronbell.com)
- - date published: 2023-10-25T12:28:44.982948+00:00
- - user: None
- - tags: []
-
-## Home • Aaron Bruce | aaronbruce.com
- - [https://www.aaronbruce.com](https://www.aaronbruce.com)
- - date published: 2023-10-25T12:28:46.281489+00:00
- - user: None
- - tags: []
-
-## Aaron Hertzmann’s blog | Aaron Hertzmann’s blog
- - [https://aaronhertzmann.com](https://aaronhertzmann.com)
- - date published: 2023-10-25T12:28:49.046550+00:00
- - user: None
- - tags: []
-
-## Aaron's Essays
- - [https://blog.aaronkharris.com](https://blog.aaronkharris.com)
- - date published: 2023-10-25T09:04:05.212716+00:00
- - user: None
- - tags: ['personal']
-
-## Aaron Harris
- - [https://www.aaronkharris.com](https://www.aaronkharris.com)
- - date published: 2023-10-25T09:04:06.682843+00:00
- - user: None
- - tags: ['personal']
-
-## Aaron Lou
- - [https://aaronlou.com](https://aaronlou.com)
- - date published: 2023-10-25T09:04:07.643972+00:00
- - user: None
- - tags: ['personal']
-
-## Aatish Bhatia
- - [https://aatishb.com](https://aatishb.com)
- - date published: 2023-10-25T09:04:13.761042+00:00
  - user: None
  - tags: ['personal']
 

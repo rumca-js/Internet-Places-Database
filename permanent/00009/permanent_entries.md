@@ -1,3 +1,189 @@
+## WasmFX: Effect Handlers for WebAssembly
+ - [https://wasmfx.dev](https://wasmfx.dev)
+ - date published: 2023-11-07T23:04:21+00:00
+ - user: None
+ - tags: []
+
+## Wasm Labs at VMware OCTO
+ - [https://wasmlabs.dev](https://wasmlabs.dev)
+ - date published: 2023-10-25T18:44:11.962330+00:00
+ - user: None
+ - tags: []
+
+## Wasp
+ - [https://wasp-lang.dev](https://wasp-lang.dev)
+ - date published: 2023-10-25T18:44:13.919020+00:00
+ - user: None
+ - tags: []
+
+## web.dev
+ - [https://web.dev](https://web.dev)
+ - date published: 2023-10-25T18:44:17.767137+00:00
+ - user: None
+ - tags: []
+
+## WebArena: A Realistic Web Environment for Building Autonomous Agents
+ - [https://webarena.dev](https://webarena.dev)
+ - date published: 2023-10-25T18:44:21.189861+00:00
+ - user: None
+ - tags: []
+
+## Home | Andy Hippo
+ - [https://werat.dev](https://werat.dev)
+ - date published: 2023-10-25T18:44:22.806744+00:00
+ - user: None
+ - tags: []
+
+## Gustav Westling
+ - [https://westling.dev](https://westling.dev)
+ - date published: 2023-10-25T18:44:24.486704+00:00
+ - user: None
+ - tags: []
+
+## http://www.windmill.dev
+ - [http://www.windmill.dev](http://www.windmill.dev)
+ - date published: 2023-10-25T18:44:26.132315+00:00
+ - user: None
+ - tags: []
+
+## A corner of the internet for people who love building digital products.
+ - [https://www.wking.dev](https://www.wking.dev)
+ - date published: 2023-11-06T19:19:56.497567+00:00
+ - user: None
+ - tags: []
+
+## Thoughts for CTOs, Tech Leads and Software Architects
+ - [https://www.workingsoftware.dev](https://www.workingsoftware.dev)
+ - date published: 2023-10-25T18:44:29.024808+00:00
+ - user: None
+ - tags: []
+
+## WSCP's blog
+ - [http://wscp.dev](http://wscp.dev)
+ - date published: 2023-10-25T08:58:56.272680+00:00
+ - user: None
+ - tags: ['personal']
+
+## dotMorten | .NET Ramblings, XAML hacking and some GIS endeavors
+ - [https://xaml.dev](https://xaml.dev)
+ - date published: 2023-10-25T08:59:01.383042+00:00
+ - user: None
+ - tags: ['personal']
+
+## XINF
+ - [https://xinf.dev](https://xinf.dev)
+ - date published: 2023-10-25T18:44:30.785844+00:00
+ - user: None
+ - tags: []
+
+## xy2
+ - [https://xy2.dev](https://xy2.dev)
+ - date published: 2023-10-25T18:44:33.489903+00:00
+ - user: None
+ - tags: []
+
+## You don't need a modal window
+ - [https://youdontneedamodalwindow.dev](https://youdontneedamodalwindow.dev)
+ - date published: 2023-10-25T18:44:35.045129+00:00
+ - user: None
+ - tags: []
+
+## yuanchuan
+ - [https://yuanchuan.dev](https://yuanchuan.dev)
+ - date published: 2023-10-25T18:44:37.242773+00:00
+ - user: None
+ - tags: []
+
+## zackoverflow
+ - [https://zackoverflow.dev](https://zackoverflow.dev)
+ - date published: 2023-10-25T18:44:39.698343+00:00
+ - user: None
+ - tags: []
+
+## Zed - Code at the speed of thought
+ - [https://zed.dev](https://zed.dev)
+ - date published: 2023-10-25T18:44:46.883335+00:00
+ - user: None
+ - tags: []
+
+## Zellij
+ - [https://zellij.dev](https://zellij.dev)
+ - date published: 2023-10-25T18:44:48.356849+00:00
+ - user: None
+ - tags: []
+
+## julian.digital
+ - [https://julian.digital](https://julian.digital)
+ - date published: 2023-10-25T18:44:50.401929+00:00
+ - user: None
+ - tags: []
+
+## RDTR01
+ - [https://rdtr01.xl.digital](https://rdtr01.xl.digital)
+ - date published: 2023-10-25T18:44:52.509130+00:00
+ - user: None
+ - tags: []
+
+## ooh.directory: a place to find good blogs that interest you
+ - [https://ooh.directory](https://ooh.directory)
+ - date published: 2023-10-25T18:44:56.352626+00:00
+ - user: None
+ - tags: []
+
+## Consent-O-Matic
+ - [https://consentomatic.au.dk](https://consentomatic.au.dk)
+ - date published: 2023-10-25T18:44:57.884515+00:00
+ - user: None
+ - tags: []
+
+## The Interdisciplinary Nanoscience Center at Aarhus University: inano.au.dk
+ - [https://inano.au.dk](https://inano.au.dk)
+ - date published: 2023-11-21T16:46:11.636457+00:00
+ - user: None
+ - tags: []
+
+## bret.dk - Explore the latest single-board computers (SBCs), including reviews and benchmarks for Raspberry Pi.
+ - [https://bret.dk](https://bret.dk)
+ - date published: 2023-10-25T18:45:00.174502+00:00
+ - user: None
+ - tags: []
+
+## [CSDb] - The Commodore 64 Scene Database
+ - [https://csdb.dk](https://csdb.dk)
+ - date published: 2023-10-25T11:17:26.783143+00:00
+ - user: None
+ - tags: ['social forum', 'commodore', 'demoscene']
+
+## Datatilsynet
+ - [https://www.datatilsynet.dk](https://www.datatilsynet.dk)
+ - date published: 2023-10-25T18:45:02.198094+00:00
+ - user: None
+ - tags: []
+
+## Datavirke
+ - [https://datavirke.dk](https://datavirke.dk)
+ - date published: 2023-10-25T18:45:02.904442+00:00
+ - user: None
+ - tags: []
+
+## Danmarks Tekniske Universitet - DTU
+ - [https://www.dtu.dk](https://www.dtu.dk)
+ - date published: 2023-10-25T18:45:05.300599+00:00
+ - user: None
+ - tags: []
+
+## DusteDs home in cyberspace
+ - [https://dusted.dk](https://dusted.dk)
+ - date published: 2023-10-25T18:45:11.349563+00:00
+ - user: None
+ - tags: []
+
+## Forsvaret
+ - [https://www.forsvaret.dk](https://www.forsvaret.dk)
+ - date published: 2023-10-25T18:45:14.938720+00:00
+ - user: None
+ - tags: []
+
 ## Become a Go cloud developer
  - [https://www.golang.dk](https://www.golang.dk)
  - date published: 2023-10-25T18:45:15.795948+00:00
@@ -1928,6 +2114,12 @@
 ## The Circuits and Biology Lab at UMN
  - [https://www.mriedel.ece.umn.edu](https://www.mriedel.ece.umn.edu)
  - date published: 2023-10-25T19:03:11.903000+00:00
+ - user: None
+ - tags: []
+
+## University of Minnesota Press
+ - [https://www.upress.umn.edu](https://www.upress.umn.edu)
+ - date published: 2023-11-22T15:59:30.119351+00:00
  - user: None
  - tags: []
 
@@ -4077,7 +4269,7 @@
  - [https://www.archives.gov](https://www.archives.gov)
  - date published: 2023-10-25T19:17:54.767250+00:00
  - user: None
- - tags: []
+ - tags: ['library', 'archives']
 
 ## U.S. Bureau of Economic Analysis (BEA)
  - [https://www.bea.gov](https://www.bea.gov)
@@ -4427,7 +4619,7 @@
  - [https://www.ic3.gov](https://www.ic3.gov)
  - date published: 2023-10-25T11:20:35.175486+00:00
  - user: None
- - tags: []
+ - tags: ['fbi', 'internet crime complaint']
 
 ## Attention Required! | Cloudflare
  - [https://events.in.gov](https://events.in.gov)
@@ -4576,6 +4768,12 @@
 ## The Nation's Report Card
  - [https://www.nationsreportcard.gov](https://www.nationsreportcard.gov)
  - date published: 2023-10-25T19:23:15.683587+00:00
+ - user: None
+ - tags: []
+
+## Native American Heritage Month 2023
+ - [https://nativeamericanheritagemonth.gov](https://nativeamericanheritagemonth.gov)
+ - date published: 2023-11-22T12:09:50.253774+00:00
  - user: None
  - tags: []
 
@@ -5265,6 +5463,12 @@
  - user: None
  - tags: ['personal']
 
+## telex
+ - [https://telex.hu](https://telex.hu)
+ - date published: 2023-11-22T17:38:44.501720+00:00
+ - user: None
+ - tags: []
+
 ## goose.icu
  - [https://goose.icu](https://goose.icu)
  - date published: 2023-10-27T20:10:59.917422+00:00
@@ -5803,210 +6007,6 @@
 ## codewithstyle.info
  - [https://codewithstyle.info](https://codewithstyle.info)
  - date published: 2023-10-25T19:32:47.257860+00:00
- - user: None
- - tags: []
-
-## CommunityRule
- - [https://communityrule.info](https://communityrule.info)
- - date published: 2023-10-25T19:32:48.400403+00:00
- - user: None
- - tags: []
-
-## Stories of the Development of Large Scale Scientific Computing at Lawrence Livermore National Laboratory
- - [https://www.computer-history.info](https://www.computer-history.info)
- - date published: 2023-10-25T19:32:55.417340+00:00
- - user: None
- - tags: []
-
-## CrystalDoc.info - Crystal Shards API Documentation
- - [https://crystaldoc.info](https://crystaldoc.info)
- - date published: 2023-10-25T19:33:01.610194+00:00
- - user: None
- - tags: []
-
-## CSS { In Real Life }
- - [https://css-irl.info](https://css-irl.info)
- - date published: 2023-10-25T19:33:02.818546+00:00
- - user: None
- - tags: []
-
-## The Phrozen Keep - The Phrozen Keep
- - [https://d2mods.info](https://d2mods.info)
- - date published: 2023-10-30T15:21:48.086998+00:00
- - user: None
- - tags: ['diablo']
-
-## The Debian Administrator's Handbook
- - [https://debian-handbook.info](https://debian-handbook.info)
- - date published: 2023-10-25T19:33:04.117034+00:00
- - user: None
- - tags: []
-
-## Demoscene
- - [https://www.demoscene.info](https://www.demoscene.info)
- - date published: 2023-11-15T19:08:10+00:00
- - user: None
- - tags: []
-
-## Erthalion
- - [https://erthalion.info](https://erthalion.info)
- - date published: 2023-10-25T19:33:09.948190+00:00
- - user: None
- - tags: []
-
-## Escape Big Tech
- - [https://escapebigtech.info](https://escapebigtech.info)
- - date published: 2023-10-25T19:33:10.907999+00:00
- - user: None
- - tags: []
-
-## Free The Game Boy
- - [https://www.freethegameboy.info](https://www.freethegameboy.info)
- - date published: 2023-10-25T19:33:12.137630+00:00
- - user: None
- - tags: []
-
-## Gazeta Trybunalska - Niezależny, wolny portal informacyjny.
- - [https://gazetatrybunalska.info](https://gazetatrybunalska.info)
- - date published: 2023-10-25T19:33:17.600578+00:00
- - user: None
- - tags: []
-
-## cathode ray dude dot com
- - [https://gekk.info](https://gekk.info)
- - date published: 2023-10-25T19:33:19.051679+00:00
- - user: None
- - tags: []
-
-## Writing | Jonatan Heyman | heyman.info
- - [https://heyman.info](https://heyman.info)
- - date published: 2023-10-25T19:33:21.115785+00:00
- - user: None
- - tags: []
-
-## HOPLOFOBIA.INFO – BROŃ PALNA | PRZESTĘPCZOŚĆ | STATYSTYKI | MEDIA
- - [https://www.hoplofobia.info](https://www.hoplofobia.info)
- - date published: 2023-10-25T19:33:26.453233+00:00
- - user: None
- - tags: []
-
-## 20:33:27
- - [http://hummingbirdclock.info](http://hummingbirdclock.info)
- - date published: 2023-10-25T19:33:27.379921+00:00
- - user: None
- - tags: []
-
-## 20:33:27
- - [http://www.hummingbirdclock.info](http://www.hummingbirdclock.info)
- - date published: 2023-10-25T19:33:28.001956+00:00
- - user: None
- - tags: []
-
-## i-programmer.info
- - [https://www.i-programmer.info](https://www.i-programmer.info)
- - date published: 2023-10-25T19:33:31.493267+00:00
- - user: None
- - tags: []
-
-## The Modern JavaScript Tutorial
- - [https://javascript.info](https://javascript.info)
- - date published: 2023-11-01T08:43:37.651655+00:00
- - user: None
- - tags: []
-
-## Jerry Yin
- - [https://jerryyin.info](https://jerryyin.info)
- - date published: 2023-10-25T19:33:32.588799+00:00
- - user: None
- - tags: []
-
-## Pascal Junod
- - [https://crypto.junod.info](https://crypto.junod.info)
- - date published: 2023-10-25T19:33:33.225435+00:00
- - user: None
- - tags: []
-
-## KeePass Password Safe
- - [https://keepass.info](https://keepass.info)
- - date published: 2023-10-25T08:33:10.096294+00:00
- - user: None
- - tags: []
-
-## Konsolowe.info - Portal o konsolach, grach, technologii i kulturze.
- - [https://konsolowe.info](https://konsolowe.info)
- - date published: 2023-11-02T19:02:55.540671+00:00
- - user: None
- - tags: ['game news']
-
-## Krzysztof Kowalczyk
- - [https://blog.kowalczyk.info](https://blog.kowalczyk.info)
- - date published: 2023-10-25T19:33:33.900748+00:00
- - user: None
- - tags: []
-
-## Krishna Bharadwaj
- - [https://www.krishnabharadwaj.info](https://www.krishnabharadwaj.info)
- - date published: 2023-10-25T19:33:34.798737+00:00
- - user: None
- - tags: []
-
-## Legit Torrents - Legal Torrents, Free Media
- - [https://www.legittorrents.info](https://www.legittorrents.info)
- - date published: 2023-10-25T11:29:52.709268+00:00
- - user: None
- - tags: []
-
-## Internet history, design, advanced use, help, security, important features...
- - [https://www.livinginternet.info](https://www.livinginternet.info)
- - date published: 2023-10-25T19:33:36.815620+00:00
- - user: None
- - tags: []
-
-## bubblicapp
- - [https://www.lonelyworld.info](https://www.lonelyworld.info)
- - date published: 2023-10-25T19:33:39.942848+00:00
- - user: None
- - tags: []
-
-## Łucznik - strona główna
- - [https://lucznik.info](https://lucznik.info)
- - date published: 2023-11-01T08:27:11.323992+00:00
- - user: None
- - tags: ['company']
-
-## MARC: Mailing list ARChives
- - [https://marc.info](https://marc.info)
- - date published: 2023-10-25T19:33:43.196860+00:00
- - user: None
- - tags: []
-
-## More Quantum
- - [https://mateusaraujo.info](https://mateusaraujo.info)
- - date published: 2023-10-25T19:33:45.307209+00:00
- - user: None
- - tags: []
-
-## Milk Sad: /summary
- - [https://milksad.info](https://milksad.info)
- - date published: 2023-10-25T19:33:46.583686+00:00
- - user: None
- - tags: []
-
-## OneRNG - Hardware Random Number Generator
- - [https://onerng.info](https://onerng.info)
- - date published: 2023-10-25T19:33:47.389423+00:00
- - user: None
- - tags: []
-
-## OpenBible.info
- - [https://www.openbible.info](https://www.openbible.info)
- - date published: 2023-10-25T19:33:48.004774+00:00
- - user: None
- - tags: []
-
-## OpenSecurityTraining2
- - [https://opensecuritytraining.info](https://opensecuritytraining.info)
- - date published: 2023-10-25T19:33:50.370733+00:00
  - user: None
  - tags: []
 

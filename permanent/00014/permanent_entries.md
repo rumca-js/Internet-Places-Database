@@ -1,3 +1,279 @@
+## The World Wide Web History Project
+ - [http://1997.webhistory.org](http://1997.webhistory.org)
+ - date published: 2023-10-25T22:19:38.470554+00:00
+ - user: None
+ - tags: []
+
+## Bugzilla Main Page
+ - [https://bugs.webkit.org](https://bugs.webkit.org)
+ - date published: 2023-10-25T22:19:39.612366+00:00
+ - user: None
+ - tags: []
+
+## WebKit
+ - [https://webkit.org](https://webkit.org)
+ - date published: 2023-10-25T22:19:41.698798+00:00
+ - user: None
+ - tags: []
+
+## Web Monetization
+ - [https://webmonetization.org](https://webmonetization.org)
+ - date published: 2023-10-25T22:19:42.833645+00:00
+ - user: None
+ - tags: []
+
+## WebPageTest Blog
+ - [https://blog.webpagetest.org](https://blog.webpagetest.org)
+ - date published: 2023-10-25T22:19:43.863277+00:00
+ - user: None
+ - tags: []
+
+## websdr.org
+ - [https://www.websdr.org](https://www.websdr.org)
+ - date published: 2023-10-26T23:03:35.129196+00:00
+ - user: None
+ - tags: []
+
+## WeeChat dev news
+ - [https://blog.weechat.org](https://blog.weechat.org)
+ - date published: 2023-10-25T22:19:47.148361+00:00
+ - user: None
+ - tags: []
+
+## The World Economic Forum
+ - [https://www.weforum.org](https://www.weforum.org)
+ - date published: 2023-10-25T11:30:42.756449+00:00
+ - user: None
+ - tags: []
+
+## World Economic Forum - Home
+ - [https://www3.weforum.org](https://www3.weforum.org)
+ - date published: 2023-10-25T22:19:53.830894+00:00
+ - user: None
+ - tags: []
+
+## Wejn’s corner on the interwebs.
+ - [https://wejn.org](https://wejn.org)
+ - date published: 2023-10-25T08:55:18.348509+00:00
+ - user: None
+ - tags: ['personal']
+
+## Test Page for the Apache HTTP Server on CloudLinux
+ - [https://www.wermac.org](https://www.wermac.org)
+ - date published: 2023-10-25T22:19:55.137989+00:00
+ - user: None
+ - tags: []
+
+## The Battle for Wesnoth
+ - [https://wesnoth.org](https://wesnoth.org)
+ - date published: 2023-10-29T13:05:11.269368+00:00
+ - user: None
+ - tags: ['open source', 'game']
+
+## The Westminster Declaration
+ - [https://westminsterdeclaration.org](https://westminsterdeclaration.org)
+ - date published: 2023-10-27T12:07:12.002789+00:00
+ - user: None
+ - tags: []
+
+## Wez Furlong, Open Sourceror
+ - [https://wezfurlong.org](https://wezfurlong.org)
+ - date published: 2023-10-25T22:19:57.560546+00:00
+ - user: None
+ - tags: []
+
+## Indianapolis' Public Radio, TV & News Station | WFYI
+ - [https://www.wfyi.org](https://www.wfyi.org)
+ - date published: 2023-10-25T22:20:00.574986+00:00
+ - user: None
+ - tags: []
+
+## WGA Contract 2023
+ - [https://www.wgacontract2023.org](https://www.wgacontract2023.org)
+ - date published: 2023-10-25T22:20:03.583080+00:00
+ - user: None
+ - tags: []
+
+## whitequark's lab notebook
+ - [https://lab.whitequark.org](https://lab.whitequark.org)
+ - date published: 2023-10-25T22:20:08.691797+00:00
+ - user: None
+ - tags: []
+
+## Whonix - Superior Internet Privacy
+ - [https://www.whonix.org](https://www.whonix.org)
+ - date published: 2023-10-25T08:38:05.601331+00:00
+ - user: None
+ - tags: []
+
+## Home Page - WhoWhatWhy
+ - [https://whowhatwhy.org](https://whowhatwhy.org)
+ - date published: 2023-10-31T10:38:23.005616+00:00
+ - user: None
+ - tags: []
+
+## Dariusz Więckiewicz 🇵🇱 – Wolny świat, wolne myśly, wolne słowa.
+ - [https://dariusz.wieckiewicz.org](https://dariusz.wieckiewicz.org)
+ - date published: 2023-10-25T22:20:13.073418+00:00
+ - user: None
+ - tags: []
+
+## Wikibooks
+ - [https://en.wikibooks.org](https://en.wikibooks.org)
+ - date published: 2023-10-25T22:20:17.247729+00:00
+ - user: None
+ - tags: []
+
+## WikiChip Fuse – Your Chips and Semi News
+ - [https://fuse.wikichip.org](https://fuse.wikichip.org)
+ - date published: 2023-10-25T22:20:29.115014+00:00
+ - user: None
+ - tags: []
+
+## Wikidata
+ - [https://wikidata.org](https://wikidata.org)
+ - date published: 2023-11-17T16:44:51+00:00
+ - user: rumpel
+ - tags: ['database', 'archive']
+
+## WikiIndex
+ - [https://wikiindex.org](https://wikiindex.org)
+ - date published: 2023-10-25T22:20:32.639179+00:00
+ - user: None
+ - tags: []
+
+## 504 Gateway Time-out
+ - [https://wikileaks.org](https://wikileaks.org)
+ - date published: 2023-10-25T22:20:33.161903+00:00
+ - user: None
+ - tags: []
+
+## Wikimedia Commons
+ - [https://commons.wikimedia.org](https://commons.wikimedia.org)
+ - date published: 2023-10-25T22:20:40.800608+00:00
+ - user: None
+ - tags: []
+
+## Diff – News from across the Wikimedia movement
+ - [https://diff.wikimedia.org](https://diff.wikimedia.org)
+ - date published: 2023-10-25T22:20:44.837722+00:00
+ - user: None
+ - tags: []
+
+## Main Page - Meta
+ - [https://meta.wikimedia.org](https://meta.wikimedia.org)
+ - date published: 2023-10-25T22:21:00.290462+00:00
+ - user: None
+ - tags: []
+
+## Home – Wikimedia Foundation
+ - [https://wikimediafoundation.org](https://wikimediafoundation.org)
+ - date published: 2023-10-25T22:21:03.787447+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia – Die freie Enzyklopädie
+ - [https://de.wikipedia.org](https://de.wikipedia.org)
+ - date published: 2023-11-01T15:44:21.604213+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia, the free encyclopedia
+ - [https://en.m.wikipedia.org](https://en.m.wikipedia.org)
+ - date published: 2023-10-25T09:28:56.379569+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia, the free encyclopedia
+ - [https://en.wikipedia.org](https://en.wikipedia.org)
+ - date published: 2023-10-25T09:28:43.251880+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia, wolna encyklopedia
+ - [https://pl.m.wikipedia.org](https://pl.m.wikipedia.org)
+ - date published: 2023-10-25T09:28:59.023034+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia, wolna encyklopedia
+ - [https://pl.wikipedia.org](https://pl.wikipedia.org)
+ - date published: 2023-10-25T09:29:01.830546+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia
+ - [https://www.wikipedia.org](https://www.wikipedia.org)
+ - date published: 2023-10-25T13:32:36.498304+00:00
+ - user: None
+ - tags: ['encyclopedia']
+
+## Wikisource, the free library
+ - [https://en.wikisource.org](https://en.wikisource.org)
+ - date published: 2023-10-25T22:21:09.335429+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://wikisummaries.org](https://wikisummaries.org)
+ - date published: 2023-11-20T20:54:09.137088+00:00
+ - user: None
+ - tags: []
+
+## Wikiversity
+ - [https://en.wikiversity.org](https://en.wikiversity.org)
+ - date published: 2023-10-25T22:21:18.483834+00:00
+ - user: None
+ - tags: []
+
+## Wiktionary, the free dictionary
+ - [https://en.wiktionary.org](https://en.wiktionary.org)
+ - date published: 2023-10-25T22:21:25.676976+00:00
+ - user: None
+ - tags: []
+
+## Explore groups · GitLab
+ - [https://gitlab.winehq.org](https://gitlab.winehq.org)
+ - date published: 2023-10-25T22:21:28.097147+00:00
+ - user: None
+ - tags: []
+
+## WineHQ - Run Windows applications on Linux, BSD, Solaris and macOS
+ - [https://www.winehq.org](https://www.winehq.org)
+ - date published: 2023-10-25T08:34:14.919530+00:00
+ - user: None
+ - tags: ['emulator', 'open source']
+
+## wingolog
+ - [https://wingolog.org](https://wingolog.org)
+ - date published: 2023-10-25T22:21:31.127284+00:00
+ - user: None
+ - tags: []
+
+## wingolog
+ - [https://www.wingolog.org](https://www.wingolog.org)
+ - date published: 2023-10-25T22:21:34.064097+00:00
+ - user: None
+ - tags: []
+
+## Show HN: WireHub – easily create and share WireGuard networks
+ - [https://www.wirehub.org](https://www.wirehub.org)
+ - date published: 2023-11-05T20:54:33+00:00
+ - user: None
+ - tags: []
+
+## Sniff free or die | The official Wireshark blog
+ - [https://blog.wireshark.org](https://blog.wireshark.org)
+ - date published: 2023-10-25T22:21:35.527623+00:00
+ - user: None
+ - tags: []
+
+## Facts-Based News for Christians | WORLD
+ - [https://wng.org](https://wng.org)
+ - date published: 2023-10-25T10:13:18.284192+00:00
+ - user: None
+ - tags: []
+
 ## WolfeDen.Org
  - [https://www.wolfeden.org](https://www.wolfeden.org)
  - date published: 2023-10-25T22:21:37.043037+00:00
@@ -936,6 +1212,12 @@ is forbidden
  - user: None
  - tags: []
 
+## Dziennik Polski - Wiadomości Kraków, Wiadomości Małopolskie
+ - [https://dziennikpolski24.pl](https://dziennikpolski24.pl)
+ - date published: 2023-11-22T11:44:36.660000+00:00
+ - user: None
+ - tags: []
+
 ## Elektronika, Odzież, Samochody, Przedmioty kolekcjonerskie i jeszcze więcej | eBay
  - [https://www.ebay.pl](https://www.ebay.pl)
  - date published: 2023-10-24T20:20:08.021134+00:00
@@ -1281,6 +1563,12 @@ is forbidden
 ## Pogoda w INTERIA.PL – długoterminowa (na 25 dni) prognoza pogody dla Polski, Europy i Świata
  - [https://pogoda.interia.pl](https://pogoda.interia.pl)
  - date published: 2023-10-24T20:19:26.422240+00:00
+ - user: None
+ - tags: []
+
+## Sport w INTERIA.PL - wyniki na żywo i newsy: piłka nożna, skoki, tenis, żużel
+ - [https://sport.interia.pl](https://sport.interia.pl)
+ - date published: 2023-11-22T18:59:00.087140+00:00
  - user: None
  - tags: []
 
@@ -3097,6 +3385,12 @@ is forbidden
  - user: None
  - tags: []
 
+## The National | Latest Scottish News, Politics, Opinion, Sport and more
+ - [https://www.thenational.scot](https://www.thenational.scot)
+ - date published: 2023-11-22T14:04:39.684711+00:00
+ - user: None
+ - tags: []
+
 ## Nyheter från Sveriges största nyhetssajt
  - [https://www.aftonbladet.se](https://www.aftonbladet.se)
  - date published: 2023-11-16T07:40:26.151210+00:00
@@ -3437,7 +3731,7 @@ is forbidden
  - [https://copy.sh](https://copy.sh)
  - date published: 2023-10-25T22:38:12.223744+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Cursor - The AI-first Code Editor
  - [https://cursor.sh](https://cursor.sh)
@@ -3730,6 +4024,12 @@ is forbidden
 ## Patrick Kidger
  - [https://kidger.site](https://kidger.site)
  - date published: 2023-10-25T08:55:53.732866+00:00
+ - user: None
+ - tags: ['personal']
+
+## home
+ - [https://whoisdsmith.mixa.site](https://whoisdsmith.mixa.site)
+ - date published: 2023-11-22T08:44:29.428440+00:00
  - user: None
  - tags: ['personal']
 
@@ -5705,304 +6005,4 @@ Introduction
  - date published: 2023-10-25T22:50:35.558821+00:00
  - user: None
  - tags: []
-
-## ASCII.co.uk - The home of all things ASCII
- - [https://ascii.co.uk](https://ascii.co.uk)
- - date published: 2023-10-30T13:46:28.309681+00:00
- - user: None
- - tags: []
-
-## Autocar | Car News and Car Reviews
- - [https://www.autocar.co.uk](https://www.autocar.co.uk)
- - date published: 2023-10-25T22:50:42.741657+00:00
- - user: None
- - tags: []
-
-## BabelStone
- - [https://www.babelstone.co.uk](https://www.babelstone.co.uk)
- - date published: 2023-10-25T22:50:46.375041+00:00
- - user: None
- - tags: []
-
-## Home | Bank of England
- - [https://www.bankofengland.co.uk](https://www.bankofengland.co.uk)
- - date published: 2023-10-25T22:50:52.361987+00:00
- - user: None
- - tags: []
-
-## Home - BBC News
- - [https://news.bbc.co.uk](https://news.bbc.co.uk)
- - date published: 2023-10-25T10:34:44.046411+00:00
- - user: None
- - tags: []
-
-## BBC - Home
- - [https://www.bbc.co.uk](https://www.bbc.co.uk)
- - date published: 2023-10-25T10:34:51.357017+00:00
- - user: None
- - tags: []
-
-## BBC Computer Literacy Project Archive
- - [https://clp.bbcrewind.co.uk](https://clp.bbcrewind.co.uk)
- - date published: 2023-10-25T22:50:58.960438+00:00
- - user: None
- - tags: []
-
-## Belfast Live: Latest Belfast News, sport & celebrity gossip
- - [https://www.belfastlive.co.uk](https://www.belfastlive.co.uk)
- - date published: 2023-10-25T22:51:11.575136+00:00
- - user: None
- - tags: []
-
-## Benji Weber
- - [https://benjiweber.co.uk](https://benjiweber.co.uk)
- - date published: 2023-10-25T22:51:13.295230+00:00
- - user: None
- - tags: []
-
-## Benjojo's Blog
- - [https://blog.benjojo.co.uk](https://blog.benjojo.co.uk)
- - date published: 2023-10-25T08:56:20.029035+00:00
- - user: None
- - tags: ['personal']
-
-## Binary Moon > Ben Gillbanks
- - [https://www.binarymoon.co.uk](https://www.binarymoon.co.uk)
- - date published: 2023-10-25T22:51:15.031956+00:00
- - user: None
- - tags: []
-
-## Rebellion acquires The Bitmap Brothers brand and portfolio | Rebellion
- - [https://www.bitmap-brothers.co.uk](https://www.bitmap-brothers.co.uk)
- - date published: 2023-11-06T10:56:40.022375+00:00
- - user: None
- - tags: ['amiga', 'bitmap brothers', 'retro games', 'game studio']
-
-## Bristol Live - latest local news, sport & business from Bristol
- - [https://www.bristolpost.co.uk](https://www.bristolpost.co.uk)
- - date published: 2023-10-25T22:51:29.047653+00:00
- - user: None
- - tags: []
-
-## hubs = geodesic domes made simple
- - [https://buildwithhubs.co.uk](https://buildwithhubs.co.uk)
- - date published: 2023-10-25T22:51:31.098717+00:00
- - user: None
- - tags: []
-
-## Bytes N Bits – Code, Make, Have Fun
- - [https://bytesnbits.co.uk](https://bytesnbits.co.uk)
- - date published: 2023-11-02T10:58:20.376646+00:00
- - user: None
- - tags: ['retro gaming', 'programming', 'amiga']
-
-## The Latest News and Sport for Cambridge - Cambridge Independent
- - [https://www.cambridgeindependent.co.uk](https://www.cambridgeindependent.co.uk)
- - date published: 2023-10-25T22:51:36.002589+00:00
- - user: None
- - tags: []
-
-## Cricetus Cricetus Publishing
- - [https://www.cricetuscricetus.co.uk](https://www.cricetuscricetus.co.uk)
- - date published: 2023-10-25T22:51:39.170599+00:00
- - user: None
- - tags: []
-
-## UK Home | Daily Mail Online
- - [https://www.dailymail.co.uk](https://www.dailymail.co.uk)
- - date published: 2023-10-25T10:35:12.125790+00:00
- - user: None
- - tags: []
-
-## Web Developer + Indie Maker | Dave Stewart
- - [https://davestewart.co.uk](https://davestewart.co.uk)
- - date published: 2023-10-25T22:51:41.535395+00:00
- - user: None
- - tags: []
-
-## David Tyler's Blog - Technical writing mostly focused on emulating old systems.
- - [https://blog.davetcode.co.uk](https://blog.davetcode.co.uk)
- - date published: 2023-10-25T09:24:56.811268+00:00
- - user: None
- - tags: ['personal']
-
-## David Edmundson's Web Log – Just another WordPress site
- - [https://blog.davidedmundson.co.uk](https://blog.davidedmundson.co.uk)
- - date published: 2023-10-25T09:01:01.611247+00:00
- - user: None
- - tags: ['personal']
-
-## DOS Days
- - [https://www.dosdays.co.uk](https://www.dosdays.co.uk)
- - date published: 2023-10-25T22:51:43.492116+00:00
- - user: None
- - tags: []
-
-## Bringing you games from across the internet into one place
- - [https://www.dragonbonegames.co.uk](https://www.dragonbonegames.co.uk)
- - date published: 2023-11-01T19:20:01.063717+00:00
- - user: None
- - tags: ['tabletop games', 'wargames']
-
-## Edinburgh Live: Edinburgh News, Sport & What's On
- - [https://www.edinburghlive.co.uk](https://www.edinburghlive.co.uk)
- - date published: 2023-10-25T22:52:02.414204+00:00
- - user: None
- - tags: []
-
-## Finance Jobs, Banking and Tech Jobs - UK - eFinancialCareers
- - [https://www.efinancialcareers.co.uk](https://www.efinancialcareers.co.uk)
- - date published: 2023-10-25T22:52:08.693906+00:00
- - user: None
- - tags: []
-
-## YorkshireLive - Yorkshire News, Sport, Events & more
- - [https://www.examinerlive.co.uk](https://www.examinerlive.co.uk)
- - date published: 2023-10-25T22:52:15.713823+00:00
- - user: None
- - tags: []
-
-## Latest UK and World News, Sport and Comment | Express.co.uk
- - [https://www.express.co.uk](https://www.express.co.uk)
- - date published: 2023-10-25T22:52:29.771366+00:00
- - user: None
- - tags: []
-
-## Fleet Management | Company Car Tax | Best Car Reviews | Fleet News | Fuel costs |
- - [https://www.fleetnews.co.uk](https://www.fleetnews.co.uk)
- - date published: 2023-10-25T22:52:32.642993+00:00
- - user: None
- - tags: []
-
-## A:// FLOPPYSWOP / MADE FOR 56K / ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
- - [https://www.floppyswop.co.uk](https://www.floppyswop.co.uk)
- - date published: 2023-11-15T17:54:32.775435+00:00
- - user: None
- - tags: ['retro', 'hobby', 'floppy disk']
-
-## Forgeworld Games Workshop
- - [https://www.forgeworld.co.uk](https://www.forgeworld.co.uk)
- - date published: 2023-10-25T11:13:13+00:00
- - user: rumpel
- - tags: ['lord of the rings', 'warhammer', 'tabletop games']
-
-## Frenchleeds
- - [https://www.frenchleeds.co.uk](https://www.frenchleeds.co.uk)
- - date published: 2023-10-25T22:52:34.164510+00:00
- - user: None
- - tags: []
-
-## glitterkitten
- - [https://glitterkitten.co.uk](https://glitterkitten.co.uk)
- - date published: 2023-10-24T20:14:46.254443+00:00
- - user: None
- - tags: ['mastodon']
-
-## Goblin Gaming: UK's Top Wargaming Retailer & Online Store
- - [https://www.goblingaming.co.uk](https://www.goblingaming.co.uk)
- - date published: 2023-10-25T11:13:18.531364+00:00
- - user: None
- - tags: []
-
-## British GQ - Men’s Style & Fashion, Grooming, Culture, Watches and Fitness | British GQ
- - [https://www.gq-magazine.co.uk](https://www.gq-magazine.co.uk)
- - date published: 2023-10-25T22:52:37.221990+00:00
- - user: None
- - tags: []
-
-## Greem.
- - [https://greem.co.uk](https://greem.co.uk)
- - date published: 2023-10-25T22:52:37.843173+00:00
- - user: None
- - tags: []
-
-## Grocery Gazette - Latest News From The UK Grocery Sector
- - [https://www.grocerygazette.co.uk](https://www.grocerygazette.co.uk)
- - date published: 2023-10-25T22:52:41.470482+00:00
- - user: None
- - tags: []
-
-## Northumberland News, Sport and Events - Hexham Courant
- - [https://www.hexham-courant.co.uk](https://www.hexham-courant.co.uk)
- - date published: 2023-10-25T22:52:44.325690+00:00
- - user: None
- - tags: []
-
-## HR News
- - [https://hrnews.co.uk](https://hrnews.co.uk)
- - date published: 2023-11-04T01:30:42.463197+00:00
- - user: None
- - tags: []
-
-## HuffPost UK: UK News and Opinion
- - [https://www.huffingtonpost.co.uk](https://www.huffingtonpost.co.uk)
- - date published: 2023-10-25T22:52:47.816081+00:00
- - user: None
- - tags: []
-
-## HybridLogic
- - [https://www.hybridlogic.co.uk](https://www.hybridlogic.co.uk)
- - date published: 2023-10-25T22:52:49.078730+00:00
- - user: None
- - tags: []
-
-## ianVisits - News and what's on in London
- - [https://www.ianvisits.co.uk](https://www.ianvisits.co.uk)
- - date published: 2023-10-25T22:52:51.366627+00:00
- - user: None
- - tags: []
-
-## Impact Solutions - Test Laboratory and Innovation Centre
- - [https://www.impact-solutions.co.uk](https://www.impact-solutions.co.uk)
- - date published: 2023-10-25T22:52:55.348541+00:00
- - user: None
- - tags: []
-
-## James Stanley
- - [https://incoherency.co.uk](https://incoherency.co.uk)
- - date published: 2023-10-25T08:56:27.571963+00:00
- - user: None
- - tags: ['personal']
-
-## News | The Independent | Today's headlines and latest breaking news
- - [https://www.independent.co.uk](https://www.independent.co.uk)
- - date published: 2023-10-25T22:53:02.037042+00:00
- - user: None
- - tags: []
-
-## inews.co.uk - For Open Minds
- - [https://inews.co.uk](https://inews.co.uk)
- - date published: 2023-10-25T22:53:07.653612+00:00
- - user: None
- - tags: []
-
-## Jamie Magee
- - [https://jamiemagee.co.uk](https://jamiemagee.co.uk)
- - date published: 2023-10-25T09:01:03.349828+00:00
- - user: None
- - tags: ['personal']
-
-## JOE.co.uk - Home
- - [https://www.joe.co.uk](https://www.joe.co.uk)
- - date published: 2023-10-31T08:58:17.543974+00:00
- - user: None
- - tags: ['news']
-
-## Kaspersky Cyber Security Solutions for Home and Business | Kaspersky
- - [https://www.kaspersky.co.uk](https://www.kaspersky.co.uk)
- - date published: 2023-10-25T22:53:11.734588+00:00
- - user: None
- - tags: []
-
-## Kevin Mahoney
- - [https://kevinmahoney.co.uk](https://kevinmahoney.co.uk)
- - date published: 2023-10-25T09:24:57.635446+00:00
- - user: None
- - tags: ['personal']
-
-## Kian Ryan
- - [https://www.kianryan.co.uk](https://www.kianryan.co.uk)
- - date published: 2023-10-25T08:56:33.408681+00:00
- - user: None
- - tags: ['personal']
 

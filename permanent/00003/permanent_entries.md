@@ -1,3 +1,75 @@
+## Wiki of Westeros | Fandom
+ - [https://gameofthrones.fandom.com](https://gameofthrones.fandom.com)
+ - date published: 2023-10-25T14:35:43.477863+00:00
+ - user: None
+ - tags: ['game of thrones']
+
+## Googology Wiki | Fandom
+ - [https://googology.fandom.com](https://googology.fandom.com)
+ - date published: 2023-10-25T14:26:47.388756+00:00
+ - user: None
+ - tags: []
+
+## Harry Potter Wiki | Fandom
+ - [https://harrypotter.fandom.com](https://harrypotter.fandom.com)
+ - date published: 2023-10-25T14:07:38.718523+00:00
+ - user: None
+ - tags: []
+
+## Leaguepedia | League of Legends Esports Wiki
+ - [https://lol.fandom.com](https://lol.fandom.com)
+ - date published: 2023-11-02T10:40:56.776995+00:00
+ - user: None
+ - tags: []
+
+## The One Wiki to Rule Them All | Fandom
+ - [https://lotr.fandom.com](https://lotr.fandom.com)
+ - date published: 2023-10-25T13:57:36.866345+00:00
+ - user: None
+ - tags: []
+
+## Matrix Wiki | Fandom
+ - [https://matrix.fandom.com](https://matrix.fandom.com)
+ - date published: 2023-10-25T16:24:03.225793+00:00
+ - user: None
+ - tags: []
+
+## Memory Alpha | Fandom
+ - [https://memory-alpha.fandom.com](https://memory-alpha.fandom.com)
+ - date published: 2023-10-25T14:10:44.249416+00:00
+ - user: None
+ - tags: []
+
+## Metal Slug Wiki | Fandom
+ - [https://metalslug.fandom.com](https://metalslug.fandom.com)
+ - date published: 2023-10-26T18:48:33.092663+00:00
+ - user: None
+ - tags: []
+
+## Moviepedia | Fandom
+ - [https://movies.fandom.com](https://movies.fandom.com)
+ - date published: 2023-10-25T13:55:33.729867+00:00
+ - user: None
+ - tags: []
+
+## MUGEN Database
+ - [https://mugen.fandom.com](https://mugen.fandom.com)
+ - date published: 2023-10-29T09:56:44.096403+00:00
+ - user: None
+ - tags: []
+
+## The Chronicles of Narnia Wiki | Fandom
+ - [https://narnia.fandom.com](https://narnia.fandom.com)
+ - date published: 2023-10-25T14:12:08.315133+00:00
+ - user: None
+ - tags: []
+
+## Necromunda Wiki
+ - [https://necromunda.fandom.com](https://necromunda.fandom.com)
+ - date published: 2023-10-27T12:13:34.592922+00:00
+ - user: None
+ - tags: ['games workshop', 'necromunda', 'tabletop games']
+
 ## Nirvana Wiki | Fandom
  - [https://nirvana.fandom.com](https://nirvana.fandom.com)
  - date published: 2023-10-25T14:20:08.070193+00:00
@@ -3422,6 +3494,12 @@
  - user: None
  - tags: ['wtf']
 
+## Hacker Warehouse - Your one stop computer security shop.
+ - [https://hackerwarehouse.com](https://hackerwarehouse.com)
+ - date published: 2023-11-22T17:22:12+00:00
+ - user: rumpel
+ - tags: ['electronics', 'shop']
+
 ## Hacking, but Legal | Jackie Singh | Substack
  - [https://www.hackingbutlegal.com](https://www.hackingbutlegal.com)
  - date published: 2023-10-25T14:55:00.627683+00:00
@@ -4004,11 +4082,17 @@
  - user: None
  - tags: []
 
+## Technology News: Latest tech news on New Mobile Phones, Laptops, Gadgets
+ - [https://tech.hindustantimes.com](https://tech.hindustantimes.com)
+ - date published: 2023-11-22T06:57:51+00:00
+ - user: rumpel
+ - tags: ['tech news']
+
 ## News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times
  - [https://www.hindustantimes.com](https://www.hindustantimes.com)
  - date published: 2023-10-25T10:44:25.190390+00:00
  - user: None
- - tags: []
+ - tags: ['tech news', 'india news']
 
 ## Hired - Job Search Marketplace. Tech Job Hunting Simplified!
  - [https://hired.com](https://hired.com)
@@ -4772,6 +4856,12 @@
  - user: None
  - tags: []
 
+## I’d Rather Be Writing blog
+ - [https://idratherbewriting.com](https://idratherbewriting.com)
+ - date published: 2023-11-22T19:43:41.480996+00:00
+ - user: None
+ - tags: []
+
 ## id Software
  - [https://www.idsoftware.com](https://www.idsoftware.com)
  - date published: 2023-10-25T13:39:21.331862+00:00
@@ -5366,6 +5456,12 @@
  - user: None
  - tags: []
 
+## In These Times
+ - [https://inthesetimes.com](https://inthesetimes.com)
+ - date published: 2023-11-22T17:18:56.607913+00:00
+ - user: None
+ - tags: []
+
 ## Into Far Lands | Explore and Experience through Stories
  - [https://www.intofarlands.com](https://www.intofarlands.com)
  - date published: 2023-10-25T15:22:27.653615+00:00
@@ -5899,100 +5995,4 @@
  - date published: 2023-11-13T10:36:27.517504+00:00
  - user: None
  - tags: ['music band']
-
-## Jane Friedman | Reporting on the Publishing Industry
- - [https://janefriedman.com](https://janefriedman.com)
- - date published: 2023-10-25T15:26:46.348517+00:00
- - user: None
- - tags: []
-
-## Janell Sihay
- - [https://janellsihay.com](https://janellsihay.com)
- - date published: 2023-10-25T09:20:42.428341+00:00
- - user: None
- - tags: ['personal']
-
-## Jane Street Tech Blog
- - [https://blog.janestreet.com](https://blog.janestreet.com)
- - date published: 2023-10-25T09:20:44.071103+00:00
- - user: None
- - tags: ['personal']
-
-## Home :: Jane Street
- - [https://www.janestreet.com](https://www.janestreet.com)
- - date published: 2023-10-25T15:26:48.642287+00:00
- - user: None
- - tags: []
-
-## jan's stuff
- - [https://www.janromme.com](https://www.janromme.com)
- - date published: 2023-10-25T09:20:48.395468+00:00
- - user: None
- - tags: ['personal']
-
-## Business and Self-Development Concepts - Build Your Base For Success
- - [https://janwillemverstraten.com](https://janwillemverstraten.com)
- - date published: 2023-11-16T21:08:15.834187+00:00
- - user: None
- - tags: ['blog', 'personal']
-
-## Learn Japanese Online. Get started for free with the swiftest and most efficient system ever devised.
- - [https://japanesecomplete.com](https://japanesecomplete.com)
- - date published: 2023-10-25T15:26:50.459751+00:00
- - user: None
- - tags: []
-
-## Japan Today
- - [https://japantoday.com](https://japantoday.com)
- - date published: 2023-10-25T10:41:08.020128+00:00
- - user: None
- - tags: []
-
-## Jared Forsyth.com | Jared Forsyth.com
- - [https://jaredforsyth.com](https://jaredforsyth.com)
- - date published: 2023-10-25T15:26:52.976715+00:00
- - user: None
- - tags: []
-
-## Jared Ramsey
- - [https://jaredramsey.com](https://jaredramsey.com)
- - date published: 2023-10-25T09:20:49.239478+00:00
- - user: None
- - tags: ['personal']
-
-## Derek Jarvis' Blog
- - [https://jarvispowered.com](https://jarvispowered.com)
- - date published: 2023-10-25T09:20:50.084354+00:00
- - user: None
- - tags: ['personal']
-
-## Almost looks like work
- - [https://jasmcole.com](https://jasmcole.com)
- - date published: 2023-10-25T15:26:56.478165+00:00
- - user: None
- - tags: []
-
-## JASON COLAVITO - Home
- - [https://www.jasoncolavito.com](https://www.jasoncolavito.com)
- - date published: 2023-10-25T15:27:13.210438+00:00
- - user: None
- - tags: []
-
-## Jason Davies - Freelance Data Visualisation
- - [https://www.jasondavies.com](https://www.jasondavies.com)
- - date published: 2023-10-25T08:31:16.657113+00:00
- - user: None
- - tags: []
-
-## Simply Confusing
- - [https://jasonfantl.com](https://jasonfantl.com)
- - date published: 2023-10-25T15:27:14.283439+00:00
- - user: None
- - tags: []
-
-## Jason Shen | Cultivating Resilience
- - [https://www.jasonshen.com](https://www.jasonshen.com)
- - date published: 2023-10-25T08:46:15.822607+00:00
- - user: None
- - tags: ['personal']
 

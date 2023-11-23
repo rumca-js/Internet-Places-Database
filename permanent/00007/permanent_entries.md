@@ -1,3 +1,159 @@
+## A Particular Weird | Lyle Enright | Substack
+ - [https://lenright.substack.com](https://lenright.substack.com)
+ - date published: 2023-10-25T09:57:15.186001+00:00
+ - user: None
+ - tags: ['substack']
+
+## ICYMI by Lia Haberman | Substack
+ - [https://liahaberman.substack.com](https://liahaberman.substack.com)
+ - date published: 2023-10-25T09:57:18.422857+00:00
+ - user: None
+ - tags: ['substack']
+
+## I Have No Idea What I'm Doing | Lior Neu-ner | Substack
+ - [http://liorn.substack.com](http://liorn.substack.com)
+ - date published: 2023-10-25T09:57:21.160891+00:00
+ - user: None
+ - tags: ['substack']
+
+## Tech, investment and a little bit of everything.  | John | Substack
+ - [http://littlebitofeverything.substack.com](http://littlebitofeverything.substack.com)
+ - date published: 2023-10-25T09:57:23.667655+00:00
+ - user: None
+ - tags: ['substack']
+
+## Paola Writes | Paola Bonomo | Substack
+ - [http://livepaola.substack.com](http://livepaola.substack.com)
+ - date published: 2023-10-25T09:57:26.552752+00:00
+ - user: None
+ - tags: ['substack']
+
+## Loeber on Substack | John Loeber | Substack
+ - [https://loeber.substack.com](https://loeber.substack.com)
+ - date published: 2023-10-25T09:57:29.028429+00:00
+ - user: None
+ - tags: ['substack']
+
+## Louison’s newsletter | Louison Dumont | Substack
+ - [https://louison.substack.com](https://louison.substack.com)
+ - date published: 2023-10-25T09:57:31.845037+00:00
+ - user: None
+ - tags: ['substack']
+
+## Lucas’s Substack | Lucas Erb | Substack
+ - [https://lucaserb.substack.com](https://lucaserb.substack.com)
+ - date published: 2023-10-25T09:57:39.289039+00:00
+ - user: None
+ - tags: ['substack']
+
+## Low Latency Trading Insights | Henrique Bucher, MSc, PhD | Substack
+ - [https://lucisqr.substack.com](https://lucisqr.substack.com)
+ - date published: 2023-11-22T13:45:41.529235+00:00
+ - user: None
+ - tags: []
+
+## Luis | Luis Thiam-Nye | Substack
+ - [http://luisthiamnye.substack.com](http://luisthiamnye.substack.com)
+ - date published: 2023-10-25T09:57:41.435951+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Lunduke Journal of Technology | Bryan Lunduke | Substack
+ - [https://lunduke.substack.com](https://lunduke.substack.com)
+ - date published: 2023-10-25T09:57:45.004420+00:00
+ - user: None
+ - tags: ['substack']
+
+## Mad at the Internet | Joshua Moon | Substack
+ - [https://madattheinternet.substack.com](https://madattheinternet.substack.com)
+ - date published: 2023-10-25T09:57:47.051520+00:00
+ - user: None
+ - tags: ['substack']
+
+## Grandmotherly Wisdom | Made in Cosmos ✨ | Substack
+ - [http://madeincosmos.substack.com](http://madeincosmos.substack.com)
+ - date published: 2023-10-25T09:57:51.157296+00:00
+ - user: None
+ - tags: ['substack']
+
+## Maestro's Musings | Justin Cranshaw | Substack
+ - [https://maestroai.substack.com](https://maestroai.substack.com)
+ - date published: 2023-10-25T09:57:55.016069+00:00
+ - user: None
+ - tags: ['substack']
+
+## Maneesh’s Substack | Maneesh Agrawala | Substack
+ - [https://magrawala.substack.com](https://magrawala.substack.com)
+ - date published: 2023-10-25T09:57:57.039994+00:00
+ - user: None
+ - tags: ['substack']
+
+## Many One Percents | Tuấn Mon | Substack
+ - [https://manyonepercents.substack.com](https://manyonepercents.substack.com)
+ - date published: 2023-10-25T09:58:00.066649+00:00
+ - user: None
+ - tags: ['substack']
+
+## Marcio Klepacz | Substack
+ - [https://marciok.substack.com](https://marciok.substack.com)
+ - date published: 2023-10-25T09:58:02.149600+00:00
+ - user: None
+ - tags: ['substack']
+
+## Teniade Topics | Marion Teniade | Substack
+ - [https://marionteniade.substack.com](https://marionteniade.substack.com)
+ - date published: 2023-10-25T09:58:10.422380+00:00
+ - user: None
+ - tags: ['substack']
+
+## Mimir's Well | Mark McNeilly | Substack
+ - [https://markmcneilly.substack.com](https://markmcneilly.substack.com)
+ - date published: 2023-10-25T09:58:13.271057+00:00
+ - user: None
+ - tags: ['substack']
+
+## Martin’s Newsletter | Martin Shkreli | Substack
+ - [https://martinshkreli.substack.com](https://martinshkreli.substack.com)
+ - date published: 2023-10-25T09:58:16.042885+00:00
+ - user: None
+ - tags: ['substack']
+
+## !important | Matt Frisbie | Substack
+ - [https://mattfrisbie.substack.com](https://mattfrisbie.substack.com)
+ - date published: 2023-10-25T09:58:18.461443+00:00
+ - user: None
+ - tags: ['substack']
+
+## Matthew’s Substack | Matthew Grohman | Substack
+ - [https://matthewgrohman.substack.com](https://matthewgrohman.substack.com)
+ - date published: 2023-10-25T09:58:21.025332+00:00
+ - user: None
+ - tags: ['substack']
+
+## Matthew’s Writing | Matthew Tejo | Substack
+ - [http://matthewtejo.substack.com](http://matthewtejo.substack.com)
+ - date published: 2023-10-25T09:58:23.262759+00:00
+ - user: None
+ - tags: ['substack']
+
+## BIG by Matt Stoller | Substack
+ - [https://mattstoller.substack.com](https://mattstoller.substack.com)
+ - date published: 2023-10-25T09:58:31.080586+00:00
+ - user: None
+ - tags: ['substack']
+
+## Maximum Effort, Minimum Reward | Dylan Black | Substack
+ - [http://maximumeffort.substack.com](http://maximumeffort.substack.com)
+ - date published: 2023-10-25T09:58:34.023752+00:00
+ - user: None
+ - tags: ['substack']
+
+## Read Max | Max Read | Substack
+ - [http://maxread.substack.com](http://maxread.substack.com)
+ - date published: 2023-10-25T09:58:37.229697+00:00
+ - user: None
+ - tags: ['substack']
+
 ## Mindful Ruminations | Michael Oliver | Substack
  - [https://mcoliver.substack.com](https://mcoliver.substack.com)
  - date published: 2023-10-25T09:58:39.266748+00:00
@@ -783,6 +939,12 @@
  - date published: 2023-10-25T10:06:20.791472+00:00
  - user: None
  - tags: ['substack']
+
+## Don't Worry About the Vase | Substack
+ - [https://thezvi.substack.com](https://thezvi.substack.com)
+ - date published: 2023-11-22T18:18:35.241169+00:00
+ - user: None
+ - tags: []
 
 ## Unpacked | Viggy Balagopalakrishnan | Substack
  - [http://thisisunpacked.substack.com](http://thisisunpacked.substack.com)
@@ -2122,6 +2284,12 @@
  - user: None
  - tags: []
 
+## Daily Express US - Latest US News, Sport & Entertainment - Daily Express US
+ - [https://www.the-express.com](https://www.the-express.com)
+ - date published: 2023-11-22T00:14:57.932072+00:00
+ - user: None
+ - tags: []
+
 ## The Fence – The UK’s Only Magazine - The Fence Magazine
  - [https://www.the-fence.com](https://www.the-fence.com)
  - date published: 2023-10-25T17:27:58.391729+00:00
@@ -3119,6 +3287,12 @@
  - user: None
  - tags: []
 
+## The Real News Network
+ - [https://therealnews.com](https://therealnews.com)
+ - date published: 2023-11-22T19:18:37.296498+00:00
+ - user: None
+ - tags: []
+
 ## The Red Hand Files - You can ask me anything. There will be no moderator. This will be between you and me. Let's see what happens. Much love, Nick : The Red Hand Files
  - [https://www.theredhandfiles.com](https://www.theredhandfiles.com)
  - date published: 2023-10-25T17:38:41.558338+00:00
@@ -3957,6 +4131,12 @@
 ## Red Deer News & Red Deer Events - Todayville.com
  - [https://www.todayville.com](https://www.todayville.com)
  - date published: 2023-10-25T17:43:42.189847+00:00
+ - user: None
+ - tags: []
+
+## Todepond dot com
+ - [https://www.todepond.com](https://www.todepond.com)
+ - date published: 2023-11-22T13:45:46.497388+00:00
  - user: None
  - tags: []
 
@@ -5679,6 +5859,12 @@
  - user: None
  - tags: []
 
+## VIBE.com
+ - [https://www.vibe.com](https://www.vibe.com)
+ - date published: 2023-11-22T23:43:52.120847+00:00
+ - user: None
+ - tags: []
+
 ## viborc.com • Data-driven stories for bright minds
  - [https://viborc.com](https://viborc.com)
  - date published: 2023-10-25T17:56:14.934252+00:00
@@ -5808,193 +5994,6 @@
 ## Drinking Is Culture - Learn About Wine, Beer & Spirits | VinePair
  - [https://vinepair.com](https://vinepair.com)
  - date published: 2023-10-25T17:56:46.657755+00:00
- - user: None
- - tags: []
-
-## Home - VINnews
- - [https://vinnews.com](https://vinnews.com)
- - date published: 2023-11-01T20:48:03.267478+00:00
- - user: None
- - tags: []
-
-## Vinography : A Wine Blog
- - [https://www.vinography.com](https://www.vinography.com)
- - date published: 2023-10-25T17:56:49.222659+00:00
- - user: None
- - tags: []
-
-## 2023 Vintage is The New Old Writer’s Contest Winners Announced - Vintage is The New Old
- - [https://www.vintageisthenewold.com](https://www.vintageisthenewold.com)
- - date published: 2023-10-27T14:44:52.922545+00:00
- - user: None
- - tags: ['amiga', 'retro games']
-
-## vinylrecorder, vinyl recorder, dubplate, phono, analog, single,
-    maxi, record, recording, directmastering, pressing, pressung, schallplatten
- - [https://www.vinylrecorder.com](https://www.vinylrecorder.com)
- - date published: 2023-10-25T17:56:49.670180+00:00
- - user: None
- - tags: []
-
-## About Vipul Shekhawat
- - [https://www.vipshek.com](https://www.vipshek.com)
- - date published: 2023-10-25T17:56:50.234660+00:00
- - user: None
- - tags: []
-
-## viralinstruction
- - [https://viralinstruction.com](https://viralinstruction.com)
- - date published: 2023-10-25T17:56:50.835332+00:00
- - user: None
- - tags: []
-
-## https://www.virginiamercury.com
- - [https://www.virginiamercury.com](https://www.virginiamercury.com)
- - date published: 2023-11-04T03:07:08.777366+00:00
- - user: None
- - tags: []
-
-## Virtualization Howto - Virtualization Networking Cloud Enterprise
- - [https://www.virtualizationhowto.com](https://www.virtualizationhowto.com)
- - date published: 2023-10-25T17:56:54.921265+00:00
- - user: None
- - tags: []
-
-## Virtually Fun | Fun with Virtualization
- - [https://virtuallyfun.com](https://virtuallyfun.com)
- - date published: 2023-10-25T17:57:25.943395+00:00
- - user: None
- - tags: []
-
-## Virtual Uncle - VR, XR, AR Curated News & Releases
- - [https://virtualuncle.com](https://virtualuncle.com)
- - date published: 2023-10-25T17:57:29.714238+00:00
- - user: None
- - tags: []
-
-## Vishnu Menon
- - [https://vishnumenon.com](https://vishnumenon.com)
- - date published: 2023-10-25T08:48:21.110375+00:00
- - user: None
- - tags: ['personal']
-
-## The Visionary CTO | Matt Watson | Substack
- - [https://blog.visionarycto.com](https://blog.visionarycto.com)
- - date published: 2023-10-25T17:57:32.350119+00:00
- - user: None
- - tags: []
-
-## Sweden – a destination <br>of a different nature
- - [https://visitsweden.com](https://visitsweden.com)
- - date published: 2023-10-29T13:00:54.024158+00:00
- - user: None
- - tags: []
-
-## Visual Fonts – Type Good Pictures
- - [https://visual-fonts.com](https://visual-fonts.com)
- - date published: 2023-10-25T17:57:36.728693+00:00
- - user: None
- - tags: []
-
-## Visual Capitalist
- - [https://www.visualcapitalist.com](https://www.visualcapitalist.com)
- - date published: 2023-10-25T10:39:33.539082+00:00
- - user: None
- - tags: []
-
-## VisualPDE | Interactive live solutions of PDE systems, right on your device
- - [https://visualpde.com](https://visualpde.com)
- - date published: 2023-10-25T17:57:37.518948+00:00
- - user: None
- - tags: []
-
-## Visual Studio Code - Code Editing. Redefined
- - [https://code.visualstudio.com](https://code.visualstudio.com)
- - date published: 2023-10-25T17:57:39.109407+00:00
- - user: None
- - tags: []
-
-## Developer Community
- - [https://developercommunity.visualstudio.com](https://developercommunity.visualstudio.com)
- - date published: 2023-10-25T17:57:41.357962+00:00
- - user: None
- - tags: []
-
-## Visual Studio Magazine Home -- Visual Studio Magazine
- - [https://visualstudiomagazine.com](https://visualstudiomagazine.com)
- - date published: 2023-10-25T17:57:48.493438+00:00
- - user: None
- - tags: []
-
-## vite-plugin-ssr
- - [https://vite-plugin-ssr.com](https://vite-plugin-ssr.com)
- - date published: 2023-10-25T17:57:51.712020+00:00
- - user: None
- - tags: []
-
-## Vivaldi Browser | Powerful, Personal and Private web browser
- - [https://vivaldi.com](https://vivaldi.com)
- - date published: 2023-10-25T08:40:37.885818+00:00
- - user: None
- - tags: []
-
-## Vivek Haldar
- - [https://blog.vivekhaldar.com](https://blog.vivekhaldar.com)
- - date published: 2023-10-25T17:57:53.859667+00:00
- - user: None
- - tags: []
-
-## Vivid Maps - Maps that explain the World
- - [https://vividmaps.com](https://vividmaps.com)
- - date published: 2023-10-25T17:57:56.121309+00:00
- - user: None
- - tags: []
-
-## Vivian Qu
- - [https://vivqu.com](https://vivqu.com)
- - date published: 2023-10-25T17:57:56.937671+00:00
- - user: None
- - tags: []
-
-## VIZ: The Best in Manga, Anime & Global Entertainment
- - [https://www.viz.com](https://www.viz.com)
- - date published: 2023-10-31T15:37:59.527773+00:00
- - user: None
- - tags: []
-
-## Summer Afternoon
- - [https://summer-afternoon.vlucendo.com](https://summer-afternoon.vlucendo.com)
- - date published: 2023-10-25T17:57:57.354906+00:00
- - user: None
- - tags: []
-
-## VNV NATION - Alternative Electronic Music
- - [https://vnvnation.com](https://vnvnation.com)
- - date published: 2023-10-25T13:52:36.723319+00:00
- - user: None
- - tags: ['music band']
-
-## VOA - Voice of America English News
- - [https://www.voanews.com](https://www.voanews.com)
- - date published: 2023-10-25T17:58:00.143976+00:00
- - user: None
- - tags: []
-
-## VOCALOID ( ボーカロイド・ボカロ ) 公式サイト
- - [https://www.vocaloid.com](https://www.vocaloid.com)
- - date published: 2023-10-25T17:58:04.057960+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.vodafone.com](https://www.vodafone.com)
- - date published: 2023-10-25T17:58:07.620214+00:00
- - user: None
- - tags: []
-
-## Vogue: Fashion, Beauty, Celebrity, Fashion Shows | Vogue
- - [https://www.vogue.com](https://www.vogue.com)
- - date published: 2023-10-25T17:58:10.904686+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,129 @@
+## Red Alert 2 | Online Gameplay
+ - [https://redalert2.com](https://redalert2.com)
+ - date published: 2023-11-17T21:46:56+00:00
+ - user: rumpel
+ - tags: ['command and conquer']
+
+## Red Blob Games
+ - [https://www.redblobgames.com](https://www.redblobgames.com)
+ - date published: 2023-10-25T16:47:32.544748+00:00
+ - user: None
+ - tags: []
+
+## Red Canary | Your Managed Detection and Response Ally
+ - [https://redcanary.com](https://redcanary.com)
+ - date published: 2023-10-25T16:47:36.881352+00:00
+ - user: None
+ - tags: []
+
+## reddit: the front page of the internet
+ - [https://old.reddit.com](https://old.reddit.com)
+ - date published: 2023-10-24T20:16:40.762854+00:00
+ - user: None
+ - tags: []
+
+## reddit
+ - [https://reddit.com](https://reddit.com)
+ - date published: 2023-10-24T20:12:40.083441+00:00
+ - user: None
+ - tags: ['social platform', 'gatekeeper']
+
+## reddit
+ - [https://www.reddit.com](https://www.reddit.com)
+ - date published: 2023-10-24T20:16:46.235665+00:00
+ - user: None
+ - tags: []
+
+## reddit-stream - a better way to view live reddit threads
+ - [https://www.reddit-stream.com](https://www.reddit-stream.com)
+ - date published: 2023-11-01T21:08:19.834690+00:00
+ - user: None
+ - tags: []
+
+## https://a.thumbs.redditmedia.com
+ - [https://a.thumbs.redditmedia.com](https://a.thumbs.redditmedia.com)
+ - date published: 2023-10-30T13:20:51.470547+00:00
+ - user: None
+ - tags: []
+
+## https://b.thumbs.redditmedia.com
+ - [https://b.thumbs.redditmedia.com](https://b.thumbs.redditmedia.com)
+ - date published: 2023-10-31T06:38:02.668360+00:00
+ - user: None
+ - tags: []
+
+## Reddit Migration Directory: Subreddit Replacements
+ - [https://redditmigration.com](https://redditmigration.com)
+ - date published: 2023-10-25T16:47:42.228313+00:00
+ - user: None
+ - tags: []
+
+## reddit Status
+ - [https://www.redditstatus.com](https://www.redditstatus.com)
+ - date published: 2023-10-25T16:47:43.967220+00:00
+ - user: None
+ - tags: []
+
+## Redeem Tomorrow: Home
+ - [https://redeem-tomorrow.com](https://redeem-tomorrow.com)
+ - date published: 2023-10-25T16:47:46.525838+00:00
+ - user: None
+ - tags: []
+
+## Real Estate, Homes for Sale, MLS Listings, Agents | Redfin
+ - [https://www.redfin.com](https://www.redfin.com)
+ - date published: 2023-10-25T16:47:52.485654+00:00
+ - user: None
+ - tags: []
+
+## Red Hat Customer Portal - Access to 24x7 support and knowledge
+ - [https://access.redhat.com](https://access.redhat.com)
+ - date published: 2023-10-25T16:47:55.010667+00:00
+ - user: None
+ - tags: []
+
+## Red Hat Bugzilla Main Page
+ - [https://bugzilla.redhat.com](https://bugzilla.redhat.com)
+ - date published: 2023-10-25T16:47:56.632804+00:00
+ - user: None
+ - tags: []
+
+## Hybrid Cloud Developer Tutorials and Software from Red Hat | Red Hat Developer
+ - [https://developers.redhat.com](https://developers.redhat.com)
+ - date published: 2023-10-25T16:47:59.225749+00:00
+ - user: None
+ - tags: []
+
+## listman.redhat.com Mailing Lists
+ - [https://listman.redhat.com](https://listman.redhat.com)
+ - date published: 2023-10-25T16:48:12.888347+00:00
+ - user: None
+ - tags: []
+
+## Red Hat - We make open source technologies for the enterprise
+ - [https://www.redhat.com](https://www.redhat.com)
+ - date published: 2023-10-25T16:48:17.285585+00:00
+ - user: None
+ - tags: []
+
+## Red Hot Chili Peppers
+ - [https://redhotchilipeppers.com](https://redhotchilipeppers.com)
+ - date published: 2023-11-13T10:37:18.237065+00:00
+ - user: None
+ - tags: ['music band']
+
+## Rediff.com: News | Rediffmail | Stock Quotes | Shopping
+ - [https://www.rediff.com](https://www.rediff.com)
+ - date published: 2023-11-10T18:20:23.983505+00:00
+ - user: None
+ - tags: []
+
+## Redis | The Real-time Data Platform
+ - [https://redis.com](https://redis.com)
+ - date published: 2023-10-25T16:48:21.714868+00:00
+ - user: None
+ - tags: []
+
 ## http://oss.redislabs.com
  - [http://oss.redislabs.com](http://oss.redislabs.com)
  - date published: 2023-10-25T16:48:22.320633+00:00
@@ -1690,6 +1816,12 @@
  - user: None
  - tags: []
 
+## Scivus
+ - [https://scivus.com](https://scivus.com)
+ - date published: 2023-11-22T07:04:29.079121+00:00
+ - user: None
+ - tags: []
+
 ## Cybersecurity News, Awards, Webinars, eSummits, Research | SC Media
  - [https://www.scmagazine.com](https://www.scmagazine.com)
  - date published: 2023-10-25T16:59:21.821719+00:00
@@ -2247,6 +2379,12 @@
  - date published: 2023-10-25T17:03:13.290534+00:00
  - user: None
  - tags: []
+
+## Shannon E. Thomas
+ - [https://shannonethomas.com](https://shannonethomas.com)
+ - date published: 2023-11-22T18:43:41.476621+00:00
+ - user: None
+ - tags: ['personal']
 
 ## The Shape of Code
  - [https://shape-of-code.com](https://shape-of-code.com)
@@ -2883,7 +3021,7 @@
  - [https://www.smithsonianmag.com](https://www.smithsonianmag.com)
  - date published: 2023-10-25T10:38:59.050420+00:00
  - user: None
- - tags: []
+ - tags: ['science', 'people', 'places', 'travel', 'arts', 'history']
 
 ## iter.ca
  - [https://smitop.com](https://smitop.com)
@@ -3350,6 +3488,12 @@
 ## SpeedCurve | Website Performance Monitoring
  - [https://www.speedcurve.com](https://www.speedcurve.com)
  - date published: 2023-10-25T17:09:59.183470+00:00
+ - user: None
+ - tags: []
+
+## Articles
+ - [https://spencermortensen.com](https://spencermortensen.com)
+ - date published: 2023-11-22T15:19:29.713479+00:00
  - user: None
  - tags: []
 
@@ -4400,6 +4544,12 @@
 ## Stretch 15
  - [https://stretch15.com](https://stretch15.com)
  - date published: 2023-10-25T17:18:13.663808+00:00
+ - user: None
+ - tags: []
+
+## Stripe Press — Ideas for progress
+ - [https://press.stripe.com](https://press.stripe.com)
+ - date published: 2023-11-22T21:03:47.005626+00:00
  - user: None
  - tags: []
 
@@ -5846,156 +5996,6 @@
 ## lcamtuf’s thing | Substack
  - [https://lcamtuf.substack.com](https://lcamtuf.substack.com)
  - date published: 2023-10-25T09:57:09.013670+00:00
- - user: None
- - tags: ['substack']
-
-## Leigh Marie’s Newsletter | Leigh Marie Braswell | Substack
- - [https://leighmariebraswell.substack.com](https://leighmariebraswell.substack.com)
- - date published: 2023-10-25T09:57:12.216880+00:00
- - user: None
- - tags: ['substack']
-
-## A Particular Weird | Lyle Enright | Substack
- - [https://lenright.substack.com](https://lenright.substack.com)
- - date published: 2023-10-25T09:57:15.186001+00:00
- - user: None
- - tags: ['substack']
-
-## ICYMI by Lia Haberman | Substack
- - [https://liahaberman.substack.com](https://liahaberman.substack.com)
- - date published: 2023-10-25T09:57:18.422857+00:00
- - user: None
- - tags: ['substack']
-
-## I Have No Idea What I'm Doing | Lior Neu-ner | Substack
- - [http://liorn.substack.com](http://liorn.substack.com)
- - date published: 2023-10-25T09:57:21.160891+00:00
- - user: None
- - tags: ['substack']
-
-## Tech, investment and a little bit of everything.  | John | Substack
- - [http://littlebitofeverything.substack.com](http://littlebitofeverything.substack.com)
- - date published: 2023-10-25T09:57:23.667655+00:00
- - user: None
- - tags: ['substack']
-
-## Paola Writes | Paola Bonomo | Substack
- - [http://livepaola.substack.com](http://livepaola.substack.com)
- - date published: 2023-10-25T09:57:26.552752+00:00
- - user: None
- - tags: ['substack']
-
-## Loeber on Substack | John Loeber | Substack
- - [https://loeber.substack.com](https://loeber.substack.com)
- - date published: 2023-10-25T09:57:29.028429+00:00
- - user: None
- - tags: ['substack']
-
-## Louison’s newsletter | Louison Dumont | Substack
- - [https://louison.substack.com](https://louison.substack.com)
- - date published: 2023-10-25T09:57:31.845037+00:00
- - user: None
- - tags: ['substack']
-
-## Lucas’s Substack | Lucas Erb | Substack
- - [https://lucaserb.substack.com](https://lucaserb.substack.com)
- - date published: 2023-10-25T09:57:39.289039+00:00
- - user: None
- - tags: ['substack']
-
-## Luis | Luis Thiam-Nye | Substack
- - [http://luisthiamnye.substack.com](http://luisthiamnye.substack.com)
- - date published: 2023-10-25T09:57:41.435951+00:00
- - user: None
- - tags: ['substack']
-
-## The Lunduke Journal of Technology | Bryan Lunduke | Substack
- - [https://lunduke.substack.com](https://lunduke.substack.com)
- - date published: 2023-10-25T09:57:45.004420+00:00
- - user: None
- - tags: ['substack']
-
-## Mad at the Internet | Joshua Moon | Substack
- - [https://madattheinternet.substack.com](https://madattheinternet.substack.com)
- - date published: 2023-10-25T09:57:47.051520+00:00
- - user: None
- - tags: ['substack']
-
-## Grandmotherly Wisdom | Made in Cosmos ✨ | Substack
- - [http://madeincosmos.substack.com](http://madeincosmos.substack.com)
- - date published: 2023-10-25T09:57:51.157296+00:00
- - user: None
- - tags: ['substack']
-
-## Maestro's Musings | Justin Cranshaw | Substack
- - [https://maestroai.substack.com](https://maestroai.substack.com)
- - date published: 2023-10-25T09:57:55.016069+00:00
- - user: None
- - tags: ['substack']
-
-## Maneesh’s Substack | Maneesh Agrawala | Substack
- - [https://magrawala.substack.com](https://magrawala.substack.com)
- - date published: 2023-10-25T09:57:57.039994+00:00
- - user: None
- - tags: ['substack']
-
-## Many One Percents | Tuấn Mon | Substack
- - [https://manyonepercents.substack.com](https://manyonepercents.substack.com)
- - date published: 2023-10-25T09:58:00.066649+00:00
- - user: None
- - tags: ['substack']
-
-## Marcio Klepacz | Substack
- - [https://marciok.substack.com](https://marciok.substack.com)
- - date published: 2023-10-25T09:58:02.149600+00:00
- - user: None
- - tags: ['substack']
-
-## Teniade Topics | Marion Teniade | Substack
- - [https://marionteniade.substack.com](https://marionteniade.substack.com)
- - date published: 2023-10-25T09:58:10.422380+00:00
- - user: None
- - tags: ['substack']
-
-## Mimir's Well | Mark McNeilly | Substack
- - [https://markmcneilly.substack.com](https://markmcneilly.substack.com)
- - date published: 2023-10-25T09:58:13.271057+00:00
- - user: None
- - tags: ['substack']
-
-## Martin’s Newsletter | Martin Shkreli | Substack
- - [https://martinshkreli.substack.com](https://martinshkreli.substack.com)
- - date published: 2023-10-25T09:58:16.042885+00:00
- - user: None
- - tags: ['substack']
-
-## !important | Matt Frisbie | Substack
- - [https://mattfrisbie.substack.com](https://mattfrisbie.substack.com)
- - date published: 2023-10-25T09:58:18.461443+00:00
- - user: None
- - tags: ['substack']
-
-## Matthew’s Substack | Matthew Grohman | Substack
- - [https://matthewgrohman.substack.com](https://matthewgrohman.substack.com)
- - date published: 2023-10-25T09:58:21.025332+00:00
- - user: None
- - tags: ['substack']
-
-## Matthew’s Writing | Matthew Tejo | Substack
- - [http://matthewtejo.substack.com](http://matthewtejo.substack.com)
- - date published: 2023-10-25T09:58:23.262759+00:00
- - user: None
- - tags: ['substack']
-
-## BIG by Matt Stoller | Substack
- - [https://mattstoller.substack.com](https://mattstoller.substack.com)
- - date published: 2023-10-25T09:58:31.080586+00:00
- - user: None
- - tags: ['substack']
-
-## Maximum Effort, Minimum Reward | Dylan Black | Substack
- - [http://maximumeffort.substack.com](http://maximumeffort.substack.com)
- - date published: 2023-10-25T09:58:34.023752+00:00
  - user: None
  - tags: ['substack']
 

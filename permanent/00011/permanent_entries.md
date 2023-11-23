@@ -1,3 +1,225 @@
+## Home :: Will Yager
+ - [https://yager.io](https://yager.io)
+ - date published: 2023-10-25T20:13:07.484512+00:00
+ - user: None
+ - tags: []
+
+## Zenoh - The Zero Overhead, Pub/Sub, Store, Query, and Compute Protocol.
+ - [https://zenoh.io](https://zenoh.io)
+ - date published: 2023-10-25T20:13:08.098477+00:00
+ - user: None
+ - tags: []
+
+## zeux.io - Home
+ - [https://zeux.io](https://zeux.io)
+ - date published: 2023-10-25T20:13:08.866670+00:00
+ - user: None
+ - tags: []
+
+## /dev/knill
+ - [https://zknill.io](https://zknill.io)
+ - date published: 2023-11-16T16:03:25.433854+00:00
+ - user: None
+ - tags: []
+
+## Home | Znote blog
+ - [https://blog.znote.io](https://blog.znote.io)
+ - date published: 2023-10-25T20:13:14.658258+00:00
+ - user: None
+ - tags: []
+
+## Home - zrok
+ - [https://zrok.io](https://zrok.io)
+ - date published: 2023-10-25T20:13:22.333219+00:00
+ - user: None
+ - tags: []
+
+## The Voyager: A powerful, low-profile, split ergonomic keyboard | zsa.io
+ - [https://www.zsa.io](https://www.zsa.io)
+ - date published: 2023-10-25T20:13:25.369797+00:00
+ - user: None
+ - tags: []
+
+## خانه
+ - [https://icdt.ir](https://icdt.ir)
+ - date published: 2023-10-27T12:05:21.857952+00:00
+ - user: None
+ - tags: []
+
+## Of Shaders & Triangles
+ - [https://blog.42yeah.is](https://blog.42yeah.is)
+ - date published: 2023-10-25T20:13:58.111694+00:00
+ - user: None
+ - tags: []
+
+## Caffeinspiration
+ - [https://alexanderell.is](https://alexanderell.is)
+ - date published: 2023-10-25T20:13:59.904634+00:00
+ - user: None
+ - tags: []
+
+## Arun Venkatesan
+ - [https://arun.is](https://arun.is)
+ - date published: 2023-10-25T20:14:01.882609+00:00
+ - user: None
+ - tags: []
+
+## Darcy - Social media done proper
+ - [https://darcy.is](https://darcy.is)
+ - date published: 2023-10-25T20:14:04.210843+00:00
+ - user: None
+ - tags: []
+
+## davidcel.is
+ - [https://davidcel.is](https://davidcel.is)
+ - date published: 2023-10-25T20:14:07.579909+00:00
+ - user: None
+ - tags: []
+
+## Dusty Jewett Is...
+ - [https://dusty.is](https://dusty.is)
+ - date published: 2023-10-25T08:49:47.947739+00:00
+ - user: None
+ - tags: ['personal']
+
+## Elias Daler
+ - [https://edw.is](https://edw.is)
+ - date published: 2023-10-25T20:14:11.018793+00:00
+ - user: None
+ - tags: []
+
+## Moderator Mayhem: A Content Moderation Game
+ - [https://moderatormayhem.engine.is](https://moderatormayhem.engine.is)
+ - date published: 2023-10-25T20:14:11.536786+00:00
+ - user: None
+ - tags: []
+
+## Ian Smith – Software Development, Electronics, and 3D Printing
+ - [https://www.iansmith.is](https://www.iansmith.is)
+ - date published: 2023-11-17T07:30:16.055744+00:00
+ - user: None
+ - tags: ['personal']
+
+## ipapi.is
+ - [https://ipapi.is](https://ipapi.is)
+ - date published: 2023-10-25T20:14:12.692518+00:00
+ - user: None
+ - tags: []
+
+## Ísland.is
+ - [https://island.is](https://island.is)
+ - date published: 2023-10-25T20:14:16.567535+00:00
+ - user: None
+ - tags: []
+
+## Jake Jarvis – Front-End Web Developer in Boston, MA
+ - [https://jarv.is](https://jarv.is)
+ - date published: 2023-10-25T20:14:22.428117+00:00
+ - user: None
+ - tags: []
+
+## | a.programming.blog
+ - [https://who.ldelossa.is](https://who.ldelossa.is)
+ - date published: 2023-10-25T20:14:23.039703+00:00
+ - user: None
+ - tags: []
+
+## Library Genesis
+ - [https://libgen.is](https://libgen.is)
+ - date published: 2023-10-25T20:14:24.181142+00:00
+ - user: None
+ - tags: []
+
+## Iceland Monitor - monitor.is
+ - [https://icelandmonitor.mbl.is](https://icelandmonitor.mbl.is)
+ - date published: 2023-11-14T14:17:41.442172+00:00
+ - user: None
+ - tags: []
+
+## Professor Steven J. Murdoch
+ - [https://murdoch.is](https://murdoch.is)
+ - date published: 2023-10-25T20:14:25.931346+00:00
+ - user: None
+ - tags: []
+
+## pratik.is/
+ - [https://pratik.is](https://pratik.is)
+ - date published: 2023-10-25T20:14:27.508195+00:00
+ - user: None
+ - tags: []
+
+## RÚV.is
+ - [https://www.ruv.is](https://www.ruv.is)
+ - date published: 2023-11-11T03:29:34.003690+00:00
+ - user: None
+ - tags: []
+
+## Your story estimation can be lightweight and efficient
+ - [https://smartguess.is](https://smartguess.is)
+ - date published: 2023-11-01T08:43:48.191532+00:00
+ - user: None
+ - tags: []
+
+## The (Site of) Davis
+ - [https://thedav.is](https://thedav.is)
+ - date published: 2023-10-25T20:14:33.148978+00:00
+ - user: None
+ - tags: []
+
+## Time.is - exact time, any time zone
+ - [https://time.is](https://time.is)
+ - date published: 2023-10-25T20:14:35.850640+00:00
+ - user: None
+ - tags: []
+
+## timing blog
+ - [https://blog.timing.is](https://blog.timing.is)
+ - date published: 2023-10-25T20:14:37.573106+00:00
+ - user: None
+ - tags: []
+
+## Open visual  development for the open web
+ - [https://webstudio.is](https://webstudio.is)
+ - date published: 2023-10-25T20:14:38.592018+00:00
+ - user: None
+ - tags: []
+
+## Amigapage - Sito italiano dedicato ad Amiga
+ - [https://www.amigapage.it](https://www.amigapage.it)
+ - date published: 2023-11-02T09:47:56.546618+00:00
+ - user: None
+ - tags: []
+
+## Agenzia ANSA: ultime notizie di cronaca, politica e sport - ANSA
+ - [https://www.ansa.it](https://www.ansa.it)
+ - date published: 2023-10-25T20:14:45.151180+00:00
+ - user: None
+ - tags: []
+
+## Aurelio De Rosa
+ - [https://www.audero.it](https://www.audero.it)
+ - date published: 2023-10-25T20:14:45.892675+00:00
+ - user: None
+ - tags: []
+
+## Wifi & Bed
+ - [https://bitslap.it](https://bitslap.it)
+ - date published: 2023-10-25T20:14:46.393122+00:00
+ - user: None
+ - tags: []
+
+## Davide Quaranta
+ - [https://davquar.it](https://davquar.it)
+ - date published: 2023-10-25T20:14:47.000469+00:00
+ - user: None
+ - tags: []
+
+## Trapped inside a tölva
+ - [https://edoput.it](https://edoput.it)
+ - date published: 2023-10-25T20:14:48.397571+00:00
+ - user: None
+ - tags: []
+
 ## Home - Eliseo Martelli
  - [https://www.eliseomartelli.it](https://www.eliseomartelli.it)
  - date published: 2023-10-25T08:49:49.023316+00:00
@@ -63,6 +285,12 @@
  - date published: 2023-10-25T20:15:13.230291+00:00
  - user: None
  - tags: []
+
+## nitter.it
+ - [https://nitter.it](https://nitter.it)
+ - date published: 2023-11-22T06:56:02+00:00
+ - user: rumpel
+ - tags: ['x', 'twitter']
 
 ## GTranslate - Error 402: Payment Required
  - [https://en.oppohub.it](https://en.oppohub.it)
@@ -1850,6 +2078,12 @@
 ## Show HN: Internet Speed Test
  - [https://www.internetspeed.my](https://www.internetspeed.my)
  - date published: 2023-11-03T02:20:07+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://thesun.my](https://thesun.my)
+ - date published: 2023-11-22T12:09:43.286815+00:00
  - user: None
  - tags: []
 
@@ -3730,7 +3964,7 @@
  - [https://librewolf.net](https://librewolf.net)
  - date published: 2023-10-25T20:32:49.628211+00:00
  - user: None
- - tags: []
+ - tags: ['firefox', 'privacy', 'open source']
 
 ## adq – Andrew de Quincey's miscellaneous tech projects
  - [http://blog.lidskialf.net](http://blog.lidskialf.net)
@@ -4495,6 +4729,12 @@
  - user: None
  - tags: ['php']
 
+## Pi-hole – Network-wide Ad Blocking
+ - [https://pi-hole.net](https://pi-hole.net)
+ - date published: 2023-11-22T06:47:14+00:00
+ - user: rumpel
+ - tags: ['ad block', 'pi-hole', 'pi hole', 'raspberry']
+
 ## Home · Pioneer
  - [https://pioneerspacesim.net](https://pioneerspacesim.net)
  - date published: 2023-10-25T20:35:46.801901+00:00
@@ -4572,6 +4812,12 @@
  - date published: 2023-10-25T20:36:15.745291+00:00
  - user: None
  - tags: []
+
+## nitter
+ - [https://nitter.privacydev.net](https://nitter.privacydev.net)
+ - date published: 2023-11-22T06:54:12+00:00
+ - user: rumpel
+ - tags: ['x', 'twitter']
 
 ## About - Project Euler
  - [https://projecteuler.net](https://projecteuler.net)
@@ -4720,6 +4966,12 @@
 ## Cloud Storage for Offsite Backup
  - [https://www.rsync.net](https://www.rsync.net)
  - date published: 2023-10-25T20:36:42.666671+00:00
+ - user: None
+ - tags: []
+
+## Russ Bishop
+ - [http://russbishop.net](http://russbishop.net)
+ - date published: 2023-11-22T17:18:45.860670+00:00
  - user: None
  - tags: []
 
@@ -5740,258 +5992,6 @@
 ## Pavel's blog about underlying Internet technologies
  - [https://pavel.network](https://pavel.network)
  - date published: 2023-10-25T20:41:58.656186+00:00
- - user: None
- - tags: []
-
-## Pretendo Network
- - [https://pretendo.network](https://pretendo.network)
- - date published: 2023-10-25T20:42:02.363661+00:00
- - user: None
- - tags: []
-
-## Cyberpunk Radio - Free 24/7 Live Streaming | Rekt FM
- - [https://rekt.network](https://rekt.network)
- - date published: 2023-10-25T20:42:05.141539+00:00
- - user: None
- - tags: ['radio', 'audio streaming']
-
-## 68k.news: Headlines From the Future
- - [http://68k.news](http://68k.news)
- - date published: 2023-10-25T20:42:09.495127+00:00
- - user: None
- - tags: []
-
-## AI PANIC  | Nirit Weiss-Blatt | Substack
- - [https://www.aipanic.news](https://www.aipanic.news)
- - date published: 2023-11-18T01:49:17.235532+00:00
- - user: None
- - tags: ['artificial intelligence', 'substack']
-
-## From the Desk of Alicia Kennedy | Substack
- - [https://www.aliciakennedy.news](https://www.aliciakennedy.news)
- - date published: 2023-10-25T20:42:12.893955+00:00
- - user: None
- - tags: []
-
-## Boulder Beat - Covering City Council and Sundry, with flair
- - [https://boulderbeat.news](https://boulderbeat.news)
- - date published: 2023-10-25T20:42:22.165490+00:00
- - user: None
- - tags: []
-
-## Brief
- - [https://www.brief.news](https://www.brief.news)
- - date published: 2023-11-03T16:52:58.968294+00:00
- - user: None
- - tags: []
-
-## CNE.news
- - [https://cne.news](https://cne.news)
- - date published: 2023-10-25T10:13:15.031338+00:00
- - user: None
- - tags: []
-
-## The Free Press
- - [https://www.commonsense.news](https://www.commonsense.news)
- - date published: 2023-10-25T20:42:27.993523+00:00
- - user: None
- - tags: []
-
-## Crypto News - Latest Cryptocurrency News
- - [https://crypto.news](https://crypto.news)
- - date published: 2023-10-25T10:53:40.383937+00:00
- - user: None
- - tags: []
-
-## Newsroom | DoorDash
- - [https://doordash.news](https://doordash.news)
- - date published: 2023-10-25T20:42:33.072348+00:00
- - user: None
- - tags: []
-
-## Global news, analysis and opinion on energy storage innovation and technologies - Energy-Storage.News
- - [https://www.energy-storage.news](https://www.energy-storage.news)
- - date published: 2023-10-25T20:42:39.410552+00:00
- - user: None
- - tags: []
-
-## https://www.forth.news
- - [https://www.forth.news](https://www.forth.news)
- - date published: 2023-10-25T20:42:40.486870+00:00
- - user: None
- - tags: []
-
-## Your Source for Trusted and Unbiased News - The Messenger
- - [https://www.grid.news](https://www.grid.news)
- - date published: 2023-10-25T20:42:43.995084+00:00
- - user: None
- - tags: []
-
-## Haskell Weekly
- - [https://haskellweekly.news](https://haskellweekly.news)
- - date published: 2023-10-25T20:42:45.054681+00:00
- - user: None
- - tags: []
-
-## Heatmap News
- - [https://heatmap.news](https://heatmap.news)
- - date published: 2023-10-25T10:54:47.126489+00:00
- - user: None
- - tags: []
-
-## 500 Server Error
- - [https://here.news](https://here.news)
- - date published: 2023-10-25T10:16:53.490443+00:00
- - user: None
- - tags: []
-
-## Johnnys.News
- - [https://johnnys.news](https://johnnys.news)
- - date published: 2023-10-25T20:42:45.586603+00:00
- - user: None
- - tags: []
-
-## Local News Today - Breaking News & Top Stories
- - [https://localtoday.news](https://localtoday.news)
- - date published: 2023-10-25T11:07:16.883371+00:00
- - user: None
- - tags: []
-
-## Not Yet News
- - [https://www.notyet.news](https://www.notyet.news)
- - date published: 2023-10-25T20:42:46.888810+00:00
- - user: None
- - tags: []
-
-## The Omg Lol Times · St. Jude Fundraiser Report
- - [https://omglol.news](https://omglol.news)
- - date published: 2023-10-25T20:42:48.905677+00:00
- - user: None
- - tags: []
-
-## Platformer | Casey Newton | Substack
- - [https://www.platformer.news](https://www.platformer.news)
- - date published: 2023-10-25T20:42:52.117652+00:00
- - user: None
- - tags: []
-
-## Positive News | Good journalism about good things - Positive News
- - [https://www.positive.news](https://www.positive.news)
- - date published: 2023-10-25T20:42:54.838847+00:00
- - user: None
- - tags: []
-
-## Post
- - [https://post.news](https://post.news)
- - date published: 2023-10-25T20:43:00.854072+00:00
- - user: None
- - tags: []
-
-## Racket News | Matt Taibbi | Substack
- - [https://www.racket.news](https://www.racket.news)
- - date published: 2023-10-25T20:43:04.969237+00:00
- - user: None
- - tags: []
-
-## Rekt - Home
- - [https://rekt.news](https://rekt.news)
- - date published: 2023-10-25T20:43:07.706883+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://rmx.news](https://rmx.news)
- - date published: 2023-10-25T10:39:52.865910+00:00
- - user: None
- - tags: []
-
-## Sci.News: Breaking Science News
- - [https://www.sci.news](https://www.sci.news)
- - date published: 2023-10-25T10:11:45.286879+00:00
- - user: None
- - tags: []
-
-## Home - Stonks News
- - [https://stonks.news](https://stonks.news)
- - date published: 2023-10-25T20:43:11.649456+00:00
- - user: None
- - tags: []
-
-## Summit News - News From The Summit
- - [https://summit.news](https://summit.news)
- - date published: 2023-10-25T10:39:55.843611+00:00
- - user: None
- - tags: []
-
-## Supervised | Matthew Lynley | Substack
- - [https://www.supervised.news](https://www.supervised.news)
- - date published: 2023-10-25T10:08:38.358107+00:00
- - user: None
- - tags: ['substack']
-
-## Technocracy News & Trends
- - [https://www.technocracy.news](https://www.technocracy.news)
- - date published: 2023-10-25T09:37:25.423842+00:00
- - user: None
- - tags: []
-
-## tilde news
- - [https://tilde.news](https://tilde.news)
- - date published: 2023-10-25T20:43:14.869847+00:00
- - user: None
- - tags: []
-
-## True North | Breaking Canadian News and Opinion
- - [https://tnc.news](https://tnc.news)
- - date published: 2023-10-25T20:43:19.101154+00:00
- - user: None
- - tags: []
-
-## Web Platform News
- - [https://webplatform.news](https://webplatform.news)
- - date published: 2023-10-25T20:43:23.872213+00:00
- - user: None
- - tags: []
-
-## WorkLife — Authority on how modern work is changing people’s lives
- - [https://www.worklife.news](https://www.worklife.news)
- - date published: 2023-10-25T20:43:26.647990+00:00
- - user: None
- - tags: []
-
-## The Works in Progress Newsletter | Substack
- - [https://www.worksinprogress.news](https://www.worksinprogress.news)
- - date published: 2023-10-25T20:43:29.879565+00:00
- - user: None
- - tags: []
-
-## Zig NEWS
- - [https://zig.news](https://zig.news)
- - date published: 2023-10-25T20:43:39.498351+00:00
- - user: None
- - tags: []
-
-## The Times Nigeria Newspaper | TheTimes.com.ng
- - [https://www.thetimes.com.ng](https://www.thetimes.com.ng)
- - date published: 2023-10-25T20:43:43.215777+00:00
- - user: None
- - tags: []
-
-## Welcome to my digital space — Phuoc Nguyen
- - [https://phuoc.ng](https://phuoc.ng)
- - date published: 2023-11-06T14:12:19.315700+00:00
- - user: None
- - tags: []
-
-## Home | TheCable
- - [https://www.thecable.ng](https://www.thecable.ng)
- - date published: 2023-11-04T18:28:54.971018+00:00
- - user: None
- - tags: []
-
-## Home - 『混沌とした 忍者』
- - [https://chaotic.ninja](https://chaotic.ninja)
- - date published: 2023-10-26T06:39:30.397007+00:00
  - user: None
  - tags: []
 
