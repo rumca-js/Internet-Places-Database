@@ -1,3 +1,15 @@
+## LINQ to Fail
+ - [https://www.aaron-powell.com](https://www.aaron-powell.com)
+ - date published: 2023-10-25T08:57:54.880761+00:00
+ - user: None
+ - tags: ['personal']
+
+## aaronbell.com | words about humans and tech.
+ - [https://www.aaronbell.com](https://www.aaronbell.com)
+ - date published: 2023-10-25T12:28:44.982948+00:00
+ - user: None
+ - tags: []
+
 ## Home • Aaron Bruce | aaronbruce.com
  - [https://www.aaronbruce.com](https://www.aaronbruce.com)
  - date published: 2023-10-25T12:28:46.281489+00:00
@@ -2506,6 +2518,12 @@
  - user: None
  - tags: ['personal']
 
+## Athenil
+ - [https://athenil.com](https://athenil.com)
+ - date published: 2023-11-24T01:58:48.935933+00:00
+ - user: None
+ - tags: []
+
 ## @Large Research - Massivizing Computer Systems
  - [https://atlarge-research.com](https://atlarge-research.com)
  - date published: 2023-10-25T12:47:42.982758+00:00
@@ -4165,6 +4183,12 @@
 ## Home – Blocks and Files
  - [https://blocksandfiles.com](https://blocksandfiles.com)
  - date published: 2023-10-25T13:05:01.717678+00:00
+ - user: None
+ - tags: []
+
+## Crypto Market News and Insights for Investors - BlocksByte
+ - [https://blocksbyte.com](https://blocksbyte.com)
+ - date published: 2023-11-24T14:24:09.974254+00:00
  - user: None
  - tags: []
 
@@ -5971,30 +5995,6 @@
 ## Carmelite Monks of Wyoming Gothic - Carmelite Gothic
  - [https://carmelitegothic.com](https://carmelitegothic.com)
  - date published: 2023-10-25T13:18:22.657357+00:00
- - user: None
- - tags: []
-
-## Carpe Ludum – Eidolon's Inn – World of M.U.L.E. – Great Games Society
- - [https://www.carpeludum.com](https://www.carpeludum.com)
- - date published: 2023-10-25T13:18:31.219503+00:00
- - user: None
- - tags: []
-
-## Carscoops
- - [https://www.carscoops.com](https://www.carscoops.com)
- - date published: 2023-10-25T13:18:41.264654+00:00
- - user: None
- - tags: []
-
-## Compare car design and dimensions in a Virtual Showroom
- - [https://www.carsized.com](https://www.carsized.com)
- - date published: 2023-10-25T13:18:46.682593+00:00
- - user: None
- - tags: []
-
-## Carta UK | Equity Management Solutions
- - [https://carta.com](https://carta.com)
- - date published: 2023-10-25T13:18:49.348073+00:00
  - user: None
  - tags: []
 

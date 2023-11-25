@@ -1,3 +1,165 @@
+## Home | Readex
+ - [https://www.readex.com](https://www.readex.com)
+ - date published: 2023-10-25T16:46:37.490151+00:00
+ - user: None
+ - tags: []
+
+## Margins by Ranjan Roy and Can Duruk | Substack
+ - [https://www.readmargins.com](https://www.readmargins.com)
+ - date published: 2023-10-25T16:46:39.880035+00:00
+ - user: None
+ - tags: []
+
+## ReadMe
+ - [https://readme.com](https://readme.com)
+ - date published: 2023-10-25T16:46:46.341805+00:00
+ - user: None
+ - tags: []
+
+## ReadWrite - IoT and Technology News
+ - [https://readwrite.com](https://readwrite.com)
+ - date published: 2023-10-25T16:46:49.019571+00:00
+ - user: None
+ - tags: []
+
+## Reagan Ray
+ - [https://reaganray.com](https://reaganray.com)
+ - date published: 2023-10-25T16:46:50.163589+00:00
+ - user: None
+ - tags: []
+
+## Home - Reaktor
+ - [https://www.reaktor.com](https://www.reaktor.com)
+ - date published: 2023-10-25T16:46:53.527067+00:00
+ - user: None
+ - tags: []
+
+## China Charts | Substack
+ - [https://www.realchinacharts.com](https://www.realchinacharts.com)
+ - date published: 2023-10-25T09:40:41.083559+00:00
+ - user: None
+ - tags: ['substack']
+
+## realcleardefense.com
+ - [https://www.realcleardefense.com](https://www.realcleardefense.com)
+ - date published: 2023-10-25T16:46:53.872738+00:00
+ - user: None
+ - tags: []
+
+## RealClearInvestigations - Investigations, News, Analysis, Video and Polls
+ - [https://www.realclearinvestigations.com](https://www.realclearinvestigations.com)
+ - date published: 2023-10-25T16:46:58.002369+00:00
+ - user: None
+ - tags: []
+
+## realclearpolitics.com
+ - [https://www.realclearpolitics.com](https://www.realclearpolitics.com)
+ - date published: 2023-10-25T10:38:12.491250+00:00
+ - user: None
+ - tags: []
+
+## realclearscience.com
+ - [https://www.realclearscience.com](https://www.realclearscience.com)
+ - date published: 2023-10-25T10:10:53.865897+00:00
+ - user: None
+ - tags: []
+
+## RealClearWire - Opinion, News, Analysis, Video and Polls
+ - [https://www.realclearwire.com](https://www.realclearwire.com)
+ - date published: 2023-10-25T16:46:59.090616+00:00
+ - user: None
+ - tags: []
+
+## realme (Polska) - Dare to Leap
+ - [https://www.realme.com](https://www.realme.com)
+ - date published: 2023-10-29T18:31:53.207822+00:00
+ - user: None
+ - tags: ['company']
+
+## Python Tutorials – Real Python
+ - [https://realpython.com](https://realpython.com)
+ - date published: 2023-10-25T09:27:44.900620+00:00
+ - user: None
+ - tags: []
+
+## RealVNC® - Remote access software for desktop and mobile | RealVNC
+ - [https://www.realvnc.com](https://www.realvnc.com)
+ - date published: 2023-10-25T08:36:55.279787+00:00
+ - user: None
+ - tags: []
+
+## Fully Work From Anywhere Jobs in Engineering, Marketing, Sales, Design, and more.
+ - [https://www.realworkfromanywhere.com](https://www.realworkfromanywhere.com)
+ - date published: 2023-10-25T16:47:00.940993+00:00
+ - user: None
+ - tags: []
+
+## Reaper Miniatures
+ - [https://www.reapermini.com](https://www.reapermini.com)
+ - date published: 2023-11-01T18:13:42.385023+00:00
+ - user: None
+ - tags: ['sculpting', 'tabletop games', 'miniatures']
+
+## Reason Magazine - Free Minds and Free Markets
+ - [https://reason.com](https://reason.com)
+ - date published: 2023-10-25T16:47:08.897275+00:00
+ - user: None
+ - tags: []
+
+## Reasonable Deviations · a rational approach to complexity
+ - [https://reasonabledeviations.com](https://reasonabledeviations.com)
+ - date published: 2023-10-25T16:47:11.709933+00:00
+ - user: None
+ - tags: []
+
+## Home :: Reasonably Polymorphic
+ - [https://reasonablypolymorphic.com](https://reasonablypolymorphic.com)
+ - date published: 2023-10-25T16:47:14.074710+00:00
+ - user: None
+ - tags: []
+
+## Recalbox Home
+ - [https://www.recalbox.com](https://www.recalbox.com)
+ - date published: 2023-11-02T10:57:32.260196+00:00
+ - user: None
+ - tags: ['retro games', 'amiga']
+
+## Recall - Your AI-powered knowledge base
+ - [https://www.recall-app.com](https://www.recall-app.com)
+ - date published: 2023-10-25T16:47:21.370141+00:00
+ - user: None
+ - tags: []
+
+## Recharge | Latest renewable energy news
+ - [https://www.rechargenews.com](https://www.rechargenews.com)
+ - date published: 2023-10-25T10:54:44.339290+00:00
+ - user: None
+ - tags: []
+
+## RecipeUI
+ - [https://recipeui.com](https://recipeui.com)
+ - date published: 2023-10-25T16:47:23.469762+00:00
+ - user: None
+ - tags: []
+
+## Jobs at Tab
+ - [https://tab.recruitee.com](https://tab.recruitee.com)
+ - date published: 2023-10-25T16:47:24.237212+00:00
+ - user: None
+ - tags: []
+
+## Recurrent | Buy, Drive & Sell Electric Cars, Positively | EV Battery Reports
+ - [https://www.recurrentauto.com](https://www.recurrentauto.com)
+ - date published: 2023-10-25T16:47:30.550141+00:00
+ - user: None
+ - tags: []
+
+## Redgate Software - Compliant Database DevOps Solutions and Tools For SQL Server, Oracle, & .NET
+ - [https://www.red-gate.com](https://www.red-gate.com)
+ - date published: 2023-11-01T08:43:03.996831+00:00
+ - user: None
+ - tags: []
+
 ## Red Alert 2 | Online Gameplay
  - [https://redalert2.com](https://redalert2.com)
  - date published: 2023-11-17T21:46:56+00:00
@@ -2482,6 +2644,12 @@
  - user: None
  - tags: []
 
+## Live Dashboard of Shopify for Black Friday
+ - [https://bfcm.shopify.com](https://bfcm.shopify.com)
+ - date published: 2023-11-24T13:46:21+00:00
+ - user: None
+ - tags: []
+
 ## Shopify - Pressroom
  - [https://news.shopify.com](https://news.shopify.com)
  - date published: 2023-10-25T17:03:39.469521+00:00
@@ -3179,6 +3347,12 @@
  - user: None
  - tags: []
 
+## SomaFM
+ - [https://somafm.com](https://somafm.com)
+ - date published: 2023-11-24T04:43:46.281998+00:00
+ - user: None
+ - tags: []
+
 ## Nelson's Weblog
  - [https://www.somebits.com](https://www.somebits.com)
  - date published: 2023-10-25T17:07:56.756525+00:00
@@ -3260,6 +3434,12 @@
 ## Sound On Sound | The World's Premier Music Recording Technology Magazine
  - [https://www.soundonsound.com](https://www.soundonsound.com)
  - date published: 2023-10-25T17:08:36.679583+00:00
+ - user: None
+ - tags: []
+
+## SoundStage! Solo | SoundStageSolo.com - Home
+ - [https://www.soundstagesolo.com](https://www.soundstagesolo.com)
+ - date published: 2023-11-23T21:54:42.557761+00:00
  - user: None
  - tags: []
 
@@ -4637,6 +4817,12 @@
  - user: None
  - tags: ['substack']
 
+## Aaron Greenspan | Substack
+ - [https://aarongreenspan.substack.com](https://aarongreenspan.substack.com)
+ - date published: 2023-11-23T02:03:50.588445+00:00
+ - user: None
+ - tags: []
+
 ## Injecting Freedom | Aaron Siri | Substack
  - [https://aaronsiri.substack.com](https://aaronsiri.substack.com)
  - date published: 2023-10-25T09:40:48.445493+00:00
@@ -5810,192 +5996,6 @@
 ## Jacob’s Tech Tavern | Jacob Bartlett | Substack
  - [http://jacobbartlett.substack.com](http://jacobbartlett.substack.com)
  - date published: 2023-10-25T09:54:40.999839+00:00
- - user: None
- - tags: ['substack']
-
-## As Clay Awakens | Jacob Buckman | Substack
- - [http://jacobbuckman.substack.com](http://jacobbuckman.substack.com)
- - date published: 2023-10-25T09:54:43.703400+00:00
- - user: None
- - tags: ['substack']
-
-## Politics, News, Novels and More | MJ Javani | Substack
- - [http://javani.substack.com](http://javani.substack.com)
- - date published: 2023-10-25T09:54:47.162953+00:00
- - user: None
- - tags: ['substack']
-
-## These Are Systems | Jacob Bayless | Substack
- - [http://jbconsulting.substack.com](http://jbconsulting.substack.com)
- - date published: 2023-10-25T09:54:52.365590+00:00
- - user: None
- - tags: ['substack']
-
-## Tech and Tea | Jean Hsu | Substack
- - [http://jeanhsu.substack.com](http://jeanhsu.substack.com)
- - date published: 2023-10-25T09:54:58.011335+00:00
- - user: None
- - tags: ['substack']
-
-## Points And Figures | Jeffrey Carter | Substack
- - [https://jeffreycarter.substack.com](https://jeffreycarter.substack.com)
- - date published: 2023-10-25T09:55:01.324163+00:00
- - user: None
- - tags: ['substack']
-
-## Jérôme à Paris  | Substack
- - [https://jeromeaparis.substack.com](https://jeromeaparis.substack.com)
- - date published: 2023-10-25T09:55:06.824850+00:00
- - user: None
- - tags: ['substack']
-
-## Singal-Minded | Jesse Singal | Substack
- - [http://jessesingal.substack.com](http://jessesingal.substack.com)
- - date published: 2023-10-25T09:55:10.675192+00:00
- - user: None
- - tags: ['substack']
-
-## The Unpublishable | Jessica DeFino | Substack
- - [https://jessicadefino.substack.com](https://jessicadefino.substack.com)
- - date published: 2023-10-25T09:55:15.775970+00:00
- - user: None
- - tags: ['substack']
-
-## Noted | Jillian Hess | Substack
- - [https://jillianhess.substack.com](https://jillianhess.substack.com)
- - date published: 2023-10-25T17:19:11.075658+00:00
- - user: None
- - tags: []
-
-## Jinay's Substack | Jinay Jain | Substack
- - [https://jjain.substack.com](https://jjain.substack.com)
- - date published: 2023-10-25T09:55:19.692399+00:00
- - user: None
- - tags: ['substack']
-
-## Pryor Thoughts | JJ Pryor | Substack
- - [https://jjpryor.substack.com](https://jjpryor.substack.com)
- - date published: 2023-10-25T09:55:26.042636+00:00
- - user: None
- - tags: ['substack']
-
-## Causal Deference | John McDonnell | Substack
- - [https://jmcdonnell.substack.com](https://jmcdonnell.substack.com)
- - date published: 2023-10-25T09:55:29.223040+00:00
- - user: None
- - tags: ['substack']
-
-## A Closer Look with Joe Morrison | Substack
- - [http://joemorrison.substack.com](http://joemorrison.substack.com)
- - date published: 2023-10-25T09:55:32.860081+00:00
- - user: None
- - tags: ['substack']
-
-## JoeBlogs | Joe Posnanski | Substack
- - [https://joeposnanski.substack.com](https://joeposnanski.substack.com)
- - date published: 2023-10-25T09:55:38.595856+00:00
- - user: None
- - tags: ['substack']
-
-## After Babel | Jon Haidt | Substack
- - [http://jonathanhaidt.substack.com](http://jonathanhaidt.substack.com)
- - date published: 2023-10-25T09:55:45.684767+00:00
- - user: None
- - tags: ['substack']
-
-## Joscha Bach | Substack
- - [https://joscha.substack.com](https://joscha.substack.com)
- - date published: 2023-10-25T09:55:48.369614+00:00
- - user: None
- - tags: ['substack']
-
-## quite useless | a. natasha joukovsky | Substack
- - [https://joukovsky.substack.com](https://joukovsky.substack.com)
- - date published: 2023-10-25T09:55:57.553758+00:00
- - user: None
- - tags: ['substack']
-
-## Finding Joy | Joy Lere, Psy.D. | Substack
- - [https://joylere.substack.com](https://joylere.substack.com)
- - date published: 2023-10-25T09:56:00.200869+00:00
- - user: None
- - tags: ['substack']
-
-## Delayed Branch | Jason Rahman | Substack
- - [http://jprahman.substack.com](http://jprahman.substack.com)
- - date published: 2023-10-25T09:56:03.024868+00:00
- - user: None
- - tags: ['substack']
-
-## Teaching computers how to talk | Jurgen Gravestein | Substack
- - [https://jurgengravestein.substack.com](https://jurgengravestein.substack.com)
- - date published: 2023-10-25T09:56:12.153586+00:00
- - user: None
- - tags: ['substack']
-
-## Justin Smith-Ruiu’s Hinternet | Substack
- - [http://justinehsmith.substack.com](http://justinehsmith.substack.com)
- - date published: 2023-10-25T09:56:15.176051+00:00
- - user: None
- - tags: ['substack']
-
-## The Kaitchup – AI on a Budget | Benjamin Marie, PhD | Substack
- - [https://kaitchup.substack.com](https://kaitchup.substack.com)
- - date published: 2023-10-25T09:56:18.279130+00:00
- - user: None
- - tags: ['substack']
-
-## Kanekoa News | Substack
- - [http://kanekoa.substack.com](http://kanekoa.substack.com)
- - date published: 2023-10-25T09:56:30.623110+00:00
- - user: None
- - tags: ['substack']
-
-## Nine Lives | Karawynn Long | Substack
- - [http://karawynn.substack.com](http://karawynn.substack.com)
- - date published: 2023-10-25T09:56:38.827443+00:00
- - user: None
- - tags: ['substack']
-
-## Kareem Abdul-Jabbar | Substack
- - [https://kareem.substack.com](https://kareem.substack.com)
- - date published: 2023-10-25T09:56:43.884000+00:00
- - user: None
- - tags: ['substack']
-
-## Kids Who Love Math | Sebastian Gutierrez | Substack
- - [http://kidswholovemath.substack.com](http://kidswholovemath.substack.com)
- - date published: 2023-10-25T09:56:47.449033+00:00
- - user: None
- - tags: ['substack']
-
-## Knoll’s Law | Knoll's Law | Substack
- - [http://knollslaw.substack.com](http://knollslaw.substack.com)
- - date published: 2023-10-25T09:56:49.775113+00:00
- - user: None
- - tags: ['substack']
-
-## System Failure | Nathan Knopp | Substack
- - [https://knopp.substack.com](https://knopp.substack.com)
- - date published: 2023-10-25T09:56:59.004155+00:00
- - user: None
- - tags: ['substack']
-
-## Laetitia@Work | Laëtitia Vitaud | Substack
- - [https://laetitiaatwork.substack.com](https://laetitiaatwork.substack.com)
- - date published: 2023-10-25T09:57:02.350935+00:00
- - user: None
- - tags: ['substack']
-
-## The Free Mind | Laura Dodsworth | Substack
- - [http://lauradodsworth.substack.com](http://lauradodsworth.substack.com)
- - date published: 2023-10-25T09:57:06.732865+00:00
- - user: None
- - tags: ['substack']
-
-## lcamtuf’s thing | Substack
- - [https://lcamtuf.substack.com](https://lcamtuf.substack.com)
- - date published: 2023-10-25T09:57:09.013670+00:00
  - user: None
  - tags: ['substack']
 

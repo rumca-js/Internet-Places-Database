@@ -208,6 +208,12 @@
  - user: rumpel
  - tags: []
 
+## Show HN: An AI-Generated Encyclopedia
+ - [https://mycyclopedia.co](https://mycyclopedia.co)
+ - date published: 2023-11-23T13:53:10+00:00
+ - user: None
+ - tags: []
+
 ## Sort: Supercharged collaboration for your database
  - [https://sort.xyz.](https://sort.xyz.)
  - date published: 2023-11-01T23:07:07.991006+00:00
@@ -3803,6 +3809,12 @@
  - user: None
  - tags: []
 
+## Guerrero, Bichette lead Blue Jays past Royals 5-4 to kick off 10-game homestand
+ - [https://morns.ca](https://morns.ca)
+ - date published: 2023-11-23T02:53:51.311374+00:00
+ - user: None
+ - tags: []
+
 ## Mina Naguib
  - [https://mina.naguib.ca](https://mina.naguib.ca)
  - date published: 2023-10-25T09:02:42.738096+00:00
@@ -5981,16 +5993,4 @@
  - date published: 2023-10-25T12:28:43.527947+00:00
  - user: None
  - tags: []
-
-## Aadil Ali
- - [https://blog.aadilali.com](https://blog.aadilali.com)
- - date published: 2023-10-25T08:44:04.159881+00:00
- - user: None
- - tags: ['personal']
-
-## LINQ to Fail
- - [https://www.aaron-powell.com](https://www.aaron-powell.com)
- - date published: 2023-10-25T08:57:54.880761+00:00
- - user: None
- - tags: ['personal']
 

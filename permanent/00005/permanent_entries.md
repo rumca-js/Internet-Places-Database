@@ -1,3 +1,123 @@
+## MINING.COM - No 1 source of global mining news and opinion
+ - [https://www.mining.com](https://www.mining.com)
+ - date published: 2023-10-25T16:04:41.697139+00:00
+ - user: None
+ - tags: []
+
+## MinisBarter.com - Miniature wargaming marketplace
+ - [https://minisbarter.com](https://minisbarter.com)
+ - date published: 2023-10-25T11:11:29.320355+00:00
+ - user: None
+ - tags: ['marketplace', 'tabletop games']
+
+## Mini Tokyo 3D
+ - [https://minitokyo3d.com](https://minitokyo3d.com)
+ - date published: 2023-10-25T08:25:12.186869+00:00
+ - user: None
+ - tags: []
+
+## Home - Minnesota Reformer
+ - [https://minnesotareformer.com](https://minnesotareformer.com)
+ - date published: 2023-10-25T16:04:44.605436+00:00
+ - user: None
+ - tags: []
+
+## Mint Mobile | Wireless that's Easy, Online, $15 Bucks a Month
+ - [https://www.mintmobile.com](https://www.mintmobile.com)
+ - date published: 2023-10-25T08:24:23.034947+00:00
+ - user: None
+ - tags: []
+
+## MintPress News
+ - [https://www.mintpressnews.com](https://www.mintpressnews.com)
+ - date published: 2023-10-25T11:05:23.202392+00:00
+ - user: None
+ - tags: []
+
+## mIRC: Internet Relay Chat client
+ - [https://www.mirc.com](https://www.mirc.com)
+ - date published: 2023-10-25T08:36:59.140579+00:00
+ - user: None
+ - tags: ['social communicator']
+
+## МИР ЭСПЕРАНТО
+ - [http://miresperanto.com](http://miresperanto.com)
+ - date published: 2023-10-25T16:04:53.704062+00:00
+ - user: None
+ - tags: []
+
+## Rich Mironov's Product Bytes
+ - [https://www.mironov.com](https://www.mironov.com)
+ - date published: 2023-10-25T16:04:55.298712+00:00
+ - user: None
+ - tags: []
+
+## Misalignment Museum – Learn about and reflect on the possibilities of AI technology
+ - [https://www.misalignmentmuseum.com](https://www.misalignmentmuseum.com)
+ - date published: 2023-10-25T16:05:00.740586+00:00
+ - user: None
+ - tags: []
+
+## About
+ - [https://www.mishalaskin.com](https://www.mishalaskin.com)
+ - date published: 2023-10-25T16:05:02.311743+00:00
+ - user: None
+ - tags: []
+
+## Misinformation Game: A social-media simulator for research.
+ - [https://misinfogame.com](https://misinfogame.com)
+ - date published: 2023-10-25T16:05:03.528783+00:00
+ - user: None
+ - tags: []
+
+## Home • Missouri Independent
+ - [https://missouriindependent.com](https://missouriindependent.com)
+ - date published: 2023-10-25T16:05:06.679051+00:00
+ - user: None
+ - tags: []
+
+## Mitchell Hashimoto
+ - [https://mitchellh.com](https://mitchellh.com)
+ - date published: 2023-10-25T08:47:17.283545+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mitchell Daily Republic | Mitchell, South Dakota
+ - [https://www.mitchellrepublic.com](https://www.mitchellrepublic.com)
+ - date published: 2023-10-25T16:05:16.003254+00:00
+ - user: None
+ - tags: []
+
+## mitxela.com
+ - [https://mitxela.com](https://mitxela.com)
+ - date published: 2023-10-25T16:05:18.840474+00:00
+ - user: None
+ - tags: []
+
+## MIXED Reality News | Virtual Reality News & Augmented Reality News Virtual Reality News & Augmented Reality News
+ - [https://mixed-news.com](https://mixed-news.com)
+ - date published: 2023-10-25T16:05:20.938089+00:00
+ - user: None
+ - tags: []
+
+## Find Bilingual Baby Names
+ - [https://mixedname.com](https://mixedname.com)
+ - date published: 2023-11-11T16:30:12+00:00
+ - user: None
+ - tags: []
+
+## Michael Tsai - Good Evening
+ - [https://mjtsai.com](https://mjtsai.com)
+ - date published: 2023-10-25T16:05:23.023112+00:00
+ - user: None
+ - tags: []
+
+## MKBHD
+ - [https://mkbhd.com](https://mkbhd.com)
+ - date published: 2023-10-27T11:54:59.212907+00:00
+ - user: None
+ - tags: []
+
 ## MLE Online
  - [https://mle-online.com](https://mle-online.com)
  - date published: 2023-10-25T16:05:27.416057+00:00
@@ -1234,6 +1354,12 @@
  - user: None
  - tags: []
 
+## Software-Delivered AI - Neural Magic
+ - [https://neuralmagic.com](https://neuralmagic.com)
+ - date published: 2023-11-23T07:19:00.230264+00:00
+ - user: None
+ - tags: []
+
 ## NeuroClastic
  - [https://neuroclastic.com](https://neuroclastic.com)
  - date published: 2023-10-30T19:33:32.273509+00:00
@@ -1339,6 +1465,12 @@
 ## Homepage
  - [https://www.newschannel5.com](https://www.newschannel5.com)
  - date published: 2023-11-14T03:03:37.951482+00:00
+ - user: None
+ - tags: []
+
+## CHATTANOOGA News, Weather, Sports, Breaking News | WTVC
+ - [https://newschannel9.com](https://newschannel9.com)
+ - date published: 2023-11-23T02:43:56.853271+00:00
  - user: None
  - tags: []
 
@@ -2697,6 +2829,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Welcome to Spinning Up in Deep RL! — Spinning Up  documentation
+ - [https://spinningup.openai.com](https://spinningup.openai.com)
+ - date published: 2023-11-24T03:43:48.174303+00:00
+ - user: None
+ - tags: []
+
 ## OpenAI Status
  - [https://status.openai.com](https://status.openai.com)
  - date published: 2023-10-25T16:26:27.103892+00:00
@@ -2922,6 +3060,12 @@ Answering Machine Greetings!
 ## OrioleDB – the next generation storage engine for PostgreSQL
  - [https://www.orioledata.com](https://www.orioledata.com)
  - date published: 2023-10-25T16:27:26.200155+00:00
+ - user: None
+ - tags: []
+
+## Orlando Weekly
+ - [https://www.orlandoweekly.com](https://www.orlandoweekly.com)
+ - date published: 2023-11-23T07:19:16.129563+00:00
  - user: None
  - tags: []
 
@@ -3670,6 +3814,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game
+ - [https://www.perfectpitchpuzzle.com](https://www.perfectpitchpuzzle.com)
+ - date published: 2023-11-24T20:54:17+00:00
+ - user: None
+ - tags: []
+
 ## PerfectRec: Personalized Product Recommendations
  - [https://www.perfectrec.com](https://www.perfectrec.com)
  - date published: 2023-10-25T16:32:57.052562+00:00
@@ -3889,6 +4039,12 @@ Answering Machine Greetings!
 ## https://www.phind.com
  - [https://www.phind.com](https://www.phind.com)
  - date published: 2023-10-25T16:34:08.146703+00:00
+ - user: None
+ - tags: []
+
+## Phoenix New Times | The Leading Independent News Source in Phoenix, Arizona
+ - [https://www.phoenixnewtimes.com](https://www.phoenixnewtimes.com)
+ - date published: 2023-11-23T22:14:37.035277+00:00
  - user: None
  - tags: []
 
@@ -5691,6 +5847,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Ramp Engineering
+ - [https://engineering.ramp.com](https://engineering.ramp.com)
+ - date published: 2023-11-24T17:44:12.919687+00:00
+ - user: None
+ - tags: []
+
 ## Home - Ramraj's personal site
  - [https://www.ramrajv.com](https://www.ramrajv.com)
  - date published: 2023-10-25T16:45:35.093200+00:00
@@ -5838,168 +6000,6 @@ Answering Machine Greetings!
 ## Learn to build unique charts with React
  - [https://www.react-graph-gallery.com](https://www.react-graph-gallery.com)
  - date published: 2023-10-25T16:46:34.067561+00:00
- - user: None
- - tags: []
-
-## Welcome
- - [https://www.reactiflux.com](https://www.reactiflux.com)
- - date published: 2023-10-25T16:46:35.493237+00:00
- - user: None
- - tags: []
-
-## Home | Readex
- - [https://www.readex.com](https://www.readex.com)
- - date published: 2023-10-25T16:46:37.490151+00:00
- - user: None
- - tags: []
-
-## Margins by Ranjan Roy and Can Duruk | Substack
- - [https://www.readmargins.com](https://www.readmargins.com)
- - date published: 2023-10-25T16:46:39.880035+00:00
- - user: None
- - tags: []
-
-## ReadMe
- - [https://readme.com](https://readme.com)
- - date published: 2023-10-25T16:46:46.341805+00:00
- - user: None
- - tags: []
-
-## ReadWrite - IoT and Technology News
- - [https://readwrite.com](https://readwrite.com)
- - date published: 2023-10-25T16:46:49.019571+00:00
- - user: None
- - tags: []
-
-## Reagan Ray
- - [https://reaganray.com](https://reaganray.com)
- - date published: 2023-10-25T16:46:50.163589+00:00
- - user: None
- - tags: []
-
-## Home - Reaktor
- - [https://www.reaktor.com](https://www.reaktor.com)
- - date published: 2023-10-25T16:46:53.527067+00:00
- - user: None
- - tags: []
-
-## China Charts | Substack
- - [https://www.realchinacharts.com](https://www.realchinacharts.com)
- - date published: 2023-10-25T09:40:41.083559+00:00
- - user: None
- - tags: ['substack']
-
-## realcleardefense.com
- - [https://www.realcleardefense.com](https://www.realcleardefense.com)
- - date published: 2023-10-25T16:46:53.872738+00:00
- - user: None
- - tags: []
-
-## RealClearInvestigations - Investigations, News, Analysis, Video and Polls
- - [https://www.realclearinvestigations.com](https://www.realclearinvestigations.com)
- - date published: 2023-10-25T16:46:58.002369+00:00
- - user: None
- - tags: []
-
-## realclearpolitics.com
- - [https://www.realclearpolitics.com](https://www.realclearpolitics.com)
- - date published: 2023-10-25T10:38:12.491250+00:00
- - user: None
- - tags: []
-
-## realclearscience.com
- - [https://www.realclearscience.com](https://www.realclearscience.com)
- - date published: 2023-10-25T10:10:53.865897+00:00
- - user: None
- - tags: []
-
-## RealClearWire - Opinion, News, Analysis, Video and Polls
- - [https://www.realclearwire.com](https://www.realclearwire.com)
- - date published: 2023-10-25T16:46:59.090616+00:00
- - user: None
- - tags: []
-
-## realme (Polska) - Dare to Leap
- - [https://www.realme.com](https://www.realme.com)
- - date published: 2023-10-29T18:31:53.207822+00:00
- - user: None
- - tags: ['company']
-
-## Python Tutorials – Real Python
- - [https://realpython.com](https://realpython.com)
- - date published: 2023-10-25T09:27:44.900620+00:00
- - user: None
- - tags: []
-
-## RealVNC® - Remote access software for desktop and mobile | RealVNC
- - [https://www.realvnc.com](https://www.realvnc.com)
- - date published: 2023-10-25T08:36:55.279787+00:00
- - user: None
- - tags: []
-
-## Fully Work From Anywhere Jobs in Engineering, Marketing, Sales, Design, and more.
- - [https://www.realworkfromanywhere.com](https://www.realworkfromanywhere.com)
- - date published: 2023-10-25T16:47:00.940993+00:00
- - user: None
- - tags: []
-
-## Reaper Miniatures
- - [https://www.reapermini.com](https://www.reapermini.com)
- - date published: 2023-11-01T18:13:42.385023+00:00
- - user: None
- - tags: ['sculpting', 'tabletop games', 'miniatures']
-
-## Reason Magazine - Free Minds and Free Markets
- - [https://reason.com](https://reason.com)
- - date published: 2023-10-25T16:47:08.897275+00:00
- - user: None
- - tags: []
-
-## Reasonable Deviations · a rational approach to complexity
- - [https://reasonabledeviations.com](https://reasonabledeviations.com)
- - date published: 2023-10-25T16:47:11.709933+00:00
- - user: None
- - tags: []
-
-## Home :: Reasonably Polymorphic
- - [https://reasonablypolymorphic.com](https://reasonablypolymorphic.com)
- - date published: 2023-10-25T16:47:14.074710+00:00
- - user: None
- - tags: []
-
-## Recalbox Home
- - [https://www.recalbox.com](https://www.recalbox.com)
- - date published: 2023-11-02T10:57:32.260196+00:00
- - user: None
- - tags: ['retro games', 'amiga']
-
-## Recall - Your AI-powered knowledge base
- - [https://www.recall-app.com](https://www.recall-app.com)
- - date published: 2023-10-25T16:47:21.370141+00:00
- - user: None
- - tags: []
-
-## Recharge | Latest renewable energy news
- - [https://www.rechargenews.com](https://www.rechargenews.com)
- - date published: 2023-10-25T10:54:44.339290+00:00
- - user: None
- - tags: []
-
-## RecipeUI
- - [https://recipeui.com](https://recipeui.com)
- - date published: 2023-10-25T16:47:23.469762+00:00
- - user: None
- - tags: []
-
-## Jobs at Tab
- - [https://tab.recruitee.com](https://tab.recruitee.com)
- - date published: 2023-10-25T16:47:24.237212+00:00
- - user: None
- - tags: []
-
-## Recurrent | Buy, Drive & Sell Electric Cars, Positively | EV Battery Reports
- - [https://www.recurrentauto.com](https://www.recurrentauto.com)
- - date published: 2023-10-25T16:47:30.550141+00:00
  - user: None
  - tags: []
 
