@@ -1,3 +1,231 @@
+## Sign in · GitLab
+ - [https://gitlab.haskell.org](https://gitlab.haskell.org)
+ - date published: 2023-10-25T21:28:06.166974+00:00
+ - user: None
+ - tags: []
+
+## Haven: Host your own private blog
+ - [https://havenweb.org](https://havenweb.org)
+ - date published: 2023-10-25T21:28:07.014052+00:00
+ - user: None
+ - tags: []
+
+## HCI Bibliography : Human-Computer Interaction Resources
+ - [https://hcibib.org](https://hcibib.org)
+ - date published: 2023-10-25T21:28:08.623566+00:00
+ - user: None
+ - tags: []
+
+## High Country News – Know the West
+ - [https://www.hcn.org](https://www.hcn.org)
+ - date published: 2023-10-25T21:28:11.840838+00:00
+ - user: None
+ - tags: []
+
+## HDMI Licensing Administrator, Inc.
+ - [https://www.hdmi.org](https://www.hdmi.org)
+ - date published: 2023-10-25T21:28:19.437472+00:00
+ - user: None
+ - tags: []
+
+## https://www.healthaffairs.org
+ - [https://www.healthaffairs.org](https://www.healthaffairs.org)
+ - date published: 2023-10-25T21:28:19.809492+00:00
+ - user: None
+ - tags: []
+
+## Scientific Reference to Reliable Health Information - Health Feedback
+ - [https://healthfeedback.org](https://healthfeedback.org)
+ - date published: 2023-10-25T21:28:21.366345+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the AHA/ASA Newsroom | American Heart Association
+ - [https://newsroom.heart.org](https://newsroom.heart.org)
+ - date published: 2023-10-25T21:28:23.483045+00:00
+ - user: None
+ - tags: []
+
+## American Heart Association | To be a relentless force for a world of longer, healthier lives
+ - [https://www.heart.org](https://www.heart.org)
+ - date published: 2023-10-25T21:28:27.272418+00:00
+ - user: None
+ - tags: []
+
+## Home - The Hechinger Report
+ - [https://hechingerreport.org](https://hechingerreport.org)
+ - date published: 2023-10-25T21:28:32.308583+00:00
+ - user: None
+ - tags: []
+
+## About     – HelenOS
+ - [http://www.helenos.org](http://www.helenos.org)
+ - date published: 2023-10-25T21:28:33.498042+00:00
+ - user: None
+ - tags: []
+
+## Philip Heltweg
+ - [https://www.heltweg.org](https://www.heltweg.org)
+ - date published: 2023-10-25T08:54:40.981603+00:00
+ - user: None
+ - tags: ['personal']
+
+## American Society of Hematology
+ - [https://www.hematology.org](https://www.hematology.org)
+ - date published: 2023-11-11T10:57:39.004357+00:00
+ - user: None
+ - tags: []
+
+## hezmatt.org
+ - [https://www.hezmatt.org](https://www.hezmatt.org)
+ - date published: 2023-10-25T21:28:33.908256+00:00
+ - user: None
+ - tags: []
+
+## Home | AHA
+ - [https://www.historians.org](https://www.historians.org)
+ - date published: 2023-10-25T21:28:41.074702+00:00
+ - user: None
+ - tags: []
+
+## hmgs.org
+ - [https://www.hmgs.org](https://www.hmgs.org)
+ - date published: 2023-10-25T11:12:44.095189+00:00
+ - user: None
+ - tags: []
+
+## Hacker News RSS
+ - [https://hnrss.org](https://hnrss.org)
+ - date published: 2023-10-25T21:28:42.854542+00:00
+ - user: None
+ - tags: []
+
+## Hoover Institution
+ - [https://www.hoover.org](https://www.hoover.org)
+ - date published: 2023-10-25T21:28:47.678884+00:00
+ - user: None
+ - tags: []
+
+## Johns Hopkins Medicine, based in Baltimore, Maryland
+ - [https://www.hopkinsmedicine.org](https://www.hopkinsmedicine.org)
+ - date published: 2023-10-25T21:28:49.403905+00:00
+ - user: None
+ - tags: []
+
+## Home | Humanitarian OpenStreetMap Team
+ - [https://www.hotosm.org](https://www.hotosm.org)
+ - date published: 2023-10-25T21:28:50.976793+00:00
+ - user: None
+ - tags: []
+
+## Howardism
+ - [https://howardism.org](https://howardism.org)
+ - date published: 2023-10-25T21:28:53.869348+00:00
+ - user: None
+ - tags: []
+
+## How to Design Programs
+ - [https://htdp.org](https://htdp.org)
+ - date published: 2023-10-25T21:28:54.381719+00:00
+ - user: None
+ - tags: []
+
+## </> htmx - high power tools for html
+ - [https://htmx.org](https://htmx.org)
+ - date published: 2023-10-25T21:29:00.359686+00:00
+ - user: None
+ - tags: []
+
+## IETF HTTP Working Group
+ - [https://httpwg.org](https://httpwg.org)
+ - date published: 2023-10-25T21:29:01.274615+00:00
+ - user: None
+ - tags: []
+
+## Hubble Home
+ - [https://hubblesite.org](https://hubblesite.org)
+ - date published: 2023-10-25T21:29:08.287960+00:00
+ - user: None
+ - tags: []
+
+## The Humane Society of the United States| End suffering for all animals
+ - [https://www.humanesociety.org](https://www.humanesociety.org)
+ - date published: 2023-10-25T21:29:17.708287+00:00
+ - user: None
+ - tags: []
+
+## Humans TXT: We Are People, Not Machines.
+ - [https://humanstxt.org](https://humanstxt.org)
+ - date published: 2023-10-25T21:29:19.630955+00:00
+ - user: None
+ - tags: []
+
+## Bread & Circuits
+ - [https://blog.humphd.org](https://blog.humphd.org)
+ - date published: 2023-10-25T21:29:21.631841+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://www.humprog.org](http://www.humprog.org)
+ - date published: 2023-10-25T21:29:35.001353+00:00
+ - user: None
+ - tags: []
+
+## The Hy Manual — hy 0.27.0 documentation
+ - [https://docs.hylang.org](https://docs.hylang.org)
+ - date published: 2023-10-25T21:29:39.020853+00:00
+ - user: None
+ - tags: []
+
+## Hyperview · Native mobile apps, as easy as creating a web site
+ - [https://hyperview.org](https://hyperview.org)
+ - date published: 2023-10-25T21:29:42.395442+00:00
+ - user: None
+ - tags: []
+
+## Hyprland - A wayland compositor that doesn't sacrifice on its looks!
+ - [https://hyprland.org](https://hyprland.org)
+ - date published: 2023-10-25T21:29:43.958993+00:00
+ - user: None
+ - tags: []
+
+## Cryptology ePrint Archive
+ - [https://eprint.iacr.org](https://eprint.iacr.org)
+ - date published: 2023-10-25T21:29:46.021630+00:00
+ - user: None
+ - tags: []
+
+## Internet Assigned Numbers Authority
+ - [https://www.iana.org](https://www.iana.org)
+ - date published: 2023-10-25T21:29:48.306690+00:00
+ - user: None
+ - tags: []
+
+## Ian Bicking: a home page
+ - [https://ianbicking.org](https://ianbicking.org)
+ - date published: 2023-10-25T21:29:50.096372+00:00
+ - user: None
+ - tags: []
+
+## International Association of Privacy Professionals
+ - [https://iapp.org](https://iapp.org)
+ - date published: 2023-10-25T21:29:55.000235+00:00
+ - user: None
+ - tags: []
+
+## JTUR: home
+ - [https://jtur.iatur.org](https://jtur.iatur.org)
+ - date published: 2023-11-07T18:14:15.877684+00:00
+ - user: None
+ - tags: []
+
+## The Public's Library and Digital Archive
+ - [https://www.ibiblio.org](https://www.ibiblio.org)
+ - date published: 2023-10-25T21:30:05.195229+00:00
+ - user: None
+ - tags: []
+
 ## Internet Corporation for Assigned Names and Numbers (ICANN)
  - [https://www.icann.org](https://www.icann.org)
  - date published: 2023-10-25T21:30:12.025982+00:00
@@ -3078,6 +3306,12 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
+## Organiser Weekly - Voice of the Nation
+ - [https://organiser.org](https://organiser.org)
+ - date published: 2023-11-25T22:29:38.591315+00:00
+ - user: None
+ - tags: []
+
 ## Orion Magazine | Nature, Culture & Place
  - [https://orionmagazine.org](https://orionmagazine.org)
  - date published: 2023-10-25T21:54:59.353571+00:00
@@ -5054,6 +5288,12 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
+## Sqids – Generate Short Unique IDs from Numbers
+ - [https://sqids.org](https://sqids.org)
+ - date published: 2023-11-25T17:30:06+00:00
+ - user: None
+ - tags: []
+
 ## SQLAlchemy - The Database Toolkit for Python
  - [https://www.sqlalchemy.org](https://www.sqlalchemy.org)
  - date published: 2023-10-25T22:10:35.303229+00:00
@@ -5759,246 +5999,6 @@ Common Weakness Enumeration
 ## Tom Murphy 7's Invincible Web Page
  - [http://tom7.org](http://tom7.org)
  - date published: 2023-10-25T22:15:02.094981+00:00
- - user: None
- - tags: []
-
-## FontCDN: Search and Proxy for Google web fonts
- - [https://fontcdn.toolforge.org](https://fontcdn.toolforge.org)
- - date published: 2023-10-25T22:15:02.996428+00:00
- - user: None
- - tags: []
-
-## Tor Blog | The Tor Project
- - [https://blog.torproject.org](https://blog.torproject.org)
- - date published: 2023-10-25T22:15:09.398883+00:00
- - user: None
- - tags: []
-
-## Tor Project Forum - Defend yourself against tracking and surveillance. Circumvent censorship.
- - [https://forum.torproject.org](https://forum.torproject.org)
- - date published: 2023-10-25T22:15:12.526435+00:00
- - user: None
- - tags: []
-
-## Welcome to Tor Metrics
- - [https://metrics.torproject.org](https://metrics.torproject.org)
- - date published: 2023-10-25T22:15:13.678313+00:00
- - user: None
- - tags: []
-
-## The Tor Project | Privacy & Freedom Online
- - [https://www.torproject.org](https://www.torproject.org)
- - date published: 2023-10-30T14:40:32.920820+00:00
- - user: None
- - tags: ['privacy', 'dark web', 'tor']
-
-## TortoiseGit – Windows Shell Interface to Git
- - [https://tortoisegit.org](https://tortoisegit.org)
- - date published: 2023-10-31T12:01:44.737036+00:00
- - user: None
- - tags: ['open source', 'program']
-
-## Frontpage -- Terms of Service; Didn't Read
- - [https://tosdr.org](https://tosdr.org)
- - date published: 2023-10-25T22:15:19.624851+00:00
- - user: None
- - tags: []
-
-## touchHLE
- - [https://touchhle.org](https://touchhle.org)
- - date published: 2023-10-25T22:15:20.558373+00:00
- - user: None
- - tags: []
-
-## Texas Public Radio | TPR
- - [https://www.tpr.org](https://www.tpr.org)
- - date published: 2023-10-25T22:15:25.876244+00:00
- - user: None
- - tags: []
-
-## Trinity Desktop Environment
- - [https://www.trinitydesktop.org](https://www.trinitydesktop.org)
- - date published: 2023-10-25T22:15:27.131626+00:00
- - user: None
- - tags: []
-
-## TripleA: An Open Source Turn Based Grand Strategy Game
- - [https://triplea-game.org](https://triplea-game.org)
- - date published: 2023-10-25T22:15:28.144410+00:00
- - user: None
- - tags: []
-
-## Home - Trisul Network Analytics
- - [https://www.trisul.org](https://www.trisul.org)
- - date published: 2023-10-25T11:29:06.015532+00:00
- - user: None
- - tags: []
-
-## -
- - [https://triunetimes.org](https://triunetimes.org)
- - date published: 2023-11-08T16:17:48.474181+00:00
- - user: None
- - tags: []
-
-## Home Page
- - [https://www.trsearch.org](https://www.trsearch.org)
- - date published: 2023-10-27T12:07:10.556271+00:00
- - user: None
- - tags: []
-
-## News Home | Thomson Reuters Foundation News
- - [https://news.trust.org](https://news.trust.org)
- - date published: 2023-10-25T22:15:38.811272+00:00
- - user: None
- - tags: []
-
-## Truthout | Fearless Independent Journalism
- - [https://truthout.org](https://truthout.org)
- - date published: 2023-10-25T22:15:42.168983+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [http://tsoding.org](http://tsoding.org)
- - date published: 2023-10-25T22:15:43.791618+00:00
- - user: None
- - tags: []
-
-## Minnie's Home Page
- - [https://minnie.tuhs.org](https://minnie.tuhs.org)
- - date published: 2023-10-25T22:15:45.834689+00:00
- - user: None
- - tags: []
-
-## The Unix Heritage Society
- - [https://www.tuhs.org](https://www.tuhs.org)
- - date published: 2023-10-25T22:15:47.417509+00:00
- - user: None
- - tags: []
-
-## Homepage | Tulsa Library
- - [https://www.tulsalibrary.org](https://www.tulsalibrary.org)
- - date published: 2023-10-27T10:21:07.270897+00:00
- - user: None
- - tags: ['library']
-
-## TurboWarp Desktop - Better offline editor for Scratch 3
- - [https://desktop.turbowarp.org](https://desktop.turbowarp.org)
- - date published: 2023-10-25T22:15:48.691606+00:00
- - user: None
- - tags: []
-
-## TV Tropes
- - [https://tvtropes.org](https://tvtropes.org)
- - date published: 2023-10-25T22:15:56.479437+00:00
- - user: None
- - tags: []
-
-## Two-Bit History
- - [https://twobithistory.org](https://twobithistory.org)
- - date published: 2023-10-25T22:15:57.521416+00:00
- - user: None
- - tags: []
-
-## 2 Player Games - TwoPlayerGames.org
- - [https://www.twoplayergames.org](https://www.twoplayergames.org)
- - date published: 2023-10-25T11:18:34.239862+00:00
- - user: None
- - tags: []
-
-## TypeAPI
- - [https://typeapi.org](https://typeapi.org)
- - date published: 2023-10-25T22:15:58.228065+00:00
- - user: None
- - tags: []
-
-## JavaScript With Syntax For Types.
- - [https://www.typescriptlang.org](https://www.typescriptlang.org)
- - date published: 2023-10-30T13:48:03.524384+00:00
- - user: None
- - tags: ['javascript', 'typescript']
-
-## Typesense | Fast, typo-tolerant open source search engine
- - [https://typesense.org](https://typesense.org)
- - date published: 2023-10-25T22:15:59.784891+00:00
- - user: None
- - tags: []
-
-## Typewritten Software - Retrotechnology Research Laboratory
- - [http://www.typewritten.org](http://www.typewritten.org)
- - date published: 2023-10-25T22:16:01.583832+00:00
- - user: None
- - tags: []
-
-## Ubuntu MATE | For a retrospective future
- - [https://ubuntu-mate.org](https://ubuntu-mate.org)
- - date published: 2023-11-06T10:08:20.674734+00:00
- - user: None
- - tags: ['linux', 'operating system']
-
-## UCLA Health: Center for High Quality Health Care Services
- - [https://www.uclahealth.org](https://www.uclahealth.org)
- - date published: 2023-10-25T22:16:04.259788+00:00
- - user: None
- - tags: []
-
-## The Equation - Union of Concerned Scientists
- - [https://blog.ucsusa.org](https://blog.ucsusa.org)
- - date published: 2023-10-25T22:16:07.751665+00:00
- - user: None
- - tags: []
-
-## Ultibo.org – Make something amazing
- - [https://ultibo.org](https://ultibo.org)
- - date published: 2023-10-25T22:16:12.188671+00:00
- - user: None
- - tags: []
-
-## UN News | Global perspective Human stories
- - [https://news.un.org](https://news.un.org)
- - date published: 2023-10-25T22:16:15.307275+00:00
- - user: None
- - tags: []
-
-## Welcome to the United Nations
- - [https://www.un.org](https://www.un.org)
- - date published: 2023-10-25T22:16:21.032376+00:00
- - user: None
- - tags: []
-
-## 2023 Report - UNAIDS - Global Report 2023
- - [https://thepath.unaids.org](https://thepath.unaids.org)
- - date published: 2023-10-25T22:16:22.303503+00:00
- - user: None
- - tags: []
-
-## UNC Health & UNC School of Medicine Newsroom
- - [https://news.unchealthcare.org](https://news.unchealthcare.org)
- - date published: 2023-11-05T02:04:02.063047+00:00
- - user: None
- - tags: []
-
-## Undark Magazine | Truth, Beauty, Science.
- - [https://undark.org](https://undark.org)
- - date published: 2023-10-25T10:40:08.530856+00:00
- - user: None
- - tags: []
-
-## OpenBSD Journal: A resource for the OpenBSD community
- - [https://undeadly.org](https://undeadly.org)
- - date published: 2023-10-25T22:16:23.799423+00:00
- - user: None
- - tags: []
-
-## OpenBSD Journal: A resource for the OpenBSD community
- - [https://www.undeadly.org](https://www.undeadly.org)
- - date published: 2023-10-25T10:15:21.266043+00:00
- - user: None
- - tags: []
-
-## Understanding AI | Timothy B Lee | Substack
- - [https://www.understandingai.org](https://www.understandingai.org)
- - date published: 2023-10-25T22:16:26.229235+00:00
  - user: None
  - tags: []
 

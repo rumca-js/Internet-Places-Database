@@ -214,6 +214,12 @@
  - user: None
  - tags: []
 
+## A Light in the Woods
+ - [https://alightinthewoods.net](https://alightinthewoods.net)
+ - date published: 2023-11-25T10:37:47+00:00
+ - user: None
+ - tags: []
+
 ## Sort: Supercharged collaboration for your database
  - [https://sort.xyz.](https://sort.xyz.)
  - date published: 2023-11-01T23:07:07.991006+00:00
@@ -235,6 +241,12 @@
 ## Kt. Academy
  - [https://kt.academy](https://kt.academy)
  - date published: 2023-10-25T11:36:04.338918+00:00
+ - user: None
+ - tags: []
+
+## Wisdom In a Nutshell
+ - [https://wisdominanutshell.academy](https://wisdominanutshell.academy)
+ - date published: 2023-11-25T20:14:38.285477+00:00
  - user: None
  - tags: []
 
@@ -3881,6 +3893,12 @@
  - user: None
  - tags: []
 
+## GrUVi - Home
+ - [https://gruvi.cs.sfu.ca](https://gruvi.cs.sfu.ca)
+ - date published: 2023-11-25T18:10:18.335704+00:00
+ - user: None
+ - tags: []
+
 ## Simon Fraser University
  - [https://www.sfu.ca](https://www.sfu.ca)
  - date published: 2023-10-25T11:20:42.106068+00:00
@@ -4599,6 +4617,12 @@
 ## The Market – Analysen und Hintergründe aus der Wirtschaft
  - [https://themarket.ch](https://themarket.ch)
  - date published: 2023-10-25T12:14:47.125200+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Personalized Meal Plans to Suit Your Lifestyle
+ - [https://assistant.tnx-solutions.ch](https://assistant.tnx-solutions.ch)
+ - date published: 2023-11-25T15:09:20+00:00
  - user: None
  - tags: []
 
@@ -5712,6 +5736,12 @@
  - user: None
  - tags: []
 
+## Home - 10stripe
+ - [https://www.10stripe.com](https://www.10stripe.com)
+ - date published: 2023-11-25T15:08:59.015999+00:00
+ - user: None
+ - tags: []
+
 ## 10x Editor
  - [https://10xeditor.com](https://10xeditor.com)
  - date published: 2023-10-25T12:26:15.844440+00:00
@@ -5961,36 +5991,6 @@
 ## Outstatic - A Static Site CMS for Next.js
  - [https://Outstatic.com](https://Outstatic.com)
  - date published: 2023-10-25T12:28:34.794655+00:00
- - user: None
- - tags: []
-
-## Mercury – Build Data Web Apps in Jupyter Notebook – Mercury
- - [https://RunMercury.com](https://RunMercury.com)
- - date published: 2023-10-25T12:28:37.949408+00:00
- - user: None
- - tags: []
-
-## TED: Ideas Worth Spreading
- - [https://Ted.com](https://Ted.com)
- - date published: 2023-11-12T01:39:05.401960+00:00
- - user: None
- - tags: []
-
-## Desarrollador/Programador de aplicaciones web freelance en Chile. - a-chacon
- - [https://a-chacon.com](https://a-chacon.com)
- - date published: 2023-11-22T12:09:25.204194+00:00
- - user: None
- - tags: []
-
-## Andreessen Horowitz | Software Is Eating the World
- - [https://a16z.com](https://a16z.com)
- - date published: 2023-10-25T12:28:40.833485+00:00
- - user: None
- - tags: []
-
-## a16z crypto
- - [https://a16zcrypto.com](https://a16zcrypto.com)
- - date published: 2023-10-25T12:28:43.527947+00:00
  - user: None
  - tags: []
 

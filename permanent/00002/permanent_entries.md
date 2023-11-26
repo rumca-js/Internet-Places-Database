@@ -1,3 +1,51 @@
+## Careful Words
+ - [https://carefulwords.com](https://carefulwords.com)
+ - date published: 2023-10-25T13:18:12.352022+00:00
+ - user: None
+ - tags: []
+
+## CaribPress
+ - [http://www.caribpress.com](http://www.caribpress.com)
+ - date published: 2023-10-25T13:18:15.548543+00:00
+ - user: None
+ - tags: []
+
+## Carlin Eng
+ - [https://carlineng.com](https://carlineng.com)
+ - date published: 2023-10-25T13:18:18.659750+00:00
+ - user: None
+ - tags: []
+
+## Nicholas Carlini
+ - [https://nicholas.carlini.com](https://nicholas.carlini.com)
+ - date published: 2023-10-25T08:45:15.272588+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | CarlMultimedia
+ - [https://carlmultimedia.com](https://carlmultimedia.com)
+ - date published: 2023-10-25T13:18:20.191370+00:00
+ - user: None
+ - tags: []
+
+## carlos' site
+ - [https://carloslagoa.com](https://carloslagoa.com)
+ - date published: 2023-10-25T08:45:15.800384+00:00
+ - user: None
+ - tags: ['personal']
+
+## Carmelite Monks of Wyoming Gothic - Carmelite Gothic
+ - [https://carmelitegothic.com](https://carmelitegothic.com)
+ - date published: 2023-10-25T13:18:22.657357+00:00
+ - user: None
+ - tags: []
+
+## Carpe Ludum – Eidolon's Inn – World of M.U.L.E. – Great Games Society
+ - [https://www.carpeludum.com](https://www.carpeludum.com)
+ - date published: 2023-10-25T13:18:31.219503+00:00
+ - user: None
+ - tags: []
+
 ## Carscoops
  - [https://www.carscoops.com](https://www.carscoops.com)
  - date published: 2023-10-25T13:18:41.264654+00:00
@@ -3802,6 +3850,12 @@
  - user: None
  - tags: []
 
+## Funds
+ - [https://disciplinefunds.com](https://disciplinefunds.com)
+ - date published: 2023-11-25T23:11:03.290494+00:00
+ - user: None
+ - tags: []
+
 ## Discord Blog
  - [https://blog.discord.com](https://blog.discord.com)
  - date published: 2023-10-25T13:53:10.606484+00:00
@@ -4372,6 +4426,12 @@
  - date published: 2023-10-28T18:40:02.488315+00:00
  - user: None
  - tags: ['dj', 'music']
+
+## ds-security.com
+ - [https://ds-security.com](https://ds-security.com)
+ - date published: 2023-11-25T11:48:54.004989+00:00
+ - user: None
+ - tags: []
 
 ## DSF ANTIQUE JEWELRY
  - [https://dsfantiquejewelry.com](https://dsfantiquejewelry.com)
@@ -5195,6 +5255,12 @@
  - user: None
  - tags: []
 
+## Energy Capital & Power
+ - [https://energycapitalpower.com](https://energycapitalpower.com)
+ - date published: 2023-11-25T06:54:41.624265+00:00
+ - user: None
+ - tags: []
+
 ## Engadget is part of the Yahoo family of brands
  - [https://www.engadget.com](https://www.engadget.com)
  - date published: 2023-10-25T14:07:17.718893+00:00
@@ -5930,72 +5996,6 @@
 ## Fahhem's Blog – An intermittent post of thoughts
  - [https://blog.fahhem.com](https://blog.fahhem.com)
  - date published: 2023-10-25T14:25:15.100147+00:00
- - user: None
- - tags: []
-
-## Failory: The All-In-One Newsletter for Startup Founders
- - [https://www.failory.com](https://www.failory.com)
- - date published: 2023-10-25T14:25:23.321780+00:00
- - user: None
- - tags: []
-
-## Animated Drawings
- - [https://fairanimateddrawings.com](https://fairanimateddrawings.com)
- - date published: 2023-10-25T14:25:29.577976+00:00
- - user: None
- - tags: []
-
-## Broadband Providers Near You - Find ISPs In Your Area
- - [https://fairinternetreport.com](https://fairinternetreport.com)
- - date published: 2023-10-25T14:25:30.921219+00:00
- - user: None
- - tags: []
-
-## Fairphone Shop | Fairphone
- - [https://shop.fairphone.com](https://shop.fairphone.com)
- - date published: 2023-10-25T09:07:38.743517+00:00
- - user: None
- - tags: []
-
-## Fairphone | The phone that cares for people and planet
- - [https://www.fairphone.com](https://www.fairphone.com)
- - date published: 2023-11-09T14:01:46.526866+00:00
- - user: None
- - tags: ['fairphone', 'right to repair', 'smartphone']
-
-## Fake Hacker News
- - [https://www.fakehn.com](https://www.fakehn.com)
- - date published: 2023-10-25T14:25:32.248736+00:00
- - user: None
- - tags: []
-
-## Fakespot | Analyze and identify fake reviews and counterfeits
- - [https://www.fakespot.com](https://www.fakespot.com)
- - date published: 2023-10-25T14:25:35.865530+00:00
- - user: None
- - tags: []
-
-## Falltide | Dmitry Fadeyev | Substack
- - [https://www.falltide.com](https://www.falltide.com)
- - date published: 2023-10-25T14:25:39.321883+00:00
- - user: None
- - tags: []
-
-## Family Echo - Free Online Family Tree Maker
- - [https://www.familyecho.com](https://www.familyecho.com)
- - date published: 2023-10-25T14:25:48.666891+00:00
- - user: None
- - tags: []
-
-## Fanbyte - FFXIV & Destiny 2 Guides, Tools, & More
- - [https://www.fanbyte.com](https://www.fanbyte.com)
- - date published: 2023-10-25T14:26:24.636690+00:00
- - user: None
- - tags: []
-
-## Fancy Parking
- - [http://www.fancyparking.com](http://www.fancyparking.com)
- - date published: 2023-10-25T14:26:26.001762+00:00
  - user: None
  - tags: []
 

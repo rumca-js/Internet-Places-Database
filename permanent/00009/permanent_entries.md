@@ -1,3 +1,166 @@
+## samwho
+ - [https://samwho.dev](https://samwho.dev)
+ - date published: 2023-10-25T18:41:32.864182+00:00
+ - user: None
+ - tags: []
+
+## Home | sancho.dev
+ - [https://sancho.dev](https://sancho.dev)
+ - date published: 2023-10-25T18:41:38.810711+00:00
+ - user: None
+ - tags: []
+
+## Sandworm
+ - [https://blog.sandworm.dev](https://blog.sandworm.dev)
+ - date published: 2023-10-25T18:41:45.058959+00:00
+ - user: None
+ - tags: []
+
+## the scapegoat dev
+ - [https://the.scapegoat.dev](https://the.scapegoat.dev)
+ - date published: 2023-10-25T18:41:46.416695+00:00
+ - user: None
+ - tags: []
+
+## Sebastien Castiel · Developer, writer, indie hacker · 📍 Montreal, QC
+ - [https://scastiel.dev](https://scastiel.dev)
+ - date published: 2023-10-25T18:41:47.971907+00:00
+ - user: None
+ - tags: []
+
+## Seán Barry
+ - [https://seanbarry.dev](https://seanbarry.dev)
+ - date published: 2023-10-25T18:41:53.898962+00:00
+ - user: None
+ - tags: []
+
+## Sematic – The open-source ML orchestrator loved by ML teams
+ - [https://www.sematic.dev](https://www.sematic.dev)
+ - date published: 2023-10-25T18:41:55.378126+00:00
+ - user: None
+ - tags: []
+
+## Serverpod – The Flutter Backend
+ - [https://serverpod.dev](https://serverpod.dev)
+ - date published: 2023-10-25T18:41:56.717809+00:00
+ - user: None
+ - tags: []
+
+## Home | servicer
+ - [https://servicer.dev](https://servicer.dev)
+ - date published: 2023-10-25T18:41:57.960885+00:00
+ - user: None
+ - tags: []
+
+## Seth Michael Larson — Python, open source, and the internet
+ - [https://sethmlarson.dev](https://sethmlarson.dev)
+ - date published: 2023-10-25T08:48:58.444338+00:00
+ - user: None
+ - tags: ['personal']
+
+## ShiftMag
+ - [https://shiftmag.dev](https://shiftmag.dev)
+ - date published: 2023-11-11T21:40:32.425246+00:00
+ - user: None
+ - tags: []
+
+## Sideko
+ - [https://hacker-news.sideko.dev](https://hacker-news.sideko.dev)
+ - date published: 2023-10-25T18:42:00.575012+00:00
+ - user: None
+ - tags: []
+
+## Sigstore Blog - Sigstore Blog
+ - [https://blog.sigstore.dev](https://blog.sigstore.dev)
+ - date published: 2023-10-25T18:42:02.108244+00:00
+ - user: None
+ - tags: []
+
+## Simon Aronsson
+ - [https://simme.dev](https://simme.dev)
+ - date published: 2023-10-25T08:58:52.820047+00:00
+ - user: None
+ - tags: ['personal']
+
+## slama.dev
+ - [https://slama.dev](https://slama.dev)
+ - date published: 2023-10-25T08:58:54.013566+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home — Isaac Clayton
+ - [https://slightknack.dev](https://slightknack.dev)
+ - date published: 2023-10-25T08:48:59.054260+00:00
+ - user: None
+ - tags: ['personal']
+
+## Slint |
+            Declarative GUI for Rust, C++ & JavaScript
+ - [https://slint.dev](https://slint.dev)
+ - date published: 2023-10-25T18:42:03.965621+00:00
+ - user: None
+ - tags: []
+
+## Socket - Secure your supply chain. Ship with confidence.
+ - [https://socket.dev](https://socket.dev)
+ - date published: 2023-10-25T18:42:09.401241+00:00
+ - user: None
+ - tags: []
+
+## Software at Scale | Utsav Shah | Substack
+ - [https://www.softwareatscale.dev](https://www.softwareatscale.dev)
+ - date published: 2023-10-25T18:42:13.034114+00:00
+ - user: None
+ - tags: []
+
+## Out of the Software Crisis: The Newsletter
+ - [https://softwarecrisis.dev](https://softwarecrisis.dev)
+ - date published: 2023-10-25T18:42:14.589232+00:00
+ - user: None
+ - tags: []
+
+## Spaghettify🍝
+ - [https://www.spaghettify.dev](https://www.spaghettify.dev)
+ - date published: 2023-10-25T18:42:15.749345+00:00
+ - user: None
+ - tags: []
+
+## The Spicy Web: Vanilla has never tasted so hot.
+ - [https://www.spicyweb.dev](https://www.spicyweb.dev)
+ - date published: 2023-10-25T18:42:22.583492+00:00
+ - user: None
+ - tags: []
+
+## Live dashboard of Stripe systems during Black Friday
+ - [https://bfcm.stripe.dev](https://bfcm.stripe.dev)
+ - date published: 2023-11-24T12:13:21+00:00
+ - user: None
+ - tags: []
+
+## surma.dev
+ - [https://surma.dev](https://surma.dev)
+ - date published: 2023-10-25T18:42:23.561265+00:00
+ - user: None
+ - tags: ['personal']
+
+## Svelte • Cybernetically enhanced web apps
+ - [https://svelte.dev](https://svelte.dev)
+ - date published: 2023-10-25T18:42:29.946623+00:00
+ - user: None
+ - tags: []
+
+## Sweep: AI-powered junior dev
+ - [https://docs.sweep.dev](https://docs.sweep.dev)
+ - date published: 2023-10-25T18:42:31.067579+00:00
+ - user: None
+ - tags: []
+
+## Tabserve - A HTTPS URL for localhost using just your browser
+ - [https://tabserve.dev](https://tabserve.dev)
+ - date published: 2023-10-25T18:42:31.690445+00:00
+ - user: None
+ - tags: []
+
 ## Tailscale Community
  - [https://tailscale.dev](https://tailscale.dev)
  - date published: 2023-10-25T18:42:33.180270+00:00
@@ -1304,6 +1467,12 @@
 ## Fab Central
  - [https://fab.cba.mit.edu](https://fab.cba.mit.edu)
  - date published: 2023-10-25T18:53:54.780890+00:00
+ - user: None
+ - tags: []
+
+## Research | MIT CSAIL
+ - [https://groups.csail.mit.edu](https://groups.csail.mit.edu)
+ - date published: 2023-11-25T21:49:19.475927+00:00
  - user: None
  - tags: []
 
@@ -4547,6 +4716,12 @@
  - user: None
  - tags: []
 
+## Congressional Budget Office
+ - [https://www.cbo.gov](https://www.cbo.gov)
+ - date published: 2023-11-25T17:09:06.156821+00:00
+ - user: None
+ - tags: []
+
 ## Centers for Disease Control and Prevention
  - [https://www.cdc.gov](https://www.cdc.gov)
  - date published: 2023-10-25T19:18:20.513066+00:00
@@ -5832,181 +6007,6 @@
 ## Home - Writing.ie
  - [https://www.writing.ie](https://www.writing.ie)
  - date published: 2023-11-20T17:24:19.164149+00:00
- - user: None
- - tags: []
-
-## Jerusalem Journal of Archaeology
- - [https://jjar.huji.ac.il](https://jjar.huji.ac.il)
- - date published: 2023-10-25T19:29:26.869067+00:00
- - user: None
- - tags: []
-
-## Tel Aviv University | Tel Aviv University
- - [https://english.tau.ac.il](https://english.tau.ac.il)
- - date published: 2023-10-25T19:29:32.967224+00:00
- - user: None
- - tags: []
-
-## Weizmann Wonder Wander - News, Features and Discoveries from the Weizmann Institute of Science
- - [https://wis-wander.weizmann.ac.il](https://wis-wander.weizmann.ac.il)
- - date published: 2023-10-25T10:11:36.340185+00:00
- - user: None
- - tags: []
-
-## דף הבית - ערן שטרן
- - [https://www.eranstern.co.il](https://www.eranstern.co.il)
- - date published: 2023-11-17T15:06:30+00:00
- - user: rumpel
- - tags: ['personal']
-
-## Israel Today - News & Commentary. Stay Informed, Pray Informed.
- - [https://www.israeltoday.co.il](https://www.israeltoday.co.il)
- - date published: 2023-11-09T09:15:33.642354+00:00
- - user: None
- - tags: ['israel news']
-
-## Teaching Python and data science around the world
- - [https://lerner.co.il](https://lerner.co.il)
- - date published: 2023-10-27T11:57:12.193154+00:00
- - user: None
- - tags: []
-
-## https://www.idf.il
- - [https://www.idf.il](https://www.idf.il)
- - date published: 2023-11-13T20:52:27.483837+00:00
- - user: None
- - tags: []
-
-## Homepage - Steven Spielberg
- - [https://www.spielbergfilmarchive.org.il](https://www.spielbergfilmarchive.org.il)
- - date published: 2023-11-13T12:53:02.637342+00:00
- - user: None
- - tags: []
-
-## Avinash Sajjanshetty
- - [https://avi.im](https://avi.im)
- - date published: 2023-10-25T19:29:34.523543+00:00
- - user: None
- - tags: []
-
-## Lachlan Gray
- - [https://lachlangray.blot.im](https://lachlangray.blot.im)
- - date published: 2023-10-25T19:29:36.419354+00:00
- - user: None
- - tags: []
-
-## Chitchatter
- - [https://chitchatter.im](https://chitchatter.im)
- - date published: 2023-10-25T19:29:37.689121+00:00
- - user: None
- - tags: []
-
-## Dino. Communicating happiness.
- - [https://dino.im](https://dino.im)
- - date published: 2023-10-25T19:29:39.810980+00:00
- - user: None
- - tags: []
-
-## Embed.im
- - [https://embed.im](https://embed.im)
- - date published: 2023-10-25T19:29:47.571380+00:00
- - user: None
- - tags: []
-
-## frantic.im / frantic.im
- - [https://frantic.im](https://frantic.im)
- - date published: 2023-10-25T19:29:49.742667+00:00
- - user: None
- - tags: []
-
-## Deciphering Glyph ::
-        index
- - [https://blog.glyph.im](https://blog.glyph.im)
- - date published: 2023-10-25T19:29:54.630525+00:00
- - user: None
- - tags: []
-
-## Mooshim Engineering
- - [https://moosh.im](https://moosh.im)
- - date published: 2023-10-25T19:29:57.502606+00:00
- - user: None
- - tags: []
-
-## ObjFW: Documentation
- - [https://objfw.nil.im](https://objfw.nil.im)
- - date published: 2023-10-25T19:29:58.635208+00:00
- - user: None
- - tags: []
-
-## Phoenix R&D
- - [https://blog.phnx.im](https://blog.phnx.im)
- - date published: 2023-10-25T19:29:59.443505+00:00
- - user: None
- - tags: []
-
-## Prosodical Thoughts
- - [https://blog.prosody.im](https://blog.prosody.im)
- - date published: 2023-10-25T19:30:00.308281+00:00
- - user: None
- - tags: []
-
-## Peter Saint-Andre
- - [https://stpeter.im](https://stpeter.im)
- - date published: 2023-11-15T17:36:31.286138+00:00
- - user: None
- - tags: ['personal', 'blog']
-
-## The Fomu family. | I’m Tomu - A tiny ARM microprocessor which fits in your USB port.
- - [https://tomu.im](https://tomu.im)
- - date published: 2023-10-25T19:30:01.768356+00:00
- - user: None
- - tags: []
-
-## Eat Right India
- - [https://eatrightindia.gov.in](https://eatrightindia.gov.in)
- - date published: 2023-10-25T19:30:07.569497+00:00
- - user: None
- - tags: []
-
-## Indian Space Research Organisation
- - [https://www.isro.gov.in](https://www.isro.gov.in)
- - date published: 2023-10-25T19:30:10.700192+00:00
- - user: None
- - tags: []
-
-## Home - Alt News
- - [https://www.altnews.in](https://www.altnews.in)
- - date published: 2023-10-25T19:30:16.172518+00:00
- - user: None
- - tags: []
-
-## Anantha Kumaran · random thoughts
- - [https://ananthakumaran.in](https://ananthakumaran.in)
- - date published: 2023-10-25T19:30:18.627825+00:00
- - user: None
- - tags: []
-
-## bitspook's online home
- - [https://bitspook.in](https://bitspook.in)
- - date published: 2023-10-25T19:30:19.995909+00:00
- - user: None
- - tags: []
-
-## Business News - Read Latest Startup, Tech, Markets, Finance, Science News - Business Insider India
- - [https://www.businessinsider.in](https://www.businessinsider.in)
- - date published: 2023-10-25T10:58:21.187120+00:00
- - user: None
- - tags: []
-
-## Business News India: Latest Business News Today, Share Market, Economy
- - [https://www.businesstoday.in](https://www.businesstoday.in)
- - date published: 2023-10-25T19:30:33.199366+00:00
- - user: None
- - tags: []
-
-## Capitalmind - Better Investing
- - [https://www.capitalmind.in](https://www.capitalmind.in)
- - date published: 2023-10-25T19:30:36.892364+00:00
  - user: None
  - tags: []
 

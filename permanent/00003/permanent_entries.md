@@ -1,3 +1,69 @@
+## Animated Drawings
+ - [https://fairanimateddrawings.com](https://fairanimateddrawings.com)
+ - date published: 2023-10-25T14:25:29.577976+00:00
+ - user: None
+ - tags: []
+
+## Broadband Providers Near You - Find ISPs In Your Area
+ - [https://fairinternetreport.com](https://fairinternetreport.com)
+ - date published: 2023-10-25T14:25:30.921219+00:00
+ - user: None
+ - tags: []
+
+## Fairphone Shop | Fairphone
+ - [https://shop.fairphone.com](https://shop.fairphone.com)
+ - date published: 2023-10-25T09:07:38.743517+00:00
+ - user: None
+ - tags: []
+
+## Fairphone | The phone that cares for people and planet
+ - [https://www.fairphone.com](https://www.fairphone.com)
+ - date published: 2023-11-09T14:01:46.526866+00:00
+ - user: None
+ - tags: ['fairphone', 'right to repair', 'smartphone']
+
+## Fake Hacker News
+ - [https://www.fakehn.com](https://www.fakehn.com)
+ - date published: 2023-10-25T14:25:32.248736+00:00
+ - user: None
+ - tags: []
+
+## Fakespot | Analyze and identify fake reviews and counterfeits
+ - [https://www.fakespot.com](https://www.fakespot.com)
+ - date published: 2023-10-25T14:25:35.865530+00:00
+ - user: None
+ - tags: []
+
+## Falltide | Dmitry Fadeyev | Substack
+ - [https://www.falltide.com](https://www.falltide.com)
+ - date published: 2023-10-25T14:25:39.321883+00:00
+ - user: None
+ - tags: []
+
+## Family Echo - Free Online Family Tree Maker
+ - [https://www.familyecho.com](https://www.familyecho.com)
+ - date published: 2023-10-25T14:25:48.666891+00:00
+ - user: None
+ - tags: []
+
+## Fanbyte - FFXIV & Destiny 2 Guides, Tools, & More
+ - [https://www.fanbyte.com](https://www.fanbyte.com)
+ - date published: 2023-10-25T14:26:24.636690+00:00
+ - user: None
+ - tags: []
+
+## Fancy Parking
+ - [http://www.fancyparking.com](http://www.fancyparking.com)
+ - date published: 2023-10-25T14:26:26.001762+00:00
+ - user: None
+ - tags: []
+
+## Aesthetics Wiki | Fandom
+ - [https://aesthetics.fandom.com](https://aesthetics.fandom.com)
+ - date published: 2023-10-25T14:02:12.812837+00:00
+ - user: None
+ - tags: []
+
 ## Asheron's Call Community Wiki | Fandom
  - [https://asheron.fandom.com](https://asheron.fandom.com)
  - date published: 2023-10-25T14:26:33.789628+00:00
@@ -4136,6 +4202,12 @@
  - user: None
  - tags: ['personal']
 
+## HILOBROW – Josh Glenn, ed.
+ - [https://www.hilobrow.com](https://www.hilobrow.com)
+ - date published: 2023-11-25T18:10:06.316995+00:00
+ - user: None
+ - tags: ['science fiction', 'personal', 'books', 'blog', 'scifi']
+
 ## Hindenburg Research – Investigative Research & Reporting
  - [https://hindenburgresearch.com](https://hindenburgresearch.com)
  - date published: 2023-10-25T14:59:22.875020+00:00
@@ -5923,76 +5995,4 @@
  - date published: 2023-10-25T08:46:13.389369+00:00
  - user: None
  - tags: ['personal']
-
-## Meet the Moonlight
- - [https://jackjohnsonmusic.com](https://jackjohnsonmusic.com)
- - date published: 2023-11-13T09:54:17.278111+00:00
- - user: None
- - tags: ['music band']
-
-## jacksonprogress-argus.com
- - [https://www.jacksonprogress-argus.com](https://www.jacksonprogress-argus.com)
- - date published: 2023-11-11T07:53:49.320058+00:00
- - user: None
- - tags: []
-
-## Jacob Does Code
- - [https://jacobdoescode.com](https://jacobdoescode.com)
- - date published: 2023-10-25T08:46:14.075308+00:00
- - user: None
- - tags: ['personal']
-
-## Jacobin
- - [https://jacobin.com](https://jacobin.com)
- - date published: 2023-10-25T15:25:36.036572+00:00
- - user: None
- - tags: []
-
-## Jacob Martin
- - [https://jacobmartins.com](https://jacobmartins.com)
- - date published: 2023-10-25T15:25:38.116032+00:00
- - user: None
- - tags: []
-
-## jacobsalmela (Jacob Salmela) · GitHub
- - [https://jacobsalmela.com](https://jacobsalmela.com)
- - date published: 2023-10-25T15:25:42.767357+00:00
- - user: None
- - tags: []
-
-## Jacob Stoner
- - [https://blog.jacobstoner.com](https://blog.jacobstoner.com)
- - date published: 2023-10-25T15:25:43.930450+00:00
- - user: None
- - tags: []
-
-## Jacques Mattheij
- - [https://jacquesmattheij.com](https://jacquesmattheij.com)
- - date published: 2023-10-25T15:25:49.543836+00:00
- - user: None
- - tags: []
-
-## Jailbreak Chat
- - [https://www.jailbreakchat.com](https://www.jailbreakchat.com)
- - date published: 2023-10-25T15:25:49.907916+00:00
- - user: None
- - tags: []
-
-## Jain | The Fool | Official Website
- - [https://www.jain-music.com](https://www.jain-music.com)
- - date published: 2023-11-13T09:51:26.066975+00:00
- - user: None
- - tags: ['music band']
-
-## Blog - JakeArchibald.com
- - [https://jakearchibald.com](https://jakearchibald.com)
- - date published: 2023-10-25T15:25:50.778011+00:00
- - user: None
- - tags: []
-
-## Jake Coppinger
- - [https://jakecoppinger.com](https://jakecoppinger.com)
- - date published: 2023-10-25T15:25:55.918940+00:00
- - user: None
- - tags: []
 

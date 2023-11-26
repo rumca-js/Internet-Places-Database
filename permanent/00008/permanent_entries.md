@@ -1,3 +1,135 @@
+## Home | Vancouver Sun
+ - [https://vancouversun.com](https://vancouversun.com)
+ - date published: 2023-10-25T17:55:12.378780+00:00
+ - user: None
+ - tags: []
+
+## The Vanderbilt Hustler - The official student newspaper of Vanderbilt University
+ - [https://vanderbilthustler.com](https://vanderbilthustler.com)
+ - date published: 2023-10-25T17:55:16.964948+00:00
+ - user: None
+ - tags: []
+
+## Mutual funds, IRAs, ETFs, 401(k) plans, and more | Vanguard
+ - [https://vanguard.com](https://vanguard.com)
+ - date published: 2023-10-25T16:15:21.429996+00:00
+ - user: None
+ - tags: []
+
+## index
+ - [https://vanhunteradams.com](https://vanhunteradams.com)
+ - date published: 2023-10-25T17:55:19.369824+00:00
+ - user: None
+ - tags: []
+
+## The Vanilla JS Toolkit
+ - [https://vanillajstoolkit.com](https://vanillajstoolkit.com)
+ - date published: 2023-10-25T17:55:20.883096+00:00
+ - user: None
+ - tags: []
+
+## Vanity Fair -  Entertainment, Politics, and Fashion News | Vanity Fair
+ - [https://www.vanityfair.com](https://www.vanityfair.com)
+ - date published: 2023-10-25T17:55:24.038496+00:00
+ - user: None
+ - tags: []
+
+## Vanity Notes - A blog about programming and socialism
+ - [https://vanitynotes.com](https://vanitynotes.com)
+ - date published: 2023-10-25T17:55:29.596861+00:00
+ - user: None
+ - tags: []
+
+## Share your universe with our observation stations
+ - [https://vaonis.com](https://vaonis.com)
+ - date published: 2023-10-25T17:55:32.901924+00:00
+ - user: None
+ - tags: []
+
+## VapourSynth | The future home of VapourSynth… 3000!
+ - [https://www.vapoursynth.com](https://www.vapoursynth.com)
+ - date published: 2023-10-25T14:01:23.313974+00:00
+ - user: None
+ - tags: []
+
+## Variety
+ - [https://variety.com](https://variety.com)
+ - date published: 2023-10-25T10:17:55.128799+00:00
+ - user: None
+ - tags: []
+
+## Brian Whitman
+ - [https://notes.variogram.com](https://notes.variogram.com)
+ - date published: 2023-10-25T17:55:33.688023+00:00
+ - user: None
+ - tags: []
+
+## Fossil freedom - Vattenfall
+ - [https://group.vattenfall.com](https://group.vattenfall.com)
+ - date published: 2023-10-25T17:55:35.303824+00:00
+ - user: None
+ - tags: []
+
+## The Trusted GenAI Product Platform for Product Builders
+ - [https://vectara.com](https://vectara.com)
+ - date published: 2023-10-25T17:55:37.945868+00:00
+ - user: None
+ - tags: []
+
+## Vectary - Build interactive 3D and AR solutions online
+ - [https://www.vectary.com](https://www.vectary.com)
+ - date published: 2023-10-27T10:19:22.992988+00:00
+ - user: None
+ - tags: ['virtual reality', '3d printing', 'augmented reality']
+
+## Vectis IP Ltd - Building IP Solutions  for the Future
+ - [https://www.vectis.com](https://www.vectis.com)
+ - date published: 2023-10-25T17:55:40.842745+00:00
+ - user: None
+ - tags: []
+
+## VectorLogic
+ - [https://www.vector-logic.com](https://www.vector-logic.com)
+ - date published: 2023-10-25T17:55:41.709495+00:00
+ - user: None
+ - tags: []
+
+## Latest News - vegconomist - the vegan business magazine
+ - [https://vegconomist.com](https://vegconomist.com)
+ - date published: 2023-10-25T17:55:45.760592+00:00
+ - user: None
+ - tags: []
+
+## Veilid
+ - [https://veilid.com](https://veilid.com)
+ - date published: 2023-10-25T17:55:46.235167+00:00
+ - user: None
+ - tags: []
+
+## Vendr: The Software Procurement & SaaS Management Platform
+ - [https://www.vendr.com](https://www.vendr.com)
+ - date published: 2023-10-25T17:55:48.039196+00:00
+ - user: None
+ - tags: []
+
+## VentureBeat | Transformative tech coverage that matters
+ - [https://venturebeat.com](https://venturebeat.com)
+ - date published: 2023-10-25T09:36:34.376824+00:00
+ - user: None
+ - tags: []
+
+## http://www.veonid.com
+ - [http://www.veonid.com](http://www.veonid.com)
+ - date published: 2023-10-25T17:55:48.467693+00:00
+ - user: None
+ - tags: []
+
+## VERA Version Control Systems
+ - [https://vcs.vera-visions.com](https://vcs.vera-visions.com)
+ - date published: 2023-11-12T12:21:17.875383+00:00
+ - user: None
+ - tags: []
+
 ## Vercel: Build and deploy the best Web experiences with The Frontend Cloud
  - [https://vercel.com](https://vercel.com)
  - date published: 2023-10-25T17:55:50.277514+00:00
@@ -815,6 +947,12 @@
  - user: None
  - tags: []
 
+## WECT TV6: News and Weather for Wilmington, NC
+ - [https://www.wect.com](https://www.wect.com)
+ - date published: 2023-11-25T16:19:11.290714+00:00
+ - user: None
+ - tags: ['new hanover', 'columbus', 'bladen', 'brunswick', 'pender', 'news']
+
 ## the grillo-marxuach experimental design bureau - Home
  - [https://okbjgm.weebly.com](https://okbjgm.weebly.com)
  - date published: 2023-10-25T18:01:31.000422+00:00
@@ -1502,6 +1640,12 @@
 ## Implement DNS in a weekend
  - [https://implement-dns.wizardzines.com](https://implement-dns.wizardzines.com)
  - date published: 2023-10-25T18:08:06.154837+00:00
+ - user: None
+ - tags: []
+
+## wizard zines
+ - [https://wizardzines.com](https://wizardzines.com)
+ - date published: 2023-11-25T03:59:34.755914+00:00
  - user: None
  - tags: []
 
@@ -3786,6 +3930,12 @@ home
  - user: None
  - tags: []
 
+## midzers Flimmerkiste
+ - [https://midzer.de](https://midzer.de)
+ - date published: 2023-11-25T18:10:15.516048+00:00
+ - user: None
+ - tags: ['personal']
+
 ## minus' blog
  - [https://blog.mnus.de](https://blog.mnus.de)
  - date published: 2023-10-25T18:32:10.479952+00:00
@@ -4059,6 +4209,12 @@ home
 ## Heidelberg University EN
  - [https://www.uni-heidelberg.de](https://www.uni-heidelberg.de)
  - date published: 2023-10-25T11:22:07.189480+00:00
+ - user: None
+ - tags: []
+
+## Exzellenzwettbewerb | Forschen | Universität Konstanz
+ - [https://www.exc.uni-konstanz.de](https://www.exc.uni-konstanz.de)
+ - date published: 2023-11-25T11:44:21.122864+00:00
  - user: None
  - tags: []
 
@@ -5623,6 +5779,12 @@ home
  - user: None
  - tags: []
 
+## Animotion – a visual CSS animation app
+ - [https://cssanimotion.pages.dev](https://cssanimotion.pages.dev)
+ - date published: 2023-11-24T11:16:25+00:00
+ - user: None
+ - tags: []
+
 ## Indeed Job Scam
  - [https://indeedjobscam.pages.dev](https://indeedjobscam.pages.dev)
  - date published: 2023-10-25T18:40:43.826797+00:00
@@ -5833,167 +5995,4 @@ home
  - date published: 2023-10-25T08:58:50.191072+00:00
  - user: None
  - tags: ['personal']
-
-## Ryan Mulligan
- - [https://ryanmulligan.dev](https://ryanmulligan.dev)
- - date published: 2023-10-25T08:58:51.816182+00:00
- - user: None
- - tags: ['personal']
-
-## samwho
- - [https://samwho.dev](https://samwho.dev)
- - date published: 2023-10-25T18:41:32.864182+00:00
- - user: None
- - tags: []
-
-## Home | sancho.dev
- - [https://sancho.dev](https://sancho.dev)
- - date published: 2023-10-25T18:41:38.810711+00:00
- - user: None
- - tags: []
-
-## Sandworm
- - [https://blog.sandworm.dev](https://blog.sandworm.dev)
- - date published: 2023-10-25T18:41:45.058959+00:00
- - user: None
- - tags: []
-
-## the scapegoat dev
- - [https://the.scapegoat.dev](https://the.scapegoat.dev)
- - date published: 2023-10-25T18:41:46.416695+00:00
- - user: None
- - tags: []
-
-## Sebastien Castiel · Developer, writer, indie hacker · 📍 Montreal, QC
- - [https://scastiel.dev](https://scastiel.dev)
- - date published: 2023-10-25T18:41:47.971907+00:00
- - user: None
- - tags: []
-
-## Seán Barry
- - [https://seanbarry.dev](https://seanbarry.dev)
- - date published: 2023-10-25T18:41:53.898962+00:00
- - user: None
- - tags: []
-
-## Sematic – The open-source ML orchestrator loved by ML teams
- - [https://www.sematic.dev](https://www.sematic.dev)
- - date published: 2023-10-25T18:41:55.378126+00:00
- - user: None
- - tags: []
-
-## Serverpod – The Flutter Backend
- - [https://serverpod.dev](https://serverpod.dev)
- - date published: 2023-10-25T18:41:56.717809+00:00
- - user: None
- - tags: []
-
-## Home | servicer
- - [https://servicer.dev](https://servicer.dev)
- - date published: 2023-10-25T18:41:57.960885+00:00
- - user: None
- - tags: []
-
-## Seth Michael Larson — Python, open source, and the internet
- - [https://sethmlarson.dev](https://sethmlarson.dev)
- - date published: 2023-10-25T08:48:58.444338+00:00
- - user: None
- - tags: ['personal']
-
-## ShiftMag
- - [https://shiftmag.dev](https://shiftmag.dev)
- - date published: 2023-11-11T21:40:32.425246+00:00
- - user: None
- - tags: []
-
-## Sideko
- - [https://hacker-news.sideko.dev](https://hacker-news.sideko.dev)
- - date published: 2023-10-25T18:42:00.575012+00:00
- - user: None
- - tags: []
-
-## Sigstore Blog - Sigstore Blog
- - [https://blog.sigstore.dev](https://blog.sigstore.dev)
- - date published: 2023-10-25T18:42:02.108244+00:00
- - user: None
- - tags: []
-
-## Simon Aronsson
- - [https://simme.dev](https://simme.dev)
- - date published: 2023-10-25T08:58:52.820047+00:00
- - user: None
- - tags: ['personal']
-
-## slama.dev
- - [https://slama.dev](https://slama.dev)
- - date published: 2023-10-25T08:58:54.013566+00:00
- - user: None
- - tags: ['personal']
-
-## Home — Isaac Clayton
- - [https://slightknack.dev](https://slightknack.dev)
- - date published: 2023-10-25T08:48:59.054260+00:00
- - user: None
- - tags: ['personal']
-
-## Slint |
-            Declarative GUI for Rust, C++ & JavaScript
- - [https://slint.dev](https://slint.dev)
- - date published: 2023-10-25T18:42:03.965621+00:00
- - user: None
- - tags: []
-
-## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date published: 2023-10-25T18:42:09.401241+00:00
- - user: None
- - tags: []
-
-## Software at Scale | Utsav Shah | Substack
- - [https://www.softwareatscale.dev](https://www.softwareatscale.dev)
- - date published: 2023-10-25T18:42:13.034114+00:00
- - user: None
- - tags: []
-
-## Out of the Software Crisis: The Newsletter
- - [https://softwarecrisis.dev](https://softwarecrisis.dev)
- - date published: 2023-10-25T18:42:14.589232+00:00
- - user: None
- - tags: []
-
-## Spaghettify🍝
- - [https://www.spaghettify.dev](https://www.spaghettify.dev)
- - date published: 2023-10-25T18:42:15.749345+00:00
- - user: None
- - tags: []
-
-## The Spicy Web: Vanilla has never tasted so hot.
- - [https://www.spicyweb.dev](https://www.spicyweb.dev)
- - date published: 2023-10-25T18:42:22.583492+00:00
- - user: None
- - tags: []
-
-## Live dashboard of Stripe systems during Black Friday
- - [https://bfcm.stripe.dev](https://bfcm.stripe.dev)
- - date published: 2023-11-24T12:13:21+00:00
- - user: None
- - tags: []
-
-## surma.dev
- - [https://surma.dev](https://surma.dev)
- - date published: 2023-10-25T18:42:23.561265+00:00
- - user: None
- - tags: ['personal']
-
-## Svelte • Cybernetically enhanced web apps
- - [https://svelte.dev](https://svelte.dev)
- - date published: 2023-10-25T18:42:29.946623+00:00
- - user: None
- - tags: []
-
-## Sweep: AI-powered junior dev
- - [https://docs.sweep.dev](https://docs.sweep.dev)
- - date published: 2023-10-25T18:42:31.067579+00:00
- - user: None
- - tags: []
 

@@ -1,3 +1,261 @@
+## Apple World Today
+ - [https://appleworld.today](https://appleworld.today)
+ - date published: 2023-10-25T09:38:28.510492+00:00
+ - user: None
+ - tags: []
+
+## Epochalypse
+ - [https://www.epochalypse.today](https://www.epochalypse.today)
+ - date published: 2023-10-25T22:46:27.669965+00:00
+ - user: None
+ - tags: []
+
+## Evgenii Burmakin
+ - [https://frey.today](https://frey.today)
+ - date published: 2023-11-17T15:04:30+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## Phạm Đức Huy
+ - [https://huy.today](https://huy.today)
+ - date published: 2023-10-25T08:57:13.547312+00:00
+ - user: None
+ - tags: ['personal']
+
+## Current Mood? | How are you feeling today?
+ - [https://mymood.today](https://mymood.today)
+ - date published: 2023-10-25T22:46:33.039028+00:00
+ - user: None
+ - tags: []
+
+## The Nexus Of Privacy
+ - [https://privacy.thenexus.today](https://privacy.thenexus.today)
+ - date published: 2023-10-25T22:46:37.019688+00:00
+ - user: None
+ - tags: []
+
+## BGP.Tools
+ - [https://bgp.tools](https://bgp.tools)
+ - date published: 2023-10-25T22:46:38.621507+00:00
+ - user: None
+ - tags: []
+
+## Chatwith
+ - [https://chatwith.tools](https://chatwith.tools)
+ - date published: 2023-10-25T22:46:45.221058+00:00
+ - user: None
+ - tags: []
+
+## http://joel.tools
+ - [http://joel.tools](http://joel.tools)
+ - date published: 2023-10-25T22:46:46.819797+00:00
+ - user: None
+ - tags: []
+
+## offsec.tools - A vast collection of security tools
+ - [https://offsec.tools](https://offsec.tools)
+ - date published: 2023-10-25T22:46:52.530092+00:00
+ - user: None
+ - tags: []
+
+## scientific.place | Less Boring Science
+ - [https://students.tools](https://students.tools)
+ - date published: 2023-10-25T22:46:55.076112+00:00
+ - user: None
+ - tags: []
+
+## Substrate improves your security, reliability and compliance on AWS.
+ - [https://substrate.tools](https://substrate.tools)
+ - date published: 2023-10-25T22:46:59.441732+00:00
+ - user: None
+ - tags: []
+
+## Merveilles
+ - [https://merveilles.town](https://merveilles.town)
+ - date published: 2023-10-25T22:47:01.728750+00:00
+ - user: None
+ - tags: []
+
+## OSM Town | Mapstodon for OpenStreetMap
+ - [https://en.osm.town](https://en.osm.town)
+ - date published: 2023-10-24T20:14:44.610496+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## taylor.town
+ - [https://taylor.town](https://taylor.town)
+ - date published: 2023-10-25T22:47:07.379073+00:00
+ - user: None
+ - tags: []
+
+## Val Town Blog
+ - [https://blog.val.town](https://blog.val.town)
+ - date published: 2023-10-25T09:24:56.115382+00:00
+ - user: None
+ - tags: ['personal']
+
+## Val Town
+ - [https://www.val.town](https://www.val.town)
+ - date published: 2023-10-25T11:29:19.487818+00:00
+ - user: None
+ - tags: []
+
+## compute.toys
+ - [https://compute.toys](https://compute.toys)
+ - date published: 2023-10-25T22:47:11.996030+00:00
+ - user: None
+ - tags: []
+
+## Container Training
+ - [https://container.training](https://container.training)
+ - date published: 2023-10-25T22:47:15.680138+00:00
+ - user: None
+ - tags: []
+
+## Hoku | The best trip planner to organize travel with friends
+ - [https://hoku.travel](https://hoku.travel)
+ - date published: 2023-10-25T22:47:19.285427+00:00
+ - user: None
+ - tags: []
+
+## Dust - Secure AI assistant with your company's knowledge
+ - [https://dust.tt](https://dust.tt)
+ - date published: 2023-10-25T22:47:21.135871+00:00
+ - user: None
+ - tags: []
+
+## Texts Joins Automattic
+ - [https://ma.tt](https://ma.tt)
+ - date published: 2023-10-25T08:56:15.066408+00:00
+ - user: None
+ - tags: ['personal']
+
+## Firesky
+ - [https://firesky.tv](https://firesky.tv)
+ - date published: 2023-10-25T22:47:22.627275+00:00
+ - user: None
+ - tags: []
+
+## Home Page - Golf Clash
+ - [http://golfclash.tv](http://golfclash.tv)
+ - date published: 2023-11-24T08:54:06.450513+00:00
+ - user: None
+ - tags: []
+
+## holovolo - immersive volumetric VR180 videos and photos, and 3D stable diffusion, for Quest and WebVR
+ - [https://holovolo.tv](https://holovolo.tv)
+ - date published: 2023-10-25T22:47:24.915722+00:00
+ - user: None
+ - tags: []
+
+## I24NEWS - Breaking news from the Middle East, Israel and around the world
+ - [https://www.i24news.tv](https://www.i24news.tv)
+ - date published: 2023-10-30T20:58:57.678391+00:00
+ - user: None
+ - tags: []
+
+## Home » IAI TV
+ - [https://iai.tv](https://iai.tv)
+ - date published: 2023-10-25T22:47:27.304357+00:00
+ - user: None
+ - tags: []
+
+## Invisible People - Organization That Helps Homeless People
+ - [https://invisiblepeople.tv](https://invisiblepeople.tv)
+ - date published: 2023-10-25T22:47:31.099052+00:00
+ - user: None
+ - tags: []
+
+## Open Source Home Theater Software | Kodi
+ - [https://kodi.tv](https://kodi.tv)
+ - date published: 2023-10-25T22:47:33.068157+00:00
+ - user: None
+ - tags: ['open source']
+
+## LBCI Lebanon - Lebanon News
+ - [https://www.lbcgroup.tv](https://www.lbcgroup.tv)
+ - date published: 2023-10-31T11:59:44.874795+00:00
+ - user: None
+ - tags: []
+
+## LibreELEC
+ - [https://libreelec.tv](https://libreelec.tv)
+ - date published: 2023-10-25T08:32:34.951764+00:00
+ - user: None
+ - tags: ['operating system', 'linux']
+
+## Lon Seidman & Lon.TV Blog - Tech & Commentary from Lon Seidman of Lon.TV
+ - [https://blog.lon.tv](https://blog.lon.tv)
+ - date published: 2023-10-25T09:38:42.655480+00:00
+ - user: None
+ - tags: []
+
+## მთავარი არხი
+ - [https://mtavari.tv](https://mtavari.tv)
+ - date published: 2023-11-06T20:50:46.710159+00:00
+ - user: None
+ - tags: []
+
+## Napflix | Siesta Video Platform.
+ - [https://napflix.tv](https://napflix.tv)
+ - date published: 2023-10-25T22:47:39.579515+00:00
+ - user: None
+ - tags: []
+
+## Nebula – Indie Streaming
+ - [https://nebula.tv](https://nebula.tv)
+ - date published: 2023-11-25T15:05:20+00:00
+ - user: rumpel
+ - tags: ['video streaming']
+
+## Open Broadcast Systems | Delivering your flagship broadcast services
+ - [https://www.obe.tv](https://www.obe.tv)
+ - date published: 2023-10-25T22:47:43.873343+00:00
+ - user: None
+ - tags: []
+
+## PeerTube.TV
+ - [https://peertube.tv](https://peertube.tv)
+ - date published: 2023-10-25T11:44:58.045508+00:00
+ - user: None
+ - tags: []
+
+## Plex Forum
+ - [https://forums.plex.tv](https://forums.plex.tv)
+ - date published: 2023-10-25T22:47:49.787706+00:00
+ - user: None
+ - tags: []
+
+## Meet your TV concierge.
+ - [https://links.plex.tv](https://links.plex.tv)
+ - date published: 2023-10-24T20:06:12.269474+00:00
+ - user: None
+ - tags: []
+
+## Meet your TV concierge.
+ - [https://www.plex.tv](https://www.plex.tv)
+ - date published: 2023-10-24T20:06:05.003193+00:00
+ - user: None
+ - tags: ['video streaming']
+
+## STV News | The home of Scottish News, Sport & Weather
+ - [https://news.stv.tv](https://news.stv.tv)
+ - date published: 2023-10-25T10:10:00.186984+00:00
+ - user: None
+ - tags: []
+
+## Watch all episodes of The Chosen for free
+ - [https://watch.thechosen.tv](https://watch.thechosen.tv)
+ - date published: 2023-10-24T20:06:06.638035+00:00
+ - user: None
+ - tags: ['video streaming']
+
+## The People's Voice - Where Mainstream Fears to Tread
+ - [https://thepeoplesvoice.tv](https://thepeoplesvoice.tv)
+ - date published: 2023-10-25T10:18:10.941418+00:00
+ - user: None
+ - tags: []
+
 ## Twitch Blog
  - [https://blog.twitch.tv](https://blog.twitch.tv)
  - date published: 2023-10-25T22:47:52.990838+00:00
@@ -610,6 +868,12 @@
  - user: None
  - tags: []
 
+## Harpers Wine & Spirit Trade News
+ - [https://harpers.co.uk](https://harpers.co.uk)
+ - date published: 2023-11-25T22:09:13.914824+00:00
+ - user: None
+ - tags: []
+
 ## Northumberland News, Sport and Events - Hexham Courant
  - [https://www.hexham-courant.co.uk](https://www.hexham-courant.co.uk)
  - date published: 2023-10-25T22:52:44.325690+00:00
@@ -943,6 +1207,12 @@
 ## Scottish Daily Express - Scottish News, Politics & Showbiz
  - [https://www.scottishdailyexpress.co.uk](https://www.scottishdailyexpress.co.uk)
  - date published: 2023-10-25T10:17:05.888387+00:00
+ - user: None
+ - tags: []
+
+## Leading Negotiation Training & Consultancy | Scotwork UK
+ - [https://www.scotwork.co.uk](https://www.scotwork.co.uk)
+ - date published: 2023-11-25T17:09:14.277304+00:00
  - user: None
  - tags: []
 
@@ -2043,6 +2313,12 @@
 ## A flower woman by 1500+ artists
  - [https://gorgeous.adityashankar.xyz](https://gorgeous.adityashankar.xyz)
  - date published: 2023-10-25T23:02:25.831785+00:00
+ - user: None
+ - tags: []
+
+## Age of Invention, by Anton Howes | Substack
+ - [https://www.ageofinvention.xyz](https://www.ageofinvention.xyz)
+ - date published: 2023-11-25T15:09:01.737458+00:00
  - user: None
  - tags: []
 

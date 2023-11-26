@@ -1,3 +1,33 @@
+## TED: Ideas Worth Spreading
+ - [https://Ted.com](https://Ted.com)
+ - date published: 2023-11-12T01:39:05.401960+00:00
+ - user: None
+ - tags: []
+
+## Desarrollador/Programador de aplicaciones web freelance en Chile. - a-chacon
+ - [https://a-chacon.com](https://a-chacon.com)
+ - date published: 2023-11-22T12:09:25.204194+00:00
+ - user: None
+ - tags: []
+
+## Andreessen Horowitz | Software Is Eating the World
+ - [https://a16z.com](https://a16z.com)
+ - date published: 2023-10-25T12:28:40.833485+00:00
+ - user: None
+ - tags: []
+
+## a16z crypto
+ - [https://a16zcrypto.com](https://a16zcrypto.com)
+ - date published: 2023-10-25T12:28:43.527947+00:00
+ - user: None
+ - tags: []
+
+## Aadil Ali
+ - [https://blog.aadilali.com](https://blog.aadilali.com)
+ - date published: 2023-10-25T08:44:04.159881+00:00
+ - user: None
+ - tags: ['personal']
+
 ## LINQ to Fail
  - [https://www.aaron-powell.com](https://www.aaron-powell.com)
  - date published: 2023-10-25T08:57:54.880761+00:00
@@ -655,6 +685,12 @@
 ## Home | Air & Space Forces Magazine
  - [https://www.airandspaceforces.com](https://www.airandspaceforces.com)
  - date published: 2023-10-25T12:36:05.593292+00:00
+ - user: None
+ - tags: []
+
+## https://www.airbus.com
+ - [https://www.airbus.com](https://www.airbus.com)
+ - date published: 2023-11-25T23:10:55.063815+00:00
  - user: None
  - tags: []
 
@@ -2950,6 +2986,12 @@
  - user: None
  - tags: []
 
+## Arizona Capitol Times | Politics & political news, governor, legislature, elections, government, agencies, courts | An Arizona News Service newspaper.
+ - [https://azcapitoltimes.com](https://azcapitoltimes.com)
+ - date published: 2023-11-25T18:29:53.604427+00:00
+ - user: None
+ - tags: []
+
 ## azcentral.com and The Arizona Republic: Phoenix and Arizona news
  - [https://www.azcentral.com](https://www.azcentral.com)
  - date published: 2023-10-25T11:02:04.408208+00:00
@@ -5002,6 +5044,12 @@
  - user: None
  - tags: []
 
+## BookFilter
+ - [https://www.book-filter.com](https://www.book-filter.com)
+ - date published: 2023-11-25T12:48:56.849391+00:00
+ - user: None
+ - tags: []
+
 ## Amazon.com: Books
  - [https://www.bookdepository.com](https://www.bookdepository.com)
  - date published: 2023-10-25T13:08:04.593045+00:00
@@ -5947,54 +5995,6 @@
 ## Home - Carbon To Stone
  - [https://carbontostone.com](https://carbontostone.com)
  - date published: 2023-10-25T13:18:07.369759+00:00
- - user: None
- - tags: []
-
-## Careers at Bright
- - [https://www.careersatbright.com](https://www.careersatbright.com)
- - date published: 2023-10-25T13:18:11.594419+00:00
- - user: None
- - tags: []
-
-## Careful Words
- - [https://carefulwords.com](https://carefulwords.com)
- - date published: 2023-10-25T13:18:12.352022+00:00
- - user: None
- - tags: []
-
-## CaribPress
- - [http://www.caribpress.com](http://www.caribpress.com)
- - date published: 2023-10-25T13:18:15.548543+00:00
- - user: None
- - tags: []
-
-## Carlin Eng
- - [https://carlineng.com](https://carlineng.com)
- - date published: 2023-10-25T13:18:18.659750+00:00
- - user: None
- - tags: []
-
-## Nicholas Carlini
- - [https://nicholas.carlini.com](https://nicholas.carlini.com)
- - date published: 2023-10-25T08:45:15.272588+00:00
- - user: None
- - tags: ['personal']
-
-## Home | CarlMultimedia
- - [https://carlmultimedia.com](https://carlmultimedia.com)
- - date published: 2023-10-25T13:18:20.191370+00:00
- - user: None
- - tags: []
-
-## carlos' site
- - [https://carloslagoa.com](https://carloslagoa.com)
- - date published: 2023-10-25T08:45:15.800384+00:00
- - user: None
- - tags: ['personal']
-
-## Carmelite Monks of Wyoming Gothic - Carmelite Gothic
- - [https://carmelitegothic.com](https://carmelitegothic.com)
- - date published: 2023-10-25T13:18:22.657357+00:00
  - user: None
  - tags: []
 
