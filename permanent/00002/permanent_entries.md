@@ -1,3 +1,207 @@
+## Call of Duty® |​ Najlepiej sprzedająca się marka gier
+ - [https://www.callofduty.com](https://www.callofduty.com)
+ - date published: 2023-10-25T08:39:31.906666+00:00
+ - user: None
+ - tags: []
+
+## For RoR, see in production every method call, parameter and return value
+ - [https://callstacking.com](https://callstacking.com)
+ - date published: 2023-11-22T19:07:49+00:00
+ - user: None
+ - tags: []
+
+## Calm Down | Ben Dreyfuss | Substack
+ - [https://www.calmdownben.com](https://www.calmdownben.com)
+ - date published: 2023-10-25T13:17:03.909008+00:00
+ - user: None
+ - tags: []
+
+## Author of Deep Work, Study Hacks Blog - Cal Newport
+ - [https://calnewport.com](https://calnewport.com)
+ - date published: 2023-10-25T13:17:06.428541+00:00
+ - user: None
+ - tags: []
+
+## Author of Deep Work, Study Hacks Blog - Cal Newport
+ - [https://www.calnewport.com](https://www.calnewport.com)
+ - date published: 2023-10-25T13:17:09.612435+00:00
+ - user: None
+ - tags: []
+
+## Cal Paterson
+ - [https://calpaterson.com](https://calpaterson.com)
+ - date published: 2023-10-25T13:17:15.051904+00:00
+ - user: None
+ - tags: []
+
+## Preserving contemporary culture — New East Digital Archive
+ - [https://www.calvertjournal.com](https://www.calvertjournal.com)
+ - date published: 2023-10-25T13:17:18.541319+00:00
+ - user: None
+ - tags: []
+
+## cambioML
+ - [https://www.cambioml.com](https://www.cambioml.com)
+ - date published: 2023-10-25T13:17:19.034942+00:00
+ - user: None
+ - tags: []
+
+## Campus FM - stream college radio
+ - [https://www.campus-fm.com](https://www.campus-fm.com)
+ - date published: 2023-10-25T13:17:19.542791+00:00
+ - user: None
+ - tags: []
+
+## Canary Media | Covering the clean energy transition
+ - [https://www.canarymedia.com](https://www.canarymedia.com)
+ - date published: 2023-10-25T10:54:13.458447+00:00
+ - user: None
+ - tags: []
+
+## Candice Poon
+ - [https://www.candicepoon.com](https://www.candicepoon.com)
+ - date published: 2023-10-25T09:19:34.667288+00:00
+ - user: None
+ - tags: ['personal']
+
+## The National Confectioners Association - NCA
+ - [https://candyusa.com](https://candyusa.com)
+ - date published: 2023-10-25T13:17:23.324179+00:00
+ - user: None
+ - tags: []
+
+## Can's blog
+ - [https://canolcer.com](https://canolcer.com)
+ - date published: 2023-10-25T09:19:35.940458+00:00
+ - user: None
+ - tags: ['personal']
+
+## Canon Global
+ - [https://www.canon.com](https://www.canon.com)
+ - date published: 2023-10-30T18:15:36.625705+00:00
+ - user: None
+ - tags: ['company']
+
+## Canon Homepage | Canon U.S.A., Inc.
+ - [https://www.usa.canon.com](https://www.usa.canon.com)
+ - date published: 2023-11-01T08:41:43.065426+00:00
+ - user: None
+ - tags: []
+
+## Canonical | Trusted open source for enterprises
+ - [https://canonical.com](https://canonical.com)
+ - date published: 2023-10-25T11:27:41.221603+00:00
+ - user: None
+ - tags: []
+
+## Cansurround
+ - [https://cscaz.cansurround.com](https://cscaz.cansurround.com)
+ - date published: 2023-10-25T13:17:26.127964+00:00
+ - user: None
+ - tags: []
+
+## Cantor’s Paradise
+ - [https://www.cantorsparadise.com](https://www.cantorsparadise.com)
+ - date published: 2023-10-25T13:17:29.524010+00:00
+ - user: None
+ - tags: []
+
+## https://www.canva.com
+ - [https://www.canva.com](https://www.canva.com)
+ - date published: 2023-10-24T20:19:26.937858+00:00
+ - user: None
+ - tags: []
+
+## Canva Engineering Blog
+ - [https://canvatechblog.com](https://canvatechblog.com)
+ - date published: 2023-10-25T13:17:32.074614+00:00
+ - user: None
+ - tags: []
+
+## Can You Actually
+ - [https://canyouactually.com](https://canyouactually.com)
+ - date published: 2023-10-25T13:17:34.675025+00:00
+ - user: None
+ - tags: []
+
+## Capcom
+ - [https://www.capcom.com](https://www.capcom.com)
+ - date published: 2023-10-25T13:41:45.671843+00:00
+ - user: None
+ - tags: ['dead rising', 'street fighter', 'monster hounter', 'resident evil', 'devil may cry']
+
+## Cape Privacy | Keep sensitive data private while using LLMs
+ - [https://capeprivacy.com](https://capeprivacy.com)
+ - date published: 2023-10-25T13:17:36.125118+00:00
+ - user: None
+ - tags: []
+
+## Capgemini - Get The Future You Want
+ - [https://www.capgemini.com](https://www.capgemini.com)
+ - date published: 2023-10-25T11:27:46.363628+00:00
+ - user: None
+ - tags: []
+
+## Capith is under construction
+ - [https://www.capith.com](https://www.capith.com)
+ - date published: 2023-10-25T13:17:37.021497+00:00
+ - user: None
+ - tags: []
+
+## The Captain's Journal
+ - [https://www.captainsjournal.com](https://www.captainsjournal.com)
+ - date published: 2023-10-25T13:17:46.338857+00:00
+ - user: None
+ - tags: []
+
+## CaptoGlove - Virtual reality wearable gaming motion controller
+ - [https://www.captoglove.com](https://www.captoglove.com)
+ - date published: 2023-11-27T16:17:26+00:00
+ - user: rumpel
+ - tags: []
+
+## carandbike - Research on New Car and Bike Prices, News, Reviews, Videos; Buy/Sell Used Vehicles
+ - [https://www.carandbike.com](https://www.carandbike.com)
+ - date published: 2023-10-25T13:17:53.394108+00:00
+ - user: None
+ - tags: []
+
+## Car and Driver: New Car Reviews, Buying Advice and News
+ - [https://www.caranddriver.com](https://www.caranddriver.com)
+ - date published: 2023-10-25T13:17:57.032401+00:00
+ - user: None
+ - tags: []
+
+## Caravan Palace
+ - [https://www.caravanpalace.com](https://www.caravanpalace.com)
+ - date published: 2023-10-30T15:47:14.174508+00:00
+ - user: None
+ - tags: ['music band']
+
+## CarbonCredits.com - Your Source For Carbon Credit News & Opportunities
+ - [https://carboncredits.com](https://carboncredits.com)
+ - date published: 2023-10-25T13:18:00.478437+00:00
+ - user: None
+ - tags: []
+
+## Carbon Switch
+ - [https://carbonswitch.com](https://carbonswitch.com)
+ - date published: 2023-10-25T13:18:04.571765+00:00
+ - user: None
+ - tags: []
+
+## Home - Carbon To Stone
+ - [https://carbontostone.com](https://carbontostone.com)
+ - date published: 2023-10-25T13:18:07.369759+00:00
+ - user: None
+ - tags: []
+
+## Careers at Bright
+ - [https://www.careersatbright.com](https://www.careersatbright.com)
+ - date published: 2023-10-25T13:18:11.594419+00:00
+ - user: None
+ - tags: []
+
 ## Careful Words
  - [https://carefulwords.com](https://carefulwords.com)
  - date published: 2023-10-25T13:18:12.352022+00:00
@@ -46,6 +250,12 @@
  - user: None
  - tags: []
 
+## CarryLinks
+ - [https://carrylinks.com](https://carrylinks.com)
+ - date published: 2023-11-26T16:46:36+00:00
+ - user: rumpel
+ - tags: ['bookmark manager']
+
 ## Carscoops
  - [https://www.carscoops.com](https://www.carscoops.com)
  - date published: 2023-10-25T13:18:41.264654+00:00
@@ -63,6 +273,12 @@
  - date published: 2023-10-25T13:18:49.348073+00:00
  - user: None
  - tags: []
+
+## Show Your Colors | CASETiFY
+ - [https://www.casetify.com](https://www.casetify.com)
+ - date published: 2023-11-27T14:47:47+00:00
+ - user: rumpel
+ - tags: ['hardware customization']
 
 ## Casey Accidental | Hi, I'm Casey Winters. I advise tech companies on how to scale and sustainably grow their businesses.
  - [https://caseyaccidental.com](https://caseyaccidental.com)
@@ -147,6 +363,18 @@
  - date published: 2023-10-25T13:19:18.983531+00:00
  - user: None
  - tags: []
+
+## Cats.com
+ - [https://cats.com](https://cats.com)
+ - date published: 2023-11-28T20:49:03+00:00
+ - user: rumpel
+ - tags: ['cats']
+
+## Cats the Musical • Official Website and Tickets
+ - [https://www.catsthemusical.com](https://www.catsthemusical.com)
+ - date published: 2023-11-28T20:49:42+00:00
+ - user: rumpel
+ - tags: ['cats']
 
 ## Catsuka
  - [https://www.catsuka.com](https://www.catsuka.com)
@@ -320,7 +548,7 @@
  - [https://changelog.com](https://changelog.com)
  - date published: 2023-10-24T20:06:15.289782+00:00
  - user: None
- - tags: []
+ - tags: ['audio streaming', 'programming']
 
 ## Empowering your eCommerce growth | Channable
  - [https://www.channable.com](https://www.channable.com)
@@ -646,6 +874,12 @@
  - user: None
  - tags: []
 
+## Chris Lewicki
+ - [https://www.chrislewicki.com](https://www.chrislewicki.com)
+ - date published: 2023-11-29T00:12:30.151984+00:00
+ - user: None
+ - tags: []
+
 ## Christian News Headlines - Breaking and Trending Religion News
  - [https://www.christianheadlines.com](https://www.christianheadlines.com)
  - date published: 2023-10-25T10:13:08.561605+00:00
@@ -657,6 +891,12 @@
  - date published: 2023-10-25T13:22:37.195350+00:00
  - user: None
  - tags: []
+
+## ChristianityToday.com
+ - [https://www.christianitytoday.com](https://www.christianitytoday.com)
+ - date published: 2023-11-27T12:11:51+00:00
+ - user: rumpel
+ - tags: ['christian news']
 
 ## Christian Mills
  - [https://christianjmills.com](https://christianjmills.com)
@@ -1515,6 +1755,12 @@
  - user: None
  - tags: []
 
+## Coldplay - Official Site
+ - [https://www.coldplay.com](https://www.coldplay.com)
+ - date published: 2023-11-27T16:04:06+00:00
+ - user: rumpel
+ - tags: ['music band']
+
 ## » nature photography / natural history / misc
  - [https://colinpurrington.com](https://colinpurrington.com)
  - date published: 2023-10-25T13:30:21.511015+00:00
@@ -2103,6 +2349,12 @@
  - user: None
  - tags: []
 
+## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
+ - [https://craphound.com](https://craphound.com)
+ - date published: 2023-11-28T07:36:32+00:00
+ - user: rumpel
+ - tags: []
+
 ## Cory Doctorow's MEMEX – Proto-Hypertext Memory Expander
  - [https://memex.craphound.com](https://memex.craphound.com)
  - date published: 2023-10-25T13:36:08.888784+00:00
@@ -2412,6 +2664,12 @@
 ## Clément Thiriet - Software engineer, passionate about AI
  - [https://cthiriet.com](https://cthiriet.com)
  - date published: 2023-10-25T13:39:05.928349+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.ctpost.com](https://www.ctpost.com)
+ - date published: 2023-11-27T18:05:35.802450+00:00
  - user: None
  - tags: []
 
@@ -3128,7 +3386,7 @@
  - [https://dbrand.com](https://dbrand.com)
  - date published: 2023-10-30T19:26:33.002271+00:00
  - user: None
- - tags: ['company', 'shop']
+ - tags: ['shop', 'hardware customization', 'company']
 
 ## Home
  - [https://www.dbreunig.com](https://www.dbreunig.com)
@@ -3147,6 +3405,12 @@
  - date published: 2023-10-25T13:46:32.159739+00:00
  - user: None
  - tags: []
+
+## DC.com - The Official Home of DC
+ - [https://www.dc.com](https://www.dc.com)
+ - date published: 2023-11-27T12:54:34+00:00
+ - user: rumpel
+ - tags: ['superman', 'aquaman', 'batman', 'flash', 'wonder woman']
 
 ## Daniel Gross
  - [https://dcgross.com](https://dcgross.com)
@@ -3238,6 +3502,12 @@
  - user: None
  - tags: []
 
+## Decider
+ - [https://decider.com](https://decider.com)
+ - date published: 2023-11-27T11:27:44+00:00
+ - user: rumpel
+ - tags: ['video streaming filter']
+
 ## Decipad — Make sense of numbers
  - [https://www.decipad.com](https://www.decipad.com)
  - date published: 2023-10-25T13:47:20.389396+00:00
@@ -3308,7 +3578,7 @@
  - [https://www.deepmind.com](https://www.deepmind.com)
  - date published: 2023-10-25T13:47:54.689117+00:00
  - user: None
- - tags: []
+ - tags: ['artificial intelligence']
 
 ## Deepnote: Analytics and data science notebook for teams.
  - [https://deepnote.com](https://deepnote.com)
@@ -3476,7 +3746,7 @@
  - [https://www.deseret.com](https://www.deseret.com)
  - date published: 2023-10-25T13:49:44.338672+00:00
  - user: None
- - tags: []
+ - tags: ['utah news']
 
 ## Desiderata - Desiderata Poem - Desiderata Prints
  - [https://www.desiderata.com](https://www.desiderata.com)
@@ -3802,6 +4072,12 @@
  - user: None
  - tags: []
 
+## Diigo -  Better reading and research with annotation, highlighter, sticky notes, archiving, bookmarking & more.
+ - [https://www.diigo.com](https://www.diigo.com)
+ - date published: 2023-11-26T16:44:37+00:00
+ - user: rumpel
+ - tags: ['bookmark manager']
+
 ## Dilbert.com
  - [https://dilbert.com](https://dilbert.com)
  - date published: 2023-10-27T13:15:36.746639+00:00
@@ -4103,6 +4379,12 @@
  - user: None
  - tags: []
 
+## Dogs Plate
+ - [https://dogsplate.com](https://dogsplate.com)
+ - date published: 2023-11-28T20:51:22+00:00
+ - user: rumpel
+ - tags: []
+
 ## Dog Tricks World - Teach Your Dog A New Trick
  - [https://dogtricksworld.com](https://dogtricksworld.com)
  - date published: 2023-11-20T14:44:21.971118+00:00
@@ -4223,6 +4505,12 @@
  - user: None
  - tags: []
 
+## 豆瓣读书
+ - [https://book.douban.com](https://book.douban.com)
+ - date published: 2023-11-26T00:27:14.671549+00:00
+ - user: None
+ - tags: []
+
 ## DoubleBlind Magazine: Untold stories about the expansion of psychedelics around the globe.
  - [https://doubleblindmag.com](https://doubleblindmag.com)
  - date published: 2023-10-25T14:23:46.872849+00:00
@@ -4252,6 +4540,12 @@
  - date published: 2023-10-25T13:57:40.792494+00:00
  - user: None
  - tags: []
+
+## Download subtitles from Youtube, Viki, Viu, Wetv, Kocowa and more
+ - [https://downsub.com](https://downsub.com)
+ - date published: 2023-11-27T13:29:48+00:00
+ - user: rumpel
+ - tags: ['subtitles', 'download', 'youtube']
 
 ## Downtown Doug Brown
  - [https://www.downtowndougbrown.com](https://www.downtowndougbrown.com)
@@ -5045,6 +5339,12 @@
  - user: None
  - tags: ['music news']
 
+## ELEGOO: Best Consumer Level 3D Printers, Materials and STEM Products
+ - [https://www.elegoo.com](https://www.elegoo.com)
+ - date published: 2023-11-27T16:35:15+00:00
+ - user: rumpel
+ - tags: ['3d printing']
+
 ## Diary Of A Mad Chaos - The Largest Online Diary In The World
  - [https://www.eleninovski.com](https://www.eleninovski.com)
  - date published: 2023-11-02T11:03:35.042983+00:00
@@ -5176,6 +5476,12 @@
  - date published: 2023-10-25T14:06:50.177934+00:00
  - user: None
  - tags: []
+
+## eM Client - Email Client and Calendar Software for Windows and Mac
+ - [https://www.emclient.com](https://www.emclient.com)
+ - date published: 2023-11-28T07:58:07+00:00
+ - user: rumpel
+ - tags: ['email client']
 
 ## Go To ELL
  - [http://www.emeraldlake.com](http://www.emeraldlake.com)
@@ -5690,312 +5996,6 @@
 ## The Liberty Beacon | Bringing Alternative Media Sources Together™
  - [https://www.europereloaded.com](https://www.europereloaded.com)
  - date published: 2023-10-25T14:11:26.432764+00:00
- - user: None
- - tags: []
-
-## Euro Weekly News – leading English language newspaper in Spain
- - [https://euroweeklynews.com](https://euroweeklynews.com)
- - date published: 2023-10-25T14:11:32.834569+00:00
- - user: None
- - tags: []
-
-## EV EDITION - EV News, Media, Articles, And Insights.
- - [https://ev-edition.com](https://ev-edition.com)
- - date published: 2023-10-25T14:11:36.896821+00:00
- - user: None
- - tags: []
-
-## EvangelosSciFi
- - [https://www.evangelosscifi.com](https://www.evangelosscifi.com)
- - date published: 2023-10-25T14:11:45.721572+00:00
- - user: None
- - tags: []
-
-## Evan Hahn (dot com)
- - [https://evanhahn.com](https://evanhahn.com)
- - date published: 2023-10-25T14:11:46.504047+00:00
- - user: None
- - tags: []
-
-## Evennia Python MUD/MU creation system
- - [https://www.evennia.com](https://www.evennia.com)
- - date published: 2023-10-25T14:11:58.427196+00:00
- - user: None
- - tags: ['game engine', 'mud']
-
-## Sequence diagram based System Modeling and Wireshark Debugging
- - [https://eventhelix.com](https://eventhelix.com)
- - date published: 2023-10-25T14:11:59.354571+00:00
- - user: None
- - tags: []
-
-## EventHubs fighting game news and tournament results
- - [https://www.eventhubs.com](https://www.eventhubs.com)
- - date published: 2023-10-25T14:12:09.513704+00:00
- - user: None
- - tags: []
-
-## {{meta.title}}
- - [https://eventvods.com](https://eventvods.com)
- - date published: 2023-11-02T10:40:57.348617+00:00
- - user: None
- - tags: []
-
-## Home - Evergreen Off-Grid
- - [https://evergreenoffgrid.com](https://evergreenoffgrid.com)
- - date published: 2023-10-25T14:12:15.348595+00:00
- - user: None
- - tags: []
-
-## Best Note Taking App - Organize Your Notes with Evernote
- - [https://evernote.com](https://evernote.com)
- - date published: 2023-10-25T14:12:24.164120+00:00
- - user: None
- - tags: []
-
-## Evert's Dugout
- - [https://evertpot.com](https://evertpot.com)
- - date published: 2023-10-25T14:12:30.455702+00:00
- - user: None
- - tags: []
-
-## Everyday Astronaut | Home
- - [https://everydayastronaut.com](https://everydayastronaut.com)
- - date published: 2023-10-25T14:12:35.743432+00:00
- - user: None
- - tags: []
-
-## EVERYDAY DRINKING | Jason Wilson | Substack
- - [https://www.everydaydrinking.com](https://www.everydaydrinking.com)
- - date published: 2023-10-25T14:12:39.967087+00:00
- - user: None
- - tags: []
-
-## Everyday Scientist
- - [https://blog.everydayscientist.com](https://blog.everydayscientist.com)
- - date published: 2023-10-25T14:12:52.624817+00:00
- - user: None
- - tags: []
-
-## Everything Amiga - Everything Amiga
- - [https://www.everythingamiga.com](https://www.everythingamiga.com)
- - date published: 2023-11-02T10:44:11.776078+00:00
- - user: None
- - tags: ['amiga']
-
-## All Forums - EVGA Forums
- - [https://forums.evga.com](https://forums.evga.com)
- - date published: 2023-10-25T14:13:00.327718+00:00
- - user: None
- - tags: []
-
-## Haste Makes Waste – Sincerity is a required field.
- - [https://evhaste.com](https://evhaste.com)
- - date published: 2023-10-25T14:13:02.024394+00:00
- - user: None
- - tags: []
-
-## Entertainment Weekly: Entertainment News for Pop Culture Fans
- - [https://ew.com](https://ew.com)
- - date published: 2023-11-13T12:43:46.860189+00:00
- - user: None
- - tags: ['entertainment news']
-
-## eWeek: Technology News for IT Professionals & Tech Buyers
- - [https://www.eweek.com](https://www.eweek.com)
- - date published: 2023-10-25T09:32:53.699808+00:00
- - user: None
- - tags: []
-
-## www.ex-parrot.com
- - [https://www.ex-parrot.com](https://www.ex-parrot.com)
- - date published: 2023-11-15T17:46:03.174758+00:00
- - user: None
- - tags: ['personal', 'blog']
-
-## exaequOS
- - [https://www.exaequos.com](https://www.exaequos.com)
- - date published: 2023-10-25T14:13:08.348610+00:00
- - user: None
- - tags: []
-
-## Exalted Funeral
- - [https://www.exaltedfuneral.com](https://www.exaltedfuneral.com)
- - date published: 2023-10-30T10:54:10.750055+00:00
- - user: None
- - tags: ['role playing games', 'publisher']
-
-## Examiner-Enterprise: Local News, Politics & Sports in Bartlesville, OK
- - [https://eu.examiner-enterprise.com](https://eu.examiner-enterprise.com)
- - date published: 2023-10-25T14:13:11.356781+00:00
- - user: None
- - tags: []
-
-## Excalidraw+
- - [https://app.excalidraw.com](https://app.excalidraw.com)
- - date published: 2023-10-25T14:13:12.855350+00:00
- - user: None
- - tags: []
-
-## The Ex-Classics Web Site Main Page
- - [https://www.exclassics.com](https://www.exclassics.com)
- - date published: 2023-10-25T14:13:15.086562+00:00
- - user: None
- - tags: []
-
-## Exhypothesi
- - [https://www.exhypothesi.com](https://www.exhypothesi.com)
- - date published: 2023-10-25T14:13:16.492819+00:00
- - user: None
- - tags: []
-
-## ExoticSilicon.com - Research into high end business IT
- - [https://research.exoticsilicon.com](https://research.exoticsilicon.com)
- - date published: 2023-10-25T14:13:23.518640+00:00
- - user: None
- - tags: []
-
-## Experimental History | Adam Mastroianni | Substack
- - [https://www.experimental-history.com](https://www.experimental-history.com)
- - date published: 2023-10-25T14:13:28.615759+00:00
- - user: None
- - tags: []
-
-## Explained from First Principles
- - [https://explained-from-first-principles.com](https://explained-from-first-principles.com)
- - date published: 2023-10-25T14:13:32.131091+00:00
- - user: None
- - tags: []
-
-## Explainpaper
- - [https://www.explainpaper.com](https://www.explainpaper.com)
- - date published: 2023-10-25T14:13:33.232774+00:00
- - user: None
- - tags: []
-
-## Explorations of Style | A Blog about Academic Writing
- - [https://explorationsofstyle.com](https://explorationsofstyle.com)
- - date published: 2023-10-25T14:13:37.096661+00:00
- - user: None
- - tags: []
-
-## Experience Magazine - Stories from the intersection of technology and humanity
- - [https://expmag.com](https://expmag.com)
- - date published: 2023-10-25T10:13:37.586225+00:00
- - user: None
- - tags: []
-
-## The Expose – Home
- - [https://expose-news.com](https://expose-news.com)
- - date published: 2023-10-25T14:13:44.408842+00:00
- - user: None
- - tags: []
-
-## San Antonio Express-News | News, Sports, Business | ExpressNews.com - San Antonio Express-News
- - [https://www.expressnews.com](https://www.expressnews.com)
- - date published: 2023-10-25T14:13:56.088554+00:00
- - user: None
- - tags: []
-
-## High-Speed, Secure & Anonymous VPN Service | ExpressVPN
- - [https://www.expressvpn.com](https://www.expressvpn.com)
- - date published: 2023-10-30T12:50:50.374765+00:00
- - user: None
- - tags: ['privacy', 'vpn']
-
-## Blog entries | Lineae ex punctis
- - [https://www.expunctis.com](https://www.expunctis.com)
- - date published: 2023-10-25T14:14:02.252097+00:00
- - user: None
- - tags: []
-
-## eXputer.com
- - [https://exputer.com](https://exputer.com)
- - date published: 2023-11-14T22:31:11.893350+00:00
- - user: None
- - tags: []
-
-## ExtremeTech
- - [https://www.extremetech.com](https://www.extremetech.com)
- - date published: 2023-10-25T14:14:05.524012+00:00
- - user: None
- - tags: []
-
-## Homepage - Ex Utopia
- - [https://www.exutopia.com](https://www.exutopia.com)
- - date published: 2023-10-25T14:24:39.287828+00:00
- - user: None
- - tags: []
-
-## Eyecandy - Visual Technique Library
- - [https://eycndy.com](https://eycndy.com)
- - date published: 2023-10-25T14:25:00.318587+00:00
- - user: None
- - tags: []
-
-## ezyang’s blog
- - [http://blog.ezyang.com](http://blog.ezyang.com)
- - date published: 2023-10-25T08:45:44.877605+00:00
- - user: None
- - tags: ['personal']
-
-## 🌉❄️📝
- - [https://www.ezzeriesa.com](https://www.ezzeriesa.com)
- - date published: 2023-10-25T08:45:45.467934+00:00
- - user: None
- - tags: ['personal']
-
-## F4map Demo - Interactive 3D map
- - [https://demo.f4map.com](https://demo.f4map.com)
- - date published: 2023-10-25T08:24:33.925652+00:00
- - user: None
- - tags: []
-
-## Fabricated Knowledge | Doug O'Laughlin | Substack
- - [https://www.fabricatedknowledge.com](https://www.fabricatedknowledge.com)
- - date published: 2023-10-25T14:25:04.032229+00:00
- - user: None
- - tags: []
-
-## Facebook
- - [https://ai.facebook.com](https://ai.facebook.com)
- - date published: 2023-10-25T14:25:08.041711+00:00
- - user: None
- - tags: []
-
-## Facebook
- - [https://www.facebook.com](https://www.facebook.com)
- - date published: 2023-10-24T20:15:12+00:00
- - user: rumpel
- - tags: ['social platform', 'gatekeeper']
-
-## In re: Facebook, Inc. Consumer Privacy User Profile Litigation
- - [https://www.facebookuserprivacysettlement.com](https://www.facebookuserprivacysettlement.com)
- - date published: 2023-10-25T14:25:09.291666+00:00
- - user: None
- - tags: []
-
-## Factories in Space - Making products for Earth and space
- - [https://www.factoriesinspace.com](https://www.factoriesinspace.com)
- - date published: 2023-10-25T14:25:11.646782+00:00
- - user: None
- - tags: []
-
-## Factorio
- - [https://factorio.com](https://factorio.com)
- - date published: 2023-10-25T08:39:33.185785+00:00
- - user: None
- - tags: []
-
-## Factorio
- - [https://www.factorio.com](https://www.factorio.com)
- - date published: 2023-10-25T08:39:39.486807+00:00
- - user: None
- - tags: []
-
-## Fahhem's Blog – An intermittent post of thoughts
- - [https://blog.fahhem.com](https://blog.fahhem.com)
- - date published: 2023-10-25T14:25:15.100147+00:00
  - user: None
  - tags: []
 

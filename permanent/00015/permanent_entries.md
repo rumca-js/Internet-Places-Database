@@ -1,3 +1,1370 @@
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://activeloop.notion.site](https://activeloop.notion.site)
+ - date published: 2023-10-25T22:39:21.105796+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://alliancedao.notion.site](https://alliancedao.notion.site)
+ - date published: 2023-10-25T22:39:22.325561+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://auspicious-domain-086.notion.site](https://auspicious-domain-086.notion.site)
+ - date published: 2023-10-25T22:39:23.726835+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://bulkninja.notion.site](https://bulkninja.notion.site)
+ - date published: 2023-11-05T12:07:53.538117+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://chaudhry.notion.site](https://chaudhry.notion.site)
+ - date published: 2023-10-25T22:39:24.906292+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://enchanting-trader-463.notion.site](https://enchanting-trader-463.notion.site)
+ - date published: 2023-10-25T22:39:26.286235+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://flower-nutria-41d.notion.site](https://flower-nutria-41d.notion.site)
+ - date published: 2023-10-25T22:39:27.897053+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://hydra-so.notion.site](https://hydra-so.notion.site)
+ - date published: 2023-10-25T22:39:34.085319+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://knowsuchagency.notion.site](https://knowsuchagency.notion.site)
+ - date published: 2023-10-25T22:39:35.501901+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://kyndinfo.notion.site](https://kyndinfo.notion.site)
+ - date published: 2023-10-25T22:39:36.740705+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://loro-dev.notion.site](https://loro-dev.notion.site)
+ - date published: 2023-10-25T22:39:38.139653+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://medarc.notion.site](https://medarc.notion.site)
+ - date published: 2023-10-25T22:39:39.354553+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://neurofusionresearchinc.notion.site](https://neurofusionresearchinc.notion.site)
+ - date published: 2023-11-16T03:40:39.870878+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://observant-hoodie-597.notion.site](https://observant-hoodie-597.notion.site)
+ - date published: 2023-10-25T22:39:45.482702+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://plusdocs.notion.site](https://plusdocs.notion.site)
+ - date published: 2023-10-25T22:39:46.603183+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://postgrowthguide.notion.site](https://postgrowthguide.notion.site)
+ - date published: 2023-10-25T22:39:47.779531+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://prequelco.notion.site](https://prequelco.notion.site)
+ - date published: 2023-10-27T12:07:52.584102+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://provision-software.notion.site](https://provision-software.notion.site)
+ - date published: 2023-10-25T22:39:49.561712+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://rosacarbo.notion.site](https://rosacarbo.notion.site)
+ - date published: 2023-10-25T22:39:50.906331+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://rxhl.notion.site](https://rxhl.notion.site)
+ - date published: 2023-10-25T22:39:52.281261+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://seraleev.notion.site](https://seraleev.notion.site)
+ - date published: 2023-11-23T17:36:50.740494+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://serverlessai.notion.site](https://serverlessai.notion.site)
+ - date published: 2023-10-25T22:39:58.896287+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://snowsoft.notion.site](https://snowsoft.notion.site)
+ - date published: 2023-10-25T22:40:06.077935+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://taxproper.notion.site](https://taxproper.notion.site)
+ - date published: 2023-10-25T22:40:08.100234+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://yaofu.notion.site](https://yaofu.notion.site)
+ - date published: 2023-10-25T22:40:15.132648+00:00
+ - user: None
+ - tags: []
+
+## permission.site
+ - [https://permission.site](https://permission.site)
+ - date published: 2023-10-25T22:40:18.074064+00:00
+ - user: None
+ - tags: []
+
+## Reflect Notes
+ - [https://reflect.site](https://reflect.site)
+ - date published: 2023-10-25T22:40:25.344272+00:00
+ - user: None
+ - tags: []
+
+## Shift Happens newsletter
+ - [https://newsletter.shifthappens.site](https://newsletter.shifthappens.site)
+ - date published: 2023-10-25T22:40:27.644529+00:00
+ - user: None
+ - tags: []
+
+## Shift Happens
+ - [https://shifthappens.site](https://shifthappens.site)
+ - date published: 2023-10-25T22:40:33.666065+00:00
+ - user: None
+ - tags: []
+
+## timor's site
+ - [https://timor.site](https://timor.site)
+ - date published: 2023-10-25T09:24:39.424560+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Topos Lab
+ - [https://topos.site](https://topos.site)
+ - date published: 2023-10-25T22:40:37.112240+00:00
+ - user: None
+ - tags: []
+
+## Bounded-Error Log
+ - [https://blog.vero.site](https://blog.vero.site)
+ - date published: 2023-11-14T07:22:39.220127+00:00
+ - user: None
+ - tags: []
+
+## Amiga on PC/Mac/Raspberry | AmiKit - Modern Retro Amiga
+ - [https://www.amikit.amiga.sk](https://www.amikit.amiga.sk)
+ - date published: 2023-11-02T10:51:09.860795+00:00
+ - user: None
+ - tags: ['amiga']
+
+## Michal's low level corner
+ - [https://migeel.sk](https://migeel.sk)
+ - date published: 2023-10-25T08:55:55.090139+00:00
+ - user: None
+ - tags: ['personal']
+
+## Staré Hry Na Stiahnutie :: DJ OldGames
+ - [https://www.oldgames.sk](https://www.oldgames.sk)
+ - date published: 2023-11-02T09:17:26.938750+00:00
+ - user: None
+ - tags: ['commodore', 'old games', 'abandonware', 'dos', 'retro games', 'amiga']
+
+## cgad.ski
+ - [https://cgad.ski](https://cgad.ski)
+ - date published: 2023-10-28T01:56:13.112964+00:00
+ - user: None
+ - tags: []
+
+## Bartosz Ciechanowski
+ - [https://ciechanow.ski](https://ciechanow.ski)
+ - date published: 2023-10-25T09:24:42.451995+00:00
+ - user: None
+ - tags: ['personal']
+
+## Skin's Blog
+ - [https://blog.djha.skin](https://blog.djha.skin)
+ - date published: 2023-10-25T09:24:43.363018+00:00
+ - user: None
+ - tags: ['personal']
+
+## Beautiful, Secure, Privacy-Respecting Devices - Purism
+ - [https://puri.sm](https://puri.sm)
+ - date published: 2023-10-25T08:37:55.771167+00:00
+ - user: None
+ - tags: []
+
+## MCN
+ - [https://www.mcn.sn](https://www.mcn.sn)
+ - date published: 2023-11-13T13:42:42.319137+00:00
+ - user: None
+ - tags: ['museum']
+
+## Overview - Blog
+ - [https://blog.artie.so](https://blog.artie.so)
+ - date published: 2023-11-15T22:31:41.943631+00:00
+ - user: None
+ - tags: []
+
+## Cohesive
+ - [https://www.cohesive.so](https://www.cohesive.so)
+ - date published: 2023-10-25T22:40:45.366113+00:00
+ - user: None
+ - tags: []
+
+## Creator Economy by Peter Yang | Substack
+ - [https://creatoreconomy.so](https://creatoreconomy.so)
+ - date published: 2023-10-25T10:08:47.677770+00:00
+ - user: None
+ - tags: ['substack']
+
+## Dendron
+ - [https://wiki.dendron.so](https://wiki.dendron.so)
+ - date published: 2023-10-25T22:40:48.362194+00:00
+ - user: None
+ - tags: []
+
+## Hydra - Fast Postgres Analytics ++
+ - [https://www.hydra.so](https://www.hydra.so)
+ - date published: 2023-10-25T08:34:30.335331+00:00
+ - user: None
+ - tags: []
+
+## Service Suspended
+ - [https://mimosa.so](https://mimosa.so)
+ - date published: 2023-10-25T22:40:50.567686+00:00
+ - user: None
+ - tags: []
+
+## Notion Status
+ - [https://status.notion.so](https://status.notion.so)
+ - date published: 2023-10-25T22:40:58.174104+00:00
+ - user: None
+ - tags: []
+
+## Your connected workspace for wiki, docs & projects | Notion
+ - [https://www.notion.so](https://www.notion.so)
+ - date published: 2023-10-25T22:41:01.221665+00:00
+ - user: None
+ - tags: []
+
+## Plane - The open source project management tool
+ - [https://plane.so](https://plane.so)
+ - date published: 2023-10-25T22:41:04.981097+00:00
+ - user: None
+ - tags: []
+
+## Relate: Full, Simple Sales CRM powered by AI
+ - [https://www.relate.so](https://www.relate.so)
+ - date published: 2023-10-25T22:41:11.464805+00:00
+ - user: None
+ - tags: []
+
+## https://beta.sayhello.so
+ - [https://beta.sayhello.so](https://beta.sayhello.so)
+ - date published: 2023-10-25T22:41:12.269082+00:00
+ - user: None
+ - tags: []
+
+## Scribbler: AI-powered Summaries
+ - [https://app.scribbler.so](https://app.scribbler.so)
+ - date published: 2023-10-25T22:41:13.999339+00:00
+ - user: None
+ - tags: []
+
+## Subset - A remarkably simple way to create a spreadsheet
+ - [https://about.subset.so](https://about.subset.so)
+ - date published: 2023-10-25T22:41:15.156625+00:00
+ - user: None
+ - tags: []
+
+## The Sequin Blog
+ - [https://blog.syncinc.so](https://blog.syncinc.so)
+ - date published: 2023-10-25T11:29:17.861449+00:00
+ - user: None
+ - tags: []
+
+## Free Online Form Builder | Tally
+ - [https://tally.so](https://tally.so)
+ - date published: 2023-10-25T22:41:21.758592+00:00
+ - user: None
+ - tags: []
+
+## Telematica | Universal API for EVs and energy devices
+ - [https://www.telematica.so](https://www.telematica.so)
+ - date published: 2023-10-25T22:41:23.982087+00:00
+ - user: None
+ - tags: []
+
+## Tidepool - Tidepool by Aquarium
+ - [https://www.tidepool.so](https://www.tidepool.so)
+ - date published: 2023-10-25T22:41:27.323642+00:00
+ - user: None
+ - tags: []
+
+## Tremor – The React library to build dashboards fast
+ - [https://www.tremor.so](https://www.tremor.so)
+ - date published: 2023-10-25T22:41:30.193965+00:00
+ - user: None
+ - tags: []
+
+## Tweek Calendar — Minimal To Do list and Weekly Task Planner App
+ - [https://tweek.so](https://tweek.so)
+ - date published: 2023-10-25T22:41:31.700370+00:00
+ - user: None
+ - tags: []
+
+## Vento - Stress-Free Screen Recording
+ - [https://vento.so](https://vento.so)
+ - date published: 2023-10-25T22:41:33.922119+00:00
+ - user: None
+ - tags: []
+
+## http://abolish.social
+ - [http://abolish.social](http://abolish.social)
+ - date published: 2023-10-24T20:13:48.263115+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Aus.Social
+ - [https://aus.social](https://aus.social)
+ - date published: 2023-10-24T20:13:49.966651+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## chaos.social
+ - [https://chaos.social](https://chaos.social)
+ - date published: 2023-10-24T20:13:50.437577+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## The Gitea Community is asking Gitea Owners to correct
+conflicts of interest and restore Community Trust.
+ - [https://gitea-open-letter.coding.social](https://gitea-open-letter.coding.social)
+ - date published: 2023-10-24T20:13:51.584131+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Cyberplace
+ - [https://cyberplace.social](https://cyberplace.social)
+ - date published: 2023-10-24T20:13:52.156249+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## DEF CON Social
+ - [https://defcon.social](https://defcon.social)
+ - date published: 2023-10-24T20:13:53.592152+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## digitalcourage.social
+ - [https://digitalcourage.social](https://digitalcourage.social)
+ - date published: 2023-11-09T12:46:12.081546+00:00
+ - user: None
+ - tags: []
+
+## Firefish Social
+ - [https://firefish.social](https://firefish.social)
+ - date published: 2023-10-24T20:13:59.673761+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Flipboard
+ - [https://flipboard.social](https://flipboard.social)
+ - date published: 2023-10-24T20:14:00.608002+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## FLOSS.social
+ - [https://floss.social](https://floss.social)
+ - date published: 2023-10-24T20:14:01.314852+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Front-End Social
+ - [https://front-end.social](https://front-end.social)
+ - date published: 2023-10-24T20:14:01.864788+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Akkoma
+ - [https://genserver.social](https://genserver.social)
+ - date published: 2023-10-24T20:14:02.904857+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## graz.social
+ - [https://graz.social](https://graz.social)
+ - date published: 2023-10-25T22:41:35.241574+00:00
+ - user: None
+ - tags: []
+
+## Idle Mastodon
+ - [https://idlethumbs.social](https://idlethumbs.social)
+ - date published: 2023-11-12T18:45:17.298083+00:00
+ - user: None
+ - tags: []
+
+## Mastodon instances
+ - [https://instances.social](https://instances.social)
+ - date published: 2023-10-24T20:14:03.649565+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## kbin.social - Explore the Fediverse
+ - [https://kbin.social](https://kbin.social)
+ - date published: 2023-10-24T20:14:07.177014+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## kolektiva.social
+ - [https://kolektiva.social](https://kolektiva.social)
+ - date published: 2023-10-24T20:14:07.746877+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Mastodon
+ - [https://mastodon.social](https://mastodon.social)
+ - date published: 2023-10-24T20:14:08.225237+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Mozilla Social
+ - [https://mozilla.social](https://mozilla.social)
+ - date published: 2023-10-24T20:14:09.821304+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Mastodon 🐘
+ - [https://mstdn.social](https://mstdn.social)
+ - date published: 2023-10-24T20:14:10.330696+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## OpenDolphin
+ - [https://about.opendolphin.social](https://about.opendolphin.social)
+ - date published: 2023-10-24T20:13:16.241264+00:00
+ - user: None
+ - tags: []
+
+## Home · Pinafore
+ - [https://pinafore.social](https://pinafore.social)
+ - date published: 2023-10-24T20:14:11.069010+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Ponies on Mastodon
+ - [https://pony.social](https://pony.social)
+ - date published: 2023-10-24T20:14:11.679526+00:00
+ - user: None
+ - tags: ['mastodon', 'the left wing', 'lgbt']
+
+## Retro Social
+ - [https://retro.social](https://retro.social)
+ - date published: 2023-11-27T08:29:44.189204+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Rings
+ - [https://rings.social](https://rings.social)
+ - date published: 2023-10-24T20:14:16.984207+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Ex-Searchtodon: Private Timeline Search for Mastodon
+ - [https://searchtodon.social](https://searchtodon.social)
+ - date published: 2023-10-24T20:14:22.655817+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## SFBA.social
+ - [https://sfba.social](https://sfba.social)
+ - date published: 2023-10-24T20:14:23.701217+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Skyview
+ - [https://skyview.social](https://skyview.social)
+ - date published: 2023-10-24T20:14:24.128743+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## StreetPass for Mastodon
+ - [https://streetpass.social](https://streetpass.social)
+ - date published: 2023-10-24T20:14:24.933769+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## tapbots.social
+ - [https://tapbots.social](https://tapbots.social)
+ - date published: 2023-10-24T20:14:25.808474+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## TechHub
+ - [https://techhub.social](https://techhub.social)
+ - date published: 2023-10-24T20:14:26.335577+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Urbanists.Social
+ - [https://urbanists.social](https://urbanists.social)
+ - date published: 2023-10-24T20:14:26.879258+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## VT Social
+ - [https://vt.social](https://vt.social)
+ - date published: 2023-10-24T20:14:28.715062+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Mastodon
+ - [https://wikimedia.social](https://wikimedia.social)
+ - date published: 2023-10-24T20:14:29.349003+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Commodore Software - New Files
+ - [https://commodore.software](https://commodore.software)
+ - date published: 2023-11-10T13:02:40.505410+00:00
+ - user: None
+ - tags: ['commodore', 'retro']
+
+## Ellie for Windows
+ - [https://ellie.software](https://ellie.software)
+ - date published: 2023-10-25T22:41:37.051718+00:00
+ - user: None
+ - tags: []
+
+## Adapt Site
+ - [https://www.adaptframework.solutions](https://www.adaptframework.solutions)
+ - date published: 2023-10-25T22:41:40.136262+00:00
+ - user: None
+ - tags: []
+
+## Lunatic: an Erlang-inspired runtime for WebAssembly
+ - [https://lunatic.solutions](https://lunatic.solutions)
+ - date published: 2023-10-25T22:41:46.372898+00:00
+ - user: None
+ - tags: []
+
+## Velociraptor Aerospace Dynamics
+ - [https://vad.solutions](https://vad.solutions)
+ - date published: 2023-10-25T22:41:49.222188+00:00
+ - user: None
+ - tags: []
+
+## 0ut3r Space
+ - [https://0ut3r.space](https://0ut3r.space)
+ - date published: 2023-10-25T22:41:55.742385+00:00
+ - user: None
+ - tags: []
+
+## Alan's Space
+ - [https://18alan.space](https://18alan.space)
+ - date published: 2023-10-25T09:24:43.871441+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ariadne's Space
+ - [https://ariadne.space](https://ariadne.space)
+ - date published: 2023-10-25T09:24:45.081532+00:00
+ - user: None
+ - tags: ['personal']
+
+## SpaceBadgers
+ - [https://badgers.space](https://badgers.space)
+ - date published: 2023-10-25T22:41:57.198709+00:00
+ - user: None
+ - tags: []
+
+## Becca Ricks
+ - [https://beccaricks.space](https://beccaricks.space)
+ - date published: 2023-10-25T08:55:57.797271+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ben Calderon's Web Page
+ - [https://benjcal.space](https://benjcal.space)
+ - date published: 2023-10-25T08:55:59.360622+00:00
+ - user: None
+ - tags: ['personal']
+
+## Can't Unsee
+ - [https://cantunsee.space](https://cantunsee.space)
+ - date published: 2023-10-25T22:41:57.679574+00:00
+ - user: None
+ - tags: []
+
+## The Dragon's Cave
+ - [https://dragonscave.space](https://dragonscave.space)
+ - date published: 2023-10-25T22:41:58.143211+00:00
+ - user: None
+ - tags: []
+
+## Drifting in Space
+ - [https://driftingin.space](https://driftingin.space)
+ - date published: 2023-10-25T22:42:03.587468+00:00
+ - user: None
+ - tags: []
+
+## Royal Icing
+ - [https://icing.space](https://icing.space)
+ - date published: 2023-10-25T09:24:46.037499+00:00
+ - user: None
+ - tags: ['personal']
+
+## Recent Posts — Jakob's Personal Webpage
+ - [https://jakob.space](https://jakob.space)
+ - date published: 2023-10-25T09:24:48.365761+00:00
+ - user: None
+ - tags: ['personal']
+
+## Latent Space | swyx | Substack
+ - [https://www.latent.space](https://www.latent.space)
+ - date published: 2023-10-25T22:42:07.060753+00:00
+ - user: None
+ - tags: []
+
+## Log In | LeoLabs
+ - [https://platform.leolabs.space](https://platform.leolabs.space)
+ - date published: 2023-10-25T22:42:09.201538+00:00
+ - user: None
+ - tags: []
+
+## Libre Space Foundation
+ - [https://libre.space](https://libre.space)
+ - date published: 2023-10-25T22:42:11.386945+00:00
+ - user: None
+ - tags: []
+
+## makeworld.space
+ - [https://www.makeworld.space](https://www.makeworld.space)
+ - date published: 2023-10-25T22:42:12.199594+00:00
+ - user: None
+ - tags: []
+
+## NodePad.
+ - [https://nodepad.space](https://nodepad.space)
+ - date published: 2023-10-25T22:42:13.077793+00:00
+ - user: None
+ - tags: []
+
+## OldBytes Space - Mastodon
+ - [https://oldbytes.space](https://oldbytes.space)
+ - date published: 2023-10-24T20:14:40.345599+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## sabrinas.space -
+ - [https://sabrinas.space](https://sabrinas.space)
+ - date published: 2023-10-25T22:42:16.798161+00:00
+ - user: None
+ - tags: []
+
+## Live Starlink Satellite and Coverage Map
+ - [https://satellitemap.space](https://satellitemap.space)
+ - date published: 2023-10-25T22:42:18.342062+00:00
+ - user: None
+ - tags: []
+
+## the sporks space - party with sporks in space
+ - [https://sporks.space](https://sporks.space)
+ - date published: 2023-10-25T22:42:26.491552+00:00
+ - user: None
+ - tags: []
+
+## strangeobject.space
+ - [https://strangeobject.space](https://strangeobject.space)
+ - date published: 2023-10-25T22:42:27.285300+00:00
+ - user: None
+ - tags: []
+
+## Swarm - Low cost, global satellite connectivity for IoT
+ - [https://swarm.space](https://swarm.space)
+ - date published: 2023-10-25T22:42:29.401566+00:00
+ - user: None
+ - tags: []
+
+## http://karambolage.t-cup.space
+ - [http://karambolage.t-cup.space](http://karambolage.t-cup.space)
+ - date published: 2023-10-25T22:42:30.252966+00:00
+ - user: None
+ - tags: []
+
+## tafc.space
+ - [https://tafc.space](https://tafc.space)
+ - date published: 2023-10-25T22:42:32.984763+00:00
+ - user: None
+ - tags: []
+
+## zverok's space
+ - [https://zverok.space](https://zverok.space)
+ - date published: 2023-10-25T08:56:01.367009+00:00
+ - user: None
+ - tags: ['personal']
+
+## http://0x0.st
+ - [http://0x0.st](http://0x0.st)
+ - date published: 2023-10-25T22:42:38.296344+00:00
+ - user: None
+ - tags: []
+
+## Andrey Listopadov
+ - [https://andreyor.st](https://andreyor.st)
+ - date published: 2023-10-25T08:57:23.593103+00:00
+ - user: None
+ - tags: ['personal']
+
+## Baest
+ - [https://bae.st](https://bae.st)
+ - date published: 2023-10-25T22:42:39.183960+00:00
+ - user: None
+ - tags: []
+
+## Julien Jorge's Personal Website
+ - [https://julien.jorge.st](https://julien.jorge.st)
+ - date published: 2023-10-25T08:56:02.922696+00:00
+ - user: None
+ - tags: ['personal']
+
+## Launch Your Startup in Days, Not Weeks | ShipFast
+ - [https://shipfa.st](https://shipfa.st)
+ - date published: 2023-10-25T22:42:40.431705+00:00
+ - user: None
+ - tags: []
+
+## The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post
+ - [https://wapo.st](https://wapo.st)
+ - date published: 2023-10-31T22:17:45.086653+00:00
+ - user: None
+ - tags: []
+
+## x.st
+ - [https://x.st](https://x.st)
+ - date published: 2023-10-25T22:42:46.302777+00:00
+ - user: None
+ - tags: []
+
+## https://ddramdisk.store
+ - [https://ddramdisk.store](https://ddramdisk.store)
+ - date published: 2023-10-25T22:42:51.861670+00:00
+ - user: None
+ - tags: []
+
+## Gently Down the Stream
+ - [https://www.gentlydownthe.stream](https://www.gentlydownthe.stream)
+ - date published: 2023-10-25T22:42:57.556970+00:00
+ - user: None
+ - tags: []
+
+## Bauble
+ - [https://bauble.studio](https://bauble.studio)
+ - date published: 2023-10-25T22:43:03.761102+00:00
+ - user: None
+ - tags: []
+
+## gsplat 0.0.1 documentation
+ - [https://docs.gsplat.studio](https://docs.gsplat.studio)
+ - date published: 2023-10-25T22:43:05.748972+00:00
+ - user: None
+ - tags: []
+
+## Cardinal
+ - [https://cardinal.kx.studio](https://cardinal.kx.studio)
+ - date published: 2023-10-25T22:43:07.234190+00:00
+ - user: None
+ - tags: []
+
+## LX Studio
+ - [https://lx.studio](https://lx.studio)
+ - date published: 2023-11-01T08:44:40.767131+00:00
+ - user: None
+ - tags: []
+
+## Make-A-Video
+ - [https://makeavideo.studio](https://makeavideo.studio)
+ - date published: 2023-10-25T22:43:13.659023+00:00
+ - user: None
+ - tags: []
+
+## nerfstudio
+ - [https://docs.nerf.studio](https://docs.nerf.studio)
+ - date published: 2023-10-25T22:43:15.774720+00:00
+ - user: None
+ - tags: []
+
+## paul bowman studio
+ - [https://pdbowman.studio](https://pdbowman.studio)
+ - date published: 2023-11-10T18:20:29.303681+00:00
+ - user: None
+ - tags: []
+
+## Engine
+ - [https://www.engine.study](https://www.engine.study)
+ - date published: 2023-10-25T22:43:16.781717+00:00
+ - user: None
+ - tags: []
+
+## Atmos | Everything you need to create color palettes
+ - [https://atmos.style](https://atmos.style)
+ - date published: 2023-10-25T22:43:18.155390+00:00
+ - user: None
+ - tags: []
+
+## Open Props: sub-atomic styles
+ - [https://open-props.style](https://open-props.style)
+ - date published: 2023-10-25T22:43:20.777027+00:00
+ - user: None
+ - tags: []
+
+## Oriental Review
+ - [https://orientalreview.su](https://orientalreview.su)
+ - date published: 2023-11-28T09:56:23.700637+00:00
+ - user: None
+ - tags: []
+
+## Jeff Sandberg's Blog
+ - [https://pdx.su](https://pdx.su)
+ - date published: 2023-10-25T22:43:21.559860+00:00
+ - user: None
+ - tags: []
+
+## Design Systems
+ - [https://publication.design.systems](https://publication.design.systems)
+ - date published: 2023-10-25T22:43:24.551178+00:00
+ - user: None
+ - tags: []
+
+## Determinate Systems
+ - [https://determinate.systems](https://determinate.systems)
+ - date published: 2023-10-25T22:43:25.477735+00:00
+ - user: None
+ - tags: []
+
+## discuss.systems
+ - [https://discuss.systems](https://discuss.systems)
+ - date published: 2023-10-25T22:43:26.270553+00:00
+ - user: None
+ - tags: []
+
+## Edgeless Systems GmbH
+ - [https://blog.edgeless.systems](https://blog.edgeless.systems)
+ - date published: 2023-10-25T22:43:26.847779+00:00
+ - user: None
+ - tags: []
+
+## Yihong Zhang
+ - [https://effect.systems](https://effect.systems)
+ - date published: 2023-10-25T08:56:04.614450+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hypermedia Systems
+ - [https://hypermedia.systems](https://hypermedia.systems)
+ - date published: 2023-10-25T22:43:27.804400+00:00
+ - user: None
+ - tags: []
+
+## Intergalactic.systems
+ - [https://intergalactic.systems](https://intergalactic.systems)
+ - date published: 2023-10-25T22:43:29.001231+00:00
+ - user: None
+ - tags: []
+
+## http://bqnpad.mechanize.systems
+ - [http://bqnpad.mechanize.systems](http://bqnpad.mechanize.systems)
+ - date published: 2023-10-25T22:43:34.269898+00:00
+ - user: None
+ - tags: []
+
+## Metaphor - AI powered search
+ - [https://metaphor.systems](https://metaphor.systems)
+ - date published: 2023-10-25T22:43:35.143431+00:00
+ - user: None
+ - tags: []
+
+## Sketch.systems
+ - [https://sketch.systems](https://sketch.systems)
+ - date published: 2023-10-25T22:43:36.943815+00:00
+ - user: None
+ - tags: []
+
+## Linux Laptops - Powered by Open Source
+ – Star Labs®
+ - [https://starlabs.systems](https://starlabs.systems)
+ - date published: 2023-10-25T22:43:45.042353+00:00
+ - user: None
+ - tags: []
+
+## Linux Laptops - Powered by Open Source
+ – Star Labs®
+ - [https://us.starlabs.systems](https://us.starlabs.systems)
+ - date published: 2023-10-25T22:43:48.241996+00:00
+ - user: None
+ - tags: []
+
+## Treehouse Mastodon
+ - [https://social.treehouse.systems](https://social.treehouse.systems)
+ - date published: 2023-10-24T20:14:43.307631+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Build your dream team
+ - [https://www.a.team](https://www.a.team)
+ - date published: 2023-10-25T22:43:54.943837+00:00
+ - user: None
+ - tags: []
+
+## Supernova's Tilde Site
+ - [https://supernova.tilde.team](https://supernova.tilde.team)
+ - date published: 2023-10-25T22:43:55.815714+00:00
+ - user: None
+ - tags: []
+
+## Alice GG
+ - [https://alicegg.tech](https://alicegg.tech)
+ - date published: 2023-10-25T09:24:49.458800+00:00
+ - user: None
+ - tags: ['personal']
+
+## Astrid Yu
+ - [https://astrid.tech](https://astrid.tech)
+ - date published: 2023-10-25T08:56:06.592458+00:00
+ - user: None
+ - tags: ['personal']
+
+## AUGMENTAL - Home
+ - [https://www.augmental.tech](https://www.augmental.tech)
+ - date published: 2023-10-25T22:43:56.470480+00:00
+ - user: None
+ - tags: []
+
+## Badar Jahangir Kayani – Electrical Engineer | Designer | Maker
+ - [https://badar.tech](https://badar.tech)
+ - date published: 2023-10-25T22:43:59.148186+00:00
+ - user: None
+ - tags: []
+
+## Berty · Berty Technologies
+ - [https://berty.tech](https://berty.tech)
+ - date published: 2023-10-25T22:44:01.666558+00:00
+ - user: None
+ - tags: []
+
+## Branch Magazine: A Sustainable and Just Internet for All - Branch
+ - [https://branch.climateaction.tech](https://branch.climateaction.tech)
+ - date published: 2023-10-25T22:44:02.994758+00:00
+ - user: None
+ - tags: []
+
+## Home - Collective Action in Tech
+ - [https://collectiveaction.tech](https://collectiveaction.tech)
+ - date published: 2023-10-25T22:44:04.828483+00:00
+ - user: None
+ - tags: []
+
+## About CRDTs • Conflict-free Replicated Data Types
+ - [https://crdt.tech](https://crdt.tech)
+ - date published: 2023-10-25T22:44:05.642388+00:00
+ - user: None
+ - tags: []
+
+## Dropbox Tech Blog
+ - [https://dropbox.tech](https://dropbox.tech)
+ - date published: 2023-10-25T08:26:02.427971+00:00
+ - user: None
+ - tags: []
+
+## Ekaitz's tech blog
+ - [https://ekaitz.elenq.tech](https://ekaitz.elenq.tech)
+ - date published: 2023-10-31T06:18:29.436334+00:00
+ - user: None
+ - tags: []
+
+## Escape - API Security
+ - [https://escape.tech](https://escape.tech)
+ - date published: 2023-10-25T22:44:07.143506+00:00
+ - user: None
+ - tags: []
+
+## http://chipexplorer.eto.tech
+ - [http://chipexplorer.eto.tech](http://chipexplorer.eto.tech)
+ - date published: 2023-10-25T22:44:08.467623+00:00
+ - user: None
+ - tags: []
+
+## Gabriel Sieben
+ - [https://gabrielsieben.tech](https://gabrielsieben.tech)
+ - date published: 2023-10-25T08:56:08.051568+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://www.hearsay.tech
+ - [https://www.hearsay.tech](https://www.hearsay.tech)
+ - date published: 2023-10-29T22:44:07.726221+00:00
+ - user: None
+ - tags: []
+
+## Landing Engineering
+ - [https://blog.hellolanding.tech](https://blog.hellolanding.tech)
+ - date published: 2023-10-25T22:44:10.798939+00:00
+ - user: None
+ - tags: []
+
+## Hex - Magical data tools for working with data together
+ - [https://hex.tech](https://hex.tech)
+ - date published: 2023-10-25T22:44:12.529147+00:00
+ - user: None
+ - tags: []
+
+## HPC-AI Tech - Deep Learning Speed and Scale, Open Source
+ - [https://www.hpc-ai.tech](https://www.hpc-ai.tech)
+ - date published: 2023-10-25T22:44:15.106088+00:00
+ - user: None
+ - tags: []
+
+## Intercept, debug & mock HTTP with HTTP Toolkit
+ - [https://httptoolkit.tech](https://httptoolkit.tech)
+ - date published: 2023-10-25T22:44:22.116524+00:00
+ - user: None
+ - tags: []
+
+## IBEX
+ - [https://ibex.tech](https://ibex.tech)
+ - date published: 2023-10-25T22:44:23.978327+00:00
+ - user: None
+ - tags: []
+
+## iodé - Take back control of your data.
+ - [https://iode.tech](https://iode.tech)
+ - date published: 2023-10-25T22:44:27.390058+00:00
+ - user: None
+ - tags: []
+
+## Home | IPFS Blog & News
+ - [https://blog.ipfs.tech](https://blog.ipfs.tech)
+ - date published: 2023-10-25T22:44:33.770088+00:00
+ - user: None
+ - tags: []
+
+## Leporello.js · Interactive functional programming IDE for JavaScript
+ - [https://leporello.tech](https://leporello.tech)
+ - date published: 2023-10-25T22:44:34.491251+00:00
+ - user: None
+ - tags: []
+
+## Lewis Campbell Tech
+ - [https://lewiscampbell.tech](https://lewiscampbell.tech)
+ - date published: 2023-11-12T18:27:09.724007+00:00
+ - user: None
+ - tags: []
+
+## We are Manas
+ - [https://manas.tech](https://manas.tech)
+ - date published: 2023-10-26T06:39:43.427836+00:00
+ - user: None
+ - tags: []
+
+## Home | Modos
+ - [https://www.modos.tech](https://www.modos.tech)
+ - date published: 2023-10-25T22:44:40.523599+00:00
+ - user: None
+ - tags: []
+
+## Neon — Serverless, Fault-Tolerant, Branchable Postgres
+ - [https://neon.tech](https://neon.tech)
+ - date published: 2023-10-25T22:44:42.493550+00:00
+ - user: None
+ - tags: []
+
+## Nothing (United States)
+ - [https://us.nothing.tech](https://us.nothing.tech)
+ - date published: 2023-10-25T22:44:45.536178+00:00
+ - user: None
+ - tags: []
+
+## http://report.opensustain.tech
+ - [http://report.opensustain.tech](http://report.opensustain.tech)
+ - date published: 2023-10-25T22:44:45.913149+00:00
+ - user: None
+ - tags: []
+
+## Qdrant - Vector Database
+ - [https://qdrant.tech](https://qdrant.tech)
+ - date published: 2023-10-25T22:44:47.684444+00:00
+ - user: None
+ - tags: []
+
+## Sanket Shanbhag
+ - [https://sanket.tech](https://sanket.tech)
+ - date published: 2023-10-25T08:57:30.024022+00:00
+ - user: None
+ - tags: ['personal']
+
+## spiffytech
+ - [https://spiffy.tech](https://spiffy.tech)
+ - date published: 2023-10-25T22:44:49.054342+00:00
+ - user: None
+ - tags: []
+
+## Vladimir Klepov as a Coder
+ - [https://blog.thoughtspile.tech](https://blog.thoughtspile.tech)
+ - date published: 2023-10-25T22:44:49.893333+00:00
+ - user: None
+ - tags: []
+
+## Learn Building Modern Go applications - Three Dots Labs blog
+ - [https://threedots.tech](https://threedots.tech)
+ - date published: 2023-11-01T08:44:41.241942+00:00
+ - user: None
+ - tags: []
+
+## TinyVG Vector Graphics
+ - [https://tinyvg.tech](https://tinyvg.tech)
+ - date published: 2023-10-27T12:07:55.561755+00:00
+ - user: None
+ - tags: []
+
+## ToolHub · Online webtools
+ - [https://toolhub.tech](https://toolhub.tech)
+ - date published: 2023-10-27T12:07:58.014742+00:00
+ - user: None
+ - tags: []
+
+## TRIBAL KNOWLEDGE - Knowledge Sharing Process Automation
+ - [https://www.tribalknowledge.tech](https://www.tribalknowledge.tech)
+ - date published: 2023-10-27T12:08:00.055280+00:00
+ - user: None
+ - tags: []
+
+## Turso Blog
+ - [https://blog.turso.tech](https://blog.turso.tech)
+ - date published: 2023-10-25T10:23:55.028481+00:00
+ - user: None
+ - tags: []
+
+## Unstructed.tech
+ - [https://unstructed.tech](https://unstructed.tech)
+ - date published: 2023-10-27T12:08:02.752207+00:00
+ - user: None
+ - tags: []
+
+## /uses
+ - [https://uses.tech](https://uses.tech)
+ - date published: 2023-10-27T12:08:40.398803+00:00
+ - user: None
+ - tags: []
+
+## Abstract Machinist
+ - [https://voidstar.tech](https://voidstar.tech)
+ - date published: 2023-10-27T12:08:41.186511+00:00
+ - user: None
+ - tags: []
+
+## Winny's Blog
+ - [https://blog.winny.tech](https://blog.winny.tech)
+ - date published: 2023-10-25T09:24:51.352755+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://pranshum.yarn.tech
+ - [https://pranshum.yarn.tech](https://pranshum.yarn.tech)
+ - date published: 2023-10-27T12:08:42.161041+00:00
+ - user: None
+ - tags: []
+
+## Zuru Tech - Changing the way we build
+ - [https://zuru.tech](https://zuru.tech)
+ - date published: 2023-10-27T12:08:43.088416+00:00
+ - user: None
+ - tags: []
+
+## The Stack
+ - [https://thestack.technology](https://thestack.technology)
+ - date published: 2023-10-27T12:08:49.317432+00:00
+ - user: None
+ - tags: []
+
+## The Stack
+ - [https://www.thestack.technology](https://www.thestack.technology)
+ - date published: 2023-10-27T12:08:50.148423+00:00
+ - user: None
+ - tags: []
+
+## blog.dave.tf
+ - [https://blog.dave.tf](https://blog.dave.tf)
+ - date published: 2023-10-25T09:24:52.465504+00:00
+ - user: None
+ - tags: ['personal']
+
+## พิพิธภัณฑสถานแห่งชาติ
+ - [http://www.virtualmuseum.finearts.go.th](http://www.virtualmuseum.finearts.go.th)
+ - date published: 2023-11-13T13:43:42.490087+00:00
+ - user: None
+ - tags: ['museum']
+
+## notes.dt.in.th | notes.dt.in.th
+ - [https://notes.dt.in.th](https://notes.dt.in.th)
+ - date published: 2023-10-25T22:46:03.059073+00:00
+ - user: None
+ - tags: []
+
+## DX Tips: The DevTools Magazine
+ - [https://dx.tips](https://dx.tips)
+ - date published: 2023-10-25T22:46:09.880882+00:00
+ - user: None
+ - tags: []
+
+## Fedi.Tips – An Unofficial Guide to Mastodon and the Fediverse
+ - [https://fedi.tips](https://fedi.tips)
+ - date published: 2023-10-25T22:46:12.057334+00:00
+ - user: None
+ - tags: []
+
+## Overview of Projects
+ - [https://deat.tk](https://deat.tk)
+ - date published: 2023-10-25T22:46:12.989902+00:00
+ - user: None
+ - tags: []
+
+## keygenmusic.tk - tracker music player
+ - [https://keygenmusic.tk](https://keygenmusic.tk)
+ - date published: 2023-10-25T11:13:57.912458+00:00
+ - user: None
+ - tags: ['chiptune', 'demoscene', 'keygen']
+
+## WeTransfer - Send Large Files & Share Photos Online - Up to 2GB Free
+ - [https://we.tl](https://we.tl)
+ - date published: 2023-11-06T22:50:48.746634+00:00
+ - user: None
+ - tags: []
+
+## Watch Anime Online, Free Anime Streaming Online on Aniwatch.to Anime Website
+ - [https://aniwatch.to](https://aniwatch.to)
+ - date published: 2023-10-25T13:12:13.844100+00:00
+ - user: None
+ - tags: ['video streaming', 'anime']
+
+## DEV Community
+ - [https://dev.to](https://dev.to)
+ - date published: 2023-10-25T11:33:22.959017+00:00
+ - user: None
+ - tags: []
+
+## Every
+ - [https://every.to](https://every.to)
+ - date published: 2023-10-25T22:46:14.453278+00:00
+ - user: None
+ - tags: []
+
+## iris
+ - [https://iris.to](https://iris.to)
+ - date published: 2023-10-25T22:46:14.765909+00:00
+ - user: None
+ - tags: []
+
+## Harley Watson
+ - [https://lobi.to](https://lobi.to)
+ - date published: 2023-10-25T08:56:10.693079+00:00
+ - user: None
+ - tags: ['personal']
+
+## mas.to
+ - [https://mas.to](https://mas.to)
+ - date published: 2023-10-25T22:46:15.173121+00:00
+ - user: None
+ - tags: []
+
+## PaidLink.to: Create monetized links to anything
+ - [https://paidlink.to](https://paidlink.to)
+ - date published: 2023-10-25T22:46:16.431257+00:00
+ - user: None
+ - tags: []
+
+## nick quaranto
+ - [https://quaran.to](https://quaran.to)
+ - date published: 2023-10-25T09:24:54.180036+00:00
+ - user: None
+ - tags: ['personal']
+
+## Testimonial - Collect and embed testimonials in minutes
+ - [https://testimonial.to](https://testimonial.to)
+ - date published: 2023-10-25T22:46:16.956147+00:00
+ - user: None
+ - tags: []
+
+## cr.yp.to: 
+blog
+ - [https://blog.cr.yp.to](https://blog.cr.yp.to)
+ - date published: 2023-10-25T22:46:22.681247+00:00
+ - user: None
+ - tags: []
+
+## Intro
+ - [https://cpucycles.cr.yp.to](https://cpucycles.cr.yp.to)
+ - date published: 2023-10-25T22:46:23.684550+00:00
+ - user: None
+ - tags: []
+
+## cr.yp.to
+ - [https://cr.yp.to](https://cr.yp.to)
+ - date published: 2023-10-25T22:46:25.146248+00:00
+ - user: None
+ - tags: []
+
+## PQSRC:
+Introduction
+ - [https://pqsrc.cr.yp.to](https://pqsrc.cr.yp.to)
+ - date published: 2023-10-25T22:46:26.119793+00:00
+ - user: None
+ - tags: []
+
+## librandombytes: Intro
+ - [https://randombytes.cr.yp.to](https://randombytes.cr.yp.to)
+ - date published: 2023-10-25T22:46:27.104699+00:00
+ - user: None
+ - tags: []
+
 ## Apple World Today
  - [https://appleworld.today](https://appleworld.today)
  - date published: 2023-10-25T09:38:28.510492+00:00
@@ -136,6 +1503,12 @@
  - user: None
  - tags: []
 
+## https://www.fubo.tv
+ - [https://www.fubo.tv](https://www.fubo.tv)
+ - date published: 2023-11-28T21:02:10+00:00
+ - user: rumpel
+ - tags: ['video streaming']
+
 ## Home Page - Golf Clash
  - [http://golfclash.tv](http://golfclash.tv)
  - date published: 2023-11-24T08:54:06.450513+00:00
@@ -237,6 +1610,12 @@
  - date published: 2023-10-24T20:06:05.003193+00:00
  - user: None
  - tags: ['video streaming']
+
+## Watch Scientology Network: TV Channel and Video On Demand
+ - [https://www.scientology.tv](https://www.scientology.tv)
+ - date published: 2023-11-27T13:00:28+00:00
+ - user: rumpel
+ - tags: ['scientology']
 
 ## STV News | The home of Scottish News, Sport & Weather
  - [https://news.stv.tv](https://news.stv.tv)
@@ -544,6 +1923,12 @@
  - user: None
  - tags: []
 
+## University of Portsmouth | A New Breed of University
+ - [https://www.port.ac.uk](https://www.port.ac.uk)
+ - date published: 2023-11-27T11:22:19.300413+00:00
+ - user: None
+ - tags: []
+
 ## Queen Mary University of London
  - [https://www.qmul.ac.uk](https://www.qmul.ac.uk)
  - date published: 2023-10-25T22:49:40.586466+00:00
@@ -788,6 +2173,12 @@
  - [https://www.edinburghlive.co.uk](https://www.edinburghlive.co.uk)
  - date published: 2023-10-25T22:52:02.414204+00:00
  - user: None
+ - tags: []
+
+## EF Education First - United Kingdom
+ - [https://www.ef.co.uk](https://www.ef.co.uk)
+ - date published: 2023-11-28T20:18:24+00:00
+ - user: rumpel
  - tags: []
 
 ## Finance Jobs, Banking and Tech Jobs - UK - eFinancialCareers
@@ -1384,6 +2775,12 @@
  - user: None
  - tags: []
 
+## https://www.zoopla.co.uk
+ - [https://www.zoopla.co.uk](https://www.zoopla.co.uk)
+ - date published: 2023-11-27T08:14:22.871844+00:00
+ - user: None
+ - tags: []
+
 ## Central Digital and Data Office
  - [https://cddo.blog.gov.uk](https://cddo.blog.gov.uk)
  - date published: 2023-10-25T22:56:10.911147+00:00
@@ -1523,6 +2920,12 @@
  - user: None
  - tags: []
 
+## Cats Protection | UK’s Largest Cat Welfare Charity
+ - [https://www.cats.org.uk](https://www.cats.org.uk)
+ - date published: 2023-11-28T20:50:12+00:00
+ - user: rumpel
+ - tags: []
+
 ## The Centre for Computing History - Computer and Video Game Museum - Cambridge
  - [https://www.computinghistory.org.uk](https://www.computinghistory.org.uk)
  - date published: 2023-10-25T22:57:02.300127+00:00
@@ -1606,6 +3009,12 @@
  - date published: 2023-11-17T07:41:39.916069+00:00
  - user: None
  - tags: []
+
+## Make every gift count.
+ - [https://www.stewardship.org.uk](https://www.stewardship.org.uk)
+ - date published: 2023-11-27T12:17:31+00:00
+ - user: rumpel
+ - tags: ['christian']
 
 ## Tate
  - [https://www.tate.org.uk](https://www.tate.org.uk)
@@ -1911,7 +3320,7 @@
  - [https://www.vaticannews.va](https://www.vaticannews.va)
  - date published: 2023-10-25T09:29:37.580864+00:00
  - user: None
- - tags: []
+ - tags: ['news', 'religion', 'catholic', 'christianity', 'vatican']
 
 ## Domain Seized by Law Enforcement
  - [http://breached.vc](http://breached.vc)
@@ -2049,6 +3458,12 @@
 ## Eric Bailey – Inclusive design advocate, writer, developer, and speaker
  - [https://ericwbailey.website](https://ericwbailey.website)
  - date published: 2023-10-25T23:00:57.223545+00:00
+ - user: None
+ - tags: []
+
+## this godforsaken website
+ - [https://godforsaken.website](https://godforsaken.website)
+ - date published: 2023-11-28T03:20:50.728837+00:00
  - user: None
  - tags: []
 
@@ -2334,6 +3749,12 @@
  - user: None
  - tags: []
 
+## Alexander Smirnov
+ - [https://asmirnov.xyz](https://asmirnov.xyz)
+ - date published: 2023-11-27T17:46:34.896239+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Home | beepb00p
  - [https://beepb00p.xyz](https://beepb00p.xyz)
  - date published: 2023-10-25T23:02:30.621444+00:00
@@ -2552,6 +3973,12 @@
  - user: None
  - tags: []
 
+## Merely.xyz
+ - [https://merely.xyz](https://merely.xyz)
+ - date published: 2023-11-27T11:10:12+00:00
+ - user: rumpel
+ - tags: ['personal']
+
 ## Matt Brown
  - [https://www.mtb.xyz](https://www.mtb.xyz)
  - date published: 2023-10-25T09:25:08.091231+00:00
@@ -2630,6 +4057,12 @@
  - user: None
  - tags: []
 
+## tga
+ - [https://space55.xyz](https://space55.xyz)
+ - date published: 2023-11-27T10:59:14+00:00
+ - user: rumpel
+ - tags: ['personal']
+
 ## Index
  - [https://sqrtminusone.xyz](https://sqrtminusone.xyz)
  - date published: 2023-10-25T23:04:30.564772+00:00
@@ -2707,6 +4140,12 @@
  - date published: 2023-10-25T09:25:15.534923+00:00
  - user: None
  - tags: ['personal']
+
+## Toby Lam’s Blog
+ - [https://tobylam.xyz](https://tobylam.xyz)
+ - date published: 2023-11-26T16:36:13.535205+00:00
+ - user: None
+ - tags: []
 
 ## Together AI
  - [https://www.together.xyz](https://www.together.xyz)
@@ -2821,6 +4260,12 @@
  - date published: 2023-10-25T23:05:58.275927+00:00
  - user: None
  - tags: []
+
+## Open Doors - Serving persecuted Christians worldwide
+ - [https://www.opendoors.org.za](https://www.opendoors.org.za)
+ - date published: 2023-11-27T12:18:20+00:00
+ - user: rumpel
+ - tags: ['christian', 'catholic', 'religion', 'persecution']
 
 ## connor.zip
  - [https://connor.zip](https://connor.zip)

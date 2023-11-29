@@ -1,3 +1,718 @@
+## Index
+ - [https://two-wrongs.com](https://two-wrongs.com)
+ - date published: 2023-10-25T17:51:21.066956+00:00
+ - user: None
+ - tags: []
+
+## Twofer Goofer
+ - [https://twofergoofer.com](https://twofergoofer.com)
+ - date published: 2023-10-25T17:51:28.951235+00:00
+ - user: None
+ - tags: []
+
+## Ty Hopp
+ - [https://tyhopp.com](https://tyhopp.com)
+ - date published: 2023-10-25T17:51:34.490565+00:00
+ - user: None
+ - tags: []
+
+## Hello. - Tyler Cipriani
+ - [https://tylercipriani.com](https://tylercipriani.com)
+ - date published: 2023-10-25T17:51:35.596048+00:00
+ - user: None
+ - tags: []
+
+## tylerneylon.com
+ - [https://tylerneylon.com](https://tylerneylon.com)
+ - date published: 2023-10-25T17:51:37.059102+00:00
+ - user: None
+ - tags: []
+
+## Spurious Correlations
+ - [https://tylervigen.com](https://tylervigen.com)
+ - date published: 2023-10-25T17:51:39.016835+00:00
+ - user: None
+ - tags: []
+
+## Tynan.com – Life Outside the Box
+ - [https://tynan.com](https://tynan.com)
+ - date published: 2023-10-25T08:48:20.581559+00:00
+ - user: None
+ - tags: ['personal']
+
+## Type-Level TypeScript
+ - [https://type-level-typescript.com](https://type-level-typescript.com)
+ - date published: 2023-10-25T17:51:40.112477+00:00
+ - user: None
+ - tags: []
+
+## Type-Signature
+ - [https://type-signature.com](https://type-signature.com)
+ - date published: 2023-10-25T17:51:40.689549+00:00
+ - user: None
+ - tags: []
+
+## Nabla — the isometric color font by Arthur Reinders Folmer & Just van Rossum
+ - [https://nabla.typearture.com](https://nabla.typearture.com)
+ - date published: 2023-10-25T17:51:41.588325+00:00
+ - user: None
+ - tags: []
+
+## Typefully - Twitter Thread Maker & Analytics
+ - [https://typefully.com](https://typefully.com)
+ - date published: 2023-10-25T17:51:48.017945+00:00
+ - user: None
+ - tags: []
+
+## https://dilbertblog.typepad.com
+ - [https://dilbertblog.typepad.com](https://dilbertblog.typepad.com)
+ - date published: 2023-10-25T17:51:48.270459+00:00
+ - user: None
+ - tags: []
+
+## https://twistedphysics.typepad.com
+ - [https://twistedphysics.typepad.com](https://twistedphysics.typepad.com)
+ - date published: 2023-10-25T17:51:48.512765+00:00
+ - user: None
+ - tags: []
+
+## Varun Gandhi | writing, compilers, software engineering and minutae
+ - [https://typesanitizer.com](https://typesanitizer.com)
+ - date published: 2023-10-25T17:51:53.999121+00:00
+ - user: None
+ - tags: []
+
+## Type Scale - A Visual Calculator
+ - [https://typescale.com](https://typescale.com)
+ - date published: 2023-10-25T17:51:55.482502+00:00
+ - user: None
+ - tags: []
+
+## Type Theory Forall - Episodes
+ - [https://www.typetheoryforall.com](https://www.typetheoryforall.com)
+ - date published: 2023-10-25T17:51:57.326764+00:00
+ - user: None
+ - tags: []
+
+## Typical Programmer
+ - [https://typicalprogrammer.com](https://typicalprogrammer.com)
+ - date published: 2023-10-25T09:21:15.557044+00:00
+ - user: None
+ - tags: ['personal']
+
+## TypingMind — A better UI for ChatGPT
+ - [https://www.typingmind.com](https://www.typingmind.com)
+ - date published: 2023-10-25T17:51:57.929093+00:00
+ - user: None
+ - tags: []
+
+## Typography for Lawyers
+ - [https://typographyforlawyers.com](https://typographyforlawyers.com)
+ - date published: 2023-10-25T17:52:00.702013+00:00
+ - user: None
+ - tags: []
+
+## UAV Navigation | Cutting-edge Autopilots
+ - [https://www.uavnavigation.com](https://www.uavnavigation.com)
+ - date published: 2023-11-08T11:27:58.101729+00:00
+ - user: None
+ - tags: ['avionics', 'aerospace', 'aviation']
+
+## Zostań kierowcą i osiągaj przychody albo zamów przejazd | Uber Polska
+ - [https://www.uber.com](https://www.uber.com)
+ - date published: 2023-10-25T17:52:04.965059+00:00
+ - user: None
+ - tags: []
+
+## Uber Losses
+ - [https://uberlosses.com](https://uberlosses.com)
+ - date published: 2023-10-25T17:52:05.844245+00:00
+ - user: None
+ - tags: []
+
+## Ubisoft | Welcome to the official Ubisoft website
+ - [https://www.ubisoft.com](https://www.ubisoft.com)
+ - date published: 2023-10-25T16:33:04.501312+00:00
+ - user: None
+ - tags: ['game studio', 'company']
+
+## Explore - Ubisoft Connect
+ - [https://ubisoftconnect.com](https://ubisoftconnect.com)
+ - date published: 2023-10-24T20:12:14.883217+00:00
+ - user: None
+ - tags: ['game store']
+
+## uBlock Origin - Free, open-source ad content blocker.
+ - [https://ublockorigin.com](https://ublockorigin.com)
+ - date published: 2023-11-01T08:43:18.943438+00:00
+ - user: None
+ - tags: ['ad blocker', 'open source']
+
+## Enterprise Open Source and Linux | Ubuntu
+ - [https://ubuntu.com](https://ubuntu.com)
+ - date published: 2023-10-25T08:31:54.631990+00:00
+ - user: None
+ - tags: ['operating system']
+
+## UbuntuPIT | Ubuntu Linux News, Tutorials and Apps
+ - [https://www.ubuntupit.com](https://www.ubuntupit.com)
+ - date published: 2023-10-25T09:36:30.703614+00:00
+ - user: None
+ - tags: ['tech news']
+
+## Catholic News Asia | Church, Features, Opinion, Gospel, Dioceses - UCA News
+ - [https://www.ucanews.com](https://www.ucanews.com)
+ - date published: 2023-11-27T12:16:44+00:00
+ - user: rumpel
+ - tags: ['catholic', 'christianity', 'religion']
+
+## udamonic.com - Home
+ - [https://udamonic.com](https://udamonic.com)
+ - date published: 2023-10-25T17:52:08.835786+00:00
+ - user: None
+ - tags: []
+
+## https://www.udemy.com
+ - [https://www.udemy.com](https://www.udemy.com)
+ - date published: 2023-10-24T20:19:37.720048+00:00
+ - user: None
+ - tags: ['skills', 'tutorials']
+
+## uDiscoverMusic: discover more about the world’s greatest music
+ - [https://www.udiscovermusic.com](https://www.udiscovermusic.com)
+ - date published: 2023-10-25T17:52:15.234962+00:00
+ - user: None
+ - tags: []
+
+## United Electronic Industries (UEI) – DAQ, Test, HIL
+ - [https://www.ueidaq.com](https://www.ueidaq.com)
+ - date published: 2023-11-08T11:27:00.057057+00:00
+ - user: None
+ - tags: ['avionics', 'aerospace', 'aviation']
+
+## Umar Farooqi
+ - [https://www.ufarooqi.com](https://www.ufarooqi.com)
+ - date published: 2023-10-25T17:52:16.423224+00:00
+ - user: None
+ - tags: []
+
+## UkrAgroConsult - Агроконсалтинг світового рівня
+ - [https://ukragroconsult.com](https://ukragroconsult.com)
+ - date published: 2023-10-25T17:52:18.721581+00:00
+ - user: None
+ - tags: []
+
+## uLisp Forum
+ - [http://forum.ulisp.com](http://forum.ulisp.com)
+ - date published: 2023-10-25T17:52:20.268833+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://www.ultimaker.com](https://www.ultimaker.com)
+ - date published: 2023-10-27T10:18:12.589341+00:00
+ - user: None
+ - tags: ['corporate', '3d printing']
+
+## Table of Contents | Ultimate Electronics Book
+ - [https://ultimateelectronicsbook.com](https://ultimateelectronicsbook.com)
+ - date published: 2023-10-25T17:52:21.797003+00:00
+ - user: None
+ - tags: []
+
+## Home - Ultimovacs
+ - [https://ultimovacs.com](https://ultimovacs.com)
+ - date published: 2023-10-25T17:52:23.798615+00:00
+ - user: None
+ - tags: []
+
+## UltraBoardGames | Reviews, tips, game rules and more. | UltraBoardGames
+ - [https://www.ultraboardgames.com](https://www.ultraboardgames.com)
+ - date published: 2023-10-25T11:19:43.994024+00:00
+ - user: None
+ - tags: []
+
+## Ultra FP64 – The Worlds First FPGA N64
+ - [https://www.ultrafp64.com](https://www.ultrafp64.com)
+ - date published: 2023-11-01T08:43:22.049092+00:00
+ - user: None
+ - tags: []
+
+## Umar Butler - A blog about law, technology and AI
+ - [https://umarbutler.com](https://umarbutler.com)
+ - date published: 2023-10-29T14:42:05.830955+00:00
+ - user: None
+ - tags: []
+
+## Home - Uncanny Magazine
+ - [https://uncannymagazine.com](https://uncannymagazine.com)
+ - date published: 2023-10-25T17:52:26.747785+00:00
+ - user: None
+ - tags: []
+
+## Unchained - Bitcoin, Ethereum, Crypto News and Resources
+ - [https://unchainedcrypto.com](https://unchainedcrypto.com)
+ - date published: 2023-10-25T17:52:29.771958+00:00
+ - user: None
+ - tags: []
+
+## Main Page
+ - [https://uncyclopedia.com](https://uncyclopedia.com)
+ - date published: 2023-10-27T13:10:24.269141+00:00
+ - user: None
+ - tags: []
+
+## Underpass App Company
+ - [https://underpassapp.com](https://underpassapp.com)
+ - date published: 2023-10-25T17:52:30.897766+00:00
+ - user: None
+ - tags: []
+
+## Understand Legacy Code | Understand Legacy Code
+ - [https://understandlegacycode.com](https://understandlegacycode.com)
+ - date published: 2023-10-25T17:52:32.315084+00:00
+ - user: None
+ - tags: []
+
+## Sign in
+ - [https://app.uneebee.com](https://app.uneebee.com)
+ - date published: 2023-11-18T09:11:01.611761+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Open-source tool for creating courses like Duolingo
+ - [https://uneebee.com](https://uneebee.com)
+ - date published: 2023-11-18T08:28:27+00:00
+ - user: None
+ - tags: []
+
+## Unencumbered by Facts – Taking unsubstantiation to new levels
+ - [https://unencumberedbyfacts.com](https://unencumberedbyfacts.com)
+ - date published: 2023-10-25T17:52:35.089789+00:00
+ - user: None
+ - tags: []
+
+## UnHerd | think again
+ - [https://unherd.com](https://unherd.com)
+ - date published: 2023-10-25T17:52:39.639011+00:00
+ - user: None
+ - tags: []
+
+## Unique Smartphones as Unique as You Are
+ - [https://www.unihertz.com](https://www.unihertz.com)
+ - date published: 2023-10-25T17:52:42.533323+00:00
+ - user: None
+ - tags: []
+
+## UNIHIKER - A single board computer brings you brand new experience.
+ - [https://www.unihiker.com](https://www.unihiker.com)
+ - date published: 2023-10-25T17:52:44.203207+00:00
+ - user: None
+ - tags: []
+
+## Latest News, Entertainment Stories And Viral Videos - UNILAD
+ - [https://www.unilad.com](https://www.unilad.com)
+ - date published: 2023-10-25T10:16:45.242033+00:00
+ - user: None
+ - tags: []
+
+## UnitedBSD
+ - [https://www.unitedbsd.com](https://www.unitedbsd.com)
+ - date published: 2023-10-25T17:52:45.497273+00:00
+ - user: None
+ - tags: []
+
+## United Nuclear , Scientific Equipment & Supplies
+ - [https://unitednuclear.com](https://unitednuclear.com)
+ - date published: 2023-10-25T17:52:48.419007+00:00
+ - user: None
+ - tags: []
+
+## Game Development Blog & Unity News | Unity Blog
+ - [https://blog.unity.com](https://blog.unity.com)
+ - date published: 2023-10-25T11:29:28.858327+00:00
+ - user: None
+ - tags: []
+
+## Unity Technologies - Investor relations
+ - [https://investors.unity.com](https://investors.unity.com)
+ - date published: 2023-10-25T17:52:49.862680+00:00
+ - user: None
+ - tags: []
+
+## Unity Real-Time Development Platform | 3D, 2D, VR & AR Engine
+ - [https://unity.com](https://unity.com)
+ - date published: 2023-10-25T08:39:27.798908+00:00
+ - user: None
+ - tags: ['game engine']
+
+## Universal-Sci
+ - [https://www.universal-sci.com](https://www.universal-sci.com)
+ - date published: 2023-10-25T17:52:51.756048+00:00
+ - user: None
+ - tags: []
+
+## Universe Today - Space and astronomy news
+ - [https://www.universetoday.com](https://www.universetoday.com)
+ - date published: 2023-10-25T17:52:54.285389+00:00
+ - user: None
+ - tags: []
+
+## unixsheikh.com
+ - [https://unixsheikh.com](https://unixsheikh.com)
+ - date published: 2023-10-25T17:52:56.608021+00:00
+ - user: None
+ - tags: []
+
+## unixsheikh.com
+ - [https://www.unixsheikh.com](https://www.unixsheikh.com)
+ - date published: 2023-10-25T17:52:59.076683+00:00
+ - user: None
+ - tags: []
+
+## The Unix timestamp will begin with 17 this Tuesday
+ - [https://www.unixtimestamp.com](https://www.unixtimestamp.com)
+ - date published: 2023-11-10T18:54:54+00:00
+ - user: None
+ - tags: []
+
+## Unlimited Hangout
+ - [https://unlimitedhangout.com](https://unlimitedhangout.com)
+ - date published: 2023-10-25T17:53:03.909240+00:00
+ - user: None
+ - tags: []
+
+## Unnecessary Inventions | Creating Products to Solve Problems that Don't Exsist
+ - [https://unnecessaryinventions.com](https://unnecessaryinventions.com)
+ - date published: 2023-10-25T17:53:07.366052+00:00
+ - user: None
+ - tags: []
+
+## The most powerful real-time 3D creation tool - Unreal Engine
+ - [https://www.unrealengine.com](https://www.unrealengine.com)
+ - date published: 2023-10-25T11:28:47.295701+00:00
+ - user: None
+ - tags: ['game engine']
+
+## Unshackled Ventures: The Venture Fund for Immigrant Entrepreneurs
+ - [https://www.unshackledvc.com](https://www.unshackledvc.com)
+ - date published: 2023-10-25T17:53:10.022056+00:00
+ - user: None
+ - tags: []
+
+## Unsharpen | The Best Pen, Paper, and Pencil Reviews
+ - [https://unsharpen.com](https://unsharpen.com)
+ - date published: 2023-10-25T17:53:12.337481+00:00
+ - user: None
+ - tags: []
+
+## unSkript
+ - [https://unskript.com](https://unskript.com)
+ - date published: 2023-10-25T17:53:20.280524+00:00
+ - user: None
+ - tags: []
+
+## UnsuckJS
+ - [https://unsuckjs.com](https://unsuckjs.com)
+ - date published: 2023-10-25T17:53:22.653708+00:00
+ - user: None
+ - tags: []
+
+## Unsupervision
+ - [https://unsupervision.com](https://unsupervision.com)
+ - date published: 2023-10-25T17:53:23.665220+00:00
+ - user: None
+ - tags: []
+
+## Untapped New York | Secrets of New York
+ - [https://untappedcities.com](https://untappedcities.com)
+ - date published: 2023-10-25T17:53:28.582137+00:00
+ - user: None
+ - tags: []
+
+## untrod.com - Untrod
+ - [https://blog.untrod.com](https://blog.untrod.com)
+ - date published: 2023-11-27T16:01:34+00:00
+ - user: rumpel
+ - tags: ['blog', 'personal']
+
+## Unusual Whales
+ - [https://unusualwhales.com](https://unusualwhales.com)
+ - date published: 2023-10-25T17:53:31.451911+00:00
+ - user: None
+ - tags: []
+
+## The Unz Review • An Alternative Media Selection - The Unz Review
+ - [https://www.unz.com](https://www.unz.com)
+ - date published: 2023-10-25T17:53:40.300268+00:00
+ - user: None
+ - tags: []
+
+## Third-Party Risk and Attack Surface Management Software | UpGuard
+ - [https://www.upguard.com](https://www.upguard.com)
+ - date published: 2023-10-25T17:53:43.464499+00:00
+ - user: None
+ - tags: []
+
+## Top News, Latest headlines, Latest News, World News &amp; U.S News - UPI.com
+ - [https://www.upi.com](https://www.upi.com)
+ - date published: 2023-10-25T17:53:45.495330+00:00
+ - user: None
+ - tags: []
+
+## UploadVR
+ - [https://www.uploadvr.com](https://www.uploadvr.com)
+ - date published: 2023-10-25T17:53:46.952533+00:00
+ - user: None
+ - tags: []
+
+## UPMC: #1 Ranked Hospital in Pittsburgh
+ - [https://www.upmc.com](https://www.upmc.com)
+ - date published: 2023-11-20T12:44:00.405525+00:00
+ - user: None
+ - tags: []
+
+## Upstash: Serverless Data for Redis® and Kafka®
+ - [https://upstash.com](https://upstash.com)
+ - date published: 2023-10-27T10:24:34.359042+00:00
+ - user: None
+ - tags: []
+
+## https://uptointerpretation.com
+ - [https://uptointerpretation.com](https://uptointerpretation.com)
+ - date published: 2023-10-25T09:26:07.572676+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://support.upwork.com
+ - [https://support.upwork.com](https://support.upwork.com)
+ - date published: 2023-10-25T17:53:47.601210+00:00
+ - user: None
+ - tags: []
+
+## Upworthy
+ - [https://www.upworthy.com](https://www.upworthy.com)
+ - date published: 2023-11-14T15:38:14.749648+00:00
+ - user: None
+ - tags: []
+
+## Urcdkeys offer PC Games, Software, Video Game Gift Cards with profect prices.
+ - [https://m.urcdkeys.com](https://m.urcdkeys.com)
+ - date published: 2023-10-29T21:46:33.536478+00:00
+ - user: None
+ - tags: ['keys']
+
+## Urcdkeys offer PC Games, Software, Video Game Gift Cards with profect prices.
+ - [https://urcdkeys.com](https://urcdkeys.com)
+ - date published: 2023-10-29T21:47:52.188749+00:00
+ - user: None
+ - tags: ['keys']
+
+## Usable Learning – Design for How People Learn
+ - [https://usablelearning.com](https://usablelearning.com)
+ - date published: 2023-10-25T17:53:49.093622+00:00
+ - user: None
+ - tags: []
+
+## Latest World & National News & Headlines - USATODAY.com
+ - [https://eu.usatoday.com](https://eu.usatoday.com)
+ - date published: 2023-10-25T10:29:19.995983+00:00
+ - user: None
+ - tags: []
+
+## Latest World & National News & Headlines - USATODAY.com
+ - [https://www.usatoday.com](https://www.usatoday.com)
+ - date published: 2023-10-25T17:53:51.210195+00:00
+ - user: None
+ - tags: []
+
+## Annenberg Media
+ - [https://www.uscannenbergmedia.com](https://www.uscannenbergmedia.com)
+ - date published: 2023-10-25T17:54:00.446464+00:00
+ - user: None
+ - tags: []
+
+## Script - A text editor powering truly digital documents in a dedicated project workspace
+ - [https://www.use-script.com](https://www.use-script.com)
+ - date published: 2023-10-25T17:54:01.989669+00:00
+ - user: None
+ - tags: []
+
+## Adrenaline
+ - [http://useadrenaline.com](http://useadrenaline.com)
+ - date published: 2023-10-25T17:54:02.992607+00:00
+ - user: None
+ - tags: []
+
+## Adrenaline
+ - [http://www.useadrenaline.com](http://www.useadrenaline.com)
+ - date published: 2023-10-25T17:54:04.299699+00:00
+ - user: None
+ - tags: []
+
+## Easily run Windows software on Linux with Bottles! ⋅ Bottles
+ - [https://usebottles.com](https://usebottles.com)
+ - date published: 2023-10-25T08:32:57.754063+00:00
+ - user: None
+ - tags: []
+
+## Bracket | Two-way data syncs
+ - [https://www.usebracket.com](https://www.usebracket.com)
+ - date published: 2023-10-25T17:54:06.457624+00:00
+ - user: None
+ - tags: []
+
+## Website performance expert from Amsterdam | Usecue web development
+ - [https://www.usecue.com](https://www.usecue.com)
+ - date published: 2023-10-25T17:54:07.038735+00:00
+ - user: None
+ - tags: []
+
+## The Google Analytics alternative without compromise - Fathom Analytics
+ - [https://usefathom.com](https://usefathom.com)
+ - date published: 2023-10-25T17:54:08.744492+00:00
+ - user: None
+ - tags: []
+
+## Grasp | New kind of search engine
+ - [https://usegrasp.com](https://usegrasp.com)
+ - date published: 2023-10-25T09:07:27.655808+00:00
+ - user: None
+ - tags: []
+
+## useHooks – The React Hooks Library
+ - [https://usehooks.com](https://usehooks.com)
+ - date published: 2023-10-25T17:54:10.268521+00:00
+ - user: None
+ - tags: []
+
+## Massive | Hyper-relevant roles at the most
+      exciting companies
+ - [https://usemassive.com](https://usemassive.com)
+ - date published: 2023-10-25T17:54:15.919129+00:00
+ - user: None
+ - tags: []
+
+## Motion | Manage calendars, meetings, projects & tasks in one app
+ - [https://www.usemotion.com](https://www.usemotion.com)
+ - date published: 2023-10-25T17:54:20.063782+00:00
+ - user: None
+ - tags: []
+
+## Best Usenet Service Providers 2023-Newsgroup Reviews- Usenet.com
+ - [https://www.usenet.com](https://www.usenet.com)
+ - date published: 2023-10-25T11:34:30.146419+00:00
+ - user: None
+ - tags: ['social platform']
+
+## User Inyerface - A worst-practice UI experiment
+ - [https://userinyerface.com](https://userinyerface.com)
+ - date published: 2023-10-25T17:54:20.521712+00:00
+ - user: None
+ - tags: []
+
+## Notes from the Burrow
+ - [https://blog.usmanity.com](https://blog.usmanity.com)
+ - date published: 2023-10-25T17:54:21.650052+00:00
+ - user: None
+ - tags: []
+
+## U.S. News & World Report: News, Rankings and Analysis on Politics, Education, Healthcare and More
+ - [https://www.usnews.com](https://www.usnews.com)
+ - date published: 2023-10-25T11:06:45.360963+00:00
+ - user: None
+ - tags: []
+
+## Home - About.usps.com
+ - [https://about.usps.com](https://about.usps.com)
+ - date published: 2023-10-25T17:54:24.601136+00:00
+ - user: None
+ - tags: []
+
+## USSA News | The Tea Party’s Front Page.
+ - [https://ussanews.com](https://ussanews.com)
+ - date published: 2023-10-25T17:54:30.171670+00:00
+ - user: None
+ - tags: []
+
+## Utilitarianism : past, present and future
+ - [https://www.utilitarianism.com](https://www.utilitarianism.com)
+ - date published: 2023-10-25T17:54:30.938333+00:00
+ - user: None
+ - tags: []
+
+## Utility and Energy Transmission & Distribution News | Utility Dive
+ - [https://www.utilitydive.com](https://www.utilitydive.com)
+ - date published: 2023-10-25T17:54:35.594731+00:00
+ - user: None
+ - tags: []
+
+## Utilu.com
+ - [https://utilu.com](https://utilu.com)
+ - date published: 2023-10-25T17:54:36.822372+00:00
+ - user: None
+ - tags: []
+
+## Utku Şen Kişisel Web Sitesi
+ - [https://utkusen.com](https://utkusen.com)
+ - date published: 2023-10-25T17:54:37.452305+00:00
+ - user: None
+ - tags: []
+
+## https://v2ex.com
+ - [https://v2ex.com](https://v2ex.com)
+ - date published: 2023-10-25T17:54:37.744256+00:00
+ - user: None
+ - tags: []
+
+## Vadim Demedes
+ - [https://vadimdemedes.com](https://vadimdemedes.com)
+ - date published: 2023-10-25T17:54:43.533479+00:00
+ - user: None
+ - tags: []
+
+## Vadim Kravcenko - Fractional CTO. Helping Startups Scale.
+ - [https://vadimkravcenko.com](https://vadimkravcenko.com)
+ - date published: 2023-10-25T17:54:44.960359+00:00
+ - user: None
+ - tags: []
+
+## Home - Vaibhav Sagar
+ - [https://vaibhavsagar.com](https://vaibhavsagar.com)
+ - date published: 2023-10-25T17:54:45.622246+00:00
+ - user: None
+ - tags: []
+
+## Valheim
+ - [https://www.valheimgame.com](https://www.valheimgame.com)
+ - date published: 2023-11-04T19:20:47.911512+00:00
+ - user: None
+ - tags: ['game']
+
+## The Vallejo Sun: An independent news publication for Solano County
+ - [https://www.vallejosun.com](https://www.vallejosun.com)
+ - date published: 2023-10-25T17:54:48.425962+00:00
+ - user: None
+ - tags: []
+
+## Valve Corporation
+ - [https://www.valvesoftware.com](https://www.valvesoftware.com)
+ - date published: 2023-10-25T11:28:48.972520+00:00
+ - user: None
+ - tags: ['counter strike', 'half life']
+
+## VAN — An independent online classical music magazine
+ - [https://van-magazine.com](https://van-magazine.com)
+ - date published: 2023-10-25T17:54:53.957295+00:00
+ - user: None
+ - tags: []
+
+## Vancouver News  - Vancouver Is Awesome
+ - [https://www.vancouverisawesome.com](https://www.vancouverisawesome.com)
+ - date published: 2023-10-25T17:54:58.760634+00:00
+ - user: None
+ - tags: []
+
 ## Home | Vancouver Sun
  - [https://vancouversun.com](https://vancouversun.com)
  - date published: 2023-10-25T17:55:12.378780+00:00
@@ -94,6 +809,12 @@
  - user: None
  - tags: []
 
+## VectorDB: Vector Database Built by Kagi Search
+ - [https://vectordb.com](https://vectordb.com)
+ - date published: 2023-11-26T10:21:55+00:00
+ - user: None
+ - tags: []
+
 ## Latest News - vegconomist - the vegan business magazine
  - [https://vegconomist.com](https://vegconomist.com)
  - date published: 2023-10-25T17:55:45.760592+00:00
@@ -129,6 +850,12 @@
  - date published: 2023-11-12T12:21:17.875383+00:00
  - user: None
  - tags: []
+
+## Vera Ruel-Wunsch
+ - [https://veraveravera.com](https://veraveravera.com)
+ - date published: 2023-11-26T10:11:12.588555+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Vercel: Build and deploy the best Web experiences with The Frontend Cloud
  - [https://vercel.com](https://vercel.com)
@@ -175,6 +902,12 @@
 ## Veterinary daily
  - [https://www.veterinarydaily.com](https://www.veterinarydaily.com)
  - date published: 2023-10-25T17:56:08.813506+00:00
+ - user: None
+ - tags: []
+
+## VG247
+ - [https://www.vg247.com](https://www.vg247.com)
+ - date published: 2023-11-28T13:23:37.145498+00:00
  - user: None
  - tags: []
 
@@ -377,6 +1110,12 @@
  - user: None
  - tags: []
 
+## Virtual Reality Oasis
+ - [https://virtualrealityoasis.com](https://virtualrealityoasis.com)
+ - date published: 2023-11-27T16:12:28+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
+
 ## Virtual Uncle - VR, XR, AR Curated News & Releases
  - [https://virtualuncle.com](https://virtualuncle.com)
  - date published: 2023-10-25T17:57:29.714238+00:00
@@ -489,7 +1228,7 @@
  - [https://www.voanews.com](https://www.voanews.com)
  - date published: 2023-10-25T17:58:00.143976+00:00
  - user: None
- - tags: []
+ - tags: ['news']
 
 ## VOCALOID ( ボーカロイド・ボカロ ) 公式サイト
  - [https://www.vocaloid.com](https://www.vocaloid.com)
@@ -581,6 +1320,12 @@
  - user: None
  - tags: []
 
+## Virtual Reality - Virtual Realities | Virtual Reality Products and Services
+ - [https://www.vrealities.com](https://www.vrealities.com)
+ - date published: 2023-11-27T16:24:43+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
+
 ## VSCodium - Open Source Binaries of VSCode
  - [https://vscodium.com](https://vscodium.com)
  - date published: 2023-10-25T17:58:41.892210+00:00
@@ -629,11 +1374,23 @@
  - user: None
  - tags: []
 
+## WAGO Polska | Twój Partner w automatyce i połączeniach elektrycznych
+ - [https://www.wago.com](https://www.wago.com)
+ - date published: 2023-11-26T10:10:06+00:00
+ - user: rumpel
+ - tags: ['electronic']
+
 ## WakaTime - Dashboards for developers
  - [https://wakatime.com](https://wakatime.com)
  - date published: 2023-10-25T17:59:03.808055+00:00
  - user: None
  - tags: []
+
+## Wakelet - Save, organize and share content
+ - [https://wakelet.com](https://wakelet.com)
+ - date published: 2023-11-26T16:49:19+00:00
+ - user: rumpel
+ - tags: ['bookmark manager']
 
 ## Wallpapers.com | 1,500,000+ Free HD Wallpapers for Desktop, Mobiles & Tablets
  - [https://wallpapers.com](https://wallpapers.com)
@@ -899,6 +1656,12 @@
  - user: None
  - tags: []
 
+## Weather & Radar USA
+ - [https://www.weatherandradar.com](https://www.weatherandradar.com)
+ - date published: 2023-11-27T08:34:34.471690+00:00
+ - user: None
+ - tags: []
+
 ## WebGL, WebGL2 and WebGPU Browser Support Statistics and Capabilities | Web3D Survey
  - [https://web3dsurvey.com](https://web3dsurvey.com)
  - date published: 2023-10-25T18:01:14.070217+00:00
@@ -968,6 +1731,12 @@
 ## Movie News, TV News, Celebrity News, Marvel News, Netflix News, Anime News | We Got This Covered
  - [https://wegotthiscovered.com](https://wegotthiscovered.com)
  - date published: 2023-10-25T18:01:40.322328+00:00
+ - user: None
+ - tags: []
+
+## Weighty Thoughts | James Wang | Substack
+ - [https://weightythoughts.com](https://weightythoughts.com)
+ - date published: 2023-11-28T19:45:50.743393+00:00
  - user: None
  - tags: []
 
@@ -1655,6 +2424,12 @@
  - user: None
  - tags: []
 
+## WJHG | News, Weather, Sports | Panama City, FL
+ - [https://www.wjhg.com](https://www.wjhg.com)
+ - date published: 2023-11-28T20:08:07.258023+00:00
+ - user: None
+ - tags: []
+
 ## Arlington News, Weather, Sports, Breaking News | WJLA
  - [https://wjla.com](https://wjla.com)
  - date published: 2023-10-25T18:08:13.273867+00:00
@@ -1715,6 +2490,12 @@
  - user: None
  - tags: []
 
+## WonderTips 777 Blogs -
+ - [https://wondertips777.com](https://wondertips777.com)
+ - date published: 2023-11-26T16:26:33.143000+00:00
+ - user: None
+ - tags: []
+
 ## Wood Mackenzie | Energy Research & Consultancy
  - [https://www.woodmac.com](https://www.woodmac.com)
  - date published: 2023-10-25T18:08:37.374452+00:00
@@ -1726,6 +2507,12 @@
  - date published: 2023-10-28T18:51:06.662825+00:00
  - user: None
  - tags: ['chiptune']
+
+## A Deep Look by Dave Hook
+ - [https://adeeplookbydavehook.wordpress.com](https://adeeplookbydavehook.wordpress.com)
+ - date published: 2023-11-26T17:36:17.580104+00:00
+ - user: None
+ - tags: []
 
 ## Void
  - [https://amigavoid.wordpress.com](https://amigavoid.wordpress.com)
@@ -2999,6 +3786,12 @@
  - user: None
  - tags: []
 
+## Yummy Melon Software. Hello!
+ - [http://yummymelon.com](http://yummymelon.com)
+ - date published: 2023-11-28T03:40:51.941853+00:00
+ - user: None
+ - tags: []
+
 ## yyzkevin | Just another WordPress site
  - [https://www.yyzkevin.com](https://www.yyzkevin.com)
  - date published: 2023-10-25T18:23:38.141863+00:00
@@ -3545,6 +4338,12 @@
  - user: None
  - tags: []
 
+## Новости Германии: последние события на русском языке
+ - [https://aussiedlerbote.de](https://aussiedlerbote.de)
+ - date published: 2023-11-28T21:06:27.794315+00:00
+ - user: None
+ - tags: []
+
 ## AWS Works Council Germany
  - [https://www.aws-works-council-initiative.de](https://www.aws-works-council-initiative.de)
  - date published: 2023-10-25T18:27:47.880406+00:00
@@ -3750,6 +4549,12 @@ home
  - user: None
  - tags: []
 
+## Nachrichten aus Deutschland und der Welt | Frankfurter Rundschau
+ - [https://www.fr.de](https://www.fr.de)
+ - date published: 2023-11-28T20:39:40+00:00
+ - user: rumpel
+ - tags: ['german news', 'politic news']
+
 ## Startseite Fraunhofer-Gesellschaft
  - [https://www.fraunhofer.de](https://www.fraunhofer.de)
  - date published: 2023-10-25T18:30:27.906517+00:00
@@ -3876,6 +4681,12 @@ home
  - user: None
  - tags: []
 
+## Startseite - LMU München
+ - [https://www.lmu.de](https://www.lmu.de)
+ - date published: 2023-11-26T11:11:04.642177+00:00
+ - user: None
+ - tags: ['university']
+
 ## LMU Munich - Media Informatics
  - [https://www.medien.ifi.lmu.de](https://www.medien.ifi.lmu.de)
  - date published: 2023-10-25T18:31:46.269292+00:00
@@ -3939,6 +4750,12 @@ home
 ## minus' blog
  - [https://blog.mnus.de](https://blog.mnus.de)
  - date published: 2023-10-25T18:32:10.479952+00:00
+ - user: None
+ - tags: []
+
+## Mostly nerdless | Texts on profiling and more of a part-time nerd
+ - [https://mostlynerdless.de](https://mostlynerdless.de)
+ - date published: 2023-11-28T09:56:07.321995+00:00
  - user: None
  - tags: []
 
@@ -5107,6 +5924,12 @@ home
  - user: None
  - tags: []
 
+## The Flix Programming Language
+ - [https://flix.dev](https://flix.dev)
+ - date published: 2023-11-26T04:54:16+00:00
+ - user: None
+ - tags: []
+
 ## Flower: A Friendly Federated Learning Framework
  - [https://flower.dev](https://flower.dev)
  - date published: 2023-11-16T20:06:53.497502+00:00
@@ -5172,827 +5995,4 @@ home
  - date published: 2023-10-25T08:38:22.802255+00:00
  - user: None
  - tags: []
-
-## A Go package for building Progressive Web Apps
- - [https://go-app.dev](https://go-app.dev)
- - date published: 2023-11-01T08:43:29.617306+00:00
- - user: None
- - tags: []
-
-## Graphite - How the fastest developers ship code
- - [https://graphite.dev](https://graphite.dev)
- - date published: 2023-10-25T18:38:11.254763+00:00
- - user: None
- - tags: []
-
-## Grifel
- - [https://grifel.dev](https://grifel.dev)
- - date published: 2023-10-25T18:38:11.797740+00:00
- - user: None
- - tags: []
-
-## Gut - Ease your journey with Git
- - [https://gut-cli.dev](https://gut-cli.dev)
- - date published: 2023-10-25T18:38:12.352081+00:00
- - user: None
- - tags: []
-
-## The Container Security Platform | gVisor
- - [https://gvisor.dev](https://gvisor.dev)
- - date published: 2023-10-25T18:38:13.344166+00:00
- - user: None
- - tags: []
-
-## Hamel’s Blog
- - [https://hamel.dev](https://hamel.dev)
- - date published: 2023-10-25T08:58:29.383909+00:00
- - user: None
- - tags: ['personal']
-
-## Abid Moon
- - [https://abidmoon.hashnode.dev](https://abidmoon.hashnode.dev)
- - date published: 2023-10-25T18:38:19.386013+00:00
- - user: None
- - tags: []
-
-## Dan Dan Da Developer Man
- - [https://danfitdegree.hashnode.dev](https://danfitdegree.hashnode.dev)
- - date published: 2023-10-25T18:38:20.191019+00:00
- - user: None
- - tags: []
-
-## Steel Rods
- - [https://steelrods.hashnode.dev](https://steelrods.hashnode.dev)
- - date published: 2023-11-12T13:46:14.283644+00:00
- - user: None
- - tags: []
-
-## Henrique Vicente
- - [https://henvic.dev](https://henvic.dev)
- - date published: 2023-10-25T09:21:40.457532+00:00
- - user: None
- - tags: ['personal']
-
-## Intro
- - [https://hiranyey.dev](https://hiranyey.dev)
- - date published: 2023-10-25T18:38:20.773984+00:00
- - user: None
- - tags: []
-
-## Histoire | Histoire
- - [https://histoire.dev](https://histoire.dev)
- - date published: 2023-10-25T18:38:21.786006+00:00
- - user: None
- - tags: []
-
-## Hocus | Automated Self-Hosted Dev Environments
- - [https://hocus.dev](https://hocus.dev)
- - date published: 2023-10-25T18:38:23.102654+00:00
- - user: None
- - tags: []
-
-## hoop.dev - Protect access to customer data. Anywhere.
- - [https://hoop.dev](https://hoop.dev)
- - date published: 2023-10-25T18:38:24.467829+00:00
- - user: None
- - tags: []
-
-## Strada: Create high fidelity native interactions driven by your web app.
- - [https://strada.hotwired.dev](https://strada.hotwired.dev)
- - date published: 2023-10-25T18:38:25.376940+00:00
- - user: None
- - tags: []
-
-## Hurl - Run and Test HTTP Requests
- - [https://hurl.dev](https://hurl.dev)
- - date published: 2023-10-25T18:38:27.301484+00:00
- - user: None
- - tags: []
-
-## Free Open Source Tailwind CSS Components | HyperUI
- - [https://www.hyperui.dev](https://www.hyperui.dev)
- - date published: 2023-10-25T18:38:28.357080+00:00
- - user: None
- - tags: []
-
-## PDF debugger
- - [https://pdf.hyzyla.dev](https://pdf.hyzyla.dev)
- - date published: 2023-10-25T18:38:28.976599+00:00
- - user: None
- - tags: []
-
-## Project IDX
- - [https://idx.dev](https://idx.dev)
- - date published: 2023-10-25T18:38:29.860040+00:00
- - user: None
- - tags: []
-
-## Gamedev Guide
- - [https://ikrima.dev](https://ikrima.dev)
- - date published: 2023-10-25T18:38:36.586289+00:00
- - user: None
- - tags: []
-
-## Daniel Imfeld
- - [https://imfeld.dev](https://imfeld.dev)
- - date published: 2023-10-25T08:58:35.606412+00:00
- - user: None
- - tags: ['personal']
-
-## Immersive Web Developer Home
- - [https://immersiveweb.dev](https://immersiveweb.dev)
- - date published: 2023-10-25T18:38:38.836353+00:00
- - user: None
- - tags: []
-
-## Nobody5050 | Homepage
- - [https://6502.is-a.dev](https://6502.is-a.dev)
- - date published: 2023-10-25T18:38:44.396878+00:00
- - user: None
- - tags: []
-
-## jahed.dev
- - [https://jahed.dev](https://jahed.dev)
- - date published: 2023-10-25T08:58:36.253575+00:00
- - user: None
- - tags: ['personal']
-
-## http://jakobs.dev
- - [http://jakobs.dev](http://jakobs.dev)
- - date published: 2023-10-25T08:48:26.576691+00:00
- - user: None
- - tags: ['personal']
-
-## Jam | Build a bug-free product.
- - [https://jam.dev](https://jam.dev)
- - date published: 2023-10-25T18:38:45.366903+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://jamsync.dev](https://jamsync.dev)
- - date published: 2023-10-25T18:38:46.533482+00:00
- - user: None
- - tags: []
-
-## Ramblings from Jessie: Home
- - [https://jess.dev](https://jess.dev)
- - date published: 2023-10-25T09:21:42.264142+00:00
- - user: None
- - tags: ['personal']
-
-## John Freeman
- - [https://jfreeman.dev](https://jfreeman.dev)
- - date published: 2023-10-25T08:58:37.230030+00:00
- - user: None
- - tags: ['personal']
-
-## @jimmyislive
- - [https://jimmyislive.dev](https://jimmyislive.dev)
- - date published: 2023-10-25T09:21:43.382608+00:00
- - user: None
- - tags: ['personal']
-
-## Just in Time Webhooks | Jiter
- - [https://jiter.dev](https://jiter.dev)
- - date published: 2023-10-25T18:38:47.496168+00:00
- - user: None
- - tags: []
-
-## Julio Merino (jmmv.dev)
- - [https://jmmv.dev](https://jmmv.dev)
- - date published: 2023-10-25T08:58:38.049908+00:00
- - user: None
- - tags: ['personal']
-
-## John Morrice
- - [https://jmorrice.dev](https://jmorrice.dev)
- - date published: 2023-10-25T09:21:44.400786+00:00
- - user: None
- - tags: ['personal']
-
-## Just for Fun. No, Really.
- - [https://justforfunnoreally.dev](https://justforfunnoreally.dev)
- - date published: 2023-10-25T18:38:48.340384+00:00
- - user: None
- - tags: []
-
-## Just Simply | Stop saying how simple things are in our docs
- - [https://justsimply.dev](https://justsimply.dev)
- - date published: 2023-10-25T18:38:49.030871+00:00
- - user: None
- - tags: []
-
-## The website of jyn
- - [https://jyn.dev](https://jyn.dev)
- - date published: 2023-10-25T18:38:50.121076+00:00
- - user: None
- - tags: []
-
-## Keep - Open-source alert management
- - [https://www.keephq.dev](https://www.keephq.dev)
- - date published: 2023-10-31T16:38:33.221838+00:00
- - user: None
- - tags: []
-
-## KeyDB - The Faster Redis Alternative
- - [https://docs.keydb.dev](https://docs.keydb.dev)
- - date published: 2023-10-25T18:38:51.996647+00:00
- - user: None
- - tags: []
-
-## Kash Goudarzi
- - [https://kg.dev](https://kg.dev)
- - date published: 2023-10-25T08:48:37.577143+00:00
- - user: None
- - tags: ['personal']
-
-## Articles & Experiments by Roman Komarov
- - [https://kizu.dev](https://kizu.dev)
- - date published: 2023-10-25T18:38:53.890565+00:00
- - user: None
- - tags: []
-
-## chshersh aka Dmitrii Kovanikov
- - [http://kodimensional.dev](http://kodimensional.dev)
- - date published: 2023-10-25T18:38:58.685350+00:00
- - user: None
- - tags: []
-
-## Kubernetes Contributors
- - [https://www.kubernetes.dev](https://www.kubernetes.dev)
- - date published: 2023-10-25T18:38:59.480703+00:00
- - user: None
- - tags: []
-
-## The Twenty Percent
- - [https://kuenzi.dev](https://kuenzi.dev)
- - date published: 2023-10-25T18:39:00.164249+00:00
- - user: None
- - tags: []
-
-## Kysely | Kysely
- - [https://kysely.dev](https://kysely.dev)
- - date published: 2023-10-25T08:33:04.457103+00:00
- - user: None
- - tags: []
-
-## l-m.dev | Home
- - [https://l-m.dev](https://l-m.dev)
- - date published: 2023-10-25T18:39:02.477432+00:00
- - user: None
- - tags: []
-
-## LangChain Blog
- - [https://blog.langchain.dev](https://blog.langchain.dev)
- - date published: 2023-10-25T18:39:03.545219+00:00
- - user: None
- - tags: []
-
-## lastmile ai — blog
- - [https://blog.lastmileai.dev](https://blog.lastmileai.dev)
- - date published: 2023-10-25T18:39:06.395794+00:00
- - user: None
- - tags: []
-
-## LastMile AI | The AI developer platform for engineering teams
- - [https://lastmileai.dev](https://lastmileai.dev)
- - date published: 2023-10-25T18:39:07.840038+00:00
- - user: None
- - tags: []
-
-## Introduction to Genomics for Engineers | Introduction to Genomics for Engineers
- - [https://learngenomics.dev](https://learngenomics.dev)
- - date published: 2023-10-25T18:39:08.432311+00:00
- - user: None
- - tags: []
-
-## Home - Leptos
- - [https://leptos.dev](https://leptos.dev)
- - date published: 2023-10-25T18:39:09.955344+00:00
- - user: None
- - tags: []
-
-## Libraria – Create AI chatbots in seconds.
- - [https://libraria.dev](https://libraria.dev)
- - date published: 2023-10-25T18:39:17.589462+00:00
- - user: None
- - tags: []
-
-## Linen Community
- - [https://www.linen.dev](https://www.linen.dev)
- - date published: 2023-10-25T18:39:21.192660+00:00
- - user: None
- - tags: []
-
-## Lit
- - [https://lit.dev](https://lit.dev)
- - date published: 2023-10-25T18:39:24.294606+00:00
- - user: None
- - tags: []
-
-## Livebook.dev - The Livebook Blog
- - [https://news.livebook.dev](https://news.livebook.dev)
- - date published: 2023-10-25T18:39:31.130189+00:00
- - user: None
- - tags: []
-
-## Local-First Web Development
- - [https://localfirstweb.dev](https://localfirstweb.dev)
- - date published: 2023-10-25T18:39:34.514760+00:00
- - user: None
- - tags: []
-
-## Loro – Reimagine state management with CRDTs – Loro
- - [https://www.loro.dev](https://www.loro.dev)
- - date published: 2023-11-13T12:41:13.173629+00:00
- - user: None
- - tags: []
-
-## Lukas Hermann – Bootstraping a profitable business
- - [https://lukashermann.dev](https://lukashermann.dev)
- - date published: 2023-10-25T18:39:36.060648+00:00
- - user: None
- - tags: []
-
-## lunnova.dev
- - [https://lunnova.dev](https://lunnova.dev)
- - date published: 2023-10-25T18:39:36.570613+00:00
- - user: None
- - tags: []
-
-## Scott Mabin
- - [https://mabez.dev](https://mabez.dev)
- - date published: 2023-10-25T08:48:38.285682+00:00
- - user: None
- - tags: ['personal']
-
-## Magic Loops
- - [https://magicloops.dev](https://magicloops.dev)
- - date published: 2023-10-25T18:39:37.627469+00:00
- - user: None
- - tags: []
-
-## Marvin Hagemeister Frontend Developer
- - [https://marvinh.dev](https://marvinh.dev)
- - date published: 2023-10-25T08:48:41.375132+00:00
- - user: None
- - tags: ['personal']
-
-## Become mastermind
- - [https://blog.mastermind.dev](https://blog.mastermind.dev)
- - date published: 2023-10-25T18:39:41.085781+00:00
- - user: None
- - tags: []
-
-## Matchu Says Words | Emi Matchu (they/she), tech professional turned hobbyist! Aspiring to do what’s right, in the places and ways I can.
- - [https://blog.matchu.dev](https://blog.matchu.dev)
- - date published: 2023-10-31T19:57:41.845855+00:00
- - user: None
- - tags: []
-
-## Matias Pan's blog
- - [https://blog.matiaspan.dev](https://blog.matiaspan.dev)
- - date published: 2023-11-21T19:09:54.203670+00:00
- - user: None
- - tags: []
-
-## Matthew C Dev
- - [https://matthewc.dev](https://matthewc.dev)
- - date published: 2023-10-25T18:39:42.826551+00:00
- - user: None
- - tags: []
-
-## MeadSteve's Dev Blog
- - [https://blog.meadsteve.dev](https://blog.meadsteve.dev)
- - date published: 2023-10-25T08:58:39.127357+00:00
- - user: None
- - tags: ['personal']
-
-## Hello - Meg Risdal
- - [https://meg.dev](https://meg.dev)
- - date published: 2023-10-25T09:26:20.086165+00:00
- - user: None
- - tags: ['personal']
-
-## Sine Machine, a new additive synth · Melatonin
- - [https://melatonin.dev](https://melatonin.dev)
- - date published: 2023-11-10T14:03:59.822755+00:00
- - user: None
- - tags: []
-
-## mhdm.dev
- - [https://mhdm.dev](https://mhdm.dev)
- - date published: 2023-10-25T18:39:43.340614+00:00
- - user: None
- - tags: []
-
-## Micro | A Platform built for developers
- - [https://micro.dev](https://micro.dev)
- - date published: 2023-10-25T18:39:44.219958+00:00
- - user: None
- - tags: []
-
-## Mike Mwanje's Blog
- - [https://blog.mikemwanje.dev](https://blog.mikemwanje.dev)
- - date published: 2023-10-25T08:58:40.213617+00:00
- - user: None
- - tags: ['personal']
-
-## https://minios.dev
- - [https://minios.dev](https://minios.dev)
- - date published: 2023-10-25T18:39:44.564001+00:00
- - user: None
- - tags: []
-
-## An Internet Canvas
- - [https://paper.mmm.dev](https://paper.mmm.dev)
- - date published: 2023-10-25T18:39:44.966705+00:00
- - user: None
- - tags: []
-
-## ModelFusion
- - [https://modelfusion.dev](https://modelfusion.dev)
- - date published: 2023-10-25T18:39:50.499764+00:00
- - user: None
- - tags: []
-
-## Modern CSS Solutions
- - [https://moderncss.dev](https://moderncss.dev)
- - date published: 2023-10-25T18:39:51.550252+00:00
- - user: None
- - tags: []
-
-## Mojo Dojo
- - [https://mojodojo.dev](https://mojodojo.dev)
- - date published: 2023-10-25T18:39:53.691349+00:00
- - user: None
- - tags: []
-
-## MoonGuard - Web Monitoring Tools | MoonGuard - Web Monitoring Tools
- - [https://blog.moonguard.dev](https://blog.moonguard.dev)
- - date published: 2023-11-07T19:56:34.884228+00:00
- - user: None
- - tags: []
-
-## Gunnar Morling - Random Musings on All Things Software Engineering
- - [https://www.morling.dev](https://www.morling.dev)
- - date published: 2023-10-25T18:39:54.535047+00:00
- - user: None
- - tags: []
-
-## Kamal — Deploy web apps anywhere
- - [https://mrsk.dev](https://mrsk.dev)
- - date published: 2023-10-25T18:39:55.589208+00:00
- - user: None
- - tags: []
-
-## MUD – a framework for ambitious Ethereum applications
- - [https://mud.dev](https://mud.dev)
- - date published: 2023-10-27T13:33:33.855803+00:00
- - user: None
- - tags: []
-
-## Mult.dev - Animated Travel Maps
- - [https://mult.dev](https://mult.dev)
- - date published: 2023-10-25T18:39:56.399255+00:00
- - user: None
- - tags: []
-
-## Minimum Viable Secure Product
- - [https://mvsp.dev](https://mvsp.dev)
- - date published: 2023-10-25T18:39:57.092486+00:00
- - user: None
- - tags: []
-
-## Nango - The open unified API
- - [https://nango.dev](https://nango.dev)
- - date published: 2023-10-25T18:40:04.494324+00:00
- - user: None
- - tags: []
-
-## Nango - The open unified API
- - [https://www.nango.dev](https://www.nango.dev)
- - date published: 2023-10-25T18:40:06.457916+00:00
- - user: None
- - tags: []
-
-## Becoming Rustacean: A Beginners Guide to the Rustverse
- - [https://www.nativebyx.dev](https://www.nativebyx.dev)
- - date published: 2023-10-25T18:40:13.005761+00:00
- - user: None
- - tags: []
-
-## neilalexander.dev
- - [https://neilalexander.dev](https://neilalexander.dev)
- - date published: 2023-10-25T18:40:13.691485+00:00
- - user: None
- - tags: []
-
-## Blog@neko.dev - blog.neko.dev
- - [https://blog.neko.dev](https://blog.neko.dev)
- - date published: 2023-10-25T08:58:40.756473+00:00
- - user: None
- - tags: ['personal']
-
-## Adam Argyle
- - [https://nerdy.dev](https://nerdy.dev)
- - date published: 2023-10-25T08:48:53.943604+00:00
- - user: None
- - tags: ['personal']
-
-## Nicolo.dev
- - [https://nicolo.dev](https://nicolo.dev)
- - date published: 2023-10-25T08:58:41.536333+00:00
- - user: None
- - tags: ['personal']
-
-## niui
- - [https://niui.dev](https://niui.dev)
- - date published: 2023-10-25T18:40:16.339018+00:00
- - user: None
- - tags: []
-
-## Norberto's personal website
- - [https://nlopes.dev](https://nlopes.dev)
- - date published: 2023-10-25T08:48:54.951889+00:00
- - user: None
- - tags: ['personal']
-
-## IAMOps Platform | NOQ
- - [https://www.noq.dev](https://www.noq.dev)
- - date published: 2023-10-25T18:40:17.657120+00:00
- - user: None
- - tags: []
-
-## Nicholas Ray
- - [https://www.nray.dev](https://www.nray.dev)
- - date published: 2023-10-25T08:58:47.329801+00:00
- - user: None
- - tags: ['personal']
-
-## http://www.open-fire.dev
- - [http://www.open-fire.dev](http://www.open-fire.dev)
- - date published: 2023-10-25T18:40:18.210255+00:00
- - user: None
- - tags: []
-
-## OpenGOAL | OpenGOAL
- - [https://opengoal.dev](https://opengoal.dev)
- - date published: 2023-10-25T18:40:19.039679+00:00
- - user: None
- - tags: []
-
-## OpenStatus
- - [https://www.openstatus.dev](https://www.openstatus.dev)
- - date published: 2023-10-25T18:40:21.230486+00:00
- - user: None
- - tags: []
-
-## SQLPage
- - [https://sql.ophir.dev](https://sql.ophir.dev)
- - date published: 2023-10-25T18:40:22.802342+00:00
- - user: None
- - tags: []
-
-## OrbStack · Fast, light, simple Docker & Linux on macOS
- - [https://orbstack.dev](https://orbstack.dev)
- - date published: 2023-10-25T18:40:25.084437+00:00
- - user: None
- - tags: []
-
-## Orhun's Blog
- - [https://blog.orhun.dev](https://blog.orhun.dev)
- - date published: 2023-10-25T18:40:26.754894+00:00
- - user: None
- - tags: []
-
-## Gram Publishing v2
- - [https://blog.orsinium.dev](https://blog.orsinium.dev)
- - date published: 2023-10-25T18:40:28.464597+00:00
- - user: None
- - tags: []
-
-## Ory - API-first Identity Management, Authentication and Authorization. For Secure, Global, GDPR-compliant Apps | Ory
- - [https://www.ory.dev](https://www.ory.dev)
- - date published: 2023-10-25T18:40:33.383690+00:00
- - user: None
- - tags: []
-
-## Animotion – a visual CSS animation app
- - [https://cssanimotion.pages.dev](https://cssanimotion.pages.dev)
- - date published: 2023-11-24T11:16:25+00:00
- - user: None
- - tags: []
-
-## Indeed Job Scam
- - [https://indeedjobscam.pages.dev](https://indeedjobscam.pages.dev)
- - date published: 2023-10-25T18:40:43.826797+00:00
- - user: None
- - tags: []
-
-## TLS, byte by byte
- - [https://subtls.pages.dev](https://subtls.pages.dev)
- - date published: 2023-10-25T18:40:44.490273+00:00
- - user: None
- - tags: []
-
-## Hello! • Paul Armstrong
- - [https://paularmstrong.dev](https://paularmstrong.dev)
- - date published: 2023-10-25T08:48:56.005230+00:00
- - user: None
- - tags: ['personal']
-
-## Hey there! · pema.dev
- - [https://pema.dev](https://pema.dev)
- - date published: 2023-10-25T18:40:45.349933+00:00
- - user: None
- - tags: []
-
-## Petals – Run LLMs at home, BitTorrent-style
- - [https://petals.dev](https://petals.dev)
- - date published: 2023-10-25T18:40:45.976979+00:00
- - user: None
- - tags: []
-
-## Pierre Couy’s tech corner | Freelance developper, computer science teacher, passionate about programming. I enjoy sharing my work with the world.
- - [https://pierre-couy.dev](https://pierre-couy.dev)
- - date published: 2023-10-25T18:40:46.733153+00:00
- - user: None
- - tags: []
-
-## pkg-size | Find the true size of a npm package
- - [https://pkg-size.dev](https://pkg-size.dev)
- - date published: 2023-10-25T18:40:47.132424+00:00
- - user: None
- - tags: []
-
-## POURIA 🦋
- - [https://pouria.dev](https://pouria.dev)
- - date published: 2023-10-25T18:40:48.495860+00:00
- - user: None
- - tags: []
-
-## http://www.privatemarket.dev
- - [http://www.privatemarket.dev](http://www.privatemarket.dev)
- - date published: 2023-10-25T18:40:49.170503+00:00
- - user: None
- - tags: []
-
-## PrivSec - A practical approach to Privacy and Security
- - [https://privsec.dev](https://privsec.dev)
- - date published: 2023-10-25T18:40:49.926726+00:00
- - user: None
- - tags: []
-
-## React Job Simulator by Profy.dev
- - [https://profy.dev](https://profy.dev)
- - date published: 2023-10-25T18:40:51.947206+00:00
- - user: None
- - tags: []
-
-## programming.dev - A collection of programming communities
- - [https://programming.dev](https://programming.dev)
- - date published: 2023-10-25T18:40:53.820318+00:00
- - user: None
- - tags: []
-
-## Home |
- - [https://pulsar-edit.dev](https://pulsar-edit.dev)
- - date published: 2023-10-25T18:41:00.178641+00:00
- - user: None
- - tags: []
-
-## Welcome to Pydantic - Pydantic
- - [https://docs.pydantic.dev](https://docs.pydantic.dev)
- - date published: 2023-10-25T18:41:02.319299+00:00
- - user: None
- - tags: []
-
-## Chris James - Learn Go with Tests reaches 20k stars
- - [https://quii.dev](https://quii.dev)
- - date published: 2023-10-25T18:41:02.923807+00:00
- - user: None
- - tags: []
-
-## http://blog.qwertyforce.dev
- - [http://blog.qwertyforce.dev](http://blog.qwertyforce.dev)
- - date published: 2023-10-25T18:41:03.648705+00:00
- - user: None
- - tags: []
-
-## Semgrep — Find bugs and enforce code standards
- - [https://r2c.dev](https://r2c.dev)
- - date published: 2023-10-25T18:41:07.216345+00:00
- - user: None
- - tags: []
-
-## Justin's personal site
- - [https://randomshit.dev](https://randomshit.dev)
- - date published: 2023-10-25T18:41:11.166727+00:00
- - user: None
- - tags: []
-
-## Rasbora.dev
- - [https://rasbora.dev](https://rasbora.dev)
- - date published: 2023-10-25T08:48:56.751019+00:00
- - user: None
- - tags: ['personal']
-
-## Ryan's Dev Blog
- - [https://rbates.dev](https://rbates.dev)
- - date published: 2023-10-25T08:58:48.184268+00:00
- - user: None
- - tags: ['personal']
-
-## React
- - [https://react.dev](https://react.dev)
- - date published: 2023-10-25T18:41:12.872406+00:00
- - user: None
- - tags: []
-
-## refine | Build your React-based CRUD applications, without constraints! | refine
- - [https://refine.dev](https://refine.dev)
- - date published: 2023-10-25T18:41:19.334120+00:00
- - user: None
- - tags: []
-
-## SDXL – A settings guide by Replicate
- - [https://sdxl.replicate.dev](https://sdxl.replicate.dev)
- - date published: 2023-10-25T18:41:20.011892+00:00
- - user: None
- - tags: []
-
-## Restfox
- - [https://restfox.dev](https://restfox.dev)
- - date published: 2023-10-25T18:41:21.360876+00:00
- - user: None
- - tags: []
-
-## reyem.dev blog
- - [https://blog.reyem.dev](https://blog.reyem.dev)
- - date published: 2023-10-25T08:58:49.186324+00:00
- - user: None
- - tags: ['personal']
-
-## Richard Taylor
-     · Richard Taylor
- - [https://www.richardtaylor.dev](https://www.richardtaylor.dev)
- - date published: 2023-10-25T18:41:22.096940+00:00
- - user: None
- - tags: []
-
-## Rida F'kih — Developer & Designer
- - [https://www.rida.dev](https://www.rida.dev)
- - date published: 2023-10-25T08:48:57.534022+00:00
- - user: None
- - tags: ['personal']
-
-## River Phillips
- - [https://www.riverphillips.dev](https://www.riverphillips.dev)
- - date published: 2023-11-07T19:56:32.446810+00:00
- - user: None
- - tags: []
-
-## rmkit
- - [https://rmkit.dev](https://rmkit.dev)
- - date published: 2023-10-25T18:41:23.340976+00:00
- - user: None
- - tags: []
-
-## Rocicorp, LLC
- - [https://rocicorp.dev](https://rocicorp.dev)
- - date published: 2023-10-27T11:57:00.995943+00:00
- - user: None
- - tags: []
-
-## Ronin
- - [https://ronin-rb.dev](https://ronin-rb.dev)
- - date published: 2023-10-25T18:41:29.801869+00:00
- - user: None
- - tags: []
-
-## ROT256 : Cryptography & Other Random Bits.
- - [https://rot256.dev](https://rot256.dev)
- - date published: 2023-10-25T18:41:30.428116+00:00
- - user: None
- - tags: []
-
-## Runme turns your documentation into interactive runbooks
- - [https://runme.dev](https://runme.dev)
- - date published: 2023-10-25T18:41:31.705501+00:00
- - user: None
- - tags: []
-
-## Runno
- - [https://runno.dev](https://runno.dev)
- - date published: 2023-10-25T18:41:32.158796+00:00
- - user: None
- - tags: []
-
-## Blog | Roger Oriol
- - [https://www.ruxu.dev](https://www.ruxu.dev)
- - date published: 2023-10-25T08:58:50.191072+00:00
- - user: None
- - tags: ['personal']
 

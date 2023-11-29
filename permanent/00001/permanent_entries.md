@@ -1,3 +1,111 @@
+## Find new games
+ - [https://www.50gameslike.com](https://www.50gameslike.com)
+ - date published: 2023-10-27T13:24:34.247396+00:00
+ - user: None
+ - tags: ['ranking']
+
+## A Journey in Creating an Operating System Kernel: The 539kernel Book - Home
+ - [https://539kernel.com](https://539kernel.com)
+ - date published: 2023-10-25T12:27:47.416154+00:00
+ - user: None
+ - tags: []
+
+## 55 The Game – Swiper
+ - [https://55thegame.com](https://55thegame.com)
+ - date published: 2023-10-25T12:27:49.468398+00:00
+ - user: None
+ - tags: []
+
+## Martín Villalba's personal homepage
+ - [https://7c0h.com](https://7c0h.com)
+ - date published: 2023-10-25T12:27:51.693393+00:00
+ - user: None
+ - tags: []
+
+## AI Image Generator | Transform Your Ideas With Us - 88stacks
+ - [https://88stacks.com](https://88stacks.com)
+ - date published: 2023-10-25T12:27:57.194269+00:00
+ - user: None
+ - tags: []
+
+## 8BitDo
+ - [https://www.8bitdo.com](https://www.8bitdo.com)
+ - date published: 2023-10-30T20:58:48.707728+00:00
+ - user: None
+ - tags: []
+
+## 8bitworkshop
+ - [https://8bitworkshop.com](https://8bitworkshop.com)
+ - date published: 2023-10-25T12:28:00.907669+00:00
+ - user: None
+ - tags: []
+
+## 8tracks internet radio | Free music playlists | Best app for music
+ - [https://8tracks.com](https://8tracks.com)
+ - date published: 2023-10-28T19:00:37.732156+00:00
+ - user: None
+ - tags: []
+
+## 9GAG - Best Funny Memes and Breaking News
+ - [https://9gag.com](https://9gag.com)
+ - date published: 2023-10-25T11:29:58.134778+00:00
+ - user: None
+ - tags: ['funny images', 'memes']
+
+## Access Denied
+ - [https://www.9news.com](https://www.9news.com)
+ - date published: 2023-11-22T04:44:23.039556+00:00
+ - user: None
+ - tags: []
+
+## 9 Tailed Kitsune – Get Your Daily Dose of Quality Anime Content
+ - [https://9tailedkitsune.com](https://9tailedkitsune.com)
+ - date published: 2023-10-25T15:04:47.546602+00:00
+ - user: None
+ - tags: []
+
+## 9to5Google - Google news, Pixel, Android, Home, Chrome OS, more
+ - [https://9to5google.com](https://9to5google.com)
+ - date published: 2023-10-25T12:28:19.255185+00:00
+ - user: None
+ - tags: []
+
+## 9to5Linux - Linux news, reviews, tutorials, and more
+ - [https://9to5linux.com](https://9to5linux.com)
+ - date published: 2023-10-25T10:35:55.257332+00:00
+ - user: None
+ - tags: []
+
+## 9to5Mac - Apple News & Mac Rumors Breaking All Day
+ - [https://9to5mac.com](https://9to5mac.com)
+ - date published: 2023-10-25T09:30:57.911213+00:00
+ - user: None
+ - tags: []
+
+## Giacomo Balli - Technology Advisor & Consultant
+ - [https://BigBalli.com](https://BigBalli.com)
+ - date published: 2023-10-25T12:28:23.645824+00:00
+ - user: None
+ - tags: []
+
+## The Supply Chain Logistics Platform | Flexport
+ - [https://Flexport.com](https://Flexport.com)
+ - date published: 2023-10-25T12:28:33.909615+00:00
+ - user: None
+ - tags: []
+
+## Outstatic - A Static Site CMS for Next.js
+ - [https://Outstatic.com](https://Outstatic.com)
+ - date published: 2023-10-25T12:28:34.794655+00:00
+ - user: None
+ - tags: []
+
+## Mercury – Build Data Web Apps in Jupyter Notebook – Mercury
+ - [https://RunMercury.com](https://RunMercury.com)
+ - date published: 2023-10-25T12:28:37.949408+00:00
+ - user: None
+ - tags: []
+
 ## TED: Ideas Worth Spreading
  - [https://Ted.com](https://Ted.com)
  - date published: 2023-11-12T01:39:05.401960+00:00
@@ -177,6 +285,12 @@
  - date published: 2023-10-25T08:44:05.326397+00:00
  - user: None
  - tags: ['personal']
+
+## Press release archive
+ - [https://press.aboutamazon.com](https://press.aboutamazon.com)
+ - date published: 2023-11-28T18:21:10.358258+00:00
+ - user: None
+ - tags: []
 
 ## About Amazon
  - [https://www.aboutamazon.com](https://www.aboutamazon.com)
@@ -568,6 +682,12 @@
  - user: None
  - tags: []
 
+## AFTVnews
+ - [https://www.aftvnews.com](https://www.aftvnews.com)
+ - date published: 2023-11-28T08:00:17+00:00
+ - user: rumpel
+ - tags: ['television', 'tv hardware']
+
 ## Age of Miniatures Frontpage
  - [https://ageofminiatures.com](https://ageofminiatures.com)
  - date published: 2023-10-27T07:27:48.958410+00:00
@@ -596,6 +716,12 @@
  - [https://agi-sphere.com](https://agi-sphere.com)
  - date published: 2023-10-25T12:35:09.117453+00:00
  - user: None
+ - tags: []
+
+## Agility Robotics
+ - [https://agilityrobotics.com](https://agilityrobotics.com)
+ - date published: 2023-11-27T15:46:40+00:00
+ - user: rumpel
  - tags: []
 
 ## Peer-Reviewed Aging Research Journal | Aging-US
@@ -670,6 +796,12 @@
  - user: None
  - tags: []
 
+## $10M AI Mathematical Olympiad Prize
+ - [https://aimoprize.com](https://aimoprize.com)
+ - date published: 2023-11-27T12:25:06+00:00
+ - user: None
+ - tags: []
+
 ## AIMultiple: AI Usecases & Tools to Grow Your Business
  - [https://research.aimultiple.com](https://research.aimultiple.com)
  - date published: 2023-10-25T12:36:02.211402+00:00
@@ -692,7 +824,7 @@
  - [https://www.airbus.com](https://www.airbus.com)
  - date published: 2023-11-25T23:10:55.063815+00:00
  - user: None
- - tags: []
+ - tags: ['avionics', 'aerospace']
 
 ## Airbyte | Open-Source Data Integration Platform | ELT tool
  - [https://airbyte.com](https://airbyte.com)
@@ -859,6 +991,12 @@
 ## Akshay's Blog
  - [https://www.akshaykhot.com](https://www.akshaykhot.com)
  - date published: 2023-10-25T12:37:10.359877+00:00
+ - user: None
+ - tags: []
+
+## Alabama Local News, Breaking News, Sports & Weather
+ - [https://www.al.com](https://www.al.com)
+ - date published: 2023-11-28T06:41:03.342773+00:00
  - user: None
  - tags: []
 
@@ -2236,6 +2374,12 @@
  - user: None
  - tags: []
 
+## Arkansas Times • Arkansas news, politics, opinion, restaurants, music, movies and art
+ - [https://arktimes.com](https://arktimes.com)
+ - date published: 2023-11-26T19:46:32.219657+00:00
+ - user: None
+ - tags: []
+
 ## Arm Community
  - [https://community.arm.com](https://community.arm.com)
  - date published: 2023-10-25T12:45:30.852233+00:00
@@ -2263,6 +2407,12 @@
 ## Home
  - [https://www.army-technology.com](https://www.army-technology.com)
  - date published: 2023-11-21T18:14:15.942961+00:00
+ - user: None
+ - tags: []
+
+## Defense News security global military army equipment technology industry - Army Recognition
+ - [https://www.armyrecognition.com](https://www.armyrecognition.com)
+ - date published: 2023-11-27T11:43:24.470297+00:00
  - user: None
  - tags: []
 
@@ -3670,6 +3820,12 @@
  - user: None
  - tags: []
 
+## Next generation full body haptic suit - bHaptics TactSuit
+ - [https://www.bhaptics.com](https://www.bhaptics.com)
+ - date published: 2023-11-27T16:13:54+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
+
 ## Bicycle Retailer & Industry News
  - [https://www.bicycleretailer.com](https://www.bicycleretailer.com)
  - date published: 2023-10-25T14:21:33.230031+00:00
@@ -3847,6 +4003,12 @@
 ## BMC Medicine | Home page
  - [https://bmcmedicine.biomedcentral.com](https://bmcmedicine.biomedcentral.com)
  - date published: 2023-10-25T13:00:29.613132+00:00
+ - user: None
+ - tags: []
+
+## BMC Public Health
+ - [https://bmcpublichealth.biomedcentral.com](https://bmcpublichealth.biomedcentral.com)
+ - date published: 2023-11-28T08:16:10.891486+00:00
  - user: None
  - tags: []
 
@@ -4324,6 +4486,12 @@
  - user: None
  - tags: ['personal']
 
+## PowerOfBabel
+ - [https://brer-powerofbabel.blogspot.com](https://brer-powerofbabel.blogspot.com)
+ - date published: 2023-11-28T07:48:07+00:00
+ - user: rumpel
+ - tags: ['blog', 'personal']
+
 ## That grumpy BSD guy
  - [https://bsdly.blogspot.com](https://bsdly.blogspot.com)
  - date published: 2023-10-25T09:06:20.001075+00:00
@@ -4533,6 +4701,12 @@
  - date published: 2023-10-25T09:09:24.984611+00:00
  - user: None
  - tags: ['personal']
+
+## Kiwi Hellenist
+ - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
+ - date published: 2023-11-28T20:46:36.488371+00:00
+ - user: None
+ - tags: []
 
 ## Koodihommia
  - [https://koodihommia.blogspot.com](https://koodihommia.blogspot.com)
@@ -4900,6 +5074,12 @@
  - user: None
  - tags: []
 
+## Discover Bluwr.
+ - [https://bluwr.com](https://bluwr.com)
+ - date published: 2023-11-27T13:41:29.738382+00:00
+ - user: None
+ - tags: []
+
 ## Homepage | BJSM
  - [https://bjsm.bmj.com](https://bjsm.bmj.com)
  - date published: 2023-10-25T10:36:52.375517+00:00
@@ -5235,6 +5415,12 @@
  - date published: 2023-10-25T13:10:23.136076+00:00
  - user: None
  - tags: []
+
+## Inspirational Quotes at BrainyQuote
+ - [https://www.brainyquote.com](https://www.brainyquote.com)
+ - date published: 2023-11-28T20:14:37+00:00
+ - user: rumpel
+ - tags: ['quotes']
 
 ## Coding – Software is hard
  - [https://blog.brakmic.com](https://blog.brakmic.com)
@@ -5632,6 +5818,12 @@
  - user: None
  - tags: []
 
+## But What For?
+ - [https://www.butwhatfor.com](https://www.butwhatfor.com)
+ - date published: 2023-11-28T21:46:33.702219+00:00
+ - user: None
+ - tags: []
+
 ## BuzzFeed
  - [https://www.buzzfeed.com](https://www.buzzfeed.com)
  - date published: 2023-10-25T13:15:41.744401+00:00
@@ -5794,207 +5986,15 @@
  - user: None
  - tags: []
 
+## California18
+ - [https://california18.com](https://california18.com)
+ - date published: 2023-11-26T13:31:09.723420+00:00
+ - user: None
+ - tags: []
+
 ## California Forever
  - [https://californiaforever.com](https://californiaforever.com)
  - date published: 2023-10-25T13:16:56.359728+00:00
- - user: None
- - tags: []
-
-## California Historical Radio Society
- - [https://californiahistoricalradio.com](https://californiahistoricalradio.com)
- - date published: 2023-10-25T13:16:59.332551+00:00
- - user: None
- - tags: []
-
-## Call of Duty® |​ Najlepiej sprzedająca się marka gier
- - [https://www.callofduty.com](https://www.callofduty.com)
- - date published: 2023-10-25T08:39:31.906666+00:00
- - user: None
- - tags: []
-
-## For RoR, see in production every method call, parameter and return value
- - [https://callstacking.com](https://callstacking.com)
- - date published: 2023-11-22T19:07:49+00:00
- - user: None
- - tags: []
-
-## Calm Down | Ben Dreyfuss | Substack
- - [https://www.calmdownben.com](https://www.calmdownben.com)
- - date published: 2023-10-25T13:17:03.909008+00:00
- - user: None
- - tags: []
-
-## Author of Deep Work, Study Hacks Blog - Cal Newport
- - [https://calnewport.com](https://calnewport.com)
- - date published: 2023-10-25T13:17:06.428541+00:00
- - user: None
- - tags: []
-
-## Author of Deep Work, Study Hacks Blog - Cal Newport
- - [https://www.calnewport.com](https://www.calnewport.com)
- - date published: 2023-10-25T13:17:09.612435+00:00
- - user: None
- - tags: []
-
-## Cal Paterson
- - [https://calpaterson.com](https://calpaterson.com)
- - date published: 2023-10-25T13:17:15.051904+00:00
- - user: None
- - tags: []
-
-## Preserving contemporary culture — New East Digital Archive
- - [https://www.calvertjournal.com](https://www.calvertjournal.com)
- - date published: 2023-10-25T13:17:18.541319+00:00
- - user: None
- - tags: []
-
-## cambioML
- - [https://www.cambioml.com](https://www.cambioml.com)
- - date published: 2023-10-25T13:17:19.034942+00:00
- - user: None
- - tags: []
-
-## Campus FM - stream college radio
- - [https://www.campus-fm.com](https://www.campus-fm.com)
- - date published: 2023-10-25T13:17:19.542791+00:00
- - user: None
- - tags: []
-
-## Canary Media | Covering the clean energy transition
- - [https://www.canarymedia.com](https://www.canarymedia.com)
- - date published: 2023-10-25T10:54:13.458447+00:00
- - user: None
- - tags: []
-
-## Candice Poon
- - [https://www.candicepoon.com](https://www.candicepoon.com)
- - date published: 2023-10-25T09:19:34.667288+00:00
- - user: None
- - tags: ['personal']
-
-## The National Confectioners Association - NCA
- - [https://candyusa.com](https://candyusa.com)
- - date published: 2023-10-25T13:17:23.324179+00:00
- - user: None
- - tags: []
-
-## Can's blog
- - [https://canolcer.com](https://canolcer.com)
- - date published: 2023-10-25T09:19:35.940458+00:00
- - user: None
- - tags: ['personal']
-
-## Canon Global
- - [https://www.canon.com](https://www.canon.com)
- - date published: 2023-10-30T18:15:36.625705+00:00
- - user: None
- - tags: ['company']
-
-## Canon Homepage | Canon U.S.A., Inc.
- - [https://www.usa.canon.com](https://www.usa.canon.com)
- - date published: 2023-11-01T08:41:43.065426+00:00
- - user: None
- - tags: []
-
-## Canonical | Trusted open source for enterprises
- - [https://canonical.com](https://canonical.com)
- - date published: 2023-10-25T11:27:41.221603+00:00
- - user: None
- - tags: []
-
-## Cansurround
- - [https://cscaz.cansurround.com](https://cscaz.cansurround.com)
- - date published: 2023-10-25T13:17:26.127964+00:00
- - user: None
- - tags: []
-
-## Cantor’s Paradise
- - [https://www.cantorsparadise.com](https://www.cantorsparadise.com)
- - date published: 2023-10-25T13:17:29.524010+00:00
- - user: None
- - tags: []
-
-## https://www.canva.com
- - [https://www.canva.com](https://www.canva.com)
- - date published: 2023-10-24T20:19:26.937858+00:00
- - user: None
- - tags: []
-
-## Canva Engineering Blog
- - [https://canvatechblog.com](https://canvatechblog.com)
- - date published: 2023-10-25T13:17:32.074614+00:00
- - user: None
- - tags: []
-
-## Can You Actually
- - [https://canyouactually.com](https://canyouactually.com)
- - date published: 2023-10-25T13:17:34.675025+00:00
- - user: None
- - tags: []
-
-## Capcom
- - [https://www.capcom.com](https://www.capcom.com)
- - date published: 2023-10-25T13:41:45.671843+00:00
- - user: None
- - tags: ['dead rising', 'street fighter', 'monster hounter', 'resident evil', 'devil may cry']
-
-## Cape Privacy | Keep sensitive data private while using LLMs
- - [https://capeprivacy.com](https://capeprivacy.com)
- - date published: 2023-10-25T13:17:36.125118+00:00
- - user: None
- - tags: []
-
-## Capgemini - Get The Future You Want
- - [https://www.capgemini.com](https://www.capgemini.com)
- - date published: 2023-10-25T11:27:46.363628+00:00
- - user: None
- - tags: []
-
-## Capith is under construction
- - [https://www.capith.com](https://www.capith.com)
- - date published: 2023-10-25T13:17:37.021497+00:00
- - user: None
- - tags: []
-
-## The Captain's Journal
- - [https://www.captainsjournal.com](https://www.captainsjournal.com)
- - date published: 2023-10-25T13:17:46.338857+00:00
- - user: None
- - tags: []
-
-## carandbike - Research on New Car and Bike Prices, News, Reviews, Videos; Buy/Sell Used Vehicles
- - [https://www.carandbike.com](https://www.carandbike.com)
- - date published: 2023-10-25T13:17:53.394108+00:00
- - user: None
- - tags: []
-
-## Car and Driver: New Car Reviews, Buying Advice and News
- - [https://www.caranddriver.com](https://www.caranddriver.com)
- - date published: 2023-10-25T13:17:57.032401+00:00
- - user: None
- - tags: []
-
-## Caravan Palace
- - [https://www.caravanpalace.com](https://www.caravanpalace.com)
- - date published: 2023-10-30T15:47:14.174508+00:00
- - user: None
- - tags: ['music band']
-
-## CarbonCredits.com - Your Source For Carbon Credit News & Opportunities
- - [https://carboncredits.com](https://carboncredits.com)
- - date published: 2023-10-25T13:18:00.478437+00:00
- - user: None
- - tags: []
-
-## Carbon Switch
- - [https://carbonswitch.com](https://carbonswitch.com)
- - date published: 2023-10-25T13:18:04.571765+00:00
- - user: None
- - tags: []
-
-## Home - Carbon To Stone
- - [https://carbontostone.com](https://carbontostone.com)
- - date published: 2023-10-25T13:18:07.369759+00:00
  - user: None
  - tags: []
 

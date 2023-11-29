@@ -176,7 +176,7 @@
  - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
  - date published: 2023-11-13T13:38:32+00:00
  - user: rumpel
- - tags: ['link aggregation']
+ - tags: ['link aggregation', 'bookmark manager']
 
 ## Motherfucking Website
  - [https://motherfuckingwebsite.com](https://motherfuckingwebsite.com)
@@ -218,6 +218,42 @@
  - [https://alightinthewoods.net](https://alightinthewoods.net)
  - date published: 2023-11-25T10:37:47+00:00
  - user: None
+ - tags: []
+
+## MambaOnline - Gay South Africa online
+ - [http://www.mambaonline.com](http://www.mambaonline.com)
+ - date published: 2023-11-26T08:46:18.407706+00:00
+ - user: None
+ - tags: []
+
+## Grimoire: Open-Source bookmark manager with extra features
+ - [https://github.com/goniszewski/grimoire](https://github.com/goniszewski/grimoire)
+ - date published: 2023-11-26T08:04:54+00:00
+ - user: rumpel
+ - tags: ['open source', 'bookmark manager']
+
+## Associated Press News: Breaking News | Latest News Today
+ - [https://apnews.com](https://apnews.com)
+ - date published: 2023-11-26T16:57:57+00:00
+ - user: rumpel
+ - tags: ['news']
+
+## Public | Michael Shellenberger | Substack
+ - [https://public.substack.com](https://public.substack.com)
+ - date published: 2023-11-26T17:00:37+00:00
+ - user: rumpel
+ - tags: ['substack']
+
+## PreSonus Software
+ - [http://www.presonussoftware.com](http://www.presonussoftware.com)
+ - date published: 2023-11-27T01:06:49.489913+00:00
+ - user: None
+ - tags: []
+
+## https://www.cato.org
+ - [https://www.cato.org](https://www.cato.org)
+ - date published: 2023-11-27T12:23:04+00:00
+ - user: rumpel
  - tags: []
 
 ## Sort: Supercharged collaboration for your database
@@ -340,6 +376,12 @@
  - user: None
  - tags: []
 
+## AskGuru
+ - [https://www.askguru.ai](https://www.askguru.ai)
+ - date published: 2023-11-28T20:45:58+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
 ## Marvin
  - [https://www.askmarvin.ai](https://www.askmarvin.ai)
  - date published: 2023-10-25T08:40:47.099148+00:00
@@ -387,6 +429,12 @@
  - date published: 2023-10-25T11:36:43.928399+00:00
  - user: None
  - tags: []
+
+## Generate high quality, AI-written articles at scale.
+ - [https://byword.ai](https://byword.ai)
+ - date published: 2023-11-28T07:33:33+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'content farm']
 
 ## Calligrapher.ai: Realistic computer-generated handwriting
  - [https://www.calligrapher.ai](https://www.calligrapher.ai)
@@ -505,6 +553,12 @@
 ## HackerNews
  - [https://hn.curiosity.ai](https://hn.curiosity.ai)
  - date published: 2023-10-25T08:27:20.682126+00:00
+ - user: None
+ - tags: []
+
+## Dive into Deep Learning: Interactive deep learning book with codes and maths
+ - [https://d2l.ai](https://d2l.ai)
+ - date published: 2023-11-27T04:55:20+00:00
  - user: None
  - tags: []
 
@@ -886,6 +940,12 @@
  - user: None
  - tags: []
 
+## Blog - Metaphysic.ai
+ - [https://blog.metaphysic.ai](https://blog.metaphysic.ai)
+ - date published: 2023-11-28T13:23:04.184625+00:00
+ - user: None
+ - tags: []
+
 ## Home - Metaphysic.ai
  - [https://metaphysic.ai](https://metaphysic.ai)
  - date published: 2023-10-25T11:39:58.601124+00:00
@@ -1039,6 +1099,12 @@
 ## AI Content Checker and Plagiarism Check | GPT-4 | ChatGPT
  - [https://originality.ai](https://originality.ai)
  - date published: 2023-10-25T11:41:12.986427+00:00
+ - user: None
+ - tags: []
+
+## Oxen.ai
+ - [https://blog.oxen.ai](https://blog.oxen.ai)
+ - date published: 2023-11-27T04:06:39.316301+00:00
  - user: None
  - tags: []
 
@@ -1657,6 +1723,12 @@
 ## Aegis Authenticator - Secure 2FA app for Android
  - [https://getaegis.app](https://getaegis.app)
  - date published: 2023-10-25T11:46:37.370107+00:00
+ - user: None
+ - tags: []
+
+## Whisky: Wine Supercharged with the Power of Apple's Game Porting Toolkit
+ - [https://getwhisky.app](https://getwhisky.app)
+ - date published: 2023-11-26T14:33:19+00:00
  - user: None
  - tags: []
 
@@ -2644,6 +2716,12 @@
  - user: None
  - tags: ['university']
 
+## Home | Australian National University
+ - [https://www.anu.edu.au](https://www.anu.edu.au)
+ - date published: 2023-11-26T15:31:20.824412+00:00
+ - user: None
+ - tags: []
+
 ## Edith Cowan University | Creative thinkers made here
  - [https://www.ecu.edu.au](https://www.ecu.edu.au)
  - date published: 2023-10-25T11:21:10.044075+00:00
@@ -3485,6 +3563,12 @@
  - user: None
  - tags: ['personal']
 
+## VEG.BY — VEG's Blog
+ - [https://veg.by](https://veg.by)
+ - date published: 2023-11-26T12:56:13.830280+00:00
+ - user: None
+ - tags: []
+
 ## George's Home Page
  - [http://48k.ca](http://48k.ca)
  - date published: 2023-10-25T09:02:15.320332+00:00
@@ -3767,6 +3851,12 @@
  - user: None
  - tags: ['personal']
 
+## Cartoonist Rek Bell
+ - [https://kokorobot.ca](https://kokorobot.ca)
+ - date published: 2023-11-26T21:41:29.844186+00:00
+ - user: None
+ - tags: []
+
 ## @luqman
  - [https://luqman.ca](https://luqman.ca)
  - date published: 2023-10-25T12:05:19.912761+00:00
@@ -3820,6 +3910,12 @@
  - date published: 2023-10-25T12:06:10.628082+00:00
  - user: None
  - tags: []
+
+## Retro Modern – Contemporary Modernism to fight boring
+ - [https://www.modernist3.ca](https://www.modernist3.ca)
+ - date published: 2023-11-27T00:26:57.612206+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Guerrero, Bichette lead Blue Jays past Royals 5-4 to kick off 10-game homestand
  - [https://morns.ca](https://morns.ca)
@@ -4115,6 +4211,12 @@
  - user: None
  - tags: []
 
+## Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
+ - [https://www150.statcan.gc.ca](https://www150.statcan.gc.ca)
+ - date published: 2023-11-27T21:10:40.723455+00:00
+ - user: None
+ - tags: []
+
 ## Trouver une décision | SOQUIJ
  - [https://citoyens.soquij.qc.ca](https://citoyens.soquij.qc.ca)
  - date published: 2023-10-25T12:09:44.985607+00:00
@@ -4203,7 +4305,7 @@
  - [https://http.cat](https://http.cat)
  - date published: 2023-10-25T12:10:29.119183+00:00
  - user: None
- - tags: []
+ - tags: ['internet', 'http', 'funny', 'wtf', 'cats']
 
 ## thecozy.cat – Welcome to my cozy corner of the internet.
  - [https://thecozy.cat](https://thecozy.cat)
@@ -5100,6 +5202,12 @@
  - user: None
  - tags: []
 
+## Save your favorite X (Twitter) and Bluesky bookmarks in one place - dewey.
+ - [https://getdewey.co](https://getdewey.co)
+ - date published: 2023-11-26T16:44:03+00:00
+ - user: rumpel
+ - tags: ['bookmark manager']
+
 ## Good Good Good | Good News & Hopeful Progress
  - [https://www.goodgoodgood.co](https://www.goodgoodgood.co)
  - date published: 2023-10-25T12:18:57.942165+00:00
@@ -5883,114 +5991,6 @@
 ## America
  - [https://4m3ric4.com](https://4m3ric4.com)
  - date published: 2023-10-25T12:27:31.869231+00:00
- - user: None
- - tags: []
-
-## 4sysops
- - [https://4sysops.com](https://4sysops.com)
- - date published: 2023-10-25T12:27:42.271993+00:00
- - user: None
- - tags: []
-
-## Find new games
- - [https://www.50gameslike.com](https://www.50gameslike.com)
- - date published: 2023-10-27T13:24:34.247396+00:00
- - user: None
- - tags: ['ranking']
-
-## A Journey in Creating an Operating System Kernel: The 539kernel Book - Home
- - [https://539kernel.com](https://539kernel.com)
- - date published: 2023-10-25T12:27:47.416154+00:00
- - user: None
- - tags: []
-
-## 55 The Game – Swiper
- - [https://55thegame.com](https://55thegame.com)
- - date published: 2023-10-25T12:27:49.468398+00:00
- - user: None
- - tags: []
-
-## Martín Villalba's personal homepage
- - [https://7c0h.com](https://7c0h.com)
- - date published: 2023-10-25T12:27:51.693393+00:00
- - user: None
- - tags: []
-
-## AI Image Generator | Transform Your Ideas With Us - 88stacks
- - [https://88stacks.com](https://88stacks.com)
- - date published: 2023-10-25T12:27:57.194269+00:00
- - user: None
- - tags: []
-
-## 8BitDo
- - [https://www.8bitdo.com](https://www.8bitdo.com)
- - date published: 2023-10-30T20:58:48.707728+00:00
- - user: None
- - tags: []
-
-## 8bitworkshop
- - [https://8bitworkshop.com](https://8bitworkshop.com)
- - date published: 2023-10-25T12:28:00.907669+00:00
- - user: None
- - tags: []
-
-## 8tracks internet radio | Free music playlists | Best app for music
- - [https://8tracks.com](https://8tracks.com)
- - date published: 2023-10-28T19:00:37.732156+00:00
- - user: None
- - tags: []
-
-## 9GAG - Best Funny Memes and Breaking News
- - [https://9gag.com](https://9gag.com)
- - date published: 2023-10-25T11:29:58.134778+00:00
- - user: None
- - tags: ['funny images', 'memes']
-
-## Access Denied
- - [https://www.9news.com](https://www.9news.com)
- - date published: 2023-11-22T04:44:23.039556+00:00
- - user: None
- - tags: []
-
-## 9 Tailed Kitsune – Get Your Daily Dose of Quality Anime Content
- - [https://9tailedkitsune.com](https://9tailedkitsune.com)
- - date published: 2023-10-25T15:04:47.546602+00:00
- - user: None
- - tags: []
-
-## 9to5Google - Google news, Pixel, Android, Home, Chrome OS, more
- - [https://9to5google.com](https://9to5google.com)
- - date published: 2023-10-25T12:28:19.255185+00:00
- - user: None
- - tags: []
-
-## 9to5Linux - Linux news, reviews, tutorials, and more
- - [https://9to5linux.com](https://9to5linux.com)
- - date published: 2023-10-25T10:35:55.257332+00:00
- - user: None
- - tags: []
-
-## 9to5Mac - Apple News & Mac Rumors Breaking All Day
- - [https://9to5mac.com](https://9to5mac.com)
- - date published: 2023-10-25T09:30:57.911213+00:00
- - user: None
- - tags: []
-
-## Giacomo Balli - Technology Advisor & Consultant
- - [https://BigBalli.com](https://BigBalli.com)
- - date published: 2023-10-25T12:28:23.645824+00:00
- - user: None
- - tags: []
-
-## The Supply Chain Logistics Platform | Flexport
- - [https://Flexport.com](https://Flexport.com)
- - date published: 2023-10-25T12:28:33.909615+00:00
- - user: None
- - tags: []
-
-## Outstatic - A Static Site CMS for Next.js
- - [https://Outstatic.com](https://Outstatic.com)
- - date published: 2023-10-25T12:28:34.794655+00:00
  - user: None
  - tags: []
 
