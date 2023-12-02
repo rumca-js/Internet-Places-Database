@@ -1,3 +1,94 @@
+## Slint |
+            Declarative GUI for Rust, C++ & JavaScript
+ - [https://slint-ui.com](https://slint-ui.com)
+ - date published: 2023-10-25T17:06:38.502399+00:00
+ - user: None
+ - tags: []
+
+## Home — Slipknot
+ - [https://slipknot1.com](https://slipknot1.com)
+ - date published: 2023-11-13T12:54:18.471783+00:00
+ - user: None
+ - tags: ['music band']
+
+## Home
+ - [https://www.slipseer.com](https://www.slipseer.com)
+ - date published: 2023-11-08T15:37:22.189671+00:00
+ - user: None
+ - tags: ['game mods', 'quake']
+
+## Slite - AI-powered knowledge base
+ - [https://slite.com](https://slite.com)
+ - date published: 2023-10-25T17:06:41.447338+00:00
+ - user: None
+ - tags: []
+
+## Slow Boring  | Matthew Yglesias | Substack
+ - [https://www.slowboring.com](https://www.slowboring.com)
+ - date published: 2023-10-25T17:06:44.335021+00:00
+ - user: None
+ - tags: []
+
+## The Salt Lake Tribune - Utah News, Sports, Religion & Entertainment
+ - [https://www.sltrib.com](https://www.sltrib.com)
+ - date published: 2023-11-16T16:03:31.289543+00:00
+ - user: None
+ - tags: []
+
+## SLYNYRD
+ - [https://www.slynyrd.com](https://www.slynyrd.com)
+ - date published: 2023-10-25T17:06:45.241132+00:00
+ - user: None
+ - tags: []
+
+## Small Cult Following
+ - [https://smallcultfollowing.com](https://smallcultfollowing.com)
+ - date published: 2023-10-25T17:06:46.723444+00:00
+ - user: None
+ - tags: []
+
+## Smallstep: End-to-End Encryption
+ - [https://smallstep.com](https://smallstep.com)
+ - date published: 2023-10-25T17:06:48.712986+00:00
+ - user: None
+ - tags: []
+
+## Software Testing, Monitoring, Developer Tools | SmartBear
+ - [https://smartbear.com](https://smartbear.com)
+ - date published: 2023-10-25T17:06:53.117341+00:00
+ - user: None
+ - tags: []
+
+## Sustainable, Connected and Livable Cities | Smart Cities Dive
+ - [https://www.smartcitiesdive.com](https://www.smartcitiesdive.com)
+ - date published: 2023-10-25T17:06:58.276471+00:00
+ - user: None
+ - tags: []
+
+## Smartfin
+ - [https://smartfinvc.com](https://smartfinvc.com)
+ - date published: 2023-10-25T17:07:04.474361+00:00
+ - user: None
+ - tags: []
+
+## Home - Smart Home Pursuits
+ - [https://smarthomepursuits.com](https://smarthomepursuits.com)
+ - date published: 2023-10-25T17:07:07.612588+00:00
+ - user: None
+ - tags: []
+
+## Smashing Magazine — For Web Designers And Developers
+ - [https://www.smashingmagazine.com](https://www.smashingmagazine.com)
+ - date published: 2023-10-25T17:07:11.338092+00:00
+ - user: None
+ - tags: []
+
+## Saturday Morning Breakfast Cereal - Esteem
+ - [https://www.smbc-comics.com](https://www.smbc-comics.com)
+ - date published: 2023-10-25T11:30:15.562712+00:00
+ - user: None
+ - tags: []
+
 ## History, Travel, Arts, Science, People, Places Smithsonian Magazine
  - [https://www.smithsonianmag.com](https://www.smithsonianmag.com)
  - date published: 2023-10-25T10:38:59.050420+00:00
@@ -105,6 +196,12 @@
  - date published: 2023-11-15T09:13:25.644305+00:00
  - user: None
  - tags: ['social media', 'statistics']
+
+## Like Oil Leads to Global Warming, Data Leads to Social Cooling
+ - [https://www.socialcooling.com](https://www.socialcooling.com)
+ - date published: 2023-12-01T03:06:33+00:00
+ - user: None
+ - tags: []
 
 ## SocketSite™ – San Francisco real estate tips, trends and the local scoop: "Plug In" to SocketSite™
  - [https://socketsite.com](https://socketsite.com)
@@ -1401,6 +1498,12 @@
  - date published: 2023-10-25T17:17:07.752738+00:00
  - user: None
  - tags: []
+
+## LDLW
+ - [https://steveledlow.com](https://steveledlow.com)
+ - date published: 2023-11-29T17:10:07.717096+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Steve Losh
  - [https://stevelosh.com](https://stevelosh.com)
@@ -2932,6 +3035,12 @@
  - user: None
  - tags: ['substack']
 
+## An Educated Guess | Jeroen van Baar | Substack
+ - [https://jeroenvanbaar.substack.com](https://jeroenvanbaar.substack.com)
+ - date published: 2023-12-01T21:29:00.031789+00:00
+ - user: None
+ - tags: []
+
 ## Jérôme à Paris  | Substack
  - [https://jeromeaparis.substack.com](https://jeromeaparis.substack.com)
  - date published: 2023-10-25T09:55:06.824850+00:00
@@ -3129,6 +3238,12 @@
  - date published: 2023-10-25T09:57:29.028429+00:00
  - user: None
  - tags: ['substack']
+
+## lol/sos | Christian Näthler | Substack
+ - [https://lolsos.substack.com](https://lolsos.substack.com)
+ - date published: 2023-12-01T17:03:01.841136+00:00
+ - user: None
+ - tags: []
 
 ## Louison’s newsletter | Louison Dumont | Substack
  - [https://louison.substack.com](https://louison.substack.com)
@@ -4846,6 +4961,12 @@
  - user: None
  - tags: []
 
+## TASCHEN Books: Books for Optimists Since 1980
+ - [https://www.taschen.com](https://www.taschen.com)
+ - date published: 2023-12-01T15:48:19.939176+00:00
+ - user: None
+ - tags: []
+
 ## Task & Purpose - Military News, Culture, and Analysis - Task & Purpose
  - [https://taskandpurpose.com](https://taskandpurpose.com)
  - date published: 2023-10-25T17:23:20.849842+00:00
@@ -5233,6 +5354,12 @@
 ## Teller Report
  - [https://www.tellerreport.com](https://www.tellerreport.com)
  - date published: 2023-10-25T17:26:40.471754+00:00
+ - user: None
+ - tags: []
+
+## BBS Still Exist
+ - [https://www.telnetbbsguide.com](https://www.telnetbbsguide.com)
+ - date published: 2023-11-03T23:29:11+00:00
  - user: None
  - tags: []
 
@@ -5866,130 +5993,4 @@
  - date published: 2023-10-25T17:32:10.176414+00:00
  - user: None
  - tags: []
-
-## The Dø - Shake Shook Shaken
- - [http://thedomusic.com](http://thedomusic.com)
- - date published: 2023-11-13T09:57:35.584044+00:00
- - user: None
- - tags: ['music band']
-
-## The Daily Pennsylvanian
- - [https://www.thedp.com](https://www.thedp.com)
- - date published: 2023-10-27T17:14:41.275709+00:00
- - user: None
- - tags: []
-
-## The Edge Malaysia
- - [https://theedgemalaysia.com](https://theedgemalaysia.com)
- - date published: 2023-11-01T08:43:10.638443+00:00
- - user: None
- - tags: []
-
-## https://www.theedgesingapore.com
- - [https://www.theedgesingapore.com](https://www.theedgesingapore.com)
- - date published: 2023-10-25T17:32:15.590070+00:00
- - user: None
- - tags: []
-
-## The Entrepreneur Way
- - [https://theentrepreneurway.com](https://theentrepreneurway.com)
- - date published: 2023-11-29T14:41:41.566948+00:00
- - user: None
- - tags: []
-
-## The Epoch Times | Breaking News, Latest News, World News and Videos
- - [https://feed.theepochtimes.com](https://feed.theepochtimes.com)
- - date published: 2023-10-25T10:50:48.568852+00:00
- - user: None
- - tags: []
-
-## The Epoch Times | Breaking News, Latest News, World News and Videos
- - [http://www.theepochtimes.com](http://www.theepochtimes.com)
- - date published: 2023-10-25T10:39:18.833935+00:00
- - user: None
- - tags: []
-
-## The Ethical Skeptic - Challenging Pseudo-Skepticism, its Agency and Cultivated Ignorance
- - [https://theethicalskeptic.com](https://theethicalskeptic.com)
- - date published: 2023-10-25T17:32:27.140151+00:00
- - user: None
- - tags: []
-
-## The Eyewall
- - [https://theeyewall.com](https://theeyewall.com)
- - date published: 2023-10-26T23:03:38.216802+00:00
- - user: None
- - tags: []
-
-## Home - The Face
- - [https://theface.com](https://theface.com)
- - date published: 2023-10-25T17:32:30.737419+00:00
- - user: None
- - tags: []
-
-## The Fact Site | Fun & Interesting Facts
- - [https://www.thefactsite.com](https://www.thefactsite.com)
- - date published: 2023-10-25T17:32:48.524933+00:00
- - user: None
- - tags: []
-
-## The Federalist - Culture, Politics, Religion
- - [https://thefederalist.com](https://thefederalist.com)
- - date published: 2023-10-25T17:32:52.453047+00:00
- - user: None
- - tags: []
-
-## The Final Hop
- - [https://www.thefinalhop.com](https://www.thefinalhop.com)
- - date published: 2023-10-25T17:32:53.667976+00:00
- - user: None
- - tags: []
-
-## Home - The Financial Diet
- - [https://thefinancialdiet.com](https://thefinancialdiet.com)
- - date published: 2023-10-25T17:32:55.918295+00:00
- - user: None
- - tags: []
-
-## Fintech News & Reviews Daily | The Fintech Times
- - [https://thefintechtimes.com](https://thefintechtimes.com)
- - date published: 2023-10-25T17:32:58.805761+00:00
- - user: None
- - tags: []
-
-## The Fitzwilliam | Fitzwilliam Staff | Substack
- - [https://www.thefitzwilliam.com](https://www.thefitzwilliam.com)
- - date published: 2023-10-25T17:33:02.110637+00:00
- - user: None
- - tags: []
-
-## The Free Press
- - [https://www.thefp.com](https://www.thefp.com)
- - date published: 2023-10-25T17:33:05.546830+00:00
- - user: None
- - tags: []
-
-## Dictionary, Encyclopedia and Thesaurus - The Free Dictionary
- - [https://www.thefreedictionary.com](https://www.thefreedictionary.com)
- - date published: 2023-10-25T09:28:50.951090+00:00
- - user: None
- - tags: []
-
-## thefreethoughtproject.com
- - [https://thefreethoughtproject.com](https://thefreethoughtproject.com)
- - date published: 2023-10-25T17:33:10.910442+00:00
- - user: None
- - tags: []
-
-## The Fresh Loaf | A Community of Amateur Bakers and Artisan Bread Enthusiasts.
- - [https://www.thefreshloaf.com](https://www.thefreshloaf.com)
- - date published: 2023-10-25T17:33:13.762985+00:00
- - user: None
- - tags: []
-
-## Home - The Frugal Fellow
- - [https://www.thefrugalfellow.com](https://www.thefrugalfellow.com)
- - date published: 2023-11-29T15:45:07.512799+00:00
- - user: None
- - tags: ['personal']
 

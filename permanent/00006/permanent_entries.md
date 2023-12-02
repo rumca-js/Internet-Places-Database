@@ -1,3 +1,57 @@
+## Patreon | News | Home
+ - [https://blog.patreon.com](https://blog.patreon.com)
+ - date published: 2023-10-25T11:32:44.994110+00:00
+ - user: None
+ - tags: []
+
+## Home — Patreon
+ - [https://www.patreon.com](https://www.patreon.com)
+ - date published: 2023-10-25T11:34:19.134811+00:00
+ - user: None
+ - tags: ['crowdfunding']
+
+## Home · Patrick Collison
+ - [https://patrickcollison.com](https://patrickcollison.com)
+ - date published: 2023-10-25T08:47:23.257678+00:00
+ - user: None
+ - tags: ['personal']
+
+## Patrick Conway
+ - [https://patrickconway.com](https://patrickconway.com)
+ - date published: 2023-11-29T16:18:59.190945+00:00
+ - user: None
+ - tags: ['personal']
+
+## Patrick Yandell
+ - [https://patrickyandell.com](https://patrickyandell.com)
+ - date published: 2023-11-29T14:24:18.301040+00:00
+ - user: None
+ - tags: []
+
+## Paul Graham
+ - [http://paulgraham.com](http://paulgraham.com)
+ - date published: 2023-10-25T16:31:18.326572+00:00
+ - user: None
+ - tags: []
+
+## Paul Graham
+ - [http://www.paulgraham.com](http://www.paulgraham.com)
+ - date published: 2023-10-25T16:31:25.213048+00:00
+ - user: None
+ - tags: []
+
+## Paul Graham AI
+ - [https://www.paulgrahamai.com](https://www.paulgrahamai.com)
+ - date published: 2023-10-25T16:31:25.983543+00:00
+ - user: None
+ - tags: []
+
+## Paul Irish
+ - [https://www.paulirish.com](https://www.paulirish.com)
+ - date published: 2023-10-25T09:26:01.615259+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Paul Plowman
  - [https://paulplowman.com](https://paulplowman.com)
  - date published: 2023-10-25T16:31:26.762919+00:00
@@ -786,6 +840,12 @@
  - date published: 2023-11-01T09:04:42.688240+00:00
  - user: None
  - tags: ['company', 'movie studio']
+
+## Pixel Empire - Where Pop Culture & Design Unite!
+ - [https://www.pixelempire.com](https://www.pixelempire.com)
+ - date published: 2023-12-01T11:39:33+00:00
+ - user: rumpel
+ - tags: ['merch', 'designers', 'artists']
 
 ## Pixelmator Pro
  - [https://www.pixelmator.com](https://www.pixelmator.com)
@@ -2029,6 +2089,12 @@
  - user: None
  - tags: []
 
+## qdorks.com: Easy Advanced Google Query Composer
+ - [https://qdorks.com](https://qdorks.com)
+ - date published: 2023-12-01T10:46:29.576983+00:00
+ - user: None
+ - tags: []
+
 ## Amazon November Sale: 20 Fantastic Deals You Can Grab Right Now! | TECHWALTZ
  - [https://qechtech.com](https://qechtech.com)
  - date published: 2023-11-08T16:41:19.370020+00:00
@@ -2167,7 +2233,7 @@
  - [https://www.queerty.com](https://www.queerty.com)
  - date published: 2023-11-29T21:23:36.231487+00:00
  - user: None
- - tags: []
+ - tags: ['queer', 'lgbt', 'trans', 'gay']
 
 ## Quentin Tarantino Fan Club
  - [https://www.quentintarantinofanclub.com](https://www.quentintarantinofanclub.com)
@@ -2409,6 +2475,12 @@
  - user: None
  - tags: []
 
+## ramoneando
+ - [https://ramoneando.com](https://ramoneando.com)
+ - date published: 2023-12-01T10:46:48.209422+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Ramp Engineering
  - [https://engineering.ramp.com](https://engineering.ramp.com)
  - date published: 2023-11-24T17:44:12.919687+00:00
@@ -2526,6 +2598,12 @@
 ## Ravenbrook
  - [https://www.ravenbrook.com](https://www.ravenbrook.com)
  - date published: 2023-10-25T16:46:24.313763+00:00
+ - user: None
+ - tags: []
+
+## RavynOS Finesse of macOS. Freedom of FreeBSD
+ - [https://ravynos.com](https://ravynos.com)
+ - date published: 2023-12-01T11:29:23+00:00
  - user: None
  - tags: []
 
@@ -5157,6 +5235,12 @@
  - user: None
  - tags: []
 
+## Seraph Secure: anti-scam software co-founded by Kitboga
+ - [https://www.seraphsecure.com](https://www.seraphsecure.com)
+ - date published: 2023-12-01T19:55:21+00:00
+ - user: None
+ - tags: []
+
 ## Home | Campbell Jones
  - [https://serebit.com](https://serebit.com)
  - date published: 2023-10-25T17:02:05.830940+00:00
@@ -5649,6 +5733,12 @@
  - user: None
  - tags: []
 
+## simonhuggins.com – Simon Huggins and his projects
+ - [https://simonhuggins.com](https://simonhuggins.com)
+ - date published: 2023-12-01T10:47:14.645124+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Simon Owen
  - [https://simonowen.com](https://simonowen.com)
  - date published: 2023-10-31T19:57:41.845940+00:00
@@ -5910,97 +6000,6 @@
 ## sligocki
  - [https://www.sligocki.com](https://www.sligocki.com)
  - date published: 2023-10-25T17:06:31.034022+00:00
- - user: None
- - tags: []
-
-## SLIME MOLD TIME MOLD – Mad Science Blogging
- - [https://slimemoldtimemold.com](https://slimemoldtimemold.com)
- - date published: 2023-10-25T17:06:37.146392+00:00
- - user: None
- - tags: []
-
-## Slint |
-            Declarative GUI for Rust, C++ & JavaScript
- - [https://slint-ui.com](https://slint-ui.com)
- - date published: 2023-10-25T17:06:38.502399+00:00
- - user: None
- - tags: []
-
-## Home — Slipknot
- - [https://slipknot1.com](https://slipknot1.com)
- - date published: 2023-11-13T12:54:18.471783+00:00
- - user: None
- - tags: ['music band']
-
-## Home
- - [https://www.slipseer.com](https://www.slipseer.com)
- - date published: 2023-11-08T15:37:22.189671+00:00
- - user: None
- - tags: ['game mods', 'quake']
-
-## Slite - AI-powered knowledge base
- - [https://slite.com](https://slite.com)
- - date published: 2023-10-25T17:06:41.447338+00:00
- - user: None
- - tags: []
-
-## Slow Boring  | Matthew Yglesias | Substack
- - [https://www.slowboring.com](https://www.slowboring.com)
- - date published: 2023-10-25T17:06:44.335021+00:00
- - user: None
- - tags: []
-
-## The Salt Lake Tribune - Utah News, Sports, Religion & Entertainment
- - [https://www.sltrib.com](https://www.sltrib.com)
- - date published: 2023-11-16T16:03:31.289543+00:00
- - user: None
- - tags: []
-
-## SLYNYRD
- - [https://www.slynyrd.com](https://www.slynyrd.com)
- - date published: 2023-10-25T17:06:45.241132+00:00
- - user: None
- - tags: []
-
-## Small Cult Following
- - [https://smallcultfollowing.com](https://smallcultfollowing.com)
- - date published: 2023-10-25T17:06:46.723444+00:00
- - user: None
- - tags: []
-
-## Smallstep: End-to-End Encryption
- - [https://smallstep.com](https://smallstep.com)
- - date published: 2023-10-25T17:06:48.712986+00:00
- - user: None
- - tags: []
-
-## Software Testing, Monitoring, Developer Tools | SmartBear
- - [https://smartbear.com](https://smartbear.com)
- - date published: 2023-10-25T17:06:53.117341+00:00
- - user: None
- - tags: []
-
-## Sustainable, Connected and Livable Cities | Smart Cities Dive
- - [https://www.smartcitiesdive.com](https://www.smartcitiesdive.com)
- - date published: 2023-10-25T17:06:58.276471+00:00
- - user: None
- - tags: []
-
-## Smartfin
- - [https://smartfinvc.com](https://smartfinvc.com)
- - date published: 2023-10-25T17:07:04.474361+00:00
- - user: None
- - tags: []
-
-## Home - Smart Home Pursuits
- - [https://smarthomepursuits.com](https://smarthomepursuits.com)
- - date published: 2023-10-25T17:07:07.612588+00:00
- - user: None
- - tags: []
-
-## Smashing Magazine — For Web Designers And Developers
- - [https://www.smashingmagazine.com](https://www.smashingmagazine.com)
- - date published: 2023-10-25T17:07:11.338092+00:00
  - user: None
  - tags: []
 

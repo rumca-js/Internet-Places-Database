@@ -1,3 +1,255 @@
+## Home Page for David Drysdale
+ - [https://www.lurklurk.org](https://www.lurklurk.org)
+ - date published: 2023-10-25T21:39:48.617218+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Mathematical Association of America
+ - [https://maa.org](https://maa.org)
+ - date published: 2023-10-25T21:39:56.661675+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Mathematical Association of America
+ - [https://www.maa.org](https://www.maa.org)
+ - date published: 2023-10-25T21:40:08.149299+00:00
+ - user: None
+ - tags: []
+
+## Macintosh Garden - Celebrating Macintosh Abandonware!
+ - [https://www.macintoshgarden.org](https://www.macintoshgarden.org)
+ - date published: 2023-10-27T14:50:05.944370+00:00
+ - user: None
+ - tags: ['abandonware', 'retro games']
+
+## macOS Containers Initiative
+ - [https://macoscontainers.org](https://macoscontainers.org)
+ - date published: 2023-10-25T21:40:08.656728+00:00
+ - user: None
+ - tags: []
+
+## MadSciNet: The 24-hour exploding laboratory.
+ - [https://www.madsci.org](https://www.madsci.org)
+ - date published: 2023-10-25T21:40:09.904654+00:00
+ - user: None
+ - tags: []
+
+## Secure e-mail for private and business customers | mailbox.org
+ - [https://mailbox.org](https://mailbox.org)
+ - date published: 2023-10-25T21:40:11.120497+00:00
+ - user: None
+ - tags: []
+
+## Maine State Legislature - Home
+ - [https://www.mainelegislature.org](https://www.mainelegislature.org)
+ - date published: 2023-10-25T21:40:12.533641+00:00
+ - user: None
+ - tags: []
+
+## Index of /.
+ - [https://maizure.org](https://maizure.org)
+ - date published: 2023-10-25T21:40:18.210567+00:00
+ - user: None
+ - tags: []
+
+## http://makie.org
+ - [http://makie.org](http://makie.org)
+ - date published: 2023-10-25T21:40:19.984747+00:00
+ - user: None
+ - tags: []
+
+## MAMEdev.org | Home of The MAME Project
+ - [https://www.mamedev.org](https://www.mamedev.org)
+ - date published: 2023-10-25T08:33:59.180459+00:00
+ - user: None
+ - tags: []
+
+## Michael Kerrisk - man7.org
+ - [https://man7.org](https://man7.org)
+ - date published: 2023-10-25T08:54:54.932586+00:00
+ - user: None
+ - tags: ['personal']
+
+## Michael Kerrisk - man7.org
+ - [https://www.man7.org](https://www.man7.org)
+ - date published: 2023-11-01T08:44:26.382114+00:00
+ - user: None
+ - tags: []
+
+## Manifund
+ - [https://manifund.org](https://manifund.org)
+ - date published: 2023-10-25T21:40:31.014774+00:00
+ - user: None
+ - tags: []
+
+## Manjaro
+ - [https://manjaro.org](https://manjaro.org)
+ - date published: 2023-10-25T08:32:30.040310+00:00
+ - user: None
+ - tags: ['operating system', 'linux']
+
+## Manton Reece
+ - [https://www.manton.org](https://www.manton.org)
+ - date published: 2023-10-25T08:54:57.479172+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://manytools.org](https://manytools.org)
+ - date published: 2023-10-30T13:46:40.956044+00:00
+ - user: None
+ - tags: []
+
+## Museo de Arte de Puerto Rico |
+ - [https://www.mapr.org](https://www.mapr.org)
+ - date published: 2023-11-13T13:47:30.668564+00:00
+ - user: None
+ - tags: ['museum']
+
+## Marco.org
+ - [https://marco.org](https://marco.org)
+ - date published: 2023-10-25T08:55:03.700528+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Marcosticks
+ - [https://marcosticks.org](https://marcosticks.org)
+ - date published: 2023-10-25T21:40:39.086833+00:00
+ - user: None
+ - tags: []
+
+## Mario Sanchez Carrion | mariosanchez.org
+ - [https://mariosanchez.org](https://mariosanchez.org)
+ - date published: 2023-11-29T15:48:28.173933+00:00
+ - user: None
+ - tags: ['personal']
+
+## Marketplace - Business News & Economic Stories For Everyone.
+ - [https://www.marketplace.org](https://www.marketplace.org)
+ - date published: 2023-10-25T21:40:43.366236+00:00
+ - user: None
+ - tags: []
+
+## Award-winning cancer care in Virginia
+ - [https://www.masseycancercenter.org](https://www.masseycancercenter.org)
+ - date published: 2023-11-07T14:33:04.946309+00:00
+ - user: None
+ - tags: []
+
+## massicotte.org | I write stuff here.
+ - [https://www.massicotte.org](https://www.massicotte.org)
+ - date published: 2023-10-25T21:40:44.215042+00:00
+ - user: None
+ - tags: []
+
+## Mastering Emacs
+ - [https://www.masteringemacs.org](https://www.masteringemacs.org)
+ - date published: 2023-10-25T08:40:44.720587+00:00
+ - user: None
+ - tags: []
+
+## Mathics
+ - [https://mathics.org](https://mathics.org)
+ - date published: 2023-10-25T21:40:45.148461+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Plus! | plus.maths.org
+ - [https://plus.maths.org](https://plus.maths.org)
+ - date published: 2023-10-25T21:40:46.513276+00:00
+ - user: None
+ - tags: []
+
+## Matomo Analytics - The Google Analytics alternative that protects your data
+ - [https://matomo.org](https://matomo.org)
+ - date published: 2023-10-25T21:40:48.794247+00:00
+ - user: None
+ - tags: []
+
+## Matplotlib — Visualization with Python
+ - [https://matplotlib.org](https://matplotlib.org)
+ - date published: 2023-10-25T21:40:50.255598+00:00
+ - user: None
+ - tags: []
+
+## mastodon.matrix.org - Matrix.org's Mastodon
+ - [https://mastodon.matrix.org](https://mastodon.matrix.org)
+ - date published: 2023-10-25T21:40:51.505890+00:00
+ - user: None
+ - tags: []
+
+## Matrix.org
+ - [https://matrix.org](https://matrix.org)
+ - date published: 2023-10-25T08:36:31.764842+00:00
+ - user: None
+ - tags: ['social communicator']
+
+## Matrix Calculus
+ - [https://www.matrixcalculus.org](https://www.matrixcalculus.org)
+ - date published: 2023-10-25T21:40:52.658451+00:00
+ - user: None
+ - tags: []
+
+## Matt Blaze / mattblaze.org
+ - [https://www.mattblaze.org](https://www.mattblaze.org)
+ - date published: 2023-11-12T18:27:09.723895+00:00
+ - user: None
+ - tags: []
+
+## Matt Lakeman – Writing on books, experiments, and random things I can't stop thinking about
+ - [https://mattlakeman.org](https://mattlakeman.org)
+ - date published: 2023-10-25T21:40:58.876749+00:00
+ - user: None
+ - tags: []
+
+## Stan
+ - [https://mc-stan.org](https://mc-stan.org)
+ - date published: 2023-11-10T00:49:59.615646+00:00
+ - user: None
+ - tags: []
+
+## mCaptcha - mCaptcha
+ - [https://mcaptcha.org](https://mcaptcha.org)
+ - date published: 2023-10-25T21:41:00.182452+00:00
+ - user: None
+ - tags: []
+
+## Material Curricular Libre - www.mclibre.org
+ - [https://www.mclibre.org](https://www.mclibre.org)
+ - date published: 2023-10-25T21:41:01.332000+00:00
+ - user: None
+ - tags: []
+
+## Media Lens – Correcting for the distorted vision of the corporate media
+ - [https://www.medialens.org](https://www.medialens.org)
+ - date published: 2023-10-25T21:41:03.647662+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Media Matters for America
+ - [https://www.mediamatters.org](https://www.mediamatters.org)
+ - date published: 2023-10-25T09:30:18.940421+00:00
+ - user: None
+ - tags: ['democrats', 'the left wing']
+
+## medRxiv.org - the preprint server for Health Sciences
+ - [https://www.medrxiv.org](https://www.medrxiv.org)
+ - date published: 2023-10-25T21:41:10.551921+00:00
+ - user: None
+ - tags: []
+
+## Melang | A script language of step-sharing scheduling coroutine in single thread
+ - [https://melang.org](https://melang.org)
+ - date published: 2023-10-25T21:41:11.360853+00:00
+ - user: None
+ - tags: []
+
+## Prossimo
+ - [https://www.memorysafety.org](https://www.memorysafety.org)
+ - date published: 2023-10-25T21:41:12.258442+00:00
+ - user: None
+ - tags: []
+
 ## Memtest86+ | The Open-Source Memory Testing Tool
  - [https://www.memtest.org](https://www.memtest.org)
  - date published: 2023-10-25T21:41:13.583448+00:00
@@ -1424,6 +1676,12 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
+## OpenSSF Best Practices Working Group (WG)
+ - [https://best.openssf.org](https://best.openssf.org)
+ - date published: 2023-12-01T12:40:53.021877+00:00
+ - user: None
+ - tags: []
+
 ## Home - Open Source Security Foundation
  - [https://openssf.org](https://openssf.org)
  - date published: 2023-10-25T21:53:38.058024+00:00
@@ -2718,6 +2976,12 @@ Common Weakness Enumeration
 ## Rhino Linux
  - [https://rhinolinux.org](https://rhinolinux.org)
  - date published: 2023-10-25T22:03:28.922070+00:00
+ - user: None
+ - tags: []
+
+## Rhodes Mill
+ - [https://rhodesmill.org](https://rhodesmill.org)
+ - date published: 2023-12-01T10:46:08.297281+00:00
  - user: None
  - tags: []
 
@@ -4691,6 +4955,12 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
+## US v Google
+ - [https://usvgoogle.org](https://usvgoogle.org)
+ - date published: 2023-12-01T08:40:04+00:00
+ - user: rumpel
+ - tags: ['dark design', 'monopoly', 'google']
+
 ## Portal
  - [https://ut99.org](https://ut99.org)
  - date published: 2023-10-30T15:41:29.210700+00:00
@@ -5730,274 +6000,4 @@ is forbidden
  - date published: 2023-10-25T22:24:57.674006+00:00
  - user: None
  - tags: []
-
-## Business Insider Polska
- - [https://businessinsider.com.pl](https://businessinsider.com.pl)
- - date published: 2023-10-25T10:58:26.656129+00:00
- - user: None
- - tags: []
-
-## https://www.euro.com.pl
- - [https://www.euro.com.pl](https://www.euro.com.pl)
- - date published: 2023-10-24T20:17:32.488635+00:00
- - user: None
- - tags: ['electronics', 'shop']
-
-## Flamberg - gry planszowe Katowice
- - [https://flamberg.com.pl](https://flamberg.com.pl)
- - date published: 2023-11-01T19:12:06.616555+00:00
- - user: None
- - tags: ['tabletop games', 'shop', 'board games', 'wargames']
-
-## Gandalf.com.pl - księgarnia i sklep internetowy z zabawkami, muzyką i perfumami
- - [https://www.gandalf.com.pl](https://www.gandalf.com.pl)
- - date published: 2023-10-24T20:18:08.254055+00:00
- - user: None
- - tags: []
-
-## Jbzd.com.pl - najgorsze obrazki w internecie!
- - [https://jbzd.com.pl](https://jbzd.com.pl)
- - date published: 2023-10-27T11:55:01.917890+00:00
- - user: None
- - tags: ['funny images', 'memes']
-
-## Oficjalna strona zespołu LADY PANK » Strona główna
- - [http://www.lady-pank.com.pl](http://www.lady-pank.com.pl)
- - date published: 2023-10-30T13:32:30.328651+00:00
- - user: None
- - tags: ['music band']
-
-## PAN OD KULTURY
- - [https://panodkultury.com.pl](https://panodkultury.com.pl)
- - date published: 2023-10-27T13:12:52.295579+00:00
- - user: None
- - tags: []
-
-## FISZ EMADE - TWORZYWO
- - [http://tworzywo.com.pl](http://tworzywo.com.pl)
- - date published: 2023-10-29T15:32:10.429259+00:00
- - user: None
- - tags: ['music band']
-
-## Wilki - Oficjalna Strona Zespołu - Strona Główna
- - [http://www.wilki.com.pl](http://www.wilki.com.pl)
- - date published: 2023-11-13T10:21:16.087686+00:00
- - user: None
- - tags: ['music band']
-
-## Wolni i Solidarni – Wolni i Solidarni – Partia polityczna Kornela Morawieckiego. Koło Częstochowa. Dotyczy spraw politycznych ale także historii i przyszłości.
- - [https://www.wolniisolidarni.czest.pl](https://www.wolniisolidarni.czest.pl)
- - date published: 2023-10-25T22:25:00.119842+00:00
- - user: None
- - tags: []
-
-## Strona główna - Uniwersytet im. Adama Mickiewicza w Poznaniu
- - [https://amu.edu.pl](https://amu.edu.pl)
- - date published: 2023-10-27T13:02:57.267906+00:00
- - user: None
- - tags: ['university']
-
-## Serwis prasowy IFJ PAN
- - [https://press.ifj.edu.pl](https://press.ifj.edu.pl)
- - date published: 2023-10-25T22:25:01.663981+00:00
- - user: None
- - tags: []
-
-## Narodowy Fundusz Zdrowia (NFZ) – finansujemy zdrowie Polaków
- - [https://www.nfz.gov.pl](https://www.nfz.gov.pl)
- - date published: 2023-10-25T22:25:03.318274+00:00
- - user: None
- - tags: ['government', 'healthcare']
-
-## Najwyższa Izba Kontroli
- - [https://www.nik.gov.pl](https://www.nik.gov.pl)
- - date published: 2023-11-16T16:54:09.383687+00:00
- - user: None
- - tags: []
-
-## Portal Gov.pl
- - [https://www.gov.pl](https://www.gov.pl)
- - date published: 2023-10-25T22:25:05.025399+00:00
- - user: None
- - tags: ['government']
-
-## Amiga – gry i porady – Serwis o komputerach i grach
- - [https://amiga.net.pl](https://amiga.net.pl)
- - date published: 2023-10-30T10:11:58.772522+00:00
- - user: None
- - tags: []
-
-## Sterowniki, Programy, Gry i Aktualności - Download.net.pl
- - [https://www.download.net.pl](https://www.download.net.pl)
- - date published: 2023-11-17T21:42:39+00:00
- - user: rumpel
- - tags: ['downloads', 'drivers', 'game news', 'programs']
-
-## Nowiny - Modyfikacje Heroes III - Jaskinia Behemota
- - [https://h3mods.heroes.net.pl](https://h3mods.heroes.net.pl)
- - date published: 2023-10-25T11:18:35.910684+00:00
- - user: None
- - tags: []
-
-## Psychologia.net.pl  - portal psychologiczny
- - [http://www.psychologia.net.pl](http://www.psychologia.net.pl)
- - date published: 2023-10-25T22:25:05.755276+00:00
- - user: None
- - tags: []
-
-## QUAKE.net.pl - Największy Polski Serwis o Quake Live, Quake Champions, Quake 3 I Quake 4 - pliki, artykuły, newsy, forum
- - [https://quake.net.pl](https://quake.net.pl)
- - date published: 2023-10-25T11:18:37.970311+00:00
- - user: None
- - tags: []
-
-## Portal AMIGA ORG PL – amiga.org.pl
- - [https://amiga.org.pl](https://amiga.org.pl)
- - date published: 2023-10-30T10:12:38.092153+00:00
- - user: None
- - tags: []
-
-## DEMAGOG - fakty są najważniejsze! Weryfikujemy i kontrolujemy.
- - [https://demagog.org.pl](https://demagog.org.pl)
- - date published: 2023-10-25T22:25:14.949568+00:00
- - user: None
- - tags: []
-
-## Historia.org.pl - Polski portal historyczny
- - [https://historia.org.pl](https://historia.org.pl)
- - date published: 2023-10-25T22:25:19.313712+00:00
- - user: None
- - tags: []
-
-## Darmowe MMORPG - spis gier MMO, MMOFPS, MMORPG 3d, MOBA
- - [https://mmorpg.org.pl](https://mmorpg.org.pl)
- - date published: 2023-10-26T18:37:58.388090+00:00
- - user: None
- - tags: []
-
-## OPOKA. Portal katolicki
- - [https://opoka.org.pl](https://opoka.org.pl)
- - date published: 2023-10-25T22:25:23.274370+00:00
- - user: None
- - tags: []
-
-## Fundacja WOŚP  - wosp.org.pl
- - [https://www.wosp.org.pl](https://www.wosp.org.pl)
- - date published: 2023-11-27T12:26:19+00:00
- - user: rumpel
- - tags: ['music', 'wielka orkiestra świątecznej pomocy', 'concert', 'organization']
-
-## Stare gry - Świat klasyki gier komputerowych.
- - [https://16bit.pl](https://16bit.pl)
- - date published: 2023-10-25T16:37:07.710478+00:00
- - user: None
- - tags: ['emulation', 'abandonware', 'roms', 'amiga', 'games', 'atari']
-
-## Jelenia Góra, Portal informacyjny powiatu i miasta  - 24jgora.pl
- - [https://24jgora.pl](https://24jgora.pl)
- - date published: 2023-10-25T22:25:26.816865+00:00
- - user: None
- - tags: []
-
-## 300Gospodarka.pl - gospodarka, nowe technologie, klimat, samorządy
- - [https://300gospodarka.pl](https://300gospodarka.pl)
- - date published: 2023-10-25T22:25:30.356095+00:00
- - user: None
- - tags: []
-
-## 3D-INFO.PL - Portal ludzi z pasją. Mobile, gry, komputery, Telewizory i Hi-Fi
- - [https://3d-info.pl](https://3d-info.pl)
- - date published: 2023-11-02T19:02:18.392184+00:00
- - user: None
- - tags: ['tech news', 'game news']
-
-## Zdrowie i zdrowy styl życia | WP abcZdrowie
- - [https://portal.abczdrowie.pl](https://portal.abczdrowie.pl)
- - date published: 2023-10-25T22:25:39.094951+00:00
- - user: None
- - tags: []
-
-## allegro.pl
- - [https://allegro.pl](https://allegro.pl)
- - date published: 2023-10-24T20:20:03.496697+00:00
- - user: None
- - tags: ['marketplace']
-
-## Amica - AGD: Piekarniki, kuchnie wolnostojące, płyty, okapy
- - [https://www.amica.pl](https://www.amica.pl)
- - date published: 2023-11-01T07:06:57.139074+00:00
- - user: None
- - tags: []
-
-## AmigaONE Zone | Polska strona komputera AmigaOne
- - [https://www.amigaone.pl](https://www.amigaone.pl)
- - date published: 2023-11-02T10:37:41.725545+00:00
- - user: None
- - tags: []
-
-## Amigowiec.pl Amiga rulez!
- - [https://www.amigowiec.pl](https://www.amigowiec.pl)
- - date published: 2023-10-30T10:11:46.861015+00:00
- - user: None
- - tags: []
-
-## Androidowy - blog dla ludzi. Smartfony, tablety, smartwatch.
- - [https://www.androidowy.pl](https://www.androidowy.pl)
- - date published: 2023-10-25T22:25:42.357332+00:00
- - user: None
- - tags: []
-
-## Andrzej Sapkowski
- - [http://www.andrzejsapkowski.pl](http://www.andrzejsapkowski.pl)
- - date published: 2023-11-13T12:57:23.505832+00:00
- - user: None
- - tags: ['witcher']
-
-## Najlepsza muzyka rockowa, newsy, koncerty, recenzje
- - [https://www.antyradio.pl](https://www.antyradio.pl)
- - date published: 2023-11-02T19:28:07.593267+00:00
- - user: None
- - tags: ['radio station', 'music']
-
-## Antyweb - blog technologiczny
- - [https://antyweb.pl](https://antyweb.pl)
- - date published: 2023-10-25T09:37:36.960984+00:00
- - user: None
- - tags: []
-
-## Arka Noego | Oficjalna strona zespołu
- - [https://www.arkanoego.pl](https://www.arkanoego.pl)
- - date published: 2023-10-29T15:27:58.295310+00:00
- - user: None
- - tags: ['music band']
-
-## Kult
- - [https://kult.art.pl](https://kult.art.pl)
- - date published: 2023-11-13T10:29:17.821704+00:00
- - user: None
- - tags: ['music band']
-
-## Aktualności - LAO CHE - Oficjalna strona zespołu
- - [http://laoche.art.pl](http://laoche.art.pl)
- - date published: 2023-10-29T15:34:12.277158+00:00
- - user: None
- - tags: ['music band']
-
-## Happysad - official website
- - [https://www.happysad.art.pl](https://www.happysad.art.pl)
- - date published: 2023-11-13T10:28:59.677916+00:00
- - user: None
- - tags: ['music band']
-
-## Museum of Modern Art in Warsaw
- - [https://artmuseum.pl](https://artmuseum.pl)
- - date published: 2023-10-25T22:25:43.556262+00:00
- - user: None
- - tags: []
-
-## Caesar's blog – Raspberry Pi, Domoticz, Smart home, Retro Gaming
- - [http://blog.asobczak.pl](http://blog.asobczak.pl)
- - date published: 2023-11-06T10:15:28.100145+00:00
- - user: None
- - tags: ['retro games', 'retropie', 'raspberry']
 

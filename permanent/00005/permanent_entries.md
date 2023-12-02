@@ -1,3 +1,21 @@
+## Manish R Jain
+ - [https://manishrjain.com](https://manishrjain.com)
+ - date published: 2023-10-25T15:55:17.260053+00:00
+ - user: None
+ - tags: []
+
+## Howie Mann - Startup Strategy
+ - [https://mannhowie.com](https://mannhowie.com)
+ - date published: 2023-10-25T15:55:21.301915+00:00
+ - user: None
+ - tags: []
+
+## Manticore Search
+ - [https://manticoresearch.com](https://manticoresearch.com)
+ - date published: 2023-10-25T15:55:23.433035+00:00
+ - user: None
+ - tags: []
+
 ## Manuel Lamas
  - [https://manuellamas.com](https://manuellamas.com)
  - date published: 2023-11-29T19:26:31.952527+00:00
@@ -55,6 +73,12 @@
 ## MARCA - Diario online líder en información deportiva
  - [https://www.marca.com](https://www.marca.com)
  - date published: 2023-10-25T15:56:10.678085+00:00
+ - user: None
+ - tags: []
+
+## blog.marcocantu.com
+ - [https://blog.marcocantu.com](https://blog.marcocantu.com)
+ - date published: 2023-12-01T10:46:10.581631+00:00
  - user: None
  - tags: []
 
@@ -380,6 +404,12 @@
 ## MathPages
  - [https://mathpages.com](https://mathpages.com)
  - date published: 2023-10-25T15:57:59.237131+00:00
+ - user: None
+ - tags: []
+
+## matrixfansite.com
+ - [http://www.matrixfansite.com](http://www.matrixfansite.com)
+ - date published: 2023-10-30T13:29:27.624260+00:00
  - user: None
  - tags: []
 
@@ -1703,6 +1733,12 @@
  - user: None
  - tags: []
 
+## Metal Wellness
+ - [https://www.metalwellness.com](https://www.metalwellness.com)
+ - date published: 2023-12-01T10:47:40.491393+00:00
+ - user: None
+ - tags: ['personal']
+
 ## metablog
  - [https://blog.metaobject.com](https://blog.metaobject.com)
  - date published: 2023-10-25T16:01:55.739270+00:00
@@ -2921,6 +2957,12 @@
  - user: None
  - tags: []
 
+## Music-Map – Find Similar Music
+ - [https://www.music-map.com](https://www.music-map.com)
+ - date published: 2023-12-01T00:44:21+00:00
+ - user: None
+ - tags: []
+
 ## Music Entrepreneur HQ: Music Business Training and Music Marketing Strategies
  - [https://www.musicentrepreneurhq.com](https://www.musicentrepreneurhq.com)
  - date published: 2023-11-29T14:18:19.324945+00:00
@@ -3749,6 +3791,12 @@
  - user: None
  - tags: ['substack']
 
+## Daytona Beach News-Journal: Local News, Politics & Sports in Daytona Beach, FL
+ - [https://www.news-journalonline.com](https://www.news-journalonline.com)
+ - date published: 2023-12-01T15:47:55.160128+00:00
+ - user: None
+ - tags: []
+
 ## News, Breaking News, Latest News, News Headlines, Live News, Today News CNN-News18
  - [https://www.news18.com](https://www.news18.com)
  - date published: 2023-10-25T16:17:08.953054+00:00
@@ -3885,7 +3933,7 @@
  - [https://www.newyorker.com](https://www.newyorker.com)
  - date published: 2023-10-25T16:17:59.957961+00:00
  - user: None
- - tags: []
+ - tags: ['news']
 
 ## Home - New York Verified
  - [https://newyorkverified.com](https://newyorkverified.com)
@@ -4331,6 +4379,12 @@
  - date published: 2023-10-25T08:26:10.379863+00:00
  - user: None
  - tags: ['dns']
+
+## Easy Stable Diffusion XL in your device, offline
+ - [https://noiselith.com](https://noiselith.com)
+ - date published: 2023-12-01T14:34:50+00:00
+ - user: None
+ - tags: []
 
 ## Noiszy
  - [https://noiszy.com](https://noiszy.com)
@@ -5944,58 +5998,4 @@ Answering Machine Greetings!
  - date published: 2023-10-25T08:39:41.111324+00:00
  - user: None
  - tags: ['game']
-
-## Path-Sensitive
- - [https://www.pathsensitive.com](https://www.pathsensitive.com)
- - date published: 2023-10-25T16:31:04.472557+00:00
- - user: None
- - tags: []
-
-## Patreon | News | Home
- - [https://blog.patreon.com](https://blog.patreon.com)
- - date published: 2023-10-25T11:32:44.994110+00:00
- - user: None
- - tags: []
-
-## Home — Patreon
- - [https://www.patreon.com](https://www.patreon.com)
- - date published: 2023-10-25T11:34:19.134811+00:00
- - user: None
- - tags: ['crowdfunding']
-
-## Home · Patrick Collison
- - [https://patrickcollison.com](https://patrickcollison.com)
- - date published: 2023-10-25T08:47:23.257678+00:00
- - user: None
- - tags: ['personal']
-
-## Patrick Conway
- - [https://patrickconway.com](https://patrickconway.com)
- - date published: 2023-11-29T16:18:59.190945+00:00
- - user: None
- - tags: ['personal']
-
-## Patrick Yandell
- - [https://patrickyandell.com](https://patrickyandell.com)
- - date published: 2023-11-29T14:24:18.301040+00:00
- - user: None
- - tags: []
-
-## Paul Graham
- - [http://paulgraham.com](http://paulgraham.com)
- - date published: 2023-10-25T16:31:18.326572+00:00
- - user: None
- - tags: []
-
-## Paul Graham
- - [http://www.paulgraham.com](http://www.paulgraham.com)
- - date published: 2023-10-25T16:31:25.213048+00:00
- - user: None
- - tags: []
-
-## Paul Graham AI
- - [https://www.paulgrahamai.com](https://www.paulgrahamai.com)
- - date published: 2023-10-25T16:31:25.983543+00:00
- - user: None
- - tags: []
 

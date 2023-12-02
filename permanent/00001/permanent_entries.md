@@ -1,63 +1,3 @@
-## Data Visualization
- - [https://socviz.co](https://socviz.co)
- - date published: 2023-10-25T12:22:20.001924+00:00
- - user: None
- - tags: []
-
-## Spotta | Smart Insect Monitoring as a Service
- - [https://www.spotta.co](https://www.spotta.co)
- - date published: 2023-10-25T12:22:25.066866+00:00
- - user: None
- - tags: []
-
-## SpyTalk | Jeff Stein | Substack
- - [https://www.spytalk.co](https://www.spytalk.co)
- - date published: 2023-10-25T09:39:56.063632+00:00
- - user: None
- - tags: ['substack']
-
-## Empowering the world to develop technology through collective knowledge - Stack Overflow
- - [https://stackoverflow.co](https://stackoverflow.co)
- - date published: 2023-10-25T12:22:28.315909+00:00
- - user: None
- - tags: []
-
-## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
- - [https://stateofthenation.co](https://stateofthenation.co)
- - date published: 2023-10-25T12:23:13.580451+00:00
- - user: None
- - tags: []
-
-## Tedium | An Offbeat Digital Newsletter
- - [https://tedium.co](https://tedium.co)
- - date published: 2023-10-25T12:23:19.179721+00:00
- - user: None
- - tags: []
-
-## Tools for Online Speech | Jacob O'Bryant
- - [https://tfos.co](https://tfos.co)
- - date published: 2023-10-25T12:23:23.026761+00:00
- - user: None
- - tags: []
-
-## Bitcoin, Ethereum, and Crypto News | The Block
- - [https://www.theblock.co](https://www.theblock.co)
- - date published: 2023-10-25T12:23:37.713443+00:00
- - user: None
- - tags: []
-
-## The Cradle
- - [https://thecradle.co](https://thecradle.co)
- - date published: 2023-10-25T12:23:40.881708+00:00
- - user: None
- - tags: []
-
-## The Diff - Inflections in finance and tech
- - [https://www.thediff.co](https://www.thediff.co)
- - date published: 2023-10-25T12:23:43.588753+00:00
- - user: None
- - tags: []
-
 ## Subscribe to The Hustle Daily Newsletter - The Hustle
  - [https://thehustle.co](https://thehustle.co)
  - date published: 2023-10-25T12:23:50.924572+00:00
@@ -1582,6 +1522,12 @@
  - user: None
  - tags: []
 
+## Alexander Sandberg · Product-minded iOS/macOS Engineer
+ - [https://alexandersandberg.com](https://alexandersandberg.com)
+ - date published: 2023-12-01T10:47:45.054107+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Alex Cabal
  - [https://alexcabal.com](https://alexcabal.com)
  - date published: 2023-10-25T09:04:23.166247+00:00
@@ -1945,6 +1891,12 @@
 ## Amazon Digital and Device Forums - US
  - [https://www.amazonforum.com](https://www.amazonforum.com)
  - date published: 2023-10-25T12:39:47.954437+00:00
+ - user: None
+ - tags: []
+
+## Amber O’Hara – mature lady friend
+ - [http://amber-ohara.com](http://amber-ohara.com)
+ - date published: 2023-11-29T14:45:00.239369+00:00
  - user: None
  - tags: []
 
@@ -2775,6 +2727,12 @@
  - date published: 2023-10-30T16:31:30.650736+00:00
  - user: None
  - tags: ['tech news']
+
+## April Mack - YA fantasy author
+ - [https://www.aprilmackwrites.com](https://www.aprilmackwrites.com)
+ - date published: 2023-11-29T14:26:02.757803+00:00
+ - user: None
+ - tags: []
 
 ## The No Infrastructure Platform as a Service | Aptible
  - [https://www.aptible.com](https://www.aptible.com)
@@ -3890,7 +3848,7 @@
  - [https://balkaninsight.com](https://balkaninsight.com)
  - date published: 2023-10-25T12:52:07.898288+00:00
  - user: None
- - tags: []
+ - tags: ['balkan news', 'politics']
 
 ## Ben Balter | Technology leadership, collaboration, and open source
  - [https://ben.balter.com](https://ben.balter.com)
@@ -4315,6 +4273,12 @@
 ## Ben Lorantfy
  - [https://www.benlorantfy.com](https://www.benlorantfy.com)
  - date published: 2023-10-25T08:45:04.064540+00:00
+ - user: None
+ - tags: ['personal']
+
+## Messaging That Gets Results.
+ - [https://bennettink.com](https://bennettink.com)
+ - date published: 2023-12-01T10:47:49.434624+00:00
  - user: None
  - tags: ['personal']
 
@@ -5995,6 +5959,42 @@
 ## Boston 25 News – Boston 25 News
  - [https://www.boston25news.com](https://www.boston25news.com)
  - date published: 2023-11-03T00:27:09.621959+00:00
+ - user: None
+ - tags: []
+
+## The Boston Globe
+ - [https://www.bostonglobe.com](https://www.bostonglobe.com)
+ - date published: 2023-10-25T14:22:22.645245+00:00
+ - user: None
+ - tags: []
+
+## http://farewell.bostonunitygroup.com
+ - [http://farewell.bostonunitygroup.com](http://farewell.bostonunitygroup.com)
+ - date published: 2023-10-25T14:22:30.115365+00:00
+ - user: None
+ - tags: []
+
+## Both Sides of the Table
+ - [https://bothsidesofthetable.com](https://bothsidesofthetable.com)
+ - date published: 2023-10-25T14:22:36.109786+00:00
+ - user: None
+ - tags: []
+
+## Computer Science from the Bottom Up
+ - [https://www.bottomupcs.com](https://www.bottomupcs.com)
+ - date published: 2023-10-25T14:22:42.149490+00:00
+ - user: None
+ - tags: []
+
+## Bounding Into Comics - Your destination for comic books, gaming, movies and more!
+ - [https://boundingintocomics.com](https://boundingintocomics.com)
+ - date published: 2023-10-25T11:19:12.732997+00:00
+ - user: None
+ - tags: []
+
+## Boundless: A Modern Immigration Company
+ - [https://www.boundless.com](https://www.boundless.com)
+ - date published: 2023-10-25T14:22:46.725060+00:00
  - user: None
  - tags: []
 

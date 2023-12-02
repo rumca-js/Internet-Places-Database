@@ -1,4 +1,16 @@
 ## American Honda Motor Co., Inc. - Official Site
+ - [https://honda.com](https://honda.com)
+ - date published: 2023-11-01T08:59:50.141286+00:00
+ - user: None
+ - tags: ['company', 'car producer']
+
+## Motocompacto | Honda
+ - [https://motocompacto.honda.com](https://motocompacto.honda.com)
+ - date published: 2023-10-25T15:00:32.558543+00:00
+ - user: None
+ - tags: []
+
+## American Honda Motor Co., Inc. - Official Site
  - [https://www.honda.com](https://www.honda.com)
  - date published: 2023-11-01T08:42:13.540163+00:00
  - user: None
@@ -2140,6 +2152,12 @@
  - user: None
  - tags: []
 
+## WHY EDIFY
+ - [https://www.jeremyajorgensen.com](https://www.jeremyajorgensen.com)
+ - date published: 2023-11-29T15:48:09.478619+00:00
+ - user: None
+ - tags: ['personal']
+
 ## JEREMY DEPRISCO - JEREMY DEPRISCO
  - [https://www.jeremydeprisco.com](https://www.jeremydeprisco.com)
  - date published: 2023-11-17T10:12:35.173571+00:00
@@ -3386,7 +3404,7 @@
  - [https://kevinlynagh.com](https://kevinlynagh.com)
  - date published: 2023-10-25T15:36:31.915798+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Kevin Marks
  - [https://www.kevinmarks.com](https://www.kevinmarks.com)
@@ -5973,24 +5991,6 @@ diversions.
 ## Threat Intelligence Solutions | Cyber Security Services & Training
  - [https://www.mandiant.com](https://www.mandiant.com)
  - date published: 2023-10-25T15:55:12.774419+00:00
- - user: None
- - tags: []
-
-## Get Good at Delivering Software™️
- - [https://blog.mangoteque.com](https://blog.mangoteque.com)
- - date published: 2023-10-25T15:55:14.397259+00:00
- - user: None
- - tags: []
-
-## Manish R Jain
- - [https://manishrjain.com](https://manishrjain.com)
- - date published: 2023-10-25T15:55:17.260053+00:00
- - user: None
- - tags: []
-
-## Howie Mann - Startup Strategy
- - [https://mannhowie.com](https://mannhowie.com)
- - date published: 2023-10-25T15:55:21.301915+00:00
  - user: None
  - tags: []
 

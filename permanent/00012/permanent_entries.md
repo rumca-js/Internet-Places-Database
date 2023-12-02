@@ -1,3 +1,225 @@
+## Phil Booth
+ - [https://philbooth.me](https://philbooth.me)
+ - date published: 2023-10-25T08:50:48.807135+00:00
+ - user: None
+ - tags: ['personal']
+
+## ubitux/blog
+ - [https://blog.pkh.me](https://blog.pkh.me)
+ - date published: 2023-10-25T20:20:45.149687+00:00
+ - user: None
+ - tags: []
+
+## Pradyun Gedam
+ - [https://pradyunsg.me](https://pradyunsg.me)
+ - date published: 2023-10-25T09:22:38.359262+00:00
+ - user: None
+ - tags: ['personal']
+
+## Preslav Rachev
+ - [https://preslav.me](https://preslav.me)
+ - date published: 2023-10-25T08:50:50.134536+00:00
+ - user: None
+ - tags: ['personal']
+
+## Corey Prophitt's Website
+ - [https://prophitt.me](https://prophitt.me)
+ - date published: 2023-10-25T08:50:51.665289+00:00
+ - user: None
+ - tags: ['personal']
+
+## Proton — Privacy by default
+ - [https://proton.me](https://proton.me)
+ - date published: 2023-10-25T08:25:39.070341+00:00
+ - user: None
+ - tags: ['privacy', 'vpn', 'email server']
+
+## Rauno Freiberg
+ - [https://rauno.me](https://rauno.me)
+ - date published: 2023-10-25T08:50:53.557307+00:00
+ - user: None
+ - tags: ['personal']
+
+## Redbrick | The official student newspaper of the University of Birmingham
+ - [https://www.redbrick.me](https://www.redbrick.me)
+ - date published: 2023-10-25T20:20:51.810256+00:00
+ - user: None
+ - tags: []
+
+## https://roastmyresu.me
+ - [https://roastmyresu.me](https://roastmyresu.me)
+ - date published: 2023-10-25T20:20:52.494687+00:00
+ - user: None
+ - tags: []
+
+## Rukshan's Blog
+ - [https://ruky.me](https://ruky.me)
+ - date published: 2023-10-25T08:50:56.032223+00:00
+ - user: None
+ - tags: ['personal']
+
+## RyotaK's Blog - 技術的な話とか
+ - [https://blog.ryotak.me](https://blog.ryotak.me)
+ - date published: 2023-10-25T20:20:53.525118+00:00
+ - user: None
+ - tags: []
+
+## Stefan Saasen
+ - [https://stefan.saasen.me](https://stefan.saasen.me)
+ - date published: 2023-11-01T08:43:50.249821+00:00
+ - user: None
+ - tags: []
+
+## Sam Dickie | Product Manager & Maker based in Scotland
+ - [https://www.samdickie.me](https://www.samdickie.me)
+ - date published: 2023-10-25T20:21:00.260047+00:00
+ - user: None
+ - tags: []
+
+## samyaksahu.me
+ - [https://samyaksahu.me](https://samyaksahu.me)
+ - date published: 2023-10-25T20:21:02.710847+00:00
+ - user: None
+ - tags: []
+
+## HandlR
+ - [https://handlr.sapico.me](https://handlr.sapico.me)
+ - date published: 2023-10-25T20:21:09.032470+00:00
+ - user: None
+ - tags: []
+
+## [Michał Sapka's website]
+ - [https://michal.sapka.me](https://michal.sapka.me)
+ - date published: 2023-10-25T08:50:59.399029+00:00
+ - user: None
+ - tags: ['personal']
+
+## scoop.me - Share it. Translate it. Republish it.
+ - [https://scoop.me](https://scoop.me)
+ - date published: 2023-10-25T10:39:44.099392+00:00
+ - user: None
+ - tags: []
+
+## Scott Gould – Author and speaker on Engagement
+ - [https://scottgould.me](https://scottgould.me)
+ - date published: 2023-11-29T14:20:14.061881+00:00
+ - user: None
+ - tags: ['personal']
+
+## Seiya Nuta
+ - [https://seiya.me](https://seiya.me)
+ - date published: 2023-10-25T08:51:02.101892+00:00
+ - user: None
+ - tags: ['personal']
+
+## SerCe's blog
+ - [https://serce.me](https://serce.me)
+ - date published: 2023-10-25T08:51:03.677213+00:00
+ - user: None
+ - tags: ['personal']
+
+## SerHack – Security Researcher and Writer
+ - [https://serhack.me](https://serhack.me)
+ - date published: 2023-10-25T08:51:06.357837+00:00
+ - user: None
+ - tags: ['personal']
+
+## SH1MMER.me
+ - [https://sh1mmer.me](https://sh1mmer.me)
+ - date published: 2023-10-25T20:21:10.380048+00:00
+ - user: None
+ - tags: []
+
+## Shalvah's Blog
+ - [https://blog.shalvah.me](https://blog.shalvah.me)
+ - date published: 2023-10-25T09:00:00.613048+00:00
+ - user: None
+ - tags: ['personal']
+
+## Shameem Reza
+ - [https://shameem.me](https://shameem.me)
+ - date published: 2023-11-29T14:41:10.640159+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Sharat's
+ - [https://sharats.me](https://sharats.me)
+ - date published: 2023-10-25T09:00:01.772363+00:00
+ - user: None
+ - tags: ['personal']
+
+## The homepage of Leonid Shevtsov - systems architect, software enthusiast and philosopher. Opinions, tips and case studies
+ - [https://leonid.shevtsov.me](https://leonid.shevtsov.me)
+ - date published: 2023-10-25T20:21:12.014354+00:00
+ - user: None
+ - tags: []
+
+## Shyim's Brain
+ - [https://shyim.me](https://shyim.me)
+ - date published: 2023-10-25T08:37:50.607216+00:00
+ - user: None
+ - tags: []
+
+## Simon’s Newsletter | Substack
+ - [https://simonberens.me](https://simonberens.me)
+ - date published: 2023-10-25T10:07:57.433976+00:00
+ - user: None
+ - tags: ['substack']
+
+## The online home of Stephen Lewis. No, not that one.
+ - [https://www.stephenlewis.me](https://www.stephenlewis.me)
+ - date published: 2023-10-25T20:21:14.210743+00:00
+ - user: None
+ - tags: []
+
+## Telegram Messenger
+ - [https://t.me](https://t.me)
+ - date published: 2023-10-25T20:21:15.924156+00:00
+ - user: None
+ - tags: []
+
+## Hi, I’m Taylor Pearson -
+ - [https://taylorpearson.me](https://taylorpearson.me)
+ - date published: 2023-11-17T07:29:25.425464+00:00
+ - user: None
+ - tags: ['personal']
+
+## TheFrenchGhosty's Blog
+ - [https://blog.thefrenchghosty.me](https://blog.thefrenchghosty.me)
+ - date published: 2023-10-25T09:22:39.074426+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Sloth Blog
+ - [https://thesloth.me](https://thesloth.me)
+ - date published: 2023-10-25T09:22:40.122984+00:00
+ - user: None
+ - tags: ['personal']
+
+## ThoughtfulBits: Ideas that Matter | Alexander Gounares | Substack
+ - [https://www.thoughtfulbits.me](https://www.thoughtfulbits.me)
+ - date published: 2023-10-25T20:21:19.757249+00:00
+ - user: None
+ - tags: []
+
+## TJCX | Tom | Substack
+ - [https://blog.tjcx.me](https://blog.tjcx.me)
+ - date published: 2023-10-25T10:08:00.355305+00:00
+ - user: None
+ - tags: ['substack']
+
+## Hacker News Startup Ideas
+ - [https://hn-ideas.tjcx.me](https://hn-ideas.tjcx.me)
+ - date published: 2023-10-25T20:21:21.018665+00:00
+ - user: None
+ - tags: []
+
+## Tobias Schmidt
+ - [https://tobiasschmidt.me](https://tobiasschmidt.me)
+ - date published: 2023-11-29T20:43:33.302518+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Blog
  - [https://tonsky.me](https://tonsky.me)
  - date published: 2023-10-25T08:51:14.857368+00:00
@@ -627,6 +849,12 @@
  - date published: 2023-10-25T08:51:53.345894+00:00
  - user: None
  - tags: ['personal']
+
+## A Light in the Woods
+ - [https://alightinthewoods.net](https://alightinthewoods.net)
+ - date published: 2023-11-25T10:37:47+00:00
+ - user: None
+ - tags: []
 
 ## AlternativeTo - Crowdsourced software recommendations
  - [https://alternativeto.net](https://alternativeto.net)
@@ -5764,234 +5992,6 @@ marginalia.nu
 ## ACL Anthology - ACL Anthology
  - [https://aclanthology.org](https://aclanthology.org)
  - date published: 2023-10-25T20:53:36.329517+00:00
- - user: None
- - tags: []
-
-## Home | American Civil Liberties Union
- - [https://www.aclu.org](https://www.aclu.org)
- - date published: 2023-10-25T20:53:44.491527+00:00
- - user: None
- - tags: []
-
-## A.M. Turing Award
- - [https://amturing.acm.org](https://amturing.acm.org)
- - date published: 2023-10-25T20:53:46.979207+00:00
- - user: None
- - tags: []
-
-## Awards Home
- - [https://awards.acm.org](https://awards.acm.org)
- - date published: 2023-10-25T20:53:56.997751+00:00
- - user: None
- - tags: []
-
-## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
- - user: None
- - tags: []
-
-## ACM Digital Library
- - [https://dl.acm.org](https://dl.acm.org)
- - date published: 2023-10-25T20:54:07.913205+00:00
- - user: None
- - tags: []
-
-## ACM Code of Ethics and Professional Conduct
- - [https://ethics.acm.org](https://ethics.acm.org)
- - date published: 2023-10-25T20:54:10.467772+00:00
- - user: None
- - tags: []
-
-## ACM Learning Center
- - [https://learning.acm.org](https://learning.acm.org)
- - date published: 2023-10-25T20:54:19.348249+00:00
- - user: None
- - tags: []
-
-## ACMQ Site - ACM Queue
- - [https://queue.acm.org](https://queue.acm.org)
- - date published: 2023-10-25T20:54:22.401799+00:00
- - user: None
- - tags: []
-
-## Association for Computing Machinery
- - [https://www.acm.org](https://www.acm.org)
- - date published: 2023-10-25T20:54:27.074550+00:00
- - user: None
- - tags: []
-
-## the morning paper | a random walk through Computer Science research, by Adrian Colyer
- - [https://blog.acolyer.org](https://blog.acolyer.org)
- - date published: 2023-10-25T20:54:28.113947+00:00
- - user: None
- - tags: []
-
-## https://www.acpjournals.org
- - [https://www.acpjournals.org](https://www.acpjournals.org)
- - date published: 2023-10-25T20:54:28.582674+00:00
- - user: None
- - tags: []
-
-## C&EN | Chemistry news from around the world
- - [http://cen.acs.org](http://cen.acs.org)
- - date published: 2023-10-25T20:54:31.476472+00:00
- - user: None
- - tags: []
-
-## https://pubs.acs.org
- - [https://pubs.acs.org](https://pubs.acs.org)
- - date published: 2023-10-25T20:54:31.739169+00:00
- - user: None
- - tags: []
-
-## American Chemical Society
- - [https://www.acs.org](https://www.acs.org)
- - date published: 2023-10-25T20:54:33.698417+00:00
- - user: None
- - tags: []
-
-## American Council on Science and Health |
- - [https://www.acsh.org](https://www.acsh.org)
- - date published: 2023-10-25T20:54:38.389591+00:00
- - user: None
- - tags: []
-
-## Adblock Plus | The world's #1 free ad blocker
- - [https://adblockplus.org](https://adblockplus.org)
- - date published: 2023-11-01T08:44:08.907697+00:00
- - user: None
- - tags: ['ad block']
-
-## Adblock Plus and (a little) more
- - [https://blog.adblockplus.org](https://blog.adblockplus.org)
- - date published: 2023-11-01T08:44:10.579602+00:00
- - user: None
- - tags: []
-
-## ADHD Evidence Project
- - [https://www.adhdevidence.org](https://www.adhdevidence.org)
- - date published: 2023-10-25T20:54:40.433717+00:00
- - user: None
- - tags: []
-
-## Homepage ORG | ADL
- - [https://www.adl.org](https://www.adl.org)
- - date published: 2023-10-25T11:25:00.786315+00:00
- - user: None
- - tags: []
-
-## American Economic Association
- - [https://www.aeaweb.org](https://www.aeaweb.org)
- - date published: 2023-10-25T20:54:42.266806+00:00
- - user: None
- - tags: []
-
-## American Enterprise Institute - AEI | The American Enterprise Institute, AEI, is a nonpartisan public policy research institute with a community of scholars and supporters committed to expanding liberty, increasing individual opportunity and strengthening free enterprise.
- - [https://www.aei.org](https://www.aei.org)
- - date published: 2023-10-25T20:54:50.144785+00:00
- - user: None
- - tags: []
-
-## aerc - a pretty good email client
- - [https://aerc-mail.org](https://aerc-mail.org)
- - date published: 2023-10-25T20:54:51.165477+00:00
- - user: None
- - tags: []
-
-## Home | The Aerospace Corporation
- - [https://aerospace.org](https://aerospace.org)
- - date published: 2023-10-25T20:54:52.323717+00:00
- - user: None
- - tags: []
-
-## Home | American Foundation for the Blind
- - [https://www.afb.org](https://www.afb.org)
- - date published: 2023-10-25T20:54:54.541993+00:00
- - user: None
- - tags: []
-
-## AFCEA International | AFCEA International
- - [https://www.afcea.org](https://www.afcea.org)
- - date published: 2023-10-25T20:54:58.723737+00:00
- - user: None
- - tags: []
-
-## American Friends Musées d'Orsay et de l'Orangerie
- - [https://aforsay.org](https://aforsay.org)
- - date published: 2023-11-13T13:48:20.528443+00:00
- - user: None
- - tags: ['museum']
-
-## A Social Front Organization
- - [https://social.afront.org](https://social.afront.org)
- - date published: 2023-10-25T20:55:00.121595+00:00
- - user: None
- - tags: []
-
-## Agentscript: agent based modeling in the browser
- - [https://agentscript.org](https://agentscript.org)
- - date published: 2023-10-25T20:55:01.985709+00:00
- - user: None
- - tags: []
-
-## AGU Newsroom - AGU Newsroom
- - [https://news.agu.org](https://news.agu.org)
- - date published: 2023-10-25T20:55:04.762063+00:00
- - user: None
- - tags: []
-
-## https://www.ahajournals.org
- - [https://www.ahajournals.org](https://www.ahajournals.org)
- - date published: 2023-11-23T17:36:30.008809+00:00
- - user: None
- - tags: []
-
-## AIER | American Institute for Economic Research
- - [https://www.aier.org](https://www.aier.org)
- - date published: 2023-10-25T20:55:07.515677+00:00
- - user: None
- - tags: []
-
-## Eye on Design – AIGA Eye on Design
- - [https://eyeondesign.aiga.org](https://eyeondesign.aiga.org)
- - date published: 2023-10-25T20:55:10.704075+00:00
- - user: None
- - tags: []
-
-## Physical Science Publishing - AIP Publishing LLC
- - [https://publishing.aip.org](https://publishing.aip.org)
- - date published: 2023-10-25T20:55:13.345986+00:00
- - user: None
- - tags: []
-
-## AIP Publishing
- - [https://pubs.aip.org](https://pubs.aip.org)
- - date published: 2023-10-25T20:55:20.450014+00:00
- - user: None
- - tags: []
-
-## https://blog.akatz.org
- - [https://blog.akatz.org](https://blog.akatz.org)
- - date published: 2023-10-25T20:55:21.266459+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://alaskapublic.org](https://alaskapublic.org)
- - date published: 2023-11-21T19:53:53.641325+00:00
- - user: None
- - tags: []
-
-## Aleteia Polska
- - [https://pl.aleteia.org](https://pl.aleteia.org)
- - date published: 2023-10-25T20:55:31.908312+00:00
- - user: None
- - tags: []
-
-## Alexandru Nedelcu - On programming and personal projects
- - [https://alexn.org](https://alexn.org)
- - date published: 2023-10-25T20:55:32.922079+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,189 @@
+## Index of /
+ - [https://ai.eecs.umich.edu](https://ai.eecs.umich.edu)
+ - date published: 2023-10-25T19:02:06.146914+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Center for Sustainable Systems
+ - [https://css.umich.edu](https://css.umich.edu)
+ - date published: 2023-10-25T19:02:12.673588+00:00
+ - user: None
+ - tags: []
+
+## Engineering Research News - Michigan Engineering News
+ - [https://news.engin.umich.edu](https://news.engin.umich.edu)
+ - date published: 2023-10-25T19:02:17.444168+00:00
+ - user: None
+ - tags: []
+
+## University of Michigan News
+ - [https://news.umich.edu](https://news.umich.edu)
+ - date published: 2023-10-25T19:02:26.050077+00:00
+ - user: None
+ - tags: []
+
+## University of Michigan Law School Scholarship Repository
+ - [https://repository.law.umich.edu](https://repository.law.umich.edu)
+ - date published: 2023-10-25T19:02:35.321840+00:00
+ - user: None
+ - tags: []
+
+## EECS Department
+ - [http://web.eecs.umich.edu](http://web.eecs.umich.edu)
+ - date published: 2023-10-25T19:02:41.396072+00:00
+ - user: None
+ - tags: []
+
+## Medical School
+ - [https://med.umn.edu](https://med.umn.edu)
+ - date published: 2023-10-25T19:02:48.728498+00:00
+ - user: None
+ - tags: []
+
+## Center for Open Education
+ - [https://open.umn.edu](https://open.umn.edu)
+ - date published: 2023-10-25T19:02:55.930942+00:00
+ - user: None
+ - tags: []
+
+## Homepage | CIDRAP
+ - [https://www.cidrap.umn.edu](https://www.cidrap.umn.edu)
+ - date published: 2023-10-25T19:02:58.423919+00:00
+ - user: None
+ - tags: []
+
+## The Circuits and Biology Lab at UMN
+ - [https://www.mriedel.ece.umn.edu](https://www.mriedel.ece.umn.edu)
+ - date published: 2023-10-25T19:03:11.903000+00:00
+ - user: None
+ - tags: []
+
+## University of Minnesota Press
+ - [https://www.upress.umn.edu](https://www.upress.umn.edu)
+ - date published: 2023-11-22T15:59:30.119351+00:00
+ - user: None
+ - tags: []
+
+## Home - Sheps Center
+ - [https://www.shepscenter.unc.edu](https://www.shepscenter.unc.edu)
+ - date published: 2023-10-25T19:03:16.486451+00:00
+ - user: None
+ - tags: []
+
+## The University of North Carolina at Chapel Hill
+ - [https://www.unc.edu](https://www.unc.edu)
+ - date published: 2023-10-25T19:03:20.646945+00:00
+ - user: None
+ - tags: []
+
+## UNCW Faculty and Staff Web Pages
+ - [http://people.uncw.edu](http://people.uncw.edu)
+ - date published: 2023-10-25T19:03:21.420477+00:00
+ - user: None
+ - tags: []
+
+## Current Map | U.S. Drought Monitor
+ - [https://droughtmonitor.unl.edu](https://droughtmonitor.unl.edu)
+ - date published: 2023-10-25T19:03:24.927997+00:00
+ - user: None
+ - tags: []
+
+## Nebraska Today | Newsroom | University of Nebraska–Lincoln
+ - [https://news.unl.edu](https://news.unl.edu)
+ - date published: 2023-10-25T19:03:32.872689+00:00
+ - user: None
+ - tags: []
+
+## Russell T. Hurlburt home page
+ - [https://hurlburt.faculty.unlv.edu](https://hurlburt.faculty.unlv.edu)
+ - date published: 2023-10-25T19:03:40.322481+00:00
+ - user: None
+ - tags: []
+
+## UNM Newsroom: UNM Newsroom
+ - [https://news.unm.edu](https://news.unm.edu)
+ - date published: 2023-10-25T19:03:42.977458+00:00
+ - user: None
+ - tags: []
+
+## REDCap
+ - [https://survey.cas.unt.edu](https://survey.cas.unt.edu)
+ - date published: 2023-11-12T22:46:43.305600+00:00
+ - user: None
+ - tags: []
+
+## Around the O | University of Oregon
+ - [https://around.uoregon.edu](https://around.uoregon.edu)
+ - date published: 2023-10-25T19:03:45.815223+00:00
+ - user: None
+ - tags: []
+
+## University of Oregon WordPress Hosting – Educational blogs from our community
+ - [https://blogs.uoregon.edu](https://blogs.uoregon.edu)
+ - date published: 2023-10-25T19:03:47.440940+00:00
+ - user: None
+ - tags: []
+
+## Penn Engineering Blog - Posts from the School of Engineering and Applied Science
+ - [https://blog.seas.upenn.edu](https://blog.seas.upenn.edu)
+ - date published: 2023-10-25T19:03:53.115035+00:00
+ - user: None
+ - tags: []
+
+## Penn Wharton Budget Model
+ - [https://budgetmodel.wharton.upenn.edu](https://budgetmodel.wharton.upenn.edu)
+ - date published: 2023-10-25T19:03:56.322160+00:00
+ - user: None
+ - tags: []
+
+## Home Page - Knowledge at Wharton
+ - [https://knowledge.wharton.upenn.edu](https://knowledge.wharton.upenn.edu)
+ - date published: 2023-10-25T19:04:01.029385+00:00
+ - user: None
+ - tags: []
+
+## Language Log
+ - [https://languagelog.ldc.upenn.edu](https://languagelog.ldc.upenn.edu)
+ - date published: 2023-10-25T19:04:08.709335+00:00
+ - user: None
+ - tags: []
+
+## The Online Books Page
+ - [https://onlinebooks.library.upenn.edu](https://onlinebooks.library.upenn.edu)
+ - date published: 2023-10-25T19:04:10.693759+00:00
+ - user: None
+ - tags: []
+
+## Penn Today
+ - [https://penntoday.upenn.edu](https://penntoday.upenn.edu)
+ - date published: 2023-10-25T19:04:12.509293+00:00
+ - user: None
+ - tags: []
+
+## Software Foundations
+ - [https://softwarefoundations.cis.upenn.edu](https://softwarefoundations.cis.upenn.edu)
+ - date published: 2023-10-25T19:04:13.197515+00:00
+ - user: None
+ - tags: []
+
+## web.sas.upenn.edu
+ - [https://web.sas.upenn.edu](https://web.sas.upenn.edu)
+ - date published: 2023-10-25T19:04:14.935075+00:00
+ - user: None
+ - tags: []
+
+## Computer and Information Science | A Department of the School of Engineering and Applied Science
+ - [https://www.cis.upenn.edu](https://www.cis.upenn.edu)
+ - date published: 2023-10-25T19:04:17.867275+00:00
+ - user: None
+ - tags: []
+
+## Department of Linguistics - Home | Department of Linguistics
+ - [https://www.ling.upenn.edu](https://www.ling.upenn.edu)
+ - date published: 2023-10-25T19:04:20.730527+00:00
+ - user: None
+ - tags: []
+
 ## Universitat Pompeu Fabra
  - [https://www.upf.edu](https://www.upf.edu)
  - date published: 2023-11-03T12:11:03.206459+00:00
@@ -1156,11 +1342,17 @@
  - user: None
  - tags: []
 
+## Computer Science | Faculty of Science | University of Helsinki
+ - [https://www.cs.helsinki.fi](https://www.cs.helsinki.fi)
+ - date published: 2023-12-01T13:53:30+00:00
+ - user: rumpel
+ - tags: ['university']
+
 ## University of Helsinki
  - [https://www.helsinki.fi](https://www.helsinki.fi)
  - date published: 2023-11-07T12:03:41.332278+00:00
  - user: None
- - tags: []
+ - tags: ['university']
 
 ## News from Finland "Helsinki Times"
  - [https://www.helsinkitimes.fi](https://www.helsinkitimes.fi)
@@ -3927,6 +4119,12 @@
  - user: None
  - tags: []
 
+## @dirceu
+ - [https://dirceu.info](https://dirceu.info)
+ - date published: 2023-12-01T10:47:31.714853+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Erthalion
  - [https://erthalion.info](https://erthalion.info)
  - date published: 2023-10-25T19:33:09.948190+00:00
@@ -4332,6 +4530,12 @@
 ## Karektar
  - [https://karektar.newtrino.ink](https://karektar.newtrino.ink)
  - date published: 2023-10-25T08:36:49.514752+00:00
+ - user: None
+ - tags: []
+
+## Segment Anything Model (Sam) Visualized
+ - [https://flowforward.simple.ink](https://flowforward.simple.ink)
+ - date published: 2023-12-01T08:26:18+00:00
  - user: None
  - tags: []
 
@@ -5790,211 +5994,6 @@
 ## https://brandonspark.github.io
  - [https://brandonspark.github.io](https://brandonspark.github.io)
  - date published: 2023-11-20T19:04:01.531859+00:00
- - user: None
- - tags: []
-
-## {} | Bryan Wang
- - [https://bryanwbear.github.io](https://bryanwbear.github.io)
- - date published: 2023-10-25T19:44:37.520496+00:00
- - user: None
- - tags: []
-
-## Bernardo Subercaseaux <i>(he/him/his)</i> | about
- - [http://bsubercaseaux.github.io](http://bsubercaseaux.github.io)
- - date published: 2023-10-25T08:49:14.916126+00:00
- - user: None
- - tags: ['personal']
-
-## https://btco.github.io
- - [https://btco.github.io](https://btco.github.io)
- - date published: 2023-10-25T19:44:38.089132+00:00
- - user: None
- - tags: []
-
-## The Cairo Programming Language - The Cairo Programming Language
- - [https://cairo-book.github.io](https://cairo-book.github.io)
- - date published: 2023-10-25T19:44:39.830616+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://camel-cdr.github.io](https://camel-cdr.github.io)
- - date published: 2023-11-11T16:04:43.517733+00:00
- - user: None
- - tags: []
-
-## About Me - Andrew Lee
- - [https://candrewlee14.github.io](https://candrewlee14.github.io)
- - date published: 2023-10-25T19:44:40.542809+00:00
- - user: None
- - tags: []
-
-## invoke::thought()
- - [https://cdacamar.github.io](https://cdacamar.github.io)
- - date published: 2023-10-25T19:44:41.325612+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://cellularprivacy.github.io](https://cellularprivacy.github.io)
- - date published: 2023-11-05T15:09:09.700016+00:00
- - user: None
- - tags: []
-
-## Stefano Cianciulli
- - [https://cianciustyles.github.io](https://cianciustyles.github.io)
- - date published: 2023-11-29T15:45:13.460255+00:00
- - user: None
- - tags: ['personal']
-
-## Clayton's Website
- - [https://claytonwramsey.github.io](https://claytonwramsey.github.io)
- - date published: 2023-10-25T19:44:41.848803+00:00
- - user: None
- - tags: []
-
-## Matthew C. Davis
- - [https://cmumatt.github.io](https://cmumatt.github.io)
- - date published: 2023-10-25T08:49:15.702993+00:00
- - user: None
- - tags: ['personal']
-
-## CoTracker: It is Better to Track Together
- - [https://co-tracker.github.io](https://co-tracker.github.io)
- - date published: 2023-10-25T19:44:42.584023+00:00
- - user: None
- - tags: []
-
-## Pythonicity
- - [https://coady.github.io](https://coady.github.io)
- - date published: 2023-11-25T03:39:41.735379+00:00
- - user: None
- - tags: []
-
-## Patai Gergely
- - [https://cobbpg.github.io](https://cobbpg.github.io)
- - date published: 2023-11-16T00:32:47.215451+00:00
- - user: None
- - tags: []
-
-## CoDi: Generate Anything from Anything All At Once
-through Composable Diffusion
- - [https://codi-gen.github.io](https://codi-gen.github.io)
- - date published: 2023-10-25T19:44:43.372332+00:00
- - user: None
- - tags: []
-
-## One second code: Do YOU know how much your computer can do in a second?
- - [https://computers-are-fast.github.io](https://computers-are-fast.github.io)
- - date published: 2023-10-25T19:44:43.854261+00:00
- - user: None
- - tags: []
-
-## Conor Lamb
- - [https://conorcorp.github.io](https://conorcorp.github.io)
- - date published: 2023-10-25T19:44:44.971410+00:00
- - user: None
- - tags: []
-
-## Silent’s Blog | A blog and portfolio of Silent
- - [https://cookieplmonster.github.io](https://cookieplmonster.github.io)
- - date published: 2023-10-25T19:44:45.892632+00:00
- - user: None
- - tags: []
-
-## https://cor3ntin.github.io
- - [https://cor3ntin.github.io](https://cor3ntin.github.io)
- - date published: 2023-10-25T19:44:46.571111+00:00
- - user: None
- - tags: []
-
-## CTurt
- - [https://cturt.github.io](https://cturt.github.io)
- - date published: 2023-10-25T19:44:52.061450+00:00
- - user: None
- - tags: []
-
-## \\cube0x0\
- - [https://cube0x0.github.io](https://cube0x0.github.io)
- - date published: 2023-10-25T19:44:52.992321+00:00
- - user: None
- - tags: []
-
-## Wherein The Chicken
- - [https://cushychicken.github.io](https://cushychicken.github.io)
- - date published: 2023-10-25T19:44:53.696442+00:00
- - user: None
- - tags: []
-
-## DatenLord
- - [https://datenlord.github.io](https://datenlord.github.io)
- - date published: 2023-10-30T20:37:53.162449+00:00
- - user: None
- - tags: []
-
-## David Laprade | Blog
- - [https://davidlaprade.github.io](https://davidlaprade.github.io)
- - date published: 2023-10-25T19:44:54.555331+00:00
- - user: None
- - tags: []
-
-## David Lattimore’s open-source projects
- - [https://davidlattimore.github.io](https://davidlattimore.github.io)
- - date published: 2023-10-25T19:44:55.086464+00:00
- - user: None
- - tags: []
-
-## Posts | David Muller
- - [https://davidmuller.github.io](https://davidmuller.github.io)
- - date published: 2023-10-25T19:44:55.761535+00:00
- - user: None
- - tags: []
-
-## DBOS | A Database-Oriented Operating System
- - [https://dbos-project.github.io](https://dbos-project.github.io)
- - date published: 2023-10-25T19:44:56.758451+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://deepesh-01.github.io](https://deepesh-01.github.io)
- - date published: 2023-11-25T21:29:06.787857+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [http://deepmind.github.io](http://deepmind.github.io)
- - date published: 2023-10-25T19:44:57.198435+00:00
- - user: None
- - tags: []
-
-## Martijn de Vos
- - [https://devos50.github.io](https://devos50.github.io)
- - date published: 2023-10-25T19:44:58.236322+00:00
- - user: None
- - tags: []
-
-## TokenFlow: Consistent Diffusion Features for Consistent Video Editing
- - [https://diffusion-tokenflow.github.io](https://diffusion-tokenflow.github.io)
- - date published: 2023-10-25T19:44:59.018850+00:00
- - user: None
- - tags: []
-
-## Dean Markwick | Personal website for Dean Markwick. If you like stats, sports and rambling, you’ve come to the right place. All rights reserved.
- - [https://dm13450.github.io](https://dm13450.github.io)
- - date published: 2023-10-25T19:45:00.641641+00:00
- - user: None
- - tags: []
-
-## Personal Website of Dorian Quelle
- - [https://dorianquelle.github.io](https://dorianquelle.github.io)
- - date published: 2023-11-26T19:21:24.102261+00:00
- - user: None
- - tags: []
-
-## SystemDotRun – Dorian Cussen's Super Blog
- - [https://doridori.github.io](https://doridori.github.io)
- - date published: 2023-10-25T19:45:02.011170+00:00
  - user: None
  - tags: []
 

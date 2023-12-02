@@ -10,12 +10,6 @@
  - user: rumpel
  - tags: ['tabletop games', 'turnip28']
 
-## matrixfansite.com
- - [http://www.matrixfansite.com](http://www.matrixfansite.com)
- - date published: 2023-10-30T13:29:27.624260+00:00
- - user: None
- - tags: []
-
 ## Back2Roots
  - [https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl](https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl)
  - date published: 2023-11-02T10:36:12+00:00
@@ -92,12 +86,6 @@
  - [https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw](https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw)
  - date published: 2023-11-03T14:42:18+00:00
  - user: rumpel
- - tags: []
-
-## BBS Still Exist
- - [https://www.telnetbbsguide.com](https://www.telnetbbsguide.com)
- - date published: 2023-11-03T23:29:11+00:00
- - user: None
  - tags: []
 
 ## Website is hosted on ESP32 ($3 chip)
@@ -202,18 +190,6 @@
  - user: rumpel
  - tags: []
 
-## Show HN: An AI-Generated Encyclopedia
- - [https://mycyclopedia.co](https://mycyclopedia.co)
- - date published: 2023-11-23T13:53:10+00:00
- - user: None
- - tags: []
-
-## A Light in the Woods
- - [https://alightinthewoods.net](https://alightinthewoods.net)
- - date published: 2023-11-25T10:37:47+00:00
- - user: None
- - tags: []
-
 ## MambaOnline - Gay South Africa online
  - [http://www.mambaonline.com](http://www.mambaonline.com)
  - date published: 2023-11-26T08:46:18.407706+00:00
@@ -250,29 +226,11 @@
  - user: rumpel
  - tags: []
 
-## ample code
- - [https://einarwh.wordpress.com](https://einarwh.wordpress.com)
- - date published: 2023-11-29T07:35:51.179721+00:00
- - user: None
- - tags: []
-
-## Guillermo Latorre | Web personal
- - [https://guillermolatorre.com](https://guillermolatorre.com)
- - date published: 2023-11-29T13:54:54.576178+00:00
- - user: None
- - tags: ['personal']
-
 ## O'Brien Communications- Top Pittsburgh PR Firm, Ranked one of the Best PR Firms in Pittsburgh
  - [http://obriencommunications.com](http://obriencommunications.com)
  - date published: 2023-11-29T13:55:55.085532+00:00
  - user: None
  - tags: ['personal']
-
-## The Inner Dolphin
- - [https://theinnerdolphin.com](https://theinnerdolphin.com)
- - date published: 2023-11-29T13:56:20.737199+00:00
- - user: None
- - tags: []
 
 ## Denny Wong - Learn, think, write and do.
  - [http://dewo.be](http://dewo.be)
@@ -328,12 +286,6 @@
  - user: None
  - tags: ['personal']
 
-## April Mack - YA fantasy author
- - [https://www.aprilmackwrites.com](https://www.aprilmackwrites.com)
- - date published: 2023-11-29T14:26:02.757803+00:00
- - user: None
- - tags: []
-
 ## Daren Smith | Creative Entrepreneur, Film Producer, Author
  - [http://www.darentsmith.com](http://www.darentsmith.com)
  - date published: 2023-11-29T14:40:51.032446+00:00
@@ -363,18 +315,6 @@
  - date published: 2023-11-29T14:44:39.962921+00:00
  - user: None
  - tags: ['personal']
-
-## Amber O’Hara – mature lady friend
- - [http://amber-ohara.com](http://amber-ohara.com)
- - date published: 2023-11-29T14:45:00.239369+00:00
- - user: None
- - tags: []
-
-## CHARLES DALY
- - [https://dalyprose.com](https://dalyprose.com)
- - date published: 2023-11-29T15:17:02.140272+00:00
- - user: None
- - tags: []
 
 ## TravelnLass
  - [http://www.travelnlass.com](http://www.travelnlass.com)
@@ -409,12 +349,6 @@
 ## Front Page - Nick LaToof
  - [http://www.nicklatoof.com](http://www.nicklatoof.com)
  - date published: 2023-11-29T15:47:36.228635+00:00
- - user: None
- - tags: ['personal']
-
-## WHY EDIFY
- - [https://www.jeremyajorgensen.com](https://www.jeremyajorgensen.com)
- - date published: 2023-11-29T15:48:09.478619+00:00
  - user: None
  - tags: ['personal']
 
@@ -475,12 +409,6 @@
 ## Denis Reis
  - [http://www.denisreis.com](http://www.denisreis.com)
  - date published: 2023-11-29T17:09:23.546370+00:00
- - user: None
- - tags: ['personal']
-
-## LDLW
- - [https://steveledlow.com](https://steveledlow.com)
- - date published: 2023-11-29T17:10:07.717096+00:00
  - user: None
  - tags: ['personal']
 
@@ -4577,6 +4505,12 @@
  - user: None
  - tags: []
 
+## Home | University of Ottawa
+ - [https://www.uottawa.ca](https://www.uottawa.ca)
+ - date published: 2023-12-01T11:39:31.990444+00:00
+ - user: None
+ - tags: []
+
 ## http://utcc.utoronto.ca
  - [http://utcc.utoronto.ca](http://utcc.utoronto.ca)
  - date published: 2023-10-25T12:08:57.993153+00:00
@@ -5814,6 +5748,12 @@
  - user: None
  - tags: []
 
+## Show HN: An AI-Generated Encyclopedia
+ - [https://mycyclopedia.co](https://mycyclopedia.co)
+ - date published: 2023-11-23T13:53:10+00:00
+ - user: None
+ - tags: []
+
 ## Net Interest | Marc Rubinstein | Substack
  - [https://www.netinterest.co](https://www.netinterest.co)
  - date published: 2023-10-25T09:39:48.627101+00:00
@@ -5991,6 +5931,66 @@
 ## Small Bets Newsletter | Daniel Vassallo | Substack
  - [https://newsletter.smallbets.co](https://newsletter.smallbets.co)
  - date published: 2023-10-25T12:22:16.414825+00:00
+ - user: None
+ - tags: []
+
+## Marketing Consultant Las Vegas, NV | Crush Your Competition
+ - [https://sociallaunch.co](https://sociallaunch.co)
+ - date published: 2023-11-29T17:05:59.384418+00:00
+ - user: None
+ - tags: ['personal']
+
+## Data Visualization
+ - [https://socviz.co](https://socviz.co)
+ - date published: 2023-10-25T12:22:20.001924+00:00
+ - user: None
+ - tags: []
+
+## Spotta | Smart Insect Monitoring as a Service
+ - [https://www.spotta.co](https://www.spotta.co)
+ - date published: 2023-10-25T12:22:25.066866+00:00
+ - user: None
+ - tags: []
+
+## SpyTalk | Jeff Stein | Substack
+ - [https://www.spytalk.co](https://www.spytalk.co)
+ - date published: 2023-10-25T09:39:56.063632+00:00
+ - user: None
+ - tags: ['substack']
+
+## Empowering the world to develop technology through collective knowledge - Stack Overflow
+ - [https://stackoverflow.co](https://stackoverflow.co)
+ - date published: 2023-10-25T12:22:28.315909+00:00
+ - user: None
+ - tags: []
+
+## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
+ - [https://stateofthenation.co](https://stateofthenation.co)
+ - date published: 2023-10-25T12:23:13.580451+00:00
+ - user: None
+ - tags: []
+
+## Tedium | An Offbeat Digital Newsletter
+ - [https://tedium.co](https://tedium.co)
+ - date published: 2023-10-25T12:23:19.179721+00:00
+ - user: None
+ - tags: []
+
+## Tools for Online Speech | Jacob O'Bryant
+ - [https://tfos.co](https://tfos.co)
+ - date published: 2023-10-25T12:23:23.026761+00:00
+ - user: None
+ - tags: []
+
+## Bitcoin, Ethereum, and Crypto News | The Block
+ - [https://www.theblock.co](https://www.theblock.co)
+ - date published: 2023-10-25T12:23:37.713443+00:00
+ - user: None
+ - tags: []
+
+## The Cradle
+ - [https://thecradle.co](https://thecradle.co)
+ - date published: 2023-10-25T12:23:40.881708+00:00
  - user: None
  - tags: []
 

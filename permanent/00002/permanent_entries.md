@@ -1,39 +1,3 @@
-## http://farewell.bostonunitygroup.com
- - [http://farewell.bostonunitygroup.com](http://farewell.bostonunitygroup.com)
- - date published: 2023-10-25T14:22:30.115365+00:00
- - user: None
- - tags: []
-
-## Both Sides of the Table
- - [https://bothsidesofthetable.com](https://bothsidesofthetable.com)
- - date published: 2023-10-25T14:22:36.109786+00:00
- - user: None
- - tags: []
-
-## Computer Science from the Bottom Up
- - [https://www.bottomupcs.com](https://www.bottomupcs.com)
- - date published: 2023-10-25T14:22:42.149490+00:00
- - user: None
- - tags: []
-
-## Bounding Into Comics - Your destination for comic books, gaming, movies and more!
- - [https://boundingintocomics.com](https://boundingintocomics.com)
- - date published: 2023-10-25T11:19:12.732997+00:00
- - user: None
- - tags: []
-
-## Boundless: A Modern Immigration Company
- - [https://www.boundless.com](https://www.boundless.com)
- - date published: 2023-10-25T14:22:46.725060+00:00
- - user: None
- - tags: []
-
-## HOME | Bovska
- - [https://www.bovska.com](https://www.bovska.com)
- - date published: 2023-11-13T09:47:00.519610+00:00
- - user: None
- - tags: ['music band']
-
 ## boz.
  - [https://boz.com](https://boz.com)
  - date published: 2023-10-25T13:10:06.427820+00:00
@@ -57,6 +21,12 @@
  - date published: 2023-10-25T13:10:18.435394+00:00
  - user: None
  - tags: []
+
+## Brad West | Web Developer, Brazilian Jiu-Jitsu Nerd, Marine Corps Veteran
+ - [https://bradonomics.com](https://bradonomics.com)
+ - date published: 2023-12-01T10:46:55.428950+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Bradshaw Foundation
  - [https://www.bradshawfoundation.com](https://www.bradshawfoundation.com)
@@ -289,6 +259,12 @@
 ## Home | Brickset
  - [https://brickset.com](https://brickset.com)
  - date published: 2023-10-25T11:10:44.314862+00:00
+ - user: None
+ - tags: []
+
+## Michigan news, state, politics, jobs, education | Bridge Michigan
+ - [https://www.bridgemi.com](https://www.bridgemi.com)
+ - date published: 2023-12-01T18:07:57.228319+00:00
  - user: None
  - tags: []
 
@@ -3147,6 +3123,12 @@
  - user: None
  - tags: []
 
+## Craft By Zen
+ - [https://craftbyzen.com](https://craftbyzen.com)
+ - date published: 2023-12-01T10:46:52.645405+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Crafting Interpreters
  - [https://craftinginterpreters.com](https://craftinginterpreters.com)
  - date published: 2023-10-25T13:35:46.078108+00:00
@@ -3829,6 +3811,12 @@
 ## Dallas News | Breaking News for DFW, Texas, World
  - [https://www.dallasnews.com](https://www.dallasnews.com)
  - date published: 2023-10-25T11:02:56.988420+00:00
+ - user: None
+ - tags: []
+
+## CHARLES DALY
+ - [https://dalyprose.com](https://dalyprose.com)
+ - date published: 2023-11-29T15:17:02.140272+00:00
  - user: None
  - tags: []
 
@@ -5996,6 +5984,18 @@
 ## Echoes of Somewhere - Generative AI assisted experimental freeware 2.5D point and click adventure game research project
  - [https://echoesofsomewhere.com](https://echoesofsomewhere.com)
  - date published: 2023-10-25T14:03:11.162968+00:00
+ - user: None
+ - tags: []
+
+## EchoNewsHub » Latest World News, Entertainment, Business, Sports News, Celebrity Gossip
+ - [https://echonewshub.com](https://echonewshub.com)
+ - date published: 2023-10-25T14:03:15.908775+00:00
+ - user: None
+ - tags: []
+
+## EcommerceBytes - The leader of ecommerce news and information for online sellers. - EcommerceBytes
+ - [https://www.ecommercebytes.com](https://www.ecommercebytes.com)
+ - date published: 2023-10-25T14:03:19.723596+00:00
  - user: None
  - tags: []
 
