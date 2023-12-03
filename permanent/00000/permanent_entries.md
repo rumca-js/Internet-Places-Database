@@ -490,6 +490,36 @@
  - user: None
  - tags: ['personal']
 
+## https://trueelena.org
+ - [https://trueelena.org](https://trueelena.org)
+ - date published: 2023-12-02T09:10:35+00:00
+ - user: rumpel
+ - tags: []
+
+## ytsmovie.tv
+ - [http://yifymovies.tv](http://yifymovies.tv)
+ - date published: 2023-12-02T13:10:42+00:00
+ - user: rumpel
+ - tags: []
+
+## https://www.snagfilms.com
+ - [https://www.snagfilms.com](https://www.snagfilms.com)
+ - date published: 2023-12-02T13:12:11+00:00
+ - user: rumpel
+ - tags: []
+
+## Welcome
+ - [http://mystist.github.io](http://mystist.github.io)
+ - date published: 2023-12-02T13:41:18.416235+00:00
+ - user: None
+ - tags: ['personal']
+
+## Community Center for the Arts (C4A)
+ - [http://c-4a.org](http://c-4a.org)
+ - date published: 2023-12-02T21:16:45.391901+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Sort: Supercharged collaboration for your database
  - [https://sort.xyz.](https://sort.xyz.)
  - date published: 2023-11-01T23:07:07.991006+00:00
@@ -2266,6 +2296,12 @@
  - user: None
  - tags: []
 
+## Signet App – Your digital identity and security of communications at your palm
+ - [https://signet.app](https://signet.app)
+ - date published: 2023-12-02T18:33:02+00:00
+ - user: None
+ - tags: []
+
 ## Spectrolite
  - [https://spectrolite.app](https://spectrolite.app)
  - date published: 2023-10-25T11:48:58.865948+00:00
@@ -2827,6 +2863,12 @@
 ## Australian Geographic -
  - [https://www.australiangeographic.com.au](https://www.australiangeographic.com.au)
  - date published: 2023-10-25T11:54:05.753030+00:00
+ - user: None
+ - tags: []
+
+## Canberra news, sport and weather | The Canberra Times | Canberra, ACT
+ - [https://www.canberratimes.com.au](https://www.canberratimes.com.au)
+ - date published: 2023-12-02T17:10:48.204721+00:00
  - user: None
  - tags: []
 
@@ -3700,6 +3742,12 @@
  - date published: 2023-10-25T12:00:54.086156+00:00
  - user: None
  - tags: []
+
+## Jeannette Goon
+ - [https://realhumangirl.blog](https://realhumangirl.blog)
+ - date published: 2023-12-02T10:25:54.865102+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Realize Engineering | An engineering commentary for everyone every Wednesday since 2012
  - [https://realizeengineering.blog](https://realizeengineering.blog)
@@ -5943,54 +5991,6 @@
 ## Data Visualization
  - [https://socviz.co](https://socviz.co)
  - date published: 2023-10-25T12:22:20.001924+00:00
- - user: None
- - tags: []
-
-## Spotta | Smart Insect Monitoring as a Service
- - [https://www.spotta.co](https://www.spotta.co)
- - date published: 2023-10-25T12:22:25.066866+00:00
- - user: None
- - tags: []
-
-## SpyTalk | Jeff Stein | Substack
- - [https://www.spytalk.co](https://www.spytalk.co)
- - date published: 2023-10-25T09:39:56.063632+00:00
- - user: None
- - tags: ['substack']
-
-## Empowering the world to develop technology through collective knowledge - Stack Overflow
- - [https://stackoverflow.co](https://stackoverflow.co)
- - date published: 2023-10-25T12:22:28.315909+00:00
- - user: None
- - tags: []
-
-## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
- - [https://stateofthenation.co](https://stateofthenation.co)
- - date published: 2023-10-25T12:23:13.580451+00:00
- - user: None
- - tags: []
-
-## Tedium | An Offbeat Digital Newsletter
- - [https://tedium.co](https://tedium.co)
- - date published: 2023-10-25T12:23:19.179721+00:00
- - user: None
- - tags: []
-
-## Tools for Online Speech | Jacob O'Bryant
- - [https://tfos.co](https://tfos.co)
- - date published: 2023-10-25T12:23:23.026761+00:00
- - user: None
- - tags: []
-
-## Bitcoin, Ethereum, and Crypto News | The Block
- - [https://www.theblock.co](https://www.theblock.co)
- - date published: 2023-10-25T12:23:37.713443+00:00
- - user: None
- - tags: []
-
-## The Cradle
- - [https://thecradle.co](https://thecradle.co)
- - date published: 2023-10-25T12:23:40.881708+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,183 @@
+## Mad Micas | Premium Mica and Colorants for Makers
+ - [https://www.madmicas.com](https://www.madmicas.com)
+ - date published: 2023-10-25T15:54:08.960044+00:00
+ - user: None
+ - tags: []
+
+## Maersk | Integrated Container Logistics & Supply Chain Services
+ - [https://www.maersk.com](https://www.maersk.com)
+ - date published: 2023-10-25T15:54:10.540638+00:00
+ - user: None
+ - tags: []
+
+## Maggie Appleton
+ - [https://maggieappleton.com](https://maggieappleton.com)
+ - date published: 2023-10-25T08:47:09.508828+00:00
+ - user: None
+ - tags: ['personal']
+
+## Magic Earth - Free Navigation & Maps App for Android and iPhone
+ - [https://www.magicearth.com](https://www.magicearth.com)
+ - date published: 2023-10-25T08:24:50.926584+00:00
+ - user: None
+ - tags: []
+
+## Magrathea Metals
+ - [https://magratheametals.com](https://magratheametals.com)
+ - date published: 2023-10-25T15:54:22.803149+00:00
+ - user: None
+ - tags: []
+
+## The Mail Archive
+ - [https://www.mail-archive.com](https://www.mail-archive.com)
+ - date published: 2023-10-25T15:54:23.776186+00:00
+ - user: None
+ - tags: []
+
+## Marketing, Automation & Email Platform | Mailchimp
+ - [https://mailchimp.com](https://mailchimp.com)
+ - date published: 2023-10-25T15:54:35.137582+00:00
+ - user: None
+ - tags: []
+
+## Harden your email - Mailhardener
+ - [https://www.mailhardener.com](https://www.mailhardener.com)
+ - date published: 2023-10-25T15:54:36.141918+00:00
+ - user: None
+ - tags: []
+
+## Mainmatter
+ - [https://mainmatter.com](https://mainmatter.com)
+ - date published: 2023-10-25T15:54:37.268613+00:00
+ - user: None
+ - tags: []
+
+## The Iteration | Kenn Costales | Substack
+ - [https://iteration.maiwriter.com](https://iteration.maiwriter.com)
+ - date published: 2023-11-05T11:29:59.648908+00:00
+ - user: None
+ - tags: []
+
+## The magic button — Make Everything OK
+ - [http://make-everything-ok.com](http://make-everything-ok.com)
+ - date published: 2023-10-27T11:01:04.144296+00:00
+ - user: None
+ - tags: ['wtf']
+
+## make-safe-ai/is-bing-chat-safe
+ - [https://www.make-safe-ai.com](https://www.make-safe-ai.com)
+ - date published: 2023-10-25T15:54:39.527554+00:00
+ - user: None
+ - tags: []
+
+## Make America Walkable Again
+ - [https://makeamericawalkable.com](https://makeamericawalkable.com)
+ - date published: 2023-10-25T15:54:41.558574+00:00
+ - user: None
+ - tags: []
+
+## Make Art with Python
+ - [https://www.makeartwithpython.com](https://www.makeartwithpython.com)
+ - date published: 2023-10-25T15:54:43.070926+00:00
+ - user: None
+ - tags: []
+
+## Makefile Tutorial By Example
+ - [https://makefiletutorial.com](https://makefiletutorial.com)
+ - date published: 2023-10-25T15:54:44.493732+00:00
+ - user: None
+ - tags: []
+
+## MakeItFrom.com: Material Properties Database
+ - [https://www.makeitfrom.com](https://www.makeitfrom.com)
+ - date published: 2023-10-25T15:54:45.799547+00:00
+ - user: None
+ - tags: []
+
+## Home - Makerdiary Wiki
+ - [https://wiki.makerdiary.com](https://wiki.makerdiary.com)
+ - date published: 2023-10-25T15:54:46.717561+00:00
+ - user: None
+ - tags: []
+
+## Maker Faire |
+ - [https://makerfaire.com](https://makerfaire.com)
+ - date published: 2023-10-25T15:54:51.642732+00:00
+ - user: None
+ - tags: []
+
+## DIY | Makers Mashup
+ - [https://www.makersmashup.com](https://www.makersmashup.com)
+ - date published: 2023-10-27T10:17:04.972576+00:00
+ - user: None
+ - tags: ['hobby', 'dyi', '3d printing']
+
+## Home
+ - [https://makezine.com](https://makezine.com)
+ - date published: 2023-11-27T16:27:53+00:00
+ - user: rumpel
+ - tags: ['tech', 'creators', '3d printing', 'sbc']
+
+## Making It with Chris G.
+ - [https://www.makingitwithchrisg.com](https://www.makingitwithchrisg.com)
+ - date published: 2023-11-29T17:12:52.483030+00:00
+ - user: None
+ - tags: []
+
+## about mako
+ - [https://makopool.com](https://makopool.com)
+ - date published: 2023-10-25T08:47:11.035727+00:00
+ - user: None
+ - tags: ['personal']
+
+## Malay Mail | Breaking News, Malaysia, World, Lifestyle News
+ - [https://www.malaymail.com](https://www.malaymail.com)
+ - date published: 2023-10-25T15:54:56.436525+00:00
+ - user: None
+ - tags: []
+
+## MalaysiaNow | News, views and insights into Malaysian current affairs.
+ - [https://www.malaysianow.com](https://www.malaysianow.com)
+ - date published: 2023-11-17T07:41:45.486280+00:00
+ - user: None
+ - tags: []
+
+## Cyber Security Software & Anti-Malware | Malwarebytes
+ - [https://www.malwarebytes.com](https://www.malwarebytes.com)
+ - date published: 2023-10-25T15:54:59.336261+00:00
+ - user: None
+ - tags: ['tech services', 'corporation']
+
+## MambaOnline - Gay South Africa online
+ - [https://www.mambaonline.com](https://www.mambaonline.com)
+ - date published: 2023-11-26T08:46:20.848115+00:00
+ - user: None
+ - tags: ['lgbt', 'homosexuality']
+
+## The Market for Magic Cards | Mana Pool
+ - [https://manapool.com](https://manapool.com)
+ - date published: 2023-10-25T15:55:00.570677+00:00
+ - user: None
+ - tags: []
+
+## Senselessness
+ - [https://blog.mand3l.com](https://blog.mand3l.com)
+ - date published: 2023-10-25T15:55:08.960526+00:00
+ - user: None
+ - tags: []
+
+## Threat Intelligence Solutions | Cyber Security Services & Training
+ - [https://www.mandiant.com](https://www.mandiant.com)
+ - date published: 2023-10-25T15:55:12.774419+00:00
+ - user: None
+ - tags: []
+
+## Get Good at Delivering Software™️
+ - [https://blog.mangoteque.com](https://blog.mangoteque.com)
+ - date published: 2023-10-25T15:55:14.397259+00:00
+ - user: None
+ - tags: []
+
 ## Manish R Jain
  - [https://manishrjain.com](https://manishrjain.com)
  - date published: 2023-10-25T15:55:17.260053+00:00
@@ -1949,6 +2129,12 @@
  - user: None
  - tags: []
 
+## MicroMac Technology's Home Page for Macintosh Upgrades and Accelerators
+ - [https://www.micromac.com](https://www.micromac.com)
+ - date published: 2023-12-02T08:30:30.624398+00:00
+ - user: None
+ - tags: []
+
 ## MicroProse | The name of the game in strategy and simulation
  - [https://www.microprose.com](https://www.microprose.com)
  - date published: 2023-11-06T10:58:40.981934+00:00
@@ -2174,6 +2360,12 @@
 ## Milan's website
  - [https://milancurcic.com](https://milancurcic.com)
  - date published: 2023-10-25T16:04:06.862133+00:00
+ - user: None
+ - tags: []
+
+## Mile Nerd | Just the most miles in the fewest words possible.
+ - [https://www.milenerd.com](https://www.milenerd.com)
+ - date published: 2023-12-02T09:31:35.184567+00:00
  - user: None
  - tags: []
 
@@ -2596,6 +2788,12 @@
  - date published: 2023-10-25T16:06:22.675426+00:00
  - user: None
  - tags: []
+
+## Michael Burkhardt’s Weblog
+ - [https://mihobu.monkeywalk.com](https://mihobu.monkeywalk.com)
+ - date published: 2023-12-02T10:26:19.578888+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Monochrome Watches | An Online Magazine Dedicated To Fine Watches
  - [https://monochrome-watches.com](https://monochrome-watches.com)
@@ -4145,6 +4343,12 @@
  - user: None
  - tags: []
 
+## Nigel Rankin is coming soon
+ - [https://nigelrankin.com](https://nigelrankin.com)
+ - date published: 2023-12-02T10:26:29.150929+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Nightingale - Home
  - [https://nightingaledvs.com](https://nightingaledvs.com)
  - date published: 2023-10-25T16:19:50.390330+00:00
@@ -4368,6 +4572,12 @@
  - user: None
  - tags: []
 
+## Noel De Martin's website
+ - [https://noeldemartin.com](https://noeldemartin.com)
+ - date published: 2023-12-02T10:25:50.001999+00:00
+ - user: None
+ - tags: ['personal']
+
 ## NOEMA | Noema Magazine
  - [https://www.noemamag.com](https://www.noemamag.com)
  - date published: 2023-10-25T10:54:27.537584+00:00
@@ -4485,6 +4695,12 @@
 ## Normally Notes
  - [https://notes.normally.com](https://notes.normally.com)
  - date published: 2023-10-25T16:21:50.474932+00:00
+ - user: None
+ - tags: []
+
+## northpennnow.com
+ - [https://northpennnow.com](https://northpennnow.com)
+ - date published: 2023-12-02T12:50:42.681742+00:00
  - user: None
  - tags: []
 
@@ -4900,6 +5116,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## https://en.oceanbase.com
+ - [https://en.oceanbase.com](https://en.oceanbase.com)
+ - date published: 2023-12-02T09:31:31.077187+00:00
+ - user: None
+ - tags: []
+
 ## Ocean of Games
  - [https://oceanofgames.com](https://oceanofgames.com)
  - date published: 2023-11-06T13:05:46.128895+00:00
@@ -4933,6 +5155,12 @@ Answering Machine Greetings!
 ## Oddity Central - Weird Places, Odd Events, Bizarre News, Strange People and A Lot More
  - [https://www.odditycentral.com](https://www.odditycentral.com)
  - date published: 2023-10-25T16:24:35.768219+00:00
+ - user: None
+ - tags: []
+
+## Odessa Journal | Main
+ - [https://odessa-journal.com](https://odessa-journal.com)
+ - date published: 2023-12-02T17:50:50.832192+00:00
  - user: None
  - tags: []
 
@@ -5603,6 +5831,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## OurBigBook.com
+ - [https://ourbigbook.com](https://ourbigbook.com)
+ - date published: 2023-12-02T02:46:08.135245+00:00
+ - user: None
+ - tags: []
+
 ## World of Pixels
  - [https://ourworldofpixels.com](https://ourworldofpixels.com)
  - date published: 2023-10-25T08:36:48.464142+00:00
@@ -5764,238 +5998,4 @@ Answering Machine Greetings!
  - date published: 2023-10-25T16:29:23.750808+00:00
  - user: None
  - tags: []
-
-## Home - New - Pagely
- - [https://pagely.com](https://pagely.com)
- - date published: 2023-10-25T16:29:33.698142+00:00
- - user: None
- - tags: []
-
-## Link Building, SEO, Content Marketing | Page One Power
- - [https://www.pageonepower.com](https://www.pageonepower.com)
- - date published: 2023-10-25T16:29:36.991160+00:00
- - user: None
- - tags: []
-
-## Page Six: Latest Celebrity News, Entertainment News & Gossip
- - [https://pagesix.com](https://pagesix.com)
- - date published: 2023-10-25T10:52:05.156137+00:00
- - user: None
- - tags: []
-
-## Cheap Books!
- - [https://www.pagesonpages.com](https://www.pagesonpages.com)
- - date published: 2023-10-25T16:29:38.022535+00:00
- - user: None
- - tags: []
-
-## pagetable.com – Some Assembly Required
- - [https://www.pagetable.com](https://www.pagetable.com)
- - date published: 2023-10-25T16:29:42.920014+00:00
- - user: None
- - tags: []
-
-## Home of the Pathfinder and Starfinder RPGs. The Golem’s Got It! | Paizo
- - [https://paizo.com](https://paizo.com)
- - date published: 2023-10-25T16:29:51.558859+00:00
- - user: None
- - tags: []
-
-## Paleofuture
- - [https://paleofuture.com](https://paleofuture.com)
- - date published: 2023-10-25T16:29:54.151105+00:00
- - user: None
- - tags: []
-
-## Electronics, Computing and Videogame History - Paleotronic Magazine
- - [https://paleotronic.com](https://paleotronic.com)
- - date published: 2023-10-25T11:10:53.460145+00:00
- - user: None
- - tags: []
-
-## Paliparan - Travels Around the World
- - [https://paliparan.com](https://paliparan.com)
- - date published: 2023-10-25T16:29:56.800882+00:00
- - user: None
- - tags: []
-
-## Palladium Magazine
- - [https://palladiummag.com](https://palladiummag.com)
- - date published: 2023-10-25T10:14:15.909364+00:00
- - user: None
- - tags: []
-
-## Palladium Magazine
- - [https://www.palladiummag.com](https://www.palladiummag.com)
- - date published: 2023-10-25T16:30:09.505258+00:00
- - user: None
- - tags: []
-
-## The Blog of Palmer Luckey – The #1 Palmer Luckey Blog on the Internet
- - [https://palmerluckey.com](https://palmerluckey.com)
- - date published: 2023-10-25T16:30:13.359058+00:00
- - user: None
- - tags: []
-
-## | Palo Alto Online |
- - [https://www.paloaltoonline.com](https://www.paloaltoonline.com)
- - date published: 2023-10-25T16:30:19.898249+00:00
- - user: None
- - tags: []
-
-## Panasonic Polska
- - [https://www.panasonic.com](https://www.panasonic.com)
- - date published: 2023-11-01T07:37:07.821934+00:00
- - user: None
- - tags: ['company']
-
-## The Antivirus Revolution - Panda Security
- - [https://www.pandasecurity.com](https://www.pandasecurity.com)
- - date published: 2023-10-29T12:00:35.028997+00:00
- - user: None
- - tags: []
-
-## Panels & Prose
- - [https://panelsandprose.com](https://panelsandprose.com)
- - date published: 2023-11-02T11:19:49.225609+00:00
- - user: None
- - tags: []
-
-## HOME
- - [https://www.pangeosyacht.com](https://www.pangeosyacht.com)
- - date published: 2023-10-25T16:30:22.156795+00:00
- - user: None
- - tags: []
-
-## Panic Social
- - [https://social.panic.com](https://social.panic.com)
- - date published: 2023-10-24T20:13:18.672824+00:00
- - user: None
- - tags: ['mastodon']
-
-## Paolo Amoroso's Journal
- - [https://journal.paoloamoroso.com](https://journal.paoloamoroso.com)
- - date published: 2023-10-25T16:30:24.194833+00:00
- - user: None
- - tags: []
-
-## Paolo Mainardi
- - [https://www.paolomainardi.com](https://www.paolomainardi.com)
- - date published: 2023-10-25T16:30:26.103996+00:00
- - user: None
- - tags: []
-
-## Paperpile Reference Manager
- - [https://paperpile.com](https://paperpile.com)
- - date published: 2023-11-01T08:42:53.570173+00:00
- - user: None
- - tags: []
-
-## Cloud GPUs & Hosting for AI | Paperspace
- - [https://www.paperspace.com](https://www.paperspace.com)
- - date published: 2023-10-25T16:30:30.437808+00:00
- - user: None
- - tags: []
-
-## The latest in Machine Learning | Papers With Code
- - [https://paperswithcode.com](https://paperswithcode.com)
- - date published: 2023-10-25T16:30:32.725669+00:00
- - user: None
- - tags: []
-
-## collection of sébastien de ganay, paper toilet .com by rafaël rozendaal, 2006
- - [https://papertoilet.com](https://papertoilet.com)
- - date published: 2023-10-27T10:58:53.737739+00:00
- - user: None
- - tags: ['wtf']
-
-## Paper. Work. Doing life.
- - [https://www.paperworkblog.com](https://www.paperworkblog.com)
- - date published: 2023-11-15T21:25:52.617486+00:00
- - user: None
- - tags: []
-
-## parade.com
- - [https://parade.com](https://parade.com)
- - date published: 2023-11-28T20:15:07+00:00
- - user: rumpel
- - tags: ['entertainment']
-
-## Welcome to ParadeDB - ParadeDB
- - [https://docs.paradedb.com](https://docs.paradedb.com)
- - date published: 2023-10-25T16:30:38.822701+00:00
- - user: None
- - tags: []
-
-## Paradox Interactive
- - [https://www.paradoxinteractive.com](https://www.paradoxinteractive.com)
- - date published: 2023-11-01T19:36:55.276204+00:00
- - user: None
- - tags: ['vampire masquarade', 'role playing games']
-
-## Growing Products — weekly essays for founders and startup teams
- - [https://growing-products.paralect.com](https://growing-products.paralect.com)
- - date published: 2023-10-25T16:30:41.101886+00:00
- - user: None
- - tags: []
-
-## Parallel Economy | A Censor-Resistant Ecosystem
- - [https://www.paralleleconomy.com](https://www.paralleleconomy.com)
- - date published: 2023-10-25T16:30:43.965679+00:00
- - user: None
- - tags: []
-
-## Parand
- - [https://www.parand.com](https://www.parand.com)
- - date published: 2023-10-25T16:30:46.136740+00:00
- - user: None
- - tags: []
-
-## Parin Patel
- - [https://www.parinpatel.com](https://www.parinpatel.com)
- - date published: 2023-11-29T17:08:55.692393+00:00
- - user: None
- - tags: ['personal']
-
-## Parker Klein | Personal Website
- - [https://www.parkerklein.com](https://www.parkerklein.com)
- - date published: 2023-11-29T20:43:18.758476+00:00
- - user: None
- - tags: ['personal']
-
-## Parkiet – portal finansowy z najważniejszymi wiadomościami - parkiet.com
- - [https://www.parkiet.com](https://www.parkiet.com)
- - date published: 2023-10-25T10:58:13.846289+00:00
- - user: None
- - tags: []
-
-## MOONLIGHT LOVE AFFAIR
- - [https://www.parovstelar.com](https://www.parovstelar.com)
- - date published: 2023-10-30T15:45:25.629658+00:00
- - user: None
- - tags: ['parov stellar', 'music band']
-
-## Pastebin.com - #1 paste tool since 2002!
- - [https://pastebin.com](https://pastebin.com)
- - date published: 2023-10-24T20:19:33.932082+00:00
- - user: None
- - tags: []
-
-## Patagonia Outdoor Clothing & Gear
- - [https://www.patagonia.com](https://www.patagonia.com)
- - date published: 2023-10-25T16:30:56.435107+00:00
- - user: None
- - tags: []
-
-## Inpics Gadget Repair Services - InPics Solutions
- - [https://patersontech.com](https://patersontech.com)
- - date published: 2023-10-25T16:30:59.777009+00:00
- - user: None
- - tags: []
-
-## Path of Exile
- - [https://www.pathofexile.com](https://www.pathofexile.com)
- - date published: 2023-10-25T08:39:41.111324+00:00
- - user: None
- - tags: ['game']
 

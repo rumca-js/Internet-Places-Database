@@ -1,3 +1,51 @@
+## SpyTalk | Jeff Stein | Substack
+ - [https://www.spytalk.co](https://www.spytalk.co)
+ - date published: 2023-10-25T09:39:56.063632+00:00
+ - user: None
+ - tags: ['substack']
+
+## Empowering the world to develop technology through collective knowledge - Stack Overflow
+ - [https://stackoverflow.co](https://stackoverflow.co)
+ - date published: 2023-10-25T12:22:28.315909+00:00
+ - user: None
+ - tags: []
+
+## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
+ - [https://stateofthenation.co](https://stateofthenation.co)
+ - date published: 2023-10-25T12:23:13.580451+00:00
+ - user: None
+ - tags: []
+
+## Tedium | An Offbeat Digital Newsletter
+ - [https://tedium.co](https://tedium.co)
+ - date published: 2023-10-25T12:23:19.179721+00:00
+ - user: None
+ - tags: []
+
+## Tools for Online Speech | Jacob O'Bryant
+ - [https://tfos.co](https://tfos.co)
+ - date published: 2023-10-25T12:23:23.026761+00:00
+ - user: None
+ - tags: []
+
+## Bitcoin, Ethereum, and Crypto News | The Block
+ - [https://www.theblock.co](https://www.theblock.co)
+ - date published: 2023-10-25T12:23:37.713443+00:00
+ - user: None
+ - tags: []
+
+## The Cradle
+ - [https://thecradle.co](https://thecradle.co)
+ - date published: 2023-10-25T12:23:40.881708+00:00
+ - user: None
+ - tags: []
+
+## The Diff - Inflections in finance and tech
+ - [https://www.thediff.co](https://www.thediff.co)
+ - date published: 2023-10-25T12:23:43.588753+00:00
+ - user: None
+ - tags: []
+
 ## Subscribe to The Hustle Daily Newsletter - The Hustle
  - [https://thehustle.co](https://thehustle.co)
  - date published: 2023-10-25T12:23:50.924572+00:00
@@ -2920,6 +2968,12 @@
  - user: None
  - tags: ['personal']
 
+## Ari Gold Films - Official Website of Filmmaker Ari Gold
+ - [https://arigoldfilms.com](https://arigoldfilms.com)
+ - date published: 2023-12-02T21:17:07.140132+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Ariyh | Thomas McKinlay | Substack
  - [https://tips.ariyh.com](https://tips.ariyh.com)
  - date published: 2023-10-25T12:45:23.819225+00:00
@@ -3747,6 +3801,12 @@
  - date published: 2023-10-25T12:51:30.283413+00:00
  - user: None
  - tags: []
+
+## Az Samad Lessons – Guitar, Ukulele and Music Lessons
+ - [https://azsamadlessons.com](https://azsamadlessons.com)
+ - date published: 2023-12-02T21:17:30.199443+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Home
  - [https://www.azzamods.com](https://www.azzamods.com)
@@ -4833,6 +4893,12 @@
  - date published: 2023-10-25T13:03:16.353965+00:00
  - user: None
  - tags: []
+
+## Barry Hess :: bjhess.com
+ - [https://bjhess.com](https://bjhess.com)
+ - date published: 2023-12-02T21:17:10.821976+00:00
+ - user: None
+ - tags: ['personal']
 
 ## BJ Malicoat
  - [https://www.bjmalicoat.com](https://www.bjmalicoat.com)
@@ -5929,72 +5995,6 @@
 ## BorgBase System Status
  - [https://status.borgbase.com](https://status.borgbase.com)
  - date published: 2023-10-25T13:08:48.726711+00:00
- - user: None
- - tags: []
-
-## Boring Text Reviews – Boring Text Reviews without deceptive clickbait or intrusive ads
- - [https://boringtextreviews.com](https://boringtextreviews.com)
- - date published: 2023-10-25T13:08:54.735040+00:00
- - user: None
- - tags: []
-
-## BorisTheBrave.Com
- - [https://www.boristhebrave.com](https://www.boristhebrave.com)
- - date published: 2023-11-22T04:44:14.849556+00:00
- - user: None
- - tags: []
-
-## BornCity – Bücher, Blogs und Computer Know-How
- - [https://borncity.com](https://borncity.com)
- - date published: 2023-10-25T13:08:58.280654+00:00
- - user: None
- - tags: []
-
-## Boston.com: Local breaking news, sports, weather, and things to do
- - [https://www.boston.com](https://www.boston.com)
- - date published: 2023-10-25T13:09:10.115588+00:00
- - user: None
- - tags: []
-
-## Boston 25 News – Boston 25 News
- - [https://www.boston25news.com](https://www.boston25news.com)
- - date published: 2023-11-03T00:27:09.621959+00:00
- - user: None
- - tags: []
-
-## The Boston Globe
- - [https://www.bostonglobe.com](https://www.bostonglobe.com)
- - date published: 2023-10-25T14:22:22.645245+00:00
- - user: None
- - tags: []
-
-## http://farewell.bostonunitygroup.com
- - [http://farewell.bostonunitygroup.com](http://farewell.bostonunitygroup.com)
- - date published: 2023-10-25T14:22:30.115365+00:00
- - user: None
- - tags: []
-
-## Both Sides of the Table
- - [https://bothsidesofthetable.com](https://bothsidesofthetable.com)
- - date published: 2023-10-25T14:22:36.109786+00:00
- - user: None
- - tags: []
-
-## Computer Science from the Bottom Up
- - [https://www.bottomupcs.com](https://www.bottomupcs.com)
- - date published: 2023-10-25T14:22:42.149490+00:00
- - user: None
- - tags: []
-
-## Bounding Into Comics - Your destination for comic books, gaming, movies and more!
- - [https://boundingintocomics.com](https://boundingintocomics.com)
- - date published: 2023-10-25T11:19:12.732997+00:00
- - user: None
- - tags: []
-
-## Boundless: A Modern Immigration Company
- - [https://www.boundless.com](https://www.boundless.com)
- - date published: 2023-10-25T14:22:46.725060+00:00
  - user: None
  - tags: []
 

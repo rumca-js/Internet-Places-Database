@@ -1,3 +1,297 @@
+## Simon’s Newsletter | Substack
+ - [https://www.simonberens.com](https://www.simonberens.com)
+ - date published: 2023-10-25T09:40:43.632137+00:00
+ - user: None
+ - tags: ['substack']
+
+## Simon Dalvai
+ - [https://simondalvai.com](https://simondalvai.com)
+ - date published: 2023-10-25T17:04:34.162658+00:00
+ - user: None
+ - tags: []
+
+## Simon Grimm
+ - [https://www.simongrimm.com](https://www.simongrimm.com)
+ - date published: 2023-10-25T17:04:35.984500+00:00
+ - user: None
+ - tags: []
+
+## simonhuggins.com – Simon Huggins and his projects
+ - [https://simonhuggins.com](https://simonhuggins.com)
+ - date published: 2023-12-01T10:47:14.645124+00:00
+ - user: None
+ - tags: ['personal']
+
+## Simon Owen
+ - [https://simonowen.com](https://simonowen.com)
+ - date published: 2023-10-31T19:57:41.845940+00:00
+ - user: None
+ - tags: []
+
+## SIMON WECKERT
+ - [https://simonweckert.com](https://simonweckert.com)
+ - date published: 2023-10-25T17:04:37.109036+00:00
+ - user: None
+ - tags: []
+
+## The privacy-first Google Analytics alternative - Simple Analytics
+ - [https://www.simpleanalytics.com](https://www.simpleanalytics.com)
+ - date published: 2023-10-25T17:04:39.478313+00:00
+ - user: None
+ - tags: []
+
+## Simple Mobile Tools
+ - [https://www.simplemobiletools.com](https://www.simplemobiletools.com)
+ - date published: 2023-10-25T17:04:40.615776+00:00
+ - user: None
+ - tags: []
+
+## Deep links to opt-out of data sharing by 100+ companies – Simple Opt Out
+ - [https://simpleoptout.com](https://simpleoptout.com)
+ - date published: 2023-10-25T17:04:45.497629+00:00
+ - user: None
+ - tags: []
+
+## Simple Syllabus
+ - [https://harvard.simplesyllabus.com](https://harvard.simplesyllabus.com)
+ - date published: 2023-10-25T17:04:47.126115+00:00
+ - user: None
+ - tags: []
+
+## Digital Product Agency - User Experience Design and Engineering - Richmond VA
+ - [https://www.simplethread.com](https://www.simplethread.com)
+ - date published: 2023-10-25T17:04:50.170129+00:00
+ - user: None
+ - tags: []
+
+## Simplified Privacy – Privacy Made Easy
+ - [https://simplifiedprivacy.com](https://simplifiedprivacy.com)
+ - date published: 2023-10-25T17:04:52.957351+00:00
+ - user: None
+ - tags: []
+
+## Home | Simplify3D Software
+ - [https://www.simplify3d.com](https://www.simplify3d.com)
+ - date published: 2023-10-27T10:23:04.726869+00:00
+ - user: None
+ - tags: ['3d printing']
+
+## The Simpsons Archive
+ - [https://www.simpsonsarchive.com](https://www.simpsonsarchive.com)
+ - date published: 2023-10-25T17:04:54.288233+00:00
+ - user: None
+ - tags: ['simpsons', 'show']
+
+## SimulaVR
+ - [https://simulavr.com](https://simulavr.com)
+ - date published: 2023-10-25T17:04:56.644575+00:00
+ - user: None
+ - tags: []
+
+## The Simutrans Blog
+ - [https://blog.simutrans.com](https://blog.simutrans.com)
+ - date published: 2023-10-25T17:05:01.425973+00:00
+ - user: None
+ - tags: []
+
+## Sinan Moses
+ - [https://sinanmoses.com](https://sinanmoses.com)
+ - date published: 2023-11-29T15:49:58.272955+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sindre Sorhus
+ - [https://sindresorhus.com](https://sindresorhus.com)
+ - date published: 2023-10-25T17:05:01.970721+00:00
+ - user: None
+ - tags: []
+
+## Home - Singularity Hub
+ - [https://singularityhub.com](https://singularityhub.com)
+ - date published: 2023-10-25T17:05:04.668985+00:00
+ - user: None
+ - tags: []
+
+## sipeed 矽速科技 官网
+ - [https://sipeed.com](https://sipeed.com)
+ - date published: 2023-10-25T17:05:07.136550+00:00
+ - user: None
+ - tags: []
+
+## Simon Eskildsen - Sirupsen
+ - [https://sirupsen.com](https://sirupsen.com)
+ - date published: 2023-10-25T17:05:08.760756+00:00
+ - user: None
+ - tags: []
+
+## SitePoint – Learn HTML, CSS, JavaScript, PHP, UX & Responsive Design
+ - [https://www.sitepoint.com](https://www.sitepoint.com)
+ - date published: 2023-10-25T17:05:11.503452+00:00
+ - user: None
+ - tags: []
+
+## Six Colors – Apple, technology, and other stuff by Jason Snell & Dan Moren
+ - [https://sixcolors.com](https://sixcolors.com)
+ - date published: 2023-10-25T17:05:14.070957+00:00
+ - user: None
+ - tags: []
+
+## Python web application development and cloud management services
+ - [https://sixfeetup.com](https://sixfeetup.com)
+ - date published: 2023-10-25T17:05:25.383126+00:00
+ - user: None
+ - tags: []
+
+## The State Journal-Register: Local News, Politics & Sports in Springfield, IL
+ - [https://www.sj-r.com](https://www.sj-r.com)
+ - date published: 2023-10-27T11:55:41.059970+00:00
+ - user: None
+ - tags: []
+
+## skagmo.com
+ - [https://skagmo.com](https://skagmo.com)
+ - date published: 2023-10-27T11:55:42.413804+00:00
+ - user: None
+ - tags: []
+
+## Sketchfab - The best 3D viewer on the web
+ - [https://sketchfab.com](https://sketchfab.com)
+ - date published: 2023-10-27T10:26:31.358910+00:00
+ - user: None
+ - tags: ['assets models', '3d printing']
+
+## 3D Warehouse
+ - [https://3dwarehouse.sketchup.com](https://3dwarehouse.sketchup.com)
+ - date published: 2023-10-27T10:30:39.685349+00:00
+ - user: None
+ - tags: ['assets models', '3d printing']
+
+## Skiff - Private, encrypted, secure email - 10 GB free
+ - [https://skiff.com](https://skiff.com)
+ - date published: 2023-10-25T17:05:52.635675+00:00
+ - user: None
+ - tags: []
+
+## https://www.skillshare.com
+ - [https://www.skillshare.com](https://www.skillshare.com)
+ - date published: 2023-10-24T20:19:37.469993+00:00
+ - user: None
+ - tags: ['tutorial']
+
+## skio: subscriptions for shopify
+ - [https://skio.com](https://skio.com)
+ - date published: 2023-10-25T17:05:56.544814+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Skippy.com - Home of Percy Crosby's lovable "Skippy" character
+ - [http://www.skippy.com](http://www.skippy.com)
+ - date published: 2023-10-25T17:05:57.442936+00:00
+ - user: None
+ - tags: []
+
+## Škoda Auto a.s. | The International Website
+ - [https://skoda-auto.com](https://skoda-auto.com)
+ - date published: 2023-11-03T13:13:05.594047+00:00
+ - user: None
+ - tags: ['car producer']
+
+## Skorks
+ - [https://skorks.com](https://skorks.com)
+ - date published: 2023-10-25T17:05:59.705764+00:00
+ - user: None
+ - tags: []
+
+## Skrillex | Official Website
+ - [https://www.skrillex.com](https://www.skrillex.com)
+ - date published: 2023-11-13T09:55:50.781194+00:00
+ - user: None
+ - tags: ['music band']
+
+## Mobile solutions for warehousing, fulfillment, and shipping | SKUSavvy
+ - [https://skusavvy.com](https://skusavvy.com)
+ - date published: 2023-10-25T17:06:01.743430+00:00
+ - user: None
+ - tags: []
+
+## The Latest News from the UK and Around the World | Sky News
+ - [https://news.sky.com](https://news.sky.com)
+ - date published: 2023-10-25T10:28:27.420874+00:00
+ - user: None
+ - tags: []
+
+## The Elder Scrolls: Skyblivion
+ - [https://skyblivion.com](https://skyblivion.com)
+ - date published: 2023-10-25T11:10:12.987130+00:00
+ - user: None
+ - tags: []
+
+## Commercial High Resolution Satellite Imagery and Video | SkyFi
+ - [https://www.skyfi.com](https://www.skyfi.com)
+ - date published: 2023-10-25T17:06:03.208902+00:00
+ - user: None
+ - tags: []
+
+## Sky Sports - Sports News, Transfers, Scores | Watch Live Sport
+ - [https://www.skysports.com](https://www.skysports.com)
+ - date published: 2023-10-25T17:06:08.924160+00:00
+ - user: None
+ - tags: []
+
+## Slack is your productivity platform
+ - [https://slack.com](https://slack.com)
+ - date published: 2023-10-24T20:12:43.324913+00:00
+ - user: None
+ - tags: []
+
+## Slack System Status
+ - [https://status.slack.com](https://status.slack.com)
+ - date published: 2023-10-25T17:06:09.862444+00:00
+ - user: None
+ - tags: []
+
+## The Slackware Linux Project
+ - [https://www.slackware.com](https://www.slackware.com)
+ - date published: 2023-11-06T10:09:19.255807+00:00
+ - user: None
+ - tags: ['linux', 'operating system']
+
+## SlashGear | Tech, Cars, Gaming, Science, & Reviews
+ - [https://www.slashgear.com](https://www.slashgear.com)
+ - date published: 2023-10-25T17:06:11.913148+00:00
+ - user: None
+ - tags: []
+
+## Complete Generative AI Security for Email, Mobile, and Browser |SlashNext
+ - [https://slashnext.com](https://slashnext.com)
+ - date published: 2023-10-25T17:06:16.257225+00:00
+ - user: None
+ - tags: []
+
+## Slate Magazine - Politics, Business, Technology, and the Arts
+ - [https://slate.com](https://slate.com)
+ - date published: 2023-10-25T17:06:19.739710+00:00
+ - user: None
+ - tags: []
+
+## Slate Star Codex
+ - [https://slatestarcodex.com](https://slatestarcodex.com)
+ - date published: 2023-10-25T17:06:24.862643+00:00
+ - user: None
+ - tags: []
+
+## sligocki
+ - [https://www.sligocki.com](https://www.sligocki.com)
+ - date published: 2023-10-25T17:06:31.034022+00:00
+ - user: None
+ - tags: []
+
+## SLIME MOLD TIME MOLD – Mad Science Blogging
+ - [https://slimemoldtimemold.com](https://slimemoldtimemold.com)
+ - date published: 2023-10-25T17:06:37.146392+00:00
+ - user: None
+ - tags: []
+
 ## Slint |
             Declarative GUI for Rust, C++ & JavaScript
  - [https://slint-ui.com](https://slint-ui.com)
@@ -122,6 +416,12 @@
 ## Job Search for Hourly & Local Jobs Hiring Now
  - [https://www.snagajob.com](https://www.snagajob.com)
  - date published: 2023-10-25T17:07:17.942979+00:00
+ - user: None
+ - tags: []
+
+## http://www.snagfilms.com
+ - [http://www.snagfilms.com](http://www.snagfilms.com)
+ - date published: 2023-12-02T13:12:19.558467+00:00
  - user: None
  - tags: []
 
@@ -1683,6 +1983,12 @@
  - [https://streaminglearningcenter.com](https://streaminglearningcenter.com)
  - date published: 2023-11-04T01:30:25.033571+00:00
  - user: None
+ - tags: []
+
+## StreamLikers – Watch Full Movies Online - Watch Full Movies Online Free in HD Quality
+ - [https://www.streamlikers.com](https://www.streamlikers.com)
+ - date published: 2023-12-02T13:14:24+00:00
+ - user: rumpel
  - tags: []
 
 ## Streamline Icons: The Only Icon System
@@ -5339,6 +5645,12 @@
  - user: None
  - tags: []
 
+## Submarine Cable Map 2023
+ - [https://submarine-cable-map-2023.telegeography.com](https://submarine-cable-map-2023.telegeography.com)
+ - date published: 2023-12-02T07:55:04+00:00
+ - user: None
+ - tags: []
+
 ## Teleprompter Mirror | Beamsplitter & Teleprompter Software
  - [https://telepromptermirror.com](https://telepromptermirror.com)
  - date published: 2023-10-25T17:26:33.807422+00:00
@@ -5678,319 +5990,6 @@
 ## TheArticle. Every Angle.
  - [https://www.thearticle.com](https://www.thearticle.com)
  - date published: 2023-10-25T17:28:38.047382+00:00
- - user: None
- - tags: []
-
-## The Art Newspaper - International art news and events
- - [https://www.theartnewspaper.com](https://www.theartnewspaper.com)
- - date published: 2023-10-25T17:28:41.293190+00:00
- - user: None
- - tags: []
-
-## Home - The Assembly NC
- - [https://www.theassemblync.com](https://www.theassemblync.com)
- - date published: 2023-10-25T17:28:45.181864+00:00
- - user: None
- - tags: []
-
-## Subscriber Newsletters - The Atlantic
- - [https://newsletters.theatlantic.com](https://newsletters.theatlantic.com)
- - date published: 2023-10-25T17:28:47.108510+00:00
- - user: None
- - tags: []
-
-## World Edition - The Atlantic
- - [https://www-stage.theatlantic.com](https://www-stage.theatlantic.com)
- - date published: 2023-11-04T22:47:32.432382+00:00
- - user: None
- - tags: []
-
-## World Edition - The Atlantic
- - [https://www.theatlantic.com](https://www.theatlantic.com)
- - date published: 2023-10-25T10:28:51.647818+00:00
- - user: None
- - tags: []
-
-## Pages of Tragedy - the official Theatre of Tragedy website
- - [https://theatreoftragedy.com](https://theatreoftragedy.com)
- - date published: 2023-10-30T15:39:45.915538+00:00
- - user: None
- - tags: ['music band']
-
-## Blog - The Audio Owl
- - [https://theaudioowl.com](https://theaudioowl.com)
- - date published: 2023-10-25T17:28:56.261413+00:00
- - user: None
- - tags: []
-
-## Home - The Autopian
- - [https://www.theautopian.com](https://www.theautopian.com)
- - date published: 2023-10-25T17:29:04.495821+00:00
- - user: None
- - tags: []
-
-## The Aviation Geek Club - Stories and News for true aviation Geeks
- - [https://theaviationgeekclub.com](https://theaviationgeekclub.com)
- - date published: 2023-10-25T17:29:13.141576+00:00
- - user: None
- - tags: []
-
-## Construction's Leading Video Channel - The B1M
- - [https://www.theb1m.com](https://www.theb1m.com)
- - date published: 2023-11-20T12:43:48.423603+00:00
- - user: None
- - tags: ['construction', 'engineering', 'architecture']
-
-## The Baffler—The Journal That Blunts the Cutting Edge
- - [https://thebaffler.com](https://thebaffler.com)
- - date published: 2023-10-25T17:29:18.078335+00:00
- - user: None
- - tags: []
-
-## The Baltimore Banner: Baltimore News, Politics, Business, Food, Events
- - [https://www.thebaltimorebanner.com](https://www.thebaltimorebanner.com)
- - date published: 2023-10-25T17:29:35.515805+00:00
- - user: None
- - tags: []
-
-## The Beauty of Transport – Transport design, transport architecture, and transport's influence on art and culture. Part travelogue, part history, all transport (but sometimes tangentially so)
- - [https://thebeautyoftransport.com](https://thebeautyoftransport.com)
- - date published: 2023-10-25T17:29:47.187685+00:00
- - user: None
- - tags: []
-
-## BIG by Matt Stoller | Substack
- - [https://www.thebignewsletter.com](https://www.thebignewsletter.com)
- - date published: 2023-10-25T17:29:51.179343+00:00
- - user: None
- - tags: []
-
-## The Black Vault
- - [https://www.theblackvault.com](https://www.theblackvault.com)
- - date published: 2023-10-25T17:29:54.543631+00:00
- - user: None
- - tags: []
-
-## Blaze Media
- - [https://www.theblaze.com](https://www.theblaze.com)
- - date published: 2023-10-25T17:30:01.051201+00:00
- - user: None
- - tags: []
-
-## Kitchen - The Blind Kitchen - Everyone has a place at the table!
- - [https://theblindkitchen.com](https://theblindkitchen.com)
- - date published: 2023-10-25T17:30:11.200484+00:00
- - user: None
- - tags: []
-
-## Trusted Polymer Clay Info!
- - [https://thebluebottletree.com](https://thebluebottletree.com)
- - date published: 2023-11-01T18:26:06.137168+00:00
- - user: None
- - tags: ['sculpting', 'polymer clay', 'hobby']
-
-## The Bold Italic
- - [https://thebolditalic.com](https://thebolditalic.com)
- - date published: 2023-10-25T17:30:21.886512+00:00
- - user: None
- - tags: []
-
-## The Booker Prizes
- - [https://thebookerprizes.com](https://thebookerprizes.com)
- - date published: 2023-11-26T22:21:31.211102+00:00
- - user: None
- - tags: []
-
-## The Bookseller - Home
- - [https://www.thebookseller.com](https://www.thebookseller.com)
- - date published: 2023-10-25T17:30:31.028831+00:00
- - user: None
- - tags: []
-
-## Welcome to The Broadcast Bridge - Connecting IT to Broadcast -  The Broadcast Bridge - Connecting IT to Broadcast
- - [https://www.thebroadcastbridge.com](https://www.thebroadcastbridge.com)
- - date published: 2023-10-25T17:30:34.098201+00:00
- - user: None
- - tags: []
-
-## TheBrokenRail
- - [https://thebrokenrail.com](https://thebrokenrail.com)
- - date published: 2023-10-25T17:30:36.056975+00:00
- - user: None
- - tags: []
-
-## The Bureau of Investigative Journalism (en-GB)
- - [https://www.thebureauinvestigates.com](https://www.thebureauinvestigates.com)
- - date published: 2023-10-25T17:30:38.816859+00:00
- - user: None
- - tags: []
-
-## New Cars, Car Reviews, Car Shows, Car Photos - The Car Connection
- - [https://www.thecarconnection.com](https://www.thecarconnection.com)
- - date published: 2023-10-25T17:30:43.374179+00:00
- - user: None
- - tags: []
-
-## The Chainsaw | The Home of Web3
- - [https://thechainsaw.com](https://thechainsaw.com)
- - date published: 2023-10-25T17:30:48.327080+00:00
- - user: None
- - tags: []
-
-## Thechemicalbrothers.com | Official site of The Chemical Brothers
- - [http://www.thechemicalbrothers.com](http://www.thechemicalbrothers.com)
- - date published: 2023-11-13T10:40:09.232758+00:00
- - user: None
- - tags: ['music band']
-
-## The China Project | Reporting on China without fear or favor
- - [https://thechinaproject.com](https://thechinaproject.com)
- - date published: 2023-10-25T10:55:29.873815+00:00
- - user: None
- - tags: []
-
-## THE CHRONICLES OF HISTORY
- - [https://thechroniclesofhistory.com](https://thechroniclesofhistory.com)
- - date published: 2023-11-02T08:43:01.591027+00:00
- - user: None
- - tags: []
-
-## Church News - A Living Record of the Restoration
- - [https://www.thechurchnews.com](https://www.thechurchnews.com)
- - date published: 2023-11-27T12:58:07+00:00
- - user: rumpel
- - tags: ['mormon news']
-
-## The Coded Message
- - [https://www.thecodedmessage.com](https://www.thecodedmessage.com)
- - date published: 2023-10-25T17:30:50.090607+00:00
- - user: None
- - tags: []
-
-## The Codeless Code:
-    Case 234 Ozymandias
- - [http://www.thecodelesscode.com](http://www.thecodelesscode.com)
- - date published: 2023-10-25T17:30:52.649018+00:00
- - user: None
- - tags: []
-
-## The Codist
- - [https://thecodist.com](https://thecodist.com)
- - date published: 2023-10-25T17:30:55.549212+00:00
- - user: None
- - tags: []
-
-## TheCollector | Ancient History, Philosophy, Religion, Art & Artists
- - [https://www.thecollector.com](https://www.thecollector.com)
- - date published: 2023-10-25T17:31:06.391542+00:00
- - user: None
- - tags: []
-
-## The College Fix | Breaking Campus News. Launching Media Careers.
- - [https://www.thecollegefix.com](https://www.thecollegefix.com)
- - date published: 2023-10-25T17:31:10.322137+00:00
- - user: None
- - tags: []
-
-## The Comeback: Today’s Top Sports Stories & Reactions - The Comeback provides today’s top sports stories and reactions for the NFL, NBA, MLB, NHL, college football, college basketball, and more.
- - [https://thecomeback.com](https://thecomeback.com)
- - date published: 2023-10-25T17:31:13.743341+00:00
- - user: None
- - tags: []
-
-## The Computer Science Book | Learn computer science the easy way for self-taught developers
- - [https://thecomputersciencebook.com](https://thecomputersciencebook.com)
- - date published: 2023-10-25T17:31:15.914209+00:00
- - user: None
- - tags: []
-
-## The Conversation: In-depth analysis, research, news and ideas from leading academics and researchers.
- - [https://theconversation.com](https://theconversation.com)
- - date published: 2023-10-25T17:31:19.094203+00:00
- - user: None
- - tags: []
-
-## The Counter Signal | Alternative News and Media
- - [https://thecountersignal.com](https://thecountersignal.com)
- - date published: 2023-10-25T17:31:22.944359+00:00
- - user: None
- - tags: []
-
-## The Cramped – Celebrating The Unique Pleasures of Analog Writing
- - [https://www.thecramped.com](https://www.thecramped.com)
- - date published: 2023-10-25T17:31:27.867495+00:00
- - user: None
- - tags: []
-
-## The Harvard Crimson
- - [https://www.thecrimson.com](https://www.thecrimson.com)
- - date published: 2023-10-25T17:31:36.026603+00:00
- - user: None
- - tags: []
-
-## TheCustomDroid - Android Tutorials, Tips and Tricks
- - [https://www.thecustomdroid.com](https://www.thecustomdroid.com)
- - date published: 2023-10-25T17:31:38.674743+00:00
- - user: None
- - tags: []
-
-## The Cut – Fashion, Beauty, Politics, Sex and Celebrity
- - [https://www.thecut.com](https://www.thecut.com)
- - date published: 2023-10-25T17:31:44.882099+00:00
- - user: None
- - tags: []
-
-## The Cyber Express | #1 Cybersecurity News & Hacker News Site
- - [https://thecyberexpress.com](https://thecyberexpress.com)
- - date published: 2023-10-25T17:31:53.779909+00:00
- - user: None
- - tags: []
-
-## The Daily Beast: The Latest in Politics, Media & Entertainment News
- - [https://www.thedailybeast.com](https://www.thedailybeast.com)
- - date published: 2023-10-25T17:31:56.772366+00:00
- - user: None
- - tags: []
-
-## The Daily WTF: Curious Perversions in Information Technology
- - [https://thedailywtf.com](https://thedailywtf.com)
- - date published: 2023-10-25T17:32:00.501920+00:00
- - user: None
- - tags: []
-
-## The Dark Mod - Stealth Gaming in a Gothic Steampunk World | The Dark Mod
- - [https://www.thedarkmod.com](https://www.thedarkmod.com)
- - date published: 2023-10-30T15:27:29.953311+00:00
- - user: None
- - tags: ['game mod', 'thief']
-
-## The Darkness - Official Website
- - [https://www.thedarknesslive.com](https://www.thedarknesslive.com)
- - date published: 2023-11-13T10:20:27.774278+00:00
- - user: None
- - tags: []
-
-## The Defense Post • Global defense news, analysis and opinion
- - [https://www.thedefensepost.com](https://www.thedefensepost.com)
- - date published: 2023-10-25T17:32:04.440811+00:00
- - user: None
- - tags: []
-
-## The Digital Cat - Home
- - [https://blog.thedigitalcatonline.com](https://blog.thedigitalcatonline.com)
- - date published: 2023-11-02T09:53:02.939077+00:00
- - user: None
- - tags: ['blog', 'personal', 'amiga']
-
-## The Diplomat – The Diplomat is a current-affairs magazine for the Asia-Pacific, with news and analysis on politics, security, business, technology and life across the region.
- - [https://thediplomat.com](https://thediplomat.com)
- - date published: 2023-10-25T17:32:09.273734+00:00
- - user: None
- - tags: []
-
-## Dividend List | home
- - [https://thedividendlist.com](https://thedividendlist.com)
- - date published: 2023-10-25T17:32:10.176414+00:00
  - user: None
  - tags: []
 

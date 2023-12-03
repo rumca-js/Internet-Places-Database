@@ -1,3 +1,135 @@
+## #1 Warcraft 3 Reforged Modding Community | HIVE
+ - [https://www.hiveworkshop.com](https://www.hiveworkshop.com)
+ - date published: 2023-10-25T11:51:06.417742+00:00
+ - user: None
+ - tags: []
+
+## Harry Marr
+ - [https://hmarr.com](https://hmarr.com)
+ - date published: 2023-10-25T15:00:11.023028+00:00
+ - user: None
+ - tags: []
+
+## Hacker News Follow
+ - [https://www.hnfollow.com](https://www.hnfollow.com)
+ - date published: 2023-10-25T15:00:12.449790+00:00
+ - user: None
+ - tags: []
+
+## http://www.hnhiringtrends.com
+ - [http://www.hnhiringtrends.com](http://www.hnhiringtrends.com)
+ - date published: 2023-10-25T15:00:12.866949+00:00
+ - user: None
+ - tags: []
+
+## HN Resume to Jobs
+ - [https://hnresumetojobs.com](https://hnresumetojobs.com)
+ - date published: 2023-10-25T15:00:14.742754+00:00
+ - user: None
+ - tags: []
+
+## https://www.hobbylobby.com
+ - [https://www.hobbylobby.com](https://www.hobbylobby.com)
+ - date published: 2023-11-01T18:11:09.311057+00:00
+ - user: None
+ - tags: ['miniatures', 'sculpting', 'hobby']
+
+## Kelly Hobkirk portfolio - Seattle graphic designer
+ - [https://www.hobkirkdesign.com](https://www.hobkirkdesign.com)
+ - date published: 2023-11-29T14:23:31.668593+00:00
+ - user: None
+ - tags: []
+
+## Hodinkee
+ - [https://www.hodinkee.com](https://www.hodinkee.com)
+ - date published: 2023-10-25T15:00:20.442749+00:00
+ - user: None
+ - tags: []
+
+## ENIGMA M4 - Breaking German Navy Ciphers
+ - [https://enigma.hoerenberg.com](https://enigma.hoerenberg.com)
+ - date published: 2023-10-25T15:00:22.325938+00:00
+ - user: None
+ - tags: []
+
+## Hog Bay Software
+ - [https://www.hogbaysoftware.com](https://www.hogbaysoftware.com)
+ - date published: 2023-10-25T15:00:23.370446+00:00
+ - user: None
+ - tags: []
+
+## hoho.com
+ - [https://hoho.com](https://hoho.com)
+ - date published: 2023-10-25T15:00:24.125704+00:00
+ - user: None
+ - tags: []
+
+## Holloway — Books by experts on business, technology, creativity, and personal growth
+ - [https://www.holloway.com](https://www.holloway.com)
+ - date published: 2023-10-25T15:00:26.465939+00:00
+ - user: None
+ - tags: []
+
+## The Hollywood Reporter – Movie news, TV news, awards news, lifestyle news, business news and more from The Hollywood Reporter.
+ - [https://www.hollywoodreporter.com](https://www.hollywoodreporter.com)
+ - date published: 2023-10-25T10:51:28.356602+00:00
+ - user: None
+ - tags: []
+
+## Handling Source in a Database
+ - [https://holonforth.com](https://holonforth.com)
+ - date published: 2023-10-25T15:00:26.928600+00:00
+ - user: None
+ - tags: []
+
+## HolonIQ. Global Impact Intelligence
+ - [https://www.holoniq.com](https://www.holoniq.com)
+ - date published: 2023-10-25T15:00:30.316249+00:00
+ - user: None
+ - tags: []
+
+## Adrian Holovaty
+ - [https://www.holovaty.com](https://www.holovaty.com)
+ - date published: 2023-10-25T09:20:38.353317+00:00
+ - user: None
+ - tags: ['personal']
+
+## Monty Python and the Holy Grail in Cinemas
+ - [https://holygrailincinemas.com](https://holygrailincinemas.com)
+ - date published: 2023-11-14T20:29:17+00:00
+ - user: None
+ - tags: []
+
+## Access Denied
+ - [https://www.homedepot.com](https://www.homedepot.com)
+ - date published: 2023-10-25T15:00:31.083319+00:00
+ - user: None
+ - tags: []
+
+## Everybody! Everybody!
+ - [https://homestarrunner.com](https://homestarrunner.com)
+ - date published: 2023-12-01T20:47:14+00:00
+ - user: rumpel
+ - tags: ['internet', 'online games', 'wtf']
+
+## Homesteading | Simple Self Sufficient Off-Grid Living
+ - [https://homesteading.com](https://homesteading.com)
+ - date published: 2023-10-28T17:25:04.905772+00:00
+ - user: None
+ - tags: ['homesteading']
+
+## Heroes of Might and Magic III - The Music Player
+ - [https://homm3musicplayer.com](https://homm3musicplayer.com)
+ - date published: 2023-11-03T08:49:54.534404+00:00
+ - user: None
+ - tags: ['music', 'heroes3', 'might and magic']
+
+## Official Honda Autos USA | Honda
+ - [https://automobiles.honda.com](https://automobiles.honda.com)
+ - date published: 2023-11-01T08:42:12.872195+00:00
+ - user: None
+ - tags: []
+
 ## American Honda Motor Co., Inc. - Official Site
  - [https://honda.com](https://honda.com)
  - date published: 2023-11-01T08:59:50.141286+00:00
@@ -843,6 +975,12 @@
  - date published: 2023-10-25T15:18:41.886817+00:00
  - user: None
  - tags: []
+
+## Latest News, Breaking News, LIVE News, Top News Headlines, Viral Video, Cricket LIVE, Sports, Entertainment, Business, Health, Lifestyle and Utility News | India.Com
+ - [https://www.india.com](https://www.india.com)
+ - date published: 2023-12-02T11:50:42.282534+00:00
+ - user: None
+ - tags: ['india news']
 
 ## BFSI News- Latest Banking, Financial Services and Insurance News | ET BFSI
  - [https://bfsi.economictimes.indiatimes.com](https://bfsi.economictimes.indiatimes.com)
@@ -2056,6 +2194,12 @@
  - user: None
  - tags: []
 
+## JDG Sport | Digital sports consultant & journalist
+ - [https://jdgsport.com](https://jdgsport.com)
+ - date published: 2023-12-02T13:42:03.884403+00:00
+ - user: None
+ - tags: ['personal']
+
 ## JD Meier | High Performance. Innovation. Strategy.
  - [https://jdmeier.com](https://jdmeier.com)
  - date published: 2023-10-25T15:27:42.784067+00:00
@@ -2209,6 +2353,12 @@
 ## Jerry Michalski
  - [https://www.jerrymichalski.com](https://www.jerrymichalski.com)
  - date published: 2023-11-29T17:09:20.663681+00:00
+ - user: None
+ - tags: ['personal']
+
+## Blogger
+ - [https://www.jerrysha.com](https://www.jerrysha.com)
+ - date published: 2023-12-02T21:17:38.362551+00:00
  - user: None
  - tags: ['personal']
 
@@ -2998,6 +3148,12 @@
  - user: None
  - tags: []
 
+## Juan Cruz Viotti
+ - [https://www.jviotti.com](https://www.jviotti.com)
+ - date published: 2023-12-02T16:30:43.333149+00:00
+ - user: None
+ - tags: []
+
 ## JyriAnd Blog
  - [https://jyriand.com](https://jyriand.com)
  - date published: 2023-11-29T20:43:58.319401+00:00
@@ -3193,6 +3349,12 @@
 ## The Kathmandu Post | Read online latest news and articles from Nepal
  - [https://kathmandupost.com](https://kathmandupost.com)
  - date published: 2023-11-13T13:20:19.326564+00:00
+ - user: None
+ - tags: []
+
+## katiecouric.com
+ - [https://katiecouric.com](https://katiecouric.com)
+ - date published: 2023-12-02T18:30:53.045338+00:00
  - user: None
  - tags: []
 
@@ -4097,6 +4259,12 @@
  - user: None
  - tags: []
 
+## | Kitaab
+ - [https://anish.lakhwara.com](https://anish.lakhwara.com)
+ - date published: 2023-12-02T13:41:48.670187+00:00
+ - user: None
+ - tags: ['personal']
+
 ## lamag.com
  - [https://www.lamag.com](https://www.lamag.com)
  - date published: 2023-10-25T15:40:44.165341+00:00
@@ -4820,6 +4988,12 @@
 ## Advent of Computing
  - [https://adventofcomputing.libsyn.com](https://adventofcomputing.libsyn.com)
  - date published: 2023-10-25T15:46:18.588810+00:00
+ - user: None
+ - tags: []
+
+## Shirtloads of Science
+ - [https://shirtloadsofscience.libsyn.com](https://shirtloadsofscience.libsyn.com)
+ - date published: 2023-12-02T20:11:05.694222+00:00
  - user: None
  - tags: []
 
@@ -5712,6 +5886,12 @@ diversions.
  - user: None
  - tags: ['music band']
 
+## http://basalgangster.macgui.com
+ - [http://basalgangster.macgui.com](http://basalgangster.macgui.com)
+ - date published: 2023-12-02T11:50:35.209177+00:00
+ - user: None
+ - tags: []
+
 ## Machine Learning Mastery
  - [https://machinelearningmastery.com](https://machinelearningmastery.com)
  - date published: 2023-10-25T15:53:15.792931+00:00
@@ -5811,186 +5991,6 @@ diversions.
 ## madison.com | Read Madison, WI and Wisconsin breaking news. Get latest news, events and information on Wisconsin sports, weather, entertainment and lifestyles.
  - [https://madison.com](https://madison.com)
  - date published: 2023-11-11T17:19:47.528171+00:00
- - user: None
- - tags: []
-
-## Choose the Best Self-Directed IRA Company and Get Control of Your Retirement Investments
- - [https://www.madisontrust.com](https://www.madisontrust.com)
- - date published: 2023-10-25T15:53:58.634735+00:00
- - user: None
- - tags: []
-
-## Mad Micas | Premium Mica and Colorants for Makers
- - [https://www.madmicas.com](https://www.madmicas.com)
- - date published: 2023-10-25T15:54:08.960044+00:00
- - user: None
- - tags: []
-
-## Maersk | Integrated Container Logistics & Supply Chain Services
- - [https://www.maersk.com](https://www.maersk.com)
- - date published: 2023-10-25T15:54:10.540638+00:00
- - user: None
- - tags: []
-
-## Maggie Appleton
- - [https://maggieappleton.com](https://maggieappleton.com)
- - date published: 2023-10-25T08:47:09.508828+00:00
- - user: None
- - tags: ['personal']
-
-## Magic Earth - Free Navigation & Maps App for Android and iPhone
- - [https://www.magicearth.com](https://www.magicearth.com)
- - date published: 2023-10-25T08:24:50.926584+00:00
- - user: None
- - tags: []
-
-## Magrathea Metals
- - [https://magratheametals.com](https://magratheametals.com)
- - date published: 2023-10-25T15:54:22.803149+00:00
- - user: None
- - tags: []
-
-## The Mail Archive
- - [https://www.mail-archive.com](https://www.mail-archive.com)
- - date published: 2023-10-25T15:54:23.776186+00:00
- - user: None
- - tags: []
-
-## Marketing, Automation & Email Platform | Mailchimp
- - [https://mailchimp.com](https://mailchimp.com)
- - date published: 2023-10-25T15:54:35.137582+00:00
- - user: None
- - tags: []
-
-## Harden your email - Mailhardener
- - [https://www.mailhardener.com](https://www.mailhardener.com)
- - date published: 2023-10-25T15:54:36.141918+00:00
- - user: None
- - tags: []
-
-## Mainmatter
- - [https://mainmatter.com](https://mainmatter.com)
- - date published: 2023-10-25T15:54:37.268613+00:00
- - user: None
- - tags: []
-
-## The Iteration | Kenn Costales | Substack
- - [https://iteration.maiwriter.com](https://iteration.maiwriter.com)
- - date published: 2023-11-05T11:29:59.648908+00:00
- - user: None
- - tags: []
-
-## The magic button — Make Everything OK
- - [http://make-everything-ok.com](http://make-everything-ok.com)
- - date published: 2023-10-27T11:01:04.144296+00:00
- - user: None
- - tags: ['wtf']
-
-## make-safe-ai/is-bing-chat-safe
- - [https://www.make-safe-ai.com](https://www.make-safe-ai.com)
- - date published: 2023-10-25T15:54:39.527554+00:00
- - user: None
- - tags: []
-
-## Make America Walkable Again
- - [https://makeamericawalkable.com](https://makeamericawalkable.com)
- - date published: 2023-10-25T15:54:41.558574+00:00
- - user: None
- - tags: []
-
-## Make Art with Python
- - [https://www.makeartwithpython.com](https://www.makeartwithpython.com)
- - date published: 2023-10-25T15:54:43.070926+00:00
- - user: None
- - tags: []
-
-## Makefile Tutorial By Example
- - [https://makefiletutorial.com](https://makefiletutorial.com)
- - date published: 2023-10-25T15:54:44.493732+00:00
- - user: None
- - tags: []
-
-## MakeItFrom.com: Material Properties Database
- - [https://www.makeitfrom.com](https://www.makeitfrom.com)
- - date published: 2023-10-25T15:54:45.799547+00:00
- - user: None
- - tags: []
-
-## Home - Makerdiary Wiki
- - [https://wiki.makerdiary.com](https://wiki.makerdiary.com)
- - date published: 2023-10-25T15:54:46.717561+00:00
- - user: None
- - tags: []
-
-## Maker Faire |
- - [https://makerfaire.com](https://makerfaire.com)
- - date published: 2023-10-25T15:54:51.642732+00:00
- - user: None
- - tags: []
-
-## DIY | Makers Mashup
- - [https://www.makersmashup.com](https://www.makersmashup.com)
- - date published: 2023-10-27T10:17:04.972576+00:00
- - user: None
- - tags: ['hobby', 'dyi', '3d printing']
-
-## Home
- - [https://makezine.com](https://makezine.com)
- - date published: 2023-11-27T16:27:53+00:00
- - user: rumpel
- - tags: ['tech', 'creators', '3d printing', 'sbc']
-
-## Making It with Chris G.
- - [https://www.makingitwithchrisg.com](https://www.makingitwithchrisg.com)
- - date published: 2023-11-29T17:12:52.483030+00:00
- - user: None
- - tags: []
-
-## about mako
- - [https://makopool.com](https://makopool.com)
- - date published: 2023-10-25T08:47:11.035727+00:00
- - user: None
- - tags: ['personal']
-
-## Malay Mail | Breaking News, Malaysia, World, Lifestyle News
- - [https://www.malaymail.com](https://www.malaymail.com)
- - date published: 2023-10-25T15:54:56.436525+00:00
- - user: None
- - tags: []
-
-## MalaysiaNow | News, views and insights into Malaysian current affairs.
- - [https://www.malaysianow.com](https://www.malaysianow.com)
- - date published: 2023-11-17T07:41:45.486280+00:00
- - user: None
- - tags: []
-
-## Cyber Security Software & Anti-Malware | Malwarebytes
- - [https://www.malwarebytes.com](https://www.malwarebytes.com)
- - date published: 2023-10-25T15:54:59.336261+00:00
- - user: None
- - tags: ['tech services', 'corporation']
-
-## MambaOnline - Gay South Africa online
- - [https://www.mambaonline.com](https://www.mambaonline.com)
- - date published: 2023-11-26T08:46:20.848115+00:00
- - user: None
- - tags: ['lgbt', 'homosexuality']
-
-## The Market for Magic Cards | Mana Pool
- - [https://manapool.com](https://manapool.com)
- - date published: 2023-10-25T15:55:00.570677+00:00
- - user: None
- - tags: []
-
-## Senselessness
- - [https://blog.mand3l.com](https://blog.mand3l.com)
- - date published: 2023-10-25T15:55:08.960526+00:00
- - user: None
- - tags: []
-
-## Threat Intelligence Solutions | Cyber Security Services & Training
- - [https://www.mandiant.com](https://www.mandiant.com)
- - date published: 2023-10-25T15:55:12.774419+00:00
  - user: None
  - tags: []
 
