@@ -520,6 +520,66 @@
  - user: None
  - tags: ['personal']
 
+## Thought Of Art
+ - [http://www.thoughtofart.com](http://www.thoughtofart.com)
+ - date published: 2023-12-03T01:43:09.217032+00:00
+ - user: None
+ - tags: ['personal']
+
+## my blog
+ - [http://ronzhyn.com](http://ronzhyn.com)
+ - date published: 2023-12-03T01:43:14.702240+00:00
+ - user: None
+ - tags: ['personal']
+
+## Trialfacts
+ - [http://trialfacts.com](http://trialfacts.com)
+ - date published: 2023-12-03T01:43:30.335637+00:00
+ - user: None
+ - tags: ['personal']
+
+## Production Advice - make your music sound great
+ - [http://productionadvice.co.uk](http://productionadvice.co.uk)
+ - date published: 2023-12-03T09:19:57.481532+00:00
+ - user: None
+ - tags: ['personal']
+
+## Coffee For The Brain
+ - [http://coffeeforthebrain.com](http://coffeeforthebrain.com)
+ - date published: 2023-12-03T15:55:00.129375+00:00
+ - user: None
+ - tags: ['personal']
+
+## upbeat.it - upbeat.it
+ - [http://www.upbeat.it](http://www.upbeat.it)
+ - date published: 2023-12-03T15:55:20.429965+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rick Umali's Home Page
+ - [http://rickumali.com](http://rickumali.com)
+ - date published: 2023-12-03T15:55:25.635997+00:00
+ - user: None
+ - tags: ['personal']
+
+## Database Error
+ - [http://jamesfotherby.com](http://jamesfotherby.com)
+ - date published: 2023-12-03T21:18:56.851915+00:00
+ - user: None
+ - tags: []
+
+## Bob Wagner - Trumpet
+ - [http://bob-wagner.com](http://bob-wagner.com)
+ - date published: 2023-12-03T23:30:44.780486+00:00
+ - user: None
+ - tags: ['personal']
+
+## Prestissimo Media
+ - [http://prestissimo-guitar.com](http://prestissimo-guitar.com)
+ - date published: 2023-12-03T23:31:16.865024+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Sort: Supercharged collaboration for your database
  - [https://sort.xyz.](https://sort.xyz.)
  - date published: 2023-11-01T23:07:07.991006+00:00
@@ -2662,6 +2722,12 @@
  - user: None
  - tags: []
 
+## Alberto Bertogli
+ - [https://blitiri.com.ar](https://blitiri.com.ar)
+ - date published: 2023-12-03T19:58:30.732690+00:00
+ - user: None
+ - tags: []
+
 ## Indice General de Histarmar
  - [https://www.histarmar.com.ar](https://www.histarmar.com.ar)
  - date published: 2023-10-25T11:52:20.656286+00:00
@@ -3211,6 +3277,12 @@
 ## Honeycode Help & Community - Honeycode Community
  - [https://honeycodecommunity.aws](https://honeycodecommunity.aws)
  - date published: 2023-10-25T11:58:35.214250+00:00
+ - user: None
+ - tags: []
+
+## APA.AZ- Latest news from Azerbaijan and the world
+ - [https://en.apa.az](https://en.apa.az)
+ - date published: 2023-12-03T14:58:27.568836+00:00
  - user: None
  - tags: []
 
@@ -3857,6 +3929,12 @@
  - user: None
  - tags: []
 
+## Show HN: Gobble Bot
+ - [https://gobble.bot](https://gobble.bot)
+ - date published: 2023-12-03T12:57:13+00:00
+ - user: None
+ - tags: []
+
 ## Tecgraf, PUC-Rio
  - [https://www.tecgraf.puc-rio.br](https://www.tecgraf.puc-rio.br)
  - date published: 2023-10-25T12:02:07.692461+00:00
@@ -4395,7 +4473,7 @@
  - [https://seonorth.ca](https://seonorth.ca)
  - date published: 2023-10-25T12:06:42.751440+00:00
  - user: None
- - tags: []
+ - tags: ['company', 'seo']
 
 ## GrUVi - Home
  - [https://gruvi.cs.sfu.ca](https://gruvi.cs.sfu.ca)
@@ -5160,6 +5238,12 @@
  - user: None
  - tags: []
 
+## Université de Genève - Université de Genève
+ - [https://www.unige.ch](https://www.unige.ch)
+ - date published: 2023-12-03T11:18:25.630786+00:00
+ - user: None
+ - tags: []
+
 ## Media | Für Medien | UZH
  - [https://www.media.uzh.ch](https://www.media.uzh.ch)
  - date published: 2023-10-25T12:14:48.655408+00:00
@@ -5907,90 +5991,6 @@
 ## Prospective
  - [https://prospective.co](https://prospective.co)
  - date published: 2023-11-01T17:24:22.525282+00:00
- - user: None
- - tags: []
-
-## Psyche | on the human condition
- - [https://psyche.co](https://psyche.co)
- - date published: 2023-10-25T12:21:50.754555+00:00
- - user: None
- - tags: []
-
-## RA · Discover Electronic Music and Events
- - [https://ra.co](https://ra.co)
- - date published: 2023-10-25T12:22:57.001214+00:00
- - user: None
- - tags: []
-
-## RankedVote: Online Ranked-Choice Voting Polls
- - [https://www.rankedvote.co](https://www.rankedvote.co)
- - date published: 2023-10-25T12:22:03.760424+00:00
- - user: None
- - tags: []
-
-## reddit
- - [http://www.reddit.co](http://www.reddit.co)
- - date published: 2023-11-01T02:23:42.836195+00:00
- - user: None
- - tags: []
-
-## Rentry.co - Markdown Pastebin
- - [https://rentry.co](https://rentry.co)
- - date published: 2023-10-25T08:31:07.607725+00:00
- - user: None
- - tags: []
-
-## Streamlit
- - [https://llmconstellation.olafblitz.repl.co](https://llmconstellation.olafblitz.repl.co)
- - date published: 2023-10-25T12:22:05.528639+00:00
- - user: None
- - tags: []
-
-## Raphael
- - [https://rtpg.co](https://rtpg.co)
- - date published: 2023-10-25T09:03:23.998136+00:00
- - user: None
- - tags: ['personal']
-
-## Consumer Surplus | Sam Bowman | Substack
- - [https://www.sambowman.co](https://www.sambowman.co)
- - date published: 2023-10-25T12:22:09.912561+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://shubhamjain.co](https://shubhamjain.co)
- - date published: 2023-10-25T09:07:56.781772+00:00
- - user: None
- - tags: ['personal']
-
-## SkyPilot Blog
- - [https://blog.skypilot.co](https://blog.skypilot.co)
- - date published: 2023-10-25T08:35:15.483097+00:00
- - user: None
- - tags: []
-
-## http://slimvoice.co
- - [http://slimvoice.co](http://slimvoice.co)
- - date published: 2023-10-25T12:22:13.086251+00:00
- - user: None
- - tags: []
-
-## Small Bets Newsletter | Daniel Vassallo | Substack
- - [https://newsletter.smallbets.co](https://newsletter.smallbets.co)
- - date published: 2023-10-25T12:22:16.414825+00:00
- - user: None
- - tags: []
-
-## Marketing Consultant Las Vegas, NV | Crush Your Competition
- - [https://sociallaunch.co](https://sociallaunch.co)
- - date published: 2023-11-29T17:05:59.384418+00:00
- - user: None
- - tags: ['personal']
-
-## Data Visualization
- - [https://socviz.co](https://socviz.co)
- - date published: 2023-10-25T12:22:20.001924+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,87 @@
+## RA · Discover Electronic Music and Events
+ - [https://ra.co](https://ra.co)
+ - date published: 2023-10-25T12:22:57.001214+00:00
+ - user: None
+ - tags: []
+
+## RankedVote: Online Ranked-Choice Voting Polls
+ - [https://www.rankedvote.co](https://www.rankedvote.co)
+ - date published: 2023-10-25T12:22:03.760424+00:00
+ - user: None
+ - tags: []
+
+## reddit
+ - [http://www.reddit.co](http://www.reddit.co)
+ - date published: 2023-11-01T02:23:42.836195+00:00
+ - user: None
+ - tags: []
+
+## Rentry.co - Markdown Pastebin
+ - [https://rentry.co](https://rentry.co)
+ - date published: 2023-10-25T08:31:07.607725+00:00
+ - user: None
+ - tags: []
+
+## Streamlit
+ - [https://llmconstellation.olafblitz.repl.co](https://llmconstellation.olafblitz.repl.co)
+ - date published: 2023-10-25T12:22:05.528639+00:00
+ - user: None
+ - tags: []
+
+## Raphael
+ - [https://rtpg.co](https://rtpg.co)
+ - date published: 2023-10-25T09:03:23.998136+00:00
+ - user: None
+ - tags: ['personal']
+
+## Consumer Surplus | Sam Bowman | Substack
+ - [https://www.sambowman.co](https://www.sambowman.co)
+ - date published: 2023-10-25T12:22:09.912561+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://shubhamjain.co](https://shubhamjain.co)
+ - date published: 2023-10-25T09:07:56.781772+00:00
+ - user: None
+ - tags: ['personal']
+
+## SkyPilot Blog
+ - [https://blog.skypilot.co](https://blog.skypilot.co)
+ - date published: 2023-10-25T08:35:15.483097+00:00
+ - user: None
+ - tags: []
+
+## http://slimvoice.co
+ - [http://slimvoice.co](http://slimvoice.co)
+ - date published: 2023-10-25T12:22:13.086251+00:00
+ - user: None
+ - tags: []
+
+## Small Bets Newsletter | Daniel Vassallo | Substack
+ - [https://newsletter.smallbets.co](https://newsletter.smallbets.co)
+ - date published: 2023-10-25T12:22:16.414825+00:00
+ - user: None
+ - tags: []
+
+## Marketing Consultant Las Vegas, NV | Crush Your Competition
+ - [https://sociallaunch.co](https://sociallaunch.co)
+ - date published: 2023-11-29T17:05:59.384418+00:00
+ - user: None
+ - tags: ['personal']
+
+## Data Visualization
+ - [https://socviz.co](https://socviz.co)
+ - date published: 2023-10-25T12:22:20.001924+00:00
+ - user: None
+ - tags: []
+
+## Spotta | Smart Insect Monitoring as a Service
+ - [https://www.spotta.co](https://www.spotta.co)
+ - date published: 2023-10-25T12:22:25.066866+00:00
+ - user: None
+ - tags: []
+
 ## SpyTalk | Jeff Stein | Substack
  - [https://www.spytalk.co](https://www.spytalk.co)
  - date published: 2023-10-25T09:39:56.063632+00:00
@@ -151,6 +235,12 @@
 ## Master your freelance admin with momo.coach
  - [https://momo.coach](https://momo.coach)
  - date published: 2023-10-25T12:25:12.358705+00:00
+ - user: None
+ - tags: []
+
+## snackableCTO | Adrian Stanek | Substack
+ - [https://blog.snackablecto.coach](https://blog.snackablecto.coach)
+ - date published: 2023-12-03T17:18:27.310586+00:00
  - user: None
  - tags: []
 
@@ -646,6 +736,12 @@
  - user: None
  - tags: ['personal']
 
+## Homepage - Aaron J. Trumm - Aaron J. Trumm
+ - [https://aarontrumm.com](https://aarontrumm.com)
+ - date published: 2023-12-03T15:54:51.693526+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Aatish Bhatia
  - [https://aatishb.com](https://aatishb.com)
  - date published: 2023-10-25T09:04:13.761042+00:00
@@ -711,6 +807,12 @@
  - date published: 2023-10-25T12:30:03.797320+00:00
  - user: None
  - tags: []
+
+## http://www.abcbyritesh.com
+ - [http://www.abcbyritesh.com](http://www.abcbyritesh.com)
+ - date published: 2023-12-03T01:43:57.654303+00:00
+ - user: None
+ - tags: ['personal']
 
 ## ABC News - Breaking News, Latest News and Videos
  - [http://feeds.abcnews.com](http://feeds.abcnews.com)
@@ -988,6 +1090,12 @@
  - user: None
  - tags: []
 
+## Adib Fricke · Words, Art, and Language | The Word Company®
+ - [https://adibfricke.com](https://adibfricke.com)
+ - date published: 2023-12-03T01:43:49.025664+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Adi's Thoughts
  - [https://www.adityabaradwaj.com](https://www.adityabaradwaj.com)
  - date published: 2023-10-25T08:44:06.720224+00:00
@@ -1250,7 +1358,7 @@
  - [https://ahrefs.com](https://ahrefs.com)
  - date published: 2023-10-25T12:35:26.492756+00:00
  - user: None
- - tags: []
+ - tags: ['seo']
 
 ## Ahrefs
  - [https://tech.ahrefs.com](https://tech.ahrefs.com)
@@ -1599,6 +1707,12 @@
  - date published: 2023-10-25T12:38:00.320646+00:00
  - user: None
  - tags: []
+
+## Alexandru Golovatenco
+ - [https://alexglv.com](https://alexglv.com)
+ - date published: 2023-12-03T09:19:15.087581+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Personal website | Alex Harri Jónsson
  - [https://alexharri.com](https://alexharri.com)
@@ -4708,6 +4822,12 @@
  - user: None
  - tags: []
 
+## Molecular Medicine
+ - [https://molmed.biomedcentral.com](https://molmed.biomedcentral.com)
+ - date published: 2023-12-03T07:38:15.345289+00:00
+ - user: None
+ - tags: []
+
 ## Research Integrity and Peer Review | Home
  - [https://researchintegrityjournal.biomedcentral.com](https://researchintegrityjournal.biomedcentral.com)
  - date published: 2023-10-25T13:00:31.950838+00:00
@@ -5235,6 +5355,12 @@
  - date published: 2023-10-25T09:08:09.774302+00:00
  - user: None
  - tags: ['personal']
+
+## Agile & Coding
+ - [https://davidvujic.blogspot.com](https://davidvujic.blogspot.com)
+ - date published: 2023-12-03T12:58:17.652706+00:00
+ - user: None
+ - tags: []
 
 ## DBMS Musings
  - [https://dbmsmusings.blogspot.com](https://dbmsmusings.blogspot.com)
@@ -5854,147 +5980,15 @@
  - user: None
  - tags: []
 
+## Bob Wagner - Trumpet
+ - [https://bob-wagner.com](https://bob-wagner.com)
+ - date published: 2023-12-03T23:30:46.221944+00:00
+ - user: None
+ - tags: []
+
 ## Bobbie Chen
  - [https://bobbiechen.com](https://bobbiechen.com)
  - date published: 2023-10-25T13:07:34.345024+00:00
- - user: None
- - tags: []
-
-## Bob Copeland's Web Page
- - [https://bobcopeland.com](https://bobcopeland.com)
- - date published: 2023-10-25T13:07:35.366228+00:00
- - user: None
- - tags: []
-
-## Boeing: The Boeing Company Official Website
- - [https://www.boeing.com](https://www.boeing.com)
- - date published: 2023-10-25T13:07:39.244470+00:00
- - user: None
- - tags: ['avionics', 'aerospace', 'aviation']
-
-## Blog on tech, productivity, books, tools, and web development · Bojan Vidanovic
- - [https://bojanvidanovic.com](https://bojanvidanovic.com)
- - date published: 2023-10-25T09:25:33.186509+00:00
- - user: None
- - tags: ['personal']
-
-## Bolin - Home Page
- - [https://bolinlang.com](https://bolinlang.com)
- - date published: 2023-10-25T13:07:40.103311+00:00
- - user: None
- - tags: []
-
-## Bolt.css
- - [https://boltcss.com](https://boltcss.com)
- - date published: 2023-10-25T13:07:41.080874+00:00
- - user: None
- - tags: []
-
-## Mac Backup Software | Carbon Copy Cloner | Bombich Software
- - [https://bombich.com](https://bombich.com)
- - date published: 2023-10-25T13:07:42.727697+00:00
- - user: None
- - tags: []
-
-## Bon Appétit: Recipes, Cooking, Entertaining, Restaurants | Bon Appétit
- - [https://www.bonappetit.com](https://www.bonappetit.com)
- - date published: 2023-10-25T13:07:46.333898+00:00
- - user: None
- - tags: []
-
-## Home | Bond Buyer
- - [https://www.bondbuyer.com](https://www.bondbuyer.com)
- - date published: 2023-10-25T13:07:53.702350+00:00
- - user: None
- - tags: []
-
-## Bonnie Eisenman
- - [https://blog.bonnieeisenman.com](https://blog.bonnieeisenman.com)
- - date published: 2023-10-25T13:07:55.219155+00:00
- - user: None
- - tags: []
-
-## Bonterms - Standard Agreements for the Enterprise
- - [https://bonterms.com](https://bonterms.com)
- - date published: 2023-10-25T13:07:58.529699+00:00
- - user: None
- - tags: []
-
-## BookFilter
- - [https://www.book-filter.com](https://www.book-filter.com)
- - date published: 2023-11-25T12:48:56.849391+00:00
- - user: None
- - tags: []
-
-## Amazon.com: Books
- - [https://www.bookdepository.com](https://www.bookdepository.com)
- - date published: 2023-10-25T13:08:04.593045+00:00
- - user: None
- - tags: []
-
-## Bookforum
- - [https://www.bookforum.com](https://www.bookforum.com)
- - date published: 2023-10-25T13:08:09.826942+00:00
- - user: None
- - tags: []
-
-## Bookreporter.com |
- - [https://www.bookreporter.com](https://www.bookreporter.com)
- - date published: 2023-11-07T16:06:19.097099+00:00
- - user: None
- - tags: []
-
-## BOOK RIOT - Book Recommendations and Reviews
- - [https://bookriot.com](https://bookriot.com)
- - date published: 2023-10-25T13:08:14.644680+00:00
- - user: None
- - tags: []
-
-## BookStack
- - [https://www.bookstackapp.com](https://www.bookstackapp.com)
- - date published: 2023-10-25T13:08:17.169116+00:00
- - user: None
- - tags: []
-
-## Boomerang | Productivity & wellness topics from the world's most-used email extension
- - [https://blog.boomerangapp.com](https://blog.boomerangapp.com)
- - date published: 2023-10-25T13:08:21.530945+00:00
- - user: None
- - tags: []
-
-## BOOX Shop
-        
-        
-
-        
-          –
-          The Official BOOX Store
- - [https://shop.boox.com](https://shop.boox.com)
- - date published: 2023-10-25T13:08:26.342566+00:00
- - user: None
- - tags: []
-
-## borb | Read, write, and edit PDF files with borb, a pure python library
- - [https://borbpdf.com](https://borbpdf.com)
- - date published: 2023-10-25T13:08:26.943607+00:00
- - user: None
- - tags: []
-
-## Bored Panda - The Only Magazine For Pandas
- - [https://www.boredpanda.com](https://www.boredpanda.com)
- - date published: 2023-10-25T13:08:32.094722+00:00
- - user: None
- - tags: []
-
-## Top Articles • BoredReading.com
- - [https://boredreading.com](https://boredreading.com)
- - date published: 2023-10-25T13:08:47.619008+00:00
- - user: None
- - tags: []
-
-## BorgBase System Status
- - [https://status.borgbase.com](https://status.borgbase.com)
- - date published: 2023-10-25T13:08:48.726711+00:00
  - user: None
  - tags: []
 
