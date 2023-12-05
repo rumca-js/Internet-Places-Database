@@ -1,351 +1,3 @@
-## Dumb Password Rules
- - [https://dumbpasswordrules.com](https://dumbpasswordrules.com)
- - date published: 2023-10-25T13:59:43.811839+00:00
- - user: None
- - tags: []
-
-## Bar & Line
- - [https://blog.duncangeere.com](https://blog.duncangeere.com)
- - date published: 2023-12-03T02:38:03.034981+00:00
- - user: None
- - tags: []
-
-## Duncan Geere
- - [https://www.duncangeere.com](https://www.duncangeere.com)
- - date published: 2023-12-03T10:58:21.192847+00:00
- - user: None
- - tags: ['personal']
-
-## Dune: Part Two | Official Movie Site
- - [https://www.dunemovie.com](https://www.dunemovie.com)
- - date published: 2023-11-13T13:00:16.333580+00:00
- - user: None
- - tags: ['movie', 'dune']
-
-## Dungeon Map Doodler
- - [https://dungeonmapdoodler.com](https://dungeonmapdoodler.com)
- - date published: 2023-10-25T13:59:52.064138+00:00
- - user: None
- - tags: ['role playing games']
-
-## Multi-Factor Authentication & Single Sign-On | Duo Security
- - [https://duo.com](https://duo.com)
- - date published: 2023-10-25T13:59:56.230418+00:00
- - user: None
- - tags: []
-
-## Duo Status
- - [https://status.duo.com](https://status.duo.com)
- - date published: 2023-10-25T14:00:01.542214+00:00
- - user: None
- - tags: []
-
-## Duolingo Blog | Writing about the best way to learn a language
- - [https://blog.duolingo.com](https://blog.duolingo.com)
- - date published: 2023-10-25T14:00:03.408327+00:00
- - user: None
- - tags: []
-
-## Duplicate Word Finder
- - [https://duplicateword.com](https://duplicateword.com)
- - date published: 2023-10-25T14:00:04.558446+00:00
- - user: None
- - tags: []
-
-## Duplicati
- - [https://www.duplicati.com](https://www.duplicati.com)
- - date published: 2023-10-25T14:00:05.522255+00:00
- - user: None
- - tags: []
-
-## Goran Duskic | Internet Entrepreneur | Duskic.com | 2023 – Internet entrepreneur, website investor
- - [https://www.duskic.com](https://www.duskic.com)
- - date published: 2023-11-29T16:19:36.273999+00:00
- - user: None
- - tags: ['personal']
-
-## Dustin Main's A Skinny Escape
- - [https://dustinmain.com](https://dustinmain.com)
- - date published: 2023-11-16T20:40:58.860267+00:00
- - user: None
- - tags: ['personal']
-
-## Kapil Dutta - Blog
- - [https://duttakapil.com](https://duttakapil.com)
- - date published: 2023-11-18T19:08:01.389864+00:00
- - user: None
- - tags: ['personal']
-
-## Duvar English
- - [https://www.duvarenglish.com](https://www.duvarenglish.com)
- - date published: 2023-10-25T14:00:07.518414+00:00
- - user: None
- - tags: []
-
-## https://p.dw.com
- - [https://p.dw.com](https://p.dw.com)
- - date published: 2023-11-04T11:47:38.546816+00:00
- - user: None
- - tags: []
-
-## https://www.dw.com
- - [https://www.dw.com](https://www.dw.com)
- - date published: 2023-10-25T10:26:00.082237+00:00
- - user: None
- - tags: []
-
-## Dwell House – Design Delivered to Your Backyard
- - [https://house.dwell.com](https://house.dwell.com)
- - date published: 2023-10-25T14:00:08.441249+00:00
- - user: None
- - tags: []
-
-## Modern living, home design ideas, inspiration, and advice. - Dwell
- - [https://www.dwell.com](https://www.dwell.com)
- - date published: 2023-10-25T14:00:13.975793+00:00
- - user: None
- - tags: []
-
-## Dyalog APL - D-functions
- - [https://dfns.dyalog.com](https://dfns.dyalog.com)
- - date published: 2023-10-25T14:00:19.708737+00:00
- - user: None
- - tags: []
-
-## Dyalog - Home
- - [https://www.dyalog.com](https://www.dyalog.com)
- - date published: 2023-10-25T14:00:26.538339+00:00
- - user: None
- - tags: []
-
-## Dying Light 2 – Official website
- - [https://dyinglightgame.com](https://dyinglightgame.com)
- - date published: 2023-10-30T18:27:03.121972+00:00
- - user: None
- - tags: ['game']
-
-## Dylan Paulus
- - [https://www.dylanpaulus.com](https://www.dylanpaulus.com)
- - date published: 2023-10-25T14:00:27.457944+00:00
- - user: None
- - tags: []
-
-## Developer Documentation | Dylibso Developer Resources
- - [https://dev.dylibso.com](https://dev.dylibso.com)
- - date published: 2023-10-25T14:00:28.218108+00:00
- - user: None
- - tags: []
-
-## Welcome!
- - [https://dylibso.com](https://dylibso.com)
- - date published: 2023-10-25T14:00:29.744674+00:00
- - user: None
- - tags: []
-
-## My Dyn Account
- - [https://account.dyn.com](https://account.dyn.com)
- - date published: 2023-10-31T10:25:32.543241+00:00
- - user: None
- - tags: ['dns']
-
-## dys2p
- - [https://dys2p.com](https://dys2p.com)
- - date published: 2023-10-25T14:00:30.903688+00:00
- - user: None
- - tags: []
-
-## Science & technology experiments | coding, data science, ml, cloud, greentech
- - [https://dzidas.com](https://dzidas.com)
- - date published: 2023-10-25T14:00:31.747355+00:00
- - user: None
- - tags: []
-
-## e-Discovery Team | LAW and TECHNOLOGY – Ralph Losey © 2006-2023
- - [https://e-discoveryteam.com](https://e-discoveryteam.com)
- - date published: 2023-10-25T14:00:41.659209+00:00
- - user: None
- - tags: []
-
-## E-Scribe
- - [https://news.e-scribe.com](https://news.e-scribe.com)
- - date published: 2023-10-25T14:00:47.197415+00:00
- - user: None
- - tags: []
-
-## Electronic Arts Home Page - Official EA Site
- - [https://www.ea.com](https://www.ea.com)
- - date published: 2023-10-25T11:27:58.776792+00:00
- - user: None
- - tags: ['fifa', 'company', 'nfl', 'nhl']
-
-## EarlyGame | Your Gaming & Entertainment Hub – News, Guides, Reviews
- - [https://earlygame.com](https://earlygame.com)
- - date published: 2023-10-25T14:00:56.838769+00:00
- - user: None
- - tags: []
-
-## Earslap · Procedural music, art, computation and some other things.
- - [https://earslap.com](https://earslap.com)
- - date published: 2023-10-25T14:00:58.732573+00:00
- - user: None
- - tags: []
-
-## Earth.com -- Earth News, Earth Images, Earth Videos
- - [https://www.earth.com](https://www.earth.com)
- - date published: 2023-10-25T14:01:16.285697+00:00
- - user: None
- - tags: []
-
-## Earth Primer
- - [https://www.earthprimer.com](https://www.earthprimer.com)
- - date published: 2023-10-25T14:01:18.466870+00:00
- - user: None
- - tags: []
-
-## EastFruit - информация о рынке овощей, фруктов, ягод и орехов
- - [https://east-fruit.com](https://east-fruit.com)
- - date published: 2023-10-25T14:01:24.698515+00:00
- - user: None
- - tags: []
-
-## Easy Digging Hand Tools for Garden + Farming + Trenching
- - [https://www.easydigging.com](https://www.easydigging.com)
- - date published: 2023-10-25T14:01:31.165074+00:00
- - user: None
- - tags: []
-
-## easyDNS - DNS, Domains, Web and Email Hosting Since 1998
- - [https://easydns.com](https://easydns.com)
- - date published: 2023-10-25T14:01:35.145015+00:00
- - user: None
- - tags: []
-
-## Easyful | Sell digital products with no delivery fees.
- - [https://www.easyful.com](https://www.easyful.com)
- - date published: 2023-10-25T14:01:40.494517+00:00
- - user: None
- - tags: []
-
-## The Simple Shipping API - EasyPost
- - [https://www.easypost.com](https://www.easypost.com)
- - date published: 2023-10-25T14:01:43.825100+00:00
- - user: None
- - tags: []
-
-## Eater
- - [https://www.eater.com](https://www.eater.com)
- - date published: 2023-10-25T14:01:59.739762+00:00
- - user: None
- - tags: []
-
-## Eaton Works
- - [https://eaton-works.com](https://eaton-works.com)
- - date published: 2023-10-25T14:02:01.830568+00:00
- - user: None
- - tags: []
-
-## Lists
- - [https://lists.eatonphil.com](https://lists.eatonphil.com)
- - date published: 2023-11-10T16:43:03.630097+00:00
- - user: None
- - tags: []
-
-## Notes on software development | notes.eatonphil.com
- - [https://notes.eatonphil.com](https://notes.eatonphil.com)
- - date published: 2023-10-25T14:02:07.570734+00:00
- - user: None
- - tags: []
-
-## Tech Blog - eBay Inc.
- - [https://tech.ebayinc.com](https://tech.ebayinc.com)
- - date published: 2023-10-25T14:02:57.410323+00:00
- - user: None
- - tags: []
-
-## Ebola Outbreak Information
- - [https://blog.ebola-cases.com](https://blog.ebola-cases.com)
- - date published: 2023-10-25T14:03:06.243885+00:00
- - user: None
- - tags: []
-
-## eBooks.com: Buy Fiction, Non-Fiction, and Textbooks Online
- - [https://www.ebooks.com](https://www.ebooks.com)
- - date published: 2023-10-25T08:24:01.860726+00:00
- - user: None
- - tags: []
-
-## Echoes of Somewhere - Generative AI assisted experimental freeware 2.5D point and click adventure game research project
- - [https://echoesofsomewhere.com](https://echoesofsomewhere.com)
- - date published: 2023-10-25T14:03:11.162968+00:00
- - user: None
- - tags: []
-
-## EchoNewsHub » Latest World News, Entertainment, Business, Sports News, Celebrity Gossip
- - [https://echonewshub.com](https://echonewshub.com)
- - date published: 2023-10-25T14:03:15.908775+00:00
- - user: None
- - tags: []
-
-## EcommerceBytes - The leader of ecommerce news and information for online sellers. - EcommerceBytes
- - [https://www.ecommercebytes.com](https://www.ecommercebytes.com)
- - date published: 2023-10-25T14:03:19.723596+00:00
- - user: None
- - tags: []
-
-## Economics from the Top Down – New ideas in economics and the social sciences
- - [https://economicsfromthetopdown.com](https://economicsfromthetopdown.com)
- - date published: 2023-10-25T14:03:29.238084+00:00
- - user: None
- - tags: []
-
-## The Economist | World News, Economics, Politics, Business & Finance
- - [https://www.economist.com](https://www.economist.com)
- - date published: 2023-10-25T10:52:28.321933+00:00
- - user: None
- - tags: []
-
-## EcoWatch - For a Healthier Planet and Life
- - [https://www.ecowatch.com](https://www.ecowatch.com)
- - date published: 2023-11-14T16:19:51.776883+00:00
- - user: None
- - tags: []
-
-## https://www.edbatista.com
- - [https://www.edbatista.com](https://www.edbatista.com)
- - date published: 2023-10-25T14:03:32.487029+00:00
- - user: None
- - tags: []
-
-## Eddie Hinkle - Software engineer, manager and podcaster
- - [https://eddiehinkle.com](https://eddiehinkle.com)
- - date published: 2023-10-25T08:45:27.005913+00:00
- - user: None
- - tags: ['personal']
-
-## ederson melo
- - [https://www.edersonmelo.com](https://www.edersonmelo.com)
- - date published: 2023-11-29T15:29:43.227842+00:00
- - user: None
- - tags: ['personal']
-
-## Official website of ERB Inc., creator of Tarzan®, Moon Men™, John Carter of Mars® and more! > Edgar Rice Burroughs
- - [https://www.edgarriceburroughs.com](https://www.edgarriceburroughs.com)
- - date published: 2023-10-28T16:09:33.391259+00:00
- - user: None
- - tags: []
-
-## EdgeDB | The post-SQL era has arrived
- - [https://www.edgedb.com](https://www.edgedb.com)
- - date published: 2023-11-02T00:30:12.643448+00:00
- - user: None
- - tags: []
-
-## https://support.edifabric.com
- - [https://support.edifabric.com](https://support.edifabric.com)
- - date published: 2023-10-25T14:03:33.925479+00:00
- - user: None
- - tags: []
-
 ## Home - Edison Research
  - [https://www.edisonresearch.com](https://www.edisonresearch.com)
  - date published: 2023-10-25T14:03:36.948928+00:00
@@ -1067,6 +719,12 @@
  - tags: []
 
 ## Title to Come | The ramblings of Eric J. Gruber
+ - [http://ericjgruber.com](http://ericjgruber.com)
+ - date published: 2023-11-29T20:44:34.573877+00:00
+ - user: None
+ - tags: ['personal']
+
+## Title to Come | The ramblings of Eric J. Gruber
  - [https://ericjgruber.com](https://ericjgruber.com)
  - date published: 2023-11-29T20:44:37.414875+00:00
  - user: None
@@ -1089,6 +747,12 @@
  - date published: 2023-10-25T08:45:31.050993+00:00
  - user: None
  - tags: ['personal']
+
+## About Erika Hammerschmidt
+ - [https://www.erikahammerschmidt.com](https://www.erikahammerschmidt.com)
+ - date published: 2023-11-03T00:47:50+00:00
+ - user: rumpel
+ - tags: []
 
 ## About Erika Hammerschmidt
  - [http://www.erikahammerschmidt.com](http://www.erikahammerschmidt.com)
@@ -1423,6 +1087,12 @@
 ## Haste Makes Waste – Sincerity is a required field.
  - [https://evhaste.com](https://evhaste.com)
  - date published: 2023-10-25T14:13:02.024394+00:00
+ - user: None
+ - tags: []
+
+## Evidently AI - Open-Source ML Monitoring and Observability
+ - [https://www.evidentlyai.com](https://www.evidentlyai.com)
+ - date published: 2023-12-04T18:56:13.489060+00:00
  - user: None
  - tags: []
 
@@ -4206,6 +3876,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: ['gatekeeper', 'app platform']
 
+## Grimoire: Open-Source bookmark manager with extra features
+ - [https://github.com/goniszewski/grimoire](https://github.com/goniszewski/grimoire)
+ - date published: 2023-11-26T08:04:54+00:00
+ - user: rumpel
+ - tags: ['open source', 'bookmark manager']
+
 ## GitHub Pages
  - [https://pages.github.com](https://pages.github.com)
  - date published: 2023-10-25T08:40:58.526731+00:00
@@ -4299,6 +3975,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Gitta Wolf
  - [https://gittawolf.com](https://gittawolf.com)
  - date published: 2023-11-29T14:42:14.713737+00:00
+ - user: None
+ - tags: ['personal']
+
+## GiveLiveExplore – The Blog of Matthew Trinetti
+ - [http://www.giveliveexplore.com](http://www.giveliveexplore.com)
+ - date published: 2023-11-29T14:18:09.442385+00:00
  - user: None
  - tags: ['personal']
 
@@ -4452,6 +4134,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Anxiety & Panic Attack Relief App - Calmer
+ - [https://gocalmer.com](https://gocalmer.com)
+ - date published: 2023-12-04T09:53:04.020464+00:00
+ - user: None
+ - tags: []
+
 ## Today's Comics Online | Read Comic Strips at GoComics
  - [https://www.gocomics.com](https://www.gocomics.com)
  - date published: 2023-10-25T11:30:13.545385+00:00
@@ -4497,6 +4185,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Goldman Sachs
  - [https://www.goldmansachs.com](https://www.goldmansachs.com)
  - date published: 2023-10-25T11:29:34.688123+00:00
+ - user: None
+ - tags: []
+
+## Cosmos
+ - [https://blog.golivecosmos.com](https://blog.golivecosmos.com)
+ - date published: 2023-12-04T05:53:51.907947+00:00
  - user: None
  - tags: []
 
@@ -5994,6 +5688,312 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Sarasota Herald-Tribune: Local News, Politics & Sports in Sarasota, FL
  - [https://www.heraldtribune.com](https://www.heraldtribune.com)
  - date published: 2023-10-25T14:58:17.400791+00:00
+ - user: None
+ - tags: []
+
+## Herb Caudill | Words
+ - [https://herbcaudill.com](https://herbcaudill.com)
+ - date published: 2023-10-25T14:58:20.467859+00:00
+ - user: None
+ - tags: []
+
+## Herbert Bay
+ - [https://herbertbay.com](https://herbertbay.com)
+ - date published: 2023-12-03T15:55:40.583123+00:00
+ - user: None
+ - tags: ['personal']
+
+## @hgraca
+ - [https://herbertograca.com](https://herbertograca.com)
+ - date published: 2023-10-25T14:58:23.339271+00:00
+ - user: None
+ - tags: []
+
+## Sutter’s Mill – Herb Sutter on software development
+ - [https://herbsutter.com](https://herbsutter.com)
+ - date published: 2023-10-25T14:58:30.195792+00:00
+ - user: None
+ - tags: []
+
+## HeritageDaily - Archaeology News | Latest archaeology news, archaeological discoveries from across the globe
+ - [https://www.heritagedaily.com](https://www.heritagedaily.com)
+ - date published: 2023-10-25T14:58:36.549810+00:00
+ - user: None
+ - tags: []
+
+## Silver Repair, Restoration, Silver Conservation, Preservation, and Silver Polishing
+ - [https://www.hermansilver.com](https://www.hermansilver.com)
+ - date published: 2023-10-25T14:58:39.464535+00:00
+ - user: None
+ - tags: []
+
+## Hero Forge Custom Miniatures
+ - [https://www.heroforge.com](https://www.heroforge.com)
+ - date published: 2023-10-27T07:55:17.345776+00:00
+ - user: None
+ - tags: ['tabletop games', 'shop', 'miniatures']
+
+## Heroic Games Launcher
+ - [https://heroicgameslauncher.com](https://heroicgameslauncher.com)
+ - date published: 2023-10-25T08:35:38.409049+00:00
+ - user: None
+ - tags: []
+
+## Heroku Status
+ - [https://status.heroku.com](https://status.heroku.com)
+ - date published: 2023-10-25T14:58:40.059197+00:00
+ - user: None
+ - tags: []
+
+## Retirement : How Fucked are you?
+ - [https://how-f-cked-are-you-98ab6cdc8944.herokuapp.com](https://how-f-cked-are-you-98ab6cdc8944.herokuapp.com)
+ - date published: 2023-10-25T08:34:37.665445+00:00
+ - user: None
+ - tags: []
+
+## Herr Bischoff's Git Repository
+ - [https://git.herrbischoff.com](https://git.herrbischoff.com)
+ - date published: 2023-10-25T14:58:40.779367+00:00
+ - user: None
+ - tags: []
+
+## Hertzbleed Attack
+ - [https://www.hertzbleed.com](https://www.hertzbleed.com)
+ - date published: 2023-10-25T14:58:41.738606+00:00
+ - user: None
+ - tags: []
+
+## Dedicated Server, Cloud, Storage & Hosting - Hetzner Online GmbH
+ - [https://www.hetzner.com](https://www.hetzner.com)
+ - date published: 2023-10-25T14:58:44.600683+00:00
+ - user: None
+ - tags: []
+
+## Hexatrek : The long distance thru hike in France
+ - [https://en.hexatrek.com](https://en.hexatrek.com)
+ - date published: 2023-10-25T14:58:50.200134+00:00
+ - user: None
+ - tags: []
+
+## Hexmos Journal
+ - [https://journal.hexmos.com](https://journal.hexmos.com)
+ - date published: 2023-11-12T15:06:10.696477+00:00
+ - user: None
+ - tags: []
+
+## Hexops' devlog
+ - [https://devlog.hexops.com](https://devlog.hexops.com)
+ - date published: 2023-10-25T14:58:51.147852+00:00
+ - user: None
+ - tags: []
+
+## HEXRPG | The Interactive Harry Potter Fan Site Experience
+ - [https://www.hexrpg.com](https://www.hexrpg.com)
+ - date published: 2023-10-25T14:09:40.831962+00:00
+ - user: None
+ - tags: []
+
+## http://world.hey.com
+ - [http://world.hey.com](http://world.hey.com)
+ - date published: 2023-10-25T14:58:55.776264+00:00
+ - user: None
+ - tags: []
+
+## Hey Alma
+ - [https://www.heyalma.com](https://www.heyalma.com)
+ - date published: 2023-11-20T10:23:27+00:00
+ - user: rumpel
+ - tags: ['israel', 'jewish news']
+
+## Hey Homepage - Do-It-Yourself Website Builder - Free Website for Everybody!
+ - [https://www.heyhomepage.com](https://www.heyhomepage.com)
+ - date published: 2023-10-25T14:58:57.194283+00:00
+ - user: None
+ - tags: []
+
+## HeyInnovations — Digital Product Agency. App Development Company USA
+ - [https://heyinnovations.com](https://heyinnovations.com)
+ - date published: 2023-10-25T14:59:05.852137+00:00
+ - user: None
+ - tags: []
+
+## SaaS Growth & Marketing On Autopilot
+ - [https://www.heymarketcurve.com](https://www.heymarketcurve.com)
+ - date published: 2023-10-25T14:59:10.290950+00:00
+ - user: None
+ - tags: []
+
+## https://heypi.com
+ - [https://heypi.com](https://heypi.com)
+ - date published: 2023-10-25T14:59:12.202317+00:00
+ - user: None
+ - tags: []
+
+## Home :  Stereogram Images, Games, Video and Software. All Free!
+ - [https://hidden-3d.com](https://hidden-3d.com)
+ - date published: 2023-10-25T14:59:14.721828+00:00
+ - user: None
+ - tags: []
+
+## Home, Hildebranski.com
+ - [https://hildebranski.com](https://hildebranski.com)
+ - date published: 2023-11-29T17:12:27.118132+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Office of Hillary Rodham Clinton
+ - [https://www.hillaryclinton.com](https://www.hillaryclinton.com)
+ - date published: 2023-11-03T13:51:13.846449+00:00
+ - user: None
+ - tags: ['vip']
+
+## Hillel Wayne
+ - [https://www.hillelwayne.com](https://www.hillelwayne.com)
+ - date published: 2023-10-25T09:20:37.103409+00:00
+ - user: None
+ - tags: ['personal']
+
+## HILOBROW – Josh Glenn, ed.
+ - [https://www.hilobrow.com](https://www.hilobrow.com)
+ - date published: 2023-11-25T18:10:06.316995+00:00
+ - user: None
+ - tags: ['science fiction', 'personal', 'books', 'blog', 'scifi']
+
+## Hindenburg Research – Investigative Research & Reporting
+ - [https://hindenburgresearch.com](https://hindenburgresearch.com)
+ - date published: 2023-10-25T14:59:22.875020+00:00
+ - user: None
+ - tags: []
+
+## Technology News: Latest tech news on New Mobile Phones, Laptops, Gadgets
+ - [https://tech.hindustantimes.com](https://tech.hindustantimes.com)
+ - date published: 2023-11-22T06:57:51+00:00
+ - user: rumpel
+ - tags: ['tech news']
+
+## News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times
+ - [https://www.hindustantimes.com](https://www.hindustantimes.com)
+ - date published: 2023-10-25T10:44:25.190390+00:00
+ - user: None
+ - tags: ['tech news', 'india news']
+
+## Hired - Job Search Marketplace. Tech Job Hunting Simplified!
+ - [https://hired.com](https://hired.com)
+ - date published: 2023-10-25T14:59:29.185613+00:00
+ - user: None
+ - tags: []
+
+## Historic UK - The History Magazine & Heritage Accommodation Guide
+ - [https://www.historic-uk.com](https://www.historic-uk.com)
+ - date published: 2023-10-25T14:59:34.895338+00:00
+ - user: None
+ - tags: []
+
+## HISTORY | Watch Full Episodes of Your Favorite Shows
+ - [https://www.history.com](https://www.history.com)
+ - date published: 2023-10-25T14:59:41.102326+00:00
+ - user: None
+ - tags: ['video streaming', 'history']
+
+## History Hit
+ - [https://www.historyhit.com](https://www.historyhit.com)
+ - date published: 2023-10-25T14:59:46.275766+00:00
+ - user: None
+ - tags: []
+
+## HistoryNet: Your Authoritative Source for U.S. & World History
+ - [https://www.historynet.com](https://www.historynet.com)
+ - date published: 2023-10-25T14:59:55.420364+00:00
+ - user: None
+ - tags: []
+
+## History Today | The World’s Leading Serious History Magazine
+ - [https://www.historytoday.com](https://www.historytoday.com)
+ - date published: 2023-10-25T15:00:01.244062+00:00
+ - user: None
+ - tags: []
+
+## Movies Based on True Stories - History vs. Hollywood
+ - [https://www.historyvshollywood.com](https://www.historyvshollywood.com)
+ - date published: 2023-10-25T15:00:04.708314+00:00
+ - user: None
+ - tags: []
+
+## H I Sutton - Covert Shores
+ - [http://www.hisutton.com](http://www.hisutton.com)
+ - date published: 2023-10-25T15:00:10.404144+00:00
+ - user: None
+ - tags: []
+
+## About - HitchDev
+ - [https://hitchdev.com](https://hitchdev.com)
+ - date published: 2023-10-25T08:30:59.706827+00:00
+ - user: None
+ - tags: []
+
+## #1 Warcraft 3 Reforged Modding Community | HIVE
+ - [https://www.hiveworkshop.com](https://www.hiveworkshop.com)
+ - date published: 2023-10-25T11:51:06.417742+00:00
+ - user: None
+ - tags: []
+
+## Harry Marr
+ - [https://hmarr.com](https://hmarr.com)
+ - date published: 2023-10-25T15:00:11.023028+00:00
+ - user: None
+ - tags: []
+
+## Hacker News Follow
+ - [https://www.hnfollow.com](https://www.hnfollow.com)
+ - date published: 2023-10-25T15:00:12.449790+00:00
+ - user: None
+ - tags: []
+
+## http://www.hnhiringtrends.com
+ - [http://www.hnhiringtrends.com](http://www.hnhiringtrends.com)
+ - date published: 2023-10-25T15:00:12.866949+00:00
+ - user: None
+ - tags: []
+
+## HN Resume to Jobs
+ - [https://hnresumetojobs.com](https://hnresumetojobs.com)
+ - date published: 2023-10-25T15:00:14.742754+00:00
+ - user: None
+ - tags: []
+
+## https://www.hobbylobby.com
+ - [https://www.hobbylobby.com](https://www.hobbylobby.com)
+ - date published: 2023-11-01T18:11:09.311057+00:00
+ - user: None
+ - tags: ['miniatures', 'sculpting', 'hobby']
+
+## Kelly Hobkirk portfolio - Seattle graphic designer
+ - [http://www.hobkirkdesign.com](http://www.hobkirkdesign.com)
+ - date published: 2023-11-29T14:23:29.915498+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kelly Hobkirk portfolio - Seattle graphic designer
+ - [https://www.hobkirkdesign.com](https://www.hobkirkdesign.com)
+ - date published: 2023-11-29T14:23:31.668593+00:00
+ - user: None
+ - tags: []
+
+## Hodinkee
+ - [https://www.hodinkee.com](https://www.hodinkee.com)
+ - date published: 2023-10-25T15:00:20.442749+00:00
+ - user: None
+ - tags: []
+
+## ENIGMA M4 - Breaking German Navy Ciphers
+ - [https://enigma.hoerenberg.com](https://enigma.hoerenberg.com)
+ - date published: 2023-10-25T15:00:22.325938+00:00
+ - user: None
+ - tags: []
+
+## Hog Bay Software
+ - [https://www.hogbaysoftware.com](https://www.hogbaysoftware.com)
+ - date published: 2023-10-25T15:00:23.370446+00:00
  - user: None
  - tags: []
 

@@ -1,256 +1,3 @@
-## Lucas F. Costa
- - [https://lucasfcosta.com](https://lucasfcosta.com)
- - date published: 2023-10-25T15:51:57.487195+00:00
- - user: None
- - tags: []
-
-## Lucasfilm Ltd. | Lucasfilm.com
- - [https://www.lucasfilm.com](https://www.lucasfilm.com)
- - date published: 2023-11-13T12:54:57.302300+00:00
- - user: None
- - tags: ['movie studio']
-
-## Random thoughts from Lucas Kostka
- - [https://lucaskostka.com](https://lucaskostka.com)
- - date published: 2023-10-25T15:51:58.719723+00:00
- - user: None
- - tags: []
-
-## Lucas' Blog
- - [https://lucaspauker.com](https://lucaspauker.com)
- - date published: 2023-10-25T15:51:59.452646+00:00
- - user: None
- - tags: []
-
-## Lucidity
- - [https://luciditysystems.com](https://luciditysystems.com)
- - date published: 2023-10-25T15:52:03.701234+00:00
- - user: None
- - tags: []
-
-## Investor Relations | Lucid Group, Inc.
- - [https://ir.lucidmotors.com](https://ir.lucidmotors.com)
- - date published: 2023-10-25T15:52:13.846409+00:00
- - user: None
- - tags: []
-
-## Nicholas Fraser
- - [https://ludocode.com](https://ludocode.com)
- - date published: 2023-10-25T15:52:14.415437+00:00
- - user: None
- - tags: []
-
-## Anti-Mimetic | Luke Burgis | Substack
- - [https://read.lukeburgis.com](https://read.lukeburgis.com)
- - date published: 2023-10-25T15:52:17.870193+00:00
- - user: None
- - tags: []
-
-## LUKHASH | www.lukhash.com
- - [https://lukhash.com](https://lukhash.com)
- - date published: 2023-10-30T13:31:43.558214+00:00
- - user: None
- - tags: ['music band']
-
-## LUKHASH | www.lukhash.com
- - [https://www.lukhash.com](https://www.lukhash.com)
- - date published: 2023-10-25T08:46:51.148308+00:00
- - user: None
- - tags: ['amiga', 'personal', 'keygen', 'demoscene', 'chiptune']
-
-## Lumafield | Industrial CT and AI inspection for engineers
- - [https://www.lumafield.com](https://www.lumafield.com)
- - date published: 2023-10-25T15:52:20.330084+00:00
- - user: None
- - tags: []
-
-## Lumina Decision Systems - Analytics Software - Visual Modeling
- - [https://lumina.com](https://lumina.com)
- - date published: 2023-10-25T15:52:25.040973+00:00
- - user: None
- - tags: []
-
-## Lung Cancer Answers | Compensation & Resources for Lung Cancer Victims
- - [https://www.lung-cancer.com](https://www.lung-cancer.com)
- - date published: 2023-10-25T15:52:34.810836+00:00
- - user: None
- - tags: []
-
-## Lushprojects.com - A feast of electronic fun, education and
-diversions.
- - [https://lushprojects.com](https://lushprojects.com)
- - date published: 2023-10-25T15:52:37.140335+00:00
- - user: None
- - tags: []
-
-## We Want it All. - Lux Magazine
- - [https://lux-magazine.com](https://lux-magazine.com)
- - date published: 2023-10-25T15:52:39.543863+00:00
- - user: None
- - tags: []
-
-## ..::LvL - Quake 3 Arena Maps (Q3A Custom Maps)
- - [https://lvlworld.com](https://lvlworld.com)
- - date published: 2023-10-27T13:48:04.565038+00:00
- - user: None
- - tags: []
-
-## Lyft Engineering
- - [https://eng.lyft.com](https://eng.lyft.com)
- - date published: 2023-10-25T15:52:56.040719+00:00
- - user: None
- - tags: []
-
-## Lyft: A ride whenever you need one
- - [https://www.lyft.com](https://www.lyft.com)
- - date published: 2023-10-25T15:53:08.852973+00:00
- - user: None
- - tags: []
-
-## Borys - Home
- - [https://www.lykahb.com](https://www.lykahb.com)
- - date published: 2023-10-25T15:53:09.438218+00:00
- - user: None
- - tags: []
-
-## Lyn Alden - Investment Strategy
- - [https://www.lynalden.com](https://www.lynalden.com)
- - date published: 2023-10-25T15:53:11.716855+00:00
- - user: None
- - tags: []
-
-## M31 Coding - Computing & Education
- - [https://www.m31coding.com](https://www.m31coding.com)
- - date published: 2023-10-25T15:53:13.527545+00:00
- - user: None
- - tags: []
-
-## Mac Chaffee
- - [https://www.macchaffee.com](https://www.macchaffee.com)
- - date published: 2023-10-25T15:53:14.050016+00:00
- - user: None
- - tags: []
-
-## Home - Mac DeMarco
- - [https://www.macdemarco.com](https://www.macdemarco.com)
- - date published: 2023-11-13T09:51:06.757247+00:00
- - user: None
- - tags: ['music band']
-
-## http://basalgangster.macgui.com
- - [http://basalgangster.macgui.com](http://basalgangster.macgui.com)
- - date published: 2023-12-02T11:50:35.209177+00:00
- - user: None
- - tags: []
-
-## Machine Learning Mastery
- - [https://machinelearningmastery.com](https://machinelearningmastery.com)
- - date published: 2023-10-25T15:53:15.792931+00:00
- - user: None
- - tags: []
-
-## Store
- - [https://edu.machinelearningplus.com](https://edu.machinelearningplus.com)
- - date published: 2023-10-25T15:53:20.695196+00:00
- - user: None
- - tags: []
-
-## Macmillan Teaching Learning Community
- - [https://community.macmillanlearning.com](https://community.macmillanlearning.com)
- - date published: 2023-10-25T15:53:25.295893+00:00
- - user: None
- - tags: []
-
-## Macon Breaking News & Crime | Macon Telegraph
- - [https://www.macon.com](https://www.macon.com)
- - date published: 2023-10-25T15:53:29.296276+00:00
- - user: None
- - tags: []
-
-## macOS Automation
- - [https://www.macosxautomation.com](https://www.macosxautomation.com)
- - date published: 2023-10-25T15:53:32.819790+00:00
- - user: None
- - tags: []
-
-## Mac Pierce
- - [https://www.macpierce.com](https://www.macpierce.com)
- - date published: 2023-10-25T15:53:34.169750+00:00
- - user: None
- - tags: []
-
-## SIGPIPE 13
- - [https://sigpipe.macromates.com](https://sigpipe.macromates.com)
- - date published: 2023-10-25T15:53:36.166580+00:00
- - user: None
- - tags: []
-
-## MacRumors Forums
- - [https://forums.macrumors.com](https://forums.macrumors.com)
- - date published: 2023-10-25T15:53:41.865723+00:00
- - user: None
- - tags: []
-
-## MacRumors: Apple News and Rumors
- - [https://www.macrumors.com](https://www.macrumors.com)
- - date published: 2023-10-25T09:34:00.797658+00:00
- - user: None
- - tags: []
-
-## Macworld - News, Tips & Reviews from the Apple Experts
- - [https://www.macworld.com](https://www.macworld.com)
- - date published: 2023-10-25T09:34:02.695903+00:00
- - user: None
- - tags: []
-
-## macwright.com
- - [http://macwright.com](http://macwright.com)
- - date published: 2023-10-25T08:46:52.701354+00:00
- - user: None
- - tags: ['personal']
-
-## Maddyness - Le média pour comprendre l'économie de demain
- - [https://www.maddyness.com](https://www.maddyness.com)
- - date published: 2023-10-25T15:53:45.055388+00:00
- - user: None
- - tags: []
-
-## Made by Evan
- - [https://madebyevan.com](https://madebyevan.com)
- - date published: 2023-10-25T15:53:46.773357+00:00
- - user: None
- - tags: []
-
-## Made By Nathan
- - [https://madebynathan.com](https://madebynathan.com)
- - date published: 2023-10-25T15:53:47.605821+00:00
- - user: None
- - tags: []
-
-## madhadron
- - [https://madhadron.com](https://madhadron.com)
- - date published: 2023-10-25T15:53:47.981055+00:00
- - user: None
- - tags: []
-
-## Mad in America - Science, Psychiatry and Social Justice
- - [https://www.madinamerica.com](https://www.madinamerica.com)
- - date published: 2023-10-25T15:53:54.658657+00:00
- - user: None
- - tags: []
-
-## madison.com | Read Madison, WI and Wisconsin breaking news. Get latest news, events and information on Wisconsin sports, weather, entertainment and lifestyles.
- - [https://madison.com](https://madison.com)
- - date published: 2023-11-11T17:19:47.528171+00:00
- - user: None
- - tags: []
-
-## Choose the Best Self-Directed IRA Company and Get Control of Your Retirement Investments
- - [https://www.madisontrust.com](https://www.madisontrust.com)
- - date published: 2023-10-25T15:53:58.634735+00:00
- - user: None
- - tags: []
-
 ## Mad Micas | Premium Mica and Colorants for Makers
  - [https://www.madmicas.com](https://www.madmicas.com)
  - date published: 2023-10-25T15:54:08.960044+00:00
@@ -372,6 +119,12 @@ diversions.
  - tags: ['tech', 'creators', '3d printing', 'sbc']
 
 ## Making It with Chris G.
+ - [http://www.makingitwithchrisg.com](http://www.makingitwithchrisg.com)
+ - date published: 2023-11-29T17:12:51.458225+00:00
+ - user: None
+ - tags: ['personal']
+
+## Making It with Chris G.
  - [https://www.makingitwithchrisg.com](https://www.makingitwithchrisg.com)
  - date published: 2023-11-29T17:12:52.483030+00:00
  - user: None
@@ -400,6 +153,12 @@ diversions.
  - date published: 2023-10-25T15:54:59.336261+00:00
  - user: None
  - tags: ['tech services', 'corporation']
+
+## MambaOnline - Gay South Africa online
+ - [http://www.mambaonline.com](http://www.mambaonline.com)
+ - date published: 2023-11-26T08:46:18.407706+00:00
+ - user: None
+ - tags: []
 
 ## MambaOnline - Gay South Africa online
  - [https://www.mambaonline.com](https://www.mambaonline.com)
@@ -2196,6 +1955,12 @@ diversions.
  - user: None
  - tags: []
 
+## Mete Balci
+ - [https://metebalci.com](https://metebalci.com)
+ - date published: 2023-12-04T15:32:44.461644+00:00
+ - user: None
+ - tags: []
+
 ## Meteosource - The Global Weather API & Mapping Platform - current weather and forecast data
  - [https://www.meteosource.com](https://www.meteosource.com)
  - date published: 2023-10-25T16:02:04.837084+00:00
@@ -2351,6 +2116,12 @@ diversions.
  - date published: 2023-11-29T17:16:25.427969+00:00
  - user: None
  - tags: ['seo', 'personal']
+
+## Michel Griffin - [En]chanteur franglais
+ - [http://www.michelgriffin.com](http://www.michelgriffin.com)
+ - date published: 2023-11-29T17:09:13.582707+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Michel Griffin - [En]chanteur franglais
  - [https://www.michelgriffin.com](https://www.michelgriffin.com)
@@ -3204,6 +2975,12 @@ diversions.
  - user: None
  - tags: []
 
+## Motherfucking Website
+ - [https://motherfuckingwebsite.com](https://motherfuckingwebsite.com)
+ - date published: 2023-11-17T18:03:41+00:00
+ - user: rumpel
+ - tags: ['funny', 'wtf', 'internet']
+
 ## Mother Jones – Smart, fearless journalism
  - [https://www.motherjones.com](https://www.motherjones.com)
  - date published: 2023-10-25T16:07:37.660102+00:00
@@ -3778,7 +3555,7 @@ diversions.
  - [https://nationalpost.com](https://nationalpost.com)
  - date published: 2023-10-25T16:12:03.903762+00:00
  - user: None
- - tags: []
+ - tags: ['news']
 
 ## National Review: Conservative News, Opinion, Politics, Policy, & Current Events
  - [https://www.nationalreview.com](https://www.nationalreview.com)
@@ -4344,6 +4121,12 @@ diversions.
  - user: None
  - tags: []
 
+## Access Restricted
+ - [https://www.newsnationnow.com](https://www.newsnationnow.com)
+ - date published: 2023-12-04T22:16:13.156355+00:00
+ - user: None
+ - tags: []
+
 ## NewsNotFound | AI Powered, Unbiased News | Information, not indoctrination
  - [https://newsnotfound.com](https://newsnotfound.com)
  - date published: 2023-10-25T16:17:30.224458+00:00
@@ -4541,6 +4324,12 @@ diversions.
  - date published: 2023-10-25T16:18:55.075225+00:00
  - user: None
  - tags: []
+
+## Front Page - Nick LaToof
+ - [http://www.nicklatoof.com](http://www.nicklatoof.com)
+ - date published: 2023-11-29T15:47:36.228635+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Front Page - Nick LaToof
  - [https://www.nicklatoof.com](https://www.nicklatoof.com)
@@ -5316,6 +5105,12 @@ Answering Machine Greetings!
  - tags: []
 
 ## Al Nyveldt
+ - [http://nyveldt.com](http://nyveldt.com)
+ - date published: 2023-11-29T17:18:38.761262+00:00
+ - user: None
+ - tags: ['personal']
+
+## Al Nyveldt
  - [https://nyveldt.com](https://nyveldt.com)
  - date published: 2023-11-29T17:18:39.669722+00:00
  - user: None
@@ -5344,6 +5139,12 @@ Answering Machine Greetings!
  - date published: 2023-10-25T16:23:53.272979+00:00
  - user: None
  - tags: []
+
+## O'Brien Communications- Top Pittsburgh PR Firm, Ranked one of the Best PR Firms in Pittsburgh
+ - [http://obriencommunications.com](http://obriencommunications.com)
+ - date published: 2023-11-29T13:55:55.085532+00:00
+ - user: None
+ - tags: ['personal']
 
 ## O'Brien Communications- Top Pittsburgh PR Firm, Ranked one of the Best PR Firms in Pittsburgh
  - [https://obriencommunications.com](https://obriencommunications.com)
@@ -5584,6 +5385,12 @@ Answering Machine Greetings!
  - date published: 2023-10-25T10:15:18.092529+00:00
  - user: None
  - tags: []
+
+## Omniflux
+ - [http://www.omnifluxmusic.com](http://www.omnifluxmusic.com)
+ - date published: 2023-11-29T20:44:06.311905+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Omniflux
  - [https://www.omnifluxmusic.com](https://www.omnifluxmusic.com)
@@ -5996,6 +5803,199 @@ Answering Machine Greetings!
 ## Oregon Local News, Breaking News, Sports & Weather
  - [https://www.oregonlive.com](https://www.oregonlive.com)
  - date published: 2023-10-25T11:06:13.645376+00:00
+ - user: None
+ - tags: []
+
+## O'Reilly Media - Technology and Business Training
+ - [https://www.oreilly.com](https://www.oreilly.com)
+ - date published: 2023-10-24T20:19:32.879408+00:00
+ - user: None
+ - tags: []
+
+## Organ Clearing House
+ - [https://www.organclearinghouse.com](https://www.organclearinghouse.com)
+ - date published: 2023-10-25T16:27:25.213840+00:00
+ - user: None
+ - tags: []
+
+## Orinoco Tribune – News and opinion pieces about Venezuela and beyond – From Venezuela and made by Venezuelan Chavistas
+ - [https://orinocotribune.com](https://orinocotribune.com)
+ - date published: 2023-10-25T09:29:37.225218+00:00
+ - user: None
+ - tags: []
+
+## OrioleDB – the next generation storage engine for PostgreSQL
+ - [https://www.orioledata.com](https://www.orioledata.com)
+ - date published: 2023-10-25T16:27:26.200155+00:00
+ - user: None
+ - tags: []
+
+## Orlando Sentinel
+ - [https://www.orlandosentinel.com](https://www.orlandosentinel.com)
+ - date published: 2023-11-27T21:19:15.271397+00:00
+ - user: None
+ - tags: []
+
+## Orlando Weekly
+ - [https://www.orlandoweekly.com](https://www.orlandoweekly.com)
+ - date published: 2023-11-23T07:19:16.129563+00:00
+ - user: None
+ - tags: []
+
+## Orville McDonald – Random thoughts on technology and business
+ - [https://orvillemcdonald.com](https://orvillemcdonald.com)
+ - date published: 2023-10-25T09:21:05.715824+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Orwell Foundation
+ - [https://www.orwellfoundation.com](https://www.orwellfoundation.com)
+ - date published: 2023-10-25T11:26:43.410563+00:00
+ - user: None
+ - tags: []
+
+## Oryx
+ - [https://www.oryxspioenkop.com](https://www.oryxspioenkop.com)
+ - date published: 2023-10-25T16:27:36.030855+00:00
+ - user: None
+ - tags: []
+
+## The OS/2 Museum
+ - [https://www.os2museum.com](https://www.os2museum.com)
+ - date published: 2023-10-25T16:27:40.415903+00:00
+ - user: None
+ - tags: []
+
+## oschvr.com
+ - [https://oschvr.com](https://oschvr.com)
+ - date published: 2023-10-25T16:27:41.499435+00:00
+ - user: None
+ - tags: []
+
+## osintme.com
+ - [https://www.osintme.com](https://www.osintme.com)
+ - date published: 2023-10-25T16:27:45.841879+00:00
+ - user: None
+ - tags: []
+
+## OSnews  -  Exploring the Future of Computing
+ - [https://www.osnews.com](https://www.osnews.com)
+ - date published: 2023-10-25T09:34:29.424722+00:00
+ - user: None
+ - tags: []
+
+## All Projects
+    - OSSRank
+ - [https://ossrank.com](https://ossrank.com)
+ - date published: 2023-10-25T16:27:50.745403+00:00
+ - user: None
+ - tags: []
+
+## Danny's Blog
+ - [https://blog.otterstack.com](https://blog.otterstack.com)
+ - date published: 2023-10-25T16:27:51.252333+00:00
+ - user: None
+ - tags: []
+
+## AI-Powered Automatic PostgreSQL & MySQL Tuning | OtterTune
+ - [https://ottertune.com](https://ottertune.com)
+ - date published: 2023-10-25T16:27:55.088952+00:00
+ - user: None
+ - tags: []
+
+## Oxford Academic
+ - [https://academic.oup.com](https://academic.oup.com)
+ - date published: 2023-10-25T16:27:59.208559+00:00
+ - user: None
+ - tags: []
+
+## OUPblog | Oxford University Press’s Academic Insights for the World
+ - [https://blog.oup.com](https://blog.oup.com)
+ - date published: 2023-10-25T16:28:04.688791+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Oxford University Press
+ - [https://global.oup.com](https://global.oup.com)
+ - date published: 2023-10-25T16:28:11.875051+00:00
+ - user: None
+ - tags: []
+
+## Oxford Languages | The Home of Language Data
+ - [https://languages.oup.com](https://languages.oup.com)
+ - date published: 2023-12-04T15:57:30.501689+00:00
+ - user: None
+ - tags: []
+
+## OurBigBook.com
+ - [https://ourbigbook.com](https://ourbigbook.com)
+ - date published: 2023-12-02T02:46:08.135245+00:00
+ - user: None
+ - tags: []
+
+## World of Pixels
+ - [https://ourworldofpixels.com](https://ourworldofpixels.com)
+ - date published: 2023-10-25T08:36:48.464142+00:00
+ - user: None
+ - tags: []
+
+## Outdoor Status
+ - [https://outdoorstatus.com](https://outdoorstatus.com)
+ - date published: 2023-10-25T16:28:14.906908+00:00
+ - user: None
+ - tags: []
+
+## Outfunnel - Sales & Marketing Workflow Platform
+ - [https://outfunnel.com](https://outfunnel.com)
+ - date published: 2023-10-25T16:28:17.037385+00:00
+ - user: None
+ - tags: []
+
+## OutHorse Your Email
+ - [http://outhorseyouremail.com](http://outhorseyouremail.com)
+ - date published: 2023-10-25T16:28:24.817697+00:00
+ - user: None
+ - tags: []
+
+## OutKick - Fearless Sports Media Company Founded by Clay Travis
+ - [https://www.outkick.com](https://www.outkick.com)
+ - date published: 2023-10-25T10:09:04.240719+00:00
+ - user: None
+ - tags: []
+
+## VELO - Competitive Cycling News, Race Results and Bike Reviews
+ - [https://velo.outsideonline.com](https://velo.outsideonline.com)
+ - date published: 2023-11-02T15:51:17.506295+00:00
+ - user: None
+ - tags: []
+
+## Outside Magazine
+ - [https://www.outsideonline.com](https://www.outsideonline.com)
+ - date published: 2023-10-25T16:28:28.955211+00:00
+ - user: None
+ - tags: []
+
+## Outsider Club | Because You'll Never Be On The Inside
+ - [https://www.outsiderclub.com](https://www.outsiderclub.com)
+ - date published: 2023-10-25T16:28:31.579451+00:00
+ - user: None
+ - tags: []
+
+## OutThere Colorado
+ - [https://www.outtherecolorado.com](https://www.outtherecolorado.com)
+ - date published: 2023-10-25T16:28:37.775032+00:00
+ - user: None
+ - tags: []
+
+## Overcoming Bias | Robin Hanson | Substack
+ - [https://www.overcomingbias.com](https://www.overcomingbias.com)
+ - date published: 2023-10-25T09:40:33.681379+00:00
+ - user: None
+ - tags: ['substack']
+
+## overexact.com
+ - [https://overexact.com](https://overexact.com)
+ - date published: 2023-10-25T16:28:44.079753+00:00
  - user: None
  - tags: []
 

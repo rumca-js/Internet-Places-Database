@@ -1,69 +1,3 @@
-## Tempus Ex Blog
- - [https://blog.tempus-ex.com](https://blog.tempus-ex.com)
- - date published: 2023-10-25T17:26:41.521155+00:00
- - user: None
- - tags: []
-
-## Tenacious D - The Official Website!
- - [https://tenaciousd.com](https://tenaciousd.com)
- - date published: 2023-11-01T09:33:17.217029+00:00
- - user: None
- - tags: ['music band']
-
-## Tenderlove Making |  tenderlovemaking.com
- - [https://tenderlovemaking.com](https://tenderlovemaking.com)
- - date published: 2023-10-25T17:26:44.547477+00:00
- - user: None
- - tags: []
-
-## TenderOwl
- - [https://tenderowl.com](https://tenderowl.com)
- - date published: 2023-10-25T17:26:45.249090+00:00
- - user: None
- - tags: []
-
-## Tenzir
- - [https://docs.tenzir.com](https://docs.tenzir.com)
- - date published: 2023-10-25T17:26:46.083579+00:00
- - user: None
- - tags: []
-
-## TerminusDB - Made for developers who see the value of data
- - [https://terminusdb.com](https://terminusdb.com)
- - date published: 2023-10-25T17:26:59.630117+00:00
- - user: None
- - tags: []
-
-## Terrastruct
- - [https://terrastruct.com](https://terrastruct.com)
- - date published: 2023-10-27T08:52:26.171059+00:00
- - user: None
- - tags: []
-
-## Terrastruct | Diagramming tools crafted to visualize software architecture
- - [https://www.terrastruct.com](https://www.terrastruct.com)
- - date published: 2023-10-25T17:27:01.530729+00:00
- - user: None
- - tags: []
-
-## Terrible Book Club
- - [https://terriblebookclub.com](https://terriblebookclub.com)
- - date published: 2023-11-24T06:04:10.754968+00:00
- - user: None
- - tags: []
-
-## Terrible real estate agent photographs
- - [https://terriblerealestateagentphotos.com](https://terriblerealestateagentphotos.com)
- - date published: 2023-10-25T17:27:04.177363+00:00
- - user: None
- - tags: []
-
-## Tesla | Developer
- - [https://developer.tesla.com](https://developer.tesla.com)
- - date published: 2023-10-25T17:27:05.491866+00:00
- - user: None
- - tags: []
-
 ## Tesla Investor Relations
  - [https://ir.tesla.com](https://ir.tesla.com)
  - date published: 2023-10-25T17:27:09.938562+00:00
@@ -670,6 +604,12 @@
  - date published: 2023-10-25T17:32:15.590070+00:00
  - user: None
  - tags: []
+
+## The Entrepreneur Way
+ - [http://theentrepreneurway.com](http://theentrepreneurway.com)
+ - date published: 2023-11-29T14:41:38.033075+00:00
+ - user: None
+ - tags: ['personal']
 
 ## The Entrepreneur Way
  - [https://theentrepreneurway.com](https://theentrepreneurway.com)
@@ -1765,6 +1705,12 @@
  - tags: ['personal']
 
 ## Thought Of Art
+ - [http://www.thoughtofart.com](http://www.thoughtofart.com)
+ - date published: 2023-12-03T01:43:09.217032+00:00
+ - user: None
+ - tags: ['personal']
+
+## Thought Of Art
  - [https://www.thoughtofart.com](https://www.thoughtofart.com)
  - date published: 2023-12-03T01:43:10.562711+00:00
  - user: None
@@ -2033,6 +1979,12 @@
  - date published: 2023-10-25T17:42:50.923835+00:00
  - user: None
  - tags: []
+
+## Home
+ - [http://timgorichanaz.com](http://timgorichanaz.com)
+ - date published: 2023-11-29T14:42:43.604079+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Home
  - [https://timgorichanaz.com](https://timgorichanaz.com)
@@ -2517,10 +2469,22 @@
  - tags: []
 
 ## Travel Japan Like a Local Japan Travel Tips, Straight From the Source
+ - [http://traveljapanlocal.com](http://traveljapanlocal.com)
+ - date published: 2023-11-29T17:16:13.340186+00:00
+ - user: None
+ - tags: ['personal']
+
+## Travel Japan Like a Local Japan Travel Tips, Straight From the Source
  - [https://traveljapanlocal.com](https://traveljapanlocal.com)
  - date published: 2023-11-29T17:16:14.299259+00:00
  - user: None
  - tags: []
+
+## TravelnLass
+ - [http://www.travelnlass.com](http://www.travelnlass.com)
+ - date published: 2023-11-29T15:29:56.362247+00:00
+ - user: None
+ - tags: ['personal']
 
 ## TravelnLass
  - [https://www.travelnlass.com](https://www.travelnlass.com)
@@ -2587,6 +2551,12 @@
  - date published: 2023-10-25T17:46:48.318447+00:00
  - user: None
  - tags: []
+
+## Trialfacts
+ - [http://trialfacts.com](http://trialfacts.com)
+ - date published: 2023-12-03T01:43:30.335637+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Trialfacts
  - [https://trialfacts.com](https://trialfacts.com)
@@ -2791,6 +2761,12 @@
  - date published: 2023-10-25T17:48:38.692805+00:00
  - user: None
  - tags: []
+
+## Tsipa Swan ∆ Soul Coach
+ - [http://www.tsipaswan.com](http://www.tsipaswan.com)
+ - date published: 2023-11-29T17:14:50.485174+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Tsipa Swan ∆ Soul Coach
  - [https://www.tsipaswan.com](https://www.tsipaswan.com)
@@ -3491,6 +3467,12 @@
 ## Universal-Sci
  - [https://www.universal-sci.com](https://www.universal-sci.com)
  - date published: 2023-10-25T17:52:51.756048+00:00
+ - user: None
+ - tags: []
+
+## Universal Hub
+ - [https://www.universalhub.com](https://www.universalhub.com)
+ - date published: 2023-12-04T15:32:37.716181+00:00
  - user: None
  - tags: []
 
@@ -4457,6 +4439,12 @@
  - tags: []
 
 ## vomitingchicken.com
+ - [http://vomitingchicken.com](http://vomitingchicken.com)
+ - date published: 2023-11-29T17:11:51.649886+00:00
+ - user: None
+ - tags: ['personal']
+
+## vomitingchicken.com
  - [https://vomitingchicken.com](https://vomitingchicken.com)
  - date published: 2023-11-29T17:11:52.328753+00:00
  - user: None
@@ -4538,7 +4526,7 @@
  - [https://www.w3schools.com](https://www.w3schools.com)
  - date published: 2023-10-25T17:25:37.350967+00:00
  - user: None
- - tags: ['standards']
+ - tags: ['css', 'standards', 'html', 'javascript']
 
 ## W4 Games – Home
  - [https://w4games.com](https://w4games.com)
@@ -5995,6 +5983,18 @@
 ## The ryg blog | When I grow up I'll be an inventor.
  - [https://fgiesen.wordpress.com](https://fgiesen.wordpress.com)
  - date published: 2023-10-25T18:11:48.624320+00:00
+ - user: None
+ - tags: []
+
+## Firejail | security sandbox
+ - [https://firejail.wordpress.com](https://firejail.wordpress.com)
+ - date published: 2023-10-25T18:11:53.023724+00:00
+ - user: None
+ - tags: []
+
+## 高大伟 David Cowhig's Translation Blog
+ - [https://gaodawei.wordpress.com](https://gaodawei.wordpress.com)
+ - date published: 2023-10-25T18:12:05.460382+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,267 @@
+## https://trueelena.org
+ - [https://trueelena.org](https://trueelena.org)
+ - date published: 2023-12-02T09:10:35+00:00
+ - user: rumpel
+ - tags: []
+
+## Homepage of Elena ``of Valhalla'' - Elena ``of Valhalla'' Homepage
+ - [http://trueelena.org](http://trueelena.org)
+ - date published: 2023-12-02T09:10:40.618194+00:00
+ - user: None
+ - tags: []
+
+## News Home | Thomson Reuters Foundation News
+ - [https://news.trust.org](https://news.trust.org)
+ - date published: 2023-10-25T22:15:38.811272+00:00
+ - user: None
+ - tags: []
+
+## Truthout | Fearless Independent Journalism
+ - [https://truthout.org](https://truthout.org)
+ - date published: 2023-10-25T22:15:42.168983+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [http://tsoding.org](http://tsoding.org)
+ - date published: 2023-10-25T22:15:43.791618+00:00
+ - user: None
+ - tags: []
+
+## Minnie's Home Page
+ - [https://minnie.tuhs.org](https://minnie.tuhs.org)
+ - date published: 2023-10-25T22:15:45.834689+00:00
+ - user: None
+ - tags: []
+
+## The Unix Heritage Society
+ - [https://www.tuhs.org](https://www.tuhs.org)
+ - date published: 2023-10-25T22:15:47.417509+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Tulsa Library
+ - [https://www.tulsalibrary.org](https://www.tulsalibrary.org)
+ - date published: 2023-10-27T10:21:07.270897+00:00
+ - user: None
+ - tags: ['library']
+
+## TurboWarp Desktop - Better offline editor for Scratch 3
+ - [https://desktop.turbowarp.org](https://desktop.turbowarp.org)
+ - date published: 2023-10-25T22:15:48.691606+00:00
+ - user: None
+ - tags: []
+
+## TV Tropes
+ - [https://tvtropes.org](https://tvtropes.org)
+ - date published: 2023-10-25T22:15:56.479437+00:00
+ - user: None
+ - tags: []
+
+## Two-Bit History
+ - [https://twobithistory.org](https://twobithistory.org)
+ - date published: 2023-10-25T22:15:57.521416+00:00
+ - user: None
+ - tags: []
+
+## 2 Player Games - TwoPlayerGames.org
+ - [https://www.twoplayergames.org](https://www.twoplayergames.org)
+ - date published: 2023-10-25T11:18:34.239862+00:00
+ - user: None
+ - tags: []
+
+## TypeAPI
+ - [https://typeapi.org](https://typeapi.org)
+ - date published: 2023-10-25T22:15:58.228065+00:00
+ - user: None
+ - tags: []
+
+## JavaScript With Syntax For Types.
+ - [https://www.typescriptlang.org](https://www.typescriptlang.org)
+ - date published: 2023-10-30T13:48:03.524384+00:00
+ - user: None
+ - tags: ['javascript', 'typescript']
+
+## Typesense | Fast, typo-tolerant open source search engine
+ - [https://typesense.org](https://typesense.org)
+ - date published: 2023-10-25T22:15:59.784891+00:00
+ - user: None
+ - tags: []
+
+## Typewritten Software - Retrotechnology Research Laboratory
+ - [http://www.typewritten.org](http://www.typewritten.org)
+ - date published: 2023-10-25T22:16:01.583832+00:00
+ - user: None
+ - tags: []
+
+## Matt Tytel
+ - [https://tytel.org](https://tytel.org)
+ - date published: 2023-11-26T06:05:54.913570+00:00
+ - user: None
+ - tags: []
+
+## Ubuntu MATE | For a retrospective future
+ - [https://ubuntu-mate.org](https://ubuntu-mate.org)
+ - date published: 2023-11-06T10:08:20.674734+00:00
+ - user: None
+ - tags: ['linux', 'operating system']
+
+## UCLA Health: Center for High Quality Health Care Services
+ - [https://www.uclahealth.org](https://www.uclahealth.org)
+ - date published: 2023-10-25T22:16:04.259788+00:00
+ - user: None
+ - tags: []
+
+## The Equation - Union of Concerned Scientists
+ - [https://blog.ucsusa.org](https://blog.ucsusa.org)
+ - date published: 2023-10-25T22:16:07.751665+00:00
+ - user: None
+ - tags: []
+
+## UF Health - University of Florida Health
+ - [https://ufhealth.org](https://ufhealth.org)
+ - date published: 2023-11-26T10:51:05.063033+00:00
+ - user: None
+ - tags: []
+
+## Uyghur Human Rights Project
+ - [https://uhrp.org](https://uhrp.org)
+ - date published: 2023-11-27T12:21:06+00:00
+ - user: rumpel
+ - tags: ['uyghurs']
+
+## Ultibo.org – Make something amazing
+ - [https://ultibo.org](https://ultibo.org)
+ - date published: 2023-10-25T22:16:12.188671+00:00
+ - user: None
+ - tags: []
+
+## U++ - Cross-Platform App Development Framework
+ - [https://www.ultimatepp.org](https://www.ultimatepp.org)
+ - date published: 2023-12-02T15:50:58.928912+00:00
+ - user: None
+ - tags: []
+
+## UN News | Global perspective Human stories
+ - [https://news.un.org](https://news.un.org)
+ - date published: 2023-10-25T22:16:15.307275+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the United Nations
+ - [https://www.un.org](https://www.un.org)
+ - date published: 2023-10-25T22:16:21.032376+00:00
+ - user: None
+ - tags: []
+
+## 2023 Report - UNAIDS - Global Report 2023
+ - [https://thepath.unaids.org](https://thepath.unaids.org)
+ - date published: 2023-10-25T22:16:22.303503+00:00
+ - user: None
+ - tags: []
+
+## UNC Health & UNC School of Medicine Newsroom
+ - [https://news.unchealthcare.org](https://news.unchealthcare.org)
+ - date published: 2023-11-05T02:04:02.063047+00:00
+ - user: None
+ - tags: []
+
+## Undark Magazine | Truth, Beauty, Science.
+ - [https://undark.org](https://undark.org)
+ - date published: 2023-10-25T10:40:08.530856+00:00
+ - user: None
+ - tags: []
+
+## OpenBSD Journal: A resource for the OpenBSD community
+ - [https://undeadly.org](https://undeadly.org)
+ - date published: 2023-10-25T22:16:23.799423+00:00
+ - user: None
+ - tags: []
+
+## OpenBSD Journal: A resource for the OpenBSD community
+ - [https://www.undeadly.org](https://www.undeadly.org)
+ - date published: 2023-10-25T10:15:21.266043+00:00
+ - user: None
+ - tags: []
+
+## Understanding AI | Timothy B Lee | Substack
+ - [https://www.understandingai.org](https://www.understandingai.org)
+ - date published: 2023-10-25T22:16:26.229235+00:00
+ - user: None
+ - tags: []
+
+## UNEP - UN Environment Programme
+ - [https://www.unep.org](https://www.unep.org)
+ - date published: 2023-10-25T22:16:28.858183+00:00
+ - user: None
+ - tags: []
+
+## UNESCO : Building Peace through Education, Science and Culture, communication and information
+ - [https://www.unesco.org](https://www.unesco.org)
+ - date published: 2023-11-16T12:13:51.361275+00:00
+ - user: None
+ - tags: []
+
+## UNHCR, the UN Refugee Agency | UNHCR
+ - [https://www.unhcr.org](https://www.unhcr.org)
+ - date published: 2023-11-07T18:14:19.052073+00:00
+ - user: None
+ - tags: []
+
+## Unicon.org - the Unicon Programming Language Home Page
+ - [http://unicon.org](http://unicon.org)
+ - date published: 2023-10-25T22:16:30.161488+00:00
+ - user: None
+ - tags: []
+
+## UnifiedPush
+ - [https://unifiedpush.org](https://unifiedpush.org)
+ - date published: 2023-10-25T22:16:36.878388+00:00
+ - user: None
+ - tags: []
+
+## The Unison language
+ - [https://www.unison-lang.org](https://www.unison-lang.org)
+ - date published: 2023-10-25T22:16:43.435256+00:00
+ - user: None
+ - tags: []
+
+## United Way of the National Capital Area - Assistance for DC, MD & VA
+ - [https://unitedwaynca.org](https://unitedwaynca.org)
+ - date published: 2023-10-25T22:16:46.777544+00:00
+ - user: None
+ - tags: []
+
+## Universal Blue
+ - [https://universal-blue.org](https://universal-blue.org)
+ - date published: 2023-10-25T22:16:48.799969+00:00
+ - user: None
+ - tags: []
+
+## https://www.unrwa.org
+ - [https://www.unrwa.org](https://www.unrwa.org)
+ - date published: 2023-11-04T00:46:39.532150+00:00
+ - user: None
+ - tags: []
+
+## UN Watch - Home
+ - [https://unwatch.org](https://unwatch.org)
+ - date published: 2023-11-06T21:10:36.734291+00:00
+ - user: None
+ - tags: []
+
+## House Absolute(ly Pointless)
+ - [https://blog.urth.org](https://blog.urth.org)
+ - date published: 2023-10-25T22:16:50.060450+00:00
+ - user: None
+ - tags: []
+
+## Erich Boleyn's Home Page
+ - [http://www.uruk.org](http://www.uruk.org)
+ - date published: 2023-10-25T22:16:51.177684+00:00
+ - user: None
+ - tags: []
+
 ## USA National Phenology Network | USA National Phenology Network
  - [https://www.usanpn.org](https://www.usanpn.org)
  - date published: 2023-10-25T22:16:53.580862+00:00
@@ -1068,6 +1332,12 @@ is forbidden
  - user: None
  - tags: []
 
+## Internet Archive
+ - [https://archive.ph](https://archive.ph)
+ - date published: 2023-11-13T12:03:03+00:00
+ - user: rumpel
+ - tags: ['internet archive']
+
 ## Telegraph
  - [https://telegra.ph](https://telegra.ph)
  - date published: 2023-10-25T22:24:48.190795+00:00
@@ -1446,6 +1716,12 @@ is forbidden
  - user: None
  - tags: []
 
+## Boże Krówki
+ - [https://bozekrowki.pl](https://bozekrowki.pl)
+ - date published: 2023-12-04T17:42:45+00:00
+ - user: rumpel
+ - tags: ['religion', 'charity', 'catholic']
+
 ## Home - brd24.pl
  - [https://www.brd24.pl](https://www.brd24.pl)
  - date published: 2023-10-31T16:18:06.350280+00:00
@@ -1817,6 +2093,12 @@ is forbidden
  - date published: 2023-11-17T21:45:33+00:00
  - user: rumpel
  - tags: ['game news']
+
+## Film, seriale, muzyka - Kultura.Gazeta.pl
+ - [https://kultura.gazeta.pl](https://kultura.gazeta.pl)
+ - date published: 2023-12-04T12:48:18.132743+00:00
+ - user: None
+ - tags: []
 
 ## Next Gazeta.pl - Biznes, Nowe Technologie i Pieniądze
  - [https://next.gazeta.pl](https://next.gazeta.pl)
@@ -3204,6 +3486,12 @@ is forbidden
  - user: None
  - tags: []
 
+## Na Zrzutka.pl zbierzesz pieniądze na co chcesz - załóż własną zrzutkę | zrzutka.pl
+ - [https://zrzutka.pl](https://zrzutka.pl)
+ - date published: 2023-12-04T17:43:38+00:00
+ - user: rumpel
+ - tags: ['crowdfunding']
+
 ## daily.place
  - [https://www.daily.place](https://www.daily.place)
  - date published: 2023-10-25T22:33:40.137685+00:00
@@ -3264,6 +3552,12 @@ is forbidden
  - user: rumpel
  - tags: ['privacy', 'surveillance']
 
+## Stripe Press — Ideas for progress
+ - [https://www.stripe.press](https://www.stripe.press)
+ - date published: 2023-12-04T07:13:57.601019+00:00
+ - user: None
+ - tags: []
+
 ## Tech Policy Press - Technology and Democracy
  - [https://techpolicy.press](https://techpolicy.press)
  - date published: 2023-10-25T22:34:08.882662+00:00
@@ -3303,6 +3597,12 @@ is forbidden
 ## Vitor M. de Sousa Pereira | 0x1
  - [https://0x1.pt](https://0x1.pt)
  - date published: 2023-10-25T22:34:15.009100+00:00
+ - user: None
+ - tags: []
+
+## Centro Nacional de Cultura – Desde o 25 de Abril de 1974, o CNC tem-se esforçado por transmitir uma noção de cultura sem fronteiras, quer disciplinares, quer geográficas. Ele tenta ser o elo de ligação entre aqueles cujos caminhos normalmente não se cruzam: velhos e jovens, artistas e empresários, setor público e privado. Grande parte da sua ação é dedicada à defesa do património cultural português, à divulgação do papel desempenhado pela cultura portuguesa no mundo, e à atualização das suas relações com outras culturas.
+ - [https://www.cnc.pt](https://www.cnc.pt)
+ - date published: 2023-12-04T13:08:24.757701+00:00
  - user: None
  - tags: []
 
@@ -4141,6 +4441,12 @@ is forbidden
  - user: None
  - tags: []
 
+## International News, Analysis, Politics, Business, Technology, Entertainment - IB Times SG Edition
+ - [https://www.ibtimes.sg](https://www.ibtimes.sg)
+ - date published: 2023-12-04T09:13:30.199869+00:00
+ - user: None
+ - tags: []
+
 ## when trees fall...
  - [https://blog.wtf.sg](https://blog.wtf.sg)
  - date published: 2023-10-25T22:38:01.640867+00:00
@@ -4858,6 +5164,12 @@ is forbidden
 ## Scribbler: AI-powered Summaries
  - [https://app.scribbler.so](https://app.scribbler.so)
  - date published: 2023-10-25T22:41:13.999339+00:00
+ - user: None
+ - tags: []
+
+## Sensible - Document Automation for Developers
+ - [https://www.sensible.so](https://www.sensible.so)
+ - date published: 2023-12-04T07:14:03.924039+00:00
  - user: None
  - tags: []
 
@@ -5690,319 +6002,5 @@ conflicts of interest and restore Community Trust.
  - [https://mdhughes.tech](https://mdhughes.tech)
  - date published: 2023-11-29T14:24:33.031475+00:00
  - user: None
- - tags: ['personal']
-
-## Home | Modos
- - [https://www.modos.tech](https://www.modos.tech)
- - date published: 2023-10-25T22:44:40.523599+00:00
- - user: None
- - tags: []
-
-## Neon — Serverless, Fault-Tolerant, Branchable Postgres
- - [https://neon.tech](https://neon.tech)
- - date published: 2023-10-25T22:44:42.493550+00:00
- - user: None
- - tags: []
-
-## Nothing (United States)
- - [https://us.nothing.tech](https://us.nothing.tech)
- - date published: 2023-10-25T22:44:45.536178+00:00
- - user: None
- - tags: []
-
-## http://report.opensustain.tech
- - [http://report.opensustain.tech](http://report.opensustain.tech)
- - date published: 2023-10-25T22:44:45.913149+00:00
- - user: None
- - tags: []
-
-## Pablo Fernandez – Entrepreneur, geek, manager, coder, maker, aspiring book author.
- - [https://pablofernandez.tech](https://pablofernandez.tech)
- - date published: 2023-11-29T20:43:37.021626+00:00
- - user: None
- - tags: ['personal']
-
-## Qdrant - Vector Database
- - [https://qdrant.tech](https://qdrant.tech)
- - date published: 2023-10-25T22:44:47.684444+00:00
- - user: None
- - tags: []
-
-## Sanket Shanbhag
- - [https://sanket.tech](https://sanket.tech)
- - date published: 2023-10-25T08:57:30.024022+00:00
- - user: None
- - tags: ['personal']
-
-## spiffytech
- - [https://spiffy.tech](https://spiffy.tech)
- - date published: 2023-10-25T22:44:49.054342+00:00
- - user: None
- - tags: []
-
-## Thomas Sojka
- - [https://thomas-sojka.tech](https://thomas-sojka.tech)
- - date published: 2023-11-29T15:45:59.704607+00:00
- - user: None
- - tags: ['personal']
-
-## Vladimir Klepov as a Coder
- - [https://blog.thoughtspile.tech](https://blog.thoughtspile.tech)
- - date published: 2023-10-25T22:44:49.893333+00:00
- - user: None
- - tags: []
-
-## Learn Building Modern Go applications - Three Dots Labs blog
- - [https://threedots.tech](https://threedots.tech)
- - date published: 2023-11-01T08:44:41.241942+00:00
- - user: None
- - tags: []
-
-## TinyVG Vector Graphics
- - [https://tinyvg.tech](https://tinyvg.tech)
- - date published: 2023-10-27T12:07:55.561755+00:00
- - user: None
- - tags: []
-
-## ToolHub · Online webtools
- - [https://toolhub.tech](https://toolhub.tech)
- - date published: 2023-10-27T12:07:58.014742+00:00
- - user: None
- - tags: []
-
-## TRIBAL KNOWLEDGE - Knowledge Sharing Process Automation
- - [https://www.tribalknowledge.tech](https://www.tribalknowledge.tech)
- - date published: 2023-10-27T12:08:00.055280+00:00
- - user: None
- - tags: []
-
-## Turso Blog
- - [https://blog.turso.tech](https://blog.turso.tech)
- - date published: 2023-10-25T10:23:55.028481+00:00
- - user: None
- - tags: []
-
-## Unstructed.tech
- - [https://unstructed.tech](https://unstructed.tech)
- - date published: 2023-10-27T12:08:02.752207+00:00
- - user: None
- - tags: []
-
-## /uses
- - [https://uses.tech](https://uses.tech)
- - date published: 2023-10-27T12:08:40.398803+00:00
- - user: None
- - tags: []
-
-## Abstract Machinist
- - [https://voidstar.tech](https://voidstar.tech)
- - date published: 2023-10-27T12:08:41.186511+00:00
- - user: None
- - tags: []
-
-## Winny's Blog
- - [https://blog.winny.tech](https://blog.winny.tech)
- - date published: 2023-10-25T09:24:51.352755+00:00
- - user: None
- - tags: ['personal']
-
-## https://pranshum.yarn.tech
- - [https://pranshum.yarn.tech](https://pranshum.yarn.tech)
- - date published: 2023-10-27T12:08:42.161041+00:00
- - user: None
- - tags: []
-
-## Zuru Tech - Changing the way we build
- - [https://zuru.tech](https://zuru.tech)
- - date published: 2023-10-27T12:08:43.088416+00:00
- - user: None
- - tags: []
-
-## The Stack
- - [https://thestack.technology](https://thestack.technology)
- - date published: 2023-10-27T12:08:49.317432+00:00
- - user: None
- - tags: []
-
-## The Stack
- - [https://www.thestack.technology](https://www.thestack.technology)
- - date published: 2023-10-27T12:08:50.148423+00:00
- - user: None
- - tags: []
-
-## blog.dave.tf
- - [https://blog.dave.tf](https://blog.dave.tf)
- - date published: 2023-10-25T09:24:52.465504+00:00
- - user: None
- - tags: ['personal']
-
-## Introduction - ThreeFold Manual
- - [https://manual.grid.tf](https://manual.grid.tf)
- - date published: 2023-12-02T21:50:58.594420+00:00
- - user: None
- - tags: []
-
-## พิพิธภัณฑสถานแห่งชาติ
- - [http://www.virtualmuseum.finearts.go.th](http://www.virtualmuseum.finearts.go.th)
- - date published: 2023-11-13T13:43:42.490087+00:00
- - user: None
- - tags: ['museum']
-
-## notes.dt.in.th | notes.dt.in.th
- - [https://notes.dt.in.th](https://notes.dt.in.th)
- - date published: 2023-10-25T22:46:03.059073+00:00
- - user: None
- - tags: []
-
-## DX Tips: The DevTools Magazine
- - [https://dx.tips](https://dx.tips)
- - date published: 2023-10-25T22:46:09.880882+00:00
- - user: None
- - tags: []
-
-## Fedi.Tips – An Unofficial Guide to Mastodon and the Fediverse
- - [https://fedi.tips](https://fedi.tips)
- - date published: 2023-10-25T22:46:12.057334+00:00
- - user: None
- - tags: []
-
-## Overview of Projects
- - [https://deat.tk](https://deat.tk)
- - date published: 2023-10-25T22:46:12.989902+00:00
- - user: None
- - tags: []
-
-## keygenmusic.tk - tracker music player
- - [https://keygenmusic.tk](https://keygenmusic.tk)
- - date published: 2023-10-25T11:13:57.912458+00:00
- - user: None
- - tags: ['chiptune', 'demoscene', 'keygen']
-
-## WeTransfer - Send Large Files & Share Photos Online - Up to 2GB Free
- - [https://we.tl](https://we.tl)
- - date published: 2023-11-06T22:50:48.746634+00:00
- - user: None
- - tags: []
-
-## Turkmenistan Altyn Asyr
- - [https://turkmenistan.gov.tm](https://turkmenistan.gov.tm)
- - date published: 2023-11-29T17:20:20.339321+00:00
- - user: None
- - tags: []
-
-## Watch Anime Online, Free Anime Streaming Online on Aniwatch.to Anime Website
- - [https://aniwatch.to](https://aniwatch.to)
- - date published: 2023-10-25T13:12:13.844100+00:00
- - user: None
- - tags: ['video streaming', 'anime']
-
-## DEV Community
- - [https://dev.to](https://dev.to)
- - date published: 2023-10-25T11:33:22.959017+00:00
- - user: None
- - tags: []
-
-## Every
- - [https://every.to](https://every.to)
- - date published: 2023-10-25T22:46:14.453278+00:00
- - user: None
- - tags: []
-
-## iris
- - [https://iris.to](https://iris.to)
- - date published: 2023-10-25T22:46:14.765909+00:00
- - user: None
- - tags: []
-
-## Harley Watson
- - [https://lobi.to](https://lobi.to)
- - date published: 2023-10-25T08:56:10.693079+00:00
- - user: None
- - tags: ['personal']
-
-## mas.to
- - [https://mas.to](https://mas.to)
- - date published: 2023-10-25T22:46:15.173121+00:00
- - user: None
- - tags: []
-
-## Mathys van Abbe
- - [https://www.mathys.to](https://www.mathys.to)
- - date published: 2023-11-29T17:11:47.273460+00:00
- - user: None
- - tags: ['personal']
-
-## PaidLink.to: Create monetized links to anything
- - [https://paidlink.to](https://paidlink.to)
- - date published: 2023-10-25T22:46:16.431257+00:00
- - user: None
- - tags: []
-
-## nick quaranto
- - [https://quaran.to](https://quaran.to)
- - date published: 2023-10-25T09:24:54.180036+00:00
- - user: None
- - tags: ['personal']
-
-## Testimonial - Collect and embed testimonials in minutes
- - [https://testimonial.to](https://testimonial.to)
- - date published: 2023-10-25T22:46:16.956147+00:00
- - user: None
- - tags: []
-
-## cr.yp.to: 
-blog
- - [https://blog.cr.yp.to](https://blog.cr.yp.to)
- - date published: 2023-10-25T22:46:22.681247+00:00
- - user: None
- - tags: []
-
-## Intro
- - [https://cpucycles.cr.yp.to](https://cpucycles.cr.yp.to)
- - date published: 2023-10-25T22:46:23.684550+00:00
- - user: None
- - tags: []
-
-## cr.yp.to
- - [https://cr.yp.to](https://cr.yp.to)
- - date published: 2023-10-25T22:46:25.146248+00:00
- - user: None
- - tags: []
-
-## PQSRC:
-Introduction
- - [https://pqsrc.cr.yp.to](https://pqsrc.cr.yp.to)
- - date published: 2023-10-25T22:46:26.119793+00:00
- - user: None
- - tags: []
-
-## librandombytes: Intro
- - [https://randombytes.cr.yp.to](https://randombytes.cr.yp.to)
- - date published: 2023-10-25T22:46:27.104699+00:00
- - user: None
- - tags: []
-
-## Apple World Today
- - [https://appleworld.today](https://appleworld.today)
- - date published: 2023-10-25T09:38:28.510492+00:00
- - user: None
- - tags: []
-
-## Home | Bryan Today
- - [https://bryan.today](https://bryan.today)
- - date published: 2023-11-29T14:43:39.103267+00:00
- - user: None
- - tags: ['personal']
-
-## Epochalypse
- - [https://www.epochalypse.today](https://www.epochalypse.today)
- - date published: 2023-10-25T22:46:27.669965+00:00
- - user: None
- - tags: []
-
-## Evgenii Burmakin
- - [https://frey.today](https://frey.today)
- - date published: 2023-11-17T15:04:30+00:00
- - user: rumpel
  - tags: ['personal']
 

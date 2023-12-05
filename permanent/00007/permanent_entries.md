@@ -1,129 +1,3 @@
-## Shannon E. Thomas
- - [https://shannonethomas.com](https://shannonethomas.com)
- - date published: 2023-11-22T18:43:41.476621+00:00
- - user: None
- - tags: ['personal']
-
-## The Shape of Code
- - [https://shape-of-code.com](https://shape-of-code.com)
- - date published: 2023-10-25T17:03:20.555625+00:00
- - user: None
- - tags: []
-
-## Shapecatcher: Draw the Unicode character you want!
- - [https://shapecatcher.com](https://shapecatcher.com)
- - date published: 2023-10-25T17:03:21.120346+00:00
- - user: None
- - tags: []
-
-## Larry Charbonneau - Web Developer / Diver / Husker
- - [https://www.sharbonline.com](https://www.sharbonline.com)
- - date published: 2023-10-25T17:03:23.397222+00:00
- - user: None
- - tags: []
-
-## ShareGPT: Share your wildest ChatGPT conversations with one click.
- - [https://sharegpt.com](https://sharegpt.com)
- - date published: 2023-10-25T17:03:24.394627+00:00
- - user: None
- - tags: []
-
-## Shareware Heroes | A book by Richard Moss
- - [https://sharewareheroes.com](https://sharewareheroes.com)
- - date published: 2023-10-25T17:03:25.595114+00:00
- - user: None
- - tags: []
-
-## Sharoma
- - [https://www.sharoma.com](https://www.sharoma.com)
- - date published: 2023-10-25T08:47:52.772488+00:00
- - user: None
- - tags: ['personal']
-
-## ShaunOConnell.com – GP | Commissioner | Coach & Mentor | Blogger
- - [https://shaunoconnell.com](https://shaunoconnell.com)
- - date published: 2023-10-25T17:03:27.779859+00:00
- - user: None
- - tags: []
-
-## %vops, SRE, and Software Engineering Blog%%
- - [https://shavingtheyak.com](https://shavingtheyak.com)
- - date published: 2023-11-19T16:59:12.994606+00:00
- - user: None
- - tags: []
-
-## 403 Forbidden
- - [https://shawneemissionpost.com](https://shawneemissionpost.com)
- - date published: 2023-11-28T00:20:54.574204+00:00
- - user: None
- - tags: []
-
-## Shawn Tabrizi | A site about discovery through experience
- - [https://www.shawntabrizi.com](https://www.shawntabrizi.com)
- - date published: 2023-10-25T17:03:28.603657+00:00
- - user: None
- - tags: []
-
-## https://www.sheepesports.com
- - [https://www.sheepesports.com](https://www.sheepesports.com)
- - date published: 2023-11-03T01:49:18.102291+00:00
- - user: None
- - tags: []
-
-## Shepherd - Browse the best books to read.
- - [https://shepherd.com](https://shepherd.com)
- - date published: 2023-11-01T13:03:34.046684+00:00
- - user: None
- - tags: []
-
-## Sherman On Software
- - [https://shermanonsoftware.com](https://shermanonsoftware.com)
- - date published: 2023-10-29T04:21:17.368512+00:00
- - user: None
- - tags: []
-
-## shestherun
- - [https://shestherun.com](https://shestherun.com)
- - date published: 2023-12-02T13:41:38.958290+00:00
- - user: None
- - tags: ['personal']
-
-## Shining Science
- - [https://www.shiningscience.com](https://www.shiningscience.com)
- - date published: 2023-10-25T17:03:30.804921+00:00
- - user: None
- - tags: []
-
-## Shitlassian - name and shame
- - [https://shitlassian.com](https://shitlassian.com)
- - date published: 2023-10-25T17:03:32.102260+00:00
- - user: None
- - tags: []
-
-## Shivan
- - [https://shivankaul.com](https://shivankaul.com)
- - date published: 2023-12-02T21:17:12.804590+00:00
- - user: None
- - tags: ['personal']
-
-## shmuplations.com
- - [https://shmuplations.com](https://shmuplations.com)
- - date published: 2023-10-25T17:03:34.248572+00:00
- - user: None
- - tags: []
-
-## Shondaland.com
- - [https://www.shondaland.com](https://www.shondaland.com)
- - date published: 2023-10-25T17:03:37.480551+00:00
- - user: None
- - tags: []
-
-## Live Dashboard of Shopify for Black Friday
- - [https://bfcm.shopify.com](https://bfcm.shopify.com)
- - date published: 2023-11-24T13:46:21+00:00
- - user: None
- - tags: []
-
 ## Shopify - Pressroom
  - [https://news.shopify.com](https://news.shopify.com)
  - date published: 2023-10-25T17:03:39.469521+00:00
@@ -135,6 +9,12 @@
  - date published: 2023-11-13T21:35:58.874609+00:00
  - user: None
  - tags: []
+
+## Shorer.com – Ed Shorer – Family, Hobbies, Music, Travel…
+ - [http://shorer.com](http://shorer.com)
+ - date published: 2023-11-29T14:25:17.881680+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Shorer.com – Ed Shorer – Family, Hobbies, Music, Travel…
  - [https://shorer.com](https://shorer.com)
@@ -737,6 +617,12 @@
  - user: None
  - tags: []
 
+## https://www.snagfilms.com
+ - [https://www.snagfilms.com](https://www.snagfilms.com)
+ - date published: 2023-12-02T13:12:11+00:00
+ - user: rumpel
+ - tags: []
+
 ## http://www.snagfilms.com
  - [http://www.snagfilms.com](http://www.snagfilms.com)
  - date published: 2023-12-02T13:12:19.558467+00:00
@@ -1276,6 +1162,12 @@
  - date published: 2023-11-13T12:42:43.730941+00:00
  - user: None
  - tags: ['music news']
+
+## Home
+ - [https://www.spinebookstorecafe.com](https://www.spinebookstorecafe.com)
+ - date published: 2023-12-04T13:08:28.054449+00:00
+ - user: None
+ - tags: []
 
 ## Spinfuel Magazine
  - [https://spinfuel.com](https://spinfuel.com)
@@ -2070,6 +1962,12 @@
  - tags: []
 
 ## Stephen Perlstein's Website
+ - [http://www.stephenperlstein.com](http://www.stephenperlstein.com)
+ - date published: 2023-11-29T15:47:22.216354+00:00
+ - user: None
+ - tags: ['personal']
+
+## Stephen Perlstein's Website
  - [https://www.stephenperlstein.com](https://www.stephenperlstein.com)
  - date published: 2023-11-29T15:47:25.794379+00:00
  - user: None
@@ -2542,6 +2440,12 @@
  - date published: 2023-10-25T09:41:35.577450+00:00
  - user: None
  - tags: ['substack']
+
+## The Alchemy of Money | Frederik Gieschen | Substack
+ - [https://alchemy.substack.com](https://alchemy.substack.com)
+ - date published: 2023-12-04T15:57:22.523973+00:00
+ - user: None
+ - tags: []
 
 ## Public Service | Alethios | Substack
  - [https://alethios.substack.com](https://alethios.substack.com)
@@ -3797,6 +3701,12 @@
  - user: None
  - tags: ['substack']
 
+## Kit’s Newsletter | Kit Klarenberg | Substack
+ - [https://kitklarenberg.substack.com](https://kitklarenberg.substack.com)
+ - date published: 2023-12-04T01:53:45.581863+00:00
+ - user: None
+ - tags: []
+
 ## Knoll’s Law | Knoll's Law | Substack
  - [http://knollslaw.substack.com](http://knollslaw.substack.com)
  - date published: 2023-10-25T09:56:49.775113+00:00
@@ -4313,6 +4223,12 @@
  - user: None
  - tags: ['substack']
 
+## https://ppaolo.substack.com
+ - [https://ppaolo.substack.com](https://ppaolo.substack.com)
+ - date published: 2023-12-04T21:16:18.389456+00:00
+ - user: None
+ - tags: []
+
 ## offscript | Priya | Substack
  - [http://prigoose.substack.com](http://prigoose.substack.com)
  - date published: 2023-10-25T10:01:09.250258+00:00
@@ -4323,6 +4239,12 @@
  - [http://public.substack.com](http://public.substack.com)
  - date published: 2023-10-25T10:01:16.858074+00:00
  - user: None
+ - tags: ['substack']
+
+## Public | Michael Shellenberger | Substack
+ - [https://public.substack.com](https://public.substack.com)
+ - date published: 2023-11-26T17:00:37+00:00
+ - user: rumpel
  - tags: ['substack']
 
 ## Popcorn Penguin Posts | PopcornPenguin | Substack
@@ -5177,6 +5099,12 @@
  - user: None
  - tags: ['personal']
 
+## Constantine Molchanov on Svbtle
+ - [https://moigagoo.svbtle.com](https://moigagoo.svbtle.com)
+ - date published: 2023-12-04T19:56:08.845073+00:00
+ - user: None
+ - tags: []
+
 ## Ted Piotrowski
  - [https://tedpiotrowski.svbtle.com](https://tedpiotrowski.svbtle.com)
  - date published: 2023-10-25T17:20:00.283562+00:00
@@ -5522,6 +5450,12 @@
 ## TPM: Talking Points Memo
  - [https://talkingpointsmemo.com](https://talkingpointsmemo.com)
  - date published: 2023-11-01T15:44:10.527184+00:00
+ - user: None
+ - tags: []
+
+## Tallahassee - Home
+ - [https://www.tallahassee.com](https://www.tallahassee.com)
+ - date published: 2023-12-04T15:58:10.872316+00:00
  - user: None
  - tags: []
 
@@ -5990,6 +5924,72 @@
 ## Teller Report
  - [https://www.tellerreport.com](https://www.tellerreport.com)
  - date published: 2023-10-25T17:26:40.471754+00:00
+ - user: None
+ - tags: []
+
+## BBS Still Exist
+ - [https://www.telnetbbsguide.com](https://www.telnetbbsguide.com)
+ - date published: 2023-11-03T23:29:11+00:00
+ - user: None
+ - tags: []
+
+## Tempus Ex Blog
+ - [https://blog.tempus-ex.com](https://blog.tempus-ex.com)
+ - date published: 2023-10-25T17:26:41.521155+00:00
+ - user: None
+ - tags: []
+
+## Tenacious D - The Official Website!
+ - [https://tenaciousd.com](https://tenaciousd.com)
+ - date published: 2023-11-01T09:33:17.217029+00:00
+ - user: None
+ - tags: ['music band']
+
+## Tenderlove Making |  tenderlovemaking.com
+ - [https://tenderlovemaking.com](https://tenderlovemaking.com)
+ - date published: 2023-10-25T17:26:44.547477+00:00
+ - user: None
+ - tags: []
+
+## TenderOwl
+ - [https://tenderowl.com](https://tenderowl.com)
+ - date published: 2023-10-25T17:26:45.249090+00:00
+ - user: None
+ - tags: []
+
+## Tenzir
+ - [https://docs.tenzir.com](https://docs.tenzir.com)
+ - date published: 2023-10-25T17:26:46.083579+00:00
+ - user: None
+ - tags: []
+
+## TerminusDB - Made for developers who see the value of data
+ - [https://terminusdb.com](https://terminusdb.com)
+ - date published: 2023-10-25T17:26:59.630117+00:00
+ - user: None
+ - tags: []
+
+## Terrastruct
+ - [https://terrastruct.com](https://terrastruct.com)
+ - date published: 2023-10-27T08:52:26.171059+00:00
+ - user: None
+ - tags: []
+
+## Terrastruct | Diagramming tools crafted to visualize software architecture
+ - [https://www.terrastruct.com](https://www.terrastruct.com)
+ - date published: 2023-10-25T17:27:01.530729+00:00
+ - user: None
+ - tags: []
+
+## Terrible Book Club
+ - [https://terriblebookclub.com](https://terriblebookclub.com)
+ - date published: 2023-11-24T06:04:10.754968+00:00
+ - user: None
+ - tags: []
+
+## Terrible real estate agent photographs
+ - [https://terriblerealestateagentphotos.com](https://terriblerealestateagentphotos.com)
+ - date published: 2023-10-25T17:27:04.177363+00:00
  - user: None
  - tags: []
 

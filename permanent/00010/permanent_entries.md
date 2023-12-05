@@ -1,3 +1,69 @@
+## MIT FUTURE OF AI
+ - [https://www.futureofai.mit.edu](https://www.futureofai.mit.edu)
+ - date published: 2023-10-25T18:55:02.414323+00:00
+ - user: None
+ - tags: []
+
+## MIT Haystack Observatory - Radio science & technology research center
+ - [https://www.haystack.mit.edu](https://www.haystack.mit.edu)
+ - date published: 2023-10-25T18:55:07.021253+00:00
+ - user: None
+ - tags: []
+
+## Homepage | MIT Lincoln Laboratory
+ - [https://www.ll.mit.edu](https://www.ll.mit.edu)
+ - date published: 2023-10-25T18:55:14.624029+00:00
+ - user: None
+ - tags: []
+
+## More crop per drop | MIT - Massachusetts Institute of Technology
+ - [https://www.mit.edu](https://www.mit.edu)
+ - date published: 2023-10-25T18:55:16.546253+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.monash.edu](https://www.monash.edu)
+ - date published: 2023-10-31T10:59:13.130253+00:00
+ - user: None
+ - tags: []
+
+## Middle Tennessee State University | Middle Tennessee State University
+ - [https://www.mtsu.edu](https://www.mtsu.edu)
+ - date published: 2023-10-25T18:55:21.754876+00:00
+ - user: None
+ - tags: []
+
+## NC State News
+ - [https://news.ncsu.edu](https://news.ncsu.edu)
+ - date published: 2023-10-25T18:55:26.541930+00:00
+ - user: None
+ - tags: []
+
+## Notre Dame News | University of Notre Dame
+ - [https://news.nd.edu](https://news.nd.edu)
+ - date published: 2023-10-25T18:55:35.076777+00:00
+ - user: None
+ - tags: []
+
+## NDSU - North Dakota State University
+ - [https://www.ndsu.edu](https://www.ndsu.edu)
+ - date published: 2023-10-25T18:55:39.000458+00:00
+ - user: None
+ - tags: []
+
+## Northeastern Global News - News, Discovery, and Analysis from Around the World
+ - [https://news.northeastern.edu](https://news.northeastern.edu)
+ - date published: 2023-10-25T18:55:44.990462+00:00
+ - user: None
+ - tags: []
+
+## Home - Programming Research Laboratory - Northeastern University
+ - [https://prl.khoury.northeastern.edu](https://prl.khoury.northeastern.edu)
+ - date published: 2023-10-25T18:55:46.864652+00:00
+ - user: None
+ - tags: []
+
 ## Feinstein Institutes for Medical Research | Northwell Health
  - [https://feinstein.northwell.edu](https://feinstein.northwell.edu)
  - date published: 2023-10-25T18:55:49.028133+00:00
@@ -139,6 +205,12 @@
 ## Penn State University
  - [https://www.psu.edu](https://www.psu.edu)
  - date published: 2023-11-01T07:44:07.480002+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://engineering.purdue.edu](https://engineering.purdue.edu)
+ - date published: 2023-12-04T12:08:09.866347+00:00
  - user: None
  - tags: []
 
@@ -749,6 +821,12 @@
  - tags: []
 
 ## Iowa Now | The University of Iowa
+ - [http://now.uiowa.edu](http://now.uiowa.edu)
+ - date published: 2023-11-19T05:08:57.849752+00:00
+ - user: None
+ - tags: []
+
+## Iowa Now | The University of Iowa
  - [https://now.uiowa.edu](https://now.uiowa.edu)
  - date published: 2023-11-19T05:08:59.202397+00:00
  - user: None
@@ -1015,6 +1093,12 @@
 ## USC Viterbi School of Engineering
  - [https://viterbischool.usc.edu](https://viterbischool.usc.edu)
  - date published: 2023-10-25T19:04:40.599249+00:00
+ - user: None
+ - tags: []
+
+## Health News Florida - Homepage | Health News Florida
+ - [https://health.wusf.usf.edu](https://health.wusf.usf.edu)
+ - date published: 2023-12-04T16:16:09.264309+00:00
  - user: None
  - tags: []
 
@@ -2199,6 +2283,12 @@
  - date published: 2023-11-02T10:48:00.297368+00:00
  - user: None
  - tags: ['personal']
+
+## The X-Copy Shrine
+ - [http://jope.fi/xcopy/index.html](http://jope.fi/xcopy/index.html)
+ - date published: 2023-11-02T10:48:33+00:00
+ - user: rumpel
+ - tags: ['x-copy', 'amiga']
 
 ## Jyväskylän yliopisto
  - [https://www.jyu.fi](https://www.jyu.fi)
@@ -4118,6 +4208,12 @@
  - user: None
  - tags: []
 
+## The Opsgroup Story – What we are about
+ - [https://ops.group](https://ops.group)
+ - date published: 2023-12-04T00:36:57.850661+00:00
+ - user: None
+ - tags: []
+
 ## Show HN: IP Guide – info on IP addresses, Networks, and ASNs
  - [https://ip.guide](https://ip.guide)
  - date published: 2023-11-24T22:37:16+00:00
@@ -4483,6 +4579,12 @@
  - date published: 2023-11-17T15:06:30+00:00
  - user: rumpel
  - tags: ['personal']
+
+## הארץ - חדשות, ידיעות מהארץ והעולם - עיתון הארץ
+ - [https://img.haarets.co.il](https://img.haarets.co.il)
+ - date published: 2023-12-04T15:32:28.521089+00:00
+ - user: None
+ - tags: []
 
 ## Israel Today - News & Commentary. Stay Informed, Pray Informed.
  - [https://www.israeltoday.co.il](https://www.israeltoday.co.il)
@@ -5898,108 +6000,6 @@
 ## The Software Pro's Best Kept Secret.
  - [https://codecrafters.io](https://codecrafters.io)
  - date published: 2023-11-27T08:09:12.355473+00:00
- - user: None
- - tags: []
-
-## Codefol.io, Latest Posts
- - [https://codefol.io](https://codefol.io)
- - date published: 2023-10-25T19:40:03.506530+00:00
- - user: None
- - tags: []
-
-## CodePreview Preview environments with unlimited users for a fixed price | CodePreview
- - [https://codepreview.io](https://codepreview.io)
- - date published: 2023-10-25T19:40:05.317249+00:00
- - user: None
- - tags: []
-
-## CODE PUZZLE | Puzzles de Parsons & Défis
- - [https://www.codepuzzle.io](https://www.codepuzzle.io)
- - date published: 2023-10-25T19:40:06.305398+00:00
- - user: None
- - tags: []
-
-## code relay
- - [https://www.coderelay.io](https://www.coderelay.io)
- - date published: 2023-10-25T19:40:08.126174+00:00
- - user: None
- - tags: []
-
-## CodeSandbox: Instant Cloud-Based IDE
- - [https://codesandbox.io](https://codesandbox.io)
- - date published: 2023-10-25T19:40:10.647121+00:00
- - user: None
- - tags: []
-
-## Conan C/C++ Package Manager Official Blog
- - [https://blog.conan.io](https://blog.conan.io)
- - date published: 2023-10-25T19:40:13.832753+00:00
- - user: None
- - tags: []
-
-## Conduition
- - [https://conduition.io](https://conduition.io)
- - date published: 2023-10-25T19:40:16.029942+00:00
- - user: None
- - tags: []
-
-## Confidential Computing Consortium – Linux Foundation Project
- - [https://confidentialcomputing.io](https://confidentialcomputing.io)
- - date published: 2023-10-25T19:40:18.712434+00:00
- - user: None
- - tags: []
-
-## Confluent | Apache Kafka Reinvented for the Cloud
- - [https://www.confluent.io](https://www.confluent.io)
- - date published: 2023-10-25T19:40:22.771641+00:00
- - user: None
- - tags: []
-
-## ContextKeeper | Making context switching painless in Visual Studio Plugin
- - [https://contextkeeper.io](https://contextkeeper.io)
- - date published: 2023-10-25T19:40:24.620883+00:00
- - user: None
- - tags: []
-
-## Coolify
- - [https://coolify.io](https://coolify.io)
- - date published: 2023-10-25T19:40:25.622157+00:00
- - user: None
- - tags: []
-
-## Virtual Smartphone | Cophone
- - [https://cophone.io](https://cophone.io)
- - date published: 2023-10-25T19:40:27.103251+00:00
- - user: None
- - tags: []
-
-## Core64 - Interactive Core Memory Kit
- - [https://www.core64.io](https://www.core64.io)
- - date published: 2023-10-25T19:40:28.833224+00:00
- - user: None
- - tags: []
-
-## http://corndog.io
- - [http://corndog.io](http://corndog.io)
- - date published: 2023-10-27T10:53:58.367495+00:00
- - user: None
- - tags: []
-
-## Cotten.IO
- - [https://blog.cotten.io](https://blog.cotten.io)
- - date published: 2023-10-25T19:40:32.348755+00:00
- - user: None
- - tags: []
-
-## Open Source Integration and Data Platform | cptn.io
- - [https://cptn.io](https://cptn.io)
- - date published: 2023-10-25T19:40:33.685467+00:00
- - user: None
- - tags: []
-
-## crates.io: Rust Package Registry
- - [https://crates.io](https://crates.io)
- - date published: 2023-10-25T19:40:34.607822+00:00
  - user: None
  - tags: []
 

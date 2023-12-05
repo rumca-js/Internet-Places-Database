@@ -1,190 +1,3 @@
-## Organ Clearing House
- - [https://www.organclearinghouse.com](https://www.organclearinghouse.com)
- - date published: 2023-10-25T16:27:25.213840+00:00
- - user: None
- - tags: []
-
-## Orinoco Tribune – News and opinion pieces about Venezuela and beyond – From Venezuela and made by Venezuelan Chavistas
- - [https://orinocotribune.com](https://orinocotribune.com)
- - date published: 2023-10-25T09:29:37.225218+00:00
- - user: None
- - tags: []
-
-## OrioleDB – the next generation storage engine for PostgreSQL
- - [https://www.orioledata.com](https://www.orioledata.com)
- - date published: 2023-10-25T16:27:26.200155+00:00
- - user: None
- - tags: []
-
-## Orlando Sentinel
- - [https://www.orlandosentinel.com](https://www.orlandosentinel.com)
- - date published: 2023-11-27T21:19:15.271397+00:00
- - user: None
- - tags: []
-
-## Orlando Weekly
- - [https://www.orlandoweekly.com](https://www.orlandoweekly.com)
- - date published: 2023-11-23T07:19:16.129563+00:00
- - user: None
- - tags: []
-
-## Orville McDonald – Random thoughts on technology and business
- - [https://orvillemcdonald.com](https://orvillemcdonald.com)
- - date published: 2023-10-25T09:21:05.715824+00:00
- - user: None
- - tags: ['personal']
-
-## The Orwell Foundation
- - [https://www.orwellfoundation.com](https://www.orwellfoundation.com)
- - date published: 2023-10-25T11:26:43.410563+00:00
- - user: None
- - tags: []
-
-## Oryx
- - [https://www.oryxspioenkop.com](https://www.oryxspioenkop.com)
- - date published: 2023-10-25T16:27:36.030855+00:00
- - user: None
- - tags: []
-
-## The OS/2 Museum
- - [https://www.os2museum.com](https://www.os2museum.com)
- - date published: 2023-10-25T16:27:40.415903+00:00
- - user: None
- - tags: []
-
-## oschvr.com
- - [https://oschvr.com](https://oschvr.com)
- - date published: 2023-10-25T16:27:41.499435+00:00
- - user: None
- - tags: []
-
-## osintme.com
- - [https://www.osintme.com](https://www.osintme.com)
- - date published: 2023-10-25T16:27:45.841879+00:00
- - user: None
- - tags: []
-
-## OSnews  -  Exploring the Future of Computing
- - [https://www.osnews.com](https://www.osnews.com)
- - date published: 2023-10-25T09:34:29.424722+00:00
- - user: None
- - tags: []
-
-## All Projects
-    - OSSRank
- - [https://ossrank.com](https://ossrank.com)
- - date published: 2023-10-25T16:27:50.745403+00:00
- - user: None
- - tags: []
-
-## Danny's Blog
- - [https://blog.otterstack.com](https://blog.otterstack.com)
- - date published: 2023-10-25T16:27:51.252333+00:00
- - user: None
- - tags: []
-
-## AI-Powered Automatic PostgreSQL & MySQL Tuning | OtterTune
- - [https://ottertune.com](https://ottertune.com)
- - date published: 2023-10-25T16:27:55.088952+00:00
- - user: None
- - tags: []
-
-## Oxford Academic
- - [https://academic.oup.com](https://academic.oup.com)
- - date published: 2023-10-25T16:27:59.208559+00:00
- - user: None
- - tags: []
-
-## OUPblog | Oxford University Press’s Academic Insights for the World
- - [https://blog.oup.com](https://blog.oup.com)
- - date published: 2023-10-25T16:28:04.688791+00:00
- - user: None
- - tags: []
-
-## Homepage - Oxford University Press
- - [https://global.oup.com](https://global.oup.com)
- - date published: 2023-10-25T16:28:11.875051+00:00
- - user: None
- - tags: []
-
-## OurBigBook.com
- - [https://ourbigbook.com](https://ourbigbook.com)
- - date published: 2023-12-02T02:46:08.135245+00:00
- - user: None
- - tags: []
-
-## World of Pixels
- - [https://ourworldofpixels.com](https://ourworldofpixels.com)
- - date published: 2023-10-25T08:36:48.464142+00:00
- - user: None
- - tags: []
-
-## Outdoor Status
- - [https://outdoorstatus.com](https://outdoorstatus.com)
- - date published: 2023-10-25T16:28:14.906908+00:00
- - user: None
- - tags: []
-
-## Outfunnel - Sales & Marketing Workflow Platform
- - [https://outfunnel.com](https://outfunnel.com)
- - date published: 2023-10-25T16:28:17.037385+00:00
- - user: None
- - tags: []
-
-## OutHorse Your Email
- - [http://outhorseyouremail.com](http://outhorseyouremail.com)
- - date published: 2023-10-25T16:28:24.817697+00:00
- - user: None
- - tags: []
-
-## OutKick - Fearless Sports Media Company Founded by Clay Travis
- - [https://www.outkick.com](https://www.outkick.com)
- - date published: 2023-10-25T10:09:04.240719+00:00
- - user: None
- - tags: []
-
-## VELO - Competitive Cycling News, Race Results and Bike Reviews
- - [https://velo.outsideonline.com](https://velo.outsideonline.com)
- - date published: 2023-11-02T15:51:17.506295+00:00
- - user: None
- - tags: []
-
-## Outside Magazine
- - [https://www.outsideonline.com](https://www.outsideonline.com)
- - date published: 2023-10-25T16:28:28.955211+00:00
- - user: None
- - tags: []
-
-## Outsider Club | Because You'll Never Be On The Inside
- - [https://www.outsiderclub.com](https://www.outsiderclub.com)
- - date published: 2023-10-25T16:28:31.579451+00:00
- - user: None
- - tags: []
-
-## OutThere Colorado
- - [https://www.outtherecolorado.com](https://www.outtherecolorado.com)
- - date published: 2023-10-25T16:28:37.775032+00:00
- - user: None
- - tags: []
-
-## Overcoming Bias | Robin Hanson | Substack
- - [https://www.overcomingbias.com](https://www.overcomingbias.com)
- - date published: 2023-10-25T09:40:33.681379+00:00
- - user: None
- - tags: ['substack']
-
-## overexact.com
- - [https://overexact.com](https://overexact.com)
- - date published: 2023-10-25T16:28:44.079753+00:00
- - user: None
- - tags: []
-
-## OversightBoard
- - [https://www.oversightboard.com](https://www.oversightboard.com)
- - date published: 2023-11-28T20:53:29+00:00
- - user: rumpel
- - tags: ['misinformation', 'ministry of truth', 'disinformation']
-
 ## Overthinking Money - Personal finance, entrepreneurship, and economics
  - [https://overthinkingmoney.com](https://overthinkingmoney.com)
  - date published: 2023-11-21T19:10:01.479781+00:00
@@ -515,6 +328,12 @@
  - user: None
  - tags: []
 
+## ~patmaddox: Home
+ - [https://patmaddox.com](https://patmaddox.com)
+ - date published: 2023-12-04T06:13:53.079304+00:00
+ - user: None
+ - tags: []
+
 ## Patreon | News | Home
  - [https://blog.patreon.com](https://blog.patreon.com)
  - date published: 2023-10-25T11:32:44.994110+00:00
@@ -527,6 +346,12 @@
  - user: None
  - tags: ['crowdfunding']
 
+## Max  FitzGerald  | Patreon
+ - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
+ - date published: 2023-10-27T15:07:52+00:00
+ - user: rumpel
+ - tags: ['tabletop games', 'turnip28']
+
 ## Home · Patrick Collison
  - [https://patrickcollison.com](https://patrickcollison.com)
  - date published: 2023-10-25T08:47:23.257678+00:00
@@ -536,6 +361,12 @@
 ## Patrick Conway
  - [https://patrickconway.com](https://patrickconway.com)
  - date published: 2023-11-29T16:18:59.190945+00:00
+ - user: None
+ - tags: ['personal']
+
+## Patrick Yandell
+ - [http://patrickyandell.com](http://patrickyandell.com)
+ - date published: 2023-11-29T14:24:16.894178+00:00
  - user: None
  - tags: ['personal']
 
@@ -2007,6 +1838,12 @@
  - tags: []
 
 ## PreSonus Software
+ - [http://www.presonussoftware.com](http://www.presonussoftware.com)
+ - date published: 2023-11-27T01:06:49.489913+00:00
+ - user: None
+ - tags: []
+
+## PreSonus Software
  - [https://www.presonussoftware.com](https://www.presonussoftware.com)
  - date published: 2023-11-27T01:06:49.801011+00:00
  - user: None
@@ -2031,6 +1868,12 @@
  - tags: []
 
 ## Prestissimo Media
+ - [http://prestissimo-guitar.com](http://prestissimo-guitar.com)
+ - date published: 2023-12-03T23:31:16.865024+00:00
+ - user: None
+ - tags: ['personal']
+
+## Prestissimo Media
  - [https://prestissimo-guitar.com](https://prestissimo-guitar.com)
  - date published: 2023-12-03T23:31:18.327725+00:00
  - user: None
@@ -2051,6 +1894,12 @@
 ## Prevention.com - Health Advice, Nutrition Tips, Trusted Medical Information
  - [https://www.prevention.com](https://www.prevention.com)
  - date published: 2023-10-25T16:39:45.941407+00:00
+ - user: None
+ - tags: []
+
+## PRIMETIMER
+ - [https://www.primetimer.com](https://www.primetimer.com)
+ - date published: 2023-12-04T17:36:35.353924+00:00
  - user: None
  - tags: []
 
@@ -2490,6 +2339,12 @@
  - [https://purplehoisin.com](https://purplehoisin.com)
  - date published: 2023-10-25T16:42:23.995556+00:00
  - user: None
+ - tags: []
+
+## Freefall 3970 October 13, 2023
+ - [http://freefall.purrsia.com](http://freefall.purrsia.com)
+ - date published: 2023-11-03T00:47:50+00:00
+ - user: rumpel
  - tags: []
 
 ## Pursuing Reality | Adam Elwood | Substack
@@ -3562,6 +3417,12 @@
  - user: None
  - tags: []
 
+## Reel Inequality: Charting the Vanishing Middle Class of Movies
+ - [https://www.reelinequality.com](https://www.reelinequality.com)
+ - date published: 2023-12-04T21:13:08+00:00
+ - user: None
+ - tags: []
+
 ## Refactoring UI
  - [https://www.refactoringui.com](https://www.refactoringui.com)
  - date published: 2023-10-25T16:48:55.710835+00:00
@@ -4047,6 +3908,12 @@
  - date published: 2023-10-25T16:51:19.430482+00:00
  - user: None
  - tags: []
+
+## Rick Umali's Home Page
+ - [http://rickumali.com](http://rickumali.com)
+ - date published: 2023-12-03T15:55:25.635997+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Rick Umali's Home Page
  - [https://rickumali.com](https://rickumali.com)
@@ -4563,6 +4430,12 @@
  - date published: 2023-10-25T16:54:29.700415+00:00
  - user: None
  - tags: []
+
+## my blog
+ - [http://ronzhyn.com](http://ronzhyn.com)
+ - date published: 2023-12-03T01:43:14.702240+00:00
+ - user: None
+ - tags: ['personal']
 
 ## my blog
  - [https://ronzhyn.com](https://ronzhyn.com)
@@ -6003,4 +5876,130 @@
  - date published: 2023-11-27T11:33:27+00:00
  - user: rumpel
  - tags: ['movies']
+
+## Shanley
+ - [https://www.shanleykane.com](https://www.shanleykane.com)
+ - date published: 2023-10-25T17:03:13.290534+00:00
+ - user: None
+ - tags: []
+
+## Shannon E. Thomas
+ - [https://shannonethomas.com](https://shannonethomas.com)
+ - date published: 2023-11-22T18:43:41.476621+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Shape of Code
+ - [https://shape-of-code.com](https://shape-of-code.com)
+ - date published: 2023-10-25T17:03:20.555625+00:00
+ - user: None
+ - tags: []
+
+## Shapecatcher: Draw the Unicode character you want!
+ - [https://shapecatcher.com](https://shapecatcher.com)
+ - date published: 2023-10-25T17:03:21.120346+00:00
+ - user: None
+ - tags: []
+
+## Larry Charbonneau - Web Developer / Diver / Husker
+ - [https://www.sharbonline.com](https://www.sharbonline.com)
+ - date published: 2023-10-25T17:03:23.397222+00:00
+ - user: None
+ - tags: []
+
+## ShareGPT: Share your wildest ChatGPT conversations with one click.
+ - [https://sharegpt.com](https://sharegpt.com)
+ - date published: 2023-10-25T17:03:24.394627+00:00
+ - user: None
+ - tags: []
+
+## Shareware Heroes | A book by Richard Moss
+ - [https://sharewareheroes.com](https://sharewareheroes.com)
+ - date published: 2023-10-25T17:03:25.595114+00:00
+ - user: None
+ - tags: []
+
+## Sharoma
+ - [https://www.sharoma.com](https://www.sharoma.com)
+ - date published: 2023-10-25T08:47:52.772488+00:00
+ - user: None
+ - tags: ['personal']
+
+## ShaunOConnell.com – GP | Commissioner | Coach & Mentor | Blogger
+ - [https://shaunoconnell.com](https://shaunoconnell.com)
+ - date published: 2023-10-25T17:03:27.779859+00:00
+ - user: None
+ - tags: []
+
+## %vops, SRE, and Software Engineering Blog%%
+ - [https://shavingtheyak.com](https://shavingtheyak.com)
+ - date published: 2023-11-19T16:59:12.994606+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [https://shawneemissionpost.com](https://shawneemissionpost.com)
+ - date published: 2023-11-28T00:20:54.574204+00:00
+ - user: None
+ - tags: []
+
+## Shawn Tabrizi | A site about discovery through experience
+ - [https://www.shawntabrizi.com](https://www.shawntabrizi.com)
+ - date published: 2023-10-25T17:03:28.603657+00:00
+ - user: None
+ - tags: []
+
+## https://www.sheepesports.com
+ - [https://www.sheepesports.com](https://www.sheepesports.com)
+ - date published: 2023-11-03T01:49:18.102291+00:00
+ - user: None
+ - tags: []
+
+## Shepherd - Browse the best books to read.
+ - [https://shepherd.com](https://shepherd.com)
+ - date published: 2023-11-01T13:03:34.046684+00:00
+ - user: None
+ - tags: []
+
+## Sherman On Software
+ - [https://shermanonsoftware.com](https://shermanonsoftware.com)
+ - date published: 2023-10-29T04:21:17.368512+00:00
+ - user: None
+ - tags: []
+
+## shestherun
+ - [https://shestherun.com](https://shestherun.com)
+ - date published: 2023-12-02T13:41:38.958290+00:00
+ - user: None
+ - tags: ['personal']
+
+## Shining Science
+ - [https://www.shiningscience.com](https://www.shiningscience.com)
+ - date published: 2023-10-25T17:03:30.804921+00:00
+ - user: None
+ - tags: []
+
+## Shitlassian - name and shame
+ - [https://shitlassian.com](https://shitlassian.com)
+ - date published: 2023-10-25T17:03:32.102260+00:00
+ - user: None
+ - tags: []
+
+## Shivan
+ - [https://shivankaul.com](https://shivankaul.com)
+ - date published: 2023-12-02T21:17:12.804590+00:00
+ - user: None
+ - tags: ['personal']
+
+## shmuplations.com
+ - [https://shmuplations.com](https://shmuplations.com)
+ - date published: 2023-10-25T17:03:34.248572+00:00
+ - user: None
+ - tags: []
+
+## Shondaland.com
+ - [https://www.shondaland.com](https://www.shondaland.com)
+ - date published: 2023-10-25T17:03:37.480551+00:00
+ - user: None
+ - tags: []
 
