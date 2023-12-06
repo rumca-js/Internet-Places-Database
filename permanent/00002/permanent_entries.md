@@ -1,3 +1,45 @@
+## Introduction - Projectbook
+ - [https://projectbook.code.brettchalupa.com](https://projectbook.code.brettchalupa.com)
+ - date published: 2023-10-25T13:12:29.763154+00:00
+ - user: None
+ - tags: []
+
+## Brett Macfarlane
+ - [https://www.brettmacfarlane.com](https://www.brettmacfarlane.com)
+ - date published: 2023-10-25T13:12:32.562589+00:00
+ - user: None
+ - tags: []
+
+## Corporate credit cards, spend management software, reimbursements, travel, bill pay | Brex
+ - [https://www.brex.com](https://www.brex.com)
+ - date published: 2023-10-25T13:12:39.301399+00:00
+ - user: None
+ - tags: []
+
+## Brian Coords
+ - [https://www.briancoords.com](https://www.briancoords.com)
+ - date published: 2023-11-29T14:54:07.324875+00:00
+ - user: None
+ - tags: ['personal']
+
+## My book is available on Amazon!
+ - [https://briandavidhall.com](https://briandavidhall.com)
+ - date published: 2023-11-29T14:44:26.659836+00:00
+ - user: None
+ - tags: ['personal']
+
+## Brian Gitt
+ - [https://briangitt.com](https://briangitt.com)
+ - date published: 2023-10-25T13:12:41.543207+00:00
+ - user: None
+ - tags: []
+
+## Brian Kitano
+ - [https://blog.briankitano.com](https://blog.briankitano.com)
+ - date published: 2023-10-25T13:12:45.233677+00:00
+ - user: None
+ - tags: []
+
 ## Brian Koberlein
  - [https://briankoberlein.com](https://briankoberlein.com)
  - date published: 2023-10-25T13:12:49.703150+00:00
@@ -555,6 +597,12 @@
  - date published: 2023-12-03T01:44:15.857851+00:00
  - user: None
  - tags: ['personal']
+
+## Cameron MacLeod
+ - [https://www.cameronmacleod.com](https://www.cameronmacleod.com)
+ - date published: 2023-12-05T21:27:15.502362+00:00
+ - user: None
+ - tags: []
 
 ## Campus FM - stream college radio
  - [https://www.campus-fm.com](https://www.campus-fm.com)
@@ -1255,6 +1303,12 @@
 ## Application Security Testing Company | Software Security Testing Solutions | Checkmarx
  - [https://checkmarx.com](https://checkmarx.com)
  - date published: 2023-10-25T13:20:53.896133+00:00
+ - user: None
+ - tags: []
+
+## Checkmate 19" IPS Retro Monitor
+ - [https://www.checkmate1500plus.com](https://www.checkmate1500plus.com)
+ - date published: 2023-12-05T18:39:42+00:00
  - user: None
  - tags: []
 
@@ -4042,6 +4096,12 @@
  - user: None
  - tags: []
 
+## Designer & developer | Dave Smyth
+ - [https://davesmyth.com](https://davesmyth.com)
+ - date published: 2023-12-05T14:38:43.694748+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Dave Snider
  - [https://www.davesnider.com](https://www.davesnider.com)
  - date published: 2023-10-25T15:09:54.539169+00:00
@@ -4491,6 +4551,12 @@
  - date published: 2023-10-25T13:49:00.328092+00:00
  - user: None
  - tags: []
+
+## Denise Cornell - Customer Marketing
+ - [https://www.denisecornell.com](https://www.denisecornell.com)
+ - date published: 2023-12-05T14:38:38.929100+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Denis Reis
  - [http://www.denisreis.com](http://www.denisreis.com)
@@ -5930,72 +5996,6 @@
 ## eBooks.com: Buy Fiction, Non-Fiction, and Textbooks Online
  - [https://www.ebooks.com](https://www.ebooks.com)
  - date published: 2023-10-25T08:24:01.860726+00:00
- - user: None
- - tags: []
-
-## Echoes of Somewhere - Generative AI assisted experimental freeware 2.5D point and click adventure game research project
- - [https://echoesofsomewhere.com](https://echoesofsomewhere.com)
- - date published: 2023-10-25T14:03:11.162968+00:00
- - user: None
- - tags: []
-
-## EchoNewsHub » Latest World News, Entertainment, Business, Sports News, Celebrity Gossip
- - [https://echonewshub.com](https://echonewshub.com)
- - date published: 2023-10-25T14:03:15.908775+00:00
- - user: None
- - tags: []
-
-## EcommerceBytes - The leader of ecommerce news and information for online sellers. - EcommerceBytes
- - [https://www.ecommercebytes.com](https://www.ecommercebytes.com)
- - date published: 2023-10-25T14:03:19.723596+00:00
- - user: None
- - tags: []
-
-## Economics from the Top Down – New ideas in economics and the social sciences
- - [https://economicsfromthetopdown.com](https://economicsfromthetopdown.com)
- - date published: 2023-10-25T14:03:29.238084+00:00
- - user: None
- - tags: []
-
-## The Economist | World News, Economics, Politics, Business & Finance
- - [https://www.economist.com](https://www.economist.com)
- - date published: 2023-10-25T10:52:28.321933+00:00
- - user: None
- - tags: []
-
-## EcoWatch - For a Healthier Planet and Life
- - [https://www.ecowatch.com](https://www.ecowatch.com)
- - date published: 2023-11-14T16:19:51.776883+00:00
- - user: None
- - tags: []
-
-## https://www.edbatista.com
- - [https://www.edbatista.com](https://www.edbatista.com)
- - date published: 2023-10-25T14:03:32.487029+00:00
- - user: None
- - tags: []
-
-## Eddie Hinkle - Software engineer, manager and podcaster
- - [https://eddiehinkle.com](https://eddiehinkle.com)
- - date published: 2023-10-25T08:45:27.005913+00:00
- - user: None
- - tags: ['personal']
-
-## ederson melo
- - [https://www.edersonmelo.com](https://www.edersonmelo.com)
- - date published: 2023-11-29T15:29:43.227842+00:00
- - user: None
- - tags: ['personal']
-
-## Official website of ERB Inc., creator of Tarzan®, Moon Men™, John Carter of Mars® and more! > Edgar Rice Burroughs
- - [https://www.edgarriceburroughs.com](https://www.edgarriceburroughs.com)
- - date published: 2023-10-28T16:09:33.391259+00:00
- - user: None
- - tags: []
-
-## EdgeDB | The post-SQL era has arrived
- - [https://www.edgedb.com](https://www.edgedb.com)
- - date published: 2023-11-02T00:30:12.643448+00:00
  - user: None
  - tags: []
 

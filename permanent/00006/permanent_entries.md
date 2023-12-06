@@ -1,3 +1,136 @@
+## Oskar Eggert
+ - [https://www.oskareggert.com](https://www.oskareggert.com)
+ - date published: 2023-12-05T14:37:10.380947+00:00
+ - user: None
+ - tags: ['personal']
+
+## OSnews  -  Exploring the Future of Computing
+ - [https://www.osnews.com](https://www.osnews.com)
+ - date published: 2023-10-25T09:34:29.424722+00:00
+ - user: None
+ - tags: []
+
+## All Projects
+    - OSSRank
+ - [https://ossrank.com](https://ossrank.com)
+ - date published: 2023-10-25T16:27:50.745403+00:00
+ - user: None
+ - tags: []
+
+## Danny's Blog
+ - [https://blog.otterstack.com](https://blog.otterstack.com)
+ - date published: 2023-10-25T16:27:51.252333+00:00
+ - user: None
+ - tags: []
+
+## AI-Powered Automatic PostgreSQL & MySQL Tuning | OtterTune
+ - [https://ottertune.com](https://ottertune.com)
+ - date published: 2023-10-25T16:27:55.088952+00:00
+ - user: None
+ - tags: []
+
+## Oxford Academic
+ - [https://academic.oup.com](https://academic.oup.com)
+ - date published: 2023-10-25T16:27:59.208559+00:00
+ - user: None
+ - tags: []
+
+## OUPblog | Oxford University Press’s Academic Insights for the World
+ - [https://blog.oup.com](https://blog.oup.com)
+ - date published: 2023-10-25T16:28:04.688791+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Oxford University Press
+ - [https://global.oup.com](https://global.oup.com)
+ - date published: 2023-10-25T16:28:11.875051+00:00
+ - user: None
+ - tags: []
+
+## Oxford Languages | The Home of Language Data
+ - [https://languages.oup.com](https://languages.oup.com)
+ - date published: 2023-12-04T15:57:30.501689+00:00
+ - user: None
+ - tags: []
+
+## OurBigBook.com
+ - [https://ourbigbook.com](https://ourbigbook.com)
+ - date published: 2023-12-02T02:46:08.135245+00:00
+ - user: None
+ - tags: []
+
+## World of Pixels
+ - [https://ourworldofpixels.com](https://ourworldofpixels.com)
+ - date published: 2023-10-25T08:36:48.464142+00:00
+ - user: None
+ - tags: []
+
+## Outdoor Status
+ - [https://outdoorstatus.com](https://outdoorstatus.com)
+ - date published: 2023-10-25T16:28:14.906908+00:00
+ - user: None
+ - tags: []
+
+## Outfunnel - Sales & Marketing Workflow Platform
+ - [https://outfunnel.com](https://outfunnel.com)
+ - date published: 2023-10-25T16:28:17.037385+00:00
+ - user: None
+ - tags: []
+
+## OutHorse Your Email
+ - [http://outhorseyouremail.com](http://outhorseyouremail.com)
+ - date published: 2023-10-25T16:28:24.817697+00:00
+ - user: None
+ - tags: []
+
+## OutKick - Fearless Sports Media Company Founded by Clay Travis
+ - [https://www.outkick.com](https://www.outkick.com)
+ - date published: 2023-10-25T10:09:04.240719+00:00
+ - user: None
+ - tags: []
+
+## VELO - Competitive Cycling News, Race Results and Bike Reviews
+ - [https://velo.outsideonline.com](https://velo.outsideonline.com)
+ - date published: 2023-11-02T15:51:17.506295+00:00
+ - user: None
+ - tags: []
+
+## Outside Magazine
+ - [https://www.outsideonline.com](https://www.outsideonline.com)
+ - date published: 2023-10-25T16:28:28.955211+00:00
+ - user: None
+ - tags: []
+
+## Outsider Club | Because You'll Never Be On The Inside
+ - [https://www.outsiderclub.com](https://www.outsiderclub.com)
+ - date published: 2023-10-25T16:28:31.579451+00:00
+ - user: None
+ - tags: []
+
+## OutThere Colorado
+ - [https://www.outtherecolorado.com](https://www.outtherecolorado.com)
+ - date published: 2023-10-25T16:28:37.775032+00:00
+ - user: None
+ - tags: []
+
+## Overcoming Bias | Robin Hanson | Substack
+ - [https://www.overcomingbias.com](https://www.overcomingbias.com)
+ - date published: 2023-10-25T09:40:33.681379+00:00
+ - user: None
+ - tags: ['substack']
+
+## overexact.com
+ - [https://overexact.com](https://overexact.com)
+ - date published: 2023-10-25T16:28:44.079753+00:00
+ - user: None
+ - tags: []
+
+## OversightBoard
+ - [https://www.oversightboard.com](https://www.oversightboard.com)
+ - date published: 2023-11-28T20:53:29+00:00
+ - user: rumpel
+ - tags: ['misinformation', 'ministry of truth', 'disinformation']
+
 ## Overthinking Money - Personal finance, entrepreneurship, and economics
  - [https://overthinkingmoney.com](https://overthinkingmoney.com)
  - date published: 2023-11-21T19:10:01.479781+00:00
@@ -5349,6 +5482,12 @@
  - user: None
  - tags: ['personal']
 
+## SCOTUSblog - Independent News & Analysis on the U.S. Supreme Court
+ - [https://www.scotusblog.com](https://www.scotusblog.com)
+ - date published: 2023-12-05T14:10:03.185073+00:00
+ - user: None
+ - tags: []
+
 ## ScrapingBee, the best web scraping API.
  - [https://www.scrapingbee.com](https://www.scrapingbee.com)
  - date published: 2023-10-25T16:59:56.121936+00:00
@@ -5862,144 +6001,6 @@
 ## Shadertoy BETA
  - [https://www.shadertoy.com](https://www.shadertoy.com)
  - date published: 2023-10-25T17:03:10.073076+00:00
- - user: None
- - tags: []
-
-## ShadowBox Training – Accelerate Expertise
- - [https://www.shadowboxtraining.com](https://www.shadowboxtraining.com)
- - date published: 2023-10-25T17:03:12.236336+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://shallistreamit.com](https://shallistreamit.com)
- - date published: 2023-11-27T11:33:27+00:00
- - user: rumpel
- - tags: ['movies']
-
-## Shanley
- - [https://www.shanleykane.com](https://www.shanleykane.com)
- - date published: 2023-10-25T17:03:13.290534+00:00
- - user: None
- - tags: []
-
-## Shannon E. Thomas
- - [https://shannonethomas.com](https://shannonethomas.com)
- - date published: 2023-11-22T18:43:41.476621+00:00
- - user: None
- - tags: ['personal']
-
-## The Shape of Code
- - [https://shape-of-code.com](https://shape-of-code.com)
- - date published: 2023-10-25T17:03:20.555625+00:00
- - user: None
- - tags: []
-
-## Shapecatcher: Draw the Unicode character you want!
- - [https://shapecatcher.com](https://shapecatcher.com)
- - date published: 2023-10-25T17:03:21.120346+00:00
- - user: None
- - tags: []
-
-## Larry Charbonneau - Web Developer / Diver / Husker
- - [https://www.sharbonline.com](https://www.sharbonline.com)
- - date published: 2023-10-25T17:03:23.397222+00:00
- - user: None
- - tags: []
-
-## ShareGPT: Share your wildest ChatGPT conversations with one click.
- - [https://sharegpt.com](https://sharegpt.com)
- - date published: 2023-10-25T17:03:24.394627+00:00
- - user: None
- - tags: []
-
-## Shareware Heroes | A book by Richard Moss
- - [https://sharewareheroes.com](https://sharewareheroes.com)
- - date published: 2023-10-25T17:03:25.595114+00:00
- - user: None
- - tags: []
-
-## Sharoma
- - [https://www.sharoma.com](https://www.sharoma.com)
- - date published: 2023-10-25T08:47:52.772488+00:00
- - user: None
- - tags: ['personal']
-
-## ShaunOConnell.com – GP | Commissioner | Coach & Mentor | Blogger
- - [https://shaunoconnell.com](https://shaunoconnell.com)
- - date published: 2023-10-25T17:03:27.779859+00:00
- - user: None
- - tags: []
-
-## %vops, SRE, and Software Engineering Blog%%
- - [https://shavingtheyak.com](https://shavingtheyak.com)
- - date published: 2023-11-19T16:59:12.994606+00:00
- - user: None
- - tags: []
-
-## 403 Forbidden
- - [https://shawneemissionpost.com](https://shawneemissionpost.com)
- - date published: 2023-11-28T00:20:54.574204+00:00
- - user: None
- - tags: []
-
-## Shawn Tabrizi | A site about discovery through experience
- - [https://www.shawntabrizi.com](https://www.shawntabrizi.com)
- - date published: 2023-10-25T17:03:28.603657+00:00
- - user: None
- - tags: []
-
-## https://www.sheepesports.com
- - [https://www.sheepesports.com](https://www.sheepesports.com)
- - date published: 2023-11-03T01:49:18.102291+00:00
- - user: None
- - tags: []
-
-## Shepherd - Browse the best books to read.
- - [https://shepherd.com](https://shepherd.com)
- - date published: 2023-11-01T13:03:34.046684+00:00
- - user: None
- - tags: []
-
-## Sherman On Software
- - [https://shermanonsoftware.com](https://shermanonsoftware.com)
- - date published: 2023-10-29T04:21:17.368512+00:00
- - user: None
- - tags: []
-
-## shestherun
- - [https://shestherun.com](https://shestherun.com)
- - date published: 2023-12-02T13:41:38.958290+00:00
- - user: None
- - tags: ['personal']
-
-## Shining Science
- - [https://www.shiningscience.com](https://www.shiningscience.com)
- - date published: 2023-10-25T17:03:30.804921+00:00
- - user: None
- - tags: []
-
-## Shitlassian - name and shame
- - [https://shitlassian.com](https://shitlassian.com)
- - date published: 2023-10-25T17:03:32.102260+00:00
- - user: None
- - tags: []
-
-## Shivan
- - [https://shivankaul.com](https://shivankaul.com)
- - date published: 2023-12-02T21:17:12.804590+00:00
- - user: None
- - tags: ['personal']
-
-## shmuplations.com
- - [https://shmuplations.com](https://shmuplations.com)
- - date published: 2023-10-25T17:03:34.248572+00:00
- - user: None
- - tags: []
-
-## Shondaland.com
- - [https://www.shondaland.com](https://www.shondaland.com)
- - date published: 2023-10-25T17:03:37.480551+00:00
  - user: None
  - tags: []
 

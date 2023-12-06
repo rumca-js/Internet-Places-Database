@@ -1,3 +1,165 @@
+## TechYourChance
+ - [https://www.techyourchance.com](https://www.techyourchance.com)
+ - date published: 2023-10-28T02:15:09.534742+00:00
+ - user: None
+ - tags: []
+
+## ABQ Techzonics Tech Superstore - Electronic,Scientific,Industrial
+ - [https://techzonics.com](https://techzonics.com)
+ - date published: 2023-10-25T17:25:56.943934+00:00
+ - user: None
+ - tags: []
+
+## TED: Ideas Worth Spreading
+ - [https://www.ted.com](https://www.ted.com)
+ - date published: 2023-10-25T17:26:06.996712+00:00
+ - user: None
+ - tags: []
+
+## Teddy Zetterlund – Product Coach
+ - [https://teddyzetterlund.com](https://teddyzetterlund.com)
+ - date published: 2023-11-29T17:13:59.532978+00:00
+ - user: None
+ - tags: ['personal']
+
+## I’m a reliable product designer and front-end developer working on websites, applications, and HTML emails. | Ted Goas
+ - [https://www.tedgoas.com](https://www.tedgoas.com)
+ - date published: 2023-10-25T09:21:10.808694+00:00
+ - user: None
+ - tags: ['personal']
+
+## flak
+ - [https://flak.tedunangst.com](https://flak.tedunangst.com)
+ - date published: 2023-10-25T17:26:08.173750+00:00
+ - user: None
+ - tags: []
+
+## The Stone and the Shell – Using large digital libraries to advance  literary history
+ - [https://tedunderwood.com](https://tedunderwood.com)
+ - date published: 2023-10-25T17:26:17.888935+00:00
+ - user: None
+ - tags: []
+
+## Teen Vogue: Fashion, Beauty, Entertainment News for Teens | Teen Vogue
+ - [https://www.teenvogue.com](https://www.teenvogue.com)
+ - date published: 2023-10-25T17:26:19.996429+00:00
+ - user: None
+ - tags: []
+
+## Teflon™ Home | Teflon™ Fluoropolymers
+ - [https://www.teflon.com](https://www.teflon.com)
+ - date published: 2023-11-05T16:32:38.956419+00:00
+ - user: None
+ - tags: []
+
+## TelecomTV | Where Telecoms Connects – 5G, Open Source, SDN, NFV
+ - [https://www.telecomtv.com](https://www.telecomtv.com)
+ - date published: 2023-10-25T17:26:27.343477+00:00
+ - user: None
+ - tags: []
+
+## Telefunc
+ - [https://telefunc.com](https://telefunc.com)
+ - date published: 2023-10-25T17:26:28.348990+00:00
+ - user: None
+ - tags: []
+
+## Submarine Cable Map 2023
+ - [https://submarine-cable-map-2023.telegeography.com](https://submarine-cable-map-2023.telegeography.com)
+ - date published: 2023-12-02T07:55:04+00:00
+ - user: None
+ - tags: []
+
+## Teleprompter Mirror | Beamsplitter & Teleprompter Software
+ - [https://telepromptermirror.com](https://telepromptermirror.com)
+ - date published: 2023-10-25T17:26:33.807422+00:00
+ - user: None
+ - tags: []
+
+## Telerik & Kendo UI - .NET Components Suites & JavaScript UI Libraries
+ - [https://www.telerik.com](https://www.telerik.com)
+ - date published: 2023-10-25T17:26:36.939420+00:00
+ - user: None
+ - tags: []
+
+## Teller Report
+ - [https://www.tellerreport.com](https://www.tellerreport.com)
+ - date published: 2023-10-25T17:26:40.471754+00:00
+ - user: None
+ - tags: []
+
+## BBS Still Exist
+ - [https://www.telnetbbsguide.com](https://www.telnetbbsguide.com)
+ - date published: 2023-11-03T23:29:11+00:00
+ - user: None
+ - tags: []
+
+## Tempus Ex Blog
+ - [https://blog.tempus-ex.com](https://blog.tempus-ex.com)
+ - date published: 2023-10-25T17:26:41.521155+00:00
+ - user: None
+ - tags: []
+
+## Tenacious D - The Official Website!
+ - [https://tenaciousd.com](https://tenaciousd.com)
+ - date published: 2023-11-01T09:33:17.217029+00:00
+ - user: None
+ - tags: ['music band']
+
+## Tenderlove Making |  tenderlovemaking.com
+ - [https://tenderlovemaking.com](https://tenderlovemaking.com)
+ - date published: 2023-10-25T17:26:44.547477+00:00
+ - user: None
+ - tags: []
+
+## TenderOwl
+ - [https://tenderowl.com](https://tenderowl.com)
+ - date published: 2023-10-25T17:26:45.249090+00:00
+ - user: None
+ - tags: []
+
+## Tenzir
+ - [https://docs.tenzir.com](https://docs.tenzir.com)
+ - date published: 2023-10-25T17:26:46.083579+00:00
+ - user: None
+ - tags: []
+
+## TerminusDB - Made for developers who see the value of data
+ - [https://terminusdb.com](https://terminusdb.com)
+ - date published: 2023-10-25T17:26:59.630117+00:00
+ - user: None
+ - tags: []
+
+## Terrastruct
+ - [https://terrastruct.com](https://terrastruct.com)
+ - date published: 2023-10-27T08:52:26.171059+00:00
+ - user: None
+ - tags: []
+
+## Terrastruct | Diagramming tools crafted to visualize software architecture
+ - [https://www.terrastruct.com](https://www.terrastruct.com)
+ - date published: 2023-10-25T17:27:01.530729+00:00
+ - user: None
+ - tags: []
+
+## Terrible Book Club
+ - [https://terriblebookclub.com](https://terriblebookclub.com)
+ - date published: 2023-11-24T06:04:10.754968+00:00
+ - user: None
+ - tags: []
+
+## Terrible real estate agent photographs
+ - [https://terriblerealestateagentphotos.com](https://terriblerealestateagentphotos.com)
+ - date published: 2023-10-25T17:27:04.177363+00:00
+ - user: None
+ - tags: []
+
+## Tesla | Developer
+ - [https://developer.tesla.com](https://developer.tesla.com)
+ - date published: 2023-10-25T17:27:05.491866+00:00
+ - user: None
+ - tags: []
+
 ## Tesla Investor Relations
  - [https://ir.tesla.com](https://ir.tesla.com)
  - date published: 2023-10-25T17:27:09.938562+00:00
@@ -1277,6 +1439,12 @@
  - user: None
  - tags: []
 
+## The Satanic Temple - Official Website
+ - [https://thesatanictemple.com](https://thesatanictemple.com)
+ - date published: 2023-12-05T15:12:31+00:00
+ - user: rumpel
+ - tags: ['satanic temple', 'satanism']
+
 ## thesephist.com
  - [https://thesephist.com](https://thesephist.com)
  - date published: 2023-10-25T17:38:55.209431+00:00
@@ -2232,6 +2400,12 @@
  - user: None
  - tags: []
 
+## Tony Beato | UI/UX Designer & Frontend Developer | tonybeato.com
+ - [https://tonybeato.com](https://tonybeato.com)
+ - date published: 2023-12-05T14:37:28.614161+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Tony Dinh's Newsletter | Substack
  - [https://news.tonydinh.com](https://news.tonydinh.com)
  - date published: 2023-10-25T17:44:16.928207+00:00
@@ -2759,6 +2933,12 @@
 ## Throw™ - Ask Questions Anonymously, Get the Best Answers
  - [https://www.trythrow.com](https://www.trythrow.com)
  - date published: 2023-10-25T17:48:38.692805+00:00
+ - user: None
+ - tags: []
+
+## Show HN: TSDiagram – Diagrams as Code with TypeScript
+ - [https://tsdiagram.com](https://tsdiagram.com)
+ - date published: 2023-12-05T02:01:35+00:00
  - user: None
  - tags: []
 
@@ -5815,186 +5995,6 @@
 ## Art as Illumination | An art blog from Jacob Rowan Studios
  - [https://artasillumination.files.wordpress.com](https://artasillumination.files.wordpress.com)
  - date published: 2023-10-25T18:08:58.698123+00:00
- - user: None
- - tags: []
-
-## Barelyon
- - [https://barelyonmusic.wordpress.com](https://barelyonmusic.wordpress.com)
- - date published: 2023-11-29T18:20:30.794263+00:00
- - user: None
- - tags: ['personal']
-
-## The Beat Patrol | Music and Beat literature-related blogsite
- - [https://beatpatrol.wordpress.com](https://beatpatrol.wordpress.com)
- - date published: 2023-10-25T18:09:12.393648+00:00
- - user: None
- - tags: []
-
-## There's no place like home – (residence of electronics enthusiasts)
- - [https://beletronics.wordpress.com](https://beletronics.wordpress.com)
- - date published: 2023-10-25T18:09:15.682629+00:00
- - user: None
- - tags: []
-
-## Big Dan the Blogging Man
- - [https://bigdanzblog.wordpress.com](https://bigdanzblog.wordpress.com)
- - date published: 2023-10-25T18:09:29.075936+00:00
- - user: None
- - tags: []
-
-## Binary Debt – Systems programming, computer architecture & algorithms
- - [https://binarydebt.wordpress.com](https://binarydebt.wordpress.com)
- - date published: 2023-10-25T18:09:32.894806+00:00
- - user: None
- - tags: []
-
-## Brick Experiment Channel
- - [https://brickexperimentchannel.wordpress.com](https://brickexperimentchannel.wordpress.com)
- - date published: 2023-10-25T18:09:40.411395+00:00
- - user: None
- - tags: []
-
-## Juan Silva
- - [https://bufalojuan.wordpress.com](https://bufalojuan.wordpress.com)
- - date published: 2023-11-29T17:13:49.970436+00:00
- - user: None
- - tags: ['personal']
-
-## blog :: Brent -> [String]
- - [https://byorgey.wordpress.com](https://byorgey.wordpress.com)
- - date published: 2023-10-25T18:09:52.299601+00:00
- - user: None
- - tags: []
-
-## Cape Cod Test Kitchen
- - [https://capecodtestkitchen.wordpress.com](https://capecodtestkitchen.wordpress.com)
- - date published: 2023-11-29T14:21:14.967486+00:00
- - user: None
- - tags: ['personal']
-
-## Casey Handmer's blog – Space, Travel, Technology, 3D Printing, Energy, Writing
- - [https://caseyhandmer.wordpress.com](https://caseyhandmer.wordpress.com)
- - date published: 2023-10-25T18:09:57.703133+00:00
- - user: None
- - tags: []
-
-## Alien Blognezz
- - [https://cazzyalien.wordpress.com](https://cazzyalien.wordpress.com)
- - date published: 2023-11-29T15:45:44.563508+00:00
- - user: None
- - tags: ['personal']
-
-## Codemanship's Blog
- - [https://codemanship.wordpress.com](https://codemanship.wordpress.com)
- - date published: 2023-11-20T09:24:43.633895+00:00
- - user: None
- - tags: []
-
-## Computing Ed Research - Guzdial's Take | How do people understand computing, and how can we improve that understanding?
- - [https://computinged.wordpress.com](https://computinged.wordpress.com)
- - date published: 2023-10-25T18:10:13.200424+00:00
- - user: None
- - tags: []
-
-## cordlandwehr – Adventures in Open Source Development
- - [https://cordlandwehr.wordpress.com](https://cordlandwehr.wordpress.com)
- - date published: 2023-10-25T18:10:23.632127+00:00
- - user: None
- - tags: []
-
-## The Craft of Coding – Musings on programming and education
- - [https://craftofcoding.wordpress.com](https://craftofcoding.wordpress.com)
- - date published: 2023-10-25T18:10:30.908567+00:00
- - user: None
- - tags: []
-
-## The Curious Terran
- - [https://curiousterran.wordpress.com](https://curiousterran.wordpress.com)
- - date published: 2023-11-29T14:22:05.627993+00:00
- - user: None
- - tags: ['personal']
-
-## Dead Reckonings – Lost Art in the Mathematical Sciences
- - [https://deadreckonings.files.wordpress.com](https://deadreckonings.files.wordpress.com)
- - date published: 2023-10-25T18:10:38.471657+00:00
- - user: None
- - tags: []
-
-## DeavidSedice's blog – Thoughts about programming
- - [https://deavid.wordpress.com](https://deavid.wordpress.com)
- - date published: 2023-10-25T18:10:48.058627+00:00
- - user: None
- - tags: []
-
-## DIY-Audio-Heaven | Enjoy music through headphones on a low budget
- - [https://diyaudioheaven.wordpress.com](https://diyaudioheaven.wordpress.com)
- - date published: 2023-10-25T18:11:03.735153+00:00
- - user: None
- - tags: []
-
-## dougallj
- - [https://dougallj.wordpress.com](https://dougallj.wordpress.com)
- - date published: 2023-10-25T18:11:12.312963+00:00
- - user: None
- - tags: []
-
-## D.R.A.S.T.I.C. Research – D.R.A.S.T.I.C. Research
- - [https://drasticresearch.files.wordpress.com](https://drasticresearch.files.wordpress.com)
- - date published: 2023-10-25T18:11:23.096110+00:00
- - user: None
- - tags: []
-
-## Short, Fat Matrices – a research blog by Dustin G. Mixon
- - [https://dustingmixon.wordpress.com](https://dustingmixon.wordpress.com)
- - date published: 2023-10-25T18:11:26.844417+00:00
- - user: None
- - tags: []
-
-## Ecologically Oriented | …with frequent whatnot
- - [https://ecologicallyoriented.wordpress.com](https://ecologicallyoriented.wordpress.com)
- - date published: 2023-10-25T18:11:30.809009+00:00
- - user: None
- - tags: []
-
-## ample code
- - [https://einarwh.wordpress.com](https://einarwh.wordpress.com)
- - date published: 2023-11-29T07:35:51.179721+00:00
- - user: None
- - tags: []
-
-## Elsa Johansson
- - [https://elsajohansson.wordpress.com](https://elsajohansson.wordpress.com)
- - date published: 2023-10-25T18:11:32.795763+00:00
- - user: None
- - tags: []
-
-## Ephemeral New York | Chronicling an ever-changing city through faded and forgotten artifacts
- - [https://ephemeralnewyork.wordpress.com](https://ephemeralnewyork.wordpress.com)
- - date published: 2023-10-25T18:11:41.936917+00:00
- - user: None
- - tags: []
-
-## Felipe Contreras
- - [https://felipec.wordpress.com](https://felipec.wordpress.com)
- - date published: 2023-10-25T18:11:44.469031+00:00
- - user: None
- - tags: []
-
-## The ryg blog | When I grow up I'll be an inventor.
- - [https://fgiesen.wordpress.com](https://fgiesen.wordpress.com)
- - date published: 2023-10-25T18:11:48.624320+00:00
- - user: None
- - tags: []
-
-## Firejail | security sandbox
- - [https://firejail.wordpress.com](https://firejail.wordpress.com)
- - date published: 2023-10-25T18:11:53.023724+00:00
- - user: None
- - tags: []
-
-## 高大伟 David Cowhig's Translation Blog
- - [https://gaodawei.wordpress.com](https://gaodawei.wordpress.com)
- - date published: 2023-10-25T18:12:05.460382+00:00
  - user: None
  - tags: []
 

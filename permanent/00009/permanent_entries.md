@@ -1,3 +1,183 @@
+## The Beat Patrol | Music and Beat literature-related blogsite
+ - [https://beatpatrol.wordpress.com](https://beatpatrol.wordpress.com)
+ - date published: 2023-10-25T18:09:12.393648+00:00
+ - user: None
+ - tags: []
+
+## There's no place like home – (residence of electronics enthusiasts)
+ - [https://beletronics.wordpress.com](https://beletronics.wordpress.com)
+ - date published: 2023-10-25T18:09:15.682629+00:00
+ - user: None
+ - tags: []
+
+## Big Dan the Blogging Man
+ - [https://bigdanzblog.wordpress.com](https://bigdanzblog.wordpress.com)
+ - date published: 2023-10-25T18:09:29.075936+00:00
+ - user: None
+ - tags: []
+
+## Binary Debt – Systems programming, computer architecture & algorithms
+ - [https://binarydebt.wordpress.com](https://binarydebt.wordpress.com)
+ - date published: 2023-10-25T18:09:32.894806+00:00
+ - user: None
+ - tags: []
+
+## Brick Experiment Channel
+ - [https://brickexperimentchannel.wordpress.com](https://brickexperimentchannel.wordpress.com)
+ - date published: 2023-10-25T18:09:40.411395+00:00
+ - user: None
+ - tags: []
+
+## Juan Silva
+ - [https://bufalojuan.wordpress.com](https://bufalojuan.wordpress.com)
+ - date published: 2023-11-29T17:13:49.970436+00:00
+ - user: None
+ - tags: ['personal']
+
+## blog :: Brent -> [String]
+ - [https://byorgey.wordpress.com](https://byorgey.wordpress.com)
+ - date published: 2023-10-25T18:09:52.299601+00:00
+ - user: None
+ - tags: []
+
+## Cape Cod Test Kitchen
+ - [https://capecodtestkitchen.wordpress.com](https://capecodtestkitchen.wordpress.com)
+ - date published: 2023-11-29T14:21:14.967486+00:00
+ - user: None
+ - tags: ['personal']
+
+## Casey Handmer's blog – Space, Travel, Technology, 3D Printing, Energy, Writing
+ - [https://caseyhandmer.wordpress.com](https://caseyhandmer.wordpress.com)
+ - date published: 2023-10-25T18:09:57.703133+00:00
+ - user: None
+ - tags: []
+
+## Alien Blognezz
+ - [https://cazzyalien.wordpress.com](https://cazzyalien.wordpress.com)
+ - date published: 2023-11-29T15:45:44.563508+00:00
+ - user: None
+ - tags: ['personal']
+
+## Codemanship's Blog
+ - [https://codemanship.wordpress.com](https://codemanship.wordpress.com)
+ - date published: 2023-11-20T09:24:43.633895+00:00
+ - user: None
+ - tags: []
+
+## Computing Ed Research - Guzdial's Take | How do people understand computing, and how can we improve that understanding?
+ - [https://computinged.wordpress.com](https://computinged.wordpress.com)
+ - date published: 2023-10-25T18:10:13.200424+00:00
+ - user: None
+ - tags: []
+
+## cordlandwehr – Adventures in Open Source Development
+ - [https://cordlandwehr.wordpress.com](https://cordlandwehr.wordpress.com)
+ - date published: 2023-10-25T18:10:23.632127+00:00
+ - user: None
+ - tags: []
+
+## The Craft of Coding – Musings on programming and education
+ - [https://craftofcoding.wordpress.com](https://craftofcoding.wordpress.com)
+ - date published: 2023-10-25T18:10:30.908567+00:00
+ - user: None
+ - tags: []
+
+## The Curious Terran
+ - [https://curiousterran.wordpress.com](https://curiousterran.wordpress.com)
+ - date published: 2023-11-29T14:22:05.627993+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dead Reckonings – Lost Art in the Mathematical Sciences
+ - [https://deadreckonings.files.wordpress.com](https://deadreckonings.files.wordpress.com)
+ - date published: 2023-10-25T18:10:38.471657+00:00
+ - user: None
+ - tags: []
+
+## DeavidSedice's blog – Thoughts about programming
+ - [https://deavid.wordpress.com](https://deavid.wordpress.com)
+ - date published: 2023-10-25T18:10:48.058627+00:00
+ - user: None
+ - tags: []
+
+## DIY-Audio-Heaven | Enjoy music through headphones on a low budget
+ - [https://diyaudioheaven.wordpress.com](https://diyaudioheaven.wordpress.com)
+ - date published: 2023-10-25T18:11:03.735153+00:00
+ - user: None
+ - tags: []
+
+## dougallj
+ - [https://dougallj.wordpress.com](https://dougallj.wordpress.com)
+ - date published: 2023-10-25T18:11:12.312963+00:00
+ - user: None
+ - tags: []
+
+## D.R.A.S.T.I.C. Research – D.R.A.S.T.I.C. Research
+ - [https://drasticresearch.files.wordpress.com](https://drasticresearch.files.wordpress.com)
+ - date published: 2023-10-25T18:11:23.096110+00:00
+ - user: None
+ - tags: []
+
+## Short, Fat Matrices – a research blog by Dustin G. Mixon
+ - [https://dustingmixon.wordpress.com](https://dustingmixon.wordpress.com)
+ - date published: 2023-10-25T18:11:26.844417+00:00
+ - user: None
+ - tags: []
+
+## Ecologically Oriented | …with frequent whatnot
+ - [https://ecologicallyoriented.wordpress.com](https://ecologicallyoriented.wordpress.com)
+ - date published: 2023-10-25T18:11:30.809009+00:00
+ - user: None
+ - tags: []
+
+## ample code
+ - [https://einarwh.wordpress.com](https://einarwh.wordpress.com)
+ - date published: 2023-11-29T07:35:51.179721+00:00
+ - user: None
+ - tags: []
+
+## Elsa Johansson
+ - [https://elsajohansson.wordpress.com](https://elsajohansson.wordpress.com)
+ - date published: 2023-10-25T18:11:32.795763+00:00
+ - user: None
+ - tags: []
+
+## Ephemeral New York | Chronicling an ever-changing city through faded and forgotten artifacts
+ - [https://ephemeralnewyork.wordpress.com](https://ephemeralnewyork.wordpress.com)
+ - date published: 2023-10-25T18:11:41.936917+00:00
+ - user: None
+ - tags: []
+
+## Felipe Contreras
+ - [https://felipec.wordpress.com](https://felipec.wordpress.com)
+ - date published: 2023-10-25T18:11:44.469031+00:00
+ - user: None
+ - tags: []
+
+## The ryg blog | When I grow up I'll be an inventor.
+ - [https://fgiesen.wordpress.com](https://fgiesen.wordpress.com)
+ - date published: 2023-10-25T18:11:48.624320+00:00
+ - user: None
+ - tags: []
+
+## Firejail | security sandbox
+ - [https://firejail.wordpress.com](https://firejail.wordpress.com)
+ - date published: 2023-10-25T18:11:53.023724+00:00
+ - user: None
+ - tags: []
+
+## 高大伟 David Cowhig's Translation Blog
+ - [https://gaodawei.wordpress.com](https://gaodawei.wordpress.com)
+ - date published: 2023-10-25T18:12:05.460382+00:00
+ - user: None
+ - tags: []
+
+## Mara Waka – _________________________________
+ - [https://geekstravelinjapan.wordpress.com](https://geekstravelinjapan.wordpress.com)
+ - date published: 2023-10-25T18:12:13.192265+00:00
+ - user: None
+ - tags: []
+
 ## Gravity and Levity | A blog about the big ideas in physics, plus a few other things
  - [https://gravityandlevity.wordpress.com](https://gravityandlevity.wordpress.com)
  - date published: 2023-10-25T18:12:20.895831+00:00
@@ -646,6 +826,12 @@
  - user: None
  - tags: []
 
+## Kalamazoo News, Weather, Sports, Breaking News | WWMT
+ - [https://wwmt.com](https://wwmt.com)
+ - date published: 2023-12-05T16:27:32.456152+00:00
+ - user: None
+ - tags: []
+
 ## https://www.com
  - [https://www.com](https://www.com)
  - date published: 2023-11-01T17:24:26.002971+00:00
@@ -841,6 +1027,12 @@
 ## Yahoo is part of the Yahoo family of brands
  - [https://au.finance.yahoo.com](https://au.finance.yahoo.com)
  - date published: 2023-10-25T18:22:17.506355+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://au.lifestyle.yahoo.com](https://au.lifestyle.yahoo.com)
+ - date published: 2023-12-05T12:34:14.779055+00:00
  - user: None
  - tags: []
 
@@ -1186,6 +1378,12 @@
  - user: None
  - tags: []
 
+## Yutong Bai
+ - [https://yutongbai.com](https://yutongbai.com)
+ - date published: 2023-12-05T15:30:15.106218+00:00
+ - user: None
+ - tags: []
+
 ## yyzkevin | Just another WordPress site
  - [https://www.yyzkevin.com](https://www.yyzkevin.com)
  - date published: 2023-10-25T18:23:38.141863+00:00
@@ -1395,6 +1593,12 @@
  - date published: 2023-10-25T18:25:29.902791+00:00
  - user: None
  - tags: []
+
+## Home
+ - [https://zipoapps.com](https://zipoapps.com)
+ - date published: 2023-12-05T21:49:36+00:00
+ - user: rumpel
+ - tags: ['software company']
 
 ## Zippia - Find Jobs, Salaries, Companies, Resume Help, Career Paths, and More
  - [https://www.zippia.com](https://www.zippia.com)
@@ -3636,6 +3840,12 @@ home
  - user: None
  - tags: []
 
+## JJTech
+ - [https://jjtech.dev](https://jjtech.dev)
+ - date published: 2023-12-05T17:46:59.391002+00:00
+ - user: None
+ - tags: []
+
 ## Julio Merino (jmmv.dev)
  - [https://jmmv.dev](https://jmmv.dev)
  - date published: 2023-10-25T08:58:38.049908+00:00
@@ -5377,6 +5587,12 @@ home
  - user: None
  - tags: []
 
+## Columbia News
+ - [https://news.columbia.edu](https://news.columbia.edu)
+ - date published: 2023-12-05T18:08:58.749533+00:00
+ - user: None
+ - tags: []
+
 ## Statistical Modeling, Causal Inference, and Social Science
  - [https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu)
  - date published: 2023-10-25T18:50:02.076404+00:00
@@ -5587,6 +5803,12 @@ home
  - user: rumpel
  - tags: ['george mason', 'university']
 
+## Georgia State University - Georgia State News Hub
+ - [https://news.gsu.edu](https://news.gsu.edu)
+ - date published: 2023-12-05T19:07:31.936621+00:00
+ - user: None
+ - tags: []
+
 ## Home | National Security Archive
  - [https://nsarchive.gwu.edu](https://nsarchive.gwu.edu)
  - date published: 2023-10-25T18:51:17.562894+00:00
@@ -5778,228 +6000,6 @@ home
 ## Kent Campus | Kent State University Kent State, one of Ohio’s leading public universities
  - [https://www.kent.edu](https://www.kent.edu)
  - date published: 2023-10-25T11:22:42.294245+00:00
- - user: None
- - tags: []
-
-## People
- - [https://people.cs.ksu.edu](https://people.cs.ksu.edu)
- - date published: 2023-10-25T18:53:27.215934+00:00
- - user: None
- - tags: []
-
-## KU Today | The University of Kansas
- - [https://today.ku.edu](https://today.ku.edu)
- - date published: 2023-10-25T18:53:30.550703+00:00
- - user: None
- - tags: []
-
-## http://cs.lmu.edu
- - [http://cs.lmu.edu](http://cs.lmu.edu)
- - date published: 2023-10-25T18:53:41.692173+00:00
- - user: None
- - tags: []
-
-## Electrical & Computer Engineering, Division of
- - [https://www.ece.lsu.edu](https://www.ece.lsu.edu)
- - date published: 2023-10-25T11:24:20.932943+00:00
- - user: None
- - tags: []
-
-## An Introduction to Computer Networks
- - [https://intronetworks.cs.luc.edu](https://intronetworks.cs.luc.edu)
- - date published: 2023-10-25T18:53:42.818300+00:00
- - user: None
- - tags: []
-
-## Official Miami Dade College Homepage
- - [https://www.mdc.edu](https://www.mdc.edu)
- - date published: 2023-10-25T11:22:46.236242+00:00
- - user: None
- - tags: []
-
-## aera
- - [https://aera.mit.edu](https://aera.mit.edu)
- - date published: 2023-10-25T18:53:43.612659+00:00
- - user: None
- - tags: []
-
-## MIT MAS.S68 | Generative AI for Constructive Communication
- - [https://ai4comm.media.mit.edu](https://ai4comm.media.mit.edu)
- - date published: 2023-10-25T18:53:45.427456+00:00
- - user: None
- - tags: []
-
-## Yuan Cao's Homepage
- - [http://caoyuan.scripts.mit.edu](http://caoyuan.scripts.mit.edu)
- - date published: 2023-10-25T08:49:04.244293+00:00
- - user: None
- - tags: ['personal']
-
-## Home | MIT Climate Portal
- - [https://climate.mit.edu](https://climate.mit.edu)
- - date published: 2023-10-25T18:53:47.317024+00:00
- - user: None
- - tags: []
-
-## courses.csail.mit.edu
- - [https://courses.csail.mit.edu](https://courses.csail.mit.edu)
- - date published: 2023-10-25T18:53:48.768679+00:00
- - user: None
- - tags: []
-
-## Introduction to Data-Centric AI
- - [https://dcai.csail.mit.edu](https://dcai.csail.mit.edu)
- - date published: 2023-10-25T18:53:49.969803+00:00
- - user: None
- - tags: []
-
-## MIT Press
- - [https://direct.mit.edu](https://direct.mit.edu)
- - date published: 2023-10-25T18:53:52.060229+00:00
- - user: None
- - tags: []
-
-## DSpace@MIT Home
- - [https://dspace.mit.edu](https://dspace.mit.edu)
- - date published: 2023-10-25T18:53:53.742765+00:00
- - user: None
- - tags: []
-
-## Fab Central
- - [https://fab.cba.mit.edu](https://fab.cba.mit.edu)
- - date published: 2023-10-25T18:53:54.780890+00:00
- - user: None
- - tags: []
-
-## Research | MIT CSAIL
- - [https://groups.csail.mit.edu](https://groups.csail.mit.edu)
- - date published: 2023-11-25T21:49:19.475927+00:00
- - user: None
- - tags: []
-
-## Living Wage Calculator
- - [https://livingwage.mit.edu](https://livingwage.mit.edu)
- - date published: 2023-10-25T18:53:56.639883+00:00
- - user: None
- - tags: []
-
-## MIT Mathematics
- - [https://math.mit.edu](https://math.mit.edu)
- - date published: 2023-10-25T18:54:09.948920+00:00
- - user: None
- - tags: []
-
-## The Missing Semester of Your CS Education
- - [https://missing.csail.mit.edu](https://missing.csail.mit.edu)
- - date published: 2023-10-25T18:54:11.265361+00:00
- - user: None
- - tags: []
-
-## Home Page - MIT Press
- - [https://mitpress.mit.edu](https://mitpress.mit.edu)
- - date published: 2023-10-25T18:54:21.358865+00:00
- - user: None
- - tags: []
-
-## MIT Sloan
- - [https://mitsloan.mit.edu](https://mitsloan.mit.edu)
- - date published: 2023-10-25T18:54:22.918721+00:00
- - user: None
- - tags: []
-
-## MITx Online
- - [https://mitxonline.mit.edu](https://mitxonline.mit.edu)
- - date published: 2023-10-25T18:54:25.878690+00:00
- - user: None
- - tags: []
-
-## MIT News | Massachusetts Institute of Technology
- - [https://news.mit.edu](https://news.mit.edu)
- - date published: 2023-10-25T11:20:44.709795+00:00
- - user: None
- - tags: []
-
-## MIT OpenCourseWare | Free Online Course Materials
- - [https://ocw.mit.edu](https://ocw.mit.edu)
- - date published: 2023-10-25T18:54:28.607293+00:00
- - user: None
- - tags: []
-
-## MIT CSAIL Parallel and Distributed Operating Systems Group
- - [https://pdos.csail.mit.edu](https://pdos.csail.mit.edu)
- - date published: 2023-10-25T18:54:29.573498+00:00
- - user: None
- - tags: []
-
-## People | MIT CSAIL
- - [https://people.csail.mit.edu](https://people.csail.mit.edu)
- - date published: 2023-10-25T18:54:31.453216+00:00
- - user: None
- - tags: []
-
-## Home - MIT PE
- - [https://physicaleducationandwellness.mit.edu](https://physicaleducationandwellness.mit.edu)
- - date published: 2023-10-25T18:54:34.032158+00:00
- - user: None
- - tags: []
-
-## MIT Office of the President | MIT - Massachusetts Institute of Technology
- - [https://president.mit.edu](https://president.mit.edu)
- - date published: 2023-10-25T18:54:35.562240+00:00
- - user: None
- - tags: []
-
-## Home Page | MIT CSAIL
- - [https://projects.csail.mit.edu](https://projects.csail.mit.edu)
- - date published: 2023-10-25T18:54:37.343144+00:00
- - user: None
- - tags: []
-
-## MIT School of Science
- - [https://science.mit.edu](https://science.mit.edu)
- - date published: 2023-10-25T18:54:41.430859+00:00
- - user: None
- - tags: []
-
-## Scratch - Imagine, Program, Share
- - [https://scratch.mit.edu](https://scratch.mit.edu)
- - date published: 2023-10-25T18:54:41.797954+00:00
- - user: None
- - tags: []
-
-## MIT Sloan Management Review
- - [https://sloanreview.mit.edu](https://sloanreview.mit.edu)
- - date published: 2023-10-25T18:54:48.399246+00:00
- - user: None
- - tags: []
-
-## Telecom Digest and Archives
- - [http://telecom.csail.mit.edu](http://telecom.csail.mit.edu)
- - date published: 2023-10-25T18:54:50.229504+00:00
- - user: None
- - tags: []
-
-## The MIT Press Reader
- - [https://thereader.mitpress.mit.edu](https://thereader.mitpress.mit.edu)
- - date published: 2023-10-25T10:39:41.389672+00:00
- - user: None
- - tags: []
-
-## Topology
- - [https://topology.mitpress.mit.edu](https://topology.mitpress.mit.edu)
- - date published: 2023-10-25T18:54:52.088797+00:00
- - user: None
- - tags: []
-
-## News + Updates — MIT Media Lab
- - [https://web.media.mit.edu](https://web.media.mit.edu)
- - date published: 2023-10-25T18:54:57.442420+00:00
- - user: None
- - tags: []
-
-## More crop per drop | MIT - Massachusetts Institute of Technology
- - [https://web.mit.edu](https://web.mit.edu)
- - date published: 2023-10-25T11:22:48.078614+00:00
  - user: None
  - tags: []
 

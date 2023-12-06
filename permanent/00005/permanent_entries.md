@@ -1,3 +1,93 @@
+## Macon Breaking News & Crime | Macon Telegraph
+ - [https://www.macon.com](https://www.macon.com)
+ - date published: 2023-10-25T15:53:29.296276+00:00
+ - user: None
+ - tags: []
+
+## macOS Automation
+ - [https://www.macosxautomation.com](https://www.macosxautomation.com)
+ - date published: 2023-10-25T15:53:32.819790+00:00
+ - user: None
+ - tags: []
+
+## Mac Pierce
+ - [https://www.macpierce.com](https://www.macpierce.com)
+ - date published: 2023-10-25T15:53:34.169750+00:00
+ - user: None
+ - tags: []
+
+## SIGPIPE 13
+ - [https://sigpipe.macromates.com](https://sigpipe.macromates.com)
+ - date published: 2023-10-25T15:53:36.166580+00:00
+ - user: None
+ - tags: []
+
+## MacRumors Forums
+ - [https://forums.macrumors.com](https://forums.macrumors.com)
+ - date published: 2023-10-25T15:53:41.865723+00:00
+ - user: None
+ - tags: []
+
+## MacRumors: Apple News and Rumors
+ - [https://www.macrumors.com](https://www.macrumors.com)
+ - date published: 2023-10-25T09:34:00.797658+00:00
+ - user: None
+ - tags: []
+
+## Macworld - News, Tips & Reviews from the Apple Experts
+ - [https://www.macworld.com](https://www.macworld.com)
+ - date published: 2023-10-25T09:34:02.695903+00:00
+ - user: None
+ - tags: []
+
+## macwright.com
+ - [http://macwright.com](http://macwright.com)
+ - date published: 2023-10-25T08:46:52.701354+00:00
+ - user: None
+ - tags: ['personal']
+
+## Maddyness - Le média pour comprendre l'économie de demain
+ - [https://www.maddyness.com](https://www.maddyness.com)
+ - date published: 2023-10-25T15:53:45.055388+00:00
+ - user: None
+ - tags: []
+
+## Made by Evan
+ - [https://madebyevan.com](https://madebyevan.com)
+ - date published: 2023-10-25T15:53:46.773357+00:00
+ - user: None
+ - tags: []
+
+## Made By Nathan
+ - [https://madebynathan.com](https://madebynathan.com)
+ - date published: 2023-10-25T15:53:47.605821+00:00
+ - user: None
+ - tags: []
+
+## madhadron
+ - [https://madhadron.com](https://madhadron.com)
+ - date published: 2023-10-25T15:53:47.981055+00:00
+ - user: None
+ - tags: []
+
+## Mad in America - Science, Psychiatry and Social Justice
+ - [https://www.madinamerica.com](https://www.madinamerica.com)
+ - date published: 2023-10-25T15:53:54.658657+00:00
+ - user: None
+ - tags: []
+
+## madison.com | Read Madison, WI and Wisconsin breaking news. Get latest news, events and information on Wisconsin sports, weather, entertainment and lifestyles.
+ - [https://madison.com](https://madison.com)
+ - date published: 2023-11-11T17:19:47.528171+00:00
+ - user: None
+ - tags: []
+
+## Choose the Best Self-Directed IRA Company and Get Control of Your Retirement Investments
+ - [https://www.madisontrust.com](https://www.madisontrust.com)
+ - date published: 2023-10-25T15:53:58.634735+00:00
+ - user: None
+ - tags: []
+
 ## Mad Micas | Premium Mica and Colorants for Makers
  - [https://www.madmicas.com](https://www.madmicas.com)
  - date published: 2023-10-25T15:54:08.960044+00:00
@@ -622,6 +712,12 @@
  - date published: 2023-10-25T15:58:12.356643+00:00
  - user: None
  - tags: []
+
+## blog.matthen.com
+ - [https://blog.matthen.com](https://blog.matthen.com)
+ - date published: 2023-12-05T09:12:58.682891+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Matt Bilyeu
  - [https://matthewbilyeu.com](https://matthewbilyeu.com)
@@ -1865,6 +1961,12 @@
  - user: None
  - tags: ['gatekeeper', 'social communicator']
 
+## Error
+ - [https://ai.meta.com](https://ai.meta.com)
+ - date published: 2023-12-05T18:26:53.355058+00:00
+ - user: None
+ - tags: []
+
 ## Meta
  - [https://www.meta.com](https://www.meta.com)
  - date published: 2023-10-27T12:56:25+00:00
@@ -2843,6 +2945,12 @@
  - user: None
  - tags: []
 
+## Home
+ - [https://www.montgomeryadvertiser.com](https://www.montgomeryadvertiser.com)
+ - date published: 2023-12-05T02:11:23.056645+00:00
+ - user: None
+ - tags: []
+
 ## Mam - Month After Mars
  - [https://www.monthaftermars.com](https://www.monthaftermars.com)
  - date published: 2023-10-25T09:25:59.073568+00:00
@@ -3002,6 +3110,12 @@
 ## MotorTrend: New Cars - Car News and Expert Reviews
  - [https://www.motortrend.com](https://www.motortrend.com)
  - date published: 2023-10-25T16:07:43.987801+00:00
+ - user: None
+ - tags: []
+
+## https://www.mountaindew.com
+ - [https://www.mountaindew.com](https://www.mountaindew.com)
+ - date published: 2023-12-05T15:09:24.014750+00:00
  - user: None
  - tags: []
 
@@ -3293,6 +3407,12 @@
  - user: None
  - tags: []
 
+## Mycroft
+ - [https://mycroftproject.com](https://mycroftproject.com)
+ - date published: 2023-12-05T19:53:37+00:00
+ - user: None
+ - tags: []
+
 ## Dear Sabrina
  - [https://mydearsabrina.com](https://mydearsabrina.com)
  - date published: 2023-12-03T09:19:33.315226+00:00
@@ -3346,6 +3466,12 @@
  - date published: 2023-10-25T16:10:06.967219+00:00
  - user: None
  - tags: []
+
+## My Proactive Life – One Man's desire to change, one step at a time
+ - [http://myproactivelife.com](http://myproactivelife.com)
+ - date published: 2023-12-05T14:38:22.274622+00:00
+ - user: None
+ - tags: ['personal']
 
 ## MySA: San Antonio News, Food, Sports, Entertainment and Travel
  - [https://www.mysanantonio.com](https://www.mysanantonio.com)
@@ -5869,133 +5995,6 @@ Answering Machine Greetings!
 ## oschvr.com
  - [https://oschvr.com](https://oschvr.com)
  - date published: 2023-10-25T16:27:41.499435+00:00
- - user: None
- - tags: []
-
-## osintme.com
- - [https://www.osintme.com](https://www.osintme.com)
- - date published: 2023-10-25T16:27:45.841879+00:00
- - user: None
- - tags: []
-
-## OSnews  -  Exploring the Future of Computing
- - [https://www.osnews.com](https://www.osnews.com)
- - date published: 2023-10-25T09:34:29.424722+00:00
- - user: None
- - tags: []
-
-## All Projects
-    - OSSRank
- - [https://ossrank.com](https://ossrank.com)
- - date published: 2023-10-25T16:27:50.745403+00:00
- - user: None
- - tags: []
-
-## Danny's Blog
- - [https://blog.otterstack.com](https://blog.otterstack.com)
- - date published: 2023-10-25T16:27:51.252333+00:00
- - user: None
- - tags: []
-
-## AI-Powered Automatic PostgreSQL & MySQL Tuning | OtterTune
- - [https://ottertune.com](https://ottertune.com)
- - date published: 2023-10-25T16:27:55.088952+00:00
- - user: None
- - tags: []
-
-## Oxford Academic
- - [https://academic.oup.com](https://academic.oup.com)
- - date published: 2023-10-25T16:27:59.208559+00:00
- - user: None
- - tags: []
-
-## OUPblog | Oxford University Press’s Academic Insights for the World
- - [https://blog.oup.com](https://blog.oup.com)
- - date published: 2023-10-25T16:28:04.688791+00:00
- - user: None
- - tags: []
-
-## Homepage - Oxford University Press
- - [https://global.oup.com](https://global.oup.com)
- - date published: 2023-10-25T16:28:11.875051+00:00
- - user: None
- - tags: []
-
-## Oxford Languages | The Home of Language Data
- - [https://languages.oup.com](https://languages.oup.com)
- - date published: 2023-12-04T15:57:30.501689+00:00
- - user: None
- - tags: []
-
-## OurBigBook.com
- - [https://ourbigbook.com](https://ourbigbook.com)
- - date published: 2023-12-02T02:46:08.135245+00:00
- - user: None
- - tags: []
-
-## World of Pixels
- - [https://ourworldofpixels.com](https://ourworldofpixels.com)
- - date published: 2023-10-25T08:36:48.464142+00:00
- - user: None
- - tags: []
-
-## Outdoor Status
- - [https://outdoorstatus.com](https://outdoorstatus.com)
- - date published: 2023-10-25T16:28:14.906908+00:00
- - user: None
- - tags: []
-
-## Outfunnel - Sales & Marketing Workflow Platform
- - [https://outfunnel.com](https://outfunnel.com)
- - date published: 2023-10-25T16:28:17.037385+00:00
- - user: None
- - tags: []
-
-## OutHorse Your Email
- - [http://outhorseyouremail.com](http://outhorseyouremail.com)
- - date published: 2023-10-25T16:28:24.817697+00:00
- - user: None
- - tags: []
-
-## OutKick - Fearless Sports Media Company Founded by Clay Travis
- - [https://www.outkick.com](https://www.outkick.com)
- - date published: 2023-10-25T10:09:04.240719+00:00
- - user: None
- - tags: []
-
-## VELO - Competitive Cycling News, Race Results and Bike Reviews
- - [https://velo.outsideonline.com](https://velo.outsideonline.com)
- - date published: 2023-11-02T15:51:17.506295+00:00
- - user: None
- - tags: []
-
-## Outside Magazine
- - [https://www.outsideonline.com](https://www.outsideonline.com)
- - date published: 2023-10-25T16:28:28.955211+00:00
- - user: None
- - tags: []
-
-## Outsider Club | Because You'll Never Be On The Inside
- - [https://www.outsiderclub.com](https://www.outsiderclub.com)
- - date published: 2023-10-25T16:28:31.579451+00:00
- - user: None
- - tags: []
-
-## OutThere Colorado
- - [https://www.outtherecolorado.com](https://www.outtherecolorado.com)
- - date published: 2023-10-25T16:28:37.775032+00:00
- - user: None
- - tags: []
-
-## Overcoming Bias | Robin Hanson | Substack
- - [https://www.overcomingbias.com](https://www.overcomingbias.com)
- - date published: 2023-10-25T09:40:33.681379+00:00
- - user: None
- - tags: ['substack']
-
-## overexact.com
- - [https://overexact.com](https://overexact.com)
- - date published: 2023-10-25T16:28:44.079753+00:00
  - user: None
  - tags: []
 

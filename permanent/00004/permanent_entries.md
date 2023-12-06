@@ -1,3 +1,75 @@
+## #1 Warcraft 3 Reforged Modding Community | HIVE
+ - [https://www.hiveworkshop.com](https://www.hiveworkshop.com)
+ - date published: 2023-10-25T11:51:06.417742+00:00
+ - user: None
+ - tags: []
+
+## Harry Marr
+ - [https://hmarr.com](https://hmarr.com)
+ - date published: 2023-10-25T15:00:11.023028+00:00
+ - user: None
+ - tags: []
+
+## Hacker News Follow
+ - [https://www.hnfollow.com](https://www.hnfollow.com)
+ - date published: 2023-10-25T15:00:12.449790+00:00
+ - user: None
+ - tags: []
+
+## http://www.hnhiringtrends.com
+ - [http://www.hnhiringtrends.com](http://www.hnhiringtrends.com)
+ - date published: 2023-10-25T15:00:12.866949+00:00
+ - user: None
+ - tags: []
+
+## HN Resume to Jobs
+ - [https://hnresumetojobs.com](https://hnresumetojobs.com)
+ - date published: 2023-10-25T15:00:14.742754+00:00
+ - user: None
+ - tags: []
+
+## https://www.hobbylobby.com
+ - [https://www.hobbylobby.com](https://www.hobbylobby.com)
+ - date published: 2023-11-01T18:11:09.311057+00:00
+ - user: None
+ - tags: ['miniatures', 'sculpting', 'hobby']
+
+## Kelly Hobkirk portfolio - Seattle graphic designer
+ - [http://www.hobkirkdesign.com](http://www.hobkirkdesign.com)
+ - date published: 2023-11-29T14:23:29.915498+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kelly Hobkirk portfolio - Seattle graphic designer
+ - [https://www.hobkirkdesign.com](https://www.hobkirkdesign.com)
+ - date published: 2023-11-29T14:23:31.668593+00:00
+ - user: None
+ - tags: []
+
+## Hodinkee
+ - [https://www.hodinkee.com](https://www.hodinkee.com)
+ - date published: 2023-10-25T15:00:20.442749+00:00
+ - user: None
+ - tags: []
+
+## ENIGMA M4 - Breaking German Navy Ciphers
+ - [https://enigma.hoerenberg.com](https://enigma.hoerenberg.com)
+ - date published: 2023-10-25T15:00:22.325938+00:00
+ - user: None
+ - tags: []
+
+## Hog Bay Software
+ - [https://www.hogbaysoftware.com](https://www.hogbaysoftware.com)
+ - date published: 2023-10-25T15:00:23.370446+00:00
+ - user: None
+ - tags: []
+
+## hoho.com
+ - [https://hoho.com](https://hoho.com)
+ - date published: 2023-10-25T15:00:24.125704+00:00
+ - user: None
+ - tags: []
+
 ## Holloway — Books by experts on business, technology, creativity, and personal growth
  - [https://www.holloway.com](https://www.holloway.com)
  - date published: 2023-10-25T15:00:26.465939+00:00
@@ -2428,6 +2500,12 @@
  - user: None
  - tags: []
 
+## Joseph Jude - Coach • CTO • Podcast Host
+ - [https://jjude.com](https://jjude.com)
+ - date published: 2023-12-05T14:37:52.987095+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Jonathan Katz
  - [https://jkatz05.com](https://jkatz05.com)
  - date published: 2023-10-25T15:29:21.287258+00:00
@@ -4109,6 +4187,12 @@
  - user: None
  - tags: []
 
+## Kirksville News, Weather, Sports, Breaking News | KTVO
+ - [https://ktvo.com](https://ktvo.com)
+ - date published: 2023-12-05T01:34:39.889562+00:00
+ - user: None
+ - tags: []
+
 ## KTVU FOX 2
  - [https://www.ktvu.com](https://www.ktvu.com)
  - date published: 2023-10-25T15:40:00.583963+00:00
@@ -4570,6 +4654,12 @@
  - date published: 2023-10-25T15:43:41.678164+00:00
  - user: None
  - tags: []
+
+## Leanne Hughes
+ - [https://www.leannehughes.com](https://www.leannehughes.com)
+ - date published: 2023-12-05T14:36:52.780515+00:00
+ - user: None
+ - tags: ['personal']
 
 ## LeapSecond Home Page
  - [http://leapsecond.com](http://leapsecond.com)
@@ -5049,7 +5139,7 @@
  - [https://www.lifewire.com](https://www.lifewire.com)
  - date published: 2023-10-25T09:33:46.642869+00:00
  - user: None
- - tags: []
+ - tags: ['tech news']
 
 ## LifeZette
  - [https://www.lifezette.com](https://www.lifezette.com)
@@ -5901,96 +5991,6 @@ diversions.
 ## Store
  - [https://edu.machinelearningplus.com](https://edu.machinelearningplus.com)
  - date published: 2023-10-25T15:53:20.695196+00:00
- - user: None
- - tags: []
-
-## Macmillan Teaching Learning Community
- - [https://community.macmillanlearning.com](https://community.macmillanlearning.com)
- - date published: 2023-10-25T15:53:25.295893+00:00
- - user: None
- - tags: []
-
-## Macon Breaking News & Crime | Macon Telegraph
- - [https://www.macon.com](https://www.macon.com)
- - date published: 2023-10-25T15:53:29.296276+00:00
- - user: None
- - tags: []
-
-## macOS Automation
- - [https://www.macosxautomation.com](https://www.macosxautomation.com)
- - date published: 2023-10-25T15:53:32.819790+00:00
- - user: None
- - tags: []
-
-## Mac Pierce
- - [https://www.macpierce.com](https://www.macpierce.com)
- - date published: 2023-10-25T15:53:34.169750+00:00
- - user: None
- - tags: []
-
-## SIGPIPE 13
- - [https://sigpipe.macromates.com](https://sigpipe.macromates.com)
- - date published: 2023-10-25T15:53:36.166580+00:00
- - user: None
- - tags: []
-
-## MacRumors Forums
- - [https://forums.macrumors.com](https://forums.macrumors.com)
- - date published: 2023-10-25T15:53:41.865723+00:00
- - user: None
- - tags: []
-
-## MacRumors: Apple News and Rumors
- - [https://www.macrumors.com](https://www.macrumors.com)
- - date published: 2023-10-25T09:34:00.797658+00:00
- - user: None
- - tags: []
-
-## Macworld - News, Tips & Reviews from the Apple Experts
- - [https://www.macworld.com](https://www.macworld.com)
- - date published: 2023-10-25T09:34:02.695903+00:00
- - user: None
- - tags: []
-
-## macwright.com
- - [http://macwright.com](http://macwright.com)
- - date published: 2023-10-25T08:46:52.701354+00:00
- - user: None
- - tags: ['personal']
-
-## Maddyness - Le média pour comprendre l'économie de demain
- - [https://www.maddyness.com](https://www.maddyness.com)
- - date published: 2023-10-25T15:53:45.055388+00:00
- - user: None
- - tags: []
-
-## Made by Evan
- - [https://madebyevan.com](https://madebyevan.com)
- - date published: 2023-10-25T15:53:46.773357+00:00
- - user: None
- - tags: []
-
-## Made By Nathan
- - [https://madebynathan.com](https://madebynathan.com)
- - date published: 2023-10-25T15:53:47.605821+00:00
- - user: None
- - tags: []
-
-## madhadron
- - [https://madhadron.com](https://madhadron.com)
- - date published: 2023-10-25T15:53:47.981055+00:00
- - user: None
- - tags: []
-
-## Mad in America - Science, Psychiatry and Social Justice
- - [https://www.madinamerica.com](https://www.madinamerica.com)
- - date published: 2023-10-25T15:53:54.658657+00:00
- - user: None
- - tags: []
-
-## madison.com | Read Madison, WI and Wisconsin breaking news. Get latest news, events and information on Wisconsin sports, weather, entertainment and lifestyles.
- - [https://madison.com](https://madison.com)
- - date published: 2023-11-11T17:19:47.528171+00:00
  - user: None
  - tags: []
 
