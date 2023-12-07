@@ -1,3 +1,195 @@
+## Can I Stream It?
+ - [https://www.canistream.it](https://www.canistream.it)
+ - date published: 2023-11-27T11:29:05+00:00
+ - user: rumpel
+ - tags: ['video streaming filter']
+
+## Davide Quaranta
+ - [https://davquar.it](https://davquar.it)
+ - date published: 2023-10-25T20:14:47.000469+00:00
+ - user: None
+ - tags: []
+
+## Trapped inside a tölva
+ - [https://edoput.it](https://edoput.it)
+ - date published: 2023-10-25T20:14:48.397571+00:00
+ - user: None
+ - tags: []
+
+## Home - Eliseo Martelli
+ - [https://www.eliseomartelli.it](https://www.eliseomartelli.it)
+ - date published: 2023-10-25T08:49:49.023316+00:00
+ - user: None
+ - tags: ['personal']
+
+## Enrico Bassetti
+ - [https://www.enricobassetti.it](https://www.enricobassetti.it)
+ - date published: 2023-10-25T20:14:54.222338+00:00
+ - user: None
+ - tags: []
+
+## Home - Garante Privacy
+ - [https://www.garanteprivacy.it](https://www.garanteprivacy.it)
+ - date published: 2023-10-25T20:14:57.663434+00:00
+ - user: None
+ - tags: []
+
+## morsechat - an online morse code radio
+ - [https://morse.halb.it](https://morse.halb.it)
+ - date published: 2023-10-25T20:14:58.101342+00:00
+ - user: None
+ - tags: []
+
+## Home | { Hoelzel.IT }
+ - [https://www.hoelzel.it](https://www.hoelzel.it)
+ - date published: 2023-10-25T20:14:58.999999+00:00
+ - user: None
+ - tags: []
+
+## IAI Istituto Affari Internazionali
+ - [https://www.iai.it](https://www.iai.it)
+ - date published: 2023-10-25T20:15:02.462616+00:00
+ - user: None
+ - tags: []
+
+## Italian poetry for English speakers | Italian Poetry
+ - [https://italianpoetry.it](https://italianpoetry.it)
+ - date published: 2023-10-25T20:15:03.303270+00:00
+ - user: None
+ - tags: []
+
+## G̶i̶a̶c̶o̶m̶o̶ ̶M̶i̶c̶e̶l̶i̶
+ - [https://www.jamez.it](https://www.jamez.it)
+ - date published: 2023-10-25T20:15:05.579397+00:00
+ - user: None
+ - tags: []
+
+## Loris Cro's Personal Website
+ - [https://kristoff.it](https://kristoff.it)
+ - date published: 2023-10-25T20:15:11.394567+00:00
+ - user: None
+ - tags: []
+
+## Let's Block It! :: letsblock.it
+ - [https://letsblock.it](https://letsblock.it)
+ - date published: 2023-10-25T20:15:12.362251+00:00
+ - user: None
+ - tags: []
+
+## Home - Linux.it
+ - [https://www.linux.it](https://www.linux.it)
+ - date published: 2023-10-25T20:15:13.230291+00:00
+ - user: None
+ - tags: []
+
+## nitter.it
+ - [https://nitter.it](https://nitter.it)
+ - date published: 2023-11-22T06:56:02+00:00
+ - user: rumpel
+ - tags: ['x', 'twitter']
+
+## GTranslate - Error 402: Payment Required
+ - [https://en.oppohub.it](https://en.oppohub.it)
+ - date published: 2023-10-25T20:15:13.671922+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://we.phorge.it](https://we.phorge.it)
+ - date published: 2023-10-25T20:15:19.719274+00:00
+ - user: None
+ - tags: []
+
+## https://external-preview.redd.it/
+ - [https://external-preview.redd.it](https://external-preview.redd.it)
+ - date published: 2023-10-30T12:22:01.044585+00:00
+ - user: None
+ - tags: []
+
+## Reddit - Dive into anything
+ - [https://i.redd.it](https://i.redd.it)
+ - date published: 2023-10-25T20:15:21.079184+00:00
+ - user: None
+ - tags: []
+
+## Reddit - Dive into anything
+ - [https://preview.redd.it](https://preview.redd.it)
+ - date published: 2023-10-25T20:15:22.724650+00:00
+ - user: None
+ - tags: []
+
+## https://v.redd.it
+ - [https://v.redd.it](https://v.redd.it)
+ - date published: 2023-10-30T12:42:19.101470+00:00
+ - user: None
+ - tags: []
+
+## Rome in the footsteps of a 1750 traveller
+ - [https://www.romeartlover.it](https://www.romeartlover.it)
+ - date published: 2023-11-15T17:37:09.666911+00:00
+ - user: None
+ - tags: ['personal']
+
+## Linkfire Acquired smartURL | Music Marketing | Smart Links for music
+ - [https://smarturl.it](https://smarturl.it)
+ - date published: 2023-11-05T16:12:49.518226+00:00
+ - user: None
+ - tags: []
+
+## Summate.it - Quickly summarize web articles
+ - [https://summate.it](https://summate.it)
+ - date published: 2023-10-25T20:15:23.804588+00:00
+ - user: None
+ - tags: []
+
+## The Local - Italy's news in English
+ - [https://www.thelocal.it](https://www.thelocal.it)
+ - date published: 2023-10-25T20:15:26.536494+00:00
+ - user: None
+ - tags: []
+
+## The Split | Turner Novak | Substack
+ - [https://www.thespl.it](https://www.thespl.it)
+ - date published: 2023-10-25T20:15:30.056480+00:00
+ - user: None
+ - tags: []
+
+## TransitiveBullsh.it
+ - [https://transitivebullsh.it](https://transitivebullsh.it)
+ - date published: 2023-10-25T20:15:34.091849+00:00
+ - user: None
+ - tags: []
+
+## Unclutter — Reader Mode for Chrome & Firefox
+ - [https://unclutter.it](https://unclutter.it)
+ - date published: 2023-10-25T20:15:40.192858+00:00
+ - user: None
+ - tags: []
+
+## L'Unione Sarda.it
+ - [https://www.unionesarda.it](https://www.unionesarda.it)
+ - date published: 2023-11-06T02:35:24.227351+00:00
+ - user: None
+ - tags: []
+
+## Home - Dipartimento di Informatica
+ - [http://groups.di.unipi.it](http://groups.di.unipi.it)
+ - date published: 2023-10-25T20:15:43.305470+00:00
+ - user: None
+ - tags: []
+
+## upbeat.it - upbeat.it
+ - [http://www.upbeat.it](http://www.upbeat.it)
+ - date published: 2023-12-03T15:55:20.429965+00:00
+ - user: None
+ - tags: ['personal']
+
+## upbeat.it - upbeat.it
+ - [https://www.upbeat.it](https://www.upbeat.it)
+ - date published: 2023-12-03T15:55:21.887131+00:00
+ - user: None
+ - tags: []
+
 ## vexl – Medium
  - [https://blog.vexl.it](https://blog.vexl.it)
  - date published: 2023-10-25T20:15:45.707451+00:00
@@ -343,6 +535,12 @@
 ## decoded.legal
  - [https://decoded.legal](https://decoded.legal)
  - date published: 2023-10-25T20:17:58.671735+00:00
+ - user: None
+ - tags: []
+
+## Luna
+ - [https://moonbase.lgbt](https://moonbase.lgbt)
+ - date published: 2023-12-06T23:21:34.239624+00:00
  - user: None
  - tags: []
 
@@ -2381,6 +2579,12 @@
  - user: None
  - tags: []
 
+## B92 - Internet, Radio i TV stanica - najnovije vesti iz Srbije
+ - [https://www.b92.net](https://www.b92.net)
+ - date published: 2023-12-06T13:42:32.234028+00:00
+ - user: None
+ - tags: []
+
 ## BackSlasher
  - [https://blog.backslasher.net](https://blog.backslasher.net)
  - date published: 2023-10-25T20:26:19.207654+00:00
@@ -2427,7 +2631,7 @@
  - [https://bdsmovement.net](https://bdsmovement.net)
  - date published: 2023-11-05T12:49:49.681999+00:00
  - user: None
- - tags: []
+ - tags: ['palestine']
 
 ## Tabletop, RPG & Pop Culture News - Bell of Lost Souls
  - [https://www.belloflostsouls.net](https://www.belloflostsouls.net)
@@ -2674,6 +2878,12 @@
  - date published: 2023-11-05T13:31:03.029366+00:00
  - user: None
  - tags: []
+
+## Chiara Girardelli | Full stack developer and consultant
+ - [http://www.chiaragirardelli.net](http://www.chiaragirardelli.net)
+ - date published: 2023-12-06T13:03:06+00:00
+ - user: rumpel
+ - tags: ['personal']
 
 ## Chiara Pasquini
  - [https://chiarapasquini.net](https://chiarapasquini.net)
@@ -5784,214 +5994,4 @@
  - date published: 2023-10-25T20:39:33.101821+00:00
  - user: None
  - tags: []
-
-## Type O Negative
- - [https://typeonegative.net](https://typeonegative.net)
- - date published: 2023-10-30T15:40:11.345551+00:00
- - user: None
- - tags: ['music band']
-
-## UESPWiki - The Unofficial Elder Scrolls Pages
- - [https://en.m.uesp.net](https://en.m.uesp.net)
- - date published: 2023-10-25T11:18:13.072477+00:00
- - user: None
- - tags: []
-
-## UESPWiki - The Unofficial Elder Scrolls Pages
- - [https://en.uesp.net](https://en.uesp.net)
- - date published: 2023-10-25T11:18:15.607036+00:00
- - user: None
- - tags: []
-
-## Ukrinform - Ukrainian National News Agency
- - [https://www.ukrinform.net](https://www.ukrinform.net)
- - date published: 2023-10-31T05:18:13.391020+00:00
- - user: None
- - tags: ['ukraine', 'news']
-
-## Previous - A NeXT Computer Emulator
- - [https://previous.unixdude.net](https://previous.unixdude.net)
- - date published: 2023-10-25T08:36:19.260186+00:00
- - user: None
- - tags: []
-
-## A.D.A. Amiga Demoscene Archive
- - [https://ada.untergrund.net](https://ada.untergrund.net)
- - date published: 2023-11-13T09:49:46.072471+00:00
- - user: None
- - tags: []
-
-## Scott Martin
- - [https://urbigenous.net](https://urbigenous.net)
- - date published: 2023-10-25T20:39:34.500040+00:00
- - user: None
- - tags: []
-
-## UtahRails.net Home Page
- - [https://utahrails.net](https://utahrails.net)
- - date published: 2023-10-25T20:39:37.393872+00:00
- - user: None
- - tags: []
-
-## Welcome!
- - [https://utf9k.net](https://utf9k.net)
- - date published: 2023-10-25T08:54:12.240892+00:00
- - user: None
- - tags: ['personal']
-
-## various bits – miscellaneous and slightly random thoughts from a 50-something bearded bald guy
- - [https://variousbits.net](https://variousbits.net)
- - date published: 2023-10-25T20:39:39.957444+00:00
- - user: None
- - tags: []
-
-## Varun Ramesh's Blog
- - [https://blog.varunramesh.net](https://blog.varunramesh.net)
- - date published: 2023-10-25T08:54:13.639194+00:00
- - user: None
- - tags: ['personal']
-
-## Vaxry's Blog
- - [https://blog.vaxry.net](https://blog.vaxry.net)
- - date published: 2023-11-06T11:51:08.879806+00:00
- - user: None
- - tags: ['personal', 'devlog']
-
-## Veloren
- - [https://veloren.net](https://veloren.net)
- - date published: 2023-10-25T20:39:41.682628+00:00
- - user: None
- - tags: []
-
-## Venture in Security | Ross Haleliuk | Substack
- - [https://ventureinsecurity.net](https://ventureinsecurity.net)
- - date published: 2023-10-25T20:39:45.114582+00:00
- - user: None
- - tags: []
-
-## Vialibri: Physical Book Meta Search Engine
- - [https://www.vialibri.net](https://www.vialibri.net)
- - date published: 2023-12-04T13:26:23+00:00
- - user: None
- - tags: []
-
-## Antarctica Starts Here.
- - [https://drwho.virtadpt.net](https://drwho.virtadpt.net)
- - date published: 2023-10-25T20:39:49.202727+00:00
- - user: None
- - tags: []
-
-## About - Vision BASIC
- - [https://visionbasic.net](https://visionbasic.net)
- - date published: 2023-10-25T20:39:52.775066+00:00
- - user: None
- - tags: []
-
-## visualising data structures and algorithms through animation - VisuAlgo
- - [https://visualgo.net](https://visualgo.net)
- - date published: 2023-10-25T20:39:57.885030+00:00
- - user: None
- - tags: []
-
-## Blog about computers
- - [https://vitonsky.net](https://vitonsky.net)
- - date published: 2023-10-25T20:40:00.151808+00:00
- - user: None
- - tags: []
-
-## Thomas Pike’s other blog | Tales from a system administrator
- - [https://thomasp.vivaldi.net](https://thomasp.vivaldi.net)
- - date published: 2023-10-25T20:40:02.582018+00:00
- - user: None
- - tags: []
-
-## vladh's microblog
- - [https://microblog.vladh.net](https://microblog.vladh.net)
- - date published: 2023-10-25T09:23:38.370223+00:00
- - user: None
- - tags: ['personal']
-
-## Vlad Iliescu
- - [https://vladiliescu.net](https://vladiliescu.net)
- - date published: 2023-10-25T09:00:57.859909+00:00
- - user: None
- - tags: ['personal']
-
-## vslira's blog
- - [https://blog.vslira.net](https://blog.vslira.net)
- - date published: 2023-10-25T09:23:40.989576+00:00
- - user: None
- - tags: ['personal']
-
-## About VUSec - vusec
- - [https://download.vusec.net](https://download.vusec.net)
- - date published: 2023-10-25T20:40:04.401939+00:00
- - user: None
- - tags: []
-
-## Wargames Illustrated - Home
- - [https://www.wargamesillustrated.net](https://www.wargamesillustrated.net)
- - date published: 2023-11-01T18:45:51.294813+00:00
- - user: None
- - tags: ['tabletop games', 'wargames']
-
-## Warsow
- - [https://warsow.net](https://warsow.net)
- - date published: 2023-10-29T13:03:28.304457+00:00
- - user: None
- - tags: ['game', 'open source', 'quake']
-
-## Watch The Watchers
- - [https://watchthewatchers.net](https://watchthewatchers.net)
- - date published: 2023-10-25T20:40:05.454416+00:00
- - user: None
- - tags: []
-
-## webfft.github.io
- - [https://webfft.net](https://webfft.net)
- - date published: 2023-10-25T20:40:06.019612+00:00
- - user: None
- - tags: []
-
-## Webrecorder
- - [https://webrecorder.net](https://webrecorder.net)
- - date published: 2023-10-25T20:40:07.346760+00:00
- - user: None
- - tags: []
-
-## Well Ordered Wiki
- - [https://wiki.wellorder.net](https://wiki.wellorder.net)
- - date published: 2023-10-25T20:40:09.598022+00:00
- - user: None
- - tags: []
-
-## Home | WhiteHoodHacker
- - [https://whitehoodhacker.net](https://whitehoodhacker.net)
- - date published: 2023-10-25T20:40:11.671154+00:00
- - user: None
- - tags: []
-
-## Wicked Engine – 3D engine with modern graphics
- - [https://wickedengine.net](https://wickedengine.net)
- - date published: 2023-10-25T20:40:16.013864+00:00
- - user: None
- - tags: []
-
-## WiGLE: Wireless Network Mapping
- - [https://www.wigle.net](https://www.wigle.net)
- - date published: 2023-10-25T20:40:18.661378+00:00
- - user: None
- - tags: []
-
-## Wikimedia Status
- - [https://www.wikimediastatus.net](https://www.wikimediastatus.net)
- - date published: 2023-10-25T20:40:20.841816+00:00
- - user: None
- - tags: []
-
-## Jan Wildeboer’s Blog
- - [https://jan.wildeboer.net](https://jan.wildeboer.net)
- - date published: 2023-10-25T08:54:15.941153+00:00
- - user: None
- - tags: ['personal']
 

@@ -4,12 +4,6 @@
  - user: rumpel
  - tags: ['warhammer', 'wargames', 'tabletop games', 'magazine', 'warhammer', 'wargames', 'tabletop games']
 
-## Twitter's onion service is serving an invalid TLS certificate since 3/6/2023
- - [https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion)
- - date published: 2023-11-11T17:49:21+00:00
- - user: None
- - tags: []
-
 ## New Retro Wave
  - [https://newretrowave.com](https://newretrowave.com)
  - date published: 2023-11-13T09:25:37+00:00
@@ -26,24 +20,12 @@
  - [https://httpraccoons.com](https://httpraccoons.com)
  - date published: 2023-11-18T05:17:18+00:00
  - user: None
- - tags: []
+ - tags: ['http']
 
 ## https://www.androidpolice.com
  - [https://www.androidpolice.com](https://www.androidpolice.com)
  - date published: 2023-11-22T19:38:02+00:00
  - user: rumpel
- - tags: []
-
-## None
- - [https://www.](https://www.)
- - date published: 2023-12-04T16:16:51.057804+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.parallelparliament.co.uk](https://www.parallelparliament.co.uk)
- - date published: 2023-12-04T16:36:55.317804+00:00
- - user: None
  - tags: []
 
 ## https://archive.is
@@ -52,33 +34,39 @@
  - user: rumpel
  - tags: ['archive']
 
+## https://archive.vn
+ - [https://archive.vn](https://archive.vn)
+ - date published: 2023-12-06T10:22:38+00:00
+ - user: rumpel
+ - tags: []
+
 ## None
  - [https://www.red](https://www.red)
- - date published: 2023-12-04T20:13:17.199484+00:00
+ - date published: 2023-12-06T10:59:33.412520+00:00
+ - user: None
+ - tags: []
+
+## https://buslive.eu
+ - [https://buslive.eu](https://buslive.eu)
+ - date published: 2023-12-06T13:09:59+00:00
+ - user: rumpel
+ - tags: ['public transport', 'online map']
+
+## None
+ - [https://www.c-spa](https://www.c-spa)
+ - date published: 2023-12-06T16:47:29.071049+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://www.cardiff.a](https://www.cardiff.a)
- - date published: 2023-12-05T12:33:33.789752+00:00
- - user: None
- - tags: []
-
-## Welcome to nginx!
- - [https://davidegallesi.com](https://davidegallesi.com)
- - date published: 2023-12-05T14:38:12.497300+00:00
- - user: None
- - tags: ['personal']
-
-## None
- - [https://www.reddi](https://www.reddi)
- - date published: 2023-12-05T15:52:01.070982+00:00
+ - [https://www.redd](https://www.redd)
+ - date published: 2023-12-06T17:43:29.028041+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://ww](https://ww)
- - date published: 2023-12-05T23:47:33.974643+00:00
+ - [https://www](https://www)
+ - date published: 2023-12-06T17:48:06.703962+00:00
  - user: None
  - tags: []
 
@@ -748,6 +736,18 @@
  - user: None
  - tags: []
 
+## Introduction - Documentation
+ - [https://docs.lume.ai](https://docs.lume.ai)
+ - date published: 2023-12-06T19:47:41.218118+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Lume – automate data mappings using AI
+ - [https://www.lume.ai](https://www.lume.ai)
+ - date published: 2023-12-06T17:37:48+00:00
+ - user: None
+ - tags: []
+
 ## Mastodon
  - [https://masto.ai](https://masto.ai)
  - date published: 2023-10-24T20:13:16.747974+00:00
@@ -1168,6 +1168,12 @@
  - user: None
  - tags: []
 
+## Feature Platform for Machine Learning | Tecton
+ - [https://www.tecton.ai](https://www.tecton.ai)
+ - date published: 2023-12-06T00:28:48.196331+00:00
+ - user: None
+ - tags: []
+
 ## Tesseract Analytics & AI – For Data-Driven Decisions
  - [https://tesseractanalytics.ai](https://tesseractanalytics.ai)
  - date published: 2023-10-25T11:44:18.736977+00:00
@@ -1412,7 +1418,7 @@
  - [https://bsky.app](https://bsky.app)
  - date published: 2023-10-24T20:12:24.937402+00:00
  - user: None
- - tags: []
+ - tags: ['social platform']
 
 ## https://carina.app
  - [https://carina.app](https://carina.app)
@@ -2290,6 +2296,12 @@
  - user: None
  - tags: []
 
+## Asia Public Holidays - PublicHolidays.asia
+ - [https://publicholidays.asia](https://publicholidays.asia)
+ - date published: 2023-12-06T12:19:57.859246+00:00
+ - user: None
+ - tags: []
+
 ## Compilers and Languages
  - [https://www.complang.tuwien.ac.at](https://www.complang.tuwien.ac.at)
  - date published: 2023-10-25T11:52:40.504756+00:00
@@ -2920,6 +2932,12 @@
  - user: None
  - tags: []
 
+## Steffest - web developer
+ - [https://www.stef.be](https://www.stef.be)
+ - date published: 2023-12-06T10:28:21+00:00
+ - user: rumpel
+ - tags: ['personal']
+
 ## Mattias Geniar
  - [https://ma.ttias.be](https://ma.ttias.be)
  - date published: 2023-10-25T08:42:40.398770+00:00
@@ -3464,6 +3482,12 @@
 ## Mods GTA San Andreas
  - [https://www.gta-sa.com.br](https://www.gta-sa.com.br)
  - date published: 2023-10-25T11:08:27.421230+00:00
+ - user: None
+ - tags: []
+
+## Nord Investimentos - Research, Asset e Wealth Management
+ - [https://www.nordinvestimentos.com.br](https://www.nordinvestimentos.com.br)
+ - date published: 2023-12-06T00:28:58.772642+00:00
  - user: None
  - tags: []
 
@@ -5967,30 +5991,6 @@
 ## WTVG | 13Action News, Local News and Weather
  - [https://www.13abc.com](https://www.13abc.com)
  - date published: 2023-10-31T13:19:09.774057+00:00
- - user: None
- - tags: []
-
-## Access Denied
- - [https://www.13newsnow.com](https://www.13newsnow.com)
- - date published: 2023-11-08T01:58:27.155648+00:00
- - user: None
- - tags: []
-
-## Rochester News, Weather, Sports, Breaking News | WHAM
- - [https://13wham.com](https://13wham.com)
- - date published: 2023-11-02T23:08:08.908311+00:00
- - user: None
- - tags: []
-
-## Eliran Turgeman
- - [https://www.16elt.com](https://www.16elt.com)
- - date published: 2023-10-25T12:26:18.338306+00:00
- - user: None
- - tags: []
-
-## 1a3orn
- - [https://1a3orn.com](https://1a3orn.com)
- - date published: 2023-11-02T20:29:08.386159+00:00
  - user: None
  - tags: []
 

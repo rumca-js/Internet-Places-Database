@@ -1,3 +1,261 @@
+## Compound Planning | Modern Wealth & Investment Management
+ - [https://withcompound.com](https://withcompound.com)
+ - date published: 2023-10-25T18:07:21.872974+00:00
+ - user: None
+ - tags: []
+
+## Nonobvious | Edge | Substack
+ - [https://blog.withedge.com](https://blog.withedge.com)
+ - date published: 2023-10-25T18:07:38.413246+00:00
+ - user: None
+ - tags: []
+
+## Google's latest experiments in Labs
+ - [https://labs.withgoogle.com](https://labs.withgoogle.com)
+ - date published: 2023-10-25T18:07:40.867814+00:00
+ - user: None
+ - tags: []
+
+## http://learnkubernetes.withgoogle.com
+ - [http://learnkubernetes.withgoogle.com](http://learnkubernetes.withgoogle.com)
+ - date published: 2023-10-25T18:07:42.025514+00:00
+ - user: None
+ - tags: []
+
+## People + AI Research
+ - [https://pair.withgoogle.com](https://pair.withgoogle.com)
+ - date published: 2023-10-25T18:07:44.673354+00:00
+ - user: None
+ - tags: []
+
+## Home | Google Summer of Code
+ - [https://summerofcode.withgoogle.com](https://summerofcode.withgoogle.com)
+ - date published: 2023-10-25T18:07:48.328715+00:00
+ - user: None
+ - tags: []
+
+## Project Sunroof
+ - [https://sunroof.withgoogle.com](https://sunroof.withgoogle.com)
+ - date published: 2023-10-25T18:07:51.710648+00:00
+ - user: None
+ - tags: []
+
+## TextFX
+ - [https://textfx.withgoogle.com](https://textfx.withgoogle.com)
+ - date published: 2023-10-25T18:07:53.024899+00:00
+ - user: None
+ - tags: []
+
+## Google - The Web Can Do What!?
+ - [https://thewebshowcase.withgoogle.com](https://thewebshowcase.withgoogle.com)
+ - date published: 2023-12-06T20:50:01.109390+00:00
+ - user: None
+ - tags: []
+
+## Within Temptation Music Store
+ - [https://www.within-temptation.com](https://www.within-temptation.com)
+ - date published: 2023-11-13T11:10:55.031197+00:00
+ - user: None
+ - tags: ['music band']
+
+## Home | WithSecure™ Labs
+ - [https://labs.withsecure.com](https://labs.withsecure.com)
+ - date published: 2023-10-25T18:07:54.930284+00:00
+ - user: None
+ - tags: []
+
+## Wix UX
+ - [https://wix-ux.com](https://wix-ux.com)
+ - date published: 2023-10-25T18:08:04.082110+00:00
+ - user: None
+ - tags: []
+
+## https://gameknightplaysyt.wixsite.com
+ - [https://gameknightplaysyt.wixsite.com](https://gameknightplaysyt.wixsite.com)
+ - date published: 2023-11-03T08:29:48.426730+00:00
+ - user: None
+ - tags: []
+
+## Wizarding World: The Official Home of Harry Potter
+ - [https://www.wizardingworld.com](https://www.wizardingworld.com)
+ - date published: 2023-10-25T14:07:20.273222+00:00
+ - user: None
+ - tags: ['fantasy', 'harry potter']
+
+## Dungeons & Dragons | Official Home of the World's Greatest Roleplaying Game
+ - [https://dnd.wizards.com](https://dnd.wizards.com)
+ - date published: 2023-10-25T14:21:12.029966+00:00
+ - user: None
+ - tags: ['role playing games', 'dungeons and dragons']
+
+## Magic: The Gathering | Official site for MTG news, sets, and events
+ - [https://magic.wizards.com](https://magic.wizards.com)
+ - date published: 2023-10-25T14:21:19.809601+00:00
+ - user: None
+ - tags: ['card games', 'magic the gathering']
+
+## Implement DNS in a weekend
+ - [https://implement-dns.wizardzines.com](https://implement-dns.wizardzines.com)
+ - date published: 2023-10-25T18:08:06.154837+00:00
+ - user: None
+ - tags: []
+
+## wizard zines
+ - [https://wizardzines.com](https://wizardzines.com)
+ - date published: 2023-11-25T03:59:34.755914+00:00
+ - user: None
+ - tags: []
+
+## Free Security Awareness Training, Phishing Simulation and Gamification
+ - [https://www.wizer-training.com](https://www.wizer-training.com)
+ - date published: 2023-10-25T18:08:09.120291+00:00
+ - user: None
+ - tags: []
+
+## WJHG | News, Weather, Sports | Panama City, FL
+ - [https://www.wjhg.com](https://www.wjhg.com)
+ - date published: 2023-11-28T20:08:07.258023+00:00
+ - user: None
+ - tags: []
+
+## Arlington News, Weather, Sports, Breaking News | WJLA
+ - [https://wjla.com](https://wjla.com)
+ - date published: 2023-10-25T18:08:13.273867+00:00
+ - user: None
+ - tags: []
+
+## Buffalo, New York News and Weather | WKBW | wkbw.com
+ - [https://www.wkbw.com](https://www.wkbw.com)
+ - date published: 2023-10-25T18:08:20.272024+00:00
+ - user: None
+ - tags: []
+
+## WMBF | Myrtle Beach, Florence
+ - [https://www.wmbfnews.com](https://www.wmbfnews.com)
+ - date published: 2023-11-01T23:07:15.838462+00:00
+ - user: None
+ - tags: []
+
+## Access Denied
+ - [https://www.wnep.com](https://www.wnep.com)
+ - date published: 2023-11-08T07:17:30.357213+00:00
+ - user: None
+ - tags: []
+
+## Wobaka | Refreshingly Simple CRM And Email Automation
+ - [https://wobaka.com](https://wobaka.com)
+ - date published: 2023-10-25T18:08:22.084560+00:00
+ - user: None
+ - tags: []
+
+## Ebooki | Epub, Mobi Kindle, PDF | Woblink
+ - [https://woblink.com](https://woblink.com)
+ - date published: 2023-10-24T20:17:54.362233+00:00
+ - user: None
+ - tags: []
+
+## WokeLark - Turn your habit into passion!
+ - [https://wokelark.com](https://wokelark.com)
+ - date published: 2023-10-25T18:08:25.407403+00:00
+ - user: None
+ - tags: []
+
+## Wolfram: Computation Meets Knowledge
+ - [https://www.wolfram.com](https://www.wolfram.com)
+ - date published: 2023-10-25T08:28:20.259729+00:00
+ - user: None
+ - tags: ['search engine']
+
+## Wolf Street | The stories behind business, finance, and money
+ - [https://wolfstreet.com](https://wolfstreet.com)
+ - date published: 2023-10-25T18:08:28.134505+00:00
+ - user: None
+ - tags: []
+
+## Womp: Free 3D design software
+ - [https://www.womp.com](https://www.womp.com)
+ - date published: 2023-10-25T18:08:34.593844+00:00
+ - user: None
+ - tags: []
+
+## WonderTips 777 Blogs -
+ - [https://wondertips777.com](https://wondertips777.com)
+ - date published: 2023-11-26T16:26:33.143000+00:00
+ - user: None
+ - tags: []
+
+## Wood Mackenzie | Energy Research & Consultancy
+ - [https://www.woodmac.com](https://www.woodmac.com)
+ - date published: 2023-10-25T18:08:37.374452+00:00
+ - user: None
+ - tags: []
+
+## Woolyss
+ - [https://woolyss.com](https://woolyss.com)
+ - date published: 2023-10-28T18:51:06.662825+00:00
+ - user: None
+ - tags: ['chiptune']
+
+## Aaron Dorn Hair Stylist
+ - [https://aarondornhair.wordpress.com](https://aarondornhair.wordpress.com)
+ - date published: 2023-11-29T14:54:17.403200+00:00
+ - user: None
+ - tags: ['personal']
+
+## A Deep Look by Dave Hook
+ - [https://adeeplookbydavehook.wordpress.com](https://adeeplookbydavehook.wordpress.com)
+ - date published: 2023-11-26T17:36:17.580104+00:00
+ - user: None
+ - tags: []
+
+## Void
+ - [https://amigavoid.wordpress.com](https://amigavoid.wordpress.com)
+ - date published: 2023-10-27T14:47:03.899292+00:00
+ - user: None
+ - tags: ['amiga', 'demoscene']
+
+## concoctinghistory | Ancient recipes for the modern kitchen
+ - [https://ancientrecipes.wordpress.com](https://ancientrecipes.wordpress.com)
+ - date published: 2023-10-25T18:08:43.938404+00:00
+ - user: None
+ - tags: []
+
+## @AndrewMayne – Exploring the intersection of artificial intelligence and creativity.
+ - [https://andrewmayneblog.wordpress.com](https://andrewmayneblog.wordpress.com)
+ - date published: 2023-10-25T18:08:47.025550+00:00
+ - user: None
+ - tags: []
+
+## Kritik der Animationskraft
+ - [https://animekritik.wordpress.com](https://animekritik.wordpress.com)
+ - date published: 2023-10-25T09:21:19.416145+00:00
+ - user: None
+ - tags: ['personal']
+
+## ArcheoThoughts – Andre Costopoulos, University of Alberta
+ - [https://archeothoughts.wordpress.com](https://archeothoughts.wordpress.com)
+ - date published: 2023-10-25T18:08:49.700117+00:00
+ - user: None
+ - tags: []
+
+## The Army OE Program – Organizational Development and the Army: 1970-1985
+ - [https://armyoe.files.wordpress.com](https://armyoe.files.wordpress.com)
+ - date published: 2023-10-25T18:08:52.688037+00:00
+ - user: None
+ - tags: []
+
+## Art as Illumination | An art blog from Jacob Rowan Studios
+ - [https://artasillumination.files.wordpress.com](https://artasillumination.files.wordpress.com)
+ - date published: 2023-10-25T18:08:58.698123+00:00
+ - user: None
+ - tags: []
+
+## Barelyon
+ - [https://barelyonmusic.wordpress.com](https://barelyonmusic.wordpress.com)
+ - date published: 2023-11-29T18:20:30.794263+00:00
+ - user: None
+ - tags: ['personal']
+
 ## The Beat Patrol | Music and Beat literature-related blogsite
  - [https://beatpatrol.wordpress.com](https://beatpatrol.wordpress.com)
  - date published: 2023-10-25T18:09:12.393648+00:00
@@ -1280,13 +1538,13 @@
  - [https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg)
  - date published: 2023-11-03T10:34:47+00:00
  - user: rumpel
- - tags: ['raspberry', 'sbc']
+ - tags: ['raspberry', 'sbc', 'youtuber']
 
 ## Eta Prime YouTube Channel
  - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
  - date published: 2023-11-03T10:35:46+00:00
  - user: rumpel
- - tags: ['raspberry', 'sbc']
+ - tags: ['raspberry', 'sbc', 'youtuber']
 
 ## Louis Rossmann YouTube Channel
  - [https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w](https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w)
@@ -1953,6 +2211,12 @@
  - date published: 2023-11-28T21:06:27.794315+00:00
  - user: None
  - tags: []
+
+## Auto News, Automarken und Testberichte - autozeitung.de
+ - [https://www.autozeitung.de](https://www.autozeitung.de)
+ - date published: 2023-12-06T11:50:31+00:00
+ - user: rumpel
+ - tags: ['auto news']
 
 ## AWS Works Council Germany
  - [https://www.aws-works-council-initiative.de](https://www.aws-works-council-initiative.de)
@@ -5734,272 +5998,6 @@ home
 ## Duke University School of Law
  - [https://web.law.duke.edu](https://web.law.duke.edu)
  - date published: 2023-10-25T11:22:18.328920+00:00
- - user: None
- - tags: []
-
-## Duke University Press
- - [https://read.dukeupress.edu](https://read.dukeupress.edu)
- - date published: 2023-10-25T18:51:09.503912+00:00
- - user: None
- - tags: []
-
-## FIU News - Florida International University
- - [https://news.fiu.edu](https://news.fiu.edu)
- - date published: 2023-10-30T12:42:14.738633+00:00
- - user: None
- - tags: []
-
-## Florida State University
- - [https://fsu.edu](https://fsu.edu)
- - date published: 2023-10-27T12:59:00.241454+00:00
- - user: None
- - tags: ['university']
-
-## Home - Florida State University News
- - [https://news.fsu.edu](https://news.fsu.edu)
- - date published: 2023-10-25T11:22:28.015942+00:00
- - user: None
- - tags: []
-
-## CSUF Psychology Department Research and Teaching Materials
- - [https://psych.fullerton.edu](https://psych.fullerton.edu)
- - date published: 2023-10-25T18:51:10.992214+00:00
- - user: None
- - tags: []
-
-## https://faculty.cc.gatech.edu
- - [https://faculty.cc.gatech.edu](https://faculty.cc.gatech.edu)
- - date published: 2023-10-25T18:51:12.075741+00:00
- - user: None
- - tags: []
-
-## College of Computing | Involvement, Innovation and Impact
- - [https://www.cc.gatech.edu](https://www.cc.gatech.edu)
- - date published: 2023-11-26T01:05:44.391396+00:00
- - user: None
- - tags: []
-
-## Getty: Resources for Visual Art and Cultural Heritage
- - [http://getty.edu](http://getty.edu)
- - date published: 2023-11-13T13:53:09.501275+00:00
- - user: None
- - tags: ['museum']
-
-## Getty: Resources for Visual Art and Cultural Heritage
- - [https://www.getty.edu](https://www.getty.edu)
- - date published: 2023-10-25T18:51:15.051347+00:00
- - user: None
- - tags: []
-
-## History Matters: The U.S. Survey Course on the Web
- - [https://historymatters.gmu.edu](https://historymatters.gmu.edu)
- - date published: 2023-11-28T07:44:03+00:00
- - user: rumpel
- - tags: ['george mason', 'university']
-
-## Home
- - [https://www.gmu.edu](https://www.gmu.edu)
- - date published: 2023-11-28T07:45:16+00:00
- - user: rumpel
- - tags: ['george mason', 'university']
-
-## Georgia State University - Georgia State News Hub
- - [https://news.gsu.edu](https://news.gsu.edu)
- - date published: 2023-12-05T19:07:31.936621+00:00
- - user: None
- - tags: []
-
-## Home | National Security Archive
- - [https://nsarchive.gwu.edu](https://nsarchive.gwu.edu)
- - date published: 2023-10-25T18:51:17.562894+00:00
- - user: None
- - tags: []
-
-## School of Engineering & Applied Science | The George Washington University
- - [https://www2.seas.gwu.edu](https://www2.seas.gwu.edu)
- - date published: 2023-10-25T18:51:22.184962+00:00
- - user: None
- - tags: []
-
-## A Top Liberal Arts College - homepage - Hamilton College
- - [https://www.hamilton.edu](https://www.hamilton.edu)
- - date published: 2023-10-25T18:51:24.815538+00:00
- - user: None
- - tags: []
-
-## Faculty | Hampshire College
- - [https://faculty.hampshire.edu](https://faculty.hampshire.edu)
- - date published: 2023-10-25T18:51:31.521956+00:00
- - user: None
- - tags: []
-
-## Weblogs at Harvard
- - [https://blogs.harvard.edu](https://blogs.harvard.edu)
- - date published: 2023-10-25T18:51:34.410192+00:00
- - user: None
- - tags: []
-
-## The Harvard Law School Forum on Corporate Governance | The leading online blog in the fields of corporate governance and financial regulation.
- - [https://corpgov.law.harvard.edu](https://corpgov.law.harvard.edu)
- - date published: 2023-10-25T18:51:38.896224+00:00
- - user: None
- - tags: []
-
-## Home | Digital Data Design Institute at Harvard
- - [https://d3.harvard.edu](https://d3.harvard.edu)
- - date published: 2023-10-25T18:51:42.107342+00:00
- - user: None
- - tags: []
-
-## Harvard Business Publishing Education
- - [https://hbsp.harvard.edu](https://hbsp.harvard.edu)
- - date published: 2023-10-25T18:51:44.051862+00:00
- - user: None
- - tags: []
-
-## Home - Harvard Law School | Harvard Law School
- - [https://hls.harvard.edu](https://hls.harvard.edu)
- - date published: 2023-10-25T18:51:50.060436+00:00
- - user: None
- - tags: []
-
-## Home | Harvard Medical School
- - [https://hms.harvard.edu](https://hms.harvard.edu)
- - date published: 2023-10-25T18:51:52.607343+00:00
- - user: None
- - tags: []
-
-## Home | Center for Astrophysics
- - [https://lweb.cfa.harvard.edu](https://lweb.cfa.harvard.edu)
- - date published: 2023-10-25T18:51:56.891134+00:00
- - user: None
- - tags: []
-
-## Harvard Gazette – Official news from Harvard University covering innovation in teaching, learning, and research
- - [https://news.harvard.edu](https://news.harvard.edu)
- - date published: 2023-10-25T11:22:32.692394+00:00
- - user: None
- - tags: []
-
-## Home Page | Harvard John A. Paulson School of Engineering and Applied Sciences
- - [https://people.seas.harvard.edu](https://people.seas.harvard.edu)
- - date published: 2023-10-25T18:52:00.075501+00:00
- - user: None
- - tags: []
-
-## Home | Scholars at Harvard
- - [https://scholar.harvard.edu](https://scholar.harvard.edu)
- - date published: 2023-10-25T18:52:02.303424+00:00
- - user: None
- - tags: []
-
-## Home Page | Harvard John A. Paulson School of Engineering and Applied Sciences
- - [https://seas.harvard.edu](https://seas.harvard.edu)
- - date published: 2023-10-25T18:52:04.448986+00:00
- - user: None
- - tags: []
-
-## Computer Science | Harvard John A. Paulson School of Engineering and Applied Sciences
- - [https://www.eecs.harvard.edu](https://www.eecs.harvard.edu)
- - date published: 2023-10-25T18:52:07.507044+00:00
- - user: None
- - tags: []
-
-## Health Information and Medical Information - Harvard Health
- - [https://www.health.harvard.edu](https://www.health.harvard.edu)
- - date published: 2023-10-25T18:52:11.043760+00:00
- - user: None
- - tags: []
-
-## Harvard T.H. Chan School of Public Health
- - [https://www.hsph.harvard.edu](https://www.hsph.harvard.edu)
- - date published: 2023-11-14T14:40:33.102536+00:00
- - user: None
- - tags: []
-
-## PON - Program on Negotiation at Harvard Law School
- - [https://www.pon.harvard.edu](https://www.pon.harvard.edu)
- - date published: 2023-10-25T18:52:14.185371+00:00
- - user: None
- - tags: []
-
-## HBS Working Knowledge – Harvard Business School Faculty Research
- - [https://hbswk.hbs.edu](https://hbswk.hbs.edu)
- - date published: 2023-10-25T18:52:16.527569+00:00
- - user: None
- - tags: []
-
-## Home | Hillsdale in D.C.
- - [https://dc.hillsdale.edu](https://dc.hillsdale.edu)
- - date published: 2023-10-25T18:52:19.460793+00:00
- - user: None
- - tags: []
-
-## Institute for Advanced Study
- - [https://www.ias.edu](https://www.ias.edu)
- - date published: 2023-10-25T18:52:27.675140+00:00
- - user: None
- - tags: []
-
-## Course Websites | The Grainger College of Engineering | UIUC
- - [https://courses.physics.illinois.edu](https://courses.physics.illinois.edu)
- - date published: 2023-10-25T18:53:00.332561+00:00
- - user: None
- - tags: []
-
-## Jeff Erickson
- - [https://jeffe.cs.illinois.edu](https://jeffe.cs.illinois.edu)
- - date published: 2023-11-13T19:48:15.697958+00:00
- - user: None
- - tags: []
-
-## Margaret M. Fleck
- - [https://mfleck.cs.illinois.edu](https://mfleck.cs.illinois.edu)
- - date published: 2023-10-25T18:53:02.929808+00:00
- - user: None
- - tags: []
-
-## News Bureau | ILLINOIS
- - [https://news.illinois.edu](https://news.illinois.edu)
- - date published: 2023-10-25T18:53:10.492770+00:00
- - user: None
- - tags: []
-
-## Information Sciences Institute
- - [https://www.isi.edu](https://www.isi.edu)
- - date published: 2023-10-25T18:53:13.988342+00:00
- - user: None
- - tags: []
-
-## Page Title
- - [https://lkml.iu.edu](https://lkml.iu.edu)
- - date published: 2023-10-25T18:53:15.506203+00:00
- - user: None
- - tags: []
-
-## News at IU: Indiana University
- - [https://news.iu.edu](https://news.iu.edu)
- - date published: 2023-11-16T10:46:18.918497+00:00
- - user: None
- - tags: []
-
-## Home
-        
-       | Hub
- - [https://hub.jhu.edu](https://hub.jhu.edu)
- - date published: 2023-10-25T18:53:19.413125+00:00
- - user: None
- - tags: []
-
-## Homepage | Hopkins Press
- - [https://www.press.jhu.edu](https://www.press.jhu.edu)
- - date published: 2023-10-25T18:53:23.816743+00:00
- - user: None
- - tags: []
-
-## Kent Campus | Kent State University Kent State, one of Ohio’s leading public universities
- - [https://www.kent.edu](https://www.kent.edu)
- - date published: 2023-10-25T11:22:42.294245+00:00
  - user: None
  - tags: []
 

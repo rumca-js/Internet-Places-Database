@@ -1,3 +1,27 @@
+## Rochester News, Weather, Sports, Breaking News | WHAM
+ - [https://13wham.com](https://13wham.com)
+ - date published: 2023-11-02T23:08:08.908311+00:00
+ - user: None
+ - tags: []
+
+## Eliran Turgeman
+ - [https://www.16elt.com](https://www.16elt.com)
+ - date published: 2023-10-25T12:26:18.338306+00:00
+ - user: None
+ - tags: []
+
+## 1a3orn
+ - [https://1a3orn.com](https://1a3orn.com)
+ - date published: 2023-11-02T20:29:08.386159+00:00
+ - user: None
+ - tags: []
+
+## Blog | 1Password
+ - [https://blog.1password.com](https://blog.1password.com)
+ - date published: 2023-10-25T08:37:26.167522+00:00
+ - user: None
+ - tags: []
+
 ## Data Visualization & Content Marketing Agency
  - [https://www.1point21interactive.com](https://www.1point21interactive.com)
  - date published: 2023-10-25T12:26:23.156108+00:00
@@ -3832,6 +3856,12 @@
  - user: None
  - tags: []
 
+## Beat Saber - VR rhythm game
+ - [https://www.beatsaber.com](https://www.beatsaber.com)
+ - date published: 2023-12-06T08:01:34+00:00
+ - user: rumpel
+ - tags: ['virtual reality', 'vr', 'video game']
+
 ## Beautiful Public Data
  - [https://www.beautifulpublicdata.com](https://www.beautifulpublicdata.com)
  - date published: 2023-10-25T12:54:55.796797+00:00
@@ -4564,6 +4594,12 @@
  - user: None
  - tags: []
 
+## THE BITTER SOUTHERNER - Great Stories from the South
+ - [https://bittersoutherner.com](https://bittersoutherner.com)
+ - date published: 2023-12-06T23:57:44.319992+00:00
+ - user: None
+ - tags: []
+
 ## Bittrex Global
  - [https://bittrex.com](https://bittrex.com)
  - date published: 2023-10-25T13:02:25.612866+00:00
@@ -5272,6 +5308,12 @@
  - user: None
  - tags: ['personal']
 
+## Python Africa
+ - [https://pythonafrica.blogspot.com](https://pythonafrica.blogspot.com)
+ - date published: 2023-12-06T11:29:44.047900+00:00
+ - user: None
+ - tags: []
+
 ## Python Insider
  - [https://pythoninsider.blogspot.com](https://pythoninsider.blogspot.com)
  - date published: 2023-10-25T09:10:39.347997+00:00
@@ -5533,6 +5575,12 @@
 ## Homepage | BMJ Open
  - [https://bmjopen.bmj.com](https://bmjopen.bmj.com)
  - date published: 2023-11-21T13:29:50.036206+00:00
+ - user: None
+ - tags: []
+
+## Homepage | General Psychiatry
+ - [https://gpsych.bmj.com](https://gpsych.bmj.com)
+ - date published: 2023-12-06T08:54:41.995826+00:00
  - user: None
  - tags: []
 
@@ -5947,54 +5995,6 @@
 ## Breaking Defense
  - [https://breakingdefense.com](https://breakingdefense.com)
  - date published: 2023-11-17T17:14:20.850154+00:00
- - user: None
- - tags: []
-
-## Jimmy Breck-McKye
- - [https://www.breck-mckye.com](https://www.breck-mckye.com)
- - date published: 2023-10-25T09:19:31.624038+00:00
- - user: None
- - tags: ['personal']
-
-## Breitbart News Network
- - [https://www.breitbart.com](https://www.breitbart.com)
- - date published: 2023-10-25T13:12:01.815080+00:00
- - user: None
- - tags: []
-
-## Brendan Gregg's Homepage
- - [https://www.brendangregg.com](https://www.brendangregg.com)
- - date published: 2023-10-25T13:12:17.305084+00:00
- - user: None
- - tags: []
-
-## Brendan Hufford - Build Your Audience by Writing Online
- - [https://brendanhufford.com](https://brendanhufford.com)
- - date published: 2023-11-29T17:14:57.540838+00:00
- - user: None
- - tags: ['personal']
-
-## Brendan McAdams - Details
- - [https://brendanmcadams.com](https://brendanmcadams.com)
- - date published: 2023-11-29T15:50:46.410171+00:00
- - user: None
- - tags: ['personal']
-
-## welcome - BMcElhaney Studio
- - [http://www.brennenmcelhaney.com](http://www.brennenmcelhaney.com)
- - date published: 2023-11-29T17:10:35.553866+00:00
- - user: None
- - tags: ['personal']
-
-## welcome - BMcElhaney Studio
- - [https://www.brennenmcelhaney.com](https://www.brennenmcelhaney.com)
- - date published: 2023-11-29T17:10:36.684625+00:00
- - user: None
- - tags: []
-
-## Montecristi Panama Hats, Men's, Women's, Fedoras, Foldable
- - [https://www.brentblack.com](https://www.brentblack.com)
- - date published: 2023-10-25T13:12:21.449258+00:00
  - user: None
  - tags: []
 

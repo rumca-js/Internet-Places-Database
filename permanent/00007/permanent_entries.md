@@ -1,3 +1,159 @@
+## Home | Campbell Jones
+ - [https://serebit.com](https://serebit.com)
+ - date published: 2023-10-25T17:02:05.830940+00:00
+ - user: None
+ - tags: []
+
+## Atlas Alpha: Your Source for Cutting-Edge Tech News and Updates
+ - [https://atlasalpha.serenebase.com](https://atlasalpha.serenebase.com)
+ - date published: 2023-10-25T17:02:07.368934+00:00
+ - user: None
+ - tags: []
+
+## Affinity – Professional Creative Software
+ - [https://affinity.serif.com](https://affinity.serif.com)
+ - date published: 2023-10-25T17:02:09.216110+00:00
+ - user: None
+ - tags: []
+
+## Serious Eats
+ - [https://www.seriouseats.com](https://www.seriouseats.com)
+ - date published: 2023-10-25T17:02:11.867889+00:00
+ - user: None
+ - tags: []
+
+## Search Engine Roundtable ::: The Pulse Of The Search Marketing Community
+ - [https://www.seroundtable.com](https://www.seroundtable.com)
+ - date published: 2023-10-25T17:02:14.125409+00:00
+ - user: None
+ - tags: []
+
+## SerpApi: Google Search API
+ - [https://serpapi.com](https://serpapi.com)
+ - date published: 2023-10-25T17:02:15.903948+00:00
+ - user: None
+ - tags: []
+
+## Server Fault
+ - [https://serverfault.com](https://serverfault.com)
+ - date published: 2023-10-25T17:02:23.306221+00:00
+ - user: None
+ - tags: []
+
+## ServeTheHome Server Storage and Networking Reviews
+ - [https://www.servethehome.com](https://www.servethehome.com)
+ - date published: 2023-10-25T17:02:27.165383+00:00
+ - user: None
+ - tags: []
+
+## Sesquiotica | Words, words, words
+ - [https://sesquiotic.com](https://sesquiotic.com)
+ - date published: 2023-10-25T17:02:31.243228+00:00
+ - user: None
+ - tags: []
+
+## set-inform.com | Adventures in Ubiquiti Routing and Switching
+ - [https://set-inform.com](https://set-inform.com)
+ - date published: 2023-10-25T17:02:35.226495+00:00
+ - user: None
+ - tags: []
+
+## Seth Ariel Green's website
+ - [https://setharielgreen.com](https://setharielgreen.com)
+ - date published: 2023-10-25T17:02:35.994039+00:00
+ - user: None
+ - tags: []
+
+## Happy Warrior by Seth Bannon | Substack
+ - [https://www.sethbannon.com](https://www.sethbannon.com)
+ - date published: 2023-10-25T17:02:37.932924+00:00
+ - user: None
+ - tags: []
+
+## Go away, the cloud is full
+ - [http://www.sevangelatos.com](http://www.sevangelatos.com)
+ - date published: 2023-10-25T17:02:39.146947+00:00
+ - user: None
+ - tags: []
+
+## Sevish – electronic microtonal music
+ - [https://sevish.com](https://sevish.com)
+ - date published: 2023-10-25T17:02:41.671400+00:00
+ - user: None
+ - tags: []
+
+## Sex, Drugs, and Suicide | Jeff Clark, MD | Substack
+ - [https://www.sexdrugsandsuicide.com](https://www.sexdrugsandsuicide.com)
+ - date published: 2023-10-25T17:02:43.133456+00:00
+ - user: None
+ - tags: []
+
+## San Francisco Chronicle - Bay Area news, sports, tech, food - San Francisco Chronicle
+ - [https://www.sfchronicle.com](https://www.sfchronicle.com)
+ - date published: 2023-10-25T17:02:52.832420+00:00
+ - user: None
+ - tags: []
+
+## The San Francisco Compute Company
+ - [https://sfcompute.com](https://sfcompute.com)
+ - date published: 2023-11-14T03:36:57.945860+00:00
+ - user: None
+ - tags: []
+
+## San Francisco Examiner
+ - [https://www.sfexaminer.com](https://www.sfexaminer.com)
+ - date published: 2023-10-25T17:02:57.221140+00:00
+ - user: None
+ - tags: []
+
+## SFGATE: San Francisco Bay Area News, Sports, Culture, Travel, Food and Drink
+ - [https://www.sfgate.com](https://www.sfgate.com)
+ - date published: 2023-10-25T11:06:19.429757+00:00
+ - user: None
+ - tags: []
+
+## Science Fiction Poetry Association
+ - [https://www.sfpoetry.com](https://www.sfpoetry.com)
+ - date published: 2023-11-15T17:37:47.910164+00:00
+ - user: None
+ - tags: ['scifi', 'sci-fi']
+
+## The San Francisco Standard
+ - [https://sfstandard.com](https://sfstandard.com)
+ - date published: 2023-10-25T10:16:18.496044+00:00
+ - user: None
+ - tags: []
+
+## San Francisco YIMBY
+ - [https://sfyimby.com](https://sfyimby.com)
+ - date published: 2023-10-25T17:03:07.889213+00:00
+ - user: None
+ - tags: []
+
+## sglavoie.com
+ - [https://www.sglavoie.com](https://www.sglavoie.com)
+ - date published: 2023-11-16T09:28:41.834908+00:00
+ - user: None
+ - tags: []
+
+## Shacknews | Video Game Video Reviews, Celebrity Interviews, Strategy Videos, Original Content and More
+ - [https://www.shacknews.com](https://www.shacknews.com)
+ - date published: 2023-10-25T10:50:12.343927+00:00
+ - user: None
+ - tags: []
+
+## Shadertoy BETA
+ - [https://www.shadertoy.com](https://www.shadertoy.com)
+ - date published: 2023-10-25T17:03:10.073076+00:00
+ - user: None
+ - tags: []
+
+## ShadowBox Training – Accelerate Expertise
+ - [https://www.shadowboxtraining.com](https://www.shadowboxtraining.com)
+ - date published: 2023-10-25T17:03:12.236336+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://shallistreamit.com](https://shallistreamit.com)
  - date published: 2023-11-27T11:33:27+00:00
@@ -219,6 +375,12 @@
  - date published: 2023-10-25T17:03:58.680063+00:00
  - user: None
  - tags: []
+
+## SideQuest: Oculus Quest Games & Apps including AppLab Games ( Oculus App Lab )
+ - [https://sidequestvr.com](https://sidequestvr.com)
+ - date published: 2023-12-06T10:34:52+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
 
 ## sidsite | The site of Sid.
  - [https://sidsite.com](https://sidsite.com)
@@ -1157,6 +1319,12 @@
  - user: None
  - tags: []
 
+## SpacetimeDB
+ - [https://spacetimedb.com](https://spacetimedb.com)
+ - date published: 2023-12-06T17:42:57.628237+00:00
+ - user: None
+ - tags: []
+
 ## Spaceweather.com
  - [https://spaceweatherarchive.com](https://spaceweatherarchive.com)
  - date published: 2023-10-25T17:09:20.403477+00:00
@@ -1265,6 +1433,12 @@
  - user: None
  - tags: []
 
+## Spellbrush
+ - [https://spellbrush.com](https://spellbrush.com)
+ - date published: 2023-12-06T21:32:46.624790+00:00
+ - user: None
+ - tags: []
+
 ## Articles
  - [https://spencermortensen.com](https://spencermortensen.com)
  - date published: 2023-11-22T15:19:29.713479+00:00
@@ -1366,6 +1540,12 @@
  - date published: 2023-10-24T20:06:19.517755+00:00
  - user: None
  - tags: ['audio streaming']
+
+## Spotlight: Sentry for Development
+ - [https://spotlightjs.com](https://spotlightjs.com)
+ - date published: 2023-12-06T17:03:27+00:00
+ - user: None
+ - tags: []
 
 ## Spot | Virtual office for teams
  - [https://www.spotvirtual.com](https://www.spotvirtual.com)
@@ -1487,6 +1667,12 @@
  - user: None
  - tags: []
 
+## SsethTzeentach&#39;s &#40;shitty website&#41;
+ - [https://www.ssethtzeentach.com](https://www.ssethtzeentach.com)
+ - date published: 2023-12-06T15:38:16+00:00
+ - user: rumpel
+ - tags: ['satire', 'comedy', 'youtuber']
+
 ## Search eLibrary :: SSRN
  - [https://papers.ssrn.com](https://papers.ssrn.com)
  - date published: 2023-10-25T17:11:54.538915+00:00
@@ -1526,6 +1712,12 @@
 ## Stable Diffusion Online - AI Image Generator
  - [https://stablediffusionweb.com](https://stablediffusionweb.com)
  - date published: 2023-11-01T08:43:08.674852+00:00
+ - user: None
+ - tags: []
+
+## Stabroek News - Guyana's Most Trusted Newspaper
+ - [https://www.stabroeknews.com](https://www.stabroeknews.com)
+ - date published: 2023-12-06T23:19:54.542248+00:00
  - user: None
  - tags: []
 
@@ -5183,6 +5375,12 @@
  - user: None
  - tags: []
 
+## SUPERHOT - The FPS where time moves only when you move
+ - [https://superhotgame.com](https://superhotgame.com)
+ - date published: 2023-12-06T08:03:27+00:00
+ - user: rumpel
+ - tags: ['video game']
+
 ## Superman Homepage
  - [https://www.supermanhomepage.com](https://www.supermanhomepage.com)
  - date published: 2023-11-27T12:56:00+00:00
@@ -5501,6 +5699,12 @@
  - user: None
  - tags: []
 
+## Tablet Magazine
+ - [https://www.tabletmag.com](https://www.tabletmag.com)
+ - date published: 2023-12-06T10:23:40+00:00
+ - user: rumpel
+ - tags: ['israel', 'jewish news']
+
 ## Tabletmonkeys - The World's Largest Computer Tablet Magazine/Website • Tabletmonkeys Is The World's Largest Computer Tablet Magazine/Website With Tablet Comparison, Tablet Deals, Tablet Leaks, Tablet Rumors, and Tablet News.
  - [https://tabletmonkeys.com](https://tabletmonkeys.com)
  - date published: 2023-10-25T17:22:16.200755+00:00
@@ -5786,210 +5990,6 @@
 ## Tea and Tech Time – Tech projects to read over your afternoon tea
  - [https://teaandtechtime.com](https://teaandtechtime.com)
  - date published: 2023-10-25T17:23:51.944870+00:00
- - user: None
- - tags: []
-
-## Teachfloor: The leading social learning platform
- - [https://www.teachfloor.com](https://www.teachfloor.com)
- - date published: 2023-10-25T17:23:53.514633+00:00
- - user: None
- - tags: []
-
-## Team-BHP - India's Most Trusted Car Reviews & News
- - [https://www.team-bhp.com](https://www.team-bhp.com)
- - date published: 2023-10-25T17:23:57.686441+00:00
- - user: None
- - tags: []
-
-## Team17 | Indie Games developed by Independent Developers
- - [https://www.team17.com](https://www.team17.com)
- - date published: 2023-11-01T13:30:58.364849+00:00
- - user: None
- - tags: ['retro games', 'amiga', 'company', 'game studio']
-
-## Blind - The #1 Tech Career Community - Blind
- - [https://www.teamblind.com](https://www.teamblind.com)
- - date published: 2023-10-25T17:24:03.818771+00:00
- - user: None
- - tags: []
-
-## Team Fortress 2
- - [https://teamfortress.com](https://teamfortress.com)
- - date published: 2023-10-30T15:18:20.534310+00:00
- - user: None
- - tags: ['game']
-
-## Team management for developers - Teamplify
- - [https://teamplify.com](https://teamplify.com)
- - date published: 2023-10-25T17:24:05.514376+00:00
- - user: None
- - tags: []
-
-## Tea with Tolkien
- - [https://www.teawithtolkien.com](https://www.teawithtolkien.com)
- - date published: 2023-10-25T13:56:06.179784+00:00
- - user: None
- - tags: ['hobbit', 'lord of the rings']
-
-## Tech-KnowHow.com | Helping you help yourself to technology solutions
- - [https://www.tech-knowhow.com](https://www.tech-knowhow.com)
- - date published: 2023-10-25T17:24:10.603392+00:00
- - user: None
- - tags: []
-
-## TechAint – The New Staff From Technology
- - [https://techaint.com](https://techaint.com)
- - date published: 2023-10-25T17:24:18.770437+00:00
- - user: None
- - tags: []
-
-## TechCrunch is part of the Yahoo family of brands
- - [https://techcrunch.com](https://techcrunch.com)
- - date published: 2023-10-25T09:35:53.435438+00:00
- - user: None
- - tags: ['tech news']
-
-## Techdirt.
- - [https://www.techdirt.com](https://www.techdirt.com)
- - date published: 2023-10-25T10:15:01.446813+00:00
- - user: None
- - tags: []
-
-## Techdows - Latest Technology News
- - [https://techdows.com](https://techdows.com)
- - date published: 2023-10-25T17:24:21.014976+00:00
- - user: None
- - tags: []
-
-## Internal Tech Emails | Substack
- - [https://www.techemails.com](https://www.techemails.com)
- - date published: 2023-10-25T17:24:24.810743+00:00
- - user: None
- - tags: []
-
-## Tech Explorist - Latest Science and Technology News
- - [https://www.techexplorist.com](https://www.techexplorist.com)
- - date published: 2023-10-25T17:24:28.491926+00:00
- - user: None
- - tags: []
-
-## Tech Funding News | Global technology startup funding news
- - [https://techfundingnews.com](https://techfundingnews.com)
- - date published: 2023-10-25T17:24:35.857919+00:00
- - user: None
- - tags: []
-
-## https://techgenix.com
- - [https://techgenix.com](https://techgenix.com)
- - date published: 2023-10-25T17:24:36.123076+00:00
- - user: None
- - tags: []
-
-## Techmeme
- - [https://techmeme.com](https://techmeme.com)
- - date published: 2023-10-25T17:24:58.613645+00:00
- - user: None
- - tags: []
-
-## Creatures of Thought
- - [https://technicshistory.com](https://technicshistory.com)
- - date published: 2023-10-25T17:25:03.668553+00:00
- - user: None
- - tags: []
-
-## Technoblogy
- - [http://www.technoblogy.com](http://www.technoblogy.com)
- - date published: 2023-10-25T17:25:05.692742+00:00
- - user: None
- - tags: []
-
-## Latest Technology News & Gadgets News | TechnoBugg
- - [https://www.technobugg.com](https://www.technobugg.com)
- - date published: 2023-10-25T17:25:15.753498+00:00
- - user: None
- - tags: []
-
-## TechNode - Latest China Tech Trends
- - [https://technode.com](https://technode.com)
- - date published: 2023-10-25T09:35:57.836282+00:00
- - user: None
- - tags: []
-
-## Technology Networks - The Online Scientific Community
- - [https://www.technologynetworks.com](https://www.technologynetworks.com)
- - date published: 2023-10-25T17:25:18.998962+00:00
- - user: None
- - tags: []
-
-## MIT Technology Review
- - [https://www.technologyreview.com](https://www.technologyreview.com)
- - date published: 2023-10-25T09:36:02.543423+00:00
- - user: None
- - tags: []
-
-## TechPowerUp
- - [https://www.techpowerup.com](https://www.techpowerup.com)
- - date published: 2023-10-25T17:25:26.426085+00:00
- - user: None
- - tags: []
-
-## TechRadar | the technology experts
- - [https://www.techradar.com](https://www.techradar.com)
- - date published: 2023-10-25T10:28:41.163318+00:00
- - user: None
- - tags: []
-
-## TechRepublic: News, Tips & Advice for Technology Professionals
- - [https://www.techrepublic.com](https://www.techrepublic.com)
- - date published: 2023-10-25T09:36:05.591340+00:00
- - user: None
- - tags: []
-
-## TechSpot | Tech Enthusiasts, Power Users, Gamers
- - [https://www.techspot.com](https://www.techspot.com)
- - date published: 2023-10-25T09:36:09.058914+00:00
- - user: None
- - tags: []
-
-## TechStartups | Startups and Technology news
- - [https://techstartups.com](https://techstartups.com)
- - date published: 2023-10-25T17:25:32.553890+00:00
- - user: None
- - tags: []
-
-## Purchase Intent Data for Enterprise Tech Sales and Marketing | TechTarget
- - [https://www.techtarget.com](https://www.techtarget.com)
- - date published: 2023-10-25T17:25:43.327954+00:00
- - user: None
- - tags: []
-
-## Learn and be better everyday - TechTello
- - [https://www.techtello.com](https://www.techtello.com)
- - date published: 2023-10-25T17:25:46.707708+00:00
- - user: None
- - tags: []
-
-## Tech Three Dots
- - [https://techthreedots.com](https://techthreedots.com)
- - date published: 2023-11-11T23:40:58.568624+00:00
- - user: None
- - tags: []
-
-## Tech Times | Tech News, Science, Health, Reviews
- - [https://www.techtimes.com](https://www.techtimes.com)
- - date published: 2023-11-27T16:23:40+00:00
- - user: rumpel
- - tags: ['tech news']
-
-## TechTinkering - Retro Computers, Programming, General Technical Tinkering
- - [https://techtinkering.com](https://techtinkering.com)
- - date published: 2023-10-25T17:25:47.542481+00:00
- - user: None
- - tags: []
-
-## TechWiser - Tips, Tricks & How to
- - [https://techwiser.com](https://techwiser.com)
- - date published: 2023-10-25T17:25:51.110378+00:00
  - user: None
  - tags: []
 

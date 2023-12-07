@@ -1,3 +1,285 @@
+## Webmink In Draft
+ - [https://the.webm.ink](https://the.webm.ink)
+ - date published: 2023-10-27T11:57:18.334378+00:00
+ - user: None
+ - tags: []
+
+## PR, Marketing, and Branding With Impact — CCI
+ - [https://www.culturalcurrents.institute](https://www.culturalcurrents.institute)
+ - date published: 2023-10-25T19:36:13.412695+00:00
+ - user: None
+ - tags: []
+
+## Institute for Progress (IFP)
+ - [https://progress.institute](https://progress.institute)
+ - date published: 2023-10-25T19:36:19.113893+00:00
+ - user: None
+ - tags: []
+
+## Spritely Networked Communities Institute -- Spritely Institute
+ - [https://spritely.institute](https://spritely.institute)
+ - date published: 2023-10-25T19:36:21.265092+00:00
+ - user: None
+ - tags: []
+
+## tilde.institute :: Wiki
+ - [https://wiki.tilde.institute](https://wiki.tilde.institute)
+ - date published: 2023-10-25T19:36:22.997779+00:00
+ - user: None
+ - tags: []
+
+## https://pace.coe.int
+ - [https://pace.coe.int](https://pace.coe.int)
+ - date published: 2023-10-25T19:36:23.306616+00:00
+ - user: None
+ - tags: []
+
+## http://ideas.esa.int
+ - [http://ideas.esa.int](http://ideas.esa.int)
+ - date published: 2023-10-25T19:36:24.005576+00:00
+ - user: None
+ - tags: []
+
+## Cosmos Home - Cosmos
+ - [http://www.cosmos.esa.int](http://www.cosmos.esa.int)
+ - date published: 2023-10-25T19:36:26.329868+00:00
+ - user: None
+ - tags: []
+
+## European Space Agency
+ - [https://www.esa.int](https://www.esa.int)
+ - date published: 2023-10-25T19:36:27.942390+00:00
+ - user: None
+ - tags: []
+
+## EUMETSAT | Monitoring the weather and climate from space | EUMETSAT
+ - [https://www.eumetsat.int](https://www.eumetsat.int)
+ - date published: 2023-10-25T19:36:32.487462+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.icao.int](https://www.icao.int)
+ - date published: 2023-10-25T19:36:35.257231+00:00
+ - user: None
+ - tags: []
+
+## | International Criminal Court
+ - [https://www.icc-cpi.int](https://www.icc-cpi.int)
+ - date published: 2023-10-25T19:36:37.915405+00:00
+ - user: None
+ - tags: []
+
+## NATO - Homepage
+ - [https://www.nato.int](https://www.nato.int)
+ - date published: 2023-10-25T19:36:41.145399+00:00
+ - user: None
+ - tags: []
+
+## ReliefWeb - Informing humanitarians worldwide
+ - [https://reliefweb.int](https://reliefweb.int)
+ - date published: 2023-10-25T19:36:44.632738+00:00
+ - user: None
+ - tags: []
+
+## World Health Organization (WHO)
+ - [https://www.who.int](https://www.who.int)
+ - date published: 2023-10-25T19:36:52.392796+00:00
+ - user: None
+ - tags: []
+
+## World Meteorological Organization |
+ - [https://public.wmo.int](https://public.wmo.int)
+ - date published: 2023-10-25T19:36:59.974563+00:00
+ - user: None
+ - tags: []
+
+## 12ft Ladder
+ - [https://12ft.io](https://12ft.io)
+ - date published: 2023-10-25T19:37:01.821312+00:00
+ - user: None
+ - tags: []
+
+## F*** Paywalls
+ - [https://1ft.io](https://1ft.io)
+ - date published: 2023-11-04T16:59:18+00:00
+ - user: None
+ - tags: []
+
+## former Bell Labs Computing and Mathematical Sciences Research
+ - [https://9p.io](https://9p.io)
+ - date published: 2023-10-25T19:37:03.235955+00:00
+ - user: None
+ - tags: []
+
+## abseil / abseil.io
+ - [https://abseil.io](https://abseil.io)
+ - date published: 2023-10-25T19:37:05.168960+00:00
+ - user: None
+ - tags: []
+
+## Adalytics
+ - [https://adalytics.io](https://adalytics.io)
+ - date published: 2023-10-25T19:37:08.319881+00:00
+ - user: None
+ - tags: []
+
+## AdGuard DNS — ad-blocking DNS server
+ - [https://adguard-dns.io](https://adguard-dns.io)
+ - date published: 2023-11-22T06:50:43+00:00
+ - user: rumpel
+ - tags: ['ad block', 'dns']
+
+## AdNauseam
+ - [https://adnauseam.io](https://adnauseam.io)
+ - date published: 2023-10-25T19:37:10.261889+00:00
+ - user: None
+ - tags: []
+
+## The World's #1 Product Development Software | Aha!
+ - [https://www.aha.io](https://www.aha.io)
+ - date published: 2023-10-25T19:37:14.450720+00:00
+ - user: None
+ - tags: []
+
+## Airframes
+ - [https://app.airframes.io](https://app.airframes.io)
+ - date published: 2023-10-25T19:37:15.997927+00:00
+ - user: None
+ - tags: []
+
+## Simple Automation
+ - [https://blog.ajour.io](https://blog.ajour.io)
+ - date published: 2023-10-25T19:37:17.812878+00:00
+ - user: None
+ - tags: []
+
+## Deploy to Kubernetes safely and at scale with Argo CD as a managed service | Akuity
+ - [https://akuity.io](https://akuity.io)
+ - date published: 2023-10-25T19:37:25.269732+00:00
+ - user: None
+ - tags: []
+
+## Alex Ellis' Blog
+ - [https://blog.alexellis.io](https://blog.alexellis.io)
+ - date published: 2023-10-25T08:59:05.007883+00:00
+ - user: None
+ - tags: ['personal']
+
+## Algora
+ - [https://console.algora.io](https://console.algora.io)
+ - date published: 2023-10-25T19:37:26.590641+00:00
+ - user: None
+ - tags: []
+
+## AltStore
+ - [https://altstore.io](https://altstore.io)
+ - date published: 2023-10-25T19:37:28.350698+00:00
+ - user: None
+ - tags: []
+
+## Ameliorated.io
+ - [https://ameliorated.io](https://ameliorated.io)
+ - date published: 2023-10-25T19:37:30.300979+00:00
+ - user: None
+ - tags: []
+
+## American Express Technology
+ - [https://americanexpress.io](https://americanexpress.io)
+ - date published: 2023-10-25T19:37:33.148951+00:00
+ - user: None
+ - tags: []
+
+## Angular
+ - [https://angular.io](https://angular.io)
+ - date published: 2023-10-27T12:21:52.948727+00:00
+ - user: None
+ - tags: ['angular']
+
+## Angular Blog
+ - [https://blog.angular.io](https://blog.angular.io)
+ - date published: 2023-10-25T19:37:37.334016+00:00
+ - user: None
+ - tags: []
+
+## The Everything App
+ - [https://anytype.io](https://anytype.io)
+ - date published: 2023-10-25T19:37:39.588844+00:00
+ - user: None
+ - tags: []
+
+## API Handyman
+ - [https://apihandyman.io](https://apihandyman.io)
+ - date published: 2023-10-25T19:37:41.287684+00:00
+ - user: None
+ - tags: []
+
+## Ultra simple back end for static websites
+ - [https://appbackend.io](https://appbackend.io)
+ - date published: 2023-11-02T23:57:04+00:00
+ - user: None
+ - tags: []
+
+## The AppCensus Blog
+ - [https://blog.appcensus.io](https://blog.appcensus.io)
+ - date published: 2023-10-25T19:37:44.083298+00:00
+ - user: None
+ - tags: []
+
+## Apricitas Economics | Joseph Politano | Substack
+ - [https://www.apricitas.io](https://www.apricitas.io)
+ - date published: 2023-10-25T19:37:47.487142+00:00
+ - user: None
+ - tags: []
+
+## Open-source data curation platform for LLMs
+ - [https://argilla.io](https://argilla.io)
+ - date published: 2023-10-25T19:37:49.975085+00:00
+ - user: None
+ - tags: []
+
+## Fatih Arslan
+ - [https://arslan.io](https://arslan.io)
+ - date published: 2023-10-25T19:37:51.402475+00:00
+ - user: None
+ - tags: []
+
+## Academy Software Foundation - ASWF
+ - [https://www.aswf.io](https://www.aswf.io)
+ - date published: 2023-10-25T19:37:54.400426+00:00
+ - user: None
+ - tags: []
+
+## The Autodidacts
+ - [https://www.autodidacts.io](https://www.autodidacts.io)
+ - date published: 2023-10-25T09:21:59.454981+00:00
+ - user: None
+ - tags: ['personal']
+
+## Automatisch - Open Source Zapier Alternative
+ - [https://automatisch.io](https://automatisch.io)
+ - date published: 2023-10-25T19:38:01.066958+00:00
+ - user: None
+ - tags: []
+
+## Axel’s Blog | Technical blog discussing reverse engineering, detections engineering, exploit development, capability development, and other cybersecurity topics.
+ - [https://axelp.io](https://axelp.io)
+ - date published: 2023-10-25T19:38:02.657295+00:00
+ - user: None
+ - tags: []
+
+## Babel · Babel
+ - [https://babeljs.io](https://babeljs.io)
+ - date published: 2023-10-25T19:38:04.462286+00:00
+ - user: None
+ - tags: []
+
+## Bank List - Find the Best Bank for Your Needs
+ - [https://banklist.io](https://banklist.io)
+ - date published: 2023-10-25T19:38:08.774494+00:00
+ - user: None
+ - tags: []
+
 ## http://assets.bbhub.io
  - [http://assets.bbhub.io](http://assets.bbhub.io)
  - date published: 2023-10-25T19:38:14.807002+00:00
@@ -1222,12 +1504,6 @@
  - user: None
  - tags: []
 
-## Site not found · GitHub Pages
- - [https://camel-cdr.github.io](https://camel-cdr.github.io)
- - date published: 2023-11-11T16:04:43.517733+00:00
- - user: None
- - tags: []
-
 ## About Me - Andrew Lee
  - [https://candrewlee14.github.io](https://candrewlee14.github.io)
  - date published: 2023-10-25T19:44:40.542809+00:00
@@ -1237,12 +1513,6 @@
 ## invoke::thought()
  - [https://cdacamar.github.io](https://cdacamar.github.io)
  - date published: 2023-10-25T19:44:41.325612+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://cellularprivacy.github.io](https://cellularprivacy.github.io)
- - date published: 2023-11-05T15:09:09.700016+00:00
  - user: None
  - tags: []
 
@@ -1367,18 +1637,6 @@ through Composable Diffusion
  - user: None
  - tags: []
 
-## Site not found · GitHub Pages
- - [https://deepesh-01.github.io](https://deepesh-01.github.io)
- - date published: 2023-11-25T21:29:06.787857+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [http://deepmind.github.io](http://deepmind.github.io)
- - date published: 2023-10-25T19:44:57.198435+00:00
- - user: None
- - tags: []
-
 ## Martijn de Vos
  - [https://devos50.github.io](https://devos50.github.io)
  - date published: 2023-10-25T19:44:58.236322+00:00
@@ -1460,12 +1718,6 @@ through Composable Diffusion
 ## Damian Bogunowicz - dtransposed
  - [https://dtransposed.github.io](https://dtransposed.github.io)
  - date published: 2023-11-06T13:53:20.330919+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://dudemanguy.github.io](https://dudemanguy.github.io)
- - date published: 2023-12-03T17:58:26.602714+00:00
  - user: None
  - tags: []
 
@@ -1644,12 +1896,6 @@ through Composable Diffusion
  - user: None
  - tags: []
 
-## Site not found · GitHub Pages
- - [https://gpuweb.github.io](https://gpuweb.github.io)
- - date published: 2023-11-05T20:13:45.820697+00:00
- - user: None
- - tags: []
-
 ## grantsh | Main
  - [https://grantshandy.github.io](https://grantshandy.github.io)
  - date published: 2023-10-25T19:45:55.822501+00:00
@@ -1758,12 +2004,6 @@ through Composable Diffusion
  - user: None
  - tags: []
 
-## Site not found · GitHub Pages
- - [https://humanaigc.github.io](https://humanaigc.github.io)
- - date published: 2023-12-01T10:46:26.018226+00:00
- - user: None
- - tags: []
-
 ## Krut's Blog
  - [https://iamkroot.github.io](https://iamkroot.github.io)
  - date published: 2023-10-25T19:46:33.488191+00:00
@@ -1815,12 +2055,6 @@ through Composable Diffusion
 ## Jay Alammar – Visualizing machine learning one concept at a time.
  - [https://jalammar.github.io](https://jalammar.github.io)
  - date published: 2023-10-25T19:47:09.126685+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://jaredkrinke.github.io](https://jaredkrinke.github.io)
- - date published: 2023-10-29T15:01:24.299565+00:00
  - user: None
  - tags: []
 
@@ -1907,12 +2141,6 @@ through Composable Diffusion
  - date published: 2023-10-30T13:48:57.641903+00:00
  - user: None
  - tags: ['scada', 'java']
-
-## Site not found · GitHub Pages
- - [https://jsulpis.github.io](https://jsulpis.github.io)
- - date published: 2023-11-21T10:09:40.744947+00:00
- - user: None
- - tags: []
 
 ## Juniper Open Source
  - [https://juniper.github.io](https://juniper.github.io)
@@ -2358,12 +2586,6 @@ through Composable Diffusion
  - user: None
  - tags: []
 
-## Site not found · GitHub Pages
- - [https://musiccontrolnet.github.io](https://musiccontrolnet.github.io)
- - date published: 2023-11-14T20:40:50.662450+00:00
- - user: None
- - tags: []
-
 ## Mutt0-ds Notes
  - [https://mutt0-ds.github.io](https://mutt0-ds.github.io)
  - date published: 2023-10-25T19:49:59.363681+00:00
@@ -2664,12 +2886,6 @@ through Composable Diffusion
  - user: None
  - tags: []
 
-## Site not found · GitHub Pages
- - [https://q-transformer.github.io](https://q-transformer.github.io)
- - date published: 2023-10-25T19:51:24.786234+00:00
- - user: None
- - tags: []
-
 ## @radekmie’s take on IT and stuff
  - [https://radekmie.github.io](https://radekmie.github.io)
  - date published: 2023-10-25T19:51:26.585195+00:00
@@ -2802,12 +3018,6 @@ through Composable Diffusion
  - user: None
  - tags: []
 
-## Site not found · GitHub Pages
- - [https://sergeyteplyakov.github.io](https://sergeyteplyakov.github.io)
- - date published: 2023-11-04T18:07:51.717956+00:00
- - user: None
- - tags: []
-
 ## SHA-1 is a Shambles
  - [https://sha-mbles.github.io](https://sha-mbles.github.io)
  - date published: 2023-10-25T19:52:08.723718+00:00
@@ -2904,12 +3114,6 @@ through Composable Diffusion
  - user: None
  - tags: []
 
-## Site not found · GitHub Pages
- - [https://squint-cljs.github.io](https://squint-cljs.github.io)
- - date published: 2023-11-17T22:23:46.639677+00:00
- - user: None
- - tags: []
-
 ## Stefan Schüller
  - [https://sschueller.github.io](https://sschueller.github.io)
  - date published: 2023-10-25T19:54:28.538345+00:00
@@ -2970,12 +3174,6 @@ through Composable Diffusion
  - user: None
  - tags: []
 
-## Site not found · GitHub Pages
- - [https://thelast19digitsofpi.github.io](https://thelast19digitsofpi.github.io)
- - date published: 2023-11-17T07:14:39.625280+00:00
- - user: None
- - tags: []
-
 ## Electronics etc…
  - [https://tomverbeure.github.io](https://tomverbeure.github.io)
  - date published: 2023-10-25T19:54:56.629189+00:00
@@ -3018,12 +3216,6 @@ through Composable Diffusion
  - user: None
  - tags: []
 
-## Site not found · GitHub Pages
- - [https://tudelft3d.github.io](https://tudelft3d.github.io)
- - date published: 2023-11-23T02:03:48.170842+00:00
- - user: None
- - tags: []
-
 ## Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models
  - [https://tuning-encoder.github.io](https://tuning-encoder.github.io)
  - date published: 2023-10-25T19:55:06.349691+00:00
@@ -3039,12 +3231,6 @@ through Composable Diffusion
 ## http://twitter.github.io
  - [http://twitter.github.io](http://twitter.github.io)
  - date published: 2023-10-25T19:55:07.679745+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://udlbook.github.io](https://udlbook.github.io)
- - date published: 2023-11-26T21:21:23.607349+00:00
  - user: None
  - tags: []
 
@@ -3125,6 +3311,12 @@ through Composable Diffusion
  - date published: 2023-10-25T08:59:17.521757+00:00
  - user: None
  - tags: ['personal']
+
+## Site not found · GitHub Pages
+ - [https://yformer.github.io](https://yformer.github.io)
+ - date published: 2023-12-06T13:42:40.703065+00:00
+ - user: None
+ - tags: []
 
 ## Home | YJDoc2
  - [https://yjdoc2.github.io](https://yjdoc2.github.io)
@@ -5807,196 +5999,4 @@ End-to-end typesafe APIs made easy. | tRPC
  - date published: 2023-10-25T20:14:45.892675+00:00
  - user: None
  - tags: []
-
-## Wifi & Bed
- - [https://bitslap.it](https://bitslap.it)
- - date published: 2023-10-25T20:14:46.393122+00:00
- - user: None
- - tags: []
-
-## Can I Stream It?
- - [https://www.canistream.it](https://www.canistream.it)
- - date published: 2023-11-27T11:29:05+00:00
- - user: rumpel
- - tags: ['video streaming filter']
-
-## Davide Quaranta
- - [https://davquar.it](https://davquar.it)
- - date published: 2023-10-25T20:14:47.000469+00:00
- - user: None
- - tags: []
-
-## Trapped inside a tölva
- - [https://edoput.it](https://edoput.it)
- - date published: 2023-10-25T20:14:48.397571+00:00
- - user: None
- - tags: []
-
-## Home - Eliseo Martelli
- - [https://www.eliseomartelli.it](https://www.eliseomartelli.it)
- - date published: 2023-10-25T08:49:49.023316+00:00
- - user: None
- - tags: ['personal']
-
-## Enrico Bassetti
- - [https://www.enricobassetti.it](https://www.enricobassetti.it)
- - date published: 2023-10-25T20:14:54.222338+00:00
- - user: None
- - tags: []
-
-## Home - Garante Privacy
- - [https://www.garanteprivacy.it](https://www.garanteprivacy.it)
- - date published: 2023-10-25T20:14:57.663434+00:00
- - user: None
- - tags: []
-
-## morsechat - an online morse code radio
- - [https://morse.halb.it](https://morse.halb.it)
- - date published: 2023-10-25T20:14:58.101342+00:00
- - user: None
- - tags: []
-
-## Home | { Hoelzel.IT }
- - [https://www.hoelzel.it](https://www.hoelzel.it)
- - date published: 2023-10-25T20:14:58.999999+00:00
- - user: None
- - tags: []
-
-## IAI Istituto Affari Internazionali
- - [https://www.iai.it](https://www.iai.it)
- - date published: 2023-10-25T20:15:02.462616+00:00
- - user: None
- - tags: []
-
-## Italian poetry for English speakers | Italian Poetry
- - [https://italianpoetry.it](https://italianpoetry.it)
- - date published: 2023-10-25T20:15:03.303270+00:00
- - user: None
- - tags: []
-
-## G̶i̶a̶c̶o̶m̶o̶ ̶M̶i̶c̶e̶l̶i̶
- - [https://www.jamez.it](https://www.jamez.it)
- - date published: 2023-10-25T20:15:05.579397+00:00
- - user: None
- - tags: []
-
-## Loris Cro's Personal Website
- - [https://kristoff.it](https://kristoff.it)
- - date published: 2023-10-25T20:15:11.394567+00:00
- - user: None
- - tags: []
-
-## Let's Block It! :: letsblock.it
- - [https://letsblock.it](https://letsblock.it)
- - date published: 2023-10-25T20:15:12.362251+00:00
- - user: None
- - tags: []
-
-## Home - Linux.it
- - [https://www.linux.it](https://www.linux.it)
- - date published: 2023-10-25T20:15:13.230291+00:00
- - user: None
- - tags: []
-
-## nitter.it
- - [https://nitter.it](https://nitter.it)
- - date published: 2023-11-22T06:56:02+00:00
- - user: rumpel
- - tags: ['x', 'twitter']
-
-## GTranslate - Error 402: Payment Required
- - [https://en.oppohub.it](https://en.oppohub.it)
- - date published: 2023-10-25T20:15:13.671922+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://we.phorge.it](https://we.phorge.it)
- - date published: 2023-10-25T20:15:19.719274+00:00
- - user: None
- - tags: []
-
-## https://external-preview.redd.it/
- - [https://external-preview.redd.it](https://external-preview.redd.it)
- - date published: 2023-10-30T12:22:01.044585+00:00
- - user: None
- - tags: []
-
-## Reddit - Dive into anything
- - [https://i.redd.it](https://i.redd.it)
- - date published: 2023-10-25T20:15:21.079184+00:00
- - user: None
- - tags: []
-
-## Reddit - Dive into anything
- - [https://preview.redd.it](https://preview.redd.it)
- - date published: 2023-10-25T20:15:22.724650+00:00
- - user: None
- - tags: []
-
-## https://v.redd.it
- - [https://v.redd.it](https://v.redd.it)
- - date published: 2023-10-30T12:42:19.101470+00:00
- - user: None
- - tags: []
-
-## Rome in the footsteps of a 1750 traveller
- - [https://www.romeartlover.it](https://www.romeartlover.it)
- - date published: 2023-11-15T17:37:09.666911+00:00
- - user: None
- - tags: ['personal']
-
-## Linkfire Acquired smartURL | Music Marketing | Smart Links for music
- - [https://smarturl.it](https://smarturl.it)
- - date published: 2023-11-05T16:12:49.518226+00:00
- - user: None
- - tags: []
-
-## Summate.it - Quickly summarize web articles
- - [https://summate.it](https://summate.it)
- - date published: 2023-10-25T20:15:23.804588+00:00
- - user: None
- - tags: []
-
-## The Local - Italy's news in English
- - [https://www.thelocal.it](https://www.thelocal.it)
- - date published: 2023-10-25T20:15:26.536494+00:00
- - user: None
- - tags: []
-
-## The Split | Turner Novak | Substack
- - [https://www.thespl.it](https://www.thespl.it)
- - date published: 2023-10-25T20:15:30.056480+00:00
- - user: None
- - tags: []
-
-## TransitiveBullsh.it
- - [https://transitivebullsh.it](https://transitivebullsh.it)
- - date published: 2023-10-25T20:15:34.091849+00:00
- - user: None
- - tags: []
-
-## Unclutter — Reader Mode for Chrome & Firefox
- - [https://unclutter.it](https://unclutter.it)
- - date published: 2023-10-25T20:15:40.192858+00:00
- - user: None
- - tags: []
-
-## L'Unione Sarda.it
- - [https://www.unionesarda.it](https://www.unionesarda.it)
- - date published: 2023-11-06T02:35:24.227351+00:00
- - user: None
- - tags: []
-
-## Home - Dipartimento di Informatica
- - [http://groups.di.unipi.it](http://groups.di.unipi.it)
- - date published: 2023-10-25T20:15:43.305470+00:00
- - user: None
- - tags: []
-
-## upbeat.it - upbeat.it
- - [http://www.upbeat.it](http://www.upbeat.it)
- - date published: 2023-12-03T15:55:20.429965+00:00
- - user: None
- - tags: ['personal']
 

@@ -1,3 +1,207 @@
+## Team-BHP - India's Most Trusted Car Reviews & News
+ - [https://www.team-bhp.com](https://www.team-bhp.com)
+ - date published: 2023-10-25T17:23:57.686441+00:00
+ - user: None
+ - tags: []
+
+## Team17 | Indie Games developed by Independent Developers
+ - [https://www.team17.com](https://www.team17.com)
+ - date published: 2023-11-01T13:30:58.364849+00:00
+ - user: None
+ - tags: ['retro games', 'amiga', 'company', 'game studio']
+
+## Blind - The #1 Tech Career Community - Blind
+ - [https://www.teamblind.com](https://www.teamblind.com)
+ - date published: 2023-10-25T17:24:03.818771+00:00
+ - user: None
+ - tags: []
+
+## Team Fortress 2
+ - [https://teamfortress.com](https://teamfortress.com)
+ - date published: 2023-10-30T15:18:20.534310+00:00
+ - user: None
+ - tags: ['game']
+
+## Team management for developers - Teamplify
+ - [https://teamplify.com](https://teamplify.com)
+ - date published: 2023-10-25T17:24:05.514376+00:00
+ - user: None
+ - tags: []
+
+## Tea with Tolkien
+ - [https://www.teawithtolkien.com](https://www.teawithtolkien.com)
+ - date published: 2023-10-25T13:56:06.179784+00:00
+ - user: None
+ - tags: ['hobbit', 'lord of the rings']
+
+## Tech-KnowHow.com | Helping you help yourself to technology solutions
+ - [https://www.tech-knowhow.com](https://www.tech-knowhow.com)
+ - date published: 2023-10-25T17:24:10.603392+00:00
+ - user: None
+ - tags: []
+
+## TechAint – The New Staff From Technology
+ - [https://techaint.com](https://techaint.com)
+ - date published: 2023-10-25T17:24:18.770437+00:00
+ - user: None
+ - tags: []
+
+## TechCrunch is part of the Yahoo family of brands
+ - [https://techcrunch.com](https://techcrunch.com)
+ - date published: 2023-10-25T09:35:53.435438+00:00
+ - user: None
+ - tags: ['tech news']
+
+## Techdirt.
+ - [https://www.techdirt.com](https://www.techdirt.com)
+ - date published: 2023-10-25T10:15:01.446813+00:00
+ - user: None
+ - tags: []
+
+## Techdows - Latest Technology News
+ - [https://techdows.com](https://techdows.com)
+ - date published: 2023-10-25T17:24:21.014976+00:00
+ - user: None
+ - tags: []
+
+## Internal Tech Emails | Substack
+ - [https://www.techemails.com](https://www.techemails.com)
+ - date published: 2023-10-25T17:24:24.810743+00:00
+ - user: None
+ - tags: []
+
+## Tech Explorist - Latest Science and Technology News
+ - [https://www.techexplorist.com](https://www.techexplorist.com)
+ - date published: 2023-10-25T17:24:28.491926+00:00
+ - user: None
+ - tags: []
+
+## Tech Funding News | Global technology startup funding news
+ - [https://techfundingnews.com](https://techfundingnews.com)
+ - date published: 2023-10-25T17:24:35.857919+00:00
+ - user: None
+ - tags: []
+
+## https://techgenix.com
+ - [https://techgenix.com](https://techgenix.com)
+ - date published: 2023-10-25T17:24:36.123076+00:00
+ - user: None
+ - tags: []
+
+## Techmeme
+ - [https://techmeme.com](https://techmeme.com)
+ - date published: 2023-10-25T17:24:58.613645+00:00
+ - user: None
+ - tags: []
+
+## Creatures of Thought
+ - [https://technicshistory.com](https://technicshistory.com)
+ - date published: 2023-10-25T17:25:03.668553+00:00
+ - user: None
+ - tags: []
+
+## Technoblogy
+ - [http://www.technoblogy.com](http://www.technoblogy.com)
+ - date published: 2023-10-25T17:25:05.692742+00:00
+ - user: None
+ - tags: []
+
+## Latest Technology News & Gadgets News | TechnoBugg
+ - [https://www.technobugg.com](https://www.technobugg.com)
+ - date published: 2023-10-25T17:25:15.753498+00:00
+ - user: None
+ - tags: []
+
+## TechNode - Latest China Tech Trends
+ - [https://technode.com](https://technode.com)
+ - date published: 2023-10-25T09:35:57.836282+00:00
+ - user: None
+ - tags: []
+
+## Technology Networks - The Online Scientific Community
+ - [https://www.technologynetworks.com](https://www.technologynetworks.com)
+ - date published: 2023-10-25T17:25:18.998962+00:00
+ - user: None
+ - tags: []
+
+## MIT Technology Review
+ - [https://www.technologyreview.com](https://www.technologyreview.com)
+ - date published: 2023-10-25T09:36:02.543423+00:00
+ - user: None
+ - tags: []
+
+## TechPowerUp
+ - [https://www.techpowerup.com](https://www.techpowerup.com)
+ - date published: 2023-10-25T17:25:26.426085+00:00
+ - user: None
+ - tags: []
+
+## TechRadar | the technology experts
+ - [https://www.techradar.com](https://www.techradar.com)
+ - date published: 2023-10-25T10:28:41.163318+00:00
+ - user: None
+ - tags: []
+
+## TechRepublic: News, Tips & Advice for Technology Professionals
+ - [https://www.techrepublic.com](https://www.techrepublic.com)
+ - date published: 2023-10-25T09:36:05.591340+00:00
+ - user: None
+ - tags: []
+
+## TechSpot | Tech Enthusiasts, Power Users, Gamers
+ - [https://www.techspot.com](https://www.techspot.com)
+ - date published: 2023-10-25T09:36:09.058914+00:00
+ - user: None
+ - tags: []
+
+## TechStartups | Startups and Technology news
+ - [https://techstartups.com](https://techstartups.com)
+ - date published: 2023-10-25T17:25:32.553890+00:00
+ - user: None
+ - tags: []
+
+## Purchase Intent Data for Enterprise Tech Sales and Marketing | TechTarget
+ - [https://www.techtarget.com](https://www.techtarget.com)
+ - date published: 2023-10-25T17:25:43.327954+00:00
+ - user: None
+ - tags: []
+
+## Learn and be better everyday - TechTello
+ - [https://www.techtello.com](https://www.techtello.com)
+ - date published: 2023-10-25T17:25:46.707708+00:00
+ - user: None
+ - tags: []
+
+## Tech Three Dots
+ - [https://techthreedots.com](https://techthreedots.com)
+ - date published: 2023-11-11T23:40:58.568624+00:00
+ - user: None
+ - tags: []
+
+## Tech Times | Tech News, Science, Health, Reviews
+ - [https://www.techtimes.com](https://www.techtimes.com)
+ - date published: 2023-11-27T16:23:40+00:00
+ - user: rumpel
+ - tags: ['tech news']
+
+## TechTinkering - Retro Computers, Programming, General Technical Tinkering
+ - [https://techtinkering.com](https://techtinkering.com)
+ - date published: 2023-10-25T17:25:47.542481+00:00
+ - user: None
+ - tags: []
+
+## TechWiser - Tips, Tricks & How to
+ - [https://techwiser.com](https://techwiser.com)
+ - date published: 2023-10-25T17:25:51.110378+00:00
+ - user: None
+ - tags: []
+
+## Tech Xplore - Technology and Engineering news
+ - [https://techxplore.com](https://techxplore.com)
+ - date published: 2023-10-25T17:25:54.520888+00:00
+ - user: None
+ - tags: ['tech news', 'science news']
+
 ## TechYourChance
  - [https://www.techyourchance.com](https://www.techyourchance.com)
  - date published: 2023-10-28T02:15:09.534742+00:00
@@ -2304,6 +2508,12 @@
  - user: None
  - tags: []
 
+## Latest news in Singapore and around the world – TODAY
+ - [https://www.todayonline.com](https://www.todayonline.com)
+ - date published: 2023-12-06T06:43:16.215152+00:00
+ - user: None
+ - tags: []
+
 ## Red Deer News & Red Deer Events - Todayville.com
  - [https://www.todayville.com](https://www.todayville.com)
  - date published: 2023-10-25T17:43:42.189847+00:00
@@ -2454,6 +2664,12 @@
  - user: None
  - tags: []
 
+## Home
+ - [https://www.topgear.com](https://www.topgear.com)
+ - date published: 2023-12-06T14:02:30.746280+00:00
+ - user: None
+ - tags: []
+
 ## Tor.com | Science fiction. Fantasy. The universe. And related subjects.
  - [https://www.tor.com](https://www.tor.com)
  - date published: 2023-10-25T17:44:34.590867+00:00
@@ -2517,6 +2733,12 @@
 ## Touch Pianist - Magical Piano App
  - [https://touchpianist.com](https://touchpianist.com)
  - date published: 2023-10-25T08:35:08.517593+00:00
+ - user: None
+ - tags: []
+
+## tovima.com - Breaking News, Analysis and Opinion from To Vima’s International Edition
+ - [https://www.tovima.com](https://www.tovima.com)
+ - date published: 2023-12-06T01:26:17.958785+00:00
  - user: None
  - tags: []
 
@@ -2978,6 +3200,12 @@
  - user: None
  - tags: []
 
+## Holiday Sale on Amazon: 24 Fantastic Deals You Won't Want To Skip! | TECHWALTZ
+ - [http://ttechwaltz.com](http://ttechwaltz.com)
+ - date published: 2023-12-06T14:42:55.594571+00:00
+ - user: None
+ - tags: []
+
 ## Technologies that improve human lives - TTTech
  - [https://www.tttech.com](https://www.tttech.com)
  - date published: 2023-11-08T11:30:13.377450+00:00
@@ -3428,6 +3656,12 @@
  - user: None
  - tags: ['ad blocker', 'open source']
 
+## Ubuntu - Kernel Team Server
+ - [https://kernel.ubuntu.com](https://kernel.ubuntu.com)
+ - date published: 2023-12-06T11:16:27+00:00
+ - user: rumpel
+ - tags: []
+
 ## Enterprise Open Source and Linux | Ubuntu
  - [https://ubuntu.com](https://ubuntu.com)
  - date published: 2023-10-25T08:31:54.631990+00:00
@@ -3768,7 +4002,7 @@
  - [https://www.uploadvr.com](https://www.uploadvr.com)
  - date published: 2023-10-25T17:53:46.952533+00:00
  - user: None
- - tags: []
+ - tags: ['tech news', 'virtual reality']
 
 ## UPMC: #1 Ranked Hospital in Pittsburgh
  - [https://www.upmc.com](https://www.upmc.com)
@@ -3997,6 +4231,12 @@
  - [https://www.vallejosun.com](https://www.vallejosun.com)
  - date published: 2023-10-25T17:54:48.425962+00:00
  - user: None
+ - tags: []
+
+## Valve Developer Community
+ - [https://developer.valvesoftware.com](https://developer.valvesoftware.com)
+ - date published: 2023-12-06T10:38:51+00:00
+ - user: rumpel
  - tags: []
 
 ## Valve Corporation
@@ -4448,7 +4688,7 @@
  - [https://virtualuncle.com](https://virtualuncle.com)
  - date published: 2023-10-25T17:57:29.714238+00:00
  - user: None
- - tags: []
+ - tags: ['tech news', 'virtual reality']
 
 ## Vishnu Menon
  - [https://vishnumenon.com](https://vishnumenon.com)
@@ -4659,6 +4899,12 @@
  - date published: 2023-10-25T17:58:41.057138+00:00
  - user: None
  - tags: []
+
+## VRChat
+ - [https://hello.vrchat.com](https://hello.vrchat.com)
+ - date published: 2023-12-06T10:35:33+00:00
+ - user: rumpel
+ - tags: ['virtual reality', 'social platform']
 
 ## Virtual Reality - Virtual Realities | Virtual Reality Products and Services
  - [https://www.vrealities.com](https://www.vrealities.com)
@@ -5179,6 +5425,12 @@
 ## Home
  - [https://www.weny.com](https://www.weny.com)
  - date published: 2023-11-15T15:16:18.816467+00:00
+ - user: None
+ - tags: []
+
+## We Publish News
+ - [https://wepublishnews.com](https://wepublishnews.com)
+ - date published: 2023-12-06T13:22:32.502754+00:00
  - user: None
  - tags: []
 
@@ -5743,258 +5995,6 @@
 ## Cardinal is the Database for Humans
  - [https://www.withcardinal.com](https://www.withcardinal.com)
  - date published: 2023-10-25T18:07:14.230770+00:00
- - user: None
- - tags: []
-
-## Coherence — The Integrated Developer Platform for your own cloud account
- - [https://www.withcoherence.com](https://www.withcoherence.com)
- - date published: 2023-10-25T18:07:16.180638+00:00
- - user: None
- - tags: []
-
-## Compound Planning | Modern Wealth & Investment Management
- - [https://withcompound.com](https://withcompound.com)
- - date published: 2023-10-25T18:07:21.872974+00:00
- - user: None
- - tags: []
-
-## Nonobvious | Edge | Substack
- - [https://blog.withedge.com](https://blog.withedge.com)
- - date published: 2023-10-25T18:07:38.413246+00:00
- - user: None
- - tags: []
-
-## Google's latest experiments in Labs
- - [https://labs.withgoogle.com](https://labs.withgoogle.com)
- - date published: 2023-10-25T18:07:40.867814+00:00
- - user: None
- - tags: []
-
-## http://learnkubernetes.withgoogle.com
- - [http://learnkubernetes.withgoogle.com](http://learnkubernetes.withgoogle.com)
- - date published: 2023-10-25T18:07:42.025514+00:00
- - user: None
- - tags: []
-
-## People + AI Research
- - [https://pair.withgoogle.com](https://pair.withgoogle.com)
- - date published: 2023-10-25T18:07:44.673354+00:00
- - user: None
- - tags: []
-
-## Home | Google Summer of Code
- - [https://summerofcode.withgoogle.com](https://summerofcode.withgoogle.com)
- - date published: 2023-10-25T18:07:48.328715+00:00
- - user: None
- - tags: []
-
-## Project Sunroof
- - [https://sunroof.withgoogle.com](https://sunroof.withgoogle.com)
- - date published: 2023-10-25T18:07:51.710648+00:00
- - user: None
- - tags: []
-
-## TextFX
- - [https://textfx.withgoogle.com](https://textfx.withgoogle.com)
- - date published: 2023-10-25T18:07:53.024899+00:00
- - user: None
- - tags: []
-
-## Within Temptation Music Store
- - [https://www.within-temptation.com](https://www.within-temptation.com)
- - date published: 2023-11-13T11:10:55.031197+00:00
- - user: None
- - tags: ['music band']
-
-## Home | WithSecure™ Labs
- - [https://labs.withsecure.com](https://labs.withsecure.com)
- - date published: 2023-10-25T18:07:54.930284+00:00
- - user: None
- - tags: []
-
-## Wix UX
- - [https://wix-ux.com](https://wix-ux.com)
- - date published: 2023-10-25T18:08:04.082110+00:00
- - user: None
- - tags: []
-
-## https://gameknightplaysyt.wixsite.com
- - [https://gameknightplaysyt.wixsite.com](https://gameknightplaysyt.wixsite.com)
- - date published: 2023-11-03T08:29:48.426730+00:00
- - user: None
- - tags: []
-
-## Wizarding World: The Official Home of Harry Potter
- - [https://www.wizardingworld.com](https://www.wizardingworld.com)
- - date published: 2023-10-25T14:07:20.273222+00:00
- - user: None
- - tags: ['fantasy', 'harry potter']
-
-## Dungeons & Dragons | Official Home of the World's Greatest Roleplaying Game
- - [https://dnd.wizards.com](https://dnd.wizards.com)
- - date published: 2023-10-25T14:21:12.029966+00:00
- - user: None
- - tags: ['role playing games', 'dungeons and dragons']
-
-## Magic: The Gathering | Official site for MTG news, sets, and events
- - [https://magic.wizards.com](https://magic.wizards.com)
- - date published: 2023-10-25T14:21:19.809601+00:00
- - user: None
- - tags: ['card games', 'magic the gathering']
-
-## Implement DNS in a weekend
- - [https://implement-dns.wizardzines.com](https://implement-dns.wizardzines.com)
- - date published: 2023-10-25T18:08:06.154837+00:00
- - user: None
- - tags: []
-
-## wizard zines
- - [https://wizardzines.com](https://wizardzines.com)
- - date published: 2023-11-25T03:59:34.755914+00:00
- - user: None
- - tags: []
-
-## Free Security Awareness Training, Phishing Simulation and Gamification
- - [https://www.wizer-training.com](https://www.wizer-training.com)
- - date published: 2023-10-25T18:08:09.120291+00:00
- - user: None
- - tags: []
-
-## WJHG | News, Weather, Sports | Panama City, FL
- - [https://www.wjhg.com](https://www.wjhg.com)
- - date published: 2023-11-28T20:08:07.258023+00:00
- - user: None
- - tags: []
-
-## Arlington News, Weather, Sports, Breaking News | WJLA
- - [https://wjla.com](https://wjla.com)
- - date published: 2023-10-25T18:08:13.273867+00:00
- - user: None
- - tags: []
-
-## Buffalo, New York News and Weather | WKBW | wkbw.com
- - [https://www.wkbw.com](https://www.wkbw.com)
- - date published: 2023-10-25T18:08:20.272024+00:00
- - user: None
- - tags: []
-
-## WMBF | Myrtle Beach, Florence
- - [https://www.wmbfnews.com](https://www.wmbfnews.com)
- - date published: 2023-11-01T23:07:15.838462+00:00
- - user: None
- - tags: []
-
-## Access Denied
- - [https://www.wnep.com](https://www.wnep.com)
- - date published: 2023-11-08T07:17:30.357213+00:00
- - user: None
- - tags: []
-
-## Wobaka | Refreshingly Simple CRM And Email Automation
- - [https://wobaka.com](https://wobaka.com)
- - date published: 2023-10-25T18:08:22.084560+00:00
- - user: None
- - tags: []
-
-## Ebooki | Epub, Mobi Kindle, PDF | Woblink
- - [https://woblink.com](https://woblink.com)
- - date published: 2023-10-24T20:17:54.362233+00:00
- - user: None
- - tags: []
-
-## WokeLark - Turn your habit into passion!
- - [https://wokelark.com](https://wokelark.com)
- - date published: 2023-10-25T18:08:25.407403+00:00
- - user: None
- - tags: []
-
-## Wolfram: Computation Meets Knowledge
- - [https://www.wolfram.com](https://www.wolfram.com)
- - date published: 2023-10-25T08:28:20.259729+00:00
- - user: None
- - tags: ['search engine']
-
-## Wolf Street | The stories behind business, finance, and money
- - [https://wolfstreet.com](https://wolfstreet.com)
- - date published: 2023-10-25T18:08:28.134505+00:00
- - user: None
- - tags: []
-
-## Womp: Free 3D design software
- - [https://www.womp.com](https://www.womp.com)
- - date published: 2023-10-25T18:08:34.593844+00:00
- - user: None
- - tags: []
-
-## WonderTips 777 Blogs -
- - [https://wondertips777.com](https://wondertips777.com)
- - date published: 2023-11-26T16:26:33.143000+00:00
- - user: None
- - tags: []
-
-## Wood Mackenzie | Energy Research & Consultancy
- - [https://www.woodmac.com](https://www.woodmac.com)
- - date published: 2023-10-25T18:08:37.374452+00:00
- - user: None
- - tags: []
-
-## Woolyss
- - [https://woolyss.com](https://woolyss.com)
- - date published: 2023-10-28T18:51:06.662825+00:00
- - user: None
- - tags: ['chiptune']
-
-## Aaron Dorn Hair Stylist
- - [https://aarondornhair.wordpress.com](https://aarondornhair.wordpress.com)
- - date published: 2023-11-29T14:54:17.403200+00:00
- - user: None
- - tags: ['personal']
-
-## A Deep Look by Dave Hook
- - [https://adeeplookbydavehook.wordpress.com](https://adeeplookbydavehook.wordpress.com)
- - date published: 2023-11-26T17:36:17.580104+00:00
- - user: None
- - tags: []
-
-## Void
- - [https://amigavoid.wordpress.com](https://amigavoid.wordpress.com)
- - date published: 2023-10-27T14:47:03.899292+00:00
- - user: None
- - tags: ['amiga', 'demoscene']
-
-## concoctinghistory | Ancient recipes for the modern kitchen
- - [https://ancientrecipes.wordpress.com](https://ancientrecipes.wordpress.com)
- - date published: 2023-10-25T18:08:43.938404+00:00
- - user: None
- - tags: []
-
-## @AndrewMayne – Exploring the intersection of artificial intelligence and creativity.
- - [https://andrewmayneblog.wordpress.com](https://andrewmayneblog.wordpress.com)
- - date published: 2023-10-25T18:08:47.025550+00:00
- - user: None
- - tags: []
-
-## Kritik der Animationskraft
- - [https://animekritik.wordpress.com](https://animekritik.wordpress.com)
- - date published: 2023-10-25T09:21:19.416145+00:00
- - user: None
- - tags: ['personal']
-
-## ArcheoThoughts – Andre Costopoulos, University of Alberta
- - [https://archeothoughts.wordpress.com](https://archeothoughts.wordpress.com)
- - date published: 2023-10-25T18:08:49.700117+00:00
- - user: None
- - tags: []
-
-## The Army OE Program – Organizational Development and the Army: 1970-1985
- - [https://armyoe.files.wordpress.com](https://armyoe.files.wordpress.com)
- - date published: 2023-10-25T18:08:52.688037+00:00
- - user: None
- - tags: []
-
-## Art as Illumination | An art blog from Jacob Rowan Studios
- - [https://artasillumination.files.wordpress.com](https://artasillumination.files.wordpress.com)
- - date published: 2023-10-25T18:08:58.698123+00:00
  - user: None
  - tags: []
 
