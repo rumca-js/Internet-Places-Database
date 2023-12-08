@@ -1,3 +1,165 @@
+## Secret San Francisco - Your Complete Guide To Things To Do In San Francisco
+ - [https://secretsanfrancisco.com](https://secretsanfrancisco.com)
+ - date published: 2023-10-25T17:01:15.070667+00:00
+ - user: None
+ - tags: []
+
+## Secrets of Success
+ - [https://www.secretsofsuccess.com](https://www.secretsofsuccess.com)
+ - date published: 2023-11-03T15:08:00.408650+00:00
+ - user: None
+ - tags: []
+
+## Heuristic Application Security Management Platform | Secure Blink
+ - [https://www.secureblink.com](https://www.secureblink.com)
+ - date published: 2023-10-25T17:01:18.017496+00:00
+ - user: None
+ - tags: []
+
+## Securelist | Kaspersky’s threat research and reports
+ - [https://securelist.com](https://securelist.com)
+ - date published: 2023-10-25T11:32:51.852760+00:00
+ - user: None
+ - tags: []
+
+## Symantec Enterprise Blogs
+ - [https://symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com)
+ - date published: 2023-10-25T17:01:22.426033+00:00
+ - user: None
+ - tags: []
+
+## Security Affairs - Read, think, share … Security is everyone's responsibility
+ - [https://securityaffairs.com](https://securityaffairs.com)
+ - date published: 2023-10-25T09:35:33.117030+00:00
+ - user: None
+ - tags: []
+
+## Security Magazine | The business magazine for security executives
+ - [https://www.securitymagazine.com](https://www.securitymagazine.com)
+ - date published: 2023-10-25T17:01:25.815257+00:00
+ - user: None
+ - tags: []
+
+## Cybersecurity News, Insights and Analysis | SecurityWeek
+ - [https://www.securityweek.com](https://www.securityweek.com)
+ - date published: 2023-10-25T09:35:37.584443+00:00
+ - user: None
+ - tags: []
+
+## Security Wale | Aditya Patel | Substack
+ - [https://www.secwale.com](https://www.secwale.com)
+ - date published: 2023-10-25T17:01:27.543178+00:00
+ - user: None
+ - tags: []
+
+## Seeking Alpha | Stock Market Analysis & Tools for Investors
+ - [https://seekingalpha.com](https://seekingalpha.com)
+ - date published: 2023-10-25T17:01:28.875847+00:00
+ - user: None
+ - tags: []
+
+## Software Development Tools by SEGGER – The Embedded Experts
+ - [https://www.segger.com](https://www.segger.com)
+ - date published: 2023-10-25T17:01:38.604350+00:00
+ - user: None
+ - tags: []
+
+## Segment Anything | Meta AI
+ - [https://segment-anything.com](https://segment-anything.com)
+ - date published: 2023-10-25T17:01:39.445324+00:00
+ - user: None
+ - tags: []
+
+## Seinfeld - A site for all of us Seinfeld Fans!
+ - [https://www.seinfeldscripts.com](https://www.seinfeldscripts.com)
+ - date published: 2023-10-25T17:01:41.058524+00:00
+ - user: None
+ - tags: []
+
+## Seldo.com
+ - [https://seldo.com](https://seldo.com)
+ - date published: 2023-10-25T17:01:43.879007+00:00
+ - user: None
+ - tags: []
+
+## The Open Web
+ - [https://seldomlogical.com](https://seldomlogical.com)
+ - date published: 2023-11-29T15:46:15.297293+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sam's Blog
+ - [https://selectfromwhereand.com](https://selectfromwhereand.com)
+ - date published: 2023-11-19T07:59:28.405717+00:00
+ - user: None
+ - tags: ['personal']
+
+## Semafor - An intelligent, transparent global news platform for breaking stories, analysis and video
+ - [https://www.semafor.com](https://www.semafor.com)
+ - date published: 2023-10-25T10:38:55.032682+00:00
+ - user: None
+ - tags: []
+
+## Continuous Integration & Delivery - Semaphore
+ - [https://semaphoreci.com](https://semaphoreci.com)
+ - date published: 2023-10-25T17:01:46.828627+00:00
+ - user: None
+ - tags: []
+
+## SemiAnalysis | Dylan Patel | Substack
+ - [https://www.semianalysis.com](https://www.semianalysis.com)
+ - date published: 2023-10-25T17:01:49.736351+00:00
+ - user: None
+ - tags: []
+
+## Semiconductor Engineering - Deep Insights For Chip Engineers
+ - [https://semiengineering.com](https://semiengineering.com)
+ - date published: 2023-10-25T17:01:53.874840+00:00
+ - user: None
+ - tags: []
+
+## SemiWiki - All Things Semiconductor!
+ - [https://semiwiki.com](https://semiwiki.com)
+ - date published: 2023-10-25T17:02:04.737377+00:00
+ - user: None
+ - tags: []
+
+## Sennheiser — Headphones, Microphones, Wireless Systems
+ - [https://en-us.sennheiser.com](https://en-us.sennheiser.com)
+ - date published: 2023-10-30T18:21:56.549124+00:00
+ - user: None
+ - tags: ['audio']
+
+## Sennheiser — Headphones, Microphones, Wireless Systems
+ - [https://sennheiser.com](https://sennheiser.com)
+ - date published: 2023-10-30T18:22:42.525350+00:00
+ - user: None
+ - tags: ['company', 'audio']
+
+## SenseGlove | Feel the virtual like it’s real
+ - [https://www.senseglove.com](https://www.senseglove.com)
+ - date published: 2023-11-27T16:17:59+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
+
+## Separate Concerns
+ - [https://blog.separateconcerns.com](https://blog.separateconcerns.com)
+ - date published: 2023-10-25T09:26:06.936644+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Sequoia
+ - [https://www.sequoiacap.com](https://www.sequoiacap.com)
+ - date published: 2023-10-25T08:26:15.206357+00:00
+ - user: None
+ - tags: []
+
+## Seraph Secure: anti-scam software co-founded by Kitboga
+ - [https://www.seraphsecure.com](https://www.seraphsecure.com)
+ - date published: 2023-12-01T19:55:21+00:00
+ - user: None
+ - tags: []
+
 ## Home | Campbell Jones
  - [https://serebit.com](https://serebit.com)
  - date published: 2023-10-25T17:02:05.830940+00:00
@@ -2159,6 +2321,12 @@
  - user: None
  - tags: []
 
+## Stat Significant | Daniel Parris | Substack
+ - [https://www.statsignificant.com](https://www.statsignificant.com)
+ - date published: 2023-12-07T14:48:35.612575+00:00
+ - user: None
+ - tags: []
+
 ## Stats, Maps n Pix
  - [https://www.statsmapsnpix.com](https://www.statsmapsnpix.com)
  - date published: 2023-10-25T17:16:02.812082+00:00
@@ -2630,6 +2798,12 @@
 ## journal.stuffwithstuff.com
  - [https://journal.stuffwithstuff.com](https://journal.stuffwithstuff.com)
  - date published: 2023-10-25T17:18:48.119973+00:00
+ - user: None
+ - tags: []
+
+## St Vincent Times - St Vincent News, SVG News, News On St Vincent
+ - [https://www.stvincenttimes.com](https://www.stvincenttimes.com)
+ - date published: 2023-12-07T17:41:36.685816+00:00
  - user: None
  - tags: []
 
@@ -3988,6 +4162,12 @@
  - date published: 2023-10-25T09:55:48.369614+00:00
  - user: None
  - tags: ['substack']
+
+## Wednesday Wisdom | Jos Visser | Substack
+ - [https://josvisser.substack.com](https://josvisser.substack.com)
+ - date published: 2023-12-07T03:05:59.094132+00:00
+ - user: None
+ - tags: []
 
 ## quite useless | a. natasha joukovsky | Substack
  - [https://joukovsky.substack.com](https://joukovsky.substack.com)
@@ -5477,6 +5657,12 @@
  - user: None
  - tags: []
 
+## Learn SVG with 25 examples – How to code images in HTML
+ - [https://svg-tutorial.com](https://svg-tutorial.com)
+ - date published: 2023-12-07T13:38:04+00:00
+ - user: None
+ - tags: ['tutorial', 'html', 'svg']
+
 ## Customize and apply backgrounds fast | SVG Backgrounds
  - [https://www.svgbackgrounds.com](https://www.svgbackgrounds.com)
  - date published: 2023-10-25T17:20:04.343453+00:00
@@ -5804,192 +5990,6 @@
 ## Tales of Times Forgotten - Making the Distant Past Relevant to the Present Day
  - [https://talesoftimesforgotten.com](https://talesoftimesforgotten.com)
  - date published: 2023-10-25T17:22:37.814478+00:00
- - user: None
- - tags: []
-
-## Tal Hoffman
- - [https://www.talhoffman.com](https://www.talhoffman.com)
- - date published: 2023-10-25T17:22:38.579791+00:00
- - user: None
- - tags: []
-
-## TPM: Talking Points Memo
- - [https://talkingpointsmemo.com](https://talkingpointsmemo.com)
- - date published: 2023-11-01T15:44:10.527184+00:00
- - user: None
- - tags: []
-
-## Tallahassee - Home
- - [https://www.tallahassee.com](https://www.tallahassee.com)
- - date published: 2023-12-04T15:58:10.872316+00:00
- - user: None
- - tags: []
-
-## Cisco Talos Blog
- - [https://blog.talosintelligence.com](https://blog.talosintelligence.com)
- - date published: 2023-10-25T17:22:39.954604+00:00
- - user: None
- - tags: []
-
-## Talospace
- - [https://www.talospace.com](https://www.talospace.com)
- - date published: 2023-10-25T17:22:48.088595+00:00
- - user: None
- - tags: []
-
-## Tampa Bay, Florida news | Tampa Bay Times/St. Pete Times
- - [https://www.tampabay.com](https://www.tampabay.com)
- - date published: 2023-10-25T17:22:55.890764+00:00
- - user: None
- - tags: []
-
-## https://www.tandfonline.com
- - [https://www.tandfonline.com](https://www.tandfonline.com)
- - date published: 2023-10-25T17:23:01.206050+00:00
- - user: None
- - tags: []
-
-## Tank Historia: The Ultimate Online Resource for Tanks and Armor
- - [https://tankhistoria.com](https://tankhistoria.com)
- - date published: 2023-10-25T17:23:08.583204+00:00
- - user: None
- - tags: []
-
-## Taoran Yi - Homepage
- - [https://taoranyi.com](https://taoranyi.com)
- - date published: 2023-10-25T17:23:09.947189+00:00
- - user: None
- - tags: []
-
-## Tapbots
- - [https://tapbots.com](https://tapbots.com)
- - date published: 2023-10-25T17:23:10.980589+00:00
- - user: None
- - tags: []
-
-## Grow Your Personal Brand On LinkedIn
- - [https://taplio.com](https://taplio.com)
- - date published: 2023-10-25T17:23:12.381512+00:00
- - user: None
- - tags: []
-
-## Target Tech Blog
- - [https://tech.target.com](https://tech.target.com)
- - date published: 2023-10-25T17:23:16.118136+00:00
- - user: None
- - tags: []
-
-## Tarides
- - [https://tarides.com](https://tarides.com)
- - date published: 2023-10-25T17:23:17.138623+00:00
- - user: None
- - tags: []
-
-## http://mail.tarsnap.com
- - [http://mail.tarsnap.com](http://mail.tarsnap.com)
- - date published: 2023-10-25T17:23:17.605117+00:00
- - user: None
- - tags: []
-
-## TASCHEN Books: Books for Optimists Since 1980
- - [https://www.taschen.com](https://www.taschen.com)
- - date published: 2023-12-01T15:48:19.939176+00:00
- - user: None
- - tags: []
-
-## Task & Purpose - Military News, Culture, and Analysis - Task & Purpose
- - [https://taskandpurpose.com](https://taskandpurpose.com)
- - date published: 2023-10-25T17:23:20.849842+00:00
- - user: None
- - tags: []
-
-## TaskTXT
- - [https://tasktxt.com](https://tasktxt.com)
- - date published: 2023-10-25T17:23:22.574495+00:00
- - user: None
- - tags: []
-
-## آخرین اخبار روز ایران و جهان ؛ خبرهای امروز | خبرگزاری تسنیم | Tasnim
- - [https://www.tasnimnews.com](https://www.tasnimnews.com)
- - date published: 2023-10-25T17:23:29.550111+00:00
- - user: None
- - tags: []
-
-## Tasshin
- - [https://tasshin.com](https://tasshin.com)
- - date published: 2023-10-25T17:23:31.495484+00:00
- - user: None
- - tags: []
-
-## World Food Atlas: Discover 16951 Local Dishes & Ingredients
- - [https://www.tasteatlas.com](https://www.tasteatlas.com)
- - date published: 2023-10-25T17:23:32.165427+00:00
- - user: None
- - tags: []
-
-## Shayne Boyer
- - [https://tattoocoder.com](https://tattoocoder.com)
- - date published: 2023-10-25T08:58:21.323432+00:00
- - user: None
- - tags: ['personal']
-
-## AI-powered Tattoo Generator: Your Personal Tattoo Artist | TattoosAI
- - [https://www.tattoosai.com](https://www.tattoosai.com)
- - date published: 2023-10-25T17:23:32.690634+00:00
- - user: None
- - tags: []
-
-## 兴安盟扰晒教育咨询有限公司
- - [http://www.tatyanadiamantine.com](http://www.tatyanadiamantine.com)
- - date published: 2023-11-29T17:08:07.618968+00:00
- - user: None
- - tags: ['personal']
-
-## Home - tavianator.com
- - [https://tavianator.com](https://tavianator.com)
- - date published: 2023-10-25T17:23:34.213313+00:00
- - user: None
- - tags: []
-
-## Tax Heaven 3000
- - [https://taxheaven3000.com](https://taxheaven3000.com)
- - date published: 2023-10-25T17:23:40.756623+00:00
- - user: None
- - tags: []
-
-## Thunder Bay News
- - [https://www.tbnewswatch.com](https://www.tbnewswatch.com)
- - date published: 2023-11-02T14:58:38.717251+00:00
- - user: None
- - tags: []
-
-## Warner Bros. Discovery
- - [https://tbs.com](https://tbs.com)
- - date published: 2023-10-25T15:07:05.133530+00:00
- - user: None
- - tags: []
-
-## The Tcherepnin Society Website - Welcome!
- - [https://www.tcherepnin.com](https://www.tcherepnin.com)
- - date published: 2023-10-25T11:13:53.299542+00:00
- - user: None
- - tags: []
-
-## TCPAWorld – The World of the Telephone Consumer Protection Act
- - [https://tcpaworld.com](https://tcpaworld.com)
- - date published: 2023-10-25T17:23:43.563219+00:00
- - user: None
- - tags: []
-
-## Thomas Derflinger Blog
- - [https://tderflinger.com](https://tderflinger.com)
- - date published: 2023-10-25T17:23:45.930231+00:00
- - user: None
- - tags: []
-
-## Tea and Tech Time – Tech projects to read over your afternoon tea
- - [https://teaandtechtime.com](https://teaandtechtime.com)
- - date published: 2023-10-25T17:23:51.944870+00:00
  - user: None
  - tags: []
 

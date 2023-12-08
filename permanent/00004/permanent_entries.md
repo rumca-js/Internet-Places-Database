@@ -1,3 +1,105 @@
+## HeritageDaily - Archaeology News | Latest archaeology news, archaeological discoveries from across the globe
+ - [https://www.heritagedaily.com](https://www.heritagedaily.com)
+ - date published: 2023-10-25T14:58:36.549810+00:00
+ - user: None
+ - tags: []
+
+## Silver Repair, Restoration, Silver Conservation, Preservation, and Silver Polishing
+ - [https://www.hermansilver.com](https://www.hermansilver.com)
+ - date published: 2023-10-25T14:58:39.464535+00:00
+ - user: None
+ - tags: []
+
+## Hero Forge Custom Miniatures
+ - [https://www.heroforge.com](https://www.heroforge.com)
+ - date published: 2023-10-27T07:55:17.345776+00:00
+ - user: None
+ - tags: ['tabletop games', 'shop', 'miniatures']
+
+## Heroic Games Launcher
+ - [https://heroicgameslauncher.com](https://heroicgameslauncher.com)
+ - date published: 2023-10-25T08:35:38.409049+00:00
+ - user: None
+ - tags: []
+
+## Heroku Status
+ - [https://status.heroku.com](https://status.heroku.com)
+ - date published: 2023-10-25T14:58:40.059197+00:00
+ - user: None
+ - tags: []
+
+## Retirement : How Fucked are you?
+ - [https://how-f-cked-are-you-98ab6cdc8944.herokuapp.com](https://how-f-cked-are-you-98ab6cdc8944.herokuapp.com)
+ - date published: 2023-10-25T08:34:37.665445+00:00
+ - user: None
+ - tags: []
+
+## Herr Bischoff's Git Repository
+ - [https://git.herrbischoff.com](https://git.herrbischoff.com)
+ - date published: 2023-10-25T14:58:40.779367+00:00
+ - user: None
+ - tags: []
+
+## Hertzbleed Attack
+ - [https://www.hertzbleed.com](https://www.hertzbleed.com)
+ - date published: 2023-10-25T14:58:41.738606+00:00
+ - user: None
+ - tags: []
+
+## Dedicated Server, Cloud, Storage & Hosting - Hetzner Online GmbH
+ - [https://www.hetzner.com](https://www.hetzner.com)
+ - date published: 2023-10-25T14:58:44.600683+00:00
+ - user: None
+ - tags: []
+
+## Hexatrek : The long distance thru hike in France
+ - [https://en.hexatrek.com](https://en.hexatrek.com)
+ - date published: 2023-10-25T14:58:50.200134+00:00
+ - user: None
+ - tags: []
+
+## Hexmos Journal
+ - [https://journal.hexmos.com](https://journal.hexmos.com)
+ - date published: 2023-11-12T15:06:10.696477+00:00
+ - user: None
+ - tags: []
+
+## Hexops' devlog
+ - [https://devlog.hexops.com](https://devlog.hexops.com)
+ - date published: 2023-10-25T14:58:51.147852+00:00
+ - user: None
+ - tags: []
+
+## HEXRPG | The Interactive Harry Potter Fan Site Experience
+ - [https://www.hexrpg.com](https://www.hexrpg.com)
+ - date published: 2023-10-25T14:09:40.831962+00:00
+ - user: None
+ - tags: []
+
+## http://world.hey.com
+ - [http://world.hey.com](http://world.hey.com)
+ - date published: 2023-10-25T14:58:55.776264+00:00
+ - user: None
+ - tags: []
+
+## Hey Alma
+ - [https://www.heyalma.com](https://www.heyalma.com)
+ - date published: 2023-11-20T10:23:27+00:00
+ - user: rumpel
+ - tags: ['israel', 'jewish news']
+
+## Hey Homepage - Do-It-Yourself Website Builder - Free Website for Everybody!
+ - [https://www.heyhomepage.com](https://www.heyhomepage.com)
+ - date published: 2023-10-25T14:58:57.194283+00:00
+ - user: None
+ - tags: []
+
+## HeyInnovations — Digital Product Agency. App Development Company USA
+ - [https://heyinnovations.com](https://heyinnovations.com)
+ - date published: 2023-10-25T14:59:05.852137+00:00
+ - user: None
+ - tags: []
+
 ## SaaS Growth & Marketing On Autopilot
  - [https://www.heymarketcurve.com](https://www.heymarketcurve.com)
  - date published: 2023-10-25T14:59:10.290950+00:00
@@ -1654,6 +1756,12 @@
  - user: None
  - tags: ['music band']
 
+## The Irrawaddy - Covering Burma and Southeast Asia
+ - [https://www.irrawaddy.com](https://www.irrawaddy.com)
+ - date published: 2023-12-07T06:26:03.993571+00:00
+ - user: None
+ - tags: []
+
 ## iRunFar: Your Trail Running & Ultramarathon Resource
  - [https://www.irunfar.com](https://www.irunfar.com)
  - date published: 2023-10-25T15:23:36.408648+00:00
@@ -2170,6 +2278,12 @@
  - user: None
  - tags: ['personal']
 
+## Yarve Main
+ - [https://jaroslavplotnikov.com](https://jaroslavplotnikov.com)
+ - date published: 2023-12-07T17:38:14.106465+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Derek Jarvis' Blog
  - [https://jarvispowered.com](https://jarvispowered.com)
  - date published: 2023-10-25T09:20:50.084354+00:00
@@ -2553,6 +2667,12 @@
  - date published: 2023-10-25T15:28:45.728960+00:00
  - user: None
  - tags: []
+
+## The Jewish Press - JewishPress.com
+ - [https://www.jewishpress.com](https://www.jewishpress.com)
+ - date published: 2023-12-07T15:14:09.328558+00:00
+ - user: None
+ - tags: ['jewish news', 'israel']
 
 ## Jezen Thomas | Haskell, Unix, Minimalism, and Entrepreneurship.
  - [https://jezenthomas.com](https://jezenthomas.com)
@@ -4385,6 +4505,12 @@
  - user: None
  - tags: ['audio news']
 
+## KVRR - Fargo, ND, Moorhead, MN, News, Weather & Sports
+ - [https://www.kvrr.com](https://www.kvrr.com)
+ - date published: 2023-12-07T21:40:34.144950+00:00
+ - user: None
+ - tags: []
+
 ## The Kyiv Independent — News from Ukraine, Eastern Europe
  - [https://kyivindependent.com](https://kyivindependent.com)
  - date published: 2023-11-04T17:28:08.928869+00:00
@@ -5627,6 +5753,12 @@
  - user: None
  - tags: []
 
+## Home - LocalNews8.com | News3Now.com | KXPI.com - KIFI
+ - [https://localnews8.com](https://localnews8.com)
+ - date published: 2023-12-07T14:49:54.303544+00:00
+ - user: None
+ - tags: []
+
 ## Attention Required! | Cloudflare
  - [https://lunduke.locals.com](https://lunduke.locals.com)
  - date published: 2023-10-27T11:55:26.064550+00:00
@@ -5858,138 +5990,6 @@
 ## Cloudflare
  - [https://www.lotareader.com](https://www.lotareader.com)
  - date published: 2023-10-25T15:50:51.485903+00:00
- - user: None
- - tags: []
-
-## Lottielab | Create and Edit Lottie Animations
- - [https://www.lottielab.com](https://www.lottielab.com)
- - date published: 2023-10-25T15:50:55.237448+00:00
- - user: None
- - tags: []
-
-## Rock, Metal, Alternative Music & Culture | Louder
- - [https://www.loudersound.com](https://www.loudersound.com)
- - date published: 2023-10-25T15:51:10.187470+00:00
- - user: None
- - tags: []
-
-## Louder With Crowder
- - [https://louderwithcrowder.com](https://louderwithcrowder.com)
- - date published: 2023-10-25T10:14:21.412153+00:00
- - user: None
- - tags: []
-
-## Louder With Crowder
- - [https://www.louderwithcrowder.com](https://www.louderwithcrowder.com)
- - date published: 2023-10-25T10:14:23.696193+00:00
- - user: None
- - tags: []
-
-## As in guillotine...
- - [https://loudpoet.com](https://loudpoet.com)
- - date published: 2023-12-03T00:58:00.741462+00:00
- - user: None
- - tags: []
-
-## Loudwire
- - [https://loudwire.com](https://loudwire.com)
- - date published: 2023-11-02T09:15:06.840788+00:00
- - user: None
- - tags: []
-
-## README - louis030195
- - [https://brain.louis030195.com](https://brain.louis030195.com)
- - date published: 2023-10-25T15:51:11.275641+00:00
- - user: None
- - tags: []
-
-## Loukidelis.com
- - [http://www.loukidelis.com](http://www.loukidelis.com)
- - date published: 2023-10-25T15:51:17.208653+00:00
- - user: None
- - tags: []
-
-## Louwrentius
- - [https://louwrentius.com](https://louwrentius.com)
- - date published: 2023-10-25T15:51:23.928427+00:00
- - user: None
- - tags: []
-
-## Love of All Wisdom | Philosophy through multiple traditions
- - [https://loveofallwisdom.com](https://loveofallwisdom.com)
- - date published: 2023-10-25T15:51:30.772905+00:00
- - user: None
- - tags: []
-
-## LowEndBox - Cheap VPS, Dedicated Servers and Hosting Deals
- - [https://lowendbox.com](https://lowendbox.com)
- - date published: 2023-10-25T15:51:35.588514+00:00
- - user: None
- - tags: []
-
-## Low End Mac: Make the most of your Apple gear
- - [https://lowendmac.com](https://lowendmac.com)
- - date published: 2023-10-25T15:51:51.330055+00:00
- - user: None
- - tags: []
-
-## LOW←TECH MAGAZINE
- - [https://solar.lowtechmagazine.com](https://solar.lowtechmagazine.com)
- - date published: 2023-10-25T15:51:53.447178+00:00
- - user: None
- - tags: []
-
-## LOW←TECH MAGAZINE
- - [https://www.lowtechmagazine.com](https://www.lowtechmagazine.com)
- - date published: 2023-10-25T15:51:55.310869+00:00
- - user: None
- - tags: []
-
-## Luca Palmieri
- - [https://www.lpalmieri.com](https://www.lpalmieri.com)
- - date published: 2023-10-25T15:51:56.230983+00:00
- - user: None
- - tags: []
-
-## Lucas F. Costa
- - [https://lucasfcosta.com](https://lucasfcosta.com)
- - date published: 2023-10-25T15:51:57.487195+00:00
- - user: None
- - tags: []
-
-## Lucasfilm Ltd. | Lucasfilm.com
- - [https://www.lucasfilm.com](https://www.lucasfilm.com)
- - date published: 2023-11-13T12:54:57.302300+00:00
- - user: None
- - tags: ['movie studio']
-
-## Random thoughts from Lucas Kostka
- - [https://lucaskostka.com](https://lucaskostka.com)
- - date published: 2023-10-25T15:51:58.719723+00:00
- - user: None
- - tags: []
-
-## Lucas' Blog
- - [https://lucaspauker.com](https://lucaspauker.com)
- - date published: 2023-10-25T15:51:59.452646+00:00
- - user: None
- - tags: []
-
-## Lucidity
- - [https://luciditysystems.com](https://luciditysystems.com)
- - date published: 2023-10-25T15:52:03.701234+00:00
- - user: None
- - tags: []
-
-## Investor Relations | Lucid Group, Inc.
- - [https://ir.lucidmotors.com](https://ir.lucidmotors.com)
- - date published: 2023-10-25T15:52:13.846409+00:00
- - user: None
- - tags: []
-
-## Nicholas Fraser
- - [https://ludocode.com](https://ludocode.com)
- - date published: 2023-10-25T15:52:14.415437+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,195 @@
+## William Zeitler-Home
+ - [https://williamzeitler.com](https://williamzeitler.com)
+ - date published: 2023-11-29T14:22:09.377285+00:00
+ - user: None
+ - tags: ['personal']
+
+## Where there is a Will
+ - [https://www.willmcgugan.com](https://www.willmcgugan.com)
+ - date published: 2023-10-25T18:05:57.116791+00:00
+ - user: None
+ - tags: []
+
+## Willo Sana: Transformational Business Coach ~ WilloLovesYou.com
+ - [https://willolovesyou.com](https://willolovesyou.com)
+ - date published: 2023-12-07T17:38:00.495447+00:00
+ - user: None
+ - tags: ['personal']
+
+## Will Robots Take My Job?
+ - [https://willrobotstakemyjob.com](https://willrobotstakemyjob.com)
+ - date published: 2023-10-27T10:59:41.287959+00:00
+ - user: None
+ - tags: ['artificial intelligence', 'wtf']
+
+## Wimpy's World
+ - [https://wimpysworld.com](https://wimpysworld.com)
+ - date published: 2023-10-25T18:05:58.887304+00:00
+ - user: None
+ - tags: []
+
+## Win Vector LLC – Data science advising, consulting, and training
+ - [https://win-vector.com](https://win-vector.com)
+ - date published: 2023-10-25T18:06:02.876087+00:00
+ - user: None
+ - tags: []
+
+## https://forums.winamp.com
+ - [https://forums.winamp.com](https://forums.winamp.com)
+ - date published: 2023-10-25T18:06:05.343618+00:00
+ - user: None
+ - tags: []
+
+## The ultimate music machine empowering listeners, creators and fans - Winamp
+ - [https://www.winamp.com](https://www.winamp.com)
+ - date published: 2023-11-01T08:43:27.866000+00:00
+ - user: None
+ - tags: []
+
+## Window-swap – open a new window somewhere in the world
+ - [https://www.window-swap.com](https://www.window-swap.com)
+ - date published: 2023-11-02T01:16:22+00:00
+ - user: None
+ - tags: []
+
+## Home | Windows Blog
+ - [https://blogs.windows.com](https://blogs.windows.com)
+ - date published: 2023-10-25T11:29:25.500201+00:00
+ - user: None
+ - tags: []
+
+## Windows Repair Toolbox
+ - [https://windows-repair-toolbox.com](https://windows-repair-toolbox.com)
+ - date published: 2023-10-25T18:06:10.245644+00:00
+ - user: None
+ - tags: []
+
+## Windows 95 Tips, Tricks, and Tweaks
+ - [https://windows95tips.com](https://windows95tips.com)
+ - date published: 2023-10-25T18:06:17.364143+00:00
+ - user: None
+ - tags: ['windows']
+
+## Windows Central - News, Reviews & Help on Windows 10, Windows 11, Xbox & more
+ - [https://www.windowscentral.com](https://www.windowscentral.com)
+ - date published: 2023-10-25T09:36:42.590120+00:00
+ - user: None
+ - tags: []
+
+## Windows Latest: Your Source for all things Microsoft
+ - [https://www.windowslatest.com](https://www.windowslatest.com)
+ - date published: 2023-10-25T18:06:31.585381+00:00
+ - user: None
+ - tags: []
+
+## Windows Update Restored: Fix Windows Update on Windows 95, 98, Me, 2000, and XP
+ - [http://windowsupdaterestored.com](http://windowsupdaterestored.com)
+ - date published: 2023-10-25T18:06:32.626702+00:00
+ - user: None
+ - tags: []
+
+## Wind River
+ - [https://www.windriver.com](https://www.windriver.com)
+ - date published: 2023-11-08T11:30:59.705560+00:00
+ - user: None
+ - tags: ['linux', 'windriver', 'wind river', 'operating system']
+
+## Windscribe - Free VPN and Ad Block
+ - [https://windscribe.com](https://windscribe.com)
+ - date published: 2023-10-25T18:06:36.879450+00:00
+ - user: None
+ - tags: []
+
+## Windy as forecasted
+ - [https://www.windy.com](https://www.windy.com)
+ - date published: 2023-10-24T20:19:13.472192+00:00
+ - user: None
+ - tags: []
+
+## absorptions
+ - [https://www.windytan.com](https://www.windytan.com)
+ - date published: 2023-10-25T18:06:44.382900+00:00
+ - user: None
+ - tags: []
+
+## wineanorak.com – online wine magazine
+ - [https://wineanorak.com](https://wineanorak.com)
+ - date published: 2023-10-25T18:06:50.105227+00:00
+ - user: None
+ - tags: []
+
+## WINK News - Breaking News and Weather | First. Fair. Everywhere
+ - [https://winknews.com](https://winknews.com)
+ - date published: 2023-10-25T18:07:00.974361+00:00
+ - user: None
+ - tags: []
+
+## The International Law Firm of Winston & Strawn LLP | Winston & Strawn
+ - [https://www.winston.com](https://www.winston.com)
+ - date published: 2023-10-25T18:07:03.303397+00:00
+ - user: None
+ - tags: []
+
+## WION: Breaking News, Latest News, World, South Asia, India, Pakistan, Bangladesh News & Analysis - Latest World News
+ - [https://www.wionews.com](https://www.wionews.com)
+ - date published: 2023-10-25T10:45:15.167046+00:00
+ - user: None
+ - tags: []
+
+## WIRED - The Latest in Technology, Science, Culture and Business | WIRED
+ - [https://www.wired.com](https://www.wired.com)
+ - date published: 2023-10-25T09:36:45.817671+00:00
+ - user: None
+ - tags: ['technology news', 'science news']
+
+## Wirehead hedonism versus paradise-engineering
+ - [https://www.wireheading.com](https://www.wireheading.com)
+ - date published: 2023-10-25T18:07:05.948427+00:00
+ - user: None
+ - tags: []
+
+## Wirfs-Brock Associates
+ - [https://wirfs-brock.com](https://wirfs-brock.com)
+ - date published: 2023-10-25T18:07:07.838674+00:00
+ - user: None
+ - tags: []
+
+## WISDOMINATION
+ - [https://www.wisdomination.com](https://www.wisdomination.com)
+ - date published: 2023-10-25T18:07:12.621625+00:00
+ - user: None
+ - tags: []
+
+## Wise, Formerly TransferWise: Online Money Transfers | International Banking Features
+ - [https://wise.com](https://wise.com)
+ - date published: 2023-10-28T03:56:49.631440+00:00
+ - user: None
+ - tags: []
+
+## WiseStacker - Wisely Stack The World's Best Dividend Stocks
+ - [https://wisestacker.com](https://wisestacker.com)
+ - date published: 2023-12-02T13:42:08.251986+00:00
+ - user: None
+ - tags: ['personal']
+
+## WitcherHour: Bringing the latest Witcher news, guides, & more.
+ - [https://witcherhour.com](https://witcherhour.com)
+ - date published: 2023-10-25T14:23:14.446827+00:00
+ - user: None
+ - tags: []
+
+## Cardinal is the Database for Humans
+ - [https://www.withcardinal.com](https://www.withcardinal.com)
+ - date published: 2023-10-25T18:07:14.230770+00:00
+ - user: None
+ - tags: []
+
+## Coherence — The Integrated Developer Platform for your own cloud account
+ - [https://www.withcoherence.com](https://www.withcoherence.com)
+ - date published: 2023-10-25T18:07:16.180638+00:00
+ - user: None
+ - tags: []
+
 ## Compound Planning | Modern Wealth & Investment Management
  - [https://withcompound.com](https://withcompound.com)
  - date published: 2023-10-25T18:07:21.872974+00:00
@@ -1005,6 +1197,12 @@
  - date published: 2023-11-04T05:07:11.984619+00:00
  - user: None
  - tags: []
+
+## Write Software, Well
+ - [https://www.writesoftwarewell.com](https://www.writesoftwarewell.com)
+ - date published: 2023-12-07T10:42:22.957389+00:00
+ - user: None
+ - tags: ['personal', 'ruby on rails', 'programming', 'ruby']
 
 ## Atlanta News, Weather and Sports. Breaking stories from around the Metro Area. Coverage you can count on from WSB-TV Channel 2. – WSB-TV Channel 2 - Atlanta
  - [https://www.wsbtv.com](https://www.wsbtv.com)
@@ -2272,6 +2470,12 @@
  - user: None
  - tags: []
 
+## Bundestagsshop
+ - [https://www.bundestagsshop.de](https://www.bundestagsshop.de)
+ - date published: 2023-12-07T12:22:20.768351+00:00
+ - user: None
+ - tags: []
+
 ## Bundesverfassungsgericht  -  Startseite
  - [https://www.bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de)
  - date published: 2023-10-25T18:28:33.150667+00:00
@@ -3172,6 +3376,12 @@ home
  - date published: 2023-10-25T18:34:46.760527+00:00
  - user: None
  - tags: []
+
+## Amoenus Dev
+ - [https://amoenus.dev](https://amoenus.dev)
+ - date published: 2023-12-07T17:36:20.416462+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Show HN: Anchor – developer-friendly private CAs for internal TLS
  - [https://anchor.dev](https://anchor.dev)
@@ -5354,6 +5564,12 @@ home
  - user: None
  - tags: []
 
+## Faculty of Natural Sciences - Fakultet ved Aarhus Universitet
+ - [https://nat.au.dk](https://nat.au.dk)
+ - date published: 2023-12-07T14:50:55.311344+00:00
+ - user: None
+ - tags: []
+
 ## bret.dk - Explore the latest single-board computers (SBCs), including reviews and benchmarks for Raspberry Pi.
  - [https://bret.dk](https://bret.dk)
  - date published: 2023-10-25T18:45:00.174502+00:00
@@ -5782,222 +5998,6 @@ home
 ## Chapman Blogs | Chapman University
  - [https://blogs.chapman.edu](https://blogs.chapman.edu)
  - date published: 2023-10-25T18:49:38.865941+00:00
- - user: None
- - tags: []
-
-## CMU CS Academy
- - [https://academy.cs.cmu.edu](https://academy.cs.cmu.edu)
- - date published: 2023-10-25T18:49:39.691260+00:00
- - user: None
- - tags: []
-
-## Carnegie Mellon Database Group
- - [https://db.cs.cmu.edu](https://db.cs.cmu.edu)
- - date published: 2023-10-25T18:49:41.742513+00:00
- - user: None
- - tags: []
-
-## Penrose | Penrose
- - [https://penrose.cs.cmu.edu](https://penrose.cs.cmu.edu)
- - date published: 2023-10-25T18:49:42.884999+00:00
- - user: None
- - tags: []
-
-## index -     Electrical and Computer Engineering -     College of Engineering - Carnegie Mellon University
- - [https://users.ece.cmu.edu](https://users.ece.cmu.edu)
- - date published: 2023-10-25T18:49:47.511158+00:00
- - user: None
- - tags: []
-
-## Homepage -     CMU - Carnegie Mellon University
- - [https://www.cmu.edu](https://www.cmu.edu)
- - date published: 2023-10-25T18:49:49.835716+00:00
- - user: None
- - tags: []
-
-## CMU School of Computer Science
- - [https://www.cs.cmu.edu](https://www.cs.cmu.edu)
- - date published: 2023-10-25T18:49:52.744969+00:00
- - user: None
- - tags: []
-
-## Department of Mathematical Sciences
- - [https://www.math.cmu.edu](https://www.math.cmu.edu)
- - date published: 2023-10-25T18:49:53.580780+00:00
- - user: None
- - tags: []
-
-## The Robotics Institute Carnegie Mellon University : Robotics Education and Research Leader
- - [https://www.ri.cmu.edu](https://www.ri.cmu.edu)
- - date published: 2023-11-29T17:37:28.886724+00:00
- - user: None
- - tags: []
-
-## Home | University of Colorado Boulder
- - [https://www.colorado.edu](https://www.colorado.edu)
- - date published: 2023-10-25T18:49:55.392617+00:00
- - user: None
- - tags: []
-
-## Colorado State University News - SOURCE
- - [https://source.colostate.edu](https://source.colostate.edu)
- - date published: 2023-11-29T17:19:55.036565+00:00
- - user: None
- - tags: []
-
-## Columbia Magazine
- - [https://magazine.columbia.edu](https://magazine.columbia.edu)
- - date published: 2023-10-25T18:49:57.691308+00:00
- - user: None
- - tags: []
-
-## Columbia News
- - [https://news.columbia.edu](https://news.columbia.edu)
- - date published: 2023-12-05T18:08:58.749533+00:00
- - user: None
- - tags: []
-
-## Statistical Modeling, Causal Inference, and Social Science
- - [https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu)
- - date published: 2023-10-25T18:50:02.076404+00:00
- - user: None
- - tags: []
-
-## ViperGPT: Visual Inference via Python Execution for Reasoning
- - [https://viper.cs.columbia.edu](https://viper.cs.columbia.edu)
- - date published: 2023-10-25T18:50:05.789837+00:00
- - user: None
- - tags: []
-
-## Herbert Irving Comprehensive Cancer Center (HICCC) - New York
- - [https://www.cancer.columbia.edu](https://www.cancer.columbia.edu)
- - date published: 2023-10-25T18:50:13.811298+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science, Columbia University
- - [https://www.cs.columbia.edu](https://www.cs.columbia.edu)
- - date published: 2023-10-25T18:50:17.823882+00:00
- - user: None
- - tags: []
-
-## Columbia University Irving Medical Center
- - [https://www.cuimc.columbia.edu](https://www.cuimc.columbia.edu)
- - date published: 2023-10-25T18:50:21.143055+00:00
- - user: None
- - tags: []
-
-## Department of Mathematics at Columbia University - Welcome
- - [https://www.math.columbia.edu](https://www.math.columbia.edu)
- - date published: 2023-10-25T18:50:23.763635+00:00
- - user: None
- - tags: []
-
-## Department of Statistics - Columbia University
- - [http://www.stat.columbia.edu](http://www.stat.columbia.edu)
- - date published: 2023-10-25T18:50:28.275767+00:00
- - user: None
- - tags: []
-
-## Zero-1-to-3: Zero-shot One Image to 3D Object
- - [https://zero123.cs.columbia.edu](https://zero123.cs.columbia.edu)
- - date published: 2023-10-25T18:50:29.530822+00:00
- - user: None
- - tags: []
-
-## Columbia | Zuckerman Institute
- - [https://zuckermaninstitute.columbia.edu](https://zuckermaninstitute.columbia.edu)
- - date published: 2023-10-25T18:50:31.676775+00:00
- - user: None
- - tags: []
-
-## Cornell Virtual Workshop
- - [https://cvw.cac.cornell.edu](https://cvw.cac.cornell.edu)
- - date published: 2023-10-25T18:50:32.946582+00:00
- - user: None
- - tags: []
-
-## Learning Strategies Center – Academic Support at Cornell University
- - [https://lsc.cornell.edu](https://lsc.cornell.edu)
- - date published: 2023-10-25T18:50:35.715625+00:00
- - user: None
- - tags: []
-
-## Home | Cornell Chronicle
- - [https://news.cornell.edu](https://news.cornell.edu)
- - date published: 2023-10-25T18:50:38.276285+00:00
- - user: None
- - tags: []
-
-## Newsroom | Weill Cornell Medicine
- - [https://news.weill.cornell.edu](https://news.weill.cornell.edu)
- - date published: 2023-10-25T18:50:39.847779+00:00
- - user: None
- - tags: []
-
-## Electrical and Computer Engineering | Electrical and Computer Engineering
- - [https://people.ece.cornell.edu](https://people.ece.cornell.edu)
- - date published: 2023-10-25T18:50:42.502337+00:00
- - user: None
- - tags: []
-
-## http://pi.math.cornell.edu
- - [http://pi.math.cornell.edu](http://pi.math.cornell.edu)
- - date published: 2023-10-25T18:50:43.600153+00:00
- - user: None
- - tags: []
-
-## Follow the Story – Research & Innovation
- - [https://research.cornell.edu](https://research.cornell.edu)
- - date published: 2023-10-25T18:50:46.764859+00:00
- - user: None
- - tags: []
-
-## Home | Department of Computer Science
- - [https://www.cs.cornell.edu](https://www.cs.cornell.edu)
- - date published: 2023-10-25T18:50:50.915149+00:00
- - user: None
- - tags: []
-
-## CU Anschutz Newsroom
- - [https://news.cuanschutz.edu](https://news.cuanschutz.edu)
- - date published: 2023-10-25T18:50:58.468453+00:00
- - user: None
- - tags: []
-
-## The City College of New York
- - [https://www.ccny.cuny.edu](https://www.ccny.cuny.edu)
- - date published: 2023-10-25T18:51:01.179182+00:00
- - user: None
- - tags: []
-
-## Mathematics at Dartmouth
- - [https://math.dartmouth.edu](https://math.dartmouth.edu)
- - date published: 2023-10-25T18:51:02.976336+00:00
- - user: None
- - tags: []
-
-## User Homepages @Drew University
- - [https://users.drew.edu](https://users.drew.edu)
- - date published: 2023-11-14T23:58:00.601263+00:00
- - user: None
- - tags: []
-
-## Drexel Home
- - [https://drexel.edu](https://drexel.edu)
- - date published: 2023-10-25T18:51:05.420930+00:00
- - user: None
- - tags: []
-
-## Duke Today | Duke Today
- - [https://today.duke.edu](https://today.duke.edu)
- - date published: 2023-10-25T18:51:07.229842+00:00
- - user: None
- - tags: []
-
-## Duke University School of Law
- - [https://web.law.duke.edu](https://web.law.duke.edu)
- - date published: 2023-10-25T11:22:18.328920+00:00
  - user: None
  - tags: []
 

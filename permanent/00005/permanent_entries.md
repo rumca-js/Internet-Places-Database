@@ -1,3 +1,135 @@
+## Rock, Metal, Alternative Music & Culture | Louder
+ - [https://www.loudersound.com](https://www.loudersound.com)
+ - date published: 2023-10-25T15:51:10.187470+00:00
+ - user: None
+ - tags: []
+
+## Louder With Crowder
+ - [https://louderwithcrowder.com](https://louderwithcrowder.com)
+ - date published: 2023-10-25T10:14:21.412153+00:00
+ - user: None
+ - tags: []
+
+## Louder With Crowder
+ - [https://www.louderwithcrowder.com](https://www.louderwithcrowder.com)
+ - date published: 2023-10-25T10:14:23.696193+00:00
+ - user: None
+ - tags: []
+
+## As in guillotine...
+ - [https://loudpoet.com](https://loudpoet.com)
+ - date published: 2023-12-03T00:58:00.741462+00:00
+ - user: None
+ - tags: []
+
+## Loudwire
+ - [https://loudwire.com](https://loudwire.com)
+ - date published: 2023-11-02T09:15:06.840788+00:00
+ - user: None
+ - tags: []
+
+## README - louis030195
+ - [https://brain.louis030195.com](https://brain.louis030195.com)
+ - date published: 2023-10-25T15:51:11.275641+00:00
+ - user: None
+ - tags: []
+
+## Loukidelis.com
+ - [http://www.loukidelis.com](http://www.loukidelis.com)
+ - date published: 2023-10-25T15:51:17.208653+00:00
+ - user: None
+ - tags: []
+
+## Louwrentius
+ - [https://louwrentius.com](https://louwrentius.com)
+ - date published: 2023-10-25T15:51:23.928427+00:00
+ - user: None
+ - tags: []
+
+## Love of All Wisdom | Philosophy through multiple traditions
+ - [https://loveofallwisdom.com](https://loveofallwisdom.com)
+ - date published: 2023-10-25T15:51:30.772905+00:00
+ - user: None
+ - tags: []
+
+## LowEndBox - Cheap VPS, Dedicated Servers and Hosting Deals
+ - [https://lowendbox.com](https://lowendbox.com)
+ - date published: 2023-10-25T15:51:35.588514+00:00
+ - user: None
+ - tags: []
+
+## Low End Mac: Make the most of your Apple gear
+ - [https://lowendmac.com](https://lowendmac.com)
+ - date published: 2023-10-25T15:51:51.330055+00:00
+ - user: None
+ - tags: []
+
+## LOW←TECH MAGAZINE
+ - [https://solar.lowtechmagazine.com](https://solar.lowtechmagazine.com)
+ - date published: 2023-10-25T15:51:53.447178+00:00
+ - user: None
+ - tags: []
+
+## LOW←TECH MAGAZINE
+ - [https://www.lowtechmagazine.com](https://www.lowtechmagazine.com)
+ - date published: 2023-10-25T15:51:55.310869+00:00
+ - user: None
+ - tags: []
+
+## Luca Palmieri
+ - [https://www.lpalmieri.com](https://www.lpalmieri.com)
+ - date published: 2023-10-25T15:51:56.230983+00:00
+ - user: None
+ - tags: []
+
+## Lucas F. Costa
+ - [https://lucasfcosta.com](https://lucasfcosta.com)
+ - date published: 2023-10-25T15:51:57.487195+00:00
+ - user: None
+ - tags: []
+
+## Lucasfilm Ltd. | Lucasfilm.com
+ - [https://www.lucasfilm.com](https://www.lucasfilm.com)
+ - date published: 2023-11-13T12:54:57.302300+00:00
+ - user: None
+ - tags: ['movie studio']
+
+## Random thoughts from Lucas Kostka
+ - [https://lucaskostka.com](https://lucaskostka.com)
+ - date published: 2023-10-25T15:51:58.719723+00:00
+ - user: None
+ - tags: []
+
+## Lucas' Blog
+ - [https://lucaspauker.com](https://lucaspauker.com)
+ - date published: 2023-10-25T15:51:59.452646+00:00
+ - user: None
+ - tags: []
+
+## Lucidity
+ - [https://luciditysystems.com](https://luciditysystems.com)
+ - date published: 2023-10-25T15:52:03.701234+00:00
+ - user: None
+ - tags: []
+
+## Investor Relations | Lucid Group, Inc.
+ - [https://ir.lucidmotors.com](https://ir.lucidmotors.com)
+ - date published: 2023-10-25T15:52:13.846409+00:00
+ - user: None
+ - tags: []
+
+## Nicholas Fraser
+ - [https://ludocode.com](https://ludocode.com)
+ - date published: 2023-10-25T15:52:14.415437+00:00
+ - user: None
+ - tags: []
+
+## Anti-Mimetic | Luke Burgis | Substack
+ - [https://read.lukeburgis.com](https://read.lukeburgis.com)
+ - date published: 2023-10-25T15:52:17.870193+00:00
+ - user: None
+ - tags: []
+
 ## LUKHASH | www.lukhash.com
  - [https://lukhash.com](https://lukhash.com)
  - date published: 2023-10-30T13:31:43.558214+00:00
@@ -887,6 +1019,12 @@ diversions.
  - date published: 2023-10-25T15:58:27.234425+00:00
  - user: None
  - tags: []
+
+## Author and Author Services Provider Matthew Wayne Selznick
+ - [https://www.mattselznick.com](https://www.mattselznick.com)
+ - date published: 2023-12-07T17:37:46.378916+00:00
+ - user: None
+ - tags: ['personal']
 
 ## MatX | Faster chips for LLMs
  - [https://matx.com](https://matx.com)
@@ -2236,7 +2374,7 @@ diversions.
  - [https://meyerweb.com](https://meyerweb.com)
  - date published: 2023-10-25T16:02:20.447342+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home
  - [https://mhlakhani.com](https://mhlakhani.com)
@@ -4398,6 +4536,12 @@ diversions.
  - user: None
  - tags: []
 
+## News Source Guyana
+ - [https://newssourcegy.com](https://newssourcegy.com)
+ - date published: 2023-12-07T14:53:10.302726+00:00
+ - user: None
+ - tags: []
+
 ## Newstarget.com
  - [https://www.newstarget.com](https://www.newstarget.com)
  - date published: 2023-10-25T16:17:40.498394+00:00
@@ -5854,148 +5998,4 @@ Answering Machine Greetings!
  - date published: 2023-10-25T16:26:25.632367+00:00
  - user: None
  - tags: []
-
-## Welcome to Spinning Up in Deep RL! — Spinning Up  documentation
- - [https://spinningup.openai.com](https://spinningup.openai.com)
- - date published: 2023-11-24T03:43:48.174303+00:00
- - user: None
- - tags: []
-
-## OpenAI Status
- - [https://status.openai.com](https://status.openai.com)
- - date published: 2023-10-25T16:26:27.103892+00:00
- - user: None
- - tags: []
-
-## Home | OpenBSD Handbook
- - [https://www.openbsdhandbook.com](https://www.openbsdhandbook.com)
- - date published: 2023-10-25T16:26:28.495244+00:00
- - user: None
- - tags: []
-
-## OpenBW – free and open-source
- - [http://www.openbw.com](http://www.openbw.com)
- - date published: 2023-10-30T13:52:51.432424+00:00
- - user: None
- - tags: ['open source', 'starcraft']
-
-## OpenCage blog - what's new at OpenCage
- - [https://blog.opencagedata.com](https://blog.opencagedata.com)
- - date published: 2023-10-25T16:26:29.828123+00:00
- - user: None
- - tags: []
-
-## Home | Open Core Ventures
- - [https://opencoreventures.com](https://opencoreventures.com)
- - date published: 2023-10-25T16:26:31.896557+00:00
- - user: None
- - tags: []
-
-## OpenCritic - The top critics in gaming. All in one place.
- - [https://opencritic.com](https://opencritic.com)
- - date published: 2023-10-27T07:30:11.127691+00:00
- - user: None
- - tags: ['game news']
-
-## The best free cultural & educational media on the web - Open Culture
- - [https://www.openculture.com](https://www.openculture.com)
- - date published: 2023-10-25T09:28:29.608798+00:00
- - user: None
- - tags: []
-
-## Cloud Delivered Enterprise Security by OpenDNS
- - [https://www.opendns.com](https://www.opendns.com)
- - date published: 2023-10-30T12:52:26.123819+00:00
- - user: None
- - tags: ['dns']
-
-## Home | OpenFaaS - Serverless Functions Made Simple
- - [https://www.openfaas.com](https://www.openfaas.com)
- - date published: 2023-10-25T16:26:32.887003+00:00
- - user: None
- - tags: []
-
-## The Open Heart Project - Susan Piver
- - [https://openheartproject.com](https://openheartproject.com)
- - date published: 2023-10-25T16:26:38.251087+00:00
- - user: None
- - tags: []
-
-## Openlayer - The evaluation workspace for machine learning
- - [https://www.openlayer.com](https://www.openlayer.com)
- - date published: 2023-10-25T16:26:39.469662+00:00
- - user: None
- - tags: []
-
-## Advancing connectivity for all | Opensignal
- - [https://www.opensignal.com](https://www.opensignal.com)
- - date published: 2023-10-25T16:26:41.916120+00:00
- - user: None
- - tags: []
-
-## Show HN: Open Source Heroes – Explore the world of Open Source
- - [https://opensource-heroes.com](https://opensource-heroes.com)
- - date published: 2023-11-06T18:16:28+00:00
- - user: None
- - tags: []
-
-## OpenSSH
- - [https://www.openssh.com](https://www.openssh.com)
- - date published: 2023-10-25T08:32:56.764937+00:00
- - user: None
- - tags: []
-
-## 503 Backend fetch failed
- - [https://blog.opensubtitles.com](https://blog.opensubtitles.com)
- - date published: 2023-11-16T14:55:26.595310+00:00
- - user: None
- - tags: []
-
-## OpenSX70
- - [https://opensx70.com](https://opensx70.com)
- - date published: 2023-11-01T08:42:52.647761+00:00
- - user: None
- - tags: []
-
-## Open Magazine
- - [https://openthemagazine.com](https://openthemagazine.com)
- - date published: 2023-10-25T16:26:47.462037+00:00
- - user: None
- - tags: []
-
-## Interactive Vim tutorial
- - [https://www.openvim.com](https://www.openvim.com)
- - date published: 2023-10-25T09:27:45.430152+00:00
- - user: None
- - tags: []
-
-## Openwall - bringing security into open computing environments
- - [https://www.openwall.com](https://www.openwall.com)
- - date published: 2023-10-25T16:26:56.278778+00:00
- - user: None
- - tags: []
-
-## The Opera Blog - News | Opera
- - [https://blogs.opera.com](https://blogs.opera.com)
- - date published: 2023-10-25T11:29:22.476464+00:00
- - user: None
- - tags: []
-
-## Opera Web Browser | Faster, Safer, Smarter | Opera
- - [https://www.opera.com](https://www.opera.com)
- - date published: 2023-11-01T08:41:07.913556+00:00
- - user: None
- - tags: []
-
-## Ant-Like Persistence
- - [https://blog.oppedahl.com](https://blog.oppedahl.com)
- - date published: 2023-10-25T16:27:01.429670+00:00
- - user: None
- - tags: []
-
-## Smartfony i akcesoria OPPO | OPPO Polska
- - [https://www.oppo.com](https://www.oppo.com)
- - date published: 2023-10-25T11:26:11.032644+00:00
- - user: None
- - tags: ['company']
 

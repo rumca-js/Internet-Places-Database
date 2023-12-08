@@ -1,3 +1,279 @@
+## SolarPACES - International CSP research
+ - [https://www.solarpaces.org](https://www.solarpaces.org)
+ - date published: 2023-10-25T22:09:59.992144+00:00
+ - user: None
+ - tags: []
+
+## Home · Solid
+ - [https://solidproject.org](https://solidproject.org)
+ - date published: 2023-10-25T22:10:03.110937+00:00
+ - user: None
+ - tags: []
+
+## Source Academy
+ - [https://sourceacademy.org](https://sourceacademy.org)
+ - date published: 2023-10-25T22:10:04.254495+00:00
+ - user: None
+ - tags: []
+
+## sourcehut - the hacker's forge
+ - [https://sourcehut.org](https://sourcehut.org)
+ - date published: 2023-10-25T22:10:11.306606+00:00
+ - user: None
+ - tags: []
+
+## sourceware.org:  Free software!  Get your fresh hot free software!
+ - [https://sourceware.org](https://sourceware.org)
+ - date published: 2023-10-25T22:10:14.177604+00:00
+ - user: None
+ - tags: []
+
+## Church of the Flying Spaghetti Monster – The world's fastest growing religion
+ - [https://www.spaghettimonster.org](https://www.spaghettimonster.org)
+ - date published: 2023-10-25T11:33:27.690487+00:00
+ - user: None
+ - tags: []
+
+## Spatial
+ - [https://spatial-lang.org](https://spatial-lang.org)
+ - date published: 2023-10-25T22:10:16.765918+00:00
+ - user: None
+ - tags: []
+
+## The American Spectator | USA News and Politics
+ - [https://spectator.org](https://spectator.org)
+ - date published: 2023-10-25T22:10:25.131810+00:00
+ - user: None
+ - tags: []
+
+## Southern Poverty Law Center
+ - [https://www.splcenter.org](https://www.splcenter.org)
+ - date published: 2023-10-25T22:10:28.735082+00:00
+ - user: None
+ - tags: []
+
+## Sqids – Generate Short Unique IDs from Numbers
+ - [https://sqids.org](https://sqids.org)
+ - date published: 2023-11-25T17:30:06+00:00
+ - user: None
+ - tags: []
+
+## SQLAlchemy - The Database Toolkit for Python
+ - [https://www.sqlalchemy.org](https://www.sqlalchemy.org)
+ - date published: 2023-10-25T22:10:35.303229+00:00
+ - user: None
+ - tags: []
+
+## SQLite Home Page
+ - [https://sqlite.org](https://sqlite.org)
+ - date published: 2023-10-25T08:34:11.917438+00:00
+ - user: None
+ - tags: []
+
+## SQLite Home Page
+ - [https://www.sqlite.org](https://www.sqlite.org)
+ - date published: 2023-10-25T08:30:44.493063+00:00
+ - user: None
+ - tags: ['open source']
+
+## sqlpkg - SQLite Package Manager and Registry
+ - [https://sqlpkg.org](https://sqlpkg.org)
+ - date published: 2023-10-25T22:10:36.907709+00:00
+ - user: None
+ - tags: []
+
+## Swikis on this Site
+ - [https://wiki.squeak.org](https://wiki.squeak.org)
+ - date published: 2023-10-25T22:10:38.150045+00:00
+ - user: None
+ - tags: []
+
+## Stanford Social Innovation Review: Informing and Inspiring Leaders of Social Change
+ - [https://ssir.org](https://ssir.org)
+ - date published: 2023-10-25T22:10:50.257498+00:00
+ - user: None
+ - tags: []
+
+## Home - The Scholarly Kitchen
+ - [https://scholarlykitchen.sspnet.org](https://scholarlykitchen.sspnet.org)
+ - date published: 2023-10-25T22:10:54.233750+00:00
+ - user: None
+ - tags: []
+
+## Richard Stallman's Personal Page
+ - [https://stallman.org](https://stallman.org)
+ - date published: 2023-10-25T08:55:16.261378+00:00
+ - user: None
+ - tags: ['open source', 'personal']
+
+## Introduction | Stallman Support
+ - [https://stallmansupport.org](https://stallmansupport.org)
+ - date published: 2023-10-25T22:10:55.015261+00:00
+ - user: None
+ - tags: []
+
+## Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.
+ - [https://standardebooks.org](https://standardebooks.org)
+ - date published: 2023-10-25T22:10:56.245275+00:00
+ - user: None
+ - tags: []
+
+## The Stanford Review
+ - [https://stanfordreview.org](https://stanfordreview.org)
+ - date published: 2023-11-17T20:05:24.177437+00:00
+ - user: None
+ - tags: []
+
+## Statewatch |
+ - [https://www.statewatch.org](https://www.statewatch.org)
+ - date published: 2023-10-25T22:10:57.959001+00:00
+ - user: None
+ - tags: []
+
+## Stellarium Astronomy Software
+ - [https://stellarium.org](https://stellarium.org)
+ - date published: 2023-10-25T22:10:59.327792+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.stevelipner.org](https://www.stevelipner.org)
+ - date published: 2023-10-25T22:11:00.688213+00:00
+ - user: None
+ - tags: []
+
+## One-Step Webpages by Stephen P. Morse
+ - [https://stevemorse.org](https://stevemorse.org)
+ - date published: 2023-10-25T22:11:08.422161+00:00
+ - user: None
+ - tags: []
+
+## Stéphane Graber's website
+ - [https://stgraber.org](https://stgraber.org)
+ - date published: 2023-10-25T22:11:13.024939+00:00
+ - user: None
+ - tags: []
+
+## The Stinging Fly – New Writers, New Writing
+ - [https://stingingfly.org](https://stingingfly.org)
+ - date published: 2023-10-25T22:11:21.155830+00:00
+ - user: None
+ - tags: []
+
+## Federal Reserve Economic Data | FRED | St. Louis Fed
+ - [https://fred.stlouisfed.org](https://fred.stlouisfed.org)
+ - date published: 2023-10-25T22:11:23.050121+00:00
+ - user: None
+ - tags: []
+
+## FRED Blog | Interesting graphs from the FRED library
+ - [https://fredblog.stlouisfed.org](https://fredblog.stlouisfed.org)
+ - date published: 2023-10-25T22:11:26.375746+00:00
+ - user: None
+ - tags: []
+
+## Stockfish - Open Source Chess Engine
+ - [https://stockfishchess.org](https://stockfishchess.org)
+ - date published: 2023-10-25T22:11:27.059896+00:00
+ - user: None
+ - tags: []
+
+## StrategyWiki, the free strategy guide and walkthrough wiki
+ - [https://strategywiki.org](https://strategywiki.org)
+ - date published: 2023-10-25T11:18:26.623232+00:00
+ - user: None
+ - tags: []
+
+## Homepage — Streetsblog USA
+ - [https://usa.streetsblog.org](https://usa.streetsblog.org)
+ - date published: 2023-10-25T22:11:35.865350+00:00
+ - user: None
+ - tags: []
+
+## Conor's Staring out the Window
+ - [http://strictlypositive.org](http://strictlypositive.org)
+ - date published: 2023-10-25T22:11:37.341628+00:00
+ - user: None
+ - tags: []
+
+## Strong Towns
+ - [https://www.strongtowns.org](https://www.strongtowns.org)
+ - date published: 2023-10-25T22:11:39.760573+00:00
+ - user: None
+ - tags: []
+
+## Study Finds - Original news coverage of the latest research studies
+ - [https://studyfinds.org](https://studyfinds.org)
+ - date published: 2023-10-25T22:11:44.208145+00:00
+ - user: None
+ - tags: []
+
+## SubAnima
+ - [https://www.subanima.org](https://www.subanima.org)
+ - date published: 2023-10-25T22:11:45.191195+00:00
+ - user: None
+ - tags: []
+
+## libraries | suckless.org software that sucks less
+ - [https://libs.suckless.org](https://libs.suckless.org)
+ - date published: 2023-10-25T22:11:45.970346+00:00
+ - user: None
+ - tags: []
+
+## The Conference for High Performance Computing, Networking, Storage, Analysis
+ - [https://sc23.supercomputing.org](https://sc23.supercomputing.org)
+ - date published: 2023-11-12T17:50:37+00:00
+ - user: None
+ - tags: []
+
+## Sustain
+ - [https://podcast.sustainoss.org](https://podcast.sustainoss.org)
+ - date published: 2023-10-25T22:11:47.857448+00:00
+ - user: None
+ - tags: []
+
+## Радио Свобода
+ - [https://www.svoboda.org](https://www.svoboda.org)
+ - date published: 2023-10-30T13:20:52.762426+00:00
+ - user: None
+ - tags: []
+
+## Sovereign Wealth Fund Institute - SWFI
+ - [https://www.swfinstitute.org](https://www.swfinstitute.org)
+ - date published: 2023-10-25T22:12:02.407794+00:00
+ - user: None
+ - tags: []
+
+## Swift.org - Download Swift
+ - [https://download.swift.org](https://download.swift.org)
+ - date published: 2023-10-25T22:12:17.993310+00:00
+ - user: None
+ - tags: []
+
+## Swift Forums
+ - [https://forums.swift.org](https://forums.swift.org)
+ - date published: 2023-10-25T11:33:15.178785+00:00
+ - user: None
+ - tags: []
+
+## Swift.org - Welcome to Swift.org
+ - [https://www.swift.org](https://www.swift.org)
+ - date published: 2023-10-25T22:12:19.595766+00:00
+ - user: None
+ - tags: []
+
+## Swift Centre
+ - [https://www.swiftcentre.org](https://www.swiftcentre.org)
+ - date published: 2023-10-25T22:12:20.577681+00:00
+ - user: None
+ - tags: []
+
+## Simplified Wrapper and Interface Generator
+ - [https://www.swig.org](https://www.swig.org)
+ - date published: 2023-10-25T22:12:22.341015+00:00
+ - user: None
+ - tags: []
+
 ## Sylvain Durand
  - [https://sylvaindurand.org](https://sylvaindurand.org)
  - date published: 2023-11-15T17:33:28.058719+00:00
@@ -735,6 +1011,12 @@
  - date published: 2023-11-27T12:21:06+00:00
  - user: rumpel
  - tags: ['uyghurs']
+
+## UK Research and Innovation
+ - [https://www.ukri.org](https://www.ukri.org)
+ - date published: 2023-12-07T17:40:19.222248+00:00
+ - user: None
+ - tags: ['organization']
 
 ## Ultibo.org – Make something amazing
  - [https://ultibo.org](https://ultibo.org)
@@ -5197,6 +5479,12 @@ is forbidden
  - user: None
  - tags: []
 
+## Noah's Rug (5784) — Hanukkah of Data
+ - [https://hanukkah.bluebird.sh](https://hanukkah.bluebird.sh)
+ - date published: 2023-12-07T19:20:29.682884+00:00
+ - user: None
+ - tags: ['challnege', 'puzzle game', 'internet', 'programming', 'wtf']
+
 ## Leo Gao
  - [https://bmk.sh](https://bmk.sh)
  - date published: 2023-10-25T22:38:04.762550+00:00
@@ -5712,293 +6000,4 @@ is forbidden
  - date published: 2023-10-25T22:40:15.132648+00:00
  - user: None
  - tags: []
-
-## permission.site
- - [https://permission.site](https://permission.site)
- - date published: 2023-10-25T22:40:18.074064+00:00
- - user: None
- - tags: []
-
-## Reflect Notes
- - [https://reflect.site](https://reflect.site)
- - date published: 2023-10-25T22:40:25.344272+00:00
- - user: None
- - tags: []
-
-## Shift Happens newsletter
- - [https://newsletter.shifthappens.site](https://newsletter.shifthappens.site)
- - date published: 2023-10-25T22:40:27.644529+00:00
- - user: None
- - tags: []
-
-## Shift Happens
- - [https://shifthappens.site](https://shifthappens.site)
- - date published: 2023-10-25T22:40:33.666065+00:00
- - user: None
- - tags: []
-
-## Heliotrope Pajamas
- - [https://sforman.srht.site](https://sforman.srht.site)
- - date published: 2023-11-29T17:12:24.360687+00:00
- - user: None
- - tags: ['personal']
-
-## timor's site
- - [https://timor.site](https://timor.site)
- - date published: 2023-10-25T09:24:39.424560+00:00
- - user: None
- - tags: ['personal']
-
-## The Topos Lab
- - [https://topos.site](https://topos.site)
- - date published: 2023-10-25T22:40:37.112240+00:00
- - user: None
- - tags: []
-
-## Bounded-Error Log
- - [https://blog.vero.site](https://blog.vero.site)
- - date published: 2023-11-14T07:22:39.220127+00:00
- - user: None
- - tags: []
-
-## Amiga on PC/Mac/Raspberry | AmiKit - Modern Retro Amiga
- - [https://www.amikit.amiga.sk](https://www.amikit.amiga.sk)
- - date published: 2023-11-02T10:51:09.860795+00:00
- - user: None
- - tags: ['amiga']
-
-## Michal's low level corner
- - [https://migeel.sk](https://migeel.sk)
- - date published: 2023-10-25T08:55:55.090139+00:00
- - user: None
- - tags: ['personal']
-
-## Staré Hry Na Stiahnutie :: DJ OldGames
- - [https://www.oldgames.sk](https://www.oldgames.sk)
- - date published: 2023-11-02T09:17:26.938750+00:00
- - user: None
- - tags: ['commodore', 'old games', 'abandonware', 'dos', 'retro games', 'amiga']
-
-## cgad.ski
- - [https://cgad.ski](https://cgad.ski)
- - date published: 2023-10-28T01:56:13.112964+00:00
- - user: None
- - tags: []
-
-## Bartosz Ciechanowski
- - [https://ciechanow.ski](https://ciechanow.ski)
- - date published: 2023-10-25T09:24:42.451995+00:00
- - user: None
- - tags: ['personal']
-
-## Skin's Blog
- - [https://blog.djha.skin](https://blog.djha.skin)
- - date published: 2023-10-25T09:24:43.363018+00:00
- - user: None
- - tags: ['personal']
-
-## Beautiful, Secure, Privacy-Respecting Devices - Purism
- - [https://puri.sm](https://puri.sm)
- - date published: 2023-10-25T08:37:55.771167+00:00
- - user: None
- - tags: []
-
-## MCN
- - [https://www.mcn.sn](https://www.mcn.sn)
- - date published: 2023-11-13T13:42:42.319137+00:00
- - user: None
- - tags: ['museum']
-
-## Overview - Blog
- - [https://blog.artie.so](https://blog.artie.so)
- - date published: 2023-11-15T22:31:41.943631+00:00
- - user: None
- - tags: []
-
-## Cohesive
- - [https://www.cohesive.so](https://www.cohesive.so)
- - date published: 2023-10-25T22:40:45.366113+00:00
- - user: None
- - tags: []
-
-## Creator Economy by Peter Yang | Substack
- - [https://creatoreconomy.so](https://creatoreconomy.so)
- - date published: 2023-10-25T10:08:47.677770+00:00
- - user: None
- - tags: ['substack']
-
-## Dendron
- - [https://wiki.dendron.so](https://wiki.dendron.so)
- - date published: 2023-10-25T22:40:48.362194+00:00
- - user: None
- - tags: []
-
-## Hydra - Fast Postgres Analytics ++
- - [https://www.hydra.so](https://www.hydra.so)
- - date published: 2023-10-25T08:34:30.335331+00:00
- - user: None
- - tags: []
-
-## Service Suspended
- - [https://mimosa.so](https://mimosa.so)
- - date published: 2023-10-25T22:40:50.567686+00:00
- - user: None
- - tags: []
-
-## Notion Status
- - [https://status.notion.so](https://status.notion.so)
- - date published: 2023-10-25T22:40:58.174104+00:00
- - user: None
- - tags: []
-
-## Your connected workspace for wiki, docs & projects | Notion
- - [https://www.notion.so](https://www.notion.so)
- - date published: 2023-10-25T22:41:01.221665+00:00
- - user: None
- - tags: []
-
-## Plane - The open source project management tool
- - [https://plane.so](https://plane.so)
- - date published: 2023-10-25T22:41:04.981097+00:00
- - user: None
- - tags: []
-
-## Relate: Full, Simple Sales CRM powered by AI
- - [https://www.relate.so](https://www.relate.so)
- - date published: 2023-10-25T22:41:11.464805+00:00
- - user: None
- - tags: []
-
-## https://beta.sayhello.so
- - [https://beta.sayhello.so](https://beta.sayhello.so)
- - date published: 2023-10-25T22:41:12.269082+00:00
- - user: None
- - tags: []
-
-## Scribbler: AI-powered Summaries
- - [https://app.scribbler.so](https://app.scribbler.so)
- - date published: 2023-10-25T22:41:13.999339+00:00
- - user: None
- - tags: []
-
-## Sensible - Document Automation for Developers
- - [https://www.sensible.so](https://www.sensible.so)
- - date published: 2023-12-04T07:14:03.924039+00:00
- - user: None
- - tags: []
-
-## Subset - A remarkably simple way to create a spreadsheet
- - [https://about.subset.so](https://about.subset.so)
- - date published: 2023-10-25T22:41:15.156625+00:00
- - user: None
- - tags: []
-
-## The Sequin Blog
- - [https://blog.syncinc.so](https://blog.syncinc.so)
- - date published: 2023-10-25T11:29:17.861449+00:00
- - user: None
- - tags: []
-
-## Free Online Form Builder | Tally
- - [https://tally.so](https://tally.so)
- - date published: 2023-10-25T22:41:21.758592+00:00
- - user: None
- - tags: []
-
-## Telematica | Universal API for EVs and energy devices
- - [https://www.telematica.so](https://www.telematica.so)
- - date published: 2023-10-25T22:41:23.982087+00:00
- - user: None
- - tags: []
-
-## Tidepool - Tidepool by Aquarium
- - [https://www.tidepool.so](https://www.tidepool.so)
- - date published: 2023-10-25T22:41:27.323642+00:00
- - user: None
- - tags: []
-
-## Tremor – The React library to build dashboards fast
- - [https://www.tremor.so](https://www.tremor.so)
- - date published: 2023-10-25T22:41:30.193965+00:00
- - user: None
- - tags: []
-
-## Tweek Calendar — Minimal To Do list and Weekly Task Planner App
- - [https://tweek.so](https://tweek.so)
- - date published: 2023-10-25T22:41:31.700370+00:00
- - user: None
- - tags: []
-
-## Vento - Stress-Free Screen Recording
- - [https://vento.so](https://vento.so)
- - date published: 2023-10-25T22:41:33.922119+00:00
- - user: None
- - tags: []
-
-## http://abolish.social
- - [http://abolish.social](http://abolish.social)
- - date published: 2023-10-24T20:13:48.263115+00:00
- - user: None
- - tags: ['mastodon']
-
-## Aus.Social
- - [https://aus.social](https://aus.social)
- - date published: 2023-10-24T20:13:49.966651+00:00
- - user: None
- - tags: ['mastodon']
-
-## chaos.social
- - [https://chaos.social](https://chaos.social)
- - date published: 2023-10-24T20:13:50.437577+00:00
- - user: None
- - tags: ['mastodon']
-
-## The Gitea Community is asking Gitea Owners to correct
-conflicts of interest and restore Community Trust.
- - [https://gitea-open-letter.coding.social](https://gitea-open-letter.coding.social)
- - date published: 2023-10-24T20:13:51.584131+00:00
- - user: None
- - tags: ['mastodon']
-
-## Cyberplace
- - [https://cyberplace.social](https://cyberplace.social)
- - date published: 2023-10-24T20:13:52.156249+00:00
- - user: None
- - tags: ['mastodon']
-
-## DEF CON Social
- - [https://defcon.social](https://defcon.social)
- - date published: 2023-10-24T20:13:53.592152+00:00
- - user: None
- - tags: ['mastodon']
-
-## digitalcourage.social
- - [https://digitalcourage.social](https://digitalcourage.social)
- - date published: 2023-11-09T12:46:12.081546+00:00
- - user: None
- - tags: []
-
-## Firefish Social
- - [https://firefish.social](https://firefish.social)
- - date published: 2023-10-24T20:13:59.673761+00:00
- - user: None
- - tags: ['mastodon']
-
-## Flipboard
- - [https://flipboard.social](https://flipboard.social)
- - date published: 2023-10-24T20:14:00.608002+00:00
- - user: None
- - tags: ['mastodon']
-
-## FLOSS.social
- - [https://floss.social](https://floss.social)
- - date published: 2023-10-24T20:14:01.314852+00:00
- - user: None
- - tags: ['mastodon']
-
-## Front-End Social
- - [https://front-end.social](https://front-end.social)
- - date published: 2023-10-24T20:14:01.864788+00:00
- - user: None
- - tags: ['mastodon']
 

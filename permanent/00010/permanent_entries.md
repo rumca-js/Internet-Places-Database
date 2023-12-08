@@ -1,3 +1,219 @@
+## Carnegie Mellon Database Group
+ - [https://db.cs.cmu.edu](https://db.cs.cmu.edu)
+ - date published: 2023-10-25T18:49:41.742513+00:00
+ - user: None
+ - tags: []
+
+## Penrose | Penrose
+ - [https://penrose.cs.cmu.edu](https://penrose.cs.cmu.edu)
+ - date published: 2023-10-25T18:49:42.884999+00:00
+ - user: None
+ - tags: []
+
+## index -     Electrical and Computer Engineering -     College of Engineering - Carnegie Mellon University
+ - [https://users.ece.cmu.edu](https://users.ece.cmu.edu)
+ - date published: 2023-10-25T18:49:47.511158+00:00
+ - user: None
+ - tags: []
+
+## Homepage -     CMU - Carnegie Mellon University
+ - [https://www.cmu.edu](https://www.cmu.edu)
+ - date published: 2023-10-25T18:49:49.835716+00:00
+ - user: None
+ - tags: []
+
+## CMU School of Computer Science
+ - [https://www.cs.cmu.edu](https://www.cs.cmu.edu)
+ - date published: 2023-10-25T18:49:52.744969+00:00
+ - user: None
+ - tags: []
+
+## Department of Mathematical Sciences
+ - [https://www.math.cmu.edu](https://www.math.cmu.edu)
+ - date published: 2023-10-25T18:49:53.580780+00:00
+ - user: None
+ - tags: []
+
+## The Robotics Institute Carnegie Mellon University : Robotics Education and Research Leader
+ - [https://www.ri.cmu.edu](https://www.ri.cmu.edu)
+ - date published: 2023-11-29T17:37:28.886724+00:00
+ - user: None
+ - tags: []
+
+## Home | University of Colorado Boulder
+ - [https://www.colorado.edu](https://www.colorado.edu)
+ - date published: 2023-10-25T18:49:55.392617+00:00
+ - user: None
+ - tags: []
+
+## Colorado State University News - SOURCE
+ - [https://source.colostate.edu](https://source.colostate.edu)
+ - date published: 2023-11-29T17:19:55.036565+00:00
+ - user: None
+ - tags: []
+
+## Columbia Magazine
+ - [https://magazine.columbia.edu](https://magazine.columbia.edu)
+ - date published: 2023-10-25T18:49:57.691308+00:00
+ - user: None
+ - tags: []
+
+## Columbia News
+ - [https://news.columbia.edu](https://news.columbia.edu)
+ - date published: 2023-12-05T18:08:58.749533+00:00
+ - user: None
+ - tags: []
+
+## Statistical Modeling, Causal Inference, and Social Science
+ - [https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu)
+ - date published: 2023-10-25T18:50:02.076404+00:00
+ - user: None
+ - tags: []
+
+## ViperGPT: Visual Inference via Python Execution for Reasoning
+ - [https://viper.cs.columbia.edu](https://viper.cs.columbia.edu)
+ - date published: 2023-10-25T18:50:05.789837+00:00
+ - user: None
+ - tags: []
+
+## Herbert Irving Comprehensive Cancer Center (HICCC) - New York
+ - [https://www.cancer.columbia.edu](https://www.cancer.columbia.edu)
+ - date published: 2023-10-25T18:50:13.811298+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science, Columbia University
+ - [https://www.cs.columbia.edu](https://www.cs.columbia.edu)
+ - date published: 2023-10-25T18:50:17.823882+00:00
+ - user: None
+ - tags: []
+
+## Columbia University Irving Medical Center
+ - [https://www.cuimc.columbia.edu](https://www.cuimc.columbia.edu)
+ - date published: 2023-10-25T18:50:21.143055+00:00
+ - user: None
+ - tags: []
+
+## Department of Mathematics at Columbia University - Welcome
+ - [https://www.math.columbia.edu](https://www.math.columbia.edu)
+ - date published: 2023-10-25T18:50:23.763635+00:00
+ - user: None
+ - tags: []
+
+## Department of Statistics - Columbia University
+ - [http://www.stat.columbia.edu](http://www.stat.columbia.edu)
+ - date published: 2023-10-25T18:50:28.275767+00:00
+ - user: None
+ - tags: []
+
+## Zero-1-to-3: Zero-shot One Image to 3D Object
+ - [https://zero123.cs.columbia.edu](https://zero123.cs.columbia.edu)
+ - date published: 2023-10-25T18:50:29.530822+00:00
+ - user: None
+ - tags: []
+
+## Columbia | Zuckerman Institute
+ - [https://zuckermaninstitute.columbia.edu](https://zuckermaninstitute.columbia.edu)
+ - date published: 2023-10-25T18:50:31.676775+00:00
+ - user: None
+ - tags: []
+
+## Cornell Virtual Workshop
+ - [https://cvw.cac.cornell.edu](https://cvw.cac.cornell.edu)
+ - date published: 2023-10-25T18:50:32.946582+00:00
+ - user: None
+ - tags: []
+
+## Learning Strategies Center – Academic Support at Cornell University
+ - [https://lsc.cornell.edu](https://lsc.cornell.edu)
+ - date published: 2023-10-25T18:50:35.715625+00:00
+ - user: None
+ - tags: []
+
+## Home | Cornell Chronicle
+ - [https://news.cornell.edu](https://news.cornell.edu)
+ - date published: 2023-10-25T18:50:38.276285+00:00
+ - user: None
+ - tags: []
+
+## Newsroom | Weill Cornell Medicine
+ - [https://news.weill.cornell.edu](https://news.weill.cornell.edu)
+ - date published: 2023-10-25T18:50:39.847779+00:00
+ - user: None
+ - tags: []
+
+## Electrical and Computer Engineering | Electrical and Computer Engineering
+ - [https://people.ece.cornell.edu](https://people.ece.cornell.edu)
+ - date published: 2023-10-25T18:50:42.502337+00:00
+ - user: None
+ - tags: []
+
+## http://pi.math.cornell.edu
+ - [http://pi.math.cornell.edu](http://pi.math.cornell.edu)
+ - date published: 2023-10-25T18:50:43.600153+00:00
+ - user: None
+ - tags: []
+
+## Follow the Story – Research & Innovation
+ - [https://research.cornell.edu](https://research.cornell.edu)
+ - date published: 2023-10-25T18:50:46.764859+00:00
+ - user: None
+ - tags: []
+
+## Home | Department of Computer Science
+ - [https://www.cs.cornell.edu](https://www.cs.cornell.edu)
+ - date published: 2023-10-25T18:50:50.915149+00:00
+ - user: None
+ - tags: []
+
+## CU Anschutz Newsroom
+ - [https://news.cuanschutz.edu](https://news.cuanschutz.edu)
+ - date published: 2023-10-25T18:50:58.468453+00:00
+ - user: None
+ - tags: []
+
+## The City College of New York
+ - [https://www.ccny.cuny.edu](https://www.ccny.cuny.edu)
+ - date published: 2023-10-25T18:51:01.179182+00:00
+ - user: None
+ - tags: []
+
+## Mathematics at Dartmouth
+ - [https://math.dartmouth.edu](https://math.dartmouth.edu)
+ - date published: 2023-10-25T18:51:02.976336+00:00
+ - user: None
+ - tags: []
+
+## User Homepages @Drew University
+ - [https://users.drew.edu](https://users.drew.edu)
+ - date published: 2023-11-14T23:58:00.601263+00:00
+ - user: None
+ - tags: []
+
+## Drexel Home
+ - [https://drexel.edu](https://drexel.edu)
+ - date published: 2023-10-25T18:51:05.420930+00:00
+ - user: None
+ - tags: []
+
+## Duke Today | Duke Today
+ - [https://today.duke.edu](https://today.duke.edu)
+ - date published: 2023-10-25T18:51:07.229842+00:00
+ - user: None
+ - tags: []
+
+## Duke University School of Law
+ - [https://web.law.duke.edu](https://web.law.duke.edu)
+ - date published: 2023-10-25T11:22:18.328920+00:00
+ - user: None
+ - tags: []
+
+## Duke University Press
+ - [https://read.dukeupress.edu](https://read.dukeupress.edu)
+ - date published: 2023-10-25T18:51:09.503912+00:00
+ - user: None
+ - tags: []
+
 ## FIU News - Florida International University
  - [https://news.fiu.edu](https://news.fiu.edu)
  - date published: 2023-10-30T12:42:14.738633+00:00
@@ -5231,6 +5447,12 @@
  - user: None
  - tags: []
 
+## Ankur Sethi is Alive and Well
+ - [https://ankursethi.in](https://ankursethi.in)
+ - date published: 2023-12-07T07:31:02.391661+00:00
+ - user: None
+ - tags: ['personal']
+
 ## bitspook's online home
  - [https://bitspook.in](https://bitspook.in)
  - date published: 2023-10-25T19:30:19.995909+00:00
@@ -5780,228 +6002,6 @@
 ## persistent.info
  - [https://blog.persistent.info](https://blog.persistent.info)
  - date published: 2023-10-25T19:34:18.685599+00:00
- - user: None
- - tags: []
-
-## Blago's blog
- - [https://petrovs.info](https://petrovs.info)
- - date published: 2023-10-25T19:34:19.745447+00:00
- - user: None
- - tags: []
-
-## Photography Insider Info - Bringing you news, 'How to's and product reviews.
- - [https://photographyinsider.info](https://photographyinsider.info)
- - date published: 2023-10-25T19:34:22.142955+00:00
- - user: None
- - tags: []
-
-## Paul Lawitzki | software developer and game designer
- - [https://plaw.info](https://plaw.info)
- - date published: 2023-10-28T20:36:03.449600+00:00
- - user: None
- - tags: ['personal']
-
-## Popular Information | Judd Legum | Substack
- - [https://popular.info](https://popular.info)
- - date published: 2023-10-25T19:34:25.675630+00:00
- - user: None
- - tags: []
-
-## Rondam Ramblings
- - [https://blog.rongarret.info](https://blog.rongarret.info)
- - date published: 2023-10-25T19:34:32.423814+00:00
- - user: None
- - tags: []
-
-## RubyDoc.info: Documenting RubyGems, Stdlib, and GitHub Projects
- - [https://www.rubydoc.info](https://www.rubydoc.info)
- - date published: 2023-10-25T19:34:33.683850+00:00
- - user: None
- - tags: []
-
-## Introduction ⋅ Saint Helena Island Info ⋅ About St Helena, in the South Atlantic Ocean
- - [https://sainthelenaisland.info](https://sainthelenaisland.info)
- - date published: 2023-10-25T19:34:34.589017+00:00
- - user: None
- - tags: []
-
-## Unofficial Road to Dynamic Server Meshing
- - [https://sc-server-meshing.info](https://sc-server-meshing.info)
- - date published: 2023-10-25T19:34:35.685051+00:00
- - user: None
- - tags: []
-
-## Penetration Testing • Information Security
- - [https://securityonline.info](https://securityonline.info)
- - date published: 2023-10-25T19:34:38.319127+00:00
- - user: None
- - tags: []
-
-## NO STARTTLS
- - [https://nostarttls.secvuln.info](https://nostarttls.secvuln.info)
- - date published: 2023-10-25T19:34:40.409030+00:00
- - user: None
- - tags: []
-
-## Sharpening Handbook
- - [https://www.sharpeninghandbook.info](https://www.sharpeninghandbook.info)
- - date published: 2023-10-25T19:34:43.069211+00:00
- - user: None
- - tags: []
-
-## Home | South Huntington Public Library
- - [https://shpl.info](https://shpl.info)
- - date published: 2023-10-27T10:21:40.029446+00:00
- - user: None
- - tags: ['library']
-
-## SteamDB
- - [https://steamdb.info](https://steamdb.info)
- - date published: 2023-10-25T11:10:17.724172+00:00
- - user: None
- - tags: ['ranking']
-
-## STREFAX.INFO
- - [http://www.strefax.info](http://www.strefax.info)
- - date published: 2023-10-25T19:34:47.279779+00:00
- - user: None
- - tags: []
-
-## Synopse Open Source
- - [https://blog.synopse.info](https://blog.synopse.info)
- - date published: 2023-10-25T19:34:50.307658+00:00
- - user: None
- - tags: []
-
-## The Quentin Tarantino Archives
- - [https://www.tarantino.info](https://www.tarantino.info)
- - date published: 2023-11-13T12:49:58.808834+00:00
- - user: None
- - tags: []
-
-## Śląsk, Tarnowskie Góry, powiat tarnogórski – Wiadomości Śląsk, wiadomości śląskie
- - [https://tarnogorski.info](https://tarnogorski.info)
- - date published: 2023-10-25T19:34:59.853761+00:00
- - user: None
- - tags: []
-
-## the federation - a statistics hub
- - [https://the-federation.info](https://the-federation.info)
- - date published: 2023-10-25T19:35:01.060125+00:00
- - user: None
- - tags: []
-
-## Home :: Tim Baumann
- - [https://timbaumann.info](https://timbaumann.info)
- - date published: 2023-10-25T19:35:02.325743+00:00
- - user: None
- - tags: []
-
-## blog.tripu.info — blog.tripu.info
- - [https://blog.tripu.info](https://blog.tripu.info)
- - date published: 2023-10-25T19:35:05.983281+00:00
- - user: None
- - tags: []
-
-## TVP Info - najnowsze informacje z kraju i ze świata, wideo, transmisje on-line i relacje na żywo.
- - [https://www.tvp.info](https://www.tvp.info)
- - date published: 2023-10-25T19:35:11.469749+00:00
- - user: None
- - tags: []
-
-## Urbanet: Expert Platform for Sustainable Urban Development
- - [https://www.urbanet.info](https://www.urbanet.info)
- - date published: 2023-10-25T19:35:15.436555+00:00
- - user: None
- - tags: []
-
-## vittorio romeo's website
- - [https://vittorioromeo.info](https://vittorioromeo.info)
- - date published: 2023-10-25T19:35:17.550121+00:00
- - user: None
- - tags: []
-
-## VRFD
- - [https://vrfd.info](https://vrfd.info)
- - date published: 2023-10-25T19:35:22.177478+00:00
- - user: None
- - tags: []
-
-## Warcraft 3 News
- - [https://warcraft3.info](https://warcraft3.info)
- - date published: 2023-10-29T10:38:10.519061+00:00
- - user: None
- - tags: ['warcraft']
-
-## WhatIFF? Online Amiga Magazine
- - [https://whatiff.info](https://whatiff.info)
- - date published: 2023-11-02T10:01:50.738950+00:00
- - user: None
- - tags: []
-
-## Whole Earth Index
- - [https://wholeearth.info](https://wholeearth.info)
- - date published: 2023-10-25T19:35:32.261085+00:00
- - user: None
- - tags: []
-
-## Somewhere Within Boredom – A Site About Stuff
- - [https://withinboredom.info](https://withinboredom.info)
- - date published: 2023-10-25T19:35:34.226325+00:00
- - user: None
- - tags: []
-
-## Worldometer - real time world statistics
- - [https://www.worldometers.info](https://www.worldometers.info)
- - date published: 2023-10-25T19:35:37.800327+00:00
- - user: None
- - tags: []
-
-## ∑ Xah Code
- - [http://xahlee.info](http://xahlee.info)
- - date published: 2023-10-25T19:35:40.088312+00:00
- - user: None
- - tags: []
-
-## XRain - Rainfall statistics for the globe
- - [https://xrain.info](https://xrain.info)
- - date published: 2023-10-25T19:35:41.888661+00:00
- - user: None
- - tags: []
-
-## XtoF’s Lair
- - [https://www.xtof.info](https://www.xtof.info)
- - date published: 2023-11-05T23:15:15.251290+00:00
- - user: None
- - tags: []
-
-## Yeovil's Virtual Museum, the A-to-Z of Yeovil's History - by Bob Osborn
- - [https://www.yeovilhistory.info](https://www.yeovilhistory.info)
- - date published: 2023-10-27T11:57:14.443681+00:00
- - user: None
- - tags: []
-
-## Zero-k: A libre sci-fi RTS game, with an economy based on metal and energy
- - [https://zero-k.info](https://zero-k.info)
- - date published: 2023-11-19T10:43:09+00:00
- - user: None
- - tags: []
-
-## .ing TLD now generally available
- - [https://get.ing](https://get.ing)
- - date published: 2023-12-05T16:19:39+00:00
- - user: None
- - tags: []
-
-## Capsule | Share a link, tell a story.
- - [https://www.capsulel.ink](https://www.capsulel.ink)
- - date published: 2023-10-27T11:57:16.396518+00:00
- - user: None
- - tags: []
-
-## Karektar
- - [https://karektar.newtrino.ink](https://karektar.newtrino.ink)
- - date published: 2023-10-25T08:36:49.514752+00:00
  - user: None
  - tags: []
 

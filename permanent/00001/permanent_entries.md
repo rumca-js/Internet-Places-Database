@@ -1,3 +1,27 @@
+## 10x Editor
+ - [https://10xeditor.com](https://10xeditor.com)
+ - date published: 2023-10-25T12:26:15.844440+00:00
+ - user: None
+ - tags: []
+
+## Conor Bergin's Blog
+ - [https://1299651405.com](https://1299651405.com)
+ - date published: 2023-10-25T09:04:03.821322+00:00
+ - user: None
+ - tags: ['personal']
+
+## WTVG | 13Action News, Local News and Weather
+ - [https://www.13abc.com](https://www.13abc.com)
+ - date published: 2023-10-31T13:19:09.774057+00:00
+ - user: None
+ - tags: []
+
+## Access Denied
+ - [https://www.13newsnow.com](https://www.13newsnow.com)
+ - date published: 2023-11-08T01:58:27.155648+00:00
+ - user: None
+ - tags: []
+
 ## Rochester News, Weather, Sports, Breaking News | WHAM
  - [https://13wham.com](https://13wham.com)
  - date published: 2023-11-02T23:08:08.908311+00:00
@@ -451,6 +475,12 @@
 ## About Chromebooks
  - [https://www.aboutchromebooks.com](https://www.aboutchromebooks.com)
  - date published: 2023-10-25T12:30:39.841135+00:00
+ - user: None
+ - tags: []
+
+## Home - Robinhood Newsroom
+ - [https://newsroom.aboutrobinhood.com](https://newsroom.aboutrobinhood.com)
+ - date published: 2023-12-07T07:03:06.977633+00:00
  - user: None
  - tags: []
 
@@ -1125,6 +1155,12 @@
  - date published: 2023-10-25T12:36:54.679172+00:00
  - user: None
  - tags: []
+
+## Ajay Rajani
+ - [http://www.ajayrajani.com](http://www.ajayrajani.com)
+ - date published: 2023-12-07T17:38:48.432955+00:00
+ - user: None
+ - tags: ['personal']
 
 ## GDPR Support
  - [https://www.ajc.com](https://www.ajc.com)
@@ -5959,42 +5995,6 @@
 ## BratGPT
  - [https://bratgpt.com](https://bratgpt.com)
  - date published: 2023-10-25T13:11:44.999443+00:00
- - user: None
- - tags: []
-
-## Secure, Fast, & Private Web Browser with Adblocker | Brave
- - [https://brave.com](https://brave.com)
- - date published: 2023-10-25T08:40:27.018948+00:00
- - user: None
- - tags: []
-
-## Brave Search
- - [https://search.brave.com](https://search.brave.com)
- - date published: 2023-10-30T12:58:01.536939+00:00
- - user: None
- - tags: ['search engine']
-
-## https://support.brave.com
- - [https://support.brave.com](https://support.brave.com)
- - date published: 2023-10-25T13:11:46.961415+00:00
- - user: None
- - tags: []
-
-## Learn to Program the World's Most Bodacious Language with Clojure for the Brave and True
- - [https://www.braveclojure.com](https://www.braveclojure.com)
- - date published: 2023-10-25T13:11:48.651722+00:00
- - user: None
- - tags: []
-
-## Brave New Geek – Introspections of a software engineer
- - [https://bravenewgeek.com](https://bravenewgeek.com)
- - date published: 2023-10-25T13:11:55.311751+00:00
- - user: None
- - tags: []
-
-## Breaking Defense
- - [https://breakingdefense.com](https://breakingdefense.com)
- - date published: 2023-11-17T17:14:20.850154+00:00
  - user: None
  - tags: []
 

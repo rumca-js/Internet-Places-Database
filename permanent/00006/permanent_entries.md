@@ -1,3 +1,147 @@
+## OpenAI Status
+ - [https://status.openai.com](https://status.openai.com)
+ - date published: 2023-10-25T16:26:27.103892+00:00
+ - user: None
+ - tags: []
+
+## Home | OpenBSD Handbook
+ - [https://www.openbsdhandbook.com](https://www.openbsdhandbook.com)
+ - date published: 2023-10-25T16:26:28.495244+00:00
+ - user: None
+ - tags: []
+
+## OpenBW – free and open-source
+ - [http://www.openbw.com](http://www.openbw.com)
+ - date published: 2023-10-30T13:52:51.432424+00:00
+ - user: None
+ - tags: ['open source', 'starcraft']
+
+## OpenCage blog - what's new at OpenCage
+ - [https://blog.opencagedata.com](https://blog.opencagedata.com)
+ - date published: 2023-10-25T16:26:29.828123+00:00
+ - user: None
+ - tags: []
+
+## Home | Open Core Ventures
+ - [https://opencoreventures.com](https://opencoreventures.com)
+ - date published: 2023-10-25T16:26:31.896557+00:00
+ - user: None
+ - tags: []
+
+## OpenCritic - The top critics in gaming. All in one place.
+ - [https://opencritic.com](https://opencritic.com)
+ - date published: 2023-10-27T07:30:11.127691+00:00
+ - user: None
+ - tags: ['game news']
+
+## The best free cultural & educational media on the web - Open Culture
+ - [https://www.openculture.com](https://www.openculture.com)
+ - date published: 2023-10-25T09:28:29.608798+00:00
+ - user: None
+ - tags: []
+
+## Cloud Delivered Enterprise Security by OpenDNS
+ - [https://www.opendns.com](https://www.opendns.com)
+ - date published: 2023-10-30T12:52:26.123819+00:00
+ - user: None
+ - tags: ['dns']
+
+## Home | OpenFaaS - Serverless Functions Made Simple
+ - [https://www.openfaas.com](https://www.openfaas.com)
+ - date published: 2023-10-25T16:26:32.887003+00:00
+ - user: None
+ - tags: []
+
+## The Open Heart Project - Susan Piver
+ - [https://openheartproject.com](https://openheartproject.com)
+ - date published: 2023-10-25T16:26:38.251087+00:00
+ - user: None
+ - tags: []
+
+## Openlayer - The evaluation workspace for machine learning
+ - [https://www.openlayer.com](https://www.openlayer.com)
+ - date published: 2023-10-25T16:26:39.469662+00:00
+ - user: None
+ - tags: []
+
+## Advancing connectivity for all | Opensignal
+ - [https://www.opensignal.com](https://www.opensignal.com)
+ - date published: 2023-10-25T16:26:41.916120+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Open Source Heroes – Explore the world of Open Source
+ - [https://opensource-heroes.com](https://opensource-heroes.com)
+ - date published: 2023-11-06T18:16:28+00:00
+ - user: None
+ - tags: []
+
+## OpenSSH
+ - [https://www.openssh.com](https://www.openssh.com)
+ - date published: 2023-10-25T08:32:56.764937+00:00
+ - user: None
+ - tags: []
+
+## 503 Backend fetch failed
+ - [https://blog.opensubtitles.com](https://blog.opensubtitles.com)
+ - date published: 2023-11-16T14:55:26.595310+00:00
+ - user: None
+ - tags: []
+
+## OpenSX70
+ - [https://opensx70.com](https://opensx70.com)
+ - date published: 2023-11-01T08:42:52.647761+00:00
+ - user: None
+ - tags: []
+
+## Open Magazine
+ - [https://openthemagazine.com](https://openthemagazine.com)
+ - date published: 2023-10-25T16:26:47.462037+00:00
+ - user: None
+ - tags: []
+
+## Interactive Vim tutorial
+ - [https://www.openvim.com](https://www.openvim.com)
+ - date published: 2023-10-25T09:27:45.430152+00:00
+ - user: None
+ - tags: []
+
+## Openwall - bringing security into open computing environments
+ - [https://www.openwall.com](https://www.openwall.com)
+ - date published: 2023-10-25T16:26:56.278778+00:00
+ - user: None
+ - tags: []
+
+## The Opera Blog - News | Opera
+ - [https://blogs.opera.com](https://blogs.opera.com)
+ - date published: 2023-10-25T11:29:22.476464+00:00
+ - user: None
+ - tags: []
+
+## Opera Web Browser | Faster, Safer, Smarter | Opera
+ - [https://www.opera.com](https://www.opera.com)
+ - date published: 2023-11-01T08:41:07.913556+00:00
+ - user: None
+ - tags: []
+
+## Ant-Like Persistence
+ - [https://blog.oppedahl.com](https://blog.oppedahl.com)
+ - date published: 2023-10-25T16:27:01.429670+00:00
+ - user: None
+ - tags: []
+
+## Smartfony i akcesoria OPPO | OPPO Polska
+ - [https://www.oppo.com](https://www.oppo.com)
+ - date published: 2023-10-25T11:26:11.032644+00:00
+ - user: None
+ - tags: ['company']
+
+## Opposite Invictus
+ - [https://oppositeinvictus.com](https://oppositeinvictus.com)
+ - date published: 2023-10-25T16:27:04.778062+00:00
+ - user: None
+ - tags: []
+
 ## Optimising Nutrition
  - [https://optimisingnutrition.com](https://optimisingnutrition.com)
  - date published: 2023-10-25T16:27:10.295055+00:00
@@ -3478,6 +3622,12 @@
  - user: None
  - tags: []
 
+## Show HN: Recompyle – A JavaScript Developer Friendly Console / Debugger
+ - [https://www.recompyle.com](https://www.recompyle.com)
+ - date published: 2023-12-07T14:05:47+00:00
+ - user: None
+ - tags: []
+
 ## Jobs at Tab
  - [https://tab.recruitee.com](https://tab.recruitee.com)
  - date published: 2023-10-25T16:47:24.237212+00:00
@@ -4732,6 +4882,12 @@
  - user: None
  - tags: []
 
+## RorVsWild - All-in-one server monitoring for Ruby on Rails applications
+ - [https://www.rorvswild.com](https://www.rorvswild.com)
+ - date published: 2023-12-07T14:48:44.621698+00:00
+ - user: None
+ - tags: []
+
 ## MacBook Repair Austin | (347) 552-2258 | Rossmann Repair Group
  - [https://www.rossmanngroup.com](https://www.rossmanngroup.com)
  - date published: 2023-11-03T10:37:01.928688+00:00
@@ -5410,6 +5566,12 @@
  - user: None
  - tags: []
 
+## https://www.scarletink.com
+ - [https://www.scarletink.com](https://www.scarletink.com)
+ - date published: 2023-12-07T08:41:07.140775+00:00
+ - user: None
+ - tags: []
+
 ## Scary Pockets
  - [https://www.scarypocketsfunk.com](https://www.scarypocketsfunk.com)
  - date published: 2023-10-30T13:30:50.613174+00:00
@@ -5839,168 +6001,6 @@
 ## Secret Art of Science
  - [https://secretartofscience.com](https://secretartofscience.com)
  - date published: 2023-10-25T17:01:12.115930+00:00
- - user: None
- - tags: []
-
-## Secret Mission DC: a fun and interactive scavenger hunt around the city
- - [https://secretmissiondc.com](https://secretmissiondc.com)
- - date published: 2023-10-25T17:01:13.451456+00:00
- - user: None
- - tags: []
-
-## Secret San Francisco - Your Complete Guide To Things To Do In San Francisco
- - [https://secretsanfrancisco.com](https://secretsanfrancisco.com)
- - date published: 2023-10-25T17:01:15.070667+00:00
- - user: None
- - tags: []
-
-## Secrets of Success
- - [https://www.secretsofsuccess.com](https://www.secretsofsuccess.com)
- - date published: 2023-11-03T15:08:00.408650+00:00
- - user: None
- - tags: []
-
-## Heuristic Application Security Management Platform | Secure Blink
- - [https://www.secureblink.com](https://www.secureblink.com)
- - date published: 2023-10-25T17:01:18.017496+00:00
- - user: None
- - tags: []
-
-## Securelist | Kaspersky’s threat research and reports
- - [https://securelist.com](https://securelist.com)
- - date published: 2023-10-25T11:32:51.852760+00:00
- - user: None
- - tags: []
-
-## Symantec Enterprise Blogs
- - [https://symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com)
- - date published: 2023-10-25T17:01:22.426033+00:00
- - user: None
- - tags: []
-
-## Security Affairs - Read, think, share … Security is everyone's responsibility
- - [https://securityaffairs.com](https://securityaffairs.com)
- - date published: 2023-10-25T09:35:33.117030+00:00
- - user: None
- - tags: []
-
-## Security Magazine | The business magazine for security executives
- - [https://www.securitymagazine.com](https://www.securitymagazine.com)
- - date published: 2023-10-25T17:01:25.815257+00:00
- - user: None
- - tags: []
-
-## Cybersecurity News, Insights and Analysis | SecurityWeek
- - [https://www.securityweek.com](https://www.securityweek.com)
- - date published: 2023-10-25T09:35:37.584443+00:00
- - user: None
- - tags: []
-
-## Security Wale | Aditya Patel | Substack
- - [https://www.secwale.com](https://www.secwale.com)
- - date published: 2023-10-25T17:01:27.543178+00:00
- - user: None
- - tags: []
-
-## Seeking Alpha | Stock Market Analysis & Tools for Investors
- - [https://seekingalpha.com](https://seekingalpha.com)
- - date published: 2023-10-25T17:01:28.875847+00:00
- - user: None
- - tags: []
-
-## Software Development Tools by SEGGER – The Embedded Experts
- - [https://www.segger.com](https://www.segger.com)
- - date published: 2023-10-25T17:01:38.604350+00:00
- - user: None
- - tags: []
-
-## Segment Anything | Meta AI
- - [https://segment-anything.com](https://segment-anything.com)
- - date published: 2023-10-25T17:01:39.445324+00:00
- - user: None
- - tags: []
-
-## Seinfeld - A site for all of us Seinfeld Fans!
- - [https://www.seinfeldscripts.com](https://www.seinfeldscripts.com)
- - date published: 2023-10-25T17:01:41.058524+00:00
- - user: None
- - tags: []
-
-## Seldo.com
- - [https://seldo.com](https://seldo.com)
- - date published: 2023-10-25T17:01:43.879007+00:00
- - user: None
- - tags: []
-
-## The Open Web
- - [https://seldomlogical.com](https://seldomlogical.com)
- - date published: 2023-11-29T15:46:15.297293+00:00
- - user: None
- - tags: ['personal']
-
-## Sam's Blog
- - [https://selectfromwhereand.com](https://selectfromwhereand.com)
- - date published: 2023-11-19T07:59:28.405717+00:00
- - user: None
- - tags: ['personal']
-
-## Semafor - An intelligent, transparent global news platform for breaking stories, analysis and video
- - [https://www.semafor.com](https://www.semafor.com)
- - date published: 2023-10-25T10:38:55.032682+00:00
- - user: None
- - tags: []
-
-## Continuous Integration & Delivery - Semaphore
- - [https://semaphoreci.com](https://semaphoreci.com)
- - date published: 2023-10-25T17:01:46.828627+00:00
- - user: None
- - tags: []
-
-## SemiAnalysis | Dylan Patel | Substack
- - [https://www.semianalysis.com](https://www.semianalysis.com)
- - date published: 2023-10-25T17:01:49.736351+00:00
- - user: None
- - tags: []
-
-## Semiconductor Engineering - Deep Insights For Chip Engineers
- - [https://semiengineering.com](https://semiengineering.com)
- - date published: 2023-10-25T17:01:53.874840+00:00
- - user: None
- - tags: []
-
-## SemiWiki - All Things Semiconductor!
- - [https://semiwiki.com](https://semiwiki.com)
- - date published: 2023-10-25T17:02:04.737377+00:00
- - user: None
- - tags: []
-
-## Sennheiser — Headphones, Microphones, Wireless Systems
- - [https://en-us.sennheiser.com](https://en-us.sennheiser.com)
- - date published: 2023-10-30T18:21:56.549124+00:00
- - user: None
- - tags: ['audio']
-
-## Sennheiser — Headphones, Microphones, Wireless Systems
- - [https://sennheiser.com](https://sennheiser.com)
- - date published: 2023-10-30T18:22:42.525350+00:00
- - user: None
- - tags: ['company', 'audio']
-
-## SenseGlove | Feel the virtual like it’s real
- - [https://www.senseglove.com](https://www.senseglove.com)
- - date published: 2023-11-27T16:17:59+00:00
- - user: rumpel
- - tags: ['virtual reality']
-
-## Separate Concerns
- - [https://blog.separateconcerns.com](https://blog.separateconcerns.com)
- - date published: 2023-10-25T09:26:06.936644+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Sequoia
- - [https://www.sequoiacap.com](https://www.sequoiacap.com)
- - date published: 2023-10-25T08:26:15.206357+00:00
  - user: None
  - tags: []
 

@@ -2668,6 +2668,12 @@
  - user: None
  - tags: []
 
+## Home - SVI
+ - [https://www.svi.edu.au](https://www.svi.edu.au)
+ - date published: 2023-12-07T11:21:21.015197+00:00
+ - user: None
+ - tags: []
+
 ## The University of Sydney - One of the top universities in Australia
  - [https://www.sydney.edu.au](https://www.sydney.edu.au)
  - date published: 2023-10-25T11:21:22.408191+00:00
@@ -3730,6 +3736,12 @@
  - date published: 2023-10-25T10:56:16.934571+00:00
  - user: None
  - tags: []
+
+## CTV News - Breaking News, Canada News Today
+ - [https://www.ctvnews.ca](https://www.ctvnews.ca)
+ - date published: 2023-12-07T21:20:38.599780+00:00
+ - user: None
+ - tags: ['canada news']
 
 ## Cypherpunks Canada
  - [https://cypherpunks.ca](https://cypherpunks.ca)
@@ -5040,6 +5052,12 @@
  - user: None
  - tags: []
 
+## Show HN: Launch your product within hours
+ - [https://shipped.club](https://shipped.club)
+ - date published: 2023-12-07T01:13:21+00:00
+ - user: None
+ - tags: []
+
 ## The Print Shop Club – Create Apple II Print Shop Printouts On-Line!
  - [https://theprintshop.club](https://theprintshop.club)
  - date published: 2023-10-25T12:16:08.782455+00:00
@@ -5772,6 +5790,12 @@
  - user: None
  - tags: []
 
+## Show HN: VideoGist – Useful YouTube video summaries
+ - [https://www.videogist.co](https://www.videogist.co)
+ - date published: 2023-12-07T12:30:15+00:00
+ - user: None
+ - tags: []
+
 ## Video Village · We make apps so you can make movies.
  - [https://videovillage.co](https://videovillage.co)
  - date published: 2023-10-25T12:24:51.172519+00:00
@@ -5967,30 +5991,6 @@
 ## 10 KB Club
  - [https://10kbclub.com](https://10kbclub.com)
  - date published: 2023-10-25T12:26:13.623038+00:00
- - user: None
- - tags: []
-
-## Home - 10stripe
- - [https://www.10stripe.com](https://www.10stripe.com)
- - date published: 2023-11-25T15:08:59.015999+00:00
- - user: None
- - tags: []
-
-## 10x Editor
- - [https://10xeditor.com](https://10xeditor.com)
- - date published: 2023-10-25T12:26:15.844440+00:00
- - user: None
- - tags: []
-
-## Conor Bergin's Blog
- - [https://1299651405.com](https://1299651405.com)
- - date published: 2023-10-25T09:04:03.821322+00:00
- - user: None
- - tags: ['personal']
-
-## WTVG | 13Action News, Local News and Weather
- - [https://www.13abc.com](https://www.13abc.com)
- - date published: 2023-10-31T13:19:09.774057+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,39 @@
+## Brave Search
+ - [https://search.brave.com](https://search.brave.com)
+ - date published: 2023-10-30T12:58:01.536939+00:00
+ - user: None
+ - tags: ['search engine']
+
+## https://support.brave.com
+ - [https://support.brave.com](https://support.brave.com)
+ - date published: 2023-10-25T13:11:46.961415+00:00
+ - user: None
+ - tags: []
+
+## Learn to Program the World's Most Bodacious Language with Clojure for the Brave and True
+ - [https://www.braveclojure.com](https://www.braveclojure.com)
+ - date published: 2023-10-25T13:11:48.651722+00:00
+ - user: None
+ - tags: []
+
+## Brave New Geek – Introspections of a software engineer
+ - [https://bravenewgeek.com](https://bravenewgeek.com)
+ - date published: 2023-10-25T13:11:55.311751+00:00
+ - user: None
+ - tags: []
+
+## Breaking Defense
+ - [https://breakingdefense.com](https://breakingdefense.com)
+ - date published: 2023-11-17T17:14:20.850154+00:00
+ - user: None
+ - tags: []
+
+## Jimmy Breck-McKye
+ - [https://www.breck-mckye.com](https://www.breck-mckye.com)
+ - date published: 2023-10-25T09:19:31.624038+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Breitbart News Network
  - [https://www.breitbart.com](https://www.breitbart.com)
  - date published: 2023-10-25T13:12:01.815080+00:00
@@ -531,6 +567,12 @@
  - date published: 2023-10-25T13:16:31.333309+00:00
  - user: None
  - tags: []
+
+## Cait Gordon—author, editor, baker
+ - [https://caitgordon.com](https://caitgordon.com)
+ - date published: 2023-12-07T17:36:50.956414+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Cal.com | Open Scheduling Infrastructure
  - [https://cal.com](https://cal.com)
@@ -1852,6 +1894,12 @@
  - user: None
  - tags: []
 
+## Certified Mindset Coach - ClarityMind
+ - [http://www.claritymind.com](http://www.claritymind.com)
+ - date published: 2023-12-07T17:37:19.468517+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Before you continue to YouTube
  - [https://clarkecreatives.com](https://clarkecreatives.com)
  - date published: 2023-11-29T14:25:26.288888+00:00
@@ -2468,6 +2516,12 @@
  - date published: 2023-10-25T13:29:34.420261+00:00
  - user: None
  - tags: []
+
+## Coincu News
+ - [https://coincu.com](https://coincu.com)
+ - date published: 2023-12-07T21:27:52+00:00
+ - user: rumpel
+ - tags: ['crypto']
 
 ## Coincu News
  - [https://news.coincu.com](https://news.coincu.com)
@@ -3483,6 +3537,12 @@
  - user: None
  - tags: []
 
+## Show HN: Cujobay – A Modern Alternative to Crunchbase
+ - [https://www.cujobay.com](https://www.cujobay.com)
+ - date published: 2023-12-07T13:22:16+00:00
+ - user: None
+ - tags: []
+
 ## Cult of Mac | Tech and culture through an Apple lens
  - [https://www.cultofmac.com](https://www.cultofmac.com)
  - date published: 2023-10-25T09:32:27.815027+00:00
@@ -3904,6 +3964,12 @@
  - user: None
  - tags: []
 
+## https://danluu.com
+ - [https://danluu.com](https://danluu.com)
+ - date published: 2023-12-07T19:41:48.559063+00:00
+ - user: None
+ - tags: []
+
 ## Dannarchy
  - [https://dannarchy.com](https://dannarchy.com)
  - date published: 2023-11-15T17:57:22.731560+00:00
@@ -3981,6 +4047,12 @@
  - date published: 2023-11-29T14:40:52.055355+00:00
  - user: None
  - tags: []
+
+## Helping professionals work in their Zone of Genius ~ Daria Williamson
+ - [https://dariawilliamson.com](https://dariawilliamson.com)
+ - date published: 2023-12-07T17:36:25.827727+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Darius Foroux | Weekly ideas to become smarter and wealthier
  - [https://dariusforoux.com](https://dariusforoux.com)
@@ -5926,76 +5998,4 @@
  - date published: 2023-10-30T18:27:03.121972+00:00
  - user: None
  - tags: ['game']
-
-## Dylan Paulus
- - [https://www.dylanpaulus.com](https://www.dylanpaulus.com)
- - date published: 2023-10-25T14:00:27.457944+00:00
- - user: None
- - tags: []
-
-## Developer Documentation | Dylibso Developer Resources
- - [https://dev.dylibso.com](https://dev.dylibso.com)
- - date published: 2023-10-25T14:00:28.218108+00:00
- - user: None
- - tags: []
-
-## Welcome!
- - [https://dylibso.com](https://dylibso.com)
- - date published: 2023-10-25T14:00:29.744674+00:00
- - user: None
- - tags: []
-
-## My Dyn Account
- - [https://account.dyn.com](https://account.dyn.com)
- - date published: 2023-10-31T10:25:32.543241+00:00
- - user: None
- - tags: ['dns']
-
-## dys2p
- - [https://dys2p.com](https://dys2p.com)
- - date published: 2023-10-25T14:00:30.903688+00:00
- - user: None
- - tags: []
-
-## Science & technology experiments | coding, data science, ml, cloud, greentech
- - [https://dzidas.com](https://dzidas.com)
- - date published: 2023-10-25T14:00:31.747355+00:00
- - user: None
- - tags: []
-
-## e-Discovery Team | LAW and TECHNOLOGY – Ralph Losey © 2006-2023
- - [https://e-discoveryteam.com](https://e-discoveryteam.com)
- - date published: 2023-10-25T14:00:41.659209+00:00
- - user: None
- - tags: []
-
-## E-Scribe
- - [https://news.e-scribe.com](https://news.e-scribe.com)
- - date published: 2023-10-25T14:00:47.197415+00:00
- - user: None
- - tags: []
-
-## Electronic Arts Home Page - Official EA Site
- - [https://www.ea.com](https://www.ea.com)
- - date published: 2023-10-25T11:27:58.776792+00:00
- - user: None
- - tags: ['fifa', 'company', 'nfl', 'nhl']
-
-## EarlyGame | Your Gaming & Entertainment Hub – News, Guides, Reviews
- - [https://earlygame.com](https://earlygame.com)
- - date published: 2023-10-25T14:00:56.838769+00:00
- - user: None
- - tags: []
-
-## Earslap · Procedural music, art, computation and some other things.
- - [https://earslap.com](https://earslap.com)
- - date published: 2023-10-25T14:00:58.732573+00:00
- - user: None
- - tags: []
-
-## Earth.com -- Earth News, Earth Images, Earth Videos
- - [https://www.earth.com](https://www.earth.com)
- - date published: 2023-10-25T14:01:16.285697+00:00
- - user: None
- - tags: []
 
