@@ -1,3 +1,9 @@
+## Home - 10stripe
+ - [https://www.10stripe.com](https://www.10stripe.com)
+ - date published: 2023-11-25T15:08:59.015999+00:00
+ - user: None
+ - tags: []
+
 ## 10x Editor
  - [https://10xeditor.com](https://10xeditor.com)
  - date published: 2023-10-25T12:26:15.844440+00:00
@@ -651,6 +657,12 @@
  - date published: 2023-10-25T12:32:07.492619+00:00
  - user: None
  - tags: []
+
+## Adam Fisher
+ - [http://adamfishertrumpet.com](http://adamfishertrumpet.com)
+ - date published: 2023-12-08T09:38:35.881969+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Adam Fuhrer | Frontend Engineer
  - [https://adamfuhrer.com](https://adamfuhrer.com)
@@ -3622,6 +3634,12 @@
  - user: None
  - tags: []
 
+## BadCyber – Making infosec journalism great again!
+ - [https://badcyber.com](https://badcyber.com)
+ - date published: 2023-12-08T12:56:36.031332+00:00
+ - user: None
+ - tags: []
+
 ## badssl.com
  - [https://badssl.com](https://badssl.com)
  - date published: 2023-10-25T12:51:47.170559+00:00
@@ -4459,6 +4477,12 @@
 ## BMC Medicine | Home page
  - [https://bmcmedicine.biomedcentral.com](https://bmcmedicine.biomedcentral.com)
  - date published: 2023-10-25T13:00:29.613132+00:00
+ - user: None
+ - tags: []
+
+## BMC Psychology
+ - [https://bmcpsychology.biomedcentral.com](https://bmcpsychology.biomedcentral.com)
+ - date published: 2023-12-08T08:27:20.566591+00:00
  - user: None
  - tags: []
 
@@ -5971,30 +5995,6 @@
 ## Coding – Software is hard
  - [https://blog.brakmic.com](https://blog.brakmic.com)
  - date published: 2023-10-25T13:10:31.279948+00:00
- - user: None
- - tags: []
-
-## Brandingmag | Narrating the discussion
- - [https://www.brandingmag.com](https://www.brandingmag.com)
- - date published: 2023-10-25T13:10:37.084055+00:00
- - user: None
- - tags: []
-
-## Brand New Box - Home Page
- - [https://brandnewbox.com](https://brandnewbox.com)
- - date published: 2023-10-25T13:10:40.871105+00:00
- - user: None
- - tags: []
-
-## Home | Brandon Sanderson
- - [https://www.brandonsanderson.com](https://www.brandonsanderson.com)
- - date published: 2023-10-25T13:11:42.034332+00:00
- - user: None
- - tags: ['writer', 'book']
-
-## BratGPT
- - [https://bratgpt.com](https://bratgpt.com)
- - date published: 2023-10-25T13:11:44.999443+00:00
  - user: None
  - tags: []
 

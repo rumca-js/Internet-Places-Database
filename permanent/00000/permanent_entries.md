@@ -3046,6 +3046,12 @@
  - user: None
  - tags: ['personal']
 
+## Abbe's Road
+ - [https://abbesroad.blog](https://abbesroad.blog)
+ - date published: 2023-12-08T09:38:25.844834+00:00
+ - user: None
+ - tags: ['personal']
+
 ## A Collection of Unmitigated Pedantry – A look at history and popular culture
  - [https://acoup.blog](https://acoup.blog)
  - date published: 2023-10-25T11:59:50.933130+00:00
@@ -5987,10 +5993,4 @@
  - date published: 2023-11-29T14:43:05.320699+00:00
  - user: None
  - tags: ['personal']
-
-## 10 KB Club
- - [https://10kbclub.com](https://10kbclub.com)
- - date published: 2023-10-25T12:26:13.623038+00:00
- - user: None
- - tags: []
 

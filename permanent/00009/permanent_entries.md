@@ -1,3 +1,243 @@
+## Which Face Is Real?
+ - [https://www.whichfaceisreal.com](https://www.whichfaceisreal.com)
+ - date published: 2023-10-25T18:03:39.608286+00:00
+ - user: None
+ - tags: []
+
+## David J. Pearce
+ - [https://whileydave.com](https://whileydave.com)
+ - date published: 2023-10-25T18:03:41.534311+00:00
+ - user: None
+ - tags: []
+
+## Whimsy Soul - Find your everyday magic
+ - [https://whimsysoul.com](https://whimsysoul.com)
+ - date published: 2023-10-25T18:03:48.676684+00:00
+ - user: None
+ - tags: []
+
+## Whipsaw: Product Design and Experience Innovation
+ - [https://whipsaw.com](https://whipsaw.com)
+ - date published: 2023-10-25T18:04:05.026714+00:00
+ - user: None
+ - tags: []
+
+## Whisper Memos
+ - [https://whispermemos.com](https://whispermemos.com)
+ - date published: 2023-10-25T18:04:06.690848+00:00
+ - user: None
+ - tags: []
+
+## Closed Captioning Services - White Coat Captioning
+ - [https://whitecoatcaptioning.com](https://whitecoatcaptioning.com)
+ - date published: 2023-10-25T18:04:14.532374+00:00
+ - user: None
+ - tags: []
+
+## Blade Runner White Dragon Cut
+ - [https://whitedragoncut.com](https://whitedragoncut.com)
+ - date published: 2023-11-01T08:43:27.462487+00:00
+ - user: None
+ - tags: []
+
+## Salma Alam-Naylor — live streamer, software engineer and developer educator
+ - [https://whitep4nth3r.com](https://whitep4nth3r.com)
+ - date published: 2023-10-25T18:04:18.275962+00:00
+ - user: None
+ - tags: []
+
+## ✌️ I'm Zoe Chew, Product Builder.
+ - [https://whizzoe.com](https://whizzoe.com)
+ - date published: 2023-10-25T08:58:23.078811+00:00
+ - user: None
+ - tags: ['personal']
+
+## WhoFundsWho – WhoFundsWho instantly shows you who funds the experts, politicians, think tanks and other institutions you are reading about
+ - [https://whofundswho.com](https://whofundswho.com)
+ - date published: 2023-10-25T18:04:21.086464+00:00
+ - user: None
+ - tags: []
+
+## Why.com - Premium category defining domain names for sale, exact match domains
+ - [http://why.com](http://why.com)
+ - date published: 2023-11-12T05:59:10.336738+00:00
+ - user: None
+ - tags: []
+
+## Why Do We Interface?
+ - [https://whydoweinterface.com](https://whydoweinterface.com)
+ - date published: 2023-10-25T18:04:25.390477+00:00
+ - user: None
+ - tags: []
+
+## Why Evolution Is True – Why Evolution is True is a blog written by Jerry Coyne, centered on evolution and biology but also dealing with diverse topics like politics, culture, and cats.
+ - [https://whyevolutionistrue.com](https://whyevolutionistrue.com)
+ - date published: 2023-10-25T18:04:36.858105+00:00
+ - user: None
+ - tags: []
+
+## AWS Wickr | Protecting Communications with End-to-End Encryption
+ - [https://wickr.com](https://wickr.com)
+ - date published: 2023-10-25T18:04:40.910250+00:00
+ - user: None
+ - tags: []
+
+## widgets and shit
+ - [http://widgetsandshit.com](http://widgetsandshit.com)
+ - date published: 2023-10-25T18:04:42.009067+00:00
+ - user: None
+ - tags: []
+
+## WiiLink
+ - [https://www.wiilink24.com](https://www.wiilink24.com)
+ - date published: 2023-10-25T18:04:45.747440+00:00
+ - user: None
+ - tags: []
+
+## WikiBinge: Discover how all things are vaguely connected.
+ - [https://www.wikibinge.com](https://www.wikibinge.com)
+ - date published: 2023-10-25T18:04:47.548936+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia Speedruns!
+ - [https://wikispeedruns.com](https://wikispeedruns.com)
+ - date published: 2023-10-25T18:04:54.204112+00:00
+ - user: None
+ - tags: []
+
+## Billy Wilcosky
+ - [https://www.wilcosky.com](https://www.wilcosky.com)
+ - date published: 2023-10-25T18:05:03.137920+00:00
+ - user: None
+ - tags: []
+
+## Wildbit: Building a people-first business | Wildbit
+ - [https://wildbit.com](https://wildbit.com)
+ - date published: 2023-10-25T18:05:13.348290+00:00
+ - user: None
+ - tags: []
+
+## What is a Wildcard? | Robert Merki
+ - [https://wildcardpeople.com](https://wildcardpeople.com)
+ - date published: 2023-10-25T18:05:20.188372+00:00
+ - user: None
+ - tags: []
+
+## Wildergarden Audio
+ - [https://wildergardenaudio.com](https://wildergardenaudio.com)
+ - date published: 2023-12-03T18:38:27.732143+00:00
+ - user: None
+ - tags: []
+
+## https://agsjournals.onlinelibrary.wiley.com
+ - [https://agsjournals.onlinelibrary.wiley.com](https://agsjournals.onlinelibrary.wiley.com)
+ - date published: 2023-11-08T12:11:17.951453+00:00
+ - user: None
+ - tags: []
+
+## https://agupubs.onlinelibrary.wiley.com
+ - [https://agupubs.onlinelibrary.wiley.com](https://agupubs.onlinelibrary.wiley.com)
+ - date published: 2023-10-25T18:05:22.087600+00:00
+ - user: None
+ - tags: []
+
+## https://alz-journals.onlinelibrary.wiley.com
+ - [https://alz-journals.onlinelibrary.wiley.com](https://alz-journals.onlinelibrary.wiley.com)
+ - date published: 2023-10-25T18:05:29.978998+00:00
+ - user: None
+ - tags: []
+
+## https://ami-journals.onlinelibrary.wiley.com
+ - [https://ami-journals.onlinelibrary.wiley.com](https://ami-journals.onlinelibrary.wiley.com)
+ - date published: 2023-12-02T21:10:55.198296+00:00
+ - user: None
+ - tags: []
+
+## https://anthrosource.onlinelibrary.wiley.com
+ - [https://anthrosource.onlinelibrary.wiley.com](https://anthrosource.onlinelibrary.wiley.com)
+ - date published: 2023-11-23T10:59:41.519476+00:00
+ - user: None
+ - tags: []
+
+## https://bpspsychub.onlinelibrary.wiley.com
+ - [https://bpspsychub.onlinelibrary.wiley.com](https://bpspsychub.onlinelibrary.wiley.com)
+ - date published: 2023-10-31T19:09:57.335556+00:00
+ - user: None
+ - tags: []
+
+## https://compass.onlinelibrary.wiley.com
+ - [https://compass.onlinelibrary.wiley.com](https://compass.onlinelibrary.wiley.com)
+ - date published: 2023-10-25T18:05:30.278884+00:00
+ - user: None
+ - tags: []
+
+## https://febs.onlinelibrary.wiley.com
+ - [https://febs.onlinelibrary.wiley.com](https://febs.onlinelibrary.wiley.com)
+ - date published: 2023-10-25T18:05:30.579131+00:00
+ - user: None
+ - tags: []
+
+## https://myscp.onlinelibrary.wiley.com
+ - [https://myscp.onlinelibrary.wiley.com](https://myscp.onlinelibrary.wiley.com)
+ - date published: 2023-11-07T02:17:31.388440+00:00
+ - user: None
+ - tags: []
+
+## https://onlinelibrary.wiley.com
+ - [https://onlinelibrary.wiley.com](https://onlinelibrary.wiley.com)
+ - date published: 2023-10-25T18:05:35.898602+00:00
+ - user: None
+ - tags: []
+
+## https://physoc.onlinelibrary.wiley.com
+ - [https://physoc.onlinelibrary.wiley.com](https://physoc.onlinelibrary.wiley.com)
+ - date published: 2023-11-12T06:59:06.705475+00:00
+ - user: None
+ - tags: []
+
+## https://srcd.onlinelibrary.wiley.com
+ - [https://srcd.onlinelibrary.wiley.com](https://srcd.onlinelibrary.wiley.com)
+ - date published: 2023-10-25T18:05:36.256171+00:00
+ - user: None
+ - tags: []
+
+## posts
+ - [https://will-keleher.com](https://will-keleher.com)
+ - date published: 2023-10-25T18:05:37.139130+00:00
+ - user: None
+ - tags: []
+
+## Will Brownsberger – STATE SENATOR
+ - [https://willbrownsberger.com](https://willbrownsberger.com)
+ - date published: 2023-10-25T18:05:47.473903+00:00
+ - user: None
+ - tags: []
+
+## Will DePue
+ - [https://blog.willdepue.com](https://blog.willdepue.com)
+ - date published: 2023-10-25T18:05:49.001502+00:00
+ - user: None
+ - tags: []
+
+## Willem Laurentz Middelkoop
+ - [https://willem.com](https://willem.com)
+ - date published: 2023-11-14T16:19:39.927104+00:00
+ - user: None
+ - tags: []
+
+## Will Hackett
+ - [https://notes.willhackett.com](https://notes.willhackett.com)
+ - date published: 2023-10-25T18:05:50.791703+00:00
+ - user: None
+ - tags: []
+
+## Welcome to all those learning Haskell | William Yao
+ - [https://williamyaoh.com](https://williamyaoh.com)
+ - date published: 2023-10-25T18:05:52.874728+00:00
+ - user: None
+ - tags: []
+
 ## William Zeitler-Home
  - [https://williamzeitler.com](https://williamzeitler.com)
  - date published: 2023-11-29T14:22:09.377285+00:00
@@ -765,6 +1005,12 @@
  - date published: 2023-10-25T18:14:01.214703+00:00
  - user: None
  - tags: []
+
+## Sito privato
+ - [https://nefelophagia.wordpress.com](https://nefelophagia.wordpress.com)
+ - date published: 2023-12-08T08:32:06.571645+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Mr. Digital | All Things Digital
  - [https://nicisdigital.wordpress.com](https://nicisdigital.wordpress.com)
@@ -2414,7 +2660,7 @@
  - [https://www.autozeitung.de](https://www.autozeitung.de)
  - date published: 2023-12-06T11:50:31+00:00
  - user: rumpel
- - tags: ['auto news']
+ - tags: ['vehicle news']
 
 ## AWS Works Council Germany
  - [https://www.aws-works-council-initiative.de](https://www.aws-works-council-initiative.de)
@@ -5747,257 +5993,6 @@ home
 ## Zoom Earth | Weather Maps & Live Hurricane Tracker
  - [https://zoom.earth](https://zoom.earth)
  - date published: 2023-10-24T20:19:17.010702+00:00
- - user: None
- - tags: []
-
-## Research @ AU
- - [https://research.american.edu](https://research.american.edu)
- - date published: 2023-10-25T18:46:30.302927+00:00
- - user: None
- - tags: []
-
-## UArizona Health Sciences |
- - [https://healthsciences.arizona.edu](https://healthsciences.arizona.edu)
- - date published: 2023-10-25T18:46:38.005550+00:00
- - user: None
- - tags: []
-
-## Home | University of Arizona News
- - [https://news.arizona.edu](https://news.arizona.edu)
- - date published: 2023-10-25T11:22:13.823722+00:00
- - user: None
- - tags: []
-
-## http://wp.optics.arizona.edu
- - [http://wp.optics.arizona.edu](http://wp.optics.arizona.edu)
- - date published: 2023-10-25T18:46:47.609639+00:00
- - user: None
- - tags: []
-
-## USAWC Press
- - [https://press.armywarcollege.edu](https://press.armywarcollege.edu)
- - date published: 2023-10-25T18:46:57.063005+00:00
- - user: None
- - tags: []
-
-## Downtown Chicago's #1 Museum | The Art Institute of Chicago
- - [https://www.artic.edu](https://www.artic.edu)
- - date published: 2023-11-13T13:48:34.613550+00:00
- - user: None
- - tags: ['museum']
-
-## ASU Now
- - [https://news.asu.edu](https://news.asu.edu)
- - date published: 2023-11-02T16:39:16.908709+00:00
- - user: None
- - tags: []
-
-## Bard College
- - [https://www.bard.edu](https://www.bard.edu)
- - date published: 2023-10-25T18:47:01.280987+00:00
- - user: None
- - tags: []
-
-## Home - Cal Alumni Association
- - [https://alumni.berkeley.edu](https://alumni.berkeley.edu)
- - date published: 2023-10-25T18:47:08.428083+00:00
- - user: None
- - tags: []
-
-## School of Information Sites • sites for the I School community
- - [https://blogs.ischool.berkeley.edu](https://blogs.ischool.berkeley.edu)
- - date published: 2023-10-25T18:47:17.028952+00:00
- - user: None
- - tags: []
-
-## Gorilla
- - [https://gorilla.cs.berkeley.edu](https://gorilla.cs.berkeley.edu)
- - date published: 2023-10-25T18:47:21.878049+00:00
- - user: None
- - tags: []
-
-## Greater Good: The Science of a Meaningful Life
- - [https://greatergood.berkeley.edu](https://greatergood.berkeley.edu)
- - date published: 2023-10-25T18:47:26.081278+00:00
- - user: None
- - tags: []
-
-## EECS Instructional Support Group Home Page
- - [https://inst.eecs.berkeley.edu](https://inst.eecs.berkeley.edu)
- - date published: 2023-10-25T18:47:27.815351+00:00
- - user: None
- - tags: []
-
-## UCB Mathematics | Department of Mathematics at University of California Berkeley
- - [https://math.berkeley.edu](https://math.berkeley.edu)
- - date published: 2023-10-25T18:47:32.688694+00:00
- - user: None
- - tags: []
-
-## UC Berkeley Rausser College of Natural Resources
- - [https://nature.berkeley.edu](https://nature.berkeley.edu)
- - date published: 2023-11-07T06:24:12.895605+00:00
- - user: None
- - tags: []
-
-## Berkeley News | Berkeley
- - [https://news.berkeley.edu](https://news.berkeley.edu)
- - date published: 2023-10-25T18:47:36.594729+00:00
- - user: None
- - tags: []
-
-## Newsroom | Haas News | Berkeley Haas
- - [https://newsroom.haas.berkeley.edu](https://newsroom.haas.berkeley.edu)
- - date published: 2023-10-25T18:47:42.073714+00:00
- - user: None
- - tags: []
-
-## UC Berkeley School of Optometry
- - [https://optometry.berkeley.edu](https://optometry.berkeley.edu)
- - date published: 2023-12-02T21:50:54.268970+00:00
- - user: None
- - tags: []
-
-## Home - Adept Lab at UCBerkeley
- - [https://pbs.cs.berkeley.edu](https://pbs.cs.berkeley.edu)
- - date published: 2023-10-25T18:47:55.838189+00:00
- - user: None
- - tags: []
-
-## People @ EECS at UC Berkeley
- - [https://people.eecs.berkeley.edu](https://people.eecs.berkeley.edu)
- - date published: 2023-10-25T18:47:59.063312+00:00
- - user: None
- - tags: []
-
-## Hello World
- - [https://people.ischool.berkeley.edu](https://people.ischool.berkeley.edu)
- - date published: 2023-10-31T04:18:44.290260+00:00
- - user: None
- - tags: []
-
-## Ptolemy Project Home Page
- - [https://ptolemy.berkeley.edu](https://ptolemy.berkeley.edu)
- - date published: 2023-10-25T18:48:03.786652+00:00
- - user: None
- - tags: []
-
-## SETI@home
- - [https://setiathome.berkeley.edu](https://setiathome.berkeley.edu)
- - date published: 2023-10-25T18:48:06.909632+00:00
- - user: None
- - tags: []
-
-## Statistics at UC Berkeley | Department of Statistics
- - [https://www.stat.berkeley.edu](https://www.stat.berkeley.edu)
- - date published: 2023-10-25T18:48:16.122861+00:00
- - user: None
- - tags: []
-
-## Thomas J. Watson College of Engineering and Applied Science | Binghamton University
- - [http://www.ws.binghamton.edu](http://www.ws.binghamton.edu)
- - date published: 2023-10-25T18:48:19.170626+00:00
- - user: None
- - tags: []
-
-## Brookings - Quality. Independence. Impact.
- - [https://www.brookings.edu](https://www.brookings.edu)
- - date published: 2023-11-05T11:08:07.121051+00:00
- - user: None
- - tags: []
-
-## https://esl.cs.brown.edu
- - [https://esl.cs.brown.edu](https://esl.cs.brown.edu)
- - date published: 2023-10-25T18:48:26.205486+00:00
- - user: None
- - tags: []
-
-## Watson Institute for International and Public Affairs
- - [https://watson.brown.edu](https://watson.brown.edu)
- - date published: 2023-10-25T18:48:34.751888+00:00
- - user: None
- - tags: []
-
-## Homepage | Boston University
- - [https://www.bu.edu](https://www.bu.edu)
- - date published: 2023-10-25T18:48:37.312705+00:00
- - user: None
- - tags: []
-
-## Boston University Medical Campus
- - [https://www.bumc.bu.edu](https://www.bumc.bu.edu)
- - date published: 2023-12-03T14:38:34.468583+00:00
- - user: None
- - tags: []
-
-## Home | Markelz Research Group
- - [http://markelz.physics.buffalo.edu](http://markelz.physics.buffalo.edu)
- - date published: 2023-10-25T18:48:40.190828+00:00
- - user: None
- - tags: []
-
-## Welcome to the University at Buffalo - University at Buffalo
- - [http://www.buffalo.edu](http://www.buffalo.edu)
- - date published: 2023-10-25T18:48:43.864466+00:00
- - user: None
- - tags: []
-
-## News Homepage - BYU News
- - [https://news.byu.edu](https://news.byu.edu)
- - date published: 2023-10-25T18:48:47.775303+00:00
- - user: None
- - tags: []
-
-## Plant & Wildlife Sciences Homepage
- - [https://pws.byu.edu](https://pws.byu.edu)
- - date published: 2023-10-25T18:49:07.807137+00:00
- - user: None
- - tags: []
-
-## http://users.csc.calpoly.edu
- - [http://users.csc.calpoly.edu](http://users.csc.calpoly.edu)
- - date published: 2023-10-25T18:49:10.117700+00:00
- - user: None
- - tags: []
-
-## Welcome to Caltech Magazine (formerly Engineering & Science) - Caltech Magazine
- - [https://calteches.library.caltech.edu](https://calteches.library.caltech.edu)
- - date published: 2023-10-25T18:49:12.742737+00:00
- - user: None
- - tags: []
-
-## Taking to www.astro.caltech.edu
- - [https://sites.astro.caltech.edu](https://sites.astro.caltech.edu)
- - date published: 2023-10-25T18:49:21.036394+00:00
- - user: None
- - tags: []
-
-## Home
-  
-
-     | 
-    
-    www.caltech.edu
- - [https://www.caltech.edu](https://www.caltech.edu)
- - date published: 2023-10-25T18:49:26.802906+00:00
- - user: None
- - tags: []
-
-## The Feynman Lectures on Physics
- - [https://www.feynmanlectures.caltech.edu](https://www.feynmanlectures.caltech.edu)
- - date published: 2023-10-25T18:49:32.962260+00:00
- - user: None
- - tags: []
-
-## ITS - Technology Infrastructure Services
- - [https://tiswww.case.edu](https://tiswww.case.edu)
- - date published: 2023-10-25T18:49:35.427501+00:00
- - user: None
- - tags: []
-
-## Chapman Blogs | Chapman University
- - [https://blogs.chapman.edu](https://blogs.chapman.edu)
- - date published: 2023-10-25T18:49:38.865941+00:00
  - user: None
  - tags: []
 

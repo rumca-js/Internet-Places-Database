@@ -1,3 +1,57 @@
+## Heyeyeyayay - What's Going On?!
+ - [https://hemansings.com](https://hemansings.com)
+ - date published: 2023-10-27T11:03:44.917154+00:00
+ - user: None
+ - tags: ['wtf']
+
+## Residence and Citizenship by Investment | Henley & Partners
+ - [https://www.henleyglobal.com](https://www.henleyglobal.com)
+ - date published: 2023-10-25T14:58:09.969986+00:00
+ - user: None
+ - tags: []
+
+## Henrik Warne's blog | Thoughts on programming…
+ - [https://henrikwarne.com](https://henrikwarne.com)
+ - date published: 2023-10-25T14:58:14.243762+00:00
+ - user: None
+ - tags: []
+
+## || h e n r y m o l o f s k y ||
+ - [https://henrymolofsky.com](https://henrymolofsky.com)
+ - date published: 2023-11-29T17:11:10.218055+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sarasota Herald-Tribune: Local News, Politics & Sports in Sarasota, FL
+ - [https://www.heraldtribune.com](https://www.heraldtribune.com)
+ - date published: 2023-10-25T14:58:17.400791+00:00
+ - user: None
+ - tags: []
+
+## Herb Caudill | Words
+ - [https://herbcaudill.com](https://herbcaudill.com)
+ - date published: 2023-10-25T14:58:20.467859+00:00
+ - user: None
+ - tags: []
+
+## Herbert Bay
+ - [https://herbertbay.com](https://herbertbay.com)
+ - date published: 2023-12-03T15:55:40.583123+00:00
+ - user: None
+ - tags: ['personal']
+
+## @hgraca
+ - [https://herbertograca.com](https://herbertograca.com)
+ - date published: 2023-10-25T14:58:23.339271+00:00
+ - user: None
+ - tags: []
+
+## Sutter’s Mill – Herb Sutter on software development
+ - [https://herbsutter.com](https://herbsutter.com)
+ - date published: 2023-10-25T14:58:30.195792+00:00
+ - user: None
+ - tags: []
+
 ## HeritageDaily - Archaeology News | Latest archaeology news, archaeological discoveries from across the globe
  - [https://www.heritagedaily.com](https://www.heritagedaily.com)
  - date published: 2023-10-25T14:58:36.549810+00:00
@@ -111,6 +165,12 @@
  - date published: 2023-10-25T14:59:12.202317+00:00
  - user: None
  - tags: []
+
+## Hiatt Zhao
+ - [https://www.hiattzhao.com](https://www.hiattzhao.com)
+ - date published: 2023-12-08T08:33:07.683640+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Home :  Stereogram Images, Games, Video and Software. All Free!
  - [https://hidden-3d.com](https://hidden-3d.com)
@@ -1840,6 +1900,12 @@
  - user: None
  - tags: ['israel news']
 
+## Israel Keys
+ - [http://israelkeys.com](http://israelkeys.com)
+ - date published: 2023-12-08T09:39:25.440152+00:00
+ - user: None
+ - tags: ['personal']
+
 ## https://www.israelnationalnews.com
  - [https://www.israelnationalnews.com](https://www.israelnationalnews.com)
  - date published: 2023-11-01T13:25:28.931937+00:00
@@ -3004,6 +3070,12 @@
  - user: None
  - tags: []
 
+## Join me for the ride - Thoughts on how we live
+ - [https://joinmefortheride.com](https://joinmefortheride.com)
+ - date published: 2023-12-08T09:37:46.434802+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Korea JoongAng Daily
  - [https://koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com)
  - date published: 2023-10-25T15:31:01.479422+00:00
@@ -3139,6 +3211,12 @@
 ## Josh Hornby
  - [https://joshhornby.com](https://joshhornby.com)
  - date published: 2023-11-29T16:20:19.966910+00:00
+ - user: None
+ - tags: ['personal']
+
+## Joshua Galinato
+ - [https://joshuagalinato.com](https://joshuagalinato.com)
+ - date published: 2023-12-08T08:32:02.604763+00:00
  - user: None
  - tags: ['personal']
 
@@ -3742,6 +3820,12 @@
  - user: None
  - tags: []
 
+## Authentic Educator – Trusted Leader – Unconventional Scholar
+ - [http://www.keithedwards.com](http://www.keithedwards.com)
+ - date published: 2023-12-08T09:38:59.578693+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Kellan Elliott-McCrea
  - [https://kellanem.com](https://kellanem.com)
  - date published: 2023-10-25T08:58:12.167205+00:00
@@ -4136,6 +4220,12 @@
 ## KMOV | Missouri Local News, Weather, Sports | St. Louis, MO
  - [https://www.kmov.com](https://www.kmov.com)
  - date published: 2023-11-03T13:09:21.024110+00:00
+ - user: None
+ - tags: []
+
+## Fresno News, Weather, Sports, Breaking News | KMPH
+ - [https://kmph.com](https://kmph.com)
+ - date published: 2023-12-08T08:34:04.710175+00:00
  - user: None
  - tags: []
 
@@ -4547,6 +4637,12 @@
  - user: None
  - tags: []
 
+## Inicio - La de grandes detalles
+ - [https://www.ladegrandesdetalles.com](https://www.ladegrandesdetalles.com)
+ - date published: 2023-12-08T20:54:17.181708+00:00
+ - user: None
+ - tags: []
+
 ## Lagged - Free Online Games on Lagged.com
  - [https://lagged.com](https://lagged.com)
  - date published: 2023-10-25T11:16:36.744329+00:00
@@ -4652,6 +4748,12 @@
 ## Jeff Johnson
  - [https://lapcatsoftware.com](https://lapcatsoftware.com)
  - date published: 2023-10-25T15:41:09.925391+00:00
+ - user: None
+ - tags: []
+
+## La Prensa Latina Media
+ - [https://www.laprensalatina.com](https://www.laprensalatina.com)
+ - date published: 2023-12-08T18:09:19.349070+00:00
  - user: None
  - tags: []
 
@@ -5247,7 +5349,7 @@
  - [https://www.lg.com](https://www.lg.com)
  - date published: 2023-10-25T11:28:11.182708+00:00
  - user: None
- - tags: []
+ - tags: ['hardware company']
 
 ## LGBTQ Nation
  - [https://www.lgbtqnation.com](https://www.lgbtqnation.com)
@@ -5399,6 +5501,12 @@
  - user: None
  - tags: []
 
+## Lighthouse Reports
+ - [https://www.lighthousereports.com](https://www.lighthousereports.com)
+ - date published: 2023-12-08T08:31:16.010211+00:00
+ - user: None
+ - tags: []
+
 ## Light in Babylon Official Website
  - [https://www.lightinbabylon.com](https://www.lightinbabylon.com)
  - date published: 2023-11-13T09:54:57.121298+00:00
@@ -5482,6 +5590,12 @@
  - date published: 2023-10-25T08:26:29.738346+00:00
  - user: None
  - tags: ['hosting service']
+
+## Linus Rogge
+ - [https://linusrogge.com](https://linusrogge.com)
+ - date published: 2023-12-08T08:33:18.420569+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Forums - Linus Tech Tips
  - [https://linustechtips.com](https://linustechtips.com)
@@ -5876,120 +5990,6 @@
 ## Londonist - Things to see and do in London
  - [https://londonist.com](https://londonist.com)
  - date published: 2023-10-25T15:50:00.489659+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://londonlovesbusiness.com](https://londonlovesbusiness.com)
- - date published: 2023-11-24T09:54:09.661209+00:00
- - user: None
- - tags: []
-
-## Home - London Reconnections
- - [https://www.londonreconnections.com](https://www.londonreconnections.com)
- - date published: 2023-10-25T15:50:10.542635+00:00
- - user: None
- - tags: []
-
-## LoneBullet: mods | patches | cheats | trainers | maps
- - [https://www.lonebullet.com](https://www.lonebullet.com)
- - date published: 2023-10-27T13:45:11.526040+00:00
- - user: None
- - tags: ['game mods']
-
-## Long Island New York Guide to Hotels, Events, Restaurants, News and more
- - [https://www.longisland.com](https://www.longisland.com)
- - date published: 2023-10-25T15:50:17.627657+00:00
- - user: None
- - tags: []
-
-## Professional repair service for test indicators, micrometers and other precision gages and small hand tools
- - [http://www.longislandindicator.com](http://www.longislandindicator.com)
- - date published: 2023-10-25T15:50:20.401887+00:00
- - user: None
- - tags: []
-
-## Homepage - Longreads
- - [https://longreads.com](https://longreads.com)
- - date published: 2023-10-25T15:50:23.835382+00:00
- - user: None
- - tags: []
-
-## Free screen recorder for Mac and PC | Loom
- - [https://www.loom.com](https://www.loom.com)
- - date published: 2023-10-25T15:50:26.292241+00:00
- - user: None
- - tags: []
-
-## Looney Labs - Shop
- - [https://www.looneylabs.com](https://www.looneylabs.com)
- - date published: 2023-10-25T15:50:28.837760+00:00
- - user: None
- - tags: []
-
-## Product Reviews | Explore and compare the most popular products
- - [https://looria.com](https://looria.com)
- - date published: 2023-10-25T15:50:30.521041+00:00
- - user: None
- - tags: []
-
-## Byte Tank - Pedro Lopes Blog
- - [https://lopespm.com](https://lopespm.com)
- - date published: 2023-10-25T15:50:31.704031+00:00
- - user: None
- - tags: []
-
-## Loris Stavrinides - Freelance Creative/Art Director, Interactive & UI Designer, Digital Artist
- - [https://www.loris-stavrinides.com](https://www.loris-stavrinides.com)
- - date published: 2023-11-29T14:18:50.653950+00:00
- - user: None
- - tags: ['personal']
-
-## https://www.losangelesblade.com
- - [https://www.losangelesblade.com](https://www.losangelesblade.com)
- - date published: 2023-11-12T23:05:23.798766+00:00
- - user: None
- - tags: []
-
-## Lose the Very
- - [https://www.losethevery.com](https://www.losethevery.com)
- - date published: 2023-10-25T15:50:37.735136+00:00
- - user: None
- - tags: []
-
-## Lost Pixel - holistic Visual Regression Testing cloud
- - [https://lost-pixel.com](https://lost-pixel.com)
- - date published: 2023-10-25T15:50:38.858700+00:00
- - user: None
- - tags: []
-
-## Lost Art Press
- - [https://blog.lostartpress.com](https://blog.lostartpress.com)
- - date published: 2023-10-25T15:50:45.522545+00:00
- - user: None
- - tags: []
-
-## Lost Coast Outpost | Humboldt County News
- - [https://lostcoastoutpost.com](https://lostcoastoutpost.com)
- - date published: 2023-10-25T15:50:49.363173+00:00
- - user: None
- - tags: []
-
-## Lost Kingdom Miniatures
- - [https://www.lostkingdomminiatures.com](https://www.lostkingdomminiatures.com)
- - date published: 2023-11-01T18:36:38.479697+00:00
- - user: None
- - tags: ['shop']
-
-## Lost Retro Tapes
- - [https://www.lostretrotapes.com](https://www.lostretrotapes.com)
- - date published: 2023-10-25T15:50:50.741520+00:00
- - user: None
- - tags: []
-
-## Cloudflare
- - [https://www.lotareader.com](https://www.lotareader.com)
- - date published: 2023-10-25T15:50:51.485903+00:00
  - user: None
  - tags: []
 

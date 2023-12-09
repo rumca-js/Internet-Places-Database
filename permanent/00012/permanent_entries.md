@@ -1,3 +1,299 @@
+## Touca
+ - [https://touca.io](https://touca.io)
+ - date published: 2023-10-25T20:11:52.912356+00:00
+ - user: None
+ - tags: []
+
+## Trading Digits: Crypto Analytics & On-Chain Market Intel
+ - [https://www.tradingdigits.io](https://www.tradingdigits.io)
+ - date published: 2023-10-25T20:11:53.641584+00:00
+ - user: None
+ - tags: []
+
+## Trianglify.io · Low Poly Pattern Generator
+ - [https://trianglify.io](https://trianglify.io)
+ - date published: 2023-10-25T20:11:58.974290+00:00
+ - user: None
+ - tags: []
+
+## tRPC - Move Fast and Break Nothing.
+End-to-end typesafe APIs made easy. | tRPC
+ - [https://trpc.io](https://trpc.io)
+ - date published: 2023-10-25T20:12:01.056896+00:00
+ - user: None
+ - tags: []
+
+## Trunk | Trunk Blog
+ - [https://blog.trunk.io](https://blog.trunk.io)
+ - date published: 2023-10-24T20:19:35.718026+00:00
+ - user: None
+ - tags: []
+
+## Software Innovation Lab
+ - [https://tweag.io](https://tweag.io)
+ - date published: 2023-11-24T01:18:51.376439+00:00
+ - user: None
+ - tags: []
+
+## Software Innovation Lab - Tweag
+ - [https://www.tweag.io](https://www.tweag.io)
+ - date published: 2023-10-25T20:12:02.408852+00:00
+ - user: None
+ - tags: []
+
+## The first AI Assistant for B2B email operations
+ - [https://uify.io](https://uify.io)
+ - date published: 2023-10-25T20:12:04.027350+00:00
+ - user: None
+ - tags: []
+
+## Underjord
+ - [http://underjord.io](http://underjord.io)
+ - date published: 2023-10-25T08:49:41.305917+00:00
+ - user: None
+ - tags: ['personal']
+
+## Upbase - Project Management and Team Collaboration Tool
+ - [https://upbase.io](https://upbase.io)
+ - date published: 2023-10-25T20:12:05.650502+00:00
+ - user: None
+ - tags: []
+
+## Haystack - Analytics for Engineering Leaders
+ - [https://www.usehaystack.io](https://www.usehaystack.io)
+ - date published: 2023-10-25T20:12:08.195911+00:00
+ - user: None
+ - tags: []
+
+## Designing and developing user interfaces in digital products
+ - [https://user-interface.io](https://user-interface.io)
+ - date published: 2023-10-25T20:12:09.245545+00:00
+ - user: None
+ - tags: []
+
+## Home
+– Klaus Breyer
+ - [https://www.v01.io](https://www.v01.io)
+ - date published: 2023-10-25T20:12:09.915194+00:00
+ - user: None
+ - tags: []
+
+## VADOSWARE
+ - [https://vadosware.io](https://vadosware.io)
+ - date published: 2023-10-25T20:12:11.094802+00:00
+ - user: None
+ - tags: []
+
+## Academic Research | The highest-quality and most trusted Survey research
+ - [https://verasight.io](https://verasight.io)
+ - date published: 2023-10-25T20:12:14.187433+00:00
+ - user: None
+ - tags: []
+
+## The open-source, self-hostable to-do app | Vikunja
+ - [https://vikunja.io](https://vikunja.io)
+ - date published: 2023-10-25T20:12:15.087469+00:00
+ - user: None
+ - tags: []
+
+## Vived - We pick IT content for you
+ - [https://vived.io](https://vived.io)
+ - date published: 2023-10-25T20:12:16.284565+00:00
+ - user: None
+ - tags: []
+
+## The V Programming Language
+ - [https://vlang.io](https://vlang.io)
+ - date published: 2023-10-25T20:12:18.072794+00:00
+ - user: None
+ - tags: []
+
+## Vulcan - distributed state, simplified – vlcn.io
+ - [https://vlcn.io](https://vlcn.io)
+ - date published: 2023-10-25T20:12:18.734971+00:00
+ - user: None
+ - tags: []
+
+## Vrite
+ - [https://editor.vrite.io](https://editor.vrite.io)
+ - date published: 2023-10-25T20:12:19.508475+00:00
+ - user: None
+ - tags: []
+
+## Vrite － developer content platform
+ - [https://vrite.io](https://vrite.io)
+ - date published: 2023-10-25T20:12:20.294427+00:00
+ - user: None
+ - tags: []
+
+## The Wails Project | Wails
+ - [https://wails.io](https://wails.io)
+ - date published: 2023-10-25T20:12:21.006046+00:00
+ - user: None
+ - tags: []
+
+## Wasmer - Run, Publish & Deploy any code, anywhere
+ - [https://wasmer.io](https://wasmer.io)
+ - date published: 2023-10-25T20:12:23.141235+00:00
+ - user: None
+ - tags: []
+
+## Watermark Remover - Remove Watermarks Online from Images for Free
+ - [https://www.watermarkremover.io](https://www.watermarkremover.io)
+ - date published: 2023-10-25T20:12:28.166271+00:00
+ - user: None
+ - tags: []
+
+## wazero
+ - [https://wazero.io](https://wazero.io)
+ - date published: 2023-10-25T20:12:28.986445+00:00
+ - user: None
+ - tags: []
+
+## Weather Machine
+ - [https://weathermachine.io](https://weathermachine.io)
+ - date published: 2023-10-25T20:12:29.991634+00:00
+ - user: None
+ - tags: []
+
+## Welcome | Weaviate - vector database
+ - [https://weaviate.io](https://weaviate.io)
+ - date published: 2023-10-25T20:12:31.538432+00:00
+ - user: None
+ - tags: []
+
+## Home page - My App
+ - [https://vue-mjs.web-templates.io](https://vue-mjs.web-templates.io)
+ - date published: 2023-10-25T20:12:32.642938+00:00
+ - user: None
+ - tags: []
+
+## Webapp.io - Better DevOps for modern webapps
+ - [https://webapp.io](https://webapp.io)
+ - date published: 2023-10-25T20:12:34.784265+00:00
+ - user: None
+ - tags: []
+
+## WebContainers - Dev environments. In your web app. | WebContainers
+ - [https://webcontainers.io](https://webcontainers.io)
+ - date published: 2023-10-25T20:12:35.939943+00:00
+ - user: None
+ - tags: []
+
+## The Data Platform for Cloud & AI | WEKA - WEKA
+ - [https://www.weka.io](https://www.weka.io)
+ - date published: 2023-10-25T20:12:41.654237+00:00
+ - user: None
+ - tags: []
+
+## Werd I/O
+ - [https://werd.io](https://werd.io)
+ - date published: 2023-10-25T20:12:45.125342+00:00
+ - user: None
+ - tags: []
+
+## Whalemap - The leading on-chain analytics platform
+ - [https://whalemap.io](https://whalemap.io)
+ - date published: 2023-10-25T20:12:46.923287+00:00
+ - user: None
+ - tags: []
+
+## Yiming Cao – Medium
+ - [https://blog.whimslab.io](https://blog.whimslab.io)
+ - date published: 2023-10-25T20:12:49.823789+00:00
+ - user: None
+ - tags: []
+
+## Whoogle Search
+ - [https://whoogle.io](https://whoogle.io)
+ - date published: 2023-11-13T13:37:53.096666+00:00
+ - user: None
+ - tags: ['search engine', 'open source']
+
+## WildCat's Blog
+ - [https://blog.wildcat.io](https://blog.wildcat.io)
+ - date published: 2023-10-25T20:12:50.280641+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://wilkins.io](https://wilkins.io)
+ - date published: 2023-11-29T15:44:56.746979+00:00
+ - user: None
+ - tags: ['personal']
+
+## willett dot io
+ - [https://www.willett.io](https://www.willett.io)
+ - date published: 2023-10-25T20:12:51.050721+00:00
+ - user: None
+ - tags: []
+
+## Wing Programming Language for the Cloud
+ - [https://www.winglang.io](https://www.winglang.io)
+ - date published: 2023-10-25T20:12:52.756645+00:00
+ - user: None
+ - tags: []
+
+## Wiz | Secure Everything You Build and Run in the Cloud
+ - [https://www.wiz.io](https://www.wiz.io)
+ - date published: 2023-10-25T20:12:56.676823+00:00
+ - user: None
+ - tags: []
+
+## Wooting keyboards
+ - [https://next.wooting.io](https://next.wooting.io)
+ - date published: 2023-10-25T20:12:59.943178+00:00
+ - user: None
+ - tags: []
+
+## Wordbots
+ - [https://app.wordbots.io](https://app.wordbots.io)
+ - date published: 2023-10-25T20:13:01.621006+00:00
+ - user: None
+ - tags: []
+
+## CatGPT
+ - [https://catgpt.wvd.io](https://catgpt.wvd.io)
+ - date published: 2023-10-25T20:13:02.386303+00:00
+ - user: None
+ - tags: []
+
+## Wyldcard
+ - [https://www.wyldcard.io](https://www.wyldcard.io)
+ - date published: 2023-10-25T20:13:03.842142+00:00
+ - user: None
+ - tags: []
+
+## Xata - The serverless database built for modern development
+ - [https://xata.io](https://xata.io)
+ - date published: 2023-10-25T20:13:05.962993+00:00
+ - user: None
+ - tags: []
+
+## Xavier Denis
+ - [https://xav.io](https://xav.io)
+ - date published: 2023-10-25T20:13:06.573410+00:00
+ - user: None
+ - tags: []
+
+## Xuanwo's Blog
+ - [https://xuanwo.io](https://xuanwo.io)
+ - date published: 2023-11-29T17:19:36.738481+00:00
+ - user: None
+ - tags: []
+
+## Home :: Will Yager
+ - [https://yager.io](https://yager.io)
+ - date published: 2023-10-25T20:13:07.484512+00:00
+ - user: None
+ - tags: []
+
+## Zenoh - The Zero Overhead, Pub/Sub, Store, Query, and Compute Protocol.
+ - [https://zenoh.io](https://zenoh.io)
+ - date published: 2023-10-25T20:13:08.098477+00:00
+ - user: None
+ - tags: []
+
 ## zeux.io - Home
  - [https://zeux.io](https://zeux.io)
  - date published: 2023-10-25T20:13:08.866670+00:00
@@ -853,6 +1149,12 @@
 ## Dan Fernandez Home Page – Dan Fernandez
  - [https://fernandez.life](https://fernandez.life)
  - date published: 2023-10-25T09:26:30.059169+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://gaston.life
+ - [https://gaston.life](https://gaston.life)
+ - date published: 2023-12-08T08:33:13.205178+00:00
  - user: None
  - tags: ['personal']
 
@@ -5694,304 +5996,4 @@
  - date published: 2023-11-13T09:53:58.683069+00:00
  - user: None
  - tags: ['music band']
-
-## Silent Lunch, The David Zweig Newsletter | Substack
- - [https://www.silentlunch.net](https://www.silentlunch.net)
- - date published: 2023-10-25T20:37:30.571541+00:00
- - user: None
- - tags: []
-
-## Simia
- - [http://simia.net](http://simia.net)
- - date published: 2023-10-25T20:37:32.292821+00:00
- - user: None
- - tags: []
-
-## Simon Duff – Big Data Specialist
- - [https://simonduff.net](https://simonduff.net)
- - date published: 2023-12-02T10:26:37.230407+00:00
- - user: None
- - tags: ['personal']
-
-## Simon Ong | Architect – Architect. Filipino. Awesome.
- - [https://simonong.net](https://simonong.net)
- - date published: 2023-12-03T23:31:04.542735+00:00
- - user: None
- - tags: ['personal']
-
-## Simon Willison’s Weblog
- - [https://simonwillison.net](https://simonwillison.net)
- - date published: 2023-10-25T08:41:17.781731+00:00
- - user: None
- - tags: ['personal']
-
-## Simon Willison: TIL
- - [https://til.simonwillison.net](https://til.simonwillison.net)
- - date published: 2023-10-25T09:23:30.769942+00:00
- - user: None
- - tags: ['personal']
-
-## Simson Garfinkel
- - [https://simson.net](https://simson.net)
- - date published: 2023-10-25T08:54:01.938085+00:00
- - user: None
- - tags: ['personal']
-
-## Home | Skalpel
- - [https://skalpel.net](https://skalpel.net)
- - date published: 2023-11-13T10:24:37.435322+00:00
- - user: None
- - tags: ['music band']
-
-## The Guide to Sleeping in Airports
- - [https://www.sleepinginairports.net](https://www.sleepinginairports.net)
- - date published: 2023-10-25T20:37:34.501064+00:00
- - user: None
- - tags: []
-
-## Share & Discover Presentations | SlideShare
- - [https://www.slideshare.net](https://www.slideshare.net)
- - date published: 2023-10-25T20:37:36.482051+00:00
- - user: None
- - tags: []
-
-## Snack Stack | Doug Mack / Snack Stack | Substack
- - [https://www.snackstack.net](https://www.snackstack.net)
- - date published: 2023-10-25T20:37:39.514628+00:00
- - user: None
- - tags: []
-
-## Sniffnet — comfortably monitor your Internet traffic 🕵️‍♂️
- - [https://www.sniffnet.net](https://www.sniffnet.net)
- - date published: 2023-10-25T20:37:40.707759+00:00
- - user: None
- - tags: []
-
-## Matthias Monroy
- - [https://digit.so36.net](https://digit.so36.net)
- - date published: 2023-10-25T08:54:06.996729+00:00
- - user: None
- - tags: ['personal']
-
-## SoByte
- - [https://www.sobyte.net](https://www.sobyte.net)
- - date published: 2023-10-25T20:37:41.884513+00:00
- - user: None
- - tags: []
-
-## SaaS Consulting, Software Consulting | Software Platform Consulting
- - [https://www.softwareplatform.net](https://www.softwareplatform.net)
- - date published: 2023-10-25T20:37:48.300137+00:00
- - user: None
- - tags: []
-
-## Solo's Page
- - [https://lukasz.soluch.net](https://lukasz.soluch.net)
- - date published: 2023-11-29T15:44:05.476820+00:00
- - user: None
- - tags: ['personal']
-
-## A Realistic Sword and Sorcery Tabletop RPG | Song of Swords
- - [https://www.songofswords.net](https://www.songofswords.net)
- - date published: 2023-10-27T12:49:50.560043+00:00
- - user: None
- - tags: []
-
-## Sonic Pi - The Live Coding Music Synth for Everyone
- - [https://sonic-pi.net](https://sonic-pi.net)
- - date published: 2023-10-25T20:37:49.779630+00:00
- - user: None
- - tags: []
-
-## Sony Corporation - Home
- - [https://www.sony.net](https://www.sony.net)
- - date published: 2023-10-25T11:29:02.084856+00:00
- - user: None
- - tags: []
-
-## Sorcerer's Place - Baldur's Gate 3 FAQ, RPG News, Walkthrough, Guide, Mods, Hacks, Cheats, Icewind Dale, Neverwinter Nights, Dragon Age, Wizardry
- - [https://sorcerers.net](https://sorcerers.net)
- - date published: 2023-10-25T11:18:08.570700+00:00
- - user: None
- - tags: []
-
-## ArcEm - The Acorn Archimedes Emulator
- - [https://arcem.sourceforge.net](https://arcem.sourceforge.net)
- - date published: 2023-10-25T20:37:50.814944+00:00
- - user: None
- - tags: []
-
-## AROS Research Operating System
- - [https://aros.sourceforge.net](https://aros.sourceforge.net)
- - date published: 2023-11-02T09:53:42.231278+00:00
- - user: None
- - tags: ['operating system', 'amiga']
-
-## Gambas - Gambas Almost Means Basic
- - [https://gambas.sourceforge.net](https://gambas.sourceforge.net)
- - date published: 2023-10-25T20:37:51.440690+00:00
- - user: None
- - tags: []
-
-## Judy Arrays Web Page
- - [https://judy.sourceforge.net](https://judy.sourceforge.net)
- - date published: 2023-10-25T08:31:18.433251+00:00
- - user: None
- - tags: []
-
-## Compare, Download & Develop Open Source & Business Software - SourceForge
- - [https://sourceforge.net](https://sourceforge.net)
- - date published: 2023-10-25T08:41:02.286459+00:00
- - user: None
- - tags: ['app platform']
-
-## Thinking Forth
- - [https://thinking-forth.sourceforge.net](https://thinking-forth.sourceforge.net)
- - date published: 2023-10-25T20:37:52.312115+00:00
- - user: None
- - tags: []
-
-## Yorick is an interpreted programming language for scientific simulations
- - [https://yorick.sourceforge.net](https://yorick.sourceforge.net)
- - date published: 2023-11-03T21:00:01+00:00
- - user: None
- - tags: []
-
-## https://sovinform.net
- - [https://sovinform.net](https://sovinform.net)
- - date published: 2023-10-25T20:37:53.833050+00:00
- - user: None
- - tags: []
-
-## Space: 1999 Catacombs- Guides, Scripts, Analysis
- - [https://catacombs.space1999.net](https://catacombs.space1999.net)
- - date published: 2023-10-31T22:37:27.873348+00:00
- - user: None
- - tags: []
-
-## Space Rogue
- - [https://www.spacerogue.net](https://www.spacerogue.net)
- - date published: 2023-10-25T20:37:55.002608+00:00
- - user: None
- - tags: []
-
-## Pieter Spronck
- - [https://www.spronck.net](https://www.spronck.net)
- - date published: 2023-10-25T08:54:07.792417+00:00
- - user: None
- - tags: ['personal']
-
-## intro
- - [https://srobb.net](https://srobb.net)
- - date published: 2023-10-25T20:37:57.343748+00:00
- - user: None
- - tags: []
-
-## SSHGuard
- - [https://www.sshguard.net](https://www.sshguard.net)
- - date published: 2023-10-25T20:37:58.024063+00:00
- - user: None
- - tags: []
-
-## Status
- - [https://www.stackstatus.net](https://www.stackstatus.net)
- - date published: 2023-10-25T20:37:58.860480+00:00
- - user: None
- - tags: []
-
-## Starcraft Resources, Gadgets, Videos, Stores and more at StarcraftWire.net | Live in the Starcraft World
- - [https://www.starcraftwire.net](https://www.starcraftwire.net)
- - date published: 2023-10-25T11:51:20.910250+00:00
- - user: None
- - tags: []
-
-## Najlepsze stare gry do ściągnięcia, StareGierki.glt.pl Programy, solucje, porady
- - [http://www.staregierki.net](http://www.staregierki.net)
- - date published: 2023-10-30T11:50:37+00:00
- - user: rumpel
- - tags: ['retro games']
-
-## Stephen Ramsay
- - [https://stephenramsay.net](https://stephenramsay.net)
- - date published: 2023-10-25T08:54:08.668211+00:00
- - user: None
- - tags: ['personal']
-
-## Borax Mans Pad
- - [http://boraxman.strangled.net](http://boraxman.strangled.net)
- - date published: 2023-11-26T08:26:10.973215+00:00
- - user: None
- - tags: ['personal']
-
-## Stride Game Engine - Free, Open Source C# 2D and 3D Game Engine
- - [https://www.stride3d.net](https://www.stride3d.net)
- - date published: 2023-10-25T08:35:44.211697+00:00
- - user: None
- - tags: []
-
-## Mim.Stupi.NET - WEB for RSX
- - [http://mim.stupi.net](http://mim.stupi.net)
- - date published: 2023-10-25T20:37:59.749336+00:00
- - user: None
- - tags: []
-
-## Successful Software | …requires more than just good programming.
- - [https://successfulsoftware.net](https://successfulsoftware.net)
- - date published: 2023-10-25T20:38:06.050769+00:00
- - user: None
- - tags: []
-
-## Suppi Dot Net
- - [https://suppi.net](https://suppi.net)
- - date published: 2023-10-25T20:38:07.025523+00:00
- - user: None
- - tags: []
-
-## Suppi Dot Net
- - [http://suppi.net](http://suppi.net)
- - date published: 2023-11-03T00:47:50+00:00
- - user: rumpel
- - tags: []
-
-## Susam Pal
- - [https://susam.net](https://susam.net)
- - date published: 2023-10-25T09:23:32.170959+00:00
- - user: None
- - tags: ['personal']
-
-## Swimburger.net: a blog about .NET, Web, Azure, Umbraco, and more
- - [https://swimburger.net](https://swimburger.net)
- - date published: 2023-10-25T09:00:52.513930+00:00
- - user: None
- - tags: ['personal']
-
-## Swiss Institute
- - [https://www.swissinstitute.net](https://www.swissinstitute.net)
- - date published: 2023-10-25T20:38:13.943234+00:00
- - user: None
- - tags: []
-
-## syBOS | Die Internet Feuerwehrsoftware
- - [https://www.sybos.net](https://www.sybos.net)
- - date published: 2023-10-25T20:38:16.524978+00:00
- - user: None
- - tags: []
-
-## Syncthing
- - [https://syncthing.net](https://syncthing.net)
- - date published: 2023-10-25T20:38:17.196194+00:00
- - user: None
- - tags: []
-
-## systemreboot – blog
- - [https://www.systemreboot.net](https://www.systemreboot.net)
- - date published: 2023-10-25T20:38:22.531078+00:00
- - user: None
- - tags: []
-
-## http://tycho.sytes.net
- - [http://tycho.sytes.net](http://tycho.sytes.net)
- - date published: 2023-10-25T20:38:22.839822+00:00
- - user: None
- - tags: []
 
