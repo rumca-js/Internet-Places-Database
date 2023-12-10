@@ -1252,6 +1252,12 @@
  - user: None
  - tags: []
 
+## NeurIPS 2023 Posters Cluster Visualization
+ - [https://neurips2023.vizhub.ai](https://neurips2023.vizhub.ai)
+ - date published: 2023-12-09T15:52:49+00:00
+ - user: None
+ - tags: []
+
 ## vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention
  - [https://vllm.ai](https://vllm.ai)
  - date published: 2023-10-25T11:44:55.541969+00:00
@@ -1651,6 +1657,12 @@
 ## Mailcoach, the affordable, privacy-first email marketing service
  - [https://mailcoach.app](https://mailcoach.app)
  - date published: 2023-10-25T11:47:12.630480+00:00
+ - user: None
+ - tags: []
+
+## Stop making Linux distributions, make applications instead
+ - [https://makealinux.app](https://makealinux.app)
+ - date published: 2023-12-09T16:50:49+00:00
  - user: None
  - tags: []
 
@@ -2295,6 +2307,12 @@
  - date published: 2023-10-25T11:52:39.989545+00:00
  - user: None
  - tags: []
+
+## Peter Tasker | As an author of novels and nonfiction books, a writer, a speaker, and most notably, a finance guru, Peter Tasker is a man of many talents.
+ - [https://petertasker.asia](https://petertasker.asia)
+ - date published: 2023-12-09T18:59:39.029867+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Asia Public Holidays - PublicHolidays.asia
  - [https://publicholidays.asia](https://publicholidays.asia)
@@ -3010,6 +3028,12 @@
  - user: None
  - tags: []
 
+## Joshua F. Gonzales - Joshua’s Notes
+ - [https://joshua.bio](https://joshua.bio)
+ - date published: 2023-12-09T15:00:39.207861+00:00
+ - user: None
+ - tags: ['personal']
+
 ## A-EON Technology Ltd
  - [http://blog.a-eon.biz](http://blog.a-eon.biz)
  - date published: 2023-11-02T10:02:26.061265+00:00
@@ -3455,6 +3479,12 @@
  - user: None
  - tags: []
 
+## Psychotic, Obscene, and Unoriginal
+ - [https://unoriginal.blog](https://unoriginal.blog)
+ - date published: 2023-12-09T12:58:13.135218+00:00
+ - user: None
+ - tags: []
+
 ## Vanilla Java
  - [https://blog.vanillajava.blog](https://blog.vanillajava.blog)
  - date published: 2023-10-25T12:01:45.438171+00:00
@@ -3860,6 +3890,12 @@
 ## Ivan Reese
  - [https://ivanish.ca](https://ivanish.ca)
  - date published: 2023-10-25T08:42:57.754586+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jason Shew
+ - [https://jasonshew.ca](https://jasonshew.ca)
+ - date published: 2023-12-09T10:38:16.871758+00:00
  - user: None
  - tags: ['personal']
 
@@ -5957,40 +5993,4 @@
  - date published: 2023-10-25T12:25:44.473467+00:00
  - user: None
  - tags: []
-
-## Freedom, Research & Creativity | 032c
- - [https://032c.com](https://032c.com)
- - date published: 2023-10-25T12:26:01.255336+00:00
- - user: None
- - tags: []
-
-## Lennart Koopmann
- - [https://www.0x58ed.com](https://www.0x58ed.com)
- - date published: 2023-10-25T09:04:02.768854+00:00
- - user: None
- - tags: ['personal']
-
-## 1991
- - [https://www.1-9-9-1.com](https://www.1-9-9-1.com)
- - date published: 2023-10-25T12:26:03.363684+00:00
- - user: None
- - tags: []
-
-## 1000 Hours Outside
- - [https://www.1000hoursoutside.com](https://www.1000hoursoutside.com)
- - date published: 2023-10-25T12:26:07.116547+00:00
- - user: None
- - tags: []
-
-## 100 Parking Tickets
- - [https://100parkingtickets.com](https://100parkingtickets.com)
- - date published: 2023-10-25T12:26:09.600413+00:00
- - user: None
- - tags: []
-
-## 10 en dibujo – 10endibujo – Dibujo Técnico para Alumnos, Profesores y Opositores
- - [https://www.10endibujo.com](https://www.10endibujo.com)
- - date published: 2023-11-29T14:43:05.320699+00:00
- - user: None
- - tags: ['personal']
 

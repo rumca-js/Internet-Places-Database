@@ -1,3 +1,303 @@
+## Gustav Westling
+ - [https://westling.dev](https://westling.dev)
+ - date published: 2023-10-25T18:44:24.486704+00:00
+ - user: None
+ - tags: []
+
+## http://www.windmill.dev
+ - [http://www.windmill.dev](http://www.windmill.dev)
+ - date published: 2023-10-25T18:44:26.132315+00:00
+ - user: None
+ - tags: []
+
+## A corner of the internet for people who love building digital products.
+ - [https://www.wking.dev](https://www.wking.dev)
+ - date published: 2023-11-06T19:19:56.497567+00:00
+ - user: None
+ - tags: []
+
+## Thoughts for CTOs, Tech Leads and Software Architects
+ - [https://www.workingsoftware.dev](https://www.workingsoftware.dev)
+ - date published: 2023-10-25T18:44:29.024808+00:00
+ - user: None
+ - tags: []
+
+## WSCP's blog
+ - [http://wscp.dev](http://wscp.dev)
+ - date published: 2023-10-25T08:58:56.272680+00:00
+ - user: None
+ - tags: ['personal']
+
+## dotMorten | .NET Ramblings, XAML hacking and some GIS endeavors
+ - [https://xaml.dev](https://xaml.dev)
+ - date published: 2023-10-25T08:59:01.383042+00:00
+ - user: None
+ - tags: ['personal']
+
+## XINF
+ - [https://xinf.dev](https://xinf.dev)
+ - date published: 2023-10-25T18:44:30.785844+00:00
+ - user: None
+ - tags: []
+
+## xy2
+ - [https://xy2.dev](https://xy2.dev)
+ - date published: 2023-10-25T18:44:33.489903+00:00
+ - user: None
+ - tags: []
+
+## You don't need a modal window
+ - [https://youdontneedamodalwindow.dev](https://youdontneedamodalwindow.dev)
+ - date published: 2023-10-25T18:44:35.045129+00:00
+ - user: None
+ - tags: []
+
+## yuanchuan
+ - [https://yuanchuan.dev](https://yuanchuan.dev)
+ - date published: 2023-10-25T18:44:37.242773+00:00
+ - user: None
+ - tags: []
+
+## zackoverflow
+ - [https://zackoverflow.dev](https://zackoverflow.dev)
+ - date published: 2023-10-25T18:44:39.698343+00:00
+ - user: None
+ - tags: []
+
+## Zed - Code at the speed of thought
+ - [https://zed.dev](https://zed.dev)
+ - date published: 2023-10-25T18:44:46.883335+00:00
+ - user: None
+ - tags: []
+
+## Zellij
+ - [https://zellij.dev](https://zellij.dev)
+ - date published: 2023-10-25T18:44:48.356849+00:00
+ - user: None
+ - tags: []
+
+## julian.digital
+ - [https://julian.digital](https://julian.digital)
+ - date published: 2023-10-25T18:44:50.401929+00:00
+ - user: None
+ - tags: []
+
+## RDTR01
+ - [https://rdtr01.xl.digital](https://rdtr01.xl.digital)
+ - date published: 2023-10-25T18:44:52.509130+00:00
+ - user: None
+ - tags: []
+
+## ooh.directory: a place to find good blogs that interest you
+ - [https://ooh.directory](https://ooh.directory)
+ - date published: 2023-10-25T18:44:56.352626+00:00
+ - user: None
+ - tags: []
+
+## Consent-O-Matic
+ - [https://consentomatic.au.dk](https://consentomatic.au.dk)
+ - date published: 2023-10-25T18:44:57.884515+00:00
+ - user: None
+ - tags: []
+
+## The Interdisciplinary Nanoscience Center at Aarhus University: inano.au.dk
+ - [https://inano.au.dk](https://inano.au.dk)
+ - date published: 2023-11-21T16:46:11.636457+00:00
+ - user: None
+ - tags: []
+
+## Faculty of Natural Sciences - Fakultet ved Aarhus Universitet
+ - [https://nat.au.dk](https://nat.au.dk)
+ - date published: 2023-12-07T14:50:55.311344+00:00
+ - user: None
+ - tags: []
+
+## bret.dk - Explore the latest single-board computers (SBCs), including reviews and benchmarks for Raspberry Pi.
+ - [https://bret.dk](https://bret.dk)
+ - date published: 2023-10-25T18:45:00.174502+00:00
+ - user: None
+ - tags: []
+
+## Creative Time Studio
+ - [https://creativetime.dk](https://creativetime.dk)
+ - date published: 2023-11-29T17:10:54.198669+00:00
+ - user: None
+ - tags: ['personal']
+
+## [CSDb] - The Commodore 64 Scene Database
+ - [https://csdb.dk](https://csdb.dk)
+ - date published: 2023-10-25T11:17:26.783143+00:00
+ - user: None
+ - tags: ['social forum', 'commodore', 'demoscene']
+
+## Datatilsynet
+ - [https://www.datatilsynet.dk](https://www.datatilsynet.dk)
+ - date published: 2023-10-25T18:45:02.198094+00:00
+ - user: None
+ - tags: []
+
+## Datavirke
+ - [https://datavirke.dk](https://datavirke.dk)
+ - date published: 2023-10-25T18:45:02.904442+00:00
+ - user: None
+ - tags: []
+
+## Danmarks Tekniske Universitet - DTU
+ - [https://www.dtu.dk](https://www.dtu.dk)
+ - date published: 2023-10-25T18:45:05.300599+00:00
+ - user: None
+ - tags: []
+
+## DusteDs home in cyberspace
+ - [https://dusted.dk](https://dusted.dk)
+ - date published: 2023-10-25T18:45:11.349563+00:00
+ - user: None
+ - tags: []
+
+## Forsvaret
+ - [https://www.forsvaret.dk](https://www.forsvaret.dk)
+ - date published: 2023-10-25T18:45:14.938720+00:00
+ - user: None
+ - tags: []
+
+## Become a Go cloud developer
+ - [https://www.golang.dk](https://www.golang.dk)
+ - date published: 2023-10-25T18:45:15.795948+00:00
+ - user: None
+ - tags: []
+
+## IO Interactive - Homepage
+ - [https://www.ioi.dk](https://www.ioi.dk)
+ - date published: 2023-10-25T18:45:23.268649+00:00
+ - user: None
+ - tags: []
+
+## Git repository browser
+ - [https://kernel.dk](https://kernel.dk)
+ - date published: 2023-10-25T18:45:26.253226+00:00
+ - user: None
+ - tags: []
+
+## Faculty of Health and Medical Sciences – University of Copenhagen
+ - [https://healthsciences.ku.dk](https://healthsciences.ku.dk)
+ - date published: 2023-11-14T09:26:10.548804+00:00
+ - user: None
+ - tags: []
+
+## News – University of Copenhagen
+ - [https://news.ku.dk](https://news.ku.dk)
+ - date published: 2023-10-25T11:22:10.749501+00:00
+ - user: None
+ - tags: []
+
+## SCIENCE – Københavns Universitet
+ - [https://science.ku.dk](https://science.ku.dk)
+ - date published: 2023-10-25T18:45:30.552340+00:00
+ - user: None
+ - tags: []
+
+## Frontpage
+ - [https://louisiana.dk](https://louisiana.dk)
+ - date published: 2023-11-13T13:41:52.770181+00:00
+ - user: None
+ - tags: ['museum']
+
+## Mark Wrobel
+ - [https://www.markwrobel.dk](https://www.markwrobel.dk)
+ - date published: 2023-11-02T10:46:34.460851+00:00
+ - user: None
+ - tags: ['personal', 'amiga']
+
+## ploeh blog
+ - [https://blog.ploeh.dk](https://blog.ploeh.dk)
+ - date published: 2023-10-25T18:45:40.993665+00:00
+ - user: None
+ - tags: []
+
+## SektorCERT
+ - [https://sektorcert.dk](https://sektorcert.dk)
+ - date published: 2023-11-12T14:44:45.072325+00:00
+ - user: None
+ - tags: []
+
+## Sundhedsstyrelsen
+ - [https://www.sst.dk](https://www.sst.dk)
+ - date published: 2023-10-25T18:46:10.089946+00:00
+ - user: None
+ - tags: []
+
+## TV 2 Sport | Få sidste nyt fra sportens verden
+ - [https://sport.tv2.dk](https://sport.tv2.dk)
+ - date published: 2023-10-25T18:46:14.828525+00:00
+ - user: None
+ - tags: []
+
+## valberg.dk
+ - [https://valberg.dk](https://valberg.dk)
+ - date published: 2023-10-25T18:46:16.069620+00:00
+ - user: None
+ - tags: []
+
+## Armand Cognetta
+ - [https://arman.do](https://arman.do)
+ - date published: 2023-11-29T15:51:37.182223+00:00
+ - user: None
+ - tags: ['personal']
+
+## Evgenia Karunus
+ - [https://lakesare.brick.do](https://lakesare.brick.do)
+ - date published: 2023-10-25T18:46:17.838584+00:00
+ - user: None
+ - tags: []
+
+## Daniel Immke’s Personal Website
+ - [https://daniel.do](https://daniel.do)
+ - date published: 2023-10-25T18:46:19.691750+00:00
+ - user: None
+ - tags: []
+
+## Brian Lui's blog
+ - [https://brianlui.dog](https://brianlui.dog)
+ - date published: 2023-11-29T15:44:45.049341+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dog API by kinduff
+ - [https://dogapi.dog](https://dogapi.dog)
+ - date published: 2023-10-25T18:46:20.933530+00:00
+ - user: None
+ - tags: []
+
+## All posts
+ - [https://ashen.earth](https://ashen.earth)
+ - date published: 2023-10-25T18:46:22.771402+00:00
+ - user: None
+ - tags: []
+
+## Distilled | Michael Thomas | Substack
+ - [https://www.distilled.earth](https://www.distilled.earth)
+ - date published: 2023-10-25T18:46:26.279244+00:00
+ - user: None
+ - tags: []
+
+## http://vienna.earth
+ - [http://vienna.earth](http://vienna.earth)
+ - date published: 2023-10-25T18:46:27.705328+00:00
+ - user: None
+ - tags: []
+
+## Zoom Earth | Weather Maps & Live Hurricane Tracker
+ - [https://zoom.earth](https://zoom.earth)
+ - date published: 2023-10-24T20:19:17.010702+00:00
+ - user: None
+ - tags: []
+
+## Academia.edu - Share research
+ - [https://www.academia.edu](https://www.academia.edu)
+ - date published: 2023-12-08T08:28:48.297551+00:00
+ - user: None
+ - tags: ['library', 'ebooks']
+
 ## Research @ AU
  - [https://research.american.edu](https://research.american.edu)
  - date published: 2023-10-25T18:46:30.302927+00:00
@@ -2548,6 +2848,12 @@
  - date published: 2023-10-25T19:07:58.865084+00:00
  - user: None
  - tags: []
+
+## Danny de Vries
+ - [https://www.dandevri.es](https://www.dandevri.es)
+ - date published: 2023-12-09T15:01:07.280579+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Main | CS 61B Spring 2023
  - [https://sp23.datastructur.es](https://sp23.datastructur.es)
@@ -5583,6 +5889,12 @@
  - user: None
  - tags: []
 
+## חדשות, דעות, תרבות, ספורט, כלכלה מהארץ והעולם | ישראל היום
+ - [https://www.israelhayom.co.il](https://www.israelhayom.co.il)
+ - date published: 2023-12-09T19:39:09.657744+00:00
+ - user: None
+ - tags: []
+
 ## Israel Today - News & Commentary. Stay Informed, Pray Informed.
  - [https://www.israeltoday.co.il](https://www.israeltoday.co.il)
  - date published: 2023-11-09T09:15:33.642354+00:00
@@ -5695,318 +6007,6 @@
 ## Indian Space Research Organisation
  - [https://www.isro.gov.in](https://www.isro.gov.in)
  - date published: 2023-10-25T19:30:10.700192+00:00
- - user: None
- - tags: []
-
-## Home - Alt News
- - [https://www.altnews.in](https://www.altnews.in)
- - date published: 2023-10-25T19:30:16.172518+00:00
- - user: None
- - tags: []
-
-## Anantha Kumaran · random thoughts
- - [https://ananthakumaran.in](https://ananthakumaran.in)
- - date published: 2023-10-25T19:30:18.627825+00:00
- - user: None
- - tags: []
-
-## Ankur Sethi is Alive and Well
- - [https://ankursethi.in](https://ankursethi.in)
- - date published: 2023-12-07T07:31:02.391661+00:00
- - user: None
- - tags: ['personal']
-
-## bitspook's online home
- - [https://bitspook.in](https://bitspook.in)
- - date published: 2023-10-25T19:30:19.995909+00:00
- - user: None
- - tags: []
-
-## BroSisCo
- - [https://brosisco.in](https://brosisco.in)
- - date published: 2023-11-29T17:12:31.729602+00:00
- - user: None
- - tags: ['personal']
-
-## Business News - Read Latest Startup, Tech, Markets, Finance, Science News - Business Insider India
- - [https://www.businessinsider.in](https://www.businessinsider.in)
- - date published: 2023-10-25T10:58:21.187120+00:00
- - user: None
- - tags: []
-
-## Business News India: Latest Business News Today, Share Market, Economy
- - [https://www.businesstoday.in](https://www.businesstoday.in)
- - date published: 2023-10-25T19:30:33.199366+00:00
- - user: None
- - tags: []
-
-## Capitalmind - Better Investing
- - [https://www.capitalmind.in](https://www.capitalmind.in)
- - date published: 2023-10-25T19:30:36.892364+00:00
- - user: None
- - tags: []
-
-## http://cirw.in
- - [http://cirw.in](http://cirw.in)
- - date published: 2023-10-25T19:30:39.213118+00:00
- - user: None
- - tags: []
-
-## Deepak’s Views
- - [https://deepak365.in](https://deepak365.in)
- - date published: 2023-12-02T21:17:15.760832+00:00
- - user: None
- - tags: ['personal']
-
-## Latest News, Breaking News, Today Headlines, India News, Top Stories at Free Press Journal
- - [https://www.freepressjournal.in](https://www.freepressjournal.in)
- - date published: 2023-11-04T14:28:57.466472+00:00
- - user: None
- - tags: []
-
-## Notes
- - [https://notes.ghed.in](https://notes.ghed.in)
- - date published: 2023-10-25T19:30:46.219811+00:00
- - user: None
- - tags: []
-
-## Latest News, Political News - LIVE TV 24x7 - HW News English - HW News English
- - [https://hwnews.in](https://hwnews.in)
- - date published: 2023-11-26T01:05:49.665881+00:00
- - user: None
- - tags: []
-
-## Internet Freedom Foundation - Internet Freedom Foundation
- - [https://internetfreedom.in](https://internetfreedom.in)
- - date published: 2023-10-25T19:30:47.904368+00:00
- - user: None
- - tags: []
-
-## Talks and Ramblings by Anant Narayanan
- - [https://www.kix.in](https://www.kix.in)
- - date published: 2023-10-25T19:31:09.999679+00:00
- - user: None
- - tags: []
-
-## Personal Site for Kyle Rankin
- - [https://kylerank.in](https://kylerank.in)
- - date published: 2023-10-25T19:31:12.489609+00:00
- - user: None
- - tags: []
-
-## Miscellaneous
- - [https://misc.l3m.in](https://misc.l3m.in)
- - date published: 2023-10-25T19:31:14.186671+00:00
- - user: None
- - tags: []
-
-## too long to tweet
- - [https://max.levch.in](https://max.levch.in)
- - date published: 2023-10-25T19:31:17.650076+00:00
- - user: None
- - tags: []
-
-## Lisper.in
- - [https://lisper.in](https://lisper.in)
- - date published: 2023-10-25T19:31:21.266798+00:00
- - user: None
- - tags: []
-
-## Kailash Nadh / Personal homepage - Developer, Tinkerer, Absurdist
- - [https://nadh.in](https://nadh.in)
- - date published: 2023-10-25T19:31:25.015479+00:00
- - user: None
- - tags: []
-
-## Newsmeter  | Latest Regional breaking news from Telangana and Andhra Pradesh
- - [https://newsmeter.in](https://newsmeter.in)
- - date published: 2023-10-25T19:31:29.053475+00:00
- - user: None
- - tags: []
-
-## Nitin, you can't be serious!
- - [https://www.nitinpai.in](https://www.nitinpai.in)
- - date published: 2023-10-25T19:31:30.052484+00:00
- - user: None
- - tags: []
-
-## PLINK! - by Dinahmoe
- - [https://plink.in](https://plink.in)
- - date published: 2023-10-25T19:31:30.890714+00:00
- - user: None
- - tags: []
-
-## Prashant Sengar - Prashant Sengar
- - [https://prashants.in](https://prashants.in)
- - date published: 2023-10-25T19:31:34.244782+00:00
- - user: None
- - tags: []
-
-## Remark - send more humane emails, using AI
- - [https://remarkai.in](https://remarkai.in)
- - date published: 2023-10-25T19:31:36.865009+00:00
- - user: None
- - tags: []
-
-## 🏡
- - [https://rnjn.in](https://rnjn.in)
- - date published: 2023-10-25T19:31:37.730186+00:00
- - user: None
- - tags: []
-
-## Scroll.in - Latest News, In depth news, India news, Politics news, Indian Cinema, Indian sports, Culture, Video News
- - [https://scroll.in](https://scroll.in)
- - date published: 2023-10-25T19:31:45.387708+00:00
- - user: None
- - tags: []
-
-## 🪬 Computer Science After Dark
- - [https://shvbsle.in](https://shvbsle.in)
- - date published: 2023-10-25T19:31:46.621743+00:00
- - user: None
- - tags: []
-
-## Sijo Kuruvilla George
- - [https://www.sijokuruvilla.in](https://www.sijokuruvilla.in)
- - date published: 2023-11-29T14:44:22.253123+00:00
- - user: None
- - tags: ['personal']
-
-## We are on a mission to make Government Services Fast and Free.
- - [https://superr.in](https://superr.in)
- - date published: 2023-10-25T19:31:48.323208+00:00
- - user: None
- - tags: []
-
-## 涛叔
- - [https://taoshu.in](https://taoshu.in)
- - date published: 2023-11-26T06:25:53.363435+00:00
- - user: None
- - tags: []
-
-## Techlomedia - Technology, Gadgets, Apps, Gaming, and Reviews
- - [https://techlomedia.in](https://techlomedia.in)
- - date published: 2023-10-25T19:31:51.983422+00:00
- - user: None
- - tags: []
-
-## News: Latest News, India News, World News, Opinion, Politics, Governance, Defence, Economy, Education | ThePrint
- - [https://theprint.in](https://theprint.in)
- - date published: 2023-10-25T10:45:20.955349+00:00
- - user: None
- - tags: []
-
-## THE WEEK
- - [https://www.theweek.in](https://www.theweek.in)
- - date published: 2023-11-05T18:14:02.101671+00:00
- - user: None
- - tags: []
-
-## The Wire: The Wire News India, Latest News,News from India, Politics, External Affairs, Science, Economics, Gender and Culture
- - [https://thewire.in](https://thewire.in)
- - date published: 2023-10-25T19:31:55.783674+00:00
- - user: None
- - tags: []
-
-## Vladimir Varankin
- - [https://vladimir.varank.in](https://vladimir.varank.in)
- - date published: 2023-10-25T08:49:11.612494+00:00
- - user: None
- - tags: ['personal']
-
-## Ved Prakash Gupta – Developer, creator.
- - [https://vedgupta.in](https://vedgupta.in)
- - date published: 2023-11-24T13:49:02.967837+00:00
- - user: None
- - tags: []
-
-## Azadi Ka Amrit Mahotsav, Ministry of Culture, Government of India
- - [https://amritmahotsav.nic.in](https://amritmahotsav.nic.in)
- - date published: 2023-10-25T19:31:59.115176+00:00
- - user: None
- - tags: []
-
-## Bhāvanā – The mathematics magazine<br/>A publication of the Bhavana Trust
- - [https://bhavana.org.in](https://bhavana.org.in)
- - date published: 2023-10-25T19:32:02.777275+00:00
- - user: None
- - tags: []
-
-## Down To Earth | Latest news, opinion, analysis on environment & science issues | India, South Asia
- - [https://www.downtoearth.org.in](https://www.downtoearth.org.in)
- - date published: 2023-10-25T19:32:08.671476+00:00
- - user: None
- - tags: []
-
-## Community Inc. - Demystifying Community-Led Growth
- - [https://community.inc](https://community.inc)
- - date published: 2023-10-25T19:32:10.520894+00:00
- - user: None
- - tags: []
-
-## fabric Blog | E-Commerce Blog About Scaling Commerce
- - [https://resources.fabric.inc](https://resources.fabric.inc)
- - date published: 2023-10-25T19:32:21.457377+00:00
- - user: None
- - tags: []
-
-## SAILCARGO INC.  — A Zero Emission Shipping Company
- - [https://www.sailcargo.inc](https://www.sailcargo.inc)
- - date published: 2023-10-25T19:32:23.815279+00:00
- - user: None
- - tags: []
-
-## Insanity Industries
- - [https://insanity.industries](https://insanity.industries)
- - date published: 2023-10-25T19:32:25.103131+00:00
- - user: None
- - tags: []
-
-## AI Demos - AI Demos and Tips, DALL·E, Stable Diffusion, GPT-4 and more
- - [https://www.aidemos.info](https://www.aidemos.info)
- - date published: 2023-10-25T19:32:35.523258+00:00
- - user: None
- - tags: []
-
-## APLcart - Find your way in APL
- - [https://aplcart.info](https://aplcart.info)
- - date published: 2023-10-25T19:32:35.994932+00:00
- - user: None
- - tags: []
-
-## Aras' website
- - [https://aras-p.info](https://aras-p.info)
- - date published: 2023-10-25T19:32:37.152360+00:00
- - user: None
- - tags: []
-
-## Adam Sawicki Home Page - programming, graphics, games, media, C++, Windows, Internet and more...
- - [https://asawicki.info](https://asawicki.info)
- - date published: 2023-10-25T19:32:38.571316+00:00
- - user: None
- - tags: []
-
-## JohnFound home site - Home
- - [https://asm32.info](https://asm32.info)
- - date published: 2023-10-25T19:32:39.773355+00:00
- - user: None
- - tags: []
-
-## Mass Editing Memory in a Transformer
- - [https://memit.baulab.info](https://memit.baulab.info)
- - date published: 2023-10-25T19:32:40.955095+00:00
- - user: None
- - tags: []
-
-## Bibelo
- - [https://bibelo.info](https://bibelo.info)
- - date published: 2023-10-25T19:32:42.422658+00:00
- - user: None
- - tags: []
-
-## Charles Brooks Photography
- - [https://www.charlesbrooks.info](https://www.charlesbrooks.info)
- - date published: 2023-10-25T19:32:44.624808+00:00
  - user: None
  - tags: []
 

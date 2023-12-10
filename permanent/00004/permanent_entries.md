@@ -1,3 +1,147 @@
+## HD-DN
+ - [https://hd-dn.com](https://hd-dn.com)
+ - date published: 2023-11-15T17:58:29.304927+00:00
+ - user: None
+ - tags: ['personal']
+
+## HawkEye 360 | The Leader of Spectrum-Based RF Geoanalytics
+ - [https://www.he360.com](https://www.he360.com)
+ - date published: 2023-10-25T14:57:07.554708+00:00
+ - user: None
+ - tags: []
+
+## Headline USA
+ - [https://headlineusa.com](https://headlineusa.com)
+ - date published: 2023-10-25T14:57:12.126274+00:00
+ - user: None
+ - tags: []
+
+## Professional AI Generated Headshots, Indistinguishable From Real
+ - [https://www.headshotpro.com](https://www.headshotpro.com)
+ - date published: 2023-10-25T14:57:15.599433+00:00
+ - user: None
+ - tags: []
+
+## Blog — Andrew Healey
+ - [https://healeycodes.com](https://healeycodes.com)
+ - date published: 2023-10-25T14:57:16.617693+00:00
+ - user: None
+ - tags: []
+
+## HealthDay: Information For Healthier Living
+ - [https://consumer.healthday.com](https://consumer.healthday.com)
+ - date published: 2023-10-25T14:57:25.101148+00:00
+ - user: None
+ - tags: []
+
+## Health Imaging | Homepage
+ - [https://healthimaging.com](https://healthimaging.com)
+ - date published: 2023-12-07T14:49:42.637664+00:00
+ - user: None
+ - tags: []
+
+## Healthline: Medical information and health advice you can trust.
+ - [https://www.healthline.com](https://www.healthline.com)
+ - date published: 2023-10-25T14:57:28.749132+00:00
+ - user: None
+ - tags: []
+
+## Heather Buchel
+ - [https://heather-buchel.com](https://heather-buchel.com)
+ - date published: 2023-10-25T14:57:29.528719+00:00
+ - user: None
+ - tags: []
+
+## Copyleft Currents – A blog about open source software licensing
+ - [https://heathermeeker.com](https://heathermeeker.com)
+ - date published: 2023-10-25T14:57:31.837073+00:00
+ - user: None
+ - tags: []
+
+## Shop | heathkit.com
+ - [https://shop.heathkit.com](https://shop.heathkit.com)
+ - date published: 2023-10-25T14:57:36.157562+00:00
+ - user: None
+ - tags: []
+
+## Heavybit is the leading investor in developer-first startups | Heavybit
+ - [https://www.heavybit.com](https://www.heavybit.com)
+ - date published: 2023-10-25T14:57:37.413572+00:00
+ - user: None
+ - tags: []
+
+## Hard Rock and Heavy Metal Discography Database: Bands Starting With Letter A - Heavy Harmonies
+ - [https://heavyharmonies.com](https://heavyharmonies.com)
+ - date published: 2023-11-13T11:07:28.629470+00:00
+ - user: None
+ - tags: []
+
+## Hedgehog Librarian – Tales of a Prickly, Nocturnal Infodiva
+ - [https://hedgehoglibrarian.com](https://hedgehoglibrarian.com)
+ - date published: 2023-10-25T14:57:41.067827+00:00
+ - user: None
+ - tags: []
+
+## The Hedgehog Review
+ - [https://hedgehogreview.com](https://hedgehogreview.com)
+ - date published: 2023-10-25T14:57:43.562537+00:00
+ - user: None
+ - tags: []
+
+## Hedgeye
+ - [https://app.hedgeye.com](https://app.hedgeye.com)
+ - date published: 2023-10-25T14:57:45.662221+00:00
+ - user: None
+ - tags: []
+
+## Heirloom
+ - [https://www.heirloomcarbon.com](https://www.heirloomcarbon.com)
+ - date published: 2023-10-25T14:57:46.868713+00:00
+ - user: None
+ - tags: []
+
+## Helen van Baal
+ - [https://www.helenvanbaal.com](https://www.helenvanbaal.com)
+ - date published: 2023-11-29T15:16:08.505690+00:00
+ - user: None
+ - tags: ['personal']
+
+## Helion | Building the world's first fusion power plant
+ - [https://www.helionenergy.com](https://www.helionenergy.com)
+ - date published: 2023-10-25T14:57:48.790889+00:00
+ - user: None
+ - tags: []
+
+## Helix
+ - [https://helix-editor.com](https://helix-editor.com)
+ - date published: 2023-10-25T14:57:50.430189+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Hell Gate
+ - [https://hellgatenyc.com](https://hellgatenyc.com)
+ - date published: 2023-10-25T14:58:01.228377+00:00
+ - user: None
+ - tags: []
+
+## HelloTech
+ - [https://engineering.hellofresh.com](https://engineering.hellofresh.com)
+ - date published: 2023-10-27T14:52:37.731822+00:00
+ - user: None
+ - tags: []
+
+## Helium Mobile - The Future of Mobile is YOU.
+ - [https://hellohelium.com](https://hellohelium.com)
+ - date published: 2023-10-25T14:58:07.382033+00:00
+ - user: None
+ - tags: []
+
+## Mayuko Inoue
+ - [https://www.hellomayuko.com](https://www.hellomayuko.com)
+ - date published: 2023-10-25T09:20:36.342152+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Heyeyeyayay - What's Going On?!
  - [https://hemansings.com](https://hemansings.com)
  - date published: 2023-10-27T11:03:44.917154+00:00
@@ -280,6 +424,12 @@
  - user: None
  - tags: []
 
+## Resonance
+ - [https://1-1.hjalmer.com](https://1-1.hjalmer.com)
+ - date published: 2023-12-09T10:39:15.634509+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Harry Marr
  - [https://hmarr.com](https://hmarr.com)
  - date published: 2023-10-25T15:00:11.023028+00:00
@@ -517,6 +667,12 @@
 ## HousingWire: Industry News for Housing Professionals
  - [https://www.housingwire.com](https://www.housingwire.com)
  - date published: 2023-10-31T20:40:24.761197+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.houstonchronicle.com](https://www.houstonchronicle.com)
+ - date published: 2023-12-09T15:58:28.436561+00:00
  - user: None
  - tags: []
 
@@ -1264,6 +1420,12 @@
  - user: None
  - tags: ['india news']
 
+## Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports| The Indian Express
+ - [https://indianexpress.com](https://indianexpress.com)
+ - date published: 2023-12-09T13:58:17.867740+00:00
+ - user: None
+ - tags: []
+
 ## BFSI News- Latest Banking, Financial Services and Insurance News | ET BFSI
  - [https://bfsi.economictimes.indiatimes.com](https://bfsi.economictimes.indiatimes.com)
  - date published: 2023-10-25T15:18:48.678621+00:00
@@ -1525,6 +1687,12 @@
 ## Insider
  - [https://www.insider.com](https://www.insider.com)
  - date published: 2023-10-25T15:21:32.402345+00:00
+ - user: None
+ - tags: []
+
+## Insider Gaming
+ - [https://insider-gaming.com](https://insider-gaming.com)
+ - date published: 2023-12-09T15:39:00.870192+00:00
  - user: None
  - tags: []
 
@@ -2878,6 +3046,12 @@
  - user: None
  - tags: ['personal']
 
+## About - joel bein
+ - [https://joelbein.com](https://joelbein.com)
+ - date published: 2023-12-09T14:59:11.250800+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Platform Centric | Modern Architectures for Modern Development
  - [http://joelcrabb.com](http://joelcrabb.com)
  - date published: 2023-10-25T15:29:47.738303+00:00
@@ -3868,6 +4042,12 @@
  - user: None
  - tags: []
 
+## Access Denied
+ - [https://www.kens5.com](https://www.kens5.com)
+ - date published: 2023-12-09T00:59:09.524386+00:00
+ - user: None
+ - tags: []
+
 ## http://kenschutte.com
  - [http://kenschutte.com](http://kenschutte.com)
  - date published: 2023-10-25T15:36:02.691694+00:00
@@ -4709,6 +4889,12 @@
  - user: None
  - tags: []
 
+## Lancelot's Hangover: The Quest for the Holy Booze
+ - [https://www.lancelotshangover.com](https://www.lancelotshangover.com)
+ - date published: 2023-12-09T10:39:48.574126+00:00
+ - user: None
+ - tags: ['personal']
+
 ## 🦜️🔗 Langchain
  - [https://python.langchain.com](https://python.langchain.com)
  - date published: 2023-10-25T15:40:59.811350+00:00
@@ -4924,6 +5110,12 @@
  - date published: 2023-10-25T15:43:24.686241+00:00
  - user: None
  - tags: []
+
+## Le blog Récifal – Aquarium d'eau de mer tropicale
+ - [https://le-blog-recifal.com](https://le-blog-recifal.com)
+ - date published: 2023-12-09T16:39:06.936796+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Ideas on Software Engineering
  - [https://john.leacox.com](https://john.leacox.com)
@@ -5513,6 +5705,12 @@
  - user: None
  - tags: ['music band']
 
+## Light No Fire – A Fantasy Game from the Makers of No Man's Sky
+ - [https://lightnofire.com](https://lightnofire.com)
+ - date published: 2023-12-09T05:52:48+00:00
+ - user: None
+ - tags: []
+
 ## Light Reading
  - [https://www.lightreading.com](https://www.lightreading.com)
  - date published: 2023-10-25T15:47:12.564012+00:00
@@ -5792,204 +5990,6 @@
 ## -
  - [https://livefreeordichotomize.com](https://livefreeordichotomize.com)
  - date published: 2023-10-25T15:48:39.963713+00:00
- - user: None
- - tags: []
-
-## ... — LiveJournal
- - [https://obartunov.livejournal.com](https://obartunov.livejournal.com)
- - date published: 2023-10-25T15:48:45.490338+00:00
- - user: None
- - tags: []
-
-## Ретрофутуризм. Retrofuturism — LiveJournal
- - [https://retro-futurism.livejournal.com](https://retro-futurism.livejournal.com)
- - date published: 2023-10-25T15:48:51.580966+00:00
- - user: None
- - tags: []
-
-## Business News Today: Read Latest Business News, Live India Share Market News, Finance & Economy News | Mint
- - [https://www.livemint.com](https://www.livemint.com)
- - date published: 2023-10-30T19:00:02.063732+00:00
- - user: None
- - tags: []
-
-## Live Science | Latest science news and articles for those with curious minds
- - [https://www.livescience.com](https://www.livescience.com)
- - date published: 2023-10-25T10:10:25.617283+00:00
- - user: None
- - tags: []
-
-## Livetraker - The Best Software for Live Bands
- - [https://livetraker.com](https://livetraker.com)
- - date published: 2023-10-28T18:51:58.277300+00:00
- - user: None
- - tags: ['tracker']
-
-## LiveTyper
- - [https://livetyper.com](https://livetyper.com)
- - date published: 2023-10-25T15:48:53.001215+00:00
- - user: None
- - tags: []
-
-## Private Site
- - [https://lizakateboisineau.com](https://lizakateboisineau.com)
- - date published: 2023-11-29T14:41:18.211485+00:00
- - user: None
- - tags: ['personal']
-
-## News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, Kansas
- - [https://www2.ljworld.com](https://www2.ljworld.com)
- - date published: 2023-10-25T15:48:55.622762+00:00
- - user: None
- - tags: []
-
-## LLMonitor Benchmarks
- - [https://benchmarks.llmonitor.com](https://benchmarks.llmonitor.com)
- - date published: 2023-10-25T15:48:57.001391+00:00
- - user: None
- - tags: []
-
-## WPLG Local 10 | Miami News, Fort Lauderdale News, Weather | Local10.com
- - [https://www.local10.com](https://www.local10.com)
- - date published: 2023-10-25T15:49:04.332840+00:00
- - user: None
- - tags: []
-
-## Find the Best Offer - LocalBitcoins
- - [https://localbitcoins.com](https://localbitcoins.com)
- - date published: 2023-10-25T15:49:07.190897+00:00
- - user: None
- - tags: []
-
-## LocalCan™ - HTTPS domains for localhost and wi-fi network
- - [https://www.localcan.com](https://www.localcan.com)
- - date published: 2023-10-25T15:49:08.332866+00:00
- - user: None
- - tags: []
-
-## Home - LocalNews8.com | News3Now.com | KXPI.com - KIFI
- - [https://localnews8.com](https://localnews8.com)
- - date published: 2023-12-07T14:49:54.303544+00:00
- - user: None
- - tags: []
-
-## Attention Required! | Cloudflare
- - [https://lunduke.locals.com](https://lunduke.locals.com)
- - date published: 2023-10-27T11:55:26.064550+00:00
- - user: None
- - tags: []
-
-## Attention Required! | Cloudflare
- - [https://ngo.locals.com](https://ngo.locals.com)
- - date published: 2023-10-25T15:49:08.719216+00:00
- - user: None
- - tags: []
-
-## A curated list of posts
- - [https://www.lockedinspace.com](https://www.lockedinspace.com)
- - date published: 2023-10-25T15:49:14.174047+00:00
- - user: None
- - tags: []
-
-## Leading Aerospace and Defense
- - [https://www.lockheedmartin.com](https://www.lockheedmartin.com)
- - date published: 2023-11-08T11:24:51.674356+00:00
- - user: None
- - tags: ['avionics', 'aerospace', 'lockheed martin']
-
-## Lockval Engine
- - [https://lockval.com](https://lockval.com)
- - date published: 2023-10-25T15:49:15.169836+00:00
- - user: None
- - tags: []
-
-## Locus Online – The Magazine of the Science Fiction and Fantasy Field
- - [https://locusmag.com](https://locusmag.com)
- - date published: 2023-10-25T15:49:23.976381+00:00
- - user: None
- - tags: ['fantasy', 'books', 'science fiction']
-
-## Double Talk with Hannah and Cailin Loesch
- - [https://loeschtwins.com](https://loeschtwins.com)
- - date published: 2023-11-22T14:55:22.397602+00:00
- - user: None
- - tags: []
-
-## lofi air traffic control
- - [https://www.lofiatc.com](https://www.lofiatc.com)
- - date published: 2023-10-25T15:49:34.669790+00:00
- - user: None
- - tags: []
-
-## Logan Marchione
- - [https://loganmarchione.com](https://loganmarchione.com)
- - date published: 2023-10-25T15:49:35.825357+00:00
- - user: None
- - tags: []
-
-## LogicLoop | Alerts and automations on top of your data
- - [http://www.logicloop.com](http://www.logicloop.com)
- - date published: 2023-10-25T15:49:43.884790+00:00
- - user: None
- - tags: []
-
-## Logikal Solutions Home Page
- - [https://www.logikalsolutions.com](https://www.logikalsolutions.com)
- - date published: 2023-10-25T15:49:49.633298+00:00
- - user: None
- - tags: []
-
-## Loginom
- - [https://loginom.com](https://loginom.com)
- - date published: 2023-10-25T15:49:50.841022+00:00
- - user: None
- - tags: []
-
-## Logitech: bezprzewodowe myszy, klawiatury, zestawy słuchawkowe oraz sprzęt do konferencji wideo
- - [https://www.logitech.com](https://www.logitech.com)
- - date published: 2023-10-30T18:12:55.373094+00:00
- - user: None
- - tags: ['company']
-
-## LogoCreatorAI - Logos created by AI
- - [https://logocreatorai.com](https://logocreatorai.com)
- - date published: 2023-10-25T15:49:52.555671+00:00
- - user: None
- - tags: []
-
-## LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences
- - [https://blog.logrocket.com](https://blog.logrocket.com)
- - date published: 2023-10-25T15:49:56.805966+00:00
- - user: None
- - tags: []
-
-## Logseq: A privacy-first, open-source knowledge base
- - [https://logseq.com](https://logseq.com)
- - date published: 2023-10-25T15:49:58.265105+00:00
- - user: None
- - tags: []
-
-## League of Legends Analytics • LoLalytics • Patch 13.22
- - [https://lolalytics.com](https://lolalytics.com)
- - date published: 2023-11-12T07:39:05.031481+00:00
- - user: None
- - tags: []
-
-## LoL Esports
- - [https://lolesports.com](https://lolesports.com)
- - date published: 2023-11-05T08:48:28.445714+00:00
- - user: None
- - tags: []
-
-## LoL Esports
- - [https://watch.lolesports.com](https://watch.lolesports.com)
- - date published: 2023-11-02T10:41:03.461742+00:00
- - user: None
- - tags: []
-
-## Londonist - Things to see and do in London
- - [https://londonist.com](https://londonist.com)
- - date published: 2023-10-25T15:50:00.489659+00:00
  - user: None
  - tags: []
 

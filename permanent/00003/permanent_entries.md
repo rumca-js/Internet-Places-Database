@@ -1,3 +1,87 @@
+## Dumb Cuneiform. We'll take your tweets and make them permanent clay tablets.
+ - [https://dumbcuneiform.com](https://dumbcuneiform.com)
+ - date published: 2023-10-25T13:59:42.146786+00:00
+ - user: None
+ - tags: []
+
+## Dumb Password Rules
+ - [https://dumbpasswordrules.com](https://dumbpasswordrules.com)
+ - date published: 2023-10-25T13:59:43.811839+00:00
+ - user: None
+ - tags: []
+
+## Bar & Line
+ - [https://blog.duncangeere.com](https://blog.duncangeere.com)
+ - date published: 2023-12-03T02:38:03.034981+00:00
+ - user: None
+ - tags: []
+
+## Duncan Geere
+ - [https://www.duncangeere.com](https://www.duncangeere.com)
+ - date published: 2023-12-03T10:58:21.192847+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dune: Part Two | Official Movie Site
+ - [https://www.dunemovie.com](https://www.dunemovie.com)
+ - date published: 2023-11-13T13:00:16.333580+00:00
+ - user: None
+ - tags: ['movie', 'dune']
+
+## Dungeon Map Doodler
+ - [https://dungeonmapdoodler.com](https://dungeonmapdoodler.com)
+ - date published: 2023-10-25T13:59:52.064138+00:00
+ - user: None
+ - tags: ['role playing games']
+
+## Multi-Factor Authentication & Single Sign-On | Duo Security
+ - [https://duo.com](https://duo.com)
+ - date published: 2023-10-25T13:59:56.230418+00:00
+ - user: None
+ - tags: []
+
+## Duo Status
+ - [https://status.duo.com](https://status.duo.com)
+ - date published: 2023-10-25T14:00:01.542214+00:00
+ - user: None
+ - tags: []
+
+## Duolingo Blog | Writing about the best way to learn a language
+ - [https://blog.duolingo.com](https://blog.duolingo.com)
+ - date published: 2023-10-25T14:00:03.408327+00:00
+ - user: None
+ - tags: []
+
+## Duplicate Word Finder
+ - [https://duplicateword.com](https://duplicateword.com)
+ - date published: 2023-10-25T14:00:04.558446+00:00
+ - user: None
+ - tags: []
+
+## Duplicati
+ - [https://www.duplicati.com](https://www.duplicati.com)
+ - date published: 2023-10-25T14:00:05.522255+00:00
+ - user: None
+ - tags: []
+
+## Goran Duskic | Internet Entrepreneur | Duskic.com | 2023 – Internet entrepreneur, website investor
+ - [https://www.duskic.com](https://www.duskic.com)
+ - date published: 2023-11-29T16:19:36.273999+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dustin Main's A Skinny Escape
+ - [https://dustinmain.com](https://dustinmain.com)
+ - date published: 2023-11-16T20:40:58.860267+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kapil Dutta - Blog
+ - [https://duttakapil.com](https://duttakapil.com)
+ - date published: 2023-11-18T19:08:01.389864+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Duvar English
  - [https://www.duvarenglish.com](https://www.duvarenglish.com)
  - date published: 2023-10-25T14:00:07.518414+00:00
@@ -224,7 +308,7 @@
  - [https://www.economist.com](https://www.economist.com)
  - date published: 2023-10-25T10:52:28.321933+00:00
  - user: None
- - tags: []
+ - tags: ['business news', 'economy news']
 
 ## EcoWatch - For a Healthier Planet and Life
  - [https://www.ecowatch.com](https://www.ecowatch.com)
@@ -574,6 +658,12 @@
  - user: None
  - tags: []
 
+## elliotec
+ - [https://elliotec.com](https://elliotec.com)
+ - date published: 2023-12-09T10:39:22.766801+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Elliott Aleksander LLC
  - [https://www.elliottaleksander.com](https://www.elliottaleksander.com)
  - date published: 2023-11-29T15:15:44.788715+00:00
@@ -607,6 +697,12 @@
 ## EL PAÍS English
  - [https://english.elpais.com](https://english.elpais.com)
  - date published: 2023-10-25T14:06:07.409646+00:00
+ - user: None
+ - tags: []
+
+## El Paso Breaking News Sports Entertainment Lifestyle Opinion - El Paso Times
+ - [https://www.elpasotimes.com](https://www.elpasotimes.com)
+ - date published: 2023-12-09T15:58:18.353131+00:00
  - user: None
  - tags: []
 
@@ -1114,6 +1210,12 @@
  - user: None
  - tags: []
 
+## ESPN - Serving Sports Fans. Anytime. Anywhere.
+ - [http://www.espn.com](http://www.espn.com)
+ - date published: 2023-12-09T16:59:19.184614+00:00
+ - user: None
+ - tags: []
+
 ## Wi-Fi & Bluetooth MCUs and AIoT Solutions I Espressif Systems
  - [https://www.espressif.com](https://www.espressif.com)
  - date published: 2023-10-25T14:09:50.961756+00:00
@@ -1173,6 +1275,12 @@
  - date published: 2023-10-25T14:10:00.745773+00:00
  - user: None
  - tags: []
+
+## Étienne Garbugli
+ - [https://etiennegarbugli.com](https://etiennegarbugli.com)
+ - date published: 2023-12-09T14:59:54.704872+00:00
+ - user: None
+ - tags: ['personal']
 
 ## ETL and Data Pipelines | Etleap
  - [https://etleap.com](https://etleap.com)
@@ -1249,6 +1357,12 @@
 ## The Liberty Beacon | Bringing Alternative Media Sources Together™
  - [https://www.europereloaded.com](https://www.europereloaded.com)
  - date published: 2023-10-25T14:11:26.432764+00:00
+ - user: None
+ - tags: []
+
+## Najważniejsze wiadomości sportowe, relacje na żywo, wideo i wyniki - Eurosport
+ - [https://www.eurosport.com](https://www.eurosport.com)
+ - date published: 2023-12-09T12:18:59.440313+00:00
  - user: None
  - tags: []
 
@@ -1867,6 +1981,12 @@
 ## FandomSpot
  - [https://www.fandomspot.com](https://www.fandomspot.com)
  - date published: 2023-10-25T11:16:25.035308+00:00
+ - user: None
+ - tags: []
+
+## FandomWire - #1 Source for All Things Entertainment
+ - [https://fandomwire.com](https://fandomwire.com)
+ - date published: 2023-12-09T10:18:19.951990+00:00
  - user: None
  - tags: []
 
@@ -3094,6 +3214,12 @@
  - user: None
  - tags: ['personal']
 
+## Blues Harmonica Kaizen
+ - [https://fredrikhertzberg.com](https://fredrikhertzberg.com)
+ - date published: 2023-12-09T10:39:04.723742+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Fredrik Holmqvist
  - [https://www.fredrikholmqvist.com](https://www.fredrikholmqvist.com)
  - date published: 2023-10-25T14:37:25.960001+00:00
@@ -3400,6 +3526,12 @@
  - user: None
  - tags: ['keys', 'piracy']
 
+## G2 Esports: The most entertaining esports organization in the world
+ - [https://www.g2esports.com](https://www.g2esports.com)
+ - date published: 2023-12-09T19:59:24.289964+00:00
+ - user: None
+ - tags: ['esport', 'video games']
+
 ## Gab News – Parallel Polis Publishing
  - [https://news.gab.com](https://news.gab.com)
  - date published: 2023-10-25T14:40:21.223689+00:00
@@ -3505,6 +3637,12 @@
 ## Leaguepedia | League of Legends Esports Wiki
  - [https://lol.gamepedia.com](https://lol.gamepedia.com)
  - date published: 2023-11-02T10:40:59.813503+00:00
+ - user: None
+ - tags: []
+
+## Leaguepedia | League of Legends Esports Wiki
+ - [http://lol.gamepedia.com](http://lol.gamepedia.com)
+ - date published: 2023-12-09T18:59:05.086737+00:00
  - user: None
  - tags: []
 
@@ -5751,6 +5889,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Home
+ - [https://www.harrisvotes.com](https://www.harrisvotes.com)
+ - date published: 2023-12-09T15:58:44.055385+00:00
+ - user: None
+ - tags: []
+
 ## Harry Potter Fan Zone — J.K. Rowling Fan Site Award Winner
  - [https://www.harrypotterfanzone.com](https://www.harrypotterfanzone.com)
  - date published: 2023-10-25T14:09:22.101338+00:00
@@ -5850,150 +5994,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Class Action Lawsuits | International Law Firm | Hagens Berman
  - [https://www.hbsslaw.com](https://www.hbsslaw.com)
  - date published: 2023-10-25T14:56:55.979250+00:00
- - user: None
- - tags: []
-
-## hckr news - Hacker News sorted by time
- - [https://hckrnews.com](https://hckrnews.com)
- - date published: 2023-10-25T14:57:02.032491+00:00
- - user: None
- - tags: []
-
-## HD-DN
- - [https://hd-dn.com](https://hd-dn.com)
- - date published: 2023-11-15T17:58:29.304927+00:00
- - user: None
- - tags: ['personal']
-
-## HawkEye 360 | The Leader of Spectrum-Based RF Geoanalytics
- - [https://www.he360.com](https://www.he360.com)
- - date published: 2023-10-25T14:57:07.554708+00:00
- - user: None
- - tags: []
-
-## Headline USA
- - [https://headlineusa.com](https://headlineusa.com)
- - date published: 2023-10-25T14:57:12.126274+00:00
- - user: None
- - tags: []
-
-## Professional AI Generated Headshots, Indistinguishable From Real
- - [https://www.headshotpro.com](https://www.headshotpro.com)
- - date published: 2023-10-25T14:57:15.599433+00:00
- - user: None
- - tags: []
-
-## Blog — Andrew Healey
- - [https://healeycodes.com](https://healeycodes.com)
- - date published: 2023-10-25T14:57:16.617693+00:00
- - user: None
- - tags: []
-
-## HealthDay: Information For Healthier Living
- - [https://consumer.healthday.com](https://consumer.healthday.com)
- - date published: 2023-10-25T14:57:25.101148+00:00
- - user: None
- - tags: []
-
-## Health Imaging | Homepage
- - [https://healthimaging.com](https://healthimaging.com)
- - date published: 2023-12-07T14:49:42.637664+00:00
- - user: None
- - tags: []
-
-## Healthline: Medical information and health advice you can trust.
- - [https://www.healthline.com](https://www.healthline.com)
- - date published: 2023-10-25T14:57:28.749132+00:00
- - user: None
- - tags: []
-
-## Heather Buchel
- - [https://heather-buchel.com](https://heather-buchel.com)
- - date published: 2023-10-25T14:57:29.528719+00:00
- - user: None
- - tags: []
-
-## Copyleft Currents – A blog about open source software licensing
- - [https://heathermeeker.com](https://heathermeeker.com)
- - date published: 2023-10-25T14:57:31.837073+00:00
- - user: None
- - tags: []
-
-## Shop | heathkit.com
- - [https://shop.heathkit.com](https://shop.heathkit.com)
- - date published: 2023-10-25T14:57:36.157562+00:00
- - user: None
- - tags: []
-
-## Heavybit is the leading investor in developer-first startups | Heavybit
- - [https://www.heavybit.com](https://www.heavybit.com)
- - date published: 2023-10-25T14:57:37.413572+00:00
- - user: None
- - tags: []
-
-## Hard Rock and Heavy Metal Discography Database: Bands Starting With Letter A - Heavy Harmonies
- - [https://heavyharmonies.com](https://heavyharmonies.com)
- - date published: 2023-11-13T11:07:28.629470+00:00
- - user: None
- - tags: []
-
-## Hedgehog Librarian – Tales of a Prickly, Nocturnal Infodiva
- - [https://hedgehoglibrarian.com](https://hedgehoglibrarian.com)
- - date published: 2023-10-25T14:57:41.067827+00:00
- - user: None
- - tags: []
-
-## The Hedgehog Review
- - [https://hedgehogreview.com](https://hedgehogreview.com)
- - date published: 2023-10-25T14:57:43.562537+00:00
- - user: None
- - tags: []
-
-## Hedgeye
- - [https://app.hedgeye.com](https://app.hedgeye.com)
- - date published: 2023-10-25T14:57:45.662221+00:00
- - user: None
- - tags: []
-
-## Heirloom
- - [https://www.heirloomcarbon.com](https://www.heirloomcarbon.com)
- - date published: 2023-10-25T14:57:46.868713+00:00
- - user: None
- - tags: []
-
-## Helen van Baal
- - [https://www.helenvanbaal.com](https://www.helenvanbaal.com)
- - date published: 2023-11-29T15:16:08.505690+00:00
- - user: None
- - tags: ['personal']
-
-## Helion | Building the world's first fusion power plant
- - [https://www.helionenergy.com](https://www.helionenergy.com)
- - date published: 2023-10-25T14:57:48.790889+00:00
- - user: None
- - tags: []
-
-## Helix
- - [https://helix-editor.com](https://helix-editor.com)
- - date published: 2023-10-25T14:57:50.430189+00:00
- - user: None
- - tags: []
-
-## Homepage - Hell Gate
- - [https://hellgatenyc.com](https://hellgatenyc.com)
- - date published: 2023-10-25T14:58:01.228377+00:00
- - user: None
- - tags: []
-
-## HelloTech
- - [https://engineering.hellofresh.com](https://engineering.hellofresh.com)
- - date published: 2023-10-27T14:52:37.731822+00:00
- - user: None
- - tags: []
-
-## Helium Mobile - The Future of Mobile is YOU.
- - [https://hellohelium.com](https://hellohelium.com)
- - date published: 2023-10-25T14:58:07.382033+00:00
  - user: None
  - tags: []
 

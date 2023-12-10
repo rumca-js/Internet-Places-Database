@@ -1,3 +1,249 @@
+## Super Soldier Talk | Milabs, Monarchs, Mkultra
+ - [https://supersoldiertalk.com](https://supersoldiertalk.com)
+ - date published: 2023-10-25T17:19:46.384521+00:00
+ - user: None
+ - tags: []
+
+## Mapping Ideas That Change the World
+ - [https://www.superusapp.com](https://www.superusapp.com)
+ - date published: 2023-10-25T17:19:48.556306+00:00
+ - user: None
+ - tags: []
+
+## Super User
+ - [https://superuser.com](https://superuser.com)
+ - date published: 2023-10-25T17:19:51.369524+00:00
+ - user: None
+ - tags: []
+
+## My blog.
+ - [https://surfcoderepeat.com](https://surfcoderepeat.com)
+ - date published: 2023-11-29T18:21:20.149748+00:00
+ - user: None
+ - tags: ['personal']
+
+## SurrealDB | The ultimate multi-model database for tomorrow's applications
+ - [https://surrealdb.com](https://surrealdb.com)
+ - date published: 2023-10-29T17:22:37.369138+00:00
+ - user: None
+ - tags: []
+
+## SursockHouse
+ - [https://sursockhouse.com](https://sursockhouse.com)
+ - date published: 2023-10-25T17:19:53.345575+00:00
+ - user: None
+ - tags: []
+
+## Susan Rigetti
+ - [https://www.susanrigetti.com](https://www.susanrigetti.com)
+ - date published: 2023-10-25T17:19:55.091861+00:00
+ - user: None
+ - tags: []
+
+## Open Source Solutions for Enterprise Servers & Cloud | SUSE
+ - [https://www.suse.com](https://www.suse.com)
+ - date published: 2023-10-25T08:31:47.830684+00:00
+ - user: None
+ - tags: ['operating system']
+
+## Sushi Swap
+ - [https://forum.sushi.com](https://forum.sushi.com)
+ - date published: 2023-10-25T17:19:58.195025+00:00
+ - user: None
+ - tags: []
+
+## Sustainability by numbers | Hannah Ritchie | Substack
+ - [https://www.sustainabilitybynumbers.com](https://www.sustainabilitybynumbers.com)
+ - date published: 2023-11-05T15:52:28.331482+00:00
+ - user: None
+ - tags: []
+
+## https://www.sustainableplastics.com
+ - [https://www.sustainableplastics.com](https://www.sustainableplastics.com)
+ - date published: 2023-10-25T17:19:58.477450+00:00
+ - user: None
+ - tags: []
+
+## suzann.com
+ - [http://www.suzann.com](http://www.suzann.com)
+ - date published: 2023-11-29T16:18:49.996303+00:00
+ - user: None
+ - tags: ['personal']
+
+## Suzuki Musical Inst. MFG | Qualified Musical Inst. Manufacture.
+ - [https://suzukimusic-global.com](https://suzukimusic-global.com)
+ - date published: 2023-12-08T08:31:28.443083+00:00
+ - user: None
+ - tags: []
+
+## Constantine Molchanov on Svbtle
+ - [https://moigagoo.svbtle.com](https://moigagoo.svbtle.com)
+ - date published: 2023-12-04T19:56:08.845073+00:00
+ - user: None
+ - tags: []
+
+## Ted Piotrowski
+ - [https://tedpiotrowski.svbtle.com](https://tedpiotrowski.svbtle.com)
+ - date published: 2023-10-25T17:20:00.283562+00:00
+ - user: None
+ - tags: []
+
+## Launch Faster with the Full-stack SaaS Template for SvelteKit
+ - [https://sveltekitsaas.com](https://sveltekitsaas.com)
+ - date published: 2023-10-25T17:20:01.448128+00:00
+ - user: None
+ - tags: []
+
+## Learn SVG with 25 examples – How to code images in HTML
+ - [https://svg-tutorial.com](https://svg-tutorial.com)
+ - date published: 2023-12-07T13:38:04+00:00
+ - user: None
+ - tags: ['tutorial', 'html', 'svg']
+
+## Customize and apply backgrounds fast | SVG Backgrounds
+ - [https://www.svgbackgrounds.com](https://www.svgbackgrounds.com)
+ - date published: 2023-10-25T17:20:04.343453+00:00
+ - user: None
+ - tags: []
+
+## Free SVG logos & icons download  | SVGmix
+ - [https://svgmix.com](https://svgmix.com)
+ - date published: 2023-10-25T17:20:13.052145+00:00
+ - user: None
+ - tags: []
+
+## Webhooks as a Service – Secure and Enterprise Ready · Svix
+ - [https://www.svix.com](https://www.svix.com)
+ - date published: 2023-10-25T17:20:14.867763+00:00
+ - user: None
+ - tags: []
+
+## Kelly Shortridge's Magical Research Land
+ - [https://swagitda.com](https://swagitda.com)
+ - date published: 2023-10-25T17:20:17.134510+00:00
+ - user: None
+ - tags: []
+
+## Show HN: SwaraNotebook – a notation editor for Indian classical music
+ - [https://swaranotebook.com](https://swaranotebook.com)
+ - date published: 2023-11-28T02:34:00+00:00
+ - user: None
+ - tags: []
+
+## Sweet Home 3D - Draw floor plans and arrange furniture freely
+ - [https://www.sweethome3d.com](https://www.sweethome3d.com)
+ - date published: 2023-10-25T17:20:18.110245+00:00
+ - user: None
+ - tags: []
+
+## Home - Switch and Click
+ - [https://switchandclick.com](https://switchandclick.com)
+ - date published: 2023-10-25T17:20:24.588728+00:00
+ - user: None
+ - tags: []
+
+## Swizec Teller
+ - [https://swizec.com](https://swizec.com)
+ - date published: 2023-10-25T08:48:05.117046+00:00
+ - user: None
+ - tags: ['personal']
+
+## research!rsc
+ - [https://research.swtch.com](https://research.swtch.com)
+ - date published: 2023-10-25T17:20:26.605238+00:00
+ - user: None
+ - tags: []
+
+## swtchboard
+ - [https://swtch.com](https://swtch.com)
+ - date published: 2023-10-25T17:20:27.482205+00:00
+ - user: None
+ - tags: []
+
+## Swurl - Search everything
+ - [https://swurl.com](https://swurl.com)
+ - date published: 2023-10-25T08:28:12.182647+00:00
+ - user: None
+ - tags: []
+
+## Sylvera Carbon Data
+ - [https://www.sylvera.com](https://www.sylvera.com)
+ - date published: 2023-10-25T17:20:29.492942+00:00
+ - user: None
+ - tags: []
+
+## Sym: Secure Your Production Infrastructure
+ - [https://symops.com](https://symops.com)
+ - date published: 2023-10-25T17:20:30.341455+00:00
+ - user: None
+ - tags: []
+
+## Synced
+ - [https://syncedreview.com](https://syncedreview.com)
+ - date published: 2023-10-25T17:20:38.836617+00:00
+ - user: None
+ - tags: []
+
+## .NET, Xamarin, JavaScript, Angular UI components | Syncfusion
+ - [https://www.syncfusion.com](https://www.syncfusion.com)
+ - date published: 2023-10-25T17:20:42.708228+00:00
+ - user: None
+ - tags: []
+
+## Syncpup.com Blog - Sync' up! ... without getting drained
+ - [http://blog.syncpup.com](http://blog.syncpup.com)
+ - date published: 2023-10-25T17:20:43.421480+00:00
+ - user: None
+ - tags: []
+
+## Synctera | Easily build banking for your customers
+ - [https://www.synctera.com](https://www.synctera.com)
+ - date published: 2023-10-25T17:20:46.427654+00:00
+ - user: None
+ - tags: []
+
+## Synology Community
+ - [https://community.synology.com](https://community.synology.com)
+ - date published: 2023-10-26T19:02:23.508064+00:00
+ - user: None
+ - tags: []
+
+## Synthesis
+ - [https://www.synthesis.com](https://www.synthesis.com)
+ - date published: 2023-10-25T17:20:47.415633+00:00
+ - user: None
+ - tags: []
+
+## Synthical | Main feed
+ - [https://synthical.com](https://synthical.com)
+ - date published: 2023-10-25T17:20:50.155045+00:00
+ - user: None
+ - tags: []
+
+## www.synthroom.com
+ - [https://synthroom.com](https://synthroom.com)
+ - date published: 2023-10-25T17:20:54.037917+00:00
+ - user: None
+ - tags: []
+
+## Synthtopia – Synthesizer and electronic music news, synth and music software reviews and more!
+ - [https://www.synthtopia.com](https://www.synthtopia.com)
+ - date published: 2023-10-25T10:17:36.780975+00:00
+ - user: None
+ - tags: []
+
+## Syracuse NY Local News, Breaking News, Sports & Weather
+ - [https://www.syracuse.com](https://www.syracuse.com)
+ - date published: 2023-10-25T17:21:10.221646+00:00
+ - user: None
+ - tags: []
+
+## Systems Community of Inquiry | An open discussion on systems
+ - [https://stream.syscoi.com](https://stream.syscoi.com)
+ - date published: 2023-10-25T17:21:18.586641+00:00
+ - user: None
+ - tags: []
+
 ## Sysdig | Security for Containers, Kubernetes, and Cloud
  - [https://sysdig.com](https://sysdig.com)
  - date published: 2023-10-25T17:21:21.628166+00:00
@@ -405,6 +651,12 @@
  - date published: 2023-10-30T15:18:20.534310+00:00
  - user: None
  - tags: ['game']
+
+## Team Heretics - Tienda oficial
+ - [https://teamheretics.com](https://teamheretics.com)
+ - date published: 2023-12-09T18:59:20.127080+00:00
+ - user: None
+ - tags: []
 
 ## Team management for developers - Teamplify
  - [https://teamplify.com](https://teamplify.com)
@@ -1622,6 +1874,12 @@
 ## The Intercept
  - [https://theintercept.com](https://theintercept.com)
  - date published: 2023-10-25T10:29:00.612300+00:00
+ - user: None
+ - tags: []
+
+## The Intrinsic Perspective | Erik Hoel | Substack
+ - [https://www.theintrinsicperspective.com](https://www.theintrinsicperspective.com)
+ - date published: 2023-12-09T05:59:14.893338+00:00
  - user: None
  - tags: []
 
@@ -4539,6 +4797,12 @@
  - user: None
  - tags: []
 
+## Show HN: Minimalist Calendars Generator
+ - [https://useminimal.com](https://useminimal.com)
+ - date published: 2023-12-09T21:06:53+00:00
+ - user: None
+ - tags: []
+
 ## Motion | Manage calendars, meetings, projects & tasks in one app
  - [https://www.usemotion.com](https://www.usemotion.com)
  - date published: 2023-10-25T17:54:20.063782+00:00
@@ -5366,7 +5630,7 @@
  - [https://w4games.com](https://w4games.com)
  - date published: 2023-10-25T17:58:48.483188+00:00
  - user: None
- - tags: []
+ - tags: ['godot', 'game studio']
 
 ## Wacom | Interactive pen displays , pen tablets and stylus products.
  - [https://www.wacom.com](https://www.wacom.com)
@@ -5731,270 +5995,6 @@
 ## 日本経済に貢献できるアルバイト
  - [https://webdatarender.com](https://webdatarender.com)
  - date published: 2023-10-25T18:01:17.992554+00:00
- - user: None
- - tags: []
-
-## Dominik Weber
- - [https://weberdominik.com](https://weberdominik.com)
- - date published: 2023-11-19T20:14:16.580743+00:00
- - user: None
- - tags: []
-
-## WebFX | The Digital Marketing Agency That Drives Revenue
- - [https://www.webfx.com](https://www.webfx.com)
- - date published: 2023-10-25T18:01:24.290708+00:00
- - user: None
- - tags: []
-
-## Hamster Dance
- - [https://www.webhamster.com](https://www.webhamster.com)
- - date published: 2023-10-25T11:08:08.311135+00:00
- - user: None
- - tags: ['wtf']
-
-## webrtcHacks - [10 years of] guides and information for WebRTC developers
- - [https://webrtchacks.com](https://webrtchacks.com)
- - date published: 2023-10-25T18:01:28.146325+00:00
- - user: None
- - tags: []
-
-## WECT TV6: News and Weather for Wilmington, NC
- - [https://www.wect.com](https://www.wect.com)
- - date published: 2023-11-25T16:19:11.290714+00:00
- - user: None
- - tags: ['new hanover', 'columbus', 'bladen', 'brunswick', 'pender', 'news']
-
-## Linus Torvalds - Home Page
- - [https://linustorvaldslinux.weebly.com](https://linustorvaldslinux.weebly.com)
- - date published: 2023-12-01T13:52:21+00:00
- - user: rumpel
- - tags: []
-
-## the grillo-marxuach experimental design bureau - Home
- - [https://okbjgm.weebly.com](https://okbjgm.weebly.com)
- - date published: 2023-10-25T18:01:31.000422+00:00
- - user: None
- - tags: []
-
-## Weebly is the easiest way to create a website, store or blog
- - [https://www.weebly.com](https://www.weebly.com)
- - date published: 2023-12-01T13:52:59+00:00
- - user: rumpel
- - tags: ['website creator']
-
-## Wee Noise Maker
- - [https://weenoisemaker.com](https://weenoisemaker.com)
- - date published: 2023-10-27T07:31:28.667298+00:00
- - user: None
- - tags: []
-
-## Movie News, TV News, Celebrity News, Marvel News, Netflix News, Anime News | We Got This Covered
- - [https://wegotthiscovered.com](https://wegotthiscovered.com)
- - date published: 2023-10-25T18:01:40.322328+00:00
- - user: None
- - tags: []
-
-## Weighty Thoughts | James Wang | Substack
- - [https://weightythoughts.com](https://weightythoughts.com)
- - date published: 2023-11-28T19:45:50.743393+00:00
- - user: None
- - tags: []
-
-## Welcome to Hell World
- - [https://www.welcometohellworld.com](https://www.welcometohellworld.com)
- - date published: 2023-11-01T08:43:23.743333+00:00
- - user: None
- - tags: []
-
-## Award-winning news, views, and insight from the ESET security community
- - [https://www.welivesecurity.com](https://www.welivesecurity.com)
- - date published: 2023-10-27T11:56:13.676440+00:00
- - user: None
- - tags: []
-
-## Well-Typed - The Haskell Consultants
- - [https://well-typed.com](https://well-typed.com)
- - date published: 2023-10-27T11:56:14.296417+00:00
- - user: None
- - tags: []
-
-## The Well-Appointed Desk
- - [https://www.wellappointeddesk.com](https://www.wellappointeddesk.com)
- - date published: 2023-10-27T11:56:32.300412+00:00
- - user: None
- - tags: []
-
-## Wellfound (formerly AngelList Talent) - Startup Job Search
- - [https://wellfound.com](https://wellfound.com)
- - date published: 2023-10-27T11:56:34.071844+00:00
- - user: None
- - tags: []
-
-## We Love Trump - We Love Trump
- - [https://welovetrump.com](https://welovetrump.com)
- - date published: 2023-10-27T11:56:34.660336+00:00
- - user: None
- - tags: []
-
-## Free Cheats and Trainers for Thousands of PC Games - WeMod App
- - [https://www.wemod.com](https://www.wemod.com)
- - date published: 2023-10-28T20:43:16.661569+00:00
- - user: None
- - tags: ['game trainer']
-
-## Home
- - [https://www.weny.com](https://www.weny.com)
- - date published: 2023-11-15T15:16:18.816467+00:00
- - user: None
- - tags: []
-
-## We Publish News
- - [https://wepublishnews.com](https://wepublishnews.com)
- - date published: 2023-12-06T13:22:32.502754+00:00
- - user: None
- - tags: []
-
-## THE CONTRARIAN IMPULSE
- - [https://wesammikhail.com](https://wesammikhail.com)
- - date published: 2023-10-27T11:56:36.318781+00:00
- - user: None
- - tags: []
-
-## Main Page
- - [https://blog.wesleyac.com](https://blog.wesleyac.com)
- - date published: 2023-10-27T11:56:37.768938+00:00
- - user: None
- - tags: []
-
-## Wesley Ross
- - [https://www.wesleyross.com](https://www.wesleyross.com)
- - date published: 2023-11-29T14:19:51.690739+00:00
- - user: None
- - tags: ['personal']
-
-## Wes McKinney
- - [https://wesmckinney.com](https://wesmckinney.com)
- - date published: 2023-10-27T11:56:39.333955+00:00
- - user: None
- - tags: []
-
-## High-Performance SSDs, HDDs, USB Drives, &amp; Memory Cards | Western Digital
- - [https://www.westerndigital.com](https://www.westerndigital.com)
- - date published: 2023-11-01T08:43:25.034810+00:00
- - user: None
- - tags: []
-
-## Shaping Tomorrow's Energy | Westinghouse Electric Company
- - [http://www.westinghousenuclear.com](http://www.westinghousenuclear.com)
- - date published: 2023-10-27T11:56:50.936719+00:00
- - user: None
- - tags: []
-
-## Access Denied
- - [https://www.wfaa.com](https://www.wfaa.com)
- - date published: 2023-10-27T11:56:51.812151+00:00
- - user: None
- - tags: []
-
-## Access Restricted
- - [https://www.wfla.com](https://www.wfla.com)
- - date published: 2023-11-10T02:12:09.738510+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.wfmj.com](https://www.wfmj.com)
- - date published: 2023-12-01T16:23:15.879267+00:00
- - user: None
- - tags: []
-
-## The WFMT Studs Terkel Radio Archive | A Living Celebration
- - [https://studsterkel.wfmt.com](https://studsterkel.wfmt.com)
- - date published: 2023-10-25T18:03:10.011308+00:00
- - user: None
- - tags: []
-
-## wfmz.com | Your Life, Your World, Your NEWS
- - [https://www.wfmz.com](https://www.wfmz.com)
- - date published: 2023-11-15T18:40:50.031661+00:00
- - user: None
- - tags: []
-
-## Orlando News, Weather, and Sports | WFTV – WFTV
- - [https://www.wftv.com](https://www.wftv.com)
- - date published: 2023-10-31T19:10:21.991353+00:00
- - user: None
- - tags: []
-
-## Access Denied
- - [https://www.whas11.com](https://www.whas11.com)
- - date published: 2023-10-25T18:03:10.464733+00:00
- - user: None
- - tags: []
-
-## What does this code do?
- - [https://whatdoesthiscodedo.com](https://whatdoesthiscodedo.com)
- - date published: 2023-10-25T18:03:11.005084+00:00
- - user: None
- - tags: []
-
-## What Hi-Fi? | Tech news and reviews
- - [https://www.whathifi.com](https://www.whathifi.com)
- - date published: 2023-10-25T18:03:26.791247+00:00
- - user: None
- - tags: []
-
-## What Lisa Cooks
- - [https://www.whatlisacooks.com](https://www.whatlisacooks.com)
- - date published: 2023-10-25T18:03:33.421482+00:00
- - user: None
- - tags: []
-
-## Error
- - [https://blog.whatsapp.com](https://blog.whatsapp.com)
- - date published: 2023-10-25T18:03:33.987561+00:00
- - user: None
- - tags: []
-
-## Error
- - [https://web.whatsapp.com](https://web.whatsapp.com)
- - date published: 2023-10-25T18:03:35.151613+00:00
- - user: None
- - tags: []
-
-## Error
- - [https://whatsapp.com](https://whatsapp.com)
- - date published: 2023-11-01T09:36:41.682769+00:00
- - user: None
- - tags: ['social communicator']
-
-## Whatsapp
- - [https://www.whatsapp.com](https://www.whatsapp.com)
- - date published: 2023-10-25T13:24:38+00:00
- - user: rumpel
- - tags: ['gatekeeper', 'social communicator']
-
-## WHDownLoad
- - [https://www.whdownload.com](https://www.whdownload.com)
- - date published: 2023-10-27T14:30:25.747347+00:00
- - user: None
- - tags: ['emulation', 'amiga', 'roms']
-
-## News10NBC
- - [https://www.whec.com](https://www.whec.com)
- - date published: 2023-11-12T18:45:25.297898+00:00
- - user: None
- - tags: []
-
-## Veteran Owned Strategic Marketing & SEO Consulting Firm Providing Training for Teams & Implementation
- - [https://www.wheelerconsultingco.com](https://www.wheelerconsultingco.com)
- - date published: 2023-12-08T09:38:21.228464+00:00
- - user: None
- - tags: ['personal']
-
-## When is the week end?
- - [https://whenistheweekend.com](https://whenistheweekend.com)
- - date published: 2023-11-29T19:50:25.506110+00:00
  - user: None
  - tags: []
 

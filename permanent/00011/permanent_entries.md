@@ -1,3 +1,315 @@
+## Anantha Kumaran · random thoughts
+ - [https://ananthakumaran.in](https://ananthakumaran.in)
+ - date published: 2023-10-25T19:30:18.627825+00:00
+ - user: None
+ - tags: []
+
+## Ankur Sethi is Alive and Well
+ - [https://ankursethi.in](https://ankursethi.in)
+ - date published: 2023-12-07T07:31:02.391661+00:00
+ - user: None
+ - tags: ['personal']
+
+## bitspook's online home
+ - [https://bitspook.in](https://bitspook.in)
+ - date published: 2023-10-25T19:30:19.995909+00:00
+ - user: None
+ - tags: []
+
+## BroSisCo
+ - [https://brosisco.in](https://brosisco.in)
+ - date published: 2023-11-29T17:12:31.729602+00:00
+ - user: None
+ - tags: ['personal']
+
+## Business News - Read Latest Startup, Tech, Markets, Finance, Science News - Business Insider India
+ - [https://www.businessinsider.in](https://www.businessinsider.in)
+ - date published: 2023-10-25T10:58:21.187120+00:00
+ - user: None
+ - tags: []
+
+## Business News India: Latest Business News Today, Share Market, Economy
+ - [https://www.businesstoday.in](https://www.businesstoday.in)
+ - date published: 2023-10-25T19:30:33.199366+00:00
+ - user: None
+ - tags: []
+
+## Capitalmind - Better Investing
+ - [https://www.capitalmind.in](https://www.capitalmind.in)
+ - date published: 2023-10-25T19:30:36.892364+00:00
+ - user: None
+ - tags: []
+
+## http://cirw.in
+ - [http://cirw.in](http://cirw.in)
+ - date published: 2023-10-25T19:30:39.213118+00:00
+ - user: None
+ - tags: []
+
+## Deepak’s Views
+ - [https://deepak365.in](https://deepak365.in)
+ - date published: 2023-12-02T21:17:15.760832+00:00
+ - user: None
+ - tags: ['personal']
+
+## Latest News, Breaking News, Today Headlines, India News, Top Stories at Free Press Journal
+ - [https://www.freepressjournal.in](https://www.freepressjournal.in)
+ - date published: 2023-11-04T14:28:57.466472+00:00
+ - user: None
+ - tags: []
+
+## Notes
+ - [https://notes.ghed.in](https://notes.ghed.in)
+ - date published: 2023-10-25T19:30:46.219811+00:00
+ - user: None
+ - tags: []
+
+## Latest News, Political News - LIVE TV 24x7 - HW News English - HW News English
+ - [https://hwnews.in](https://hwnews.in)
+ - date published: 2023-11-26T01:05:49.665881+00:00
+ - user: None
+ - tags: []
+
+## Internet Freedom Foundation - Internet Freedom Foundation
+ - [https://internetfreedom.in](https://internetfreedom.in)
+ - date published: 2023-10-25T19:30:47.904368+00:00
+ - user: None
+ - tags: []
+
+## Talks and Ramblings by Anant Narayanan
+ - [https://www.kix.in](https://www.kix.in)
+ - date published: 2023-10-25T19:31:09.999679+00:00
+ - user: None
+ - tags: []
+
+## Personal Site for Kyle Rankin
+ - [https://kylerank.in](https://kylerank.in)
+ - date published: 2023-10-25T19:31:12.489609+00:00
+ - user: None
+ - tags: []
+
+## Miscellaneous
+ - [https://misc.l3m.in](https://misc.l3m.in)
+ - date published: 2023-10-25T19:31:14.186671+00:00
+ - user: None
+ - tags: []
+
+## too long to tweet
+ - [https://max.levch.in](https://max.levch.in)
+ - date published: 2023-10-25T19:31:17.650076+00:00
+ - user: None
+ - tags: []
+
+## Lisper.in
+ - [https://lisper.in](https://lisper.in)
+ - date published: 2023-10-25T19:31:21.266798+00:00
+ - user: None
+ - tags: []
+
+## Kailash Nadh / Personal homepage - Developer, Tinkerer, Absurdist
+ - [https://nadh.in](https://nadh.in)
+ - date published: 2023-10-25T19:31:25.015479+00:00
+ - user: None
+ - tags: []
+
+## Newsmeter  | Latest Regional breaking news from Telangana and Andhra Pradesh
+ - [https://newsmeter.in](https://newsmeter.in)
+ - date published: 2023-10-25T19:31:29.053475+00:00
+ - user: None
+ - tags: []
+
+## Nitin, you can't be serious!
+ - [https://www.nitinpai.in](https://www.nitinpai.in)
+ - date published: 2023-10-25T19:31:30.052484+00:00
+ - user: None
+ - tags: []
+
+## PLINK! - by Dinahmoe
+ - [https://plink.in](https://plink.in)
+ - date published: 2023-10-25T19:31:30.890714+00:00
+ - user: None
+ - tags: []
+
+## Prashant Sengar - Prashant Sengar
+ - [https://prashants.in](https://prashants.in)
+ - date published: 2023-10-25T19:31:34.244782+00:00
+ - user: None
+ - tags: []
+
+## Remark - send more humane emails, using AI
+ - [https://remarkai.in](https://remarkai.in)
+ - date published: 2023-10-25T19:31:36.865009+00:00
+ - user: None
+ - tags: []
+
+## 🏡
+ - [https://rnjn.in](https://rnjn.in)
+ - date published: 2023-10-25T19:31:37.730186+00:00
+ - user: None
+ - tags: []
+
+## Scroll.in - Latest News, In depth news, India news, Politics news, Indian Cinema, Indian sports, Culture, Video News
+ - [https://scroll.in](https://scroll.in)
+ - date published: 2023-10-25T19:31:45.387708+00:00
+ - user: None
+ - tags: []
+
+## 🪬 Computer Science After Dark
+ - [https://shvbsle.in](https://shvbsle.in)
+ - date published: 2023-10-25T19:31:46.621743+00:00
+ - user: None
+ - tags: []
+
+## Sijo Kuruvilla George
+ - [https://www.sijokuruvilla.in](https://www.sijokuruvilla.in)
+ - date published: 2023-11-29T14:44:22.253123+00:00
+ - user: None
+ - tags: ['personal']
+
+## We are on a mission to make Government Services Fast and Free.
+ - [https://superr.in](https://superr.in)
+ - date published: 2023-10-25T19:31:48.323208+00:00
+ - user: None
+ - tags: []
+
+## 涛叔
+ - [https://taoshu.in](https://taoshu.in)
+ - date published: 2023-11-26T06:25:53.363435+00:00
+ - user: None
+ - tags: []
+
+## Techlomedia - Technology, Gadgets, Apps, Gaming, and Reviews
+ - [https://techlomedia.in](https://techlomedia.in)
+ - date published: 2023-10-25T19:31:51.983422+00:00
+ - user: None
+ - tags: []
+
+## News: Latest News, India News, World News, Opinion, Politics, Governance, Defence, Economy, Education | ThePrint
+ - [https://theprint.in](https://theprint.in)
+ - date published: 2023-10-25T10:45:20.955349+00:00
+ - user: None
+ - tags: []
+
+## THE WEEK
+ - [https://www.theweek.in](https://www.theweek.in)
+ - date published: 2023-11-05T18:14:02.101671+00:00
+ - user: None
+ - tags: []
+
+## The Wire: The Wire News India, Latest News,News from India, Politics, External Affairs, Science, Economics, Gender and Culture
+ - [https://thewire.in](https://thewire.in)
+ - date published: 2023-10-25T19:31:55.783674+00:00
+ - user: None
+ - tags: []
+
+## Vladimir Varankin
+ - [https://vladimir.varank.in](https://vladimir.varank.in)
+ - date published: 2023-10-25T08:49:11.612494+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ved Prakash Gupta – Developer, creator.
+ - [https://vedgupta.in](https://vedgupta.in)
+ - date published: 2023-11-24T13:49:02.967837+00:00
+ - user: None
+ - tags: []
+
+## Azadi Ka Amrit Mahotsav, Ministry of Culture, Government of India
+ - [https://amritmahotsav.nic.in](https://amritmahotsav.nic.in)
+ - date published: 2023-10-25T19:31:59.115176+00:00
+ - user: None
+ - tags: []
+
+## Bhāvanā – The mathematics magazine<br/>A publication of the Bhavana Trust
+ - [https://bhavana.org.in](https://bhavana.org.in)
+ - date published: 2023-10-25T19:32:02.777275+00:00
+ - user: None
+ - tags: []
+
+## Down To Earth | Latest news, opinion, analysis on environment & science issues | India, South Asia
+ - [https://www.downtoearth.org.in](https://www.downtoearth.org.in)
+ - date published: 2023-10-25T19:32:08.671476+00:00
+ - user: None
+ - tags: []
+
+## Community Inc. - Demystifying Community-Led Growth
+ - [https://community.inc](https://community.inc)
+ - date published: 2023-10-25T19:32:10.520894+00:00
+ - user: None
+ - tags: []
+
+## fabric Blog | E-Commerce Blog About Scaling Commerce
+ - [https://resources.fabric.inc](https://resources.fabric.inc)
+ - date published: 2023-10-25T19:32:21.457377+00:00
+ - user: None
+ - tags: []
+
+## SAILCARGO INC.  — A Zero Emission Shipping Company
+ - [https://www.sailcargo.inc](https://www.sailcargo.inc)
+ - date published: 2023-10-25T19:32:23.815279+00:00
+ - user: None
+ - tags: []
+
+## Insanity Industries
+ - [https://insanity.industries](https://insanity.industries)
+ - date published: 2023-10-25T19:32:25.103131+00:00
+ - user: None
+ - tags: []
+
+## AI Demos - AI Demos and Tips, DALL·E, Stable Diffusion, GPT-4 and more
+ - [https://www.aidemos.info](https://www.aidemos.info)
+ - date published: 2023-10-25T19:32:35.523258+00:00
+ - user: None
+ - tags: []
+
+## APLcart - Find your way in APL
+ - [https://aplcart.info](https://aplcart.info)
+ - date published: 2023-10-25T19:32:35.994932+00:00
+ - user: None
+ - tags: []
+
+## Aras' website
+ - [https://aras-p.info](https://aras-p.info)
+ - date published: 2023-10-25T19:32:37.152360+00:00
+ - user: None
+ - tags: []
+
+## Adam Sawicki Home Page - programming, graphics, games, media, C++, Windows, Internet and more...
+ - [https://asawicki.info](https://asawicki.info)
+ - date published: 2023-10-25T19:32:38.571316+00:00
+ - user: None
+ - tags: []
+
+## JohnFound home site - Home
+ - [https://asm32.info](https://asm32.info)
+ - date published: 2023-10-25T19:32:39.773355+00:00
+ - user: None
+ - tags: []
+
+## Mass Editing Memory in a Transformer
+ - [https://memit.baulab.info](https://memit.baulab.info)
+ - date published: 2023-10-25T19:32:40.955095+00:00
+ - user: None
+ - tags: []
+
+## Bibelo
+ - [https://bibelo.info](https://bibelo.info)
+ - date published: 2023-10-25T19:32:42.422658+00:00
+ - user: None
+ - tags: []
+
+## Charles Brooks Photography
+ - [https://www.charlesbrooks.info](https://www.charlesbrooks.info)
+ - date published: 2023-10-25T19:32:44.624808+00:00
+ - user: None
+ - tags: []
+
+## Chris Morgan (software developer, Bible student, &c.)
+ - [https://chrismorgan.info](https://chrismorgan.info)
+ - date published: 2023-10-25T19:32:46.489574+00:00
+ - user: None
+ - tags: []
+
 ## codewithstyle.info
  - [https://codewithstyle.info](https://codewithstyle.info)
  - date published: 2023-10-25T19:32:47.257860+00:00
@@ -873,6 +1185,18 @@
  - date published: 2023-10-25T19:38:47.226606+00:00
  - user: None
  - tags: []
+
+## Damien Brenelière's Blog
+ - [https://www.brenel.io](https://www.brenel.io)
+ - date published: 2023-12-09T14:59:45.290038+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Stephen Brennan
+ - [https://brennan.io](https://brennan.io)
+ - date published: 2023-12-09T10:38:32.840470+00:00
+ - user: None
+ - tags: ['personal']
 
 ## https://bricolage.io
  - [https://bricolage.io](https://bricolage.io)
@@ -5072,6 +5396,12 @@ through Composable Diffusion
  - user: None
  - tags: []
 
+## 403 Forbidden
+ - [https://ss.pcj.io](https://ss.pcj.io)
+ - date published: 2023-12-09T22:43:54.273209+00:00
+ - user: None
+ - tags: []
+
 ## PeerDB Blog
  - [https://blog.peerdb.io](https://blog.peerdb.io)
  - date published: 2023-11-06T20:41:48.742787+00:00
@@ -5667,334 +5997,4 @@ through Composable Diffusion
  - date published: 2023-10-25T20:07:19.031791+00:00
  - user: None
  - tags: ['operating system', 'open source']
-
-## Maxima, a Computer Algebra System
- - [https://maxima.sourceforge.io](https://maxima.sourceforge.io)
- - date published: 2023-10-25T20:07:19.918161+00:00
- - user: None
- - tags: []
-
-## SŌZU - HTTP Reverse Proxy in Rust for Immutable Infrastructures
- - [https://www.sozu.io](https://www.sozu.io)
- - date published: 2023-10-25T20:07:20.588505+00:00
- - user: None
- - tags: []
-
-## Spacelift: The Most Flexible IaC Management Platform
- - [https://spacelift.io](https://spacelift.io)
- - date published: 2023-10-25T20:07:25.497473+00:00
- - user: None
- - tags: []
-
-## SpaceTraders API
- - [https://spacetraders.io](https://spacetraders.io)
- - date published: 2023-10-25T20:07:26.291150+00:00
- - user: None
- - tags: []
-
-## Spack - Spack
- - [https://spack.io](https://spack.io)
- - date published: 2023-10-25T20:07:27.164756+00:00
- - user: None
- - tags: []
-
-## Advanced NLP with spaCy · A free online course
- - [https://course.spacy.io](https://course.spacy.io)
- - date published: 2023-10-25T20:07:33.542479+00:00
- - user: None
- - tags: []
-
-## SQLite Cloud
- - [https://blog.sqlitecloud.io](https://blog.sqlitecloud.io)
- - date published: 2023-10-25T20:07:34.803434+00:00
- - user: None
- - tags: []
-
-## Let's Encrypt Status
- - [https://letsencrypt.status.io](https://letsencrypt.status.io)
- - date published: 2023-10-25T20:07:35.624064+00:00
- - user: None
- - tags: []
-
-## reddit Status
- - [https://reddit.statuspage.io](https://reddit.statuspage.io)
- - date published: 2023-10-25T20:07:37.533135+00:00
- - user: None
- - tags: []
-
-## No-Bullshit Games
- - [https://nobsgames.stavros.io](https://nobsgames.stavros.io)
- - date published: 2023-11-27T06:59:49+00:00
- - user: None
- - tags: []
-
-## https://phantasmagoria.stavros.io
- - [https://phantasmagoria.stavros.io](https://phantasmagoria.stavros.io)
- - date published: 2023-10-25T20:07:44.067474+00:00
- - user: None
- - tags: []
-
-## Stealth Security
- - [https://stealthsecurity.io](https://stealthsecurity.io)
- - date published: 2023-10-25T20:07:45.435227+00:00
- - user: None
- - tags: []
-
-## Steambase
- - [https://steambase.io](https://steambase.io)
- - date published: 2023-11-13T19:48:31.691442+00:00
- - user: None
- - tags: []
-
-## Steampipe | select * from cloud;
- - [https://steampipe.io](https://steampipe.io)
- - date published: 2023-10-25T20:07:52.520453+00:00
- - user: None
- - tags: []
-
-## STENDEC
- - [https://stendec.io](https://stendec.io)
- - date published: 2023-10-25T20:07:54.044015+00:00
- - user: None
- - tags: []
-
-## Blog - stitcher.io
- - [https://stitcher.io](https://stitcher.io)
- - date published: 2023-10-25T20:07:58.151576+00:00
- - user: None
- - tags: []
-
-## Stepan Parunashvili
- - [https://stopa.io](https://stopa.io)
- - date published: 2023-10-25T20:08:00.512572+00:00
- - user: None
- - tags: []
-
-## Globally Distributed Cloud Object Storage
- - [https://www.storj.io](https://www.storj.io)
- - date published: 2023-10-25T20:08:04.187915+00:00
- - user: None
- - tags: []
-
-## Streambatch.io NDVI API
- - [https://www.streambatch.io](https://www.streambatch.io)
- - date published: 2023-10-25T20:08:06.092524+00:00
- - user: None
- - tags: []
-
-## Blog on Building & Sharing Data Apps | Streamlit Blog
- - [https://blog.streamlit.io](https://blog.streamlit.io)
- - date published: 2023-10-25T20:08:08.074530+00:00
- - user: None
- - tags: []
-
-## http://share.streamlit.io
- - [http://share.streamlit.io](http://share.streamlit.io)
- - date published: 2023-10-25T20:08:09.695793+00:00
- - user: None
- - tags: []
-
-## StreamNative | Apache Pulsar & Cloud-Native Messaging
- - [https://streamnative.io](https://streamnative.io)
- - date published: 2023-10-25T20:08:12.433385+00:00
- - user: None
- - tags: []
-
-## JavaScript Barcode Scanning Library
- - [https://strich.io](https://strich.io)
- - date published: 2023-10-25T20:08:19.288564+00:00
- - user: None
- - tags: []
-
-## Subsection.io
- - [https://subsection.io](https://subsection.io)
- - date published: 2023-10-25T20:08:21.016966+00:00
- - user: None
- - tags: []
-
-## sunshowers
- - [https://sunshowers.io](https://sunshowers.io)
- - date published: 2023-10-25T20:08:22.475120+00:00
- - user: None
- - tags: []
-
-## Coding Stephan
- - [https://svrooij.io](https://svrooij.io)
- - date published: 2023-10-25T20:08:24.094901+00:00
- - user: None
- - tags: []
-
-## Swan - The easiest way to embed banking features
- - [https://www.swan.io](https://www.swan.io)
- - date published: 2023-10-25T20:08:26.926477+00:00
- - user: None
- - tags: []
-
-## Latent Space | swyx | Substack
- - [https://lspace.swyx.io](https://lspace.swyx.io)
- - date published: 2023-10-25T20:08:37.542967+00:00
- - user: None
- - tags: []
-
-## swyx's site
- - [https://www.swyx.io](https://www.swyx.io)
- - date published: 2023-10-25T20:11:08.959268+00:00
- - user: None
- - tags: []
-
-## Synq | Deliver reliable models and metrics | Synq
- - [https://www.synq.io](https://www.synq.io)
- - date published: 2023-10-25T20:11:10.050394+00:00
- - user: None
- - tags: []
-
-## System and Service Manager
- - [https://systemd.io](https://systemd.io)
- - date published: 2023-11-21T07:48:30+00:00
- - user: rumpel
- - tags: ['open source', 'systemd', 'linux']
-
-## TACHYONS - Css Toolkit
- - [https://tachyons.io](https://tachyons.io)
- - date published: 2023-10-25T20:11:11.800274+00:00
- - user: None
- - tags: []
-
-## Talkyard
- - [https://www.talkyard.io](https://www.talkyard.io)
- - date published: 2023-10-25T20:11:13.606524+00:00
- - user: None
- - tags: []
-
-## Tarantool Data Integration Platform
- - [https://www.tarantool.io](https://www.tarantool.io)
- - date published: 2023-12-02T15:51:11.384341+00:00
- - user: None
- - tags: []
-
-## Tavus | The Most Advanced AI Video Personalization Platform
- - [https://www.tavus.io](https://www.tavus.io)
- - date published: 2023-10-25T20:11:15.699443+00:00
- - user: None
- - tags: []
-
-## Tembo
- - [https://tembo.io](https://tembo.io)
- - date published: 2023-10-25T20:11:16.524916+00:00
- - user: None
- - tags: []
-
-## Open Source Durable Execution Platform | Temporal Technologies
- - [https://temporal.io](https://temporal.io)
- - date published: 2023-10-25T20:11:18.787668+00:00
- - user: None
- - tags: []
-
-## Termshark – A terminal UI for tshark, inspired by Wireshark
- - [https://termshark.io](https://termshark.io)
- - date published: 2023-12-05T14:32:12+00:00
- - user: None
- - tags: []
-
-## Terrateam | Terraform automation for GitHub
- - [https://terrateam.io](https://terrateam.io)
- - date published: 2023-10-25T20:11:19.804400+00:00
- - user: None
- - tags: []
-
-## Textual
- - [https://textual.textualize.io](https://textual.textualize.io)
- - date published: 2023-10-25T20:11:29.080654+00:00
- - user: None
- - tags: []
-
-## Textualize - Home
- - [https://www.textualize.io](https://www.textualize.io)
- - date published: 2023-10-25T20:11:30.506711+00:00
- - user: None
- - tags: []
-
-## Apricot Blog
- - [https://blog.theapricot.io](https://blog.theapricot.io)
- - date published: 2023-10-25T08:37:46.129251+00:00
- - user: None
- - tags: []
-
-## The Driven |
- - [https://thedriven.io](https://thedriven.io)
- - date published: 2023-10-25T20:11:36.997339+00:00
- - user: None
- - tags: []
-
-## The New Stack | DevOps, Open Source, and Cloud Native News
- - [https://thenewstack.io](https://thenewstack.io)
- - date published: 2023-10-25T09:37:01.943177+00:00
- - user: None
- - tags: []
-
-## Philip Herrons Personal Blog – Compilers and stuff
- - [https://thephilbert.io](https://thephilbert.io)
- - date published: 2023-10-25T20:11:38.288865+00:00
- - user: None
- - tags: []
-
-## The Prompt: Getting AI smart in just 3 minutes
- - [https://www.theprompt.io](https://www.theprompt.io)
- - date published: 2023-10-25T20:11:42.348627+00:00
- - user: None
- - tags: []
-
-## Show HN: ThreeFold – Decentralized Cloud Infrastructure
- - [https://threefold.io](https://threefold.io)
- - date published: 2023-12-02T20:43:14+00:00
- - user: None
- - tags: []
-
-## ThrowawayOpinions
- - [https://throwawayopinions.io](https://throwawayopinions.io)
- - date published: 2023-10-25T20:11:43.353030+00:00
- - user: None
- - tags: []
-
-## Home | thul.io
- - [https://thul.io](https://thul.io)
- - date published: 2023-10-25T20:11:44.138258+00:00
- - user: None
- - tags: []
-
-## Free Graphical Abstract Maker | Tidbit
- - [https://tidbitapp.io](https://tidbitapp.io)
- - date published: 2023-11-14T21:31:07.441734+00:00
- - user: None
- - tags: []
-
-## Digital Economy Payment Solutions | Tilia
- - [https://www.tilia.io](https://www.tilia.io)
- - date published: 2023-10-25T20:11:46.185217+00:00
- - user: None
- - tags: []
-
-## Tilores | No-Code Identity Resolution Platform for Fraud Prevention, KYC & AML
- - [https://tilores.io](https://tilores.io)
- - date published: 2023-10-25T20:11:48.283552+00:00
- - user: None
- - tags: []
-
-## The Markdown CMS | Tina
- - [https://tina.io](https://tina.io)
- - date published: 2023-11-21T02:39:14.089010+00:00
- - user: None
- - tags: []
-
-## Tlon Corporation
- - [https://tlon.io](https://tlon.io)
- - date published: 2023-10-25T20:11:49.018973+00:00
- - user: None
- - tags: []
-
-## TOML: Tom's Obvious Minimal Language
- - [https://toml.io](https://toml.io)
- - date published: 2023-10-25T20:11:49.897205+00:00
- - user: None
- - tags: []
 
