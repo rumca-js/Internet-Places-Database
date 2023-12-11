@@ -1,3 +1,255 @@
+## Verma Notes
+ - [https://blog.theabhishek.dev](https://blog.theabhishek.dev)
+ - date published: 2023-10-25T18:42:42.879233+00:00
+ - user: None
+ - tags: []
+
+## themer - development environment theme creator
+ - [https://themer.dev](https://themer.dev)
+ - date published: 2023-10-25T18:42:43.703160+00:00
+ - user: None
+ - tags: []
+
+## Nile Database
+ - [https://www.thenile.dev](https://www.thenile.dev)
+ - date published: 2023-11-01T17:47:14.660009+00:00
+ - user: None
+ - tags: []
+
+## Odyssey
+ - [https://theodyssey.dev](https://theodyssey.dev)
+ - date published: 2023-10-25T18:42:49.667687+00:00
+ - user: None
+ - tags: []
+
+## The Pasture | The musings, ideas, discussions, and sometimes silly words from a digital sheep magician
+ - [https://thephd.dev](https://thephd.dev)
+ - date published: 2023-10-25T18:42:55.519026+00:00
+ - user: None
+ - tags: []
+
+## The Valuable Dev
+ - [https://thevaluable.dev](https://thevaluable.dev)
+ - date published: 2023-10-25T18:42:57.493336+00:00
+ - user: None
+ - tags: []
+
+## Thomas SIMON
+ - [https://thomassimon.dev](https://thomassimon.dev)
+ - date published: 2023-10-25T08:49:00.185996+00:00
+ - user: None
+ - tags: ['personal']
+
+## thunderseethe's devlog
+ - [https://thunderseethe.dev](https://thunderseethe.dev)
+ - date published: 2023-10-25T08:58:54.572602+00:00
+ - user: None
+ - tags: ['personal']
+
+## Toji.dev | Brandon Jones - Graphics and XR on the web
+ - [https://toji.dev](https://toji.dev)
+ - date published: 2023-10-25T18:42:59.243389+00:00
+ - user: None
+ - tags: []
+
+## Harrison Totty
+ - [https://harrison.totty.dev](https://harrison.totty.dev)
+ - date published: 2023-10-25T08:58:55.261635+00:00
+ - user: None
+ - tags: ['personal']
+
+## Trigger.dev | The open source background jobs framework
+ - [https://trigger.dev](https://trigger.dev)
+ - date published: 2023-10-25T08:34:42.404388+00:00
+ - user: None
+ - tags: []
+
+## trycatch.dev
+ - [https://trycatch.dev](https://trycatch.dev)
+ - date published: 2023-10-25T09:26:21.531803+00:00
+ - user: None
+ - tags: ['personal']
+
+## Typehero: All you need to become a TypeScript menace
+ - [https://typehero.dev](https://typehero.dev)
+ - date published: 2023-12-04T03:53:55+00:00
+ - user: None
+ - tags: []
+
+## Find Hacker News candidates and jobs powered by ChatGPT
+ - [https://hnjobs.u-turn.dev](https://hnjobs.u-turn.dev)
+ - date published: 2023-11-01T15:43:46.245419+00:00
+ - user: None
+ - tags: []
+
+## Ujjwal Goel
+ - [https://ujjwal.dev](https://ujjwal.dev)
+ - date published: 2023-10-25T08:49:01.473893+00:00
+ - user: None
+ - tags: ['personal']
+
+## Unlighthouse - Site-wide Google Lighthouse · Unlighthouse
+ - [https://unlighthouse.dev](https://unlighthouse.dev)
+ - date published: 2023-10-25T18:43:02.237015+00:00
+ - user: None
+ - tags: []
+
+## Unovis
+ - [https://unovis.dev](https://unovis.dev)
+ - date published: 2023-10-25T18:43:05.156320+00:00
+ - user: None
+ - tags: []
+
+## Unravelled Development
+ - [https://www.unravelled.dev](https://www.unravelled.dev)
+ - date published: 2023-10-25T18:43:07.018711+00:00
+ - user: None
+ - tags: []
+
+## Unzip.dev - Developer trends newsletter
+ - [https://unzip.dev](https://unzip.dev)
+ - date published: 2023-10-25T18:43:08.774440+00:00
+ - user: None
+ - tags: []
+
+## Uptrace
+ - [https://app.uptrace.dev](https://app.uptrace.dev)
+ - date published: 2023-10-25T18:43:14.827578+00:00
+ - user: None
+ - tags: []
+
+## V8 JavaScript engine
+ - [https://v8.dev](https://v8.dev)
+ - date published: 2023-10-25T18:43:16.107391+00:00
+ - user: None
+ - tags: []
+
+## Hylo | The Hylo Programming Language
+ - [https://www.val-lang.dev](https://www.val-lang.dev)
+ - date published: 2023-10-25T18:43:18.033836+00:00
+ - user: None
+ - tags: []
+
+## Zowie van Dillen
+ - [https://z.vandillen.dev](https://z.vandillen.dev)
+ - date published: 2023-10-25T18:43:19.713621+00:00
+ - user: None
+ - tags: []
+
+## http://verdagon.dev
+ - [http://verdagon.dev](http://verdagon.dev)
+ - date published: 2023-10-25T18:43:21.972478+00:00
+ - user: None
+ - tags: []
+
+## Verifiable Credentials
+ - [https://verifiablecredentials.dev](https://verifiablecredentials.dev)
+ - date published: 2023-10-25T18:43:28.655087+00:00
+ - user: None
+ - tags: []
+
+## victoria.dev
+ - [https://victoria.dev](https://victoria.dev)
+ - date published: 2023-10-25T09:26:22.317356+00:00
+ - user: None
+ - tags: ['personal']
+
+## Visibly
+ - [https://visibly.dev](https://visibly.dev)
+ - date published: 2023-10-25T18:43:30.995597+00:00
+ - user: None
+ - tags: []
+
+## VisionScript - VisionScript Documentation
+ - [https://visionscript.dev](https://visionscript.dev)
+ - date published: 2023-10-25T18:43:37.995056+00:00
+ - user: None
+ - tags: []
+
+## Vite | Next Generation Frontend Tooling
+ - [https://vitejs.dev](https://vitejs.dev)
+ - date published: 2023-10-25T18:43:39.671574+00:00
+ - user: None
+ - tags: []
+
+## Lane's Blog
+ - [https://wagslane.dev](https://wagslane.dev)
+ - date published: 2023-10-25T18:43:41.490625+00:00
+ - user: None
+ - tags: []
+
+## Walid Ziouche
+ - [https://walid.dev](https://walid.dev)
+ - date published: 2023-10-25T18:43:48.534864+00:00
+ - user: None
+ - tags: []
+
+## Warp: Your terminal, reimagined
+ - [https://www.warp.dev](https://www.warp.dev)
+ - date published: 2023-10-27T11:57:03.431124+00:00
+ - user: None
+ - tags: []
+
+## Warrant Blog | Warrant Blog
+ - [https://blog.warrant.dev](https://blog.warrant.dev)
+ - date published: 2023-10-25T18:44:06.101677+00:00
+ - user: None
+ - tags: []
+
+## Washi
+ - [https://blog.washi.dev](https://blog.washi.dev)
+ - date published: 2023-10-25T18:44:10.022725+00:00
+ - user: None
+ - tags: []
+
+## Wasm By Example
+ - [https://wasmbyexample.dev](https://wasmbyexample.dev)
+ - date published: 2023-11-15T15:16:15.958415+00:00
+ - user: None
+ - tags: []
+
+## WasmFX: Effect Handlers for WebAssembly
+ - [https://wasmfx.dev](https://wasmfx.dev)
+ - date published: 2023-11-07T23:04:21+00:00
+ - user: None
+ - tags: []
+
+## Wasm Labs at VMware OCTO
+ - [https://wasmlabs.dev](https://wasmlabs.dev)
+ - date published: 2023-10-25T18:44:11.962330+00:00
+ - user: None
+ - tags: []
+
+## Wasp
+ - [https://wasp-lang.dev](https://wasp-lang.dev)
+ - date published: 2023-10-25T18:44:13.919020+00:00
+ - user: None
+ - tags: []
+
+## Waveterm
+ - [https://www.waveterm.dev](https://www.waveterm.dev)
+ - date published: 2023-12-10T03:33:48+00:00
+ - user: None
+ - tags: []
+
+## web.dev
+ - [https://web.dev](https://web.dev)
+ - date published: 2023-10-25T18:44:17.767137+00:00
+ - user: None
+ - tags: []
+
+## WebArena: A Realistic Web Environment for Building Autonomous Agents
+ - [https://webarena.dev](https://webarena.dev)
+ - date published: 2023-10-25T18:44:21.189861+00:00
+ - user: None
+ - tags: []
+
+## Home | Andy Hippo
+ - [https://werat.dev](https://werat.dev)
+ - date published: 2023-10-25T18:44:22.806744+00:00
+ - user: None
+ - tags: []
+
 ## Gustav Westling
  - [https://westling.dev](https://westling.dev)
  - date published: 2023-10-25T18:44:24.486704+00:00
@@ -343,6 +595,12 @@
 ## Bard College
  - [https://www.bard.edu](https://www.bard.edu)
  - date published: 2023-10-25T18:47:01.280987+00:00
+ - user: None
+ - tags: []
+
+## Baylor College of Medicine Blog Network
+ - [https://blogs.bcm.edu](https://blogs.bcm.edu)
+ - date published: 2023-12-10T11:15:31.259852+00:00
  - user: None
  - tags: []
 
@@ -2363,6 +2621,12 @@
  - user: None
  - tags: []
 
+## Keck School of Medicine Home
+ - [https://keck2.usc.edu](https://keck2.usc.edu)
+ - date published: 2023-12-10T11:37:34.314465+00:00
+ - user: None
+ - tags: []
+
 ## Home - Research and Innovation
  - [https://research.usc.edu](https://research.usc.edu)
  - date published: 2023-10-25T19:04:35.017898+00:00
@@ -2402,6 +2666,12 @@
 ## Math - The University of Utah
  - [https://www.math.utah.edu](https://www.math.utah.edu)
  - date published: 2023-10-25T19:04:53.006400+00:00
+ - user: None
+ - tags: []
+
+## News Homepage
+ - [https://news.utdallas.edu](https://news.utdallas.edu)
+ - date published: 2023-12-10T12:18:35.847710+00:00
  - user: None
  - tags: []
 
@@ -2456,6 +2726,12 @@
 ## Home - UT Health San Antonio
  - [https://news.uthscsa.edu](https://news.uthscsa.edu)
  - date published: 2023-10-25T19:05:27.448402+00:00
+ - user: None
+ - tags: []
+
+## UToledo News
+ - [https://news.utoledo.edu](https://news.utoledo.edu)
+ - date published: 2023-12-10T14:19:01.028879+00:00
  - user: None
  - tags: []
 
@@ -5730,283 +6006,6 @@
 ## telex
  - [https://telex.hu](https://telex.hu)
  - date published: 2023-11-22T17:38:44.501720+00:00
- - user: None
- - tags: []
-
-## goose.icu
- - [https://goose.icu](https://goose.icu)
- - date published: 2023-10-27T20:10:59.917422+00:00
- - user: None
- - tags: []
-
-## Preloved - Jual-Beli Baju Vintage di Thrift Shop Online
- - [https://preloved.co.id](https://preloved.co.id)
- - date published: 2023-10-25T19:28:30.280862+00:00
- - user: None
- - tags: []
-
-## Passwordless Authentication Powered by Passkeys | Passage by 1Password
- - [https://passage.id](https://passage.id)
- - date published: 2023-10-25T19:28:32.133386+00:00
- - user: None
- - tags: []
-
-## Retr0id
- - [https://retr0.id](https://retr0.id)
- - date published: 2023-10-25T19:28:32.529500+00:00
- - user: None
- - tags: []
-
-## Home | xavd.id
- - [https://xavd.id](https://xavd.id)
- - date published: 2023-10-25T19:28:33.367988+00:00
- - user: None
- - tags: []
-
-## Adrian Cooney - Full Stack Engineer
- - [https://www.adriancooney.ie](https://www.adriancooney.ie)
- - date published: 2023-10-25T19:28:34.235961+00:00
- - user: None
- - tags: []
-
-## Brian McGee
- - [https://bmcgee.ie](https://bmcgee.ie)
- - date published: 2023-10-25T19:28:34.867850+00:00
- - user: None
- - tags: []
-
-## Trusted Independent Journalism Seven Days a Week | Business Post
- - [https://www.businesspost.ie](https://www.businesspost.ie)
- - date published: 2023-10-25T19:28:37.282146+00:00
- - user: None
- - tags: []
-
-## Castlebridge - We help people do great things with data.
- - [https://castlebridge.ie](https://castlebridge.ie)
- - date published: 2023-10-25T19:28:44.340624+00:00
- - user: None
- - tags: []
-
-## Homepage | Data Protection Commission
- - [https://dataprotection.ie](https://dataprotection.ie)
- - date published: 2023-10-25T19:28:46.332271+00:00
- - user: None
- - tags: []
-
-## Homepage - Essays, Blog Posts & Book Reviews - Dublin Review of Books
- - [https://drb.ie](https://drb.ie)
- - date published: 2023-10-25T19:28:48.128561+00:00
- - user: None
- - tags: []
-
-## - Irish Council for Civil Liberties
- - [https://www.iccl.ie](https://www.iccl.ie)
- - date published: 2023-10-25T19:28:50.484106+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://ind.ie](https://ind.ie)
- - date published: 2023-11-15T17:47:45.736424+00:00
- - user: None
- - tags: ['personal']
-
-## Independent.ie
- - [https://www.independent.ie](https://www.independent.ie)
- - date published: 2023-10-25T19:29:09.791542+00:00
- - user: None
- - tags: []
-
-## The Iona Institute
- - [https://ionainstitute.ie](https://ionainstitute.ie)
- - date published: 2023-10-25T19:29:12.803143+00:00
- - user: None
- - tags: []
-
-## mastodon.ie
- - [https://mastodon.ie](https://mastodon.ie)
- - date published: 2023-10-24T20:13:22.323122+00:00
- - user: None
- - tags: ['mastodon']
-
-## RTÉ Ireland's National Television and Radio Broadcaster
- - [https://www.rte.ie](https://www.rte.ie)
- - date published: 2023-11-13T11:39:36.280341+00:00
- - user: None
- - tags: []
-
-## Trinity College Dublin
- - [https://www.tcd.ie](https://www.tcd.ie)
- - date published: 2023-10-27T11:57:09.533071+00:00
- - user: None
- - tags: []
-
-## The Book Resort Book Subscription Box| Irish Subscription Box
- - [https://www.thebookresort.ie](https://www.thebookresort.ie)
- - date published: 2023-12-02T08:10:41.745901+00:00
- - user: None
- - tags: []
-
-## Tristam – Plays with tech.
- - [https://tristam.ie](https://tristam.ie)
- - date published: 2023-10-25T19:29:24.615760+00:00
- - user: None
- - tags: []
-
-## Home - Writing.ie
- - [https://www.writing.ie](https://www.writing.ie)
- - date published: 2023-11-20T17:24:19.164149+00:00
- - user: None
- - tags: []
-
-## Jerusalem Journal of Archaeology
- - [https://jjar.huji.ac.il](https://jjar.huji.ac.il)
- - date published: 2023-10-25T19:29:26.869067+00:00
- - user: None
- - tags: []
-
-## Tel Aviv University | Tel Aviv University
- - [https://english.tau.ac.il](https://english.tau.ac.il)
- - date published: 2023-10-25T19:29:32.967224+00:00
- - user: None
- - tags: []
-
-## Weizmann Wonder Wander - News, Features and Discoveries from the Weizmann Institute of Science
- - [https://wis-wander.weizmann.ac.il](https://wis-wander.weizmann.ac.il)
- - date published: 2023-10-25T10:11:36.340185+00:00
- - user: None
- - tags: []
-
-## דף הבית - ערן שטרן
- - [https://www.eranstern.co.il](https://www.eranstern.co.il)
- - date published: 2023-11-17T15:06:30+00:00
- - user: rumpel
- - tags: ['personal']
-
-## הארץ - חדשות, ידיעות מהארץ והעולם - עיתון הארץ
- - [https://img.haarets.co.il](https://img.haarets.co.il)
- - date published: 2023-12-04T15:32:28.521089+00:00
- - user: None
- - tags: []
-
-## חדשות, דעות, תרבות, ספורט, כלכלה מהארץ והעולם | ישראל היום
- - [https://www.israelhayom.co.il](https://www.israelhayom.co.il)
- - date published: 2023-12-09T19:39:09.657744+00:00
- - user: None
- - tags: []
-
-## Israel Today - News & Commentary. Stay Informed, Pray Informed.
- - [https://www.israeltoday.co.il](https://www.israeltoday.co.il)
- - date published: 2023-11-09T09:15:33.642354+00:00
- - user: None
- - tags: ['israel news']
-
-## Teaching Python and data science around the world
- - [https://lerner.co.il](https://lerner.co.il)
- - date published: 2023-10-27T11:57:12.193154+00:00
- - user: None
- - tags: []
-
-## https://www.idf.il
- - [https://www.idf.il](https://www.idf.il)
- - date published: 2023-11-13T20:52:27.483837+00:00
- - user: None
- - tags: []
-
-## Homepage - Steven Spielberg
- - [https://www.spielbergfilmarchive.org.il](https://www.spielbergfilmarchive.org.il)
- - date published: 2023-11-13T12:53:02.637342+00:00
- - user: None
- - tags: []
-
-## Avinash Sajjanshetty
- - [https://avi.im](https://avi.im)
- - date published: 2023-10-25T19:29:34.523543+00:00
- - user: None
- - tags: []
-
-## Lachlan Gray
- - [https://lachlangray.blot.im](https://lachlangray.blot.im)
- - date published: 2023-10-25T19:29:36.419354+00:00
- - user: None
- - tags: []
-
-## Chitchatter
- - [https://chitchatter.im](https://chitchatter.im)
- - date published: 2023-10-25T19:29:37.689121+00:00
- - user: None
- - tags: []
-
-## Dino. Communicating happiness.
- - [https://dino.im](https://dino.im)
- - date published: 2023-10-25T19:29:39.810980+00:00
- - user: None
- - tags: []
-
-## Embed.im
- - [https://embed.im](https://embed.im)
- - date published: 2023-10-25T19:29:47.571380+00:00
- - user: None
- - tags: []
-
-## frantic.im / frantic.im
- - [https://frantic.im](https://frantic.im)
- - date published: 2023-10-25T19:29:49.742667+00:00
- - user: None
- - tags: []
-
-## Deciphering Glyph ::
-        index
- - [https://blog.glyph.im](https://blog.glyph.im)
- - date published: 2023-10-25T19:29:54.630525+00:00
- - user: None
- - tags: []
-
-## Mooshim Engineering
- - [https://moosh.im](https://moosh.im)
- - date published: 2023-10-25T19:29:57.502606+00:00
- - user: None
- - tags: []
-
-## ObjFW: Documentation
- - [https://objfw.nil.im](https://objfw.nil.im)
- - date published: 2023-10-25T19:29:58.635208+00:00
- - user: None
- - tags: []
-
-## Phoenix R&D
- - [https://blog.phnx.im](https://blog.phnx.im)
- - date published: 2023-10-25T19:29:59.443505+00:00
- - user: None
- - tags: []
-
-## Prosodical Thoughts
- - [https://blog.prosody.im](https://blog.prosody.im)
- - date published: 2023-10-25T19:30:00.308281+00:00
- - user: None
- - tags: []
-
-## Peter Saint-Andre
- - [https://stpeter.im](https://stpeter.im)
- - date published: 2023-11-15T17:36:31.286138+00:00
- - user: None
- - tags: ['personal', 'blog']
-
-## The Fomu family. | I’m Tomu - A tiny ARM microprocessor which fits in your USB port.
- - [https://tomu.im](https://tomu.im)
- - date published: 2023-10-25T19:30:01.768356+00:00
- - user: None
- - tags: []
-
-## Eat Right India
- - [https://eatrightindia.gov.in](https://eatrightindia.gov.in)
- - date published: 2023-10-25T19:30:07.569497+00:00
- - user: None
- - tags: []
-
-## Indian Space Research Organisation
- - [https://www.isro.gov.in](https://www.isro.gov.in)
- - date published: 2023-10-25T19:30:10.700192+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,15 @@
+## pwn.college
+ - [https://pwn.college](https://pwn.college)
+ - date published: 2023-10-25T12:25:44.473467+00:00
+ - user: None
+ - tags: []
+
+## Freedom, Research & Creativity | 032c
+ - [https://032c.com](https://032c.com)
+ - date published: 2023-10-25T12:26:01.255336+00:00
+ - user: None
+ - tags: []
+
 ## Lennart Koopmann
  - [https://www.0x58ed.com](https://www.0x58ed.com)
  - date published: 2023-10-25T09:04:02.768854+00:00
@@ -1515,6 +1527,12 @@
  - date published: 2023-10-25T12:38:39.923436+00:00
  - user: None
  - tags: []
+
+## Alive in the Fire, a yoga and healthy living blog
+ - [https://www.aliveinthefire.com](https://www.aliveinthefire.com)
+ - date published: 2023-12-10T16:59:11.114465+00:00
+ - user: None
+ - tags: ['personal']
 
 ## ספר היידע של התקנים מכניים מופלאים – האתר מחזיר לחיים את ספרו של אל-ג'זרי, מהנדס חצר בדיארבקיר במאה ה-12
  - [https://aljazaribook.com](https://aljazaribook.com)
@@ -3430,6 +3448,12 @@
  - user: None
  - tags: []
 
+## Ava PLS: open-source application for running language models locally
+ - [https://avapls.com](https://avapls.com)
+ - date published: 2023-12-08T18:53:16+00:00
+ - user: None
+ - tags: []
+
 ## Ava PLS
  - [https://www.avapls.com](https://www.avapls.com)
  - date published: 2023-10-25T12:49:54.642743+00:00
@@ -3601,6 +3625,12 @@
 ## Ayaz Hafiz
  - [https://ayazhafiz.com](https://ayazhafiz.com)
  - date published: 2023-10-25T12:51:28.060177+00:00
+ - user: None
+ - tags: []
+
+## Ayende @ Rahien
+ - [https://ayende.com](https://ayende.com)
+ - date published: 2023-12-10T20:34:34.924268+00:00
  - user: None
  - tags: []
 
@@ -4531,6 +4561,12 @@
 ## BMC Medicine | Home page
  - [https://bmcmedicine.biomedcentral.com](https://bmcmedicine.biomedcentral.com)
  - date published: 2023-10-25T13:00:29.613132+00:00
+ - user: None
+ - tags: []
+
+## BMC Psychiatry
+ - [https://bmcpsychiatry.biomedcentral.com](https://bmcpsychiatry.biomedcentral.com)
+ - date published: 2023-12-10T04:34:24.787601+00:00
  - user: None
  - tags: []
 
@@ -5959,42 +5995,6 @@
 ## http://farewell.bostonunitygroup.com
  - [http://farewell.bostonunitygroup.com](http://farewell.bostonunitygroup.com)
  - date published: 2023-10-25T14:22:30.115365+00:00
- - user: None
- - tags: []
-
-## Both Sides of the Table
- - [https://bothsidesofthetable.com](https://bothsidesofthetable.com)
- - date published: 2023-10-25T14:22:36.109786+00:00
- - user: None
- - tags: []
-
-## Computer Science from the Bottom Up
- - [https://www.bottomupcs.com](https://www.bottomupcs.com)
- - date published: 2023-10-25T14:22:42.149490+00:00
- - user: None
- - tags: []
-
-## Bounding Into Comics - Your destination for comic books, gaming, movies and more!
- - [https://boundingintocomics.com](https://boundingintocomics.com)
- - date published: 2023-10-25T11:19:12.732997+00:00
- - user: None
- - tags: []
-
-## Boundless: A Modern Immigration Company
- - [https://www.boundless.com](https://www.boundless.com)
- - date published: 2023-10-25T14:22:46.725060+00:00
- - user: None
- - tags: []
-
-## HOME | Bovska
- - [https://www.bovska.com](https://www.bovska.com)
- - date published: 2023-11-13T09:47:00.519610+00:00
- - user: None
- - tags: ['music band']
-
-## boz.
- - [https://boz.com](https://boz.com)
- - date published: 2023-10-25T13:10:06.427820+00:00
  - user: None
  - tags: []
 

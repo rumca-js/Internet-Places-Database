@@ -1,3 +1,63 @@
+## Drunk Pastor
+ - [https://drunkpastor.com](https://drunkpastor.com)
+ - date published: 2023-11-29T15:32:18.653046+00:00
+ - user: None
+ - tags: []
+
+## ds-security.com
+ - [https://ds-security.com](https://ds-security.com)
+ - date published: 2023-11-25T11:48:54.004989+00:00
+ - user: None
+ - tags: []
+
+## DSF ANTIQUE JEWELRY
+ - [https://dsfantiquejewelry.com](https://dsfantiquejewelry.com)
+ - date published: 2023-10-25T13:59:20.748611+00:00
+ - user: None
+ - tags: []
+
+## DSOGaming - PC Games News, Screenshots, Trailers & More
+ - [https://www.dsogaming.com](https://www.dsogaming.com)
+ - date published: 2023-10-26T19:02:28.844140+00:00
+ - user: None
+ - tags: ['game news']
+
+## Dennis Sy Singer Songwriter Producer
+ - [https://dsymusic.com](https://dsymusic.com)
+ - date published: 2023-11-29T17:05:39.546520+00:00
+ - user: None
+ - tags: ['personal']
+
+## Duarte O.Carmo
+ - [https://duarteocarmo.com](https://duarteocarmo.com)
+ - date published: 2023-10-25T09:20:20.172980+00:00
+ - user: None
+ - tags: ['personal']
+
+## DuckDuckGo — Privacy, simplified.
+ - [https://duckduckgo.com](https://duckduckgo.com)
+ - date published: 2023-10-25T08:28:05.025287+00:00
+ - user: None
+ - tags: ['search engine']
+
+## Welcome | DuckDuckGo Help Pages
+ - [https://help.duckduckgo.com](https://help.duckduckgo.com)
+ - date published: 2023-10-25T13:59:34.994405+00:00
+ - user: None
+ - tags: []
+
+## Duffel - The best API to sell travel.
+ - [https://duffel.com](https://duffel.com)
+ - date published: 2023-10-25T13:59:37.618037+00:00
+ - user: None
+ - tags: []
+
+## Games by Lucas Pope
+ - [https://dukope.com](https://dukope.com)
+ - date published: 2023-10-25T13:59:39.811375+00:00
+ - user: None
+ - tags: []
+
 ## Dumb Cuneiform. We'll take your tweets and make them permanent clay tablets.
  - [https://dumbcuneiform.com](https://dumbcuneiform.com)
  - date published: 2023-10-25T13:59:42.146786+00:00
@@ -573,6 +633,12 @@
  - date published: 2023-10-25T14:04:56.240950+00:00
  - user: None
  - tags: []
+
+## Electrifying.com | The electric car experts
+ - [https://www.electrifying.com](https://www.electrifying.com)
+ - date published: 2023-12-10T11:12:49.347373+00:00
+ - user: None
+ - tags: ['electric vehicles']
 
 ## Home - electrive.com
  - [https://www.electrive.com](https://www.electrive.com)
@@ -1201,6 +1267,12 @@
 ## ESG Hound | Substack
  - [https://blog.esghound.com](https://blog.esghound.com)
  - date published: 2023-10-25T14:09:42.821345+00:00
+ - user: None
+ - tags: []
+
+## Eshel Yaron
+ - [https://eshelyaron.com](https://eshelyaron.com)
+ - date published: 2023-12-10T14:32:48.977671+00:00
  - user: None
  - tags: []
 
@@ -3622,6 +3694,12 @@
  - user: None
  - tags: []
 
+## GameInfinitus - Gaming News, Guides, Patch Notes, and Reviews
+ - [https://gameinfinitus.com](https://gameinfinitus.com)
+ - date published: 2023-12-10T07:38:40.900576+00:00
+ - user: None
+ - tags: ['game news']
+
 ## GameModding.com - Wot, Skyrim, GTA 4, GTA San Andreas, Fallout, GTA Vice City and Counter-Strike mods with automatic installation
  - [https://gamemodding.com](https://gamemodding.com)
  - date published: 2023-10-30T15:29:50.729809+00:00
@@ -3909,6 +3987,12 @@
  - date published: 2023-10-26T14:06:10.928654+00:00
  - user: None
  - tags: []
+
+## Gedaly Guberek – Actor & Filmmaker
+ - [https://www.gedaly.com](https://www.gedaly.com)
+ - date published: 2023-12-10T11:34:42.913833+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Home
  - Geekbench
@@ -4457,6 +4541,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-25T14:45:26.156885+00:00
  - user: None
  - tags: []
+
+## The Glasgow Gallivanter – Adventures at home and abroad
+ - [https://glasgowgallivanter.com](https://glasgowgallivanter.com)
+ - date published: 2023-12-10T17:30:01.706680+00:00
+ - user: None
+ - tags: ['personal']
 
 ## https://www.glassattic.com
  - [https://www.glassattic.com](https://www.glassattic.com)
@@ -5904,96 +5994,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Home | Harshal Patil | Product Management Consultant and Entrepreneur
  - [https://www.harshal-patil.com](https://www.harshal-patil.com)
  - date published: 2023-10-25T14:56:18.986945+00:00
- - user: None
- - tags: []
-
-## The Hartmann Report | Thom Hartmann | Substack
- - [https://hartmannreport.com](https://hartmannreport.com)
- - date published: 2023-10-25T14:56:24.361036+00:00
- - user: None
- - tags: []
-
-## https://harvardpolitics.com
- - [https://harvardpolitics.com](https://harvardpolitics.com)
- - date published: 2023-10-25T14:56:25.725954+00:00
- - user: None
- - tags: []
-
-## HashiCorp Discuss
- - [https://discuss.hashicorp.com](https://discuss.hashicorp.com)
- - date published: 2023-10-25T14:56:28.325423+00:00
- - user: None
- - tags: []
-
-## HashiCorp: Infrastructure enables innovation
- - [https://www.hashicorp.com](https://www.hashicorp.com)
- - date published: 2023-10-25T14:56:31.067729+00:00
- - user: None
- - tags: []
-
-## HashRust - experience the joy of Rust
- - [https://hashrust.com](https://hashrust.com)
- - date published: 2023-10-25T14:56:33.234533+00:00
- - user: None
- - tags: []
-
-## Haskell for all
- - [https://www.haskellforall.com](https://www.haskellforall.com)
- - date published: 2023-10-25T14:56:42.857027+00:00
- - user: None
- - tags: []
-
-## Unavailable for legal reasons
- - [https://www.hastingstribune.com](https://www.hastingstribune.com)
- - date published: 2023-12-05T20:07:38.591624+00:00
- - user: None
- - tags: []
-
-## Have I Been Squatted? – Check if your domain has been typosquatted
- - [https://haveibeensquatted.com](https://haveibeensquatted.com)
- - date published: 2023-10-25T14:56:49.621334+00:00
- - user: None
- - tags: []
-
-## Have I Been Trained?
- - [https://haveibeentrained.com](https://haveibeentrained.com)
- - date published: 2023-10-25T14:56:49.963817+00:00
- - user: None
- - tags: []
-
-## Have we landed
- - [https://havewelanded.com](https://havewelanded.com)
- - date published: 2023-10-25T14:56:50.796602+00:00
- - user: None
- - tags: []
-
-## Havok
- - [https://www.havok.com](https://www.havok.com)
- - date published: 2023-11-13T11:53:13.291496+00:00
- - user: None
- - tags: ['oblivion', 'elder scrolls', 'game engine']
-
-## Hawaii News Now - Breaking News, Latest News, Weather & Traffic
- - [https://www.hawaiinewsnow.com](https://www.hawaiinewsnow.com)
- - date published: 2023-11-10T15:38:49.585422+00:00
- - user: None
- - tags: []
-
-## Haynes repair and workshop manuals | Print & Digital | DIY friendly
- - [https://haynes.com](https://haynes.com)
- - date published: 2023-10-25T14:56:53.770534+00:00
- - user: None
- - tags: []
-
-## HBO: Home to Groundbreaking Series, Movies, Comedies & Documentaries
- - [https://www.hbo.com](https://www.hbo.com)
- - date published: 2023-10-25T10:51:21.727029+00:00
- - user: None
- - tags: ['video streaming']
-
-## Class Action Lawsuits | International Law Firm | Hagens Berman
- - [https://www.hbsslaw.com](https://www.hbsslaw.com)
- - date published: 2023-10-25T14:56:55.979250+00:00
  - user: None
  - tags: []
 

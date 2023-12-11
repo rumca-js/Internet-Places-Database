@@ -1,3 +1,201 @@
+## Samsung Polska | Sklep online | Smartfony, TV, sprzęt AGD
+ - [https://www.samsung.com](https://www.samsung.com)
+ - date published: 2023-10-25T11:28:36.759869+00:00
+ - user: None
+ - tags: ['semiconductors', 'company']
+
+## Samsung Mobile Press – Samsung Mobile Press is the official source of news about Samsung's mobile products. Read press releases and features, watch videos, and download images.
+ - [https://www.samsungmobilepress.com](https://www.samsungmobilepress.com)
+ - date published: 2023-10-25T09:35:10.933665+00:00
+ - user: None
+ - tags: []
+
+## San Diego Criminal Lawyers Blog — Published by San Diego, California Criminal Attorneys — Law Offices of David M. Boertje
+ - [https://www.sandiegocriminallawyersblog.com](https://www.sandiegocriminallawyersblog.com)
+ - date published: 2023-10-25T16:57:19.259261+00:00
+ - user: None
+ - tags: []
+
+## The San Diego Union-Tribune - San Diego, California & National News
+ - [https://www.sandiegouniontribune.com](https://www.sandiegouniontribune.com)
+ - date published: 2023-11-25T02:14:40.171365+00:00
+ - user: None
+ - tags: []
+
+## Sandi Metz
+ - [https://sandimetz.com](https://sandimetz.com)
+ - date published: 2023-10-25T16:57:25.228625+00:00
+ - user: None
+ - tags: []
+
+## Sandor Dargo’s Blog
+ - [https://www.sandordargo.com](https://www.sandordargo.com)
+ - date published: 2023-11-01T13:42:46.470895+00:00
+ - user: None
+ - tags: []
+
+## San Jose Inside | A look inside San Jose politics and culture
+ - [https://www.sanjoseinside.com](https://www.sanjoseinside.com)
+ - date published: 2023-10-25T16:57:27.249598+00:00
+ - user: None
+ - tags: []
+
+## sanlive.com — My home on the internet.
+ - [https://sanlive.com](https://sanlive.com)
+ - date published: 2023-11-29T15:49:55.017096+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sanspoint.
+ - [https://www.sanspoint.com](https://www.sanspoint.com)
+ - date published: 2023-12-02T13:41:14.987837+00:00
+ - user: None
+ - tags: ['personal']
+
+## Santa Cruz Sentinel
+ - [https://www.santacruzsentinel.com](https://www.santacruzsentinel.com)
+ - date published: 2023-11-28T06:01:12.404466+00:00
+ - user: None
+ - tags: []
+
+## SapkowskiBooks.com - Discover & Buy The Witcher books from Sapkowski
+ - [https://sapkowskibooks.com](https://sapkowskibooks.com)
+ - date published: 2023-11-13T12:57:51.679449+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://sarahguo.com](https://sarahguo.com)
+ - date published: 2023-10-25T16:57:33.115906+00:00
+ - user: None
+ - tags: []
+
+## http://sarahkmarr.com
+ - [http://sarahkmarr.com](http://sarahkmarr.com)
+ - date published: 2023-10-25T16:57:33.861281+00:00
+ - user: None
+ - tags: []
+
+## Saransh Grover
+ - [https://saranshgrover.com](https://saranshgrover.com)
+ - date published: 2023-11-29T14:19:34.236833+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sarim Khalid - Welcome To My World.
+ - [https://www.sarimkhalidworld.com](https://www.sarimkhalidworld.com)
+ - date published: 2023-11-29T17:07:38.802229+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Saturday Evening Post | Home of The Saturday Evening Post
+ - [https://www.saturdayeveningpost.com](https://www.saturdayeveningpost.com)
+ - date published: 2023-10-25T16:57:40.189446+00:00
+ - user: None
+ - tags: []
+
+## Saul Costa – Medium
+ - [https://saulcosta.com](https://saulcosta.com)
+ - date published: 2023-10-25T16:57:43.958378+00:00
+ - user: None
+ - tags: []
+
+## Savage Chickens - Cartoons on Sticky Notes by Doug Savage
+ - [https://www.savagechickens.com](https://www.savagechickens.com)
+ - date published: 2023-10-25T16:57:50.887747+00:00
+ - user: None
+ - tags: []
+
+## sbensu
+ - [https://blog.sbensu.com](https://blog.sbensu.com)
+ - date published: 2023-10-25T16:57:52.408325+00:00
+ - user: None
+ - tags: []
+
+## SBF goes to prison – Is SBF going to prison?
+ - [https://sbfgoestoprison.com](https://sbfgoestoprison.com)
+ - date published: 2023-10-25T16:57:55.553085+00:00
+ - user: None
+ - tags: []
+
+## SBNation.com | Sports news, video, live coverage, community
+ - [https://www.sbnation.com](https://www.sbnation.com)
+ - date published: 2023-10-25T16:58:10.437360+00:00
+ - user: None
+ - tags: []
+
+## The Statesman – Informing Stony Brook University For More Than 60 Years – The Statesman
+ - [https://www.sbstatesman.com](https://www.sbstatesman.com)
+ - date published: 2023-10-25T16:58:13.749647+00:00
+ - user: None
+ - tags: []
+
+## SC2Mapster
+ - [https://www.sc2mapster.com](https://www.sc2mapster.com)
+ - date published: 2023-10-29T10:39:10.600746+00:00
+ - user: None
+ - tags: ['starcraft', 'warcraft']
+
+## Accelerate the Development of AI Applications | Scale AI
+ - [https://scale.com](https://scale.com)
+ - date published: 2023-10-25T16:58:17.398784+00:00
+ - user: None
+ - tags: []
+
+## Whatever | FURIOUSLY REASONABLE
+ - [https://whatever.scalzi.com](https://whatever.scalzi.com)
+ - date published: 2023-10-25T16:58:26.532841+00:00
+ - user: None
+ - tags: []
+
+## Scandinavian MIND
+ - [https://scandinavianmind.com](https://scandinavianmind.com)
+ - date published: 2023-10-25T16:58:30.296776+00:00
+ - user: None
+ - tags: []
+
+## Scan of the Month—you've never seen anything like this.
+ - [https://www.scanofthemonth.com](https://www.scanofthemonth.com)
+ - date published: 2023-10-25T16:58:31.237252+00:00
+ - user: None
+ - tags: []
+
+## https://www.scarletink.com
+ - [https://www.scarletink.com](https://www.scarletink.com)
+ - date published: 2023-12-07T08:41:07.140775+00:00
+ - user: None
+ - tags: []
+
+## Scary Pockets
+ - [https://www.scarypocketsfunk.com](https://www.scarypocketsfunk.com)
+ - date published: 2023-10-30T13:30:50.613174+00:00
+ - user: None
+ - tags: ['music band']
+
+## Sched CDN
+ - [https://static.sched.com](https://static.sched.com)
+ - date published: 2023-10-25T16:58:32.047651+00:00
+ - user: None
+ - tags: []
+
+## Schemescape
+ - [https://log.schemescape.com](https://log.schemescape.com)
+ - date published: 2023-10-25T16:58:33.610205+00:00
+ - user: None
+ - tags: []
+
+## schmatzberger.com – Die Website von Günter Schmatzberger
+ - [https://www.schmatzberger.com](https://www.schmatzberger.com)
+ - date published: 2023-12-03T09:19:10.285708+00:00
+ - user: None
+ - tags: ['personal']
+
+## Homepage - Schmidt Futures
+ - [https://www.schmidtfutures.com](https://www.schmidtfutures.com)
+ - date published: 2023-10-25T16:58:36.285547+00:00
+ - user: None
+ - tags: []
+
 ## Schneier on Security
  - [https://www.schneier.com](https://www.schneier.com)
  - date published: 2023-10-25T09:35:13.644701+00:00
@@ -2915,6 +3113,12 @@
  - user: None
  - tags: []
 
+## Writing, Side-projects, Newsletter and More
+ - [https://www.stevanpopovic.com](https://www.stevanpopovic.com)
+ - date published: 2023-12-10T11:34:13.364658+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Steve Blank Innovation and Entrepreneurship
  - [https://steveblank.com](https://steveblank.com)
  - date published: 2023-10-25T17:17:02.815342+00:00
@@ -3014,6 +3218,12 @@
 ## STM Cyber Blog - R&D Team
  - [https://blog.stmcyber.com](https://blog.stmcyber.com)
  - date published: 2023-10-25T17:17:30.542563+00:00
+ - user: None
+ - tags: []
+
+## Created a free website that simplifies stock analysis
+ - [https://stocknear.com](https://stocknear.com)
+ - date published: 2023-12-10T15:05:06+00:00
  - user: None
  - tags: []
 
@@ -5782,214 +5992,4 @@
  - date published: 2023-10-25T10:07:10.677121+00:00
  - user: None
  - tags: ['substack']
-
-## Very Distant Lands Newsletter | Adam Fleming Petty | Substack
- - [https://verydistantlands.substack.com](https://verydistantlands.substack.com)
- - date published: 2023-11-14T19:01:26.764845+00:00
- - user: None
- - tags: []
-
-## Vigneshwarar’s Newsletter | Substack
- - [https://vigneshwarar.substack.com](https://vigneshwarar.substack.com)
- - date published: 2023-10-25T10:07:12.438218+00:00
- - user: None
- - tags: ['substack']
-
-## Void Papers | Tobi | Substack
- - [https://voidpapers.substack.com](https://voidpapers.substack.com)
- - date published: 2023-10-25T10:07:14.153042+00:00
- - user: None
- - tags: ['substack']
-
-## Volted: Electrify your Life | Jeff Eiden | Substack
- - [http://volted.substack.com](http://volted.substack.com)
- - date published: 2023-10-25T10:07:15.949383+00:00
- - user: None
- - tags: ['substack']
-
-## Chris Arnade Walks the World  | Substack
- - [http://walkingtheworld.substack.com](http://walkingtheworld.substack.com)
- - date published: 2023-10-25T10:07:17.981428+00:00
- - user: None
- - tags: ['substack']
-
-## Startup Real Talk | Waseem Daher | Substack
- - [http://waseem.substack.com](http://waseem.substack.com)
- - date published: 2023-10-25T10:07:19.382687+00:00
- - user: None
- - tags: ['substack']
-
-## Weekly PHP | Víctor Falcón 🤟 | Substack
- - [https://weeklyphp.substack.com](https://weeklyphp.substack.com)
- - date published: 2023-10-25T10:07:21.630667+00:00
- - user: None
- - tags: ['substack']
-
-## weird medieval guys  | Substack
- - [http://weirdmedievalguys.substack.com](http://weirdmedievalguys.substack.com)
- - date published: 2023-10-25T10:07:23.489664+00:00
- - user: None
- - tags: ['substack']
-
-## Wheel’s Substack | Wheel Reinventor | Substack
- - [http://wheelreinventor.substack.com](http://wheelreinventor.substack.com)
- - date published: 2023-10-25T10:07:25.662382+00:00
- - user: None
- - tags: ['substack']
-
-## Why is this interesting? | Noah Brier | Substack
- - [http://whyisthisinteresting.substack.com](http://whyisthisinteresting.substack.com)
- - date published: 2023-10-25T10:07:28.108360+00:00
- - user: None
- - tags: ['substack']
-
-## Wittgenfine’s Word | Substack
- - [http://wittgenfine.substack.com](http://wittgenfine.substack.com)
- - date published: 2023-10-25T10:07:29.511868+00:00
- - user: None
- - tags: ['substack']
-
-## Wood From Eden | Anders L | Substack
- - [http://woodfromeden.substack.com](http://woodfromeden.substack.com)
- - date published: 2023-10-25T10:07:31.771414+00:00
- - user: None
- - tags: ['substack']
-
-## The Works in Progress Newsletter | Substack
- - [https://worksinprogress.substack.com](https://worksinprogress.substack.com)
- - date published: 2023-10-25T10:07:34.429207+00:00
- - user: None
- - tags: ['substack']
-
-## Worldish | Substack
- - [https://worldish.substack.com](https://worldish.substack.com)
- - date published: 2023-10-25T10:07:36.707638+00:00
- - user: None
- - tags: ['substack']
-
-## Wyclif's Dust | Substack
- - [https://wyclif.substack.com](https://wyclif.substack.com)
- - date published: 2023-10-25T10:07:39.575720+00:00
- - user: None
- - tags: ['substack']
-
-## Fun With The Cloud | Yehuda Cohen | Substack
- - [https://yehudacohen.substack.com](https://yehudacohen.substack.com)
- - date published: 2023-10-25T10:07:41.995878+00:00
- - user: None
- - tags: ['substack']
-
-## Yassine Meskhout | Substack
- - [http://ymeskhout.substack.com](http://ymeskhout.substack.com)
- - date published: 2023-10-25T10:07:44.217889+00:00
- - user: None
- - tags: ['substack']
-
-## Simon's Blog | Simon Farshid | Substack
- - [http://yonom.substack.com](http://yonom.substack.com)
- - date published: 2023-10-25T10:07:45.579155+00:00
- - user: None
- - tags: ['substack']
-
-## Your Local Epidemiologist | Katelyn Jetelina | Substack
- - [http://yourlocalepidemiologist.substack.com](http://yourlocalepidemiologist.substack.com)
- - date published: 2023-10-25T10:07:48.469561+00:00
- - user: None
- - tags: ['substack']
-
-## In The Long Run | Zachary D. Carter | Substack
- - [https://zacharydcarter.substack.com](https://zacharydcarter.substack.com)
- - date published: 2023-10-25T10:07:50.275708+00:00
- - user: None
- - tags: ['substack']
-
-## Zero Day | Kim Zetter | Substack
- - [https://zetter.substack.com](https://zetter.substack.com)
- - date published: 2023-10-25T10:07:53.099694+00:00
- - user: None
- - tags: ['substack']
-
-## Zion Lights | Substack
- - [http://zionlights.substack.com](http://zionlights.substack.com)
- - date published: 2023-10-25T10:07:55.352493+00:00
- - user: None
- - tags: ['substack']
-
-## Error - Substack
- - [https://substackcdn.com](https://substackcdn.com)
- - date published: 2023-12-09T21:18:30.972024+00:00
- - user: None
- - tags: []
-
-## Welcome to Sudo Null IT News / Sudo Null IT News
- - [https://sudonull.com](https://sudonull.com)
- - date published: 2023-10-25T17:19:21.870327+00:00
- - user: None
- - tags: []
-
-## What color is it?
- - [http://whatcolorisit.sumbioun.com](http://whatcolorisit.sumbioun.com)
- - date published: 2023-10-25T17:19:22.474186+00:00
- - user: None
- - tags: []
-
-## Summary Cat
- - [https://www.summarycat.com](https://www.summarycat.com)
- - date published: 2023-10-25T17:19:23.747610+00:00
- - user: None
- - tags: []
-
-## Sun Sentinel
- - [https://www.sun-sentinel.com](https://www.sun-sentinel.com)
- - date published: 2023-12-05T16:27:09.881254+00:00
- - user: None
- - tags: []
-
-## Sundial:Do it yourself
- - [https://www.sundialzone.com](https://www.sundialzone.com)
- - date published: 2023-10-25T17:19:29.731342+00:00
- - user: None
- - tags: []
-
-## Chicago Sun-Times: Chicago news, sports, politics, entertainment
- - [https://chicago.suntimes.com](https://chicago.suntimes.com)
- - date published: 2023-10-25T11:06:25.871318+00:00
- - user: None
- - tags: []
-
-## Supabase | The Open Source Firebase Alternative
- - [https://supabase.com](https://supabase.com)
- - date published: 2023-10-25T17:19:31.509105+00:00
- - user: None
- - tags: []
-
-## Supademo: Create Engaging Interactive Demos and Guides
- - [https://supademo.com](https://supademo.com)
- - date published: 2023-10-25T17:19:33.311498+00:00
- - user: None
- - tags: []
-
-## Superblocks | Save 100s of developer hours on internal tools
- - [https://www.superblocks.com](https://www.superblocks.com)
- - date published: 2023-10-25T17:19:38.285897+00:00
- - user: None
- - tags: []
-
-## Our Greatest Space Stories
- - [https://www.supercluster.com](https://www.supercluster.com)
- - date published: 2023-10-25T17:19:39.677669+00:00
- - user: None
- - tags: []
-
-## Super Fast Python – making you awesome at concurrency
- - [https://superfastpython.com](https://superfastpython.com)
- - date published: 2023-10-25T17:19:42.973908+00:00
- - user: None
- - tags: []
-
-## SUPERHOT - The FPS where time moves only when you move
- - [https://superhotgame.com](https://superhotgame.com)
- - date published: 2023-12-06T08:03:27+00:00
- - user: rumpel
- - tags: ['video game']
 

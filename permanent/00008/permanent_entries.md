@@ -1,3 +1,213 @@
+## Vigneshwarar’s Newsletter | Substack
+ - [https://vigneshwarar.substack.com](https://vigneshwarar.substack.com)
+ - date published: 2023-10-25T10:07:12.438218+00:00
+ - user: None
+ - tags: ['substack']
+
+## Void Papers | Tobi | Substack
+ - [https://voidpapers.substack.com](https://voidpapers.substack.com)
+ - date published: 2023-10-25T10:07:14.153042+00:00
+ - user: None
+ - tags: ['substack']
+
+## Volted: Electrify your Life | Jeff Eiden | Substack
+ - [http://volted.substack.com](http://volted.substack.com)
+ - date published: 2023-10-25T10:07:15.949383+00:00
+ - user: None
+ - tags: ['substack']
+
+## Chris Arnade Walks the World  | Substack
+ - [http://walkingtheworld.substack.com](http://walkingtheworld.substack.com)
+ - date published: 2023-10-25T10:07:17.981428+00:00
+ - user: None
+ - tags: ['substack']
+
+## Startup Real Talk | Waseem Daher | Substack
+ - [http://waseem.substack.com](http://waseem.substack.com)
+ - date published: 2023-10-25T10:07:19.382687+00:00
+ - user: None
+ - tags: ['substack']
+
+## Weekly PHP | Víctor Falcón 🤟 | Substack
+ - [https://weeklyphp.substack.com](https://weeklyphp.substack.com)
+ - date published: 2023-10-25T10:07:21.630667+00:00
+ - user: None
+ - tags: ['substack']
+
+## weird medieval guys  | Substack
+ - [http://weirdmedievalguys.substack.com](http://weirdmedievalguys.substack.com)
+ - date published: 2023-10-25T10:07:23.489664+00:00
+ - user: None
+ - tags: ['substack']
+
+## Wheel’s Substack | Wheel Reinventor | Substack
+ - [http://wheelreinventor.substack.com](http://wheelreinventor.substack.com)
+ - date published: 2023-10-25T10:07:25.662382+00:00
+ - user: None
+ - tags: ['substack']
+
+## Why is this interesting? | Noah Brier | Substack
+ - [http://whyisthisinteresting.substack.com](http://whyisthisinteresting.substack.com)
+ - date published: 2023-10-25T10:07:28.108360+00:00
+ - user: None
+ - tags: ['substack']
+
+## Wittgenfine’s Word | Substack
+ - [http://wittgenfine.substack.com](http://wittgenfine.substack.com)
+ - date published: 2023-10-25T10:07:29.511868+00:00
+ - user: None
+ - tags: ['substack']
+
+## Wood From Eden | Anders L | Substack
+ - [http://woodfromeden.substack.com](http://woodfromeden.substack.com)
+ - date published: 2023-10-25T10:07:31.771414+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Works in Progress Newsletter | Substack
+ - [https://worksinprogress.substack.com](https://worksinprogress.substack.com)
+ - date published: 2023-10-25T10:07:34.429207+00:00
+ - user: None
+ - tags: ['substack']
+
+## Worldish | Substack
+ - [https://worldish.substack.com](https://worldish.substack.com)
+ - date published: 2023-10-25T10:07:36.707638+00:00
+ - user: None
+ - tags: ['substack']
+
+## Wyclif's Dust | Substack
+ - [https://wyclif.substack.com](https://wyclif.substack.com)
+ - date published: 2023-10-25T10:07:39.575720+00:00
+ - user: None
+ - tags: ['substack']
+
+## Fun With The Cloud | Yehuda Cohen | Substack
+ - [https://yehudacohen.substack.com](https://yehudacohen.substack.com)
+ - date published: 2023-10-25T10:07:41.995878+00:00
+ - user: None
+ - tags: ['substack']
+
+## Yassine Meskhout | Substack
+ - [http://ymeskhout.substack.com](http://ymeskhout.substack.com)
+ - date published: 2023-10-25T10:07:44.217889+00:00
+ - user: None
+ - tags: ['substack']
+
+## Simon's Blog | Simon Farshid | Substack
+ - [http://yonom.substack.com](http://yonom.substack.com)
+ - date published: 2023-10-25T10:07:45.579155+00:00
+ - user: None
+ - tags: ['substack']
+
+## Your Local Epidemiologist | Katelyn Jetelina | Substack
+ - [http://yourlocalepidemiologist.substack.com](http://yourlocalepidemiologist.substack.com)
+ - date published: 2023-10-25T10:07:48.469561+00:00
+ - user: None
+ - tags: ['substack']
+
+## In The Long Run | Zachary D. Carter | Substack
+ - [https://zacharydcarter.substack.com](https://zacharydcarter.substack.com)
+ - date published: 2023-10-25T10:07:50.275708+00:00
+ - user: None
+ - tags: ['substack']
+
+## Zero Day | Kim Zetter | Substack
+ - [https://zetter.substack.com](https://zetter.substack.com)
+ - date published: 2023-10-25T10:07:53.099694+00:00
+ - user: None
+ - tags: ['substack']
+
+## Zion Lights | Substack
+ - [http://zionlights.substack.com](http://zionlights.substack.com)
+ - date published: 2023-10-25T10:07:55.352493+00:00
+ - user: None
+ - tags: ['substack']
+
+## Error - Substack
+ - [https://substackcdn.com](https://substackcdn.com)
+ - date published: 2023-12-09T21:18:30.972024+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Sudo Null IT News / Sudo Null IT News
+ - [https://sudonull.com](https://sudonull.com)
+ - date published: 2023-10-25T17:19:21.870327+00:00
+ - user: None
+ - tags: []
+
+## What color is it?
+ - [http://whatcolorisit.sumbioun.com](http://whatcolorisit.sumbioun.com)
+ - date published: 2023-10-25T17:19:22.474186+00:00
+ - user: None
+ - tags: []
+
+## Summary Cat
+ - [https://www.summarycat.com](https://www.summarycat.com)
+ - date published: 2023-10-25T17:19:23.747610+00:00
+ - user: None
+ - tags: []
+
+## Sun Sentinel
+ - [https://www.sun-sentinel.com](https://www.sun-sentinel.com)
+ - date published: 2023-12-05T16:27:09.881254+00:00
+ - user: None
+ - tags: []
+
+## Sundial:Do it yourself
+ - [https://www.sundialzone.com](https://www.sundialzone.com)
+ - date published: 2023-10-25T17:19:29.731342+00:00
+ - user: None
+ - tags: []
+
+## Chicago Sun-Times: Chicago news, sports, politics, entertainment
+ - [https://chicago.suntimes.com](https://chicago.suntimes.com)
+ - date published: 2023-10-25T11:06:25.871318+00:00
+ - user: None
+ - tags: []
+
+## Supabase | The Open Source Firebase Alternative
+ - [https://supabase.com](https://supabase.com)
+ - date published: 2023-10-25T17:19:31.509105+00:00
+ - user: None
+ - tags: []
+
+## Supademo: Create Engaging Interactive Demos and Guides
+ - [https://supademo.com](https://supademo.com)
+ - date published: 2023-10-25T17:19:33.311498+00:00
+ - user: None
+ - tags: []
+
+## Superblocks | Save 100s of developer hours on internal tools
+ - [https://www.superblocks.com](https://www.superblocks.com)
+ - date published: 2023-10-25T17:19:38.285897+00:00
+ - user: None
+ - tags: []
+
+## Our Greatest Space Stories
+ - [https://www.supercluster.com](https://www.supercluster.com)
+ - date published: 2023-10-25T17:19:39.677669+00:00
+ - user: None
+ - tags: []
+
+## Super Fast Python – making you awesome at concurrency
+ - [https://superfastpython.com](https://superfastpython.com)
+ - date published: 2023-10-25T17:19:42.973908+00:00
+ - user: None
+ - tags: []
+
+## SUPERHOT - The FPS where time moves only when you move
+ - [https://superhotgame.com](https://superhotgame.com)
+ - date published: 2023-12-06T08:03:27+00:00
+ - user: rumpel
+ - tags: ['video game']
+
+## Superman Homepage
+ - [https://www.supermanhomepage.com](https://www.supermanhomepage.com)
+ - date published: 2023-11-27T12:56:00+00:00
+ - user: rumpel
+ - tags: []
+
 ## Super Soldier Talk | Milabs, Monarchs, Mkultra
  - [https://supersoldiertalk.com](https://supersoldiertalk.com)
  - date published: 2023-10-25T17:19:46.384521+00:00
@@ -958,6 +1168,12 @@
  - user: None
  - tags: []
 
+## Home
+ - [https://www.tennessean.com](https://www.tennessean.com)
+ - date published: 2023-12-10T00:52:46.601551+00:00
+ - user: None
+ - tags: []
+
 ## Tenzir
  - [https://docs.tenzir.com](https://docs.tenzir.com)
  - date published: 2023-10-25T17:26:46.083579+00:00
@@ -1372,6 +1588,12 @@
  - user: None
  - tags: []
 
+## The Book Review Crew
+ - [https://thebookreviewcrew.com](https://thebookreviewcrew.com)
+ - date published: 2023-12-10T00:33:56.103299+00:00
+ - user: None
+ - tags: ['book', 'books']
+
 ## The Bookseller - Home
  - [https://www.thebookseller.com](https://www.thebookseller.com)
  - date published: 2023-10-25T17:30:31.028831+00:00
@@ -1419,6 +1641,12 @@
  - date published: 2023-11-13T10:40:09.232758+00:00
  - user: None
  - tags: ['music band']
+
+## http://www.thechildist.com
+ - [http://www.thechildist.com](http://www.thechildist.com)
+ - date published: 2023-12-10T17:00:24.520449+00:00
+ - user: None
+ - tags: ['personal']
 
 ## The China Project | Reporting on China without fear or favor
  - [https://thechinaproject.com](https://thechinaproject.com)
@@ -3040,7 +3268,7 @@
  - [https://www.timhunkin.com](https://www.timhunkin.com)
  - date published: 2023-10-25T17:42:55.118029+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Telemetry in front-end tools
  - [https://telemetry.timseverien.com](https://telemetry.timseverien.com)
@@ -5769,232 +5997,4 @@
  - date published: 2023-12-08T14:43:17.804302+00:00
  - user: None
  - tags: ['military news']
-
-## Buy Double-Sided Mouse Pad or Fabric Battle Mat, Miniatures, Terrain and Accessories for your Tabletop Wargaming Board. USA, Canada, Europe, Worldwide Shipping!
- - [https://warzonestudio.com](https://warzonestudio.com)
- - date published: 2023-11-01T19:18:45.990572+00:00
- - user: None
- - tags: ['tabletop games', 'wargames']
-
-## Washington Blade Newspaper
- - [https://www.washingtonblade.com](https://www.washingtonblade.com)
- - date published: 2023-11-07T16:06:11.624222+00:00
- - user: None
- - tags: ['the left wing', 'transgender', 'lgbt']
-
-## Washington City Paper: The Free Source for Local News in D.C.
- - [https://washingtoncitypaper.com](https://washingtoncitypaper.com)
- - date published: 2023-10-25T11:50:54.805063+00:00
- - user: None
- - tags: []
-
-## Political News and Conservative Analysis About Congress, the President, and the Federal Government | Washington Examiner
- - [https://www.washingtonexaminer.com](https://www.washingtonexaminer.com)
- - date published: 2023-10-25T10:29:27.520286+00:00
- - user: None
- - tags: []
-
-## Washingtonian - The website that Washington lives by.
- - [https://www.washingtonian.com](https://www.washingtonian.com)
- - date published: 2023-11-29T09:01:18.599201+00:00
- - user: None
- - tags: []
-
-## Home | Washington Monthly
- - [https://washingtonmonthly.com](https://washingtonmonthly.com)
- - date published: 2023-11-17T19:04:36.842471+00:00
- - user: None
- - tags: []
-
-## The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post
- - [https://www.washingtonpost.com](https://www.washingtonpost.com)
- - date published: 2023-10-25T10:29:53.512747+00:00
- - user: None
- - tags: []
-
-## Washington Times - Politics, Breaking News, US and World News
- - [https://www.washingtontimes.com](https://www.washingtontimes.com)
- - date published: 2023-10-25T17:59:31.606473+00:00
- - user: None
- - tags: []
-
-## MLB / Dashboard / Today
- - [https://mlb.watchbotapp.com](https://mlb.watchbotapp.com)
- - date published: 2023-10-25T17:59:36.285080+00:00
- - user: None
- - tags: []
-
-## Watch Dem Fools - Home
- - [https://www.watchdemfools.com](https://www.watchdemfools.com)
- - date published: 2023-11-29T14:42:20.672358+00:00
- - user: None
- - tags: ['personal']
-
-## SJX Watches
- - [https://watchesbysjx.com](https://watchesbysjx.com)
- - date published: 2023-11-19T21:14:18.263510+00:00
- - user: None
- - tags: []
-
-## watchlimits | Solve binge watching and unlock hours of lost productivity
- - [https://watchlimits.com](https://watchlimits.com)
- - date published: 2023-10-25T17:59:42.937801+00:00
- - user: None
- - tags: []
-
-## Watermelon - Passive Docs Search Engine
- - [https://www.watermelontools.com](https://www.watermelontools.com)
- - date published: 2023-10-25T17:59:51.446577+00:00
- - user: None
- - tags: []
-
-## Amelia Wattenberger
- - [https://wattenberger.com](https://wattenberger.com)
- - date published: 2023-10-25T17:59:53.718598+00:00
- - user: None
- - tags: []
-
-## Wavacity | Online Audio Editor Based on Audacity
- - [https://wavacity.com](https://wavacity.com)
- - date published: 2023-10-25T17:59:55.062963+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.wave3.com](https://www.wave3.com)
- - date published: 2023-11-16T19:28:13.533348+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://waveletbeam.com](https://waveletbeam.com)
- - date published: 2023-10-25T17:59:57.246144+00:00
- - user: None
- - tags: []
-
-## Waveshare Electronics
- - [https://www.waveshare.com](https://www.waveshare.com)
- - date published: 2023-10-25T11:15:35.761134+00:00
- - user: None
- - tags: ['raspberry', 'sbc', 'electronic parts']
-
-## Waypoint - The official Waymo blog
- - [https://blog.waymo.com](https://blog.waymo.com)
- - date published: 2023-10-25T18:00:00.798700+00:00
- - user: None
- - tags: []
-
-## Warner Bros. Discovery
- - [https://wbd.com](https://wbd.com)
- - date published: 2023-10-25T15:07:26.945711+00:00
- - user: None
- - tags: []
-
-## WBTV | On Your Side | First Alert Weather | Charlotte, NC
- - [https://www.wbtv.com](https://www.wbtv.com)
- - date published: 2023-10-25T18:00:19.259430+00:00
- - user: None
- - tags: []
-
-## Warcraft III Maps
- - [https://wc3maps.com](https://wc3maps.com)
- - date published: 2023-10-29T10:34:30.812872+00:00
- - user: None
- - tags: []
-
-## Wccftech
- - [https://wccftech.com](https://wccftech.com)
- - date published: 2023-10-25T18:00:23.184055+00:00
- - user: None
- - tags: []
-
-## وليد شايب
- - [https://wchayeb.com](https://wchayeb.com)
- - date published: 2023-11-29T16:22:39.611017+00:00
- - user: None
- - tags: ['personal']
-
-## Wing Commander CIC
- - [https://www.wcnews.com](https://www.wcnews.com)
- - date published: 2023-10-25T18:00:29.103522+00:00
- - user: None
- - tags: []
-
-## Cincinnati, Ohio News and Weather | WCPO 9 News
- - [https://www.wcpo.com](https://www.wcpo.com)
- - date published: 2023-11-08T15:37:27.444601+00:00
- - user: None
- - tags: []
-
-## New Bern News, Weather, Sports, Breaking News | WCTI
- - [https://wcti12.com](https://wcti12.com)
- - date published: 2023-10-25T18:00:32.950631+00:00
- - user: None
- - tags: []
-
-## We Find Wildness
- - [https://www.we-find-wildness.com](https://www.we-find-wildness.com)
- - date published: 2023-10-25T18:00:37.033994+00:00
- - user: None
- - tags: []
-
-## We Make Money Not Art
- - [https://we-make-money-not-art.com](https://we-make-money-not-art.com)
- - date published: 2023-10-25T18:00:42.370825+00:00
- - user: None
- - tags: []
-
-## Wealest
- - [https://www.wealest.com](https://www.wealest.com)
- - date published: 2023-10-25T18:00:45.305555+00:00
- - user: None
- - tags: []
-
-## WeAreDevelopers - Developer Jobs & Event Platform
- - [https://www.wearedevelopers.com](https://www.wearedevelopers.com)
- - date published: 2023-10-25T18:00:51.808878+00:00
- - user: None
- - tags: []
-
-## We Are Not Saved | R.W. Richey | Substack
- - [https://wearenotsaved.com](https://wearenotsaved.com)
- - date published: 2023-10-25T18:00:55.853558+00:00
- - user: None
- - tags: []
-
-## National and Local Weather Radar, Daily Forecast, Hurricane and information from The Weather Channel and weather.com
- - [https://weather.com](https://weather.com)
- - date published: 2023-10-25T18:01:07.406371+00:00
- - user: None
- - tags: []
-
-## Weather & Radar USA
- - [https://www.weatherandradar.com](https://www.weatherandradar.com)
- - date published: 2023-11-27T08:34:34.471690+00:00
- - user: None
- - tags: []
-
-## WebGL, WebGL2 and WebGPU Browser Support Statistics and Capabilities | Web3D Survey
- - [https://web3dsurvey.com](https://web3dsurvey.com)
- - date published: 2023-10-25T18:01:14.070217+00:00
- - user: None
- - tags: []
-
-## Web3 is Going Just Great
- - [https://web3isgoinggreat.com](https://web3isgoinggreat.com)
- - date published: 2023-10-25T11:10:58.654027+00:00
- - user: None
- - tags: []
-
-## webase.com WeBase Tailwind Editor
- - [https://www.webase.com](https://www.webase.com)
- - date published: 2023-10-25T18:01:16.116937+00:00
- - user: None
- - tags: []
-
-## 日本経済に貢献できるアルバイト
- - [https://webdatarender.com](https://webdatarender.com)
- - date published: 2023-10-25T18:01:17.992554+00:00
- - user: None
- - tags: []
 

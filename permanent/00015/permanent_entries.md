@@ -1,3 +1,363 @@
+## PyTorch
+ - [https://pytorch.org](https://pytorch.org)
+ - date published: 2023-10-25T08:34:08.387489+00:00
+ - user: None
+ - tags: []
+
+## Worldspawn Archiwum
+ - [https://pl.ws.q3df.org](https://pl.ws.q3df.org)
+ - date published: 2023-10-30T15:15:49.034470+00:00
+ - user: None
+ - tags: []
+
+## Worldspawn Archive
+ - [https://ws.q3df.org](https://ws.q3df.org)
+ - date published: 2023-10-28T20:31:03.999056+00:00
+ - user: None
+ - tags: []
+
+## q3k
+ - [https://q3k.org](https://q3k.org)
+ - date published: 2023-10-25T22:01:55.679629+00:00
+ - user: None
+ - tags: []
+
+## KVM Forum 2023 :: pretalx
+ - [https://kvm-forum.qemu.org](https://kvm-forum.qemu.org)
+ - date published: 2023-10-25T22:01:56.457833+00:00
+ - user: None
+ - tags: []
+
+## QEMU
+ - [https://www.qemu.org](https://www.qemu.org)
+ - date published: 2023-10-25T08:34:09.763125+00:00
+ - user: None
+ - tags: ['emulation']
+
+## Things Of Interest @ Things Of Interest
+ - [https://qntm.org](https://qntm.org)
+ - date published: 2023-10-25T22:01:57.192098+00:00
+ - user: None
+ - tags: []
+
+## Quake Wiki
+ - [https://quakewiki.org](https://quakewiki.org)
+ - date published: 2023-10-25T11:18:24.728059+00:00
+ - user: None
+ - tags: []
+
+## Home Page | Labs
+ - [https://labs.quansight.org](https://labs.quansight.org)
+ - date published: 2023-10-25T22:01:58.917306+00:00
+ - user: None
+ - tags: []
+
+## Quanta Magazine
+ - [https://www.quantamagazine.org](https://www.quantamagazine.org)
+ - date published: 2023-10-25T10:12:13.758505+00:00
+ - user: None
+ - tags: []
+
+## Qubes OS: A reasonably secure operating system | Qubes OS
+ - [https://www.qubes-os.org](https://www.qubes-os.org)
+ - date published: 2023-10-25T22:02:00.525326+00:00
+ - user: None
+ - tags: []
+
+## Matthias Kramm's Homepage
+ - [http://www.quiss.org](http://www.quiss.org)
+ - date published: 2023-10-25T22:02:01.175325+00:00
+ - user: None
+ - tags: []
+
+## index - quitesimple
+ - [https://quitesimple.org](https://quitesimple.org)
+ - date published: 2023-10-25T22:02:01.982681+00:00
+ - user: None
+ - tags: []
+
+## (thirteenth RacketCon)
+ - [https://con.racket-lang.org](https://con.racket-lang.org)
+ - date published: 2023-10-25T22:02:08.109541+00:00
+ - user: None
+ - tags: []
+
+## Racket Documentation
+ - [https://docs.racket-lang.org](https://docs.racket-lang.org)
+ - date published: 2023-10-25T22:02:21.902657+00:00
+ - user: None
+ - tags: []
+
+## RacketScript Playground
+ - [http://racketscript.org](http://racketscript.org)
+ - date published: 2023-10-25T22:02:22.780541+00:00
+ - user: None
+ - tags: []
+
+## Maritime Radio Historical Society
+ - [https://www.radiomarine.org](https://www.radiomarine.org)
+ - date published: 2023-10-25T22:02:24.468695+00:00
+ - user: None
+ - tags: []
+
+## raf
+ - [https://raf.org](https://raf.org)
+ - date published: 2023-10-25T22:02:27.334662+00:00
+ - user: None
+ - tags: []
+
+## Rampant.org
+ - [http://www.rampant.org](http://www.rampant.org)
+ - date published: 2023-10-25T22:02:28.158293+00:00
+ - user: None
+ - tags: []
+
+## FrontPage - Raspbian
+ - [https://www.raspbian.org](https://www.raspbian.org)
+ - date published: 2023-10-25T08:32:31.918076+00:00
+ - user: None
+ - tags: ['open source', 'operating system', 'linux', 'raspberry']
+
+## Rate The Landlord
+ - [https://ratethelandlord.org](https://ratethelandlord.org)
+ - date published: 2023-10-25T22:02:29.036764+00:00
+ - user: None
+ - tags: []
+
+## Raymii.org
+ - [https://raymii.org](https://raymii.org)
+ - date published: 2023-10-25T22:02:29.476274+00:00
+ - user: None
+ - tags: []
+
+## Reporters Committee for Freedom of the Press - Home
+ - [https://www.rcfp.org](https://www.rcfp.org)
+ - date published: 2023-10-25T22:02:31.122985+00:00
+ - user: None
+ - tags: []
+
+## rclone forum
+ - [https://forum.rclone.org](https://forum.rclone.org)
+ - date published: 2023-10-25T22:02:33.460676+00:00
+ - user: None
+ - tags: []
+
+## levels and maps by spirit -- maps.rcmd.org
+ - [https://maps.rcmd.org](https://maps.rcmd.org)
+ - date published: 2023-10-28T20:34:18.070153+00:00
+ - user: None
+ - tags: ['quake']
+
+## Richard Crowley
+ - [https://rcrowley.org](https://rcrowley.org)
+ - date published: 2023-10-25T22:02:34.293829+00:00
+ - user: None
+ - tags: []
+
+## Front Page | ReactOS Project
+ - [https://reactos.org](https://reactos.org)
+ - date published: 2023-10-25T22:02:35.485454+00:00
+ - user: None
+ - tags: ['operating system', 'open source']
+
+## realclearenergy.org
+ - [https://www.realclearenergy.org](https://www.realclearenergy.org)
+ - date published: 2023-10-25T22:02:36.663158+00:00
+ - user: None
+ - tags: []
+
+## reb00ted | reb00ted
+ - [https://reb00ted.org](https://reb00ted.org)
+ - date published: 2023-10-25T22:02:38.955071+00:00
+ - user: None
+ - tags: []
+
+## Reclaim The Net - Restore Individual Liberty Online
+ - [https://reclaimthenet.org](https://reclaimthenet.org)
+ - date published: 2023-10-25T10:15:05.217370+00:00
+ - user: None
+ - tags: []
+
+## Red Programming Language
+ - [https://www.red-lang.org](https://www.red-lang.org)
+ - date published: 2023-10-25T22:02:45.229562+00:00
+ - user: None
+ - tags: []
+
+## Overview - Redmine
+ - [https://www.redmine.org](https://www.redmine.org)
+ - date published: 2023-10-25T22:02:47.206923+00:00
+ - user: None
+ - tags: []
+
+## Redox - Your Next(Gen) OS - Redox - Your Next(Gen) OS
+ - [https://www.redox-os.org](https://www.redox-os.org)
+ - date published: 2023-10-25T22:02:49.026357+00:00
+ - user: None
+ - tags: []
+
+## Embedded in Academia – John Regehr, Professor of Computer Science, University of Utah, USA
+ - [https://blog.regehr.org](https://blog.regehr.org)
+ - date published: 2023-10-25T22:02:51.074554+00:00
+ - user: None
+ - tags: []
+
+## Regex Licensing
+ - [https://regexlicensing.org](https://regexlicensing.org)
+ - date published: 2023-10-25T22:02:53.291382+00:00
+ - user: None
+ - tags: []
+
+## Remote Jobs - Developer, designer, marketing, sales jobs, and more | RemoteJobs.org
+ - [https://remotejobs.org](https://remotejobs.org)
+ - date published: 2023-10-25T22:02:55.614939+00:00
+ - user: None
+ - tags: []
+
+## The Repair Association
+ - [https://www.repair.org](https://www.repair.org)
+ - date published: 2023-11-03T10:39:08.955951+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Report Phone Spam – Shut down robocallers and text spammers
+ - [https://reportphonespam.org](https://reportphonespam.org)
+ - date published: 2023-12-03T14:49:51+00:00
+ - user: None
+ - tags: []
+
+## Resilience
+ - [https://www.resilience.org](https://www.resilience.org)
+ - date published: 2023-10-25T22:03:05.665315+00:00
+ - user: None
+ - tags: []
+
+## Resolution Foundation • Analysis and action on living standards
+ - [https://www.resolutionfoundation.org](https://www.resolutionfoundation.org)
+ - date published: 2023-10-25T22:03:08.429417+00:00
+ - user: None
+ - tags: []
+
+## Official.Resource.Org
+ - [https://official.resource.org](https://official.resource.org)
+ - date published: 2023-10-25T22:03:09.381581+00:00
+ - user: None
+ - tags: []
+
+## Home - Responsible Statecraft
+ - [https://responsiblestatecraft.org](https://responsiblestatecraft.org)
+ - date published: 2023-10-25T22:03:17.450852+00:00
+ - user: None
+ - tags: []
+
+## Rest of World - Reporting Global Tech Stories
+ - [https://restofworld.org](https://restofworld.org)
+ - date published: 2023-10-25T22:03:21.741352+00:00
+ - user: None
+ - tags: []
+
+## Unleash the Science of Learning – Retrieval Practice
+ - [https://www.retrievalpractice.org](https://www.retrievalpractice.org)
+ - date published: 2023-10-25T22:03:23.382603+00:00
+ - user: None
+ - tags: []
+
+## http://www.retroforth.org
+ - [http://www.retroforth.org](http://www.retroforth.org)
+ - date published: 2023-10-25T22:03:24.082210+00:00
+ - user: None
+ - tags: []
+
+## Radio Free Asia
+ - [https://www.rfa.org](https://www.rfa.org)
+ - date published: 2023-12-10T22:50:37.973187+00:00
+ - user: None
+ - tags: []
+
+## » RFC Editor
+ - [https://www.rfc-editor.org](https://www.rfc-editor.org)
+ - date published: 2023-10-25T22:03:26.421150+00:00
+ - user: None
+ - tags: []
+
+## Radio Free Europe/Radio Liberty
+ - [https://www.rferl.org](https://www.rferl.org)
+ - date published: 2023-11-06T18:21:07.940965+00:00
+ - user: None
+ - tags: []
+
+## Rhino Linux
+ - [https://rhinolinux.org](https://rhinolinux.org)
+ - date published: 2023-10-25T22:03:28.922070+00:00
+ - user: None
+ - tags: []
+
+## Rhodes Mill
+ - [https://rhodesmill.org](https://rhodesmill.org)
+ - date published: 2023-12-01T10:46:08.297281+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Right Wing Watch
+ - [https://www.rightwingwatch.org](https://www.rightwingwatch.org)
+ - date published: 2023-11-01T06:03:39.439988+00:00
+ - user: None
+ - tags: []
+
+## ror-website
+ - [https://www.rigsofrods.org](https://www.rigsofrods.org)
+ - date published: 2023-10-25T22:03:29.951694+00:00
+ - user: None
+ - tags: []
+
+## rinzewind.org: choose your language
+ - [https://rinzewind.org](https://rinzewind.org)
+ - date published: 2023-10-25T22:03:31.110631+00:00
+ - user: None
+ - tags: []
+
+## RISC-V International – RISC-V: The Open Standard RISC Instruction Set Architecture
+ - [https://riscv.org](https://riscv.org)
+ - date published: 2023-10-25T22:03:35.635398+00:00
+ - user: None
+ - tags: []
+
+## RISC-V Assembly Programming
+ - [https://riscv-programming.org](https://riscv-programming.org)
+ - date published: 2023-10-25T22:03:36.272967+00:00
+ - user: None
+ - tags: []
+
+## Articles On Linux, Command-line & Software Engineering
+ - [https://blog.robertelder.org](https://blog.robertelder.org)
+ - date published: 2023-10-25T22:03:37.326786+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Robert H Jackson Center
+ - [https://www.roberthjackson.org](https://www.roberthjackson.org)
+ - date published: 2023-10-25T22:03:42.146332+00:00
+ - user: None
+ - tags: []
+
+## Robot Framework
+ - [https://robotframework.org](https://robotframework.org)
+ - date published: 2023-10-25T22:03:42.661228+00:00
+ - user: None
+ - tags: []
+
+## Roc – A fast, friendly, functional language
+ - [https://www.roc-lang.org](https://www.roc-lang.org)
+ - date published: 2023-11-20T12:09:30+00:00
+ - user: None
+ - tags: []
+
+## Rocky Linux
+ - [https://rockylinux.org](https://rockylinux.org)
+ - date published: 2023-10-25T22:03:43.968856+00:00
+ - user: None
+ - tags: []
+
 ## Home - Rodef Shalom 613
  - [https://www.rodefshalom613.org](https://www.rodefshalom613.org)
  - date published: 2023-10-27T12:06:58.791396+00:00
@@ -1050,6 +1410,12 @@
  - user: None
  - tags: []
 
+## T3X.ORG
+ - [http://t3x.org](http://t3x.org)
+ - date published: 2023-12-10T14:52:44.785531+00:00
+ - user: None
+ - tags: []
+
 ## Tablix: Free software for solving timetabling problems
  - [https://www.tablix.org](https://www.tablix.org)
  - date published: 2023-10-25T22:12:27.998127+00:00
@@ -1079,6 +1445,12 @@
  - date published: 2023-10-30T02:11:55.032604+00:00
  - user: None
  - tags: []
+
+## Homepage
+ - [https://taxfoundation.org](https://taxfoundation.org)
+ - date published: 2023-12-10T07:12:31.078840+00:00
+ - user: None
+ - tags: ['taxes']
 
 ## tbray.org
  - [https://www.tbray.org](https://www.tbray.org)
@@ -4364,7 +4736,7 @@ is forbidden
  - [https://niezalezna.pl](https://niezalezna.pl)
  - date published: 2023-10-25T09:30:13.629577+00:00
  - user: None
- - tags: []
+ - tags: ['the right wing', 'misinformation']
 
 ## Noizz
  - [https://noizz.pl](https://noizz.pl)
@@ -5066,6 +5438,12 @@ is forbidden
  - user: None
  - tags: []
 
+## Vibez - daje więcej niż obiecuje - ludzie, ekologia, lifehacki
+ - [https://vibez.pl](https://vibez.pl)
+ - date published: 2023-12-10T15:04:30.542537+00:00
+ - user: None
+ - tags: []
+
 ## Visuality - Web & Mobile Apps - Ruby, React, Golang, PWA
  - [https://www.visuality.pl](https://www.visuality.pl)
  - date published: 2023-10-25T22:32:34.274635+00:00
@@ -5208,13 +5586,13 @@ is forbidden
  - [https://www.wykop.pl](https://www.wykop.pl)
  - date published: 2023-10-24T20:12:56.803640+00:00
  - user: None
- - tags: ['social platform']
+ - tags: ['conspiracy theories', 'misinformation', 'social platform']
 
 ## Wykop.pl - newsy, aktualności, gry, wiadomości, muzyka, ciekawostki, filmiki
  - [https://wykop.pl](https://wykop.pl)
  - date published: 2023-10-24T20:13:05.279016+00:00
  - user: None
- - tags: []
+ - tags: ['conspiracy theories', 'link aggregator', 'misinformation', 'social platform']
 
 ## x-kom.pl - Sklep komputerowy
  - [https://www.x-kom.pl](https://www.x-kom.pl)
@@ -5621,385 +5999,6 @@ is forbidden
 ## Piped
  - [https://piped.kavin.rocks](https://piped.kavin.rocks)
  - date published: 2023-10-27T12:07:46.258588+00:00
- - user: None
- - tags: []
-
-## Ouroboros
- - [https://ouroboros.rocks](https://ouroboros.rocks)
- - date published: 2023-10-25T22:35:45.758626+00:00
- - user: None
- - tags: []
-
-## Screenshot.Rocks | Create beautiful mobile or browser screenshots and mockups
- - [https://screenshot.rocks](https://screenshot.rocks)
- - date published: 2023-10-25T22:35:46.545401+00:00
- - user: None
- - tags: []
-
-## Thorium Browser
- - [https://thorium.rocks](https://thorium.rocks)
- - date published: 2023-10-31T21:15:19.735540+00:00
- - user: None
- - tags: ['browser', 'open source']
-
-## infosec.rodeo
- - [https://infosec.rodeo](https://infosec.rodeo)
- - date published: 2023-10-25T22:35:52.744603+00:00
- - user: None
- - tags: []
-
-## Are we game yet?
- - [https://arewegameyet.rs](https://arewegameyet.rs)
- - date published: 2023-10-25T22:35:53.886030+00:00
- - user: None
- - tags: []
-
-## Crate List - Blessed.rs
- - [https://blessed.rs](https://blessed.rs)
- - date published: 2023-10-25T22:35:58.587829+00:00
- - user: None
- - tags: []
-
-## Docs.rs
- - [https://docs.rs](https://docs.rs)
- - date published: 2023-10-25T22:35:59.676050+00:00
- - user: None
- - tags: []
-
-## Show HN: Executo.rs – Meet other founders weekly to talk strategy and ideas
- - [https://executo.rs](https://executo.rs)
- - date published: 2023-11-12T14:31:46+00:00
- - user: None
- - tags: []
-
-## Fyrox - A feature-rich game engine built in Rust
- - [https://fyrox.rs](https://fyrox.rs)
- - date published: 2023-10-25T22:36:00.775630+00:00
- - user: None
- - tags: []
-
-## Graphite | Web-based vector graphics editor and design tool
- - [https://graphite.rs](https://graphite.rs)
- - date published: 2023-10-25T22:36:01.682400+00:00
- - user: None
- - tags: []
-
-## http://ktxr.rs
- - [http://ktxr.rs](http://ktxr.rs)
- - date published: 2023-10-25T22:36:01.940193+00:00
- - user: None
- - tags: []
-
-## Lobsters
- - [https://lobste.rs](https://lobste.rs)
- - date published: 2023-10-24T20:13:12.953860+00:00
- - user: None
- - tags: []
-
-## Loco. The one-person framework for Rust for side-projects and startups
- - [https://loco.rs](https://loco.rs)
- - date published: 2023-12-06T03:25:42+00:00
- - user: None
- - tags: []
-
-## Home – NAPI-RS
- - [https://napi.rs](https://napi.rs)
- - date published: 2023-10-25T22:36:03.323637+00:00
- - user: None
- - tags: []
-
-## nullpt.rs • blog
- - [https://nullpt.rs](https://nullpt.rs)
- - date published: 2023-10-25T22:36:04.253829+00:00
- - user: None
- - tags: []
-
-## nullpt.rs • blog
- - [https://www.nullpt.rs](https://www.nullpt.rs)
- - date published: 2023-10-25T22:36:04.784068+00:00
- - user: None
- - tags: []
-
-## peppe.rs
- - [https://peppe.rs](https://peppe.rs)
- - date published: 2023-10-25T22:36:05.576783+00:00
- - user: None
- - tags: []
-
-## Polars
- - [https://www.pola.rs](https://www.pola.rs)
- - date published: 2023-10-25T22:36:06.508692+00:00
- - user: None
- - tags: []
-
-## Rocket - Simple, Fast, Type-Safe Web Framework for Rust
- - [https://rocket.rs](https://rocket.rs)
- - date published: 2023-11-17T18:44:32.670912+00:00
- - user: None
- - tags: []
-
-## Ruffle | Ruffle is a Flash Player emulator written in Rust. Ruffle targets both desktop and the web using WebAssembly.
- - [https://ruffle.rs](https://ruffle.rs)
- - date published: 2023-10-25T22:36:07.713614+00:00
- - user: None
- - tags: []
-
-## Shuttle
- - [https://www.shuttle.rs](https://www.shuttle.rs)
- - date published: 2023-10-25T22:36:08.731746+00:00
- - user: None
- - tags: []
-
-## Derek Sivers
- - [https://sive.rs](https://sive.rs)
- - date published: 2023-10-25T08:55:23.405484+00:00
- - user: None
- - tags: ['personal']
-
-## Tokio - An asynchronous Rust runtime
- - [https://tokio.rs](https://tokio.rs)
- - date published: 2023-10-25T22:36:09.570756+00:00
- - user: None
- - tags: []
-
-## ugu.rs
- - [https://www.ugu.rs](https://www.ugu.rs)
- - date published: 2023-10-25T22:36:10.279673+00:00
- - user: None
- - tags: []
-
-## Заметки Андрея Гейна
- - [https://andgein.ru](https://andgein.ru)
- - date published: 2023-10-25T09:24:32.093894+00:00
- - user: None
- - tags: ['personal']
-
-## Сергей Бронников
- - [https://bronevichok.ru](https://bronevichok.ru)
- - date published: 2023-11-29T14:19:59.554741+00:00
- - user: None
- - tags: ['personal']
-
-## KEYGEN FM
- - [http://keygen-fm.ru](http://keygen-fm.ru)
- - date published: 2023-10-28T19:00:10.277292+00:00
- - user: None
- - tags: []
-
-## kiwifarms.ru
- - [https://kiwifarms.ru](https://kiwifarms.ru)
- - date published: 2023-10-25T22:36:10.826584+00:00
- - user: None
- - tags: []
-
-## Неизвестный Синклер
- - [https://zxnext.narod.ru](https://zxnext.narod.ru)
- - date published: 2023-10-25T22:36:11.579063+00:00
- - user: None
- - tags: []
-
-## Amiga Information Center - 
-Информационный центр Амига в России
- - [http://www.amiga.org.ru](http://www.amiga.org.ru)
- - date published: 2023-11-02T10:49:40.924866+00:00
- - user: None
- - tags: ['amiga']
-
-## Sci-Hub: science for the people
- - [https://sci-hub.ru](https://sci-hub.ru)
- - date published: 2023-10-25T22:36:17.135520+00:00
- - user: None
- - tags: []
-
-## Screenplays for You - free movie scripts and screenplays
- - [https://sfy.ru](https://sfy.ru)
- - date published: 2023-10-25T22:36:17.819317+00:00
- - user: None
- - tags: []
-
-## Расследования, аналитика, последние новости в России и мире: узнайте сегодня то, что другие узнают завтра — The Insider
- - [https://theins.ru](https://theins.ru)
- - date published: 2023-10-25T22:36:22.130289+00:00
- - user: None
- - tags: []
-
-## scholz.ruhr
- - [https://scholz.ruhr](https://scholz.ruhr)
- - date published: 2023-10-25T22:36:22.924677+00:00
- - user: None
- - tags: []
-
-## Ambient
- - [https://ambient.run](https://ambient.run)
- - date published: 2023-10-25T22:36:23.592942+00:00
- - user: None
- - tags: []
-
-## Ambient
- - [https://www.ambient.run](https://www.ambient.run)
- - date published: 2023-10-25T22:36:24.498696+00:00
- - user: None
- - tags: []
-
-## Carton - Run any ML model from any programming language.
- - [https://carton.run](https://carton.run)
- - date published: 2023-10-25T22:36:25.105713+00:00
- - user: None
- - tags: []
-
-## GSV Sleeper Service
- - [https://circumstances.run](https://circumstances.run)
- - date published: 2023-10-25T22:36:25.640905+00:00
- - user: None
- - tags: []
-
-## Gleam: a type safe language on the Erlang VM
- - [https://gleam.run](https://gleam.run)
- - date published: 2023-11-07T21:53:29+00:00
- - user: None
- - tags: []
-
-## iNet
- - [https://inet.run](https://inet.run)
- - date published: 2023-10-25T08:31:33.654821+00:00
- - user: None
- - tags: []
-
-## Running In Production With Scissors | Techniques, stories, and rants about DevOps and site reliability engineering
- - [https://productionwithscissors.run](https://productionwithscissors.run)
- - date published: 2023-10-25T22:36:31.413982+00:00
- - user: None
- - tags: []
-
-## Learn Playwright
- - [https://ray.run](https://ray.run)
- - date published: 2023-10-25T22:36:37.080179+00:00
- - user: None
- - tags: []
-
-## Remix - Build Better Websites
- - [https://remix.run](https://remix.run)
- - date published: 2023-10-25T22:36:43.381365+00:00
- - user: None
- - tags: []
-
-## Symphony
- - [https://www.symphony.run](https://www.symphony.run)
- - date published: 2023-10-25T22:36:43.948261+00:00
- - user: None
- - tags: []
-
-## Tier - Pricing as Code
- - [https://www.tier.run](https://www.tier.run)
- - date published: 2023-10-25T22:36:46.674697+00:00
- - user: None
- - tags: []
-
-## Saudi Gazette/ Home Page
- - [https://saudigazette.com.sa](https://saudigazette.com.sa)
- - date published: 2023-11-12T01:39:02.623959+00:00
- - user: None
- - tags: []
-
-## IPv4
- - [https://ipv4.dev.sarl](https://ipv4.dev.sarl)
- - date published: 2023-10-25T22:36:47.359030+00:00
- - user: None
- - tags: []
-
-## Amazon Science homepage
- - [https://www.amazon.science](https://www.amazon.science)
- - date published: 2023-10-25T22:36:50.957929+00:00
- - user: None
- - tags: []
-
-## Gonzales.Science
- - [https://gonzales.science](https://gonzales.science)
- - date published: 2023-10-25T22:36:52.362938+00:00
- - user: None
- - tags: []
-
-## Home - Archive ouverte HAL
- - [https://hal.science](https://hal.science)
- - date published: 2023-10-25T22:36:53.471421+00:00
- - user: None
- - tags: []
-
-## index - Inria - Institut national de recherche en sciences et technologies du numérique
- - [https://inria.hal.science](https://inria.hal.science)
- - date published: 2023-10-25T22:36:55.663290+00:00
- - user: None
- - tags: []
-
-## Matt's Blog
- - [https://matthew.science](https://matthew.science)
- - date published: 2023-11-13T18:48:07.453796+00:00
- - user: None
- - tags: []
-
-## mstdn.science
- - [https://mstdn.science](https://mstdn.science)
- - date published: 2023-10-24T20:13:37.539089+00:00
- - user: None
- - tags: ['mastodon']
-
-## The Ferret | Good journalism changes things
- - [https://theferret.scot](https://theferret.scot)
- - date published: 2023-10-25T22:37:03.833636+00:00
- - user: None
- - tags: []
-
-## The National | Latest Scottish News, Politics, Opinion, Sport and more
- - [https://www.thenational.scot](https://www.thenational.scot)
- - date published: 2023-11-22T14:04:39.684711+00:00
- - user: None
- - tags: []
-
-## Nyheter från Sveriges största nyhetssajt
- - [https://www.aftonbladet.se](https://www.aftonbladet.se)
- - date published: 2023-11-16T07:40:26.151210+00:00
- - user: None
- - tags: []
-
-## Chalmers tekniska högskola
- - [https://www.chalmers.se](https://www.chalmers.se)
- - date published: 2023-10-25T11:23:40.727663+00:00
- - user: None
- - tags: []
-
-## curl
- - [https://curl.se](https://curl.se)
- - date published: 2023-10-25T22:37:05.022651+00:00
- - user: None
- - tags: []
-
-## Dagens Arbete
- - [https://da.se](https://da.se)
- - date published: 2023-10-31T14:57:36.906065+00:00
- - user: None
- - tags: []
-
-## datagubbe.se
- - [https://datagubbe.se](https://datagubbe.se)
- - date published: 2023-10-25T22:37:06.570837+00:00
- - user: None
- - tags: ['commodore', 'personal', 'amiga']
-
-## datagubbe.se
- - [https://www.datagubbe.se](https://www.datagubbe.se)
- - date published: 2023-10-25T22:37:08.227975+00:00
- - user: None
- - tags: []
-
-## DICE - We exist to push the boundaries of creative entertainment
- - [https://dice.se](https://dice.se)
- - date published: 2023-11-06T11:01:20.422931+00:00
- - user: None
- - tags: ['amiga', 'pinball', 'battlefield', 'game studio']
-
-## Fatshark
- - [https://www.fatshark.se](https://www.fatshark.se)
- - date published: 2023-10-25T22:37:10.380079+00:00
  - user: None
  - tags: []
 

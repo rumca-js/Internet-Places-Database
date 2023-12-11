@@ -1,3 +1,388 @@
+## Screenshot.Rocks | Create beautiful mobile or browser screenshots and mockups
+ - [https://screenshot.rocks](https://screenshot.rocks)
+ - date published: 2023-10-25T22:35:46.545401+00:00
+ - user: None
+ - tags: []
+
+## Thorium Browser
+ - [https://thorium.rocks](https://thorium.rocks)
+ - date published: 2023-10-31T21:15:19.735540+00:00
+ - user: None
+ - tags: ['browser', 'open source']
+
+## infosec.rodeo
+ - [https://infosec.rodeo](https://infosec.rodeo)
+ - date published: 2023-10-25T22:35:52.744603+00:00
+ - user: None
+ - tags: []
+
+## Are we game yet?
+ - [https://arewegameyet.rs](https://arewegameyet.rs)
+ - date published: 2023-10-25T22:35:53.886030+00:00
+ - user: None
+ - tags: []
+
+## Crate List - Blessed.rs
+ - [https://blessed.rs](https://blessed.rs)
+ - date published: 2023-10-25T22:35:58.587829+00:00
+ - user: None
+ - tags: []
+
+## Trippy – A Network Diagnostic Tool
+ - [https://trippy.cli.rs](https://trippy.cli.rs)
+ - date published: 2023-12-10T03:46:43+00:00
+ - user: None
+ - tags: ['program', 'open source']
+
+## Docs.rs
+ - [https://docs.rs](https://docs.rs)
+ - date published: 2023-10-25T22:35:59.676050+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Executo.rs – Meet other founders weekly to talk strategy and ideas
+ - [https://executo.rs](https://executo.rs)
+ - date published: 2023-11-12T14:31:46+00:00
+ - user: None
+ - tags: []
+
+## Fyrox - A feature-rich game engine built in Rust
+ - [https://fyrox.rs](https://fyrox.rs)
+ - date published: 2023-10-25T22:36:00.775630+00:00
+ - user: None
+ - tags: []
+
+## Graphite | Web-based vector graphics editor and design tool
+ - [https://graphite.rs](https://graphite.rs)
+ - date published: 2023-10-25T22:36:01.682400+00:00
+ - user: None
+ - tags: []
+
+## http://ktxr.rs
+ - [http://ktxr.rs](http://ktxr.rs)
+ - date published: 2023-10-25T22:36:01.940193+00:00
+ - user: None
+ - tags: []
+
+## Lobsters
+ - [https://lobste.rs](https://lobste.rs)
+ - date published: 2023-10-24T20:13:12.953860+00:00
+ - user: None
+ - tags: []
+
+## Loco. The one-person framework for Rust for side-projects and startups
+ - [https://loco.rs](https://loco.rs)
+ - date published: 2023-12-06T03:25:42+00:00
+ - user: None
+ - tags: []
+
+## Home – NAPI-RS
+ - [https://napi.rs](https://napi.rs)
+ - date published: 2023-10-25T22:36:03.323637+00:00
+ - user: None
+ - tags: []
+
+## nullpt.rs • blog
+ - [https://nullpt.rs](https://nullpt.rs)
+ - date published: 2023-10-25T22:36:04.253829+00:00
+ - user: None
+ - tags: []
+
+## nullpt.rs • blog
+ - [https://www.nullpt.rs](https://www.nullpt.rs)
+ - date published: 2023-10-25T22:36:04.784068+00:00
+ - user: None
+ - tags: []
+
+## peppe.rs
+ - [https://peppe.rs](https://peppe.rs)
+ - date published: 2023-10-25T22:36:05.576783+00:00
+ - user: None
+ - tags: []
+
+## Polars
+ - [https://www.pola.rs](https://www.pola.rs)
+ - date published: 2023-10-25T22:36:06.508692+00:00
+ - user: None
+ - tags: []
+
+## Rocket - Simple, Fast, Type-Safe Web Framework for Rust
+ - [https://rocket.rs](https://rocket.rs)
+ - date published: 2023-11-17T18:44:32.670912+00:00
+ - user: None
+ - tags: []
+
+## Ruffle | Ruffle is a Flash Player emulator written in Rust. Ruffle targets both desktop and the web using WebAssembly.
+ - [https://ruffle.rs](https://ruffle.rs)
+ - date published: 2023-10-25T22:36:07.713614+00:00
+ - user: None
+ - tags: []
+
+## Shuttle
+ - [https://www.shuttle.rs](https://www.shuttle.rs)
+ - date published: 2023-10-25T22:36:08.731746+00:00
+ - user: None
+ - tags: []
+
+## Derek Sivers
+ - [https://sive.rs](https://sive.rs)
+ - date published: 2023-10-25T08:55:23.405484+00:00
+ - user: None
+ - tags: ['personal']
+
+## Tokio - An asynchronous Rust runtime
+ - [https://tokio.rs](https://tokio.rs)
+ - date published: 2023-10-25T22:36:09.570756+00:00
+ - user: None
+ - tags: []
+
+## ugu.rs
+ - [https://www.ugu.rs](https://www.ugu.rs)
+ - date published: 2023-10-25T22:36:10.279673+00:00
+ - user: None
+ - tags: []
+
+## Заметки Андрея Гейна
+ - [https://andgein.ru](https://andgein.ru)
+ - date published: 2023-10-25T09:24:32.093894+00:00
+ - user: None
+ - tags: ['personal']
+
+## Сергей Бронников
+ - [https://bronevichok.ru](https://bronevichok.ru)
+ - date published: 2023-11-29T14:19:59.554741+00:00
+ - user: None
+ - tags: ['personal']
+
+## KEYGEN FM
+ - [http://keygen-fm.ru](http://keygen-fm.ru)
+ - date published: 2023-10-28T19:00:10.277292+00:00
+ - user: None
+ - tags: []
+
+## kiwifarms.ru
+ - [https://kiwifarms.ru](https://kiwifarms.ru)
+ - date published: 2023-10-25T22:36:10.826584+00:00
+ - user: None
+ - tags: []
+
+## Неизвестный Синклер
+ - [https://zxnext.narod.ru](https://zxnext.narod.ru)
+ - date published: 2023-10-25T22:36:11.579063+00:00
+ - user: None
+ - tags: []
+
+## Amiga Information Center - 
+Информационный центр Амига в России
+ - [http://www.amiga.org.ru](http://www.amiga.org.ru)
+ - date published: 2023-11-02T10:49:40.924866+00:00
+ - user: None
+ - tags: ['amiga']
+
+## Sci-Hub: science for the people
+ - [https://sci-hub.ru](https://sci-hub.ru)
+ - date published: 2023-10-25T22:36:17.135520+00:00
+ - user: None
+ - tags: []
+
+## Screenplays for You - free movie scripts and screenplays
+ - [https://sfy.ru](https://sfy.ru)
+ - date published: 2023-10-25T22:36:17.819317+00:00
+ - user: None
+ - tags: []
+
+## Расследования, аналитика, последние новости в России и мире: узнайте сегодня то, что другие узнают завтра — The Insider
+ - [https://theins.ru](https://theins.ru)
+ - date published: 2023-10-25T22:36:22.130289+00:00
+ - user: None
+ - tags: []
+
+## scholz.ruhr
+ - [https://scholz.ruhr](https://scholz.ruhr)
+ - date published: 2023-10-25T22:36:22.924677+00:00
+ - user: None
+ - tags: []
+
+## Ambient
+ - [https://ambient.run](https://ambient.run)
+ - date published: 2023-10-25T22:36:23.592942+00:00
+ - user: None
+ - tags: []
+
+## Ambient
+ - [https://www.ambient.run](https://www.ambient.run)
+ - date published: 2023-10-25T22:36:24.498696+00:00
+ - user: None
+ - tags: []
+
+## Carton - Run any ML model from any programming language.
+ - [https://carton.run](https://carton.run)
+ - date published: 2023-10-25T22:36:25.105713+00:00
+ - user: None
+ - tags: []
+
+## GSV Sleeper Service
+ - [https://circumstances.run](https://circumstances.run)
+ - date published: 2023-10-25T22:36:25.640905+00:00
+ - user: None
+ - tags: []
+
+## Gleam: a type safe language on the Erlang VM
+ - [https://gleam.run](https://gleam.run)
+ - date published: 2023-11-07T21:53:29+00:00
+ - user: None
+ - tags: []
+
+## iNet
+ - [https://inet.run](https://inet.run)
+ - date published: 2023-10-25T08:31:33.654821+00:00
+ - user: None
+ - tags: []
+
+## Running In Production With Scissors | Techniques, stories, and rants about DevOps and site reliability engineering
+ - [https://productionwithscissors.run](https://productionwithscissors.run)
+ - date published: 2023-10-25T22:36:31.413982+00:00
+ - user: None
+ - tags: []
+
+## Learn Playwright
+ - [https://ray.run](https://ray.run)
+ - date published: 2023-10-25T22:36:37.080179+00:00
+ - user: None
+ - tags: []
+
+## Remix - Build Better Websites
+ - [https://remix.run](https://remix.run)
+ - date published: 2023-10-25T22:36:43.381365+00:00
+ - user: None
+ - tags: []
+
+## Symphony
+ - [https://www.symphony.run](https://www.symphony.run)
+ - date published: 2023-10-25T22:36:43.948261+00:00
+ - user: None
+ - tags: []
+
+## Tier - Pricing as Code
+ - [https://www.tier.run](https://www.tier.run)
+ - date published: 2023-10-25T22:36:46.674697+00:00
+ - user: None
+ - tags: []
+
+## Saudi Gazette/ Home Page
+ - [https://saudigazette.com.sa](https://saudigazette.com.sa)
+ - date published: 2023-11-12T01:39:02.623959+00:00
+ - user: None
+ - tags: []
+
+## IPv4
+ - [https://ipv4.dev.sarl](https://ipv4.dev.sarl)
+ - date published: 2023-10-25T22:36:47.359030+00:00
+ - user: None
+ - tags: []
+
+## Amazon Science homepage
+ - [https://www.amazon.science](https://www.amazon.science)
+ - date published: 2023-10-25T22:36:50.957929+00:00
+ - user: None
+ - tags: []
+
+## Gonzales.Science
+ - [https://gonzales.science](https://gonzales.science)
+ - date published: 2023-10-25T22:36:52.362938+00:00
+ - user: None
+ - tags: []
+
+## Home - Archive ouverte HAL
+ - [https://hal.science](https://hal.science)
+ - date published: 2023-10-25T22:36:53.471421+00:00
+ - user: None
+ - tags: []
+
+## index - Inria - Institut national de recherche en sciences et technologies du numérique
+ - [https://inria.hal.science](https://inria.hal.science)
+ - date published: 2023-10-25T22:36:55.663290+00:00
+ - user: None
+ - tags: []
+
+## Matt's Blog
+ - [https://matthew.science](https://matthew.science)
+ - date published: 2023-11-13T18:48:07.453796+00:00
+ - user: None
+ - tags: []
+
+## mstdn.science
+ - [https://mstdn.science](https://mstdn.science)
+ - date published: 2023-10-24T20:13:37.539089+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## The Ferret | Good journalism changes things
+ - [https://theferret.scot](https://theferret.scot)
+ - date published: 2023-10-25T22:37:03.833636+00:00
+ - user: None
+ - tags: []
+
+## The National | Latest Scottish News, Politics, Opinion, Sport and more
+ - [https://www.thenational.scot](https://www.thenational.scot)
+ - date published: 2023-11-22T14:04:39.684711+00:00
+ - user: None
+ - tags: []
+
+## Nyheter från Sveriges största nyhetssajt
+ - [https://www.aftonbladet.se](https://www.aftonbladet.se)
+ - date published: 2023-11-16T07:40:26.151210+00:00
+ - user: None
+ - tags: []
+
+## Chalmers tekniska högskola
+ - [https://www.chalmers.se](https://www.chalmers.se)
+ - date published: 2023-10-25T11:23:40.727663+00:00
+ - user: None
+ - tags: []
+
+## curl
+ - [https://curl.se](https://curl.se)
+ - date published: 2023-10-25T22:37:05.022651+00:00
+ - user: None
+ - tags: []
+
+## Dagens Arbete
+ - [https://da.se](https://da.se)
+ - date published: 2023-10-31T14:57:36.906065+00:00
+ - user: None
+ - tags: []
+
+## datagubbe.se
+ - [https://datagubbe.se](https://datagubbe.se)
+ - date published: 2023-10-25T22:37:06.570837+00:00
+ - user: None
+ - tags: ['commodore', 'personal', 'amiga']
+
+## datagubbe.se
+ - [https://www.datagubbe.se](https://www.datagubbe.se)
+ - date published: 2023-10-25T22:37:08.227975+00:00
+ - user: None
+ - tags: []
+
+## DICE - We exist to push the boundaries of creative entertainment
+ - [https://dice.se](https://dice.se)
+ - date published: 2023-11-06T11:01:20.422931+00:00
+ - user: None
+ - tags: ['amiga', 'pinball', 'battlefield', 'game studio']
+
+## Fatshark
+ - [https://www.fatshark.se](https://www.fatshark.se)
+ - date published: 2023-10-25T22:37:10.380079+00:00
+ - user: None
+ - tags: []
+
+## Götheborg of Sweden | Götheborg of Sweden
+ - [https://www.gotheborg.se](https://www.gotheborg.se)
+ - date published: 2023-10-25T22:37:11.579179+00:00
+ - user: None
+ - tags: []
+
 ## Hem | Göteborgs universitet
  - [https://www.gu.se](https://www.gu.se)
  - date published: 2023-10-25T11:23:45.206128+00:00
@@ -2299,7 +2684,7 @@ Introduction
  - [https://www.lbcgroup.tv](https://www.lbcgroup.tv)
  - date published: 2023-10-31T11:59:44.874795+00:00
  - user: None
- - tags: []
+ - tags: ['lebanon']
 
 ## LibreELEC
  - [https://libreelec.tv](https://libreelec.tv)
@@ -2768,6 +3153,12 @@ Introduction
  - date published: 2023-10-25T22:50:02.708001+00:00
  - user: None
  - tags: []
+
+## University of York
+ - [https://www.york.ac.uk](https://www.york.ac.uk)
+ - date published: 2023-12-10T10:56:12.136279+00:00
+ - user: None
+ - tags: ['university']
 
 ## Adam K Dean
  - [https://adamkdean.co.uk](https://adamkdean.co.uk)
@@ -3940,6 +4331,12 @@ Introduction
  - user: None
  - tags: []
 
+## Closer to the edge – Walking the coast of Britain
+ - [https://closertotheedge.uk](https://closertotheedge.uk)
+ - date published: 2023-12-10T17:30:01.706556+00:00
+ - user: None
+ - tags: ['personal']
+
 ## CyberHost - Tech Blogs and Tutorials
  - [https://cyberhost.uk](https://cyberhost.uk)
  - date published: 2023-10-25T22:57:44.230985+00:00
@@ -4149,6 +4546,12 @@ Introduction
  - date published: 2023-10-25T22:58:57.980658+00:00
  - user: None
  - tags: []
+
+## Sean MacAvaney
+ - [https://macavaney.us](https://macavaney.us)
+ - date published: 2023-12-10T11:35:20.147357+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Mark Groves  — homepage and blog
  - [https://markgroves.us](https://markgroves.us)

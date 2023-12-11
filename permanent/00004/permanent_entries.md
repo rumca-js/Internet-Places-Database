@@ -1,3 +1,93 @@
+## https://harvardpolitics.com
+ - [https://harvardpolitics.com](https://harvardpolitics.com)
+ - date published: 2023-10-25T14:56:25.725954+00:00
+ - user: None
+ - tags: []
+
+## HashiCorp Discuss
+ - [https://discuss.hashicorp.com](https://discuss.hashicorp.com)
+ - date published: 2023-10-25T14:56:28.325423+00:00
+ - user: None
+ - tags: []
+
+## HashiCorp: Infrastructure enables innovation
+ - [https://www.hashicorp.com](https://www.hashicorp.com)
+ - date published: 2023-10-25T14:56:31.067729+00:00
+ - user: None
+ - tags: []
+
+## HashRust - experience the joy of Rust
+ - [https://hashrust.com](https://hashrust.com)
+ - date published: 2023-10-25T14:56:33.234533+00:00
+ - user: None
+ - tags: []
+
+## Haskell for all
+ - [https://www.haskellforall.com](https://www.haskellforall.com)
+ - date published: 2023-10-25T14:56:42.857027+00:00
+ - user: None
+ - tags: []
+
+## Unavailable for legal reasons
+ - [https://www.hastingstribune.com](https://www.hastingstribune.com)
+ - date published: 2023-12-05T20:07:38.591624+00:00
+ - user: None
+ - tags: []
+
+## Have I Been Squatted? – Check if your domain has been typosquatted
+ - [https://haveibeensquatted.com](https://haveibeensquatted.com)
+ - date published: 2023-10-25T14:56:49.621334+00:00
+ - user: None
+ - tags: []
+
+## Have I Been Trained?
+ - [https://haveibeentrained.com](https://haveibeentrained.com)
+ - date published: 2023-10-25T14:56:49.963817+00:00
+ - user: None
+ - tags: []
+
+## Have we landed
+ - [https://havewelanded.com](https://havewelanded.com)
+ - date published: 2023-10-25T14:56:50.796602+00:00
+ - user: None
+ - tags: []
+
+## Havok
+ - [https://www.havok.com](https://www.havok.com)
+ - date published: 2023-11-13T11:53:13.291496+00:00
+ - user: None
+ - tags: ['oblivion', 'elder scrolls', 'game engine']
+
+## Hawaii News Now - Breaking News, Latest News, Weather & Traffic
+ - [https://www.hawaiinewsnow.com](https://www.hawaiinewsnow.com)
+ - date published: 2023-11-10T15:38:49.585422+00:00
+ - user: None
+ - tags: []
+
+## Haynes repair and workshop manuals | Print & Digital | DIY friendly
+ - [https://haynes.com](https://haynes.com)
+ - date published: 2023-10-25T14:56:53.770534+00:00
+ - user: None
+ - tags: []
+
+## HBO: Home to Groundbreaking Series, Movies, Comedies & Documentaries
+ - [https://www.hbo.com](https://www.hbo.com)
+ - date published: 2023-10-25T10:51:21.727029+00:00
+ - user: None
+ - tags: ['video streaming']
+
+## Class Action Lawsuits | International Law Firm | Hagens Berman
+ - [https://www.hbsslaw.com](https://www.hbsslaw.com)
+ - date published: 2023-10-25T14:56:55.979250+00:00
+ - user: None
+ - tags: []
+
+## hckr news - Hacker News sorted by time
+ - [https://hckrnews.com](https://hckrnews.com)
+ - date published: 2023-10-25T14:57:02.032491+00:00
+ - user: None
+ - tags: []
+
 ## HD-DN
  - [https://hd-dn.com](https://hd-dn.com)
  - date published: 2023-11-15T17:58:29.304927+00:00
@@ -1768,6 +1858,12 @@
  - user: None
  - tags: []
 
+## bne IntelliNews
+ - [https://intellinews.com](https://intellinews.com)
+ - date published: 2023-12-10T21:23:00.758981+00:00
+ - user: None
+ - tags: []
+
 ## IntelTechniques by Michael Bazzell
  - [https://inteltechniques.com](https://inteltechniques.com)
  - date published: 2023-11-13T19:48:16.653750+00:00
@@ -3232,6 +3328,12 @@
  - user: None
  - tags: ['personal']
 
+## John Zanussi
+ - [https://johnzanussi.com](https://johnzanussi.com)
+ - date published: 2023-12-10T20:35:29.532868+00:00
+ - user: None
+ - tags: []
+
 ## BATTLEBIT REMASTERED
  - [https://joinbattlebit.com](https://joinbattlebit.com)
  - date published: 2023-11-04T19:18:12.604508+00:00
@@ -3826,6 +3928,12 @@
  - user: None
  - tags: []
 
+## Karlstack | Christopher Brunet | Substack
+ - [https://www.karlstack.com](https://www.karlstack.com)
+ - date published: 2023-12-10T16:12:53.069326+00:00
+ - user: None
+ - tags: []
+
 ## Karl Sutt · Programing, business, self-development
  - [https://www.karlsutt.com](https://www.karlsutt.com)
  - date published: 2023-10-25T15:34:49.967790+00:00
@@ -3982,6 +4090,12 @@
  - user: None
  - tags: []
 
+## KDnuggets
+ - [https://www.kdnuggets.com](https://www.kdnuggets.com)
+ - date published: 2023-12-10T10:12:35.693865+00:00
+ - user: None
+ - tags: ['machine learning', 'artificial intelligence']
+
 ## KDP Community
  - [https://www.kdpcommunity.com](https://www.kdpcommunity.com)
  - date published: 2023-10-25T15:35:34.149390+00:00
@@ -4027,6 +4141,12 @@
 ## Kempa.com
  - [https://www.kempa.com](https://www.kempa.com)
  - date published: 2023-10-25T08:46:44.860682+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kendall Giles | Kendall Giles: Technology, Society, and Meaning
+ - [https://www.kendallgiles.com](https://www.kendallgiles.com)
+ - date published: 2023-12-10T17:00:14.989133+00:00
  - user: None
  - tags: ['personal']
 
@@ -4798,6 +4918,12 @@
  - date published: 2023-10-25T15:40:17.831961+00:00
  - user: None
  - tags: []
+
+## Kyle Sexton // ChamberThink Strategies
+ - [https://www.kylesexton.com](https://www.kylesexton.com)
+ - date published: 2023-12-10T17:00:32.232505+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Tension by Kylie. Out 22nd Sept.
  - [https://www.kylie.com](https://www.kylie.com)
@@ -5864,132 +5990,6 @@
 ## The Linux Mint Blog – News from the Mint Team
  - [https://blog.linuxmint.com](https://blog.linuxmint.com)
  - date published: 2023-10-26T21:22:57.371481+00:00
- - user: None
- - tags: []
-
-## Linux Mint Forums - Index page
- - [https://forums.linuxmint.com](https://forums.linuxmint.com)
- - date published: 2023-11-23T20:34:30.391148+00:00
- - user: None
- - tags: []
-
-## Home - Linux Mint
- - [https://linuxmint.com](https://linuxmint.com)
- - date published: 2023-10-25T08:31:43.953300+00:00
- - user: None
- - tags: ['operating system']
-
-## Linux Stans - Content by Linux Stans for Everyone
- - [https://linuxstans.com](https://linuxstans.com)
- - date published: 2023-10-25T15:47:59.855053+00:00
- - user: None
- - tags: []
-
-## Linux Today: Linux News, Tutorials & Guides for 2022
- - [https://www.linuxtoday.com](https://www.linuxtoday.com)
- - date published: 2023-10-25T10:36:02.093653+00:00
- - user: None
- - tags: []
-
-## Linux Uprising Blog
- - [https://www.linuxuprising.com](https://www.linuxuprising.com)
- - date published: 2023-10-25T15:48:04.365841+00:00
- - user: None
- - tags: []
-
-## Lin Yangchen
- - [https://www.linyangchen.com](https://www.linyangchen.com)
- - date published: 2023-10-25T15:48:06.466874+00:00
- - user: None
- - tags: []
-
-## LiquidPiston | The Future of the Combustion Engine
- - [https://invest.liquidpiston.com](https://invest.liquidpiston.com)
- - date published: 2023-10-25T15:48:09.735313+00:00
- - user: None
- - tags: []
-
-## LispWorks
- - [https://www.lispworks.com](https://www.lispworks.com)
- - date published: 2023-10-25T15:48:15.763812+00:00
- - user: None
- - tags: []
-
-## Listen Notes: The best podcast search engine
- - [https://www.listennotes.com](https://www.listennotes.com)
- - date published: 2023-10-25T15:48:17.923123+00:00
- - user: None
- - tags: []
-
-## Lists of Note | Shaun Usher | Substack
- - [https://www.listsofnote.com](https://www.listsofnote.com)
- - date published: 2023-10-25T15:48:20.104028+00:00
- - user: None
- - tags: []
-
-## Lite XL
- - [https://lite-xl.com](https://lite-xl.com)
- - date published: 2023-10-25T15:48:21.331547+00:00
- - user: None
- - tags: []
-
-## Literary  Hub
- - [https://lithub.com](https://lithub.com)
- - date published: 2023-10-25T10:35:52.495629+00:00
- - user: None
- - tags: []
-
-## Little Blah
- - [https://littleblah.com](https://littleblah.com)
- - date published: 2023-10-25T15:48:22.623512+00:00
- - user: None
- - tags: []
-
-## Little Pluses
- - [https://littlepluses.com](https://littlepluses.com)
- - date published: 2023-11-29T20:43:56.449544+00:00
- - user: None
- - tags: ['personal']
-
-## Little Polygon Game Dev Blog
- - [https://blog.littlepolygon.com](https://blog.littlepolygon.com)
- - date published: 2023-10-25T15:48:25.456688+00:00
- - user: None
- - tags: []
-
-## Personal Cloud Storage – Microsoft OneDrive
- - [https://onedrive.live.com](https://onedrive.live.com)
- - date published: 2023-10-25T08:26:00.348969+00:00
- - user: None
- - tags: []
-
-## checking your credentials..
- - [https://teams.live.com](https://teams.live.com)
- - date published: 2023-10-25T15:48:28.580482+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.live5news.com](https://www.live5news.com)
- - date published: 2023-11-28T13:23:27.331782+00:00
- - user: None
- - tags: []
-
-## Live and Let's Fly - Fly Another Day with Matthew
- - [https://liveandletsfly.com](https://liveandletsfly.com)
- - date published: 2023-10-25T15:48:31.992212+00:00
- - user: None
- - tags: []
-
-## Livebeam: search, meet & connect globally
- - [https://livebeam.com](https://livebeam.com)
- - date published: 2023-11-02T10:01:46.090394+00:00
- - user: None
- - tags: []
-
-## -
- - [https://livefreeordichotomize.com](https://livefreeordichotomize.com)
- - date published: 2023-10-25T15:48:39.963713+00:00
  - user: None
  - tags: []
 

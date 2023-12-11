@@ -1,3 +1,293 @@
+## Readwise
+ - [https://readwise.io](https://readwise.io)
+ - date published: 2023-10-25T20:05:16.822368+00:00
+ - user: None
+ - tags: []
+
+## ReadySet Blog
+ - [https://blog.readyset.io](https://blog.readyset.io)
+ - date published: 2023-10-25T08:33:24.826806+00:00
+ - user: None
+ - tags: []
+
+## The Realistic Optimist | Timothy Motte | Substack
+ - [https://www.realisticoptimist.io](https://www.realisticoptimist.io)
+ - date published: 2023-10-25T20:05:21.071317+00:00
+ - user: None
+ - tags: []
+
+## Rebble
+ - [https://rebble.io](https://rebble.io)
+ - date published: 2023-10-25T20:05:22.071448+00:00
+ - user: None
+ - tags: []
+
+## Argus
+ - [https://release-argus.io](https://release-argus.io)
+ - date published: 2023-10-25T20:05:22.776475+00:00
+ - user: None
+ - tags: []
+
+## Rerun — Visualize everything fast
+ - [https://www.rerun.io](https://www.rerun.io)
+ - date published: 2023-10-25T20:05:25.155499+00:00
+ - user: None
+ - tags: []
+
+## RightToLeft Consulting
+ - [https://www.righttoleft.io](https://www.righttoleft.io)
+ - date published: 2023-10-25T20:05:31.144841+00:00
+ - user: None
+ - tags: []
+
+## Roastd - Get More Customers From A Landing Page Roast
+ - [https://www.roastd.io](https://www.roastd.io)
+ - date published: 2023-10-25T20:05:38.588683+00:00
+ - user: None
+ - tags: []
+
+## Rocketgraph
+ - [https://rocketgraph.io](https://rocketgraph.io)
+ - date published: 2023-10-25T20:05:41.453620+00:00
+ - user: None
+ - tags: []
+
+## Alyssa Rosenzweig
+ - [https://rosenzweig.io](https://rosenzweig.io)
+ - date published: 2023-10-25T20:05:44.214322+00:00
+ - user: None
+ - tags: []
+
+## Christopher Rybicki
+ - [https://rybicki.io](https://rybicki.io)
+ - date published: 2023-10-25T20:05:51.099630+00:00
+ - user: None
+ - tags: []
+
+## sabre/dav
+ - [https://sabre.io](https://sabre.io)
+ - date published: 2023-10-25T20:05:52.843755+00:00
+ - user: None
+ - tags: []
+
+## Safing Portmaster - Easy Privacy
+ - [https://safing.io](https://safing.io)
+ - date published: 2023-10-25T20:05:54.835953+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the Saito Wiki | Saito Wiki
+ - [https://wiki.saito.io](https://wiki.saito.io)
+ - date published: 2023-10-25T20:05:58.133187+00:00
+ - user: None
+ - tags: []
+
+## Salman Ansari - About
+ - [https://salman.io](https://salman.io)
+ - date published: 2023-10-25T09:26:25.133107+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sandstorm
+ - [https://sandstorm.io](https://sandstorm.io)
+ - date published: 2023-10-25T20:05:59.931389+00:00
+ - user: None
+ - tags: []
+
+## Scan for Magecart malware & Magento vulnerabilities in 5 minutes – Sansec
+ - [https://sansec.io](https://sansec.io)
+ - date published: 2023-10-25T20:06:03.123170+00:00
+ - user: None
+ - tags: []
+
+## Screenplays for Movies and TV Shows
+ - [https://screenplays.io](https://screenplays.io)
+ - date published: 2023-10-25T20:06:08.893945+00:00
+ - user: None
+ - tags: []
+
+## Smart Contract Security Field Guide
+ - [https://scsfg.io](https://scsfg.io)
+ - date published: 2023-10-25T20:06:11.926107+00:00
+ - user: None
+ - tags: []
+
+## Secure, lightweight, and fast WebAssembly runtime for cloud-native and edge-native apps
+ - [https://www.secondstate.io](https://www.secondstate.io)
+ - date published: 2023-11-13T04:39:36.616818+00:00
+ - user: None
+ - tags: []
+
+## QUIC Interop Runner
+ - [https://interop.seemann.io](https://interop.seemann.io)
+ - date published: 2023-10-25T20:06:19.706808+00:00
+ - user: None
+ - tags: []
+
+## Contact forms made easy
+     · Sendfly.io
+ - [https://sendfly.io](https://sendfly.io)
+ - date published: 2023-10-25T20:06:21.036329+00:00
+ - user: None
+ - tags: []
+
+## http://www.sensibledefaults.io
+ - [http://www.sensibledefaults.io](http://www.sensibledefaults.io)
+ - date published: 2023-10-25T20:06:22.368407+00:00
+ - user: None
+ - tags: []
+
+## Home | Product Blog • Sentry
+ - [https://blog.sentry.io](https://blog.sentry.io)
+ - date published: 2023-10-25T20:06:25.081412+00:00
+ - user: None
+ - tags: []
+
+## The Sequin Blog
+ - [https://blog.sequin.io](https://blog.sequin.io)
+ - date published: 2023-10-25T20:06:27.186581+00:00
+ - user: None
+ - tags: []
+
+## Serokell Software Development Company
+ - [https://serokell.io](https://serokell.io)
+ - date published: 2023-10-25T20:06:29.033933+00:00
+ - user: None
+ - tags: []
+
+## Setosa data visualization and visual explanations
+ - [https://setosa.io](https://setosa.io)
+ - date published: 2023-10-25T20:06:30.299929+00:00
+ - user: None
+ - tags: []
+
+## ShadowTraffic: Rapidly simulate production traffic to your backend
+ - [https://shadowtraffic.io](https://shadowtraffic.io)
+ - date published: 2023-11-14T18:00:23+00:00
+ - user: None
+ - tags: []
+
+## ShareDrop
+ - [https://www.sharedrop.io](https://www.sharedrop.io)
+ - date published: 2023-10-25T20:06:31.438348+00:00
+ - user: None
+ - tags: []
+
+## Shift Moonwalkers | The World's Fastest Shoes
+ – Shift Robotics
+ - [https://shiftrobotics.io](https://shiftrobotics.io)
+ - date published: 2023-10-25T20:06:34.026329+00:00
+ - user: None
+ - tags: []
+
+## Painless NixOS server management - Shipnix
+ - [https://shipnix.io](https://shipnix.io)
+ - date published: 2023-10-25T20:06:35.314253+00:00
+ - user: None
+ - tags: []
+
+## Shrinkflation Index
+ - [https://www.shrinkflation.io](https://www.shrinkflation.io)
+ - date published: 2023-10-25T20:06:36.659360+00:00
+ - user: None
+ - tags: []
+
+## Open-Source Observability | SigNoz
+ - [https://signoz.io](https://signoz.io)
+ - date published: 2023-10-25T20:06:38.921907+00:00
+ - user: None
+ - tags: []
+
+## flurries of latent creativity
+ - [https://blog.singleton.io](https://blog.singleton.io)
+ - date published: 2023-10-25T20:07:00.018068+00:00
+ - user: None
+ - tags: []
+
+## Introduction | Skytable
+ - [https://docs.skytable.io](https://docs.skytable.io)
+ - date published: 2023-12-10T17:32:52.132297+00:00
+ - user: None
+ - tags: []
+
+## Skytable: A database to build powerful real-time experiences
+ - [https://skytable.io](https://skytable.io)
+ - date published: 2023-12-10T17:32:48.789069+00:00
+ - user: None
+ - tags: []
+
+## Sledgeworx Software – Software, Projects, Consulting
+ - [https://www.sledgeworx.io](https://www.sledgeworx.io)
+ - date published: 2023-10-25T20:07:08.120522+00:00
+ - user: None
+ - tags: []
+
+## Slidebook | Investor presentations and pitch decks
+ - [https://www.slidebook.io](https://www.slidebook.io)
+ - date published: 2023-10-25T20:07:10.512304+00:00
+ - user: None
+ - tags: []
+
+## s l o w  r o a d s
+ - [https://slowroads.io](https://slowroads.io)
+ - date published: 2023-10-25T20:07:10.898082+00:00
+ - user: None
+ - tags: []
+
+## Play Snake Online | Snake.io
+ - [https://snake.io](https://snake.io)
+ - date published: 2023-10-26T18:24:53.730685+00:00
+ - user: None
+ - tags: ['games']
+
+## snapcraft.io
+ - [https://forum.snapcraft.io](https://forum.snapcraft.io)
+ - date published: 2023-10-25T20:07:13.368379+00:00
+ - user: None
+ - tags: []
+
+## Snapcraft - Snaps are universal Linux packages
+ - [https://snapcraft.io](https://snapcraft.io)
+ - date published: 2023-10-25T20:07:15.468194+00:00
+ - user: None
+ - tags: []
+
+## index - Untested
+ - [https://untested.sonnet.io](https://untested.sonnet.io)
+ - date published: 2023-10-25T20:07:16.670754+00:00
+ - user: None
+ - tags: []
+
+## AI Music Generator - SOUNDRAW
+ - [https://soundraw.io](https://soundraw.io)
+ - date published: 2023-10-25T20:07:17.670453+00:00
+ - user: None
+ - tags: []
+
+## Asymptote
+ - [https://asymptote.sourceforge.io](https://asymptote.sourceforge.io)
+ - date published: 2023-10-25T20:07:18.216556+00:00
+ - user: None
+ - tags: []
+
+## Ditto clipboard manager
+ - [https://ditto-cp.sourceforge.io](https://ditto-cp.sourceforge.io)
+ - date published: 2023-11-02T08:30:30.045007+00:00
+ - user: None
+ - tags: ['open source', 'program']
+
+## EmuTOS - Free operating system for Atari ST, and more.
+ - [https://emutos.sourceforge.io](https://emutos.sourceforge.io)
+ - date published: 2023-10-25T20:07:19.031791+00:00
+ - user: None
+ - tags: ['operating system', 'open source']
+
+## Maxima, a Computer Algebra System
+ - [https://maxima.sourceforge.io](https://maxima.sourceforge.io)
+ - date published: 2023-10-25T20:07:19.918161+00:00
+ - user: None
+ - tags: []
+
 ## SŌZU - HTTP Reverse Proxy in Rust for Immutable Infrastructures
  - [https://www.sozu.io](https://www.sozu.io)
  - date published: 2023-10-25T20:07:20.588505+00:00
@@ -1624,7 +1914,13 @@ End-to-end typesafe APIs made easy. | tRPC
  - [https://home.omg.lol](https://home.omg.lol)
  - date published: 2023-10-25T20:19:09.924678+00:00
  - user: None
- - tags: []
+ - tags: ['personal', 'social platform']
+
+## omg.lol - A lovable web page and email address, just for you
+ - [https://omg.lol](https://omg.lol)
+ - date published: 2023-12-10T21:53:01+00:00
+ - user: rumpel
+ - tags: ['personal', 'social platform']
 
 ## Tushar's Blog
  - [https://tushar.lol](https://tushar.lol)
@@ -2419,6 +2715,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
+## Robb Knight
+ - [https://rknight.me](https://rknight.me)
+ - date published: 2023-12-10T23:33:02.712924+00:00
+ - user: None
+ - tags: []
+
 ## https://roastmyresu.me
  - [https://roastmyresu.me](https://roastmyresu.me)
  - date published: 2023-10-25T20:20:52.494687+00:00
@@ -3193,6 +3495,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: ['personal']
 
+## Aerolith
+ - [https://aerolith.net](https://aerolith.net)
+ - date published: 2023-12-10T11:34:38.477841+00:00
+ - user: None
+ - tags: ['personal']
+
 ## aicracy – governed by algorithms, finally.
  - [https://www.aicracy.net](https://www.aicracy.net)
  - date published: 2023-10-25T20:24:04.381842+00:00
@@ -3424,6 +3732,12 @@ End-to-end typesafe APIs made easy. | tRPC
 ## A Viagem dos Argonautas - Um blog de Política e Sociedade
  - [https://aviagemdosargonautas.net](https://aviagemdosargonautas.net)
  - date published: 2023-11-11T17:59:39.473682+00:00
+ - user: None
+ - tags: []
+
+## https://msopenspecs.azureedge.net
+ - [https://msopenspecs.azureedge.net](https://msopenspecs.azureedge.net)
+ - date published: 2023-12-10T07:32:41.099089+00:00
  - user: None
  - tags: []
 
@@ -3730,6 +4044,12 @@ End-to-end typesafe APIs made easy. | tRPC
 ## Homepage | Cerebras
  - [https://www.cerebras.net](https://www.cerebras.net)
  - date published: 2023-10-25T20:27:33.645111+00:00
+ - user: None
+ - tags: []
+
+## The cfarm compile farm project
+ - [https://portal.cfarm.net](https://portal.cfarm.net)
+ - date published: 2023-12-10T19:31:41+00:00
  - user: None
  - tags: []
 
@@ -4378,6 +4698,12 @@ End-to-end typesafe APIs made easy. | tRPC
 ## foonathan::​blog()
  - [https://www.foonathan.net](https://www.foonathan.net)
  - date published: 2023-10-25T20:30:14.679352+00:00
+ - user: None
+ - tags: []
+
+## Forces Network
+ - [https://www.forces.net](https://www.forces.net)
+ - date published: 2023-12-10T17:05:03.656365+00:00
  - user: None
  - tags: []
 
@@ -5669,331 +5995,6 @@ End-to-end typesafe APIs made easy. | tRPC
 ## notgull – The world's \#1 source of notgull
  - [https://notgull.net](https://notgull.net)
  - date published: 2023-10-25T20:34:52.578516+00:00
- - user: None
- - tags: []
-
-## Noulakaz
- - [https://www.noulakaz.net](https://www.noulakaz.net)
- - date published: 2023-10-25T20:35:03.513894+00:00
- - user: None
- - tags: []
-
-## Nuitka the Python Compiler — Nuitka the Python Compiler  documentation
- - [https://nuitka.net](https://nuitka.net)
- - date published: 2023-10-25T20:35:04.312513+00:00
- - user: None
- - tags: []
-
-## nuxx.net – Making, baking, and (un-)breaking things in Southeast Michigan.
- - [https://nuxx.net](https://nuxx.net)
- - date published: 2023-10-25T20:35:07.367064+00:00
- - user: None
- - tags: []
-
-## Obsidian
-				 | Home
- - [https://www.obsidian.net](https://www.obsidian.net)
- - date published: 2023-11-01T09:06:55.954899+00:00
- - user: None
- - tags: ['game studio', 'company', 'fallout']
-
-## Ohio Marijuana Network - Cannabis News and Product Reviews
- - [https://ohmj.net](https://ohmj.net)
- - date published: 2023-11-08T12:30:51.325972+00:00
- - user: None
- - tags: []
-
-## Ole Begemann
- - [https://oleb.net](https://oleb.net)
- - date published: 2023-10-25T08:53:21.577420+00:00
- - user: None
- - tags: ['personal']
-
-## OnlineBusinessConsulting - Software, tools, digital & growth marketing guides, services & more
- - [https://www.onlinebusinessconsultants.net](https://www.onlinebusinessconsultants.net)
- - date published: 2023-12-07T17:36:58.221781+00:00
- - user: None
- - tags: ['personal']
-
-## onsclom
- - [https://www.onsclom.net](https://www.onsclom.net)
- - date published: 2023-10-25T20:35:08.097013+00:00
- - user: None
- - tags: []
-
-## Home | openDemocracy
- - [https://www.opendemocracy.net](https://www.opendemocracy.net)
- - date published: 2023-10-25T20:35:11.540676+00:00
- - user: None
- - tags: []
-
-## OpenHV Links
- - [https://www.openhv.net](https://www.openhv.net)
- - date published: 2023-10-25T20:35:12.078633+00:00
- - user: None
- - tags: []
-
-## Karl Seguin
- - [https://www.openmymind.net](https://www.openmymind.net)
- - date published: 2023-10-25T20:35:14.199065+00:00
- - user: None
- - tags: []
-
-## OpenRA - Classic strategy games rebuilt for the modern era
- - [https://www.openra.net](https://www.openra.net)
- - date published: 2023-10-25T20:35:15.188173+00:00
- - user: None
- - tags: ['open source']
-
-## Venues | OpenReview
- - [https://openreview.net](https://openreview.net)
- - date published: 2023-10-25T20:35:16.564643+00:00
- - user: None
- - tags: []
-
-## Home - OpenSource.net
- - [https://opensource.net](https://opensource.net)
- - date published: 2023-11-19T06:48:48.853037+00:00
- - user: None
- - tags: ['open source', 'tech news']
-
-## The Opt Out Project
- - [https://www.optoutproject.net](https://www.optoutproject.net)
- - date published: 2023-10-25T20:35:18.928134+00:00
- - user: None
- - tags: []
-
-## Orchard & Vine Magazine - Serving the Fruit and Wine Industry for Over 60 Years - orchardandvine.net
- - [https://www.orchardandvine.net](https://www.orchardandvine.net)
- - date published: 2023-10-25T20:35:21.150438+00:00
- - user: None
- - tags: []
-
-## About Me | orlp.net
- - [https://orlp.net](https://orlp.net)
- - date published: 2023-10-25T08:53:22.922551+00:00
- - user: None
- - tags: ['personal']
-
-## ornx's blog
- - [https://blog.ornx.net](https://blog.ornx.net)
- - date published: 2023-10-28T18:53:44.617752+00:00
- - user: None
- - tags: []
-
-## OS4Depot - Your one stop for AmigaOS4 files
- - [http://os4depot.net](http://os4depot.net)
- - date published: 2023-10-27T14:30:03.739230+00:00
- - user: None
- - tags: ['emulation', 'amiga', 'roms']
-
-## osa1 - index
- - [https://osa1.net](https://osa1.net)
- - date published: 2023-10-25T20:35:22.261530+00:00
- - user: None
- - tags: []
-
-## Open Tech
- - [https://blog.osm-ai.net](https://blog.osm-ai.net)
- - date published: 2023-11-25T23:50:43.074287+00:00
- - user: None
- - tags: []
-
-## OsmAnd | OsmAnd
- - [https://osmand.net](https://osmand.net)
- - date published: 2023-10-25T20:35:23.322374+00:00
- - user: None
- - tags: []
-
-## ∘.computer junk
- - [https://outerproduct.net](https://outerproduct.net)
- - date published: 2023-10-25T20:35:24.051922+00:00
- - user: None
- - tags: []
-
-## Gonçalo Valério – Thoughts, projects and some other stuff
- - [https://blog.ovalerio.net](https://blog.ovalerio.net)
- - date published: 2023-10-25T09:23:27.626857+00:00
- - user: None
- - tags: ['personal']
-
-## Yvette's [site archive from 08 APR 2010]
- - [https://yvettesbridalformal.p1r8.net](https://yvettesbridalformal.p1r8.net)
- - date published: 2023-10-25T20:35:25.928092+00:00
- - user: None
- - tags: []
-
-## Creek  |  Pagwe Cloud
- - [https://creek.pagwe.net](https://creek.pagwe.net)
- - date published: 2023-11-24T11:04:06.856004+00:00
- - user: None
- - tags: []
-
-## Pakistan Observer - Latest News, Pakistan News, and World News
- - [https://pakobserver.net](https://pakobserver.net)
- - date published: 2023-10-25T10:15:15.857044+00:00
- - user: None
- - tags: []
-
-## ParanoidPenguin.net
- - [https://blog.paranoidpenguin.net](https://blog.paranoidpenguin.net)
- - date published: 2023-10-25T20:35:26.788487+00:00
- - user: None
- - tags: []
-
-## Platform Home • Particular Software
- - [https://particular.net](https://particular.net)
- - date published: 2023-10-25T20:35:27.856284+00:00
- - user: None
- - tags: []
-
-## Pasindu Ranasinghe
- - [https://pasindu.net](https://pasindu.net)
- - date published: 2023-12-07T17:38:43.325363+00:00
- - user: None
- - tags: ['personal']
-
-## pastly@home
- - [https://blog.pastly.net](https://blog.pastly.net)
- - date published: 2023-10-25T20:35:28.909525+00:00
- - user: None
- - tags: []
-
-## Rhoneisms – by Patrick Rhone
- - [https://www.patrickrhone.net](https://www.patrickrhone.net)
- - date published: 2023-11-29T17:13:15.425157+00:00
- - user: None
- - tags: ['personal']
-
-## Patrick Weaver
- - [https://www.patrickweaver.net](https://www.patrickweaver.net)
- - date published: 2023-10-25T08:53:33.269400+00:00
- - user: None
- - tags: ['personal']
-
-## Paul Bourke - Personal Pages
- - [https://paulbourke.net](https://paulbourke.net)
- - date published: 2023-10-25T08:53:36.813252+00:00
- - user: None
- - tags: ['personal']
-
-## Paul Romer
- - [https://paulromer.net](https://paulromer.net)
- - date published: 2023-10-25T08:53:38.142626+00:00
- - user: None
- - tags: ['personal']
-
-## Home | PCSX2
- - [https://pcsx2.net](https://pcsx2.net)
- - date published: 2023-10-25T08:36:12.474221+00:00
- - user: None
- - tags: ['emulator']
-
-## Home EN
- - [https://astrophotography.pekdar.net](https://astrophotography.pekdar.net)
- - date published: 2023-11-02T09:49:06.169903+00:00
- - user: None
- - tags: []
-
-## Journal of Hymenoptera Research
- - [https://jhr.pensoft.net](https://jhr.pensoft.net)
- - date published: 2023-11-01T09:54:59.386853+00:00
- - user: None
- - tags: []
-
-## ZooKeys
- - [https://zookeys.pensoft.net](https://zookeys.pensoft.net)
- - date published: 2023-10-25T20:35:37.058956+00:00
- - user: None
- - tags: []
-
-## Peter Kraft
- - [https://petereliaskraft.net](https://petereliaskraft.net)
- - date published: 2023-10-25T08:53:42.795063+00:00
- - user: None
- - tags: ['personal']
-
-## Peter's DevLog
- - [https://peterme.net](https://peterme.net)
- - date published: 2023-10-25T09:00:50.585029+00:00
- - user: None
- - tags: ['personal']
-
-## phaazon.net
- - [https://phaazon.net](https://phaazon.net)
- - date published: 2023-10-25T20:35:37.939784+00:00
- - user: None
- - tags: []
-
-## William Entriken Blog — Analysis of all – William Entriken Blog
- - [https://blog.phor.net](https://blog.phor.net)
- - date published: 2023-10-25T20:35:39.185326+00:00
- - user: None
- - tags: []
-
-## PHP: Hypertext Preprocessor
- - [https://www.php.net](https://www.php.net)
- - date published: 2023-10-25T20:35:45.942703+00:00
- - user: None
- - tags: ['php']
-
-## Pi-hole – Network-wide Ad Blocking
- - [https://pi-hole.net](https://pi-hole.net)
- - date published: 2023-11-22T06:47:14+00:00
- - user: rumpel
- - tags: ['ad block', 'pi-hole', 'pi hole', 'raspberry']
-
-## Home · Pioneer
- - [https://pioneerspacesim.net](https://pioneerspacesim.net)
- - date published: 2023-10-25T20:35:46.801901+00:00
- - user: None
- - tags: []
-
-## ptj Frontpage | Pipeline Technology Journal
- - [https://www.pipeline-journal.net](https://www.pipeline-journal.net)
- - date published: 2023-10-25T20:35:48.464081+00:00
- - user: None
- - tags: []
-
-## Online Artist Community [pixiv]
- - [https://www.pixiv.net](https://www.pixiv.net)
- - date published: 2023-10-31T21:59:15.522668+00:00
- - user: None
- - tags: []
-
-## Planet Emulation - Les jeux video ont aussi leur histoire !
- - [https://www.planetemu.net](https://www.planetemu.net)
- - date published: 2023-10-25T11:18:03.599446+00:00
- - user: None
- - tags: []
-
-## Planetjones.net > personal site of Jonathan Jones
- - [https://www.planetjones.net](https://www.planetjones.net)
- - date published: 2023-10-25T20:35:49.511030+00:00
- - user: None
- - tags: []
-
-## Ploum.net
- - [https://ploum.net](https://ploum.net)
- - date published: 2023-10-25T20:35:50.502948+00:00
- - user: None
- - tags: []
-
-## ChinWag
- - [https://chinwag.pluralistic.net](https://chinwag.pluralistic.net)
- - date published: 2023-11-28T07:37:24+00:00
- - user: rumpel
- - tags: ['internet forum', 'cory doctorow']
-
-## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
- - [https://pluralistic.net](https://pluralistic.net)
- - date published: 2023-10-25T08:57:45.517375+00:00
- - user: None
- - tags: ['blog', 'personal']
-
-## Poc Network // Tech - Today's Tech News and Reviews
- - [https://www.pocnetwork.net](https://www.pocnetwork.net)
- - date published: 2023-10-25T20:35:56.007534+00:00
  - user: None
  - tags: []
 
