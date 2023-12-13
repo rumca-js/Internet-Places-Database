@@ -1,303 +1,3 @@
-## Grabby Aliens – a simple model by Robin Hanson
- - [https://grabbyaliens.com](https://grabbyaliens.com)
- - date published: 2023-10-25T14:50:18.350755+00:00
- - user: None
- - tags: []
-
-## GrabCAD Making Additive Manufacturing at Scale Possible
- - [https://grabcad.com](https://grabcad.com)
- - date published: 2023-10-27T10:30:12.476095+00:00
- - user: None
- - tags: []
-
-## Home | grack
- - [https://grack.com](https://grack.com)
- - date published: 2023-10-25T14:50:19.361863+00:00
- - user: None
- - tags: []
-
-## Gradient Defense - Home
- - [https://gradientdefense.com](https://gradientdefense.com)
- - date published: 2023-10-25T14:50:20.179357+00:00
- - user: None
- - tags: []
-
-## Home - Gradient Flow
- - [https://gradientflow.com](https://gradientflow.com)
- - date published: 2023-10-25T14:50:23.145758+00:00
- - user: None
- - tags: []
-
-## Grafana: The open observability platform | Grafana Labs
- - [https://grafana.com](https://grafana.com)
- - date published: 2023-10-25T14:50:27.579455+00:00
- - user: None
- - tags: []
-
-## Grafbase: The API platform for developers
- - [https://grafbase.com](https://grafbase.com)
- - date published: 2023-10-25T14:50:28.919677+00:00
- - user: None
- - tags: []
-
-## GRAFICA Obscura
- - [https://www.graficaobscura.com](https://www.graficaobscura.com)
- - date published: 2023-10-25T14:50:30.561612+00:00
- - user: None
- - tags: []
-
-## Graham Helton
- - [https://grahamhelton.com](https://grahamhelton.com)
- - date published: 2023-10-25T08:45:53.148242+00:00
- - user: None
- - tags: ['personal']
-
-## Grainger Industrial Supply - MRO Products, Equipment and Tools
- - [https://www.grainger.com](https://www.grainger.com)
- - date published: 2023-10-25T14:50:33.581023+00:00
- - user: None
- - tags: []
-
-## Grammarly API: Get the Grammarly Text Editor SDK
- - [https://developer.grammarly.com](https://developer.grammarly.com)
- - date published: 2023-10-25T14:50:34.615002+00:00
- - user: None
- - tags: []
-
-## Service Status | Grammarly Status
- - [https://status.grammarly.com](https://status.grammarly.com)
- - date published: 2023-11-02T17:04:05.272966+00:00
- - user: None
- - tags: []
-
-## Grammarly: Free Writing AI Assistance
- - [https://www.grammarly.com](https://www.grammarly.com)
- - date published: 2023-10-25T14:50:42.290250+00:00
- - user: None
- - tags: []
-
-## Kropf Moseley | Law Firm
- - [https://grandjurytarget.com](https://grandjurytarget.com)
- - date published: 2023-10-25T14:50:45.785719+00:00
- - user: None
- - tags: []
-
-## Home - Grant Isom
- - [https://grantisom.com](https://grantisom.com)
- - date published: 2023-10-25T14:50:47.809476+00:00
- - user: None
- - tags: []
-
-## » Sports and Pop Culture from our rotating cast of writers – Grantland
- - [https://grantland.com](https://grantland.com)
- - date published: 2023-10-25T14:50:49.173618+00:00
- - user: None
- - tags: []
-
-## Grant Winney
- - [https://grantwinney.com](https://grantwinney.com)
- - date published: 2023-10-25T14:50:52.983706+00:00
- - user: None
- - tags: []
-
-## GraphHopper Directions API with Route Optimization
- - [https://www.graphhopper.com](https://www.graphhopper.com)
- - date published: 2023-10-25T14:50:56.515486+00:00
- - user: None
- - tags: []
-
-## Gravatar - Globally Recognized Avatars
- - [https://secure.gravatar.com](https://secure.gravatar.com)
- - date published: 2023-12-11T16:36:49.030626+00:00
- - user: None
- - tags: []
-
-## Gravitics
- - [https://www.gravitics.com](https://www.gravitics.com)
- - date published: 2023-10-25T14:50:58.061459+00:00
- - user: None
- - tags: []
-
-## Gravity Moth
- - [https://gravitymoth.com](https://gravitymoth.com)
- - date published: 2023-10-25T14:50:58.682442+00:00
- - user: None
- - tags: []
-
-## Graybeard Games
- - [https://www.graybeardgames.com](https://www.graybeardgames.com)
- - date published: 2023-10-25T14:51:00.992546+00:00
- - user: None
- - tags: []
-
-## Great Books Homeschool |     A great books-based homeschool curriculum
- - [https://www.greatbookshomeschool.com](https://www.greatbookshomeschool.com)
- - date published: 2023-10-25T14:51:02.584408+00:00
- - user: None
- - tags: []
-
-## https://greatercommons.com
- - [https://greatercommons.com](https://greatercommons.com)
- - date published: 2023-12-11T16:20:24.688282+00:00
- - user: None
- - tags: []
-
-## https://www.greatercommons.com
- - [https://www.greatercommons.com](https://www.greatercommons.com)
- - date published: 2023-12-11T16:20:30.772094+00:00
- - user: None
- - tags: []
-
-## Great Wave Today
- - [https://greatwavetoday.com](https://greatwavetoday.com)
- - date published: 2023-10-25T14:51:03.202390+00:00
- - user: None
- - tags: []
-
-## Greek City Times – Greek City Times
- - [https://greekcitytimes.com](https://greekcitytimes.com)
- - date published: 2023-10-25T14:51:15.710367+00:00
- - user: None
- - tags: []
-
-## Greek News
- - [https://greekreporter.com](https://greekreporter.com)
- - date published: 2023-11-06T12:33:30.670300+00:00
- - user: None
- - tags: []
-
-## GreenBiz
- - [https://www.greenbiz.com](https://www.greenbiz.com)
- - date published: 2023-10-25T14:51:20.979404+00:00
- - user: None
- - tags: []
-
-## Green Building Law Update | Stuart D. Kaplow, P.A.
- - [https://www.greenbuildinglawupdate.com](https://www.greenbuildinglawupdate.com)
- - date published: 2023-10-25T14:51:27.779183+00:00
- - user: None
- - tags: []
-
-## https://www.greencarcongress.com
- - [https://www.greencarcongress.com](https://www.greencarcongress.com)
- - date published: 2023-10-25T14:51:34.435307+00:00
- - user: None
- - tags: []
-
-## Green Jihad – Your source that tells the truth about the environmentalist movement's holy war against mankind
- - [https://greenjihad.com](https://greenjihad.com)
- - date published: 2023-10-25T14:51:36.960006+00:00
- - user: None
- - tags: []
-
-## Philip Greenspun's home page
- - [https://philip.greenspun.com](https://philip.greenspun.com)
- - date published: 2023-11-19T01:48:48.082052+00:00
- - user: None
- - tags: []
-
-## Homepage - gregalder.com
- - [https://gregalder.com](https://gregalder.com)
- - date published: 2023-10-25T14:51:38.211893+00:00
- - user: None
- - tags: []
-
-## Greg Brockman on Svbtle
- - [https://blog.gregbrockman.com](https://blog.gregbrockman.com)
- - date published: 2023-11-19T21:34:17.374452+00:00
- - user: None
- - tags: []
-
-## Greg Dyche | Well Scripted Life
- - [https://gregdyche.com](https://gregdyche.com)
- - date published: 2023-12-11T10:57:59.393836+00:00
- - user: None
- - tags: ['personal']
-
-## games.greggman.com - page 1 - Games, Code, and Game Dev
- - [https://games.greggman.com](https://games.greggman.com)
- - date published: 2023-10-25T14:51:40.366917+00:00
- - user: None
- - tags: []
-
-## Greg Navis | Fractional CTO and Product Engineer
- - [https://www.gregnavis.com](https://www.gregnavis.com)
- - date published: 2023-10-25T14:51:42.147429+00:00
- - user: None
- - tags: []
-
-## Gregory Ciotti – Content Marketing
- - [https://www.gregoryciotti.com](https://www.gregoryciotti.com)
- - date published: 2023-10-25T14:51:43.454505+00:00
- - user: None
- - tags: []
-
-## Gregory Gundersen
- - [https://gregorygundersen.com](https://gregorygundersen.com)
- - date published: 2023-10-25T14:51:45.550672+00:00
- - user: None
- - tags: []
-
-## GreyB - World's Leading Innovation Consulting Firm
- - [https://www.greyb.com](https://www.greyb.com)
- - date published: 2023-10-30T07:13:15.458579+00:00
- - user: None
- - tags: []
-
-## Posts | Serhii Potapov (greyblake)
- - [https://www.greyblake.com](https://www.greyblake.com)
- - date published: 2023-10-25T14:51:46.904848+00:00
- - user: None
- - tags: []
-
-## Grey Enlightenment – let's try this again
- - [https://greyenlightenment.com](https://greyenlightenment.com)
- - date published: 2023-10-25T14:51:54.361848+00:00
- - user: None
- - tags: []
-
-## Grimdark Magazine
- - [https://www.grimdarkmagazine.com](https://www.grimdarkmagazine.com)
- - date published: 2023-10-27T07:47:07.098985+00:00
- - user: None
- - tags: ['tabletop games', 'warhammer', 'fantasy']
-
-## https://grizzlyreports.com
- - [https://grizzlyreports.com](https://grizzlyreports.com)
- - date published: 2023-10-25T14:51:55.634896+00:00
- - user: None
- - tags: []
-
-## GROUNDHOG-DAY.com — The leading Groundhog Day data source
- - [https://groundhog-day.com](https://groundhog-day.com)
- - date published: 2023-10-25T14:51:56.587714+00:00
- - user: None
- - tags: []
-
-## Grow by Ginkgo | A Magazine About Synthetic Biology
- - [https://www.growbyginkgo.com](https://www.growbyginkgo.com)
- - date published: 2023-10-25T14:51:59.808774+00:00
- - user: None
- - tags: []
-
-## Vegetable Garden Planner | Garden Planning Apps | GrowVeg.com
- - [https://www.growveg.com](https://www.growveg.com)
- - date published: 2023-10-25T14:52:02.997858+00:00
- - user: None
- - tags: []
-
-## GruCloud | GruCloud
- - [https://www.grucloud.com](https://www.grucloud.com)
- - date published: 2023-10-25T14:52:03.814878+00:00
- - user: None
- - tags: []
-
-## Grug Notes | A tool for text: simple, fast, self-organizing notes.
- - [https://grugnotes.com](https://grugnotes.com)
- - date published: 2023-10-25T14:52:09.718990+00:00
- - user: None
- - tags: []
-
 ## Grumpy Gamer
  - [https://www.grumpygamer.com](https://www.grumpygamer.com)
  - date published: 2023-10-25T14:52:10.872094+00:00
@@ -406,12 +106,6 @@
  - user: None
  - tags: []
 
-## http://www.guidepointsecurity.com
- - [http://www.guidepointsecurity.com](http://www.guidepointsecurity.com)
- - date published: 2023-10-25T14:52:50.514040+00:00
- - user: None
- - tags: []
-
 ## Guillermo Latorre | Web personal
  - [https://guillermolatorre.com](https://guillermolatorre.com)
  - date published: 2023-11-29T13:54:54.576178+00:00
@@ -478,12 +172,6 @@
  - user: None
  - tags: []
 
-## http://guthib.com
- - [http://guthib.com](http://guthib.com)
- - date published: 2023-10-25T14:53:05.458869+00:00
- - user: None
- - tags: []
-
 ## Home - Guyana Times
  - [https://guyanatimesgy.com](https://guyanatimesgy.com)
  - date published: 2023-12-01T10:45:26.947763+00:00
@@ -513,6 +201,12 @@
  - date published: 2023-10-25T14:53:20.309862+00:00
  - user: None
  - tags: []
+
+## Home - H3RALD
+ - [https://h3rald.com](https://h3rald.com)
+ - date published: 2023-12-12T08:09:22.645287+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Domain gesperrt
  - [http://www.haage-partner.com](http://www.haage-partner.com)
@@ -796,6 +490,12 @@
  - user: rumpel
  - tags: ['robotics']
 
+## Pascal for Small Machines
+ - [http://pascal.hansotten.com](http://pascal.hansotten.com)
+ - date published: 2023-12-11T18:24:09+00:00
+ - user: None
+ - tags: []
+
 ## Kevin Hanusin »
  - [http://hanusin.com](http://hanusin.com)
  - date published: 2023-12-03T23:30:33.723409+00:00
@@ -1011,6 +711,12 @@
  - date published: 2023-10-25T14:57:28.749132+00:00
  - user: None
  - tags: []
+
+## Healthy, Wealthy & Wise
+ - [https://healthywealthyandwiseuk.com](https://healthywealthyandwiseuk.com)
+ - date published: 2023-12-12T08:09:13.144219+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Heather Buchel
  - [https://heather-buchel.com](https://heather-buchel.com)
@@ -1258,12 +964,6 @@
  - user: None
  - tags: []
 
-## http://world.hey.com
- - [http://world.hey.com](http://world.hey.com)
- - date published: 2023-10-25T14:58:55.776264+00:00
- - user: None
- - tags: []
-
 ## Hey Alma
  - [https://www.heyalma.com](https://www.heyalma.com)
  - date published: 2023-11-20T10:23:27+00:00
@@ -1426,12 +1126,6 @@
  - user: None
  - tags: []
 
-## http://www.hnhiringtrends.com
- - [http://www.hnhiringtrends.com](http://www.hnhiringtrends.com)
- - date published: 2023-10-25T15:00:12.866949+00:00
- - user: None
- - tags: []
-
 ## HN Resume to Jobs
  - [https://hnresumetojobs.com](https://hnresumetojobs.com)
  - date published: 2023-10-25T15:00:14.742754+00:00
@@ -1477,12 +1171,6 @@
 ## Holloway — Books by experts on business, technology, creativity, and personal growth
  - [https://www.holloway.com](https://www.holloway.com)
  - date published: 2023-10-25T15:00:26.465939+00:00
- - user: None
- - tags: []
-
-## Hollywood - Multimedia Application Layer
- - [http://www.hollywood-mal.com](http://www.hollywood-mal.com)
- - date published: 2023-12-11T17:37:56.545060+00:00
  - user: None
  - tags: []
 
@@ -1952,7 +1640,7 @@
  - [https://www.hyperion-entertainment.com](https://www.hyperion-entertainment.com)
  - date published: 2023-10-25T15:15:58.440236+00:00
  - user: None
- - tags: ['amiga', 'news']
+ - tags: ['news', 'amiga', 'game studio']
 
 ## Hypertalking
  - [https://www.hypertalking.com](https://www.hypertalking.com)
@@ -2140,12 +1828,6 @@
  - user: None
  - tags: []
 
-## Application Security
- - [http://www.idontplaydarts.com](http://www.idontplaydarts.com)
- - date published: 2023-10-25T15:17:11.330836+00:00
- - user: None
- - tags: []
-
 ## I’d Rather Be Writing blog
  - [https://idratherbewriting.com](https://idratherbewriting.com)
  - date published: 2023-11-22T19:43:41.480996+00:00
@@ -2167,12 +1849,6 @@
 ## The Lighter Side of Science | IFLScience
  - [https://www.iflscience.com](https://www.iflscience.com)
  - date published: 2023-10-25T10:10:17.143653+00:00
- - user: None
- - tags: []
-
-## If This Be Treason | From the front lines of the culture wars...
- - [http://ifthisbetreason.com](http://ifthisbetreason.com)
- - date published: 2023-10-25T15:17:18.083420+00:00
  - user: None
  - tags: []
 
@@ -2253,6 +1929,12 @@
  - date published: 2023-10-25T15:17:31.655003+00:00
  - user: None
  - tags: []
+
+## SEO News, Tips, Strategies, and Editorials | iloveseo.com
+ - [https://iloveseo.com](https://iloveseo.com)
+ - date published: 2023-12-12T09:07:35+00:00
+ - user: rumpel
+ - tags: ['seo news']
 
 ## Maurizio ilpiac Piacenza – Brand designer a Milano
  - [https://www.ilpiac.com](https://www.ilpiac.com)
@@ -2848,12 +2530,6 @@
  - user: None
  - tags: []
 
-## IntuitionBase - Your Guide To AmigaOS4.x And The AmigaOne
- - [http://www.intuitionbase.com](http://www.intuitionbase.com)
- - date published: 2023-12-11T17:27:08.007827+00:00
- - user: None
- - tags: []
-
 ## Welcome to Intuitive Explanations
  - [https://intuitiveexplanations.com](https://intuitiveexplanations.com)
  - date published: 2023-10-25T15:22:28.404219+00:00
@@ -2980,6 +2656,12 @@
  - user: None
  - tags: []
 
+## Irish Examiner
+ - [https://www.irishexaminer.com](https://www.irishexaminer.com)
+ - date published: 2023-12-12T22:23:58.404831+00:00
+ - user: None
+ - tags: []
+
 ## Irish News
  - [https://www.irishnews.com](https://www.irishnews.com)
  - date published: 2023-10-25T10:43:13.661606+00:00
@@ -3094,12 +2776,6 @@
  - user: None
  - tags: ['israel news']
 
-## Israel Keys
- - [http://israelkeys.com](http://israelkeys.com)
- - date published: 2023-12-08T09:39:25.440152+00:00
- - user: None
- - tags: ['personal']
-
 ## https://www.israelnationalnews.com
  - [https://www.israelnationalnews.com](https://www.israelnationalnews.com)
  - date published: 2023-11-01T13:25:28.931937+00:00
@@ -3127,12 +2803,6 @@
 ## Isthmus: Free and online all the time - Isthmus | Madison, Wisconsin
  - [https://isthmus.com](https://isthmus.com)
  - date published: 2023-10-25T15:24:22.767105+00:00
- - user: None
- - tags: []
-
-## Obrazy stockowe, obrazy beztantiemowe, ilustracje, wektory i pliki wideo - iStock
- - [http://www.istockphoto.com](http://www.istockphoto.com)
- - date published: 2023-12-11T17:53:33.099936+00:00
  - user: None
  - tags: []
 
@@ -3235,12 +2905,6 @@
 ## iVentoy
  - [https://www.iventoy.com](https://www.iventoy.com)
  - date published: 2023-10-25T15:25:11.555461+00:00
- - user: None
- - tags: []
-
-## IWTS | Share your ideas, talk with like-minded and we will help them become reality
- - [http://www.iwantthisstartup.com](http://www.iwantthisstartup.com)
- - date published: 2023-10-25T11:34:55.486816+00:00
  - user: None
  - tags: []
 
@@ -3403,18 +3067,6 @@
 ## JAMA Network | Home of JAMA and the Specialty Journals of the American Medical Association
  - [https://jamanetwork.com](https://jamanetwork.com)
  - date published: 2023-10-25T10:37:31.521043+00:00
- - user: None
- - tags: []
-
-## Jamendo Music | Free music downloads
- - [http://www.jamendo.com](http://www.jamendo.com)
- - date published: 2023-12-11T17:54:53.648587+00:00
- - user: None
- - tags: []
-
-## james vaughan
- - [http://jamesbvaughan.com](http://jamesbvaughan.com)
- - date published: 2023-10-25T15:26:23.285607+00:00
  - user: None
  - tags: []
 
@@ -3598,6 +3250,12 @@
  - user: None
  - tags: ['personal']
 
+## Jason’s Big Adventure
+ - [https://jasonsbigadventure.com](https://jasonsbigadventure.com)
+ - date published: 2023-12-12T13:08:50.689435+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Jason Shen | Cultivating Resilience
  - [https://www.jasonshen.com](https://www.jasonshen.com)
  - date published: 2023-10-25T08:46:15.822607+00:00
@@ -3613,6 +3271,12 @@
 ## Jason Zweig | A safe haven for investors by Jason Zweig of The Wall Street Journal.
  - [https://jasonzweig.com](https://jasonzweig.com)
  - date published: 2023-10-25T15:27:17.416854+00:00
+ - user: None
+ - tags: []
+
+## https://lib.jasperplayer.com
+ - [https://lib.jasperplayer.com](https://lib.jasperplayer.com)
+ - date published: 2023-12-12T08:41:31.534121+00:00
  - user: None
  - tags: []
 
@@ -3679,12 +3343,6 @@
 ## https://jaysonjphillips.com
  - [https://jaysonjphillips.com](https://jaysonjphillips.com)
  - date published: 2023-11-29T14:25:46.630894+00:00
- - user: None
- - tags: ['personal']
-
-## Jesse's Website - Home Page
- - [http://www.jbcse.com](http://www.jbcse.com)
- - date published: 2023-10-25T08:46:23.944313+00:00
  - user: None
  - tags: ['personal']
 
@@ -3771,6 +3429,12 @@
  - date published: 2023-10-25T15:27:58.164772+00:00
  - user: None
  - tags: []
+
+## Jeff Ryan
+ - [https://jeffjryan.com](https://jeffjryan.com)
+ - date published: 2023-12-12T04:53:22.246788+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Home | Jeff Nobbs
  - [https://www.jeffnobbs.com](https://www.jeffnobbs.com)
@@ -3928,9 +3592,45 @@
  - user: None
  - tags: []
 
+## JetBrains Account
+ - [https://account.jetbrains.com](https://account.jetbrains.com)
+ - date published: 2023-12-12T09:09:43.184363+00:00
+ - user: None
+ - tags: []
+
 ## JetBrains Blog: The Drive to Develop
  - [https://blog.jetbrains.com](https://blog.jetbrains.com)
  - date published: 2023-10-25T08:37:43.300846+00:00
+ - user: None
+ - tags: []
+
+## Administration
+ - [https://hub.jetbrains.com](https://hub.jetbrains.com)
+ - date published: 2023-12-12T09:05:46+00:00
+ - user: rumpel
+ - tags: []
+
+## JetBrains: Essential tools for software developers and teams
+ - [https://lp.jetbrains.com](https://lp.jetbrains.com)
+ - date published: 2023-12-12T09:09:56.188947+00:00
+ - user: None
+ - tags: []
+
+## JetBrains Marketplace
+ - [https://plugins.jetbrains.com](https://plugins.jetbrains.com)
+ - date published: 2023-12-12T09:09:59.760112+00:00
+ - user: None
+ - tags: []
+
+## https://resources.jetbrains.com
+ - [https://resources.jetbrains.com](https://resources.jetbrains.com)
+ - date published: 2023-12-12T09:10:06.381602+00:00
+ - user: None
+ - tags: []
+
+## https://sales.jetbrains.com
+ - [https://sales.jetbrains.com](https://sales.jetbrains.com)
+ - date published: 2023-12-12T09:09:48.760487+00:00
  - user: None
  - tags: []
 
@@ -3938,7 +3638,13 @@
  - [https://www.jetbrains.com](https://www.jetbrains.com)
  - date published: 2023-10-25T11:28:02.006390+00:00
  - user: None
- - tags: ['ide']
+ - tags: ['ide', 'pycharm', 'intellij', 'clion', 'webstorm']
+
+## https://youtrack.jetbrains.com
+ - [https://youtrack.jetbrains.com](https://youtrack.jetbrains.com)
+ - date published: 2023-12-12T09:04:30+00:00
+ - user: rumpel
+ - tags: []
 
 ## JETNET | World Leader in Aviation Market Intelligence
  - [https://www.jetnet.com](https://www.jetnet.com)
@@ -4102,12 +3808,6 @@
  - user: None
  - tags: ['personal']
 
-## Platform Centric | Modern Architectures for Modern Development
- - [http://joelcrabb.com](http://joelcrabb.com)
- - date published: 2023-10-25T15:29:47.738303+00:00
- - user: None
- - tags: []
-
 ## Joel Dare
  - [https://joeldare.com](https://joeldare.com)
  - date published: 2023-10-25T15:29:49.328434+00:00
@@ -4237,12 +3937,6 @@
 ## Johnny Webber 🔥 – some thoughts, some links
  - [https://johnnywebber.com](https://johnnywebber.com)
  - date published: 2023-10-25T09:25:42.382699+00:00
- - user: None
- - tags: ['personal']
-
-## JohnPaul Baric
- - [http://johnpaulbaric.com](http://johnpaulbaric.com)
- - date published: 2023-11-29T16:20:53.978543+00:00
  - user: None
  - tags: ['personal']
 
@@ -4414,12 +4108,6 @@
  - user: None
  - tags: []
 
-## JOSH BICKNELL
- - [http://joshbicknell.com](http://joshbicknell.com)
- - date published: 2023-11-29T13:55:37.047515+00:00
- - user: None
- - tags: ['personal']
-
 ## Josh Collinsworth
  - [https://joshcollinsworth.com](https://joshcollinsworth.com)
  - date published: 2023-10-25T08:46:42.529511+00:00
@@ -4588,6 +4276,12 @@
  - user: None
  - tags: []
 
+## Bastian Halbach | jubari.com
+ - [https://www.jubari.com](https://www.jubari.com)
+ - date published: 2023-12-12T13:08:58.557951+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Climate Etc.
  - [https://judithcurry.com](https://judithcurry.com)
  - date published: 2023-10-25T15:32:43.494387+00:00
@@ -4711,12 +4405,6 @@
 ## Justin Garrison's Homepage -  Justin Garrison
  - [https://www.justingarrison.com](https://www.justingarrison.com)
  - date published: 2023-10-25T15:33:47.646022+00:00
- - user: None
- - tags: []
-
-## http://justinjaffray.com
- - [http://justinjaffray.com](http://justinjaffray.com)
- - date published: 2023-10-25T15:33:48.532829+00:00
  - user: None
  - tags: []
 
@@ -5068,12 +4756,6 @@
  - user: None
  - tags: []
 
-## Authentic Educator – Trusted Leader – Unconventional Scholar
- - [http://www.keithedwards.com](http://www.keithedwards.com)
- - date published: 2023-12-08T09:38:59.578693+00:00
- - user: None
- - tags: ['personal']
-
 ## Kellan Elliott-McCrea
  - [https://kellanem.com](https://kellanem.com)
  - date published: 2023-10-25T08:58:12.167205+00:00
@@ -5125,12 +4807,6 @@
 ## Access Denied
  - [https://www.kens5.com](https://www.kens5.com)
  - date published: 2023-12-09T00:59:09.524386+00:00
- - user: None
- - tags: []
-
-## http://kenschutte.com
- - [http://kenschutte.com](http://kenschutte.com)
- - date published: 2023-10-25T15:36:02.691694+00:00
  - user: None
  - tags: []
 
@@ -5193,12 +4869,6 @@
  - date published: 2023-10-25T15:36:30.394253+00:00
  - user: None
  - tags: []
-
-## Kevin Kauzlaric - How to Start, Measure, & Grow an Online Business
- - [http://kevinkauzlaric.com](http://kevinkauzlaric.com)
- - date published: 2023-11-29T15:31:55.369064+00:00
- - user: None
- - tags: ['personal']
 
 ## Kevin Lynagh
  - [https://kevinlynagh.com](https://kevinlynagh.com)
@@ -5640,6 +5310,12 @@
  - tags: []
 
 ## The Korea Herald
+ - [https://m.koreaherald.com](https://m.koreaherald.com)
+ - date published: 2023-12-12T01:42:44.023877+00:00
+ - user: None
+ - tags: []
+
+## The Korea Herald
  - [https://www.koreaherald.com](https://www.koreaherald.com)
  - date published: 2023-11-14T07:43:10.469895+00:00
  - user: None
@@ -5726,12 +5402,6 @@
 ## Welcome - Artem Krylysov
  - [https://artem.krylysov.com](https://artem.krylysov.com)
  - date published: 2023-10-25T15:39:25.889023+00:00
- - user: None
- - tags: []
-
-## Artemi Krymski
- - [http://krymski.com](http://krymski.com)
- - date published: 2023-10-25T15:39:26.426536+00:00
  - user: None
  - tags: []
 
@@ -5825,12 +5495,6 @@
  - user: None
  - tags: []
 
-## Kurtis Beavers | Creative Director of Product Design at Stack Overflow
- - [http://www.kurtisbeavers.com](http://www.kurtisbeavers.com)
- - date published: 2023-10-25T08:46:49.496983+00:00
- - user: None
- - tags: ['personal']
-
 ## Kurtis Knodel
  - [https://kurtisknodel.com](https://kurtisknodel.com)
  - date published: 2023-10-25T15:40:12.241280+00:00
@@ -5882,12 +5546,6 @@
 ## Get the Latest Ukraine News Today - KyivPost
  - [https://www.kyivpost.com](https://www.kyivpost.com)
  - date published: 2023-10-30T13:20:43.795967+00:00
- - user: None
- - tags: []
-
-## Kyle Halladay - Home Page
- - [http://kylehalladay.com](http://kylehalladay.com)
- - date published: 2023-10-25T15:40:17.831961+00:00
  - user: None
  - tags: []
 
@@ -5996,6 +5654,348 @@
 ## 🦜️🔗 Langchain
  - [https://python.langchain.com](https://python.langchain.com)
  - date published: 2023-10-25T15:40:59.811350+00:00
+ - user: None
+ - tags: []
+
+## LangoGuessr
+ - [https://langoguessr.com](https://langoguessr.com)
+ - date published: 2023-10-25T15:41:00.327608+00:00
+ - user: None
+ - tags: []
+
+## Language Learning with Netflix
+ - [https://languagelearningwithnetflix.com](https://languagelearningwithnetflix.com)
+ - date published: 2023-10-25T15:41:01.160963+00:00
+ - user: None
+ - tags: []
+
+## Language World Map
+ - [https://languageworldmap.com](https://languageworldmap.com)
+ - date published: 2023-10-25T08:24:47.023665+00:00
+ - user: None
+ - tags: []
+
+## Ian Langworth’s Things of Variable Interest
+ - [https://blog.langworth.com](https://blog.langworth.com)
+ - date published: 2023-10-25T15:41:01.991722+00:00
+ - user: None
+ - tags: []
+
+## Lantern
+ - [https://www.lanternbioworks.com](https://www.lanternbioworks.com)
+ - date published: 2023-10-25T15:41:08.376607+00:00
+ - user: None
+ - tags: []
+
+## Jeff Johnson
+ - [https://lapcatsoftware.com](https://lapcatsoftware.com)
+ - date published: 2023-10-25T15:41:09.925391+00:00
+ - user: None
+ - tags: []
+
+## La Prensa Latina Media
+ - [https://www.laprensalatina.com](https://www.laprensalatina.com)
+ - date published: 2023-12-08T18:09:19.349070+00:00
+ - user: None
+ - tags: []
+
+## Laravel News
+ - [https://laravel-news.com](https://laravel-news.com)
+ - date published: 2023-10-25T15:41:11.614231+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Larian Studios
+ - [https://larian.com](https://larian.com)
+ - date published: 2023-11-04T19:14:56.784693+00:00
+ - user: None
+ - tags: ['baldurs gate', 'game studio', 'dungeons and dragons']
+
+## Lariat Data
+ - [https://www.lariatdata.com](https://www.lariatdata.com)
+ - date published: 2023-10-25T15:41:19.402858+00:00
+ - user: None
+ - tags: []
+
+## Larry Jordan | Apple Final Cut Pro and Adobe Premiere Pro webinars, training and tutorials.
+ - [https://larryjordan.com](https://larryjordan.com)
+ - date published: 2023-10-25T15:41:23.332035+00:00
+ - user: None
+ - tags: []
+
+## Lasse Laursen – Lasse Laursen's project portfolio and development blog.
+ - [https://www.lasselaursen.com](https://www.lasselaursen.com)
+ - date published: 2023-10-25T15:41:32.904514+00:00
+ - user: None
+ - tags: []
+
+## Home - Last Movie Outpost
+ - [https://www.lastmovieoutpost.com](https://www.lastmovieoutpost.com)
+ - date published: 2023-10-25T15:41:42.257022+00:00
+ - user: None
+ - tags: []
+
+## The LastPass Blog - The Last Password You'll Ever Need
+ - [https://blog.lastpass.com](https://blog.lastpass.com)
+ - date published: 2023-10-25T15:41:49.291482+00:00
+ - user: None
+ - tags: []
+
+## laststandonzombieisland | Weapons, Wars, Preparation and Security from a recovering gun nut turned bad writer
+ - [https://laststandonzombieisland.com](https://laststandonzombieisland.com)
+ - date published: 2023-10-25T15:42:05.543829+00:00
+ - user: None
+ - tags: []
+
+## Last Week in AWS - AWS News Sprinkled With a Side of Snark
+ - [https://www.lastweekinaws.com](https://www.lastweekinaws.com)
+ - date published: 2023-10-25T15:42:09.402265+00:00
+ - user: None
+ - tags: []
+
+## The Last Word On Nothing | "Science says the first word on everything, and the last word on nothing"  - Victor Hugo
+ - [https://www.lastwordonnothing.com](https://www.lastwordonnothing.com)
+ - date published: 2023-10-25T15:42:16.452959+00:00
+ - user: None
+ - tags: []
+
+## News from California, the nation and world  - Los Angeles Times
+ - [https://www.latimes.com](https://www.latimes.com)
+ - date published: 2023-10-25T15:42:35.013271+00:00
+ - user: None
+ - tags: []
+
+## LattePanda - x86 Windows/Linux Single Board Computers
+ - [https://www.lattepanda.com](https://www.lattepanda.com)
+ - date published: 2023-10-25T09:07:42.768066+00:00
+ - user: None
+ - tags: []
+
+## People Management Platform | Performance and Engagement Software | Lattice
+ - [https://lattice.com](https://lattice.com)
+ - date published: 2023-10-25T15:42:39.571265+00:00
+ - user: None
+ - tags: []
+
+## Introduction - Launch Leopard
+ - [https://docs.launchleopard.com](https://docs.launchleopard.com)
+ - date published: 2023-11-14T15:18:54.247417+00:00
+ - user: None
+ - tags: []
+
+## Show HN: SvelteKit SaaS Boilerplate to help launch your product fast
+ - [https://launchleopard.com](https://launchleopard.com)
+ - date published: 2023-11-14T13:33:49+00:00
+ - user: None
+ - tags: []
+
+## https://www.laurelparkerbook.com/fr/
+ - [https://laurelparkerbook.com](https://laurelparkerbook.com)
+ - date published: 2023-12-11T16:18:48.011302+00:00
+ - user: None
+ - tags: []
+
+## Legal News & Analysis on Litigation, Policy, Deals : Law360
+ - [https://www.law360.com](https://www.law360.com)
+ - date published: 2023-10-25T15:42:48.876318+00:00
+ - user: None
+ - tags: []
+
+## Law & Crime - Law and Crime News
+ - [https://lawandcrime.com](https://lawandcrime.com)
+ - date published: 2023-10-27T18:51:39.072959+00:00
+ - user: None
+ - tags: []
+
+## Hard National Security Choices | Lawfare
+ - [https://www.lawfareblog.com](https://www.lawfareblog.com)
+ - date published: 2023-10-25T15:42:52.054796+00:00
+ - user: None
+ - tags: []
+
+## LawSites | by Robert Ambrogi | Websites, Technology & the Law
+ - [https://www.lawnext.com](https://www.lawnext.com)
+ - date published: 2023-10-25T15:43:01.762363+00:00
+ - user: None
+ - tags: []
+
+## Lawrence Hook
+ - [https://lawrencehook.com](https://lawrencehook.com)
+ - date published: 2023-10-25T15:43:05.416939+00:00
+ - user: None
+ - tags: []
+
+## Home | Laws of UX
+ - [https://lawsofux.com](https://lawsofux.com)
+ - date published: 2023-10-25T15:43:06.384994+00:00
+ - user: None
+ - tags: []
+
+## LayoffsTracker – Track all Tech & Startup layoffs globally
+ - [https://layoffstracker.com](https://layoffstracker.com)
+ - date published: 2023-10-25T15:43:16.547456+00:00
+ - user: None
+ - tags: []
+
+## Lazard | Lazard
+ - [https://www.lazard.com](https://www.lazard.com)
+ - date published: 2023-10-25T15:43:20.691281+00:00
+ - user: None
+ - tags: []
+
+## LBRY - Content Freedom
+ - [https://lbry.com](https://lbry.com)
+ - date published: 2023-10-25T11:44:31.083607+00:00
+ - user: None
+ - tags: ['video streaming']
+
+## LCPDFR.com
+ - [https://www.lcpdfr.com](https://www.lcpdfr.com)
+ - date published: 2023-10-25T11:16:47.019672+00:00
+ - user: None
+ - tags: []
+
+## Lost Boy – The blog of @ldodds
+ - [https://blog.ldodds.com](https://blog.ldodds.com)
+ - date published: 2023-10-25T15:43:24.686241+00:00
+ - user: None
+ - tags: []
+
+## Le blog Récifal – Aquarium d'eau de mer tropicale
+ - [https://le-blog-recifal.com](https://le-blog-recifal.com)
+ - date published: 2023-12-09T16:39:06.936796+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ideas on Software Engineering
+ - [https://john.leacox.com](https://john.leacox.com)
+ - date published: 2023-11-29T14:44:24.296491+00:00
+ - user: None
+ - tags: ['personal']
+
+## Lead Adventure Forum - Index
+ - [https://leadadventureforum.com](https://leadadventureforum.com)
+ - date published: 2023-11-01T18:38:25.808998+00:00
+ - user: None
+ - tags: ['tabletop games', 'miniatures']
+
+## The home of engineering leadership | LeadDev
+ - [https://leaddev.com](https://leaddev.com)
+ - date published: 2023-10-25T15:43:28.840460+00:00
+ - user: None
+ - tags: []
+
+## Leaded Solder | Old computer repair, history and programming.
+ - [https://www.leadedsolder.com](https://www.leadedsolder.com)
+ - date published: 2023-10-25T15:43:32.295992+00:00
+ - user: None
+ - tags: []
+
+## Leading in Product | Benedikt Kantus | Substack
+ - [https://www.leadinginproduct.com](https://www.leadinginproduct.com)
+ - date published: 2023-11-21T09:09:34.603189+00:00
+ - user: None
+ - tags: []
+
+## Leaflet — an open-source JavaScript library for interactive maps
+ - [https://leafletjs.com](https://leafletjs.com)
+ - date published: 2023-12-11T13:13:52+00:00
+ - user: rumpel
+ - tags: ['leaflet', 'open source', 'maps', 'open street maps']
+
+## LoL Champions & Summoners Stats & Rankings - LeagueOfGraphs
+ - [https://www.leagueofgraphs.com](https://www.leagueofgraphs.com)
+ - date published: 2023-11-12T07:39:06.736085+00:00
+ - user: None
+ - tags: []
+
+## https://www.leagueoflegends.com
+ - [https://www.leagueoflegends.com](https://www.leagueoflegends.com)
+ - date published: 2023-11-02T10:41:02.774533+00:00
+ - user: None
+ - tags: []
+
+## And now it’s all this
+ - [https://leancrew.com](https://leancrew.com)
+ - date published: 2023-10-25T08:58:14.214738+00:00
+ - user: None
+ - tags: ['personal']
+
+## Leandro Linares
+ - [https://leandrolinares.com](https://leandrolinares.com)
+ - date published: 2023-11-06T10:16:31.848185+00:00
+ - user: None
+ - tags: ['personal', 'blog']
+
+## JavaFiddle - Build and share Java code snippets in your browser
+ - [https://javafiddle.leaningtech.com](https://javafiddle.leaningtech.com)
+ - date published: 2023-10-25T15:43:39.439255+00:00
+ - user: None
+ - tags: []
+
+## We Are WebAssembly Experts | Leaning Technologies
+ - [https://leaningtech.com](https://leaningtech.com)
+ - date published: 2023-10-25T15:43:41.678164+00:00
+ - user: None
+ - tags: []
+
+## Leanne Hughes
+ - [https://www.leannehughes.com](https://www.leannehughes.com)
+ - date published: 2023-12-05T14:36:52.780515+00:00
+ - user: None
+ - tags: ['personal']
+
+## Leanpub: Publish Early, Publish Often
+ - [https://leanpub.com](https://leanpub.com)
+ - date published: 2023-12-11T19:00:55.011813+00:00
+ - user: None
+ - tags: []
+
+## LeapSecond Home Page
+ - [http://leapsecond.com](http://leapsecond.com)
+ - date published: 2023-10-25T15:43:48.984506+00:00
+ - user: None
+ - tags: []
+
+## LeapSecond Home Page
+ - [http://www.leapsecond.com](http://www.leapsecond.com)
+ - date published: 2023-10-25T15:43:50.814570+00:00
+ - user: None
+ - tags: []
+
+## Learn C++ – Skill up with our free tutorials
+ - [https://www.learncpp.com](https://www.learncpp.com)
+ - date published: 2023-10-25T15:43:56.323518+00:00
+ - user: None
+ - tags: []
+
+## Learn and Test DMARC
+ - [https://www.learndmarc.com](https://www.learndmarc.com)
+ - date published: 2023-10-25T15:43:57.010265+00:00
+ - user: None
+ - tags: []
+
+## AI-Powered AI News | Emergent Mind
+ - [https://www.learngpt.com](https://www.learngpt.com)
+ - date published: 2023-10-25T15:44:04.488107+00:00
+ - user: None
+ - tags: []
+
+## Hardcore Software by Steven Sinofsky | Substack
+ - [https://hardcoresoftware.learningbyshipping.com](https://hardcoresoftware.learningbyshipping.com)
+ - date published: 2023-10-25T15:44:07.575535+00:00
+ - user: None
+ - tags: []
+
+## Learn Code the Hard Way
+ - [https://learnjsthehardway.com](https://learnjsthehardway.com)
+ - date published: 2023-10-25T15:44:09.394971+00:00
+ - user: None
+ - tags: []
+
+## Learn TLA+ — Learn TLA+
+ - [https://learntla.com](https://learntla.com)
+ - date published: 2023-10-25T15:44:15.064986+00:00
  - user: None
  - tags: []
 

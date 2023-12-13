@@ -1,171 +1,3 @@
-## Discover Magazine
- - [https://www.discovermagazine.com](https://www.discovermagazine.com)
- - date published: 2023-10-25T10:10:08.015699+00:00
- - user: None
- - tags: []
-
-## Warner Bros Discovery Poland
- - [https://www.discovery.com](https://www.discovery.com)
- - date published: 2023-10-25T13:53:22.941587+00:00
- - user: None
- - tags: []
-
-## DiscreetFX
- - [http://www.discreetfx.com](http://www.discreetfx.com)
- - date published: 2023-12-11T18:33:12.919390+00:00
- - user: None
- - tags: []
-
-## CMS nexus
- - [https://discretesynthesizers.com](https://discretesynthesizers.com)
- - date published: 2023-10-25T13:53:24.175395+00:00
- - user: None
- - tags: []
-
-## Disk Prices (US)
- - [https://diskprices.com](https://diskprices.com)
- - date published: 2023-10-25T13:53:58.546141+00:00
- - user: None
- - tags: []
-
-## Disney.com | The official home for all things Disney
- - [https://www.disney.com](https://www.disney.com)
- - date published: 2023-10-25T11:27:54.662117+00:00
- - user: None
- - tags: ['company', 'movie studio']
-
-## Disney Dining Reviews, Menus, and Disney Dining Plan Information
- - [https://www.disneydining.com](https://www.disneydining.com)
- - date published: 2023-10-25T13:54:06.573270+00:00
- - user: None
- - tags: []
-
-## Stream Disney, Pixar, Marvel, Star Wars, Nat Geo | Disney+
- - [https://www.disneyplus.com](https://www.disneyplus.com)
- - date published: 2023-10-24T20:05:38.486246+00:00
- - user: None
- - tags: ['video streaming', 'gatekeeper', 'star wars']
-
-## Disney Research Studios | Disney Research
- - [https://studios.disneyresearch.com](https://studios.disneyresearch.com)
- - date published: 2023-10-25T13:54:22.250069+00:00
- - user: None
- - tags: []
-
-## The Columbus Dispatch: Local News, Politics & Sports in Columbus, OH
- - [https://www.dispatch.com](https://www.dispatch.com)
- - date published: 2023-10-25T13:54:28.047932+00:00
- - user: None
- - tags: []
-
-## Home - Dispatches Magazine
- - [https://dispatchesmag.com](https://dispatchesmag.com)
- - date published: 2023-10-25T13:54:30.988917+00:00
- - user: None
- - tags: []
-
-## Frog Guy Rants | Blog
- - [https://disrel.com](https://disrel.com)
- - date published: 2023-10-25T13:54:33.654007+00:00
- - user: None
- - tags: []
-
-## Disrupting Japan: Startups and Innovation in Japan - What you need to know about startups and innovation in Japan
- - [https://www.disruptingjapan.com](https://www.disruptingjapan.com)
- - date published: 2023-10-25T13:54:37.997071+00:00
- - user: None
- - tags: []
-
-## DistroWatch.com: Put the fun back into computing. Use Linux, BSD.
- - [https://distrowatch.com](https://distrowatch.com)
- - date published: 2023-10-25T13:54:49.738191+00:00
- - user: None
- - tags: ['linux', 'ranking']
-
-## Disturbed | Official Website
- - [https://www.disturbed1.com](https://www.disturbed1.com)
- - date published: 2023-11-13T09:43:51.930037+00:00
- - user: None
- - tags: ['music band']
-
-## DIYClassD is the DIY branch of Hypex Electronics BV for audiophile lovers.
- - [https://www.diyclassd.com](https://www.diyclassd.com)
- - date published: 2023-10-25T13:54:52.305532+00:00
- - user: None
- - tags: []
-
-## Home » DIY Usthad » Do It Yourself Projects & Tutorials
- - [https://diyusthad.com](https://diyusthad.com)
- - date published: 2023-10-28T20:14:14.711657+00:00
- - user: None
- - tags: ['arduino', 'raspberry', 'scb']
-
-## http://feeds.a.dj.com
- - [http://feeds.a.dj.com](http://feeds.a.dj.com)
- - date published: 2023-10-25T13:54:52.935962+00:00
- - user: None
- - tags: []
-
-## Django
- - [https://docs.djangoproject.com](https://docs.djangoproject.com)
- - date published: 2023-11-01T08:41:54.093761+00:00
- - user: None
- - tags: []
-
-## The web framework for perfectionists with deadlines | Django
- - [https://www.djangoproject.com](https://www.djangoproject.com)
- - date published: 2023-10-25T13:54:54.319657+00:00
- - user: None
- - tags: []
-
-## - Abandoned Uranium Workings -
- - [https://djcresswell.com](https://djcresswell.com)
- - date published: 2023-12-11T18:31:04.732364+00:00
- - user: None
- - tags: []
-
-## DJI Enterprise - Drone Solutions for Your Business - DJI
- - [https://enterprise.dji.com](https://enterprise.dji.com)
- - date published: 2023-10-25T13:54:58.289343+00:00
- - user: None
- - tags: []
-
-## DJI FORUM
- - [https://forum.dji.com](https://forum.dji.com)
- - date published: 2023-10-25T13:55:00.388000+00:00
- - user: None
- - tags: []
-
-## DJI - Official Website
- - [https://www.dji.com](https://www.dji.com)
- - date published: 2023-10-25T08:39:58.225999+00:00
- - user: None
- - tags: []
-
-## DJ Mag — living & breathing dance music
- - [https://djmag.com](https://djmag.com)
- - date published: 2023-10-25T10:17:22.278104+00:00
- - user: None
- - tags: []
-
-## http://djngo.com
- - [http://djngo.com](http://djngo.com)
- - date published: 2023-10-25T13:55:01.695166+00:00
- - user: None
- - tags: []
-
-## News [D. Kriesel]
- - [https://www.dkriesel.com](https://www.dkriesel.com)
- - date published: 2023-10-25T13:55:02.953546+00:00
- - user: None
- - tags: []
-
-## D Magazine: Best Restaurants, Things to Do, and Local Dallas News
- - [https://www.dmagazine.com](https://www.dmagazine.com)
- - date published: 2023-10-25T13:55:08.601899+00:00
- - user: None
- - tags: []
-
 ## about    [Dmitry Frank]
  - [https://dmitryfrank.com](https://dmitryfrank.com)
  - date published: 2023-10-25T13:55:11.237067+00:00
@@ -269,12 +101,6 @@
  - user: None
  - tags: []
 
-## http://www.dolthub.com
- - [http://www.dolthub.com](http://www.dolthub.com)
- - date published: 2023-10-25T13:56:07.116465+00:00
- - user: None
- - tags: []
-
 ## Domain Incite - Domain Name Industry News, Analysis & Opinion
  - [https://domainincite.com](https://domainincite.com)
  - date published: 2023-10-25T13:56:12.288701+00:00
@@ -302,12 +128,6 @@
 ## Don't Kill My App
  - [https://dontkillmyapp.com](https://dontkillmyapp.com)
  - date published: 2023-11-23T05:20:15+00:00
- - user: None
- - tags: []
-
-## http://doomedprojects.com
- - [http://doomedprojects.com](http://doomedprojects.com)
- - date published: 2023-10-25T13:56:23.197993+00:00
  - user: None
  - tags: []
 
@@ -415,19 +235,13 @@
 
 ## The Douglas Self Site
  - [http://www.douglas-self.com](http://www.douglas-self.com)
- - date published: 2023-12-06T09:36:40.921386+00:00
+ - date published: 2023-12-12T13:07:52.909466+00:00
  - user: None
  - tags: ['personal']
 
 ## Doug Seven – Something can be learned in the course of observing things
  - [https://dougseven.com](https://dougseven.com)
  - date published: 2023-10-25T13:57:37.103486+00:00
- - user: None
- - tags: []
-
-## http://www.douyin.com
- - [http://www.douyin.com](http://www.douyin.com)
- - date published: 2023-10-25T13:57:38.549477+00:00
  - user: None
  - tags: []
 
@@ -512,12 +326,6 @@
 ## Free flowchart, mind map, and checklist software—DrakonHub
  - [https://drakonhub.com](https://drakonhub.com)
  - date published: 2023-10-25T13:58:22.226558+00:00
- - user: None
- - tags: []
-
-## Welcome to dranger.com
- - [http://dranger.com](http://dranger.com)
- - date published: 2023-10-25T13:58:23.270811+00:00
  - user: None
  - tags: []
 
@@ -850,12 +658,6 @@
  - date published: 2023-10-31T10:25:32.543241+00:00
  - user: None
  - tags: ['dns']
-
-## Dynamic Drive DHTML(dynamic html) & JavaScript code library
- - [http://www.dynamicdrive.com](http://www.dynamicdrive.com)
- - date published: 2023-12-11T17:55:43.836040+00:00
- - user: None
- - tags: []
 
 ## dys2p
  - [https://dys2p.com](https://dys2p.com)
@@ -1253,12 +1055,6 @@
  - user: None
  - tags: []
 
-## http://electricenergyonline.com
- - [http://electricenergyonline.com](http://electricenergyonline.com)
- - date published: 2023-10-25T14:04:40.857826+00:00
- - user: None
- - tags: []
-
 ## Electricity Maps | Live 24/7 CO₂ emissions of electricity consumption
  - [https://app.electricitymaps.com](https://app.electricitymaps.com)
  - date published: 2023-10-25T14:04:41.764051+00:00
@@ -1324,12 +1120,6 @@
  - date published: 2023-10-25T14:02:53.937231+00:00
  - user: None
  - tags: ['music news']
-
-## The Most Popular WordPress Themes In The World
- - [http://www.elegantthemes.com](http://www.elegantthemes.com)
- - date published: 2023-12-11T17:29:04.398116+00:00
- - user: None
- - tags: []
 
 ## ELEGOO: Best Consumer Level 3D Printers, Materials and STEM Products
  - [https://www.elegoo.com](https://www.elegoo.com)
@@ -1418,12 +1208,6 @@
 ## ElonMan! The completely true story
  - [https://elonman.com](https://elonman.com)
  - date published: 2023-10-25T14:06:02.963642+00:00
- - user: None
- - tags: []
-
-## GameBase Amiga by Belgarath
- - [http://gbamiga.elowar.com](http://gbamiga.elowar.com)
- - date published: 2023-12-11T18:31:17.211350+00:00
  - user: None
  - tags: []
 
@@ -1691,12 +1475,6 @@
  - user: None
  - tags: ['personal']
 
-## http://enroncorp.com
- - [http://enroncorp.com](http://enroncorp.com)
- - date published: 2023-10-25T14:07:55.044933+00:00
- - user: None
- - tags: []
-
 ## Latest Startup l Technology News | Entrackr
  - [https://entrackr.com](https://entrackr.com)
  - date published: 2023-10-25T14:08:00.546259+00:00
@@ -1724,18 +1502,6 @@
 ## Epic Dev | Home - Epic Online Services
  - [https://dev.epicgames.com](https://dev.epicgames.com)
  - date published: 2023-10-25T11:32:30.381098+00:00
- - user: None
- - tags: []
-
-## http://store.epicgames.com
- - [http://store.epicgames.com](http://store.epicgames.com)
- - date published: 2023-10-24T20:11:39.475498+00:00
- - user: None
- - tags: ['game store', 'gatekeeper']
-
-## http://www.epicgames.com
- - [http://www.epicgames.com](http://www.epicgames.com)
- - date published: 2023-10-25T11:26:32.846848+00:00
  - user: None
  - tags: []
 
@@ -1859,6 +1625,12 @@
  - user: None
  - tags: []
 
+## https://www.erickarjaluoto.com
+ - [https://www.erickarjaluoto.com](https://www.erickarjaluoto.com)
+ - date published: 2023-12-12T09:16:42+00:00
+ - user: rumpel
+ - tags: ['personal']
+
 ## Fabulous adventures in coding | Eric Lippert's blog
  - [https://ericlippert.com](https://ericlippert.com)
  - date published: 2023-10-25T14:09:28.044867+00:00
@@ -1907,12 +1679,6 @@
  - user: None
  - tags: ['personal']
 
-## Erin Kissane's small internet website
- - [http://erinkissane.com](http://erinkissane.com)
- - date published: 2023-10-25T08:45:37.321547+00:00
- - user: None
- - tags: ['personal']
-
 ## Eriugena Review
  - [https://eriugenareview.com](https://eriugenareview.com)
  - date published: 2023-10-25T09:20:29.141471+00:00
@@ -1924,12 +1690,6 @@
  - date published: 2023-10-25T11:34:24.839326+00:00
  - user: None
  - tags: []
-
-## Escape Adulthood. Your life. Now with less stress and more fun.
- - [http://escapeadulthood.com](http://escapeadulthood.com)
- - date published: 2023-12-07T17:38:25.268988+00:00
- - user: None
- - tags: ['personal']
 
 ## The Escapist
  - [https://www.escapistmagazine.com](https://www.escapistmagazine.com)
@@ -2273,6 +2033,12 @@
  - user: None
  - tags: ['personal', 'blog']
 
+## ExactMetrics - Best Premium Google Analytics Plugin for WordPress
+ - [https://www.exactmetrics.com](https://www.exactmetrics.com)
+ - date published: 2023-12-12T09:07:24.969158+00:00
+ - user: None
+ - tags: ['analytics']
+
 ## exaequOS
  - [https://www.exaequos.com](https://www.exaequos.com)
  - date published: 2023-10-25T14:13:08.348610+00:00
@@ -2402,12 +2168,6 @@
 ## Home Front Page - EZINA
  - [https://ezina.com](https://ezina.com)
  - date published: 2023-11-29T15:48:33.290931+00:00
- - user: None
- - tags: ['personal']
-
-## ezyang’s blog
- - [http://blog.ezyang.com](http://blog.ezyang.com)
- - date published: 2023-10-25T08:45:44.877605+00:00
  - user: None
  - tags: ['personal']
 
@@ -2546,12 +2306,6 @@
 ## Fanbyte - FFXIV & Destiny 2 Guides, Tools, & More
  - [https://www.fanbyte.com](https://www.fanbyte.com)
  - date published: 2023-10-25T14:26:24.636690+00:00
- - user: None
- - tags: []
-
-## Fancy Parking
- - [http://www.fancyparking.com](http://www.fancyparking.com)
- - date published: 2023-10-25T14:26:26.001762+00:00
  - user: None
  - tags: []
 
@@ -2812,12 +2566,6 @@
  - date published: 2023-10-25T14:27:13.447438+00:00
  - user: None
  - tags: []
-
-## Welcome to Farnell Global | Global Electronic Component Distributor
- - [http://farnell.com](http://farnell.com)
- - date published: 2023-11-01T06:55:06.176630+00:00
- - user: None
- - tags: ['electronic parts']
 
 ## Farnell  - podzespoły elektroniczne
  - [https://pl.farnell.com](https://pl.farnell.com)
@@ -3257,6 +3005,12 @@
  - user: None
  - tags: []
 
+## KMOV | Missouri Local News, Weather, Sports | St. Louis, MO
+ - [https://www.firstalert4.com](https://www.firstalert4.com)
+ - date published: 2023-12-12T19:48:50.469222+00:00
+ - user: None
+ - tags: []
+
 ## LIVE updates, Latest News, Breaking News, World News, Sports News, Bollywood News, Business, Entertainment, Tech, Political News and more – Firstpost
  - [https://www.firstpost.com](https://www.firstpost.com)
  - date published: 2023-10-25T14:31:52.571721+00:00
@@ -3292,12 +3046,6 @@
  - date published: 2023-10-25T09:20:31.002593+00:00
  - user: None
  - tags: ['personal']
-
-## Five-Star Comics
- - [http://www.five-star.com](http://www.five-star.com)
- - date published: 2023-12-11T16:59:32.430358+00:00
- - user: None
- - tags: []
 
 ## Five Books - The Best Books Recommended by Experts
  - [https://fivebooks.com](https://fivebooks.com)
@@ -3359,6 +3107,12 @@
  - user: None
  - tags: []
 
+## HOME | flashgitz
+ - [https://www.flashgitz.com](https://www.flashgitz.com)
+ - date published: 2023-12-12T08:27:35+00:00
+ - user: rumpel
+ - tags: ['youtuber']
+
 ## FlatFootFox
  - [https://flatfootfox.com](https://flatfootfox.com)
  - date published: 2023-10-25T14:32:43.375704+00:00
@@ -3386,12 +3140,6 @@
 ## Flexbox Froggy - A game for learning CSS flexbox
  - [https://flexboxfroggy.com](https://flexboxfroggy.com)
  - date published: 2023-10-25T14:33:00.527972+00:00
- - user: None
- - tags: []
-
-## Flexbox Patterns
- - [http://www.flexboxpatterns.com](http://www.flexboxpatterns.com)
- - date published: 2023-12-11T16:21:42.352218+00:00
  - user: None
  - tags: []
 
@@ -3785,12 +3533,6 @@
  - user: None
  - tags: []
 
-## For the Badge
- - [http://forthebadge.com](http://forthebadge.com)
- - date published: 2023-10-25T14:36:02.087814+00:00
- - user: None
- - tags: []
-
 ## Global Leader of Cybersecurity Solutions and Services | Fortinet
  - [https://www.fortinet.com](https://www.fortinet.com)
  - date published: 2023-10-25T14:36:07.519364+00:00
@@ -4169,12 +3911,6 @@
  - user: None
  - tags: []
 
-## http://www.frobocode.com
- - [http://www.frobocode.com](http://www.frobocode.com)
- - date published: 2023-10-25T14:38:42.952747+00:00
- - user: None
- - tags: []
-
 ## frofftown
  - [https://frofftown.com](https://frofftown.com)
  - date published: 2023-11-29T17:11:42.139115+00:00
@@ -4198,6 +3934,12 @@
  - date published: 2023-10-25T14:39:00.390979+00:00
  - user: None
  - tags: []
+
+## Home - Frontera
+ - [https://fronterablog.com](https://fronterablog.com)
+ - date published: 2023-12-12T08:09:55.103176+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Frore Systems
  - [https://www.froresystems.com](https://www.froresystems.com)
@@ -4252,6 +3994,12 @@
  - date published: 2023-10-25T14:39:27.320966+00:00
  - user: None
  - tags: []
+
+## Full City Press - A webcolumn by Chris De Jabet
+ - [https://fullcitypress.com](https://fullcitypress.com)
+ - date published: 2023-12-12T23:23:06.776133+00:00
+ - user: None
+ - tags: ['personal']
 
 ## The Full Stack
  - [https://fullstackdeeplearning.com](https://fullstackdeeplearning.com)
@@ -4421,12 +4169,6 @@
  - user: None
  - tags: []
 
-## Gallup News | Nonpartisan Analysis of Critical Global Issues
- - [http://news.gallup.com](http://news.gallup.com)
- - date published: 2023-10-25T14:40:40.720551+00:00
- - user: None
- - tags: []
-
 ## Curious Musings
  - [http://curious.galthub.com](http://curious.galthub.com)
  - date published: 2023-10-25T14:40:44.538573+00:00
@@ -4450,12 +4192,6 @@
  - date published: 2023-11-15T17:51:04.934743+00:00
  - user: None
  - tags: ['games', 'game news']
-
-## Gamebryo
- - [http://www.gamebryo.com](http://www.gamebryo.com)
- - date published: 2023-11-13T11:56:49.492696+00:00
- - user: None
- - tags: ['fallout', 'bethesda', 'game engine']
 
 ## Game Developer
  - [https://www.gamedeveloper.com](https://www.gamedeveloper.com)
@@ -4538,12 +4274,6 @@
 ## GamesRadar+
  - [https://www.gamesradar.com](https://www.gamesradar.com)
  - date published: 2023-10-25T10:48:35.931056+00:00
- - user: None
- - tags: []
-
-## http://gamesrevisited.com
- - [http://gamesrevisited.com](http://gamesrevisited.com)
- - date published: 2023-12-11T16:30:35.450486+00:00
  - user: None
  - tags: []
 
@@ -4842,12 +4572,6 @@
  - user: None
  - tags: ['amiga', 'magazine']
 
-## Genesi
- - [http://www.genesi-usa.com](http://www.genesi-usa.com)
- - date published: 2023-12-11T19:09:56.984317+00:00
- - user: None
- - tags: []
-
 ## Genesis - The history of a rock band
  - [https://genesis-band.com](https://genesis-band.com)
  - date published: 2023-11-13T10:42:27.434524+00:00
@@ -5122,12 +4846,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Gil Gildner
  - [https://www.gilgildner.com](https://www.gilgildner.com)
  - date published: 2023-11-29T15:43:54.277512+00:00
- - user: None
- - tags: ['personal']
-
-## 雪猫ジル - Gilles Snowcat
- - [http://gilles-snowcat.com](http://gilles-snowcat.com)
- - date published: 2023-11-29T17:07:28.249030+00:00
  - user: None
  - tags: ['personal']
 
@@ -5479,12 +5197,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
-## God Hates Shrimp
- - [http://godhatesshrimp.com](http://godhatesshrimp.com)
- - date published: 2023-10-27T11:04:10.714945+00:00
- - user: None
- - tags: ['funny', 'wtf']
-
 ## GoFundMe: #1 Fundraising Platform for Crowdfunding
  - [https://www.gofundme.com](https://www.gofundme.com)
  - date published: 2023-10-25T11:34:08.378901+00:00
@@ -5622,12 +5334,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-25T08:25:55.109146+00:00
  - user: None
  - tags: ['cloud drive']
-
-## http://earth.google.com
- - [http://earth.google.com](http://earth.google.com)
- - date published: 2023-10-25T08:24:36.091165+00:00
- - user: None
- - tags: ['map']
 
 ## Browse Fonts - Google Fonts
  - [https://fonts.google.com](https://fonts.google.com)
@@ -5827,12 +5533,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
-## http://chromium-review.googlesource.com
- - [http://chromium-review.googlesource.com](http://chromium-review.googlesource.com)
- - date published: 2023-10-25T14:48:30.652288+00:00
- - user: None
- - tags: []
-
 ## chromium Git repositories - Git at Google
  - [https://chromium.googlesource.com](https://chromium.googlesource.com)
  - date published: 2023-10-25T14:49:01.290226+00:00
@@ -5980,12 +5680,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
-## http://www.gptduck.com
- - [http://www.gptduck.com](http://www.gptduck.com)
- - date published: 2023-10-25T14:50:08.231990+00:00
- - user: None
- - tags: []
-
 ## Show HN: I built a Hacker News inspired newsboard for AI and robotics
  - [https://www.gptroad.com](https://www.gptroad.com)
  - date published: 2023-11-11T14:47:58+00:00
@@ -6001,6 +5695,312 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Men's Fashion, Style, Grooming, Fitness, Lifestyle, News & Politics | GQ
  - [https://www.gq.com](https://www.gq.com)
  - date published: 2023-10-25T14:50:17.306235+00:00
+ - user: None
+ - tags: []
+
+## Grabby Aliens – a simple model by Robin Hanson
+ - [https://grabbyaliens.com](https://grabbyaliens.com)
+ - date published: 2023-10-25T14:50:18.350755+00:00
+ - user: None
+ - tags: []
+
+## GrabCAD Making Additive Manufacturing at Scale Possible
+ - [https://grabcad.com](https://grabcad.com)
+ - date published: 2023-10-27T10:30:12.476095+00:00
+ - user: None
+ - tags: []
+
+## Home | grack
+ - [https://grack.com](https://grack.com)
+ - date published: 2023-10-25T14:50:19.361863+00:00
+ - user: None
+ - tags: []
+
+## Gradient Defense - Home
+ - [https://gradientdefense.com](https://gradientdefense.com)
+ - date published: 2023-10-25T14:50:20.179357+00:00
+ - user: None
+ - tags: []
+
+## Home - Gradient Flow
+ - [https://gradientflow.com](https://gradientflow.com)
+ - date published: 2023-10-25T14:50:23.145758+00:00
+ - user: None
+ - tags: []
+
+## Grafana: The open observability platform | Grafana Labs
+ - [https://grafana.com](https://grafana.com)
+ - date published: 2023-10-25T14:50:27.579455+00:00
+ - user: None
+ - tags: []
+
+## Grafbase: The API platform for developers
+ - [https://grafbase.com](https://grafbase.com)
+ - date published: 2023-10-25T14:50:28.919677+00:00
+ - user: None
+ - tags: []
+
+## GRAFICA Obscura
+ - [https://www.graficaobscura.com](https://www.graficaobscura.com)
+ - date published: 2023-10-25T14:50:30.561612+00:00
+ - user: None
+ - tags: []
+
+## Graham Helton
+ - [https://grahamhelton.com](https://grahamhelton.com)
+ - date published: 2023-10-25T08:45:53.148242+00:00
+ - user: None
+ - tags: ['personal']
+
+## Grainger Industrial Supply - MRO Products, Equipment and Tools
+ - [https://www.grainger.com](https://www.grainger.com)
+ - date published: 2023-10-25T14:50:33.581023+00:00
+ - user: None
+ - tags: []
+
+## Grammarly API: Get the Grammarly Text Editor SDK
+ - [https://developer.grammarly.com](https://developer.grammarly.com)
+ - date published: 2023-10-25T14:50:34.615002+00:00
+ - user: None
+ - tags: []
+
+## Service Status | Grammarly Status
+ - [https://status.grammarly.com](https://status.grammarly.com)
+ - date published: 2023-11-02T17:04:05.272966+00:00
+ - user: None
+ - tags: []
+
+## Grammarly: Free Writing AI Assistance
+ - [https://www.grammarly.com](https://www.grammarly.com)
+ - date published: 2023-10-25T14:50:42.290250+00:00
+ - user: None
+ - tags: []
+
+## Kropf Moseley | Law Firm
+ - [https://grandjurytarget.com](https://grandjurytarget.com)
+ - date published: 2023-10-25T14:50:45.785719+00:00
+ - user: None
+ - tags: []
+
+## Home - Grant Isom
+ - [https://grantisom.com](https://grantisom.com)
+ - date published: 2023-10-25T14:50:47.809476+00:00
+ - user: None
+ - tags: []
+
+## » Sports and Pop Culture from our rotating cast of writers – Grantland
+ - [https://grantland.com](https://grantland.com)
+ - date published: 2023-10-25T14:50:49.173618+00:00
+ - user: None
+ - tags: []
+
+## Grant Winney
+ - [https://grantwinney.com](https://grantwinney.com)
+ - date published: 2023-10-25T14:50:52.983706+00:00
+ - user: None
+ - tags: []
+
+## GraphHopper Directions API with Route Optimization
+ - [https://www.graphhopper.com](https://www.graphhopper.com)
+ - date published: 2023-10-25T14:50:56.515486+00:00
+ - user: None
+ - tags: []
+
+## Gravatar - Globally Recognized Avatars
+ - [https://secure.gravatar.com](https://secure.gravatar.com)
+ - date published: 2023-12-11T16:36:49.030626+00:00
+ - user: None
+ - tags: []
+
+## Gravitics
+ - [https://www.gravitics.com](https://www.gravitics.com)
+ - date published: 2023-10-25T14:50:58.061459+00:00
+ - user: None
+ - tags: []
+
+## Gravity Moth
+ - [https://gravitymoth.com](https://gravitymoth.com)
+ - date published: 2023-10-25T14:50:58.682442+00:00
+ - user: None
+ - tags: []
+
+## Graybeard Games
+ - [https://www.graybeardgames.com](https://www.graybeardgames.com)
+ - date published: 2023-10-25T14:51:00.992546+00:00
+ - user: None
+ - tags: []
+
+## Great Books Homeschool |     A great books-based homeschool curriculum
+ - [https://www.greatbookshomeschool.com](https://www.greatbookshomeschool.com)
+ - date published: 2023-10-25T14:51:02.584408+00:00
+ - user: None
+ - tags: []
+
+## https://greatercommons.com
+ - [https://greatercommons.com](https://greatercommons.com)
+ - date published: 2023-12-11T16:20:24.688282+00:00
+ - user: None
+ - tags: []
+
+## https://www.greatercommons.com
+ - [https://www.greatercommons.com](https://www.greatercommons.com)
+ - date published: 2023-12-11T16:20:30.772094+00:00
+ - user: None
+ - tags: []
+
+## Great Wave Today
+ - [https://greatwavetoday.com](https://greatwavetoday.com)
+ - date published: 2023-10-25T14:51:03.202390+00:00
+ - user: None
+ - tags: []
+
+## Greek City Times – Greek City Times
+ - [https://greekcitytimes.com](https://greekcitytimes.com)
+ - date published: 2023-10-25T14:51:15.710367+00:00
+ - user: None
+ - tags: []
+
+## Greek News
+ - [https://greekreporter.com](https://greekreporter.com)
+ - date published: 2023-11-06T12:33:30.670300+00:00
+ - user: None
+ - tags: []
+
+## GreenBiz
+ - [https://www.greenbiz.com](https://www.greenbiz.com)
+ - date published: 2023-10-25T14:51:20.979404+00:00
+ - user: None
+ - tags: []
+
+## Green Building Law Update | Stuart D. Kaplow, P.A.
+ - [https://www.greenbuildinglawupdate.com](https://www.greenbuildinglawupdate.com)
+ - date published: 2023-10-25T14:51:27.779183+00:00
+ - user: None
+ - tags: []
+
+## https://www.greencarcongress.com
+ - [https://www.greencarcongress.com](https://www.greencarcongress.com)
+ - date published: 2023-10-25T14:51:34.435307+00:00
+ - user: None
+ - tags: []
+
+## Green Jihad – Your source that tells the truth about the environmentalist movement's holy war against mankind
+ - [https://greenjihad.com](https://greenjihad.com)
+ - date published: 2023-10-25T14:51:36.960006+00:00
+ - user: None
+ - tags: []
+
+## Philip Greenspun's home page
+ - [https://philip.greenspun.com](https://philip.greenspun.com)
+ - date published: 2023-11-19T01:48:48.082052+00:00
+ - user: None
+ - tags: []
+
+## Homepage - gregalder.com
+ - [https://gregalder.com](https://gregalder.com)
+ - date published: 2023-10-25T14:51:38.211893+00:00
+ - user: None
+ - tags: []
+
+## Greg Brockman on Svbtle
+ - [https://blog.gregbrockman.com](https://blog.gregbrockman.com)
+ - date published: 2023-11-19T21:34:17.374452+00:00
+ - user: None
+ - tags: []
+
+## Greg Dyche | Well Scripted Life
+ - [https://gregdyche.com](https://gregdyche.com)
+ - date published: 2023-12-11T10:57:59.393836+00:00
+ - user: None
+ - tags: ['personal']
+
+## games.greggman.com - page 1 - Games, Code, and Game Dev
+ - [https://games.greggman.com](https://games.greggman.com)
+ - date published: 2023-10-25T14:51:40.366917+00:00
+ - user: None
+ - tags: []
+
+## Greg Navis | Fractional CTO and Product Engineer
+ - [https://www.gregnavis.com](https://www.gregnavis.com)
+ - date published: 2023-10-25T14:51:42.147429+00:00
+ - user: None
+ - tags: []
+
+## Gregory Ciotti – Content Marketing
+ - [https://www.gregoryciotti.com](https://www.gregoryciotti.com)
+ - date published: 2023-10-25T14:51:43.454505+00:00
+ - user: None
+ - tags: []
+
+## Gregory Gundersen
+ - [https://gregorygundersen.com](https://gregorygundersen.com)
+ - date published: 2023-10-25T14:51:45.550672+00:00
+ - user: None
+ - tags: []
+
+## GreyB - World's Leading Innovation Consulting Firm
+ - [https://www.greyb.com](https://www.greyb.com)
+ - date published: 2023-10-30T07:13:15.458579+00:00
+ - user: None
+ - tags: []
+
+## Posts | Serhii Potapov (greyblake)
+ - [https://www.greyblake.com](https://www.greyblake.com)
+ - date published: 2023-10-25T14:51:46.904848+00:00
+ - user: None
+ - tags: []
+
+## Grey Enlightenment – let's try this again
+ - [https://greyenlightenment.com](https://greyenlightenment.com)
+ - date published: 2023-10-25T14:51:54.361848+00:00
+ - user: None
+ - tags: []
+
+## 李辉的个人主页
+ - [https://greyli.com](https://greyli.com)
+ - date published: 2023-12-12T04:54:36.147220+00:00
+ - user: None
+ - tags: ['personal']
+
+## Grimdark Magazine
+ - [https://www.grimdarkmagazine.com](https://www.grimdarkmagazine.com)
+ - date published: 2023-10-27T07:47:07.098985+00:00
+ - user: None
+ - tags: ['tabletop games', 'warhammer', 'fantasy']
+
+## https://grizzlyreports.com
+ - [https://grizzlyreports.com](https://grizzlyreports.com)
+ - date published: 2023-10-25T14:51:55.634896+00:00
+ - user: None
+ - tags: []
+
+## GROUNDHOG-DAY.com — The leading Groundhog Day data source
+ - [https://groundhog-day.com](https://groundhog-day.com)
+ - date published: 2023-10-25T14:51:56.587714+00:00
+ - user: None
+ - tags: []
+
+## Grow by Ginkgo | A Magazine About Synthetic Biology
+ - [https://www.growbyginkgo.com](https://www.growbyginkgo.com)
+ - date published: 2023-10-25T14:51:59.808774+00:00
+ - user: None
+ - tags: []
+
+## Vegetable Garden Planner | Garden Planning Apps | GrowVeg.com
+ - [https://www.growveg.com](https://www.growveg.com)
+ - date published: 2023-10-25T14:52:02.997858+00:00
+ - user: None
+ - tags: []
+
+## GruCloud | GruCloud
+ - [https://www.grucloud.com](https://www.grucloud.com)
+ - date published: 2023-10-25T14:52:03.814878+00:00
+ - user: None
+ - tags: []
+
+## Grug Notes | A tool for text: simple, fast, self-organizing notes.
+ - [https://grugnotes.com](https://grugnotes.com)
+ - date published: 2023-10-25T14:52:09.718990+00:00
  - user: None
  - tags: []
 

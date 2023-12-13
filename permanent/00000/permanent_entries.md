@@ -112,12 +112,6 @@
  - user: None
  - tags: []
 
-## renegat0x0 site
- - [http://localhost](http://localhost)
- - date published: 2023-12-11T16:57:37.493594+00:00
- - user: None
- - tags: []
-
 ## Sort: Supercharged collaboration for your database
  - [https://sort.xyz.](https://sort.xyz.)
  - date published: 2023-11-01T23:07:07.991006+00:00
@@ -223,6 +217,12 @@
 ## agent.ai
  - [https://agent.ai](https://agent.ai)
  - date published: 2023-11-14T03:03:33.035878+00:00
+ - user: None
+ - tags: []
+
+## Answer.AI - Answer.AI - Practical AI R&D
+ - [https://www.answer.ai](https://www.answer.ai)
+ - date published: 2023-12-12T22:18:40.746422+00:00
  - user: None
  - tags: []
 
@@ -508,6 +508,12 @@
  - user: None
  - tags: []
 
+## Essential AI
+ - [https://essential.ai](https://essential.ai)
+ - date published: 2023-12-12T21:31:11+00:00
+ - user: None
+ - tags: []
+
 ## Factiverse AI Editor
  - [https://editor.factiverse.ai](https://editor.factiverse.ai)
  - date published: 2023-10-25T11:38:29.189794+00:00
@@ -553,18 +559,6 @@
 ## FlowChai  - AI For Your Business
  - [https://flowch.ai](https://flowch.ai)
  - date published: 2023-11-16T11:39:08.948375+00:00
- - user: None
- - tags: []
-
-## http://docs.flux.ai
- - [http://docs.flux.ai](http://docs.flux.ai)
- - date published: 2023-10-25T11:38:52.337233+00:00
- - user: None
- - tags: []
-
-## http://www.flux.ai
- - [http://www.flux.ai](http://www.flux.ai)
- - date published: 2023-10-25T11:38:53.317216+00:00
  - user: None
  - tags: []
 
@@ -1612,12 +1606,6 @@
  - user: None
  - tags: []
 
-## http://floorp.app
- - [http://floorp.app](http://floorp.app)
- - date published: 2023-10-25T11:46:30.390704+00:00
- - user: None
- - tags: []
-
 ## Framework | Sustainability
  - [https://perfect-hiring-822947.framer.app](https://perfect-hiring-822947.framer.app)
  - date published: 2023-10-25T11:46:34.235514+00:00
@@ -1675,6 +1663,12 @@
 ## Iconbuddy — 180K+ open source icons
  - [https://iconbuddy.app](https://iconbuddy.app)
  - date published: 2023-10-25T11:46:58.974115+00:00
+ - user: None
+ - tags: []
+
+## Knock | Notifications infrastructure for developers
+ - [https://knock.app](https://knock.app)
+ - date published: 2023-12-12T22:57:59.485222+00:00
  - user: None
  - tags: []
 
@@ -1774,12 +1768,6 @@
  - user: None
  - tags: []
 
-## http://hnbadges.netlify.app
- - [http://hnbadges.netlify.app](http://hnbadges.netlify.app)
- - date published: 2023-10-25T11:47:30.122721+00:00
- - user: None
- - tags: []
-
 ## HTML with Superpowers | HTML with Superpowers
  - [https://htmlwithsuperpowers.netlify.app](https://htmlwithsuperpowers.netlify.app)
  - date published: 2023-10-25T11:47:32.982005+00:00
@@ -1813,12 +1801,6 @@
 ## Real About Instagram | Compare, Compete, & Invalidate Authenticity
  - [https://realaboutinstagram.netlify.app](https://realaboutinstagram.netlify.app)
  - date published: 2023-10-25T11:47:47.931192+00:00
- - user: None
- - tags: []
-
-## http://reddark.netlify.app
- - [http://reddark.netlify.app](http://reddark.netlify.app)
- - date published: 2023-10-25T11:47:49.760447+00:00
  - user: None
  - tags: []
 
@@ -2080,12 +2062,6 @@
  - user: None
  - tags: []
 
-## Barely Comunity CSS page
- - [http://css-comments.vercel.app](http://css-comments.vercel.app)
- - date published: 2023-10-25T11:50:10.311118+00:00
- - user: None
- - tags: []
-
 ## https://ffmpeg-online.vercel.app
  - [https://ffmpeg-online.vercel.app](https://ffmpeg-online.vercel.app)
  - date published: 2023-10-25T11:50:10.849371+00:00
@@ -2119,12 +2095,6 @@
 ## Evidence
  - [https://hackernews-insight.vercel.app](https://hackernews-insight.vercel.app)
  - date published: 2023-10-25T11:50:22.132412+00:00
- - user: None
- - tags: []
-
-## http://hackernews-semafor-duhw.vercel.app
- - [http://hackernews-semafor-duhw.vercel.app](http://hackernews-semafor-duhw.vercel.app)
- - date published: 2023-10-25T11:50:25.367951+00:00
  - user: None
  - tags: []
 
@@ -2206,12 +2176,6 @@
  - user: None
  - tags: []
 
-## http://slickgpt.vercel.app
- - [http://slickgpt.vercel.app](http://slickgpt.vercel.app)
- - date published: 2023-10-25T11:50:50.597032+00:00
- - user: None
- - tags: []
-
 ## Spirals
  - [https://spirals.vercel.app](https://spirals.vercel.app)
  - date published: 2023-10-25T11:50:52.349082+00:00
@@ -2239,12 +2203,6 @@
 ## WTF DOES THIS COMPANY DO
  - [https://wtfdoesthiscompanydo.vercel.app](https://wtfdoesthiscompanydo.vercel.app)
  - date published: 2023-10-25T11:51:04.640307+00:00
- - user: None
- - tags: []
-
-## http://yakgpt.vercel.app
- - [http://yakgpt.vercel.app](http://yakgpt.vercel.app)
- - date published: 2023-10-25T11:58:22.199821+00:00
  - user: None
  - tags: []
 
@@ -2302,11 +2260,11 @@
  - user: None
  - tags: []
 
-## None
+## News from Argentina
  - [https://www.batimes.com.ar](https://www.batimes.com.ar)
- - date published: 2023-10-25T11:01:43.850205+00:00
- - user: None
- - tags: []
+ - date published: 2023-10-25T11:01:43+00:00
+ - user: rumpel
+ - tags: ['argentina news']
 
 ## Alberto Bertogli
  - [https://blitiri.com.ar](https://blitiri.com.ar)
@@ -2353,12 +2311,6 @@
 ## Art, technology, and NFTs - Outland
  - [https://outland.art](https://outland.art)
  - date published: 2023-10-25T11:52:36.812240+00:00
- - user: None
- - tags: []
-
-## http://travelgpt.art
- - [http://travelgpt.art](http://travelgpt.art)
- - date published: 2023-10-25T11:52:38.372045+00:00
  - user: None
  - tags: []
 
@@ -2794,12 +2746,6 @@
  - user: None
  - tags: []
 
-## Faculty of Science - University of Queensland
- - [http://science.uq.edu.au](http://science.uq.edu.au)
- - date published: 2023-10-25T11:21:28.871238+00:00
- - user: None
- - tags: []
-
 ## School of Mathematics and Physics - University of Queensland
  - [https://smp.uq.edu.au](https://smp.uq.edu.au)
  - date published: 2023-10-25T11:21:34.636053+00:00
@@ -2937,12 +2883,6 @@
  - date published: 2023-10-24T20:13:17.429474+00:00
  - user: None
  - tags: ['mastodon']
-
-## Welcome to Principia Cybernetica Web
- - [http://pespmc1.vub.ac.be](http://pespmc1.vub.ac.be)
- - date published: 2023-10-28T03:56:50.992299+00:00
- - user: None
- - tags: []
 
 ## 0110.be
  - [https://0110.be](https://0110.be)
@@ -3118,12 +3058,6 @@
  - user: None
  - tags: ['personal']
 
-## A-EON Technology Ltd
- - [http://blog.a-eon.biz](http://blog.a-eon.biz)
- - date published: 2023-11-02T10:02:26.061265+00:00
- - user: None
- - tags: ['morphos', 'amiga']
-
 ## ACube Systems - Online Shop
  - [https://shop.acube-systems.biz](https://shop.acube-systems.biz)
  - date published: 2023-12-11T19:29:04.855371+00:00
@@ -3145,18 +3079,6 @@
 ## GamesIndustry.biz
  - [https://www.gamesindustry.biz](https://www.gamesindustry.biz)
  - date published: 2023-10-25T10:47:30.738123+00:00
- - user: None
- - tags: []
-
-## Hyperion Entertainment Blog | Development News
- - [http://blog.hyperion-entertainment.biz](http://blog.hyperion-entertainment.biz)
- - date published: 2023-12-11T16:49:33.299765+00:00
- - user: None
- - tags: []
-
-## Hyperion Entertainment Message Boards - Index page
- - [http://forum.hyperion-entertainment.biz](http://forum.hyperion-entertainment.biz)
- - date published: 2023-12-11T16:50:42.245808+00:00
  - user: None
  - tags: []
 
@@ -3265,12 +3187,6 @@
 ## Ctrl blog by Daniel Aleksandersen
  - [https://www.ctrl.blog](https://www.ctrl.blog)
  - date published: 2023-10-25T09:01:41.317387+00:00
- - user: None
- - tags: ['personal']
-
-## Dagan.Blog – Education Futurist
- - [http://dagan.blog](http://dagan.blog)
- - date published: 2023-11-29T14:22:32.166536+00:00
  - user: None
  - tags: ['personal']
 
@@ -3569,6 +3485,12 @@
  - user: None
  - tags: ['personal']
 
+## Tony Dang's Blog
+ - [https://tonydang.blog](https://tonydang.blog)
+ - date published: 2023-12-12T04:54:16.406463+00:00
+ - user: None
+ - tags: ['personal']
+
 ## twdev.blog
  - [https://twdev.blog](https://twdev.blog)
  - date published: 2023-10-25T12:01:34.984757+00:00
@@ -3623,12 +3545,6 @@
  - user: None
  - tags: []
 
-## Portfolio
- - [http://cardume.art.br](http://cardume.art.br)
- - date published: 2023-12-11T19:32:47.496816+00:00
- - user: None
- - tags: []
-
 ## Tecgraf, PUC-Rio
  - [https://www.tecgraf.puc-rio.br](https://www.tecgraf.puc-rio.br)
  - date published: 2023-10-25T12:02:07.692461+00:00
@@ -3675,23 +3591,11 @@
  - [https://www.gov.br](https://www.gov.br)
  - date published: 2023-12-11T19:33:23.992575+00:00
  - user: None
- - tags: []
+ - tags: ['government']
 
 ## Resultados Oficial
  - [https://resultados.tse.jus.br](https://resultados.tse.jus.br)
  - date published: 2023-10-25T12:02:51.440167+00:00
- - user: None
- - tags: []
-
-## Escravo, nem pensar!
- - [http://escravonempensar.org.br](http://escravonempensar.org.br)
- - date published: 2023-12-11T19:32:09.047192+00:00
- - user: None
- - tags: []
-
-## Escravo, nem pensar!
- - [http://www.escravonempensar.org.br](http://www.escravonempensar.org.br)
- - date published: 2023-12-11T19:31:40.333585+00:00
  - user: None
  - tags: []
 
@@ -3712,12 +3616,6 @@
  - date published: 2023-11-13T13:41:34.414087+00:00
  - user: None
  - tags: ['museum']
-
-## Comunicar para Mudar
- - [http://comunicarparamudar.reporterbrasil.org.br](http://comunicarparamudar.reporterbrasil.org.br)
- - date published: 2023-12-11T19:32:20.047695+00:00
- - user: None
- - tags: []
 
 ## Mapa da Água: O que sai da sua torneira?
  - [https://mapadaagua.reporterbrasil.org.br](https://mapadaagua.reporterbrasil.org.br)
@@ -3740,12 +3638,6 @@
 ## Repórter Brasil
  - [https://reporterbrasil.org.br](https://reporterbrasil.org.br)
  - date published: 2023-11-14T17:00:02.121596+00:00
- - user: None
- - tags: []
-
-## Repórter Brasil
- - [http://reporterbrasil.org.br](http://reporterbrasil.org.br)
- - date published: 2023-12-11T19:31:58.011740+00:00
  - user: None
  - tags: []
 
@@ -3797,12 +3689,6 @@
  - user: None
  - tags: []
 
-## George's Home Page
- - [http://48k.ca](http://48k.ca)
- - date published: 2023-10-25T09:02:15.320332+00:00
- - user: None
- - tags: ['personal']
-
 ## The Call of the Open Sidewalk [The Call of the Open Sidewalk]
  - [https://articles.59.ca](https://articles.59.ca)
  - date published: 2023-10-25T12:03:06.077493+00:00
@@ -3848,6 +3734,36 @@
 ## Bank of Canada
  - [https://www.bankofcanada.ca](https://www.bankofcanada.ca)
  - date published: 2023-10-25T12:03:32.218847+00:00
+ - user: None
+ - tags: []
+
+## Bell Canada Enterprises | Corporate website | BCE Inc.
+ - [https://www.bce.ca](https://www.bce.ca)
+ - date published: 2023-12-12T09:06:56.066905+00:00
+ - user: None
+ - tags: []
+
+## https://support.bell.ca
+ - [https://support.bell.ca](https://support.bell.ca)
+ - date published: 2023-12-12T08:40:26.006400+00:00
+ - user: None
+ - tags: []
+
+## Bell Media Account
+ - [https://account.bellmedia.ca](https://account.bellmedia.ca)
+ - date published: 2023-12-12T09:04:24.261526+00:00
+ - user: None
+ - tags: []
+
+## https://recodata.shared-svc.bellmedia.ca
+ - [https://recodata.shared-svc.bellmedia.ca](https://recodata.shared-svc.bellmedia.ca)
+ - date published: 2023-12-12T08:41:51.384990+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.bellmedia.ca](https://www.bellmedia.ca)
+ - date published: 2023-12-12T08:43:45.676684+00:00
  - user: None
  - tags: []
 
@@ -3917,9 +3833,111 @@
  - user: None
  - tags: []
 
+## https://www.ctv.ca
+ - [https://www.ctv.ca](https://www.ctv.ca)
+ - date published: 2023-12-12T08:41:11.546084+00:00
+ - user: None
+ - tags: []
+
+## Edmonton News | CTV News | Edmonton Weather
+ - [https://Edmonton.ctvnews.ca](https://Edmonton.ctvnews.ca)
+ - date published: 2023-12-12T08:42:30.045267+00:00
+ - user: None
+ - tags: []
+
+## Kitchener News | Local Breaking | CTV News Kitchener
+ - [https://Kitchener.ctvnews.ca](https://Kitchener.ctvnews.ca)
+ - date published: 2023-12-12T09:04:10.091292+00:00
+ - user: None
+ - tags: []
+
+## London News | Weather & Local Breaking | CTV News London
+ - [https://London.ctvnews.ca](https://London.ctvnews.ca)
+ - date published: 2023-12-12T08:41:47.030377+00:00
+ - user: None
+ - tags: []
+
+## Montreal News | Local Breaking | CTV News Montreal
+ - [https://Montreal.ctvnews.ca](https://Montreal.ctvnews.ca)
+ - date published: 2023-12-12T08:40:54.151530+00:00
+ - user: None
+ - tags: []
+
+## Ottawa News | Local Breaking | CTV News Ottawa
+ - [https://Ottawa.ctvnews.ca](https://Ottawa.ctvnews.ca)
+ - date published: 2023-12-12T08:41:26.972321+00:00
+ - user: None
+ - tags: []
+
+## Regina News | Regina Weather | CTV News Regina
+ - [https://Regina.ctvnews.ca](https://Regina.ctvnews.ca)
+ - date published: 2023-12-12T08:44:17.609412+00:00
+ - user: None
+ - tags: []
+
+## Saskatoon News | Local Breaking | CTV News Saskatoon
+ - [https://Saskatoon.ctvnews.ca](https://Saskatoon.ctvnews.ca)
+ - date published: 2023-12-12T09:06:44.508818+00:00
+ - user: None
+ - tags: []
+
+## Toronto News Today | Ontario News | CTV News Toronto
+ - [https://Toronto.ctvnews.ca](https://Toronto.ctvnews.ca)
+ - date published: 2023-12-12T09:05:56.102635+00:00
+ - user: None
+ - tags: []
+
+## Windsor News | Local Breaking | CTV News Windsor
+ - [https://Windsor.ctvnews.ca](https://Windsor.ctvnews.ca)
+ - date published: 2023-12-12T08:40:35.494326+00:00
+ - user: None
+ - tags: []
+
+## Winnipeg News | CTV News Winnipeg
+ - [https://Winnipeg.ctvnews.ca](https://Winnipeg.ctvnews.ca)
+ - date published: 2023-12-12T09:07:04.569345+00:00
+ - user: None
+ - tags: []
+
+## Atlantic News | Local Breaking | CTV News Atlantic
+ - [https://atlantic.ctvnews.ca](https://atlantic.ctvnews.ca)
+ - date published: 2023-12-12T08:42:19.488706+00:00
+ - user: None
+ - tags: []
+
+## Barrie News | Local Breaking | CTV News Barrie
+ - [https://barrie.ctvnews.ca](https://barrie.ctvnews.ca)
+ - date published: 2023-12-12T08:40:59.543668+00:00
+ - user: None
+ - tags: []
+
 ## Vancouver News | Local Breaking | CTV News Vancouver
  - [https://bc.ctvnews.ca](https://bc.ctvnews.ca)
  - date published: 2023-10-25T10:55:57.032920+00:00
+ - user: None
+ - tags: []
+
+## Calgary News | Local Breaking | CTV News Calgary
+ - [https://calgary.ctvnews.ca](https://calgary.ctvnews.ca)
+ - date published: 2023-12-12T09:06:04.685094+00:00
+ - user: None
+ - tags: []
+
+## CTV News - Breaking News, Canada News Today
+ - [https://ctvnews.ca](https://ctvnews.ca)
+ - date published: 2023-12-12T09:06:16.335891+00:00
+ - user: None
+ - tags: []
+
+## Edmonton News | CTV News | Edmonton Weather
+ - [https://edmonton.ctvnews.ca](https://edmonton.ctvnews.ca)
+ - date published: 2023-12-12T08:42:34.458083+00:00
+ - user: None
+ - tags: []
+
+## Kitchener News | Local Breaking | CTV News Kitchener
+ - [https://kitchener.ctvnews.ca](https://kitchener.ctvnews.ca)
+ - date published: 2023-12-12T09:06:38.784881+00:00
  - user: None
  - tags: []
 
@@ -3935,15 +3953,57 @@
  - user: None
  - tags: []
 
+## Northern Ontario News | Local Breaking | CTV News Northern Ontario
+ - [https://northernontario.ctvnews.ca](https://northernontario.ctvnews.ca)
+ - date published: 2023-12-12T08:40:48.811443+00:00
+ - user: None
+ - tags: []
+
 ## Ottawa News | Local Breaking | CTV News Ottawa
  - [https://ottawa.ctvnews.ca](https://ottawa.ctvnews.ca)
  - date published: 2023-10-25T10:56:04.116973+00:00
  - user: None
  - tags: []
 
+## Regina News | Regina Weather | CTV News Regina
+ - [https://regina.ctvnews.ca](https://regina.ctvnews.ca)
+ - date published: 2023-12-12T08:42:43.297708+00:00
+ - user: None
+ - tags: []
+
+## Saskatoon News | Local Breaking | CTV News Saskatoon
+ - [https://saskatoon.ctvnews.ca](https://saskatoon.ctvnews.ca)
+ - date published: 2023-12-12T08:41:36.159326+00:00
+ - user: None
+ - tags: []
+
+## Access Denied
+ - [https://stats.ctvnews.ca](https://stats.ctvnews.ca)
+ - date published: 2023-12-12T08:41:53.588641+00:00
+ - user: None
+ - tags: []
+
 ## Toronto News | Breaking News | CTV News Toronto
  - [https://toronto.ctvnews.ca](https://toronto.ctvnews.ca)
  - date published: 2023-10-25T10:56:11.669804+00:00
+ - user: None
+ - tags: []
+
+## Victoria News | Local Breaking | CTV News Vancouver Island
+ - [https://vancouverisland.ctvnews.ca](https://vancouverisland.ctvnews.ca)
+ - date published: 2023-12-12T09:06:50.809150+00:00
+ - user: None
+ - tags: []
+
+## Windsor News | Local Breaking | CTV News Windsor
+ - [https://windsor.ctvnews.ca](https://windsor.ctvnews.ca)
+ - date published: 2023-12-12T09:06:32.505848+00:00
+ - user: None
+ - tags: []
+
+## Winnipeg News | CTV News Winnipeg
+ - [https://winnipeg.ctvnews.ca](https://winnipeg.ctvnews.ca)
+ - date published: 2023-12-12T09:06:26.016061+00:00
  - user: None
  - tags: []
 
@@ -4043,6 +4103,12 @@
  - user: None
  - tags: []
 
+## Paul Henman
+ - [https://henman.ca](https://henman.ca)
+ - date published: 2023-12-12T04:55:06.206081+00:00
+ - user: None
+ - tags: ['personal']
+
 ## hypatia dot ca – Leigh Honeywell's Blog
  - [https://hypatia.ca](https://hypatia.ca)
  - date published: 2023-10-25T09:25:27.291271+00:00
@@ -4139,12 +4205,6 @@
  - user: None
  - tags: []
 
-## Madrona Grove
- - [http://madrona.ca](http://madrona.ca)
- - date published: 2023-10-25T08:43:01.127813+00:00
- - user: None
- - tags: ['personal']
-
 ## McGill School Of Computer Science
  - [https://www.cs.mcgill.ca](https://www.cs.mcgill.ca)
  - date published: 2023-10-25T12:06:01.879709+00:00
@@ -4208,6 +4268,12 @@
 ## Good, Better, Best
  - [https://www.nthn.ca](https://www.nthn.ca)
  - date published: 2023-11-29T18:20:44.786867+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mayo Jordanov
+ - [https://oyam.ca](https://oyam.ca)
+ - date published: 2023-12-12T13:09:05.017868+00:00
  - user: None
  - tags: ['personal']
 
@@ -4418,12 +4484,6 @@
 ## Home | University of Ottawa
  - [https://www.uottawa.ca](https://www.uottawa.ca)
  - date published: 2023-12-01T11:39:31.990444+00:00
- - user: None
- - tags: []
-
-## http://utcc.utoronto.ca
- - [http://utcc.utoronto.ca](http://utcc.utoronto.ca)
- - date published: 2023-10-25T12:08:57.993153+00:00
  - user: None
  - tags: []
 
@@ -4643,12 +4703,6 @@
  - user: None
  - tags: []
 
-## http://deepimagination.cc
- - [http://deepimagination.cc](http://deepimagination.cc)
- - date published: 2023-10-25T12:10:55.341972+00:00
- - user: None
- - tags: []
-
 ## Electrotechnique Synthesizers | DIY Synthesizers
  - [https://electrotechnique.cc](https://electrotechnique.cc)
  - date published: 2023-10-25T12:10:56.844543+00:00
@@ -4776,6 +4830,12 @@
  - user: None
  - tags: []
 
+## BF-SYS: A fantasy computer that uses Brainfuck as its instruction set
+ - [https://brainfuck.zptr.cc](https://brainfuck.zptr.cc)
+ - date published: 2023-12-12T07:23:44+00:00
+ - user: None
+ - tags: []
+
 ## Placeholder
  - [https://what.cd](https://what.cd)
  - date published: 2023-10-25T12:12:14.189974+00:00
@@ -4875,12 +4935,6 @@
 ## Citroen Switzerland
  - [https://www.citroen.ch](https://www.citroen.ch)
  - date published: 2023-12-11T16:01:12.759641+00:00
- - user: None
- - tags: []
-
-## http://claudioholanda.ch
- - [http://claudioholanda.ch](http://claudioholanda.ch)
- - date published: 2023-10-25T12:13:16.651561+00:00
  - user: None
  - tags: []
 
@@ -4995,12 +5049,6 @@
 ## REDS blog – REDS Institute, HEIG-VD
  - [https://blog.reds.ch](https://blog.reds.ch)
  - date published: 2023-10-25T12:14:18.446449+00:00
- - user: None
- - tags: []
-
-## RELEC – Software & Hardware Amiga
- - [http://www.relec.ch](http://www.relec.ch)
- - date published: 2023-12-11T19:00:39.894534+00:00
  - user: None
  - tags: []
 
@@ -5346,9 +5394,9 @@
  - user: None
  - tags: []
 
-## http://www.dongfeng-citroen.com.cn
- - [http://www.dongfeng-citroen.com.cn](http://www.dongfeng-citroen.com.cn)
- - date published: 2023-12-11T15:58:34.782768+00:00
+## JetBrains: 软件开发者和团队的必备工具
+ - [https://www.jetbrains.com.cn](https://www.jetbrains.com.cn)
+ - date published: 2023-12-12T09:10:15.351076+00:00
  - user: None
  - tags: []
 
@@ -5415,12 +5463,6 @@
 ## Baseten | Machine learning infrastructure
  - [https://www.baseten.co](https://www.baseten.co)
  - date published: 2023-11-20T21:09:03.643831+00:00
- - user: None
- - tags: []
-
-## 9front Research
- - [http://cm.bell-labs.co](http://cm.bell-labs.co)
- - date published: 2023-10-25T12:16:44.235815+00:00
  - user: None
  - tags: []
 
@@ -5523,12 +5565,6 @@
 ## The Eclectic Light Company – Macs, painting, and more
  - [https://eclecticlight.co](https://eclecticlight.co)
  - date published: 2023-10-25T12:18:04.633774+00:00
- - user: None
- - tags: []
-
-## ESS (Public) Status
- - [http://status.elastic.co](http://status.elastic.co)
- - date published: 2023-10-25T12:18:37.354959+00:00
  - user: None
  - tags: []
 
@@ -5916,12 +5952,6 @@
  - user: None
  - tags: []
 
-## http://slimvoice.co
- - [http://slimvoice.co](http://slimvoice.co)
- - date published: 2023-10-25T12:22:13.086251+00:00
- - user: None
- - tags: []
-
 ## Small Bets Newsletter | Daniel Vassallo | Substack
  - [https://newsletter.smallbets.co](https://newsletter.smallbets.co)
  - date published: 2023-10-25T12:22:16.414825+00:00
@@ -5967,36 +5997,6 @@
 ## t.co / Twitter
  - [https://t.co](https://t.co)
  - date published: 2023-12-11T16:23:00.287075+00:00
- - user: None
- - tags: []
-
-## Tedium | An Offbeat Digital Newsletter
- - [https://tedium.co](https://tedium.co)
- - date published: 2023-10-25T12:23:19.179721+00:00
- - user: None
- - tags: []
-
-## Tools for Online Speech | Jacob O'Bryant
- - [https://tfos.co](https://tfos.co)
- - date published: 2023-10-25T12:23:23.026761+00:00
- - user: None
- - tags: []
-
-## Bitcoin, Ethereum, and Crypto News | The Block
- - [https://www.theblock.co](https://www.theblock.co)
- - date published: 2023-10-25T12:23:37.713443+00:00
- - user: None
- - tags: []
-
-## The Cradle
- - [https://thecradle.co](https://thecradle.co)
- - date published: 2023-10-25T12:23:40.881708+00:00
- - user: None
- - tags: []
-
-## The Diff - Inflections in finance and tech
- - [https://www.thediff.co](https://www.thediff.co)
- - date published: 2023-10-25T12:23:43.588753+00:00
  - user: None
  - tags: []
 

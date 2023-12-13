@@ -1,69 +1,3 @@
-## smackeyacky
- - [https://smackeyacky.blogspot.com](https://smackeyacky.blogspot.com)
- - date published: 2023-10-25T09:17:55.345473+00:00
- - user: None
- - tags: ['personal']
-
-## Small Datum
- - [https://smalldatum.blogspot.com](https://smalldatum.blogspot.com)
- - date published: 2023-10-25T09:18:01.254095+00:00
- - user: None
- - tags: ['personal']
-
-## No Shortage of Dreams
- - [https://spaceflighthistory.blogspot.com](https://spaceflighthistory.blogspot.com)
- - date published: 2023-10-25T09:18:07.149723+00:00
- - user: None
- - tags: ['personal']
-
-## Nick Brown's blog
- - [https://steamtraen.blogspot.com](https://steamtraen.blogspot.com)
- - date published: 2023-10-25T09:18:13.991557+00:00
- - user: None
- - tags: ['personal']
-
-## Stevey's Blog Rants
- - [https://steve-yegge.blogspot.com](https://steve-yegge.blogspot.com)
- - date published: 2023-10-25T09:18:17.413852+00:00
- - user: None
- - tags: ['personal']
-
-## Tertulia Moderna
- - [https://tertulia-moderna.blogspot.com](https://tertulia-moderna.blogspot.com)
- - date published: 2023-10-25T09:18:22.137314+00:00
- - user: None
- - tags: ['personal']
-
-## The Little Engineer That Could
- - [https://thelittleengineerthatcould.blogspot.com](https://thelittleengineerthatcould.blogspot.com)
- - date published: 2023-10-25T09:18:26.159190+00:00
- - user: None
- - tags: ['personal']
-
-## The Programmer's Paradox
- - [https://theprogrammersparadox.blogspot.com](https://theprogrammersparadox.blogspot.com)
- - date published: 2023-10-25T09:18:30.860433+00:00
- - user: None
- - tags: ['personal']
-
-## Tzvetan Mikov's Blog
- - [https://tmikov.blogspot.com](https://tmikov.blogspot.com)
- - date published: 2023-10-25T13:06:10.222159+00:00
- - user: None
- - tags: []
-
-## The TOF Spot
- - [https://tofspot.blogspot.com](https://tofspot.blogspot.com)
- - date published: 2023-10-25T13:06:25.038835+00:00
- - user: None
- - tags: []
-
-## ToughSF
- - [https://toughsf.blogspot.com](https://toughsf.blogspot.com)
- - date published: 2023-11-03T17:54:13.927813+00:00
- - user: None
- - tags: []
-
 ## Understanding Society
  - [https://understandingsociety.blogspot.com](https://understandingsociety.blogspot.com)
  - date published: 2023-10-25T09:18:50.492120+00:00
@@ -166,6 +100,24 @@
  - user: None
  - tags: []
 
+## Unavailable for legal reasons
+ - [https://bloxcms.com](https://bloxcms.com)
+ - date published: 2023-12-12T08:39:39.066750+00:00
+ - user: None
+ - tags: []
+
+## ribbon.bloxcms.com | Ribbon BLOX CMS
+ - [https://www.ribbon.bloxcms.com](https://www.ribbon.bloxcms.com)
+ - date published: 2023-12-12T08:13:43.119975+00:00
+ - user: None
+ - tags: []
+
+## bloxdigital.com | BLOX Digital provides state-of-the-art content management (CMS), digital publishing, advertising, engagement, and video management (VMS) solutions for media organizations of all sizes.
+ - [https://bloxdigital.com](https://bloxdigital.com)
+ - date published: 2023-12-12T08:13:52.244433+00:00
+ - user: None
+ - tags: []
+
 ## Home | Blue Origin
  - [https://www.blueorigin.com](https://www.blueorigin.com)
  - date published: 2023-10-25T13:07:05.076275+00:00
@@ -265,12 +217,6 @@
 ## - The world's leading source of industry news and analysis for board game professionals
  - [https://boardgamewire.com](https://boardgamewire.com)
  - date published: 2023-10-25T13:07:20.950852+00:00
- - user: None
- - tags: []
-
-## John's Nautical and Boatbuilding Page
- - [http://www.boat-links.com](http://www.boat-links.com)
- - date published: 2023-10-25T13:07:23.751798+00:00
  - user: None
  - tags: []
 
@@ -407,6 +353,12 @@
  - tags: []
 
 ## The Tudors
+ - [https://maxcdn.bootstrapcdn.com](https://maxcdn.bootstrapcdn.com)
+ - date published: 2023-12-12T09:13:07.298880+00:00
+ - user: None
+ - tags: []
+
+## The Tudors
  - [https://stackpath.bootstrapcdn.com](https://stackpath.bootstrapcdn.com)
  - date published: 2023-12-11T18:40:30.078218+00:00
  - user: None
@@ -481,12 +433,6 @@
 ## The Boston Globe
  - [https://www.bostonglobe.com](https://www.bostonglobe.com)
  - date published: 2023-10-25T14:22:22.645245+00:00
- - user: None
- - tags: []
-
-## http://farewell.bostonunitygroup.com
- - [http://farewell.bostonunitygroup.com](http://farewell.bostonunitygroup.com)
- - date published: 2023-10-25T14:22:30.115365+00:00
  - user: None
  - tags: []
 
@@ -844,18 +790,6 @@
  - user: None
  - tags: ['encyclopedia']
 
-## Exploring Everyday Experiences: Blogs that Share Information and Life Updates | Britshas
- - [http://britshas.com](http://britshas.com)
- - date published: 2023-12-08T15:49:50.369580+00:00
- - user: None
- - tags: []
-
-## Brittany Cheng
- - [http://brittanycheng.com](http://brittanycheng.com)
- - date published: 2023-10-25T09:19:32.224894+00:00
- - user: None
- - tags: ['personal']
-
 ## Broadcom Inc. | Connecting Everything
  - [https://www.broadcom.com](https://www.broadcom.com)
  - date published: 2023-11-13T14:03:14.360342+00:00
@@ -1138,12 +1072,6 @@
  - user: None
  - tags: []
 
-## http://wiki.c2.com
- - [http://wiki.c2.com](http://wiki.c2.com)
- - date published: 2023-10-25T13:16:11.172690+00:00
- - user: None
- - tags: []
-
 ## The C4 model for visualising software architecture
  - [https://c4model.com](https://c4model.com)
  - date published: 2023-11-01T08:41:41.323389+00:00
@@ -1330,6 +1258,12 @@
  - user: None
  - tags: []
 
+## camdez
+ - [https://camdez.com](https://camdez.com)
+ - date published: 2023-12-12T07:04:51.833744+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Cameron Conaway: Professor and Feedback Fanatic
  - [https://www.cameronconaway.com](https://www.cameronconaway.com)
  - date published: 2023-12-03T01:44:15.857851+00:00
@@ -1507,12 +1441,6 @@
 ## Careful Words
  - [https://carefulwords.com](https://carefulwords.com)
  - date published: 2023-10-25T13:18:12.352022+00:00
- - user: None
- - tags: []
-
-## CaribPress
- - [http://www.caribpress.com](http://www.caribpress.com)
- - date published: 2023-10-25T13:18:15.548543+00:00
  - user: None
  - tags: []
 
@@ -2278,6 +2206,12 @@
  - user: None
  - tags: []
 
+## Chris Minnick - Entrepreneur, author, teacher, winemaker - Chris Minnick
+ - [https://www.chrisminnick.com](https://www.chrisminnick.com)
+ - date published: 2023-12-12T23:23:33.691980+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Chris Barber Productivity and Self-Development as a Software Engineer
  - [https://chrispbarber.com](https://chrispbarber.com)
  - date published: 2023-11-29T14:42:03.804377+00:00
@@ -2626,12 +2560,6 @@
  - user: None
  - tags: []
 
-## Certified Mindset Coach - ClarityMind
- - [http://www.claritymind.com](http://www.claritymind.com)
- - date published: 2023-12-07T17:37:19.468517+00:00
- - user: None
- - tags: ['personal']
-
 ## Before you continue to YouTube
  - [https://clarkecreatives.com](https://clarkecreatives.com)
  - date published: 2023-11-29T14:25:26.288888+00:00
@@ -2725,6 +2653,12 @@
 ## clevelandjewishnews.com | Award-winning coverage of local, national and world news of Jewish interest.
  - [https://www.clevelandjewishnews.com](https://www.clevelandjewishnews.com)
  - date published: 2023-10-31T03:38:08.908723+00:00
+ - user: None
+ - tags: []
+
+## Cleveland Scene
+ - [https://www.clevescene.com](https://www.clevescene.com)
+ - date published: 2023-12-12T09:20:52.362931+00:00
  - user: None
  - tags: []
 
@@ -3140,12 +3074,6 @@
  - date published: 2023-10-25T13:28:28.190326+00:00
  - user: None
  - tags: []
-
-## Home » Codetapper's Amiga and C64 Site
- - [http://www.codetapper.com](http://www.codetapper.com)
- - date published: 2023-11-02T09:46:58.705416+00:00
- - user: None
- - tags: ['commodore', 'personal', 'amiga']
 
 ## | codethrasher
  - [https://codethrasher.com](https://codethrasher.com)
@@ -3675,12 +3603,6 @@
  - user: None
  - tags: ['tabletop games', 'miniatures']
 
-## Get an email address at coons.com. It's ad-free, reliable email that's based on your own name | coons.com
- - [http://coons.com](http://coons.com)
- - date published: 2023-11-18T08:16:57.088256+00:00
- - user: None
- - tags: []
-
 ## Organically Find More Customers
  - [https://copperinsights.com](https://copperinsights.com)
  - date published: 2023-11-29T14:21:10.021304+00:00
@@ -3813,12 +3735,6 @@
  - user: None
  - tags: []
 
-## Counterpoint - Technology Market Research & Industry Analysis Firm
- - [http://www.counterpointresearch.com](http://www.counterpointresearch.com)
- - date published: 2023-10-25T13:34:44.457070+00:00
- - user: None
- - tags: []
-
 ## API for Email, SMS, Web & Mobile Push Notifications | Courier
  - [https://www.courier.com](https://www.courier.com)
  - date published: 2023-10-25T13:34:48.299157+00:00
@@ -3834,12 +3750,6 @@
 ## Courthouse News Service - Breaking Legal News from Courtrooms Across the US and Around the Globe
  - [https://www.courthousenews.com](https://www.courthousenews.com)
  - date published: 2023-11-03T13:29:17.597843+00:00
- - user: None
- - tags: []
-
-## http://storage.courtlistener.com
- - [http://storage.courtlistener.com](http://storage.courtlistener.com)
- - date published: 2023-10-25T13:34:51.025921+00:00
  - user: None
  - tags: []
 
@@ -4486,12 +4396,6 @@
  - user: None
  - tags: []
 
-## Motorcycle News, Reviews - Motorcycle Videos | Cycle World
- - [http://www.cycleworld.com](http://www.cycleworld.com)
- - date published: 2023-10-25T13:40:54.610010+00:00
- - user: None
- - tags: []
-
 ## RNBO | Cycling '74
  - [https://rnbo.cycling74.com](https://rnbo.cycling74.com)
  - date published: 2023-10-25T13:40:56.742683+00:00
@@ -4558,6 +4462,12 @@
  - user: None
  - tags: []
 
+## Dafacto – The personal website of Matt Henderson
+ - [https://dafacto.com](https://dafacto.com)
+ - date published: 2023-12-12T08:08:43.622992+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Daft Punk
  - [https://www.daftpunk.com](https://www.daftpunk.com)
  - date published: 2023-10-30T13:57:06.791776+00:00
@@ -4591,12 +4501,6 @@
 ## The Daily Dot | Your Internet. Your Internet news.
  - [https://www.dailydot.com](https://www.dailydot.com)
  - date published: 2023-10-25T13:41:22.508047+00:00
- - user: None
- - tags: []
-
-## The Daily Free Press – The Independent Student Newspaper at Boston University
- - [http://dailyfreepress.com](http://dailyfreepress.com)
- - date published: 2023-10-25T13:41:30.749303+00:00
  - user: None
  - tags: []
 
@@ -4739,10 +4643,10 @@
  - tags: []
 
 ## Daniel Hoang – Experienced management consultant x creative. Xennial bridging analog with digital at the intersection of humanity and machine. Scrappy, creative, and fast.
- - [http://danielhoang.com](http://danielhoang.com)
- - date published: 2023-12-11T23:17:02.743658+00:00
+ - [https://danielhoang.com](https://danielhoang.com)
+ - date published: 2023-12-12T09:24:31.582869+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Daniel Mangum
  - [https://danielmangum.com](https://danielmangum.com)
@@ -4822,18 +4726,6 @@
  - user: None
  - tags: []
 
-## http://danwilkerson.com
- - [http://danwilkerson.com](http://danwilkerson.com)
- - date published: 2023-10-25T13:43:12.641143+00:00
- - user: None
- - tags: []
-
-## http://www.daolf.com
- - [http://www.daolf.com](http://www.daolf.com)
- - date published: 2023-10-25T13:43:14.230017+00:00
- - user: None
- - tags: []
-
 ## dappGambl: Crypto Gambling, dApps & Blockchain [2023]
  - [https://dappgambl.com](https://dappgambl.com)
  - date published: 2023-10-25T13:43:20.753656+00:00
@@ -4887,12 +4779,6 @@
  - date published: 2023-10-25T13:43:28.176592+00:00
  - user: None
  - tags: []
-
-## Darren Aronofsky
- - [http://www.darrenaronofsky.com](http://www.darrenaronofsky.com)
- - date published: 2023-11-13T12:50:37.380787+00:00
- - user: None
- - tags: ['movie director']
 
 ## Free Online Database Diagram Tool
  - [https://databasediagram.com](https://databasediagram.com)
@@ -5110,12 +4996,6 @@
  - user: None
  - tags: ['vip', 'celebrity']
 
-## David John Kaye | Deeptech Grant Writer and Business Designer
- - [http://davidjohnkaye.com](http://davidjohnkaye.com)
- - date published: 2023-11-29T15:52:36.810156+00:00
- - user: None
- - tags: []
-
 ## David Nebinski
  - [https://www.davidnebinski.com](https://www.davidnebinski.com)
  - date published: 2023-12-08T08:33:25.745211+00:00
@@ -5272,23 +5152,11 @@
  - user: None
  - tags: []
 
-## http://www.debate-devil.com
- - [http://www.debate-devil.com](http://www.debate-devil.com)
- - date published: 2023-10-25T13:47:00.364654+00:00
- - user: None
- - tags: []
-
 ## All posts | Archy de Berker
  - [https://archy.deberker.com](https://archy.deberker.com)
  - date published: 2023-10-25T13:47:02.854781+00:00
  - user: None
  - tags: []
-
-## Deborah Zhang
- - [http://deborahzhang.com](http://deborahzhang.com)
- - date published: 2023-10-25T09:25:38.964758+00:00
- - user: None
- - tags: ['personal']
 
 ## Java, Debugging, DevOps & Open Source
  - [https://debugagent.com](https://debugagent.com)
@@ -5323,18 +5191,6 @@
 ## Decipad — Make sense of numbers
  - [https://www.decipad.com](https://www.decipad.com)
  - date published: 2023-10-25T13:47:20.389396+00:00
- - user: None
- - tags: []
-
-## http://www.decisionproblem.com
- - [http://www.decisionproblem.com](http://www.decisionproblem.com)
- - date published: 2023-10-25T13:47:26.640515+00:00
- - user: None
- - tags: []
-
-## Decode Systems
- - [http://www.decodesystems.com](http://www.decodesystems.com)
- - date published: 2023-11-22T23:03:49.819462+00:00
  - user: None
  - tags: []
 
@@ -5611,12 +5467,6 @@
 ## Design You Trust
  - [https://designyoutrust.com](https://designyoutrust.com)
  - date published: 2023-10-25T13:50:22.315830+00:00
- - user: None
- - tags: []
-
-## News - DeSmog
- - [http://www.desmog.com](http://www.desmog.com)
- - date published: 2023-10-25T10:54:20.656094+00:00
  - user: None
  - tags: []
 
@@ -6007,6 +5857,156 @@
 ## Discourse  | The Mercatus Center | Substack
  - [https://www.discoursemagazine.com](https://www.discoursemagazine.com)
  - date published: 2023-10-25T13:53:18.416854+00:00
+ - user: None
+ - tags: []
+
+## Discover Magazine
+ - [https://www.discovermagazine.com](https://www.discovermagazine.com)
+ - date published: 2023-10-25T10:10:08.015699+00:00
+ - user: None
+ - tags: []
+
+## Warner Bros Discovery Poland
+ - [https://www.discovery.com](https://www.discovery.com)
+ - date published: 2023-10-25T13:53:22.941587+00:00
+ - user: None
+ - tags: []
+
+## CMS nexus
+ - [https://discretesynthesizers.com](https://discretesynthesizers.com)
+ - date published: 2023-10-25T13:53:24.175395+00:00
+ - user: None
+ - tags: []
+
+## Disk Prices (US)
+ - [https://diskprices.com](https://diskprices.com)
+ - date published: 2023-10-25T13:53:58.546141+00:00
+ - user: None
+ - tags: []
+
+## Disney.com | The official home for all things Disney
+ - [https://www.disney.com](https://www.disney.com)
+ - date published: 2023-10-25T11:27:54.662117+00:00
+ - user: None
+ - tags: ['company', 'movie studio']
+
+## Disney Dining Reviews, Menus, and Disney Dining Plan Information
+ - [https://www.disneydining.com](https://www.disneydining.com)
+ - date published: 2023-10-25T13:54:06.573270+00:00
+ - user: None
+ - tags: []
+
+## Stream Disney, Pixar, Marvel, Star Wars, Nat Geo | Disney+
+ - [https://www.disneyplus.com](https://www.disneyplus.com)
+ - date published: 2023-10-24T20:05:38.486246+00:00
+ - user: None
+ - tags: ['video streaming', 'gatekeeper', 'star wars']
+
+## Disney Research Studios | Disney Research
+ - [https://studios.disneyresearch.com](https://studios.disneyresearch.com)
+ - date published: 2023-10-25T13:54:22.250069+00:00
+ - user: None
+ - tags: []
+
+## The Columbus Dispatch: Local News, Politics & Sports in Columbus, OH
+ - [https://www.dispatch.com](https://www.dispatch.com)
+ - date published: 2023-10-25T13:54:28.047932+00:00
+ - user: None
+ - tags: []
+
+## Home - Dispatches Magazine
+ - [https://dispatchesmag.com](https://dispatchesmag.com)
+ - date published: 2023-10-25T13:54:30.988917+00:00
+ - user: None
+ - tags: []
+
+## Frog Guy Rants | Blog
+ - [https://disrel.com](https://disrel.com)
+ - date published: 2023-10-25T13:54:33.654007+00:00
+ - user: None
+ - tags: []
+
+## Disrupting Japan: Startups and Innovation in Japan - What you need to know about startups and innovation in Japan
+ - [https://www.disruptingjapan.com](https://www.disruptingjapan.com)
+ - date published: 2023-10-25T13:54:37.997071+00:00
+ - user: None
+ - tags: []
+
+## DistroWatch.com: Put the fun back into computing. Use Linux, BSD.
+ - [https://distrowatch.com](https://distrowatch.com)
+ - date published: 2023-10-25T13:54:49.738191+00:00
+ - user: None
+ - tags: ['linux', 'ranking']
+
+## Disturbed | Official Website
+ - [https://www.disturbed1.com](https://www.disturbed1.com)
+ - date published: 2023-11-13T09:43:51.930037+00:00
+ - user: None
+ - tags: ['music band']
+
+## DIYClassD is the DIY branch of Hypex Electronics BV for audiophile lovers.
+ - [https://www.diyclassd.com](https://www.diyclassd.com)
+ - date published: 2023-10-25T13:54:52.305532+00:00
+ - user: None
+ - tags: []
+
+## Home » DIY Usthad » Do It Yourself Projects & Tutorials
+ - [https://diyusthad.com](https://diyusthad.com)
+ - date published: 2023-10-28T20:14:14.711657+00:00
+ - user: None
+ - tags: ['arduino', 'raspberry', 'scb']
+
+## Django
+ - [https://docs.djangoproject.com](https://docs.djangoproject.com)
+ - date published: 2023-11-01T08:41:54.093761+00:00
+ - user: None
+ - tags: []
+
+## The web framework for perfectionists with deadlines | Django
+ - [https://www.djangoproject.com](https://www.djangoproject.com)
+ - date published: 2023-10-25T13:54:54.319657+00:00
+ - user: None
+ - tags: []
+
+## - Abandoned Uranium Workings -
+ - [https://djcresswell.com](https://djcresswell.com)
+ - date published: 2023-12-11T18:31:04.732364+00:00
+ - user: None
+ - tags: []
+
+## DJI Enterprise - Drone Solutions for Your Business - DJI
+ - [https://enterprise.dji.com](https://enterprise.dji.com)
+ - date published: 2023-10-25T13:54:58.289343+00:00
+ - user: None
+ - tags: []
+
+## DJI FORUM
+ - [https://forum.dji.com](https://forum.dji.com)
+ - date published: 2023-10-25T13:55:00.388000+00:00
+ - user: None
+ - tags: []
+
+## DJI - Official Website
+ - [https://www.dji.com](https://www.dji.com)
+ - date published: 2023-10-25T08:39:58.225999+00:00
+ - user: None
+ - tags: []
+
+## DJ Mag — living & breathing dance music
+ - [https://djmag.com](https://djmag.com)
+ - date published: 2023-10-25T10:17:22.278104+00:00
+ - user: None
+ - tags: []
+
+## News [D. Kriesel]
+ - [https://www.dkriesel.com](https://www.dkriesel.com)
+ - date published: 2023-10-25T13:55:02.953546+00:00
+ - user: None
+ - tags: []
+
+## D Magazine: Best Restaurants, Things to Do, and Local Dallas News
+ - [https://www.dmagazine.com](https://www.dmagazine.com)
+ - date published: 2023-10-25T13:55:08.601899+00:00
  - user: None
  - tags: []
 
