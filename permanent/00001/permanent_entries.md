@@ -1,3 +1,57 @@
+## Sloww | The Art of Living for Students of Life
+ - [https://www.sloww.co](https://www.sloww.co)
+ - date published: 2023-12-13T20:59:22.124933+00:00
+ - user: None
+ - tags: ['personal']
+
+## Small Bets Newsletter | Daniel Vassallo | Substack
+ - [https://newsletter.smallbets.co](https://newsletter.smallbets.co)
+ - date published: 2023-10-25T12:22:16.414825+00:00
+ - user: None
+ - tags: []
+
+## Marketing Consultant Las Vegas, NV | Crush Your Competition
+ - [https://sociallaunch.co](https://sociallaunch.co)
+ - date published: 2023-11-29T17:05:59.384418+00:00
+ - user: None
+ - tags: ['personal']
+
+## Data Visualization
+ - [https://socviz.co](https://socviz.co)
+ - date published: 2023-10-25T12:22:20.001924+00:00
+ - user: None
+ - tags: []
+
+## Spotta | Smart Insect Monitoring as a Service
+ - [https://www.spotta.co](https://www.spotta.co)
+ - date published: 2023-10-25T12:22:25.066866+00:00
+ - user: None
+ - tags: []
+
+## SpyTalk | Jeff Stein | Substack
+ - [https://www.spytalk.co](https://www.spytalk.co)
+ - date published: 2023-10-25T09:39:56.063632+00:00
+ - user: None
+ - tags: ['substack']
+
+## Empowering the world to develop technology through collective knowledge - Stack Overflow
+ - [https://stackoverflow.co](https://stackoverflow.co)
+ - date published: 2023-10-25T12:22:28.315909+00:00
+ - user: None
+ - tags: []
+
+## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
+ - [https://stateofthenation.co](https://stateofthenation.co)
+ - date published: 2023-10-25T12:23:13.580451+00:00
+ - user: None
+ - tags: []
+
+## t.co / Twitter
+ - [https://t.co](https://t.co)
+ - date published: 2023-12-11T16:23:00.287075+00:00
+ - user: None
+ - tags: []
+
 ## Tedium | An Offbeat Digital Newsletter
  - [https://tedium.co](https://tedium.co)
  - date published: 2023-10-25T12:23:19.179721+00:00
@@ -357,6 +411,12 @@
  - date published: 2023-11-02T20:29:08.386159+00:00
  - user: None
  - tags: []
+
+## 1G9G.com – #1 Gaming Blog
+ - [https://www.1g9g.com](https://www.1g9g.com)
+ - date published: 2023-12-13T15:50:53.066742+00:00
+ - user: None
+ - tags: ['game news']
 
 ## Blog | 1Password
  - [https://blog.1password.com](https://blog.1password.com)
@@ -2920,12 +2980,6 @@
  - user: None
  - tags: []
 
-## 404 Page not found
- - [http://pnacl-amiga-emulator.appspot.com](http://pnacl-amiga-emulator.appspot.com)
- - date published: 2023-12-11T18:34:43.267923+00:00
- - user: None
- - tags: []
-
 ## Shreevatsa R
  - [https://shreevatsa.appspot.com](https://shreevatsa.appspot.com)
  - date published: 2023-10-25T08:44:35.714453+00:00
@@ -3238,9 +3292,21 @@
  - user: None
  - tags: []
 
+## ArtifactFire: Artifact Decks, Card Database & Wiki. Create, Build & Share Top Artifact Decks
+ - [https://www.artifactfire.com](https://www.artifactfire.com)
+ - date published: 2023-12-13T16:21:01.765305+00:00
+ - user: None
+ - tags: []
+
 ## Welcome to
  - [https://artisticoutlaw.com](https://artisticoutlaw.com)
  - date published: 2023-11-29T17:10:51.063902+00:00
+ - user: None
+ - tags: ['personal']
+
+## ArtMusicWorks.com
+ - [https://www.artmusicworks.com](https://www.artmusicworks.com)
+ - date published: 2023-12-13T11:23:28.564516+00:00
  - user: None
  - tags: ['personal']
 
@@ -3253,6 +3319,18 @@
 ## ARTnews.com – The Leading Source for Art News & Art Event Coverage
  - [https://www.artnews.com](https://www.artnews.com)
  - date published: 2023-10-25T11:01:07.928053+00:00
+ - user: None
+ - tags: []
+
+## Iconify Design: All popular icon sets, one framework.
+ - [https://www.artodia.com](https://www.artodia.com)
+ - date published: 2023-12-13T16:10:38.143341+00:00
+ - user: None
+ - tags: []
+
+## ArtReview
+ - [https://artreview.com](https://artreview.com)
+ - date published: 2023-12-13T02:54:09.520974+00:00
  - user: None
  - tags: []
 
@@ -4264,6 +4342,12 @@
  - user: None
  - tags: []
 
+## https://www.bartertown.com
+ - [https://www.bartertown.com](https://www.bartertown.com)
+ - date published: 2023-12-13T15:38:15.820398+00:00
+ - user: None
+ - tags: []
+
 ## Bartosz Górka
  - [https://bartoszgorka.com](https://bartoszgorka.com)
  - date published: 2023-12-12T13:08:08.350025+00:00
@@ -4369,6 +4453,12 @@
 ## Beagle Security: Web Application & API Penetration Testing Tool
  - [https://beaglesecurity.com](https://beaglesecurity.com)
  - date published: 2023-10-25T12:54:50.232404+00:00
+ - user: None
+ - tags: []
+
+## OnTableTop – Home of Beasts of War – A World of Tabletop Wargaming
+ - [https://beastsofwar.com](https://beastsofwar.com)
+ - date published: 2023-12-13T15:38:27.091191+00:00
  - user: None
  - tags: []
 
@@ -4900,6 +4990,12 @@
  - user: None
  - tags: ['amiga']
 
+## Binder POS
+ - [https://binderpos.com](https://binderpos.com)
+ - date published: 2023-12-13T15:36:13.351535+00:00
+ - user: None
+ - tags: []
+
 ## Bing Blogs | Home
  - [https://blogs.bing.com](https://blogs.bing.com)
  - date published: 2023-10-25T13:00:16.392348+00:00
@@ -5290,6 +5386,12 @@
  - user: None
  - tags: ['personal']
 
+## Rusty Blazenhoff
+ - [https://www.blazenhoff.com](https://www.blazenhoff.com)
+ - date published: 2023-12-13T11:22:05.958494+00:00
+ - user: None
+ - tags: ['personal']
+
 ## BLDGBLOG
  - [https://bldgblog.com](https://bldgblog.com)
  - date published: 2023-11-01T08:41:35.585470+00:00
@@ -5344,11 +5446,35 @@
  - user: None
  - tags: []
 
+## Blizzard Entertainment
+ - [https://blizzard.com](https://blizzard.com)
+ - date published: 2023-12-13T15:52:43.797885+00:00
+ - user: None
+ - tags: ['game studio']
+
+## Diablo® II: Resurrected
+ - [https://diablo2.blizzard.com](https://diablo2.blizzard.com)
+ - date published: 2023-12-13T16:18:22.660901+00:00
+ - user: None
+ - tags: []
+
+## https://eu.forums.blizzard.com
+ - [https://eu.forums.blizzard.com](https://eu.forums.blizzard.com)
+ - date published: 2023-12-13T16:21:51.175621+00:00
+ - user: None
+ - tags: []
+
 ## Blizzard News
  - [https://news.blizzard.com](https://news.blizzard.com)
  - date published: 2023-10-29T10:40:53.223640+00:00
  - user: None
  - tags: ['game news']
+
+## https://us.forums.blizzard.com
+ - [https://us.forums.blizzard.com](https://us.forums.blizzard.com)
+ - date published: 2023-12-13T16:19:25.421458+00:00
+ - user: None
+ - tags: []
 
 ## Blizzard Entertainment
  - [https://www.blizzard.com](https://www.blizzard.com)
@@ -5415,12 +5541,6 @@
  - date published: 2023-10-25T09:25:19.865484+00:00
  - user: None
  - tags: ['personal']
-
-## Error 400 (Bad Request)!!1
- - [https://1.bp.blogspot.com](https://1.bp.blogspot.com)
- - date published: 2023-12-11T16:52:37.574003+00:00
- - user: None
- - tags: []
 
 ## busypoll
  - [https://1f604.blogspot.com](https://1f604.blogspot.com)
@@ -5866,135 +5986,15 @@
  - user: None
  - tags: []
 
+## Postapokalipsa bez ograniczeń!
+ - [https://postapokalipsa.blogspot.com](https://postapokalipsa.blogspot.com)
+ - date published: 2023-12-13T15:11:58.113245+00:00
+ - user: None
+ - tags: ['hobby', 'fallout']
+
 ## Thoughts on Programming
  - [https://programming-puzzler.blogspot.com](https://programming-puzzler.blogspot.com)
  - date published: 2023-10-25T09:10:24.409498+00:00
  - user: None
  - tags: ['personal']
-
-## pts.blog
- - [https://ptspts.blogspot.com](https://ptspts.blogspot.com)
- - date published: 2023-10-25T09:10:29.527000+00:00
- - user: None
- - tags: ['personal']
-
-## Python Software Foundation News
- - [https://pyfound.blogspot.com](https://pyfound.blogspot.com)
- - date published: 2023-10-25T09:10:33.540585+00:00
- - user: None
- - tags: ['personal']
-
-## Python Africa
- - [https://pythonafrica.blogspot.com](https://pythonafrica.blogspot.com)
- - date published: 2023-12-06T11:29:44.047900+00:00
- - user: None
- - tags: []
-
-## Python Insider
- - [https://pythoninsider.blogspot.com](https://pythoninsider.blogspot.com)
- - date published: 2023-10-25T09:10:39.347997+00:00
- - user: None
- - tags: ['personal']
-
-## Public Rants
- - [https://recursive-public-rants.blogspot.com](https://recursive-public-rants.blogspot.com)
- - date published: 2023-10-25T09:10:45.681581+00:00
- - user: None
- - tags: ['personal']
-
-## Richard Geldreich's Blog
- - [https://richg42.blogspot.com](https://richg42.blogspot.com)
- - date published: 2023-10-25T09:10:49.721564+00:00
- - user: None
- - tags: ['personal']
-
-## Poemas del río Wang
- - [https://riowang.blogspot.com](https://riowang.blogspot.com)
- - date published: 2023-10-25T09:17:38.044539+00:00
- - user: None
- - tags: ['personal']
-
-## The Splintered Mind
- - [https://schwitzsplinters.blogspot.com](https://schwitzsplinters.blogspot.com)
- - date published: 2023-10-25T09:17:44.221645+00:00
- - user: None
- - tags: ['personal']
-
-## The Science Unicorn
- - [https://scienceunicorn.blogspot.com](https://scienceunicorn.blogspot.com)
- - date published: 2023-10-25T09:17:47.984805+00:00
- - user: None
- - tags: ['personal']
-
-## Blobs in Games
- - [https://simblob.blogspot.com](https://simblob.blogspot.com)
- - date published: 2023-10-25T09:17:52.514335+00:00
- - user: None
- - tags: ['personal']
-
-## smackeyacky
- - [https://smackeyacky.blogspot.com](https://smackeyacky.blogspot.com)
- - date published: 2023-10-25T09:17:55.345473+00:00
- - user: None
- - tags: ['personal']
-
-## Small Datum
- - [https://smalldatum.blogspot.com](https://smalldatum.blogspot.com)
- - date published: 2023-10-25T09:18:01.254095+00:00
- - user: None
- - tags: ['personal']
-
-## No Shortage of Dreams
- - [https://spaceflighthistory.blogspot.com](https://spaceflighthistory.blogspot.com)
- - date published: 2023-10-25T09:18:07.149723+00:00
- - user: None
- - tags: ['personal']
-
-## Nick Brown's blog
- - [https://steamtraen.blogspot.com](https://steamtraen.blogspot.com)
- - date published: 2023-10-25T09:18:13.991557+00:00
- - user: None
- - tags: ['personal']
-
-## Stevey's Blog Rants
- - [https://steve-yegge.blogspot.com](https://steve-yegge.blogspot.com)
- - date published: 2023-10-25T09:18:17.413852+00:00
- - user: None
- - tags: ['personal']
-
-## Tertulia Moderna
- - [https://tertulia-moderna.blogspot.com](https://tertulia-moderna.blogspot.com)
- - date published: 2023-10-25T09:18:22.137314+00:00
- - user: None
- - tags: ['personal']
-
-## The Little Engineer That Could
- - [https://thelittleengineerthatcould.blogspot.com](https://thelittleengineerthatcould.blogspot.com)
- - date published: 2023-10-25T09:18:26.159190+00:00
- - user: None
- - tags: ['personal']
-
-## The Programmer's Paradox
- - [https://theprogrammersparadox.blogspot.com](https://theprogrammersparadox.blogspot.com)
- - date published: 2023-10-25T09:18:30.860433+00:00
- - user: None
- - tags: ['personal']
-
-## Tzvetan Mikov's Blog
- - [https://tmikov.blogspot.com](https://tmikov.blogspot.com)
- - date published: 2023-10-25T13:06:10.222159+00:00
- - user: None
- - tags: []
-
-## The TOF Spot
- - [https://tofspot.blogspot.com](https://tofspot.blogspot.com)
- - date published: 2023-10-25T13:06:25.038835+00:00
- - user: None
- - tags: []
-
-## ToughSF
- - [https://toughsf.blogspot.com](https://toughsf.blogspot.com)
- - date published: 2023-11-03T17:54:13.927813+00:00
- - user: None
- - tags: []
 

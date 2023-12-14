@@ -1,8 +1,483 @@
+## Future News & Media | Ian Silvera | Substack
+ - [https://www.news-future.com](https://www.news-future.com)
+ - date published: 2023-10-25T11:45:24.099538+00:00
+ - user: None
+ - tags: ['substack']
+
+## Daytona Beach News-Journal: Local News, Politics & Sports in Daytona Beach, FL
+ - [https://www.news-journalonline.com](https://www.news-journalonline.com)
+ - date published: 2023-12-01T15:47:55.160128+00:00
+ - user: None
+ - tags: []
+
+## News, Breaking News, Latest News, News Headlines, Live News, Today News CNN-News18
+ - [https://www.news18.com](https://www.news18.com)
+ - date published: 2023-10-25T16:17:08.953054+00:00
+ - user: None
+ - tags: []
+
+## News24 | South Africa's leading source of trusted news, opinion and insight
+ - [https://www.news24.com](https://www.news24.com)
+ - date published: 2023-10-25T11:07:45.142267+00:00
+ - user: None
+ - tags: []
+
+## The NewsBlur Blog | A new sound of an old instrument
+ - [https://blog.newsblur.com](https://blog.newsblur.com)
+ - date published: 2023-10-25T16:17:10.791955+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://www.newschannel5.com](https://www.newschannel5.com)
+ - date published: 2023-11-14T03:03:37.951482+00:00
+ - user: None
+ - tags: []
+
+## CHATTANOOGA News, Weather, Sports, Breaking News | WTVC
+ - [https://newschannel9.com](https://newschannel9.com)
+ - date published: 2023-11-23T02:43:56.853271+00:00
+ - user: None
+ - tags: []
+
+## New Scientist | Science news, articles, and features
+ - [https://www.newscientist.com](https://www.newscientist.com)
+ - date published: 2023-10-25T10:10:38.374883+00:00
+ - user: None
+ - tags: []
+
+## NewsGuard - Transparent Reliability Ratings for News and Information Sources
+ - [https://www.newsguardtech.com](https://www.newsguardtech.com)
+ - date published: 2023-10-25T10:37:35.478414+00:00
+ - user: None
+ - tags: []
+
+## Spain's News - News from Spanish Newspapers in English
+ - [https://newsingermany.com](https://newsingermany.com)
+ - date published: 2023-10-25T16:17:18.392253+00:00
+ - user: None
+ - tags: []
+
+## Feed Builder, News Reader, RSS Generator - New Sloth
+ - [https://newsloth.com](https://newsloth.com)
+ - date published: 2023-10-25T08:37:23.815953+00:00
+ - user: None
+ - tags: []
+
+## News Minimalist — Only important news
+ - [https://www.newsminimalist.com](https://www.newsminimalist.com)
+ - date published: 2023-10-25T16:17:25.270725+00:00
+ - user: None
+ - tags: []
+
+## Access Restricted
+ - [https://www.newsnationnow.com](https://www.newsnationnow.com)
+ - date published: 2023-12-04T22:16:13.156355+00:00
+ - user: None
+ - tags: []
+
+## NewsNotFound | AI Powered, Unbiased News | Information, not indoctrination
+ - [https://newsnotfound.com](https://newsnotfound.com)
+ - date published: 2023-10-25T16:17:30.224458+00:00
+ - user: None
+ - tags: []
+
+## NewsRescue - Busting fake news
+ - [https://newsrescue.com](https://newsrescue.com)
+ - date published: 2023-10-25T16:17:34.100938+00:00
+ - user: None
+ - tags: []
+
+## The Limited Times
+ - [https://newsrnd.com](https://newsrnd.com)
+ - date published: 2023-10-25T10:37:43.064262+00:00
+ - user: None
+ - tags: []
+
+## News Source Guyana
+ - [https://newssourcegy.com](https://newssourcegy.com)
+ - date published: 2023-12-07T14:53:10.302726+00:00
+ - user: None
+ - tags: []
+
+## HOME | Newstalk
+ - [https://www.newstalk.com](https://www.newstalk.com)
+ - date published: 2023-12-09T05:39:29.509913+00:00
+ - user: None
+ - tags: []
+
+## Newstarget.com
+ - [https://www.newstarget.com](https://www.newstarget.com)
+ - date published: 2023-10-25T16:17:40.498394+00:00
+ - user: None
+ - tags: []
+
+## New Statesman | UK Politics & Culture Magazine
+ - [https://www.newstatesman.com](https://www.newstatesman.com)
+ - date published: 2023-10-25T16:17:47.967145+00:00
+ - user: None
+ - tags: []
+
+## NewsWars
+ - [https://www.newswars.com](https://www.newswars.com)
+ - date published: 2023-10-25T10:16:10.898418+00:00
+ - user: None
+ - tags: []
+
+## Newsweek - News, Analysis, Politics, Business, Technology
+ - [https://www.newsweek.com](https://www.newsweek.com)
+ - date published: 2023-10-25T10:27:17.507278+00:00
+ - user: None
+ - tags: []
+
+## Newton FAQ
+ - [https://newtonfaq.com](https://newtonfaq.com)
+ - date published: 2023-10-25T16:17:51.080692+00:00
+ - user: None
+ - tags: []
+
+## New Trader U - Empowering Your Financial Journey
+ - [https://www.newtraderu.com](https://www.newtraderu.com)
+ - date published: 2023-10-25T16:17:53.901300+00:00
+ - user: None
+ - tags: []
+
+## New Wave Toys - Home of Replicade Amusements
+ - [https://newwavetoys.com](https://newwavetoys.com)
+ - date published: 2023-10-25T16:17:55.924454+00:00
+ - user: None
+ - tags: []
+
+## The New Yorker
+ - [https://www.newyorker.com](https://www.newyorker.com)
+ - date published: 2023-10-25T16:17:59.957961+00:00
+ - user: None
+ - tags: ['news']
+
+## Home - New York Verified
+ - [https://newyorkverified.com](https://newyorkverified.com)
+ - date published: 2023-11-17T18:25:41.742645+00:00
+ - user: None
+ - tags: []
+
+## Nex Lumina
+ - [https://nexlumina.com](https://nexlumina.com)
+ - date published: 2023-10-25T16:18:01.978044+00:00
+ - user: None
+ - tags: []
+
+## NextBigFuture.com – Coverage of Disruptive Science and Technology
+ - [https://www.nextbigfuture.com](https://www.nextbigfuture.com)
+ - date published: 2023-10-25T09:34:18.837204+00:00
+ - user: None
+ - tags: []
+
+## Nextcloud - Open source content collaboration platform
+ - [https://nextcloud.com](https://nextcloud.com)
+ - date published: 2023-10-25T16:18:09.462483+00:00
+ - user: None
+ - tags: []
+
+## Nextgov/FCW - Federal Technology News and Analysis for IT Managers & Acquisition Teams
+ - [https://www.nextgov.com](https://www.nextgov.com)
+ - date published: 2023-10-25T16:18:14.267264+00:00
+ - user: None
+ - tags: []
+
+## The Next Platform - The Next Platform
+ - [https://www.nextplatform.com](https://www.nextplatform.com)
+ - date published: 2023-10-25T16:18:18.912435+00:00
+ - user: None
+ - tags: []
+
+## NextShark.com - Asian American News
+ - [https://nextshark.com](https://nextshark.com)
+ - date published: 2023-10-25T16:18:27.133745+00:00
+ - user: None
+ - tags: []
+
+## Nexttv | Programming| Busines | Multichannel Broadcasting + Cable | www.nexttv.com
+ - [https://www.nexttv.com](https://www.nexttv.com)
+ - date published: 2023-11-13T13:38:16.860148+00:00
+ - user: None
+ - tags: []
+
+## Nexus mods and community
+ - [https://www.nexusmods.com](https://www.nexusmods.com)
+ - date published: 2023-10-25T11:16:58.441116+00:00
+ - user: None
+ - tags: ['game mods']
+
+## NFCW • Contactless World Congress, NFC World, Payments, Ticketing and more
+ - [https://www.nfcw.com](https://www.nfcw.com)
+ - date published: 2023-10-25T16:18:31.125364+00:00
+ - user: None
+ - tags: []
+
+## Welcome to NFG Games
+ - [https://nfggames.com](https://nfggames.com)
+ - date published: 2023-11-03T23:41:55.297344+00:00
+ - user: None
+ - tags: []
+
+## NFL.com | Official Site of the National Football League
+ - [https://www.nfl.com](https://www.nfl.com)
+ - date published: 2023-12-10T02:33:01.526036+00:00
+ - user: None
+ - tags: ['sport']
+
+## https://nftnow.com
+ - [https://nftnow.com](https://nftnow.com)
+ - date published: 2023-10-25T16:18:32.471558+00:00
+ - user: None
+ - tags: []
+
+## NGA玩家社区
+ - [https://ngabbs.com](https://ngabbs.com)
+ - date published: 2023-11-01T04:23:29.552971+00:00
+ - user: None
+ - tags: []
+
+## Advanced Load Balancer, Web Server, & Reverse Proxy - NGINX
+ - [https://www.nginx.com](https://www.nginx.com)
+ - date published: 2023-10-25T16:18:35.958680+00:00
+ - user: None
+ - tags: []
+
+## Nick Higham – Applied mathematics, numerical linear algebra and software.
+ - [https://nhigham.com](https://nhigham.com)
+ - date published: 2023-10-25T16:18:41.691573+00:00
+ - user: None
+ - tags: []
+
+## WarCraft 3 | Nibbits
+ - [http://wc3.nibbits.com](http://wc3.nibbits.com)
+ - date published: 2023-10-29T10:41:30.446641+00:00
+ - user: None
+ - tags: []
+
+## Niche Gamer - Video Game News, Community, Videos, & Reviews
+ - [https://nichegamer.com](https://nichegamer.com)
+ - date published: 2023-10-25T16:18:45.402324+00:00
+ - user: None
+ - tags: []
+
+## dankwiki, the wiki of nick black
+ - [https://nick-black.com](https://nick-black.com)
+ - date published: 2023-10-25T16:18:49.657215+00:00
+ - user: None
+ - tags: []
+
+## Nick Arner
+ - [https://nickarner.com](https://nickarner.com)
+ - date published: 2023-10-25T16:18:50.406162+00:00
+ - user: None
+ - tags: []
+
+## Nick Bostrom’s Home Page
+ - [https://nickbostrom.com](https://nickbostrom.com)
+ - date published: 2023-10-25T16:18:53.656941+00:00
+ - user: None
+ - tags: []
+
+## Projects by Nick Gravgaard
+ - [https://nickgravgaard.com](https://nickgravgaard.com)
+ - date published: 2023-10-27T11:55:26.819267+00:00
+ - user: None
+ - tags: []
+
+## From Development to Production — Nick Janetakis
+ - [https://nickjanetakis.com](https://nickjanetakis.com)
+ - date published: 2023-10-25T16:18:55.075225+00:00
+ - user: None
+ - tags: []
+
+## Front Page - Nick LaToof
+ - [https://www.nicklatoof.com](https://www.nicklatoof.com)
+ - date published: 2023-11-29T15:47:43.364763+00:00
+ - user: None
+ - tags: []
+
+## Nick Olinger's blog | Software Engineer
+ - [https://nickolinger.com](https://nickolinger.com)
+ - date published: 2023-10-25T16:19:01.749061+00:00
+ - user: None
+ - tags: []
+
+## The Cusp
+ - [https://nicksaraev.com](https://nicksaraev.com)
+ - date published: 2023-10-25T16:19:03.290919+00:00
+ - user: None
+ - tags: []
+
+## Nick Vitucci
+ - [https://nickvitucci.com](https://nickvitucci.com)
+ - date published: 2023-12-12T23:22:51.342722+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nick vs Networking | Telco Network Engineering
+ - [https://nickvsnetworking.com](https://nickvsnetworking.com)
+ - date published: 2023-10-25T16:19:06.491677+00:00
+ - user: None
+ - tags: []
+
+## Nicolas Bouliane
+ - [https://nicolasbouliane.com](https://nicolasbouliane.com)
+ - date published: 2023-10-25T16:19:07.747473+00:00
+ - user: None
+ - tags: []
+
+## Nicolas Bustamante | Substack
+ - [https://www.nicolasbustamante.com](https://www.nicolasbustamante.com)
+ - date published: 2023-10-25T16:19:09.861526+00:00
+ - user: None
+ - tags: []
+
+## Nicolas Collins
+ - [https://www.nicolascollins.com](https://www.nicolascollins.com)
+ - date published: 2023-10-25T16:19:16.764375+00:00
+ - user: None
+ - tags: []
+
+## Nicole Fu
+ - [https://nicolefu.com](https://nicolefu.com)
+ - date published: 2023-11-17T07:31:48.682236+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nicollet Investment Management
+ - [https://www.nicolletinvest.com](https://www.nicolletinvest.com)
+ - date published: 2023-10-25T16:19:18.473199+00:00
+ - user: None
+ - tags: []
+
+## nicolodavis.com
+ - [https://nicolodavis.com](https://nicolodavis.com)
+ - date published: 2023-10-25T16:19:20.241031+00:00
+ - user: None
+ - tags: []
+
+## Intelligent Investment Research - Nicoya Research
+ - [https://nicoyaresearch.com](https://nicoyaresearch.com)
+ - date published: 2023-10-25T16:19:22.899131+00:00
+ - user: None
+ - tags: []
+
+## Amanda Rose Gibson – Oregon Art Teacher – Portland Area
+ - [http://nicperry.com](http://nicperry.com)
+ - date published: 2023-11-29T14:24:08.326174+00:00
+ - user: None
+ - tags: ['personal']
+
+## nigamanth.com
+ - [https://www.nigamanth.com](https://www.nigamanth.com)
+ - date published: 2023-10-25T16:19:26.052125+00:00
+ - user: None
+ - tags: []
+
+## Nigel Rankin is coming soon
+ - [https://nigelrankin.com](https://nigelrankin.com)
+ - date published: 2023-12-02T10:26:29.150929+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://www.nigerienne-automobile.com](https://www.nigerienne-automobile.com)
+ - date published: 2023-12-11T15:57:45.781918+00:00
+ - user: None
+ - tags: []
+
+## Nightingale - Home
+ - [https://nightingaledvs.com](https://nightingaledvs.com)
+ - date published: 2023-10-25T16:19:50.390330+00:00
+ - user: None
+ - tags: []
+
+## NIGHTWISH :||: Official Website
+ - [https://www.nightwish.com](https://www.nightwish.com)
+ - date published: 2023-11-13T11:10:15.457559+00:00
+ - user: None
+ - tags: ['music band']
+
+## Artium Nihamkin's Blog
+ - [http://www.nihamkin.com](http://www.nihamkin.com)
+ - date published: 2023-10-25T16:19:55.061448+00:00
+ - user: None
+ - tags: []
+
+## nihar's page on the internet
+ - [https://nihars.com](https://nihars.com)
+ - date published: 2023-11-29T13:53:47.500938+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nihongo Lessons: Learn Japanese more efficiently than ever
+ - [https://lessons.nihongo-app.com](https://lessons.nihongo-app.com)
+ - date published: 2023-10-25T16:19:56.516233+00:00
+ - user: None
+ - tags: []
+
+## Nikkei Asia
+                            - Business, Politics, Economy and Tech News & Analysis
+ - [https://asia.nikkei.com](https://asia.nikkei.com)
+ - date published: 2023-10-25T10:41:13.768215+00:00
+ - user: None
+ - tags: []
+
+## https://info.asia.nikkei.com
+ - [https://info.asia.nikkei.com](https://info.asia.nikkei.com)
+ - date published: 2023-12-12T09:09:24.688480+00:00
+ - user: None
+ - tags: []
+
+## 日経マーケティングポータル | 日本経済新聞社のメディアマーケティング、ソリューションサービス
+ - [https://marketing.nikkei.com](https://marketing.nikkei.com)
+ - date published: 2023-12-12T09:08:25.578470+00:00
+ - user: None
+ - tags: []
+
+## https://promotion.asia.nikkei.com
+ - [https://promotion.asia.nikkei.com](https://promotion.asia.nikkei.com)
+ - date published: 2023-12-12T09:07:49.489535+00:00
+ - user: None
+ - tags: []
+
+## 日本経済新聞 - ニュース・速報 最新情報
+ - [https://s.nikkei.com](https://s.nikkei.com)
+ - date published: 2023-12-12T09:09:15.667163+00:00
+ - user: None
+ - tags: []
+
+## 日本経済新聞 - ニュース・速報 最新情報
+ - [https://www.nikkei.com](https://www.nikkei.com)
+ - date published: 2023-12-12T09:08:52.927246+00:00
+ - user: None
+ - tags: []
+
+## Niklas Bühler
+ - [https://www.niklasbuehler.com](https://www.niklasbuehler.com)
+ - date published: 2023-12-12T13:08:03.401175+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nikolai Vazquez
+ - [https://nikolaivazquez.com](https://nikolaivazquez.com)
+ - date published: 2023-10-25T08:47:21.833024+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Nikolas Bentel
  - [https://www.nikolasbentelstudio.com](https://www.nikolasbentelstudio.com)
  - date published: 2023-10-25T16:20:03.082094+00:00
  - user: None
  - tags: []
+
+## You always have a choice. – Nikolett
+ - [https://www.nikolett.com](https://www.nikolett.com)
+ - date published: 2023-12-13T20:59:14.600606+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Nikon’s Small World
  - [https://www.nikonsmallworld.com](https://www.nikonsmallworld.com)
@@ -1058,6 +1533,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## OnTableTop Store – Fast & Free Shipping, Games Workshop, Warhammer 40k  Age of Sigmar, Middle Earth, Paints and Brushes
+ - [https://store.ontabletop.com](https://store.ontabletop.com)
+ - date published: 2023-12-13T15:40:17.606865+00:00
+ - user: None
+ - tags: ['shop']
+
 ## On the Arts | Kiefer Kazimir | Substack
  - [https://onthearts.com](https://onthearts.com)
  - date published: 2023-10-25T16:26:11.576757+00:00
@@ -1563,11 +2044,59 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Become an Overwolf Alpha
+ - [https://alphas.overwolf.com](https://alphas.overwolf.com)
+ - date published: 2023-12-13T15:56:50.081121+00:00
+ - user: None
+ - tags: []
+
+## CurseForge Ideas
+ - [https://curseforge-ideas.overwolf.com](https://curseforge-ideas.overwolf.com)
+ - date published: 2023-12-13T15:57:17.333379+00:00
+ - user: None
+ - tags: []
+
+## https://download.overwolf.com
+ - [https://download.overwolf.com](https://download.overwolf.com)
+ - date published: 2023-12-13T16:03:05.172379+00:00
+ - user: None
+ - tags: []
+
+## Overwolf platform Ideas Portal
+ - [https://ideas.overwolf.com](https://ideas.overwolf.com)
+ - date published: 2023-12-13T15:57:10.879850+00:00
+ - user: None
+ - tags: []
+
+## Overwolf Support Help Center
+ - [https://support.overwolf.com](https://support.overwolf.com)
+ - date published: 2023-12-13T16:02:52.887164+00:00
+ - user: None
+ - tags: []
+
+## Overwolf | The guild of in-game creators
+ - [https://www.overwolf.com](https://www.overwolf.com)
+ - date published: 2023-12-13T16:02:25.163174+00:00
+ - user: None
+ - tags: []
+
 ## OVHcloud
  - [https://www.ovhcloud.com](https://www.ovhcloud.com)
  - date published: 2023-10-25T08:26:40.799882+00:00
  - user: None
  - tags: ['hosting service']
+
+## owehrens.com
+ - [https://owehrens.com](https://owehrens.com)
+ - date published: 2023-12-13T15:53:28.406704+00:00
+ - user: None
+ - tags: []
+
+## Home - Owen Young's Story
+ - [https://blog.owenyoung.com](https://blog.owenyoung.com)
+ - date published: 2023-12-13T11:22:49.498288+00:00
+ - user: None
+ - tags: ['personal']
 
 ## OBN | Hey, how are ya?
  - [https://www.owlbynight.com](https://www.owlbynight.com)
@@ -1830,12 +2359,6 @@ Answering Machine Greetings!
 ## Parand
  - [https://www.parand.com](https://www.parand.com)
  - date published: 2023-10-25T16:30:46.136740+00:00
- - user: None
- - tags: []
-
-## https://siteassets.parastorage.com
- - [https://siteassets.parastorage.com](https://siteassets.parastorage.com)
- - date published: 2023-12-11T16:57:21.336319+00:00
  - user: None
  - tags: []
 
@@ -2609,6 +3132,12 @@ Answering Machine Greetings!
  - date published: 2023-10-25T16:34:17.644739+00:00
  - user: None
  - tags: []
+
+## phpBB • Free and Open Source Forum Software
+ - [https://phpbb.com](https://phpbb.com)
+ - date published: 2023-12-13T16:04:04.243437+00:00
+ - user: None
+ - tags: ['selfhost']
 
 ## phpBB • Free and Open Source Forum Software
  - [https://www.phpbb.com](https://www.phpbb.com)
@@ -3576,6 +4105,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Home - Privateer Press
+ - [https://privateerpress.com](https://privateerpress.com)
+ - date published: 2023-12-13T15:38:41.524726+00:00
+ - user: None
+ - tags: []
+
 ## Private Internet Access: The #1 Best VPN Service For 10+ Years
  - [https://www.privateinternetaccess.com](https://www.privateinternetaccess.com)
  - date published: 2023-10-24T20:20:42.918262+00:00
@@ -3960,11 +4495,35 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## ATMA - PureDiablo
+ - [https://atma.purediablo.com](https://atma.purediablo.com)
+ - date published: 2023-12-13T16:11:18.939840+00:00
+ - user: None
+ - tags: []
+
+## Diablo 4 Wiki
+ - [https://diablo4.purediablo.com](https://diablo4.purediablo.com)
+ - date published: 2023-12-13T16:11:09.689395+00:00
+ - user: None
+ - tags: []
+
+## Diablo 4, Diablo 2, Wiki, Forums, News, Guides and more.
+ - [https://purediablo.com](https://purediablo.com)
+ - date published: 2023-12-13T16:10:55.678273+00:00
+ - user: None
+ - tags: []
+
 ## Diablo 4, Diablo 2, Wiki, Forums, News, Guides and more.
  - [https://www.purediablo.com](https://www.purediablo.com)
  - date published: 2023-10-25T11:09:49.721507+00:00
  - user: None
  - tags: []
+
+## Pure Xbox
+ - [https://www.purexbox.com](https://www.purexbox.com)
+ - date published: 2023-12-13T15:42:10.158947+00:00
+ - user: None
+ - tags: ['game news', 'xbox']
 
 ## Purple Hoisin - Exploring the Techy Arts
  - [https://purplehoisin.com](https://purplehoisin.com)
@@ -3987,6 +4546,12 @@ Answering Machine Greetings!
 ## Pushbullet Blog
  - [https://blog.pushbullet.com](https://blog.pushbullet.com)
  - date published: 2023-10-25T16:42:28.991402+00:00
+ - user: None
+ - tags: []
+
+## Push Square
+ - [https://www.pushsquare.com](https://www.pushsquare.com)
+ - date published: 2023-12-13T15:41:43.120881+00:00
  - user: None
  - tags: []
 
@@ -4319,6 +4884,12 @@ Answering Machine Greetings!
 ## QUINE Foundation Blog
  - [http://blog.quinefoundation.com](http://blog.quinefoundation.com)
  - date published: 2023-10-25T16:43:54.008176+00:00
+ - user: None
+ - tags: []
+
+## Quinn Keast
+ - [https://quinnkeast.com](https://quinnkeast.com)
+ - date published: 2023-12-13T14:53:05.050742+00:00
  - user: None
  - tags: []
 
@@ -4706,6 +5277,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## | rcanzlovar
+ - [https://rcanzlovar.com](https://rcanzlovar.com)
+ - date published: 2023-12-13T11:22:24.949802+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Redmond Channel Partner Home -- Redmond Channel Partner
  - [https://rcpmag.com](https://rcpmag.com)
  - date published: 2023-10-25T09:35:01.402813+00:00
@@ -5090,6 +5667,18 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## ReedPop UK - Webstore
+ - [https://store.reedpop.com](https://store.reedpop.com)
+ - date published: 2023-12-13T15:41:07.662450+00:00
+ - user: None
+ - tags: []
+
+## ReedPop
+ - [https://www.reedpop.com](https://www.reedpop.com)
+ - date published: 2023-12-13T15:42:06.555067+00:00
+ - user: None
+ - tags: []
+
 ## Reedsy • Your daily dose of writing, publishing and marketing advice
  - [https://blog.reedsy.com](https://blog.reedsy.com)
  - date published: 2023-10-25T16:48:51.747561+00:00
@@ -5348,6 +5937,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## https://retractionwatch.com
+ - [https://retractionwatch.com](https://retractionwatch.com)
+ - date published: 2023-12-13T03:59:08.828047+00:00
+ - user: None
+ - tags: []
+
 ## Retro Otaku - My nerdy video gaming soapbox...
  - [https://www.retro-otaku.com](https://www.retro-otaku.com)
  - date published: 2023-10-27T14:43:31.465677+00:00
@@ -5413,598 +6008,4 @@ Answering Machine Greetings!
  - date published: 2023-10-25T08:47:47.426248+00:00
  - user: None
  - tags: ['personal']
-
-## Retro Reverse Engineering · RetroReversing
- - [https://www.retroreversing.com](https://www.retroreversing.com)
- - date published: 2023-10-25T16:50:34.097785+00:00
- - user: None
- - tags: []
-
-## retrotechnology.com, retrotechnology.net
- - [https://www.retrotechnology.com](https://www.retrotechnology.com)
- - date published: 2023-10-25T08:47:48.567953+00:00
- - user: None
- - tags: ['personal']
-
-## Return to Monkey Island | Available now on PC, Nintendo Swtich, PS5, and Xbox S/X
- - [https://returntomonkeyisland.com](https://returntomonkeyisland.com)
- - date published: 2023-10-25T16:50:39.735294+00:00
- - user: None
- - tags: []
-
-## The Lord of the Rings: Return to Moria™
- - [https://www.returntomoria.com](https://www.returntomoria.com)
- - date published: 2023-10-25T13:56:54.054723+00:00
- - user: None
- - tags: ['tolkien']
-
-## Reuters | Breaking International News & Views
- - [https://www.reuters.com](https://www.reuters.com)
- - date published: 2023-10-25T10:38:41.639140+00:00
- - user: None
- - tags: []
-
-## International News Agency | Multimedia News Provider | Reuters
- - [https://www.reutersagency.com](https://www.reutersagency.com)
- - date published: 2023-10-25T16:50:47.197541+00:00
- - user: None
- - tags: []
-
-## Rev | AI Speech to Text Transcription Service
- - [https://www.rev.com](https://www.rev.com)
- - date published: 2023-11-27T13:30:27+00:00
- - user: rumpel
- - tags: ['artificial intelligence', 'transcript']
-
-## Home | Reverb Machine
- - [https://reverbmachine.com](https://reverbmachine.com)
- - date published: 2023-10-25T16:50:50.350568+00:00
- - user: None
- - tags: []
-
-## Reversemode
- - [https://www.reversemode.com](https://www.reversemode.com)
- - date published: 2023-10-25T16:50:52.011927+00:00
- - user: None
- - tags: []
-
-## Software Supply Chain Security & Threat Intelligence  | ReversingLabs
- - [https://www.reversinglabs.com](https://www.reversinglabs.com)
- - date published: 2023-10-25T16:50:55.808121+00:00
- - user: None
- - tags: []
-
-## Las Vegas News | Breaking News & Headlines | Las Vegas Review-Journal
- - [https://www.reviewjournal.com](https://www.reviewjournal.com)
- - date published: 2023-10-25T10:38:52.009999+00:00
- - user: None
- - tags: []
-
-## ReviewNB - Jupyter Notebook Code Reviews & Collaboration
- - [https://www.reviewnb.com](https://www.reviewnb.com)
- - date published: 2023-10-25T16:50:57.986129+00:00
- - user: None
- - tags: []
-
-## Revive Machines
- - [https://revive-machines.com](https://revive-machines.com)
- - date published: 2023-10-25T16:50:58.488773+00:00
- - user: None
- - tags: []
-
-## Revolut | All-in-one Finance App for your Money | Revolut
- - [https://www.revolut.com](https://www.revolut.com)
- - date published: 2023-10-25T14:49:03.844755+00:00
- - user: None
- - tags: ['banking']
-
-## https://blog.revolutionanalytics.com
- - [https://blog.revolutionanalytics.com](https://blog.revolutionanalytics.com)
- - date published: 2023-10-25T16:50:58.906287+00:00
- - user: None
- - tags: []
-
-## Hack Music Theory
- - [https://revolutionharmony.com](https://revolutionharmony.com)
- - date published: 2023-11-29T14:43:42.648215+00:00
- - user: None
- - tags: ['personal']
-
-## DJ Rewerb | Dein virtueller DJ Mentor mit Tipps zum DJing
- - [https://rewerb.com](https://rewerb.com)
- - date published: 2023-11-29T15:50:57.132805+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://www.rgj.com](https://www.rgj.com)
- - date published: 2023-11-21T18:14:02.751824+00:00
- - user: None
- - tags: []
-
-## Bug's Entrypoint
- - [https://blog.rgsilva.com](https://blog.rgsilva.com)
- - date published: 2023-12-02T15:51:16.421337+00:00
- - user: None
- - tags: []
-
-## Der integrierte internationale Technologiekonzern  | Rheinmetall
- - [https://www.rheinmetall.com](https://www.rheinmetall.com)
- - date published: 2023-10-25T16:51:08.413247+00:00
- - user: None
- - tags: []
-
-## Enterprise NoSQL Database | Scalable Database Solutions | Riak
- - [https://riak.com](https://riak.com)
- - date published: 2023-10-25T16:51:09.866070+00:00
- - user: None
- - tags: []
-
-## Ribbonfarm Studio | Venkatesh Rao | Substack
- - [https://studio.ribbonfarm.com](https://studio.ribbonfarm.com)
- - date published: 2023-10-25T16:51:12.705518+00:00
- - user: None
- - tags: []
-
-## ribbonfarm
- - [https://www.ribbonfarm.com](https://www.ribbonfarm.com)
- - date published: 2023-10-25T16:51:14.885911+00:00
- - user: None
- - tags: []
-
-## Ribbon Health partners with innovators across the healthcare ecosystem
- - [https://www.ribbonhealth.com](https://www.ribbonhealth.com)
- - date published: 2023-10-25T16:51:16.455485+00:00
- - user: None
- - tags: []
-
-## rand[om] - med ∩ ml
- - [https://ricardoanderegg.com](https://ricardoanderegg.com)
- - date published: 2023-10-25T16:51:16.979088+00:00
- - user: None
- - tags: []
-
-## Richard Towers | Home
- - [https://www.richard-towers.com](https://www.richard-towers.com)
- - date published: 2023-10-25T16:51:17.775661+00:00
- - user: None
- - tags: []
-
-## Bézier Curves - and the logic behind them | Richard Ekwonye
- - [https://blog.richardekwonye.com](https://blog.richardekwonye.com)
- - date published: 2023-10-25T16:51:18.543659+00:00
- - user: None
- - tags: []
-
-## https://richardthames.com
- - [https://richardthames.com](https://richardthames.com)
- - date published: 2023-12-02T10:25:48.205930+00:00
- - user: None
- - tags: ['personal']
-
-## Rich Gee High-Performance Coaching
- - [https://richgee.com](https://richgee.com)
- - date published: 2023-12-02T10:25:43.025735+00:00
- - user: None
- - tags: ['personal']
-
-## rick@console:/
- - [https://staging.rickconsole.com](https://staging.rickconsole.com)
- - date published: 2023-10-25T16:51:19.430482+00:00
- - user: None
- - tags: []
-
-## Rick Umali's Home Page
- - [https://rickumali.com](https://rickumali.com)
- - date published: 2023-12-03T15:55:26.247597+00:00
- - user: None
- - tags: []
-
-## Ride Report: The platform to manage mobility
- - [https://www.ridereport.com](https://www.ridereport.com)
- - date published: 2023-10-25T16:51:25.938785+00:00
- - user: None
- - tags: []
-
-## RIFE2 Framework : Full-stack, no-declaration, framework to quickly and effortlessly create web applications with modern Java.
- - [https://rife2.com](https://rife2.com)
- - date published: 2023-10-25T16:51:26.581095+00:00
- - user: None
- - tags: []
-
-## Riffusion
- - [https://www.riffusion.com](https://www.riffusion.com)
- - date published: 2023-10-25T16:51:27.329208+00:00
- - user: None
- - tags: []
-
-## Ken Shirriff's blog
- - [https://www.righto.com](https://www.righto.com)
- - date published: 2023-10-25T16:51:33.313104+00:00
- - user: None
- - tags: ['personal', 'blog']
-
-## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
- - [https://www.rigzone.com](https://www.rigzone.com)
- - date published: 2023-10-25T16:51:39.145136+00:00
- - user: None
- - tags: []
-
-## Rihanna - Rihanna
- - [https://www.rihannanow.com](https://www.rihannanow.com)
- - date published: 2023-11-13T10:35:34.882090+00:00
- - user: None
- - tags: ['music band']
-
-## Latest News from Rimac – Rimac Newsroom
- - [https://www.rimac-newsroom.com](https://www.rimac-newsroom.com)
- - date published: 2023-10-25T16:51:41.401391+00:00
- - user: None
- - tags: []
-
-## RimWorld - Sci-Fi Colony Sim
- - [https://rimworldgame.com](https://rimworldgame.com)
- - date published: 2023-10-25T16:51:42.834278+00:00
- - user: None
- - tags: []
-
-## Ring.com Status
- - [https://status.ring.com](https://status.ring.com)
- - date published: 2023-10-25T16:51:44.473538+00:00
- - user: None
- - tags: []
-
-## Ringer
- - [https://www.ringerhq.com](https://www.ringerhq.com)
- - date published: 2023-10-25T16:51:53.579899+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.riotimesonline.com](https://www.riotimesonline.com)
- - date published: 2023-12-06T19:21:30.188407+00:00
- - user: None
- - tags: []
-
-## Ripley's Believe It or Not! | Aquariums, Attractions, and Weird News
- - [https://www.ripleys.com](https://www.ripleys.com)
- - date published: 2023-10-25T16:51:58.390818+00:00
- - user: None
- - tags: []
-
-## Oven Career Opportunities
- - [https://oven.rippling-ats.com](https://oven.rippling-ats.com)
- - date published: 2023-10-25T16:51:59.432468+00:00
- - user: None
- - tags: []
-
-## Rishikesh Sreehari - Redefining Probabilities
- - [https://rishikeshs.com](https://rishikeshs.com)
- - date published: 2023-12-09T15:00:20.435644+00:00
- - user: None
- - tags: ['personal']
-
-## RisingWave: Open-Source Streaming Database
- - [https://www.risingwave.com](https://www.risingwave.com)
- - date published: 2023-10-25T16:52:03.481553+00:00
- - user: None
- - tags: []
-
-## RisingWave: Open-Source Streaming Database
- - [https://www.risingwave-labs.com](https://www.risingwave-labs.com)
- - date published: 2023-10-25T16:52:06.777687+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://www.riveducha.com](https://www.riveducha.com)
- - date published: 2023-10-25T16:52:07.967889+00:00
- - user: None
- - tags: []
-
-## St. Louis Riverfront Times
- - [https://www.riverfronttimes.com](https://www.riverfronttimes.com)
- - date published: 2023-11-03T11:36:25.413238+00:00
- - user: None
- - tags: []
-
-## RiverGlide Ideas
- - [https://ideas.riverglide.com](https://ideas.riverglide.com)
- - date published: 2023-10-25T16:52:12.023700+00:00
- - user: None
- - tags: []
-
-## Hammock-Led Engineering
- - [https://rlopzc.com](https://rlopzc.com)
- - date published: 2023-10-25T16:52:12.715133+00:00
- - user: None
- - tags: []
-
-## Custom Electronics, PWM Circuits, Induction Heating, and DIY Science Projects - RMCybernetics
- - [https://www.rmcybernetics.com](https://www.rmcybernetics.com)
- - date published: 2023-10-25T16:52:17.665472+00:00
- - user: None
- - tags: []
-
-## Bow Valley News - Powered by Rocky Mountain Outlook
- - [https://www.rmoutlook.com](https://www.rmoutlook.com)
- - date published: 2023-11-05T16:12:44.302581+00:00
- - user: None
- - tags: []
-
-## Road & Track: Auto News, Reviews, and Car Culture
- - [https://www.roadandtrack.com](https://www.roadandtrack.com)
- - date published: 2023-10-25T10:55:46.397695+00:00
- - user: None
- - tags: []
-
-## Road Less Tested
- - [https://roadlesstested.com](https://roadlesstested.com)
- - date published: 2023-11-29T17:15:06.571585+00:00
- - user: None
- - tags: ['personal']
-
-## Roads - Discover the Future of Audio
- - [https://roadsaudio.com](https://roadsaudio.com)
- - date published: 2023-10-25T16:52:18.699605+00:00
- - user: None
- - tags: []
-
-## Road to VR - Virtual Reality News
- - [https://www.roadtovr.com](https://www.roadtovr.com)
- - date published: 2023-12-06T11:04:13+00:00
- - user: rumpel
- - tags: ['tech news', 'virtual reality']
-
-## Roar Electra - Stranger in a Strange Band
- - [https://roarelectra.com](https://roarelectra.com)
- - date published: 2023-12-02T10:26:09.288449+00:00
- - user: None
- - tags: ['personal']
-
-## Robb Report – The Best Luxury Cars, Jets, Yachts, Travel, Watches
- - [https://robbreport.com](https://robbreport.com)
- - date published: 2023-10-25T16:52:27.034462+00:00
- - user: None
- - tags: []
-
-## Rob Cubbon
- - [https://robcubbon.com](https://robcubbon.com)
- - date published: 2023-12-12T08:09:27.153050+00:00
- - user: None
- - tags: ['personal']
-
-## Robel Yemane
- - [https://robelyemane.com](https://robelyemane.com)
- - date published: 2023-11-29T15:51:07.676620+00:00
- - user: None
- - tags: ['personal']
-
-## RoberDam.com
- - [https://roberdam.com](https://roberdam.com)
- - date published: 2023-10-25T16:52:36.682376+00:00
- - user: None
- - tags: []
-
-## Robert Cazacu - Game Developer
- - [https://www.robertcazacu.com](https://www.robertcazacu.com)
- - date published: 2023-11-29T16:22:52.591993+00:00
- - user: None
- - tags: ['personal']
-
-## Robert Heaton
- - [https://robertheaton.com](https://robertheaton.com)
- - date published: 2023-10-25T16:52:38.686002+00:00
- - user: None
- - tags: []
-
-## Robert Kennedy III – | Your Words Deserve To Be Heard
- - [https://www.robertkennedy3.com](https://www.robertkennedy3.com)
- - date published: 2023-11-29T16:20:35.874809+00:00
- - user: None
- - tags: ['personal']
-
-## All posts
- - [https://robertovitillo.com](https://robertovitillo.com)
- - date published: 2023-10-30T18:59:37.293132+00:00
- - user: None
- - tags: []
-
-## Roberts Space Industries | Follow the development of Star Citizen and Squadron 42
- - [https://robertsspaceindustries.com](https://robertsspaceindustries.com)
- - date published: 2023-10-25T16:52:40.913384+00:00
- - user: None
- - tags: []
-
-## Robert Wojciechowski - 3D Motion Designer & Art Director
- - [https://robertvoy.com](https://robertvoy.com)
- - date published: 2023-11-29T17:09:42.313119+00:00
- - user: None
- - tags: ['personal']
-
-## Robert Pearce
- - [https://robertwpearce.com](https://robertwpearce.com)
- - date published: 2023-10-25T16:52:43.442261+00:00
- - user: None
- - tags: []
-
-## Redirecting…
- - [https://robhaisfield.com](https://robhaisfield.com)
- - date published: 2023-10-25T16:52:48.799236+00:00
- - user: None
- - tags: []
-
-## GB Renewables Map
- - [https://renewables-map.robinhawkes.com](https://renewables-map.robinhawkes.com)
- - date published: 2023-10-25T16:52:49.273771+00:00
- - user: None
- - tags: []
-
-## Robin Linacre's blog
- - [https://www.robinlinacre.com](https://www.robinlinacre.com)
- - date published: 2023-10-25T16:52:50.526236+00:00
- - user: None
- - tags: []
-
-## Robin Métral
- - [https://robinmetral.com](https://robinmetral.com)
- - date published: 2023-10-25T16:52:51.045669+00:00
- - user: None
- - tags: []
-
-## Robin Rendle — Designer and writer.
- - [https://www.robinrendle.com](https://www.robinrendle.com)
- - date published: 2023-10-25T16:52:55.330889+00:00
- - user: None
- - tags: []
-
-## Robin Sloan
- - [https://www.robinsloan.com](https://www.robinsloan.com)
- - date published: 2023-10-25T16:52:56.469800+00:00
- - user: None
- - tags: []
-
-## Home | Robin Wils's website
- - [https://www.robinwils.com](https://www.robinwils.com)
- - date published: 2023-11-29T16:21:45.198386+00:00
- - user: None
- - tags: ['personal']
-
-## Rob Henderson's Newsletter | Substack
- - [https://www.robkhenderson.com](https://www.robkhenderson.com)
- - date published: 2023-10-25T16:52:59.118312+00:00
- - user: None
- - tags: []
-
-## Roblox Blog - All the latest news direct from Roblox employees.
- - [https://blog.roblox.com](https://blog.roblox.com)
- - date published: 2023-10-25T16:53:01.002506+00:00
- - user: None
- - tags: []
-
-## Roblox
- - [https://roblox.com](https://roblox.com)
- - date published: 2023-10-25T11:09:56.980219+00:00
- - user: None
- - tags: ['game']
-
-## Robo News From RoboDaily.Com
- - [https://www.robodaily.com](https://www.robodaily.com)
- - date published: 2023-10-25T16:53:03.982109+00:00
- - user: None
- - tags: []
-
-## Roboflow Blog
- - [https://blog.roboflow.com](https://blog.roboflow.com)
- - date published: 2023-10-25T16:53:06.727936+00:00
- - user: None
- - tags: []
-
-## Roboflow: Give your software the power to see objects in images and video
- - [https://roboflow.com](https://roboflow.com)
- - date published: 2023-10-25T16:53:10.075984+00:00
- - user: None
- - tags: []
-
-## Robotics & Automation News
- - [https://roboticsandautomationnews.com](https://roboticsandautomationnews.com)
- - date published: 2023-10-28T20:26:19.183824+00:00
- - user: None
- - tags: ['tech news', 'science news']
-
-## Robotistan | Elektronik Malzeme Marketi Online Satış
- - [https://www.robotistan.com](https://www.robotistan.com)
- - date published: 2023-10-28T20:23:27.625647+00:00
- - user: None
- - tags: []
-
-## Robots In Plain English
- - [https://robotsinplainenglish.com](https://robotsinplainenglish.com)
- - date published: 2023-10-25T16:53:16.564590+00:00
- - user: None
- - tags: []
-
-## Rob Zombie | The Official Rob Zombie Website
- - [https://www.robzombie.com](https://www.robzombie.com)
- - date published: 2023-11-13T10:44:05.077165+00:00
- - user: None
- - tags: ['music band']
-
-## Roche - Doing now what patients need next
- - [https://www.roche.com](https://www.roche.com)
- - date published: 2023-10-25T11:28:31.400112+00:00
- - user: None
- - tags: []
-
-## Rock and Null
- - [https://www.rockandnull.com](https://www.rockandnull.com)
- - date published: 2023-10-25T09:35:02.949216+00:00
- - user: None
- - tags: []
-
-## Rocket 9 Labs
- - [https://rocket9labs.com](https://rocket9labs.com)
- - date published: 2023-10-25T09:26:03.860837+00:00
- - user: None
- - tags: ['personal']
-
-## Rock Paper Shotgun
- - [https://www.rockpapershotgun.com](https://www.rockpapershotgun.com)
- - date published: 2023-10-25T10:50:04.819629+00:00
- - user: None
- - tags: []
-
-## Rockstar Games
- - [https://www.rockstargames.com](https://www.rockstargames.com)
- - date published: 2023-10-25T11:28:32.034616+00:00
- - user: None
- - tags: ['company', 'grand theft auto', 'red dead redemption']
-
-## Rocksteady | Creators of the Arkham franchise
- - [https://rocksteadyltd.com](https://rocksteadyltd.com)
- - date published: 2023-11-27T12:52:26+00:00
- - user: rumpel
- - tags: ['game studio', 'batman']
-
-## Rocky Bergen
- - [https://rockybergen.com](https://rockybergen.com)
- - date published: 2023-10-25T16:53:25.983733+00:00
- - user: None
- - tags: []
-
-## RODAKpress - niepoprawny politycznie magazyn internetowy Ruchu Rodaków - mieszkańców świata
- - [http://www.rodaknet.com](http://www.rodaknet.com)
- - date published: 2023-10-25T16:53:30.195626+00:00
- - user: None
- - tags: []
-
-## Rodney Brooks – Robots, AI, and other stuff
- - [https://rodneybrooks.com](https://rodneybrooks.com)
- - date published: 2023-10-25T16:53:31.841027+00:00
- - user: None
- - tags: []
-
-## Home - Rodrigo Tassinari
- - [https://rodrigotassinari.com](https://rodrigotassinari.com)
- - date published: 2023-11-29T18:20:49.678962+00:00
- - user: None
- - tags: ['personal']
-
-## Jason Rodriguez
- - [https://rodriguezcommaj.com](https://rodriguezcommaj.com)
- - date published: 2023-10-25T08:47:49.289045+00:00
- - user: None
- - tags: ['personal']
-
-## Movie reviews and ratings by Film Critic Roger Ebert | Roger Ebert
- - [https://www.rogerebert.com](https://www.rogerebert.com)
- - date published: 2023-10-27T14:18:10.449564+00:00
- - user: None
- - tags: ['movies']
-
-## Roger Schank
- - [https://www.rogerschank.com](https://www.rogerschank.com)
- - date published: 2023-10-25T16:53:33.728783+00:00
- - user: None
- - tags: []
 

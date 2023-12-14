@@ -59,18 +59,6 @@
  - tags: []
 
 ## None
- - [https://www.redd](https://www.redd)
- - date published: 2023-12-06T17:43:29.028041+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www](https://www)
- - date published: 2023-12-06T17:48:06.703962+00:00
- - user: None
- - tags: []
-
-## None
  - [http://musecdn.businesscatalyst.com](http://musecdn.businesscatalyst.com)
  - date published: 2023-12-11T16:10:40.270068+00:00
  - user: None
@@ -111,6 +99,12 @@
  - date published: 2023-12-11T17:01:19.811311+00:00
  - user: None
  - tags: []
+
+## Kristiania
+ - [https://kristiania.no.](https://kristiania.no.)
+ - date published: 2023-12-13T11:22:44.862076+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Sort: Supercharged collaboration for your database
  - [https://sort.xyz.](https://sort.xyz.)
@@ -2488,6 +2482,12 @@
  - user: None
  - tags: []
 
+## Coming Soon – Acid Media
+ - [https://acidmedia.com.au](https://acidmedia.com.au)
+ - date published: 2023-12-13T15:36:48.038751+00:00
+ - user: None
+ - tags: []
+
 ## Australian Geographic -
  - [https://www.australiangeographic.com.au](https://www.australiangeographic.com.au)
  - date published: 2023-10-25T11:54:05.753030+00:00
@@ -2593,6 +2593,12 @@
 ## Penguin Books Australia
  - [https://www.penguin.com.au](https://www.penguin.com.au)
  - date published: 2023-11-13T17:27:35.903796+00:00
+ - user: None
+ - tags: []
+
+## Pinterest
+ - [https://www.pinterest.com.au](https://www.pinterest.com.au)
+ - date published: 2023-12-13T15:37:17.225181+00:00
  - user: None
  - tags: []
 
@@ -2767,6 +2773,12 @@
 ## The University of Western Australia - Seek wisdom with a leading university for employability
  - [https://www.uwa.edu.au](https://www.uwa.edu.au)
  - date published: 2023-10-25T11:57:20.643330+00:00
+ - user: None
+ - tags: []
+
+## Home | Western Sydney University
+ - [https://www.westernsydney.edu.au](https://www.westernsydney.edu.au)
+ - date published: 2023-12-13T23:33:27.899804+00:00
  - user: None
  - tags: []
 
@@ -3226,6 +3238,12 @@
  - date published: 2023-11-01T08:41:26.691929+00:00
  - user: None
  - tags: []
+
+## Fabric Of Happiness
+ - [https://fabricofhappiness.blog](https://fabricofhappiness.blog)
+ - date published: 2023-12-13T06:04:10.402537+00:00
+ - user: None
+ - tags: ['personal']
 
 ## The Firebase Blog
  - [https://firebase.blog](https://firebase.blog)
@@ -4241,6 +4259,12 @@
  - user: None
  - tags: []
 
+## MotherFrunker
+ - [https://motherfrunker.ca](https://motherfrunker.ca)
+ - date published: 2023-12-13T11:42:43.612748+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Mina Naguib
  - [https://mina.naguib.ca](https://mina.naguib.ca)
  - date published: 2023-10-25T09:02:42.738096+00:00
@@ -4457,6 +4481,12 @@
  - user: None
  - tags: []
 
+## People - Department of Electrical and Computer Engineering
+ - [https://people.ece.ubc.ca](https://people.ece.ubc.ca)
+ - date published: 2023-12-13T16:52:05.782654+00:00
+ - user: None
+ - tags: []
+
 ## University of Calgary
  - [https://ucalgary.ca](https://ucalgary.ca)
  - date published: 2023-10-25T12:08:42.919794+00:00
@@ -4484,6 +4514,12 @@
 ## Home | University of Ottawa
  - [https://www.uottawa.ca](https://www.uottawa.ca)
  - date published: 2023-12-01T11:39:31.990444+00:00
+ - user: None
+ - tags: []
+
+## https://utcc.utoronto.ca
+ - [https://utcc.utoronto.ca](https://utcc.utoronto.ca)
+ - date published: 2023-12-13T01:37:35.107341+00:00
  - user: None
  - tags: []
 
@@ -5514,6 +5550,12 @@
  - user: None
  - tags: []
 
+## What I’m doing now | Chris Cruz
+ - [https://chriscruz.co](https://chriscruz.co)
+ - date published: 2023-12-13T11:23:23.455194+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Clean Energy Revolution - Clean energy news about solar, electric vehicles and battery storage
  - [https://cleanenergyrevolution.co](https://cleanenergyrevolution.co)
  - date published: 2023-10-25T12:17:29.597536+00:00
@@ -5796,6 +5838,12 @@
  - user: None
  - tags: ['substack']
 
+## Nick Allen - Marketing, Growth & Running
+ - [https://nickwallen.co](https://nickwallen.co)
+ - date published: 2023-12-13T06:03:37.050724+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Not Boring by Packy McCormick | Substack
  - [https://www.notboring.co](https://www.notboring.co)
  - date published: 2023-10-25T12:20:07.539847+00:00
@@ -5949,54 +5997,6 @@
 ## SkyPilot Blog
  - [https://blog.skypilot.co](https://blog.skypilot.co)
  - date published: 2023-10-25T08:35:15.483097+00:00
- - user: None
- - tags: []
-
-## Small Bets Newsletter | Daniel Vassallo | Substack
- - [https://newsletter.smallbets.co](https://newsletter.smallbets.co)
- - date published: 2023-10-25T12:22:16.414825+00:00
- - user: None
- - tags: []
-
-## Marketing Consultant Las Vegas, NV | Crush Your Competition
- - [https://sociallaunch.co](https://sociallaunch.co)
- - date published: 2023-11-29T17:05:59.384418+00:00
- - user: None
- - tags: ['personal']
-
-## Data Visualization
- - [https://socviz.co](https://socviz.co)
- - date published: 2023-10-25T12:22:20.001924+00:00
- - user: None
- - tags: []
-
-## Spotta | Smart Insect Monitoring as a Service
- - [https://www.spotta.co](https://www.spotta.co)
- - date published: 2023-10-25T12:22:25.066866+00:00
- - user: None
- - tags: []
-
-## SpyTalk | Jeff Stein | Substack
- - [https://www.spytalk.co](https://www.spytalk.co)
- - date published: 2023-10-25T09:39:56.063632+00:00
- - user: None
- - tags: ['substack']
-
-## Empowering the world to develop technology through collective knowledge - Stack Overflow
- - [https://stackoverflow.co](https://stackoverflow.co)
- - date published: 2023-10-25T12:22:28.315909+00:00
- - user: None
- - tags: []
-
-## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
- - [https://stateofthenation.co](https://stateofthenation.co)
- - date published: 2023-10-25T12:23:13.580451+00:00
- - user: None
- - tags: []
-
-## t.co / Twitter
- - [https://t.co](https://t.co)
- - date published: 2023-12-11T16:23:00.287075+00:00
  - user: None
  - tags: []
 

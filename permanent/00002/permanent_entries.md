@@ -1,3 +1,129 @@
+## pts.blog
+ - [https://ptspts.blogspot.com](https://ptspts.blogspot.com)
+ - date published: 2023-10-25T09:10:29.527000+00:00
+ - user: None
+ - tags: ['personal']
+
+## Python Software Foundation News
+ - [https://pyfound.blogspot.com](https://pyfound.blogspot.com)
+ - date published: 2023-10-25T09:10:33.540585+00:00
+ - user: None
+ - tags: ['personal']
+
+## Python Africa
+ - [https://pythonafrica.blogspot.com](https://pythonafrica.blogspot.com)
+ - date published: 2023-12-06T11:29:44.047900+00:00
+ - user: None
+ - tags: []
+
+## Python Insider
+ - [https://pythoninsider.blogspot.com](https://pythoninsider.blogspot.com)
+ - date published: 2023-10-25T09:10:39.347997+00:00
+ - user: None
+ - tags: ['personal']
+
+## Public Rants
+ - [https://recursive-public-rants.blogspot.com](https://recursive-public-rants.blogspot.com)
+ - date published: 2023-10-25T09:10:45.681581+00:00
+ - user: None
+ - tags: ['personal']
+
+## Richard Geldreich's Blog
+ - [https://richg42.blogspot.com](https://richg42.blogspot.com)
+ - date published: 2023-10-25T09:10:49.721564+00:00
+ - user: None
+ - tags: ['personal']
+
+## Poemas del río Wang
+ - [https://riowang.blogspot.com](https://riowang.blogspot.com)
+ - date published: 2023-10-25T09:17:38.044539+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Splintered Mind
+ - [https://schwitzsplinters.blogspot.com](https://schwitzsplinters.blogspot.com)
+ - date published: 2023-10-25T09:17:44.221645+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Science Unicorn
+ - [https://scienceunicorn.blogspot.com](https://scienceunicorn.blogspot.com)
+ - date published: 2023-10-25T09:17:47.984805+00:00
+ - user: None
+ - tags: ['personal']
+
+## Blobs in Games
+ - [https://simblob.blogspot.com](https://simblob.blogspot.com)
+ - date published: 2023-10-25T09:17:52.514335+00:00
+ - user: None
+ - tags: ['personal']
+
+## smackeyacky
+ - [https://smackeyacky.blogspot.com](https://smackeyacky.blogspot.com)
+ - date published: 2023-10-25T09:17:55.345473+00:00
+ - user: None
+ - tags: ['personal']
+
+## Small Datum
+ - [https://smalldatum.blogspot.com](https://smalldatum.blogspot.com)
+ - date published: 2023-10-25T09:18:01.254095+00:00
+ - user: None
+ - tags: ['personal']
+
+## No Shortage of Dreams
+ - [https://spaceflighthistory.blogspot.com](https://spaceflighthistory.blogspot.com)
+ - date published: 2023-10-25T09:18:07.149723+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nick Brown's blog
+ - [https://steamtraen.blogspot.com](https://steamtraen.blogspot.com)
+ - date published: 2023-10-25T09:18:13.991557+00:00
+ - user: None
+ - tags: ['personal']
+
+## Stevey's Blog Rants
+ - [https://steve-yegge.blogspot.com](https://steve-yegge.blogspot.com)
+ - date published: 2023-10-25T09:18:17.413852+00:00
+ - user: None
+ - tags: ['personal']
+
+## Tertulia Moderna
+ - [https://tertulia-moderna.blogspot.com](https://tertulia-moderna.blogspot.com)
+ - date published: 2023-10-25T09:18:22.137314+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Little Engineer That Could
+ - [https://thelittleengineerthatcould.blogspot.com](https://thelittleengineerthatcould.blogspot.com)
+ - date published: 2023-10-25T09:18:26.159190+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Programmer's Paradox
+ - [https://theprogrammersparadox.blogspot.com](https://theprogrammersparadox.blogspot.com)
+ - date published: 2023-10-25T09:18:30.860433+00:00
+ - user: None
+ - tags: ['personal']
+
+## Tzvetan Mikov's Blog
+ - [https://tmikov.blogspot.com](https://tmikov.blogspot.com)
+ - date published: 2023-10-25T13:06:10.222159+00:00
+ - user: None
+ - tags: []
+
+## The TOF Spot
+ - [https://tofspot.blogspot.com](https://tofspot.blogspot.com)
+ - date published: 2023-10-25T13:06:25.038835+00:00
+ - user: None
+ - tags: []
+
+## ToughSF
+ - [https://toughsf.blogspot.com](https://toughsf.blogspot.com)
+ - date published: 2023-11-03T17:54:13.927813+00:00
+ - user: None
+ - tags: []
+
 ## Understanding Society
  - [https://understandingsociety.blogspot.com](https://understandingsociety.blogspot.com)
  - date published: 2023-10-25T09:18:50.492120+00:00
@@ -196,6 +322,12 @@
  - user: None
  - tags: []
 
+## BloombergNEF
+ - [https://about.bnef.com](https://about.bnef.com)
+ - date published: 2023-12-13T20:11:56.498161+00:00
+ - user: None
+ - tags: []
+
 ## BNO News - Breaking News, Developing Stories, Latest News Videos
  - [https://bnonews.com](https://bnonews.com)
  - date published: 2023-10-25T10:37:15.012724+00:00
@@ -274,6 +406,12 @@
  - user: None
  - tags: []
 
+## https://www.bolterandchainsword.com
+ - [https://www.bolterandchainsword.com](https://www.bolterandchainsword.com)
+ - date published: 2023-12-13T15:37:57.939081+00:00
+ - user: None
+ - tags: ['warhammer', 'miniatures', 'wargames']
+
 ## Mac Backup Software | Carbon Copy Cloner | Bombich Software
  - [https://bombich.com](https://bombich.com)
  - date published: 2023-10-25T13:07:42.727697+00:00
@@ -303,6 +441,12 @@
  - date published: 2023-10-25T13:07:58.529699+00:00
  - user: None
  - tags: []
+
+## Boodaism
+ - [https://boodaism.com](https://boodaism.com)
+ - date published: 2023-12-13T06:05:24.808329+00:00
+ - user: None
+ - tags: ['personal']
 
 ## BookFilter
  - [https://www.book-filter.com](https://www.book-filter.com)
@@ -523,6 +667,12 @@
 ## Coding – Software is hard
  - [https://blog.brakmic.com](https://blog.brakmic.com)
  - date published: 2023-10-25T13:10:31.279948+00:00
+ - user: None
+ - tags: []
+
+## Bram’s Thoughts | Bram Cohen | Substack
+ - [https://bramcohen.com](https://bramcohen.com)
+ - date published: 2023-12-13T23:14:28.783742+00:00
  - user: None
  - tags: []
 
@@ -3579,6 +3729,12 @@
  - user: None
  - tags: []
 
+## COOKING ON A BOOTSTRAP
+ - [https://cookingonabootstrap.com](https://cookingonabootstrap.com)
+ - date published: 2023-12-13T16:11:34.309090+00:00
+ - user: None
+ - tags: []
+
 ## Cookin' With Coolio – It's Goin' On In The Kitchen
  - [https://cookinwithcoolio.com](https://cookinwithcoolio.com)
  - date published: 2023-11-15T01:22:37.164230+00:00
@@ -4131,6 +4287,18 @@
  - user: None
  - tags: ['game engine']
 
+## Show HN: Advent of Distributed Systems
+ - [https://aods.cryingpotato.com](https://aods.cryingpotato.com)
+ - date published: 2023-12-12T14:38:13+00:00
+ - user: None
+ - tags: []
+
+## Cannon
+ - [https://cannon.cryingpotato.com](https://cannon.cryingpotato.com)
+ - date published: 2023-12-13T05:58:38.068812+00:00
+ - user: None
+ - tags: []
+
 ## Crypto Bulls Club - Crypto News, Reviews, Guides and Updates
  - [https://cryptobullsclub.com](https://cryptobullsclub.com)
  - date published: 2023-10-25T13:37:35.155055+00:00
@@ -4306,6 +4474,36 @@
  - user: None
  - tags: []
 
+## https://authors.curseforge.com
+ - [https://authors.curseforge.com](https://authors.curseforge.com)
+ - date published: 2023-12-13T16:03:22.878003+00:00
+ - user: None
+ - tags: []
+
+## CurseForge for Studios - Add safe UGC to your game
+ - [https://core.curseforge.com](https://core.curseforge.com)
+ - date published: 2023-12-13T15:56:59.490682+00:00
+ - user: None
+ - tags: []
+
+## https://curseforge.com
+ - [https://curseforge.com](https://curseforge.com)
+ - date published: 2023-12-13T16:03:11.592924+00:00
+ - user: None
+ - tags: []
+
+## https://elerium-static.curseforge.com
+ - [https://elerium-static.curseforge.com](https://elerium-static.curseforge.com)
+ - date published: 2023-12-13T16:02:28.165990+00:00
+ - user: None
+ - tags: []
+
+## CurseForge Support
+ - [https://support.curseforge.com](https://support.curseforge.com)
+ - date published: 2023-12-13T16:02:43.598069+00:00
+ - user: None
+ - tags: []
+
 ## https://www.curseforge.com
  - [https://www.curseforge.com](https://www.curseforge.com)
  - date published: 2023-10-25T11:16:22.703970+00:00
@@ -4438,9 +4636,21 @@
  - user: None
  - tags: ['diablo']
 
+## Maximum Stats on Items - Diablo 3: Reaper of Souls - D3 Max Stats
+ - [https://www.d3maxstats.com](https://www.d3maxstats.com)
+ - date published: 2023-12-13T16:21:35.452239+00:00
+ - user: None
+ - tags: []
+
 ## Diablo 3 Resources
  - [https://d3resource.com](https://d3resource.com)
  - date published: 2023-10-25T11:08:36.624986+00:00
+ - user: None
+ - tags: []
+
+## https://d3sanctuary.com
+ - [https://d3sanctuary.com](https://d3sanctuary.com)
+ - date published: 2023-12-13T16:21:58.317851+00:00
  - user: None
  - tags: []
 
@@ -4720,6 +4930,12 @@
  - user: None
  - tags: []
 
+## Danny van Kooten
+ - [https://dannyvankooten.com](https://dannyvankooten.com)
+ - date published: 2023-12-13T20:58:39.281836+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Dan Slimmon – Evidence-oriented SRE
  - [https://blog.danslimmon.com](https://blog.danslimmon.com)
  - date published: 2023-10-25T13:43:11.268220+00:00
@@ -4779,6 +4995,12 @@
  - date published: 2023-10-25T13:43:28.176592+00:00
  - user: None
  - tags: []
+
+## Data Science Project – Becoming a Data Scientist
+ - [https://data-science-project.com](https://data-science-project.com)
+ - date published: 2023-12-13T11:23:39.553811+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Free Online Database Diagram Tool
  - [https://databasediagram.com](https://databasediagram.com)
@@ -5392,6 +5614,12 @@
  - user: None
  - tags: []
 
+## Dennis Stoelwinder | Decoding What Makes Us Human
+ - [https://dennisstoelwinder.com](https://dennisstoelwinder.com)
+ - date published: 2023-12-13T20:58:34.316192+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Deno, The next-generation JavaScript runtime
  - [https://deno.com](https://deno.com)
  - date published: 2023-10-25T13:49:13.631224+00:00
@@ -5461,6 +5689,12 @@
 ## designboom magazine | your first source for architecture, design & art news
  - [https://www.designboom.com](https://www.designboom.com)
  - date published: 2023-10-25T13:50:14.647949+00:00
+ - user: None
+ - tags: []
+
+## Graphic Tees, Cool T Shirt Designs For Men And Women - DesignByHumans
+ - [https://www.designbyhumans.com](https://www.designbyhumans.com)
+ - date published: 2023-12-13T15:37:22.113867+00:00
  - user: None
  - tags: []
 
@@ -5596,9 +5830,39 @@
  - user: None
  - tags: []
 
+## Diablo III
+ - [https://eu.diablo3.com](https://eu.diablo3.com)
+ - date published: 2023-12-13T16:05:43.392323+00:00
+ - user: None
+ - tags: []
+
+## Diablo 3 Gem Calculator
+ - [https://www.diablo3gemcalculator.com](https://www.diablo3gemcalculator.com)
+ - date published: 2023-12-13T16:24:42.861001+00:00
+ - user: None
+ - tags: []
+
+## DiabloFans
+ - [https://diablofans.com](https://diablofans.com)
+ - date published: 2023-12-13T16:24:32.064227+00:00
+ - user: None
+ - tags: []
+
 ## DiabloFans
  - [https://www.diablofans.com](https://www.diablofans.com)
  - date published: 2023-10-25T11:33:40.789530+00:00
+ - user: None
+ - tags: []
+
+## DiabloNext
+ - [https://www.diablonext.com](https://www.diablonext.com)
+ - date published: 2023-12-13T16:15:25.367889+00:00
+ - user: None
+ - tags: []
+
+## Greater Rift Solo ::  DiabloProgress - Diablo 3 Rankings
+ - [https://www.diabloprogress.com](https://www.diabloprogress.com)
+ - date published: 2023-12-13T16:22:21.729613+00:00
  - user: None
  - tags: []
 
@@ -5743,270 +6007,6 @@
 ## DigitalOcean Feedback
  - [https://ideas.digitalocean.com](https://ideas.digitalocean.com)
  - date published: 2023-10-25T13:52:36.693475+00:00
- - user: None
- - tags: []
-
-## DigitalOcean | Cloud Hosting for Builders
- - [https://www.digitalocean.com](https://www.digitalocean.com)
- - date published: 2023-10-25T13:52:44.274850+00:00
- - user: None
- - tags: []
-
-## Digital Spy  - TV, Movies and Entertainment News
- - [https://www.digitalspy.com](https://www.digitalspy.com)
- - date published: 2023-10-27T13:14:15.948159+00:00
- - user: None
- - tags: ['entertainment news']
-
-## Digital Trends | Tech News, Reviews, Deals, and How-To's
- - [https://www.digitaltrends.com](https://www.digitaltrends.com)
- - date published: 2023-10-25T09:32:46.421308+00:00
- - user: None
- - tags: []
-
-## Dignity Memorial - Funeral Homes, Cremation and Cemeteries
- - [https://www.dignitymemorial.com](https://www.dignitymemorial.com)
- - date published: 2023-10-25T13:52:51.028566+00:00
- - user: None
- - tags: []
-
-## Diigo -  Better reading and research with annotation, highlighter, sticky notes, archiving, bookmarking & more.
- - [https://www.diigo.com](https://www.diigo.com)
- - date published: 2023-11-26T16:44:37+00:00
- - user: rumpel
- - tags: ['bookmark manager']
-
-## Dilbert.com
- - [https://dilbert.com](https://dilbert.com)
- - date published: 2023-10-27T13:15:36.746639+00:00
- - user: None
- - tags: ['comics']
-
-## Dinosaur Dracula!
- - [https://dinosaurdracula.com](https://dinosaurdracula.com)
- - date published: 2023-11-04T08:51:31.090289+00:00
- - user: None
- - tags: []
-
-## Diora
- - [https://dioragame.com](https://dioragame.com)
- - date published: 2023-10-25T13:52:51.753427+00:00
- - user: None
- - tags: []
-
-## Dioxus | An elegant GUI library for Rust
- - [https://dioxuslabs.com](https://dioxuslabs.com)
- - date published: 2023-10-25T13:52:52.991858+00:00
- - user: None
- - tags: []
-
-## dan goods
- - [https://www.directedplay.com](https://www.directedplay.com)
- - date published: 2023-10-25T13:52:55.965582+00:00
- - user: None
- - tags: []
-
-## Optimize Your IT Decisions | Directions on Microsoft
- - [https://www.directionsonmicrosoft.com](https://www.directionsonmicrosoft.com)
- - date published: 2023-10-25T13:52:59.308239+00:00
- - user: None
- - tags: []
-
-## Job Search | DirectlyApply
- - [https://directlyapply.com](https://directlyapply.com)
- - date published: 2023-11-07T16:06:41.136104+00:00
- - user: None
- - tags: []
-
-## Dirk Riehle's Industry and Research Publications – Research publications and comments on the software industry, open source, and inner source
- - [https://dirkriehle.com](https://dirkriehle.com)
- - date published: 2023-10-25T13:53:06.633274+00:00
- - user: None
- - tags: []
-
-## Funds
- - [https://disciplinefunds.com](https://disciplinefunds.com)
- - date published: 2023-11-25T23:11:03.290494+00:00
- - user: None
- - tags: []
-
-## Discogs - Music Database and Marketplace
- - [https://www.discogs.com](https://www.discogs.com)
- - date published: 2023-12-11T15:37:43.974377+00:00
- - user: None
- - tags: []
-
-## Discord Blog
- - [https://blog.discord.com](https://blog.discord.com)
- - date published: 2023-10-25T13:53:10.606484+00:00
- - user: None
- - tags: []
-
-## Discord | Your Place to Talk and Hang Out
- - [https://discord.com](https://discord.com)
- - date published: 2023-10-24T20:15:10.314013+00:00
- - user: None
- - tags: ['social communicator', 'gatekeeper']
-
-## Discord | Your Place to Talk and Hang Out
- - [https://discordapp.com](https://discordapp.com)
- - date published: 2023-10-24T20:12:30.610788+00:00
- - user: None
- - tags: []
-
-## Discourse  | The Mercatus Center | Substack
- - [https://www.discoursemagazine.com](https://www.discoursemagazine.com)
- - date published: 2023-10-25T13:53:18.416854+00:00
- - user: None
- - tags: []
-
-## Discover Magazine
- - [https://www.discovermagazine.com](https://www.discovermagazine.com)
- - date published: 2023-10-25T10:10:08.015699+00:00
- - user: None
- - tags: []
-
-## Warner Bros Discovery Poland
- - [https://www.discovery.com](https://www.discovery.com)
- - date published: 2023-10-25T13:53:22.941587+00:00
- - user: None
- - tags: []
-
-## CMS nexus
- - [https://discretesynthesizers.com](https://discretesynthesizers.com)
- - date published: 2023-10-25T13:53:24.175395+00:00
- - user: None
- - tags: []
-
-## Disk Prices (US)
- - [https://diskprices.com](https://diskprices.com)
- - date published: 2023-10-25T13:53:58.546141+00:00
- - user: None
- - tags: []
-
-## Disney.com | The official home for all things Disney
- - [https://www.disney.com](https://www.disney.com)
- - date published: 2023-10-25T11:27:54.662117+00:00
- - user: None
- - tags: ['company', 'movie studio']
-
-## Disney Dining Reviews, Menus, and Disney Dining Plan Information
- - [https://www.disneydining.com](https://www.disneydining.com)
- - date published: 2023-10-25T13:54:06.573270+00:00
- - user: None
- - tags: []
-
-## Stream Disney, Pixar, Marvel, Star Wars, Nat Geo | Disney+
- - [https://www.disneyplus.com](https://www.disneyplus.com)
- - date published: 2023-10-24T20:05:38.486246+00:00
- - user: None
- - tags: ['video streaming', 'gatekeeper', 'star wars']
-
-## Disney Research Studios | Disney Research
- - [https://studios.disneyresearch.com](https://studios.disneyresearch.com)
- - date published: 2023-10-25T13:54:22.250069+00:00
- - user: None
- - tags: []
-
-## The Columbus Dispatch: Local News, Politics & Sports in Columbus, OH
- - [https://www.dispatch.com](https://www.dispatch.com)
- - date published: 2023-10-25T13:54:28.047932+00:00
- - user: None
- - tags: []
-
-## Home - Dispatches Magazine
- - [https://dispatchesmag.com](https://dispatchesmag.com)
- - date published: 2023-10-25T13:54:30.988917+00:00
- - user: None
- - tags: []
-
-## Frog Guy Rants | Blog
- - [https://disrel.com](https://disrel.com)
- - date published: 2023-10-25T13:54:33.654007+00:00
- - user: None
- - tags: []
-
-## Disrupting Japan: Startups and Innovation in Japan - What you need to know about startups and innovation in Japan
- - [https://www.disruptingjapan.com](https://www.disruptingjapan.com)
- - date published: 2023-10-25T13:54:37.997071+00:00
- - user: None
- - tags: []
-
-## DistroWatch.com: Put the fun back into computing. Use Linux, BSD.
- - [https://distrowatch.com](https://distrowatch.com)
- - date published: 2023-10-25T13:54:49.738191+00:00
- - user: None
- - tags: ['linux', 'ranking']
-
-## Disturbed | Official Website
- - [https://www.disturbed1.com](https://www.disturbed1.com)
- - date published: 2023-11-13T09:43:51.930037+00:00
- - user: None
- - tags: ['music band']
-
-## DIYClassD is the DIY branch of Hypex Electronics BV for audiophile lovers.
- - [https://www.diyclassd.com](https://www.diyclassd.com)
- - date published: 2023-10-25T13:54:52.305532+00:00
- - user: None
- - tags: []
-
-## Home » DIY Usthad » Do It Yourself Projects & Tutorials
- - [https://diyusthad.com](https://diyusthad.com)
- - date published: 2023-10-28T20:14:14.711657+00:00
- - user: None
- - tags: ['arduino', 'raspberry', 'scb']
-
-## Django
- - [https://docs.djangoproject.com](https://docs.djangoproject.com)
- - date published: 2023-11-01T08:41:54.093761+00:00
- - user: None
- - tags: []
-
-## The web framework for perfectionists with deadlines | Django
- - [https://www.djangoproject.com](https://www.djangoproject.com)
- - date published: 2023-10-25T13:54:54.319657+00:00
- - user: None
- - tags: []
-
-## - Abandoned Uranium Workings -
- - [https://djcresswell.com](https://djcresswell.com)
- - date published: 2023-12-11T18:31:04.732364+00:00
- - user: None
- - tags: []
-
-## DJI Enterprise - Drone Solutions for Your Business - DJI
- - [https://enterprise.dji.com](https://enterprise.dji.com)
- - date published: 2023-10-25T13:54:58.289343+00:00
- - user: None
- - tags: []
-
-## DJI FORUM
- - [https://forum.dji.com](https://forum.dji.com)
- - date published: 2023-10-25T13:55:00.388000+00:00
- - user: None
- - tags: []
-
-## DJI - Official Website
- - [https://www.dji.com](https://www.dji.com)
- - date published: 2023-10-25T08:39:58.225999+00:00
- - user: None
- - tags: []
-
-## DJ Mag — living & breathing dance music
- - [https://djmag.com](https://djmag.com)
- - date published: 2023-10-25T10:17:22.278104+00:00
- - user: None
- - tags: []
-
-## News [D. Kriesel]
- - [https://www.dkriesel.com](https://www.dkriesel.com)
- - date published: 2023-10-25T13:55:02.953546+00:00
- - user: None
- - tags: []
-
-## D Magazine: Best Restaurants, Things to Do, and Local Dallas News
- - [https://www.dmagazine.com](https://www.dmagazine.com)
- - date published: 2023-10-25T13:55:08.601899+00:00
  - user: None
  - tags: []
 
