@@ -1,3 +1,245 @@
+## Celebratio Mathematica
+ - [https://celebratio.org](https://celebratio.org)
+ - date published: 2023-10-25T21:06:28.716375+00:00
+ - user: None
+ - tags: []
+
+## Centauri Dreams – Imagining and Planning Interstellar Exploration
+ - [https://www.centauri-dreams.org](https://www.centauri-dreams.org)
+ - date published: 2023-10-25T21:06:41.664630+00:00
+ - user: None
+ - tags: []
+
+## Johns Hopkins Center for Health Security
+ - [https://www.centerforhealthsecurity.org](https://www.centerforhealthsecurity.org)
+ - date published: 2023-10-25T21:06:44.275121+00:00
+ - user: None
+ - tags: []
+
+## lists.centos.org Mailing Lists
+ - [https://lists.centos.org](https://lists.centos.org)
+ - date published: 2023-10-25T21:06:46.268573+00:00
+ - user: None
+ - tags: []
+
+## The CentOS Project
+ - [https://www.centos.org](https://www.centos.org)
+ - date published: 2023-11-06T10:09:56.671715+00:00
+ - user: None
+ - tags: ['linux', 'operating system']
+
+## Center for European Policy Analysis (CEPA) - CEPA
+ - [https://cepa.org](https://cepa.org)
+ - date published: 2023-10-25T21:06:48.710710+00:00
+ - user: None
+ - tags: []
+
+## Home | CEPR
+ - [https://cepr.org](https://cepr.org)
+ - date published: 2023-10-25T21:06:56.328532+00:00
+ - user: None
+ - tags: []
+
+## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
+ - [https://blog.cerowrt.org](https://blog.cerowrt.org)
+ - date published: 2023-10-25T21:06:57.314728+00:00
+ - user: None
+ - tags: []
+
+## CERT Vulnerability Notes Database
+ - [https://kb.cert.org](https://kb.cert.org)
+ - date published: 2023-10-25T21:06:59.207138+00:00
+ - user: None
+ - tags: []
+
+## CEUR-WS.org - CEUR Workshop Proceedings (free, open-access publishing, computer science/information systems)
+ - [https://ceur-ws.org](https://ceur-ws.org)
+ - date published: 2023-12-11T00:38:50.835707+00:00
+ - user: None
+ - tags: []
+
+## Council on Foreign Relations
+ - [https://www.cfr.org](https://www.cfr.org)
+ - date published: 2023-10-25T21:07:05.491330+00:00
+ - user: None
+ - tags: []
+
+## https://www.cghjournal.org
+ - [https://www.cghjournal.org](https://www.cghjournal.org)
+ - date published: 2023-11-19T19:55:05.210367+00:00
+ - user: None
+ - tags: []
+
+## Chad Lines
+ - [https://www.chadl.org](https://www.chadl.org)
+ - date published: 2023-12-01T10:47:07.586649+00:00
+ - user: None
+ - tags: ['personal']
+
+## Welcome to Chandoo.org - Learn Excel, Charting Online
+ - [https://chandoo.org](https://chandoo.org)
+ - date published: 2023-11-29T15:15:17.820653+00:00
+ - user: None
+ - tags: ['personal']
+
+## Chapel: Productive Parallel Programming
+ - [https://chapel-lang.org](https://chapel-lang.org)
+ - date published: 2023-10-25T21:07:07.375203+00:00
+ - user: None
+ - tags: []
+
+## Charts.css
+ - [https://chartscss.org](https://chartscss.org)
+ - date published: 2023-10-25T21:07:09.548781+00:00
+ - user: None
+ - tags: []
+
+## The Cheapskate's Guide to Computers and the Internet
+ - [https://cheapskatesguide.org](https://cheapskatesguide.org)
+ - date published: 2023-10-25T21:07:11.276610+00:00
+ - user: None
+ - tags: []
+
+## Check My Ads Institute | Adtech Watchdog
+ - [https://checkmyads.org](https://checkmyads.org)
+ - date published: 2023-10-25T21:07:12.324867+00:00
+ - user: None
+ - tags: []
+
+## Children's Health Defense • Help Children’s Health Defense and RFK, Jr. end the epidemic of poor health plaguing our children.
+ - [https://childrenshealthdefense.org](https://childrenshealthdefense.org)
+ - date published: 2023-10-25T21:07:23.108077+00:00
+ - user: None
+ - tags: []
+
+## ChimeraOS
+ - [https://chimeraos.org](https://chimeraos.org)
+ - date published: 2023-10-25T08:34:38.580113+00:00
+ - user: None
+ - tags: []
+
+## The Greater China Journal  – The Greater China Journal
+ - [https://china-journal.org](https://china-journal.org)
+ - date published: 2023-10-25T21:07:26.320813+00:00
+ - user: None
+ - tags: []
+
+## ChipMusic.org
+ - [https://chipmusic.org](https://chipmusic.org)
+ - date published: 2023-10-28T18:53:32.192644+00:00
+ - user: None
+ - tags: ['chiptune']
+
+## Chicago Public Library
+ - [https://www.chipublib.org](https://www.chipublib.org)
+ - date published: 2023-12-03T17:58:38.708217+00:00
+ - user: None
+ - tags: []
+
+## Chocolate Doom
+ - [https://www.chocolate-doom.org](https://www.chocolate-doom.org)
+ - date published: 2023-10-25T21:07:27.565962+00:00
+ - user: None
+ - tags: []
+
+## Saving Rural Hospitals - The Crisis in Rural Health Care
+ - [https://ruralhospitals.chqpr.org](https://ruralhospitals.chqpr.org)
+ - date published: 2023-10-25T21:07:30.408857+00:00
+ - user: None
+ - tags: []
+
+## Christian History Institute
+ - [https://christianhistoryinstitute.org](https://christianhistoryinstitute.org)
+ - date published: 2023-11-27T12:24:53+00:00
+ - user: rumpel
+ - tags: ['christian']
+
+## Chromium Blog
+ - [https://blog.chromium.org](https://blog.chromium.org)
+ - date published: 2023-10-25T21:07:36.663177+00:00
+ - user: None
+ - tags: []
+
+## Monorail - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Monorail
+ - [https://bugs.chromium.org](https://bugs.chromium.org)
+ - date published: 2023-10-25T21:07:37.503432+00:00
+ - user: None
+ - tags: []
+
+## Christian Persecution - Aid to the Church in Need - Papal Charity
+ - [https://www.churchinneed.org](https://www.churchinneed.org)
+ - date published: 2023-11-27T12:14:37+00:00
+ - user: rumpel
+ - tags: []
+
+## Homepage - The Church of Jesus Christ of Latter-day Saints
+ - [https://www.churchofjesuschrist.org](https://www.churchofjesuschrist.org)
+ - date published: 2023-11-27T12:59:19+00:00
+ - user: rumpel
+ - tags: ['mormon']
+
+## CIDR
+ - [https://www.cidrdb.org](https://www.cidrdb.org)
+ - date published: 2023-10-25T21:07:38.570541+00:00
+ - user: None
+ - tags: []
+
+## CircuitVerse - Online Digital Logic Circuit Simulator
+ - [https://circuitverse.org](https://circuitverse.org)
+ - date published: 2023-10-25T21:07:40.023436+00:00
+ - user: None
+ - tags: []
+
+## Circus Freaks
+ - [https://circusfreaks.org](https://circusfreaks.org)
+ - date published: 2023-11-17T07:29:46.138084+00:00
+ - user: None
+ - tags: ['personal']
+
+## citadel.org
+ - [https://www.citadel.org](https://www.citadel.org)
+ - date published: 2023-10-25T21:07:41.061444+00:00
+ - user: None
+ - tags: []
+
+## Public Citizen
+ - [https://www.citizen.org](https://www.citizen.org)
+ - date published: 2023-11-24T17:24:12.597451+00:00
+ - user: None
+ - tags: []
+
+## City Journal | Urban Affairs Magazine | Conservative Magazine Online
+ - [https://www.city-journal.org](https://www.city-journal.org)
+ - date published: 2023-10-25T21:07:43.177871+00:00
+ - user: None
+ - tags: []
+
+## Top Cancer Treatment and Research Center | City of Hope
+ - [https://www.cityofhope.org](https://www.cityofhope.org)
+ - date published: 2023-10-25T21:07:46.949303+00:00
+ - user: None
+ - tags: []
+
+## Hawaii News: In-Depth Local News From Honolulu Civil Beat
+ - [https://www.civilbeat.org](https://www.civilbeat.org)
+ - date published: 2023-10-25T21:07:51.470459+00:00
+ - user: None
+ - tags: []
+
+## Columbia Journalism Review
+ - [https://www.cjr.org](https://www.cjr.org)
+ - date published: 2023-11-12T00:38:58.917292+00:00
+ - user: None
+ - tags: []
+
 ## DAVES OLD COMPUTERS
  - [http://dunfield.classiccmp.org](http://dunfield.classiccmp.org)
  - date published: 2023-10-25T21:07:52.168842+00:00
@@ -5774,238 +6016,4 @@ Common Weakness Enumeration
  - date published: 2023-11-01T08:44:36.360088+00:00
  - user: None
  - tags: []
-
-## https://www.ohchr.org
- - [https://www.ohchr.org](https://www.ohchr.org)
- - date published: 2023-10-25T21:51:29.728838+00:00
- - user: None
- - tags: []
-
-## Welcome · Open Hardware Repository
- - [https://ohwr.org](https://ohwr.org)
- - date published: 2023-10-25T21:51:32.457993+00:00
- - user: None
- - tags: []
-
-## Oils
- - [https://www.oilshell.org](https://www.oilshell.org)
- - date published: 2023-10-25T21:51:34.355660+00:00
- - user: None
- - tags: []
-
-## Oldlinux.org -- Linux plinux - Early Linux Kernel Analysis and Comments
- - [http://www.oldlinux.org](http://www.oldlinux.org)
- - date published: 2023-10-25T21:51:37.339430+00:00
- - user: None
- - tags: []
-
-## kevin olega
- - [https://olega.org](https://olega.org)
- - date published: 2023-11-29T14:42:57.758400+00:00
- - user: None
- - tags: ['personal']
-
-## OLF Conference 2023 - Free and Open Software Conference and Expo
- - [https://olfconference.org](https://olfconference.org)
- - date published: 2023-10-25T21:51:41.610121+00:00
- - user: None
- - tags: []
-
-## Om: Main Page
- - [https://www.om-language.org](https://www.om-language.org)
- - date published: 2023-10-25T21:51:44.378412+00:00
- - user: None
- - tags: []
-
-## Together, we can solve the climate crisis | One Earth
- - [https://www.oneearth.org](https://www.oneearth.org)
- - date published: 2023-10-25T21:51:52.977152+00:00
- - user: None
- - tags: []
-
-## One Useful Thing | Ethan Mollick | Substack
- - [https://www.oneusefulthing.org](https://www.oneusefulthing.org)
- - date published: 2023-10-25T21:51:56.259603+00:00
- - user: None
- - tags: []
-
-## On the public record | a would-be mouthpiece for big corporate enviros, neopagans and totalitarian leftists.
- - [https://onthepublicrecord.org](https://onthepublicrecord.org)
- - date published: 2023-10-25T21:52:02.318093+00:00
- - user: None
- - tags: []
-
-## Open Observatory of Network Interference
- - [https://ooni.org](https://ooni.org)
- - date published: 2023-11-08T18:30:10+00:00
- - user: None
- - tags: []
-
-## Oregon Public Broadcasting - OPB
- - [https://www.opb.org](https://www.opb.org)
- - date published: 2023-10-25T21:52:14.305899+00:00
- - user: None
- - tags: []
-
-## Open Standards
- - [https://www.open-std.org](https://www.open-std.org)
- - date published: 2023-10-25T21:52:16.128054+00:00
- - user: None
- - tags: []
-
-## Open Access Government | Government | Health & Social Care | Research
- - [https://www.openaccessgovernment.org](https://www.openaccessgovernment.org)
- - date published: 2023-10-25T21:52:23.443094+00:00
- - user: None
- - tags: []
-
-## Open Amiga - Projects
- - [http://openamiga.org](http://openamiga.org)
- - date published: 2023-12-11T17:26:39.841158+00:00
- - user: None
- - tags: []
-
-## OpenBSD
- - [https://www.openbsd.org](https://www.openbsd.org)
- - date published: 2023-10-25T21:52:26.569830+00:00
- - user: None
- - tags: []
-
-## Open Compute Project
- - [https://www.opencompute.org](https://www.opencompute.org)
- - date published: 2023-10-27T12:06:56.023487+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://opencv.org](https://opencv.org)
- - date published: 2023-11-27T11:43:39.740043+00:00
- - user: None
- - tags: ['facial recognition', 'artificial intelligence', 'computer vision', 'machine learning']
-
-## Home | OpenEnergyMonitor
- - [https://openenergymonitor.org](https://openenergymonitor.org)
- - date published: 2023-10-25T21:52:27.669344+00:00
- - user: None
- - tags: []
-
-## System Dashboard - Java Bug System
- - [https://bugs.openjdk.org](https://bugs.openjdk.org)
- - date published: 2023-10-25T21:52:29.217064+00:00
- - user: None
- - tags: []
-
-## cr.openjdk.org Server
- - [https://cr.openjdk.org](https://cr.openjdk.org)
- - date published: 2023-10-25T21:52:36.509765+00:00
- - user: None
- - tags: []
-
-## mail.openjdk.org Mailing Lists
- - [https://mail.openjdk.org](https://mail.openjdk.org)
- - date published: 2023-10-25T21:52:40.582021+00:00
- - user: None
- - tags: []
-
-## OpenJDK
- - [https://openjdk.org](https://openjdk.org)
- - date published: 2023-10-25T08:36:58.066021+00:00
- - user: None
- - tags: ['open source', 'java']
-
-## Welcome to Open Library | Open Library
- - [https://openlibrary.org](https://openlibrary.org)
- - date published: 2023-10-25T09:29:24.655304+00:00
- - user: None
- - tags: []
-
-## AI Ethics and Trustworthy Language Modeling - OpenLSR
- - [https://openlsr.org](https://openlsr.org)
- - date published: 2023-10-25T21:52:42.100852+00:00
- - user: None
- - tags: []
-
-## Home - Open Mainframe Project
- - [https://www.openmainframeproject.org](https://www.openmainframeproject.org)
- - date published: 2023-10-25T21:52:55.287205+00:00
- - user: None
- - tags: []
-
-## openmediavault - The open network attached storage solution
- - [https://www.openmediavault.org](https://www.openmediavault.org)
- - date published: 2023-10-25T08:35:04.416698+00:00
- - user: None
- - tags: []
-
-## Home - Open MKT
- - [https://openmkt.org](https://openmkt.org)
- - date published: 2023-10-25T21:52:57.063348+00:00
- - user: None
- - tags: []
-
-## MoonRay Production Renderer
- - [https://openmoonray.org](https://openmoonray.org)
- - date published: 2023-10-25T21:52:57.993654+00:00
- - user: None
- - tags: []
-
-## OpenMPT - Discover the music inside... | OpenMPT - Open ModPlug Tracker
- - [https://openmpt.org](https://openmpt.org)
- - date published: 2023-10-25T21:52:59.935278+00:00
- - user: None
- - tags: ['music tracker', 'open source']
-
-## OpenMW
- - [https://openmw.org](https://openmw.org)
- - date published: 2023-10-29T10:00:57.928021+00:00
- - user: None
- - tags: ['morrowind', 'open source', 'the elder scrolls']
-
-## OpenProcessing - Creative Coding for the Curious Mind
- - [https://openprocessing.org](https://openprocessing.org)
- - date published: 2023-10-25T21:53:01.379367+00:00
- - user: None
- - tags: []
-
-## OpenRailwayMap
- - [https://www.openrailwaymap.org](https://www.openrailwaymap.org)
- - date published: 2023-10-25T08:25:20.516625+00:00
- - user: None
- - tags: []
-
-## OpenRCT2 project
- - [https://openrct2.org](https://openrct2.org)
- - date published: 2023-10-25T21:53:01.909495+00:00
- - user: None
- - tags: []
-
-## OpenRefine
- - [https://openrefine.org](https://openrefine.org)
- - date published: 2023-11-01T08:44:36.756515+00:00
- - user: None
- - tags: []
-
-## OpenRetro Game Database
- - [https://openretro.org](https://openretro.org)
- - date published: 2023-10-25T11:18:22.724488+00:00
- - user: None
- - tags: []
-
-## Home | Open Rights Group
- - [https://www.openrightsgroup.org](https://www.openrightsgroup.org)
- - date published: 2023-10-25T21:53:03.331761+00:00
- - user: None
- - tags: []
-
-## Open Robotics
- - [https://www.openrobotics.org](https://www.openrobotics.org)
- - date published: 2023-10-25T21:53:09.705140+00:00
- - user: None
- - tags: []
-
-## A Grand Theft Auto III Re-Implementation
- - [https://openrw.org](https://openrw.org)
- - date published: 2023-10-31T19:53:00+00:00
- - user: rumpel
- - tags: ['game', 'open source', 'grand theft auto']
 

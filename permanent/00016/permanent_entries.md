@@ -1,3 +1,241 @@
+## Homepage - Piotr Migdał
+ - [https://p.migdal.pl](https://p.migdal.pl)
+ - date published: 2023-10-25T09:24:21.804918+00:00
+ - user: None
+ - tags: ['personal']
+
+## Misyjne.pl - Portal chrześcijański dla ludzi z misją.
+ - [https://misyjne.pl](https://misyjne.pl)
+ - date published: 2023-10-25T10:13:22.284811+00:00
+ - user: None
+ - tags: ['catholic', 'christian']
+
+## Money.pl - portal finansowy
+ - [https://www.money.pl](https://www.money.pl)
+ - date published: 2023-10-25T10:31:43.454780+00:00
+ - user: None
+ - tags: []
+
+## MorphOS.pl - Polska strona użytkowników MorphOS-a
+ - [https://morphos.pl](https://morphos.pl)
+ - date published: 2023-12-11T16:54:14.115677+00:00
+ - user: None
+ - tags: []
+
+## Medycyna Praktyczna
+ - [https://www.mp.pl](https://www.mp.pl)
+ - date published: 2023-12-11T09:38:44+00:00
+ - user: rumpel
+ - tags: ['healthcare']
+
+## Grupa MTP - lider branży spotkań w Polsce
+ - [https://www.mtp.pl](https://www.mtp.pl)
+ - date published: 2023-11-02T08:31:38.392932+00:00
+ - user: None
+ - tags: []
+
+## muno.pl
+ - [https://muno.pl](https://muno.pl)
+ - date published: 2023-11-13T12:33:03.253162+00:00
+ - user: None
+ - tags: ['music news']
+
+## Budowa domu, instalacje, wnętrza, fachowe porady - murator.pl
+ - [https://muratordom.pl](https://muratordom.pl)
+ - date published: 2023-10-25T10:45:29+00:00
+ - user: rumpel
+ - tags: ['home articles']
+
+## Czasopisma humanistyczne
+ - [https://bazhum.muzhp.pl](https://bazhum.muzhp.pl)
+ - date published: 2023-12-05T15:24:31+00:00
+ - user: rumpel
+ - tags: ['humanism']
+
+## Muzeum Historii Polski w Warszawie
+ - [https://muzhp.pl](https://muzhp.pl)
+ - date published: 2023-12-05T15:27:28+00:00
+ - user: rumpel
+ - tags: ['poland', 'museum', 'warsow', 'history']
+
+## MyCompanyPolska.pl - Strefa Ludzi Przedsiębiorczych
+ - [https://mycompanypolska.pl](https://mycompanypolska.pl)
+ - date published: 2023-10-25T22:29:04.592214+00:00
+ - user: None
+ - tags: []
+
+## Myslovitz – Oficjalna strona zespołu – ROCK HOUSE ENTERTAINMENT
+ - [https://www.myslovitz.pl](https://www.myslovitz.pl)
+ - date published: 2023-10-29T15:28:35.756499+00:00
+ - user: None
+ - tags: ['music band']
+
+## 💥Najlepsze komiksy
+ - [https://najlepszekomiksy.pl](https://najlepszekomiksy.pl)
+ - date published: 2023-12-11T12:58:56+00:00
+ - user: rumpel
+ - tags: ['comics']
+
+## NASK
+ - [https://www.nask.pl](https://www.nask.pl)
+ - date published: 2023-12-06T12:01:57+00:00
+ - user: rumpel
+ - tags: ['organization', 'cybersecurity', 'naukowa i akademicka sieć komputerowa']
+
+## naTemat.pl - informacje i opinie, którymi żyją Polacy
+ - [https://natemat.pl](https://natemat.pl)
+ - date published: 2023-11-06T22:10:38.945631+00:00
+ - user: None
+ - tags: []
+
+## Nauka o klimacie | naukaoklimacie.pl
+ - [https://naukaoklimacie.pl](https://naukaoklimacie.pl)
+ - date published: 2023-10-25T22:29:07.910756+00:00
+ - user: None
+ - tags: []
+
+## NEONET - Sklep internetowy z RTV, AGD i elektroniką
+ - [https://www.neonet.pl](https://www.neonet.pl)
+ - date published: 2023-10-24T20:17:38.296034+00:00
+ - user: None
+ - tags: []
+
+## NewsBook | Wiadomości z Polski i ze Świata
+ - [https://newsbook.pl](https://newsbook.pl)
+ - date published: 2023-10-25T22:29:12.332774+00:00
+ - user: None
+ - tags: []
+
+## Nexto.pl - ebooki, audiobooki, eprasa i książki papierowe
+ - [https://www.nexto.pl](https://www.nexto.pl)
+ - date published: 2023-10-24T20:18:46.717386+00:00
+ - user: None
+ - tags: []
+
+## -- Niebezpiecznik.pl --
+ - [https://niebezpiecznik.pl](https://niebezpiecznik.pl)
+ - date published: 2023-10-25T09:38:10.310234+00:00
+ - user: None
+ - tags: ['tech news', 'cybersecurity']
+
+## Niedziela.pl - Wiarygodna strona internetu
+ - [https://www.niedziela.pl](https://www.niedziela.pl)
+ - date published: 2023-10-25T22:29:17.230520+00:00
+ - user: None
+ - tags: []
+
+## Niezależna - wiadomości | informacje | wydarzenia - Polska i Świat
+ - [https://niezalezna.pl](https://niezalezna.pl)
+ - date published: 2023-10-25T09:30:13.629577+00:00
+ - user: None
+ - tags: ['the right wing', 'misinformation']
+
+## Noizz
+ - [https://noizz.pl](https://noizz.pl)
+ - date published: 2023-10-25T22:29:21.690409+00:00
+ - user: None
+ - tags: []
+
+## Diablo 1 Hellfire - Kronika
+ - [https://diablo.noktis.pl](https://diablo.noktis.pl)
+ - date published: 2023-12-13T16:21:22.869256+00:00
+ - user: None
+ - tags: []
+
+## Diablo 1 HD MOD
+ - [https://mod.diablo.noktis.pl](https://mod.diablo.noktis.pl)
+ - date published: 2023-10-29T11:03:03.698273+00:00
+ - user: None
+ - tags: []
+
+## Noktis Workshop
+ - [https://noktis.pl](https://noktis.pl)
+ - date published: 2023-10-29T11:03:46.458305+00:00
+ - user: None
+ - tags: ['starcraft', 'red alert', 'warcraft', 'diablo']
+
+## o2 - Serce Internetu
+ - [https://www.o2.pl](https://www.o2.pl)
+ - date published: 2023-10-25T10:31:48.980569+00:00
+ - user: None
+ - tags: ['news']
+
+## Market budowlany i ogrodniczy OBI - akcesoria budowlane
+ - [https://www.obi.pl](https://www.obi.pl)
+ - date published: 2023-10-26T08:33:47.734470+00:00
+ - user: None
+ - tags: ['shop']
+
+## Obserwator Gospodarczy - portal gospodarczy
+ - [https://obserwatorgospodarczy.pl](https://obserwatorgospodarczy.pl)
+ - date published: 2023-10-25T22:29:29.603158+00:00
+ - user: None
+ - tags: []
+
+## ObywateleNieba.pl - Chrześcijański portal informacyjny
+ - [https://obywatelenieba.pl](https://obywatelenieba.pl)
+ - date published: 2023-10-25T22:29:39.409365+00:00
+ - user: None
+ - tags: []
+
+## Oferteo - Oferty od Firm
+ - [https://www.oferteo.pl](https://www.oferteo.pl)
+ - date published: 2023-10-24T20:20:11.338115+00:00
+ - user: None
+ - tags: ['services']
+
+## Ogłoszenia - Sprzedam, kupię na OLX.pl
+ - [https://olx.pl](https://olx.pl)
+ - date published: 2023-10-24T20:20:26.839764+00:00
+ - user: None
+ - tags: ['services']
+
+## Ogłoszenia - Sprzedam, kupię na OLX.pl
+ - [https://www.olx.pl](https://www.olx.pl)
+ - date published: 2023-10-26T18:23:30.459246+00:00
+ - user: None
+ - tags: ['services', 'social platform']
+
+## Kobieta -
+        
+        Kobieta - Porady dla Kobiet, Forum Uroda, Moda Damska i Trendy, Horoskop Codzienny
+ - [https://kobieta.onet.pl](https://kobieta.onet.pl)
+ - date published: 2023-10-25T10:31:51.351331+00:00
+ - user: None
+ - tags: []
+
+## Onet – Jesteś na bieżąco
+ - [https://onet.pl](https://onet.pl)
+ - date published: 2023-10-29T15:19:57.733284+00:00
+ - user: None
+ - tags: ['news']
+
+## Wiadomości -
+        
+        Wiadomości w Onet - Najnowsze i Najważniejsze Wiadomości z Kraju i Świata
+ - [https://wiadomosci.onet.pl](https://wiadomosci.onet.pl)
+ - date published: 2023-10-25T10:32:01.945249+00:00
+ - user: None
+ - tags: []
+
+## Onet – Jesteś na bieżąco
+ - [https://www.onet.pl](https://www.onet.pl)
+ - date published: 2023-10-25T10:32:07.223794+00:00
+ - user: None
+ - tags: []
+
+## OTOMOTO - nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.
+ - [https://www.otomoto.pl](https://www.otomoto.pl)
+ - date published: 2023-11-01T08:55:54.729508+00:00
+ - user: None
+ - tags: ['social platform', 'cars']
+
+## https://www.pap.pl
+ - [https://www.pap.pl](https://www.pap.pl)
+ - date published: 2023-10-25T10:32:11.461110+00:00
+ - user: None
+ - tags: ['polska agencja prasowa', 'poland']
+
 ## Patronite.pl: Twoja pasja, Twoje życie
  - [https://patronite.pl](https://patronite.pl)
  - date published: 2023-10-25T14:44:56.484026+00:00
@@ -4486,12 +4724,6 @@ Introduction
  - user: None
  - tags: []
 
-## Amiga History Guide
- - [http://www.amigahistory.co.uk](http://www.amigahistory.co.uk)
- - date published: 2023-12-11T18:27:51.974608+00:00
- - user: None
- - tags: []
-
 ## AN.
  - [https://www.andrewnile.co.uk](https://www.andrewnile.co.uk)
  - date published: 2023-10-25T22:50:28.355553+00:00
@@ -5776,232 +6008,4 @@ Introduction
  - date published: 2023-10-25T22:58:19.704515+00:00
  - user: None
  - tags: []
-
-## NYCOURTS.GOV - New York State Unified Court System
- - [https://iapps.courts.state.ny.us](https://iapps.courts.state.ny.us)
- - date published: 2023-10-25T22:58:25.114509+00:00
- - user: None
- - tags: []
-
-## You Are Being Redirected To The Texas Secretary of State
- - [https://www.sos.state.tx.us](https://www.sos.state.tx.us)
- - date published: 2023-12-09T15:58:33.781211+00:00
- - user: None
- - tags: []
-
-## nitter
- - [https://nitter.1d4.us](https://nitter.1d4.us)
- - date published: 2023-10-25T22:58:25.945089+00:00
- - user: None
- - tags: []
-
-## abhvious
- - [https://abhvio.us](https://abhvio.us)
- - date published: 2023-10-25T22:58:31.352151+00:00
- - user: None
- - tags: []
-
-## AMAC - Conservative's Alternative - Join and Explore the Benefits
- - [https://amac.us](https://amac.us)
- - date published: 2023-10-25T22:58:40.118000+00:00
- - user: None
- - tags: []
-
-## Beej's Web Page
- - [https://beej.us](https://beej.us)
- - date published: 2023-10-25T08:56:45.894833+00:00
- - user: None
- - tags: ['personal']
-
-## Bram.us – A rather geeky/technical weblog, est. 2001, by Bramus
- - [https://www.bram.us](https://www.bram.us)
- - date published: 2023-10-25T22:58:45.835945+00:00
- - user: None
- - tags: []
-
-## Clean Air Task Force
- - [https://www.catf.us](https://www.catf.us)
- - date published: 2023-12-03T20:38:41.660449+00:00
- - user: None
- - tags: []
-
-## https://www.citizensjournal.us
- - [https://www.citizensjournal.us](https://www.citizensjournal.us)
- - date published: 2023-10-25T22:58:47.774842+00:00
- - user: None
- - tags: []
-
-## David Collantes
- - [https://collantes.us](https://collantes.us)
- - date published: 2023-12-08T09:33:21.723504+00:00
- - user: None
- - tags: ['personal']
-
-## FOSSY 2023 | Home
- - [https://2023.fossy.us](https://2023.fossy.us)
- - date published: 2023-10-25T22:58:49.674842+00:00
- - user: None
- - tags: []
-
-## Geniuslink - URL Shortener for Creators and Affiliates
- - [https://geni.us](https://geni.us)
- - date published: 2023-12-13T15:37:43.713981+00:00
- - user: None
- - tags: ['link service']
-
-## Home | Solus
- - [https://getsol.us](https://getsol.us)
- - date published: 2023-11-06T10:12:14.350206+00:00
- - user: None
- - tags: ['linux', 'operating system']
-
-## Hapgood – Mike Caulfield's latest web incarnation. Networked Learning, Open Education, and Online Digital Literacy
- - [https://hapgood.us](https://hapgood.us)
- - date published: 2023-10-25T22:58:51.261470+00:00
- - user: None
- - tags: []
-
-## HHKB & REALFORCE - Mechanical Programming & Gaming Keyboards
- - [https://hhkeyboard.us](https://hhkeyboard.us)
- - date published: 2023-11-16T09:10:45.032248+00:00
- - user: None
- - tags: []
-
-## some words
- - [https://karmanivero.us](https://karmanivero.us)
- - date published: 2023-10-25T22:58:57.980658+00:00
- - user: None
- - tags: []
-
-## Sean MacAvaney
- - [https://macavaney.us](https://macavaney.us)
- - date published: 2023-12-10T11:35:20.147357+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Magic Find
- - [https://www.magicfind.us](https://www.magicfind.us)
- - date published: 2023-12-13T16:19:57.437532+00:00
- - user: None
- - tags: []
-
-## Mark Groves  — homepage and blog
- - [https://markgroves.us](https://markgroves.us)
- - date published: 2023-12-03T15:55:51.829729+00:00
- - user: None
- - tags: ['personal']
-
-## The Netwide Assembler (NASM)
- - [https://www.nasm.us](https://www.nasm.us)
- - date published: 2023-11-09T11:11:08+00:00
- - user: None
- - tags: []
-
-## Nautilus | Science Connected
- - [https://nautil.us](https://nautil.us)
- - date published: 2023-10-25T10:12:29.112780+00:00
- - user: None
- - tags: []
-
-## Chris Dickinson
- - [https://www.neversaw.us](https://www.neversaw.us)
- - date published: 2023-10-25T08:56:46.944646+00:00
- - user: None
- - tags: ['personal']
-
-## More Perfect Union
- - [https://perfectunion.us](https://perfectunion.us)
- - date published: 2023-10-25T22:59:00.018761+00:00
- - user: None
- - tags: []
-
-## More Perfect Union | Substack
- - [https://substack.perfectunion.us](https://substack.perfectunion.us)
- - date published: 2023-12-02T18:50:48.130382+00:00
- - user: None
- - tags: []
-
-## Roastidio.us Blog
- - [https://blog.roastidio.us](https://blog.roastidio.us)
- - date published: 2023-10-25T22:59:01.153689+00:00
- - user: None
- - tags: []
-
-## Sandboxx - The Military Platform
- - [https://www.sandboxx.us](https://www.sandboxx.us)
- - date published: 2023-10-25T22:59:04.325044+00:00
- - user: None
- - tags: []
-
-## Scott Kennedy
- - [https://www.scottkennedy.us](https://www.scottkennedy.us)
- - date published: 2023-10-25T08:56:50.558000+00:00
- - user: None
- - tags: ['personal']
-
-## StackAid - Fund all your open source dependencies
- - [https://www.stackaid.us](https://www.stackaid.us)
- - date published: 2023-10-25T22:59:12.375120+00:00
- - user: None
- - tags: []
-
-## steinkamp.us
- - [https://steinkamp.us](https://steinkamp.us)
- - date published: 2023-10-25T22:59:18.547855+00:00
- - user: None
- - tags: []
-
-## Homepage | Them
- - [https://www.them.us](https://www.them.us)
- - date published: 2023-10-25T10:13:47.652819+00:00
- - user: None
- - tags: ['propaganda', 'gender', 'pronouns']
-
-## Truly Adventurous
- - [https://www.trulyadventure.us](https://www.trulyadventure.us)
- - date published: 2023-10-25T22:59:20.377855+00:00
- - user: None
- - tags: []
-
-## Twitter Status
- - [https://api.twitterstat.us](https://api.twitterstat.us)
- - date published: 2023-10-25T22:59:23.104096+00:00
- - user: None
- - tags: []
-
-## Wheeling It: Tales From a Nomadic Life – On the Road Since 2010, Traveling Across USA & Europe With Pets
- - [https://www.wheelingit.us](https://www.wheelingit.us)
- - date published: 2023-10-25T22:59:30.414582+00:00
- - user: None
- - tags: []
-
-## The latest insights on how the world connects | Zoom Blog
- - [https://blog.zoom.us](https://blog.zoom.us)
- - date published: 2023-10-25T22:59:39.015755+00:00
- - user: None
- - tags: []
-
-## One platform to connect | Zoom
- - [https://explore.zoom.us](https://explore.zoom.us)
- - date published: 2023-10-25T22:59:49.183400+00:00
- - user: None
- - tags: []
-
-## One platform to connect | Zoom
- - [https://zoom.us](https://zoom.us)
- - date published: 2023-10-25T22:59:54.325137+00:00
- - user: None
- - tags: []
-
-## Citroën Uruguay - Citroen Uruguay
- - [https://www.citroen.com.uy](https://www.citroen.com.uy)
- - date published: 2023-12-11T16:03:05.998164+00:00
- - user: None
- - tags: []
-
-## News from the Vatican - News about the Church - Vatican News
- - [https://www.vaticannews.va](https://www.vaticannews.va)
- - date published: 2023-10-25T09:29:37.580864+00:00
- - user: None
- - tags: ['news', 'religion', 'catholic', 'christianity', 'vatican']
 

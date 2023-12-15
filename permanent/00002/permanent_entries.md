@@ -1,3 +1,57 @@
+## Medieval Manuscripts Provenance
+ - [https://mssprovenance.blogspot.com](https://mssprovenance.blogspot.com)
+ - date published: 2023-10-25T09:10:06.865435+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Art is Long
+ - [https://multixden.blogspot.com](https://multixden.blogspot.com)
+ - date published: 2023-10-25T09:10:09.729418+00:00
+ - user: None
+ - tags: ['personal']
+
+## Metadata
+ - [https://muratbuffalo.blogspot.com](https://muratbuffalo.blogspot.com)
+ - date published: 2023-10-25T09:10:15.224216+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Mypy Blog
+ - [https://mypy-lang.blogspot.com](https://mypy-lang.blogspot.com)
+ - date published: 2023-10-25T13:05:59.664341+00:00
+ - user: None
+ - tags: []
+
+## Nibble Stew
+ - [https://nibblestew.blogspot.com](https://nibblestew.blogspot.com)
+ - date published: 2023-10-25T09:10:18.405908+00:00
+ - user: None
+ - tags: ['personal']
+
+## nmav's Blog
+ - [https://nikmav.blogspot.com](https://nikmav.blogspot.com)
+ - date published: 2023-10-25T09:10:21.474878+00:00
+ - user: None
+ - tags: ['personal']
+
+## Old Vintage Computing Research
+ - [https://oldvcr.blogspot.com](https://oldvcr.blogspot.com)
+ - date published: 2023-10-25T13:06:06.842647+00:00
+ - user: None
+ - tags: []
+
+## Postapokalipsa bez ograniczeń!
+ - [https://postapokalipsa.blogspot.com](https://postapokalipsa.blogspot.com)
+ - date published: 2023-12-13T15:11:58.113245+00:00
+ - user: None
+ - tags: ['hobby', 'fallout']
+
+## Thoughts on Programming
+ - [https://programming-puzzler.blogspot.com](https://programming-puzzler.blogspot.com)
+ - date published: 2023-10-25T09:10:24.409498+00:00
+ - user: None
+ - tags: ['personal']
+
 ## pts.blog
  - [https://ptspts.blogspot.com](https://ptspts.blogspot.com)
  - date published: 2023-10-25T09:10:29.527000+00:00
@@ -338,7 +392,7 @@
  - [https://boardgamegeek.com](https://boardgamegeek.com)
  - date published: 2023-10-25T11:11:10.042249+00:00
  - user: None
- - tags: []
+ - tags: ['tabletop games', 'board games']
 
 ## Board Game Quest
  - [https://www.boardgamequest.com](https://www.boardgamequest.com)
@@ -1051,6 +1105,12 @@
 ## Build My Online Store: Free Resources To Start An E-Commerce Business
  - [https://www.buildmyonlinestore.com](https://www.buildmyonlinestore.com)
  - date published: 2023-11-29T15:48:43.191347+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nick Chamberlain
+ - [https://buildplease.com](https://buildplease.com)
+ - date published: 2023-12-14T01:26:18.819291+00:00
  - user: None
  - tags: ['personal']
 
@@ -5224,6 +5284,12 @@
  - user: None
  - tags: ['personal']
 
+## DAVID PALMER STUDIO | Los Angeles artist David Palmer
+ - [https://davidpalmerstudio.com](https://davidpalmerstudio.com)
+ - date published: 2023-12-14T01:19:36.395261+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Home - David Porkka
  - [https://www.davidporkka.com](https://www.davidporkka.com)
  - date published: 2023-12-03T09:19:29.134316+00:00
@@ -5941,72 +6007,6 @@
 ## Different Hub
  - [https://www.differenthub.com](https://www.differenthub.com)
  - date published: 2023-12-10T18:34:38.292217+00:00
- - user: None
- - tags: []
-
-## The DigiBarn Computer Museum
- - [https://digibarn.com](https://digibarn.com)
- - date published: 2023-10-25T13:51:40.855582+00:00
- - user: None
- - tags: []
-
-## Digiday — Digital Content, Digital Advertising, Digital Marketing
- - [https://digiday.com](https://digiday.com)
- - date published: 2023-10-25T13:51:52.945807+00:00
- - user: None
- - tags: []
-
-## DigiKey - Electronic Components Distributor
- - [https://www.digikey.com](https://www.digikey.com)
- - date published: 2023-10-25T13:52:05.828216+00:00
- - user: None
- - tags: []
-
-## Digilent – Start Smart, Build Brilliant.
- - [https://digilent.com](https://digilent.com)
- - date published: 2023-10-25T13:52:09.931723+00:00
- - user: None
- - tags: []
-
-## Digital Science: tools for open, collaborative and inclusive research
- - [https://www.digital-science.com](https://www.digital-science.com)
- - date published: 2023-10-25T13:52:17.199858+00:00
- - user: None
- - tags: []
-
-## Camera news, reviews and features | Digital Camera World
- - [https://www.digitalcameraworld.com](https://www.digitalcameraworld.com)
- - date published: 2023-10-25T13:52:26.582599+00:00
- - user: None
- - tags: []
-
-## Digital Eclipse
- - [https://www.digitaleclipse.com](https://www.digitaleclipse.com)
- - date published: 2023-10-31T12:09:00.016308+00:00
- - user: None
- - tags: ['retro games', 'game studio']
-
-## Digital Information World
- - [https://www.digitalinformationworld.com](https://www.digitalinformationworld.com)
- - date published: 2023-10-25T13:52:28.987711+00:00
- - user: None
- - tags: []
-
-## IHP: Integrated Haskell Platform, a batteries-included web framework built on purely functional programming technologies
- - [https://ihp.digitallyinduced.com](https://ihp.digitallyinduced.com)
- - date published: 2023-10-25T13:52:33.020994+00:00
- - user: None
- - tags: []
-
-## Digital Mars C, C++ and D Compilers
- - [https://www.digitalmars.com](https://www.digitalmars.com)
- - date published: 2023-10-25T13:52:34.393669+00:00
- - user: None
- - tags: []
-
-## DigitalOcean Feedback
- - [https://ideas.digitalocean.com](https://ideas.digitalocean.com)
- - date published: 2023-10-25T13:52:36.693475+00:00
  - user: None
  - tags: []
 

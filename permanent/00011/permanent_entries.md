@@ -1,3 +1,207 @@
+## Federal Trade Commission | Protecting America's Consumers
+ - [https://www.ftc.gov](https://www.ftc.gov)
+ - date published: 2023-10-25T19:21:54.571295+00:00
+ - user: None
+ - tags: []
+
+## U.S. Government Accountability Office (U.S. GAO)
+ - [https://www.gao.gov](https://www.gao.gov)
+ - date published: 2023-11-27T15:17:10+00:00
+ - user: rumpel
+ - tags: []
+
+## GPS: The Global Positioning System
+ - [https://www.gps.gov](https://www.gps.gov)
+ - date published: 2023-10-25T19:21:57.216221+00:00
+ - user: None
+ - tags: []
+
+## Real Property Disposition
+ - [https://disposal.gsa.gov](https://disposal.gsa.gov)
+ - date published: 2023-10-25T19:22:04.790414+00:00
+ - user: None
+ - tags: []
+
+## Home | GSA
+ - [https://www.gsa.gov](https://www.gsa.gov)
+ - date published: 2023-10-25T19:22:12.181356+00:00
+ - user: None
+ - tags: []
+
+## ASPR | Homepage
+ - [https://aspr.hhs.gov](https://aspr.hhs.gov)
+ - date published: 2023-10-25T19:22:17.545788+00:00
+ - user: None
+ - tags: []
+
+## HIV and AIDS Resources | HIV.gov
+ - [https://www.hiv.gov](https://www.hiv.gov)
+ - date published: 2023-10-25T19:22:20.398924+00:00
+ - user: None
+ - tags: []
+
+## House Judiciary Committee Republicans |
+ - [https://judiciary.house.gov](https://judiciary.house.gov)
+ - date published: 2023-10-25T19:22:23.234554+00:00
+ - user: None
+ - tags: []
+
+## Congressman Ro Khanna |
+ - [https://khanna.house.gov](https://khanna.house.gov)
+ - date published: 2023-10-25T19:22:25.514559+00:00
+ - user: None
+ - tags: []
+
+## United States House Committee on Oversight and Accountability -
+ - [https://oversight.house.gov](https://oversight.house.gov)
+ - date published: 2023-10-25T19:22:27.238039+00:00
+ - user: None
+ - tags: []
+
+## House Committee on Oversight and Reform
+ - [https://oversightdemocrats.house.gov](https://oversightdemocrats.house.gov)
+ - date published: 2023-11-28T18:21:20.465630+00:00
+ - user: None
+ - tags: []
+
+## House of Representatives Committee on Rules
+ - [https://rules.house.gov](https://rules.house.gov)
+ - date published: 2023-11-14T19:59:35.907324+00:00
+ - user: None
+ - tags: []
+
+## Select Committee on the CCP
+ - [https://selectcommitteeontheccp.house.gov](https://selectcommitteeontheccp.house.gov)
+ - date published: 2023-11-27T12:22:06+00:00
+ - user: rumpel
+ - tags: ['china', 'america']
+
+## Internet Crime Complaint Center(IC3) | Home Page
+ - [https://www.ic3.gov](https://www.ic3.gov)
+ - date published: 2023-10-25T11:20:35.175486+00:00
+ - user: None
+ - tags: ['fbi', 'internet crime complaint']
+
+## Attention Required! | Cloudflare
+ - [https://events.in.gov](https://events.in.gov)
+ - date published: 2023-10-25T19:22:27.576944+00:00
+ - user: None
+ - tags: []
+
+## Internal Revenue Service | An official website of the United States government
+ - [https://www.irs.gov](https://www.irs.gov)
+ - date published: 2023-10-25T19:22:30.651654+00:00
+ - user: None
+ - tags: []
+
+## ERROR: The request could not be satisfied
+ - [https://www.jobcorps.gov](https://www.jobcorps.gov)
+ - date published: 2023-10-25T19:22:31.466539+00:00
+ - user: None
+ - tags: []
+
+## Department of Justice |  Homepage | United States Department of Justice
+ - [https://www.justice.gov](https://www.justice.gov)
+ - date published: 2023-10-25T19:22:33.543403+00:00
+ - user: None
+ - tags: []
+
+## Kansas Department of Commerce
+ - [https://www.kansascommerce.gov](https://www.kansascommerce.gov)
+ - date published: 2023-10-25T19:22:38.214597+00:00
+ - user: None
+ - tags: []
+
+## Los Angeles County District Attorney's Office
+ - [https://da.lacounty.gov](https://da.lacounty.gov)
+ - date published: 2023-10-25T19:22:42.028055+00:00
+ - user: None
+ - tags: []
+
+## LANL Research Library
+ - [https://lib-www.lanl.gov](https://lib-www.lanl.gov)
+ - date published: 2023-10-25T19:22:43.331654+00:00
+ - user: None
+ - tags: []
+
+## Off-Site Source Recovery Program (OSRP) | Sealed Sources Recovery | Los Alamos National Lab |
+ - [https://osrp.lanl.gov](https://osrp.lanl.gov)
+ - date published: 2023-10-25T19:22:45.215778+00:00
+ - user: None
+ - tags: []
+
+## ALS - Advanced Light Source
+ - [https://als.lbl.gov](https://als.lbl.gov)
+ - date published: 2023-10-25T19:22:49.152965+00:00
+ - user: None
+ - tags: []
+
+## Home – Berkeley Lab News Center
+ - [https://newscenter.lbl.gov](https://newscenter.lbl.gov)
+ - date published: 2023-10-25T19:22:51.346360+00:00
+ - user: None
+ - tags: []
+
+## Library of Congress Blogs | Blogs from the Library of Congress
+ - [https://blogs.loc.gov](https://blogs.loc.gov)
+ - date published: 2023-10-25T19:22:55.285850+00:00
+ - user: None
+ - tags: []
+
+## Home - Research Guides at Library of Congress
+ - [https://guides.loc.gov](https://guides.loc.gov)
+ - date published: 2023-10-25T19:22:57.450959+00:00
+ - user: None
+ - tags: []
+
+## Home | Library of Congress
+ - [https://www.loc.gov](https://www.loc.gov)
+ - date published: 2023-10-25T19:22:59.347788+00:00
+ - user: None
+ - tags: []
+
+## Maine.gov
+ - [https://www.maine.gov](https://www.maine.gov)
+ - date published: 2023-11-11T05:10:20.897802+00:00
+ - user: None
+ - tags: []
+
+## Astronomy Picture of the Day
+ - [https://apod.nasa.gov](https://apod.nasa.gov)
+ - date published: 2023-10-25T19:23:00.516904+00:00
+ - user: None
+ - tags: []
+
+## NASA Blogs
+ - [https://blogs.nasa.gov](https://blogs.nasa.gov)
+ - date published: 2023-10-25T19:23:03.213236+00:00
+ - user: None
+ - tags: []
+
+## Home – Climate Change: Vital Signs of the Planet
+ - [https://climate.nasa.gov](https://climate.nasa.gov)
+ - date published: 2023-12-03T11:58:16.572325+00:00
+ - user: None
+ - tags: []
+
+## NASA Open Source Software
+ - [https://code.nasa.gov](https://code.nasa.gov)
+ - date published: 2023-12-03T03:36:15+00:00
+ - user: None
+ - tags: ['open source', 'nasa']
+
+## NASA Earth Observatory - Home
+ - [https://earthobservatory.nasa.gov](https://earthobservatory.nasa.gov)
+ - date published: 2023-10-25T09:28:13.212248+00:00
+ - user: None
+ - tags: []
+
+## NASA’s Eyes
+ - [https://eyes.nasa.gov](https://eyes.nasa.gov)
+ - date published: 2023-11-15T15:16:14.417143+00:00
+ - user: None
+ - tags: []
+
 ## NASA Mars Exploration
  - [https://mars.nasa.gov](https://mars.nasa.gov)
  - date published: 2023-10-25T10:11:24.762016+00:00
@@ -5421,6 +5625,12 @@ through Composable Diffusion
  - user: None
  - tags: ['community', 'hardware']
 
+## https://hankchizljaw.io
+ - [https://hankchizljaw.io](https://hankchizljaw.io)
+ - date published: 2023-12-14T10:46:09.472338+00:00
+ - user: None
+ - tags: ['personal']
+
 ## hardwear.io | Hardware Security Conference & Training | Netherlands, Germany & USA
  - [https://hardwear.io](https://hardwear.io)
  - date published: 2023-10-25T19:56:22.144827+00:00
@@ -5790,216 +6000,6 @@ through Composable Diffusion
 ## sdkgames - itch.io
  - [https://sdkgames.itch.io](https://sdkgames.itch.io)
  - date published: 2023-10-25T19:58:30.146116+00:00
- - user: None
- - tags: []
-
-## Sebastian Lague - itch.io
- - [https://sebastian.itch.io](https://sebastian.itch.io)
- - date published: 2023-10-25T19:58:32.648638+00:00
- - user: None
- - tags: []
-
-## Sonic Sloth - itch.io
- - [https://sonicslothgames.itch.io](https://sonicslothgames.itch.io)
- - date published: 2023-10-25T19:58:34.548921+00:00
- - user: None
- - tags: []
-
-## steamknight - itch.io
- - [https://steamknight.itch.io](https://steamknight.itch.io)
- - date published: 2023-10-25T19:58:41.779852+00:00
- - user: None
- - tags: []
-
-## Neil Thapen - itch.io
- - [https://thapen.itch.io](https://thapen.itch.io)
- - date published: 2023-10-25T19:58:44.194991+00:00
- - user: None
- - tags: []
-
-## ToulouTouMou - itch.io
- - [https://toulou.itch.io](https://toulou.itch.io)
- - date published: 2023-10-25T19:58:46.804568+00:00
- - user: None
- - tags: []
-
-## tRaum Books - itch.io
- - [https://traumbooks.itch.io](https://traumbooks.itch.io)
- - date published: 2023-10-25T19:58:49.226697+00:00
- - user: None
- - tags: []
-
-## Uniday Studio - itch.io
- - [https://unidaystudio.itch.io](https://unidaystudio.itch.io)
- - date published: 2023-11-01T15:43:57.773429+00:00
- - user: None
- - tags: []
-
-## vividfax - itch.io
- - [https://vividfax.itch.io](https://vividfax.itch.io)
- - date published: 2023-10-25T19:59:06.021245+00:00
- - user: None
- - tags: []
-
-## Vkgames82 - itch.io
- - [https://vkgames82.itch.io](https://vkgames82.itch.io)
- - date published: 2023-10-25T19:59:07.894042+00:00
- - user: None
- - tags: []
-
-## BubbleSoftGames - itch.io
- - [https://vwguy16.itch.io](https://vwguy16.itch.io)
- - date published: 2023-12-11T19:05:15.630550+00:00
- - user: None
- - tags: []
-
-## My Blog
- - [https://blog.j11y.io](https://blog.j11y.io)
- - date published: 2023-12-02T23:08:51.360797+00:00
- - user: None
- - tags: []
-
-## jacko.io
- - [https://jacko.io](https://jacko.io)
- - date published: 2023-10-25T19:59:09.714979+00:00
- - user: None
- - tags: []
-
-## JanOS - Turn your phone into an IoT board
- - [http://janos.io](http://janos.io)
- - date published: 2023-10-25T19:59:11.353354+00:00
- - user: None
- - tags: []
-
-## Home | Thoughts by Javier
- - [https://www.javiergonzalez.io](https://www.javiergonzalez.io)
- - date published: 2023-10-25T19:59:13.172540+00:00
- - user: None
- - tags: []
-
-## Jetpack.io | Tools for sophisticated cloud development
- - [https://www.jetpack.io](https://www.jetpack.io)
- - date published: 2023-10-25T19:59:15.286431+00:00
- - user: None
- - tags: []
-
-## Jetstack Consult Services Overview | Venafi
- - [https://www.jetstack.io](https://www.jetstack.io)
- - date published: 2023-10-25T19:59:19.124604+00:00
- - user: None
- - tags: []
-
-## Jake Zimmerman – Jake Zimmerman
- - [https://blog.jez.io](https://blog.jez.io)
- - date published: 2023-10-25T19:59:21.513456+00:00
- - user: None
- - tags: []
-
-## JSON Meta Application Protocol Specification (JMAP)
- - [https://jmap.io](https://jmap.io)
- - date published: 2023-10-25T19:59:23.210564+00:00
- - user: None
- - tags: []
-
-## https://www.jobrunr.io/en/
- - [https://www.jobrunr.io](https://www.jobrunr.io)
- - date published: 2023-10-25T19:59:24.463885+00:00
- - user: None
- - tags: []
-
-## JoinBase | JoinBase, a single-binary AIoT-first data-service platform.
- - [https://joinbase.io](https://joinbase.io)
- - date published: 2023-10-25T19:59:26.326546+00:00
- - user: None
- - tags: []
-
-## JSONGenerator - Create Random JSON Data
- - [https://www.jsongenerator.io](https://www.jsongenerator.io)
- - date published: 2023-10-25T19:59:28.663902+00:00
- - user: None
- - tags: []
-
-## ./jm
- - [https://justinmiller.io](https://justinmiller.io)
- - date published: 2023-11-29T16:19:27.042006+00:00
- - user: None
- - tags: ['personal']
-
-## JustPaid
- - [https://www.justpaid.io](https://www.justpaid.io)
- - date published: 2023-10-25T11:28:59.968204+00:00
- - user: None
- - tags: []
-
-## K3s
- - [https://k3s.io](https://k3s.io)
- - date published: 2023-10-25T19:59:30.052320+00:00
- - user: None
- - tags: []
-
-## Kairos - The immutable Linux meta-distribution for edge Kubernetes
- - [https://kairos.io](https://kairos.io)
- - date published: 2023-10-25T19:59:31.686672+00:00
- - user: None
- - tags: []
-
-## Kata Containers - Open Source Container Runtime Software | Kata Containers
- - [https://katacontainers.io](https://katacontainers.io)
- - date published: 2023-10-25T19:59:34.155323+00:00
- - user: None
- - tags: []
-
-## The Keras Blog
- - [https://blog.keras.io](https://blog.keras.io)
- - date published: 2023-12-13T23:33:24.005089+00:00
- - user: None
- - tags: []
-
-## Keybase
- - [https://keybase.io](https://keybase.io)
- - date published: 2023-12-11T16:20:17.586597+00:00
- - user: None
- - tags: []
-
-## Kiru.io
- - [https://kiru.io](https://kiru.io)
- - date published: 2023-10-25T19:59:36.324745+00:00
- - user: None
- - tags: []
-
-## Kitze
- - [https://kitze.io](https://kitze.io)
- - date published: 2023-10-25T19:59:38.773048+00:00
- - user: None
- - tags: []
-
-## Kitze
- - [https://www.kitze.io](https://www.kitze.io)
- - date published: 2023-10-27T12:05:16.392878+00:00
- - user: None
- - tags: []
-
-## KnifeGeek - Pocket Knives, Blades, and More!
- - [https://www.knifegeek.io](https://www.knifegeek.io)
- - date published: 2023-10-25T19:59:41.551736+00:00
- - user: None
- - tags: []
-
-## Kopia
- - [https://kopia.io](https://kopia.io)
- - date published: 2023-10-25T08:33:21.694650+00:00
- - user: None
- - tags: []
-
-## blog.kroy.io – computers, tech, and whatever other random stuff crosses my mind.
- - [https://blog.kroy.io](https://blog.kroy.io)
- - date published: 2023-10-25T19:59:44.362187+00:00
- - user: None
- - tags: []
-
-## Ktor: Build Asynchronous Servers and Clients in Kotlin
- - [https://ktor.io](https://ktor.io)
- - date published: 2023-12-12T09:09:46.111618+00:00
  - user: None
  - tags: []
 

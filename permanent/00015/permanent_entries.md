@@ -1,3 +1,237 @@
+## https://www.ohchr.org
+ - [https://www.ohchr.org](https://www.ohchr.org)
+ - date published: 2023-10-25T21:51:29.728838+00:00
+ - user: None
+ - tags: []
+
+## Welcome · Open Hardware Repository
+ - [https://ohwr.org](https://ohwr.org)
+ - date published: 2023-10-25T21:51:32.457993+00:00
+ - user: None
+ - tags: []
+
+## Oils
+ - [https://www.oilshell.org](https://www.oilshell.org)
+ - date published: 2023-10-25T21:51:34.355660+00:00
+ - user: None
+ - tags: []
+
+## Oldlinux.org -- Linux plinux - Early Linux Kernel Analysis and Comments
+ - [http://www.oldlinux.org](http://www.oldlinux.org)
+ - date published: 2023-10-25T21:51:37.339430+00:00
+ - user: None
+ - tags: []
+
+## kevin olega
+ - [https://olega.org](https://olega.org)
+ - date published: 2023-11-29T14:42:57.758400+00:00
+ - user: None
+ - tags: ['personal']
+
+## OLF Conference 2023 - Free and Open Software Conference and Expo
+ - [https://olfconference.org](https://olfconference.org)
+ - date published: 2023-10-25T21:51:41.610121+00:00
+ - user: None
+ - tags: []
+
+## Om: Main Page
+ - [https://www.om-language.org](https://www.om-language.org)
+ - date published: 2023-10-25T21:51:44.378412+00:00
+ - user: None
+ - tags: []
+
+## Together, we can solve the climate crisis | One Earth
+ - [https://www.oneearth.org](https://www.oneearth.org)
+ - date published: 2023-10-25T21:51:52.977152+00:00
+ - user: None
+ - tags: []
+
+## One Useful Thing | Ethan Mollick | Substack
+ - [https://www.oneusefulthing.org](https://www.oneusefulthing.org)
+ - date published: 2023-10-25T21:51:56.259603+00:00
+ - user: None
+ - tags: []
+
+## On the public record | a would-be mouthpiece for big corporate enviros, neopagans and totalitarian leftists.
+ - [https://onthepublicrecord.org](https://onthepublicrecord.org)
+ - date published: 2023-10-25T21:52:02.318093+00:00
+ - user: None
+ - tags: []
+
+## Open Observatory of Network Interference
+ - [https://ooni.org](https://ooni.org)
+ - date published: 2023-11-08T18:30:10+00:00
+ - user: None
+ - tags: []
+
+## Oregon Public Broadcasting - OPB
+ - [https://www.opb.org](https://www.opb.org)
+ - date published: 2023-10-25T21:52:14.305899+00:00
+ - user: None
+ - tags: []
+
+## Open Standards
+ - [https://www.open-std.org](https://www.open-std.org)
+ - date published: 2023-10-25T21:52:16.128054+00:00
+ - user: None
+ - tags: []
+
+## Open Access Government | Government | Health & Social Care | Research
+ - [https://www.openaccessgovernment.org](https://www.openaccessgovernment.org)
+ - date published: 2023-10-25T21:52:23.443094+00:00
+ - user: None
+ - tags: []
+
+## Open Amiga - Projects
+ - [http://openamiga.org](http://openamiga.org)
+ - date published: 2023-12-11T17:26:39.841158+00:00
+ - user: None
+ - tags: []
+
+## OpenBSD
+ - [https://www.openbsd.org](https://www.openbsd.org)
+ - date published: 2023-10-25T21:52:26.569830+00:00
+ - user: None
+ - tags: []
+
+## Open Compute Project
+ - [https://www.opencompute.org](https://www.opencompute.org)
+ - date published: 2023-10-27T12:06:56.023487+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://opencv.org](https://opencv.org)
+ - date published: 2023-11-27T11:43:39.740043+00:00
+ - user: None
+ - tags: ['facial recognition', 'artificial intelligence', 'computer vision', 'machine learning']
+
+## Home | OpenEnergyMonitor
+ - [https://openenergymonitor.org](https://openenergymonitor.org)
+ - date published: 2023-10-25T21:52:27.669344+00:00
+ - user: None
+ - tags: []
+
+## System Dashboard - Java Bug System
+ - [https://bugs.openjdk.org](https://bugs.openjdk.org)
+ - date published: 2023-10-25T21:52:29.217064+00:00
+ - user: None
+ - tags: []
+
+## cr.openjdk.org Server
+ - [https://cr.openjdk.org](https://cr.openjdk.org)
+ - date published: 2023-10-25T21:52:36.509765+00:00
+ - user: None
+ - tags: []
+
+## mail.openjdk.org Mailing Lists
+ - [https://mail.openjdk.org](https://mail.openjdk.org)
+ - date published: 2023-10-25T21:52:40.582021+00:00
+ - user: None
+ - tags: []
+
+## OpenJDK
+ - [https://openjdk.org](https://openjdk.org)
+ - date published: 2023-10-25T08:36:58.066021+00:00
+ - user: None
+ - tags: ['open source', 'java']
+
+## Welcome to Open Library | Open Library
+ - [https://openlibrary.org](https://openlibrary.org)
+ - date published: 2023-10-25T09:29:24.655304+00:00
+ - user: None
+ - tags: []
+
+## AI Ethics and Trustworthy Language Modeling - OpenLSR
+ - [https://openlsr.org](https://openlsr.org)
+ - date published: 2023-10-25T21:52:42.100852+00:00
+ - user: None
+ - tags: []
+
+## Home - Open Mainframe Project
+ - [https://www.openmainframeproject.org](https://www.openmainframeproject.org)
+ - date published: 2023-10-25T21:52:55.287205+00:00
+ - user: None
+ - tags: []
+
+## openmediavault - The open network attached storage solution
+ - [https://www.openmediavault.org](https://www.openmediavault.org)
+ - date published: 2023-10-25T08:35:04.416698+00:00
+ - user: None
+ - tags: []
+
+## Home - Open MKT
+ - [https://openmkt.org](https://openmkt.org)
+ - date published: 2023-10-25T21:52:57.063348+00:00
+ - user: None
+ - tags: []
+
+## MoonRay Production Renderer
+ - [https://openmoonray.org](https://openmoonray.org)
+ - date published: 2023-10-25T21:52:57.993654+00:00
+ - user: None
+ - tags: []
+
+## OpenMPT - Discover the music inside... | OpenMPT - Open ModPlug Tracker
+ - [https://openmpt.org](https://openmpt.org)
+ - date published: 2023-10-25T21:52:59.935278+00:00
+ - user: None
+ - tags: ['music tracker', 'open source']
+
+## OpenMW
+ - [https://openmw.org](https://openmw.org)
+ - date published: 2023-10-29T10:00:57.928021+00:00
+ - user: None
+ - tags: ['morrowind', 'open source', 'the elder scrolls']
+
+## OpenProcessing - Creative Coding for the Curious Mind
+ - [https://openprocessing.org](https://openprocessing.org)
+ - date published: 2023-10-25T21:53:01.379367+00:00
+ - user: None
+ - tags: []
+
+## OpenRailwayMap
+ - [https://www.openrailwaymap.org](https://www.openrailwaymap.org)
+ - date published: 2023-10-25T08:25:20.516625+00:00
+ - user: None
+ - tags: []
+
+## OpenRCT2 project
+ - [https://openrct2.org](https://openrct2.org)
+ - date published: 2023-10-25T21:53:01.909495+00:00
+ - user: None
+ - tags: []
+
+## OpenRefine
+ - [https://openrefine.org](https://openrefine.org)
+ - date published: 2023-11-01T08:44:36.756515+00:00
+ - user: None
+ - tags: []
+
+## OpenRetro Game Database
+ - [https://openretro.org](https://openretro.org)
+ - date published: 2023-10-25T11:18:22.724488+00:00
+ - user: None
+ - tags: []
+
+## Home | Open Rights Group
+ - [https://www.openrightsgroup.org](https://www.openrightsgroup.org)
+ - date published: 2023-10-25T21:53:03.331761+00:00
+ - user: None
+ - tags: []
+
+## Open Robotics
+ - [https://www.openrobotics.org](https://www.openrobotics.org)
+ - date published: 2023-10-25T21:53:09.705140+00:00
+ - user: None
+ - tags: []
+
+## A Grand Theft Auto III Re-Implementation
+ - [https://openrw.org](https://openrw.org)
+ - date published: 2023-10-31T19:53:00+00:00
+ - user: rumpel
+ - tags: ['game', 'open source', 'grand theft auto']
+
 ## OpenSAFELY: Home
  - [https://www.opensafely.org](https://www.opensafely.org)
  - date published: 2023-10-25T21:53:15.561678+00:00
@@ -5770,242 +6004,4 @@ is forbidden
  - date published: 2023-10-25T22:28:55.417897+00:00
  - user: None
  - tags: []
-
-## Homepage - Piotr Migdał
- - [https://p.migdal.pl](https://p.migdal.pl)
- - date published: 2023-10-25T09:24:21.804918+00:00
- - user: None
- - tags: ['personal']
-
-## Misyjne.pl - Portal chrześcijański dla ludzi z misją.
- - [https://misyjne.pl](https://misyjne.pl)
- - date published: 2023-10-25T10:13:22.284811+00:00
- - user: None
- - tags: ['catholic', 'christian']
-
-## Money.pl - portal finansowy
- - [https://www.money.pl](https://www.money.pl)
- - date published: 2023-10-25T10:31:43.454780+00:00
- - user: None
- - tags: []
-
-## MorphOS.pl - Polska strona użytkowników MorphOS-a
- - [https://morphos.pl](https://morphos.pl)
- - date published: 2023-12-11T16:54:14.115677+00:00
- - user: None
- - tags: []
-
-## Medycyna Praktyczna
- - [https://www.mp.pl](https://www.mp.pl)
- - date published: 2023-12-11T09:38:44+00:00
- - user: rumpel
- - tags: ['healthcare']
-
-## Grupa MTP - lider branży spotkań w Polsce
- - [https://www.mtp.pl](https://www.mtp.pl)
- - date published: 2023-11-02T08:31:38.392932+00:00
- - user: None
- - tags: []
-
-## muno.pl
- - [https://muno.pl](https://muno.pl)
- - date published: 2023-11-13T12:33:03.253162+00:00
- - user: None
- - tags: ['music news']
-
-## Budowa domu, instalacje, wnętrza, fachowe porady - murator.pl
- - [https://muratordom.pl](https://muratordom.pl)
- - date published: 2023-10-25T10:45:29+00:00
- - user: rumpel
- - tags: ['home articles']
-
-## Czasopisma humanistyczne
- - [https://bazhum.muzhp.pl](https://bazhum.muzhp.pl)
- - date published: 2023-12-05T15:24:31+00:00
- - user: rumpel
- - tags: ['humanism']
-
-## Muzeum Historii Polski w Warszawie
- - [https://muzhp.pl](https://muzhp.pl)
- - date published: 2023-12-05T15:27:28+00:00
- - user: rumpel
- - tags: ['poland', 'museum', 'warsow', 'history']
-
-## MyCompanyPolska.pl - Strefa Ludzi Przedsiębiorczych
- - [https://mycompanypolska.pl](https://mycompanypolska.pl)
- - date published: 2023-10-25T22:29:04.592214+00:00
- - user: None
- - tags: []
-
-## Myslovitz – Oficjalna strona zespołu – ROCK HOUSE ENTERTAINMENT
- - [https://www.myslovitz.pl](https://www.myslovitz.pl)
- - date published: 2023-10-29T15:28:35.756499+00:00
- - user: None
- - tags: ['music band']
-
-## 💥Najlepsze komiksy
- - [https://najlepszekomiksy.pl](https://najlepszekomiksy.pl)
- - date published: 2023-12-11T12:58:56+00:00
- - user: rumpel
- - tags: ['comics']
-
-## NASK
- - [https://www.nask.pl](https://www.nask.pl)
- - date published: 2023-12-06T12:01:57+00:00
- - user: rumpel
- - tags: ['organization', 'cybersecurity', 'naukowa i akademicka sieć komputerowa']
-
-## naTemat.pl - informacje i opinie, którymi żyją Polacy
- - [https://natemat.pl](https://natemat.pl)
- - date published: 2023-11-06T22:10:38.945631+00:00
- - user: None
- - tags: []
-
-## Nauka o klimacie | naukaoklimacie.pl
- - [https://naukaoklimacie.pl](https://naukaoklimacie.pl)
- - date published: 2023-10-25T22:29:07.910756+00:00
- - user: None
- - tags: []
-
-## NEONET - Sklep internetowy z RTV, AGD i elektroniką
- - [https://www.neonet.pl](https://www.neonet.pl)
- - date published: 2023-10-24T20:17:38.296034+00:00
- - user: None
- - tags: []
-
-## NewsBook | Wiadomości z Polski i ze Świata
- - [https://newsbook.pl](https://newsbook.pl)
- - date published: 2023-10-25T22:29:12.332774+00:00
- - user: None
- - tags: []
-
-## Nexto.pl - ebooki, audiobooki, eprasa i książki papierowe
- - [https://www.nexto.pl](https://www.nexto.pl)
- - date published: 2023-10-24T20:18:46.717386+00:00
- - user: None
- - tags: []
-
-## -- Niebezpiecznik.pl --
- - [https://niebezpiecznik.pl](https://niebezpiecznik.pl)
- - date published: 2023-10-25T09:38:10.310234+00:00
- - user: None
- - tags: ['tech news', 'cybersecurity']
-
-## Niedziela.pl - Wiarygodna strona internetu
- - [https://www.niedziela.pl](https://www.niedziela.pl)
- - date published: 2023-10-25T22:29:17.230520+00:00
- - user: None
- - tags: []
-
-## Niezależna - wiadomości | informacje | wydarzenia - Polska i Świat
- - [https://niezalezna.pl](https://niezalezna.pl)
- - date published: 2023-10-25T09:30:13.629577+00:00
- - user: None
- - tags: ['the right wing', 'misinformation']
-
-## Noizz
- - [https://noizz.pl](https://noizz.pl)
- - date published: 2023-10-25T22:29:21.690409+00:00
- - user: None
- - tags: []
-
-## Diablo 1 Hellfire - Kronika
- - [https://diablo.noktis.pl](https://diablo.noktis.pl)
- - date published: 2023-12-13T16:21:22.869256+00:00
- - user: None
- - tags: []
-
-## Diablo 1 HD MOD
- - [https://mod.diablo.noktis.pl](https://mod.diablo.noktis.pl)
- - date published: 2023-10-29T11:03:03.698273+00:00
- - user: None
- - tags: []
-
-## Noktis Workshop
- - [https://noktis.pl](https://noktis.pl)
- - date published: 2023-10-29T11:03:46.458305+00:00
- - user: None
- - tags: ['starcraft', 'red alert', 'warcraft', 'diablo']
-
-## o2 - Serce Internetu
- - [https://www.o2.pl](https://www.o2.pl)
- - date published: 2023-10-25T10:31:48.980569+00:00
- - user: None
- - tags: ['news']
-
-## Market budowlany i ogrodniczy OBI - akcesoria budowlane
- - [https://www.obi.pl](https://www.obi.pl)
- - date published: 2023-10-26T08:33:47.734470+00:00
- - user: None
- - tags: ['shop']
-
-## Obserwator Gospodarczy - portal gospodarczy
- - [https://obserwatorgospodarczy.pl](https://obserwatorgospodarczy.pl)
- - date published: 2023-10-25T22:29:29.603158+00:00
- - user: None
- - tags: []
-
-## ObywateleNieba.pl - Chrześcijański portal informacyjny
- - [https://obywatelenieba.pl](https://obywatelenieba.pl)
- - date published: 2023-10-25T22:29:39.409365+00:00
- - user: None
- - tags: []
-
-## Oferteo - Oferty od Firm
- - [https://www.oferteo.pl](https://www.oferteo.pl)
- - date published: 2023-10-24T20:20:11.338115+00:00
- - user: None
- - tags: ['services']
-
-## Ogłoszenia - Sprzedam, kupię na OLX.pl
- - [https://olx.pl](https://olx.pl)
- - date published: 2023-10-24T20:20:26.839764+00:00
- - user: None
- - tags: ['services']
-
-## Ogłoszenia - Sprzedam, kupię na OLX.pl
- - [https://www.olx.pl](https://www.olx.pl)
- - date published: 2023-10-26T18:23:30.459246+00:00
- - user: None
- - tags: ['services', 'social platform']
-
-## Kobieta -
-        
-        Kobieta - Porady dla Kobiet, Forum Uroda, Moda Damska i Trendy, Horoskop Codzienny
- - [https://kobieta.onet.pl](https://kobieta.onet.pl)
- - date published: 2023-10-25T10:31:51.351331+00:00
- - user: None
- - tags: []
-
-## Onet – Jesteś na bieżąco
- - [https://onet.pl](https://onet.pl)
- - date published: 2023-10-29T15:19:57.733284+00:00
- - user: None
- - tags: ['news']
-
-## Wiadomości -
-        
-        Wiadomości w Onet - Najnowsze i Najważniejsze Wiadomości z Kraju i Świata
- - [https://wiadomosci.onet.pl](https://wiadomosci.onet.pl)
- - date published: 2023-10-25T10:32:01.945249+00:00
- - user: None
- - tags: []
-
-## Onet – Jesteś na bieżąco
- - [https://www.onet.pl](https://www.onet.pl)
- - date published: 2023-10-25T10:32:07.223794+00:00
- - user: None
- - tags: []
-
-## OTOMOTO - nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.
- - [https://www.otomoto.pl](https://www.otomoto.pl)
- - date published: 2023-11-01T08:55:54.729508+00:00
- - user: None
- - tags: ['social platform', 'cars']
-
-## https://www.pap.pl
- - [https://www.pap.pl](https://www.pap.pl)
- - date published: 2023-10-25T10:32:11.461110+00:00
- - user: None
- - tags: ['polska agencja prasowa', 'poland']
 

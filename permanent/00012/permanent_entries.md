@@ -1,3 +1,213 @@
+## Sebastian Lague - itch.io
+ - [https://sebastian.itch.io](https://sebastian.itch.io)
+ - date published: 2023-10-25T19:58:32.648638+00:00
+ - user: None
+ - tags: []
+
+## Sonic Sloth - itch.io
+ - [https://sonicslothgames.itch.io](https://sonicslothgames.itch.io)
+ - date published: 2023-10-25T19:58:34.548921+00:00
+ - user: None
+ - tags: []
+
+## steamknight - itch.io
+ - [https://steamknight.itch.io](https://steamknight.itch.io)
+ - date published: 2023-10-25T19:58:41.779852+00:00
+ - user: None
+ - tags: []
+
+## Neil Thapen - itch.io
+ - [https://thapen.itch.io](https://thapen.itch.io)
+ - date published: 2023-10-25T19:58:44.194991+00:00
+ - user: None
+ - tags: []
+
+## ToulouTouMou - itch.io
+ - [https://toulou.itch.io](https://toulou.itch.io)
+ - date published: 2023-10-25T19:58:46.804568+00:00
+ - user: None
+ - tags: []
+
+## tRaum Books - itch.io
+ - [https://traumbooks.itch.io](https://traumbooks.itch.io)
+ - date published: 2023-10-25T19:58:49.226697+00:00
+ - user: None
+ - tags: []
+
+## Uniday Studio - itch.io
+ - [https://unidaystudio.itch.io](https://unidaystudio.itch.io)
+ - date published: 2023-11-01T15:43:57.773429+00:00
+ - user: None
+ - tags: []
+
+## vividfax - itch.io
+ - [https://vividfax.itch.io](https://vividfax.itch.io)
+ - date published: 2023-10-25T19:59:06.021245+00:00
+ - user: None
+ - tags: []
+
+## Vkgames82 - itch.io
+ - [https://vkgames82.itch.io](https://vkgames82.itch.io)
+ - date published: 2023-10-25T19:59:07.894042+00:00
+ - user: None
+ - tags: []
+
+## BubbleSoftGames - itch.io
+ - [https://vwguy16.itch.io](https://vwguy16.itch.io)
+ - date published: 2023-12-11T19:05:15.630550+00:00
+ - user: None
+ - tags: []
+
+## My Blog
+ - [https://blog.j11y.io](https://blog.j11y.io)
+ - date published: 2023-12-02T23:08:51.360797+00:00
+ - user: None
+ - tags: []
+
+## jacko.io
+ - [https://jacko.io](https://jacko.io)
+ - date published: 2023-10-25T19:59:09.714979+00:00
+ - user: None
+ - tags: []
+
+## JanOS - Turn your phone into an IoT board
+ - [http://janos.io](http://janos.io)
+ - date published: 2023-10-25T19:59:11.353354+00:00
+ - user: None
+ - tags: []
+
+## Home | Thoughts by Javier
+ - [https://www.javiergonzalez.io](https://www.javiergonzalez.io)
+ - date published: 2023-10-25T19:59:13.172540+00:00
+ - user: None
+ - tags: []
+
+## Jetpack.io | Tools for sophisticated cloud development
+ - [https://www.jetpack.io](https://www.jetpack.io)
+ - date published: 2023-10-25T19:59:15.286431+00:00
+ - user: None
+ - tags: []
+
+## Jetstack Consult Services Overview | Venafi
+ - [https://www.jetstack.io](https://www.jetstack.io)
+ - date published: 2023-10-25T19:59:19.124604+00:00
+ - user: None
+ - tags: []
+
+## Jake Zimmerman – Jake Zimmerman
+ - [https://blog.jez.io](https://blog.jez.io)
+ - date published: 2023-10-25T19:59:21.513456+00:00
+ - user: None
+ - tags: []
+
+## JSON Meta Application Protocol Specification (JMAP)
+ - [https://jmap.io](https://jmap.io)
+ - date published: 2023-10-25T19:59:23.210564+00:00
+ - user: None
+ - tags: []
+
+## https://www.jobrunr.io/en/
+ - [https://www.jobrunr.io](https://www.jobrunr.io)
+ - date published: 2023-10-25T19:59:24.463885+00:00
+ - user: None
+ - tags: []
+
+## JoinBase | JoinBase, a single-binary AIoT-first data-service platform.
+ - [https://joinbase.io](https://joinbase.io)
+ - date published: 2023-10-25T19:59:26.326546+00:00
+ - user: None
+ - tags: []
+
+## JSONGenerator - Create Random JSON Data
+ - [https://www.jsongenerator.io](https://www.jsongenerator.io)
+ - date published: 2023-10-25T19:59:28.663902+00:00
+ - user: None
+ - tags: []
+
+## ./jm
+ - [https://justinmiller.io](https://justinmiller.io)
+ - date published: 2023-11-29T16:19:27.042006+00:00
+ - user: None
+ - tags: ['personal']
+
+## JustPaid
+ - [https://www.justpaid.io](https://www.justpaid.io)
+ - date published: 2023-10-25T11:28:59.968204+00:00
+ - user: None
+ - tags: []
+
+## K3s
+ - [https://k3s.io](https://k3s.io)
+ - date published: 2023-10-25T19:59:30.052320+00:00
+ - user: None
+ - tags: []
+
+## Kairos - The immutable Linux meta-distribution for edge Kubernetes
+ - [https://kairos.io](https://kairos.io)
+ - date published: 2023-10-25T19:59:31.686672+00:00
+ - user: None
+ - tags: []
+
+## Kata Containers - Open Source Container Runtime Software | Kata Containers
+ - [https://katacontainers.io](https://katacontainers.io)
+ - date published: 2023-10-25T19:59:34.155323+00:00
+ - user: None
+ - tags: []
+
+## The Keras Blog
+ - [https://blog.keras.io](https://blog.keras.io)
+ - date published: 2023-12-13T23:33:24.005089+00:00
+ - user: None
+ - tags: []
+
+## Keybase
+ - [https://keybase.io](https://keybase.io)
+ - date published: 2023-12-11T16:20:17.586597+00:00
+ - user: None
+ - tags: []
+
+## Kiru.io
+ - [https://kiru.io](https://kiru.io)
+ - date published: 2023-10-25T19:59:36.324745+00:00
+ - user: None
+ - tags: []
+
+## Kitze
+ - [https://kitze.io](https://kitze.io)
+ - date published: 2023-10-25T19:59:38.773048+00:00
+ - user: None
+ - tags: []
+
+## Kitze
+ - [https://www.kitze.io](https://www.kitze.io)
+ - date published: 2023-10-27T12:05:16.392878+00:00
+ - user: None
+ - tags: []
+
+## KnifeGeek - Pocket Knives, Blades, and More!
+ - [https://www.knifegeek.io](https://www.knifegeek.io)
+ - date published: 2023-10-25T19:59:41.551736+00:00
+ - user: None
+ - tags: []
+
+## Kopia
+ - [https://kopia.io](https://kopia.io)
+ - date published: 2023-10-25T08:33:21.694650+00:00
+ - user: None
+ - tags: []
+
+## blog.kroy.io – computers, tech, and whatever other random stuff crosses my mind.
+ - [https://blog.kroy.io](https://blog.kroy.io)
+ - date published: 2023-10-25T19:59:44.362187+00:00
+ - user: None
+ - tags: []
+
+## Ktor: Build Asynchronous Servers and Clients in Kotlin
+ - [https://ktor.io](https://ktor.io)
+ - date published: 2023-12-12T09:09:46.111618+00:00
+ - user: None
+ - tags: []
+
 ## Production-Grade Container Orchestration
  - [https://kubernetes.io](https://kubernetes.io)
  - date published: 2023-11-01T08:43:38.548206+00:00
@@ -3022,6 +3232,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
+## Aquiles Carattino Open Notes
+ - [https://notes.aquiles.me](https://notes.aquiles.me)
+ - date published: 2023-12-14T09:18:12.843731+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Aquiles Carattino | Scientist, Entrepreneur - Science, Entrepreneurship | Aquiles Carattino
  - [https://www.aquiles.me](https://www.aquiles.me)
  - date published: 2023-10-25T08:50:05.476417+00:00
@@ -4917,7 +5133,7 @@ End-to-end typesafe APIs made easy. | tRPC
  - [https://us.battle.net](https://us.battle.net)
  - date published: 2023-12-13T16:20:30.595491+00:00
  - user: None
- - tags: []
+ - tags: ['diablo', 'overwatch', 'starcraft', 'warcraft']
 
 ## Battle.net
  - [https://us.shop.battle.net](https://us.shop.battle.net)
@@ -4978,6 +5194,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - date published: 2023-10-25T11:17:46.608645+00:00
  - user: None
  - tags: []
+
+## bgporter dot net
+ - [https://bgporter.net](https://bgporter.net)
+ - date published: 2023-12-14T09:17:50.903527+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Bill Mei
  - [https://billmei.net](https://billmei.net)
@@ -5782,226 +6004,4 @@ End-to-end typesafe APIs made easy. | tRPC
  - date published: 2023-11-12T15:24:41.593332+00:00
  - user: None
  - tags: []
-
-## Felix Rex: News from the bowels of the Internet
- - [https://felixrex.net](https://felixrex.net)
- - date published: 2023-10-25T20:29:56.379604+00:00
- - user: None
- - tags: []
-
-## 🥇 ▷ Technologiczne, Gadżety, Telefony Komórkowe, Pobieranie Aplikacji » ✅
- - [https://fikiri.net](https://fikiri.net)
- - date published: 2023-12-02T13:08:15+00:00
- - user: rumpel
- - tags: ['tech news']
-
-## The Digital Antiquarian
- - [https://www.filfre.net](https://www.filfre.net)
- - date published: 2023-10-25T20:30:08.120319+00:00
- - user: None
- - tags: []
-
-## Filip Hráček’s homepage
- - [https://filiph.net](https://filiph.net)
- - date published: 2023-10-25T20:30:10.451812+00:00
- - user: None
- - tags: []
-
-## FiMFetch: The FiM Fiction Archive
- - [https://fimfetch.net](https://fimfetch.net)
- - date published: 2023-10-25T20:30:11.943945+00:00
- - user: None
- - tags: []
-
-## flat assembler
- - [https://flatassembler.net](https://flatassembler.net)
- - date published: 2023-12-02T15:50:56.267456+00:00
- - user: None
- - tags: []
-
-## bflat - C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)
- - [https://flattened.net](https://flattened.net)
- - date published: 2023-10-25T20:30:13.195758+00:00
- - user: None
- - tags: []
-
-## flu0r1ne.net
- - [https://www.flu0r1ne.net](https://www.flu0r1ne.net)
- - date published: 2023-11-14T04:42:18.031975+00:00
- - user: None
- - tags: []
-
-## fodev.net
- - [https://fodev.net](https://fodev.net)
- - date published: 2023-10-25T08:36:01.914297+00:00
- - user: None
- - tags: []
-
-## foonathan::​blog()
- - [https://www.foonathan.net](https://www.foonathan.net)
- - date published: 2023-10-25T20:30:14.679352+00:00
- - user: None
- - tags: []
-
-## Forces Network
- - [https://www.forces.net](https://www.forces.net)
- - date published: 2023-12-10T17:05:03.656365+00:00
- - user: None
- - tags: []
-
-## ARM embedded system som system on module, single board computer, development board, industrial control board, microcontroller board - Forlinx Embedded Technology Co., Ltd.
- - [https://www.forlinx.net](https://www.forlinx.net)
- - date published: 2023-10-25T20:30:18.516748+00:00
- - user: None
- - tags: []
-
-## Frank Schmittlein :: WordPress & WooCommerce
- - [https://frank-schmittlein.net](https://frank-schmittlein.net)
- - date published: 2023-11-29T15:44:58.941355+00:00
- - user: None
- - tags: ['personal']
-
-## Marc Stuff
- - [https://www.friendlyskies.net](https://www.friendlyskies.net)
- - date published: 2023-10-25T08:52:22.641875+00:00
- - user: None
- - tags: ['personal']
-
-## Frostgrave Wiki
- - [https://www.frostgrave.net](https://www.frostgrave.net)
- - date published: 2023-10-27T07:24:05.990469+00:00
- - user: None
- - tags: ['tabletop games']
-
-## FS-UAE Amiga Emulator
- - [https://fs-uae.net](https://fs-uae.net)
- - date published: 2023-10-25T14:20:50.782383+00:00
- - user: None
- - tags: ['emulator']
-
-## Full Stop | Reviews. Interviews. Marginalia.
- - [https://www.full-stop.net](https://www.full-stop.net)
- - date published: 2023-10-25T20:30:27.155013+00:00
- - user: None
- - tags: []
-
-## Fully Stacked
- - [https://fullystacked.net](https://fullystacked.net)
- - date published: 2023-10-31T12:38:17.676616+00:00
- - user: None
- - tags: []
-
-## g1a55er::blog
- - [https://www.g1a55er.net](https://www.g1a55er.net)
- - date published: 2023-10-25T08:52:28.778544+00:00
- - user: None
- - tags: ['personal']
-
-## Homepage, Most Recent | GamersNexus
- - [https://gamersnexus.net](https://gamersnexus.net)
- - date published: 2023-11-04T22:47:35.444560+00:00
- - user: None
- - tags: []
-
-## Gandi.net news
- - [https://news.gandi.net](https://news.gandi.net)
- - date published: 2023-10-25T20:30:32.130954+00:00
- - user: None
- - tags: []
-
-## GBAtemp.net - The Independent Video Game Community
- - [https://gbatemp.net](https://gbatemp.net)
- - date published: 2023-10-25T20:30:39.036962+00:00
- - user: None
- - tags: []
-
-## Geeks are Sexy Technology NewsGeeks are Sexy Technology News | Tech, science, cosplay and news by geeks, for geeks! We make technology sexy!
- - [https://www.geeksaresexy.net](https://www.geeksaresexy.net)
- - date published: 2023-10-25T09:37:05.301473+00:00
- - user: None
- - tags: []
-
-## Easy HTTPS for your private networks
- - [https://www.getlocalcert.net](https://www.getlocalcert.net)
- - date published: 2023-10-25T20:30:41.478985+00:00
- - user: None
- - tags: []
-
-## Homepage | gHacks Technology News
- - [https://www.ghacks.net](https://www.ghacks.net)
- - date published: 2023-10-25T20:30:52.938103+00:00
- - user: None
- - tags: []
-
-## Ghoztcraft [Gaming Made Easy]
- - [https://www.ghoztcraft.net](https://www.ghoztcraft.net)
- - date published: 2023-10-30T15:24:11.219427+00:00
- - user: None
- - tags: ['diablo', 'starcraft']
-
-## GIGAZINE（ギガジン） - 効果なしと論じられたフェニレフリンを含む風邪薬をドラッグストア大手が棚から自主撤去
- - [https://gigazine.net](https://gigazine.net)
- - date published: 2023-10-25T10:58:35.725805+00:00
- - user: None
- - tags: []
-
-## Taras' Blog on AI, Perf, Hacks
- - [https://taras.glek.net](https://taras.glek.net)
- - date published: 2023-10-25T09:00:35.505591+00:00
- - user: None
- - tags: ['personal']
-
-## Globo Pre Order - Globo Software Solution
- - [https://preorder.globosoftware.net](https://preorder.globosoftware.net)
- - date published: 2023-12-13T15:36:22.501096+00:00
- - user: None
- - tags: []
-
-## GoDaddy Inc. - Home
- - [https://aboutus.godaddy.net](https://aboutus.godaddy.net)
- - date published: 2023-10-25T20:30:54.623084+00:00
- - user: None
- - tags: []
-
-## gofoss.net - Digital freedom for all
- - [https://gofoss.net](https://gofoss.net)
- - date published: 2023-10-25T20:30:55.230223+00:00
- - user: None
- - tags: []
-
-## Goomics
- - [https://goomics.net](https://goomics.net)
- - date published: 2023-10-25T20:31:00.865503+00:00
- - user: None
- - tags: []
-
-## What We Do - GoSecure
- - [https://www.gosecure.net](https://www.gosecure.net)
- - date published: 2023-10-25T20:31:05.944265+00:00
- - user: None
- - tags: []
-
-## Grafana
- - [https://decentim.grafana.net](https://decentim.grafana.net)
- - date published: 2023-11-01T08:43:53.028925+00:00
- - user: None
- - tags: []
-
-## Good Love - Out Now!
- - [https://www.gramatik.net](https://www.gramatik.net)
- - date published: 2023-11-13T09:58:11.681094+00:00
- - user: None
- - tags: ['music band']
-
-## Dr. Vadim Zaytsev
- - [https://www.grammarware.net](https://www.grammarware.net)
- - date published: 2023-10-25T08:52:31.014636+00:00
- - user: None
- - tags: ['personal']
-
-## Greg Egan’s Home Page
- - [https://www.gregegan.net](https://www.gregegan.net)
- - date published: 2023-10-25T08:52:34.982040+00:00
- - user: None
- - tags: ['personal']
 

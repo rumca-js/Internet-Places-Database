@@ -1,3 +1,21 @@
+## Consumer Surplus | Sam Bowman | Substack
+ - [https://www.sambowman.co](https://www.sambowman.co)
+ - date published: 2023-10-25T12:22:09.912561+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://shubhamjain.co](https://shubhamjain.co)
+ - date published: 2023-10-25T09:07:56.781772+00:00
+ - user: None
+ - tags: ['personal']
+
+## SkyPilot Blog
+ - [https://blog.skypilot.co](https://blog.skypilot.co)
+ - date published: 2023-10-25T08:35:15.483097+00:00
+ - user: None
+ - tags: []
+
 ## Sloww | The Art of Living for Students of Life
  - [https://www.sloww.co](https://www.sloww.co)
  - date published: 2023-12-13T20:59:22.124933+00:00
@@ -699,6 +717,12 @@
  - date published: 2023-10-25T12:28:46.281489+00:00
  - user: None
  - tags: []
+
+## Aaron Francis
+ - [https://aaronfrancis.com](https://aaronfrancis.com)
+ - date published: 2023-12-14T01:19:19.905292+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Aaron Hertzmann’s blog | Aaron Hertzmann’s blog
  - [https://aaronhertzmann.com](https://aaronhertzmann.com)
@@ -1720,6 +1744,12 @@
  - user: None
  - tags: ['personal']
 
+## Alex Budak – Helping People Become Changemakers
+ - [https://www.alexbudak.com](https://www.alexbudak.com)
+ - date published: 2023-12-14T01:26:38.625459+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Alex Cabal
  - [https://alexcabal.com](https://alexcabal.com)
  - date published: 2023-10-25T09:04:23.166247+00:00
@@ -1900,6 +1930,12 @@
  - user: None
  - tags: []
 
+## Allegra Stein
+ - [https://www.allegrastein.com](https://www.allegrastein.com)
+ - date published: 2023-12-14T01:27:23.359016+00:00
+ - user: None
+ - tags: ['personal']
+
 ## index | i’m so full of ideas
  - [https://allenbrunson.com](https://allenbrunson.com)
  - date published: 2023-10-25T12:38:58.401458+00:00
@@ -2044,6 +2080,12 @@
  - user: None
  - tags: ['personal']
 
+## ALXnow - Alexandria Now
+ - [https://www.alxnow.com](https://www.alxnow.com)
+ - date published: 2023-12-14T01:29:10.567487+00:00
+ - user: None
+ - tags: []
+
 ## Amadeus Pagel's Newsletter | Substack
  - [https://amadeuspagel.com](https://amadeuspagel.com)
  - date published: 2023-10-25T12:39:34.658645+00:00
@@ -2053,6 +2095,12 @@
 ## amanda peyton - my website
  - [https://amandapeyton.com](https://amandapeyton.com)
  - date published: 2023-10-25T08:44:26.814354+00:00
+ - user: None
+ - tags: ['personal']
+
+## Amanpreet KaurWelcome
+ - [https://amanpreetkaur.com](https://amanpreetkaur.com)
+ - date published: 2023-12-14T01:19:10.426629+00:00
  - user: None
  - tags: ['personal']
 
@@ -2407,6 +2455,12 @@
 ## AndreGarzia.com
  - [https://andregarzia.com](https://andregarzia.com)
  - date published: 2023-10-25T09:04:40.841851+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sharing links on daily basis
+ - [https://andreiluca.com](https://andreiluca.com)
+ - date published: 2023-12-14T01:19:48.419554+00:00
  - user: None
  - tags: ['personal']
 
@@ -5941,60 +5995,6 @@
 ## Push the Red Button
  - [https://moyix.blogspot.com](https://moyix.blogspot.com)
  - date published: 2023-10-25T09:10:03.220983+00:00
- - user: None
- - tags: ['personal']
-
-## Medieval Manuscripts Provenance
- - [https://mssprovenance.blogspot.com](https://mssprovenance.blogspot.com)
- - date published: 2023-10-25T09:10:06.865435+00:00
- - user: None
- - tags: ['personal']
-
-## The Art is Long
- - [https://multixden.blogspot.com](https://multixden.blogspot.com)
- - date published: 2023-10-25T09:10:09.729418+00:00
- - user: None
- - tags: ['personal']
-
-## Metadata
- - [https://muratbuffalo.blogspot.com](https://muratbuffalo.blogspot.com)
- - date published: 2023-10-25T09:10:15.224216+00:00
- - user: None
- - tags: ['personal']
-
-## The Mypy Blog
- - [https://mypy-lang.blogspot.com](https://mypy-lang.blogspot.com)
- - date published: 2023-10-25T13:05:59.664341+00:00
- - user: None
- - tags: []
-
-## Nibble Stew
- - [https://nibblestew.blogspot.com](https://nibblestew.blogspot.com)
- - date published: 2023-10-25T09:10:18.405908+00:00
- - user: None
- - tags: ['personal']
-
-## nmav's Blog
- - [https://nikmav.blogspot.com](https://nikmav.blogspot.com)
- - date published: 2023-10-25T09:10:21.474878+00:00
- - user: None
- - tags: ['personal']
-
-## Old Vintage Computing Research
- - [https://oldvcr.blogspot.com](https://oldvcr.blogspot.com)
- - date published: 2023-10-25T13:06:06.842647+00:00
- - user: None
- - tags: []
-
-## Postapokalipsa bez ograniczeń!
- - [https://postapokalipsa.blogspot.com](https://postapokalipsa.blogspot.com)
- - date published: 2023-12-13T15:11:58.113245+00:00
- - user: None
- - tags: ['hobby', 'fallout']
-
-## Thoughts on Programming
- - [https://programming-puzzler.blogspot.com](https://programming-puzzler.blogspot.com)
- - date published: 2023-10-25T09:10:24.409498+00:00
  - user: None
  - tags: ['personal']
 

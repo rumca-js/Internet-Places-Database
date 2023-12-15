@@ -3287,6 +3287,12 @@
  - user: None
  - tags: ['personal']
 
+## DonDagen
+ - [https://dondagen.home.blog](https://dondagen.home.blog)
+ - date published: 2023-12-14T06:53:35.668494+00:00
+ - user: None
+ - tags: ['personal']
+
 ## To Be Determined
  - [https://locationtbd.home.blog](https://locationtbd.home.blog)
  - date published: 2023-10-25T09:01:46.793235+00:00
@@ -5598,6 +5604,12 @@
  - user: None
  - tags: []
 
+## Duncan.co
+ - [https://duncan.co](https://duncan.co)
+ - date published: 2023-12-14T06:54:49.428387+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Ask Seneca: Learn about Stoicism from the Most Popular Stoic
  - [https://seneca.dylancastillo.co](https://seneca.dylancastillo.co)
  - date published: 2023-10-25T12:17:59.713847+00:00
@@ -5838,6 +5850,12 @@
  - user: None
  - tags: ['substack']
 
+## nick ng – designer – chicago
+ - [https://nickng.co](https://nickng.co)
+ - date published: 2023-12-14T01:26:43.743281+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Nick Allen - Marketing, Growth & Running
  - [https://nickwallen.co](https://nickwallen.co)
  - date published: 2023-12-13T06:03:37.050724+00:00
@@ -5981,22 +5999,4 @@
  - date published: 2023-10-25T09:03:23.998136+00:00
  - user: None
  - tags: ['personal']
-
-## Consumer Surplus | Sam Bowman | Substack
- - [https://www.sambowman.co](https://www.sambowman.co)
- - date published: 2023-10-25T12:22:09.912561+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://shubhamjain.co](https://shubhamjain.co)
- - date published: 2023-10-25T09:07:56.781772+00:00
- - user: None
- - tags: ['personal']
-
-## SkyPilot Blog
- - [https://blog.skypilot.co](https://blog.skypilot.co)
- - date published: 2023-10-25T08:35:15.483097+00:00
- - user: None
- - tags: []
 

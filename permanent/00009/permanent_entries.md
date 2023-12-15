@@ -1,3 +1,195 @@
+## Mighil | Generalist in Chengdu
+ - [https://verfasor.com](https://verfasor.com)
+ - date published: 2023-12-13T06:04:43.812181+00:00
+ - user: None
+ - tags: ['personal']
+
+## Verily Public Health
+ - [https://publichealth.verily.com](https://publichealth.verily.com)
+ - date published: 2023-10-25T17:55:51.105963+00:00
+ - user: None
+ - tags: []
+
+## Verily | Research, Care and Health Financing | Alphabet Precision Health Company
+ - [https://verily.com](https://verily.com)
+ - date published: 2023-10-25T17:55:52.204653+00:00
+ - user: None
+ - tags: []
+
+## Verocel
+ - [https://verocel.com](https://verocel.com)
+ - date published: 2023-10-25T11:28:53.666720+00:00
+ - user: None
+ - tags: ['avionics', 'aerospace', 'aviation']
+
+## Madison Wisconsin Web Design and Development with Craft CMS and ExpressionEngine CMS
+ - [https://versastudio.com](https://versastudio.com)
+ - date published: 2023-12-03T23:31:28.129334+00:00
+ - user: None
+ - tags: ['personal']
+
+## Vertical Mag - The pulse of the helicopter industry
+ - [https://verticalmag.com](https://verticalmag.com)
+ - date published: 2023-10-25T17:55:56.776993+00:00
+ - user: None
+ - tags: []
+
+## Verywell Mind - Know More. Live Brighter.
+ - [https://www.verywellmind.com](https://www.verywellmind.com)
+ - date published: 2023-10-25T17:56:04.001477+00:00
+ - user: None
+ - tags: []
+
+## Global Leader in Sustainable Energy | Vestas
+ - [https://www.vestas.com](https://www.vestas.com)
+ - date published: 2023-10-25T17:56:06.586790+00:00
+ - user: None
+ - tags: []
+
+## Veterinary daily
+ - [https://www.veterinarydaily.com](https://www.veterinarydaily.com)
+ - date published: 2023-10-25T17:56:08.813506+00:00
+ - user: None
+ - tags: []
+
+## VG247
+ - [https://www.vg247.com](https://www.vg247.com)
+ - date published: 2023-11-28T13:23:37.145498+00:00
+ - user: None
+ - tags: []
+
+## Videogame Questions and Answers
+ - [https://www.vgassist.com](https://www.vgassist.com)
+ - date published: 2023-12-13T16:15:17.027932+00:00
+ - user: None
+ - tags: []
+
+## Viam | Bring Any Smart Machine Project to Life
+ - [https://www.viam.com](https://www.viam.com)
+ - date published: 2023-10-25T17:56:12.612670+00:00
+ - user: None
+ - tags: []
+
+## VIBE.com
+ - [https://www.vibe.com](https://www.vibe.com)
+ - date published: 2023-11-22T23:43:52.120847+00:00
+ - user: None
+ - tags: []
+
+## viborc.com • Data-driven stories for bright minds
+ - [https://viborc.com](https://viborc.com)
+ - date published: 2023-10-25T17:56:14.934252+00:00
+ - user: None
+ - tags: []
+
+## VICE - VICE is the definitive guide to enlightening information.
+ - [https://www.vice.com](https://www.vice.com)
+ - date published: 2023-10-25T10:29:22.678604+00:00
+ - user: None
+ - tags: []
+
+## Tech Blog | ★❤✰ Vicki Boykis ★❤✰
+ - [https://vickiboykis.com](https://vickiboykis.com)
+ - date published: 2023-10-25T17:56:16.247870+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the Victoria News
+ - [https://www.vicnews.com](https://www.vicnews.com)
+ - date published: 2023-11-05T01:47:17.761566+00:00
+ - user: None
+ - tags: []
+
+## Home | Victor Brandalise
+ - [https://victorbrandalise.com](https://victorbrandalise.com)
+ - date published: 2023-10-25T17:56:19.318141+00:00
+ - user: None
+ - tags: []
+
+## VictoriaMetrics: Simple & Reliable Monitoring for Everyone
+ - [https://victoriametrics.com](https://victoriametrics.com)
+ - date published: 2023-10-25T17:56:20.471667+00:00
+ - user: None
+ - tags: []
+
+## A fine set of rules, designed to ensure that all who post there may do so with the assurance that their comments will be met with approbation by those of a similar persuasion
+ - [https://victorianhackernews.com](https://victorianhackernews.com)
+ - date published: 2023-10-25T17:56:21.528971+00:00
+ - user: None
+ - tags: []
+
+## VictoriaNow | Victoria news and the stuff that matters
+ - [https://www.victorianow.com](https://www.victorianow.com)
+ - date published: 2023-11-16T08:28:10.924553+00:00
+ - user: None
+ - tags: []
+
+## Nader Ouerdiane - Software Engineer
+ - [https://www.vicyyn.com](https://www.vicyyn.com)
+ - date published: 2023-11-13T00:40:41.668000+00:00
+ - user: None
+ - tags: []
+
+## VideoCardz.com - Home of Graphics Cards, Video Cards, GPUs
+ - [https://videocardz.com](https://videocardz.com)
+ - date published: 2023-10-25T17:56:26.527652+00:00
+ - user: None
+ - tags: []
+
+## VGC - Video Games Chronicle
+ - [https://www.videogameschronicle.com](https://www.videogameschronicle.com)
+ - date published: 2023-10-25T17:56:28.236670+00:00
+ - user: None
+ - tags: []
+
+## VideoPress – The finest video for WordPress
+ - [https://videopress.com](https://videopress.com)
+ - date published: 2023-10-25T17:56:30.912782+00:00
+ - user: None
+ - tags: []
+
+## View from the Wing - Thought Leader in Travel
+ - [https://viewfromthewing.com](https://viewfromthewing.com)
+ - date published: 2023-10-25T17:56:33.453322+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Unofficial YouTube Wrapped 2023, see top creators and watching habits
+ - [https://videorecap.viewodyssey.com](https://videorecap.viewodyssey.com)
+ - date published: 2023-12-01T18:26:03+00:00
+ - user: None
+ - tags: []
+
+## Vijay Prema - The Mindful Technologist
+ - [https://vijayprema.com](https://vijayprema.com)
+ - date published: 2023-10-25T17:56:35.803225+00:00
+ - user: None
+ - tags: []
+
+## Viksit Gaur | Viksit Gaur Online
+ - [https://viksit.com](https://viksit.com)
+ - date published: 2023-10-25T17:56:36.926186+00:00
+ - user: None
+ - tags: []
+
+## The Village Voice
+ - [https://www.villagevoice.com](https://www.villagevoice.com)
+ - date published: 2023-10-25T10:16:50.071015+00:00
+ - user: None
+ - tags: []
+
+## Learn VIM while playing a game - VIM Adventures
+ - [https://vim-adventures.com](https://vim-adventures.com)
+ - date published: 2023-10-25T17:56:39.100234+00:00
+ - user: None
+ - tags: []
+
+## Vimeo: Your videos deserve the best
+ - [https://player.vimeo.com](https://player.vimeo.com)
+ - date published: 2023-12-11T19:06:10.109935+00:00
+ - user: None
+ - tags: []
+
 ## Vimeo Interactive Video Experience Platform
  - [https://vimeo.com](https://vimeo.com)
  - date published: 2023-10-24T20:05:51.950738+00:00
@@ -5806,198 +5998,6 @@ home
 ## Hocus | Automated Self-Hosted Dev Environments
  - [https://hocus.dev](https://hocus.dev)
  - date published: 2023-10-25T18:38:23.102654+00:00
- - user: None
- - tags: []
-
-## hoop.dev - Protect access to customer data. Anywhere.
- - [https://hoop.dev](https://hoop.dev)
- - date published: 2023-10-25T18:38:24.467829+00:00
- - user: None
- - tags: []
-
-## Strada: Create high fidelity native interactions driven by your web app.
- - [https://strada.hotwired.dev](https://strada.hotwired.dev)
- - date published: 2023-10-25T18:38:25.376940+00:00
- - user: None
- - tags: []
-
-## Markup from hell - HTMHell
- - [https://www.htmhell.dev](https://www.htmhell.dev)
- - date published: 2023-12-02T12:10:35.500652+00:00
- - user: None
- - tags: ['funny', 'tutorial', 'html']
-
-## Hurl - Run and Test HTTP Requests
- - [https://hurl.dev](https://hurl.dev)
- - date published: 2023-10-25T18:38:27.301484+00:00
- - user: None
- - tags: []
-
-## Free Open Source Tailwind CSS Components | HyperUI
- - [https://www.hyperui.dev](https://www.hyperui.dev)
- - date published: 2023-10-25T18:38:28.357080+00:00
- - user: None
- - tags: []
-
-## PDF debugger
- - [https://pdf.hyzyla.dev](https://pdf.hyzyla.dev)
- - date published: 2023-10-25T18:38:28.976599+00:00
- - user: None
- - tags: []
-
-## Project IDX
- - [https://idx.dev](https://idx.dev)
- - date published: 2023-10-25T18:38:29.860040+00:00
- - user: None
- - tags: []
-
-## Gamedev Guide
- - [https://ikrima.dev](https://ikrima.dev)
- - date published: 2023-10-25T18:38:36.586289+00:00
- - user: None
- - tags: []
-
-## Daniel Imfeld
- - [https://imfeld.dev](https://imfeld.dev)
- - date published: 2023-10-25T08:58:35.606412+00:00
- - user: None
- - tags: ['personal']
-
-## Immersive Web Developer Home
- - [https://immersiveweb.dev](https://immersiveweb.dev)
- - date published: 2023-10-25T18:38:38.836353+00:00
- - user: None
- - tags: []
-
-## Imre Csige's Digital Garden
- - [https://imrecsige.dev](https://imrecsige.dev)
- - date published: 2023-12-12T04:53:12.747632+00:00
- - user: None
- - tags: ['personal']
-
-## Nobody5050 | Homepage
- - [https://6502.is-a.dev](https://6502.is-a.dev)
- - date published: 2023-10-25T18:38:44.396878+00:00
- - user: None
- - tags: []
-
-## jahed.dev
- - [https://jahed.dev](https://jahed.dev)
- - date published: 2023-10-25T08:58:36.253575+00:00
- - user: None
- - tags: ['personal']
-
-## Jam | Build a bug-free product.
- - [https://jam.dev](https://jam.dev)
- - date published: 2023-10-25T18:38:45.366903+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://jamsync.dev](https://jamsync.dev)
- - date published: 2023-10-25T18:38:46.533482+00:00
- - user: None
- - tags: []
-
-## Ramblings from Jessie: Home
- - [https://jess.dev](https://jess.dev)
- - date published: 2023-10-25T09:21:42.264142+00:00
- - user: None
- - tags: ['personal']
-
-## John Freeman
- - [https://jfreeman.dev](https://jfreeman.dev)
- - date published: 2023-10-25T08:58:37.230030+00:00
- - user: None
- - tags: ['personal']
-
-## @jimmyislive
- - [https://jimmyislive.dev](https://jimmyislive.dev)
- - date published: 2023-10-25T09:21:43.382608+00:00
- - user: None
- - tags: ['personal']
-
-## Just in Time Webhooks | Jiter
- - [https://jiter.dev](https://jiter.dev)
- - date published: 2023-10-25T18:38:47.496168+00:00
- - user: None
- - tags: []
-
-## JJTech
- - [https://jjtech.dev](https://jjtech.dev)
- - date published: 2023-12-05T17:46:59.391002+00:00
- - user: None
- - tags: []
-
-## Julio Merino (jmmv.dev)
- - [https://jmmv.dev](https://jmmv.dev)
- - date published: 2023-10-25T08:58:38.049908+00:00
- - user: None
- - tags: ['personal']
-
-## John Morrice
- - [https://jmorrice.dev](https://jmorrice.dev)
- - date published: 2023-10-25T09:21:44.400786+00:00
- - user: None
- - tags: ['personal']
-
-## Just for Fun. No, Really.
- - [https://justforfunnoreally.dev](https://justforfunnoreally.dev)
- - date published: 2023-10-25T18:38:48.340384+00:00
- - user: None
- - tags: []
-
-## Just Simply | Stop saying how simple things are in our docs
- - [https://justsimply.dev](https://justsimply.dev)
- - date published: 2023-10-25T18:38:49.030871+00:00
- - user: None
- - tags: []
-
-## The website of jyn
- - [https://jyn.dev](https://jyn.dev)
- - date published: 2023-10-25T18:38:50.121076+00:00
- - user: None
- - tags: []
-
-## Keep - Open-source alert management
- - [https://www.keephq.dev](https://www.keephq.dev)
- - date published: 2023-10-31T16:38:33.221838+00:00
- - user: None
- - tags: []
-
-## KeyDB - The Faster Redis Alternative
- - [https://docs.keydb.dev](https://docs.keydb.dev)
- - date published: 2023-10-25T18:38:51.996647+00:00
- - user: None
- - tags: []
-
-## Kash Goudarzi
- - [https://kg.dev](https://kg.dev)
- - date published: 2023-10-25T08:48:37.577143+00:00
- - user: None
- - tags: ['personal']
-
-## Articles & Experiments by Roman Komarov
- - [https://kizu.dev](https://kizu.dev)
- - date published: 2023-10-25T18:38:53.890565+00:00
- - user: None
- - tags: []
-
-## chshersh aka Dmitrii Kovanikov
- - [http://kodimensional.dev](http://kodimensional.dev)
- - date published: 2023-10-25T18:38:58.685350+00:00
- - user: None
- - tags: []
-
-## Kubernetes Contributors
- - [https://www.kubernetes.dev](https://www.kubernetes.dev)
- - date published: 2023-10-25T18:38:59.480703+00:00
- - user: None
- - tags: []
-
-## The Twenty Percent
- - [https://kuenzi.dev](https://kuenzi.dev)
- - date published: 2023-10-25T18:39:00.164249+00:00
  - user: None
  - tags: []
 

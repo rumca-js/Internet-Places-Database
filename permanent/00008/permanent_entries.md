@@ -1,3 +1,171 @@
+## A Particular Weird | Lyle Enright | Substack
+ - [https://lenright.substack.com](https://lenright.substack.com)
+ - date published: 2023-10-25T09:57:15.186001+00:00
+ - user: None
+ - tags: ['substack']
+
+## ICYMI by Lia Haberman | Substack
+ - [https://liahaberman.substack.com](https://liahaberman.substack.com)
+ - date published: 2023-10-25T09:57:18.422857+00:00
+ - user: None
+ - tags: ['substack']
+
+## Loeber on Substack | John Loeber | Substack
+ - [https://loeber.substack.com](https://loeber.substack.com)
+ - date published: 2023-10-25T09:57:29.028429+00:00
+ - user: None
+ - tags: ['substack']
+
+## lol/sos | Christian Näthler | Substack
+ - [https://lolsos.substack.com](https://lolsos.substack.com)
+ - date published: 2023-12-01T17:03:01.841136+00:00
+ - user: None
+ - tags: []
+
+## Louison’s newsletter | Louison Dumont | Substack
+ - [https://louison.substack.com](https://louison.substack.com)
+ - date published: 2023-10-25T09:57:31.845037+00:00
+ - user: None
+ - tags: ['substack']
+
+## Lucas’s Substack | Lucas Erb | Substack
+ - [https://lucaserb.substack.com](https://lucaserb.substack.com)
+ - date published: 2023-10-25T09:57:39.289039+00:00
+ - user: None
+ - tags: ['substack']
+
+## Low Latency Trading Insights | Henrique Bucher, MSc, PhD | Substack
+ - [https://lucisqr.substack.com](https://lucisqr.substack.com)
+ - date published: 2023-11-22T13:45:41.529235+00:00
+ - user: None
+ - tags: []
+
+## The Lunduke Journal of Technology | Bryan Lunduke | Substack
+ - [https://lunduke.substack.com](https://lunduke.substack.com)
+ - date published: 2023-10-25T09:57:45.004420+00:00
+ - user: None
+ - tags: ['substack']
+
+## Mad at the Internet | Joshua Moon | Substack
+ - [https://madattheinternet.substack.com](https://madattheinternet.substack.com)
+ - date published: 2023-10-25T09:57:47.051520+00:00
+ - user: None
+ - tags: ['substack']
+
+## Maestro's Musings | Justin Cranshaw | Substack
+ - [https://maestroai.substack.com](https://maestroai.substack.com)
+ - date published: 2023-10-25T09:57:55.016069+00:00
+ - user: None
+ - tags: ['substack']
+
+## Maneesh’s Substack | Maneesh Agrawala | Substack
+ - [https://magrawala.substack.com](https://magrawala.substack.com)
+ - date published: 2023-10-25T09:57:57.039994+00:00
+ - user: None
+ - tags: ['substack']
+
+## Many One Percents | Tuấn Mon | Substack
+ - [https://manyonepercents.substack.com](https://manyonepercents.substack.com)
+ - date published: 2023-10-25T09:58:00.066649+00:00
+ - user: None
+ - tags: ['substack']
+
+## Marcio Klepacz | Substack
+ - [https://marciok.substack.com](https://marciok.substack.com)
+ - date published: 2023-10-25T09:58:02.149600+00:00
+ - user: None
+ - tags: ['substack']
+
+## Teniade Topics | Marion Teniade | Substack
+ - [https://marionteniade.substack.com](https://marionteniade.substack.com)
+ - date published: 2023-10-25T09:58:10.422380+00:00
+ - user: None
+ - tags: ['substack']
+
+## Mimir's Well | Mark McNeilly | Substack
+ - [https://markmcneilly.substack.com](https://markmcneilly.substack.com)
+ - date published: 2023-10-25T09:58:13.271057+00:00
+ - user: None
+ - tags: ['substack']
+
+## Martin’s Newsletter | Martin Shkreli | Substack
+ - [https://martinshkreli.substack.com](https://martinshkreli.substack.com)
+ - date published: 2023-10-25T09:58:16.042885+00:00
+ - user: None
+ - tags: ['substack']
+
+## !important | Matt Frisbie | Substack
+ - [https://mattfrisbie.substack.com](https://mattfrisbie.substack.com)
+ - date published: 2023-10-25T09:58:18.461443+00:00
+ - user: None
+ - tags: ['substack']
+
+## Matthew’s Substack | Matthew Grohman | Substack
+ - [https://matthewgrohman.substack.com](https://matthewgrohman.substack.com)
+ - date published: 2023-10-25T09:58:21.025332+00:00
+ - user: None
+ - tags: ['substack']
+
+## BIG by Matt Stoller | Substack
+ - [https://mattstoller.substack.com](https://mattstoller.substack.com)
+ - date published: 2023-10-25T09:58:31.080586+00:00
+ - user: None
+ - tags: ['substack']
+
+## Maximum Progress | Maxwell Tabarrok | Substack
+ - [https://maximumprogress.substack.com](https://maximumprogress.substack.com)
+ - date published: 2023-11-25T21:49:13.039073+00:00
+ - user: None
+ - tags: []
+
+## Mindful Ruminations | Michael Oliver | Substack
+ - [https://mcoliver.substack.com](https://mcoliver.substack.com)
+ - date published: 2023-10-25T09:58:39.266748+00:00
+ - user: None
+ - tags: ['substack']
+
+## Melos Han-Tani | Substack
+ - [https://melodicambient.substack.com](https://melodicambient.substack.com)
+ - date published: 2023-10-25T09:58:46.701668+00:00
+ - user: None
+ - tags: ['substack']
+
+## Methexis | Kevin Fischer | Substack
+ - [https://methexis.substack.com](https://methexis.substack.com)
+ - date published: 2023-10-25T09:58:53.573354+00:00
+ - user: None
+ - tags: ['substack']
+
+## Cosmic Column | Kai Christensen | Substack
+ - [https://mkaic.substack.com](https://mkaic.substack.com)
+ - date published: 2023-10-25T09:59:01.344820+00:00
+ - user: None
+ - tags: ['substack']
+
+## Mr. E Reports | Substack
+ - [https://mrereports.substack.com](https://mrereports.substack.com)
+ - date published: 2023-10-25T09:59:18.422192+00:00
+ - user: None
+ - tags: ['substack']
+
+## Silver Bulletin | Nate Silver | Substack
+ - [https://natesilver.substack.com](https://natesilver.substack.com)
+ - date published: 2023-10-25T09:59:37.463830+00:00
+ - user: None
+ - tags: ['substack']
+
+## Nerology | Nero Vanbiervliet | Substack
+ - [https://nerology.substack.com](https://nerology.substack.com)
+ - date published: 2023-12-08T11:52:35.901292+00:00
+ - user: None
+ - tags: []
+
+## News from Uncibal | David McGrogan | Substack
+ - [https://newsfromuncibal.substack.com](https://newsfromuncibal.substack.com)
+ - date published: 2023-10-25T09:59:44.684685+00:00
+ - user: None
+ - tags: ['substack']
+
 ## Enterprise AI Trends | John Hwang | Substack
  - [https://nextword.substack.com](https://nextword.substack.com)
  - date published: 2023-10-25T17:19:14.088118+00:00
@@ -519,6 +687,12 @@
  - date published: 2023-10-25T10:07:21.630667+00:00
  - user: None
  - tags: ['substack']
+
+## Cosy Moments | William Poulos | Substack
+ - [https://williampoulos.substack.com](https://williampoulos.substack.com)
+ - date published: 2023-12-14T01:32:56.687154+00:00
+ - user: None
+ - tags: []
 
 ## The Works in Progress Newsletter | Substack
  - [https://worksinprogress.substack.com](https://worksinprogress.substack.com)
@@ -1972,6 +2146,12 @@
  - user: None
  - tags: []
 
+## Blog, The Best Wrong Way
+ - [https://www.thebestwrongway.com](https://www.thebestwrongway.com)
+ - date published: 2023-12-14T01:25:57.578090+00:00
+ - user: None
+ - tags: ['personal']
+
 ## BIG by Matt Stoller | Substack
  - [https://www.thebignewsletter.com](https://www.thebignewsletter.com)
  - date published: 2023-10-25T17:29:51.179343+00:00
@@ -2061,6 +2241,12 @@
  - date published: 2023-10-25T17:30:48.327080+00:00
  - user: None
  - tags: []
+
+## https://www.thechildist.com
+ - [https://www.thechildist.com](https://www.thechildist.com)
+ - date published: 2023-12-14T10:45:26.741744+00:00
+ - user: None
+ - tags: ['personal']
 
 ## The China Project | Reporting on China without fear or favor
  - [https://thechinaproject.com](https://thechinaproject.com)
@@ -3381,12 +3567,6 @@
 ## Digital Experience Monitoring | ThousandEyes
  - [https://www.thousandeyes.com](https://www.thousandeyes.com)
  - date published: 2023-10-25T17:41:11.018286+00:00
- - user: None
- - tags: []
-
-## Master Texas Hold'em Poker at THPlay.com | Learn Texas Hold'em poker with our tips, strategy articles and best poker room reviews
- - [https://www.thplay.com](https://www.thplay.com)
- - date published: 2023-12-13T15:50:46.010360+00:00
  - user: None
  - tags: []
 
@@ -4856,6 +5036,12 @@
  - user: None
  - tags: []
 
+## 🏡 Home - TSN Coaching
+ - [https://tylersuzukinelson.com](https://tylersuzukinelson.com)
+ - date published: 2023-12-14T01:19:52.562878+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Hi, I'm Tyler, this is where I write - Tyler Tringas
  - [https://tylertringas.com](https://tylertringas.com)
  - date published: 2023-12-02T10:26:10.930736+00:00
@@ -5065,6 +5251,12 @@
  - date published: 2023-10-25T17:52:20.268833+00:00
  - user: None
  - tags: []
+
+## ULRICH C. BEINERT
+ - [https://www.ulrich-beinert.com](https://www.ulrich-beinert.com)
+ - date published: 2023-12-14T06:53:47.768534+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Homepage
  - [https://www.ultimaker.com](https://www.ultimaker.com)
@@ -5808,198 +6000,6 @@
 ## Vercel: Build and deploy the best Web experiences with The Frontend Cloud
  - [https://vercel.com](https://vercel.com)
  - date published: 2023-10-25T17:55:50.277514+00:00
- - user: None
- - tags: []
-
-## Mighil | Generalist in Chengdu
- - [https://verfasor.com](https://verfasor.com)
- - date published: 2023-12-13T06:04:43.812181+00:00
- - user: None
- - tags: ['personal']
-
-## Verily Public Health
- - [https://publichealth.verily.com](https://publichealth.verily.com)
- - date published: 2023-10-25T17:55:51.105963+00:00
- - user: None
- - tags: []
-
-## Verily | Research, Care and Health Financing | Alphabet Precision Health Company
- - [https://verily.com](https://verily.com)
- - date published: 2023-10-25T17:55:52.204653+00:00
- - user: None
- - tags: []
-
-## Verocel
- - [https://verocel.com](https://verocel.com)
- - date published: 2023-10-25T11:28:53.666720+00:00
- - user: None
- - tags: ['avionics', 'aerospace', 'aviation']
-
-## Madison Wisconsin Web Design and Development with Craft CMS and ExpressionEngine CMS
- - [https://versastudio.com](https://versastudio.com)
- - date published: 2023-12-03T23:31:28.129334+00:00
- - user: None
- - tags: ['personal']
-
-## Vertical Mag - The pulse of the helicopter industry
- - [https://verticalmag.com](https://verticalmag.com)
- - date published: 2023-10-25T17:55:56.776993+00:00
- - user: None
- - tags: []
-
-## Verywell Mind - Know More. Live Brighter.
- - [https://www.verywellmind.com](https://www.verywellmind.com)
- - date published: 2023-10-25T17:56:04.001477+00:00
- - user: None
- - tags: []
-
-## Global Leader in Sustainable Energy | Vestas
- - [https://www.vestas.com](https://www.vestas.com)
- - date published: 2023-10-25T17:56:06.586790+00:00
- - user: None
- - tags: []
-
-## Veterinary daily
- - [https://www.veterinarydaily.com](https://www.veterinarydaily.com)
- - date published: 2023-10-25T17:56:08.813506+00:00
- - user: None
- - tags: []
-
-## VG247
- - [https://www.vg247.com](https://www.vg247.com)
- - date published: 2023-11-28T13:23:37.145498+00:00
- - user: None
- - tags: []
-
-## Videogame Questions and Answers
- - [https://www.vgassist.com](https://www.vgassist.com)
- - date published: 2023-12-13T16:15:17.027932+00:00
- - user: None
- - tags: []
-
-## Viam | Bring Any Smart Machine Project to Life
- - [https://www.viam.com](https://www.viam.com)
- - date published: 2023-10-25T17:56:12.612670+00:00
- - user: None
- - tags: []
-
-## VIBE.com
- - [https://www.vibe.com](https://www.vibe.com)
- - date published: 2023-11-22T23:43:52.120847+00:00
- - user: None
- - tags: []
-
-## viborc.com • Data-driven stories for bright minds
- - [https://viborc.com](https://viborc.com)
- - date published: 2023-10-25T17:56:14.934252+00:00
- - user: None
- - tags: []
-
-## VICE - VICE is the definitive guide to enlightening information.
- - [https://www.vice.com](https://www.vice.com)
- - date published: 2023-10-25T10:29:22.678604+00:00
- - user: None
- - tags: []
-
-## Tech Blog | ★❤✰ Vicki Boykis ★❤✰
- - [https://vickiboykis.com](https://vickiboykis.com)
- - date published: 2023-10-25T17:56:16.247870+00:00
- - user: None
- - tags: []
-
-## Welcome to the Victoria News
- - [https://www.vicnews.com](https://www.vicnews.com)
- - date published: 2023-11-05T01:47:17.761566+00:00
- - user: None
- - tags: []
-
-## Home | Victor Brandalise
- - [https://victorbrandalise.com](https://victorbrandalise.com)
- - date published: 2023-10-25T17:56:19.318141+00:00
- - user: None
- - tags: []
-
-## VictoriaMetrics: Simple & Reliable Monitoring for Everyone
- - [https://victoriametrics.com](https://victoriametrics.com)
- - date published: 2023-10-25T17:56:20.471667+00:00
- - user: None
- - tags: []
-
-## A fine set of rules, designed to ensure that all who post there may do so with the assurance that their comments will be met with approbation by those of a similar persuasion
- - [https://victorianhackernews.com](https://victorianhackernews.com)
- - date published: 2023-10-25T17:56:21.528971+00:00
- - user: None
- - tags: []
-
-## VictoriaNow | Victoria news and the stuff that matters
- - [https://www.victorianow.com](https://www.victorianow.com)
- - date published: 2023-11-16T08:28:10.924553+00:00
- - user: None
- - tags: []
-
-## Nader Ouerdiane - Software Engineer
- - [https://www.vicyyn.com](https://www.vicyyn.com)
- - date published: 2023-11-13T00:40:41.668000+00:00
- - user: None
- - tags: []
-
-## VideoCardz.com - Home of Graphics Cards, Video Cards, GPUs
- - [https://videocardz.com](https://videocardz.com)
- - date published: 2023-10-25T17:56:26.527652+00:00
- - user: None
- - tags: []
-
-## VGC - Video Games Chronicle
- - [https://www.videogameschronicle.com](https://www.videogameschronicle.com)
- - date published: 2023-10-25T17:56:28.236670+00:00
- - user: None
- - tags: []
-
-## VideoPress – The finest video for WordPress
- - [https://videopress.com](https://videopress.com)
- - date published: 2023-10-25T17:56:30.912782+00:00
- - user: None
- - tags: []
-
-## View from the Wing - Thought Leader in Travel
- - [https://viewfromthewing.com](https://viewfromthewing.com)
- - date published: 2023-10-25T17:56:33.453322+00:00
- - user: None
- - tags: []
-
-## Show HN: Unofficial YouTube Wrapped 2023, see top creators and watching habits
- - [https://videorecap.viewodyssey.com](https://videorecap.viewodyssey.com)
- - date published: 2023-12-01T18:26:03+00:00
- - user: None
- - tags: []
-
-## Vijay Prema - The Mindful Technologist
- - [https://vijayprema.com](https://vijayprema.com)
- - date published: 2023-10-25T17:56:35.803225+00:00
- - user: None
- - tags: []
-
-## Viksit Gaur | Viksit Gaur Online
- - [https://viksit.com](https://viksit.com)
- - date published: 2023-10-25T17:56:36.926186+00:00
- - user: None
- - tags: []
-
-## The Village Voice
- - [https://www.villagevoice.com](https://www.villagevoice.com)
- - date published: 2023-10-25T10:16:50.071015+00:00
- - user: None
- - tags: []
-
-## Learn VIM while playing a game - VIM Adventures
- - [https://vim-adventures.com](https://vim-adventures.com)
- - date published: 2023-10-25T17:56:39.100234+00:00
- - user: None
- - tags: []
-
-## Vimeo: Your videos deserve the best
- - [https://player.vimeo.com](https://player.vimeo.com)
- - date published: 2023-12-11T19:06:10.109935+00:00
  - user: None
  - tags: []
 
