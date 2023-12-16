@@ -1,3 +1,203 @@
+## Homepage
+ - [https://www.commerce.gov](https://www.commerce.gov)
+ - date published: 2023-11-01T19:47:55.173039+00:00
+ - user: None
+ - tags: []
+
+## Congress.gov API
+ - [https://api.congress.gov](https://api.congress.gov)
+ - date published: 2023-10-25T19:19:12.540417+00:00
+ - user: None
+ - tags: []
+
+## https://www.congress.gov
+ - [https://www.congress.gov](https://www.congress.gov)
+ - date published: 2023-10-25T19:19:13.544364+00:00
+ - user: None
+ - tags: []
+
+## Consumer Financial Protection Bureau
+ - [https://www.consumerfinance.gov](https://www.consumerfinance.gov)
+ - date published: 2023-10-25T19:19:22.686885+00:00
+ - user: None
+ - tags: []
+
+## U.S. Copyright Office | U.S. Copyright Office
+ - [https://www.copyright.gov](https://www.copyright.gov)
+ - date published: 2023-11-01T08:43:34.224069+00:00
+ - user: None
+ - tags: []
+
+## CPSC.gov
+ - [https://www.cpsc.gov](https://www.cpsc.gov)
+ - date published: 2023-10-25T19:19:28.555283+00:00
+ - user: None
+ - tags: []
+
+## U.S. Department of Defense
+ - [https://media.defense.gov](https://media.defense.gov)
+ - date published: 2023-10-25T19:19:33.802662+00:00
+ - user: None
+ - tags: []
+
+## U.S. Department of Defense
+ - [https://www.defense.gov](https://www.defense.gov)
+ - date published: 2023-10-25T19:19:38.874037+00:00
+ - user: None
+ - tags: []
+
+## Home - Delaware General Assembly
+ - [https://legis.delaware.gov](https://legis.delaware.gov)
+ - date published: 2023-10-25T19:19:49.711045+00:00
+ - user: None
+ - tags: []
+
+## Home | Homeland Security
+ - [https://www.dhs.gov](https://www.dhs.gov)
+ - date published: 2023-10-25T19:19:55.186821+00:00
+ - user: None
+ - tags: []
+
+## USWDS: The United States Web Design System | U.S. Web Design System (USWDS)
+ - [https://designsystem.digital.gov](https://designsystem.digital.gov)
+ - date published: 2023-10-25T19:20:02.198655+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.dni.gov](https://www.dni.gov)
+ - date published: 2023-10-25T19:20:05.412646+00:00
+ - user: None
+ - tags: []
+
+## BIS Website
+ - [https://www.bis.doc.gov](https://www.bis.doc.gov)
+ - date published: 2023-10-25T19:20:19.432638+00:00
+ - user: None
+ - tags: []
+
+## Home | U.S. Department of Labor
+ - [https://www.dol.gov](https://www.dol.gov)
+ - date published: 2023-10-25T19:20:24.712207+00:00
+ - user: None
+ - tags: []
+
+## Federal Highway Administration
+ - [https://highways.dot.gov](https://highways.dot.gov)
+ - date published: 2023-10-25T19:20:28.006537+00:00
+ - user: None
+ - tags: []
+
+## ERIC - Education Resources Information Center
+ - [https://files.eric.ed.gov](https://files.eric.ed.gov)
+ - date published: 2023-10-25T19:20:29.057582+00:00
+ - user: None
+ - tags: []
+
+## Homepage - U.S. Energy Information Administration (EIA)
+ - [https://www.eia.gov](https://www.eia.gov)
+ - date published: 2023-10-25T19:20:38.108192+00:00
+ - user: None
+ - tags: []
+
+## Department of Energy
+ - [https://www.energy.gov](https://www.energy.gov)
+ - date published: 2023-10-25T19:20:40.502538+00:00
+ - user: None
+ - tags: []
+
+## U.S. Environmental Protection Agency | US EPA
+ - [https://www.epa.gov](https://www.epa.gov)
+ - date published: 2023-10-25T19:20:46.144373+00:00
+ - user: None
+ - tags: []
+
+## Federal Aviation Administration
+ - [https://www.faa.gov](https://www.faa.gov)
+ - date published: 2023-10-25T11:20:33.122723+00:00
+ - user: None
+ - tags: ['avionics', 'aerospace', 'aviation']
+
+## Welcome to the LEB website — LEB
+ - [https://leb.fbi.gov](https://leb.fbi.gov)
+ - date published: 2023-10-25T10:47:03.596512+00:00
+ - user: None
+ - tags: []
+
+## Welcome to fbi.gov — FBI
+ - [https://www.fbi.gov](https://www.fbi.gov)
+ - date published: 2023-10-25T19:20:52.514388+00:00
+ - user: None
+ - tags: ['crime', 'government', 'fbi']
+
+## 403 Forbidden
+ - [https://docs.fcc.gov](https://docs.fcc.gov)
+ - date published: 2023-10-25T19:20:53.694947+00:00
+ - user: None
+ - tags: []
+
+## Federal Communications Commission | The United States of America
+ - [https://www.fcc.gov](https://www.fcc.gov)
+ - date published: 2023-10-25T19:21:01.719932+00:00
+ - user: None
+ - tags: []
+
+## U.S. Food and Drug Administration
+ - [https://www.fda.gov](https://www.fda.gov)
+ - date published: 2023-10-25T19:21:05.422596+00:00
+ - user: None
+ - tags: []
+
+## FDIC: Federal Deposit Insurance Corporation
+ - [https://www.fdic.gov](https://www.fdic.gov)
+ - date published: 2023-10-25T19:21:19.392966+00:00
+ - user: None
+ - tags: []
+
+## Federal Register
+       :: 
+      Home - Wednesday, October 25th
+ - [https://www.federalregister.gov](https://www.federalregister.gov)
+ - date published: 2023-10-25T19:21:22.351422+00:00
+ - user: None
+ - tags: []
+
+## Federal Reserve Board - Home
+ - [https://www.federalreserve.gov](https://www.federalreserve.gov)
+ - date published: 2023-10-25T19:21:25.826382+00:00
+ - user: None
+ - tags: []
+
+## FEMA.gov
+ - [https://www.fema.gov](https://www.fema.gov)
+ - date published: 2023-10-25T19:21:33.460504+00:00
+ - user: None
+ - tags: []
+
+## United States Department of the Treasury Financial Crimes Enforcement Network | FinCEN.gov
+ - [https://www.fincen.gov](https://www.fincen.gov)
+ - date published: 2023-10-25T19:21:37.717717+00:00
+ - user: None
+ - tags: []
+
+## Florida Department of Health
+ - [https://www.floridahealth.gov](https://www.floridahealth.gov)
+ - date published: 2023-10-25T19:21:43.397423+00:00
+ - user: None
+ - tags: []
+
+## Newsroom
+ - [https://news.fnal.gov](https://news.fnal.gov)
+ - date published: 2023-10-25T19:21:48.635515+00:00
+ - user: None
+ - tags: []
+
+## FOIAonline :: Decommissioned
+ - [https://foiaonline.gov](https://foiaonline.gov)
+ - date published: 2023-10-25T19:21:50.776367+00:00
+ - user: None
+ - tags: []
+
 ## Federal Trade Commission | Protecting America's Consumers
  - [https://www.ftc.gov](https://www.ftc.gov)
  - date published: 2023-10-25T19:21:54.571295+00:00
@@ -1813,6 +2013,12 @@
  - user: None
  - tags: ['company']
 
+## Mainly Norfolk: English Folk and Other Good Music
+ - [https://mainlynorfolk.info](https://mainlynorfolk.info)
+ - date published: 2023-12-15T11:15:44.660614+00:00
+ - user: None
+ - tags: []
+
 ## MARC: Mailing list ARChives
  - [https://marc.info](https://marc.info)
  - date published: 2023-10-25T19:33:43.196860+00:00
@@ -2236,6 +2442,12 @@
 ## The World's #1 Product Development Software | Aha!
  - [https://www.aha.io](https://www.aha.io)
  - date published: 2023-10-25T19:37:14.450720+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Airdraw
+ - [https://www.airdraw.io](https://www.airdraw.io)
+ - date published: 2023-12-14T22:02:44+00:00
  - user: None
  - tags: []
 
@@ -3474,6 +3686,12 @@
  - date published: 2023-10-24T20:10:38.543038+00:00
  - user: None
  - tags: ['app store']
+
+## Aref Malek
+ - [https://arefmalek.github.io](https://arefmalek.github.io)
+ - date published: 2023-12-15T11:11:35.993710+00:00
+ - user: None
+ - tags: []
 
 ## Ariel Miculas – Software Engineer at Cisco
  - [https://ariel-miculas.github.io](https://ariel-miculas.github.io)
@@ -5784,222 +6002,6 @@ through Composable Diffusion
 ## Infracost: The Cloud’s Checkout Screen
  - [https://infracost.io](https://infracost.io)
  - date published: 2023-10-25T19:57:18.523836+00:00
- - user: None
- - tags: []
-
-## IngestAI.io – The AI Trained on Your Business – Artificial Intelligence Powered Knowledge Base
- - [https://ingestai.io](https://ingestai.io)
- - date published: 2023-10-25T19:57:23.010796+00:00
- - user: None
- - tags: []
-
-## Interpeer Project
- - [https://interpeer.io](https://interpeer.io)
- - date published: 2023-10-25T19:57:24.660916+00:00
- - user: None
- - tags: []
-
-## Blog | interviewing.io
- - [https://blog.interviewing.io](https://blog.interviewing.io)
- - date published: 2023-10-25T19:57:27.977991+00:00
- - user: None
- - tags: []
-
-## Anonymous mock interviews with engineers from FAANG and more | interviewing.io
- - [https://interviewing.io](https://interviewing.io)
- - date published: 2023-10-25T19:57:29.822787+00:00
- - user: None
- - tags: []
-
-## https://interworld.io
- - [https://interworld.io](https://interworld.io)
- - date published: 2023-11-13T12:29:12.308634+00:00
- - user: None
- - tags: []
-
-## Investor Radar
- - [https://www.investorradar.io](https://www.investorradar.io)
- - date published: 2023-10-25T19:57:31.409326+00:00
- - user: None
- - tags: []
-
-## Invidious
- - [https://invidious.io](https://invidious.io)
- - date published: 2023-10-25T08:30:27.273833+00:00
- - user: None
- - tags: ['video streaming', 'youtube']
-
-## Select instance - Invidious
- - [https://redirect.invidious.io](https://redirect.invidious.io)
- - date published: 2023-10-24T20:05:59.872912+00:00
- - user: None
- - tags: []
-
-## Ionic: Enterprise App Platform
- - [https://ionic.io](https://ionic.io)
- - date published: 2023-10-25T08:40:05.862288+00:00
- - user: None
- - tags: []
-
-## An open system to manage data without a central server | IPFS
- - [https://ipfs.io](https://ipfs.io)
- - date published: 2023-10-25T19:57:39.545409+00:00
- - user: None
- - tags: []
-
-## 8080 - itch.io
- - [https://8080.itch.io](https://8080.itch.io)
- - date published: 2023-12-11T17:38:15.352214+00:00
- - user: None
- - tags: []
-
-## Kartik Agaram - itch.io
- - [https://akkartik.itch.io](https://akkartik.itch.io)
- - date published: 2023-11-24T13:32:12.830683+00:00
- - user: None
- - tags: []
-
-## Amiten Games - itch.io
- - [https://amiten.itch.io](https://amiten.itch.io)
- - date published: 2023-12-11T18:59:23.277455+00:00
- - user: None
- - tags: []
-
-## AriNeonShark - itch.io
- - [https://arineonshark.itch.io](https://arineonshark.itch.io)
- - date published: 2023-10-25T19:57:41.797330+00:00
- - user: None
- - tags: []
-
-## BlackwellWriter - itch.io
- - [https://blackwellwriter.itch.io](https://blackwellwriter.itch.io)
- - date published: 2023-10-25T19:57:45.103109+00:00
- - user: None
- - tags: []
-
-## codav - itch.io
- - [https://codav.itch.io](https://codav.itch.io)
- - date published: 2023-10-25T19:57:46.903191+00:00
- - user: None
- - tags: []
-
-## DaFluffyPotato - itch.io
- - [https://dafluffypotato.itch.io](https://dafluffypotato.itch.io)
- - date published: 2023-10-25T19:57:49.574367+00:00
- - user: None
- - tags: []
-
-## dukope - itch.io
- - [https://dukope.itch.io](https://dukope.itch.io)
- - date published: 2023-10-25T19:57:51.516696+00:00
- - user: None
- - tags: []
-
-## Edward La Barbera - itch.io
- - [https://edward-la-barbera.itch.io](https://edward-la-barbera.itch.io)
- - date published: 2023-10-25T19:57:53.615759+00:00
- - user: None
- - tags: []
-
-## EntwicklerX - itch.io
- - [https://entwicklerx.itch.io](https://entwicklerx.itch.io)
- - date published: 2023-12-11T19:08:13.001318+00:00
- - user: None
- - tags: []
-
-## Haplo - itch.io
- - [https://h4plo.itch.io](https://h4plo.itch.io)
- - date published: 2023-10-25T19:57:55.830373+00:00
- - user: None
- - tags: []
-
-## Download the latest indie games
- - [https://itch.io](https://itch.io)
- - date published: 2023-10-24T20:10:45.851043+00:00
- - user: None
- - tags: ['game store']
-
-## jimbo - itch.io
- - [https://jimbo.itch.io](https://jimbo.itch.io)
- - date published: 2023-10-25T19:57:58.091881+00:00
- - user: None
- - tags: []
-
-## jimhall - itch.io
- - [https://jimhall.itch.io](https://jimhall.itch.io)
- - date published: 2023-10-25T19:57:59.993232+00:00
- - user: None
- - tags: []
-
-## Johan Peitz - itch.io
- - [https://johanpeitz.itch.io](https://johanpeitz.itch.io)
- - date published: 2023-10-25T19:58:02.347390+00:00
- - user: None
- - tags: []
-
-## Antoine L. - itch.io
- - [https://ledoc.itch.io](https://ledoc.itch.io)
- - date published: 2023-10-25T19:58:04.823346+00:00
- - user: None
- - tags: []
-
-## The Bibites - itch.io
- - [https://leocaussan.itch.io](https://leocaussan.itch.io)
- - date published: 2023-10-25T19:58:07.357268+00:00
- - user: None
- - tags: []
-
-## Lorenzo Pilia - itch.io
- - [https://lorenzo.itch.io](https://lorenzo.itch.io)
- - date published: 2023-10-25T19:58:13.361412+00:00
- - user: None
- - tags: []
-
-## Ludipe - itch.io
- - [https://ludipe.itch.io](https://ludipe.itch.io)
- - date published: 2023-10-25T19:58:18.254514+00:00
- - user: None
- - tags: []
-
-## Daniel Linssen - itch.io
- - [https://managore.itch.io](https://managore.itch.io)
- - date published: 2023-10-25T19:58:21.800220+00:00
- - user: None
- - tags: []
-
-## Martin Piper - itch.io
- - [https://martin-piper.itch.io](https://martin-piper.itch.io)
- - date published: 2023-10-25T19:58:23.868424+00:00
- - user: None
- - tags: []
-
-## mslivo - itch.io
- - [https://mslivo.itch.io](https://mslivo.itch.io)
- - date published: 2023-10-25T19:58:25.730802+00:00
- - user: None
- - tags: []
-
-## AB-UltraNarwhal - itch.io
- - [https://narwhal.itch.io](https://narwhal.itch.io)
- - date published: 2023-12-11T19:00:22.455572+00:00
- - user: None
- - tags: []
-
-## nivrig - itch.io
- - [https://nivrig.itch.io](https://nivrig.itch.io)
- - date published: 2023-12-11T17:30:52.240805+00:00
- - user: None
- - tags: []
-
-## RETREAM - itch.io
- - [https://retream.itch.io](https://retream.itch.io)
- - date published: 2023-10-25T19:58:28.088117+00:00
- - user: None
- - tags: []
-
-## sdkgames - itch.io
- - [https://sdkgames.itch.io](https://sdkgames.itch.io)
- - date published: 2023-10-25T19:58:30.146116+00:00
  - user: None
  - tags: []
 

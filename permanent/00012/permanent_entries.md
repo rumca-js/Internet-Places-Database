@@ -1,3 +1,219 @@
+## IngestAI.io – The AI Trained on Your Business – Artificial Intelligence Powered Knowledge Base
+ - [https://ingestai.io](https://ingestai.io)
+ - date published: 2023-10-25T19:57:23.010796+00:00
+ - user: None
+ - tags: []
+
+## Interpeer Project
+ - [https://interpeer.io](https://interpeer.io)
+ - date published: 2023-10-25T19:57:24.660916+00:00
+ - user: None
+ - tags: []
+
+## Blog | interviewing.io
+ - [https://blog.interviewing.io](https://blog.interviewing.io)
+ - date published: 2023-10-25T19:57:27.977991+00:00
+ - user: None
+ - tags: []
+
+## Anonymous mock interviews with engineers from FAANG and more | interviewing.io
+ - [https://interviewing.io](https://interviewing.io)
+ - date published: 2023-10-25T19:57:29.822787+00:00
+ - user: None
+ - tags: []
+
+## https://interworld.io
+ - [https://interworld.io](https://interworld.io)
+ - date published: 2023-11-13T12:29:12.308634+00:00
+ - user: None
+ - tags: []
+
+## Investor Radar
+ - [https://www.investorradar.io](https://www.investorradar.io)
+ - date published: 2023-10-25T19:57:31.409326+00:00
+ - user: None
+ - tags: []
+
+## Invidious
+ - [https://invidious.io](https://invidious.io)
+ - date published: 2023-10-25T08:30:27.273833+00:00
+ - user: None
+ - tags: ['video streaming', 'youtube']
+
+## Select instance - Invidious
+ - [https://redirect.invidious.io](https://redirect.invidious.io)
+ - date published: 2023-10-24T20:05:59.872912+00:00
+ - user: None
+ - tags: []
+
+## Ionic: Enterprise App Platform
+ - [https://ionic.io](https://ionic.io)
+ - date published: 2023-10-25T08:40:05.862288+00:00
+ - user: None
+ - tags: []
+
+## An open system to manage data without a central server | IPFS
+ - [https://ipfs.io](https://ipfs.io)
+ - date published: 2023-10-25T19:57:39.545409+00:00
+ - user: None
+ - tags: []
+
+## 8080 - itch.io
+ - [https://8080.itch.io](https://8080.itch.io)
+ - date published: 2023-12-11T17:38:15.352214+00:00
+ - user: None
+ - tags: []
+
+## Kartik Agaram - itch.io
+ - [https://akkartik.itch.io](https://akkartik.itch.io)
+ - date published: 2023-11-24T13:32:12.830683+00:00
+ - user: None
+ - tags: []
+
+## Amiten Games - itch.io
+ - [https://amiten.itch.io](https://amiten.itch.io)
+ - date published: 2023-12-11T18:59:23.277455+00:00
+ - user: None
+ - tags: []
+
+## AriNeonShark - itch.io
+ - [https://arineonshark.itch.io](https://arineonshark.itch.io)
+ - date published: 2023-10-25T19:57:41.797330+00:00
+ - user: None
+ - tags: []
+
+## BlackwellWriter - itch.io
+ - [https://blackwellwriter.itch.io](https://blackwellwriter.itch.io)
+ - date published: 2023-10-25T19:57:45.103109+00:00
+ - user: None
+ - tags: []
+
+## codav - itch.io
+ - [https://codav.itch.io](https://codav.itch.io)
+ - date published: 2023-10-25T19:57:46.903191+00:00
+ - user: None
+ - tags: []
+
+## DaFluffyPotato - itch.io
+ - [https://dafluffypotato.itch.io](https://dafluffypotato.itch.io)
+ - date published: 2023-10-25T19:57:49.574367+00:00
+ - user: None
+ - tags: []
+
+## dukope - itch.io
+ - [https://dukope.itch.io](https://dukope.itch.io)
+ - date published: 2023-10-25T19:57:51.516696+00:00
+ - user: None
+ - tags: []
+
+## Edward La Barbera - itch.io
+ - [https://edward-la-barbera.itch.io](https://edward-la-barbera.itch.io)
+ - date published: 2023-10-25T19:57:53.615759+00:00
+ - user: None
+ - tags: []
+
+## EntwicklerX - itch.io
+ - [https://entwicklerx.itch.io](https://entwicklerx.itch.io)
+ - date published: 2023-12-11T19:08:13.001318+00:00
+ - user: None
+ - tags: []
+
+## Haplo - itch.io
+ - [https://h4plo.itch.io](https://h4plo.itch.io)
+ - date published: 2023-10-25T19:57:55.830373+00:00
+ - user: None
+ - tags: []
+
+## Download the latest indie games
+ - [https://itch.io](https://itch.io)
+ - date published: 2023-10-24T20:10:45.851043+00:00
+ - user: None
+ - tags: ['game store']
+
+## jimbo - itch.io
+ - [https://jimbo.itch.io](https://jimbo.itch.io)
+ - date published: 2023-10-25T19:57:58.091881+00:00
+ - user: None
+ - tags: []
+
+## jimhall - itch.io
+ - [https://jimhall.itch.io](https://jimhall.itch.io)
+ - date published: 2023-10-25T19:57:59.993232+00:00
+ - user: None
+ - tags: []
+
+## Johan Peitz - itch.io
+ - [https://johanpeitz.itch.io](https://johanpeitz.itch.io)
+ - date published: 2023-10-25T19:58:02.347390+00:00
+ - user: None
+ - tags: []
+
+## Antoine L. - itch.io
+ - [https://ledoc.itch.io](https://ledoc.itch.io)
+ - date published: 2023-10-25T19:58:04.823346+00:00
+ - user: None
+ - tags: []
+
+## The Bibites - itch.io
+ - [https://leocaussan.itch.io](https://leocaussan.itch.io)
+ - date published: 2023-10-25T19:58:07.357268+00:00
+ - user: None
+ - tags: []
+
+## Lorenzo Pilia - itch.io
+ - [https://lorenzo.itch.io](https://lorenzo.itch.io)
+ - date published: 2023-10-25T19:58:13.361412+00:00
+ - user: None
+ - tags: []
+
+## Ludipe - itch.io
+ - [https://ludipe.itch.io](https://ludipe.itch.io)
+ - date published: 2023-10-25T19:58:18.254514+00:00
+ - user: None
+ - tags: []
+
+## Daniel Linssen - itch.io
+ - [https://managore.itch.io](https://managore.itch.io)
+ - date published: 2023-10-25T19:58:21.800220+00:00
+ - user: None
+ - tags: []
+
+## Martin Piper - itch.io
+ - [https://martin-piper.itch.io](https://martin-piper.itch.io)
+ - date published: 2023-10-25T19:58:23.868424+00:00
+ - user: None
+ - tags: []
+
+## mslivo - itch.io
+ - [https://mslivo.itch.io](https://mslivo.itch.io)
+ - date published: 2023-10-25T19:58:25.730802+00:00
+ - user: None
+ - tags: []
+
+## AB-UltraNarwhal - itch.io
+ - [https://narwhal.itch.io](https://narwhal.itch.io)
+ - date published: 2023-12-11T19:00:22.455572+00:00
+ - user: None
+ - tags: []
+
+## nivrig - itch.io
+ - [https://nivrig.itch.io](https://nivrig.itch.io)
+ - date published: 2023-12-11T17:30:52.240805+00:00
+ - user: None
+ - tags: []
+
+## RETREAM - itch.io
+ - [https://retream.itch.io](https://retream.itch.io)
+ - date published: 2023-10-25T19:58:28.088117+00:00
+ - user: None
+ - tags: []
+
+## sdkgames - itch.io
+ - [https://sdkgames.itch.io](https://sdkgames.itch.io)
+ - date published: 2023-10-25T19:58:30.146116+00:00
+ - user: None
+ - tags: []
+
 ## Sebastian Lague - itch.io
  - [https://sebastian.itch.io](https://sebastian.itch.io)
  - date published: 2023-10-25T19:58:32.648638+00:00
@@ -573,6 +789,12 @@
 ## Nonio
  - [https://non.io](https://non.io)
  - date published: 2023-10-25T20:02:24.265460+00:00
+ - user: None
+ - tags: []
+
+## Noteable Community community
+ - [https://community.noteable.io](https://community.noteable.io)
+ - date published: 2023-12-15T23:05:54.195550+00:00
  - user: None
  - tags: []
 
@@ -5780,228 +6002,6 @@ End-to-end typesafe APIs made easy. | tRPC
 ## DIY-Thermocam | Open-source thermal imaging for everyone!
  - [https://www.diy-thermocam.net](https://www.diy-thermocam.net)
  - date published: 2023-10-25T20:29:10.410970+00:00
- - user: None
- - tags: []
-
-## DIY Photography - Your one stop shop for everything photo-video
- - [https://www.diyphotography.net](https://www.diyphotography.net)
- - date published: 2023-10-25T20:29:15.677437+00:00
- - user: None
- - tags: []
-
-## Notes from a data witch
- - [https://blog.djnavarro.net](https://blog.djnavarro.net)
- - date published: 2023-10-25T20:29:17.118132+00:00
- - user: None
- - tags: []
-
-## Upload & Share PDF | DocDroid
- - [https://www.docdroid.net](https://www.docdroid.net)
- - date published: 2023-10-25T20:29:17.961774+00:00
- - user: None
- - tags: []
-
-## Mikhail Gusarov
- - [https://dottedmag.net](https://dottedmag.net)
- - date published: 2023-10-25T09:00:34.520480+00:00
- - user: None
- - tags: ['personal']
-
-## doubleagent.net
- - [https://doubleagent.net](https://doubleagent.net)
- - date published: 2023-10-25T20:29:18.710543+00:00
- - user: None
- - tags: []
-
-## IT Notes
- - [https://it-notes.dragas.net](https://it-notes.dragas.net)
- - date published: 2023-10-25T20:29:24.860280+00:00
- - user: None
- - tags: []
-
-## duncan­lock­.net
- - [https://duncanlock.net](https://duncanlock.net)
- - date published: 2023-10-25T08:57:06.125112+00:00
- - user: None
- - tags: ['personal']
-
-## Duncan Mackenzie
- - [https://www.duncanmackenzie.net](https://www.duncanmackenzie.net)
- - date published: 2023-10-25T09:26:31.408589+00:00
- - user: None
- - tags: ['personal']
-
-## DYNOMIGHT INTERNET WEBSITE
- - [https://dynomight.net](https://dynomight.net)
- - date published: 2023-10-25T10:08:18.133719+00:00
- - user: None
- - tags: ['substack']
-
-## e-gry.net
- - [https://e-gry.net](https://e-gry.net)
- - date published: 2023-12-13T15:07:10.954747+00:00
- - user: None
- - tags: ['video games']
-
-## Świetne Gry Online do pobrania za Darmo na PC
- - [https://gierki.e-gry.net](https://gierki.e-gry.net)
- - date published: 2023-12-13T15:07:20.901994+00:00
- - user: None
- - tags: []
-
-## Stare gry - stare.e-gry.net
- - [https://stare.e-gry.net](https://stare.e-gry.net)
- - date published: 2023-10-29T13:17:57.644528+00:00
- - user: None
- - tags: ['retro games', 'commodore', 'roms', 'amiga', 'games']
-
-## E-Planning
- - [https://us.img.e-planning.net](https://us.img.e-planning.net)
- - date published: 2023-12-12T08:11:56.418101+00:00
- - user: None
- - tags: []
-
-## EarthCam: Construction Camera Solutions, Time-Lapse, Webcams
- - [https://www.earthcam.net](https://www.earthcam.net)
- - date published: 2023-10-25T20:29:27.847020+00:00
- - user: None
- - tags: []
-
-## Ben Eater
- - [https://eater.net](https://eater.net)
- - date published: 2023-10-27T21:33:15.902295+00:00
- - user: None
- - tags: []
-
-## edge|emulation | your source for roms
- - [https://edgeemu.net](https://edgeemu.net)
- - date published: 2023-10-25T14:21:14.160241+00:00
- - user: None
- - tags: []
-
-## Edward Nevard's Blog
- - [https://blog.edned.net](https://blog.edned.net)
- - date published: 2023-10-25T20:29:28.757804+00:00
- - user: None
- - tags: []
-
-## Eggspensive
- - [https://eggspensive.net](https://eggspensive.net)
- - date published: 2023-10-25T20:29:30.169998+00:00
- - user: None
- - tags: []
-
-## Hyperfiddle
- - [https://dustingetz.electricfiddle.net](https://dustingetz.electricfiddle.net)
- - date published: 2023-10-25T20:29:30.936289+00:00
- - user: None
- - tags: []
-
-## Electrospaces.net
- - [https://www.electrospaces.net](https://www.electrospaces.net)
- - date published: 2023-10-25T20:29:39.719378+00:00
- - user: None
- - tags: []
-
-## Eloquent JavaScript
- - [https://eloquentjavascript.net](https://eloquentjavascript.net)
- - date published: 2023-12-11T12:22:20+00:00
- - user: rumpel
- - tags: ['javascript']
-
-## Emulator Games - Download Game ROMs
- - [https://www.emulatorgames.net](https://www.emulatorgames.net)
- - date published: 2023-10-25T11:10:21.560069+00:00
- - user: None
- - tags: ['emulation', 'roms']
-
-## Homepage
- - [https://ernietheattorney.net](https://ernietheattorney.net)
- - date published: 2023-11-29T15:29:32.320291+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://ersei.net](https://ersei.net)
- - date published: 2023-10-25T08:52:19.054303+00:00
- - user: None
- - tags: ['personal']
-
-## Amiga hry - HOBRing - HWA
- - [http://hobring.esero.net](http://hobring.esero.net)
- - date published: 2023-11-02T10:53:22.764084+00:00
- - user: None
- - tags: ['amiga']
-
-## Eurogamer.net
- - [https://www.eurogamer.net](https://www.eurogamer.net)
- - date published: 2023-10-25T10:50:22.327629+00:00
- - user: None
- - tags: []
-
-## Fabien Sanglard's Website
- - [https://fabiensanglard.net](https://fabiensanglard.net)
- - date published: 2023-10-25T09:23:07.412311+00:00
- - user: None
- - tags: ['personal', 'quake', 'doom', 'street figher', 'diablo']
-
-## Log in or sign up to view
- - [https://connect.facebook.net](https://connect.facebook.net)
- - date published: 2023-12-11T16:35:58.837692+00:00
- - user: None
- - tags: []
-
-## Facet - Hire developers you'll love
- - [https://www.facet.net](https://www.facet.net)
- - date published: 2023-10-25T20:29:41.646450+00:00
- - user: None
- - tags: []
-
-## Factory factory factory
- - [https://factoryfactoryfactory.net](https://factoryfactoryfactory.net)
- - date published: 2023-10-25T20:29:42.150487+00:00
- - user: None
- - tags: []
-
-## Fake History Hunter
- - [https://fakehistoryhunter.net](https://fakehistoryhunter.net)
- - date published: 2023-10-25T20:29:45.814877+00:00
- - user: None
- - tags: []
-
-## Falkvinge on Liberty
- - [https://falkvinge.net](https://falkvinge.net)
- - date published: 2023-10-25T20:29:49.999607+00:00
- - user: None
- - tags: []
-
-## https://m.fanfiction.net
- - [https://m.fanfiction.net](https://m.fanfiction.net)
- - date published: 2023-10-26T18:18:51.004527+00:00
- - user: None
- - tags: []
-
-## https://www.fanfiction.net
- - [https://www.fanfiction.net](https://www.fanfiction.net)
- - date published: 2023-10-25T13:58:03.584331+00:00
- - user: None
- - tags: []
-
-## Fatboy Slim - Official Website
- - [https://www.fatboyslim.net](https://www.fatboyslim.net)
- - date published: 2023-11-13T10:40:05.720698+00:00
- - user: None
- - tags: ['music band']
-
-## None
- - [https://scontent-waw1-1.xx.fbcdn.net](https://scontent-waw1-1.xx.fbcdn.net)
- - date published: 2023-12-11T16:53:25.116777+00:00
- - user: None
- - tags: []
-
-## Felix' Blog
- - [https://felix-knorr.net](https://felix-knorr.net)
- - date published: 2023-11-12T15:24:41.593332+00:00
  - user: None
  - tags: []
 

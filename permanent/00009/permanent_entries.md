@@ -1,3 +1,159 @@
+## Vancouver News  - Vancouver Is Awesome
+ - [https://www.vancouverisawesome.com](https://www.vancouverisawesome.com)
+ - date published: 2023-10-25T17:54:58.760634+00:00
+ - user: None
+ - tags: []
+
+## Home | Vancouver Sun
+ - [https://vancouversun.com](https://vancouversun.com)
+ - date published: 2023-10-25T17:55:12.378780+00:00
+ - user: None
+ - tags: []
+
+## The Vanderbilt Hustler - The official student newspaper of Vanderbilt University
+ - [https://vanderbilthustler.com](https://vanderbilthustler.com)
+ - date published: 2023-10-25T17:55:16.964948+00:00
+ - user: None
+ - tags: []
+
+## Mutual funds, IRAs, ETFs, 401(k) plans, and more | Vanguard
+ - [https://vanguard.com](https://vanguard.com)
+ - date published: 2023-10-25T16:15:21.429996+00:00
+ - user: None
+ - tags: []
+
+## index
+ - [https://vanhunteradams.com](https://vanhunteradams.com)
+ - date published: 2023-10-25T17:55:19.369824+00:00
+ - user: None
+ - tags: []
+
+## The Vanilla JS Toolkit
+ - [https://vanillajstoolkit.com](https://vanillajstoolkit.com)
+ - date published: 2023-10-25T17:55:20.883096+00:00
+ - user: None
+ - tags: []
+
+## Vanity Fair -  Entertainment, Politics, and Fashion News | Vanity Fair
+ - [https://www.vanityfair.com](https://www.vanityfair.com)
+ - date published: 2023-10-25T17:55:24.038496+00:00
+ - user: None
+ - tags: []
+
+## Vanity Notes - A blog about programming and socialism
+ - [https://vanitynotes.com](https://vanitynotes.com)
+ - date published: 2023-10-25T17:55:29.596861+00:00
+ - user: None
+ - tags: []
+
+## Van Tucker - Digital Future Wizard - Empowering Exceptional Experiences
+ - [https://vantucker.com](https://vantucker.com)
+ - date published: 2023-11-29T14:43:21.870606+00:00
+ - user: None
+ - tags: ['personal']
+
+## Share your universe with our observation stations
+ - [https://vaonis.com](https://vaonis.com)
+ - date published: 2023-10-25T17:55:32.901924+00:00
+ - user: None
+ - tags: []
+
+## VapourSynth | The future home of VapourSynth… 3000!
+ - [https://www.vapoursynth.com](https://www.vapoursynth.com)
+ - date published: 2023-10-25T14:01:23.313974+00:00
+ - user: None
+ - tags: []
+
+## Variety
+ - [https://variety.com](https://variety.com)
+ - date published: 2023-10-25T10:17:55.128799+00:00
+ - user: None
+ - tags: []
+
+## Brian Whitman
+ - [https://notes.variogram.com](https://notes.variogram.com)
+ - date published: 2023-10-25T17:55:33.688023+00:00
+ - user: None
+ - tags: []
+
+## Fossil freedom - Vattenfall
+ - [https://group.vattenfall.com](https://group.vattenfall.com)
+ - date published: 2023-10-25T17:55:35.303824+00:00
+ - user: None
+ - tags: []
+
+## The Trusted GenAI Product Platform for Product Builders
+ - [https://vectara.com](https://vectara.com)
+ - date published: 2023-10-25T17:55:37.945868+00:00
+ - user: None
+ - tags: []
+
+## Vectary - Build interactive 3D and AR solutions online
+ - [https://www.vectary.com](https://www.vectary.com)
+ - date published: 2023-10-27T10:19:22.992988+00:00
+ - user: None
+ - tags: ['virtual reality', '3d printing', 'augmented reality']
+
+## Vectis IP Ltd - Building IP Solutions  for the Future
+ - [https://www.vectis.com](https://www.vectis.com)
+ - date published: 2023-10-25T17:55:40.842745+00:00
+ - user: None
+ - tags: []
+
+## VectorLogic
+ - [https://www.vector-logic.com](https://www.vector-logic.com)
+ - date published: 2023-10-25T17:55:41.709495+00:00
+ - user: None
+ - tags: []
+
+## VectorDB: Vector Database Built by Kagi Search
+ - [https://vectordb.com](https://vectordb.com)
+ - date published: 2023-11-26T10:21:55+00:00
+ - user: None
+ - tags: []
+
+## Latest News - vegconomist - the vegan business magazine
+ - [https://vegconomist.com](https://vegconomist.com)
+ - date published: 2023-10-25T17:55:45.760592+00:00
+ - user: None
+ - tags: []
+
+## Veilid
+ - [https://veilid.com](https://veilid.com)
+ - date published: 2023-10-25T17:55:46.235167+00:00
+ - user: None
+ - tags: []
+
+## Vendr: The Software Procurement & SaaS Management Platform
+ - [https://www.vendr.com](https://www.vendr.com)
+ - date published: 2023-10-25T17:55:48.039196+00:00
+ - user: None
+ - tags: []
+
+## VentureBeat | Transformative tech coverage that matters
+ - [https://venturebeat.com](https://venturebeat.com)
+ - date published: 2023-10-25T09:36:34.376824+00:00
+ - user: None
+ - tags: []
+
+## VERA Version Control Systems
+ - [https://vcs.vera-visions.com](https://vcs.vera-visions.com)
+ - date published: 2023-11-12T12:21:17.875383+00:00
+ - user: None
+ - tags: []
+
+## Vera Ruel-Wunsch
+ - [https://veraveravera.com](https://veraveravera.com)
+ - date published: 2023-11-26T10:11:12.588555+00:00
+ - user: None
+ - tags: ['personal']
+
+## Vercel: Build and deploy the best Web experiences with The Frontend Cloud
+ - [https://vercel.com](https://vercel.com)
+ - date published: 2023-10-25T17:55:50.277514+00:00
+ - user: None
+ - tags: []
+
 ## Mighil | Generalist in Chengdu
  - [https://verfasor.com](https://verfasor.com)
  - date published: 2023-12-13T06:04:43.812181+00:00
@@ -592,6 +748,12 @@
  - date published: 2023-11-26T16:49:19+00:00
  - user: rumpel
  - tags: ['bookmark manager']
+
+## قدم زدن در باغ عدن
+ - [https://walkineden.com](https://walkineden.com)
+ - date published: 2023-12-15T21:44:25.009160+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Best Wallet Hacks - Strategies & tactics for getting ahead financially and in life
  - [https://wallethacks.com](https://wallethacks.com)
@@ -3257,6 +3419,12 @@
  - user: None
  - tags: []
 
+## YZY
+ - [https://yeezy.com](https://yeezy.com)
+ - date published: 2023-12-15T11:14:44.905593+00:00
+ - user: None
+ - tags: []
+
 ## yeggi - 3D Printer Models Search Engine
  - [https://www.yeggi.com](https://www.yeggi.com)
  - date published: 2023-10-25T08:30:16.926541+00:00
@@ -4251,6 +4419,12 @@ home
 ## Yet another IT blog
  - [https://ch-st.de](https://ch-st.de)
  - date published: 2023-11-06T18:48:19.602527+00:00
+ - user: None
+ - tags: []
+
+## Startseite
+ - [https://www.charite.de](https://www.charite.de)
+ - date published: 2023-12-15T11:10:59.766023+00:00
  - user: None
  - tags: []
 
@@ -5824,180 +5998,6 @@ home
 ## Flightcontrol Jobs
  - [https://jobs.flightcontrol.dev](https://jobs.flightcontrol.dev)
  - date published: 2023-10-25T18:38:01.725933+00:00
- - user: None
- - tags: []
-
-## The Flix Programming Language
- - [https://flix.dev](https://flix.dev)
- - date published: 2023-11-26T04:54:16+00:00
- - user: None
- - tags: []
-
-## Flower: A Friendly Federated Learning Framework
- - [https://flower.dev](https://flower.dev)
- - date published: 2023-11-16T20:06:53.497502+00:00
- - user: None
- - tags: []
-
-## Flutter documentation
- - [https://docs.flutter.dev](https://docs.flutter.dev)
- - date published: 2023-12-11T12:14:27+00:00
- - user: rumpel
- - tags: ['flutter', 'programming language']
-
-## Flutter - Build apps for any screen
- - [https://flutter.dev](https://flutter.dev)
- - date published: 2023-12-11T12:15:06+00:00
- - user: rumpel
- - tags: ['flutter', 'programming language']
-
-## AI Emojis
- - [https://emoji.fly.dev](https://emoji.fly.dev)
- - date published: 2023-10-25T18:38:03.669949+00:00
- - user: None
- - tags: []
-
-## Fed Up
- - [https://fed-up.fly.dev](https://fed-up.fly.dev)
- - date published: 2023-10-25T18:38:04.597888+00:00
- - user: None
- - tags: []
-
-## HN Hired
- - [https://hnhired.fly.dev](https://hnhired.fly.dev)
- - date published: 2023-11-01T15:43:41.769111+00:00
- - user: None
- - tags: []
-
-## Reactive html apps in Go & alpine.js
- - [https://livefir.fly.dev](https://livefir.fly.dev)
- - date published: 2023-10-25T18:38:06.116135+00:00
- - user: None
- - tags: []
-
-## FrankenPHP: the modern PHP app server
- - [https://frankenphp.dev](https://frankenphp.dev)
- - date published: 2023-10-25T18:38:06.820817+00:00
- - user: None
- - tags: []
-
-## Fuchsia
- - [https://fuchsia.dev](https://fuchsia.dev)
- - date published: 2023-11-03T22:14:28.845169+00:00
- - user: None
- - tags: ['operating system']
-
-## fusectore.dev | My blog on programming.
- - [https://fusectore.dev](https://fusectore.dev)
- - date published: 2023-10-25T18:38:07.472050+00:00
- - user: None
- - tags: []
-
-## GB Studio
- - [https://www.gbstudio.dev](https://www.gbstudio.dev)
- - date published: 2023-10-25T18:38:08.261818+00:00
- - user: None
- - tags: []
-
-## Giraffe Security
- - [https://giraffesecurity.dev](https://giraffesecurity.dev)
- - date published: 2023-10-25T18:38:08.684071+00:00
- - user: None
- - tags: []
-
-## The Go Programming Language
- - [https://go.dev](https://go.dev)
- - date published: 2023-10-25T08:38:22.802255+00:00
- - user: None
- - tags: []
-
-## A Go package for building Progressive Web Apps
- - [https://go-app.dev](https://go-app.dev)
- - date published: 2023-11-01T08:43:29.617306+00:00
- - user: None
- - tags: []
-
-## Google Gemini Pro API Available Through AI Studio
- - [https://ai.google.dev](https://ai.google.dev)
- - date published: 2023-12-13T15:09:44+00:00
- - user: None
- - tags: []
-
-## Graphite - How the fastest developers ship code
- - [https://graphite.dev](https://graphite.dev)
- - date published: 2023-10-25T18:38:11.254763+00:00
- - user: None
- - tags: []
-
-## Grifel
- - [https://grifel.dev](https://grifel.dev)
- - date published: 2023-10-25T18:38:11.797740+00:00
- - user: None
- - tags: []
-
-## Gut - Ease your journey with Git
- - [https://gut-cli.dev](https://gut-cli.dev)
- - date published: 2023-10-25T18:38:12.352081+00:00
- - user: None
- - tags: []
-
-## The Container Security Platform | gVisor
- - [https://gvisor.dev](https://gvisor.dev)
- - date published: 2023-10-25T18:38:13.344166+00:00
- - user: None
- - tags: []
-
-## Hamel’s Blog
- - [https://hamel.dev](https://hamel.dev)
- - date published: 2023-10-25T08:58:29.383909+00:00
- - user: None
- - tags: ['personal']
-
-## Harris Jose
- - [https://harrisjose.dev](https://harrisjose.dev)
- - date published: 2023-12-12T13:08:55.908400+00:00
- - user: None
- - tags: ['personal']
-
-## Abid Moon
- - [https://abidmoon.hashnode.dev](https://abidmoon.hashnode.dev)
- - date published: 2023-10-25T18:38:19.386013+00:00
- - user: None
- - tags: []
-
-## Dan Dan Da Developer Man
- - [https://danfitdegree.hashnode.dev](https://danfitdegree.hashnode.dev)
- - date published: 2023-10-25T18:38:20.191019+00:00
- - user: None
- - tags: []
-
-## Steel Rods
- - [https://steelrods.hashnode.dev](https://steelrods.hashnode.dev)
- - date published: 2023-11-12T13:46:14.283644+00:00
- - user: None
- - tags: []
-
-## Henrique Vicente
- - [https://henvic.dev](https://henvic.dev)
- - date published: 2023-10-25T09:21:40.457532+00:00
- - user: None
- - tags: ['personal']
-
-## Intro
- - [https://hiranyey.dev](https://hiranyey.dev)
- - date published: 2023-10-25T18:38:20.773984+00:00
- - user: None
- - tags: []
-
-## Histoire | Histoire
- - [https://histoire.dev](https://histoire.dev)
- - date published: 2023-10-25T18:38:21.786006+00:00
- - user: None
- - tags: []
-
-## Hocus | Automated Self-Hosted Dev Environments
- - [https://hocus.dev](https://hocus.dev)
- - date published: 2023-10-25T18:38:23.102654+00:00
  - user: None
  - tags: []
 

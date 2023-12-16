@@ -1,3 +1,225 @@
+## DIY Photography - Your one stop shop for everything photo-video
+ - [https://www.diyphotography.net](https://www.diyphotography.net)
+ - date published: 2023-10-25T20:29:15.677437+00:00
+ - user: None
+ - tags: []
+
+## Notes from a data witch
+ - [https://blog.djnavarro.net](https://blog.djnavarro.net)
+ - date published: 2023-10-25T20:29:17.118132+00:00
+ - user: None
+ - tags: []
+
+## Upload & Share PDF | DocDroid
+ - [https://www.docdroid.net](https://www.docdroid.net)
+ - date published: 2023-10-25T20:29:17.961774+00:00
+ - user: None
+ - tags: []
+
+## Mikhail Gusarov
+ - [https://dottedmag.net](https://dottedmag.net)
+ - date published: 2023-10-25T09:00:34.520480+00:00
+ - user: None
+ - tags: ['personal']
+
+## doubleagent.net
+ - [https://doubleagent.net](https://doubleagent.net)
+ - date published: 2023-10-25T20:29:18.710543+00:00
+ - user: None
+ - tags: []
+
+## IT Notes
+ - [https://it-notes.dragas.net](https://it-notes.dragas.net)
+ - date published: 2023-10-25T20:29:24.860280+00:00
+ - user: None
+ - tags: []
+
+## duncan­lock­.net
+ - [https://duncanlock.net](https://duncanlock.net)
+ - date published: 2023-10-25T08:57:06.125112+00:00
+ - user: None
+ - tags: ['personal']
+
+## Duncan Mackenzie
+ - [https://www.duncanmackenzie.net](https://www.duncanmackenzie.net)
+ - date published: 2023-10-25T09:26:31.408589+00:00
+ - user: None
+ - tags: ['personal']
+
+## DYNOMIGHT INTERNET WEBSITE
+ - [https://dynomight.net](https://dynomight.net)
+ - date published: 2023-10-25T10:08:18.133719+00:00
+ - user: None
+ - tags: ['substack']
+
+## e-gry.net
+ - [https://e-gry.net](https://e-gry.net)
+ - date published: 2023-12-13T15:07:10.954747+00:00
+ - user: None
+ - tags: ['video games']
+
+## Świetne Gry Online do pobrania za Darmo na PC
+ - [https://gierki.e-gry.net](https://gierki.e-gry.net)
+ - date published: 2023-12-13T15:07:20.901994+00:00
+ - user: None
+ - tags: []
+
+## Stare gry - stare.e-gry.net
+ - [https://stare.e-gry.net](https://stare.e-gry.net)
+ - date published: 2023-10-29T13:17:57.644528+00:00
+ - user: None
+ - tags: ['retro games', 'commodore', 'roms', 'amiga', 'games']
+
+## E-Planning
+ - [https://us.img.e-planning.net](https://us.img.e-planning.net)
+ - date published: 2023-12-12T08:11:56.418101+00:00
+ - user: None
+ - tags: []
+
+## EarthCam: Construction Camera Solutions, Time-Lapse, Webcams
+ - [https://www.earthcam.net](https://www.earthcam.net)
+ - date published: 2023-10-25T20:29:27.847020+00:00
+ - user: None
+ - tags: []
+
+## Ben Eater
+ - [https://eater.net](https://eater.net)
+ - date published: 2023-10-27T21:33:15.902295+00:00
+ - user: None
+ - tags: []
+
+## edge|emulation | your source for roms
+ - [https://edgeemu.net](https://edgeemu.net)
+ - date published: 2023-10-25T14:21:14.160241+00:00
+ - user: None
+ - tags: []
+
+## Edward Nevard's Blog
+ - [https://blog.edned.net](https://blog.edned.net)
+ - date published: 2023-10-25T20:29:28.757804+00:00
+ - user: None
+ - tags: []
+
+## Eggspensive
+ - [https://eggspensive.net](https://eggspensive.net)
+ - date published: 2023-10-25T20:29:30.169998+00:00
+ - user: None
+ - tags: []
+
+## Hyperfiddle
+ - [https://dustingetz.electricfiddle.net](https://dustingetz.electricfiddle.net)
+ - date published: 2023-10-25T20:29:30.936289+00:00
+ - user: None
+ - tags: []
+
+## Electrospaces.net
+ - [https://www.electrospaces.net](https://www.electrospaces.net)
+ - date published: 2023-10-25T20:29:39.719378+00:00
+ - user: None
+ - tags: []
+
+## Eloquent JavaScript
+ - [https://eloquentjavascript.net](https://eloquentjavascript.net)
+ - date published: 2023-12-11T12:22:20+00:00
+ - user: rumpel
+ - tags: ['javascript']
+
+## Emulator Games - Download Game ROMs
+ - [https://www.emulatorgames.net](https://www.emulatorgames.net)
+ - date published: 2023-10-25T11:10:21.560069+00:00
+ - user: None
+ - tags: ['emulation', 'roms']
+
+## Homepage
+ - [https://ernietheattorney.net](https://ernietheattorney.net)
+ - date published: 2023-11-29T15:29:32.320291+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://ersei.net](https://ersei.net)
+ - date published: 2023-10-25T08:52:19.054303+00:00
+ - user: None
+ - tags: ['personal']
+
+## Amiga hry - HOBRing - HWA
+ - [http://hobring.esero.net](http://hobring.esero.net)
+ - date published: 2023-11-02T10:53:22.764084+00:00
+ - user: None
+ - tags: ['amiga']
+
+## Eurogamer.net
+ - [https://www.eurogamer.net](https://www.eurogamer.net)
+ - date published: 2023-10-25T10:50:22.327629+00:00
+ - user: None
+ - tags: []
+
+## Fabien Sanglard's Website
+ - [https://fabiensanglard.net](https://fabiensanglard.net)
+ - date published: 2023-10-25T09:23:07.412311+00:00
+ - user: None
+ - tags: ['personal', 'quake', 'doom', 'street figher', 'diablo']
+
+## Log in or sign up to view
+ - [https://connect.facebook.net](https://connect.facebook.net)
+ - date published: 2023-12-11T16:35:58.837692+00:00
+ - user: None
+ - tags: []
+
+## Facet - Hire developers you'll love
+ - [https://www.facet.net](https://www.facet.net)
+ - date published: 2023-10-25T20:29:41.646450+00:00
+ - user: None
+ - tags: []
+
+## Factory factory factory
+ - [https://factoryfactoryfactory.net](https://factoryfactoryfactory.net)
+ - date published: 2023-10-25T20:29:42.150487+00:00
+ - user: None
+ - tags: []
+
+## Fake History Hunter
+ - [https://fakehistoryhunter.net](https://fakehistoryhunter.net)
+ - date published: 2023-10-25T20:29:45.814877+00:00
+ - user: None
+ - tags: []
+
+## Falkvinge on Liberty
+ - [https://falkvinge.net](https://falkvinge.net)
+ - date published: 2023-10-25T20:29:49.999607+00:00
+ - user: None
+ - tags: []
+
+## https://m.fanfiction.net
+ - [https://m.fanfiction.net](https://m.fanfiction.net)
+ - date published: 2023-10-26T18:18:51.004527+00:00
+ - user: None
+ - tags: []
+
+## https://www.fanfiction.net
+ - [https://www.fanfiction.net](https://www.fanfiction.net)
+ - date published: 2023-10-25T13:58:03.584331+00:00
+ - user: None
+ - tags: []
+
+## Fatboy Slim - Official Website
+ - [https://www.fatboyslim.net](https://www.fatboyslim.net)
+ - date published: 2023-11-13T10:40:05.720698+00:00
+ - user: None
+ - tags: ['music band']
+
+## None
+ - [https://scontent-waw1-1.xx.fbcdn.net](https://scontent-waw1-1.xx.fbcdn.net)
+ - date published: 2023-12-11T16:53:25.116777+00:00
+ - user: None
+ - tags: []
+
+## Felix' Blog
+ - [https://felix-knorr.net](https://felix-knorr.net)
+ - date published: 2023-11-12T15:24:41.593332+00:00
+ - user: None
+ - tags: []
+
 ## Felix Rex: News from the bowels of the Internet
  - [https://felixrex.net](https://felixrex.net)
  - date published: 2023-10-25T20:29:56.379604+00:00
@@ -577,6 +799,12 @@
 ## Jon Udell – Strategies for Internet citizens
  - [https://blog.jonudell.net](https://blog.jonudell.net)
  - date published: 2023-10-25T20:32:25.142965+00:00
+ - user: None
+ - tags: []
+
+## Journal of Illusion
+ - [https://journalofillusion.net](https://journalofillusion.net)
+ - date published: 2023-12-15T21:46:51.165063+00:00
  - user: None
  - tags: []
 
@@ -3558,6 +3786,12 @@
  - user: None
  - tags: []
 
+## Index
+ - [https://sudhir.nl](https://sudhir.nl)
+ - date published: 2023-12-15T11:15:24.587749+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Home | Sylvia van Os
  - [https://sylviavanos.nl](https://sylviavanos.nl)
  - date published: 2023-10-25T09:23:50.720071+00:00
@@ -5766,238 +6000,4 @@ marginalia.nu
  - date published: 2023-10-24T20:19:39.194067+00:00
  - user: None
  - tags: ['tutorial']
-
-## British Ecological Society
- - [https://www.britishecologicalsociety.org](https://www.britishecologicalsociety.org)
- - date published: 2023-10-25T21:04:24.691227+00:00
- - user: None
- - tags: []
-
-## British Museum
- - [https://www.britishmuseum.org](https://www.britishmuseum.org)
- - date published: 2023-10-25T21:04:28.140600+00:00
- - user: None
- - tags: ['musem']
-
-## Brownstone Institute ⋆ Freedom, Economics, Science, Health
- - [https://brownstone.org](https://brownstone.org)
- - date published: 2023-10-25T21:04:35.069980+00:00
- - user: None
- - tags: []
-
-## Bruegel
- - [https://www.bruegel.org](https://www.bruegel.org)
- - date published: 2023-10-25T21:04:37.159222+00:00
- - user: None
- - tags: []
-
-## Hyperlogloglog
- - [https://carlos.bueno.org](https://carlos.bueno.org)
- - date published: 2023-10-25T21:04:39.654113+00:00
- - user: None
- - tags: []
-
-## Bugzilla
- - [https://www.bugzilla.org](https://www.bugzilla.org)
- - date published: 2023-10-25T21:04:40.513010+00:00
- - user: None
- - tags: []
-
-## Build Your Own X From Scratch Books
- - [https://build-your-own.org](https://build-your-own.org)
- - date published: 2023-10-25T21:04:41.262010+00:00
- - user: None
- - tags: []
-
-## Hacker News Without News: A curated newsletter of interesting things
- - [https://hn.build-your-own.org](https://hn.build-your-own.org)
- - date published: 2023-10-25T21:04:42.635507+00:00
- - user: None
- - tags: []
-
-## BuildList.org
- - [https://buildlist.org](https://buildlist.org)
- - date published: 2023-10-25T21:04:45.115099+00:00
- - user: None
- - tags: []
-
-## Bytecode Alliance
- - [https://bytecodealliance.org](https://bytecodealliance.org)
- - date published: 2023-10-25T21:04:46.459709+00:00
- - user: None
- - tags: []
-
-## Community Center for the Arts (C4A)
- - [https://c-4a.org](https://c-4a.org)
- - date published: 2023-12-02T21:16:46.385959+00:00
- - user: None
- - tags: []
-
-## C-Fam
- - [https://c-fam.org](https://c-fam.org)
- - date published: 2023-10-25T21:04:54.162943+00:00
- - user: None
- - tags: []
-
-## C-SPAN.org | National Politics | History | Nonfiction Books
- - [https://www.c-span.org](https://www.c-span.org)
- - date published: 2023-11-14T19:59:38.588118+00:00
- - user: None
- - tags: []
-
-## CABINET / Homepage
- - [https://www.cabinetmagazine.org](https://www.cabinetmagazine.org)
- - date published: 2023-10-25T21:04:55.968628+00:00
- - user: None
- - tags: []
-
-## Cachix Blog
- - [https://blog.cachix.org](https://blog.cachix.org)
- - date published: 2023-10-25T21:04:57.090665+00:00
- - user: None
- - tags: []
-
-## California Policy Center
- - [https://californiapolicycenter.org](https://californiapolicycenter.org)
- - date published: 2023-10-25T21:05:06.939673+00:00
- - user: None
- - tags: []
-
-## Call-A.P.P.L.E. – Worlds Largest Apple User Group – Since 1978
- - [https://www.callapple.org](https://www.callapple.org)
- - date published: 2023-10-25T21:05:17.584675+00:00
- - user: None
- - tags: []
-
-## CalMatters - California Politics, Policy, and Political News
- - [https://calmatters.org](https://calmatters.org)
- - date published: 2023-10-25T21:05:28.336887+00:00
- - user: None
- - tags: []
-
-## Cambridge Dictionary | English Dictionary, Translations & Thesaurus
- - [https://dictionary.cambridge.org](https://dictionary.cambridge.org)
- - date published: 2023-10-25T09:28:53.881071+00:00
- - user: None
- - tags: []
-
-## Home | Cambridge University Press & Assessment
- - [https://www.cambridge.org](https://www.cambridge.org)
- - date published: 2023-10-25T11:20:49.686300+00:00
- - user: None
- - tags: []
-
-## Campaign against Climate Change |
- - [https://www.campaigncc.org](https://www.campaigncc.org)
- - date published: 2023-10-25T21:05:30.647817+00:00
- - user: None
- - tags: []
-
-## Campus Reform the #1 Source for College News
- - [https://www.campusreform.org](https://www.campusreform.org)
- - date published: 2023-10-25T21:05:35.423675+00:00
- - user: None
- - tags: []
-
-## Capital Research Center
- - [https://capitalresearch.org](https://capitalresearch.org)
- - date published: 2023-10-25T21:05:39.115851+00:00
- - user: None
- - tags: []
-
-## Cap'n Proto: Introduction
- - [https://capnproto.org](https://capnproto.org)
- - date published: 2023-10-25T21:05:41.035442+00:00
- - user: None
- - tags: []
-
-## Home - Carbon Brief
- - [https://www.carbonbrief.org](https://www.carbonbrief.org)
- - date published: 2023-11-27T12:24:38.485428+00:00
- - user: None
- - tags: []
-
-## CARE - Fighting Global Poverty and World Hunger
- - [https://www.care.org](https://www.care.org)
- - date published: 2023-11-22T01:14:20.947848+00:00
- - user: None
- - tags: []
-
-## Charlie Arehart Server Troubleshooting Tuning Configuration Support
- - [https://www.carehart.org](https://www.carehart.org)
- - date published: 2023-10-25T21:05:43.266786+00:00
- - user: None
- - tags: []
-
-## The Carter Center | Waging Peace, Fighting Disease & Building Hope
- - [https://www.cartercenter.org](https://www.cartercenter.org)
- - date published: 2023-10-25T21:05:47.773483+00:00
- - user: None
- - tags: []
-
-## Trusted Casino & Sportsbook Guide for 25 Years - Casino.org
- - [https://www.casino.org](https://www.casino.org)
- - date published: 2023-10-25T21:05:55.534104+00:00
- - user: None
- - tags: []
-
-## The Cassandra Dispatch
- - [https://cassandradispatch.org](https://cassandradispatch.org)
- - date published: 2023-10-25T21:05:57.295512+00:00
- - user: None
- - tags: []
-
-## Castopod by Ad Aures | Your Free & Open-source Podcast Host
- - [https://castopod.org](https://castopod.org)
- - date published: 2023-10-25T21:06:03.752582+00:00
- - user: None
- - tags: []
-
-## Document archive
- - [https://doc.cat-v.org](https://doc.cat-v.org)
- - date published: 2023-10-25T21:06:05.415579+00:00
- - user: None
- - tags: []
-
-## Cataclysm: Dark Days Ahead
- - [https://cataclysmdda.org](https://cataclysmdda.org)
- - date published: 2023-10-25T21:06:06.264019+00:00
- - user: None
- - tags: []
-
-## Home - CatholicVote org
- - [https://catholicvote.org](https://catholicvote.org)
- - date published: 2023-10-25T21:06:11.167042+00:00
- - user: None
- - tags: []
-
-## https://www.cato.org
- - [https://www.cato.org](https://www.cato.org)
- - date published: 2023-11-27T12:23:04+00:00
- - user: rumpel
- - tags: []
-
-## cblgh — alexander cobleigh / cblgh.org
- - [https://cblgh.org](https://cblgh.org)
- - date published: 2023-12-10T09:32:39.053237+00:00
- - user: None
- - tags: ['personal']
-
-## Homepage | Center on Budget and Policy Priorities
- - [https://www.cbpp.org](https://www.cbpp.org)
- - date published: 2023-10-25T21:06:23.147057+00:00
- - user: None
- - tags: []
-
-## cdixon | home
- - [https://cdixon.org](https://cdixon.org)
- - date published: 2023-10-25T21:06:24.893004+00:00
- - user: None
- - tags: []
-
-## Cédric Bonhomme's website
- - [https://www.cedricbonhomme.org](https://www.cedricbonhomme.org)
- - date published: 2023-11-29T14:22:40.544756+00:00
- - user: None
- - tags: ['personal']
 

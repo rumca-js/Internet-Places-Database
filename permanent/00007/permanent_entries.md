@@ -1,3 +1,111 @@
+## Relevant Radio - Bringing Christ to the world through the media
+ - [https://relevantradio.com](https://relevantradio.com)
+ - date published: 2023-10-25T16:49:21.398300+00:00
+ - user: None
+ - tags: []
+
+## Home | reMarkable
+ - [https://remarkable.com](https://remarkable.com)
+ - date published: 2023-10-25T16:49:24.798927+00:00
+ - user: None
+ - tags: []
+
+## Remedy Entertainment
+ - [https://www.remedygames.com](https://www.remedygames.com)
+ - date published: 2023-10-30T18:30:41.198490+00:00
+ - user: None
+ - tags: ['company', 'max payne', 'game studio', 'alan wake']
+
+## R.E.M.HQ
+ - [https://remhq.com](https://remhq.com)
+ - date published: 2023-11-13T10:36:54.744383+00:00
+ - user: None
+ - tags: ['music band']
+
+## Remix64.com: C64 and Amiga Music Remix Community
+ - [https://remix64.com](https://remix64.com)
+ - date published: 2023-12-11T19:05:45.850137+00:00
+ - user: None
+ - tags: []
+
+## Remix64.com: C64 and Amiga Music Remix Community
+ - [https://www.remix64.com](https://www.remix64.com)
+ - date published: 2023-11-10T13:03:15.351266+00:00
+ - user: None
+ - tags: ['commodore', 'demoscene', 'amiga']
+
+## Remote NBS
+ - [https://www.remotenbs.com](https://www.remotenbs.com)
+ - date published: 2023-11-01T15:43:43.376035+00:00
+ - user: None
+ - tags: []
+
+## Find Your Dream Remote Job
+ - [https://www.remoterocketship.com](https://www.remoterocketship.com)
+ - date published: 2023-10-25T16:49:26.841818+00:00
+ - user: None
+ - tags: []
+
+## Renaissance Life
+ - [https://renaissancelife.com](https://renaissancelife.com)
+ - date published: 2023-11-29T17:06:25.423463+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cloud Application Hosting for Developers | Render
+ - [https://render.com](https://render.com)
+ - date published: 2023-10-25T16:49:28.079973+00:00
+ - user: None
+ - tags: []
+
+## Render Status
+ - [https://status.render.com](https://status.render.com)
+ - date published: 2023-10-25T16:49:32.937774+00:00
+ - user: None
+ - tags: []
+
+## Renée Yoxon - Trans Voice Teacher
+ - [https://www.reneeyoxon.com](https://www.reneeyoxon.com)
+ - date published: 2023-12-14T01:26:51.015164+00:00
+ - user: None
+ - tags: ['personal']
+
+## Renegade Otter Software
+ - [https://renegadeotter.com](https://renegadeotter.com)
+ - date published: 2023-10-25T08:47:39.799499+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rene Herse Cycles
+ - [https://www.renehersecycles.com](https://www.renehersecycles.com)
+ - date published: 2023-10-25T16:49:35.784693+00:00
+ - user: None
+ - tags: []
+
+## Home | Renoise
+ - [https://www.renoise.com](https://www.renoise.com)
+ - date published: 2023-10-28T18:43:27.880974+00:00
+ - user: None
+ - tags: []
+
+## https://www.rentcafe.com
+ - [https://www.rentcafe.com](https://www.rentcafe.com)
+ - date published: 2023-11-14T01:04:03.281266+00:00
+ - user: None
+ - tags: []
+
+## Explore - Repables
+ - [https://repables.com](https://repables.com)
+ - date published: 2023-10-27T10:31:30.534866+00:00
+ - user: None
+ - tags: ['assets models', '3d printing']
+
+## Replicate – Run open-source machine learning models with a cloud API
+ - [https://replicate.com](https://replicate.com)
+ - date published: 2023-10-25T16:49:37.539506+00:00
+ - user: None
+ - tags: []
+
 ## Replit - Blog
  - [https://blog.replit.com](https://blog.replit.com)
  - date published: 2023-10-25T16:49:47.879635+00:00
@@ -447,6 +555,12 @@
  - date published: 2023-10-25T16:52:12.023700+00:00
  - user: None
  - tags: []
+
+## Raivo Laanemets - Recent posts
+ - [https://rlaanemets.com](https://rlaanemets.com)
+ - date published: 2023-12-15T21:43:25.823623+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Hammock-Led Engineering
  - [https://rlopzc.com](https://rlopzc.com)
@@ -3257,6 +3371,12 @@
  - user: None
  - tags: []
 
+## https://sociologicalscience.com
+ - [https://sociologicalscience.com](https://sociologicalscience.com)
+ - date published: 2023-12-15T11:09:54.578333+00:00
+ - user: None
+ - tags: []
+
 ## SocketSite™ – San Francisco real estate tips, trends and the local scoop: "Plug In" to SocketSite™
  - [https://socketsite.com](https://socketsite.com)
  - date published: 2023-10-25T17:07:32.698557+00:00
@@ -4619,6 +4739,12 @@
  - user: None
  - tags: ['personal']
 
+## Steve Alvest – Creativity and Life
+ - [https://stevealvest.com](https://stevealvest.com)
+ - date published: 2023-12-15T21:43:58.449519+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Steve Blank Innovation and Entrepreneurship
  - [https://steveblank.com](https://steveblank.com)
  - date published: 2023-10-25T17:17:02.815342+00:00
@@ -5675,6 +5801,12 @@
  - user: None
  - tags: ['substack']
 
+## John’s Substack | Tom Jordell | Substack
+ - [https://ezali.substack.com](https://ezali.substack.com)
+ - date published: 2023-12-15T11:11:56.718524+00:00
+ - user: None
+ - tags: []
+
 ## Fake Money News | Substack
  - [https://fakemoneynews.substack.com](https://fakemoneynews.substack.com)
  - date published: 2023-10-25T09:50:38.816311+00:00
@@ -5872,136 +6004,4 @@
  - date published: 2023-11-28T22:06:34.502561+00:00
  - user: None
  - tags: []
-
-## Points And Figures | Jeffrey Carter | Substack
- - [https://jeffreycarter.substack.com](https://jeffreycarter.substack.com)
- - date published: 2023-10-25T09:55:01.324163+00:00
- - user: None
- - tags: ['substack']
-
-## An Educated Guess | Jeroen van Baar | Substack
- - [https://jeroenvanbaar.substack.com](https://jeroenvanbaar.substack.com)
- - date published: 2023-12-01T21:29:00.031789+00:00
- - user: None
- - tags: []
-
-## Jérôme à Paris  | Substack
- - [https://jeromeaparis.substack.com](https://jeromeaparis.substack.com)
- - date published: 2023-10-25T09:55:06.824850+00:00
- - user: None
- - tags: ['substack']
-
-## The Unpublishable | Jessica DeFino | Substack
- - [https://jessicadefino.substack.com](https://jessicadefino.substack.com)
- - date published: 2023-10-25T09:55:15.775970+00:00
- - user: None
- - tags: ['substack']
-
-## Noted | Jillian Hess | Substack
- - [https://jillianhess.substack.com](https://jillianhess.substack.com)
- - date published: 2023-10-25T17:19:11.075658+00:00
- - user: None
- - tags: []
-
-## Jinay's Substack | Jinay Jain | Substack
- - [https://jjain.substack.com](https://jjain.substack.com)
- - date published: 2023-10-25T09:55:19.692399+00:00
- - user: None
- - tags: ['substack']
-
-## Pryor Thoughts | JJ Pryor | Substack
- - [https://jjpryor.substack.com](https://jjpryor.substack.com)
- - date published: 2023-10-25T09:55:26.042636+00:00
- - user: None
- - tags: ['substack']
-
-## Causal Deference | John McDonnell | Substack
- - [https://jmcdonnell.substack.com](https://jmcdonnell.substack.com)
- - date published: 2023-10-25T09:55:29.223040+00:00
- - user: None
- - tags: ['substack']
-
-## JoeBlogs | Joe Posnanski | Substack
- - [https://joeposnanski.substack.com](https://joeposnanski.substack.com)
- - date published: 2023-10-25T09:55:38.595856+00:00
- - user: None
- - tags: ['substack']
-
-## Joscha Bach | Substack
- - [https://joscha.substack.com](https://joscha.substack.com)
- - date published: 2023-10-25T09:55:48.369614+00:00
- - user: None
- - tags: ['substack']
-
-## Wednesday Wisdom | Jos Visser | Substack
- - [https://josvisser.substack.com](https://josvisser.substack.com)
- - date published: 2023-12-07T03:05:59.094132+00:00
- - user: None
- - tags: []
-
-## quite useless | a. natasha joukovsky | Substack
- - [https://joukovsky.substack.com](https://joukovsky.substack.com)
- - date published: 2023-10-25T09:55:57.553758+00:00
- - user: None
- - tags: ['substack']
-
-## Finding Joy | Joy Lere, Psy.D. | Substack
- - [https://joylere.substack.com](https://joylere.substack.com)
- - date published: 2023-10-25T09:56:00.200869+00:00
- - user: None
- - tags: ['substack']
-
-## Teaching computers how to talk | Jurgen Gravestein | Substack
- - [https://jurgengravestein.substack.com](https://jurgengravestein.substack.com)
- - date published: 2023-10-25T09:56:12.153586+00:00
- - user: None
- - tags: ['substack']
-
-## The Kaitchup – AI on a Budget | Benjamin Marie, PhD | Substack
- - [https://kaitchup.substack.com](https://kaitchup.substack.com)
- - date published: 2023-10-25T09:56:18.279130+00:00
- - user: None
- - tags: ['substack']
-
-## Kareem Abdul-Jabbar | Substack
- - [https://kareem.substack.com](https://kareem.substack.com)
- - date published: 2023-10-25T09:56:43.884000+00:00
- - user: None
- - tags: ['substack']
-
-## Essays by Ken Lane | Substack
- - [https://kenlane.substack.com](https://kenlane.substack.com)
- - date published: 2023-12-11T10:57:46.356034+00:00
- - user: None
- - tags: ['personal']
-
-## Kit’s Newsletter | Kit Klarenberg | Substack
- - [https://kitklarenberg.substack.com](https://kitklarenberg.substack.com)
- - date published: 2023-12-04T01:53:45.581863+00:00
- - user: None
- - tags: []
-
-## System Failure | Nathan Knopp | Substack
- - [https://knopp.substack.com](https://knopp.substack.com)
- - date published: 2023-10-25T09:56:59.004155+00:00
- - user: None
- - tags: ['substack']
-
-## Laetitia@Work | Laëtitia Vitaud | Substack
- - [https://laetitiaatwork.substack.com](https://laetitiaatwork.substack.com)
- - date published: 2023-10-25T09:57:02.350935+00:00
- - user: None
- - tags: ['substack']
-
-## lcamtuf’s thing | Substack
- - [https://lcamtuf.substack.com](https://lcamtuf.substack.com)
- - date published: 2023-10-25T09:57:09.013670+00:00
- - user: None
- - tags: ['substack']
-
-## Leigh Marie’s Newsletter | Leigh Marie Braswell | Substack
- - [https://leighmariebraswell.substack.com](https://leighmariebraswell.substack.com)
- - date published: 2023-10-25T09:57:12.216880+00:00
- - user: None
- - tags: ['substack']
 

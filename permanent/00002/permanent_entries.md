@@ -1,3 +1,27 @@
+## Milwaukee Maven
+ - [https://milwaukeemaven.blogspot.com](https://milwaukeemaven.blogspot.com)
+ - date published: 2023-10-25T09:09:55.902718+00:00
+ - user: None
+ - tags: ['personal']
+
+## Minborg's Java Pot
+ - [https://minborgsjavapot.blogspot.com](https://minborgsjavapot.blogspot.com)
+ - date published: 2023-10-25T09:09:59.083948+00:00
+ - user: None
+ - tags: ['personal']
+
+## Musings of Michael McThrow
+ - [https://mmcthrow-musings.blogspot.com](https://mmcthrow-musings.blogspot.com)
+ - date published: 2023-10-25T09:10:01.509820+00:00
+ - user: None
+ - tags: ['personal']
+
+## Push the Red Button
+ - [https://moyix.blogspot.com](https://moyix.blogspot.com)
+ - date published: 2023-10-25T09:10:03.220983+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Medieval Manuscripts Provenance
  - [https://mssprovenance.blogspot.com](https://mssprovenance.blogspot.com)
  - date published: 2023-10-25T09:10:06.865435+00:00
@@ -2737,6 +2761,12 @@
 ## Citymapper - The Ultimate Transport App
  - [https://content.citymapper.com](https://content.citymapper.com)
  - date published: 2023-10-25T13:25:14.582903+00:00
+ - user: None
+ - tags: []
+
+## City Telegraph : Telegraph Online, Daily Telegraph, Sunday Telegraph
+ - [https://citytelegraph.com](https://citytelegraph.com)
+ - date published: 2023-12-15T11:08:41.428037+00:00
  - user: None
  - tags: []
 
@@ -5977,36 +6007,6 @@
 ## Dickson Neoh - Personal Portfolio
  - [https://dicksonneoh.com](https://dicksonneoh.com)
  - date published: 2023-10-25T13:51:33.339476+00:00
- - user: None
- - tags: []
-
-## Dictionary.com | Meanings & Definitions of English Words
- - [https://www.dictionary.com](https://www.dictionary.com)
- - date published: 2023-10-25T09:28:45.890389+00:00
- - user: None
- - tags: ['dictionary']
-
-## The Dictionary of Obscure Sorrows
- - [https://www.dictionaryofobscuresorrows.com](https://www.dictionaryofobscuresorrows.com)
- - date published: 2023-10-25T13:51:36.270823+00:00
- - user: None
- - tags: []
-
-## Lightweight justice for your SBC!
- - [https://dietpi.com](https://dietpi.com)
- - date published: 2023-10-25T08:31:40.105924+00:00
- - user: None
- - tags: ['pine64', 'raspberry pi', 'odroid', 'operating system']
-
-## Diffchecker - Compare text online to find the difference between two text files
- - [https://www.diffchecker.com](https://www.diffchecker.com)
- - date published: 2023-10-25T13:51:38.632020+00:00
- - user: None
- - tags: []
-
-## Different Hub
- - [https://www.differenthub.com](https://www.differenthub.com)
- - date published: 2023-12-10T18:34:38.292217+00:00
  - user: None
  - tags: []
 

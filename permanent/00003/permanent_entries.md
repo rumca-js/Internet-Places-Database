@@ -1,3 +1,33 @@
+## Dictionary.com | Meanings & Definitions of English Words
+ - [https://www.dictionary.com](https://www.dictionary.com)
+ - date published: 2023-10-25T09:28:45.890389+00:00
+ - user: None
+ - tags: ['dictionary']
+
+## The Dictionary of Obscure Sorrows
+ - [https://www.dictionaryofobscuresorrows.com](https://www.dictionaryofobscuresorrows.com)
+ - date published: 2023-10-25T13:51:36.270823+00:00
+ - user: None
+ - tags: []
+
+## Lightweight justice for your SBC!
+ - [https://dietpi.com](https://dietpi.com)
+ - date published: 2023-10-25T08:31:40.105924+00:00
+ - user: None
+ - tags: ['pine64', 'raspberry pi', 'odroid', 'operating system']
+
+## Diffchecker - Compare text online to find the difference between two text files
+ - [https://www.diffchecker.com](https://www.diffchecker.com)
+ - date published: 2023-10-25T13:51:38.632020+00:00
+ - user: None
+ - tags: []
+
+## Different Hub
+ - [https://www.differenthub.com](https://www.differenthub.com)
+ - date published: 2023-12-10T18:34:38.292217+00:00
+ - user: None
+ - tags: []
+
 ## The DigiBarn Computer Museum
  - [https://digibarn.com](https://digibarn.com)
  - date published: 2023-10-25T13:51:40.855582+00:00
@@ -1781,6 +1811,12 @@
  - user: None
  - tags: []
 
+## Engineer’s Codex | Substack
+ - [https://read.engineerscodex.com](https://read.engineerscodex.com)
+ - date published: 2023-12-15T21:45:21.439801+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://www.engineersgarage.com](https://www.engineersgarage.com)
  - date published: 2023-10-28T20:16:59.244728+00:00
@@ -2234,6 +2270,12 @@
 ## The European Review of Books
  - [https://europeanreviewofbooks.com](https://europeanreviewofbooks.com)
  - date published: 2023-10-25T14:11:19.756707+00:00
+ - user: None
+ - tags: []
+
+## European Spaceflight Homepage
+ - [https://europeanspaceflight.com](https://europeanspaceflight.com)
+ - date published: 2023-12-15T22:05:52.281693+00:00
  - user: None
  - tags: []
 
@@ -3149,6 +3191,12 @@
  - user: None
  - tags: []
 
+## Your Homepage
+ - [https://felipefarinon.com](https://felipefarinon.com)
+ - date published: 2023-12-15T11:15:24.587549+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Felt - The best way to work with maps on the internet
  - [https://felt.com](https://felt.com)
  - date published: 2023-10-25T14:29:00.162980+00:00
@@ -3851,6 +3899,12 @@
  - user: None
  - tags: ['crime', 'police']
 
+## Forexlive | Forex News, Technical Analysis & Trading Tools
+ - [https://www.forexlive.com](https://www.forexlive.com)
+ - date published: 2023-12-15T21:52:32.167982+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://www.format.com](https://www.format.com)
  - date published: 2023-10-27T10:24:23.394039+00:00
@@ -4016,6 +4070,12 @@
 ## Fox 4 News | WFTX - Southwest Florida | Fox4Now.com - Home
  - [https://www.fox4now.com](https://www.fox4now.com)
  - date published: 2023-10-25T11:04:21.031601+00:00
+ - user: None
+ - tags: []
+
+## FOX 5 Atlanta
+ - [https://www.fox5atlanta.com](https://www.fox5atlanta.com)
+ - date published: 2023-12-15T21:47:23.514757+00:00
  - user: None
  - tags: []
 
@@ -5938,66 +5998,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Latest News
  - [https://www.googlecloudpresscorner.com](https://www.googlecloudpresscorner.com)
  - date published: 2023-10-25T14:48:27.491701+00:00
- - user: None
- - tags: []
-
-## Error 404 (Not Found)!!1
- - [https://allbloggertips.googlecode.com](https://allbloggertips.googlecode.com)
- - date published: 2023-12-11T16:51:59.464647+00:00
- - user: None
- - tags: []
-
-## Home - Google Play Developer Antitrust Litigation
- - [https://www.googleplaydevelopersettlement.com](https://www.googleplaydevelopersettlement.com)
- - date published: 2023-10-25T14:48:29.645146+00:00
- - user: None
- - tags: []
-
-## chromium Git repositories - Git at Google
- - [https://chromium.googlesource.com](https://chromium.googlesource.com)
- - date published: 2023-10-25T14:49:01.290226+00:00
- - user: None
- - tags: []
-
-## go Git repositories - Git at Google
- - [https://go.googlesource.com](https://go.googlesource.com)
- - date published: 2023-10-25T14:49:04.153477+00:00
- - user: None
- - tags: []
-
-## Google Open Source
- - [https://googlesource.com](https://googlesource.com)
- - date published: 2023-12-06T11:18:11+00:00
- - user: rumpel
- - tags: ['open source']
-
-## kernel Git repositories - Git at Google
- - [https://kernel.googlesource.com](https://kernel.googlesource.com)
- - date published: 2023-12-06T11:17:07+00:00
- - user: rumpel
- - tags: []
-
-## Nie znaleziono bloga
- - [https://blogger.googleusercontent.com](https://blogger.googleusercontent.com)
- - date published: 2023-12-11T16:52:29.740229+00:00
- - user: None
- - tags: []
-
-## Google
- - [https://webcache.googleusercontent.com](https://webcache.googleusercontent.com)
- - date published: 2023-10-25T14:49:10.465200+00:00
- - user: None
- - tags: []
-
-## Goonhammer
- - [https://www.goonhammer.com](https://www.goonhammer.com)
- - date published: 2023-10-27T12:10:24.998599+00:00
- - user: None
- - tags: ['tabletop games', 'warhammer']
-
-## GooRapid - Social Media, Email & Reviews Selling Services
- - [https://goorapid.com](https://goorapid.com)
- - date published: 2023-10-25T14:49:17.483060+00:00
  - user: None
  - tags: []
 

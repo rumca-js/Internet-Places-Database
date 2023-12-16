@@ -1,3 +1,135 @@
+## Points And Figures | Jeffrey Carter | Substack
+ - [https://jeffreycarter.substack.com](https://jeffreycarter.substack.com)
+ - date published: 2023-10-25T09:55:01.324163+00:00
+ - user: None
+ - tags: ['substack']
+
+## An Educated Guess | Jeroen van Baar | Substack
+ - [https://jeroenvanbaar.substack.com](https://jeroenvanbaar.substack.com)
+ - date published: 2023-12-01T21:29:00.031789+00:00
+ - user: None
+ - tags: []
+
+## Jérôme à Paris  | Substack
+ - [https://jeromeaparis.substack.com](https://jeromeaparis.substack.com)
+ - date published: 2023-10-25T09:55:06.824850+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Unpublishable | Jessica DeFino | Substack
+ - [https://jessicadefino.substack.com](https://jessicadefino.substack.com)
+ - date published: 2023-10-25T09:55:15.775970+00:00
+ - user: None
+ - tags: ['substack']
+
+## Noted | Jillian Hess | Substack
+ - [https://jillianhess.substack.com](https://jillianhess.substack.com)
+ - date published: 2023-10-25T17:19:11.075658+00:00
+ - user: None
+ - tags: []
+
+## Jinay's Substack | Jinay Jain | Substack
+ - [https://jjain.substack.com](https://jjain.substack.com)
+ - date published: 2023-10-25T09:55:19.692399+00:00
+ - user: None
+ - tags: ['substack']
+
+## Pryor Thoughts | JJ Pryor | Substack
+ - [https://jjpryor.substack.com](https://jjpryor.substack.com)
+ - date published: 2023-10-25T09:55:26.042636+00:00
+ - user: None
+ - tags: ['substack']
+
+## Causal Deference | John McDonnell | Substack
+ - [https://jmcdonnell.substack.com](https://jmcdonnell.substack.com)
+ - date published: 2023-10-25T09:55:29.223040+00:00
+ - user: None
+ - tags: ['substack']
+
+## JoeBlogs | Joe Posnanski | Substack
+ - [https://joeposnanski.substack.com](https://joeposnanski.substack.com)
+ - date published: 2023-10-25T09:55:38.595856+00:00
+ - user: None
+ - tags: ['substack']
+
+## Joscha Bach | Substack
+ - [https://joscha.substack.com](https://joscha.substack.com)
+ - date published: 2023-10-25T09:55:48.369614+00:00
+ - user: None
+ - tags: ['substack']
+
+## Wednesday Wisdom | Jos Visser | Substack
+ - [https://josvisser.substack.com](https://josvisser.substack.com)
+ - date published: 2023-12-07T03:05:59.094132+00:00
+ - user: None
+ - tags: []
+
+## quite useless | a. natasha joukovsky | Substack
+ - [https://joukovsky.substack.com](https://joukovsky.substack.com)
+ - date published: 2023-10-25T09:55:57.553758+00:00
+ - user: None
+ - tags: ['substack']
+
+## Finding Joy | Joy Lere, Psy.D. | Substack
+ - [https://joylere.substack.com](https://joylere.substack.com)
+ - date published: 2023-10-25T09:56:00.200869+00:00
+ - user: None
+ - tags: ['substack']
+
+## Teaching computers how to talk | Jurgen Gravestein | Substack
+ - [https://jurgengravestein.substack.com](https://jurgengravestein.substack.com)
+ - date published: 2023-10-25T09:56:12.153586+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Kaitchup – AI on a Budget | Benjamin Marie, PhD | Substack
+ - [https://kaitchup.substack.com](https://kaitchup.substack.com)
+ - date published: 2023-10-25T09:56:18.279130+00:00
+ - user: None
+ - tags: ['substack']
+
+## Kareem Abdul-Jabbar | Substack
+ - [https://kareem.substack.com](https://kareem.substack.com)
+ - date published: 2023-10-25T09:56:43.884000+00:00
+ - user: None
+ - tags: ['substack']
+
+## Essays by Ken Lane | Substack
+ - [https://kenlane.substack.com](https://kenlane.substack.com)
+ - date published: 2023-12-11T10:57:46.356034+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kit’s Newsletter | Kit Klarenberg | Substack
+ - [https://kitklarenberg.substack.com](https://kitklarenberg.substack.com)
+ - date published: 2023-12-04T01:53:45.581863+00:00
+ - user: None
+ - tags: []
+
+## System Failure | Nathan Knopp | Substack
+ - [https://knopp.substack.com](https://knopp.substack.com)
+ - date published: 2023-10-25T09:56:59.004155+00:00
+ - user: None
+ - tags: ['substack']
+
+## Laetitia@Work | Laëtitia Vitaud | Substack
+ - [https://laetitiaatwork.substack.com](https://laetitiaatwork.substack.com)
+ - date published: 2023-10-25T09:57:02.350935+00:00
+ - user: None
+ - tags: ['substack']
+
+## lcamtuf’s thing | Substack
+ - [https://lcamtuf.substack.com](https://lcamtuf.substack.com)
+ - date published: 2023-10-25T09:57:09.013670+00:00
+ - user: None
+ - tags: ['substack']
+
+## Leigh Marie’s Newsletter | Leigh Marie Braswell | Substack
+ - [https://leighmariebraswell.substack.com](https://leighmariebraswell.substack.com)
+ - date published: 2023-10-25T09:57:12.216880+00:00
+ - user: None
+ - tags: ['substack']
+
 ## A Particular Weird | Lyle Enright | Substack
  - [https://lenright.substack.com](https://lenright.substack.com)
  - date published: 2023-10-25T09:57:15.186001+00:00
@@ -307,6 +439,12 @@
 ## https://ppaolo.substack.com
  - [https://ppaolo.substack.com](https://ppaolo.substack.com)
  - date published: 2023-12-04T21:16:18.389456+00:00
+ - user: None
+ - tags: []
+
+## PromptArmor Blog | Substack
+ - [https://promptarmor.substack.com](https://promptarmor.substack.com)
+ - date published: 2023-12-15T21:47:07.452086+00:00
  - user: None
  - tags: []
 
@@ -4122,6 +4260,12 @@
  - user: None
  - tags: []
 
+## tontinton
+ - [https://tontinton.com](https://tontinton.com)
+ - date published: 2023-12-15T21:46:45.340254+00:00
+ - user: None
+ - tags: []
+
 ## Tony Beato | UI/UX Designer & Frontend Developer | tonybeato.com
  - [https://tonybeato.com](https://tonybeato.com)
  - date published: 2023-12-05T14:37:28.614161+00:00
@@ -4429,6 +4573,12 @@
  - date published: 2023-10-25T17:46:39.133559+00:00
  - user: None
  - tags: []
+
+## Trevor Phillips - Home
+ - [https://trevphil.com](https://trevphil.com)
+ - date published: 2023-12-15T21:42:06.157324+00:00
+ - user: None
+ - tags: ['personal']
 
 ## treycausey.com
  - [https://www.treycausey.com](https://www.treycausey.com)
@@ -5162,6 +5312,12 @@
  - user: None
  - tags: []
 
+## Ubicloud - Open and portable cloud
+ - [https://www.ubicloud.com](https://www.ubicloud.com)
+ - date published: 2023-12-15T11:11:48.637444+00:00
+ - user: None
+ - tags: []
+
 ## Ubisoft | Welcome to the official Ubisoft website
  - [https://www.ubisoft.com](https://www.ubisoft.com)
  - date published: 2023-10-25T16:33:04.501312+00:00
@@ -5844,162 +6000,6 @@
 ## VAN — An independent online classical music magazine
  - [https://van-magazine.com](https://van-magazine.com)
  - date published: 2023-10-25T17:54:53.957295+00:00
- - user: None
- - tags: []
-
-## Vancouver News  - Vancouver Is Awesome
- - [https://www.vancouverisawesome.com](https://www.vancouverisawesome.com)
- - date published: 2023-10-25T17:54:58.760634+00:00
- - user: None
- - tags: []
-
-## Home | Vancouver Sun
- - [https://vancouversun.com](https://vancouversun.com)
- - date published: 2023-10-25T17:55:12.378780+00:00
- - user: None
- - tags: []
-
-## The Vanderbilt Hustler - The official student newspaper of Vanderbilt University
- - [https://vanderbilthustler.com](https://vanderbilthustler.com)
- - date published: 2023-10-25T17:55:16.964948+00:00
- - user: None
- - tags: []
-
-## Mutual funds, IRAs, ETFs, 401(k) plans, and more | Vanguard
- - [https://vanguard.com](https://vanguard.com)
- - date published: 2023-10-25T16:15:21.429996+00:00
- - user: None
- - tags: []
-
-## index
- - [https://vanhunteradams.com](https://vanhunteradams.com)
- - date published: 2023-10-25T17:55:19.369824+00:00
- - user: None
- - tags: []
-
-## The Vanilla JS Toolkit
- - [https://vanillajstoolkit.com](https://vanillajstoolkit.com)
- - date published: 2023-10-25T17:55:20.883096+00:00
- - user: None
- - tags: []
-
-## Vanity Fair -  Entertainment, Politics, and Fashion News | Vanity Fair
- - [https://www.vanityfair.com](https://www.vanityfair.com)
- - date published: 2023-10-25T17:55:24.038496+00:00
- - user: None
- - tags: []
-
-## Vanity Notes - A blog about programming and socialism
- - [https://vanitynotes.com](https://vanitynotes.com)
- - date published: 2023-10-25T17:55:29.596861+00:00
- - user: None
- - tags: []
-
-## Van Tucker - Digital Future Wizard - Empowering Exceptional Experiences
- - [https://vantucker.com](https://vantucker.com)
- - date published: 2023-11-29T14:43:21.870606+00:00
- - user: None
- - tags: ['personal']
-
-## Share your universe with our observation stations
- - [https://vaonis.com](https://vaonis.com)
- - date published: 2023-10-25T17:55:32.901924+00:00
- - user: None
- - tags: []
-
-## VapourSynth | The future home of VapourSynth… 3000!
- - [https://www.vapoursynth.com](https://www.vapoursynth.com)
- - date published: 2023-10-25T14:01:23.313974+00:00
- - user: None
- - tags: []
-
-## Variety
- - [https://variety.com](https://variety.com)
- - date published: 2023-10-25T10:17:55.128799+00:00
- - user: None
- - tags: []
-
-## Brian Whitman
- - [https://notes.variogram.com](https://notes.variogram.com)
- - date published: 2023-10-25T17:55:33.688023+00:00
- - user: None
- - tags: []
-
-## Fossil freedom - Vattenfall
- - [https://group.vattenfall.com](https://group.vattenfall.com)
- - date published: 2023-10-25T17:55:35.303824+00:00
- - user: None
- - tags: []
-
-## The Trusted GenAI Product Platform for Product Builders
- - [https://vectara.com](https://vectara.com)
- - date published: 2023-10-25T17:55:37.945868+00:00
- - user: None
- - tags: []
-
-## Vectary - Build interactive 3D and AR solutions online
- - [https://www.vectary.com](https://www.vectary.com)
- - date published: 2023-10-27T10:19:22.992988+00:00
- - user: None
- - tags: ['virtual reality', '3d printing', 'augmented reality']
-
-## Vectis IP Ltd - Building IP Solutions  for the Future
- - [https://www.vectis.com](https://www.vectis.com)
- - date published: 2023-10-25T17:55:40.842745+00:00
- - user: None
- - tags: []
-
-## VectorLogic
- - [https://www.vector-logic.com](https://www.vector-logic.com)
- - date published: 2023-10-25T17:55:41.709495+00:00
- - user: None
- - tags: []
-
-## VectorDB: Vector Database Built by Kagi Search
- - [https://vectordb.com](https://vectordb.com)
- - date published: 2023-11-26T10:21:55+00:00
- - user: None
- - tags: []
-
-## Latest News - vegconomist - the vegan business magazine
- - [https://vegconomist.com](https://vegconomist.com)
- - date published: 2023-10-25T17:55:45.760592+00:00
- - user: None
- - tags: []
-
-## Veilid
- - [https://veilid.com](https://veilid.com)
- - date published: 2023-10-25T17:55:46.235167+00:00
- - user: None
- - tags: []
-
-## Vendr: The Software Procurement & SaaS Management Platform
- - [https://www.vendr.com](https://www.vendr.com)
- - date published: 2023-10-25T17:55:48.039196+00:00
- - user: None
- - tags: []
-
-## VentureBeat | Transformative tech coverage that matters
- - [https://venturebeat.com](https://venturebeat.com)
- - date published: 2023-10-25T09:36:34.376824+00:00
- - user: None
- - tags: []
-
-## VERA Version Control Systems
- - [https://vcs.vera-visions.com](https://vcs.vera-visions.com)
- - date published: 2023-11-12T12:21:17.875383+00:00
- - user: None
- - tags: []
-
-## Vera Ruel-Wunsch
- - [https://veraveravera.com](https://veraveravera.com)
- - date published: 2023-11-26T10:11:12.588555+00:00
- - user: None
- - tags: ['personal']
-
-## Vercel: Build and deploy the best Web experiences with The Frontend Cloud
- - [https://vercel.com](https://vercel.com)
- - date published: 2023-10-25T17:55:50.277514+00:00
  - user: None
  - tags: []
 
