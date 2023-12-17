@@ -1,3 +1,255 @@
+## Poznań Game Arena | 6-8 października 2023 | Tu Bije Serce Gamingu
+ - [https://gamearena.pl](https://gamearena.pl)
+ - date published: 2023-11-01T08:41:25.764766+00:00
+ - user: None
+ - tags: []
+
+## Zwiastuny, Livestreamy i Wywiady | Gamereactor Polska
+ - [https://www.gamereactor.pl](https://www.gamereactor.pl)
+ - date published: 2023-11-17T21:45:33+00:00
+ - user: rumpel
+ - tags: ['game news']
+
+## Film, seriale, muzyka - Kultura.Gazeta.pl
+ - [https://kultura.gazeta.pl](https://kultura.gazeta.pl)
+ - date published: 2023-12-04T12:48:18.132743+00:00
+ - user: None
+ - tags: []
+
+## Next Gazeta.pl - Biznes, Nowe Technologie i Pieniądze
+ - [https://next.gazeta.pl](https://next.gazeta.pl)
+ - date published: 2023-10-25T10:31:14.489308+00:00
+ - user: None
+ - tags: []
+
+## Weekend w Gazeta.pl trwa ca³y tydzieñ
+ - [https://weekend.gazeta.pl](https://weekend.gazeta.pl)
+ - date published: 2023-10-25T22:27:32.339026+00:00
+ - user: None
+ - tags: []
+
+## Wiadomo¶ci - Gazeta.pl
+ - [https://wiadomosci.gazeta.pl](https://wiadomosci.gazeta.pl)
+ - date published: 2023-10-25T10:31:23.272215+00:00
+ - user: None
+ - tags: []
+
+## Zdrowie - choroby - leczenie - porady o zdrowiu - Zdrowy tryb życia | Zdrowie.Gazeta.pl
+ - [https://zdrowie.gazeta.pl](https://zdrowie.gazeta.pl)
+ - date published: 2023-10-25T10:31:32.035588+00:00
+ - user: None
+ - tags: []
+
+## Podatki - GazetaPrawna.pl - wiadomości, akcyza, CIT, PIT, VAT
+ - [https://podatki.gazetaprawna.pl](https://podatki.gazetaprawna.pl)
+ - date published: 2023-10-25T22:27:36.796232+00:00
+ - user: None
+ - tags: []
+
+## Serwisy Tematyczne- GazetaPrawna.pl
+ - [https://serwisy.gazetaprawna.pl](https://serwisy.gazetaprawna.pl)
+ - date published: 2023-10-25T22:27:40.688880+00:00
+ - user: None
+ - tags: []
+
+## GeekWeek w INTERIA.PL – technologie, nauka, lifestyle i podróże
+ - [https://www.geekweek.pl](https://www.geekweek.pl)
+ - date published: 2023-10-25T22:27:43.375194+00:00
+ - user: None
+ - tags: []
+
+## Game Exe :: Pillars of Eternity, Skyrim, Wiedźmin 3, Dragon Age: Inkwizycja, Mass Effect 3, cRPG, RPG, Fantasy
+ - [https://gexe.pl](https://gexe.pl)
+ - date published: 2023-10-27T13:52:06.302322+00:00
+ - user: None
+ - tags: ['game news']
+
+## GG - Lekki i Niezawodny Komunikator (d. Gadu-Gadu)
+ - [https://www.gg.pl](https://www.gg.pl)
+ - date published: 2023-10-25T13:22:16.410779+00:00
+ - user: None
+ - tags: ['social communicator']
+
+## Gry online - zagraj w darmowe gry na Giercownia.pl
+ - [https://www.giercownia.pl](https://www.giercownia.pl)
+ - date published: 2023-11-13T11:59:22.324826+00:00
+ - user: None
+ - tags: ['video games']
+
+## Głos Wielkopolski - Wiadomości Poznań, Wiadomości Wielkopolska
+ - [https://gloswielkopolski.pl](https://gloswielkopolski.pl)
+ - date published: 2023-10-25T22:27:51.505382+00:00
+ - user: None
+ - tags: []
+
+## Tabletop, Board Games, Figure Games, Card Games and Model Accessories
+ - [https://gnom-sklep.pl](https://gnom-sklep.pl)
+ - date published: 2023-10-25T11:12:46.998303+00:00
+ - user: None
+ - tags: []
+
+## Google
+ - [https://www.google.pl](https://www.google.pl)
+ - date published: 2023-11-01T07:06:35.266786+00:00
+ - user: None
+ - tags: []
+
+## Gralingrad - opowiadam o grach
+ - [https://gralingrad.pl](https://gralingrad.pl)
+ - date published: 2023-12-13T15:18:36.943356+00:00
+ - user: None
+ - tags: ['video games']
+
+## Darmowe gry – graj w gry online na gry.pl
+ - [https://www.gry.pl](https://www.gry.pl)
+ - date published: 2023-10-25T11:18:46.003977+00:00
+ - user: None
+ - tags: ['video games']
+
+## Gry planszowe, karciane, na imprezę | Basanti - sklep Poznań
+ - [https://gryplanszowe-basanti.pl](https://gryplanszowe-basanti.pl)
+ - date published: 2023-11-01T18:54:38.033521+00:00
+ - user: None
+ - tags: ['card games', 'tabletop games', 'warhammer', 'shop', 'bilard games']
+
+## GTA Mods ZONE
+ - [https://www.gta-mods.pl](https://www.gta-mods.pl)
+ - date published: 2023-10-30T15:28:57.483148+00:00
+ - user: None
+ - tags: ['grand theft auto']
+
+## Jakub Gutkowski
+ - [https://blog.gutek.pl](https://blog.gutek.pl)
+ - date published: 2023-12-11T12:33:46+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## Warsaw Hackerspace Social Club
+ - [https://social.hackerspace.pl](https://social.hackerspace.pl)
+ - date published: 2023-12-05T14:46:52.343608+00:00
+ - user: None
+ - tags: []
+
+## Przepisy wideo i porady kulinarne - Haps.pl
+ - [https://haps.pl](https://haps.pl)
+ - date published: 2023-10-25T22:28:03.313446+00:00
+ - user: None
+ - tags: []
+
+## Najlepsze wpisy - Hejto.pl
+ - [https://www.hejto.pl](https://www.hejto.pl)
+ - date published: 2023-12-06T14:42:07+00:00
+ - user: rumpel
+ - tags: ['social platform']
+
+## Księgarnia informatyczna helion.pl
+ - [https://helion.pl](https://helion.pl)
+ - date published: 2023-12-11T12:31:26+00:00
+ - user: rumpel
+ - tags: ['shop', 'books']
+
+## Domeny, Hosting, Serwery WWW, Strony, Sklepy internetowe | home.pl
+ - [https://home.pl](https://home.pl)
+ - date published: 2023-10-25T08:26:47.726693+00:00
+ - user: None
+ - tags: ['hosting service']
+
+## Hubika.pl
+ - [https://hubika.pl](https://hubika.pl)
+ - date published: 2023-10-25T11:16:09.280790+00:00
+ - user: None
+ - tags: ['shop', 'electronics']
+
+## Portal i.pl - nowy portal informacyjny - i wiesz wszystko - wiadomości z Polski i ze Świata
+ - [https://i.pl](https://i.pl)
+ - date published: 2023-10-25T22:28:09.834838+00:00
+ - user: None
+ - tags: []
+
+## ~aki
+ - [https://ignore.pl](https://ignore.pl)
+ - date published: 2023-10-25T22:28:10.577701+00:00
+ - user: None
+ - tags: []
+
+## Imperium Westwood - Twoje centrum Command & Conquer Polska
+ - [https://imperium-ww.pl](https://imperium-ww.pl)
+ - date published: 2023-11-17T21:38:45+00:00
+ - user: rumpel
+ - tags: ['red alert']
+
+## Niezależny Portal Finansowy - Independent Trader.pl
+ - [https://independenttrader.pl](https://independenttrader.pl)
+ - date published: 2023-10-25T22:28:12.140238+00:00
+ - user: None
+ - tags: []
+
+## ING Bank Śląski
+ - [https://www.ing.pl](https://www.ing.pl)
+ - date published: 2023-10-25T11:29:39.102663+00:00
+ - user: None
+ - tags: []
+
+## InPost dla Ciebie - Paczkomat®, Kurier, Przesyłki Kurierskie i Paczki
+ - [https://inpost.pl](https://inpost.pl)
+ - date published: 2023-10-25T08:26:12.097725+00:00
+ - user: None
+ - tags: []
+
+## • Insimilion • gry, książki, fantastyka
+ - [https://www.insimilion.pl](https://www.insimilion.pl)
+ - date published: 2023-10-27T13:52:27.671881+00:00
+ - user: None
+ - tags: ['fantasy', 'game news', 'dungeons and dragons', 'role playing games']
+
+## INSTALKI - technologie, sprzęt, recenzje, programy
+ - [https://www.instalki.pl](https://www.instalki.pl)
+ - date published: 2023-10-25T09:37:54.865975+00:00
+ - user: None
+ - tags: []
+
+## Biznes w INTERIA.PL
+ - [https://biznes.interia.pl](https://biznes.interia.pl)
+ - date published: 2023-10-25T10:31:34.569732+00:00
+ - user: None
+ - tags: []
+
+## GeekWeek w INTERIA.PL – technologie, nauka, lifestyle i podróże
+ - [https://geekweek.interia.pl](https://geekweek.interia.pl)
+ - date published: 2023-10-25T10:31:36.806211+00:00
+ - user: None
+ - tags: []
+
+## Motoryzacja w INTERIA.PL - auto moto wiadomości, aktualności, wydarzenia i porady motoryzacyjne
+ - [https://motoryzacja.interia.pl](https://motoryzacja.interia.pl)
+ - date published: 2023-10-25T10:31:39.366002+00:00
+ - user: None
+ - tags: []
+
+## Pogoda w INTERIA.PL – długoterminowa (na 25 dni) prognoza pogody dla Polski, Europy i Świata
+ - [https://pogoda.interia.pl](https://pogoda.interia.pl)
+ - date published: 2023-10-24T20:19:26.422240+00:00
+ - user: None
+ - tags: []
+
+## Sport w INTERIA.PL - wyniki na żywo i newsy: piłka nożna, skoki, tenis, żużel
+ - [https://sport.interia.pl](https://sport.interia.pl)
+ - date published: 2023-11-22T18:59:00.087140+00:00
+ - user: None
+ - tags: []
+
+## WYDARZENIA w INTERIA.PL - najnowsze wiadomości z Polski i świata, polityka, wydarzenia dnia i najważniejsze informacje, zawsze aktualne wiadomości
+ - [https://wydarzenia.interia.pl](https://wydarzenia.interia.pl)
+ - date published: 2023-10-25T10:31:39.986701+00:00
+ - user: None
+ - tags: []
+
+## Invisible Black
+ - [https://invisibleblack.pl](https://invisibleblack.pl)
+ - date published: 2023-12-13T15:12:53.506184+00:00
+ - user: None
+ - tags: ['shop']
+
 ## Testy, aktualności, poradniki, forum  | ITHardware
  - [https://ithardware.pl](https://ithardware.pl)
  - date published: 2023-10-25T09:37:59.835574+00:00
@@ -52,7 +304,7 @@
  - [https://www.koncertomania.pl](https://www.koncertomania.pl)
  - date published: 2023-10-25T15:03:06.652752+00:00
  - user: None
- - tags: []
+ - tags: ['concert']
 
 ## Koncerty w Polsce - wszystko o koncertach
  - [https://koncertyw.pl](https://koncertyw.pl)
@@ -733,6 +985,12 @@
 ## Rachit Nigam | PhD Candidate, Cornell University
  - [https://rachit.pl](https://rachit.pl)
  - date published: 2023-10-27T12:07:34.246036+00:00
+ - user: None
+ - tags: []
+
+## Katolicki Głos w Twoim domu
+ - [https://www.radiomaryja.pl](https://www.radiomaryja.pl)
+ - date published: 2023-12-16T15:46:51.676771+00:00
  - user: None
  - tags: []
 
@@ -5750,264 +6008,5 @@ Introduction
  - [https://www.thetimes.co.uk](https://www.thetimes.co.uk)
  - date published: 2023-10-25T10:35:26.642341+00:00
  - user: None
- - tags: []
-
-## London news, sport, weather, travel, events - This Is Local London
- - [https://www.thisislocallondon.co.uk](https://www.thisislocallondon.co.uk)
- - date published: 2023-11-24T12:04:07.382953+00:00
- - user: None
- - tags: []
-
-## This is Money: Be your own financial adviser - predictions, advice & tips
- - [https://www.thisismoney.co.uk](https://www.thisismoney.co.uk)
- - date published: 2023-10-25T22:55:40.113506+00:00
- - user: None
- - tags: []
-
-## Tom Anthony - SEO, Web Development and Research
- - [https://www.tomanthony.co.uk](https://www.tomanthony.co.uk)
- - date published: 2023-10-25T08:56:43.472579+00:00
- - user: None
- - tags: ['seo', 'personal']
-
-## Create and discover the best local tree walks and trails on your streets with TreeTalk London
- - [https://www.treetalk.co.uk](https://www.treetalk.co.uk)
- - date published: 2023-10-25T22:55:41.238506+00:00
- - user: None
- - tags: []
-
-## Tribune
- - [https://tribunemag.co.uk](https://tribunemag.co.uk)
- - date published: 2023-10-25T22:55:42.793262+00:00
- - user: None
- - tags: []
-
-## https://retropie.ultimateamiga.co.uk
- - [https://retropie.ultimateamiga.co.uk](https://retropie.ultimateamiga.co.uk)
- - date published: 2023-12-11T19:30:46.135934+00:00
- - user: None
- - tags: []
-
-## Ultimate Amiga
- - [https://ultimateamiga.co.uk](https://ultimateamiga.co.uk)
- - date published: 2023-12-11T19:30:30.473682+00:00
- - user: None
- - tags: []
-
-## Ultimate Amiga
- - [https://www.ultimateamiga.co.uk](https://www.ultimateamiga.co.uk)
- - date published: 2023-11-02T10:53:01.506864+00:00
- - user: None
- - tags: []
-
-## Coaching for Neurodivergent Adults + Access to Work Coach
- - [https://www.victoriatretis.co.uk](https://www.victoriatretis.co.uk)
- - date published: 2023-12-02T10:25:45.824752+00:00
- - user: None
- - tags: ['personal']
-
-## [d@vidbuchanan.co.uk ~]$
- - [https://www.da.vidbuchanan.co.uk](https://www.da.vidbuchanan.co.uk)
- - date published: 2023-10-25T09:24:58.187598+00:00
- - user: None
- - tags: ['personal']
-
-## 20% Discount wargames, miniatures and board games with | Wayland Games
- - [https://www.waylandgames.co.uk](https://www.waylandgames.co.uk)
- - date published: 2023-11-01T19:18:00.645504+00:00
- - user: None
- - tags: ['shop']
-
-## Books, stationery, gifts and much more | WHSmith
- - [https://www.whsmith.co.uk](https://www.whsmith.co.uk)
- - date published: 2023-10-27T07:50:44.817840+00:00
- - user: None
- - tags: []
-
-## Will Patrick - Internet culture, writing, and creativity
- - [https://www.willpatrick.co.uk](https://www.willpatrick.co.uk)
- - date published: 2023-11-17T15:26:21.137926+00:00
- - user: None
- - tags: []
-
-## WIRED UK - The Latest in Technology, Science, Culture and Business | WIRED UK
- - [https://www.wired.co.uk](https://www.wired.co.uk)
- - date published: 2023-10-25T22:55:55.025834+00:00
- - user: None
- - tags: []
-
-## William Turrell – Web developer.
- - [https://blog.wturrell.co.uk](https://blog.wturrell.co.uk)
- - date published: 2023-10-25T22:55:57.747490+00:00
- - user: None
- - tags: []
-
-## You Magazine - The Mail
- - [https://www.you.co.uk](https://www.you.co.uk)
- - date published: 2023-10-25T22:56:08.631214+00:00
- - user: None
- - tags: []
-
-## https://www.zoopla.co.uk
- - [https://www.zoopla.co.uk](https://www.zoopla.co.uk)
- - date published: 2023-11-27T08:14:22.871844+00:00
- - user: None
- - tags: []
-
-## Central Digital and Data Office
- - [https://cddo.blog.gov.uk](https://cddo.blog.gov.uk)
- - date published: 2023-10-25T22:56:10.911147+00:00
- - user: None
- - tags: []
-
-## Civil Service
- - [https://civilservice.blog.gov.uk](https://civilservice.blog.gov.uk)
- - date published: 2023-10-25T22:56:13.115381+00:00
- - user: None
- - tags: []
-
-## Government Digital Service
- - [https://gds.blog.gov.uk](https://gds.blog.gov.uk)
- - date published: 2023-10-25T22:56:20.457338+00:00
- - user: None
- - tags: []
-
-## Inside GOV.UK
- - [https://insidegovuk.blog.gov.uk](https://insidegovuk.blog.gov.uk)
- - date published: 2023-11-01T13:03:22.215325+00:00
- - user: None
- - tags: []
-
-## maps.london.gov.uk
- - [https://apps.london.gov.uk](https://apps.london.gov.uk)
- - date published: 2023-10-25T22:56:20.873232+00:00
- - user: None
- - tags: []
-
-## Blog | The National Archives
- - [https://blog.nationalarchives.gov.uk](https://blog.nationalarchives.gov.uk)
- - date published: 2023-10-25T22:56:25.323831+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.nationalcrimeagency.gov.uk](https://www.nationalcrimeagency.gov.uk)
- - date published: 2023-12-08T13:14:30.394206+00:00
- - user: None
- - tags: []
-
-## NCSC
- - [https://www.ncsc.gov.uk](https://www.ncsc.gov.uk)
- - date published: 2023-10-25T22:56:26.670249+00:00
- - user: None
- - tags: []
-
-## Home
-      - Office for National Statistics
- - [https://www.ons.gov.uk](https://www.ons.gov.uk)
- - date published: 2023-10-25T22:56:28.295217+00:00
- - user: None
- - tags: []
-
-## Find and update company information - GOV.UK
- - [https://find-and-update.company-information.service.gov.uk](https://find-and-update.company-information.service.gov.uk)
- - date published: 2023-10-25T22:56:34.267694+00:00
- - user: None
- - tags: []
-
-## Experience London blog
- - [https://londonblog.tfl.gov.uk](https://londonblog.tfl.gov.uk)
- - date published: 2023-11-02T14:58:34.376654+00:00
- - user: None
- - tags: []
-
-## Keeping London moving - Transport for London
- - [https://tfl.gov.uk](https://tfl.gov.uk)
- - date published: 2023-10-25T22:56:36.464450+00:00
- - user: None
- - tags: []
-
-## Welcome to GOV.UK
- - [https://www.gov.uk](https://www.gov.uk)
- - date published: 2023-10-25T22:56:37.798175+00:00
- - user: None
- - tags: []
-
-## Luke Plant's home page - lukeplant.me.uk
- - [https://lukeplant.me.uk](https://lukeplant.me.uk)
- - date published: 2023-10-25T22:56:38.556582+00:00
- - user: None
- - tags: []
-
-## mjt.me.uk
- - [https://www.mjt.me.uk](https://www.mjt.me.uk)
- - date published: 2023-10-25T22:56:39.604297+00:00
- - user: None
- - tags: []
-
-## Oliver Caldwell's blog
- - [https://oli.me.uk](https://oli.me.uk)
- - date published: 2023-10-25T22:56:41.819363+00:00
- - user: None
- - tags: []
-
-## ParkyTowers
- - [https://www.parkytowers.me.uk](https://www.parkytowers.me.uk)
- - date published: 2023-10-25T22:56:42.561833+00:00
- - user: None
- - tags: []
-
-## Wilfred Hughes::Blog
- - [https://www.wilfred.me.uk](https://www.wilfred.me.uk)
- - date published: 2023-10-25T22:56:43.588732+00:00
- - user: None
- - tags: []
-
-## The NHS website - NHS
- - [https://www.nhs.uk](https://www.nhs.uk)
- - date published: 2023-10-25T22:56:51.378578+00:00
- - user: None
- - tags: []
-
-## Institute and Faculty of Actuaries
- - [https://actuaries.org.uk](https://actuaries.org.uk)
- - date published: 2023-10-25T22:56:55.289212+00:00
- - user: None
- - tags: []
-
-## Adfree Cities: for happier, healthier cities
- - [https://adfreecities.org.uk](https://adfreecities.org.uk)
- - date published: 2023-12-13T16:31:53+00:00
- - user: None
- - tags: []
-
-## Apostrophe Protection Society
- - [https://www.apostrophe.org.uk](https://www.apostrophe.org.uk)
- - date published: 2023-11-17T17:21:53+00:00
- - user: None
- - tags: []
-
-## BFI homepage | BFI
- - [https://www.bfi.org.uk](https://www.bfi.org.uk)
- - date published: 2023-10-25T11:25:45.592319+00:00
- - user: None
- - tags: []
-
-## Welcome to British Heart Foundation - BHF
- - [https://www.bhf.org.uk](https://www.bhf.org.uk)
- - date published: 2023-10-25T22:56:59.166189+00:00
- - user: None
- - tags: []
-
-## Homepage | BPS
- - [https://www.bps.org.uk](https://www.bps.org.uk)
- - date published: 2023-10-25T22:57:00.514396+00:00
- - user: None
- - tags: []
-
-## Cats Protection | UK’s Largest Cat Welfare Charity
- - [https://www.cats.org.uk](https://www.cats.org.uk)
- - date published: 2023-11-28T20:50:12+00:00
- - user: rumpel
  - tags: []
 

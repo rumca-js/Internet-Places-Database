@@ -1,3 +1,117 @@
+## Hard Pivot | jeff tang | Substack
+ - [https://hardpivot.substack.com](https://hardpivot.substack.com)
+ - date published: 2023-10-25T09:53:30.197949+00:00
+ - user: None
+ - tags: ['substack']
+
+## Hasen Judi | Substack
+ - [https://hasen.substack.com](https://hasen.substack.com)
+ - date published: 2023-10-25T09:53:32.676350+00:00
+ - user: None
+ - tags: ['substack']
+
+## Headlines | Fitt Insider | Substack
+ - [https://headlineshq.substack.com](https://headlineshq.substack.com)
+ - date published: 2023-10-25T09:53:34.487257+00:00
+ - user: None
+ - tags: ['substack']
+
+## Human Programming | Daniel Sosebee | Substack
+ - [https://humanprogramming.substack.com](https://humanprogramming.substack.com)
+ - date published: 2023-10-25T09:53:38.961944+00:00
+ - user: None
+ - tags: ['substack']
+
+## Heterodox STEM | Dorian Abbot | Substack
+ - [https://hxstem.substack.com](https://hxstem.substack.com)
+ - date published: 2023-10-25T09:53:44.146234+00:00
+ - user: None
+ - tags: ['substack']
+
+## Iah’s Substack | Substack
+ - [https://iahwrites.substack.com](https://iahwrites.substack.com)
+ - date published: 2023-10-25T09:53:45.650210+00:00
+ - user: None
+ - tags: ['substack']
+
+## I Am Not a Robot | Diego Basch | Substack
+ - [https://iamnotarobot.substack.com](https://iamnotarobot.substack.com)
+ - date published: 2023-10-25T09:53:47.300720+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Ruffian | Ian Leslie | Substack
+ - [https://ianleslie.substack.com](https://ianleslie.substack.com)
+ - date published: 2023-10-25T09:54:01.013922+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Ideal Gas Newsletter | Substack
+ - [https://idealgas.substack.com](https://idealgas.substack.com)
+ - date published: 2023-10-25T09:54:03.827327+00:00
+ - user: None
+ - tags: ['substack']
+
+## 50 Years of Text Games | Aaron A. Reed | Substack
+ - [https://if50.substack.com](https://if50.substack.com)
+ - date published: 2023-10-25T09:54:06.218172+00:00
+ - user: None
+ - tags: ['substack']
+
+## I have thoughts | Thomas Poinsot | Substack
+ - [https://ihavemanythoughts.substack.com](https://ihavemanythoughts.substack.com)
+ - date published: 2023-10-25T09:54:07.794382+00:00
+ - user: None
+ - tags: ['substack']
+
+## a newsletter for infovores. | Age of Infovores | Substack
+ - [https://infovores.substack.com](https://infovores.substack.com)
+ - date published: 2023-10-25T09:54:08.800392+00:00
+ - user: None
+ - tags: ['substack']
+
+## Interconnected | Kevin Xu | Substack
+ - [https://interconnect.substack.com](https://interconnect.substack.com)
+ - date published: 2023-10-25T09:54:16.997332+00:00
+ - user: None
+ - tags: ['substack']
+
+## inter human agreement | linked zero sync | Substack
+ - [https://interhumanagreement.substack.com](https://interhumanagreement.substack.com)
+ - date published: 2023-10-25T09:54:18.928911+00:00
+ - user: None
+ - tags: ['substack']
+
+## Intuitive AI | Will Seltzer | Substack
+ - [https://intuitiveai.substack.com](https://intuitiveai.substack.com)
+ - date published: 2023-10-25T09:54:20.839554+00:00
+ - user: None
+ - tags: ['substack']
+
+## Investing 101 | Kyle Harrison | Substack
+ - [https://investing1012dot0.substack.com](https://investing1012dot0.substack.com)
+ - date published: 2023-10-25T09:54:23.993215+00:00
+ - user: None
+ - tags: ['substack']
+
+## Ironic Sans | David Friedman | Substack
+ - [https://ironicsans.substack.com](https://ironicsans.substack.com)
+ - date published: 2023-10-25T09:54:27.002372+00:00
+ - user: None
+ - tags: ['substack']
+
+## All-Source Intelligence Fusion | Jack Poulson | Substack
+ - [https://jackpoulson.substack.com](https://jackpoulson.substack.com)
+ - date published: 2023-11-18T19:07:51.838890+00:00
+ - user: None
+ - tags: []
+
+## The Experiment | Jason Stanford | Substack
+ - [https://jasonstanford.substack.com](https://jasonstanford.substack.com)
+ - date published: 2023-11-28T22:06:34.502561+00:00
+ - user: None
+ - tags: []
+
 ## Points And Figures | Jeffrey Carter | Substack
  - [https://jeffreycarter.substack.com](https://jeffreycarter.substack.com)
  - date published: 2023-10-25T09:55:01.324163+00:00
@@ -3936,6 +4050,12 @@
  - user: None
  - tags: []
 
+## Times Enigma - Latest News On AI, Technology, Sports & Entertainment.
+ - [https://timesenigma.com](https://timesenigma.com)
+ - date published: 2023-12-16T19:24:08.889480+00:00
+ - user: None
+ - tags: []
+
 ## Times Higher Education home | Times Higher Education (THE)
  - [https://www.timeshighereducation.com](https://www.timeshighereducation.com)
  - date published: 2023-10-25T17:42:21.509110+00:00
@@ -5880,126 +6000,6 @@
 ## Motion | Manage calendars, meetings, projects & tasks in one app
  - [https://www.usemotion.com](https://www.usemotion.com)
  - date published: 2023-10-25T17:54:20.063782+00:00
- - user: None
- - tags: []
-
-## Best Usenet Service Providers 2023-Newsgroup Reviews- Usenet.com
- - [https://www.usenet.com](https://www.usenet.com)
- - date published: 2023-10-25T11:34:30.146419+00:00
- - user: None
- - tags: ['social platform']
-
-## User Inyerface - A worst-practice UI experiment
- - [https://userinyerface.com](https://userinyerface.com)
- - date published: 2023-10-25T17:54:20.521712+00:00
- - user: None
- - tags: []
-
-## Notes from the Burrow
- - [https://blog.usmanity.com](https://blog.usmanity.com)
- - date published: 2023-10-25T17:54:21.650052+00:00
- - user: None
- - tags: []
-
-## U.S. News & World Report: News, Rankings and Analysis on Politics, Education, Healthcare and More
- - [https://www.usnews.com](https://www.usnews.com)
- - date published: 2023-10-25T11:06:45.360963+00:00
- - user: None
- - tags: []
-
-## Home - About.usps.com
- - [https://about.usps.com](https://about.usps.com)
- - date published: 2023-10-25T17:54:24.601136+00:00
- - user: None
- - tags: []
-
-## USSA News | The Tea Party’s Front Page.
- - [https://ussanews.com](https://ussanews.com)
- - date published: 2023-10-25T17:54:30.171670+00:00
- - user: None
- - tags: []
-
-## Utilitarianism : past, present and future
- - [https://www.utilitarianism.com](https://www.utilitarianism.com)
- - date published: 2023-10-25T17:54:30.938333+00:00
- - user: None
- - tags: []
-
-## Utility and Energy Transmission & Distribution News | Utility Dive
- - [https://www.utilitydive.com](https://www.utilitydive.com)
- - date published: 2023-10-25T17:54:35.594731+00:00
- - user: None
- - tags: []
-
-## Utilu.com
- - [https://utilu.com](https://utilu.com)
- - date published: 2023-10-25T17:54:36.822372+00:00
- - user: None
- - tags: []
-
-## Utku Şen Kişisel Web Sitesi
- - [https://utkusen.com](https://utkusen.com)
- - date published: 2023-10-25T17:54:37.452305+00:00
- - user: None
- - tags: []
-
-## https://v2ex.com
- - [https://v2ex.com](https://v2ex.com)
- - date published: 2023-10-25T17:54:37.744256+00:00
- - user: None
- - tags: []
-
-## Vadim Demedes
- - [https://vadimdemedes.com](https://vadimdemedes.com)
- - date published: 2023-10-25T17:54:43.533479+00:00
- - user: None
- - tags: []
-
-## Vadim Kravcenko - Fractional CTO. Helping Startups Scale.
- - [https://vadimkravcenko.com](https://vadimkravcenko.com)
- - date published: 2023-10-25T17:54:44.960359+00:00
- - user: None
- - tags: []
-
-## Home - Vaibhav Sagar
- - [https://vaibhavsagar.com](https://vaibhavsagar.com)
- - date published: 2023-10-25T17:54:45.622246+00:00
- - user: None
- - tags: []
-
-## Vainglory (VG) Builds & Guides, wiki, database and forums. VG Hero Build Guides on VaingloryFire Wiki!
- - [https://www.vaingloryfire.com](https://www.vaingloryfire.com)
- - date published: 2023-12-13T16:20:40.277237+00:00
- - user: None
- - tags: []
-
-## Valheim
- - [https://www.valheimgame.com](https://www.valheimgame.com)
- - date published: 2023-11-04T19:20:47.911512+00:00
- - user: None
- - tags: ['game']
-
-## The Vallejo Sun: An independent news publication for Solano County
- - [https://www.vallejosun.com](https://www.vallejosun.com)
- - date published: 2023-10-25T17:54:48.425962+00:00
- - user: None
- - tags: []
-
-## Valve Developer Community
- - [https://developer.valvesoftware.com](https://developer.valvesoftware.com)
- - date published: 2023-12-06T10:38:51+00:00
- - user: rumpel
- - tags: []
-
-## Valve Corporation
- - [https://www.valvesoftware.com](https://www.valvesoftware.com)
- - date published: 2023-10-25T11:28:48.972520+00:00
- - user: None
- - tags: ['counter strike', 'half life']
-
-## VAN — An independent online classical music magazine
- - [https://van-magazine.com](https://van-magazine.com)
- - date published: 2023-10-25T17:54:53.957295+00:00
  - user: None
  - tags: []
 

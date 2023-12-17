@@ -1,3 +1,142 @@
+## Depot
+ - [https://depot.dev](https://depot.dev)
+ - date published: 2023-10-25T18:37:13.920387+00:00
+ - user: None
+ - tags: []
+
+## The Developing Dev | Ryan Peterman | Substack
+ - [https://www.developing.dev](https://www.developing.dev)
+ - date published: 2023-10-25T18:37:18.745268+00:00
+ - user: None
+ - tags: []
+
+## DevOps.dev
+ - [https://blog.devops.dev](https://blog.devops.dev)
+ - date published: 2023-10-25T18:37:21.821387+00:00
+ - user: None
+ - tags: []
+
+## djhworld - thoughts
+ - [https://djharper.dev](https://djharper.dev)
+ - date published: 2023-10-25T18:37:23.198428+00:00
+ - user: None
+ - tags: []
+
+## Hristiyan Dodov: Full-Stack Developer at Oblik Studio
+ - [https://dodov.dev](https://dodov.dev)
+ - date published: 2023-10-25T18:37:24.848610+00:00
+ - user: None
+ - tags: []
+
+## Earthly - Make Builds Super Simple
+ - [https://earthly.dev](https://earthly.dev)
+ - date published: 2023-10-25T18:37:27.899029+00:00
+ - user: None
+ - tags: []
+
+## echoserver: A simple echo server for testing HTTP clients.
+ - [https://echoserver.dev](https://echoserver.dev)
+ - date published: 2023-10-25T18:37:29.344617+00:00
+ - user: None
+ - tags: []
+
+## Ecostack —
+        a developer blog
+ - [https://ecostack.dev](https://ecostack.dev)
+ - date published: 2023-10-25T18:37:30.969613+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://emnudge.dev](https://emnudge.dev)
+ - date published: 2023-10-25T18:37:32.803436+00:00
+ - user: None
+ - tags: []
+
+## Emoji Kitchen
+ - [https://emojikitchen.dev](https://emojikitchen.dev)
+ - date published: 2023-10-25T18:37:39.002696+00:00
+ - user: None
+ - tags: []
+
+## Encore — Escape your backend development burdens
+ - [https://encore.dev](https://encore.dev)
+ - date published: 2023-11-23T13:54:15.244923+00:00
+ - user: None
+ - tags: []
+
+## Matthias Endler
+ - [https://endler.dev](https://endler.dev)
+ - date published: 2023-10-25T18:37:40.403164+00:00
+ - user: None
+ - tags: []
+
+## endtimes.dev
+ - [https://endtimes.dev](https://endtimes.dev)
+ - date published: 2023-10-25T18:37:42.008452+00:00
+ - user: None
+ - tags: []
+
+## Enhance
+ - [https://enhance.dev](https://enhance.dev)
+ - date published: 2023-10-25T18:37:45.413755+00:00
+ - user: None
+ - tags: []
+
+## Ship Modern Full-Stack Web Applications
+ - [https://www.epicweb.dev](https://www.epicweb.dev)
+ - date published: 2023-10-27T12:49:23.689681+00:00
+ - user: None
+ - tags: []
+
+## Oxidizing corner
+ - [https://blog.erk.dev](https://blog.erk.dev)
+ - date published: 2023-10-25T18:37:48.559995+00:00
+ - user: None
+ - tags: []
+
+## Educational Sensational Inspirational Foundational
+ - [https://esif.dev](https://esif.dev)
+ - date published: 2023-10-25T18:37:55.517883+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Etcha – Infinite scale, serverless config management
+ - [https://etcha.dev](https://etcha.dev)
+ - date published: 2023-11-18T15:39:55+00:00
+ - user: None
+ - tags: []
+
+## Evidence - Business Intelligence as Code
+ - [https://evidence.dev](https://evidence.dev)
+ - date published: 2023-10-25T18:37:57.379219+00:00
+ - user: None
+ - tags: []
+
+## Home - FED Mentor
+ - [https://fedmentor.dev](https://fedmentor.dev)
+ - date published: 2023-10-25T18:37:59.320927+00:00
+ - user: None
+ - tags: []
+
+## Feep! search
+ - [https://search.feep.dev](https://search.feep.dev)
+ - date published: 2023-10-25T18:38:00.233684+00:00
+ - user: None
+ - tags: []
+
+## Flecs
+ - [https://www.flecs.dev](https://www.flecs.dev)
+ - date published: 2023-10-25T18:38:01.033831+00:00
+ - user: None
+ - tags: []
+
+## Flightcontrol Jobs
+ - [https://jobs.flightcontrol.dev](https://jobs.flightcontrol.dev)
+ - date published: 2023-10-25T18:38:01.725933+00:00
+ - user: None
+ - tags: []
+
 ## The Flix Programming Language
  - [https://flix.dev](https://flix.dev)
  - date published: 2023-11-26T04:54:16+00:00
@@ -699,6 +838,12 @@
  - date published: 2023-12-01T10:46:06.534286+00:00
  - user: None
  - tags: []
+
+## Onur Şuyalçınkaya
+ - [https://onur.dev](https://onur.dev)
+ - date published: 2023-12-16T07:29:32.330441+00:00
+ - user: None
+ - tags: ['personal']
 
 ## OpenGOAL | OpenGOAL
  - [https://opengoal.dev](https://opengoal.dev)
@@ -5866,150 +6011,6 @@
 ## Google Domains | Official Site – Google Domains
  - [https://domains.google](https://domains.google)
  - date published: 2023-10-25T19:17:33.780895+00:00
- - user: None
- - tags: []
-
-## H4CK1NG G00GL3
- - [https://h4ck1ng.google](https://h4ck1ng.google)
- - date published: 2023-10-25T19:17:40.273388+00:00
- - user: None
- - tags: []
-
-## Google I/O 2023
- - [https://io.google](https://io.google)
- - date published: 2023-10-25T19:17:46.710273+00:00
- - user: None
- - tags: []
-
-## Google Open Source
- - [https://opensource.google](https://opensource.google)
- - date published: 2023-12-06T11:17:33+00:00
- - user: rumpel
- - tags: ['open source']
-
-## Google Research Blog
- - [https://blog.research.google](https://blog.research.google)
- - date published: 2023-10-25T11:32:57.455414+00:00
- - user: None
- - tags: []
-
-## Imagen: Text-to-Image Diffusion Models
- - [https://imagen.research.google](https://imagen.research.google)
- - date published: 2023-10-25T19:17:47.644089+00:00
- - user: None
- - tags: []
-
-## Google Research
- - [https://sites.research.google](https://sites.research.google)
- - date published: 2023-10-25T19:17:49.502568+00:00
- - user: None
- - tags: []
-
-## Google - Site Reliability Engineering
- - [https://sre.google](https://sre.google)
- - date published: 2023-10-27T14:31:32.109730+00:00
- - user: None
- - tags: []
-
-## Argonne National Laboratory Homepage | Argonne National Laboratory
- - [https://www.anl.gov](https://www.anl.gov)
- - date published: 2023-10-25T19:17:52.526159+00:00
- - user: None
- - tags: []
-
-## National Archives |
- - [https://www.archives.gov](https://www.archives.gov)
- - date published: 2023-10-25T19:17:54.767250+00:00
- - user: None
- - tags: ['library', 'archives']
-
-## U.S. Bureau of Economic Analysis (BEA)
- - [https://www.bea.gov](https://www.bea.gov)
- - date published: 2023-10-25T19:18:02.924414+00:00
- - user: None
- - tags: []
-
-## U.S. Bureau of Labor Statistics
- - [https://www.bls.gov](https://www.bls.gov)
- - date published: 2023-10-25T19:18:06.559665+00:00
- - user: None
- - tags: []
-
-## City of Boulder Open Data
- - [https://open-data.bouldercolorado.gov](https://open-data.bouldercolorado.gov)
- - date published: 2023-11-26T14:08:47+00:00
- - user: None
- - tags: []
-
-## The Department of Financial Protection and Innovation (DFPI) | Securing a fair and healthy financial services marketplace
- - [https://dfpi.ca.gov](https://dfpi.ca.gov)
- - date published: 2023-10-25T19:18:09.805592+00:00
- - user: None
- - tags: []
-
-## State of California - Department of Justice - Office of the Attorney General
- - [https://oag.ca.gov](https://oag.ca.gov)
- - date published: 2023-10-25T19:18:14.245263+00:00
- - user: None
- - tags: []
-
-## California Courts - Home
- - [https://www.courts.ca.gov](https://www.courts.ca.gov)
- - date published: 2023-10-25T19:18:17.125876+00:00
- - user: None
- - tags: []
-
-## Comprehensive Cancer Information - NCI
- - [https://www.cancer.gov](https://www.cancer.gov)
- - date published: 2023-10-25T19:18:18.579854+00:00
- - user: None
- - tags: []
-
-## Congressional Budget Office
- - [https://www.cbo.gov](https://www.cbo.gov)
- - date published: 2023-11-25T17:09:06.156821+00:00
- - user: None
- - tags: []
-
-## Centers for Disease Control and Prevention
- - [https://www.cdc.gov](https://www.cdc.gov)
- - date published: 2023-10-25T19:18:20.513066+00:00
- - user: None
- - tags: []
-
-## Census.gov
- - [https://www.census.gov](https://www.census.gov)
- - date published: 2023-10-25T19:18:28.624624+00:00
- - user: None
- - tags: []
-
-## Commodity Futures Trading Commission | CFTC
- - [https://www.cftc.gov](https://www.cftc.gov)
- - date published: 2023-10-25T19:18:30.878793+00:00
- - user: None
- - tags: []
-
-## We are the Nation's first line of defense - CIA
- - [https://www.cia.gov](https://www.cia.gov)
- - date published: 2023-10-25T19:18:37.730570+00:00
- - user: None
- - tags: ['cia', 'government']
-
-## Home | NICCS
- - [https://niccs.cisa.gov](https://niccs.cisa.gov)
- - date published: 2023-10-25T19:18:39.523763+00:00
- - user: None
- - tags: []
-
-## Home Page | CISA
- - [https://www.cisa.gov](https://www.cisa.gov)
- - date published: 2023-10-25T19:18:41.700248+00:00
- - user: None
- - tags: []
-
-## https://cde.ucr.cjis.gov
- - [https://cde.ucr.cjis.gov](https://cde.ucr.cjis.gov)
- - date published: 2023-11-12T13:04:34.470969+00:00
  - user: None
  - tags: []
 

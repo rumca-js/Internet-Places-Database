@@ -1,3 +1,123 @@
+## Best Usenet Service Providers 2023-Newsgroup Reviews- Usenet.com
+ - [https://www.usenet.com](https://www.usenet.com)
+ - date published: 2023-10-25T11:34:30.146419+00:00
+ - user: None
+ - tags: ['social platform']
+
+## User Inyerface - A worst-practice UI experiment
+ - [https://userinyerface.com](https://userinyerface.com)
+ - date published: 2023-10-25T17:54:20.521712+00:00
+ - user: None
+ - tags: []
+
+## Notes from the Burrow
+ - [https://blog.usmanity.com](https://blog.usmanity.com)
+ - date published: 2023-10-25T17:54:21.650052+00:00
+ - user: None
+ - tags: []
+
+## U.S. News & World Report: News, Rankings and Analysis on Politics, Education, Healthcare and More
+ - [https://www.usnews.com](https://www.usnews.com)
+ - date published: 2023-10-25T11:06:45.360963+00:00
+ - user: None
+ - tags: []
+
+## Home - About.usps.com
+ - [https://about.usps.com](https://about.usps.com)
+ - date published: 2023-10-25T17:54:24.601136+00:00
+ - user: None
+ - tags: []
+
+## USSA News | The Tea Party’s Front Page.
+ - [https://ussanews.com](https://ussanews.com)
+ - date published: 2023-10-25T17:54:30.171670+00:00
+ - user: None
+ - tags: []
+
+## Utilitarianism : past, present and future
+ - [https://www.utilitarianism.com](https://www.utilitarianism.com)
+ - date published: 2023-10-25T17:54:30.938333+00:00
+ - user: None
+ - tags: []
+
+## Utility and Energy Transmission & Distribution News | Utility Dive
+ - [https://www.utilitydive.com](https://www.utilitydive.com)
+ - date published: 2023-10-25T17:54:35.594731+00:00
+ - user: None
+ - tags: []
+
+## Utilu.com
+ - [https://utilu.com](https://utilu.com)
+ - date published: 2023-10-25T17:54:36.822372+00:00
+ - user: None
+ - tags: []
+
+## Utku Şen Kişisel Web Sitesi
+ - [https://utkusen.com](https://utkusen.com)
+ - date published: 2023-10-25T17:54:37.452305+00:00
+ - user: None
+ - tags: []
+
+## https://v2ex.com
+ - [https://v2ex.com](https://v2ex.com)
+ - date published: 2023-10-25T17:54:37.744256+00:00
+ - user: None
+ - tags: []
+
+## Vadim Demedes
+ - [https://vadimdemedes.com](https://vadimdemedes.com)
+ - date published: 2023-10-25T17:54:43.533479+00:00
+ - user: None
+ - tags: []
+
+## Vadim Kravcenko - Fractional CTO. Helping Startups Scale.
+ - [https://vadimkravcenko.com](https://vadimkravcenko.com)
+ - date published: 2023-10-25T17:54:44.960359+00:00
+ - user: None
+ - tags: []
+
+## Home - Vaibhav Sagar
+ - [https://vaibhavsagar.com](https://vaibhavsagar.com)
+ - date published: 2023-10-25T17:54:45.622246+00:00
+ - user: None
+ - tags: []
+
+## Vainglory (VG) Builds & Guides, wiki, database and forums. VG Hero Build Guides on VaingloryFire Wiki!
+ - [https://www.vaingloryfire.com](https://www.vaingloryfire.com)
+ - date published: 2023-12-13T16:20:40.277237+00:00
+ - user: None
+ - tags: []
+
+## Valheim
+ - [https://www.valheimgame.com](https://www.valheimgame.com)
+ - date published: 2023-11-04T19:20:47.911512+00:00
+ - user: None
+ - tags: ['game']
+
+## The Vallejo Sun: An independent news publication for Solano County
+ - [https://www.vallejosun.com](https://www.vallejosun.com)
+ - date published: 2023-10-25T17:54:48.425962+00:00
+ - user: None
+ - tags: []
+
+## Valve Developer Community
+ - [https://developer.valvesoftware.com](https://developer.valvesoftware.com)
+ - date published: 2023-12-06T10:38:51+00:00
+ - user: rumpel
+ - tags: []
+
+## Valve Corporation
+ - [https://www.valvesoftware.com](https://www.valvesoftware.com)
+ - date published: 2023-10-25T11:28:48.972520+00:00
+ - user: None
+ - tags: ['counter strike', 'half life']
+
+## VAN — An independent online classical music magazine
+ - [https://van-magazine.com](https://van-magazine.com)
+ - date published: 2023-10-25T17:54:53.957295+00:00
+ - user: None
+ - tags: []
+
 ## Vancouver News  - Vancouver Is Awesome
  - [https://www.vancouverisawesome.com](https://www.vancouverisawesome.com)
  - date published: 2023-10-25T17:54:58.760634+00:00
@@ -2597,6 +2717,12 @@
  - user: None
  - tags: ['personal']
 
+## Stephen Smith's Blog
+ - [https://smist08.wordpress.com](https://smist08.wordpress.com)
+ - date published: 2023-12-16T20:21:59.905988+00:00
+ - user: None
+ - tags: []
+
 ## Spaswell | When you don't know how to say what you mean
  - [https://spaswell.wordpress.com](https://spaswell.wordpress.com)
  - date published: 2023-10-25T18:16:47.514999+00:00
@@ -4458,6 +4584,12 @@ home
  - user: None
  - tags: []
 
+## Fedor Indutny's Blog
+ - [https://darksi.de](https://darksi.de)
+ - date published: 2023-12-16T13:36:25.831545+00:00
+ - user: None
+ - tags: []
+
 ## Datawrapper Blog
  - [https://blog.datawrapper.de](https://blog.datawrapper.de)
  - date published: 2023-10-25T18:29:23.861867+00:00
@@ -4971,6 +5103,12 @@ home
 ## Simon schreibt.
  - [https://simonschreibt.de](https://simonschreibt.de)
  - date published: 2023-10-25T18:32:36.399916+00:00
+ - user: None
+ - tags: []
+
+## Home | Sovereign Tech Fund
+ - [https://www.sovereigntechfund.de](https://www.sovereigntechfund.de)
+ - date published: 2023-12-16T05:56:10.685928+00:00
  - user: None
  - tags: []
 
@@ -5859,145 +5997,6 @@ home
 ## Writing | denvaar's Site
  - [https://denvaar.dev](https://denvaar.dev)
  - date published: 2023-11-16T09:28:41.834997+00:00
- - user: None
- - tags: []
-
-## Depot
- - [https://depot.dev](https://depot.dev)
- - date published: 2023-10-25T18:37:13.920387+00:00
- - user: None
- - tags: []
-
-## The Developing Dev | Ryan Peterman | Substack
- - [https://www.developing.dev](https://www.developing.dev)
- - date published: 2023-10-25T18:37:18.745268+00:00
- - user: None
- - tags: []
-
-## DevOps.dev
- - [https://blog.devops.dev](https://blog.devops.dev)
- - date published: 2023-10-25T18:37:21.821387+00:00
- - user: None
- - tags: []
-
-## djhworld - thoughts
- - [https://djharper.dev](https://djharper.dev)
- - date published: 2023-10-25T18:37:23.198428+00:00
- - user: None
- - tags: []
-
-## Hristiyan Dodov: Full-Stack Developer at Oblik Studio
- - [https://dodov.dev](https://dodov.dev)
- - date published: 2023-10-25T18:37:24.848610+00:00
- - user: None
- - tags: []
-
-## Earthly - Make Builds Super Simple
- - [https://earthly.dev](https://earthly.dev)
- - date published: 2023-10-25T18:37:27.899029+00:00
- - user: None
- - tags: []
-
-## echoserver: A simple echo server for testing HTTP clients.
- - [https://echoserver.dev](https://echoserver.dev)
- - date published: 2023-10-25T18:37:29.344617+00:00
- - user: None
- - tags: []
-
-## Ecostack —
-        a developer blog
- - [https://ecostack.dev](https://ecostack.dev)
- - date published: 2023-10-25T18:37:30.969613+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://emnudge.dev](https://emnudge.dev)
- - date published: 2023-10-25T18:37:32.803436+00:00
- - user: None
- - tags: []
-
-## Emoji Kitchen
- - [https://emojikitchen.dev](https://emojikitchen.dev)
- - date published: 2023-10-25T18:37:39.002696+00:00
- - user: None
- - tags: []
-
-## Encore — Escape your backend development burdens
- - [https://encore.dev](https://encore.dev)
- - date published: 2023-11-23T13:54:15.244923+00:00
- - user: None
- - tags: []
-
-## Matthias Endler
- - [https://endler.dev](https://endler.dev)
- - date published: 2023-10-25T18:37:40.403164+00:00
- - user: None
- - tags: []
-
-## endtimes.dev
- - [https://endtimes.dev](https://endtimes.dev)
- - date published: 2023-10-25T18:37:42.008452+00:00
- - user: None
- - tags: []
-
-## Enhance
- - [https://enhance.dev](https://enhance.dev)
- - date published: 2023-10-25T18:37:45.413755+00:00
- - user: None
- - tags: []
-
-## Ship Modern Full-Stack Web Applications
- - [https://www.epicweb.dev](https://www.epicweb.dev)
- - date published: 2023-10-27T12:49:23.689681+00:00
- - user: None
- - tags: []
-
-## Oxidizing corner
- - [https://blog.erk.dev](https://blog.erk.dev)
- - date published: 2023-10-25T18:37:48.559995+00:00
- - user: None
- - tags: []
-
-## Educational Sensational Inspirational Foundational
- - [https://esif.dev](https://esif.dev)
- - date published: 2023-10-25T18:37:55.517883+00:00
- - user: None
- - tags: []
-
-## Show HN: Etcha – Infinite scale, serverless config management
- - [https://etcha.dev](https://etcha.dev)
- - date published: 2023-11-18T15:39:55+00:00
- - user: None
- - tags: []
-
-## Evidence - Business Intelligence as Code
- - [https://evidence.dev](https://evidence.dev)
- - date published: 2023-10-25T18:37:57.379219+00:00
- - user: None
- - tags: []
-
-## Home - FED Mentor
- - [https://fedmentor.dev](https://fedmentor.dev)
- - date published: 2023-10-25T18:37:59.320927+00:00
- - user: None
- - tags: []
-
-## Feep! search
- - [https://search.feep.dev](https://search.feep.dev)
- - date published: 2023-10-25T18:38:00.233684+00:00
- - user: None
- - tags: []
-
-## Flecs
- - [https://www.flecs.dev](https://www.flecs.dev)
- - date published: 2023-10-25T18:38:01.033831+00:00
- - user: None
- - tags: []
-
-## Flightcontrol Jobs
- - [https://jobs.flightcontrol.dev](https://jobs.flightcontrol.dev)
- - date published: 2023-10-25T18:38:01.725933+00:00
  - user: None
  - tags: []
 

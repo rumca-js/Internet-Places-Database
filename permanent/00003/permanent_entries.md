@@ -1,3 +1,45 @@
+## Diamonds Suck
+ - [https://diamondssuck.com](https://diamondssuck.com)
+ - date published: 2023-11-13T05:32:47+00:00
+ - user: None
+ - tags: []
+
+## Diaries of Note – On this day in diary entries
+ - [https://diariesofnote.com](https://diariesofnote.com)
+ - date published: 2023-10-25T13:51:24.637589+00:00
+ - user: None
+ - tags: []
+
+## Diaryland members area
+ - [https://members.diaryland.com](https://members.diaryland.com)
+ - date published: 2023-10-25T13:51:29.144226+00:00
+ - user: None
+ - tags: []
+
+## Dicebreaker
+ - [https://www.dicebreaker.com](https://www.dicebreaker.com)
+ - date published: 2023-10-25T11:11:12.489415+00:00
+ - user: None
+ - tags: ['tabletop games', 'magic the gathering', 'board game news', 'warhammer', 'board games']
+
+## Home – Dice Paper Miniatures – Fantasy Art Miniatures Hobby Games
+ - [https://dicepaperminis.com](https://dicepaperminis.com)
+ - date published: 2023-11-01T18:15:18.533183+00:00
+ - user: None
+ - tags: ['necromunda', 'warhammer', 'miniatures']
+
+## DiceRight
+ - [https://www.diceright.com](https://www.diceright.com)
+ - date published: 2023-10-25T13:51:30.991439+00:00
+ - user: None
+ - tags: []
+
+## Dickson Neoh - Personal Portfolio
+ - [https://dicksonneoh.com](https://dicksonneoh.com)
+ - date published: 2023-10-25T13:51:33.339476+00:00
+ - user: None
+ - tags: []
+
 ## Dictionary.com | Meanings & Definitions of English Words
  - [https://www.dictionary.com](https://www.dictionary.com)
  - date published: 2023-10-25T09:28:45.890389+00:00
@@ -199,6 +241,12 @@
 ## Discord | Your Place to Talk and Hang Out
  - [https://discordapp.com](https://discordapp.com)
  - date published: 2023-10-24T20:12:30.610788+00:00
+ - user: None
+ - tags: []
+
+## Discord Status
+ - [https://discordstatus.com](https://discordstatus.com)
+ - date published: 2023-12-16T00:17:54.495631+00:00
  - user: None
  - tags: []
 
@@ -977,6 +1025,12 @@
  - user: None
  - tags: []
 
+## Dwarkesh Podcast | Dwarkesh Patel | Substack
+ - [https://www.dwarkeshpatel.com](https://www.dwarkeshpatel.com)
+ - date published: 2023-12-16T13:36:19.590447+00:00
+ - user: None
+ - tags: []
+
 ## Dwell House – Design Delivered to Your Backyard
  - [https://house.dwell.com](https://house.dwell.com)
  - date published: 2023-10-25T14:00:08.441249+00:00
@@ -1060,6 +1114,12 @@
  - date published: 2023-10-25T11:27:58.776792+00:00
  - user: None
  - tags: ['fifa', 'company', 'nfl', 'nhl']
+
+## Earl MacDonald – Composer, Jazz Pianist, Music Educator – “A magical, musical alchemist of hip hybrids."
+ - [https://www.earlmacdonald.com](https://www.earlmacdonald.com)
+ - date published: 2023-12-16T07:29:09.233696+00:00
+ - user: None
+ - tags: ['personal']
 
 ## EarlyGame | Your Gaming & Entertainment Hub – News, Guides, Reviews
  - [https://earlygame.com](https://earlygame.com)
@@ -1348,6 +1408,12 @@
  - date published: 2023-11-11T23:41:04.114730+00:00
  - user: None
  - tags: []
+
+## EgyptToday
+ - [https://www.egypttoday.com](https://www.egypttoday.com)
+ - date published: 2023-12-16T16:18:06.543038+00:00
+ - user: None
+ - tags: ['egypt news']
 
 ## Edwin Morris, product designer and front-end developer
  - [https://ehmorris.com](https://ehmorris.com)
@@ -5932,72 +5998,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Hosted Libraries  |  Google for Developers
  - [https://ajax.googleapis.com](https://ajax.googleapis.com)
  - date published: 2023-12-11T16:52:24.286615+00:00
- - user: None
- - tags: []
-
-## Error 404 (Not Found)!!1
- - [https://fonts.googleapis.com](https://fonts.googleapis.com)
- - date published: 2023-12-11T16:10:31.937427+00:00
- - user: None
- - tags: []
-
-## Google Maps Platform  |  Google for Developers
- - [https://maps.googleapis.com](https://maps.googleapis.com)
- - date published: 2023-12-11T16:56:21.677508+00:00
- - user: None
- - tags: []
-
-## Google Research Blog
- - [https://ai.googleblog.com](https://ai.googleblog.com)
- - date published: 2023-10-25T14:47:46.285153+00:00
- - user: None
- - tags: []
-
-## Android Developers Blog
- - [https://android-developers.googleblog.com](https://android-developers.googleblog.com)
- - date published: 2023-10-25T14:47:48.044830+00:00
- - user: None
- - tags: []
-
-## Chrome Releases
- - [https://chromereleases.googleblog.com](https://chromereleases.googleblog.com)
- - date published: 2023-10-25T08:40:21.923612+00:00
- - user: None
- - tags: []
-
-## Google for Developers Blog - News about Web, Mobile, AI and Cloud
- - [https://developers.googleblog.com](https://developers.googleblog.com)
- - date published: 2023-10-25T14:47:51.773508+00:00
- - user: None
- - tags: []
-
-## Google Open Source Blog
- - [https://opensource.googleblog.com](https://opensource.googleblog.com)
- - date published: 2023-10-25T14:47:58.744853+00:00
- - user: None
- - tags: []
-
-## Google Online Security Blog
- - [https://security.googleblog.com](https://security.googleblog.com)
- - date published: 2023-10-25T14:48:05.962532+00:00
- - user: None
- - tags: []
-
-## Google Testing Blog
- - [https://testing.googleblog.com](https://testing.googleblog.com)
- - date published: 2023-10-25T14:48:14.831580+00:00
- - user: None
- - tags: []
-
-## Google Workspace Updates
- - [https://workspaceupdates.googleblog.com](https://workspaceupdates.googleblog.com)
- - date published: 2023-10-25T14:48:23.843748+00:00
- - user: None
- - tags: []
-
-## Latest News
- - [https://www.googlecloudpresscorner.com](https://www.googlecloudpresscorner.com)
- - date published: 2023-10-25T14:48:27.491701+00:00
  - user: None
  - tags: []
 

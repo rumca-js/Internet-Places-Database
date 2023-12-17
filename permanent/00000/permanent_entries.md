@@ -166,6 +166,12 @@
  - user: None
  - tags: []
 
+## FutureFlight | Urban Air Mobility News, Special Reports, Programs
+ - [https://www.futureflight.aero](https://www.futureflight.aero)
+ - date published: 2023-12-16T22:26:53.868701+00:00
+ - user: None
+ - tags: []
+
 ## Stralis Aircraft – Emission free hydrogen electric aircraft
  - [https://stralis.aero](https://stralis.aero)
  - date published: 2023-11-20T20:24:12.351020+00:00
@@ -181,6 +187,12 @@
 ## Predrag Gruevski's blog and personal site.
  - [https://predr.ag](https://predr.ag)
  - date published: 2023-10-25T08:41:22.336448+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rishi Agrawal
+ - [https://rishi.ag](https://rishi.ag)
+ - date published: 2023-12-16T07:28:34.638305+00:00
  - user: None
  - tags: ['personal']
 
@@ -511,6 +523,12 @@
 ## Factiverse AI Editor
  - [https://editor.factiverse.ai](https://editor.factiverse.ai)
  - date published: 2023-10-25T11:38:29.189794+00:00
+ - user: None
+ - tags: []
+
+## Projects and Ramblings
+ - [https://www.farley.ai](https://www.farley.ai)
+ - date published: 2023-12-16T04:39:04.636256+00:00
  - user: None
  - tags: []
 
@@ -2176,6 +2194,12 @@
  - user: None
  - tags: []
 
+## A Beautiful library of SVG logos
+ - [https://svgl.vercel.app](https://svgl.vercel.app)
+ - date published: 2023-12-16T15:04:54+00:00
+ - user: None
+ - tags: []
+
 ## Automatic Comments Generator
  - [https://swiftstart.vercel.app](https://swiftstart.vercel.app)
  - date published: 2023-10-25T11:50:53.574901+00:00
@@ -3100,6 +3124,12 @@
  - user: None
  - tags: []
 
+## J. MONEY *
+ - [https://jmoney.biz](https://jmoney.biz)
+ - date published: 2023-12-16T07:28:19.600786+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Mobile games industry news and insights - Mobilegamer.biz
  - [https://mobilegamer.biz](https://mobilegamer.biz)
  - date published: 2023-10-25T10:47:38.913934+00:00
@@ -3494,6 +3524,12 @@
 ## The Stack Overflow Blog - Stack Overflow
  - [https://stackoverflow.blog](https://stackoverflow.blog)
  - date published: 2023-10-25T12:01:26.888673+00:00
+ - user: None
+ - tags: []
+
+## The Seven Deadly Stupidities | GP | Substack
+ - [https://www.stupid.blog](https://www.stupid.blog)
+ - date published: 2023-12-16T16:48:24.781015+00:00
  - user: None
  - tags: []
 
@@ -5961,42 +5997,6 @@
 ## PropBox
  - [https://propbox.co](https://propbox.co)
  - date published: 2023-10-25T12:21:42.593362+00:00
- - user: None
- - tags: []
-
-## Prospective
- - [https://prospective.co](https://prospective.co)
- - date published: 2023-11-01T17:24:22.525282+00:00
- - user: None
- - tags: []
-
-## Psyche | on the human condition
- - [https://psyche.co](https://psyche.co)
- - date published: 2023-10-25T12:21:50.754555+00:00
- - user: None
- - tags: []
-
-## RA · Discover Electronic Music and Events
- - [https://ra.co](https://ra.co)
- - date published: 2023-10-25T12:22:57.001214+00:00
- - user: None
- - tags: []
-
-## RankedVote: Online Ranked-Choice Voting Polls
- - [https://www.rankedvote.co](https://www.rankedvote.co)
- - date published: 2023-10-25T12:22:03.760424+00:00
- - user: None
- - tags: []
-
-## reddit
- - [http://www.reddit.co](http://www.reddit.co)
- - date published: 2023-11-01T02:23:42.836195+00:00
- - user: None
- - tags: []
-
-## Rentry.co - Markdown Pastebin
- - [https://rentry.co](https://rentry.co)
- - date published: 2023-10-25T08:31:07.607725+00:00
  - user: None
  - tags: []
 

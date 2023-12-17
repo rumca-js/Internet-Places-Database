@@ -1,3 +1,81 @@
+## Kraktoos
+ - [https://kraktoos.com](https://kraktoos.com)
+ - date published: 2023-10-25T08:46:47.993948+00:00
+ - user: None
+ - tags: ['personal']
+
+## LayerSlider: #1 WordPress Slider Plugin
+ - [https://layerslider.kreaturamedia.com](https://layerslider.kreaturamedia.com)
+ - date published: 2023-12-11T16:37:18.965095+00:00
+ - user: None
+ - tags: []
+
+## Krebs on Security – In-depth security news and investigation
+ - [https://krebsonsecurity.com](https://krebsonsecurity.com)
+ - date published: 2023-10-25T10:14:56.854608+00:00
+ - user: None
+ - tags: []
+
+## Krickelkrackel | I had nothing in mind while painting this.
+ - [https://krickelkrackel.com](https://krickelkrackel.com)
+ - date published: 2023-10-25T15:39:08.147156+00:00
+ - user: None
+ - tags: []
+
+## Restructuring Administration Cases | Kroll
+ - [https://restructuring.ra.kroll.com](https://restructuring.ra.kroll.com)
+ - date published: 2023-10-25T15:39:22.144519+00:00
+ - user: None
+ - tags: []
+
+## Kronian Titans
+ - [https://kroniantitans.com](https://kroniantitans.com)
+ - date published: 2023-10-30T16:39:31.815312+00:00
+ - user: None
+ - tags: ['open source']
+
+## Nicolas Kruchten
+ - [https://nicolas.kruchten.com](https://nicolas.kruchten.com)
+ - date published: 2023-10-25T15:39:24.376523+00:00
+ - user: None
+ - tags: []
+
+## Welcome - Artem Krylysov
+ - [https://artem.krylysov.com](https://artem.krylysov.com)
+ - date published: 2023-10-25T15:39:25.889023+00:00
+ - user: None
+ - tags: []
+
+## KryptonSite: Smallville - Superman & Lois - Supergirl TV Series News
+ - [https://www.kryptonsite.com](https://www.kryptonsite.com)
+ - date published: 2023-11-27T12:56:43+00:00
+ - user: rumpel
+ - tags: []
+
+## San Antonio News, Texas News, Sports, Weather from KSAT.com, Expect More
+ - [https://www.ksat.com](https://www.ksat.com)
+ - date published: 2023-10-25T15:39:32.812120+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://www.ksby.com](https://www.ksby.com)
+ - date published: 2023-11-21T18:13:53.146023+00:00
+ - user: None
+ - tags: []
+
+## Kevin Schaul
+ - [https://www.kschaul.com](https://www.kschaul.com)
+ - date published: 2023-10-25T15:39:33.921474+00:00
+ - user: None
+ - tags: []
+
+## KSHB 41 Kansas City: News, Weather, Chiefs, Traffic and Sports
+ - [https://www.kshb.com](https://www.kshb.com)
+ - date published: 2023-10-25T15:39:39.874814+00:00
+ - user: None
+ - tags: []
+
 ## Utah news from KSLTV.com
  - [https://ksltv.com](https://ksltv.com)
  - date published: 2023-10-25T15:39:47.395431+00:00
@@ -1150,6 +1228,12 @@
  - user: None
  - tags: []
 
+## LinuxBabe
+ - [https://www.linuxbabe.com](https://www.linuxbabe.com)
+ - date published: 2023-12-16T21:47:15.387109+00:00
+ - user: None
+ - tags: ['linux news']
+
 ## Linux Gaming Central
  - [https://linuxgamingcentral.com](https://linuxgamingcentral.com)
  - date published: 2023-10-25T15:47:34.851584+00:00
@@ -2066,6 +2150,12 @@ diversions.
 ## Create Email Marketing Your Audience Will Love - MailerLite
  - [https://static.mailerlite.com](https://static.mailerlite.com)
  - date published: 2023-12-13T14:56:54.663028+00:00
+ - user: None
+ - tags: []
+
+## Transactional Email Delivery Made Easy
+ - [https://maileroo.com](https://maileroo.com)
+ - date published: 2023-12-16T05:53:51+00:00
  - user: None
  - tags: []
 
@@ -4902,6 +4992,12 @@ diversions.
  - user: None
  - tags: []
 
+## MongoDB: The Developer Data Platform
+ - [https://www.mongodb.com](https://www.mongodb.com)
+ - date published: 2023-12-16T21:26:37.350495+00:00
+ - user: None
+ - tags: []
+
 ## Personal CRM done right - Monica
  - [https://www.monicahq.com](https://www.monicahq.com)
  - date published: 2023-10-25T16:06:21.691787+00:00
@@ -5772,6 +5868,12 @@ diversions.
  - user: None
  - tags: []
 
+## Navy Lookout
+ - [https://www.navylookout.com](https://www.navylookout.com)
+ - date published: 2023-12-16T12:57:58.995896+00:00
+ - user: None
+ - tags: []
+
 ## Navy Times - Independent News For Sailors | Navy Times
  - [https://www.navytimes.com](https://www.navytimes.com)
  - date published: 2023-10-25T10:17:10.551232+00:00
@@ -5895,108 +5997,6 @@ diversions.
 ## neeto blog | Neeraj Singh | Substack
  - [https://blog.neeto.com](https://blog.neeto.com)
  - date published: 2023-10-25T16:13:27.856869+00:00
- - user: None
- - tags: []
-
-## Neeva - Search powered by AI
- - [https://neeva.com](https://neeva.com)
- - date published: 2023-10-25T16:13:30.499686+00:00
- - user: None
- - tags: []
-
-## The Neglected Books Page
- - [https://neglectedbooks.com](https://neglectedbooks.com)
- - date published: 2023-11-15T00:43:10.867153+00:00
- - user: None
- - tags: []
-
-## Neil Clarke – Award-Winning Editor of Clarkesworld Magazine, Forever Magazine, The Best Science Fiction of the Year, and More
- - [https://neil-clarke.com](https://neil-clarke.com)
- - date published: 2023-10-25T16:13:33.917999+00:00
- - user: None
- - tags: []
-
-## Neil Gaiman's Journal
- - [https://journal.neilgaiman.com](https://journal.neilgaiman.com)
- - date published: 2023-10-31T19:57:41.846026+00:00
- - user: None
- - tags: []
-
-## Logo & Brand Identity Designer Nela Dunato
- - [https://neladunato.com](https://neladunato.com)
- - date published: 2023-10-25T16:13:38.305402+00:00
- - user: None
- - tags: []
-
-## Made of Bugs
- - [https://blog.nelhage.com](https://blog.nelhage.com)
- - date published: 2023-10-25T16:13:42.952027+00:00
- - user: None
- - tags: []
-
-## Nelson Joyce - Product Designer
- - [https://nelsonjoyce.com](https://nelsonjoyce.com)
- - date published: 2023-11-29T19:26:28.622051+00:00
- - user: None
- - tags: ['personal']
-
-## Nenad Markuš
- - [https://nenadmarkus.com](https://nenadmarkus.com)
- - date published: 2023-10-25T16:13:44.419081+00:00
- - user: None
- - tags: []
-
-## Neo-Arcadia – Le site d'arcade francophone
- - [https://www.neo-arcadia.com](https://www.neo-arcadia.com)
- - date published: 2023-12-13T15:19:38.840148+00:00
- - user: None
- - tags: ['video games']
-
-## Neocha – Culture & Creativity in Asia
- - [https://neocha.com](https://neocha.com)
- - date published: 2023-10-25T16:13:47.315619+00:00
- - user: None
- - tags: []
-
-## NeoGAF
- - [https://www.neogaf.com](https://www.neogaf.com)
- - date published: 2023-10-25T16:14:22.260523+00:00
- - user: None
- - tags: []
-
-## NEOM: Made to Change
- - [https://www.neom.com](https://www.neom.com)
- - date published: 2023-10-25T16:14:57.000831+00:00
- - user: None
- - tags: []
-
-## Tomo Myrman
- - [https://neontomo.com](https://neontomo.com)
- - date published: 2023-10-25T16:14:57.484656+00:00
- - user: None
- - tags: []
-
-## NERC
- - [https://www.nerc.com](https://www.nerc.com)
- - date published: 2023-10-25T16:15:00.930913+00:00
- - user: None
- - tags: []
-
-## Nerd Bear
- - [https://nerdbear.com](https://nerdbear.com)
- - date published: 2023-10-25T10:49:27.454085+00:00
- - user: None
- - tags: []
-
-## Home - Nerdist
- - [https://nerdist.com](https://nerdist.com)
- - date published: 2023-10-25T16:15:04.340536+00:00
- - user: None
- - tags: []
-
-## Nerd Level Tech - Learn the Nerd Way
- - [https://nerdleveltech.com](https://nerdleveltech.com)
- - date published: 2023-10-25T16:15:11.606065+00:00
  - user: None
  - tags: []
 

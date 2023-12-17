@@ -1,3 +1,39 @@
+## Prospective
+ - [https://prospective.co](https://prospective.co)
+ - date published: 2023-11-01T17:24:22.525282+00:00
+ - user: None
+ - tags: []
+
+## Psyche | on the human condition
+ - [https://psyche.co](https://psyche.co)
+ - date published: 2023-10-25T12:21:50.754555+00:00
+ - user: None
+ - tags: []
+
+## RA · Discover Electronic Music and Events
+ - [https://ra.co](https://ra.co)
+ - date published: 2023-10-25T12:22:57.001214+00:00
+ - user: None
+ - tags: []
+
+## RankedVote: Online Ranked-Choice Voting Polls
+ - [https://www.rankedvote.co](https://www.rankedvote.co)
+ - date published: 2023-10-25T12:22:03.760424+00:00
+ - user: None
+ - tags: []
+
+## reddit
+ - [http://www.reddit.co](http://www.reddit.co)
+ - date published: 2023-11-01T02:23:42.836195+00:00
+ - user: None
+ - tags: []
+
+## Rentry.co - Markdown Pastebin
+ - [https://rentry.co](https://rentry.co)
+ - date published: 2023-10-25T08:31:07.607725+00:00
+ - user: None
+ - tags: []
+
 ## Streamlit
  - [https://llmconstellation.olafblitz.repl.co](https://llmconstellation.olafblitz.repl.co)
  - date published: 2023-10-25T12:22:05.528639+00:00
@@ -799,6 +835,12 @@
 ## Phoenix, Arizona News and Weather | ABC15 Arizona
  - [https://www.abc15.com](https://www.abc15.com)
  - date published: 2023-10-25T12:29:09.415306+00:00
+ - user: None
+ - tags: []
+
+## ABC30 News - KFSN Fresno and Central Valley News and Weather
+ - [https://abc30.com](https://abc30.com)
+ - date published: 2023-12-16T02:21:50.232285+00:00
  - user: None
  - tags: []
 
@@ -5953,48 +5995,6 @@
 ## The Legasov Tapes
  - [https://legasovtapetranslation.blogspot.com](https://legasovtapetranslation.blogspot.com)
  - date published: 2023-10-25T09:09:33.364290+00:00
- - user: None
- - tags: ['personal']
-
-## Litherum
- - [https://litherum.blogspot.com](https://litherum.blogspot.com)
- - date published: 2023-10-25T13:05:24.030253+00:00
- - user: None
- - tags: []
-
-## Living Stingy
- - [https://livingstingy.blogspot.com](https://livingstingy.blogspot.com)
- - date published: 2023-10-25T13:05:32.372582+00:00
- - user: None
- - tags: []
-
-## Maddy's Ramblings
- - [https://maddy06.blogspot.com](https://maddy06.blogspot.com)
- - date published: 2023-10-25T09:09:39.571727+00:00
- - user: None
- - tags: ['personal']
-
-## main is usually a function
- - [https://mainisusuallyafunction.blogspot.com](https://mainisusuallyafunction.blogspot.com)
- - date published: 2023-10-25T09:09:43.541835+00:00
- - user: None
- - tags: ['personal']
-
-## Adventures in PC Emulation
- - [https://martypc.blogspot.com](https://martypc.blogspot.com)
- - date published: 2023-10-25T13:05:36.468742+00:00
- - user: None
- - tags: []
-
-## Code rant
- - [https://mikehadlow.blogspot.com](https://mikehadlow.blogspot.com)
- - date published: 2023-10-25T09:09:48.126384+00:00
- - user: None
- - tags: ['personal']
-
-## Mike Lynch Cartoons
- - [https://mikelynchcartoons.blogspot.com](https://mikelynchcartoons.blogspot.com)
- - date published: 2023-10-25T09:09:53.674589+00:00
  - user: None
  - tags: ['personal']
 

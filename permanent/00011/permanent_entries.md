@@ -1,3 +1,153 @@
+## H4CK1NG G00GL3
+ - [https://h4ck1ng.google](https://h4ck1ng.google)
+ - date published: 2023-10-25T19:17:40.273388+00:00
+ - user: None
+ - tags: []
+
+## Google I/O 2023
+ - [https://io.google](https://io.google)
+ - date published: 2023-10-25T19:17:46.710273+00:00
+ - user: None
+ - tags: []
+
+## Google Open Source
+ - [https://opensource.google](https://opensource.google)
+ - date published: 2023-12-06T11:17:33+00:00
+ - user: rumpel
+ - tags: ['open source']
+
+## Google Research Blog
+ - [https://blog.research.google](https://blog.research.google)
+ - date published: 2023-10-25T11:32:57.455414+00:00
+ - user: None
+ - tags: []
+
+## Imagen: Text-to-Image Diffusion Models
+ - [https://imagen.research.google](https://imagen.research.google)
+ - date published: 2023-10-25T19:17:47.644089+00:00
+ - user: None
+ - tags: []
+
+## Google Research
+ - [https://sites.research.google](https://sites.research.google)
+ - date published: 2023-10-25T19:17:49.502568+00:00
+ - user: None
+ - tags: []
+
+## Google - Site Reliability Engineering
+ - [https://sre.google](https://sre.google)
+ - date published: 2023-10-27T14:31:32.109730+00:00
+ - user: None
+ - tags: []
+
+## Argonne National Laboratory Homepage | Argonne National Laboratory
+ - [https://www.anl.gov](https://www.anl.gov)
+ - date published: 2023-10-25T19:17:52.526159+00:00
+ - user: None
+ - tags: []
+
+## National Archives |
+ - [https://www.archives.gov](https://www.archives.gov)
+ - date published: 2023-10-25T19:17:54.767250+00:00
+ - user: None
+ - tags: ['library', 'archives']
+
+## U.S. Bureau of Economic Analysis (BEA)
+ - [https://www.bea.gov](https://www.bea.gov)
+ - date published: 2023-10-25T19:18:02.924414+00:00
+ - user: None
+ - tags: []
+
+## U.S. Bureau of Labor Statistics
+ - [https://www.bls.gov](https://www.bls.gov)
+ - date published: 2023-10-25T19:18:06.559665+00:00
+ - user: None
+ - tags: []
+
+## City of Boulder Open Data
+ - [https://open-data.bouldercolorado.gov](https://open-data.bouldercolorado.gov)
+ - date published: 2023-11-26T14:08:47+00:00
+ - user: None
+ - tags: []
+
+## The Department of Financial Protection and Innovation (DFPI) | Securing a fair and healthy financial services marketplace
+ - [https://dfpi.ca.gov](https://dfpi.ca.gov)
+ - date published: 2023-10-25T19:18:09.805592+00:00
+ - user: None
+ - tags: []
+
+## State of California - Department of Justice - Office of the Attorney General
+ - [https://oag.ca.gov](https://oag.ca.gov)
+ - date published: 2023-10-25T19:18:14.245263+00:00
+ - user: None
+ - tags: []
+
+## California Courts - Home
+ - [https://www.courts.ca.gov](https://www.courts.ca.gov)
+ - date published: 2023-10-25T19:18:17.125876+00:00
+ - user: None
+ - tags: []
+
+## https://www.dmv.ca.gov
+ - [https://www.dmv.ca.gov](https://www.dmv.ca.gov)
+ - date published: 2023-12-16T17:16:27.374703+00:00
+ - user: None
+ - tags: []
+
+## Comprehensive Cancer Information - NCI
+ - [https://www.cancer.gov](https://www.cancer.gov)
+ - date published: 2023-10-25T19:18:18.579854+00:00
+ - user: None
+ - tags: []
+
+## Congressional Budget Office
+ - [https://www.cbo.gov](https://www.cbo.gov)
+ - date published: 2023-11-25T17:09:06.156821+00:00
+ - user: None
+ - tags: []
+
+## Centers for Disease Control and Prevention
+ - [https://www.cdc.gov](https://www.cdc.gov)
+ - date published: 2023-10-25T19:18:20.513066+00:00
+ - user: None
+ - tags: []
+
+## Census.gov
+ - [https://www.census.gov](https://www.census.gov)
+ - date published: 2023-10-25T19:18:28.624624+00:00
+ - user: None
+ - tags: []
+
+## Commodity Futures Trading Commission | CFTC
+ - [https://www.cftc.gov](https://www.cftc.gov)
+ - date published: 2023-10-25T19:18:30.878793+00:00
+ - user: None
+ - tags: []
+
+## We are the Nation's first line of defense - CIA
+ - [https://www.cia.gov](https://www.cia.gov)
+ - date published: 2023-10-25T19:18:37.730570+00:00
+ - user: None
+ - tags: ['cia', 'government']
+
+## Home | NICCS
+ - [https://niccs.cisa.gov](https://niccs.cisa.gov)
+ - date published: 2023-10-25T19:18:39.523763+00:00
+ - user: None
+ - tags: []
+
+## Home Page | CISA
+ - [https://www.cisa.gov](https://www.cisa.gov)
+ - date published: 2023-10-25T19:18:41.700248+00:00
+ - user: None
+ - tags: []
+
+## https://cde.ucr.cjis.gov
+ - [https://cde.ucr.cjis.gov](https://cde.ucr.cjis.gov)
+ - date published: 2023-11-12T13:04:34.470969+00:00
+ - user: None
+ - tags: []
+
 ## Homepage
  - [https://www.commerce.gov](https://www.commerce.gov)
  - date published: 2023-11-01T19:47:55.173039+00:00
@@ -1307,6 +1457,12 @@
 ## The Book Resort Book Subscription Box| Irish Subscription Box
  - [https://www.thebookresort.ie](https://www.thebookresort.ie)
  - date published: 2023-12-02T08:10:41.745901+00:00
+ - user: None
+ - tags: []
+
+## TheJournal.ie
+ - [https://www.thejournal.ie](https://www.thejournal.ie)
+ - date published: 2023-12-16T00:26:08.230995+00:00
  - user: None
  - tags: []
 
@@ -2630,6 +2786,12 @@
  - date published: 2023-10-25T19:38:27.013256+00:00
  - user: None
  - tags: []
+
+## https://bernert.io
+ - [https://bernert.io](https://bernert.io)
+ - date published: 2023-12-16T07:27:54.422121+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Hacker News Summary - by ChatGPT
  - [https://hackernews.betacat.io](https://hackernews.betacat.io)
@@ -4006,6 +4168,12 @@ through Composable Diffusion
  - user: None
  - tags: []
 
+## Jinbo Xing
+ - [https://doubiiu.github.io](https://doubiiu.github.io)
+ - date published: 2023-12-16T17:16:57.452135+00:00
+ - user: None
+ - tags: []
+
 ## Dragon863 - Home
  - [https://dragon863.github.io](https://dragon863.github.io)
  - date published: 2023-10-25T19:45:02.523780+00:00
@@ -5063,6 +5231,12 @@ through Composable Diffusion
  - user: None
  - tags: []
 
+## The JavaScript Oxidation Compiler
+ - [https://oxc-project.github.io](https://oxc-project.github.io)
+ - date published: 2023-12-16T20:21:13+00:00
+ - user: None
+ - tags: []
+
 ## PaLM-E: An Embodied Multimodal Language Model
  - [https://palm-e.github.io](https://palm-e.github.io)
  - date published: 2023-10-25T19:51:04.713759+00:00
@@ -5830,178 +6004,4 @@ through Composable Diffusion
  - date published: 2023-10-25T19:56:17.909646+00:00
  - user: None
  - tags: ['hardware', 'community']
-
-## HackMD - Collaborative Markdown Knowledge Base
- - [https://hackmd.io](https://hackmd.io)
- - date published: 2023-10-25T19:56:20.694162+00:00
- - user: None
- - tags: []
-
-## Hackster.io - The community dedicated to learning hardware.
- - [https://www.hackster.io](https://www.hackster.io)
- - date published: 2023-10-25T11:33:07.301617+00:00
- - user: None
- - tags: ['community', 'hardware']
-
-## https://hankchizljaw.io
- - [https://hankchizljaw.io](https://hankchizljaw.io)
- - date published: 2023-12-14T10:46:09.472338+00:00
- - user: None
- - tags: ['personal']
-
-## hardwear.io | Hardware Security Conference & Training | Netherlands, Germany & USA
- - [https://hardwear.io](https://hardwear.io)
- - date published: 2023-10-25T19:56:22.144827+00:00
- - user: None
- - tags: []
-
-## Healthchecks.io – The Joy of Building a Cron Monitoring Service
- - [https://blog.healthchecks.io](https://blog.healthchecks.io)
- - date published: 2023-10-25T19:56:24.199243+00:00
- - user: None
- - tags: []
-
-## Heap - Better Insights. Faster. | Heap
- - [https://www.heap.io](https://www.heap.io)
- - date published: 2023-10-25T19:56:26.723209+00:00
- - user: None
- - tags: []
-
-## Pentest Reporting Collaboration & DevSecOps solutions | Hexway
- - [https://hexway.io](https://hexway.io)
- - date published: 2023-10-25T19:56:30.314272+00:00
- - user: None
- - tags: []
-
-## Next-Generation Git Client | HighFlux
- - [https://www.highflux.io](https://www.highflux.io)
- - date published: 2023-10-25T19:56:31.971622+00:00
- - user: None
- - tags: []
-
-## highlight.io: The open source monitoring platform.
- - [https://www.highlight.io](https://www.highlight.io)
- - date published: 2023-11-01T19:27:39.270525+00:00
- - user: None
- - tags: []
-
-## High Signal - startup news and interviews with founders
- - [https://www.highsignal.io](https://www.highsignal.io)
- - date published: 2023-10-25T19:56:35.856286+00:00
- - user: None
- - tags: []
-
-## Hivekit - Build amazing geospatial apps
- - [https://hivekit.io](https://hivekit.io)
- - date published: 2023-10-25T19:56:36.813918+00:00
- - user: None
- - tags: []
-
-## Matthew Hodgkins Blog
- - [https://hodgkins.io](https://hodgkins.io)
- - date published: 2023-10-29T14:00:30.252607+00:00
- - user: None
- - tags: []
-
-## Home Assistant Community
- - [https://community.home-assistant.io](https://community.home-assistant.io)
- - date published: 2023-11-01T13:42:47.519479+00:00
- - user: None
- - tags: []
-
-## Home Assistant
- - [https://www.home-assistant.io](https://www.home-assistant.io)
- - date published: 2023-10-25T08:33:17.353283+00:00
- - user: None
- - tags: []
-
-## Observability for Distributed Services | Honeycomb
- - [https://www.honeycomb.io](https://www.honeycomb.io)
- - date published: 2023-10-25T19:56:44.725039+00:00
- - user: None
- - tags: []
-
-## https://cult.honeypot.io
- - [https://cult.honeypot.io](https://cult.honeypot.io)
- - date published: 2023-10-25T19:56:47.304525+00:00
- - user: None
- - tags: []
-
-## Alexandre Defossez AI homepage
- - [https://ai.honu.io](https://ai.honu.io)
- - date published: 2023-10-25T19:56:49.150077+00:00
- - user: None
- - tags: []
-
-## Tell/Ask HN: HN WebSite is/was down. I'm curious why?
- - [https://hn.hund.io](https://hn.hund.io)
- - date published: 2023-12-12T10:42:50+00:00
- - user: None
- - tags: []
-
-## Hydra - Fast Postgres Analytics ++
- - [https://hydras.io](https://hydras.io)
- - date published: 2023-10-25T19:57:02.346775+00:00
- - user: None
- - tags: []
-
-## Hyperswitch | More power to your payments
- - [https://hyperswitch.io](https://hyperswitch.io)
- - date published: 2023-10-25T19:57:04.241273+00:00
- - user: None
- - tags: []
-
-## IBRAMENU - Automation & Deployment System
- - [https://ibramenu.io](https://ibramenu.io)
- - date published: 2023-10-25T19:57:07.102425+00:00
- - user: None
- - tags: []
-
-## IcePanel | Explain complex software systems
- - [https://icepanel.io](https://icepanel.io)
- - date published: 2023-11-14T21:17:27.308190+00:00
- - user: None
- - tags: []
-
-## We Analyzed 425,909 Favicons
- - [https://iconmap.io](https://iconmap.io)
- - date published: 2023-10-25T19:57:09.705620+00:00
- - user: None
- - tags: []
-
-## ImageUpload.io — Image Upload Direct Link for FREE
- - [https://imageupload.io](https://imageupload.io)
- - date published: 2023-11-02T10:59:47.799558+00:00
- - user: None
- - tags: []
-
-## Imba - The friendly full-stack language!
- - [https://imba.io](https://imba.io)
- - date published: 2023-10-25T19:57:11.205980+00:00
- - user: None
- - tags: []
-
-## Img2Prompt
- - [https://www.img2prompt.io](https://www.img2prompt.io)
- - date published: 2023-10-25T19:57:12.510590+00:00
- - user: None
- - tags: []
-
-## incident.io — Incident management that brings calm to chaos
- - [https://incident.io](https://incident.io)
- - date published: 2023-10-25T19:57:14.644771+00:00
- - user: None
- - tags: []
-
-## Indigo
- - [https://indigoengine.io](https://indigoengine.io)
- - date published: 2023-10-25T08:35:39.867270+00:00
- - user: None
- - tags: []
-
-## Infracost: The Cloud’s Checkout Screen
- - [https://infracost.io](https://infracost.io)
- - date published: 2023-10-25T19:57:18.523836+00:00
- - user: None
- - tags: []
 

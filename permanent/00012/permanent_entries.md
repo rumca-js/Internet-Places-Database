@@ -1,3 +1,177 @@
+## HackMD - Collaborative Markdown Knowledge Base
+ - [https://hackmd.io](https://hackmd.io)
+ - date published: 2023-10-25T19:56:20.694162+00:00
+ - user: None
+ - tags: []
+
+## Hackster.io - The community dedicated to learning hardware.
+ - [https://www.hackster.io](https://www.hackster.io)
+ - date published: 2023-10-25T11:33:07.301617+00:00
+ - user: None
+ - tags: ['community', 'hardware']
+
+## https://hankchizljaw.io
+ - [https://hankchizljaw.io](https://hankchizljaw.io)
+ - date published: 2023-12-14T10:46:09.472338+00:00
+ - user: None
+ - tags: ['personal']
+
+## hardwear.io | Hardware Security Conference & Training | Netherlands, Germany & USA
+ - [https://hardwear.io](https://hardwear.io)
+ - date published: 2023-10-25T19:56:22.144827+00:00
+ - user: None
+ - tags: []
+
+## Healthchecks.io – The Joy of Building a Cron Monitoring Service
+ - [https://blog.healthchecks.io](https://blog.healthchecks.io)
+ - date published: 2023-10-25T19:56:24.199243+00:00
+ - user: None
+ - tags: []
+
+## Heap - Better Insights. Faster. | Heap
+ - [https://www.heap.io](https://www.heap.io)
+ - date published: 2023-10-25T19:56:26.723209+00:00
+ - user: None
+ - tags: []
+
+## Pentest Reporting Collaboration & DevSecOps solutions | Hexway
+ - [https://hexway.io](https://hexway.io)
+ - date published: 2023-10-25T19:56:30.314272+00:00
+ - user: None
+ - tags: []
+
+## Next-Generation Git Client | HighFlux
+ - [https://www.highflux.io](https://www.highflux.io)
+ - date published: 2023-10-25T19:56:31.971622+00:00
+ - user: None
+ - tags: []
+
+## highlight.io: The open source monitoring platform.
+ - [https://www.highlight.io](https://www.highlight.io)
+ - date published: 2023-11-01T19:27:39.270525+00:00
+ - user: None
+ - tags: []
+
+## High Signal - startup news and interviews with founders
+ - [https://www.highsignal.io](https://www.highsignal.io)
+ - date published: 2023-10-25T19:56:35.856286+00:00
+ - user: None
+ - tags: []
+
+## Hivekit - Build amazing geospatial apps
+ - [https://hivekit.io](https://hivekit.io)
+ - date published: 2023-10-25T19:56:36.813918+00:00
+ - user: None
+ - tags: []
+
+## Matthew Hodgkins Blog
+ - [https://hodgkins.io](https://hodgkins.io)
+ - date published: 2023-10-29T14:00:30.252607+00:00
+ - user: None
+ - tags: []
+
+## Home Assistant Community
+ - [https://community.home-assistant.io](https://community.home-assistant.io)
+ - date published: 2023-11-01T13:42:47.519479+00:00
+ - user: None
+ - tags: []
+
+## Home Assistant
+ - [https://www.home-assistant.io](https://www.home-assistant.io)
+ - date published: 2023-10-25T08:33:17.353283+00:00
+ - user: None
+ - tags: []
+
+## Observability for Distributed Services | Honeycomb
+ - [https://www.honeycomb.io](https://www.honeycomb.io)
+ - date published: 2023-10-25T19:56:44.725039+00:00
+ - user: None
+ - tags: []
+
+## https://cult.honeypot.io
+ - [https://cult.honeypot.io](https://cult.honeypot.io)
+ - date published: 2023-10-25T19:56:47.304525+00:00
+ - user: None
+ - tags: []
+
+## Alexandre Defossez AI homepage
+ - [https://ai.honu.io](https://ai.honu.io)
+ - date published: 2023-10-25T19:56:49.150077+00:00
+ - user: None
+ - tags: []
+
+## Tell/Ask HN: HN WebSite is/was down. I'm curious why?
+ - [https://hn.hund.io](https://hn.hund.io)
+ - date published: 2023-12-12T10:42:50+00:00
+ - user: None
+ - tags: []
+
+## Hydra - Fast Postgres Analytics ++
+ - [https://hydras.io](https://hydras.io)
+ - date published: 2023-10-25T19:57:02.346775+00:00
+ - user: None
+ - tags: []
+
+## Hyperswitch | More power to your payments
+ - [https://hyperswitch.io](https://hyperswitch.io)
+ - date published: 2023-10-25T19:57:04.241273+00:00
+ - user: None
+ - tags: []
+
+## IBRAMENU - Automation & Deployment System
+ - [https://ibramenu.io](https://ibramenu.io)
+ - date published: 2023-10-25T19:57:07.102425+00:00
+ - user: None
+ - tags: []
+
+## IcePanel | Explain complex software systems
+ - [https://icepanel.io](https://icepanel.io)
+ - date published: 2023-11-14T21:17:27.308190+00:00
+ - user: None
+ - tags: []
+
+## We Analyzed 425,909 Favicons
+ - [https://iconmap.io](https://iconmap.io)
+ - date published: 2023-10-25T19:57:09.705620+00:00
+ - user: None
+ - tags: []
+
+## ImageUpload.io — Image Upload Direct Link for FREE
+ - [https://imageupload.io](https://imageupload.io)
+ - date published: 2023-11-02T10:59:47.799558+00:00
+ - user: None
+ - tags: []
+
+## Imba - The friendly full-stack language!
+ - [https://imba.io](https://imba.io)
+ - date published: 2023-10-25T19:57:11.205980+00:00
+ - user: None
+ - tags: []
+
+## Img2Prompt
+ - [https://www.img2prompt.io](https://www.img2prompt.io)
+ - date published: 2023-10-25T19:57:12.510590+00:00
+ - user: None
+ - tags: []
+
+## incident.io — Incident management that brings calm to chaos
+ - [https://incident.io](https://incident.io)
+ - date published: 2023-10-25T19:57:14.644771+00:00
+ - user: None
+ - tags: []
+
+## Indigo
+ - [https://indigoengine.io](https://indigoengine.io)
+ - date published: 2023-10-25T08:35:39.867270+00:00
+ - user: None
+ - tags: []
+
+## Infracost: The Cloud’s Checkout Screen
+ - [https://infracost.io](https://infracost.io)
+ - date published: 2023-10-25T19:57:18.523836+00:00
+ - user: None
+ - tags: []
+
 ## IngestAI.io – The AI Trained on Your Business – Artificial Intelligence Powered Knowledge Base
  - [https://ingestai.io](https://ingestai.io)
  - date published: 2023-10-25T19:57:23.010796+00:00
@@ -2806,6 +2980,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: ['museum']
 
+## Home
+ - [https://www.waseda.jp](https://www.waseda.jp)
+ - date published: 2023-12-16T15:23:08.656018+00:00
+ - user: None
+ - tags: []
+
 ## xenia - Xbox 360 Research Emulator
  - [https://xenia.jp](https://xenia.jp)
  - date published: 2023-10-25T08:36:10.594484+00:00
@@ -2863,6 +3043,12 @@ End-to-end typesafe APIs made easy. | tRPC
 ## https://m.koreatimes.co.kr
  - [https://m.koreatimes.co.kr](https://m.koreatimes.co.kr)
  - date published: 2023-11-06T20:12:00.704345+00:00
+ - user: None
+ - tags: []
+
+## https://www.koreatimes.co.kr
+ - [https://www.koreatimes.co.kr](https://www.koreatimes.co.kr)
+ - date published: 2023-12-16T11:18:52.429235+00:00
  - user: None
  - tags: []
 
@@ -3304,6 +3490,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
+## https://wilnoteka.lt
+ - [https://wilnoteka.lt](https://wilnoteka.lt)
+ - date published: 2023-12-16T13:23:59.227349+00:00
+ - user: None
+ - tags: []
+
 ## Voitures neuves | Constructeur automobile | Citroën
  - [https://www.citroen.lu](https://www.citroen.lu)
  - date published: 2023-12-11T16:02:16.459769+00:00
@@ -3487,6 +3679,12 @@ End-to-end typesafe APIs made easy. | tRPC
 ## bazhenov.me
  - [https://www.bazhenov.me](https://www.bazhenov.me)
  - date published: 2023-10-25T08:50:09.306260+00:00
+ - user: None
+ - tags: ['personal']
+
+## Todd Heslin - Full Stack Developer
+ - [https://beingremarkable.me](https://beingremarkable.me)
+ - date published: 2023-12-16T07:28:00.011742+00:00
  - user: None
  - tags: ['personal']
 
@@ -5804,204 +6002,6 @@ End-to-end typesafe APIs made easy. | tRPC
 ## daemonology.net
  - [https://www.daemonology.net](https://www.daemonology.net)
  - date published: 2023-10-25T20:28:33.979177+00:00
- - user: None
- - tags: []
-
-## Dangerous Minds
- - [https://dangerousminds.net](https://dangerousminds.net)
- - date published: 2023-10-25T20:28:38.333425+00:00
- - user: None
- - tags: []
-
-## Start - Daniel Hauck
- - [https://danielhauck.net](https://danielhauck.net)
- - date published: 2023-11-29T18:21:12.256604+00:00
- - user: None
- - tags: ['personal']
-
-## Dan North & Associates Ltd
- - [https://dannorth.net](https://dannorth.net)
- - date published: 2023-10-25T20:28:39.620762+00:00
- - user: None
- - tags: []
-
-## Jeremy Danyow
- - [https://danyow.net](https://danyow.net)
- - date published: 2023-10-25T09:22:54.534593+00:00
- - user: None
- - tags: ['personal']
-
-## All articles
- - [https://daoudclarke.net](https://daoudclarke.net)
- - date published: 2023-10-25T20:28:40.312551+00:00
- - user: None
- - tags: []
-
-## Daring Fireball
- - [https://daringfireball.net](https://daringfireball.net)
- - date published: 2023-10-25T09:22:57.001340+00:00
- - user: None
- - tags: ['personal']
-
-## Graham King
- - [https://darkcoding.net](https://darkcoding.net)
- - date published: 2023-10-25T09:00:26.309032+00:00
- - user: None
- - tags: ['personal']
-
-## Dark Sky Blog
- - [https://blog.darksky.net](https://blog.darksky.net)
- - date published: 2023-10-25T08:36:50.268335+00:00
- - user: None
- - tags: []
-
-## Darren Burns - Blog
- - [https://darrenburns.net](https://darrenburns.net)
- - date published: 2023-10-25T09:00:33.936983+00:00
- - user: None
- - tags: ['personal']
-
-## Darryl Bayliss | Darryl Bayliss’s Blog Random musings about Software Engineering
- - [https://www.darrylbayliss.net](https://www.darrylbayliss.net)
- - date published: 2023-10-25T20:28:41.093332+00:00
- - user: None
- - tags: []
-
-## Amiga Music Preservation - //home////
- - [https://amp.dascene.net](https://amp.dascene.net)
- - date published: 2023-11-02T09:54:32.119187+00:00
- - user: None
- - tags: ['amiga']
-
-## DataBreaches.net: The Office of Inadequate Security
- - [https://www.databreaches.net](https://www.databreaches.net)
- - date published: 2023-10-25T20:28:42.463972+00:00
- - user: None
- - tags: []
-
-## davidbordwell.net : home
- - [https://www.davidbordwell.net](https://www.davidbordwell.net)
- - date published: 2023-10-25T20:28:44.980999+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://renegat0x0.ddns.net](https://renegat0x0.ddns.net)
- - date published: 2023-10-25T08:52:16.878263+00:00
- - user: None
- - tags: ['personal']
-
-## Retro cracking and art underground | Defacto2
- - [https://defacto2.net](https://defacto2.net)
- - date published: 2023-10-25T20:28:49.622968+00:00
- - user: None
- - tags: []
-
-## Defined Networking
- - [https://www.defined.net](https://www.defined.net)
- - date published: 2023-10-25T20:28:51.152764+00:00
- - user: None
- - tags: []
-
-## Mastodon
- - [https://mastodon.delroth.net](https://mastodon.delroth.net)
- - date published: 2023-10-24T20:12:45.014547+00:00
- - user: None
- - tags: []
-
-## Desdemona Despair – Blogging the End of the World™
- - [https://desdemonadespair.net](https://desdemonadespair.net)
- - date published: 2023-10-25T20:28:59.822386+00:00
- - user: None
- - tags: []
-
-## Shen DeShayne
- - [https://shen.deshayne.net](https://shen.deshayne.net)
- - date published: 2023-11-29T14:24:51.956102+00:00
- - user: None
- - tags: []
-
-## deskthority - Index page
- - [https://deskthority.net](https://deskthority.net)
- - date published: 2023-10-25T20:29:00.971441+00:00
- - user: None
- - tags: []
-
-## Daniel Estévez – Scientific & Technical Amateur Radio — Home of EA4GPZ / M0HXM
- - [https://destevez.net](https://destevez.net)
- - date published: 2023-10-25T09:23:00.010601+00:00
- - user: None
- - tags: ['personal']
-
-## Deus In Machina | Diego Crespo | Substack
- - [https://www.deusinmachina.net](https://www.deusinmachina.net)
- - date published: 2023-10-25T10:08:14.443830+00:00
- - user: None
- - tags: ['substack']
-
-## devever
- - [https://www.devever.net](https://www.devever.net)
- - date published: 2023-10-25T08:41:20.331085+00:00
- - user: None
- - tags: ['personal']
-
-## Diablo 2 @ Gamerz-bg.com
- - [https://old.diablo-2.net](https://old.diablo-2.net)
- - date published: 2023-12-13T16:18:20.452676+00:00
- - user: None
- - tags: []
-
-## Diablo 2 Database Fansite | Diablo-2.net
- - [https://www.diablo-2.net](https://www.diablo-2.net)
- - date published: 2023-10-25T11:10:20.483355+00:00
- - user: None
- - tags: []
-
-## Diablo 2 Resurrected Best Builds, Guides, and News
- - [https://www.diabloii.net](https://www.diabloii.net)
- - date published: 2023-12-13T16:22:40.834110+00:00
- - user: None
- - tags: []
-
-## Welcome to dialup.net
- - [https://www.dialup.net](https://www.dialup.net)
- - date published: 2023-10-25T20:29:02.353079+00:00
- - user: None
- - tags: []
-
-## Sign in · GitLab
- - [https://gitlab.digilol.net](https://gitlab.digilol.net)
- - date published: 2023-10-25T20:29:04.046376+00:00
- - user: None
- - tags: []
-
-## Snacks of the internet | Digisnacks.net
- - [https://www.digisnacks.net](https://www.digisnacks.net)
- - date published: 2023-10-25T11:17:47.532576+00:00
- - user: None
- - tags: []
-
-## Digital Foundry
- - [https://www.digitalfoundry.net](https://www.digitalfoundry.net)
- - date published: 2023-10-25T18:13:04.739169+00:00
- - user: None
- - tags: []
-
-## Discuit
- - [https://discuit.net](https://discuit.net)
- - date published: 2023-10-25T20:29:05.581236+00:00
- - user: None
- - tags: []
-
-## Dittytoy
- - [https://dittytoy.net](https://dittytoy.net)
- - date published: 2023-10-25T20:29:07.339713+00:00
- - user: None
- - tags: []
-
-## DIY-Thermocam | Open-source thermal imaging for everyone!
- - [https://www.diy-thermocam.net](https://www.diy-thermocam.net)
- - date published: 2023-10-25T20:29:10.410970+00:00
  - user: None
  - tags: []
 

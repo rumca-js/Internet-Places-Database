@@ -1,3 +1,111 @@
+## Home
+ - [https://www.redvoicemedia.com](https://www.redvoicemedia.com)
+ - date published: 2023-10-25T16:48:45.337395+00:00
+ - user: None
+ - tags: []
+
+## Red Worm Composting - WAY Too Much Fun With Worms!
+ - [https://www.redwormcomposting.com](https://www.redwormcomposting.com)
+ - date published: 2023-10-25T16:48:47.837833+00:00
+ - user: None
+ - tags: []
+
+## Nathan Reed’s coding blog
+ - [https://www.reedbeta.com](https://www.reedbeta.com)
+ - date published: 2023-12-08T08:31:43.501654+00:00
+ - user: None
+ - tags: []
+
+## ReedPop UK - Webstore
+ - [https://store.reedpop.com](https://store.reedpop.com)
+ - date published: 2023-12-13T15:41:07.662450+00:00
+ - user: None
+ - tags: []
+
+## ReedPop
+ - [https://www.reedpop.com](https://www.reedpop.com)
+ - date published: 2023-12-13T15:42:06.555067+00:00
+ - user: None
+ - tags: []
+
+## Reedsy • Your daily dose of writing, publishing and marketing advice
+ - [https://blog.reedsy.com](https://blog.reedsy.com)
+ - date published: 2023-10-25T16:48:51.747561+00:00
+ - user: None
+ - tags: []
+
+## Reedsy: Find the perfect editor, designer or marketer | Reedsy
+ - [https://reedsy.com](https://reedsy.com)
+ - date published: 2023-10-25T16:48:54.640395+00:00
+ - user: None
+ - tags: []
+
+## Reel Inequality: Charting the Vanishing Middle Class of Movies
+ - [https://www.reelinequality.com](https://www.reelinequality.com)
+ - date published: 2023-12-04T21:13:08+00:00
+ - user: None
+ - tags: []
+
+## Refactoring UI
+ - [https://www.refactoringui.com](https://www.refactoringui.com)
+ - date published: 2023-10-25T16:48:55.710835+00:00
+ - user: None
+ - tags: []
+
+## Reflio: Create a privacy-friendly referral program for your SaaS. | Reflio
+ - [https://reflio.com](https://reflio.com)
+ - date published: 2023-10-25T16:48:56.216998+00:00
+ - user: None
+ - tags: []
+
+## Reforge
+ - [https://www.reforge.com](https://www.reforge.com)
+ - date published: 2023-10-25T16:48:57.708367+00:00
+ - user: None
+ - tags: []
+
+## REGENT | Coastal Travel. 100% Electric.
+ - [https://www.regentcraft.com](https://www.regentcraft.com)
+ - date published: 2023-10-25T16:48:59.761531+00:00
+ - user: None
+ - tags: []
+
+## RegExr: Learn, Build, & Test RegEx
+ - [https://regexr.com](https://regexr.com)
+ - date published: 2023-12-11T12:26:25+00:00
+ - user: rumpel
+ - tags: ['regular expressions', 'code sandbox']
+
+## Rehan van der Merwe - Architect, Developer and AWS Junkie
+ - [https://rehanvdm.com](https://rehanvdm.com)
+ - date published: 2023-10-31T11:38:24.014919+00:00
+ - user: None
+ - tags: []
+
+## Relationship Hero - #1 Relationship Coaching Website
+ - [https://relationshiphero.com](https://relationshiphero.com)
+ - date published: 2023-10-25T16:49:00.611213+00:00
+ - user: None
+ - tags: []
+
+## Release - Get an Environment with any code commit
+ - [https://release.com](https://release.com)
+ - date published: 2023-10-25T16:49:07.848757+00:00
+ - user: None
+ - tags: []
+
+## Release - Get an Environment with any code commit
+ - [https://releasehub.com](https://releasehub.com)
+ - date published: 2023-10-25T16:49:15.699403+00:00
+ - user: None
+ - tags: []
+
+## Get Featured in Newsletters. Best Search Tool - Reletter
+ - [https://reletter.com](https://reletter.com)
+ - date published: 2023-10-25T16:49:16.940312+00:00
+ - user: None
+ - tags: []
+
 ## Relevant Radio - Bringing Christ to the world through the media
  - [https://relevantradio.com](https://relevantradio.com)
  - date published: 2023-10-25T16:49:21.398300+00:00
@@ -2487,6 +2595,12 @@
  - date published: 2023-10-25T17:03:12.236336+00:00
  - user: None
  - tags: []
+
+## Shahed Syed | Product Designer
+ - [https://shah3d.com](https://shah3d.com)
+ - date published: 2023-12-16T07:28:09.909101+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Home
  - [https://shallistreamit.com](https://shallistreamit.com)
@@ -5890,118 +6004,4 @@
  - date published: 2023-10-25T09:53:28.318342+00:00
  - user: None
  - tags: ['substack']
-
-## Hard Pivot | jeff tang | Substack
- - [https://hardpivot.substack.com](https://hardpivot.substack.com)
- - date published: 2023-10-25T09:53:30.197949+00:00
- - user: None
- - tags: ['substack']
-
-## Hasen Judi | Substack
- - [https://hasen.substack.com](https://hasen.substack.com)
- - date published: 2023-10-25T09:53:32.676350+00:00
- - user: None
- - tags: ['substack']
-
-## Headlines | Fitt Insider | Substack
- - [https://headlineshq.substack.com](https://headlineshq.substack.com)
- - date published: 2023-10-25T09:53:34.487257+00:00
- - user: None
- - tags: ['substack']
-
-## Human Programming | Daniel Sosebee | Substack
- - [https://humanprogramming.substack.com](https://humanprogramming.substack.com)
- - date published: 2023-10-25T09:53:38.961944+00:00
- - user: None
- - tags: ['substack']
-
-## Heterodox STEM | Dorian Abbot | Substack
- - [https://hxstem.substack.com](https://hxstem.substack.com)
- - date published: 2023-10-25T09:53:44.146234+00:00
- - user: None
- - tags: ['substack']
-
-## Iah’s Substack | Substack
- - [https://iahwrites.substack.com](https://iahwrites.substack.com)
- - date published: 2023-10-25T09:53:45.650210+00:00
- - user: None
- - tags: ['substack']
-
-## I Am Not a Robot | Diego Basch | Substack
- - [https://iamnotarobot.substack.com](https://iamnotarobot.substack.com)
- - date published: 2023-10-25T09:53:47.300720+00:00
- - user: None
- - tags: ['substack']
-
-## The Ruffian | Ian Leslie | Substack
- - [https://ianleslie.substack.com](https://ianleslie.substack.com)
- - date published: 2023-10-25T09:54:01.013922+00:00
- - user: None
- - tags: ['substack']
-
-## The Ideal Gas Newsletter | Substack
- - [https://idealgas.substack.com](https://idealgas.substack.com)
- - date published: 2023-10-25T09:54:03.827327+00:00
- - user: None
- - tags: ['substack']
-
-## 50 Years of Text Games | Aaron A. Reed | Substack
- - [https://if50.substack.com](https://if50.substack.com)
- - date published: 2023-10-25T09:54:06.218172+00:00
- - user: None
- - tags: ['substack']
-
-## I have thoughts | Thomas Poinsot | Substack
- - [https://ihavemanythoughts.substack.com](https://ihavemanythoughts.substack.com)
- - date published: 2023-10-25T09:54:07.794382+00:00
- - user: None
- - tags: ['substack']
-
-## a newsletter for infovores. | Age of Infovores | Substack
- - [https://infovores.substack.com](https://infovores.substack.com)
- - date published: 2023-10-25T09:54:08.800392+00:00
- - user: None
- - tags: ['substack']
-
-## Interconnected | Kevin Xu | Substack
- - [https://interconnect.substack.com](https://interconnect.substack.com)
- - date published: 2023-10-25T09:54:16.997332+00:00
- - user: None
- - tags: ['substack']
-
-## inter human agreement | linked zero sync | Substack
- - [https://interhumanagreement.substack.com](https://interhumanagreement.substack.com)
- - date published: 2023-10-25T09:54:18.928911+00:00
- - user: None
- - tags: ['substack']
-
-## Intuitive AI | Will Seltzer | Substack
- - [https://intuitiveai.substack.com](https://intuitiveai.substack.com)
- - date published: 2023-10-25T09:54:20.839554+00:00
- - user: None
- - tags: ['substack']
-
-## Investing 101 | Kyle Harrison | Substack
- - [https://investing1012dot0.substack.com](https://investing1012dot0.substack.com)
- - date published: 2023-10-25T09:54:23.993215+00:00
- - user: None
- - tags: ['substack']
-
-## Ironic Sans | David Friedman | Substack
- - [https://ironicsans.substack.com](https://ironicsans.substack.com)
- - date published: 2023-10-25T09:54:27.002372+00:00
- - user: None
- - tags: ['substack']
-
-## All-Source Intelligence Fusion | Jack Poulson | Substack
- - [https://jackpoulson.substack.com](https://jackpoulson.substack.com)
- - date published: 2023-11-18T19:07:51.838890+00:00
- - user: None
- - tags: []
-
-## The Experiment | Jason Stanford | Substack
- - [https://jasonstanford.substack.com](https://jasonstanford.substack.com)
- - date published: 2023-11-28T22:06:34.502561+00:00
- - user: None
- - tags: []
 

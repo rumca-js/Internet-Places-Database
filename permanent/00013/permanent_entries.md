@@ -1,3 +1,201 @@
+## Dangerous Minds
+ - [https://dangerousminds.net](https://dangerousminds.net)
+ - date published: 2023-10-25T20:28:38.333425+00:00
+ - user: None
+ - tags: []
+
+## Start - Daniel Hauck
+ - [https://danielhauck.net](https://danielhauck.net)
+ - date published: 2023-11-29T18:21:12.256604+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dan North & Associates Ltd
+ - [https://dannorth.net](https://dannorth.net)
+ - date published: 2023-10-25T20:28:39.620762+00:00
+ - user: None
+ - tags: []
+
+## Jeremy Danyow
+ - [https://danyow.net](https://danyow.net)
+ - date published: 2023-10-25T09:22:54.534593+00:00
+ - user: None
+ - tags: ['personal']
+
+## All articles
+ - [https://daoudclarke.net](https://daoudclarke.net)
+ - date published: 2023-10-25T20:28:40.312551+00:00
+ - user: None
+ - tags: []
+
+## Daring Fireball
+ - [https://daringfireball.net](https://daringfireball.net)
+ - date published: 2023-10-25T09:22:57.001340+00:00
+ - user: None
+ - tags: ['personal']
+
+## Graham King
+ - [https://darkcoding.net](https://darkcoding.net)
+ - date published: 2023-10-25T09:00:26.309032+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dark Sky Blog
+ - [https://blog.darksky.net](https://blog.darksky.net)
+ - date published: 2023-10-25T08:36:50.268335+00:00
+ - user: None
+ - tags: []
+
+## Darren Burns - Blog
+ - [https://darrenburns.net](https://darrenburns.net)
+ - date published: 2023-10-25T09:00:33.936983+00:00
+ - user: None
+ - tags: ['personal']
+
+## Darryl Bayliss | Darryl Bayliss’s Blog Random musings about Software Engineering
+ - [https://www.darrylbayliss.net](https://www.darrylbayliss.net)
+ - date published: 2023-10-25T20:28:41.093332+00:00
+ - user: None
+ - tags: []
+
+## Amiga Music Preservation - //home////
+ - [https://amp.dascene.net](https://amp.dascene.net)
+ - date published: 2023-11-02T09:54:32.119187+00:00
+ - user: None
+ - tags: ['amiga']
+
+## DataBreaches.net: The Office of Inadequate Security
+ - [https://www.databreaches.net](https://www.databreaches.net)
+ - date published: 2023-10-25T20:28:42.463972+00:00
+ - user: None
+ - tags: []
+
+## davidbordwell.net : home
+ - [https://www.davidbordwell.net](https://www.davidbordwell.net)
+ - date published: 2023-10-25T20:28:44.980999+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://renegat0x0.ddns.net](https://renegat0x0.ddns.net)
+ - date published: 2023-10-25T08:52:16.878263+00:00
+ - user: None
+ - tags: ['personal']
+
+## Retro cracking and art underground | Defacto2
+ - [https://defacto2.net](https://defacto2.net)
+ - date published: 2023-10-25T20:28:49.622968+00:00
+ - user: None
+ - tags: []
+
+## Defined Networking
+ - [https://www.defined.net](https://www.defined.net)
+ - date published: 2023-10-25T20:28:51.152764+00:00
+ - user: None
+ - tags: []
+
+## Mastodon
+ - [https://mastodon.delroth.net](https://mastodon.delroth.net)
+ - date published: 2023-10-24T20:12:45.014547+00:00
+ - user: None
+ - tags: []
+
+## Desdemona Despair – Blogging the End of the World™
+ - [https://desdemonadespair.net](https://desdemonadespair.net)
+ - date published: 2023-10-25T20:28:59.822386+00:00
+ - user: None
+ - tags: []
+
+## Shen DeShayne
+ - [https://shen.deshayne.net](https://shen.deshayne.net)
+ - date published: 2023-11-29T14:24:51.956102+00:00
+ - user: None
+ - tags: []
+
+## deskthority - Index page
+ - [https://deskthority.net](https://deskthority.net)
+ - date published: 2023-10-25T20:29:00.971441+00:00
+ - user: None
+ - tags: []
+
+## Daniel Estévez – Scientific & Technical Amateur Radio — Home of EA4GPZ / M0HXM
+ - [https://destevez.net](https://destevez.net)
+ - date published: 2023-10-25T09:23:00.010601+00:00
+ - user: None
+ - tags: ['personal']
+
+## Deus In Machina | Diego Crespo | Substack
+ - [https://www.deusinmachina.net](https://www.deusinmachina.net)
+ - date published: 2023-10-25T10:08:14.443830+00:00
+ - user: None
+ - tags: ['substack']
+
+## devever
+ - [https://www.devever.net](https://www.devever.net)
+ - date published: 2023-10-25T08:41:20.331085+00:00
+ - user: None
+ - tags: ['personal']
+
+## Diablo 2 @ Gamerz-bg.com
+ - [https://old.diablo-2.net](https://old.diablo-2.net)
+ - date published: 2023-12-13T16:18:20.452676+00:00
+ - user: None
+ - tags: []
+
+## Diablo 2 Database Fansite | Diablo-2.net
+ - [https://www.diablo-2.net](https://www.diablo-2.net)
+ - date published: 2023-10-25T11:10:20.483355+00:00
+ - user: None
+ - tags: []
+
+## Diablo 2 Resurrected Best Builds, Guides, and News
+ - [https://www.diabloii.net](https://www.diabloii.net)
+ - date published: 2023-12-13T16:22:40.834110+00:00
+ - user: None
+ - tags: []
+
+## Welcome to dialup.net
+ - [https://www.dialup.net](https://www.dialup.net)
+ - date published: 2023-10-25T20:29:02.353079+00:00
+ - user: None
+ - tags: []
+
+## Sign in · GitLab
+ - [https://gitlab.digilol.net](https://gitlab.digilol.net)
+ - date published: 2023-10-25T20:29:04.046376+00:00
+ - user: None
+ - tags: []
+
+## Snacks of the internet | Digisnacks.net
+ - [https://www.digisnacks.net](https://www.digisnacks.net)
+ - date published: 2023-10-25T11:17:47.532576+00:00
+ - user: None
+ - tags: []
+
+## Digital Foundry
+ - [https://www.digitalfoundry.net](https://www.digitalfoundry.net)
+ - date published: 2023-10-25T18:13:04.739169+00:00
+ - user: None
+ - tags: []
+
+## Discuit
+ - [https://discuit.net](https://discuit.net)
+ - date published: 2023-10-25T20:29:05.581236+00:00
+ - user: None
+ - tags: []
+
+## Dittytoy
+ - [https://dittytoy.net](https://dittytoy.net)
+ - date published: 2023-10-25T20:29:07.339713+00:00
+ - user: None
+ - tags: []
+
+## DIY-Thermocam | Open-source thermal imaging for everyone!
+ - [https://www.diy-thermocam.net](https://www.diy-thermocam.net)
+ - date published: 2023-10-25T20:29:10.410970+00:00
+ - user: None
+ - tags: []
+
 ## DIY Photography - Your one stop shop for everything photo-video
  - [https://www.diyphotography.net](https://www.diyphotography.net)
  - date published: 2023-10-25T20:29:15.677437+00:00
@@ -3636,6 +3834,12 @@
  - user: None
  - tags: ['personal']
 
+## Koen van Gilst - TypeScript Developer
+ - [https://koenvangilst.nl](https://koenvangilst.nl)
+ - date published: 2023-12-16T15:36:29.715273+00:00
+ - user: None
+ - tags: []
+
 ## Leiden Medievalists Blog
  - [https://www.leidenmedievalistsblog.nl](https://www.leidenmedievalistsblog.nl)
  - date published: 2023-10-25T20:44:39.175416+00:00
@@ -4380,6 +4584,12 @@ marginalia.nu
  - date published: 2023-10-25T20:52:19.126166+00:00
  - user: None
  - tags: []
+
+## Fabian's public notepad
+ - [https://holzer.online](https://holzer.online)
+ - date published: 2023-12-16T07:29:03.990666+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Mastodon
  - [https://mastodon.online](https://mastodon.online)
@@ -5653,6 +5863,12 @@ marginalia.nu
  - user: None
  - tags: []
 
+## British and Irish Legal Information Institute
+ - [https://www.bailii.org](https://www.bailii.org)
+ - date published: 2023-12-16T09:56:11.836456+00:00
+ - user: None
+ - tags: []
+
 ## https://ballotpedia.org
  - [https://ballotpedia.org](https://ballotpedia.org)
  - date published: 2023-11-07T14:32:58.201410+00:00
@@ -5784,220 +6000,4 @@ marginalia.nu
  - date published: 2023-11-28T04:40:54.869762+00:00
  - user: None
  - tags: []
-
-## bioRxiv.org - the preprint server for Biology
- - [https://www.biorxiv.org](https://www.biorxiv.org)
- - date published: 2023-10-25T21:02:25.856718+00:00
- - user: None
- - tags: []
-
-## Biscuit
- - [https://www.biscuitsec.org](https://www.biscuitsec.org)
- - date published: 2023-10-25T21:02:27.841277+00:00
- - user: None
- - tags: []
-
-## Bitbucket | Git solution for teams using Jira
- - [https://bitbucket.org](https://bitbucket.org)
- - date published: 2023-10-25T08:41:07.091610+00:00
- - user: None
- - tags: []
-
-## Bitcoin - Open source P2P money
- - [https://bitcoin.org](https://bitcoin.org)
- - date published: 2023-10-29T15:13:34.530679+00:00
- - user: None
- - tags: []
-
-## The bitsavers main page
- - [https://bitsavers.org](https://bitsavers.org)
- - date published: 2023-10-25T21:02:29.463650+00:00
- - user: None
- - tags: []
-
-## bitsgalore.org
- - [https://www.bitsgalore.org](https://www.bitsgalore.org)
- - date published: 2023-10-25T21:02:36.496344+00:00
- - user: None
- - tags: []
-
-## Bitsplitting.org | Chasing the impossible with Daniel Jalkut
- - [https://bitsplitting.org](https://bitsplitting.org)
- - date published: 2023-10-25T21:02:44.465812+00:00
- - user: None
- - tags: []
-
-## https://bitvm.org
- - [https://bitvm.org](https://bitvm.org)
- - date published: 2023-10-25T21:02:45.523247+00:00
- - user: None
- - tags: []
-
-## BarryK's Home — All categories
- - [https://bkhome.org](https://bkhome.org)
- - date published: 2023-10-25T21:02:47.631425+00:00
- - user: None
- - tags: []
-
-## Brooklyn Public Library
- - [https://www.bklynlibrary.org](https://www.bklynlibrary.org)
- - date published: 2023-10-25T21:02:53.786581+00:00
- - user: None
- - tags: []
-
-## Developer Blog - code.blender.org
- - [https://code.blender.org](https://code.blender.org)
- - date published: 2023-10-25T21:02:57.177492+00:00
- - user: None
- - tags: []
-
-## Developer Forum
- - [https://devtalk.blender.org](https://devtalk.blender.org)
- - date published: 2023-10-25T21:02:59.659020+00:00
- - user: None
- - tags: []
-
-## Blender Projects
- - [https://projects.blender.org](https://projects.blender.org)
- - date published: 2023-10-25T21:03:01.728947+00:00
- - user: None
- - tags: []
-
-## Blender Developer Wiki
- - [https://wiki.blender.org](https://wiki.blender.org)
- - date published: 2023-10-25T21:03:03.560868+00:00
- - user: None
- - tags: []
-
-## blender.org - Home of the Blender project - Free and Open 3D Creation Software
- - [https://www.blender.org](https://www.blender.org)
- - date published: 2023-10-25T21:03:06.210208+00:00
- - user: None
- - tags: ['3d', 'open source', '3d printing', 'program']
-
-## Blokada Community - The place for Blokada enthusiasts to communicate and learn
- - [https://community.blokada.org](https://community.blokada.org)
- - date published: 2023-10-25T21:03:09.458756+00:00
- - user: None
- - tags: []
-
-## Bogleheads Investing Advice and Info
- - [https://www.bogleheads.org](https://www.bogleheads.org)
- - date published: 2023-10-25T21:03:13.569250+00:00
- - user: None
- - tags: []
-
-## Bonfire
- - [https://bonfirenetworks.org](https://bonfirenetworks.org)
- - date published: 2023-10-25T21:03:15.251631+00:00
- - user: None
- - tags: []
-
-## BorgBackup – Deduplicating archiver with compression and authenticated encryption
- - [https://www.borgbackup.org](https://www.borgbackup.org)
- - date published: 2023-10-25T21:03:21.679225+00:00
- - user: None
- - tags: []
-
-## Boring Report
- - [https://www.boringreport.org](https://www.boringreport.org)
- - date published: 2023-10-25T21:03:23.184338+00:00
- - user: None
- - tags: []
-
-## Boston Library
- - [https://bostonlibrary.org](https://bostonlibrary.org)
- - date published: 2023-11-28T09:06:05.426016+00:00
- - user: None
- - tags: []
-
-## Home | Boston Planning & Development Agency
- - [https://www.bostonplans.org](https://www.bostonplans.org)
- - date published: 2023-10-25T21:03:28.958237+00:00
- - user: None
- - tags: []
-
-## BoTorch · Bayesian Optimization in PyTorch
- - [https://botorch.org](https://botorch.org)
- - date published: 2023-10-25T21:03:30.553611+00:00
- - user: None
- - tags: []
-
-## Tails - Home
- - [https://tails.boum.org](https://tails.boum.org)
- - date published: 2023-10-25T21:03:33.692031+00:00
- - user: None
- - tags: []
-
-## Box2D
- - [https://box2d.org](https://box2d.org)
- - date published: 2023-10-25T08:35:42.304717+00:00
- - user: None
- - tags: []
-
-## Box86 – Linux Userspace x86 Emulator with a Twist
- - [https://box86.org](https://box86.org)
- - date published: 2023-10-25T21:03:37.749632+00:00
- - user: None
- - tags: []
-
-## Ben E. C. Boyter | Ben E. C. Boyter
- - [https://boyter.org](https://boyter.org)
- - date published: 2023-10-25T21:03:43.739592+00:00
- - user: None
- - tags: []
-
-## Services for the Blind and Visually Impaired | Braille Institute
- - [https://brailleinstitute.org](https://brailleinstitute.org)
- - date published: 2023-10-25T21:03:49.278625+00:00
- - user: None
- - tags: []
-
-## BrainFlow
- - [https://brainflow.org](https://brainflow.org)
- - date published: 2023-10-27T12:06:33.631461+00:00
- - user: None
- - tags: []
-
-## brandur.org — Brandur Leach
- - [https://brandur.org](https://brandur.org)
- - date published: 2023-10-27T12:06:34.276245+00:00
- - user: None
- - tags: []
-
-## Stig's Soapbox
- - [https://www.brautaset.org](https://www.brautaset.org)
- - date published: 2023-10-25T21:04:05.893123+00:00
- - user: None
- - tags: []
-
-## Breezy Version Control System
- - [https://www.breezy-vcs.org](https://www.breezy-vcs.org)
- - date published: 2023-11-25T17:14:27+00:00
- - user: None
- - tags: []
-
-## BAM Weblog
- - [https://brianmckenna.org](https://brianmckenna.org)
- - date published: 2023-10-25T21:04:15.068274+00:00
- - user: None
- - tags: []
-
-## Brian Smith
- - [https://briansmith.org](https://briansmith.org)
- - date published: 2023-10-25T09:23:52.621584+00:00
- - user: None
- - tags: ['personal']
-
-## Secure messaging, anywhere -  Briar
- - [https://briarproject.org](https://briarproject.org)
- - date published: 2023-10-25T21:04:17.659648+00:00
- - user: None
- - tags: []
-
-## Brilliant | Learn interactively
- - [https://brilliant.org](https://brilliant.org)
- - date published: 2023-10-24T20:19:39.194067+00:00
- - user: None
- - tags: ['tutorial']
 
