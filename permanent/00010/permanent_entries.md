@@ -1,3 +1,291 @@
+## Bernd Verst :: Tech Blog :: bernd.dev
+ - [https://bernd.dev](https://bernd.dev)
+ - date published: 2023-10-25T08:58:24.131675+00:00
+ - user: None
+ - tags: ['personal']
+
+## 🏠 | Viacheslav Biriukov
+ - [https://biriukov.dev](https://biriukov.dev)
+ - date published: 2023-10-25T18:35:35.222794+00:00
+ - user: None
+ - tags: []
+
+## Bite code! | Substack
+ - [https://www.bitecode.dev](https://www.bitecode.dev)
+ - date published: 2023-10-25T18:35:39.112584+00:00
+ - user: None
+ - tags: []
+
+## Adrian's Blog
+ - [https://blog.bithole.dev](https://blog.bithole.dev)
+ - date published: 2023-10-25T09:21:38.855563+00:00
+ - user: None
+ - tags: ['personal']
+
+## Brendan O'Leary
+ - [https://blog.boleary.dev](https://blog.boleary.dev)
+ - date published: 2023-10-25T08:48:25.484900+00:00
+ - user: None
+ - tags: ['personal']
+
+## Boot.dev Blog
+ - [https://blog.boot.dev](https://blog.boot.dev)
+ - date published: 2023-10-25T18:35:42.140501+00:00
+ - user: None
+ - tags: []
+
+## Bottlerocket
+ - [https://bottlerocket.dev](https://bottlerocket.dev)
+ - date published: 2023-10-25T08:31:56.153110+00:00
+ - user: None
+ - tags: []
+
+## Box of Cables
+ - [https://boxofcables.dev](https://boxofcables.dev)
+ - date published: 2023-10-25T18:35:44.718688+00:00
+ - user: None
+ - tags: []
+
+## Getting started
+ - [https://brev.dev](https://brev.dev)
+ - date published: 2023-10-25T18:35:47.063696+00:00
+ - user: None
+ - tags: []
+
+## Bulletproof PHP
+ - [https://bulletproofphp.dev](https://bulletproofphp.dev)
+ - date published: 2023-10-25T18:35:49.168688+00:00
+ - user: None
+ - tags: []
+
+## Kevin Burke | The golden age is before us, not behind us
+ - [https://kevin.burke.dev](https://kevin.burke.dev)
+ - date published: 2023-10-25T18:35:57.306361+00:00
+ - user: None
+ - tags: []
+
+## Apps SDK documentation - Canva Apps SDK Documentation
+ - [https://www.canva.dev](https://www.canva.dev)
+ - date published: 2023-10-25T18:35:59.119954+00:00
+ - user: None
+ - tags: []
+
+## Home | Gilles Castel
+ - [https://castel.dev](https://castel.dev)
+ - date published: 2023-10-25T18:36:01.301678+00:00
+ - user: None
+ - tags: []
+
+## cc.dev - Database-Driven Email Marketing
+ - [https://cc.dev](https://cc.dev)
+ - date published: 2023-10-25T18:36:03.249709+00:00
+ - user: None
+ - tags: []
+
+## Hello, I'm Cendyne
+ - [https://cendyne.dev](https://cendyne.dev)
+ - date published: 2023-10-25T18:36:04.595071+00:00
+ - user: None
+ - tags: []
+
+## Census Engineering
+ - [https://census.dev](https://census.dev)
+ - date published: 2023-10-25T18:36:08.128182+00:00
+ - user: None
+ - tags: []
+
+## chadxz.dev
+ - [https://chadxz.dev](https://chadxz.dev)
+ - date published: 2023-10-25T18:36:14.744551+00:00
+ - user: None
+ - tags: []
+
+## Chainguard: Fortified Software Delivery
+ - [https://www.chainguard.dev](https://www.chainguard.dev)
+ - date published: 2023-10-25T18:36:16.306141+00:00
+ - user: None
+ - tags: []
+
+## Chaos Engineering | Francisco Javier Arceo | Substack
+ - [https://www.chaos-engineering.dev](https://www.chaos-engineering.dev)
+ - date published: 2023-10-25T18:36:19.103017+00:00
+ - user: None
+ - tags: []
+
+## @chrlschn - Charles Chen
+ - [https://chrlschn.dev](https://chrlschn.dev)
+ - date published: 2023-10-25T18:36:20.354962+00:00
+ - user: None
+ - tags: []
+
+## cichocinski.dev
+ - [https://cichocinski.dev](https://cichocinski.dev)
+ - date published: 2023-10-25T18:36:21.479652+00:00
+ - user: None
+ - tags: []
+
+## Home - Caught in the Web
+ - [https://citw.dev](https://citw.dev)
+ - date published: 2023-10-25T18:36:22.127721+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Civet
+ - [https://civet.dev](https://civet.dev)
+ - date published: 2023-10-25T18:36:23.882958+00:00
+ - user: None
+ - tags: []
+
+## clairefro
+ - [https://clairefro.dev](https://clairefro.dev)
+ - date published: 2023-10-25T18:36:25.009918+00:00
+ - user: None
+ - tags: []
+
+## Cobalt
+ - [https://cobalt.dev](https://cobalt.dev)
+ - date published: 2023-10-25T18:36:32.246177+00:00
+ - user: None
+ - tags: []
+
+## AI-Powered Coding Tutorials | Codeamigo
+ - [https://codeamigo.dev](https://codeamigo.dev)
+ - date published: 2023-10-25T18:36:35.073084+00:00
+ - user: None
+ - tags: []
+
+## CodeLink
+ - [https://codelink.dev](https://codelink.dev)
+ - date published: 2023-10-25T18:36:35.450021+00:00
+ - user: None
+ - tags: []
+
+## Cohan Robinson
+ - [https://cohan.dev](https://cohan.dev)
+ - date published: 2023-11-17T12:48:41+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## Embeddable Common-Lisp
+ - [https://ecl.common-lisp.dev](https://ecl.common-lisp.dev)
+ - date published: 2023-10-25T18:36:36.899923+00:00
+ - user: None
+ - tags: []
+
+## Second Draft (in-progress) · Learn Lisp The Hard Way
+ - [https://llthw.common-lisp.dev](https://llthw.common-lisp.dev)
+ - date published: 2023-10-25T18:36:39.180021+00:00
+ - user: None
+ - tags: []
+
+## Confused bit
+ - [https://confusedbit.dev](https://confusedbit.dev)
+ - date published: 2023-10-25T18:36:44.738942+00:00
+ - user: None
+ - tags: []
+
+## Development containers
+ - [https://containers.dev](https://containers.dev)
+ - date published: 2023-10-25T18:36:46.250992+00:00
+ - user: None
+ - tags: []
+
+## Continue
+ - [https://continue.dev](https://continue.dev)
+ - date published: 2023-10-25T18:36:47.728031+00:00
+ - user: None
+ - tags: []
+
+## Stack: A collection of good ideas for developers building with Convex.
+ - [https://stack.convex.dev](https://stack.convex.dev)
+ - date published: 2023-10-25T18:36:52.175996+00:00
+ - user: None
+ - tags: []
+
+## Core Dumped
+ - [https://coredumped.dev](https://coredumped.dev)
+ - date published: 2023-10-25T18:36:55.902823+00:00
+ - user: None
+ - tags: []
+
+## Corrode Rust Consulting
+ - [https://corrode.dev](https://corrode.dev)
+ - date published: 2023-10-25T08:58:25.029322+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cory Dransfeldt
+ - [https://coryd.dev](https://coryd.dev)
+ - date published: 2023-10-25T18:37:02.718460+00:00
+ - user: None
+ - tags: []
+
+## Counter: Simple Web Analytics
+ - [https://counter.dev](https://counter.dev)
+ - date published: 2023-10-25T18:37:03.893973+00:00
+ - user: None
+ - tags: []
+
+## Christian Fei's Blog - cri.dev
+ - [https://cri.dev](https://cri.dev)
+ - date published: 2023-10-25T08:58:26.480635+00:00
+ - user: None
+ - tags: ['personal']
+
+## CubeSigner, a refreshingly secure key manager
+ - [https://cubist.dev](https://cubist.dev)
+ - date published: 2023-11-02T07:07:07+00:00
+ - user: None
+ - tags: []
+
+## Home | Cubxity — Full-stack Developer
+ - [https://cubxity.dev](https://cubxity.dev)
+ - date published: 2023-10-25T18:37:05.670677+00:00
+ - user: None
+ - tags: []
+
+## Cypress and Playwright Dashboard. Debug, deflake and analyse CI tests in Cloud.
+ - [https://currents.dev](https://currents.dev)
+ - date published: 2023-10-25T18:37:07.754644+00:00
+ - user: None
+ - tags: []
+
+## Cyber - Fast and concurrent scripting.
+ - [https://cyberscript.dev](https://cyberscript.dev)
+ - date published: 2023-10-25T18:37:09.369506+00:00
+ - user: None
+ - tags: []
+
+## dbdev | The Database Package Manager
+ - [https://database.dev](https://database.dev)
+ - date published: 2023-10-25T18:37:10.874218+00:00
+ - user: None
+ - tags: []
+
+## ~/.didev
+ - [https://davidisaksson.dev](https://davidisaksson.dev)
+ - date published: 2023-10-25T08:58:27.129547+00:00
+ - user: None
+ - tags: ['personal']
+
+## David Nguyen
+ - [https://davidnguyen.dev](https://davidnguyen.dev)
+ - date published: 2023-12-03T09:19:51.549979+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hi, I'm Den :wave:
+ - [https://den.dev](https://den.dev)
+ - date published: 2023-10-25T08:58:28.132514+00:00
+ - user: None
+ - tags: ['personal']
+
+## Writing | denvaar's Site
+ - [https://denvaar.dev](https://denvaar.dev)
+ - date published: 2023-11-16T09:28:41.834997+00:00
+ - user: None
+ - tags: []
+
 ## Depot
  - [https://depot.dev](https://depot.dev)
  - date published: 2023-10-25T18:37:13.920387+00:00
@@ -4550,6 +4838,12 @@
  - user: None
  - tags: []
 
+## Brussels Signal
+ - [https://brusselssignal.eu](https://brusselssignal.eu)
+ - date published: 2023-12-17T08:32:01.568295+00:00
+ - user: None
+ - tags: []
+
 ## Scribe
  - [https://scribe.citizen4.eu](https://scribe.citizen4.eu)
  - date published: 2023-10-25T19:09:08.180577+00:00
@@ -5717,300 +6011,6 @@
 ## Minimal Gallery – Website inspiration
  - [https://minimal.gallery](https://minimal.gallery)
  - date published: 2023-10-25T19:16:29.833681+00:00
- - user: None
- - tags: []
-
-## Nyx.gallery - AI-generated photography
- - [https://nyx.gallery](https://nyx.gallery)
- - date published: 2023-10-25T19:16:35.991453+00:00
- - user: None
- - tags: []
-
-## Baldur's Gate 3
- - [https://baldursgate3.game](https://baldursgate3.game)
- - date published: 2023-10-25T19:16:37.135932+00:00
- - user: None
- - tags: []
-
-## Nour: Play With Your Food
- - [https://food.game](https://food.game)
- - date published: 2023-10-25T19:16:38.689460+00:00
- - user: None
- - tags: []
-
-## GuessTheGame - Your daily video game guessing puzzle!
- - [https://guessthe.game](https://guessthe.game)
- - date published: 2023-10-25T19:16:39.291433+00:00
- - user: None
- - tags: []
-
-## games
- - [https://eieio.games](https://eieio.games)
- - date published: 2023-10-25T08:49:11.104677+00:00
- - user: None
- - tags: ['personal']
-
-## Imperial Games
- - [https://imperial.games](https://imperial.games)
- - date published: 2023-10-27T08:01:51.543359+00:00
- - user: None
- - tags: []
-
-## IPv4 Turf War
- - [https://ipv4.games](https://ipv4.games)
- - date published: 2023-10-25T19:16:40.305776+00:00
- - user: None
- - tags: []
-
-## #OpenDND
- - [https://www.opendnd.games](https://www.opendnd.games)
- - date published: 2023-10-25T19:16:41.427149+00:00
- - user: None
- - tags: []
-
-## Pixel Puzzler
- - [https://pixel-puzzler.playcurious.games](https://pixel-puzzler.playcurious.games)
- - date published: 2023-10-25T19:16:41.899108+00:00
- - user: None
- - tags: []
-
-## YakTribe.games
- - [https://yaktribe.games](https://yaktribe.games)
- - date published: 2023-10-27T07:29:19.720075+00:00
- - user: None
- - tags: ['games workshop', 'tabletop games', 'necromunda']
-
-## Fractal Garden
- - [https://www.fractal.garden](https://www.fractal.garden)
- - date published: 2023-10-25T19:16:43.401736+00:00
- - user: None
- - tags: []
-
-## Leadership Garden - Your guide to engineering leadership
- - [https://leadership.garden](https://leadership.garden)
- - date published: 2023-10-25T19:16:55.097666+00:00
- - user: None
- - tags: []
-
-## alex miller's garden
- - [https://alex.miller.garden](https://alex.miller.garden)
- - date published: 2023-10-25T19:16:58.101095+00:00
- - user: None
- - tags: []
-
-## arbitrary woodland head part investigation
- - [https://this.alicorn.gay](https://this.alicorn.gay)
- - date published: 2023-10-25T19:17:04.082582+00:00
- - user: None
- - tags: []
-
-## maia :3
- - [https://maia.crimew.gay](https://maia.crimew.gay)
- - date published: 2023-10-25T19:17:04.913484+00:00
- - user: None
- - tags: []
-
-## სიტროენის ოფიციალური გვერდი:ახალი ავტომობილები საქართველოში.
- - [https://www.citroen.com.ge](https://www.citroen.com.ge)
- - date published: 2023-12-11T16:01:58.871903+00:00
- - user: None
- - tags: []
-
-## Applied Language
- - [https://applied-langua.ge](https://applied-langua.ge)
- - date published: 2023-10-25T19:17:05.596293+00:00
- - user: None
- - tags: []
-
-## Civil Georgia
- - [https://civil.ge](https://civil.ge)
- - date published: 2023-11-06T23:14:45.688164+00:00
- - user: None
- - tags: []
-
-## Welcome to WLED - WLED Project
- - [https://kno.wled.ge](https://kno.wled.ge)
- - date published: 2023-10-25T19:17:08.470342+00:00
- - user: None
- - tags: []
-
-## Citroën Guyane : Vente et achat de voitures neuves
- - [https://www.citroen.gf](https://www.citroen.gf)
- - date published: 2023-12-11T15:49:41.790122+00:00
- - user: None
- - tags: []
-
-## World of Warcraft Blue Posts - Blue Tracker
- - [https://www.bluetracker.gg](https://www.bluetracker.gg)
- - date published: 2023-12-13T16:18:50.188152+00:00
- - user: None
- - tags: []
-
-## Hey! I'm Carol.
- - [https://carol.gg](https://carol.gg)
- - date published: 2023-10-25T19:17:09.379295+00:00
- - user: None
- - tags: []
-
-## ChatHub - All-in-one chatbot client
- - [https://chathub.gg](https://chathub.gg)
- - date published: 2023-10-25T19:17:10.575904+00:00
- - user: None
- - tags: []
-
-## Death by AI – a free Jackbox style party game. AI judges your plans to survive
- - [https://deathbyai.gg](https://deathbyai.gg)
- - date published: 2023-11-18T12:40:19+00:00
- - user: None
- - tags: []
-
-## Discord | Your Place to Talk and Hang Out
- - [https://discord.gg](https://discord.gg)
- - date published: 2023-10-31T15:38:01.261329+00:00
- - user: None
- - tags: ['discord']
-
-## EIP Gaming - Video Game Walkthroughs, News, & Reviews
- - [https://eip.gg](https://eip.gg)
- - date published: 2023-12-13T16:15:56.959477+00:00
- - user: None
- - tags: []
-
-## Explain Like I'm 5 - AI assisted ELI5
- - [https://eli5.gg](https://eli5.gg)
- - date published: 2023-10-25T19:17:12.083486+00:00
- - user: None
- - tags: []
-
-## Gen.G Esports
- - [https://geng.gg](https://geng.gg)
- - date published: 2023-11-03T12:50:54.357347+00:00
- - user: None
- - tags: []
-
-## Lexicon Gaming - Gaming Network
- - [https://lexicon.gg](https://lexicon.gg)
- - date published: 2023-12-13T16:17:28.599712+00:00
- - user: None
- - tags: []
-
-## Maxroll
- - [https://maxroll.gg](https://maxroll.gg)
- - date published: 2023-12-13T16:18:25.175632+00:00
- - user: None
- - tags: []
-
-## NRG Esports | Home
- - [https://www.nrg.gg](https://www.nrg.gg)
- - date published: 2023-11-02T10:40:58.258689+00:00
- - user: None
- - tags: []
-
-## Find and Share the Best Warframe Builds - Overframe
- - [https://overframe.gg](https://overframe.gg)
- - date published: 2023-12-13T16:20:00.589994+00:00
- - user: None
- - tags: []
-
-## Riot Games Official News, Patch Notes & More - RiotWatch
- - [https://riotwatch.gg](https://riotwatch.gg)
- - date published: 2023-12-13T16:15:50.241910+00:00
- - user: None
- - tags: []
-
-## Show HN: Scorecard.gg – minimalist scoring tool for your favorite board games
- - [https://scorecard.gg](https://scorecard.gg)
- - date published: 2023-11-07T14:33:53+00:00
- - user: None
- - tags: []
-
-## Sunny Golovine
- - [https://sunny.gg](https://sunny.gg)
- - date published: 2023-10-25T19:17:12.779363+00:00
- - user: None
- - tags: []
-
-## T1
- - [https://t1.gg](https://t1.gg)
- - date published: 2023-11-19T11:19:04.284643+00:00
- - user: None
- - tags: []
-
-## Home - TGS Esports
- - [https://www.tgsesports.gg](https://www.tgsesports.gg)
- - date published: 2023-10-25T11:26:26.268549+00:00
- - user: None
- - tags: []
-
-## Waku website
- - [https://waku.gg](https://waku.gg)
- - date published: 2023-10-25T19:17:13.554606+00:00
- - user: None
- - tags: []
-
-## WIN.gg - Your competitive edge in gaming and esports
- - [https://win.gg](https://win.gg)
- - date published: 2023-10-25T19:17:15.045264+00:00
- - user: None
- - tags: []
-
-## Invalid Dynamic Link
- - [https://forms.gle](https://forms.gle)
- - date published: 2023-12-05T02:33:59.537781+00:00
- - user: None
- - tags: []
-
-## Homepage | Toyota Research Institute
- - [https://www.tri.global](https://www.tri.global)
- - date published: 2023-10-25T19:17:16.769072+00:00
- - user: None
- - tags: []
-
-## Google Translate
- - [https://www-bild-de.translate.goog](https://www-bild-de.translate.goog)
- - date published: 2023-11-06T18:03:15.833718+00:00
- - user: None
- - tags: []
-
-## Google Translate
- - [https://www-heise-de.translate.goog](https://www-heise-de.translate.goog)
- - date published: 2023-11-10T07:08:49.465512+00:00
- - user: None
- - tags: []
-
-## Google - Informacje
- - [https://about.google](https://about.google)
- - date published: 2023-10-25T19:17:18.468849+00:00
- - user: None
- - tags: []
-
-## Google AI
- - [https://ai.google](https://ai.google)
- - date published: 2023-10-25T19:17:19.726037+00:00
- - user: None
- - tags: []
-
-## The Keyword | Google Product and Technology News and Stories
- - [https://blog.google](https://blog.google)
- - date published: 2023-10-25T11:29:32.894232+00:00
- - user: None
- - tags: []
-
-## Google Cloud Skills Boost
- - [https://www.cloudskillsboost.google](https://www.cloudskillsboost.google)
- - date published: 2023-10-25T19:17:22.518995+00:00
- - user: None
- - tags: []
-
-## Google DeepMind
- - [https://deepmind.google](https://deepmind.google)
- - date published: 2023-11-14T16:38:56.541975+00:00
- - user: None
- - tags: ['artificial intelligence']
-
-## Google Domains | Official Site – Google Domains
- - [https://domains.google](https://domains.google)
- - date published: 2023-10-25T19:17:33.780895+00:00
  - user: None
  - tags: []
 

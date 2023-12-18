@@ -1,3 +1,87 @@
+## Project Zero
+ - [https://googleprojectzero.blogspot.com](https://googleprojectzero.blogspot.com)
+ - date published: 2023-10-25T09:08:43.856862+00:00
+ - user: None
+ - tags: ['personal']
+
+## HaggardHawks
+ - [https://haggardhawksblog.blogspot.com](https://haggardhawksblog.blogspot.com)
+ - date published: 2023-10-25T09:08:48.506429+00:00
+ - user: None
+ - tags: ['personal']
+
+## Harman How to Listen
+ - [https://harmanhowtolisten.blogspot.com](https://harmanhowtolisten.blogspot.com)
+ - date published: 2023-10-25T09:08:50.306562+00:00
+ - user: None
+ - tags: ['personal']
+
+## Heron's Perch
+ - [https://heronsperch.blogspot.com](https://heronsperch.blogspot.com)
+ - date published: 2023-10-25T09:08:53.609378+00:00
+ - user: None
+ - tags: ['personal']
+
+## Information Processing
+ - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
+ - date published: 2023-10-25T09:09:06.318517+00:00
+ - user: None
+ - tags: ['personal']
+
+## Development of the trilogy & IV
+ - [https://insiderockstarnorth.blogspot.com](https://insiderockstarnorth.blogspot.com)
+ - date published: 2023-11-21T23:34:01.400243+00:00
+ - user: None
+ - tags: []
+
+## Jan's Tech Talk
+ - [https://janstechtalk.blogspot.com](https://janstechtalk.blogspot.com)
+ - date published: 2023-10-25T08:45:14.097788+00:00
+ - user: None
+ - tags: ['personal']
+
+## JazzProfiles
+ - [https://jazzprofiles.blogspot.com](https://jazzprofiles.blogspot.com)
+ - date published: 2023-10-25T09:09:09.036174+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Grumpy Economist
+ - [https://johnhcochrane.blogspot.com](https://johnhcochrane.blogspot.com)
+ - date published: 2023-10-25T09:09:15.482686+00:00
+ - user: None
+ - tags: ['personal']
+
+## Moneyness
+ - [https://jpkoning.blogspot.com](https://jpkoning.blogspot.com)
+ - date published: 2023-10-25T09:09:24.984611+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kiwi Hellenist
+ - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
+ - date published: 2023-11-28T20:46:36.488371+00:00
+ - user: None
+ - tags: []
+
+## Koodihommia
+ - [https://koodihommia.blogspot.com](https://koodihommia.blogspot.com)
+ - date published: 2023-10-25T09:09:28.527989+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kuro Time Design
+ - [https://kurotimedesign.blogspot.com](https://kurotimedesign.blogspot.com)
+ - date published: 2023-10-25T09:09:31.726360+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Legasov Tapes
+ - [https://legasovtapetranslation.blogspot.com](https://legasovtapetranslation.blogspot.com)
+ - date published: 2023-10-25T09:09:33.364290+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Litherum
  - [https://litherum.blogspot.com](https://litherum.blogspot.com)
  - date published: 2023-10-25T13:05:24.030253+00:00
@@ -345,6 +429,12 @@
  - date published: 2023-10-25T14:22:08.604831+00:00
  - user: None
  - tags: []
+
+## Get Life Advice From the World's Best Books | Bloomsoup
+ - [https://bloomsoup.com](https://bloomsoup.com)
+ - date published: 2023-12-17T20:58:24.571252+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Unavailable for legal reasons
  - [https://bloxcms.com](https://bloxcms.com)
@@ -2176,6 +2266,12 @@
  - user: None
  - tags: ['personal']
 
+## Charlie Chaplin : Official Website
+ - [https://www.charliechaplin.com](https://www.charliechaplin.com)
+ - date published: 2023-12-17T16:43:05.369405+00:00
+ - user: None
+ - tags: []
+
 ## Charlie Harrington
  - [https://charlieharrington.com](https://charlieharrington.com)
  - date published: 2023-10-25T09:19:41.271593+00:00
@@ -3609,6 +3705,12 @@
  - user: None
  - tags: ['personal']
 
+## Show HN: I have created a free text-to-image website that supports SDXL Turbo
+ - [https://comfyuiweb.com](https://comfyuiweb.com)
+ - date published: 2023-12-17T13:02:48+00:00
+ - user: None
+ - tags: []
+
 ## ComicBook.com
  - [https://comicbook.com](https://comicbook.com)
  - date published: 2023-10-25T10:54:03.453020+00:00
@@ -3926,6 +4028,12 @@
  - date published: 2023-10-25T13:33:33.485982+00:00
  - user: None
  - tags: []
+
+## Corbin Brands
+ - [https://www.corbinbrands.com](https://www.corbinbrands.com)
+ - date published: 2023-12-17T20:58:04.601039+00:00
+ - user: None
+ - tags: ['personal']
 
 ## | Cord Cutters News
  - [https://cordcuttersnews.com](https://cordcuttersnews.com)
@@ -5794,6 +5902,12 @@
  - user: None
  - tags: []
 
+## Show HN: Made a forum for depressed founders to confide
+ - [https://www.depressedfounders.com](https://www.depressedfounders.com)
+ - date published: 2023-12-17T06:21:25+00:00
+ - user: None
+ - tags: []
+
 ## Derek Goodwin Photography | Headshot & Branding Photographer
  - [https://www.derekpashupagoodwin.com](https://www.derekpashupagoodwin.com)
  - date published: 2023-11-29T17:08:37.949199+00:00
@@ -5893,120 +6007,6 @@
 ## Developer Tech News | Latest App Developer News & Insights
  - [https://www.developer-tech.com](https://www.developer-tech.com)
  - date published: 2023-10-25T10:13:59.122086+00:00
- - user: None
- - tags: []
-
-## Home | Developer Pitstop
- - [https://developerpitstop.com](https://developerpitstop.com)
- - date published: 2023-10-25T13:50:57.547624+00:00
- - user: None
- - tags: []
-
-## Development Friendly – Coding and web development advice for all.
- - [https://developmentfriendly.com](https://developmentfriendly.com)
- - date published: 2023-10-25T13:51:00.761063+00:00
- - user: None
- - tags: []
-
-## devex.com
- - [https://www.devex.com](https://www.devex.com)
- - date published: 2023-10-25T13:51:02.062974+00:00
- - user: None
- - tags: []
-
-## DeviantArt - The Largest Online Art Gallery and Community
- - [https://www.deviantart.com](https://www.deviantart.com)
- - date published: 2023-10-25T11:19:55.257967+00:00
- - user: None
- - tags: []
-
-## デヴィエーションゲーム
- - [https://deviationgame.com](https://deviationgame.com)
- - date published: 2023-10-25T13:51:04.144622+00:00
- - user: None
- - tags: []
-
-## /dev/nonsense
- - [https://devnonsense.com](https://devnonsense.com)
- - date published: 2023-10-25T13:51:05.256311+00:00
- - user: None
- - tags: []
-
-## devonzuegel.com
- - [https://devonzuegel.com](https://devonzuegel.com)
- - date published: 2023-10-25T13:51:08.835756+00:00
- - user: None
- - tags: []
-
-## DevOps - The Web's Largest Collection of DevOps Content
- - [https://devops.com](https://devops.com)
- - date published: 2023-10-25T09:32:41.467092+00:00
- - user: None
- - tags: []
-
-## Devtalk - Dev forum at Devtalk - the forum for developers!
- - [https://forum.devtalk.com](https://forum.devtalk.com)
- - date published: 2023-10-25T13:51:13.186555+00:00
- - user: None
- - tags: []
-
-## Dewan's Blog
- - [https://www.dewanahmed.com](https://www.dewanahmed.com)
- - date published: 2023-10-25T09:20:04.902852+00:00
- - user: None
- - tags: ['personal']
-
-## Dexerto: Esports, Gaming & Influencer News, Interviews and Analysis
- - [https://www.dexerto.com](https://www.dexerto.com)
- - date published: 2023-10-25T10:47:44.289737+00:00
- - user: None
- - tags: []
-
-## Dezeen | architecture and design magazine
- - [https://www.dezeen.com](https://www.dezeen.com)
- - date published: 2023-10-25T13:51:22.239944+00:00
- - user: None
- - tags: []
-
-## Diablo III
- - [https://eu.diablo3.com](https://eu.diablo3.com)
- - date published: 2023-12-13T16:05:43.392323+00:00
- - user: None
- - tags: []
-
-## Diablo 3 Gem Calculator
- - [https://www.diablo3gemcalculator.com](https://www.diablo3gemcalculator.com)
- - date published: 2023-12-13T16:24:42.861001+00:00
- - user: None
- - tags: []
-
-## DiabloFans
- - [https://diablofans.com](https://diablofans.com)
- - date published: 2023-12-13T16:24:32.064227+00:00
- - user: None
- - tags: []
-
-## DiabloFans
- - [https://www.diablofans.com](https://www.diablofans.com)
- - date published: 2023-10-25T11:33:40.789530+00:00
- - user: None
- - tags: []
-
-## DiabloNext
- - [https://www.diablonext.com](https://www.diablonext.com)
- - date published: 2023-12-13T16:15:25.367889+00:00
- - user: None
- - tags: []
-
-## Greater Rift Solo ::  DiabloProgress - Diablo 3 Rankings
- - [https://www.diabloprogress.com](https://www.diabloprogress.com)
- - date published: 2023-12-13T16:22:21.729613+00:00
- - user: None
- - tags: []
-
-## Diablo Tavern - Diablo Guides & Tools
- - [https://diablotavern.com](https://diablotavern.com)
- - date published: 2023-10-25T11:08:39.992217+00:00
  - user: None
  - tags: []
 

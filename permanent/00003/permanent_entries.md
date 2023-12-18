@@ -1,3 +1,117 @@
+## Home | Developer Pitstop
+ - [https://developerpitstop.com](https://developerpitstop.com)
+ - date published: 2023-10-25T13:50:57.547624+00:00
+ - user: None
+ - tags: []
+
+## Development Friendly – Coding and web development advice for all.
+ - [https://developmentfriendly.com](https://developmentfriendly.com)
+ - date published: 2023-10-25T13:51:00.761063+00:00
+ - user: None
+ - tags: []
+
+## devex.com
+ - [https://www.devex.com](https://www.devex.com)
+ - date published: 2023-10-25T13:51:02.062974+00:00
+ - user: None
+ - tags: []
+
+## DeviantArt - The Largest Online Art Gallery and Community
+ - [https://www.deviantart.com](https://www.deviantart.com)
+ - date published: 2023-10-25T11:19:55.257967+00:00
+ - user: None
+ - tags: []
+
+## デヴィエーションゲーム
+ - [https://deviationgame.com](https://deviationgame.com)
+ - date published: 2023-10-25T13:51:04.144622+00:00
+ - user: None
+ - tags: []
+
+## /dev/nonsense
+ - [https://devnonsense.com](https://devnonsense.com)
+ - date published: 2023-10-25T13:51:05.256311+00:00
+ - user: None
+ - tags: []
+
+## devonzuegel.com
+ - [https://devonzuegel.com](https://devonzuegel.com)
+ - date published: 2023-10-25T13:51:08.835756+00:00
+ - user: None
+ - tags: []
+
+## DevOps - The Web's Largest Collection of DevOps Content
+ - [https://devops.com](https://devops.com)
+ - date published: 2023-10-25T09:32:41.467092+00:00
+ - user: None
+ - tags: []
+
+## Devtalk - Dev forum at Devtalk - the forum for developers!
+ - [https://forum.devtalk.com](https://forum.devtalk.com)
+ - date published: 2023-10-25T13:51:13.186555+00:00
+ - user: None
+ - tags: []
+
+## Dewan's Blog
+ - [https://www.dewanahmed.com](https://www.dewanahmed.com)
+ - date published: 2023-10-25T09:20:04.902852+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dexerto: Esports, Gaming & Influencer News, Interviews and Analysis
+ - [https://www.dexerto.com](https://www.dexerto.com)
+ - date published: 2023-10-25T10:47:44.289737+00:00
+ - user: None
+ - tags: []
+
+## Dezeen | architecture and design magazine
+ - [https://www.dezeen.com](https://www.dezeen.com)
+ - date published: 2023-10-25T13:51:22.239944+00:00
+ - user: None
+ - tags: []
+
+## Diablo III
+ - [https://eu.diablo3.com](https://eu.diablo3.com)
+ - date published: 2023-12-13T16:05:43.392323+00:00
+ - user: None
+ - tags: []
+
+## Diablo 3 Gem Calculator
+ - [https://www.diablo3gemcalculator.com](https://www.diablo3gemcalculator.com)
+ - date published: 2023-12-13T16:24:42.861001+00:00
+ - user: None
+ - tags: []
+
+## DiabloFans
+ - [https://diablofans.com](https://diablofans.com)
+ - date published: 2023-12-13T16:24:32.064227+00:00
+ - user: None
+ - tags: []
+
+## DiabloFans
+ - [https://www.diablofans.com](https://www.diablofans.com)
+ - date published: 2023-10-25T11:33:40.789530+00:00
+ - user: None
+ - tags: []
+
+## DiabloNext
+ - [https://www.diablonext.com](https://www.diablonext.com)
+ - date published: 2023-12-13T16:15:25.367889+00:00
+ - user: None
+ - tags: []
+
+## Greater Rift Solo ::  DiabloProgress - Diablo 3 Rankings
+ - [https://www.diabloprogress.com](https://www.diabloprogress.com)
+ - date published: 2023-12-13T16:22:21.729613+00:00
+ - user: None
+ - tags: []
+
+## Diablo Tavern - Diablo Guides & Tools
+ - [https://diablotavern.com](https://diablotavern.com)
+ - date published: 2023-10-25T11:08:39.992217+00:00
+ - user: None
+ - tags: []
+
 ## Diamonds Suck
  - [https://diamondssuck.com](https://diamondssuck.com)
  - date published: 2023-11-13T05:32:47+00:00
@@ -1619,6 +1733,12 @@
  - user: None
  - tags: []
 
+## Elliot
+ - [https://elliotali.com](https://elliotali.com)
+ - date published: 2023-12-17T16:42:36.008370+00:00
+ - user: None
+ - tags: ['personal']
+
 ## elliotec
  - [https://elliotec.com](https://elliotec.com)
  - date published: 2023-12-09T10:39:22.766801+00:00
@@ -2153,6 +2273,12 @@
  - user: None
  - tags: []
 
+## Escape Adulthood. Your life. Now with less stress and more fun.
+ - [https://escapeadulthood.com](https://escapeadulthood.com)
+ - date published: 2023-12-17T16:42:33.638893+00:00
+ - user: None
+ - tags: ['personal']
+
 ## The Escapist
  - [https://www.escapistmagazine.com](https://www.escapistmagazine.com)
  - date published: 2023-10-25T10:47:48.734347+00:00
@@ -2236,6 +2362,12 @@
  - date published: 2023-10-25T10:37:26.564767+00:00
  - user: None
  - tags: []
+
+## Pivot or Persevere ·
+ - [https://etagwerker.com](https://etagwerker.com)
+ - date published: 2023-12-17T21:00:05.569423+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Ethan Heilman
  - [https://www.ethanheilman.com](https://www.ethanheilman.com)
@@ -2480,6 +2612,12 @@
 ## Evidently AI - Open-Source ML Monitoring and Observability
  - [https://www.evidentlyai.com](https://www.evidentlyai.com)
  - date published: 2023-12-04T18:56:13.489060+00:00
+ - user: None
+ - tags: []
+
+## The Tree of Life: We are related to every living thing!
+ - [https://www.evogeneao.com](https://www.evogeneao.com)
+ - date published: 2023-12-17T22:43:20.919996+00:00
  - user: None
  - tags: []
 
@@ -5862,142 +6000,4 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-12-13T14:58:49.890684+00:00
  - user: None
  - tags: ['search engine']
-
-## Google for Developers - from AI and Cloud to Mobile and Web
- - [https://developers.google.com](https://developers.google.com)
- - date published: 2023-12-11T19:07:49.858032+00:00
- - user: None
- - tags: []
-
-## Sign in - Google Accounts
- - [https://docs.google.com](https://docs.google.com)
- - date published: 2023-10-25T11:31:05.811351+00:00
- - user: None
- - tags: []
-
-## Personal Cloud Storage & File Sharing Platform - Google
- - [https://drive.google.com](https://drive.google.com)
- - date published: 2023-10-25T08:25:55.109146+00:00
- - user: None
- - tags: ['cloud drive']
-
-## Browse Fonts - Google Fonts
- - [https://fonts.google.com](https://fonts.google.com)
- - date published: 2023-10-25T11:31:06.266545+00:00
- - user: None
- - tags: []
-
-## Sign in - Google Accounts
- - [https://groups.google.com](https://groups.google.com)
- - date published: 2023-10-25T11:31:08.141313+00:00
- - user: None
- - tags: []
-
-## Google Issue Tracker
- - [https://issuetracker.google.com](https://issuetracker.google.com)
- - date published: 2023-10-25T11:31:09.582088+00:00
- - user: None
- - tags: []
-
-## Zanim przejdziesz do Map Google
- - [https://maps.google.com](https://maps.google.com)
- - date published: 2023-10-25T08:24:45.052104+00:00
- - user: None
- - tags: ['gatekeeper', 'map']
-
-## Google Patents
- - [https://patents.google.com](https://patents.google.com)
- - date published: 2023-10-25T11:31:10.094604+00:00
- - user: None
- - tags: []
-
-## Android Apps on Google Play
- - [https://play.google.com](https://play.google.com)
- - date published: 2023-10-24T20:11:54.898633+00:00
- - user: None
- - tags: ['app store', 'gatekeeper']
-
-## New community features for Google Chat and an update on Currents
- - [https://plus.google.com](https://plus.google.com)
- - date published: 2023-12-11T19:33:32.723745+00:00
- - user: None
- - tags: []
-
-## Google Podcasts
- - [https://podcasts.google.com](https://podcasts.google.com)
- - date published: 2023-10-25T11:31:17.486510+00:00
- - user: None
- - tags: []
-
-## Google Scholar
- - [https://scholar.google.com](https://scholar.google.com)
- - date published: 2023-10-25T11:31:18.931237+00:00
- - user: None
- - tags: []
-
-## Google
- - [https://search.google.com](https://search.google.com)
- - date published: 2023-12-06T08:08:53+00:00
- - user: rumpel
- - tags: ['search engine', 'google']
-
-## Google Sites: Sign-in
- - [https://sites.google.com](https://sites.google.com)
- - date published: 2023-10-25T11:31:20.231134+00:00
- - user: None
- - tags: []
-
-## Stadia
- - [https://stadia.google.com](https://stadia.google.com)
- - date published: 2023-10-25T11:31:25.844268+00:00
- - user: None
- - tags: ['abandonware']
-
-## Google Cloud Service Health
- - [https://status.cloud.google.com](https://status.cloud.google.com)
- - date published: 2023-10-25T11:31:27.950150+00:00
- - user: None
- - tags: []
-
-## Google Help
- - [https://support.google.com](https://support.google.com)
- - date published: 2023-10-25T11:31:32.624882+00:00
- - user: None
- - tags: []
-
-## Google Chrome - The Fast & Secure Web Browser Built to be Yours
- - [https://tools.google.com](https://tools.google.com)
- - date published: 2023-10-25T11:30:29.194219+00:00
- - user: None
- - tags: []
-
-## Google Translate
- - [https://translate.google.com](https://translate.google.com)
- - date published: 2023-10-25T09:27:58+00:00
- - user: rumpel
- - tags: ['dictionary', 'translate']
-
-## Google Transparency Report
- - [https://transparencyreport.google.com](https://transparencyreport.google.com)
- - date published: 2023-10-25T11:31:33.783605+00:00
- - user: None
- - tags: []
-
-## Aplikacje biznesowe i narzędzia do współpracy | Google Workspace
- - [https://workspace.google.com](https://workspace.google.com)
- - date published: 2023-10-25T11:31:36.960984+00:00
- - user: None
- - tags: []
-
-## Google
- - [https://www.google.com](https://www.google.com)
- - date published: 2023-10-25T08:28:06.744876+00:00
- - user: None
- - tags: ['search engine', 'gatekeeper']
-
-## Hosted Libraries  |  Google for Developers
- - [https://ajax.googleapis.com](https://ajax.googleapis.com)
- - date published: 2023-12-11T16:52:24.286615+00:00
- - user: None
- - tags: []
 

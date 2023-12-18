@@ -1,3 +1,21 @@
+## Prequel - Data syncs & data warehouse integration
+ - [https://www.prequel.co](https://www.prequel.co)
+ - date published: 2023-10-25T12:21:28.432769+00:00
+ - user: None
+ - tags: []
+
+## Privatdozent | Jørgen Veisdal | Substack
+ - [https://www.privatdozent.co](https://www.privatdozent.co)
+ - date published: 2023-10-25T12:21:33.037801+00:00
+ - user: None
+ - tags: []
+
+## PropBox
+ - [https://propbox.co](https://propbox.co)
+ - date published: 2023-10-25T12:21:42.593362+00:00
+ - user: None
+ - tags: []
+
 ## Prospective
  - [https://prospective.co](https://prospective.co)
  - date published: 2023-11-01T17:24:22.525282+00:00
@@ -292,6 +310,12 @@
  - user: None
  - tags: ['personal']
 
+## Welcome!
+ - [https://alvin.codes](https://alvin.codes)
+ - date published: 2023-12-17T05:07:17.833775+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Bas codes
  - [https://bas.codes](https://bas.codes)
  - date published: 2023-10-25T08:43:47.558616+00:00
@@ -343,6 +367,12 @@
 ## Day by Day - Rory Flint
  - [https://days.rory.codes](https://days.rory.codes)
  - date published: 2023-10-25T09:03:59.903891+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://rory.codes](https://rory.codes)
+ - date published: 2023-12-17T16:41:47.575823+00:00
  - user: None
  - tags: ['personal']
 
@@ -409,6 +439,12 @@
 ## 1000 Hours Outside
  - [https://www.1000hoursoutside.com](https://www.1000hoursoutside.com)
  - date published: 2023-10-25T12:26:07.116547+00:00
+ - user: None
+ - tags: []
+
+## 1000-Word Philosophy: An Introductory Anthology
+ - [https://1000wordphilosophy.com](https://1000wordphilosophy.com)
+ - date published: 2023-12-17T08:51:58.905116+00:00
  - user: None
  - tags: []
 
@@ -808,6 +844,12 @@
  - user: None
  - tags: ['personal']
 
+## Coming Soon
+ - [https://aaronshbeeb.com](https://aaronshbeeb.com)
+ - date published: 2023-12-17T20:59:02.532105+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Homepage - Aaron J. Trumm - Aaron J. Trumm
  - [https://aarontrumm.com](https://aarontrumm.com)
  - date published: 2023-12-03T15:54:51.693526+00:00
@@ -955,6 +997,12 @@
 ## Home - Robinhood Newsroom
  - [https://newsroom.aboutrobinhood.com](https://newsroom.aboutrobinhood.com)
  - date published: 2023-12-07T07:03:06.977633+00:00
+ - user: None
+ - tags: []
+
+## Above the Law
+ - [https://abovethelaw.com](https://abovethelaw.com)
+ - date published: 2023-12-17T00:32:53.508838+00:00
  - user: None
  - tags: []
 
@@ -2212,6 +2260,12 @@
  - user: None
  - tags: []
 
+## AMD Community | AMD
+ - [https://community.amd.com](https://community.amd.com)
+ - date published: 2023-12-17T03:51:49.088492+00:00
+ - user: None
+ - tags: []
+
 ## Investor Relations :: Advanced Micro Devices, Inc. (AMD)
  - [https://ir.amd.com](https://ir.amd.com)
  - date published: 2023-10-25T12:39:55.612499+00:00
@@ -3376,6 +3430,12 @@
  - user: None
  - tags: []
 
+## Army of Minions | James Gifford
+ - [https://armyofminions.com](https://armyofminions.com)
+ - date published: 2023-12-17T05:08:14.377241+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Defense News security global military army equipment technology industry - Army Recognition
  - [https://www.armyrecognition.com](https://www.armyrecognition.com)
  - date published: 2023-11-27T11:43:24.470297+00:00
@@ -3862,6 +3922,12 @@
  - user: None
  - tags: []
 
+## https://augmentingcognition.com
+ - [https://augmentingcognition.com](https://augmentingcognition.com)
+ - date published: 2023-12-17T03:31:46.186900+00:00
+ - user: None
+ - tags: []
+
 ## AURORA
  - [https://www.aurora-music.com](https://www.aurora-music.com)
  - date published: 2023-11-13T09:45:36.627181+00:00
@@ -4261,6 +4327,12 @@
 ## BadCyber – Making infosec journalism great again!
  - [https://badcyber.com](https://badcyber.com)
  - date published: 2023-12-08T12:56:36.031332+00:00
+ - user: None
+ - tags: []
+
+## Science fiction comics | Bad Space
+ - [https://www.badspacecomics.com](https://www.badspacecomics.com)
+ - date published: 2023-12-17T04:31:50.598383+00:00
  - user: None
  - tags: []
 
@@ -5092,6 +5164,12 @@
  - user: None
  - tags: []
 
+## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
+ - [https://billingsgazette.com](https://billingsgazette.com)
+ - date published: 2023-12-17T18:30:53.119094+00:00
+ - user: None
+ - tags: []
+
 ## Bill Prin - Software engineer and entrepeneur
  - [https://billprin.com](https://billprin.com)
  - date published: 2023-10-25T13:00:05.453671+00:00
@@ -5650,6 +5728,12 @@
  - user: None
  - tags: []
 
+## Blog of Drew
+ - [https://blogofdrew.com](https://blogofdrew.com)
+ - date published: 2023-12-17T05:08:07.684561+00:00
+ - user: None
+ - tags: ['personal']
+
 ## https://nwn.blogs.com
  - [https://nwn.blogs.com](https://nwn.blogs.com)
  - date published: 2023-10-25T13:05:03.461241+00:00
@@ -5913,88 +5997,4 @@
  - date published: 2023-10-25T11:32:26.628290+00:00
  - user: None
  - tags: []
-
-## Project Zero
- - [https://googleprojectzero.blogspot.com](https://googleprojectzero.blogspot.com)
- - date published: 2023-10-25T09:08:43.856862+00:00
- - user: None
- - tags: ['personal']
-
-## HaggardHawks
- - [https://haggardhawksblog.blogspot.com](https://haggardhawksblog.blogspot.com)
- - date published: 2023-10-25T09:08:48.506429+00:00
- - user: None
- - tags: ['personal']
-
-## Harman How to Listen
- - [https://harmanhowtolisten.blogspot.com](https://harmanhowtolisten.blogspot.com)
- - date published: 2023-10-25T09:08:50.306562+00:00
- - user: None
- - tags: ['personal']
-
-## Heron's Perch
- - [https://heronsperch.blogspot.com](https://heronsperch.blogspot.com)
- - date published: 2023-10-25T09:08:53.609378+00:00
- - user: None
- - tags: ['personal']
-
-## Information Processing
- - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
- - date published: 2023-10-25T09:09:06.318517+00:00
- - user: None
- - tags: ['personal']
-
-## Development of the trilogy & IV
- - [https://insiderockstarnorth.blogspot.com](https://insiderockstarnorth.blogspot.com)
- - date published: 2023-11-21T23:34:01.400243+00:00
- - user: None
- - tags: []
-
-## Jan's Tech Talk
- - [https://janstechtalk.blogspot.com](https://janstechtalk.blogspot.com)
- - date published: 2023-10-25T08:45:14.097788+00:00
- - user: None
- - tags: ['personal']
-
-## JazzProfiles
- - [https://jazzprofiles.blogspot.com](https://jazzprofiles.blogspot.com)
- - date published: 2023-10-25T09:09:09.036174+00:00
- - user: None
- - tags: ['personal']
-
-## The Grumpy Economist
- - [https://johnhcochrane.blogspot.com](https://johnhcochrane.blogspot.com)
- - date published: 2023-10-25T09:09:15.482686+00:00
- - user: None
- - tags: ['personal']
-
-## Moneyness
- - [https://jpkoning.blogspot.com](https://jpkoning.blogspot.com)
- - date published: 2023-10-25T09:09:24.984611+00:00
- - user: None
- - tags: ['personal']
-
-## Kiwi Hellenist
- - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
- - date published: 2023-11-28T20:46:36.488371+00:00
- - user: None
- - tags: []
-
-## Koodihommia
- - [https://koodihommia.blogspot.com](https://koodihommia.blogspot.com)
- - date published: 2023-10-25T09:09:28.527989+00:00
- - user: None
- - tags: ['personal']
-
-## Kuro Time Design
- - [https://kurotimedesign.blogspot.com](https://kurotimedesign.blogspot.com)
- - date published: 2023-10-25T09:09:31.726360+00:00
- - user: None
- - tags: ['personal']
-
-## The Legasov Tapes
- - [https://legasovtapetranslation.blogspot.com](https://legasovtapetranslation.blogspot.com)
- - date published: 2023-10-25T09:09:33.364290+00:00
- - user: None
- - tags: ['personal']
 

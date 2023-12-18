@@ -520,6 +520,12 @@
  - user: None
  - tags: []
 
+## Transformers on Chips
+ - [https://www.etched.ai](https://www.etched.ai)
+ - date published: 2023-12-16T23:31:29+00:00
+ - user: None
+ - tags: []
+
 ## Factiverse AI Editor
  - [https://editor.factiverse.ai](https://editor.factiverse.ai)
  - date published: 2023-10-25T11:38:29.189794+00:00
@@ -3461,6 +3467,12 @@
  - user: None
  - tags: []
 
+## Prashanth's Blog
+ - [https://prashanths.blog](https://prashanths.blog)
+ - date published: 2023-12-17T05:07:12.878570+00:00
+ - user: None
+ - tags: ['personal']
+
 ## The Stream of Thought That Waters the Garden
  - [https://quantumgardener.blog](https://quantumgardener.blog)
  - date published: 2023-11-29T14:25:56.871546+00:00
@@ -4640,6 +4652,12 @@
 ## Women of Influence –
  - [https://www.womenofinfluence.ca](https://www.womenofinfluence.ca)
  - date published: 2023-10-25T12:09:32.572588+00:00
+ - user: None
+ - tags: []
+
+## York University | Right the Future
+ - [https://www.yorku.ca](https://www.yorku.ca)
+ - date published: 2023-12-17T16:44:20.911714+00:00
  - user: None
  - tags: []
 
@@ -5979,24 +5997,6 @@
 ## Practice Mock Interview with AI
  - [https://practiceinterview.co](https://practiceinterview.co)
  - date published: 2023-10-25T12:21:25.934534+00:00
- - user: None
- - tags: []
-
-## Prequel - Data syncs & data warehouse integration
- - [https://www.prequel.co](https://www.prequel.co)
- - date published: 2023-10-25T12:21:28.432769+00:00
- - user: None
- - tags: []
-
-## Privatdozent | Jørgen Veisdal | Substack
- - [https://www.privatdozent.co](https://www.privatdozent.co)
- - date published: 2023-10-25T12:21:33.037801+00:00
- - user: None
- - tags: []
-
-## PropBox
- - [https://propbox.co](https://propbox.co)
- - date published: 2023-10-25T12:21:42.593362+00:00
  - user: None
  - tags: []
 

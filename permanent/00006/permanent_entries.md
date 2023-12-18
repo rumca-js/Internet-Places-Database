@@ -1,3 +1,177 @@
+## Natural Language Playlist
+ - [https://www.naturallanguageplaylist.com](https://www.naturallanguageplaylist.com)
+ - date published: 2023-10-25T16:12:17.879048+00:00
+ - user: None
+ - tags: []
+
+## NaturalNews.com
+ - [https://naturalnews.com](https://naturalnews.com)
+ - date published: 2023-10-25T16:12:29.777505+00:00
+ - user: None
+ - tags: []
+
+## Nature
+ - [https://www.nature.com](https://www.nature.com)
+ - date published: 2023-10-25T10:10:29.099676+00:00
+ - user: None
+ - tags: ['science', 'news']
+
+## The Nature of Code
+ - [https://natureofcode.com](https://natureofcode.com)
+ - date published: 2023-10-25T16:12:31.246360+00:00
+ - user: None
+ - tags: []
+
+## Naughty Dog
+ - [https://www.naughtydog.com](https://www.naughtydog.com)
+ - date published: 2023-10-30T18:27:44.301408+00:00
+ - user: None
+ - tags: ['company', 'game studio']
+
+## Naval Technology | Naval Defence News & Views Updated Daily
+ - [https://www.naval-technology.com](https://www.naval-technology.com)
+ - date published: 2023-10-25T16:12:37.001678+00:00
+ - user: None
+ - tags: []
+
+## 네이버 포스트
+ - [https://m.post.naver.com](https://m.post.naver.com)
+ - date published: 2023-10-25T16:12:48.876193+00:00
+ - user: None
+ - tags: []
+
+## Navy Lookout
+ - [https://www.navylookout.com](https://www.navylookout.com)
+ - date published: 2023-12-16T12:57:58.995896+00:00
+ - user: None
+ - tags: []
+
+## Navy Times - Independent News For Sailors | Navy Times
+ - [https://www.navytimes.com](https://www.navytimes.com)
+ - date published: 2023-10-25T10:17:10.551232+00:00
+ - user: None
+ - tags: []
+
+## Naz Avó's Pit | Tech, nomadic lifestyle, and financial independence
+ - [https://nazavo.com](https://nazavo.com)
+ - date published: 2023-12-14T06:55:11.795416+00:00
+ - user: None
+ - tags: ['personal']
+
+## NBC Bay Area – Bay Area News, Local News, Weather, Traffic, Entertainment, Breaking News
+ - [https://www.nbcbayarea.com](https://www.nbcbayarea.com)
+ - date published: 2023-10-25T11:05:29.767118+00:00
+ - user: None
+ - tags: []
+
+## NBC Boston
+ - [https://www.nbcboston.com](https://www.nbcboston.com)
+ - date published: 2023-11-18T16:44:26.976480+00:00
+ - user: None
+ - tags: ['news']
+
+## NBC Chicago
+ - [https://www.nbcchicago.com](https://www.nbcchicago.com)
+ - date published: 2023-12-06T11:49:40.873102+00:00
+ - user: None
+ - tags: []
+
+## NBC 5 Dallas-Fort Worth
+ - [https://www.nbcdfw.com](https://www.nbcdfw.com)
+ - date published: 2023-11-17T07:14:58.587632+00:00
+ - user: None
+ - tags: []
+
+## NBC Los Angeles – Los Angeles News, Local News, Weather, Traffic, Entertainment, Breaking News
+ - [https://www.nbclosangeles.com](https://www.nbclosangeles.com)
+ - date published: 2023-10-25T11:05:35.602882+00:00
+ - user: None
+ - tags: []
+
+## NBC 6 South Florida – NBC 6 South Florida | NBC 6 South Florida – Local News, Weather, Traffic, Entertainment, Events, Breaking News
+ - [https://www.nbcmiami.com](https://www.nbcmiami.com)
+ - date published: 2023-10-25T10:18:24.865109+00:00
+ - user: None
+ - tags: []
+
+## NBC News - Breaking News & Top Stories - Latest World, US & Local News | NBC News
+ - [https://www.nbcnews.com](https://www.nbcnews.com)
+ - date published: 2023-10-25T10:27:02.197696+00:00
+ - user: None
+ - tags: []
+
+## NBC New York – New York News, Local News, Weather, Traffic, Entertainment, Breaking News
+ - [https://www.nbcnewyork.com](https://www.nbcnewyork.com)
+ - date published: 2023-10-25T11:05:45.889334+00:00
+ - user: None
+ - tags: []
+
+## NBC10 Philadelphia – Philadelphia News, Local News, Weather, Traffic, Entertainment, and Breaking News
+ - [https://www.nbcphiladelphia.com](https://www.nbcphiladelphia.com)
+ - date published: 2023-10-25T11:05:51.814430+00:00
+ - user: None
+ - tags: []
+
+## NCC Group Research Blog | Making the world safer and more secure
+ - [https://research.nccgroup.com](https://research.nccgroup.com)
+ - date published: 2023-10-25T16:13:05.140594+00:00
+ - user: None
+ - tags: []
+
+## North Carolina Rabbit Hole | Jeremy Markovich | Substack
+ - [https://www.ncrabbithole.com](https://www.ncrabbithole.com)
+ - date published: 2023-10-25T16:13:08.969926+00:00
+ - user: None
+ - tags: []
+
+## NCZAS.COM | Najwyższy CZAS! Najnowsze informacje z Polski, Europy i Świata. Wolnościowe spojrzenie, bez poprawności politycznej
+ - [https://nczas.com](https://nczas.com)
+ - date published: 2023-10-25T10:14:32.674298+00:00
+ - user: None
+ - tags: []
+
+## Nicholas A. Danes, PhD · Nicholas A. Danes, PhD
+ - [https://ndanes.com](https://ndanes.com)
+ - date published: 2023-12-13T20:58:32.247509+00:00
+ - user: None
+ - tags: ['personal']
+
+## NDepend Blog - Improve your .NET code quality with NDepend
+ - [https://blog.ndepend.com](https://blog.ndepend.com)
+ - date published: 2023-10-25T16:13:13.613302+00:00
+ - user: None
+ - tags: []
+
+## Get Latest News, India News, Breaking News, Today's News - NDTV.com
+ - [https://www.ndtv.com](https://www.ndtv.com)
+ - date published: 2023-10-25T16:13:21.078054+00:00
+ - user: None
+ - tags: []
+
+## Neal Ungerleider
+ - [https://www.nealungerleider.com](https://www.nealungerleider.com)
+ - date published: 2023-12-10T11:33:52.726783+00:00
+ - user: None
+ - tags: ['personal']
+
+## Necromunda: Dark Uprising | Games Workshop
+ - [https://necromunda.com](https://necromunda.com)
+ - date published: 2023-10-27T12:11:58.307918+00:00
+ - user: None
+ - tags: ['tabletop games', 'necromunda']
+
+## Ned Batchelder
+ - [https://nedbatchelder.com](https://nedbatchelder.com)
+ - date published: 2023-10-25T16:13:23.718221+00:00
+ - user: None
+ - tags: []
+
+## neeto blog | Neeraj Singh | Substack
+ - [https://blog.neeto.com](https://blog.neeto.com)
+ - date published: 2023-10-25T16:13:27.856869+00:00
+ - user: None
+ - tags: []
+
 ## Neeva - Search powered by AI
  - [https://neeva.com](https://neeva.com)
  - date published: 2023-10-25T16:13:30.499686+00:00
@@ -613,6 +787,12 @@
 ## Front Page - Nick LaToof
  - [https://www.nicklatoof.com](https://www.nicklatoof.com)
  - date published: 2023-11-29T15:47:43.364763+00:00
+ - user: None
+ - tags: []
+
+## Nick Montfort’s site
+ - [https://nickm.com](https://nickm.com)
+ - date published: 2023-12-17T22:23:31.204427+00:00
  - user: None
  - tags: []
 
@@ -2470,6 +2650,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Sergey Stadnik's blog
+ - [https://ozmoroz.com](https://ozmoroz.com)
+ - date published: 2023-12-17T16:42:45.433064+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Unified In-game and On-Chain Analytics
  - [https://p2eanalytics.com](https://p2eanalytics.com)
  - date published: 2023-10-25T16:29:07.420465+00:00
@@ -4237,6 +4423,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Post-Match Team
+ - [https://postmatchteam.com](https://postmatchteam.com)
+ - date published: 2023-12-17T17:30:48.280093+00:00
+ - user: None
+ - tags: []
+
 ## Netherlands Posts English
  - [https://netherlands.postsen.com](https://netherlands.postsen.com)
  - date published: 2023-10-25T16:38:40.708972+00:00
@@ -4780,6 +4972,12 @@ Answering Machine Greetings!
 ## PSYOP PSYOPS PSYWAR Psychological Operations Psychological Warfare
  - [https://www.psywarrior.com](https://www.psywarrior.com)
  - date published: 2023-10-25T16:42:06.293643+00:00
+ - user: None
+ - tags: []
+
+## ptrchm
+ - [https://ptrchm.com](https://ptrchm.com)
+ - date published: 2023-12-17T17:43:33.561774+00:00
  - user: None
  - tags: []
 
@@ -5808,204 +6006,6 @@ Answering Machine Greetings!
 ## Recharge | Latest renewable energy news
  - [https://www.rechargenews.com](https://www.rechargenews.com)
  - date published: 2023-10-25T10:54:44.339290+00:00
- - user: None
- - tags: []
-
-## RecipeUI
- - [https://recipeui.com](https://recipeui.com)
- - date published: 2023-10-25T16:47:23.469762+00:00
- - user: None
- - tags: []
-
-## Show HN: Recompyle – A JavaScript Developer Friendly Console / Debugger
- - [https://www.recompyle.com](https://www.recompyle.com)
- - date published: 2023-12-07T14:05:47+00:00
- - user: None
- - tags: []
-
-## Jobs at Tab
- - [https://tab.recruitee.com](https://tab.recruitee.com)
- - date published: 2023-10-25T16:47:24.237212+00:00
- - user: None
- - tags: []
-
-## Recurrent | Buy, Drive & Sell Electric Cars, Positively | EV Battery Reports
- - [https://www.recurrentauto.com](https://www.recurrentauto.com)
- - date published: 2023-10-25T16:47:30.550141+00:00
- - user: None
- - tags: []
-
-## Redgate Software - Compliant Database DevOps Solutions and Tools For SQL Server, Oracle, & .NET
- - [https://www.red-gate.com](https://www.red-gate.com)
- - date published: 2023-11-01T08:43:03.996831+00:00
- - user: None
- - tags: []
-
-## Red Alert 2 | Online Gameplay
- - [https://redalert2.com](https://redalert2.com)
- - date published: 2023-11-17T21:46:56+00:00
- - user: rumpel
- - tags: ['command and conquer']
-
-## Red Blob Games
- - [https://www.redblobgames.com](https://www.redblobgames.com)
- - date published: 2023-10-25T16:47:32.544748+00:00
- - user: None
- - tags: []
-
-## Red Canary | Your Managed Detection and Response Ally
- - [https://redcanary.com](https://redcanary.com)
- - date published: 2023-10-25T16:47:36.881352+00:00
- - user: None
- - tags: []
-
-## reddit: the front page of the internet
- - [https://old.reddit.com](https://old.reddit.com)
- - date published: 2023-10-24T20:16:40.762854+00:00
- - user: None
- - tags: []
-
-## reddit
- - [https://reddit.com](https://reddit.com)
- - date published: 2023-10-24T20:12:40.083441+00:00
- - user: None
- - tags: ['social platform', 'gatekeeper']
-
-## reddit
- - [https://www.reddit.com](https://www.reddit.com)
- - date published: 2023-10-24T20:16:46.235665+00:00
- - user: None
- - tags: []
-
-## reddit-stream - a better way to view live reddit threads
- - [https://reddit-stream.com](https://reddit-stream.com)
- - date published: 2023-11-25T13:39:04.920744+00:00
- - user: None
- - tags: []
-
-## reddit-stream - a better way to view live reddit threads
- - [https://www.reddit-stream.com](https://www.reddit-stream.com)
- - date published: 2023-11-01T21:08:19.834690+00:00
- - user: None
- - tags: []
-
-## https://a.thumbs.redditmedia.com
- - [https://a.thumbs.redditmedia.com](https://a.thumbs.redditmedia.com)
- - date published: 2023-10-30T13:20:51.470547+00:00
- - user: None
- - tags: []
-
-## https://b.thumbs.redditmedia.com
- - [https://b.thumbs.redditmedia.com](https://b.thumbs.redditmedia.com)
- - date published: 2023-10-31T06:38:02.668360+00:00
- - user: None
- - tags: []
-
-## Reddit Migration Directory: Subreddit Replacements
- - [https://redditmigration.com](https://redditmigration.com)
- - date published: 2023-10-25T16:47:42.228313+00:00
- - user: None
- - tags: []
-
-## reddit Status
- - [https://www.redditstatus.com](https://www.redditstatus.com)
- - date published: 2023-10-25T16:47:43.967220+00:00
- - user: None
- - tags: []
-
-## Redeem Tomorrow: Home
- - [https://redeem-tomorrow.com](https://redeem-tomorrow.com)
- - date published: 2023-10-25T16:47:46.525838+00:00
- - user: None
- - tags: []
-
-## Real Estate, Homes for Sale, MLS Listings, Agents | Redfin
- - [https://www.redfin.com](https://www.redfin.com)
- - date published: 2023-10-25T16:47:52.485654+00:00
- - user: None
- - tags: []
-
-## Red Hat Customer Portal - Access to 24x7 support and knowledge
- - [https://access.redhat.com](https://access.redhat.com)
- - date published: 2023-10-25T16:47:55.010667+00:00
- - user: None
- - tags: []
-
-## Red Hat Bugzilla Main Page
- - [https://bugzilla.redhat.com](https://bugzilla.redhat.com)
- - date published: 2023-10-25T16:47:56.632804+00:00
- - user: None
- - tags: []
-
-## Hybrid Cloud Developer Tutorials and Software from Red Hat | Red Hat Developer
- - [https://developers.redhat.com](https://developers.redhat.com)
- - date published: 2023-10-25T16:47:59.225749+00:00
- - user: None
- - tags: []
-
-## listman.redhat.com Mailing Lists
- - [https://listman.redhat.com](https://listman.redhat.com)
- - date published: 2023-10-25T16:48:12.888347+00:00
- - user: None
- - tags: []
-
-## Red Hat - We make open source technologies for the enterprise
- - [https://www.redhat.com](https://www.redhat.com)
- - date published: 2023-10-25T16:48:17.285585+00:00
- - user: None
- - tags: []
-
-## Red Hot Chili Peppers
- - [https://redhotchilipeppers.com](https://redhotchilipeppers.com)
- - date published: 2023-11-13T10:37:18.237065+00:00
- - user: None
- - tags: ['music band']
-
-## Rediff.com: News | Rediffmail | Stock Quotes | Shopping
- - [https://www.rediff.com](https://www.rediff.com)
- - date published: 2023-11-10T18:20:23.983505+00:00
- - user: None
- - tags: []
-
-## Redis | The Real-time Data Platform
- - [https://redis.com](https://redis.com)
- - date published: 2023-10-25T16:48:21.714868+00:00
- - user: None
- - tags: []
-
-## RedMonk – The developer-focused analyst firm
- - [https://redmonk.com](https://redmonk.com)
- - date published: 2023-10-25T16:48:23.999814+00:00
- - user: None
- - tags: []
-
-## Redowan's Reflections
- - [https://rednafi.com](https://rednafi.com)
- - date published: 2023-10-25T08:47:39.220352+00:00
- - user: None
- - tags: ['personal']
-
-## Redpanda | The streaming data platform for developers
- - [https://redpanda.com](https://redpanda.com)
- - date published: 2023-10-25T16:48:26.271759+00:00
- - user: None
- - tags: []
-
-## Blog
- - [https://blog.redplanetlabs.com](https://blog.redplanetlabs.com)
- - date published: 2023-10-25T16:48:38.048616+00:00
- - user: None
- - tags: []
-
-## Red Squirrel Technologies
- - [https://redsquirrel.com](https://redsquirrel.com)
- - date published: 2023-12-14T06:54:17.065149+00:00
- - user: None
- - tags: ['personal']
-
-## RedState – Conservative News & Politics
- - [https://redstate.com](https://redstate.com)
- - date published: 2023-10-25T16:48:41.152351+00:00
  - user: None
  - tags: []
 
