@@ -1,8 +1,80 @@
+## Diary of a Devman
+ - [https://doadm-notes.blogspot.com](https://doadm-notes.blogspot.com)
+ - date published: 2023-10-25T13:05:19.829141+00:00
+ - user: None
+ - tags: []
+
+## Education and Statistics
+ - [https://educationandstatistics.blogspot.com](https://educationandstatistics.blogspot.com)
+ - date published: 2023-10-25T09:08:22.410886+00:00
+ - user: None
+ - tags: ['personal']
+
+## Egyptian Chronicles
+ - [https://egyptianchronicles.blogspot.com](https://egyptianchronicles.blogspot.com)
+ - date published: 2023-10-25T09:08:26.568446+00:00
+ - user: None
+ - tags: ['personal']
+
+## Epeus' epigone
+ - [https://epeus.blogspot.com](https://epeus.blogspot.com)
+ - date published: 2023-10-31T19:57:41.846195+00:00
+ - user: None
+ - tags: []
+
+## Epic & Monic is not Iso!
+ - [https://epicandmonicisnotiso.blogspot.com](https://epicandmonicisnotiso.blogspot.com)
+ - date published: 2023-10-25T09:08:27.957242+00:00
+ - user: None
+ - tags: ['personal']
+
+## Anecdotal Evidence
+ - [https://evidenceanecdotal.blogspot.com](https://evidenceanecdotal.blogspot.com)
+ - date published: 2023-10-25T09:08:32.163200+00:00
+ - user: None
+ - tags: ['personal']
+
+## Far Away Times
+ - [https://farawaytimes.blogspot.com](https://farawaytimes.blogspot.com)
+ - date published: 2023-10-25T09:08:37.053310+00:00
+ - user: None
+ - tags: ['personal']
+
+## FXRant
+ - [https://fxrant.blogspot.com](https://fxrant.blogspot.com)
+ - date published: 2023-11-20T09:24:52.399558+00:00
+ - user: None
+ - tags: []
+
+## Gary's hacking stuff
+ - [https://garyodernichts.blogspot.com](https://garyodernichts.blogspot.com)
+ - date published: 2023-10-29T08:40:47.881044+00:00
+ - user: None
+ - tags: []
+
+## Room 101
+ - [https://gbracha.blogspot.com](https://gbracha.blogspot.com)
+ - date published: 2023-10-25T09:08:39.659561+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Keyword | Google Product and Technology News and Stories
+ - [https://googleblog.blogspot.com](https://googleblog.blogspot.com)
+ - date published: 2023-10-25T11:32:26.628290+00:00
+ - user: None
+ - tags: []
+
 ## Project Zero
  - [https://googleprojectzero.blogspot.com](https://googleprojectzero.blogspot.com)
  - date published: 2023-10-25T09:08:43.856862+00:00
  - user: None
  - tags: ['personal']
+
+## do not look into laser with remaining eye
+ - [https://graphthinking.blogspot.com](https://graphthinking.blogspot.com)
+ - date published: 2023-12-18T06:08:16.757554+00:00
+ - user: None
+ - tags: []
 
 ## HaggardHawks
  - [https://haggardhawksblog.blogspot.com](https://haggardhawksblog.blogspot.com)
@@ -1119,6 +1191,12 @@
  - date published: 2023-10-25T13:13:54.753491+00:00
  - user: None
  - tags: []
+
+## SEO Website Copywriter and Blog Strategist — Stéphanie McGuirt
+ - [https://www.brightspotcopywriting.com](https://www.brightspotcopywriting.com)
+ - date published: 2023-12-18T22:38:58.109726+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Brilliant Labs
  - [https://www.brilliantmonocle.com](https://www.brilliantmonocle.com)
@@ -2517,6 +2595,12 @@
  - date published: 2023-10-25T08:45:21.585578+00:00
  - user: None
  - tags: ['personal']
+
+## ChooseYourBoss : annonce d’emplois des métiers du numérique
+ - [https://www.chooseyourboss.com](https://www.chooseyourboss.com)
+ - date published: 2023-12-18T17:18:12.643424+00:00
+ - user: None
+ - tags: []
 
 ## Choosing Therapy | Find a Life-Changing Therapist
  - [https://www.choosingtherapy.com](https://www.choosingtherapy.com)
@@ -5925,88 +6009,4 @@
  - date published: 2023-10-25T13:49:44.338672+00:00
  - user: None
  - tags: ['utah news']
-
-## Desiderata - Desiderata Poem - Desiderata Prints
- - [https://www.desiderata.com](https://www.desiderata.com)
- - date published: 2023-10-25T13:49:58.782774+00:00
- - user: None
- - tags: []
-
-## Design And Reuse, The System-On-Chip Design Resource - IP, Core, SoC
- - [https://www.design-reuse.com](https://www.design-reuse.com)
- - date published: 2023-10-25T13:50:05.038562+00:00
- - user: None
- - tags: []
-
-## designboom magazine | your first source for architecture, design & art news
- - [https://www.designboom.com](https://www.designboom.com)
- - date published: 2023-10-25T13:50:14.647949+00:00
- - user: None
- - tags: []
-
-## Graphic Tees, Cool T Shirt Designs For Men And Women - DesignByHumans
- - [https://www.designbyhumans.com](https://www.designbyhumans.com)
- - date published: 2023-12-13T15:37:22.113867+00:00
- - user: None
- - tags: []
-
-## Design You Trust
- - [https://designyoutrust.com](https://designyoutrust.com)
- - date published: 2023-10-25T13:50:22.315830+00:00
- - user: None
- - tags: []
-
-## Desmos Engineering
- - [https://engineering.desmos.com](https://engineering.desmos.com)
- - date published: 2023-10-25T13:50:26.275795+00:00
- - user: None
- - tags: []
-
-## Desmos | Let's learn together.
- - [https://www.desmos.com](https://www.desmos.com)
- - date published: 2023-10-25T13:50:34.193461+00:00
- - user: None
- - tags: []
-
-## Destroy All Software
- - [https://www.destroyallsoftware.com](https://www.destroyallsoftware.com)
- - date published: 2023-10-25T13:50:36.567326+00:00
- - user: None
- - tags: []
-
-## Detroit News - Home
- - [https://www.detroitnews.com](https://www.detroitnews.com)
- - date published: 2023-10-25T13:50:38.587182+00:00
- - user: None
- - tags: []
-
-## /dev/nonsense
- - [https://dev-nonsense.com](https://dev-nonsense.com)
- - date published: 2023-10-25T13:50:39.258445+00:00
- - user: None
- - tags: []
-
-## Home • DEVCLASS
- - [https://devclass.com](https://devclass.com)
- - date published: 2023-10-25T13:50:42.438218+00:00
- - user: None
- - tags: []
-
-## DevCycle | Feature Flag Management for Developers
- - [https://devcycle.com](https://devcycle.com)
- - date published: 2023-10-25T13:50:46.064161+00:00
- - user: None
- - tags: []
-
-## Dev Community - DevDojo
- - [https://devdojo.com](https://devdojo.com)
- - date published: 2023-10-25T13:50:50.978170+00:00
- - user: None
- - tags: []
-
-## Developer Tech News | Latest App Developer News & Insights
- - [https://www.developer-tech.com](https://www.developer-tech.com)
- - date published: 2023-10-25T10:13:59.122086+00:00
- - user: None
- - tags: []
 

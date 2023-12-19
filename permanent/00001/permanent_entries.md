@@ -1,3 +1,27 @@
+## Polymer: Hiring made simple
+ - [https://jobs.polymer.co](https://jobs.polymer.co)
+ - date published: 2023-10-25T12:21:15.679114+00:00
+ - user: None
+ - tags: []
+
+## Posit | The Open-Source Data Science Company
+ - [https://posit.co](https://posit.co)
+ - date published: 2023-10-25T12:21:19.232107+00:00
+ - user: None
+ - tags: []
+
+## Discover Amazing Products Powered By GPT - poweredbygpt.co
+ - [https://www.poweredbygpt.co](https://www.poweredbygpt.co)
+ - date published: 2023-10-25T12:21:22.511943+00:00
+ - user: None
+ - tags: []
+
+## Practice Mock Interview with AI
+ - [https://practiceinterview.co](https://practiceinterview.co)
+ - date published: 2023-10-25T12:21:25.934534+00:00
+ - user: None
+ - tags: []
+
 ## Prequel - Data syncs & data warehouse integration
  - [https://www.prequel.co](https://www.prequel.co)
  - date published: 2023-10-25T12:21:28.432769+00:00
@@ -1072,6 +1096,12 @@
  - user: None
  - tags: []
 
+## Trouvez un terrain et un constructeur pour votre projet de maison - Achat Terrain
+ - [https://www.achat-terrain.com](https://www.achat-terrain.com)
+ - date published: 2023-12-18T17:18:38.756330+00:00
+ - user: None
+ - tags: []
+
 ## ACM Wealth - Advisor Capital Management
  - [https://acmwealth.com](https://acmwealth.com)
  - date published: 2023-10-25T12:31:35.736632+00:00
@@ -1162,6 +1192,12 @@
  - user: None
  - tags: []
 
+## Adam Bader
+ - [https://adambader.com](https://adambader.com)
+ - date published: 2023-12-18T01:33:53.856774+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Adam Caudill
  - [https://adamcaudill.com](https://adamcaudill.com)
  - date published: 2023-10-25T12:32:03.058600+00:00
@@ -1243,6 +1279,12 @@
 ## Home | Adiuvo Engineering
  - [https://www.adiuvoengineering.com](https://www.adiuvoengineering.com)
  - date published: 2023-10-25T12:32:43.380851+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://app.adjust.com](https://app.adjust.com)
+ - date published: 2023-12-18T17:19:03.571546+00:00
  - user: None
  - tags: []
 
@@ -1341,6 +1383,12 @@
  - date published: 2023-10-25T12:34:08.250343+00:00
  - user: None
  - tags: []
+
+## Adventure-to-Adventure
+ - [https://adventuretoadventure.com](https://adventuretoadventure.com)
+ - date published: 2023-12-18T01:34:54.400734+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Advocate.com
  - [https://www.advocate.com](https://www.advocate.com)
@@ -2215,6 +2263,12 @@
 ## Amarkdown | Markdown Editor
  - [https://amarkdown.com](https://amarkdown.com)
  - date published: 2023-10-25T12:39:37.652518+00:00
+ - user: None
+ - tags: []
+
+## Voyage Nature, Voyage sur-mesure en Europe et dans le monde - Amatera
+ - [https://www.amatera-voyages.com](https://www.amatera-voyages.com)
+ - date published: 2023-12-18T17:12:48.020264+00:00
  - user: None
  - tags: []
 
@@ -3451,6 +3505,12 @@
 ## Arne's Antics
  - [https://www.arnesantics.com](https://www.arnesantics.com)
  - date published: 2023-10-25T12:45:40.527755+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.aroged.com](https://www.aroged.com)
+ - date published: 2023-12-18T13:51:18.418790+00:00
  - user: None
  - tags: []
 
@@ -5410,6 +5470,12 @@
  - user: None
  - tags: []
 
+## URL Shortener - Short URLs & Custom Free Link Shortener | Bitly
+ - [https://bitly.com](https://bitly.com)
+ - date published: 2023-12-18T07:04:23+00:00
+ - user: rumpel
+ - tags: ['link service']
+
 ## Homepage | BitMEX Blog
  - [https://blog.bitmex.com](https://blog.bitmex.com)
  - date published: 2023-10-25T13:01:54.459156+00:00
@@ -5929,72 +5995,6 @@
 ## Disagreeable Me
  - [https://disagreeableme.blogspot.com](https://disagreeableme.blogspot.com)
  - date published: 2023-10-25T13:05:14.763793+00:00
- - user: None
- - tags: []
-
-## Diary of a Devman
- - [https://doadm-notes.blogspot.com](https://doadm-notes.blogspot.com)
- - date published: 2023-10-25T13:05:19.829141+00:00
- - user: None
- - tags: []
-
-## Education and Statistics
- - [https://educationandstatistics.blogspot.com](https://educationandstatistics.blogspot.com)
- - date published: 2023-10-25T09:08:22.410886+00:00
- - user: None
- - tags: ['personal']
-
-## Egyptian Chronicles
- - [https://egyptianchronicles.blogspot.com](https://egyptianchronicles.blogspot.com)
- - date published: 2023-10-25T09:08:26.568446+00:00
- - user: None
- - tags: ['personal']
-
-## Epeus' epigone
- - [https://epeus.blogspot.com](https://epeus.blogspot.com)
- - date published: 2023-10-31T19:57:41.846195+00:00
- - user: None
- - tags: []
-
-## Epic & Monic is not Iso!
- - [https://epicandmonicisnotiso.blogspot.com](https://epicandmonicisnotiso.blogspot.com)
- - date published: 2023-10-25T09:08:27.957242+00:00
- - user: None
- - tags: ['personal']
-
-## Anecdotal Evidence
- - [https://evidenceanecdotal.blogspot.com](https://evidenceanecdotal.blogspot.com)
- - date published: 2023-10-25T09:08:32.163200+00:00
- - user: None
- - tags: ['personal']
-
-## Far Away Times
- - [https://farawaytimes.blogspot.com](https://farawaytimes.blogspot.com)
- - date published: 2023-10-25T09:08:37.053310+00:00
- - user: None
- - tags: ['personal']
-
-## FXRant
- - [https://fxrant.blogspot.com](https://fxrant.blogspot.com)
- - date published: 2023-11-20T09:24:52.399558+00:00
- - user: None
- - tags: []
-
-## Gary's hacking stuff
- - [https://garyodernichts.blogspot.com](https://garyodernichts.blogspot.com)
- - date published: 2023-10-29T08:40:47.881044+00:00
- - user: None
- - tags: []
-
-## Room 101
- - [https://gbracha.blogspot.com](https://gbracha.blogspot.com)
- - date published: 2023-10-25T09:08:39.659561+00:00
- - user: None
- - tags: ['personal']
-
-## The Keyword | Google Product and Technology News and Stories
- - [https://googleblog.blogspot.com](https://googleblog.blogspot.com)
- - date published: 2023-10-25T11:32:26.628290+00:00
  - user: None
  - tags: []
 

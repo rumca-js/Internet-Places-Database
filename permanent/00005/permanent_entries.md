@@ -1,3 +1,147 @@
+## Kimbra
+ - [https://www.kimbramusic.com](https://www.kimbramusic.com)
+ - date published: 2023-11-13T09:58:56.160494+00:00
+ - user: None
+ - tags: ['music band']
+
+## kimcastillo.com – a personal website
+ - [https://kimcastillo.com](https://kimcastillo.com)
+ - date published: 2023-11-29T14:42:39.120095+00:00
+ - user: None
+ - tags: ['personal']
+
+## A new era of authentication - Kinde
+ - [https://kinde.com](https://kinde.com)
+ - date published: 2023-10-25T15:37:26.153431+00:00
+ - user: None
+ - tags: []
+
+## cek.log : Geeky rants from Charlie Kindel...
+ - [https://ceklog.kindel.com](https://ceklog.kindel.com)
+ - date published: 2023-10-25T09:25:45.647823+00:00
+ - user: None
+ - tags: ['personal']
+
+## Casa | Alejandro AR (kinduff)
+ - [https://kinduff.com](https://kinduff.com)
+ - date published: 2023-10-25T15:37:27.297746+00:00
+ - user: None
+ - tags: []
+
+## Kinsta® Cloud Hosting - All Your Projects in One Platform
+ - [https://kinsta.com](https://kinsta.com)
+ - date published: 2023-10-25T15:37:30.397385+00:00
+ - user: None
+ - tags: []
+
+## Kirkus Reviews
+ - [https://www.kirkusreviews.com](https://www.kirkusreviews.com)
+ - date published: 2023-10-25T15:37:36.619388+00:00
+ - user: None
+ - tags: []
+
+## Seattle News, Weather, Traffic & Sports | KIRO-TV – KIRO 7 News Seattle
+ - [https://www.kiro7.com](https://www.kiro7.com)
+ - date published: 2023-11-16T15:37:29.970900+00:00
+ - user: None
+ - tags: []
+
+## kiruba.com – The Personal Website of Kiruba Shankar
+ - [https://www.kiruba.com](https://www.kiruba.com)
+ - date published: 2023-11-29T15:51:01.473498+00:00
+ - user: None
+ - tags: ['personal']
+
+## Live Gold Prices | Gold News And Analysis | Mining News | KITCO
+ - [https://www.kitco.com](https://www.kitco.com)
+ - date published: 2023-10-25T15:37:43.834479+00:00
+ - user: None
+ - tags: []
+
+## Kite is saying farewell - Code Faster with Kite
+ - [https://www.kite.com](https://www.kite.com)
+ - date published: 2023-10-25T15:37:45.311140+00:00
+ - user: None
+ - tags: []
+
+## Kitty says hi. | Kitty Giraudel
+ - [https://kittygiraudel.com](https://kittygiraudel.com)
+ - date published: 2023-10-25T15:37:51.215366+00:00
+ - user: None
+ - tags: []
+
+## Kiwi Electronics
+ - [https://www.kiwi-electronics.com](https://www.kiwi-electronics.com)
+ - date published: 2023-10-28T20:22:54.470874+00:00
+ - user: None
+ - tags: []
+
+## KiwiIRC - The webIRC client
+ - [https://kiwiirc.com](https://kiwiirc.com)
+ - date published: 2023-12-11T18:56:26.525383+00:00
+ - user: None
+ - tags: []
+
+## Klara Inc | Open Source Development. Reimagined.
+ - [https://klarasystems.com](https://klarasystems.com)
+ - date published: 2023-10-25T15:38:07.509792+00:00
+ - user: None
+ - tags: []
+
+## Martin Kleppmann’s website
+ - [https://martin.kleppmann.com](https://martin.kleppmann.com)
+ - date published: 2023-10-25T15:38:09.134153+00:00
+ - user: None
+ - tags: []
+
+## KMOV | Missouri Local News, Weather, Sports | St. Louis, MO
+ - [https://www.kmov.com](https://www.kmov.com)
+ - date published: 2023-11-03T13:09:21.024110+00:00
+ - user: None
+ - tags: []
+
+## Fresno News, Weather, Sports, Breaking News | KMPH
+ - [https://kmph.com](https://kmph.com)
+ - date published: 2023-12-08T08:34:04.710175+00:00
+ - user: None
+ - tags: []
+
+## Knife Party | Official Storefront
+ - [https://knifeparty.com](https://knifeparty.com)
+ - date published: 2023-11-13T09:55:35.763199+00:00
+ - user: None
+ - tags: ['music band']
+
+## knotend | The fastest flowchart editor. Being keyboard-first and optimized for speed, knotend is the best flowchart editor for project management, todo lists, collaboration, and more.
+ - [https://www.knotend.com](https://www.knotend.com)
+ - date published: 2023-10-25T15:38:20.588866+00:00
+ - user: None
+ - tags: []
+
+## Knowies
+ - [https://www.knowies.com](https://www.knowies.com)
+ - date published: 2023-11-26T16:48:52+00:00
+ - user: rumpel
+ - tags: ['bookmark manager']
+
+## Knowridge Science Report | Inspiring science news
+ - [https://knowridge.com](https://knowridge.com)
+ - date published: 2023-10-31T19:11:15.180516+00:00
+ - user: None
+ - tags: ['science news']
+
+## Ko-fi | Donations and Memberships from fans for the price of a coffee. No fee on Donations
+ - [https://ko-fi.com](https://ko-fi.com)
+ - date published: 2023-12-11T16:24:06.969165+00:00
+ - user: None
+ - tags: ['crowdfunding']
+
+## Rakuten Kobo
+ - [https://www.kobo.com](https://www.kobo.com)
+ - date published: 2023-10-25T08:24:09.609956+00:00
+ - user: None
+ - tags: []
+
 ## Site Not Available
  - [https://www.koco.com](https://www.koco.com)
  - date published: 2023-11-17T23:48:52.603924+00:00
@@ -363,6 +507,12 @@
  - date published: 2023-11-13T09:59:24.045119+00:00
  - user: None
  - tags: ['music band']
+
+## Météo France : La meilleure info météo GRATUITE à 15 jours - La Chaîne Météo
+ - [https://www.lachainemeteo.com](https://www.lachainemeteo.com)
+ - date published: 2023-12-18T17:17:14.108236+00:00
+ - user: None
+ - tags: []
 
 ## Home - La Civilta Cattolica English
  - [https://www.laciviltacattolica.com](https://www.laciviltacattolica.com)
@@ -2330,6 +2480,12 @@ diversions.
 ## Mainmatter
  - [https://mainmatter.com](https://mainmatter.com)
  - date published: 2023-10-25T15:54:37.268613+00:00
+ - user: None
+ - tags: []
+
+## Voyage sur mesure, circuit et sejour - Les Maisons du Voyage
+ - [https://www.maisonsduvoyage.com](https://www.maisonsduvoyage.com)
+ - date published: 2023-12-18T17:19:14.453560+00:00
  - user: None
  - tags: []
 
@@ -4890,6 +5046,12 @@ diversions.
  - user: None
  - tags: []
 
+## welcome - mister chad
+ - [https://mister-chad.com](https://mister-chad.com)
+ - date published: 2023-12-18T01:35:14.727669+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Mitchell Hashimoto
  - [https://mitchellh.com](https://mitchellh.com)
  - date published: 2023-10-25T08:47:17.283545+00:00
@@ -5253,6 +5415,12 @@ diversions.
 ## MoonBit
  - [https://www.moonbitlang.com](https://www.moonbitlang.com)
  - date published: 2023-10-25T16:06:44.746203+00:00
+ - user: None
+ - tags: []
+
+## Moore Consulting
+ - [https://www.mooreds.com](https://www.mooreds.com)
+ - date published: 2023-12-18T16:28:30.195738+00:00
  - user: None
  - tags: []
 
@@ -5829,174 +5997,6 @@ diversions.
 ## Home
  - [https://www.narnia.com](https://www.narnia.com)
  - date published: 2023-10-25T14:12:16.212703+00:00
- - user: None
- - tags: []
-
-## Narnia Fans - Narnia on Netflix Movie and Series News
- - [https://narniafans.com](https://narniafans.com)
- - date published: 2023-10-25T14:11:41.606701+00:00
- - user: None
- - tags: []
-
-## NarniaWeb
- - [https://www.narniaweb.com](https://www.narniaweb.com)
- - date published: 2023-10-25T14:11:57.005524+00:00
- - user: None
- - tags: []
-
-## Narratively | Substack
- - [https://narratively.com](https://narratively.com)
- - date published: 2023-10-25T16:10:34.190788+00:00
- - user: None
- - tags: []
-
-## A self-hosted solution to enable secure connectivity between devices across restricted networks like NAT or firewalls | Narrowlink
- - [https://narrowlink.com](https://narrowlink.com)
- - date published: 2023-10-25T16:10:41.665631+00:00
- - user: None
- - tags: []
-
-## Nasdaq: Stock Market, Data Updates, Reports & News
- - [https://www.nasdaq.com](https://www.nasdaq.com)
- - date published: 2023-10-25T10:58:04.699701+00:00
- - user: None
- - tags: []
-
-## Ben Nassi
- - [https://www.nassiben.com](https://www.nassiben.com)
- - date published: 2023-10-25T16:10:45.259333+00:00
- - user: None
- - tags: []
-
-## Cloudflare
- - [https://nassimsoftware.com](https://nassimsoftware.com)
- - date published: 2023-10-25T16:10:46.275013+00:00
- - user: None
- - tags: []
-
-## Natecation · from Nathan H. Leung
- - [https://www.natecation.com](https://www.natecation.com)
- - date published: 2023-10-25T16:10:48.264572+00:00
- - user: None
- - tags: []
-
-## Nate Hoffelder
- - [https://natehoffelder.com](https://natehoffelder.com)
- - date published: 2023-10-25T16:10:56.376597+00:00
- - user: None
- - tags: []
-
-## Nat Eliason's Newsletter | Substack
- - [https://blog.nateliason.com](https://blog.nateliason.com)
- - date published: 2023-10-25T16:11:04.110312+00:00
- - user: None
- - tags: []
-
-## nate's website
- - [https://www.nateranda.com](https://www.nateranda.com)
- - date published: 2023-10-25T16:11:06.408957+00:00
- - user: None
- - tags: []
-
-## Nathan Craddock
- - [https://nathancraddock.com](https://nathancraddock.com)
- - date published: 2023-10-25T16:11:07.784296+00:00
- - user: None
- - tags: []
-
-## Nathan Lustig – Staying out of the Cubicle
- - [https://www.nathanlustig.com](https://www.nathanlustig.com)
- - date published: 2023-12-13T06:04:31.022737+00:00
- - user: None
- - tags: ['personal']
-
-## Nathan Otterness' Page
- - [https://nathanotterness.com](https://nathanotterness.com)
- - date published: 2023-10-25T16:11:10.707029+00:00
- - user: None
- - tags: []
-
-## Nathan Peck
- - [https://nathanpeck.com](https://nathanpeck.com)
- - date published: 2023-10-25T16:11:12.511630+00:00
- - user: None
- - tags: []
-
-## Nat Henry
- - [https://nathenry.com](https://nathenry.com)
- - date published: 2023-10-25T16:11:15.803624+00:00
- - user: None
- - tags: []
-
-## Home | National Affairs
- - [https://nationalaffairs.com](https://nationalaffairs.com)
- - date published: 2023-10-25T16:11:19.497717+00:00
- - user: None
- - tags: []
-
-## Home | National Affairs
- - [https://www.nationalaffairs.com](https://www.nationalaffairs.com)
- - date published: 2023-10-25T16:11:25.921422+00:00
- - user: None
- - tags: []
-
-## National File
- - [https://nationalfile.com](https://nationalfile.com)
- - date published: 2023-10-25T16:11:33.651688+00:00
- - user: None
- - tags: []
-
-## National Geographic
- - [https://www.nationalgeographic.com](https://www.nationalgeographic.com)
- - date published: 2023-10-25T16:11:46.782249+00:00
- - user: None
- - tags: ['science', 'articles', 'culture', 'nature']
-
-## National Journal
- - [https://www.nationaljournal.com](https://www.nationaljournal.com)
- - date published: 2023-11-10T19:58:41.389822+00:00
- - user: None
- - tags: []
-
-## Canada's National Observer: News & Analysis
- - [https://www.nationalobserver.com](https://www.nationalobserver.com)
- - date published: 2023-10-25T16:11:50.828726+00:00
- - user: None
- - tags: []
-
-## Home | The National Post Home Page | National Post
- - [https://nationalpost.com](https://nationalpost.com)
- - date published: 2023-10-25T16:12:03.903762+00:00
- - user: None
- - tags: ['news']
-
-## National Review: Conservative News, Opinion, Politics, Policy, & Current Events
- - [https://www.nationalreview.com](https://www.nationalreview.com)
- - date published: 2023-10-25T10:26:54.464697+00:00
- - user: None
- - tags: []
-
-## Nation World News | Get Latest Breaking News Update
- - [https://nationworldnews.com](https://nationworldnews.com)
- - date published: 2023-10-25T16:12:09.375654+00:00
- - user: None
- - tags: []
-
-## NativePHP | Baking Delicious Native Apps
- - [https://nativephp.com](https://nativephp.com)
- - date published: 2023-10-25T16:12:10.571354+00:00
- - user: None
- - tags: []
-
-## Legal News & Business Law News | The National Law Review
- - [https://www.natlawreview.com](https://www.natlawreview.com)
- - date published: 2023-11-01T08:42:43.779371+00:00
- - user: None
- - tags: []
-
-## Natural Health News - Holistic Medicine - Homeopathic Remedies - Food Freedom
- - [https://www.naturalblaze.com](https://www.naturalblaze.com)
- - date published: 2023-10-25T16:12:15.256265+00:00
  - user: None
  - tags: []
 

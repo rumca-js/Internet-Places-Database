@@ -1,3 +1,87 @@
+## Desiderata - Desiderata Poem - Desiderata Prints
+ - [https://www.desiderata.com](https://www.desiderata.com)
+ - date published: 2023-10-25T13:49:58.782774+00:00
+ - user: None
+ - tags: []
+
+## Design And Reuse, The System-On-Chip Design Resource - IP, Core, SoC
+ - [https://www.design-reuse.com](https://www.design-reuse.com)
+ - date published: 2023-10-25T13:50:05.038562+00:00
+ - user: None
+ - tags: []
+
+## designboom magazine | your first source for architecture, design & art news
+ - [https://www.designboom.com](https://www.designboom.com)
+ - date published: 2023-10-25T13:50:14.647949+00:00
+ - user: None
+ - tags: []
+
+## Graphic Tees, Cool T Shirt Designs For Men And Women - DesignByHumans
+ - [https://www.designbyhumans.com](https://www.designbyhumans.com)
+ - date published: 2023-12-13T15:37:22.113867+00:00
+ - user: None
+ - tags: []
+
+## Design You Trust
+ - [https://designyoutrust.com](https://designyoutrust.com)
+ - date published: 2023-10-25T13:50:22.315830+00:00
+ - user: None
+ - tags: []
+
+## Desmos Engineering
+ - [https://engineering.desmos.com](https://engineering.desmos.com)
+ - date published: 2023-10-25T13:50:26.275795+00:00
+ - user: None
+ - tags: []
+
+## Desmos | Let's learn together.
+ - [https://www.desmos.com](https://www.desmos.com)
+ - date published: 2023-10-25T13:50:34.193461+00:00
+ - user: None
+ - tags: []
+
+## Destroy All Software
+ - [https://www.destroyallsoftware.com](https://www.destroyallsoftware.com)
+ - date published: 2023-10-25T13:50:36.567326+00:00
+ - user: None
+ - tags: []
+
+## Detroit News - Home
+ - [https://www.detroitnews.com](https://www.detroitnews.com)
+ - date published: 2023-10-25T13:50:38.587182+00:00
+ - user: None
+ - tags: []
+
+## /dev/nonsense
+ - [https://dev-nonsense.com](https://dev-nonsense.com)
+ - date published: 2023-10-25T13:50:39.258445+00:00
+ - user: None
+ - tags: []
+
+## Home • DEVCLASS
+ - [https://devclass.com](https://devclass.com)
+ - date published: 2023-10-25T13:50:42.438218+00:00
+ - user: None
+ - tags: []
+
+## DevCycle | Feature Flag Management for Developers
+ - [https://devcycle.com](https://devcycle.com)
+ - date published: 2023-10-25T13:50:46.064161+00:00
+ - user: None
+ - tags: []
+
+## Dev Community - DevDojo
+ - [https://devdojo.com](https://devdojo.com)
+ - date published: 2023-10-25T13:50:50.978170+00:00
+ - user: None
+ - tags: []
+
+## Developer Tech News | Latest App Developer News & Insights
+ - [https://www.developer-tech.com](https://www.developer-tech.com)
+ - date published: 2023-10-25T10:13:59.122086+00:00
+ - user: None
+ - tags: []
+
 ## Home | Developer Pitstop
  - [https://developerpitstop.com](https://developerpitstop.com)
  - date published: 2023-10-25T13:50:57.547624+00:00
@@ -1709,6 +1793,12 @@
  - user: None
  - tags: []
 
+## Index
+ - [https://eliseshaffer.com](https://eliseshaffer.com)
+ - date published: 2023-12-18T22:13:17.426346+00:00
+ - user: None
+ - tags: []
+
 ## Home · Elixir School
  - [https://elixirschool.com](https://elixirschool.com)
  - date published: 2023-12-11T12:32:14+00:00
@@ -2723,6 +2813,12 @@
  - user: None
  - tags: []
 
+## Immobilier Neuf : Achat de Programme & Logement Neuf
+ - [https://www.explorimmoneuf.com](https://www.explorimmoneuf.com)
+ - date published: 2023-12-18T17:19:05.294818+00:00
+ - user: None
+ - tags: []
+
 ## Experience Magazine - Stories from the intersection of technology and humanity
  - [https://expmag.com](https://expmag.com)
  - date published: 2023-10-25T10:13:37.586225+00:00
@@ -2800,6 +2896,12 @@
  - date published: 2023-10-25T14:25:04.032229+00:00
  - user: None
  - tags: []
+
+## Fabrizio Guerrieri's Blog
+ - [https://fabrizioguerrieri.com](https://fabrizioguerrieri.com)
+ - date published: 2023-12-18T22:39:08.431480+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Facebook
  - [https://ai.facebook.com](https://ai.facebook.com)
@@ -3389,6 +3491,12 @@
  - user: None
  - tags: []
 
+## Felicia Lasmana
+ - [https://felicialasmana.com](https://felicialasmana.com)
+ - date published: 2023-12-18T22:38:19.349143+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Felicis
  - [https://www.felicis.com](https://www.felicis.com)
  - date published: 2023-10-25T14:28:57.322341+00:00
@@ -3508,6 +3616,12 @@
  - date published: 2023-10-25T09:40:09.439242+00:00
  - user: None
  - tags: ['substack']
+
+## Play Figgie at Jane Street
+ - [https://figgie.com](https://figgie.com)
+ - date published: 2023-12-18T09:46:04.792293+00:00
+ - user: None
+ - tags: []
 
 ## Figma: The Collaborative Interface Design Tool
  - [https://figma.com](https://figma.com)
@@ -5280,6 +5394,12 @@
  - user: None
  - tags: ['personal']
 
+## George Nance
+ - [https://georgenance.com](https://georgenance.com)
+ - date published: 2023-12-18T01:34:27.680527+00:00
+ - user: None
+ - tags: ['personal']
+
 ## George Soros
  - [https://www.georgesoros.com](https://www.georgesoros.com)
  - date published: 2023-10-25T11:24:05.968668+00:00
@@ -5880,124 +6000,4 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-11-29T14:24:13.415481+00:00
  - user: None
  - tags: ['personal']
-
-## Going Medieval
- - [https://going-medieval.com](https://going-medieval.com)
- - date published: 2023-11-09T21:44:17.263991+00:00
- - user: None
- - tags: ['history', 'medieval']
-
-## Golang Example
- - [https://golangexample.com](https://golangexample.com)
- - date published: 2023-10-25T14:47:01.485858+00:00
- - user: None
- - tags: []
-
-## Goldman Sachs
- - [https://www.goldmansachs.com](https://www.goldmansachs.com)
- - date published: 2023-10-25T11:29:34.688123+00:00
- - user: None
- - tags: []
-
-## Cosmos
- - [https://blog.golivecosmos.com](https://blog.golivecosmos.com)
- - date published: 2023-12-04T05:53:51.907947+00:00
- - user: None
- - tags: []
-
-## Go Make Things
- - [https://gomakethings.com](https://gomakethings.com)
- - date published: 2023-10-25T14:47:03.838756+00:00
- - user: None
- - tags: []
-
-## Hey, I'm Gonz
- - [https://gonsanchezs.com](https://gonsanchezs.com)
- - date published: 2023-11-29T15:16:11.940294+00:00
- - user: None
- - tags: ['personal']
-
-## GonzoKnows - A minimal, responsive, and powerful personal website designed to educate others.
- - [https://gonzoknows.com](https://gonzoknows.com)
- - date published: 2023-10-25T14:47:06.140156+00:00
- - user: None
- - tags: []
-
-## Good e-Reader - E-Reader News and Reviews
- - [https://goodereader.com](https://goodereader.com)
- - date published: 2023-10-25T11:19:00.115619+00:00
- - user: None
- - tags: []
-
-## GMA - Good Morning America
- - [https://www.goodmorningamerica.com](https://www.goodmorningamerica.com)
- - date published: 2023-10-25T14:47:14.656778+00:00
- - user: None
- - tags: []
-
-## Goodreads
- - [https://www.goodreads.com](https://www.goodreads.com)
- - date published: 2023-10-29T14:35:04.185228+00:00
- - user: None
- - tags: ['books']
-
-## Sign in - Google Accounts
- - [https://accounts.google.com](https://accounts.google.com)
- - date published: 2023-12-13T16:04:41.466509+00:00
- - user: None
- - tags: []
-
-## Google for Developers - from AI and Cloud to Mobile and Web
- - [https://apis.google.com](https://apis.google.com)
- - date published: 2023-12-11T16:51:37.859216+00:00
- - user: None
- - tags: []
-
-## Google Arts & Culture
- - [https://artsandculture.google.com](https://artsandculture.google.com)
- - date published: 2023-10-25T14:47:24.929387+00:00
- - user: None
- - tags: []
-
-## ‎Bard - Chat Based AI Tool from Google, Powered by PaLM 2
- - [https://bard.google.com](https://bard.google.com)
- - date published: 2023-10-25T14:47:31.201724+00:00
- - user: None
- - tags: []
-
-## Google Bug Hunters
- - [https://bughunters.google.com](https://bughunters.google.com)
- - date published: 2023-12-14T04:38:33.745395+00:00
- - user: None
- - tags: []
-
-## Google Chrome - The Fast & Secure Web Browser Built to be Yours
- - [https://chrome.google.com](https://chrome.google.com)
- - date published: 2023-10-25T08:40:34.195093+00:00
- - user: None
- - tags: ['gatekeeper', 'web browser']
-
-## Chrome Web Store
- - [https://chromewebstore.google.com](https://chromewebstore.google.com)
- - date published: 2023-11-19T01:48:44.969811+00:00
- - user: None
- - tags: []
-
-## https://cloud.google.com
- - [https://cloud.google.com](https://cloud.google.com)
- - date published: 2023-10-25T14:47:43.318651+00:00
- - user: None
- - tags: []
-
-## Google Colab
- - [https://colab.research.google.com](https://colab.research.google.com)
- - date published: 2023-10-25T14:47:44.134292+00:00
- - user: None
- - tags: []
-
-## Programmable Search Engine by Google
- - [https://cse.google.com](https://cse.google.com)
- - date published: 2023-12-13T14:58:49.890684+00:00
- - user: None
- - tags: ['search engine']
 

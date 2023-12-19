@@ -1,3 +1,225 @@
+## uDiscoverMusic: discover more about the world’s greatest music
+ - [https://www.udiscovermusic.com](https://www.udiscovermusic.com)
+ - date published: 2023-10-25T17:52:15.234962+00:00
+ - user: None
+ - tags: []
+
+## United Electronic Industries (UEI) – DAQ, Test, HIL
+ - [https://www.ueidaq.com](https://www.ueidaq.com)
+ - date published: 2023-11-08T11:27:00.057057+00:00
+ - user: None
+ - tags: ['avionics', 'aerospace', 'aviation']
+
+## Umar Farooqi
+ - [https://www.ufarooqi.com](https://www.ufarooqi.com)
+ - date published: 2023-10-25T17:52:16.423224+00:00
+ - user: None
+ - tags: []
+
+## UniFi - Rethinking IT - Ubiquiti
+ - [https://ui.com](https://ui.com)
+ - date published: 2023-12-03T02:37:57.821475+00:00
+ - user: None
+ - tags: []
+
+## UkrAgroConsult - Агроконсалтинг світового рівня
+ - [https://ukragroconsult.com](https://ukragroconsult.com)
+ - date published: 2023-10-25T17:52:18.721581+00:00
+ - user: None
+ - tags: []
+
+## uLisp Forum
+ - [http://forum.ulisp.com](http://forum.ulisp.com)
+ - date published: 2023-10-25T17:52:20.268833+00:00
+ - user: None
+ - tags: []
+
+## ULRICH C. BEINERT
+ - [https://www.ulrich-beinert.com](https://www.ulrich-beinert.com)
+ - date published: 2023-12-14T06:53:47.768534+00:00
+ - user: None
+ - tags: ['personal']
+
+## Homepage
+ - [https://www.ultimaker.com](https://www.ultimaker.com)
+ - date published: 2023-10-27T10:18:12.589341+00:00
+ - user: None
+ - tags: ['corporate', '3d printing']
+
+## Jaybee's AmigaInABox!
+ - [https://aiab.ultimateamiga.com](https://aiab.ultimateamiga.com)
+ - date published: 2023-12-11T19:30:48.341909+00:00
+ - user: None
+ - tags: []
+
+## Amiga Christmas Tree 2023
+ - [https://amigachristmastree.ultimateamiga.com](https://amigachristmastree.ultimateamiga.com)
+ - date published: 2023-12-11T18:59:29.800047+00:00
+ - user: None
+ - tags: []
+
+## Ultimate Amiga
+ - [https://www.ultimateamiga.com](https://www.ultimateamiga.com)
+ - date published: 2023-12-11T19:31:08.267753+00:00
+ - user: None
+ - tags: []
+
+## Table of Contents | Ultimate Electronics Book
+ - [https://ultimateelectronicsbook.com](https://ultimateelectronicsbook.com)
+ - date published: 2023-10-25T17:52:21.797003+00:00
+ - user: None
+ - tags: []
+
+## Home - Ultimovacs
+ - [https://ultimovacs.com](https://ultimovacs.com)
+ - date published: 2023-10-25T17:52:23.798615+00:00
+ - user: None
+ - tags: []
+
+## UltraBoardGames | Reviews, tips, game rules and more. | UltraBoardGames
+ - [https://www.ultraboardgames.com](https://www.ultraboardgames.com)
+ - date published: 2023-10-25T11:19:43.994024+00:00
+ - user: None
+ - tags: []
+
+## Ultra FP64 – The Worlds First FPGA N64
+ - [https://www.ultrafp64.com](https://www.ultrafp64.com)
+ - date published: 2023-11-01T08:43:22.049092+00:00
+ - user: None
+ - tags: []
+
+## Umar Butler - A blog about law, technology and AI
+ - [https://umarbutler.com](https://umarbutler.com)
+ - date published: 2023-10-29T14:42:05.830955+00:00
+ - user: None
+ - tags: []
+
+## Una Vida Online
+ - [https://unavidaonline.com](https://unavidaonline.com)
+ - date published: 2023-11-29T14:17:47.665654+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Uncanny Magazine
+ - [https://uncannymagazine.com](https://uncannymagazine.com)
+ - date published: 2023-10-25T17:52:26.747785+00:00
+ - user: None
+ - tags: []
+
+## Unchained - Bitcoin, Ethereum, Crypto News and Resources
+ - [https://unchainedcrypto.com](https://unchainedcrypto.com)
+ - date published: 2023-10-25T17:52:29.771958+00:00
+ - user: None
+ - tags: []
+
+## Main Page
+ - [https://uncyclopedia.com](https://uncyclopedia.com)
+ - date published: 2023-10-27T13:10:24.269141+00:00
+ - user: None
+ - tags: []
+
+## Underpass App Company
+ - [https://underpassapp.com](https://underpassapp.com)
+ - date published: 2023-10-25T17:52:30.897766+00:00
+ - user: None
+ - tags: []
+
+## Understand Legacy Code | Understand Legacy Code
+ - [https://understandlegacycode.com](https://understandlegacycode.com)
+ - date published: 2023-10-25T17:52:32.315084+00:00
+ - user: None
+ - tags: []
+
+## Sign in
+ - [https://app.uneebee.com](https://app.uneebee.com)
+ - date published: 2023-11-18T09:11:01.611761+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Open-source tool for creating courses like Duolingo
+ - [https://uneebee.com](https://uneebee.com)
+ - date published: 2023-11-18T08:28:27+00:00
+ - user: None
+ - tags: []
+
+## Unencumbered by Facts – Taking unsubstantiation to new levels
+ - [https://unencumberedbyfacts.com](https://unencumberedbyfacts.com)
+ - date published: 2023-10-25T17:52:35.089789+00:00
+ - user: None
+ - tags: []
+
+## Unexecutive Coaching
+ - [https://unexecutive.com](https://unexecutive.com)
+ - date published: 2023-11-29T17:14:24.394728+00:00
+ - user: None
+ - tags: ['personal']
+
+## UnHerd | think again
+ - [https://unherd.com](https://unherd.com)
+ - date published: 2023-10-25T17:52:39.639011+00:00
+ - user: None
+ - tags: []
+
+## Unique Smartphones as Unique as You Are
+ - [https://www.unihertz.com](https://www.unihertz.com)
+ - date published: 2023-10-25T17:52:42.533323+00:00
+ - user: None
+ - tags: []
+
+## UNIHIKER - A single board computer brings you brand new experience.
+ - [https://www.unihiker.com](https://www.unihiker.com)
+ - date published: 2023-10-25T17:52:44.203207+00:00
+ - user: None
+ - tags: []
+
+## Latest News, Entertainment Stories And Viral Videos - UNILAD
+ - [https://www.unilad.com](https://www.unilad.com)
+ - date published: 2023-10-25T10:16:45.242033+00:00
+ - user: None
+ - tags: []
+
+## UnitedBSD
+ - [https://www.unitedbsd.com](https://www.unitedbsd.com)
+ - date published: 2023-10-25T17:52:45.497273+00:00
+ - user: None
+ - tags: []
+
+## United Nuclear , Scientific Equipment & Supplies
+ - [https://unitednuclear.com](https://unitednuclear.com)
+ - date published: 2023-10-25T17:52:48.419007+00:00
+ - user: None
+ - tags: []
+
+## Game Development Blog & Unity News | Unity Blog
+ - [https://blog.unity.com](https://blog.unity.com)
+ - date published: 2023-10-25T11:29:28.858327+00:00
+ - user: None
+ - tags: []
+
+## Unity Technologies - Investor relations
+ - [https://investors.unity.com](https://investors.unity.com)
+ - date published: 2023-10-25T17:52:49.862680+00:00
+ - user: None
+ - tags: []
+
+## Unity Real-Time Development Platform | 3D, 2D, VR & AR Engine
+ - [https://unity.com](https://unity.com)
+ - date published: 2023-10-25T08:39:27.798908+00:00
+ - user: None
+ - tags: ['game engine']
+
+## Unity Real-Time Development Platform | 3D, 2D, VR & AR Engine
+ - [https://unity3d.com](https://unity3d.com)
+ - date published: 2023-12-13T14:48:44+00:00
+ - user: rumpel
+ - tags: ['game engine', 'unity']
+
+## Unity Asset Store - The Best Assets for Game Making
+ - [https://www.assetstore.unity3d.com](https://www.assetstore.unity3d.com)
+ - date published: 2023-12-13T14:47:25+00:00
+ - user: rumpel
+ - tags: ['assets models']
+
 ## Universal-Sci
  - [https://www.universal-sci.com](https://www.universal-sci.com)
  - date published: 2023-10-25T17:52:51.756048+00:00
@@ -305,6 +527,12 @@
  - user: None
  - tags: []
 
+## Muhammad Usman
+ - [https://usmanity.com](https://usmanity.com)
+ - date published: 2023-12-18T22:38:16.558325+00:00
+ - user: None
+ - tags: ['personal']
+
 ## U.S. News & World Report: News, Rankings and Analysis on Politics, Education, Healthcare and More
  - [https://www.usnews.com](https://www.usnews.com)
  - date published: 2023-10-25T11:06:45.360963+00:00
@@ -605,6 +833,12 @@
  - user: None
  - tags: []
 
+## Vesko Iliev
+ - [https://www.veskoiliev.com](https://www.veskoiliev.com)
+ - date published: 2023-12-18T22:38:34.003079+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Global Leader in Sustainable Energy | Vestas
  - [https://www.vestas.com](https://www.vestas.com)
  - date published: 2023-10-25T17:56:06.586790+00:00
@@ -722,6 +956,12 @@
 ## Show HN: Unofficial YouTube Wrapped 2023, see top creators and watching habits
  - [https://videorecap.viewodyssey.com](https://videorecap.viewodyssey.com)
  - date published: 2023-12-01T18:26:03+00:00
+ - user: None
+ - tags: []
+
+## ViewStats – YouTube Channel Statistics
+ - [https://www.viewstats.com](https://www.viewstats.com)
+ - date published: 2023-12-18T11:44:54+00:00
  - user: None
  - tags: []
 
@@ -1173,6 +1413,12 @@
 ## Wallpapers.com | 1,500,000+ Free HD Wallpapers for Desktop, Mobiles & Tablets
  - [https://wallpapers.com](https://wallpapers.com)
  - date published: 2023-10-25T16:30:58.046543+00:00
+ - user: None
+ - tags: []
+
+## Walmart has deals on the most-wanted gifts
+ - [https://www.walmart.com](https://www.walmart.com)
+ - date published: 2023-12-18T10:21:10.339974+00:00
  - user: None
  - tags: []
 
@@ -1662,6 +1908,12 @@
  - user: None
  - tags: []
 
+## Wes Wyatt
+ - [https://www.weswyatt.com](https://www.weswyatt.com)
+ - date published: 2023-12-18T01:34:44.477408+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Access Denied
  - [https://www.wfaa.com](https://www.wfaa.com)
  - date published: 2023-10-27T11:56:51.812151+00:00
@@ -1842,6 +2094,12 @@
  - user: None
  - tags: []
 
+## Why Are Things Expensive?
+ - [https://www.why-expensive.com](https://www.why-expensive.com)
+ - date published: 2023-12-18T15:19:30+00:00
+ - user: None
+ - tags: []
+
 ## Why Do We Interface?
  - [https://whydoweinterface.com](https://whydoweinterface.com)
  - date published: 2023-10-25T18:04:25.390477+00:00
@@ -1917,6 +2175,12 @@
 ## Wild Rift Builds & Guides :: WildRiftFire
  - [https://www.wildriftfire.com](https://www.wildriftfire.com)
  - date published: 2023-12-13T16:19:43.043237+00:00
+ - user: None
+ - tags: []
+
+## https://acsjournals.onlinelibrary.wiley.com
+ - [https://acsjournals.onlinelibrary.wiley.com](https://acsjournals.onlinelibrary.wiley.com)
+ - date published: 2023-12-18T13:54:11.898210+00:00
  - user: None
  - tags: []
 
@@ -2693,6 +2957,12 @@
  - date published: 2023-10-25T18:12:05.460382+00:00
  - user: None
  - tags: []
+
+## Garen McMillian
+ - [https://garenmcmilliandotcom.wordpress.com](https://garenmcmilliandotcom.wordpress.com)
+ - date published: 2023-12-18T22:40:13.835646+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Mara Waka – _________________________________
  - [https://geekstravelinjapan.wordpress.com](https://geekstravelinjapan.wordpress.com)
@@ -5728,276 +5998,6 @@ home
 ## A world where people pay for software
  - [https://1sub.dev](https://1sub.dev)
  - date published: 2023-10-25T18:34:35.457611+00:00
- - user: None
- - tags: []
-
-## It works
- - [https://blog.aawadia.dev](https://blog.aawadia.dev)
- - date published: 2023-10-25T18:34:36.448442+00:00
- - user: None
- - tags: []
-
-## Aerolite Studios
- - [https://aerolite.dev](https://aerolite.dev)
- - date published: 2023-10-25T18:34:37.299684+00:00
- - user: None
- - tags: []
-
-## Airplane | The developer platform for internal tools
- - [https://www.airplane.dev](https://www.airplane.dev)
- - date published: 2023-10-25T18:34:38.548749+00:00
- - user: None
- - tags: []
-
-## AksDev
- - [https://www.akselmo.dev](https://www.akselmo.dev)
- - date published: 2023-10-25T18:34:39.206217+00:00
- - user: None
- - tags: []
-
-## Alex Saveau | https://alexsaveau.dev
- - [https://alexsaveau.dev](https://alexsaveau.dev)
- - date published: 2023-10-25T18:34:44.776986+00:00
- - user: None
- - tags: []
-
-## Adrian Alic - Blogging about High-Performance Systems
- - [https://alic.dev](https://alic.dev)
- - date published: 2023-10-25T08:48:21.706613+00:00
- - user: None
- - tags: ['personal']
-
-## Alpine.js
- - [https://alpinejs.dev](https://alpinejs.dev)
- - date published: 2023-10-25T18:34:45.599743+00:00
- - user: None
- - tags: []
-
-## Technical blog by Alexander Ameye.
- - [https://ameye.dev](https://ameye.dev)
- - date published: 2023-10-25T18:34:46.760527+00:00
- - user: None
- - tags: []
-
-## Amoenus Dev
- - [https://amoenus.dev](https://amoenus.dev)
- - date published: 2023-12-07T17:36:20.416462+00:00
- - user: None
- - tags: ['personal']
-
-## Show HN: Anchor – developer-friendly private CAs for internal TLS
- - [https://anchor.dev](https://anchor.dev)
- - date published: 2023-11-01T14:17:14+00:00
- - user: None
- - tags: []
-
-## Effortless Encryption
- - [https://blog.anchor.dev](https://blog.anchor.dev)
- - date published: 2023-11-01T14:43:17.307157+00:00
- - user: None
- - tags: []
-
-## API RANK | Benchmarks of public APIs, by Escape
- - [https://apirank.dev](https://apirank.dev)
- - date published: 2023-10-25T18:34:50.703389+00:00
- - user: None
- - tags: []
-
-## Envoy Playground
- - [https://envoy-playground.apoxy.dev](https://envoy-playground.apoxy.dev)
- - date published: 2023-10-25T18:34:51.661054+00:00
- - user: None
- - tags: []
-
-## Archsense | Architecture visualization
- - [https://www.archsense.dev](https://www.archsense.dev)
- - date published: 2023-10-25T18:34:53.556550+00:00
- - user: None
- - tags: []
-
-## Argbash: Bash argument parsing made easy
- - [https://argbash.dev](https://argbash.dev)
- - date published: 2023-10-25T18:34:54.594624+00:00
- - user: None
- - tags: []
-
-## Introducing Darwin: An Evolutionary App Framework
- - [https://evolutionary.arweave.dev](https://evolutionary.arweave.dev)
- - date published: 2023-10-25T18:34:55.983152+00:00
- - user: None
- - tags: []
-
-## Freelance software consultant - Asko Nõmm
- - [https://asko.dev](https://asko.dev)
- - date published: 2023-10-25T18:34:56.669192+00:00
- - user: None
- - tags: []
-
-## Auth.js
- - [https://authjs.dev](https://authjs.dev)
- - date published: 2023-10-25T18:34:57.550961+00:00
- - user: None
- - tags: []
-
-## Avestura's Blog
- - [https://avestura.dev](https://avestura.dev)
- - date published: 2023-10-25T18:34:58.986618+00:00
- - user: None
- - tags: []
-
-## The AWK Programming Language, Second Edition
- - [https://awk.dev](https://awk.dev)
- - date published: 2023-10-25T18:35:00.619087+00:00
- - user: None
- - tags: []
-
-## The AWK Programming Language, Second Edition
- - [https://www.awk.dev](https://www.awk.dev)
- - date published: 2023-10-27T11:56:59.977208+00:00
- - user: None
- - tags: []
-
-## axo blog - System dependencies are hard (so we made them easier)
- - [https://blog.axo.dev](https://blog.axo.dev)
- - date published: 2023-10-25T18:35:02.657023+00:00
- - user: None
- - tags: []
-
-## Banner Blog
- - [https://bannerblog.dev](https://bannerblog.dev)
- - date published: 2023-12-11T10:34:13.452233+00:00
- - user: None
- - tags: ['blog platform']
-
-## Eduardo Bautista
- - [https://www.bautista.dev](https://www.bautista.dev)
- - date published: 2023-10-25T18:35:03.411669+00:00
- - user: None
- - tags: []
-
-## Barely Managing
- - [https://barely-managing.bearblog.dev](https://barely-managing.bearblog.dev)
- - date published: 2023-10-25T18:35:04.253109+00:00
- - user: None
- - tags: []
-
-## Blub's Blog
- - [https://blubsblog.bearblog.dev](https://blubsblog.bearblog.dev)
- - date published: 2023-10-25T18:35:05.034243+00:00
- - user: None
- - tags: []
-
-## a rickety bridge of impossible crossing
- - [https://bluelander.bearblog.dev](https://bluelander.bearblog.dev)
- - date published: 2023-10-25T18:35:09.913884+00:00
- - user: None
- - tags: []
-
-## Chatterhead Says
- - [https://chatterhead.bearblog.dev](https://chatterhead.bearblog.dev)
- - date published: 2023-10-25T18:35:10.696893+00:00
- - user: None
- - tags: []
-
-## ❀°。Deijin's Blog
- - [https://deijin.bearblog.dev](https://deijin.bearblog.dev)
- - date published: 2023-10-25T09:21:34.845060+00:00
- - user: None
- - tags: ['personal']
-
-## garden of eden
- - [https://eden.bearblog.dev](https://eden.bearblog.dev)
- - date published: 2023-10-25T18:35:11.866612+00:00
- - user: None
- - tags: []
-
-## Thoughts on Software
- - [https://gordonc.bearblog.dev](https://gordonc.bearblog.dev)
- - date published: 2023-10-25T18:35:17.641679+00:00
- - user: None
- - tags: []
-
-## ᕕ( ᐛ )ᕗ Herman's blog
- - [https://herman.bearblog.dev](https://herman.bearblog.dev)
- - date published: 2023-10-25T09:21:35.599140+00:00
- - user: None
- - tags: ['personal']
-
-## Thoughtless Acts
- - [https://klint.bearblog.dev](https://klint.bearblog.dev)
- - date published: 2023-10-25T18:35:18.290671+00:00
- - user: None
- - tags: []
-
-## Labskausleben
- - [https://labskausleben.bearblog.dev](https://labskausleben.bearblog.dev)
- - date published: 2023-10-25T18:35:19.024762+00:00
- - user: None
- - tags: []
-
-## (map #(discard %) opinions)
- - [https://lrios.bearblog.dev](https://lrios.bearblog.dev)
- - date published: 2023-10-25T18:35:20.262209+00:00
- - user: None
- - tags: []
-
-## Nicky's Blog
- - [https://nicky.bearblog.dev](https://nicky.bearblog.dev)
- - date published: 2023-10-25T09:21:36.275587+00:00
- - user: None
- - tags: ['personal']
-
-## 📚 Austin Merrick’s Blog
- - [https://onsclom.bearblog.dev](https://onsclom.bearblog.dev)
- - date published: 2023-10-25T09:21:36.944070+00:00
- - user: None
- - tags: ['personal']
-
-## Roger González Gutiérrez
- - [https://rogermexico.bearblog.dev](https://rogermexico.bearblog.dev)
- - date published: 2023-10-25T09:21:37.575707+00:00
- - user: None
- - tags: ['personal']
-
-## Rough Drafts
- - [https://sebastian.bearblog.dev](https://sebastian.bearblog.dev)
- - date published: 2023-10-25T18:35:21.788286+00:00
- - user: None
- - tags: []
-
-## yours, tiramisú
- - [https://tiramisu.bearblog.dev](https://tiramisu.bearblog.dev)
- - date published: 2023-10-25T18:35:24.282963+00:00
- - user: None
- - tags: []
-
-## Mellow Root
- - [https://tmp.bearblog.dev](https://tmp.bearblog.dev)
- - date published: 2023-10-25T18:35:27.261202+00:00
- - user: None
- - tags: []
-
-## <(^.^)> tsuki
- - [https://tsk.bearblog.dev](https://tsk.bearblog.dev)
- - date published: 2023-10-25T18:35:30.893321+00:00
- - user: None
- - tags: []
-
-## Vladar's Blog
- - [https://vladar.bearblog.dev](https://vladar.bearblog.dev)
- - date published: 2023-10-25T08:48:22.451942+00:00
- - user: None
- - tags: ['personal']
-
-## Ben Greenberg | Developer Advocate
- - [https://www.bengreenberg.dev](https://www.bengreenberg.dev)
- - date published: 2023-10-25T08:48:23.203398+00:00
- - user: None
- - tags: ['personal']
-
-## Benthos Studio
- - [https://studio.benthos.dev](https://studio.benthos.dev)
- - date published: 2023-10-25T18:35:33.542869+00:00
  - user: None
  - tags: []
 

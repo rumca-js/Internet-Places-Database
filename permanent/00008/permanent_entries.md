@@ -1,3 +1,183 @@
+## These Foolish Games | Bill Willingham | Substack
+ - [https://billwillingham.substack.com](https://billwillingham.substack.com)
+ - date published: 2023-10-25T09:43:54.589904+00:00
+ - user: None
+ - tags: ['substack']
+
+## Bit Byte Bit | Zarar Siddiqi | Substack
+ - [https://bitbytebit.substack.com](https://bitbytebit.substack.com)
+ - date published: 2023-10-25T09:43:57.102966+00:00
+ - user: None
+ - tags: ['substack']
+
+## Bite code! | Substack
+ - [https://bitecode.substack.com](https://bitecode.substack.com)
+ - date published: 2023-10-25T09:44:01.792299+00:00
+ - user: None
+ - tags: ['substack']
+
+## Bit Maybe Wise | Hercules Merscher | Substack
+ - [https://bitmaybewise.substack.com](https://bitmaybewise.substack.com)
+ - date published: 2023-10-25T09:44:04.612495+00:00
+ - user: None
+ - tags: ['substack']
+
+## Block21M  | Substack
+ - [https://block21m.substack.com](https://block21m.substack.com)
+ - date published: 2023-10-25T09:44:05.855908+00:00
+ - user: None
+ - tags: ['substack']
+
+## Boring AppSec | Sandesh Mysore Anand | Substack
+ - [https://boringappsec.substack.com](https://boringappsec.substack.com)
+ - date published: 2023-10-25T09:44:12.761319+00:00
+ - user: None
+ - tags: ['substack']
+
+## Both Are True | Alex Dobrenko` | Substack
+ - [https://botharetrue.substack.com](https://botharetrue.substack.com)
+ - date published: 2023-10-25T17:18:55.964983+00:00
+ - user: None
+ - tags: []
+
+## Brain Pizza by Shane O'Mara | Substack
+ - [https://brainpizza.substack.com](https://brainpizza.substack.com)
+ - date published: 2023-10-25T09:44:15.485628+00:00
+ - user: None
+ - tags: ['substack']
+
+## Bretton Goods | Pradyumna Prasad | Substack
+ - [https://brettongoods.substack.com](https://brettongoods.substack.com)
+ - date published: 2023-10-25T09:44:23.031308+00:00
+ - user: None
+ - tags: ['substack']
+
+## Altered States of Monetary Consciousness | Brett Scott | Substack
+ - [https://brettscott.substack.com](https://brettscott.substack.com)
+ - date published: 2023-10-25T09:44:25.834898+00:00
+ - user: None
+ - tags: ['substack']
+
+## Build In Public Newsletter | KP | Substack
+ - [https://buildinpublichub.substack.com](https://buildinpublichub.substack.com)
+ - date published: 2023-10-25T09:44:28.188768+00:00
+ - user: None
+ - tags: ['substack']
+
+## button mash | Alanna Okun | Substack
+ - [https://buttonmash.substack.com](https://buttonmash.substack.com)
+ - date published: 2023-10-25T09:44:29.640025+00:00
+ - user: None
+ - tags: ['substack']
+
+## Bytes, Data, Action! | Blake Burch | Substack
+ - [https://bytesdataaction.substack.com](https://bytesdataaction.substack.com)
+ - date published: 2023-10-25T09:44:30.830112+00:00
+ - user: None
+ - tags: ['substack']
+
+## Bzogramming | Charles Rosenbauer | Substack
+ - [https://bzogrammer.substack.com](https://bzogrammer.substack.com)
+ - date published: 2023-10-25T09:44:33.337037+00:00
+ - user: None
+ - tags: ['substack']
+
+## Mediations with Candost | Candost Dagdeviren | Substack
+ - [https://candost.substack.com](https://candost.substack.com)
+ - date published: 2023-11-29T14:20:57.397858+00:00
+ - user: None
+ - tags: ['personal']
+
+## High Growth Engineer | Jordan Cutler | Substack
+ - [https://careercutler.substack.com](https://careercutler.substack.com)
+ - date published: 2023-10-25T09:44:36.073675+00:00
+ - user: None
+ - tags: ['substack']
+
+## Codon | Niko McCarty | Substack
+ - [https://cell.substack.com](https://cell.substack.com)
+ - date published: 2023-10-25T09:44:41.858083+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Century of Biology | Elliot Hershberg | Substack
+ - [https://centuryofbio.substack.com](https://centuryofbio.substack.com)
+ - date published: 2023-10-25T09:44:44.711477+00:00
+ - user: None
+ - tags: ['substack']
+
+## Chamath Palihapitiya | Substack
+ - [https://chamathreads.substack.com](https://chamathreads.substack.com)
+ - date published: 2023-10-25T09:44:47.316484+00:00
+ - user: None
+ - tags: ['substack']
+
+## Chipmonk Meditations | Chris Lakin | Substack
+ - [https://chipmonk.substack.com](https://chipmonk.substack.com)
+ - date published: 2023-11-27T04:46:41.596650+00:00
+ - user: None
+ - tags: []
+
+## Chris’s Substack | Chris Prophet | Substack
+ - [https://chrisprophet.substack.com](https://chrisprophet.substack.com)
+ - date published: 2023-10-25T09:45:06.416073+00:00
+ - user: None
+ - tags: ['substack']
+
+## Cintra Wilson Feels Your Pain  | Substack
+ - [https://cintra.substack.com](https://cintra.substack.com)
+ - date published: 2023-10-25T09:45:10.409537+00:00
+ - user: None
+ - tags: ['substack']
+
+## Confessions of a Code Addict | Abhinav Upadhyay | Substack
+ - [https://codeconfessions.substack.com](https://codeconfessions.substack.com)
+ - date published: 2023-10-25T09:45:27.076430+00:00
+ - user: None
+ - tags: ['substack']
+
+## Code Solo | Yanis | Substack
+ - [https://codesolo.substack.com](https://codesolo.substack.com)
+ - date published: 2023-10-25T09:45:28.678536+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Cognitive Revolution | Substack
+ - [https://cognitiverevolution.substack.com](https://cognitiverevolution.substack.com)
+ - date published: 2023-10-25T09:45:30.818465+00:00
+ - user: None
+ - tags: ['substack']
+
+## Retrieve and Generate | Colin Harman | Substack
+ - [https://colinharman.substack.com](https://colinharman.substack.com)
+ - date published: 2023-10-25T09:45:35.919003+00:00
+ - user: None
+ - tags: ['substack']
+
+## Console by CodeSee.io | Ana Mogul | Substack
+ - [https://console.substack.com](https://console.substack.com)
+ - date published: 2023-10-25T09:45:46.563026+00:00
+ - user: None
+ - tags: ['substack']
+
+## Construction Physics | Brian Potter | Substack
+ - [https://constructionphysics.substack.com](https://constructionphysics.substack.com)
+ - date published: 2023-10-25T09:45:48.661751+00:00
+ - user: None
+ - tags: ['substack']
+
+## Counter Craft | Lincoln Michel | Substack
+ - [https://countercraft.substack.com](https://countercraft.substack.com)
+ - date published: 2023-10-25T09:45:50.861755+00:00
+ - user: None
+ - tags: ['substack']
+
+## Cremieux Recueil | Substack
+ - [https://cremieux.substack.com](https://cremieux.substack.com)
+ - date published: 2023-10-25T09:46:00.855999+00:00
+ - user: None
+ - tags: ['substack']
+
 ## 0xStacker's Newsletter | Sistine Research | Substack
  - [https://cryptostackers.substack.com](https://cryptostackers.substack.com)
  - date published: 2023-10-25T09:46:07.799448+00:00
@@ -1696,6 +1876,18 @@
  - user: None
  - tags: []
 
+## renegat0x0 site
+ - [https://cdn.taboola.com](https://cdn.taboola.com)
+ - date published: 2023-12-18T17:19:26.211579+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://trc.taboola.com](https://trc.taboola.com)
+ - date published: 2023-12-18T17:16:54.076202+00:00
+ - user: None
+ - tags: []
+
 ## Tailscale · Best VPN Service for Secure Networks
  - [https://tailscale.com](https://tailscale.com)
  - date published: 2023-10-25T17:22:17.414679+00:00
@@ -2320,6 +2512,12 @@
  - user: None
  - tags: []
 
+## Terrapin Attack for prefix truncation in SSH
+ - [https://terrapin-attack.com](https://terrapin-attack.com)
+ - date published: 2023-12-18T16:47:14+00:00
+ - user: None
+ - tags: []
+
 ## Terrastruct
  - [https://terrastruct.com](https://terrastruct.com)
  - date published: 2023-10-27T08:52:26.171059+00:00
@@ -2661,6 +2859,12 @@
  - date published: 2023-10-25T17:29:35.515805+00:00
  - user: None
  - tags: []
+
+## Homepage - JOHN EYE PRODUCTIONS / BEACH HOUSE STUDIOS
+ - [https://www.thebeachhousestudios.com](https://www.thebeachhousestudios.com)
+ - date published: 2023-12-18T01:35:28.625007+00:00
+ - user: None
+ - tags: ['personal']
 
 ## The Beauty of Transport – Transport design, transport architecture, and transport's influence on art and culture. Part travelogue, part history, all transport (but sometimes tangentially so)
  - [https://thebeautyoftransport.com](https://thebeautyoftransport.com)
@@ -3749,6 +3953,12 @@
  - user: None
  - tags: []
 
+## The StoryGraph
+ - [https://app.thestorygraph.com](https://app.thestorygraph.com)
+ - date published: 2023-12-18T23:09:38.819981+00:00
+ - user: None
+ - tags: []
+
 ## Homepage - The Storytellers
  - [https://thestorytellers.com](https://thestorytellers.com)
  - date published: 2023-10-25T17:39:20.175714+00:00
@@ -4200,6 +4410,12 @@
  - user: None
  - tags: []
 
+## Ticketac - Billetterie Théâtre Humour Concerts Musées Loisirs
+ - [https://www.ticketac.com](https://www.ticketac.com)
+ - date published: 2023-12-18T17:10:46.763826+00:00
+ - user: None
+ - tags: []
+
 ## TidBITS - Thoughtful, detailed coverage of everything Apple for 33 years
  - [https://tidbits.com](https://tidbits.com)
  - date published: 2023-10-25T17:41:45.086836+00:00
@@ -4474,7 +4690,7 @@
  - [https://tinyurl.com](https://tinyurl.com)
  - date published: 2023-12-11T16:53:21.642934+00:00
  - user: None
- - tags: []
+ - tags: ['link service']
 
 ## Tipp10 - Free Touch Typing Tutor | Online and Software Training
  - [https://www.tipp10.com](https://www.tipp10.com)
@@ -4685,6 +4901,12 @@
  - date published: 2023-10-25T17:44:16.928207+00:00
  - user: None
  - tags: []
+
+## Home
+ - [https://tonyendelman.com](https://tonyendelman.com)
+ - date published: 2023-12-18T01:36:02.598581+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Beginnings | Tony Kulesa | Substack
  - [https://www.tonykulesa.com](https://www.tonykulesa.com)
@@ -5779,226 +6001,4 @@
  - date published: 2023-10-24T20:19:37.720048+00:00
  - user: None
  - tags: ['skills', 'tutorials']
-
-## uDiscoverMusic: discover more about the world’s greatest music
- - [https://www.udiscovermusic.com](https://www.udiscovermusic.com)
- - date published: 2023-10-25T17:52:15.234962+00:00
- - user: None
- - tags: []
-
-## United Electronic Industries (UEI) – DAQ, Test, HIL
- - [https://www.ueidaq.com](https://www.ueidaq.com)
- - date published: 2023-11-08T11:27:00.057057+00:00
- - user: None
- - tags: ['avionics', 'aerospace', 'aviation']
-
-## Umar Farooqi
- - [https://www.ufarooqi.com](https://www.ufarooqi.com)
- - date published: 2023-10-25T17:52:16.423224+00:00
- - user: None
- - tags: []
-
-## UniFi - Rethinking IT - Ubiquiti
- - [https://ui.com](https://ui.com)
- - date published: 2023-12-03T02:37:57.821475+00:00
- - user: None
- - tags: []
-
-## UkrAgroConsult - Агроконсалтинг світового рівня
- - [https://ukragroconsult.com](https://ukragroconsult.com)
- - date published: 2023-10-25T17:52:18.721581+00:00
- - user: None
- - tags: []
-
-## uLisp Forum
- - [http://forum.ulisp.com](http://forum.ulisp.com)
- - date published: 2023-10-25T17:52:20.268833+00:00
- - user: None
- - tags: []
-
-## ULRICH C. BEINERT
- - [https://www.ulrich-beinert.com](https://www.ulrich-beinert.com)
- - date published: 2023-12-14T06:53:47.768534+00:00
- - user: None
- - tags: ['personal']
-
-## Homepage
- - [https://www.ultimaker.com](https://www.ultimaker.com)
- - date published: 2023-10-27T10:18:12.589341+00:00
- - user: None
- - tags: ['corporate', '3d printing']
-
-## Jaybee's AmigaInABox!
- - [https://aiab.ultimateamiga.com](https://aiab.ultimateamiga.com)
- - date published: 2023-12-11T19:30:48.341909+00:00
- - user: None
- - tags: []
-
-## Amiga Christmas Tree 2023
- - [https://amigachristmastree.ultimateamiga.com](https://amigachristmastree.ultimateamiga.com)
- - date published: 2023-12-11T18:59:29.800047+00:00
- - user: None
- - tags: []
-
-## Ultimate Amiga
- - [https://www.ultimateamiga.com](https://www.ultimateamiga.com)
- - date published: 2023-12-11T19:31:08.267753+00:00
- - user: None
- - tags: []
-
-## Table of Contents | Ultimate Electronics Book
- - [https://ultimateelectronicsbook.com](https://ultimateelectronicsbook.com)
- - date published: 2023-10-25T17:52:21.797003+00:00
- - user: None
- - tags: []
-
-## Home - Ultimovacs
- - [https://ultimovacs.com](https://ultimovacs.com)
- - date published: 2023-10-25T17:52:23.798615+00:00
- - user: None
- - tags: []
-
-## UltraBoardGames | Reviews, tips, game rules and more. | UltraBoardGames
- - [https://www.ultraboardgames.com](https://www.ultraboardgames.com)
- - date published: 2023-10-25T11:19:43.994024+00:00
- - user: None
- - tags: []
-
-## Ultra FP64 – The Worlds First FPGA N64
- - [https://www.ultrafp64.com](https://www.ultrafp64.com)
- - date published: 2023-11-01T08:43:22.049092+00:00
- - user: None
- - tags: []
-
-## Umar Butler - A blog about law, technology and AI
- - [https://umarbutler.com](https://umarbutler.com)
- - date published: 2023-10-29T14:42:05.830955+00:00
- - user: None
- - tags: []
-
-## Una Vida Online
- - [https://unavidaonline.com](https://unavidaonline.com)
- - date published: 2023-11-29T14:17:47.665654+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Uncanny Magazine
- - [https://uncannymagazine.com](https://uncannymagazine.com)
- - date published: 2023-10-25T17:52:26.747785+00:00
- - user: None
- - tags: []
-
-## Unchained - Bitcoin, Ethereum, Crypto News and Resources
- - [https://unchainedcrypto.com](https://unchainedcrypto.com)
- - date published: 2023-10-25T17:52:29.771958+00:00
- - user: None
- - tags: []
-
-## Main Page
- - [https://uncyclopedia.com](https://uncyclopedia.com)
- - date published: 2023-10-27T13:10:24.269141+00:00
- - user: None
- - tags: []
-
-## Underpass App Company
- - [https://underpassapp.com](https://underpassapp.com)
- - date published: 2023-10-25T17:52:30.897766+00:00
- - user: None
- - tags: []
-
-## Understand Legacy Code | Understand Legacy Code
- - [https://understandlegacycode.com](https://understandlegacycode.com)
- - date published: 2023-10-25T17:52:32.315084+00:00
- - user: None
- - tags: []
-
-## Sign in
- - [https://app.uneebee.com](https://app.uneebee.com)
- - date published: 2023-11-18T09:11:01.611761+00:00
- - user: None
- - tags: []
-
-## Show HN: Open-source tool for creating courses like Duolingo
- - [https://uneebee.com](https://uneebee.com)
- - date published: 2023-11-18T08:28:27+00:00
- - user: None
- - tags: []
-
-## Unencumbered by Facts – Taking unsubstantiation to new levels
- - [https://unencumberedbyfacts.com](https://unencumberedbyfacts.com)
- - date published: 2023-10-25T17:52:35.089789+00:00
- - user: None
- - tags: []
-
-## Unexecutive Coaching
- - [https://unexecutive.com](https://unexecutive.com)
- - date published: 2023-11-29T17:14:24.394728+00:00
- - user: None
- - tags: ['personal']
-
-## UnHerd | think again
- - [https://unherd.com](https://unherd.com)
- - date published: 2023-10-25T17:52:39.639011+00:00
- - user: None
- - tags: []
-
-## Unique Smartphones as Unique as You Are
- - [https://www.unihertz.com](https://www.unihertz.com)
- - date published: 2023-10-25T17:52:42.533323+00:00
- - user: None
- - tags: []
-
-## UNIHIKER - A single board computer brings you brand new experience.
- - [https://www.unihiker.com](https://www.unihiker.com)
- - date published: 2023-10-25T17:52:44.203207+00:00
- - user: None
- - tags: []
-
-## Latest News, Entertainment Stories And Viral Videos - UNILAD
- - [https://www.unilad.com](https://www.unilad.com)
- - date published: 2023-10-25T10:16:45.242033+00:00
- - user: None
- - tags: []
-
-## UnitedBSD
- - [https://www.unitedbsd.com](https://www.unitedbsd.com)
- - date published: 2023-10-25T17:52:45.497273+00:00
- - user: None
- - tags: []
-
-## United Nuclear , Scientific Equipment & Supplies
- - [https://unitednuclear.com](https://unitednuclear.com)
- - date published: 2023-10-25T17:52:48.419007+00:00
- - user: None
- - tags: []
-
-## Game Development Blog & Unity News | Unity Blog
- - [https://blog.unity.com](https://blog.unity.com)
- - date published: 2023-10-25T11:29:28.858327+00:00
- - user: None
- - tags: []
-
-## Unity Technologies - Investor relations
- - [https://investors.unity.com](https://investors.unity.com)
- - date published: 2023-10-25T17:52:49.862680+00:00
- - user: None
- - tags: []
-
-## Unity Real-Time Development Platform | 3D, 2D, VR & AR Engine
- - [https://unity.com](https://unity.com)
- - date published: 2023-10-25T08:39:27.798908+00:00
- - user: None
- - tags: ['game engine']
-
-## Unity Real-Time Development Platform | 3D, 2D, VR & AR Engine
- - [https://unity3d.com](https://unity3d.com)
- - date published: 2023-12-13T14:48:44+00:00
- - user: rumpel
- - tags: ['game engine', 'unity']
-
-## Unity Asset Store - The Best Assets for Game Making
- - [https://www.assetstore.unity3d.com](https://www.assetstore.unity3d.com)
- - date published: 2023-12-13T14:47:25+00:00
- - user: rumpel
- - tags: ['assets models']
 

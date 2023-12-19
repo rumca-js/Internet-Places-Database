@@ -1,3 +1,123 @@
+## Going Medieval
+ - [https://going-medieval.com](https://going-medieval.com)
+ - date published: 2023-11-09T21:44:17.263991+00:00
+ - user: None
+ - tags: ['history', 'medieval']
+
+## Golang Example
+ - [https://golangexample.com](https://golangexample.com)
+ - date published: 2023-10-25T14:47:01.485858+00:00
+ - user: None
+ - tags: []
+
+## Goldman Sachs
+ - [https://www.goldmansachs.com](https://www.goldmansachs.com)
+ - date published: 2023-10-25T11:29:34.688123+00:00
+ - user: None
+ - tags: []
+
+## Cosmos
+ - [https://blog.golivecosmos.com](https://blog.golivecosmos.com)
+ - date published: 2023-12-04T05:53:51.907947+00:00
+ - user: None
+ - tags: []
+
+## Go Make Things
+ - [https://gomakethings.com](https://gomakethings.com)
+ - date published: 2023-10-25T14:47:03.838756+00:00
+ - user: None
+ - tags: []
+
+## Hey, I'm Gonz
+ - [https://gonsanchezs.com](https://gonsanchezs.com)
+ - date published: 2023-11-29T15:16:11.940294+00:00
+ - user: None
+ - tags: ['personal']
+
+## GonzoKnows - A minimal, responsive, and powerful personal website designed to educate others.
+ - [https://gonzoknows.com](https://gonzoknows.com)
+ - date published: 2023-10-25T14:47:06.140156+00:00
+ - user: None
+ - tags: []
+
+## Good e-Reader - E-Reader News and Reviews
+ - [https://goodereader.com](https://goodereader.com)
+ - date published: 2023-10-25T11:19:00.115619+00:00
+ - user: None
+ - tags: []
+
+## GMA - Good Morning America
+ - [https://www.goodmorningamerica.com](https://www.goodmorningamerica.com)
+ - date published: 2023-10-25T14:47:14.656778+00:00
+ - user: None
+ - tags: []
+
+## Goodreads
+ - [https://www.goodreads.com](https://www.goodreads.com)
+ - date published: 2023-10-29T14:35:04.185228+00:00
+ - user: None
+ - tags: ['books']
+
+## Sign in - Google Accounts
+ - [https://accounts.google.com](https://accounts.google.com)
+ - date published: 2023-12-13T16:04:41.466509+00:00
+ - user: None
+ - tags: []
+
+## Google for Developers - from AI and Cloud to Mobile and Web
+ - [https://apis.google.com](https://apis.google.com)
+ - date published: 2023-12-11T16:51:37.859216+00:00
+ - user: None
+ - tags: []
+
+## Google Arts & Culture
+ - [https://artsandculture.google.com](https://artsandculture.google.com)
+ - date published: 2023-10-25T14:47:24.929387+00:00
+ - user: None
+ - tags: []
+
+## ‎Bard - Chat Based AI Tool from Google, Powered by PaLM 2
+ - [https://bard.google.com](https://bard.google.com)
+ - date published: 2023-10-25T14:47:31.201724+00:00
+ - user: None
+ - tags: []
+
+## Google Bug Hunters
+ - [https://bughunters.google.com](https://bughunters.google.com)
+ - date published: 2023-12-14T04:38:33.745395+00:00
+ - user: None
+ - tags: []
+
+## Google Chrome - The Fast & Secure Web Browser Built to be Yours
+ - [https://chrome.google.com](https://chrome.google.com)
+ - date published: 2023-10-25T08:40:34.195093+00:00
+ - user: None
+ - tags: ['gatekeeper', 'web browser']
+
+## Chrome Web Store
+ - [https://chromewebstore.google.com](https://chromewebstore.google.com)
+ - date published: 2023-11-19T01:48:44.969811+00:00
+ - user: None
+ - tags: []
+
+## https://cloud.google.com
+ - [https://cloud.google.com](https://cloud.google.com)
+ - date published: 2023-10-25T14:47:43.318651+00:00
+ - user: None
+ - tags: []
+
+## Google Colab
+ - [https://colab.research.google.com](https://colab.research.google.com)
+ - date published: 2023-10-25T14:47:44.134292+00:00
+ - user: None
+ - tags: []
+
+## Programmable Search Engine by Google
+ - [https://cse.google.com](https://cse.google.com)
+ - date published: 2023-12-13T14:58:49.890684+00:00
+ - user: None
+ - tags: ['search engine']
+
 ## Google for Developers - from AI and Cloud to Mobile and Web
  - [https://developers.google.com](https://developers.google.com)
  - date published: 2023-12-11T19:07:49.858032+00:00
@@ -39,6 +159,12 @@
  - date published: 2023-10-25T08:24:45.052104+00:00
  - user: None
  - tags: ['gatekeeper', 'map']
+
+## Before you continue
+ - [https://news.google.com](https://news.google.com)
+ - date published: 2023-12-18T17:17:59.010277+00:00
+ - user: None
+ - tags: []
 
 ## Google Patents
  - [https://patents.google.com](https://patents.google.com)
@@ -793,6 +919,12 @@
  - user: None
  - tags: []
 
+## Guerilla Programmer
+ - [https://guerillaprogrammer.com](https://guerillaprogrammer.com)
+ - date published: 2023-12-18T01:35:55.800837+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Home | Guernsey Press
  - [https://guernseypress.com](https://guernseypress.com)
  - date published: 2023-10-25T14:52:45.193590+00:00
@@ -886,6 +1018,12 @@
 ## Gabriel Volpe
  - [https://gvolpe.com](https://gvolpe.com)
  - date published: 2023-10-25T14:53:06.576497+00:00
+ - user: None
+ - tags: []
+
+## Gyazo · Screen Recorder: Share Screenshots and Videos Easily
+ - [https://i.gyazo.com](https://i.gyazo.com)
+ - date published: 2023-12-18T18:38:18.747579+00:00
  - user: None
  - tags: []
 
@@ -4333,6 +4471,12 @@
  - user: None
  - tags: []
 
+## Jesse Dorsey
+ - [https://jessedorsey.com](https://jessedorsey.com)
+ - date published: 2023-12-18T22:39:12.501976+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Pursuit Of Laziness – A blog by Jesse Duffield
  - [https://jesseduffield.com](https://jesseduffield.com)
  - date published: 2023-10-25T15:28:22.799029+00:00
@@ -5857,148 +6001,4 @@
  - date published: 2023-11-29T15:49:08.720033+00:00
  - user: None
  - tags: ['personal']
-
-## Kimbra
- - [https://www.kimbramusic.com](https://www.kimbramusic.com)
- - date published: 2023-11-13T09:58:56.160494+00:00
- - user: None
- - tags: ['music band']
-
-## kimcastillo.com – a personal website
- - [https://kimcastillo.com](https://kimcastillo.com)
- - date published: 2023-11-29T14:42:39.120095+00:00
- - user: None
- - tags: ['personal']
-
-## A new era of authentication - Kinde
- - [https://kinde.com](https://kinde.com)
- - date published: 2023-10-25T15:37:26.153431+00:00
- - user: None
- - tags: []
-
-## cek.log : Geeky rants from Charlie Kindel...
- - [https://ceklog.kindel.com](https://ceklog.kindel.com)
- - date published: 2023-10-25T09:25:45.647823+00:00
- - user: None
- - tags: ['personal']
-
-## Casa | Alejandro AR (kinduff)
- - [https://kinduff.com](https://kinduff.com)
- - date published: 2023-10-25T15:37:27.297746+00:00
- - user: None
- - tags: []
-
-## Kinsta® Cloud Hosting - All Your Projects in One Platform
- - [https://kinsta.com](https://kinsta.com)
- - date published: 2023-10-25T15:37:30.397385+00:00
- - user: None
- - tags: []
-
-## Kirkus Reviews
- - [https://www.kirkusreviews.com](https://www.kirkusreviews.com)
- - date published: 2023-10-25T15:37:36.619388+00:00
- - user: None
- - tags: []
-
-## Seattle News, Weather, Traffic & Sports | KIRO-TV – KIRO 7 News Seattle
- - [https://www.kiro7.com](https://www.kiro7.com)
- - date published: 2023-11-16T15:37:29.970900+00:00
- - user: None
- - tags: []
-
-## kiruba.com – The Personal Website of Kiruba Shankar
- - [https://www.kiruba.com](https://www.kiruba.com)
- - date published: 2023-11-29T15:51:01.473498+00:00
- - user: None
- - tags: ['personal']
-
-## Live Gold Prices | Gold News And Analysis | Mining News | KITCO
- - [https://www.kitco.com](https://www.kitco.com)
- - date published: 2023-10-25T15:37:43.834479+00:00
- - user: None
- - tags: []
-
-## Kite is saying farewell - Code Faster with Kite
- - [https://www.kite.com](https://www.kite.com)
- - date published: 2023-10-25T15:37:45.311140+00:00
- - user: None
- - tags: []
-
-## Kitty says hi. | Kitty Giraudel
- - [https://kittygiraudel.com](https://kittygiraudel.com)
- - date published: 2023-10-25T15:37:51.215366+00:00
- - user: None
- - tags: []
-
-## Kiwi Electronics
- - [https://www.kiwi-electronics.com](https://www.kiwi-electronics.com)
- - date published: 2023-10-28T20:22:54.470874+00:00
- - user: None
- - tags: []
-
-## KiwiIRC - The webIRC client
- - [https://kiwiirc.com](https://kiwiirc.com)
- - date published: 2023-12-11T18:56:26.525383+00:00
- - user: None
- - tags: []
-
-## Klara Inc | Open Source Development. Reimagined.
- - [https://klarasystems.com](https://klarasystems.com)
- - date published: 2023-10-25T15:38:07.509792+00:00
- - user: None
- - tags: []
-
-## Martin Kleppmann’s website
- - [https://martin.kleppmann.com](https://martin.kleppmann.com)
- - date published: 2023-10-25T15:38:09.134153+00:00
- - user: None
- - tags: []
-
-## KMOV | Missouri Local News, Weather, Sports | St. Louis, MO
- - [https://www.kmov.com](https://www.kmov.com)
- - date published: 2023-11-03T13:09:21.024110+00:00
- - user: None
- - tags: []
-
-## Fresno News, Weather, Sports, Breaking News | KMPH
- - [https://kmph.com](https://kmph.com)
- - date published: 2023-12-08T08:34:04.710175+00:00
- - user: None
- - tags: []
-
-## Knife Party | Official Storefront
- - [https://knifeparty.com](https://knifeparty.com)
- - date published: 2023-11-13T09:55:35.763199+00:00
- - user: None
- - tags: ['music band']
-
-## knotend | The fastest flowchart editor. Being keyboard-first and optimized for speed, knotend is the best flowchart editor for project management, todo lists, collaboration, and more.
- - [https://www.knotend.com](https://www.knotend.com)
- - date published: 2023-10-25T15:38:20.588866+00:00
- - user: None
- - tags: []
-
-## Knowies
- - [https://www.knowies.com](https://www.knowies.com)
- - date published: 2023-11-26T16:48:52+00:00
- - user: rumpel
- - tags: ['bookmark manager']
-
-## Knowridge Science Report | Inspiring science news
- - [https://knowridge.com](https://knowridge.com)
- - date published: 2023-10-31T19:11:15.180516+00:00
- - user: None
- - tags: ['science news']
-
-## Ko-fi | Donations and Memberships from fans for the price of a coffee. No fee on Donations
- - [https://ko-fi.com](https://ko-fi.com)
- - date published: 2023-12-11T16:24:06.969165+00:00
- - user: None
- - tags: ['crowdfunding']
-
-## Rakuten Kobo
- - [https://www.kobo.com](https://www.kobo.com)
- - date published: 2023-10-25T08:24:09.609956+00:00
- - user: None
- - tags: []
 

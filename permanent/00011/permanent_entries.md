@@ -1,3 +1,533 @@
+## Sign in · GitLab
+ - [https://gustedt.gitlabpages.inria.fr](https://gustedt.gitlabpages.inria.fr)
+ - date published: 2023-10-25T19:15:07.742650+00:00
+ - user: None
+ - tags: []
+
+## Centre Inria d'Université Côte d'Azur | Inria
+ - [https://www-sop.inria.fr](https://www-sop.inria.fr)
+ - date published: 2023-10-25T19:15:12.301697+00:00
+ - user: None
+ - tags: []
+
+## Boutique Officielle Raspberry PI- Vente cartes Arduino, gaming et robotique
+ - [https://kubii.fr](https://kubii.fr)
+ - date published: 2023-12-11T17:25:33.070964+00:00
+ - user: None
+ - tags: []
+
+## Abonnement Le Figaro - Découvrez nos offres
+ - [https://abonnement.lefigaro.fr](https://abonnement.lefigaro.fr)
+ - date published: 2023-12-18T17:12:57.675595+00:00
+ - user: None
+ - tags: []
+
+## Publiez vos annonces légales avec Le Figaro au meilleur prix – Annonces légales du Figaro
+ - [https://annonces-legales.lefigaro.fr](https://annonces-legales.lefigaro.fr)
+ - date published: 2023-12-18T17:10:36.151946+00:00
+ - user: None
+ - tags: []
+
+## Access Denied
+ - [https://api-graphql.lefigaro.fr](https://api-graphql.lefigaro.fr)
+ - date published: 2023-12-18T17:11:36.827228+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro - Sitemap
+ - [https://articles.lefigaro.fr](https://articles.lefigaro.fr)
+ - date published: 2023-12-18T17:12:16.400645+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro Vin : le guide vin pour tous - Le Figaro Vin
+ - [https://avis-vin.lefigaro.fr](https://avis-vin.lefigaro.fr)
+ - date published: 2023-12-18T17:18:03.724522+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro - Billetterie Spectacles
+ - [https://billetterie.lefigaro.fr](https://billetterie.lefigaro.fr)
+ - date published: 2023-12-18T17:11:39.808712+00:00
+ - user: None
+ - tags: []
+
+## Actualité Bourse & Conseils pour Investir - Le Figaro Bourse
+ - [https://bourse.lefigaro.fr](https://bourse.lefigaro.fr)
+ - date published: 2023-12-18T17:13:06.860206+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro Store - La boutique officielle du Groupe Figaro
+ - [https://boutique.lefigaro.fr](https://boutique.lefigaro.fr)
+ - date published: 2023-12-18T17:12:43.650240+00:00
+ - user: None
+ - tags: []
+
+## Espace Personnel Figaro - Connectez-vous à votre compte client
+ - [https://client.lefigaro.fr](https://client.lefigaro.fr)
+ - date published: 2023-12-18T17:19:09.607595+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro : Codes promo 100% valides en Décembre 2023
+ - [https://codespromo.lefigaro.fr](https://codespromo.lefigaro.fr)
+ - date published: 2023-12-18T17:11:29.520457+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro.fr - Connexion compte Figaro
+ - [https://connect.lefigaro.fr](https://connect.lefigaro.fr)
+ - date published: 2023-12-18T17:12:35.047801+00:00
+ - user: None
+ - tags: []
+
+## Figaro Emploi : Offres d’emploi, Conseils et Actualités, Alertes, CV…
+ - [https://emploi.lefigaro.fr](https://emploi.lefigaro.fr)
+ - date published: 2023-12-18T17:18:25.289303+00:00
+ - user: None
+ - tags: []
+
+## Annuaire Entreprises
+ - [https://entreprises.lefigaro.fr](https://entreprises.lefigaro.fr)
+ - date published: 2023-12-18T17:17:17.974319+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro Etudiant : Actualité, Conseils pour bien s'orienter
+ - [https://etudiant.lefigaro.fr](https://etudiant.lefigaro.fr)
+ - date published: 2023-12-18T17:17:40.140406+00:00
+ - user: None
+ - tags: []
+
+## Citation : les meilleures citations et proverbes célèbres
+ - [https://evene.lefigaro.fr](https://evene.lefigaro.fr)
+ - date published: 2023-12-18T17:11:08.890309+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro
+ - [https://faq.lefigaro.fr](https://faq.lefigaro.fr)
+ - date published: 2023-12-18T17:16:55.779804+00:00
+ - user: None
+ - tags: []
+
+## Actu golf, résultats complets et classements en direct - Le Figaro Golf
+ - [https://golf.lefigaro.fr](https://golf.lefigaro.fr)
+ - date published: 2023-12-18T17:11:23.422903+00:00
+ - user: None
+ - tags: []
+
+## Guides d'achat : Avis et conseils pour bien choisir vos produits
+ - [https://guide-achat.lefigaro.fr](https://guide-achat.lefigaro.fr)
+ - date published: 2023-12-18T17:18:20.668762+00:00
+ - user: None
+ - tags: []
+
+## Annonces, Actualités et Conseils Immos
+ - [https://immobilier.lefigaro.fr](https://immobilier.lefigaro.fr)
+ - date published: 2023-12-18T17:12:11.950614+00:00
+ - user: None
+ - tags: []
+
+## Les journaux et magazines numériques - Kiosque Figaro
+ - [https://kiosque.lefigaro.fr](https://kiosque.lefigaro.fr)
+ - date published: 2023-12-18T17:10:58.586113+00:00
+ - user: None
+ - tags: []
+
+## Actualité juridique, patrimoniale et pratique - Le Particulier
+ - [https://leparticulier.lefigaro.fr](https://leparticulier.lefigaro.fr)
+ - date published: 2023-12-18T17:11:13.659417+00:00
+ - user: None
+ - tags: []
+
+## Accueil
+ | Les Voyages F.
+ - [https://lesvoyagesf.lefigaro.fr](https://lesvoyagesf.lefigaro.fr)
+ - date published: 2023-12-18T17:17:44.021653+00:00
+ - user: None
+ - tags: []
+
+## Mode, Beauté, Recettes, Société, Horoscope, Célébrités
+ - [https://madame.lefigaro.fr](https://madame.lefigaro.fr)
+ - date published: 2023-12-18T17:11:19.044505+00:00
+ - user: None
+ - tags: []
+
+## VPN - Réseau Privé Virtuel : Sécurisez Votre Présence en Ligne
+ - [https://meilleurs-vpn.lefigaro.fr](https://meilleurs-vpn.lefigaro.fr)
+ - date published: 2023-12-18T17:18:30.074139+00:00
+ - user: None
+ - tags: []
+
+## mentions legales
+ - [https://mentions-legales.lefigaro.fr](https://mentions-legales.lefigaro.fr)
+ - date published: 2023-12-18T17:13:17.014023+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro.fr - Connexion compte Figaro
+ - [https://myaccount.lefigaro.fr](https://myaccount.lefigaro.fr)
+ - date published: 2023-12-18T17:10:53.910492+00:00
+ - user: None
+ - tags: []
+
+## L'actualité en vidéo sur Figaro Live : politique, éco, international, culture…
+ - [https://player-video.lefigaro.fr](https://player-video.lefigaro.fr)
+ - date published: 2023-12-18T17:17:22.143286+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro - Actualité en direct et informations en continu
+ - [https://plus.lefigaro.fr](https://plus.lefigaro.fr)
+ - date published: 2023-12-18T17:18:48.210533+00:00
+ - user: None
+ - tags: []
+
+## LeFigaro - Les Podcasts du Figaro
+ - [https://podcasts.lefigaro.fr](https://podcasts.lefigaro.fr)
+ - date published: 2023-12-18T17:11:52.288692+00:00
+ - user: None
+ - tags: []
+
+## Propriétés Le Figaro : immobilier de luxe, demeures et villas de charme
+ - [https://proprietes.lefigaro.fr](https://proprietes.lefigaro.fr)
+ - date published: 2023-12-18T17:16:50.549372+00:00
+ - user: None
+ - tags: []
+
+## Rechercher un article, une information, une archive — Le Figaro
+ - [https://recherche.lefigaro.fr](https://recherche.lefigaro.fr)
+ - date published: 2023-12-18T17:12:08.333757+00:00
+ - user: None
+ - tags: []
+
+## Résultats du bac 2023: Résultats Officiels, Gratuits et par Académie
+ - [https://resultats.etudiant.lefigaro.fr](https://resultats.etudiant.lefigaro.fr)
+ - date published: 2023-12-18T17:13:02.793883+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro Santé - Actualité santé - Fiches et conseils médicaux
+ - [https://sante.lefigaro.fr](https://sante.lefigaro.fr)
+ - date published: 2023-12-18T17:13:11.599702+00:00
+ - user: None
+ - tags: []
+
+## Programme TV : Tout le Programme Télé des chaînes – TV Magazine.
+ - [https://tvmag.lefigaro.fr](https://tvmag.lefigaro.fr)
+ - date published: 2023-12-18T17:18:34.682651+00:00
+ - user: None
+ - tags: []
+
+## L'actualité en vidéo sur Figaro Live : politique, éco, international, culture…
+ - [https://video.lefigaro.fr](https://video.lefigaro.fr)
+ - date published: 2023-12-18T17:17:31.575272+00:00
+ - user: None
+ - tags: []
+
+## Le Figaro - Actualité en direct et informations en continu
+ - [https://www.lefigaro.fr](https://www.lefigaro.fr)
+ - date published: 2023-10-25T19:15:28.361007+00:00
+ - user: None
+ - tags: ['france news']
+
+## Le Monde.fr - Actualités et Infos en France et dans le monde
+ - [https://www.lemonde.fr](https://www.lemonde.fr)
+ - date published: 2023-10-25T10:30:38.809449+00:00
+ - user: None
+ - tags: []
+
+## Julien's DevRel corner
+ - [https://lengrand.fr](https://lengrand.fr)
+ - date published: 2023-10-25T19:15:29.943632+00:00
+ - user: None
+ - tags: []
+
+## Le Parpaing
+ - [https://leparpaing.fr](https://leparpaing.fr)
+ - date published: 2023-12-11T16:19:17.858879+00:00
+ - user: None
+ - tags: []
+
+## lesenechal.fr
+ - [https://lesenechal.fr](https://lesenechal.fr)
+ - date published: 2023-10-25T19:15:30.524166+00:00
+ - user: None
+ - tags: []
+
+## Accueil
+ | Les Voyages F.
+ - [https://lesvoyagesf.fr](https://lesvoyagesf.fr)
+ - date published: 2023-12-18T17:16:37.758839+00:00
+ - user: None
+ - tags: []
+
+## Loup Vaillant's Home Page
+ - [https://loup-vaillant.fr](https://loup-vaillant.fr)
+ - date published: 2023-10-25T19:15:31.999364+00:00
+ - user: None
+ - tags: []
+
+## Louvre Museum Official Website
+ - [https://www.louvre.fr](https://www.louvre.fr)
+ - date published: 2023-11-13T13:49:23.630733+00:00
+ - user: None
+ - tags: ['museum']
+
+## La Quadrature du Net - Mastodon - Media Fédéré
+ - [https://mamot.fr](https://mamot.fr)
+ - date published: 2023-10-25T19:15:32.656881+00:00
+ - user: None
+ - tags: []
+
+## Spécialiste du voyage sur-mesure ▷ Marco Vasco
+ - [https://www.marcovasco.fr](https://www.marcovasco.fr)
+ - date published: 2023-12-18T17:11:04.210811+00:00
+ - user: None
+ - tags: []
+
+## mdk.fr – Julien Palard
+ - [https://mdk.fr](https://mdk.fr)
+ - date published: 2023-10-25T19:15:33.507337+00:00
+ - user: None
+ - tags: []
+
+## Actualités Nautisme : l'actualité du nautisme au quotidien avec Figaro Nautisme
+ - [https://figaronautisme.meteoconsult.fr](https://figaronautisme.meteoconsult.fr)
+ - date published: 2023-12-18T17:12:20.499289+00:00
+ - user: None
+ - tags: []
+
+## Météo France - Prévisions METEO DETAILLEES à 15 jours - METEO CONSULT
+ - [https://www.meteoconsult.fr](https://www.meteoconsult.fr)
+ - date published: 2023-12-18T17:19:23.525460+00:00
+ - user: None
+ - tags: []
+
+## Parimal Satyal - Neustadt.fr
+ - [https://neustadt.fr](https://neustadt.fr)
+ - date published: 2023-11-15T17:47:22.781493+00:00
+ - user: None
+ - tags: ['personal']
+
+## Institut Pasteur | Pour la recherche, pour la santé, pour demain
+ - [https://www.pasteur.fr](https://www.pasteur.fr)
+ - date published: 2023-10-25T19:15:36.559641+00:00
+ - user: None
+ - tags: []
+
+## PC Solutions – Dépannage informatique Moëlan sur mer
+ - [https://www.pcsolu.fr](https://www.pcsolu.fr)
+ - date published: 2023-12-13T15:19:51.233148+00:00
+ - user: None
+ - tags: []
+
+## Plateaux numériques
+ - [https://plateaux-numeriques.fr](https://plateaux-numeriques.fr)
+ - date published: 2023-12-11T16:18:41.981814+00:00
+ - user: None
+ - tags: []
+
+## RFI - All the news from France, Europe, Africa and the rest of the world.
+ - [https://www.rfi.fr](https://www.rfi.fr)
+ - date published: 2023-10-25T19:15:39.019325+00:00
+ - user: None
+ - tags: []
+
+## Siècle Digital - L'actualité internationale de l'économie du numérique
+ - [https://siecledigital.fr](https://siecledigital.fr)
+ - date published: 2023-10-25T19:15:41.666599+00:00
+ - user: None
+ - tags: []
+
+## SunEstra
+ - [https://sunestra.fr](https://sunestra.fr)
+ - date published: 2023-10-25T09:21:54.389722+00:00
+ - user: None
+ - tags: ['personal']
+
+## TeleCoop, premier opérateur télécom coopératif
+ - [https://telecoop.fr](https://telecoop.fr)
+ - date published: 2023-12-11T16:19:38.653596+00:00
+ - user: None
+ - tags: []
+
+## The Local - France's news in English
+ - [https://www.thelocal.fr](https://www.thelocal.fr)
+ - date published: 2023-10-25T19:15:46.734185+00:00
+ - user: None
+ - tags: []
+
+## UTOPIAWEB - Agence et éditeur web à Rennes
+ - [https://utopiaweb.fr](https://utopiaweb.fr)
+ - date published: 2023-12-11T18:41:53.958415+00:00
+ - user: None
+ - tags: []
+
+## Victor MARTIN | Machine Learning Engineer
+ - [https://vmartin.fr](https://vmartin.fr)
+ - date published: 2023-10-25T19:15:48.126680+00:00
+ - user: None
+ - tags: []
+
+## Flowchart Fun — Fast, Free Online Flowchart Maker
+ - [https://flowchart.fun](https://flowchart.fun)
+ - date published: 2023-10-25T19:15:48.621117+00:00
+ - user: None
+ - tags: []
+
+## Neal.fun
+ - [https://neal.fun](https://neal.fun)
+ - date published: 2023-10-25T19:15:49.467863+00:00
+ - user: None
+ - tags: []
+
+## The Autopilot Fund
+ - [https://blog.autopilot.fund](https://blog.autopilot.fund)
+ - date published: 2023-10-25T19:15:50.122692+00:00
+ - user: None
+ - tags: []
+
+## Adriano Caloiaro's personal blog
+ - [https://adriano.fyi](https://adriano.fyi)
+ - date published: 2023-10-25T08:59:03.095518+00:00
+ - user: None
+ - tags: ['personal']
+
+## brr
+ - [https://brr.fyi](https://brr.fyi)
+ - date published: 2023-10-25T19:15:50.754055+00:00
+ - user: None
+ - tags: []
+
+## Freelance rates by contractrates.fyi
+ - [https://www.contractrates.fyi](https://www.contractrates.fyi)
+ - date published: 2023-10-25T19:15:52.506601+00:00
+ - user: None
+ - tags: []
+
+## DevBase - Product Gallery for Developers
+ - [https://devbase.fyi](https://devbase.fyi)
+ - date published: 2023-10-25T19:15:55.735011+00:00
+ - user: None
+ - tags: []
+
+## Digital culture and entertainment insights daily: Digital culture and entertainment insights daily
+ - [https://dirt.fyi](https://dirt.fyi)
+ - date published: 2023-10-25T19:15:57.266413+00:00
+ - user: None
+ - tags: []
+
+## ESPP.fyi - ESPP Calculator
+ - [https://espp.fyi](https://espp.fyi)
+ - date published: 2023-10-25T19:15:58.160226+00:00
+ - user: None
+ - tags: []
+
+## iliana.fyi
+ - [https://iliana.fyi](https://iliana.fyi)
+ - date published: 2023-10-25T19:15:59.645382+00:00
+ - user: None
+ - tags: []
+
+## Layoffs.fyi - Tech Layoff Tracker and Startup Layoff Lists
+ - [https://layoffs.fyi](https://layoffs.fyi)
+ - date published: 2023-10-25T19:16:02.675285+00:00
+ - user: None
+ - tags: []
+
+## Levels.fyi | Salaries & Tools to Level Up Your Career
+ - [https://www.levels.fyi](https://www.levels.fyi)
+ - date published: 2023-10-25T19:16:09.416624+00:00
+ - user: None
+ - tags: []
+
+## Not a Number
+ - [https://www.nan.fyi](https://www.nan.fyi)
+ - date published: 2023-10-25T19:16:10.047779+00:00
+ - user: None
+ - tags: []
+
+## Not By AI — Add the Badge to Your Human-Created Content
+ - [https://notbyai.fyi](https://notbyai.fyi)
+ - date published: 2023-10-25T19:16:11.639093+00:00
+ - user: None
+ - tags: []
+
+## 2 Weeks Notice/Layoff Checklist
+ - [https://notice.fyi](https://notice.fyi)
+ - date published: 2023-10-25T19:16:13.369510+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Onsites.fyi - Curated Big Tech Interview Experiences
+ - [https://www.onsites.fyi](https://www.onsites.fyi)
+ - date published: 2023-12-03T13:29:53+00:00
+ - user: None
+ - tags: []
+
+## Paisa
+ - [https://paisa.fyi](https://paisa.fyi)
+ - date published: 2023-10-25T19:16:14.401445+00:00
+ - user: None
+ - tags: []
+
+## physician.fyi
+ - [https://www.physician.fyi](https://www.physician.fyi)
+ - date published: 2023-10-25T19:16:19.520735+00:00
+ - user: None
+ - tags: []
+
+## rustjobs.fyi
+ - [https://www.rustjobs.fyi](https://www.rustjobs.fyi)
+ - date published: 2023-10-25T19:16:20.460320+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Trains.fyi – a live map of passenger trains in the US and Canada
+ - [https://trains.fyi](https://trains.fyi)
+ - date published: 2023-11-27T16:47:19+00:00
+ - user: None
+ - tags: []
+
+## The ideal viewport doesn’t exist
+ - [https://viewports.fyi](https://viewports.fyi)
+ - date published: 2023-10-25T19:16:21.804980+00:00
+ - user: None
+ - tags: []
+
+## Vizly - Data to insights in seconds
+ - [https://www.vizly.fyi](https://www.vizly.fyi)
+ - date published: 2023-10-25T19:16:23.095453+00:00
+ - user: None
+ - tags: []
+
+## William Edmisten
+ - [https://wcedmisten.fyi](https://wcedmisten.fyi)
+ - date published: 2023-10-25T19:16:24.081987+00:00
+ - user: None
+ - tags: []
+
+## Jack Wrenn
+ - [https://jack.wrenn.fyi](https://jack.wrenn.fyi)
+ - date published: 2023-10-25T19:16:25.606719+00:00
+ - user: None
+ - tags: []
+
+## Are the Americans Awake?
+ - [https://are-the-americans-awake.yusuf.fyi](https://are-the-americans-awake.yusuf.fyi)
+ - date published: 2023-10-25T19:16:26.673031+00:00
+ - user: None
+ - tags: []
+
+## Minimal Gallery – Website inspiration
+ - [https://minimal.gallery](https://minimal.gallery)
+ - date published: 2023-10-25T19:16:29.833681+00:00
+ - user: None
+ - tags: []
+
 ## Nyx.gallery - AI-generated photography
  - [https://nyx.gallery](https://nyx.gallery)
  - date published: 2023-10-25T19:16:35.991453+00:00
@@ -1466,6 +1996,12 @@
  - user: None
  - tags: []
 
+## blogs.hn
+ - [https://blogs.hn](https://blogs.hn)
+ - date published: 2023-12-18T15:10:33+00:00
+ - user: rumpel
+ - tags: ['blogs', 'personal']
+
 ## Hacker News Blogroll
  - [https://dm.hn](https://dm.hn)
  - date published: 2023-10-25T19:28:02.288614+00:00
@@ -1621,6 +2157,12 @@
  - date published: 2023-10-25T08:59:04.037423+00:00
  - user: None
  - tags: ['personal']
+
+## https://nepszava.hu
+ - [https://nepszava.hu](https://nepszava.hu)
+ - date published: 2023-12-18T10:02:11.561136+00:00
+ - user: None
+ - tags: []
 
 ## telex
  - [https://telex.hu](https://telex.hu)
@@ -2781,6 +3323,12 @@
  - user: None
  - tags: []
 
+## Paged Out!
+ - [https://pagedout.institute](https://pagedout.institute)
+ - date published: 2023-12-18T16:48:25.692473+00:00
+ - user: None
+ - tags: []
+
 ## Institute for Progress (IFP)
  - [https://progress.institute](https://progress.institute)
  - date published: 2023-10-25T19:36:19.113893+00:00
@@ -2994,6 +3542,12 @@
 ## The AppCensus Blog
  - [https://blog.appcensus.io](https://blog.appcensus.io)
  - date published: 2023-10-25T19:37:44.083298+00:00
+ - user: None
+ - tags: []
+
+## https://cdn.appconsent.io
+ - [https://cdn.appconsent.io](https://cdn.appconsent.io)
+ - date published: 2023-12-18T17:18:59.935352+00:00
  - user: None
  - tags: []
 
@@ -5450,558 +6004,6 @@ through Composable Diffusion
 ## https://not-just-memorization.github.io
  - [https://not-just-memorization.github.io](https://not-just-memorization.github.io)
  - date published: 2023-11-29T17:19:34.609423+00:00
- - user: None
- - tags: []
-
-## not-matthias
- - [https://not-matthias.github.io](https://not-matthias.github.io)
- - date published: 2023-10-25T19:50:33.780319+00:00
- - user: None
- - tags: []
-
-## All posts | Note's on software
- - [https://note89.github.io](https://note89.github.io)
- - date published: 2023-10-25T19:50:35.276107+00:00
- - user: None
- - tags: []
-
-## notgull – The world's \#1 source of notgull
- - [https://notgull.github.io](https://notgull.github.io)
- - date published: 2023-10-25T19:50:36.988312+00:00
- - user: None
- - tags: []
-
-## Redirecting to https://research.nvidia.com/labs/toronto-ai/
- - [https://nv-tlabs.github.io](https://nv-tlabs.github.io)
- - date published: 2023-10-25T19:50:38.683182+00:00
- - user: None
- - tags: []
-
-## john (@nyan_satan)
- - [https://nyansatan.github.io](https://nyansatan.github.io)
- - date published: 2023-10-25T19:50:39.873510+00:00
- - user: None
- - tags: []
-
-## Show HN: Oasis – A Repository of Project Ideas
- - [https://oasis-of-ideas.github.io](https://oasis-of-ideas.github.io)
- - date published: 2023-11-29T20:46:27+00:00
- - user: None
- - tags: []
-
-## Code Examples | The Oberon+ Programming Language
- - [https://oberon-lang.github.io](https://oberon-lang.github.io)
- - date published: 2023-10-25T19:50:41.397058+00:00
- - user: None
- - tags: []
-
-## Joel Arvidsson on GitHub
- - [https://oblador.github.io](https://oblador.github.io)
- - date published: 2023-10-25T19:50:42.692439+00:00
- - user: None
- - tags: []
-
-## OCamlPro's Resources on Github
- - [https://ocamlpro.github.io](https://ocamlpro.github.io)
- - date published: 2023-10-25T19:50:54.541806+00:00
- - user: None
- - tags: []
-
-## Tea and Bits
- - [https://ohadravid.github.io](https://ohadravid.github.io)
- - date published: 2023-10-25T19:50:55.937894+00:00
- - user: None
- - tags: []
-
-## Sotolf's Blog
- - [https://opsahl.github.io](https://opsahl.github.io)
- - date published: 2023-10-25T08:49:25.098637+00:00
- - user: None
- - tags: ['personal']
-
-## Page Redirection
- - [https://ostreedev.github.io](https://ostreedev.github.io)
- - date published: 2023-10-25T19:51:03.196975+00:00
- - user: None
- - tags: []
-
-## Easily create apps for PC games on the Overwolf framework | Overwolf
- - [https://overwolf.github.io](https://overwolf.github.io)
- - date published: 2023-12-13T15:57:22.507855+00:00
- - user: None
- - tags: []
-
-## The JavaScript Oxidation Compiler
- - [https://oxc-project.github.io](https://oxc-project.github.io)
- - date published: 2023-12-16T20:21:13+00:00
- - user: None
- - tags: []
-
-## PaLM-E: An Embodied Multimodal Language Model
- - [https://palm-e.github.io](https://palm-e.github.io)
- - date published: 2023-10-25T19:51:04.713759+00:00
- - user: None
- - tags: []
-
-## https://paulsec.github.io
- - [https://paulsec.github.io](https://paulsec.github.io)
- - date published: 2023-10-25T19:51:06.414524+00:00
- - user: None
- - tags: []
-
-## Index – pcwalton – pcwalton's blog
- - [https://pcwalton.github.io](https://pcwalton.github.io)
- - date published: 2023-10-25T19:51:08.007982+00:00
- - user: None
- - tags: []
-
-## Phil Pearl's Blog
- - [https://philpearl.github.io](https://philpearl.github.io)
- - date published: 2023-10-25T08:59:13.014092+00:00
- - user: None
- - tags: ['personal']
-
-## My public GitHub repositories
- - [https://phiresky.github.io](https://phiresky.github.io)
- - date published: 2023-10-25T19:51:09.677043+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://pit-ray.github.io](https://pit-ray.github.io)
- - date published: 2023-11-12T04:00:37.739533+00:00
- - user: None
- - tags: []
-
-## Zero-shot Image-to-Image Translation
- - [https://pix2pixzero.github.io](https://pix2pixzero.github.io)
- - date published: 2023-10-25T19:51:11.300419+00:00
- - user: None
- - tags: []
-
-## Home | Piotr Kołaczkowski
- - [https://pkolaczk.github.io](https://pkolaczk.github.io)
- - date published: 2023-10-25T19:51:12.806431+00:00
- - user: None
- - tags: []
-
-## Parth Parikh
- - [https://pncnmnp.github.io](https://pncnmnp.github.io)
- - date published: 2023-10-25T19:51:14.101250+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://poignardazur.github.io](https://poignardazur.github.io)
- - date published: 2023-10-25T08:59:13.836226+00:00
- - user: None
- - tags: ['personal']
-
-## Pomax.github.io
- - [https://pomax.github.io](https://pomax.github.io)
- - date published: 2023-10-25T19:51:15.362291+00:00
- - user: None
- - tags: []
-
-## Portavita Devblog
- - [https://portavita.github.io](https://portavita.github.io)
- - date published: 2023-10-29T06:20:24.653388+00:00
- - user: None
- - tags: []
-
-## Tom Hulton-Harrop | A programming blog
- - [https://pr0g.github.io](https://pr0g.github.io)
- - date published: 2023-10-25T19:51:17.054227+00:00
- - user: None
- - tags: []
-
-## precondition
- - [https://precondition.github.io](https://precondition.github.io)
- - date published: 2023-12-03T17:58:27.872171+00:00
- - user: None
- - tags: []
-
-## 🏠 Home
- - [https://prirai.github.io](https://prirai.github.io)
- - date published: 2023-10-25T19:51:18.689447+00:00
- - user: None
- - tags: []
-
-## Inside thoughts
- - [https://pthorpe92.github.io](https://pthorpe92.github.io)
- - date published: 2023-11-11T16:04:42.813857+00:00
- - user: None
- - tags: []
-
-## Blog | pvigier’s blog
- - [https://pvigier.github.io](https://pvigier.github.io)
- - date published: 2023-10-25T19:51:21.999014+00:00
- - user: None
- - tags: []
-
-## pypackaging-native
- - [https://pypackaging-native.github.io](https://pypackaging-native.github.io)
- - date published: 2023-10-25T19:51:23.653265+00:00
- - user: None
- - tags: []
-
-## @radekmie’s take on IT and stuff
- - [https://radekmie.github.io](https://radekmie.github.io)
- - date published: 2023-10-25T19:51:26.585195+00:00
- - user: None
- - tags: []
-
-## Raft Consensus Algorithm
- - [https://raft.github.io](https://raft.github.io)
- - date published: 2023-10-25T19:51:29.605767+00:00
- - user: None
- - tags: []
-
-## Raph Levien’s blog | Blog of Raph Levien.
- - [https://raphlinus.github.io](https://raphlinus.github.io)
- - date published: 2023-10-25T19:51:36.478581+00:00
- - user: None
- - tags: []
-
-## ReAct: Synergizing Reasoning and Acting in Language Models
- - [https://react-lm.github.io](https://react-lm.github.io)
- - date published: 2023-10-25T19:51:37.875070+00:00
- - user: None
- - tags: []
-
-## RealFill
- - [https://realfill.github.io](https://realfill.github.io)
- - date published: 2023-10-25T19:51:39.362206+00:00
- - user: None
- - tags: []
-
-## Reanimate
- - [https://reanimate.github.io](https://reanimate.github.io)
- - date published: 2023-10-25T19:51:40.811373+00:00
- - user: None
- - tags: []
-
-## ReconFusion: 3D Reconstruction with Diffusion Priors
- - [https://reconfusion.github.io](https://reconfusion.github.io)
- - date published: 2023-12-08T16:44:34+00:00
- - user: None
- - tags: []
-
-## Simplex Sigillum Veri
- - [https://remusao.github.io](https://remusao.github.io)
- - date published: 2023-10-25T19:51:47.504665+00:00
- - user: None
- - tags: []
-
-## Wenhao (Reself) Chai
- - [https://rese1f.github.io](https://rese1f.github.io)
- - date published: 2023-10-25T19:51:49.283567+00:00
- - user: None
- - tags: []
-
-## Expressive Text-to-Image Generation with Rich Text
- - [https://rich-text-to-image.github.io](https://rich-text-to-image.github.io)
- - date published: 2023-10-25T19:51:51.003701+00:00
- - user: None
- - tags: []
-
-## Ryohei (Rio) Weil
- - [https://rioweil.github.io](https://rioweil.github.io)
- - date published: 2023-10-25T19:51:52.549274+00:00
- - user: None
- - tags: []
-
-## RoboAgent: Towards Sample Efficient Robot Manipulation with Semantic Augmentations and Action Chunking
- - [https://robopen.github.io](https://robopen.github.io)
- - date published: 2023-10-25T19:51:54.669938+00:00
- - user: None
- - tags: []
-
-## Open X-Embodiment: Robotic Learning Datasets and RT-X Models
- - [https://robotics-transformer-x.github.io](https://robotics-transformer-x.github.io)
- - date published: 2023-10-25T19:51:56.287307+00:00
- - user: None
- - tags: []
-
-## Rodrigodd
- - [https://rodrigodd.github.io](https://rodrigodd.github.io)
- - date published: 2023-10-25T19:51:57.633401+00:00
- - user: None
- - tags: []
-
-## https://rubjo.github.io
- - [https://rubjo.github.io](https://rubjo.github.io)
- - date published: 2023-11-19T14:59:13.915453+00:00
- - user: None
- - tags: []
-
-## Ruby Hacking Guide
- - [https://ruby-hacking-guide.github.io](https://ruby-hacking-guide.github.io)
- - date published: 2023-10-25T19:51:59.280808+00:00
- - user: None
- - tags: []
-
-## rust-analyzer
- - [https://rust-analyzer.github.io](https://rust-analyzer.github.io)
- - date published: 2023-10-25T19:52:01.419582+00:00
- - user: None
- - tags: []
-
-## GCC Front-End For Rust | Alternative Rust Compiler for GCC
- - [https://rust-gcc.github.io](https://rust-gcc.github.io)
- - date published: 2023-10-25T19:52:02.960686+00:00
- - user: None
- - tags: []
-
-## Rustam Kovhaev's blog
- - [https://rustylife.github.io](https://rustylife.github.io)
- - date published: 2023-10-25T08:59:14.364536+00:00
- - user: None
- - tags: ['personal']
-
-## Salwyn Mathew
- - [https://salwinat0r.github.io](https://salwinat0r.github.io)
- - date published: 2023-12-17T05:07:59.226368+00:00
- - user: None
- - tags: ['personal']
-
-## Sam Pruden Does Stuff
- - [https://sampruden.github.io](https://sampruden.github.io)
- - date published: 2023-10-25T19:52:05.808364+00:00
- - user: None
- - tags: []
-
-## sam.bigos
- - [https://samuelbigos.github.io](https://samuelbigos.github.io)
- - date published: 2023-10-25T19:52:07.178304+00:00
- - user: None
- - tags: []
-
-## https://sancarn.github.io
- - [https://sancarn.github.io](https://sancarn.github.io)
- - date published: 2023-11-15T02:22:26.981632+00:00
- - user: None
- - tags: []
-
-## SHA-1 is a Shambles
- - [https://sha-mbles.github.io](https://sha-mbles.github.io)
- - date published: 2023-10-25T19:52:08.723718+00:00
- - user: None
- - tags: []
-
-## Shishir Patil
- - [https://shishirpatil.github.io](https://shishirpatil.github.io)
- - date published: 2023-10-25T08:59:15.329709+00:00
- - user: None
- - tags: ['personal']
-
-## Open Source Software Projects - Shopify
- - [https://shopify.github.io](https://shopify.github.io)
- - date published: 2023-10-27T12:05:08.814711+00:00
- - user: None
- - tags: []
-
-## Shunyuan Zheng (郑顺源)’s Homepage
- - [https://shunyuanzheng.github.io](https://shunyuanzheng.github.io)
- - date published: 2023-12-08T22:09:13.139274+00:00
- - user: None
- - tags: []
-
-## Work Hard, Span Easy | Parallelizing things is easy, but making them fast is hard. A blog about parallel algorithms, data structures, programming languages, and anything else that comes to mind. Written by Sam Westrick.
- - [https://shwestrick.github.io](https://shwestrick.github.io)
- - date published: 2023-10-25T19:54:05.578167+00:00
- - user: None
- - tags: []
-
-## https://sillycross.github.io
- - [https://sillycross.github.io](https://sillycross.github.io)
- - date published: 2023-10-25T19:54:11.123868+00:00
- - user: None
- - tags: []
-
-## SilverhammerMBA's Home
- - [https://silverhammermba.github.io](https://silverhammermba.github.io)
- - date published: 2023-10-25T19:54:12.735851+00:00
- - user: None
- - tags: []
-
-## Hacker News
- - [https://simonpure.github.io](https://simonpure.github.io)
- - date published: 2023-10-25T19:54:14.176500+00:00
- - user: None
- - tags: []
-
-## Simple Statistics
- - [https://simple-statistics.github.io](https://simple-statistics.github.io)
- - date published: 2023-10-25T19:54:14.937648+00:00
- - user: None
- - tags: []
-
-## Sivome
- - [https://sivome.github.io](https://sivome.github.io)
- - date published: 2023-11-12T08:19:47.034590+00:00
- - user: None
- - tags: []
-
-## Ramblings of a cloud engineer
- - [https://skarlso.github.io](https://skarlso.github.io)
- - date published: 2023-10-27T10:24:30.773839+00:00
- - user: None
- - tags: []
-
-## Smerf: Streamable Memory Efficient Radiance Fields
- - [https://smerf-3d.github.io](https://smerf-3d.github.io)
- - date published: 2023-12-13T19:03:13+00:00
- - user: None
- - tags: []
-
-## Snakemake - A framework for reproducible data analysis
- - [https://snakemake.github.io](https://snakemake.github.io)
- - date published: 2023-10-25T19:54:15.726455+00:00
- - user: None
- - tags: []
-
-## Everything Racket
- - [https://soegaard.github.io](https://soegaard.github.io)
- - date published: 2023-10-25T19:54:22.183680+00:00
- - user: None
- - tags: []
-
-## Jascha’s blog | This blog is intended to be a place to share ideas and results that are too weird, incomplete, or off-topic to turn into an academic paper, but that I think may be important. Let me know what you think! Contact links to the left.
- - [https://sohl-dickstein.github.io](https://sohl-dickstein.github.io)
- - date published: 2023-10-25T19:54:22.838537+00:00
- - user: None
- - tags: []
-
-## https://sollecitom.github.io
- - [https://sollecitom.github.io](https://sollecitom.github.io)
- - date published: 2023-10-29T16:02:19.082465+00:00
- - user: None
- - tags: []
-
-## Soufflé | Soufflé • A Datalog Synthesis Tool for Static Analysis
- - [https://souffle-lang.github.io](https://souffle-lang.github.io)
- - date published: 2023-10-25T19:54:24.056975+00:00
- - user: None
- - tags: []
-
-## Speech Research
- - [https://speechresearch.github.io](https://speechresearch.github.io)
- - date published: 2023-10-25T19:54:25.616717+00:00
- - user: None
- - tags: []
-
-## Stephen Schoepfer
- - [https://sschoepfer.github.io](https://sschoepfer.github.io)
- - date published: 2023-12-11T23:18:29.673417+00:00
- - user: None
- - tags: ['personal']
-
-## Stefan Schüller
- - [https://sschueller.github.io](https://sschueller.github.io)
- - date published: 2023-10-25T19:54:28.538345+00:00
- - user: None
- - tags: []
-
-## https://stanforddatascience.github.io
- - [https://stanforddatascience.github.io](https://stanforddatascience.github.io)
- - date published: 2023-11-12T20:45:27.941454+00:00
- - user: None
- - tags: []
-
-## stdnoerr's blog
- - [https://stdnoerr.github.io](https://stdnoerr.github.io)
- - date published: 2023-10-25T08:59:16.279940+00:00
- - user: None
- - tags: ['personal']
-
-## Prevent Default
- - [https://sts10.github.io](https://sts10.github.io)
- - date published: 2023-12-08T08:31:09.671455+00:00
- - user: None
- - tags: []
-
-## StyleDrop: Text-to-Image Generation in Any Style
- - [https://styledrop.github.io](https://styledrop.github.io)
- - date published: 2023-10-25T19:54:34.980707+00:00
- - user: None
- - tags: []
-
-## Hackflow
- - [https://suor.github.io](https://suor.github.io)
- - date published: 2023-10-25T19:54:37.097870+00:00
- - user: None
- - tags: []
-
-## Josh Berry's Blog
- - [https://taeric.github.io](https://taeric.github.io)
- - date published: 2023-10-25T19:54:38.604675+00:00
- - user: None
- - tags: []
-
-## System Programming Lab | The next public class is SOLD OUT – November 27-28 and December 4-5 (4 days) via Zoom
- - [https://tandasat.github.io](https://tandasat.github.io)
- - date published: 2023-10-25T19:54:40.015158+00:00
- - user: None
- - tags: []
-
-## Text-to-Audio Generation using Instruction Tuned LLM and Latent Diffusion Model
- - [https://tango-web.github.io](https://tango-web.github.io)
- - date published: 2023-10-25T19:54:41.441534+00:00
- - user: None
- - tags: []
-
-## TheAbbie: Abhishek Chaudhary
- - [https://theabbie.github.io](https://theabbie.github.io)
- - date published: 2023-11-29T17:14:27.934904+00:00
- - user: None
- - tags: ['personal']
-
-## The Force Engine ·
- - [https://theforceengine.github.io](https://theforceengine.github.io)
- - date published: 2023-10-25T19:54:43.382443+00:00
- - user: None
- - tags: []
-
-## Electronics etc…
- - [https://tomverbeure.github.io](https://tomverbeure.github.io)
- - date published: 2023-10-25T19:54:56.629189+00:00
- - user: None
- - tags: []
-
-## Redirecting to Peng Wang's Public Notion Site
- - [https://totoro97.github.io](https://totoro97.github.io)
- - date published: 2023-10-25T19:54:57.690671+00:00
- - user: None
- - tags: []
-
-## tpaschalis – software, systems
- - [https://tpaschalis.github.io](https://tpaschalis.github.io)
- - date published: 2023-10-25T19:55:00.774309+00:00
- - user: None
- - tags: []
-
-## Tristan de Cacqueray – Tristan's Zettelkasten
- - [https://tristancacqueray.github.io](https://tristancacqueray.github.io)
- - date published: 2023-10-25T19:55:02.459044+00:00
- - user: None
- - tags: []
-
-## trofi's blog: /
- - [https://trofi.github.io](https://trofi.github.io)
- - date published: 2023-10-25T08:59:17.032313+00:00
- - user: None
- - tags: ['personal']
-
-## John  Tromp HomePage
- - [https://tromp.github.io](https://tromp.github.io)
- - date published: 2023-10-25T19:55:03.866969+00:00
- - user: None
- - tags: []
-
-## Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models
- - [https://tuning-encoder.github.io](https://tuning-encoder.github.io)
- - date published: 2023-10-25T19:55:06.349691+00:00
  - user: None
  - tags: []
 

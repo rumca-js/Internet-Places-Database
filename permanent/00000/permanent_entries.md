@@ -3479,6 +3479,12 @@
  - user: None
  - tags: ['personal']
 
+## Quigs.blog
+ - [https://quigs.blog](https://quigs.blog)
+ - date published: 2023-12-18T01:34:04.013330+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Raku Advent Calendar – Raku is a multi-paradigm language where there's more than one way to do it
  - [https://raku-advent.blog](https://raku-advent.blog)
  - date published: 2023-10-25T12:00:54.086156+00:00
@@ -4192,6 +4198,12 @@
  - date published: 2023-12-12T04:55:06.206081+00:00
  - user: None
  - tags: ['personal']
+
+## Home - Highgo Software Inc.
+ - [https://www.highgo.ca](https://www.highgo.ca)
+ - date published: 2023-12-18T21:53:17.162282+00:00
+ - user: None
+ - tags: []
 
 ## hypatia dot ca – Leigh Honeywell's Blog
  - [https://hypatia.ca](https://hypatia.ca)
@@ -5286,6 +5298,12 @@
  - user: None
  - tags: []
 
+## The "Cheap" Web
+ - [https://potato.cheap](https://potato.cheap)
+ - date published: 2023-12-18T12:06:07+00:00
+ - user: None
+ - tags: ['personal']
+
 ## CFAO Motors - Citroën Côte d'Ivoire
  - [https://www.citroen.ci](https://www.citroen.ci)
  - date published: 2023-12-11T15:49:46.845465+00:00
@@ -5730,6 +5748,12 @@
  - user: rumpel
  - tags: ['bookmark manager']
 
+## Keenan
+ - [https://gkeenan.co](https://gkeenan.co)
+ - date published: 2023-12-18T01:35:50.923520+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Good Good Good | Good News & Hopeful Progress
  - [https://www.goodgoodgood.co](https://www.goodgoodgood.co)
  - date published: 2023-10-25T12:18:57.942165+00:00
@@ -5973,30 +5997,6 @@
 ## Pasteboard — Easy Image Uploads
  - [https://pasteboard.co](https://pasteboard.co)
  - date published: 2023-10-24T20:20:43.389331+00:00
- - user: None
- - tags: []
-
-## Polymer: Hiring made simple
- - [https://jobs.polymer.co](https://jobs.polymer.co)
- - date published: 2023-10-25T12:21:15.679114+00:00
- - user: None
- - tags: []
-
-## Posit | The Open-Source Data Science Company
- - [https://posit.co](https://posit.co)
- - date published: 2023-10-25T12:21:19.232107+00:00
- - user: None
- - tags: []
-
-## Discover Amazing Products Powered By GPT - poweredbygpt.co
- - [https://www.poweredbygpt.co](https://www.poweredbygpt.co)
- - date published: 2023-10-25T12:21:22.511943+00:00
- - user: None
- - tags: []
-
-## Practice Mock Interview with AI
- - [https://practiceinterview.co](https://practiceinterview.co)
- - date published: 2023-10-25T12:21:25.934534+00:00
  - user: None
  - tags: []
 
