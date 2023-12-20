@@ -1012,6 +1012,12 @@
  - user: None
  - tags: []
 
+## Perplexity Labs Playground
+ - [https://labs.perplexity.ai](https://labs.perplexity.ai)
+ - date published: 2023-12-19T17:44:33+00:00
+ - user: None
+ - tags: []
+
 ## https://www.perplexity.ai
  - [https://www.perplexity.ai](https://www.perplexity.ai)
  - date published: 2023-10-25T12:44:02.078801+00:00
@@ -1894,6 +1900,12 @@
  - user: None
  - tags: []
 
+## Plasmic.app – the visual builder for your tech stack
+ - [https://www.plasmic.app](https://www.plasmic.app)
+ - date published: 2023-12-19T16:27:48+00:00
+ - user: None
+ - tags: []
+
 ## PrettyPolly: Learn a language quickly by speaking with an AI
  - [https://www.prettypolly.app](https://www.prettypolly.app)
  - date published: 2023-10-25T11:48:30.623743+00:00
@@ -2397,6 +2409,12 @@
  - date published: 2023-10-25T11:52:43.964694+00:00
  - user: None
  - tags: []
+
+## Christian Mayer
+ - [https://fox21.at](https://fox21.at)
+ - date published: 2023-12-19T02:59:36.471166+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Futurelopment
  - [https://blog.haschek.at](https://blog.haschek.at)
@@ -4703,6 +4721,12 @@
  - user: None
  - tags: []
 
+## Bit banging a 3.5" Floppy Drive
+ - [https://floppy.cafe](https://floppy.cafe)
+ - date published: 2023-12-19T18:09:27+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://owen.cafe](https://owen.cafe)
  - date published: 2023-10-25T08:43:10.163631+00:00
@@ -4974,6 +4998,12 @@
  - user: None
  - tags: []
 
+## GMK Center – центр экспертизы о промышленности и ГМК
+ - [https://gmk.center](https://gmk.center)
+ - date published: 2023-12-19T20:46:40.065605+00:00
+ - user: None
+ - tags: []
+
 ## The James G. Martin Center for Academic Renewal —
  - [https://www.jamesgmartin.center](https://www.jamesgmartin.center)
  - date published: 2023-10-25T12:12:29.460489+00:00
@@ -5129,6 +5159,12 @@
  - date published: 2023-11-22T16:44:15+00:00
  - user: None
  - tags: []
+
+## Invisible · InVisible
+ - [https://invisible.ch](https://invisible.ch)
+ - date published: 2023-12-19T03:01:42.549849+00:00
+ - user: None
+ - tags: ['personal']
 
 ## About · Jonathan Chan
  - [https://ionathan.ch](https://ionathan.ch)
@@ -5358,6 +5394,12 @@
  - user: None
  - tags: []
 
+## Home | Life Code
+ - [https://lifecode.cloud](https://lifecode.cloud)
+ - date published: 2023-12-19T09:59:36.314843+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Massdriver Blog
  - [https://blog.massdriver.cloud](https://blog.massdriver.cloud)
  - date published: 2023-10-25T12:15:26.664600+00:00
@@ -5523,6 +5565,12 @@
 ## JetBrains: 软件开发者和团队的必备工具
  - [https://www.jetbrains.com.cn](https://www.jetbrains.com.cn)
  - date published: 2023-12-12T09:10:15.351076+00:00
+ - user: None
+ - tags: []
+
+## Research Statement [IPADS]
+ - [https://ipads.se.sjtu.edu.cn](https://ipads.se.sjtu.edu.cn)
+ - date published: 2023-12-19T22:22:52.947508+00:00
  - user: None
  - tags: []
 
@@ -5951,52 +5999,4 @@
  - date published: 2023-12-13T06:03:37.050724+00:00
  - user: None
  - tags: ['personal']
-
-## Not Boring by Packy McCormick | Substack
- - [https://www.notboring.co](https://www.notboring.co)
- - date published: 2023-10-25T12:20:07.539847+00:00
- - user: None
- - tags: []
-
-## Notepin - Extremely simple blogging platform
- - [https://notepin.co](https://notepin.co)
- - date published: 2023-10-25T12:20:11.005522+00:00
- - user: None
- - tags: []
-
-## Olvy | Manage your user feedback like never before
- - [https://olvy.co](https://olvy.co)
- - date published: 2023-10-25T12:20:23.810512+00:00
- - user: None
- - tags: []
-
-## On my Om
- - [https://om.co](https://om.co)
- - date published: 2023-10-25T12:33:54.845209+00:00
- - user: None
- - tags: ['personal']
-
-## openapi-stack | openapi-stack
- - [https://openapistack.co](https://openapistack.co)
- - date published: 2023-10-25T12:22:02.887608+00:00
- - user: None
- - tags: []
-
-## Other Life
- - [https://otherlife.co](https://otherlife.co)
- - date published: 2023-10-25T12:22:06.900630+00:00
- - user: None
- - tags: []
-
-## WhatsApp Wrapped - Chat Insights and Analysis
- - [https://www.ourchatstory.co](https://www.ourchatstory.co)
- - date published: 2023-10-25T12:21:13.195288+00:00
- - user: None
- - tags: []
-
-## Pasteboard — Easy Image Uploads
- - [https://pasteboard.co](https://pasteboard.co)
- - date published: 2023-10-24T20:20:43.389331+00:00
- - user: None
- - tags: []
 

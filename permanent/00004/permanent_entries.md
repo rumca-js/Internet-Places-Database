@@ -1,3 +1,123 @@
+## https://electronics360.globalspec.com
+ - [https://electronics360.globalspec.com](https://electronics360.globalspec.com)
+ - date published: 2023-10-25T14:45:57.332220+00:00
+ - user: None
+ - tags: []
+
+## Global Table Adventure | Bringing the World to your Kitchen
+ - [https://globaltableadventure.com](https://globaltableadventure.com)
+ - date published: 2023-11-17T07:29:02.885266+00:00
+ - user: None
+ - tags: ['personal']
+
+## Global Toy News – The World's Most Influential Toy Magazine
+ - [https://globaltoynews.com](https://globaltoynews.com)
+ - date published: 2023-10-25T14:46:04.543243+00:00
+ - user: None
+ - tags: []
+
+## Globe Echo - Latest World News
+ - [https://globeecho.com](https://globeecho.com)
+ - date published: 2023-10-25T14:46:10.193762+00:00
+ - user: None
+ - tags: []
+
+## Send Press Releases With GlobeNews Wire | GlobeNewswire
+ - [https://www.globenewswire.com](https://www.globenewswire.com)
+ - date published: 2023-10-25T14:46:36.559043+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://glorifiedgluer.com](https://glorifiedgluer.com)
+ - date published: 2023-10-25T14:46:37.769776+00:00
+ - user: None
+ - tags: []
+
+## Gloves Mag – Best Gloves Amazon Reviews
+ - [https://www.glovesmag.com](https://www.glovesmag.com)
+ - date published: 2023-11-27T16:24:13+00:00
+ - user: rumpel
+ - tags: []
+
+## The Glowforge Blog -
+ - [https://blog.glowforge.com](https://blog.glowforge.com)
+ - date published: 2023-10-25T14:46:39.907372+00:00
+ - user: None
+ - tags: []
+
+## Investor Relations | General Motors Company
+ - [https://investor.gm.com](https://investor.gm.com)
+ - date published: 2023-10-25T14:46:48.536780+00:00
+ - user: None
+ - tags: []
+
+## GMA Network
+ - [https://www.gmanetwork.com](https://www.gmanetwork.com)
+ - date published: 2023-11-09T03:55:55+00:00
+ - user: rumpel
+ - tags: ['philippine news']
+
+## Gabriel Mays - Semper esurientem.
+ - [https://gmays.com](https://gmays.com)
+ - date published: 2023-11-12T12:21:25.185278+00:00
+ - user: None
+ - tags: []
+
+## GMUNK
+ - [https://gmunk.com](https://gmunk.com)
+ - date published: 2023-10-25T14:46:51.066856+00:00
+ - user: None
+ - tags: []
+
+## ABC News - Breaking News, Latest News and Videos
+ - [https://abcnews.go.com](https://abcnews.go.com)
+ - date published: 2023-10-25T14:46:56.843829+00:00
+ - user: None
+ - tags: []
+
+## GoatCounter – open source web analytics
+ - [https://www.goatcounter.com](https://www.goatcounter.com)
+ - date published: 2023-10-25T14:46:57.535413+00:00
+ - user: None
+ - tags: []
+
+## Anxiety & Panic Attack Relief App - Calmer
+ - [https://gocalmer.com](https://gocalmer.com)
+ - date published: 2023-12-04T09:53:04.020464+00:00
+ - user: None
+ - tags: []
+
+## Today's Comics Online | Read Comic Strips at GoComics
+ - [https://www.gocomics.com](https://www.gocomics.com)
+ - date published: 2023-10-25T11:30:13.545385+00:00
+ - user: None
+ - tags: []
+
+## alex singleton | web developer | software engineer | financial analyst
+ - [https://godhatesshrimp.com](https://godhatesshrimp.com)
+ - date published: 2023-12-13T15:35:40+00:00
+ - user: rumpel
+ - tags: ['wtf', 'funny', 'internet']
+
+## GoFundMe: #1 Fundraising Platform for Crowdfunding
+ - [https://www.gofundme.com](https://www.gofundme.com)
+ - date published: 2023-10-25T11:34:08.378901+00:00
+ - user: None
+ - tags: ['crowdfunding']
+
+## GOG.com
+ - [https://www.gog.com](https://www.gog.com)
+ - date published: 2023-10-24T20:11:00.912262+00:00
+ - user: None
+ - tags: ['game store']
+
+## Timothée Goguely
+ - [https://timothee.goguely.com](https://timothee.goguely.com)
+ - date published: 2023-11-29T14:24:13.415481+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Going Medieval
  - [https://going-medieval.com](https://going-medieval.com)
  - date published: 2023-11-09T21:44:17.263991+00:00
@@ -343,6 +463,12 @@
 ## chromium Git repositories - Git at Google
  - [https://chromium.googlesource.com](https://chromium.googlesource.com)
  - date published: 2023-10-25T14:49:01.290226+00:00
+ - user: None
+ - tags: []
+
+## https://gerrit-review.googlesource.com
+ - [https://gerrit-review.googlesource.com](https://gerrit-review.googlesource.com)
+ - date published: 2023-12-19T15:37:22.648226+00:00
  - user: None
  - tags: []
 
@@ -1006,6 +1132,12 @@
 ## Home - Guyana Times
  - [https://guyanatimesgy.com](https://guyanatimesgy.com)
  - date published: 2023-12-01T10:45:26.947763+00:00
+ - user: None
+ - tags: []
+
+## Nature Bats Last – Our days are numbered. Passionately pursue a life of excellence.
+ - [https://guymcpherson.com](https://guymcpherson.com)
+ - date published: 2023-12-19T01:18:12.330948+00:00
  - user: None
  - tags: []
 
@@ -2809,6 +2941,12 @@
  - user: None
  - tags: ['personal']
 
+## ilukac log
+ - [https://ilukac.com](https://ilukac.com)
+ - date published: 2023-12-19T19:08:13.064200+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Create Your Best Music | FL STUDIO
  - [https://www.image-line.com](https://www.image-line.com)
  - date published: 2023-10-28T20:06:30.258932+00:00
@@ -3142,6 +3280,12 @@
 ## Inga Hope
  - [https://ingahope.com](https://ingahope.com)
  - date published: 2023-12-17T16:42:11.100676+00:00
+ - user: None
+ - tags: ['personal']
+
+## Inhale the Heavy
+ - [https://inhaletheheavy.com](https://inhaletheheavy.com)
+ - date published: 2023-12-19T19:09:02.371646+00:00
  - user: None
  - tags: ['personal']
 
@@ -3598,6 +3742,12 @@
 ## Isaac Lien: Blog, Curiosities, Newsletter, and More
  - [https://www.isaaclien.com](https://www.isaaclien.com)
  - date published: 2023-12-17T20:58:20.398131+00:00
+ - user: None
+ - tags: ['personal']
+
+## Chris Erickson — SEO + Digital Marketing
+ - [https://ischris.com](https://ischris.com)
+ - date published: 2023-12-19T03:01:46.714304+00:00
  - user: None
  - tags: ['personal']
 
@@ -4060,6 +4210,12 @@
 ## Home :: Jane Street
  - [https://www.janestreet.com](https://www.janestreet.com)
  - date published: 2023-10-25T15:26:48.642287+00:00
+ - user: None
+ - tags: []
+
+## JangaFX - Real-Time VFX Software For Real-Time VFX Artists
+ - [https://jangafx.com](https://jangafx.com)
+ - date published: 2023-12-20T00:02:52.724284+00:00
  - user: None
  - tags: []
 
@@ -4957,6 +5113,12 @@
  - user: None
  - tags: ['personal']
 
+## Jonathan Vieker
+ - [https://jonathanvieker.com](https://jonathanvieker.com)
+ - date published: 2023-12-19T19:07:54.915537+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Jon Griffin's Site
  - [https://www.jongriffin.com](https://www.jongriffin.com)
  - date published: 2023-11-29T15:31:40.430080+00:00
@@ -5074,6 +5236,12 @@
 ## Joshua Galinato
  - [https://joshuagalinato.com](https://joshuagalinato.com)
  - date published: 2023-12-08T08:32:02.604763+00:00
+ - user: None
+ - tags: ['personal']
+
+## Joshua Wold
+ - [https://joshuawold.com](https://joshuawold.com)
+ - date published: 2023-12-19T19:08:21.027670+00:00
  - user: None
  - tags: ['personal']
 
@@ -5605,6 +5773,12 @@
  - user: None
  - tags: ['personal']
 
+## Katrina Goldsaito
+ - [https://katrinagoldsaito.com](https://katrinagoldsaito.com)
+ - date published: 2023-12-19T02:59:53.799605+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Blender Game, Design and Editing tutorials and tools : KatsBits.com
  - [https://www.katsbits.com](https://www.katsbits.com)
  - date published: 2023-10-28T20:34:38.257298+00:00
@@ -5694,6 +5868,12 @@
  - date published: 2023-11-12T05:39:10.831693+00:00
  - user: None
  - tags: []
+
+## Keith Donegan - Web Developer
+ - [https://www.keithdonegan.com](https://www.keithdonegan.com)
+ - date published: 2023-12-19T10:00:34.286305+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Kellan Elliott-McCrea
  - [https://kellanem.com](https://kellanem.com)
@@ -5820,185 +6000,4 @@
  - date published: 2023-10-25T15:36:30.394253+00:00
  - user: None
  - tags: []
-
-## Kevin Lynagh
- - [https://kevinlynagh.com](https://kevinlynagh.com)
- - date published: 2023-10-25T15:36:31.915798+00:00
- - user: None
- - tags: ['personal']
-
-## Kevin Marks
- - [https://www.kevinmarks.com](https://www.kevinmarks.com)
- - date published: 2023-10-25T15:36:33.157019+00:00
- - user: None
- - tags: []
-
-## Bit by Bit | Kevin Lin | Substack
- - [https://bit.kevinslin.com](https://bit.kevinslin.com)
- - date published: 2023-10-25T15:36:35.176903+00:00
- - user: None
- - tags: []
-
-## Hi 👋
- - [https://www.kevinslin.com](https://www.kevinslin.com)
- - date published: 2023-10-25T15:36:37.677790+00:00
- - user: None
- - tags: []
-
-## Kevin Yank
- - [https://kevinyank.com](https://kevinyank.com)
- - date published: 2023-10-25T15:36:38.854404+00:00
- - user: None
- - tags: []
-
-## Blog | Kev Quirk
- - [https://kevquirk.com](https://kevquirk.com)
- - date published: 2023-10-25T15:36:40.173950+00:00
- - user: None
- - tags: []
-
-## Kev Zettler
- - [https://kevzettler.com](https://kevzettler.com)
- - date published: 2023-10-25T15:36:42.199963+00:00
- - user: None
- - tags: []
-
-## Keyboard Jobs
- - [https://keyboardjobs.com](https://keyboardjobs.com)
- - date published: 2023-10-25T15:36:42.941842+00:00
- - user: None
- - tags: []
-
-## Key Discussions – are tech companies delivering on basic promises?
- - [https://keydiscussions.com](https://keydiscussions.com)
- - date published: 2023-10-27T11:55:16.696603+00:00
- - user: None
- - tags: []
-
-## Find engineering teams that share your values | Key Values
- - [https://www.keyvalues.com](https://www.keyvalues.com)
- - date published: 2023-10-25T15:36:45.585933+00:00
- - user: None
- - tags: []
-
-## KFC
- - [https://global.kfc.com](https://global.kfc.com)
- - date published: 2023-11-01T08:42:23.921787+00:00
- - user: None
- - tags: []
-
-## KGOnTech – Karl Guttag On Technology
- - [https://kguttag.com](https://kguttag.com)
- - date published: 2023-10-25T15:36:49.596060+00:00
- - user: None
- - tags: []
-
-## Latest Posts  |
-      Khalid Abuhakmeh
- - [https://khalidabuhakmeh.com](https://khalidabuhakmeh.com)
- - date published: 2023-10-25T15:36:57.339652+00:00
- - user: None
- - tags: []
-
-## Khalid E.
- - [https://www.khalidelassaad.com](https://www.khalidelassaad.com)
- - date published: 2023-11-29T15:48:06.542909+00:00
- - user: None
- - tags: ['personal']
-
-## Website is hosted on ESP32 ($3 chip)
- - [https://esp.khalsalabs.com](https://esp.khalsalabs.com)
- - date published: 2023-11-05T18:31:24+00:00
- - user: None
- - tags: []
-
-## KhalsaLabs
- - [https://khalsalabs.com](https://khalsalabs.com)
- - date published: 2023-11-06T09:36:09.883241+00:00
- - user: None
- - tags: ['tech news']
-
-## Adil Khashtamov's personal blog — pragmatic programmer
- - [https://khashtamov.com](https://khashtamov.com)
- - date published: 2023-11-29T14:44:13.378682+00:00
- - user: None
- - tags: ['personal']
-
-## Cambodia News Home - Khmer Times
- - [https://www.khmertimeskh.com](https://www.khmertimeskh.com)
- - date published: 2023-10-25T15:37:02.303950+00:00
- - user: None
- - tags: []
-
-## КАК УБИТЬ ДРАКОНА?
- - [https://dragonbook.khodorkovsky.com](https://dragonbook.khodorkovsky.com)
- - date published: 2023-10-25T15:37:08.829000+00:00
- - user: None
- - tags: []
-
-## Access Denied
- - [https://www.khou.com](https://www.khou.com)
- - date published: 2023-10-25T15:37:09.537350+00:00
- - user: None
- - tags: []
-
-## Potassium Iodide Anti-Radiation Pill, NukAlert & Nuclear Crisis FAQ. Radiation Detectors, Meters, Geiger Counters & Potassium Iodine Iodate pills
- - [http://ki4u.com](http://ki4u.com)
- - date published: 2023-10-25T15:37:10.999533+00:00
- - user: None
- - tags: []
-
-## Potassium Iodide Anti-Radiation Pill, NukAlert & Nuclear Crisis FAQ. Radiation Detectors, Meters, Geiger Counters & Potassium Iodine Iodate pills
- - [http://www.ki4u.com](http://www.ki4u.com)
- - date published: 2023-10-25T15:37:12.601421+00:00
- - user: None
- - tags: []
-
-## Main
- - [https://www.kia.com](https://www.kia.com)
- - date published: 2023-11-01T08:42:25.388134+00:00
- - user: None
- - tags: ['company', 'car producer']
-
-## https://kick.com
- - [https://kick.com](https://kick.com)
- - date published: 2023-11-18T06:42:22.619931+00:00
- - user: None
- - tags: []
-
-## Real-time Software For Business-Critical Applications | Kickstage
- - [https://kickstage.com](https://kickstage.com)
- - date published: 2023-10-25T15:37:16.966035+00:00
- - user: None
- - tags: []
-
-## https://www.kickstarter.com
- - [https://www.kickstarter.com](https://www.kickstarter.com)
- - date published: 2023-10-25T11:34:13.762253+00:00
- - user: None
- - tags: ['crowdfunding']
-
-## Kieran Tie - Editorial Consultant and Freelance Writer
- - [https://kierantie.com](https://kierantie.com)
- - date published: 2023-11-29T14:42:50.581977+00:00
- - user: None
- - tags: ['personal']
-
-## Kilian Valkhof
- - [https://kilianvalkhof.com](https://kilianvalkhof.com)
- - date published: 2023-10-25T15:37:18.080803+00:00
- - user: None
- - tags: []
-
-## Google Graveyard - Killed by Google
- - [https://killedbygoogle.com](https://killedbygoogle.com)
- - date published: 2023-10-25T15:37:23.961973+00:00
- - user: None
- - tags: []
-
-## Kimberly Hirsh
- - [https://kimberlyhirsh.com](https://kimberlyhirsh.com)
- - date published: 2023-11-29T15:49:08.720033+00:00
- - user: None
- - tags: ['personal']
 

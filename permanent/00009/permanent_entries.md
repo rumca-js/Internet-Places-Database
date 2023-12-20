@@ -1,3 +1,267 @@
+## Twitter Careers
+ - [https://careers.twitter.com](https://careers.twitter.com)
+ - date published: 2023-10-25T17:50:53.220990+00:00
+ - user: None
+ - tags: []
+
+## Use Cases, Tutorials, & Documentation  | Twitter Developer Platform
+ - [https://developer.twitter.com](https://developer.twitter.com)
+ - date published: 2023-10-25T17:50:56.233253+00:00
+ - user: None
+ - tags: []
+
+## Help Center
+ - [https://help.twitter.com](https://help.twitter.com)
+ - date published: 2023-10-25T17:50:58.695527+00:00
+ - user: None
+ - tags: []
+
+## https://platform.twitter.com
+ - [https://platform.twitter.com](https://platform.twitter.com)
+ - date published: 2023-12-11T18:42:17.818112+00:00
+ - user: None
+ - tags: []
+
+## https://twitter.com
+ - [https://twitter.com](https://twitter.com)
+ - date published: 2023-10-24T20:12:44.394161+00:00
+ - user: None
+ - tags: ['social platform', 'gatekeeper']
+
+## https://www.twitter.com
+ - [https://www.twitter.com](https://www.twitter.com)
+ - date published: 2023-11-02T10:41:01.683595+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Twitter Thread Reader
+ - [https://twitter-thread.com](https://twitter-thread.com)
+ - date published: 2023-10-25T17:51:06.985768+00:00
+ - user: None
+ - tags: []
+
+## Twitter is Going Great!
+ - [https://twitterisgoinggreat.com](https://twitterisgoinggreat.com)
+ - date published: 2023-10-25T17:51:20.355358+00:00
+ - user: None
+ - tags: []
+
+## Index
+ - [https://two-wrongs.com](https://two-wrongs.com)
+ - date published: 2023-10-25T17:51:21.066956+00:00
+ - user: None
+ - tags: []
+
+## Twofer Goofer
+ - [https://twofergoofer.com](https://twofergoofer.com)
+ - date published: 2023-10-25T17:51:28.951235+00:00
+ - user: None
+ - tags: []
+
+## Ty Hopp
+ - [https://tyhopp.com](https://tyhopp.com)
+ - date published: 2023-10-25T17:51:34.490565+00:00
+ - user: None
+ - tags: []
+
+## Hello. - Tyler Cipriani
+ - [https://tylercipriani.com](https://tylercipriani.com)
+ - date published: 2023-10-25T17:51:35.596048+00:00
+ - user: None
+ - tags: []
+
+## tylerneylon.com
+ - [https://tylerneylon.com](https://tylerneylon.com)
+ - date published: 2023-10-25T17:51:37.059102+00:00
+ - user: None
+ - tags: []
+
+## 🏡 Home - TSN Coaching
+ - [https://tylersuzukinelson.com](https://tylersuzukinelson.com)
+ - date published: 2023-12-14T01:19:52.562878+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hi, I'm Tyler, this is where I write - Tyler Tringas
+ - [https://tylertringas.com](https://tylertringas.com)
+ - date published: 2023-12-02T10:26:10.930736+00:00
+ - user: None
+ - tags: ['personal']
+
+## Spurious Correlations
+ - [https://tylervigen.com](https://tylervigen.com)
+ - date published: 2023-10-25T17:51:39.016835+00:00
+ - user: None
+ - tags: []
+
+## Tynan.com – Life Outside the Box
+ - [https://tynan.com](https://tynan.com)
+ - date published: 2023-10-25T08:48:20.581559+00:00
+ - user: None
+ - tags: ['personal']
+
+## Type-Level TypeScript
+ - [https://type-level-typescript.com](https://type-level-typescript.com)
+ - date published: 2023-10-25T17:51:40.112477+00:00
+ - user: None
+ - tags: []
+
+## Type-Signature
+ - [https://type-signature.com](https://type-signature.com)
+ - date published: 2023-10-25T17:51:40.689549+00:00
+ - user: None
+ - tags: []
+
+## Nabla — the isometric color font by Arthur Reinders Folmer & Just van Rossum
+ - [https://nabla.typearture.com](https://nabla.typearture.com)
+ - date published: 2023-10-25T17:51:41.588325+00:00
+ - user: None
+ - tags: []
+
+## Typecog
+ - [https://typecog.com](https://typecog.com)
+ - date published: 2023-12-12T07:05:10.068583+00:00
+ - user: None
+ - tags: ['personal']
+
+## Typeform: People-Friendly Forms and Surveys
+ - [https://cp-pmna.typeform.com](https://cp-pmna.typeform.com)
+ - date published: 2023-12-12T08:13:31.113611+00:00
+ - user: None
+ - tags: []
+
+## Typefully - Twitter Thread Maker & Analytics
+ - [https://typefully.com](https://typefully.com)
+ - date published: 2023-10-25T17:51:48.017945+00:00
+ - user: None
+ - tags: []
+
+## https://dilbertblog.typepad.com
+ - [https://dilbertblog.typepad.com](https://dilbertblog.typepad.com)
+ - date published: 2023-10-25T17:51:48.270459+00:00
+ - user: None
+ - tags: []
+
+## https://twistedphysics.typepad.com
+ - [https://twistedphysics.typepad.com](https://twistedphysics.typepad.com)
+ - date published: 2023-10-25T17:51:48.512765+00:00
+ - user: None
+ - tags: []
+
+## Varun Gandhi | writing, compilers, software engineering and minutae
+ - [https://typesanitizer.com](https://typesanitizer.com)
+ - date published: 2023-10-25T17:51:53.999121+00:00
+ - user: None
+ - tags: []
+
+## Type Scale - A Visual Calculator
+ - [https://typescale.com](https://typescale.com)
+ - date published: 2023-10-25T17:51:55.482502+00:00
+ - user: None
+ - tags: []
+
+## Type Theory Forall - Episodes
+ - [https://www.typetheoryforall.com](https://www.typetheoryforall.com)
+ - date published: 2023-10-25T17:51:57.326764+00:00
+ - user: None
+ - tags: []
+
+## Typical Programmer
+ - [https://typicalprogrammer.com](https://typicalprogrammer.com)
+ - date published: 2023-10-25T09:21:15.557044+00:00
+ - user: None
+ - tags: ['personal']
+
+## TypingMind — A better UI for ChatGPT
+ - [https://www.typingmind.com](https://www.typingmind.com)
+ - date published: 2023-10-25T17:51:57.929093+00:00
+ - user: None
+ - tags: []
+
+## Typography for Lawyers
+ - [https://typographyforlawyers.com](https://typographyforlawyers.com)
+ - date published: 2023-10-25T17:52:00.702013+00:00
+ - user: None
+ - tags: []
+
+## UAV Navigation | Cutting-edge Autopilots
+ - [https://www.uavnavigation.com](https://www.uavnavigation.com)
+ - date published: 2023-11-08T11:27:58.101729+00:00
+ - user: None
+ - tags: ['avionics', 'aerospace', 'aviation']
+
+## Zostań kierowcą i osiągaj przychody albo zamów przejazd | Uber Polska
+ - [https://www.uber.com](https://www.uber.com)
+ - date published: 2023-10-25T17:52:04.965059+00:00
+ - user: None
+ - tags: []
+
+## Uber Losses
+ - [https://uberlosses.com](https://uberlosses.com)
+ - date published: 2023-10-25T17:52:05.844245+00:00
+ - user: None
+ - tags: []
+
+## Ubicloud - Open and portable cloud
+ - [https://www.ubicloud.com](https://www.ubicloud.com)
+ - date published: 2023-12-15T11:11:48.637444+00:00
+ - user: None
+ - tags: []
+
+## Ubisoft | Welcome to the official Ubisoft website
+ - [https://www.ubisoft.com](https://www.ubisoft.com)
+ - date published: 2023-10-25T16:33:04.501312+00:00
+ - user: None
+ - tags: ['game studio', 'company']
+
+## Explore - Ubisoft Connect
+ - [https://ubisoftconnect.com](https://ubisoftconnect.com)
+ - date published: 2023-10-24T20:12:14.883217+00:00
+ - user: None
+ - tags: ['game store']
+
+## uBlock Origin - Free, open-source ad content blocker.
+ - [https://ublockorigin.com](https://ublockorigin.com)
+ - date published: 2023-11-01T08:43:18.943438+00:00
+ - user: None
+ - tags: ['ad blocker', 'open source']
+
+## Ubuntu - Kernel Team Server
+ - [https://kernel.ubuntu.com](https://kernel.ubuntu.com)
+ - date published: 2023-12-06T11:16:27+00:00
+ - user: rumpel
+ - tags: []
+
+## Enterprise Open Source and Linux | Ubuntu
+ - [https://ubuntu.com](https://ubuntu.com)
+ - date published: 2023-10-25T08:31:54.631990+00:00
+ - user: None
+ - tags: ['operating system']
+
+## UbuntuPIT | Ubuntu Linux News, Tutorials and Apps
+ - [https://www.ubuntupit.com](https://www.ubuntupit.com)
+ - date published: 2023-10-25T09:36:30.703614+00:00
+ - user: None
+ - tags: ['tech news']
+
+## Catholic News Asia | Church, Features, Opinion, Gospel, Dioceses - UCA News
+ - [https://www.ucanews.com](https://www.ucanews.com)
+ - date published: 2023-11-27T12:16:44+00:00
+ - user: rumpel
+ - tags: ['catholic', 'christianity', 'religion']
+
+## udamonic.com - Home
+ - [https://udamonic.com](https://udamonic.com)
+ - date published: 2023-10-25T17:52:08.835786+00:00
+ - user: None
+ - tags: []
+
+## https://www.udemy.com
+ - [https://www.udemy.com](https://www.udemy.com)
+ - date published: 2023-10-24T20:19:37.720048+00:00
+ - user: None
+ - tags: ['skills', 'tutorials']
+
 ## uDiscoverMusic: discover more about the world’s greatest music
  - [https://www.udiscovermusic.com](https://www.udiscovermusic.com)
  - date published: 2023-10-25T17:52:15.234962+00:00
@@ -2118,6 +2382,12 @@
  - user: None
  - tags: []
 
+## Catatan Arif
+ - [https://arif.widianto.com](https://arif.widianto.com)
+ - date published: 2023-12-19T19:09:34.109892+00:00
+ - user: None
+ - tags: ['personal']
+
 ## WiiLink
  - [https://www.wiilink24.com](https://www.wiilink24.com)
  - date published: 2023-10-25T18:04:45.747440+00:00
@@ -3108,6 +3378,12 @@
  - user: None
  - tags: []
 
+## namitatawde
+ - [https://namitatawde.wordpress.com](https://namitatawde.wordpress.com)
+ - date published: 2023-12-19T19:08:40.073169+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Naveen Arun's Blog
  - [https://naveenarun.wordpress.com](https://naveenarun.wordpress.com)
  - date published: 2023-10-25T18:14:01.214703+00:00
@@ -3695,6 +3971,12 @@
  - date published: 2023-11-04T05:07:11.984619+00:00
  - user: None
  - tags: []
+
+## The Wright Place TV Show
+ - [https://wrightplacetv.com](https://wrightplacetv.com)
+ - date published: 2023-12-19T19:08:46.085944+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Write Software, Well
  - [https://www.writesoftwarewell.com](https://www.writesoftwarewell.com)
@@ -4878,6 +5160,12 @@
  - user: None
  - tags: []
 
+## News from the Czech Republic
+ - [https://english.radio.cz](https://english.radio.cz)
+ - date published: 2023-12-19T14:00:57.181642+00:00
+ - user: None
+ - tags: []
+
 ## RetroGames.cz - Play Old Games ONLINE
  - [https://www.retrogames.cz](https://www.retrogames.cz)
  - date published: 2023-10-25T11:10:17.378675+00:00
@@ -5710,294 +5998,6 @@ home
 ## HP-15C: A Simulator for Windows, Linux and macOS
  - [https://hp-15c.homepage.t-online.de](https://hp-15c.homepage.t-online.de)
  - date published: 2023-10-25T18:32:55.137051+00:00
- - user: None
- - tags: []
-
-## Hi there, Friend! : tchncs.de
- - [https://tchncs.de](https://tchncs.de)
- - date published: 2023-10-25T18:32:56.483309+00:00
- - user: None
- - tags: []
-
-## tele-TASK
- - [https://www.tele-task.de](https://www.tele-task.de)
- - date published: 2023-11-24T16:44:19.800399+00:00
- - user: None
- - tags: []
-
-## thenybble.de
- - [https://thenybble.de](https://thenybble.de)
- - date published: 2023-10-25T18:32:57.087216+00:00
- - user: None
- - tags: []
-
-## Timo Zander — Cologne-based Software Developer
- - [https://timozander.de](https://timozander.de)
- - date published: 2023-10-25T18:32:57.895419+00:00
- - user: None
- - tags: []
-
-## www.user.tu-berlin.de
- - [https://www.user.tu-berlin.de](https://www.user.tu-berlin.de)
- - date published: 2023-10-25T18:33:04.460538+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.tu-darmstadt.de](https://www.tu-darmstadt.de)
- - date published: 2023-12-02T05:46:14.228323+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science - TUM School of Computation, Information and Technology - Department of Computer Science
- - [https://www.cs.cit.tum.de](https://www.cs.cit.tum.de)
- - date published: 2023-10-25T18:33:05.751862+00:00
- - user: None
- - tags: []
-
-## The Entrepreneurial University - TUM
- - [https://www.tum.de](https://www.tum.de)
- - date published: 2023-12-12T22:22:55.827588+00:00
- - user: None
- - tags: []
-
-## Andreas Zwinkau
- - [https://beza1e1.tuxen.de](https://beza1e1.tuxen.de)
- - date published: 2023-10-25T18:33:06.452394+00:00
- - user: None
- - tags: []
-
-## Umweltbundesamt | Für Mensch und Umwelt
- - [https://www.umweltbundesamt.de](https://www.umweltbundesamt.de)
- - date published: 2023-10-25T18:33:10.971958+00:00
- - user: None
- - tags: []
-
-## https://jsxgraph.uni-bayreuth.de
- - [https://jsxgraph.uni-bayreuth.de](https://jsxgraph.uni-bayreuth.de)
- - date published: 2023-10-26T13:42:48.938099+00:00
- - user: None
- - tags: []
-
-## Faculty of Mathematics - Bielefeld University
- - [https://www.math.uni-bielefeld.de](https://www.math.uni-bielefeld.de)
- - date published: 2023-10-25T18:33:13.635873+00:00
- - user: None
- - tags: []
-
-## Universität Göttingen - Georg-August-Universität Göttingen
- - [https://www.uni-goettingen.de](https://www.uni-goettingen.de)
- - date published: 2023-12-13T10:23:08.198367+00:00
- - user: None
- - tags: []
-
-## Heidelberg University EN
- - [https://www.uni-heidelberg.de](https://www.uni-heidelberg.de)
- - date published: 2023-10-25T11:22:07.189480+00:00
- - user: None
- - tags: []
-
-## Exzellenzwettbewerb | Forschen | Universität Konstanz
- - [https://www.exc.uni-konstanz.de](https://www.exc.uni-konstanz.de)
- - date published: 2023-11-25T11:44:21.122864+00:00
- - user: None
- - tags: []
-
-## Universität Münster
- - [https://www.uni-muenster.de](https://www.uni-muenster.de)
- - date published: 2023-10-25T18:33:14.981774+00:00
- - user: None
- - tags: []
-
-## Universität Stuttgart
- - [https://www.uni-stuttgart.de](https://www.uni-stuttgart.de)
- - date published: 2023-10-25T18:33:19.227772+00:00
- - user: None
- - tags: []
-
-## UTzone.de     -->>    [UT99 | UT2004 | UT3 | UT4 ] Feel the Emotions
- - [https://www.utzone.de](https://www.utzone.de)
- - date published: 2023-10-30T15:41:16.767039+00:00
- - user: None
- - tags: []
-
-## Viktor Garske
- - [https://ai.v-gar.de](https://ai.v-gar.de)
- - date published: 2023-10-25T18:33:20.746124+00:00
- - user: None
- - tags: []
-
-## Vesalia Online - The Amiga & Retrocomputing Store (Est. 1987)
- - [https://www.vesalia.de](https://www.vesalia.de)
- - date published: 2023-12-11T19:07:27.880695+00:00
- - user: None
- - tags: []
-
-## VIVALINE Media Production – Online Agentur Halle (Saale)
- - [https://vivaline.de](https://vivaline.de)
- - date published: 2023-12-11T19:05:56.531832+00:00
- - user: None
- - tags: []
-
-## volzo · volzo.de
- - [https://volzo.de](https://volzo.de)
- - date published: 2023-10-25T18:33:21.403089+00:00
- - user: None
- - tags: []
-
-## vzbv
- - [https://www.vzbv.de](https://www.vzbv.de)
- - date published: 2023-10-31T08:58:05.940865+00:00
- - user: None
- - tags: []
-
-## WELT - Aktuelle Nachrichten, News, Hintergründe & Videos
- - [https://www.welt.de](https://www.welt.de)
- - date published: 2023-10-25T18:33:41+00:00
- - user: rumpel
- - tags: ['germany news']
-
-## whatheco.de – Discussions on software, design, and software design.
- - [https://whatheco.de](https://whatheco.de)
- - date published: 2023-10-25T18:33:46.115321+00:00
- - user: None
- - tags: []
-
-## WHDLoad
- - [https://www.whdload.de](https://www.whdload.de)
- - date published: 2023-10-27T14:27:32.256574+00:00
- - user: None
- - tags: ['amiga']
-
-## Ode to capitalism
- - [https://blog.xa0.de](https://blog.xa0.de)
- - date published: 2023-10-25T18:33:54.731626+00:00
- - user: None
- - tags: []
-
-## ZEIT ONLINE | Nachrichten, News, Hintergründe und Debatten
- - [https://www.zeit.de](https://www.zeit.de)
- - date published: 2023-10-25T18:34:07.682068+00:00
- - user: None
- - tags: []
-
-## Jelly Deals
- - [https://www.jelly.deals](https://www.jelly.deals)
- - date published: 2023-12-13T15:40:49.601884+00:00
- - user: None
- - tags: []
-
-## Explore - git.meli.delivery
- - [https://git.meli.delivery](https://git.meli.delivery)
- - date published: 2023-10-25T18:34:11.386923+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://www.1984.design](https://www.1984.design)
- - date published: 2023-10-25T18:34:13.186299+00:00
- - user: None
- - tags: []
-
-## archives.design
- - [https://archives.design](https://archives.design)
- - date published: 2023-10-25T18:34:15.291934+00:00
- - user: None
- - tags: []
-
-## Design For Awareness | Cap_able Design
- - [https://www.capable.design](https://www.capable.design)
- - date published: 2023-10-25T18:34:17.686429+00:00
- - user: None
- - tags: []
-
-## Product design & UX design resources – Degreeless.Design
- - [https://www.degreeless.design](https://www.degreeless.design)
- - date published: 2023-10-25T18:34:21.863194+00:00
- - user: None
- - tags: []
-
-## École supérieure d’art et de design d’Amiens / design | accueil
- - [https://esad-amiens.design](https://esad-amiens.design)
- - date published: 2023-12-11T16:19:11.537933+00:00
- - user: None
- - tags: []
-
-## femke.design / Femke van Schoonhoven
- - [https://www.femke.design](https://www.femke.design)
- - date published: 2023-10-25T09:21:33.094419+00:00
- - user: None
- - tags: ['personal']
-
-## Growth.Design — Better Products, Better Growth.
- - [https://growth.design](https://growth.design)
- - date published: 2023-10-25T18:34:22.781659+00:00
- - user: None
- - tags: []
-
-## Julie Chabin
- - [https://www.julie.design](https://www.julie.design)
- - date published: 2023-10-25T09:21:34.151926+00:00
- - user: None
- - tags: ['personal']
-
-## mastodon.design
- - [https://mastodon.design](https://mastodon.design)
- - date published: 2023-12-11T16:19:14.967288+00:00
- - user: None
- - tags: []
-
-## Home - Fluent 2 Design System
- - [https://fluent2.microsoft.design](https://fluent2.microsoft.design)
- - date published: 2023-10-25T18:34:24.950370+00:00
- - user: None
- - tags: []
-
-## Miris Whispers
- - [https://blog.miris.design](https://blog.miris.design)
- - date published: 2023-10-25T18:34:31.450280+00:00
- - user: None
- - tags: []
-
-## Reconstrained Design
- - [https://reconstrained.design](https://reconstrained.design)
- - date published: 2023-12-11T16:18:13.316990+00:00
- - user: None
- - tags: []
-
-## Slack Design
- - [https://slack.design](https://slack.design)
- - date published: 2023-11-02T16:39:18.847159+00:00
- - user: None
- - tags: []
-
-## Steve Polito is a full stack web developer in the Boston Area
- - [https://stevepolito.design](https://stevepolito.design)
- - date published: 2023-10-25T18:34:32.217038+00:00
- - user: None
- - tags: []
-
-## Wise Design
- - [https://wise.design](https://wise.design)
- - date published: 2023-10-25T18:34:32.784058+00:00
- - user: None
- - tags: []
-
-## 0x7D0
- - [https://blog.0x7d0.dev](https://blog.0x7d0.dev)
- - date published: 2023-10-25T18:34:34.220775+00:00
- - user: None
- - tags: []
-
-## 0x7f Inc.
- - [https://0x7f.dev](https://0x7f.dev)
- - date published: 2023-10-25T18:34:34.827334+00:00
- - user: None
- - tags: []
-
-## A world where people pay for software
- - [https://1sub.dev](https://1sub.dev)
- - date published: 2023-10-25T18:34:35.457611+00:00
  - user: None
  - tags: []
 

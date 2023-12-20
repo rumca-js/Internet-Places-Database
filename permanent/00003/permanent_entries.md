@@ -1,3 +1,129 @@
+## Delorean Motor Company
+ - [https://delorean.com](https://delorean.com)
+ - date published: 2023-10-25T13:48:49.685212+00:00
+ - user: None
+ - tags: []
+
+## Delphine McClelland
+ - [https://delphinemcclelland.com](https://delphinemcclelland.com)
+ - date published: 2023-11-29T16:21:10.733735+00:00
+ - user: None
+ - tags: ['personal']
+
+## SEO Platform for Enterprises & Agencies - DemandSphere
+ - [https://www.demandsphere.com](https://www.demandsphere.com)
+ - date published: 2023-10-25T13:48:54.822392+00:00
+ - user: None
+ - tags: []
+
+## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
+ - [https://democratherald.com](https://democratherald.com)
+ - date published: 2023-11-04T05:50:19.542658+00:00
+ - user: None
+ - tags: []
+
+## Demodesk | The sales meeting platform
+ - [https://demodesk.com](https://demodesk.com)
+ - date published: 2023-10-25T13:48:59.749649+00:00
+ - user: None
+ - tags: []
+
+## DemoTime. Magic highlights after every demo!
+ - [https://demotime.com](https://demotime.com)
+ - date published: 2023-10-25T13:49:00.328092+00:00
+ - user: None
+ - tags: []
+
+## Denise Cornell - Customer Marketing
+ - [https://www.denisecornell.com](https://www.denisecornell.com)
+ - date published: 2023-12-05T14:38:38.929100+00:00
+ - user: None
+ - tags: ['personal']
+
+## Denis Reis
+ - [https://www.denisreis.com](https://www.denisreis.com)
+ - date published: 2023-11-29T17:09:24.363537+00:00
+ - user: None
+ - tags: []
+
+## Deniz Akşimşek
+ - [https://denizaksimsek.com](https://denizaksimsek.com)
+ - date published: 2023-10-25T13:49:01.779557+00:00
+ - user: None
+ - tags: []
+
+## Dennis Stoelwinder | Decoding What Makes Us Human
+ - [https://dennisstoelwinder.com](https://dennisstoelwinder.com)
+ - date published: 2023-12-13T20:58:34.316192+00:00
+ - user: None
+ - tags: ['personal']
+
+## Deno, The next-generation JavaScript runtime
+ - [https://deno.com](https://deno.com)
+ - date published: 2023-10-25T13:49:13.631224+00:00
+ - user: None
+ - tags: []
+
+## Den of Geek | The Best in TV, Movies, Games, Comics, and More!
+ - [https://www.denofgeek.com](https://www.denofgeek.com)
+ - date published: 2023-10-25T10:51:12.729993+00:00
+ - user: None
+ - tags: ['movies', 'fantasy', 'games', 'news']
+
+## Homepage
+ - [https://www.denver7.com](https://www.denver7.com)
+ - date published: 2023-11-06T03:55:12.502837+00:00
+ - user: None
+ - tags: []
+
+## Denver News, Sports & Business | Denver Gazette, N
+ - [https://denvergazette.com](https://denvergazette.com)
+ - date published: 2023-10-25T13:49:22.527421+00:00
+ - user: None
+ - tags: []
+
+## Denverite, the Denver site!
+ - [https://denverite.com](https://denverite.com)
+ - date published: 2023-10-25T13:49:27.465378+00:00
+ - user: None
+ - tags: []
+
+## The Denver Post – Colorado breaking news, sports, business, weather, entertainment.
+ - [https://www.denverpost.com](https://www.denverpost.com)
+ - date published: 2023-10-25T11:03:04.845006+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Made a forum for depressed founders to confide
+ - [https://www.depressedfounders.com](https://www.depressedfounders.com)
+ - date published: 2023-12-17T06:21:25+00:00
+ - user: None
+ - tags: []
+
+## Derek Houck
+ - [https://derekhouck.com](https://derekhouck.com)
+ - date published: 2023-12-19T02:59:18.608346+00:00
+ - user: None
+ - tags: ['personal']
+
+## Derek Goodwin Photography | Headshot & Branding Photographer
+ - [https://www.derekpashupagoodwin.com](https://www.derekpashupagoodwin.com)
+ - date published: 2023-11-29T17:08:37.949199+00:00
+ - user: None
+ - tags: ['personal']
+
+## Derek Yu's Home on the Web
+ - [https://derekyu.com](https://derekyu.com)
+ - date published: 2023-10-25T13:49:29.295325+00:00
+ - user: None
+ - tags: []
+
+## Deseret News
+ - [https://www.deseret.com](https://www.deseret.com)
+ - date published: 2023-10-25T13:49:44.338672+00:00
+ - user: None
+ - tags: ['utah news']
+
 ## Desiderata - Desiderata Poem - Desiderata Prints
  - [https://www.desiderata.com](https://www.desiderata.com)
  - date published: 2023-10-25T13:49:58.782774+00:00
@@ -4001,12 +4127,6 @@
  - user: None
  - tags: []
 
-## Fluid Reality
- - [https://www.fluidreality.com](https://www.fluidreality.com)
- - date published: 2023-12-06T10:36:36+00:00
- - user: rumpel
- - tags: ['virtual reality', 'virtual reality gloves']
-
 ## Fluski
  - [https://fluski.com](https://fluski.com)
  - date published: 2023-10-25T14:33:33.683600+00:00
@@ -5880,124 +6000,4 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-25T14:45:57.049966+00:00
  - user: None
  - tags: []
-
-## https://electronics360.globalspec.com
- - [https://electronics360.globalspec.com](https://electronics360.globalspec.com)
- - date published: 2023-10-25T14:45:57.332220+00:00
- - user: None
- - tags: []
-
-## Global Table Adventure | Bringing the World to your Kitchen
- - [https://globaltableadventure.com](https://globaltableadventure.com)
- - date published: 2023-11-17T07:29:02.885266+00:00
- - user: None
- - tags: ['personal']
-
-## Global Toy News – The World's Most Influential Toy Magazine
- - [https://globaltoynews.com](https://globaltoynews.com)
- - date published: 2023-10-25T14:46:04.543243+00:00
- - user: None
- - tags: []
-
-## Globe Echo - Latest World News
- - [https://globeecho.com](https://globeecho.com)
- - date published: 2023-10-25T14:46:10.193762+00:00
- - user: None
- - tags: []
-
-## Send Press Releases With GlobeNews Wire | GlobeNewswire
- - [https://www.globenewswire.com](https://www.globenewswire.com)
- - date published: 2023-10-25T14:46:36.559043+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://glorifiedgluer.com](https://glorifiedgluer.com)
- - date published: 2023-10-25T14:46:37.769776+00:00
- - user: None
- - tags: []
-
-## Gloves Mag – Best Gloves Amazon Reviews
- - [https://www.glovesmag.com](https://www.glovesmag.com)
- - date published: 2023-11-27T16:24:13+00:00
- - user: rumpel
- - tags: []
-
-## The Glowforge Blog -
- - [https://blog.glowforge.com](https://blog.glowforge.com)
- - date published: 2023-10-25T14:46:39.907372+00:00
- - user: None
- - tags: []
-
-## Investor Relations | General Motors Company
- - [https://investor.gm.com](https://investor.gm.com)
- - date published: 2023-10-25T14:46:48.536780+00:00
- - user: None
- - tags: []
-
-## GMA Network
- - [https://www.gmanetwork.com](https://www.gmanetwork.com)
- - date published: 2023-11-09T03:55:55+00:00
- - user: rumpel
- - tags: ['philippine news']
-
-## Gabriel Mays - Semper esurientem.
- - [https://gmays.com](https://gmays.com)
- - date published: 2023-11-12T12:21:25.185278+00:00
- - user: None
- - tags: []
-
-## GMUNK
- - [https://gmunk.com](https://gmunk.com)
- - date published: 2023-10-25T14:46:51.066856+00:00
- - user: None
- - tags: []
-
-## ABC News - Breaking News, Latest News and Videos
- - [https://abcnews.go.com](https://abcnews.go.com)
- - date published: 2023-10-25T14:46:56.843829+00:00
- - user: None
- - tags: []
-
-## GoatCounter – open source web analytics
- - [https://www.goatcounter.com](https://www.goatcounter.com)
- - date published: 2023-10-25T14:46:57.535413+00:00
- - user: None
- - tags: []
-
-## Anxiety & Panic Attack Relief App - Calmer
- - [https://gocalmer.com](https://gocalmer.com)
- - date published: 2023-12-04T09:53:04.020464+00:00
- - user: None
- - tags: []
-
-## Today's Comics Online | Read Comic Strips at GoComics
- - [https://www.gocomics.com](https://www.gocomics.com)
- - date published: 2023-10-25T11:30:13.545385+00:00
- - user: None
- - tags: []
-
-## alex singleton | web developer | software engineer | financial analyst
- - [https://godhatesshrimp.com](https://godhatesshrimp.com)
- - date published: 2023-12-13T15:35:40+00:00
- - user: rumpel
- - tags: ['wtf', 'funny', 'internet']
-
-## GoFundMe: #1 Fundraising Platform for Crowdfunding
- - [https://www.gofundme.com](https://www.gofundme.com)
- - date published: 2023-10-25T11:34:08.378901+00:00
- - user: None
- - tags: ['crowdfunding']
-
-## GOG.com
- - [https://www.gog.com](https://www.gog.com)
- - date published: 2023-10-24T20:11:00.912262+00:00
- - user: None
- - tags: ['game store']
-
-## Timothée Goguely
- - [https://timothee.goguely.com](https://timothee.goguely.com)
- - date published: 2023-11-29T14:24:13.415481+00:00
- - user: None
- - tags: ['personal']
 

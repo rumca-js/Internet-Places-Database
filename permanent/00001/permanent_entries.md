@@ -1,3 +1,51 @@
+## Not Boring by Packy McCormick | Substack
+ - [https://www.notboring.co](https://www.notboring.co)
+ - date published: 2023-10-25T12:20:07.539847+00:00
+ - user: None
+ - tags: []
+
+## Notepin - Extremely simple blogging platform
+ - [https://notepin.co](https://notepin.co)
+ - date published: 2023-10-25T12:20:11.005522+00:00
+ - user: None
+ - tags: []
+
+## Olvy | Manage your user feedback like never before
+ - [https://olvy.co](https://olvy.co)
+ - date published: 2023-10-25T12:20:23.810512+00:00
+ - user: None
+ - tags: []
+
+## On my Om
+ - [https://om.co](https://om.co)
+ - date published: 2023-10-25T12:33:54.845209+00:00
+ - user: None
+ - tags: ['personal']
+
+## openapi-stack | openapi-stack
+ - [https://openapistack.co](https://openapistack.co)
+ - date published: 2023-10-25T12:22:02.887608+00:00
+ - user: None
+ - tags: []
+
+## Other Life
+ - [https://otherlife.co](https://otherlife.co)
+ - date published: 2023-10-25T12:22:06.900630+00:00
+ - user: None
+ - tags: []
+
+## WhatsApp Wrapped - Chat Insights and Analysis
+ - [https://www.ourchatstory.co](https://www.ourchatstory.co)
+ - date published: 2023-10-25T12:21:13.195288+00:00
+ - user: None
+ - tags: []
+
+## Pasteboard — Easy Image Uploads
+ - [https://pasteboard.co](https://pasteboard.co)
+ - date published: 2023-10-24T20:20:43.389331+00:00
+ - user: None
+ - tags: []
+
 ## Polymer: Hiring made simple
  - [https://jobs.polymer.co](https://jobs.polymer.co)
  - date published: 2023-10-25T12:21:15.679114+00:00
@@ -760,6 +808,12 @@
  - user: None
  - tags: []
 
+## Who's In Charge of My Mind?
+ - [https://NotMyMind.com](https://NotMyMind.com)
+ - date published: 2023-12-19T23:17:03.469269+00:00
+ - user: None
+ - tags: []
+
 ## Outstatic - A Static Site CMS for Next.js
  - [https://Outstatic.com](https://Outstatic.com)
  - date published: 2023-10-25T12:28:34.794655+00:00
@@ -951,6 +1005,12 @@
  - date published: 2023-10-25T12:29:59.792652+00:00
  - user: None
  - tags: []
+
+## Comment Gagner de l'Argent en 2023 ? Voici 60 idées + 89 sites.
+ - [https://www.abcargent.com](https://www.abcargent.com)
+ - date published: 2023-12-19T03:00:33.268558+00:00
+ - user: None
+ - tags: ['personal']
 
 ## ABC Digital Syndication | ABC Audio Digital Syndication
  - [https://digital.abcaudio.com](https://digital.abcaudio.com)
@@ -2770,6 +2830,12 @@
  - user: None
  - tags: []
 
+## Angélique Weger
+ - [https://angeliqueweger.com](https://angeliqueweger.com)
+ - date published: 2023-12-19T19:09:14.788158+00:00
+ - user: None
+ - tags: ['personal']
+
 ## AngleLock Extruded Aluminum Framing | Beats T-Slots & Steel
  - [https://anglelock.com](https://anglelock.com)
  - date published: 2023-11-01T11:38:19.728459+00:00
@@ -4228,6 +4294,12 @@
  - user: None
  - tags: []
 
+## Home - Andrew Whitelee
+ - [https://awhitelee.com](https://awhitelee.com)
+ - date published: 2023-12-19T10:00:20.226120+00:00
+ - user: None
+ - tags: ['personal']
+
 ## SVG and PNG AWS icons | AWS Icons
  - [https://aws-icons.com](https://aws-icons.com)
  - date published: 2023-10-25T09:07:44.572730+00:00
@@ -4708,6 +4780,12 @@
  - user: None
  - tags: []
 
+## Darren Beale (Bealers)
+ - [https://bealers.com](https://bealers.com)
+ - date published: 2023-12-19T02:59:22.260484+00:00
+ - user: None
+ - tags: ['personal']
+
 ## OnTableTop – Home of Beasts of War – A World of Tabletop Wargaming
  - [https://beastsofwar.com](https://beastsofwar.com)
  - date published: 2023-12-13T15:38:27.091191+00:00
@@ -5104,6 +5182,12 @@
  - user: None
  - tags: []
 
+## Ben Oliver
+ - [https://www.bfoliver.com](https://www.bfoliver.com)
+ - date published: 2023-12-19T19:08:03.990555+00:00
+ - user: None
+ - tags: ['personal']
+
 ## BGR | Tech & Entertainment News, Reviews, & Deals
  - [https://bgr.com](https://bgr.com)
  - date published: 2023-10-25T12:58:43.634023+00:00
@@ -5157,6 +5241,12 @@
  - date published: 2023-10-25T12:59:26.339536+00:00
  - user: None
  - tags: []
+
+## https://www.bigscreenvr.com
+ - [https://www.bigscreenvr.com](https://www.bigscreenvr.com)
+ - date published: 2023-12-19T22:02:45+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
 
 ## Big Technology | Alex Kantrowitz | Substack
  - [https://www.bigtechnology.com](https://www.bigtechnology.com)
@@ -5907,94 +5997,4 @@
  - date published: 2023-11-28T07:48:07+00:00
  - user: rumpel
  - tags: ['blog', 'personal']
-
-## That grumpy BSD guy
- - [https://bsdly.blogspot.com](https://bsdly.blogspot.com)
- - date published: 2023-10-25T09:06:20.001075+00:00
- - user: None
- - tags: ['personal']
-
-## Making a C64/C65 compatible computer
- - [https://c65gs.blogspot.com](https://c65gs.blogspot.com)
- - date published: 2023-10-25T09:06:24.335016+00:00
- - user: None
- - tags: ['personal']
-
-## Cererean Scratchpad
- - [https://cerereanscratchpad.blogspot.com](https://cerereanscratchpad.blogspot.com)
- - date published: 2023-10-25T13:05:07.172479+00:00
- - user: None
- - tags: []
-
-## Coding And Computers
- - [https://coding-and-computers.blogspot.com](https://coding-and-computers.blogspot.com)
- - date published: 2023-10-25T09:06:35.597530+00:00
- - user: None
- - tags: ['personal']
-
-## command center
- - [https://commandcenter.blogspot.com](https://commandcenter.blogspot.com)
- - date published: 2023-10-25T09:06:37.426358+00:00
- - user: None
- - tags: ['personal']
-
-## The CRPG Addict
- - [https://crpgaddict.blogspot.com](https://crpgaddict.blogspot.com)
- - date published: 2023-11-03T07:09:22.088870+00:00
- - user: None
- - tags: []
-
-## Cubic
- - [https://cubicspot.blogspot.com](https://cubicspot.blogspot.com)
- - date published: 2023-10-25T09:08:04.589544+00:00
- - user: None
- - tags: ['personal']
-
-## Cypher Phunk
- - [https://cypherphunk.blogspot.com](https://cypherphunk.blogspot.com)
- - date published: 2023-10-25T09:08:06.752061+00:00
- - user: None
- - tags: ['personal']
-
-## Database Architects
- - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
- - date published: 2023-10-25T09:08:09.774302+00:00
- - user: None
- - tags: ['personal']
-
-## Agile & Coding
- - [https://davidvujic.blogspot.com](https://davidvujic.blogspot.com)
- - date published: 2023-12-03T12:58:17.652706+00:00
- - user: None
- - tags: []
-
-## DBMS Musings
- - [https://dbmsmusings.blogspot.com](https://dbmsmusings.blogspot.com)
- - date published: 2023-10-25T09:08:13.440905+00:00
- - user: None
- - tags: ['personal']
-
-## Twin methods in OpenMx
- - [https://dbtemp.blogspot.com](https://dbtemp.blogspot.com)
- - date published: 2023-11-19T21:54:21.568274+00:00
- - user: None
- - tags: []
-
-## BishopBlog
- - [https://deevybee.blogspot.com](https://deevybee.blogspot.com)
- - date published: 2023-11-19T21:54:20.334258+00:00
- - user: None
- - tags: []
-
-## diamond geezer
- - [https://diamondgeezer.blogspot.com](https://diamondgeezer.blogspot.com)
- - date published: 2023-10-25T09:08:20.616641+00:00
- - user: None
- - tags: ['personal']
-
-## Disagreeable Me
- - [https://disagreeableme.blogspot.com](https://disagreeableme.blogspot.com)
- - date published: 2023-10-25T13:05:14.763793+00:00
- - user: None
- - tags: []
 

@@ -1,3 +1,237 @@
+## Ragntune
+ - [https://ragntune.com](https://ragntune.com)
+ - date published: 2023-10-25T16:45:16.285031+00:00
+ - user: None
+ - tags: []
+
+## Rails at Scale | The Ruby and Rails Infrastructure team at Shopify exists to help ensure that Ruby and Rails are 100-year tools that will continue to merit being our toolchain of choice.
+ - [https://railsatscale.com](https://railsatscale.com)
+ - date published: 2023-10-25T16:45:22.257901+00:00
+ - user: None
+ - tags: []
+
+## St. Thomas Ontario - Things to see and do in St. Thomas Ontario Canada
+ - [https://www.railwaycitytourism.com](https://www.railwaycitytourism.com)
+ - date published: 2023-10-25T16:45:24.751409+00:00
+ - user: None
+ - tags: []
+
+## Software the Hard way – Thoughts on Software Development
+ - [https://software.rajivprab.com](https://software.rajivprab.com)
+ - date published: 2023-10-25T16:45:26.912420+00:00
+ - user: None
+ - tags: []
+
+## Ralph Ammer -
+ - [https://ralphammer.com](https://ralphammer.com)
+ - date published: 2023-10-25T16:45:31.158285+00:00
+ - user: None
+ - tags: []
+
+## Ramatak Inc. – Make godot work for you
+ - [https://ramatak.com](https://ramatak.com)
+ - date published: 2023-10-25T16:45:32.477420+00:00
+ - user: None
+ - tags: []
+
+## Ramda Documentation
+ - [https://ramdajs.com](https://ramdajs.com)
+ - date published: 2023-10-25T16:45:33.545817+00:00
+ - user: None
+ - tags: []
+
+## ramel · luzoir
+ - [https://www.ramel-luzoir.com](https://www.ramel-luzoir.com)
+ - date published: 2023-12-11T16:19:03.585971+00:00
+ - user: None
+ - tags: []
+
+## ramoneando
+ - [https://ramoneando.com](https://ramoneando.com)
+ - date published: 2023-12-01T10:46:48.209422+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ramp Engineering
+ - [https://engineering.ramp.com](https://engineering.ramp.com)
+ - date published: 2023-11-24T17:44:12.919687+00:00
+ - user: None
+ - tags: []
+
+## Home - Ramraj's personal site
+ - [https://www.ramrajv.com](https://www.ramrajv.com)
+ - date published: 2023-10-25T16:45:35.093200+00:00
+ - user: None
+ - tags: []
+
+## Innovate Everywhere
+ - [https://www.rancher.com](https://www.rancher.com)
+ - date published: 2023-11-01T08:43:01.849335+00:00
+ - user: None
+ - tags: []
+
+## Random Nerd Tutorials | Learn ESP32, ESP8266, Arduino, and Raspberry Pi
+ - [https://randomnerdtutorials.com](https://randomnerdtutorials.com)
+ - date published: 2023-10-25T09:27:38.111475+00:00
+ - user: None
+ - tags: []
+
+## Random Street View - images from all over the world.
+ - [https://randomstreetview.com](https://randomstreetview.com)
+ - date published: 2023-10-25T16:45:36.346845+00:00
+ - user: None
+ - tags: []
+
+## Randomwire – Exploring Asia since 2003
+ - [https://randomwire.com](https://randomwire.com)
+ - date published: 2023-10-25T16:45:40.497133+00:00
+ - user: None
+ - tags: []
+
+## Randy Adams
+ - [https://randyadamsmusic.com](https://randyadamsmusic.com)
+ - date published: 2023-11-29T14:21:19.912930+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rank Math - Best Free WordPress SEO Tools in 2023
+ - [https://rankmath.com](https://rankmath.com)
+ - date published: 2023-12-12T09:10:24.860553+00:00
+ - user: None
+ - tags: []
+
+## Ran Prieur
+ - [https://ranprieur.com](https://ranprieur.com)
+ - date published: 2023-10-25T16:45:43.286121+00:00
+ - user: None
+ - tags: []
+
+## Badger Forge – Metal with Marcus
+ - [https://ranum.com](https://ranum.com)
+ - date published: 2023-10-25T16:45:46.787791+00:00
+ - user: None
+ - tags: []
+
+## Home - Ranvier
+ - [https://ranviermud.com](https://ranviermud.com)
+ - date published: 2023-10-27T13:33:13.829016+00:00
+ - user: None
+ - tags: []
+
+## Raph's Website – Raph Koster's personal website: MMOs, gaming, writing, art, music, books
+ - [https://www.raphkoster.com](https://www.raphkoster.com)
+ - date published: 2023-10-25T16:45:52.753949+00:00
+ - user: None
+ - tags: []
+
+## Rapid7 - Practitioner-First Cybersecurity Solutions
+ - [https://www.rapid7.com](https://www.rapid7.com)
+ - date published: 2023-11-02T21:48:53.486716+00:00
+ - user: None
+ - tags: []
+
+## Raptitude.com – Getting Better at Being Human
+ - [https://www.raptitude.com](https://www.raptitude.com)
+ - date published: 2023-10-25T16:45:55.472030+00:00
+ - user: None
+ - tags: ['psychology', 'personal', 'humanism', 'blog']
+
+## Rara Themes: Easy to Use Mobile-Friendly WordPress Themes
+ - [https://rarathemes.com](https://rarathemes.com)
+ - date published: 2023-12-12T09:07:39.430646+00:00
+ - user: None
+ - tags: []
+
+## Cooking in the Archives | Updating Early Modern Recipes (1600-1800) in a Modern Kitchen
+ - [https://rarecooking.com](https://rarecooking.com)
+ - date published: 2023-10-25T16:46:09.265096+00:00
+ - user: None
+ - tags: []
+
+## Rare Historical Photos
+ - [https://rarehistoricalphotos.com](https://rarehistoricalphotos.com)
+ - date published: 2023-10-25T16:46:14.497153+00:00
+ - user: None
+ - tags: []
+
+## Frontpage - Rasmus Wied
+ - [https://rasmuswied.com](https://rasmuswied.com)
+ - date published: 2023-12-02T13:41:27.985049+00:00
+ - user: None
+ - tags: ['personal']
+
+## Raspberry Pi
+ - [https://www.raspberrypi.com](https://www.raspberrypi.com)
+ - date published: 2023-10-25T11:26:23.294870+00:00
+ - user: None
+ - tags: []
+
+## RaspberryTips – Raspberry Pi projects and tutorials
+ - [https://raspberrytips.com](https://raspberrytips.com)
+ - date published: 2023-10-25T11:15:16.942230+00:00
+ - user: None
+ - tags: []
+
+## Home - ratfactor
+ - [https://ratfactor.com](https://ratfactor.com)
+ - date published: 2023-10-25T16:46:22.037973+00:00
+ - user: None
+ - tags: []
+
+## rauljordan::blog
+ - [https://rauljordan.com](https://rauljordan.com)
+ - date published: 2023-10-25T16:46:23.059903+00:00
+ - user: None
+ - tags: []
+
+## Ravenbrook
+ - [https://www.ravenbrook.com](https://www.ravenbrook.com)
+ - date published: 2023-10-25T16:46:24.313763+00:00
+ - user: None
+ - tags: []
+
+## RavynOS Finesse of macOS. Freedom of FreeBSD
+ - [https://ravynos.com](https://ravynos.com)
+ - date published: 2023-12-01T11:29:23+00:00
+ - user: None
+ - tags: []
+
+## Raycast
+ - [https://www.raycast.com](https://www.raycast.com)
+ - date published: 2023-10-25T16:46:30.372725+00:00
+ - user: None
+ - tags: []
+
+## Raymond Camden
+ - [https://www.raymondcamden.com](https://www.raymondcamden.com)
+ - date published: 2023-12-08T08:33:21.749631+00:00
+ - user: None
+ - tags: ['personal']
+
+## Razed Mods
+ - [https://www.razedmods.com](https://www.razedmods.com)
+ - date published: 2023-10-25T11:09:52.685264+00:00
+ - user: None
+ - tags: []
+
+## Razer United States | For Gamers. By Gamers.
+ - [https://www.razer.com](https://www.razer.com)
+ - date published: 2023-11-01T08:43:02.828069+00:00
+ - user: None
+ - tags: []
+
+## Russia Beyond
+ - [https://www.rbth.com](https://www.rbth.com)
+ - date published: 2023-10-25T16:46:32.231795+00:00
+ - user: None
+ - tags: []
+
+## | rcanzlovar
+ - [https://rcanzlovar.com](https://rcanzlovar.com)
+ - date published: 2023-12-13T11:22:24.949802+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Redmond Channel Partner Home -- Redmond Channel Partner
  - [https://rcpmag.com](https://rcpmag.com)
  - date published: 2023-10-25T09:35:01.402813+00:00
@@ -484,6 +718,12 @@
  - user: None
  - tags: []
 
+## Homepage - Relvin Gonzalez
+ - [https://relvingonzalez.com](https://relvingonzalez.com)
+ - date published: 2023-12-19T09:59:23.699306+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Home | reMarkable
  - [https://remarkable.com](https://remarkable.com)
  - date published: 2023-10-25T16:49:24.798927+00:00
@@ -907,6 +1147,12 @@
 ## Rich Gee High-Performance Coaching
  - [https://richgee.com](https://richgee.com)
  - date published: 2023-12-02T10:25:43.025735+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rich Tabor - Multidisciplinary maker specializing in the intersection of product, design and engineering. Making WordPress.
+ - [https://richtabor.com](https://richtabor.com)
+ - date published: 2023-12-19T09:59:46.789011+00:00
  - user: None
  - tags: ['personal']
 
@@ -5756,252 +6002,6 @@
 ## Life Since the Baby Boom | Albert Cory | Substack
  - [https://albertcory50.substack.com](https://albertcory50.substack.com)
  - date published: 2023-10-25T09:41:35.577450+00:00
- - user: None
- - tags: ['substack']
-
-## The Alchemy of Money | Frederik Gieschen | Substack
- - [https://alchemy.substack.com](https://alchemy.substack.com)
- - date published: 2023-12-04T15:57:22.523973+00:00
- - user: None
- - tags: []
-
-## Public Service | Alethios | Substack
- - [https://alethios.substack.com](https://alethios.substack.com)
- - date published: 2023-11-16T09:10:46.307541+00:00
- - user: None
- - tags: []
-
-## Unreported Truths | Alex Berenson | Substack
- - [https://alexberenson.substack.com](https://alexberenson.substack.com)
- - date published: 2023-10-25T09:41:42.940169+00:00
- - user: None
- - tags: ['substack']
-
-## Alex Ewerlöf Notes | Substack
- - [https://alexewerlof.substack.com](https://alexewerlof.substack.com)
- - date published: 2023-10-25T09:41:45.579089+00:00
- - user: None
- - tags: ['substack']
-
-## Rational in the Fullness of Time | Alexandr Wang | Substack
- - [https://alexw.substack.com](https://alexw.substack.com)
- - date published: 2023-10-25T09:41:47.119980+00:00
- - user: None
- - tags: ['substack']
-
-## A Biologist's Guide to Life | Alex Washburne | Substack
- - [https://alexwasburne.substack.com](https://alexwasburne.substack.com)
- - date published: 2023-10-25T09:41:49.395167+00:00
- - user: None
- - tags: ['substack']
-
-## Alex Writes | Alex Wilhelm | Substack
- - [https://alexwrites.substack.com](https://alexwrites.substack.com)
- - date published: 2023-10-25T09:41:52.752191+00:00
- - user: None
- - tags: ['substack']
-
-## Am I Stronger Yet? | Steve | Substack
- - [https://amistrongeryet.substack.com](https://amistrongeryet.substack.com)
- - date published: 2023-10-25T09:41:55.230669+00:00
- - user: None
- - tags: ['substack']
-
-## Ammar Mian | Substack
- - [https://ammarmian.substack.com](https://ammarmian.substack.com)
- - date published: 2023-10-25T09:41:57.289319+00:00
- - user: None
- - tags: ['substack']
-
-## Sunshine and Seedlings: A Newsletter by HydroponicTrash | Substack
- - [https://anarchosolarpunk.substack.com](https://anarchosolarpunk.substack.com)
- - date published: 2023-10-25T09:42:00.050208+00:00
- - user: None
- - tags: ['substack']
-
-## Andrew's Substack | Andrew Huth | Substack
- - [https://andrewhuth.substack.com](https://andrewhuth.substack.com)
- - date published: 2023-10-25T09:42:02.215026+00:00
- - user: None
- - tags: ['substack']
-
-## Anh-Tho’s Newsletter | Anh-Tho Chuong | Substack
- - [https://anhtho.substack.com](https://anhtho.substack.com)
- - date published: 2023-10-25T09:42:03.676083+00:00
- - user: None
- - tags: ['substack']
-
-## Animation Obsessive | Animation Obsessive Staff | Substack
- - [https://animationobsessive.substack.com](https://animationobsessive.substack.com)
- - date published: 2023-10-25T09:42:11.045618+00:00
- - user: None
- - tags: ['substack']
-
-## Anna’s Archival Musings | Anna Mancini | Substack
- - [https://annamancini.substack.com](https://annamancini.substack.com)
- - date published: 2023-10-25T09:42:12.649007+00:00
- - user: None
- - tags: ['substack']
-
-## Culture Study | Anne Helen Petersen | Substack
- - [https://annehelen.substack.com](https://annehelen.substack.com)
- - date published: 2023-10-25T09:42:15.878553+00:00
- - user: None
- - tags: ['substack']
-
-## System Change | Ann Pettifor | Substack
- - [https://annpettifor.substack.com](https://annpettifor.substack.com)
- - date published: 2023-10-25T09:42:18.289389+00:00
- - user: None
- - tags: ['substack']
-
-## Age of Invention, by Anton Howes | Substack
- - [https://antonhowes.substack.com](https://antonhowes.substack.com)
- - date published: 2023-10-25T09:42:20.167627+00:00
- - user: None
- - tags: ['substack']
-
-## Beneath the Pavement | Antonio Melonio | Substack
- - [https://antoniomelonio.substack.com](https://antoniomelonio.substack.com)
- - date published: 2023-10-25T09:42:24.309389+00:00
- - user: None
- - tags: ['substack']
-
-## Working Theories | Anu Atluru | Substack
- - [https://anu.substack.com](https://anu.substack.com)
- - date published: 2023-10-25T09:42:27.141462+00:00
- - user: None
- - tags: ['substack']
-
-## Runner’s Newsletter | Substack
- - [https://applewatchrunner.substack.com](https://applewatchrunner.substack.com)
- - date published: 2023-10-25T09:42:29.442208+00:00
- - user: None
- - tags: ['substack']
-
-## Mindful Musings | Apurva Chitnis | Substack
- - [https://apuchitnis.substack.com](https://apuchitnis.substack.com)
- - date published: 2023-10-25T09:42:32.956411+00:00
- - user: None
- - tags: ['substack']
-
-## Cabinet of Wonders | Samuel Arbesman | Substack
- - [https://arbesman.substack.com](https://arbesman.substack.com)
- - date published: 2023-10-25T09:42:37.648122+00:00
- - user: None
- - tags: ['substack']
-
-## Transmissions from the floor | Drew Schorno | Substack
- - [https://arcove.substack.com](https://arcove.substack.com)
- - date published: 2023-10-25T09:42:40.395493+00:00
- - user: None
- - tags: ['substack']
-
-## In My Tribe | Arnold Kling | Substack
- - [https://arnoldkling.substack.com](https://arnoldkling.substack.com)
- - date published: 2023-10-25T09:42:46.788508+00:00
- - user: None
- - tags: ['substack']
-
-## The Asianometry Newsletter | Jon Y | Substack
- - [https://asianometry.substack.com](https://asianometry.substack.com)
- - date published: 2023-10-25T09:42:50.856135+00:00
- - user: None
- - tags: ['substack']
-
-## Assisted Everything | Marco Witzmann | Substack
- - [https://assistedeverything.substack.com](https://assistedeverything.substack.com)
- - date published: 2023-10-25T09:42:57.739698+00:00
- - user: None
- - tags: ['substack']
-
-## Astral Codex Ten | Scott Alexander | Substack
- - [https://astralcodexten.substack.com](https://astralcodexten.substack.com)
- - date published: 2023-10-25T09:43:00.399502+00:00
- - user: None
- - tags: ['substack']
-
-## Athelas Engineering | Aakash Adesara | Substack
- - [https://athelaseng.substack.com](https://athelaseng.substack.com)
- - date published: 2023-10-25T09:43:02.627661+00:00
- - user: None
- - tags: ['substack']
-
-## atomic14 | Chris Greening | Substack
- - [https://atomic14.substack.com](https://atomic14.substack.com)
- - date published: 2023-11-04T18:28:36.332399+00:00
- - user: None
- - tags: []
-
-## Auerstack | David B. Auerbach | Substack
- - [https://auerstack.substack.com](https://auerstack.substack.com)
- - date published: 2023-10-25T09:43:04.705340+00:00
- - user: None
- - tags: ['substack']
-
-## Trying to Understand the World | Aurelien | Substack
- - [https://aurelien2022.substack.com](https://aurelien2022.substack.com)
- - date published: 2023-10-25T09:43:13.295537+00:00
- - user: None
- - tags: ['substack']
-
-## bookbear express | Ava | Substack
- - [https://ava.substack.com](https://ava.substack.com)
- - date published: 2023-10-25T09:43:14.791735+00:00
- - user: None
- - tags: ['substack']
-
-## Andreas Kling | Substack
- - [https://awesomekling.substack.com](https://awesomekling.substack.com)
- - date published: 2023-10-25T09:43:16.642349+00:00
- - user: None
- - tags: ['substack']
-
-## Bad Software Advice | David Tate | Substack
- - [https://badsoftwareadvice.substack.com](https://badsoftwareadvice.substack.com)
- - date published: 2023-10-25T09:43:18.720440+00:00
- - user: None
- - tags: ['substack']
-
-## The Finest Tuners | Barry Z | Substack
- - [https://barryzhang.substack.com](https://barryzhang.substack.com)
- - date published: 2023-10-25T09:43:26.131333+00:00
- - user: None
- - tags: ['substack']
-
-## Basta’s Notes | Matt Basta | Substack
- - [https://basta.substack.com](https://basta.substack.com)
- - date published: 2023-10-25T09:43:29.590085+00:00
- - user: None
- - tags: ['substack']
-
-## Behavioral Value Investor | Gary Mishuris, CFA | Substack
- - [https://behavioralvalueinvestor.substack.com](https://behavioralvalueinvestor.substack.com)
- - date published: 2023-10-25T09:43:40.035975+00:00
- - user: None
- - tags: ['substack']
-
-## Eurykosmotron | Ben Goertzel | Substack
- - [https://bengoertzel.substack.com](https://bengoertzel.substack.com)
- - date published: 2023-10-25T09:43:42.224883+00:00
- - user: None
- - tags: ['substack']
-
-## Everything Is An Emergency | Bess Stillman | Substack
- - [https://bessstillman.substack.com](https://bessstillman.substack.com)
- - date published: 2023-10-25T09:43:44.833593+00:00
- - user: None
- - tags: ['substack']
-
-## Bet On It | Bryan Caplan | Substack
- - [https://betonit.substack.com](https://betonit.substack.com)
- - date published: 2023-10-25T09:43:46.375111+00:00
- - user: None
- - tags: ['substack']
-
-## The Biblioracle Recommends | John Warner | Substack
- - [https://biblioracle.substack.com](https://biblioracle.substack.com)
- - date published: 2023-10-25T09:43:51.496319+00:00
  - user: None
  - tags: ['substack']
 

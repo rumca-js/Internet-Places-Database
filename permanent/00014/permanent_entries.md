@@ -1,3 +1,393 @@
+## 80,000 Hours: How to make a difference with your career
+ - [https://80000hours.org](https://80000hours.org)
+ - date published: 2023-10-25T20:52:46.868740+00:00
+ - user: None
+ - tags: []
+
+## 9/11 Realtime
+ - [https://911realtime.org](https://911realtime.org)
+ - date published: 2023-10-25T20:52:48.596512+00:00
+ - user: None
+ - tags: []
+
+## 99% Invisible
+ - [https://99percentinvisible.org](https://99percentinvisible.org)
+ - date published: 2023-10-25T20:52:52.176166+00:00
+ - user: None
+ - tags: []
+
+## 9FRONT.ORG THE PLAN FELL OFF
+ - [https://9front.org](https://9front.org)
+ - date published: 2023-10-25T20:52:59.435440+00:00
+ - user: None
+ - tags: []
+
+## AAAS Home | American Association for the Advancement of Science (AAAS)
+ - [https://www.aaas.org](https://www.aaas.org)
+ - date published: 2023-11-23T10:59:39.029974+00:00
+ - user: None
+ - tags: []
+
+## American Association for Cancer Research
+ - [https://aacrjournals.org](https://aacrjournals.org)
+ - date published: 2023-11-05T06:08:41.957585+00:00
+ - user: None
+ - tags: []
+
+## American Academy of Pediatrics
+ - [https://publications.aap.org](https://publications.aap.org)
+ - date published: 2023-11-06T10:39:21.892891+00:00
+ - user: None
+ - tags: []
+
+## Home | Adam Aaronson
+ - [https://aaronson.org](https://aaronson.org)
+ - date published: 2023-10-25T20:53:01.643487+00:00
+ - user: None
+ - tags: []
+
+## Games
+ - [https://games.aarp.org](https://games.aarp.org)
+ - date published: 2023-10-30T11:59:48.224688+00:00
+ - user: None
+ - tags: ['atari', 'games']
+
+## AARP® Official Site - Join & Explore the Benefits
+ - [https://www.aarp.org](https://www.aarp.org)
+ - date published: 2023-10-25T20:53:09.275713+00:00
+ - user: None
+ - tags: []
+
+## Homepage - AAS Nova
+ - [https://aasnova.org](https://aasnova.org)
+ - date published: 2023-10-25T20:53:12.339589+00:00
+ - user: None
+ - tags: []
+
+## abelard public education website
+ - [https://www.abelard.org](https://www.abelard.org)
+ - date published: 2023-10-25T20:53:20.409245+00:00
+ - user: None
+ - tags: []
+
+## Home - American College of Cardiology
+ - [https://www.acc.org](https://www.acc.org)
+ - date published: 2023-10-25T20:53:25.158857+00:00
+ - user: None
+ - tags: []
+
+## Access to Insight
+ - [https://www.accesstoinsight.org](https://www.accesstoinsight.org)
+ - date published: 2023-10-25T20:53:32.094744+00:00
+ - user: None
+ - tags: []
+
+## ACCU
+ - [https://accu.org](https://accu.org)
+ - date published: 2023-10-25T20:53:34.238905+00:00
+ - user: None
+ - tags: []
+
+## ACL Anthology - ACL Anthology
+ - [https://aclanthology.org](https://aclanthology.org)
+ - date published: 2023-10-25T20:53:36.329517+00:00
+ - user: None
+ - tags: []
+
+## Home | American Civil Liberties Union
+ - [https://www.aclu.org](https://www.aclu.org)
+ - date published: 2023-10-25T20:53:44.491527+00:00
+ - user: None
+ - tags: []
+
+## A.M. Turing Award
+ - [https://amturing.acm.org](https://amturing.acm.org)
+ - date published: 2023-10-25T20:53:46.979207+00:00
+ - user: None
+ - tags: []
+
+## Awards Home
+ - [https://awards.acm.org](https://awards.acm.org)
+ - date published: 2023-10-25T20:53:56.997751+00:00
+ - user: None
+ - tags: []
+
+## Communications of the ACM
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
+ - user: None
+ - tags: []
+
+## ACM Digital Library
+ - [https://dl.acm.org](https://dl.acm.org)
+ - date published: 2023-10-25T20:54:07.913205+00:00
+ - user: None
+ - tags: []
+
+## ACM Code of Ethics and Professional Conduct
+ - [https://ethics.acm.org](https://ethics.acm.org)
+ - date published: 2023-10-25T20:54:10.467772+00:00
+ - user: None
+ - tags: []
+
+## ACM Learning Center
+ - [https://learning.acm.org](https://learning.acm.org)
+ - date published: 2023-10-25T20:54:19.348249+00:00
+ - user: None
+ - tags: []
+
+## ACMQ Site - ACM Queue
+ - [https://queue.acm.org](https://queue.acm.org)
+ - date published: 2023-10-25T20:54:22.401799+00:00
+ - user: None
+ - tags: []
+
+## Association for Computing Machinery
+ - [https://www.acm.org](https://www.acm.org)
+ - date published: 2023-10-25T20:54:27.074550+00:00
+ - user: None
+ - tags: []
+
+## the morning paper | a random walk through Computer Science research, by Adrian Colyer
+ - [https://blog.acolyer.org](https://blog.acolyer.org)
+ - date published: 2023-10-25T20:54:28.113947+00:00
+ - user: None
+ - tags: []
+
+## Australian Acoustic Observatory | A20
+ - [https://acousticobservatory.org](https://acousticobservatory.org)
+ - date published: 2023-12-01T10:46:03.517245+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Australian Acoustic Observatory Search
+ - [https://search.acousticobservatory.org](https://search.acousticobservatory.org)
+ - date published: 2023-12-01T05:57:47+00:00
+ - user: None
+ - tags: []
+
+## https://www.acpjournals.org
+ - [https://www.acpjournals.org](https://www.acpjournals.org)
+ - date published: 2023-10-25T20:54:28.582674+00:00
+ - user: None
+ - tags: []
+
+## Chemical & Engineering News
+ - [https://cen.acs.org](https://cen.acs.org)
+ - date published: 2023-12-09T04:59:11.663465+00:00
+ - user: None
+ - tags: ['engineering news', 'chemical news']
+
+## https://pubs.acs.org
+ - [https://pubs.acs.org](https://pubs.acs.org)
+ - date published: 2023-10-25T20:54:31.739169+00:00
+ - user: None
+ - tags: []
+
+## American Chemical Society
+ - [https://www.acs.org](https://www.acs.org)
+ - date published: 2023-10-25T20:54:33.698417+00:00
+ - user: None
+ - tags: []
+
+## American Council on Science and Health |
+ - [https://www.acsh.org](https://www.acsh.org)
+ - date published: 2023-10-25T20:54:38.389591+00:00
+ - user: None
+ - tags: []
+
+## Adblock Plus | The world's #1 free ad blocker
+ - [https://adblockplus.org](https://adblockplus.org)
+ - date published: 2023-11-01T08:44:08.907697+00:00
+ - user: None
+ - tags: ['ad block']
+
+## Adblock Plus and (a little) more
+ - [https://blog.adblockplus.org](https://blog.adblockplus.org)
+ - date published: 2023-11-01T08:44:10.579602+00:00
+ - user: None
+ - tags: []
+
+## ADHD Evidence Project
+ - [https://www.adhdevidence.org](https://www.adhdevidence.org)
+ - date published: 2023-10-25T20:54:40.433717+00:00
+ - user: None
+ - tags: []
+
+## Homepage ORG | ADL
+ - [https://www.adl.org](https://www.adl.org)
+ - date published: 2023-10-25T11:25:00.786315+00:00
+ - user: None
+ - tags: []
+
+## American Economic Association
+ - [https://www.aeaweb.org](https://www.aeaweb.org)
+ - date published: 2023-10-25T20:54:42.266806+00:00
+ - user: None
+ - tags: []
+
+## American Enterprise Institute - AEI | The American Enterprise Institute, AEI, is a nonpartisan public policy research institute with a community of scholars and supporters committed to expanding liberty, increasing individual opportunity and strengthening free enterprise.
+ - [https://www.aei.org](https://www.aei.org)
+ - date published: 2023-10-25T20:54:50.144785+00:00
+ - user: None
+ - tags: []
+
+## aerc - a pretty good email client
+ - [https://aerc-mail.org](https://aerc-mail.org)
+ - date published: 2023-10-25T20:54:51.165477+00:00
+ - user: None
+ - tags: []
+
+## Home | The Aerospace Corporation
+ - [https://aerospace.org](https://aerospace.org)
+ - date published: 2023-10-25T20:54:52.323717+00:00
+ - user: None
+ - tags: []
+
+## Home | American Foundation for the Blind
+ - [https://www.afb.org](https://www.afb.org)
+ - date published: 2023-10-25T20:54:54.541993+00:00
+ - user: None
+ - tags: []
+
+## AFCEA International | AFCEA International
+ - [https://www.afcea.org](https://www.afcea.org)
+ - date published: 2023-10-25T20:54:58.723737+00:00
+ - user: None
+ - tags: []
+
+## American Friends Musées d'Orsay et de l'Orangerie
+ - [https://aforsay.org](https://aforsay.org)
+ - date published: 2023-11-13T13:48:20.528443+00:00
+ - user: None
+ - tags: ['museum']
+
+## A Social Front Organization
+ - [https://social.afront.org](https://social.afront.org)
+ - date published: 2023-10-25T20:55:00.121595+00:00
+ - user: None
+ - tags: []
+
+## After the Plague: Health and History in Medieval England
+ - [https://www.aftertheplague.org](https://www.aftertheplague.org)
+ - date published: 2023-12-06T05:26:05+00:00
+ - user: None
+ - tags: []
+
+## Agentscript: agent based modeling in the browser
+ - [https://agentscript.org](https://agentscript.org)
+ - date published: 2023-10-25T20:55:01.985709+00:00
+ - user: None
+ - tags: []
+
+## https://www.aginganddisease.org
+ - [https://www.aginganddisease.org](https://www.aginganddisease.org)
+ - date published: 2023-12-09T18:18:43.004630+00:00
+ - user: None
+ - tags: []
+
+## AGU Newsroom - AGU Newsroom
+ - [https://news.agu.org](https://news.agu.org)
+ - date published: 2023-10-25T20:55:04.762063+00:00
+ - user: None
+ - tags: []
+
+## https://www.ahajournals.org
+ - [https://www.ahajournals.org](https://www.ahajournals.org)
+ - date published: 2023-11-23T17:36:30.008809+00:00
+ - user: None
+ - tags: []
+
+## AIER | American Institute for Economic Research
+ - [https://www.aier.org](https://www.aier.org)
+ - date published: 2023-10-25T20:55:07.515677+00:00
+ - user: None
+ - tags: []
+
+## Eye on Design – AIGA Eye on Design
+ - [https://eyeondesign.aiga.org](https://eyeondesign.aiga.org)
+ - date published: 2023-10-25T20:55:10.704075+00:00
+ - user: None
+ - tags: []
+
+## Physical Science Publishing - AIP Publishing LLC
+ - [https://publishing.aip.org](https://publishing.aip.org)
+ - date published: 2023-10-25T20:55:13.345986+00:00
+ - user: None
+ - tags: []
+
+## AIP Publishing
+ - [https://pubs.aip.org](https://pubs.aip.org)
+ - date published: 2023-10-25T20:55:20.450014+00:00
+ - user: None
+ - tags: []
+
+## https://blog.akatz.org
+ - [https://blog.akatz.org](https://blog.akatz.org)
+ - date published: 2023-10-25T20:55:21.266459+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://alaskapublic.org](https://alaskapublic.org)
+ - date published: 2023-11-21T19:53:53.641325+00:00
+ - user: None
+ - tags: []
+
+## Aleteia Polska
+ - [https://pl.aleteia.org](https://pl.aleteia.org)
+ - date published: 2023-10-25T20:55:31.908312+00:00
+ - user: None
+ - tags: []
+
+## Alexandru Nedelcu - On programming and personal projects
+ - [https://alexn.org](https://alexn.org)
+ - date published: 2023-10-25T20:55:32.922079+00:00
+ - user: None
+ - tags: []
+
+## Algorithmica
+ - [https://algorithmica.org](https://algorithmica.org)
+ - date published: 2023-10-25T20:55:33.448638+00:00
+ - user: None
+ - tags: []
+
+## Algorithmica
+ - [https://en.algorithmica.org](https://en.algorithmica.org)
+ - date published: 2023-10-25T20:55:34.160164+00:00
+ - user: None
+ - tags: []
+
+## AI Alignment Forum
+ - [https://www.alignmentforum.org](https://www.alignmentforum.org)
+ - date published: 2023-10-25T20:55:41.600420+00:00
+ - user: None
+ - tags: []
+
+## Allen Institute - Unlocking the Mysteries of Us
+ - [https://alleninstitute.org](https://alleninstitute.org)
+ - date published: 2023-10-25T20:55:43.644922+00:00
+ - user: None
+ - tags: []
+
+## Alliance of Democracies
+ - [https://www.allianceofdemocracies.org](https://www.allianceofdemocracies.org)
+ - date published: 2023-10-25T20:55:45.299398+00:00
+ - user: None
+ - tags: []
+
+## AlmaLinux OS - Forever-Free Enterprise-Grade Operating System
+ - [https://almalinux.org](https://almalinux.org)
+ - date published: 2023-10-25T20:55:50.368364+00:00
+ - user: None
+ - tags: []
+
+## Alpha Galileo |  alphagalileo.org
+ - [https://www.alphagalileo.org](https://www.alphagalileo.org)
+ - date published: 2023-10-25T20:55:53.089379+00:00
+ - user: None
+ - tags: []
+
 ## Alternet.org
  - [https://www.alternet.org](https://www.alternet.org)
  - date published: 2023-10-25T20:56:03.811289+00:00
@@ -1005,6 +1395,12 @@
  - date published: 2023-10-25T21:03:06.210208+00:00
  - user: None
  - tags: ['3d', 'open source', '3d printing', 'program']
+
+## BlobStreaming
+ - [https://blobstreaming.org](https://blobstreaming.org)
+ - date published: 2023-12-19T07:38:23.678372+00:00
+ - user: None
+ - tags: []
 
 ## Ye Olde Blogroll - Blogroll.org
  - [https://blogroll.org](https://blogroll.org)
@@ -2404,6 +2800,12 @@
 ## Democracy Now! | Democracy Now!
  - [https://www.democracynow.org](https://www.democracynow.org)
  - date published: 2023-10-25T21:14:03.352030+00:00
+ - user: None
+ - tags: []
+
+## We are the Democratic Party - Democrats
+ - [https://democrats.org](https://democrats.org)
+ - date published: 2023-12-19T13:57:50.412077+00:00
  - user: None
  - tags: []
 
@@ -4120,6 +4522,12 @@
  - user: None
  - tags: []
 
+## Gokrazy – Go Appliances
+ - [https://gokrazy.org](https://gokrazy.org)
+ - date published: 2023-12-19T05:23:20+00:00
+ - user: None
+ - tags: []
+
 ## Back in 5 mins | Ruby, loadsa bash, tweets and cats.
  - [https://jay.gooby.org](https://jay.gooby.org)
  - date published: 2023-10-25T21:26:49.689151+00:00
@@ -5413,6 +5821,12 @@ Hosted by Panix.com.
  - user: None
  - tags: []
 
+## Права людини в Україні — сайт Харківської правозахисної групи
+ - [https://khpg.org](https://khpg.org)
+ - date published: 2023-12-19T08:14:20.221086+00:00
+ - user: None
+ - tags: []
+
 ## The Khronos Group Inc
  - [https://www.khronos.org](https://www.khronos.org)
  - date published: 2023-10-25T21:36:40.765055+00:00
@@ -5596,420 +6010,6 @@ Hosted by Panix.com.
 ## Lambda the Ultimate | Programming Languages Weblog
  - [http://lambda-the-ultimate.org](http://lambda-the-ultimate.org)
  - date published: 2023-10-25T21:37:59.339898+00:00
- - user: None
- - tags: []
-
-## Ashton Wiersdorf | Lambda Land
- - [https://lambdaland.org](https://lambdaland.org)
- - date published: 2023-10-25T21:38:00.130658+00:00
- - user: None
- - tags: []
-
-## Land Camp
- - [https://www.landcamp.org](https://www.landcamp.org)
- - date published: 2023-10-25T21:38:02.232316+00:00
- - user: None
- - tags: []
-
-## | Lapham’s Quarterly
- - [https://www.laphamsquarterly.org](https://www.laphamsquarterly.org)
- - date published: 2023-10-25T10:45:33.434280+00:00
- - user: None
- - tags: []
-
-## Brian Foote
- - [http://www.laputan.org](http://www.laputan.org)
- - date published: 2023-10-25T08:54:53.702441+00:00
- - user: None
- - tags: ['personal']
-
-## Los Angeles Review of Books
- - [https://lareviewofbooks.org](https://lareviewofbooks.org)
- - date published: 2023-10-25T21:38:04.444325+00:00
- - user: None
- - tags: []
-
-## Last Chance to Fix eIDAS (Mozilla)
- - [https://last-chance-for-eidas.org](https://last-chance-for-eidas.org)
- - date published: 2023-11-02T05:57:42+00:00
- - user: None
- - tags: ['mozilla', 'surveillance', 'privacy', 'eidas']
-
-## LaTeX - A document preparation system
- - [https://www.latex-project.org](https://www.latex-project.org)
- - date published: 2023-11-27T03:27:19.003390+00:00
- - user: None
- - tags: []
-
-## Mastodon
- - [https://mastodon.laurenweinstein.org](https://mastodon.laurenweinstein.org)
- - date published: 2023-10-25T21:38:06.486264+00:00
- - user: None
- - tags: []
-
-## https://www.lawfaremedia.org
- - [https://www.lawfaremedia.org](https://www.lawfaremedia.org)
- - date published: 2023-10-30T04:52:46.101056+00:00
- - user: None
- - tags: []
-
-## Law & Liberty, part of the Liberty Fund Network
- - [https://lawliberty.org](https://lawliberty.org)
- - date published: 2023-10-25T21:38:09.051770+00:00
- - user: None
- - tags: []
-
-## Lazarus Homepage
- - [https://www.lazarus-ide.org](https://www.lazarus-ide.org)
- - date published: 2023-12-02T15:50:53.126305+00:00
- - user: None
- - tags: []
-
-## 🚀 Getting Started | LazyVim
- - [https://www.lazyvim.org](https://www.lazyvim.org)
- - date published: 2023-10-25T08:35:28.988360+00:00
- - user: None
- - tags: []
-
-## Learn About Electronics - Home Page
- - [https://learnabout-electronics.org](https://learnabout-electronics.org)
- - date published: 2023-10-25T21:38:15.033617+00:00
- - user: None
- - tags: []
-
-## LENFEST INSTITUTE -
- - [https://www.lenfestinstitute.org](https://www.lenfestinstitute.org)
- - date published: 2023-10-25T21:38:16.663488+00:00
- - user: None
- - tags: []
-
-## Let Grow - When Adults Step Back, Kids Step Up.
- - [https://letgrow.org](https://letgrow.org)
- - date published: 2023-10-25T21:38:20.621745+00:00
- - user: None
- - tags: []
-
-## Lets-Plot: open-source plotting library for statistical data
- - [https://lets-plot.org](https://lets-plot.org)
- - date published: 2023-10-25T21:38:26.790873+00:00
- - user: None
- - tags: []
-
-## Let's Encrypt Community Support
- - [https://community.letsencrypt.org](https://community.letsencrypt.org)
- - date published: 2023-10-25T21:38:30.513053+00:00
- - user: None
- - tags: []
-
-## Let's Encrypt
- - [https://letsencrypt.org](https://letsencrypt.org)
- - date published: 2023-10-25T08:33:56.588669+00:00
- - user: None
- - tags: []
-
-## https://lfortran.org
- - [https://lfortran.org](https://lfortran.org)
- - date published: 2023-10-25T21:38:31.696970+00:00
- - user: None
- - tags: []
-
-## libcamera.org git repository browser
- - [https://git.libcamera.org](https://git.libcamera.org)
- - date published: 2023-10-25T21:38:32.187144+00:00
- - user: None
- - tags: []
-
-## Online Library of Liberty
- - [https://oll.libertyfund.org](https://oll.libertyfund.org)
- - date published: 2023-10-25T21:38:34.220715+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://librearts.org](https://librearts.org)
- - date published: 2023-11-11T17:39:29.225756+00:00
- - user: None
- - tags: ['linux']
-
-## Libreboot – Libreboot project
- - [https://libreboot.org](https://libreboot.org)
- - date published: 2023-10-25T21:38:35.428842+00:00
- - user: None
- - tags: []
-
-## Create electronics the easy way | LibrePCB
- - [https://librepcb.org](https://librepcb.org)
- - date published: 2023-10-25T21:38:40.170206+00:00
- - user: None
- - tags: []
-
-## LibrePlanet
- - [https://libreplanet.org](https://libreplanet.org)
- - date published: 2023-10-25T21:38:48.708694+00:00
- - user: None
- - tags: []
-
-## LibriVox  | free public domain audiobooks
- - [https://librivox.org](https://librivox.org)
- - date published: 2023-10-25T11:35:50.460711+00:00
- - user: None
- - tags: ['audiobooks']
-
-## Simple DirectMedia Layer - Homepage
- - [https://libsdl.org](https://libsdl.org)
- - date published: 2023-12-11T17:46:13.103398+00:00
- - user: None
- - tags: []
-
-## lichess.org • Free Online Chess
- - [https://lichess.org](https://lichess.org)
- - date published: 2023-10-25T21:38:50.442880+00:00
- - user: None
- - tags: []
-
-## Lily's Things at The Cool Site
- - [https://www.lilysthings.org](https://www.lilysthings.org)
- - date published: 2023-10-25T21:38:51.555067+00:00
- - user: None
- - tags: []
-
-## The National Lime Association – NLA – NLA's mission is to represent, protect, and promote the nation's lime industry.
- - [https://www.lime.org](https://www.lime.org)
- - date published: 2023-10-27T04:21:17.555582+00:00
- - user: None
- - tags: []
-
-## Accelerating deployment of Arm-based solutions | Linaro
- - [https://www.linaro.org](https://www.linaro.org)
- - date published: 2023-10-25T21:38:54.212541+00:00
- - user: None
- - tags: []
-
-## LineageOS – LineageOS Android Distribution
- - [https://lineageos.org](https://lineageos.org)
- - date published: 2023-10-25T08:32:27.769540+00:00
- - user: None
- - tags: ['operating system', 'lineageos', 'android']
-
-## Linear Book Scanner - The open-source automatic book scanner
- - [https://linearbookscanner.org](https://linearbookscanner.org)
- - date published: 2023-10-25T08:36:34.572791+00:00
- - user: None
- - tags: []
-
-## The Linux Information Project (LINFO) Home Page
- - [https://www.linfo.org](https://www.linfo.org)
- - date published: 2023-10-25T21:38:55.368279+00:00
- - user: None
- - tags: []
-
-## Linux.org
- - [https://www.linux.org](https://www.linux.org)
- - date published: 2023-10-25T21:38:58.347661+00:00
- - user: None
- - tags: []
-
-## KVM
- - [https://www.linux-kvm.org](https://www.linux-kvm.org)
- - date published: 2023-10-25T21:39:00.493933+00:00
- - user: None
- - tags: []
-
-## Linux Containers Forum
- - [https://discuss.linuxcontainers.org](https://discuss.linuxcontainers.org)
- - date published: 2023-10-25T21:39:03.769630+00:00
- - user: None
- - tags: []
-
-## Linux Containers
- - [https://linuxcontainers.org](https://linuxcontainers.org)
- - date published: 2023-10-25T21:39:05.617056+00:00
- - user: None
- - tags: []
-
-## Welcome to Linux From Scratch!
- - [https://www.linuxfromscratch.org](https://www.linuxfromscratch.org)
- - date published: 2023-10-25T21:39:07.168165+00:00
- - user: None
- - tags: []
-
-## LiteDB :: A .NET embedded NoSQL database
- - [https://www.litedb.org](https://www.litedb.org)
- - date published: 2023-10-25T21:39:07.941318+00:00
- - user: None
- - tags: []
-
-## Take a Book. Share a Book. - Little Free Library
- - [https://littlefreelibrary.org](https://littlefreelibrary.org)
- - date published: 2023-10-25T21:39:11.222918+00:00
- - user: None
- - tags: []
-
-## Live Action |  Pro-Life Advocacy for Dignity and Human Rights
- - [https://www.liveaction.org](https://www.liveaction.org)
- - date published: 2023-10-25T21:39:14.444748+00:00
- - user: None
- - tags: []
-
-## LKML.ORG - the Linux Kernel Mailing List Archive
- - [https://lkml.org](https://lkml.org)
- - date published: 2023-11-13T12:04:53.320666+00:00
- - user: None
- - tags: []
-
-## Universal and Transferable Attacks on Aligned Language Models
- - [https://llm-attacks.org](https://llm-attacks.org)
- - date published: 2023-10-25T21:39:17.051556+00:00
- - user: None
- - tags: []
-
-## GPU Utils ⚡️
- - [https://gpus.llm-utils.org](https://gpus.llm-utils.org)
- - date published: 2023-10-25T21:39:18.562208+00:00
- - user: None
- - tags: []
-
-## Home - LLM Utils
- - [https://llm-utils.org](https://llm-utils.org)
- - date published: 2023-10-25T21:39:20.535334+00:00
- - user: None
- - tags: []
-
-## The LLVM Project Blog
- - [https://blog.llvm.org](https://blog.llvm.org)
- - date published: 2023-12-12T23:37:43.090695+00:00
- - user: None
- - tags: []
-
-## LLVM Discussion Forums - Our community includes both users and developers of various compiler technologies within the LLVM project.
- - [https://discourse.llvm.org](https://discourse.llvm.org)
- - date published: 2023-10-25T21:39:24.567913+00:00
- - user: None
- - tags: []
-
-## The LLVM Compiler Infrastructure Project
- - [https://llvm.org](https://llvm.org)
- - date published: 2023-10-25T21:39:28.896311+00:00
- - user: None
- - tags: []
-
-## Download LLVM releases
- - [https://releases.llvm.org](https://releases.llvm.org)
- - date published: 2023-10-25T21:39:30.474866+00:00
- - user: None
- - tags: []
-
-## Loża-Matka "Kopernik"
- - [https://lmkopernik.org](https://lmkopernik.org)
- - date published: 2023-12-05T15:16:55+00:00
- - user: rumpel
- - tags: ['freemasonry']
-
-## LMSYS Org
- - [https://lmsys.org](https://lmsys.org)
- - date published: 2023-10-25T21:39:31.970567+00:00
- - user: None
- - tags: []
-
-## Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality | LMSYS Org
- - [https://vicuna.lmsys.org](https://vicuna.lmsys.org)
- - date published: 2023-10-25T21:39:33.956719+00:00
- - user: None
- - tags: []
-
-## Opening the target...
- - [https://mw.lojban.org](https://mw.lojban.org)
- - date published: 2023-10-25T21:39:36.643198+00:00
- - user: None
- - tags: []
-
-## LONG NOW — fostering long term thinking
- - [https://longnow.org](https://longnow.org)
- - date published: 2023-10-25T21:39:39.438749+00:00
- - user: None
- - tags: []
-
-## FDD's Long War Journal
- - [https://www.longwarjournal.org](https://www.longwarjournal.org)
- - date published: 2023-11-10T03:51:21.976358+00:00
- - user: None
- - tags: []
-
-## LÖVE - Free 2D Game Engine
- - [https://love2d.org](https://love2d.org)
- - date published: 2023-10-25T08:35:50.630389+00:00
- - user: None
- - tags: []
-
-## Louisville Public Media
- - [https://www.lpm.org](https://www.lpm.org)
- - date published: 2023-11-06T14:35:50.495843+00:00
- - user: None
- - tags: []
-
-## https://lpython.org
- - [https://lpython.org](https://lpython.org)
- - date published: 2023-10-25T21:39:41.946449+00:00
- - user: None
- - tags: []
-
-## The L-Space Web - A Terry Pratchett / Discworld Web® Site
- - [https://www.lspace.org](https://www.lspace.org)
- - date published: 2023-11-16T07:01:44.475059+00:00
- - user: None
- - tags: []
-
-## The Programming Language Lua
- - [https://www.lua.org](https://www.lua.org)
- - date published: 2023-10-25T21:39:44.587710+00:00
- - user: None
- - tags: []
-
-## Home Page for David Drysdale
- - [https://www.lurklurk.org](https://www.lurklurk.org)
- - date published: 2023-10-25T21:39:48.617218+00:00
- - user: None
- - tags: []
-
-## Homepage | Mathematical Association of America
- - [https://maa.org](https://maa.org)
- - date published: 2023-10-25T21:39:56.661675+00:00
- - user: None
- - tags: []
-
-## Homepage | Mathematical Association of America
- - [https://www.maa.org](https://www.maa.org)
- - date published: 2023-10-25T21:40:08.149299+00:00
- - user: None
- - tags: []
-
-## Macaulay Library
- - [https://www.macaulaylibrary.org](https://www.macaulaylibrary.org)
- - date published: 2023-12-07T00:42:18.929148+00:00
- - user: None
- - tags: []
-
-## Macintosh Garden - Celebrating Macintosh Abandonware!
- - [https://www.macintoshgarden.org](https://www.macintoshgarden.org)
- - date published: 2023-10-27T14:50:05.944370+00:00
- - user: None
- - tags: ['abandonware', 'retro games']
-
-## macOS Containers Initiative
- - [https://macoscontainers.org](https://macoscontainers.org)
- - date published: 2023-10-25T21:40:08.656728+00:00
- - user: None
- - tags: []
-
-## MadSciNet: The 24-hour exploding laboratory.
- - [https://www.madsci.org](https://www.madsci.org)
- - date published: 2023-10-25T21:40:09.904654+00:00
- - user: None
- - tags: []
-
-## Secure e-mail for private and business customers | mailbox.org
- - [https://mailbox.org](https://mailbox.org)
- - date published: 2023-10-25T21:40:11.120497+00:00
  - user: None
  - tags: []
 

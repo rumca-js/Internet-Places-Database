@@ -1,3 +1,93 @@
+## That grumpy BSD guy
+ - [https://bsdly.blogspot.com](https://bsdly.blogspot.com)
+ - date published: 2023-10-25T09:06:20.001075+00:00
+ - user: None
+ - tags: ['personal']
+
+## Making a C64/C65 compatible computer
+ - [https://c65gs.blogspot.com](https://c65gs.blogspot.com)
+ - date published: 2023-10-25T09:06:24.335016+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cererean Scratchpad
+ - [https://cerereanscratchpad.blogspot.com](https://cerereanscratchpad.blogspot.com)
+ - date published: 2023-10-25T13:05:07.172479+00:00
+ - user: None
+ - tags: []
+
+## Coding And Computers
+ - [https://coding-and-computers.blogspot.com](https://coding-and-computers.blogspot.com)
+ - date published: 2023-10-25T09:06:35.597530+00:00
+ - user: None
+ - tags: ['personal']
+
+## command center
+ - [https://commandcenter.blogspot.com](https://commandcenter.blogspot.com)
+ - date published: 2023-10-25T09:06:37.426358+00:00
+ - user: None
+ - tags: ['personal']
+
+## The CRPG Addict
+ - [https://crpgaddict.blogspot.com](https://crpgaddict.blogspot.com)
+ - date published: 2023-11-03T07:09:22.088870+00:00
+ - user: None
+ - tags: []
+
+## Cubic
+ - [https://cubicspot.blogspot.com](https://cubicspot.blogspot.com)
+ - date published: 2023-10-25T09:08:04.589544+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cypher Phunk
+ - [https://cypherphunk.blogspot.com](https://cypherphunk.blogspot.com)
+ - date published: 2023-10-25T09:08:06.752061+00:00
+ - user: None
+ - tags: ['personal']
+
+## Database Architects
+ - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
+ - date published: 2023-10-25T09:08:09.774302+00:00
+ - user: None
+ - tags: ['personal']
+
+## Agile & Coding
+ - [https://davidvujic.blogspot.com](https://davidvujic.blogspot.com)
+ - date published: 2023-12-03T12:58:17.652706+00:00
+ - user: None
+ - tags: []
+
+## DBMS Musings
+ - [https://dbmsmusings.blogspot.com](https://dbmsmusings.blogspot.com)
+ - date published: 2023-10-25T09:08:13.440905+00:00
+ - user: None
+ - tags: ['personal']
+
+## Twin methods in OpenMx
+ - [https://dbtemp.blogspot.com](https://dbtemp.blogspot.com)
+ - date published: 2023-11-19T21:54:21.568274+00:00
+ - user: None
+ - tags: []
+
+## BishopBlog
+ - [https://deevybee.blogspot.com](https://deevybee.blogspot.com)
+ - date published: 2023-11-19T21:54:20.334258+00:00
+ - user: None
+ - tags: []
+
+## diamond geezer
+ - [https://diamondgeezer.blogspot.com](https://diamondgeezer.blogspot.com)
+ - date published: 2023-10-25T09:08:20.616641+00:00
+ - user: None
+ - tags: ['personal']
+
+## Disagreeable Me
+ - [https://disagreeableme.blogspot.com](https://disagreeableme.blogspot.com)
+ - date published: 2023-10-25T13:05:14.763793+00:00
+ - user: None
+ - tags: []
+
 ## Diary of a Devman
  - [https://doadm-notes.blogspot.com](https://doadm-notes.blogspot.com)
  - date published: 2023-10-25T13:05:19.829141+00:00
@@ -645,6 +735,12 @@
  - date published: 2023-12-03T23:30:46.221944+00:00
  - user: None
  - tags: []
+
+## Bob Bertsch
+ - [https://bobbertsch.com](https://bobbertsch.com)
+ - date published: 2023-12-19T10:00:09.271295+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Bobbie Chen
  - [https://bobbiechen.com](https://bobbiechen.com)
@@ -1720,6 +1816,12 @@
  - user: None
  - tags: []
 
+## Inicio
+ - [https://www.camiloluna.com](https://www.camiloluna.com)
+ - date published: 2023-12-19T10:00:30.216832+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Campus FM - stream college radio
  - [https://www.campus-fm.com](https://www.campus-fm.com)
  - date published: 2023-10-25T13:17:19.542791+00:00
@@ -2559,6 +2661,12 @@
  - date published: 2023-10-25T09:19:46.454066+00:00
  - user: None
  - tags: ['personal']
+
+## ChillRain
+ - [https://i.chillrain.com](https://i.chillrain.com)
+ - date published: 2023-12-19T04:58:40.083586+00:00
+ - user: None
+ - tags: []
 
 ## Chime
  - [https://www.chimehq.com](https://www.chimehq.com)
@@ -5026,6 +5134,12 @@
  - user: None
  - tags: []
 
+## Daily Business Updates – Your Daily Source for Timely Business Updates and News
+ - [https://dailybusinessupdates.com](https://dailybusinessupdates.com)
+ - date published: 2023-12-19T11:09:27.832473+00:00
+ - user: None
+ - tags: []
+
 ## The Daily Caller
  - [https://dailycaller.com](https://dailycaller.com)
  - date published: 2023-10-25T13:41:19.635856+00:00
@@ -5203,6 +5317,12 @@
 ## Home | Daniel Southwell
  - [https://www.danielsouthwell.com](https://www.danielsouthwell.com)
  - date published: 2023-11-29T14:44:43.936182+00:00
+ - user: None
+ - tags: ['personal']
+
+## SEO Consultant « Dan Lacey
+ - [https://www.danlacey.com](https://www.danlacey.com)
+ - date published: 2023-12-19T02:59:42.157918+00:00
  - user: None
  - tags: ['personal']
 
@@ -5889,124 +6009,4 @@
  - date published: 2023-10-25T11:51:35.934416+00:00
  - user: None
  - tags: []
-
-## Delorean Motor Company
- - [https://delorean.com](https://delorean.com)
- - date published: 2023-10-25T13:48:49.685212+00:00
- - user: None
- - tags: []
-
-## Delphine McClelland
- - [https://delphinemcclelland.com](https://delphinemcclelland.com)
- - date published: 2023-11-29T16:21:10.733735+00:00
- - user: None
- - tags: ['personal']
-
-## SEO Platform for Enterprises & Agencies - DemandSphere
- - [https://www.demandsphere.com](https://www.demandsphere.com)
- - date published: 2023-10-25T13:48:54.822392+00:00
- - user: None
- - tags: []
-
-## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [https://democratherald.com](https://democratherald.com)
- - date published: 2023-11-04T05:50:19.542658+00:00
- - user: None
- - tags: []
-
-## Demodesk | The sales meeting platform
- - [https://demodesk.com](https://demodesk.com)
- - date published: 2023-10-25T13:48:59.749649+00:00
- - user: None
- - tags: []
-
-## DemoTime. Magic highlights after every demo!
- - [https://demotime.com](https://demotime.com)
- - date published: 2023-10-25T13:49:00.328092+00:00
- - user: None
- - tags: []
-
-## Denise Cornell - Customer Marketing
- - [https://www.denisecornell.com](https://www.denisecornell.com)
- - date published: 2023-12-05T14:38:38.929100+00:00
- - user: None
- - tags: ['personal']
-
-## Denis Reis
- - [https://www.denisreis.com](https://www.denisreis.com)
- - date published: 2023-11-29T17:09:24.363537+00:00
- - user: None
- - tags: []
-
-## Deniz Akşimşek
- - [https://denizaksimsek.com](https://denizaksimsek.com)
- - date published: 2023-10-25T13:49:01.779557+00:00
- - user: None
- - tags: []
-
-## Dennis Stoelwinder | Decoding What Makes Us Human
- - [https://dennisstoelwinder.com](https://dennisstoelwinder.com)
- - date published: 2023-12-13T20:58:34.316192+00:00
- - user: None
- - tags: ['personal']
-
-## Deno, The next-generation JavaScript runtime
- - [https://deno.com](https://deno.com)
- - date published: 2023-10-25T13:49:13.631224+00:00
- - user: None
- - tags: []
-
-## Den of Geek | The Best in TV, Movies, Games, Comics, and More!
- - [https://www.denofgeek.com](https://www.denofgeek.com)
- - date published: 2023-10-25T10:51:12.729993+00:00
- - user: None
- - tags: ['movies', 'fantasy', 'games', 'news']
-
-## Homepage
- - [https://www.denver7.com](https://www.denver7.com)
- - date published: 2023-11-06T03:55:12.502837+00:00
- - user: None
- - tags: []
-
-## Denver News, Sports & Business | Denver Gazette, N
- - [https://denvergazette.com](https://denvergazette.com)
- - date published: 2023-10-25T13:49:22.527421+00:00
- - user: None
- - tags: []
-
-## Denverite, the Denver site!
- - [https://denverite.com](https://denverite.com)
- - date published: 2023-10-25T13:49:27.465378+00:00
- - user: None
- - tags: []
-
-## The Denver Post – Colorado breaking news, sports, business, weather, entertainment.
- - [https://www.denverpost.com](https://www.denverpost.com)
- - date published: 2023-10-25T11:03:04.845006+00:00
- - user: None
- - tags: []
-
-## Show HN: Made a forum for depressed founders to confide
- - [https://www.depressedfounders.com](https://www.depressedfounders.com)
- - date published: 2023-12-17T06:21:25+00:00
- - user: None
- - tags: []
-
-## Derek Goodwin Photography | Headshot & Branding Photographer
- - [https://www.derekpashupagoodwin.com](https://www.derekpashupagoodwin.com)
- - date published: 2023-11-29T17:08:37.949199+00:00
- - user: None
- - tags: ['personal']
-
-## Derek Yu's Home on the Web
- - [https://derekyu.com](https://derekyu.com)
- - date published: 2023-10-25T13:49:29.295325+00:00
- - user: None
- - tags: []
-
-## Deseret News
- - [https://www.deseret.com](https://www.deseret.com)
- - date published: 2023-10-25T13:49:44.338672+00:00
- - user: None
- - tags: ['utah news']
 
