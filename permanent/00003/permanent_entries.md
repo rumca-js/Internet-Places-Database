@@ -1,3 +1,195 @@
+## Death by AI
+ - [https://deathbyai.com](https://deathbyai.com)
+ - date published: 2023-10-25T13:46:58.127418+00:00
+ - user: None
+ - tags: []
+
+## All posts | Archy de Berker
+ - [https://archy.deberker.com](https://archy.deberker.com)
+ - date published: 2023-10-25T13:47:02.854781+00:00
+ - user: None
+ - tags: []
+
+## Java, Debugging, DevOps & Open Source
+ - [https://debugagent.com](https://debugagent.com)
+ - date published: 2023-10-25T13:47:06.814636+00:00
+ - user: None
+ - tags: []
+
+## Decathlon | Move people through the wonders of sport | Decathlon
+ - [https://www.decathlon.com](https://www.decathlon.com)
+ - date published: 2023-10-25T13:47:16.336867+00:00
+ - user: None
+ - tags: []
+
+## decaturdaily.com | The Independent Voice of the Tennessee Valley since 1912
+ - [https://www.decaturdaily.com](https://www.decaturdaily.com)
+ - date published: 2023-11-05T17:32:42.494420+00:00
+ - user: None
+ - tags: []
+
+## Latest News Today: Breaking News and Top Headlines from India, Politics, Bengaluru, Entertainment, Business and Sports
+ - [https://www.deccanherald.com](https://www.deccanherald.com)
+ - date published: 2023-10-25T13:47:18.731813+00:00
+ - user: None
+ - tags: []
+
+## Decider
+ - [https://decider.com](https://decider.com)
+ - date published: 2023-11-27T11:27:44+00:00
+ - user: rumpel
+ - tags: ['video streaming filter']
+
+## Decipad — Make sense of numbers
+ - [https://www.decipad.com](https://www.decipad.com)
+ - date published: 2023-10-25T13:47:20.389396+00:00
+ - user: None
+ - tags: []
+
+## Allison Posts
+ - [https://posts.decontextualize.com](https://posts.decontextualize.com)
+ - date published: 2023-10-25T13:47:27.737564+00:00
+ - user: None
+ - tags: []
+
+## de🔸digger find public files in Google Drive
+ - [https://www.dedigger.com](https://www.dedigger.com)
+ - date published: 2023-10-25T13:47:29.059381+00:00
+ - user: None
+ - tags: []
+
+## Dedoimedo - A Place to Learn a Lot About a Lot
+ - [https://www.dedoimedo.com](https://www.dedoimedo.com)
+ - date published: 2023-10-25T13:47:31.851633+00:00
+ - user: None
+ - tags: []
+
+## DEDWARE
+ - [https://dedware.com](https://dedware.com)
+ - date published: 2023-11-15T17:57:31.700400+00:00
+ - user: None
+ - tags: ['personal', 'art']
+
+## Deepak Gulati's blog
+ - [https://www.deepakg.com](https://www.deepakg.com)
+ - date published: 2023-10-25T13:47:34.103740+00:00
+ - user: None
+ - tags: []
+
+## Resources and Tools Created to Inspire | Deepgram
+ - [https://blog.deepgram.com](https://blog.deepgram.com)
+ - date published: 2023-10-25T13:47:45.305982+00:00
+ - user: None
+ - tags: []
+
+## DeepL Translate: The world's most accurate translator
+ - [https://www.deepl.com](https://www.deepl.com)
+ - date published: 2023-10-25T09:27:57.362550+00:00
+ - user: None
+ - tags: []
+
+## AlphaCode
+ - [https://alphacode.deepmind.com](https://alphacode.deepmind.com)
+ - date published: 2023-10-25T13:47:52.658441+00:00
+ - user: None
+ - tags: []
+
+## Google DeepMind
+ - [https://www.deepmind.com](https://www.deepmind.com)
+ - date published: 2023-10-25T13:47:54.689117+00:00
+ - user: None
+ - tags: ['artificial intelligence']
+
+## Deepnote: Analytics and data science notebook for teams.
+ - [https://deepnote.com](https://deepnote.com)
+ - date published: 2023-10-25T13:47:56.980147+00:00
+ - user: None
+ - tags: []
+
+## DEEP VOODOO
+ - [https://www.deepvoodoo.com](https://www.deepvoodoo.com)
+ - date published: 2023-10-25T13:47:58.271089+00:00
+ - user: None
+ - tags: []
+
+## Deezer plans | Compare Deezer's offer prices
+ - [https://www.deezer.com](https://www.deezer.com)
+ - date published: 2023-12-11T16:11:25.147244+00:00
+ - user: None
+ - tags: []
+
+## Defector | The last good website.
+ - [https://defector.com](https://defector.com)
+ - date published: 2023-10-25T13:48:09.544452+00:00
+ - user: None
+ - tags: []
+
+## Defense News, Covering the politics, business and technology of defense | Defense News
+ - [https://www.defensenews.com](https://www.defensenews.com)
+ - date published: 2023-10-31T05:18:09.856934+00:00
+ - user: None
+ - tags: []
+
+## Defense One
+ - [https://www.defenseone.com](https://www.defenseone.com)
+ - date published: 2023-10-25T13:48:12.931984+00:00
+ - user: None
+ - tags: []
+
+## DefenseScoop | Breaking US Military Tech News, Modern Defense News
+ - [https://defensescoop.com](https://defensescoop.com)
+ - date published: 2023-10-25T13:48:19.117494+00:00
+ - user: None
+ - tags: []
+
+## Defiant America – Home Page
+ - [https://defiantamerica.com](https://defiantamerica.com)
+ - date published: 2023-10-25T13:48:23.084019+00:00
+ - user: None
+ - tags: []
+
+## Degenerate Conic
+ - [https://degenerateconic.com](https://degenerateconic.com)
+ - date published: 2023-10-25T13:48:30.999460+00:00
+ - user: None
+ - tags: []
+
+## Degrees What?
+ - [https://degreeswhat.com](https://degreeswhat.com)
+ - date published: 2023-10-25T13:48:31.539045+00:00
+ - user: None
+ - tags: []
+
+## Power efficiency
+ - [https://www.deif.com](https://www.deif.com)
+ - date published: 2023-10-25T13:48:34.616072+00:00
+ - user: None
+ - tags: []
+
+## RIP Google Groups Dejanews.com Archive
+ - [http://dejanews.com](http://dejanews.com)
+ - date published: 2023-11-12T09:43:15+00:00
+ - user: None
+ - tags: []
+
+## SEO & Digital Marketing Agency - DEJAN ™
+ - [https://dejanmarketing.com](https://dejanmarketing.com)
+ - date published: 2023-10-25T13:48:37.761453+00:00
+ - user: None
+ - tags: []
+
+## Delaware Business Times Home Page - Delaware Business Times
+ - [https://delawarebusinesstimes.com](https://delawarebusinesstimes.com)
+ - date published: 2023-10-25T13:48:43.296680+00:00
+ - user: None
+ - tags: []
+
+## Laptops, Monitors, Computers & Storage Solutions | Dell Polska
+ - [https://www.dell.com](https://www.dell.com)
+ - date published: 2023-10-25T11:51:35.934416+00:00
+ - user: None
+ - tags: []
+
 ## Delorean Motor Company
  - [https://delorean.com](https://delorean.com)
  - date published: 2023-10-25T13:48:49.685212+00:00
@@ -1145,6 +1337,12 @@
  - user: None
  - tags: []
 
+## Dr.Mani - Author. Heart Surgeon. Fund Raiser.
+ - [https://www.drmani.com](https://www.drmani.com)
+ - date published: 2023-12-20T11:46:05.266048+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Work in Progress | Dropbox Blog
  - [https://blog.dropbox.com](https://blog.dropbox.com)
  - date published: 2023-10-25T13:58:59.007997+00:00
@@ -1907,6 +2105,12 @@
  - user: None
  - tags: []
 
+## Elicit Blog
+ - [https://blog.elicit.com](https://blog.elicit.com)
+ - date published: 2023-12-20T05:52:58.477716+00:00
+ - user: None
+ - tags: []
+
 ## Eli Dourado | Substack
  - [https://www.elidourado.com](https://www.elidourado.com)
  - date published: 2023-10-25T14:05:24.284348+00:00
@@ -1918,6 +2122,12 @@
  - date published: 2023-10-25T14:05:25.704625+00:00
  - user: None
  - tags: []
+
+## Elisa Doucette
+ - [https://www.elisadoucette.com](https://www.elisadoucette.com)
+ - date published: 2023-12-20T00:58:34.049564+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Index
  - [https://eliseshaffer.com](https://eliseshaffer.com)
@@ -5788,216 +5998,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Level Up Coding
  - [https://levelup.gitconnected.com](https://levelup.gitconnected.com)
  - date published: 2023-10-25T14:44:29.186805+00:00
- - user: None
- - tags: []
-
-## Blog | Gitea Blog
- - [https://blog.gitea.com](https://blog.gitea.com)
- - date published: 2023-10-25T14:44:31.437032+00:00
- - user: None
- - tags: []
-
-## GitGuardian Blog
- - [https://blog.gitguardian.com](https://blog.gitguardian.com)
- - date published: 2023-10-25T14:44:40.974111+00:00
- - user: None
- - tags: []
-
-## GitHub Accelerator
- - [https://accelerator.github.com](https://accelerator.github.com)
- - date published: 2023-10-25T14:44:43.194804+00:00
- - user: None
- - tags: []
-
-## GitHub Docs
- - [https://docs.github.com](https://docs.github.com)
- - date published: 2023-10-25T14:44:44.496737+00:00
- - user: None
- - tags: []
-
-## Discover gists · GitHub
- - [https://gist.github.com](https://gist.github.com)
- - date published: 2023-10-25T14:44:47.049318+00:00
- - user: None
- - tags: ['code sandbox']
-
-## GitHub: Let’s build from here · GitHub
- - [https://github.com](https://github.com)
- - date published: 2023-10-25T14:42:43.938249+00:00
- - user: None
- - tags: ['gatekeeper', 'app platform']
-
-## Grimoire: Open-Source bookmark manager with extra features
- - [https://github.com/goniszewski/grimoire](https://github.com/goniszewski/grimoire)
- - date published: 2023-11-26T08:04:54+00:00
- - user: rumpel
- - tags: ['open source', 'bookmark manager']
-
-## GitHub Pages
- - [https://pages.github.com](https://pages.github.com)
- - date published: 2023-10-25T08:40:58.526731+00:00
- - user: None
- - tags: []
-
-## GitHub Security Lab | Securing the world’s software, together
- - [https://securitylab.github.com](https://securitylab.github.com)
- - date published: 2023-10-25T14:44:54.681852+00:00
- - user: None
- - tags: []
-
-## Your GitHub story in 3D - GitHub Skyline
- - [https://skyline.github.com](https://skyline.github.com)
- - date published: 2023-10-25T14:44:56.097492+00:00
- - user: None
- - tags: []
-
-## GitHub Copilot investigation · Joseph Saveri Law Firm & Matthew Butterick
- - [https://githubcopilotinvestigation.com](https://githubcopilotinvestigation.com)
- - date published: 2023-10-25T14:44:58.558633+00:00
- - user: None
- - tags: []
-
-## GitHub Copilot litigation ôñô Joseph Saveri Law Firmô & Matthew Butterick
- - [https://githubcopilotlitigation.com](https://githubcopilotlitigation.com)
- - date published: 2023-10-25T14:45:00.133493+00:00
- - user: None
- - tags: []
-
-## GitHub Blocks
- - [https://blocks.githubnext.com](https://blocks.githubnext.com)
- - date published: 2023-10-25T14:45:06.114880+00:00
- - user: None
- - tags: []
-
-## GitHub Next
- - [https://githubnext.com](https://githubnext.com)
- - date published: 2023-10-25T14:45:09.306656+00:00
- - user: None
- - tags: []
-
-## Monaspace
- - [https://monaspace.githubnext.com](https://monaspace.githubnext.com)
- - date published: 2023-11-09T20:16:34+00:00
- - user: None
- - tags: []
-
-## GitHub Status
- - [https://www.githubstatus.com](https://www.githubstatus.com)
- - date published: 2023-10-25T14:45:11.841528+00:00
- - user: None
- - tags: []
-
-## GitHub Universe - November 8-9, 2023
- - [https://githubuniverse.com](https://githubuniverse.com)
- - date published: 2023-10-25T14:45:13.916652+00:00
- - user: None
- - tags: []
-
-## The DevSecOps Platform | GitLab
- - [https://about.gitlab.com](https://about.gitlab.com)
- - date published: 2023-10-25T14:45:15.830655+00:00
- - user: None
- - tags: []
-
-## GitLab Documentation
- - [https://docs.gitlab.com](https://docs.gitlab.com)
- - date published: 2023-10-25T14:45:17.171619+00:00
- - user: None
- - tags: []
-
-## The DevSecOps Platform | GitLab
- - [https://gitlab.com](https://gitlab.com)
- - date published: 2023-10-25T14:45:19.469977+00:00
- - user: None
- - tags: []
-
-## GitLab System Status
- - [https://status.gitlab.com](https://status.gitlab.com)
- - date published: 2023-10-25T14:45:21.280848+00:00
- - user: None
- - tags: []
-
-## Gitless
- - [https://gitless.com](https://gitless.com)
- - date published: 2023-10-25T14:45:22.153895+00:00
- - user: None
- - tags: []
-
-## Gitta Wolf
- - [https://gittawolf.com](https://gittawolf.com)
- - date published: 2023-11-29T14:42:14.713737+00:00
- - user: None
- - tags: ['personal']
-
-## GiveLiveExplore – The Blog of Matthew Trinetti
- - [https://www.giveliveexplore.com](https://www.giveliveexplore.com)
- - date published: 2023-11-29T14:18:10.684298+00:00
- - user: None
- - tags: []
-
-## Gizmodo | The Future Is Here
- - [https://gizmodo.com](https://gizmodo.com)
- - date published: 2023-10-25T09:33:24.250359+00:00
- - user: None
- - tags: ['news']
-
-## Gokberk Yaltirakli
- - [https://www.gkbrk.com](https://www.gkbrk.com)
- - date published: 2023-10-25T14:45:23.901785+00:00
- - user: None
- - tags: []
-
-## Women's Issues, Politics, Fashion, Beauty, Entertainment News | Glamour
- - [https://www.glamour.com](https://www.glamour.com)
- - date published: 2023-10-25T14:45:26.156885+00:00
- - user: None
- - tags: []
-
-## The Glasgow Gallivanter – Adventures at home and abroad
- - [https://glasgowgallivanter.com](https://glasgowgallivanter.com)
- - date published: 2023-12-10T17:30:01.706680+00:00
- - user: None
- - tags: ['personal']
-
-## https://www.glassattic.com
- - [https://www.glassattic.com](https://www.glassattic.com)
- - date published: 2023-11-01T18:27:48.715499+00:00
- - user: None
- - tags: ['sculpting', 'polymer clay']
-
-## Gliglish · Your AI Language Teacher | Practice speaking & listening
- - [https://gliglish.com](https://gliglish.com)
- - date published: 2023-10-25T14:45:28.936207+00:00
- - user: None
- - tags: []
-
-## Global Fleet - The Executive Network
- - [https://www.globalfleet.com](https://www.globalfleet.com)
- - date published: 2023-10-25T14:45:33.013417+00:00
- - user: None
- - tags: []
-
-## Global Ground Support - An AirT Company
- - [https://globalgroundsupport.com](https://globalgroundsupport.com)
- - date published: 2023-10-25T14:45:38.412506+00:00
- - user: None
- - tags: []
-
-## Global Player | Radio, Podcasts, Playlists and Videos
- - [https://www.globalplayer.com](https://www.globalplayer.com)
- - date published: 2023-11-13T09:32:46.982591+00:00
- - user: None
- - tags: ['podcasts', 'radio']
-
-## Home | Global Policy Journal
- - [https://www.globalpolicyjournal.com](https://www.globalpolicyjournal.com)
- - date published: 2023-10-25T14:45:49.399382+00:00
- - user: None
- - tags: []
-
-## Digital Certificates - PKI - SSL/TLS  GlobalSign GMO
- - [https://www.globalsign.com](https://www.globalsign.com)
- - date published: 2023-10-25T14:45:57.049966+00:00
  - user: None
  - tags: []
 

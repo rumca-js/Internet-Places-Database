@@ -100,6 +100,12 @@
  - user: None
  - tags: []
 
+## None
+ - [https://tvp.info](https://tvp.info)
+ - date published: 2023-12-20T11:26:29.421997+00:00
+ - user: None
+ - tags: []
+
 ## Kristiania
  - [https://kristiania.no.](https://kristiania.no.)
  - date published: 2023-12-13T11:22:44.862076+00:00
@@ -153,6 +159,12 @@
  - date published: 2023-12-11T16:02:29.483067+00:00
  - user: None
  - tags: []
+
+## Home - Humaid Alqasimi
+ - [https://humaidq.ae](https://humaidq.ae)
+ - date published: 2023-12-20T11:45:17.376653+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Welcome – Thomann United Arab Emirates
  - [https://www.thomann.ae](https://www.thomann.ae)
@@ -607,6 +619,18 @@
 ## Gentrace
  - [https://gentrace.ai](https://gentrace.ai)
  - date published: 2023-10-25T11:39:02.363585+00:00
+ - user: None
+ - tags: []
+
+## Chat with Dot
+ - [https://eu.getdot.ai](https://eu.getdot.ai)
+ - date published: 2023-12-20T18:54:04.626569+00:00
+ - user: None
+ - tags: []
+
+## Dot - Chat with your Data
+ - [https://www.getdot.ai](https://www.getdot.ai)
+ - date published: 2023-12-20T18:54:07.783257+00:00
  - user: None
  - tags: []
 
@@ -1858,6 +1882,12 @@
  - user: None
  - tags: []
 
+## The Cisco Secure Application Cloud | An Effective Security Platform - Panoptica
+ - [https://www.panoptica.app](https://www.panoptica.app)
+ - date published: 2023-12-20T23:10:10.715922+00:00
+ - user: None
+ - tags: []
+
 ## Pashword - Passwords Done Right
  - [https://pashword.app](https://pashword.app)
  - date published: 2023-10-25T11:48:14.672231+00:00
@@ -2079,6 +2109,12 @@
  - date published: 2023-11-08T02:53:20+00:00
  - user: None
  - tags: ['app', 'funny', 'tolkien', 'lord of the rings']
+
+## Show HN: I built an open source AI video search engine to learn more about AI
+ - [https://avse.vercel.app](https://avse.vercel.app)
+ - date published: 2023-12-20T04:44:54+00:00
+ - user: None
+ - tags: []
 
 ## Boot & Shoe Blog
  - [https://boot-and-shoe.vercel.app](https://boot-and-shoe.vercel.app)
@@ -3395,6 +3431,12 @@
  - user: None
  - tags: ['personal']
 
+## Jeremey DuVall — Customer-Focused Product Manager
+ - [https://jeremey.blog](https://jeremey.blog)
+ - date published: 2023-12-20T14:33:15.143478+00:00
+ - user: None
+ - tags: ['personal']
+
 ## json.blog
  - [https://json.blog](https://json.blog)
  - date published: 2023-11-29T17:16:21.010658+00:00
@@ -3442,6 +3484,12 @@
  - date published: 2023-11-29T15:49:12.955798+00:00
  - user: None
  - tags: []
+
+## mikeshafer.blog
+ - [https://mikeshafer.blog](https://mikeshafer.blog)
+ - date published: 2023-12-20T05:39:06.849238+00:00
+ - user: None
+ - tags: ['personal']
 
 ## mmap(blog)
  - [https://mmapped.blog](https://mmapped.blog)
@@ -4250,6 +4298,12 @@
 ## Jason Shew
  - [https://jasonshew.ca](https://jasonshew.ca)
  - date published: 2023-12-09T10:38:16.871758+00:00
+ - user: None
+ - tags: ['personal']
+
+## Author Jenn Ashton
+ - [https://jenniferashton.ca](https://jenniferashton.ca)
+ - date published: 2023-12-20T19:14:23.669927+00:00
  - user: None
  - tags: ['personal']
 
@@ -5826,6 +5880,12 @@
  - user: None
  - tags: []
 
+## Hannah Wastyk – about me
+ - [https://hannahwastyk.co](https://hannahwastyk.co)
+ - date published: 2023-12-20T14:34:20.920200+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Restoring Trust in Digital
  - [https://hu-manity.co](https://hu-manity.co)
  - date published: 2023-12-11T16:37:24.222962+00:00
@@ -5939,64 +5999,4 @@
  - date published: 2023-10-25T12:19:31.866187+00:00
  - user: None
  - tags: []
-
-## Investors | The Metals Company
- - [https://investors.metals.co](https://investors.metals.co)
- - date published: 2023-10-25T12:19:35.204975+00:00
- - user: None
- - tags: []
-
-## Milestones Co. – Helping you launch and scale your business through conscious marketing / branding
- - [https://milestones.co](https://milestones.co)
- - date published: 2023-11-29T20:44:20.556521+00:00
- - user: None
- - tags: ['personal']
-
-## miniacal
- - [https://miniac.co](https://miniac.co)
- - date published: 2023-10-25T11:11:09.294633+00:00
- - user: None
- - tags: []
-
-## Modern Retail – Authority and honesty on the reinvention of retail
- - [https://www.modernretail.co](https://www.modernretail.co)
- - date published: 2023-10-25T12:19:38.921835+00:00
- - user: None
- - tags: []
-
-## Morning Tendies
- - [https://www.morningtendies.co](https://www.morningtendies.co)
- - date published: 2023-10-25T12:19:58.924609+00:00
- - user: None
- - tags: []
-
-## Show HN: An AI-Generated Encyclopedia
- - [https://mycyclopedia.co](https://mycyclopedia.co)
- - date published: 2023-11-23T13:53:10+00:00
- - user: None
- - tags: []
-
-## Net Interest | Marc Rubinstein | Substack
- - [https://www.netinterest.co](https://www.netinterest.co)
- - date published: 2023-10-25T09:39:48.627101+00:00
- - user: None
- - tags: ['substack']
-
-## Newcomer | Eric Newcomer | Substack
- - [https://www.newcomer.co](https://www.newcomer.co)
- - date published: 2023-10-25T09:39:52.534184+00:00
- - user: None
- - tags: ['substack']
-
-## nick ng – designer – chicago
- - [https://nickng.co](https://nickng.co)
- - date published: 2023-12-14T01:26:43.743281+00:00
- - user: None
- - tags: ['personal']
-
-## Nick Allen - Marketing, Growth & Running
- - [https://nickwallen.co](https://nickwallen.co)
- - date published: 2023-12-13T06:03:37.050724+00:00
- - user: None
- - tags: ['personal']
 

@@ -1,3 +1,159 @@
+## BlizzCon
+ - [https://blizzcon.com](https://blizzcon.com)
+ - date published: 2023-11-02T19:01:40.399355+00:00
+ - user: None
+ - tags: ['event']
+
+## Blockade Labs Skybox - AI-Generated 3D Worlds
+ - [https://skybox.blockadelabs.com](https://skybox.blockadelabs.com)
+ - date published: 2023-10-25T13:04:48.005443+00:00
+ - user: None
+ - tags: []
+
+## BlockFi – BlockFi
+ - [https://blockfi.com](https://blockfi.com)
+ - date published: 2023-10-25T13:04:57.374846+00:00
+ - user: None
+ - tags: []
+
+## Home – Blocks and Files
+ - [https://blocksandfiles.com](https://blocksandfiles.com)
+ - date published: 2023-10-25T13:05:01.717678+00:00
+ - user: None
+ - tags: []
+
+## Crypto Market News and Insights for Investors - BlocksByte
+ - [https://blocksbyte.com](https://blocksbyte.com)
+ - date published: 2023-11-24T14:24:09.974254+00:00
+ - user: None
+ - tags: []
+
+## Error 404 (Not Found)!!1
+ - [https://resources.blogblog.com](https://resources.blogblog.com)
+ - date published: 2023-12-11T17:25:58.608261+00:00
+ - user: None
+ - tags: []
+
+## Blogger.com - Create a unique and beautiful blog easily.
+ - [https://www.blogger.com](https://www.blogger.com)
+ - date published: 2023-12-11T16:52:16.537428+00:00
+ - user: None
+ - tags: []
+
+## Blog of Drew
+ - [https://blogofdrew.com](https://blogofdrew.com)
+ - date published: 2023-12-17T05:08:07.684561+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://nwn.blogs.com
+ - [https://nwn.blogs.com](https://nwn.blogs.com)
+ - date published: 2023-10-25T13:05:03.461241+00:00
+ - user: None
+ - tags: []
+
+## BlogScroll - Personal Blog & Site Directory
+ - [https://blogscroll.com](https://blogscroll.com)
+ - date published: 2023-10-25T09:25:19.865484+00:00
+ - user: None
+ - tags: ['personal']
+
+## busypoll
+ - [https://1f604.blogspot.com](https://1f604.blogspot.com)
+ - date published: 2023-10-25T09:05:27.653037+00:00
+ - user: None
+ - tags: ['personal']
+
+## Error 400 (Bad Request)!!1
+ - [https://4.bp.blogspot.com](https://4.bp.blogspot.com)
+ - date published: 2023-12-11T16:52:45.902558+00:00
+ - user: None
+ - tags: []
+
+## Agile Otter Blog
+ - [https://agileotter.blogspot.com](https://agileotter.blogspot.com)
+ - date published: 2023-10-25T09:05:30.845699+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dave Airlie Linux Graphics blog
+ - [https://airlied.blogspot.com](https://airlied.blogspot.com)
+ - date published: 2023-10-25T09:05:33.830706+00:00
+ - user: None
+ - tags: ['personal']
+
+## I hate software
+ - [https://allsoftwaresucks.blogspot.com](https://allsoftwaresucks.blogspot.com)
+ - date published: 2023-10-25T09:05:39.838601+00:00
+ - user: None
+ - tags: ['personal']
+
+## Amiga Gamer
+ - [https://amigagamer.blogspot.com](https://amigagamer.blogspot.com)
+ - date published: 2023-11-02T09:55:15.962797+00:00
+ - user: None
+ - tags: []
+
+## Epsilon's Amiga Blog
+ - [https://amigax1000.blogspot.com](https://amigax1000.blogspot.com)
+ - date published: 2023-12-11T17:54:11.446091+00:00
+ - user: None
+ - tags: []
+
+## Amit's Thoughts
+ - [https://amitp.blogspot.com](https://amitp.blogspot.com)
+ - date published: 2023-10-25T09:05:44.139609+00:00
+ - user: None
+ - tags: ['personal']
+
+## blog
+ - [https://avodonosov.blogspot.com](https://avodonosov.blogspot.com)
+ - date published: 2023-10-25T09:05:48.878271+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sabine Hossenfelder: Backreaction
+ - [https://backreaction.blogspot.com](https://backreaction.blogspot.com)
+ - date published: 2023-10-25T09:05:55.426378+00:00
+ - user: None
+ - tags: ['personal']
+
+## The art of simplicity
+ - [https://bartwullems.blogspot.com](https://bartwullems.blogspot.com)
+ - date published: 2023-10-25T09:06:01.627020+00:00
+ - user: None
+ - tags: ['personal']
+
+## BeeLine
+ - [https://beelineblogger.blogspot.com](https://beelineblogger.blogspot.com)
+ - date published: 2023-10-25T09:06:07.861952+00:00
+ - user: None
+ - tags: ['personal']
+
+## Follow me down the optimization rabbit hole
+ - [https://bitbanksoftware.blogspot.com](https://bitbanksoftware.blogspot.com)
+ - date published: 2023-10-25T09:06:09.966506+00:00
+ - user: None
+ - tags: ['personal']
+
+## Bits, Math and Performance(?)
+ - [https://bitmath.blogspot.com](https://bitmath.blogspot.com)
+ - date published: 2023-10-25T09:06:12.474139+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Brassic Gamer
+ - [https://brassicgamer.blogspot.com](https://brassicgamer.blogspot.com)
+ - date published: 2023-10-25T09:06:15.283500+00:00
+ - user: None
+ - tags: ['personal']
+
+## PowerOfBabel
+ - [https://brer-powerofbabel.blogspot.com](https://brer-powerofbabel.blogspot.com)
+ - date published: 2023-11-28T07:48:07+00:00
+ - user: rumpel
+ - tags: ['blog', 'personal']
+
 ## That grumpy BSD guy
  - [https://bsdly.blogspot.com](https://bsdly.blogspot.com)
  - date published: 2023-10-25T09:06:20.001075+00:00
@@ -1990,6 +2146,12 @@
  - user: None
  - tags: []
 
+## Carl Chute
+ - [https://carlchute.com](https://carlchute.com)
+ - date published: 2023-12-20T21:31:29.198127+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Carlin Eng
  - [https://carlineng.com](https://carlineng.com)
  - date published: 2023-10-25T13:18:18.659750+00:00
@@ -2029,6 +2191,12 @@
 ## Carmelite Monks of Wyoming Gothic - Carmelite Gothic
  - [https://carmelitegothic.com](https://carmelitegothic.com)
  - date published: 2023-10-25T13:18:22.657357+00:00
+ - user: None
+ - tags: []
+
+## CarNewsChina.com - China Auto News
+ - [https://carnewschina.com](https://carnewschina.com)
+ - date published: 2023-12-20T08:45:43.734312+00:00
  - user: None
  - tags: []
 
@@ -2740,6 +2908,12 @@
  - user: None
  - tags: []
 
+## Chris Glass
+ - [https://chrisglass.com](https://chrisglass.com)
+ - date published: 2023-12-20T21:31:09.440697+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Measure latency
  - [https://ping.projects.chrisjeakle.com](https://ping.projects.chrisjeakle.com)
  - date published: 2023-10-25T13:22:31.002085+00:00
@@ -2985,6 +3159,12 @@
  - date published: 2023-10-25T13:24:25.453287+00:00
  - user: None
  - tags: []
+
+## Ciro Durán ← A Live Archive
+ - [https://www.ciroduran.com](https://www.ciroduran.com)
+ - date published: 2023-12-20T21:30:36.738957+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Cisco Blogs
  - [https://blogs.cisco.com](https://blogs.cisco.com)
@@ -3273,6 +3453,12 @@
  - date published: 2023-10-25T09:40:02.589131+00:00
  - user: None
  - tags: ['substack']
+
+## Show HN: ClimateTriage – Impactful open source contributions
+ - [https://climatetriage.com](https://climatetriage.com)
+ - date published: 2023-12-20T10:34:43+00:00
+ - user: None
+ - tags: []
 
 ## Journey toward net zero with Climeworks' carbon removal service
  - [https://climeworks.com](https://climeworks.com)
@@ -5716,6 +5902,12 @@
  - user: None
  - tags: ['pakistan news']
 
+## Dayne Herren – Copywriter | Online Marketer | Coffee Lover
+ - [https://www.dayneherren.com](https://www.dayneherren.com)
+ - date published: 2023-12-20T14:33:38.208274+00:00
+ - user: None
+ - tags: ['personal']
+
 ## GDPR Support
  - [https://www.daytondailynews.com](https://www.daytondailynews.com)
  - date published: 2023-11-05T04:28:19.630117+00:00
@@ -5815,198 +6007,6 @@
 ## Dear Producer - Amplifying the Voices of Producers
  - [https://dearproducer.com](https://dearproducer.com)
  - date published: 2023-10-25T13:46:48.900755+00:00
- - user: None
- - tags: []
-
-## Death by AI
- - [https://deathbyai.com](https://deathbyai.com)
- - date published: 2023-10-25T13:46:58.127418+00:00
- - user: None
- - tags: []
-
-## All posts | Archy de Berker
- - [https://archy.deberker.com](https://archy.deberker.com)
- - date published: 2023-10-25T13:47:02.854781+00:00
- - user: None
- - tags: []
-
-## Java, Debugging, DevOps & Open Source
- - [https://debugagent.com](https://debugagent.com)
- - date published: 2023-10-25T13:47:06.814636+00:00
- - user: None
- - tags: []
-
-## Decathlon | Move people through the wonders of sport | Decathlon
- - [https://www.decathlon.com](https://www.decathlon.com)
- - date published: 2023-10-25T13:47:16.336867+00:00
- - user: None
- - tags: []
-
-## decaturdaily.com | The Independent Voice of the Tennessee Valley since 1912
- - [https://www.decaturdaily.com](https://www.decaturdaily.com)
- - date published: 2023-11-05T17:32:42.494420+00:00
- - user: None
- - tags: []
-
-## Latest News Today: Breaking News and Top Headlines from India, Politics, Bengaluru, Entertainment, Business and Sports
- - [https://www.deccanherald.com](https://www.deccanherald.com)
- - date published: 2023-10-25T13:47:18.731813+00:00
- - user: None
- - tags: []
-
-## Decider
- - [https://decider.com](https://decider.com)
- - date published: 2023-11-27T11:27:44+00:00
- - user: rumpel
- - tags: ['video streaming filter']
-
-## Decipad — Make sense of numbers
- - [https://www.decipad.com](https://www.decipad.com)
- - date published: 2023-10-25T13:47:20.389396+00:00
- - user: None
- - tags: []
-
-## Allison Posts
- - [https://posts.decontextualize.com](https://posts.decontextualize.com)
- - date published: 2023-10-25T13:47:27.737564+00:00
- - user: None
- - tags: []
-
-## de🔸digger find public files in Google Drive
- - [https://www.dedigger.com](https://www.dedigger.com)
- - date published: 2023-10-25T13:47:29.059381+00:00
- - user: None
- - tags: []
-
-## Dedoimedo - A Place to Learn a Lot About a Lot
- - [https://www.dedoimedo.com](https://www.dedoimedo.com)
- - date published: 2023-10-25T13:47:31.851633+00:00
- - user: None
- - tags: []
-
-## DEDWARE
- - [https://dedware.com](https://dedware.com)
- - date published: 2023-11-15T17:57:31.700400+00:00
- - user: None
- - tags: ['personal', 'art']
-
-## Deepak Gulati's blog
- - [https://www.deepakg.com](https://www.deepakg.com)
- - date published: 2023-10-25T13:47:34.103740+00:00
- - user: None
- - tags: []
-
-## Resources and Tools Created to Inspire | Deepgram
- - [https://blog.deepgram.com](https://blog.deepgram.com)
- - date published: 2023-10-25T13:47:45.305982+00:00
- - user: None
- - tags: []
-
-## DeepL Translate: The world's most accurate translator
- - [https://www.deepl.com](https://www.deepl.com)
- - date published: 2023-10-25T09:27:57.362550+00:00
- - user: None
- - tags: []
-
-## AlphaCode
- - [https://alphacode.deepmind.com](https://alphacode.deepmind.com)
- - date published: 2023-10-25T13:47:52.658441+00:00
- - user: None
- - tags: []
-
-## Google DeepMind
- - [https://www.deepmind.com](https://www.deepmind.com)
- - date published: 2023-10-25T13:47:54.689117+00:00
- - user: None
- - tags: ['artificial intelligence']
-
-## Deepnote: Analytics and data science notebook for teams.
- - [https://deepnote.com](https://deepnote.com)
- - date published: 2023-10-25T13:47:56.980147+00:00
- - user: None
- - tags: []
-
-## DEEP VOODOO
- - [https://www.deepvoodoo.com](https://www.deepvoodoo.com)
- - date published: 2023-10-25T13:47:58.271089+00:00
- - user: None
- - tags: []
-
-## Deezer plans | Compare Deezer's offer prices
- - [https://www.deezer.com](https://www.deezer.com)
- - date published: 2023-12-11T16:11:25.147244+00:00
- - user: None
- - tags: []
-
-## Defector | The last good website.
- - [https://defector.com](https://defector.com)
- - date published: 2023-10-25T13:48:09.544452+00:00
- - user: None
- - tags: []
-
-## Defense News, Covering the politics, business and technology of defense | Defense News
- - [https://www.defensenews.com](https://www.defensenews.com)
- - date published: 2023-10-31T05:18:09.856934+00:00
- - user: None
- - tags: []
-
-## Defense One
- - [https://www.defenseone.com](https://www.defenseone.com)
- - date published: 2023-10-25T13:48:12.931984+00:00
- - user: None
- - tags: []
-
-## DefenseScoop | Breaking US Military Tech News, Modern Defense News
- - [https://defensescoop.com](https://defensescoop.com)
- - date published: 2023-10-25T13:48:19.117494+00:00
- - user: None
- - tags: []
-
-## Defiant America – Home Page
- - [https://defiantamerica.com](https://defiantamerica.com)
- - date published: 2023-10-25T13:48:23.084019+00:00
- - user: None
- - tags: []
-
-## Degenerate Conic
- - [https://degenerateconic.com](https://degenerateconic.com)
- - date published: 2023-10-25T13:48:30.999460+00:00
- - user: None
- - tags: []
-
-## Degrees What?
- - [https://degreeswhat.com](https://degreeswhat.com)
- - date published: 2023-10-25T13:48:31.539045+00:00
- - user: None
- - tags: []
-
-## Power efficiency
- - [https://www.deif.com](https://www.deif.com)
- - date published: 2023-10-25T13:48:34.616072+00:00
- - user: None
- - tags: []
-
-## RIP Google Groups Dejanews.com Archive
- - [http://dejanews.com](http://dejanews.com)
- - date published: 2023-11-12T09:43:15+00:00
- - user: None
- - tags: []
-
-## SEO & Digital Marketing Agency - DEJAN ™
- - [https://dejanmarketing.com](https://dejanmarketing.com)
- - date published: 2023-10-25T13:48:37.761453+00:00
- - user: None
- - tags: []
-
-## Delaware Business Times Home Page - Delaware Business Times
- - [https://delawarebusinesstimes.com](https://delawarebusinesstimes.com)
- - date published: 2023-10-25T13:48:43.296680+00:00
- - user: None
- - tags: []
-
-## Laptops, Monitors, Computers & Storage Solutions | Dell Polska
- - [https://www.dell.com](https://www.dell.com)
- - date published: 2023-10-25T11:51:35.934416+00:00
  - user: None
  - tags: []
 

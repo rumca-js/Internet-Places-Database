@@ -1,3 +1,213 @@
+## Blog | Gitea Blog
+ - [https://blog.gitea.com](https://blog.gitea.com)
+ - date published: 2023-10-25T14:44:31.437032+00:00
+ - user: None
+ - tags: []
+
+## GitGuardian Blog
+ - [https://blog.gitguardian.com](https://blog.gitguardian.com)
+ - date published: 2023-10-25T14:44:40.974111+00:00
+ - user: None
+ - tags: []
+
+## GitHub Accelerator
+ - [https://accelerator.github.com](https://accelerator.github.com)
+ - date published: 2023-10-25T14:44:43.194804+00:00
+ - user: None
+ - tags: []
+
+## GitHub Docs
+ - [https://docs.github.com](https://docs.github.com)
+ - date published: 2023-10-25T14:44:44.496737+00:00
+ - user: None
+ - tags: []
+
+## Discover gists · GitHub
+ - [https://gist.github.com](https://gist.github.com)
+ - date published: 2023-10-25T14:44:47.049318+00:00
+ - user: None
+ - tags: ['code sandbox']
+
+## GitHub: Let’s build from here · GitHub
+ - [https://github.com](https://github.com)
+ - date published: 2023-10-25T14:42:43.938249+00:00
+ - user: None
+ - tags: ['gatekeeper', 'app platform']
+
+## Grimoire: Open-Source bookmark manager with extra features
+ - [https://github.com/goniszewski/grimoire](https://github.com/goniszewski/grimoire)
+ - date published: 2023-11-26T08:04:54+00:00
+ - user: rumpel
+ - tags: ['open source', 'bookmark manager']
+
+## GitHub Pages
+ - [https://pages.github.com](https://pages.github.com)
+ - date published: 2023-10-25T08:40:58.526731+00:00
+ - user: None
+ - tags: []
+
+## GitHub Security Lab | Securing the world’s software, together
+ - [https://securitylab.github.com](https://securitylab.github.com)
+ - date published: 2023-10-25T14:44:54.681852+00:00
+ - user: None
+ - tags: []
+
+## Your GitHub story in 3D - GitHub Skyline
+ - [https://skyline.github.com](https://skyline.github.com)
+ - date published: 2023-10-25T14:44:56.097492+00:00
+ - user: None
+ - tags: []
+
+## GitHub Copilot investigation · Joseph Saveri Law Firm & Matthew Butterick
+ - [https://githubcopilotinvestigation.com](https://githubcopilotinvestigation.com)
+ - date published: 2023-10-25T14:44:58.558633+00:00
+ - user: None
+ - tags: []
+
+## GitHub Copilot litigation ôñô Joseph Saveri Law Firmô & Matthew Butterick
+ - [https://githubcopilotlitigation.com](https://githubcopilotlitigation.com)
+ - date published: 2023-10-25T14:45:00.133493+00:00
+ - user: None
+ - tags: []
+
+## GitHub Blocks
+ - [https://blocks.githubnext.com](https://blocks.githubnext.com)
+ - date published: 2023-10-25T14:45:06.114880+00:00
+ - user: None
+ - tags: []
+
+## GitHub Next
+ - [https://githubnext.com](https://githubnext.com)
+ - date published: 2023-10-25T14:45:09.306656+00:00
+ - user: None
+ - tags: []
+
+## Monaspace
+ - [https://monaspace.githubnext.com](https://monaspace.githubnext.com)
+ - date published: 2023-11-09T20:16:34+00:00
+ - user: None
+ - tags: []
+
+## GitHub Status
+ - [https://www.githubstatus.com](https://www.githubstatus.com)
+ - date published: 2023-10-25T14:45:11.841528+00:00
+ - user: None
+ - tags: []
+
+## GitHub Universe - November 8-9, 2023
+ - [https://githubuniverse.com](https://githubuniverse.com)
+ - date published: 2023-10-25T14:45:13.916652+00:00
+ - user: None
+ - tags: []
+
+## The DevSecOps Platform | GitLab
+ - [https://about.gitlab.com](https://about.gitlab.com)
+ - date published: 2023-10-25T14:45:15.830655+00:00
+ - user: None
+ - tags: []
+
+## GitLab Documentation
+ - [https://docs.gitlab.com](https://docs.gitlab.com)
+ - date published: 2023-10-25T14:45:17.171619+00:00
+ - user: None
+ - tags: []
+
+## The DevSecOps Platform | GitLab
+ - [https://gitlab.com](https://gitlab.com)
+ - date published: 2023-10-25T14:45:19.469977+00:00
+ - user: None
+ - tags: []
+
+## GitLab System Status
+ - [https://status.gitlab.com](https://status.gitlab.com)
+ - date published: 2023-10-25T14:45:21.280848+00:00
+ - user: None
+ - tags: []
+
+## Gitless
+ - [https://gitless.com](https://gitless.com)
+ - date published: 2023-10-25T14:45:22.153895+00:00
+ - user: None
+ - tags: []
+
+## Gitta Wolf
+ - [https://gittawolf.com](https://gittawolf.com)
+ - date published: 2023-11-29T14:42:14.713737+00:00
+ - user: None
+ - tags: ['personal']
+
+## GiveLiveExplore – The Blog of Matthew Trinetti
+ - [https://www.giveliveexplore.com](https://www.giveliveexplore.com)
+ - date published: 2023-11-29T14:18:10.684298+00:00
+ - user: None
+ - tags: []
+
+## Gizmodo | The Future Is Here
+ - [https://gizmodo.com](https://gizmodo.com)
+ - date published: 2023-10-25T09:33:24.250359+00:00
+ - user: None
+ - tags: ['news']
+
+## Gokberk Yaltirakli
+ - [https://www.gkbrk.com](https://www.gkbrk.com)
+ - date published: 2023-10-25T14:45:23.901785+00:00
+ - user: None
+ - tags: []
+
+## Women's Issues, Politics, Fashion, Beauty, Entertainment News | Glamour
+ - [https://www.glamour.com](https://www.glamour.com)
+ - date published: 2023-10-25T14:45:26.156885+00:00
+ - user: None
+ - tags: []
+
+## The Glasgow Gallivanter – Adventures at home and abroad
+ - [https://glasgowgallivanter.com](https://glasgowgallivanter.com)
+ - date published: 2023-12-10T17:30:01.706680+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://www.glassattic.com
+ - [https://www.glassattic.com](https://www.glassattic.com)
+ - date published: 2023-11-01T18:27:48.715499+00:00
+ - user: None
+ - tags: ['sculpting', 'polymer clay']
+
+## Gliglish · Your AI Language Teacher | Practice speaking & listening
+ - [https://gliglish.com](https://gliglish.com)
+ - date published: 2023-10-25T14:45:28.936207+00:00
+ - user: None
+ - tags: []
+
+## Global Fleet - The Executive Network
+ - [https://www.globalfleet.com](https://www.globalfleet.com)
+ - date published: 2023-10-25T14:45:33.013417+00:00
+ - user: None
+ - tags: []
+
+## Global Ground Support - An AirT Company
+ - [https://globalgroundsupport.com](https://globalgroundsupport.com)
+ - date published: 2023-10-25T14:45:38.412506+00:00
+ - user: None
+ - tags: []
+
+## Global Player | Radio, Podcasts, Playlists and Videos
+ - [https://www.globalplayer.com](https://www.globalplayer.com)
+ - date published: 2023-11-13T09:32:46.982591+00:00
+ - user: None
+ - tags: ['podcasts', 'radio']
+
+## Home | Global Policy Journal
+ - [https://www.globalpolicyjournal.com](https://www.globalpolicyjournal.com)
+ - date published: 2023-10-25T14:45:49.399382+00:00
+ - user: None
+ - tags: []
+
+## Digital Certificates - PKI - SSL/TLS  GlobalSign GMO
+ - [https://www.globalsign.com](https://www.globalsign.com)
+ - date published: 2023-10-25T14:45:57.049966+00:00
+ - user: None
+ - tags: []
+
 ## https://electronics360.globalspec.com
  - [https://electronics360.globalspec.com](https://electronics360.globalspec.com)
  - date published: 2023-10-25T14:45:57.332220+00:00
@@ -57,6 +267,12 @@
  - date published: 2023-11-09T03:55:55+00:00
  - user: rumpel
  - tags: ['philippine news']
+
+## https://gmauthority.com
+ - [https://gmauthority.com](https://gmauthority.com)
+ - date published: 2023-12-20T01:47:47.593587+00:00
+ - user: None
+ - tags: []
 
 ## Gabriel Mays - Semper esurientem.
  - [https://gmays.com](https://gmays.com)
@@ -229,6 +445,12 @@
 ## Google Colab
  - [https://colab.research.google.com](https://colab.research.google.com)
  - date published: 2023-10-25T14:47:44.134292+00:00
+ - user: None
+ - tags: []
+
+## Google Cloud Platform
+ - [https://console.cloud.google.com](https://console.cloud.google.com)
+ - date published: 2023-12-20T18:54:01.264450+00:00
  - user: None
  - tags: []
 
@@ -3901,6 +4123,12 @@
  - user: None
  - tags: []
 
+## Daum Park – Capturing Human Imagination
+ - [https://itsdaum.com](https://itsdaum.com)
+ - date published: 2023-12-20T21:31:19.471050+00:00
+ - user: None
+ - tags: ['personal']
+
 ## It's FOSS
  - [https://itsfoss.com](https://itsfoss.com)
  - date published: 2023-10-25T15:24:54.042751+00:00
@@ -4596,6 +4824,12 @@
  - date published: 2023-10-25T15:28:08.983378+00:00
  - user: None
  - tags: []
+
+## Jer Lance (dot com)
+ - [https://jerlance.com](https://jerlance.com)
+ - date published: 2023-12-20T01:00:20.704273+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Juan Ernesto Blog
  - [https://www.jernesto.com](https://www.jernesto.com)
@@ -5764,240 +5998,6 @@
 ## katiecouric.com
  - [https://katiecouric.com](https://katiecouric.com)
  - date published: 2023-12-02T18:30:53.045338+00:00
- - user: None
- - tags: []
-
-## Flourish & Bloom
- - [https://www.katiedutcher.com](https://www.katiedutcher.com)
- - date published: 2023-11-29T15:45:42.538065+00:00
- - user: None
- - tags: ['personal']
-
-## Katrina Goldsaito
- - [https://katrinagoldsaito.com](https://katrinagoldsaito.com)
- - date published: 2023-12-19T02:59:53.799605+00:00
- - user: None
- - tags: ['personal']
-
-## Blender Game, Design and Editing tutorials and tools : KatsBits.com
- - [https://www.katsbits.com](https://www.katsbits.com)
- - date published: 2023-10-28T20:34:38.257298+00:00
- - user: None
- - tags: ['gaming', 'blog']
-
-## Portfolio | Kat Snyder | UX Researcher | Palo Alto, CA
- - [https://www.katsnyderux.com](https://www.katsnyderux.com)
- - date published: 2023-10-25T15:35:22.405683+00:00
- - user: None
- - tags: []
-
-## Little Rock News, Weather, Sports, Breaking News | KATV
- - [https://katv.com](https://katv.com)
- - date published: 2023-11-15T02:43:27.922383+00:00
- - user: None
- - tags: []
-
-## Katy Perry | Official Site
- - [https://www.katyperry.com](https://www.katyperry.com)
- - date published: 2023-11-13T10:44:39.585340+00:00
- - user: None
- - tags: ['music band']
-
-## Kavii Suri
- - [https://kaviisuri.com](https://kaviisuri.com)
- - date published: 2023-10-25T15:35:24.728646+00:00
- - user: None
- - tags: []
-
-## KAVINSKY OFFICIAL WEBSITE
- - [https://kavinsky.com](https://kavinsky.com)
- - date published: 2023-11-13T10:25:58.873427+00:00
- - user: None
- - tags: ['music band']
-
-## Kawasaki Robotics - Industrial Robotics | HOME
- - [https://kawasakirobotics.com](https://kawasakirobotics.com)
- - date published: 2023-11-27T15:32:22+00:00
- - user: rumpel
- - tags: []
-
-## Access Denied
- - [https://www.kbb.com](https://www.kbb.com)
- - date published: 2023-10-25T15:35:25.046506+00:00
- - user: None
- - tags: []
-
-## KBH Games - Play Free Online Web Games
- - [https://kbhgames.com](https://kbhgames.com)
- - date published: 2023-10-26T18:52:24.828608+00:00
- - user: None
- - tags: ['games']
-
-## KBroeren.com
- - [https://www.kbroeren.com](https://www.kbroeren.com)
- - date published: 2023-11-29T15:45:33.480531+00:00
- - user: None
- - tags: ['personal']
-
-## KCRG | Cedar Rapids, Iowa City, Waterloo, Dubuque | News, Sports and Weather
- - [https://www.kcrg.com](https://www.kcrg.com)
- - date published: 2023-11-19T00:29:17.547259+00:00
- - user: None
- - tags: ['news']
-
-## KCRW 89.9FM | Music, NPR News, Culture Los Angeles | KCRW
- - [https://www.kcrw.com](https://www.kcrw.com)
- - date published: 2023-10-25T15:35:29.861868+00:00
- - user: None
- - tags: []
-
-## KDnuggets
- - [https://www.kdnuggets.com](https://www.kdnuggets.com)
- - date published: 2023-12-10T10:12:35.693865+00:00
- - user: None
- - tags: ['machine learning', 'artificial intelligence']
-
-## KDP Community
- - [https://www.kdpcommunity.com](https://www.kdpcommunity.com)
- - date published: 2023-10-25T15:35:34.149390+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://www.keengamer.com](https://www.keengamer.com)
- - date published: 2023-11-12T05:39:10.831693+00:00
- - user: None
- - tags: []
-
-## Keith Donegan - Web Developer
- - [https://www.keithdonegan.com](https://www.keithdonegan.com)
- - date published: 2023-12-19T10:00:34.286305+00:00
- - user: None
- - tags: ['personal']
-
-## Kellan Elliott-McCrea
- - [https://kellanem.com](https://kellanem.com)
- - date published: 2023-10-25T08:58:12.167205+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Brazil's Blog
- - [https://blog.kellybrazil.com](https://blog.kellybrazil.com)
- - date published: 2023-10-25T15:35:42.425437+00:00
- - user: None
- - tags: []
-
-## Kelly Shortridge
- - [https://kellyshortridge.com](https://kellyshortridge.com)
- - date published: 2023-12-13T23:14:24.360707+00:00
- - user: None
- - tags: []
-
-## Startup Win | Kelsus | Substack
- - [https://startupwin.kelsus.com](https://startupwin.kelsus.com)
- - date published: 2023-10-25T15:35:46.064869+00:00
- - user: None
- - tags: []
-
-## /dev/lawyer
- - [https://writing.kemitchell.com](https://writing.kemitchell.com)
- - date published: 2023-10-25T15:35:58.761033+00:00
- - user: None
- - tags: []
-
-## Kempa.com
- - [https://www.kempa.com](https://www.kempa.com)
- - date published: 2023-10-25T08:46:44.860682+00:00
- - user: None
- - tags: ['personal']
-
-## Kendall Giles | Kendall Giles: Technology, Society, and Meaning
- - [https://www.kendallgiles.com](https://www.kendallgiles.com)
- - date published: 2023-12-10T17:00:14.989133+00:00
- - user: None
- - tags: ['personal']
-
-## kennedn
- - [https://kennedn.com](https://kennedn.com)
- - date published: 2023-10-25T15:36:00.034186+00:00
- - user: None
- - tags: []
-
-## Kenny Log-Ins
- - [https://www.kennylog-in.com](https://www.kennylog-in.com)
- - date published: 2023-10-25T15:36:01.766783+00:00
- - user: None
- - tags: []
-
-## Access Denied
- - [https://www.kens5.com](https://www.kens5.com)
- - date published: 2023-12-09T00:59:09.524386+00:00
- - user: None
- - tags: []
-
-## Kent C. Dodds
- - [https://kentcdodds.com](https://kentcdodds.com)
- - date published: 2023-10-25T15:36:05.091092+00:00
- - user: None
- - tags: []
-
-## Network Observability, Performance and Security | Network Flow Analytics, Network Monitoring & DDoS Detection | Kentik
- - [https://www.kentik.com](https://www.kentik.com)
- - date published: 2023-10-25T15:36:09.225110+00:00
- - user: None
- - tags: []
-
-## Kent Nerburn | Kent Nerburn
- - [https://kentnerburn.com](https://kentnerburn.com)
- - date published: 2023-10-25T15:36:24.836850+00:00
- - user: None
- - tags: []
-
-## Kenton's House
- - [https://kentonshouse.com](https://kentonshouse.com)
- - date published: 2023-10-25T15:36:27.827605+00:00
- - user: None
- - tags: []
-
-## Kera Desktop
- - [https://desktop.kerahq.com](https://desktop.kerahq.com)
- - date published: 2023-10-25T15:36:28.216806+00:00
- - user: None
- - tags: []
-
-## Kerbal Space Program Forums
- - [https://forum.kerbalspaceprogram.com](https://forum.kerbalspaceprogram.com)
- - date published: 2023-10-25T08:39:16.787582+00:00
- - user: None
- - tags: []
-
-## Sylvain Kerkour
- - [https://kerkour.com](https://kerkour.com)
- - date published: 2023-10-25T08:46:46.409680+00:00
- - user: None
- - tags: ['personal']
-
-## Kerrick Long’s Home Page
- - [https://kerricklong.com](https://kerricklong.com)
- - date published: 2023-10-25T15:36:29.663619+00:00
- - user: None
- - tags: []
-
-## Kevin Indig - Organic Growth Advisor
- - [https://www.kevin-indig.com](https://www.kevin-indig.com)
- - date published: 2023-11-29T19:26:40.359586+00:00
- - user: None
- - tags: ['personal']
-
-## Kevin Carrel Footer
- - [https://kevincarrelfooter.com](https://kevincarrelfooter.com)
- - date published: 2023-12-15T21:42:29.789590+00:00
- - user: None
- - tags: ['personal']
-
-## kevingal.com
- - [https://kevingal.com](https://kevingal.com)
- - date published: 2023-10-25T15:36:30.394253+00:00
  - user: None
  - tags: []
 

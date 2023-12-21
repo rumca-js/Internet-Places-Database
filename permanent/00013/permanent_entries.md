@@ -1,3 +1,627 @@
+## মুরাদুল ইসলাম
+ - [https://muradulislam.me](https://muradulislam.me)
+ - date published: 2023-11-29T14:18:24.389418+00:00
+ - user: None
+ - tags: ['personal']
+
+## a blog by biggiemac42
+ - [https://btm.qva.mybluehost.me](https://btm.qva.mybluehost.me)
+ - date published: 2023-10-25T09:22:31.896364+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nate's Notes
+ - [https://natedunn.me](https://natedunn.me)
+ - date published: 2023-11-29T17:13:27.372479+00:00
+ - user: None
+ - tags: ['personal']
+
+## Navendu Pottekkat
+ - [https://navendu.me](https://navendu.me)
+ - date published: 2023-10-25T08:59:57.701859+00:00
+ - user: None
+ - tags: ['personal']
+
+## It's Nicky Case!
+ - [https://ncase.me](https://ncase.me)
+ - date published: 2023-10-25T08:50:40.025023+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nova Skin - Minecraft Skin Editor
+ - [https://minecraft.novaskin.me](https://minecraft.novaskin.me)
+ - date published: 2023-10-30T15:19:59.219664+00:00
+ - user: None
+ - tags: []
+
+## Open Graph protocol
+ - [https://ogp.me](https://ogp.me)
+ - date published: 2023-12-11T16:53:52.586635+00:00
+ - user: None
+ - tags: []
+
+## Omar Shehata
+ - [https://omarshehata.me](https://omarshehata.me)
+ - date published: 2023-10-25T08:50:42.172246+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://nikkeiasiaandroid.onelink.me
+ - [https://nikkeiasiaandroid.onelink.me](https://nikkeiasiaandroid.onelink.me)
+ - date published: 2023-12-12T09:09:21.839719+00:00
+ - user: None
+ - tags: []
+
+## https://nikkeiasiaios.onelink.me
+ - [https://nikkeiasiaios.onelink.me](https://nikkeiasiaios.onelink.me)
+ - date published: 2023-12-12T09:09:36.739956+00:00
+ - user: None
+ - tags: []
+
+## osantana
+ - [https://osantana.me](https://osantana.me)
+ - date published: 2023-11-29T14:24:45.651088+00:00
+ - user: None
+ - tags: ['personal']
+
+## paavohtl's blog
+ - [https://blog.paavo.me](https://blog.paavo.me)
+ - date published: 2023-11-05T18:33:22.286573+00:00
+ - user: None
+ - tags: []
+
+## Paul Burdick :: Home
+ - [https://paulburdick.me](https://paulburdick.me)
+ - date published: 2023-11-29T14:20:49.637841+00:00
+ - user: None
+ - tags: ['personal']
+
+## Eric Pauley
+ - [https://pauley.me](https://pauley.me)
+ - date published: 2023-10-25T08:50:43.702674+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paul Osman
+ - [https://paulosman.me](https://paulosman.me)
+ - date published: 2023-10-25T09:22:37.534273+00:00
+ - user: None
+ - tags: ['personal']
+
+## Uzyskaj własne łącze PayPal.Me
+ - [https://paypal.me](https://paypal.me)
+ - date published: 2023-11-19T21:29:39+00:00
+ - user: rumpel
+ - tags: ['crowdfunding']
+
+## Uzyskaj własne łącze PayPal.Me
+ - [https://www.paypal.me](https://www.paypal.me)
+ - date published: 2023-12-11T18:30:21.332636+00:00
+ - user: None
+ - tags: []
+
+## Paul Brown
+ - [https://pbrown.me](https://pbrown.me)
+ - date published: 2023-10-25T08:59:59.207817+00:00
+ - user: None
+ - tags: ['personal']
+
+## Pete's Blog
+ - [https://petevilter.me](https://petevilter.me)
+ - date published: 2023-10-25T08:50:45.050699+00:00
+ - user: None
+ - tags: ['personal']
+
+## Petter Holme
+ - [https://petterhol.me](https://petterhol.me)
+ - date published: 2023-10-25T08:50:47.284099+00:00
+ - user: None
+ - tags: ['personal']
+
+## Phil Booth
+ - [https://philbooth.me](https://philbooth.me)
+ - date published: 2023-10-25T08:50:48.807135+00:00
+ - user: None
+ - tags: ['personal']
+
+## ubitux/blog
+ - [https://blog.pkh.me](https://blog.pkh.me)
+ - date published: 2023-10-25T20:20:45.149687+00:00
+ - user: None
+ - tags: []
+
+## Pradyun Gedam
+ - [https://pradyunsg.me](https://pradyunsg.me)
+ - date published: 2023-10-25T09:22:38.359262+00:00
+ - user: None
+ - tags: ['personal']
+
+## Preslav Rachev
+ - [https://preslav.me](https://preslav.me)
+ - date published: 2023-10-25T08:50:50.134536+00:00
+ - user: None
+ - tags: ['personal']
+
+## Corey Prophitt's Website
+ - [https://prophitt.me](https://prophitt.me)
+ - date published: 2023-10-25T08:50:51.665289+00:00
+ - user: None
+ - tags: ['personal']
+
+## Proton — Privacy by default
+ - [https://proton.me](https://proton.me)
+ - date published: 2023-10-25T08:25:39.070341+00:00
+ - user: None
+ - tags: ['privacy', 'vpn', 'email server']
+
+## Rauno Freiberg
+ - [https://rauno.me](https://rauno.me)
+ - date published: 2023-10-25T08:50:53.557307+00:00
+ - user: None
+ - tags: ['personal']
+
+## Redbrick | The official student newspaper of the University of Birmingham
+ - [https://www.redbrick.me](https://www.redbrick.me)
+ - date published: 2023-10-25T20:20:51.810256+00:00
+ - user: None
+ - tags: []
+
+## Robb Knight
+ - [https://rknight.me](https://rknight.me)
+ - date published: 2023-12-10T23:33:02.712924+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://roastmyresu.me
+ - [https://roastmyresu.me](https://roastmyresu.me)
+ - date published: 2023-10-25T20:20:52.494687+00:00
+ - user: None
+ - tags: []
+
+## Rukshan's Blog
+ - [https://ruky.me](https://ruky.me)
+ - date published: 2023-10-25T08:50:56.032223+00:00
+ - user: None
+ - tags: ['personal']
+
+## RyotaK's Blog - 技術的な話とか
+ - [https://blog.ryotak.me](https://blog.ryotak.me)
+ - date published: 2023-10-25T20:20:53.525118+00:00
+ - user: None
+ - tags: []
+
+## Stefan Saasen
+ - [https://stefan.saasen.me](https://stefan.saasen.me)
+ - date published: 2023-11-01T08:43:50.249821+00:00
+ - user: None
+ - tags: []
+
+## Sam Dickie | Product Manager & Maker based in Scotland
+ - [https://www.samdickie.me](https://www.samdickie.me)
+ - date published: 2023-10-25T20:21:00.260047+00:00
+ - user: None
+ - tags: []
+
+## samyaksahu.me
+ - [https://samyaksahu.me](https://samyaksahu.me)
+ - date published: 2023-10-25T20:21:02.710847+00:00
+ - user: None
+ - tags: []
+
+## HandlR
+ - [https://handlr.sapico.me](https://handlr.sapico.me)
+ - date published: 2023-10-25T20:21:09.032470+00:00
+ - user: None
+ - tags: []
+
+## [Michał Sapka's website]
+ - [https://michal.sapka.me](https://michal.sapka.me)
+ - date published: 2023-10-25T08:50:59.399029+00:00
+ - user: None
+ - tags: ['personal']
+
+## scoop.me - Share it. Translate it. Republish it.
+ - [https://scoop.me](https://scoop.me)
+ - date published: 2023-10-25T10:39:44.099392+00:00
+ - user: None
+ - tags: []
+
+## Scott Gould – Author and speaker on Engagement
+ - [https://scottgould.me](https://scottgould.me)
+ - date published: 2023-11-29T14:20:14.061881+00:00
+ - user: None
+ - tags: ['personal']
+
+## Seiya Nuta
+ - [https://seiya.me](https://seiya.me)
+ - date published: 2023-10-25T08:51:02.101892+00:00
+ - user: None
+ - tags: ['personal']
+
+## SerCe's blog
+ - [https://serce.me](https://serce.me)
+ - date published: 2023-10-25T08:51:03.677213+00:00
+ - user: None
+ - tags: ['personal']
+
+## SerHack – Security Researcher and Writer
+ - [https://serhack.me](https://serhack.me)
+ - date published: 2023-10-25T08:51:06.357837+00:00
+ - user: None
+ - tags: ['personal']
+
+## SH1MMER.me
+ - [https://sh1mmer.me](https://sh1mmer.me)
+ - date published: 2023-10-25T20:21:10.380048+00:00
+ - user: None
+ - tags: []
+
+## Shalvah's Blog
+ - [https://blog.shalvah.me](https://blog.shalvah.me)
+ - date published: 2023-10-25T09:00:00.613048+00:00
+ - user: None
+ - tags: ['personal']
+
+## Shameem Reza
+ - [https://shameem.me](https://shameem.me)
+ - date published: 2023-11-29T14:41:10.640159+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Sharat's
+ - [https://sharats.me](https://sharats.me)
+ - date published: 2023-10-25T09:00:01.772363+00:00
+ - user: None
+ - tags: ['personal']
+
+## The homepage of Leonid Shevtsov - systems architect, software enthusiast and philosopher. Opinions, tips and case studies
+ - [https://leonid.shevtsov.me](https://leonid.shevtsov.me)
+ - date published: 2023-10-25T20:21:12.014354+00:00
+ - user: None
+ - tags: []
+
+## Shyim's Brain
+ - [https://shyim.me](https://shyim.me)
+ - date published: 2023-10-25T08:37:50.607216+00:00
+ - user: None
+ - tags: []
+
+## Simon’s Newsletter | Substack
+ - [https://simonberens.me](https://simonberens.me)
+ - date published: 2023-10-25T10:07:57.433976+00:00
+ - user: None
+ - tags: ['substack']
+
+## London / Las Palmas-based Software Engineer, Simon Hamp :: simonhamp.me
+ - [https://simonhamp.me](https://simonhamp.me)
+ - date published: 2023-12-20T19:16:05.164620+00:00
+ - user: None
+ - tags: ['personal']
+
+## The online home of Stephen Lewis. No, not that one.
+ - [https://www.stephenlewis.me](https://www.stephenlewis.me)
+ - date published: 2023-10-25T20:21:14.210743+00:00
+ - user: None
+ - tags: []
+
+## Telegram Messenger
+ - [https://t.me](https://t.me)
+ - date published: 2023-10-25T20:21:15.924156+00:00
+ - user: None
+ - tags: []
+
+## Hi, I’m Taylor Pearson -
+ - [https://taylorpearson.me](https://taylorpearson.me)
+ - date published: 2023-11-17T07:29:25.425464+00:00
+ - user: None
+ - tags: ['personal']
+
+## TheFrenchGhosty's Blog
+ - [https://blog.thefrenchghosty.me](https://blog.thefrenchghosty.me)
+ - date published: 2023-10-25T09:22:39.074426+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Sloth Blog
+ - [https://thesloth.me](https://thesloth.me)
+ - date published: 2023-10-25T09:22:40.122984+00:00
+ - user: None
+ - tags: ['personal']
+
+## Thien Tran
+ - [https://thien.me](https://thien.me)
+ - date published: 2023-12-17T05:07:27.671851+00:00
+ - user: None
+ - tags: ['personal']
+
+## ThoughtfulBits: Ideas that Matter | Alexander Gounares | Substack
+ - [https://www.thoughtfulbits.me](https://www.thoughtfulbits.me)
+ - date published: 2023-10-25T20:21:19.757249+00:00
+ - user: None
+ - tags: []
+
+## TJCX | Tom | Substack
+ - [https://blog.tjcx.me](https://blog.tjcx.me)
+ - date published: 2023-10-25T10:08:00.355305+00:00
+ - user: None
+ - tags: ['substack']
+
+## Hacker News Startup Ideas
+ - [https://hn-ideas.tjcx.me](https://hn-ideas.tjcx.me)
+ - date published: 2023-10-25T20:21:21.018665+00:00
+ - user: None
+ - tags: []
+
+## Tobias Schmidt
+ - [https://tobiasschmidt.me](https://tobiasschmidt.me)
+ - date published: 2023-11-29T20:43:33.302518+00:00
+ - user: None
+ - tags: ['personal']
+
+## Blog
+ - [https://tonsky.me](https://tonsky.me)
+ - date published: 2023-10-25T08:51:14.857368+00:00
+ - user: None
+ - tags: ['personal']
+
+## Oleksii Holub
+ - [https://tyrrrz.me](https://tyrrrz.me)
+ - date published: 2023-10-25T08:51:16.110382+00:00
+ - user: None
+ - tags: ['personal']
+
+## Toby Law
+ - [https://www.tzcl.me](https://www.tzcl.me)
+ - date published: 2023-10-25T08:51:17.497845+00:00
+ - user: None
+ - tags: ['personal']
+
+## About
+ - [https://univalence.me](https://univalence.me)
+ - date published: 2023-10-25T09:00:04.426204+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Latest and Most Common User Agents List (Updated Weekly)
+ - [https://www.useragents.me](https://www.useragents.me)
+ - date published: 2023-10-25T20:21:25.088929+00:00
+ - user: None
+ - tags: []
+
+## Home • Lea Verou
+ - [https://lea.verou.me](https://lea.verou.me)
+ - date published: 2023-10-25T08:51:19.673236+00:00
+ - user: None
+ - tags: ['personal']
+
+## Theia Vogel's website & blog
+ - [https://vgel.me](https://vgel.me)
+ - date published: 2023-10-25T08:51:21.160541+00:00
+ - user: None
+ - tags: ['personal']
+
+## Victor Mota
+ - [https://vimota.me](https://vimota.me)
+ - date published: 2023-10-25T08:51:22.371547+00:00
+ - user: None
+ - tags: ['personal']
+
+## Venkkatesh Sekar
+ - [https://vsekar.me](https://vsekar.me)
+ - date published: 2023-11-19T12:38:58.925737+00:00
+ - user: None
+ - tags: ['personal']
+
+## Weights & Biases: The AI Developer Platform
+ - [https://wandb.me](https://wandb.me)
+ - date published: 2023-10-25T20:21:35.519973+00:00
+ - user: None
+ - tags: []
+
+## wiwi blog
+ - [https://blog.whiona.me](https://blog.whiona.me)
+ - date published: 2023-11-03T00:47:50+00:00
+ - user: rumpel
+ - tags: []
+
+## Wiby - Search Engine for the Classic Web
+ - [https://wiby.me](https://wiby.me)
+ - date published: 2023-10-25T08:29:23.355198+00:00
+ - user: None
+ - tags: ['search engine']
+
+## WIRED Middle East - Technology, culture, science, gadgets, and business in the Middle East
+ - [https://wired.me](https://wired.me)
+ - date published: 2023-10-25T20:21:44.182813+00:00
+ - user: None
+ - tags: []
+
+## WordPress, Your Way
+ - [https://wp.me](https://wp.me)
+ - date published: 2023-12-11T16:30:47.089030+00:00
+ - user: None
+ - tags: []
+
+## #1 WordPress Caching Plugin | WP Rocket
+ - [https://wp-rocket.me](https://wp-rocket.me)
+ - date published: 2023-12-11T17:44:53.434876+00:00
+ - user: None
+ - tags: []
+
+## bugs.xdavidhu.me - David Schütz's bug bounty writeups
+ - [https://bugs.xdavidhu.me](https://bugs.xdavidhu.me)
+ - date published: 2023-10-25T20:21:45.732787+00:00
+ - user: None
+ - tags: []
+
+## xnacly - blog
+ - [https://xnacly.me](https://xnacly.me)
+ - date published: 2023-10-25T09:00:05.042896+00:00
+ - user: None
+ - tags: ['personal']
+
+## Welcome! — Wenting's Web Page
+ - [https://www.zephray.me](https://www.zephray.me)
+ - date published: 2023-10-25T20:21:52.856939+00:00
+ - user: None
+ - tags: []
+
+## Zhiming Chen – Growing culture with play
+ - [https://zhiming.me](https://zhiming.me)
+ - date published: 2023-12-12T13:08:15.230615+00:00
+ - user: None
+ - tags: ['personal']
+
+## ChinaTalk | Jordan Schneider | Substack
+ - [https://www.chinatalk.media](https://www.chinatalk.media)
+ - date published: 2023-10-25T10:08:05.206493+00:00
+ - user: None
+ - tags: ['substack']
+
+## Infusionmedia – Professional book publishing, design, and marketing
+ - [https://infusion.media](https://infusion.media)
+ - date published: 2023-10-25T20:21:56.655300+00:00
+ - user: None
+ - tags: []
+
+## Insight News: Insightful News and Analytic Articles on Ukraine and EU
+ - [https://insightnews.media](https://insightnews.media)
+ - date published: 2023-10-25T09:29:41.200467+00:00
+ - user: None
+ - tags: []
+
+## Home - International Press Institute
+ - [https://ipi.media](https://ipi.media)
+ - date published: 2023-10-25T20:22:02.576652+00:00
+ - user: None
+ - tags: []
+
+## Mezha.Media • новини IT та огляди
+ - [https://mezha.media](https://mezha.media)
+ - date published: 2023-10-25T20:22:07.948757+00:00
+ - user: None
+ - tags: []
+
+## The Record from Recorded Future News
+ - [https://therecord.media](https://therecord.media)
+ - date published: 2023-10-25T20:22:09.467233+00:00
+ - user: None
+ - tags: []
+
+## TMG
+ - [https://thrillseeker.media](https://thrillseeker.media)
+ - date published: 2023-10-31T13:11:53.641462+00:00
+ - user: None
+ - tags: ['virtual reality']
+
+## Vocal
+ - [https://vocal.media](https://vocal.media)
+ - date published: 2023-10-27T19:31:14.591931+00:00
+ - user: None
+ - tags: []
+
+## Citroën Madagascar - Citroen Madagascar
+ - [https://www.citroen.mg](https://www.citroen.mg)
+ - date published: 2023-12-11T15:50:04.213321+00:00
+ - user: None
+ - tags: []
+
+## NIM-Aviation Homepage
+ - [https://www.airdomainintelligence.mil](https://www.airdomainintelligence.mil)
+ - date published: 2023-10-25T20:22:13.913036+00:00
+ - user: None
+ - tags: []
+
+## Defense Advanced Research Projects Agency
+ - [https://www.darpa.mil](https://www.darpa.mil)
+ - date published: 2023-10-25T20:22:24.810237+00:00
+ - user: None
+ - tags: []
+
+## Page Redirection
+ - [https://apps.dtic.mil](https://apps.dtic.mil)
+ - date published: 2023-10-25T20:22:26.297274+00:00
+ - user: None
+ - tags: []
+
+## Marines.mil - Official website of the United States Marine Corps
+ - [https://www.marines.mil](https://www.marines.mil)
+ - date published: 2023-10-25T20:22:30.689838+00:00
+ - user: None
+ - tags: []
+
+## Celestial Reference Frame Department - Home | USNO
+ - [https://crf.usno.navy.mil](https://crf.usno.navy.mil)
+ - date published: 2023-10-27T12:05:30.068659+00:00
+ - user: None
+ - tags: []
+
+## NHHC
+ - [https://www.history.navy.mil](https://www.history.navy.mil)
+ - date published: 2023-10-25T20:22:52.200634+00:00
+ - user: None
+ - tags: []
+
+## Shadow's Edge | Home
+ - [https://www.shadowsedge.mil](https://www.shadowsedge.mil)
+ - date published: 2023-11-05T03:04:15.281086+00:00
+ - user: None
+ - tags: []
+
+## Citroën Македонија: Автонова - Дома
+ - [https://www.citroen.com.mk](https://www.citroen.com.mk)
+ - date published: 2023-12-11T16:03:26.893899+00:00
+ - user: None
+ - tags: []
+
+## Lemmy - A community of privacy and FOSS enthusiasts, run by Lemmy’s developers
+ - [https://lemmy.ml](https://lemmy.ml)
+ - date published: 2023-10-24T20:14:58.384075+00:00
+ - user: None
+ - tags: []
+
+## Scott.mn
+ - [https://scott.mn](https://scott.mn)
+ - date published: 2023-10-25T09:22:41.721028+00:00
+ - user: None
+ - tags: ['personal']
+
+## Streets.mn - Transportation and Land Use in Minnesota
+ - [https://streets.mn](https://streets.mn)
+ - date published: 2023-10-25T11:20:38.557389+00:00
+ - user: None
+ - tags: []
+
+## Andy Tockman
+ - [https://tck.mn](https://tck.mn)
+ - date published: 2023-10-25T08:51:23.863310+00:00
+ - user: None
+ - tags: ['personal']
+
+## Terence Eden’s Blog
+ - [https://shkspr.mobi](https://shkspr.mobi)
+ - date published: 2023-10-25T09:22:46.626265+00:00
+ - user: None
+ - tags: ['personal']
+
+## cadence's website
+ - [https://cadence.moe](https://cadence.moe)
+ - date published: 2023-10-25T08:51:26.060059+00:00
+ - user: None
+ - tags: ['personal']
+
+## Catbox
+ - [https://files.catbox.moe](https://files.catbox.moe)
+ - date published: 2023-11-02T07:06:02.553987+00:00
+ - user: None
+ - tags: []
+
+## crepe.moe
+ - [https://crepe.moe](https://crepe.moe)
+ - date published: 2023-11-02T04:05:52.401145+00:00
+ - user: None
+ - tags: []
+
 ## Cubari
  - [https://cubari.moe](https://cubari.moe)
  - date published: 2023-11-15T23:58:15.505391+00:00
@@ -171,6 +795,12 @@
  - date published: 2023-10-25T08:51:49.598464+00:00
  - user: None
  - tags: ['personal']
+
+## Nathan Ho
+ - [https://nathan.ho.name](https://nathan.ho.name)
+ - date published: 2023-12-20T22:45:42.744081+00:00
+ - user: None
+ - tags: []
 
 ## Joey Hess
  - [https://joeyh.name](https://joeyh.name)
@@ -609,6 +1239,12 @@
  - date published: 2023-10-25T20:24:41.741120+00:00
  - user: None
  - tags: []
+
+## Andrés Bianciotto
+ - [https://andresb.net](https://andresb.net)
+ - date published: 2023-12-20T11:44:54.548934+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Andrew Lock | .NET Escapades
  - [https://andrewlock.net](https://andrewlock.net)
@@ -1065,6 +1701,12 @@
  - date published: 2023-12-10T19:31:41+00:00
  - user: None
  - tags: []
+
+## Gaurav Chandrashekar
+ - [https://cggaurav.net](https://cggaurav.net)
+ - date published: 2023-12-20T00:58:27.977592+00:00
+ - user: None
+ - tags: ['personal']
 
 ## chair6.net
  - [https://chair6.net](https://chair6.net)
@@ -2038,6 +2680,12 @@
  - user: None
  - tags: []
 
+## Howard Gray
+ - [https://howardgray.net](https://howardgray.net)
+ - date published: 2023-12-20T05:38:59.905716+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Welcome
  - [https://huntertur.net](https://huntertur.net)
  - date published: 2023-10-25T20:31:39.306377+00:00
@@ -2576,6 +3224,12 @@
 ## Introducing Cheetah: A Lightweight Virtual Machine Manager for macOS | Cheetah
  - [https://macspot.net](https://macspot.net)
  - date published: 2023-10-25T20:33:19.344039+00:00
+ - user: None
+ - tags: []
+
+## Mad Camp! (coming 2024 stay tuned)
+ - [https://www.madcamp.net](https://www.madcamp.net)
+ - date published: 2023-12-20T09:12:49.749827+00:00
  - user: None
  - tags: []
 
@@ -3600,6 +4254,12 @@
  - user: None
  - tags: []
 
+## · roytang.net
+ - [https://roytang.net](https://roytang.net)
+ - date published: 2023-12-20T11:46:31.779066+00:00
+ - user: None
+ - tags: ['personal']
+
 ## RPCS3 - The PlayStation 3 Emulator
  - [https://rpcs3.net](https://rpcs3.net)
  - date published: 2023-10-25T08:36:13.685764+00:00
@@ -3791,6 +4451,12 @@
  - date published: 2023-11-23T19:16:08+00:00
  - user: None
  - tags: []
+
+## Shiftall Inc.
+ - [https://en.shiftall.net](https://en.shiftall.net)
+ - date published: 2023-12-20T20:34:36+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
 
 ## Sia
  - [https://www.siamusic.net](https://www.siamusic.net)
@@ -5331,673 +5997,6 @@
 ## Home - Tweede golf
  - [https://tweedegolf.nl](https://tweedegolf.nl)
  - date published: 2023-10-25T20:46:41.997807+00:00
- - user: None
- - tags: []
-
-## Research Support: Research Information System (RIS) Pure | research.utwente.nl | University of Twente | Service Portal | University of Twente
- - [https://ris.utwente.nl](https://ris.utwente.nl)
- - date published: 2023-10-25T20:46:45.735524+00:00
- - user: None
- - tags: []
-
-## Masters of Media
- - [https://mastersofmedia.hum.uva.nl](https://mastersofmedia.hum.uva.nl)
- - date published: 2023-11-22T16:18:32.753071+00:00
- - user: None
- - tags: []
-
-## Homepages of UvA/FNWI staff
- - [https://staff.science.uva.nl](https://staff.science.uva.nl)
- - date published: 2023-11-13T06:01:15.157464+00:00
- - user: None
- - tags: []
-
-## Universiteit van Amsterdam
- - [https://www.uva.nl](https://www.uva.nl)
- - date published: 2023-11-29T17:19:50.239712+00:00
- - user: None
- - tags: []
-
-## Hét museum over Vincent van Gogh in Amsterdam - Van Gogh Museum
- - [https://www.vangoghmuseum.nl](https://www.vangoghmuseum.nl)
- - date published: 2023-10-25T20:46:49.692909+00:00
- - user: None
- - tags: ['museum']
-
-## Hugo Barrera's site
- - [https://whynothugo.nl](https://whynothugo.nl)
- - date published: 2023-10-25T20:46:51.317382+00:00
- - user: None
- - tags: []
-
-## On Privacy, Security & …
- - [https://blog.xot.nl](https://blog.xot.nl)
- - date published: 2023-10-25T20:46:52.274583+00:00
- - user: None
- - tags: []
-
-## https://jmvdveer.home.xs4all.nl
- - [https://jmvdveer.home.xs4all.nl](https://jmvdveer.home.xs4all.nl)
- - date published: 2023-10-25T20:46:57.644321+00:00
- - user: None
- - tags: []
-
-## De website van Tim Krabbé
- - [https://timkr.home.xs4all.nl](https://timkr.home.xs4all.nl)
- - date published: 2023-10-25T20:46:58.156978+00:00
- - user: None
- - tags: []
-
-## Yorhel’s Projects
- - [https://dev.yorhel.nl](https://dev.yorhel.nl)
- - date published: 2023-10-25T20:46:59.716950+00:00
- - user: None
- - tags: []
-
-## INEVO: Eksperter på e-handel og digital markedsføring
- - [https://www.Inevo.no](https://www.Inevo.no)
- - date published: 2023-11-29T14:22:21.036592+00:00
- - user: None
- - tags: []
-
-## Home | The Abel Prize
- - [https://abelprize.no](https://abelprize.no)
- - date published: 2023-10-25T20:47:04.345152+00:00
- - user: None
- - tags: []
-
-## Epsilon's Amiga Blog
- - [https://amigax1000.blogspot.no](https://amigax1000.blogspot.no)
- - date published: 2023-10-27T14:40:11.976750+00:00
- - user: None
- - tags: ['amiga']
-
-## Citroën Norge | Nye biler, suv, elbiler
- - [https://www.citroen.no](https://www.citroen.no)
- - date published: 2023-12-11T16:03:37.113883+00:00
- - user: None
- - tags: []
-
-## Datatilsynet - personvern og informasjonssikkerhet | Datatilsynet
- - [https://www.datatilsynet.no](https://www.datatilsynet.no)
- - date published: 2023-10-25T20:47:08.963435+00:00
- - user: None
- - tags: []
-
-## Erik Johannes Husom
- - [https://erikjohannes.no](https://erikjohannes.no)
- - date published: 2023-10-25T20:47:15.302816+00:00
- - user: None
- - tags: []
-
-## Random Thoughts – The Sky Won't Fall?
- - [https://lars.ingebrigtsen.no](https://lars.ingebrigtsen.no)
- - date published: 2023-10-25T20:47:30.892486+00:00
- - user: None
- - tags: []
-
-## Erik I
- - [https://erik.itland.no](https://erik.itland.no)
- - date published: 2023-10-25T20:47:33.136459+00:00
- - user: None
- - tags: []
-
-## mifi.no | mifi.no
- - [https://mifi.no](https://mifi.no)
- - date published: 2023-10-25T20:47:35.059930+00:00
- - user: None
- - tags: []
-
-## myme.no - Home
- - [https://myme.no](https://myme.no)
- - date published: 2023-10-25T09:26:39.160690+00:00
- - user: None
- - tags: ['personal']
-
-## NRK.no – nyheter, tv og radio fra Norge og hele verden
- - [https://www.nrk.no](https://www.nrk.no)
- - date published: 2023-10-27T12:06:00.384332+00:00
- - user: None
- - tags: []
-
-## NRKbeta
- - [https://nrkbeta.no](https://nrkbeta.no)
- - date published: 2023-10-27T12:06:09.586789+00:00
- - user: None
- - tags: []
-
-## bsdly.net - Reliable Networking With Free Software
- - [https://nxdomain.no](https://nxdomain.no)
- - date published: 2023-10-27T12:06:10.297276+00:00
- - user: None
- - tags: []
-
-## Velkommen til O'Briens Retro & Vintage - O'Briens Retro & Vintage
- - [https://obriens.no](https://obriens.no)
- - date published: 2023-12-11T17:45:26.757944+00:00
- - user: None
- - tags: []
-
-## Home | Patricia Aas - Programmer
- - [https://patricia.no](https://patricia.no)
- - date published: 2023-10-27T12:06:11.527326+00:00
- - user: None
- - tags: []
-
-## Sciencenorway - Science News from Norway
- - [https://sciencenorway.no](https://sciencenorway.no)
- - date published: 2023-10-25T10:11:59.195592+00:00
- - user: None
- - tags: []
-
-## SECRET GARDEN
- - [https://www.secretgarden.no](https://www.secretgarden.no)
- - date published: 2023-11-13T11:05:43.854609+00:00
- - user: None
- - tags: ['music band']
-
-## Person - Skatteetaten
- - [https://www.skatteetaten.no](https://www.skatteetaten.no)
- - date published: 2023-10-27T12:06:13.607518+00:00
- - user: None
- - tags: []
-
-## Et ledende miljø i norsk romindustri | Space Norway
- - [https://spacenorway.no](https://spacenorway.no)
- - date published: 2023-11-10T16:04:50.344777+00:00
- - user: None
- - tags: []
-
-## Sysselmesteren på Svalbard
- - [https://www.sysselmesteren.no](https://www.sysselmesteren.no)
- - date published: 2023-10-27T12:06:14.747150+00:00
- - user: None
- - tags: []
-
-## Homepage | Telia Engineering
- - [https://engineering.telia.no](https://engineering.telia.no)
- - date published: 2023-10-27T12:06:15.995309+00:00
- - user: None
- - tags: []
-
-## Tim Hårek
- - [https://timharek.no](https://timharek.no)
- - date published: 2023-10-25T20:48:55.149316+00:00
- - user: None
- - tags: []
-
-## Universitetet i Bergen
- - [https://www.uib.no](https://www.uib.no)
- - date published: 2023-11-19T10:39:06.443673+00:00
- - user: None
- - tags: []
-
-## Manu Cornet's website
- - [https://ma.nu](https://ma.nu)
- - date published: 2023-10-25T20:48:57.839136+00:00
- - user: None
- - tags: []
-
-## Start
- - [https://www.malarna.nu](https://www.malarna.nu)
- - date published: 2023-11-10T14:03:58.337435+00:00
- - user: None
- - tags: []
-
-## Marginalia Downloads
- - [https://downloads.marginalia.nu](https://downloads.marginalia.nu)
- - date published: 2023-10-25T08:29:33.050968+00:00
- - user: None
- - tags: []
-
-## Marginalia Similar Website Finder
- - [https://explore2.marginalia.nu](https://explore2.marginalia.nu)
- - date published: 2023-12-03T08:39:07+00:00
- - user: rumpel
- - tags: ['algorithms', 'seo']
-
-## www.marginalia.nu @
-marginalia.nu
- - [https://memex.marginalia.nu](https://memex.marginalia.nu)
- - date published: 2023-10-25T20:48:59.430464+00:00
- - user: None
- - tags: []
-
-## Marginalia Search
- - [https://search.marginalia.nu](https://search.marginalia.nu)
- - date published: 2023-10-25T13:51:19.392203+00:00
- - user: None
- - tags: ['search engine']
-
-## www.marginalia.nu
- - [https://www.marginalia.nu](https://www.marginalia.nu)
- - date published: 2023-10-25T08:29:34.569325+00:00
- - user: None
- - tags: ['search engine']
-
-## QuakeWorld.nu
- - [https://www.quakeworld.nu](https://www.quakeworld.nu)
- - date published: 2023-10-28T20:28:45.927247+00:00
- - user: None
- - tags: []
-
-## Shantnu's Silent Site
- - [https://shant.nu](https://shant.nu)
- - date published: 2023-10-25T20:49:02.194922+00:00
- - user: None
- - tags: []
-
-## The Voynich Manuscript
- - [https://voynich.nu](https://voynich.nu)
- - date published: 2023-11-15T17:43:27.049719+00:00
- - user: None
- - tags: ['personal']
-
-## Kwon.nyc
- - [https://kwon.nyc](https://kwon.nyc)
- - date published: 2023-12-03T23:30:52.823072+00:00
- - user: None
- - tags: ['personal']
-
-## Lily Ray: NYC Based SEO Professional, DJ, & Drummer 😏
- - [https://lilyray.nyc](https://lilyray.nyc)
- - date published: 2023-11-02T09:00:26.721068+00:00
- - user: None
- - tags: ['seo']
-
-## THE CITY - NYC News
- - [https://www.thecity.nyc](https://www.thecity.nyc)
- - date published: 2023-10-25T20:49:08.995182+00:00
- - user: None
- - tags: []
-
-## Welcome - The University of Auckland
- - [https://www.auckland.ac.nz](https://www.auckland.ac.nz)
- - date published: 2023-10-30T07:13:26.243060+00:00
- - user: None
- - tags: []
-
-## University of Otago
- - [https://www.otago.ac.nz](https://www.otago.ac.nz)
- - date published: 2023-10-30T21:58:29.556224+00:00
- - user: None
- - tags: []
-
-## Alpha Rail - Rail Design, Consultancy, Construction and Plant
- - [https://www.alpharail.co.nz](https://www.alpharail.co.nz)
- - date published: 2023-10-25T20:49:14.642345+00:00
- - user: None
- - tags: []
-
-## Unofficial CD32 Ports
- - [https://unofficial-cd32-ports.blogspot.co.nz](https://unofficial-cd32-ports.blogspot.co.nz)
- - date published: 2023-11-02T09:51:01.000200+00:00
- - user: None
- - tags: ['amiga']
-
-## New Cars and SUVs and Servicing | Automotive |  Citroën NZ
- - [https://www.citroen.co.nz](https://www.citroen.co.nz)
- - date published: 2023-12-11T16:00:33.638425+00:00
- - user: None
- - tags: []
-
-## New Zealand Cyber Security Blog | CyberCX
- - [https://blog.cybercx.co.nz](https://blog.cybercx.co.nz)
- - date published: 2023-10-25T20:49:21.245581+00:00
- - user: None
- - tags: []
-
-## Google
- - [https://www.google.co.nz](https://www.google.co.nz)
- - date published: 2023-10-25T20:49:22.482071+00:00
- - user: None
- - tags: []
-
-## Niche Software - Niche Software
- - [https://www.nichesoftware.co.nz](https://www.nichesoftware.co.nz)
- - date published: 2023-10-25T20:49:26.344940+00:00
- - user: None
- - tags: []
-
-## NZ Herald: Latest NZ news, plus World, Sport, Business and more - NZ Herald
- - [https://www.nzherald.co.nz](https://www.nzherald.co.nz)
- - date published: 2023-10-25T20:50:14.328097+00:00
- - user: None
- - tags: []
-
-## Pulse Security
- - [https://pulsesecurity.co.nz](https://pulsesecurity.co.nz)
- - date published: 2023-10-25T20:50:15.343196+00:00
- - user: None
- - tags: []
-
-## Reseller News - The voice of the New Zealand IT channel
- - [https://www.reseller.co.nz](https://www.reseller.co.nz)
- - date published: 2023-10-25T20:50:24.511375+00:00
- - user: None
- - tags: []
-
-## RNZ - NZ News, Current Affairs, Audio On Demand
- - [https://www.rnz.co.nz](https://www.rnz.co.nz)
- - date published: 2023-10-25T20:50:30.480752+00:00
- - user: None
- - tags: []
-
-## Latest breaking news NZ | Stuff.co.nz | New Zealand
- - [https://www.stuff.co.nz](https://www.stuff.co.nz)
- - date published: 2023-10-25T20:50:45.473515+00:00
- - user: None
- - tags: []
-
-## The Post
- - [https://www.thepost.co.nz](https://www.thepost.co.nz)
- - date published: 2023-11-27T08:54:31.962811+00:00
- - user: None
- - tags: []
-
-## Maori Geek
- - [https://maori.geek.nz](https://maori.geek.nz)
- - date published: 2023-10-25T20:50:54.301684+00:00
- - user: None
- - tags: []
-
-## Arabesque | Systems, Tools, and Terminal Science
- - [https://blog.sanctum.geek.nz](https://blog.sanctum.geek.nz)
- - date published: 2023-10-25T20:51:00.552568+00:00
- - user: None
- - tags: []
-
-## SmartView Christchurch
- - [https://smartview.ccc.govt.nz](https://smartview.ccc.govt.nz)
- - date published: 2023-10-25T20:51:03.510470+00:00
- - user: None
- - tags: []
-
-## Te Ara Encyclopedia of New Zealand – Te Ara Encyclopedia of New Zealand
- - [https://teara.govt.nz](https://teara.govt.nz)
- - date published: 2023-10-25T20:51:07.098533+00:00
- - user: None
- - tags: []
-
-## home
- - [https://www.tepapa.govt.nz](https://www.tepapa.govt.nz)
- - date published: 2023-11-13T13:55:09.677844+00:00
- - user: None
- - tags: ['museum']
-
-## Cloud Island
- - [https://cloudisland.nz](https://cloudisland.nz)
- - date published: 2023-10-25T20:51:13.906554+00:00
- - user: None
- - tags: []
-
-## Home » InternetNZ
- - [https://internetnz.nz](https://internetnz.nz)
- - date published: 2023-10-25T20:51:16.741237+00:00
- - user: None
- - tags: []
-
-## InternetNZ Status
- - [https://status.internetnz.nz](https://status.internetnz.nz)
- - date published: 2023-10-25T20:51:22.956753+00:00
- - user: None
- - tags: []
-
-## is this it?
- - [https://isthisit.nz](https://isthisit.nz)
- - date published: 2023-10-25T20:51:24.181241+00:00
- - user: None
- - tags: []
-
-## Welcome! - Matt Brown
- - [https://www.mattb.nz](https://www.mattb.nz)
- - date published: 2023-10-25T20:51:25.148571+00:00
- - user: None
- - tags: []
-
-## Tim McNamara (@timClicks)
- - [https://tim.mcnamara.nz](https://tim.mcnamara.nz)
- - date published: 2023-10-25T20:51:26.754354+00:00
- - user: None
- - tags: []
-
-## Constant Meiring
- - [https://constant.meiring.nz](https://constant.meiring.nz)
- - date published: 2023-10-25T20:51:27.602839+00:00
- - user: None
- - tags: []
-
-## Mobile made for you. One NZ.
- - [https://one.nz](https://one.nz)
- - date published: 2023-10-27T12:06:21.792668+00:00
- - user: None
- - tags: []
-
-## Te Awamutu Space Centre
- - [https://www.spacecentre.nz](https://www.spacecentre.nz)
- - date published: 2023-10-25T20:51:43.027687+00:00
- - user: None
- - tags: []
-
-## Asia Media Centre | Helping New Zealand media cover Asia
- - [https://www.asiamediacentre.org.nz](https://www.asiamediacentre.org.nz)
- - date published: 2023-10-25T20:51:53.621097+00:00
- - user: None
- - tags: []
-
-## Ian's blog | entropy.observer
- - [https://blog.entropy.observer](https://blog.entropy.observer)
- - date published: 2023-10-25T20:51:56.441202+00:00
- - user: None
- - tags: []
-
-## Flipper Blog
- - [https://blog.flipperzero.one](https://blog.flipperzero.one)
- - date published: 2023-10-25T20:51:58.988894+00:00
- - user: None
- - tags: []
-
-## Flipper Zero — Portable Multi-tool Device for Geeks
- - [https://flipperzero.one](https://flipperzero.one)
- - date published: 2023-11-22T17:23:10+00:00
- - user: rumpel
- - tags: ['hardware', 'hacking']
-
-## Installati.one
- - [https://installati.one](https://installati.one)
- - date published: 2023-11-19T12:07:10+00:00
- - user: rumpel
- - tags: ['guide', 'tutorial']
-
-## Market Map
- - [https://marketmap.one](https://marketmap.one)
- - date published: 2023-10-25T20:52:00.513890+00:00
- - user: None
- - tags: []
-
-## Best websites design inspiration feed • MaxiBestOf
- - [https://maxibestof.one](https://maxibestof.one)
- - date published: 2023-10-25T20:52:03.198688+00:00
- - user: None
- - tags: []
-
-## plei.one - Blog
- - [https://plei.one](https://plei.one)
- - date published: 2023-10-25T20:52:06.193322+00:00
- - user: None
- - tags: []
-
-## Taylor Robinson
- - [https://robins.one](https://robins.one)
- - date published: 2023-10-25T08:54:27.100131+00:00
- - user: None
- - tags: ['personal']
-
-## South One News, News From South India, Analysis of South India
- - [https://south.one](https://south.one)
- - date published: 2023-12-06T16:23:04.756025+00:00
- - user: None
- - tags: []
-
-## The Pulse | Substack
- - [https://thepulse.one](https://thepulse.one)
- - date published: 2023-10-25T20:52:09.853895+00:00
- - user: None
- - tags: []
-
-## WordPress-Seite – Just another WordPress site
- - [http://proxy.vulpes.one](http://proxy.vulpes.one)
- - date published: 2023-10-25T20:52:12.936578+00:00
- - user: None
- - tags: []
-
-## Obl.ong
- - [https://obl.ong](https://obl.ong)
- - date published: 2023-10-25T20:52:14.964448+00:00
- - user: None
- - tags: []
-
-## Rik Lewis
- - [https://www.rik.onl](https://www.rik.onl)
- - date published: 2023-12-03T23:31:31.330248+00:00
- - user: None
- - tags: ['personal']
-
-## Commonplace
- - [https://commonplace.online](https://commonplace.online)
- - date published: 2023-10-28T19:11:46.865259+00:00
- - user: None
- - tags: []
-
-## In Solidarity with Library Genesis and Sci-hub
- - [https://custodians.online](https://custodians.online)
- - date published: 2023-10-25T20:52:16.578477+00:00
- - user: None
- - tags: []
-
-## Data Engineering Design Patterns (DEDP)
- - [https://www.dedp.online](https://www.dedp.online)
- - date published: 2023-12-07T15:51:49+00:00
- - user: None
- - tags: []
-
-## Easylang
- - [https://easylang.online](https://easylang.online)
- - date published: 2023-10-25T20:52:17.584984+00:00
- - user: None
- - tags: []
-
-## LOF home
- - [https://lof.flounder.online](https://lof.flounder.online)
- - date published: 2023-10-25T20:52:19.126166+00:00
- - user: None
- - tags: []
-
-## Fabian's public notepad
- - [https://holzer.online](https://holzer.online)
- - date published: 2023-12-16T07:29:03.990666+00:00
- - user: None
- - tags: ['personal']
-
-## Mastodon
- - [https://mastodon.online](https://mastodon.online)
- - date published: 2023-10-24T20:13:29.617793+00:00
- - user: None
- - tags: ['mastodon']
-
-## sunfishcode's blog · A blog by sunfishcode
- - [https://blog.sunfishcode.online](https://blog.sunfishcode.online)
- - date published: 2023-10-25T20:52:20.694186+00:00
- - user: None
- - tags: []
-
-## Welcome to Suricrasia Online!
- - [https://suricrasia.online](https://suricrasia.online)
- - date published: 2023-10-25T20:52:21.735662+00:00
- - user: None
- - tags: []
-
-## Words and buttons online
- - [https://wordsandbuttons.online](https://wordsandbuttons.online)
- - date published: 2023-10-25T09:27:52.515926+00:00
- - user: None
- - tags: []
-
-## Zachwyceni.online - Sklep Fundacji inCanto
- - [https://zachwyceni.online](https://zachwyceni.online)
- - date published: 2023-12-04T17:44:21+00:00
- - user: rumpel
- - tags: ['shop', 'catholic merch']
-
-## Memo Garcia
- - [https://memooo.ooo](https://memooo.ooo)
- - date published: 2023-10-25T20:52:23.026355+00:00
- - user: None
- - tags: []
-
-## soso
- - [https://soso.ooo](https://soso.ooo)
- - date published: 2023-10-25T20:52:25.205752+00:00
- - user: None
- - tags: []
-
-## ZeroVer: 0-based Versioning — zer0ver
- - [https://0ver.org](https://0ver.org)
- - date published: 2023-10-25T20:52:28.963764+00:00
- - user: None
- - tags: []
-
-## The 19th News | An independent, nonprofit newsroom.
- - [https://19thnews.org](https://19thnews.org)
- - date published: 2023-10-25T20:52:35.003868+00:00
- - user: None
- - tags: []
-
-## 2009Scape - A free & open-source remake of 2009 era RuneScape
- - [https://2009scape.org](https://2009scape.org)
- - date published: 2023-10-25T20:52:36.474767+00:00
- - user: None
- - tags: []
-
-## 38 North - Informed analysis of events in and around North Korea
- - [https://www.38north.org](https://www.38north.org)
- - date published: 2023-10-25T20:52:39.281469+00:00
- - user: None
- - tags: []
-
-## 3dbrew
- - [https://www.3dbrew.org](https://www.3dbrew.org)
- - date published: 2023-10-25T20:52:41.660191+00:00
- - user: None
- - tags: []
-
-## 3ders.org - 3D printer and 3D printing news
- - [https://www.3ders.org](https://www.3ders.org)
- - date published: 2023-10-27T10:33:25.336432+00:00
- - user: None
- - tags: ['3d printing', 'tech news']
-
-## https://4chan.org
- - [https://4chan.org](https://4chan.org)
- - date published: 2023-10-24T20:12:50.282981+00:00
- - user: None
- - tags: []
-
-## https://www.4chan.org
- - [https://www.4chan.org](https://www.4chan.org)
- - date published: 2023-10-24T20:12:50.536524+00:00
- - user: None
- - tags: []
-
-## 6502.org • Index page
- - [http://forum.6502.org](http://forum.6502.org)
- - date published: 2023-12-07T23:21:48.879898+00:00
- - user: None
- - tags: []
-
-## 7-Zip
- - [https://7-zip.org](https://7-zip.org)
- - date published: 2023-10-25T20:52:43.015422+00:00
  - user: None
  - tags: []
 

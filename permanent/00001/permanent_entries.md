@@ -1,3 +1,63 @@
+## Investors | The Metals Company
+ - [https://investors.metals.co](https://investors.metals.co)
+ - date published: 2023-10-25T12:19:35.204975+00:00
+ - user: None
+ - tags: []
+
+## Milestones Co. – Helping you launch and scale your business through conscious marketing / branding
+ - [https://milestones.co](https://milestones.co)
+ - date published: 2023-11-29T20:44:20.556521+00:00
+ - user: None
+ - tags: ['personal']
+
+## miniacal
+ - [https://miniac.co](https://miniac.co)
+ - date published: 2023-10-25T11:11:09.294633+00:00
+ - user: None
+ - tags: []
+
+## Modern Retail – Authority and honesty on the reinvention of retail
+ - [https://www.modernretail.co](https://www.modernretail.co)
+ - date published: 2023-10-25T12:19:38.921835+00:00
+ - user: None
+ - tags: []
+
+## Morning Tendies
+ - [https://www.morningtendies.co](https://www.morningtendies.co)
+ - date published: 2023-10-25T12:19:58.924609+00:00
+ - user: None
+ - tags: []
+
+## Show HN: An AI-Generated Encyclopedia
+ - [https://mycyclopedia.co](https://mycyclopedia.co)
+ - date published: 2023-11-23T13:53:10+00:00
+ - user: None
+ - tags: []
+
+## Net Interest | Marc Rubinstein | Substack
+ - [https://www.netinterest.co](https://www.netinterest.co)
+ - date published: 2023-10-25T09:39:48.627101+00:00
+ - user: None
+ - tags: ['substack']
+
+## Newcomer | Eric Newcomer | Substack
+ - [https://www.newcomer.co](https://www.newcomer.co)
+ - date published: 2023-10-25T09:39:52.534184+00:00
+ - user: None
+ - tags: ['substack']
+
+## nick ng – designer – chicago
+ - [https://nickng.co](https://nickng.co)
+ - date published: 2023-12-14T01:26:43.743281+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nick Allen - Marketing, Growth & Running
+ - [https://nickwallen.co](https://nickwallen.co)
+ - date published: 2023-12-13T06:03:37.050724+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Not Boring by Packy McCormick | Substack
  - [https://www.notboring.co](https://www.notboring.co)
  - date published: 2023-10-25T12:20:07.539847+00:00
@@ -100,6 +160,12 @@
  - user: None
  - tags: []
 
+## Show HN: A Website to Turn Your Apple Notes into Blogs
+ - [https://quotion.co](https://quotion.co)
+ - date published: 2023-12-20T07:11:49+00:00
+ - user: None
+ - tags: []
+
 ## RA · Discover Electronic Music and Events
  - [https://ra.co](https://ra.co)
  - date published: 2023-10-25T12:22:57.001214+00:00
@@ -189,6 +255,12 @@
  - date published: 2023-10-25T09:39:56.063632+00:00
  - user: None
  - tags: ['substack']
+
+## Sridhar Raj Sampath Kumar
+ - [https://sridhar.co](https://sridhar.co)
+ - date published: 2023-12-20T19:14:31.168810+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Empowering the world to develop technology through collective knowledge - Stack Overflow
  - [https://stackoverflow.co](https://stackoverflow.co)
@@ -331,6 +403,12 @@
 ## Wide Angle Analytics | Privacy-Friendly & GDPR Compliant Web Analytics
  - [https://wideangle.co](https://wideangle.co)
  - date published: 2023-10-25T12:25:02.771484+00:00
+ - user: None
+ - tags: []
+
+## Wireflow – free, online, open source tool for creating user-flow prototypes
+ - [https://wireflow.co](https://wireflow.co)
+ - date published: 2023-12-20T15:55:07+00:00
  - user: None
  - tags: []
 
@@ -556,6 +634,12 @@
  - user: None
  - tags: ['personal']
 
+## Access Denied
+ - [https://www.12news.com](https://www.12news.com)
+ - date published: 2023-12-20T15:20:01.368963+00:00
+ - user: None
+ - tags: []
+
 ## WTVG | 13Action News, Local News and Weather
  - [https://www.13abc.com](https://www.13abc.com)
  - date published: 2023-10-31T13:19:09.774057+00:00
@@ -613,6 +697,12 @@
 ## 2000 AD - the Galaxy's Greatest Comic!
  - [https://2000ad.com](https://2000ad.com)
  - date published: 2023-10-25T11:19:10.657192+00:00
+ - user: None
+ - tags: []
+
+## 20 Books To $50 K – A celebration of the 20 Books To $50,000 Journey
+ - [https://20booksto50.com](https://20booksto50.com)
+ - date published: 2023-12-20T22:49:14.861139+00:00
  - user: None
  - tags: []
 
@@ -859,6 +949,12 @@
 ## Aadil Ali
  - [https://blog.aadilali.com](https://blog.aadilali.com)
  - date published: 2023-10-25T08:44:04.159881+00:00
+ - user: None
+ - tags: ['personal']
+
+## Aamir Virani
+ - [https://aamirvirani.com](https://aamirvirani.com)
+ - date published: 2023-12-20T14:34:51.723902+00:00
  - user: None
  - tags: ['personal']
 
@@ -1144,6 +1240,12 @@
  - user: None
  - tags: []
 
+## Accidental Fire
+ - [https://accidentalfire.com](https://accidentalfire.com)
+ - date published: 2023-12-20T05:40:26.113068+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Local, National, & Global Daily Weather Forecast | AccuWeather
  - [https://www.accuweather.com](https://www.accuweather.com)
  - date published: 2023-10-24T20:19:12.824786+00:00
@@ -1426,6 +1528,12 @@
  - user: None
  - tags: []
 
+## Homepage
+ - [https://adrienjoly.com](https://adrienjoly.com)
+ - date published: 2023-12-20T05:39:48.509303+00:00
+ - user: None
+ - tags: ['personal']
+
 ## aduros.com
  - [https://aduros.com](https://aduros.com)
  - date published: 2023-10-25T12:33:57.524854+00:00
@@ -1684,6 +1792,12 @@
  - user: None
  - tags: []
 
+## Airbnb Newsroom
+ - [https://news.airbnb.com](https://news.airbnb.com)
+ - date published: 2023-12-20T11:43:50.685535+00:00
+ - user: None
+ - tags: []
+
 ## https://www.airbus.com
  - [https://www.airbus.com](https://www.airbus.com)
  - date published: 2023-11-25T23:10:55.063815+00:00
@@ -1935,6 +2049,12 @@
  - date published: 2023-11-02T09:02:34.151189+00:00
  - user: None
  - tags: []
+
+## Alefe Souza | Training and Consulting
+ - [https://alefesouza.com](https://alefesouza.com)
+ - date published: 2023-12-20T14:34:10.364675+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Aleksandr Hovhannisyan
  - [https://www.aleksandrhovhannisyan.com](https://www.aleksandrhovhannisyan.com)
@@ -2530,6 +2650,12 @@
  - user: None
  - tags: ['personal']
 
+## Excursions
+ - [https://amitgawande.com](https://amitgawande.com)
+ - date published: 2023-12-20T19:15:27.990550+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Amitopia - Amiga Magazine | MorphOS | AROS | Classic
  - [https://amitopia.com](https://amitopia.com)
  - date published: 2023-10-25T10:46:19.496715+00:00
@@ -2806,6 +2932,12 @@
  - user: None
  - tags: []
 
+## Kind of a pain in the ass
+ - [https://andyfossett.com](https://andyfossett.com)
+ - date published: 2023-12-20T14:33:51.442934+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Milwaukee Maven
  - [https://blog.andyglassman.com](https://blog.andyglassman.com)
  - date published: 2023-10-25T12:41:18.870944+00:00
@@ -2907,6 +3039,12 @@
  - date published: 2023-10-25T12:41:45.217052+00:00
  - user: None
  - tags: []
+
+## About
+ - [https://ankeshbharti.com](https://ankeshbharti.com)
+ - date published: 2023-12-20T14:34:47.609313+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Anna Filou | Designer & illustrator
  - [https://annafilou.com](https://annafilou.com)
@@ -3580,6 +3718,12 @@
  - user: None
  - tags: []
 
+## Aditya Arora
+ - [https://arora-aditya.com](https://arora-aditya.com)
+ - date published: 2023-12-20T11:46:23.327903+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Home - Meet John Rampton - Entrepreneur, Investor and Connector
  - [http://www.arrastheme.com](http://www.arrastheme.com)
  - date published: 2023-12-11T19:08:52.118971+00:00
@@ -3685,6 +3829,12 @@
 ## asdf | asdf
  - [https://asdf-vm.com](https://asdf-vm.com)
  - date published: 2023-10-25T12:46:15.470211+00:00
+ - user: None
+ - tags: []
+
+## Jobs
+ - [https://jobs.ashbyhq.com](https://jobs.ashbyhq.com)
+ - date published: 2023-12-20T21:10:04.471042+00:00
  - user: None
  - tags: []
 
@@ -5392,6 +5542,12 @@
  - user: None
  - tags: []
 
+## BMC Ecology and Evolution
+ - [https://bmcecolevol.biomedcentral.com](https://bmcecolevol.biomedcentral.com)
+ - date published: 2023-12-20T15:15:25.966896+00:00
+ - user: None
+ - tags: []
+
 ## BMC Medicine | Home page
  - [https://bmcmedicine.biomedcentral.com](https://bmcmedicine.biomedcentral.com)
  - date published: 2023-10-25T13:00:29.613132+00:00
@@ -5841,160 +5997,4 @@
  - date published: 2023-11-02T14:14:36.913015+00:00
  - user: None
  - tags: []
-
-## BlizzCon
- - [https://blizzcon.com](https://blizzcon.com)
- - date published: 2023-11-02T19:01:40.399355+00:00
- - user: None
- - tags: ['event']
-
-## Blockade Labs Skybox - AI-Generated 3D Worlds
- - [https://skybox.blockadelabs.com](https://skybox.blockadelabs.com)
- - date published: 2023-10-25T13:04:48.005443+00:00
- - user: None
- - tags: []
-
-## BlockFi – BlockFi
- - [https://blockfi.com](https://blockfi.com)
- - date published: 2023-10-25T13:04:57.374846+00:00
- - user: None
- - tags: []
-
-## Home – Blocks and Files
- - [https://blocksandfiles.com](https://blocksandfiles.com)
- - date published: 2023-10-25T13:05:01.717678+00:00
- - user: None
- - tags: []
-
-## Crypto Market News and Insights for Investors - BlocksByte
- - [https://blocksbyte.com](https://blocksbyte.com)
- - date published: 2023-11-24T14:24:09.974254+00:00
- - user: None
- - tags: []
-
-## Error 404 (Not Found)!!1
- - [https://resources.blogblog.com](https://resources.blogblog.com)
- - date published: 2023-12-11T17:25:58.608261+00:00
- - user: None
- - tags: []
-
-## Blogger.com - Create a unique and beautiful blog easily.
- - [https://www.blogger.com](https://www.blogger.com)
- - date published: 2023-12-11T16:52:16.537428+00:00
- - user: None
- - tags: []
-
-## Blog of Drew
- - [https://blogofdrew.com](https://blogofdrew.com)
- - date published: 2023-12-17T05:08:07.684561+00:00
- - user: None
- - tags: ['personal']
-
-## https://nwn.blogs.com
- - [https://nwn.blogs.com](https://nwn.blogs.com)
- - date published: 2023-10-25T13:05:03.461241+00:00
- - user: None
- - tags: []
-
-## BlogScroll - Personal Blog & Site Directory
- - [https://blogscroll.com](https://blogscroll.com)
- - date published: 2023-10-25T09:25:19.865484+00:00
- - user: None
- - tags: ['personal']
-
-## busypoll
- - [https://1f604.blogspot.com](https://1f604.blogspot.com)
- - date published: 2023-10-25T09:05:27.653037+00:00
- - user: None
- - tags: ['personal']
-
-## Error 400 (Bad Request)!!1
- - [https://4.bp.blogspot.com](https://4.bp.blogspot.com)
- - date published: 2023-12-11T16:52:45.902558+00:00
- - user: None
- - tags: []
-
-## Agile Otter Blog
- - [https://agileotter.blogspot.com](https://agileotter.blogspot.com)
- - date published: 2023-10-25T09:05:30.845699+00:00
- - user: None
- - tags: ['personal']
-
-## Dave Airlie Linux Graphics blog
- - [https://airlied.blogspot.com](https://airlied.blogspot.com)
- - date published: 2023-10-25T09:05:33.830706+00:00
- - user: None
- - tags: ['personal']
-
-## I hate software
- - [https://allsoftwaresucks.blogspot.com](https://allsoftwaresucks.blogspot.com)
- - date published: 2023-10-25T09:05:39.838601+00:00
- - user: None
- - tags: ['personal']
-
-## Amiga Gamer
- - [https://amigagamer.blogspot.com](https://amigagamer.blogspot.com)
- - date published: 2023-11-02T09:55:15.962797+00:00
- - user: None
- - tags: []
-
-## Epsilon's Amiga Blog
- - [https://amigax1000.blogspot.com](https://amigax1000.blogspot.com)
- - date published: 2023-12-11T17:54:11.446091+00:00
- - user: None
- - tags: []
-
-## Amit's Thoughts
- - [https://amitp.blogspot.com](https://amitp.blogspot.com)
- - date published: 2023-10-25T09:05:44.139609+00:00
- - user: None
- - tags: ['personal']
-
-## blog
- - [https://avodonosov.blogspot.com](https://avodonosov.blogspot.com)
- - date published: 2023-10-25T09:05:48.878271+00:00
- - user: None
- - tags: ['personal']
-
-## Sabine Hossenfelder: Backreaction
- - [https://backreaction.blogspot.com](https://backreaction.blogspot.com)
- - date published: 2023-10-25T09:05:55.426378+00:00
- - user: None
- - tags: ['personal']
-
-## The art of simplicity
- - [https://bartwullems.blogspot.com](https://bartwullems.blogspot.com)
- - date published: 2023-10-25T09:06:01.627020+00:00
- - user: None
- - tags: ['personal']
-
-## BeeLine
- - [https://beelineblogger.blogspot.com](https://beelineblogger.blogspot.com)
- - date published: 2023-10-25T09:06:07.861952+00:00
- - user: None
- - tags: ['personal']
-
-## Follow me down the optimization rabbit hole
- - [https://bitbanksoftware.blogspot.com](https://bitbanksoftware.blogspot.com)
- - date published: 2023-10-25T09:06:09.966506+00:00
- - user: None
- - tags: ['personal']
-
-## Bits, Math and Performance(?)
- - [https://bitmath.blogspot.com](https://bitmath.blogspot.com)
- - date published: 2023-10-25T09:06:12.474139+00:00
- - user: None
- - tags: ['personal']
-
-## The Brassic Gamer
- - [https://brassicgamer.blogspot.com](https://brassicgamer.blogspot.com)
- - date published: 2023-10-25T09:06:15.283500+00:00
- - user: None
- - tags: ['personal']
-
-## PowerOfBabel
- - [https://brer-powerofbabel.blogspot.com](https://brer-powerofbabel.blogspot.com)
- - date published: 2023-11-28T07:48:07+00:00
- - user: rumpel
- - tags: ['blog', 'personal']
 
