@@ -1,3 +1,130 @@
+## Total Commander - home
+ - [https://www.ghisler.com](https://www.ghisler.com)
+ - date published: 2023-10-25T08:37:41.191669+00:00
+ - user: None
+ - tags: ['program', 'total commander']
+
+## Three Sigma
+ - [http://www.ghostextension.com](http://www.ghostextension.com)
+ - date published: 2023-10-25T14:43:48.430661+00:00
+ - user: None
+ - tags: []
+
+## Home - Ghost Influence
+ - [https://ghostinfluence.com](https://ghostinfluence.com)
+ - date published: 2023-10-25T14:43:51.757960+00:00
+ - user: None
+ - tags: []
+
+## Ghost in the Stacks
+ - [https://www.ghostinthestacks.com](https://www.ghostinthestacks.com)
+ - date published: 2023-11-27T00:26:52.080058+00:00
+ - user: None
+ - tags: []
+
+## GhostlyStock
+ - [https://www.ghostlystock.com](https://www.ghostlystock.com)
+ - date published: 2023-10-25T14:43:54.624952+00:00
+ - user: None
+ - tags: []
+
+## Real-Time Operating Systems (RTOS), Embedded Development Tools, Optimizing
+Compilers, IDE tools, Debuggers - Green Hills Software
+ - [https://www.ghs.com](https://www.ghs.com)
+ - date published: 2023-12-02T19:50:50.848107+00:00
+ - user: None
+ - tags: []
+
+## Geoffrey Huntley
+ - [https://ghuntley.com](https://ghuntley.com)
+ - date published: 2023-10-25T14:43:56.065616+00:00
+ - user: None
+ - tags: []
+
+## Gianni's Site
+ - [https://giannirosato.com](https://giannirosato.com)
+ - date published: 2023-10-25T08:45:52.574430+00:00
+ - user: None
+ - tags: ['personal']
+
+## @giansegato
+ - [https://giansegato.com](https://giansegato.com)
+ - date published: 2023-10-25T14:43:58.840095+00:00
+ - user: None
+ - tags: []
+
+## Giant Bomb - Video game reviews, videos, forums and wiki.
+ - [https://www.giantbomb.com](https://www.giantbomb.com)
+ - date published: 2023-10-27T08:01:35.696808+00:00
+ - user: None
+ - tags: ['game news']
+
+## gigamonkeys
+ - [https://gigamonkeys.com](https://gigamonkeys.com)
+ - date published: 2023-10-25T14:43:59.564221+00:00
+ - user: None
+ - tags: []
+
+## Gilad Naor
+ - [https://blog.giladnaor.com](https://blog.giladnaor.com)
+ - date published: 2023-11-29T17:11:14.863947+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Gila Herald - Your trusted source for news of the Gila Valley and more.
+ - [https://gilaherald.com](https://gilaherald.com)
+ - date published: 2023-10-25T14:44:03.509703+00:00
+ - user: None
+ - tags: []
+
+## Gil Gildner
+ - [https://www.gilgildner.com](https://www.gilgildner.com)
+ - date published: 2023-11-29T15:43:54.277512+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | Gil's LotD
+ - [https://gilslotd.com](https://gilslotd.com)
+ - date published: 2023-10-25T14:44:09.338560+00:00
+ - user: None
+ - tags: []
+
+## ⌘I  Get Info
+ - [https://blog.gingerbeardman.com](https://blog.gingerbeardman.com)
+ - date published: 2023-10-25T14:44:12.754868+00:00
+ - user: None
+ - tags: []
+
+## GioCities
+ - [https://blog.giovanh.com](https://blog.giovanh.com)
+ - date published: 2023-10-25T14:44:19.226981+00:00
+ - user: None
+ - tags: []
+
+## GIPHY - Be Animated
+ - [https://giphy.com](https://giphy.com)
+ - date published: 2023-10-25T11:35:31.306073+00:00
+ - user: None
+ - tags: ['images', 'memes']
+
+## GirlieMac! Blog
+ - [https://girliemac.com](https://girliemac.com)
+ - date published: 2023-10-25T09:20:33.038990+00:00
+ - user: None
+ - tags: ['personal']
+
+## The first Developer-Friendly Analytics tool - GitClear
+ - [https://www.gitclear.com](https://www.gitclear.com)
+ - date published: 2023-10-25T14:44:24.167415+00:00
+ - user: None
+ - tags: []
+
+## Level Up Coding
+ - [https://levelup.gitconnected.com](https://levelup.gitconnected.com)
+ - date published: 2023-10-25T14:44:29.186805+00:00
+ - user: None
+ - tags: []
+
 ## Blog | Gitea Blog
  - [https://blog.gitea.com](https://blog.gitea.com)
  - date published: 2023-10-25T14:44:31.437032+00:00
@@ -2911,6 +3038,12 @@
  - user: None
  - tags: []
 
+## New UK record for wind power set today – 21.81 GW between 0900-0930 GMT
+ - [https://grid.iamkate.com](https://grid.iamkate.com)
+ - date published: 2023-12-21T09:58:37+00:00
+ - user: None
+ - tags: []
+
 ## I am Kate Morley
  - [https://iamkate.com](https://iamkate.com)
  - date published: 2023-10-25T15:16:23.695196+00:00
@@ -2934,6 +3067,12 @@
  - date published: 2023-10-25T15:16:33.217224+00:00
  - user: None
  - tags: []
+
+## Ian Bryan  |  Not A Noun – Social Change Agent
+ - [https://ianbryan.com](https://ianbryan.com)
+ - date published: 2023-12-21T18:50:22.928993+00:00
+ - user: None
+ - tags: ['personal']
 
 ## The Alice Knight Series – Books by Ian G McDowell
  - [https://iangmcdowell.com](https://iangmcdowell.com)
@@ -4639,6 +4778,12 @@
  - user: None
  - tags: ['personal']
 
+## - - JC de Merez
+ - [https://jcdemerez.com](https://jcdemerez.com)
+ - date published: 2023-12-21T08:24:43.653625+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Hack The World · Juan Carlos Jimenez
  - [https://jcjc-dev.com](https://jcjc-dev.com)
  - date published: 2023-10-25T15:27:34.864299+00:00
@@ -5854,150 +5999,6 @@
 ## Patrick McKenzie (patio11) Teaches You To Sell More Software | Kalzumeus Training
  - [https://training.kalzumeus.com](https://training.kalzumeus.com)
  - date published: 2023-10-25T15:34:15.693875+00:00
- - user: None
- - tags: []
-
-## Kalzumeus Software
- - [https://www.kalzumeus.com](https://www.kalzumeus.com)
- - date published: 2023-10-25T15:34:16.823180+00:00
- - user: None
- - tags: []
-
-## Kansas City Breaking News & Sports | The Kansas City Star
- - [https://www.kansascity.com](https://www.kansascity.com)
- - date published: 2023-10-25T15:34:26.194328+00:00
- - user: None
- - tags: []
-
-## Home - Kansas Reflector
- - [https://kansasreflector.com](https://kansasreflector.com)
- - date published: 2023-10-25T15:34:35.984897+00:00
- - user: None
- - tags: []
-
-## Kantar. Shape your brand future
- - [https://www.kantar.com](https://www.kantar.com)
- - date published: 2023-10-25T15:34:39.939920+00:00
- - user: None
- - tags: []
-
-## Kapwing — Create more content in less time
- - [https://www.kapwing.com](https://www.kapwing.com)
- - date published: 2023-10-25T15:34:42.922569+00:00
- - user: None
- - tags: []
-
-## Home | Karat
- - [https://karat.com](https://karat.com)
- - date published: 2023-10-25T15:34:45.025329+00:00
- - user: None
- - tags: []
-
-## Access Denied
- - [https://www.kare11.com](https://www.kare11.com)
- - date published: 2023-10-25T15:34:46.333884+00:00
- - user: None
- - tags: []
-
-## Turn Growing Pains into Growth Plans — Karen Sergeant
- - [https://karensergeant.com](https://karensergeant.com)
- - date published: 2023-11-29T14:22:47.196746+00:00
- - user: None
- - tags: ['personal']
-
-## Karim Jedda - Personal blog
- - [https://karimjedda.com](https://karimjedda.com)
- - date published: 2023-10-25T15:34:47.196110+00:00
- - user: None
- - tags: []
-
-## Karl's Notes
- - [https://www.karlsnotes.com](https://www.karlsnotes.com)
- - date published: 2023-10-25T15:34:48.823772+00:00
- - user: None
- - tags: []
-
-## Karlstack | Christopher Brunet | Substack
- - [https://www.karlstack.com](https://www.karlstack.com)
- - date published: 2023-12-10T16:12:53.069326+00:00
- - user: None
- - tags: []
-
-## Karl Sutt · Programing, business, self-development
- - [https://www.karlsutt.com](https://www.karlsutt.com)
- - date published: 2023-10-25T15:34:49.967790+00:00
- - user: None
- - tags: []
-
-## Kasm Workspaces | The Container Streaming Platform
- - [https://kasmweb.com](https://kasmweb.com)
- - date published: 2023-10-25T15:34:57.953403+00:00
- - user: None
- - tags: []
-
-## Kasper Junge
- - [https://blog.kasperjunge.com](https://blog.kasperjunge.com)
- - date published: 2023-10-25T08:58:10.514076+00:00
- - user: None
- - tags: ['personal']
-
-## Kaspersky Cyber Security Solutions for Home and Business | Kaspersky
- - [https://usa.kaspersky.com](https://usa.kaspersky.com)
- - date published: 2023-10-25T15:35:03.111028+00:00
- - user: None
- - tags: []
-
-## Kaspersky Cyber Security Solutions for Home and Business | Kaspersky
- - [https://www.kaspersky.com](https://www.kaspersky.com)
- - date published: 2023-10-25T15:35:07.289449+00:00
- - user: None
- - tags: ['antivirus', 'kaspersky']
-
-## Law Offices of Kate Downing
- - [https://katedowninglaw.com](https://katedowninglaw.com)
- - date published: 2023-10-25T15:35:09.252104+00:00
- - user: None
- - tags: []
-
-## Kate Matsudaira
- - [https://katemats.com](https://katemats.com)
- - date published: 2023-12-03T15:55:44.164945+00:00
- - user: None
- - tags: ['personal']
-
-## Kate Smalley - Small Business Advisor & Educator
- - [https://katesmalley.com](https://katesmalley.com)
- - date published: 2023-11-29T15:51:45.373718+00:00
- - user: None
- - tags: ['personal']
-
-## Kate Vass Galerie | Contemporary Art Gallery | Zurich, Switzerland
- - [https://www.katevassgalerie.com](https://www.katevassgalerie.com)
- - date published: 2023-10-25T15:35:13.511037+00:00
- - user: None
- - tags: []
-
-## Kat Fukui — Independent Designer
- - [https://www.katfukui.com](https://www.katfukui.com)
- - date published: 2023-10-25T09:21:01.628171+00:00
- - user: None
- - tags: ['personal']
-
-## Katamari Hack
- - [http://kathack.com](http://kathack.com)
- - date published: 2023-10-25T15:35:19.257455+00:00
- - user: None
- - tags: []
-
-## The Kathmandu Post | Read online latest news and articles from Nepal
- - [https://kathmandupost.com](https://kathmandupost.com)
- - date published: 2023-11-13T13:20:19.326564+00:00
- - user: None
- - tags: []
-
-## katiecouric.com
- - [https://katiecouric.com](https://katiecouric.com)
- - date published: 2023-12-02T18:30:53.045338+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,33 @@
+## Logic Sheet | Best Google Sheets automation tool | Automate your spreadsheets
+ - [https://logicsheet.co](https://logicsheet.co)
+ - date published: 2023-10-25T12:19:22.464687+00:00
+ - user: None
+ - tags: []
+
+## Your dreams are loading!
+ - [https://lxe.co](https://lxe.co)
+ - date published: 2023-10-25T12:19:23.534202+00:00
+ - user: None
+ - tags: []
+
+## Fast ad block for iPhone, iPad and Mac – Magic Lasso Adblock
+ - [https://www.magiclasso.co](https://www.magiclasso.co)
+ - date published: 2023-10-25T12:19:24.874504+00:00
+ - user: None
+ - tags: []
+
+## Memo | A data platform for the new era of PR measurement
+ - [https://memo.co](https://memo.co)
+ - date published: 2023-10-25T12:19:29.350477+00:00
+ - user: None
+ - tags: []
+
+## MetalBear 🐻 - Tools for Backend Engineers
+ - [https://metalbear.co](https://metalbear.co)
+ - date published: 2023-10-25T12:19:31.866187+00:00
+ - user: None
+ - tags: []
+
 ## Investors | The Metals Company
  - [https://investors.metals.co](https://investors.metals.co)
  - date published: 2023-10-25T12:19:35.204975+00:00
@@ -1930,6 +1960,12 @@
  - user: None
  - tags: []
 
+## ajfriesen
+ - [https://www.ajfriesen.com](https://www.ajfriesen.com)
+ - date published: 2023-12-21T08:25:05.738724+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Aaron Graves | Leader, Entrepreneur and PhDude
  - [https://ajgraves.com](https://ajgraves.com)
  - date published: 2023-11-29T17:12:45.622404+00:00
@@ -1971,6 +2007,12 @@
  - date published: 2023-10-25T12:36:59.463235+00:00
  - user: None
  - tags: []
+
+## Nothing to see here
+ - [https://akercode.com](https://akercode.com)
+ - date published: 2023-12-21T18:50:50.677733+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Akiflow - Centralize your schedule
  - [https://akiflow.com](https://akiflow.com)
@@ -2163,6 +2205,12 @@
  - date published: 2023-10-25T12:38:13.172045+00:00
  - user: None
  - tags: []
+
+## Alex Strick van Linschoten
+ - [https://www.alexstrick.com](https://www.alexstrick.com)
+ - date published: 2023-12-21T18:50:00.122995+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Alex Vermeer — Life-Hacking. Climbing. Striving for awesome. Coffee.
  - [https://alexvermeer.com](https://alexvermeer.com)
@@ -2644,6 +2692,12 @@
  - user: None
  - tags: []
 
+## Amir Ghaffari's website
+ - [https://amirghaffari.com](https://amirghaffari.com)
+ - date published: 2023-12-21T03:31:24.500238+00:00
+ - user: None
+ - tags: ['personal']
+
 ## AMIR MOTLAGH /  MIRS / ANIMALS
  - [https://www.amirmotlagh.com](https://www.amirmotlagh.com)
  - date published: 2023-11-29T15:48:22.992098+00:00
@@ -3081,6 +3135,12 @@
  - date published: 2023-10-25T12:41:51.907514+00:00
  - user: None
  - tags: []
+
+## Ant Hodges → Total Geek and Knowledgepreneur®
+ - [https://www.anthodges.com](https://www.anthodges.com)
+ - date published: 2023-12-21T18:50:16.379295+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Anthony Hobday—Product designer
  - [https://anthonyhobday.com](https://anthonyhobday.com)
@@ -4323,6 +4383,12 @@
  - date published: 2023-10-25T12:49:53.248920+00:00
  - user: None
  - tags: []
+
+## Mixed Media Collage | Ava Carmel
+ - [https://www.avacarmel.com](https://www.avacarmel.com)
+ - date published: 2023-12-21T03:32:02.568187+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Ava PLS: open-source application for running language models locally
  - [https://avapls.com](https://avapls.com)
@@ -5746,6 +5812,12 @@
  - user: None
  - tags: []
 
+## Bits in Flight
+ - [https://bitsinflight.com](https://bitsinflight.com)
+ - date published: 2023-12-21T03:31:11.484659+00:00
+ - user: None
+ - tags: ['personal']
+
 ## THE BITTER SOUTHERNER - Great Stories from the South
  - [https://bittersoutherner.com](https://bittersoutherner.com)
  - date published: 2023-12-06T23:57:44.319992+00:00
@@ -5923,78 +5995,6 @@
 ## Blend Engineering: Full Stack Finance
  - [https://full-stack.blend.com](https://full-stack.blend.com)
  - date published: 2023-10-25T13:04:29.965239+00:00
- - user: None
- - tags: []
-
-## Remove bg from Images | Online Image Background Removal | Blend Now
- - [https://www.blendnow.com](https://www.blendnow.com)
- - date published: 2023-10-25T13:04:33.890559+00:00
- - user: None
- - tags: []
-
-## bleuje
- - [https://bleuje.com](https://bleuje.com)
- - date published: 2023-10-25T13:04:35.313268+00:00
- - user: None
- - tags: []
-
-## Naomi Blindeman Website Design | Naomi ♥ www
- - [https://blindemanwebsites.com](https://blindemanwebsites.com)
- - date published: 2023-11-29T15:15:35.948187+00:00
- - user: None
- - tags: ['personal']
-
-## blintz base
- - [https://blintzbase.com](https://blintzbase.com)
- - date published: 2023-10-25T13:04:37.515533+00:00
- - user: None
- - tags: []
-
-## Blitter Studio
- - [https://blitterstudio.com](https://blitterstudio.com)
- - date published: 2023-12-11T16:57:29.569483+00:00
- - user: None
- - tags: []
-
-## Blizzard Entertainment
- - [https://blizzard.com](https://blizzard.com)
- - date published: 2023-12-13T15:52:43.797885+00:00
- - user: None
- - tags: ['game studio']
-
-## Diablo® II: Resurrected
- - [https://diablo2.blizzard.com](https://diablo2.blizzard.com)
- - date published: 2023-12-13T16:18:22.660901+00:00
- - user: None
- - tags: []
-
-## https://eu.forums.blizzard.com
- - [https://eu.forums.blizzard.com](https://eu.forums.blizzard.com)
- - date published: 2023-12-13T16:21:51.175621+00:00
- - user: None
- - tags: []
-
-## Blizzard News
- - [https://news.blizzard.com](https://news.blizzard.com)
- - date published: 2023-10-29T10:40:53.223640+00:00
- - user: None
- - tags: ['game news']
-
-## https://us.forums.blizzard.com
- - [https://us.forums.blizzard.com](https://us.forums.blizzard.com)
- - date published: 2023-12-13T16:19:25.421458+00:00
- - user: None
- - tags: []
-
-## Blizzard Entertainment
- - [https://www.blizzard.com](https://www.blizzard.com)
- - date published: 2023-10-25T11:26:31.588113+00:00
- - user: None
- - tags: ['starcraft', 'diablo', 'overwatch', 'warcraft', 'company']
-
-## Blizzbrush - the best toothbrush in the world.
- - [https://blizzbrush.com](https://blizzbrush.com)
- - date published: 2023-11-02T14:14:36.913015+00:00
  - user: None
  - tags: []
 

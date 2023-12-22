@@ -1,3 +1,225 @@
+## ATMA - PureDiablo
+ - [https://atma.purediablo.com](https://atma.purediablo.com)
+ - date published: 2023-12-13T16:11:18.939840+00:00
+ - user: None
+ - tags: []
+
+## Diablo 4 Wiki
+ - [https://diablo4.purediablo.com](https://diablo4.purediablo.com)
+ - date published: 2023-12-13T16:11:09.689395+00:00
+ - user: None
+ - tags: []
+
+## Diablo 4, Diablo 2, Wiki, Forums, News, Guides and more.
+ - [https://purediablo.com](https://purediablo.com)
+ - date published: 2023-12-13T16:10:55.678273+00:00
+ - user: None
+ - tags: []
+
+## Diablo 4, Diablo 2, Wiki, Forums, News, Guides and more.
+ - [https://www.purediablo.com](https://www.purediablo.com)
+ - date published: 2023-10-25T11:09:49.721507+00:00
+ - user: None
+ - tags: []
+
+## Pure Xbox
+ - [https://www.purexbox.com](https://www.purexbox.com)
+ - date published: 2023-12-13T15:42:10.158947+00:00
+ - user: None
+ - tags: ['game news', 'xbox']
+
+## Purple Hoisin - Exploring the Techy Arts
+ - [https://purplehoisin.com](https://purplehoisin.com)
+ - date published: 2023-10-25T16:42:23.995556+00:00
+ - user: None
+ - tags: []
+
+## Freefall 3970 October 13, 2023
+ - [http://freefall.purrsia.com](http://freefall.purrsia.com)
+ - date published: 2023-11-03T00:47:50+00:00
+ - user: rumpel
+ - tags: []
+
+## Pursuing Reality | Adam Elwood | Substack
+ - [https://pursuingreality.com](https://pursuingreality.com)
+ - date published: 2023-10-25T16:42:28.415516+00:00
+ - user: None
+ - tags: []
+
+## Pushbullet Blog
+ - [https://blog.pushbullet.com](https://blog.pushbullet.com)
+ - date published: 2023-10-25T16:42:28.991402+00:00
+ - user: None
+ - tags: []
+
+## Push Square
+ - [https://www.pushsquare.com](https://www.pushsquare.com)
+ - date published: 2023-12-13T15:41:43.120881+00:00
+ - user: None
+ - tags: []
+
+## Puter
+ - [https://puter.com](https://puter.com)
+ - date published: 2023-10-25T16:42:29.575309+00:00
+ - user: None
+ - tags: []
+
+## Home – Put This On
+ - [https://putthison.com](https://putthison.com)
+ - date published: 2023-10-25T16:42:35.463042+00:00
+ - user: None
+ - tags: []
+
+## pv magazine International – Photovoltaic Markets and Technology
+ - [https://www.pv-magazine.com](https://www.pv-magazine.com)
+ - date published: 2023-10-25T10:14:46.327383+00:00
+ - user: None
+ - tags: []
+
+## pv magazine USA – Solar Energy Markets and Technology
+ - [https://pv-magazine-usa.com](https://pv-magazine-usa.com)
+ - date published: 2023-10-25T16:42:40.482465+00:00
+ - user: None
+ - tags: []
+
+## PVS‑Studio is a solution to enhance code quality, security (SAST), and safety
+ - [https://pvs-studio.com](https://pvs-studio.com)
+ - date published: 2023-10-25T16:42:44.021841+00:00
+ - user: None
+ - tags: []
+
+## PwnAllTheThings | Matt Tait | Substack
+ - [https://www.pwnallthethings.com](https://www.pwnallthethings.com)
+ - date published: 2023-10-25T16:42:46.833086+00:00
+ - user: None
+ - tags: []
+
+## Free Images & Free stock photos - PxHere
+ - [https://pxhere.com](https://pxhere.com)
+ - date published: 2023-12-11T19:04:17.193073+00:00
+ - user: None
+ - tags: []
+
+## Pixel Envy
+ - [https://pxlnv.com](https://pxlnv.com)
+ - date published: 2023-10-25T08:58:19.153772+00:00
+ - user: None
+ - tags: ['personal']
+
+## pyinfra automates infrastructure super fast at massive scale
+ - [https://pyinfra.com](https://pyinfra.com)
+ - date published: 2023-10-25T16:42:47.538903+00:00
+ - user: None
+ - tags: []
+
+## Pymnts.com
+ - [https://www.pymnts.com](https://www.pymnts.com)
+ - date published: 2023-10-25T16:42:52.300386+00:00
+ - user: None
+ - tags: []
+
+## Python for Engineers
+ - [https://new.pythonforengineers.com](https://new.pythonforengineers.com)
+ - date published: 2023-10-25T16:42:53.338256+00:00
+ - user: None
+ - tags: []
+
+## Python GUIs – Create GUI applications with Python and Qt
+ - [https://www.pythonguis.com](https://www.pythonguis.com)
+ - date published: 2023-10-25T16:42:55.356281+00:00
+ - user: None
+ - tags: []
+
+## Python is Love
+ - [https://pythonislove.com](https://pythonislove.com)
+ - date published: 2023-10-25T16:42:58.111053+00:00
+ - user: None
+ - tags: []
+
+## Write faster Python code, and ship your code faster
+ - [https://pythonspeed.com](https://pythonspeed.com)
+ - date published: 2023-10-25T16:42:59.186784+00:00
+ - user: None
+ - tags: []
+
+## pythontest.com
+ - [https://pythontest.com](https://pythontest.com)
+ - date published: 2023-10-25T16:43:00.662988+00:00
+ - user: None
+ - tags: []
+
+## Python Web Conference 2023
+ - [https://2023.pythonwebconf.com](https://2023.pythonwebconf.com)
+ - date published: 2023-10-25T16:43:04.177641+00:00
+ - user: None
+ - tags: []
+
+## Python Wheels
+ - [https://pythonwheels.com](https://pythonwheels.com)
+ - date published: 2023-10-25T16:43:05.526351+00:00
+ - user: None
+ - tags: ['python']
+
+## PyVibe: Easily create styled web pages with Python
+ - [https://www.pyvibe.com](https://www.pyvibe.com)
+ - date published: 2023-10-25T16:43:06.793558+00:00
+ - user: None
+ - tags: []
+
+## Piotr Zakrzewski on Data
+ - [https://blog.pzakrzewski.com](https://blog.pzakrzewski.com)
+ - date published: 2023-11-21T09:09:37.768225+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [https://s21.q4cdn.com](https://s21.q4cdn.com)
+ - date published: 2023-10-25T16:43:17.531271+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [https://s25.q4cdn.com](https://s25.q4cdn.com)
+ - date published: 2023-10-25T16:43:18.100869+00:00
+ - user: None
+ - tags: []
+
+## Qbix Community - Great place for talking about the Qbix Platform
+ - [https://community.qbix.com](https://community.qbix.com)
+ - date published: 2023-10-25T16:43:21.345237+00:00
+ - user: None
+ - tags: []
+
+## qdorks.com: Easy Advanced Google Query Composer
+ - [https://qdorks.com](https://qdorks.com)
+ - date published: 2023-12-01T10:46:29.576983+00:00
+ - user: None
+ - tags: []
+
+## Amazon November Sale: 20 Fantastic Deals You Can Grab Right Now! | TECHWALTZ
+ - [https://qechtech.com](https://qechtech.com)
+ - date published: 2023-11-08T16:41:19.370020+00:00
+ - user: None
+ - tags: []
+
+## QiReader - A modern web RSS reader
+ - [https://www.qireader.com](https://www.qireader.com)
+ - date published: 2023-12-11T10:53:25+00:00
+ - user: rumpel
+ - tags: ['rss reader']
+
+## QRP Labs Kits
+ - [https://qrp-labs.com](https://qrp-labs.com)
+ - date published: 2023-10-25T16:43:23.293063+00:00
+ - user: None
+ - tags: []
+
+## Q R P e r | QRP radios, product announcements, reviews, news and more. Low power amateur radio fun!
+ - [https://qrper.com](https://qrper.com)
+ - date published: 2023-10-25T16:43:32.567564+00:00
+ - user: None
+ - tags: []
+
 ## QRZ Forums
  - [https://forums.qrz.com](https://forums.qrz.com)
  - date published: 2023-10-25T16:43:34.230252+00:00
@@ -3270,6 +3492,12 @@
  - user: None
  - tags: ['personal']
 
+## a leading consultant in application and cybersecurity as well as IT security
+ - [https://sec-consult.com](https://sec-consult.com)
+ - date published: 2023-12-21T23:22:43.387321+00:00
+ - user: None
+ - tags: []
+
 ## Secjuice | Non-Profit Cyber Goodness
  - [https://www.secjuice.com](https://www.secjuice.com)
  - date published: 2023-10-25T17:01:04.524586+00:00
@@ -5329,6 +5557,12 @@
  - user: None
  - tags: []
 
+## Ask Different
+ - [https://apple.stackexchange.com](https://apple.stackexchange.com)
+ - date published: 2023-12-21T17:42:00.104054+00:00
+ - user: None
+ - tags: []
+
 ## Astronomy Stack Exchange
  - [https://astronomy.stackexchange.com](https://astronomy.stackexchange.com)
  - date published: 2023-10-25T17:12:31.667957+00:00
@@ -5770,240 +6004,6 @@
 ## Steam Community
  - [https://steamcommunity.com](https://steamcommunity.com)
  - date published: 2023-11-05T19:13:40.009701+00:00
- - user: None
- - tags: []
-
-## Steam Deck
- - [https://www.steamdeck.com](https://www.steamdeck.com)
- - date published: 2023-10-27T12:54:20.650329+00:00
- - user: None
- - tags: ['product']
-
-## Steam Store
- - [https://store.steampowered.com](https://store.steampowered.com)
- - date published: 2023-10-24T20:12:11.678324+00:00
- - user: None
- - tags: ['game store', 'gatekeeper']
-
-## Steamship
- - [https://www.steamship.com](https://www.steamship.com)
- - date published: 2023-10-25T17:16:11.048919+00:00
- - user: None
- - tags: []
-
-## Simplified EDI, now with flat pricing - Stedi
- - [https://www.stedi.com](https://www.stedi.com)
- - date published: 2023-10-25T17:16:12.750079+00:00
- - user: None
- - tags: []
-
-## Steemit
- - [https://steemit.com](https://steemit.com)
- - date published: 2023-10-25T17:16:19.491738+00:00
- - user: None
- - tags: []
-
-## Stefan Abi-Karam
- - [https://stefanabikaram.com](https://stefanabikaram.com)
- - date published: 2023-10-25T17:16:20.232528+00:00
- - user: None
- - tags: []
-
-## Developer, writer and speaker | Stefan Judis Web Development
- - [https://www.stefanjudis.com](https://www.stefanjudis.com)
- - date published: 2023-10-25T17:16:21.789433+00:00
- - user: None
- - tags: []
-
-## Hello, I’m Ste Grainer. » SteGrainer.com
- - [https://stegrainer.com](https://stegrainer.com)
- - date published: 2023-12-13T20:59:04.125988+00:00
- - user: None
- - tags: ['personal']
-
-## steipete's blog
- - [https://steipete.com](https://steipete.com)
- - date published: 2023-10-25T17:16:23.057157+00:00
- - user: None
- - tags: []
-
-## Official Global Website
- - [https://www.stellantis.com](https://www.stellantis.com)
- - date published: 2023-12-11T16:09:49.916021+00:00
- - user: None
- - tags: []
-
-## Steno Research - The Independent Macro Research Platform
- - [https://stenoresearch.com](https://stenoresearch.com)
- - date published: 2023-10-25T17:16:30.954448+00:00
- - user: None
- - tags: []
-
-## Step CI Documentation | Step CI Docs
- - [https://docs.stepci.com](https://docs.stepci.com)
- - date published: 2023-10-25T17:16:32.298822+00:00
- - user: None
- - tags: []
-
-## Step CI — Open-source API Test Automation
- - [https://stepci.com](https://stepci.com)
- - date published: 2023-10-25T17:16:34.681107+00:00
- - user: None
- - tags: []
-
-## Steph Ango
- - [https://stephanango.com](https://stephanango.com)
- - date published: 2023-10-25T17:16:36.144916+00:00
- - user: None
- - tags: []
-
-## Steph Ango
- - [https://stephango.com](https://stephango.com)
- - date published: 2023-10-25T17:16:37.377748+00:00
- - user: None
- - tags: []
-
-## Stephanie Stimac
- - [https://stephaniestimac.com](https://stephaniestimac.com)
- - date published: 2023-10-25T09:21:09.810001+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://www.stephendiehl.com](https://www.stephendiehl.com)
- - date published: 2023-10-25T17:16:38.851876+00:00
- - user: None
- - tags: []
-
-## Stephen Marz: Blog
- - [https://osblog.stephenmarz.com](https://osblog.stephenmarz.com)
- - date published: 2023-10-25T17:16:40.260176+00:00
- - user: None
- - tags: []
-
-## Stephen's Tech Blog
- - [https://stephenn.com](https://stephenn.com)
- - date published: 2023-10-25T17:16:41.369605+00:00
- - user: None
- - tags: []
-
-## Stephen Perlstein's Website
- - [https://www.stephenperlstein.com](https://www.stephenperlstein.com)
- - date published: 2023-11-29T15:47:25.794379+00:00
- - user: None
- - tags: ['personal']
-
-## Stephen V. Smith
- - [https://www.stephenvsmith.com](https://www.stephenvsmith.com)
- - date published: 2023-11-29T16:20:43.457478+00:00
- - user: None
- - tags: ['personal']
-
-## Stephen Wolfram Writings
- - [https://writings.stephenwolfram.com](https://writings.stephenwolfram.com)
- - date published: 2023-10-25T17:16:44.317454+00:00
- - user: None
- - tags: []
-
-## Home Page | Stereophile.com
- - [https://www.stereophile.com](https://www.stereophile.com)
- - date published: 2023-10-25T17:16:49.062593+00:00
- - user: None
- - tags: []
-
-## Writing, Side-projects, Newsletter and More
- - [https://www.stevanpopovic.com](https://www.stevanpopovic.com)
- - date published: 2023-12-10T11:34:13.364658+00:00
- - user: None
- - tags: ['personal']
-
-## Steve Alvest – Creativity and Life
- - [https://stevealvest.com](https://stevealvest.com)
- - date published: 2023-12-15T21:43:58.449519+00:00
- - user: None
- - tags: ['personal']
-
-## Steve Blank Innovation and Entrepreneurship
- - [https://steveblank.com](https://steveblank.com)
- - date published: 2023-10-25T17:17:02.815342+00:00
- - user: None
- - tags: []
-
-## Make Something Wonderful | Steve Jobs
- - [https://book.stevejobsarchive.com](https://book.stevejobsarchive.com)
- - date published: 2023-10-25T17:17:04.834291+00:00
- - user: None
- - tags: []
-
-## The Steve Jobs Archive
- - [https://stevejobsarchive.com](https://stevejobsarchive.com)
- - date published: 2023-10-25T17:17:06.401941+00:00
- - user: None
- - tags: []
-
-## Steve Klabnik
- - [https://steveklabnik.com](https://steveklabnik.com)
- - date published: 2023-10-25T17:17:06.997594+00:00
- - user: None
- - tags: []
-
-## Steve Klabnik
- - [https://words.steveklabnik.com](https://words.steveklabnik.com)
- - date published: 2023-10-25T17:17:07.752738+00:00
- - user: None
- - tags: []
-
-## LDLW
- - [https://steveledlow.com](https://steveledlow.com)
- - date published: 2023-11-29T17:10:07.717096+00:00
- - user: None
- - tags: ['personal']
-
-## Steve Losh
- - [https://stevelosh.com](https://stevelosh.com)
- - date published: 2023-10-25T17:17:08.584265+00:00
- - user: None
- - tags: []
-
-## Steven Giesel
- - [https://steven-giesel.com](https://steven-giesel.com)
- - date published: 2023-10-25T08:48:00.221256+00:00
- - user: None
- - tags: ['personal']
-
-## stevenberlinjohnson
- - [https://stevenberlinjohnson.com](https://stevenberlinjohnson.com)
- - date published: 2023-10-25T17:17:13.232194+00:00
- - user: None
- - tags: []
-
-## Steven Buccini | Loading next level…
- - [https://www.stevenbuccini.com](https://www.stevenbuccini.com)
- - date published: 2023-10-25T17:17:14.635815+00:00
- - user: None
- - tags: []
-
-## Hi, I'm Steven Kneiser
- - [https://stevenkneiser.com](https://stevenkneiser.com)
- - date published: 2023-11-29T15:46:59.519818+00:00
- - user: None
- - tags: ['personal']
-
-## Steven Van Bael
- - [https://stevenvanbael.com](https://stevenvanbael.com)
- - date published: 2023-10-25T17:17:19.959851+00:00
- - user: None
- - tags: []
-
-## Steve Ridout
- - [https://steveridout.com](https://steveridout.com)
- - date published: 2023-10-25T17:17:20.743440+00:00
- - user: None
- - tags: []
-
-## Stewart Calculus Textbooks and Online Course Materials
- - [https://www.stewartcalculus.com](https://www.stewartcalculus.com)
- - date published: 2023-10-25T17:17:21.875785+00:00
  - user: None
  - tags: []
 

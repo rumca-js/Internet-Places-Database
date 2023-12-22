@@ -580,6 +580,12 @@
  - user: None
  - tags: []
 
+## Fireworks.ai – Medium
+ - [https://blog.fireworks.ai](https://blog.fireworks.ai)
+ - date published: 2023-12-21T09:50:10.116514+00:00
+ - user: None
+ - tags: []
+
 ## Fixie.ai Blog
  - [https://blog.fixie.ai](https://blog.fixie.ai)
  - date published: 2023-10-25T11:38:51.003257+00:00
@@ -2596,6 +2602,12 @@
  - user: None
  - tags: []
 
+## Crikey | News, investigations, analysis and opinion
+ - [https://www.crikey.com.au](https://www.crikey.com.au)
+ - date published: 2023-12-21T09:36:01.916925+00:00
+ - user: None
+ - tags: []
+
 ## Deliveroo | Deliveroo Riders Australia
  - [https://riders.deliveroo.com.au](https://riders.deliveroo.com.au)
  - date published: 2023-10-25T11:54:32.718269+00:00
@@ -3309,6 +3321,12 @@
  - date published: 2023-10-25T09:39:13.079588+00:00
  - user: None
  - tags: ['substack']
+
+## Home
+ - [https://drewbutler.blog](https://drewbutler.blog)
+ - date published: 2023-12-21T08:23:59.105908+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Life at Eclipse | Musings on the Eclipse Foundation, the community and the ecosystem
  - [https://eclipse-foundation.blog](https://eclipse-foundation.blog)
@@ -5778,6 +5796,12 @@
  - user: None
  - tags: []
 
+## Education | David Fu's Website (aka davidthefu)
+ - [https://www.davidfu.co](https://www.davidfu.co)
+ - date published: 2023-12-21T18:50:47.818547+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Decrypt: AI, Bitcoin, Culture, Gaming, and Crypto News - Decrypt
  - [https://decrypt.co](https://decrypt.co)
  - date published: 2023-10-25T09:30:36.361891+00:00
@@ -5787,6 +5811,12 @@
 ## Dilpreet Singh
  - [https://dilpreet.co](https://dilpreet.co)
  - date published: 2023-10-25T12:17:56.939252+00:00
+ - user: None
+ - tags: []
+
+## DocuSeal – Open-source Document Signing
+ - [https://www.docuseal.co](https://www.docuseal.co)
+ - date published: 2023-12-21T07:48:10+00:00
  - user: None
  - tags: []
 
@@ -5967,36 +5997,6 @@
 ## Lioness | Media Company
  - [https://www.lioness.co](https://www.lioness.co)
  - date published: 2023-10-25T12:19:19.819218+00:00
- - user: None
- - tags: []
-
-## Logic Sheet | Best Google Sheets automation tool | Automate your spreadsheets
- - [https://logicsheet.co](https://logicsheet.co)
- - date published: 2023-10-25T12:19:22.464687+00:00
- - user: None
- - tags: []
-
-## Your dreams are loading!
- - [https://lxe.co](https://lxe.co)
- - date published: 2023-10-25T12:19:23.534202+00:00
- - user: None
- - tags: []
-
-## Fast ad block for iPhone, iPad and Mac – Magic Lasso Adblock
- - [https://www.magiclasso.co](https://www.magiclasso.co)
- - date published: 2023-10-25T12:19:24.874504+00:00
- - user: None
- - tags: []
-
-## Memo | A data platform for the new era of PR measurement
- - [https://memo.co](https://memo.co)
- - date published: 2023-10-25T12:19:29.350477+00:00
- - user: None
- - tags: []
-
-## MetalBear 🐻 - Tools for Backend Engineers
- - [https://metalbear.co](https://metalbear.co)
- - date published: 2023-10-25T12:19:31.866187+00:00
  - user: None
  - tags: []
 

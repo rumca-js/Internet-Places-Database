@@ -1,3 +1,322 @@
+## Smell Dating
+ - [https://smell.dating](https://smell.dating)
+ - date published: 2023-10-25T18:27:37.466544+00:00
+ - user: None
+ - tags: []
+
+## Darnell (Seize The Day)
+ - [https://darnell.day](https://darnell.day)
+ - date published: 2023-10-25T18:27:40.908329+00:00
+ - user: None
+ - tags: []
+
+## dade
+ - [https://0xda.de](https://0xda.de)
+ - date published: 2023-10-25T18:27:43.060988+00:00
+ - user: None
+ - tags: []
+
+## Thomas' Digital Garden
+ - [https://www.2uo.de](https://www.2uo.de)
+ - date published: 2023-10-25T18:27:45.765864+00:00
+ - user: None
+ - tags: []
+
+## ALBs Blog | Freepascal, AROS, Amiga, Lazarus
+ - [https://blog.alb42.de](https://blog.alb42.de)
+ - date published: 2023-12-11T18:35:45.310101+00:00
+ - user: None
+ - tags: []
+
+## amiga-news.de - Amiga-News auf den Punkt gebracht
+ - [https://amiga-news.de](https://amiga-news.de)
+ - date published: 2023-10-25T11:01:48.109047+00:00
+ - user: None
+ - tags: []
+
+## Startseite
+ - [http://amiga-spiele.de](http://amiga-spiele.de)
+ - date published: 2023-11-02T09:56:45.846843+00:00
+ - user: None
+ - tags: ['amiga']
+
+## TAWS - The Amiga Workbench Simulation is loading...
+ - [https://amigaevent.de](https://amigaevent.de)
+ - date published: 2023-12-11T19:07:32.453372+00:00
+ - user: None
+ - tags: []
+
+## Amiga Future
+ - [https://www.amigafuture.de](https://www.amigafuture.de)
+ - date published: 2023-12-11T18:37:24.839529+00:00
+ - user: None
+ - tags: []
+
+## Startseite
+ - [https://amigaland.de](https://amigaland.de)
+ - date published: 2023-12-11T19:06:58.734072+00:00
+ - user: None
+ - tags: []
+
+## AmigaPortal.de
+ - [https://www.amigaportal.de](https://www.amigaportal.de)
+ - date published: 2023-12-11T16:52:08.242908+00:00
+ - user: None
+ - tags: []
+
+## social.anoxinon.de - Mastodon
+ - [https://social.anoxinon.de](https://social.anoxinon.de)
+ - date published: 2023-10-24T20:13:21.748400+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Новости Германии: последние события на русском языке
+ - [https://aussiedlerbote.de](https://aussiedlerbote.de)
+ - date published: 2023-11-28T21:06:27.794315+00:00
+ - user: None
+ - tags: []
+
+## Auto News, Automarken und Testberichte - autozeitung.de
+ - [https://www.autozeitung.de](https://www.autozeitung.de)
+ - date published: 2023-12-06T11:50:31+00:00
+ - user: rumpel
+ - tags: ['vehicle news']
+
+## AWS Works Council Germany
+ - [https://www.aws-works-council-initiative.de](https://www.aws-works-council-initiative.de)
+ - date published: 2023-10-25T18:27:47.880406+00:00
+ - user: None
+ - tags: []
+
+## Baker Tilly. 4 Perspektiven. Eine Lösung. Weltweit.
+ - [https://www.bakertilly.de](https://www.bakertilly.de)
+ - date published: 2023-10-25T18:27:57.686783+00:00
+ - user: None
+ - tags: []
+
+## Ballettschule Frankfurt Ostend - Ballett für Kinder und Erwachsene
+ - [https://www.ballettstudio-ost.de](https://www.ballettstudio-ost.de)
+ - date published: 2023-11-29T14:43:02.887375+00:00
+ - user: None
+ - tags: ['personal']
+
+## Benchkram
+ - [https://benchkram.de](https://benchkram.de)
+ - date published: 2023-10-25T18:27:59.151379+00:00
+ - user: None
+ - tags: []
+
+## BfS  -  Startseite
+ - [https://www.bfs.de](https://www.bfs.de)
+ - date published: 2023-10-25T18:28:14.718430+00:00
+ - user: None
+ - tags: []
+
+## Aktuelle Nachrichten | BILD.de
+ - [https://bild.de](https://bild.de)
+ - date published: 2023-10-29T18:16:15.369094+00:00
+ - user: rumpel
+ - tags: ['germany news']
+
+## Aktuelle Nachrichten | BILD.de
+ - [https://m.bild.de](https://m.bild.de)
+ - date published: 2023-10-29T18:15:30.206767+00:00
+ - user: None
+ - tags: ['news']
+
+## Aktuelle Nachrichten | BILD.de
+ - [https://www.bild.de](https://www.bild.de)
+ - date published: 2023-10-25T18:28:30.805665+00:00
+ - user: None
+ - tags: []
+
+## social.bund.de
+ - [https://social.bund.de](https://social.bund.de)
+ - date published: 2023-10-25T18:28:31.356395+00:00
+ - user: None
+ - tags: []
+
+## Bundestagsshop
+ - [https://www.bundestagsshop.de](https://www.bundestagsshop.de)
+ - date published: 2023-12-07T12:22:20.768351+00:00
+ - user: None
+ - tags: []
+
+## Bundesverfassungsgericht  -  Startseite
+ - [https://www.bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de)
+ - date published: 2023-10-25T18:28:33.150667+00:00
+ - user: None
+ - tags: []
+
+## Caspar’s Website | Caspar von Wrede
+ - [https://casparwre.de](https://casparwre.de)
+ - date published: 2023-10-25T18:28:35.732274+00:00
+ - user: None
+ - tags: []
+
+## 37C3 Call For Participation
+ - [https://content.events.ccc.de](https://content.events.ccc.de)
+ - date published: 2023-10-25T18:28:37.146400+00:00
+ - user: None
+ - tags: []
+
+## CCC Event Blog
+ - [https://events.ccc.de](https://events.ccc.de)
+ - date published: 2023-10-25T18:28:39.662895+00:00
+ - user: None
+ - tags: []
+
+## media.ccc.de -
+home
+ - [https://media.ccc.de](https://media.ccc.de)
+ - date published: 2023-10-25T18:28:41.208202+00:00
+ - user: None
+ - tags: []
+
+## See you soon … somewhere else! – C3VOC Streaming
+ - [https://streaming.media.ccc.de](https://streaming.media.ccc.de)
+ - date published: 2023-10-25T18:28:42.515686+00:00
+ - user: None
+ - tags: []
+
+## CCC | Startseite
+ - [https://www.ccc.de](https://www.ccc.de)
+ - date published: 2023-10-25T18:28:44.193001+00:00
+ - user: None
+ - tags: []
+
+## Yet another IT blog
+ - [https://ch-st.de](https://ch-st.de)
+ - date published: 2023-11-06T18:48:19.602527+00:00
+ - user: None
+ - tags: []
+
+## Startseite
+ - [https://www.charite.de](https://www.charite.de)
+ - date published: 2023-12-15T11:10:59.766023+00:00
+ - user: None
+ - tags: []
+
+## Latest Blog Posts
+ - [https://christiantietze.de](https://christiantietze.de)
+ - date published: 2023-12-09T14:59:41.845777+00:00
+ - user: None
+ - tags: ['personal']
+
+## Citroën PKW, Nutzfahrzeuge, Elektroautos | Citroën Deutschland
+ - [https://www.citroen.de](https://www.citroen.de)
+ - date published: 2023-12-11T16:04:22.581093+00:00
+ - user: None
+ - tags: []
+
+## CKTN Forum - Tech & Privacy for People
+ - [https://forum.cktn.de](https://forum.cktn.de)
+ - date published: 2023-10-25T18:28:48.772187+00:00
+ - user: None
+ - tags: []
+
+## The Cyber Vanguard
+ - [https://cyber.dabamos.de](https://cyber.dabamos.de)
+ - date published: 2023-10-27T11:56:58.035109+00:00
+ - user: None
+ - tags: []
+
+## DROPS - Series
+ - [https://drops.dagstuhl.de](https://drops.dagstuhl.de)
+ - date published: 2023-10-25T18:29:09.557733+00:00
+ - user: None
+ - tags: []
+
+## Fedor Indutny's Blog
+ - [https://darksi.de](https://darksi.de)
+ - date published: 2023-12-16T13:36:25.831545+00:00
+ - user: None
+ - tags: []
+
+## Datawrapper Blog
+ - [https://blog.datawrapper.de](https://blog.datawrapper.de)
+ - date published: 2023-10-25T18:29:23.861867+00:00
+ - user: None
+ - tags: []
+
+## Blogless — Writing Articles online without a Blog
+ - [https://blogless.datenbrei.de](https://blogless.datenbrei.de)
+ - date published: 2023-10-25T18:29:26.642822+00:00
+ - user: None
+ - tags: []
+
+## lists.denx.de Mailing Lists
+ - [https://lists.denx.de](https://lists.denx.de)
+ - date published: 2023-10-25T18:29:27.869041+00:00
+ - user: None
+ - tags: []
+
+## Deutschlands größtes Beschleunigerzentrum - Deutsches Elektronen-Synchrotron DESY
+ - [https://www.desy.de](https://www.desy.de)
+ - date published: 2023-10-25T18:29:33.914611+00:00
+ - user: None
+ - tags: []
+
+## deutschland.de - Your link to Germany
+ - [https://www.deutschland.de](https://www.deutschland.de)
+ - date published: 2023-10-25T18:29:41.108581+00:00
+ - user: None
+ - tags: []
+
+## German Cancer Research Center
+ - [https://www.dkfz.de](https://www.dkfz.de)
+ - date published: 2023-10-25T18:30:06.376806+00:00
+ - user: None
+ - tags: []
+
+## e-basteln
+ - [https://www.e-basteln.de](https://www.e-basteln.de)
+ - date published: 2023-10-25T18:30:07.534543+00:00
+ - user: None
+ - tags: []
+
+## Startseite - Econtribute
+ - [https://www.econtribute.de](https://www.econtribute.de)
+ - date published: 2023-10-25T18:30:10.727479+00:00
+ - user: None
+ - tags: []
+
+## FACTOR 5
+ - [http://www.factor5.de](http://www.factor5.de)
+ - date published: 2023-11-02T10:55:33.784420+00:00
+ - user: None
+ - tags: ['amiga']
+
+## fantotal.de Onlineshop für Merchandise | CDs Vinyl | Gothic Metal Pun
+ - [https://fantotal.de](https://fantotal.de)
+ - date published: 2023-11-13T09:40:58.541752+00:00
+ - user: None
+ - tags: ['music', 'shop']
+
+## Lemmymap - a lemmy federation map
+ - [https://lemmymap.feddit.de](https://lemmymap.feddit.de)
+ - date published: 2023-10-25T18:30:11.155382+00:00
+ - user: None
+ - tags: []
+
+## felix fisgus | Felix Fisgus
+ - [https://felixfisgus.de](https://felixfisgus.de)
+ - date published: 2023-10-25T18:30:12.186826+00:00
+ - user: None
+ - tags: []
+
+## Felix Geisendörfer
+ - [https://blog.felixge.de](https://blog.felixge.de)
+ - date published: 2023-10-25T18:30:14.021327+00:00
+ - user: None
+ - tags: []
+
+## Fenix Magazin - Početna
+ - [https://fenix-magazin.de](https://fenix-magazin.de)
+ - date published: 2023-10-30T19:00:12.736074+00:00
+ - user: None
+ - tags: []
+
 ## feststelltaste – About Legacy Systems, Software Analytics and the Fundamental Problems of Software Engineering
  - [https://www.feststelltaste.de](https://www.feststelltaste.de)
  - date published: 2023-10-25T18:30:19.967784+00:00
@@ -99,6 +418,12 @@
  - date published: 2023-11-29T17:09:32.526552+00:00
  - user: None
  - tags: ['personal']
+
+## iDiv.de
+ - [https://www.idiv.de](https://www.idiv.de)
+ - date published: 2023-12-21T12:31:47.504996+00:00
+ - user: None
+ - tags: []
 
 ## igor´sLAB | PC & Components | Reviews & News
  - [https://www.igorslab.de](https://www.igorslab.de)
@@ -505,6 +830,12 @@
 ## Timo Zander — Cologne-based Software Developer
  - [https://timozander.de](https://timozander.de)
  - date published: 2023-10-25T18:32:57.895419+00:00
+ - user: None
+ - tags: []
+
+## Home - Leibniz-Institut für Troposphärenforschung e.V. (TROPOS)
+ - [https://www.tropos.de](https://www.tropos.de)
+ - date published: 2023-12-21T15:45:59.681751+00:00
  - user: None
  - tags: []
 
@@ -2538,6 +2869,12 @@
  - user: None
  - tags: ['personal']
 
+## Shayon Mukherjee
+ - [https://www.shayon.dev](https://www.shayon.dev)
+ - date published: 2023-12-21T17:41:52.153062+00:00
+ - user: None
+ - tags: []
+
 ## ShiftMag
  - [https://shiftmag.dev](https://shiftmag.dev)
  - date published: 2023-11-11T21:40:32.425246+00:00
@@ -4370,6 +4707,12 @@
  - user: None
  - tags: []
 
+## Homepage
+ - [https://press.princeton.edu](https://press.princeton.edu)
+ - date published: 2023-12-21T02:05:06.489728+00:00
+ - user: None
+ - tags: []
+
 ## Princeton Site Builder
  - [https://scholar.princeton.edu](https://scholar.princeton.edu)
  - date published: 2023-10-25T18:56:53.006902+00:00
@@ -5669,348 +6012,6 @@
 ## Use plaintext email
  - [https://useplaintext.email](https://useplaintext.email)
  - date published: 2023-10-25T19:07:18.065331+00:00
- - user: None
- - tags: []
-
-## mastodon.energy
- - [https://mastodon.energy](https://mastodon.energy)
- - date published: 2023-10-25T19:07:20.188942+00:00
- - user: None
- - tags: []
-
-## Same Energy | Visual Search Engine
- - [https://same.energy](https://same.energy)
- - date published: 2023-10-27T11:57:04.678687+00:00
- - user: None
- - tags: []
-
-## 16x Engineer
- - [https://16x.engineer](https://16x.engineer)
- - date published: 2023-10-27T11:57:06.295677+00:00
- - user: None
- - tags: []
-
-## Nyxt browser: The hacker's browser
- - [https://nyxt.atlas.engineer](https://nyxt.atlas.engineer)
- - date published: 2023-10-27T11:57:07.797367+00:00
- - user: None
- - tags: []
-
-## José Bonilla
- - [https://jose.bonilla.engineer](https://jose.bonilla.engineer)
- - date published: 2023-11-29T17:09:00.017617+00:00
- - user: None
- - tags: ['personal']
-
-## Cookie Engineer's Portfolio
- - [https://cookie.engineer](https://cookie.engineer)
- - date published: 2023-10-25T08:49:08.447741+00:00
- - user: None
- - tags: ['personal']
-
-## Blog about my engineering projects
- - [https://mark.engineer](https://mark.engineer)
- - date published: 2023-11-07T15:23:05.500491+00:00
- - user: None
- - tags: []
-
-## Max Chernyak
- - [https://max.engineer](https://max.engineer)
- - date published: 2023-10-25T19:07:41.764398+00:00
- - user: None
- - tags: []
-
-## DoorDash Engineering
- - [https://doordash.engineering](https://doordash.engineering)
- - date published: 2023-10-25T19:07:47.207070+00:00
- - user: None
- - tags: []
-
-## Practical Engineering
- - [https://practical.engineering](https://practical.engineering)
- - date published: 2023-10-25T19:07:48.828528+00:00
- - user: None
- - tags: []
-
-## Shopify Engineering
- - [https://shopify.engineering](https://shopify.engineering)
- - date published: 2023-10-25T19:07:52.357916+00:00
- - user: None
- - tags: []
-
-## Slack Engineering -
- - [https://slack.engineering](https://slack.engineering)
- - date published: 2023-10-25T19:07:53.963866+00:00
- - user: None
- - tags: []
-
-## teenage engineering
- - [https://teenage.engineering](https://teenage.engineering)
- - date published: 2023-10-25T19:07:54.710750+00:00
- - user: None
- - tags: []
-
-## Home - Kayce Basques
- - [https://kayce.basqu.es](https://kayce.basqu.es)
- - date published: 2023-10-25T19:07:55.486364+00:00
- - user: None
- - tags: []
-
-## Bèr ‘berkes’ Kessels
- - [https://berk.es](https://berk.es)
- - date published: 2023-10-25T19:07:56.813852+00:00
- - user: None
- - tags: []
-
-## J. Ryan Stinnett
- - [https://convolv.es](https://convolv.es)
- - date published: 2023-11-10T06:49:58.797104+00:00
- - user: None
- - tags: []
-
-## Creactivities - A chatbot that exercises your creative muscles
- - [https://www.creactiviti.es](https://www.creactiviti.es)
- - date published: 2023-10-25T19:07:58.865084+00:00
- - user: None
- - tags: []
-
-## Danny de Vries
- - [https://www.dandevri.es](https://www.dandevri.es)
- - date published: 2023-12-09T15:01:07.280579+00:00
- - user: None
- - tags: ['personal']
-
-## Main | CS 61B Spring 2023
- - [https://sp23.datastructur.es](https://sp23.datastructur.es)
- - date published: 2023-10-25T19:08:03.607596+00:00
- - user: None
- - tags: []
-
-## Damien Desfontaines' personal page
- - [https://desfontain.es](https://desfontain.es)
- - date published: 2023-10-25T08:59:01.998187+00:00
- - user: None
- - tags: ['personal']
-
-## On digital experiences, Open Source, Open Web, Drupal, and our digital future | Dries Buytaert
- - [https://dri.es](https://dri.es)
- - date published: 2023-10-25T19:08:04.348478+00:00
- - user: None
- - tags: []
-
-## Page Not Found
- - [https://especiales.eldiario.es](https://especiales.eldiario.es)
- - date published: 2023-11-08T15:16:25.119237+00:00
- - user: None
- - tags: []
-
-## 50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs
- - [https://golang50shad.es](https://golang50shad.es)
- - date published: 2023-10-25T19:08:05.583584+00:00
- - user: None
- - tags: []
-
-## A rarely updated blog  | A rarely updated blog
- - [https://www.j1n.es](https://www.j1n.es)
- - date published: 2023-11-29T17:11:17.265735+00:00
- - user: None
- - tags: ['personal']
-
-## Museo Nacional del Prado
- - [https://www.museodelprado.es](https://www.museodelprado.es)
- - date published: 2023-11-13T13:49:54.964483+00:00
- - user: None
- - tags: ['museum']
-
-## Museo Nacional Centro de Arte Reina Sofía
- - [https://www.museoreinasofia.es](https://www.museoreinasofia.es)
- - date published: 2023-11-13T13:40:44.379328+00:00
- - user: None
- - tags: ['museum']
-
-## One Piece Pirateking • Comunidad Española de One Piece
- - [https://www.pirate-king.es](https://www.pirate-king.es)
- - date published: 2023-11-07T11:03:11.060365+00:00
- - user: None
- - tags: []
-
-## ruiper.es | ruiper.es
- - [https://ruiper.es](https://ruiper.es)
- - date published: 2023-10-25T19:08:09.589824+00:00
- - user: None
- - tags: []
-
-## Iván Sánchez Ortega
- - [https://ivan.sanchezortega.es](https://ivan.sanchezortega.es)
- - date published: 2023-11-16T03:40:42.075503+00:00
- - user: None
- - tags: []
-
-## TC39 - Specifying JavaScript.
- - [https://tc39.es](https://tc39.es)
- - date published: 2023-10-25T19:08:11.963270+00:00
- - user: None
- - tags: []
-
-## The Local - Spain's news in English
- - [https://www.thelocal.es](https://www.thelocal.es)
- - date published: 2023-11-09T21:28:01.789542+00:00
- - user: None
- - tags: []
-
-## Tom's corner of the internet
- - [https://tomforb.es](https://tomforb.es)
- - date published: 2023-10-25T19:08:13.819393+00:00
- - user: None
- - tags: []
-
-## txti - Fast web pages for everybody
- - [https://txti.es](https://txti.es)
- - date published: 2023-10-25T19:08:15.517131+00:00
- - user: None
- - tags: []
-
-## Vintage Everyday
- - [https://www.vintag.es](https://www.vintag.es)
- - date published: 2023-10-25T19:08:19.055347+00:00
- - user: None
- - tags: []
-
-## yakshav.es
- - [https://yakshav.es](https://yakshav.es)
- - date published: 2023-10-25T19:08:20.882564+00:00
- - user: None
- - tags: []
-
-## about:intel - European Voices on Surveillance - about:intel
- - [https://aboutintel.eu](https://aboutintel.eu)
- - date published: 2023-10-25T19:08:32.174278+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://adamj.eu](https://adamj.eu)
- - date published: 2023-10-25T19:08:33.506682+00:00
- - user: None
- - tags: []
-
-## Internetowy sklep Modelarski Agtom - farby modelarskie modele do sklejania - Sklep Modelarski Agtom
- - [https://agtom.eu](https://agtom.eu)
- - date published: 2023-10-25T11:14:12.432348+00:00
- - user: None
- - tags: ['tabletop games', 'shop', 'wargames']
-
-## The Artificial Intelligence Act |
- - [https://artificialintelligenceact.eu](https://artificialintelligenceact.eu)
- - date published: 2023-10-25T19:08:37.980787+00:00
- - user: None
- - tags: []
-
-## ASCII Art Archive
- - [https://www.asciiart.eu](https://www.asciiart.eu)
- - date published: 2023-10-30T13:46:18.944535+00:00
- - user: None
- - tags: []
-
-## Back-on-Track
- - [https://back-on-track.eu](https://back-on-track.eu)
- - date published: 2023-10-25T19:08:41.990986+00:00
- - user: None
- - tags: []
-
-## Batchrocket.eu - Introduction
- - [https://batchrocket.eu](https://batchrocket.eu)
- - date published: 2023-10-25T19:08:43.947295+00:00
- - user: None
- - tags: []
-
-## Battery2030+ - Battery 2030+
- - [https://battery2030.eu](https://battery2030.eu)
- - date published: 2023-10-25T19:08:59.246351+00:00
- - user: None
- - tags: []
-
-## | BenQ Polska
- - [https://www.benq.eu](https://www.benq.eu)
- - date published: 2023-10-29T18:30:57.646486+00:00
- - user: None
- - tags: ['company']
-
-## Bert Hubert
- - [https://berthub.eu](https://berthub.eu)
- - date published: 2023-10-25T19:09:02.529024+00:00
- - user: None
- - tags: []
-
-## Betterbird. Simply better.
- - [https://www.betterbird.eu](https://www.betterbird.eu)
- - date published: 2023-10-25T19:09:05.014951+00:00
- - user: None
- - tags: []
-
-## Bits'n'Bites – Learning things, bit by bit…
- - [https://www.bitsnbites.eu](https://www.bitsnbites.eu)
- - date published: 2023-10-25T19:09:06.960784+00:00
- - user: None
- - tags: []
-
-## Brussels Signal
- - [https://brusselssignal.eu](https://brusselssignal.eu)
- - date published: 2023-12-17T08:32:01.568295+00:00
- - user: None
- - tags: []
-
-## Scribe
- - [https://scribe.citizen4.eu](https://scribe.citizen4.eu)
- - date published: 2023-10-25T19:09:08.180577+00:00
- - user: None
- - tags: []
-
-## construkt.eu - Philipp Brunner's UX and product design blog
- - [https://construkt.eu](https://construkt.eu)
- - date published: 2023-11-29T16:20:17.841086+00:00
- - user: None
- - tags: ['personal']
-
-## CS SYD
- - [https://cs-syd.eu](https://cs-syd.eu)
- - date published: 2023-10-25T19:09:17.766546+00:00
- - user: None
- - tags: []
-
-## Home | Daniël de Kok
- - [https://danieldk.eu](https://danieldk.eu)
- - date published: 2023-10-25T08:49:09.327114+00:00
- - user: None
- - tags: ['personal']
-
-## DeepReview - Write compelling resumes, cover letters, performance reviews and more, in just minutes.
- - [https://deepreview.eu](https://deepreview.eu)
- - date published: 2023-10-25T19:09:19.206888+00:00
- - user: None
- - tags: []
-
-## Defence Industry Europe
- - [https://defence-industry.eu](https://defence-industry.eu)
- - date published: 2023-11-27T06:06:43.599521+00:00
- - user: None
- - tags: []
-
-## dns0.eu — The European public DNS that makes your Internet safer
- - [https://www.dns0.eu](https://www.dns0.eu)
- - date published: 2023-10-25T19:09:21.881247+00:00
- - user: None
- - tags: []
-
-## Don't Spy EU
- - [https://dontspy.eu](https://dontspy.eu)
- - date published: 2023-11-15T13:03:17+00:00
- - user: rumpel
- - tags: ['biometrics', 'surveillance', 'facial recognition']
-
-## EAVI - Media Literacy for Citizenship
- - [https://eavi.eu](https://eavi.eu)
- - date published: 2023-10-25T19:09:47.932688+00:00
  - user: None
  - tags: []
 
