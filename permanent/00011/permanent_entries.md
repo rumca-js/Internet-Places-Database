@@ -1,3 +1,285 @@
+## UToledo News
+ - [https://news.utoledo.edu](https://news.utoledo.edu)
+ - date published: 2023-12-10T14:19:01.028879+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.utsouthwestern.edu](https://www.utsouthwestern.edu)
+ - date published: 2023-11-07T23:09:54.425580+00:00
+ - user: None
+ - tags: []
+
+## Peter Sheridan Dodds
+ - [https://pdodds.w3.uvm.edu](https://pdodds.w3.uvm.edu)
+ - date published: 2023-10-25T19:05:35.714061+00:00
+ - user: None
+ - tags: []
+
+## Taras I.Lakoba - University Of Vermont
+ - [https://tlakoba.w3.uvm.edu](https://tlakoba.w3.uvm.edu)
+ - date published: 2023-10-25T19:05:38.861859+00:00
+ - user: None
+ - tags: []
+
+## Valencia College
+ - [https://valenciacollege.edu](https://valenciacollege.edu)
+ - date published: 2023-11-27T12:19:39+00:00
+ - user: rumpel
+ - tags: ['college']
+
+## UVA Today
+ - [https://news.virginia.edu](https://news.virginia.edu)
+ - date published: 2023-10-25T19:05:49.007239+00:00
+ - user: None
+ - tags: []
+
+## CS Dept. NSF-Supported Education Infrastructure Project / ei.cs.vt.edu
+ - [https://ei.cs.vt.edu](https://ei.cs.vt.edu)
+ - date published: 2023-10-25T19:05:52.506136+00:00
+ - user: None
+ - tags: []
+
+## Newsroom | Atrium Health Wake Forest Baptist
+ - [https://newsroom.wakehealth.edu](https://newsroom.wakehealth.edu)
+ - date published: 2023-10-25T19:05:55.541527+00:00
+ - user: None
+ - tags: []
+
+## courses.cs.washington.edu
+ - [https://courses.cs.washington.edu](https://courses.cs.washington.edu)
+ - date published: 2023-10-25T19:05:57.896541+00:00
+ - user: None
+ - tags: []
+
+## UW Departments Web Server
+ - [https://depts.washington.edu](https://depts.washington.edu)
+ - date published: 2023-11-13T19:09:28.425970+00:00
+ - user: None
+ - tags: []
+
+## UW Faculty Web Server
+ - [https://faculty.washington.edu](https://faculty.washington.edu)
+ - date published: 2023-10-25T19:05:59.829333+00:00
+ - user: None
+ - tags: []
+
+## UW Interactive Data Lab
+ - [https://idl.cs.washington.edu](https://idl.cs.washington.edu)
+ - date published: 2023-10-26T06:39:53.394657+00:00
+ - user: None
+ - tags: []
+
+## City-Wide IMSI-Catcher Detection - SeaGlass
+ - [https://seaglass.cs.washington.edu](https://seaglass.cs.washington.edu)
+ - date published: 2023-10-25T19:06:04.694581+00:00
+ - user: None
+ - tags: []
+
+## UW Staff Web Server
+ - [https://staff.washington.edu](https://staff.washington.edu)
+ - date published: 2023-10-25T19:06:09.097286+00:00
+ - user: None
+ - tags: []
+
+## UW Homepage
+ - [https://www.washington.edu](https://www.washington.edu)
+ - date published: 2023-10-25T19:06:16.518171+00:00
+ - user: None
+ - tags: ['university']
+
+## Word Warriors - Wayne State University
+ - [https://wordwarriors.wayne.edu](https://wordwarriors.wayne.edu)
+ - date published: 2023-10-25T19:06:22.803186+00:00
+ - user: None
+ - tags: []
+
+## 403 - Forbidden: Access is denied.
+ - [https://faculty.weber.edu](https://faculty.weber.edu)
+ - date published: 2023-10-25T19:06:32.887393+00:00
+ - user: None
+ - tags: []
+
+## Williams College
+ - [https://web.williams.edu](https://web.williams.edu)
+ - date published: 2023-11-13T10:00:02.994920+00:00
+ - user: None
+ - tags: []
+
+## Prof. Joshua San Miguel - STACS Lab - University of Wisconsin-Madison
+ - [https://jsm.ece.wisc.edu](https://jsm.ece.wisc.edu)
+ - date published: 2023-10-25T19:06:36.281424+00:00
+ - user: None
+ - tags: []
+
+## News from the University of Wisconsin–Madison
+ - [https://news.wisc.edu](https://news.wisc.edu)
+ - date published: 2023-11-12T12:01:17.297435+00:00
+ - user: None
+ - tags: []
+
+## UW Computer Sciences User Pages
+ - [https://pages.cs.wisc.edu](https://pages.cs.wisc.edu)
+ - date published: 2023-10-25T19:06:38.993669+00:00
+ - user: None
+ - tags: []
+
+## WSU Insider
+ - [https://news.wsu.edu](https://news.wsu.edu)
+ - date published: 2023-12-15T11:10:21.420611+00:00
+ - user: None
+ - tags: []
+
+## West Texas A&M University | WTAMU
+ - [https://www.wtamu.edu](https://www.wtamu.edu)
+ - date published: 2023-10-25T19:06:41.753042+00:00
+ - user: None
+ - tags: []
+
+## Washington University School of Medicine in St. Louis
+ - [https://medicine.wustl.edu](https://medicine.wustl.edu)
+ - date published: 2023-10-25T19:06:46.132338+00:00
+ - user: None
+ - tags: []
+
+## The Source | Washington University in St. Louis
+ - [https://source.wustl.edu](https://source.wustl.edu)
+ - date published: 2023-10-25T19:06:49.350674+00:00
+ - user: None
+ - tags: []
+
+## WVU Community Website
+ - [https://community.wvu.edu](https://community.wvu.edu)
+ - date published: 2023-10-25T19:06:50.246651+00:00
+ - user: None
+ - tags: []
+
+## Yale E360
+ - [https://e360.yale.edu](https://e360.yale.edu)
+ - date published: 2023-10-25T19:06:53.110107+00:00
+ - user: None
+ - tags: []
+
+## Energy History – Energy History Online
+ - [https://energyhistory.yale.edu](https://energyhistory.yale.edu)
+ - date published: 2023-11-16T01:58:56.369597+00:00
+ - user: None
+ - tags: []
+
+## YaleNews | Home
+ - [https://news.yale.edu](https://news.yale.edu)
+ - date published: 2023-10-25T19:06:55.320385+00:00
+ - user: None
+ - tags: []
+
+## Yale School Of Public Health
+ - [https://ysph.yale.edu](https://ysph.yale.edu)
+ - date published: 2023-12-12T22:22:14.445515+00:00
+ - user: None
+ - tags: []
+
+## Esileht - Ants Nomm
+ - [https://ano.ee](https://ano.ee)
+ - date published: 2023-10-25T19:06:58.105867+00:00
+ - user: None
+ - tags: []
+
+## Citroen Estonia
+ - [https://www.citroen.ee](https://www.citroen.ee)
+ - date published: 2023-12-11T15:49:58.226163+00:00
+ - user: None
+ - tags: []
+
+## fuzzy notepad
+ - [https://eev.ee](https://eev.ee)
+ - date published: 2023-10-25T08:49:06.921537+00:00
+ - user: None
+ - tags: ['personal']
+
+## news | ERR
+ - [https://news.err.ee](https://news.err.ee)
+ - date published: 2023-10-25T19:07:03.906710+00:00
+ - user: None
+ - tags: []
+
+## Haze Booth
+ - [https://haz.ee](https://haz.ee)
+ - date published: 2023-10-25T19:07:04.320998+00:00
+ - user: None
+ - tags: []
+
+## Jakarta® EE | Cloud Native Enterprise Java | Java EE | the Eclipse Foundation | The Eclipse Foundation
+ - [https://jakarta.ee](https://jakarta.ee)
+ - date published: 2023-10-25T19:07:06.974394+00:00
+ - user: None
+ - tags: []
+
+## Home | Jamie(.ee) Cole
+ - [https://www.jamie.ee](https://www.jamie.ee)
+ - date published: 2023-12-20T01:00:10.771518+00:00
+ - user: None
+ - tags: ['personal']
+
+## lemm.ee - General-purpose Lemmy instance. New users and communities welcome!
+ - [https://lemm.ee](https://lemm.ee)
+ - date published: 2023-10-24T20:14:55.872230+00:00
+ - user: None
+ - tags: []
+
+## Linktree: Link everything you are
+ - [https://linktr.ee](https://linktr.ee)
+ - date published: 2023-10-31T16:18:01.056130+00:00
+ - user: None
+ - tags: []
+
+## Mairedesign masinkudumise koolitus
+ - [https://www.masinkudumine.ee](https://www.masinkudumine.ee)
+ - date published: 2023-11-18T18:28:01.582875+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hello there.
+ - [https://ounapuu.ee](https://ounapuu.ee)
+ - date published: 2023-10-25T08:49:07.717738+00:00
+ - user: None
+ - tags: ['personal']
+
+## Solutional - Agile Software Development Company
+ - [https://solutional.ee](https://solutional.ee)
+ - date published: 2023-10-25T19:07:07.982182+00:00
+ - user: None
+ - tags: []
+
+## e-Residency of Estonia | Apply & start an EU company online
+ - [https://www.e-resident.gov.ee](https://www.e-resident.gov.ee)
+ - date published: 2023-10-25T19:07:11.004930+00:00
+ - user: None
+ - tags: []
+
+## Buttondown
+ - [https://buttondown.email](https://buttondown.email)
+ - date published: 2023-10-25T19:07:12.851726+00:00
+ - user: None
+ - tags: []
+
+## Hired - Job Search Marketplace. Tech Job Hunting Simplified!
+ - [https://pages.hired.email](https://pages.hired.email)
+ - date published: 2023-10-25T19:07:15.214689+00:00
+ - user: None
+ - tags: []
+
+## Tabular — Free email editor to build responsive emails
+ - [https://tabular.email](https://tabular.email)
+ - date published: 2023-10-25T19:07:16.469881+00:00
+ - user: None
+ - tags: []
+
+## Use plaintext email
+ - [https://useplaintext.email](https://useplaintext.email)
+ - date published: 2023-10-25T19:07:18.065331+00:00
+ - user: None
+ - tags: []
+
 ## mastodon.energy
  - [https://mastodon.energy](https://mastodon.energy)
  - date published: 2023-10-25T19:07:20.188942+00:00
@@ -139,6 +421,12 @@
 ## A rarely updated blog  | A rarely updated blog
  - [https://www.j1n.es](https://www.j1n.es)
  - date published: 2023-11-29T17:11:17.265735+00:00
+ - user: None
+ - tags: ['personal']
+
+## Markus Kniebes
+ - [https://knieb.es](https://knieb.es)
+ - date published: 2023-12-22T17:48:22.490078+00:00
  - user: None
  - tags: ['personal']
 
@@ -355,6 +643,12 @@
 ## EquiValent
  - [https://blog.eq8.eu](https://blog.eq8.eu)
  - date published: 2023-10-25T19:10:02.527258+00:00
+ - user: None
+ - tags: []
+
+## European Civil Protection and Humanitarian Aid Operations
+ - [https://civil-protection-humanitarian-aid.ec.europa.eu](https://civil-protection-humanitarian-aid.ec.europa.eu)
+ - date published: 2023-12-22T12:19:59.878101+00:00
  - user: None
  - tags: []
 
@@ -2034,6 +2328,12 @@
  - user: None
  - tags: []
 
+## Labs.Google
+ - [https://labs.google](https://labs.google)
+ - date published: 2023-12-22T02:13:39+00:00
+ - user: None
+ - tags: []
+
 ## Google Open Source
  - [https://opensource.google](https://opensource.google)
  - date published: 2023-12-06T11:17:33+00:00
@@ -3442,9 +3742,21 @@
  - user: None
  - tags: []
 
+## The latest farming news for Irish farmers
+ - [https://www.agriland.ie](https://www.agriland.ie)
+ - date published: 2023-12-22T13:49:56.808642+00:00
+ - user: None
+ - tags: []
+
 ## Brian McGee
  - [https://bmcgee.ie](https://bmcgee.ie)
  - date published: 2023-10-25T19:28:34.867850+00:00
+ - user: None
+ - tags: []
+
+## Irish News | Breaking News from Ireland | BreakingNews.ie
+ - [https://www.breakingnews.ie](https://www.breakingnews.ie)
+ - date published: 2023-12-22T18:37:50.548183+00:00
  - user: None
  - tags: []
 
@@ -3788,6 +4100,12 @@
 ## Latest News, Political News - LIVE TV 24x7 - HW News English - HW News English
  - [https://hwnews.in](https://hwnews.in)
  - date published: 2023-11-26T01:05:49.665881+00:00
+ - user: None
+ - tags: []
+
+## Latest News, Breaking News Today - Entertainment, Cricket, Business, Politics - IndiaToday
+ - [https://www.indiatoday.in](https://www.indiatoday.in)
+ - date published: 2023-12-22T16:22:59.946435+00:00
  - user: None
  - tags: []
 
@@ -5684,324 +6002,6 @@
 ## Garden - The DevOps automation tool for K8s
  - [https://garden.io](https://garden.io)
  - date published: 2023-10-25T19:43:09.096788+00:00
- - user: None
- - tags: []
-
-## Projects | gbdev.io
- - [https://gbdev.io](https://gbdev.io)
- - date published: 2023-11-23T13:34:21.914417+00:00
- - user: None
- - tags: []
-
-## 2D and 3D Game-Making App | Free and Easy to Use | GDevelop
- - [https://gdevelop.io](https://gdevelop.io)
- - date published: 2023-10-25T19:43:11.960036+00:00
- - user: None
- - tags: []
-
-## Convoy
- - [https://getconvoy.io](https://getconvoy.io)
- - date published: 2023-10-25T19:43:14.580849+00:00
- - user: None
- - tags: []
-
-## Daft Blog | Sammy Sidhu | Substack
- - [https://blog.getdaft.io](https://blog.getdaft.io)
- - date published: 2023-10-25T19:43:16.770689+00:00
- - user: None
- - tags: []
-
-## Scalable Feeds & Chat - Powerful APIs and Components by Stream
- - [https://getstream.io](https://getstream.io)
- - date published: 2023-10-25T19:43:19.021581+00:00
- - user: None
- - tags: []
-
-## About the docs | Unleash
- - [https://docs.getunleash.io](https://docs.getunleash.io)
- - date published: 2023-10-25T19:43:20.921880+00:00
- - user: None
- - tags: []
-
-## One from Nippon
- - [https://one-from-nippon.ghost.io](https://one-from-nippon.ghost.io)
- - date published: 2023-10-25T19:43:22.404656+00:00
- - user: None
- - tags: []
-
-## Ghostfolio – Open Source Wealth Management Software
- - [https://ghostfol.io](https://ghostfol.io)
- - date published: 2023-10-25T19:43:23.662694+00:00
- - user: None
- - tags: []
-
-## GhostLabel | Online Food & Beverage Manufacturing
- - [https://www.ghostlabel.io](https://www.ghostlabel.io)
- - date published: 2023-10-25T19:43:24.941611+00:00
- - user: None
- - tags: []
-
-## Learn to use email with git!
- - [https://git-send-email.io](https://git-send-email.io)
- - date published: 2023-10-25T19:43:27.077574+00:00
- - user: None
- - tags: []
-
-## The Internals of Deno - The Internals of Deno
- - [https://choubey.gitbook.io](https://choubey.gitbook.io)
- - date published: 2023-10-25T19:43:30.635169+00:00
- - user: None
- - tags: []
-
-## Introduction - mostly-adequate-guide
- - [https://mostly-adequate.gitbook.io](https://mostly-adequate.gitbook.io)
- - date published: 2023-10-25T19:43:33.052682+00:00
- - user: None
- - tags: []
-
-## GitBook
- - [https://musicq.gitbook.io](https://musicq.gitbook.io)
- - date published: 2023-10-31T05:58:25.964810+00:00
- - user: None
- - tags: []
-
-## Home - Morrowind++
- - [https://r-fuzzo.gitbook.io](https://r-fuzzo.gitbook.io)
- - date published: 2023-10-25T11:17:42.096564+00:00
- - user: None
- - tags: []
-
-## Introduction - 0xTriboulet
- - [https://steve-s.gitbook.io](https://steve-s.gitbook.io)
- - date published: 2023-10-25T19:43:36.041961+00:00
- - user: None
- - tags: []
-
-## Page Not Found · GitBook (Legacy)
- - [https://kelu124.gitbooks.io](https://kelu124.gitbooks.io)
- - date published: 2023-10-25T19:43:37.250130+00:00
- - user: None
- - tags: []
-
-## Blog | Gitea Blog
- - [https://blog.gitea.io](https://blog.gitea.io)
- - date published: 2023-10-25T19:43:39.096298+00:00
- - user: None
- - tags: []
-
-## Sign in · GitLab
- - [https://gitgud.io](https://gitgud.io)
- - date published: 2023-12-20T17:38:47.271579+00:00
- - user: None
- - tags: []
-
-## 152334H
- - [https://152334H.github.io](https://152334H.github.io)
- - date published: 2023-10-25T19:43:39.775300+00:00
- - user: None
- - tags: []
-
-## Novel View Synthesis with Diffusion Models
- - [https://3d-diffusion.github.io](https://3d-diffusion.github.io)
- - date published: 2023-10-25T19:43:40.520175+00:00
- - user: None
- - tags: []
-
-## Redirecting to https://example.com/
- - [https://a-sumo.github.io](https://a-sumo.github.io)
- - date published: 2023-10-25T19:43:41.602280+00:00
- - user: None
- - tags: []
-
-## Abenomicon
- - [https://abe-winter.github.io](https://abe-winter.github.io)
- - date published: 2023-10-25T19:43:42.464970+00:00
- - user: None
- - tags: []
-
-## ACL 2023 Tutorial: Retrieval-based LMs and Applications
- - [https://acl2023-retrieval-lm.github.io](https://acl2023-retrieval-lm.github.io)
- - date published: 2023-10-25T19:43:43.545210+00:00
- - user: None
- - tags: []
-
-## Adam | Blog
- - [https://adam-mcdaniel-blog.github.io](https://adam-mcdaniel-blog.github.io)
- - date published: 2023-10-25T19:43:44.256076+00:00
- - user: None
- - tags: []
-
-## Adam Walker –
- - [https://adamwalker.github.io](https://adamwalker.github.io)
- - date published: 2023-10-25T19:43:44.982423+00:00
- - user: None
- - tags: []
-
-## Aditya’s Digital Home
- - [https://adityam582.github.io](https://adityam582.github.io)
- - date published: 2023-12-20T11:45:53.860191+00:00
- - user: None
- - tags: ['personal']
-
-## Blog Needs a Name
- - [https://ahgamut.github.io](https://ahgamut.github.io)
- - date published: 2023-10-25T19:43:45.510593+00:00
- - user: None
- - tags: []
-
-## Muzic
- - [https://ai-muzic.github.io](https://ai-muzic.github.io)
- - date published: 2023-10-25T19:43:51.140835+00:00
- - user: None
- - tags: []
-
-## Akshat Vaidya
- - [https://akshat24.github.io](https://akshat24.github.io)
- - date published: 2023-11-29T17:08:44.685880+00:00
- - user: None
- - tags: ['personal']
-
-## Akusius GitHub pages
- - [https://akusius.github.io](https://akusius.github.io)
- - date published: 2023-10-25T19:43:51.617304+00:00
- - user: None
- - tags: []
-
-## Alastair Reid – Researcher at Intel
- - [https://alastairreid.github.io](https://alastairreid.github.io)
- - date published: 2023-10-25T19:43:53.808650+00:00
- - user: None
- - tags: []
-
-## Technical blog by Alexander Ameye.
- - [https://alexanderameye.github.io](https://alexanderameye.github.io)
- - date published: 2023-10-25T19:43:55.068220+00:00
- - user: None
- - tags: []
-
-## Alex Anderson
- - [https://alexanderganderson.github.io](https://alexanderganderson.github.io)
- - date published: 2023-10-25T19:43:55.830822+00:00
- - user: None
- - tags: []
-
-## Alex's occasional blog posts
- - [https://alexandruburlacu.github.io](https://alexandruburlacu.github.io)
- - date published: 2023-10-25T19:43:56.682068+00:00
- - user: None
- - tags: []
-
-## Alexxcon's Software Development Blog
- - [https://alexxcons.github.io](https://alexxcons.github.io)
- - date published: 2023-10-25T19:43:57.264621+00:00
- - user: None
- - tags: []
-
-## alexyorke.github.io
- - [https://alexyorke.github.io](https://alexyorke.github.io)
- - date published: 2023-10-25T19:43:57.772325+00:00
- - user: None
- - tags: []
-
-## Algoritmos III | Sitio web del curso Leveroni de Algoritmos y Programación 3 (7507/9502)
- - [https://algoritmos-iii.github.io](https://algoritmos-iii.github.io)
- - date published: 2023-10-25T19:43:58.417680+00:00
- - user: None
- - tags: []
-
-## Every Man a Debtor
- - [https://alok.github.io](https://alok.github.io)
- - date published: 2023-10-25T19:43:59.118164+00:00
- - user: None
- - tags: []
-
-## Romes' Musings
- - [https://alt-romes.github.io](https://alt-romes.github.io)
- - date published: 2023-10-25T19:43:59.879415+00:00
- - user: None
- - tags: []
-
-## ambiso's blog
- - [https://ambiso.github.io](https://ambiso.github.io)
- - date published: 2023-10-25T19:44:00.528497+00:00
- - user: None
- - tags: []
-
-## Crash Lime Home
- - [https://animaomnium.github.io](https://animaomnium.github.io)
- - date published: 2023-10-25T19:44:01.370346+00:00
- - user: None
- - tags: []
-
-## The cake is a lie...
- - [https://anrei0000.github.io](https://anrei0000.github.io)
- - date published: 2023-12-03T09:19:08.479019+00:00
- - user: None
- - tags: ['personal']
-
-## Antonio Loquercio personal Website
- - [https://antonilo.github.io](https://antonilo.github.io)
- - date published: 2023-10-25T19:44:02.367860+00:00
- - user: None
- - tags: []
-
-## ~/ Anurag Peshne
- - [https://anuragpeshne.github.io](https://anuragpeshne.github.io)
- - date published: 2023-12-12T07:04:48.534236+00:00
- - user: None
- - tags: ['personal']
-
-## Home - AOLserver
- - [https://aolserver.github.io](https://aolserver.github.io)
- - date published: 2023-10-25T19:44:03.089532+00:00
- - user: None
- - tags: []
-
-## index.html
- - [https://appimage.github.io](https://appimage.github.io)
- - date published: 2023-10-24T20:10:38.543038+00:00
- - user: None
- - tags: ['app store']
-
-## Aref Malek
- - [https://arefmalek.github.io](https://arefmalek.github.io)
- - date published: 2023-12-15T11:11:35.993710+00:00
- - user: None
- - tags: []
-
-## Ariel Miculas – Software Engineer at Cisco
- - [https://ariel-miculas.github.io](https://ariel-miculas.github.io)
- - date published: 2023-10-25T08:59:07.299630+00:00
- - user: None
- - tags: ['personal']
-
-## Arman's (Wild) Digital Garden
- - [https://armanjindal.github.io](https://armanjindal.github.io)
- - date published: 2023-12-20T19:15:57.276153+00:00
- - user: None
- - tags: ['personal']
-
-## CPU Cycles Maniac
- - [https://arnaud-carre.github.io](https://arnaud-carre.github.io)
- - date published: 2023-10-25T19:44:03.770701+00:00
- - user: None
- - tags: []
-
-## Brilliantly wrong (blog by Alex Rogozhnikov)
- - [https://arogozhnikov.github.io](https://arogozhnikov.github.io)
- - date published: 2023-10-25T19:44:05.292498+00:00
- - user: None
- - tags: []
-
-## Artsy Engineering
- - [https://artsy.github.io](https://artsy.github.io)
- - date published: 2023-10-25T19:44:06.376349+00:00
- - user: None
- - tags: []
-
-## ajkprojects
- - [https://asnewman.github.io](https://asnewman.github.io)
- - date published: 2023-10-25T19:44:17.841483+00:00
  - user: None
  - tags: []
 

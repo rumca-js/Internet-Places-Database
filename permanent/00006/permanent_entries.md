@@ -1,3 +1,165 @@
+## Games and mods development for Windows, Linux and Mac - Mod DB
+ - [https://www.moddb.com](https://www.moddb.com)
+ - date published: 2023-10-25T11:09:37.572465+00:00
+ - user: None
+ - tags: ['game mods']
+
+## Welcome | Modding OpenMW: A guide to modding and modernizing Morrowind with OpenMW
+ - [https://modding-openmw.com](https://modding-openmw.com)
+ - date published: 2023-10-25T11:16:48.373285+00:00
+ - user: None
+ - tags: ['open source', 'the elder scrolls']
+
+## Ozmo
+ - [https://fi.sds.modeaondemand.com](https://fi.sds.modeaondemand.com)
+ - date published: 2023-10-25T16:05:36.500010+00:00
+ - user: None
+ - tags: []
+
+## Modern SQL: A lot has changed since SQL-92
+ - [https://modern-sql.com](https://modern-sql.com)
+ - date published: 2023-10-25T16:05:37.782237+00:00
+ - user: None
+ - tags: []
+
+## Home - Modern CSV
+ - [https://www.moderncsv.com](https://www.moderncsv.com)
+ - date published: 2023-10-25T16:05:39.699562+00:00
+ - user: None
+ - tags: []
+
+## Brian Lee's Website
+ - [https://www.moderndescartes.com](https://www.moderndescartes.com)
+ - date published: 2023-10-25T16:05:43.508519+00:00
+ - user: None
+ - tags: []
+
+## MC++ BLOG – Der Blog für Modernes C++ von Rainer Grimm
+ - [https://modernescpp.com](https://modernescpp.com)
+ - date published: 2023-10-25T16:05:47.749861+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Modern Farmer
+ - [https://modernfarmer.com](https://modernfarmer.com)
+ - date published: 2023-10-25T10:50:56.136058+00:00
+ - user: None
+ - tags: []
+
+## Modern Font Stacks
+ - [https://modernfontstacks.com](https://modernfontstacks.com)
+ - date published: 2023-10-25T16:05:50.332208+00:00
+ - user: None
+ - tags: []
+
+## Modern for Hacker News
+ - [https://www.modernhn.com](https://www.modernhn.com)
+ - date published: 2023-10-25T16:05:51.568528+00:00
+ - user: None
+ - tags: []
+
+## Money Movement APIs | Modern Treasury | ACH, RTP, Wires and more payment methods
+ - [https://www.moderntreasury.com](https://www.moderntreasury.com)
+ - date published: 2023-10-25T16:05:53.474763+00:00
+ - user: None
+ - tags: []
+
+## Modrinth
+ - [https://modrinth.com](https://modrinth.com)
+ - date published: 2023-10-25T11:16:51.066359+00:00
+ - user: None
+ - tags: []
+
+## Modular Docs
+ - [https://docs.modular.com](https://docs.modular.com)
+ - date published: 2023-10-25T16:05:54.312316+00:00
+ - user: None
+ - tags: []
+
+## Modular: AI development starts here
+ - [https://www.modular.com](https://www.modular.com)
+ - date published: 2023-10-25T16:05:56.151309+00:00
+ - user: None
+ - tags: []
+
+## Mojeek
+ - [https://www.mojeek.com](https://www.mojeek.com)
+ - date published: 2023-10-25T09:07:25.783266+00:00
+ - user: None
+ - tags: []
+
+## Momekh.com - home of disciplined creativity - Momekh.com
+ - [https://momekh.com](https://momekh.com)
+ - date published: 2023-12-03T15:55:30.572760+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | Monadical Consulting
+ - [https://monadical.com](https://monadical.com)
+ - date published: 2023-10-25T16:05:58.077632+00:00
+ - user: None
+ - tags: []
+
+## Monad Monkey
+ - [https://monadmonkey.com](https://monadmonkey.com)
+ - date published: 2023-10-25T16:05:58.559782+00:00
+ - user: None
+ - tags: []
+
+## Belmont Ammunition | Belmont Ammunition
+ - [https://www.monaharaty.com](https://www.monaharaty.com)
+ - date published: 2023-12-17T20:59:14.047846+00:00
+ - user: None
+ - tags: ['personal']
+
+## George Monbiot
+ - [https://www.monbiot.com](https://www.monbiot.com)
+ - date published: 2023-10-28T15:38:01.543527+00:00
+ - user: None
+ - tags: []
+
+## Monday Note
+ - [https://mondaynote.com](https://mondaynote.com)
+ - date published: 2023-10-25T16:06:02.801355+00:00
+ - user: None
+ - tags: []
+
+## Money: Create Richer Lives for Everyone | Money
+ - [https://money.com](https://money.com)
+ - date published: 2023-10-25T10:52:33.649820+00:00
+ - user: None
+ - tags: []
+
+## Login Consent - Moneycontrol
+ - [https://www.moneycontrol.com](https://www.moneycontrol.com)
+ - date published: 2023-10-25T16:06:05.568468+00:00
+ - user: None
+ - tags: []
+
+## Home | Meaningful Money | Meaning/Purpose Financial Psychology
+ - [https://www.moneyhealthsolutions.com](https://www.moneyhealthsolutions.com)
+ - date published: 2023-12-15T21:45:04.521840+00:00
+ - user: None
+ - tags: ['personal']
+
+## Money Inc - The Business of Money
+ - [https://moneyinc.com](https://moneyinc.com)
+ - date published: 2023-10-25T16:06:09.228395+00:00
+ - user: None
+ - tags: []
+
+## MoneyWeek | Investment advice, analysis, finance news
+ - [https://moneyweek.com](https://moneyweek.com)
+ - date published: 2023-10-25T16:06:15.176047+00:00
+ - user: None
+ - tags: []
+
+## https://moneywise.com
+ - [https://moneywise.com](https://moneywise.com)
+ - date published: 2023-10-25T16:06:15.474941+00:00
+ - user: None
+ - tags: []
+
 ## Conservation news - Environmental science and conservation news
  - [https://news.mongabay.com](https://news.mongabay.com)
  - date published: 2023-10-25T16:06:20.302376+00:00
@@ -555,6 +717,12 @@
  - date published: 2023-12-03T09:19:33.315226+00:00
  - user: None
  - tags: ['personal']
+
+## Columbus News, Weather, Sports, Breaking News | WTTE
+ - [https://myfox28columbus.com](https://myfox28columbus.com)
+ - date published: 2023-12-22T15:48:21.919825+00:00
+ - user: None
+ - tags: []
 
 ## Japanese Green Tea
  - [https://www.myjapanesegreentea.com](https://www.myjapanesegreentea.com)
@@ -1411,6 +1579,12 @@
 ## New Scientist | Science news, articles, and features
  - [https://www.newscientist.com](https://www.newscientist.com)
  - date published: 2023-10-25T10:10:38.374883+00:00
+ - user: None
+ - tags: []
+
+## Daily News - Your daily dose of news today. Download the app to join us! 🚀🌟
+ - [https://www.newsdoes.com](https://www.newsdoes.com)
+ - date published: 2023-12-22T15:50:51.479649+00:00
  - user: None
  - tags: []
 
@@ -3946,6 +4120,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Home
+ - [https://www.paudal.com](https://www.paudal.com)
+ - date published: 2023-12-22T12:44:01.911776+00:00
+ - user: None
+ - tags: []
+
 ## Paul Graham AI
  - [https://www.paulgrahamai.com](https://www.paulgrahamai.com)
  - date published: 2023-10-25T16:31:25.983543+00:00
@@ -3967,6 +4147,12 @@ Answering Machine Greetings!
 ## Paul Onteri
  - [https://paulonteri.com](https://paulonteri.com)
  - date published: 2023-12-12T07:04:24.427551+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paul Pedrazzi
+ - [https://paulpedrazzi.com](https://paulpedrazzi.com)
+ - date published: 2023-12-22T17:48:50.877726+00:00
  - user: None
  - tags: ['personal']
 
@@ -5818,192 +6004,6 @@ Answering Machine Greetings!
 ## Home
  - [https://proofinprogress.com](https://proofinprogress.com)
  - date published: 2023-10-25T16:41:18.158124+00:00
- - user: None
- - tags: []
-
-## PropelAuth - Authentication for B2B products
- - [https://www.propelauth.com](https://www.propelauth.com)
- - date published: 2023-10-25T16:41:18.880289+00:00
- - user: None
- - tags: []
-
-## Built Not Found
- - [https://builtnotfound.proseful.com](https://builtnotfound.proseful.com)
- - date published: 2023-11-20T17:03:55.993393+00:00
- - user: None
- - tags: []
-
-## Protestia - Cataloging theological mischief-makers since 2012
- - [https://protestia.com](https://protestia.com)
- - date published: 2023-10-25T16:41:23.412134+00:00
- - user: None
- - tags: []
-
-## Protocol — The people, power and politics of tech
- - [https://www.protocol.com](https://www.protocol.com)
- - date published: 2023-10-25T16:41:26.733468+00:00
- - user: None
- - tags: []
-
-## Construct
- - [https://www.protoconstruct.com](https://www.protoconstruct.com)
- - date published: 2023-11-13T02:40:11.490385+00:00
- - user: None
- - tags: []
-
-## Protohackers
- - [https://protohackers.com](https://protohackers.com)
- - date published: 2023-10-25T16:41:27.305437+00:00
- - user: None
- - tags: []
-
-## Protomaps | A free and open source map of the world
- - [https://protomaps.com](https://protomaps.com)
- - date published: 2023-10-25T16:41:28.228678+00:00
- - user: None
- - tags: []
-
-## https://www.protondb.com
- - [https://www.protondb.com](https://www.protondb.com)
- - date published: 2023-10-25T11:09:42.837027+00:00
- - user: None
- - tags: ['ranking']
-
-## Web Scraping Proxies API for Developers
- - [https://proxiesapi.com](https://proxiesapi.com)
- - date published: 2023-10-25T16:41:35.399356+00:00
- - user: None
- - tags: []
-
-## Proxmox Support Forum
- - [https://forum.proxmox.com](https://forum.proxmox.com)
- - date published: 2023-10-25T16:41:37.471688+00:00
- - user: None
- - tags: []
-
-## Original Prusa 3D Printers - Company Blog
- - [https://blog.prusa3d.com](https://blog.prusa3d.com)
- - date published: 2023-10-25T16:41:40.917085+00:00
- - user: None
- - tags: []
-
-## Original Prusa 3D printers directly from Josef Prusa
- - [https://www.prusa3d.com](https://www.prusa3d.com)
- - date published: 2023-10-25T16:41:52.919701+00:00
- - user: None
- - tags: []
-
-## Landing Page - PS3 Developer wiki
- - [https://www.psdevwiki.com](https://www.psdevwiki.com)
- - date published: 2023-11-06T09:59:44.183787+00:00
- - user: None
- - tags: ['playstation']
-
-## psmag.com
- - [https://psmag.com](https://psmag.com)
- - date published: 2023-10-25T16:41:53.210507+00:00
- - user: None
- - tags: []
-
-## PSX-Place
- - [https://www.psx-place.com](https://www.psx-place.com)
- - date published: 2023-10-25T09:34:56.045667+00:00
- - user: None
- - tags: []
-
-## Psychedelic Science Review
- - [https://psychedelicreview.com](https://psychedelicreview.com)
- - date published: 2023-10-25T16:41:56.377800+00:00
- - user: None
- - tags: []
-
-## Psychology Today: Health, Help, Happiness + Find a Therapist
- - [https://cdn2.psychologytoday.com](https://cdn2.psychologytoday.com)
- - date published: 2023-10-25T16:42:01.070092+00:00
- - user: None
- - tags: []
-
-## Psychology Today: Health, Help, Happiness + Find a Therapist
- - [https://www.psychologytoday.com](https://www.psychologytoday.com)
- - date published: 2023-10-25T16:42:05.464319+00:00
- - user: None
- - tags: []
-
-## Psytrance Guide
- - [https://psytranceguide.com](https://psytranceguide.com)
- - date published: 2023-10-25T11:13:51.201935+00:00
- - user: None
- - tags: []
-
-## PSYOP PSYOPS PSYWAR Psychological Operations Psychological Warfare
- - [https://www.psywarrior.com](https://www.psywarrior.com)
- - date published: 2023-10-25T16:42:06.293643+00:00
- - user: None
- - tags: []
-
-## ptrchm
- - [https://ptrchm.com](https://ptrchm.com)
- - date published: 2023-12-17T17:43:33.561774+00:00
- - user: None
- - tags: []
-
-## Chambersburg Breaking News, Sports, Weather, Traffic - Chambersburg Public Opinion
- - [https://eu.publicopiniononline.com](https://eu.publicopiniononline.com)
- - date published: 2023-10-25T16:42:09.010556+00:00
- - user: None
- - tags: []
-
-## Book Reviews, Bestselling Books & Publishing Business News | Publishers Weekly
- - [https://www.publishersweekly.com](https://www.publishersweekly.com)
- - date published: 2023-10-31T20:17:32.697765+00:00
- - user: None
- - tags: []
-
-## PUFFBUNNY STUDIO
- - [https://www.puffbunnystudio.com](https://www.puffbunnystudio.com)
- - date published: 2023-11-08T04:36:44.784840+00:00
- - user: None
- - tags: []
-
-## America's Custom Workstation Leader | Puget Systems
- - [https://www.pugetsystems.com](https://www.pugetsystems.com)
- - date published: 2023-10-25T16:42:14.792651+00:00
- - user: None
- - tags: []
-
-## Pulpflakes
- - [https://pulpflakes.com](https://pulpflakes.com)
- - date published: 2023-11-16T12:13:53.296510+00:00
- - user: None
- - tags: []
-
-## Pulumi - Infrastructure as Code in Any Programming Language
- - [https://www.pulumi.com](https://www.pulumi.com)
- - date published: 2023-10-25T16:42:16.113122+00:00
- - user: None
- - tags: []
-
-## Punch newspapers - Breaking News, Nigerian News & Top Stories
- - [https://punchng.com](https://punchng.com)
- - date published: 2023-10-25T10:15:32.859277+00:00
- - user: None
- - tags: []
-
-## Punctuation Matters – Punctuation: Important for academic and published writing. Not a bad idea if you just want to be understood.
- - [https://www.punctuationmatters.com](https://www.punctuationmatters.com)
- - date published: 2023-10-25T16:42:20.055212+00:00
- - user: None
- - tags: []
-
-## PuppyCoding – Friendly Python & AI tutorials for beginner & intermediate programmers.
- - [https://puppycoding.com](https://puppycoding.com)
- - date published: 2023-10-25T16:42:23.120169+00:00
- - user: None
- - tags: []
-
-## PureClean Performance, Live Elevated, Buy Trusted Quality Supplements
- - [https://purecleanperformance.com](https://purecleanperformance.com)
- - date published: 2023-11-26T14:31:11.905931+00:00
  - user: None
  - tags: []
 

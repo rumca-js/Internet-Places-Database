@@ -1,3 +1,69 @@
+## The Official David Hasselhoff Website | Everything David To Hoffinity & Beyond!
+ - [https://davidhasselhoffonline.com](https://davidhasselhoffonline.com)
+ - date published: 2023-11-13T09:52:52.903921+00:00
+ - user: None
+ - tags: ['vip', 'celebrity']
+
+## David Nebinski
+ - [https://www.davidnebinski.com](https://www.davidnebinski.com)
+ - date published: 2023-12-08T08:33:25.745211+00:00
+ - user: None
+ - tags: ['personal']
+
+## DAVID PALMER STUDIO | Los Angeles artist David Palmer
+ - [https://davidpalmerstudio.com](https://davidpalmerstudio.com)
+ - date published: 2023-12-14T01:19:36.395261+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - David Porkka
+ - [https://www.davidporkka.com](https://www.davidporkka.com)
+ - date published: 2023-12-03T09:19:29.134316+00:00
+ - user: None
+ - tags: ['personal']
+
+## David Revoy - Artist, Instructor, using only Free/Libre and Open-Source software since 2009.
+ - [https://www.davidrevoy.com](https://www.davidrevoy.com)
+ - date published: 2023-11-01T20:29:59.322741+00:00
+ - user: None
+ - tags: []
+
+## David R Munson, Photographer | Saitama, Japan
+ - [https://www.davidrmunson.com](https://www.davidrmunson.com)
+ - date published: 2023-11-29T14:43:59.539466+00:00
+ - user: None
+ - tags: ['personal']
+
+## DSri Seah – Investigative Designer
+ - [https://davidseah.com](https://davidseah.com)
+ - date published: 2023-10-25T13:45:51.877615+00:00
+ - user: None
+ - tags: []
+
+## Jacob Davis-Hansson
+ - [https://tech.davis-hansson.com](https://tech.davis-hansson.com)
+ - date published: 2023-10-25T13:45:54.239801+00:00
+ - user: None
+ - tags: []
+
+## Great Transformations | Davis Kedrosky | Substack
+ - [https://blog.daviskedrosky.com](https://blog.daviskedrosky.com)
+ - date published: 2023-10-25T13:46:04.389863+00:00
+ - user: None
+ - tags: []
+
+## Home - DAWN.COM
+ - [https://www.dawn.com](https://www.dawn.com)
+ - date published: 2023-10-31T19:10:41.022686+00:00
+ - user: None
+ - tags: ['pakistan news']
+
+## Dayne Herren – Copywriter | Online Marketer | Coffee Lover
+ - [https://www.dayneherren.com](https://www.dayneherren.com)
+ - date published: 2023-12-20T14:33:38.208274+00:00
+ - user: None
+ - tags: ['personal']
+
 ## GDPR Support
  - [https://www.daytondailynews.com](https://www.daytondailynews.com)
  - date published: 2023-11-05T04:28:19.630117+00:00
@@ -1270,6 +1336,12 @@
  - date published: 2023-10-25T14:24:29.697003+00:00
  - user: None
  - tags: []
+
+## Dr. Doug Belshaw | Open Strategist
+ - [https://dougbelshaw.com](https://dougbelshaw.com)
+ - date published: 2023-12-22T17:47:45.891466+00:00
+ - user: None
+ - tags: ['personal']
 
 ## The Douglas Self Site
  - [http://www.douglas-self.com](http://www.douglas-self.com)
@@ -2591,6 +2663,12 @@
  - user: rumpel
  - tags: ['personal']
 
+## Entrepreneurs on Fire with John Lee Dumas | Daily Business Podcast Interviews
+ - [https://www.eofire.com](https://www.eofire.com)
+ - date published: 2023-12-22T22:32:03.581724+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Entertainment News, Celebrity News, Celebrity Gossip - E! Online
  - [https://www.eonline.com](https://www.eonline.com)
  - date published: 2023-10-25T10:51:17.322617+00:00
@@ -3041,6 +3119,12 @@
  - user: None
  - tags: []
 
+## Evan Mullins – circlecube.com
+ - [https://evanmullins.com](https://evanmullins.com)
+ - date published: 2023-12-22T17:48:37.499297+00:00
+ - user: None
+ - tags: ['personal']
+
 ## EvanPlaice.com
  - [https://evanplaice.com](https://evanplaice.com)
  - date published: 2023-11-29T14:25:13.116814+00:00
@@ -3392,6 +3476,12 @@
 ## Factorio
  - [https://www.factorio.com](https://www.factorio.com)
  - date published: 2023-10-25T08:39:39.486807+00:00
+ - user: None
+ - tags: []
+
+## Facts and Details
+ - [https://factsanddetails.com](https://factsanddetails.com)
+ - date published: 2023-12-22T07:45:44.024955+00:00
  - user: None
  - tags: []
 
@@ -4847,6 +4937,12 @@
  - user: None
  - tags: []
 
+## FOX 8 WVUE-TV in New Orleans
+ - [https://www.fox8live.com](https://www.fox8live.com)
+ - date published: 2023-12-22T03:35:05.796458+00:00
+ - user: None
+ - tags: []
+
 ## FOX 9 Minneapolis-St. Paul
  - [https://www.fox9.com](https://www.fox9.com)
  - date published: 2023-10-25T11:04:58.976088+00:00
@@ -5901,102 +5997,6 @@
 ## Chestr | A Universal Shopping Wishlist App
  - [https://www.getchestr.com](https://www.getchestr.com)
  - date published: 2023-11-03T20:33:09.165027+00:00
- - user: None
- - tags: []
-
-## clearspace blog
- - [https://blog.getclearspace.com](https://blog.getclearspace.com)
- - date published: 2023-10-25T14:43:21.833347+00:00
- - user: None
- - tags: []
-
-## Clearspace - Eliminate Digital Distractions
- - [https://www.getclearspace.com](https://www.getclearspace.com)
- - date published: 2023-10-25T14:43:23.234589+00:00
- - user: None
- - tags: []
-
-## CSS Scan - The fastest and easiest way to check and copy CSS
- - [https://getcssscan.com](https://getcssscan.com)
- - date published: 2023-10-25T14:43:24.639628+00:00
- - user: None
- - tags: []
-
-## dbt Labs | Transform Data in Your Warehouse
- - [https://www.getdbt.com](https://www.getdbt.com)
- - date published: 2023-10-25T14:43:26.088176+00:00
- - user: None
- - tags: []
-
-## Rebrandly
- - [https://i.getdifree.com](https://i.getdifree.com)
- - date published: 2023-12-21T03:33:16.873884+00:00
- - user: None
- - tags: ['personal']
-
-## Speak to a Doctor About a Rapamycin for Longevity Protocol and Prescription
- - [https://gethealthspan.com](https://gethealthspan.com)
- - date published: 2023-10-25T14:43:33.041708+00:00
- - user: None
- - tags: []
-
-## Jerry AllCar™ App: Get Car Insurance, Loan Refinance, Repair Estimates, Driving Score and more.
- - [https://getjerry.com](https://getjerry.com)
- - date published: 2023-10-25T14:43:37.323817+00:00
- - user: None
- - tags: []
-
-## Lago - Open Source Metering & Usage-Based Billing
- - [https://www.getlago.com](https://www.getlago.com)
- - date published: 2023-10-25T14:43:39.842339+00:00
- - user: None
- - tags: []
-
-## Pinbot
- - [https://getpinbot.com](https://getpinbot.com)
- - date published: 2023-10-25T14:43:40.159736+00:00
- - user: None
- - tags: []
-
-## Pocket: Home
- - [https://getpocket.com](https://getpocket.com)
- - date published: 2023-10-25T14:43:41.211280+00:00
- - user: None
- - tags: []
-
-## GetWaitlist | Waitlist Software with Referral and Email Marketing
- - [https://getwaitlist.com](https://getwaitlist.com)
- - date published: 2023-10-25T14:43:42.184167+00:00
- - user: None
- - tags: []
-
-## WP-Optimize | WordPress Performance Plugin - WP-Optimize
- - [https://getwpo.com](https://getwpo.com)
- - date published: 2023-12-11T18:58:35.920934+00:00
- - user: None
- - tags: []
-
-## GGather
- - [https://web.ggather.com](https://web.ggather.com)
- - date published: 2023-11-26T16:45:54+00:00
- - user: rumpel
- - tags: ['bookmark manager']
-
-## Georgi Gerganov's Home Page
- - [https://ggerganov.com](https://ggerganov.com)
- - date published: 2023-11-02T14:14:54.310461+00:00
- - user: None
- - tags: []
-
-## whisper.cpp : WASM example
- - [https://whisper.ggerganov.com](https://whisper.ggerganov.com)
- - date published: 2023-10-25T14:43:42.773615+00:00
- - user: None
- - tags: []
-
-## GGRecon | Your Gaming & Esports Community
- - [https://www.ggrecon.com](https://www.ggrecon.com)
- - date published: 2023-10-25T14:43:46.483344+00:00
  - user: None
  - tags: []
 

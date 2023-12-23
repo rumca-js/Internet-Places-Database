@@ -886,6 +886,12 @@
  - user: None
  - tags: []
 
+## Mid Journey AI
+ - [https://mid-journey.ai](https://mid-journey.ai)
+ - date published: 2023-12-22T14:57:29.032690+00:00
+ - user: None
+ - tags: []
+
 ## mimicry
  - [https://www.mimicry.ai](https://www.mimicry.ai)
  - date published: 2023-10-25T11:40:01.529293+00:00
@@ -2644,6 +2650,12 @@
  - user: None
  - tags: []
 
+## Hermanns Guns
+ - [https://hermannsguns.com.au](https://hermannsguns.com.au)
+ - date published: 2023-12-22T08:11:12.058997+00:00
+ - user: None
+ - tags: []
+
 ## The Inside Adviser | Brilliant Investment Thinking by Advisers for Advisers
  - [https://insideadviser.com.au](https://insideadviser.com.au)
  - date published: 2023-10-25T11:55:01.402649+00:00
@@ -2980,6 +2992,12 @@
  - user: None
  - tags: ['music band']
 
+## Home – Zvi Band | Zvi Band
+ - [http://zvi.band](http://zvi.band)
+ - date published: 2023-12-22T22:31:24.610066+00:00
+ - user: None
+ - tags: ['personal']
+
 ## https://saucecode.bar
  - [https://saucecode.bar](https://saucecode.bar)
  - date published: 2023-10-25T11:58:38.009438+00:00
@@ -3093,6 +3111,12 @@
  - date published: 2023-10-25T11:59:20.700704+00:00
  - user: None
  - tags: []
+
+## Home: New - Shakalaka
+ - [http://shakalaka.be](http://shakalaka.be)
+ - date published: 2023-12-22T22:29:41.716940+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Steffest - web developer
  - [https://www.stef.be](https://www.stef.be)
@@ -4354,6 +4378,12 @@
  - date published: 2023-10-25T09:02:41.915700+00:00
  - user: None
  - tags: ['personal']
+
+## Mastodon
+ - [https://social.jvns.ca](https://social.jvns.ca)
+ - date published: 2023-12-22T05:12:37.826236+00:00
+ - user: None
+ - tags: []
 
 ## Kevin Cox
  - [https://kevincox.ca](https://kevincox.ca)
@@ -5969,34 +5999,4 @@
  - date published: 2023-10-25T09:07:54.432482+00:00
  - user: None
  - tags: ['personal']
-
-## Ketan Joshi – Climate and energy, words and pictures
- - [https://ketanjoshi.co](https://ketanjoshi.co)
- - date published: 2023-10-25T12:19:11.534583+00:00
- - user: None
- - tags: []
-
-## Klang Magazine
- - [https://klangmag.co](https://klangmag.co)
- - date published: 2023-10-25T11:13:33.897425+00:00
- - user: None
- - tags: []
-
-## Lever | Recruiting Software for Today's Hiring Teams
- - [https://jobs.lever.co](https://jobs.lever.co)
- - date published: 2023-10-25T08:25:27.198036+00:00
- - user: None
- - tags: []
-
-## Top 70,000 Educational YouTube Channels Organized By Category
- - [https://limnology.co](https://limnology.co)
- - date published: 2023-10-25T09:27:34.358299+00:00
- - user: None
- - tags: []
-
-## Lioness | Media Company
- - [https://www.lioness.co](https://www.lioness.co)
- - date published: 2023-10-25T12:19:19.819218+00:00
- - user: None
- - tags: []
 

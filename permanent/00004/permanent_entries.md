@@ -1,3 +1,99 @@
+## clearspace blog
+ - [https://blog.getclearspace.com](https://blog.getclearspace.com)
+ - date published: 2023-10-25T14:43:21.833347+00:00
+ - user: None
+ - tags: []
+
+## Clearspace - Eliminate Digital Distractions
+ - [https://www.getclearspace.com](https://www.getclearspace.com)
+ - date published: 2023-10-25T14:43:23.234589+00:00
+ - user: None
+ - tags: []
+
+## CSS Scan - The fastest and easiest way to check and copy CSS
+ - [https://getcssscan.com](https://getcssscan.com)
+ - date published: 2023-10-25T14:43:24.639628+00:00
+ - user: None
+ - tags: []
+
+## dbt Labs | Transform Data in Your Warehouse
+ - [https://www.getdbt.com](https://www.getdbt.com)
+ - date published: 2023-10-25T14:43:26.088176+00:00
+ - user: None
+ - tags: []
+
+## Rebrandly
+ - [https://i.getdifree.com](https://i.getdifree.com)
+ - date published: 2023-12-21T03:33:16.873884+00:00
+ - user: None
+ - tags: ['personal']
+
+## Speak to a Doctor About a Rapamycin for Longevity Protocol and Prescription
+ - [https://gethealthspan.com](https://gethealthspan.com)
+ - date published: 2023-10-25T14:43:33.041708+00:00
+ - user: None
+ - tags: []
+
+## Jerry AllCar™ App: Get Car Insurance, Loan Refinance, Repair Estimates, Driving Score and more.
+ - [https://getjerry.com](https://getjerry.com)
+ - date published: 2023-10-25T14:43:37.323817+00:00
+ - user: None
+ - tags: []
+
+## Lago - Open Source Metering & Usage-Based Billing
+ - [https://www.getlago.com](https://www.getlago.com)
+ - date published: 2023-10-25T14:43:39.842339+00:00
+ - user: None
+ - tags: []
+
+## Pinbot
+ - [https://getpinbot.com](https://getpinbot.com)
+ - date published: 2023-10-25T14:43:40.159736+00:00
+ - user: None
+ - tags: []
+
+## Pocket: Home
+ - [https://getpocket.com](https://getpocket.com)
+ - date published: 2023-10-25T14:43:41.211280+00:00
+ - user: None
+ - tags: []
+
+## GetWaitlist | Waitlist Software with Referral and Email Marketing
+ - [https://getwaitlist.com](https://getwaitlist.com)
+ - date published: 2023-10-25T14:43:42.184167+00:00
+ - user: None
+ - tags: []
+
+## WP-Optimize | WordPress Performance Plugin - WP-Optimize
+ - [https://getwpo.com](https://getwpo.com)
+ - date published: 2023-12-11T18:58:35.920934+00:00
+ - user: None
+ - tags: []
+
+## GGather
+ - [https://web.ggather.com](https://web.ggather.com)
+ - date published: 2023-11-26T16:45:54+00:00
+ - user: rumpel
+ - tags: ['bookmark manager']
+
+## Georgi Gerganov's Home Page
+ - [https://ggerganov.com](https://ggerganov.com)
+ - date published: 2023-11-02T14:14:54.310461+00:00
+ - user: None
+ - tags: []
+
+## whisper.cpp : WASM example
+ - [https://whisper.ggerganov.com](https://whisper.ggerganov.com)
+ - date published: 2023-10-25T14:43:42.773615+00:00
+ - user: None
+ - tags: []
+
+## GGRecon | Your Gaming & Esports Community
+ - [https://www.ggrecon.com](https://www.ggrecon.com)
+ - date published: 2023-10-25T14:43:46.483344+00:00
+ - user: None
+ - tags: []
+
 ## Total Commander - home
  - [https://www.ghisler.com](https://www.ghisler.com)
  - date published: 2023-10-25T08:37:41.191669+00:00
@@ -1274,6 +1370,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Groqchat
+ - [https://chat.groq.com](https://chat.groq.com)
+ - date published: 2023-12-22T22:03:04+00:00
+ - user: None
+ - tags: []
+
 ## GROUNDHOG-DAY.com — The leading Groundhog Day data source
  - [https://groundhog-day.com](https://groundhog-day.com)
  - date published: 2023-10-25T14:51:56.587714+00:00
@@ -1466,6 +1568,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## NSB Home page
+ - [https://www.guppylake.com](https://www.guppylake.com)
+ - date published: 2023-12-22T07:17:34.852159+00:00
+ - user: None
+ - tags: []
+
 ## Gurudutt Perichetla
  - [https://www.guruduttperi.com](https://www.guruduttperi.com)
  - date published: 2023-11-29T14:25:54.607780+00:00
@@ -1559,6 +1667,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## All articles in a row / Habr
  - [https://habr.com](https://habr.com)
  - date published: 2023-10-25T14:53:46.346796+00:00
+ - user: None
+ - tags: []
+
+## Hachette Book Group
+ - [https://hachettebookgroup.com](https://hachettebookgroup.com)
+ - date published: 2023-12-22T05:41:14.903666+00:00
  - user: None
  - tags: []
 
@@ -2246,6 +2360,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Visualize Mixtral Moe
+ - [https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com](https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com)
+ - date published: 2023-12-22T11:34:36+00:00
+ - user: None
+ - tags: []
+
 ## A WebMention Endpoint
  - [https://webmention.herokuapp.com](https://webmention.herokuapp.com)
  - date published: 2023-12-11T16:23:06.480387+00:00
@@ -2315,6 +2435,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## SaaS Growth & Marketing On Autopilot
  - [https://www.heymarketcurve.com](https://www.heymarketcurve.com)
  - date published: 2023-10-25T14:59:10.290950+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Heynote – A Dedicated Scratchpad for Developers
+ - [https://heynote.com](https://heynote.com)
+ - date published: 2023-12-22T13:33:51+00:00
  - user: None
  - tags: []
 
@@ -4676,6 +4802,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: ['personal']
 
+## Jason Quintin | Product Designer
+ - [https://v15.jasonquintin.com](https://v15.jasonquintin.com)
+ - date published: 2023-12-22T17:49:37.580394+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Jason’s Big Adventure
  - [https://jasonsbigadventure.com](https://jasonsbigadventure.com)
  - date published: 2023-12-12T13:08:50.689435+00:00
@@ -5867,138 +5999,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## US Case Law
  - [https://cases.justia.com](https://cases.justia.com)
  - date published: 2023-11-23T00:06:58.907747+00:00
- - user: None
- - tags: []
-
-## U.S. District Court and U.S. Court of Appeals Cases, Dockets and Filings | Justia Dockets & Filings
- - [https://dockets.justia.com](https://dockets.justia.com)
- - date published: 2023-10-25T15:33:40.793942+00:00
- - user: None
- - tags: []
-
-## Notebooks
- - [https://justinblank.com](https://justinblank.com)
- - date published: 2023-10-25T15:33:42.316883+00:00
- - user: None
- - tags: []
-
-## Justin Garrison's Homepage -  Justin Garrison
- - [https://justingarrison.com](https://justingarrison.com)
- - date published: 2023-10-25T15:33:42.981302+00:00
- - user: None
- - tags: []
-
-## Justin Garrison's Homepage -  Justin Garrison
- - [https://www.justingarrison.com](https://www.justingarrison.com)
- - date published: 2023-10-25T15:33:47.646022+00:00
- - user: None
- - tags: []
-
-## justinobeirne.com
- - [https://www.justinobeirne.com](https://www.justinobeirne.com)
- - date published: 2023-10-25T15:33:49.714161+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://justquickmath.com](https://justquickmath.com)
- - date published: 2023-10-25T15:33:50.658372+00:00
- - user: None
- - tags: []
-
-## JustWatch - The Streaming Guide
- - [https://www.justwatch.com](https://www.justwatch.com)
- - date published: 2023-11-27T11:26:44+00:00
- - user: rumpel
- - tags: ['news', 'video streaming filter']
-
-## Just Work
- - [https://www.justworktogether.com](https://www.justworktogether.com)
- - date published: 2023-10-25T15:33:52.782116+00:00
- - user: None
- - tags: []
-
-## Optimize Windows with jv16 PowerTools
- - [https://jv16powertools.com](https://jv16powertools.com)
- - date published: 2023-10-25T15:33:54.999010+00:00
- - user: None
- - tags: []
-
-## Juan Cruz Viotti
- - [https://www.jviotti.com](https://www.jviotti.com)
- - date published: 2023-12-02T16:30:43.333149+00:00
- - user: None
- - tags: []
-
-## JyriAnd Blog
- - [https://jyriand.com](https://jyriand.com)
- - date published: 2023-11-29T20:43:58.319401+00:00
- - user: None
- - tags: ['personal']
-
-## A personal blog | k3tan.com
- - [https://k3tan.com](https://k3tan.com)
- - date published: 2023-10-25T15:33:57.053596+00:00
- - user: None
- - tags: []
-
-## Kabir Goel
- - [https://kabirgoel.com](https://kabirgoel.com)
- - date published: 2023-10-25T15:33:59.397024+00:00
- - user: None
- - tags: []
-
-## Kaboom
- - [https://kaboomjs.com](https://kaboomjs.com)
- - date published: 2023-10-25T15:34:04.797735+00:00
- - user: None
- - tags: []
-
-## Kadoa | AI Web Scraper
- - [https://www.kadoa.com](https://www.kadoa.com)
- - date published: 2023-10-25T15:34:06.211044+00:00
- - user: None
- - tags: []
-
-## Kagi Blog
- - [https://blog.kagi.com](https://blog.kagi.com)
- - date published: 2023-10-25T08:29:52.657581+00:00
- - user: None
- - tags: []
-
-## Orion Browser by Kagi
- - [https://browser.kagi.com](https://browser.kagi.com)
- - date published: 2023-10-25T15:34:07.299657+00:00
- - user: None
- - tags: []
-
-## Kagi Search - A Premium Search Engine
- - [https://kagi.com](https://kagi.com)
- - date published: 2023-10-25T08:28:07.887322+00:00
- - user: None
- - tags: ['search engine']
-
-## Kagi Search - A Premium Search Engine
- - [https://labs.kagi.com](https://labs.kagi.com)
- - date published: 2023-10-25T15:34:08.391173+00:00
- - user: None
- - tags: []
-
-## Kaitlin McKinnon
- - [https://www.kaitlinmckinnon.com](https://www.kaitlinmckinnon.com)
- - date published: 2023-10-25T09:21:00.326339+00:00
- - user: None
- - tags: ['personal']
-
-## Bits about Money by Patrick McKenzie (patio11)
- - [https://bam.kalzumeus.com](https://bam.kalzumeus.com)
- - date published: 2023-10-25T15:34:14.688386+00:00
- - user: None
- - tags: []
-
-## Patrick McKenzie (patio11) Teaches You To Sell More Software | Kalzumeus Training
- - [https://training.kalzumeus.com](https://training.kalzumeus.com)
- - date published: 2023-10-25T15:34:15.693875+00:00
  - user: None
  - tags: []
 

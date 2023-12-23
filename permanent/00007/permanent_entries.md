@@ -1,3 +1,195 @@
+## PropelAuth - Authentication for B2B products
+ - [https://www.propelauth.com](https://www.propelauth.com)
+ - date published: 2023-10-25T16:41:18.880289+00:00
+ - user: None
+ - tags: []
+
+## Built Not Found
+ - [https://builtnotfound.proseful.com](https://builtnotfound.proseful.com)
+ - date published: 2023-11-20T17:03:55.993393+00:00
+ - user: None
+ - tags: []
+
+## Protestia - Cataloging theological mischief-makers since 2012
+ - [https://protestia.com](https://protestia.com)
+ - date published: 2023-10-25T16:41:23.412134+00:00
+ - user: None
+ - tags: []
+
+## Protocol — The people, power and politics of tech
+ - [https://www.protocol.com](https://www.protocol.com)
+ - date published: 2023-10-25T16:41:26.733468+00:00
+ - user: None
+ - tags: []
+
+## Construct
+ - [https://www.protoconstruct.com](https://www.protoconstruct.com)
+ - date published: 2023-11-13T02:40:11.490385+00:00
+ - user: None
+ - tags: []
+
+## Protohackers
+ - [https://protohackers.com](https://protohackers.com)
+ - date published: 2023-10-25T16:41:27.305437+00:00
+ - user: None
+ - tags: []
+
+## Protomaps | A free and open source map of the world
+ - [https://protomaps.com](https://protomaps.com)
+ - date published: 2023-10-25T16:41:28.228678+00:00
+ - user: None
+ - tags: []
+
+## https://www.protondb.com
+ - [https://www.protondb.com](https://www.protondb.com)
+ - date published: 2023-10-25T11:09:42.837027+00:00
+ - user: None
+ - tags: ['ranking']
+
+## Web Scraping Proxies API for Developers
+ - [https://proxiesapi.com](https://proxiesapi.com)
+ - date published: 2023-10-25T16:41:35.399356+00:00
+ - user: None
+ - tags: []
+
+## Proxmox Support Forum
+ - [https://forum.proxmox.com](https://forum.proxmox.com)
+ - date published: 2023-10-25T16:41:37.471688+00:00
+ - user: None
+ - tags: []
+
+## Original Prusa 3D Printers - Company Blog
+ - [https://blog.prusa3d.com](https://blog.prusa3d.com)
+ - date published: 2023-10-25T16:41:40.917085+00:00
+ - user: None
+ - tags: []
+
+## Original Prusa 3D printers directly from Josef Prusa
+ - [https://www.prusa3d.com](https://www.prusa3d.com)
+ - date published: 2023-10-25T16:41:52.919701+00:00
+ - user: None
+ - tags: []
+
+## Landing Page - PS3 Developer wiki
+ - [https://www.psdevwiki.com](https://www.psdevwiki.com)
+ - date published: 2023-11-06T09:59:44.183787+00:00
+ - user: None
+ - tags: ['playstation']
+
+## psmag.com
+ - [https://psmag.com](https://psmag.com)
+ - date published: 2023-10-25T16:41:53.210507+00:00
+ - user: None
+ - tags: []
+
+## PSX-Place
+ - [https://www.psx-place.com](https://www.psx-place.com)
+ - date published: 2023-10-25T09:34:56.045667+00:00
+ - user: None
+ - tags: []
+
+## Psychedelic Science Review
+ - [https://psychedelicreview.com](https://psychedelicreview.com)
+ - date published: 2023-10-25T16:41:56.377800+00:00
+ - user: None
+ - tags: []
+
+## Psychology Today: Health, Help, Happiness + Find a Therapist
+ - [https://cdn2.psychologytoday.com](https://cdn2.psychologytoday.com)
+ - date published: 2023-10-25T16:42:01.070092+00:00
+ - user: None
+ - tags: []
+
+## Psychology Today: Health, Help, Happiness + Find a Therapist
+ - [https://www.psychologytoday.com](https://www.psychologytoday.com)
+ - date published: 2023-10-25T16:42:05.464319+00:00
+ - user: None
+ - tags: []
+
+## Psytrance Guide
+ - [https://psytranceguide.com](https://psytranceguide.com)
+ - date published: 2023-10-25T11:13:51.201935+00:00
+ - user: None
+ - tags: []
+
+## PSYOP PSYOPS PSYWAR Psychological Operations Psychological Warfare
+ - [https://www.psywarrior.com](https://www.psywarrior.com)
+ - date published: 2023-10-25T16:42:06.293643+00:00
+ - user: None
+ - tags: []
+
+## ptrchm
+ - [https://ptrchm.com](https://ptrchm.com)
+ - date published: 2023-12-17T17:43:33.561774+00:00
+ - user: None
+ - tags: []
+
+## PubliCola
+ - [https://publicola.com](https://publicola.com)
+ - date published: 2023-12-22T19:47:45.020324+00:00
+ - user: None
+ - tags: []
+
+## Chambersburg Breaking News, Sports, Weather, Traffic - Chambersburg Public Opinion
+ - [https://eu.publicopiniononline.com](https://eu.publicopiniononline.com)
+ - date published: 2023-10-25T16:42:09.010556+00:00
+ - user: None
+ - tags: []
+
+## Book Reviews, Bestselling Books & Publishing Business News | Publishers Weekly
+ - [https://www.publishersweekly.com](https://www.publishersweekly.com)
+ - date published: 2023-10-31T20:17:32.697765+00:00
+ - user: None
+ - tags: []
+
+## PUFFBUNNY STUDIO
+ - [https://www.puffbunnystudio.com](https://www.puffbunnystudio.com)
+ - date published: 2023-11-08T04:36:44.784840+00:00
+ - user: None
+ - tags: []
+
+## America's Custom Workstation Leader | Puget Systems
+ - [https://www.pugetsystems.com](https://www.pugetsystems.com)
+ - date published: 2023-10-25T16:42:14.792651+00:00
+ - user: None
+ - tags: []
+
+## Pulpflakes
+ - [https://pulpflakes.com](https://pulpflakes.com)
+ - date published: 2023-11-16T12:13:53.296510+00:00
+ - user: None
+ - tags: []
+
+## Pulumi - Infrastructure as Code in Any Programming Language
+ - [https://www.pulumi.com](https://www.pulumi.com)
+ - date published: 2023-10-25T16:42:16.113122+00:00
+ - user: None
+ - tags: []
+
+## Punch newspapers - Breaking News, Nigerian News & Top Stories
+ - [https://punchng.com](https://punchng.com)
+ - date published: 2023-10-25T10:15:32.859277+00:00
+ - user: None
+ - tags: []
+
+## Punctuation Matters – Punctuation: Important for academic and published writing. Not a bad idea if you just want to be understood.
+ - [https://www.punctuationmatters.com](https://www.punctuationmatters.com)
+ - date published: 2023-10-25T16:42:20.055212+00:00
+ - user: None
+ - tags: []
+
+## PuppyCoding – Friendly Python & AI tutorials for beginner & intermediate programmers.
+ - [https://puppycoding.com](https://puppycoding.com)
+ - date published: 2023-10-25T16:42:23.120169+00:00
+ - user: None
+ - tags: []
+
+## PureClean Performance, Live Elevated, Buy Trusted Quality Supplements
+ - [https://purecleanperformance.com](https://purecleanperformance.com)
+ - date published: 2023-11-26T14:31:11.905931+00:00
+ - user: None
+ - tags: []
+
 ## ATMA - PureDiablo
  - [https://atma.purediablo.com](https://atma.purediablo.com)
  - date published: 2023-12-13T16:11:18.939840+00:00
@@ -449,6 +641,12 @@
  - date published: 2023-10-25T16:44:18.335318+00:00
  - user: None
  - tags: []
+
+## Raad Ahmed
+ - [https://raadahmed.com](https://raadahmed.com)
+ - date published: 2023-12-22T17:50:24.943613+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Raam Dev
  - [https://raamdev.com](https://raamdev.com)
@@ -2124,6 +2322,12 @@
  - user: None
  - tags: []
 
+## Inbound Marketing for Engineering & Software Services - RocLogic
+ - [https://roclogicmarketing.com](https://roclogicmarketing.com)
+ - date published: 2023-12-22T22:29:30.216990+00:00
+ - user: None
+ - tags: ['personal']
+
 ## RODAKpress - niepoprawny politycznie magazyn internetowy Ruchu Rodaków - mieszkańców świata
  - [http://www.rodaknet.com](http://www.rodaknet.com)
  - date published: 2023-10-25T16:53:30.195626+00:00
@@ -2340,6 +2544,12 @@
  - user: None
  - tags: ['ranking', 'movies']
 
+## Rough.js: Create graphics with a hand-drawn, sketchy, appearance
+ - [https://roughjs.com](https://roughjs.com)
+ - date published: 2023-12-22T08:06:23+00:00
+ - user: None
+ - tags: []
+
 ## ROUGH TYPE | Nicholas Carr's blog
  - [https://www.roughtype.com](https://www.roughtype.com)
  - date published: 2023-10-25T16:54:46.815167+00:00
@@ -2489,6 +2699,12 @@
  - date published: 2023-10-25T16:55:26.559906+00:00
  - user: None
  - tags: []
+
+## Rui Zhi Dong - Writer
+ - [https://ruizhidong.com](https://ruizhidong.com)
+ - date published: 2023-12-22T17:48:27.466814+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Rumble
  - [https://rumble.com](https://rumble.com)
@@ -5788,222 +6004,6 @@
 ## Meta Stack Overflow
  - [https://meta.stackoverflow.com](https://meta.stackoverflow.com)
  - date published: 2023-10-25T17:14:47.678996+00:00
- - user: None
- - tags: []
-
-## Stack Overflow - Where Developers Learn, Share, & Build Careers
- - [https://stackoverflow.com](https://stackoverflow.com)
- - date published: 2023-10-24T20:16:48.479485+00:00
- - user: None
- - tags: ['social platform']
-
-## Stack Overflowed - Where Developers Vent
- - [https://stackoverflowed.com](https://stackoverflowed.com)
- - date published: 2023-10-25T17:14:48.341607+00:00
- - user: None
- - tags: []
-
-## StackStorm – IFTTT for Ops
- - [https://stackstorm.com](https://stackstorm.com)
- - date published: 2023-11-05T09:32:01+00:00
- - user: None
- - tags: []
-
-## Krizmi
- - [https://www.stadai.com](https://www.stadai.com)
- - date published: 2023-10-25T17:14:49.261880+00:00
- - user: None
- - tags: []
-
-## Community - Stadia Community
- - [https://community.stadia.com](https://community.stadia.com)
- - date published: 2023-10-25T17:14:53.188546+00:00
- - user: None
- - tags: []
-
-## Cloud Dosage - Cloud Gaming News, Stats and Community
- - [https://stadiadosage.com](https://stadiadosage.com)
- - date published: 2023-10-25T17:15:02.831617+00:00
- - user: None
- - tags: []
-
-## Staggering Beauty
- - [http://www.staggeringbeauty.com](http://www.staggeringbeauty.com)
- - date published: 2023-10-27T10:52:14.870047+00:00
- - user: None
- - tags: ['wtf']
-
-## Stairways Software: Excellence In Software – Only with a Mac
- - [https://www.stairways.com](https://www.stairways.com)
- - date published: 2023-10-26T06:39:49.777154+00:00
- - user: None
- - tags: []
-
-## André Staltz
- - [https://staltz.com](https://staltz.com)
- - date published: 2023-10-25T08:47:54.035732+00:00
- - user: None
- - tags: ['personal']
-
-## Stamen | Data Visualization Design Agency & Cartography Firm
- - [https://stamen.com](https://stamen.com)
- - date published: 2023-10-25T17:15:09.970317+00:00
- - user: None
- - tags: []
-
-## Decrypted | Standard Notes
- - [https://blog.standardnotes.com](https://blog.standardnotes.com)
- - date published: 2023-10-25T17:15:17.057873+00:00
- - user: None
- - tags: []
-
-## Standard Notes | End-To-End Encrypted Notes App
- - [https://standardnotes.com](https://standardnotes.com)
- - date published: 2023-10-25T17:15:18.077449+00:00
- - user: None
- - tags: []
-
-## The Stanley Parable: Ultra Deluxe
- - [https://www.stanleyparable.com](https://www.stanleyparable.com)
- - date published: 2023-10-27T11:52:46.954868+00:00
- - user: None
- - tags: ['game']
-
-## Starfield Db | The ultimate destination for Starfield, the next RPG from Bethesda Game Studios
- - [https://www.starfielddb.com](https://www.starfielddb.com)
- - date published: 2023-11-13T11:59:08.022363+00:00
- - user: None
- - tags: []
-
-## Starfish & Coffee Official Merchandise
- - [https://www.starfishandcoffeeofficial.com](https://www.starfishandcoffeeofficial.com)
- - date published: 2023-10-25T17:15:25.182161+00:00
- - user: None
- - tags: []
-
-## 首页
- - [https://www.starfivetech.com](https://www.starfivetech.com)
- - date published: 2023-10-25T17:15:27.917895+00:00
- - user: None
- - tags: []
-
-## Home - Starlink - Direct to Cell
- - [https://direct.starlink.com](https://direct.starlink.com)
- - date published: 2023-10-25T17:15:29.991528+00:00
- - user: None
- - tags: []
-
-## Starlink
- - [https://www.starlink.com](https://www.starlink.com)
- - date published: 2023-10-27T13:17:14.300712+00:00
- - user: None
- - tags: []
-
-## Start a Fucking Blog
- - [https://startafuckingblog.com](https://startafuckingblog.com)
- - date published: 2023-10-25T17:15:30.754300+00:00
- - user: None
- - tags: []
-
-## Starter Story: Learn How People Are Starting Successful Businesses
- - [https://www.starterstory.com](https://www.starterstory.com)
- - date published: 2023-10-25T17:15:33.599452+00:00
- - user: None
- - tags: []
-
-## Startpage - Private Search Engine. No Tracking. No Search History.
- - [https://www.startpage.com](https://www.startpage.com)
- - date published: 2023-10-30T12:57:24.455062+00:00
- - user: None
- - tags: ['search engine']
-
-## Star Trek | Official Site
- - [https://www.startrek.com](https://www.startrek.com)
- - date published: 2023-10-25T14:10:12.970610+00:00
- - user: None
- - tags: []
-
-## Latest Minnesota news, weather, and sports.
- - [https://www.startribune.com](https://www.startribune.com)
- - date published: 2023-10-25T17:15:40.882414+00:00
- - user: None
- - tags: []
-
-## Good Neighbor Stories
- - [https://newsroom.statefarm.com](https://newsroom.statefarm.com)
- - date published: 2023-10-25T17:15:42.417830+00:00
- - user: None
- - tags: []
-
-## State of JavaScript 2022
- - [https://2022.stateofjs.com](https://2022.stateofjs.com)
- - date published: 2023-10-25T17:15:45.689391+00:00
- - user: None
- - tags: []
-
-## StateScoop | Local & State Government IT News, Breaking Tech News
- - [https://statescoop.com](https://statescoop.com)
- - date published: 2023-11-21T19:28:50.154454+00:00
- - user: None
- - tags: []
-
-## Asset Manager | State Street
- - [https://www.statestreet.com](https://www.statestreet.com)
- - date published: 2023-10-25T16:16:42.971262+00:00
- - user: None
- - tags: []
-
-## Statista - The Statistics Portal for Market Data, Market Research and Market Studies
- - [https://www.statista.com](https://www.statista.com)
- - date published: 2023-10-25T17:15:49.586308+00:00
- - user: None
- - tags: ['statistics']
-
-## Home - Statistically Relevant
- - [https://statisticallyrelevant.com](https://statisticallyrelevant.com)
- - date published: 2023-10-25T17:15:58.229909+00:00
- - user: None
- - tags: []
-
-## STAT - Reporting from the frontiers of health and medicine
- - [https://www.statnews.com](https://www.statnews.com)
- - date published: 2023-10-25T10:46:15.019573+00:00
- - user: None
- - tags: []
-
-## Stat Significant | Daniel Parris | Substack
- - [https://www.statsignificant.com](https://www.statsignificant.com)
- - date published: 2023-12-07T14:48:35.612575+00:00
- - user: None
- - tags: []
-
-## Stats, Maps n Pix
- - [https://www.statsmapsnpix.com](https://www.statsmapsnpix.com)
- - date published: 2023-10-25T17:16:02.812082+00:00
- - user: None
- - tags: []
-
-## Show HN: I built a tool to get "Your app was approved/rejected " alerts on Slack
- - [https://statused.com](https://statused.com)
- - date published: 2023-11-09T09:51:26+00:00
- - user: None
- - tags: []
-
-## Stay SaaSy | Keeping it SaaSy
- - [https://staysaasy.com](https://staysaasy.com)
- - date published: 2023-10-25T17:16:04.075504+00:00
- - user: None
- - tags: []
-
-## https://www.steadipulse.com
- - [https://www.steadipulse.com](https://www.steadipulse.com)
- - date published: 2023-10-25T17:16:04.897773+00:00
- - user: None
- - tags: []
-
-## Steam Community
- - [https://steamcommunity.com](https://steamcommunity.com)
- - date published: 2023-11-05T19:13:40.009701+00:00
  - user: None
  - tags: []
 

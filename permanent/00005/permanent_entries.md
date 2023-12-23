@@ -1,3 +1,135 @@
+## U.S. District Court and U.S. Court of Appeals Cases, Dockets and Filings | Justia Dockets & Filings
+ - [https://dockets.justia.com](https://dockets.justia.com)
+ - date published: 2023-10-25T15:33:40.793942+00:00
+ - user: None
+ - tags: []
+
+## Notebooks
+ - [https://justinblank.com](https://justinblank.com)
+ - date published: 2023-10-25T15:33:42.316883+00:00
+ - user: None
+ - tags: []
+
+## Justin Garrison's Homepage -  Justin Garrison
+ - [https://justingarrison.com](https://justingarrison.com)
+ - date published: 2023-10-25T15:33:42.981302+00:00
+ - user: None
+ - tags: []
+
+## Justin Garrison's Homepage -  Justin Garrison
+ - [https://www.justingarrison.com](https://www.justingarrison.com)
+ - date published: 2023-10-25T15:33:47.646022+00:00
+ - user: None
+ - tags: []
+
+## justinobeirne.com
+ - [https://www.justinobeirne.com](https://www.justinobeirne.com)
+ - date published: 2023-10-25T15:33:49.714161+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://justquickmath.com](https://justquickmath.com)
+ - date published: 2023-10-25T15:33:50.658372+00:00
+ - user: None
+ - tags: []
+
+## JustWatch - The Streaming Guide
+ - [https://www.justwatch.com](https://www.justwatch.com)
+ - date published: 2023-11-27T11:26:44+00:00
+ - user: rumpel
+ - tags: ['news', 'video streaming filter']
+
+## Just Work
+ - [https://www.justworktogether.com](https://www.justworktogether.com)
+ - date published: 2023-10-25T15:33:52.782116+00:00
+ - user: None
+ - tags: []
+
+## Optimize Windows with jv16 PowerTools
+ - [https://jv16powertools.com](https://jv16powertools.com)
+ - date published: 2023-10-25T15:33:54.999010+00:00
+ - user: None
+ - tags: []
+
+## Juan Cruz Viotti
+ - [https://www.jviotti.com](https://www.jviotti.com)
+ - date published: 2023-12-02T16:30:43.333149+00:00
+ - user: None
+ - tags: []
+
+## JyriAnd Blog
+ - [https://jyriand.com](https://jyriand.com)
+ - date published: 2023-11-29T20:43:58.319401+00:00
+ - user: None
+ - tags: ['personal']
+
+## A personal blog | k3tan.com
+ - [https://k3tan.com](https://k3tan.com)
+ - date published: 2023-10-25T15:33:57.053596+00:00
+ - user: None
+ - tags: []
+
+## Kabir Goel
+ - [https://kabirgoel.com](https://kabirgoel.com)
+ - date published: 2023-10-25T15:33:59.397024+00:00
+ - user: None
+ - tags: []
+
+## Kaboom
+ - [https://kaboomjs.com](https://kaboomjs.com)
+ - date published: 2023-10-25T15:34:04.797735+00:00
+ - user: None
+ - tags: []
+
+## Kadoa | AI Web Scraper
+ - [https://www.kadoa.com](https://www.kadoa.com)
+ - date published: 2023-10-25T15:34:06.211044+00:00
+ - user: None
+ - tags: []
+
+## Kagi Blog
+ - [https://blog.kagi.com](https://blog.kagi.com)
+ - date published: 2023-10-25T08:29:52.657581+00:00
+ - user: None
+ - tags: []
+
+## Orion Browser by Kagi
+ - [https://browser.kagi.com](https://browser.kagi.com)
+ - date published: 2023-10-25T15:34:07.299657+00:00
+ - user: None
+ - tags: []
+
+## Kagi Search - A Premium Search Engine
+ - [https://kagi.com](https://kagi.com)
+ - date published: 2023-10-25T08:28:07.887322+00:00
+ - user: None
+ - tags: ['search engine']
+
+## Kagi Search - A Premium Search Engine
+ - [https://labs.kagi.com](https://labs.kagi.com)
+ - date published: 2023-10-25T15:34:08.391173+00:00
+ - user: None
+ - tags: []
+
+## Kaitlin McKinnon
+ - [https://www.kaitlinmckinnon.com](https://www.kaitlinmckinnon.com)
+ - date published: 2023-10-25T09:21:00.326339+00:00
+ - user: None
+ - tags: ['personal']
+
+## Bits about Money by Patrick McKenzie (patio11)
+ - [https://bam.kalzumeus.com](https://bam.kalzumeus.com)
+ - date published: 2023-10-25T15:34:14.688386+00:00
+ - user: None
+ - tags: []
+
+## Patrick McKenzie (patio11) Teaches You To Sell More Software | Kalzumeus Training
+ - [https://training.kalzumeus.com](https://training.kalzumeus.com)
+ - date published: 2023-10-25T15:34:15.693875+00:00
+ - user: None
+ - tags: []
+
 ## Kalzumeus Software
  - [https://www.kalzumeus.com](https://www.kalzumeus.com)
  - date published: 2023-10-25T15:34:16.823180+00:00
@@ -3601,6 +3733,18 @@ diversions.
  - user: None
  - tags: ['captain america', 'movie studio', 'iron man', 'disney']
 
+## vi360 photography/video/digital imaging
+ - [https://www.marxdesign.com](https://www.marxdesign.com)
+ - date published: 2023-12-22T00:41:17.350208+00:00
+ - user: None
+ - tags: []
+
+## vi360 photography/video/digital imaging
+ - [http://www.marxdesign.com](http://www.marxdesign.com)
+ - date published: 2023-12-22T21:24:02.738903+00:00
+ - user: None
+ - tags: []
+
 ## Mary Ann Mahoney - Content Writer, Book Editor, Author & Musician
  - [https://www.maryannmahoney.com](https://www.maryannmahoney.com)
  - date published: 2023-12-10T16:59:24.402245+00:00
@@ -3636,6 +3780,12 @@ diversions.
  - date published: 2023-10-25T15:57:35.006193+00:00
  - user: None
  - tags: []
+
+## Masimo - Home
+ - [https://www.masimo.com](https://www.masimo.com)
+ - date published: 2023-12-22T21:20:50+00:00
+ - user: rumpel
+ - tags: ['healthcare']
 
 ## Assembly Optimization Tips
  - [https://mark.masmcode.com](https://mark.masmcode.com)
@@ -4474,6 +4624,12 @@ diversions.
 ## Lucas McGregor – Medium
  - [https://lucas-mcgregor.medium.com](https://lucas-mcgregor.medium.com)
  - date published: 2023-10-25T10:21:25.050681+00:00
+ - user: None
+ - tags: []
+
+## Devansh – Medium
+ - [https://machine-learning-made-simple.medium.com](https://machine-learning-made-simple.medium.com)
+ - date published: 2023-12-22T01:02:31.995578+00:00
  - user: None
  - tags: []
 
@@ -5497,6 +5653,12 @@ diversions.
  - user: None
  - tags: ['music band']
 
+## Mike Paul
+ - [https://mikepaul.com](https://mikepaul.com)
+ - date published: 2023-12-22T22:30:57.160444+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Mike Puchol – Medium
  - [https://mikepuchol.com](https://mikepuchol.com)
  - date published: 2023-10-25T16:03:56.379616+00:00
@@ -5836,168 +5998,6 @@ diversions.
 ## Video Game Database - MobyGames
  - [https://www.mobygames.com](https://www.mobygames.com)
  - date published: 2023-12-11T18:42:10.778368+00:00
- - user: None
- - tags: []
-
-## Games and mods development for Windows, Linux and Mac - Mod DB
- - [https://www.moddb.com](https://www.moddb.com)
- - date published: 2023-10-25T11:09:37.572465+00:00
- - user: None
- - tags: ['game mods']
-
-## Welcome | Modding OpenMW: A guide to modding and modernizing Morrowind with OpenMW
- - [https://modding-openmw.com](https://modding-openmw.com)
- - date published: 2023-10-25T11:16:48.373285+00:00
- - user: None
- - tags: ['open source', 'the elder scrolls']
-
-## Ozmo
- - [https://fi.sds.modeaondemand.com](https://fi.sds.modeaondemand.com)
- - date published: 2023-10-25T16:05:36.500010+00:00
- - user: None
- - tags: []
-
-## Modern SQL: A lot has changed since SQL-92
- - [https://modern-sql.com](https://modern-sql.com)
- - date published: 2023-10-25T16:05:37.782237+00:00
- - user: None
- - tags: []
-
-## Home - Modern CSV
- - [https://www.moderncsv.com](https://www.moderncsv.com)
- - date published: 2023-10-25T16:05:39.699562+00:00
- - user: None
- - tags: []
-
-## Brian Lee's Website
- - [https://www.moderndescartes.com](https://www.moderndescartes.com)
- - date published: 2023-10-25T16:05:43.508519+00:00
- - user: None
- - tags: []
-
-## MC++ BLOG – Der Blog für Modernes C++ von Rainer Grimm
- - [https://modernescpp.com](https://modernescpp.com)
- - date published: 2023-10-25T16:05:47.749861+00:00
- - user: None
- - tags: []
-
-## Homepage - Modern Farmer
- - [https://modernfarmer.com](https://modernfarmer.com)
- - date published: 2023-10-25T10:50:56.136058+00:00
- - user: None
- - tags: []
-
-## Modern Font Stacks
- - [https://modernfontstacks.com](https://modernfontstacks.com)
- - date published: 2023-10-25T16:05:50.332208+00:00
- - user: None
- - tags: []
-
-## Modern for Hacker News
- - [https://www.modernhn.com](https://www.modernhn.com)
- - date published: 2023-10-25T16:05:51.568528+00:00
- - user: None
- - tags: []
-
-## Money Movement APIs | Modern Treasury | ACH, RTP, Wires and more payment methods
- - [https://www.moderntreasury.com](https://www.moderntreasury.com)
- - date published: 2023-10-25T16:05:53.474763+00:00
- - user: None
- - tags: []
-
-## Modrinth
- - [https://modrinth.com](https://modrinth.com)
- - date published: 2023-10-25T11:16:51.066359+00:00
- - user: None
- - tags: []
-
-## Modular Docs
- - [https://docs.modular.com](https://docs.modular.com)
- - date published: 2023-10-25T16:05:54.312316+00:00
- - user: None
- - tags: []
-
-## Modular: AI development starts here
- - [https://www.modular.com](https://www.modular.com)
- - date published: 2023-10-25T16:05:56.151309+00:00
- - user: None
- - tags: []
-
-## Mojeek
- - [https://www.mojeek.com](https://www.mojeek.com)
- - date published: 2023-10-25T09:07:25.783266+00:00
- - user: None
- - tags: []
-
-## Momekh.com - home of disciplined creativity - Momekh.com
- - [https://momekh.com](https://momekh.com)
- - date published: 2023-12-03T15:55:30.572760+00:00
- - user: None
- - tags: ['personal']
-
-## Home | Monadical Consulting
- - [https://monadical.com](https://monadical.com)
- - date published: 2023-10-25T16:05:58.077632+00:00
- - user: None
- - tags: []
-
-## Monad Monkey
- - [https://monadmonkey.com](https://monadmonkey.com)
- - date published: 2023-10-25T16:05:58.559782+00:00
- - user: None
- - tags: []
-
-## Belmont Ammunition | Belmont Ammunition
- - [https://www.monaharaty.com](https://www.monaharaty.com)
- - date published: 2023-12-17T20:59:14.047846+00:00
- - user: None
- - tags: ['personal']
-
-## George Monbiot
- - [https://www.monbiot.com](https://www.monbiot.com)
- - date published: 2023-10-28T15:38:01.543527+00:00
- - user: None
- - tags: []
-
-## Monday Note
- - [https://mondaynote.com](https://mondaynote.com)
- - date published: 2023-10-25T16:06:02.801355+00:00
- - user: None
- - tags: []
-
-## Money: Create Richer Lives for Everyone | Money
- - [https://money.com](https://money.com)
- - date published: 2023-10-25T10:52:33.649820+00:00
- - user: None
- - tags: []
-
-## Login Consent - Moneycontrol
- - [https://www.moneycontrol.com](https://www.moneycontrol.com)
- - date published: 2023-10-25T16:06:05.568468+00:00
- - user: None
- - tags: []
-
-## Home | Meaningful Money | Meaning/Purpose Financial Psychology
- - [https://www.moneyhealthsolutions.com](https://www.moneyhealthsolutions.com)
- - date published: 2023-12-15T21:45:04.521840+00:00
- - user: None
- - tags: ['personal']
-
-## Money Inc - The Business of Money
- - [https://moneyinc.com](https://moneyinc.com)
- - date published: 2023-10-25T16:06:09.228395+00:00
- - user: None
- - tags: []
-
-## MoneyWeek | Investment advice, analysis, finance news
- - [https://moneyweek.com](https://moneyweek.com)
- - date published: 2023-10-25T16:06:15.176047+00:00
- - user: None
- - tags: []
-
-## https://moneywise.com
- - [https://moneywise.com](https://moneywise.com)
- - date published: 2023-10-25T16:06:15.474941+00:00
  - user: None
  - tags: []
 

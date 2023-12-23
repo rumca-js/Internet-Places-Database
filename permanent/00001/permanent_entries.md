@@ -1,3 +1,33 @@
+## Ketan Joshi – Climate and energy, words and pictures
+ - [https://ketanjoshi.co](https://ketanjoshi.co)
+ - date published: 2023-10-25T12:19:11.534583+00:00
+ - user: None
+ - tags: []
+
+## Klang Magazine
+ - [https://klangmag.co](https://klangmag.co)
+ - date published: 2023-10-25T11:13:33.897425+00:00
+ - user: None
+ - tags: []
+
+## Lever | Recruiting Software for Today's Hiring Teams
+ - [https://jobs.lever.co](https://jobs.lever.co)
+ - date published: 2023-10-25T08:25:27.198036+00:00
+ - user: None
+ - tags: []
+
+## Top 70,000 Educational YouTube Channels Organized By Category
+ - [https://limnology.co](https://limnology.co)
+ - date published: 2023-10-25T09:27:34.358299+00:00
+ - user: None
+ - tags: []
+
+## Lioness | Media Company
+ - [https://www.lioness.co](https://www.lioness.co)
+ - date published: 2023-10-25T12:19:19.819218+00:00
+ - user: None
+ - tags: []
+
 ## Logic Sheet | Best Google Sheets automation tool | Automate your spreadsheets
  - [https://logicsheet.co](https://logicsheet.co)
  - date published: 2023-10-25T12:19:22.464687+00:00
@@ -826,6 +856,12 @@
  - user: None
  - tags: ['ranking']
 
+## 50 Plus Reinvented
+ - [http://50plusreinvented.com](http://50plusreinvented.com)
+ - date published: 2023-12-22T22:30:43.074005+00:00
+ - user: None
+ - tags: ['personal']
+
 ## A Journey in Creating an Operating System Kernel: The 539kernel Book - Home
  - [https://539kernel.com](https://539kernel.com)
  - date published: 2023-10-25T12:27:47.416154+00:00
@@ -1455,6 +1491,12 @@
  - date published: 2023-10-25T12:32:39.988761+00:00
  - user: None
  - tags: []
+
+## adhiv dhar
+ - [https://adhiv.com](https://adhiv.com)
+ - date published: 2023-12-22T17:47:47.976155+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Adib Fricke · Words, Art, and Language | The Word Company®
  - [https://adibfricke.com](https://adibfricke.com)
@@ -2253,6 +2295,12 @@
  - date published: 2023-10-24T20:19:53.605037+00:00
  - user: None
  - tags: ['marketplace']
+
+## Home -
+ - [https://alifeunlived.com](https://alifeunlived.com)
+ - date published: 2023-12-22T17:50:45.863289+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Alin Panaitiu - Personal website
  - [https://alinpanaitiu.com](https://alinpanaitiu.com)
@@ -3946,6 +3994,12 @@
  - user: None
  - tags: []
 
+## Asking deepr questions on life
+ - [https://askdeepr.com](https://askdeepr.com)
+ - date published: 2023-12-22T17:50:04.948259+00:00
+ - user: None
+ - tags: ['personal']
+
 ## AskThePilot.com » THE ULTIMATE RESOURCE SITE FOR EVERYONE WHO FLIES
  - [https://askthepilot.com](https://askthepilot.com)
  - date published: 2023-10-25T12:46:40.144420+00:00
@@ -4309,6 +4363,12 @@
 ## Austin Poor's Personal Website
  - [https://austinpoor.com](https://austinpoor.com)
  - date published: 2023-10-25T08:44:54.973912+00:00
+ - user: None
+ - tags: ['personal']
+
+## Austin Saylor
+ - [https://www.austinsaylor.com](https://www.austinsaylor.com)
+ - date published: 2023-12-22T17:49:49.407617+00:00
  - user: None
  - tags: ['personal']
 
@@ -5935,66 +5995,6 @@
 ## Zarządzanie aktywami | BlackRock
  - [https://www.blackrock.com](https://www.blackrock.com)
  - date published: 2023-10-25T11:27:39.252299+00:00
- - user: None
- - tags: []
-
-## The Official Black Sabbath Website :: Official Black Sabbath Website - Latest Black Sabbath News Shows and Videos
- - [https://www.blacksabbath.com](https://www.blacksabbath.com)
- - date published: 2023-11-13T11:07:53.514482+00:00
- - user: None
- - tags: ['music band']
-
-## Black Swan Street
- - [https://www.blackswanstreet.com](https://www.blackswanstreet.com)
- - date published: 2023-10-25T13:04:16.289564+00:00
- - user: None
- - tags: []
-
-## BLACKWING INTELLIGENCE
- - [https://blackwinghq.com](https://blackwinghq.com)
- - date published: 2023-11-22T18:18:43.239610+00:00
- - user: None
- - tags: []
-
-## Blake Ashley Jr.
- - [https://blakeashleyjr.com](https://blakeashleyjr.com)
- - date published: 2023-10-25T09:05:20.382306+00:00
- - user: None
- - tags: ['personal']
-
-## blakewatson.com
- - [https://blakewatson.com](https://blakewatson.com)
- - date published: 2023-10-25T08:45:09.755901+00:00
- - user: None
- - tags: ['personal']
-
-## Rusty Blazenhoff
- - [https://www.blazenhoff.com](https://www.blazenhoff.com)
- - date published: 2023-12-13T11:22:05.958494+00:00
- - user: None
- - tags: ['personal']
-
-## BLDGBLOG
- - [https://bldgblog.com](https://bldgblog.com)
- - date published: 2023-11-01T08:41:35.585470+00:00
- - user: None
- - tags: []
-
-## Bleeding Heartland
- - [https://www.bleedingheartland.com](https://www.bleedingheartland.com)
- - date published: 2023-10-25T13:04:28.457417+00:00
- - user: None
- - tags: []
-
-## BleepingComputer | Cybersecurity, Technology News and Support
- - [https://www.bleepingcomputer.com](https://www.bleepingcomputer.com)
- - date published: 2023-10-25T09:32:04.337094+00:00
- - user: None
- - tags: []
-
-## Blend Engineering: Full Stack Finance
- - [https://full-stack.blend.com](https://full-stack.blend.com)
- - date published: 2023-10-25T13:04:29.965239+00:00
  - user: None
  - tags: []
 

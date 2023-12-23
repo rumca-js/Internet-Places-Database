@@ -1,3 +1,219 @@
+## Stack Overflow - Where Developers Learn, Share, & Build Careers
+ - [https://stackoverflow.com](https://stackoverflow.com)
+ - date published: 2023-10-24T20:16:48.479485+00:00
+ - user: None
+ - tags: ['social platform']
+
+## Stack Overflowed - Where Developers Vent
+ - [https://stackoverflowed.com](https://stackoverflowed.com)
+ - date published: 2023-10-25T17:14:48.341607+00:00
+ - user: None
+ - tags: []
+
+## StackStorm – IFTTT for Ops
+ - [https://stackstorm.com](https://stackstorm.com)
+ - date published: 2023-11-05T09:32:01+00:00
+ - user: None
+ - tags: []
+
+## Krizmi
+ - [https://www.stadai.com](https://www.stadai.com)
+ - date published: 2023-10-25T17:14:49.261880+00:00
+ - user: None
+ - tags: []
+
+## Community - Stadia Community
+ - [https://community.stadia.com](https://community.stadia.com)
+ - date published: 2023-10-25T17:14:53.188546+00:00
+ - user: None
+ - tags: []
+
+## Cloud Dosage - Cloud Gaming News, Stats and Community
+ - [https://stadiadosage.com](https://stadiadosage.com)
+ - date published: 2023-10-25T17:15:02.831617+00:00
+ - user: None
+ - tags: []
+
+## Staggering Beauty
+ - [http://www.staggeringbeauty.com](http://www.staggeringbeauty.com)
+ - date published: 2023-10-27T10:52:14.870047+00:00
+ - user: None
+ - tags: ['wtf']
+
+## Stairways Software: Excellence In Software – Only with a Mac
+ - [https://www.stairways.com](https://www.stairways.com)
+ - date published: 2023-10-26T06:39:49.777154+00:00
+ - user: None
+ - tags: []
+
+## André Staltz
+ - [https://staltz.com](https://staltz.com)
+ - date published: 2023-10-25T08:47:54.035732+00:00
+ - user: None
+ - tags: ['personal']
+
+## Stamen | Data Visualization Design Agency & Cartography Firm
+ - [https://stamen.com](https://stamen.com)
+ - date published: 2023-10-25T17:15:09.970317+00:00
+ - user: None
+ - tags: []
+
+## Decrypted | Standard Notes
+ - [https://blog.standardnotes.com](https://blog.standardnotes.com)
+ - date published: 2023-10-25T17:15:17.057873+00:00
+ - user: None
+ - tags: []
+
+## Standard Notes | End-To-End Encrypted Notes App
+ - [https://standardnotes.com](https://standardnotes.com)
+ - date published: 2023-10-25T17:15:18.077449+00:00
+ - user: None
+ - tags: []
+
+## The Stanley Parable: Ultra Deluxe
+ - [https://www.stanleyparable.com](https://www.stanleyparable.com)
+ - date published: 2023-10-27T11:52:46.954868+00:00
+ - user: None
+ - tags: ['game']
+
+## Starfield Db | The ultimate destination for Starfield, the next RPG from Bethesda Game Studios
+ - [https://www.starfielddb.com](https://www.starfielddb.com)
+ - date published: 2023-11-13T11:59:08.022363+00:00
+ - user: None
+ - tags: []
+
+## Starfish & Coffee Official Merchandise
+ - [https://www.starfishandcoffeeofficial.com](https://www.starfishandcoffeeofficial.com)
+ - date published: 2023-10-25T17:15:25.182161+00:00
+ - user: None
+ - tags: []
+
+## 首页
+ - [https://www.starfivetech.com](https://www.starfivetech.com)
+ - date published: 2023-10-25T17:15:27.917895+00:00
+ - user: None
+ - tags: []
+
+## Home - Starlink - Direct to Cell
+ - [https://direct.starlink.com](https://direct.starlink.com)
+ - date published: 2023-10-25T17:15:29.991528+00:00
+ - user: None
+ - tags: []
+
+## Starlink
+ - [https://www.starlink.com](https://www.starlink.com)
+ - date published: 2023-10-27T13:17:14.300712+00:00
+ - user: None
+ - tags: []
+
+## Start a Fucking Blog
+ - [https://startafuckingblog.com](https://startafuckingblog.com)
+ - date published: 2023-10-25T17:15:30.754300+00:00
+ - user: None
+ - tags: []
+
+## Starter Story: Learn How People Are Starting Successful Businesses
+ - [https://www.starterstory.com](https://www.starterstory.com)
+ - date published: 2023-10-25T17:15:33.599452+00:00
+ - user: None
+ - tags: []
+
+## Startpage - Private Search Engine. No Tracking. No Search History.
+ - [https://www.startpage.com](https://www.startpage.com)
+ - date published: 2023-10-30T12:57:24.455062+00:00
+ - user: None
+ - tags: ['search engine']
+
+## Star Trek | Official Site
+ - [https://www.startrek.com](https://www.startrek.com)
+ - date published: 2023-10-25T14:10:12.970610+00:00
+ - user: None
+ - tags: []
+
+## Latest Minnesota news, weather, and sports.
+ - [https://www.startribune.com](https://www.startribune.com)
+ - date published: 2023-10-25T17:15:40.882414+00:00
+ - user: None
+ - tags: []
+
+## Good Neighbor Stories
+ - [https://newsroom.statefarm.com](https://newsroom.statefarm.com)
+ - date published: 2023-10-25T17:15:42.417830+00:00
+ - user: None
+ - tags: []
+
+## State of JavaScript 2022
+ - [https://2022.stateofjs.com](https://2022.stateofjs.com)
+ - date published: 2023-10-25T17:15:45.689391+00:00
+ - user: None
+ - tags: []
+
+## StateScoop | Local & State Government IT News, Breaking Tech News
+ - [https://statescoop.com](https://statescoop.com)
+ - date published: 2023-11-21T19:28:50.154454+00:00
+ - user: None
+ - tags: []
+
+## Asset Manager | State Street
+ - [https://www.statestreet.com](https://www.statestreet.com)
+ - date published: 2023-10-25T16:16:42.971262+00:00
+ - user: None
+ - tags: []
+
+## Statista - The Statistics Portal for Market Data, Market Research and Market Studies
+ - [https://www.statista.com](https://www.statista.com)
+ - date published: 2023-10-25T17:15:49.586308+00:00
+ - user: None
+ - tags: ['statistics']
+
+## Home - Statistically Relevant
+ - [https://statisticallyrelevant.com](https://statisticallyrelevant.com)
+ - date published: 2023-10-25T17:15:58.229909+00:00
+ - user: None
+ - tags: []
+
+## STAT - Reporting from the frontiers of health and medicine
+ - [https://www.statnews.com](https://www.statnews.com)
+ - date published: 2023-10-25T10:46:15.019573+00:00
+ - user: None
+ - tags: []
+
+## Stat Significant | Daniel Parris | Substack
+ - [https://www.statsignificant.com](https://www.statsignificant.com)
+ - date published: 2023-12-07T14:48:35.612575+00:00
+ - user: None
+ - tags: []
+
+## Stats, Maps n Pix
+ - [https://www.statsmapsnpix.com](https://www.statsmapsnpix.com)
+ - date published: 2023-10-25T17:16:02.812082+00:00
+ - user: None
+ - tags: []
+
+## Show HN: I built a tool to get "Your app was approved/rejected " alerts on Slack
+ - [https://statused.com](https://statused.com)
+ - date published: 2023-11-09T09:51:26+00:00
+ - user: None
+ - tags: []
+
+## Stay SaaSy | Keeping it SaaSy
+ - [https://staysaasy.com](https://staysaasy.com)
+ - date published: 2023-10-25T17:16:04.075504+00:00
+ - user: None
+ - tags: []
+
+## https://www.steadipulse.com
+ - [https://www.steadipulse.com](https://www.steadipulse.com)
+ - date published: 2023-10-25T17:16:04.897773+00:00
+ - user: None
+ - tags: []
+
+## Steam Community
+ - [https://steamcommunity.com](https://steamcommunity.com)
+ - date published: 2023-11-05T19:13:40.009701+00:00
+ - user: None
+ - tags: []
+
 ## Steam Deck
  - [https://www.steamdeck.com](https://www.steamdeck.com)
  - date published: 2023-10-27T12:54:20.650329+00:00
@@ -1132,6 +1348,12 @@
  - user: None
  - tags: ['substack']
 
+## AI Research & Strategy | Delip Rao | Substack
+ - [https://deliprao.substack.com](https://deliprao.substack.com)
+ - date published: 2023-12-22T01:52:44.921506+00:00
+ - user: None
+ - tags: []
+
 ## Rhizome Palindrome Prism. Rotate Quaternion. Rinse Repeat. | Miller Hooks | Substack
  - [https://dickymirrors.substack.com](https://dickymirrors.substack.com)
  - date published: 2023-10-25T17:19:01.003516+00:00
@@ -1750,6 +1972,12 @@
  - user: None
  - tags: []
 
+## NLP News | Sebastian Ruder | Substack
+ - [https://nlpnewsletter.substack.com](https://nlpnewsletter.substack.com)
+ - date published: 2023-12-22T03:57:35.368086+00:00
+ - user: None
+ - tags: []
+
 ## Augmented Realist | Noah Norman | Substack
  - [https://noahnorman.substack.com](https://noahnorman.substack.com)
  - date published: 2023-10-25T09:59:47.121602+00:00
@@ -2335,7 +2563,7 @@
 ## https://successfulstepsblog.com
  - [https://successfulstepsblog.com](https://successfulstepsblog.com)
  - date published: 2023-12-20T05:40:47.440858+00:00
- - user: None
+ - user: rumpel
  - tags: ['personal']
 
 ## Welcome to Sudo Null IT News / Sudo Null IT News
@@ -3007,6 +3235,12 @@
 ## Tax Heaven 3000
  - [https://taxheaven3000.com](https://taxheaven3000.com)
  - date published: 2023-10-25T17:23:40.756623+00:00
+ - user: None
+ - tags: []
+
+## Taylor & Francis Newsroom - Global research making the news
+ - [https://newsroom.taylorandfrancisgroup.com](https://newsroom.taylorandfrancisgroup.com)
+ - date published: 2023-12-22T12:19:01.091178+00:00
  - user: None
  - tags: []
 
@@ -4160,6 +4394,18 @@
 ## The Federalist - Culture, Politics, Religion
  - [https://thefederalist.com](https://thefederalist.com)
  - date published: 2023-10-25T17:32:52.453047+00:00
+ - user: None
+ - tags: []
+
+## Delicious Vegan and Vegetarian Recipes – The Fiery Vegetarian
+ - [https://www.thefieryvegetarian.com](https://www.thefieryvegetarian.com)
+ - date published: 2023-12-22T18:54:46+00:00
+ - user: None
+ - tags: []
+
+## The Film Stage
+ - [https://thefilmstage.com](https://thefilmstage.com)
+ - date published: 2023-12-22T03:37:59.659840+00:00
  - user: None
  - tags: []
 
@@ -5751,252 +5997,6 @@
 ## Welcome to Today In BC | British Columbia News
  - [https://www.todayinbc.com](https://www.todayinbc.com)
  - date published: 2023-11-18T19:07:55.241515+00:00
- - user: None
- - tags: []
-
-## Latest news in Singapore and around the world – TODAY
- - [https://www.todayonline.com](https://www.todayonline.com)
- - date published: 2023-12-06T06:43:16.215152+00:00
- - user: None
- - tags: []
-
-## Red Deer News & Red Deer Events - Todayville.com
- - [https://www.todayville.com](https://www.todayville.com)
- - date published: 2023-10-25T17:43:42.189847+00:00
- - user: None
- - tags: []
-
-## Todepond dot com
- - [https://www.todepond.com](https://www.todepond.com)
- - date published: 2023-11-22T13:45:46.497388+00:00
- - user: None
- - tags: []
-
-## ToDesktop - Web app to desktop app in minutes
- - [https://www.todesktop.com](https://www.todesktop.com)
- - date published: 2023-10-25T17:43:43.646887+00:00
- - user: None
- - tags: []
-
-## Software Developer Jobs in Japan | TokyoDev
- - [https://www.tokyodev.com](https://www.tokyodev.com)
- - date published: 2023-10-25T11:33:29.711180+00:00
- - user: None
- - tags: []
-
-## Tokyo Weekender | Japan's No.1 English Lifestyle Magazine
- - [https://www.tokyoweekender.com](https://www.tokyoweekender.com)
- - date published: 2023-10-25T10:41:20.902583+00:00
- - user: None
- - tags: []
-
-## Growthlog by Tomas Laurinavicius
- - [https://tomaslau.com](https://tomaslau.com)
- - date published: 2023-12-21T08:24:25.224521+00:00
- - user: None
- - tags: ['personal']
-
-## Uncharted Territories | Tomas Pueyo | Substack
- - [https://unchartedterritories.tomaspueyo.com](https://unchartedterritories.tomaspueyo.com)
- - date published: 2023-10-25T17:43:46.009449+00:00
- - user: None
- - tags: []
-
-## Blogccasion
- - [https://blog.tomayac.com](https://blog.tomayac.com)
- - date published: 2023-10-25T17:43:47.125385+00:00
- - user: None
- - tags: []
-
-## Tom Critchlow. Move. Think. Create.
- - [https://tomcritchlow.com](https://tomcritchlow.com)
- - date published: 2023-10-25T17:43:48.241244+00:00
- - user: None
- - tags: []
-
-## Home — Tom Dalling
- - [https://www.tomdalling.com](https://www.tomdalling.com)
- - date published: 2023-10-25T17:43:49.689309+00:00
- - user: None
- - tags: []
-
-## Freelance Dubbing Mixer | Work with a trusted pair of ears
- - [https://www.tomedwardssound.com](https://www.tomedwardssound.com)
- - date published: 2023-12-20T05:39:35.050397+00:00
- - user: None
- - tags: ['personal']
-
-## Blog Posts
- - [https://tomerfiliba.com](https://tomerfiliba.com)
- - date published: 2023-10-25T17:43:51.353398+00:00
- - user: None
- - tags: []
-
-## Tom Hazledine
- - [https://tomhazledine.com](https://tomhazledine.com)
- - date published: 2023-12-08T09:33:21.723633+00:00
- - user: None
- - tags: ['personal']
-
-## Tom Hummel
- - [https://tomhummel.com](https://tomhummel.com)
- - date published: 2023-10-25T17:43:53.186060+00:00
- - user: None
- - tags: []
-
-## Home « Tom Scott
- - [https://www.tomscott.com](https://www.tomscott.com)
- - date published: 2023-10-25T17:43:54.648389+00:00
- - user: None
- - tags: []
-
-## Tom's Guide | Tech Product Reviews, Top Picks and How To
- - [https://www.tomsguide.com](https://www.tomsguide.com)
- - date published: 2023-10-25T09:36:18.075879+00:00
- - user: None
- - tags: []
-
-## Tom's Hardware: For The Hardcore PC Enthusiast
- - [https://www.tomshardware.com](https://www.tomshardware.com)
- - date published: 2023-10-25T09:36:26.552623+00:00
- - user: None
- - tags: []
-
-## TomTom — Mapping and Location Technology
- - [https://www.tomtom.com](https://www.tomtom.com)
- - date published: 2023-10-25T08:25:17.562840+00:00
- - user: None
- - tags: []
-
-## Tomasz Tunguz by @ttunguz
- - [https://tomtunguz.com](https://tomtunguz.com)
- - date published: 2023-10-25T17:44:14.660115+00:00
- - user: None
- - tags: []
-
-## tontinton
- - [https://tontinton.com](https://tontinton.com)
- - date published: 2023-12-15T21:46:45.340254+00:00
- - user: None
- - tags: []
-
-## Tony Beato | UI/UX Designer & Frontend Developer | tonybeato.com
- - [https://tonybeato.com](https://tonybeato.com)
- - date published: 2023-12-05T14:37:28.614161+00:00
- - user: None
- - tags: ['personal']
-
-## Tony Dinh's Newsletter | Substack
- - [https://news.tonydinh.com](https://news.tonydinh.com)
- - date published: 2023-10-25T17:44:16.928207+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://tonyendelman.com](https://tonyendelman.com)
- - date published: 2023-12-18T01:36:02.598581+00:00
- - user: None
- - tags: ['personal']
-
-## Beginnings | Tony Kulesa | Substack
- - [https://www.tonykulesa.com](https://www.tonykulesa.com)
- - date published: 2023-10-25T17:44:18.368021+00:00
- - user: None
- - tags: []
-
-## Tony Mottaz
- - [https://www.tonymottaz.com](https://www.tonymottaz.com)
- - date published: 2023-11-10T23:40:09.155479+00:00
- - user: None
- - tags: []
-
-## Tool Army
- - [https://www.toolband.com](https://www.toolband.com)
- - date published: 2023-11-13T10:43:19.764493+00:00
- - user: None
- - tags: ['music band']
-
-## ToolGuyd | Tool Reviews, Deals, Industry News
- - [https://toolguyd.com](https://toolguyd.com)
- - date published: 2023-10-25T17:44:21.148611+00:00
- - user: None
- - tags: []
-
-## ToolJet | Open-source low-code platform to build internal tools
- - [https://www.tooljet.com](https://www.tooljet.com)
- - date published: 2023-10-25T17:44:23.477839+00:00
- - user: None
- - tags: []
-
-## Barley Yields from Wide-Form Data
- - [https://www.toolofthought.com](https://www.toolofthought.com)
- - date published: 2023-11-26T00:45:42.871246+00:00
- - user: None
- - tags: []
-
-## Tooth Artifacts | Human teeth jewelry | Real teeth jewelry
- - [https://www.toothantique.com](https://www.toothantique.com)
- - date published: 2023-10-25T17:44:27.660101+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.topgear.com](https://www.topgear.com)
- - date published: 2023-12-06T14:02:30.746280+00:00
- - user: None
- - tags: []
-
-## Tor.com | Science fiction. Fantasy. The universe. And related subjects.
- - [https://www.tor.com](https://www.tor.com)
- - date published: 2023-10-25T17:44:34.590867+00:00
- - user: None
- - tags: ['fantasy news']
-
-## toronto.com | Latest Daily Breaking News Stories
- - [https://www.toronto.com](https://www.toronto.com)
- - date published: 2023-11-11T20:00:21.025764+00:00
- - user: None
- - tags: []
-
-## Toronto Life
- - [https://torontolife.com](https://torontolife.com)
- - date published: 2023-10-25T17:44:44.016018+00:00
- - user: None
- - tags: []
-
-## Home | Toronto Sun Home Page | Toronto Sun
- - [https://torontosun.com](https://torontosun.com)
- - date published: 2023-10-25T17:44:56.380706+00:00
- - user: None
- - tags: []
-
-## TorrentFreak - News
- - [https://torrentfreak.com](https://torrentfreak.com)
- - date published: 2023-10-25T17:44:57.688554+00:00
- - user: None
- - tags: []
-
-## Home - Tortoise
- - [https://www.tortoisemedia.com](https://www.tortoisemedia.com)
- - date published: 2023-10-31T04:18:45.594409+00:00
- - user: None
- - tags: ['politic news', 'news']
-
-## ToS Notify
- - [https://tosnotify.com](https://tosnotify.com)
- - date published: 2023-10-25T17:44:58.740805+00:00
- - user: None
- - tags: []
-
-## Totality of Evidence Home
- - [https://totalityofevidence.com](https://totalityofevidence.com)
- - date published: 2023-10-25T17:45:02.485633+00:00
- - user: None
- - tags: []
-
-## JavaScript libraries and components for web development - Total.js Platform
- - [https://www.totaljs.com](https://www.totaljs.com)
- - date published: 2023-10-25T17:45:03.509721+00:00
  - user: None
  - tags: []
 
