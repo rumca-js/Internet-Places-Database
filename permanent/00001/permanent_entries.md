@@ -1,3 +1,51 @@
+## Hugging Face – The AI community building the future.
+ - [https://huggingface.co](https://huggingface.co)
+ - date published: 2023-10-25T12:19:04.902604+00:00
+ - user: None
+ - tags: []
+
+## Hypercritical
+ - [https://hypercritical.co](https://hypercritical.co)
+ - date published: 2023-10-25T12:19:09.634842+00:00
+ - user: None
+ - tags: []
+
+## Upload Image — Free Image Hosting
+ - [https://i.ibb.co](https://i.ibb.co)
+ - date published: 2023-12-11T18:59:48.978058+00:00
+ - user: None
+ - tags: []
+
+## Upload Image — Free Image Hosting
+ - [https://ibb.co](https://ibb.co)
+ - date published: 2023-11-03T03:48:55.335444+00:00
+ - user: None
+ - tags: []
+
+## Ivan Malopinsky
+ - [https://imsky.co](https://imsky.co)
+ - date published: 2023-11-29T14:54:22.955893+00:00
+ - user: None
+ - tags: ['personal']
+
+## Izzy Miller
+ - [https://www.izzy.co](https://www.izzy.co)
+ - date published: 2023-10-25T08:43:21.263927+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jose M.
+ - [https://josem.co](https://josem.co)
+ - date published: 2023-10-25T09:03:21.010231+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kevin Chung
+ - [https://blog.kchung.co](https://blog.kchung.co)
+ - date published: 2023-10-25T09:07:54.432482+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Ketan Joshi – Climate and energy, words and pictures
  - [https://ketanjoshi.co](https://ketanjoshi.co)
  - date published: 2023-10-25T12:19:11.534583+00:00
@@ -2173,6 +2221,12 @@
 ## Alex Cabal
  - [https://alexcabal.com](https://alexcabal.com)
  - date published: 2023-10-25T09:04:23.166247+00:00
+ - user: None
+ - tags: ['personal']
+
+## Alex Chirițescu - alexchiri.com
+ - [https://alexchiri.com](https://alexchiri.com)
+ - date published: 2023-12-23T07:30:41.431360+00:00
  - user: None
  - tags: ['personal']
 
@@ -5038,6 +5092,12 @@
  - user: None
  - tags: []
 
+## BBS: The Documentary
+ - [http://www.bbsdocumentary.com](http://www.bbsdocumentary.com)
+ - date published: 2023-12-23T17:45:17+00:00
+ - user: None
+ - tags: []
+
 ## Home - TechTalks
  - [https://bdtechtalks.com](https://bdtechtalks.com)
  - date published: 2023-10-25T12:54:38.494518+00:00
@@ -5173,6 +5233,12 @@
 ## The Lindy Newsletter
  - [https://lindynewsletter.beehiiv.com](https://lindynewsletter.beehiiv.com)
  - date published: 2023-10-25T12:56:19.031748+00:00
+ - user: None
+ - tags: []
+
+## Just Ship It | Newsletter for Solopreneurs
+ - [https://marclou.beehiiv.com](https://marclou.beehiiv.com)
+ - date published: 2023-12-23T17:08:36.935130+00:00
  - user: None
  - tags: []
 
@@ -5503,6 +5569,12 @@
 ## Big Book of Amiga Hardware
  - [https://bigbookofamigahardware.com](https://bigbookofamigahardware.com)
  - date published: 2023-11-02T09:45:50.385820+00:00
+ - user: None
+ - tags: []
+
+## a blog by biggiemac42
+ - [https://biggieblog.com](https://biggieblog.com)
+ - date published: 2023-12-23T03:02:38.126818+00:00
  - user: None
  - tags: []
 
@@ -5923,78 +5995,6 @@
 ## The Angry Dev · Darren Horrocks explains various Programming and DevOps practices, with some guides, explanations and ramblings from a sometimes angry man
  - [https://bizzeh.com](https://bizzeh.com)
  - date published: 2023-10-25T13:03:14.509269+00:00
- - user: None
- - tags: []
-
-## Bjango
- - [https://bjango.com](https://bjango.com)
- - date published: 2023-10-25T13:03:16.353965+00:00
- - user: None
- - tags: []
-
-## Barry Hess :: bjhess.com
- - [https://bjhess.com](https://bjhess.com)
- - date published: 2023-12-02T21:17:10.821976+00:00
- - user: None
- - tags: ['personal']
-
-## BJ Malicoat
- - [https://www.bjmalicoat.com](https://www.bjmalicoat.com)
- - date published: 2023-10-25T08:45:07.568665+00:00
- - user: None
- - tags: ['personal']
-
-## björk
- - [https://bjork.com](https://bjork.com)
- - date published: 2023-11-13T10:31:46.069132+00:00
- - user: None
- - tags: ['music band']
-
-## Bjorn Pagen
- - [https://bjornpagen.com](https://bjornpagen.com)
- - date published: 2023-10-25T13:03:18.214285+00:00
- - user: None
- - tags: []
-
-## Bjorn's Garden of Hypertext 🌱
- - [http://bjornwestergard.com](http://bjornwestergard.com)
- - date published: 2023-10-25T13:03:19.638841+00:00
- - user: None
- - tags: []
-
-## Blackbird Spyplane | Substack
- - [https://www.blackbirdspyplane.com](https://www.blackbirdspyplane.com)
- - date published: 2023-10-25T13:03:23.951028+00:00
- - user: None
- - tags: []
-
-## Black Central Europe – We bring you over 1000 years of Black history in the German-speaking lands and show you why it matters right now
- - [https://blackcentraleurope.com](https://blackcentraleurope.com)
- - date published: 2023-10-25T13:03:35.835284+00:00
- - user: None
- - tags: []
-
-## Black Hat | Home
- - [https://www.blackhat.com](https://www.blackhat.com)
- - date published: 2023-10-25T13:03:38.757259+00:00
- - user: None
- - tags: []
-
-## Home page - Black Hills Information Security
- - [https://www.blackhillsinfosec.com](https://www.blackhillsinfosec.com)
- - date published: 2023-10-25T13:03:41.747695+00:00
- - user: None
- - tags: []
-
-## Blackmagic Design
- - [https://www.blackmagicdesign.com](https://www.blackmagicdesign.com)
- - date published: 2023-10-25T13:04:11.505623+00:00
- - user: None
- - tags: []
-
-## Zarządzanie aktywami | BlackRock
- - [https://www.blackrock.com](https://www.blackrock.com)
- - date published: 2023-10-25T11:27:39.252299+00:00
  - user: None
  - tags: []
 

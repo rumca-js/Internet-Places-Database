@@ -1,3 +1,315 @@
+## Show HN:Draw Fast - Real-time AI image generation based on drawings in a canvas
+ - [https://drawfast.io](https://drawfast.io)
+ - date published: 2023-11-27T06:55:50+00:00
+ - user: None
+ - tags: []
+
+## Hi there - drhayes.io · drhayes.io
+ - [https://drhayes.io](https://drhayes.io)
+ - date published: 2023-11-29T17:06:29.812448+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dropbase | Build internal apps with SQL and Python in minutes
+ - [https://www.dropbase.io](https://www.dropbase.io)
+ - date published: 2023-12-05T19:27:03.930014+00:00
+ - user: None
+ - tags: []
+
+## Minetest for the Web
+ - [https://minetest.dustlabs.io](https://minetest.dustlabs.io)
+ - date published: 2023-10-25T19:41:39.853096+00:00
+ - user: None
+ - tags: []
+
+## eGPU.io | External Graphics Card Community
+ - [https://egpu.io](https://egpu.io)
+ - date published: 2023-10-25T19:41:43.768453+00:00
+ - user: None
+ - tags: []
+
+## Home | Oliver Eidel
+ - [https://www.eidel.io](https://www.eidel.io)
+ - date published: 2023-10-25T19:41:45.111372+00:00
+ - user: None
+ - tags: []
+
+## eitherway - A Story to my Start-Up
+ - [https://eitherway.io](https://eitherway.io)
+ - date published: 2023-10-25T19:41:45.822044+00:00
+ - user: None
+ - tags: []
+
+## Element | Secure collaboration and messaging
+ - [https://element.io](https://element.io)
+ - date published: 2023-10-25T19:41:47.032259+00:00
+ - user: None
+ - tags: []
+
+## elementary Blog
+ - [https://blog.elementary.io](https://blog.elementary.io)
+ - date published: 2023-10-25T19:41:52.719369+00:00
+ - user: None
+ - tags: []
+
+## The thoughtful, capable, and ethical replacement for Windows and macOS ⋅ elementary OS
+ - [https://elementary.io](https://elementary.io)
+ - date published: 2023-11-06T10:12:43.278462+00:00
+ - user: None
+ - tags: ['linux', 'operating system']
+
+## https://beta.elevenlabs.io
+ - [https://beta.elevenlabs.io](https://beta.elevenlabs.io)
+ - date published: 2023-10-25T19:41:58.716242+00:00
+ - user: None
+ - tags: []
+
+## ElevenLabs | Blog
+ - [https://blog.elevenlabs.io](https://blog.elevenlabs.io)
+ - date published: 2023-10-25T19:42:00.359950+00:00
+ - user: None
+ - tags: []
+
+## https://elevenlabs.io
+ - [https://elevenlabs.io](https://elevenlabs.io)
+ - date published: 2023-10-25T19:42:00.993836+00:00
+ - user: None
+ - tags: []
+
+## Traceloop - LLM Application Observability
+ - [https://www.enrolla.io](https://www.enrolla.io)
+ - date published: 2023-10-25T19:42:02.521004+00:00
+ - user: None
+ - tags: []
+
+## EnterpriseReady - Build SaaS Features Enterprises Love
+ - [https://www.enterpriseready.io](https://www.enterpriseready.io)
+ - date published: 2023-10-25T19:42:03.442332+00:00
+ - user: None
+ - tags: []
+
+## Epsio | Instant query results, effortlessly
+ - [https://www.epsio.io](https://www.epsio.io)
+ - date published: 2023-11-01T08:43:38.220991+00:00
+ - user: None
+ - tags: []
+
+## Esper | Device Management with Kiosk Mode, Remote Control, & more | MDM Solution
+ - [https://www.esper.io](https://www.esper.io)
+ - date published: 2023-10-25T19:42:06.992319+00:00
+ - user: None
+ - tags: []
+
+## Ethereum (ETH) Blockchain Explorer
+ - [https://etherscan.io](https://etherscan.io)
+ - date published: 2023-10-25T19:42:08.971913+00:00
+ - user: None
+ - tags: []
+
+## Evan Todd
+ - [https://etodd.io](https://etodd.io)
+ - date published: 2023-10-25T19:42:09.513819+00:00
+ - user: None
+ - tags: []
+
+## Event-Driven by Oskar Dudycz
+ - [https://event-driven.io](https://event-driven.io)
+ - date published: 2023-10-25T19:42:13.572557+00:00
+ - user: None
+ - tags: []
+
+## Everstrike Blog
+ - [https://blog.everstrike.io](https://blog.everstrike.io)
+ - date published: 2023-10-25T19:42:15.001515+00:00
+ - user: None
+ - tags: []
+
+## The EV Universe
+ - [https://www.evuniverse.io](https://www.evuniverse.io)
+ - date published: 2023-10-25T19:42:17.038711+00:00
+ - user: None
+ - tags: []
+
+## Ewan Valentine | Home
+ - [https://ewanvalentine.io](https://ewanvalentine.io)
+ - date published: 2023-11-06T08:14:47.316226+00:00
+ - user: None
+ - tags: []
+
+## Home | Exaloop blog
+ - [https://blog.exaloop.io](https://blog.exaloop.io)
+ - date published: 2023-10-25T19:42:17.703333+00:00
+ - user: None
+ - tags: []
+
+## Exaltitude Engineering Leadership Community
+ - [https://www.exaltitude.io](https://www.exaltitude.io)
+ - date published: 2023-10-25T19:42:19.238033+00:00
+ - user: None
+ - tags: []
+
+## Failing Fast
+ - [https://failingfast.io](https://failingfast.io)
+ - date published: 2023-10-25T19:42:20.010109+00:00
+ - user: None
+ - tags: []
+
+## https://fairtec.io/fr/
+ - [https://fairtec.io](https://fairtec.io)
+ - date published: 2023-12-11T16:19:34.009224+00:00
+ - user: None
+ - tags: []
+
+## Fan Pu Zeng
+ - [https://fanpu.io](https://fanpu.io)
+ - date published: 2023-10-25T19:42:21.616085+00:00
+ - user: None
+ - tags: []
+
+## Favoree - Discover quality channels from YouTube
+ - [https://www.favoree.io](https://www.favoree.io)
+ - date published: 2023-10-25T19:42:22.471809+00:00
+ - user: None
+ - tags: []
+
+## FerretDB Blog | FerretDB Blog
+ - [https://blog.ferretdb.io](https://blog.ferretdb.io)
+ - date published: 2023-10-25T19:42:24.585480+00:00
+ - user: None
+ - tags: []
+
+## Build your company workspace with no code — Fibery
+ - [https://fibery.io](https://fibery.io)
+ - date published: 2023-10-25T19:42:31.278832+00:00
+ - user: None
+ - tags: []
+
+## Fig
+ - [https://fig.io](https://fig.io)
+ - date published: 2023-10-25T19:42:32.304878+00:00
+ - user: None
+ - tags: []
+
+## Filippo Valsorda
+ - [https://blog.filippo.io](https://blog.filippo.io)
+ - date published: 2023-10-25T19:42:34.529201+00:00
+ - user: None
+ - tags: []
+
+## Filippo Valsorda
+ - [https://filippo.io](https://filippo.io)
+ - date published: 2023-10-25T19:42:35.382816+00:00
+ - user: None
+ - tags: []
+
+## Filippo Valsorda
+ - [https://words.filippo.io](https://words.filippo.io)
+ - date published: 2023-10-25T08:59:06.743488+00:00
+ - user: None
+ - tags: ['personal']
+
+## Filtra
+ - [https://filtra.io](https://filtra.io)
+ - date published: 2023-10-31T13:18:58.615018+00:00
+ - user: None
+ - tags: []
+
+## FindMyCat - The Open-Source Pet Tracker
+ - [https://www.findmycat.io](https://www.findmycat.io)
+ - date published: 2023-10-25T19:42:41.070101+00:00
+ - user: None
+ - tags: ['open hardware', 'hardware tracker']
+
+## Fireship - Learn to Code Faster
+ - [https://fireship.io](https://fireship.io)
+ - date published: 2023-10-25T19:42:41.631253+00:00
+ - user: None
+ - tags: []
+
+## Fly.io
+ - [https://community.fly.io](https://community.fly.io)
+ - date published: 2023-10-25T19:42:46.027252+00:00
+ - user: None
+ - tags: []
+
+## Deploy app servers close to your users · Fly
+ - [https://fly.io](https://fly.io)
+ - date published: 2023-10-25T19:42:47.102257+00:00
+ - user: None
+ - tags: []
+
+## FoAz - Frontend-Only-AuthZ | FoAz
+ - [https://foaz.io](https://foaz.io)
+ - date published: 2023-10-25T19:42:48.088096+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Forwarder – FOSS MITM proxy written in Go
+ - [https://forwarder-proxy.io](https://forwarder-proxy.io)
+ - date published: 2023-12-20T15:30:47+00:00
+ - user: None
+ - tags: []
+
+## Foxy.io | Flexible Ecommerce for Your Website
+ - [https://www.foxy.io](https://www.foxy.io)
+ - date published: 2023-10-25T19:42:49.688772+00:00
+ - user: None
+ - tags: []
+
+## FreeTube - The Private YouTube Client
+ - [https://freetubeapp.io](https://freetubeapp.io)
+ - date published: 2023-10-25T08:30:25.633576+00:00
+ - user: None
+ - tags: ['youtube']
+
+## Freshpaint | Healthcare Privacy Platform To Manage Your Data And Meet HIPAA Regulations
+ - [https://www.freshpaint.io](https://www.freshpaint.io)
+ - date published: 2023-10-25T19:42:56.058009+00:00
+ - user: None
+ - tags: []
+
+## FusionAuth: Auth. Built for Devs, by Devs
+ - [https://fusionauth.io](https://fusionauth.io)
+ - date published: 2023-10-27T16:12:10.629678+00:00
+ - user: None
+ - tags: []
+
+## futurecoder: learn python from scratch
+ - [https://futurecoder.io](https://futurecoder.io)
+ - date published: 2023-10-25T19:42:57.568016+00:00
+ - user: None
+ - tags: []
+
+## Visual Scripting For The Web | G-Script
+ - [https://g-script.io](https://g-script.io)
+ - date published: 2023-10-25T19:43:00.841246+00:00
+ - user: None
+ - tags: []
+
+## Make 2D Games With GameMaker | Free Video Game Maker
+ - [https://gamemaker.io](https://gamemaker.io)
+ - date published: 2023-11-21T15:29:41.097407+00:00
+ - user: None
+ - tags: []
+
+## Paul Ganssle
+ - [https://blog.ganssle.io](https://blog.ganssle.io)
+ - date published: 2023-10-25T19:43:02.935158+00:00
+ - user: None
+ - tags: []
+
+## Gantry | Build AI your users trust
+ - [https://gantry.io](https://gantry.io)
+ - date published: 2023-10-25T19:43:06.618863+00:00
+ - user: None
+ - tags: []
+
+## Garden - The DevOps automation tool for K8s
+ - [https://garden.io](https://garden.io)
+ - date published: 2023-10-25T19:43:09.096788+00:00
+ - user: None
+ - tags: []
+
 ## Projects | gbdev.io
  - [https://gbdev.io](https://gbdev.io)
  - date published: 2023-11-23T13:34:21.914417+00:00
@@ -121,6 +433,12 @@
 ## Novel View Synthesis with Diffusion Models
  - [https://3d-diffusion.github.io](https://3d-diffusion.github.io)
  - date published: 2023-10-25T19:43:40.520175+00:00
+ - user: None
+ - tags: []
+
+## Page Redirection
+ - [https://4dmodeller.github.io](https://4dmodeller.github.io)
+ - date published: 2023-12-23T11:58:31.192102+00:00
  - user: None
  - tags: []
 
@@ -295,6 +613,12 @@
 ## Arman's (Wild) Digital Garden
  - [https://armanjindal.github.io](https://armanjindal.github.io)
  - date published: 2023-12-20T19:15:57.276153+00:00
+ - user: None
+ - tags: ['personal']
+
+## Austin Mueller
+ - [http://armueller.github.io](http://armueller.github.io)
+ - date published: 2023-12-23T02:59:32.933589+00:00
  - user: None
  - tags: ['personal']
 
@@ -996,6 +1320,12 @@ through Composable Diffusion
  - user: None
  - tags: ['personal']
 
+## https://jacklance.github.io
+ - [https://jacklance.github.io](https://jacklance.github.io)
+ - date published: 2023-12-23T06:44:05.457224+00:00
+ - user: None
+ - tags: []
+
 ## Clojure Cheatsheets
  - [https://jafingerhut.github.io](https://jafingerhut.github.io)
  - date published: 2023-10-25T19:47:00.700654+00:00
@@ -1233,6 +1563,12 @@ through Composable Diffusion
 ## Leonidas Lampropoulos - Home
  - [https://lemonidas.github.io](https://lemonidas.github.io)
  - date published: 2023-10-27T08:12:16.955543+00:00
+ - user: None
+ - tags: []
+
+## Lena Voita
+ - [https://lena-voita.github.io](https://lena-voita.github.io)
+ - date published: 2023-12-23T20:37:37.021629+00:00
  - user: None
  - tags: []
 
@@ -5667,342 +6003,6 @@ End-to-end typesafe APIs made easy. | tRPC
 ## Deno by Example
  - [https://examples.deno.land](https://examples.deno.land)
  - date published: 2023-10-25T08:35:20.172288+00:00
- - user: None
- - tags: []
-
-## Erika Rowland
- - [https://erikarow.land](https://erikarow.land)
- - date published: 2023-10-27T02:22:33.008024+00:00
- - user: None
- - tags: []
-
-## The Indiependent | Rosie Sherry | Substack
- - [https://www.indiependent.land](https://www.indiependent.land)
- - date published: 2023-10-25T20:17:40.510359+00:00
- - user: None
- - tags: []
-
-## Ismail Elouafiq
- - [https://www.ismail.land](https://www.ismail.land)
- - date published: 2023-11-17T07:30:34.168221+00:00
- - user: None
- - tags: ['personal']
-
-## welcome. | maya.land
- - [https://maya.land](https://maya.land)
- - date published: 2023-10-25T20:17:42.650479+00:00
- - user: None
- - tags: []
-
-## The atomic web toolkit for pragmatists | a17t
- - [https://a17t.miles.land](https://a17t.miles.land)
- - date published: 2023-10-25T20:17:43.810118+00:00
- - user: None
- - tags: []
-
-## R. Miles McCain | About, contact, and portfolio
- - [https://miles.land](https://miles.land)
- - date published: 2023-10-25T20:17:44.827325+00:00
- - user: None
- - tags: []
-
-## nami.land
- - [https://nami.land](https://nami.land)
- - date published: 2023-10-25T20:17:45.915791+00:00
- - user: None
- - tags: []
-
-## This page is no longer available due to ending availability of Gatsby Cloud.
- - [https://oio.land](https://oio.land)
- - date published: 2023-10-25T20:17:46.574075+00:00
- - user: None
- - tags: []
-
-## Rosieland
- - [https://rosie.land](https://rosie.land)
- - date published: 2023-10-25T20:17:48.264563+00:00
- - user: None
- - tags: []
-
-## Immigration for Startups, Founders, and Companies
- - [https://www.alcorn.law](https://www.alcorn.law)
- - date published: 2023-10-25T20:17:51.883094+00:00
- - user: None
- - tags: []
-
-## Read Caselaw | Caselaw Access Project
- - [https://cite.case.law](https://cite.case.law)
- - date published: 2023-11-03T05:08:43.245024+00:00
- - user: None
- - tags: []
-
-## Los Angeles Personal Injury Lawyer | $10 Billion+ Won For Clients
- - [https://www.psbr.law](https://www.psbr.law)
- - date published: 2023-10-25T20:17:55.746662+00:00
- - user: None
- - tags: []
-
-## Homepage - MTV Lebanon
- - [https://www.mtv.com.lb](https://www.mtv.com.lb)
- - date published: 2023-11-05T16:53:37.498703+00:00
- - user: None
- - tags: []
-
-## Bridge | Where Immigration Meets Innovation
- - [https://www.bridge.legal](https://www.bridge.legal)
- - date published: 2023-10-25T20:17:57.823788+00:00
- - user: None
- - tags: []
-
-## decoded.legal
- - [https://decoded.legal](https://decoded.legal)
- - date published: 2023-10-25T20:17:58.671735+00:00
- - user: None
- - tags: []
-
-## Luna
- - [https://moonbase.lgbt](https://moonbase.lgbt)
- - date published: 2023-12-06T23:21:34.239624+00:00
- - user: None
- - tags: []
-
-## Wiki - Front Page
- - [https://wiki.alopex.li](https://wiki.alopex.li)
- - date published: 2023-10-25T20:17:59.299382+00:00
- - user: None
- - tags: []
-
-## Eli Richmond
- - [https://bloge.li](https://bloge.li)
- - date published: 2023-11-29T14:41:33.388349+00:00
- - user: None
- - tags: ['personal']
-
-## Cock.li – Tor-friendly, free E-mail and XMPP provider
- - [https://cock.li](https://cock.li)
- - date published: 2023-11-07T14:44:07+00:00
- - user: None
- - tags: []
-
-## The Earth
- - [https://www.earth.li](https://www.earth.li)
- - date published: 2023-10-25T20:17:59.815511+00:00
- - user: None
- - tags: []
-
-## Jesse Li
- - [https://blog.jse.li](https://blog.jse.li)
- - date published: 2023-10-25T20:18:00.622412+00:00
- - user: None
- - tags: []
-
-## Voice Message
- - [https://lalo.li](https://lalo.li)
- - date published: 2023-12-13T11:31:23+00:00
- - user: rumpel
- - tags: []
-
-## lkj.li
- - [https://lkj.li](https://lkj.li)
- - date published: 2023-11-29T15:32:13.584360+00:00
- - user: None
- - tags: ['personal']
-
-## Francesco Mazzoli
- - [https://mazzo.li](https://mazzo.li)
- - date published: 2023-10-25T08:49:50.321389+00:00
- - user: None
- - tags: ['personal']
-
-## Omar Kamali | Founder, Engineer & Strategic Technology Advisor
- - [https://omarkama.li](https://omarkama.li)
- - date published: 2023-10-31T00:57:49.537580+00:00
- - user: None
- - tags: []
-
-## tortel.li
- - [https://tortel.li](https://tortel.li)
- - date published: 2023-10-25T20:18:02.544996+00:00
- - user: None
- - tags: []
-
-## The Cat Fox Life – Photography, cats, computing, and anecdotes from an Oklahoman fox.
- - [https://catfox.life](https://catfox.life)
- - date published: 2023-10-25T20:18:04.685223+00:00
- - user: None
- - tags: []
-
-## Clues Dot Life
- - [https://www.clues.life](https://www.clues.life)
- - date published: 2023-10-25T20:18:08.324160+00:00
- - user: None
- - tags: []
-
-## Data Engineer Things
- - [https://blog.det.life](https://blog.det.life)
- - date published: 2023-11-25T23:11:09.198154+00:00
- - user: None
- - tags: []
-
-## Build Guides, Tools, Trackers, and more - Diablo4.life
- - [https://diablo4.life](https://diablo4.life)
- - date published: 2023-12-13T16:05:07.092979+00:00
- - user: None
- - tags: []
-
-## Home - Earth4All
- - [https://earth4all.life](https://earth4all.life)
- - date published: 2023-10-25T20:18:15.902498+00:00
- - user: None
- - tags: ['equity', 'world economic forum', 'environment', 'think tank']
-
-## Dan Fernandez Home Page – Dan Fernandez
- - [https://fernandez.life](https://fernandez.life)
- - date published: 2023-10-25T09:26:30.059169+00:00
- - user: None
- - tags: ['personal']
-
-## https://gaston.life
- - [https://gaston.life](https://gaston.life)
- - date published: 2023-12-08T08:33:13.205178+00:00
- - user: None
- - tags: ['personal']
-
-## Hard Fault Life
- - [https://hardfault.life](https://hardfault.life)
- - date published: 2023-10-25T08:49:51.355120+00:00
- - user: None
- - tags: ['personal']
-
-## Posterity - Everyone needs a plan.
- - [https://posterity.life](https://posterity.life)
- - date published: 2023-10-25T20:18:20.839473+00:00
- - user: None
- - tags: []
-
-## RETURN | Substack
- - [https://return.life](https://return.life)
- - date published: 2023-10-25T20:18:24.096295+00:00
- - user: None
- - tags: []
-
-## Tushar's Blog
- - [https://sadh.life](https://sadh.life)
- - date published: 2023-10-25T08:59:28.425834+00:00
- - user: None
- - tags: ['personal']
-
-## yuke.life
- - [https://yuke.life](https://yuke.life)
- - date published: 2023-11-29T16:19:10.381713+00:00
- - user: None
- - tags: ['personal']
-
-## BlinderKitten
- - [http://blinderkitten.lighting](http://blinderkitten.lighting)
- - date published: 2023-10-25T20:18:25.187517+00:00
- - user: None
- - tags: []
-
-## Vitalik Buterin's website
- - [https://vitalik.eth.limo](https://vitalik.eth.limo)
- - date published: 2023-10-25T08:59:30.996681+00:00
- - user: None
- - tags: ['personal']
-
-## Believe - Serving independent artists and labels at each stage of their career and development
- - [https://bfan.link](https://bfan.link)
- - date published: 2023-12-11T15:49:06.226441+00:00
- - user: None
- - tags: []
-
-## CDM Create Digital Music - Create digital music, motion, and more.
- - [https://cdm.link](https://cdm.link)
- - date published: 2023-10-25T20:18:28.057200+00:00
- - user: None
- - tags: ['keygen', 'audio eqipment', 'audio news', 'chiptune']
-
-## Free Video Hosting Made Easy - Dubz Platform
- - [https://dubz.link](https://dubz.link)
- - date published: 2023-11-05T07:07:53.519389+00:00
- - user: None
- - tags: []
-
-## gptoverflow | Questions
- - [https://www.gptoverflow.link](https://www.gptoverflow.link)
- - date published: 2023-10-25T20:18:36.976348+00:00
- - user: None
- - tags: []
-
-## Holy Grail
- - [https://holygrail.link](https://holygrail.link)
- - date published: 2023-12-13T16:05:24.251172+00:00
- - user: None
- - tags: []
-
-## Songlink/Odesli
- - [https://song.link](https://song.link)
- - date published: 2023-12-21T19:06:26+00:00
- - user: rumpel
- - tags: ['music']
-
-## Ditto - Sync without internet
- - [https://www.ditto.live](https://www.ditto.live)
- - date published: 2023-10-25T20:18:43.975066+00:00
- - user: None
- - tags: []
-
-## Live Video Chat With Your Website Visitors · Joyyo
- - [https://hibox.live](https://hibox.live)
- - date published: 2023-10-25T20:18:45.413550+00:00
- - user: None
- - tags: []
-
-## jott - landing
- - [https://jott.live](https://jott.live)
- - date published: 2023-10-25T20:18:53.019754+00:00
- - user: None
- - tags: []
-
-## LiveView Native
- - [https://native.live](https://native.live)
- - date published: 2023-10-25T20:18:54.280137+00:00
- - user: None
- - tags: []
-
-## Neovim Conf 2022
- - [https://www.neovimconf.live](https://www.neovimconf.live)
- - date published: 2023-10-25T20:18:55.238673+00:00
- - user: None
- - tags: []
-
-## OpenArena Live
- - [https://openarena.live](https://openarena.live)
- - date published: 2023-10-27T13:49:27.327714+00:00
- - user: None
- - tags: ['quake']
-
-## Intro
- - [https://usegpu.live](https://usegpu.live)
- - date published: 2023-10-25T20:18:56.873594+00:00
- - user: None
- - tags: []
-
-## Scribblings of an introvert
- - [https://yadukrishnan.live](https://yadukrishnan.live)
- - date published: 2023-10-25T08:59:32.300933+00:00
- - user: None
- - tags: ['personal']
-
-## Justine Tunney's Web Page
- - [https://justine.lol](https://justine.lol)
- - date published: 2023-10-25T08:59:33.852013+00:00
- - user: None
- - tags: ['personal']
-
-## Noted - Self Hosted App and Product Reviews
- - [https://noted.lol](https://noted.lol)
- - date published: 2023-10-25T20:19:04.323466+00:00
  - user: None
  - tags: []
 

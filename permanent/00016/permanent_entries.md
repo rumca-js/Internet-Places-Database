@@ -1,3 +1,425 @@
+## Share and accept documents securely
+ - [https://securedrop.org](https://securedrop.org)
+ - date published: 2023-10-25T22:07:55.571358+00:00
+ - user: None
+ - tags: []
+
+## semantic-mediawiki.org
+ - [https://www.semantic-mediawiki.org](https://www.semantic-mediawiki.org)
+ - date published: 2023-10-25T22:07:57.119185+00:00
+ - user: None
+ - tags: []
+
+## Semantic Versioning 2.0.0 | Semantic Versioning
+ - [https://semver.org](https://semver.org)
+ - date published: 2023-10-25T22:07:58.320918+00:00
+ - user: None
+ - tags: []
+
+## sendaiben.org
+ - [https://sendaiben.org](https://sendaiben.org)
+ - date published: 2023-11-16T21:08:00.508002+00:00
+ - user: None
+ - tags: ['personal']
+
+## SerenityOS
+ - [https://serenityos.org](https://serenityos.org)
+ - date published: 2023-10-25T22:07:59.140782+00:00
+ - user: None
+ - tags: []
+
+## Serial Reader | Classic Books in Daily Bits for iOS and Android
+ - [https://www.serialreader.org](https://www.serialreader.org)
+ - date published: 2023-10-25T22:08:05.962650+00:00
+ - user: None
+ - tags: []
+
+## Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+ - [https://servo.org](https://servo.org)
+ - date published: 2023-10-25T22:08:07.109939+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.seti.org](https://www.seti.org)
+ - date published: 2023-11-08T20:10:13.771332+00:00
+ - user: None
+ - tags: ['universe', 'space', 'science', 'organization']
+
+## Just another blog
+ - [https://www.setphaserstostun.org](https://www.setphaserstostun.org)
+ - date published: 2023-10-25T22:08:07.940698+00:00
+ - user: None
+ - tags: []
+
+## Software Freedom Conservancy
+ - [https://sfconservancy.org](https://sfconservancy.org)
+ - date published: 2023-10-25T22:08:09.665469+00:00
+ - user: None
+ - tags: []
+
+## SF Memory
+ - [https://sfmemory.org](https://sfmemory.org)
+ - date published: 2023-10-25T22:08:11.097236+00:00
+ - user: None
+ - tags: []
+
+## San Francisco Museum of Modern Art
+ - [https://www.sfmoma.org](https://www.sfmoma.org)
+ - date published: 2023-11-13T13:47:47.040549+00:00
+ - user: None
+ - tags: ['museum']
+
+## shreyans
+ - [https://shreyans.org](https://shreyans.org)
+ - date published: 2023-11-09T19:00:05.108858+00:00
+ - user: None
+ - tags: []
+
+## SHRM - The Voice of All Things Work
+ - [https://www.shrm.org](https://www.shrm.org)
+ - date published: 2023-10-25T22:08:14.306313+00:00
+ - user: None
+ - tags: []
+
+## Shtetl - Haredi Free Press
+ - [https://www.shtetl.org](https://www.shtetl.org)
+ - date published: 2023-10-25T10:53:52.750732+00:00
+ - user: None
+ - tags: []
+
+## Сибирь.Реалии
+ - [https://www.sibreal.org](https://www.sibreal.org)
+ - date published: 2023-12-18T14:56:48.646089+00:00
+ - user: None
+ - tags: []
+
+## SIGARCH | The ACM Special Interest Group on Computer Architecture
+ - [https://www.sigarch.org](https://www.sigarch.org)
+ - date published: 2023-10-25T22:08:17.795553+00:00
+ - user: None
+ - tags: []
+
+## Computer Communication Review
+ - [http://ccr.sigcomm.org](http://ccr.sigcomm.org)
+ - date published: 2023-11-28T16:20:45.991303+00:00
+ - user: None
+ - tags: []
+
+## Home - Sightline Institute
+ - [https://www.sightline.org](https://www.sightline.org)
+ - date published: 2023-10-25T22:08:21.247502+00:00
+ - user: None
+ - tags: []
+
+## ACM SIGMICRO: Home
+ - [https://www.sigmicro.org](https://www.sigmicro.org)
+ - date published: 2023-11-29T17:19:24.251668+00:00
+ - user: None
+ - tags: []
+
+## SIGMOD Record – SIGMOD Record Site
+ - [https://sigmodrecord.org](https://sigmodrecord.org)
+ - date published: 2023-10-25T22:08:28.470823+00:00
+ - user: None
+ - tags: []
+
+## Signal Messenger: Speak Freely
+ - [https://signal.org](https://signal.org)
+ - date published: 2023-10-24T20:12:52.142794+00:00
+ - user: None
+ - tags: ['social communicator']
+
+## https://support.signal.org
+ - [https://support.signal.org](https://support.signal.org)
+ - date published: 2023-11-08T23:51:03.659129+00:00
+ - user: None
+ - tags: []
+
+## Signal >> Home
+ - [https://www.signal.org](https://www.signal.org)
+ - date published: 2023-10-25T22:08:30.669838+00:00
+ - user: None
+ - tags: []
+
+## Signal K » Welcome
+ - [https://signalk.org](https://signalk.org)
+ - date published: 2023-10-25T22:08:31.584869+00:00
+ - user: None
+ - tags: []
+
+## Signal Community
+ - [https://community.signalusers.org](https://community.signalusers.org)
+ - date published: 2023-11-08T23:51:02.541959+00:00
+ - user: None
+ - tags: []
+
+## ACM SIGOPS – ACM Special interest Group in Operating Systems
+ - [https://www.sigops.org](https://www.sigops.org)
+ - date published: 2023-10-25T22:08:34.443040+00:00
+ - user: None
+ - tags: []
+
+## ICFP 2023
+ - [https://icfp23.sigplan.org](https://icfp23.sigplan.org)
+ - date published: 2023-10-25T22:08:36.841375+00:00
+ - user: None
+ - tags: []
+
+## SIL International
+ - [https://www.sil.org](https://www.sil.org)
+ - date published: 2023-11-29T10:39:09.530018+00:00
+ - user: None
+ - tags: []
+
+## SILE – Home
+ - [https://sile-typesetter.org](https://sile-typesetter.org)
+ - date published: 2023-10-25T22:08:38.828784+00:00
+ - user: None
+ - tags: []
+
+## Simon Dalvai
+ - [https://simondalvai.org](https://simondalvai.org)
+ - date published: 2023-10-25T08:55:11.362386+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sim o.n.e.
+ - [https://simone.org](https://simone.org)
+ - date published: 2023-10-25T22:08:40.726180+00:00
+ - user: None
+ - tags: []
+
+## SimplyDifferently.org: Home *
+ - [https://simplydifferently.org](https://simplydifferently.org)
+ - date published: 2023-10-25T22:08:42.916358+00:00
+ - user: None
+ - tags: []
+
+## SIRUM - Saving Medicine : Saving Lives
+ - [https://sirum.org](https://sirum.org)
+ - date published: 2023-10-25T22:08:45.945829+00:00
+ - user: None
+ - tags: []
+
+## Site.js
+ - [https://sitejs.org](https://sitejs.org)
+ - date published: 2023-10-25T22:08:53.252429+00:00
+ - user: None
+ - tags: []
+
+## DebianEdu - Debian Wiki
+ - [https://people.skolelinux.org](https://people.skolelinux.org)
+ - date published: 2023-10-25T22:08:55.375389+00:00
+ - user: None
+ - tags: []
+
+## BC Time-Slip – THE EMPIRE NEVER ENDED
+ - [https://bctimeslip.skullcrackersuite.org](https://bctimeslip.skullcrackersuite.org)
+ - date published: 2023-10-25T22:08:58.518054+00:00
+ - user: None
+ - tags: []
+
+## Sky & Telescope | Astronomy News, Tools & Resources - Sky & Telescope
+ - [https://skyandtelescope.org](https://skyandtelescope.org)
+ - date published: 2023-10-25T22:09:01.947604+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://developers.slashdot.org](https://developers.slashdot.org)
+ - date published: 2023-10-25T22:09:06.238735+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://linux.slashdot.org](https://linux.slashdot.org)
+ - date published: 2023-11-08T09:45:30.976482+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://news.slashdot.org](https://news.slashdot.org)
+ - date published: 2023-10-25T22:09:10.967180+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://science.slashdot.org](https://science.slashdot.org)
+ - date published: 2023-10-25T22:09:13.734941+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://slashdot.org](https://slashdot.org)
+ - date published: 2023-10-25T22:09:16.501527+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://tech.slashdot.org](https://tech.slashdot.org)
+ - date published: 2023-10-25T22:09:19.469269+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://yro.slashdot.org](https://yro.slashdot.org)
+ - date published: 2023-10-25T22:09:22.905117+00:00
+ - user: None
+ - tags: []
+
+## Slated | You can run, but you can't hide
+ - [https://slated.org](https://slated.org)
+ - date published: 2023-10-25T22:09:25.599578+00:00
+ - user: None
+ - tags: []
+
+## http://slesinsky.org
+ - [http://slesinsky.org](http://slesinsky.org)
+ - date published: 2023-10-25T22:09:31.010196+00:00
+ - user: None
+ - tags: []
+
+## https://smarthistory.org
+ - [https://smarthistory.org](https://smarthistory.org)
+ - date published: 2023-10-25T22:09:34.986464+00:00
+ - user: None
+ - tags: []
+
+## snarfed.org | Ryan Barrett's blog
+ - [https://snarfed.org](https://snarfed.org)
+ - date published: 2023-10-25T22:09:37.831799+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Shepherd's Oasis! - Shepherd's Oasis
+ - [https://soasis.org](https://soasis.org)
+ - date published: 2023-10-25T22:09:38.795718+00:00
+ - user: None
+ - tags: []
+
+## Quality News: Hacker News Rankings
+ - [https://news.social-protocols.org](https://news.social-protocols.org)
+ - date published: 2023-10-25T22:09:46.336197+00:00
+ - user: None
+ - tags: []
+
+## index — Quarrelsome
+ - [https://sockpuppet.org](https://sockpuppet.org)
+ - date published: 2023-10-25T22:09:48.555382+00:00
+ - user: None
+ - tags: []
+
+## Software Preservation Society
+ - [http://www.softpres.org](http://www.softpres.org)
+ - date published: 2023-12-11T18:33:05.002198+00:00
+ - user: None
+ - tags: []
+
+## Software Preservation Group
+        —
+        Software Preservation Group
+ - [https://www.softwarepreservation.org](https://www.softwarepreservation.org)
+ - date published: 2023-10-25T22:09:52.170128+00:00
+ - user: None
+ - tags: []
+
+## Sol-1 74 Series Logic Homebrew CPU - 2.5MHz
+ - [http://www.sol-1.org](http://www.sol-1.org)
+ - date published: 2023-12-08T08:31:20.931639+00:00
+ - user: None
+ - tags: []
+
+## SolarPACES - International CSP research
+ - [https://www.solarpaces.org](https://www.solarpaces.org)
+ - date published: 2023-10-25T22:09:59.992144+00:00
+ - user: None
+ - tags: []
+
+## Home · Solid
+ - [https://solidproject.org](https://solidproject.org)
+ - date published: 2023-10-25T22:10:03.110937+00:00
+ - user: None
+ - tags: []
+
+## Source Academy
+ - [https://sourceacademy.org](https://sourceacademy.org)
+ - date published: 2023-10-25T22:10:04.254495+00:00
+ - user: None
+ - tags: []
+
+## sourcehut - the hacker's forge
+ - [https://sourcehut.org](https://sourcehut.org)
+ - date published: 2023-10-25T22:10:11.306606+00:00
+ - user: None
+ - tags: []
+
+## sourceware.org:  Free software!  Get your fresh hot free software!
+ - [https://sourceware.org](https://sourceware.org)
+ - date published: 2023-10-25T22:10:14.177604+00:00
+ - user: None
+ - tags: []
+
+## Church of the Flying Spaghetti Monster – The world's fastest growing religion
+ - [https://www.spaghettimonster.org](https://www.spaghettimonster.org)
+ - date published: 2023-10-25T11:33:27.690487+00:00
+ - user: None
+ - tags: []
+
+## Spatial
+ - [https://spatial-lang.org](https://spatial-lang.org)
+ - date published: 2023-10-25T22:10:16.765918+00:00
+ - user: None
+ - tags: []
+
+## The American Spectator | USA News and Politics
+ - [https://spectator.org](https://spectator.org)
+ - date published: 2023-10-25T22:10:25.131810+00:00
+ - user: None
+ - tags: []
+
+## Southern Poverty Law Center
+ - [https://www.splcenter.org](https://www.splcenter.org)
+ - date published: 2023-10-25T22:10:28.735082+00:00
+ - user: None
+ - tags: []
+
+## Sqids – Generate Short Unique IDs from Numbers
+ - [https://sqids.org](https://sqids.org)
+ - date published: 2023-11-25T17:30:06+00:00
+ - user: None
+ - tags: []
+
+## SQLAlchemy - The Database Toolkit for Python
+ - [https://www.sqlalchemy.org](https://www.sqlalchemy.org)
+ - date published: 2023-10-25T22:10:35.303229+00:00
+ - user: None
+ - tags: []
+
+## SQLite Home Page
+ - [https://sqlite.org](https://sqlite.org)
+ - date published: 2023-10-25T08:34:11.917438+00:00
+ - user: None
+ - tags: []
+
+## SQLite Home Page
+ - [https://www.sqlite.org](https://www.sqlite.org)
+ - date published: 2023-10-25T08:30:44.493063+00:00
+ - user: None
+ - tags: ['open source']
+
+## sqlpkg - SQLite Package Manager and Registry
+ - [https://sqlpkg.org](https://sqlpkg.org)
+ - date published: 2023-10-25T22:10:36.907709+00:00
+ - user: None
+ - tags: []
+
+## Swikis on this Site
+ - [https://wiki.squeak.org](https://wiki.squeak.org)
+ - date published: 2023-10-25T22:10:38.150045+00:00
+ - user: None
+ - tags: []
+
 ## Stanford Social Innovation Review: Informing and Inspiring Leaders of Social Change
  - [https://ssir.org](https://ssir.org)
  - date published: 2023-10-25T22:10:50.257498+00:00
@@ -1387,6 +1809,12 @@
 ## Wayfire
  - [https://wayfire.org](https://wayfire.org)
  - date published: 2023-10-25T22:18:47.793906+00:00
+ - user: None
+ - tags: []
+
+## WBEZ | Chicago's NPR News Source
+ - [https://www.wbez.org](https://www.wbez.org)
+ - date published: 2023-12-23T15:29:48.836182+00:00
  - user: None
  - tags: []
 
@@ -4134,6 +4562,12 @@ is forbidden
  - user: rumpel
  - tags: ['game news']
 
+## RetroFun.PL – 8-bit tech strikes back!
+ - [https://retrofun.pl](https://retrofun.pl)
+ - date published: 2023-12-23T11:33:30.598321+00:00
+ - user: None
+ - tags: []
+
 ## Retro Maniek wita na swoim blogu!
  - [https://www.retromaniek.pl](https://www.retromaniek.pl)
  - date published: 2023-11-02T09:41:07.935535+00:00
@@ -5574,436 +6008,4 @@ is forbidden
  - date published: 2023-11-13T10:41:31.975263+00:00
  - user: None
  - tags: ['music band']
-
-## Sci-Hub: emancipation and democratisation of knowledge
- - [https://sci-hub.se](https://sci-hub.se)
- - date published: 2023-10-25T22:37:28.340599+00:00
- - user: None
- - tags: []
-
-## Välkommen till Seko
- - [https://www.seko.se](https://www.seko.se)
- - date published: 2023-11-08T15:56:06.434735+00:00
- - user: None
- - tags: []
-
-## Inte så lagom
- - [https://tomscii.sig7.se](https://tomscii.sig7.se)
- - date published: 2023-10-25T22:37:29.269135+00:00
- - user: None
- - tags: []
-
-## Spelpappan Jimmy Wilhelmsson – Grävande artiklar om datorspel, rollspel, brädspel, nördböcker och serier.
- - [https://spelpappan.se](https://spelpappan.se)
- - date published: 2023-10-25T22:37:31.118951+00:00
- - user: None
- - tags: []
-
-## Stockholms universitet
- - [https://www.su.se](https://www.su.se)
- - date published: 2023-10-25T11:23:47.766606+00:00
- - user: None
- - tags: []
-
-## Sveriges Radio - lokala och rikstäckande radiokanaler
- - [https://sverigesradio.se](https://sverigesradio.se)
- - date published: 2023-10-25T22:37:32.906094+00:00
- - user: None
- - tags: []
-
-## SVT Nyheter
- - [https://www.svt.se](https://www.svt.se)
- - date published: 2023-11-28T17:41:44.561880+00:00
- - user: None
- - tags: []
-
-## Start | Sweden
- - [https://identity.sweden.se](https://identity.sweden.se)
- - date published: 2023-10-25T22:37:34.022899+00:00
- - user: None
- - tags: []
-
-## The Local - Sweden's news in English
- - [https://www.thelocal.se](https://www.thelocal.se)
- - date published: 2023-10-25T22:37:36.940875+00:00
- - user: None
- - tags: []
-
-## Therion | therion
- - [https://www.therion.se](https://www.therion.se)
- - date published: 2023-11-13T09:39:42.327749+00:00
- - user: None
- - tags: ['music band']
-
-## Tillitis – Tillitis – The creator of TKey, the open source USB security key alternative.
- - [https://www.tillitis.se](https://www.tillitis.se)
- - date published: 2023-10-25T22:37:38.676725+00:00
- - user: None
- - tags: []
-
-## under orion | under orion
- - [https://underorion.se](https://underorion.se)
- - date published: 2023-10-25T22:37:39.888127+00:00
- - user: None
- - tags: []
-
-## Vasamuseet
- - [https://www.vasamuseet.se](https://www.vasamuseet.se)
- - date published: 2023-11-13T13:50:44.430060+00:00
- - user: None
- - tags: ['museum']
-
-## Biltester, bilnyheter, bilforum och test av rostskydd, däck, billjus och andra produkter. | Vi Bilägare
- - [https://www.vibilagare.se](https://www.vibilagare.se)
- - date published: 2023-10-25T22:37:43.874042+00:00
- - user: None
- - tags: []
-
-## WebP Cloud Services Blog
- - [https://blog.webp.se](https://blog.webp.se)
- - date published: 2023-10-25T22:37:45.007507+00:00
- - user: None
- - tags: []
-
-## Yingyu’s Blog
- - [https://wingu.se](https://wingu.se)
- - date published: 2023-12-21T14:45:10.691382+00:00
- - user: None
- - tags: []
-
-## DSPM: Data Security at the Speed of Cloud | Dig Security
- - [https://www.dig.security](https://www.dig.security)
- - date published: 2023-10-25T22:37:47.275606+00:00
- - user: None
- - tags: []
-
-## Positive Security - IT Security Research & Consulting
- - [https://positive.security](https://positive.security)
- - date published: 2023-10-25T22:37:48.281104+00:00
- - user: None
- - tags: []
-
-## A cloud platform to enrich services made with Ergo Framework.
- - [https://cloud.ergo.services](https://cloud.ergo.services)
- - date published: 2023-10-25T22:37:54.772238+00:00
- - user: None
- - tags: []
-
-## Kofi Gumbs
- - [https://kofi.sexy](https://kofi.sexy)
- - date published: 2023-10-25T22:37:55.939601+00:00
- - user: None
- - tags: []
-
-## https://www.businesstimes.com.sg
- - [https://www.businesstimes.com.sg](https://www.businesstimes.com.sg)
- - date published: 2023-10-25T22:37:56.906260+00:00
- - user: None
- - tags: []
-
-## CITROËN Singapore : Passenger Cars and Commercial Vehicles
- - [https://www.citroen.com.sg](https://www.citroen.com.sg)
- - date published: 2023-12-11T16:01:42.984836+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.ntu.edu.sg](https://www.ntu.edu.sg)
- - date published: 2023-11-18T13:29:25.952064+00:00
- - user: None
- - tags: []
-
-## https://medicine.nus.edu.sg
- - [https://medicine.nus.edu.sg](https://medicine.nus.edu.sg)
- - date published: 2023-11-16T13:52:13.001107+00:00
- - user: None
- - tags: []
-
-## BiblioAsia
- - [https://biblioasia.nlb.gov.sg](https://biblioasia.nlb.gov.sg)
- - date published: 2023-10-25T22:38:00.760584+00:00
- - user: None
- - tags: []
-
-## International News, Analysis, Politics, Business, Technology, Entertainment - IB Times SG Edition
- - [https://www.ibtimes.sg](https://www.ibtimes.sg)
- - date published: 2023-12-04T09:13:30.199869+00:00
- - user: None
- - tags: []
-
-## Mothership.SG - News from Singapore, Asia and around the world
- - [https://mothership.sg](https://mothership.sg)
- - date published: 2023-12-06T09:13:19.357127+00:00
- - user: None
- - tags: ['sinapore news', 'asia news']
-
-## when trees fall...
- - [https://blog.wtf.sg](https://blog.wtf.sg)
- - date published: 2023-10-25T22:38:01.640867+00:00
- - user: None
- - tags: []
-
-## Aakash Patel
- - [https://aaka.sh](https://aaka.sh)
- - date published: 2023-10-25T08:55:35.693568+00:00
- - user: None
- - tags: ['personal']
-
-## Alma
- - [https://www.alma.sh](https://www.alma.sh)
- - date published: 2023-10-25T22:38:01.970470+00:00
- - user: None
- - tags: []
-
-## Alyx Wijers
- - [https://alyx.sh](https://alyx.sh)
- - date published: 2023-12-02T08:30:28.363026+00:00
- - user: None
- - tags: []
-
-## Artemis Everfree
- - [https://artemis.sh](https://artemis.sh)
- - date published: 2023-10-25T08:55:44.400225+00:00
- - user: None
- - tags: ['personal']
-
-## Astral: Next-gen Python tooling
- - [https://astral.sh](https://astral.sh)
- - date published: 2023-10-25T22:38:03.500791+00:00
- - user: None
- - tags: []
-
-## Noah's Rug (5784) — Hanukkah of Data
- - [https://hanukkah.bluebird.sh](https://hanukkah.bluebird.sh)
- - date published: 2023-12-07T19:20:29.682884+00:00
- - user: None
- - tags: ['challnege', 'puzzle game', 'internet', 'programming', 'wtf']
-
-## Leo Gao
- - [https://bmk.sh](https://bmk.sh)
- - date published: 2023-10-25T22:38:04.762550+00:00
- - user: None
- - tags: []
-
-## erock's blog
- - [https://bower.sh](https://bower.sh)
- - date published: 2023-10-25T09:24:33.663418+00:00
- - user: None
- - tags: ['personal']
-
-## Bref – Simple and scalable PHP with serverless
- - [https://bref.sh](https://bref.sh)
- - date published: 2023-11-01T15:23:20.187581+00:00
- - user: None
- - tags: []
-
-## Homebrew — The Missing Package Manager for macOS (or Linux)
- - [https://brew.sh](https://brew.sh)
- - date published: 2023-10-25T22:38:06.165257+00:00
- - user: None
- - tags: []
-
-## Documentation — Homebrew Documentation
- - [https://docs.brew.sh](https://docs.brew.sh)
- - date published: 2023-10-25T22:38:07.697226+00:00
- - user: None
- - tags: []
-
-## Bun — A fast all-in-one JavaScript runtime
- - [https://bun.sh](https://bun.sh)
- - date published: 2023-10-25T22:38:10.782566+00:00
- - user: None
- - tags: []
-
-## Charm
- - [https://charm.sh](https://charm.sh)
- - date published: 2023-11-03T09:56:30.357523+00:00
- - user: None
- - tags: []
-
-## checksum.sh - Verify Every Install Script | checksum.sh
- - [https://checksum.sh](https://checksum.sh)
- - date published: 2023-10-25T22:38:11.607869+00:00
- - user: None
- - tags: []
-
-## copy's home
- - [https://copy.sh](https://copy.sh)
- - date published: 2023-10-25T22:38:12.223744+00:00
- - user: None
- - tags: ['personal']
-
-## Cursor - The AI-first Code Editor
- - [https://cursor.sh](https://cursor.sh)
- - date published: 2023-10-25T22:38:12.999026+00:00
- - user: None
- - tags: []
-
-## [Michał Sapka's website]
- - [https://d-s.sh](https://d-s.sh)
- - date published: 2023-10-25T09:24:36.592874+00:00
- - user: None
- - tags: ['personal']
-
-## DevPod - Open Source Dev-Environments-As-Code
- - [https://devpod.sh](https://devpod.sh)
- - date published: 2023-10-25T22:38:13.978640+00:00
- - user: None
- - tags: []
-
-## Dmytro on Things
- - [https://dmytro.sh](https://dmytro.sh)
- - date published: 2023-10-25T22:38:14.858579+00:00
- - user: None
- - tags: []
-
-## Dub - Link Management for Modern Marketing Teams
- - [https://dub.sh](https://dub.sh)
- - date published: 2023-10-25T22:38:22.951450+00:00
- - user: None
- - tags: []
-
-## ./gibson.sh --blog
- - [https://blog.gibson.sh](https://blog.gibson.sh)
- - date published: 2023-10-25T09:24:37.801883+00:00
- - user: None
- - tags: ['personal']
-
-## Harlequin: The DuckDB IDE for Your Terminal.
- - [https://harlequin.sh](https://harlequin.sh)
- - date published: 2023-10-25T22:38:24.159361+00:00
- - user: None
- - tags: []
-
-## ian carroll
- - [https://ian.sh](https://ian.sh)
- - date published: 2023-10-25T22:38:25.169602+00:00
- - user: None
- - tags: []
-
-## j3s.sh
- - [https://j3s.sh](https://j3s.sh)
- - date published: 2023-10-25T22:38:25.955497+00:00
- - user: None
- - tags: []
-
-## Show HN: Jeeves – A Pythonic Alternative to GNU Make
- - [https://jeeves.sh](https://jeeves.sh)
- - date published: 2023-11-06T00:04:25+00:00
- - user: None
- - tags: []
-
-## Kaushik Gopal's Site
- - [https://kau.sh](https://kau.sh)
- - date published: 2023-10-25T08:55:45.952108+00:00
- - user: None
- - tags: ['personal']
-
-## change is - matt.sh
- - [https://matt.sh](https://matt.sh)
- - date published: 2023-10-25T22:38:28.757019+00:00
- - user: None
- - tags: []
-
-## mkws themes
- - [https://t.mkws.sh](https://t.mkws.sh)
- - date published: 2023-10-25T22:38:29.732632+00:00
- - user: None
- - tags: []
-
-## mzrnsh › Home
- - [https://mzrn.sh](https://mzrn.sh)
- - date published: 2023-10-25T22:38:30.595869+00:00
- - user: None
- - tags: []
-
-## nodb.sh
- - [https://nodb.sh](https://nodb.sh)
- - date published: 2023-10-25T22:38:32.548203+00:00
- - user: None
- - tags: []
-
-## Novel – Notion-style WYSIWYG editor with AI-powered autocompletions
- - [https://novel.sh](https://novel.sh)
- - date published: 2023-10-25T22:38:38.175820+00:00
- - user: None
- - tags: []
-
-## ntfy.sh | Send push notifications to your phone via PUT/POST
- - [https://ntfy.sh](https://ntfy.sh)
- - date published: 2023-10-25T22:38:40.020029+00:00
- - user: None
- - tags: []
-
-## Nushell
- - [https://www.nushell.sh](https://www.nushell.sh)
- - date published: 2023-10-25T08:34:23.003511+00:00
- - user: None
- - tags: []
-
-## nwb.sh
- - [https://nwb.sh](https://nwb.sh)
- - date published: 2023-10-25T22:38:41.217075+00:00
- - user: None
- - tags: []
-
-## Open Folder
- - [https://openfolder.sh](https://openfolder.sh)
- - date published: 2023-10-25T22:38:42.170725+00:00
- - user: None
- - tags: []
-
-## gniP
- - [https://www.peeng.sh](https://www.peeng.sh)
- - date published: 2023-10-25T22:38:43.225021+00:00
- - user: None
- - tags: []
-
-## Peter Beverloo
- - [https://peter.sh](https://peter.sh)
- - date published: 2023-10-25T22:38:45.358697+00:00
- - user: None
- - tags: []
-
-## pgs.sh -- A zero-dependency static site hosting service for hackers.
- - [https://pgs.sh](https://pgs.sh)
- - date published: 2023-10-25T22:38:46.155641+00:00
- - user: None
- - tags: []
-
-## pkgx — Run Anything
- - [https://pkgx.sh](https://pkgx.sh)
- - date published: 2023-10-25T22:38:47.144388+00:00
- - user: None
- - tags: []
-
-## Plural | Secure, self-hosted applications in your cloud
- - [https://www.plural.sh](https://www.plural.sh)
- - date published: 2023-10-25T22:38:50.500372+00:00
- - user: None
- - tags: []
-
-## welcome | osu!
- - [https://osu.ppy.sh](https://osu.ppy.sh)
- - date published: 2023-11-12T22:06:36.000555+00:00
- - user: None
- - tags: []
-
-## Developer Roadmaps - roadmap.sh
- - [https://roadmap.sh](https://roadmap.sh)
- - date published: 2023-10-25T22:38:53.579530+00:00
- - user: None
- - tags: []
-
-## thoughts
- - [https://thoughts.theden.sh](https://thoughts.theden.sh)
- - date published: 2023-11-26T09:06:04.933677+00:00
- - user: None
- - tags: []
-
-## tmp.0ut
- - [https://tmpout.sh](https://tmpout.sh)
- - date published: 2023-11-21T13:49:38.879677+00:00
- - user: None
- - tags: []
 

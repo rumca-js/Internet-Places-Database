@@ -1,3 +1,111 @@
+## Geoff Chappell, Software Analyst
+ - [https://www.geoffchappell.com](https://www.geoffchappell.com)
+ - date published: 2023-10-25T14:42:56.546565+00:00
+ - user: None
+ - tags: ['personal']
+
+## Geoffrey Litt
+ - [https://www.geoffreylitt.com](https://www.geoffreylitt.com)
+ - date published: 2023-10-25T08:45:51.812597+00:00
+ - user: None
+ - tags: ['personal']
+
+## Geopolitical Economy Report - News and analysis to understand the world
+ - [https://geopoliticaleconomy.com](https://geopoliticaleconomy.com)
+ - date published: 2023-10-25T14:43:01.004998+00:00
+ - user: None
+ - tags: []
+
+## https://blog.georeactor.com
+ - [https://blog.georeactor.com](https://blog.georeactor.com)
+ - date published: 2023-11-08T20:32:19.048906+00:00
+ - user: None
+ - tags: []
+
+## Home | George McCandless
+ - [https://georgemccandless.com](https://georgemccandless.com)
+ - date published: 2023-12-02T13:41:07.009587+00:00
+ - user: None
+ - tags: ['personal']
+
+## George Nance
+ - [https://georgenance.com](https://georgenance.com)
+ - date published: 2023-12-18T01:34:27.680527+00:00
+ - user: None
+ - tags: ['personal']
+
+## George Soros
+ - [https://www.georgesoros.com](https://www.georgesoros.com)
+ - date published: 2023-10-25T11:24:05.968668+00:00
+ - user: None
+ - tags: ['vip']
+
+## Georgette Tan – doing the write things everyday
+ - [https://www.georgettetan.com](https://www.georgettetan.com)
+ - date published: 2023-10-25T14:43:06.251985+00:00
+ - user: None
+ - tags: []
+
+## Home | Georgia Power
+ - [https://www.georgiapower.com](https://www.georgiapower.com)
+ - date published: 2023-10-25T14:43:10.622598+00:00
+ - user: None
+ - tags: []
+
+## George's Techblog
+ - [https://blog.georgovassilis.com](https://blog.georgovassilis.com)
+ - date published: 2023-12-23T12:23:48.849956+00:00
+ - user: None
+ - tags: []
+
+## German Velasco
+ - [https://www.germanvelasco.com](https://www.germanvelasco.com)
+ - date published: 2023-10-25T09:20:31.952130+00:00
+ - user: None
+ - tags: ['personal']
+
+## Gerrit Niezen
+ - [https://gerritniezen.com](https://gerritniezen.com)
+ - date published: 2023-12-21T08:24:56.376054+00:00
+ - user: None
+ - tags: ['personal']
+
+## gerrysweeney.com – Sharing My Passion for Electronics Engineering and Software Hacking
+ - [https://gerrysweeney.com](https://gerrysweeney.com)
+ - date published: 2023-10-25T14:43:13.625341+00:00
+ - user: None
+ - tags: []
+
+## The Merit Blog
+ - [https://blog.get-merit.com](https://blog.get-merit.com)
+ - date published: 2023-10-25T14:43:14.925127+00:00
+ - user: None
+ - tags: []
+
+## WordPress Website Maintenance & Security Plans for Solopreneurs & DIY Website Owners
+ - [https://getageekinyourpocket.com](https://getageekinyourpocket.com)
+ - date published: 2023-12-23T07:30:24.064849+00:00
+ - user: None
+ - tags: ['personal']
+
+## Bootstrap Blog · Official blog for the Bootstrap framework.
+ - [https://blog.getbootstrap.com](https://blog.getbootstrap.com)
+ - date published: 2023-10-25T14:43:17.288353+00:00
+ - user: None
+ - tags: []
+
+## Bootstrap
+ - [https://getbootstrap.com](https://getbootstrap.com)
+ - date published: 2023-12-13T15:37:35.486448+00:00
+ - user: None
+ - tags: []
+
+## Chestr | A Universal Shopping Wishlist App
+ - [https://www.getchestr.com](https://www.getchestr.com)
+ - date published: 2023-11-03T20:33:09.165027+00:00
+ - user: None
+ - tags: []
+
 ## clearspace blog
  - [https://blog.getclearspace.com](https://blog.getclearspace.com)
  - date published: 2023-10-25T14:43:21.833347+00:00
@@ -154,6 +262,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-27T08:01:35.696808+00:00
  - user: None
  - tags: ['game news']
+
+## Why Gibiru attempts to take the canvas image data of my browser?
+ - [https://gibiru.com](https://gibiru.com)
+ - date published: 2023-12-23T18:32:45+00:00
+ - user: None
+ - tags: []
 
 ## gigamonkeys
  - [https://gigamonkeys.com](https://gigamonkeys.com)
@@ -532,6 +646,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-25T11:30:13.545385+00:00
  - user: None
  - tags: []
+
+## Goddamn Electric Bill – Ambient Electronica from San Diego, California
+ - [https://www.goddamnelectricbill.com](https://www.goddamnelectricbill.com)
+ - date published: 2023-12-23T02:59:42.426245+00:00
+ - user: None
+ - tags: ['personal']
 
 ## alex singleton | web developer | software engineer | financial analyst
  - [https://godhatesshrimp.com](https://godhatesshrimp.com)
@@ -4436,6 +4556,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Ivan Lukianchuk – Who is he? Does he know things? Let's find out!
+ - [https://ivanlukianchuk.com](https://ivanlukianchuk.com)
+ - date published: 2023-12-23T07:30:09.747818+00:00
+ - user: None
+ - tags: ['personal']
+
 ## iVentoy
  - [https://www.iventoy.com](https://www.iventoy.com)
  - date published: 2023-10-25T15:25:11.555461+00:00
@@ -5075,6 +5201,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Jeremy Howlett | Entrepreneur, Marketer, Philosopher, Husband and Dad
  - [https://jeremyhowlett.com](https://jeremyhowlett.com)
  - date published: 2023-11-29T17:16:32.441165+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeremy Jeziorski
+ - [https://www.jeremyjeziorski.com](https://www.jeremyjeziorski.com)
+ - date published: 2023-12-23T19:27:02.724013+00:00
  - user: None
  - tags: ['personal']
 
@@ -5720,6 +5852,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## The Site of Joshua Blais
+ - [https://joshblais.com](https://joshblais.com)
+ - date published: 2023-12-23T19:27:35.755531+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Josh Collinsworth
  - [https://joshcollinsworth.com](https://joshcollinsworth.com)
  - date published: 2023-10-25T08:46:42.529511+00:00
@@ -5863,142 +6001,4 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-12-11T12:23:44+00:00
  - user: rumpel
  - tags: ['code sandbox']
-
-## JS Is Weird
- - [https://jsisweird.com](https://jsisweird.com)
- - date published: 2023-10-25T15:32:31.192289+00:00
- - user: None
- - tags: []
-
-## J Wiki
- - [https://code.jsoftware.com](https://code.jsoftware.com)
- - date published: 2023-10-25T15:32:33.481302+00:00
- - user: None
- - tags: []
-
-## json-joy
- - [https://jsonjoy.com](https://jsonjoy.com)
- - date published: 2023-10-25T15:32:36.143937+00:00
- - user: None
- - tags: []
-
-## Milwaukee - home
- - [https://www.jsonline.com](https://www.jsonline.com)
- - date published: 2023-10-25T15:32:39.275546+00:00
- - user: None
- - tags: []
-
-## Juan and Joe Comedy
- - [https://www.juanandjoecomedy.com](https://www.juanandjoecomedy.com)
- - date published: 2023-11-29T17:08:42.429078+00:00
- - user: None
- - tags: []
-
-## Bastian Halbach | jubari.com
- - [https://www.jubari.com](https://www.jubari.com)
- - date published: 2023-12-12T13:08:58.557951+00:00
- - user: None
- - tags: ['personal']
-
-## Climate Etc.
- - [https://judithcurry.com](https://judithcurry.com)
- - date published: 2023-10-25T15:32:43.494387+00:00
- - user: None
- - tags: []
-
-## JuiceFS - Open Source Distributed POSIX File System for Cloud
- - [https://juicefs.com](https://juicefs.com)
- - date published: 2023-10-25T15:32:52.234309+00:00
- - user: None
- - tags: []
-
-## Juicy Beast – Indie game studio based in Montreal
- - [https://juicybeast.com](https://juicybeast.com)
- - date published: 2023-10-25T15:32:55.182232+00:00
- - user: None
- - tags: []
-
-## Julian Shapiro
- - [https://www.julian.com](https://www.julian.com)
- - date published: 2023-10-25T15:33:01.258134+00:00
- - user: None
- - tags: []
-
-## Juliana Han | Pianist
- - [https://www.julianahan.com](https://www.julianahan.com)
- - date published: 2023-11-29T17:14:16.216702+00:00
- - user: None
- - tags: []
-
-## JuliaZoid
- - [https://juliazoid.com](https://juliazoid.com)
- - date published: 2023-10-25T15:33:09.377920+00:00
- - user: None
- - tags: []
-
-## I'm lovin' I.T. by Julien Sobczak
- - [https://www.juliensobczak.com](https://www.juliensobczak.com)
- - date published: 2023-10-25T15:33:10.910422+00:00
- - user: None
- - tags: []
-
-## Julius Gamanyi
- - [https://juliusgamanyi.com](https://juliusgamanyi.com)
- - date published: 2023-10-25T15:33:12.043575+00:00
- - user: None
- - tags: []
-
-## Clippings (Classified Ad Archive) - by June07
- - [https://clippings.june07.com](https://clippings.june07.com)
- - date published: 2023-10-25T15:33:12.584078+00:00
- - user: None
- - tags: []
-
-## Juneau Empire
- - [https://www.juneauempire.com](https://www.juneauempire.com)
- - date published: 2023-11-25T12:18:51.021696+00:00
- - user: None
- - tags: []
-
-## Junkee
- - [https://junkee.com](https://junkee.com)
- - date published: 2023-12-04T05:33:57.826699+00:00
- - user: None
- - tags: []
-
-## Jupe || Sheltering Housing for those displaced across Maui, Ukraine, Earth, & Beyond...
- - [https://www.jupe.com](https://www.jupe.com)
- - date published: 2023-10-25T15:33:13.896734+00:00
- - user: None
- - tags: []
-
-## Jurnal Anas - Software developer, builder, and amateur writer
- - [https://www.jurnalanas.com](https://www.jurnalanas.com)
- - date published: 2023-10-25T15:33:14.824301+00:00
- - user: None
- - tags: []
-
-## Just Food -Global Food Industry News | Market Research and Reports
- - [https://www.just-food.com](https://www.just-food.com)
- - date published: 2023-10-25T15:33:19.932258+00:00
- - user: None
- - tags: []
-
-## Get Beep! Best Collaboration Tool for 4x Faster Online Communication
- - [https://www.justbeepit.com](https://www.justbeepit.com)
- - date published: 2023-10-25T15:33:32.299256+00:00
- - user: None
- - tags: []
-
-## Just History Posts
- - [https://justhistoryposts.com](https://justhistoryposts.com)
- - date published: 2023-10-25T15:33:36.311822+00:00
- - user: None
- - tags: []
-
-## US Case Law
- - [https://cases.justia.com](https://cases.justia.com)
- - date published: 2023-11-23T00:06:58.907747+00:00
- - user: None
- - tags: []
 

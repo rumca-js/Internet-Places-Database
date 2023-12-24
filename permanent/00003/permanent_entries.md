@@ -1,3 +1,87 @@
+## The website of author, artist, musician Dave Kobrenski
+ - [https://davekobrenski.com](https://davekobrenski.com)
+ - date published: 2023-11-29T15:45:17.836125+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hi! I'm Dave Paola
+ - [https://davepaola.com](https://davepaola.com)
+ - date published: 2023-11-29T14:41:13.952434+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Homepage of Dave Rupert | daverupert.com
+ - [https://daverupert.com](https://daverupert.com)
+ - date published: 2023-10-25T13:45:08.453766+00:00
+ - user: None
+ - tags: []
+
+## Designer & developer | Dave Smyth
+ - [https://davesmyth.com](https://davesmyth.com)
+ - date published: 2023-12-05T14:38:43.694748+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dave Snider
+ - [https://www.davesnider.com](https://www.davesnider.com)
+ - date published: 2023-10-25T15:09:54.539169+00:00
+ - user: None
+ - tags: []
+
+## David Drake – Science Fiction & Fantasy Writer
+ - [https://david-drake.com](https://david-drake.com)
+ - date published: 2023-12-11T18:53:29.186098+00:00
+ - user: None
+ - tags: []
+
+## davidbau.com
+ - [http://davidbau.com](http://davidbau.com)
+ - date published: 2023-10-25T13:45:23.165762+00:00
+ - user: None
+ - tags: []
+
+## David Bieber
+ - [https://davidbieber.com](https://davidbieber.com)
+ - date published: 2023-10-25T09:20:03.789222+00:00
+ - user: None
+ - tags: ['personal']
+
+## David D. Friedman's Home Page
+ - [http://daviddfriedman.com](http://daviddfriedman.com)
+ - date published: 2023-10-25T13:45:29.847007+00:00
+ - user: None
+ - tags: []
+
+## David D. Friedman's Home Page
+ - [http://www.daviddfriedman.com](http://www.daviddfriedman.com)
+ - date published: 2023-10-25T13:45:35.545655+00:00
+ - user: None
+ - tags: []
+
+## Welcome to nginx!
+ - [https://davidegallesi.com](https://davidegallesi.com)
+ - date published: 2023-12-05T14:38:12.497300+00:00
+ - user: None
+ - tags: ['personal']
+
+## Davide's notes - Home
+ - [https://davidesnotes.com](https://davidesnotes.com)
+ - date published: 2023-10-25T13:45:38.372242+00:00
+ - user: None
+ - tags: []
+
+## David Gomes
+ - [https://davidgomes.com](https://davidgomes.com)
+ - date published: 2023-10-25T13:45:40.991424+00:00
+ - user: None
+ - tags: []
+
+## David Hamp-Gonsalves
+ - [https://davidhampgonsalves.com](https://davidhampgonsalves.com)
+ - date published: 2023-10-25T13:45:47.026190+00:00
+ - user: None
+ - tags: []
+
 ## The Official David Hasselhoff Website | Everything David To Hoffinity & Beyond!
  - [https://davidhasselhoffonline.com](https://davidhasselhoffonline.com)
  - date published: 2023-11-13T09:52:52.903921+00:00
@@ -2999,6 +3083,12 @@
  - user: None
  - tags: []
 
+## Home - Ethan Zuckerman
+ - [https://ethanzuckerman.com](https://ethanzuckerman.com)
+ - date published: 2023-12-23T00:58:28.522500+00:00
+ - user: None
+ - tags: []
+
 ## Étienne Garbugli
  - [https://etiennegarbugli.com](https://etiennegarbugli.com)
  - date published: 2023-12-09T14:59:54.704872+00:00
@@ -3506,6 +3596,12 @@
 ## Broadband Providers Near You - Find ISPs In Your Area
  - [https://fairinternetreport.com](https://fairinternetreport.com)
  - date published: 2023-10-25T14:25:30.921219+00:00
+ - user: None
+ - tags: []
+
+## Fair Observer
+ - [https://www.fairobserver.com](https://www.fairobserver.com)
+ - date published: 2023-12-23T15:53:37.759640+00:00
  - user: None
  - tags: []
 
@@ -5901,102 +5997,6 @@
 ## Geospatial Analysis for OpenStreetMap | GeoDesk
  - [https://www.geodesk.com](https://www.geodesk.com)
  - date published: 2023-10-25T14:42:50.251196+00:00
- - user: None
- - tags: []
-
-## Geoff Chappell, Software Analyst
- - [https://www.geoffchappell.com](https://www.geoffchappell.com)
- - date published: 2023-10-25T14:42:56.546565+00:00
- - user: None
- - tags: ['personal']
-
-## Geoffrey Litt
- - [https://www.geoffreylitt.com](https://www.geoffreylitt.com)
- - date published: 2023-10-25T08:45:51.812597+00:00
- - user: None
- - tags: ['personal']
-
-## Geopolitical Economy Report - News and analysis to understand the world
- - [https://geopoliticaleconomy.com](https://geopoliticaleconomy.com)
- - date published: 2023-10-25T14:43:01.004998+00:00
- - user: None
- - tags: []
-
-## https://blog.georeactor.com
- - [https://blog.georeactor.com](https://blog.georeactor.com)
- - date published: 2023-11-08T20:32:19.048906+00:00
- - user: None
- - tags: []
-
-## Home | George McCandless
- - [https://georgemccandless.com](https://georgemccandless.com)
- - date published: 2023-12-02T13:41:07.009587+00:00
- - user: None
- - tags: ['personal']
-
-## George Nance
- - [https://georgenance.com](https://georgenance.com)
- - date published: 2023-12-18T01:34:27.680527+00:00
- - user: None
- - tags: ['personal']
-
-## George Soros
- - [https://www.georgesoros.com](https://www.georgesoros.com)
- - date published: 2023-10-25T11:24:05.968668+00:00
- - user: None
- - tags: ['vip']
-
-## Georgette Tan – doing the write things everyday
- - [https://www.georgettetan.com](https://www.georgettetan.com)
- - date published: 2023-10-25T14:43:06.251985+00:00
- - user: None
- - tags: []
-
-## Home | Georgia Power
- - [https://www.georgiapower.com](https://www.georgiapower.com)
- - date published: 2023-10-25T14:43:10.622598+00:00
- - user: None
- - tags: []
-
-## German Velasco
- - [https://www.germanvelasco.com](https://www.germanvelasco.com)
- - date published: 2023-10-25T09:20:31.952130+00:00
- - user: None
- - tags: ['personal']
-
-## Gerrit Niezen
- - [https://gerritniezen.com](https://gerritniezen.com)
- - date published: 2023-12-21T08:24:56.376054+00:00
- - user: None
- - tags: ['personal']
-
-## gerrysweeney.com – Sharing My Passion for Electronics Engineering and Software Hacking
- - [https://gerrysweeney.com](https://gerrysweeney.com)
- - date published: 2023-10-25T14:43:13.625341+00:00
- - user: None
- - tags: []
-
-## The Merit Blog
- - [https://blog.get-merit.com](https://blog.get-merit.com)
- - date published: 2023-10-25T14:43:14.925127+00:00
- - user: None
- - tags: []
-
-## Bootstrap Blog · Official blog for the Bootstrap framework.
- - [https://blog.getbootstrap.com](https://blog.getbootstrap.com)
- - date published: 2023-10-25T14:43:17.288353+00:00
- - user: None
- - tags: []
-
-## Bootstrap
- - [https://getbootstrap.com](https://getbootstrap.com)
- - date published: 2023-12-13T15:37:35.486448+00:00
- - user: None
- - tags: []
-
-## Chestr | A Universal Shopping Wishlist App
- - [https://www.getchestr.com](https://www.getchestr.com)
- - date published: 2023-11-03T20:33:09.165027+00:00
  - user: None
  - tags: []
 

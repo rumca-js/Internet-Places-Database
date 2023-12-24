@@ -1,3 +1,165 @@
+## MintPress News
+ - [https://www.mintpressnews.com](https://www.mintpressnews.com)
+ - date published: 2023-10-25T11:05:23.202392+00:00
+ - user: None
+ - tags: []
+
+## mIRC: Internet Relay Chat client
+ - [https://www.mirc.com](https://www.mirc.com)
+ - date published: 2023-10-25T08:36:59.140579+00:00
+ - user: None
+ - tags: ['social communicator']
+
+## Mirha Masala
+ - [https://www.mirhamasala.com](https://www.mirhamasala.com)
+ - date published: 2023-11-29T17:11:25.073563+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rich Mironov's Product Bytes
+ - [https://www.mironov.com](https://www.mironov.com)
+ - date published: 2023-10-25T16:04:55.298712+00:00
+ - user: None
+ - tags: []
+
+## Misalignment Museum – Learn about and reflect on the possibilities of AI technology
+ - [https://www.misalignmentmuseum.com](https://www.misalignmentmuseum.com)
+ - date published: 2023-10-25T16:05:00.740586+00:00
+ - user: None
+ - tags: []
+
+## About
+ - [https://www.mishalaskin.com](https://www.mishalaskin.com)
+ - date published: 2023-10-25T16:05:02.311743+00:00
+ - user: None
+ - tags: []
+
+## Misinformation Game: A social-media simulator for research.
+ - [https://misinfogame.com](https://misinfogame.com)
+ - date published: 2023-10-25T16:05:03.528783+00:00
+ - user: None
+ - tags: []
+
+## Home • Missouri Independent
+ - [https://missouriindependent.com](https://missouriindependent.com)
+ - date published: 2023-10-25T16:05:06.679051+00:00
+ - user: None
+ - tags: []
+
+## welcome - mister chad
+ - [https://mister-chad.com](https://mister-chad.com)
+ - date published: 2023-12-18T01:35:14.727669+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mitchell Hashimoto
+ - [https://mitchellh.com](https://mitchellh.com)
+ - date published: 2023-10-25T08:47:17.283545+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mitchell Daily Republic | Mitchell, South Dakota
+ - [https://www.mitchellrepublic.com](https://www.mitchellrepublic.com)
+ - date published: 2023-10-25T16:05:16.003254+00:00
+ - user: None
+ - tags: []
+
+## mitxela.com
+ - [https://mitxela.com](https://mitxela.com)
+ - date published: 2023-10-25T16:05:18.840474+00:00
+ - user: None
+ - tags: []
+
+## MIXED Reality News | Virtual Reality News & Augmented Reality News Virtual Reality News & Augmented Reality News
+ - [https://mixed-news.com](https://mixed-news.com)
+ - date published: 2023-10-25T16:05:20.938089+00:00
+ - user: None
+ - tags: ['tech news', 'virtual reality', 'mixed reality']
+
+## Find Bilingual Baby Names
+ - [https://mixedname.com](https://mixedname.com)
+ - date published: 2023-11-11T16:30:12+00:00
+ - user: None
+ - tags: []
+
+## Michael Tsai - Good Evening
+ - [https://mjtsai.com](https://mjtsai.com)
+ - date published: 2023-10-25T16:05:23.023112+00:00
+ - user: None
+ - tags: []
+
+## MKBHD
+ - [https://mkbhd.com](https://mkbhd.com)
+ - date published: 2023-10-27T11:54:59.212907+00:00
+ - user: None
+ - tags: []
+
+## ML Contests
+ - [https://mlcontests.com](https://mlcontests.com)
+ - date published: 2023-12-11T04:38:14.349312+00:00
+ - user: None
+ - tags: []
+
+## MLE Online
+ - [https://mle-online.com](https://mle-online.com)
+ - date published: 2023-10-25T16:05:27.416057+00:00
+ - user: None
+ - tags: []
+
+## Michigan Local News, Breaking News, Sports &amp; Weather
+ - [https://www.mlive.com](https://www.mlive.com)
+ - date published: 2023-11-03T15:33:21.597418+00:00
+ - user: None
+ - tags: []
+
+## Matteo Mazzarolo
+ - [https://mmazzarolo.com](https://mmazzarolo.com)
+ - date published: 2023-10-25T16:05:28.258789+00:00
+ - user: None
+ - tags: []
+
+## Monday Morning Haskell
+ - [https://mmhaskell.com](https://mmhaskell.com)
+ - date published: 2023-10-25T16:05:30.500620+00:00
+ - user: None
+ - tags: []
+
+## Home | MMLab@NTU
+ - [https://www.mmlab-ntu.com](https://www.mmlab-ntu.com)
+ - date published: 2023-10-25T16:05:35.375867+00:00
+ - user: None
+ - tags: []
+
+## World of Warcraft News and Raiding Strategies - MMO-Champion
+ - [https://www.mmo-champion.com](https://www.mmo-champion.com)
+ - date published: 2023-12-13T16:21:13.253161+00:00
+ - user: None
+ - tags: []
+
+## MMO Video Game News, Reviews & Games List | MMORPG.com
+ - [https://www.mmorpg.com](https://www.mmorpg.com)
+ - date published: 2023-12-13T16:19:05.456659+00:00
+ - user: None
+ - tags: []
+
+## MOBAFire
+ - [https://www.mobafire.com](https://www.mobafire.com)
+ - date published: 2023-12-13T16:20:06.914053+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://mobilesyrup.com](https://mobilesyrup.com)
+ - date published: 2023-11-13T04:39:37.774142+00:00
+ - user: None
+ - tags: []
+
+## Video Game Database - MobyGames
+ - [https://www.mobygames.com](https://www.mobygames.com)
+ - date published: 2023-12-11T18:42:10.778368+00:00
+ - user: None
+ - tags: []
+
 ## Games and mods development for Windows, Linux and Mac - Mod DB
  - [https://www.moddb.com](https://www.moddb.com)
  - date published: 2023-10-25T11:09:37.572465+00:00
@@ -3075,6 +3237,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## One Shot Finance
+ - [https://oneshotfinance.com](https://oneshotfinance.com)
+ - date published: 2023-12-23T07:30:57.175803+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Push Notification Software to Improve Customer Engagement - OneSignal
  - [https://onesignal.com](https://onesignal.com)
  - date published: 2023-10-25T16:25:57.344933+00:00
@@ -4114,6 +4282,12 @@ Answering Machine Greetings!
  - user: None
  - tags: ['personal']
 
+## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
+ - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
+ - date published: 2023-12-23T07:30:12.092026+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Patrick Yandell
  - [https://patrickyandell.com](https://patrickyandell.com)
  - date published: 2023-11-29T14:24:18.301040+00:00
@@ -4233,6 +4407,12 @@ Answering Machine Greetings!
  - date published: 2023-10-25T16:31:48.214530+00:00
  - user: None
  - tags: []
+
+## Paul Kafasis
+ - [https://pbones.com](https://pbones.com)
+ - date published: 2023-12-23T07:30:37.057666+00:00
+ - user: None
+ - tags: ['personal']
 
 ## PC Builder AI
  - [https://www.pcbuilderai.com](https://www.pcbuilderai.com)
@@ -5359,6 +5539,12 @@ Answering Machine Greetings!
  - user: None
  - tags: ['personal']
 
+## De Angela L. Duff
+ - [http://www.polishedsolid.com](http://www.polishedsolid.com)
+ - date published: 2023-12-23T02:59:58.572062+00:00
+ - user: None
+ - tags: ['personal']
+
 ## https://polishpixels.com
  - [https://polishpixels.com](https://polishpixels.com)
  - date published: 2023-10-25T11:17:06.597315+00:00
@@ -5818,192 +6004,6 @@ Answering Machine Greetings!
 ## Probably Dance | I can program and like games
  - [https://probablydance.com](https://probablydance.com)
  - date published: 2023-10-25T16:40:23.924707+00:00
- - user: None
- - tags: []
-
-## About me | Marcus Lewis
- - [https://probablymarcus.com](https://probablymarcus.com)
- - date published: 2023-10-26T14:22:23.950088+00:00
- - user: None
- - tags: []
-
-## Process Mechanics
- - [https://www.processmechanics.com](https://www.processmechanics.com)
- - date published: 2023-10-25T16:40:26.548873+00:00
- - user: None
- - tags: []
-
-## Procoto | Modern Procurement Software
- - [https://procoto.com](https://procoto.com)
- - date published: 2023-10-25T16:40:31.598546+00:00
- - user: None
- - tags: []
-
-## Procreate® – Sketch, Paint, Create.
- - [https://procreate.com](https://procreate.com)
- - date published: 2023-10-25T16:40:35.562288+00:00
- - user: None
- - tags: []
-
-## Pro WireGuard Management
- - [https://www.procustodibus.com](https://www.procustodibus.com)
- - date published: 2023-10-25T08:34:49.301754+00:00
- - user: None
- - tags: []
-
-## Product Hunt – The best new products in tech.
- - [https://www.producthunt.com](https://www.producthunt.com)
- - date published: 2023-11-28T13:49:08.264671+00:00
- - user: None
- - tags: []
-
-## https://productonboarding.com
- - [https://productonboarding.com](https://productonboarding.com)
- - date published: 2023-10-25T16:40:38.929648+00:00
- - user: None
- - tags: []
-
-## The Program audio series
- - [https://programaudioseries.com](https://programaudioseries.com)
- - date published: 2023-10-25T16:40:39.618952+00:00
- - user: None
- - tags: []
-
-## Programmable Mutter | Henry Farrell | Substack
- - [https://www.programmablemutter.com](https://www.programmablemutter.com)
- - date published: 2023-12-12T22:17:51.832362+00:00
- - user: None
- - tags: []
-
-## Programmer Hat | Programmer Hat Blog
- - [https://www.programmerhat.com](https://www.programmerhat.com)
- - date published: 2023-10-25T16:40:49.077500+00:00
- - user: None
- - tags: []
-
-## programming is terrible
- - [https://programmingisterrible.com](https://programmingisterrible.com)
- - date published: 2023-10-25T16:40:51.213240+00:00
- - user: None
- - tags: []
-
-## Programming With Style
- - [https://programmingwithstyle.com](https://programmingwithstyle.com)
- - date published: 2023-10-25T16:40:52.371233+00:00
- - user: None
- - tags: []
-
-## Progress and Purpose
- - [https://www.progressandpurpose.com](https://www.progressandpurpose.com)
- - date published: 2023-10-25T16:40:53.303597+00:00
- - user: None
- - tags: []
-
-## Page not found | Project Aria
- - [https://www.projectaria.com](https://www.projectaria.com)
- - date published: 2023-10-25T16:40:54.798196+00:00
- - user: None
- - tags: []
-
-## Project E Ink - Your favorite newspaper frontpage on your wall
- - [https://projecteink.com](https://projecteink.com)
- - date published: 2023-10-25T16:41:01.361628+00:00
- - user: None
- - tags: []
-
-## Project Gus – Might even work.
- - [https://www.projectgus.com](https://www.projectgus.com)
- - date published: 2023-10-25T16:41:02.949108+00:00
- - user: None
- - tags: []
-
-## ProjectionLab - Build Financial Plans You Love
- - [https://projectionlab.com](https://projectionlab.com)
- - date published: 2023-10-25T16:41:04.946228+00:00
- - user: None
- - tags: []
-
-## Project MB
- - [https://www.projectmb.com](https://www.projectmb.com)
- - date published: 2023-12-08T08:32:17.908741+00:00
- - user: None
- - tags: ['personal']
-
-## PROJECT MUGEN Official Website - Fly! Over the top of the world
- - [https://www.projectmugen.com](https://www.projectmugen.com)
- - date published: 2023-10-29T09:56:31.842766+00:00
- - user: None
- - tags: []
-
-## OBS Studio
- - [https://projectobs.com](https://projectobs.com)
- - date published: 2023-10-25T16:41:05.851378+00:00
- - user: None
- - tags: []
-
-## Atomic Rockets - Atomic Rockets
- - [https://projectrho.com](https://projectrho.com)
- - date published: 2023-11-01T08:42:59.050025+00:00
- - user: None
- - tags: []
-
-## Raspberry PI Projects - World Biggest Site for Raspberry PI Projects - Tutorials - Ebooks - Project Ideas
- - [https://projects-raspberry.com](https://projects-raspberry.com)
- - date published: 2023-10-25T11:15:08.621410+00:00
- - user: None
- - tags: []
-
-## Project TBR
- - [https://projecttbr.com](https://projecttbr.com)
- - date published: 2023-10-25T16:41:06.364743+00:00
- - user: None
- - tags: []
-
-## Project Veritas
- - [https://www.projectveritas.com](https://www.projectveritas.com)
- - date published: 2023-10-25T09:30:03.217970+00:00
- - user: None
- - tags: []
-
-## Prolost
- - [https://prolost.com](https://prolost.com)
- - date published: 2023-10-25T16:41:11.184754+00:00
- - user: None
- - tags: []
-
-## Promaton
- - [https://blog.promaton.com](https://blog.promaton.com)
- - date published: 2023-10-25T16:41:13.607513+00:00
- - user: None
- - tags: []
-
-## Prompt Engineering Jobs
- - [https://prompt-engineering-jobs.com](https://prompt-engineering-jobs.com)
- - date published: 2023-10-25T16:41:14.516782+00:00
- - user: None
- - tags: []
-
-## Knit - A better playground for prompt designers
- - [https://promptknit.com](https://promptknit.com)
- - date published: 2023-10-25T16:41:15.595812+00:00
- - user: None
- - tags: []
-
-## PromptLayer - The first platform built for prompt engineers
- - [https://promptlayer.com](https://promptlayer.com)
- - date published: 2023-10-25T16:41:16.300230+00:00
- - user: None
- - tags: []
-
-## Prompt Reducer - Cut Down GPT-4 Token Costs
- - [https://www.promptreducer.com](https://www.promptreducer.com)
- - date published: 2023-10-25T16:41:16.715505+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://proofinprogress.com](https://proofinprogress.com)
- - date published: 2023-10-25T16:41:18.158124+00:00
  - user: None
  - tags: []
 

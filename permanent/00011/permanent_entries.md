@@ -1,3 +1,291 @@
+## Medical School
+ - [https://med.umn.edu](https://med.umn.edu)
+ - date published: 2023-10-25T19:02:48.728498+00:00
+ - user: None
+ - tags: []
+
+## Center for Open Education
+ - [https://open.umn.edu](https://open.umn.edu)
+ - date published: 2023-10-25T19:02:55.930942+00:00
+ - user: None
+ - tags: []
+
+## Homepage | CIDRAP
+ - [https://www.cidrap.umn.edu](https://www.cidrap.umn.edu)
+ - date published: 2023-10-25T19:02:58.423919+00:00
+ - user: None
+ - tags: []
+
+## The Circuits and Biology Lab at UMN
+ - [https://www.mriedel.ece.umn.edu](https://www.mriedel.ece.umn.edu)
+ - date published: 2023-10-25T19:03:11.903000+00:00
+ - user: None
+ - tags: []
+
+## University of Minnesota Press
+ - [https://www.upress.umn.edu](https://www.upress.umn.edu)
+ - date published: 2023-11-22T15:59:30.119351+00:00
+ - user: None
+ - tags: []
+
+## UNC Research
+ - [https://research.unc.edu](https://research.unc.edu)
+ - date published: 2023-12-18T18:13:30.339368+00:00
+ - user: None
+ - tags: []
+
+## Home - Sheps Center
+ - [https://www.shepscenter.unc.edu](https://www.shepscenter.unc.edu)
+ - date published: 2023-10-25T19:03:16.486451+00:00
+ - user: None
+ - tags: []
+
+## The University of North Carolina at Chapel Hill
+ - [https://www.unc.edu](https://www.unc.edu)
+ - date published: 2023-10-25T19:03:20.646945+00:00
+ - user: None
+ - tags: []
+
+## Current Map | U.S. Drought Monitor
+ - [https://droughtmonitor.unl.edu](https://droughtmonitor.unl.edu)
+ - date published: 2023-10-25T19:03:24.927997+00:00
+ - user: None
+ - tags: []
+
+## Nebraska Today | Newsroom | University of Nebraska–Lincoln
+ - [https://news.unl.edu](https://news.unl.edu)
+ - date published: 2023-10-25T19:03:32.872689+00:00
+ - user: None
+ - tags: []
+
+## Russell T. Hurlburt home page
+ - [https://hurlburt.faculty.unlv.edu](https://hurlburt.faculty.unlv.edu)
+ - date published: 2023-10-25T19:03:40.322481+00:00
+ - user: None
+ - tags: []
+
+## UNM Newsroom: UNM Newsroom
+ - [https://news.unm.edu](https://news.unm.edu)
+ - date published: 2023-10-25T19:03:42.977458+00:00
+ - user: None
+ - tags: []
+
+## REDCap
+ - [https://survey.cas.unt.edu](https://survey.cas.unt.edu)
+ - date published: 2023-11-12T22:46:43.305600+00:00
+ - user: None
+ - tags: []
+
+## Around the O | University of Oregon
+ - [https://around.uoregon.edu](https://around.uoregon.edu)
+ - date published: 2023-10-25T19:03:45.815223+00:00
+ - user: None
+ - tags: []
+
+## University of Oregon WordPress Hosting – Educational blogs from our community
+ - [https://blogs.uoregon.edu](https://blogs.uoregon.edu)
+ - date published: 2023-10-25T19:03:47.440940+00:00
+ - user: None
+ - tags: []
+
+## Penn Engineering Blog - Posts from the School of Engineering and Applied Science
+ - [https://blog.seas.upenn.edu](https://blog.seas.upenn.edu)
+ - date published: 2023-10-25T19:03:53.115035+00:00
+ - user: None
+ - tags: []
+
+## Penn Wharton Budget Model
+ - [https://budgetmodel.wharton.upenn.edu](https://budgetmodel.wharton.upenn.edu)
+ - date published: 2023-10-25T19:03:56.322160+00:00
+ - user: None
+ - tags: []
+
+## Home Page - Knowledge at Wharton
+ - [https://knowledge.wharton.upenn.edu](https://knowledge.wharton.upenn.edu)
+ - date published: 2023-10-25T19:04:01.029385+00:00
+ - user: None
+ - tags: []
+
+## Language Log
+ - [https://languagelog.ldc.upenn.edu](https://languagelog.ldc.upenn.edu)
+ - date published: 2023-10-25T19:04:08.709335+00:00
+ - user: None
+ - tags: []
+
+## The Online Books Page
+ - [https://onlinebooks.library.upenn.edu](https://onlinebooks.library.upenn.edu)
+ - date published: 2023-10-25T19:04:10.693759+00:00
+ - user: None
+ - tags: []
+
+## Penn Today
+ - [https://penntoday.upenn.edu](https://penntoday.upenn.edu)
+ - date published: 2023-10-25T19:04:12.509293+00:00
+ - user: None
+ - tags: []
+
+## Software Foundations
+ - [https://softwarefoundations.cis.upenn.edu](https://softwarefoundations.cis.upenn.edu)
+ - date published: 2023-10-25T19:04:13.197515+00:00
+ - user: None
+ - tags: []
+
+## web.sas.upenn.edu
+ - [https://web.sas.upenn.edu](https://web.sas.upenn.edu)
+ - date published: 2023-10-25T19:04:14.935075+00:00
+ - user: None
+ - tags: []
+
+## Computer and Information Science | A Department of the School of Engineering and Applied Science
+ - [https://www.cis.upenn.edu](https://www.cis.upenn.edu)
+ - date published: 2023-10-25T19:04:17.867275+00:00
+ - user: None
+ - tags: []
+
+## Department of Linguistics - Home | Department of Linguistics
+ - [https://www.ling.upenn.edu](https://www.ling.upenn.edu)
+ - date published: 2023-10-25T19:04:20.730527+00:00
+ - user: None
+ - tags: []
+
+## Universitat Pompeu Fabra
+ - [https://www.upf.edu](https://www.upf.edu)
+ - date published: 2023-11-03T12:11:03.206459+00:00
+ - user: None
+ - tags: []
+
+## The University of Rhode Island
+ - [https://www.uri.edu](https://www.uri.edu)
+ - date published: 2023-12-05T11:07:16.002679+00:00
+ - user: None
+ - tags: []
+
+## USC Dana and David Dornsife College of Letters, Arts and Sciences
+ - [https://dornsife.usc.edu](https://dornsife.usc.edu)
+ - date published: 2023-10-25T19:04:25.118739+00:00
+ - user: None
+ - tags: []
+
+## USC Schaeffer
+ - [https://healthpolicy.usc.edu](https://healthpolicy.usc.edu)
+ - date published: 2023-12-15T11:10:14.582512+00:00
+ - user: None
+ - tags: []
+
+## Keck School of Medicine of USC | Leaders in medical education, research and patient care
+ - [https://keck.usc.edu](https://keck.usc.edu)
+ - date published: 2023-10-25T19:04:31.455123+00:00
+ - user: None
+ - tags: []
+
+## Keck School of Medicine Home
+ - [https://keck2.usc.edu](https://keck2.usc.edu)
+ - date published: 2023-12-10T11:37:34.314465+00:00
+ - user: None
+ - tags: []
+
+## Home - Research and Innovation
+ - [https://research.usc.edu](https://research.usc.edu)
+ - date published: 2023-10-25T19:04:35.017898+00:00
+ - user: None
+ - tags: []
+
+## USC Today Home Page
+ - [https://today.usc.edu](https://today.usc.edu)
+ - date published: 2023-12-12T13:04:47.507405+00:00
+ - user: None
+ - tags: []
+
+## USC Viterbi School of Engineering
+ - [https://viterbischool.usc.edu](https://viterbischool.usc.edu)
+ - date published: 2023-10-25T19:04:40.599249+00:00
+ - user: None
+ - tags: []
+
+## Health News Florida - Homepage | Health News Florida
+ - [https://health.wusf.usf.edu](https://health.wusf.usf.edu)
+ - date published: 2023-12-04T16:16:09.264309+00:00
+ - user: None
+ - tags: []
+
+## The Aquila Digital Community
+ - [https://aquila.usm.edu](https://aquila.usm.edu)
+ - date published: 2023-10-25T19:04:42.854167+00:00
+ - user: None
+ - tags: []
+
+## Modern War Institute -
+ - [https://mwi.usma.edu](https://mwi.usma.edu)
+ - date published: 2023-10-25T19:04:45.262357+00:00
+ - user: None
+ - tags: []
+
+## Kahlert School of Computing – School of Computing at The University of Utah
+ - [https://www.cs.utah.edu](https://www.cs.utah.edu)
+ - date published: 2023-10-25T19:04:49.477291+00:00
+ - user: None
+ - tags: []
+
+## Math - The University of Utah
+ - [https://www.math.utah.edu](https://www.math.utah.edu)
+ - date published: 2023-10-25T19:04:53.006400+00:00
+ - user: None
+ - tags: []
+
+## News Homepage
+ - [https://news.utdallas.edu](https://news.utdallas.edu)
+ - date published: 2023-12-10T12:18:35.847710+00:00
+ - user: None
+ - tags: []
+
+## Service - UTD Hosted Personal Webpages
+ - [https://personal.utdallas.edu](https://personal.utdallas.edu)
+ - date published: 2023-10-25T19:05:03.834184+00:00
+ - user: None
+ - tags: []
+
+## The University of Texas at El Paso - UTEP
+ - [https://www.utep.edu](https://www.utep.edu)
+ - date published: 2023-10-25T19:05:08.331077+00:00
+ - user: None
+ - tags: []
+
+## UT Cockrell School of Engineering
+ - [https://cockrell.utexas.edu](https://cockrell.utexas.edu)
+ - date published: 2023-10-25T19:05:12.024214+00:00
+ - user: None
+ - tags: []
+
+## Welcome
+ - [https://golem.ph.utexas.edu](https://golem.ph.utexas.edu)
+ - date published: 2023-10-25T19:05:13.177282+00:00
+ - user: None
+ - tags: []
+
+## LBJ School | The University of Texas at Austin | LBJ School of Public Affairs
+ - [https://lbj.utexas.edu](https://lbj.utexas.edu)
+ - date published: 2023-11-19T15:39:17.659158+00:00
+ - user: None
+ - tags: []
+
+## Home - UT News
+ - [https://news.utexas.edu](https://news.utexas.edu)
+ - date published: 2023-10-25T19:05:16.450263+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science
+ - [https://www.cs.utexas.edu](https://www.cs.utexas.edu)
+ - date published: 2023-10-25T19:05:23.554078+00:00
+ - user: None
+ - tags: []
+
+## Home - UT Health San Antonio
+ - [https://news.uthscsa.edu](https://news.uthscsa.edu)
+ - date published: 2023-10-25T19:05:27.448402+00:00
+ - user: None
+ - tags: []
+
 ## UToledo News
  - [https://news.utoledo.edu](https://news.utoledo.edu)
  - date published: 2023-12-10T14:19:01.028879+00:00
@@ -4505,6 +4793,12 @@
  - user: None
  - tags: []
 
+## Wired && Coded;
+ - [https://www.jsykora.info](https://www.jsykora.info)
+ - date published: 2023-12-23T09:53:51.325961+00:00
+ - user: None
+ - tags: []
+
 ## Pascal Junod
  - [https://crypto.junod.info](https://crypto.junod.info)
  - date published: 2023-10-25T19:33:33.225435+00:00
@@ -4583,6 +4877,12 @@
  - user: None
  - tags: []
 
+## Quantum Health | Modern Samurai
+ - [https://www.modernsamurai.info](https://www.modernsamurai.info)
+ - date published: 2023-12-23T07:30:50.658764+00:00
+ - user: None
+ - tags: ['personal']
+
 ## OneRNG - Hardware Random Number Generator
  - [https://onerng.info](https://onerng.info)
  - date published: 2023-10-25T19:33:47.389423+00:00
@@ -4652,6 +4952,12 @@
 ## Popular Information | Judd Legum | Substack
  - [https://popular.info](https://popular.info)
  - date published: 2023-10-25T19:34:25.675630+00:00
+ - user: None
+ - tags: []
+
+## Eusebeia
+ - [https://www.qfbox.info](https://www.qfbox.info)
+ - date published: 2023-12-23T13:33:40.347367+00:00
  - user: None
  - tags: []
 
@@ -5122,6 +5428,12 @@
  - date published: 2023-10-25T19:37:51.402475+00:00
  - user: None
  - tags: []
+
+## Ash Smith - Senior Software Engineer. Bath, UK
+ - [https://www.ashsmith.io](https://www.ashsmith.io)
+ - date published: 2023-12-23T02:59:52.670775+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Academy Software Foundation - ASWF
  - [https://www.aswf.io](https://www.aswf.io)
@@ -5690,318 +6002,6 @@
 ## Dragonfly - The Fastest In-Memory Data Store
  - [https://www.dragonflydb.io](https://www.dragonflydb.io)
  - date published: 2023-10-25T19:41:38.968543+00:00
- - user: None
- - tags: []
-
-## Show HN:Draw Fast - Real-time AI image generation based on drawings in a canvas
- - [https://drawfast.io](https://drawfast.io)
- - date published: 2023-11-27T06:55:50+00:00
- - user: None
- - tags: []
-
-## Hi there - drhayes.io · drhayes.io
- - [https://drhayes.io](https://drhayes.io)
- - date published: 2023-11-29T17:06:29.812448+00:00
- - user: None
- - tags: ['personal']
-
-## Dropbase | Build internal apps with SQL and Python in minutes
- - [https://www.dropbase.io](https://www.dropbase.io)
- - date published: 2023-12-05T19:27:03.930014+00:00
- - user: None
- - tags: []
-
-## Minetest for the Web
- - [https://minetest.dustlabs.io](https://minetest.dustlabs.io)
- - date published: 2023-10-25T19:41:39.853096+00:00
- - user: None
- - tags: []
-
-## eGPU.io | External Graphics Card Community
- - [https://egpu.io](https://egpu.io)
- - date published: 2023-10-25T19:41:43.768453+00:00
- - user: None
- - tags: []
-
-## Home | Oliver Eidel
- - [https://www.eidel.io](https://www.eidel.io)
- - date published: 2023-10-25T19:41:45.111372+00:00
- - user: None
- - tags: []
-
-## eitherway - A Story to my Start-Up
- - [https://eitherway.io](https://eitherway.io)
- - date published: 2023-10-25T19:41:45.822044+00:00
- - user: None
- - tags: []
-
-## Element | Secure collaboration and messaging
- - [https://element.io](https://element.io)
- - date published: 2023-10-25T19:41:47.032259+00:00
- - user: None
- - tags: []
-
-## elementary Blog
- - [https://blog.elementary.io](https://blog.elementary.io)
- - date published: 2023-10-25T19:41:52.719369+00:00
- - user: None
- - tags: []
-
-## The thoughtful, capable, and ethical replacement for Windows and macOS ⋅ elementary OS
- - [https://elementary.io](https://elementary.io)
- - date published: 2023-11-06T10:12:43.278462+00:00
- - user: None
- - tags: ['linux', 'operating system']
-
-## https://beta.elevenlabs.io
- - [https://beta.elevenlabs.io](https://beta.elevenlabs.io)
- - date published: 2023-10-25T19:41:58.716242+00:00
- - user: None
- - tags: []
-
-## ElevenLabs | Blog
- - [https://blog.elevenlabs.io](https://blog.elevenlabs.io)
- - date published: 2023-10-25T19:42:00.359950+00:00
- - user: None
- - tags: []
-
-## https://elevenlabs.io
- - [https://elevenlabs.io](https://elevenlabs.io)
- - date published: 2023-10-25T19:42:00.993836+00:00
- - user: None
- - tags: []
-
-## Traceloop - LLM Application Observability
- - [https://www.enrolla.io](https://www.enrolla.io)
- - date published: 2023-10-25T19:42:02.521004+00:00
- - user: None
- - tags: []
-
-## EnterpriseReady - Build SaaS Features Enterprises Love
- - [https://www.enterpriseready.io](https://www.enterpriseready.io)
- - date published: 2023-10-25T19:42:03.442332+00:00
- - user: None
- - tags: []
-
-## Epsio | Instant query results, effortlessly
- - [https://www.epsio.io](https://www.epsio.io)
- - date published: 2023-11-01T08:43:38.220991+00:00
- - user: None
- - tags: []
-
-## Esper | Device Management with Kiosk Mode, Remote Control, & more | MDM Solution
- - [https://www.esper.io](https://www.esper.io)
- - date published: 2023-10-25T19:42:06.992319+00:00
- - user: None
- - tags: []
-
-## Ethereum (ETH) Blockchain Explorer
- - [https://etherscan.io](https://etherscan.io)
- - date published: 2023-10-25T19:42:08.971913+00:00
- - user: None
- - tags: []
-
-## Evan Todd
- - [https://etodd.io](https://etodd.io)
- - date published: 2023-10-25T19:42:09.513819+00:00
- - user: None
- - tags: []
-
-## Event-Driven by Oskar Dudycz
- - [https://event-driven.io](https://event-driven.io)
- - date published: 2023-10-25T19:42:13.572557+00:00
- - user: None
- - tags: []
-
-## Everstrike Blog
- - [https://blog.everstrike.io](https://blog.everstrike.io)
- - date published: 2023-10-25T19:42:15.001515+00:00
- - user: None
- - tags: []
-
-## The EV Universe
- - [https://www.evuniverse.io](https://www.evuniverse.io)
- - date published: 2023-10-25T19:42:17.038711+00:00
- - user: None
- - tags: []
-
-## Ewan Valentine | Home
- - [https://ewanvalentine.io](https://ewanvalentine.io)
- - date published: 2023-11-06T08:14:47.316226+00:00
- - user: None
- - tags: []
-
-## Home | Exaloop blog
- - [https://blog.exaloop.io](https://blog.exaloop.io)
- - date published: 2023-10-25T19:42:17.703333+00:00
- - user: None
- - tags: []
-
-## Exaltitude Engineering Leadership Community
- - [https://www.exaltitude.io](https://www.exaltitude.io)
- - date published: 2023-10-25T19:42:19.238033+00:00
- - user: None
- - tags: []
-
-## Failing Fast
- - [https://failingfast.io](https://failingfast.io)
- - date published: 2023-10-25T19:42:20.010109+00:00
- - user: None
- - tags: []
-
-## https://fairtec.io/fr/
- - [https://fairtec.io](https://fairtec.io)
- - date published: 2023-12-11T16:19:34.009224+00:00
- - user: None
- - tags: []
-
-## Fan Pu Zeng
- - [https://fanpu.io](https://fanpu.io)
- - date published: 2023-10-25T19:42:21.616085+00:00
- - user: None
- - tags: []
-
-## Favoree - Discover quality channels from YouTube
- - [https://www.favoree.io](https://www.favoree.io)
- - date published: 2023-10-25T19:42:22.471809+00:00
- - user: None
- - tags: []
-
-## FerretDB Blog | FerretDB Blog
- - [https://blog.ferretdb.io](https://blog.ferretdb.io)
- - date published: 2023-10-25T19:42:24.585480+00:00
- - user: None
- - tags: []
-
-## Build your company workspace with no code — Fibery
- - [https://fibery.io](https://fibery.io)
- - date published: 2023-10-25T19:42:31.278832+00:00
- - user: None
- - tags: []
-
-## Fig
- - [https://fig.io](https://fig.io)
- - date published: 2023-10-25T19:42:32.304878+00:00
- - user: None
- - tags: []
-
-## Filippo Valsorda
- - [https://blog.filippo.io](https://blog.filippo.io)
- - date published: 2023-10-25T19:42:34.529201+00:00
- - user: None
- - tags: []
-
-## Filippo Valsorda
- - [https://filippo.io](https://filippo.io)
- - date published: 2023-10-25T19:42:35.382816+00:00
- - user: None
- - tags: []
-
-## Filippo Valsorda
- - [https://words.filippo.io](https://words.filippo.io)
- - date published: 2023-10-25T08:59:06.743488+00:00
- - user: None
- - tags: ['personal']
-
-## Filtra
- - [https://filtra.io](https://filtra.io)
- - date published: 2023-10-31T13:18:58.615018+00:00
- - user: None
- - tags: []
-
-## FindMyCat - The Open-Source Pet Tracker
- - [https://www.findmycat.io](https://www.findmycat.io)
- - date published: 2023-10-25T19:42:41.070101+00:00
- - user: None
- - tags: ['open hardware', 'hardware tracker']
-
-## Fireship - Learn to Code Faster
- - [https://fireship.io](https://fireship.io)
- - date published: 2023-10-25T19:42:41.631253+00:00
- - user: None
- - tags: []
-
-## Fly.io
- - [https://community.fly.io](https://community.fly.io)
- - date published: 2023-10-25T19:42:46.027252+00:00
- - user: None
- - tags: []
-
-## Deploy app servers close to your users · Fly
- - [https://fly.io](https://fly.io)
- - date published: 2023-10-25T19:42:47.102257+00:00
- - user: None
- - tags: []
-
-## FoAz - Frontend-Only-AuthZ | FoAz
- - [https://foaz.io](https://foaz.io)
- - date published: 2023-10-25T19:42:48.088096+00:00
- - user: None
- - tags: []
-
-## Show HN: Forwarder – FOSS MITM proxy written in Go
- - [https://forwarder-proxy.io](https://forwarder-proxy.io)
- - date published: 2023-12-20T15:30:47+00:00
- - user: None
- - tags: []
-
-## Foxy.io | Flexible Ecommerce for Your Website
- - [https://www.foxy.io](https://www.foxy.io)
- - date published: 2023-10-25T19:42:49.688772+00:00
- - user: None
- - tags: []
-
-## FreeTube - The Private YouTube Client
- - [https://freetubeapp.io](https://freetubeapp.io)
- - date published: 2023-10-25T08:30:25.633576+00:00
- - user: None
- - tags: ['youtube']
-
-## Freshpaint | Healthcare Privacy Platform To Manage Your Data And Meet HIPAA Regulations
- - [https://www.freshpaint.io](https://www.freshpaint.io)
- - date published: 2023-10-25T19:42:56.058009+00:00
- - user: None
- - tags: []
-
-## FusionAuth: Auth. Built for Devs, by Devs
- - [https://fusionauth.io](https://fusionauth.io)
- - date published: 2023-10-27T16:12:10.629678+00:00
- - user: None
- - tags: []
-
-## futurecoder: learn python from scratch
- - [https://futurecoder.io](https://futurecoder.io)
- - date published: 2023-10-25T19:42:57.568016+00:00
- - user: None
- - tags: []
-
-## Visual Scripting For The Web | G-Script
- - [https://g-script.io](https://g-script.io)
- - date published: 2023-10-25T19:43:00.841246+00:00
- - user: None
- - tags: []
-
-## Make 2D Games With GameMaker | Free Video Game Maker
- - [https://gamemaker.io](https://gamemaker.io)
- - date published: 2023-11-21T15:29:41.097407+00:00
- - user: None
- - tags: []
-
-## Paul Ganssle
- - [https://blog.ganssle.io](https://blog.ganssle.io)
- - date published: 2023-10-25T19:43:02.935158+00:00
- - user: None
- - tags: []
-
-## Gantry | Build AI your users trust
- - [https://gantry.io](https://gantry.io)
- - date published: 2023-10-25T19:43:06.618863+00:00
- - user: None
- - tags: []
-
-## Garden - The DevOps automation tool for K8s
- - [https://garden.io](https://garden.io)
- - date published: 2023-10-25T19:43:09.096788+00:00
  - user: None
  - tags: []
 

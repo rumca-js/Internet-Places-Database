@@ -1,3 +1,189 @@
+## About me | Marcus Lewis
+ - [https://probablymarcus.com](https://probablymarcus.com)
+ - date published: 2023-10-26T14:22:23.950088+00:00
+ - user: None
+ - tags: []
+
+## Process Mechanics
+ - [https://www.processmechanics.com](https://www.processmechanics.com)
+ - date published: 2023-10-25T16:40:26.548873+00:00
+ - user: None
+ - tags: []
+
+## Procoto | Modern Procurement Software
+ - [https://procoto.com](https://procoto.com)
+ - date published: 2023-10-25T16:40:31.598546+00:00
+ - user: None
+ - tags: []
+
+## Procreate® – Sketch, Paint, Create.
+ - [https://procreate.com](https://procreate.com)
+ - date published: 2023-10-25T16:40:35.562288+00:00
+ - user: None
+ - tags: []
+
+## Pro WireGuard Management
+ - [https://www.procustodibus.com](https://www.procustodibus.com)
+ - date published: 2023-10-25T08:34:49.301754+00:00
+ - user: None
+ - tags: []
+
+## Product Hunt – The best new products in tech.
+ - [https://www.producthunt.com](https://www.producthunt.com)
+ - date published: 2023-11-28T13:49:08.264671+00:00
+ - user: None
+ - tags: []
+
+## https://productonboarding.com
+ - [https://productonboarding.com](https://productonboarding.com)
+ - date published: 2023-10-25T16:40:38.929648+00:00
+ - user: None
+ - tags: []
+
+## The Program audio series
+ - [https://programaudioseries.com](https://programaudioseries.com)
+ - date published: 2023-10-25T16:40:39.618952+00:00
+ - user: None
+ - tags: []
+
+## Programmable Mutter | Henry Farrell | Substack
+ - [https://www.programmablemutter.com](https://www.programmablemutter.com)
+ - date published: 2023-12-12T22:17:51.832362+00:00
+ - user: None
+ - tags: []
+
+## Programmer Hat | Programmer Hat Blog
+ - [https://www.programmerhat.com](https://www.programmerhat.com)
+ - date published: 2023-10-25T16:40:49.077500+00:00
+ - user: None
+ - tags: []
+
+## programming is terrible
+ - [https://programmingisterrible.com](https://programmingisterrible.com)
+ - date published: 2023-10-25T16:40:51.213240+00:00
+ - user: None
+ - tags: []
+
+## Programming With Style
+ - [https://programmingwithstyle.com](https://programmingwithstyle.com)
+ - date published: 2023-10-25T16:40:52.371233+00:00
+ - user: None
+ - tags: []
+
+## Progress and Purpose
+ - [https://www.progressandpurpose.com](https://www.progressandpurpose.com)
+ - date published: 2023-10-25T16:40:53.303597+00:00
+ - user: None
+ - tags: []
+
+## Page not found | Project Aria
+ - [https://www.projectaria.com](https://www.projectaria.com)
+ - date published: 2023-10-25T16:40:54.798196+00:00
+ - user: None
+ - tags: []
+
+## Project E Ink - Your favorite newspaper frontpage on your wall
+ - [https://projecteink.com](https://projecteink.com)
+ - date published: 2023-10-25T16:41:01.361628+00:00
+ - user: None
+ - tags: []
+
+## Project Gus – Might even work.
+ - [https://www.projectgus.com](https://www.projectgus.com)
+ - date published: 2023-10-25T16:41:02.949108+00:00
+ - user: None
+ - tags: []
+
+## ProjectionLab - Build Financial Plans You Love
+ - [https://projectionlab.com](https://projectionlab.com)
+ - date published: 2023-10-25T16:41:04.946228+00:00
+ - user: None
+ - tags: []
+
+## Project MB
+ - [https://www.projectmb.com](https://www.projectmb.com)
+ - date published: 2023-12-08T08:32:17.908741+00:00
+ - user: None
+ - tags: ['personal']
+
+## PROJECT MUGEN Official Website - Fly! Over the top of the world
+ - [https://www.projectmugen.com](https://www.projectmugen.com)
+ - date published: 2023-10-29T09:56:31.842766+00:00
+ - user: None
+ - tags: []
+
+## OBS Studio
+ - [https://projectobs.com](https://projectobs.com)
+ - date published: 2023-10-25T16:41:05.851378+00:00
+ - user: None
+ - tags: []
+
+## Atomic Rockets - Atomic Rockets
+ - [https://projectrho.com](https://projectrho.com)
+ - date published: 2023-11-01T08:42:59.050025+00:00
+ - user: None
+ - tags: []
+
+## Raspberry PI Projects - World Biggest Site for Raspberry PI Projects - Tutorials - Ebooks - Project Ideas
+ - [https://projects-raspberry.com](https://projects-raspberry.com)
+ - date published: 2023-10-25T11:15:08.621410+00:00
+ - user: None
+ - tags: []
+
+## Project TBR
+ - [https://projecttbr.com](https://projecttbr.com)
+ - date published: 2023-10-25T16:41:06.364743+00:00
+ - user: None
+ - tags: []
+
+## Project Veritas
+ - [https://www.projectveritas.com](https://www.projectveritas.com)
+ - date published: 2023-10-25T09:30:03.217970+00:00
+ - user: None
+ - tags: []
+
+## Prolost
+ - [https://prolost.com](https://prolost.com)
+ - date published: 2023-10-25T16:41:11.184754+00:00
+ - user: None
+ - tags: []
+
+## Promaton
+ - [https://blog.promaton.com](https://blog.promaton.com)
+ - date published: 2023-10-25T16:41:13.607513+00:00
+ - user: None
+ - tags: []
+
+## Prompt Engineering Jobs
+ - [https://prompt-engineering-jobs.com](https://prompt-engineering-jobs.com)
+ - date published: 2023-10-25T16:41:14.516782+00:00
+ - user: None
+ - tags: []
+
+## Knit - A better playground for prompt designers
+ - [https://promptknit.com](https://promptknit.com)
+ - date published: 2023-10-25T16:41:15.595812+00:00
+ - user: None
+ - tags: []
+
+## PromptLayer - The first platform built for prompt engineers
+ - [https://promptlayer.com](https://promptlayer.com)
+ - date published: 2023-10-25T16:41:16.300230+00:00
+ - user: None
+ - tags: []
+
+## Prompt Reducer - Cut Down GPT-4 Token Costs
+ - [https://www.promptreducer.com](https://www.promptreducer.com)
+ - date published: 2023-10-25T16:41:16.715505+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://proofinprogress.com](https://proofinprogress.com)
+ - date published: 2023-10-25T16:41:18.158124+00:00
+ - user: None
+ - tags: []
+
 ## PropelAuth - Authentication for B2B products
  - [https://www.propelauth.com](https://www.propelauth.com)
  - date published: 2023-10-25T16:41:18.880289+00:00
@@ -810,6 +996,12 @@
  - user: None
  - tags: []
 
+## About // Ramón Darío Iglesias
+ - [http://ramondario.com](http://ramondario.com)
+ - date published: 2023-12-23T03:01:08.619786+00:00
+ - user: None
+ - tags: []
+
 ## ramoneando
  - [https://ramoneando.com](https://ramoneando.com)
  - date published: 2023-12-01T10:46:48.209422+00:00
@@ -1251,6 +1443,12 @@
 ## reddit-stream - a better way to view live reddit threads
  - [https://www.reddit-stream.com](https://www.reddit-stream.com)
  - date published: 2023-11-01T21:08:19.834690+00:00
+ - user: None
+ - tags: []
+
+## reddit-stream - a better way to view live reddit threads
+ - [http://www.reddit-stream.com](http://www.reddit-stream.com)
+ - date published: 2023-12-23T19:30:18.252561+00:00
  - user: None
  - tags: []
 
@@ -4566,6 +4764,12 @@
  - user: None
  - tags: []
 
+## Complete the Pattern (blank)..
+ - [https://singingfiles.com](https://singingfiles.com)
+ - date published: 2023-12-23T10:22:28.402106+00:00
+ - user: None
+ - tags: []
+
 ## Home - Singularity Hub
  - [https://singularityhub.com](https://singularityhub.com)
  - date published: 2023-10-25T17:05:04.668985+00:00
@@ -5800,210 +6004,6 @@
 ## Bricks
  - [https://bricks.stackexchange.com](https://bricks.stackexchange.com)
  - date published: 2023-10-25T11:10:47.269042+00:00
- - user: None
- - tags: []
-
-## Chinese Language Stack Exchange
- - [https://chinese.stackexchange.com](https://chinese.stackexchange.com)
- - date published: 2023-10-25T17:12:39.833472+00:00
- - user: None
- - tags: []
-
-## Code Golf Stack Exchange
- - [https://codegolf.stackexchange.com](https://codegolf.stackexchange.com)
- - date published: 2023-10-25T17:12:42.935950+00:00
- - user: None
- - tags: []
-
-## Cryptography Stack Exchange
- - [https://crypto.stackexchange.com](https://crypto.stackexchange.com)
- - date published: 2023-10-25T17:12:45.696459+00:00
- - user: None
- - tags: []
-
-## Theoretical Computer Science Stack Exchange
- - [https://cstheory.stackexchange.com](https://cstheory.stackexchange.com)
- - date published: 2023-10-25T17:12:48.475706+00:00
- - user: None
- - tags: []
-
-## Home Improvement Stack Exchange
- - [https://diy.stackexchange.com](https://diy.stackexchange.com)
- - date published: 2023-10-25T17:12:51.266960+00:00
- - user: None
- - tags: []
-
-## Electrical Engineering Stack Exchange
- - [https://electronics.stackexchange.com](https://electronics.stackexchange.com)
- - date published: 2023-10-25T17:12:54.126216+00:00
- - user: None
- - tags: []
-
-## Emacs Stack Exchange
- - [https://emacs.stackexchange.com](https://emacs.stackexchange.com)
- - date published: 2023-10-25T17:13:01.838382+00:00
- - user: None
- - tags: []
-
-## English Language & Usage Meta Stack Exchange
- - [https://english.meta.stackexchange.com](https://english.meta.stackexchange.com)
- - date published: 2023-10-25T17:13:05.766252+00:00
- - user: None
- - tags: []
-
-## English Language & Usage Stack Exchange
- - [https://english.stackexchange.com](https://english.stackexchange.com)
- - date published: 2023-10-25T17:13:08.440521+00:00
- - user: None
- - tags: []
-
-## GenAI Stack Exchange
- - [https://genai.stackexchange.com](https://genai.stackexchange.com)
- - date published: 2023-10-25T17:13:16.165956+00:00
- - user: None
- - tags: []
-
-## German Language Stack Exchange
- - [https://german.stackexchange.com](https://german.stackexchange.com)
- - date published: 2023-10-25T17:13:18.799900+00:00
- - user: None
- - tags: []
-
-## Geographic Information Systems Stack Exchange
- - [https://gis.stackexchange.com](https://gis.stackexchange.com)
- - date published: 2023-10-25T17:13:21.499749+00:00
- - user: None
- - tags: []
-
-## Programming Language Design and Implementation Stack Exchange
- - [https://langdev.stackexchange.com](https://langdev.stackexchange.com)
- - date published: 2023-10-25T17:13:24.333367+00:00
- - user: None
- - tags: []
-
-## Latin Language Stack Exchange
- - [https://latin.stackexchange.com](https://latin.stackexchange.com)
- - date published: 2023-10-25T17:13:26.969617+00:00
- - user: None
- - tags: []
-
-## Law Stack Exchange
- - [https://law.stackexchange.com](https://law.stackexchange.com)
- - date published: 2023-10-25T17:13:29.773395+00:00
- - user: None
- - tags: []
-
-## Mathematics Stack Exchange
- - [https://math.stackexchange.com](https://math.stackexchange.com)
- - date published: 2023-10-25T17:13:42.554988+00:00
- - user: None
- - tags: []
-
-## Mathematica Stack Exchange
- - [https://mathematica.stackexchange.com](https://mathematica.stackexchange.com)
- - date published: 2023-10-25T17:13:45.339618+00:00
- - user: None
- - tags: []
-
-## Meta Stack Exchange
- - [https://meta.stackexchange.com](https://meta.stackexchange.com)
- - date published: 2023-10-25T17:13:50.218460+00:00
- - user: None
- - tags: []
-
-## Movies & TV Stack Exchange
- - [https://movies.stackexchange.com](https://movies.stackexchange.com)
- - date published: 2023-10-25T17:13:53.200178+00:00
- - user: None
- - tags: []
-
-## Physics Stack Exchange
- - [https://physics.stackexchange.com](https://physics.stackexchange.com)
- - date published: 2023-10-25T17:13:56.651090+00:00
- - user: None
- - tags: []
-
-## Project Management Stack Exchange
- - [https://pm.stackexchange.com](https://pm.stackexchange.com)
- - date published: 2023-10-25T17:14:00.083237+00:00
- - user: None
- - tags: []
-
-## Proof Assistants Stack Exchange
- - [https://proofassistants.stackexchange.com](https://proofassistants.stackexchange.com)
- - date published: 2023-10-27T23:10:18.343496+00:00
- - user: None
- - tags: []
-
-## Puzzling Stack Exchange
- - [https://puzzling.stackexchange.com](https://puzzling.stackexchange.com)
- - date published: 2023-10-25T17:14:03.428352+00:00
- - user: None
- - tags: []
-
-## Raspberry Pi Stack Exchange
- - [https://raspberrypi.stackexchange.com](https://raspberrypi.stackexchange.com)
- - date published: 2023-11-06T10:17:19.467869+00:00
- - user: None
- - tags: []
-
-## Retrocomputing Stack Exchange
- - [https://retrocomputing.stackexchange.com](https://retrocomputing.stackexchange.com)
- - date published: 2023-10-25T17:14:06.682774+00:00
- - user: None
- - tags: []
-
-## Computational Science Stack Exchange
- - [https://scicomp.stackexchange.com](https://scicomp.stackexchange.com)
- - date published: 2023-10-25T17:14:10.060152+00:00
- - user: None
- - tags: []
-
-## Information Security Stack Exchange
- - [https://security.stackexchange.com](https://security.stackexchange.com)
- - date published: 2023-10-25T17:14:13.452807+00:00
- - user: None
- - tags: []
-
-## Skeptics Stack Exchange
- - [https://skeptics.stackexchange.com](https://skeptics.stackexchange.com)
- - date published: 2023-10-25T17:14:16.355135+00:00
- - user: None
- - tags: []
-
-## Software Engineering Stack Exchange
- - [https://softwareengineering.stackexchange.com](https://softwareengineering.stackexchange.com)
- - date published: 2023-10-25T17:14:19.605475+00:00
- - user: None
- - tags: []
-
-## Substrate and Polkadot Stack Exchange
- - [https://substrate.stackexchange.com](https://substrate.stackexchange.com)
- - date published: 2023-10-25T17:14:27.990996+00:00
- - user: None
- - tags: []
-
-## Travel Stack Exchange
- - [https://travel.stackexchange.com](https://travel.stackexchange.com)
- - date published: 2023-10-25T17:14:31.765614+00:00
- - user: None
- - tags: []
-
-## Unix & Linux Stack Exchange
- - [https://unix.stackexchange.com](https://unix.stackexchange.com)
- - date published: 2023-10-25T17:14:39.830149+00:00
- - user: None
- - tags: []
-
-## The Workplace Stack Exchange
- - [https://workplace.stackexchange.com](https://workplace.stackexchange.com)
- - date published: 2023-10-25T17:14:43.195803+00:00
- - user: None
- - tags: []
-
-## Meta Stack Overflow
- - [https://meta.stackoverflow.com](https://meta.stackoverflow.com)
- - date published: 2023-10-25T17:14:47.678996+00:00
  - user: None
  - tags: []
 

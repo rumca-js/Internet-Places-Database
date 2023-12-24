@@ -1,3 +1,207 @@
+## Chinese Language Stack Exchange
+ - [https://chinese.stackexchange.com](https://chinese.stackexchange.com)
+ - date published: 2023-10-25T17:12:39.833472+00:00
+ - user: None
+ - tags: []
+
+## Code Golf Stack Exchange
+ - [https://codegolf.stackexchange.com](https://codegolf.stackexchange.com)
+ - date published: 2023-10-25T17:12:42.935950+00:00
+ - user: None
+ - tags: []
+
+## Cryptography Stack Exchange
+ - [https://crypto.stackexchange.com](https://crypto.stackexchange.com)
+ - date published: 2023-10-25T17:12:45.696459+00:00
+ - user: None
+ - tags: []
+
+## Theoretical Computer Science Stack Exchange
+ - [https://cstheory.stackexchange.com](https://cstheory.stackexchange.com)
+ - date published: 2023-10-25T17:12:48.475706+00:00
+ - user: None
+ - tags: []
+
+## Home Improvement Stack Exchange
+ - [https://diy.stackexchange.com](https://diy.stackexchange.com)
+ - date published: 2023-10-25T17:12:51.266960+00:00
+ - user: None
+ - tags: []
+
+## Electrical Engineering Stack Exchange
+ - [https://electronics.stackexchange.com](https://electronics.stackexchange.com)
+ - date published: 2023-10-25T17:12:54.126216+00:00
+ - user: None
+ - tags: []
+
+## Emacs Stack Exchange
+ - [https://emacs.stackexchange.com](https://emacs.stackexchange.com)
+ - date published: 2023-10-25T17:13:01.838382+00:00
+ - user: None
+ - tags: []
+
+## English Language & Usage Meta Stack Exchange
+ - [https://english.meta.stackexchange.com](https://english.meta.stackexchange.com)
+ - date published: 2023-10-25T17:13:05.766252+00:00
+ - user: None
+ - tags: []
+
+## English Language & Usage Stack Exchange
+ - [https://english.stackexchange.com](https://english.stackexchange.com)
+ - date published: 2023-10-25T17:13:08.440521+00:00
+ - user: None
+ - tags: []
+
+## GenAI Stack Exchange
+ - [https://genai.stackexchange.com](https://genai.stackexchange.com)
+ - date published: 2023-10-25T17:13:16.165956+00:00
+ - user: None
+ - tags: []
+
+## German Language Stack Exchange
+ - [https://german.stackexchange.com](https://german.stackexchange.com)
+ - date published: 2023-10-25T17:13:18.799900+00:00
+ - user: None
+ - tags: []
+
+## Geographic Information Systems Stack Exchange
+ - [https://gis.stackexchange.com](https://gis.stackexchange.com)
+ - date published: 2023-10-25T17:13:21.499749+00:00
+ - user: None
+ - tags: []
+
+## Programming Language Design and Implementation Stack Exchange
+ - [https://langdev.stackexchange.com](https://langdev.stackexchange.com)
+ - date published: 2023-10-25T17:13:24.333367+00:00
+ - user: None
+ - tags: []
+
+## Latin Language Stack Exchange
+ - [https://latin.stackexchange.com](https://latin.stackexchange.com)
+ - date published: 2023-10-25T17:13:26.969617+00:00
+ - user: None
+ - tags: []
+
+## Law Stack Exchange
+ - [https://law.stackexchange.com](https://law.stackexchange.com)
+ - date published: 2023-10-25T17:13:29.773395+00:00
+ - user: None
+ - tags: []
+
+## Mathematics Stack Exchange
+ - [https://math.stackexchange.com](https://math.stackexchange.com)
+ - date published: 2023-10-25T17:13:42.554988+00:00
+ - user: None
+ - tags: []
+
+## Mathematica Stack Exchange
+ - [https://mathematica.stackexchange.com](https://mathematica.stackexchange.com)
+ - date published: 2023-10-25T17:13:45.339618+00:00
+ - user: None
+ - tags: []
+
+## Meta Stack Exchange
+ - [https://meta.stackexchange.com](https://meta.stackexchange.com)
+ - date published: 2023-10-25T17:13:50.218460+00:00
+ - user: None
+ - tags: []
+
+## Movies & TV Stack Exchange
+ - [https://movies.stackexchange.com](https://movies.stackexchange.com)
+ - date published: 2023-10-25T17:13:53.200178+00:00
+ - user: None
+ - tags: []
+
+## Physics Stack Exchange
+ - [https://physics.stackexchange.com](https://physics.stackexchange.com)
+ - date published: 2023-10-25T17:13:56.651090+00:00
+ - user: None
+ - tags: []
+
+## Project Management Stack Exchange
+ - [https://pm.stackexchange.com](https://pm.stackexchange.com)
+ - date published: 2023-10-25T17:14:00.083237+00:00
+ - user: None
+ - tags: []
+
+## Proof Assistants Stack Exchange
+ - [https://proofassistants.stackexchange.com](https://proofassistants.stackexchange.com)
+ - date published: 2023-10-27T23:10:18.343496+00:00
+ - user: None
+ - tags: []
+
+## Puzzling Stack Exchange
+ - [https://puzzling.stackexchange.com](https://puzzling.stackexchange.com)
+ - date published: 2023-10-25T17:14:03.428352+00:00
+ - user: None
+ - tags: []
+
+## Raspberry Pi Stack Exchange
+ - [https://raspberrypi.stackexchange.com](https://raspberrypi.stackexchange.com)
+ - date published: 2023-11-06T10:17:19.467869+00:00
+ - user: None
+ - tags: []
+
+## Retrocomputing Stack Exchange
+ - [https://retrocomputing.stackexchange.com](https://retrocomputing.stackexchange.com)
+ - date published: 2023-10-25T17:14:06.682774+00:00
+ - user: None
+ - tags: []
+
+## Computational Science Stack Exchange
+ - [https://scicomp.stackexchange.com](https://scicomp.stackexchange.com)
+ - date published: 2023-10-25T17:14:10.060152+00:00
+ - user: None
+ - tags: []
+
+## Information Security Stack Exchange
+ - [https://security.stackexchange.com](https://security.stackexchange.com)
+ - date published: 2023-10-25T17:14:13.452807+00:00
+ - user: None
+ - tags: []
+
+## Skeptics Stack Exchange
+ - [https://skeptics.stackexchange.com](https://skeptics.stackexchange.com)
+ - date published: 2023-10-25T17:14:16.355135+00:00
+ - user: None
+ - tags: []
+
+## Software Engineering Stack Exchange
+ - [https://softwareengineering.stackexchange.com](https://softwareengineering.stackexchange.com)
+ - date published: 2023-10-25T17:14:19.605475+00:00
+ - user: None
+ - tags: []
+
+## Substrate and Polkadot Stack Exchange
+ - [https://substrate.stackexchange.com](https://substrate.stackexchange.com)
+ - date published: 2023-10-25T17:14:27.990996+00:00
+ - user: None
+ - tags: []
+
+## Travel Stack Exchange
+ - [https://travel.stackexchange.com](https://travel.stackexchange.com)
+ - date published: 2023-10-25T17:14:31.765614+00:00
+ - user: None
+ - tags: []
+
+## Unix & Linux Stack Exchange
+ - [https://unix.stackexchange.com](https://unix.stackexchange.com)
+ - date published: 2023-10-25T17:14:39.830149+00:00
+ - user: None
+ - tags: []
+
+## The Workplace Stack Exchange
+ - [https://workplace.stackexchange.com](https://workplace.stackexchange.com)
+ - date published: 2023-10-25T17:14:43.195803+00:00
+ - user: None
+ - tags: []
+
+## Meta Stack Overflow
+ - [https://meta.stackoverflow.com](https://meta.stackoverflow.com)
+ - date published: 2023-10-25T17:14:47.678996+00:00
+ - user: None
+ - tags: []
+
 ## Stack Overflow - Where Developers Learn, Share, & Build Careers
  - [https://stackoverflow.com](https://stackoverflow.com)
  - date published: 2023-10-24T20:16:48.479485+00:00
@@ -2176,6 +2380,12 @@
  - user: None
  - tags: ['substack']
 
+## Roughly Written | Ryan O'Neill | Substack
+ - [https://roughlywritten.substack.com](https://roughlywritten.substack.com)
+ - date published: 2023-12-23T15:08:37.487132+00:00
+ - user: None
+ - tags: []
+
 ## Implications, by Scott Belsky | Substack
  - [https://scottbelsky.substack.com](https://scottbelsky.substack.com)
  - date published: 2023-10-25T10:02:57.280453+00:00
@@ -3106,6 +3316,12 @@
  - user: None
  - tags: []
 
+## Show HN: Talk Paper Scissors
+ - [https://talkpaperscissors.com](https://talkpaperscissors.com)
+ - date published: 2023-12-23T16:16:54+00:00
+ - user: None
+ - tags: []
+
 ## Tallahassee - Home
  - [https://www.tallahassee.com](https://www.tallahassee.com)
  - date published: 2023-12-04T15:58:10.872316+00:00
@@ -3129,6 +3345,12 @@
  - date published: 2023-10-25T17:22:55.890764+00:00
  - user: None
  - tags: []
+
+## tamvodopad: main
+ - [https://tamvodopad.com](https://tamvodopad.com)
+ - date published: 2023-12-23T03:00:32.569803+00:00
+ - user: None
+ - tags: ['personal']
 
 ## https://www.tandfonline.com
  - [https://www.tandfonline.com](https://www.tandfonline.com)
@@ -3159,6 +3381,12 @@
  - date published: 2023-10-25T17:23:12.381512+00:00
  - user: None
  - tags: []
+
+## Software Pricing Advisory Services | Pricing Strategy Consultant
+ - [https://taprun.com](https://taprun.com)
+ - date published: 2023-12-23T03:00:47.469405+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Target Tech Blog
  - [https://tech.target.com](https://tech.target.com)
@@ -3508,6 +3736,12 @@
  - user: None
  - tags: []
 
+## Tech World With Milan Newsletter | Dr Milan Milanović | Substack
+ - [https://newsletter.techworld-with-milan.com](https://newsletter.techworld-with-milan.com)
+ - date published: 2023-12-23T10:43:34.120923+00:00
+ - user: None
+ - tags: []
+
 ## Tech Xplore - Technology and Engineering news
  - [https://techxplore.com](https://techxplore.com)
  - date published: 2023-10-25T17:25:54.520888+00:00
@@ -3555,6 +3789,12 @@
  - date published: 2023-10-25T17:26:17.888935+00:00
  - user: None
  - tags: []
+
+## Teejay VanSlyke
+ - [http://teejayvanslyke.com](http://teejayvanslyke.com)
+ - date published: 2023-12-23T03:00:36.749123+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Teen Vogue: Fashion, Beauty, Entertainment News for Teens | Teen Vogue
  - [https://www.teenvogue.com](https://www.teenvogue.com)
@@ -5520,6 +5760,12 @@
  - user: None
  - tags: []
 
+## Thought Of Art
+ - [http://www.thoughtofart.com](http://www.thoughtofart.com)
+ - date published: 2023-12-23T19:26:51.192455+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Digital Experience Monitoring | ThousandEyes
  - [https://www.thousandeyes.com](https://www.thousandeyes.com)
  - date published: 2023-10-25T17:41:11.018286+00:00
@@ -5751,252 +5997,6 @@
 ## Free Online Timers
  - [https://www.timerone.com](https://www.timerone.com)
  - date published: 2023-10-25T17:42:09.132089+00:00
- - user: None
- - tags: []
-
-## Timescale Blog
- - [https://blog.timescale.com](https://blog.timescale.com)
- - date published: 2023-10-25T17:42:16.471158+00:00
- - user: None
- - tags: []
-
-## Timescale is PostgreSQL, but faster—for time series, events , analytics | Timescale
- - [https://www.timescale.com](https://www.timescale.com)
- - date published: 2023-10-25T17:42:19.306817+00:00
- - user: None
- - tags: []
-
-## Times Enigma - Latest News On AI, Technology, Sports & Entertainment.
- - [https://timesenigma.com](https://timesenigma.com)
- - date published: 2023-12-16T19:24:08.889480+00:00
- - user: None
- - tags: []
-
-## Times Higher Education home | Times Higher Education (THE)
- - [https://www.timeshighereducation.com](https://www.timeshighereducation.com)
- - date published: 2023-10-25T17:42:21.509110+00:00
- - user: None
- - tags: []
-
-## Latest News, Breaking News, News Today, Live News | Times Now
- - [https://www.timesnownews.com](https://www.timesnownews.com)
- - date published: 2023-10-25T17:42:29.416264+00:00
- - user: None
- - tags: []
-
-## News - Latest News, Breaking News, Bollywood, Sports, Business and Political News | Times of India
- - [https://m.timesofindia.com](https://m.timesofindia.com)
- - date published: 2023-11-03T18:34:22.932966+00:00
- - user: None
- - tags: []
-
-## The Times of Israel | News from Israel, the Middle East and the Jewish World
- - [https://www.timesofisrael.com](https://www.timesofisrael.com)
- - date published: 2023-10-25T11:48:01.991623+00:00
- - user: None
- - tags: ['israel news']
-
-## Malta news, sport, opinion - Times of Malta
- - [https://timesofmalta.com](https://timesofmalta.com)
- - date published: 2023-10-25T17:42:33.971026+00:00
- - user: None
- - tags: []
-
-## Times of San Diego :: Local News and Opinion for San Diego, California
- - [https://timesofsandiego.com](https://timesofsandiego.com)
- - date published: 2023-10-25T17:42:42.449595+00:00
- - user: None
- - tags: []
-
-## Times Union - Times Union
- - [https://www.timesunion.com](https://www.timesunion.com)
- - date published: 2023-10-25T17:42:48.773652+00:00
- - user: None
- - tags: []
-
-## Home - Time to Play Fair
- - [https://timetoplayfair.com](https://timetoplayfair.com)
- - date published: 2023-10-25T17:42:50.923835+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://timgorichanaz.com](https://timgorichanaz.com)
- - date published: 2023-11-29T14:42:44.444226+00:00
- - user: None
- - tags: []
-
-## Tim Harford, the Undercover Economist
- - [https://timharford.com](https://timharford.com)
- - date published: 2023-10-25T17:42:54.374652+00:00
- - user: None
- - tags: []
-
-## Tim Heuer - A site about .NET, Visual Studio, and other tech stuff
- - [https://timheuer.com](https://timheuer.com)
- - date published: 2023-10-25T08:48:07.549661+00:00
- - user: None
- - tags: ['personal']
-
-## tim hunkin home page
- - [https://www.timhunkin.com](https://www.timhunkin.com)
- - date published: 2023-10-25T17:42:55.118029+00:00
- - user: None
- - tags: ['personal']
-
-## tim kellogg - Home
- - [https://timkellogg.com](https://timkellogg.com)
- - date published: 2023-12-21T15:16:17.803500+00:00
- - user: None
- - tags: ['personal']
-
-## https://timoanttila.com
- - [https://timoanttila.com](https://timoanttila.com)
- - date published: 2023-12-13T20:58:29.055580+00:00
- - user: None
- - tags: ['personal']
-
-## Telemetry in front-end tools
- - [https://telemetry.timseverien.com](https://telemetry.timseverien.com)
- - date published: 2023-10-25T17:42:56.126466+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://timtesluck.com](https://timtesluck.com)
- - date published: 2023-11-16T21:08:06.043609+00:00
- - user: None
- - tags: ['personal']
-
-## Buy and Sell DIY Hardware Products - Tindie
- - [https://www.tindie.com](https://www.tindie.com)
- - date published: 2023-10-25T17:43:02.164185+00:00
- - user: None
- - tags: []
-
-## Engineering | Tines
- - [https://engineering.tines.com](https://engineering.tines.com)
- - date published: 2023-10-25T17:43:04.490878+00:00
- - user: None
- - tags: []
-
-## Tinkercad | From mind to design in minutes
- - [https://www.tinkercad.com](https://www.tinkercad.com)
- - date published: 2023-10-27T10:18:37.522915+00:00
- - user: None
- - tags: ['3d printing']
-
-## Tinloof
- - [https://tinloof.com](https://tinloof.com)
- - date published: 2023-10-25T17:43:06.314886+00:00
- - user: None
- - tags: []
-
-## Blog do Tino Gomes
- - [https://blog.tinogomes.com](https://blog.tinogomes.com)
- - date published: 2023-12-17T05:07:31.704120+00:00
- - user: None
- - tags: ['personal']
-
-## Tiny Subversions | Darius Kazemi
- - [https://tinysubversions.com](https://tinysubversions.com)
- - date published: 2023-10-25T17:43:12.693676+00:00
- - user: None
- - tags: []
-
-## Tiny Tapeout :: Documentation in English
- - [https://tinytapeout.com](https://tinytapeout.com)
- - date published: 2023-10-25T17:43:13.967055+00:00
- - user: None
- - tags: []
-
-## https://tinyurl.com
- - [https://tinyurl.com](https://tinyurl.com)
- - date published: 2023-12-11T16:53:21.642934+00:00
- - user: None
- - tags: ['link service']
-
-## Tipp10 - Free Touch Typing Tutor | Online and Software Training
- - [https://www.tipp10.com](https://www.tipp10.com)
- - date published: 2023-10-25T17:43:14.789917+00:00
- - user: None
- - tags: []
-
-## Tire Meets Road - Alt Car news
- - [https://tiremeetsroad.com](https://tiremeetsroad.com)
- - date published: 2023-10-25T17:43:21.793371+00:00
- - user: None
- - tags: []
-
-## draw my ui
- - [https://makereal.tldraw.com](https://makereal.tldraw.com)
- - date published: 2023-11-16T13:22:37.653367+00:00
- - user: None
- - tags: ['ui creator', 'online tool']
-
-## tldraw
- - [https://tldraw.com](https://tldraw.com)
- - date published: 2023-11-16T13:23:01.595371+00:00
- - user: None
- - tags: ['drawing', 'online tool']
-
-## https://www.tlo.com
- - [https://www.tlo.com](https://www.tlo.com)
- - date published: 2023-10-25T17:43:22.174068+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://tlpnetwork.com](https://tlpnetwork.com)
- - date published: 2023-10-25T17:43:24.008897+00:00
- - user: None
- - tags: []
-
-## www.toastermuseum.com - ANTIQUE TOASTERS for TOASTER COLLECTORS
- - [http://toastermuseum.com](http://toastermuseum.com)
- - date published: 2023-10-25T17:43:24.496047+00:00
- - user: None
- - tags: []
-
-## Nathan's Toasty Technology Page
- - [https://toastytech.com](https://toastytech.com)
- - date published: 2023-10-25T17:43:25.787615+00:00
- - user: None
- - tags: []
-
-## Tobias Ahlin
- - [https://tobiasahlin.com](https://tobiasahlin.com)
- - date published: 2023-10-25T17:43:26.654867+00:00
- - user: None
- - tags: []
-
-## Tobiloba Adejumo
- - [https://tobilobaadejumo.com](https://tobilobaadejumo.com)
- - date published: 2023-12-12T23:23:02.153690+00:00
- - user: None
- - tags: ['personal']
-
-## TobinSlaven.com
- - [https://www.tobinslaven.com](https://www.tobinslaven.com)
- - date published: 2023-11-29T19:27:09.018600+00:00
- - user: None
- - tags: ['personal']
-
-## Latest News, Videos & Guest Interviews from the Today Show on NBC | TODAY
- - [https://www.today.com](https://www.today.com)
- - date published: 2023-10-25T10:16:42.705063+00:00
- - user: None
- - tags: []
-
-## Today I Found Out | Learn Interesting Facts Every Day
- - [https://www.todayifoundout.com](https://www.todayifoundout.com)
- - date published: 2023-10-25T17:43:33.027740+00:00
- - user: None
- - tags: []
-
-## Welcome to Today In BC | British Columbia News
- - [https://www.todayinbc.com](https://www.todayinbc.com)
- - date published: 2023-11-18T19:07:55.241515+00:00
  - user: None
  - tags: []
 

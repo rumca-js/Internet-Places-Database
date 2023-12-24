@@ -448,6 +448,12 @@
  - user: None
  - tags: []
 
+## Cyberrunner – robot playing Labyrinth board game
+ - [https://www.cyberrunner.ai](https://www.cyberrunner.ai)
+ - date published: 2023-12-22T11:46:22+00:00
+ - user: None
+ - tags: []
+
 ## Dive into Deep Learning: Interactive deep learning book with codes and maths
  - [https://d2l.ai](https://d2l.ai)
  - date published: 2023-11-27T04:55:20+00:00
@@ -1249,6 +1255,12 @@
 ## Struct: Chat Reinvented
  - [https://www.struct.ai](https://www.struct.ai)
  - date published: 2023-10-25T11:43:08.482350+00:00
+ - user: None
+ - tags: []
+
+## Suno AI
+ - [https://www.suno.ai](https://www.suno.ai)
+ - date published: 2023-12-23T12:24:14+00:00
  - user: None
  - tags: []
 
@@ -2950,6 +2962,12 @@
  - user: None
  - tags: []
 
+## HMRI | Leading research for life changing results
+ - [https://hmri.org.au](https://hmri.org.au)
+ - date published: 2023-12-23T01:23:27.605150+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://www.mastermariners.org.au](https://www.mastermariners.org.au)
  - date published: 2023-10-25T11:58:09.841193+00:00
@@ -3431,6 +3449,12 @@
  - user: None
  - tags: ['personal']
 
+## Grumpy Wizard
+ - [https://grumpywizard.home.blog](https://grumpywizard.home.blog)
+ - date published: 2023-12-23T19:27:09.883564+00:00
+ - user: None
+ - tags: ['personal']
+
 ## To Be Determined
  - [https://locationtbd.home.blog](https://locationtbd.home.blog)
  - date published: 2023-10-25T09:01:46.793235+00:00
@@ -3755,6 +3779,12 @@
  - user: None
  - tags: []
 
+## Fabricio Stefani Peruzzo
+ - [https://fabricioperuzzo.com.br](https://fabricioperuzzo.com.br)
+ - date published: 2023-12-23T07:30:31.973271+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Mods GTA San Andreas
  - [https://www.gta-sa.com.br](https://www.gta-sa.com.br)
  - date published: 2023-10-25T11:08:27.421230+00:00
@@ -3893,6 +3923,12 @@
  - user: None
  - tags: []
 
+## Adam Pritchard's blog and miscellany
+ - [https://adam-p.ca](https://adam-p.ca)
+ - date published: 2023-12-23T19:22:49.802394+00:00
+ - user: None
+ - tags: []
+
 ## https://ahelwer.ca
  - [https://ahelwer.ca](https://ahelwer.ca)
  - date published: 2023-10-25T12:03:10.516319+00:00
@@ -4016,6 +4052,12 @@
 ## Breaking News | Top Local Stories | CityNews Toronto
  - [https://toronto.citynews.ca](https://toronto.citynews.ca)
  - date published: 2023-12-04T13:48:22.408481+00:00
+ - user: None
+ - tags: []
+
+## Breaking News | Top Local Stories | CityNews Vancouver
+ - [https://vancouver.citynews.ca](https://vancouver.citynews.ca)
+ - date published: 2023-12-23T07:31:06.657092+00:00
  - user: None
  - tags: []
 
@@ -5394,6 +5436,12 @@
  - user: None
  - tags: []
 
+## Watching the World
+ - [https://webcamaze.engineering.zhaw.ch](https://webcamaze.engineering.zhaw.ch)
+ - date published: 2023-12-23T00:58:53.598471+00:00
+ - user: None
+ - tags: []
+
 ## aider is AI pair programming in your terminal
  - [https://aider.chat](https://aider.chat)
  - date published: 2023-11-08T00:15:40.726262+00:00
@@ -5951,52 +5999,4 @@
  - date published: 2023-12-11T16:37:24.222962+00:00
  - user: None
  - tags: []
-
-## Hugging Face – The AI community building the future.
- - [https://huggingface.co](https://huggingface.co)
- - date published: 2023-10-25T12:19:04.902604+00:00
- - user: None
- - tags: []
-
-## Hypercritical
- - [https://hypercritical.co](https://hypercritical.co)
- - date published: 2023-10-25T12:19:09.634842+00:00
- - user: None
- - tags: []
-
-## Upload Image — Free Image Hosting
- - [https://i.ibb.co](https://i.ibb.co)
- - date published: 2023-12-11T18:59:48.978058+00:00
- - user: None
- - tags: []
-
-## Upload Image — Free Image Hosting
- - [https://ibb.co](https://ibb.co)
- - date published: 2023-11-03T03:48:55.335444+00:00
- - user: None
- - tags: []
-
-## Ivan Malopinsky
- - [https://imsky.co](https://imsky.co)
- - date published: 2023-11-29T14:54:22.955893+00:00
- - user: None
- - tags: ['personal']
-
-## Izzy Miller
- - [https://www.izzy.co](https://www.izzy.co)
- - date published: 2023-10-25T08:43:21.263927+00:00
- - user: None
- - tags: ['personal']
-
-## Jose M.
- - [https://josem.co](https://josem.co)
- - date published: 2023-10-25T09:03:21.010231+00:00
- - user: None
- - tags: ['personal']
-
-## Kevin Chung
- - [https://blog.kchung.co](https://blog.kchung.co)
- - date published: 2023-10-25T09:07:54.432482+00:00
- - user: None
- - tags: ['personal']
 
