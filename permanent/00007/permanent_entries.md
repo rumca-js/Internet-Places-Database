@@ -1,3 +1,195 @@
+## Practical Self Reliance – Your Practical Guide To Self Reliant Living
+ - [https://practicalselfreliance.com](https://practicalselfreliance.com)
+ - date published: 2023-10-25T16:38:58.139254+00:00
+ - user: None
+ - tags: []
+
+## Butterick’s Practical Typography
+ - [https://practicaltypography.com](https://practicaltypography.com)
+ - date published: 2023-10-25T16:39:01.191915+00:00
+ - user: None
+ - tags: []
+
+## The Pragmatic Engineer - The Pragmatic Engineer
+ - [https://blog.pragmaticengineer.com](https://blog.pragmaticengineer.com)
+ - date published: 2023-10-25T16:39:04.240221+00:00
+ - user: None
+ - tags: []
+
+## The Pragmatic Engineer | Gergely Orosz | Substack
+ - [https://newsletter.pragmaticengineer.com](https://newsletter.pragmaticengineer.com)
+ - date published: 2023-10-25T16:39:06.934231+00:00
+ - user: None
+ - tags: []
+
+## Prakhar Gupta - Home
+ - [https://prakgupta.com](https://prakgupta.com)
+ - date published: 2023-11-17T07:14:25.973919+00:00
+ - user: None
+ - tags: []
+
+## Data Stories, by Pranshu
+ - [https://yarn.pranshum.com](https://yarn.pranshum.com)
+ - date published: 2023-10-25T16:39:07.583629+00:00
+ - user: None
+ - tags: []
+
+## About me - Pravesh Koirala
+ - [https://praveshkoirala.com](https://praveshkoirala.com)
+ - date published: 2023-10-25T16:39:09.571981+00:00
+ - user: None
+ - tags: []
+
+## Precursor—fast prototyping web app, makes collaboration easy.
+ - [https://precursorapp.com](https://precursorapp.com)
+ - date published: 2023-10-25T16:39:10.908990+00:00
+ - user: None
+ - tags: []
+
+## Predictable Designs is where electronics and entrepreneurship intersect
+ - [https://predictabledesigns.com](https://predictabledesigns.com)
+ - date published: 2023-10-25T16:39:14.616428+00:00
+ - user: None
+ - tags: []
+
+## Present&Correct – SUNDRIES FOR THE MODERN WORKSPACE
+ - [http://blog.presentandcorrect.com](http://blog.presentandcorrect.com)
+ - date published: 2023-10-25T16:39:22.105057+00:00
+ - user: None
+ - tags: []
+
+## Preshing on Programming
+ - [https://preshing.com](https://preshing.com)
+ - date published: 2023-10-25T16:39:24.657091+00:00
+ - user: None
+ - tags: []
+
+## PreSonus Software
+ - [https://www.presonussoftware.com](https://www.presonussoftware.com)
+ - date published: 2023-11-27T01:06:49.801011+00:00
+ - user: None
+ - tags: []
+
+## Shaun Gallagher - Author, Software Engineer, Fast Typer
+ - [https://shaungallagher.pressbin.com](https://shaungallagher.pressbin.com)
+ - date published: 2023-11-04T13:47:28.938025+00:00
+ - user: None
+ - tags: []
+
+## https://www.pressdemocrat.com
+ - [https://www.pressdemocrat.com](https://www.pressdemocrat.com)
+ - date published: 2023-11-01T08:42:56.938211+00:00
+ - user: None
+ - tags: []
+
+## Press Enterprise
+ - [https://www.pressenterprise.com](https://www.pressenterprise.com)
+ - date published: 2023-12-08T17:29:18.211069+00:00
+ - user: None
+ - tags: []
+
+## The Portland Press Herald - Maine Sunday Telegram
+ - [https://www.pressherald.com](https://www.pressherald.com)
+ - date published: 2023-10-25T16:39:39.509064+00:00
+ - user: None
+ - tags: []
+
+## Prestissimo Media
+ - [https://prestissimo-guitar.com](https://prestissimo-guitar.com)
+ - date published: 2023-12-03T23:31:18.327725+00:00
+ - user: None
+ - tags: []
+
+## Tom Preston-Werner
+ - [https://tom.preston-werner.com](https://tom.preston-werner.com)
+ - date published: 2023-10-25T16:39:41.232703+00:00
+ - user: None
+ - tags: []
+
+## Pretty Graham | Paul Graham for people with eyes
+ - [https://prettygraham.com](https://prettygraham.com)
+ - date published: 2023-10-25T16:39:42.501069+00:00
+ - user: None
+ - tags: []
+
+## Prevention.com - Health Advice, Nutrition Tips, Trusted Medical Information
+ - [https://www.prevention.com](https://www.prevention.com)
+ - date published: 2023-10-25T16:39:45.941407+00:00
+ - user: None
+ - tags: []
+
+## PRIMETIMER
+ - [https://www.primetimer.com](https://www.primetimer.com)
+ - date published: 2023-12-04T17:36:35.353924+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Prime Video
+ - [https://www.primevideo.com](https://www.primevideo.com)
+ - date published: 2023-10-25T11:44:38.166340+00:00
+ - user: None
+ - tags: ['video streaming']
+
+## Prime Video Tech | The tech blog about innovation at Prime Video
+ - [https://www.primevideotech.com](https://www.primevideotech.com)
+ - date published: 2023-10-25T16:39:53.743824+00:00
+ - user: None
+ - tags: []
+
+## Principia Mundi
+ - [https://principiamundi.com](https://principiamundi.com)
+ - date published: 2023-10-25T16:39:55.572582+00:00
+ - user: None
+ - tags: []
+
+## Printables
+ - [https://www.printables.com](https://www.printables.com)
+ - date published: 2023-10-25T08:29:53.478133+00:00
+ - user: None
+ - tags: ['3d printing', 'assets models']
+
+## PrintableSearch
+ - [https://www.printablesearch.com](https://www.printablesearch.com)
+ - date published: 2023-10-25T08:29:54.461614+00:00
+ - user: None
+ - tags: ['3d printing', 'assets models']
+
+## PRINT Magazine
+ - [https://www.printmag.com](https://www.printmag.com)
+ - date published: 2023-10-25T16:40:07.393377+00:00
+ - user: None
+ - tags: []
+
+## The Privacy Sandbox: Technology for a More Private Web.
+ - [https://privacysandbox.com](https://privacysandbox.com)
+ - date published: 2023-10-25T16:40:10.149411+00:00
+ - user: None
+ - tags: []
+
+## Home - Privateer Press
+ - [https://privateerpress.com](https://privateerpress.com)
+ - date published: 2023-12-13T15:38:41.524726+00:00
+ - user: None
+ - tags: []
+
+## Private Internet Access: The #1 Best VPN Service For 10+ Years
+ - [https://www.privateinternetaccess.com](https://www.privateinternetaccess.com)
+ - date published: 2023-10-24T20:20:42.918262+00:00
+ - user: None
+ - tags: []
+
+## PR Newswire: press release distribution, targeting, monitoring and marketing
+ - [https://www.prnewswire.com](https://www.prnewswire.com)
+ - date published: 2023-10-25T16:40:21.014061+00:00
+ - user: None
+ - tags: []
+
+## Probably Dance | I can program and like games
+ - [https://probablydance.com](https://probablydance.com)
+ - date published: 2023-10-25T16:40:23.924707+00:00
+ - user: None
+ - tags: []
+
 ## About me | Marcus Lewis
  - [https://probablymarcus.com](https://probablymarcus.com)
  - date published: 2023-10-26T14:22:23.950088+00:00
@@ -2496,6 +2688,12 @@
  - user: None
  - tags: ['personal']
 
+## Rock Informer - Rock Music News, Reviews, Videos
+ - [https://rockinformer.com](https://rockinformer.com)
+ - date published: 2023-12-24T18:53:19.977744+00:00
+ - user: None
+ - tags: ['music']
+
 ## Rock Paper Shotgun
  - [https://www.rockpapershotgun.com](https://www.rockpapershotgun.com)
  - date published: 2023-10-25T10:50:04.819629+00:00
@@ -3216,6 +3414,12 @@
  - user: None
  - tags: []
 
+## Sam DuRegger
+ - [http://samduregger.com](http://samduregger.com)
+ - date published: 2023-12-24T02:30:20.951784+00:00
+ - user: None
+ - tags: ['personal']
+
 ## build build
  - [https://samiramly.com](https://samiramly.com)
  - date published: 2023-10-25T16:57:14.191341+00:00
@@ -3251,6 +3455,12 @@
  - date published: 2023-10-25T16:57:17.096847+00:00
  - user: None
  - tags: []
+
+## Sam Spurlin
+ - [https://www.samspurlin.com](https://www.samspurlin.com)
+ - date published: 2023-12-24T02:31:10.792116+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Samsung Developers
  - [https://developer.samsung.com](https://developer.samsung.com)
@@ -3353,6 +3563,12 @@
  - date published: 2023-10-25T16:57:33.115906+00:00
  - user: None
  - tags: []
+
+## - SarahMcCulloch.com | With Strength and Spirit
+ - [http://www.sarahmcculloch.com](http://www.sarahmcculloch.com)
+ - date published: 2023-12-24T08:15:55.915305+00:00
+ - user: None
+ - tags: ['personal']
 
 ## sara kingsley – YA :: FANTASY :: ROMANCE
  - [https://www.sarakingsley.com](https://www.sarakingsley.com)
@@ -4277,6 +4493,12 @@
  - date published: 2023-11-27T11:33:27+00:00
  - user: rumpel
  - tags: ['movies']
+
+## https://www.shanecole.com
+ - [https://www.shanecole.com](https://www.shanecole.com)
+ - date published: 2023-12-24T08:14:40.540751+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Shanley
  - [https://www.shanleykane.com](https://www.shanleykane.com)
@@ -5782,228 +6004,6 @@
 ## Spread Privacy
  - [https://spreadprivacy.com](https://spreadprivacy.com)
  - date published: 2023-10-25T17:11:16.811041+00:00
- - user: None
- - tags: []
-
-## Home | SpringerLink
- - [https://link.springer.com](https://link.springer.com)
- - date published: 2023-10-25T17:11:18.919117+00:00
- - user: None
- - tags: []
-
-## The Spriters Resource
- - [https://www.spriters-resource.com](https://www.spriters-resource.com)
- - date published: 2023-10-25T11:35:11.849563+00:00
- - user: None
- - tags: ['assets sprites']
-
-## Sprites mods - Welcome - Welcome!
- - [https://spritesmods.com](https://spritesmods.com)
- - date published: 2023-10-25T17:11:19.992109+00:00
- - user: None
- - tags: []
-
-## SPY – Men's Style, Health, Grooming, Tech, Sports
- - [https://spy.com](https://spy.com)
- - date published: 2023-10-25T17:11:25.023835+00:00
- - user: None
- - tags: []
-
-## SQLforDevs.com - Database Tips & Tricks
- - [https://sqlfordevs.com](https://sqlfordevs.com)
- - date published: 2023-10-25T17:11:28.657539+00:00
- - user: None
- - tags: []
-
-## Solar Car City Car for daily Urban Mobility
- - [https://www.squadmobility.com](https://www.squadmobility.com)
- - date published: 2023-10-25T17:11:30.184077+00:00
- - user: None
- - tags: []
-
-## Squarespace / Engineering
- - [https://engineering.squarespace.com](https://engineering.squarespace.com)
- - date published: 2023-10-25T17:11:31.582819+00:00
- - user: None
- - tags: []
-
-## The Official Squarespace Newsroom
- - [https://newsroom.squarespace.com](https://newsroom.squarespace.com)
- - date published: 2023-10-25T17:11:33.322378+00:00
- - user: None
- - tags: []
-
-## AMIGA
- - [https://olive-dove-amhz.squarespace.com](https://olive-dove-amhz.squarespace.com)
- - date published: 2023-12-11T18:34:11.976151+00:00
- - user: None
- - tags: []
-
-## Website Builder — Create a Website in Minutes — Squarespace
- - [https://www.squarespace.com](https://www.squarespace.com)
- - date published: 2023-10-25T08:24:15.197115+00:00
- - user: None
- - tags: []
-
-## https://images.squarespace-cdn.com
- - [https://images.squarespace-cdn.com](https://images.squarespace-cdn.com)
- - date published: 2023-12-11T18:34:20.574903+00:00
- - user: None
- - tags: []
-
-## Power your entire business | Square
- - [https://squareup.com](https://squareup.com)
- - date published: 2023-10-25T17:11:36.693918+00:00
- - user: None
- - tags: []
-
-## Squidgeefish
- - [https://squidgeefish.com](https://squidgeefish.com)
- - date published: 2023-10-25T17:11:37.299993+00:00
- - user: None
- - tags: []
-
-## AGE OF SQUIDMAR
- - [https://www.squidmar.com](https://www.squidmar.com)
- - date published: 2023-10-25T11:11:44.653780+00:00
- - user: None
- - tags: []
-
-## Фотографии, биография звезд, моделей и просто красивых девушек!
- - [https://sqwera.com](https://sqwera.com)
- - date published: 2023-10-25T17:11:38.934790+00:00
- - user: None
- - tags: []
-
-## Source & Binary
- - [https://src-bin.com](https://src-bin.com)
- - date published: 2023-10-25T17:11:39.487909+00:00
- - user: None
- - tags: []
-
-## SRI International - American Nonprofit Research Institute
- - [https://www.sri.com](https://www.sri.com)
- - date published: 2023-10-25T17:11:43.284336+00:00
- - user: None
- - tags: []
-
-## Sriram P H | Product Designer
- - [https://sriramph.com](https://sriramph.com)
- - date published: 2023-11-29T14:23:04.280934+00:00
- - user: None
- - tags: ['personal']
-
-## Home Page - SSC - Swedish Space Corporation
- - [https://sscspace.com](https://sscspace.com)
- - date published: 2023-10-25T17:11:50.984142+00:00
- - user: None
- - tags: []
-
-## SsethTzeentach&#39;s &#40;shitty website&#41;
- - [https://www.ssethtzeentach.com](https://www.ssethtzeentach.com)
- - date published: 2023-12-06T15:38:16+00:00
- - user: rumpel
- - tags: ['satire', 'comedy', 'youtuber']
-
-## Search eLibrary :: SSRN
- - [https://papers.ssrn.com](https://papers.ssrn.com)
- - date published: 2023-10-25T17:11:54.538915+00:00
- - user: None
- - tags: []
-
-## STMicroelectronics: Our technology starts with you
- - [https://www.st.com](https://www.st.com)
- - date published: 2023-10-25T17:11:58.173044+00:00
- - user: None
- - tags: []
-
-## Stable Diffusion Art - Tutorials, prompts and resources
- - [https://stable-diffusion-art.com](https://stable-diffusion-art.com)
- - date published: 2023-10-25T17:12:02.050014+00:00
- - user: None
- - tags: []
-
-## Stable Attribution
- - [https://www.stableattribution.com](https://www.stableattribution.com)
- - date published: 2023-10-25T17:12:02.415931+00:00
- - user: None
- - tags: []
-
-## Stable Diffusion Frivolous · Because lawsuits based on ignorance deserve a response.
- - [http://www.stablediffusionfrivolous.com](http://www.stablediffusionfrivolous.com)
- - date published: 2023-10-25T17:12:04.189851+00:00
- - user: None
- - tags: []
-
-## Stable Diffusion litigation · Joseph Saveri Law Firm & Matthew Butterick
- - [https://stablediffusionlitigation.com](https://stablediffusionlitigation.com)
- - date published: 2023-10-25T17:12:06.170800+00:00
- - user: None
- - tags: []
-
-## Stable Diffusion Online - AI Image Generator
- - [https://stablediffusionweb.com](https://stablediffusionweb.com)
- - date published: 2023-11-01T08:43:08.674852+00:00
- - user: None
- - tags: []
-
-## Stabroek News - Guyana's Most Trusted Newspaper
- - [https://www.stabroeknews.com](https://www.stabroeknews.com)
- - date published: 2023-12-06T23:19:54.542248+00:00
- - user: None
- - tags: []
-
-## Stacey on IoT | Internet of Things news and analysis - Internet of Things
- - [https://staceyoniot.com](https://staceyoniot.com)
- - date published: 2023-10-25T17:12:08.633977+00:00
- - user: None
- - tags: []
-
-## Stack Diary - For Developers, Designers and Makers.
- - [https://stackdiary.com](https://stackdiary.com)
- - date published: 2023-10-25T09:35:47.301307+00:00
- - user: None
- - tags: []
-
-## Stacker | Turn your team's data into business apps
- - [https://www.stackerhq.com](https://www.stackerhq.com)
- - date published: 2023-10-25T17:12:16.159510+00:00
- - user: None
- - tags: []
-
-## Academia Stack Exchange
- - [https://academia.stackexchange.com](https://academia.stackexchange.com)
- - date published: 2023-10-25T17:12:23.792259+00:00
- - user: None
- - tags: []
-
-## Ask Different
- - [https://apple.stackexchange.com](https://apple.stackexchange.com)
- - date published: 2023-12-21T17:42:00.104054+00:00
- - user: None
- - tags: []
-
-## Astronomy Stack Exchange
- - [https://astronomy.stackexchange.com](https://astronomy.stackexchange.com)
- - date published: 2023-10-25T17:12:31.667957+00:00
- - user: None
- - tags: []
-
-## Aviation Stack Exchange
- - [https://aviation.stackexchange.com](https://aviation.stackexchange.com)
- - date published: 2023-10-25T17:12:34.520438+00:00
- - user: None
- - tags: []
-
-## Bioinformatics Stack Exchange
- - [https://bioinformatics.stackexchange.com](https://bioinformatics.stackexchange.com)
- - date published: 2023-10-25T17:12:37.237051+00:00
- - user: None
- - tags: []
-
-## Bricks
- - [https://bricks.stackexchange.com](https://bricks.stackexchange.com)
- - date published: 2023-10-25T11:10:47.269042+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,21 @@
+## Show HN: Grigora.co – A Blogger's Answer to Secure, Simple Web Building
+ - [https://grigora.co](https://grigora.co)
+ - date published: 2023-11-18T05:39:21+00:00
+ - user: None
+ - tags: []
+
+## Hannah Wastyk – about me
+ - [https://hannahwastyk.co](https://hannahwastyk.co)
+ - date published: 2023-12-20T14:34:20.920200+00:00
+ - user: None
+ - tags: ['personal']
+
+## Restoring Trust in Digital
+ - [https://hu-manity.co](https://hu-manity.co)
+ - date published: 2023-12-11T16:37:24.222962+00:00
+ - user: None
+ - tags: []
+
 ## Hugging Face – The AI community building the future.
  - [https://huggingface.co](https://huggingface.co)
  - date published: 2023-10-25T12:19:04.902604+00:00
@@ -483,6 +501,12 @@
  - date published: 2023-10-25T12:24:43.103005+00:00
  - user: None
  - tags: []
+
+## https://ve42.co
+ - [https://ve42.co](https://ve42.co)
+ - date published: 2023-12-24T07:36:35+00:00
+ - user: rumpel
+ - tags: ['veritasium']
 
 ## https://api.viafoura.co
  - [https://api.viafoura.co](https://api.viafoura.co)
@@ -2380,6 +2404,12 @@
  - user: None
  - tags: []
 
+## A Little Adrift — 10+ Years of Stories From Around the World
+ - [https://alittleadrift.com](https://alittleadrift.com)
+ - date published: 2023-12-24T08:15:27.031098+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Alive in the Fire, a yoga and healthy living blog
  - [https://www.aliveinthefire.com](https://www.aliveinthefire.com)
  - date published: 2023-12-10T16:59:11.114465+00:00
@@ -2571,6 +2601,12 @@
  - date published: 2023-12-14T01:29:10.567487+00:00
  - user: None
  - tags: []
+
+## Aly Tadros
+ - [https://alytadros.com](https://alytadros.com)
+ - date published: 2023-12-24T08:15:47.639669+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Amadeus Pagel's Newsletter | Substack
  - [https://amadeuspagel.com](https://amadeuspagel.com)
@@ -3100,6 +3136,12 @@
  - user: None
  - tags: []
 
+## Andy Hartnett
+ - [https://andyhartnett.com](https://andyhartnett.com)
+ - date published: 2023-12-24T18:30:18.995194+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Andy Sylvester's Web – Software development, music, and the World Wide Web
  - [https://andysylvester.com](https://andysylvester.com)
  - date published: 2023-10-25T12:41:24.426679+00:00
@@ -3315,6 +3357,12 @@
  - date published: 2023-11-29T13:55:34.197883+00:00
  - user: None
  - tags: ['personal']
+
+## Home - Anton Thomas Art
+ - [https://www.antonthomasart.com](https://www.antonthomasart.com)
+ - date published: 2023-12-24T12:13:55.722550+00:00
+ - user: None
+ - tags: []
 
 ## Anyscale | Scalable Compute for AI and Python
  - [https://www.anyscale.com](https://www.anyscale.com)
@@ -5949,52 +5997,4 @@
  - date published: 2023-12-21T03:31:11.484659+00:00
  - user: None
  - tags: ['personal']
-
-## THE BITTER SOUTHERNER - Great Stories from the South
- - [https://bittersoutherner.com](https://bittersoutherner.com)
- - date published: 2023-12-06T23:57:44.319992+00:00
- - user: None
- - tags: []
-
-## Bittrex Global
- - [https://bittrex.com](https://bittrex.com)
- - date published: 2023-10-25T13:02:25.612866+00:00
- - user: None
- - tags: []
-
-## The password manager trusted by millions | Bitwarden
- - [https://bitwarden.com](https://bitwarden.com)
- - date published: 2023-10-25T08:37:07.991011+00:00
- - user: None
- - tags: []
-
-## Bitwarden Community Forums
- - [https://community.bitwarden.com](https://community.bitwarden.com)
- - date published: 2023-11-17T21:01:21.950204+00:00
- - user: None
- - tags: []
-
-## Status Page - Bitwarden
- - [https://status.bitwarden.com](https://status.bitwarden.com)
- - date published: 2023-10-25T13:02:32.152588+00:00
- - user: None
- - tags: []
-
-## Conservative News Media & Publisher ⋆ BizPac Review
- - [https://www.bizpacreview.com](https://www.bizpacreview.com)
- - date published: 2023-10-25T13:02:43.935693+00:00
- - user: None
- - tags: []
-
-## BizToc
- - [https://biztoc.com](https://biztoc.com)
- - date published: 2023-10-25T13:03:10.940595+00:00
- - user: None
- - tags: []
-
-## The Angry Dev · Darren Horrocks explains various Programming and DevOps practices, with some guides, explanations and ramblings from a sometimes angry man
- - [https://bizzeh.com](https://bizzeh.com)
- - date published: 2023-10-25T13:03:14.509269+00:00
- - user: None
- - tags: []
 

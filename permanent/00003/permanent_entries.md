@@ -1,3 +1,81 @@
+## datalars
+ - [https://datalars.com](https://datalars.com)
+ - date published: 2023-10-25T13:44:08.044566+00:00
+ - user: None
+ - tags: []
+
+## Datanami: Big Data, Big Analytics, Big Insights
+ - [https://www.datanami.com](https://www.datanami.com)
+ - date published: 2023-10-25T13:44:20.798582+00:00
+ - user: None
+ - tags: []
+
+## Data Narratives: search your data like you Google
+ - [https://datanarratives.com](https://datanarratives.com)
+ - date published: 2023-10-25T13:44:24.478490+00:00
+ - user: None
+ - tags: []
+
+## Data-oriented design
+ - [https://www.dataorienteddesign.com](https://www.dataorienteddesign.com)
+ - date published: 2023-10-25T13:44:25.993903+00:00
+ - user: None
+ - tags: []
+
+## DataScientYst - Data Science Simplified
+ - [https://datascientyst.com](https://datascientyst.com)
+ - date published: 2023-10-25T13:44:38.140825+00:00
+ - user: None
+ - tags: []
+
+## imgix - Image Processing On-Demand, Served By CDN
+ - [https://www.datocms-assets.com](https://www.datocms-assets.com)
+ - date published: 2023-10-25T13:44:46.338388+00:00
+ - user: None
+ - tags: []
+
+## Datomic
+ - [https://blog.datomic.com](https://blog.datomic.com)
+ - date published: 2023-10-25T13:44:54.405387+00:00
+ - user: None
+ - tags: []
+
+## Datomic Cloud Documentation
+ - [https://docs.datomic.com](https://docs.datomic.com)
+ - date published: 2023-10-25T13:44:58.411680+00:00
+ - user: None
+ - tags: []
+
+## Dave Allie
+ - [https://blog.daveallie.com](https://blog.daveallie.com)
+ - date published: 2023-10-25T09:20:01.435572+00:00
+ - user: None
+ - tags: ['personal']
+
+## Homepage
+ - [http://www.davechappelle.com](http://www.davechappelle.com)
+ - date published: 2023-10-30T10:49:52.330413+00:00
+ - user: None
+ - tags: []
+
+## Home | Dave DeLong
+ - [https://davedelong.com](https://davedelong.com)
+ - date published: 2023-10-25T13:45:01.747132+00:00
+ - user: None
+ - tags: []
+
+## Dave Kilian's Blog
+ - [https://davekilian.com](https://davekilian.com)
+ - date published: 2023-10-25T09:20:02.366505+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hi, I'm Dave Kiss | Possibly the one you're Googling about
+ - [https://davekiss.com](https://davekiss.com)
+ - date published: 2023-12-06T07:23:41.147648+00:00
+ - user: None
+ - tags: ['personal']
+
 ## The website of author, artist, musician Dave Kobrenski
  - [https://davekobrenski.com](https://davekobrenski.com)
  - date published: 2023-11-29T15:45:17.836125+00:00
@@ -945,6 +1023,12 @@
  - date published: 2023-11-04T08:51:31.090289+00:00
  - user: None
  - tags: []
+
+## https://dionpatelis.com
+ - [https://dionpatelis.com](https://dionpatelis.com)
+ - date published: 2023-12-24T18:31:28.178491+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Diora
  - [https://dioragame.com](https://dioragame.com)
@@ -1997,6 +2081,12 @@
  - user: None
  - tags: []
 
+## Landing page2
+ - [https://www.echoalex.com](https://www.echoalex.com)
+ - date published: 2023-12-24T18:31:38.762345+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Echoes of Somewhere - Generative AI assisted experimental freeware 2.5D point and click adventure game research project
  - [https://echoesofsomewhere.com](https://echoesofsomewhere.com)
  - date published: 2023-10-25T14:03:11.162968+00:00
@@ -3022,6 +3112,12 @@
  - date published: 2023-10-25T14:09:50.961756+00:00
  - user: None
  - tags: []
+
+## Esprit Ambitieux - Accueil | Devenez libre financièrement
+ - [https://espritambitieux.com](https://espritambitieux.com)
+ - date published: 2023-12-24T08:16:40.555377+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Esquire - Men's Fashion, Cocktails, Politics, Interviews, and Women
  - [https://www.esquire.com](https://www.esquire.com)
@@ -5045,6 +5141,12 @@
  - user: None
  - tags: []
 
+## Baltimore News, Weather, Sports, Breaking News | WBFF
+ - [https://foxbaltimore.com](https://foxbaltimore.com)
+ - date published: 2023-12-24T01:41:32.188455+00:00
+ - user: None
+ - tags: []
+
 ## Fox Business | Business News &Stock Quotes - Saving & Investing
  - [https://www.foxbusiness.com](https://www.foxbusiness.com)
  - date published: 2023-10-25T10:57:40.272562+00:00
@@ -5128,6 +5230,12 @@
  - date published: 2023-10-25T10:50:28.450111+00:00
  - user: None
  - tags: ['france news']
+
+## Francesca Sciandra
+ - [https://www.francescaelisia.com](https://www.francescaelisia.com)
+ - date published: 2023-12-24T08:14:59.409933+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Francesco Boffa
  - [https://francescoboffa.com](https://francescoboffa.com)
@@ -5888,115 +5996,6 @@
 ## Gear Solutions Magazine Your Resource to the Gear Industry | Advertise and reach a broad-base audience of gear industry professionals and buyers with Gear Solutions magazine — the complete online resource for the gear industry. Media kit available at Gear Solutions.
  - [https://gearsolutions.com](https://gearsolutions.com)
  - date published: 2023-10-25T14:42:36.223188+00:00
- - user: None
- - tags: []
-
-## Gearspace.com - Gearspace.com - The No. 1 Website for Pro Audio
- - [https://gearspace.com](https://gearspace.com)
- - date published: 2023-10-26T14:06:10.928654+00:00
- - user: None
- - tags: []
-
-## Gedaly Guberek – Actor & Filmmaker
- - [https://www.gedaly.com](https://www.gedaly.com)
- - date published: 2023-12-10T11:34:42.913833+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - Geekbench
- - [https://browser.geekbench.com](https://browser.geekbench.com)
- - date published: 2023-11-02T05:02:44.382001+00:00
- - user: None
- - tags: []
-
-## Geek Metaverse News – AI, Crypto, Metaverse, NFT, Tech, Web3, Gaming and Reviews
- - [https://www.geekmetaverse.com](https://www.geekmetaverse.com)
- - date published: 2023-10-25T09:33:13.008147+00:00
- - user: None
- - tags: []
-
-## GeekPress
- - [http://blog.geekpress.com](http://blog.geekpress.com)
- - date published: 2023-10-25T14:42:47.338191+00:00
- - user: None
- - tags: []
-
-## GeekWire – Breaking News in Technology & Business
- - [https://www.geekwire.com](https://www.geekwire.com)
- - date published: 2023-10-25T09:33:19.982427+00:00
- - user: None
- - tags: []
-
-## Geeky Tidbits
- - [https://www.geekytidbits.com](https://www.geekytidbits.com)
- - date published: 2023-11-29T17:09:51.261556+00:00
- - user: None
- - tags: ['personal']
-
-## GeForce NOW
- - [https://play.geforcenow.com](https://play.geforcenow.com)
- - date published: 2023-10-25T14:37:14.864784+00:00
- - user: None
- - tags: ['game streaming', 'gefore now']
-
-## Gematsu
- - [https://www.gematsu.com](https://www.gematsu.com)
- - date published: 2023-10-27T13:24:05.024819+00:00
- - user: None
- - tags: []
-
-## Gemoo | Record Video Messages and Get Them Organized
- - [https://app.gemoo.com](https://app.gemoo.com)
- - date published: 2023-11-03T11:12:49.480478+00:00
- - user: None
- - tags: []
-
-## The Generalist
- - [https://www.generalist.com](https://www.generalist.com)
- - date published: 2023-10-25T14:42:49.519488+00:00
- - user: None
- - tags: []
-
-## GeneratePress - The perfect foundation for your WordPress website.
- - [https://generatepress.com](https://generatepress.com)
- - date published: 2023-12-11T16:30:04.131404+00:00
- - user: None
- - tags: []
-
-## GenerationAmiga.com
- - [https://www.generationamiga.com](https://www.generationamiga.com)
- - date published: 2023-11-02T10:54:43.329371+00:00
- - user: None
- - tags: ['amiga', 'magazine']
-
-## Genesis - The history of a rock band
- - [https://genesis-band.com](https://genesis-band.com)
- - date published: 2023-11-13T10:42:27.434524+00:00
- - user: None
- - tags: []
-
-## Genesis - The Official Site
- - [https://genesis-music.com](https://genesis-music.com)
- - date published: 2023-11-13T10:42:12.163811+00:00
- - user: None
- - tags: ['music band']
-
-## Gene Wisniewski
- - [https://www.genewisniewski.com](https://www.genewisniewski.com)
- - date published: 2023-12-21T03:31:19.352326+00:00
- - user: None
- - tags: ['personal']
-
-## Genius | Song Lyrics & Knowledge
- - [https://genius.com](https://genius.com)
- - date published: 2023-10-25T13:48:59.598365+00:00
- - user: None
- - tags: []
-
-## Geospatial Analysis for OpenStreetMap | GeoDesk
- - [https://www.geodesk.com](https://www.geodesk.com)
- - date published: 2023-10-25T14:42:50.251196+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,51 @@
+## THE BITTER SOUTHERNER - Great Stories from the South
+ - [https://bittersoutherner.com](https://bittersoutherner.com)
+ - date published: 2023-12-06T23:57:44.319992+00:00
+ - user: None
+ - tags: []
+
+## Bittrex Global
+ - [https://bittrex.com](https://bittrex.com)
+ - date published: 2023-10-25T13:02:25.612866+00:00
+ - user: None
+ - tags: []
+
+## The password manager trusted by millions | Bitwarden
+ - [https://bitwarden.com](https://bitwarden.com)
+ - date published: 2023-10-25T08:37:07.991011+00:00
+ - user: None
+ - tags: []
+
+## Bitwarden Community Forums
+ - [https://community.bitwarden.com](https://community.bitwarden.com)
+ - date published: 2023-11-17T21:01:21.950204+00:00
+ - user: None
+ - tags: []
+
+## Status Page - Bitwarden
+ - [https://status.bitwarden.com](https://status.bitwarden.com)
+ - date published: 2023-10-25T13:02:32.152588+00:00
+ - user: None
+ - tags: []
+
+## Conservative News Media & Publisher ⋆ BizPac Review
+ - [https://www.bizpacreview.com](https://www.bizpacreview.com)
+ - date published: 2023-10-25T13:02:43.935693+00:00
+ - user: None
+ - tags: []
+
+## BizToc
+ - [https://biztoc.com](https://biztoc.com)
+ - date published: 2023-10-25T13:03:10.940595+00:00
+ - user: None
+ - tags: []
+
+## The Angry Dev · Darren Horrocks explains various Programming and DevOps practices, with some guides, explanations and ramblings from a sometimes angry man
+ - [https://bizzeh.com](https://bizzeh.com)
+ - date published: 2023-10-25T13:03:14.509269+00:00
+ - user: None
+ - tags: []
+
 ## Bjango
  - [https://bjango.com](https://bjango.com)
  - date published: 2023-10-25T13:03:16.353965+00:00
@@ -709,6 +757,12 @@
 ## Old Vintage Computing Research
  - [https://oldvcr.blogspot.com](https://oldvcr.blogspot.com)
  - date published: 2023-10-25T13:06:06.842647+00:00
+ - user: None
+ - tags: []
+
+## Old Vintage Computing Research
+ - [http://oldvcr.blogspot.com](http://oldvcr.blogspot.com)
+ - date published: 2023-12-24T04:49:39.230080+00:00
  - user: None
  - tags: []
 
@@ -1557,6 +1611,12 @@
  - date published: 2023-10-25T13:12:41.543207+00:00
  - user: None
  - tags: []
+
+## Home - Brian Hertzog
+ - [https://www.brianhertzog.com](https://www.brianhertzog.com)
+ - date published: 2023-12-24T18:30:50.349253+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Brian Kitano
  - [https://blog.briankitano.com](https://blog.briankitano.com)
@@ -2470,6 +2530,12 @@
  - user: None
  - tags: []
 
+## Outsourced Chief Marketing Officer for Health and Fitness Companies | CMO | Casey Slaughter Stanton
+ - [https://caseystanton.com](https://caseystanton.com)
+ - date published: 2023-12-24T02:30:34.017666+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Select your Location | CASIO
  - [https://gshock.casio.com](https://gshock.casio.com)
  - date published: 2023-10-25T13:19:00.060747+00:00
@@ -3315,6 +3381,12 @@
  - date published: 2023-11-29T22:00:29.169909+00:00
  - user: None
  - tags: []
+
+## CINDY BRZOSTOWSKI
+ - [https://www.cindybrz.com](https://www.cindybrz.com)
+ - date published: 2023-12-24T18:31:00.190284+00:00
+ - user: None
+ - tags: ['personal']
 
 ## The Latest Indian Movie News And Film Reviews | Cinema Express
  - [https://www.cinemaexpress.com](https://www.cinemaexpress.com)
@@ -4248,6 +4320,12 @@
 ## Collabora | Open Source Software Consulting
  - [https://www.collabora.com](https://www.collabora.com)
  - date published: 2023-10-25T13:30:29.607246+00:00
+ - user: None
+ - tags: []
+
+## Collapse Musings
+ - [https://www.collapsemusings.com](https://www.collapsemusings.com)
+ - date published: 2023-12-24T15:04:03.323304+00:00
  - user: None
  - tags: []
 
@@ -5931,82 +6009,4 @@
  - date published: 2023-10-25T13:44:02.296933+00:00
  - user: None
  - tags: []
-
-## datalars
- - [https://datalars.com](https://datalars.com)
- - date published: 2023-10-25T13:44:08.044566+00:00
- - user: None
- - tags: []
-
-## Datanami: Big Data, Big Analytics, Big Insights
- - [https://www.datanami.com](https://www.datanami.com)
- - date published: 2023-10-25T13:44:20.798582+00:00
- - user: None
- - tags: []
-
-## Data Narratives: search your data like you Google
- - [https://datanarratives.com](https://datanarratives.com)
- - date published: 2023-10-25T13:44:24.478490+00:00
- - user: None
- - tags: []
-
-## Data-oriented design
- - [https://www.dataorienteddesign.com](https://www.dataorienteddesign.com)
- - date published: 2023-10-25T13:44:25.993903+00:00
- - user: None
- - tags: []
-
-## DataScientYst - Data Science Simplified
- - [https://datascientyst.com](https://datascientyst.com)
- - date published: 2023-10-25T13:44:38.140825+00:00
- - user: None
- - tags: []
-
-## imgix - Image Processing On-Demand, Served By CDN
- - [https://www.datocms-assets.com](https://www.datocms-assets.com)
- - date published: 2023-10-25T13:44:46.338388+00:00
- - user: None
- - tags: []
-
-## Datomic
- - [https://blog.datomic.com](https://blog.datomic.com)
- - date published: 2023-10-25T13:44:54.405387+00:00
- - user: None
- - tags: []
-
-## Datomic Cloud Documentation
- - [https://docs.datomic.com](https://docs.datomic.com)
- - date published: 2023-10-25T13:44:58.411680+00:00
- - user: None
- - tags: []
-
-## Dave Allie
- - [https://blog.daveallie.com](https://blog.daveallie.com)
- - date published: 2023-10-25T09:20:01.435572+00:00
- - user: None
- - tags: ['personal']
-
-## Homepage
- - [http://www.davechappelle.com](http://www.davechappelle.com)
- - date published: 2023-10-30T10:49:52.330413+00:00
- - user: None
- - tags: []
-
-## Home | Dave DeLong
- - [https://davedelong.com](https://davedelong.com)
- - date published: 2023-10-25T13:45:01.747132+00:00
- - user: None
- - tags: []
-
-## Dave Kilian's Blog
- - [https://davekilian.com](https://davekilian.com)
- - date published: 2023-10-25T09:20:02.366505+00:00
- - user: None
- - tags: ['personal']
-
-## Hi, I'm Dave Kiss | Possibly the one you're Googling about
- - [https://davekiss.com](https://davekiss.com)
- - date published: 2023-12-06T07:23:41.147648+00:00
- - user: None
- - tags: ['personal']
 

@@ -1,3 +1,291 @@
+## upbeat.it - upbeat.it
+ - [https://www.upbeat.it](https://www.upbeat.it)
+ - date published: 2023-12-03T15:55:21.887131+00:00
+ - user: None
+ - tags: []
+
+## vexl – Medium
+ - [https://blog.vexl.it](https://blog.vexl.it)
+ - date published: 2023-10-25T20:15:45.707451+00:00
+ - user: None
+ - tags: []
+
+## Inside.java
+ - [https://inside.java](https://inside.java)
+ - date published: 2023-10-25T20:15:47.805588+00:00
+ - user: None
+ - tags: []
+
+## Linus's blog - Home
+ - [https://linus.schreibt.jetzt](https://linus.schreibt.jetzt)
+ - date published: 2023-10-25T20:15:48.629425+00:00
+ - user: None
+ - tags: []
+
+## Home Page - Jordan News | Latest News from Jordan, MENA
+ - [https://www.jordannews.jo](https://www.jordannews.jo)
+ - date published: 2023-11-06T01:35:39.245161+00:00
+ - user: None
+ - tags: []
+
+## wellfound.com
+ - [https://padlet.jobs](https://padlet.jobs)
+ - date published: 2023-10-25T20:15:54.132403+00:00
+ - user: None
+ - tags: []
+
+## 国立大学法人 神戸大学 (Kobe University)
+ - [https://www.kobe-u.ac.jp](https://www.kobe-u.ac.jp)
+ - date published: 2023-12-21T22:37:59.390250+00:00
+ - user: None
+ - tags: []
+
+## 名古屋大学
+ - [https://www.nagoya-u.ac.jp](https://www.nagoya-u.ac.jp)
+ - date published: 2023-10-25T20:15:58.916788+00:00
+ - user: None
+ - tags: []
+
+## 立命館大学
+ - [https://www.ritsumei.ac.jp](https://www.ritsumei.ac.jp)
+ - date published: 2023-10-25T20:16:04.028920+00:00
+ - user: None
+ - tags: []
+
+## Tohoku University
+ - [https://www.tohoku.ac.jp](https://www.tohoku.ac.jp)
+ - date published: 2023-12-05T10:47:34.290298+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学
+ - [https://www.tsukuba.ac.jp](https://www.tsukuba.ac.jp)
+ - date published: 2023-10-25T20:16:10.773573+00:00
+ - user: None
+ - tags: []
+
+## Tokyo University of Science | 東京理科大学
+ - [https://www.tus.ac.jp](https://www.tus.ac.jp)
+ - date published: 2023-11-18T21:00:20.695704+00:00
+ - user: None
+ - tags: []
+
+## 東京大学 大澤 研究室
+ - [https://www.panda.sys.t.u-tokyo.ac.jp](https://www.panda.sys.t.u-tokyo.ac.jp)
+ - date published: 2023-10-25T20:16:13.506038+00:00
+ - user: None
+ - tags: []
+
+## 東京大学
+ - [https://www.u-tokyo.ac.jp](https://www.u-tokyo.ac.jp)
+ - date published: 2023-10-25T20:16:17.982630+00:00
+ - user: None
+ - tags: []
+
+## 廃プラスチック・油化装置の企画・開発・販売｜マイクロエンジニア株式会社
+ - [https://blest.co.jp](https://blest.co.jp)
+ - date published: 2023-10-25T20:16:22.294092+00:00
+ - user: None
+ - tags: []
+
+## デジタルカメラのおすすめ情報と最新ニュース - デジカメ Watch
+ - [https://dc.watch.impress.co.jp](https://dc.watch.impress.co.jp)
+ - date published: 2023-10-25T20:16:28.897355+00:00
+ - user: None
+ - tags: []
+
+## The Japan Times - News On Japan, Business News, Opinion, Sports, Entertainment And More
+ - [https://www.japantimes.co.jp](https://www.japantimes.co.jp)
+ - date published: 2023-10-25T10:41:22.679546+00:00
+ - user: None
+ - tags: []
+
+## 近畿車輛株式会社
+ - [https://www.kinkisharyo.co.jp](https://www.kinkisharyo.co.jp)
+ - date published: 2023-10-25T20:16:32.628851+00:00
+ - user: None
+ - tags: []
+
+## 任天堂ホームページ
+ - [https://www.nintendo.co.jp](https://www.nintendo.co.jp)
+ - date published: 2023-11-08T01:15:47.345043+00:00
+ - user: None
+ - tags: []
+
+## MANGA Plus by SHUEISHA
+ - [https://mangaplus.shueisha.co.jp](https://mangaplus.shueisha.co.jp)
+ - date published: 2023-10-31T15:38:03.194595+00:00
+ - user: None
+ - tags: []
+
+## テレビ朝日
+ - [https://www.tv-asahi.co.jp](https://www.tv-asahi.co.jp)
+ - date published: 2023-12-09T12:19:32.761580+00:00
+ - user: None
+ - tags: []
+
+## https://hp.vector.co.jp
+ - [https://hp.vector.co.jp](https://hp.vector.co.jp)
+ - date published: 2023-10-25T20:16:35.137123+00:00
+ - user: None
+ - tags: []
+
+## The Japan News - News from Japan, Breaking News, Politics, Economy, Culture - ジャパンニューズ
+ - [https://japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp)
+ - date published: 2023-10-25T10:41:33.380163+00:00
+ - user: None
+ - tags: []
+
+## ARAB NEWS
+ - [https://www.arabnews.jp](https://www.arabnews.jp)
+ - date published: 2023-12-01T15:48:08.954649+00:00
+ - user: None
+ - tags: []
+
+## Famichiki
+ - [https://famichiki.jp](https://famichiki.jp)
+ - date published: 2023-10-25T20:16:37.184910+00:00
+ - user: None
+ - tags: []
+
+## grape [グレイプ]
+ - [https://grapee.jp](https://grapee.jp)
+ - date published: 2023-10-25T20:16:43.928697+00:00
+ - user: None
+ - tags: []
+
+## JAXA | Japan Aerospace Exploration Agency
+ - [https://global.jaxa.jp](https://global.jaxa.jp)
+ - date published: 2023-10-25T20:16:49.537249+00:00
+ - user: None
+ - tags: []
+
+## 毎日新聞デジタル | 毎日新聞のニュースサイト
+ - [https://mainichi.jp](https://mainichi.jp)
+ - date published: 2023-10-25T20:16:59.800114+00:00
+ - user: None
+ - tags: []
+
+## 国立新美術館 THE NATIONAL ART CENTER, TOKYO
+ - [https://www.nact.jp](https://www.nact.jp)
+ - date published: 2023-11-13T13:44:03.056172+00:00
+ - user: None
+ - tags: ['museum']
+
+## Home
+ - [https://www.waseda.jp](https://www.waseda.jp)
+ - date published: 2023-12-16T15:23:08.656018+00:00
+ - user: None
+ - tags: []
+
+## xenia - Xbox 360 Research Emulator
+ - [https://xenia.jp](https://xenia.jp)
+ - date published: 2023-10-25T08:36:10.594484+00:00
+ - user: None
+ - tags: []
+
+## NHKニュース 速報・最新情報
+ - [https://www3.nhk.or.jp](https://www3.nhk.or.jp)
+ - date published: 2023-10-25T20:17:07.038654+00:00
+ - user: None
+ - tags: []
+
+## Kenya breaking news | Kenya news today | Capitalfm.co.ke » Capital News
+ - [https://www.capitalfm.co.ke](https://www.capitalfm.co.ke)
+ - date published: 2023-10-25T20:17:13.001387+00:00
+ - user: None
+ - tags: []
+
+## Kenyans.co.ke
+ - [https://www.kenyans.co.ke](https://www.kenyans.co.ke)
+ - date published: 2023-10-25T20:17:14.583353+00:00
+ - user: None
+ - tags: []
+
+## The EastAfrican
+ - [https://www.theeastafrican.co.ke](https://www.theeastafrican.co.ke)
+ - date published: 2023-10-25T20:17:16.702238+00:00
+ - user: None
+ - tags: []
+
+## Tuko News - Breaking News, Kenya News, World News Today
+ - [https://www.tuko.co.ke](https://www.tuko.co.ke)
+ - date published: 2023-10-25T11:47:20.087461+00:00
+ - user: None
+ - tags: []
+
+## cl.ar.ke | Random thoughts (usually about programming, golf, or wine)
+ - [https://cl.ar.ke](https://cl.ar.ke)
+ - date published: 2023-12-05T14:37:18.750833+00:00
+ - user: None
+ - tags: ['personal']
+
+## SYSSEC
+ - [https://syssec.kaist.ac.kr](https://syssec.kaist.ac.kr)
+ - date published: 2023-10-25T20:17:21.001514+00:00
+ - user: None
+ - tags: []
+
+## English Edition : The Hankyoreh
+ - [https://english.hani.co.kr](https://english.hani.co.kr)
+ - date published: 2023-11-08T12:51:12.262880+00:00
+ - user: None
+ - tags: []
+
+## https://m.koreatimes.co.kr
+ - [https://m.koreatimes.co.kr](https://m.koreatimes.co.kr)
+ - date published: 2023-11-06T20:12:00.704345+00:00
+ - user: None
+ - tags: []
+
+## https://www.koreatimes.co.kr
+ - [https://www.koreatimes.co.kr](https://www.koreatimes.co.kr)
+ - date published: 2023-12-16T11:18:52.429235+00:00
+ - user: None
+ - tags: []
+
+## Yonhap News Agency
+ - [https://en.yna.co.kr](https://en.yna.co.kr)
+ - date published: 2023-11-23T00:24:00.138004+00:00
+ - user: None
+ - tags: []
+
+## Yonhap News Agency
+ - [https://m-en.yna.co.kr](https://m-en.yna.co.kr)
+ - date published: 2023-12-05T03:21:24.760444+00:00
+ - user: None
+ - tags: []
+
+## Forbes Казахстан
+ - [https://forbes.kz](https://forbes.kz)
+ - date published: 2023-11-27T18:25:44.679910+00:00
+ - user: None
+ - tags: []
+
+## dot.LA
+ - [https://dot.la](https://dot.la)
+ - date published: 2023-10-25T20:17:32.149624+00:00
+ - user: None
+ - tags: []
+
+## Sergio Sala, digital nomad and youtuber
+ - [https://sergiosa.la](https://sergiosa.la)
+ - date published: 2023-12-20T00:59:36.733191+00:00
+ - user: None
+ - tags: ['personal']
+
+## Intro | Putting the "You" in CPU
+ - [https://cpu.land](https://cpu.land)
+ - date published: 2023-10-25T20:17:37.959240+00:00
+ - user: None
+ - tags: []
+
+## Deno by Example
+ - [https://examples.deno.land](https://examples.deno.land)
+ - date published: 2023-10-25T08:35:20.172288+00:00
+ - user: None
+ - tags: []
+
 ## Erika Rowland
  - [https://erikarow.land](https://erikarow.land)
  - date published: 2023-10-27T02:22:33.008024+00:00
@@ -219,6 +507,12 @@
  - date published: 2023-10-25T08:59:28.425834+00:00
  - user: None
  - tags: ['personal']
+
+## Show HN: Weeks of Your Life
+ - [https://www.weeksofyour.life](https://www.weeksofyour.life)
+ - date published: 2023-12-24T15:06:56+00:00
+ - user: None
+ - tags: []
 
 ## yuke.life
  - [https://yuke.life](https://yuke.life)
@@ -469,6 +763,12 @@
 ## Achat de voitures neuves et d'occasion| Automobile | Citroën Maroc
  - [https://www.citroen.ma](https://www.citroen.ma)
  - date published: 2023-12-11T15:50:30.164343+00:00
+ - user: None
+ - tags: []
+
+## https://slj.ma
+ - [https://slj.ma](https://slj.ma)
+ - date published: 2023-12-24T18:49:15.186310+00:00
  - user: None
  - tags: []
 
@@ -3893,6 +4193,12 @@
  - user: None
  - tags: []
 
+## The Blog of Ian Robinson
+ - [https://ianrobinson.net](https://ianrobinson.net)
+ - date published: 2023-12-24T02:31:15.416614+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Ido Perlmuter
  - [https://ido50.net](https://ido50.net)
  - date published: 2023-10-25T20:31:42.586769+00:00
@@ -5692,312 +5998,6 @@
 ## Simon Willison’s Weblog
  - [https://simonwillison.net](https://simonwillison.net)
  - date published: 2023-10-25T08:41:17.781731+00:00
- - user: None
- - tags: ['personal']
-
-## Simon Willison: TIL
- - [https://til.simonwillison.net](https://til.simonwillison.net)
- - date published: 2023-10-25T09:23:30.769942+00:00
- - user: None
- - tags: ['personal']
-
-## Simson Garfinkel
- - [https://simson.net](https://simson.net)
- - date published: 2023-10-25T08:54:01.938085+00:00
- - user: None
- - tags: ['personal']
-
-## Home | Skalpel
- - [https://skalpel.net](https://skalpel.net)
- - date published: 2023-11-13T10:24:37.435322+00:00
- - user: None
- - tags: ['music band']
-
-## Slashgeek
- - [https://www.slashgeek.net](https://www.slashgeek.net)
- - date published: 2023-12-21T03:32:58.982506+00:00
- - user: None
- - tags: ['personal']
-
-## The Guide to Sleeping in Airports
- - [https://www.sleepinginairports.net](https://www.sleepinginairports.net)
- - date published: 2023-10-25T20:37:34.501064+00:00
- - user: None
- - tags: []
-
-## Share & Discover Presentations | SlideShare
- - [https://www.slideshare.net](https://www.slideshare.net)
- - date published: 2023-10-25T20:37:36.482051+00:00
- - user: None
- - tags: []
-
-## Snack Stack | Doug Mack / Snack Stack | Substack
- - [https://www.snackstack.net](https://www.snackstack.net)
- - date published: 2023-10-25T20:37:39.514628+00:00
- - user: None
- - tags: []
-
-## Sniffnet — comfortably monitor your Internet traffic 🕵️‍♂️
- - [https://www.sniffnet.net](https://www.sniffnet.net)
- - date published: 2023-10-25T20:37:40.707759+00:00
- - user: None
- - tags: []
-
-## Matthias Monroy
- - [https://digit.so36.net](https://digit.so36.net)
- - date published: 2023-10-25T08:54:06.996729+00:00
- - user: None
- - tags: ['personal']
-
-## SoByte
- - [https://www.sobyte.net](https://www.sobyte.net)
- - date published: 2023-10-25T20:37:41.884513+00:00
- - user: None
- - tags: []
-
-## Softimpact | website design in Lebanon, software, web development company, e-marking Lebanon
- - [https://www.softimpact.net](https://www.softimpact.net)
- - date published: 2023-12-11T15:36:19.722727+00:00
- - user: None
- - tags: []
-
-## SaaS Consulting, Software Consulting | Software Platform Consulting
- - [https://www.softwareplatform.net](https://www.softwareplatform.net)
- - date published: 2023-10-25T20:37:48.300137+00:00
- - user: None
- - tags: []
-
-## Solo's Page
- - [https://lukasz.soluch.net](https://lukasz.soluch.net)
- - date published: 2023-11-29T15:44:05.476820+00:00
- - user: None
- - tags: ['personal']
-
-## A Realistic Sword and Sorcery Tabletop RPG | Song of Swords
- - [https://www.songofswords.net](https://www.songofswords.net)
- - date published: 2023-10-27T12:49:50.560043+00:00
- - user: None
- - tags: []
-
-## Sonic Pi - The Live Coding Music Synth for Everyone
- - [https://sonic-pi.net](https://sonic-pi.net)
- - date published: 2023-10-25T20:37:49.779630+00:00
- - user: None
- - tags: []
-
-## Sony Corporation - Home
- - [https://www.sony.net](https://www.sony.net)
- - date published: 2023-10-25T11:29:02.084856+00:00
- - user: None
- - tags: []
-
-## Sorcerer's Place - Baldur's Gate 3 FAQ, RPG News, Walkthrough, Guide, Mods, Hacks, Cheats, Icewind Dale, Neverwinter Nights, Dragon Age, Wizardry
- - [https://sorcerers.net](https://sorcerers.net)
- - date published: 2023-10-25T11:18:08.570700+00:00
- - user: None
- - tags: []
-
-## ArcEm - The Acorn Archimedes Emulator
- - [https://arcem.sourceforge.net](https://arcem.sourceforge.net)
- - date published: 2023-10-25T20:37:50.814944+00:00
- - user: None
- - tags: []
-
-## AROS Research Operating System
- - [https://aros.sourceforge.net](https://aros.sourceforge.net)
- - date published: 2023-11-02T09:53:42.231278+00:00
- - user: None
- - tags: ['operating system', 'amiga']
-
-## Justin Bieber Linux
- - [https://biebian.sourceforge.net](https://biebian.sourceforge.net)
- - date published: 2023-12-22T19:25:55+00:00
- - user: rumpel
- - tags: ['operating system']
-
-## Gambas - Gambas Almost Means Basic
- - [https://gambas.sourceforge.net](https://gambas.sourceforge.net)
- - date published: 2023-10-25T20:37:51.440690+00:00
- - user: None
- - tags: []
-
-## Hannah Montana Linux
- - [https://hannahmontana.sourceforge.net](https://hannahmontana.sourceforge.net)
- - date published: 2023-12-22T14:14:11+00:00
- - user: None
- - tags: []
-
-## Judy Arrays Web Page
- - [https://judy.sourceforge.net](https://judy.sourceforge.net)
- - date published: 2023-10-25T08:31:18.433251+00:00
- - user: None
- - tags: []
-
-## Compare, Download & Develop Open Source & Business Software - SourceForge
- - [https://sourceforge.net](https://sourceforge.net)
- - date published: 2023-10-25T08:41:02.286459+00:00
- - user: None
- - tags: ['app platform']
-
-## Thinking Forth
- - [https://thinking-forth.sourceforge.net](https://thinking-forth.sourceforge.net)
- - date published: 2023-10-25T20:37:52.312115+00:00
- - user: None
- - tags: []
-
-## Yorick is an interpreted programming language for scientific simulations
- - [https://yorick.sourceforge.net](https://yorick.sourceforge.net)
- - date published: 2023-11-03T21:00:01+00:00
- - user: None
- - tags: []
-
-## https://sovinform.net
- - [https://sovinform.net](https://sovinform.net)
- - date published: 2023-10-25T20:37:53.833050+00:00
- - user: None
- - tags: []
-
-## Space: 1999 Catacombs- Guides, Scripts, Analysis
- - [https://catacombs.space1999.net](https://catacombs.space1999.net)
- - date published: 2023-10-31T22:37:27.873348+00:00
- - user: None
- - tags: []
-
-## Space Rogue
- - [https://www.spacerogue.net](https://www.spacerogue.net)
- - date published: 2023-10-25T20:37:55.002608+00:00
- - user: None
- - tags: []
-
-## Pieter Spronck
- - [https://www.spronck.net](https://www.spronck.net)
- - date published: 2023-10-25T08:54:07.792417+00:00
- - user: None
- - tags: ['personal']
-
-## intro
- - [https://srobb.net](https://srobb.net)
- - date published: 2023-10-25T20:37:57.343748+00:00
- - user: None
- - tags: []
-
-## SSHGuard
- - [https://www.sshguard.net](https://www.sshguard.net)
- - date published: 2023-10-25T20:37:58.024063+00:00
- - user: None
- - tags: []
-
-## Status
- - [https://www.stackstatus.net](https://www.stackstatus.net)
- - date published: 2023-10-25T20:37:58.860480+00:00
- - user: None
- - tags: []
-
-## Starcraft Resources, Gadgets, Videos, Stores and more at StarcraftWire.net | Live in the Starcraft World
- - [https://www.starcraftwire.net](https://www.starcraftwire.net)
- - date published: 2023-10-25T11:51:20.910250+00:00
- - user: None
- - tags: []
-
-## Stephen Ramsay
- - [https://stephenramsay.net](https://stephenramsay.net)
- - date published: 2023-10-25T08:54:08.668211+00:00
- - user: None
- - tags: ['personal']
-
-## Borax Mans Pad
- - [http://boraxman.strangled.net](http://boraxman.strangled.net)
- - date published: 2023-11-26T08:26:10.973215+00:00
- - user: None
- - tags: ['personal']
-
-## Stride Game Engine - Free, Open Source C# 2D and 3D Game Engine
- - [https://www.stride3d.net](https://www.stride3d.net)
- - date published: 2023-10-25T08:35:44.211697+00:00
- - user: None
- - tags: []
-
-## Mim.Stupi.NET - WEB for RSX
- - [http://mim.stupi.net](http://mim.stupi.net)
- - date published: 2023-10-25T20:37:59.749336+00:00
- - user: None
- - tags: []
-
-## Successful Software | …requires more than just good programming.
- - [https://successfulsoftware.net](https://successfulsoftware.net)
- - date published: 2023-10-25T20:38:06.050769+00:00
- - user: None
- - tags: []
-
-## Suppi Dot Net
- - [https://suppi.net](https://suppi.net)
- - date published: 2023-10-25T20:38:07.025523+00:00
- - user: None
- - tags: []
-
-## Susam Pal
- - [https://susam.net](https://susam.net)
- - date published: 2023-10-25T09:23:32.170959+00:00
- - user: None
- - tags: ['personal']
-
-## Swimburger.net: a blog about .NET, Web, Azure, Umbraco, and more
- - [https://swimburger.net](https://swimburger.net)
- - date published: 2023-10-25T09:00:52.513930+00:00
- - user: None
- - tags: ['personal']
-
-## Swiss Institute
- - [https://www.swissinstitute.net](https://www.swissinstitute.net)
- - date published: 2023-10-25T20:38:13.943234+00:00
- - user: None
- - tags: []
-
-## syBOS | Die Internet Feuerwehrsoftware
- - [https://www.sybos.net](https://www.sybos.net)
- - date published: 2023-10-25T20:38:16.524978+00:00
- - user: None
- - tags: []
-
-## Syncthing
- - [https://syncthing.net](https://syncthing.net)
- - date published: 2023-10-25T20:38:17.196194+00:00
- - user: None
- - tags: []
-
-## systemreboot – blog
- - [https://www.systemreboot.net](https://www.systemreboot.net)
- - date published: 2023-10-25T20:38:22.531078+00:00
- - user: None
- - tags: []
-
-## Tails - Home
- - [https://tails.net](https://tails.net)
- - date published: 2023-10-25T08:32:02.990545+00:00
- - user: None
- - tags: []
-
-## GNU Taler
- - [https://taler.net](https://taler.net)
- - date published: 2023-10-25T20:38:23.963189+00:00
- - user: None
- - tags: []
-
-## Home | Tampermonkey
- - [https://www.tampermonkey.net](https://www.tampermonkey.net)
- - date published: 2023-12-05T17:26:58.213684+00:00
- - user: None
- - tags: []
-
-## The Cutting Room Floor
- - [https://tcrf.net](https://tcrf.net)
- - date published: 2023-10-25T11:18:10.805196+00:00
- - user: None
- - tags: []
-
-## Hi there! :: Thomas Pain
- - [https://www.tdpain.net](https://www.tdpain.net)
- - date published: 2023-10-25T08:54:09.435702+00:00
  - user: None
  - tags: ['personal']
 

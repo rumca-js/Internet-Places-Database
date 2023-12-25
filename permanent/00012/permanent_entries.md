@@ -1,3 +1,279 @@
+## CodePreview Preview environments with unlimited users for a fixed price | CodePreview
+ - [https://codepreview.io](https://codepreview.io)
+ - date published: 2023-10-25T19:40:05.317249+00:00
+ - user: None
+ - tags: []
+
+## CODE PUZZLE | Puzzles de Parsons & Défis
+ - [https://www.codepuzzle.io](https://www.codepuzzle.io)
+ - date published: 2023-10-25T19:40:06.305398+00:00
+ - user: None
+ - tags: []
+
+## code relay
+ - [https://www.coderelay.io](https://www.coderelay.io)
+ - date published: 2023-10-25T19:40:08.126174+00:00
+ - user: None
+ - tags: []
+
+## CodeReliant
+ - [https://www.codereliant.io](https://www.codereliant.io)
+ - date published: 2023-12-20T18:04:04.589344+00:00
+ - user: None
+ - tags: []
+
+## CodeSandbox: Instant Cloud-Based IDE
+ - [https://codesandbox.io](https://codesandbox.io)
+ - date published: 2023-10-25T19:40:10.647121+00:00
+ - user: None
+ - tags: ['code sandbox']
+
+## Conan C/C++ Package Manager Official Blog
+ - [https://blog.conan.io](https://blog.conan.io)
+ - date published: 2023-10-25T19:40:13.832753+00:00
+ - user: None
+ - tags: []
+
+## Conduition
+ - [https://conduition.io](https://conduition.io)
+ - date published: 2023-10-25T19:40:16.029942+00:00
+ - user: None
+ - tags: []
+
+## Confidential Computing Consortium – Linux Foundation Project
+ - [https://confidentialcomputing.io](https://confidentialcomputing.io)
+ - date published: 2023-10-25T19:40:18.712434+00:00
+ - user: None
+ - tags: []
+
+## Confluent | Apache Kafka Reinvented for the Cloud
+ - [https://www.confluent.io](https://www.confluent.io)
+ - date published: 2023-10-25T19:40:22.771641+00:00
+ - user: None
+ - tags: []
+
+## ContextKeeper | Making context switching painless in Visual Studio Plugin
+ - [https://contextkeeper.io](https://contextkeeper.io)
+ - date published: 2023-10-25T19:40:24.620883+00:00
+ - user: None
+ - tags: []
+
+## Coolify
+ - [https://coolify.io](https://coolify.io)
+ - date published: 2023-10-25T19:40:25.622157+00:00
+ - user: None
+ - tags: []
+
+## Virtual Smartphone | Cophone
+ - [https://cophone.io](https://cophone.io)
+ - date published: 2023-10-25T19:40:27.103251+00:00
+ - user: None
+ - tags: []
+
+## Core64 - Interactive Core Memory Kit
+ - [https://www.core64.io](https://www.core64.io)
+ - date published: 2023-10-25T19:40:28.833224+00:00
+ - user: None
+ - tags: []
+
+## Cotten.IO
+ - [https://blog.cotten.io](https://blog.cotten.io)
+ - date published: 2023-10-25T19:40:32.348755+00:00
+ - user: None
+ - tags: []
+
+## Open Source Integration and Data Platform | cptn.io
+ - [https://cptn.io](https://cptn.io)
+ - date published: 2023-10-25T19:40:33.685467+00:00
+ - user: None
+ - tags: []
+
+## crates.io: Rust Package Registry
+ - [https://crates.io](https://crates.io)
+ - date published: 2023-10-25T19:40:34.607822+00:00
+ - user: None
+ - tags: []
+
+## crawshaw blog
+ - [https://crawshaw.io](https://crawshaw.io)
+ - date published: 2023-10-25T19:40:36.732900+00:00
+ - user: None
+ - tags: []
+
+## Emilio Cobos
+ - [https://crisal.io](https://crisal.io)
+ - date published: 2023-10-25T19:40:37.795139+00:00
+ - user: None
+ - tags: []
+
+## BDD Testing & Collaboration Tools for Teams | Cucumber
+ - [https://cucumber.io](https://cucumber.io)
+ - date published: 2023-10-25T19:40:40.322079+00:00
+ - user: None
+ - tags: []
+
+## CutiePi tablet - Raspberry Pi, Untethered
+ - [https://cutiepi.io](https://cutiepi.io)
+ - date published: 2023-10-25T08:33:13.077918+00:00
+ - user: None
+ - tags: []
+
+## Dagger.io - CI/CD as Code that Runs Anywhere
+ - [https://dagger.io](https://dagger.io)
+ - date published: 2023-10-25T19:40:43.652868+00:00
+ - user: None
+ - tags: []
+
+## Dagster | Cloud-native orchestration of data pipelines
+ - [https://dagster.io](https://dagster.io)
+ - date published: 2023-10-25T19:40:45.923782+00:00
+ - user: None
+ - tags: []
+
+## DataPen | Free online resources for data scientist and analyst
+ - [https://www.datapen.io](https://www.datapen.io)
+ - date published: 2023-10-25T19:40:47.269798+00:00
+ - user: None
+ - tags: []
+
+## Datasette: An open source multi-tool for exploring and publishing data
+ - [https://datasette.io](https://datasette.io)
+ - date published: 2023-10-25T19:40:50.285897+00:00
+ - user: None
+ - tags: []
+
+## ScotRail announcements: scotrail
+ - [https://scotrail.datasette.io](https://scotrail.datasette.io)
+ - date published: 2023-10-25T19:40:52.060224+00:00
+ - user: None
+ - tags: []
+
+## sqlite-utils
+ - [https://sqlite-utils.datasette.io](https://sqlite-utils.datasette.io)
+ - date published: 2023-10-25T19:40:55.564238+00:00
+ - user: None
+ - tags: []
+
+## Home - Database of Databases
+ - [https://dbdb.io](https://dbdb.io)
+ - date published: 2023-10-25T19:40:57.960570+00:00
+ - user: None
+ - tags: []
+
+## DB Pilot - Database GUI With a Twist.
+ - [https://www.dbpilot.io](https://www.dbpilot.io)
+ - date published: 2023-10-25T19:40:59.702757+00:00
+ - user: None
+ - tags: []
+
+## CNAPP - Trusted Cloud Security Solutions - Deepfence
+ - [https://www.deepfence.io](https://www.deepfence.io)
+ - date published: 2023-10-25T19:41:03.652311+00:00
+ - user: None
+ - tags: []
+
+## Publisher Fraud Detection | Advertising Block List - DeepSee
+ - [https://deepsee.io](https://deepsee.io)
+ - date published: 2023-10-25T19:41:08.024996+00:00
+ - user: None
+ - tags: []
+
+## DeepSource: The Code Health Platform
+ - [https://deepsource.io](https://deepsource.io)
+ - date published: 2023-10-25T19:41:12.065286+00:00
+ - user: None
+ - tags: []
+
+## Posts — defn.io
+ - [https://defn.io](https://defn.io)
+ - date published: 2023-10-27T11:57:20.669257+00:00
+ - user: None
+ - tags: []
+
+## Desio
+ - [https://blog.des.io](https://blog.des.io)
+ - date published: 2023-10-25T19:41:20.380240+00:00
+ - user: None
+ - tags: []
+
+## Dev Genius
+ - [https://blog.devgenius.io](https://blog.devgenius.io)
+ - date published: 2023-10-25T19:41:22.720361+00:00
+ - user: None
+ - tags: []
+
+## devmio - Software Know-How
+ - [https://devm.io](https://devm.io)
+ - date published: 2023-10-25T19:41:26.103460+00:00
+ - user: None
+ - tags: []
+
+## devowl.io: Quality WordPress Plugins & Developer Tools
+ - [https://devowl.io](https://devowl.io)
+ - date published: 2023-12-11T19:07:35.418701+00:00
+ - user: None
+ - tags: []
+
+## Index page
+ - [https://diablo2.io](https://diablo2.io)
+ - date published: 2023-10-28T20:39:54.136574+00:00
+ - user: None
+ - tags: ['diablo']
+
+## Index page
+ - [https://www.diablo2.io](https://www.diablo2.io)
+ - date published: 2023-12-13T16:03:38.387113+00:00
+ - user: None
+ - tags: []
+
+## The Backend to Build Anything or Everything | Directus
+ - [https://directus.io](https://directus.io)
+ - date published: 2023-10-25T19:41:31.635966+00:00
+ - user: None
+ - tags: []
+
+## Discipline.io
+ - [https://discipline.io](https://discipline.io)
+ - date published: 2023-10-25T19:41:34.208367+00:00
+ - user: None
+ - tags: []
+
+## DKB
+ - [https://dkb.io](https://dkb.io)
+ - date published: 2023-10-25T19:41:35.635759+00:00
+ - user: None
+ - tags: ['blog', 'personal', 'dead internet']
+
+## Welcome – dominikbraun.io
+ - [https://dominikbraun.io](https://dominikbraun.io)
+ - date published: 2023-10-25T19:41:36.355907+00:00
+ - user: None
+ - tags: []
+
+## Dover
+ - [https://app.dover.io](https://app.dover.io)
+ - date published: 2023-12-04T17:16:01.971665+00:00
+ - user: None
+ - tags: []
+
+## dpk
+ - [http://dpk.io](http://dpk.io)
+ - date published: 2023-10-25T19:41:36.809597+00:00
+ - user: None
+ - tags: []
+
+## Dragonfly - The Fastest In-Memory Data Store
+ - [https://dragonflydb.io](https://dragonflydb.io)
+ - date published: 2023-10-25T19:41:38.376089+00:00
+ - user: None
+ - tags: []
+
+## Dragonfly - The Fastest In-Memory Data Store
+ - [https://www.dragonflydb.io](https://www.dragonflydb.io)
+ - date published: 2023-10-25T19:41:38.968543+00:00
+ - user: None
+ - tags: []
+
 ## Show HN:Draw Fast - Real-time AI image generation based on drawings in a canvas
  - [https://drawfast.io](https://drawfast.io)
  - date published: 2023-11-27T06:55:50+00:00
@@ -319,6 +595,12 @@
 ## 2D and 3D Game-Making App | Free and Easy to Use | GDevelop
  - [https://gdevelop.io](https://gdevelop.io)
  - date published: 2023-10-25T19:43:11.960036+00:00
+ - user: None
+ - tags: []
+
+## Generals.io – Capture enemy generals to defeat them
+ - [https://generals.io](https://generals.io)
+ - date published: 2023-12-24T09:38:09+00:00
  - user: None
  - tags: []
 
@@ -2739,6 +3021,12 @@ through Composable Diffusion
 ## PsychOS - Home
  - [https://psychoslinux.gitlab.io](https://psychoslinux.gitlab.io)
  - date published: 2023-10-25T19:55:29.305645+00:00
+ - user: None
+ - tags: []
+
+## https://smoores.gitlab.io
+ - [https://smoores.gitlab.io](https://smoores.gitlab.io)
+ - date published: 2023-12-24T08:14:00.002780+00:00
  - user: None
  - tags: []
 
@@ -5715,294 +6003,6 @@ End-to-end typesafe APIs made easy. | tRPC
 ## Home - Dipartimento di Informatica
  - [http://groups.di.unipi.it](http://groups.di.unipi.it)
  - date published: 2023-10-25T20:15:43.305470+00:00
- - user: None
- - tags: []
-
-## upbeat.it - upbeat.it
- - [https://www.upbeat.it](https://www.upbeat.it)
- - date published: 2023-12-03T15:55:21.887131+00:00
- - user: None
- - tags: []
-
-## vexl – Medium
- - [https://blog.vexl.it](https://blog.vexl.it)
- - date published: 2023-10-25T20:15:45.707451+00:00
- - user: None
- - tags: []
-
-## Inside.java
- - [https://inside.java](https://inside.java)
- - date published: 2023-10-25T20:15:47.805588+00:00
- - user: None
- - tags: []
-
-## Linus's blog - Home
- - [https://linus.schreibt.jetzt](https://linus.schreibt.jetzt)
- - date published: 2023-10-25T20:15:48.629425+00:00
- - user: None
- - tags: []
-
-## Home Page - Jordan News | Latest News from Jordan, MENA
- - [https://www.jordannews.jo](https://www.jordannews.jo)
- - date published: 2023-11-06T01:35:39.245161+00:00
- - user: None
- - tags: []
-
-## wellfound.com
- - [https://padlet.jobs](https://padlet.jobs)
- - date published: 2023-10-25T20:15:54.132403+00:00
- - user: None
- - tags: []
-
-## 国立大学法人 神戸大学 (Kobe University)
- - [https://www.kobe-u.ac.jp](https://www.kobe-u.ac.jp)
- - date published: 2023-12-21T22:37:59.390250+00:00
- - user: None
- - tags: []
-
-## 名古屋大学
- - [https://www.nagoya-u.ac.jp](https://www.nagoya-u.ac.jp)
- - date published: 2023-10-25T20:15:58.916788+00:00
- - user: None
- - tags: []
-
-## 立命館大学
- - [https://www.ritsumei.ac.jp](https://www.ritsumei.ac.jp)
- - date published: 2023-10-25T20:16:04.028920+00:00
- - user: None
- - tags: []
-
-## Tohoku University
- - [https://www.tohoku.ac.jp](https://www.tohoku.ac.jp)
- - date published: 2023-12-05T10:47:34.290298+00:00
- - user: None
- - tags: []
-
-## 筑波大学
- - [https://www.tsukuba.ac.jp](https://www.tsukuba.ac.jp)
- - date published: 2023-10-25T20:16:10.773573+00:00
- - user: None
- - tags: []
-
-## Tokyo University of Science | 東京理科大学
- - [https://www.tus.ac.jp](https://www.tus.ac.jp)
- - date published: 2023-11-18T21:00:20.695704+00:00
- - user: None
- - tags: []
-
-## 東京大学 大澤 研究室
- - [https://www.panda.sys.t.u-tokyo.ac.jp](https://www.panda.sys.t.u-tokyo.ac.jp)
- - date published: 2023-10-25T20:16:13.506038+00:00
- - user: None
- - tags: []
-
-## 東京大学
- - [https://www.u-tokyo.ac.jp](https://www.u-tokyo.ac.jp)
- - date published: 2023-10-25T20:16:17.982630+00:00
- - user: None
- - tags: []
-
-## 廃プラスチック・油化装置の企画・開発・販売｜マイクロエンジニア株式会社
- - [https://blest.co.jp](https://blest.co.jp)
- - date published: 2023-10-25T20:16:22.294092+00:00
- - user: None
- - tags: []
-
-## デジタルカメラのおすすめ情報と最新ニュース - デジカメ Watch
- - [https://dc.watch.impress.co.jp](https://dc.watch.impress.co.jp)
- - date published: 2023-10-25T20:16:28.897355+00:00
- - user: None
- - tags: []
-
-## The Japan Times - News On Japan, Business News, Opinion, Sports, Entertainment And More
- - [https://www.japantimes.co.jp](https://www.japantimes.co.jp)
- - date published: 2023-10-25T10:41:22.679546+00:00
- - user: None
- - tags: []
-
-## 近畿車輛株式会社
- - [https://www.kinkisharyo.co.jp](https://www.kinkisharyo.co.jp)
- - date published: 2023-10-25T20:16:32.628851+00:00
- - user: None
- - tags: []
-
-## 任天堂ホームページ
- - [https://www.nintendo.co.jp](https://www.nintendo.co.jp)
- - date published: 2023-11-08T01:15:47.345043+00:00
- - user: None
- - tags: []
-
-## MANGA Plus by SHUEISHA
- - [https://mangaplus.shueisha.co.jp](https://mangaplus.shueisha.co.jp)
- - date published: 2023-10-31T15:38:03.194595+00:00
- - user: None
- - tags: []
-
-## テレビ朝日
- - [https://www.tv-asahi.co.jp](https://www.tv-asahi.co.jp)
- - date published: 2023-12-09T12:19:32.761580+00:00
- - user: None
- - tags: []
-
-## https://hp.vector.co.jp
- - [https://hp.vector.co.jp](https://hp.vector.co.jp)
- - date published: 2023-10-25T20:16:35.137123+00:00
- - user: None
- - tags: []
-
-## The Japan News - News from Japan, Breaking News, Politics, Economy, Culture - ジャパンニューズ
- - [https://japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp)
- - date published: 2023-10-25T10:41:33.380163+00:00
- - user: None
- - tags: []
-
-## ARAB NEWS
- - [https://www.arabnews.jp](https://www.arabnews.jp)
- - date published: 2023-12-01T15:48:08.954649+00:00
- - user: None
- - tags: []
-
-## Famichiki
- - [https://famichiki.jp](https://famichiki.jp)
- - date published: 2023-10-25T20:16:37.184910+00:00
- - user: None
- - tags: []
-
-## grape [グレイプ]
- - [https://grapee.jp](https://grapee.jp)
- - date published: 2023-10-25T20:16:43.928697+00:00
- - user: None
- - tags: []
-
-## JAXA | Japan Aerospace Exploration Agency
- - [https://global.jaxa.jp](https://global.jaxa.jp)
- - date published: 2023-10-25T20:16:49.537249+00:00
- - user: None
- - tags: []
-
-## 毎日新聞デジタル | 毎日新聞のニュースサイト
- - [https://mainichi.jp](https://mainichi.jp)
- - date published: 2023-10-25T20:16:59.800114+00:00
- - user: None
- - tags: []
-
-## 国立新美術館 THE NATIONAL ART CENTER, TOKYO
- - [https://www.nact.jp](https://www.nact.jp)
- - date published: 2023-11-13T13:44:03.056172+00:00
- - user: None
- - tags: ['museum']
-
-## Home
- - [https://www.waseda.jp](https://www.waseda.jp)
- - date published: 2023-12-16T15:23:08.656018+00:00
- - user: None
- - tags: []
-
-## xenia - Xbox 360 Research Emulator
- - [https://xenia.jp](https://xenia.jp)
- - date published: 2023-10-25T08:36:10.594484+00:00
- - user: None
- - tags: []
-
-## NHKニュース 速報・最新情報
- - [https://www3.nhk.or.jp](https://www3.nhk.or.jp)
- - date published: 2023-10-25T20:17:07.038654+00:00
- - user: None
- - tags: []
-
-## Kenya breaking news | Kenya news today | Capitalfm.co.ke » Capital News
- - [https://www.capitalfm.co.ke](https://www.capitalfm.co.ke)
- - date published: 2023-10-25T20:17:13.001387+00:00
- - user: None
- - tags: []
-
-## Kenyans.co.ke
- - [https://www.kenyans.co.ke](https://www.kenyans.co.ke)
- - date published: 2023-10-25T20:17:14.583353+00:00
- - user: None
- - tags: []
-
-## The EastAfrican
- - [https://www.theeastafrican.co.ke](https://www.theeastafrican.co.ke)
- - date published: 2023-10-25T20:17:16.702238+00:00
- - user: None
- - tags: []
-
-## Tuko News - Breaking News, Kenya News, World News Today
- - [https://www.tuko.co.ke](https://www.tuko.co.ke)
- - date published: 2023-10-25T11:47:20.087461+00:00
- - user: None
- - tags: []
-
-## cl.ar.ke | Random thoughts (usually about programming, golf, or wine)
- - [https://cl.ar.ke](https://cl.ar.ke)
- - date published: 2023-12-05T14:37:18.750833+00:00
- - user: None
- - tags: ['personal']
-
-## SYSSEC
- - [https://syssec.kaist.ac.kr](https://syssec.kaist.ac.kr)
- - date published: 2023-10-25T20:17:21.001514+00:00
- - user: None
- - tags: []
-
-## English Edition : The Hankyoreh
- - [https://english.hani.co.kr](https://english.hani.co.kr)
- - date published: 2023-11-08T12:51:12.262880+00:00
- - user: None
- - tags: []
-
-## https://m.koreatimes.co.kr
- - [https://m.koreatimes.co.kr](https://m.koreatimes.co.kr)
- - date published: 2023-11-06T20:12:00.704345+00:00
- - user: None
- - tags: []
-
-## https://www.koreatimes.co.kr
- - [https://www.koreatimes.co.kr](https://www.koreatimes.co.kr)
- - date published: 2023-12-16T11:18:52.429235+00:00
- - user: None
- - tags: []
-
-## Yonhap News Agency
- - [https://en.yna.co.kr](https://en.yna.co.kr)
- - date published: 2023-11-23T00:24:00.138004+00:00
- - user: None
- - tags: []
-
-## Yonhap News Agency
- - [https://m-en.yna.co.kr](https://m-en.yna.co.kr)
- - date published: 2023-12-05T03:21:24.760444+00:00
- - user: None
- - tags: []
-
-## Forbes Казахстан
- - [https://forbes.kz](https://forbes.kz)
- - date published: 2023-11-27T18:25:44.679910+00:00
- - user: None
- - tags: []
-
-## dot.LA
- - [https://dot.la](https://dot.la)
- - date published: 2023-10-25T20:17:32.149624+00:00
- - user: None
- - tags: []
-
-## Sergio Sala, digital nomad and youtuber
- - [https://sergiosa.la](https://sergiosa.la)
- - date published: 2023-12-20T00:59:36.733191+00:00
- - user: None
- - tags: ['personal']
-
-## Intro | Putting the "You" in CPU
- - [https://cpu.land](https://cpu.land)
- - date published: 2023-10-25T20:17:37.959240+00:00
- - user: None
- - tags: []
-
-## Deno by Example
- - [https://examples.deno.land](https://examples.deno.land)
- - date published: 2023-10-25T08:35:20.172288+00:00
  - user: None
  - tags: []
 
