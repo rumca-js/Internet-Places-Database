@@ -1,3 +1,219 @@
+## Xmodulo ‒ Linux FAQ
+ - [https://www.xmodulo.com](https://www.xmodulo.com)
+ - date published: 2023-10-25T18:22:00.974957+00:00
+ - user: None
+ - tags: []
+
+## マリウス
+ - [https://xn--gckvb8fzb.com](https://xn--gckvb8fzb.com)
+ - date published: 2023-10-25T18:22:01.979918+00:00
+ - user: None
+ - tags: []
+
+## XOR’s Hammer – Some things in mathematical logic that I find interesting
+ - [https://xorshammer.com](https://xorshammer.com)
+ - date published: 2023-10-25T18:22:04.640484+00:00
+ - user: None
+ - tags: []
+
+## xorvoid
+ - [https://xorvoid.com](https://xorvoid.com)
+ - date published: 2023-10-25T18:22:05.503748+00:00
+ - user: None
+ - tags: []
+
+## Graphic drawing tablets & Digital Art Pads With Screen | XPPen
+ - [https://www.xp-pen.com](https://www.xp-pen.com)
+ - date published: 2023-10-27T13:56:49.144113+00:00
+ - user: None
+ - tags: ['drawing', 'hardware']
+
+## XPN InfoSec Blog
+ - [https://blog.xpnsec.com](https://blog.xpnsec.com)
+ - date published: 2023-10-25T18:22:06.411182+00:00
+ - user: None
+ - tags: []
+
+## XTDB
+ - [https://www.xtdb.com](https://www.xtdb.com)
+ - date published: 2023-10-25T18:22:07.780785+00:00
+ - user: None
+ - tags: []
+
+## Xtra Magazine - Queering the conversation
+ - [https://xtramagazine.com](https://xtramagazine.com)
+ - date published: 2023-10-25T18:22:10.782790+00:00
+ - user: None
+ - tags: ['the left wing', 'lgbt']
+
+## Xxaxx - Blogging on a variety of topics from spiritual science to game dev.
+ - [http://www.xxaxx.com](http://www.xxaxx.com)
+ - date published: 2023-12-24T02:30:58.315008+00:00
+ - user: None
+ - tags: ['personal']
+
+## XXIIVV — In Transit
+ - [https://wiki.xxiivv.com](https://wiki.xxiivv.com)
+ - date published: 2023-10-25T18:22:11.321810+00:00
+ - user: None
+ - tags: ['personal']
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://add.my.yahoo.com](https://add.my.yahoo.com)
+ - date published: 2023-12-11T17:54:25.322121+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://au.finance.yahoo.com](https://au.finance.yahoo.com)
+ - date published: 2023-10-25T18:22:17.506355+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://au.lifestyle.yahoo.com](https://au.lifestyle.yahoo.com)
+ - date published: 2023-12-05T12:34:14.779055+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://au.news.yahoo.com](https://au.news.yahoo.com)
+ - date published: 2023-11-02T01:27:24.024533+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://autos.yahoo.com](https://autos.yahoo.com)
+ - date published: 2023-12-21T02:23:33.537990+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://ca.news.yahoo.com](https://ca.news.yahoo.com)
+ - date published: 2023-10-25T18:22:19.311480+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://ca.style.yahoo.com](https://ca.style.yahoo.com)
+ - date published: 2023-11-02T17:22:20.047082+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://finance.yahoo.com](https://finance.yahoo.com)
+ - date published: 2023-10-25T10:30:30.327746+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://news.yahoo.com](https://news.yahoo.com)
+ - date published: 2023-10-25T10:16:52.263929+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://sg.news.yahoo.com](https://sg.news.yahoo.com)
+ - date published: 2023-11-08T17:23:05.854339+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://uk.news.yahoo.com](https://uk.news.yahoo.com)
+ - date published: 2023-10-25T18:22:21.043179+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://uk.sports.yahoo.com](https://uk.sports.yahoo.com)
+ - date published: 2023-10-25T18:22:22.751947+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://www.yahoo.com](https://www.yahoo.com)
+ - date published: 2023-10-25T08:28:22.683805+00:00
+ - user: None
+ - tags: ['search engine']
+
+## Yakihonne
+ - [https://yakihonne.com](https://yakihonne.com)
+ - date published: 2023-10-25T18:22:24.673328+00:00
+ - user: None
+ - tags: []
+
+## Yandex
+ - [https://yandex.com](https://yandex.com)
+ - date published: 2023-10-25T08:28:25.478842+00:00
+ - user: None
+ - tags: ['search engine']
+
+## VC Europe I Yannick Oswald I Blog I European VC Musings
+ - [https://www.yannickoswald.com](https://www.yannickoswald.com)
+ - date published: 2023-10-25T18:22:27.341830+00:00
+ - user: None
+ - tags: []
+
+## Yardbarker.com
+ - [https://www.yardbarker.com](https://www.yardbarker.com)
+ - date published: 2023-11-13T12:43:18.972262+00:00
+ - user: None
+ - tags: ['sport news', 'sport']
+
+## Yash Banka
+ - [https://www.yashbanka.com](https://www.yashbanka.com)
+ - date published: 2023-11-29T15:31:58.631795+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home — @ybouane
+ - [https://ybouane.com](https://ybouane.com)
+ - date published: 2023-10-25T18:22:29.074580+00:00
+ - user: None
+ - tags: []
+
+## Hacker News
+ - [https://news.ycombinator.com](https://news.ycombinator.com)
+ - date published: 2023-10-25T18:22:31.665387+00:00
+ - user: None
+ - tags: ['hacker']
+
+## Y Combinator
+ - [https://www.ycombinator.com](https://www.ycombinator.com)
+ - date published: 2023-10-25T18:22:35.240796+00:00
+ - user: None
+ - tags: []
+
+## YZY
+ - [https://yeezy.com](https://yeezy.com)
+ - date published: 2023-12-15T11:14:44.905593+00:00
+ - user: None
+ - tags: []
+
+## yeggi - 3D Printer Models Search Engine
+ - [https://www.yeggi.com](https://www.yeggi.com)
+ - date published: 2023-10-25T08:30:16.926541+00:00
+ - user: None
+ - tags: ['3d printing', 'assets models']
+
+## YKM's Corner on the Web
+ - [https://yeokhengmeng.com](https://yeokhengmeng.com)
+ - date published: 2023-10-25T18:22:37.585912+00:00
+ - user: None
+ - tags: []
+
+## Yet Another Blog
+ - [https://www.yet-another-blog.com](https://www.yet-another-blog.com)
+ - date published: 2023-10-25T18:22:39.053631+00:00
+ - user: None
+ - tags: []
+
+## Yisheng's blog – software engineering, poetry and short stories
+ - [https://yishenggong.com](https://yishenggong.com)
+ - date published: 2023-10-25T18:22:43.268814+00:00
+ - user: None
+ - tags: []
+
 ## Kami Community - Official Kami Community. Ask questions, get answers and connect with your fellow Kami users.
  - [https://forum.yitechnology.com](https://forum.yitechnology.com)
  - date published: 2023-10-25T18:22:47.588798+00:00
@@ -1775,6 +1991,12 @@ home
  - user: None
  - tags: ['amiga']
 
+## Serialized Gedanken
+ - [https://valentin.willscher.de](https://valentin.willscher.de)
+ - date published: 2023-12-25T08:33:59.217539+00:00
+ - user: None
+ - tags: []
+
 ## Ode to capitalism
  - [https://blog.xa0.de](https://blog.xa0.de)
  - date published: 2023-10-25T18:33:54.731626+00:00
@@ -2060,6 +2282,12 @@ home
 ## axo blog - System dependencies are hard (so we made them easier)
  - [https://blog.axo.dev](https://blog.axo.dev)
  - date published: 2023-10-25T18:35:02.657023+00:00
+ - user: None
+ - tags: []
+
+## Paul Baecher
+ - [https://baecher.dev](https://baecher.dev)
+ - date published: 2023-12-25T20:32:27.875144+00:00
  - user: None
  - tags: []
 
@@ -5151,6 +5379,12 @@ home
  - user: None
  - tags: []
 
+## Home
+ - [https://en.ktu.edu](https://en.ktu.edu)
+ - date published: 2023-12-25T16:53:53.461151+00:00
+ - user: None
+ - tags: []
+
 ## KU Today | The University of Kansas
  - [https://today.ku.edu](https://today.ku.edu)
  - date published: 2023-10-25T18:53:30.550703+00:00
@@ -5772,240 +6006,6 @@ home
 ## Computer Science
  - [https://cs.stanford.edu](https://cs.stanford.edu)
  - date published: 2023-10-25T11:23:16.227465+00:00
- - user: None
- - tags: []
-
-## Stanford CVA Group - Concurrent VLSI Architecture Group
- - [http://cva.stanford.edu](http://cva.stanford.edu)
- - date published: 2023-10-25T18:58:09.358599+00:00
- - user: None
- - tags: []
-
-## Cyber Policy Center | FSI
- - [https://cyber.fsi.stanford.edu](https://cyber.fsi.stanford.edu)
- - date published: 2023-10-25T18:58:18.772573+00:00
- - user: None
- - tags: []
-
-## Center for Internet and Society | The Center for Internet and Society is a leader in the study of the law & policy around the Internet & emerging technologies.
- - [https://cyberlaw.stanford.edu](https://cyberlaw.stanford.edu)
- - date published: 2023-10-25T18:58:20.662315+00:00
- - user: None
- - tags: []
-
-## Data Science
- - [https://datascience.stanford.edu](https://datascience.stanford.edu)
- - date published: 2023-11-12T13:46:11.993969+00:00
- - user: None
- - tags: []
-
-## Home | Stanford HAI
- - [https://hai.stanford.edu](https://hai.stanford.edu)
- - date published: 2023-10-25T18:58:24.324282+00:00
- - user: None
- - tags: []
-
-## Hazy Research
- - [https://hazyresearch.stanford.edu](https://hazyresearch.stanford.edu)
- - date published: 2023-10-25T18:58:25.276211+00:00
- - user: None
- - tags: []
-
-## Stanford HCI Group
- - [https://hci.stanford.edu](https://hci.stanford.edu)
- - date published: 2023-10-25T18:58:28.830172+00:00
- - user: None
- - tags: []
-
-## The Stanford University InfoLab
- - [http://infolab.stanford.edu](http://infolab.stanford.edu)
- - date published: 2023-10-25T11:23:23.038240+00:00
- - user: None
- - tags: []
-
-## Welcome to SLS - Stanford Law School
- - [https://law.stanford.edu](https://law.stanford.edu)
- - date published: 2023-10-25T18:58:32.350011+00:00
- - user: None
- - tags: []
-
-## Home | Learning for a Lifetime | Stanford Online
- - [https://learn.stanford.edu](https://learn.stanford.edu)
- - date published: 2023-12-06T21:05:55.624627+00:00
- - user: None
- - tags: []
-
-## Home | Stanford Medicine
- - [https://med.stanford.edu](https://med.stanford.edu)
- - date published: 2023-10-25T18:58:38.098796+00:00
- - user: None
- - tags: []
-
-## Stanford News
- - [https://news.stanford.edu](https://news.stanford.edu)
- - date published: 2023-10-25T18:58:41.013599+00:00
- - user: None
- - tags: []
-
-## Stanford Encyclopedia of Philosophy
- - [https://plato.stanford.edu](https://plato.stanford.edu)
- - date published: 2023-10-25T18:58:42.260186+00:00
- - user: None
- - tags: []
-
-## Protégé: A free, open-source ontology editor for building intelligent systems
- - [https://protege.stanford.edu](https://protege.stanford.edu)
- - date published: 2023-11-10T17:29:05+00:00
- - user: None
- - tags: []
-
-## Stanford Digital Repository
- - [https://purl.stanford.edu](https://purl.stanford.edu)
- - date published: 2023-12-20T21:10:16.425792+00:00
- - user: None
- - tags: []
-
-## RelBench: Relational Deep Learning Benchmark
- - [https://relbench.stanford.edu](https://relbench.stanford.edu)
- - date published: 2023-11-28T17:41:50.517585+00:00
- - user: None
- - tags: []
-
-## Sebastian Thrun – Home
- - [http://robots.stanford.edu](http://robots.stanford.edu)
- - date published: 2023-10-25T18:58:43.127336+00:00
- - user: None
- - tags: []
-
-## Scope | Stanford Medicine's blog - Scope
- - [https://scopeblog.stanford.edu](https://scopeblog.stanford.edu)
- - date published: 2023-10-25T18:58:46.447141+00:00
- - user: None
- - tags: []
-
-## Stacks
- - [https://stacks.stanford.edu](https://stacks.stanford.edu)
- - date published: 2023-10-25T18:58:47.620111+00:00
- - user: None
- - tags: []
-
-## Home - Stanford Medicine Magazine
- - [https://stanmed.stanford.edu](https://stanmed.stanford.edu)
- - date published: 2023-10-25T18:58:50.836757+00:00
- - user: None
- - tags: []
-
-## Stanford University
- - [https://web.stanford.edu](https://web.stanford.edu)
- - date published: 2023-10-25T11:23:29.593797+00:00
- - user: None
- - tags: ['university']
-
-## Computer Science
- - [https://www-cs-faculty.stanford.edu](https://www-cs-faculty.stanford.edu)
- - date published: 2023-10-25T11:23:38.340991+00:00
- - user: None
- - tags: []
-
-## Formal Reasoning Group
- - [https://www-formal.stanford.edu](https://www-formal.stanford.edu)
- - date published: 2023-10-25T18:59:01.363669+00:00
- - user: None
- - tags: []
-
-## Stanford Graduate School of Business
- - [https://www.gsb.stanford.edu](https://www.gsb.stanford.edu)
- - date published: 2023-10-25T18:59:13.500246+00:00
- - user: None
- - tags: []
-
-## Stanford Secure Computer Systems Group
- - [https://www.scs.stanford.edu](https://www.scs.stanford.edu)
- - date published: 2023-10-25T18:59:15.431486+00:00
- - user: None
- - tags: []
-
-## Stevens Institute of Technology
- - [https://www.stevens.edu](https://www.stevens.edu)
- - date published: 2023-11-02T13:02:30.527891+00:00
- - user: None
- - tags: []
-
-## Engineering People Site
- - [https://people.engr.tamu.edu](https://people.engr.tamu.edu)
- - date published: 2023-10-25T18:59:20.825012+00:00
- - user: None
- - tags: []
-
-## Texas A&M Today - News from Texas A&M University
- - [https://today.tamu.edu](https://today.tamu.edu)
- - date published: 2023-10-25T18:59:22.810212+00:00
- - user: None
- - tags: []
-
-## Open Earable
- - [https://open-earable.teco.edu](https://open-earable.teco.edu)
- - date published: 2023-10-25T18:59:23.641652+00:00
- - user: None
- - tags: []
-
-## Department of Computer & Information Sciences | College of Science and Technology
- - [https://cis.temple.edu](https://cis.temple.edu)
- - date published: 2023-10-25T18:59:25.283156+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science, University of Toronto
- - [https://www.cs.toronto.edu](https://www.cs.toronto.edu)
- - date published: 2023-10-25T18:59:33.196200+00:00
- - user: None
- - tags: []
-
-## Homepage | Department of Computer Science
- - [https://www.cs.tufts.edu](https://www.cs.tufts.edu)
- - date published: 2023-10-25T18:59:37.817720+00:00
- - user: None
- - tags: []
-
-## Tulane News
- - [https://news.tulane.edu](https://news.tulane.edu)
- - date published: 2023-10-25T18:59:42.065237+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.uc.edu](https://www.uc.edu)
- - date published: 2023-11-03T10:54:50.239840+00:00
- - user: None
- - tags: []
-
-## UC Davis College of Letters and Science
- - [https://lettersandscience.ucdavis.edu](https://lettersandscience.ucdavis.edu)
- - date published: 2023-11-03T19:14:18.151008+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://web.cs.ucdavis.edu](https://web.cs.ucdavis.edu)
- - date published: 2023-10-25T18:59:47.853350+00:00
- - user: None
- - tags: []
-
-## UC Davis | California's College Town
- - [https://www.ucdavis.edu](https://www.ucdavis.edu)
- - date published: 2023-10-25T18:59:54.439947+00:00
- - user: None
- - tags: []
-
-## Becker Friedman Institute for Economics at University of Chicago — Frontier Research, Global Impact. | BFI
- - [https://bfi.uchicago.edu](https://bfi.uchicago.edu)
- - date published: 2023-10-25T18:59:59.078924+00:00
- - user: None
- - tags: []
-
-## Biological Sciences Division at the University of Chicago
- - [https://biologicalsciences.uchicago.edu](https://biologicalsciences.uchicago.edu)
- - date published: 2023-11-27T16:10:30.419743+00:00
  - user: None
  - tags: []
 

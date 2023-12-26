@@ -1,3 +1,21 @@
+## Good Good Good | Good News & Hopeful Progress
+ - [https://www.goodgoodgood.co](https://www.goodgoodgood.co)
+ - date published: 2023-10-25T12:18:57.942165+00:00
+ - user: None
+ - tags: []
+
+## The Home of UX Research | Great Question
+ - [https://greatquestion.co](https://greatquestion.co)
+ - date published: 2023-10-25T12:19:02.989040+00:00
+ - user: None
+ - tags: []
+
+## Green Investing Co. - Build Wealth. Save the Planet.
+ - [https://greeninvesting.co](https://greeninvesting.co)
+ - date published: 2023-11-16T15:37:38.056532+00:00
+ - user: None
+ - tags: []
+
 ## Show HN: Grigora.co – A Blogger's Answer to Secure, Simple Web Building
  - [https://grigora.co](https://grigora.co)
  - date published: 2023-11-18T05:39:21+00:00
@@ -904,6 +922,12 @@
  - user: None
  - tags: []
 
+## 485i.com | The home site for Brian Van Nieuwenhoven
+ - [http://485i.com](http://485i.com)
+ - date published: 2023-12-25T17:18:14.648184+00:00
+ - user: None
+ - tags: ['personal']
+
 ## 4 gravitons | The trials and tribulations of four gravitons and a physicist
  - [https://4gravitons.com](https://4gravitons.com)
  - date published: 2023-10-25T12:27:29.368224+00:00
@@ -1795,6 +1819,12 @@
 ## Aged Code Studio - Index page
  - [https://forum.agedcode.com](https://forum.agedcode.com)
  - date published: 2023-12-11T17:36:57.990843+00:00
+ - user: None
+ - tags: []
+
+## Home - Agenzia Nova
+ - [https://www.agenzianova.com](https://www.agenzianova.com)
+ - date published: 2023-12-25T09:27:40.052555+00:00
  - user: None
  - tags: []
 
@@ -3082,6 +3112,12 @@
  - user: None
  - tags: []
 
+## Andrew Skotzko - Product leadership advisor - Make Things That Matter
+ - [https://andrewskotzko.com](https://andrewskotzko.com)
+ - date published: 2023-12-25T04:56:46.972551+00:00
+ - user: None
+ - tags: ['personal']
+
 ## My Blog 👋 from Andrew Timberlake
  - [https://andrewtimberlake.com](https://andrewtimberlake.com)
  - date published: 2023-11-29T14:53:15.353862+00:00
@@ -3237,6 +3273,12 @@
  - date published: 2023-10-25T12:41:45.217052+00:00
  - user: None
  - tags: []
+
+## Experience Design | Anita Sun
+ - [https://www.anitayusun.com](https://www.anitayusun.com)
+ - date published: 2023-12-25T17:18:04.011931+00:00
+ - user: None
+ - tags: ['personal']
 
 ## About
  - [https://ankeshbharti.com](https://ankeshbharti.com)
@@ -3687,6 +3729,12 @@
  - date published: 2023-10-25T12:43:48.616759+00:00
  - user: None
  - tags: []
+
+## Pedro's Blog
+ - [https://arantespp.com](https://arantespp.com)
+ - date published: 2023-12-25T04:56:04.383111+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Museum of the Game Forums
  - [https://forums.arcade-museum.com](https://forums.arcade-museum.com)
@@ -4762,6 +4810,12 @@
  - user: None
  - tags: []
 
+## azdailysun.com | Serving Flagstaff and Northern Arizona
+ - [https://azdailysun.com](https://azdailysun.com)
+ - date published: 2023-12-25T13:49:43.018410+00:00
+ - user: None
+ - tags: []
+
 ## Azeem Bande-Ali | azeemba.com
  - [https://azeemba.com](https://azeemba.com)
  - date published: 2023-10-25T12:51:28.547733+00:00
@@ -4975,6 +5029,12 @@
 ## https://widget.bandsintown.com
  - [https://widget.bandsintown.com](https://widget.bandsintown.com)
  - date published: 2023-12-11T15:37:32.078160+00:00
+ - user: None
+ - tags: []
+
+## https://support.bandwidth.com
+ - [https://support.bandwidth.com](https://support.bandwidth.com)
+ - date published: 2023-12-25T10:59:00.115362+00:00
  - user: None
  - tags: []
 
@@ -5937,64 +5997,4 @@
  - date published: 2023-10-25T13:01:20.829391+00:00
  - user: None
  - tags: []
-
-## Bitesized Engineering | Mihailo Joksimovic | Substack
- - [https://www.bitesizedengineering.com](https://www.bitesizedengineering.com)
- - date published: 2023-10-25T13:01:25.431101+00:00
- - user: None
- - tags: []
-
-## Posts - Bitestring's Blog
- - [https://www.bitestring.com](https://www.bitestring.com)
- - date published: 2023-10-25T13:01:29.920175+00:00
- - user: None
- - tags: []
-
-## Bitfield Consulting
- - [https://bitfieldconsulting.com](https://bitfieldconsulting.com)
- - date published: 2023-10-25T13:01:32.399061+00:00
- - user: None
- - tags: []
-
-## The Bitfinex Blog
- - [https://blog.bitfinex.com](https://blog.bitfinex.com)
- - date published: 2023-10-25T13:01:45.052470+00:00
- - user: None
- - tags: []
-
-## URL Shortener - Short URLs & Custom Free Link Shortener | Bitly
- - [https://bitly.com](https://bitly.com)
- - date published: 2023-12-18T07:04:23+00:00
- - user: rumpel
- - tags: ['link service']
-
-## Homepage | BitMEX Blog
- - [https://blog.bitmex.com](https://blog.bitmex.com)
- - date published: 2023-10-25T13:01:54.459156+00:00
- - user: None
- - tags: []
-
-## Bitnami Blog
- - [https://blog.bitnami.com](https://blog.bitnami.com)
- - date published: 2023-10-25T13:02:11.353143+00:00
- - user: None
- - tags: []
-
-## Matt Dunphy - bitrotten.com - Audio, Photo, Video
- - [https://www.bitrotten.com](https://www.bitrotten.com)
- - date published: 2023-10-25T08:45:06.636297+00:00
- - user: None
- - tags: ['personal']
-
-## Bits about Money by Patrick McKenzie (patio11)
- - [https://www.bitsaboutmoney.com](https://www.bitsaboutmoney.com)
- - date published: 2023-10-25T13:02:16.420283+00:00
- - user: None
- - tags: []
-
-## Bits in Flight
- - [https://bitsinflight.com](https://bitsinflight.com)
- - date published: 2023-12-21T03:31:11.484659+00:00
- - user: None
- - tags: ['personal']
 

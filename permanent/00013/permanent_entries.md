@@ -1,3 +1,285 @@
+## Your story estimation can be lightweight and efficient
+ - [https://smartguess.is](https://smartguess.is)
+ - date published: 2023-11-01T08:43:48.191532+00:00
+ - user: None
+ - tags: []
+
+## Jasper is (╯°□°）╯︵ ┻━┻
+ - [https://jasper.tandy.is](https://jasper.tandy.is)
+ - date published: 2023-11-29T14:25:42.608019+00:00
+ - user: None
+ - tags: ['personal']
+
+## The (Site of) Davis
+ - [https://thedav.is](https://thedav.is)
+ - date published: 2023-10-25T20:14:33.148978+00:00
+ - user: None
+ - tags: []
+
+## Time.is - exact time, any time zone
+ - [https://time.is](https://time.is)
+ - date published: 2023-10-25T20:14:35.850640+00:00
+ - user: None
+ - tags: []
+
+## timing blog
+ - [https://blog.timing.is](https://blog.timing.is)
+ - date published: 2023-10-25T20:14:37.573106+00:00
+ - user: None
+ - tags: []
+
+## tot.is - tiny original thoughts
+ - [https://tot.is](https://tot.is)
+ - date published: 2023-11-26T21:56:30.710870+00:00
+ - user: None
+ - tags: ['personal']
+
+## Forsíða - Vísir
+ - [https://www.visir.is](https://www.visir.is)
+ - date published: 2023-12-19T00:38:08.555606+00:00
+ - user: None
+ - tags: []
+
+## Open visual  development for the open web
+ - [https://webstudio.is](https://webstudio.is)
+ - date published: 2023-10-25T20:14:38.592018+00:00
+ - user: None
+ - tags: []
+
+## gavart.ist — 🌱 digital garden  🗂  work repository
+ - [https://gavart.ist](https://gavart.ist)
+ - date published: 2023-12-20T00:59:57.888289+00:00
+ - user: None
+ - tags: ['personal']
+
+## Amigapage - Sito italiano dedicato ad Amiga
+ - [https://www.amigapage.it](https://www.amigapage.it)
+ - date published: 2023-11-02T09:47:56.546618+00:00
+ - user: None
+ - tags: ['amiga']
+
+## Agenzia ANSA: ultime notizie di cronaca, politica e sport - ANSA
+ - [https://www.ansa.it](https://www.ansa.it)
+ - date published: 2023-10-25T20:14:45.151180+00:00
+ - user: None
+ - tags: []
+
+## Aurelio De Rosa
+ - [https://www.audero.it](https://www.audero.it)
+ - date published: 2023-10-25T20:14:45.892675+00:00
+ - user: None
+ - tags: []
+
+## Wifi & Bed
+ - [https://bitslap.it](https://bitslap.it)
+ - date published: 2023-10-25T20:14:46.393122+00:00
+ - user: None
+ - tags: []
+
+## Can I Stream It?
+ - [https://www.canistream.it](https://www.canistream.it)
+ - date published: 2023-11-27T11:29:05+00:00
+ - user: rumpel
+ - tags: ['video streaming filter']
+
+## Davide Quaranta
+ - [https://davquar.it](https://davquar.it)
+ - date published: 2023-10-25T20:14:47.000469+00:00
+ - user: None
+ - tags: []
+
+## Trapped inside a tölva
+ - [https://edoput.it](https://edoput.it)
+ - date published: 2023-10-25T20:14:48.397571+00:00
+ - user: None
+ - tags: []
+
+## Home - Eliseo Martelli
+ - [https://www.eliseomartelli.it](https://www.eliseomartelli.it)
+ - date published: 2023-10-25T08:49:49.023316+00:00
+ - user: None
+ - tags: ['personal']
+
+## Enrico Bassetti
+ - [https://www.enricobassetti.it](https://www.enricobassetti.it)
+ - date published: 2023-10-25T20:14:54.222338+00:00
+ - user: None
+ - tags: []
+
+## Home - Garante Privacy
+ - [https://www.garanteprivacy.it](https://www.garanteprivacy.it)
+ - date published: 2023-10-25T20:14:57.663434+00:00
+ - user: None
+ - tags: []
+
+## morsechat - an online morse code radio
+ - [https://morse.halb.it](https://morse.halb.it)
+ - date published: 2023-10-25T20:14:58.101342+00:00
+ - user: None
+ - tags: []
+
+## Home | { Hoelzel.IT }
+ - [https://www.hoelzel.it](https://www.hoelzel.it)
+ - date published: 2023-10-25T20:14:58.999999+00:00
+ - user: None
+ - tags: []
+
+## IAI Istituto Affari Internazionali
+ - [https://www.iai.it](https://www.iai.it)
+ - date published: 2023-10-25T20:15:02.462616+00:00
+ - user: None
+ - tags: []
+
+## Italian poetry for English speakers | Italian Poetry
+ - [https://italianpoetry.it](https://italianpoetry.it)
+ - date published: 2023-10-25T20:15:03.303270+00:00
+ - user: None
+ - tags: []
+
+## G̶i̶a̶c̶o̶m̶o̶ ̶M̶i̶c̶e̶l̶i̶
+ - [https://www.jamez.it](https://www.jamez.it)
+ - date published: 2023-10-25T20:15:05.579397+00:00
+ - user: None
+ - tags: []
+
+## Loris Cro's Personal Website
+ - [https://kristoff.it](https://kristoff.it)
+ - date published: 2023-10-25T20:15:11.394567+00:00
+ - user: None
+ - tags: []
+
+## Let's Block It! :: letsblock.it
+ - [https://letsblock.it](https://letsblock.it)
+ - date published: 2023-10-25T20:15:12.362251+00:00
+ - user: None
+ - tags: []
+
+## Home - Linux.it
+ - [https://www.linux.it](https://www.linux.it)
+ - date published: 2023-10-25T20:15:13.230291+00:00
+ - user: None
+ - tags: []
+
+## nitter.it
+ - [https://nitter.it](https://nitter.it)
+ - date published: 2023-11-22T06:56:02+00:00
+ - user: rumpel
+ - tags: ['x', 'twitter']
+
+## GTranslate - Error 402: Payment Required
+ - [https://en.oppohub.it](https://en.oppohub.it)
+ - date published: 2023-10-25T20:15:13.671922+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://we.phorge.it](https://we.phorge.it)
+ - date published: 2023-10-25T20:15:19.719274+00:00
+ - user: None
+ - tags: []
+
+## https://external-preview.redd.it/
+ - [https://external-preview.redd.it](https://external-preview.redd.it)
+ - date published: 2023-10-30T12:22:01.044585+00:00
+ - user: None
+ - tags: []
+
+## Reddit - Dive into anything
+ - [https://i.redd.it](https://i.redd.it)
+ - date published: 2023-10-25T20:15:21.079184+00:00
+ - user: None
+ - tags: []
+
+## Reddit - Dive into anything
+ - [https://preview.redd.it](https://preview.redd.it)
+ - date published: 2023-10-25T20:15:22.724650+00:00
+ - user: None
+ - tags: []
+
+## reddit
+ - [https://redd.it](https://redd.it)
+ - date published: 2023-12-11T19:25:05.732440+00:00
+ - user: None
+ - tags: []
+
+## https://v.redd.it
+ - [https://v.redd.it](https://v.redd.it)
+ - date published: 2023-10-30T12:42:19.101470+00:00
+ - user: None
+ - tags: []
+
+## Replit: The software creation platform. IDE, AI, and Deployments
+ - [https://repl.it](https://repl.it)
+ - date published: 2023-12-11T12:25:08+00:00
+ - user: rumpel
+ - tags: ['code sandbox']
+
+## Home - Retro-Gamers.it
+ - [https://www.retro-gamers.it](https://www.retro-gamers.it)
+ - date published: 2023-12-11T18:59:38.730308+00:00
+ - user: None
+ - tags: []
+
+## Rome in the footsteps of a 1750 traveller
+ - [https://www.romeartlover.it](https://www.romeartlover.it)
+ - date published: 2023-11-15T17:37:09.666911+00:00
+ - user: None
+ - tags: ['personal']
+
+## Linkfire Acquired smartURL | Music Marketing | Smart Links for music
+ - [https://smarturl.it](https://smarturl.it)
+ - date published: 2023-11-05T16:12:49.518226+00:00
+ - user: None
+ - tags: []
+
+## Summate.it - Quickly summarize web articles
+ - [https://summate.it](https://summate.it)
+ - date published: 2023-10-25T20:15:23.804588+00:00
+ - user: None
+ - tags: []
+
+## The Local - Italy's news in English
+ - [https://www.thelocal.it](https://www.thelocal.it)
+ - date published: 2023-10-25T20:15:26.536494+00:00
+ - user: None
+ - tags: []
+
+## Branża IT bez tajemnic. Odwiedź blog IT od the:protocol!
+ - [https://blog.theprotocol.it](https://blog.theprotocol.it)
+ - date published: 2023-12-13T14:57:12.580020+00:00
+ - user: None
+ - tags: ['tech news']
+
+## The Split | Turner Novak | Substack
+ - [https://www.thespl.it](https://www.thespl.it)
+ - date published: 2023-10-25T20:15:30.056480+00:00
+ - user: None
+ - tags: []
+
+## TransitiveBullsh.it
+ - [https://transitivebullsh.it](https://transitivebullsh.it)
+ - date published: 2023-10-25T20:15:34.091849+00:00
+ - user: None
+ - tags: []
+
+## Unclutter — Reader Mode for Chrome & Firefox
+ - [https://unclutter.it](https://unclutter.it)
+ - date published: 2023-10-25T20:15:40.192858+00:00
+ - user: None
+ - tags: []
+
+## L'Unione Sarda.it
+ - [https://www.unionesarda.it](https://www.unionesarda.it)
+ - date published: 2023-11-06T02:35:24.227351+00:00
+ - user: None
+ - tags: []
+
+## Home - Dipartimento di Informatica
+ - [http://groups.di.unipi.it](http://groups.di.unipi.it)
+ - date published: 2023-10-25T20:15:43.305470+00:00
+ - user: None
+ - tags: []
+
 ## upbeat.it - upbeat.it
  - [https://www.upbeat.it](https://www.upbeat.it)
  - date published: 2023-12-03T15:55:21.887131+00:00
@@ -1270,6 +1552,18 @@
  - user: None
  - tags: ['personal']
 
+## Jonathon Reed
+ - [https://jonathonreed.me](https://jonathonreed.me)
+ - date published: 2023-12-25T22:13:10.573275+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jon Deaves, Web Developer
+ - [https://jondeaves.me](https://jondeaves.me)
+ - date published: 2023-12-25T22:12:49.001610+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Home - Joost Jansen
  - [https://joostjansen.me](https://joostjansen.me)
  - date published: 2023-10-25T20:20:26.328305+00:00
@@ -1606,6 +1900,12 @@
  - date published: 2023-10-25T20:20:51.810256+00:00
  - user: None
  - tags: []
+
+## rhondalbowen.me – Rhonda L Bowen
+ - [https://rhondalbowen.me](https://rhondalbowen.me)
+ - date published: 2023-12-25T22:12:15.217953+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Robb Knight
  - [https://rknight.me](https://rknight.me)
@@ -1982,6 +2282,12 @@
 ## NIM-Aviation Homepage
  - [https://www.airdomainintelligence.mil](https://www.airdomainintelligence.mil)
  - date published: 2023-10-25T20:22:13.913036+00:00
+ - user: None
+ - tags: []
+
+## The Official Home Page of the United States Army
+ - [https://www.army.mil](https://www.army.mil)
+ - date published: 2023-12-25T20:06:41.547970+00:00
  - user: None
  - tags: []
 
@@ -4241,6 +4547,12 @@
  - user: None
  - tags: []
 
+## Initial Charge
+ - [https://initialcharge.net](https://initialcharge.net)
+ - date published: 2023-12-25T17:18:40.551487+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Mi vida en el Tíbet y los Himalayas
  - [https://inocuo.net](https://inocuo.net)
  - date published: 2023-11-29T15:50:23.707008+00:00
@@ -5686,318 +5998,6 @@
 ## index
  - [https://rebeccaskinner.net](https://rebeccaskinner.net)
  - date published: 2023-10-25T08:53:44.503259+00:00
- - user: None
- - tags: ['personal']
-
-## Rectify11
- - [https://rectify11.net](https://rectify11.net)
- - date published: 2023-10-25T20:36:27.642981+00:00
- - user: None
- - tags: []
-
-## ResearchGate | Find and share research
- - [https://www.researchgate.net](https://www.researchgate.net)
- - date published: 2023-10-25T20:36:28.828728+00:00
- - user: None
- - tags: []
-
-## Resource Packs for Minecraft | Texture Packs
- - [https://resourcepack.net](https://resourcepack.net)
- - date published: 2023-10-25T11:51:12.727536+00:00
- - user: None
- - tags: []
-
-## RetroAge – bo stare gry są lepsze
- - [https://retroage.net](https://retroage.net)
- - date published: 2023-12-13T15:18:43.530964+00:00
- - user: None
- - tags: ['retro games', 'video games']
-
-## Retrocoding - Old Things, New Way.
- - [https://retrocoding.net](https://retrocoding.net)
- - date published: 2023-10-25T20:36:30.258317+00:00
- - user: None
- - tags: []
-
-## RGBWatermark
- - [https://rgbwatermark.net](https://rgbwatermark.net)
- - date published: 2023-10-25T20:36:30.876713+00:00
- - user: None
- - tags: []
-
-## Ring Game Web Site (official)
- - [https://www.ringgame.net](https://www.ringgame.net)
- - date published: 2023-10-25T20:36:32.152189+00:00
- - user: None
- - tags: []
-
-## Home | RIPE Labs
- - [https://labs.ripe.net](https://labs.ripe.net)
- - date published: 2023-10-25T20:36:34.219036+00:00
- - user: None
- - tags: []
-
-## Risk.net - Financial Risk Management News Analysis
- - [https://www.risk.net](https://www.risk.net)
- - date published: 2023-10-25T20:36:37.096892+00:00
- - user: None
- - tags: []
-
-## https://rob-turner.net
- - [https://rob-turner.net](https://rob-turner.net)
- - date published: 2023-10-25T20:36:37.784334+00:00
- - user: None
- - tags: []
-
-## Roll20 - Virtual Tabletop for Playing D&D, Pathfinder, Call of Cthulhu, TTRPGs
- - [https://roll20.net](https://roll20.net)
- - date published: 2023-10-27T10:36:02.865844+00:00
- - user: None
- - tags: ['tabletop games']
-
-## Ron Cobb - Home
- - [https://roncobb.net](https://roncobb.net)
- - date published: 2023-10-25T08:53:46.152301+00:00
- - user: None
- - tags: ['personal']
-
-## David Röthlisberger
- - [https://david.rothlis.net](https://david.rothlis.net)
- - date published: 2023-10-25T20:36:38.418299+00:00
- - user: None
- - tags: []
-
-## · roytang.net
- - [https://roytang.net](https://roytang.net)
- - date published: 2023-12-20T11:46:31.779066+00:00
- - user: None
- - tags: ['personal']
-
-## RPCS3 - The PlayStation 3 Emulator
- - [https://rpcs3.net](https://rpcs3.net)
- - date published: 2023-10-25T08:36:13.685764+00:00
- - user: None
- - tags: ['emulator']
-
-## Welcome!: rpdillon.net — Rick's Home Online
- - [https://rpdillon.net](https://rpdillon.net)
- - date published: 2023-10-25T20:36:39.545073+00:00
- - user: None
- - tags: []
-
-## RPGnet Forums
- - [https://forum.rpg.net](https://forum.rpg.net)
- - date published: 2023-11-01T19:31:34.668013+00:00
- - user: None
- - tags: ['role playing games']
-
-## RPG Site
- - [https://www.rpgsite.net](https://www.rpgsite.net)
- - date published: 2023-10-25T20:36:41.173422+00:00
- - user: None
- - tags: []
-
-## Cloud Storage for Offsite Backup
- - [https://www.rsync.net](https://www.rsync.net)
- - date published: 2023-10-25T20:36:42.666671+00:00
- - user: None
- - tags: []
-
-## Ryan's Corner | Ryan Blakeley | Substack
- - [https://ryanblakeley.net](https://ryanblakeley.net)
- - date published: 2023-10-25T10:08:35.676878+00:00
- - user: None
- - tags: ['substack']
-
-## Said van de Klundert - Words on things
- - [https://saidvandeklundert.net](https://saidvandeklundert.net)
- - date published: 2023-10-25T20:36:43.888896+00:00
- - user: None
- - tags: []
-
-## Sami Salkosuo
- - [https://www.salkosuo.net](https://www.salkosuo.net)
- - date published: 2023-10-25T08:53:48.122140+00:00
- - user: None
- - tags: ['personal']
-
-## Sam Curry - Web Application Security Researcher
- - [https://samcurry.net](https://samcurry.net)
- - date published: 2023-10-25T20:36:44.539361+00:00
- - user: None
- - tags: []
-
-## Sami Lehtinen
- - [https://www.sami-lehtinen.net](https://www.sami-lehtinen.net)
- - date published: 2023-10-25T08:53:50.161813+00:00
- - user: None
- - tags: ['personal']
-
-## www.satchell.net Index
- - [https://www.satchell.net](https://www.satchell.net)
- - date published: 2023-10-25T20:36:45.679413+00:00
- - user: None
- - tags: []
-
-## Jamie Brandon
- - [https://www.scattered-thoughts.net](https://www.scattered-thoughts.net)
- - date published: 2023-10-25T08:53:57.855626+00:00
- - user: None
- - tags: ['personal']
-
-## Schedium
- - [https://www.schedium.net](https://www.schedium.net)
- - date published: 2023-10-25T20:36:53.225004+00:00
- - user: None
- - tags: []
-
-## Scope of Work
- - [https://www.scopeofwork.net](https://www.scopeofwork.net)
- - date published: 2023-10-25T20:36:54.662120+00:00
- - user: None
- - tags: []
-
-## scottnesbitt.net
- - [https://scottnesbitt.net](https://scottnesbitt.net)
- - date published: 2023-11-29T18:20:55.928886+00:00
- - user: None
- - tags: ['personal']
-
-## ScreenGeek
- - [https://www.screengeek.net](https://www.screengeek.net)
- - date published: 2023-10-25T10:17:57.016680+00:00
- - user: None
- - tags: []
-
-## Software Engineering Radio
- - [https://www.se-radio.net](https://www.se-radio.net)
- - date published: 2023-10-25T20:36:59.929374+00:00
- - user: None
- - tags: []
-
-## Blog for searchmysite.net
- - [https://blog.searchmysite.net](https://blog.searchmysite.net)
- - date published: 2023-10-25T20:37:01.552823+00:00
- - user: None
- - tags: []
-
-## Search My Site - Open source search engine and search as a service for personal and independent websites
- - [https://searchmysite.net](https://searchmysite.net)
- - date published: 2023-10-25T08:53:58.774335+00:00
- - user: None
- - tags: ['personal', 'blog']
-
-## Coming Soon
- - [https://sg2plcpnl0010.prod.sin2.secureserver.net](https://sg2plcpnl0010.prod.sin2.secureserver.net)
- - date published: 2023-12-11T17:42:51.665533+00:00
- - user: None
- - tags: []
-
-## seebs.net
- - [https://www.seebs.net](https://www.seebs.net)
- - date published: 2023-10-25T20:37:02.387998+00:00
- - user: None
- - tags: []
-
-## Senko Rašić
- - [https://blog.senko.net](https://blog.senko.net)
- - date published: 2023-10-25T20:37:05.334158+00:00
- - user: None
- - tags: []
-
-## Sensebridge - making the invisible visible
- - [https://sensebridge.net](https://sensebridge.net)
- - date published: 2023-10-25T20:37:12.716842+00:00
- - user: None
- - tags: []
-
-## ServiceStack - ServiceStack
- - [https://servicestack.net](https://servicestack.net)
- - date published: 2023-10-25T20:37:15.489114+00:00
- - user: None
- - tags: []
-
-## website
- - [https://sethops1.net](https://sethops1.net)
- - date published: 2023-10-25T20:37:16.230243+00:00
- - user: None
- - tags: []
-
-## Syonyk's Project Blog
- - [https://www.sevarg.net](https://www.sevarg.net)
- - date published: 2023-10-25T20:37:17.657263+00:00
- - user: None
- - tags: []
-
-## Seximal is objectively the best way to represent numbers
- - [https://www.seximal.net](https://www.seximal.net)
- - date published: 2023-12-17T00:40:28+00:00
- - user: None
- - tags: []
-
-## Street Fighter Galleries
- - [https://sfgalleries.net](https://sfgalleries.net)
- - date published: 2023-11-01T08:44:05.828730+00:00
- - user: None
- - tags: []
-
-## Florian Obser
- - [https://sha256.net](https://sha256.net)
- - date published: 2023-10-25T20:37:18.441779+00:00
- - user: None
- - tags: []
-
-## Shareaholic
- - [https://cdn.shareaholic.net](https://cdn.shareaholic.net)
- - date published: 2023-12-11T16:52:12.963709+00:00
- - user: None
- - tags: []
-
-## Script
- - [https://sharpscript.net](https://sharpscript.net)
- - date published: 2023-10-25T20:37:20.303154+00:00
- - user: None
- - tags: []
-
-## Shellcheck finds bugs in your shell scripts
- - [https://www.shellcheck.net](https://www.shellcheck.net)
- - date published: 2023-11-23T19:16:08+00:00
- - user: None
- - tags: []
-
-## Shiftall Inc.
- - [https://en.shiftall.net](https://en.shiftall.net)
- - date published: 2023-12-20T20:34:36+00:00
- - user: rumpel
- - tags: ['virtual reality']
-
-## Sia
- - [https://www.siamusic.net](https://www.siamusic.net)
- - date published: 2023-11-13T09:53:58.683069+00:00
- - user: None
- - tags: ['music band']
-
-## Silent Lunch, The David Zweig Newsletter | Substack
- - [https://www.silentlunch.net](https://www.silentlunch.net)
- - date published: 2023-10-25T20:37:30.571541+00:00
- - user: None
- - tags: []
-
-## Simon Duff – Big Data Specialist
- - [https://simonduff.net](https://simonduff.net)
- - date published: 2023-12-02T10:26:37.230407+00:00
- - user: None
- - tags: ['personal']
-
-## Simon Ong | Architect – Architect. Filipino. Awesome.
- - [https://simonong.net](https://simonong.net)
- - date published: 2023-12-03T23:31:04.542735+00:00
- - user: None
- - tags: ['personal']
-
-## Simon Willison’s Weblog
- - [https://simonwillison.net](https://simonwillison.net)
- - date published: 2023-10-25T08:41:17.781731+00:00
  - user: None
  - tags: ['personal']
 

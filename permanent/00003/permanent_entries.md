@@ -1,3 +1,75 @@
+## Dark Reading | Security | Protect The Business
+ - [https://www.darkreading.com](https://www.darkreading.com)
+ - date published: 2023-10-25T13:43:27.521358+00:00
+ - user: None
+ - tags: []
+
+## James Darpinian's blog | James Darpinian
+ - [https://james.darpinian.com](https://james.darpinian.com)
+ - date published: 2023-10-25T09:20:00.494541+00:00
+ - user: None
+ - tags: ['personal']
+
+## doodle:ai
+ - [https://doodleai.darraghoriordan.com](https://doodleai.darraghoriordan.com)
+ - date published: 2023-10-25T13:43:28.176592+00:00
+ - user: None
+ - tags: []
+
+## Data Science Project – Becoming a Data Scientist
+ - [https://data-science-project.com](https://data-science-project.com)
+ - date published: 2023-12-13T11:23:39.553811+00:00
+ - user: None
+ - tags: ['personal']
+
+## Free Online Database Diagram Tool
+ - [https://databasediagram.com](https://databasediagram.com)
+ - date published: 2023-10-25T13:43:28.543960+00:00
+ - user: None
+ - tags: []
+
+## Data Lakehouse Architecture and AI Company | Databricks
+ - [https://www.databricks.com](https://www.databricks.com)
+ - date published: 2023-10-25T13:43:30.770115+00:00
+ - user: None
+ - tags: []
+
+## Data center industry news, analysis and opinion - DCD
+ - [https://www.datacenterdynamics.com](https://www.datacenterdynamics.com)
+ - date published: 2023-10-25T09:32:36.241535+00:00
+ - user: None
+ - tags: []
+
+## Data Demythed
+ - [https://datademythed.com](https://datademythed.com)
+ - date published: 2023-10-25T13:43:38.710464+00:00
+ - user: None
+ - tags: []
+
+## DRUIDS by Datadog
+ - [https://druids.datadoghq.com](https://druids.datadoghq.com)
+ - date published: 2023-10-25T13:43:41.490095+00:00
+ - user: None
+ - tags: []
+
+## Home |  Datadog Security Labs
+ - [https://securitylabs.datadoghq.com](https://securitylabs.datadoghq.com)
+ - date published: 2023-10-25T13:43:42.783008+00:00
+ - user: None
+ - tags: []
+
+## Cloud Monitoring as a Service | Datadog
+ - [https://www.datadoghq.com](https://www.datadoghq.com)
+ - date published: 2023-10-25T13:43:54.515063+00:00
+ - user: None
+ - tags: []
+
+## Domain error
+ - [https://www.datafantic.com](https://www.datafantic.com)
+ - date published: 2023-10-25T13:44:02.296933+00:00
+ - user: None
+ - tags: []
+
 ## datalars
  - [https://datalars.com](https://datalars.com)
  - date published: 2023-10-25T13:44:08.044566+00:00
@@ -310,6 +382,12 @@
  - user: None
  - tags: []
 
+## Deadville
+ - [https://www.deadville.com](https://www.deadville.com)
+ - date published: 2023-12-25T17:18:21.336759+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Deanne Achong
  - [https://deanneachong.com](https://deanneachong.com)
  - date published: 2023-11-29T14:44:16.253144+00:00
@@ -451,6 +529,12 @@
 ## Defector | The last good website.
  - [https://defector.com](https://defector.com)
  - date published: 2023-10-25T13:48:09.544452+00:00
+ - user: None
+ - tags: []
+
+## Defense Express - Ukraine military industry, technology, equipment
+ - [https://en.defence-ua.com](https://en.defence-ua.com)
+ - date published: 2023-12-25T22:35:54.461715+00:00
  - user: None
  - tags: []
 
@@ -1372,6 +1456,12 @@
  - date published: 2023-10-25T13:56:12.288701+00:00
  - user: None
  - tags: []
+
+## Inici B&N, Color e Imatge Digital - D O M E N E C H M I L A N
+ - [https://domenechmilan.com](https://domenechmilan.com)
+ - date published: 2023-12-25T17:17:48.701097+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Dominik Mayer – Products, Asia, Productivity
  - [https://www.dominikmayer.com](https://www.dominikmayer.com)
@@ -3386,6 +3476,12 @@
 ## Everyday Scientist
  - [https://blog.everydayscientist.com](https://blog.everydayscientist.com)
  - date published: 2023-10-25T14:12:52.624817+00:00
+ - user: None
+ - tags: []
+
+## Everypixel Journal - Your Guide to the Entangled World of AI
+ - [https://journal.everypixel.com](https://journal.everypixel.com)
+ - date published: 2023-12-25T20:06:51.687101+00:00
  - user: None
  - tags: []
 
@@ -5902,100 +5998,4 @@
  - date published: 2023-10-25T14:42:06.251930+00:00
  - user: None
  - tags: ['vip']
-
-## Gaurang Tandon
- - [https://gaurangtandon.com](https://gaurangtandon.com)
- - date published: 2023-11-01T08:42:09.254638+00:00
- - user: None
- - tags: []
-
-## Gautam Narula
- - [https://www.gautamnarula.com](https://www.gautamnarula.com)
- - date published: 2023-11-29T16:20:08.747690+00:00
- - user: None
- - tags: ['personal']
-
-## Gauthier Roussilhe
- - [https://gauthierroussilhe.com](https://gauthierroussilhe.com)
- - date published: 2023-12-11T16:12:10.777950+00:00
- - user: None
- - tags: []
-
-## Gavin D. Howard
- - [https://gavinhoward.com](https://gavinhoward.com)
- - date published: 2023-10-25T14:42:07.699227+00:00
- - user: None
- - tags: []
-
-## Gawker
- - [https://www.gawker.com](https://www.gawker.com)
- - date published: 2023-10-25T14:42:10.336138+00:00
- - user: None
- - tags: []
-
-## gazette.com
- - [https://gazette.com](https://gazette.com)
- - date published: 2023-12-07T22:20:50.347259+00:00
- - user: None
- - tags: []
-
-## Peoples Gazette - Truth, Courage or Nothing...
- - [https://gazettengr.com](https://gazettengr.com)
- - date published: 2023-10-25T14:42:16.982105+00:00
- - user: None
- - tags: []
-
-## GB64.COM - C64 Games, Database, Music, Emulation, Frontends, Reviews and Articles
- - [https://www.gb64.com](https://www.gb64.com)
- - date published: 2023-12-13T15:11:42.180503+00:00
- - user: None
- - tags: ['rom', 'emulation', 'commodore']
-
-## GBurghoorn
- - [https://gburghoorn.com](https://gburghoorn.com)
- - date published: 2023-10-25T08:45:50.786825+00:00
- - user: None
- - tags: ['personal']
-
-## gCaptain – Maritime News
- - [https://gcaptain.com](https://gcaptain.com)
- - date published: 2023-10-25T14:42:22.481020+00:00
- - user: None
- - tags: []
-
-## Historic Stock Lookup | Microsoft Corporation
- - [https://microsoft.gcs-web.com](https://microsoft.gcs-web.com)
- - date published: 2023-10-25T14:42:23.906807+00:00
- - user: None
- - tags: []
-
-## Pages (iframe) | Qualtrics
- - [https://qualtrics.gcs-web.com](https://qualtrics.gcs-web.com)
- - date published: 2023-10-25T14:42:24.720200+00:00
- - user: None
- - tags: []
-
-## The Next Generation and Future of GE | General Electric
- - [https://www.ge.com](https://www.ge.com)
- - date published: 2023-11-08T11:28:22.739493+00:00
- - user: None
- - tags: ['avionics', 'corporation']
-
-## gearnews.com
- - [https://www.gearnews.com](https://www.gearnews.com)
- - date published: 2023-11-29T21:06:02.136723+00:00
- - user: None
- - tags: ['audio equipment', 'audio news']
-
-## Gearrice - Explore the Tech World
- - [https://www.gearrice.com](https://www.gearrice.com)
- - date published: 2023-10-25T14:42:28.981386+00:00
- - user: None
- - tags: []
-
-## Gear Solutions Magazine Your Resource to the Gear Industry | Advertise and reach a broad-base audience of gear industry professionals and buyers with Gear Solutions magazine — the complete online resource for the gear industry. Media kit available at Gear Solutions.
- - [https://gearsolutions.com](https://gearsolutions.com)
- - date published: 2023-10-25T14:42:36.223188+00:00
- - user: None
- - tags: []
 

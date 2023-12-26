@@ -2908,6 +2908,12 @@
  - user: None
  - tags: ['university']
 
+## University of Technology Sydney
+ - [https://www.uts.edu.au](https://www.uts.edu.au)
+ - date published: 2023-12-25T11:46:43.534554+00:00
+ - user: None
+ - tags: []
+
 ## The University of Western Australia - Seek wisdom with a leading university for employability
  - [https://www.uwa.edu.au](https://www.uwa.edu.au)
  - date published: 2023-10-25T11:57:20.643330+00:00
@@ -3261,6 +3267,12 @@
  - date published: 2023-10-25T10:47:38.913934+00:00
  - user: None
  - tags: []
+
+## 8Sided Blog
+ - [https://8sided.blog](https://8sided.blog)
+ - date published: 2023-12-25T22:11:32.378760+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Aapo Blog
  - [https://aapo.blog](https://aapo.blog)
@@ -4400,6 +4412,12 @@
 ## Author Jenn Ashton
  - [https://jenniferashton.ca](https://jenniferashton.ca)
  - date published: 2023-12-20T19:14:23.669927+00:00
+ - user: None
+ - tags: ['personal']
+
+## Author Jenn Ashton
+ - [http://jenniferashton.ca](http://jenniferashton.ca)
+ - date published: 2023-12-25T04:56:31.047100+00:00
  - user: None
  - tags: ['personal']
 
@@ -5981,22 +5999,4 @@
  - date published: 2023-12-18T01:35:50.923520+00:00
  - user: None
  - tags: ['personal']
-
-## Good Good Good | Good News & Hopeful Progress
- - [https://www.goodgoodgood.co](https://www.goodgoodgood.co)
- - date published: 2023-10-25T12:18:57.942165+00:00
- - user: None
- - tags: []
-
-## The Home of UX Research | Great Question
- - [https://greatquestion.co](https://greatquestion.co)
- - date published: 2023-10-25T12:19:02.989040+00:00
- - user: None
- - tags: []
-
-## Green Investing Co. - Build Wealth. Save the Planet.
- - [https://greeninvesting.co](https://greeninvesting.co)
- - date published: 2023-11-16T15:37:38.056532+00:00
- - user: None
- - tags: []
 

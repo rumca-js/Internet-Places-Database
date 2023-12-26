@@ -1,3 +1,63 @@
+## Bitesized Engineering | Mihailo Joksimovic | Substack
+ - [https://www.bitesizedengineering.com](https://www.bitesizedengineering.com)
+ - date published: 2023-10-25T13:01:25.431101+00:00
+ - user: None
+ - tags: []
+
+## Posts - Bitestring's Blog
+ - [https://www.bitestring.com](https://www.bitestring.com)
+ - date published: 2023-10-25T13:01:29.920175+00:00
+ - user: None
+ - tags: []
+
+## Bitfield Consulting
+ - [https://bitfieldconsulting.com](https://bitfieldconsulting.com)
+ - date published: 2023-10-25T13:01:32.399061+00:00
+ - user: None
+ - tags: []
+
+## The Bitfinex Blog
+ - [https://blog.bitfinex.com](https://blog.bitfinex.com)
+ - date published: 2023-10-25T13:01:45.052470+00:00
+ - user: None
+ - tags: []
+
+## URL Shortener - Short URLs & Custom Free Link Shortener | Bitly
+ - [https://bitly.com](https://bitly.com)
+ - date published: 2023-12-18T07:04:23+00:00
+ - user: rumpel
+ - tags: ['link service']
+
+## Homepage | BitMEX Blog
+ - [https://blog.bitmex.com](https://blog.bitmex.com)
+ - date published: 2023-10-25T13:01:54.459156+00:00
+ - user: None
+ - tags: []
+
+## Bitnami Blog
+ - [https://blog.bitnami.com](https://blog.bitnami.com)
+ - date published: 2023-10-25T13:02:11.353143+00:00
+ - user: None
+ - tags: []
+
+## Matt Dunphy - bitrotten.com - Audio, Photo, Video
+ - [https://www.bitrotten.com](https://www.bitrotten.com)
+ - date published: 2023-10-25T08:45:06.636297+00:00
+ - user: None
+ - tags: ['personal']
+
+## Bits about Money by Patrick McKenzie (patio11)
+ - [https://www.bitsaboutmoney.com](https://www.bitsaboutmoney.com)
+ - date published: 2023-10-25T13:02:16.420283+00:00
+ - user: None
+ - tags: []
+
+## Bits in Flight
+ - [https://bitsinflight.com](https://bitsinflight.com)
+ - date published: 2023-12-21T03:31:11.484659+00:00
+ - user: None
+ - tags: ['personal']
+
 ## THE BITTER SOUTHERNER - Great Stories from the South
  - [https://bittersoutherner.com](https://bittersoutherner.com)
  - date published: 2023-12-06T23:57:44.319992+00:00
@@ -1789,6 +1849,12 @@
 ## Index
  - [https://brunoarine.com](https://brunoarine.com)
  - date published: 2023-11-29T19:26:48.375792+00:00
+ - user: None
+ - tags: ['personal']
+
+## Simone Brunozzi
+ - [http://brunozzi.com](http://brunozzi.com)
+ - date published: 2023-12-25T04:55:39.491476+00:00
  - user: None
  - tags: ['personal']
 
@@ -5842,6 +5908,12 @@
  - user: None
  - tags: ['personal']
 
+## Home
+ - [https://danleatherman.com](https://danleatherman.com)
+ - date published: 2023-12-25T04:55:46.876570+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Daniel Lebrero Berna Blog
  - [https://danlebrero.com](https://danlebrero.com)
  - date published: 2023-10-25T13:42:59.369073+00:00
@@ -5935,78 +6007,6 @@
 ## Dariusz Semba
  - [https://dariuszsemba.com](https://dariuszsemba.com)
  - date published: 2023-10-25T13:43:24.609905+00:00
- - user: None
- - tags: []
-
-## Dark Reading | Security | Protect The Business
- - [https://www.darkreading.com](https://www.darkreading.com)
- - date published: 2023-10-25T13:43:27.521358+00:00
- - user: None
- - tags: []
-
-## James Darpinian's blog | James Darpinian
- - [https://james.darpinian.com](https://james.darpinian.com)
- - date published: 2023-10-25T09:20:00.494541+00:00
- - user: None
- - tags: ['personal']
-
-## doodle:ai
- - [https://doodleai.darraghoriordan.com](https://doodleai.darraghoriordan.com)
- - date published: 2023-10-25T13:43:28.176592+00:00
- - user: None
- - tags: []
-
-## Data Science Project – Becoming a Data Scientist
- - [https://data-science-project.com](https://data-science-project.com)
- - date published: 2023-12-13T11:23:39.553811+00:00
- - user: None
- - tags: ['personal']
-
-## Free Online Database Diagram Tool
- - [https://databasediagram.com](https://databasediagram.com)
- - date published: 2023-10-25T13:43:28.543960+00:00
- - user: None
- - tags: []
-
-## Data Lakehouse Architecture and AI Company | Databricks
- - [https://www.databricks.com](https://www.databricks.com)
- - date published: 2023-10-25T13:43:30.770115+00:00
- - user: None
- - tags: []
-
-## Data center industry news, analysis and opinion - DCD
- - [https://www.datacenterdynamics.com](https://www.datacenterdynamics.com)
- - date published: 2023-10-25T09:32:36.241535+00:00
- - user: None
- - tags: []
-
-## Data Demythed
- - [https://datademythed.com](https://datademythed.com)
- - date published: 2023-10-25T13:43:38.710464+00:00
- - user: None
- - tags: []
-
-## DRUIDS by Datadog
- - [https://druids.datadoghq.com](https://druids.datadoghq.com)
- - date published: 2023-10-25T13:43:41.490095+00:00
- - user: None
- - tags: []
-
-## Home |  Datadog Security Labs
- - [https://securitylabs.datadoghq.com](https://securitylabs.datadoghq.com)
- - date published: 2023-10-25T13:43:42.783008+00:00
- - user: None
- - tags: []
-
-## Cloud Monitoring as a Service | Datadog
- - [https://www.datadoghq.com](https://www.datadoghq.com)
- - date published: 2023-10-25T13:43:54.515063+00:00
- - user: None
- - tags: []
-
-## Domain error
- - [https://www.datafantic.com](https://www.datafantic.com)
- - date published: 2023-10-25T13:44:02.296933+00:00
  - user: None
  - tags: []
 

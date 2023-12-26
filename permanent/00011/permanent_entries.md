@@ -1,3 +1,237 @@
+## Stanford CVA Group - Concurrent VLSI Architecture Group
+ - [http://cva.stanford.edu](http://cva.stanford.edu)
+ - date published: 2023-10-25T18:58:09.358599+00:00
+ - user: None
+ - tags: []
+
+## Cyber Policy Center | FSI
+ - [https://cyber.fsi.stanford.edu](https://cyber.fsi.stanford.edu)
+ - date published: 2023-10-25T18:58:18.772573+00:00
+ - user: None
+ - tags: []
+
+## Center for Internet and Society | The Center for Internet and Society is a leader in the study of the law & policy around the Internet & emerging technologies.
+ - [https://cyberlaw.stanford.edu](https://cyberlaw.stanford.edu)
+ - date published: 2023-10-25T18:58:20.662315+00:00
+ - user: None
+ - tags: []
+
+## Data Science
+ - [https://datascience.stanford.edu](https://datascience.stanford.edu)
+ - date published: 2023-11-12T13:46:11.993969+00:00
+ - user: None
+ - tags: []
+
+## Home | Stanford HAI
+ - [https://hai.stanford.edu](https://hai.stanford.edu)
+ - date published: 2023-10-25T18:58:24.324282+00:00
+ - user: None
+ - tags: []
+
+## Hazy Research
+ - [https://hazyresearch.stanford.edu](https://hazyresearch.stanford.edu)
+ - date published: 2023-10-25T18:58:25.276211+00:00
+ - user: None
+ - tags: []
+
+## Stanford HCI Group
+ - [https://hci.stanford.edu](https://hci.stanford.edu)
+ - date published: 2023-10-25T18:58:28.830172+00:00
+ - user: None
+ - tags: []
+
+## The Stanford University InfoLab
+ - [http://infolab.stanford.edu](http://infolab.stanford.edu)
+ - date published: 2023-10-25T11:23:23.038240+00:00
+ - user: None
+ - tags: []
+
+## Welcome to SLS - Stanford Law School
+ - [https://law.stanford.edu](https://law.stanford.edu)
+ - date published: 2023-10-25T18:58:32.350011+00:00
+ - user: None
+ - tags: []
+
+## Home | Learning for a Lifetime | Stanford Online
+ - [https://learn.stanford.edu](https://learn.stanford.edu)
+ - date published: 2023-12-06T21:05:55.624627+00:00
+ - user: None
+ - tags: []
+
+## Home | Stanford Medicine
+ - [https://med.stanford.edu](https://med.stanford.edu)
+ - date published: 2023-10-25T18:58:38.098796+00:00
+ - user: None
+ - tags: []
+
+## Stanford News
+ - [https://news.stanford.edu](https://news.stanford.edu)
+ - date published: 2023-10-25T18:58:41.013599+00:00
+ - user: None
+ - tags: []
+
+## Stanford Encyclopedia of Philosophy
+ - [https://plato.stanford.edu](https://plato.stanford.edu)
+ - date published: 2023-10-25T18:58:42.260186+00:00
+ - user: None
+ - tags: []
+
+## Protégé: A free, open-source ontology editor for building intelligent systems
+ - [https://protege.stanford.edu](https://protege.stanford.edu)
+ - date published: 2023-11-10T17:29:05+00:00
+ - user: None
+ - tags: []
+
+## Stanford Digital Repository
+ - [https://purl.stanford.edu](https://purl.stanford.edu)
+ - date published: 2023-12-20T21:10:16.425792+00:00
+ - user: None
+ - tags: []
+
+## RelBench: Relational Deep Learning Benchmark
+ - [https://relbench.stanford.edu](https://relbench.stanford.edu)
+ - date published: 2023-11-28T17:41:50.517585+00:00
+ - user: None
+ - tags: []
+
+## Sebastian Thrun – Home
+ - [http://robots.stanford.edu](http://robots.stanford.edu)
+ - date published: 2023-10-25T18:58:43.127336+00:00
+ - user: None
+ - tags: []
+
+## Scope | Stanford Medicine's blog - Scope
+ - [https://scopeblog.stanford.edu](https://scopeblog.stanford.edu)
+ - date published: 2023-10-25T18:58:46.447141+00:00
+ - user: None
+ - tags: []
+
+## Stacks
+ - [https://stacks.stanford.edu](https://stacks.stanford.edu)
+ - date published: 2023-10-25T18:58:47.620111+00:00
+ - user: None
+ - tags: []
+
+## Home - Stanford Medicine Magazine
+ - [https://stanmed.stanford.edu](https://stanmed.stanford.edu)
+ - date published: 2023-10-25T18:58:50.836757+00:00
+ - user: None
+ - tags: []
+
+## Stanford University
+ - [https://web.stanford.edu](https://web.stanford.edu)
+ - date published: 2023-10-25T11:23:29.593797+00:00
+ - user: None
+ - tags: ['university']
+
+## Computer Science
+ - [https://www-cs-faculty.stanford.edu](https://www-cs-faculty.stanford.edu)
+ - date published: 2023-10-25T11:23:38.340991+00:00
+ - user: None
+ - tags: []
+
+## Formal Reasoning Group
+ - [https://www-formal.stanford.edu](https://www-formal.stanford.edu)
+ - date published: 2023-10-25T18:59:01.363669+00:00
+ - user: None
+ - tags: []
+
+## Stanford Graduate School of Business
+ - [https://www.gsb.stanford.edu](https://www.gsb.stanford.edu)
+ - date published: 2023-10-25T18:59:13.500246+00:00
+ - user: None
+ - tags: []
+
+## Stanford Secure Computer Systems Group
+ - [https://www.scs.stanford.edu](https://www.scs.stanford.edu)
+ - date published: 2023-10-25T18:59:15.431486+00:00
+ - user: None
+ - tags: []
+
+## Stevens Institute of Technology
+ - [https://www.stevens.edu](https://www.stevens.edu)
+ - date published: 2023-11-02T13:02:30.527891+00:00
+ - user: None
+ - tags: []
+
+## Engineering People Site
+ - [https://people.engr.tamu.edu](https://people.engr.tamu.edu)
+ - date published: 2023-10-25T18:59:20.825012+00:00
+ - user: None
+ - tags: []
+
+## Texas A&M Today - News from Texas A&M University
+ - [https://today.tamu.edu](https://today.tamu.edu)
+ - date published: 2023-10-25T18:59:22.810212+00:00
+ - user: None
+ - tags: []
+
+## Open Earable
+ - [https://open-earable.teco.edu](https://open-earable.teco.edu)
+ - date published: 2023-10-25T18:59:23.641652+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer & Information Sciences | College of Science and Technology
+ - [https://cis.temple.edu](https://cis.temple.edu)
+ - date published: 2023-10-25T18:59:25.283156+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science, University of Toronto
+ - [https://www.cs.toronto.edu](https://www.cs.toronto.edu)
+ - date published: 2023-10-25T18:59:33.196200+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Department of Computer Science
+ - [https://www.cs.tufts.edu](https://www.cs.tufts.edu)
+ - date published: 2023-10-25T18:59:37.817720+00:00
+ - user: None
+ - tags: []
+
+## Tulane News
+ - [https://news.tulane.edu](https://news.tulane.edu)
+ - date published: 2023-10-25T18:59:42.065237+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.uc.edu](https://www.uc.edu)
+ - date published: 2023-11-03T10:54:50.239840+00:00
+ - user: None
+ - tags: []
+
+## UC Davis College of Letters and Science
+ - [https://lettersandscience.ucdavis.edu](https://lettersandscience.ucdavis.edu)
+ - date published: 2023-11-03T19:14:18.151008+00:00
+ - user: None
+ - tags: []
+
+## Computer Science
+ - [https://web.cs.ucdavis.edu](https://web.cs.ucdavis.edu)
+ - date published: 2023-10-25T18:59:47.853350+00:00
+ - user: None
+ - tags: []
+
+## UC Davis | California's College Town
+ - [https://www.ucdavis.edu](https://www.ucdavis.edu)
+ - date published: 2023-10-25T18:59:54.439947+00:00
+ - user: None
+ - tags: []
+
+## Becker Friedman Institute for Economics at University of Chicago — Frontier Research, Global Impact. | BFI
+ - [https://bfi.uchicago.edu](https://bfi.uchicago.edu)
+ - date published: 2023-10-25T18:59:59.078924+00:00
+ - user: None
+ - tags: []
+
+## Biological Sciences Division at the University of Chicago
+ - [https://biologicalsciences.uchicago.edu](https://biologicalsciences.uchicago.edu)
+ - date published: 2023-11-27T16:10:30.419743+00:00
+ - user: None
+ - tags: []
+
 ## Geophysical Sciences
  - [https://geosci.uchicago.edu](https://geosci.uchicago.edu)
  - date published: 2023-10-25T19:00:02.742597+00:00
@@ -322,6 +556,12 @@
  - user: None
  - tags: []
 
+## University of Northern Iowa
+ - [https://sites.uni.edu](https://sites.uni.edu)
+ - date published: 2023-12-25T04:34:00.754074+00:00
+ - user: None
+ - tags: []
+
 ## Current Map | U.S. Drought Monitor
  - [https://droughtmonitor.unl.edu](https://droughtmonitor.unl.edu)
  - date published: 2023-10-25T19:03:24.927997+00:00
@@ -337,6 +577,12 @@
 ## Russell T. Hurlburt home page
  - [https://hurlburt.faculty.unlv.edu](https://hurlburt.faculty.unlv.edu)
  - date published: 2023-10-25T19:03:40.322481+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [http://www.egr.unlv.edu](http://www.egr.unlv.edu)
+ - date published: 2023-12-25T01:13:24.774284+00:00
  - user: None
  - tags: []
 
@@ -1363,6 +1609,12 @@
 ## The Master and Margarita
  - [https://m.masterandmargarita.eu](https://m.masterandmargarita.eu)
  - date published: 2023-12-02T22:11:12.682928+00:00
+ - user: None
+ - tags: []
+
+## Advanced Electronic Projects
+ - [https://microengineer.eu](https://microengineer.eu)
+ - date published: 2023-12-25T20:06:44.466683+00:00
  - user: None
  - tags: []
 
@@ -5741,6 +5993,12 @@
  - user: None
  - tags: []
 
+## Ayo Ayco | Software Engineer, Web Developer, Consultant
+ - [https://ayco.io](https://ayco.io)
+ - date published: 2023-12-25T04:56:50.840416+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Babel · Babel
  - [https://babeljs.io](https://babeljs.io)
  - date published: 2023-10-25T19:38:04.462286+00:00
@@ -5752,262 +6010,4 @@
  - date published: 2023-10-25T19:38:08.774494+00:00
  - user: None
  - tags: []
-
-## The SQL Editor and Database Manager Of Your Dreams | Beekeeper Studio
- - [https://www.beekeeperstudio.io](https://www.beekeeperstudio.io)
- - date published: 2023-10-25T19:38:16.881595+00:00
- - user: None
- - tags: []
-
-## Ricard Bejarano – Site Reliability Engineer
- - [https://www.bejarano.io](https://www.bejarano.io)
- - date published: 2023-10-25T08:49:12.684001+00:00
- - user: None
- - tags: ['personal']
-
-## Ben Myers | Home
- - [https://benmyers.io](https://benmyers.io)
- - date published: 2023-11-29T17:10:03.166882+00:00
- - user: None
- - tags: ['personal']
-
-## Andrew Benton's Blog
- - [https://blog.benton.io](https://blog.benton.io)
- - date published: 2023-10-25T19:38:20.516581+00:00
- - user: None
- - tags: []
-
-## Beren's Blog
- - [https://www.beren.io](https://www.beren.io)
- - date published: 2023-10-25T08:49:13.643486+00:00
- - user: None
- - tags: ['personal']
-
-## Alexis Bernard
- - [https://alexis.bernard.io](https://alexis.bernard.io)
- - date published: 2023-10-25T19:38:27.013256+00:00
- - user: None
- - tags: []
-
-## https://bernert.io
- - [https://bernert.io](https://bernert.io)
- - date published: 2023-12-16T07:27:54.422121+00:00
- - user: None
- - tags: ['personal']
-
-## Hacker News Summary - by ChatGPT
- - [https://hackernews.betacat.io](https://hackernews.betacat.io)
- - date published: 2023-10-25T19:38:30.979928+00:00
- - user: None
- - tags: []
-
-## The BigPicture.io Blog
- - [https://blog.bigpicture.io](https://blog.bigpicture.io)
- - date published: 2023-10-25T19:38:32.903857+00:00
- - user: None
- - tags: []
-
-## The Inner Join
- - [https://innerjoin.bit.io](https://innerjoin.bit.io)
- - date published: 2023-10-25T19:38:36.310405+00:00
- - user: None
- - tags: []
-
-## Bit Bashing
- - [https://bitbashing.io](https://bitbashing.io)
- - date published: 2023-10-25T19:38:38.348088+00:00
- - user: None
- - tags: []
-
-## Mahesh Balakrishnan
- - [https://maheshba.bitbucket.io](https://maheshba.bitbucket.io)
- - date published: 2023-10-25T19:38:39.794842+00:00
- - user: None
- - tags: []
-
-## Home | bitmagnet
- - [https://bitmagnet.io](https://bitmagnet.io)
- - date published: 2023-10-25T19:38:40.683226+00:00
- - user: None
- - tags: []
-
-## MindPop
- - [https://mindpop.blankenship.io](https://mindpop.blankenship.io)
- - date published: 2023-10-25T19:38:41.879757+00:00
- - user: None
- - tags: []
-
-## WikiScroll
- - [https://wikiscroll.blankenship.io](https://wikiscroll.blankenship.io)
- - date published: 2023-10-25T19:38:42.548565+00:00
- - user: None
- - tags: []
-
-## Matt Blewitt
- - [https://matt.blwt.io](https://matt.blwt.io)
- - date published: 2023-10-25T19:38:43.360921+00:00
- - user: None
- - tags: []
-
-## booky.io | Online bookmark manager.
- - [https://booky.io](https://booky.io)
- - date published: 2023-11-26T16:45:14+00:00
- - user: rumpel
- - tags: ['bookmark manager']
-
-## Brad Woods' Digital Garden
- - [https://garden.bradwoods.io](https://garden.bradwoods.io)
- - date published: 2023-10-25T19:38:45.624360+00:00
- - user: None
- - tags: []
-
-## plus/minus epsilon
- - [https://blog.bren2010.io](https://blog.bren2010.io)
- - date published: 2023-10-25T19:38:47.226606+00:00
- - user: None
- - tags: []
-
-## Damien Brenelière's Blog
- - [https://www.brenel.io](https://www.brenel.io)
- - date published: 2023-12-09T14:59:45.290038+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Stephen Brennan
- - [https://brennan.io](https://brennan.io)
- - date published: 2023-12-09T10:38:32.840470+00:00
- - user: None
- - tags: ['personal']
-
-## https://bricolage.io
- - [https://bricolage.io](https://bricolage.io)
- - date published: 2023-10-25T09:22:00.295903+00:00
- - user: None
- - tags: ['personal']
-
-## Bug reporting for Next.js - Bugpilot
- - [https://www.bugpilot.io](https://www.bugpilot.io)
- - date published: 2023-10-25T19:38:50.347269+00:00
- - user: None
- - tags: []
-
-## Bazel at Enterprise Scale | BuildBuddy
- - [https://www.buildbuddy.io](https://www.buildbuddy.io)
- - date published: 2023-10-25T19:38:52.255059+00:00
- - user: None
- - tags: []
-
-## Framework reimagined for the edge! 📚 Qwik Documentation
- - [https://qwik.builder.io](https://qwik.builder.io)
- - date published: 2023-10-25T19:39:02.264388+00:00
- - user: None
- - tags: []
-
-## Builder.io: Drag & Drop Headless CMS
- - [https://www.builder.io](https://www.builder.io)
- - date published: 2023-11-10T17:59:53.727555+00:00
- - user: None
- - tags: []
-
-## Buttplug.io Documentation Site | buttplug.io
- - [https://stpihkal.docs.buttplug.io](https://stpihkal.docs.buttplug.io)
- - date published: 2023-10-25T19:39:09.612892+00:00
- - user: None
- - tags: []
-
-## Homepage – bytewax
- - [https://bytewax.io](https://bytewax.io)
- - date published: 2023-10-25T19:39:17.817255+00:00
- - user: None
- - tags: []
-
-## Code. Simply. Clearly. Calmly.
- - [https://calmcode.io](https://calmcode.io)
- - date published: 2023-10-25T19:39:22.006027+00:00
- - user: None
- - tags: []
-
-## Capillaries
- - [https://capillaries.io](https://capillaries.io)
- - date published: 2023-10-25T19:39:24.840675+00:00
- - user: None
- - tags: []
-
-## Career Fair - Level up your tech career
- - [https://www.careerfair.io](https://www.careerfair.io)
- - date published: 2023-10-25T19:39:29.525523+00:00
- - user: None
- - tags: []
-
-## CasaOS - A simple, easy-to-use, elegant open-source personal cloud system
- - [https://casaos.io](https://casaos.io)
- - date published: 2023-10-31T13:15:43.772223+00:00
- - user: None
- - tags: ['operating system']
-
-## Castle Game Engine - Free open-source cross-platform 3D 2D game engine with editor and powerful Pascal API
- - [https://castle-engine.io](https://castle-engine.io)
- - date published: 2023-10-25T19:39:32.258962+00:00
- - user: None
- - tags: []
-
-## Celso Martinho
- - [https://celso.io](https://celso.io)
- - date published: 2023-10-25T19:39:38.279176+00:00
- - user: None
- - tags: []
-
-## ramblings of 1lann
- - [https://blog.chuie.io](https://blog.chuie.io)
- - date published: 2023-10-25T19:39:39.618395+00:00
- - user: None
- - tags: []
-
-## CLA assistant
- - [https://cla-assistant.io](https://cla-assistant.io)
- - date published: 2023-10-25T19:39:40.964570+00:00
- - user: None
- - tags: []
-
-## cli-ck | Tips & Tools for Text Mode Lovers
- - [https://cli-ck.io](https://cli-ck.io)
- - date published: 2023-10-25T19:39:42.415952+00:00
- - user: None
- - tags: []
-
-## Show HN: Transform Notes into Visual Mind Maps
- - [https://www.cmaps.io](https://www.cmaps.io)
- - date published: 2023-11-28T10:09:39+00:00
- - user: None
- - tags: []
-
-## Cloud Native Computing Foundation
- - [https://www.cncf.io](https://www.cncf.io)
- - date published: 2023-10-25T19:39:58.852886+00:00
- - user: None
- - tags: []
-
-## Codecov - The Leading Code Coverage Solution
- - [https://about.codecov.io](https://about.codecov.io)
- - date published: 2023-10-25T19:40:02.327168+00:00
- - user: None
- - tags: []
-
-## The Software Pro's Best Kept Secret.
- - [https://codecrafters.io](https://codecrafters.io)
- - date published: 2023-11-27T08:09:12.355473+00:00
- - user: None
- - tags: []
-
-## Codefol.io, Latest Posts
- - [https://codefol.io](https://codefol.io)
- - date published: 2023-10-25T19:40:03.506530+00:00
- - user: None
- - tags: []
-
-## https://codepen.io/
- - [https://codepen.io](https://codepen.io)
- - date published: 2023-12-11T12:24:43+00:00
- - user: rumpel
- - tags: ['code sandbox']
 

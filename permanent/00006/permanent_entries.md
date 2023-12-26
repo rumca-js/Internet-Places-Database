@@ -1,3 +1,153 @@
+## Microsoft Learn: Build skills that open doors in your career
+ - [https://docs.microsoft.com](https://docs.microsoft.com)
+ - date published: 2023-10-25T11:30:47.045143+00:00
+ - user: None
+ - tags: []
+
+## Search Jobs | Microsoft Careers
+ - [https://jobs.careers.microsoft.com](https://jobs.careers.microsoft.com)
+ - date published: 2023-10-25T11:31:38.386584+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Learn: Build skills that open doors in your career
+ - [https://learn.microsoft.com](https://learn.microsoft.com)
+ - date published: 2023-10-25T11:30:34.619514+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Security Response Center
+ - [https://msrc.microsoft.com](https://msrc.microsoft.com)
+ - date published: 2023-10-25T11:31:41.607143+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Source
+ - [https://news.microsoft.com](https://news.microsoft.com)
+ - date published: 2023-10-25T10:52:37.879287+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Support
+ - [https://support.microsoft.com](https://support.microsoft.com)
+ - date published: 2023-10-25T16:03:34.137323+00:00
+ - user: None
+ - tags: []
+
+## checking your credentials..
+ - [https://teams.microsoft.com](https://teams.microsoft.com)
+ - date published: 2023-10-25T16:03:34.551273+00:00
+ - user: None
+ - tags: []
+
+## Home - Microsoft Community Hub
+ - [https://techcommunity.microsoft.com](https://techcommunity.microsoft.com)
+ - date published: 2023-10-25T10:52:42.152193+00:00
+ - user: None
+ - tags: []
+
+## Visual Studio: IDE and Code Editor for Software Developers and Teams
+ - [https://visualstudio.microsoft.com](https://visualstudio.microsoft.com)
+ - date published: 2023-11-03T20:33:06.635502+00:00
+ - user: None
+ - tags: ['ide', 'visual studio']
+
+## Microsoft – chmura, komputery, aplikacje i gry
+ - [https://www.microsoft.com](https://www.microsoft.com)
+ - date published: 2023-10-25T11:26:39.907068+00:00
+ - user: None
+ - tags: ['company', 'gatekeeper', 'edge']
+
+## Office Insiders
+ - [https://insider.microsoft365.com](https://insider.microsoft365.com)
+ - date published: 2023-11-01T08:42:38.686906+00:00
+ - user: None
+ - tags: []
+
+## Sign in to your account
+ - [https://login.microsoftonline.com](https://login.microsoftonline.com)
+ - date published: 2023-12-11T17:43:06.294391+00:00
+ - user: None
+ - tags: []
+
+## Middle East Monitor
+ - [https://www.middleeastmonitor.com](https://www.middleeastmonitor.com)
+ - date published: 2023-11-05T15:09:13.933802+00:00
+ - user: None
+ - tags: []
+
+## Hudson Valley News - Daily Breaking Stories | Mid Hudson News
+ - [https://midhudsonnews.com](https://midhudsonnews.com)
+ - date published: 2023-11-24T15:24:08.581764+00:00
+ - user: None
+ - tags: []
+
+## https://www.midjourney.com
+ - [https://www.midjourney.com](https://www.midjourney.com)
+ - date published: 2023-10-25T11:35:57.322285+00:00
+ - user: None
+ - tags: ['artificial intelligence']
+
+## Search for Music Using Your Voice by Singing or Humming, View Music Videos, Join Fan Clubs, Share with Friends, Be Discovered and Much More For Free! - midomi.com
+ - [https://www.midomi.com](https://www.midomi.com)
+ - date published: 2023-10-28T18:42:53.364247+00:00
+ - user: None
+ - tags: ['music']
+
+## MIT 24-Hour Challenge 2022 | MIT Annual Fund | Giving to MIT
+ - [https://mit24hourchallenge.mightycause.com](https://mit24hourchallenge.mightycause.com)
+ - date published: 2023-10-25T16:03:41.849852+00:00
+ - user: None
+ - tags: []
+
+## miguelgrinberg.com
+ - [https://blog.miguelgrinberg.com](https://blog.miguelgrinberg.com)
+ - date published: 2023-10-25T16:03:44.577554+00:00
+ - user: None
+ - tags: []
+
+## mike beauchamp : occasional doer of stuff and maker of things
+ - [http://mikebeauchamp.com](http://mikebeauchamp.com)
+ - date published: 2023-10-25T16:03:50.613706+00:00
+ - user: None
+ - tags: []
+
+## MK Productions
+ - [https://mikekilcoyne.com](https://mikekilcoyne.com)
+ - date published: 2023-11-29T16:19:57.698565+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mike McQuaid | Workbrew CTO and Homebrew Project Leader
+ - [https://mikemcquaid.com](https://mikemcquaid.com)
+ - date published: 2023-10-25T16:03:53.506426+00:00
+ - user: None
+ - tags: []
+
+## Home - Mike Oldfield Official
+ - [https://mikeoldfieldofficial.com](https://mikeoldfieldofficial.com)
+ - date published: 2023-11-13T10:45:13.768890+00:00
+ - user: None
+ - tags: ['music band']
+
+## Mike Paul
+ - [https://mikepaul.com](https://mikepaul.com)
+ - date published: 2023-12-22T22:30:57.160444+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mike Puchol – Medium
+ - [https://mikepuchol.com](https://mikepuchol.com)
+ - date published: 2023-10-25T16:03:56.379616+00:00
+ - user: None
+ - tags: []
+
+## I love computers
+ - [https://www.mikesteder.com](https://www.mikesteder.com)
+ - date published: 2023-10-25T16:03:58.740409+00:00
+ - user: None
+ - tags: []
+
 ## Mike Sukmanowsky's Personal Site
  - [https://www.mikesukmanowsky.com](https://www.mikesukmanowsky.com)
  - date published: 2023-10-25T16:03:59.932190+00:00
@@ -3843,6 +3993,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## https://www.oscarscampos.com
+ - [https://www.oscarscampos.com](https://www.oscarscampos.com)
+ - date published: 2023-12-25T04:55:51.274224+00:00
+ - user: None
+ - tags: ['personal']
+
 ## oschvr.com
  - [https://oschvr.com](https://oschvr.com)
  - date published: 2023-10-25T16:27:41.499435+00:00
@@ -5848,162 +6004,6 @@ Answering Machine Greetings!
 ## Porsche Open Source Platform
  - [https://opensource.porsche.com](https://opensource.porsche.com)
  - date published: 2023-11-12T21:17:02+00:00
- - user: None
- - tags: []
-
-## Official Porsche Website - Dr. Ing. h.c. F. Porsche AG
- - [https://www.porsche.com](https://www.porsche.com)
- - date published: 2023-11-01T08:55:25.017871+00:00
- - user: None
- - tags: ['company', 'car producer']
-
-## Portugal Resident - Portugal News and Lifestyle Newspaper in English
- - [https://www.portugalresident.com](https://www.portugalresident.com)
- - date published: 2023-10-25T16:37:59.726860+00:00
- - user: None
- - tags: []
-
-## Portugal. The Man Official Website
- - [https://www.portugaltheman.com](https://www.portugaltheman.com)
- - date published: 2023-11-04T01:47:27.168159+00:00
- - user: None
- - tags: []
-
-## poseycorp | executive coaching - poseycorp
- - [https://poseycorp.com](https://poseycorp.com)
- - date published: 2023-11-29T14:21:37.957905+00:00
- - user: None
- - tags: ['personal']
-
-## Positivity Stories - A Personal Development Blog
- - [https://positivitystories.com](https://positivitystories.com)
- - date published: 2023-11-29T14:22:38.445816+00:00
- - user: None
- - tags: ['personal']
-
-## Postadio - Share and Discover
- - [https://postadio.com](https://postadio.com)
- - date published: 2023-10-25T16:38:03.754934+00:00
- - user: None
- - tags: []
-
-## Postcard Bot
- - [https://postcardbot.com](https://postcardbot.com)
- - date published: 2023-10-25T16:38:04.939574+00:00
- - user: None
- - tags: []
-
-## Delicious Food for All from Post Consumer Brands
- - [https://www.postconsumerbrands.com](https://www.postconsumerbrands.com)
- - date published: 2023-10-25T16:38:08.460207+00:00
- - user: None
- - tags: []
-
-## Postgres Professional
- - [https://postgrespro.com](https://postgrespro.com)
- - date published: 2023-10-25T16:38:10.168246+00:00
- - user: None
- - tags: []
-
-## ed weissman
- - [https://edw519.posthaven.com](https://edw519.posthaven.com)
- - date published: 2023-10-25T16:38:17.586446+00:00
- - user: None
- - tags: []
-
-## Tracy writes
- - [https://tracy.posthaven.com](https://tracy.posthaven.com)
- - date published: 2023-10-25T16:38:18.774232+00:00
- - user: None
- - tags: []
-
-## Yuval Aizenman
- - [https://yuvalaizenman.posthaven.com](https://yuvalaizenman.posthaven.com)
- - date published: 2023-10-25T16:38:20.333134+00:00
- - user: None
- - tags: []
-
-## PostHog - The open source Product OS
- - [https://posthog.com](https://posthog.com)
- - date published: 2023-10-25T16:38:22.584209+00:00
- - user: None
- - tags: []
-
-## All Things API: News, Tutorials & More | Postman Blog
- - [https://blog.postman.com](https://blog.postman.com)
- - date published: 2023-10-25T16:38:32.815814+00:00
- - user: None
- - tags: []
-
-## Postman Community
- - [https://community.postman.com](https://community.postman.com)
- - date published: 2023-10-25T16:38:37.493449+00:00
- - user: None
- - tags: []
-
-## Postman API Platform
- - [https://www.postman.com](https://www.postman.com)
- - date published: 2023-10-25T16:38:38.220740+00:00
- - user: None
- - tags: []
-
-## Post-Match Team
- - [https://postmatchteam.com](https://postmatchteam.com)
- - date published: 2023-12-17T17:30:48.280093+00:00
- - user: None
- - tags: []
-
-## Netherlands Posts English
- - [https://netherlands.postsen.com](https://netherlands.postsen.com)
- - date published: 2023-10-25T16:38:40.708972+00:00
- - user: None
- - tags: []
-
-## PotHix
- - [https://pothix.com](https://pothix.com)
- - date published: 2023-12-08T09:38:14.623587+00:00
- - user: None
- - tags: ['personal']
-
-## Power Industry And Energy News | Power Engineering
- - [https://www.power-eng.com](https://www.power-eng.com)
- - date published: 2023-10-25T16:38:51.262181+00:00
- - user: None
- - tags: []
-
-## Power Technology | News on Renewable, Nuclear, Fossil, Technology, Market Data
- - [https://www.power-technology.com](https://www.power-technology.com)
- - date published: 2023-10-25T16:38:54.438081+00:00
- - user: None
- - tags: []
-
-## mailman.powerdns.com Mailing Lists
- - [https://mailman.powerdns.com](https://mailman.powerdns.com)
- - date published: 2023-11-01T08:42:56.060079+00:00
- - user: None
- - tags: []
-
-## Powerglove | Video Game and TV Theme Speed Metal Band!
- - [https://www.powergloveband.com](https://www.powergloveband.com)
- - date published: 2023-11-13T11:20:05.304896+00:00
- - user: None
- - tags: ['music band']
-
-## POWER Magazine :: Power generation news and jobs in coal, gas, nuclear, renewables
- - [https://www.powermag.com](https://www.powermag.com)
- - date published: 2023-12-20T20:45:05.389832+00:00
- - user: None
- - tags: []
-
-## Prabros. - Maker Duo
- - [https://prabros.com](https://prabros.com)
- - date published: 2023-10-25T16:38:55.357789+00:00
- - user: None
- - tags: []
-
-## Practical betterments
- - [https://practicalbetterments.com](https://practicalbetterments.com)
- - date published: 2023-11-06T16:16:52.692314+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,321 @@
+## Rectify11
+ - [https://rectify11.net](https://rectify11.net)
+ - date published: 2023-10-25T20:36:27.642981+00:00
+ - user: None
+ - tags: []
+
+## ResearchGate | Find and share research
+ - [https://www.researchgate.net](https://www.researchgate.net)
+ - date published: 2023-10-25T20:36:28.828728+00:00
+ - user: None
+ - tags: []
+
+## Resource Packs for Minecraft | Texture Packs
+ - [https://resourcepack.net](https://resourcepack.net)
+ - date published: 2023-10-25T11:51:12.727536+00:00
+ - user: None
+ - tags: []
+
+## RetroAge – bo stare gry są lepsze
+ - [https://retroage.net](https://retroage.net)
+ - date published: 2023-12-13T15:18:43.530964+00:00
+ - user: None
+ - tags: ['retro games', 'video games']
+
+## Retrocoding - Old Things, New Way.
+ - [https://retrocoding.net](https://retrocoding.net)
+ - date published: 2023-10-25T20:36:30.258317+00:00
+ - user: None
+ - tags: []
+
+## RGBWatermark
+ - [https://rgbwatermark.net](https://rgbwatermark.net)
+ - date published: 2023-10-25T20:36:30.876713+00:00
+ - user: None
+ - tags: []
+
+## Ring Game Web Site (official)
+ - [https://www.ringgame.net](https://www.ringgame.net)
+ - date published: 2023-10-25T20:36:32.152189+00:00
+ - user: None
+ - tags: []
+
+## Home | RIPE Labs
+ - [https://labs.ripe.net](https://labs.ripe.net)
+ - date published: 2023-10-25T20:36:34.219036+00:00
+ - user: None
+ - tags: []
+
+## Risk.net - Financial Risk Management News Analysis
+ - [https://www.risk.net](https://www.risk.net)
+ - date published: 2023-10-25T20:36:37.096892+00:00
+ - user: None
+ - tags: []
+
+## https://rob-turner.net
+ - [https://rob-turner.net](https://rob-turner.net)
+ - date published: 2023-10-25T20:36:37.784334+00:00
+ - user: None
+ - tags: []
+
+## Roll20 - Virtual Tabletop for Playing D&D, Pathfinder, Call of Cthulhu, TTRPGs
+ - [https://roll20.net](https://roll20.net)
+ - date published: 2023-10-27T10:36:02.865844+00:00
+ - user: None
+ - tags: ['tabletop games']
+
+## Ron Cobb - Home
+ - [https://roncobb.net](https://roncobb.net)
+ - date published: 2023-10-25T08:53:46.152301+00:00
+ - user: None
+ - tags: ['personal']
+
+## David Röthlisberger
+ - [https://david.rothlis.net](https://david.rothlis.net)
+ - date published: 2023-10-25T20:36:38.418299+00:00
+ - user: None
+ - tags: []
+
+## · roytang.net
+ - [https://roytang.net](https://roytang.net)
+ - date published: 2023-12-20T11:46:31.779066+00:00
+ - user: None
+ - tags: ['personal']
+
+## RPCS3 - The PlayStation 3 Emulator
+ - [https://rpcs3.net](https://rpcs3.net)
+ - date published: 2023-10-25T08:36:13.685764+00:00
+ - user: None
+ - tags: ['emulator']
+
+## Welcome!: rpdillon.net — Rick's Home Online
+ - [https://rpdillon.net](https://rpdillon.net)
+ - date published: 2023-10-25T20:36:39.545073+00:00
+ - user: None
+ - tags: []
+
+## RPGnet Forums
+ - [https://forum.rpg.net](https://forum.rpg.net)
+ - date published: 2023-11-01T19:31:34.668013+00:00
+ - user: None
+ - tags: ['role playing games']
+
+## RPG Site
+ - [https://www.rpgsite.net](https://www.rpgsite.net)
+ - date published: 2023-10-25T20:36:41.173422+00:00
+ - user: None
+ - tags: []
+
+## Cloud Storage for Offsite Backup
+ - [https://www.rsync.net](https://www.rsync.net)
+ - date published: 2023-10-25T20:36:42.666671+00:00
+ - user: None
+ - tags: []
+
+## https://www.rudaw.net
+ - [https://www.rudaw.net](https://www.rudaw.net)
+ - date published: 2023-12-25T23:52:35.031209+00:00
+ - user: None
+ - tags: []
+
+## Ryan's Corner | Ryan Blakeley | Substack
+ - [https://ryanblakeley.net](https://ryanblakeley.net)
+ - date published: 2023-10-25T10:08:35.676878+00:00
+ - user: None
+ - tags: ['substack']
+
+## Said van de Klundert - Words on things
+ - [https://saidvandeklundert.net](https://saidvandeklundert.net)
+ - date published: 2023-10-25T20:36:43.888896+00:00
+ - user: None
+ - tags: []
+
+## Sami Salkosuo
+ - [https://www.salkosuo.net](https://www.salkosuo.net)
+ - date published: 2023-10-25T08:53:48.122140+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sam Curry - Web Application Security Researcher
+ - [https://samcurry.net](https://samcurry.net)
+ - date published: 2023-10-25T20:36:44.539361+00:00
+ - user: None
+ - tags: []
+
+## Sami Lehtinen
+ - [https://www.sami-lehtinen.net](https://www.sami-lehtinen.net)
+ - date published: 2023-10-25T08:53:50.161813+00:00
+ - user: None
+ - tags: ['personal']
+
+## www.satchell.net Index
+ - [https://www.satchell.net](https://www.satchell.net)
+ - date published: 2023-10-25T20:36:45.679413+00:00
+ - user: None
+ - tags: []
+
+## Jamie Brandon
+ - [https://www.scattered-thoughts.net](https://www.scattered-thoughts.net)
+ - date published: 2023-10-25T08:53:57.855626+00:00
+ - user: None
+ - tags: ['personal']
+
+## Schedium
+ - [https://www.schedium.net](https://www.schedium.net)
+ - date published: 2023-10-25T20:36:53.225004+00:00
+ - user: None
+ - tags: []
+
+## Scope of Work
+ - [https://www.scopeofwork.net](https://www.scopeofwork.net)
+ - date published: 2023-10-25T20:36:54.662120+00:00
+ - user: None
+ - tags: []
+
+## scottnesbitt.net
+ - [https://scottnesbitt.net](https://scottnesbitt.net)
+ - date published: 2023-11-29T18:20:55.928886+00:00
+ - user: None
+ - tags: ['personal']
+
+## ScreenGeek
+ - [https://www.screengeek.net](https://www.screengeek.net)
+ - date published: 2023-10-25T10:17:57.016680+00:00
+ - user: None
+ - tags: []
+
+## Software Engineering Radio
+ - [https://www.se-radio.net](https://www.se-radio.net)
+ - date published: 2023-10-25T20:36:59.929374+00:00
+ - user: None
+ - tags: []
+
+## Blog for searchmysite.net
+ - [https://blog.searchmysite.net](https://blog.searchmysite.net)
+ - date published: 2023-10-25T20:37:01.552823+00:00
+ - user: None
+ - tags: []
+
+## Search My Site - Open source search engine and search as a service for personal and independent websites
+ - [https://searchmysite.net](https://searchmysite.net)
+ - date published: 2023-10-25T08:53:58.774335+00:00
+ - user: None
+ - tags: ['personal', 'blog']
+
+## Coming Soon
+ - [https://sg2plcpnl0010.prod.sin2.secureserver.net](https://sg2plcpnl0010.prod.sin2.secureserver.net)
+ - date published: 2023-12-11T17:42:51.665533+00:00
+ - user: None
+ - tags: []
+
+## seebs.net
+ - [https://www.seebs.net](https://www.seebs.net)
+ - date published: 2023-10-25T20:37:02.387998+00:00
+ - user: None
+ - tags: []
+
+## Senko Rašić
+ - [https://blog.senko.net](https://blog.senko.net)
+ - date published: 2023-10-25T20:37:05.334158+00:00
+ - user: None
+ - tags: []
+
+## Sensebridge - making the invisible visible
+ - [https://sensebridge.net](https://sensebridge.net)
+ - date published: 2023-10-25T20:37:12.716842+00:00
+ - user: None
+ - tags: []
+
+## ServiceStack - ServiceStack
+ - [https://servicestack.net](https://servicestack.net)
+ - date published: 2023-10-25T20:37:15.489114+00:00
+ - user: None
+ - tags: []
+
+## website
+ - [https://sethops1.net](https://sethops1.net)
+ - date published: 2023-10-25T20:37:16.230243+00:00
+ - user: None
+ - tags: []
+
+## Syonyk's Project Blog
+ - [https://www.sevarg.net](https://www.sevarg.net)
+ - date published: 2023-10-25T20:37:17.657263+00:00
+ - user: None
+ - tags: []
+
+## Seximal is objectively the best way to represent numbers
+ - [https://www.seximal.net](https://www.seximal.net)
+ - date published: 2023-12-17T00:40:28+00:00
+ - user: None
+ - tags: []
+
+## Street Fighter Galleries
+ - [https://sfgalleries.net](https://sfgalleries.net)
+ - date published: 2023-11-01T08:44:05.828730+00:00
+ - user: None
+ - tags: []
+
+## Florian Obser
+ - [https://sha256.net](https://sha256.net)
+ - date published: 2023-10-25T20:37:18.441779+00:00
+ - user: None
+ - tags: []
+
+## Shareaholic
+ - [https://cdn.shareaholic.net](https://cdn.shareaholic.net)
+ - date published: 2023-12-11T16:52:12.963709+00:00
+ - user: None
+ - tags: []
+
+## Script
+ - [https://sharpscript.net](https://sharpscript.net)
+ - date published: 2023-10-25T20:37:20.303154+00:00
+ - user: None
+ - tags: []
+
+## Shellcheck finds bugs in your shell scripts
+ - [https://www.shellcheck.net](https://www.shellcheck.net)
+ - date published: 2023-11-23T19:16:08+00:00
+ - user: None
+ - tags: []
+
+## Shiftall Inc.
+ - [https://en.shiftall.net](https://en.shiftall.net)
+ - date published: 2023-12-20T20:34:36+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
+
+## Sia
+ - [https://www.siamusic.net](https://www.siamusic.net)
+ - date published: 2023-11-13T09:53:58.683069+00:00
+ - user: None
+ - tags: ['music band']
+
+## Silent Lunch, The David Zweig Newsletter | Substack
+ - [https://www.silentlunch.net](https://www.silentlunch.net)
+ - date published: 2023-10-25T20:37:30.571541+00:00
+ - user: None
+ - tags: []
+
+## Simon Duff – Big Data Specialist
+ - [https://simonduff.net](https://simonduff.net)
+ - date published: 2023-12-02T10:26:37.230407+00:00
+ - user: None
+ - tags: ['personal']
+
+## Simon Ong | Architect – Architect. Filipino. Awesome.
+ - [https://simonong.net](https://simonong.net)
+ - date published: 2023-12-03T23:31:04.542735+00:00
+ - user: None
+ - tags: ['personal']
+
+## Simon Willison’s Weblog
+ - [https://simonwillison.net](https://simonwillison.net)
+ - date published: 2023-10-25T08:41:17.781731+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Simon Willison: TIL
  - [https://til.simonwillison.net](https://til.simonwillison.net)
  - date published: 2023-10-25T09:23:30.769942+00:00
@@ -547,6 +865,12 @@
 ## twiddling∧bits
  - [https://twiddlingbits.net](https://twiddlingbits.net)
  - date published: 2023-10-25T20:39:33.101821+00:00
+ - user: None
+ - tags: []
+
+## Codrops
+ - [https://tympanus.net](https://tympanus.net)
+ - date published: 2023-12-25T17:41:41.252417+00:00
  - user: None
  - tags: []
 
@@ -2084,6 +2408,12 @@ marginalia.nu
 ## Rik Lewis
  - [https://www.rik.onl](https://www.rik.onl)
  - date published: 2023-12-03T23:31:31.330248+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rebecca Owen
+ - [https://beccais.online](https://beccais.online)
+ - date published: 2023-12-25T17:17:34.309163+00:00
  - user: None
  - tags: ['personal']
 
@@ -3808,6 +4138,12 @@ marginalia.nu
  - date published: 2023-10-24T20:19:39.194067+00:00
  - user: None
  - tags: ['tutorial']
+
+## Home - Literature
+ - [https://literature.britishcouncil.org](https://literature.britishcouncil.org)
+ - date published: 2023-12-25T09:02:52.886788+00:00
+ - user: None
+ - tags: []
 
 ## British Ecological Society
  - [https://www.britishecologicalsociety.org](https://www.britishecologicalsociety.org)
@@ -5671,340 +6007,4 @@ marginalia.nu
  - date published: 2023-10-25T08:33:41.083763+00:00
  - user: None
  - tags: ['emulation']
-
-## Centre for Research on Energy and Clean Air
- - [https://energyandcleanair.org](https://energyandcleanair.org)
- - date published: 2023-10-25T21:17:56.401220+00:00
- - user: None
- - tags: []
-
-## Home - Enhanced Games. A Better Version of the Olympic Games.
- - [https://enhanced.org](https://enhanced.org)
- - date published: 2023-10-27T12:06:37.342704+00:00
- - user: None
- - tags: []
-
-## Enlightenment Main
- - [https://www.enlightenment.org](https://www.enlightenment.org)
- - date published: 2023-12-24T13:03:54.895999+00:00
- - user: None
- - tags: []
-
-## Entomology Today - Brought to you by the Entomological Society of America
- - [https://entomologytoday.org](https://entomologytoday.org)
- - date published: 2023-10-25T21:18:01.981972+00:00
- - user: None
- - tags: []
-
-## Home - Environment America
- - [https://environmentamerica.org](https://environmentamerica.org)
- - date published: 2023-10-25T21:18:06.610672+00:00
- - user: None
- - tags: []
-
-## EN World Tabletop RPG News & Reviews | EN World Tabletop RPG News & Reviews
- - [https://www.enworld.org](https://www.enworld.org)
- - date published: 2023-10-25T21:18:11.096732+00:00
- - user: None
- - tags: []
-
-## Encyclopedia of Life
- - [https://eol.org](https://eol.org)
- - date published: 2023-10-25T21:18:13.102746+00:00
- - user: None
- - tags: []
-
-## Homepage - Eos
- - [https://eos.org](https://eos.org)
- - date published: 2023-10-25T21:18:16.991699+00:00
- - user: None
- - tags: []
-
-## EPForums
- - [https://www.epforums.org](https://www.epforums.org)
- - date published: 2023-12-13T15:18:58.014396+00:00
- - user: None
- - tags: ['roms', 'emulation']
-
-## Economic Policy Institute | Research and Ideas for Shared Prosperity
- - [https://www.epi.org](https://www.epi.org)
- - date published: 2023-10-25T21:18:19.591674+00:00
- - user: None
- - tags: []
-
-## EPIC – Electronic Privacy Information Center
- - [https://epic.org](https://epic.org)
- - date published: 2023-10-25T11:25:29.729478+00:00
- - user: None
- - tags: []
-
-## Epoch
- - [https://epochai.org](https://epochai.org)
- - date published: 2023-10-25T21:18:20.910858+00:00
- - user: None
- - tags: []
-
-## September 2023 | Epoché Magazine
- - [https://epochemagazine.org](https://epochemagazine.org)
- - date published: 2023-10-25T21:18:22.655480+00:00
- - user: None
- - tags: []
-
-## Thib's Home
- - [https://ergaster.org](https://ergaster.org)
- - date published: 2023-10-25T21:18:23.232043+00:00
- - user: None
- - tags: []
-
-## Technology & Marketing Law Blog -
- - [https://blog.ericgoldman.org](https://blog.ericgoldman.org)
- - date published: 2023-10-25T21:18:25.753223+00:00
- - user: None
- - tags: []
-
-## Index - Erlang/OTP
- - [https://erlang.org](https://erlang.org)
- - date published: 2023-10-25T08:35:13.923538+00:00
- - user: None
- - tags: []
-
-## Index - Erlang/OTP
- - [https://www.erlang.org](https://www.erlang.org)
- - date published: 2023-10-25T21:18:27.346511+00:00
- - user: None
- - tags: ['erland', 'programing language']
-
-## ESA/Webb
- - [https://esawebb.org](https://esawebb.org)
- - date published: 2023-10-25T21:18:30.193112+00:00
- - user: None
- - tags: []
-
-## European Society of Cardiology
- - [https://www.escardio.org](https://www.escardio.org)
- - date published: 2023-10-25T21:18:40.217871+00:00
- - user: None
- - tags: []
-
-## Find and fix problems in your JavaScript code - ESLint - Pluggable JavaScript Linter
- - [https://eslint.org](https://eslint.org)
- - date published: 2023-11-08T22:30:36.330572+00:00
- - user: None
- - tags: []
-
-## ESO
- - [https://www.eso.org](https://www.eso.org)
- - date published: 2023-10-25T21:19:17.326149+00:00
- - user: None
- - tags: []
-
-## Esolang, the esoteric programming languages wiki
- - [https://esolangs.org](https://esolangs.org)
- - date published: 2023-10-25T21:19:19.044717+00:00
- - user: None
- - tags: []
-
-## KZG Summoning Ceremony
- - [https://ceremony.ethereum.org](https://ceremony.ethereum.org)
- - date published: 2023-10-25T21:19:21.268688+00:00
- - user: None
- - tags: []
-
-## Home | ethereum.org
- - [https://ethereum.org](https://ethereum.org)
- - date published: 2023-10-29T15:14:03.641830+00:00
- - user: None
- - tags: ['crypto']
-
-## Digital Freedom now - Swarm
- - [https://www.ethswarm.org](https://www.ethswarm.org)
- - date published: 2023-10-25T21:19:23.703832+00:00
- - user: None
- - tags: []
-
-## Engineering and Technology History Wiki
- - [https://ethw.org](https://ethw.org)
- - date published: 2023-10-25T21:19:26.800170+00:00
- - user: None
- - tags: []
-
-## https://caaspp-elpac.ets.org
- - [https://caaspp-elpac.ets.org](https://caaspp-elpac.ets.org)
- - date published: 2023-10-25T21:19:28.296308+00:00
- - user: None
- - tags: []
-
-## About
- - [https://kapouay.eu.org](https://kapouay.eu.org)
- - date published: 2023-10-25T08:54:36.343299+00:00
- - user: None
- - tags: ['personal']
-
-## SVMetaSearch
- - [https://svmetasearch.eu.org](https://svmetasearch.eu.org)
- - date published: 2023-10-25T08:29:26.848505+00:00
- - user: None
- - tags: []
-
-## Zola's WebPage
- - [https://znano.eu.org](https://znano.eu.org)
- - date published: 2023-10-25T21:19:29.918186+00:00
- - user: None
- - tags: []
-
-## EurekAlert! Science News Releases
- - [https://www.eurekalert.org](https://www.eurekalert.org)
- - date published: 2023-10-25T10:12:01.542063+00:00
- - user: None
- - tags: []
-
-## European Lisp Symposium
- - [https://www.european-lisp-symposium.org](https://www.european-lisp-symposium.org)
- - date published: 2023-10-25T21:19:31.534165+00:00
- - user: None
- - tags: []
-
-## Eurosurveillance
- - [https://www.eurosurveillance.org](https://www.eurosurveillance.org)
- - date published: 2023-11-24T19:04:26.701922+00:00
- - user: None
- - tags: ['epidemiology', 'diseases']
-
-## Hi, I'm Aditya Athalye.
- - [https://www.evalapply.org](https://www.evalapply.org)
- - date published: 2023-10-25T21:19:33.111462+00:00
- - user: None
- - tags: []
-
-## Home Page of Evan Miller
- - [https://www.evanmiller.org](https://www.evanmiller.org)
- - date published: 2023-10-25T21:19:35.240645+00:00
- - user: None
- - tags: []
-
-## Environmental Working Group – EWG’s Holiday Gift Box: Sustainable Swaps | Environmental Working Group
- - [https://www.ewg.org](https://www.ewg.org)
- - date published: 2023-11-07T20:37:47.472532+00:00
- - user: None
- - tags: []
-
-## Ex Astris Scientia - Bernd Schneider's Star Trek Site
- - [https://www.ex-astris-scientia.org](https://www.ex-astris-scientia.org)
- - date published: 2023-10-25T21:19:36.786033+00:00
- - user: None
- - tags: []
-
-## Exercism
- - [https://exercism.org](https://exercism.org)
- - date published: 2023-10-25T21:19:39.464087+00:00
- - user: None
- - tags: []
-
-## ExifTool by Phil Harvey
- - [https://exiftool.org](https://exiftool.org)
- - date published: 2023-10-25T21:19:45.814769+00:00
- - user: None
- - tags: []
-
-## Explore.org
- - [https://explore.org](https://explore.org)
- - date published: 2023-10-25T21:19:47.761417+00:00
- - user: None
- - tags: []
-
-## EXP TV
- - [https://exptv.org](https://exptv.org)
- - date published: 2023-10-25T21:19:50.136672+00:00
- - user: None
- - tags: []
-
-## Extism - make all software programmable. Extend from within. | Extism - make all software programmable. Extend from within.
- - [https://extism.org](https://extism.org)
- - date published: 2023-10-25T21:19:54.073061+00:00
- - user: None
- - tags: []
-
-## F-Droid - Free and Open Source Android App Repository
- - [https://f-droid.org](https://f-droid.org)
- - date published: 2023-10-24T20:10:50.007548+00:00
- - user: None
- - tags: ['open source', 'app store']
-
-## F4PGA - the GCC of FPGAs
- - [https://f4pga.org](https://f4pga.org)
- - date published: 2023-10-25T21:19:57.352430+00:00
- - user: None
- - tags: []
-
-## Re: Factor
- - [https://re.factorcode.org](https://re.factorcode.org)
- - date published: 2023-11-11T04:10:27.144245+00:00
- - user: None
- - tags: []
-
-## 403 Forbidden
- - [https://fair.org](https://fair.org)
- - date published: 2023-10-25T21:19:59.248745+00:00
- - user: None
- - tags: []
-
-## Fair Trials | Fairness, equality, justice
- - [https://www.fairtrials.org](https://www.fairtrials.org)
- - date published: 2023-10-25T21:20:03.100788+00:00
- - user: None
- - tags: []
-
-## Falco
- - [https://falco.org](https://falco.org)
- - date published: 2023-10-25T21:20:05.441013+00:00
- - user: None
- - tags: []
-
-## Fanlore
- - [https://fanlore.org](https://fanlore.org)
- - date published: 2023-10-25T13:58:14.775906+00:00
- - user: None
- - tags: []
-
-## Home - Federation of American Scientists
- - [https://fas.org](https://fas.org)
- - date published: 2023-10-25T21:20:09.087511+00:00
- - user: None
- - tags: []
-
-## FAS Project on Government Secrecy (1991-2021)
- - [https://sgp.fas.org](https://sgp.fas.org)
- - date published: 2023-10-25T21:20:11.503363+00:00
- - user: None
- - tags: []
-
-## Fe - A next generation, statically typed, future-proof smart contract language for the Ethereum Virtual Machine
- - [https://fe-lang.org](https://fe-lang.org)
- - date published: 2023-10-25T21:20:12.316273+00:00
- - user: None
- - tags: []
-
-## Home | Federal Reserve History
- - [https://www.federalreservehistory.org](https://www.federalreservehistory.org)
- - date published: 2023-10-25T21:20:14.023107+00:00
- - user: None
- - tags: []
-
-## FediScience.org
- - [https://fediscience.org](https://fediscience.org)
- - date published: 2023-10-25T21:20:14.575500+00:00
- - user: None
- - tags: []
-
-## Fedora Magazine - Guides, information, and news about the Fedora operating system for users, developers, system administrators, and community members.
- - [https://fedoramagazine.org](https://fedoramagazine.org)
- - date published: 2023-10-25T21:20:17.331969+00:00
- - user: None
- - tags: []
-
-## Fedora Updates System
- - [https://bodhi.fedoraproject.org](https://bodhi.fedoraproject.org)
- - date published: 2023-10-25T21:20:23.751445+00:00
- - user: None
- - tags: []
 

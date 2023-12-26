@@ -1,3 +1,99 @@
+## Gaurang Tandon
+ - [https://gaurangtandon.com](https://gaurangtandon.com)
+ - date published: 2023-11-01T08:42:09.254638+00:00
+ - user: None
+ - tags: []
+
+## Gautam Narula
+ - [https://www.gautamnarula.com](https://www.gautamnarula.com)
+ - date published: 2023-11-29T16:20:08.747690+00:00
+ - user: None
+ - tags: ['personal']
+
+## Gauthier Roussilhe
+ - [https://gauthierroussilhe.com](https://gauthierroussilhe.com)
+ - date published: 2023-12-11T16:12:10.777950+00:00
+ - user: None
+ - tags: []
+
+## Gavin D. Howard
+ - [https://gavinhoward.com](https://gavinhoward.com)
+ - date published: 2023-10-25T14:42:07.699227+00:00
+ - user: None
+ - tags: []
+
+## Gawker
+ - [https://www.gawker.com](https://www.gawker.com)
+ - date published: 2023-10-25T14:42:10.336138+00:00
+ - user: None
+ - tags: []
+
+## gazette.com
+ - [https://gazette.com](https://gazette.com)
+ - date published: 2023-12-07T22:20:50.347259+00:00
+ - user: None
+ - tags: []
+
+## Peoples Gazette - Truth, Courage or Nothing...
+ - [https://gazettengr.com](https://gazettengr.com)
+ - date published: 2023-10-25T14:42:16.982105+00:00
+ - user: None
+ - tags: []
+
+## GB64.COM - C64 Games, Database, Music, Emulation, Frontends, Reviews and Articles
+ - [https://www.gb64.com](https://www.gb64.com)
+ - date published: 2023-12-13T15:11:42.180503+00:00
+ - user: None
+ - tags: ['rom', 'emulation', 'commodore']
+
+## GBurghoorn
+ - [https://gburghoorn.com](https://gburghoorn.com)
+ - date published: 2023-10-25T08:45:50.786825+00:00
+ - user: None
+ - tags: ['personal']
+
+## gCaptain – Maritime News
+ - [https://gcaptain.com](https://gcaptain.com)
+ - date published: 2023-10-25T14:42:22.481020+00:00
+ - user: None
+ - tags: []
+
+## Historic Stock Lookup | Microsoft Corporation
+ - [https://microsoft.gcs-web.com](https://microsoft.gcs-web.com)
+ - date published: 2023-10-25T14:42:23.906807+00:00
+ - user: None
+ - tags: []
+
+## Pages (iframe) | Qualtrics
+ - [https://qualtrics.gcs-web.com](https://qualtrics.gcs-web.com)
+ - date published: 2023-10-25T14:42:24.720200+00:00
+ - user: None
+ - tags: []
+
+## The Next Generation and Future of GE | General Electric
+ - [https://www.ge.com](https://www.ge.com)
+ - date published: 2023-11-08T11:28:22.739493+00:00
+ - user: None
+ - tags: ['avionics', 'corporation']
+
+## gearnews.com
+ - [https://www.gearnews.com](https://www.gearnews.com)
+ - date published: 2023-11-29T21:06:02.136723+00:00
+ - user: None
+ - tags: ['audio equipment', 'audio news']
+
+## Gearrice - Explore the Tech World
+ - [https://www.gearrice.com](https://www.gearrice.com)
+ - date published: 2023-10-25T14:42:28.981386+00:00
+ - user: None
+ - tags: []
+
+## Gear Solutions Magazine Your Resource to the Gear Industry | Advertise and reach a broad-base audience of gear industry professionals and buyers with Gear Solutions magazine — the complete online resource for the gear industry. Media kit available at Gear Solutions.
+ - [https://gearsolutions.com](https://gearsolutions.com)
+ - date published: 2023-10-25T14:42:36.223188+00:00
+ - user: None
+ - tags: []
+
 ## Gearspace.com - Gearspace.com - The No. 1 Website for Pro Audio
  - [https://gearspace.com](https://gearspace.com)
  - date published: 2023-10-26T14:06:10.928654+00:00
@@ -184,6 +280,12 @@
  - date published: 2023-10-25T14:43:13.625341+00:00
  - user: None
  - tags: []
+
+## hans.gerwitz.com
+ - [https://hans.gerwitz.com](https://hans.gerwitz.com)
+ - date published: 2023-12-25T17:18:07.484004+00:00
+ - user: None
+ - tags: ['personal']
 
 ## The Merit Blog
  - [https://blog.get-merit.com](https://blog.get-merit.com)
@@ -3033,6 +3135,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: ['personal']
 
+## Hosna Qasmei
+ - [https://www.hosnaqasmei.com](https://www.hosnaqasmei.com)
+ - date published: 2023-12-25T04:56:19.882409+00:00
+ - user: None
+ - tags: ['personal']
+
 ## HotAir – Politics, Culture, Media, Breaking News from a conservative viewpoint
  - [https://hotair.com](https://hotair.com)
  - date published: 2023-10-25T15:00:54.228255+00:00
@@ -3434,6 +3542,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-25T15:16:29.797041+00:00
  - user: None
  - tags: []
+
+## Blog
+ - [https://iamzain.com](https://iamzain.com)
+ - date published: 2023-12-25T22:12:11.739026+00:00
+ - user: None
+ - tags: ['personal']
 
 ## The Ruffian | Ian Leslie | Substack
  - [https://www.ian-leslie.com](https://www.ian-leslie.com)
@@ -5888,118 +6002,4 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-25T15:31:08.960393+00:00
  - user: None
  - tags: []
-
-## WordPress Membership Developer - Jonathan Martínez
- - [https://jonathanenlared.com](https://jonathanenlared.com)
- - date published: 2023-12-14T01:20:13.226016+00:00
- - user: None
- - tags: ['personal']
-
-## Jonathan Vieker
- - [https://jonathanvieker.com](https://jonathanvieker.com)
- - date published: 2023-12-19T19:07:54.915537+00:00
- - user: None
- - tags: ['personal']
-
-## Jon Griffin's Site
- - [https://www.jongriffin.com](https://www.jongriffin.com)
- - date published: 2023-11-29T15:31:40.430080+00:00
- - user: None
- - tags: ['personal']
-
-## jon izquierdo_
- - [https://jonizquierdo.com](https://jonizquierdo.com)
- - date published: 2023-12-14T01:26:28.259256+00:00
- - user: None
- - tags: ['personal']
-
-## Jon Lajoie
- - [https://www.jonlajoie.com](https://www.jonlajoie.com)
- - date published: 2023-11-13T10:41:04.131591+00:00
- - user: None
- - tags: ['comedy', 'music artist', 'music band', 'satire']
-
-## JonPaulUritis.com
- - [https://jonpauluritis.com](https://jonpauluritis.com)
- - date published: 2023-10-25T15:31:13.129837+00:00
- - user: None
- - tags: []
-
-## Code & Sundry
- - [https://blog.jonstodle.com](https://blog.jonstodle.com)
- - date published: 2023-10-25T15:31:14.644491+00:00
- - user: None
- - tags: []
-
-## jonstokes.com | Jon Stokes | Substack
- - [https://www.jonstokes.com](https://www.jonstokes.com)
- - date published: 2023-10-25T15:31:18.894851+00:00
- - user: None
- - tags: []
-
-## Home | Jordan Peterson
- - [https://www.jordanbpeterson.com](https://www.jordanbpeterson.com)
- - date published: 2023-10-25T08:46:41.267780+00:00
- - user: None
- - tags: ['personal']
-
-## Jorge Sancho Muñoz
- - [https://jorgesm.com](https://jorgesm.com)
- - date published: 2023-11-17T15:06:23+00:00
- - user: rumpel
- - tags: ['personal']
-
-## Josef Erben's Blog
- - [https://www.joseferben.com](https://www.joseferben.com)
- - date published: 2023-10-25T15:31:22.326088+00:00
- - user: None
- - tags: []
-
-## Jose Munoz | Product Designer
- - [https://www.josemunozmatos.com](https://www.josemunozmatos.com)
- - date published: 2023-12-11T23:18:46.523295+00:00
- - user: None
- - tags: ['personal']
-
-## Joseon
- - [https://www.joseon.com](https://www.joseon.com)
- - date published: 2023-10-26T11:09:14.356479+00:00
- - user: None
- - tags: []
-
-## Joseph A. McCullough – Writer & Games Designer
- - [https://www.josephamccullough.com](https://www.josephamccullough.com)
- - date published: 2023-10-27T07:26:53.904248+00:00
- - user: None
- - tags: ['tabletop games', 'personal', 'frostgrave']
-
-## Joseph Andrew lafond
- - [https://josephandrewlafond.com](https://josephandrewlafond.com)
- - date published: 2023-11-29T14:19:21.939663+00:00
- - user: None
- - tags: ['personal']
-
-## Seph
- - [https://josephg.com](https://josephg.com)
- - date published: 2023-10-25T15:31:24.014626+00:00
- - user: None
- - tags: []
-
-## joseph of iowa
- - [https://blog.josephofiowa.com](https://blog.josephofiowa.com)
- - date published: 2023-11-08T21:31:37.242452+00:00
- - user: None
- - tags: []
-
-## The Site of Joshua Blais
- - [https://joshblais.com](https://joshblais.com)
- - date published: 2023-12-23T19:27:35.755531+00:00
- - user: None
- - tags: ['personal']
-
-## Josh Collinsworth
- - [https://joshcollinsworth.com](https://joshcollinsworth.com)
- - date published: 2023-10-25T08:46:42.529511+00:00
- - user: None
- - tags: ['personal']
 

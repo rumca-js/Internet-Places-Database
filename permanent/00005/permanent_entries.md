@@ -1,3 +1,123 @@
+## WordPress Membership Developer - Jonathan Martínez
+ - [https://jonathanenlared.com](https://jonathanenlared.com)
+ - date published: 2023-12-14T01:20:13.226016+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jonathan Vieker
+ - [https://jonathanvieker.com](https://jonathanvieker.com)
+ - date published: 2023-12-19T19:07:54.915537+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jon Griffin's Site
+ - [https://www.jongriffin.com](https://www.jongriffin.com)
+ - date published: 2023-11-29T15:31:40.430080+00:00
+ - user: None
+ - tags: ['personal']
+
+## jon izquierdo_
+ - [https://jonizquierdo.com](https://jonizquierdo.com)
+ - date published: 2023-12-14T01:26:28.259256+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jon Lajoie
+ - [https://www.jonlajoie.com](https://www.jonlajoie.com)
+ - date published: 2023-11-13T10:41:04.131591+00:00
+ - user: None
+ - tags: ['comedy', 'music artist', 'music band', 'satire']
+
+## jonmircha 🦊
+ - [https://jonmircha.com](https://jonmircha.com)
+ - date published: 2023-12-25T22:13:04.284730+00:00
+ - user: None
+ - tags: ['personal']
+
+## JonPaulUritis.com
+ - [https://jonpauluritis.com](https://jonpauluritis.com)
+ - date published: 2023-10-25T15:31:13.129837+00:00
+ - user: None
+ - tags: []
+
+## Code & Sundry
+ - [https://blog.jonstodle.com](https://blog.jonstodle.com)
+ - date published: 2023-10-25T15:31:14.644491+00:00
+ - user: None
+ - tags: []
+
+## jonstokes.com | Jon Stokes | Substack
+ - [https://www.jonstokes.com](https://www.jonstokes.com)
+ - date published: 2023-10-25T15:31:18.894851+00:00
+ - user: None
+ - tags: []
+
+## Home | Jordan Peterson
+ - [https://www.jordanbpeterson.com](https://www.jordanbpeterson.com)
+ - date published: 2023-10-25T08:46:41.267780+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jorge Sancho Muñoz
+ - [https://jorgesm.com](https://jorgesm.com)
+ - date published: 2023-11-17T15:06:23+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## Josef Erben's Blog
+ - [https://www.joseferben.com](https://www.joseferben.com)
+ - date published: 2023-10-25T15:31:22.326088+00:00
+ - user: None
+ - tags: []
+
+## Jose Munoz | Product Designer
+ - [https://www.josemunozmatos.com](https://www.josemunozmatos.com)
+ - date published: 2023-12-11T23:18:46.523295+00:00
+ - user: None
+ - tags: ['personal']
+
+## Joseon
+ - [https://www.joseon.com](https://www.joseon.com)
+ - date published: 2023-10-26T11:09:14.356479+00:00
+ - user: None
+ - tags: []
+
+## Joseph A. McCullough – Writer & Games Designer
+ - [https://www.josephamccullough.com](https://www.josephamccullough.com)
+ - date published: 2023-10-27T07:26:53.904248+00:00
+ - user: None
+ - tags: ['tabletop games', 'personal', 'frostgrave']
+
+## Joseph Andrew lafond
+ - [https://josephandrewlafond.com](https://josephandrewlafond.com)
+ - date published: 2023-11-29T14:19:21.939663+00:00
+ - user: None
+ - tags: ['personal']
+
+## Seph
+ - [https://josephg.com](https://josephg.com)
+ - date published: 2023-10-25T15:31:24.014626+00:00
+ - user: None
+ - tags: []
+
+## joseph of iowa
+ - [https://blog.josephofiowa.com](https://blog.josephofiowa.com)
+ - date published: 2023-11-08T21:31:37.242452+00:00
+ - user: None
+ - tags: []
+
+## The Site of Joshua Blais
+ - [https://joshblais.com](https://joshblais.com)
+ - date published: 2023-12-23T19:27:35.755531+00:00
+ - user: None
+ - tags: ['personal']
+
+## Josh Collinsworth
+ - [https://joshcollinsworth.com](https://joshcollinsworth.com)
+ - date published: 2023-10-25T08:46:42.529511+00:00
+ - user: None
+ - tags: ['personal']
+
 ## The "Blog" of Dr. Josh C. Simmons
  - [https://joshcsimmons.com](https://joshcsimmons.com)
  - date published: 2023-10-25T15:31:26.704913+00:00
@@ -938,6 +1058,12 @@
 ## Adil Khashtamov's personal blog — pragmatic programmer
  - [https://khashtamov.com](https://khashtamov.com)
  - date published: 2023-11-29T14:44:13.378682+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kheoh Yee Wei
+ - [https://kheohyeewei.com](https://kheohyeewei.com)
+ - date published: 2023-12-25T12:24:39.370894+00:00
  - user: None
  - tags: ['personal']
 
@@ -2416,6 +2542,12 @@
  - date published: 2023-12-02T20:11:05.694222+00:00
  - user: None
  - tags: []
+
+## Lichia Liu
+ - [http://www.lichialiu.com](http://www.lichialiu.com)
+ - date published: 2023-12-25T04:55:54.761543+00:00
+ - user: None
+ - tags: ['personal']
 
 ## About LiewCF - LiewCF Tech Blog
  - [https://www.liewcf.com](https://www.liewcf.com)
@@ -4213,6 +4345,12 @@ diversions.
  - user: None
  - tags: []
 
+## Matthew Bischoff
+ - [https://matthewbischoff.com](https://matthewbischoff.com)
+ - date published: 2023-12-25T22:12:58.645784+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Matthew Butterick
  - [https://matthewbutterick.com](https://matthewbutterick.com)
  - date published: 2023-10-25T15:58:16.245284+00:00
@@ -5569,6 +5707,12 @@ diversions.
  - user: None
  - tags: []
 
+## In the Cells of the Eggplant | Meta-rationality
+ - [https://metarationality.com](https://metarationality.com)
+ - date published: 2023-12-25T03:43:59.974297+00:00
+ - user: None
+ - tags: []
+
 ## Metaroids The Singularity is coming
  - [https://metaroids.com](https://metaroids.com)
  - date published: 2023-10-25T16:02:02.144840+00:00
@@ -5700,6 +5844,12 @@ diversions.
  - date published: 2023-10-25T16:02:43.726260+00:00
  - user: None
  - tags: []
+
+## ᐈ【 Las 5 MEJORES Cámaras DEPORTIVAS 】❗️ TOP 2023
+ - [https://micamaradeportiva.com](https://micamaradeportiva.com)
+ - date published: 2023-12-25T22:12:40.489547+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Michael Hudson
  - [https://michael-hudson.com](https://michael-hudson.com)
@@ -5848,156 +5998,6 @@ diversions.
 ## DevBlogs - Microsoft Developer Blogs
  - [https://devblogs.microsoft.com](https://devblogs.microsoft.com)
  - date published: 2023-10-25T10:14:03.592606+00:00
- - user: None
- - tags: []
-
-## Microsoft Learn: Build skills that open doors in your career
- - [https://docs.microsoft.com](https://docs.microsoft.com)
- - date published: 2023-10-25T11:30:47.045143+00:00
- - user: None
- - tags: []
-
-## Search Jobs | Microsoft Careers
- - [https://jobs.careers.microsoft.com](https://jobs.careers.microsoft.com)
- - date published: 2023-10-25T11:31:38.386584+00:00
- - user: None
- - tags: []
-
-## Microsoft Learn: Build skills that open doors in your career
- - [https://learn.microsoft.com](https://learn.microsoft.com)
- - date published: 2023-10-25T11:30:34.619514+00:00
- - user: None
- - tags: []
-
-## Microsoft Security Response Center
- - [https://msrc.microsoft.com](https://msrc.microsoft.com)
- - date published: 2023-10-25T11:31:41.607143+00:00
- - user: None
- - tags: []
-
-## Homepage - Source
- - [https://news.microsoft.com](https://news.microsoft.com)
- - date published: 2023-10-25T10:52:37.879287+00:00
- - user: None
- - tags: []
-
-## Microsoft Support
- - [https://support.microsoft.com](https://support.microsoft.com)
- - date published: 2023-10-25T16:03:34.137323+00:00
- - user: None
- - tags: []
-
-## checking your credentials..
- - [https://teams.microsoft.com](https://teams.microsoft.com)
- - date published: 2023-10-25T16:03:34.551273+00:00
- - user: None
- - tags: []
-
-## Home - Microsoft Community Hub
- - [https://techcommunity.microsoft.com](https://techcommunity.microsoft.com)
- - date published: 2023-10-25T10:52:42.152193+00:00
- - user: None
- - tags: []
-
-## Visual Studio: IDE and Code Editor for Software Developers and Teams
- - [https://visualstudio.microsoft.com](https://visualstudio.microsoft.com)
- - date published: 2023-11-03T20:33:06.635502+00:00
- - user: None
- - tags: ['ide', 'visual studio']
-
-## Microsoft – chmura, komputery, aplikacje i gry
- - [https://www.microsoft.com](https://www.microsoft.com)
- - date published: 2023-10-25T11:26:39.907068+00:00
- - user: None
- - tags: ['company', 'gatekeeper', 'edge']
-
-## Office Insiders
- - [https://insider.microsoft365.com](https://insider.microsoft365.com)
- - date published: 2023-11-01T08:42:38.686906+00:00
- - user: None
- - tags: []
-
-## Sign in to your account
- - [https://login.microsoftonline.com](https://login.microsoftonline.com)
- - date published: 2023-12-11T17:43:06.294391+00:00
- - user: None
- - tags: []
-
-## Middle East Monitor
- - [https://www.middleeastmonitor.com](https://www.middleeastmonitor.com)
- - date published: 2023-11-05T15:09:13.933802+00:00
- - user: None
- - tags: []
-
-## Hudson Valley News - Daily Breaking Stories | Mid Hudson News
- - [https://midhudsonnews.com](https://midhudsonnews.com)
- - date published: 2023-11-24T15:24:08.581764+00:00
- - user: None
- - tags: []
-
-## https://www.midjourney.com
- - [https://www.midjourney.com](https://www.midjourney.com)
- - date published: 2023-10-25T11:35:57.322285+00:00
- - user: None
- - tags: ['artificial intelligence']
-
-## Search for Music Using Your Voice by Singing or Humming, View Music Videos, Join Fan Clubs, Share with Friends, Be Discovered and Much More For Free! - midomi.com
- - [https://www.midomi.com](https://www.midomi.com)
- - date published: 2023-10-28T18:42:53.364247+00:00
- - user: None
- - tags: ['music']
-
-## MIT 24-Hour Challenge 2022 | MIT Annual Fund | Giving to MIT
- - [https://mit24hourchallenge.mightycause.com](https://mit24hourchallenge.mightycause.com)
- - date published: 2023-10-25T16:03:41.849852+00:00
- - user: None
- - tags: []
-
-## miguelgrinberg.com
- - [https://blog.miguelgrinberg.com](https://blog.miguelgrinberg.com)
- - date published: 2023-10-25T16:03:44.577554+00:00
- - user: None
- - tags: []
-
-## mike beauchamp : occasional doer of stuff and maker of things
- - [http://mikebeauchamp.com](http://mikebeauchamp.com)
- - date published: 2023-10-25T16:03:50.613706+00:00
- - user: None
- - tags: []
-
-## MK Productions
- - [https://mikekilcoyne.com](https://mikekilcoyne.com)
- - date published: 2023-11-29T16:19:57.698565+00:00
- - user: None
- - tags: ['personal']
-
-## Mike McQuaid | Workbrew CTO and Homebrew Project Leader
- - [https://mikemcquaid.com](https://mikemcquaid.com)
- - date published: 2023-10-25T16:03:53.506426+00:00
- - user: None
- - tags: []
-
-## Home - Mike Oldfield Official
- - [https://mikeoldfieldofficial.com](https://mikeoldfieldofficial.com)
- - date published: 2023-11-13T10:45:13.768890+00:00
- - user: None
- - tags: ['music band']
-
-## Mike Paul
- - [https://mikepaul.com](https://mikepaul.com)
- - date published: 2023-12-22T22:30:57.160444+00:00
- - user: None
- - tags: ['personal']
-
-## Mike Puchol – Medium
- - [https://mikepuchol.com](https://mikepuchol.com)
- - date published: 2023-10-25T16:03:56.379616+00:00
- - user: None
- - tags: []
-
-## I love computers
- - [https://www.mikesteder.com](https://www.mikesteder.com)
- - date published: 2023-10-25T16:03:58.740409+00:00
  - user: None
  - tags: []
 
