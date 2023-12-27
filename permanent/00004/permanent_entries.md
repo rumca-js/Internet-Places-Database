@@ -1,3 +1,87 @@
+## Gaming History 101
+ - [https://gaminghistory101.com](https://gaminghistory101.com)
+ - date published: 2023-10-27T14:41:44.461635+00:00
+ - user: None
+ - tags: ['amiga']
+
+## Linux, SteamOS, Steam Deck gaming | GamingOnLinux
+ - [https://www.gamingonlinux.com](https://www.gamingonlinux.com)
+ - date published: 2023-10-25T10:48:57.032223+00:00
+ - user: None
+ - tags: ['linux', 'game news']
+
+## GamingScan | Your Source For Gaming Advice
+ - [https://www.gamingscan.com](https://www.gamingscan.com)
+ - date published: 2023-10-26T18:49:00.039944+00:00
+ - user: None
+ - tags: []
+
+## Gaming Street - Where Gaming meets Wall Street - Gaming Street
+ - [https://gamingstreet.com](https://gamingstreet.com)
+ - date published: 2023-10-25T14:41:24.384607+00:00
+ - user: None
+ - tags: []
+
+## GammaWire - Tech News & Trends
+ - [https://gammawire.com](https://gammawire.com)
+ - date published: 2023-10-25T14:41:33.539645+00:00
+ - user: None
+ - tags: []
+
+## Gamulator | The Arcade Machine You Need
+ - [https://www.gamulator.com](https://www.gamulator.com)
+ - date published: 2023-12-13T15:18:46.574223+00:00
+ - user: None
+ - tags: ['emulation']
+
+## Garden & Gun | Official Website of Garden & Gun Magazine
+ - [https://gardenandgun.com](https://gardenandgun.com)
+ - date published: 2023-10-25T14:41:38.475199+00:00
+ - user: None
+ - tags: []
+
+## Gardens of Hecate
+ - [https://gardensofhecate.com](https://gardensofhecate.com)
+ - date published: 2023-10-27T15:05:43.896413+00:00
+ - user: None
+ - tags: ['tabletop games']
+
+## GarlicGPT - America's second finest news source.
+ - [https://www.garlicgpt.com](https://www.garlicgpt.com)
+ - date published: 2023-10-25T14:41:45.529584+00:00
+ - user: None
+ - tags: []
+
+## Garmin | Polska | Home
+ - [https://www.garmin.com](https://www.garmin.com)
+ - date published: 2023-10-25T14:41:51.269725+00:00
+ - user: None
+ - tags: []
+
+## Gartner | Delivering Actionable, Objective Insight to Executives and Their Teams
+ - [https://www.gartner.com](https://www.gartner.com)
+ - date published: 2023-10-25T14:41:54.624249+00:00
+ - user: None
+ - tags: []
+
+## Gary Voth – Photography, Technology, Design
+ - [https://www.garyvoth.com](https://www.garyvoth.com)
+ - date published: 2023-10-25T14:41:58.580348+00:00
+ - user: None
+ - tags: []
+
+## GASDRAWLS
+ - [https://gasdrawls.com](https://gasdrawls.com)
+ - date published: 2023-11-13T12:30:56.610958+00:00
+ - user: None
+ - tags: ['music band']
+
+## Home | Bill Gates
+ - [https://www.gatesnotes.com](https://www.gatesnotes.com)
+ - date published: 2023-10-25T14:42:06.251930+00:00
+ - user: None
+ - tags: ['vip']
+
 ## Gaurang Tandon
  - [https://gaurangtandon.com](https://gaurangtandon.com)
  - date published: 2023-11-01T08:42:09.254638+00:00
@@ -678,6 +762,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Gitroom
+ - [https://gitroom.com](https://gitroom.com)
+ - date published: 2023-12-26T17:17:31.263884+00:00
+ - user: None
+ - tags: []
+
 ## Gitta Wolf
  - [https://gittawolf.com](https://gittawolf.com)
  - date published: 2023-11-29T14:42:14.713737+00:00
@@ -1043,6 +1133,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-25T11:31:06.266545+00:00
  - user: None
  - tags: []
+
+## Google
+ - [https://google.com](https://google.com)
+ - date published: 2023-12-26T05:06:13.105333+00:00
+ - user: None
+ - tags: ['search engine', 'gatekeeper']
 
 ## Sign in - Google Accounts
  - [https://groups.google.com](https://groups.google.com)
@@ -1856,6 +1952,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-11-09T09:56:39+00:00
  - user: None
  - tags: []
+
+## The life and times of Guillermo A. Fisher
+ - [https://guillermoandraefisher.com](https://guillermoandraefisher.com)
+ - date published: 2023-12-26T19:09:34.798175+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Guillermo Latorre | Web personal
  - [https://guillermolatorre.com](https://guillermolatorre.com)
@@ -2865,6 +2967,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## historic clothing:  expanded site
+ - [https://histclo.com](https://histclo.com)
+ - date published: 2023-12-26T17:33:15.141581+00:00
+ - user: None
+ - tags: []
+
 ## Historic UK - The History Magazine & Heritage Accommodation Guide
  - [https://www.historic-uk.com](https://www.historic-uk.com)
  - date published: 2023-10-25T14:59:34.895338+00:00
@@ -3687,6 +3795,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: ['quake', 'wolfenstein', 'doom']
 
+## The comp.compilers newsgroup
+ - [https://compilers.iecc.com](https://compilers.iecc.com)
+ - date published: 2023-12-26T19:22:44.131429+00:00
+ - user: None
+ - tags: []
+
 ## iFixit: The Free Repair Manual
  - [https://www.ifixit.com](https://www.ifixit.com)
  - date published: 2023-10-25T15:17:14.239400+00:00
@@ -4452,6 +4566,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Unicode characters you can not see
  - [https://invisible-characters.com](https://invisible-characters.com)
  - date published: 2023-10-25T15:22:55.940623+00:00
+ - user: None
+ - tags: []
+
+## Invisible Computers
+ - [https://shop.invisible-computers.com](https://shop.invisible-computers.com)
+ - date published: 2023-12-26T18:07:42.018345+00:00
  - user: None
  - tags: []
 
@@ -5880,126 +6000,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## John Higgs – Author of Love And Let Die, William Blake Vs The World, Watling Street and The KLF
  - [https://johnhiggs.com](https://johnhiggs.com)
  - date published: 2023-10-25T15:30:16.620693+00:00
- - user: None
- - tags: []
-
-## John Kappa ✦ Melbourne Based Designer & Creative Artist
- - [https://johnkappa.com](https://johnkappa.com)
- - date published: 2023-11-29T14:41:20.308656+00:00
- - user: None
- - tags: ['personal']
-
-## Johnny Cash Has Been Everywhere (Man)! - Music Hack Day London 2012 - Iain Mullan
- - [https://www.johnnycashhasbeeneverywhere.com](https://www.johnnycashhasbeeneverywhere.com)
- - date published: 2023-10-25T11:07:59.661696+00:00
- - user: None
- - tags: ['funny', 'animation']
-
-## 11.01 Introduction║J•D
- - [https://johnnydecimal.com](https://johnnydecimal.com)
- - date published: 2023-10-25T15:30:19.537551+00:00
- - user: None
- - tags: []
-
-## johnnyreilly | johnnyreilly
- - [https://johnnyreilly.com](https://johnnyreilly.com)
- - date published: 2023-10-25T15:30:28.366557+00:00
- - user: None
- - tags: []
-
-## Welcome to Johnny's Software Lab! - Johnny's Software Lab
- - [https://johnnysswlab.com](https://johnnysswlab.com)
- - date published: 2023-10-25T15:30:38.384314+00:00
- - user: None
- - tags: []
-
-## Johnny Webber 🔥 – some thoughts, some links
- - [https://johnnywebber.com](https://johnnywebber.com)
- - date published: 2023-10-25T09:25:42.382699+00:00
- - user: None
- - tags: ['personal']
-
-## John P. Weiss Artist and Writer
- - [https://johnpweiss.com](https://johnpweiss.com)
- - date published: 2023-10-25T15:30:43.191667+00:00
- - user: None
- - tags: []
-
-## John Qian's blog
- - [https://blog.johnqian.com](https://blog.johnqian.com)
- - date published: 2023-10-25T15:30:45.804332+00:00
- - user: None
- - tags: []
-
-## John Reed Stark | Incident Response and Digital Compliance
- - [https://www.johnreedstark.com](https://www.johnreedstark.com)
- - date published: 2023-10-25T15:30:48.365940+00:00
- - user: None
- - tags: []
-
-## John's internet house
- - [https://johnwhiles.com](https://johnwhiles.com)
- - date published: 2023-11-18T22:08:05.217014+00:00
- - user: None
- - tags: []
-
-## - john wilker
- - [https://johnwilker.com](https://johnwilker.com)
- - date published: 2023-11-29T15:32:06.390097+00:00
- - user: None
- - tags: ['personal']
-
-## John Zanussi
- - [https://johnzanussi.com](https://johnzanussi.com)
- - date published: 2023-12-10T20:35:29.532868+00:00
- - user: None
- - tags: ['personal']
-
-## BATTLEBIT REMASTERED
- - [https://joinbattlebit.com](https://joinbattlebit.com)
- - date published: 2023-11-04T19:18:12.604508+00:00
- - user: None
- - tags: ['game', 'massive online multiplayer', 'mmo']
-
-## BookWyrm: Social Reading and Reviewing
- - [https://joinbookwyrm.com](https://joinbookwyrm.com)
- - date published: 2023-10-25T15:30:50.406250+00:00
- - user: None
- - tags: []
-
-## Join me for the ride - Thoughts on how we live
- - [https://joinmefortheride.com](https://joinmefortheride.com)
- - date published: 2023-12-08T09:37:46.434802+00:00
- - user: None
- - tags: ['personal']
-
-## Korea JoongAng Daily
- - [https://koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com)
- - date published: 2023-10-25T15:31:01.479422+00:00
- - user: None
- - tags: []
-
-## JavaScript diagramming library for interactive UIs – JointJS
- - [https://www.jointjs.com](https://www.jointjs.com)
- - date published: 2023-10-25T15:31:04.622694+00:00
- - user: None
- - tags: []
-
-## AI for Tech Support
- - [https://www.jointwig.com](https://www.jointwig.com)
- - date published: 2023-10-25T15:31:05.890192+00:00
- - user: None
- - tags: []
-
-## Joltmailer
- - [https://joltmailer.com](https://joltmailer.com)
- - date published: 2023-11-10T11:04:46.045640+00:00
- - user: None
- - tags: []
-
-## jonandnic dot com - suddenly nothing happened
- - [https://www.jonandnic.com](https://www.jonandnic.com)
- - date published: 2023-10-25T15:31:08.960393+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,165 @@
+## Poised: AI-Powered Communication Coach
+ - [https://www.poised.com](https://www.poised.com)
+ - date published: 2023-10-25T16:37:29.231064+00:00
+ - user: None
+ - tags: []
+
+## Poki - Free Online Games - Play Online Games!
+ - [https://poki.com](https://poki.com)
+ - date published: 2023-10-25T11:17:06.102313+00:00
+ - user: None
+ - tags: ['games']
+
+## pokolenieX
+ - [https://www.pokoleniex.com](https://www.pokoleniex.com)
+ - date published: 2023-10-25T10:38:07.920804+00:00
+ - user: None
+ - tags: []
+
+## Debug Daily. Optimize Always | Polar Signals
+ - [https://www.polarsignals.com](https://www.polarsignals.com)
+ - date published: 2023-10-25T16:37:30.186144+00:00
+ - user: None
+ - tags: []
+
+## Pole Clock
+ - [https://poleclock.com](https://poleclock.com)
+ - date published: 2023-10-25T16:37:30.634994+00:00
+ - user: None
+ - tags: []
+
+## Law Enforcement News - The Police Tribune
+ - [https://policetribune.com](https://policetribune.com)
+ - date published: 2023-10-25T16:37:32.523394+00:00
+ - user: None
+ - tags: []
+
+## De Angela L. Duff
+ - [https://www.polishedsolid.com](https://www.polishedsolid.com)
+ - date published: 2023-12-20T11:44:35.174499+00:00
+ - user: None
+ - tags: ['personal']
+
+## De Angela L. Duff
+ - [http://www.polishedsolid.com](http://www.polishedsolid.com)
+ - date published: 2023-12-23T02:59:58.572062+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://polishpixels.com
+ - [https://polishpixels.com](https://polishpixels.com)
+ - date published: 2023-10-25T11:17:06.597315+00:00
+ - user: None
+ - tags: []
+
+## Political Wire
+ - [https://politicalwire.com](https://politicalwire.com)
+ - date published: 2023-11-15T19:47:16.888313+00:00
+ - user: None
+ - tags: []
+
+## Politics, Policy, Political News - POLITICO
+ - [https://www.politico.com](https://www.politico.com)
+ - date published: 2023-10-25T10:28:21.996956+00:00
+ - user: None
+ - tags: []
+
+## PolitiFact
+ - [https://www.politifact.com](https://www.politifact.com)
+ - date published: 2023-11-14T13:36:23.125783+00:00
+ - user: None
+ - tags: []
+
+## Strona główna - Polityko.com
+ - [https://polityko.com](https://polityko.com)
+ - date published: 2023-10-25T10:14:27.475929+00:00
+ - user: None
+ - tags: []
+
+## tme Polówka – 2023
+ - [https://polowka.com](https://polowka.com)
+ - date published: 2023-10-27T14:19:33.297667+00:00
+ - user: None
+ - tags: []
+
+## Polyend - Polyend
+ - [https://polyend.com](https://polyend.com)
+ - date published: 2023-10-28T18:45:05.813732+00:00
+ - user: None
+ - tags: []
+
+## Polygon: Gaming and Entertainment News, Reviews, and More
+ - [https://www.polygon.com](https://www.polygon.com)
+ - date published: 2023-10-25T10:50:01.149258+00:00
+ - user: None
+ - tags: ['game news']
+
+## Polymath Robotics
+ - [https://www.polymathrobotics.com](https://www.polymathrobotics.com)
+ - date published: 2023-10-25T16:37:34.775691+00:00
+ - user: None
+ - tags: []
+
+## Home - Polytechnique Insights
+ - [https://www.polytechnique-insights.com](https://www.polytechnique-insights.com)
+ - date published: 2023-10-25T16:37:42.639884+00:00
+ - user: None
+ - tags: []
+
+## Home - Pomerium
+ - [https://www.pomerium.com](https://www.pomerium.com)
+ - date published: 2023-10-25T16:37:44.827366+00:00
+ - user: None
+ - tags: []
+
+## POMPLAMOOSE | New music & videos every week!
+ - [https://www.pomplamoose.com](https://www.pomplamoose.com)
+ - date published: 2023-10-30T13:30:09.286952+00:00
+ - user: None
+ - tags: ['music band']
+
+## Popcorn Computer
+ - [https://shop.popcorncomputer.com](https://shop.popcorncomputer.com)
+ - date published: 2023-10-25T16:37:46.302212+00:00
+ - user: None
+ - tags: []
+
+## Popcornflix
+ - [https://www.popcornflix.com](https://www.popcornflix.com)
+ - date published: 2023-12-02T13:13:17+00:00
+ - user: rumpel
+ - tags: []
+
+## popey.com - a geek through and through
+ - [https://popey.com](https://popey.com)
+ - date published: 2023-10-25T08:47:37.216100+00:00
+ - user: None
+ - tags: ['personal']
+
+## Uros Popovic
+ - [https://popovicu.com](https://popovicu.com)
+ - date published: 2023-10-25T08:58:16.378232+00:00
+ - user: None
+ - tags: ['personal']
+
+## Popular Science Homepage | Popular Science
+ - [https://www.popsci.com](https://www.popsci.com)
+ - date published: 2023-10-25T10:10:46.771446+00:00
+ - user: None
+ - tags: []
+
+## Popular Mechanics - Product Reviews, How-To, Space, Military, Math, Science, and New Technology
+ - [https://www.popularmechanics.com](https://www.popularmechanics.com)
+ - date published: 2023-10-25T16:37:51.033102+00:00
+ - user: None
+ - tags: []
+
+## Porsche Open Source Platform
+ - [https://opensource.porsche.com](https://opensource.porsche.com)
+ - date published: 2023-11-12T21:17:02+00:00
+ - user: None
+ - tags: []
+
 ## Official Porsche Website - Dr. Ing. h.c. F. Porsche AG
  - [https://www.porsche.com](https://www.porsche.com)
  - date published: 2023-11-01T08:55:25.017871+00:00
@@ -187,6 +349,12 @@
 ## Data Stories, by Pranshu
  - [https://yarn.pranshum.com](https://yarn.pranshum.com)
  - date published: 2023-10-25T16:39:07.583629+00:00
+ - user: None
+ - tags: []
+
+## Pravda EN
+ - [https://pravda-en.com](https://pravda-en.com)
+ - date published: 2023-12-26T14:55:54.232333+00:00
  - user: None
  - tags: []
 
@@ -1359,6 +1527,13 @@
 ## Ramp Engineering
  - [https://engineering.ramp.com](https://engineering.ramp.com)
  - date published: 2023-11-24T17:44:12.919687+00:00
+ - user: None
+ - tags: []
+
+## Rampant Games - Top Indie Games - Roleplaying, Strategy, Action, and 
+More!
+ - [https://rampantgames.com](https://rampantgames.com)
+ - date published: 2023-12-26T14:52:39.728659+00:00
  - user: None
  - tags: []
 
@@ -3342,6 +3517,12 @@
  - user: None
  - tags: []
 
+## About 1 — Ryan Ross
+ - [https://ryanrossnow.com](https://ryanrossnow.com)
+ - date published: 2023-12-26T06:31:49.010232+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Ryan Travitz
  - [https://ryantravitz.com](https://ryantravitz.com)
  - date published: 2023-10-25T16:55:43.982722+00:00
@@ -5208,6 +5389,12 @@
  - user: None
  - tags: []
 
+## Stanislav (Stas) Katkov
+ - [https://skatkov.com](https://skatkov.com)
+ - date published: 2023-12-26T19:10:06.720403+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Sketchfab - The best 3D viewer on the web
  - [https://sketchfab.com](https://sketchfab.com)
  - date published: 2023-10-27T10:26:31.358910+00:00
@@ -5683,6 +5870,12 @@
  - user: None
  - tags: []
 
+## Song Meanings at Songfacts
+ - [https://www.songfacts.com](https://www.songfacts.com)
+ - date published: 2023-12-26T16:32:47.901464+00:00
+ - user: None
+ - tags: []
+
 ## Songtell
  - [https://www.songtell.com](https://www.songtell.com)
  - date published: 2023-10-25T17:08:13.907903+00:00
@@ -5812,198 +6005,6 @@
 ## South Seattle Emerald | Amplifying the Authentic Narratives of South Seattle
  - [https://southseattleemerald.com](https://southseattleemerald.com)
  - date published: 2023-10-25T17:08:53.460751+00:00
- - user: None
- - tags: []
-
-## So You Want To Watch Figure Skating
- - [https://www.soyouwanttowatchfs.com](https://www.soyouwanttowatchfs.com)
- - date published: 2023-12-09T12:19:17.092710+00:00
- - user: None
- - tags: []
-
-## Space.com: NASA, Space Exploration and Astronomy News
- - [https://www.space.com](https://www.space.com)
- - date published: 2023-10-25T10:09:39.737329+00:00
- - user: None
- - tags: []
-
-## Space Tourism, Space Transport and Space Exploration News
- - [https://www.space-travel.com](https://www.space-travel.com)
- - date published: 2023-10-25T17:08:56.413677+00:00
- - user: None
- - tags: []
-
-## Home - Astronomy's Space & Beyond Box Bring the universe to your door!
- - [https://spaceandbeyondbox.com](https://spaceandbeyondbox.com)
- - date published: 2023-11-26T11:31:05.798047+00:00
- - user: None
- - tags: []
-
-## SpaceBattles
- - [https://forums.spacebattles.com](https://forums.spacebattles.com)
- - date published: 2023-10-25T17:08:58.795934+00:00
- - user: None
- - tags: []
-
-## SpaceChatter - Houston, We have some Chatter
- - [https://www.spacechatter.com](https://www.spacechatter.com)
- - date published: 2023-10-26T17:02:39.838269+00:00
- - user: None
- - tags: []
-
-## Space News From SpaceDaily.Com
- - [https://www.spacedaily.com](https://www.spacedaily.com)
- - date published: 2023-10-25T17:09:01.895784+00:00
- - user: None
- - tags: []
-
-## Spacedimp
- - [https://spacedimp.com](https://spacedimp.com)
- - date published: 2023-10-25T17:09:02.393709+00:00
- - user: None
- - tags: []
-
-## Spacedrive — A file manager from the future.
- - [https://www.spacedrive.com](https://www.spacedrive.com)
- - date published: 2023-10-27T11:55:43.614175+00:00
- - user: None
- - tags: []
-
-## NEODyS
- - [https://newton.spacedys.com](https://newton.spacedys.com)
- - date published: 2023-10-25T17:09:03.246191+00:00
- - user: None
- - tags: []
-
-## Spaceflight101 – Space News and Beyond
- - [https://spaceflight101.com](https://spaceflight101.com)
- - date published: 2023-10-25T17:09:05.078240+00:00
- - user: None
- - tags: []
-
-## Spaceflight Now – The leading source for online space news
- - [https://spaceflightnow.com](https://spaceflightnow.com)
- - date published: 2023-11-05T04:49:57.688623+00:00
- - user: None
- - tags: []
-
-## Space Intel Report - Intelligence report for the space industry
- - [https://www.spaceintelreport.com](https://www.spaceintelreport.com)
- - date published: 2023-10-25T17:09:09.148488+00:00
- - user: None
- - tags: []
-
-## SpaceKate
- - [https://spacekate.com](https://spacekate.com)
- - date published: 2023-11-15T17:45:21.257199+00:00
- - user: None
- - tags: ['personal']
-
-## Home - SpaceNews
- - [https://spacenews.com](https://spacenews.com)
- - date published: 2023-10-25T10:11:21.607203+00:00
- - user: None
- - tags: []
-
-## SpacePolicyOnline.com – Your first stop for news, information and analysis about civil, military and commercial space programs
- - [https://spacepolicyonline.com](https://spacepolicyonline.com)
- - date published: 2023-10-25T17:09:11.721721+00:00
- - user: None
- - tags: []
-
-## Home - SpaceRef
- - [https://spaceref.com](https://spaceref.com)
- - date published: 2023-10-25T17:09:14.536126+00:00
- - user: None
- - tags: []
-
-## SpacetimeDB
- - [https://spacetimedb.com](https://spacetimedb.com)
- - date published: 2023-12-06T17:42:57.628237+00:00
- - user: None
- - tags: []
-
-## Spaceweather.com
- - [https://spaceweatherarchive.com](https://spaceweatherarchive.com)
- - date published: 2023-10-25T17:09:20.403477+00:00
- - user: None
- - tags: []
-
-## SPACEX - ISS Docking Simulator
- - [https://iss-sim.spacex.com](https://iss-sim.spacex.com)
- - date published: 2023-10-25T17:09:21.103392+00:00
- - user: None
- - tags: []
-
-## SpaceX
- - [https://www.spacex.com](https://www.spacex.com)
- - date published: 2023-10-25T17:09:21.854731+00:00
- - user: None
- - tags: []
-
-## TOUR 2023 | SPAG HEDDY 2023
- - [https://www.spagheddy.com](https://www.spagheddy.com)
- - date published: 2023-11-13T09:56:19.744929+00:00
- - user: None
- - tags: ['music band']
-
-## Latest Spanish News, Events and Sport - Spain in English
- - [https://www.spainenglish.com](https://www.spainenglish.com)
- - date published: 2023-12-05T17:27:59.715997+00:00
- - user: None
- - tags: []
-
-## Zero Credibility | Slava Akhmechet | Substack
- - [https://www.spakhm.com](https://www.spakhm.com)
- - date published: 2023-10-25T17:09:24.192822+00:00
- - user: None
- - tags: []
-
-## Spandidos Publications
- - [https://www.spandidos-publications.com](https://www.spandidos-publications.com)
- - date published: 2023-12-03T06:58:09.412844+00:00
- - user: None
- - tags: []
-
-## Spannr - Longevity News & Insights
- - [https://spannr.com](https://spannr.com)
- - date published: 2023-10-25T17:09:26.064802+00:00
- - user: None
- - tags: []
-
-## Learn at SparkFun Electronics - SparkFun Learn
- - [https://learn.sparkfun.com](https://learn.sparkfun.com)
- - date published: 2023-10-25T17:09:28.626320+00:00
- - user: None
- - tags: []
-
-## SparkFun Electronics
- - [https://www.sparkfun.com](https://www.sparkfun.com)
- - date published: 2023-10-25T17:09:37.100830+00:00
- - user: None
- - tags: []
-
-## Spark Mail — Smart. Focused. Email.
- - [https://sparkmailapp.com](https://sparkmailapp.com)
- - date published: 2023-10-25T17:09:39.568079+00:00
- - user: None
- - tags: []
-
-## Sparring Mind: Creative Work and Human Behavior
- - [https://www.sparringmind.com](https://www.sparringmind.com)
- - date published: 2023-10-25T17:09:40.935104+00:00
- - user: None
- - tags: []
-
-## Spartan Esquire
- - [https://spartanesquire.com](https://spartanesquire.com)
- - date published: 2023-12-17T16:41:22.145388+00:00
- - user: None
- - tags: ['personal']
-
-## Speaker Deck | Easily Share Your Presentations Online
- - [https://speakerdeck.com](https://speakerdeck.com)
- - date published: 2023-10-25T17:09:48.220637+00:00
  - user: None
  - tags: []
 

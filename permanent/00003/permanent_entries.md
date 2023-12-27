@@ -1,3 +1,51 @@
+## Danny van Kooten
+ - [https://dannyvankooten.com](https://dannyvankooten.com)
+ - date published: 2023-12-13T20:58:39.281836+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dan Slimmon – Evidence-oriented SRE
+ - [https://blog.danslimmon.com](https://blog.danslimmon.com)
+ - date published: 2023-10-25T13:43:11.268220+00:00
+ - user: None
+ - tags: []
+
+## dappGambl: Crypto Gambling, dApps & Blockchain [2023]
+ - [https://dappgambl.com](https://dappgambl.com)
+ - date published: 2023-10-25T13:43:20.753656+00:00
+ - user: None
+ - tags: []
+
+## Darek Kay — Solving web mysteries
+ - [https://darekkay.com](https://darekkay.com)
+ - date published: 2023-10-25T13:43:21.584138+00:00
+ - user: None
+ - tags: []
+
+## Daren Smith | Creative Entrepreneur, Film Producer, Author
+ - [https://www.darentsmith.com](https://www.darentsmith.com)
+ - date published: 2023-11-29T14:40:52.055355+00:00
+ - user: None
+ - tags: []
+
+## Helping professionals work in their Zone of Genius ~ Daria Williamson
+ - [https://dariawilliamson.com](https://dariawilliamson.com)
+ - date published: 2023-12-07T17:36:25.827727+00:00
+ - user: None
+ - tags: ['personal']
+
+## Darius Foroux | Weekly ideas to become smarter and wealthier
+ - [https://dariusforoux.com](https://dariusforoux.com)
+ - date published: 2023-10-25T13:43:22.766378+00:00
+ - user: None
+ - tags: []
+
+## Dariusz Semba
+ - [https://dariuszsemba.com](https://dariuszsemba.com)
+ - date published: 2023-10-25T13:43:24.609905+00:00
+ - user: None
+ - tags: []
+
 ## Dark Reading | Security | Protect The Business
  - [https://www.darkreading.com](https://www.darkreading.com)
  - date published: 2023-10-25T13:43:27.521358+00:00
@@ -394,6 +442,12 @@
  - user: None
  - tags: ['personal']
 
+## Dean Sawatzky
+ - [https://www.deansawatzky.com](https://www.deansawatzky.com)
+ - date published: 2023-12-26T19:09:11.598264+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Dean Yeong
  - [https://deanyeong.com](https://deanyeong.com)
  - date published: 2023-11-29T13:55:26.477930+00:00
@@ -616,6 +670,12 @@
  - user: None
  - tags: ['personal']
 
+## Before you continue to YouTube
+ - [https://www.deltadreams.com](https://www.deltadreams.com)
+ - date published: 2023-12-26T06:31:21.923157+00:00
+ - user: None
+ - tags: ['personal']
+
 ## SEO Platform for Enterprises & Agencies - DemandSphere
  - [https://www.demandsphere.com](https://www.demandsphere.com)
  - date published: 2023-10-25T13:48:54.822392+00:00
@@ -769,6 +829,12 @@
 ## Desmos | Let's learn together.
  - [https://www.desmos.com](https://www.desmos.com)
  - date published: 2023-10-25T13:50:34.193461+00:00
+ - user: None
+ - tags: []
+
+## despair labs
+ - [https://despairlabs.com](https://despairlabs.com)
+ - date published: 2023-12-26T10:22:28.435042+00:00
  - user: None
  - tags: []
 
@@ -1357,6 +1423,12 @@
 ## Dungeons & Dragons | The World's Greatest Roleplaying Game
  - [https://www.dndbeyond.com](https://www.dndbeyond.com)
  - date published: 2023-10-25T13:55:23.973098+00:00
+ - user: None
+ - tags: []
+
+## Новини Дніпра сьогодні • Головні і останні новини
+ - [https://www.dniprotoday.com](https://www.dniprotoday.com)
+ - date published: 2023-12-26T16:56:39.722500+00:00
  - user: None
  - tags: []
 
@@ -2120,6 +2192,12 @@
 ## Easyful | Sell digital products with no delivery fees.
  - [https://www.easyful.com](https://www.easyful.com)
  - date published: 2023-10-25T14:01:40.494517+00:00
+ - user: None
+ - tags: []
+
+## EasyPalMo - EasyPalMo
+ - [https://easypalmo.com](https://easypalmo.com)
+ - date published: 2023-12-26T11:08:44.322110+00:00
  - user: None
  - tags: []
 
@@ -3448,6 +3526,12 @@
  - date published: 2023-10-25T14:12:24.164120+00:00
  - user: None
  - tags: []
+
+## Best Note Taking App - Organize Your Notes with Evernote
+ - [https://www.evernote.com](https://www.evernote.com)
+ - date published: 2023-12-26T06:31:31.803085+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Evert's Dugout
  - [https://evertpot.com](https://evertpot.com)
@@ -5914,88 +5998,4 @@
  - date published: 2023-10-25T11:16:34.246333+00:00
  - user: None
  - tags: []
-
-## Gaming History 101
- - [https://gaminghistory101.com](https://gaminghistory101.com)
- - date published: 2023-10-27T14:41:44.461635+00:00
- - user: None
- - tags: ['amiga']
-
-## Linux, SteamOS, Steam Deck gaming | GamingOnLinux
- - [https://www.gamingonlinux.com](https://www.gamingonlinux.com)
- - date published: 2023-10-25T10:48:57.032223+00:00
- - user: None
- - tags: ['linux', 'game news']
-
-## GamingScan | Your Source For Gaming Advice
- - [https://www.gamingscan.com](https://www.gamingscan.com)
- - date published: 2023-10-26T18:49:00.039944+00:00
- - user: None
- - tags: []
-
-## Gaming Street - Where Gaming meets Wall Street - Gaming Street
- - [https://gamingstreet.com](https://gamingstreet.com)
- - date published: 2023-10-25T14:41:24.384607+00:00
- - user: None
- - tags: []
-
-## GammaWire - Tech News & Trends
- - [https://gammawire.com](https://gammawire.com)
- - date published: 2023-10-25T14:41:33.539645+00:00
- - user: None
- - tags: []
-
-## Gamulator | The Arcade Machine You Need
- - [https://www.gamulator.com](https://www.gamulator.com)
- - date published: 2023-12-13T15:18:46.574223+00:00
- - user: None
- - tags: ['emulation']
-
-## Garden & Gun | Official Website of Garden & Gun Magazine
- - [https://gardenandgun.com](https://gardenandgun.com)
- - date published: 2023-10-25T14:41:38.475199+00:00
- - user: None
- - tags: []
-
-## Gardens of Hecate
- - [https://gardensofhecate.com](https://gardensofhecate.com)
- - date published: 2023-10-27T15:05:43.896413+00:00
- - user: None
- - tags: ['tabletop games']
-
-## GarlicGPT - America's second finest news source.
- - [https://www.garlicgpt.com](https://www.garlicgpt.com)
- - date published: 2023-10-25T14:41:45.529584+00:00
- - user: None
- - tags: []
-
-## Garmin | Polska | Home
- - [https://www.garmin.com](https://www.garmin.com)
- - date published: 2023-10-25T14:41:51.269725+00:00
- - user: None
- - tags: []
-
-## Gartner | Delivering Actionable, Objective Insight to Executives and Their Teams
- - [https://www.gartner.com](https://www.gartner.com)
- - date published: 2023-10-25T14:41:54.624249+00:00
- - user: None
- - tags: []
-
-## Gary Voth – Photography, Technology, Design
- - [https://www.garyvoth.com](https://www.garyvoth.com)
- - date published: 2023-10-25T14:41:58.580348+00:00
- - user: None
- - tags: []
-
-## GASDRAWLS
- - [https://gasdrawls.com](https://gasdrawls.com)
- - date published: 2023-11-13T12:30:56.610958+00:00
- - user: None
- - tags: ['music band']
-
-## Home | Bill Gates
- - [https://www.gatesnotes.com](https://www.gatesnotes.com)
- - date published: 2023-10-25T14:42:06.251930+00:00
- - user: None
- - tags: ['vip']
 

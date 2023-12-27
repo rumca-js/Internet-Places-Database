@@ -1,3 +1,147 @@
+## Code Review Workshops with Dr. Michaela Greiler - Dr. McKayla
+ - [https://www.michaelagreiler.com](https://www.michaelagreiler.com)
+ - date published: 2023-10-25T16:02:47.336831+00:00
+ - user: None
+ - tags: []
+
+## Home Page V2
+ - [https://www.michaelfrew.com](https://www.michaelfrew.com)
+ - date published: 2023-11-29T16:20:25.573482+00:00
+ - user: None
+ - tags: ['personal']
+
+## Solution to a Contest Math Problem
+ - [https://www.michaelhartl.com](https://www.michaelhartl.com)
+ - date published: 2023-12-20T21:31:22.657887+00:00
+ - user: None
+ - tags: ['personal']
+
+## Michael's Notebook
+ - [https://michaelnotebook.com](https://michaelnotebook.com)
+ - date published: 2023-10-25T08:47:16.324263+00:00
+ - user: None
+ - tags: ['personal']
+
+## Wide Awake Developers
+ - [https://www.michaelnygard.com](https://www.michaelnygard.com)
+ - date published: 2023-10-25T16:02:49.444422+00:00
+ - user: None
+ - tags: []
+
+## The New Normal | Michael P Senger | Substack
+ - [https://www.michaelpsenger.com](https://www.michaelpsenger.com)
+ - date published: 2023-11-01T08:41:20.462876+00:00
+ - user: None
+ - tags: []
+
+## Hi there 👋
+ - [https://michaelrbock.com](https://michaelrbock.com)
+ - date published: 2023-12-11T10:57:55.589456+00:00
+ - user: None
+ - tags: ['personal']
+
+## Michael Samsel Therapist Seattle
+ - [https://www.michaelsamsel.com](https://www.michaelsamsel.com)
+ - date published: 2023-10-25T16:02:51.669719+00:00
+ - user: None
+ - tags: []
+
+## Michel Fortin | Visibility Marketing & SEO Strategy Expert
+ - [https://michelfortin.com](https://michelfortin.com)
+ - date published: 2023-11-29T17:16:25.427969+00:00
+ - user: None
+ - tags: ['seo', 'personal']
+
+## Michel Griffin - [En]chanteur franglais
+ - [https://www.michelgriffin.com](https://www.michelgriffin.com)
+ - date published: 2023-11-29T17:09:14.174486+00:00
+ - user: None
+ - tags: []
+
+## Michigan Post | Today's Front Page, Breaking News, World, Politics
+ - [https://michigan-post.com](https://michigan-post.com)
+ - date published: 2023-11-23T19:54:39.421012+00:00
+ - user: None
+ - tags: []
+
+## Mickey Mellen
+ - [https://www.mickmel.com](https://www.mickmel.com)
+ - date published: 2023-10-25T16:02:56.827577+00:00
+ - user: None
+ - tags: []
+
+## Micro Focus is now OpenText
+ - [https://www.microfocus.com](https://www.microfocus.com)
+ - date published: 2023-10-25T16:03:01.109438+00:00
+ - user: None
+ - tags: []
+
+## MicroMac Technology's Home Page for Macintosh Upgrades and Accelerators
+ - [https://www.micromac.com](https://www.micromac.com)
+ - date published: 2023-12-02T08:30:30.624398+00:00
+ - user: None
+ - tags: []
+
+## MicroProse | The name of the game in strategy and simulation
+ - [https://www.microprose.com](https://www.microprose.com)
+ - date published: 2023-11-06T10:58:40.981934+00:00
+ - user: None
+ - tags: ['amiga', 'game studio']
+
+## Micro SaaS HQ
+ - [https://microsaashq.com](https://microsaashq.com)
+ - date published: 2023-10-25T16:03:04.818064+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Apps
+ - [https://apps.microsoft.com](https://apps.microsoft.com)
+ - date published: 2023-10-25T13:36:42.240354+00:00
+ - user: None
+ - tags: ['app store']
+
+## Find the right app | Microsoft AppSource
+ - [https://appsource.microsoft.com](https://appsource.microsoft.com)
+ - date published: 2023-10-25T16:03:13.347631+00:00
+ - user: None
+ - tags: []
+
+## Cloud Computing Services | Microsoft Azure
+ - [https://azure.microsoft.com](https://azure.microsoft.com)
+ - date published: 2023-10-25T16:03:25.472197+00:00
+ - user: None
+ - tags: []
+
+## Blog usługi Microsoft Fabric
+ - [https://blog.fabric.microsoft.com](https://blog.fabric.microsoft.com)
+ - date published: 2023-10-25T09:34:04.976907+00:00
+ - user: None
+ - tags: []
+
+## The Official Microsoft Blog
+ - [https://blogs.microsoft.com](https://blogs.microsoft.com)
+ - date published: 2023-10-25T09:34:08.525842+00:00
+ - user: None
+ - tags: []
+
+## Home - Cloud Perspectives Blog
+ - [https://cloudblogs.microsoft.com](https://cloudblogs.microsoft.com)
+ - date published: 2023-10-25T09:34:15.781614+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Designer - Stunning designs in a flash
+ - [https://designer.microsoft.com](https://designer.microsoft.com)
+ - date published: 2023-10-25T16:03:31.208056+00:00
+ - user: None
+ - tags: []
+
+## DevBlogs - Microsoft Developer Blogs
+ - [https://devblogs.microsoft.com](https://devblogs.microsoft.com)
+ - date published: 2023-10-25T10:14:03.592606+00:00
+ - user: None
+ - tags: []
+
 ## Microsoft Learn: Build skills that open doors in your career
  - [https://docs.microsoft.com](https://docs.microsoft.com)
  - date published: 2023-10-25T11:30:47.045143+00:00
@@ -3333,6 +3477,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Odelia Chan
+ - [https://odeliachan.com](https://odeliachan.com)
+ - date published: 2023-12-26T19:09:53.729956+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Odessa Journal | Main
  - [https://odessa-journal.com](https://odessa-journal.com)
  - date published: 2023-12-02T17:50:50.832192+00:00
@@ -3356,6 +3506,12 @@ Answering Machine Greetings!
  - date published: 2023-10-25T16:24:53.969223+00:00
  - user: None
  - tags: []
+
+## Joseph Staples
+ - [https://officesuppliesincorporated.com](https://officesuppliesincorporated.com)
+ - date published: 2023-12-26T06:31:36.997256+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Breaking News
  - [https://www.offthepress.com](https://www.offthepress.com)
@@ -3678,6 +3834,12 @@ Answering Machine Greetings!
 ## OpenResume - Free Open-source Resume Builder and Parser
  - [https://www.open-resume.com](https://www.open-resume.com)
  - date published: 2023-10-25T16:26:16.222288+00:00
+ - user: None
+ - tags: []
+
+## https://chat.openai.com
+ - [https://chat.openai.com](https://chat.openai.com)
+ - date published: 2023-12-26T15:17:31.114796+00:00
  - user: None
  - tags: []
 
@@ -5842,168 +6004,6 @@ Answering Machine Greetings!
 ## Points 411: the best points and miles database on the internet!
  - [https://www.points411.com](https://www.points411.com)
  - date published: 2023-10-25T16:37:26.668361+00:00
- - user: None
- - tags: []
-
-## Poised: AI-Powered Communication Coach
- - [https://www.poised.com](https://www.poised.com)
- - date published: 2023-10-25T16:37:29.231064+00:00
- - user: None
- - tags: []
-
-## Poki - Free Online Games - Play Online Games!
- - [https://poki.com](https://poki.com)
- - date published: 2023-10-25T11:17:06.102313+00:00
- - user: None
- - tags: ['games']
-
-## pokolenieX
- - [https://www.pokoleniex.com](https://www.pokoleniex.com)
- - date published: 2023-10-25T10:38:07.920804+00:00
- - user: None
- - tags: []
-
-## Debug Daily. Optimize Always | Polar Signals
- - [https://www.polarsignals.com](https://www.polarsignals.com)
- - date published: 2023-10-25T16:37:30.186144+00:00
- - user: None
- - tags: []
-
-## Pole Clock
- - [https://poleclock.com](https://poleclock.com)
- - date published: 2023-10-25T16:37:30.634994+00:00
- - user: None
- - tags: []
-
-## Law Enforcement News - The Police Tribune
- - [https://policetribune.com](https://policetribune.com)
- - date published: 2023-10-25T16:37:32.523394+00:00
- - user: None
- - tags: []
-
-## De Angela L. Duff
- - [https://www.polishedsolid.com](https://www.polishedsolid.com)
- - date published: 2023-12-20T11:44:35.174499+00:00
- - user: None
- - tags: ['personal']
-
-## De Angela L. Duff
- - [http://www.polishedsolid.com](http://www.polishedsolid.com)
- - date published: 2023-12-23T02:59:58.572062+00:00
- - user: None
- - tags: ['personal']
-
-## https://polishpixels.com
- - [https://polishpixels.com](https://polishpixels.com)
- - date published: 2023-10-25T11:17:06.597315+00:00
- - user: None
- - tags: []
-
-## Political Wire
- - [https://politicalwire.com](https://politicalwire.com)
- - date published: 2023-11-15T19:47:16.888313+00:00
- - user: None
- - tags: []
-
-## Politics, Policy, Political News - POLITICO
- - [https://www.politico.com](https://www.politico.com)
- - date published: 2023-10-25T10:28:21.996956+00:00
- - user: None
- - tags: []
-
-## PolitiFact
- - [https://www.politifact.com](https://www.politifact.com)
- - date published: 2023-11-14T13:36:23.125783+00:00
- - user: None
- - tags: []
-
-## Strona główna - Polityko.com
- - [https://polityko.com](https://polityko.com)
- - date published: 2023-10-25T10:14:27.475929+00:00
- - user: None
- - tags: []
-
-## tme Polówka – 2023
- - [https://polowka.com](https://polowka.com)
- - date published: 2023-10-27T14:19:33.297667+00:00
- - user: None
- - tags: []
-
-## Polyend - Polyend
- - [https://polyend.com](https://polyend.com)
- - date published: 2023-10-28T18:45:05.813732+00:00
- - user: None
- - tags: []
-
-## Polygon: Gaming and Entertainment News, Reviews, and More
- - [https://www.polygon.com](https://www.polygon.com)
- - date published: 2023-10-25T10:50:01.149258+00:00
- - user: None
- - tags: ['game news']
-
-## Polymath Robotics
- - [https://www.polymathrobotics.com](https://www.polymathrobotics.com)
- - date published: 2023-10-25T16:37:34.775691+00:00
- - user: None
- - tags: []
-
-## Home - Polytechnique Insights
- - [https://www.polytechnique-insights.com](https://www.polytechnique-insights.com)
- - date published: 2023-10-25T16:37:42.639884+00:00
- - user: None
- - tags: []
-
-## Home - Pomerium
- - [https://www.pomerium.com](https://www.pomerium.com)
- - date published: 2023-10-25T16:37:44.827366+00:00
- - user: None
- - tags: []
-
-## POMPLAMOOSE | New music & videos every week!
- - [https://www.pomplamoose.com](https://www.pomplamoose.com)
- - date published: 2023-10-30T13:30:09.286952+00:00
- - user: None
- - tags: ['music band']
-
-## Popcorn Computer
- - [https://shop.popcorncomputer.com](https://shop.popcorncomputer.com)
- - date published: 2023-10-25T16:37:46.302212+00:00
- - user: None
- - tags: []
-
-## Popcornflix
- - [https://www.popcornflix.com](https://www.popcornflix.com)
- - date published: 2023-12-02T13:13:17+00:00
- - user: rumpel
- - tags: []
-
-## popey.com - a geek through and through
- - [https://popey.com](https://popey.com)
- - date published: 2023-10-25T08:47:37.216100+00:00
- - user: None
- - tags: ['personal']
-
-## Uros Popovic
- - [https://popovicu.com](https://popovicu.com)
- - date published: 2023-10-25T08:58:16.378232+00:00
- - user: None
- - tags: ['personal']
-
-## Popular Science Homepage | Popular Science
- - [https://www.popsci.com](https://www.popsci.com)
- - date published: 2023-10-25T10:10:46.771446+00:00
- - user: None
- - tags: []
-
-## Popular Mechanics - Product Reviews, How-To, Space, Military, Math, Science, and New Technology
- - [https://www.popularmechanics.com](https://www.popularmechanics.com)
- - date published: 2023-10-25T16:37:51.033102+00:00
- - user: None
- - tags: []
-
-## Porsche Open Source Platform
- - [https://opensource.porsche.com](https://opensource.porsche.com)
- - date published: 2023-11-12T21:17:02+00:00
  - user: None
  - tags: []
 

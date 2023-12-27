@@ -1,3 +1,123 @@
+## John Kappa ✦ Melbourne Based Designer & Creative Artist
+ - [https://johnkappa.com](https://johnkappa.com)
+ - date published: 2023-11-29T14:41:20.308656+00:00
+ - user: None
+ - tags: ['personal']
+
+## Johnny Cash Has Been Everywhere (Man)! - Music Hack Day London 2012 - Iain Mullan
+ - [https://www.johnnycashhasbeeneverywhere.com](https://www.johnnycashhasbeeneverywhere.com)
+ - date published: 2023-10-25T11:07:59.661696+00:00
+ - user: None
+ - tags: ['funny', 'animation']
+
+## 11.01 Introduction║J•D
+ - [https://johnnydecimal.com](https://johnnydecimal.com)
+ - date published: 2023-10-25T15:30:19.537551+00:00
+ - user: None
+ - tags: []
+
+## johnnyreilly | johnnyreilly
+ - [https://johnnyreilly.com](https://johnnyreilly.com)
+ - date published: 2023-10-25T15:30:28.366557+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Johnny's Software Lab! - Johnny's Software Lab
+ - [https://johnnysswlab.com](https://johnnysswlab.com)
+ - date published: 2023-10-25T15:30:38.384314+00:00
+ - user: None
+ - tags: []
+
+## Johnny Webber 🔥 – some thoughts, some links
+ - [https://johnnywebber.com](https://johnnywebber.com)
+ - date published: 2023-10-25T09:25:42.382699+00:00
+ - user: None
+ - tags: ['personal']
+
+## John P. Weiss Artist and Writer
+ - [https://johnpweiss.com](https://johnpweiss.com)
+ - date published: 2023-10-25T15:30:43.191667+00:00
+ - user: None
+ - tags: []
+
+## John Qian's blog
+ - [https://blog.johnqian.com](https://blog.johnqian.com)
+ - date published: 2023-10-25T15:30:45.804332+00:00
+ - user: None
+ - tags: []
+
+## John Reed Stark | Incident Response and Digital Compliance
+ - [https://www.johnreedstark.com](https://www.johnreedstark.com)
+ - date published: 2023-10-25T15:30:48.365940+00:00
+ - user: None
+ - tags: []
+
+## John's internet house
+ - [https://johnwhiles.com](https://johnwhiles.com)
+ - date published: 2023-11-18T22:08:05.217014+00:00
+ - user: None
+ - tags: []
+
+## - john wilker
+ - [https://johnwilker.com](https://johnwilker.com)
+ - date published: 2023-11-29T15:32:06.390097+00:00
+ - user: None
+ - tags: ['personal']
+
+## John Zanussi
+ - [https://johnzanussi.com](https://johnzanussi.com)
+ - date published: 2023-12-10T20:35:29.532868+00:00
+ - user: None
+ - tags: ['personal']
+
+## BATTLEBIT REMASTERED
+ - [https://joinbattlebit.com](https://joinbattlebit.com)
+ - date published: 2023-11-04T19:18:12.604508+00:00
+ - user: None
+ - tags: ['game', 'massive online multiplayer', 'mmo']
+
+## BookWyrm: Social Reading and Reviewing
+ - [https://joinbookwyrm.com](https://joinbookwyrm.com)
+ - date published: 2023-10-25T15:30:50.406250+00:00
+ - user: None
+ - tags: []
+
+## Join me for the ride - Thoughts on how we live
+ - [https://joinmefortheride.com](https://joinmefortheride.com)
+ - date published: 2023-12-08T09:37:46.434802+00:00
+ - user: None
+ - tags: ['personal']
+
+## Korea JoongAng Daily
+ - [https://koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com)
+ - date published: 2023-10-25T15:31:01.479422+00:00
+ - user: None
+ - tags: []
+
+## JavaScript diagramming library for interactive UIs – JointJS
+ - [https://www.jointjs.com](https://www.jointjs.com)
+ - date published: 2023-10-25T15:31:04.622694+00:00
+ - user: None
+ - tags: []
+
+## AI for Tech Support
+ - [https://www.jointwig.com](https://www.jointwig.com)
+ - date published: 2023-10-25T15:31:05.890192+00:00
+ - user: None
+ - tags: []
+
+## Joltmailer
+ - [https://joltmailer.com](https://joltmailer.com)
+ - date published: 2023-11-10T11:04:46.045640+00:00
+ - user: None
+ - tags: []
+
+## jonandnic dot com - suddenly nothing happened
+ - [https://www.jonandnic.com](https://www.jonandnic.com)
+ - date published: 2023-10-25T15:31:08.960393+00:00
+ - user: None
+ - tags: []
+
 ## WordPress Membership Developer - Jonathan Martínez
  - [https://jonathanenlared.com](https://jonathanenlared.com)
  - date published: 2023-12-14T01:20:13.226016+00:00
@@ -507,6 +627,12 @@
  - date published: 2023-10-25T15:34:08.391173+00:00
  - user: None
  - tags: []
+
+## Home · Kai Lovel
+ - [https://kailovel.com](https://kailovel.com)
+ - date published: 2023-12-26T06:32:24.978826+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Kaitlin McKinnon
  - [https://www.kaitlinmckinnon.com](https://www.kaitlinmckinnon.com)
@@ -1385,6 +1511,12 @@
  - user: None
  - tags: []
 
+## Konfig | Generate SDKs, Docs, Demos, and Tutorials for your REST API
+ - [https://konfigthis.com](https://konfigthis.com)
+ - date published: 2023-12-26T06:12:26.887711+00:00
+ - user: None
+ - tags: []
+
 ## KonichiValue | Rei Saito | Substack
  - [https://www.konichivalue.com](https://www.konichivalue.com)
  - date published: 2023-10-25T15:38:38.318253+00:00
@@ -1672,6 +1804,12 @@
  - date published: 2023-10-30T13:20:43.795967+00:00
  - user: None
  - tags: []
+
+## kyle boddy
+ - [https://www.kyleboddy.com](https://www.kyleboddy.com)
+ - date published: 2023-12-26T06:32:50.045639+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Kyle Sexton // ChamberThink Strategies
  - [https://www.kylesexton.com](https://www.kylesexton.com)
@@ -2144,6 +2282,12 @@
 ## Learn Code the Hard Way
  - [https://learnjsthehardway.com](https://learnjsthehardway.com)
  - date published: 2023-10-25T15:44:09.394971+00:00
+ - user: None
+ - tags: []
+
+## Learn Modern C++
+ - [https://learnmoderncpp.com](https://learnmoderncpp.com)
+ - date published: 2023-12-26T08:18:03+00:00
  - user: None
  - tags: []
 
@@ -5854,150 +5998,6 @@ diversions.
 ## Michael Hudson
  - [https://michael-hudson.com](https://michael-hudson.com)
  - date published: 2023-11-16T12:41:59.799273+00:00
- - user: None
- - tags: []
-
-## Code Review Workshops with Dr. Michaela Greiler - Dr. McKayla
- - [https://www.michaelagreiler.com](https://www.michaelagreiler.com)
- - date published: 2023-10-25T16:02:47.336831+00:00
- - user: None
- - tags: []
-
-## Home Page V2
- - [https://www.michaelfrew.com](https://www.michaelfrew.com)
- - date published: 2023-11-29T16:20:25.573482+00:00
- - user: None
- - tags: ['personal']
-
-## Solution to a Contest Math Problem
- - [https://www.michaelhartl.com](https://www.michaelhartl.com)
- - date published: 2023-12-20T21:31:22.657887+00:00
- - user: None
- - tags: ['personal']
-
-## Michael's Notebook
- - [https://michaelnotebook.com](https://michaelnotebook.com)
- - date published: 2023-10-25T08:47:16.324263+00:00
- - user: None
- - tags: ['personal']
-
-## Wide Awake Developers
- - [https://www.michaelnygard.com](https://www.michaelnygard.com)
- - date published: 2023-10-25T16:02:49.444422+00:00
- - user: None
- - tags: []
-
-## The New Normal | Michael P Senger | Substack
- - [https://www.michaelpsenger.com](https://www.michaelpsenger.com)
- - date published: 2023-11-01T08:41:20.462876+00:00
- - user: None
- - tags: []
-
-## Hi there 👋
- - [https://michaelrbock.com](https://michaelrbock.com)
- - date published: 2023-12-11T10:57:55.589456+00:00
- - user: None
- - tags: ['personal']
-
-## Michael Samsel Therapist Seattle
- - [https://www.michaelsamsel.com](https://www.michaelsamsel.com)
- - date published: 2023-10-25T16:02:51.669719+00:00
- - user: None
- - tags: []
-
-## Michel Fortin | Visibility Marketing & SEO Strategy Expert
- - [https://michelfortin.com](https://michelfortin.com)
- - date published: 2023-11-29T17:16:25.427969+00:00
- - user: None
- - tags: ['seo', 'personal']
-
-## Michel Griffin - [En]chanteur franglais
- - [https://www.michelgriffin.com](https://www.michelgriffin.com)
- - date published: 2023-11-29T17:09:14.174486+00:00
- - user: None
- - tags: []
-
-## Michigan Post | Today's Front Page, Breaking News, World, Politics
- - [https://michigan-post.com](https://michigan-post.com)
- - date published: 2023-11-23T19:54:39.421012+00:00
- - user: None
- - tags: []
-
-## Mickey Mellen
- - [https://www.mickmel.com](https://www.mickmel.com)
- - date published: 2023-10-25T16:02:56.827577+00:00
- - user: None
- - tags: []
-
-## Micro Focus is now OpenText
- - [https://www.microfocus.com](https://www.microfocus.com)
- - date published: 2023-10-25T16:03:01.109438+00:00
- - user: None
- - tags: []
-
-## MicroMac Technology's Home Page for Macintosh Upgrades and Accelerators
- - [https://www.micromac.com](https://www.micromac.com)
- - date published: 2023-12-02T08:30:30.624398+00:00
- - user: None
- - tags: []
-
-## MicroProse | The name of the game in strategy and simulation
- - [https://www.microprose.com](https://www.microprose.com)
- - date published: 2023-11-06T10:58:40.981934+00:00
- - user: None
- - tags: ['amiga', 'game studio']
-
-## Micro SaaS HQ
- - [https://microsaashq.com](https://microsaashq.com)
- - date published: 2023-10-25T16:03:04.818064+00:00
- - user: None
- - tags: []
-
-## Microsoft Apps
- - [https://apps.microsoft.com](https://apps.microsoft.com)
- - date published: 2023-10-25T13:36:42.240354+00:00
- - user: None
- - tags: ['app store']
-
-## Find the right app | Microsoft AppSource
- - [https://appsource.microsoft.com](https://appsource.microsoft.com)
- - date published: 2023-10-25T16:03:13.347631+00:00
- - user: None
- - tags: []
-
-## Cloud Computing Services | Microsoft Azure
- - [https://azure.microsoft.com](https://azure.microsoft.com)
- - date published: 2023-10-25T16:03:25.472197+00:00
- - user: None
- - tags: []
-
-## Blog usługi Microsoft Fabric
- - [https://blog.fabric.microsoft.com](https://blog.fabric.microsoft.com)
- - date published: 2023-10-25T09:34:04.976907+00:00
- - user: None
- - tags: []
-
-## The Official Microsoft Blog
- - [https://blogs.microsoft.com](https://blogs.microsoft.com)
- - date published: 2023-10-25T09:34:08.525842+00:00
- - user: None
- - tags: []
-
-## Home - Cloud Perspectives Blog
- - [https://cloudblogs.microsoft.com](https://cloudblogs.microsoft.com)
- - date published: 2023-10-25T09:34:15.781614+00:00
- - user: None
- - tags: []
-
-## Microsoft Designer - Stunning designs in a flash
- - [https://designer.microsoft.com](https://designer.microsoft.com)
- - date published: 2023-10-25T16:03:31.208056+00:00
- - user: None
- - tags: []
-
-## DevBlogs - Microsoft Developer Blogs
- - [https://devblogs.microsoft.com](https://devblogs.microsoft.com)
- - date published: 2023-10-25T10:14:03.592606+00:00
  - user: None
  - tags: []
 

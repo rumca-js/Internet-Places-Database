@@ -1,3 +1,45 @@
+## BirdWatching
+ - [https://www.birdwatchingdaily.com](https://www.birdwatchingdaily.com)
+ - date published: 2023-10-25T13:00:51.302770+00:00
+ - user: None
+ - tags: []
+
+## Birdy Nam Nam
+ - [https://www.birdynamnam.com](https://www.birdynamnam.com)
+ - date published: 2023-11-13T10:25:25.562269+00:00
+ - user: None
+ - tags: ['music band']
+
+## Deep Learning – Foundations and Concepts (Chris Bishop)
+ - [https://www.bishopbook.com](https://www.bishopbook.com)
+ - date published: 2023-12-11T21:01:05+00:00
+ - user: None
+ - tags: []
+
+## BIT-101 – Bill Gates touched my Mac Book Pro.
+ - [https://www.bit-101.com](https://www.bit-101.com)
+ - date published: 2023-10-25T13:01:06.324531+00:00
+ - user: None
+ - tags: []
+
+## Bitcoin.com News
+ - [https://news.bitcoin.com](https://news.bitcoin.com)
+ - date published: 2023-10-25T13:01:10.196623+00:00
+ - user: None
+ - tags: []
+
+## Bitdefender - Global Leader in Cybersecurity Software
+ - [https://www.bitdefender.com](https://www.bitdefender.com)
+ - date published: 2023-10-25T13:01:12.523556+00:00
+ - user: None
+ - tags: []
+
+## Bitesize Bio: Life Science & Bioscience Articles For Researchers
+ - [https://bitesizebio.com](https://bitesizebio.com)
+ - date published: 2023-10-25T13:01:20.829391+00:00
+ - user: None
+ - tags: []
+
 ## Bitesized Engineering | Mihailo Joksimovic | Substack
  - [https://www.bitesizedengineering.com](https://www.bitesizedengineering.com)
  - date published: 2023-10-25T13:01:25.431101+00:00
@@ -5295,6 +5337,12 @@
  - user: None
  - tags: []
 
+## History of Alice and Bob
+ - [http://cryptocouple.com](http://cryptocouple.com)
+ - date published: 2023-12-26T21:08:11+00:00
+ - user: None
+ - tags: []
+
 ## A Few Thoughts on Cryptographic Engineering – Some random thoughts about crypto. Notes from a course I teach. Pictures of my dachshunds.
  - [https://blog.cryptographyengineering.com](https://blog.cryptographyengineering.com)
  - date published: 2023-10-25T13:37:59.416502+00:00
@@ -5959,54 +6007,6 @@
 ## Danny Sullivan
  - [https://dannysullivan.com](https://dannysullivan.com)
  - date published: 2023-11-01T20:29:51.190146+00:00
- - user: None
- - tags: []
-
-## Danny van Kooten
- - [https://dannyvankooten.com](https://dannyvankooten.com)
- - date published: 2023-12-13T20:58:39.281836+00:00
- - user: None
- - tags: ['personal']
-
-## Dan Slimmon – Evidence-oriented SRE
- - [https://blog.danslimmon.com](https://blog.danslimmon.com)
- - date published: 2023-10-25T13:43:11.268220+00:00
- - user: None
- - tags: []
-
-## dappGambl: Crypto Gambling, dApps & Blockchain [2023]
- - [https://dappgambl.com](https://dappgambl.com)
- - date published: 2023-10-25T13:43:20.753656+00:00
- - user: None
- - tags: []
-
-## Darek Kay — Solving web mysteries
- - [https://darekkay.com](https://darekkay.com)
- - date published: 2023-10-25T13:43:21.584138+00:00
- - user: None
- - tags: []
-
-## Daren Smith | Creative Entrepreneur, Film Producer, Author
- - [https://www.darentsmith.com](https://www.darentsmith.com)
- - date published: 2023-11-29T14:40:52.055355+00:00
- - user: None
- - tags: []
-
-## Helping professionals work in their Zone of Genius ~ Daria Williamson
- - [https://dariawilliamson.com](https://dariawilliamson.com)
- - date published: 2023-12-07T17:36:25.827727+00:00
- - user: None
- - tags: ['personal']
-
-## Darius Foroux | Weekly ideas to become smarter and wealthier
- - [https://dariusforoux.com](https://dariusforoux.com)
- - date published: 2023-10-25T13:43:22.766378+00:00
- - user: None
- - tags: []
-
-## Dariusz Semba
- - [https://dariuszsemba.com](https://dariuszsemba.com)
- - date published: 2023-10-25T13:43:24.609905+00:00
  - user: None
  - tags: []
 

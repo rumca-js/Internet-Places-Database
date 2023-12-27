@@ -1,3 +1,315 @@
+## The Prompt Engineering Institute
+ - [https://www.promptengineering.org](https://www.promptengineering.org)
+ - date published: 2023-10-25T22:00:15.243915+00:00
+ - user: None
+ - tags: []
+
+## News Apps
+ - [https://projects.propublica.org](https://projects.propublica.org)
+ - date published: 2023-12-03T17:38:30.732754+00:00
+ - user: None
+ - tags: []
+
+## ProPublica — Investigative Journalism and News in the Public Interest
+ - [https://www.propublica.org](https://www.propublica.org)
+ - date published: 2023-10-25T22:00:23.020914+00:00
+ - user: None
+ - tags: []
+
+## TAP : The American Prospect - The American Prospect
+ - [https://prospect.org](https://prospect.org)
+ - date published: 2023-10-25T22:00:31.069363+00:00
+ - user: None
+ - tags: []
+
+## PRQL
+ - [https://prql-lang.org](https://prql-lang.org)
+ - date published: 2023-10-25T22:00:32.868752+00:00
+ - user: None
+ - tags: []
+
+## Public Reading Rooms — The Politics of Art and Vice Versa
+ - [https://prruk.org](https://prruk.org)
+ - date published: 2023-11-06T14:35:44.749668+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.psychiatry.org](https://www.psychiatry.org)
+ - date published: 2023-12-11T08:49:29.766882+00:00
+ - user: None
+ - tags: []
+
+## Psych News Alert
+ - [https://alert.psychnews.org](https://alert.psychnews.org)
+ - date published: 2023-12-11T08:49:26.415555+00:00
+ - user: None
+ - tags: []
+
+## Association for Psychological Science – APS
+ - [https://www.psychologicalscience.org](https://www.psychologicalscience.org)
+ - date published: 2023-10-25T22:00:43.205501+00:00
+ - user: None
+ - tags: []
+
+## PostgreSQL driver for Python — Psycopg
+ - [https://www.psycopg.org](https://www.psycopg.org)
+ - date published: 2023-10-25T22:00:45.711335+00:00
+ - user: None
+ - tags: []
+
+## http://www.psygnosis.org
+ - [http://www.psygnosis.org](http://www.psygnosis.org)
+ - date published: 2023-11-06T10:59:24.530295+00:00
+ - user: None
+ - tags: ['amiga', 'game studio']
+
+## PsyPost - Reporting the latest scientific research on behavior, cognition and society
+ - [https://www.psypost.org](https://www.psypost.org)
+ - date published: 2023-10-25T22:00:49.739432+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Public Books
+ - [https://www.publicbooks.org](https://www.publicbooks.org)
+ - date published: 2023-10-25T22:00:55.631572+00:00
+ - user: None
+ - tags: []
+
+## The Public Domain Review – Online journal dedicated to showcasing the most interesting and unusual out-of-copyright works available on the web
+ - [https://publicdomainreview.org](https://publicdomainreview.org)
+ - date published: 2023-10-25T22:00:57.723285+00:00
+ - user: None
+ - tags: []
+
+## Royalty-free vector clip art, svg files and graphics | Public domain vectors
+ - [https://publicdomainvectors.org](https://publicdomainvectors.org)
+ - date published: 2023-12-06T12:52:35+00:00
+ - user: rumpel
+ - tags: ['asset images']
+
+## Homepage - Public Health Watch
+ - [https://publichealthwatch.org](https://publichealthwatch.org)
+ - date published: 2023-12-19T05:58:20.462407+00:00
+ - user: None
+ - tags: []
+
+## Home - Initiative for Digital Public Infrastructure
+ - [https://publicinfrastructure.org](https://publicinfrastructure.org)
+ - date published: 2023-10-25T22:00:59.372808+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://publicintegrity.org](https://publicintegrity.org)
+ - date published: 2023-12-10T14:15:23.504603+00:00
+ - user: None
+ - tags: []
+
+## Publishers for Palestine
+ - [https://publishersforpalestine.org](https://publishersforpalestine.org)
+ - date published: 2023-12-03T05:58:10.182044+00:00
+ - user: None
+ - tags: ['palestine']
+
+## PubMedInfo - niewygodne informacje i komunikaty - Chcesz podejmować świadome decyzje na temat szczepień? Dowiedz się tego co jest pomijane w debacie na temat szczepień, aby móc takie decyzje podejmować.
+ - [https://pubmedinfo.org](https://pubmedinfo.org)
+ - date published: 2023-10-25T22:01:02.466312+00:00
+ - user: None
+ - tags: []
+
+## RS Open Journal on Innovative Communication Technologies
+ - [https://rs-ojict.pubpub.org](https://rs-ojict.pubpub.org)
+ - date published: 2023-10-25T22:01:11.596207+00:00
+ - user: None
+ - tags: []
+
+## PURL Administration
+ - [https://purl.org](https://purl.org)
+ - date published: 2023-12-18T17:12:25.430993+00:00
+ - user: None
+ - tags: []
+
+## Download PuTTY - a free SSH and telnet client for Windows
+ - [https://putty.org](https://putty.org)
+ - date published: 2023-10-30T14:12:02.186125+00:00
+ - user: None
+ - tags: ['terminal', 'ssh']
+
+## Printable Puzzle Project
+ - [https://www.puzzlehub.org](https://www.puzzlehub.org)
+ - date published: 2023-10-25T22:01:15.608110+00:00
+ - user: None
+ - tags: []
+
+## PyPI Data
+ - [https://py-code.org](https://py-code.org)
+ - date published: 2023-10-25T22:01:22.138423+00:00
+ - user: None
+ - tags: []
+
+## Numba: A High Performance Python Compiler
+ - [https://numba.pydata.org](https://numba.pydata.org)
+ - date published: 2023-10-25T22:01:24.536126+00:00
+ - user: None
+ - tags: []
+
+## PyData |
+ - [https://pydata.org](https://pydata.org)
+ - date published: 2023-10-25T22:01:28.793660+00:00
+ - user: None
+ - tags: []
+
+## The Python Package Index
+ - [https://blog.pypi.org](https://blog.pypi.org)
+ - date published: 2023-10-25T22:01:31.397737+00:00
+ - user: None
+ - tags: []
+
+## PyPI · The Python Package Index
+ - [https://pypi.org](https://pypi.org)
+ - date published: 2023-10-25T22:01:32.343167+00:00
+ - user: None
+ - tags: []
+
+## PyPy
+ - [https://www.pypy.org](https://www.pypy.org)
+ - date published: 2023-10-25T22:01:33.685132+00:00
+ - user: None
+ - tags: []
+
+## Discussions on Python.org
+ - [https://discuss.python.org](https://discuss.python.org)
+ - date published: 2023-10-25T22:01:36.521112+00:00
+ - user: None
+ - tags: []
+
+## 3.12.0 Documentation
+ - [https://docs.python.org](https://docs.python.org)
+ - date published: 2023-10-25T22:01:37.607967+00:00
+ - user: None
+ - tags: []
+
+## Python Packaging User Guide
+ - [https://packaging.python.org](https://packaging.python.org)
+ - date published: 2023-11-27T11:38:52+00:00
+ - user: rumpel
+ - tags: []
+
+## PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org
+ - [https://peps.python.org](https://peps.python.org)
+ - date published: 2023-10-25T22:01:48.328063+00:00
+ - user: None
+ - tags: []
+
+## Python Infrastructure Status
+ - [https://status.python.org](https://status.python.org)
+ - date published: 2023-10-25T22:01:55.156781+00:00
+ - user: None
+ - tags: []
+
+## Python Software Foundation Wiki Server
+ - [https://wiki.python.org](https://wiki.python.org)
+ - date published: 2023-10-29T15:06:13.910839+00:00
+ - user: None
+ - tags: ['python']
+
+## Welcome to Python.org
+ - [https://www.python.org](https://www.python.org)
+ - date published: 2023-11-01T08:44:37.169601+00:00
+ - user: None
+ - tags: []
+
+## PyTorch
+ - [https://pytorch.org](https://pytorch.org)
+ - date published: 2023-10-25T08:34:08.387489+00:00
+ - user: None
+ - tags: []
+
+## Worldspawn Archiwum
+ - [https://pl.ws.q3df.org](https://pl.ws.q3df.org)
+ - date published: 2023-10-30T15:15:49.034470+00:00
+ - user: None
+ - tags: []
+
+## Worldspawn Archive
+ - [https://ws.q3df.org](https://ws.q3df.org)
+ - date published: 2023-10-28T20:31:03.999056+00:00
+ - user: None
+ - tags: []
+
+## q3k
+ - [https://q3k.org](https://q3k.org)
+ - date published: 2023-10-25T22:01:55.679629+00:00
+ - user: None
+ - tags: []
+
+## KVM Forum 2023 :: pretalx
+ - [https://kvm-forum.qemu.org](https://kvm-forum.qemu.org)
+ - date published: 2023-10-25T22:01:56.457833+00:00
+ - user: None
+ - tags: []
+
+## QEMU
+ - [https://www.qemu.org](https://www.qemu.org)
+ - date published: 2023-10-25T08:34:09.763125+00:00
+ - user: None
+ - tags: ['emulation']
+
+## Things Of Interest @ Things Of Interest
+ - [https://qntm.org](https://qntm.org)
+ - date published: 2023-10-25T22:01:57.192098+00:00
+ - user: None
+ - tags: []
+
+## Quake Wiki
+ - [https://quakewiki.org](https://quakewiki.org)
+ - date published: 2023-10-25T11:18:24.728059+00:00
+ - user: None
+ - tags: []
+
+## Home Page | Labs
+ - [https://labs.quansight.org](https://labs.quansight.org)
+ - date published: 2023-10-25T22:01:58.917306+00:00
+ - user: None
+ - tags: []
+
+## Quanta Magazine
+ - [https://www.quantamagazine.org](https://www.quantamagazine.org)
+ - date published: 2023-10-25T10:12:13.758505+00:00
+ - user: None
+ - tags: []
+
+## Qubes OS: A reasonably secure operating system | Qubes OS
+ - [https://www.qubes-os.org](https://www.qubes-os.org)
+ - date published: 2023-10-25T22:02:00.525326+00:00
+ - user: None
+ - tags: []
+
+## Matthias Kramm's Homepage
+ - [http://www.quiss.org](http://www.quiss.org)
+ - date published: 2023-10-25T22:02:01.175325+00:00
+ - user: None
+ - tags: []
+
+## index - quitesimple
+ - [https://quitesimple.org](https://quitesimple.org)
+ - date published: 2023-10-25T22:02:01.982681+00:00
+ - user: None
+ - tags: []
+
+## (thirteenth RacketCon)
+ - [https://con.racket-lang.org](https://con.racket-lang.org)
+ - date published: 2023-10-25T22:02:08.109541+00:00
+ - user: None
+ - tags: []
+
+## Racket Documentation
+ - [https://docs.racket-lang.org](https://docs.racket-lang.org)
+ - date published: 2023-10-25T22:02:21.902657+00:00
+ - user: None
+ - tags: []
+
 ## RacketScript Playground
  - [http://racketscript.org](http://racketscript.org)
  - date published: 2023-10-25T22:02:22.780541+00:00
@@ -2339,6 +2651,13 @@
  - date published: 2023-11-02T11:19:51.464364+00:00
  - user: None
  - tags: []
+
+## Gary Gale •
+            Gary Gale
+ - [https://www.vicchi.org](https://www.vicchi.org)
+ - date published: 2023-12-26T06:31:43.798844+00:00
+ - user: None
+ - tags: ['personal']
 
 ## The Victorian Web: Linking Scholarship, Teaching and Learning since 1994
  - [https://victorianweb.org](https://victorianweb.org)
@@ -5689,322 +6008,4 @@ is forbidden
  - date published: 2023-11-13T11:06:25.025770+00:00
  - user: None
  - tags: ['music band']
-
-## Wielkopolskie Centrum Onkologii - Zakład opieki zdrowotnej, radioterapia, chemioterapia, immunoterapia, chirurgia onkologiczna, ginekologia onkologiczna.
- - [https://wco.pl](https://wco.pl)
- - date published: 2023-10-25T22:32:40.813278+00:00
- - user: None
- - tags: []
-
-## Strona główna - Wielka Litera
- - [https://wielkalitera.pl](https://wielkalitera.pl)
- - date published: 2023-11-13T12:56:33.137385+00:00
- - user: None
- - tags: ['book publisher']
-
-## Więź. Wiara, kultura, społeczeństwo
- - [https://wiez.pl](https://wiez.pl)
- - date published: 2023-10-25T22:32:44.916878+00:00
- - user: None
- - tags: []
-
-## Media, Reklama, Internet, PR, Telewizja, Radio - najnowsze wiadomości tylko na WirtualneMedia.pl
- - [https://m.wirtualnemedia.pl](https://m.wirtualnemedia.pl)
- - date published: 2023-10-25T22:32:51.254215+00:00
- - user: None
- - tags: []
-
-## Media, Reklama, Internet, PR, Telewizja, Radio - najnowsze wiadomości tylko na WirtualneMedia.pl
- - [https://www.wirtualnemedia.pl](https://www.wirtualnemedia.pl)
- - date published: 2023-10-25T10:33:38.734555+00:00
- - user: None
- - tags: []
-
-## Strona Główna – Wielkopolska 112
- - [https://wlkp112.pl](https://wlkp112.pl)
- - date published: 2023-10-30T13:20:56.991457+00:00
- - user: None
- - tags: []
-
-## https://wlnp.pl
- - [https://wlnp.pl](https://wlnp.pl)
- - date published: 2023-12-05T15:22:03+00:00
- - user: rumpel
- - tags: ['freemasonry']
-
-## wnp.pl - portal gospodarczy: przemysł, biznes, finanse
- - [https://www.wnp.pl](https://www.wnp.pl)
- - date published: 2023-10-25T22:32:58.519968+00:00
- - user: None
- - tags: []
-
-## Wojciech Kulik – Software Engineer
- - [https://wojciechkulik.pl](https://wojciechkulik.pl)
- - date published: 2023-10-25T22:33:02.014857+00:00
- - user: None
- - tags: []
-
-## Sport w WP SportoweFakty - wiadomości sportowe, relacje na żywo, wyniki
- - [https://sportowefakty.wp.pl](https://sportowefakty.wp.pl)
- - date published: 2023-10-25T10:33:44.154861+00:00
- - user: None
- - tags: []
-
-## WP Teleshow
- - [https://teleshow.wp.pl](https://teleshow.wp.pl)
- - date published: 2023-10-25T10:33:47.363720+00:00
- - user: None
- - tags: []
-
-## Wiadomości z kraju i ze świata – wszystko co ważne – WP
- - [https://wiadomosci.wp.pl](https://wiadomosci.wp.pl)
- - date published: 2023-10-25T10:33:51.760182+00:00
- - user: None
- - tags: []
-
-## Wirtualna Polska - Wszystko co ważne - www.wp.pl
- - [https://www.wp.pl](https://www.wp.pl)
- - date published: 2023-10-25T10:34:14.164674+00:00
- - user: None
- - tags: ['news']
-
-## Wiadomości z Polski i ze świata
- - [https://wpolityce.pl](https://wpolityce.pl)
- - date published: 2023-10-25T10:34:21.566093+00:00
- - user: None
- - tags: []
-
-## Biznes Wprost
- - [https://biznes.wprost.pl](https://biznes.wprost.pl)
- - date published: 2023-10-25T10:34:24.284061+00:00
- - user: None
- - tags: []
-
-## WPROST.pl - Polska i świat, historia, polityka, biznes, kultura
- - [https://www.wprost.pl](https://www.wprost.pl)
- - date published: 2023-10-25T10:34:32.684573+00:00
- - user: None
- - tags: []
-
-## Poznań.Wyborcza.pl - Najnowsze wiadomo¶ci z Poznania
- - [https://poznan.wyborcza.pl](https://poznan.wyborcza.pl)
- - date published: 2023-11-09T08:56:59.160292+00:00
- - user: None
- - tags: []
-
-## Sosnowiec.Wyborcza.pl- Najnowsze wiadomo¶ci z Sosnowca
- - [https://sosnowiec.wyborcza.pl](https://sosnowiec.wyborcza.pl)
- - date published: 2023-10-25T10:35:47.645864+00:00
- - user: None
- - tags: []
-
-## Trójmiasto.Wyborcza.pl - Najnowsze wiadomo¶ci z Trójmiasta
- - [https://trojmiasto.wyborcza.pl](https://trojmiasto.wyborcza.pl)
- - date published: 2023-10-25T22:33:10.581549+00:00
- - user: None
- - tags: []
-
-## Warszawa.Wyborcza.pl- Najnowsze wiadomoÑci z Warszawy
- - [https://warszawa.wyborcza.pl](https://warszawa.wyborcza.pl)
- - date published: 2023-10-25T22:33:18.629683+00:00
- - user: None
- - tags: []
-
-## Wyborcza.pl - Naj¶wieższe wiadomo¶ci od Gazety Wyborczej
- - [https://wyborcza.pl](https://wyborcza.pl)
- - date published: 2023-10-25T22:33:33+00:00
- - user: rumpel
- - tags: ['mainstream media']
-
-## Wykop.pl - newsy, aktualności, gry, wiadomości, muzyka, ciekawostki, filmiki
- - [https://www.wykop.pl](https://www.wykop.pl)
- - date published: 2023-10-24T20:12:56.803640+00:00
- - user: None
- - tags: ['conspiracy theories', 'misinformation', 'social platform']
-
-## Wykop.pl - newsy, aktualności, gry, wiadomości, muzyka, ciekawostki, filmiki
- - [https://wykop.pl](https://wykop.pl)
- - date published: 2023-10-24T20:13:05.279016+00:00
- - user: None
- - tags: ['conspiracy theories', 'link aggregator', 'misinformation', 'social platform']
-
-## x-kom.pl - Sklep komputerowy
- - [https://www.x-kom.pl](https://www.x-kom.pl)
- - date published: 2023-10-24T20:17:46.684016+00:00
- - user: None
- - tags: ['shop']
-
-## XGP.pl | Portal o grach i konsolach
- - [https://xgp.pl](https://xgp.pl)
- - date published: 2023-10-30T11:51:26.196647+00:00
- - user: None
- - tags: []
-
-## Kalkulator belek online
- - [http://www.belki.y0.pl](http://www.belki.y0.pl)
- - date published: 2023-11-13T11:31:35.615429+00:00
- - user: None
- - tags: ['online calculator']
-
-## YATTA.PL - Sklep z mangą i komiksami
- - [https://yatta.pl](https://yatta.pl)
- - date published: 2023-12-02T12:55:35+00:00
- - user: rumpel
- - tags: ['anime', 'manga']
-
-## Zaimki.pl
- - [https://zaimki.pl](https://zaimki.pl)
- - date published: 2023-10-25T08:30:22.237407+00:00
- - user: None
- - tags: ['propaganda', 'gender', 'pronouns']
-
-## Zaufana Trzecia Strona
- - [https://zaufanatrzeciastrona.pl](https://zaufanatrzeciastrona.pl)
- - date published: 2023-10-25T22:33:38+00:00
- - user: rumpel
- - tags: ['tech news']
-
-## TVN Zdrowie - wszystko o zdrowiu i medycynie
- - [https://zdrowietvn.pl](https://zdrowietvn.pl)
- - date published: 2023-10-25T10:34:35.348293+00:00
- - user: None
- - tags: []
-
-## Zielony Ogródek – Najlepszy poradnik ogrodniczy w Internecie!
- - [https://zielonyogrodek.pl](https://zielonyogrodek.pl)
- - date published: 2023-12-13T14:59:08.276268+00:00
- - user: None
- - tags: ['garden']
-
-## Na Zrzutka.pl zbierzesz pieniądze na co chcesz - załóż własną zrzutkę | zrzutka.pl
- - [https://zrzutka.pl](https://zrzutka.pl)
- - date published: 2023-12-04T17:43:38+00:00
- - user: rumpel
- - tags: ['crowdfunding']
-
-## Warszawa.pl – Strona Główna
- - [https://www.warszawa.pl](https://www.warszawa.pl)
- - date published: 2023-12-05T15:23:45+00:00
- - user: rumpel
- - tags: ['warsow']
-
-## daily.place
- - [https://www.daily.place](https://www.daily.place)
- - date published: 2023-10-25T22:33:40.137685+00:00
- - user: None
- - tags: []
-
-## Gamedev Mastodon
- - [https://mastodon.gamedev.place](https://mastodon.gamedev.place)
- - date published: 2023-10-24T20:13:37.006720+00:00
- - user: None
- - tags: ['mastodon']
-
-## dt: duck tape for your unix pipes
- - [https://dt.plumbing](https://dt.plumbing)
- - date published: 2023-10-25T22:33:46.557069+00:00
- - user: None
- - tags: []
-
-## HexDocs
- - [https://hexdocs.pm](https://hexdocs.pm)
- - date published: 2023-10-25T22:33:48.920724+00:00
- - user: None
- - tags: []
-
-## hut
- - [https://hut.pm](https://hut.pm)
- - date published: 2023-10-25T22:33:50.111529+00:00
- - user: None
- - tags: []
-
-## The Incredible Proof Machine
- - [https://incredible.pm](https://incredible.pm)
- - date published: 2023-10-25T22:33:55.866462+00:00
- - user: None
- - tags: []
-
-## Moritz' Blog
- - [https://moritz.pm](https://moritz.pm)
- - date published: 2023-10-25T22:33:56.288735+00:00
- - user: None
- - tags: []
-
-## OKO.press – Informacje, analizy, śledztwa, reportaże, fact-checkingi
- - [https://oko.press](https://oko.press)
- - date published: 2023-10-25T22:34:03.062465+00:00
- - user: None
- - tags: []
-
-## The Private Citizen
- - [https://privatecitizen.press](https://privatecitizen.press)
- - date published: 2023-12-01T08:32:07+00:00
- - user: rumpel
- - tags: ['privacy', 'surveillance']
-
-## Stripe Press — Ideas for progress
- - [https://www.stripe.press](https://www.stripe.press)
- - date published: 2023-12-04T07:13:57.601019+00:00
- - user: None
- - tags: []
-
-## Tech Policy Press - Technology and Democracy
- - [https://techpolicy.press](https://techpolicy.press)
- - date published: 2023-10-25T22:34:08.882662+00:00
- - user: None
- - tags: []
-
-## BlockSuite | Block-Based Collaborative Editing
- - [https://blocksuite.affine.pro](https://blocksuite.affine.pro)
- - date published: 2023-10-25T22:34:10.251617+00:00
- - user: None
- - tags: []
-
-## JUXT
- - [https://www.juxt.pro](https://www.juxt.pro)
- - date published: 2023-10-25T22:34:12.019684+00:00
- - user: None
- - tags: []
-
-## PlanLike.Pro - Create Estimates in Minutes
- - [https://planlike.pro](https://planlike.pro)
- - date published: 2023-10-25T22:34:13.525784+00:00
- - user: None
- - tags: []
-
-## Trottinette électrique - Guide pour tout savoir
- - [https://www.trottinette-electrique.pro](https://www.trottinette-electrique.pro)
- - date published: 2023-12-11T16:11:45.523994+00:00
- - user: None
- - tags: []
-
-## Uptime Lab / Hackathon every day
- - [https://uplab.pro](https://uplab.pro)
- - date published: 2023-11-18T08:17:04.377091+00:00
- - user: None
- - tags: ['personal']
-
-## Vocable.pro
- - [https://vocable.pro](https://vocable.pro)
- - date published: 2023-11-01T09:36:39.899062+00:00
- - user: None
- - tags: []
-
-## Citroen Palestine : Auto and new car for sale
- - [https://www.citroen.ps](https://www.citroen.ps)
- - date published: 2023-12-11T16:04:18.957968+00:00
- - user: None
- - tags: []
-
-## Vitor M. de Sousa Pereira | 0x1
- - [https://0x1.pt](https://0x1.pt)
- - date published: 2023-10-25T22:34:15.009100+00:00
- - user: None
- - tags: []
-
-## Veículos Novos | Citroën Portugal
- - [https://www.citroen.pt](https://www.citroen.pt)
- - date published: 2023-12-11T16:04:31.153758+00:00
- - user: None
- - tags: []
 

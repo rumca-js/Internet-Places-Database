@@ -1,3 +1,261 @@
+## EUMETSAT | Monitoring the weather and climate from space | EUMETSAT
+ - [https://www.eumetsat.int](https://www.eumetsat.int)
+ - date published: 2023-10-25T19:36:32.487462+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.icao.int](https://www.icao.int)
+ - date published: 2023-10-25T19:36:35.257231+00:00
+ - user: None
+ - tags: []
+
+## | International Criminal Court
+ - [https://www.icc-cpi.int](https://www.icc-cpi.int)
+ - date published: 2023-10-25T19:36:37.915405+00:00
+ - user: None
+ - tags: []
+
+## NATO - Homepage
+ - [https://www.nato.int](https://www.nato.int)
+ - date published: 2023-10-25T19:36:41.145399+00:00
+ - user: None
+ - tags: []
+
+## ReliefWeb - Informing humanitarians worldwide
+ - [https://reliefweb.int](https://reliefweb.int)
+ - date published: 2023-10-25T19:36:44.632738+00:00
+ - user: None
+ - tags: []
+
+## World Health Organization (WHO)
+ - [https://www.who.int](https://www.who.int)
+ - date published: 2023-10-25T19:36:52.392796+00:00
+ - user: None
+ - tags: []
+
+## World Meteorological Organization |
+ - [https://public.wmo.int](https://public.wmo.int)
+ - date published: 2023-10-25T19:36:59.974563+00:00
+ - user: None
+ - tags: []
+
+## 12ft Ladder
+ - [https://12ft.io](https://12ft.io)
+ - date published: 2023-10-25T19:37:01.821312+00:00
+ - user: None
+ - tags: []
+
+## F*** Paywalls
+ - [https://1ft.io](https://1ft.io)
+ - date published: 2023-11-04T16:59:18+00:00
+ - user: None
+ - tags: []
+
+## former Bell Labs Computing and Mathematical Sciences Research
+ - [https://9p.io](https://9p.io)
+ - date published: 2023-10-25T19:37:03.235955+00:00
+ - user: None
+ - tags: []
+
+## abseil / abseil.io
+ - [https://abseil.io](https://abseil.io)
+ - date published: 2023-10-25T19:37:05.168960+00:00
+ - user: None
+ - tags: []
+
+## Adalytics
+ - [https://adalytics.io](https://adalytics.io)
+ - date published: 2023-10-25T19:37:08.319881+00:00
+ - user: None
+ - tags: []
+
+## AdGuard DNS — ad-blocking DNS server
+ - [https://adguard-dns.io](https://adguard-dns.io)
+ - date published: 2023-11-22T06:50:43+00:00
+ - user: rumpel
+ - tags: ['ad block', 'dns']
+
+## AdNauseam
+ - [https://adnauseam.io](https://adnauseam.io)
+ - date published: 2023-10-25T19:37:10.261889+00:00
+ - user: None
+ - tags: []
+
+## The World's #1 Product Development Software | Aha!
+ - [https://www.aha.io](https://www.aha.io)
+ - date published: 2023-10-25T19:37:14.450720+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Airdraw
+ - [https://www.airdraw.io](https://www.airdraw.io)
+ - date published: 2023-12-14T22:02:44+00:00
+ - user: None
+ - tags: []
+
+## Airframes
+ - [https://app.airframes.io](https://app.airframes.io)
+ - date published: 2023-10-25T19:37:15.997927+00:00
+ - user: None
+ - tags: []
+
+## Simple Automation
+ - [https://blog.ajour.io](https://blog.ajour.io)
+ - date published: 2023-10-25T19:37:17.812878+00:00
+ - user: None
+ - tags: []
+
+## Deploy to Kubernetes safely and at scale with Argo CD as a managed service | Akuity
+ - [https://akuity.io](https://akuity.io)
+ - date published: 2023-10-25T19:37:25.269732+00:00
+ - user: None
+ - tags: []
+
+## Alex Ellis' Blog
+ - [https://blog.alexellis.io](https://blog.alexellis.io)
+ - date published: 2023-10-25T08:59:05.007883+00:00
+ - user: None
+ - tags: ['personal']
+
+## Algora
+ - [https://console.algora.io](https://console.algora.io)
+ - date published: 2023-10-25T19:37:26.590641+00:00
+ - user: None
+ - tags: []
+
+## AltStore
+ - [https://altstore.io](https://altstore.io)
+ - date published: 2023-10-25T19:37:28.350698+00:00
+ - user: None
+ - tags: []
+
+## Ameliorated.io
+ - [https://ameliorated.io](https://ameliorated.io)
+ - date published: 2023-10-25T19:37:30.300979+00:00
+ - user: None
+ - tags: []
+
+## American Express Technology
+ - [https://americanexpress.io](https://americanexpress.io)
+ - date published: 2023-10-25T19:37:33.148951+00:00
+ - user: None
+ - tags: []
+
+## Andy Grove's Blog
+ - [https://andygrove.io](https://andygrove.io)
+ - date published: 2023-12-12T22:18:02.902753+00:00
+ - user: None
+ - tags: []
+
+## Angular
+ - [https://angular.io](https://angular.io)
+ - date published: 2023-10-27T12:21:52.948727+00:00
+ - user: None
+ - tags: ['angular']
+
+## Angular Blog
+ - [https://blog.angular.io](https://blog.angular.io)
+ - date published: 2023-10-25T19:37:37.334016+00:00
+ - user: None
+ - tags: []
+
+## The Everything App
+ - [https://anytype.io](https://anytype.io)
+ - date published: 2023-10-25T19:37:39.588844+00:00
+ - user: None
+ - tags: []
+
+## API Handyman
+ - [https://apihandyman.io](https://apihandyman.io)
+ - date published: 2023-10-25T19:37:41.287684+00:00
+ - user: None
+ - tags: []
+
+## Ultra simple back end for static websites
+ - [https://appbackend.io](https://appbackend.io)
+ - date published: 2023-11-02T23:57:04+00:00
+ - user: None
+ - tags: []
+
+## The AppCensus Blog
+ - [https://blog.appcensus.io](https://blog.appcensus.io)
+ - date published: 2023-10-25T19:37:44.083298+00:00
+ - user: None
+ - tags: []
+
+## https://cdn.appconsent.io
+ - [https://cdn.appconsent.io](https://cdn.appconsent.io)
+ - date published: 2023-12-18T17:18:59.935352+00:00
+ - user: None
+ - tags: []
+
+## Apricitas Economics | Joseph Politano | Substack
+ - [https://www.apricitas.io](https://www.apricitas.io)
+ - date published: 2023-10-25T19:37:47.487142+00:00
+ - user: None
+ - tags: []
+
+## Open-source data curation platform for LLMs
+ - [https://argilla.io](https://argilla.io)
+ - date published: 2023-10-25T19:37:49.975085+00:00
+ - user: None
+ - tags: []
+
+## Fatih Arslan
+ - [https://arslan.io](https://arslan.io)
+ - date published: 2023-10-25T19:37:51.402475+00:00
+ - user: None
+ - tags: []
+
+## Ash Smith - Senior Software Engineer. Bath, UK
+ - [https://www.ashsmith.io](https://www.ashsmith.io)
+ - date published: 2023-12-23T02:59:52.670775+00:00
+ - user: None
+ - tags: ['personal']
+
+## Academy Software Foundation - ASWF
+ - [https://www.aswf.io](https://www.aswf.io)
+ - date published: 2023-10-25T19:37:54.400426+00:00
+ - user: None
+ - tags: []
+
+## The Autodidacts
+ - [https://www.autodidacts.io](https://www.autodidacts.io)
+ - date published: 2023-10-25T09:21:59.454981+00:00
+ - user: None
+ - tags: ['personal']
+
+## Automatisch - Open Source Zapier Alternative
+ - [https://automatisch.io](https://automatisch.io)
+ - date published: 2023-10-25T19:38:01.066958+00:00
+ - user: None
+ - tags: []
+
+## Axel’s Blog | Technical blog discussing reverse engineering, detections engineering, exploit development, capability development, and other cybersecurity topics.
+ - [https://axelp.io](https://axelp.io)
+ - date published: 2023-10-25T19:38:02.657295+00:00
+ - user: None
+ - tags: []
+
+## Ayo Ayco | Software Engineer, Web Developer, Consultant
+ - [https://ayco.io](https://ayco.io)
+ - date published: 2023-12-25T04:56:50.840416+00:00
+ - user: None
+ - tags: ['personal']
+
+## Babel · Babel
+ - [https://babeljs.io](https://babeljs.io)
+ - date published: 2023-10-25T19:38:04.462286+00:00
+ - user: None
+ - tags: []
+
+## Bank List - Find the Best Bank for Your Needs
+ - [https://banklist.io](https://banklist.io)
+ - date published: 2023-10-25T19:38:08.774494+00:00
+ - user: None
+ - tags: []
+
 ## The SQL Editor and Database Manager Of Your Dreams | Beekeeper Studio
  - [https://www.beekeeperstudio.io](https://www.beekeeperstudio.io)
  - date published: 2023-10-25T19:38:16.881595+00:00
@@ -5747,262 +6005,4 @@ End-to-end typesafe APIs made easy. | tRPC
  - date published: 2023-11-13T13:37:53.096666+00:00
  - user: None
  - tags: ['search engine', 'open source']
-
-## WildCat's Blog
- - [https://blog.wildcat.io](https://blog.wildcat.io)
- - date published: 2023-10-25T20:12:50.280641+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://wilkins.io](https://wilkins.io)
- - date published: 2023-11-29T15:44:56.746979+00:00
- - user: None
- - tags: ['personal']
-
-## willett dot io
- - [https://www.willett.io](https://www.willett.io)
- - date published: 2023-10-25T20:12:51.050721+00:00
- - user: None
- - tags: []
-
-## Wing Programming Language for the Cloud
- - [https://www.winglang.io](https://www.winglang.io)
- - date published: 2023-10-25T20:12:52.756645+00:00
- - user: None
- - tags: []
-
-## Wiz | Secure Everything You Build and Run in the Cloud
- - [https://www.wiz.io](https://www.wiz.io)
- - date published: 2023-10-25T20:12:56.676823+00:00
- - user: None
- - tags: []
-
-## Wooting keyboards
- - [https://next.wooting.io](https://next.wooting.io)
- - date published: 2023-10-25T20:12:59.943178+00:00
- - user: None
- - tags: []
-
-## Wordbots
- - [https://app.wordbots.io](https://app.wordbots.io)
- - date published: 2023-10-25T20:13:01.621006+00:00
- - user: None
- - tags: []
-
-## CatGPT
- - [https://catgpt.wvd.io](https://catgpt.wvd.io)
- - date published: 2023-10-25T20:13:02.386303+00:00
- - user: None
- - tags: []
-
-## Wyldcard
- - [https://www.wyldcard.io](https://www.wyldcard.io)
- - date published: 2023-10-25T20:13:03.842142+00:00
- - user: None
- - tags: []
-
-## Xata - The serverless database built for modern development
- - [https://xata.io](https://xata.io)
- - date published: 2023-10-25T20:13:05.962993+00:00
- - user: None
- - tags: []
-
-## Xavier Denis
- - [https://xav.io](https://xav.io)
- - date published: 2023-10-25T20:13:06.573410+00:00
- - user: None
- - tags: []
-
-## Xuanwo's Blog
- - [https://xuanwo.io](https://xuanwo.io)
- - date published: 2023-11-29T17:19:36.738481+00:00
- - user: None
- - tags: []
-
-## Home :: Will Yager
- - [https://yager.io](https://yager.io)
- - date published: 2023-10-25T20:13:07.484512+00:00
- - user: None
- - tags: []
-
-## Zenoh - The Zero Overhead, Pub/Sub, Store, Query, and Compute Protocol.
- - [https://zenoh.io](https://zenoh.io)
- - date published: 2023-10-25T20:13:08.098477+00:00
- - user: None
- - tags: []
-
-## zeux.io - Home
- - [https://zeux.io](https://zeux.io)
- - date published: 2023-10-25T20:13:08.866670+00:00
- - user: None
- - tags: []
-
-## /dev/knill
- - [https://zknill.io](https://zknill.io)
- - date published: 2023-11-16T16:03:25.433854+00:00
- - user: None
- - tags: []
-
-## Home | Znote blog
- - [https://blog.znote.io](https://blog.znote.io)
- - date published: 2023-10-25T20:13:14.658258+00:00
- - user: None
- - tags: []
-
-## Home - zrok
- - [https://zrok.io](https://zrok.io)
- - date published: 2023-10-25T20:13:22.333219+00:00
- - user: None
- - tags: []
-
-## The Voyager: A powerful, low-profile, split ergonomic keyboard | zsa.io
- - [https://www.zsa.io](https://www.zsa.io)
- - date published: 2023-10-25T20:13:25.369797+00:00
- - user: None
- - tags: []
-
-## خانه
- - [https://icdt.ir](https://icdt.ir)
- - date published: 2023-10-27T12:05:21.857952+00:00
- - user: None
- - tags: []
-
-## Of Shaders & Triangles
- - [https://blog.42yeah.is](https://blog.42yeah.is)
- - date published: 2023-10-25T20:13:58.111694+00:00
- - user: None
- - tags: []
-
-## Caffeinspiration
- - [https://alexanderell.is](https://alexanderell.is)
- - date published: 2023-10-25T20:13:59.904634+00:00
- - user: None
- - tags: []
-
-## Arun Venkatesan
- - [https://arun.is](https://arun.is)
- - date published: 2023-10-25T20:14:01.882609+00:00
- - user: None
- - tags: []
-
-## benharr.is
- - [https://benharr.is](https://benharr.is)
- - date published: 2023-11-29T14:25:52.330082+00:00
- - user: None
- - tags: ['personal']
-
-## bep.is
- - [https://bep.is](https://bep.is)
- - date published: 2023-12-11T19:35:19.268112+00:00
- - user: None
- - tags: []
-
-## Chuck Carroll
- - [https://chuck.is](https://chuck.is)
- - date published: 2023-12-25T21:22:14.875998+00:00
- - user: None
- - tags: []
-
-## Citroën á Íslandi | Citroën umboðið | Brimborg
- - [https://www.citroen.is](https://www.citroen.is)
- - date published: 2023-12-11T15:49:38.739334+00:00
- - user: None
- - tags: []
-
-## Darcy - Social media done proper
- - [https://darcy.is](https://darcy.is)
- - date published: 2023-10-25T20:14:04.210843+00:00
- - user: None
- - tags: []
-
-## davidcel.is
- - [https://davidcel.is](https://davidcel.is)
- - date published: 2023-10-25T20:14:07.579909+00:00
- - user: None
- - tags: []
-
-## Dusty Jewett Is...
- - [https://dusty.is](https://dusty.is)
- - date published: 2023-10-25T08:49:47.947739+00:00
- - user: None
- - tags: ['personal']
-
-## Elias Daler
- - [https://edw.is](https://edw.is)
- - date published: 2023-10-25T20:14:11.018793+00:00
- - user: None
- - tags: []
-
-## Moderator Mayhem: A Content Moderation Game
- - [https://moderatormayhem.engine.is](https://moderatormayhem.engine.is)
- - date published: 2023-10-25T20:14:11.536786+00:00
- - user: None
- - tags: []
-
-## GOOD
- - [https://www.good.is](https://www.good.is)
- - date published: 2023-12-04T02:53:45.042567+00:00
- - user: None
- - tags: []
-
-## Ian Smith – Software Development, Electronics, and 3D Printing
- - [https://www.iansmith.is](https://www.iansmith.is)
- - date published: 2023-11-17T07:30:16.055744+00:00
- - user: None
- - tags: ['personal']
-
-## ipapi.is
- - [https://ipapi.is](https://ipapi.is)
- - date published: 2023-10-25T20:14:12.692518+00:00
- - user: None
- - tags: []
-
-## Ísland.is
- - [https://island.is](https://island.is)
- - date published: 2023-10-25T20:14:16.567535+00:00
- - user: None
- - tags: []
-
-## Jake Jarvis – Front-End Web Developer in Boston, MA
- - [https://jarv.is](https://jarv.is)
- - date published: 2023-10-25T20:14:22.428117+00:00
- - user: None
- - tags: []
-
-## | a.programming.blog
- - [https://who.ldelossa.is](https://who.ldelossa.is)
- - date published: 2023-10-25T20:14:23.039703+00:00
- - user: None
- - tags: []
-
-## Library Genesis
- - [https://libgen.is](https://libgen.is)
- - date published: 2023-10-25T20:14:24.181142+00:00
- - user: None
- - tags: []
-
-## Iceland Monitor - monitor.is
- - [https://icelandmonitor.mbl.is](https://icelandmonitor.mbl.is)
- - date published: 2023-11-14T14:17:41.442172+00:00
- - user: None
- - tags: []
-
-## Professor Steven J. Murdoch
- - [https://murdoch.is](https://murdoch.is)
- - date published: 2023-10-25T20:14:25.931346+00:00
- - user: None
- - tags: []
-
-## pratik.is/
- - [https://pratik.is](https://pratik.is)
- - date published: 2023-10-25T20:14:27.508195+00:00
- - user: None
- - tags: []
-
-## RÚV.is
- - [https://www.ruv.is](https://www.ruv.is)
- - date published: 2023-11-11T03:29:34.003690+00:00
- - user: None
- - tags: []
 
