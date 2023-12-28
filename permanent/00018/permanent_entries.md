@@ -1,3 +1,502 @@
+## Scott Kennedy
+ - [https://www.scottkennedy.us](https://www.scottkennedy.us)
+ - date published: 2023-10-25T08:56:50.558000+00:00
+ - user: None
+ - tags: ['personal']
+
+## StackAid - Fund all your open source dependencies
+ - [https://www.stackaid.us](https://www.stackaid.us)
+ - date published: 2023-10-25T22:59:12.375120+00:00
+ - user: None
+ - tags: []
+
+## steinkamp.us
+ - [https://steinkamp.us](https://steinkamp.us)
+ - date published: 2023-10-25T22:59:18.547855+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Them
+ - [https://www.them.us](https://www.them.us)
+ - date published: 2023-10-25T10:13:47.652819+00:00
+ - user: None
+ - tags: ['propaganda', 'gender', 'pronouns']
+
+## Truly Adventurous
+ - [https://www.trulyadventure.us](https://www.trulyadventure.us)
+ - date published: 2023-10-25T22:59:20.377855+00:00
+ - user: None
+ - tags: []
+
+## Twitter Status
+ - [https://api.twitterstat.us](https://api.twitterstat.us)
+ - date published: 2023-10-25T22:59:23.104096+00:00
+ - user: None
+ - tags: []
+
+## Wheeling It: Tales From a Nomadic Life – On the Road Since 2010, Traveling Across USA & Europe With Pets
+ - [https://www.wheelingit.us](https://www.wheelingit.us)
+ - date published: 2023-10-25T22:59:30.414582+00:00
+ - user: None
+ - tags: []
+
+## The latest insights on how the world connects | Zoom Blog
+ - [https://blog.zoom.us](https://blog.zoom.us)
+ - date published: 2023-10-25T22:59:39.015755+00:00
+ - user: None
+ - tags: []
+
+## One platform to connect | Zoom
+ - [https://explore.zoom.us](https://explore.zoom.us)
+ - date published: 2023-10-25T22:59:49.183400+00:00
+ - user: None
+ - tags: []
+
+## One platform to connect | Zoom
+ - [https://zoom.us](https://zoom.us)
+ - date published: 2023-10-25T22:59:54.325137+00:00
+ - user: None
+ - tags: []
+
+## Citroën Uruguay - Citroen Uruguay
+ - [https://www.citroen.com.uy](https://www.citroen.com.uy)
+ - date published: 2023-12-11T16:03:05.998164+00:00
+ - user: None
+ - tags: []
+
+## News from the Vatican - News about the Church - Vatican News
+ - [https://www.vaticannews.va](https://www.vaticannews.va)
+ - date published: 2023-10-25T09:29:37.580864+00:00
+ - user: None
+ - tags: ['news', 'religion', 'catholic', 'christianity', 'vatican']
+
+## Home
+ | Pierce Freeman
+ - [https://freeman.vc](https://freeman.vc)
+ - date published: 2023-10-25T23:00:00.756924+00:00
+ - user: None
+ - tags: []
+
+## HOME - Hivemind Ventures
+ - [https://hivemind.vc](https://hivemind.vc)
+ - date published: 2023-10-25T23:00:05.653730+00:00
+ - user: None
+ - tags: []
+
+## Incisive Ventures – Your partner for growth
+ - [https://incisive.vc](https://incisive.vc)
+ - date published: 2023-10-25T23:00:10.873492+00:00
+ - user: None
+ - tags: []
+
+## inFERENCe - a machine learning blog
+ - [https://www.inference.vc](https://www.inference.vc)
+ - date published: 2023-10-25T23:00:14.102745+00:00
+ - user: None
+ - tags: []
+
+## It's Magit! A Git Porcelain inside Emacs
+ - [https://magit.vc](https://magit.vc)
+ - date published: 2023-10-25T23:00:23.133712+00:00
+ - user: None
+ - tags: []
+
+## MatthewBall.vc
+ - [https://www.matthewball.vc](https://www.matthewball.vc)
+ - date published: 2023-10-25T23:00:27.289546+00:00
+ - user: None
+ - tags: []
+
+## YAK Ventures - The Personal Website of Sean Hayes
+ - [https://yak.ventures](https://yak.ventures)
+ - date published: 2023-12-14T09:18:04.765049+00:00
+ - user: None
+ - tags: ['personal']
+
+## Open RuneScape Classic
+ - [https://rsc.vet](https://rsc.vet)
+ - date published: 2023-10-25T23:00:30.748398+00:00
+ - user: None
+ - tags: []
+
+## Read-Only Memory
+ - [https://readonlymemory.vg](https://readonlymemory.vg)
+ - date published: 2023-10-25T23:00:35.745338+00:00
+ - user: None
+ - tags: ['amiga', 'retro games', 'games']
+
+## Webbed Briefs
+ - [https://briefs.video](https://briefs.video)
+ - date published: 2023-10-25T23:00:37.509398+00:00
+ - user: None
+ - tags: []
+
+## Frigate: Open-source network video recorder with real-time AI object detection
+ - [https://frigate.video](https://frigate.video)
+ - date published: 2023-11-18T16:44:44+00:00
+ - user: None
+ - tags: ['open source', 'frigate']
+
+## Phenaki
+ - [https://phenaki.video](https://phenaki.video)
+ - date published: 2023-10-25T23:00:39.241102+00:00
+ - user: None
+ - tags: []
+
+## Piped
+ - [https://cf.piped.video](https://cf.piped.video)
+ - date published: 2023-10-25T08:23:52.591229+00:00
+ - user: None
+ - tags: []
+
+## Media over QUIC
+ - [https://quic.video](https://quic.video)
+ - date published: 2023-10-30T18:59:35.555348+00:00
+ - user: None
+ - tags: []
+
+## A game about staring into the eyes of a stranger
+ - [https://stranger.video](https://stranger.video)
+ - date published: 2023-11-17T16:30:07+00:00
+ - user: None
+ - tags: []
+
+## LuckyBird social sweepstakes casino | play to earn | unlimited faucet
+ - [https://luckybird.vip](https://luckybird.vip)
+ - date published: 2023-12-25T14:43:15.910885+00:00
+ - user: None
+ - tags: []
+
+## Home - Pencil Project
+ - [https://pencil.evolus.vn](https://pencil.evolus.vn)
+ - date published: 2023-10-25T23:00:42.854613+00:00
+ - user: None
+ - tags: []
+
+## Vietnam+ (VietnamPlus)
+ - [https://en.vietnamplus.vn](https://en.vietnamplus.vn)
+ - date published: 2023-10-25T23:00:48.090083+00:00
+ - user: None
+ - tags: []
+
+## Home | Digital Watch Observatory
+ - [https://dig.watch](https://dig.watch)
+ - date published: 2023-11-02T11:40:33.995779+00:00
+ - user: None
+ - tags: []
+
+## Christopher Johnson's ASCII Art Collection
+ - [https://asciiart.website](https://asciiart.website)
+ - date published: 2023-10-30T13:47:03.869709+00:00
+ - user: None
+ - tags: []
+
+## Dimitrije's Website
+ - [https://dimitrije.website](https://dimitrije.website)
+ - date published: 2023-10-25T23:00:52.022931+00:00
+ - user: None
+ - tags: []
+
+## Make your website editable
+ - [https://editable.website](https://editable.website)
+ - date published: 2023-10-25T23:00:54.922068+00:00
+ - user: None
+ - tags: []
+
+## Eric Bailey – Inclusive design advocate, writer, developer, and speaker
+ - [https://ericwbailey.website](https://ericwbailey.website)
+ - date published: 2023-10-25T23:00:57.223545+00:00
+ - user: None
+ - tags: []
+
+## this godforsaken website
+ - [https://godforsaken.website](https://godforsaken.website)
+ - date published: 2023-11-28T03:20:50.728837+00:00
+ - user: None
+ - tags: []
+
+## Godly — Astronomically good web design inspiration
+ - [https://godly.website](https://godly.website)
+ - date published: 2023-10-25T23:01:00.460094+00:00
+ - user: None
+ - tags: []
+
+## Grumpy Website
+ - [https://grumpy.website](https://grumpy.website)
+ - date published: 2023-10-25T23:01:02.945875+00:00
+ - user: None
+ - tags: []
+
+## Misty's Internet Website
+ - [https://www.mistys-internet.website](https://www.mistys-internet.website)
+ - date published: 2023-12-11T07:38:24.477769+00:00
+ - user: None
+ - tags: []
+
+## noclip
+ - [https://noclip.website](https://noclip.website)
+ - date published: 2023-10-25T23:01:04.702229+00:00
+ - user: None
+ - tags: []
+
+## Omar Rizwan
+ - [https://omar.website](https://omar.website)
+ - date published: 2023-10-25T08:56:54.340403+00:00
+ - user: None
+ - tags: ['personal']
+
+## Index
+ - [https://www.zinzy.website](https://www.zinzy.website)
+ - date published: 2023-12-17T20:58:36.540887+00:00
+ - user: None
+ - tags: ['personal']
+
+## Caps Wiki
+ - [https://caps.wiki](https://caps.wiki)
+ - date published: 2023-10-25T23:01:07.461536+00:00
+ - user: None
+ - tags: []
+
+## Independent Fallout Wiki
+ - [https://fallout.wiki](https://fallout.wiki)
+ - date published: 2023-10-25T11:18:53.570144+00:00
+ - user: None
+ - tags: []
+
+## https://minecraft.wiki
+ - [https://minecraft.wiki](https://minecraft.wiki)
+ - date published: 2023-10-25T08:39:47.923091+00:00
+ - user: None
+ - tags: []
+
+## NixOS Wiki
+ - [https://nixos.wiki](https://nixos.wiki)
+ - date published: 2023-10-25T23:01:15.047322+00:00
+ - user: None
+ - tags: []
+
+## Roger Zurawicki · Roger Zurawicki
+ - [https://zura.wiki](https://zura.wiki)
+ - date published: 2023-10-25T09:24:59.328829+00:00
+ - user: None
+ - tags: ['personal']
+
+## Joe Winter Design
+ - [https://www.joemoe.win](https://www.joemoe.win)
+ - date published: 2023-12-15T21:42:17.937493+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sebastian Neef - 0day.work
+ - [https://0day.work](https://0day.work)
+ - date published: 2023-10-25T23:01:17.513284+00:00
+ - user: None
+ - tags: []
+
+## Jobs | Bonsai
+ - [https://bonsai.crew.work](https://bonsai.crew.work)
+ - date published: 2023-10-25T23:01:29.802155+00:00
+ - user: None
+ - tags: []
+
+## fractional.work | Sanjay Saraf | Substack
+ - [https://www.fractional.work](https://www.fractional.work)
+ - date published: 2023-10-25T10:08:52.365132+00:00
+ - user: None
+ - tags: ['substack']
+
+## Framework Community - Discussion and support for Framework products
+ - [https://community.frame.work](https://community.frame.work)
+ - date published: 2023-10-25T23:01:33.003425+00:00
+ - user: None
+ - tags: []
+
+## Framework Laptop 16 pre-orders are now open
+ - [https://frame.work](https://frame.work)
+ - date published: 2023-10-25T08:38:20.129233+00:00
+ - user: None
+ - tags: []
+
+## kade killary
+ - [https://kadekillary.work](https://kadekillary.work)
+ - date published: 2023-10-25T09:25:00.374655+00:00
+ - user: None
+ - tags: ['personal']
+
+## Lawyer-Made HR Documents  | goHeather
+ - [http://tally.work](http://tally.work)
+ - date published: 2023-10-25T23:01:38.366632+00:00
+ - user: None
+ - tags: []
+
+## Hi, I'm kmille
+ - [https://debugging.works](https://debugging.works)
+ - date published: 2023-10-25T08:56:55.059280+00:00
+ - user: None
+ - tags: ['personal']
+
+## epicenter.works - epicenter.works
+ - [https://epicenter.works](https://epicenter.works)
+ - date published: 2023-11-08T07:36:01.480803+00:00
+ - user: None
+ - tags: []
+
+## Home | My name is Olek. I write about what matters to me.
+ - [https://olek.works](https://olek.works)
+ - date published: 2023-12-12T23:24:43.805393+00:00
+ - user: None
+ - tags: ['personal']
+
+## 3D Animation and Automated Rigging | Anything World
+ - [https://anything.world](https://anything.world)
+ - date published: 2023-10-25T23:01:41.604403+00:00
+ - user: None
+ - tags: []
+
+## From the New World | Brian Chau | Substack
+ - [https://www.fromthenew.world](https://www.fromthenew.world)
+ - date published: 2023-11-19T23:54:22.493481+00:00
+ - user: None
+ - tags: []
+
+## Mastodon.world Blog
+ - [https://blog.mastodon.world](https://blog.mastodon.world)
+ - date published: 2023-10-24T20:14:48.458879+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Mastodon
+ - [https://mastodon.world](https://mastodon.world)
+ - date published: 2023-10-24T20:14:49.692344+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Prashanth Sadasivan – The Chief Questions Officer 💻🍳☕️
+ - [https://prashanth.world](https://prashanth.world)
+ - date published: 2023-10-25T09:25:01.568735+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Reasons to be Cheerful
+ - [https://reasonstobecheerful.world](https://reasonstobecheerful.world)
+ - date published: 2023-10-25T23:01:47.023181+00:00
+ - user: None
+ - tags: []
+
+## SPLACE. A World of Communities.
+ - [https://www.splace.world](https://www.splace.world)
+ - date published: 2023-12-11T15:48:59.406277+00:00
+ - user: None
+ - tags: []
+
+## The Dial
+ - [https://www.thedial.world](https://www.thedial.world)
+ - date published: 2023-10-25T23:01:53.554444+00:00
+ - user: None
+ - tags: []
+
+## NixOS & Flakes Book | Home Page
+ - [https://nixos-and-flakes.thiscute.world](https://nixos-and-flakes.thiscute.world)
+ - date published: 2023-10-25T23:01:55.768732+00:00
+ - user: None
+ - tags: []
+
+## Wikis World
+ - [https://wikis.world](https://wikis.world)
+ - date published: 2023-10-24T20:14:51.048903+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## 2022 FIFA World Cup bracket and standings
+ - [https://worldcup.cole.ws](https://worldcup.cole.ws)
+ - date published: 2023-10-25T23:01:56.472219+00:00
+ - user: None
+ - tags: []
+
+## Crusty Windows Wiki
+ - [https://crustywindo.ws](https://crustywindo.ws)
+ - date published: 2023-10-25T23:01:57.735617+00:00
+ - user: None
+ - tags: []
+
+## justus.ws
+ - [https://www.justus.ws](https://www.justus.ws)
+ - date published: 2023-11-29T15:45:02.094794+00:00
+ - user: None
+ - tags: ['personal']
+
+## LORN
+ - [https://www.lorn.ws](https://www.lorn.ws)
+ - date published: 2023-11-13T09:48:10.746658+00:00
+ - user: None
+ - tags: ['music band']
+
+## OpenArena EX - オープンアリーナ
+ - [https://openarena.ws](https://openarena.ws)
+ - date published: 2023-10-27T13:51:31.986419+00:00
+ - user: None
+ - tags: ['quake']
+
+## Yoav's blog thing
+ - [https://blog.yoav.ws](https://blog.yoav.ws)
+ - date published: 2023-10-25T23:01:59.005141+00:00
+ - user: None
+ - tags: []
+
+## charity.wtf – charity wtf's about technology, databases, startups, engineering management, and whiskey.
+ - [https://charity.wtf](https://charity.wtf)
+ - date published: 2023-10-25T23:02:09.605011+00:00
+ - user: None
+ - tags: []
+
+## Ellie's Notes
+ - [https://ellie.wtf](https://ellie.wtf)
+ - date published: 2023-10-25T09:25:02.764286+00:00
+ - user: None
+ - tags: ['personal']
+
+## fx – command-line tool for JSON
+ - [https://fx.wtf](https://fx.wtf)
+ - date published: 2023-10-25T08:34:35.904683+00:00
+ - user: None
+ - tags: []
+
+## Genders.WTF
+ - [https://genders.wtf](https://genders.wtf)
+ - date published: 2023-10-25T23:02:12.421357+00:00
+ - user: None
+ - tags: []
+
+## Will twitter outlast this lettuce?
+ - [https://lettuce.wtf](https://lettuce.wtf)
+ - date published: 2023-10-25T23:02:13.189906+00:00
+ - user: None
+ - tags: []
+
+## Dmitry Non
+ - [https://nondv.wtf](https://nondv.wtf)
+ - date published: 2023-11-08T22:10:31.500527+00:00
+ - user: None
+ - tags: ['devlog']
+
+## overkill.wtf | Steam Deck news, reviews and more
+ - [https://overkill.wtf](https://overkill.wtf)
+ - date published: 2023-10-25T23:02:15.238658+00:00
+ - user: None
+ - tags: []
+
+## VOLE.wtf 🐹⁉️ because internet is stupid
+ - [https://vole.wtf](https://vole.wtf)
+ - date published: 2023-10-27T13:08:52.494279+00:00
+ - user: None
+ - tags: ['wtf']
+
+## Volts | Fanfare
+ - [https://transcripts.volts.wtf](https://transcripts.volts.wtf)
+ - date published: 2023-10-25T23:02:22.636567+00:00
+ - user: None
+ - tags: []
+
 ## Alphabet Investor Relations
  - [https://abc.xyz](https://abc.xyz)
  - date published: 2023-10-25T23:02:24.106484+00:00
@@ -169,6 +668,12 @@
 ## Gazoche's blog
  - [https://gazoche.xyz](https://gazoche.xyz)
  - date published: 2023-10-25T09:25:05.698575+00:00
+ - user: None
+ - tags: ['personal']
+
+## .xyz Domain Names | Join Generation XYZ
+ - [https://gen.xyz](https://gen.xyz)
+ - date published: 2023-12-27T01:10:16.387298+00:00
  - user: None
  - tags: ['personal']
 
@@ -501,6 +1006,12 @@
 ## vitling
  - [https://www.vitling.xyz](https://www.vitling.xyz)
  - date published: 2023-10-25T23:05:08.807453+00:00
+ - user: None
+ - tags: []
+
+## Show HN: I've built a tool that summarizes 3-hour YouTube videos
+ - [https://voxweave.xyz](https://voxweave.xyz)
+ - date published: 2023-12-27T08:44:59+00:00
  - user: None
  - tags: []
 

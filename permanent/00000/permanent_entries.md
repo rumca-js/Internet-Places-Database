@@ -4391,6 +4391,12 @@
  - user: None
  - tags: []
 
+## None
+ - [https://hirad.ca](https://hirad.ca)
+ - date published: 2023-12-27T18:12:30.676212+00:00
+ - user: None
+ - tags: ['personal']
+
 ## hypatia dot ca – Leigh Honeywell's Blog
  - [https://hypatia.ca](https://hypatia.ca)
  - date published: 2023-10-25T09:25:27.291271+00:00
@@ -4598,6 +4604,12 @@
 ## Parker Glynn-Adey
  - [https://pgadey.ca](https://pgadey.ca)
  - date published: 2023-11-29T17:15:09.105463+00:00
+ - user: None
+ - tags: ['personal']
+
+## Phrenssynnes' Lifestyle Blog
+ - [https://phrenssynnes.ca](https://phrenssynnes.ca)
+ - date published: 2023-12-27T01:06:07.688727+00:00
  - user: None
  - tags: ['personal']
 
@@ -5241,6 +5253,12 @@
 ## MTU Ninja | Vincent Bernat
  - [https://vincent.bernat.ch](https://vincent.bernat.ch)
  - date published: 2023-10-25T08:43:17.908139+00:00
+ - user: None
+ - tags: ['personal']
+
+## Gregors Blog
+ - [https://www.blog-gregor.ch](https://www.blog-gregor.ch)
+ - date published: 2023-12-27T23:55:45.885819+00:00
  - user: None
  - tags: ['personal']
 
@@ -5981,22 +5999,4 @@
  - date published: 2023-10-25T09:30:46.470276+00:00
  - user: None
  - tags: []
-
-## Blockchain Analytics & Crypto Compliance Solutions | Elliptic
- - [https://www.elliptic.co](https://www.elliptic.co)
- - date published: 2023-10-25T12:18:50.885934+00:00
- - user: None
- - tags: []
-
-## https://links.fable.co
- - [https://links.fable.co](https://links.fable.co)
- - date published: 2023-11-20T16:24:00.649414+00:00
- - user: None
- - tags: []
-
-## Feeder – RSS Feed Reader
- - [https://feeder.co](https://feeder.co)
- - date published: 2023-12-11T11:18:01+00:00
- - user: rumpel
- - tags: ['rss reader']
 

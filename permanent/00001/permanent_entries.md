@@ -1,3 +1,21 @@
+## Blockchain Analytics & Crypto Compliance Solutions | Elliptic
+ - [https://www.elliptic.co](https://www.elliptic.co)
+ - date published: 2023-10-25T12:18:50.885934+00:00
+ - user: None
+ - tags: []
+
+## https://links.fable.co
+ - [https://links.fable.co](https://links.fable.co)
+ - date published: 2023-11-20T16:24:00.649414+00:00
+ - user: None
+ - tags: []
+
+## Feeder – RSS Feed Reader
+ - [https://feeder.co](https://feeder.co)
+ - date published: 2023-12-11T11:18:01+00:00
+ - user: rumpel
+ - tags: ['rss reader']
+
 ## Free SVG generators, color tools & web design tools
  - [https://fffuel.co](https://fffuel.co)
  - date published: 2023-10-25T12:18:53.530447+00:00
@@ -711,6 +729,12 @@
  - date published: 2023-10-25T09:04:01.639181+00:00
  - user: None
  - tags: ['personal']
+
+## Trak - QR code process automation
+ - [https://admin.trak.codes](https://admin.trak.codes)
+ - date published: 2023-12-27T19:46:20.990569+00:00
+ - user: None
+ - tags: []
 
 ## ERROR: The request could not be satisfied
  - [https://up.codes](https://up.codes)
@@ -1480,6 +1504,12 @@
  - user: None
  - tags: []
 
+## actionnewsnow.com | Coverage You Can Count On!
+ - [https://www.actionnewsnow.com](https://www.actionnewsnow.com)
+ - date published: 2023-12-27T20:12:26.526403+00:00
+ - user: None
+ - tags: []
+
 ## Activision | Home
  - [https://www.activision.com](https://www.activision.com)
  - date published: 2023-10-25T11:27:02.301683+00:00
@@ -1813,6 +1843,12 @@
 ## Financial Review - Business, Finance and Investment News | afr.com
  - [https://www.afr.com](https://www.afr.com)
  - date published: 2023-10-25T12:34:36.173207+00:00
+ - user: None
+ - tags: []
+
+## Africanews | Latest breaking news, daily news and African news from Africa
+ - [https://www.africanews.com](https://www.africanews.com)
+ - date published: 2023-12-27T20:57:43.555765+00:00
  - user: None
  - tags: []
 
@@ -2293,6 +2329,12 @@
 ## Alexander Sandberg · Product-minded iOS/macOS Engineer
  - [https://alexandersandberg.com](https://alexandersandberg.com)
  - date published: 2023-12-01T10:47:45.054107+00:00
+ - user: None
+ - tags: ['personal']
+
+## Alex Sawyer
+ - [https://alexandersawyer.com](https://alexandersawyer.com)
+ - date published: 2023-12-27T01:10:27.638515+00:00
  - user: None
  - tags: ['personal']
 
@@ -3009,6 +3051,12 @@
  - date published: 2023-10-30T02:12:03.537127+00:00
  - user: None
  - tags: []
+
+## AndersenSilva.com
+ - [https://andersensilva.com](https://andersensilva.com)
+ - date published: 2023-12-27T01:10:57.904709+00:00
+ - user: None
+ - tags: ['personal']
 
 ## ShunyaEkam.com
  - [https://andersentobias.com](https://andersentobias.com)
@@ -5662,6 +5710,12 @@
  - user: None
  - tags: []
 
+## https://www.betterleadersbetterschools.com
+ - [https://www.betterleadersbetterschools.com](https://www.betterleadersbetterschools.com)
+ - date published: 2023-12-27T18:11:37.780094+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Beyond Loom
  - [https://beyondloom.com](https://beyondloom.com)
  - date published: 2023-10-25T12:58:31.094273+00:00
@@ -5941,60 +5995,6 @@
 ## Molecular Cancer
  - [https://molecular-cancer.biomedcentral.com](https://molecular-cancer.biomedcentral.com)
  - date published: 2023-11-15T02:03:10.897398+00:00
- - user: None
- - tags: []
-
-## Molecular Medicine
- - [https://molmed.biomedcentral.com](https://molmed.biomedcentral.com)
- - date published: 2023-12-03T07:38:15.345289+00:00
- - user: None
- - tags: []
-
-## Research Integrity and Peer Review | Home
- - [https://researchintegrityjournal.biomedcentral.com](https://researchintegrityjournal.biomedcentral.com)
- - date published: 2023-10-25T13:00:31.950838+00:00
- - user: None
- - tags: []
-
-## Biometric Update: Biometrics News, Companies and Explainers
- - [https://www.biometricupdate.com](https://www.biometricupdate.com)
- - date published: 2023-10-25T10:36:49.502438+00:00
- - user: None
- - tags: []
-
-## bionity.com - Das Fachportal für Biotechnologie, Pharma und Life Sciences
- - [https://www.bionity.com](https://www.bionity.com)
- - date published: 2023-10-25T13:00:38.354625+00:00
- - user: None
- - tags: []
-
-## Endocrine Connections
- - [https://ec.bioscientifica.com](https://ec.bioscientifica.com)
- - date published: 2023-10-30T21:38:42.489942+00:00
- - user: None
- - tags: []
-
-## https://biosrhythm.com
- - [https://biosrhythm.com](https://biosrhythm.com)
- - date published: 2023-10-25T13:00:45.370666+00:00
- - user: None
- - tags: []
-
-## BioWare Blog – A look at story-based gaming
- - [https://blog.bioware.com](https://blog.bioware.com)
- - date published: 2023-10-25T11:32:17.013524+00:00
- - user: None
- - tags: []
-
-## BioWare | Rich Stories, Unforgettable Characters, And Vast Worlds
- - [https://www.bioware.com](https://www.bioware.com)
- - date published: 2023-10-25T11:27:36.937641+00:00
- - user: None
- - tags: []
-
-## Types of Mushrooms — Rosemary Mosco
- - [https://www.birdandmoon.com](https://www.birdandmoon.com)
- - date published: 2023-10-25T13:00:49.820682+00:00
  - user: None
  - tags: []
 

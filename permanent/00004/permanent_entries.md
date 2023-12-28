@@ -1,3 +1,129 @@
+## GameInfinitus - Gaming News, Guides, Patch Notes, and Reviews
+ - [https://gameinfinitus.com](https://gameinfinitus.com)
+ - date published: 2023-12-10T07:38:40.900576+00:00
+ - user: None
+ - tags: ['game news']
+
+## GameModding.com - Wot, Skyrim, GTA 4, GTA San Andreas, Fallout, GTA Vice City and Counter-Strike mods with automatic installation
+ - [https://gamemodding.com](https://gamemodding.com)
+ - date published: 2023-10-30T15:29:50.729809+00:00
+ - user: None
+ - tags: []
+
+## GAME ON TABLE TOP • Game On Table Top
+ - [https://www.gameontabletop.com](https://www.gameontabletop.com)
+ - date published: 2023-10-25T11:11:19.160844+00:00
+ - user: None
+ - tags: []
+
+## Leaguepedia | League of Legends Esports Wiki
+ - [https://lol.gamepedia.com](https://lol.gamepedia.com)
+ - date published: 2023-11-02T10:40:59.813503+00:00
+ - user: None
+ - tags: []
+
+## Buy Skins, Items, Keys - Rust, Dota 2, TF2,  - GamerAll.com
+ - [https://gamerall.com](https://gamerall.com)
+ - date published: 2023-12-13T16:17:33.612155+00:00
+ - user: None
+ - tags: []
+
+## Home - Gameranx
+ - [https://gameranx.com](https://gameranx.com)
+ - date published: 2023-10-25T10:48:01.663782+00:00
+ - user: None
+ - tags: ['game news']
+
+## Home - GamerBraves
+ - [https://www.gamerbraves.com](https://www.gamerbraves.com)
+ - date published: 2023-10-25T14:41:02.342073+00:00
+ - user: None
+ - tags: []
+
+## Games Workshop
+ - [https://www.games-workshop.com](https://www.games-workshop.com)
+ - date published: 2023-10-25T11:11:19.430080+00:00
+ - user: None
+ - tags: ['tabletop games', 'lord of the rings', 'warhammer']
+
+## GamesNostalgia - Retro games, abandonware, freeware, Amiga & MS-DOS games download for PC and Mac
+ - [https://gamesnostalgia.com](https://gamesnostalgia.com)
+ - date published: 2023-10-25T16:35:00.349559+00:00
+ - user: None
+ - tags: []
+
+## GameFAQs - Video Game Cheats, Reviews, FAQs, Message Boards, and More
+ - [https://gamefaqs.gamespot.com](https://gamefaqs.gamespot.com)
+ - date published: 2023-10-25T14:41:09.308883+00:00
+ - user: None
+ - tags: []
+
+## Video Games Reviews & News - GameSpot
+ - [https://www.gamespot.com](https://www.gamespot.com)
+ - date published: 2023-10-25T10:48:12.023848+00:00
+ - user: None
+ - tags: ['game news', 'video games']
+
+## None
+ - [https://planetquake.gamespy.com](https://planetquake.gamespy.com)
+ - date published: 2023-10-27T13:45:35.856009+00:00
+ - user: None
+ - tags: ['quake']
+
+## GamesRadar+
+ - [https://www.gamesradar.com](https://www.gamesradar.com)
+ - date published: 2023-10-25T10:48:35.931056+00:00
+ - user: None
+ - tags: []
+
+## GameWatcher: Video Game News, Reviews, and Guides. | GameWatcher
+ - [https://www.gamewatcher.com](https://www.gamewatcher.com)
+ - date published: 2023-10-25T10:48:40.077724+00:00
+ - user: None
+ - tags: []
+
+## GameWorldObserver.com: online magazine about video games industry
+ - [https://gameworldobserver.com](https://gameworldobserver.com)
+ - date published: 2023-10-25T10:48:43.476844+00:00
+ - user: None
+ - tags: []
+
+## ▷ Game Guides, Tutorials and Reviews for E-Sport Games
+ - [https://gaming-tools.com](https://gaming-tools.com)
+ - date published: 2023-10-29T10:37:29.297437+00:00
+ - user: None
+ - tags: ['warcraft']
+
+## Gaming Alexandria – Video Game History and Preservation
+ - [https://www.gamingalexandria.com](https://www.gamingalexandria.com)
+ - date published: 2023-10-25T14:41:14.275764+00:00
+ - user: None
+ - tags: []
+
+## GAMINGbible - Let's All Play
+ - [https://www.gamingbible.com](https://www.gamingbible.com)
+ - date published: 2023-10-25T10:48:48.447960+00:00
+ - user: None
+ - tags: []
+
+## Video Game News, Reviews, Walkthroughs And Guides | GamingBolt
+ - [https://gamingbolt.com](https://gamingbolt.com)
+ - date published: 2023-11-01T07:18:36.819292+00:00
+ - user: None
+ - tags: ['game news']
+
+## GAMINGDEPUTY - ‏‏‎‎‏‏‎ ‎News, Reviews & Insights
+ - [https://www.gamingdeputy.com](https://www.gamingdeputy.com)
+ - date published: 2023-10-25T14:41:18.532720+00:00
+ - user: None
+ - tags: []
+
+## Gaming Gorilla | Video Game Reviews, Release Dates, Trailers & Lists
+ - [https://gaminggorilla.com](https://gaminggorilla.com)
+ - date published: 2023-10-25T11:16:34.246333+00:00
+ - user: None
+ - tags: []
+
 ## Gaming History 101
  - [https://gaminghistory101.com](https://gaminghistory101.com)
  - date published: 2023-10-27T14:41:44.461635+00:00
@@ -139,6 +265,12 @@
 ## gCaptain – Maritime News
  - [https://gcaptain.com](https://gcaptain.com)
  - date published: 2023-10-25T14:42:22.481020+00:00
+ - user: None
+ - tags: []
+
+## Guillaume Chereau Website
+ - [https://gcher.com](https://gcher.com)
+ - date published: 2023-12-27T08:25:10.860837+00:00
  - user: None
  - tags: []
 
@@ -1134,6 +1266,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Google Forms: Sign-in
+ - [https://forms.google.com](https://forms.google.com)
+ - date published: 2023-12-27T19:46:23.467840+00:00
+ - user: None
+ - tags: []
+
 ## Google
  - [https://google.com](https://google.com)
  - date published: 2023-12-26T05:06:13.105333+00:00
@@ -1772,6 +1910,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-12-14T01:19:28.319434+00:00
  - user: None
  - tags: ['personal']
+
+## Greptime: Cloud-Native TSDB. Anywhere, Any Scale
+ - [https://greptime.com](https://greptime.com)
+ - date published: 2023-12-27T03:45:20.171040+00:00
+ - user: None
+ - tags: []
 
 ## GreyB - World's Leading Innovation Consulting Firm
  - [https://www.greyb.com](https://www.greyb.com)
@@ -3129,6 +3273,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Home Along The Way | A story of slow travel with four kids
+ - [https://homealongtheway.com](https://homealongtheway.com)
+ - date published: 2023-12-27T10:09:53.919593+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Access Denied
  - [https://www.homedepot.com](https://www.homedepot.com)
  - date published: 2023-10-25T15:00:31.083319+00:00
@@ -4191,6 +4341,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## The Influence Association - Influence and effectiveness
+ - [https://influenceassociation.com](https://influenceassociation.com)
+ - date published: 2023-12-27T01:06:23.856215+00:00
+ - user: None
+ - tags: ['personal']
+
 ## InfluxData Community Forums
  - [https://community.influxdata.com](https://community.influxdata.com)
  - date published: 2023-10-25T15:19:46.595606+00:00
@@ -5061,6 +5217,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: ['personal']
 
+## Web, mobile app development, and other stuff too
+ - [https://www.jakekorth.com](https://www.jakekorth.com)
+ - date published: 2023-12-27T10:11:14.489363+00:00
+ - user: None
+ - tags: ['personal']
+
 ## jakelazaroff.com
  - [https://jakelazaroff.com](https://jakelazaroff.com)
  - date published: 2023-10-25T08:46:14.704303+00:00
@@ -5400,6 +5562,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Juraj's Blog
  - [https://jborza.com](https://jborza.com)
  - date published: 2023-10-25T08:58:08.654807+00:00
+ - user: None
+ - tags: ['personal']
+
+## J. Brown Yoga
+ - [https://www.jbrownyoga.com](https://www.jbrownyoga.com)
+ - date published: 2023-12-27T23:56:14.584094+00:00
  - user: None
  - tags: ['personal']
 
@@ -5832,174 +6000,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Jon Quixote | In which the author considers whether a community is more like a giant or more like a windmill.
  - [https://jlericson.com](https://jlericson.com)
  - date published: 2023-10-25T15:29:25.754618+00:00
- - user: None
- - tags: []
-
-## James Long - blog & knowledge graph
- - [https://jlongster.com](https://jlongster.com)
- - date published: 2023-10-25T15:29:27.238133+00:00
- - user: None
- - tags: []
-
-## A sonic soul with a relentless drive to make & learn - JmsDnns
- - [https://jmsdnns.com](https://jmsdnns.com)
- - date published: 2023-10-25T15:29:28.593016+00:00
- - user: None
- - tags: []
-
-## Johnson & Johnson
- - [https://www.jnj.com](https://www.jnj.com)
- - date published: 2023-11-01T08:42:21.909273+00:00
- - user: None
- - tags: []
-
-## https://www.jntrnr.com
- - [https://www.jntrnr.com](https://www.jntrnr.com)
- - date published: 2023-10-25T15:29:29.920596+00:00
- - user: None
- - tags: []
-
-## Joanne Jacobs on Education and Parenting
- - [https://www.joannejacobs.com](https://www.joannejacobs.com)
- - date published: 2023-10-25T15:29:32.835787+00:00
- - user: None
- - tags: []
-
-## Tech + Economics + Humans
- - [https://joanwestenberg.com](https://joanwestenberg.com)
- - date published: 2023-10-30T12:42:03.697617+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://joaodlf.com](https://joaodlf.com)
- - date published: 2023-10-25T15:29:35.649022+00:00
- - user: None
- - tags: []
-
-## Jobsort · Find jobs in top startups
- - [https://jobsort.com](https://jobsort.com)
- - date published: 2023-10-25T15:29:37.310595+00:00
- - user: None
- - tags: []
-
-## Joe Antonakakis - Eng @ Notion
- - [https://www.joeantonakakis.com](https://www.joeantonakakis.com)
- - date published: 2023-10-25T15:29:38.688326+00:00
- - user: None
- - tags: []
-
-## On the Web
- - [https://joeblu.com](https://joeblu.com)
- - date published: 2023-10-25T08:57:49.719476+00:00
- - user: None
- - tags: ['personal']
-
-## About - joel bein
- - [https://joelbein.com](https://joelbein.com)
- - date published: 2023-12-09T14:59:11.250800+00:00
- - user: None
- - tags: ['personal']
-
-## Joel Dare
- - [https://joeldare.com](https://joeldare.com)
- - date published: 2023-10-25T15:29:49.328434+00:00
- - user: None
- - tags: []
-
-## Neat CSS
- - [https://neat.joeldare.com](https://neat.joeldare.com)
- - date published: 2023-10-25T15:29:50.003390+00:00
- - user: None
- - tags: []
-
-## Joe Lonsdale  | Substack
- - [https://blog.joelonsdale.com](https://blog.joelonsdale.com)
- - date published: 2023-10-25T09:40:12.500751+00:00
- - user: None
- - tags: ['substack']
-
-## Joel on Software
- - [https://www.joelonsoftware.com](https://www.joelonsoftware.com)
- - date published: 2023-10-25T08:46:38.077970+00:00
- - user: None
- - tags: ['personal']
-
-## Joel Tok
- - [https://www.joeltok.com](https://www.joeltok.com)
- - date published: 2023-11-29T17:07:53.683809+00:00
- - user: None
- - tags: ['personal']
-
-## Joe Matzzie
- - [https://joematzzie.com](https://joematzzie.com)
- - date published: 2023-11-29T15:49:24.713588+00:00
- - user: None
- - tags: []
-
-## Joe Previte's Site
- - [https://joeprevite.com](https://joeprevite.com)
- - date published: 2023-10-25T15:29:51.059464+00:00
- - user: None
- - tags: []
-
-## Joe rogan
- - [https://www.joerogan.com](https://www.joerogan.com)
- - date published: 2023-11-01T08:42:22.375231+00:00
- - user: None
- - tags: []
-
-## Jose's Sketchbook – A personal collection of ideas, programming and shiny stuff
- - [https://www.joesfer.com](https://www.joesfer.com)
- - date published: 2023-10-25T15:29:56.370927+00:00
- - user: None
- - tags: []
-
-## John Millikin
- - [https://john-millikin.com](https://john-millikin.com)
- - date published: 2023-10-25T15:30:06.935540+00:00
- - user: None
- - tags: []
-
-## Johnathan at Limbo
- - [https://johnathanbi.com](https://johnathanbi.com)
- - date published: 2023-10-25T15:30:08.552189+00:00
- - user: None
- - tags: []
-
-## Johnathan Nader
- - [https://johnathannader.com](https://johnathannader.com)
- - date published: 2023-10-25T15:30:10.394938+00:00
- - user: None
- - tags: []
-
-## Bald Faced Truth by John Canzano | Substack
- - [https://www.johncanzano.com](https://www.johncanzano.com)
- - date published: 2023-12-06T19:21:06.131877+00:00
- - user: None
- - tags: []
-
-## John Cleese Live Tour
- - [https://www.johncleeselive.com](https://www.johncleeselive.com)
- - date published: 2023-10-30T10:56:21.749252+00:00
- - user: None
- - tags: []
-
-## Expert consulting in applied mathematics & data privacy
- - [https://www.johndcook.com](https://www.johndcook.com)
- - date published: 2023-10-25T15:30:12.313572+00:00
- - user: None
- - tags: []
-
-## John Doherty
- - [https://www.johnfdoherty.com](https://www.johnfdoherty.com)
- - date published: 2023-12-17T20:59:27.398614+00:00
- - user: None
- - tags: ['personal']
-
-## John Higgs – Author of Love And Let Die, William Blake Vs The World, Watling Street and The KLF
- - [https://johnhiggs.com](https://johnhiggs.com)
- - date published: 2023-10-25T15:30:16.620693+00:00
  - user: None
  - tags: []
 

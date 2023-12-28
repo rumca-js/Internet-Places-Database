@@ -1,3 +1,105 @@
+## Things That Caught My Attention
+ - [https://newsletter.danhon.com](https://newsletter.danhon.com)
+ - date published: 2023-10-25T13:42:35.672609+00:00
+ - user: None
+ - tags: []
+
+## Nerd Ducks
+ - [https://danielbmarkham.com](https://danielbmarkham.com)
+ - date published: 2023-10-25T13:42:46.425931+00:00
+ - user: None
+ - tags: []
+
+## Daniel Hoang – Experienced management consultant x creative. Xennial bridging analog with digital at the intersection of humanity and machine. Scrappy, creative, and fast.
+ - [https://danielhoang.com](https://danielhoang.com)
+ - date published: 2023-12-12T09:24:31.582869+00:00
+ - user: None
+ - tags: []
+
+## Daniel Mangum
+ - [https://danielmangum.com](https://danielmangum.com)
+ - date published: 2023-10-25T13:42:49.607953+00:00
+ - user: None
+ - tags: []
+
+## Daniel R. Sim
+ - [https://www.danielrsim.com](https://www.danielrsim.com)
+ - date published: 2023-10-25T13:42:56.848127+00:00
+ - user: None
+ - tags: []
+
+## Dan Sanchez – Your Audience Growth Guide – Learn how to turn your marketing department into a media production machine that can grow an audience.
+ - [https://danielsanchez.com](https://danielsanchez.com)
+ - date published: 2023-11-29T14:21:43.266780+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | Daniel Southwell
+ - [https://www.danielsouthwell.com](https://www.danielsouthwell.com)
+ - date published: 2023-11-29T14:44:43.936182+00:00
+ - user: None
+ - tags: ['personal']
+
+## SEO Consultant « Dan Lacey
+ - [https://www.danlacey.com](https://www.danlacey.com)
+ - date published: 2023-12-19T02:59:42.157918+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://danleatherman.com](https://danleatherman.com)
+ - date published: 2023-12-25T04:55:46.876570+00:00
+ - user: None
+ - tags: ['personal']
+
+## Daniel Lebrero Berna Blog
+ - [https://danlebrero.com](https://danlebrero.com)
+ - date published: 2023-10-25T13:42:59.369073+00:00
+ - user: None
+ - tags: []
+
+## https://danluu.com
+ - [https://danluu.com](https://danluu.com)
+ - date published: 2023-12-07T19:41:48.559063+00:00
+ - user: None
+ - tags: []
+
+## Dannarchy
+ - [https://dannarchy.com](https://dannarchy.com)
+ - date published: 2023-11-15T17:57:22.731560+00:00
+ - user: None
+ - tags: ['games', 'personal']
+
+## Quite Interesting - DannyDutch
+ - [https://www.dannydutch.com](https://www.dannydutch.com)
+ - date published: 2023-10-25T13:43:03.806496+00:00
+ - user: None
+ - tags: []
+
+## Danny Mekić – speaker, internet-, technology- & innovation expert
+ - [https://dannymekic.com](https://dannymekic.com)
+ - date published: 2023-10-25T13:43:06.954538+00:00
+ - user: None
+ - tags: []
+
+## Private Site
+ - [https://dannymiranda.com](https://dannymiranda.com)
+ - date published: 2023-11-29T18:20:52.124664+00:00
+ - user: None
+ - tags: ['personal']
+
+## Book Reviews by Danny Yee (fiction + nonfiction)
+ - [https://dannyreviews.com](https://dannyreviews.com)
+ - date published: 2023-10-25T13:43:08.400859+00:00
+ - user: None
+ - tags: []
+
+## Danny Sullivan
+ - [https://dannysullivan.com](https://dannysullivan.com)
+ - date published: 2023-11-01T20:29:51.190146+00:00
+ - user: None
+ - tags: []
+
 ## Danny van Kooten
  - [https://dannyvankooten.com](https://dannyvankooten.com)
  - date published: 2023-12-13T20:58:39.281836+00:00
@@ -43,6 +145,12 @@
 ## Dariusz Semba
  - [https://dariuszsemba.com](https://dariuszsemba.com)
  - date published: 2023-10-25T13:43:24.609905+00:00
+ - user: None
+ - tags: []
+
+## - Smartphones as a business tools
+ - [https://blog.darkaa.com](https://blog.darkaa.com)
+ - date published: 2023-12-27T19:46:16.591470+00:00
  - user: None
  - tags: []
 
@@ -735,6 +843,12 @@
  - date published: 2023-10-25T10:51:12.729993+00:00
  - user: None
  - tags: ['movies', 'fantasy', 'games', 'news']
+
+## dentonjacobs.com
+ - [https://www.dentonjacobs.com](https://www.dentonjacobs.com)
+ - date published: 2023-12-27T23:56:18.327605+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Homepage
  - [https://www.denver7.com](https://www.denver7.com)
@@ -4385,6 +4499,12 @@
  - user: None
  - tags: []
 
+## Home | Feel Brave
+ - [https://www.feelbrave.com](https://www.feelbrave.com)
+ - date published: 2023-12-27T18:13:17.084773+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Brad Feld
  - [https://feld.com](https://feld.com)
  - date published: 2023-10-25T14:28:55.922376+00:00
@@ -5141,6 +5261,12 @@
  - user: None
  - tags: ['personal']
 
+## Forrest Heller
+ - [https://forrestheller.com](https://forrestheller.com)
+ - date published: 2023-12-27T03:17:31.876183+00:00
+ - user: None
+ - tags: []
+
 ## ForrestTheWoods - Home
  - [https://www.forrestthewoods.com](https://www.forrestthewoods.com)
  - date published: 2023-10-25T14:35:30.429573+00:00
@@ -5870,132 +5996,6 @@
 ## GameFromScratch.com – Game Development News, Tutorials and More
  - [https://gamefromscratch.com](https://gamefromscratch.com)
  - date published: 2023-10-25T14:40:53.198559+00:00
- - user: None
- - tags: []
-
-## GameInfinitus - Gaming News, Guides, Patch Notes, and Reviews
- - [https://gameinfinitus.com](https://gameinfinitus.com)
- - date published: 2023-12-10T07:38:40.900576+00:00
- - user: None
- - tags: ['game news']
-
-## GameModding.com - Wot, Skyrim, GTA 4, GTA San Andreas, Fallout, GTA Vice City and Counter-Strike mods with automatic installation
- - [https://gamemodding.com](https://gamemodding.com)
- - date published: 2023-10-30T15:29:50.729809+00:00
- - user: None
- - tags: []
-
-## GAME ON TABLE TOP • Game On Table Top
- - [https://www.gameontabletop.com](https://www.gameontabletop.com)
- - date published: 2023-10-25T11:11:19.160844+00:00
- - user: None
- - tags: []
-
-## Leaguepedia | League of Legends Esports Wiki
- - [https://lol.gamepedia.com](https://lol.gamepedia.com)
- - date published: 2023-11-02T10:40:59.813503+00:00
- - user: None
- - tags: []
-
-## Buy Skins, Items, Keys - Rust, Dota 2, TF2,  - GamerAll.com
- - [https://gamerall.com](https://gamerall.com)
- - date published: 2023-12-13T16:17:33.612155+00:00
- - user: None
- - tags: []
-
-## Home - Gameranx
- - [https://gameranx.com](https://gameranx.com)
- - date published: 2023-10-25T10:48:01.663782+00:00
- - user: None
- - tags: ['game news']
-
-## Home - GamerBraves
- - [https://www.gamerbraves.com](https://www.gamerbraves.com)
- - date published: 2023-10-25T14:41:02.342073+00:00
- - user: None
- - tags: []
-
-## Games Workshop
- - [https://www.games-workshop.com](https://www.games-workshop.com)
- - date published: 2023-10-25T11:11:19.430080+00:00
- - user: None
- - tags: ['tabletop games', 'lord of the rings', 'warhammer']
-
-## GamesNostalgia - Retro games, abandonware, freeware, Amiga & MS-DOS games download for PC and Mac
- - [https://gamesnostalgia.com](https://gamesnostalgia.com)
- - date published: 2023-10-25T16:35:00.349559+00:00
- - user: None
- - tags: []
-
-## GameFAQs - Video Game Cheats, Reviews, FAQs, Message Boards, and More
- - [https://gamefaqs.gamespot.com](https://gamefaqs.gamespot.com)
- - date published: 2023-10-25T14:41:09.308883+00:00
- - user: None
- - tags: []
-
-## Video Games Reviews & News - GameSpot
- - [https://www.gamespot.com](https://www.gamespot.com)
- - date published: 2023-10-25T10:48:12.023848+00:00
- - user: None
- - tags: ['game news', 'video games']
-
-## None
- - [https://planetquake.gamespy.com](https://planetquake.gamespy.com)
- - date published: 2023-10-27T13:45:35.856009+00:00
- - user: None
- - tags: ['quake']
-
-## GamesRadar+
- - [https://www.gamesradar.com](https://www.gamesradar.com)
- - date published: 2023-10-25T10:48:35.931056+00:00
- - user: None
- - tags: []
-
-## GameWatcher: Video Game News, Reviews, and Guides. | GameWatcher
- - [https://www.gamewatcher.com](https://www.gamewatcher.com)
- - date published: 2023-10-25T10:48:40.077724+00:00
- - user: None
- - tags: []
-
-## GameWorldObserver.com: online magazine about video games industry
- - [https://gameworldobserver.com](https://gameworldobserver.com)
- - date published: 2023-10-25T10:48:43.476844+00:00
- - user: None
- - tags: []
-
-## ▷ Game Guides, Tutorials and Reviews for E-Sport Games
- - [https://gaming-tools.com](https://gaming-tools.com)
- - date published: 2023-10-29T10:37:29.297437+00:00
- - user: None
- - tags: ['warcraft']
-
-## Gaming Alexandria – Video Game History and Preservation
- - [https://www.gamingalexandria.com](https://www.gamingalexandria.com)
- - date published: 2023-10-25T14:41:14.275764+00:00
- - user: None
- - tags: []
-
-## GAMINGbible - Let's All Play
- - [https://www.gamingbible.com](https://www.gamingbible.com)
- - date published: 2023-10-25T10:48:48.447960+00:00
- - user: None
- - tags: []
-
-## Video Game News, Reviews, Walkthroughs And Guides | GamingBolt
- - [https://gamingbolt.com](https://gamingbolt.com)
- - date published: 2023-11-01T07:18:36.819292+00:00
- - user: None
- - tags: ['game news']
-
-## GAMINGDEPUTY - ‏‏‎‎‏‏‎ ‎News, Reviews & Insights
- - [https://www.gamingdeputy.com](https://www.gamingdeputy.com)
- - date published: 2023-10-25T14:41:18.532720+00:00
- - user: None
- - tags: []
-
-## Gaming Gorilla | Video Game Reviews, Release Dates, Trailers & Lists
- - [https://gaminggorilla.com](https://gaminggorilla.com)
- - date published: 2023-10-25T11:16:34.246333+00:00
  - user: None
  - tags: []
 
