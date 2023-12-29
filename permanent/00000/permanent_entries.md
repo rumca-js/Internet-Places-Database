@@ -124,6 +124,12 @@
  - user: None
  - tags: []
 
+## None
+ - [https://www.howtogeek.com](https://www.howtogeek.com)
+ - date published: 2023-12-28T15:14:58.511451+00:00
+ - user: None
+ - tags: []
+
 ## Kristiania
  - [https://kristiania.no.](https://kristiania.no.)
  - date published: 2023-12-13T11:22:44.862076+00:00
@@ -2806,6 +2812,12 @@
  - user: None
  - tags: []
 
+## Thompson Organisations
+ - [https://www.thompsonorganisations.com.au](https://www.thompsonorganisations.com.au)
+ - date published: 2023-12-28T22:26:11.353151+00:00
+ - user: None
+ - tags: ['personal']
+
 ## WhichCar | New Car Reviews, Prices and Buying Advice
  - [https://www.whichcar.com.au](https://www.whichcar.com.au)
  - date published: 2023-10-25T11:56:28.810625+00:00
@@ -3147,6 +3159,12 @@
  - date published: 2023-10-26T18:32:21.331231+00:00
  - user: None
  - tags: ['game', 'retro game']
+
+## Original Sling'n'shoot Worms Game
+ - [http://www.liero.be](http://www.liero.be)
+ - date published: 2023-12-28T18:40:30+00:00
+ - user: None
+ - tags: []
 
 ## Nicky Mouha – Researcher in Cryptography
  - [https://mouha.be](https://mouha.be)
@@ -4066,6 +4084,12 @@
  - date published: 2023-10-25T11:26:45.357716+00:00
  - user: None
  - tags: ['canada', 'government']
+
+## Chris Carlier
+ - [https://carlier.ca](https://carlier.ca)
+ - date published: 2023-12-28T18:49:41.221395+00:00
+ - user: None
+ - tags: ['personal']
 
 ## CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
  - [https://www.cbc.ca](https://www.cbc.ca)
@@ -5388,6 +5412,12 @@
  - user: None
  - tags: ['personal']
 
+## Multiplayer Online Science
+ - [http://mmos.ch](http://mmos.ch)
+ - date published: 2023-12-28T20:56:18+00:00
+ - user: None
+ - tags: []
+
 ## Michael Rupp - My Projects
  - [https://mrupp.ch](https://mrupp.ch)
  - date published: 2023-11-02T09:42:08.151338+00:00
@@ -5511,6 +5541,12 @@
 ## aider is AI pair programming in your terminal
  - [https://aider.chat](https://aider.chat)
  - date published: 2023-11-08T00:15:40.726262+00:00
+ - user: None
+ - tags: []
+
+## I created an ephemeral group chat app for strangers
+ - [https://www.commonroom.chat](https://www.commonroom.chat)
+ - date published: 2023-12-28T06:29:55+00:00
  - user: None
  - tags: []
 
@@ -5655,6 +5691,12 @@
 ## Unum | Scaling Intelligence
  - [https://www.unum.cloud](https://www.unum.cloud)
  - date published: 2023-10-25T12:15:40.179031+00:00
+ - user: None
+ - tags: []
+
+## Valetudo – Cloud replacement for vacuum robots enabling local-only operation
+ - [https://valetudo.cloud](https://valetudo.cloud)
+ - date published: 2023-12-27T23:51:24+00:00
  - user: None
  - tags: []
 
@@ -5955,48 +5997,6 @@
 ## Decrypt: AI, Bitcoin, Culture, Gaming, and Crypto News - Decrypt
  - [https://decrypt.co](https://decrypt.co)
  - date published: 2023-10-25T09:30:36.361891+00:00
- - user: None
- - tags: []
-
-## Dilpreet Singh
- - [https://dilpreet.co](https://dilpreet.co)
- - date published: 2023-10-25T12:17:56.939252+00:00
- - user: None
- - tags: []
-
-## DocuSeal – Open-source Document Signing
- - [https://www.docuseal.co](https://www.docuseal.co)
- - date published: 2023-12-21T07:48:10+00:00
- - user: None
- - tags: []
-
-## Duncan.co
- - [https://duncan.co](https://duncan.co)
- - date published: 2023-12-14T06:54:49.428387+00:00
- - user: None
- - tags: ['personal']
-
-## Ask Seneca: Learn about Stoicism from the Most Popular Stoic
- - [https://seneca.dylancastillo.co](https://seneca.dylancastillo.co)
- - date published: 2023-10-25T12:17:59.713847+00:00
- - user: None
- - tags: []
-
-## The Eclectic Light Company – Macs, painting, and more
- - [https://eclecticlight.co](https://eclecticlight.co)
- - date published: 2023-10-25T12:18:04.633774+00:00
- - user: None
- - tags: []
-
-## Elasticsearch Platform — Find real-time answers at scale | Elastic
- - [https://www.elastic.co](https://www.elastic.co)
- - date published: 2023-10-25T12:18:45.646685+00:00
- - user: None
- - tags: []
-
-## Electrek | EV and Tesla News, Green Energy, Ebikes, and more
- - [https://electrek.co](https://electrek.co)
- - date published: 2023-10-25T09:30:46.470276+00:00
  - user: None
  - tags: []
 

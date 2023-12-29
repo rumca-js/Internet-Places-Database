@@ -1,3 +1,117 @@
+## Mahmoud Mazouz
+ - [https://fuzzypixelz.com](https://fuzzypixelz.com)
+ - date published: 2023-10-25T14:40:16.267218+00:00
+ - user: None
+ - tags: []
+
+## Mahmoud Mazouz
+ - [https://www.fuzzypixelz.com](https://www.fuzzypixelz.com)
+ - date published: 2023-10-25T14:40:17.490437+00:00
+ - user: None
+ - tags: []
+
+## Future vs. Fantasy Quake
+ - [https://fvfonline.com](https://fvfonline.com)
+ - date published: 2023-11-08T21:17:28.959973+00:00
+ - user: None
+ - tags: ['quake']
+
+## Home Page
+ - [https://www.fxguide.com](https://www.fxguide.com)
+ - date published: 2023-11-29T07:35:28.472426+00:00
+ - user: None
+ - tags: []
+
+## https://www.g2a.com
+ - [https://www.g2a.com](https://www.g2a.com)
+ - date published: 2023-10-29T11:08:42.607822+00:00
+ - user: None
+ - tags: ['keys', 'piracy']
+
+## G2 Esports: The most entertaining esports organization in the world
+ - [https://www.g2esports.com](https://www.g2esports.com)
+ - date published: 2023-12-09T19:59:24.289964+00:00
+ - user: None
+ - tags: ['esport', 'video games']
+
+## Gab News – Parallel Polis Publishing
+ - [https://news.gab.com](https://news.gab.com)
+ - date published: 2023-10-25T14:40:21.223689+00:00
+ - user: None
+ - tags: []
+
+## Gabor Melli's Home Page
+ - [https://www.gabormelli.com](https://www.gabormelli.com)
+ - date published: 2023-10-25T08:45:50.242815+00:00
+ - user: None
+ - tags: ['personal']
+
+## Gabriel  Raya
+ - [https://gabrielraya.com](https://gabrielraya.com)
+ - date published: 2023-10-25T14:40:25.301850+00:00
+ - user: None
+ - tags: []
+
+## Tech News, Latest Technology, Mobiles, Laptops - Gadgets 360
+ - [https://www.gadgets360.com](https://www.gadgets360.com)
+ - date published: 2023-10-25T09:33:05.632386+00:00
+ - user: None
+ - tags: []
+
+## Gadget Tendency - Gadgets, Technology And More
+ - [https://gadgettendency.com](https://gadgettendency.com)
+ - date published: 2023-10-25T14:40:30.032671+00:00
+ - user: None
+ - tags: []
+
+## Gagadget.com | Гаджети, технології, популярна наука - новини, огляди та статті
+ - [https://gagadget.com](https://gagadget.com)
+ - date published: 2023-10-25T14:40:34.718320+00:00
+ - user: None
+ - tags: []
+
+## gail.com FAQ
+ - [https://gail.com](https://gail.com)
+ - date published: 2023-10-25T14:40:36.414735+00:00
+ - user: None
+ - tags: []
+
+## Curious Musings
+ - [http://curious.galthub.com](http://curious.galthub.com)
+ - date published: 2023-10-25T14:40:44.538573+00:00
+ - user: None
+ - tags: []
+
+## Free Online Games 😜 · Play 9801 Games · No Download or Login
+ - [https://gamaverse.com](https://gamaverse.com)
+ - date published: 2023-10-26T18:29:12.607785+00:00
+ - user: None
+ - tags: ['games']
+
+## GameBanana | The Game Modding Community - Since 2001
+ - [https://gamebanana.com](https://gamebanana.com)
+ - date published: 2023-10-25T11:16:26.951789+00:00
+ - user: None
+ - tags: []
+
+## GameBoomers - PC adventure games news, forum, walkthroughs, reviews.
+ - [https://www.gameboomers.com](https://www.gameboomers.com)
+ - date published: 2023-11-15T17:51:04.934743+00:00
+ - user: None
+ - tags: ['games', 'game news']
+
+## Game Developer
+ - [https://www.gamedeveloper.com](https://www.gamedeveloper.com)
+ - date published: 2023-10-25T10:47:56.348736+00:00
+ - user: None
+ - tags: []
+
+## GameFromScratch.com – Game Development News, Tutorials and More
+ - [https://gamefromscratch.com](https://gamefromscratch.com)
+ - date published: 2023-10-25T14:40:53.198559+00:00
+ - user: None
+ - tags: []
+
 ## GameInfinitus - Gaming News, Guides, Patch Notes, and Reviews
  - [https://gameinfinitus.com](https://gameinfinitus.com)
  - date published: 2023-12-10T07:38:40.900576+00:00
@@ -1767,6 +1881,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## GraphWords: Visual Dictionary and Thesaurus
+ - [https://graphwords.com](https://graphwords.com)
+ - date published: 2023-12-28T20:56:51+00:00
+ - user: None
+ - tags: []
+
 ## Gravatar - Globally Recognized Avatars
  - [https://secure.gravatar.com](https://secure.gravatar.com)
  - date published: 2023-12-11T16:36:49.030626+00:00
@@ -2192,6 +2312,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-12-19T01:18:12.330948+00:00
  - user: None
  - tags: []
+
+## Now - Guy Spier
+ - [https://www.guyspier.com](https://www.guyspier.com)
+ - date published: 2023-12-28T18:50:42.021281+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Alexey Guzey
  - [https://guzey.com](https://guzey.com)
@@ -2991,6 +3117,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Hexcodle
+ - [https://hexcodle.com](https://hexcodle.com)
+ - date published: 2023-12-28T19:29:14+00:00
+ - user: None
+ - tags: []
+
 ## Hexmos Journal
  - [https://journal.hexmos.com](https://journal.hexmos.com)
  - date published: 2023-11-12T15:06:10.696477+00:00
@@ -3777,6 +3909,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Adam Levy
+ - [https://www.iamadamlevy.com](https://www.iamadamlevy.com)
+ - date published: 2023-12-28T18:50:04.458221+00:00
+ - user: None
+ - tags: ['personal']
+
 ## New UK record for wind power set today – 21.81 GW between 0900-0930 GMT
  - [https://grid.iamkate.com](https://grid.iamkate.com)
  - date published: 2023-12-21T09:58:37+00:00
@@ -3794,6 +3932,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-11-13T09:30:42.452147+00:00
  - user: None
  - tags: ['synthpop', 'music band']
+
+## I Am the Fold
+ - [https://iamthefold.com](https://iamthefold.com)
+ - date published: 2023-12-28T13:20:40+00:00
+ - user: None
+ - tags: []
 
 ## Vishnu's Pages
  - [https://iamvishnu.com](https://iamvishnu.com)
@@ -5091,6 +5235,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Ivica Baraba – personal blog
+ - [https://ivicabaraba.com](https://ivicabaraba.com)
+ - date published: 2023-12-28T18:50:27.715971+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Ivan on Containers, Kubernetes, and Server-Side
  - [https://iximiuz.com](https://iximiuz.com)
  - date published: 2023-10-25T15:25:12.899907+00:00
@@ -5571,6 +5721,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: ['personal']
 
+## jcbages
+ - [https://jcbages.com](https://jcbages.com)
+ - date published: 2023-12-28T22:25:50.202379+00:00
+ - user: None
+ - tags: ['personal']
+
 ## - - JC de Merez
  - [https://jcdemerez.com](https://jcdemerez.com)
  - date published: 2023-12-21T08:24:43.653625+00:00
@@ -5846,160 +6002,4 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-11-29T14:25:37.115227+00:00
  - user: None
  - tags: ['personal']
-
-## Jessitron – symmathecist, in the medium of code
- - [https://jessitron.com](https://jessitron.com)
- - date published: 2023-10-25T15:28:28.652075+00:00
- - user: None
- - tags: []
-
-## JetBrains Account
- - [https://account.jetbrains.com](https://account.jetbrains.com)
- - date published: 2023-12-12T09:09:43.184363+00:00
- - user: None
- - tags: []
-
-## JetBrains Blog: The Drive to Develop
- - [https://blog.jetbrains.com](https://blog.jetbrains.com)
- - date published: 2023-10-25T08:37:43.300846+00:00
- - user: None
- - tags: []
-
-## Administration
- - [https://hub.jetbrains.com](https://hub.jetbrains.com)
- - date published: 2023-12-12T09:05:46+00:00
- - user: rumpel
- - tags: []
-
-## JetBrains: Essential tools for software developers and teams
- - [https://lp.jetbrains.com](https://lp.jetbrains.com)
- - date published: 2023-12-12T09:09:56.188947+00:00
- - user: None
- - tags: []
-
-## JetBrains Marketplace
- - [https://plugins.jetbrains.com](https://plugins.jetbrains.com)
- - date published: 2023-12-12T09:09:59.760112+00:00
- - user: None
- - tags: []
-
-## https://resources.jetbrains.com
- - [https://resources.jetbrains.com](https://resources.jetbrains.com)
- - date published: 2023-12-12T09:10:06.381602+00:00
- - user: None
- - tags: []
-
-## https://sales.jetbrains.com
- - [https://sales.jetbrains.com](https://sales.jetbrains.com)
- - date published: 2023-12-12T09:09:48.760487+00:00
- - user: None
- - tags: []
-
-## JetBrains: Essential tools for software developers and teams
- - [https://www.jetbrains.com](https://www.jetbrains.com)
- - date published: 2023-10-25T11:28:02.006390+00:00
- - user: None
- - tags: ['ide', 'pycharm', 'intellij', 'clion', 'webstorm']
-
-## https://youtrack.jetbrains.com
- - [https://youtrack.jetbrains.com](https://youtrack.jetbrains.com)
- - date published: 2023-12-12T09:04:30+00:00
- - user: rumpel
- - tags: []
-
-## JETNET | World Leader in Aviation Market Intelligence
- - [https://www.jetnet.com](https://www.jetnet.com)
- - date published: 2023-10-25T15:28:36.142271+00:00
- - user: None
- - tags: []
-
-## JetPens - The Best Pens & Stationery From Japan & Beyond
- - [https://www.jetpens.com](https://www.jetpens.com)
- - date published: 2023-10-25T15:28:45.728960+00:00
- - user: None
- - tags: []
-
-## The Jewish Press - JewishPress.com
- - [https://www.jewishpress.com](https://www.jewishpress.com)
- - date published: 2023-12-07T15:14:09.328558+00:00
- - user: None
- - tags: ['jewish news', 'israel']
-
-## Jezen Thomas | Haskell, Unix, Minimalism, and Entrepreneurship.
- - [https://jezenthomas.com](https://jezenthomas.com)
- - date published: 2023-10-25T15:28:46.503280+00:00
- - user: None
- - tags: []
-
-## Software Supply Chain Platform for DevOps & Security | JFrog
- - [https://jfrog.com](https://jfrog.com)
- - date published: 2023-10-25T15:29:02.160628+00:00
- - user: None
- - tags: []
-
-## jgallant's Indie Game Developer Homepage
- - [https://www.jgallant.com](https://www.jgallant.com)
- - date published: 2023-10-25T15:29:05.166800+00:00
- - user: None
- - tags: []
-
-## Ji'hyn's Webbed Site – Thinkin' 'bout stuff
- - [https://jihyn.com](https://jihyn.com)
- - date published: 2023-11-09T19:01:08.263803+00:00
- - user: None
- - tags: []
-
-## Jim Nielsen’s Blog
- - [https://blog.jim-nielsen.com](https://blog.jim-nielsen.com)
- - date published: 2023-10-25T15:29:09.082962+00:00
- - user: None
- - tags: []
-
-## Jim Clair – Blog
- - [https://jimclair.com](https://jimclair.com)
- - date published: 2023-10-25T15:29:13.208321+00:00
- - user: None
- - tags: []
-
-## Jimmy Keane
- - [https://jimmykeane.com](https://jimmykeane.com)
- - date published: 2023-11-29T17:12:38.002816+00:00
- - user: None
- - tags: ['personal']
-
-## Jingnan Shi
- - [https://jingnanshi.com](https://jingnanshi.com)
- - date published: 2023-10-25T15:29:17.944385+00:00
- - user: None
- - tags: []
-
-## JITX - Software-defined electronics
- - [https://www.jitx.com](https://www.jitx.com)
- - date published: 2023-10-25T15:29:20.014336+00:00
- - user: None
- - tags: []
-
-## Joseph Jude - Coach • CTO • Podcast Host
- - [https://jjude.com](https://jjude.com)
- - date published: 2023-12-05T14:37:52.987095+00:00
- - user: None
- - tags: ['personal']
-
-## Jonathan Katz
- - [https://jkatz05.com](https://jkatz05.com)
- - date published: 2023-10-25T15:29:21.287258+00:00
- - user: None
- - tags: []
-
-## Jon Kulton
- - [https://jkulton.com](https://jkulton.com)
- - date published: 2023-10-25T15:29:22.992517+00:00
- - user: None
- - tags: []
-
-## Jon Quixote | In which the author considers whether a community is more like a giant or more like a windmill.
- - [https://jlericson.com](https://jlericson.com)
- - date published: 2023-10-25T15:29:25.754618+00:00
- - user: None
- - tags: []
 

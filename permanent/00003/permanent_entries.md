@@ -1,3 +1,87 @@
+## daisyUI — Tailwind CSS Components ( version 4 update is here )
+ - [https://daisyui.com](https://daisyui.com)
+ - date published: 2023-12-21T23:47:33.224307+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://daizymaan.com](https://daizymaan.com)
+ - date published: 2023-12-22T22:30:15.592525+00:00
+ - user: None
+ - tags: ['personal']
+
+## DakkaDakka - Wargaming and Warhammer 40k Forums, Articles and Gallery - Homepage
+ - [https://www.dakkadakka.com](https://www.dakkadakka.com)
+ - date published: 2023-11-01T18:31:41.378069+00:00
+ - user: None
+ - tags: ['hobby', 'warhammer', 'miniatures']
+
+## Dallas Innovates » What's new + next in Dallas-Fort Worth innovation
+ - [https://dallasinnovates.com](https://dallasinnovates.com)
+ - date published: 2023-10-25T13:42:19.357897+00:00
+ - user: None
+ - tags: []
+
+## Dallas News | Breaking News for DFW, Texas, World
+ - [https://www.dallasnews.com](https://www.dallasnews.com)
+ - date published: 2023-10-25T11:02:56.988420+00:00
+ - user: None
+ - tags: []
+
+## CHARLES DALY
+ - [https://dalyprose.com](https://dalyprose.com)
+ - date published: 2023-11-29T15:17:02.140272+00:00
+ - user: None
+ - tags: []
+
+## Home » DamienG
+ - [https://damieng.com](https://damieng.com)
+ - date published: 2023-10-25T09:19:59.490554+00:00
+ - user: None
+ - tags: ['personal']
+
+## Damn Interesting • Obscure true stories from science & history
+ - [https://www.damninteresting.com](https://www.damninteresting.com)
+ - date published: 2023-10-25T13:42:23.621997+00:00
+ - user: None
+ - tags: []
+
+## Daniel Angell
+ - [https://danangell.com](https://danangell.com)
+ - date published: 2023-11-10T09:07:42.336917+00:00
+ - user: None
+ - tags: []
+
+## Dan Carlin
+ - [https://www.dancarlin.com](https://www.dancarlin.com)
+ - date published: 2023-12-27T17:29:57.235423+00:00
+ - user: None
+ - tags: []
+
+## Dan Cowell
+ - [https://www.dancowell.com](https://www.dancowell.com)
+ - date published: 2023-10-25T13:42:27.187014+00:00
+ - user: None
+ - tags: []
+
+## The Surreal Stories and Psychedelic Music of Dane Clark Collins
+ - [https://www.daneclarkcollins.com](https://www.daneclarkcollins.com)
+ - date published: 2023-12-02T21:17:25.329624+00:00
+ - user: None
+ - tags: ['personal']
+
+## Danheim | Official Page – Viking Music from the cold north
+ - [https://danheimmusic.com](https://danheimmusic.com)
+ - date published: 2023-11-13T11:11:25.660964+00:00
+ - user: None
+ - tags: ['music band']
+
+## Dan Harrison
+ - [https://blog.danhhz.com](https://blog.danhhz.com)
+ - date published: 2023-10-25T13:42:31.335203+00:00
+ - user: None
+ - tags: []
+
 ## Things That Caught My Attention
  - [https://newsletter.danhon.com](https://newsletter.danhon.com)
  - date published: 2023-10-25T13:42:35.672609+00:00
@@ -157,6 +241,12 @@
 ## Dark Reading | Security | Protect The Business
  - [https://www.darkreading.com](https://www.darkreading.com)
  - date published: 2023-10-25T13:43:27.521358+00:00
+ - user: None
+ - tags: []
+
+## Dark Visitors – A list of known AI agents on the internet
+ - [https://darkvisitors.com](https://darkvisitors.com)
+ - date published: 2023-12-28T19:30:00+00:00
  - user: None
  - tags: []
 
@@ -447,6 +537,12 @@
  - date published: 2023-10-31T19:10:41.022686+00:00
  - user: None
  - tags: ['pakistan news']
+
+## dawnyaclarine
+ - [https://dawnyaclarine.com](https://dawnyaclarine.com)
+ - date published: 2023-12-28T22:25:55.782138+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Dayne Herren – Copywriter | Online Marketer | Coffee Lover
  - [https://www.dayneherren.com](https://www.dayneherren.com)
@@ -1003,6 +1099,12 @@
 ## Development Friendly – Coding and web development advice for all.
  - [https://developmentfriendly.com](https://developmentfriendly.com)
  - date published: 2023-10-25T13:51:00.761063+00:00
+ - user: None
+ - tags: []
+
+## Development Simply Put | Software Engineering Hub
+ - [https://www.developmentsimplyput.com](https://www.developmentsimplyput.com)
+ - date published: 2023-12-28T04:56:24.867354+00:00
  - user: None
  - tags: []
 
@@ -2038,6 +2140,12 @@
  - date published: 2023-10-25T09:20:20.172980+00:00
  - user: None
  - tags: ['personal']
+
+## Patrick Dubroy
+ - [https://dubroy.com](https://dubroy.com)
+ - date published: 2023-12-28T14:25:00.041819+00:00
+ - user: None
+ - tags: []
 
 ## DuckDuckGo — Privacy, simplified.
  - [https://duckduckgo.com](https://duckduckgo.com)
@@ -3928,6 +4036,12 @@
  - date published: 2023-12-11T16:53:37.884579+00:00
  - user: None
  - tags: []
+
+## Facebook link
+ - [https://l.facebook.com](https://l.facebook.com)
+ - date published: 2023-12-28T11:22:09+00:00
+ - user: rumpel
+ - tags: ['facebook']
 
 ## Facebook
  - [https://www.facebook.com](https://www.facebook.com)
@@ -5882,120 +5996,6 @@
 ## Show HN: Soccer video analysis from your match videos
  - [https://futvis.com](https://futvis.com)
  - date published: 2023-11-14T20:42:49+00:00
- - user: None
- - tags: []
-
-## Mahmoud Mazouz
- - [https://fuzzypixelz.com](https://fuzzypixelz.com)
- - date published: 2023-10-25T14:40:16.267218+00:00
- - user: None
- - tags: []
-
-## Mahmoud Mazouz
- - [https://www.fuzzypixelz.com](https://www.fuzzypixelz.com)
- - date published: 2023-10-25T14:40:17.490437+00:00
- - user: None
- - tags: []
-
-## Future vs. Fantasy Quake
- - [https://fvfonline.com](https://fvfonline.com)
- - date published: 2023-11-08T21:17:28.959973+00:00
- - user: None
- - tags: ['quake']
-
-## Home Page
- - [https://www.fxguide.com](https://www.fxguide.com)
- - date published: 2023-11-29T07:35:28.472426+00:00
- - user: None
- - tags: []
-
-## https://www.g2a.com
- - [https://www.g2a.com](https://www.g2a.com)
- - date published: 2023-10-29T11:08:42.607822+00:00
- - user: None
- - tags: ['keys', 'piracy']
-
-## G2 Esports: The most entertaining esports organization in the world
- - [https://www.g2esports.com](https://www.g2esports.com)
- - date published: 2023-12-09T19:59:24.289964+00:00
- - user: None
- - tags: ['esport', 'video games']
-
-## Gab News – Parallel Polis Publishing
- - [https://news.gab.com](https://news.gab.com)
- - date published: 2023-10-25T14:40:21.223689+00:00
- - user: None
- - tags: []
-
-## Gabor Melli's Home Page
- - [https://www.gabormelli.com](https://www.gabormelli.com)
- - date published: 2023-10-25T08:45:50.242815+00:00
- - user: None
- - tags: ['personal']
-
-## Gabriel  Raya
- - [https://gabrielraya.com](https://gabrielraya.com)
- - date published: 2023-10-25T14:40:25.301850+00:00
- - user: None
- - tags: []
-
-## Tech News, Latest Technology, Mobiles, Laptops - Gadgets 360
- - [https://www.gadgets360.com](https://www.gadgets360.com)
- - date published: 2023-10-25T09:33:05.632386+00:00
- - user: None
- - tags: []
-
-## Gadget Tendency - Gadgets, Technology And More
- - [https://gadgettendency.com](https://gadgettendency.com)
- - date published: 2023-10-25T14:40:30.032671+00:00
- - user: None
- - tags: []
-
-## Gagadget.com | Гаджети, технології, популярна наука - новини, огляди та статті
- - [https://gagadget.com](https://gagadget.com)
- - date published: 2023-10-25T14:40:34.718320+00:00
- - user: None
- - tags: []
-
-## gail.com FAQ
- - [https://gail.com](https://gail.com)
- - date published: 2023-10-25T14:40:36.414735+00:00
- - user: None
- - tags: []
-
-## Curious Musings
- - [http://curious.galthub.com](http://curious.galthub.com)
- - date published: 2023-10-25T14:40:44.538573+00:00
- - user: None
- - tags: []
-
-## Free Online Games 😜 · Play 9801 Games · No Download or Login
- - [https://gamaverse.com](https://gamaverse.com)
- - date published: 2023-10-26T18:29:12.607785+00:00
- - user: None
- - tags: ['games']
-
-## GameBanana | The Game Modding Community - Since 2001
- - [https://gamebanana.com](https://gamebanana.com)
- - date published: 2023-10-25T11:16:26.951789+00:00
- - user: None
- - tags: []
-
-## GameBoomers - PC adventure games news, forum, walkthroughs, reviews.
- - [https://www.gameboomers.com](https://www.gameboomers.com)
- - date published: 2023-11-15T17:51:04.934743+00:00
- - user: None
- - tags: ['games', 'game news']
-
-## Game Developer
- - [https://www.gamedeveloper.com](https://www.gamedeveloper.com)
- - date published: 2023-10-25T10:47:56.348736+00:00
- - user: None
- - tags: []
-
-## GameFromScratch.com – Game Development News, Tutorials and More
- - [https://gamefromscratch.com](https://gamefromscratch.com)
- - date published: 2023-10-25T14:40:53.198559+00:00
  - user: None
  - tags: []
 

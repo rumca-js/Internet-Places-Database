@@ -1,3 +1,328 @@
+## The Copetti site | Rodrigo Copetti
+ - [https://www.copetti.org](https://www.copetti.org)
+ - date published: 2023-10-25T08:54:33.181982+00:00
+ - user: None
+ - tags: ['playstation', 'consoles', 'personal', 'xbox']
+
+## Amiga Hardware Programming | Coppershade
+ - [http://coppershade.org](http://coppershade.org)
+ - date published: 2023-11-02T11:02:31.779250+00:00
+ - user: None
+ - tags: []
+
+## Home | Corporate Europe Observatory
+ - [https://corporateeurope.org](https://corporateeurope.org)
+ - date published: 2023-10-25T21:10:18.379127+00:00
+ - user: None
+ - tags: []
+
+## About CorpWatch | corpwatch
+ - [https://www.corpwatch.org](https://www.corpwatch.org)
+ - date published: 2023-10-25T21:10:20.522811+00:00
+ - user: None
+ - tags: []
+
+## corsix.org
+ - [https://www.corsix.org](https://www.corsix.org)
+ - date published: 2023-10-25T21:10:23.384582+00:00
+ - user: None
+ - tags: []
+
+## Counterexamples in Type Systems - Counterexamples in Type Systems
+ - [https://counterexamples.org](https://counterexamples.org)
+ - date published: 2023-10-25T21:10:24.650321+00:00
+ - user: None
+ - tags: []
+
+## Countle - Daily Math Puzzle
+ - [https://www.countle.org](https://www.countle.org)
+ - date published: 2023-10-25T21:10:30.023116+00:00
+ - user: None
+ - tags: []
+
+## Coursera | Degrees, Certificates, & Free Online Courses
+ - [https://www.coursera.org](https://www.coursera.org)
+ - date published: 2023-10-25T21:10:36.489801+00:00
+ - user: None
+ - tags: []
+
+## The Coutant Microphone Site
+ - [https://coutant.org](https://coutant.org)
+ - date published: 2023-10-25T21:10:37.446578+00:00
+ - user: None
+ - tags: []
+
+## CoWasm: Collaborative WebAssembly for Servers and Browsers
+ - [https://cowasm.org](https://cowasm.org)
+ - date published: 2023-10-25T21:10:37.899251+00:00
+ - user: None
+ - tags: []
+
+## Coyote Cartography
+ - [https://micro.coyotetracks.org](https://micro.coyotetracks.org)
+ - date published: 2023-10-25T21:10:44.276462+00:00
+ - user: None
+ - tags: []
+
+## CozoDB v0.7
+ - [https://docs.cozodb.org](https://docs.cozodb.org)
+ - date published: 2023-10-25T21:10:46.284600+00:00
+ - user: None
+ - tags: []
+
+## Clear Physics
+ - [https://www.cphysics.org](https://www.cphysics.org)
+ - date published: 2023-10-25T21:10:48.724655+00:00
+ - user: None
+ - tags: []
+
+## Committee to Protect Journalists – Defending Journalists Worldwide. - Committee to Protect Journalists
+ - [https://cpj.org](https://cpj.org)
+ - date published: 2023-10-25T21:10:54.852143+00:00
+ - user: None
+ - tags: []
+
+## CppCon | The C++ Conference
+ - [https://cppcon.org](https://cppcon.org)
+ - date published: 2023-10-25T21:10:58.474003+00:00
+ - user: None
+ - tags: []
+
+## Colorado Public Radio - Colorado News You Trust
+ - [https://www.cpr.org](https://www.cpr.org)
+ - date published: 2023-12-02T17:30:47.028570+00:00
+ - user: None
+ - tags: []
+
+## Lists.pglaf.org redirect
+ - [https://lists.cpunks.org](https://lists.cpunks.org)
+ - date published: 2023-10-25T21:10:59.366823+00:00
+ - user: None
+ - tags: []
+
+## cr0 blog
+ - [https://blog.cr0.org](https://blog.cr0.org)
+ - date published: 2023-10-25T09:23:55.156396+00:00
+ - user: None
+ - tags: ['personal']
+
+## CrabLang
+ - [https://crablang.org](https://crablang.org)
+ - date published: 2023-10-25T21:11:04.727468+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Creative Commons
+ - [https://creativecommons.org](https://creativecommons.org)
+ - date published: 2023-12-11T16:22:52.219620+00:00
+ - user: None
+ - tags: []
+
+## Crooked Timber — Out of the crooked timber of humanity, no straight thing was ever made
+ - [https://crookedtimber.org](https://crookedtimber.org)
+ - date published: 2023-10-25T21:11:11.664607+00:00
+ - user: None
+ - tags: []
+
+## Home 2022
+ - [https://www.crosslabs.org](https://www.crosslabs.org)
+ - date published: 2023-10-25T21:11:13.410986+00:00
+ - user: None
+ - tags: []
+
+## Cryptome
+ - [https://cryptome.org](https://cryptome.org)
+ - date published: 2023-10-25T21:11:22.912914+00:00
+ - user: None
+ - tags: []
+
+## The Crystal Programming Language
+ - [https://crystal-lang.org](https://crystal-lang.org)
+ - date published: 2023-10-25T21:11:24.443668+00:00
+ - user: None
+ - tags: []
+
+## CSA-IOT - Connectivity Standards Alliance
+ - [https://csa-iot.org](https://csa-iot.org)
+ - date published: 2023-10-25T17:24:26.444239+00:00
+ - user: None
+ - tags: ['zigbee']
+
+## https://beyondparallel.csis.org
+ - [https://beyondparallel.csis.org](https://beyondparallel.csis.org)
+ - date published: 2023-10-25T21:11:34.001427+00:00
+ - user: None
+ - tags: []
+
+## CSIS | Center for Strategic and International Studies
+ - [https://www.csis.org](https://www.csis.org)
+ - date published: 2023-10-25T21:11:40.174391+00:00
+ - user: None
+ - tags: []
+
+## CT State Police | CSP News | United States
+ - [https://www.cspnews.org](https://www.cspnews.org)
+ - date published: 2023-11-08T06:18:08.421428+00:00
+ - user: None
+ - tags: []
+
+## CSS Working Group Wiki    [CSS Working Group Wiki]
+ - [https://wiki.csswg.org](https://wiki.csswg.org)
+ - date published: 2023-11-21T15:09:54.779186+00:00
+ - user: None
+ - tags: []
+
+## CTAN: Comprehensive TeX Archive Network
+ - [https://ctan.org](https://ctan.org)
+ - date published: 2023-10-25T21:11:42.198733+00:00
+ - user: None
+ - tags: []
+
+## CTFtime.org / All about CTF (Capture The Flag)
+ - [https://ctftime.org](https://ctftime.org)
+ - date published: 2023-12-06T11:59:51+00:00
+ - user: rumpel
+ - tags: ['dark design', 'cybersecurity', 'hackers']
+
+## CTIF - International Association of Fire Services for Safer Citizens through Skilled Firefighters
+ - [https://ctif.org](https://ctif.org)
+ - date published: 2023-10-25T21:11:51.392667+00:00
+ - user: None
+ - tags: []
+
+## CT Mirror: Connecticut News and In-Depth Reporting
+ - [https://ctmirror.org](https://ctmirror.org)
+ - date published: 2023-12-21T22:13:27.100706+00:00
+ - user: None
+ - tags: []
+
+## Society for Cultural Anthropology
+ - [https://culanth.org](https://culanth.org)
+ - date published: 2023-12-23T09:03:58.603298+00:00
+ - user: None
+ - tags: []
+
+## Cultures visuelles
+ - [https://culturesvisuelles.org](https://culturesvisuelles.org)
+ - date published: 2023-12-11T16:12:21.079518+00:00
+ - user: None
+ - tags: []
+
+## Current - For people in public media
+ - [https://current.org](https://current.org)
+ - date published: 2023-10-25T21:12:00.535305+00:00
+ - user: None
+ - tags: []
+
+## Home ❧ Current Affairs
+ - [https://www.currentaffairs.org](https://www.currentaffairs.org)
+ - date published: 2023-11-09T22:43:56.697894+00:00
+ - user: None
+ - tags: []
+
+## https://www.cyberdemon.org
+ - [https://www.cyberdemon.org](https://www.cyberdemon.org)
+ - date published: 2023-10-25T21:12:02.225294+00:00
+ - user: None
+ - tags: []
+
+## cypherspace
+ - [http://www.cypherspace.org](http://www.cypherspace.org)
+ - date published: 2023-10-25T21:12:03.701108+00:00
+ - user: None
+ - tags: []
+
+## Диабло България - Новини
+ - [https://www.d3bg.org](https://www.d3bg.org)
+ - date published: 2023-12-13T16:21:26.331638+00:00
+ - user: None
+ - tags: []
+
+## The Daily Californian | Berkeley's News
+ - [https://www.dailycal.org](https://www.dailycal.org)
+ - date published: 2023-10-25T21:12:09.133140+00:00
+ - user: None
+ - tags: []
+
+## The Daily Sceptic
+ - [https://dailysceptic.org](https://dailysceptic.org)
+ - date published: 2023-10-25T10:18:01.741807+00:00
+ - user: None
+ - tags: ['misinformation', 'disinformation']
+
+## Federal Reserve Bank of Dallas -
+        Dallasfed.org
+ - [https://www.dallasfed.org](https://www.dallasfed.org)
+ - date published: 2023-10-25T21:12:12.982710+00:00
+ - user: None
+ - tags: []
+
+## Home | DanceSafe
+ - [https://dancesafe.org](https://dancesafe.org)
+ - date published: 2023-10-25T21:12:23.473262+00:00
+ - user: None
+ - tags: []
+
+## Experimental chill – a random walk through Software Engineering
+ - [https://danlark.org](https://danlark.org)
+ - date published: 2023-10-25T21:12:26.450742+00:00
+ - user: None
+ - tags: []
+
+## danmcquillan.org
+ - [https://danmcquillan.org](https://danmcquillan.org)
+ - date published: 2023-12-23T23:34:26.238338+00:00
+ - user: None
+ - tags: []
+
+## Dann Berg: blog, newsletter, shop, and more
+ - [https://dannb.org](https://dannb.org)
+ - date published: 2023-10-25T08:54:34.964396+00:00
+ - user: None
+ - tags: ['personal']
+
+## Darling Development Blog
+ - [https://blog.darlinghq.org](https://blog.darlinghq.org)
+ - date published: 2023-10-25T21:12:33.218511+00:00
+ - user: None
+ - tags: []
+
+## Darling: Run macOS Software on Linux
+ - [https://www.darlinghq.org](https://www.darlinghq.org)
+ - date published: 2023-11-26T17:52:46+00:00
+ - user: None
+ - tags: []
+
+## daScript - The High Performance Programming Language
+ - [https://dascript.org](https://dascript.org)
+ - date published: 2023-11-03T08:29:51.010996+00:00
+ - user: None
+ - tags: []
+
+## Data-Vocabulary.org
+ - [https://data-vocabulary.org](https://data-vocabulary.org)
+ - date published: 2023-12-13T16:06:19.374927+00:00
+ - user: None
+ - tags: []
+
+## Data Colada - Thinking about evidence and vice versa
+ - [https://datacolada.org](https://datacolada.org)
+ - date published: 2023-10-25T21:12:37.004872+00:00
+ - user: None
+ - tags: []
+
+## Data Physicalization - Data Physicalization Wiki
+ - [http://dataphys.org](http://dataphys.org)
+ - date published: 2023-10-25T21:12:38.813690+00:00
+ - user: None
+ - tags: []
+
+## dataswamp.org
+ - [https://dataswamp.org](https://dataswamp.org)
+ - date published: 2023-10-25T21:12:41.913989+00:00
+ - user: None
+ - tags: []
+
 ## David Smith, Independent iOS Developer
  - [https://www.david-smith.org](https://www.david-smith.org)
  - date published: 2023-10-25T21:12:44.390007+00:00
@@ -3502,6 +3827,12 @@ Hosted by Panix.com.
  - user: None
  - tags: []
 
+## BCHS software stack: BSD, C, httpd, SQLite
+ - [https://learnbchs.org](https://learnbchs.org)
+ - date published: 2023-12-28T20:47:24+00:00
+ - user: None
+ - tags: []
+
 ## LENFEST INSTITUTE -
  - [https://www.lenfestinstitute.org](https://www.lenfestinstitute.org)
  - date published: 2023-10-25T21:38:16.663488+00:00
@@ -5677,335 +6008,4 @@ Common Weakness Enumeration
  - date published: 2023-10-25T21:54:33.151027+00:00
  - user: None
  - tags: []
-
-## [OpenWrt Wiki] Welcome to the OpenWrt Project
- - [https://openwrt.org](https://openwrt.org)
- - date published: 2023-10-25T21:54:37.020038+00:00
- - user: None
- - tags: ['routers', 'operating system']
-
-## OPNsense® a true open source security platform and more - OPNsense® is a true open source firewall and more
- - [https://opnsense.org](https://opnsense.org)
- - date published: 2023-10-25T21:54:42.178862+00:00
- - user: None
- - tags: []
-
-## Optica Publishing Group
- - [https://opg.optica.org](https://opg.optica.org)
- - date published: 2023-10-25T21:54:45.913732+00:00
- - user: None
- - tags: []
-
-## Home | Optica
- - [https://www.optica.org](https://www.optica.org)
- - date published: 2023-10-25T21:54:49.744968+00:00
- - user: None
- - tags: []
-
-## Orange Pi - Orange Pi official website - Orange Pi development board, open source hardware, open source
-        software, open source chip, computer keyboard
- - [http://www.orangepi.org](http://www.orangepi.org)
- - date published: 2023-10-25T21:54:52.162979+00:00
- - user: None
- - tags: []
-
-## Organiser Weekly - Voice of the Nation
- - [https://organiser.org](https://organiser.org)
- - date published: 2023-11-25T22:29:38.591315+00:00
- - user: None
- - tags: []
-
-## Orion Magazine | Nature, Culture & Place
- - [https://orionmagazine.org](https://orionmagazine.org)
- - date published: 2023-10-25T21:54:59.353571+00:00
- - user: None
- - tags: []
-
-## OS.js Web Desktop
- - [https://www.os-js.org](https://www.os-js.org)
- - date published: 2023-10-25T21:55:06.625725+00:00
- - user: None
- - tags: []
-
-## Expanded Main Page - OSDev Wiki
- - [https://wiki.osdev.org](https://wiki.osdev.org)
- - date published: 2023-12-26T20:32:40.382941+00:00
- - user: None
- - tags: []
-
-## Rod's Slide Rules
- - [https://osgalleries.org](https://osgalleries.org)
- - date published: 2023-10-25T21:55:08.267829+00:00
- - user: None
- - tags: []
-
-## OSM Buildings
- - [https://osmbuildings.org](https://osmbuildings.org)
- - date published: 2023-12-24T08:15:03+00:00
- - user: rumpel
- - tags: ['service maps']
-
-## Open Source Mobile Communications
- - [https://projects.osmocom.org](https://projects.osmocom.org)
- - date published: 2023-10-25T21:55:10.623342+00:00
- - user: None
- - tags: []
-
-## Welcome to the Open Source Seed Initiative - Open Source Seed Initiative
- - [https://osseeds.org](https://osseeds.org)
- - date published: 2023-10-25T21:55:13.834590+00:00
- - user: None
- - tags: []
-
-## Show HN: Open-source alternatives to tools You pay for
- - [https://osssoftware.org](https://osssoftware.org)
- - date published: 2023-12-09T01:14:37+00:00
- - user: None
- - tags: []
-
-## Our World in Data
- - [https://ourworldindata.org](https://ourworldindata.org)
- - date published: 2023-10-25T21:55:14.796544+00:00
- - user: None
- - tags: ['statistics', 'data']
-
-## Earth Overshoot Day home - #MoveTheDate
- - [https://www.overshootday.org](https://www.overshootday.org)
- - date published: 2023-10-25T21:55:21.472858+00:00
- - user: None
- - tags: []
-
-## Overture Maps Foundation – Linux Foundation Project
- - [https://overturemaps.org](https://overturemaps.org)
- - date published: 2023-10-25T21:55:23.960595+00:00
- - user: None
- - tags: []
-
-## OWASP Foundation, the Open Source Foundation for Application Security | OWASP Foundation
- - [https://owasp.org](https://owasp.org)
- - date published: 2023-10-25T21:55:25.406620+00:00
- - user: None
- - tags: []
-
-## Owl’s Portfolio
- - [https://www.owlfolio.org](https://www.owlfolio.org)
- - date published: 2023-10-25T21:55:28.509100+00:00
- - user: None
- - tags: []
-
-## The future is equal | Oxfam International
- - [https://www.oxfam.org](https://www.oxfam.org)
- - date published: 2023-10-25T21:55:30.733555+00:00
- - user: None
- - tags: []
-
-## Oxford American | Home
- - [https://main.oxfordamerican.org](https://main.oxfordamerican.org)
- - date published: 2023-10-25T21:55:33.395856+00:00
- - user: None
- - tags: []
-
-## Oxford American | Home
- - [https://oxfordamerican.org](https://oxfordamerican.org)
- - date published: 2023-10-25T21:55:35.228196+00:00
- - user: None
- - tags: []
-
-## Home | p2panda
- - [https://p2panda.org](https://p2panda.org)
- - date published: 2023-10-25T21:55:36.083870+00:00
- - user: None
- - tags: []
-
-## Hummus and Magnets
- - [https://h14s.p5r.org](https://h14s.p5r.org)
- - date published: 2023-10-25T21:55:43.963463+00:00
- - user: None
- - tags: []
-
-## pablotron.org
- - [https://pablotron.org](https://pablotron.org)
- - date published: 2023-10-25T21:55:47.144745+00:00
- - user: None
- - tags: []
-
-## PackagingCon 2023
- - [https://packaging-con.org](https://packaging-con.org)
- - date published: 2023-10-25T21:55:54.179386+00:00
- - user: None
- - tags: []
-
-## The Palaeontological Association | Reg. Charity No. 1168330
- - [https://www.palass.org](https://www.palass.org)
- - date published: 2023-10-25T11:25:34.390632+00:00
- - user: None
- - tags: []
-
-## pamela fox's blog
- - [https://blog.pamelafox.org](https://blog.pamelafox.org)
- - date published: 2023-10-25T21:55:58.273502+00:00
- - user: None
- - tags: []
-
-## Pandoc - index
- - [https://pandoc.org](https://pandoc.org)
- - date published: 2023-10-25T21:55:59.781435+00:00
- - user: None
- - tags: []
-
-## Strona główna | Fundacja Panoptykon
- - [https://panoptykon.org](https://panoptykon.org)
- - date published: 2023-10-25T21:56:01.636917+00:00
- - user: None
- - tags: []
-
-## Papers, Please! – The Identity Project
- - [https://papersplease.org](https://papersplease.org)
- - date published: 2023-10-25T21:56:07.417099+00:00
- - user: None
- - tags: []
-
-## paredit — parenthetical editing in Emacs
- - [https://paredit.org](https://paredit.org)
- - date published: 2023-10-25T21:56:08.422643+00:00
- - user: None
- - tags: []
-
-## Welcome!
- - [https://parentheticallyspeaking.org](https://parentheticallyspeaking.org)
- - date published: 2023-10-25T21:56:09.143442+00:00
- - user: None
- - tags: []
-
-## parsonsmatt.org
- - [https://www.parsonsmatt.org](https://www.parsonsmatt.org)
- - date published: 2023-10-25T21:56:09.832668+00:00
- - user: None
- - tags: []
-
-## PATL
- - [https://patl.org](https://patl.org)
- - date published: 2023-12-11T16:19:08.247036+00:00
- - user: None
- - tags: []
-
-## Patrick T. Brown, PhD | It’s easy to construct a persuasive argument, it’s much more difficult to figure out the truth…
- - [https://patricktbrown.org](https://patricktbrown.org)
- - date published: 2023-10-25T21:56:15.510577+00:00
- - user: None
- - tags: []
-
-## Andrew Payne | payne.org
- - [https://payne.org](https://payne.org)
- - date published: 2023-10-25T21:56:16.509535+00:00
- - user: None
- - tags: []
-
-## Physically Based Rendering: From Theory to Implementation
- - [https://pbr-book.org](https://pbr-book.org)
- - date published: 2023-11-02T10:40:48.951509+00:00
- - user: None
- - tags: []
-
-## PBS: Public Broadcasting Service
- - [https://www.pbs.org](https://www.pbs.org)
- - date published: 2023-10-25T10:24:08.998645+00:00
- - user: None
- - tags: []
-
-## PBS North Carolina
- - [https://www.pbsnc.org](https://www.pbsnc.org)
- - date published: 2023-11-19T19:54:33.463328+00:00
- - user: None
- - tags: []
-
-## PCG, A Family of Better Random Number Generators | PCG, A Better Random Number Generator
- - [https://www.pcg-random.org](https://www.pcg-random.org)
- - date published: 2023-10-25T21:56:20.672047+00:00
- - user: None
- - tags: []
-
-## PCjs Machines
- - [https://www.pcjs.org](https://www.pcjs.org)
- - date published: 2023-10-25T21:56:26.849904+00:00
- - user: None
- - tags: []
-
-## PDF Association – Home of the worldwide PDF technical community
- - [https://www.pdfa.org](https://www.pdfa.org)
- - date published: 2023-10-25T21:56:35.310113+00:00
- - user: None
- - tags: []
-
-## pdfgrep
- - [https://pdfgrep.org](https://pdfgrep.org)
- - date published: 2023-10-25T21:56:36.063095+00:00
- - user: None
- - tags: []
-
-## PDFTool: secure and seamless online PDF modifications
- - [https://www.pdftool.org](https://www.pdftool.org)
- - date published: 2023-10-25T21:56:37.161684+00:00
- - user: None
- - tags: []
-
-## Public Domain Operating System
- - [https://www.pdos.org](https://www.pdos.org)
- - date published: 2023-10-25T21:56:39.058423+00:00
- - user: None
- - tags: []
-
-## Peergos
- - [https://peergos.org](https://peergos.org)
- - date published: 2023-11-13T14:19:22.688197+00:00
- - user: None
- - tags: []
-
-## PEN America
- - [https://pen.org](https://pen.org)
- - date published: 2023-10-25T21:56:42.955186+00:00
- - user: None
- - tags: []
-
-## https://www.pennmedicine.org
- - [https://www.pennmedicine.org](https://www.pennmedicine.org)
- - date published: 2023-11-08T17:46:33.639957+00:00
- - user: None
- - tags: []
-
-## People's World
- - [https://peoplesworld.org](https://peoplesworld.org)
- - date published: 2023-11-04T02:47:57.842267+00:00
- - user: None
- - tags: []
-
-## blogs.perl.org — blogging the onion
- - [https://blogs.perl.org](https://blogs.perl.org)
- - date published: 2023-10-25T21:56:44.273665+00:00
- - user: None
- - tags: []
-
-## Perl Documentation - Perldoc Browser
- - [https://perldoc.perl.org](https://perldoc.perl.org)
- - date published: 2023-10-25T21:56:51.003512+00:00
- - user: None
- - tags: []
-
-## The Perl Foundation News
- - [https://news.perlfoundation.org](https://news.perlfoundation.org)
- - date published: 2023-10-25T21:56:58.087141+00:00
- - user: None
- - tags: []
-
-## Discover plants, swap seeds, plan gardens, share knowledge
- - [https://permapeople.org](https://permapeople.org)
- - date published: 2023-11-10T20:31:47+00:00
- - user: None
- - tags: []
-
-## Aiding the Persecuted Church
- - [https://www.persecution.org](https://www.persecution.org)
- - date published: 2023-11-27T12:13:05+00:00
- - user: rumpel
- - tags: ['persecution', 'christianity', 'religion', 'catholicism']
 

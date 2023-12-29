@@ -1,3 +1,57 @@
+## BMC Ecology and Evolution
+ - [https://bmcecolevol.biomedcentral.com](https://bmcecolevol.biomedcentral.com)
+ - date published: 2023-12-20T15:15:25.966896+00:00
+ - user: None
+ - tags: []
+
+## BMC Medicine | Home page
+ - [https://bmcmedicine.biomedcentral.com](https://bmcmedicine.biomedcentral.com)
+ - date published: 2023-10-25T13:00:29.613132+00:00
+ - user: None
+ - tags: []
+
+## BMC Psychiatry
+ - [https://bmcpsychiatry.biomedcentral.com](https://bmcpsychiatry.biomedcentral.com)
+ - date published: 2023-12-10T04:34:24.787601+00:00
+ - user: None
+ - tags: []
+
+## BMC Psychology
+ - [https://bmcpsychology.biomedcentral.com](https://bmcpsychology.biomedcentral.com)
+ - date published: 2023-12-08T08:27:20.566591+00:00
+ - user: None
+ - tags: []
+
+## BMC Public Health
+ - [https://bmcpublichealth.biomedcentral.com](https://bmcpublichealth.biomedcentral.com)
+ - date published: 2023-11-28T08:16:10.891486+00:00
+ - user: None
+ - tags: []
+
+## Globalization and Health
+ - [https://globalizationandhealth.biomedcentral.com](https://globalizationandhealth.biomedcentral.com)
+ - date published: 2023-11-17T13:27:45.044873+00:00
+ - user: None
+ - tags: []
+
+## International Journal of Emergency Medicine
+ - [https://intjem.biomedcentral.com](https://intjem.biomedcentral.com)
+ - date published: 2023-11-12T16:05:33.724173+00:00
+ - user: None
+ - tags: []
+
+## Journal of Animal Science and Biotechnology
+ - [https://jasbsci.biomedcentral.com](https://jasbsci.biomedcentral.com)
+ - date published: 2023-12-04T18:16:27.322506+00:00
+ - user: None
+ - tags: []
+
+## Molecular Cancer
+ - [https://molecular-cancer.biomedcentral.com](https://molecular-cancer.biomedcentral.com)
+ - date published: 2023-11-15T02:03:10.897398+00:00
+ - user: None
+ - tags: []
+
 ## Molecular Medicine
  - [https://molmed.biomedcentral.com](https://molmed.biomedcentral.com)
  - date published: 2023-12-03T07:38:15.345289+00:00
@@ -1834,6 +1888,12 @@
  - user: None
  - tags: ['personal']
 
+## Brian Shoemaker | brianshoemaker.com
+ - [https://brianshoemaker.com](https://brianshoemaker.com)
+ - date published: 2023-12-28T18:50:36.959679+00:00
+ - user: None
+ - tags: ['personal']
+
 ## LEGO News, Set Reviews and latest VIP deals - Brick Fanatics
  - [https://www.brickfanatics.com](https://www.brickfanatics.com)
  - date published: 2023-10-25T11:10:37.106187+00:00
@@ -3106,6 +3166,12 @@
  - user: None
  - tags: []
 
+## Charlotte Breaking News, Sports & Crime |  Charlotte Observer
+ - [https://www.charlotteobserver.com](https://www.charlotteobserver.com)
+ - date published: 2023-12-28T13:51:54.119648+00:00
+ - user: None
+ - tags: []
+
 ## Charlotte Rogg
  - [https://www.charlotterogg.com](https://www.charlotterogg.com)
  - date published: 2023-11-29T14:22:50.814357+00:00
@@ -3475,6 +3541,12 @@
 ## Christian Varga
  - [https://christianvarga.com](https://christianvarga.com)
  - date published: 2023-10-25T08:45:24.982295+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://christinchong.com](https://christinchong.com)
+ - date published: 2023-12-28T22:26:31.547980+00:00
  - user: None
  - tags: ['personal']
 
@@ -4117,6 +4189,12 @@
 ## Breaking News, Latest News and Videos | CNN
  - [https://amp.cnn.com](https://amp.cnn.com)
  - date published: 2023-11-06T15:59:27.176146+00:00
+ - user: None
+ - tags: []
+
+## Breaking News, Latest News and Videos | CNN
+ - [https://cnn.com](https://cnn.com)
+ - date published: 2023-12-28T04:12:45.450357+00:00
  - user: None
  - tags: []
 
@@ -4790,6 +4868,12 @@
  - date published: 2023-12-03T22:18:35.684888+00:00
  - user: None
  - tags: []
+
+## Conor Neill - Moving People to Action
+ - [https://conorneill.com](https://conorneill.com)
+ - date published: 2023-12-28T22:26:17.147979+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Download Free ROMs & Emulators for GBA, SNES, NDS, GBC, GB, N64, NES, PS, MAME - ConsoleRoms
  - [https://www.consoleroms.com](https://www.consoleroms.com)
@@ -5925,88 +6009,4 @@
  - date published: 2023-12-21T18:49:29.630038+00:00
  - user: None
  - tags: ['personal']
-
-## daisyUI — Tailwind CSS Components ( version 4 update is here )
- - [https://daisyui.com](https://daisyui.com)
- - date published: 2023-12-21T23:47:33.224307+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://daizymaan.com](https://daizymaan.com)
- - date published: 2023-12-22T22:30:15.592525+00:00
- - user: None
- - tags: ['personal']
-
-## DakkaDakka - Wargaming and Warhammer 40k Forums, Articles and Gallery - Homepage
- - [https://www.dakkadakka.com](https://www.dakkadakka.com)
- - date published: 2023-11-01T18:31:41.378069+00:00
- - user: None
- - tags: ['hobby', 'warhammer', 'miniatures']
-
-## Dallas Innovates » What's new + next in Dallas-Fort Worth innovation
- - [https://dallasinnovates.com](https://dallasinnovates.com)
- - date published: 2023-10-25T13:42:19.357897+00:00
- - user: None
- - tags: []
-
-## Dallas News | Breaking News for DFW, Texas, World
- - [https://www.dallasnews.com](https://www.dallasnews.com)
- - date published: 2023-10-25T11:02:56.988420+00:00
- - user: None
- - tags: []
-
-## CHARLES DALY
- - [https://dalyprose.com](https://dalyprose.com)
- - date published: 2023-11-29T15:17:02.140272+00:00
- - user: None
- - tags: []
-
-## Home » DamienG
- - [https://damieng.com](https://damieng.com)
- - date published: 2023-10-25T09:19:59.490554+00:00
- - user: None
- - tags: ['personal']
-
-## Damn Interesting • Obscure true stories from science & history
- - [https://www.damninteresting.com](https://www.damninteresting.com)
- - date published: 2023-10-25T13:42:23.621997+00:00
- - user: None
- - tags: []
-
-## Daniel Angell
- - [https://danangell.com](https://danangell.com)
- - date published: 2023-11-10T09:07:42.336917+00:00
- - user: None
- - tags: []
-
-## Dan Carlin
- - [https://www.dancarlin.com](https://www.dancarlin.com)
- - date published: 2023-12-27T17:29:57.235423+00:00
- - user: None
- - tags: []
-
-## Dan Cowell
- - [https://www.dancowell.com](https://www.dancowell.com)
- - date published: 2023-10-25T13:42:27.187014+00:00
- - user: None
- - tags: []
-
-## The Surreal Stories and Psychedelic Music of Dane Clark Collins
- - [https://www.daneclarkcollins.com](https://www.daneclarkcollins.com)
- - date published: 2023-12-02T21:17:25.329624+00:00
- - user: None
- - tags: ['personal']
-
-## Danheim | Official Page – Viking Music from the cold north
- - [https://danheimmusic.com](https://danheimmusic.com)
- - date published: 2023-11-13T11:11:25.660964+00:00
- - user: None
- - tags: ['music band']
-
-## Dan Harrison
- - [https://blog.danhhz.com](https://blog.danhhz.com)
- - date published: 2023-10-25T13:42:31.335203+00:00
- - user: None
- - tags: []
 

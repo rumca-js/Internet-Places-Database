@@ -1,3 +1,249 @@
+## HR Magazine – Human Resources articles, updates and insights for HR leaders
+ - [https://www.thehrdigest.com](https://www.thehrdigest.com)
+ - date published: 2023-12-28T20:05:16.994681+00:00
+ - user: None
+ - tags: []
+
+## The IF Life
+ - [https://theiflife.com](https://theiflife.com)
+ - date published: 2023-10-25T17:35:29.793250+00:00
+ - user: None
+ - tags: []
+
+## The Information
+ - [https://www.theinformation.com](https://www.theinformation.com)
+ - date published: 2023-10-25T17:35:34.711500+00:00
+ - user: None
+ - tags: []
+
+## The Inner Dolphin
+ - [https://theinnerdolphin.com](https://theinnerdolphin.com)
+ - date published: 2023-11-29T13:56:20.737199+00:00
+ - user: None
+ - tags: []
+
+## Insane - TheInsaneApp.com
+ - [https://www.theinsaneapp.com](https://www.theinsaneapp.com)
+ - date published: 2023-10-25T17:35:37.951848+00:00
+ - user: None
+ - tags: []
+
+## The Intercept
+ - [https://theintercept.com](https://theintercept.com)
+ - date published: 2023-10-25T10:29:00.612300+00:00
+ - user: None
+ - tags: []
+
+## The Intrinsic Perspective | Erik Hoel | Substack
+ - [https://www.theintrinsicperspective.com](https://www.theintrinsicperspective.com)
+ - date published: 2023-12-09T05:59:14.893338+00:00
+ - user: None
+ - tags: []
+
+## https://www.thejc.com
+ - [https://www.thejc.com](https://www.thejc.com)
+ - date published: 2023-10-30T20:00:00.128988+00:00
+ - user: None
+ - tags: []
+
+## thejorgemedina | Jorge Medina | Substack
+ - [https://newsletter.thejorgemedina.com](https://newsletter.thejorgemedina.com)
+ - date published: 2023-10-27T11:55:47.114642+00:00
+ - user: None
+ - tags: []
+
+## The Justice Gap – A magazine about law & justice – and the difference between the two
+ - [https://www.thejusticegap.com](https://www.thejusticegap.com)
+ - date published: 2023-10-25T17:35:41.354720+00:00
+ - user: None
+ - tags: []
+
+## The Labby
+ - [https://thelabby.com](https://thelabby.com)
+ - date published: 2023-11-24T18:44:41.055733+00:00
+ - user: None
+ - tags: []
+
+## The Lamp Magazine | Home Page
+ - [https://thelampmagazine.com](https://thelampmagazine.com)
+ - date published: 2023-10-25T17:35:45.158460+00:00
+ - user: None
+ - tags: []
+
+## https://www.thelancet.com
+ - [https://www.thelancet.com](https://www.thelancet.com)
+ - date published: 2023-10-25T10:11:22.609313+00:00
+ - user: None
+ - tags: []
+
+## theLAnd
+ - [https://thelandmag.com](https://thelandmag.com)
+ - date published: 2023-10-25T17:35:49.568464+00:00
+ - user: None
+ - tags: []
+
+## The LawDog Files
+ - [https://thelawdogfiles.com](https://thelawdogfiles.com)
+ - date published: 2023-10-25T17:35:54.122209+00:00
+ - user: None
+ - tags: []
+
+## The Life of Kenneth
+ - [https://blog.thelifeofkenneth.com](https://blog.thelifeofkenneth.com)
+ - date published: 2023-10-25T17:35:58.459927+00:00
+ - user: None
+ - tags: []
+
+## The Linux Experiment
+ - [https://thelinuxexp.com](https://thelinuxexp.com)
+ - date published: 2023-11-19T21:32:03+00:00
+ - user: rumpel
+ - tags: ['linux']
+
+## The Little Typer
+ - [https://thelittletyper.com](https://thelittletyper.com)
+ - date published: 2023-10-25T17:35:59.133098+00:00
+ - user: None
+ - tags: []
+
+## The Loadstar - Making sense of the supply chain
+ - [https://theloadstar.com](https://theloadstar.com)
+ - date published: 2023-10-25T17:36:04.646846+00:00
+ - user: None
+ - tags: []
+
+## The Local - Europe's news in English
+ - [https://www.thelocal.com](https://www.thelocal.com)
+ - date published: 2023-10-31T12:38:37.277060+00:00
+ - user: None
+ - tags: ['news']
+
+## https://www.themagazineofcontemporaryart.com
+ - [https://www.themagazineofcontemporaryart.com](https://www.themagazineofcontemporaryart.com)
+ - date published: 2023-12-19T19:09:11.485798+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - The Maine Wire
+ - [https://www.themainewire.com](https://www.themainewire.com)
+ - date published: 2023-10-25T17:36:10.533115+00:00
+ - user: None
+ - tags: []
+
+## The Manual - The Essential Guide for Men
+ - [https://www.themanual.com](https://www.themanual.com)
+ - date published: 2023-10-25T17:36:14.473294+00:00
+ - user: None
+ - tags: []
+
+## The Marijuana Herald - Marijuana news and information.
+ - [https://themarijuanaherald.com](https://themarijuanaherald.com)
+ - date published: 2023-10-25T17:36:16.609074+00:00
+ - user: None
+ - tags: []
+
+## © 2023 Thembi Soddell – Sound Artist // Electroacoustic Composer // Experimental Musician // Practice-Based Researcher
+ - [https://thembisoddell.com](https://thembisoddell.com)
+ - date published: 2023-11-29T17:09:08.809298+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Measure of a Plan
+ - [https://themeasureofaplan.com](https://themeasureofaplan.com)
+ - date published: 2023-10-25T17:36:25.790887+00:00
+ - user: None
+ - tags: []
+
+## MeatEater | Your link to the food chain
+ - [https://www.themeateater.com](https://www.themeateater.com)
+ - date published: 2023-10-25T17:36:29.402967+00:00
+ - user: None
+ - tags: []
+
+## Premium WordPress Themes & Templates by ThemeGrill - 400K+ Users
+ - [https://themegrill.com](https://themegrill.com)
+ - date published: 2023-12-11T17:45:49.570125+00:00
+ - user: None
+ - tags: []
+
+## Your Source for Trusted and Unbiased News - The Messenger
+ - [https://themessenger.com](https://themessenger.com)
+ - date published: 2023-10-25T10:39:22.548539+00:00
+ - user: None
+ - tags: []
+
+## The Millennium Report
+ - [https://themillenniumreport.com](https://themillenniumreport.com)
+ - date published: 2023-10-25T17:36:36.632220+00:00
+ - user: None
+ - tags: []
+
+## The Millions - Books, Arts, and Culture
+ - [https://themillions.com](https://themillions.com)
+ - date published: 2023-10-25T17:36:38.668264+00:00
+ - user: None
+ - tags: []
+
+## Themindcircle
+ - [https://themindcircle.com](https://themindcircle.com)
+ - date published: 2023-10-25T17:36:40.779932+00:00
+ - user: None
+ - tags: []
+
+## Dunfield Development Services
+ - [https://dunfield.themindfactory.com](https://dunfield.themindfactory.com)
+ - date published: 2023-11-03T19:34:30.475581+00:00
+ - user: None
+ - tags: []
+
+## [TMP] The Miniatures Page
+ - [http://theminiaturespage.com](http://theminiaturespage.com)
+ - date published: 2023-11-01T18:35:06.205324+00:00
+ - user: None
+ - tags: ['warhammer']
+
+## The Moscow Times
+ - [https://www.themoscowtimes.com](https://www.themoscowtimes.com)
+ - date published: 2023-10-25T10:12:59.328407+00:00
+ - user: None
+ - tags: []
+
+## Job Search, Companies Hiring Near Me, and Advice | The Muse
+ - [https://www.themuse.com](https://www.themuse.com)
+ - date published: 2023-10-25T17:36:42.158729+00:00
+ - user: None
+ - tags: []
+
+## The Mythical Engineer | Blog about Software Engineering
+ - [https://themythicalengineer.com](https://themythicalengineer.com)
+ - date published: 2023-10-25T17:36:48.478058+00:00
+ - user: None
+ - tags: []
+
+## The Nation
+ - [https://www.thenation.com](https://www.thenation.com)
+ - date published: 2023-10-25T17:36:57.288491+00:00
+ - user: None
+ - tags: []
+
+## National News, Weather, Sports, Breaking News | The National Desk
+ - [https://thenationaldesk.com](https://thenationaldesk.com)
+ - date published: 2023-12-08T08:34:14.168486+00:00
+ - user: None
+ - tags: []
+
+## The National - Latest world news, sport & opinion
+ - [https://www.thenationalnews.com](https://www.thenationalnews.com)
+ - date published: 2023-10-25T17:37:06.236021+00:00
+ - user: None
+ - tags: []
+
+## The NESS
+ - [https://theness.com](https://theness.com)
+ - date published: 2023-10-25T17:37:07.430556+00:00
+ - user: None
+ - tags: []
+
 ## The Nevada Independent - Your state.  Your news.  Your voice.
  - [https://thenevadaindependent.com](https://thenevadaindependent.com)
  - date published: 2023-10-30T22:37:57.650531+00:00
@@ -3687,6 +3933,12 @@
  - user: None
  - tags: ['news']
 
+## Show HN: Vocab Miner – find new words in Spanish from texts
+ - [https://vocabminer.com](https://vocabminer.com)
+ - date published: 2023-12-28T15:17:37+00:00
+ - user: None
+ - tags: []
+
 ## VOCALOID ( ボーカロイド・ボカロ ) 公式サイト
  - [https://www.vocaloid.com](https://www.vocaloid.com)
  - date published: 2023-10-25T17:58:04.057960+00:00
@@ -4623,6 +4875,12 @@
  - user: None
  - tags: []
 
+## None
+ - [https://www.whsv.com](https://www.whsv.com)
+ - date published: 2023-12-28T13:36:21.922652+00:00
+ - user: None
+ - tags: []
+
 ## Why.com - Premium category defining domain names for sale, exact match domains
  - [http://why.com](http://why.com)
  - date published: 2023-11-12T05:59:10.336738+00:00
@@ -5172,6 +5430,12 @@
 ## Buffalo, New York News and Weather | WKBW | wkbw.com
  - [https://www.wkbw.com](https://www.wkbw.com)
  - date published: 2023-10-25T18:08:20.272024+00:00
+ - user: None
+ - tags: []
+
+## WLOX | Biloxi, Gulfport, Pascagoula, MS
+ - [https://www.wlox.com](https://www.wlox.com)
+ - date published: 2023-12-28T20:26:05.065330+00:00
  - user: None
  - tags: []
 
@@ -5736,270 +6000,6 @@
 ## Old School Game Blog
  - [https://oldschoolgameblog.wordpress.com](https://oldschoolgameblog.wordpress.com)
  - date published: 2023-12-11T16:33:04.540046+00:00
- - user: None
- - tags: []
-
-## A Useful Fiction – Just another WordPress.com site
- - [https://onehundredpages.wordpress.com](https://onehundredpages.wordpress.com)
- - date published: 2023-10-25T18:14:39.984312+00:00
- - user: None
- - tags: []
-
-## On Luminous Grounds
- - [https://onluminousgrounds.wordpress.com](https://onluminousgrounds.wordpress.com)
- - date published: 2023-10-25T18:14:44.913575+00:00
- - user: None
- - tags: []
-
-## Pawlicker's Pleroma Experiment Blog
- - [https://pleromanonx86.wordpress.com](https://pleromanonx86.wordpress.com)
- - date published: 2023-11-23T05:04:00.178360+00:00
- - user: None
- - tags: []
-
-## PRDeving – typeof  FUN
- - [https://prdeving.wordpress.com](https://prdeving.wordpress.com)
- - date published: 2023-10-25T18:14:52.804446+00:00
- - user: None
- - tags: []
-
-## Protons for Breakfast
- - [https://protonsforbreakfast.wordpress.com](https://protonsforbreakfast.wordpress.com)
- - date published: 2023-10-25T18:15:13.262892+00:00
- - user: None
- - tags: []
-
-## REST API Resources
- - [https://public-api.wordpress.com](https://public-api.wordpress.com)
- - date published: 2023-12-11T16:36:56.191259+00:00
- - user: None
- - tags: []
-
-## Queendom Blog | Insight at your fingertips – www.queendom.com
- - [https://queendomblog.wordpress.com](https://queendomblog.wordpress.com)
- - date published: 2023-10-25T18:15:26.032988+00:00
- - user: None
- - tags: []
-
-## Private Site
- - [https://r-login.wordpress.com](https://r-login.wordpress.com)
- - date published: 2023-12-11T16:34:27.567200+00:00
- - user: None
- - tags: []
-
-## Rafał Cieślak's blog
- - [https://rafalcieslak.wordpress.com](https://rafalcieslak.wordpress.com)
- - date published: 2023-10-25T18:15:34.497692+00:00
- - user: None
- - tags: []
-
-## RAF Meteorology Man – Roy Cook ~ Former Weatherman of Sark
- - [https://rafmetman.wordpress.com](https://rafmetman.wordpress.com)
- - date published: 2023-10-25T18:15:38.538826+00:00
- - user: None
- - tags: []
-
-## Random ASCII – tech blog of Bruce Dawson | Forecast for randomascii: programming, tech topics, with a chance of unicycling
- - [https://randomascii.wordpress.com](https://randomascii.wordpress.com)
- - date published: 2023-10-25T18:15:46.058749+00:00
- - user: None
- - tags: []
-
-## Rascality: Speeches to its Cultured Despisers
- - [https://raskality.wordpress.com](https://raskality.wordpress.com)
- - date published: 2023-10-25T18:15:57.058312+00:00
- - user: None
- - tags: []
-
-## r. pihlgren's blog
- - [https://rpihlgrenblog.wordpress.com](https://rpihlgrenblog.wordpress.com)
- - date published: 2023-11-29T15:46:56.730529+00:00
- - user: None
- - tags: ['personal']
-
-## Richard WM Jones | Virtualization, tools and tips
- - [https://rwmj.wordpress.com](https://rwmj.wordpress.com)
- - date published: 2023-10-25T18:16:01.907056+00:00
- - user: None
- - tags: []
-
-## Scali's OpenBlog™ | Programming, graphics, hardware, maths, and that sort of thing
- - [https://scalibq.wordpress.com](https://scalibq.wordpress.com)
- - date published: 2023-10-25T18:16:15.830405+00:00
- - user: None
- - tags: []
-
-## Science-Based Life | Add a Little Reason to Your Day
- - [https://sciencebasedlife.wordpress.com](https://sciencebasedlife.wordpress.com)
- - date published: 2023-10-25T18:16:20.995703+00:00
- - user: None
- - tags: []
-
-## Locklin on science | In which I explain things interesting, remarkable or silly.
- - [https://scottlocklin.wordpress.com](https://scottlocklin.wordpress.com)
- - date published: 2023-10-25T18:16:32.413497+00:00
- - user: None
- - tags: []
-
-## The Go Farther Project
- - [https://scottsambucci.wordpress.com](https://scottsambucci.wordpress.com)
- - date published: 2023-12-11T10:57:08.269984+00:00
- - user: None
- - tags: ['personal']
-
-## SOS – Shane O'Sullivan's technical blog… really ties the room together
- - [https://shaneosullivan.wordpress.com](https://shaneosullivan.wordpress.com)
- - date published: 2023-10-25T18:16:44.219174+00:00
- - user: None
- - tags: []
-
-## The Lumber Room | "Consign them to dust and damp by way of preserving them"
- - [https://shreevatsa.wordpress.com](https://shreevatsa.wordpress.com)
- - date published: 2023-10-25T09:26:13.970878+00:00
- - user: None
- - tags: ['personal']
-
-## Stephen Smith's Blog
- - [https://smist08.wordpress.com](https://smist08.wordpress.com)
- - date published: 2023-12-16T20:21:59.905988+00:00
- - user: None
- - tags: []
-
-## Spaswell | When you don't know how to say what you mean
- - [https://spaswell.wordpress.com](https://spaswell.wordpress.com)
- - date published: 2023-10-25T18:16:47.514999+00:00
- - user: None
- - tags: []
-
-## Spherical Bullshit | Celebrating over 300,000,000 views… in base 4.
- - [https://sphericalbullshit.wordpress.com](https://sphericalbullshit.wordpress.com)
- - date published: 2023-10-25T18:16:52.585505+00:00
- - user: None
- - tags: []
-
-## Sentence first | An Irishman's blog about the English language.
- - [https://stancarey.wordpress.com](https://stancarey.wordpress.com)
- - date published: 2023-10-25T18:17:04.006055+00:00
- - user: None
- - tags: []
-
-## Email Subscriptions
- - [https://subscribe.wordpress.com](https://subscribe.wordpress.com)
- - date published: 2023-12-11T16:30:14.195672+00:00
- - user: None
- - tags: []
-
-## WordPress.com — Get a Free Blog Here
- - [https://svbhallofshame.wordpress.com](https://svbhallofshame.wordpress.com)
- - date published: 2023-10-25T18:17:06.723148+00:00
- - user: None
- - tags: []
-
-## systemd-free linux community | we follow the development of linux away from systemd
- - [https://sysdfree.wordpress.com](https://sysdfree.wordpress.com)
- - date published: 2023-10-25T18:17:10.476195+00:00
- - user: None
- - tags: []
-
-## Terraform Industries Blog – gigascale atmospheric hydrocarbon synthesis
- - [https://terraformindustries.wordpress.com](https://terraformindustries.wordpress.com)
- - date published: 2023-10-25T18:17:21.097085+00:00
- - user: None
- - tags: []
-
-## What's new | Updates on my research and expository papers, discussion of open problems, and other maths-related topics.  By Terence Tao
- - [https://terrytao.wordpress.com](https://terrytao.wordpress.com)
- - date published: 2023-10-25T09:21:29.530385+00:00
- - user: None
- - tags: ['personal']
-
-## Coder's Blog
- - [https://thebucketdiary.wordpress.com](https://thebucketdiary.wordpress.com)
- - date published: 2023-10-27T14:39:12.515534+00:00
- - user: None
- - tags: ['amiga']
-
-## caffeinated pixels
- - [https://thecakeisaliegaming.wordpress.com](https://thecakeisaliegaming.wordpress.com)
- - date published: 2023-12-11T17:45:40.911132+00:00
- - user: None
- - tags: []
-
-## The History of How We Play – Video game history, pontifications, and other ludic touches.
- - [https://thehistoryofhowweplay.wordpress.com](https://thehistoryofhowweplay.wordpress.com)
- - date published: 2023-10-25T18:17:25.574500+00:00
- - user: None
- - tags: []
-
-## The Monad.Reader | Binding your input since 2005
- - [https://themonadreader.files.wordpress.com](https://themonadreader.files.wordpress.com)
- - date published: 2023-10-25T18:17:29.344389+00:00
- - user: None
- - tags: []
-
-## Michael Roberts Blog – blogging from a marxist economist
- - [https://thenextrecession.wordpress.com](https://thenextrecession.wordpress.com)
- - date published: 2023-10-25T18:17:32.726071+00:00
- - user: None
- - tags: []
-
-## The Tao Of Wealth – Practical ways to create abundance
- - [https://thetaoofwealth.wordpress.com](https://thetaoofwealth.wordpress.com)
- - date published: 2023-10-25T18:17:34.886755+00:00
- - user: None
- - tags: []
-
-## Don't Worry About the Vase | Trying to dig out from minus a million points
- - [https://thezvi.wordpress.com](https://thezvi.wordpress.com)
- - date published: 2023-10-25T18:17:39.628093+00:00
- - user: None
- - tags: []
-
-## This Fine Place
- - [https://thisfineplace.wordpress.com](https://thisfineplace.wordpress.com)
- - date published: 2023-11-29T17:18:49.482246+00:00
- - user: None
- - tags: ['personal']
-
-## Fiction is a Three-Edged Sword | Fiction, interactive fiction and narrative
- - [https://threeedgedsword.wordpress.com](https://threeedgedsword.wordpress.com)
- - date published: 2023-10-25T18:17:46.465251+00:00
- - user: None
- - tags: []
-
-## The Useless Dev blog – A useless blog from, and for, useless developers
- - [https://uselessdevblog.wordpress.com](https://uselessdevblog.wordpress.com)
- - date published: 2023-10-25T18:17:52.111067+00:00
- - user: None
- - tags: []
-
-## A Programmers Place | Observations, Reviews, and Essays
- - [https://vanemden.wordpress.com](https://vanemden.wordpress.com)
- - date published: 2023-10-25T18:17:55.236218+00:00
- - user: None
- - tags: []
-
-## 𝚟𝚎𝚛𝚖𝚊𝚍𝚎𝚗 | Another ${RANDOM} sysadmin sharing his experiences of work at IT industry.
- - [https://vermaden.wordpress.com](https://vermaden.wordpress.com)
- - date published: 2023-10-25T18:18:04.756895+00:00
- - user: None
- - tags: []
-
-## Private Site
- - [https://warfantasy.wordpress.com](https://warfantasy.wordpress.com)
- - date published: 2023-10-25T18:18:05.375450+00:00
- - user: None
- - tags: []
-
-## If 42 is the answer, what is the question? | My sophomoric speculations on "Life, the Universe and Everything"
- - [https://whatisthequestion.wordpress.com](https://whatisthequestion.wordpress.com)
- - date published: 2023-10-25T18:18:13.172980+00:00
- - user: None
- - tags: []
-
-## WordPress, Your Way
- - [https://wordpress.com](https://wordpress.com)
- - date published: 2023-10-25T08:33:01.720475+00:00
  - user: None
  - tags: []
 

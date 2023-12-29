@@ -1,3 +1,287 @@
+## History Matters: The U.S. Survey Course on the Web
+ - [https://historymatters.gmu.edu](https://historymatters.gmu.edu)
+ - date published: 2023-11-28T07:44:03+00:00
+ - user: rumpel
+ - tags: ['george mason', 'university']
+
+## Home
+ - [https://publichealth.gmu.edu](https://publichealth.gmu.edu)
+ - date published: 2023-12-26T11:35:15.712104+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.gmu.edu](https://www.gmu.edu)
+ - date published: 2023-11-28T07:45:16+00:00
+ - user: rumpel
+ - tags: ['george mason', 'university']
+
+## Georgia State University - Georgia State News Hub
+ - [https://news.gsu.edu](https://news.gsu.edu)
+ - date published: 2023-12-05T19:07:31.936621+00:00
+ - user: None
+ - tags: []
+
+## Home | National Security Archive
+ - [https://nsarchive.gwu.edu](https://nsarchive.gwu.edu)
+ - date published: 2023-10-25T18:51:17.562894+00:00
+ - user: None
+ - tags: []
+
+## School of Engineering & Applied Science | The George Washington University
+ - [https://www2.seas.gwu.edu](https://www2.seas.gwu.edu)
+ - date published: 2023-10-25T18:51:22.184962+00:00
+ - user: None
+ - tags: []
+
+## A Top Liberal Arts College - homepage - Hamilton College
+ - [https://www.hamilton.edu](https://www.hamilton.edu)
+ - date published: 2023-10-25T18:51:24.815538+00:00
+ - user: None
+ - tags: []
+
+## Faculty | Hampshire College
+ - [https://faculty.hampshire.edu](https://faculty.hampshire.edu)
+ - date published: 2023-10-25T18:51:31.521956+00:00
+ - user: None
+ - tags: []
+
+## Weblogs at Harvard
+ - [https://blogs.harvard.edu](https://blogs.harvard.edu)
+ - date published: 2023-10-25T18:51:34.410192+00:00
+ - user: None
+ - tags: []
+
+## The Harvard Law School Forum on Corporate Governance | The leading online blog in the fields of corporate governance and financial regulation.
+ - [https://corpgov.law.harvard.edu](https://corpgov.law.harvard.edu)
+ - date published: 2023-10-25T18:51:38.896224+00:00
+ - user: None
+ - tags: []
+
+## Home | Digital Data Design Institute at Harvard
+ - [https://d3.harvard.edu](https://d3.harvard.edu)
+ - date published: 2023-10-25T18:51:42.107342+00:00
+ - user: None
+ - tags: []
+
+## Harvard Business Publishing Education
+ - [https://hbsp.harvard.edu](https://hbsp.harvard.edu)
+ - date published: 2023-10-25T18:51:44.051862+00:00
+ - user: None
+ - tags: []
+
+## Home - Harvard Law School | Harvard Law School
+ - [https://hls.harvard.edu](https://hls.harvard.edu)
+ - date published: 2023-10-25T18:51:50.060436+00:00
+ - user: None
+ - tags: []
+
+## Home | Harvard Medical School
+ - [https://hms.harvard.edu](https://hms.harvard.edu)
+ - date published: 2023-10-25T18:51:52.607343+00:00
+ - user: None
+ - tags: []
+
+## Home | Center for Astrophysics
+ - [https://lweb.cfa.harvard.edu](https://lweb.cfa.harvard.edu)
+ - date published: 2023-10-25T18:51:56.891134+00:00
+ - user: None
+ - tags: []
+
+## Harvard Gazette – Official news from Harvard University covering innovation in teaching, learning, and research
+ - [https://news.harvard.edu](https://news.harvard.edu)
+ - date published: 2023-10-25T11:22:32.692394+00:00
+ - user: None
+ - tags: []
+
+## Home Page | Harvard John A. Paulson School of Engineering and Applied Sciences
+ - [https://people.seas.harvard.edu](https://people.seas.harvard.edu)
+ - date published: 2023-10-25T18:52:00.075501+00:00
+ - user: None
+ - tags: []
+
+## Home | Scholars at Harvard
+ - [https://scholar.harvard.edu](https://scholar.harvard.edu)
+ - date published: 2023-10-25T18:52:02.303424+00:00
+ - user: None
+ - tags: []
+
+## Home Page | Harvard John A. Paulson School of Engineering and Applied Sciences
+ - [https://seas.harvard.edu](https://seas.harvard.edu)
+ - date published: 2023-10-25T18:52:04.448986+00:00
+ - user: None
+ - tags: []
+
+## Computer Science | Harvard John A. Paulson School of Engineering and Applied Sciences
+ - [https://www.eecs.harvard.edu](https://www.eecs.harvard.edu)
+ - date published: 2023-10-25T18:52:07.507044+00:00
+ - user: None
+ - tags: []
+
+## Health Information and Medical Information - Harvard Health
+ - [https://www.health.harvard.edu](https://www.health.harvard.edu)
+ - date published: 2023-10-25T18:52:11.043760+00:00
+ - user: None
+ - tags: []
+
+## Harvard T.H. Chan School of Public Health
+ - [https://www.hsph.harvard.edu](https://www.hsph.harvard.edu)
+ - date published: 2023-11-14T14:40:33.102536+00:00
+ - user: None
+ - tags: []
+
+## PON - Program on Negotiation at Harvard Law School
+ - [https://www.pon.harvard.edu](https://www.pon.harvard.edu)
+ - date published: 2023-10-25T18:52:14.185371+00:00
+ - user: None
+ - tags: []
+
+## University of Hawaii System
+ - [https://www.hawaii.edu](https://www.hawaii.edu)
+ - date published: 2023-12-15T21:51:08.655676+00:00
+ - user: None
+ - tags: []
+
+## HBS Working Knowledge – Harvard Business School Faculty Research
+ - [https://hbswk.hbs.edu](https://hbswk.hbs.edu)
+ - date published: 2023-10-25T18:52:16.527569+00:00
+ - user: None
+ - tags: []
+
+## Home | Hillsdale in D.C.
+ - [https://dc.hillsdale.edu](https://dc.hillsdale.edu)
+ - date published: 2023-10-25T18:52:19.460793+00:00
+ - user: None
+ - tags: []
+
+## Institute for Advanced Study
+ - [https://www.ias.edu](https://www.ias.edu)
+ - date published: 2023-10-25T18:52:27.675140+00:00
+ - user: None
+ - tags: []
+
+## Course Websites | The Grainger College of Engineering | UIUC
+ - [https://courses.physics.illinois.edu](https://courses.physics.illinois.edu)
+ - date published: 2023-10-25T18:53:00.332561+00:00
+ - user: None
+ - tags: []
+
+## Jeff Erickson
+ - [https://jeffe.cs.illinois.edu](https://jeffe.cs.illinois.edu)
+ - date published: 2023-11-13T19:48:15.697958+00:00
+ - user: None
+ - tags: []
+
+## Margaret M. Fleck
+ - [https://mfleck.cs.illinois.edu](https://mfleck.cs.illinois.edu)
+ - date published: 2023-10-25T18:53:02.929808+00:00
+ - user: None
+ - tags: []
+
+## News Bureau | ILLINOIS
+ - [https://news.illinois.edu](https://news.illinois.edu)
+ - date published: 2023-10-25T18:53:10.492770+00:00
+ - user: None
+ - tags: []
+
+## Information Sciences Institute
+ - [https://www.isi.edu](https://www.isi.edu)
+ - date published: 2023-10-25T18:53:13.988342+00:00
+ - user: None
+ - tags: []
+
+## Page Title
+ - [https://lkml.iu.edu](https://lkml.iu.edu)
+ - date published: 2023-10-25T18:53:15.506203+00:00
+ - user: None
+ - tags: []
+
+## News at IU: Indiana University
+ - [https://news.iu.edu](https://news.iu.edu)
+ - date published: 2023-11-16T10:46:18.918497+00:00
+ - user: None
+ - tags: []
+
+## Home
+        
+       | Hub
+ - [https://hub.jhu.edu](https://hub.jhu.edu)
+ - date published: 2023-10-25T18:53:19.413125+00:00
+ - user: None
+ - tags: []
+
+## Project MUSE
+ - [https://muse.jhu.edu](https://muse.jhu.edu)
+ - date published: 2023-12-23T15:28:40.919614+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Hopkins Press
+ - [https://www.press.jhu.edu](https://www.press.jhu.edu)
+ - date published: 2023-10-25T18:53:23.816743+00:00
+ - user: None
+ - tags: []
+
+## Kent Campus | Kent State University Kent State, one of Ohio’s leading public universities
+ - [https://www.kent.edu](https://www.kent.edu)
+ - date published: 2023-10-25T11:22:42.294245+00:00
+ - user: None
+ - tags: []
+
+## People
+ - [https://people.cs.ksu.edu](https://people.cs.ksu.edu)
+ - date published: 2023-10-25T18:53:27.215934+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://en.ktu.edu](https://en.ktu.edu)
+ - date published: 2023-12-25T16:53:53.461151+00:00
+ - user: None
+ - tags: []
+
+## KU Today | The University of Kansas
+ - [https://today.ku.edu](https://today.ku.edu)
+ - date published: 2023-10-25T18:53:30.550703+00:00
+ - user: None
+ - tags: []
+
+## Electrical & Computer Engineering, Division of
+ - [https://www.ece.lsu.edu](https://www.ece.lsu.edu)
+ - date published: 2023-10-25T11:24:20.932943+00:00
+ - user: None
+ - tags: []
+
+## An Introduction to Computer Networks
+ - [https://intronetworks.cs.luc.edu](https://intronetworks.cs.luc.edu)
+ - date published: 2023-10-25T18:53:42.818300+00:00
+ - user: None
+ - tags: []
+
+## Official Miami Dade College Homepage
+ - [https://www.mdc.edu](https://www.mdc.edu)
+ - date published: 2023-10-25T11:22:46.236242+00:00
+ - user: None
+ - tags: []
+
+## aera
+ - [https://aera.mit.edu](https://aera.mit.edu)
+ - date published: 2023-10-25T18:53:43.612659+00:00
+ - user: None
+ - tags: []
+
+## MIT MAS.S68 | Generative AI for Constructive Communication
+ - [https://ai4comm.media.mit.edu](https://ai4comm.media.mit.edu)
+ - date published: 2023-10-25T18:53:45.427456+00:00
+ - user: None
+ - tags: []
+
+## Home | MIT Climate Portal
+ - [https://climate.mit.edu](https://climate.mit.edu)
+ - date published: 2023-10-25T18:53:47.317024+00:00
+ - user: None
+ - tags: []
+
 ## courses.csail.mit.edu
  - [https://courses.csail.mit.edu](https://courses.csail.mit.edu)
  - date published: 2023-10-25T18:53:48.768679+00:00
@@ -3654,6 +3938,12 @@
  - user: None
  - tags: []
 
+## Samuel Vilz
+ - [https://vilz.gg](https://vilz.gg)
+ - date published: 2023-12-28T18:50:12.689760+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Waku website
  - [https://waku.gg](https://waku.gg)
  - date published: 2023-10-25T19:17:13.554606+00:00
@@ -5720,294 +6010,6 @@
 ## Insanity Industries
  - [https://insanity.industries](https://insanity.industries)
  - date published: 2023-10-25T19:32:25.103131+00:00
- - user: None
- - tags: []
-
-## AI Demos - AI Demos and Tips, DALL·E, Stable Diffusion, GPT-4 and more
- - [https://www.aidemos.info](https://www.aidemos.info)
- - date published: 2023-10-25T19:32:35.523258+00:00
- - user: None
- - tags: []
-
-## Ami-Hw.inf - Get Started
- - [https://amiga-hardware.info](https://amiga-hardware.info)
- - date published: 2023-12-11T18:59:13.012083+00:00
- - user: None
- - tags: []
-
-## APLcart - Find your way in APL
- - [https://aplcart.info](https://aplcart.info)
- - date published: 2023-10-25T19:32:35.994932+00:00
- - user: None
- - tags: []
-
-## Aras' website
- - [https://aras-p.info](https://aras-p.info)
- - date published: 2023-10-25T19:32:37.152360+00:00
- - user: None
- - tags: []
-
-## Adam Sawicki Home Page - programming, graphics, games, media, C++, Windows, Internet and more...
- - [https://asawicki.info](https://asawicki.info)
- - date published: 2023-10-25T19:32:38.571316+00:00
- - user: None
- - tags: []
-
-## JohnFound home site - Home
- - [https://asm32.info](https://asm32.info)
- - date published: 2023-10-25T19:32:39.773355+00:00
- - user: None
- - tags: []
-
-## Mass Editing Memory in a Transformer
- - [https://memit.baulab.info](https://memit.baulab.info)
- - date published: 2023-10-25T19:32:40.955095+00:00
- - user: None
- - tags: []
-
-## Bibelo
- - [https://bibelo.info](https://bibelo.info)
- - date published: 2023-10-25T19:32:42.422658+00:00
- - user: None
- - tags: []
-
-## Charles Brooks Photography
- - [https://www.charlesbrooks.info](https://www.charlesbrooks.info)
- - date published: 2023-10-25T19:32:44.624808+00:00
- - user: None
- - tags: []
-
-## Chris Morgan (software developer, Bible student, &c.)
- - [https://chrismorgan.info](https://chrismorgan.info)
- - date published: 2023-10-25T19:32:46.489574+00:00
- - user: None
- - tags: []
-
-## codewithstyle.info
- - [https://codewithstyle.info](https://codewithstyle.info)
- - date published: 2023-10-25T19:32:47.257860+00:00
- - user: None
- - tags: []
-
-## CommunityRule
- - [https://communityrule.info](https://communityrule.info)
- - date published: 2023-10-25T19:32:48.400403+00:00
- - user: None
- - tags: []
-
-## Stories of the Development of Large Scale Scientific Computing at Lawrence Livermore National Laboratory
- - [https://www.computer-history.info](https://www.computer-history.info)
- - date published: 2023-10-25T19:32:55.417340+00:00
- - user: None
- - tags: []
-
-## CrystalDoc.info - Crystal Shards API Documentation
- - [https://crystaldoc.info](https://crystaldoc.info)
- - date published: 2023-10-25T19:33:01.610194+00:00
- - user: None
- - tags: []
-
-## CSS { In Real Life }
- - [https://css-irl.info](https://css-irl.info)
- - date published: 2023-10-25T19:33:02.818546+00:00
- - user: None
- - tags: []
-
-## The Phrozen Keep - The Phrozen Keep
- - [https://d2mods.info](https://d2mods.info)
- - date published: 2023-10-30T15:21:48.086998+00:00
- - user: None
- - tags: ['diablo']
-
-## The Phrozen Keep - The Phrozen Keep
- - [https://www.d2mods.info](https://www.d2mods.info)
- - date published: 2023-12-13T16:09:00.376741+00:00
- - user: None
- - tags: ['diablo']
-
-## The Debian Administrator's Handbook
- - [https://debian-handbook.info](https://debian-handbook.info)
- - date published: 2023-10-25T19:33:04.117034+00:00
- - user: None
- - tags: []
-
-## Demoscene
- - [https://www.demoscene.info](https://www.demoscene.info)
- - date published: 2023-11-15T19:08:10+00:00
- - user: None
- - tags: []
-
-## @dirceu
- - [https://dirceu.info](https://dirceu.info)
- - date published: 2023-12-01T10:47:31.714853+00:00
- - user: None
- - tags: ['personal']
-
-## Erthalion
- - [https://erthalion.info](https://erthalion.info)
- - date published: 2023-10-25T19:33:09.948190+00:00
- - user: None
- - tags: []
-
-## Escape Big Tech
- - [https://escapebigtech.info](https://escapebigtech.info)
- - date published: 2023-10-25T19:33:10.907999+00:00
- - user: None
- - tags: []
-
-## Free The Game Boy
- - [https://www.freethegameboy.info](https://www.freethegameboy.info)
- - date published: 2023-10-25T19:33:12.137630+00:00
- - user: None
- - tags: []
-
-## Fuelled by Coffee – the progression of a PhD candidate
- - [https://fuelledbycoffee.info](https://fuelledbycoffee.info)
- - date published: 2023-11-29T17:09:16.538115+00:00
- - user: None
- - tags: ['personal']
-
-## Gazeta Trybunalska - Niezależny, wolny portal informacyjny.
- - [https://gazetatrybunalska.info](https://gazetatrybunalska.info)
- - date published: 2023-10-25T19:33:17.600578+00:00
- - user: None
- - tags: []
-
-## cathode ray dude dot com
- - [https://gekk.info](https://gekk.info)
- - date published: 2023-10-25T19:33:19.051679+00:00
- - user: None
- - tags: []
-
-## Pascal Getreuer
- - [https://getreuer.info](https://getreuer.info)
- - date published: 2023-12-05T06:36:34.148762+00:00
- - user: None
- - tags: []
-
-## Writing | Jonatan Heyman | heyman.info
- - [https://heyman.info](https://heyman.info)
- - date published: 2023-10-25T19:33:21.115785+00:00
- - user: None
- - tags: []
-
-## HOPLOFOBIA.INFO – BROŃ PALNA | PRZESTĘPCZOŚĆ | STATYSTYKI | MEDIA
- - [https://www.hoplofobia.info](https://www.hoplofobia.info)
- - date published: 2023-10-25T19:33:26.453233+00:00
- - user: None
- - tags: []
-
-## 20:33:27
- - [http://hummingbirdclock.info](http://hummingbirdclock.info)
- - date published: 2023-10-25T19:33:27.379921+00:00
- - user: None
- - tags: []
-
-## 20:33:27
- - [http://www.hummingbirdclock.info](http://www.hummingbirdclock.info)
- - date published: 2023-10-25T19:33:28.001956+00:00
- - user: None
- - tags: []
-
-## i-programmer.info
- - [https://www.i-programmer.info](https://www.i-programmer.info)
- - date published: 2023-10-25T19:33:31.493267+00:00
- - user: None
- - tags: []
-
-## The Modern JavaScript Tutorial
- - [https://javascript.info](https://javascript.info)
- - date published: 2023-11-01T08:43:37.651655+00:00
- - user: None
- - tags: ['javascript']
-
-## Jerry Yin
- - [https://jerryyin.info](https://jerryyin.info)
- - date published: 2023-10-25T19:33:32.588799+00:00
- - user: None
- - tags: []
-
-## Wired && Coded;
- - [https://www.jsykora.info](https://www.jsykora.info)
- - date published: 2023-12-23T09:53:51.325961+00:00
- - user: None
- - tags: []
-
-## Pascal Junod
- - [https://crypto.junod.info](https://crypto.junod.info)
- - date published: 2023-10-25T19:33:33.225435+00:00
- - user: None
- - tags: []
-
-## KeePass Password Safe
- - [https://keepass.info](https://keepass.info)
- - date published: 2023-10-25T08:33:10.096294+00:00
- - user: None
- - tags: []
-
-## Konsolowe.info - Portal o konsolach, grach, technologii i kulturze.
- - [https://konsolowe.info](https://konsolowe.info)
- - date published: 2023-11-02T19:02:55.540671+00:00
- - user: None
- - tags: ['game news']
-
-## Krzysztof Kowalczyk
- - [https://blog.kowalczyk.info](https://blog.kowalczyk.info)
- - date published: 2023-10-25T19:33:33.900748+00:00
- - user: None
- - tags: []
-
-## Krishna Bharadwaj
- - [https://www.krishnabharadwaj.info](https://www.krishnabharadwaj.info)
- - date published: 2023-10-25T19:33:34.798737+00:00
- - user: None
- - tags: []
-
-## Legit Torrents - Legal Torrents, Free Media
- - [https://www.legittorrents.info](https://www.legittorrents.info)
- - date published: 2023-10-25T11:29:52.709268+00:00
- - user: None
- - tags: []
-
-## Internet history, design, advanced use, help, security, important features...
- - [https://www.livinginternet.info](https://www.livinginternet.info)
- - date published: 2023-10-25T19:33:36.815620+00:00
- - user: None
- - tags: []
-
-## bubblicapp
- - [https://www.lonelyworld.info](https://www.lonelyworld.info)
- - date published: 2023-10-25T19:33:39.942848+00:00
- - user: None
- - tags: []
-
-## Łucznik - strona główna
- - [https://lucznik.info](https://lucznik.info)
- - date published: 2023-11-01T08:27:11.323992+00:00
- - user: None
- - tags: ['company']
-
-## Mainly Norfolk: English Folk and Other Good Music
- - [https://mainlynorfolk.info](https://mainlynorfolk.info)
- - date published: 2023-12-15T11:15:44.660614+00:00
- - user: None
- - tags: []
-
-## MARC: Mailing list ARChives
- - [https://marc.info](https://marc.info)
- - date published: 2023-10-25T19:33:43.196860+00:00
- - user: None
- - tags: []
-
-## More Quantum
- - [https://mateusaraujo.info](https://mateusaraujo.info)
- - date published: 2023-10-25T19:33:45.307209+00:00
- - user: None
- - tags: []
-
-## Milk Sad: /summary
- - [https://milksad.info](https://milksad.info)
- - date published: 2023-10-25T19:33:46.583686+00:00
  - user: None
  - tags: []
 

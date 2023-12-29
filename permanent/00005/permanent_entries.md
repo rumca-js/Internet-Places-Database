@@ -1,8 +1,170 @@
+## Jessitron – symmathecist, in the medium of code
+ - [https://jessitron.com](https://jessitron.com)
+ - date published: 2023-10-25T15:28:28.652075+00:00
+ - user: None
+ - tags: []
+
+## JetBrains Account
+ - [https://account.jetbrains.com](https://account.jetbrains.com)
+ - date published: 2023-12-12T09:09:43.184363+00:00
+ - user: None
+ - tags: []
+
+## JetBrains Blog: The Drive to Develop
+ - [https://blog.jetbrains.com](https://blog.jetbrains.com)
+ - date published: 2023-10-25T08:37:43.300846+00:00
+ - user: None
+ - tags: []
+
+## Administration
+ - [https://hub.jetbrains.com](https://hub.jetbrains.com)
+ - date published: 2023-12-12T09:05:46+00:00
+ - user: rumpel
+ - tags: []
+
+## JetBrains: Essential tools for software developers and teams
+ - [https://lp.jetbrains.com](https://lp.jetbrains.com)
+ - date published: 2023-12-12T09:09:56.188947+00:00
+ - user: None
+ - tags: []
+
+## JetBrains Marketplace
+ - [https://plugins.jetbrains.com](https://plugins.jetbrains.com)
+ - date published: 2023-12-12T09:09:59.760112+00:00
+ - user: None
+ - tags: []
+
+## https://resources.jetbrains.com
+ - [https://resources.jetbrains.com](https://resources.jetbrains.com)
+ - date published: 2023-12-12T09:10:06.381602+00:00
+ - user: None
+ - tags: []
+
+## https://sales.jetbrains.com
+ - [https://sales.jetbrains.com](https://sales.jetbrains.com)
+ - date published: 2023-12-12T09:09:48.760487+00:00
+ - user: None
+ - tags: []
+
+## JetBrains: Essential tools for software developers and teams
+ - [https://www.jetbrains.com](https://www.jetbrains.com)
+ - date published: 2023-10-25T11:28:02.006390+00:00
+ - user: None
+ - tags: ['ide', 'pycharm', 'intellij', 'clion', 'webstorm']
+
+## https://youtrack.jetbrains.com
+ - [https://youtrack.jetbrains.com](https://youtrack.jetbrains.com)
+ - date published: 2023-12-12T09:04:30+00:00
+ - user: rumpel
+ - tags: []
+
+## JETNET | World Leader in Aviation Market Intelligence
+ - [https://www.jetnet.com](https://www.jetnet.com)
+ - date published: 2023-10-25T15:28:36.142271+00:00
+ - user: None
+ - tags: []
+
+## JetPens - The Best Pens & Stationery From Japan & Beyond
+ - [https://www.jetpens.com](https://www.jetpens.com)
+ - date published: 2023-10-25T15:28:45.728960+00:00
+ - user: None
+ - tags: []
+
+## The Jewish Press - JewishPress.com
+ - [https://www.jewishpress.com](https://www.jewishpress.com)
+ - date published: 2023-12-07T15:14:09.328558+00:00
+ - user: None
+ - tags: ['jewish news', 'israel']
+
+## Jezen Thomas | Haskell, Unix, Minimalism, and Entrepreneurship.
+ - [https://jezenthomas.com](https://jezenthomas.com)
+ - date published: 2023-10-25T15:28:46.503280+00:00
+ - user: None
+ - tags: []
+
+## Software Supply Chain Platform for DevOps & Security | JFrog
+ - [https://jfrog.com](https://jfrog.com)
+ - date published: 2023-10-25T15:29:02.160628+00:00
+ - user: None
+ - tags: []
+
+## jgallant's Indie Game Developer Homepage
+ - [https://www.jgallant.com](https://www.jgallant.com)
+ - date published: 2023-10-25T15:29:05.166800+00:00
+ - user: None
+ - tags: []
+
+## Ji'hyn's Webbed Site – Thinkin' 'bout stuff
+ - [https://jihyn.com](https://jihyn.com)
+ - date published: 2023-11-09T19:01:08.263803+00:00
+ - user: None
+ - tags: []
+
+## Jim Nielsen’s Blog
+ - [https://blog.jim-nielsen.com](https://blog.jim-nielsen.com)
+ - date published: 2023-10-25T15:29:09.082962+00:00
+ - user: None
+ - tags: []
+
+## Jim Clair – Blog
+ - [https://jimclair.com](https://jimclair.com)
+ - date published: 2023-10-25T15:29:13.208321+00:00
+ - user: None
+ - tags: []
+
+## Jimmy Keane
+ - [https://jimmykeane.com](https://jimmykeane.com)
+ - date published: 2023-11-29T17:12:38.002816+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jingnan Shi
+ - [https://jingnanshi.com](https://jingnanshi.com)
+ - date published: 2023-10-25T15:29:17.944385+00:00
+ - user: None
+ - tags: []
+
+## JITX - Software-defined electronics
+ - [https://www.jitx.com](https://www.jitx.com)
+ - date published: 2023-10-25T15:29:20.014336+00:00
+ - user: None
+ - tags: []
+
+## Joseph Jude - Coach • CTO • Podcast Host
+ - [https://jjude.com](https://jjude.com)
+ - date published: 2023-12-05T14:37:52.987095+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jonathan Katz
+ - [https://jkatz05.com](https://jkatz05.com)
+ - date published: 2023-10-25T15:29:21.287258+00:00
+ - user: None
+ - tags: []
+
+## Jon Kulton
+ - [https://jkulton.com](https://jkulton.com)
+ - date published: 2023-10-25T15:29:22.992517+00:00
+ - user: None
+ - tags: []
+
+## Jon Quixote | In which the author considers whether a community is more like a giant or more like a windmill.
+ - [https://jlericson.com](https://jlericson.com)
+ - date published: 2023-10-25T15:29:25.754618+00:00
+ - user: None
+ - tags: []
+
 ## James Long - blog & knowledge graph
  - [https://jlongster.com](https://jlongster.com)
  - date published: 2023-10-25T15:29:27.238133+00:00
  - user: None
  - tags: []
+
+## jM Galleries: Everyday Fine Art, Portraits, Weddings, Real Estate and Lifestyle Photography by j.McCarthy
+ - [https://jmgalleries.com](https://jmgalleries.com)
+ - date published: 2023-12-28T18:51:11.146539+00:00
+ - user: None
+ - tags: ['personal']
 
 ## A sonic soul with a relentless drive to make & learn - JmsDnns
  - [https://jmsdnns.com](https://jmsdnns.com)
@@ -3395,6 +3557,12 @@
  - user: None
  - tags: ['fantasy', 'books', 'science fiction']
 
+## Lode Runner Web Game (online game)
+ - [https://loderunnerwebgame.com](https://loderunnerwebgame.com)
+ - date published: 2023-12-28T13:09:20.428585+00:00
+ - user: None
+ - tags: []
+
 ## Double Talk with Hannah and Cailin Loesch
  - [https://loeschtwins.com](https://loeschtwins.com)
  - date published: 2023-11-22T14:55:22.397602+00:00
@@ -4307,6 +4475,12 @@ diversions.
  - date published: 2023-10-25T15:56:22.248200+00:00
  - user: None
  - tags: []
+
+## Maria Laura Skinner
+ - [https://mariaskinner.com](https://mariaskinner.com)
+ - date published: 2023-12-28T18:49:25.685557+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Marin Comics
  - [https://marincomics.com](https://marincomics.com)
@@ -5826,178 +6000,4 @@ diversions.
  - date published: 2023-10-25T16:01:14.733318+00:00
  - user: None
  - tags: []
-
-## Mennohenselmans.com - Online PT Course, Articles and Online Coaching
- - [https://mennohenselmans.com](https://mennohenselmans.com)
- - date published: 2023-10-25T16:01:16.510740+00:00
- - user: None
- - tags: []
-
-## Men's Therapy LLC - Licensed Professional Counselor - Minneapolis
- - [https://menstherapy.com](https://menstherapy.com)
- - date published: 2023-12-27T01:10:46.539076+00:00
- - user: None
- - tags: ['personal']
-
-## Mensur Duraković
- - [https://www.mensurdurakovic.com](https://www.mensurdurakovic.com)
- - date published: 2023-11-08T11:21:41.631421+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://mental-reverb.com](https://mental-reverb.com)
- - date published: 2023-12-19T15:12:02.954320+00:00
- - user: None
- - tags: []
-
-## Mental Floss
- - [https://www.mentalfloss.com](https://www.mentalfloss.com)
- - date published: 2023-10-25T16:01:19.537538+00:00
- - user: None
- - tags: []
-
-## MentorCruise - Connecting Mentors & Mentees
- - [https://mentorcruise.com](https://mentorcruise.com)
- - date published: 2023-11-01T15:43:55.143002+00:00
- - user: None
- - tags: []
-
-## Mercari: Your Marketplace
- - [https://item.mercari.com](https://item.mercari.com)
- - date published: 2023-11-26T18:46:24.062263+00:00
- - user: None
- - tags: []
-
-## Mercedes-Benz Media
- - [https://group-media.mercedes-benz.com](https://group-media.mercedes-benz.com)
- - date published: 2023-10-25T16:01:20.713009+00:00
- - user: None
- - tags: []
-
-## Mercedes-Benz Brand Experience
- - [https://www.mercedes-benz.com](https://www.mercedes-benz.com)
- - date published: 2023-11-01T08:42:37.636821+00:00
- - user: None
- - tags: []
-
-## Homepage - Mercedes-Benz Trucks - Trucks you can trust
- - [https://www.mercedes-benz-trucks.com](https://www.mercedes-benz-trucks.com)
- - date published: 2023-10-25T16:01:23.910160+00:00
- - user: None
- - tags: []
-
-## 504 Gateway Time-out
- - [https://mercurialtrends.com](https://mercurialtrends.com)
- - date published: 2023-10-25T16:01:27.958840+00:00
- - user: None
- - tags: []
-
-## The Mercury News - Bay Area news, sports, business, entertainment, lifestyle and commentary
- - [https://www.mercurynews.com](https://www.mercurynews.com)
- - date published: 2023-10-25T11:05:14.135332+00:00
- - user: None
- - tags: []
-
-## MereCivilian
- - [https://merecivilian.com](https://merecivilian.com)
- - date published: 2023-10-25T16:01:29.064207+00:00
- - user: None
- - tags: []
-
-## Get The Magic of Music!
- - [https://www.merlinnsound.com](https://www.merlinnsound.com)
- - date published: 2023-12-23T19:28:27.312651+00:00
- - user: None
- - tags: ['personal']
-
-## Mermaid Chart - Create complex, visual diagrams with text. A smarter way of creating diagrams.
- - [https://www.mermaidchart.com](https://www.mermaidchart.com)
- - date published: 2023-10-25T16:01:35.538500+00:00
- - user: None
- - tags: []
-
-## Merriam-Webster: America's Most Trusted Dictionary
- - [https://www.merriam-webster.com](https://www.merriam-webster.com)
- - date published: 2023-10-25T09:28:48.521022+00:00
- - user: None
- - tags: []
-
-## merthurturk.com
- - [https://merthurturk.com](https://merthurturk.com)
- - date published: 2023-11-29T14:53:27.048847+00:00
- - user: None
- - tags: ['personal']
-
-## Meryll Dindin: Transhumanist & Entrepreneur Driving Future Innovation | Meryll Dindin
- - [https://merylldindin.com](https://merylldindin.com)
- - date published: 2023-10-25T16:01:36.604677+00:00
- - user: None
- - tags: []
-
-## Vente en ligne d'épices, condiments, épicerie fine, thés, infusions et ustensiles de cuisine - Mesepices.com
- - [https://www.mesepices.com](https://www.mesepices.com)
- - date published: 2023-12-13T15:19:30.543837+00:00
- - user: None
- - tags: []
-
-## The Meson Build system
- - [https://mesonbuild.com](https://mesonbuild.com)
- - date published: 2023-10-25T16:01:37.935464+00:00
- - user: None
- - tags: []
-
-## Messenger
- - [https://www.messenger.com](https://www.messenger.com)
- - date published: 2023-10-25T13:24:05.476740+00:00
- - user: None
- - tags: ['gatekeeper', 'social communicator']
-
-## Error
- - [https://ai.meta.com](https://ai.meta.com)
- - date published: 2023-12-05T18:26:53.355058+00:00
- - user: None
- - tags: []
-
-## Meta
- - [https://www.meta.com](https://www.meta.com)
- - date published: 2023-10-27T12:56:25+00:00
- - user: rumpel
- - tags: ['meta', 'company', 'facebook', 'gatekeeper']
-
-## μεταcole
- - [https://metacole.com](https://metacole.com)
- - date published: 2023-12-17T16:42:28.844399+00:00
- - user: None
- - tags: ['personal']
-
-## Movie Reviews, TV Reviews, Game Reviews, and Music Reviews
- - [https://www.metacritic.com](https://www.metacritic.com)
- - date published: 2023-10-24T20:20:31.185064+00:00
- - user: None
- - tags: ['ranking']
-
-## Metaculus
- - [https://www.metaculus.com](https://www.metaculus.com)
- - date published: 2023-10-25T16:01:40.572647+00:00
- - user: None
- - tags: []
-
-## DINOv2 by Meta AI
- - [https://dinov2.metademolab.com](https://dinov2.metademolab.com)
- - date published: 2023-10-25T16:01:40.973105+00:00
- - user: None
- - tags: []
-
-## Metadocs - First Strand Type Extenstion
- - [https://metadocs8.com](https://metadocs8.com)
- - date published: 2023-10-25T16:01:41.432105+00:00
- - user: None
- - tags: []
-
-## Home - Encyclopaedia Metallum: The Metal Archives
- - [https://www.metal-archives.com](https://www.metal-archives.com)
- - date published: 2023-10-29T15:29:31.205442+00:00
- - user: None
- - tags: ['music']
 
