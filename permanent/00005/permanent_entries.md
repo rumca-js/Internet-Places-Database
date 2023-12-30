@@ -1,3 +1,123 @@
+## WHY EDIFY
+ - [https://www.jeremyajorgensen.com](https://www.jeremyajorgensen.com)
+ - date published: 2023-11-29T15:48:09.478619+00:00
+ - user: None
+ - tags: ['personal']
+
+## JEREMY DEPRISCO - JEREMY DEPRISCO
+ - [https://www.jeremydeprisco.com](https://www.jeremydeprisco.com)
+ - date published: 2023-11-17T10:12:35.173571+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeremy Howlett | Entrepreneur, Marketer, Philosopher, Husband and Dad
+ - [https://jeremyhowlett.com](https://jeremyhowlett.com)
+ - date published: 2023-11-29T17:16:32.441165+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeremy Jeziorski
+ - [https://www.jeremyjeziorski.com](https://www.jeremyjeziorski.com)
+ - date published: 2023-12-23T19:27:02.724013+00:00
+ - user: None
+ - tags: ['personal']
+
+## Math ∩ Programming
+ - [https://jeremykun.com](https://jeremykun.com)
+ - date published: 2023-10-25T15:28:05.702522+00:00
+ - user: None
+ - tags: []
+
+## Jeremy Mikkola - Home
+ - [https://jeremymikkola.com](https://jeremymikkola.com)
+ - date published: 2023-10-25T09:20:59.043607+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeremy's Programming Blog
+ - [https://www.jeremymorgan.com](https://www.jeremymorgan.com)
+ - date published: 2023-10-25T15:28:07.381699+00:00
+ - user: None
+ - tags: []
+
+## Jeremy's Blog
+ - [https://www.jeremyong.com](https://www.jeremyong.com)
+ - date published: 2023-10-25T15:28:08.983378+00:00
+ - user: None
+ - tags: []
+
+## Jer Lance (dot com)
+ - [https://jerlance.com](https://jerlance.com)
+ - date published: 2023-12-20T01:00:20.704273+00:00
+ - user: None
+ - tags: ['personal']
+
+## Juan Ernesto Blog
+ - [https://www.jernesto.com](https://www.jernesto.com)
+ - date published: 2023-10-25T15:28:10.434639+00:00
+ - user: None
+ - tags: []
+
+## Jerome Leroy | Composer
+ - [https://www.jeromeleroy.com](https://www.jeromeleroy.com)
+ - date published: 2023-10-25T08:46:34.625108+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jerry Michalski
+ - [https://www.jerrymichalski.com](https://www.jerrymichalski.com)
+ - date published: 2023-11-29T17:09:20.663681+00:00
+ - user: None
+ - tags: ['personal']
+
+## Blogger
+ - [https://www.jerrysha.com](https://www.jerrysha.com)
+ - date published: 2023-12-02T21:17:38.362551+00:00
+ - user: None
+ - tags: ['personal']
+
+## JESDA.COM | Cars, travel, etc.
+ - [https://jesda.com](https://jesda.com)
+ - date published: 2023-10-25T15:28:14.048562+00:00
+ - user: None
+ - tags: []
+
+## Jesse Dorsey
+ - [https://jessedorsey.com](https://jessedorsey.com)
+ - date published: 2023-12-18T22:39:12.501976+00:00
+ - user: None
+ - tags: ['personal']
+
+## Pursuit Of Laziness – A blog by Jesse Duffield
+ - [https://jesseduffield.com](https://jesseduffield.com)
+ - date published: 2023-10-25T15:28:22.799029+00:00
+ - user: None
+ - tags: []
+
+## Jesse F. Simon
+ - [https://www.jessefsimon.com](https://www.jessefsimon.com)
+ - date published: 2023-12-13T11:22:18.478352+00:00
+ - user: None
+ - tags: ['personal']
+
+## About
+ - [https://jessems.com](https://jessems.com)
+ - date published: 2023-10-25T15:28:23.274118+00:00
+ - user: None
+ - tags: []
+
+## Jesse Wright
+ - [https://www.jessewright.com](https://www.jessewright.com)
+ - date published: 2023-10-25T15:28:24.345752+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://jessicalaurenvine.com](https://jessicalaurenvine.com)
+ - date published: 2023-11-29T14:25:37.115227+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Jessitron – symmathecist, in the medium of code
  - [https://jessitron.com](https://jessitron.com)
  - date published: 2023-10-25T15:28:28.652075+00:00
@@ -1317,6 +1437,12 @@
  - date published: 2023-12-09T00:59:09.524386+00:00
  - user: None
  - tags: []
+
+## Chris Kenst
+ - [https://www.kenst.com](https://www.kenst.com)
+ - date published: 2023-12-29T20:11:56.663745+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Kent C. Dodds
  - [https://kentcdodds.com](https://kentcdodds.com)
@@ -3335,6 +3461,12 @@
  - user: None
  - tags: []
 
+## Lisa-Marie, Ph.D.
+ - [https://lisamariepierre.com](https://lisamariepierre.com)
+ - date published: 2023-12-29T03:11:21.407775+00:00
+ - user: None
+ - tags: ['personal']
+
 ## LispWorks
  - [https://www.lispworks.com](https://www.lispworks.com)
  - date published: 2023-10-25T15:48:15.763812+00:00
@@ -3574,6 +3706,18 @@
  - date published: 2023-10-25T15:49:34.669790+00:00
  - user: None
  - tags: []
+
+## None
+ - [https://www.loganherr.com](https://www.loganherr.com)
+ - date published: 2023-12-29T18:59:41.808733+00:00
+ - user: None
+ - tags: ['personal']
+
+## Logan Lenz | Serial Entrepreneur | CEO of Nucleus
+ - [https://www.loganlenz.com](https://www.loganlenz.com)
+ - date published: 2023-12-29T18:59:46.123636+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Logan Marchione
  - [https://loganmarchione.com](https://loganmarchione.com)
@@ -5854,150 +5998,6 @@ diversions.
 ## Derek Power – Medium
  - [https://thebluejester.medium.com](https://thebluejester.medium.com)
  - date published: 2023-10-25T10:23:25.116345+00:00
- - user: None
- - tags: []
-
-## Tom Smykowski – Medium
- - [https://tomaszs2.medium.com](https://tomaszs2.medium.com)
- - date published: 2023-10-25T10:23:27.314286+00:00
- - user: None
- - tags: []
-
-## Tony Oreglia – Medium
- - [https://tony-oreglia.medium.com](https://tony-oreglia.medium.com)
- - date published: 2023-10-25T10:23:29.775999+00:00
- - user: None
- - tags: []
-
-## uNetworking AB – Medium
- - [https://unetworkingab.medium.com](https://unetworkingab.medium.com)
- - date published: 2023-10-25T10:23:32.060381+00:00
- - user: None
- - tags: []
-
-## Vikash Ruhil – Medium
- - [https://vikashruhil.medium.com](https://vikashruhil.medium.com)
- - date published: 2023-10-25T10:23:33.945727+00:00
- - user: None
- - tags: []
-
-## Ville Kuosmanen – Medium
- - [https://villekuosmanen.medium.com](https://villekuosmanen.medium.com)
- - date published: 2023-10-25T10:23:36.537987+00:00
- - user: None
- - tags: []
-
-## Wes O'Donnell – Medium
- - [https://wesodonnell.medium.com](https://wesodonnell.medium.com)
- - date published: 2023-10-25T10:23:38.601832+00:00
- - user: None
- - tags: []
-
-## Wolfgang Hauptfleisch – Medium
- - [https://wolfhf.medium.com](https://wolfhf.medium.com)
- - date published: 2023-10-25T10:23:40.880848+00:00
- - user: None
- - tags: []
-
-## George Dillard – Medium
- - [https://worldhistory.medium.com](https://worldhistory.medium.com)
- - date published: 2023-10-25T10:23:43.451858+00:00
- - user: None
- - tags: []
-
-## John Pradeep Vincent – Medium
- - [https://yehohanan7.medium.com](https://yehohanan7.medium.com)
- - date published: 2023-10-25T10:23:46.196937+00:00
- - user: None
- - tags: []
-
-## Zachary Thomas – Medium
- - [https://zachary-thomas.medium.com](https://zachary-thomas.medium.com)
- - date published: 2023-10-25T10:23:48.150446+00:00
- - user: None
- - tags: []
-
-## Medical News | Medpage Today
- - [https://www.medpagetoday.com](https://www.medpagetoday.com)
- - date published: 2023-10-25T16:00:48.284884+00:00
- - user: None
- - tags: []
-
-## Latest Medical News, Clinical Trials, Guidelines - Today on Medscape
- - [https://www.medscape.com](https://www.medscape.com)
- - date published: 2023-12-24T05:42:24.273164+00:00
- - user: None
- - tags: []
-
-## Medtronic: Diabetes Products And Therapy Options
- - [https://www.medtronicdiabetes.com](https://www.medtronicdiabetes.com)
- - date published: 2023-10-25T16:00:54.033785+00:00
- - user: None
- - tags: []
-
-## Medusa - Building blocks for digital commerce
- - [https://medusajs.com](https://medusajs.com)
- - date published: 2023-10-25T16:00:55.967703+00:00
- - user: None
- - tags: []
-
-## Cala
- - [https://meetcala.com](https://meetcala.com)
- - date published: 2023-10-25T16:00:56.677728+00:00
- - user: None
- - tags: []
-
-## The Personal Website of Ryan Flowers
- - [https://meetryanflowers.com](https://meetryanflowers.com)
- - date published: 2023-10-25T16:01:02.314254+00:00
- - user: None
- - tags: []
-
-## retrocogs.mega65.com – Coding for the Mega65
- - [https://retrocogs.mega65.com](https://retrocogs.mega65.com)
- - date published: 2023-10-25T16:01:05.819512+00:00
- - user: None
- - tags: []
-
-## MegaGames - Game Trainers, Cheats, Mods, Fixes, News and Videos for Games
- - [https://megagames.com](https://megagames.com)
- - date published: 2023-10-28T20:42:34.051738+00:00
- - user: None
- - tags: ['game trainer']
-
-## Meilisearch Blog
- - [https://blog.meilisearch.com](https://blog.meilisearch.com)
- - date published: 2023-10-25T16:01:07.153377+00:00
- - user: None
- - tags: []
-
-## Mel's Loop - A Comprehensive Guide to The Story of Mel - Home
- - [https://melsloop.com](https://melsloop.com)
- - date published: 2023-10-25T16:01:08.821031+00:00
- - user: None
- - tags: []
-
-## under the hood - Meltwater Engineering Blog
- - [https://underthehood.meltwater.com](https://underthehood.meltwater.com)
- - date published: 2023-10-25T16:01:09.708869+00:00
- - user: None
- - tags: []
-
-## MemComputing
- - [https://www.memcpu.com](https://www.memcpu.com)
- - date published: 2023-10-25T16:01:11.671773+00:00
- - user: None
- - tags: []
-
-## Interrupt | A community and blog for embedded software makers
- - [https://interrupt.memfault.com](https://interrupt.memfault.com)
- - date published: 2023-10-25T16:01:12.834761+00:00
- - user: None
- - tags: []
-
-## Memgraph
- - [https://memgraph.com](https://memgraph.com)
- - date published: 2023-10-25T16:01:14.733318+00:00
  - user: None
  - tags: []
 

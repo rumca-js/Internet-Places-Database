@@ -1,3 +1,57 @@
+## Los Angeles Daily News
+ - [https://www.dailynews.com](https://www.dailynews.com)
+ - date published: 2023-10-25T11:02:39.182115+00:00
+ - user: None
+ - tags: []
+
+## Dailynewsegypt
+ - [https://www.dailynewsegypt.com](https://www.dailynewsegypt.com)
+ - date published: 2023-11-05T22:14:24.944012+00:00
+ - user: None
+ - tags: []
+
+## Daily Nous - news for & about the philosophy profession
+ - [https://dailynous.com](https://dailynous.com)
+ - date published: 2023-10-25T13:41:48.743475+00:00
+ - user: None
+ - tags: []
+
+## Daily Press
+ - [https://www.dailypress.com](https://www.dailypress.com)
+ - date published: 2023-12-04T14:48:50.055297+00:00
+ - user: None
+ - tags: []
+
+## The Daily Princetonian
+ - [https://www.dailyprincetonian.com](https://www.dailyprincetonian.com)
+ - date published: 2023-10-25T13:41:55.082519+00:00
+ - user: None
+ - tags: []
+
+## The Daily Reckoning
+ - [https://dailyreckoning.com](https://dailyreckoning.com)
+ - date published: 2023-10-25T13:41:59.032119+00:00
+ - user: None
+ - tags: []
+
+## The Daily Signal: Policy News, Conservative Analysis and Opinion
+ - [https://www.dailysignal.com](https://www.dailysignal.com)
+ - date published: 2023-10-25T13:42:12.168369+00:00
+ - user: None
+ - tags: []
+
+## The Daily Wire
+ - [https://www.dailywire.com](https://www.dailywire.com)
+ - date published: 2023-10-25T09:30:01.904012+00:00
+ - user: None
+ - tags: []
+
+## Home - Daisi Pollard Sepulveda
+ - [https://www.daisipollard.com](https://www.daisipollard.com)
+ - date published: 2023-12-21T18:49:29.630038+00:00
+ - user: None
+ - tags: ['personal']
+
 ## daisyUI — Tailwind CSS Components ( version 4 update is here )
  - [https://daisyui.com](https://daisyui.com)
  - date published: 2023-12-21T23:47:33.224307+00:00
@@ -2171,6 +2225,12 @@
  - user: None
  - tags: []
 
+## dullneon.com
+ - [https://dullneon.com](https://dullneon.com)
+ - date published: 2023-12-29T20:11:54.010781+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Dumb Cuneiform. We'll take your tweets and make them permanent clay tablets.
  - [https://dumbcuneiform.com](https://dumbcuneiform.com)
  - date published: 2023-10-25T13:59:42.146786+00:00
@@ -2591,6 +2651,12 @@
  - user: None
  - tags: ['personal']
 
+## إديوكيشن للمعلومات education
+ - [https://www.educationarb.com](https://www.educationarb.com)
+ - date published: 2023-12-29T09:57:45.127370+00:00
+ - user: None
+ - tags: []
+
 ## eed3si9n
  - [https://eed3si9n.com](https://eed3si9n.com)
  - date published: 2023-10-25T14:03:53.417527+00:00
@@ -2798,6 +2864,12 @@
 ## Home | Electronic Design
  - [https://www.electronicdesign.com](https://www.electronicdesign.com)
  - date published: 2023-10-25T14:05:19.630697+00:00
+ - user: None
+ - tags: []
+
+## Electronics Flea Market
+ - [https://www.electronicsfleamarket.com](https://www.electronicsfleamarket.com)
+ - date published: 2023-12-28T21:05:22+00:00
  - user: None
  - tags: []
 
@@ -3101,6 +3173,12 @@
  - user: None
  - tags: []
 
+## https://endgamebusiness.com
+ - [https://endgamebusiness.com](https://endgamebusiness.com)
+ - date published: 2023-12-29T03:12:29.220958+00:00
+ - user: None
+ - tags: ['personal']
+
 ## The Endless Doomscroller
  - [https://endlessdoomscroller.com](https://endlessdoomscroller.com)
  - date published: 2023-10-25T14:07:05.150878+00:00
@@ -3220,6 +3298,12 @@
  - date published: 2023-10-25T14:08:06.585735+00:00
  - user: None
  - tags: []
+
+## Homepage
+ - [https://entreresource.com](https://entreresource.com)
+ - date published: 2023-12-29T20:11:19.361678+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Entro Games
  - [https://entrogames.com](https://entrogames.com)
@@ -5321,6 +5405,12 @@
  - user: None
  - tags: []
 
+## Foreign Brief
+ - [https://foreignbrief.com](https://foreignbrief.com)
+ - date published: 2023-12-29T05:28:44.166117+00:00
+ - user: None
+ - tags: []
+
 ## Foreign Policy – the Global Magazine of News and Ideas
  - [https://foreignpolicy.com](https://foreignpolicy.com)
  - date published: 2023-10-25T15:10:25.310637+00:00
@@ -5908,94 +5998,4 @@
  - date published: 2023-12-12T23:23:06.776133+00:00
  - user: None
  - tags: ['personal']
-
-## The Full Stack
- - [https://fullstackdeeplearning.com](https://fullstackdeeplearning.com)
- - date published: 2023-10-25T14:39:35.486425+00:00
- - user: None
- - tags: []
-
-## Full Stack Economics | Timothy B Lee | Substack
- - [https://www.fullstackeconomics.com](https://www.fullstackeconomics.com)
- - date published: 2023-10-25T14:39:39.123373+00:00
- - user: None
- - tags: []
-
-## AI Test Automation with Machine Learning | Functionize
- - [https://www.functionize.com](https://www.functionize.com)
- - date published: 2023-10-25T14:39:43.665354+00:00
- - user: None
- - tags: []
-
-## FunctionTrace - human-oriented profiling for Python
- - [https://functiontrace.com](https://functiontrace.com)
- - date published: 2023-10-25T14:39:45.039373+00:00
- - user: None
- - tags: []
-
-## Fungai Creates – The Creative Journey of Fungai Tichawangana
- - [https://fungaicreates.com](https://fungaicreates.com)
- - date published: 2023-11-29T14:23:46.434681+00:00
- - user: None
- - tags: ['personal']
-
-## American Express
- - [https://fungi.com](https://fungi.com)
- - date published: 2023-10-25T14:39:47.684195+00:00
- - user: None
- - tags: []
-
-## Ain't it funny how the knight moves?
- - [https://www.funnyhowtheknightmoves.com](https://www.funnyhowtheknightmoves.com)
- - date published: 2023-10-25T14:39:54.444676+00:00
- - user: None
- - tags: []
-
-## Furbes
- - [https://furbes.com](https://furbes.com)
- - date published: 2023-11-10T00:50:03.270668+00:00
- - user: None
- - tags: []
-
-## Futility Closet
- - [https://www.futilitycloset.com](https://www.futilitycloset.com)
- - date published: 2023-11-10T09:07:41.167861+00:00
- - user: None
- - tags: []
-
-## Future | Understand the Future and How to Build It
- - [https://future.com](https://future.com)
- - date published: 2023-10-25T14:39:58.458173+00:00
- - user: None
- - tags: []
-
-## 3-2-1..Let's Jam! Emily's Cowboy Bebop Page
- - [https://futureblues.com](https://futureblues.com)
- - date published: 2023-10-25T14:40:05.297218+00:00
- - user: None
- - tags: []
-
-## Future Pinball
- - [https://futurepinball.com](https://futurepinball.com)
- - date published: 2023-10-25T14:40:08.222311+00:00
- - user: None
- - tags: []
-
-## Futurice, an outcome-focused digital transformation company
- - [https://futurice.com](https://futurice.com)
- - date published: 2023-10-25T14:40:11.459344+00:00
- - user: None
- - tags: []
-
-## Futurism | Science and Technology News and Videos
- - [https://futurism.com](https://futurism.com)
- - date published: 2023-10-25T14:40:14.917356+00:00
- - user: None
- - tags: []
-
-## Show HN: Soccer video analysis from your match videos
- - [https://futvis.com](https://futvis.com)
- - date published: 2023-11-14T20:42:49+00:00
- - user: None
- - tags: []
 

@@ -1,3 +1,243 @@
+## The Eyewall
+ - [https://theeyewall.com](https://theeyewall.com)
+ - date published: 2023-10-26T23:03:38.216802+00:00
+ - user: None
+ - tags: []
+
+## Home - The Face
+ - [https://theface.com](https://theface.com)
+ - date published: 2023-10-25T17:32:30.737419+00:00
+ - user: None
+ - tags: []
+
+## The Fact Site | Fun & Interesting Facts
+ - [https://www.thefactsite.com](https://www.thefactsite.com)
+ - date published: 2023-10-25T17:32:48.524933+00:00
+ - user: None
+ - tags: []
+
+## The Federalist - Culture, Politics, Religion
+ - [https://thefederalist.com](https://thefederalist.com)
+ - date published: 2023-10-25T17:32:52.453047+00:00
+ - user: None
+ - tags: []
+
+## Delicious Vegan and Vegetarian Recipes – The Fiery Vegetarian
+ - [https://www.thefieryvegetarian.com](https://www.thefieryvegetarian.com)
+ - date published: 2023-12-22T18:54:46+00:00
+ - user: None
+ - tags: []
+
+## The Film Stage
+ - [https://thefilmstage.com](https://thefilmstage.com)
+ - date published: 2023-12-22T03:37:59.659840+00:00
+ - user: None
+ - tags: []
+
+## The Final Hop
+ - [https://www.thefinalhop.com](https://www.thefinalhop.com)
+ - date published: 2023-10-25T17:32:53.667976+00:00
+ - user: None
+ - tags: []
+
+## Home - The Financial Diet
+ - [https://thefinancialdiet.com](https://thefinancialdiet.com)
+ - date published: 2023-10-25T17:32:55.918295+00:00
+ - user: None
+ - tags: []
+
+## Fintech News & Reviews Daily | The Fintech Times
+ - [https://thefintechtimes.com](https://thefintechtimes.com)
+ - date published: 2023-10-25T17:32:58.805761+00:00
+ - user: None
+ - tags: []
+
+## The First News - entertaining, engaging and informative news on Poland
+ - [https://www.thefirstnews.com](https://www.thefirstnews.com)
+ - date published: 2023-12-20T11:04:56.371713+00:00
+ - user: None
+ - tags: []
+
+## The Fitzwilliam | Fitzwilliam Staff | Substack
+ - [https://www.thefitzwilliam.com](https://www.thefitzwilliam.com)
+ - date published: 2023-10-25T17:33:02.110637+00:00
+ - user: None
+ - tags: []
+
+## The Free Press
+ - [https://www.thefp.com](https://www.thefp.com)
+ - date published: 2023-10-25T17:33:05.546830+00:00
+ - user: None
+ - tags: []
+
+## Dictionary, Encyclopedia and Thesaurus - The Free Dictionary
+ - [https://www.thefreedictionary.com](https://www.thefreedictionary.com)
+ - date published: 2023-10-25T09:28:50.951090+00:00
+ - user: None
+ - tags: []
+
+## thefreethoughtproject.com
+ - [https://thefreethoughtproject.com](https://thefreethoughtproject.com)
+ - date published: 2023-10-25T17:33:10.910442+00:00
+ - user: None
+ - tags: []
+
+## The Fresh Loaf | A Community of Amateur Bakers and Artisan Bread Enthusiasts.
+ - [https://www.thefreshloaf.com](https://www.thefreshloaf.com)
+ - date published: 2023-10-25T17:33:13.762985+00:00
+ - user: None
+ - tags: []
+
+## Home - The Frugal Fellow
+ - [https://www.thefrugalfellow.com](https://www.thefrugalfellow.com)
+ - date published: 2023-11-29T15:45:07.512799+00:00
+ - user: None
+ - tags: ['personal']
+
+## TFW8b Retro Computer fan site. SD2IEC, divMMC Future & home of the C64p
+ - [https://www.thefuturewas8bit.com](https://www.thefuturewas8bit.com)
+ - date published: 2023-12-11T17:45:45.424239+00:00
+ - user: None
+ - tags: []
+
+## The Game Chamber | Board Games & Miniatures
+ - [https://www.thegamechamber.com](https://www.thegamechamber.com)
+ - date published: 2023-10-27T08:02:09.465547+00:00
+ - user: None
+ - tags: []
+
+## The Game Haus - Sports & Esports news, from our Haus to yours.
+ - [https://thegamehaus.com](https://thegamehaus.com)
+ - date published: 2023-10-25T10:50:18.776814+00:00
+ - user: None
+ - tags: []
+
+## The Gateway Pundit
+ - [https://www.thegatewaypundit.com](https://www.thegatewaypundit.com)
+ - date published: 2023-10-25T17:33:17.157623+00:00
+ - user: None
+ - tags: []
+
+## Marc Crouch - The Ginger Viking
+ - [https://www.thegingerviking.com](https://www.thegingerviking.com)
+ - date published: 2023-10-25T17:33:17.978121+00:00
+ - user: None
+ - tags: []
+
+## The Globe and Mail: Canadian, World, Politics and Business News & Analysis
+ - [https://www.theglobeandmail.com](https://www.theglobeandmail.com)
+ - date published: 2023-10-25T17:34:27.274173+00:00
+ - user: None
+ - tags: []
+
+## The Government Rag -
+ - [https://thegovernmentrag.com](https://thegovernmentrag.com)
+ - date published: 2023-10-25T17:34:35.516598+00:00
+ - user: None
+ - tags: []
+
+## The Grayzone - The Grayzone
+ - [https://thegrayzone.com](https://thegrayzone.com)
+ - date published: 2023-10-25T17:34:46.262866+00:00
+ - user: None
+ - tags: []
+
+## News, sport and opinion from the Guardian's Europe edition | The Guardian
+ - [https://amp.theguardian.com](https://amp.theguardian.com)
+ - date published: 2023-11-06T19:50:32.699604+00:00
+ - user: None
+ - tags: []
+
+## The Guardian digital design style guide
+ - [https://design.theguardian.com](https://design.theguardian.com)
+ - date published: 2023-11-07T17:48:30+00:00
+ - user: None
+ - tags: []
+
+## News, sport and opinion from the Guardian's Europe edition | The Guardian
+ - [https://theguardian.com](https://theguardian.com)
+ - date published: 2023-11-26T18:26:25.382762+00:00
+ - user: None
+ - tags: []
+
+## News, sport and opinion from the Guardian's Europe edition | The Guardian
+ - [https://www.theguardian.com](https://www.theguardian.com)
+ - date published: 2023-10-25T17:34:59.991351+00:00
+ - user: None
+ - tags: []
+
+## The Hacker News | #1 Trusted Cybersecurity News Site
+ - [https://thehackernews.com](https://thehackernews.com)
+ - date published: 2023-10-25T09:36:10.524213+00:00
+ - user: None
+ - tags: ['tech news']
+
+## The Happy Philosopher
+ - [https://thehappyphilosopher.com](https://thehappyphilosopher.com)
+ - date published: 2023-12-20T05:40:06.490901+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Haul
+ - [https://thehaul.com](https://thehaul.com)
+ - date published: 2023-12-13T15:41:03.468757+00:00
+ - user: None
+ - tags: []
+
+## The HFT Guy – A developer in London
+ - [https://thehftguy.com](https://thehftguy.com)
+ - date published: 2023-10-25T17:35:02.811605+00:00
+ - user: None
+ - tags: []
+
+## The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill
+ - [https://digital-dev.thehill.com](https://digital-dev.thehill.com)
+ - date published: 2023-10-25T17:35:11.876851+00:00
+ - user: None
+ - tags: []
+
+## The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill
+ - [https://thehill.com](https://thehill.com)
+ - date published: 2023-10-25T10:28:58.558612+00:00
+ - user: None
+ - tags: []
+
+## Home - The Hilltop
+ - [https://thehilltoponline.com](https://thehilltoponline.com)
+ - date published: 2023-11-12T21:46:12.194115+00:00
+ - user: None
+ - tags: []
+
+## The Himalayan Times - Nepal's No.1 English Daily Newspaper | Nepal News, Latest Politics, Business, World, Sports, Entertainment, Travel, Life Style News
+ - [https://thehimalayantimes.com](https://thehimalayantimes.com)
+ - date published: 2023-11-13T13:38:25.834385+00:00
+ - user: None
+ - tags: []
+
+## Breaking News Today, Top Headlines, Live Updates | The Hindu
+ - [https://www.thehindu.com](https://www.thehindu.com)
+ - date published: 2023-10-25T10:45:05.654304+00:00
+ - user: None
+ - tags: []
+
+## Business Financial, Economy, Market, Stock - News & Updates | The Hindu BusinessLine
+ - [https://www.thehindubusinessline.com](https://www.thehindubusinessline.com)
+ - date published: 2023-10-25T17:35:19.405660+00:00
+ - user: None
+ - tags: []
+
+## The History Blog
+ - [https://www.thehistoryblog.com](https://www.thehistoryblog.com)
+ - date published: 2023-10-25T17:35:27.586648+00:00
+ - user: None
+ - tags: []
+
+## The History of the Web
+ - [https://thehistoryoftheweb.com](https://thehistoryoftheweb.com)
+ - date published: 2023-10-25T11:14:27.332034+00:00
+ - user: None
+ - tags: []
+
 ## HR Magazine – Human Resources articles, updates and insights for HR leaders
  - [https://www.thehrdigest.com](https://www.thehrdigest.com)
  - date published: 2023-12-28T20:05:16.994681+00:00
@@ -285,6 +525,12 @@
  - date published: 2023-10-25T11:30:22.418990+00:00
  - user: None
  - tags: []
+
+## Nick May, Author
+ - [https://www.thenickmay.com](https://www.thenickmay.com)
+ - date published: 2023-12-29T03:11:13.487188+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Homepage – TheNNT
  - [https://www.thennt.com](https://www.thennt.com)
@@ -3362,6 +3608,12 @@
  - user: None
  - tags: []
 
+## https://www.vanguardngr.com
+ - [https://www.vanguardngr.com](https://www.vanguardngr.com)
+ - date published: 2023-12-29T20:35:26.118500+00:00
+ - user: None
+ - tags: []
+
 ## index
  - [https://vanhunteradams.com](https://vanhunteradams.com)
  - date published: 2023-10-25T17:55:19.369824+00:00
@@ -3461,6 +3713,12 @@
 ## Veilid
  - [https://veilid.com](https://veilid.com)
  - date published: 2023-10-25T17:55:46.235167+00:00
+ - user: None
+ - tags: []
+
+## VELCRO® Brand Fastening Solutions | Velcro Companies
+ - [https://www.velcro.com](https://www.velcro.com)
+ - date published: 2023-12-29T14:19:33.593603+00:00
  - user: None
  - tags: []
 
@@ -3891,6 +4149,12 @@
  - user: None
  - tags: []
 
+## Vivek Panyam
+ - [https://blog.vivekpanyam.com](https://blog.vivekpanyam.com)
+ - date published: 2023-12-29T22:49:51.039108+00:00
+ - user: None
+ - tags: []
+
 ## Vivid Maps - Maps that explain the World
  - [https://vividmaps.com](https://vividmaps.com)
  - date published: 2023-10-25T17:57:56.121309+00:00
@@ -4014,6 +4278,12 @@
 ## Lauren Weinstein's Blog
  - [https://lauren.vortex.com](https://lauren.vortex.com)
  - date published: 2023-10-25T17:58:32.739644+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Vowl daily word guessing game
+ - [https://vowlgame.com](https://vowlgame.com)
+ - date published: 2023-12-29T21:53:49+00:00
  - user: None
  - tags: []
 
@@ -5037,6 +5307,12 @@
  - user: None
  - tags: []
 
+## https://iaap-journals.onlinelibrary.wiley.com
+ - [https://iaap-journals.onlinelibrary.wiley.com](https://iaap-journals.onlinelibrary.wiley.com)
+ - date published: 2023-12-29T01:27:25.430295+00:00
+ - user: None
+ - tags: []
+
 ## https://myscp.onlinelibrary.wiley.com
  - [https://myscp.onlinelibrary.wiley.com](https://myscp.onlinelibrary.wiley.com)
  - date published: 2023-11-07T02:17:31.388440+00:00
@@ -5685,6 +5961,18 @@
  - user: None
  - tags: ['personal']
 
+## danscreativeoulet
+ - [https://danscreativeoutlet.wordpress.com](https://danscreativeoutlet.wordpress.com)
+ - date published: 2023-12-29T03:12:11.124326+00:00
+ - user: None
+ - tags: ['personal']
+
+## David Hayes's Blog
+ - [https://davidhayesblog.wordpress.com](https://davidhayesblog.wordpress.com)
+ - date published: 2023-12-29T19:00:23.328671+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Dead Reckonings – Lost Art in the Mathematical Sciences
  - [https://deadreckonings.files.wordpress.com](https://deadreckonings.files.wordpress.com)
  - date published: 2023-10-25T18:10:38.471657+00:00
@@ -5712,294 +6000,6 @@
 ## D.R.A.S.T.I.C. Research – D.R.A.S.T.I.C. Research
  - [https://drasticresearch.files.wordpress.com](https://drasticresearch.files.wordpress.com)
  - date published: 2023-10-25T18:11:23.096110+00:00
- - user: None
- - tags: []
-
-## Short, Fat Matrices – a research blog by Dustin G. Mixon
- - [https://dustingmixon.wordpress.com](https://dustingmixon.wordpress.com)
- - date published: 2023-10-25T18:11:26.844417+00:00
- - user: None
- - tags: []
-
-## Ecologically Oriented | …with frequent whatnot
- - [https://ecologicallyoriented.wordpress.com](https://ecologicallyoriented.wordpress.com)
- - date published: 2023-10-25T18:11:30.809009+00:00
- - user: None
- - tags: []
-
-## ample code
- - [https://einarwh.wordpress.com](https://einarwh.wordpress.com)
- - date published: 2023-11-29T07:35:51.179721+00:00
- - user: None
- - tags: []
-
-## Elsa Johansson
- - [https://elsajohansson.wordpress.com](https://elsajohansson.wordpress.com)
- - date published: 2023-10-25T18:11:32.795763+00:00
- - user: None
- - tags: []
-
-## WordPress, Your Way
- - [https://en.wordpress.com](https://en.wordpress.com)
- - date published: 2023-12-11T16:31:09.815871+00:00
- - user: None
- - tags: []
-
-## Ephemeral New York | Chronicling an ever-changing city through faded and forgotten artifacts
- - [https://ephemeralnewyork.wordpress.com](https://ephemeralnewyork.wordpress.com)
- - date published: 2023-10-25T18:11:41.936917+00:00
- - user: None
- - tags: []
-
-## Felipe Contreras
- - [https://felipec.wordpress.com](https://felipec.wordpress.com)
- - date published: 2023-10-25T18:11:44.469031+00:00
- - user: None
- - tags: []
-
-## The ryg blog | When I grow up I'll be an inventor.
- - [https://fgiesen.wordpress.com](https://fgiesen.wordpress.com)
- - date published: 2023-10-25T18:11:48.624320+00:00
- - user: None
- - tags: []
-
-## Firejail | security sandbox
- - [https://firejail.wordpress.com](https://firejail.wordpress.com)
- - date published: 2023-10-25T18:11:53.023724+00:00
- - user: None
- - tags: []
-
-## Gaming History 101
- - [https://gaminghistory101.files.wordpress.com](https://gaminghistory101.files.wordpress.com)
- - date published: 2023-12-11T16:51:00.315163+00:00
- - user: None
- - tags: []
-
-## Gaming History 101
- - [https://gaminghistory101.wordpress.com](https://gaminghistory101.wordpress.com)
- - date published: 2023-12-11T16:51:07.418089+00:00
- - user: None
- - tags: []
-
-## 高大伟 David Cowhig's Translation Blog
- - [https://gaodawei.wordpress.com](https://gaodawei.wordpress.com)
- - date published: 2023-10-25T18:12:05.460382+00:00
- - user: None
- - tags: []
-
-## Garen McMillian
- - [https://garenmcmilliandotcom.wordpress.com](https://garenmcmilliandotcom.wordpress.com)
- - date published: 2023-12-18T22:40:13.835646+00:00
- - user: None
- - tags: ['personal']
-
-## Mara Waka – _________________________________
- - [https://geekstravelinjapan.wordpress.com](https://geekstravelinjapan.wordpress.com)
- - date published: 2023-10-25T18:12:13.192265+00:00
- - user: None
- - tags: []
-
-## Gravity and Levity | A blog about the big ideas in physics, plus a few other things
- - [https://gravityandlevity.wordpress.com](https://gravityandlevity.wordpress.com)
- - date published: 2023-10-25T18:12:20.895831+00:00
- - user: None
- - tags: []
-
-## Jens Gustedt's Blog
- - [https://gustedt.wordpress.com](https://gustedt.wordpress.com)
- - date published: 2023-10-25T18:12:25.310910+00:00
- - user: None
- - tags: []
-
-## Heather's Paragraphs
- - [https://harthur.wordpress.com](https://harthur.wordpress.com)
- - date published: 2023-10-25T18:12:31.192942+00:00
- - user: None
- - tags: []
-
-## The World of Data | The wonders of data management,  professional excellence and work-life balance
- - [https://hdombrovskaya.wordpress.com](https://hdombrovskaya.wordpress.com)
- - date published: 2023-10-25T18:12:38.767491+00:00
- - user: None
- - tags: []
-
-## Home Signal – Thoughts on transit, urbanism and industry in New York and beyond
- - [https://homesignalblog.wordpress.com](https://homesignalblog.wordpress.com)
- - date published: 2023-10-25T18:12:44.415333+00:00
- - user: None
- - tags: []
-
-## Tabletop Gaming Den
- - [https://ianlclark.wordpress.com](https://ianlclark.wordpress.com)
- - date published: 2023-10-27T07:51:05.223356+00:00
- - user: None
- - tags: ['personal']
-
-## Jacob Brazeal
- - [https://jacobbrazeal.wordpress.com](https://jacobbrazeal.wordpress.com)
- - date published: 2023-10-25T18:12:50.570696+00:00
- - user: None
- - tags: []
-
-## The Crusty Rustacean
- - [https://jeffmitchelldev.wordpress.com](https://jeffmitchelldev.wordpress.com)
- - date published: 2023-12-25T11:24:01.455116+00:00
- - user: None
- - tags: []
-
-## Embrace the Challenge
- - [https://jennalaib.wordpress.com](https://jennalaib.wordpress.com)
- - date published: 2023-10-28T10:06:35.298453+00:00
- - user: None
- - tags: []
-
-## Azimuth
- - [https://johncarlosbaez.wordpress.com](https://johncarlosbaez.wordpress.com)
- - date published: 2023-10-25T18:12:59.237222+00:00
- - user: None
- - tags: []
-
-## Hidden History | Forgotten mysteries, oddities and unknown stories from history, nature and science.
- - [https://lflank.wordpress.com](https://lflank.wordpress.com)
- - date published: 2023-10-25T18:13:10.733683+00:00
- - user: None
- - tags: []
-
-## LibrarianShipwreck | "More than machinery, we need humanity."
- - [https://librarianshipwreck.wordpress.com](https://librarianshipwreck.wordpress.com)
- - date published: 2023-10-25T18:13:22.069345+00:00
- - user: None
- - tags: []
-
-## linʛuischtick | no bad grammar just bad grammarians
- - [https://linguischtick.wordpress.com](https://linguischtick.wordpress.com)
- - date published: 2023-10-25T18:13:27.156133+00:00
- - user: None
- - tags: []
-
-## LWIClassic.Work
- - [https://lwiclassic2.wordpress.com](https://lwiclassic2.wordpress.com)
- - date published: 2023-11-29T14:20:40.734275+00:00
- - user: None
- - tags: ['personal']
-
-## Malinowa Amiga
- - [https://malinowaamiga.files.wordpress.com](https://malinowaamiga.files.wordpress.com)
- - date published: 2023-12-11T16:37:10.610202+00:00
- - user: None
- - tags: []
-
-## Malinowa Amiga
- - [https://malinowaamiga.wordpress.com](https://malinowaamiga.wordpress.com)
- - date published: 2023-11-02T10:55:58.051491+00:00
- - user: None
- - tags: ['amiga', 'raspberry']
-
-## Private Site
- - [https://markblasini.wordpress.com](https://markblasini.wordpress.com)
- - date published: 2023-12-20T14:32:56.865381+00:00
- - user: None
- - tags: ['personal']
-
-## | monthly writings in and around mathematics by James Propp
- - [https://mathenchant.wordpress.com](https://mathenchant.wordpress.com)
- - date published: 2023-10-25T18:13:29.585257+00:00
- - user: None
- - tags: []
-
-## Energy Matters | musings on the new grid
- - [https://matter2energy.wordpress.com](https://matter2energy.wordpress.com)
- - date published: 2023-10-25T18:13:32.715815+00:00
- - user: None
- - tags: []
-
-## Matthew Felgate – My thoughts, electronics and adventures
- - [https://matthewfelgate.wordpress.com](https://matthewfelgate.wordpress.com)
- - date published: 2023-10-25T18:13:35.669987+00:00
- - user: None
- - tags: []
-
-## memorial ecosystems blog
- - [https://memorialecosystemswordpress.wordpress.com](https://memorialecosystemswordpress.wordpress.com)
- - date published: 2023-11-15T14:45:26.536754+00:00
- - user: None
- - tags: []
-
-## Mikha'el's Blog
- - [https://michalzuber.wordpress.com](https://michalzuber.wordpress.com)
- - date published: 2023-11-29T14:20:03.778766+00:00
- - user: None
- - tags: ['personal']
-
-## MicroCore Labs – Ted Fried's Project Blog
- - [https://microcorelabs.wordpress.com](https://microcorelabs.wordpress.com)
- - date published: 2023-10-25T18:13:41.373066+00:00
- - user: None
- - tags: []
-
-## Just Another Software Developer
- - [https://miparnisariblog.wordpress.com](https://miparnisariblog.wordpress.com)
- - date published: 2023-10-25T18:13:46.124761+00:00
- - user: None
- - tags: []
-
-## Ryan Moulton's Articles
- - [https://moultano.wordpress.com](https://moultano.wordpress.com)
- - date published: 2023-10-25T18:13:48.487292+00:00
- - user: None
- - tags: []
-
-## namitatawde
- - [https://namitatawde.wordpress.com](https://namitatawde.wordpress.com)
- - date published: 2023-12-19T19:08:40.073169+00:00
- - user: None
- - tags: ['personal']
-
-## Naveen Arun's Blog
- - [https://naveenarun.wordpress.com](https://naveenarun.wordpress.com)
- - date published: 2023-10-25T18:14:01.214703+00:00
- - user: None
- - tags: []
-
-## Sito privato
- - [https://nefelophagia.wordpress.com](https://nefelophagia.wordpress.com)
- - date published: 2023-12-08T08:32:06.571645+00:00
- - user: None
- - tags: ['personal']
-
-## Mr. Digital | All Things Digital
- - [https://nicisdigital.wordpress.com](https://nicisdigital.wordpress.com)
- - date published: 2023-10-25T18:14:13.776710+00:00
- - user: None
- - tags: []
-
-## Normal Deviate
- - [https://normaldeviate.wordpress.com](https://normaldeviate.wordpress.com)
- - date published: 2023-10-25T18:14:19.640711+00:00
- - user: None
- - tags: []
-
-## NTDEV
- - [https://ntdotdev.wordpress.com](https://ntdotdev.wordpress.com)
- - date published: 2023-10-25T18:14:23.669956+00:00
- - user: None
- - tags: []
-
-## Nuclear Diner | Nuclear information for everyone.
- - [https://nucleardiner.wordpress.com](https://nucleardiner.wordpress.com)
- - date published: 2023-10-25T18:14:33.856263+00:00
- - user: None
- - tags: []
-
-## Old School Game Blog
- - [https://oldschoolgameblog.files.wordpress.com](https://oldschoolgameblog.files.wordpress.com)
- - date published: 2023-12-11T16:30:39.558329+00:00
- - user: None
- - tags: []
-
-## Old School Game Blog
- - [https://oldschoolgameblog.wordpress.com](https://oldschoolgameblog.wordpress.com)
- - date published: 2023-12-11T16:33:04.540046+00:00
  - user: None
  - tags: []
 

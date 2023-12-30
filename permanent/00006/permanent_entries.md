@@ -1,3 +1,147 @@
+## Tom Smykowski – Medium
+ - [https://tomaszs2.medium.com](https://tomaszs2.medium.com)
+ - date published: 2023-10-25T10:23:27.314286+00:00
+ - user: None
+ - tags: []
+
+## Tony Oreglia – Medium
+ - [https://tony-oreglia.medium.com](https://tony-oreglia.medium.com)
+ - date published: 2023-10-25T10:23:29.775999+00:00
+ - user: None
+ - tags: []
+
+## uNetworking AB – Medium
+ - [https://unetworkingab.medium.com](https://unetworkingab.medium.com)
+ - date published: 2023-10-25T10:23:32.060381+00:00
+ - user: None
+ - tags: []
+
+## Vikash Ruhil – Medium
+ - [https://vikashruhil.medium.com](https://vikashruhil.medium.com)
+ - date published: 2023-10-25T10:23:33.945727+00:00
+ - user: None
+ - tags: []
+
+## Ville Kuosmanen – Medium
+ - [https://villekuosmanen.medium.com](https://villekuosmanen.medium.com)
+ - date published: 2023-10-25T10:23:36.537987+00:00
+ - user: None
+ - tags: []
+
+## Wes O'Donnell – Medium
+ - [https://wesodonnell.medium.com](https://wesodonnell.medium.com)
+ - date published: 2023-10-25T10:23:38.601832+00:00
+ - user: None
+ - tags: []
+
+## Wolfgang Hauptfleisch – Medium
+ - [https://wolfhf.medium.com](https://wolfhf.medium.com)
+ - date published: 2023-10-25T10:23:40.880848+00:00
+ - user: None
+ - tags: []
+
+## George Dillard – Medium
+ - [https://worldhistory.medium.com](https://worldhistory.medium.com)
+ - date published: 2023-10-25T10:23:43.451858+00:00
+ - user: None
+ - tags: []
+
+## John Pradeep Vincent – Medium
+ - [https://yehohanan7.medium.com](https://yehohanan7.medium.com)
+ - date published: 2023-10-25T10:23:46.196937+00:00
+ - user: None
+ - tags: []
+
+## Zachary Thomas – Medium
+ - [https://zachary-thomas.medium.com](https://zachary-thomas.medium.com)
+ - date published: 2023-10-25T10:23:48.150446+00:00
+ - user: None
+ - tags: []
+
+## Medical News | Medpage Today
+ - [https://www.medpagetoday.com](https://www.medpagetoday.com)
+ - date published: 2023-10-25T16:00:48.284884+00:00
+ - user: None
+ - tags: []
+
+## Latest Medical News, Clinical Trials, Guidelines - Today on Medscape
+ - [https://www.medscape.com](https://www.medscape.com)
+ - date published: 2023-12-24T05:42:24.273164+00:00
+ - user: None
+ - tags: []
+
+## Medtronic: Diabetes Products And Therapy Options
+ - [https://www.medtronicdiabetes.com](https://www.medtronicdiabetes.com)
+ - date published: 2023-10-25T16:00:54.033785+00:00
+ - user: None
+ - tags: []
+
+## Medusa - Building blocks for digital commerce
+ - [https://medusajs.com](https://medusajs.com)
+ - date published: 2023-10-25T16:00:55.967703+00:00
+ - user: None
+ - tags: []
+
+## Cala
+ - [https://meetcala.com](https://meetcala.com)
+ - date published: 2023-10-25T16:00:56.677728+00:00
+ - user: None
+ - tags: []
+
+## The Personal Website of Ryan Flowers
+ - [https://meetryanflowers.com](https://meetryanflowers.com)
+ - date published: 2023-10-25T16:01:02.314254+00:00
+ - user: None
+ - tags: []
+
+## retrocogs.mega65.com – Coding for the Mega65
+ - [https://retrocogs.mega65.com](https://retrocogs.mega65.com)
+ - date published: 2023-10-25T16:01:05.819512+00:00
+ - user: None
+ - tags: []
+
+## MegaGames - Game Trainers, Cheats, Mods, Fixes, News and Videos for Games
+ - [https://megagames.com](https://megagames.com)
+ - date published: 2023-10-28T20:42:34.051738+00:00
+ - user: None
+ - tags: ['game trainer']
+
+## Meilisearch Blog
+ - [https://blog.meilisearch.com](https://blog.meilisearch.com)
+ - date published: 2023-10-25T16:01:07.153377+00:00
+ - user: None
+ - tags: []
+
+## Mel's Loop - A Comprehensive Guide to The Story of Mel - Home
+ - [https://melsloop.com](https://melsloop.com)
+ - date published: 2023-10-25T16:01:08.821031+00:00
+ - user: None
+ - tags: []
+
+## under the hood - Meltwater Engineering Blog
+ - [https://underthehood.meltwater.com](https://underthehood.meltwater.com)
+ - date published: 2023-10-25T16:01:09.708869+00:00
+ - user: None
+ - tags: []
+
+## MemComputing
+ - [https://www.memcpu.com](https://www.memcpu.com)
+ - date published: 2023-10-25T16:01:11.671773+00:00
+ - user: None
+ - tags: []
+
+## Interrupt | A community and blog for embedded software makers
+ - [https://interrupt.memfault.com](https://interrupt.memfault.com)
+ - date published: 2023-10-25T16:01:12.834761+00:00
+ - user: None
+ - tags: []
+
+## Memgraph
+ - [https://memgraph.com](https://memgraph.com)
+ - date published: 2023-10-25T16:01:14.733318+00:00
+ - user: None
+ - tags: []
+
 ## Mennohenselmans.com - Online PT Course, Articles and Online Coaching
  - [https://mennohenselmans.com](https://mennohenselmans.com)
  - date published: 2023-10-25T16:01:16.510740+00:00
@@ -315,6 +459,12 @@
  - date published: 2023-10-25T11:25:58.094244+00:00
  - user: None
  - tags: []
+
+## Mia Hopkins
+ - [https://www.miahopkinsauthor.com](https://www.miahopkinsauthor.com)
+ - date published: 2023-12-29T03:11:52.770398+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Miami Breaking News, Sports, Crime & More | Miami Herald
  - [https://www.miamiherald.com](https://www.miamiherald.com)
@@ -1228,6 +1378,12 @@
  - user: None
  - tags: []
 
+## Monty Harper
+ - [https://montyharper.com](https://montyharper.com)
+ - date published: 2023-12-29T20:11:28.121829+00:00
+ - user: None
+ - tags: ['personal']
+
 ## https://www.montypython.com
  - [https://www.montypython.com](https://www.montypython.com)
  - date published: 2023-10-30T10:51:43.445860+00:00
@@ -1971,6 +2127,12 @@
  - date published: 2023-10-25T16:11:46.782249+00:00
  - user: None
  - tags: ['science', 'articles', 'culture', 'nature']
+
+## National Grid
+ - [https://www.nationalgrid.com](https://www.nationalgrid.com)
+ - date published: 2023-12-29T17:09:33.416207+00:00
+ - user: None
+ - tags: []
 
 ## National Journal
  - [https://www.nationaljournal.com](https://www.nationaljournal.com)
@@ -4347,6 +4509,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Open Source For You | Open Source Updates
+ - [https://www.opensourceforu.com](https://www.opensourceforu.com)
+ - date published: 2023-12-29T05:15:37.272678+00:00
+ - user: None
+ - tags: []
+
 ## OpenSSH
  - [https://www.openssh.com](https://www.openssh.com)
  - date published: 2023-10-25T08:32:56.764937+00:00
@@ -5833,177 +6001,6 @@ Answering Machine Greetings!
 ## https://phind.com
  - [https://phind.com](https://phind.com)
  - date published: 2023-10-25T16:34:07.856025+00:00
- - user: None
- - tags: []
-
-## https://www.phind.com
- - [https://www.phind.com](https://www.phind.com)
- - date published: 2023-10-25T16:34:08.146703+00:00
- - user: None
- - tags: []
-
-## Phoenix New Times | The Leading Independent News Source in Phoenix, Arizona
- - [https://www.phoenixnewtimes.com](https://www.phoenixnewtimes.com)
- - date published: 2023-11-23T22:14:37.035277+00:00
- - user: None
- - tags: []
-
-## Phoenix and Elixir for Ruby on Rails developers
- · Phoenix on Rails
- - [https://phoenixonrails.com](https://phoenixonrails.com)
- - date published: 2023-10-25T16:34:09.532839+00:00
- - user: None
- - tags: []
-
-## PhoneArena | Phone News, Reviews, Deals and Specs
- - [https://www.phonearena.com](https://www.phonearena.com)
- - date published: 2023-10-25T10:14:53.382529+00:00
- - user: None
- - tags: []
-
-## Phone Scoop
- - [https://www.phonescoop.com](https://www.phonescoop.com)
- - date published: 2023-10-25T16:34:12.198914+00:00
- - user: None
- - tags: []
-
-## Linux Hardware Reviews & Performance Benchmarks, Open-Source News - Phoronix
- - [https://www.phoronix.com](https://www.phoronix.com)
- - date published: 2023-10-25T09:34:52.687128+00:00
- - user: None
- - tags: ['tech news', 'open source', 'linux']
-
-## Photopea | Online Photo Editor
- - [https://www.photopea.com](https://www.photopea.com)
- - date published: 2023-10-25T16:34:13.576672+00:00
- - user: None
- - tags: []
-
-## The Photographer's Newsletter
-    
-         - Information & Inspiration For Photogs
- - [https://www.photoroo.com](https://www.photoroo.com)
- - date published: 2023-10-25T16:34:15.007380+00:00
- - user: None
- - tags: []
-
-## AI Photo Editing: Remove Background & Create Product Pics | PhotoRoom
- - [https://www.photoroom.com](https://www.photoroom.com)
- - date published: 2023-10-25T16:34:17.644739+00:00
- - user: None
- - tags: []
-
-## phpBB • Free and Open Source Forum Software
- - [https://phpbb.com](https://phpbb.com)
- - date published: 2023-12-13T16:04:04.243437+00:00
- - user: None
- - tags: ['selfhost']
-
-## phpBB • Free and Open Source Forum Software
- - [https://www.phpbb.com](https://www.phpbb.com)
- - date published: 2023-10-25T08:30:34.828095+00:00
- - user: None
- - tags: []
-
-## Phronemophobic's Blog
- - [https://blog.phronemophobic.com](https://blog.phronemophobic.com)
- - date published: 2023-10-25T16:34:18.995437+00:00
- - user: None
- - tags: []
-
-## Blog By Physics-Astronomy
- - [https://blog.physics-astronomy.com](https://blog.physics-astronomy.com)
- - date published: 2023-10-25T16:34:22.769337+00:00
- - user: None
- - tags: []
-
-## Physics & Maths Tutor
- - [https://www.physicsandmathstutor.com](https://www.physicsandmathstutor.com)
- - date published: 2023-10-25T16:34:25.911179+00:00
- - user: None
- - tags: []
-
-## Pick a Direction - How do you expect to finish if you never start?
- - [https://pickadirection.com](https://pickadirection.com)
- - date published: 2023-12-27T01:10:03.415030+00:00
- - user: None
- - tags: ['personal']
-
-## PiCockpit
- - [https://picockpit.com](https://picockpit.com)
- - date published: 2023-10-25T16:34:27.996274+00:00
- - user: None
- - tags: []
-
-## PicoLisp Blog
- - [https://picolisp-explored.com](https://picolisp-explored.com)
- - date published: 2023-10-25T16:34:34.579154+00:00
- - user: None
- - tags: []
-
-## PICO Virtual Reality | Official Website | PICO Global
- - [https://www.picoxr.com](https://www.picoxr.com)
- - date published: 2023-10-31T13:12:33.032092+00:00
- - user: None
- - tags: ['virtual reality']
-
-## Pietro Rea
- - [https://pietrorea.com](https://pietrorea.com)
- - date published: 2023-10-25T16:34:36.288257+00:00
- - user: None
- - tags: []
-
-## Pietro Rea
- - [https://www.pietrorea.com](https://www.pietrorea.com)
- - date published: 2023-10-25T16:34:45.291873+00:00
- - user: None
- - tags: []
-
-## ShanDong Tengyue Shangqingtai Agriculture And Animal Husbandry Machinery Technology Co., Ltd.
- - [https://www.pigfarmequipments.com](https://www.pigfarmequipments.com)
- - date published: 2023-11-22T11:04:42.133720+00:00
- - user: None
- - tags: []
-
-## Automate your marketing visuals using Figma
- - [https://pikmaker.com](https://pikmaker.com)
- - date published: 2023-10-25T16:34:47.831381+00:00
- - user: None
- - tags: []
-
-## Pikuma: Fundamentals of computer science and mathematics
- - [https://pikuma.com](https://pikuma.com)
- - date published: 2023-10-25T16:34:51.221525+00:00
- - user: None
- - tags: []
-
-## Tech-Tutorials, Howtos and buying advice
- - [https://pilabor.com](https://pilabor.com)
- - date published: 2023-10-25T16:34:53.491317+00:00
- - user: None
- - tags: []
-
-## The Pillar
- - [https://www.pillarcatholic.com](https://www.pillarcatholic.com)
- - date published: 2023-10-25T16:34:54.561047+00:00
- - user: None
- - tags: []
-
-## PillPack - Pharmacy Simplified
- - [https://www.pillpack.com](https://www.pillpack.com)
- - date published: 2023-10-25T16:34:55.621297+00:00
- - user: None
- - tags: []
-
-## Pilot | Bookkeeping, tax, & CFO services for startups & small businesses
- - [https://pilot.com](https://pilot.com)
- - date published: 2023-10-25T16:35:02.377356+00:00
- - user: None
- - tags: []
-
-## Aviation School: Free & Paid Pilot Training Classes - Pilot Institute
- - [https://pilotinstitute.com](https://pilotinstitute.com)
- - date published: 2023-10-25T16:35:03.645931+00:00
  - user: None
  - tags: []
 

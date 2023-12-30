@@ -1,3 +1,174 @@
+## https://www.phind.com
+ - [https://www.phind.com](https://www.phind.com)
+ - date published: 2023-10-25T16:34:08.146703+00:00
+ - user: None
+ - tags: []
+
+## Phoenix New Times | The Leading Independent News Source in Phoenix, Arizona
+ - [https://www.phoenixnewtimes.com](https://www.phoenixnewtimes.com)
+ - date published: 2023-11-23T22:14:37.035277+00:00
+ - user: None
+ - tags: []
+
+## Phoenix and Elixir for Ruby on Rails developers
+ · Phoenix on Rails
+ - [https://phoenixonrails.com](https://phoenixonrails.com)
+ - date published: 2023-10-25T16:34:09.532839+00:00
+ - user: None
+ - tags: []
+
+## PhoneArena | Phone News, Reviews, Deals and Specs
+ - [https://www.phonearena.com](https://www.phonearena.com)
+ - date published: 2023-10-25T10:14:53.382529+00:00
+ - user: None
+ - tags: []
+
+## Phone Scoop
+ - [https://www.phonescoop.com](https://www.phonescoop.com)
+ - date published: 2023-10-25T16:34:12.198914+00:00
+ - user: None
+ - tags: []
+
+## Linux Hardware Reviews & Performance Benchmarks, Open-Source News - Phoronix
+ - [https://www.phoronix.com](https://www.phoronix.com)
+ - date published: 2023-10-25T09:34:52.687128+00:00
+ - user: None
+ - tags: ['tech news', 'open source', 'linux']
+
+## Photopea | Online Photo Editor
+ - [https://www.photopea.com](https://www.photopea.com)
+ - date published: 2023-10-25T16:34:13.576672+00:00
+ - user: None
+ - tags: []
+
+## The Photographer's Newsletter
+    
+         - Information & Inspiration For Photogs
+ - [https://www.photoroo.com](https://www.photoroo.com)
+ - date published: 2023-10-25T16:34:15.007380+00:00
+ - user: None
+ - tags: []
+
+## AI Photo Editing: Remove Background & Create Product Pics | PhotoRoom
+ - [https://www.photoroom.com](https://www.photoroom.com)
+ - date published: 2023-10-25T16:34:17.644739+00:00
+ - user: None
+ - tags: []
+
+## phpBB • Free and Open Source Forum Software
+ - [https://phpbb.com](https://phpbb.com)
+ - date published: 2023-12-13T16:04:04.243437+00:00
+ - user: None
+ - tags: ['selfhost']
+
+## phpBB • Free and Open Source Forum Software
+ - [https://www.phpbb.com](https://www.phpbb.com)
+ - date published: 2023-10-25T08:30:34.828095+00:00
+ - user: None
+ - tags: []
+
+## Phronemophobic's Blog
+ - [https://blog.phronemophobic.com](https://blog.phronemophobic.com)
+ - date published: 2023-10-25T16:34:18.995437+00:00
+ - user: None
+ - tags: []
+
+## Blog By Physics-Astronomy
+ - [https://blog.physics-astronomy.com](https://blog.physics-astronomy.com)
+ - date published: 2023-10-25T16:34:22.769337+00:00
+ - user: None
+ - tags: []
+
+## Physics & Maths Tutor
+ - [https://www.physicsandmathstutor.com](https://www.physicsandmathstutor.com)
+ - date published: 2023-10-25T16:34:25.911179+00:00
+ - user: None
+ - tags: []
+
+## Pick a Direction - How do you expect to finish if you never start?
+ - [https://pickadirection.com](https://pickadirection.com)
+ - date published: 2023-12-27T01:10:03.415030+00:00
+ - user: None
+ - tags: ['personal']
+
+## PiCockpit
+ - [https://picockpit.com](https://picockpit.com)
+ - date published: 2023-10-25T16:34:27.996274+00:00
+ - user: None
+ - tags: []
+
+## PicoLisp Blog
+ - [https://picolisp-explored.com](https://picolisp-explored.com)
+ - date published: 2023-10-25T16:34:34.579154+00:00
+ - user: None
+ - tags: []
+
+## PICO Virtual Reality | Official Website | PICO Global
+ - [https://www.picoxr.com](https://www.picoxr.com)
+ - date published: 2023-10-31T13:12:33.032092+00:00
+ - user: None
+ - tags: ['virtual reality']
+
+## Pietro Rea
+ - [https://pietrorea.com](https://pietrorea.com)
+ - date published: 2023-10-25T16:34:36.288257+00:00
+ - user: None
+ - tags: []
+
+## Pietro Rea
+ - [https://www.pietrorea.com](https://www.pietrorea.com)
+ - date published: 2023-10-25T16:34:45.291873+00:00
+ - user: None
+ - tags: []
+
+## ShanDong Tengyue Shangqingtai Agriculture And Animal Husbandry Machinery Technology Co., Ltd.
+ - [https://www.pigfarmequipments.com](https://www.pigfarmequipments.com)
+ - date published: 2023-11-22T11:04:42.133720+00:00
+ - user: None
+ - tags: []
+
+## Automate your marketing visuals using Figma
+ - [https://pikmaker.com](https://pikmaker.com)
+ - date published: 2023-10-25T16:34:47.831381+00:00
+ - user: None
+ - tags: []
+
+## Pikuma: Fundamentals of computer science and mathematics
+ - [https://pikuma.com](https://pikuma.com)
+ - date published: 2023-10-25T16:34:51.221525+00:00
+ - user: None
+ - tags: []
+
+## Tech-Tutorials, Howtos and buying advice
+ - [https://pilabor.com](https://pilabor.com)
+ - date published: 2023-10-25T16:34:53.491317+00:00
+ - user: None
+ - tags: []
+
+## The Pillar
+ - [https://www.pillarcatholic.com](https://www.pillarcatholic.com)
+ - date published: 2023-10-25T16:34:54.561047+00:00
+ - user: None
+ - tags: []
+
+## PillPack - Pharmacy Simplified
+ - [https://www.pillpack.com](https://www.pillpack.com)
+ - date published: 2023-10-25T16:34:55.621297+00:00
+ - user: None
+ - tags: []
+
+## Pilot | Bookkeeping, tax, & CFO services for startups & small businesses
+ - [https://pilot.com](https://pilot.com)
+ - date published: 2023-10-25T16:35:02.377356+00:00
+ - user: None
+ - tags: []
+
+## Aviation School: Free & Paid Pilot Training Classes - Pilot Institute
+ - [https://pilotinstitute.com](https://pilotinstitute.com)
+ - date published: 2023-10-25T16:35:03.645931+00:00
+ - user: None
+ - tags: []
+
 ## The Virginian-Pilot - Virginia News, Sports, Weather, Business & Things to Do
  - [https://www.pilotonline.com](https://www.pilotonline.com)
  - date published: 2023-10-25T16:35:09.170323+00:00
@@ -3289,6 +3460,12 @@ More!
  - user: None
  - tags: ['personal']
 
+## None
+ - [https://robertfiorentino.com](https://robertfiorentino.com)
+ - date published: 2023-12-29T20:12:00.000799+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Robert Heaton
  - [https://robertheaton.com](https://robertheaton.com)
  - date published: 2023-10-25T16:52:38.686002+00:00
@@ -3775,6 +3952,12 @@ More!
  - user: None
  - tags: ['music band']
 
+## Roy Tanck
+ - [https://roytanck.com](https://roytanck.com)
+ - date published: 2023-12-29T16:24:36.355595+00:00
+ - user: None
+ - tags: []
+
 ## The Homepage of Ryan P. Flynn
  - [https://rpflynn.com](https://rpflynn.com)
  - date published: 2023-12-17T20:59:36.992817+00:00
@@ -3894,6 +4077,12 @@ More!
  - date published: 2023-10-25T16:55:34.323031+00:00
  - user: None
  - tags: []
+
+## Russell Turner | What I'm Up To
+ - [https://russbits.com](https://russbits.com)
+ - date published: 2023-12-29T20:10:59.764159+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Russell Beattie
  - [https://www.russellbeattie.com](https://www.russellbeattie.com)
@@ -4146,6 +4335,12 @@ More!
  - date published: 2023-10-30T15:37:09.133549+00:00
  - user: None
  - tags: ['music band']
+
+## Sam Rogers - Snap Synapse LLC | LinkedIn
+ - [https://sam-rogers.com](https://sam-rogers.com)
+ - date published: 2023-12-29T19:00:05.149583+00:00
+ - user: None
+ - tags: ['personal']
 
 ## SamaGame – The Gaming News Arena – English
  - [https://samagame.com](https://samagame.com)
@@ -4531,6 +4726,12 @@ More!
  - user: None
  - tags: []
 
+## schoolofworklife.com - Resources To Help You Self Direct Your WorkLife Learning
+ - [https://schoolofworklife.com](https://schoolofworklife.com)
+ - date published: 2023-12-29T19:00:29.094459+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Charles Schwab | A Modern Approach to Investing and Retirement Planning
  - [https://www.schwab.com](https://www.schwab.com)
  - date published: 2023-10-25T16:58:46.215643+00:00
@@ -4582,6 +4783,12 @@ More!
 ## Science Friday
  - [https://www.sciencefriday.com](https://www.sciencefriday.com)
  - date published: 2023-10-25T16:59:05.373137+00:00
+ - user: None
+ - tags: []
+
+## Science Shot: Professional Insights, Unique Perspectives.
+ - [https://www.scienceshot.com](https://www.scienceshot.com)
+ - date published: 2023-12-29T20:02:33.354446+00:00
  - user: None
  - tags: []
 
@@ -4834,6 +5041,12 @@ More!
 ## Sean Bonner
  - [https://blog.seanbonner.com](https://blog.seanbonner.com)
  - date published: 2023-12-17T05:07:08.820665+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sean Oliver: Marketer, Writer, Advisor
+ - [https://seaneoliver.com](https://seaneoliver.com)
+ - date published: 2023-12-29T03:10:44.041009+00:00
  - user: None
  - tags: ['personal']
 
@@ -5605,6 +5818,12 @@ More!
  - user: None
  - tags: ['music band']
 
+## I’m Si Jobling
+ - [https://sijobling.com](https://sijobling.com)
+ - date published: 2023-12-29T20:11:11.172281+00:00
+ - user: None
+ - tags: ['personal']
+
 ## SILENT COMICS
  - [https://silentcomics.com](https://silentcomics.com)
  - date published: 2023-11-29T17:08:46.324906+00:00
@@ -5790,221 +6009,4 @@ More!
  - date published: 2023-10-25T17:05:01.970721+00:00
  - user: None
  - tags: []
-
-## Complete the Pattern (blank)..
- - [https://singingfiles.com](https://singingfiles.com)
- - date published: 2023-12-23T10:22:28.402106+00:00
- - user: None
- - tags: []
-
-## Home - Singularity Hub
- - [https://singularityhub.com](https://singularityhub.com)
- - date published: 2023-10-25T17:05:04.668985+00:00
- - user: None
- - tags: []
-
-## sipeed 矽速科技 官网
- - [https://sipeed.com](https://sipeed.com)
- - date published: 2023-10-25T17:05:07.136550+00:00
- - user: None
- - tags: []
-
-## Simon Eskildsen - Sirupsen
- - [https://sirupsen.com](https://sirupsen.com)
- - date published: 2023-10-25T17:05:08.760756+00:00
- - user: None
- - tags: []
-
-## SitePoint – Learn HTML, CSS, JavaScript, PHP, UX & Responsive Design
- - [https://www.sitepoint.com](https://www.sitepoint.com)
- - date published: 2023-10-25T17:05:11.503452+00:00
- - user: None
- - tags: []
-
-## Six Colors – Apple, technology, and other stuff by Jason Snell & Dan Moren
- - [https://sixcolors.com](https://sixcolors.com)
- - date published: 2023-10-25T17:05:14.070957+00:00
- - user: None
- - tags: []
-
-## Six Degrees of Wikipedia
- - [https://www.sixdegreesofwikipedia.com](https://www.sixdegreesofwikipedia.com)
- - date published: 2023-12-20T20:26:43+00:00
- - user: None
- - tags: []
-
-## Python web application development and cloud management services
- - [https://sixfeetup.com](https://sixfeetup.com)
- - date published: 2023-10-25T17:05:25.383126+00:00
- - user: None
- - tags: []
-
-## The State Journal-Register: Local News, Politics & Sports in Springfield, IL
- - [https://www.sj-r.com](https://www.sj-r.com)
- - date published: 2023-10-27T11:55:41.059970+00:00
- - user: None
- - tags: []
-
-## skagmo.com
- - [https://skagmo.com](https://skagmo.com)
- - date published: 2023-10-27T11:55:42.413804+00:00
- - user: None
- - tags: []
-
-## Stanislav (Stas) Katkov
- - [https://skatkov.com](https://skatkov.com)
- - date published: 2023-12-26T19:10:06.720403+00:00
- - user: None
- - tags: ['personal']
-
-## Sketchfab - The best 3D viewer on the web
- - [https://sketchfab.com](https://sketchfab.com)
- - date published: 2023-10-27T10:26:31.358910+00:00
- - user: None
- - tags: ['assets models', '3d printing']
-
-## 3D Warehouse
- - [https://3dwarehouse.sketchup.com](https://3dwarehouse.sketchup.com)
- - date published: 2023-10-27T10:30:39.685349+00:00
- - user: None
- - tags: ['assets models', '3d printing']
-
-## Skiff - Private, encrypted, secure email - 10 GB free
- - [https://skiff.com](https://skiff.com)
- - date published: 2023-10-25T17:05:52.635675+00:00
- - user: None
- - tags: []
-
-## https://www.skillshare.com
- - [https://www.skillshare.com](https://www.skillshare.com)
- - date published: 2023-10-24T20:19:37.469993+00:00
- - user: None
- - tags: ['tutorial']
-
-## skio: subscriptions for shopify
- - [https://skio.com](https://skio.com)
- - date published: 2023-10-25T17:05:56.544814+00:00
- - user: None
- - tags: []
-
-## Welcome to Skippy.com - Home of Percy Crosby's lovable "Skippy" character
- - [http://www.skippy.com](http://www.skippy.com)
- - date published: 2023-10-25T17:05:57.442936+00:00
- - user: None
- - tags: []
-
-## Škoda Auto a.s. | The International Website
- - [https://skoda-auto.com](https://skoda-auto.com)
- - date published: 2023-11-03T13:13:05.594047+00:00
- - user: None
- - tags: ['car producer']
-
-## Skorks
- - [https://skorks.com](https://skorks.com)
- - date published: 2023-10-25T17:05:59.705764+00:00
- - user: None
- - tags: []
-
-## Skrillex | Official Website
- - [https://www.skrillex.com](https://www.skrillex.com)
- - date published: 2023-11-13T09:55:50.781194+00:00
- - user: None
- - tags: ['music band']
-
-## Mobile solutions for warehousing, fulfillment, and shipping | SKUSavvy
- - [https://skusavvy.com](https://skusavvy.com)
- - date published: 2023-10-25T17:06:01.743430+00:00
- - user: None
- - tags: []
-
-## The Latest News from the UK and Around the World | Sky News
- - [https://news.sky.com](https://news.sky.com)
- - date published: 2023-10-25T10:28:27.420874+00:00
- - user: None
- - tags: []
-
-## The Elder Scrolls: Skyblivion
- - [https://skyblivion.com](https://skyblivion.com)
- - date published: 2023-10-25T11:10:12.987130+00:00
- - user: None
- - tags: []
-
-## Commercial High Resolution Satellite Imagery and Video | SkyFi
- - [https://www.skyfi.com](https://www.skyfi.com)
- - date published: 2023-10-25T17:06:03.208902+00:00
- - user: None
- - tags: []
-
-## Sky Sports - Sports News, Transfers, Scores | Watch Live Sport
- - [https://www.skysports.com](https://www.skysports.com)
- - date published: 2023-10-25T17:06:08.924160+00:00
- - user: None
- - tags: []
-
-## Slack is your productivity platform
- - [https://slack.com](https://slack.com)
- - date published: 2023-10-24T20:12:43.324913+00:00
- - user: None
- - tags: []
-
-## Slack System Status
- - [https://status.slack.com](https://status.slack.com)
- - date published: 2023-10-25T17:06:09.862444+00:00
- - user: None
- - tags: []
-
-## The Slackware Linux Project
- - [https://www.slackware.com](https://www.slackware.com)
- - date published: 2023-11-06T10:09:19.255807+00:00
- - user: None
- - tags: ['linux', 'operating system']
-
-## SlashGear | Tech, Cars, Gaming, Science, & Reviews
- - [https://www.slashgear.com](https://www.slashgear.com)
- - date published: 2023-10-25T17:06:11.913148+00:00
- - user: None
- - tags: []
-
-## Complete Generative AI Security for Email, Mobile, and Browser |SlashNext
- - [https://slashnext.com](https://slashnext.com)
- - date published: 2023-10-25T17:06:16.257225+00:00
- - user: None
- - tags: []
-
-## Slate Magazine - Politics, Business, Technology, and the Arts
- - [https://slate.com](https://slate.com)
- - date published: 2023-10-25T17:06:19.739710+00:00
- - user: None
- - tags: []
-
-## Slate Star Codex
- - [https://slatestarcodex.com](https://slatestarcodex.com)
- - date published: 2023-10-25T17:06:24.862643+00:00
- - user: None
- - tags: []
-
-## sligocki
- - [https://www.sligocki.com](https://www.sligocki.com)
- - date published: 2023-10-25T17:06:31.034022+00:00
- - user: None
- - tags: []
-
-## SLIME MOLD TIME MOLD – Mad Science Blogging
- - [https://slimemoldtimemold.com](https://slimemoldtimemold.com)
- - date published: 2023-10-25T17:06:37.146392+00:00
- - user: None
- - tags: []
-
-## Slint |
-            Declarative GUI for Rust, C++ & JavaScript
- - [https://slint-ui.com](https://slint-ui.com)
- - date published: 2023-10-25T17:06:38.502399+00:00
- - user: None
- - tags: []
-
-## Home — Slipknot
- - [https://slipknot1.com](https://slipknot1.com)
- - date published: 2023-11-13T12:54:18.471783+00:00
- - user: None
- - tags: ['music band']
 

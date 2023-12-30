@@ -1,3 +1,226 @@
+## Complete the Pattern (blank)..
+ - [https://singingfiles.com](https://singingfiles.com)
+ - date published: 2023-12-23T10:22:28.402106+00:00
+ - user: None
+ - tags: []
+
+## Home - Singularity Hub
+ - [https://singularityhub.com](https://singularityhub.com)
+ - date published: 2023-10-25T17:05:04.668985+00:00
+ - user: None
+ - tags: []
+
+## sipeed 矽速科技 官网
+ - [https://sipeed.com](https://sipeed.com)
+ - date published: 2023-10-25T17:05:07.136550+00:00
+ - user: None
+ - tags: []
+
+## Simon Eskildsen - Sirupsen
+ - [https://sirupsen.com](https://sirupsen.com)
+ - date published: 2023-10-25T17:05:08.760756+00:00
+ - user: None
+ - tags: []
+
+## SitePoint – Learn HTML, CSS, JavaScript, PHP, UX & Responsive Design
+ - [https://www.sitepoint.com](https://www.sitepoint.com)
+ - date published: 2023-10-25T17:05:11.503452+00:00
+ - user: None
+ - tags: []
+
+## Six Colors – Apple, technology, and other stuff by Jason Snell & Dan Moren
+ - [https://sixcolors.com](https://sixcolors.com)
+ - date published: 2023-10-25T17:05:14.070957+00:00
+ - user: None
+ - tags: []
+
+## Six Degrees of Wikipedia
+ - [https://www.sixdegreesofwikipedia.com](https://www.sixdegreesofwikipedia.com)
+ - date published: 2023-12-20T20:26:43+00:00
+ - user: None
+ - tags: []
+
+## Python web application development and cloud management services
+ - [https://sixfeetup.com](https://sixfeetup.com)
+ - date published: 2023-10-25T17:05:25.383126+00:00
+ - user: None
+ - tags: []
+
+## The State Journal-Register: Local News, Politics & Sports in Springfield, IL
+ - [https://www.sj-r.com](https://www.sj-r.com)
+ - date published: 2023-10-27T11:55:41.059970+00:00
+ - user: None
+ - tags: []
+
+## The San Joaquin Valley Sun - Central Valley breaking news, sports, lifestyle, and agriculture
+ - [https://sjvsun.com](https://sjvsun.com)
+ - date published: 2023-12-29T09:35:40.857966+00:00
+ - user: None
+ - tags: []
+
+## skagmo.com
+ - [https://skagmo.com](https://skagmo.com)
+ - date published: 2023-10-27T11:55:42.413804+00:00
+ - user: None
+ - tags: []
+
+## Stanislav (Stas) Katkov
+ - [https://skatkov.com](https://skatkov.com)
+ - date published: 2023-12-26T19:10:06.720403+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sketchfab - The best 3D viewer on the web
+ - [https://sketchfab.com](https://sketchfab.com)
+ - date published: 2023-10-27T10:26:31.358910+00:00
+ - user: None
+ - tags: ['assets models', '3d printing']
+
+## 3D Warehouse
+ - [https://3dwarehouse.sketchup.com](https://3dwarehouse.sketchup.com)
+ - date published: 2023-10-27T10:30:39.685349+00:00
+ - user: None
+ - tags: ['assets models', '3d printing']
+
+## Skiff - Private, encrypted, secure email - 10 GB free
+ - [https://skiff.com](https://skiff.com)
+ - date published: 2023-10-25T17:05:52.635675+00:00
+ - user: None
+ - tags: []
+
+## https://www.skillshare.com
+ - [https://www.skillshare.com](https://www.skillshare.com)
+ - date published: 2023-10-24T20:19:37.469993+00:00
+ - user: None
+ - tags: ['tutorial']
+
+## skio: subscriptions for shopify
+ - [https://skio.com](https://skio.com)
+ - date published: 2023-10-25T17:05:56.544814+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Skippy.com - Home of Percy Crosby's lovable "Skippy" character
+ - [http://www.skippy.com](http://www.skippy.com)
+ - date published: 2023-10-25T17:05:57.442936+00:00
+ - user: None
+ - tags: []
+
+## Škoda Auto a.s. | The International Website
+ - [https://skoda-auto.com](https://skoda-auto.com)
+ - date published: 2023-11-03T13:13:05.594047+00:00
+ - user: None
+ - tags: ['car producer']
+
+## Skorks
+ - [https://skorks.com](https://skorks.com)
+ - date published: 2023-10-25T17:05:59.705764+00:00
+ - user: None
+ - tags: []
+
+## Skrillex | Official Website
+ - [https://www.skrillex.com](https://www.skrillex.com)
+ - date published: 2023-11-13T09:55:50.781194+00:00
+ - user: None
+ - tags: ['music band']
+
+## Mobile solutions for warehousing, fulfillment, and shipping | SKUSavvy
+ - [https://skusavvy.com](https://skusavvy.com)
+ - date published: 2023-10-25T17:06:01.743430+00:00
+ - user: None
+ - tags: []
+
+## The Latest News from the UK and Around the World | Sky News
+ - [https://news.sky.com](https://news.sky.com)
+ - date published: 2023-10-25T10:28:27.420874+00:00
+ - user: None
+ - tags: []
+
+## The Elder Scrolls: Skyblivion
+ - [https://skyblivion.com](https://skyblivion.com)
+ - date published: 2023-10-25T11:10:12.987130+00:00
+ - user: None
+ - tags: []
+
+## Commercial High Resolution Satellite Imagery and Video | SkyFi
+ - [https://www.skyfi.com](https://www.skyfi.com)
+ - date published: 2023-10-25T17:06:03.208902+00:00
+ - user: None
+ - tags: []
+
+## Sky Sports - Sports News, Transfers, Scores | Watch Live Sport
+ - [https://www.skysports.com](https://www.skysports.com)
+ - date published: 2023-10-25T17:06:08.924160+00:00
+ - user: None
+ - tags: []
+
+## Slack is your productivity platform
+ - [https://slack.com](https://slack.com)
+ - date published: 2023-10-24T20:12:43.324913+00:00
+ - user: None
+ - tags: []
+
+## Slack System Status
+ - [https://status.slack.com](https://status.slack.com)
+ - date published: 2023-10-25T17:06:09.862444+00:00
+ - user: None
+ - tags: []
+
+## The Slackware Linux Project
+ - [https://www.slackware.com](https://www.slackware.com)
+ - date published: 2023-11-06T10:09:19.255807+00:00
+ - user: None
+ - tags: ['linux', 'operating system']
+
+## SlashGear | Tech, Cars, Gaming, Science, & Reviews
+ - [https://www.slashgear.com](https://www.slashgear.com)
+ - date published: 2023-10-25T17:06:11.913148+00:00
+ - user: None
+ - tags: []
+
+## Complete Generative AI Security for Email, Mobile, and Browser |SlashNext
+ - [https://slashnext.com](https://slashnext.com)
+ - date published: 2023-10-25T17:06:16.257225+00:00
+ - user: None
+ - tags: []
+
+## Slate Magazine - Politics, Business, Technology, and the Arts
+ - [https://slate.com](https://slate.com)
+ - date published: 2023-10-25T17:06:19.739710+00:00
+ - user: None
+ - tags: []
+
+## Slate Star Codex
+ - [https://slatestarcodex.com](https://slatestarcodex.com)
+ - date published: 2023-10-25T17:06:24.862643+00:00
+ - user: None
+ - tags: []
+
+## sligocki
+ - [https://www.sligocki.com](https://www.sligocki.com)
+ - date published: 2023-10-25T17:06:31.034022+00:00
+ - user: None
+ - tags: []
+
+## SLIME MOLD TIME MOLD – Mad Science Blogging
+ - [https://slimemoldtimemold.com](https://slimemoldtimemold.com)
+ - date published: 2023-10-25T17:06:37.146392+00:00
+ - user: None
+ - tags: []
+
+## Slint |
+            Declarative GUI for Rust, C++ & JavaScript
+ - [https://slint-ui.com](https://slint-ui.com)
+ - date published: 2023-10-25T17:06:38.502399+00:00
+ - user: None
+ - tags: []
+
+## Home — Slipknot
+ - [https://slipknot1.com](https://slipknot1.com)
+ - date published: 2023-11-13T12:54:18.471783+00:00
+ - user: None
+ - tags: ['music band']
+
 ## Home
  - [https://www.slipseer.com](https://www.slipseer.com)
  - date published: 2023-11-08T15:37:22.189671+00:00
@@ -231,6 +454,12 @@
  - date published: 2023-10-25T17:07:32.698557+00:00
  - user: None
  - tags: []
+
+## Marcos Arrivillaga
+ - [https://marcos.socraming.com](https://marcos.socraming.com)
+ - date published: 2023-12-29T03:11:34.370859+00:00
+ - user: None
+ - tags: ['personal']
 
 ## The Sofia Globe – Bulgaria’s independent English-language news and features website.
  - [https://sofiaglobe.com](https://sofiaglobe.com)
@@ -2758,6 +2987,12 @@
  - user: None
  - tags: ['substack']
 
+## The Personable Engineer | Fernando Villalba | Substack
+ - [https://fernandovillalba.substack.com](https://fernandovillalba.substack.com)
+ - date published: 2023-12-29T02:25:36.002765+00:00
+ - user: None
+ - tags: []
+
 ## The Forgotten Files | Peter Pappas | Substack
  - [https://forgottenfiles.substack.com](https://forgottenfiles.substack.com)
  - date published: 2023-10-25T11:46:05.435815+00:00
@@ -2769,6 +3004,12 @@
  - date published: 2023-10-25T11:46:17.171143+00:00
  - user: None
  - tags: ['substack']
+
+## Marcus on AI | Gary Marcus | Substack
+ - [https://garymarcus.substack.com](https://garymarcus.substack.com)
+ - date published: 2023-12-29T01:35:20.032814+00:00
+ - user: None
+ - tags: []
 
 ## https://generallyintelligent.substack.com
  - [https://generallyintelligent.substack.com](https://generallyintelligent.substack.com)
@@ -5756,246 +5997,6 @@
 ## The Ethical Skeptic - Challenging Pseudo-Skepticism, its Agency and Cultivated Ignorance
  - [https://theethicalskeptic.com](https://theethicalskeptic.com)
  - date published: 2023-10-25T17:32:27.140151+00:00
- - user: None
- - tags: []
-
-## The Eyewall
- - [https://theeyewall.com](https://theeyewall.com)
- - date published: 2023-10-26T23:03:38.216802+00:00
- - user: None
- - tags: []
-
-## Home - The Face
- - [https://theface.com](https://theface.com)
- - date published: 2023-10-25T17:32:30.737419+00:00
- - user: None
- - tags: []
-
-## The Fact Site | Fun & Interesting Facts
- - [https://www.thefactsite.com](https://www.thefactsite.com)
- - date published: 2023-10-25T17:32:48.524933+00:00
- - user: None
- - tags: []
-
-## The Federalist - Culture, Politics, Religion
- - [https://thefederalist.com](https://thefederalist.com)
- - date published: 2023-10-25T17:32:52.453047+00:00
- - user: None
- - tags: []
-
-## Delicious Vegan and Vegetarian Recipes – The Fiery Vegetarian
- - [https://www.thefieryvegetarian.com](https://www.thefieryvegetarian.com)
- - date published: 2023-12-22T18:54:46+00:00
- - user: None
- - tags: []
-
-## The Film Stage
- - [https://thefilmstage.com](https://thefilmstage.com)
- - date published: 2023-12-22T03:37:59.659840+00:00
- - user: None
- - tags: []
-
-## The Final Hop
- - [https://www.thefinalhop.com](https://www.thefinalhop.com)
- - date published: 2023-10-25T17:32:53.667976+00:00
- - user: None
- - tags: []
-
-## Home - The Financial Diet
- - [https://thefinancialdiet.com](https://thefinancialdiet.com)
- - date published: 2023-10-25T17:32:55.918295+00:00
- - user: None
- - tags: []
-
-## Fintech News & Reviews Daily | The Fintech Times
- - [https://thefintechtimes.com](https://thefintechtimes.com)
- - date published: 2023-10-25T17:32:58.805761+00:00
- - user: None
- - tags: []
-
-## The First News - entertaining, engaging and informative news on Poland
- - [https://www.thefirstnews.com](https://www.thefirstnews.com)
- - date published: 2023-12-20T11:04:56.371713+00:00
- - user: None
- - tags: []
-
-## The Fitzwilliam | Fitzwilliam Staff | Substack
- - [https://www.thefitzwilliam.com](https://www.thefitzwilliam.com)
- - date published: 2023-10-25T17:33:02.110637+00:00
- - user: None
- - tags: []
-
-## The Free Press
- - [https://www.thefp.com](https://www.thefp.com)
- - date published: 2023-10-25T17:33:05.546830+00:00
- - user: None
- - tags: []
-
-## Dictionary, Encyclopedia and Thesaurus - The Free Dictionary
- - [https://www.thefreedictionary.com](https://www.thefreedictionary.com)
- - date published: 2023-10-25T09:28:50.951090+00:00
- - user: None
- - tags: []
-
-## thefreethoughtproject.com
- - [https://thefreethoughtproject.com](https://thefreethoughtproject.com)
- - date published: 2023-10-25T17:33:10.910442+00:00
- - user: None
- - tags: []
-
-## The Fresh Loaf | A Community of Amateur Bakers and Artisan Bread Enthusiasts.
- - [https://www.thefreshloaf.com](https://www.thefreshloaf.com)
- - date published: 2023-10-25T17:33:13.762985+00:00
- - user: None
- - tags: []
-
-## Home - The Frugal Fellow
- - [https://www.thefrugalfellow.com](https://www.thefrugalfellow.com)
- - date published: 2023-11-29T15:45:07.512799+00:00
- - user: None
- - tags: ['personal']
-
-## TFW8b Retro Computer fan site. SD2IEC, divMMC Future & home of the C64p
- - [https://www.thefuturewas8bit.com](https://www.thefuturewas8bit.com)
- - date published: 2023-12-11T17:45:45.424239+00:00
- - user: None
- - tags: []
-
-## The Game Chamber | Board Games & Miniatures
- - [https://www.thegamechamber.com](https://www.thegamechamber.com)
- - date published: 2023-10-27T08:02:09.465547+00:00
- - user: None
- - tags: []
-
-## The Game Haus - Sports & Esports news, from our Haus to yours.
- - [https://thegamehaus.com](https://thegamehaus.com)
- - date published: 2023-10-25T10:50:18.776814+00:00
- - user: None
- - tags: []
-
-## The Gateway Pundit
- - [https://www.thegatewaypundit.com](https://www.thegatewaypundit.com)
- - date published: 2023-10-25T17:33:17.157623+00:00
- - user: None
- - tags: []
-
-## Marc Crouch - The Ginger Viking
- - [https://www.thegingerviking.com](https://www.thegingerviking.com)
- - date published: 2023-10-25T17:33:17.978121+00:00
- - user: None
- - tags: []
-
-## The Globe and Mail: Canadian, World, Politics and Business News & Analysis
- - [https://www.theglobeandmail.com](https://www.theglobeandmail.com)
- - date published: 2023-10-25T17:34:27.274173+00:00
- - user: None
- - tags: []
-
-## The Government Rag -
- - [https://thegovernmentrag.com](https://thegovernmentrag.com)
- - date published: 2023-10-25T17:34:35.516598+00:00
- - user: None
- - tags: []
-
-## The Grayzone - The Grayzone
- - [https://thegrayzone.com](https://thegrayzone.com)
- - date published: 2023-10-25T17:34:46.262866+00:00
- - user: None
- - tags: []
-
-## News, sport and opinion from the Guardian's Europe edition | The Guardian
- - [https://amp.theguardian.com](https://amp.theguardian.com)
- - date published: 2023-11-06T19:50:32.699604+00:00
- - user: None
- - tags: []
-
-## The Guardian digital design style guide
- - [https://design.theguardian.com](https://design.theguardian.com)
- - date published: 2023-11-07T17:48:30+00:00
- - user: None
- - tags: []
-
-## News, sport and opinion from the Guardian's Europe edition | The Guardian
- - [https://theguardian.com](https://theguardian.com)
- - date published: 2023-11-26T18:26:25.382762+00:00
- - user: None
- - tags: []
-
-## News, sport and opinion from the Guardian's Europe edition | The Guardian
- - [https://www.theguardian.com](https://www.theguardian.com)
- - date published: 2023-10-25T17:34:59.991351+00:00
- - user: None
- - tags: []
-
-## The Hacker News | #1 Trusted Cybersecurity News Site
- - [https://thehackernews.com](https://thehackernews.com)
- - date published: 2023-10-25T09:36:10.524213+00:00
- - user: None
- - tags: ['tech news']
-
-## The Happy Philosopher
- - [https://thehappyphilosopher.com](https://thehappyphilosopher.com)
- - date published: 2023-12-20T05:40:06.490901+00:00
- - user: None
- - tags: ['personal']
-
-## The Haul
- - [https://thehaul.com](https://thehaul.com)
- - date published: 2023-12-13T15:41:03.468757+00:00
- - user: None
- - tags: []
-
-## The HFT Guy – A developer in London
- - [https://thehftguy.com](https://thehftguy.com)
- - date published: 2023-10-25T17:35:02.811605+00:00
- - user: None
- - tags: []
-
-## The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill
- - [https://digital-dev.thehill.com](https://digital-dev.thehill.com)
- - date published: 2023-10-25T17:35:11.876851+00:00
- - user: None
- - tags: []
-
-## The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill
- - [https://thehill.com](https://thehill.com)
- - date published: 2023-10-25T10:28:58.558612+00:00
- - user: None
- - tags: []
-
-## Home - The Hilltop
- - [https://thehilltoponline.com](https://thehilltoponline.com)
- - date published: 2023-11-12T21:46:12.194115+00:00
- - user: None
- - tags: []
-
-## The Himalayan Times - Nepal's No.1 English Daily Newspaper | Nepal News, Latest Politics, Business, World, Sports, Entertainment, Travel, Life Style News
- - [https://thehimalayantimes.com](https://thehimalayantimes.com)
- - date published: 2023-11-13T13:38:25.834385+00:00
- - user: None
- - tags: []
-
-## Breaking News Today, Top Headlines, Live Updates | The Hindu
- - [https://www.thehindu.com](https://www.thehindu.com)
- - date published: 2023-10-25T10:45:05.654304+00:00
- - user: None
- - tags: []
-
-## Business Financial, Economy, Market, Stock - News & Updates | The Hindu BusinessLine
- - [https://www.thehindubusinessline.com](https://www.thehindubusinessline.com)
- - date published: 2023-10-25T17:35:19.405660+00:00
- - user: None
- - tags: []
-
-## The History Blog
- - [https://www.thehistoryblog.com](https://www.thehistoryblog.com)
- - date published: 2023-10-25T17:35:27.586648+00:00
- - user: None
- - tags: []
-
-## The History of the Web
- - [https://thehistoryoftheweb.com](https://thehistoryoftheweb.com)
- - date published: 2023-10-25T11:14:27.332034+00:00
  - user: None
  - tags: []
 

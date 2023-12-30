@@ -1,3 +1,15 @@
+## Education | David Fu's Website (aka davidthefu)
+ - [https://www.davidfu.co](https://www.davidfu.co)
+ - date published: 2023-12-21T18:50:47.818547+00:00
+ - user: None
+ - tags: ['personal']
+
+## Decrypt: AI, Bitcoin, Culture, Gaming, and Crypto News - Decrypt
+ - [https://decrypt.co](https://decrypt.co)
+ - date published: 2023-10-25T09:30:36.361891+00:00
+ - user: None
+ - tags: []
+
 ## Dilpreet Singh
  - [https://dilpreet.co](https://dilpreet.co)
  - date published: 2023-10-25T12:17:56.939252+00:00
@@ -183,6 +195,12 @@
  - date published: 2023-10-25T11:13:33.897425+00:00
  - user: None
  - tags: []
+
+## Learn With Me – A Resource for Mindful Living
+ - [https://learnwithme.co](https://learnwithme.co)
+ - date published: 2023-12-29T20:10:41.952123+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Lever | Recruiting Software for Today's Hiring Teams
  - [https://jobs.lever.co](https://jobs.lever.co)
@@ -4354,6 +4372,12 @@
  - user: None
  - tags: []
 
+## The world's best website for the the world’s best-selling astronomy magazine.
+ - [https://www.astronomy.com](https://www.astronomy.com)
+ - date published: 2023-12-29T14:20:32.421258+00:00
+ - user: None
+ - tags: []
+
 ## Tinker Board
  - [https://tinker-board.asus.com](https://tinker-board.asus.com)
  - date published: 2023-10-25T08:38:34.670910+00:00
@@ -5200,6 +5224,12 @@
  - user: None
  - tags: ['vip']
 
+## Barbarian Meets Coding
+ - [https://www.barbarianmeetscoding.com](https://www.barbarianmeetscoding.com)
+ - date published: 2023-12-29T03:12:20.530166+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Bare Bones Software | Welcome
  - [https://www.barebones.com](https://www.barebones.com)
  - date published: 2023-10-25T12:52:23.086024+00:00
@@ -5565,6 +5595,12 @@
  - date published: 2023-10-25T12:56:52.055674+00:00
  - user: None
  - tags: []
+
+## Simplify Your Life
+ - [https://bemorewithless.com](https://bemorewithless.com)
+ - date published: 2023-12-29T20:11:42.020820+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Be My Eyes - See the world together
  - [https://www.bemyeyes.com](https://www.bemyeyes.com)
@@ -5961,40 +5997,4 @@
  - date published: 2023-10-25T08:28:02+00:00
  - user: rumpel
  - tags: ['search engine', 'artificial intelligence', 'gatekeeper']
-
-## BingeHulu: Your Ultimate Hulu Binging Destination!
- - [https://www.bingehulu.com](https://www.bingehulu.com)
- - date published: 2023-11-10T15:00:07.542887+00:00
- - user: None
- - tags: []
-
-## Biofabrik: The Planet's Company – Circular Economy
- - [https://biofabrik.com](https://biofabrik.com)
- - date published: 2023-10-25T13:00:23.478111+00:00
- - user: None
- - tags: []
-
-## Bioinformatics Zen
- - [http://www.bioinformaticszen.com](http://www.bioinformaticszen.com)
- - date published: 2023-10-25T13:00:26.988105+00:00
- - user: None
- - tags: []
-
-## https://www.biologicalpsychiatryjournal.com
- - [https://www.biologicalpsychiatryjournal.com](https://www.biologicalpsychiatryjournal.com)
- - date published: 2023-11-19T12:19:19.289361+00:00
- - user: None
- - tags: []
-
-## Journals Gateway | The Company of Biologists
- - [https://journals.biologists.com](https://journals.biologists.com)
- - date published: 2023-11-06T05:14:46.381516+00:00
- - user: None
- - tags: []
-
-## BMC Biology
- - [https://bmcbiol.biomedcentral.com](https://bmcbiol.biomedcentral.com)
- - date published: 2023-11-11T09:33:57.954725+00:00
- - user: None
- - tags: []
 

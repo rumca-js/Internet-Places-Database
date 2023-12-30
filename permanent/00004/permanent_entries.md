@@ -1,3 +1,93 @@
+## The Full Stack
+ - [https://fullstackdeeplearning.com](https://fullstackdeeplearning.com)
+ - date published: 2023-10-25T14:39:35.486425+00:00
+ - user: None
+ - tags: []
+
+## Full Stack Economics | Timothy B Lee | Substack
+ - [https://www.fullstackeconomics.com](https://www.fullstackeconomics.com)
+ - date published: 2023-10-25T14:39:39.123373+00:00
+ - user: None
+ - tags: []
+
+## AI Test Automation with Machine Learning | Functionize
+ - [https://www.functionize.com](https://www.functionize.com)
+ - date published: 2023-10-25T14:39:43.665354+00:00
+ - user: None
+ - tags: []
+
+## FunctionTrace - human-oriented profiling for Python
+ - [https://functiontrace.com](https://functiontrace.com)
+ - date published: 2023-10-25T14:39:45.039373+00:00
+ - user: None
+ - tags: []
+
+## Fungai Creates – The Creative Journey of Fungai Tichawangana
+ - [https://fungaicreates.com](https://fungaicreates.com)
+ - date published: 2023-11-29T14:23:46.434681+00:00
+ - user: None
+ - tags: ['personal']
+
+## American Express
+ - [https://fungi.com](https://fungi.com)
+ - date published: 2023-10-25T14:39:47.684195+00:00
+ - user: None
+ - tags: []
+
+## Ain't it funny how the knight moves?
+ - [https://www.funnyhowtheknightmoves.com](https://www.funnyhowtheknightmoves.com)
+ - date published: 2023-10-25T14:39:54.444676+00:00
+ - user: None
+ - tags: []
+
+## Furbes
+ - [https://furbes.com](https://furbes.com)
+ - date published: 2023-11-10T00:50:03.270668+00:00
+ - user: None
+ - tags: []
+
+## Futility Closet
+ - [https://www.futilitycloset.com](https://www.futilitycloset.com)
+ - date published: 2023-11-10T09:07:41.167861+00:00
+ - user: None
+ - tags: []
+
+## Future | Understand the Future and How to Build It
+ - [https://future.com](https://future.com)
+ - date published: 2023-10-25T14:39:58.458173+00:00
+ - user: None
+ - tags: []
+
+## 3-2-1..Let's Jam! Emily's Cowboy Bebop Page
+ - [https://futureblues.com](https://futureblues.com)
+ - date published: 2023-10-25T14:40:05.297218+00:00
+ - user: None
+ - tags: []
+
+## Future Pinball
+ - [https://futurepinball.com](https://futurepinball.com)
+ - date published: 2023-10-25T14:40:08.222311+00:00
+ - user: None
+ - tags: []
+
+## Futurice, an outcome-focused digital transformation company
+ - [https://futurice.com](https://futurice.com)
+ - date published: 2023-10-25T14:40:11.459344+00:00
+ - user: None
+ - tags: []
+
+## Futurism | Science and Technology News and Videos
+ - [https://futurism.com](https://futurism.com)
+ - date published: 2023-10-25T14:40:14.917356+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Soccer video analysis from your match videos
+ - [https://futvis.com](https://futvis.com)
+ - date published: 2023-11-14T20:42:49+00:00
+ - user: None
+ - tags: []
+
 ## Mahmoud Mazouz
  - [https://fuzzypixelz.com](https://fuzzypixelz.com)
  - date published: 2023-10-25T14:40:16.267218+00:00
@@ -297,6 +387,12 @@
  - date published: 2023-10-25T14:41:51.269725+00:00
  - user: None
  - tags: []
+
+## Garrett Dimon
+ - [https://garrettdimon.com](https://garrettdimon.com)
+ - date published: 2023-12-29T19:00:40.931700+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Gartner | Delivering Actionable, Objective Insight to Executives and Their Teams
  - [https://www.gartner.com](https://www.gartner.com)
@@ -680,6 +776,12 @@
 ## Speak to a Doctor About a Rapamycin for Longevity Protocol and Prescription
  - [https://gethealthspan.com](https://gethealthspan.com)
  - date published: 2023-10-25T14:43:33.041708+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Inbox Zero – open-source email assistant
+ - [https://www.getinboxzero.com](https://www.getinboxzero.com)
+ - date published: 2023-12-29T20:22:26+00:00
  - user: None
  - tags: []
 
@@ -1173,6 +1275,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## ABC News - Breaking News, Latest News and Videos
  - [https://abcnews.go.com](https://abcnews.go.com)
  - date published: 2023-10-25T14:46:56.843829+00:00
+ - user: None
+ - tags: []
+
+## Football News, Live Scores, Results & Transfers | Goal.com
+ - [https://www.goal.com](https://www.goal.com)
+ - date published: 2023-12-29T23:12:55.512572+00:00
  - user: None
  - tags: []
 
@@ -2702,6 +2810,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-25T14:56:11.880636+00:00
  - user: None
  - tags: []
+
+## Home · Harrison Broadbent
+ - [https://harrisonbroadbent.com](https://harrisonbroadbent.com)
+ - date published: 2023-12-29T20:11:33.212756+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Home
  - [https://www.harrisvotes.com](https://www.harrisvotes.com)
@@ -4641,6 +4755,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Inside Edition
+ - [https://www.insideedition.com](https://www.insideedition.com)
+ - date published: 2023-12-29T04:40:41.317819+00:00
+ - user: None
+ - tags: []
+
 ## InsideEVs | Electric Vehicle News, Reviews, and Reports
  - [https://insideevs.com](https://insideevs.com)
  - date published: 2023-10-25T15:21:12.264565+00:00
@@ -5882,124 +6002,4 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-25T15:28:00.104721+00:00
  - user: None
  - tags: []
-
-## WHY EDIFY
- - [https://www.jeremyajorgensen.com](https://www.jeremyajorgensen.com)
- - date published: 2023-11-29T15:48:09.478619+00:00
- - user: None
- - tags: ['personal']
-
-## JEREMY DEPRISCO - JEREMY DEPRISCO
- - [https://www.jeremydeprisco.com](https://www.jeremydeprisco.com)
- - date published: 2023-11-17T10:12:35.173571+00:00
- - user: None
- - tags: ['personal']
-
-## Jeremy Howlett | Entrepreneur, Marketer, Philosopher, Husband and Dad
- - [https://jeremyhowlett.com](https://jeremyhowlett.com)
- - date published: 2023-11-29T17:16:32.441165+00:00
- - user: None
- - tags: ['personal']
-
-## Jeremy Jeziorski
- - [https://www.jeremyjeziorski.com](https://www.jeremyjeziorski.com)
- - date published: 2023-12-23T19:27:02.724013+00:00
- - user: None
- - tags: ['personal']
-
-## Math ∩ Programming
- - [https://jeremykun.com](https://jeremykun.com)
- - date published: 2023-10-25T15:28:05.702522+00:00
- - user: None
- - tags: []
-
-## Jeremy Mikkola - Home
- - [https://jeremymikkola.com](https://jeremymikkola.com)
- - date published: 2023-10-25T09:20:59.043607+00:00
- - user: None
- - tags: ['personal']
-
-## Jeremy's Programming Blog
- - [https://www.jeremymorgan.com](https://www.jeremymorgan.com)
- - date published: 2023-10-25T15:28:07.381699+00:00
- - user: None
- - tags: []
-
-## Jeremy's Blog
- - [https://www.jeremyong.com](https://www.jeremyong.com)
- - date published: 2023-10-25T15:28:08.983378+00:00
- - user: None
- - tags: []
-
-## Jer Lance (dot com)
- - [https://jerlance.com](https://jerlance.com)
- - date published: 2023-12-20T01:00:20.704273+00:00
- - user: None
- - tags: ['personal']
-
-## Juan Ernesto Blog
- - [https://www.jernesto.com](https://www.jernesto.com)
- - date published: 2023-10-25T15:28:10.434639+00:00
- - user: None
- - tags: []
-
-## Jerome Leroy | Composer
- - [https://www.jeromeleroy.com](https://www.jeromeleroy.com)
- - date published: 2023-10-25T08:46:34.625108+00:00
- - user: None
- - tags: ['personal']
-
-## Jerry Michalski
- - [https://www.jerrymichalski.com](https://www.jerrymichalski.com)
- - date published: 2023-11-29T17:09:20.663681+00:00
- - user: None
- - tags: ['personal']
-
-## Blogger
- - [https://www.jerrysha.com](https://www.jerrysha.com)
- - date published: 2023-12-02T21:17:38.362551+00:00
- - user: None
- - tags: ['personal']
-
-## JESDA.COM | Cars, travel, etc.
- - [https://jesda.com](https://jesda.com)
- - date published: 2023-10-25T15:28:14.048562+00:00
- - user: None
- - tags: []
-
-## Jesse Dorsey
- - [https://jessedorsey.com](https://jessedorsey.com)
- - date published: 2023-12-18T22:39:12.501976+00:00
- - user: None
- - tags: ['personal']
-
-## Pursuit Of Laziness – A blog by Jesse Duffield
- - [https://jesseduffield.com](https://jesseduffield.com)
- - date published: 2023-10-25T15:28:22.799029+00:00
- - user: None
- - tags: []
-
-## Jesse F. Simon
- - [https://www.jessefsimon.com](https://www.jessefsimon.com)
- - date published: 2023-12-13T11:22:18.478352+00:00
- - user: None
- - tags: ['personal']
-
-## About
- - [https://jessems.com](https://jessems.com)
- - date published: 2023-10-25T15:28:23.274118+00:00
- - user: None
- - tags: []
-
-## Jesse Wright
- - [https://www.jessewright.com](https://www.jessewright.com)
- - date published: 2023-10-25T15:28:24.345752+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://jessicalaurenvine.com](https://jessicalaurenvine.com)
- - date published: 2023-11-29T14:25:37.115227+00:00
- - user: None
- - tags: ['personal']
 

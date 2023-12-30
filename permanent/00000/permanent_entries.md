@@ -130,6 +130,12 @@
  - user: None
  - tags: []
 
+## None
+ - [https://fatherhood.gov](https://fatherhood.gov)
+ - date published: 2023-12-29T00:50:12.445423+00:00
+ - user: None
+ - tags: []
+
 ## Kristiania
  - [https://kristiania.no.](https://kristiania.no.)
  - date published: 2023-12-13T11:22:44.862076+00:00
@@ -5346,6 +5352,12 @@
  - user: None
  - tags: []
 
+## Ethereum Research
+ - [https://ethresear.ch](https://ethresear.ch)
+ - date published: 2023-12-29T04:55:09.336302+00:00
+ - user: None
+ - tags: []
+
 ## About COMSEC - Computer Security Group
  - [https://comsec.ethz.ch](https://comsec.ethz.ch)
  - date published: 2023-10-25T12:13:40.287827+00:00
@@ -5985,18 +5997,6 @@
 ## Dashbit - Boosting the Elixir ecosystem
  - [https://dashbit.co](https://dashbit.co)
  - date published: 2023-10-25T12:17:50.482143+00:00
- - user: None
- - tags: []
-
-## Education | David Fu's Website (aka davidthefu)
- - [https://www.davidfu.co](https://www.davidfu.co)
- - date published: 2023-12-21T18:50:47.818547+00:00
- - user: None
- - tags: ['personal']
-
-## Decrypt: AI, Bitcoin, Culture, Gaming, and Crypto News - Decrypt
- - [https://decrypt.co](https://decrypt.co)
- - date published: 2023-10-25T09:30:36.361891+00:00
  - user: None
  - tags: []
 
