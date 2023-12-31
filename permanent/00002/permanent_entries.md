@@ -1,3 +1,57 @@
+## BillaBear - BillaBear
+ - [https://billabear.com](https://billabear.com)
+ - date published: 2023-10-25T13:00:03.886008+00:00
+ - user: None
+ - tags: []
+
+## Billboard – Music Charts, News, Photos & Video
+ - [https://www.billboard.com](https://www.billboard.com)
+ - date published: 2023-10-25T10:24:52.548232+00:00
+ - user: None
+ - tags: []
+
+## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
+ - [https://billingsgazette.com](https://billingsgazette.com)
+ - date published: 2023-12-17T18:30:53.119094+00:00
+ - user: None
+ - tags: []
+
+## Bill Prin - Software engineer and entrepeneur
+ - [https://billprin.com](https://billprin.com)
+ - date published: 2023-10-25T13:00:05.453671+00:00
+ - user: None
+ - tags: []
+
+## Bill Wadge's Blog | Just another WordPress.com site
+ - [https://billwadge.com](https://billwadge.com)
+ - date published: 2023-10-25T13:00:12.406008+00:00
+ - user: None
+ - tags: []
+
+## Binary Devotion – 011001110110010101100101011010110010000001110000011100100011000001101110
+ - [https://www.binarydevotion.com](https://www.binarydevotion.com)
+ - date published: 2023-11-02T10:52:24.493504+00:00
+ - user: None
+ - tags: ['amiga']
+
+## Binder POS
+ - [https://binderpos.com](https://binderpos.com)
+ - date published: 2023-12-13T15:36:13.351535+00:00
+ - user: None
+ - tags: []
+
+## Bing Blogs | Home
+ - [https://blogs.bing.com](https://blogs.bing.com)
+ - date published: 2023-10-25T13:00:16.392348+00:00
+ - user: None
+ - tags: []
+
+## Bing
+ - [https://www.bing.com](https://www.bing.com)
+ - date published: 2023-10-25T08:28:02+00:00
+ - user: rumpel
+ - tags: ['search engine', 'artificial intelligence', 'gatekeeper']
+
 ## BingeHulu: Your Ultimate Hulu Binging Destination!
  - [https://www.bingehulu.com](https://www.bingehulu.com)
  - date published: 2023-11-10T15:00:07.542887+00:00
@@ -1540,6 +1594,12 @@
  - user: None
  - tags: []
 
+## Rare Books, First Editions, and Signed Books
+ - [https://www.bookstellyouwhy.com](https://www.bookstellyouwhy.com)
+ - date published: 2023-12-30T22:20:59.634067+00:00
+ - user: None
+ - tags: []
+
 ## Boomerang | Productivity & wellness topics from the world's most-used email extension
  - [https://blog.boomerangapp.com](https://blog.boomerangapp.com)
  - date published: 2023-10-25T13:08:21.530945+00:00
@@ -1881,6 +1941,12 @@
  - date published: 2023-10-25T13:12:45.233677+00:00
  - user: None
  - tags: []
+
+## Brian Kleiber - SEO Analyst & Content Marketing
+ - [https://www.briankleiber.com](https://www.briankleiber.com)
+ - date published: 2023-12-30T22:23:37.854421+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Brian Koberlein
  - [https://briankoberlein.com](https://briankoberlein.com)
@@ -4953,6 +5019,12 @@
  - user: None
  - tags: []
 
+## Show HN: I built ContainerCVE – a web tool to scan public Docker images
+ - [https://containercve.com](https://containercve.com)
+ - date published: 2023-12-30T02:16:21+00:00
+ - user: None
+ - tags: []
+
 ## Best Free AI Copywriting & SEO Content Generation Tool | ContentEdge
  - [https://www.contentedge.com](https://www.contentedge.com)
  - date published: 2023-10-25T13:33:16.108871+00:00
@@ -5012,6 +5084,12 @@
  - date published: 2023-11-01T18:37:29.679475+00:00
  - user: None
  - tags: ['tabletop games', 'miniatures']
+
+## Jim Cowie
+ - [https://content.cooperate.com](https://content.cooperate.com)
+ - date published: 2023-12-30T20:35:59.465653+00:00
+ - user: None
+ - tags: []
 
 ## Organically Find More Customers
  - [https://copperinsights.com](https://copperinsights.com)
@@ -5929,84 +6007,6 @@
 ## https://d3sanctuary.com
  - [https://d3sanctuary.com](https://d3sanctuary.com)
  - date published: 2023-12-13T16:21:58.317851+00:00
- - user: None
- - tags: []
-
-## Dadagrams
- - [https://dadagrams.com](https://dadagrams.com)
- - date published: 2023-10-25T13:41:06.381836+00:00
- - user: None
- - tags: []
-
-## Programming in the 21st Century
- - [https://prog21.dadgum.com](https://prog21.dadgum.com)
- - date published: 2023-10-25T13:41:08.490703+00:00
- - user: None
- - tags: []
-
-## Stories about Software
- - [https://daedtech.com](https://daedtech.com)
- - date published: 2023-10-25T13:41:13.942994+00:00
- - user: None
- - tags: []
-
-## Dafacto – The personal website of Matt Henderson
- - [https://dafacto.com](https://dafacto.com)
- - date published: 2023-12-12T08:08:43.622992+00:00
- - user: None
- - tags: ['personal']
-
-## Daft Punk
- - [https://www.daftpunk.com](https://www.daftpunk.com)
- - date published: 2023-10-30T13:57:06.791776+00:00
- - user: None
- - tags: ['music band']
-
-## Dagens.com - Today's news and entertainment
- - [https://www.dagens.com](https://www.dagens.com)
- - date published: 2023-11-20T21:14:16.632281+00:00
- - user: None
- - tags: []
-
-## Every Fucking Bootstrap Website Ever
- - [https://www.dagusa.com](https://www.dagusa.com)
- - date published: 2023-10-25T13:41:15.121541+00:00
- - user: None
- - tags: []
-
-## DailyAI | Exploring the World of Artificial Intelligence
- - [https://dailyai.com](https://dailyai.com)
- - date published: 2023-12-06T19:47:31.408770+00:00
- - user: None
- - tags: []
-
-## Daily Business Updates – Your Daily Source for Timely Business Updates and News
- - [https://dailybusinessupdates.com](https://dailybusinessupdates.com)
- - date published: 2023-12-19T11:09:27.832473+00:00
- - user: None
- - tags: []
-
-## The Daily Caller
- - [https://dailycaller.com](https://dailycaller.com)
- - date published: 2023-10-25T13:41:19.635856+00:00
- - user: None
- - tags: []
-
-## The Daily Dot | Your Internet. Your Internet news.
- - [https://www.dailydot.com](https://www.dailydot.com)
- - date published: 2023-10-25T13:41:22.508047+00:00
- - user: None
- - tags: []
-
-## The Daily Hodl
- - [https://dailyhodl.com](https://dailyhodl.com)
- - date published: 2023-12-11T16:05:08.521032+00:00
- - user: None
- - tags: []
-
-## Daily Investor – Investing and business news, financial data, and insights for intelligent South African investors.
- - [https://dailyinvestor.com](https://dailyinvestor.com)
- - date published: 2023-10-25T13:41:40.446699+00:00
  - user: None
  - tags: []
 

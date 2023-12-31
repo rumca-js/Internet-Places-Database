@@ -1,3 +1,93 @@
+## frofftown
+ - [https://frofftown.com](https://frofftown.com)
+ - date published: 2023-11-29T17:11:42.139115+00:00
+ - user: None
+ - tags: ['personal']
+
+## OneBite.Dev - Coding blog in a bite size
+ - [https://fromdevtodev.com](https://fromdevtodev.com)
+ - date published: 2023-10-25T14:38:53.656381+00:00
+ - user: None
+ - tags: []
+
+## Frontend Masters — Learn JavaScript, React, Vue & Angular from Masters of Front-End Development! | Frontend Masters
+ - [https://frontendmasters.com](https://frontendmasters.com)
+ - date published: 2023-10-25T14:38:56.831068+00:00
+ - user: None
+ - tags: []
+
+## Frontend Mastery
+ - [https://frontendmastery.com](https://frontendmastery.com)
+ - date published: 2023-10-25T14:39:00.390979+00:00
+ - user: None
+ - tags: []
+
+## Home - Frontera
+ - [https://fronterablog.com](https://fronterablog.com)
+ - date published: 2023-12-12T08:09:55.103176+00:00
+ - user: None
+ - tags: ['personal']
+
+## Frore Systems
+ - [https://www.froresystems.com](https://www.froresystems.com)
+ - date published: 2023-10-25T14:39:04.489972+00:00
+ - user: None
+ - tags: ['airjet', 'cooling']
+
+## Home | Fruitnet
+ - [https://www.fruitnet.com](https://www.fruitnet.com)
+ - date published: 2023-10-25T14:39:13.475748+00:00
+ - user: None
+ - tags: []
+
+## FryAI
+ - [https://www.fry-ai.com](https://www.fry-ai.com)
+ - date published: 2023-10-25T14:39:16.490708+00:00
+ - user: None
+ - tags: []
+
+## F# for fun and profit
+ - [https://fsharpforfunandprofit.com](https://fsharpforfunandprofit.com)
+ - date published: 2023-10-25T14:39:18.087751+00:00
+ - user: None
+ - tags: []
+
+## Redirect to... FT visual journalism
+ - [https://ig.ft.com](https://ig.ft.com)
+ - date published: 2023-10-25T14:39:20.226820+00:00
+ - user: None
+ - tags: []
+
+## Home | FT Property Listings
+ - [https://propertylistings.ft.com](https://propertylistings.ft.com)
+ - date published: 2023-10-25T14:39:22.270151+00:00
+ - user: None
+ - tags: []
+
+## Financial Times
+ - [https://www.ft.com](https://www.ft.com)
+ - date published: 2023-10-25T10:26:31.468549+00:00
+ - user: None
+ - tags: []
+
+## FTAdviser
+ - [https://www.ftadviser.com](https://www.ftadviser.com)
+ - date published: 2023-10-25T14:39:26.291885+00:00
+ - user: None
+ - tags: []
+
+## FTX Homepage
+ - [https://ftx.com](https://ftx.com)
+ - date published: 2023-10-25T14:39:27.320966+00:00
+ - user: None
+ - tags: []
+
+## Full City Press - A webcolumn by Chris De Jabet
+ - [https://fullcitypress.com](https://fullcitypress.com)
+ - date published: 2023-12-12T23:23:06.776133+00:00
+ - user: None
+ - tags: ['personal']
+
 ## The Full Stack
  - [https://fullstackdeeplearning.com](https://fullstackdeeplearning.com)
  - date published: 2023-10-25T14:39:35.486425+00:00
@@ -496,6 +586,12 @@
  - user: None
  - tags: []
 
+## GDScript – Custom scripting language to be used with the Godot game engine
+ - [https://gdscript.com](https://gdscript.com)
+ - date published: 2023-12-30T03:36:27+00:00
+ - user: None
+ - tags: []
+
 ## The Next Generation and Future of GE | General Electric
  - [https://www.ge.com](https://www.ge.com)
  - date published: 2023-11-08T11:28:22.739493+00:00
@@ -947,6 +1043,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-25T14:44:12.754868+00:00
  - user: None
  - tags: []
+
+## Hi, I’m Giorgio. | Giorgio Pretto - UX Designer
+ - [https://www.giorgiopretto.com](https://www.giorgiopretto.com)
+ - date published: 2023-12-30T15:36:47.787569+00:00
+ - user: None
+ - tags: ['personal']
 
 ## GioCities
  - [https://blog.giovanh.com](https://blog.giovanh.com)
@@ -2091,6 +2193,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Greg Albritton: always ready to create.
+ - [https://gregalbritton.com](https://gregalbritton.com)
+ - date published: 2023-12-30T05:22:31.881069+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Homepage - gregalder.com
  - [https://gregalder.com](https://gregalder.com)
  - date published: 2023-10-25T14:51:38.211893+00:00
@@ -2733,6 +2841,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Han | Home
+ - [https://www.hankruiger.com](https://www.hankruiger.com)
+ - date published: 2023-12-30T15:37:02.057361+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author
  - [https://www.hanselman.com](https://www.hanselman.com)
  - date published: 2023-10-25T09:20:35.173651+00:00
@@ -2918,6 +3032,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-25T10:51:21.727029+00:00
  - user: None
  - tags: ['video streaming']
+
+## Hwee-Boon Yar
+ - [https://hboon.com](https://hboon.com)
+ - date published: 2023-12-30T09:52:59.619420+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Class Action Lawsuits | International Law Firm | Hagens Berman
  - [https://www.hbsslaw.com](https://www.hbsslaw.com)
@@ -3366,6 +3486,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Historic UK - The History Magazine & Heritage Accommodation Guide
  - [https://www.historic-uk.com](https://www.historic-uk.com)
  - date published: 2023-10-25T14:59:34.895338+00:00
+ - user: None
+ - tags: []
+
+## Historicaleve -
+ - [https://historicaleve.com](https://historicaleve.com)
+ - date published: 2023-12-30T09:40:53.850742+00:00
  - user: None
  - tags: []
 
@@ -5175,6 +5301,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Island in the Net by Khürt Williams - Exploring Cybersecurity, Photography, Technology, and Nature
+ - [https://islandinthenet.com](https://islandinthenet.com)
+ - date published: 2023-12-30T09:53:08.097389+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Isonomia Quarterly
  - [https://isonomiaquarterly.com](https://isonomiaquarterly.com)
  - date published: 2023-11-13T01:20:31.379272+00:00
@@ -5868,138 +6000,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## The If Works – The If Works
  - [https://blog.jcoglan.com](https://blog.jcoglan.com)
  - date published: 2023-10-25T15:27:36.894719+00:00
- - user: None
- - tags: []
-
-## Financial Markets and Electoral Systems
- - [https://www.jdawiseman.com](https://www.jdawiseman.com)
- - date published: 2023-10-25T15:27:40.087215+00:00
- - user: None
- - tags: []
-
-## JDG Sport | Digital sports consultant & journalist
- - [https://jdgsport.com](https://jdgsport.com)
- - date published: 2023-12-02T13:42:03.884403+00:00
- - user: None
- - tags: ['personal']
-
-## JD Meier | High Performance. Innovation. Strategy.
- - [https://jdmeier.com](https://jdmeier.com)
- - date published: 2023-10-25T15:27:42.784067+00:00
- - user: None
- - tags: []
-
-## Need-to-Know News, Insights, & Intelligence for Business Leaders | JD Supra
- - [https://www.jdsupra.com](https://www.jdsupra.com)
- - date published: 2023-10-25T15:27:52.591885+00:00
- - user: None
- - tags: []
-
-## Jeannen  – Cool and dumb stuff, mainly about AI
- - [https://jeannen.com](https://jeannen.com)
- - date published: 2023-10-25T15:27:54.634589+00:00
- - user: None
- - tags: []
-
-## Jedi Mind Tricks - Vinnie Paz x Stoupe x Jus Allah
- - [https://jedi-mind-tricks.com](https://jedi-mind-tricks.com)
- - date published: 2023-11-13T10:31:15.448394+00:00
- - user: None
- - tags: ['music band']
-
-## Jediah Porter
- - [https://www.jediahporter.com](https://www.jediahporter.com)
- - date published: 2023-12-24T08:15:08.398647+00:00
- - user: None
- - tags: ['personal']
-
-## Jedi Wright
- - [https://www.jediwright.com](https://www.jediwright.com)
- - date published: 2023-12-14T06:54:12.717805+00:00
- - user: None
- - tags: ['personal']
-
-## Jeff Ammons
- - [https://jeffammons.com](https://jeffammons.com)
- - date published: 2023-10-25T08:46:29.891059+00:00
- - user: None
- - tags: ['personal']
-
-## Jeff Geerling - Author and Software Developer in St. Louis, MO
- - [https://www.jeffgeerling.com](https://www.jeffgeerling.com)
- - date published: 2023-10-25T08:46:31.532738+00:00
- - user: None
- - tags: ['personal', 'youtuber']
-
-## Jeff Gothelf - coaching, consulting, training & keynotes
- - [https://jeffgothelf.com](https://jeffgothelf.com)
- - date published: 2023-12-11T16:24:47.478969+00:00
- - user: None
- - tags: []
-
-## Jeff Huang · Computer Science at Brown University
- - [https://jeffhuang.com](https://jeffhuang.com)
- - date published: 2023-10-25T15:27:58.164772+00:00
- - user: None
- - tags: []
-
-## Jeff Ryan
- - [https://jeffjryan.com](https://jeffjryan.com)
- - date published: 2023-12-12T04:53:22.246788+00:00
- - user: None
- - tags: ['personal']
-
-## Home | Jeff Nobbs
- - [https://www.jeffnobbs.com](https://www.jeffnobbs.com)
- - date published: 2023-10-25T08:46:33.428500+00:00
- - user: None
- - tags: ['personal']
-
-## Work | jeff-parker-cooks
- - [https://www.jeffparkercooks.com](https://www.jeffparkercooks.com)
- - date published: 2023-11-29T15:44:34.183948+00:00
- - user: None
- - tags: ['personal']
-
-## Jeff Sandquist – Just a farmer.
- - [https://www.jeffsandquist.com](https://www.jeffsandquist.com)
- - date published: 2023-10-25T09:20:57.411695+00:00
- - user: None
- - tags: ['personal']
-
-## Jeff Kaufman
- - [https://www.jefftk.com](https://www.jefftk.com)
- - date published: 2023-10-25T09:20:58.479167+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://jefftriplett.com](https://jefftriplett.com)
- - date published: 2023-11-29T17:06:17.889307+00:00
- - user: None
- - tags: ['personal']
-
-## Holy Ghost Stories – Faith, technology, and everything in between.
- - [https://www.jeffwofford.com](https://www.jeffwofford.com)
- - date published: 2023-11-10T23:40:06.837839+00:00
- - user: None
- - tags: []
-
-## Jellylade
- - [https://app.jellylade.com](https://app.jellylade.com)
- - date published: 2023-10-25T15:27:58.907008+00:00
- - user: None
- - tags: []
-
-## Literature Clock
- - [https://literature-clock.jenevoldsen.com](https://literature-clock.jenevoldsen.com)
- - date published: 2023-10-25T15:27:59.485399+00:00
- - user: None
- - tags: []
-
-## 👋🏻 - Jeremia on the internet
- - [https://www.jeremiak.com](https://www.jeremiak.com)
- - date published: 2023-10-25T15:28:00.104721+00:00
  - user: None
  - tags: []
 

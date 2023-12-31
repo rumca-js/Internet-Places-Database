@@ -1,3 +1,165 @@
+## Netflix Technology Blog – Medium
+ - [https://netflixtechblog.medium.com](https://netflixtechblog.medium.com)
+ - date published: 2023-10-25T10:22:00.831065+00:00
+ - user: None
+ - tags: []
+
+## Nick Hilton – Medium
+ - [https://nickfthilton.medium.com](https://nickfthilton.medium.com)
+ - date published: 2023-10-25T10:22:03.024047+00:00
+ - user: None
+ - tags: []
+
+## Leonard and Sondra Nones – Medium
+ - [https://nones-leonard.medium.com](https://nones-leonard.medium.com)
+ - date published: 2023-10-25T10:22:05.192487+00:00
+ - user: None
+ - tags: []
+
+## Obie Fernandez – Medium
+ - [https://obie.medium.com](https://obie.medium.com)
+ - date published: 2023-10-25T10:22:12.616559+00:00
+ - user: None
+ - tags: []
+
+## OneZero
+ - [https://onezero.medium.com](https://onezero.medium.com)
+ - date published: 2023-10-25T10:22:19.984318+00:00
+ - user: None
+ - tags: []
+
+## Paul Fuhr – Medium
+ - [https://paulfuhr.medium.com](https://paulfuhr.medium.com)
+ - date published: 2023-10-25T10:22:22.357828+00:00
+ - user: None
+ - tags: []
+
+## Piotr Jaworski – Medium
+ - [https://piotrjaworski.medium.com](https://piotrjaworski.medium.com)
+ - date published: 2023-10-25T10:22:24.976124+00:00
+ - user: None
+ - tags: []
+
+## Privacy1St – Medium
+ - [https://privacyis1st.medium.com](https://privacyis1st.medium.com)
+ - date published: 2023-10-25T10:22:26.531063+00:00
+ - user: None
+ - tags: []
+
+## Richard Kenneth Eng – Medium
+ - [https://richardeng.medium.com](https://richardeng.medium.com)
+ - date published: 2023-10-25T10:22:29.415887+00:00
+ - user: None
+ - tags: []
+
+## Rosie Sherry – Medium
+ - [https://rosiesherry.medium.com](https://rosiesherry.medium.com)
+ - date published: 2023-10-25T10:22:31.783188+00:00
+ - user: None
+ - tags: []
+
+## Ruurtjan Pul – Medium
+ - [https://ruurtjan.medium.com](https://ruurtjan.medium.com)
+ - date published: 2023-10-25T10:22:34.320278+00:00
+ - user: None
+ - tags: []
+
+## Ryan Cornateanu – Medium
+ - [https://ryancor.medium.com](https://ryancor.medium.com)
+ - date published: 2023-10-25T10:22:41.538981+00:00
+ - user: None
+ - tags: []
+
+## Ryonald Teofilo – Medium
+ - [https://ryonaldteofilo.medium.com](https://ryonaldteofilo.medium.com)
+ - date published: 2023-10-25T10:22:43.785424+00:00
+ - user: None
+ - tags: []
+
+## Sacha Arbonel – Medium
+ - [https://sachaarbonel.medium.com](https://sachaarbonel.medium.com)
+ - date published: 2023-10-25T10:22:46.030789+00:00
+ - user: None
+ - tags: []
+
+## Sai Gaddam – Medium
+ - [https://saigaddam.medium.com](https://saigaddam.medium.com)
+ - date published: 2023-10-25T10:22:48.172465+00:00
+ - user: None
+ - tags: []
+
+## Sarah Drinkwater – Medium
+ - [https://sarahdrinkwater.medium.com](https://sarahdrinkwater.medium.com)
+ - date published: 2023-10-25T10:22:50.413109+00:00
+ - user: None
+ - tags: []
+
+## Sebastian Carlos – Medium
+ - [https://sebastiancarlos.medium.com](https://sebastiancarlos.medium.com)
+ - date published: 2023-10-25T10:22:58.905115+00:00
+ - user: None
+ - tags: []
+
+## Shannon Jacobs – Medium
+ - [https://shanen.medium.com](https://shanen.medium.com)
+ - date published: 2023-10-25T10:23:01.455983+00:00
+ - user: None
+ - tags: []
+
+## Sourcery – Medium
+ - [https://sourcery-ai.medium.com](https://sourcery-ai.medium.com)
+ - date published: 2023-10-25T10:23:03.723269+00:00
+ - user: None
+ - tags: []
+
+## Stephan Shahinian – Medium
+ - [https://stephan-shahinian.medium.com](https://stephan-shahinian.medium.com)
+ - date published: 2023-10-25T10:23:05.870308+00:00
+ - user: None
+ - tags: []
+
+## Steve Yegge – Medium
+ - [https://steve-yegge.medium.com](https://steve-yegge.medium.com)
+ - date published: 2023-10-26T10:51:30.639547+00:00
+ - user: None
+ - tags: []
+
+## Steven Heidel – Medium
+ - [https://stevenheidel.medium.com](https://stevenheidel.medium.com)
+ - date published: 2023-10-25T10:23:07.806957+00:00
+ - user: None
+ - tags: []
+
+## Lee Vinsel – Medium
+ - [https://sts-news.medium.com](https://sts-news.medium.com)
+ - date published: 2023-10-25T10:23:10.557257+00:00
+ - user: None
+ - tags: []
+
+## Ryszard Szopa – Medium
+ - [https://szopa.medium.com](https://szopa.medium.com)
+ - date published: 2023-10-25T10:23:13.103162+00:00
+ - user: None
+ - tags: []
+
+## Teiva Harsanyi – Medium
+ - [https://teivah.medium.com](https://teivah.medium.com)
+ - date published: 2023-10-25T10:23:15.160046+00:00
+ - user: None
+ - tags: []
+
+## Tim de Rooij – Medium
+ - [https://thalein.medium.com](https://thalein.medium.com)
+ - date published: 2023-10-25T10:23:17.504654+00:00
+ - user: None
+ - tags: []
+
+## Derek Power – Medium
+ - [https://thebluejester.medium.com](https://thebluejester.medium.com)
+ - date published: 2023-10-25T10:23:25.116345+00:00
+ - user: None
+ - tags: []
+
 ## Tom Smykowski – Medium
  - [https://tomaszs2.medium.com](https://tomaszs2.medium.com)
  - date published: 2023-10-25T10:23:27.314286+00:00
@@ -219,6 +381,12 @@
  - date published: 2023-10-25T16:01:29.064207+00:00
  - user: None
  - tags: []
+
+## Official Home Page of Meresha
+ - [https://meresha.com](https://meresha.com)
+ - date published: 2023-12-30T22:22:49.884747+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Get The Magic of Music!
  - [https://www.merlinnsound.com](https://www.merlinnsound.com)
@@ -1822,6 +1990,12 @@
  - user: None
  - tags: []
 
+## Stan Stewart - aka @muz4now - the muse is present
+ - [https://muz4now.com](https://muz4now.com)
+ - date published: 2023-12-30T22:23:47.478481+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Muzzug
  - [https://blog.muzzug.com](https://blog.muzzug.com)
  - date published: 2023-11-29T15:45:30.166689+00:00
@@ -2623,6 +2797,12 @@
 ## Private Site
  - [https://nevan.com](https://nevan.com)
  - date published: 2023-12-24T08:14:35.823982+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://neverendinglist.com](https://neverendinglist.com)
+ - date published: 2023-12-30T05:21:55.315764+00:00
  - user: None
  - tags: ['personal']
 
@@ -3650,6 +3830,12 @@
 ## Not So Profound: A Newsletter for Misfit Psychonauts 🗞️
  - [https://notsoprofound.com](https://notsoprofound.com)
  - date published: 2023-10-25T16:22:24.427864+00:00
+ - user: None
+ - tags: []
+
+## Nourish Your Mind – Your Personal Guide to Optimal Health
+ - [https://nourishyourmind.com](https://nourishyourmind.com)
+ - date published: 2023-12-30T10:51:26.177146+00:00
  - user: None
  - tags: []
 
@@ -5815,192 +6001,6 @@ Answering Machine Greetings!
 ## Home - Peter Attia
  - [https://peterattiamd.com](https://peterattiamd.com)
  - date published: 2023-10-25T16:33:17.835551+00:00
- - user: None
- - tags: []
-
-## Peterbe.com - Stuff in Peter's head
- - [https://www.peterbe.com](https://www.peterbe.com)
- - date published: 2023-10-25T16:33:20.306318+00:00
- - user: None
- - tags: []
-
-## Peter Cai
- - [https://www.petercai.com](https://www.petercai.com)
- - date published: 2023-10-25T16:33:21.176624+00:00
- - user: None
- - tags: []
-
-## Home - Peter David Smith
- - [https://www.peterdavidsmith.com](https://www.peterdavidsmith.com)
- - date published: 2023-12-18T22:39:41.005653+00:00
- - user: None
- - tags: ['personal']
-
-## News - PeterGabriel.com
- - [https://petergabriel.com](https://petergabriel.com)
- - date published: 2023-10-25T08:47:30.180606+00:00
- - user: None
- - tags: ['personal']
-
-## Peter Hajas /
- - [http://peterhajas.com](http://peterhajas.com)
- - date published: 2023-11-29T18:51:25.585587+00:00
- - user: None
- - tags: []
-
-## Peter Is Pedaling
- - [https://www.peterispedaling.com](https://www.peterispedaling.com)
- - date published: 2023-10-25T16:33:22.254907+00:00
- - user: None
- - tags: []
-
-## Peter Markush, musician
- - [https://petermarkush.com](https://petermarkush.com)
- - date published: 2023-11-29T15:15:23.993368+00:00
- - user: None
- - tags: ['personal']
-
-## Peter Ullrich - Elixir Developer and Bicycle Activist
- - [https://www.peterullrich.com](https://www.peterullrich.com)
- - date published: 2023-10-25T16:33:23.717353+00:00
- - user: None
- - tags: []
-
-## Pete Warden's blog
- - [https://petewarden.com](https://petewarden.com)
- - date published: 2023-10-25T16:33:30.171466+00:00
- - user: None
- - tags: []
-
-## https://www.pexels.com
- - [https://www.pexels.com](https://www.pexels.com)
- - date published: 2023-10-27T10:12:59.070431+00:00
- - user: None
- - tags: ['asset images']
-
-## https://www.pfizer.com
- - [https://www.pfizer.com](https://www.pfizer.com)
- - date published: 2023-11-01T08:42:53.876422+00:00
- - user: None
- - tags: []
-
-## Postgres performance at any scale | PostgreSQL Tuning - pganalyze
- - [https://pganalyze.com](https://pganalyze.com)
- - date published: 2023-10-25T16:33:32.420093+00:00
- - user: None
- - tags: []
-
-## Show HN: pgxman - npm for Postgres extensions
- - [https://pgxman.com](https://pgxman.com)
- - date published: 2023-11-29T19:08:15+00:00
- - user: None
- - tags: []
-
-## Philipp Uhl
- - [https://ph-uhl.com](https://ph-uhl.com)
- - date published: 2023-10-25T08:47:31.001721+00:00
- - user: None
- - tags: ['personal']
-
-## Phantogram
- - [https://www.phantogram.com](https://www.phantogram.com)
- - date published: 2023-11-13T10:22:07.294247+00:00
- - user: None
- - tags: ['music band']
-
-## PhaseLLM
- - [https://phasellm.com](https://phasellm.com)
- - date published: 2023-10-25T16:33:35.710834+00:00
- - user: None
- - tags: []
-
-## Philipp Hauer's Blog - Engineering Management, Java Ecosystem, Kotlin, Sociology of Software Development
- - [https://phauer.com](https://phauer.com)
- - date published: 2023-10-25T16:33:36.753715+00:00
- - user: None
- - tags: []
-
-## Phil Collins
- - [https://philcollins.com](https://philcollins.com)
- - date published: 2023-11-13T10:34:18.916026+00:00
- - user: None
- - tags: ['music artist', 'music band']
-
-## Phil D.
- - [https://phildenman.com](https://phildenman.com)
- - date published: 2023-12-27T23:55:08.862914+00:00
- - user: None
- - tags: ['personal']
-
-## Philip Joubert
- - [https://philipjoubert.com](https://philipjoubert.com)
- - date published: 2023-10-25T16:33:37.806303+00:00
- - user: None
- - tags: []
-
-## Vallified | Philip O'Toole
- - [https://www.philipotoole.com](https://www.philipotoole.com)
- - date published: 2023-10-25T16:33:43.745965+00:00
- - user: None
- - tags: []
-
-## Philipp Schmitt
- - [https://philippschmitt.com](https://philippschmitt.com)
- - date published: 2023-10-25T16:33:53.542014+00:00
- - user: None
- - tags: []
-
-## Musician, Web Developer, Entrepreneur - Phillip Harrington
- - [https://phillipharrington.com](https://phillipharrington.com)
- - date published: 2023-11-16T20:40:41.297992+00:00
- - user: None
- - tags: ['personal']
-
-## Philly Flight List - Cheap Flights from Philadelphia
- - [https://phillyflightlist.com](https://phillyflightlist.com)
- - date published: 2023-10-25T16:33:56.033848+00:00
- - user: None
- - tags: []
-
-## Philadelphia Magazine | News, Restaurants, Best of Philly
- - [https://www.phillymag.com](https://www.phillymag.com)
- - date published: 2023-10-25T16:34:02.217335+00:00
- - user: None
- - tags: []
-
-## Dr. Phil Maffetone - founder of the 180 formula and MAF test
- - [https://philmaffetone.com](https://philmaffetone.com)
- - date published: 2023-11-18T07:33:39.194122+00:00
- - user: None
- - tags: []
-
-## Reversing entropy, locally
- - [https://philoserf.com](https://philoserf.com)
- - date published: 2023-12-03T01:43:34.806253+00:00
- - user: None
- - tags: ['personal']
-
-## Philosophy Bro
- - [https://www.philosophybro.com](https://www.philosophybro.com)
- - date published: 2023-10-25T16:34:04.305344+00:00
- - user: None
- - tags: []
-
-## Risk & Cybersecurity
- - [https://www.philvenables.com](https://www.philvenables.com)
- - date published: 2023-10-25T16:34:06.256000+00:00
- - user: None
- - tags: []
-
-## Phil Zimmermann's Home Page
- - [https://www.philzimmermann.com](https://www.philzimmermann.com)
- - date published: 2023-10-25T08:47:32.129006+00:00
- - user: None
- - tags: ['personal']
-
-## https://phind.com
- - [https://phind.com](https://phind.com)
- - date published: 2023-10-25T16:34:07.856025+00:00
  - user: None
  - tags: []
 

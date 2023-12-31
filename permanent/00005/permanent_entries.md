@@ -1,3 +1,135 @@
+## Financial Markets and Electoral Systems
+ - [https://www.jdawiseman.com](https://www.jdawiseman.com)
+ - date published: 2023-10-25T15:27:40.087215+00:00
+ - user: None
+ - tags: []
+
+## JDG Sport | Digital sports consultant & journalist
+ - [https://jdgsport.com](https://jdgsport.com)
+ - date published: 2023-12-02T13:42:03.884403+00:00
+ - user: None
+ - tags: ['personal']
+
+## JD Meier | High Performance. Innovation. Strategy.
+ - [https://jdmeier.com](https://jdmeier.com)
+ - date published: 2023-10-25T15:27:42.784067+00:00
+ - user: None
+ - tags: []
+
+## Need-to-Know News, Insights, & Intelligence for Business Leaders | JD Supra
+ - [https://www.jdsupra.com](https://www.jdsupra.com)
+ - date published: 2023-10-25T15:27:52.591885+00:00
+ - user: None
+ - tags: []
+
+## Jeannen  – Cool and dumb stuff, mainly about AI
+ - [https://jeannen.com](https://jeannen.com)
+ - date published: 2023-10-25T15:27:54.634589+00:00
+ - user: None
+ - tags: []
+
+## Jedi Mind Tricks - Vinnie Paz x Stoupe x Jus Allah
+ - [https://jedi-mind-tricks.com](https://jedi-mind-tricks.com)
+ - date published: 2023-11-13T10:31:15.448394+00:00
+ - user: None
+ - tags: ['music band']
+
+## Jediah Porter
+ - [https://www.jediahporter.com](https://www.jediahporter.com)
+ - date published: 2023-12-24T08:15:08.398647+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jedi Wright
+ - [https://www.jediwright.com](https://www.jediwright.com)
+ - date published: 2023-12-14T06:54:12.717805+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeff Ammons
+ - [https://jeffammons.com](https://jeffammons.com)
+ - date published: 2023-10-25T08:46:29.891059+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeff Geerling - Author and Software Developer in St. Louis, MO
+ - [https://www.jeffgeerling.com](https://www.jeffgeerling.com)
+ - date published: 2023-10-25T08:46:31.532738+00:00
+ - user: None
+ - tags: ['personal', 'youtuber']
+
+## Jeff Gothelf - coaching, consulting, training & keynotes
+ - [https://jeffgothelf.com](https://jeffgothelf.com)
+ - date published: 2023-12-11T16:24:47.478969+00:00
+ - user: None
+ - tags: []
+
+## Jeff Huang · Computer Science at Brown University
+ - [https://jeffhuang.com](https://jeffhuang.com)
+ - date published: 2023-10-25T15:27:58.164772+00:00
+ - user: None
+ - tags: []
+
+## Jeff Ryan
+ - [https://jeffjryan.com](https://jeffjryan.com)
+ - date published: 2023-12-12T04:53:22.246788+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | Jeff Nobbs
+ - [https://www.jeffnobbs.com](https://www.jeffnobbs.com)
+ - date published: 2023-10-25T08:46:33.428500+00:00
+ - user: None
+ - tags: ['personal']
+
+## Work | jeff-parker-cooks
+ - [https://www.jeffparkercooks.com](https://www.jeffparkercooks.com)
+ - date published: 2023-11-29T15:44:34.183948+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeff Sandquist – Just a farmer.
+ - [https://www.jeffsandquist.com](https://www.jeffsandquist.com)
+ - date published: 2023-10-25T09:20:57.411695+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeff Kaufman
+ - [https://www.jefftk.com](https://www.jefftk.com)
+ - date published: 2023-10-25T09:20:58.479167+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://jefftriplett.com](https://jefftriplett.com)
+ - date published: 2023-11-29T17:06:17.889307+00:00
+ - user: None
+ - tags: ['personal']
+
+## Holy Ghost Stories – Faith, technology, and everything in between.
+ - [https://www.jeffwofford.com](https://www.jeffwofford.com)
+ - date published: 2023-11-10T23:40:06.837839+00:00
+ - user: None
+ - tags: []
+
+## Jellylade
+ - [https://app.jellylade.com](https://app.jellylade.com)
+ - date published: 2023-10-25T15:27:58.907008+00:00
+ - user: None
+ - tags: []
+
+## Literature Clock
+ - [https://literature-clock.jenevoldsen.com](https://literature-clock.jenevoldsen.com)
+ - date published: 2023-10-25T15:27:59.485399+00:00
+ - user: None
+ - tags: []
+
+## 👋🏻 - Jeremia on the internet
+ - [https://www.jeremiak.com](https://www.jeremiak.com)
+ - date published: 2023-10-25T15:28:00.104721+00:00
+ - user: None
+ - tags: []
+
 ## WHY EDIFY
  - [https://www.jeremyajorgensen.com](https://www.jeremyajorgensen.com)
  - date published: 2023-11-29T15:48:09.478619+00:00
@@ -652,6 +784,12 @@
  - user: None
  - tags: []
 
+## joseph aleo
+ - [https://josephaleo.com](https://josephaleo.com)
+ - date published: 2023-12-30T05:22:46.207312+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Joseph A. McCullough – Writer & Games Designer
  - [https://www.josephamccullough.com](https://www.josephamccullough.com)
  - date published: 2023-10-27T07:26:53.904248+00:00
@@ -757,6 +895,12 @@
 ## Welcome
  - [https://am.jpmorgan.com](https://am.jpmorgan.com)
  - date published: 2023-10-25T15:32:15.746314+00:00
+ - user: None
+ - tags: []
+
+## Jiri Pospisil
+ - [https://jpospisil.com](https://jpospisil.com)
+ - date published: 2023-12-30T14:51:41.678761+00:00
  - user: None
  - tags: []
 
@@ -2489,6 +2633,12 @@
  - user: None
  - tags: []
 
+## Latent Dictionary: 3D map of Oxford3000+search words via DistilBert embeddings
+ - [https://latentdictionary.com](https://latentdictionary.com)
+ - date published: 2023-12-30T13:07:44+00:00
+ - user: None
+ - tags: []
+
 ## News from California, the nation and world  - Los Angeles Times
  - [https://www.latimes.com](https://www.latimes.com)
  - date published: 2023-10-25T15:42:35.013271+00:00
@@ -2528,6 +2678,12 @@
 ## https://www.laurelparkerbook.com/fr/
  - [https://laurelparkerbook.com](https://laurelparkerbook.com)
  - date published: 2023-12-11T16:18:48.011302+00:00
+ - user: None
+ - tags: []
+
+## Law.com
+ - [https://www.law.com](https://www.law.com)
+ - date published: 2023-12-30T06:29:36.870856+00:00
  - user: None
  - tags: []
 
@@ -5119,6 +5275,12 @@ diversions.
  - user: None
  - tags: []
 
+## Max Wrenna -
+ - [https://maxwrenna.com](https://maxwrenna.com)
+ - date published: 2023-12-30T09:52:45.350249+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Ledger Independent – Maysville Online
  - [https://maysville-online.com](https://maysville-online.com)
  - date published: 2023-10-25T15:59:20.004304+00:00
@@ -5836,168 +5998,6 @@ diversions.
 ## Fernando Villalba – Medium
  - [https://nandovillalba.medium.com](https://nandovillalba.medium.com)
  - date published: 2023-10-26T06:39:56.179167+00:00
- - user: None
- - tags: []
-
-## Netflix Technology Blog – Medium
- - [https://netflixtechblog.medium.com](https://netflixtechblog.medium.com)
- - date published: 2023-10-25T10:22:00.831065+00:00
- - user: None
- - tags: []
-
-## Nick Hilton – Medium
- - [https://nickfthilton.medium.com](https://nickfthilton.medium.com)
- - date published: 2023-10-25T10:22:03.024047+00:00
- - user: None
- - tags: []
-
-## Leonard and Sondra Nones – Medium
- - [https://nones-leonard.medium.com](https://nones-leonard.medium.com)
- - date published: 2023-10-25T10:22:05.192487+00:00
- - user: None
- - tags: []
-
-## Obie Fernandez – Medium
- - [https://obie.medium.com](https://obie.medium.com)
- - date published: 2023-10-25T10:22:12.616559+00:00
- - user: None
- - tags: []
-
-## OneZero
- - [https://onezero.medium.com](https://onezero.medium.com)
- - date published: 2023-10-25T10:22:19.984318+00:00
- - user: None
- - tags: []
-
-## Paul Fuhr – Medium
- - [https://paulfuhr.medium.com](https://paulfuhr.medium.com)
- - date published: 2023-10-25T10:22:22.357828+00:00
- - user: None
- - tags: []
-
-## Piotr Jaworski – Medium
- - [https://piotrjaworski.medium.com](https://piotrjaworski.medium.com)
- - date published: 2023-10-25T10:22:24.976124+00:00
- - user: None
- - tags: []
-
-## Privacy1St – Medium
- - [https://privacyis1st.medium.com](https://privacyis1st.medium.com)
- - date published: 2023-10-25T10:22:26.531063+00:00
- - user: None
- - tags: []
-
-## Richard Kenneth Eng – Medium
- - [https://richardeng.medium.com](https://richardeng.medium.com)
- - date published: 2023-10-25T10:22:29.415887+00:00
- - user: None
- - tags: []
-
-## Rosie Sherry – Medium
- - [https://rosiesherry.medium.com](https://rosiesherry.medium.com)
- - date published: 2023-10-25T10:22:31.783188+00:00
- - user: None
- - tags: []
-
-## Ruurtjan Pul – Medium
- - [https://ruurtjan.medium.com](https://ruurtjan.medium.com)
- - date published: 2023-10-25T10:22:34.320278+00:00
- - user: None
- - tags: []
-
-## Ryan Cornateanu – Medium
- - [https://ryancor.medium.com](https://ryancor.medium.com)
- - date published: 2023-10-25T10:22:41.538981+00:00
- - user: None
- - tags: []
-
-## Ryonald Teofilo – Medium
- - [https://ryonaldteofilo.medium.com](https://ryonaldteofilo.medium.com)
- - date published: 2023-10-25T10:22:43.785424+00:00
- - user: None
- - tags: []
-
-## Sacha Arbonel – Medium
- - [https://sachaarbonel.medium.com](https://sachaarbonel.medium.com)
- - date published: 2023-10-25T10:22:46.030789+00:00
- - user: None
- - tags: []
-
-## Sai Gaddam – Medium
- - [https://saigaddam.medium.com](https://saigaddam.medium.com)
- - date published: 2023-10-25T10:22:48.172465+00:00
- - user: None
- - tags: []
-
-## Sarah Drinkwater – Medium
- - [https://sarahdrinkwater.medium.com](https://sarahdrinkwater.medium.com)
- - date published: 2023-10-25T10:22:50.413109+00:00
- - user: None
- - tags: []
-
-## Sebastian Carlos – Medium
- - [https://sebastiancarlos.medium.com](https://sebastiancarlos.medium.com)
- - date published: 2023-10-25T10:22:58.905115+00:00
- - user: None
- - tags: []
-
-## Shannon Jacobs – Medium
- - [https://shanen.medium.com](https://shanen.medium.com)
- - date published: 2023-10-25T10:23:01.455983+00:00
- - user: None
- - tags: []
-
-## Sourcery – Medium
- - [https://sourcery-ai.medium.com](https://sourcery-ai.medium.com)
- - date published: 2023-10-25T10:23:03.723269+00:00
- - user: None
- - tags: []
-
-## Stephan Shahinian – Medium
- - [https://stephan-shahinian.medium.com](https://stephan-shahinian.medium.com)
- - date published: 2023-10-25T10:23:05.870308+00:00
- - user: None
- - tags: []
-
-## Steve Yegge – Medium
- - [https://steve-yegge.medium.com](https://steve-yegge.medium.com)
- - date published: 2023-10-26T10:51:30.639547+00:00
- - user: None
- - tags: []
-
-## Steven Heidel – Medium
- - [https://stevenheidel.medium.com](https://stevenheidel.medium.com)
- - date published: 2023-10-25T10:23:07.806957+00:00
- - user: None
- - tags: []
-
-## Lee Vinsel – Medium
- - [https://sts-news.medium.com](https://sts-news.medium.com)
- - date published: 2023-10-25T10:23:10.557257+00:00
- - user: None
- - tags: []
-
-## Ryszard Szopa – Medium
- - [https://szopa.medium.com](https://szopa.medium.com)
- - date published: 2023-10-25T10:23:13.103162+00:00
- - user: None
- - tags: []
-
-## Teiva Harsanyi – Medium
- - [https://teivah.medium.com](https://teivah.medium.com)
- - date published: 2023-10-25T10:23:15.160046+00:00
- - user: None
- - tags: []
-
-## Tim de Rooij – Medium
- - [https://thalein.medium.com](https://thalein.medium.com)
- - date published: 2023-10-25T10:23:17.504654+00:00
- - user: None
- - tags: []
-
-## Derek Power – Medium
- - [https://thebluejester.medium.com](https://thebluejester.medium.com)
- - date published: 2023-10-25T10:23:25.116345+00:00
  - user: None
  - tags: []
 
