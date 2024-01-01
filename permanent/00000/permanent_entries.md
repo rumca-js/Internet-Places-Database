@@ -2086,6 +2086,12 @@
  - user: None
  - tags: []
 
+## Synctify – Sync a music drop with a time in the real world
+ - [https://synctify.app](https://synctify.app)
+ - date published: 2023-12-31T15:05:32+00:00
+ - user: None
+ - tags: []
+
 ## Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps
  - [https://tauri.app](https://tauri.app)
  - date published: 2023-10-25T11:49:16.037626+00:00
@@ -2245,6 +2251,12 @@
 ## Mastodon Flock
  - [https://mastodon-flock.vercel.app](https://mastodon-flock.vercel.app)
  - date published: 2023-10-25T08:36:46.987018+00:00
+ - user: None
+ - tags: []
+
+## A Modern Web for Hacker News – Open-Source and Seeking Feedback
+ - [https://modern-hacker-news.vercel.app](https://modern-hacker-news.vercel.app)
+ - date published: 2023-12-31T14:00:00+00:00
  - user: None
  - tags: []
 
@@ -2446,6 +2458,12 @@
  - user: None
  - tags: []
 
+## Genuary 2024: Generative Art / Creative Coding Month
+ - [https://genuary.art](https://genuary.art)
+ - date published: 2023-12-31T14:09:15+00:00
+ - user: None
+ - tags: []
+
 ## Mantra
  - [https://glyphe.art](https://glyphe.art)
  - date published: 2023-11-29T17:10:47.669540+00:00
@@ -2505,6 +2523,12 @@
  - date published: 2023-10-25T09:07:46.063856+00:00
  - user: None
  - tags: ['personal']
+
+## eLib.at
+ - [https://elib.at](https://elib.at)
+ - date published: 2023-12-31T19:02:05.887806+00:00
+ - user: None
+ - tags: []
 
 ## en|crypted.at – Private tech and tutorial blog
  - [https://www.encrypted.at](https://www.encrypted.at)
@@ -5670,6 +5694,12 @@
  - user: None
  - tags: []
 
+## Andrew Liu
+ - [https://andrew.cloud](https://andrew.cloud)
+ - date published: 2023-12-31T16:47:07.813551+00:00
+ - user: None
+ - tags: []
+
 ## Bits and Cloud
  - [https://www.bitsand.cloud](https://www.bitsand.cloud)
  - date published: 2023-11-01T08:41:28.256638+00:00
@@ -5967,36 +5997,6 @@
 ## The Ruby on Rails SaaS Template | Bullet Train
  - [https://bullettrain.co](https://bullettrain.co)
  - date published: 2023-10-25T12:17:16.481583+00:00
- - user: None
- - tags: []
-
-## Business Side | Substack
- - [https://www.businessside.co](https://www.businessside.co)
- - date published: 2023-10-25T12:17:20.577548+00:00
- - user: None
- - tags: []
-
-## Charlie Meyer's Blog
- - [https://blog.charliemeyer.co](https://blog.charliemeyer.co)
- - date published: 2023-10-25T09:25:30.556146+00:00
- - user: None
- - tags: ['personal']
-
-## Chartr - Subscribe
- - [https://www.chartr.co](https://www.chartr.co)
- - date published: 2023-10-25T12:17:23.896237+00:00
- - user: None
- - tags: []
-
-## What I’m doing now | Chris Cruz
- - [https://chriscruz.co](https://chriscruz.co)
- - date published: 2023-12-13T11:23:23.455194+00:00
- - user: None
- - tags: ['personal']
-
-## Clean Energy Revolution - Clean energy news about solar, electric vehicles and battery storage
- - [https://cleanenergyrevolution.co](https://cleanenergyrevolution.co)
- - date published: 2023-10-25T12:17:29.597536+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,225 @@
+## The International Law Firm of Winston & Strawn LLP | Winston & Strawn
+ - [https://www.winston.com](https://www.winston.com)
+ - date published: 2023-10-25T18:07:03.303397+00:00
+ - user: None
+ - tags: []
+
+## WION: Breaking News, Latest News, World, South Asia, India, Pakistan, Bangladesh News & Analysis - Latest World News
+ - [https://www.wionews.com](https://www.wionews.com)
+ - date published: 2023-10-25T10:45:15.167046+00:00
+ - user: None
+ - tags: []
+
+## WIRED - The Latest in Technology, Science, Culture and Business | WIRED
+ - [https://www.wired.com](https://www.wired.com)
+ - date published: 2023-10-25T09:36:45.817671+00:00
+ - user: None
+ - tags: ['technology news', 'science news']
+
+## Wirehead hedonism versus paradise-engineering
+ - [https://www.wireheading.com](https://www.wireheading.com)
+ - date published: 2023-10-25T18:07:05.948427+00:00
+ - user: None
+ - tags: []
+
+## Wirfs-Brock Associates
+ - [https://wirfs-brock.com](https://wirfs-brock.com)
+ - date published: 2023-10-25T18:07:07.838674+00:00
+ - user: None
+ - tags: []
+
+## WISDOMINATION
+ - [https://www.wisdomination.com](https://www.wisdomination.com)
+ - date published: 2023-10-25T18:07:12.621625+00:00
+ - user: None
+ - tags: []
+
+## Wise, Formerly TransferWise: Online Money Transfers | International Banking Features
+ - [https://wise.com](https://wise.com)
+ - date published: 2023-10-28T03:56:49.631440+00:00
+ - user: None
+ - tags: []
+
+## WiseStacker - Wisely Stack The World's Best Dividend Stocks
+ - [https://wisestacker.com](https://wisestacker.com)
+ - date published: 2023-12-02T13:42:08.251986+00:00
+ - user: None
+ - tags: ['personal']
+
+## WitcherHour: Bringing the latest Witcher news, guides, & more.
+ - [https://witcherhour.com](https://witcherhour.com)
+ - date published: 2023-10-25T14:23:14.446827+00:00
+ - user: None
+ - tags: []
+
+## Cardinal is the Database for Humans
+ - [https://www.withcardinal.com](https://www.withcardinal.com)
+ - date published: 2023-10-25T18:07:14.230770+00:00
+ - user: None
+ - tags: []
+
+## Coherence — The Integrated Developer Platform for your own cloud account
+ - [https://www.withcoherence.com](https://www.withcoherence.com)
+ - date published: 2023-10-25T18:07:16.180638+00:00
+ - user: None
+ - tags: []
+
+## Compound Planning | Modern Wealth & Investment Management
+ - [https://withcompound.com](https://withcompound.com)
+ - date published: 2023-10-25T18:07:21.872974+00:00
+ - user: None
+ - tags: []
+
+## Nonobvious | Edge | Substack
+ - [https://blog.withedge.com](https://blog.withedge.com)
+ - date published: 2023-10-25T18:07:38.413246+00:00
+ - user: None
+ - tags: []
+
+## Google's latest experiments in Labs
+ - [https://labs.withgoogle.com](https://labs.withgoogle.com)
+ - date published: 2023-10-25T18:07:40.867814+00:00
+ - user: None
+ - tags: []
+
+## People + AI Research
+ - [https://pair.withgoogle.com](https://pair.withgoogle.com)
+ - date published: 2023-10-25T18:07:44.673354+00:00
+ - user: None
+ - tags: []
+
+## Home | Google Summer of Code
+ - [https://summerofcode.withgoogle.com](https://summerofcode.withgoogle.com)
+ - date published: 2023-10-25T18:07:48.328715+00:00
+ - user: None
+ - tags: []
+
+## Project Sunroof
+ - [https://sunroof.withgoogle.com](https://sunroof.withgoogle.com)
+ - date published: 2023-10-25T18:07:51.710648+00:00
+ - user: None
+ - tags: []
+
+## TextFX
+ - [https://textfx.withgoogle.com](https://textfx.withgoogle.com)
+ - date published: 2023-10-25T18:07:53.024899+00:00
+ - user: None
+ - tags: []
+
+## Google - The Web Can Do What!?
+ - [https://thewebshowcase.withgoogle.com](https://thewebshowcase.withgoogle.com)
+ - date published: 2023-12-06T20:50:01.109390+00:00
+ - user: None
+ - tags: []
+
+## Within Temptation Music Store
+ - [https://www.within-temptation.com](https://www.within-temptation.com)
+ - date published: 2023-11-13T11:10:55.031197+00:00
+ - user: None
+ - tags: ['music band']
+
+## Home | WithSecure™ Labs
+ - [https://labs.withsecure.com](https://labs.withsecure.com)
+ - date published: 2023-10-25T18:07:54.930284+00:00
+ - user: None
+ - tags: []
+
+## https://frog.wix.com
+ - [https://frog.wix.com](https://frog.wix.com)
+ - date published: 2023-12-11T16:57:12.422596+00:00
+ - user: None
+ - tags: []
+
+## Wix UX
+ - [https://wix-ux.com](https://wix-ux.com)
+ - date published: 2023-10-25T18:08:04.082110+00:00
+ - user: None
+ - tags: []
+
+## https://gameknightplaysyt.wixsite.com
+ - [https://gameknightplaysyt.wixsite.com](https://gameknightplaysyt.wixsite.com)
+ - date published: 2023-11-03T08:29:48.426730+00:00
+ - user: None
+ - tags: []
+
+## Wizarding World: The Official Home of Harry Potter
+ - [https://www.wizardingworld.com](https://www.wizardingworld.com)
+ - date published: 2023-10-25T14:07:20.273222+00:00
+ - user: None
+ - tags: ['fantasy', 'harry potter']
+
+## Dungeons & Dragons | Official Home of the World's Greatest Roleplaying Game
+ - [https://dnd.wizards.com](https://dnd.wizards.com)
+ - date published: 2023-10-25T14:21:12.029966+00:00
+ - user: None
+ - tags: ['role playing games', 'dungeons and dragons']
+
+## Magic: The Gathering | Official site for MTG news, sets, and events
+ - [https://magic.wizards.com](https://magic.wizards.com)
+ - date published: 2023-10-25T14:21:19.809601+00:00
+ - user: None
+ - tags: ['card games', 'magic the gathering']
+
+## Implement DNS in a weekend
+ - [https://implement-dns.wizardzines.com](https://implement-dns.wizardzines.com)
+ - date published: 2023-10-25T18:08:06.154837+00:00
+ - user: None
+ - tags: []
+
+## wizard zines
+ - [https://wizardzines.com](https://wizardzines.com)
+ - date published: 2023-11-25T03:59:34.755914+00:00
+ - user: None
+ - tags: []
+
+## Free Security Awareness Training, Phishing Simulation and Gamification
+ - [https://www.wizer-training.com](https://www.wizer-training.com)
+ - date published: 2023-10-25T18:08:09.120291+00:00
+ - user: None
+ - tags: []
+
+## WJHG | News, Weather, Sports | Panama City, FL
+ - [https://www.wjhg.com](https://www.wjhg.com)
+ - date published: 2023-11-28T20:08:07.258023+00:00
+ - user: None
+ - tags: []
+
+## Arlington News, Weather, Sports, Breaking News | WJLA
+ - [https://wjla.com](https://wjla.com)
+ - date published: 2023-10-25T18:08:13.273867+00:00
+ - user: None
+ - tags: []
+
+## Buffalo, New York News and Weather | WKBW | wkbw.com
+ - [https://www.wkbw.com](https://www.wkbw.com)
+ - date published: 2023-10-25T18:08:20.272024+00:00
+ - user: None
+ - tags: []
+
+## WLOX | Biloxi, Gulfport, Pascagoula, MS
+ - [https://www.wlox.com](https://www.wlox.com)
+ - date published: 2023-12-28T20:26:05.065330+00:00
+ - user: None
+ - tags: []
+
+## WMBF | Myrtle Beach, Florence
+ - [https://www.wmbfnews.com](https://www.wmbfnews.com)
+ - date published: 2023-11-01T23:07:15.838462+00:00
+ - user: None
+ - tags: []
+
+## Access Denied
+ - [https://www.wnep.com](https://www.wnep.com)
+ - date published: 2023-11-08T07:17:30.357213+00:00
+ - user: None
+ - tags: []
+
+## Wobaka | Refreshingly Simple CRM And Email Automation
+ - [https://wobaka.com](https://wobaka.com)
+ - date published: 2023-10-25T18:08:22.084560+00:00
+ - user: None
+ - tags: []
+
 ## Ebooki | Epub, Mobi Kindle, PDF | Woblink
  - [https://woblink.com](https://woblink.com)
  - date published: 2023-10-24T20:17:54.362233+00:00
@@ -247,6 +469,12 @@
 ## DeavidSedice's blog – Thoughts about programming
  - [https://deavid.wordpress.com](https://deavid.wordpress.com)
  - date published: 2023-10-25T18:10:48.058627+00:00
+ - user: None
+ - tags: []
+
+## didactics
+ - [https://didacticsblog.wordpress.com](https://didacticsblog.wordpress.com)
+ - date published: 2023-12-31T21:20:54.582250+00:00
  - user: None
  - tags: []
 
@@ -2957,6 +3185,12 @@ home
  - user: None
  - tags: ['personal']
 
+## martinc.de
+ - [https://martinc.de](https://martinc.de)
+ - date published: 2023-12-31T21:19:53.764563+00:00
+ - user: None
+ - tags: []
+
 ## Maurice Renck ist Blogger, Podcaster & Webentwickler
  - [https://maurice-renck.de](https://maurice-renck.de)
  - date published: 2023-11-29T15:45:27.713469+00:00
@@ -4620,6 +4854,12 @@ home
  - user: None
  - tags: ['personal']
 
+## joev.dev: thoughts, engineering, art, life
+ - [https://joev.dev](https://joev.dev)
+ - date published: 2023-12-31T19:01:54.757850+00:00
+ - user: None
+ - tags: []
+
 ## Just for Fun. No, Really.
  - [https://justforfunnoreally.dev](https://justforfunnoreally.dev)
  - date published: 2023-10-25T18:38:48.340384+00:00
@@ -5759,246 +5999,6 @@ home
 ## Wasp
  - [https://wasp-lang.dev](https://wasp-lang.dev)
  - date published: 2023-10-25T18:44:13.919020+00:00
- - user: None
- - tags: []
-
-## Waveterm
- - [https://www.waveterm.dev](https://www.waveterm.dev)
- - date published: 2023-12-10T03:33:48+00:00
- - user: None
- - tags: []
-
-## web.dev
- - [https://web.dev](https://web.dev)
- - date published: 2023-10-25T18:44:17.767137+00:00
- - user: None
- - tags: []
-
-## WebArena: A Realistic Web Environment for Building Autonomous Agents
- - [https://webarena.dev](https://webarena.dev)
- - date published: 2023-10-25T18:44:21.189861+00:00
- - user: None
- - tags: []
-
-## Webgeist.dev
- - [https://webgeist.dev](https://webgeist.dev)
- - date published: 2023-12-12T23:23:10.380140+00:00
- - user: None
- - tags: ['personal']
-
-## Home | Andy Hippo
- - [https://werat.dev](https://werat.dev)
- - date published: 2023-10-25T18:44:22.806744+00:00
- - user: None
- - tags: []
-
-## Gustav Westling
- - [https://westling.dev](https://westling.dev)
- - date published: 2023-10-25T18:44:24.486704+00:00
- - user: None
- - tags: []
-
-## A corner of the internet for people who love building digital products.
- - [https://www.wking.dev](https://www.wking.dev)
- - date published: 2023-11-06T19:19:56.497567+00:00
- - user: None
- - tags: []
-
-## Thoughts for CTOs, Tech Leads and Software Architects
- - [https://www.workingsoftware.dev](https://www.workingsoftware.dev)
- - date published: 2023-10-25T18:44:29.024808+00:00
- - user: None
- - tags: []
-
-## dotMorten | .NET Ramblings, XAML hacking and some GIS endeavors
- - [https://xaml.dev](https://xaml.dev)
- - date published: 2023-10-25T08:59:01.383042+00:00
- - user: None
- - tags: ['personal']
-
-## XINF
- - [https://xinf.dev](https://xinf.dev)
- - date published: 2023-10-25T18:44:30.785844+00:00
- - user: None
- - tags: []
-
-## xy2
- - [https://xy2.dev](https://xy2.dev)
- - date published: 2023-10-25T18:44:33.489903+00:00
- - user: None
- - tags: []
-
-## You don't need a modal window
- - [https://youdontneedamodalwindow.dev](https://youdontneedamodalwindow.dev)
- - date published: 2023-10-25T18:44:35.045129+00:00
- - user: None
- - tags: []
-
-## yuanchuan
- - [https://yuanchuan.dev](https://yuanchuan.dev)
- - date published: 2023-10-25T18:44:37.242773+00:00
- - user: None
- - tags: []
-
-## zackoverflow
- - [https://zackoverflow.dev](https://zackoverflow.dev)
- - date published: 2023-10-25T18:44:39.698343+00:00
- - user: None
- - tags: []
-
-## Zed - Code at the speed of thought
- - [https://zed.dev](https://zed.dev)
- - date published: 2023-10-25T18:44:46.883335+00:00
- - user: None
- - tags: []
-
-## Zellij
- - [https://zellij.dev](https://zellij.dev)
- - date published: 2023-10-25T18:44:48.356849+00:00
- - user: None
- - tags: []
-
-## Zoo: Home
- - [https://zoo.dev](https://zoo.dev)
- - date published: 2023-12-20T23:10:16.596825+00:00
- - user: None
- - tags: []
-
-## julian.digital
- - [https://julian.digital](https://julian.digital)
- - date published: 2023-10-25T18:44:50.401929+00:00
- - user: None
- - tags: []
-
-## RDTR01
- - [https://rdtr01.xl.digital](https://rdtr01.xl.digital)
- - date published: 2023-10-25T18:44:52.509130+00:00
- - user: None
- - tags: []
-
-## ooh.directory: a place to find good blogs that interest you
- - [https://ooh.directory](https://ooh.directory)
- - date published: 2023-10-25T18:44:56.352626+00:00
- - user: None
- - tags: ['blogs', 'personal']
-
-## Consent-O-Matic
- - [https://consentomatic.au.dk](https://consentomatic.au.dk)
- - date published: 2023-10-25T18:44:57.884515+00:00
- - user: None
- - tags: []
-
-## The Interdisciplinary Nanoscience Center at Aarhus University: inano.au.dk
- - [https://inano.au.dk](https://inano.au.dk)
- - date published: 2023-11-21T16:46:11.636457+00:00
- - user: None
- - tags: []
-
-## Faculty of Natural Sciences - Fakultet ved Aarhus Universitet
- - [https://nat.au.dk](https://nat.au.dk)
- - date published: 2023-12-07T14:50:55.311344+00:00
- - user: None
- - tags: []
-
-## bret.dk - Explore the latest single-board computers (SBCs), including reviews and benchmarks for Raspberry Pi.
- - [https://bret.dk](https://bret.dk)
- - date published: 2023-10-25T18:45:00.174502+00:00
- - user: None
- - tags: []
-
-## Creative Time Studio
- - [https://creativetime.dk](https://creativetime.dk)
- - date published: 2023-11-29T17:10:54.198669+00:00
- - user: None
- - tags: ['personal']
-
-## [CSDb] - The Commodore 64 Scene Database
- - [https://csdb.dk](https://csdb.dk)
- - date published: 2023-10-25T11:17:26.783143+00:00
- - user: None
- - tags: ['social forum', 'commodore', 'demoscene']
-
-## Datatilsynet
- - [https://www.datatilsynet.dk](https://www.datatilsynet.dk)
- - date published: 2023-10-25T18:45:02.198094+00:00
- - user: None
- - tags: []
-
-## Datavirke
- - [https://datavirke.dk](https://datavirke.dk)
- - date published: 2023-10-25T18:45:02.904442+00:00
- - user: None
- - tags: []
-
-## Danmarks Tekniske Universitet - DTU
- - [https://www.dtu.dk](https://www.dtu.dk)
- - date published: 2023-10-25T18:45:05.300599+00:00
- - user: None
- - tags: []
-
-## DusteDs home in cyberspace
- - [https://dusted.dk](https://dusted.dk)
- - date published: 2023-10-25T18:45:11.349563+00:00
- - user: None
- - tags: []
-
-## Forsvaret
- - [https://www.forsvaret.dk](https://www.forsvaret.dk)
- - date published: 2023-10-25T18:45:14.938720+00:00
- - user: None
- - tags: []
-
-## Become a Go cloud developer
- - [https://www.golang.dk](https://www.golang.dk)
- - date published: 2023-10-25T18:45:15.795948+00:00
- - user: None
- - tags: []
-
-## IO Interactive - Homepage
- - [https://www.ioi.dk](https://www.ioi.dk)
- - date published: 2023-10-25T18:45:23.268649+00:00
- - user: None
- - tags: []
-
-## Git repository browser
- - [https://kernel.dk](https://kernel.dk)
- - date published: 2023-10-25T18:45:26.253226+00:00
- - user: None
- - tags: []
-
-## Faculty of Health and Medical Sciences – University of Copenhagen
- - [https://healthsciences.ku.dk](https://healthsciences.ku.dk)
- - date published: 2023-11-14T09:26:10.548804+00:00
- - user: None
- - tags: []
-
-## News – University of Copenhagen
- - [https://news.ku.dk](https://news.ku.dk)
- - date published: 2023-10-25T11:22:10.749501+00:00
- - user: None
- - tags: []
-
-## SCIENCE – Københavns Universitet
- - [https://science.ku.dk](https://science.ku.dk)
- - date published: 2023-10-25T18:45:30.552340+00:00
- - user: None
- - tags: []
-
-## Frontpage
- - [https://louisiana.dk](https://louisiana.dk)
- - date published: 2023-11-13T13:41:52.770181+00:00
- - user: None
- - tags: ['museum']
-
-## Mark Wrobel
- - [https://www.markwrobel.dk](https://www.markwrobel.dk)
- - date published: 2023-11-02T10:46:34.460851+00:00
- - user: None
- - tags: ['personal', 'amiga']
-
-## ploeh blog
- - [https://blog.ploeh.dk](https://blog.ploeh.dk)
- - date published: 2023-10-25T18:45:40.993665+00:00
  - user: None
  - tags: []
 

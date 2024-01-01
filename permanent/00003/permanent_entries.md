@@ -1,3 +1,57 @@
+## Cyclingnews | Cycling News, Race Results and Bike Reviews
+ - [https://www.cyclingnews.com](https://www.cyclingnews.com)
+ - date published: 2023-10-25T10:52:58.775912+00:00
+ - user: None
+ - tags: []
+
+## VELO - Competitive Cycling News, Race Results and Bike Reviews - Velo
+ - [https://cyclingtips.com](https://cyclingtips.com)
+ - date published: 2023-10-25T13:41:05.475606+00:00
+ - user: None
+ - tags: []
+
+## Cygwin
+ - [https://www.cygwin.com](https://www.cygwin.com)
+ - date published: 2023-10-30T14:02:57.357923+00:00
+ - user: None
+ - tags: ['open source']
+
+## Cyprus Mail
+ - [https://cyprus-mail.com](https://cyprus-mail.com)
+ - date published: 2023-11-23T13:54:27.955298+00:00
+ - user: None
+ - tags: []
+
+## Tools, Resources, and News for Diablo 2 Resurrected - D2Runewizard
+ - [https://d2runewizard.com](https://d2runewizard.com)
+ - date published: 2023-10-30T15:21:18.226777+00:00
+ - user: None
+ - tags: []
+
+## Diablo 3 - AnDre#2616 pl
+ - [https://www.d3andre.com](https://www.d3andre.com)
+ - date published: 2023-10-29T11:09:37.660995+00:00
+ - user: None
+ - tags: ['diablo']
+
+## Maximum Stats on Items - Diablo 3: Reaper of Souls - D3 Max Stats
+ - [https://www.d3maxstats.com](https://www.d3maxstats.com)
+ - date published: 2023-12-13T16:21:35.452239+00:00
+ - user: None
+ - tags: []
+
+## Diablo 3 Resources
+ - [https://d3resource.com](https://d3resource.com)
+ - date published: 2023-10-25T11:08:36.624986+00:00
+ - user: None
+ - tags: []
+
+## https://d3sanctuary.com
+ - [https://d3sanctuary.com](https://d3sanctuary.com)
+ - date published: 2023-12-13T16:21:58.317851+00:00
+ - user: None
+ - tags: []
+
 ## Dadagrams
  - [https://dadagrams.com](https://dadagrams.com)
  - date published: 2023-10-25T13:41:06.381836+00:00
@@ -904,6 +958,12 @@
  - user: None
  - tags: []
 
+## Deepti Kannapan - Fiction writer, painter, and engineer
+ - [https://www.deeptikannapan.com](https://www.deeptikannapan.com)
+ - date published: 2023-12-31T16:46:51.630086+00:00
+ - user: None
+ - tags: []
+
 ## DEEP VOODOO
  - [https://www.deepvoodoo.com](https://www.deepvoodoo.com)
  - date published: 2023-10-25T13:47:58.271089+00:00
@@ -1273,6 +1333,12 @@
 ## DevOps - The Web's Largest Collection of DevOps Content
  - [https://devops.com](https://devops.com)
  - date published: 2023-10-25T09:32:41.467092+00:00
+ - user: None
+ - tags: []
+
+## Mazzle – A Pipelines as Code Tool
+ - [https://devops-pipeline.com](https://devops-pipeline.com)
+ - date published: 2023-12-31T11:15:08+00:00
  - user: None
  - tags: []
 
@@ -3575,6 +3641,12 @@
  - user: None
  - tags: ['personal']
 
+## Erik Elbieh | Engineer, Experimenter, Explorer
+ - [https://erikelbieh.com](https://erikelbieh.com)
+ - date published: 2023-12-31T13:22:52.704659+00:00
+ - user: None
+ - tags: []
+
 ## Erik McClure
  - [https://erikmcclure.com](https://erikmcclure.com)
  - date published: 2023-10-25T09:20:28.372378+00:00
@@ -3764,6 +3836,12 @@
 ## EuclideanSpace
  - [https://euclideanspace.com](https://euclideanspace.com)
  - date published: 2023-11-10T04:19:14+00:00
+ - user: None
+ - tags: []
+
+## Eugene's Musings
+ - [https://eugenescheepers.com](https://eugenescheepers.com)
+ - date published: 2023-12-31T13:21:39.424716+00:00
  - user: None
  - tags: []
 
@@ -5918,84 +5996,6 @@
 ## Freedom to Tinker - Research and expert commentary on digital technologies
  - [https://freedom-to-tinker.com](https://freedom-to-tinker.com)
  - date published: 2023-10-25T14:37:41.063916+00:00
- - user: None
- - tags: []
-
-## Freelance Faucet | The Content Hub For Freelancers
- - [https://freelancefaucet.com](https://freelancefaucet.com)
- - date published: 2023-11-29T15:46:47.429109+00:00
- - user: None
- - tags: ['personal']
-
-## free-music-demixer
- - [https://freemusicdemixer.com](https://freemusicdemixer.com)
- - date published: 2023-10-25T08:35:05.961264+00:00
- - user: None
- - tags: []
-
-## Detroit Free Press - Home
- - [https://www.freep.com](https://www.freep.com)
- - date published: 2023-10-25T14:37:45.876385+00:00
- - user: None
- - tags: []
-
-## Freepik: Download Free Videos, Vectors, Photos, and PSD
- - [https://www.freepik.com](https://www.freepik.com)
- - date published: 2023-10-25T14:37:49.693989+00:00
- - user: None
- - tags: ['asset images']
-
-## FreeRDP
- - [https://www.freerdp.com](https://www.freerdp.com)
- - date published: 2023-10-25T14:37:51.172396+00:00
- - user: None
- - tags: []
-
-## Latest Articles
- - [https://freerepublic.com](https://freerepublic.com)
- - date published: 2023-10-25T14:37:55.802675+00:00
- - user: None
- - tags: []
-
-## Freethink - Move the World
- - [https://www.freethink.com](https://www.freethink.com)
- - date published: 2023-10-25T14:38:09.460936+00:00
- - user: None
- - tags: []
-
-## Supply Chain, Logistics, and Trucking News & Data - FreightWaves
- - [https://www.freightwaves.com](https://www.freightwaves.com)
- - date published: 2023-10-25T14:38:16.495067+00:00
- - user: None
- - tags: []
-
-## Freshly Baked Brand
- - [https://www.freshlybakedbrand.com](https://www.freshlybakedbrand.com)
- - date published: 2023-11-29T14:54:29.157624+00:00
- - user: None
- - tags: ['personal']
-
-## Fretboard Fly | Games for musicians
- - [https://www.fretboardfly.com](https://www.fretboardfly.com)
- - date published: 2023-10-25T14:38:18.866372+00:00
- - user: None
- - tags: []
-
-## Friendly Captcha - GDPR-Compliant Bot Protection
- - [https://friendlycaptcha.com](https://friendlycaptcha.com)
- - date published: 2023-10-25T14:38:20.875386+00:00
- - user: None
- - tags: []
-
-## Friendster
- - [https://friendster.com](https://friendster.com)
- - date published: 2023-11-03T08:29:40.931350+00:00
- - user: None
- - tags: []
-
-## Frigade – Build better product onboarding, faster.
- - [https://frigade.com](https://frigade.com)
- - date published: 2023-10-25T14:38:29.995888+00:00
  - user: None
  - tags: []
 

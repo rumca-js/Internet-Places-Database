@@ -1,3 +1,261 @@
+## Booklet
+ - [https://www.booklet.group](https://www.booklet.group)
+ - date published: 2023-10-25T19:27:41.800887+00:00
+ - user: None
+ - tags: []
+
+## Fortran Discourse - Fortran open source community
+ - [https://fortran-lang.discourse.group](https://fortran-lang.discourse.group)
+ - date published: 2023-10-25T19:27:46.377370+00:00
+ - user: None
+ - tags: []
+
+## Kim-Jong Cracks Social
+ - [https://nso.group](https://nso.group)
+ - date published: 2023-10-25T19:27:46.890969+00:00
+ - user: None
+ - tags: []
+
+## The Opsgroup Story – What we are about
+ - [https://ops.group](https://ops.group)
+ - date published: 2023-12-04T00:36:57.850661+00:00
+ - user: None
+ - tags: []
+
+## d2r.guide · Diablo II: Resurrected Cheat Sheet
+ - [https://d2r.guide](https://d2r.guide)
+ - date published: 2023-12-13T16:04:31.872838+00:00
+ - user: None
+ - tags: []
+
+## Show HN: IP Guide – info on IP addresses, Networks, and ASNs
+ - [https://ip.guide](https://ip.guide)
+ - date published: 2023-11-24T22:37:16+00:00
+ - user: None
+ - tags: []
+
+## Janet for Mortals
+ - [https://janet.guide](https://janet.guide)
+ - date published: 2023-10-25T19:27:47.704736+00:00
+ - user: None
+ - tags: []
+
+## Programming.Guide
+ - [https://programming.guide](https://programming.guide)
+ - date published: 2023-10-25T19:27:49.280845+00:00
+ - user: None
+ - tags: []
+
+## Introduction - The Marketplace Guide
+ - [https://themarketplace.guide](https://themarketplace.guide)
+ - date published: 2023-10-25T19:27:51.233231+00:00
+ - user: None
+ - tags: []
+
+## Hexagon's Blog
+ - [https://dev.hexagon.56k.guru](https://dev.hexagon.56k.guru)
+ - date published: 2023-10-25T09:21:56.086882+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nightcap Guru
+ - [https://www.nightcap.guru](https://www.nightcap.guru)
+ - date published: 2023-10-25T19:27:52.113533+00:00
+ - user: None
+ - tags: []
+
+## Watcher Guru - Fastest Finance & Crypto News
+ - [https://watcher.guru](https://watcher.guru)
+ - date published: 2023-10-25T19:27:53.247909+00:00
+ - user: None
+ - tags: []
+
+## 404 Not Found
+ - [http://blog.deckc.hair](http://blog.deckc.hair)
+ - date published: 2023-10-25T19:27:53.491662+00:00
+ - user: None
+ - tags: []
+
+## Radiant Chat | Your medical reference bot
+ - [https://chat.radiantai.health](https://chat.radiantai.health)
+ - date published: 2023-10-25T19:27:56.604094+00:00
+ - user: None
+ - tags: []
+
+## Turquoise Health Blog
+ - [https://blog.turquoise.health](https://blog.turquoise.health)
+ - date published: 2023-10-25T19:27:58.234456+00:00
+ - user: None
+ - tags: []
+
+## City University of Hong Kong
+ - [https://www.cityu.edu.hk](https://www.cityu.edu.hk)
+ - date published: 2023-11-12T14:24:15.942518+00:00
+ - user: None
+ - tags: []
+
+## jon.hk
+ - [https://jon.hk](https://jon.hk)
+ - date published: 2023-10-25T19:28:01.121455+00:00
+ - user: None
+ - tags: []
+
+## blogs.hn
+ - [https://blogs.hn](https://blogs.hn)
+ - date published: 2023-12-18T15:10:33+00:00
+ - user: rumpel
+ - tags: ['blogs', 'personal']
+
+## Hacker News Blogroll
+ - [https://dm.hn](https://dm.hn)
+ - date published: 2023-10-25T19:28:02.288614+00:00
+ - user: None
+ - tags: []
+
+## Honda Motor Co.,Ltd.｜Honda Global Corporate Website
+ - [https://global.honda](https://global.honda)
+ - date published: 2023-11-04T02:27:34.117726+00:00
+ - user: None
+ - tags: []
+
+## the uncolouring book
+ - [https://lines.potato.horse](https://lines.potato.horse)
+ - date published: 2023-10-25T19:28:03.445035+00:00
+ - user: None
+ - tags: []
+
+## Sheep.Horse - The Blog of Andrew Stephens
+ - [https://sheep.horse](https://sheep.horse)
+ - date published: 2023-10-25T19:28:04.559800+00:00
+ - user: None
+ - tags: []
+
+## Financial Services - Just another Oxygen Design Sets site
+ - [https://financial.oxy.host](https://financial.oxy.host)
+ - date published: 2023-12-11T18:58:45.988317+00:00
+ - user: None
+ - tags: []
+
+## Random Bits
+ - [https://blog.randombits.host](https://blog.randombits.host)
+ - date published: 2023-10-25T19:28:05.304724+00:00
+ - user: None
+ - tags: []
+
+## Runhouse | Programmable Remote Compute and Data
+ - [https://www.run.house](https://www.run.house)
+ - date published: 2023-10-25T19:28:07.838403+00:00
+ - user: None
+ - tags: []
+
+## Decentralized publishing for the web
+ - [https://www.nostr.how](https://www.nostr.how)
+ - date published: 2023-10-25T19:28:09.438206+00:00
+ - user: None
+ - tags: []
+
+## this.how index
+ - [https://this.how](https://this.how)
+ - date published: 2023-10-25T19:28:11.834590+00:00
+ - user: None
+ - tags: []
+
+## %DOC_TITLE%Ivy
+ - [https://deep-ivy-ltd.breezy.hr](https://deep-ivy-ltd.breezy.hr)
+ - date published: 2023-10-25T19:28:13.386126+00:00
+ - user: None
+ - tags: []
+
+## %DOC_TITLE%HiOperator
+ - [https://hioperator.breezy.hr](https://hioperator.breezy.hr)
+ - date published: 2023-10-25T19:28:14.989325+00:00
+ - user: None
+ - tags: []
+
+## %DOC_TITLE%Manara
+ - [https://manara.breezy.hr](https://manara.breezy.hr)
+ - date published: 2023-10-25T19:28:16.673859+00:00
+ - user: None
+ - tags: []
+
+## %DOC_TITLE%Optery
+ - [https://optery.breezy.hr](https://optery.breezy.hr)
+ - date published: 2023-10-25T19:28:18.453398+00:00
+ - user: None
+ - tags: []
+
+## Osobna vozila | Gospodarska vozila | Citroën
+ - [https://www.citroen.hr](https://www.citroen.hr)
+ - date published: 2023-12-11T16:02:20.579873+00:00
+ - user: None
+ - tags: []
+
+## Početna
+ - [https://n1info.hr](https://n1info.hr)
+ - date published: 2023-11-07T20:56:46.124743+00:00
+ - user: None
+ - tags: []
+
+## Making software better without sacrificing user experience.
+ - [https://bt.ht](https://bt.ht)
+ - date published: 2023-10-25T19:28:21.149097+00:00
+ - user: None
+ - tags: []
+
+## Shinobi Website | A text-based, RSS focused blogging "system"
+ - [https://shinobi.bt.ht](https://shinobi.bt.ht)
+ - date published: 2023-10-25T19:28:22.061141+00:00
+ - user: None
+ - tags: []
+
+## GitHoot: blogging as simple as creating a GitHub gist
+ - [https://git.ht](https://git.ht)
+ - date published: 2023-10-25T19:28:22.898103+00:00
+ - user: None
+ - tags: []
+
+## Generative Voice AI News and Research by PlayHT
+ - [https://news.play.ht](https://news.play.ht)
+ - date published: 2023-10-25T19:28:24.482195+00:00
+ - user: None
+ - tags: []
+
+## git.sr.ht
+ - [https://git.sr.ht](https://git.sr.ht)
+ - date published: 2023-12-31T14:27:47.547611+00:00
+ - user: None
+ - tags: []
+
+## lists.sr.ht
+ - [https://lists.sr.ht](https://lists.sr.ht)
+ - date published: 2023-10-25T19:28:25.248561+00:00
+ - user: None
+ - tags: []
+
+## sourcehut hub
+ - [https://sr.ht](https://sr.ht)
+ - date published: 2023-10-25T19:28:26.035376+00:00
+ - user: None
+ - tags: []
+
+## about me
+ - [https://thelig.ht](https://thelig.ht)
+ - date published: 2023-10-25T09:21:57.537936+00:00
+ - user: None
+ - tags: ['personal']
+
+## amigaspirit.hu
+ - [http://www.amigaspirit.hu](http://www.amigaspirit.hu)
+ - date published: 2023-12-11T18:55:28.039900+00:00
+ - user: None
+ - tags: []
+
+## Új autók | Személygépkocsik és haszongépjárművek | Szerviz | Citroën
+ - [https://www.citroen.hu](https://www.citroen.hu)
+ - date published: 2023-12-11T16:02:04.779070+00:00
+ - user: None
+ - tags: []
+
 ## Random thoughts of Peter 'CzP' Czanik
  - [https://peter.czanik.hu](https://peter.czanik.hu)
  - date published: 2023-10-25T19:28:27.255307+00:00
@@ -247,6 +505,12 @@
 ## https://www.idf.il
  - [https://www.idf.il](https://www.idf.il)
  - date published: 2023-11-13T20:52:27.483837+00:00
+ - user: None
+ - tags: []
+
+## https://en.idi.org.il
+ - [https://en.idi.org.il](https://en.idi.org.il)
+ - date published: 2023-12-31T18:32:18.786003+00:00
  - user: None
  - tags: []
 
@@ -3000,6 +3264,12 @@ through Composable Diffusion
  - user: None
  - tags: []
 
+## Site not found · GitHub Pages
+ - [https://daduckmsft.github.io](https://daduckmsft.github.io)
+ - date published: 2023-12-31T17:16:39.038947+00:00
+ - user: None
+ - tags: []
+
 ## Daniel Geng
  - [https://dangeng.github.io](https://dangeng.github.io)
  - date published: 2023-12-01T10:46:14.463296+00:00
@@ -4657,6 +4927,12 @@ through Composable Diffusion
  - user: None
  - tags: []
 
+## tangentstorm's github page
+ - [https://tangentstorm.github.io](https://tangentstorm.github.io)
+ - date published: 2023-12-31T13:20:14.669899+00:00
+ - user: None
+ - tags: []
+
 ## Text-to-Audio Generation using Instruction Tuned LLM and Latent Diffusion Model
  - [https://tango-web.github.io](https://tango-web.github.io)
  - date published: 2023-10-25T19:54:41.441534+00:00
@@ -4906,6 +5182,12 @@ through Composable Diffusion
 ## Lisp journey
  - [https://lisp-journey.gitlab.io](https://lisp-journey.gitlab.io)
  - date published: 2023-10-25T19:55:27.274355+00:00
+ - user: None
+ - tags: []
+
+## About me | Matheus Tavares
+ - [https://matheustavares.gitlab.io](https://matheustavares.gitlab.io)
+ - date published: 2023-12-31T13:20:58.112219+00:00
  - user: None
  - tags: []
 
@@ -5716,290 +5998,6 @@ through Composable Diffusion
 ## The Way We Work
  - [https://blog.lettucework.io](https://blog.lettucework.io)
  - date published: 2023-10-25T19:59:55.282266+00:00
- - user: None
- - tags: []
-
-## LFE Blog
-      
-         - LFE Tutorials, News,  & Updates
- - [https://blog.lfe.io](https://blog.lfe.io)
- - date published: 2023-10-25T19:59:57.180698+00:00
- - user: None
- - tags: []
-
-## Supporting aging research, age reversal tech, & rejuvenation
- - [https://www.lifespan.io](https://www.lifespan.io)
- - date published: 2023-10-25T20:00:01.354268+00:00
- - user: None
- - tags: []
-
-## Linkcollect - Save and Share Links
- - [https://linkcollect.io](https://linkcollect.io)
- - date published: 2023-10-25T20:00:02.711861+00:00
- - user: None
- - tags: []
-
-## Eruda: Console for Mobile Browsers
- - [https://eruda.liriliri.io](https://eruda.liriliri.io)
- - date published: 2023-10-25T20:00:04.000202+00:00
- - user: None
- - tags: []
-
-## LiteSync - SQLite Replication and Synchronization
- - [https://litesync.io](https://litesync.io)
- - date published: 2023-10-25T20:00:07.573949+00:00
- - user: None
- - tags: []
-
-## Livecycle: Contextual collaboration on live PR previews.
- - [https://livecycle.io](https://livecycle.io)
- - date published: 2023-10-25T20:00:10.325729+00:00
- - user: None
- - tags: []
-
-## LOLDrivers
- - [https://www.loldrivers.io](https://www.loldrivers.io)
- - date published: 2023-10-25T20:00:12.732801+00:00
- - user: None
- - tags: []
-
-## Lookify.io - Reverse Phone Number Lookup and Data Search
- - [https://lookify.io](https://lookify.io)
- - date published: 2023-10-25T20:00:14.881784+00:00
- - user: None
- - tags: []
-
-## Jinhua Blog
- - [http://luajit.io](http://luajit.io)
- - date published: 2023-10-25T08:59:19.751410+00:00
- - user: None
- - tags: ['personal']
-
-## lukas.io | Articles
- - [https://lukas.io](https://lukas.io)
- - date published: 2023-10-25T20:00:17.420249+00:00
- - user: None
- - tags: []
-
-## LunaSec - Open Source Data Security Platform
- - [https://www.lunasec.io](https://www.lunasec.io)
- - date published: 2023-10-25T20:00:24.904783+00:00
- - user: None
- - tags: []
-
-## M6n.io
- - [https://m6n.io](https://m6n.io)
- - date published: 2023-10-25T20:00:26.354811+00:00
- - user: None
- - tags: []
-
-## Major Hayden
- - [https://major.io](https://major.io)
- - date published: 2023-10-25T08:49:38.012974+00:00
- - user: None
- - tags: ['personal']
-
-## Manabi Reader – Learn Japanese by Reading on iOS, iPadOS & macOS
- - [https://reader.manabi.io](https://reader.manabi.io)
- - date published: 2023-10-25T20:00:29.135011+00:00
- - user: None
- - tags: []
-
-## Map Genie | Awesome Interactive Game Maps
- - [https://mapgenie.io](https://mapgenie.io)
- - date published: 2023-11-13T13:33:59.935262+00:00
- - user: None
- - tags: ['game maps', 'video games']
-
-## Material Design
- - [https://material.io](https://material.io)
- - date published: 2023-10-25T20:00:36.734434+00:00
- - user: None
- - tags: []
-
-## Materialized View | Chris Riccomini | Substack
- - [https://materializedview.io](https://materializedview.io)
- - date published: 2023-12-22T18:37:31.093475+00:00
- - user: None
- - tags: []
-
-## Mats3 - Mats3: Message-based Asynchronous Transactional Staged Stateless Services
- - [https://mats3.io](https://mats3.io)
- - date published: 2023-10-25T20:00:38.397584+00:00
- - user: None
- - tags: []
-
-## Shiki
- - [https://shiki.matsu.io](https://shiki.matsu.io)
- - date published: 2023-10-25T20:00:40.369206+00:00
- - user: None
- - tags: []
-
-## Hi there! - matthieu.io
- - [https://matthieu.io](https://matthieu.io)
- - date published: 2023-10-25T08:49:39.454595+00:00
- - user: None
- - tags: ['personal']
-
-## MAXLAB.IO | Canadian Computer Vision Company
- - [https://maxlab.io](https://maxlab.io)
- - date published: 2023-10-25T20:00:42.506555+00:00
- - user: None
- - tags: []
-
-## https://www.mayerowitz.io
- - [https://www.mayerowitz.io](https://www.mayerowitz.io)
- - date published: 2023-10-26T23:41:55.043352+00:00
- - user: None
- - tags: []
-
-## meain/blog
- - [https://blog.meain.io](https://blog.meain.io)
- - date published: 2023-10-25T08:59:26.694324+00:00
- - user: None
- - tags: ['personal']
-
-## Новости — Meduza
- - [https://meduza.io](https://meduza.io)
- - date published: 2023-10-25T20:00:45.062148+00:00
- - user: None
- - tags: []
-
-## Metrist Home - Metrist
- - [https://metrist.io](https://metrist.io)
- - date published: 2023-10-25T20:00:48.464072+00:00
- - user: None
- - tags: []
-
-## Michael Dresser’s blog
- - [https://blog.michaeldresser.io](https://blog.michaeldresser.io)
- - date published: 2023-10-25T20:00:49.700037+00:00
- - user: None
- - tags: []
-
-## Michelin IT Engineering Blog
- - [https://blogit.michelin.io](https://blogit.michelin.io)
- - date published: 2023-10-25T20:00:52.213437+00:00
- - user: None
- - tags: []
-
-## Milk-V | Embracing RISC-V with us
- - [https://milkv.io](https://milkv.io)
- - date published: 2023-10-25T20:00:53.948439+00:00
- - user: None
- - tags: []
-
-## Vector database - Milvus
- - [https://milvus.io](https://milvus.io)
- - date published: 2023-10-25T20:00:58.393335+00:00
- - user: None
- - tags: []
-
-## MinIO Blog
- - [https://blog.min.io](https://blog.min.io)
- - date published: 2023-10-25T20:01:04.713504+00:00
- - user: None
- - tags: []
-
-## Mithril Security Blog
- - [https://blog.mithrilsecurity.io](https://blog.mithrilsecurity.io)
- - date published: 2023-10-25T20:01:07.202007+00:00
- - user: None
- - tags: []
-
-## Mithril Security
- - [https://www.mithrilsecurity.io](https://www.mithrilsecurity.io)
- - date published: 2023-10-25T20:01:10.228067+00:00
- - user: None
- - tags: []
-
-## Memory Management Toolkit
- - [https://www.mmtk.io](https://www.mmtk.io)
- - date published: 2023-10-25T20:01:11.811340+00:00
- - user: None
- - tags: []
-
-## Ethical hacker, Ruby Developer, Rails developer | Greg Molnar
- - [https://greg.molnar.io](https://greg.molnar.io)
- - date published: 2023-10-25T20:01:13.614784+00:00
- - user: None
- - tags: []
-
-## Montaigne
- - [https://montaigne.io](https://montaigne.io)
- - date published: 2023-12-20T12:06:56.930331+00:00
- - user: None
- - tags: []
-
-## Today's Top AI and Crypto News | Metaverse Post
- - [https://mpost.io](https://mpost.io)
- - date published: 2023-10-25T20:01:27.693578+00:00
- - user: None
- - tags: []
-
-## mtlynch.io
- - [https://mtlynch.io](https://mtlynch.io)
- - date published: 2023-10-25T20:01:28.905212+00:00
- - user: None
- - tags: []
-
-## Muffin Man · Frontend & Creative Coding
- - [https://muffinman.io](https://muffinman.io)
- - date published: 2023-10-25T20:01:30.373723+00:00
- - user: None
- - tags: []
-
-## DataStation | The Data IDE for Developers
- - [https://datastation.multiprocess.io](https://datastation.multiprocess.io)
- - date published: 2023-10-25T20:01:33.016038+00:00
- - user: None
- - tags: []
-
-## Magical Music Theory Tools to Learn Music Online for Free
- - [https://muted.io](https://muted.io)
- - date published: 2023-10-25T20:01:36.651032+00:00
- - user: None
- - tags: []
-
-## Michael W Lucas – Crime writer. Many of those crimes involve computers.
- - [https://mwl.io](https://mwl.io)
- - date published: 2023-10-25T20:01:50.414482+00:00
- - user: None
- - tags: []
-
-## n8n.io - a powerful workflow automation tool
- - [https://n8n.io](https://n8n.io)
- - date published: 2023-10-25T20:01:53.839424+00:00
- - user: None
- - tags: []
-
-## NCS (NoCopyrightSounds) - Free Music for Creators
- - [https://ncs.io](https://ncs.io)
- - date published: 2023-11-13T13:39:14.863107+00:00
- - user: None
- - tags: ['music', 'audio assets']
-
-## Nelua
- - [https://nelua.io](https://nelua.io)
- - date published: 2023-10-25T20:02:00.537497+00:00
- - user: None
- - tags: []
-
-## Home - Neovim
- - [https://neovim.io](https://neovim.io)
- - date published: 2023-10-25T20:02:02.448762+00:00
- - user: None
- - tags: ['program', 'open source', 'vim']
-
-## Netmaker: Wireguard® VPN & Software Defined Networking
- - [https://www.netmaker.io](https://www.netmaker.io)
- - date published: 2023-10-25T20:02:05.345841+00:00
- - user: None
- - tags: []
-
-## New Metrics - Compare Analytics Tools - Most Complete Overview
- - [https://newmetrics.io](https://newmetrics.io)
- - date published: 2023-10-25T20:02:07.745642+00:00
  - user: None
  - tags: []
 

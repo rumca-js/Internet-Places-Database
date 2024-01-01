@@ -1,3 +1,51 @@
+## Big Tech on Trial | Yosef Weitzman | Substack
+ - [https://www.bigtechontrial.com](https://www.bigtechontrial.com)
+ - date published: 2023-10-25T12:59:36.959416+00:00
+ - user: None
+ - tags: []
+
+## BigTechWiki
+ - [https://www.bigtechwiki.com](https://www.bigtechwiki.com)
+ - date published: 2023-10-25T12:59:40.337046+00:00
+ - user: None
+ - tags: []
+
+## BigTechWire | Latest news from Big Tech companies
+ - [https://www.bigtechwire.com](https://www.bigtechwire.com)
+ - date published: 2023-10-25T12:59:44.327502+00:00
+ - user: None
+ - tags: []
+
+## Big Think - Smarter, Faster
+ - [https://bigthink.com](https://bigthink.com)
+ - date published: 2023-10-25T12:59:49.823628+00:00
+ - user: None
+ - tags: []
+
+## BikeBiz | Cycling trade and industry news and analysis
+ - [https://bikebiz.com](https://bikebiz.com)
+ - date published: 2023-10-25T12:59:52.470878+00:00
+ - user: None
+ - tags: []
+
+## Bikes, Bike Reviews and Bike News - BikeRadar
+ - [https://www.bikeradar.com](https://www.bikeradar.com)
+ - date published: 2023-10-25T12:59:56.950245+00:00
+ - user: None
+ - tags: []
+
+## Photons, Electrons, and Dirt | A blog by Glen Akins
+ - [https://bikerglen.com](https://bikerglen.com)
+ - date published: 2023-10-25T12:59:59.834463+00:00
+ - user: None
+ - tags: []
+
+## 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+ - [https://www.bilibili.com](https://www.bilibili.com)
+ - date published: 2023-11-05T01:07:16.969115+00:00
+ - user: None
+ - tags: []
+
 ## BillaBear - BillaBear
  - [https://billabear.com](https://billabear.com)
  - date published: 2023-10-25T13:00:03.886008+00:00
@@ -5553,6 +5601,12 @@
  - user: None
  - tags: []
 
+## crockford.com
+ - [https://www.crockford.com](https://www.crockford.com)
+ - date published: 2023-12-31T13:20:44.916201+00:00
+ - user: None
+ - tags: []
+
 ## Bob Cromwell on Linux, Cybersecurity, Travel, and More
  - [https://cromwell-intl.com](https://cromwell-intl.com)
  - date published: 2023-10-25T13:36:59.002500+00:00
@@ -5953,60 +6007,6 @@
 ## RNBO | Cycling '74
  - [https://rnbo.cycling74.com](https://rnbo.cycling74.com)
  - date published: 2023-10-25T13:40:56.742683+00:00
- - user: None
- - tags: []
-
-## Cyclingnews | Cycling News, Race Results and Bike Reviews
- - [https://www.cyclingnews.com](https://www.cyclingnews.com)
- - date published: 2023-10-25T10:52:58.775912+00:00
- - user: None
- - tags: []
-
-## VELO - Competitive Cycling News, Race Results and Bike Reviews - Velo
- - [https://cyclingtips.com](https://cyclingtips.com)
- - date published: 2023-10-25T13:41:05.475606+00:00
- - user: None
- - tags: []
-
-## Cygwin
- - [https://www.cygwin.com](https://www.cygwin.com)
- - date published: 2023-10-30T14:02:57.357923+00:00
- - user: None
- - tags: ['open source']
-
-## Cyprus Mail
- - [https://cyprus-mail.com](https://cyprus-mail.com)
- - date published: 2023-11-23T13:54:27.955298+00:00
- - user: None
- - tags: []
-
-## Tools, Resources, and News for Diablo 2 Resurrected - D2Runewizard
- - [https://d2runewizard.com](https://d2runewizard.com)
- - date published: 2023-10-30T15:21:18.226777+00:00
- - user: None
- - tags: []
-
-## Diablo 3 - AnDre#2616 pl
- - [https://www.d3andre.com](https://www.d3andre.com)
- - date published: 2023-10-29T11:09:37.660995+00:00
- - user: None
- - tags: ['diablo']
-
-## Maximum Stats on Items - Diablo 3: Reaper of Souls - D3 Max Stats
- - [https://www.d3maxstats.com](https://www.d3maxstats.com)
- - date published: 2023-12-13T16:21:35.452239+00:00
- - user: None
- - tags: []
-
-## Diablo 3 Resources
- - [https://d3resource.com](https://d3resource.com)
- - date published: 2023-10-25T11:08:36.624986+00:00
- - user: None
- - tags: []
-
-## https://d3sanctuary.com
- - [https://d3sanctuary.com](https://d3sanctuary.com)
- - date published: 2023-12-13T16:21:58.317851+00:00
  - user: None
  - tags: []
 

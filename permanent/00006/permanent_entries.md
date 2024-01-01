@@ -1,3 +1,105 @@
+## Steven Renwick – Medium
+ - [https://major-grooves.medium.com](https://major-grooves.medium.com)
+ - date published: 2023-10-25T10:21:30.099042+00:00
+ - user: None
+ - tags: []
+
+## Marco Chiappetta – Medium
+ - [https://marcochiappetta.medium.com](https://marcochiappetta.medium.com)
+ - date published: 2023-10-25T10:21:32.397453+00:00
+ - user: None
+ - tags: []
+
+## Mark Riedl – Medium
+ - [https://mark-riedl.medium.com](https://mark-riedl.medium.com)
+ - date published: 2023-10-25T10:21:34.322681+00:00
+ - user: None
+ - tags: []
+
+## Marker
+ - [https://marker.medium.com](https://marker.medium.com)
+ - date published: 2023-10-25T10:21:36.663031+00:00
+ - user: None
+ - tags: []
+
+## Martin C. W. Walker – Medium
+ - [https://martincwwalker.medium.com](https://martincwwalker.medium.com)
+ - date published: 2023-10-25T10:21:38.834542+00:00
+ - user: None
+ - tags: []
+
+## Mate Marschalko – Medium
+ - [https://matemarschalko.medium.com](https://matemarschalko.medium.com)
+ - date published: 2023-10-25T10:21:41.075375+00:00
+ - user: None
+ - tags: []
+
+## Matt Schellhas – Medium
+ - [https://matt-schellhas.medium.com](https://matt-schellhas.medium.com)
+ - date published: 2023-10-25T10:21:43.331825+00:00
+ - user: None
+ - tags: []
+
+## Matthias Bühlmann – Medium
+ - [https://matthias-buehlmann.medium.com](https://matthias-buehlmann.medium.com)
+ - date published: 2023-10-25T10:21:45.263139+00:00
+ - user: None
+ - tags: []
+
+## Michael Dubakov – Medium
+ - [https://mdubakov.medium.com](https://mdubakov.medium.com)
+ - date published: 2023-10-25T10:21:47.728718+00:00
+ - user: None
+ - tags: []
+
+## Matt Welsh – Medium
+ - [https://mdwdotla.medium.com](https://mdwdotla.medium.com)
+ - date published: 2023-10-25T10:21:50.299253+00:00
+ - user: None
+ - tags: []
+
+## Medium – Where good ideas find you.
+ - [https://medium.com](https://medium.com)
+ - date published: 2023-10-25T14:33:39.240442+00:00
+ - user: None
+ - tags: []
+
+## Masayuki Hatta – Medium
+ - [https://mhatta.medium.com](https://mhatta.medium.com)
+ - date published: 2023-10-25T10:21:53.146584+00:00
+ - user: None
+ - tags: []
+
+## MooseyAnon – Medium
+ - [https://mooseyanon.medium.com](https://mooseyanon.medium.com)
+ - date published: 2023-11-01T02:23:21.073666+00:00
+ - user: None
+ - tags: []
+
+## Andrei R | Mr Fireside – Medium
+ - [https://mrfireside.medium.com](https://mrfireside.medium.com)
+ - date published: 2023-10-25T10:21:55.362809+00:00
+ - user: None
+ - tags: []
+
+## Medium
+ - [https://mrs-t.medium.com](https://mrs-t.medium.com)
+ - date published: 2023-10-25T10:21:56.734858+00:00
+ - user: None
+ - tags: []
+
+## Matt Calder – Medium
+ - [https://mvcalder-01701.medium.com](https://mvcalder-01701.medium.com)
+ - date published: 2023-10-25T10:21:58.459803+00:00
+ - user: None
+ - tags: []
+
+## Fernando Villalba – Medium
+ - [https://nandovillalba.medium.com](https://nandovillalba.medium.com)
+ - date published: 2023-10-26T06:39:56.179167+00:00
+ - user: None
+ - tags: []
+
 ## Netflix Technology Blog – Medium
  - [https://netflixtechblog.medium.com](https://netflixtechblog.medium.com)
  - date published: 2023-10-25T10:22:00.831065+00:00
@@ -928,6 +1030,12 @@
  - user: None
  - tags: []
 
+## Sprezzatura
+ - [https://mikaelsyding.com](https://mikaelsyding.com)
+ - date published: 2023-12-31T21:20:59.573845+00:00
+ - user: None
+ - tags: []
+
 ## mike beauchamp : occasional doer of stuff and maker of things
  - [http://mikebeauchamp.com](http://mikebeauchamp.com)
  - date published: 2023-10-25T16:03:50.613706+00:00
@@ -1390,6 +1498,12 @@
  - user: None
  - tags: []
 
+## Mohit Pawar.com – Passion Comes First !
+ - [https://mohitpawar.com](https://mohitpawar.com)
+ - date published: 2023-12-31T16:48:04.617160+00:00
+ - user: None
+ - tags: []
+
 ## Mojeek
  - [https://www.mojeek.com](https://www.mojeek.com)
  - date published: 2023-10-25T09:07:25.783266+00:00
@@ -1453,6 +1567,12 @@
 ## Money Inc - The Business of Money
  - [https://moneyinc.com](https://moneyinc.com)
  - date published: 2023-10-25T16:06:09.228395+00:00
+ - user: None
+ - tags: []
+
+## Compare Providers & Save on Money Transfers
+ - [https://moneytransfers.com](https://moneytransfers.com)
+ - date published: 2023-12-31T17:39:44.769110+00:00
  - user: None
  - tags: []
 
@@ -2128,6 +2248,12 @@
  - user: None
  - tags: ['personal']
 
+## nadia payan 𓇚 leadership coach, speaker, author and montessori educator
+ - [https://nadiapayan.com](https://nadiapayan.com)
+ - date published: 2023-12-31T16:47:41.945766+00:00
+ - user: None
+ - tags: []
+
 ## 502 Bad Gateway
  - [https://www.nakedcapitalism.com](https://www.nakedcapitalism.com)
  - date published: 2023-10-25T16:10:12.031538+00:00
@@ -2437,6 +2563,12 @@
 ## NBC Chicago
  - [https://www.nbcchicago.com](https://www.nbcchicago.com)
  - date published: 2023-12-06T11:49:40.873102+00:00
+ - user: None
+ - tags: []
+
+## NBC Connecticut
+ - [https://www.nbcconnecticut.com](https://www.nbcconnecticut.com)
+ - date published: 2023-12-31T13:24:50.551838+00:00
  - user: None
  - tags: []
 
@@ -2938,6 +3070,12 @@
  - user: None
  - tags: []
 
+## Newser | Headline News Summaries, World News, and Breaking News
+ - [https://www.newser.com](https://www.newser.com)
+ - date published: 2023-12-31T14:53:09.550366+00:00
+ - user: None
+ - tags: []
+
 ## NewsGuard - Transparent Reliability Ratings for News and Information Sources
  - [https://www.newsguardtech.com](https://www.newsguardtech.com)
  - date published: 2023-10-25T10:37:35.478414+00:00
@@ -3350,6 +3488,12 @@
 ## 日本経済新聞 - ニュース・速報 最新情報
  - [https://www.nikkei.com](https://www.nikkei.com)
  - date published: 2023-12-12T09:08:52.927246+00:00
+ - user: None
+ - tags: []
+
+## niklas babel
+ - [https://niklasbabel.com](https://niklasbabel.com)
+ - date published: 2023-12-31T13:21:18.368816+00:00
  - user: None
  - tags: []
 
@@ -4272,6 +4416,12 @@ Answering Machine Greetings!
 ## Crude Oil Prices Today | OilPrice.com
  - [https://oilprice.com](https://oilprice.com)
  - date published: 2023-10-25T16:25:08.877775+00:00
+ - user: None
+ - tags: []
+
+## MC, Keynote Speaker, Webinar Host, Writer & Consultant - OISIN LUNNY
+ - [https://oisinlunny.com](https://oisinlunny.com)
+ - date published: 2023-12-31T21:19:58.482987+00:00
  - user: None
  - tags: []
 
@@ -5851,156 +6001,6 @@ Answering Machine Greetings!
 ## Music Technology & Synthesizers - Perfect Circuit
  - [https://www.perfectcircuit.com](https://www.perfectcircuit.com)
  - date published: 2023-12-24T20:04:00.092369+00:00
- - user: None
- - tags: []
-
-## https://perfectdarkmode.com
- - [https://perfectdarkmode.com](https://perfectdarkmode.com)
- - date published: 2023-12-12T08:09:19.439269+00:00
- - user: None
- - tags: ['personal']
-
-## perfectpacman.com – Under new management
- - [https://perfectpacman.com](https://perfectpacman.com)
- - date published: 2023-10-25T16:32:46.875034+00:00
- - user: None
- - tags: []
-
-## Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game
- - [https://www.perfectpitchpuzzle.com](https://www.perfectpitchpuzzle.com)
- - date published: 2023-11-24T20:54:17+00:00
- - user: None
- - tags: []
-
-## PerfectRec: Personalized Product Recommendations
- - [https://www.perfectrec.com](https://www.perfectrec.com)
- - date published: 2023-10-25T16:32:57.052562+00:00
- - user: None
- - tags: []
-
-## Caras
- - [https://caras.perfil.com](https://caras.perfil.com)
- - date published: 2023-12-12T08:12:00.628623+00:00
- - user: None
- - tags: []
-
-## Fortuna
- - [https://fortuna.perfil.com](https://fortuna.perfil.com)
- - date published: 2023-12-12T08:13:20.618148+00:00
- - user: None
- - tags: []
-
-## https://fotos.perfil.com
- - [https://fotos.perfil.com](https://fotos.perfil.com)
- - date published: 2023-12-12T08:12:06.680313+00:00
- - user: None
- - tags: []
-
-## Home | Marie Claire
- - [https://marieclaire.perfil.com](https://marieclaire.perfil.com)
- - date published: 2023-12-12T08:11:47.328348+00:00
- - user: None
- - tags: []
-
-## Entender cambia la vida | Noticias
- - [https://noticias.perfil.com](https://noticias.perfil.com)
- - date published: 2023-12-12T08:11:22.772537+00:00
- - user: None
- - tags: []
-
-## Home | Weekend
- - [https://weekend.perfil.com](https://weekend.perfil.com)
- - date published: 2023-12-12T08:13:14.768938+00:00
- - user: None
- - tags: []
-
-## Perfil | Ultimas noticias de Argentina y el mundo
- - [https://www.perfil.com](https://www.perfil.com)
- - date published: 2023-12-12T08:11:12.321772+00:00
- - user: None
- - tags: ['argentina news']
-
-## https://player.performgroup.com
- - [https://player.performgroup.com](https://player.performgroup.com)
- - date published: 2023-12-12T08:11:33.040293+00:00
- - user: None
- - tags: []
-
-## Web Performance Calendar » 2022
- - [https://calendar.perfplanet.com](https://calendar.perfplanet.com)
- - date published: 2023-10-25T16:33:00.123109+00:00
- - user: None
- - tags: []
-
-## Periodic Table of Tools
- - [https://periodictableoftools.com](https://periodictableoftools.com)
- - date published: 2023-11-26T13:56:09.113605+00:00
- - user: None
- - tags: []
-
-## Permission Slip by CR
- - [https://permissionslipcr.com](https://permissionslipcr.com)
- - date published: 2023-10-25T16:33:04.167505+00:00
- - user: None
- - tags: []
-
-## Perrett Laver: Vacancies
- - [https://candidates.perrettlaver.com](https://candidates.perrettlaver.com)
- - date published: 2023-10-25T16:33:07.284281+00:00
- - user: None
- - tags: []
-
-## The Voice of the Martyrs
- - [https://www.persecution.com](https://www.persecution.com)
- - date published: 2023-11-27T12:15:11+00:00
- - user: rumpel
- - tags: ['christianity', 'religion', 'persecution']
-
-## PerThirtySix
- - [https://perthirtysix.com](https://perthirtysix.com)
- - date published: 2023-10-25T16:33:09.219386+00:00
- - user: None
- - tags: []
-
-## PerThirtySix
- - [https://www.perthirtysix.com](https://www.perthirtysix.com)
- - date published: 2023-10-25T16:33:11.230738+00:00
- - user: None
- - tags: []
-
-## PESTE
- - [https://www.pestemag.com](https://www.pestemag.com)
- - date published: 2023-10-25T16:33:12.996870+00:00
- - user: None
- - tags: []
-
-## PetaPixel | Photography and Camera News, Reviews, and Inspiration
- - [https://petapixel.com](https://petapixel.com)
- - date published: 2023-10-25T10:14:49.031072+00:00
- - user: None
- - tags: []
-
-## Petar Bojinov
- - [https://petarbojinov.com](https://petarbojinov.com)
- - date published: 2023-11-29T14:41:28.119293+00:00
- - user: None
- - tags: ['personal']
-
-## Pete Freitag - ColdFusion, Java & Web Blog
- - [https://www.petefreitag.com](https://www.petefreitag.com)
- - date published: 2023-11-12T00:21:12.930083+00:00
- - user: None
- - tags: []
-
-## Pete Millspaugh
- - [https://www.petemillspaugh.com](https://www.petemillspaugh.com)
- - date published: 2023-11-04T01:47:29.221107+00:00
- - user: None
- - tags: []
-
-## Home - Peter Attia
- - [https://peterattiamd.com](https://peterattiamd.com)
- - date published: 2023-10-25T16:33:17.835551+00:00
  - user: None
  - tags: []
 

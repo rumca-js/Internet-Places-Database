@@ -1,3 +1,81 @@
+## Jay Acunzo | Author, Speaker, Showrunner
+ - [https://jayacunzo.com](https://jayacunzo.com)
+ - date published: 2023-10-25T08:46:19.898867+00:00
+ - user: None
+ - tags: ['personal']
+
+## Goroutines: the concurrency model we wanted all along — jayconrod.com
+ - [https://jayconrod.com](https://jayconrod.com)
+ - date published: 2023-10-25T15:27:26.026976+00:00
+ - user: None
+ - tags: []
+
+## jaydinitto.com | I write stories about otherworldly wonders.
+ - [https://www.jaydinitto.com](https://www.jaydinitto.com)
+ - date published: 2023-11-29T15:45:37.063935+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jay Mody
+ - [https://jaykmody.com](https://jaykmody.com)
+ - date published: 2023-10-25T09:20:55.650339+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://jaylittle.com](https://jaylittle.com)
+ - date published: 2023-10-25T08:46:22.108869+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://jaysonjphillips.com
+ - [https://jaysonjphillips.com](https://jaysonjphillips.com)
+ - date published: 2023-11-29T14:25:46.630894+00:00
+ - user: None
+ - tags: ['personal']
+
+## Juraj's Blog
+ - [https://jborza.com](https://jborza.com)
+ - date published: 2023-10-25T08:58:08.654807+00:00
+ - user: None
+ - tags: ['personal']
+
+## J. Brown Yoga
+ - [https://www.jbrownyoga.com](https://www.jbrownyoga.com)
+ - date published: 2023-12-27T23:56:14.584094+00:00
+ - user: None
+ - tags: ['personal']
+
+## jcbages
+ - [https://jcbages.com](https://jcbages.com)
+ - date published: 2023-12-28T22:25:50.202379+00:00
+ - user: None
+ - tags: ['personal']
+
+## - - JC de Merez
+ - [https://jcdemerez.com](https://jcdemerez.com)
+ - date published: 2023-12-21T08:24:43.653625+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hack The World · Juan Carlos Jimenez
+ - [https://jcjc-dev.com](https://jcjc-dev.com)
+ - date published: 2023-10-25T15:27:34.864299+00:00
+ - user: None
+ - tags: []
+
+## https://www.jclinepi.com
+ - [https://www.jclinepi.com](https://www.jclinepi.com)
+ - date published: 2023-10-25T15:27:36.093054+00:00
+ - user: None
+ - tags: []
+
+## The If Works – The If Works
+ - [https://blog.jcoglan.com](https://blog.jcoglan.com)
+ - date published: 2023-10-25T15:27:36.894719+00:00
+ - user: None
+ - tags: []
+
 ## Financial Markets and Electoral Systems
  - [https://www.jdawiseman.com](https://www.jdawiseman.com)
  - date published: 2023-10-25T15:27:40.087215+00:00
@@ -616,6 +694,12 @@
  - user: None
  - tags: ['personal']
 
+## None
+ - [https://johnpaulbaric.com](https://johnpaulbaric.com)
+ - date published: 2023-12-31T21:20:13.421240+00:00
+ - user: None
+ - tags: []
+
 ## John P. Weiss Artist and Writer
  - [https://johnpweiss.com](https://johnpweiss.com)
  - date published: 2023-10-25T15:30:43.191667+00:00
@@ -1153,6 +1237,12 @@
 ## Just Work
  - [https://www.justworktogether.com](https://www.justworktogether.com)
  - date published: 2023-10-25T15:33:52.782116+00:00
+ - user: None
+ - tags: []
+
+## News & Stories
+ - [https://www.juve-patent.com](https://www.juve-patent.com)
+ - date published: 2023-12-31T13:37:18.778010+00:00
  - user: None
  - tags: []
 
@@ -2026,6 +2116,12 @@
  - date published: 2023-12-11T16:24:06.969165+00:00
  - user: None
  - tags: ['crowdfunding']
+
+## KOBI-TV NBC5 / KOTI-TV NBC2
+ - [https://kobi5.com](https://kobi5.com)
+ - date published: 2023-12-31T13:23:07.770686+00:00
+ - user: None
+ - tags: []
 
 ## Rakuten Kobo
  - [https://www.kobo.com](https://www.kobo.com)
@@ -5131,6 +5227,12 @@ diversions.
  - user: None
  - tags: []
 
+## mattgadient.com | Tech stuff, some fixes/solutions, and occasionally a passionate rant.
+ - [https://mattgadient.com](https://mattgadient.com)
+ - date published: 2023-12-31T17:16:54.550816+00:00
+ - user: None
+ - tags: []
+
 ## blog.matthen.com
  - [https://blog.matthen.com](https://blog.matthen.com)
  - date published: 2023-12-05T09:12:58.682891+00:00
@@ -5896,108 +5998,6 @@ diversions.
 ## Ryan McGeehan – Medium
  - [https://magoo.medium.com](https://magoo.medium.com)
  - date published: 2023-10-25T10:21:27.463778+00:00
- - user: None
- - tags: []
-
-## Steven Renwick – Medium
- - [https://major-grooves.medium.com](https://major-grooves.medium.com)
- - date published: 2023-10-25T10:21:30.099042+00:00
- - user: None
- - tags: []
-
-## Marco Chiappetta – Medium
- - [https://marcochiappetta.medium.com](https://marcochiappetta.medium.com)
- - date published: 2023-10-25T10:21:32.397453+00:00
- - user: None
- - tags: []
-
-## Mark Riedl – Medium
- - [https://mark-riedl.medium.com](https://mark-riedl.medium.com)
- - date published: 2023-10-25T10:21:34.322681+00:00
- - user: None
- - tags: []
-
-## Marker
- - [https://marker.medium.com](https://marker.medium.com)
- - date published: 2023-10-25T10:21:36.663031+00:00
- - user: None
- - tags: []
-
-## Martin C. W. Walker – Medium
- - [https://martincwwalker.medium.com](https://martincwwalker.medium.com)
- - date published: 2023-10-25T10:21:38.834542+00:00
- - user: None
- - tags: []
-
-## Mate Marschalko – Medium
- - [https://matemarschalko.medium.com](https://matemarschalko.medium.com)
- - date published: 2023-10-25T10:21:41.075375+00:00
- - user: None
- - tags: []
-
-## Matt Schellhas – Medium
- - [https://matt-schellhas.medium.com](https://matt-schellhas.medium.com)
- - date published: 2023-10-25T10:21:43.331825+00:00
- - user: None
- - tags: []
-
-## Matthias Bühlmann – Medium
- - [https://matthias-buehlmann.medium.com](https://matthias-buehlmann.medium.com)
- - date published: 2023-10-25T10:21:45.263139+00:00
- - user: None
- - tags: []
-
-## Michael Dubakov – Medium
- - [https://mdubakov.medium.com](https://mdubakov.medium.com)
- - date published: 2023-10-25T10:21:47.728718+00:00
- - user: None
- - tags: []
-
-## Matt Welsh – Medium
- - [https://mdwdotla.medium.com](https://mdwdotla.medium.com)
- - date published: 2023-10-25T10:21:50.299253+00:00
- - user: None
- - tags: []
-
-## Medium – Where good ideas find you.
- - [https://medium.com](https://medium.com)
- - date published: 2023-10-25T14:33:39.240442+00:00
- - user: None
- - tags: []
-
-## Masayuki Hatta – Medium
- - [https://mhatta.medium.com](https://mhatta.medium.com)
- - date published: 2023-10-25T10:21:53.146584+00:00
- - user: None
- - tags: []
-
-## MooseyAnon – Medium
- - [https://mooseyanon.medium.com](https://mooseyanon.medium.com)
- - date published: 2023-11-01T02:23:21.073666+00:00
- - user: None
- - tags: []
-
-## Andrei R | Mr Fireside – Medium
- - [https://mrfireside.medium.com](https://mrfireside.medium.com)
- - date published: 2023-10-25T10:21:55.362809+00:00
- - user: None
- - tags: []
-
-## Medium
- - [https://mrs-t.medium.com](https://mrs-t.medium.com)
- - date published: 2023-10-25T10:21:56.734858+00:00
- - user: None
- - tags: []
-
-## Matt Calder – Medium
- - [https://mvcalder-01701.medium.com](https://mvcalder-01701.medium.com)
- - date published: 2023-10-25T10:21:58.459803+00:00
- - user: None
- - tags: []
-
-## Fernando Villalba – Medium
- - [https://nandovillalba.medium.com](https://nandovillalba.medium.com)
- - date published: 2023-10-26T06:39:56.179167+00:00
  - user: None
  - tags: []
 

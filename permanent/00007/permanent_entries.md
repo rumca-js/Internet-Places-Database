@@ -1,3 +1,153 @@
+## https://perfectdarkmode.com
+ - [https://perfectdarkmode.com](https://perfectdarkmode.com)
+ - date published: 2023-12-12T08:09:19.439269+00:00
+ - user: None
+ - tags: ['personal']
+
+## perfectpacman.com – Under new management
+ - [https://perfectpacman.com](https://perfectpacman.com)
+ - date published: 2023-10-25T16:32:46.875034+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game
+ - [https://www.perfectpitchpuzzle.com](https://www.perfectpitchpuzzle.com)
+ - date published: 2023-11-24T20:54:17+00:00
+ - user: None
+ - tags: []
+
+## PerfectRec: Personalized Product Recommendations
+ - [https://www.perfectrec.com](https://www.perfectrec.com)
+ - date published: 2023-10-25T16:32:57.052562+00:00
+ - user: None
+ - tags: []
+
+## Caras
+ - [https://caras.perfil.com](https://caras.perfil.com)
+ - date published: 2023-12-12T08:12:00.628623+00:00
+ - user: None
+ - tags: []
+
+## Fortuna
+ - [https://fortuna.perfil.com](https://fortuna.perfil.com)
+ - date published: 2023-12-12T08:13:20.618148+00:00
+ - user: None
+ - tags: []
+
+## https://fotos.perfil.com
+ - [https://fotos.perfil.com](https://fotos.perfil.com)
+ - date published: 2023-12-12T08:12:06.680313+00:00
+ - user: None
+ - tags: []
+
+## Home | Marie Claire
+ - [https://marieclaire.perfil.com](https://marieclaire.perfil.com)
+ - date published: 2023-12-12T08:11:47.328348+00:00
+ - user: None
+ - tags: []
+
+## Entender cambia la vida | Noticias
+ - [https://noticias.perfil.com](https://noticias.perfil.com)
+ - date published: 2023-12-12T08:11:22.772537+00:00
+ - user: None
+ - tags: []
+
+## Home | Weekend
+ - [https://weekend.perfil.com](https://weekend.perfil.com)
+ - date published: 2023-12-12T08:13:14.768938+00:00
+ - user: None
+ - tags: []
+
+## Perfil | Ultimas noticias de Argentina y el mundo
+ - [https://www.perfil.com](https://www.perfil.com)
+ - date published: 2023-12-12T08:11:12.321772+00:00
+ - user: None
+ - tags: ['argentina news']
+
+## https://player.performgroup.com
+ - [https://player.performgroup.com](https://player.performgroup.com)
+ - date published: 2023-12-12T08:11:33.040293+00:00
+ - user: None
+ - tags: []
+
+## Web Performance Calendar » 2022
+ - [https://calendar.perfplanet.com](https://calendar.perfplanet.com)
+ - date published: 2023-10-25T16:33:00.123109+00:00
+ - user: None
+ - tags: []
+
+## Periodic Table of Tools
+ - [https://periodictableoftools.com](https://periodictableoftools.com)
+ - date published: 2023-11-26T13:56:09.113605+00:00
+ - user: None
+ - tags: []
+
+## Permission Slip by CR
+ - [https://permissionslipcr.com](https://permissionslipcr.com)
+ - date published: 2023-10-25T16:33:04.167505+00:00
+ - user: None
+ - tags: []
+
+## Perrett Laver: Vacancies
+ - [https://candidates.perrettlaver.com](https://candidates.perrettlaver.com)
+ - date published: 2023-10-25T16:33:07.284281+00:00
+ - user: None
+ - tags: []
+
+## The Voice of the Martyrs
+ - [https://www.persecution.com](https://www.persecution.com)
+ - date published: 2023-11-27T12:15:11+00:00
+ - user: rumpel
+ - tags: ['christianity', 'religion', 'persecution']
+
+## PerThirtySix
+ - [https://perthirtysix.com](https://perthirtysix.com)
+ - date published: 2023-10-25T16:33:09.219386+00:00
+ - user: None
+ - tags: []
+
+## PerThirtySix
+ - [https://www.perthirtysix.com](https://www.perthirtysix.com)
+ - date published: 2023-10-25T16:33:11.230738+00:00
+ - user: None
+ - tags: []
+
+## PESTE
+ - [https://www.pestemag.com](https://www.pestemag.com)
+ - date published: 2023-10-25T16:33:12.996870+00:00
+ - user: None
+ - tags: []
+
+## PetaPixel | Photography and Camera News, Reviews, and Inspiration
+ - [https://petapixel.com](https://petapixel.com)
+ - date published: 2023-10-25T10:14:49.031072+00:00
+ - user: None
+ - tags: []
+
+## Petar Bojinov
+ - [https://petarbojinov.com](https://petarbojinov.com)
+ - date published: 2023-11-29T14:41:28.119293+00:00
+ - user: None
+ - tags: ['personal']
+
+## Pete Freitag - ColdFusion, Java & Web Blog
+ - [https://www.petefreitag.com](https://www.petefreitag.com)
+ - date published: 2023-11-12T00:21:12.930083+00:00
+ - user: None
+ - tags: []
+
+## Pete Millspaugh
+ - [https://www.petemillspaugh.com](https://www.petemillspaugh.com)
+ - date published: 2023-11-04T01:47:29.221107+00:00
+ - user: None
+ - tags: []
+
+## Home - Peter Attia
+ - [https://peterattiamd.com](https://peterattiamd.com)
+ - date published: 2023-10-25T16:33:17.835551+00:00
+ - user: None
+ - tags: []
+
 ## Peterbe.com - Stuff in Peter's head
  - [https://www.peterbe.com](https://www.peterbe.com)
  - date published: 2023-10-25T16:33:20.306318+00:00
@@ -586,6 +736,12 @@
 ## Free AI image generator: Art, Social Media, Marketing | Playground
  - [https://playground.com](https://playground.com)
  - date published: 2023-10-27T11:55:28.668369+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Spindle, a cross between Wordle and a Rubik's Cube made in PHP
+ - [https://playspindle.com](https://playspindle.com)
+ - date published: 2023-12-31T02:20:44+00:00
  - user: None
  - tags: []
 
@@ -3910,6 +4066,12 @@ More!
  - user: None
  - tags: []
 
+## Digital product innovation in charities | Roger Swannell
+ - [https://rogerswannell.com](https://rogerswannell.com)
+ - date published: 2023-12-31T21:21:28.894147+00:00
+ - user: None
+ - tags: []
+
 ## Rogue Amoeba - Under the Microscope
  - [https://weblog.rogueamoeba.com](https://weblog.rogueamoeba.com)
  - date published: 2023-10-25T16:53:36.308176+00:00
@@ -5845,168 +6007,6 @@ More!
 ## Sherman On Software
  - [https://shermanonsoftware.com](https://shermanonsoftware.com)
  - date published: 2023-10-29T04:21:17.368512+00:00
- - user: None
- - tags: []
-
-## shestherun
- - [https://shestherun.com](https://shestherun.com)
- - date published: 2023-12-02T13:41:38.958290+00:00
- - user: None
- - tags: ['personal']
-
-## Shining Science
- - [https://www.shiningscience.com](https://www.shiningscience.com)
- - date published: 2023-10-25T17:03:30.804921+00:00
- - user: None
- - tags: []
-
-## Shitlassian - name and shame
- - [https://shitlassian.com](https://shitlassian.com)
- - date published: 2023-10-25T17:03:32.102260+00:00
- - user: None
- - tags: []
-
-## Shivan
- - [https://shivankaul.com](https://shivankaul.com)
- - date published: 2023-12-02T21:17:12.804590+00:00
- - user: None
- - tags: ['personal']
-
-## shmuplations.com
- - [https://shmuplations.com](https://shmuplations.com)
- - date published: 2023-10-25T17:03:34.248572+00:00
- - user: None
- - tags: []
-
-## Shondaland.com
- - [https://www.shondaland.com](https://www.shondaland.com)
- - date published: 2023-10-25T17:03:37.480551+00:00
- - user: None
- - tags: []
-
-## Live Dashboard of Shopify for Black Friday
- - [https://bfcm.shopify.com](https://bfcm.shopify.com)
- - date published: 2023-11-24T13:46:21+00:00
- - user: None
- - tags: []
-
-## Shopify's content delivery network
- - [https://cdn.shopify.com](https://cdn.shopify.com)
- - date published: 2023-12-13T15:36:20.403285+00:00
- - user: None
- - tags: []
-
-## Shopify - Pressroom
- - [https://news.shopify.com](https://news.shopify.com)
- - date published: 2023-10-25T17:03:39.469521+00:00
- - user: None
- - tags: []
-
-## Shopify Status - Check Shopify Server Status
- - [https://www.shopifystatus.com](https://www.shopifystatus.com)
- - date published: 2023-11-13T21:35:58.874609+00:00
- - user: None
- - tags: []
-
-## Shorer.com – Ed Shorer – Family, Hobbies, Music, Travel…
- - [https://shorer.com](https://shorer.com)
- - date published: 2023-11-29T14:25:19.463201+00:00
- - user: None
- - tags: []
-
-## Book Summaries in Minutes
- - [https://shortsummarybook.com](https://shortsummarybook.com)
- - date published: 2023-12-17T05:07:22.055260+00:00
- - user: None
- - tags: ['personal']
-
-## Shortwave — The smartest email app on planet Earth
- - [https://www.shortwave.com](https://www.shortwave.com)
- - date published: 2023-10-25T17:03:40.767954+00:00
- - user: None
- - tags: []
-
-## ShowBizPizza.com | Where Everyone Can Be a Kid
- - [https://www.showbizpizza.com](https://www.showbizpizza.com)
- - date published: 2023-10-25T17:03:47.085791+00:00
- - user: None
- - tags: []
-
-## Shreveport Times
- - [https://www.shreveporttimes.com](https://www.shreveporttimes.com)
- - date published: 2023-11-29T10:39:32.612451+00:00
- - user: None
- - tags: []
-
-## Shruggingface - Exploring the future with artificial intelligence
- - [https://www.shruggingface.com](https://www.shruggingface.com)
- - date published: 2023-10-25T17:03:52.789799+00:00
- - user: None
- - tags: []
-
-## Shuffling Bytes | Valtteri Lehtinen
- - [https://shufflingbytes.com](https://shufflingbytes.com)
- - date published: 2023-10-25T17:03:53.519028+00:00
- - user: None
- - tags: []
-
-## Stock Images, Photos, Vectors, Video, and Music | Shutterstock
- - [https://www.shutterstock.com](https://www.shutterstock.com)
- - date published: 2023-10-25T11:35:43.225421+00:00
- - user: None
- - tags: ['assets']
-
-## Shut Up & Sit Down
- - [https://www.shutupandsitdown.com](https://www.shutupandsitdown.com)
- - date published: 2023-10-25T11:11:32.580373+00:00
- - user: None
- - tags: []
-
-## Latest News from Hyderabad, Telangana, Bollywood, India | Siasat.com
- - [https://www.siasat.com](https://www.siasat.com)
- - date published: 2023-10-25T17:03:56.554286+00:00
- - user: None
- - tags: []
-
-## siboehm
- - [https://siboehm.com](https://siboehm.com)
- - date published: 2023-10-25T17:03:57.531359+00:00
- - user: None
- - tags: []
-
-## Cash Prices for Medical Procedures | Sidecar Health Care Calculator
- - [https://cost.sidecarhealth.com](https://cost.sidecarhealth.com)
- - date published: 2023-10-25T17:03:58.680063+00:00
- - user: None
- - tags: []
-
-## SideQuest: Oculus Quest Games & Apps including AppLab Games ( Oculus App Lab )
- - [https://sidequestvr.com](https://sidequestvr.com)
- - date published: 2023-12-06T10:34:52+00:00
- - user: rumpel
- - tags: ['virtual reality']
-
-## sidsite | The site of Sid.
- - [https://sidsite.com](https://sidsite.com)
- - date published: 2023-10-25T17:03:59.649008+00:00
- - user: None
- - tags: []
-
-## Sieve: The cloud for video & audio AI
- - [https://sievedata.com](https://sievedata.com)
- - date published: 2023-10-25T17:04:03.267450+00:00
- - user: None
- - tags: []
-
-## Sieve: The cloud for video & audio AI
- - [https://www.sievedata.com](https://www.sievedata.com)
- - date published: 2023-10-25T17:04:06.211318+00:00
- - user: None
- - tags: []
-
-## SiFive - Leading the RISC-V Revolution
- - [https://www.sifive.com](https://www.sifive.com)
- - date published: 2023-10-25T17:04:08.169028+00:00
  - user: None
  - tags: []
 
