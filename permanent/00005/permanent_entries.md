@@ -1,3 +1,105 @@
+## Derek Jarvis' Blog
+ - [https://jarvispowered.com](https://jarvispowered.com)
+ - date published: 2023-10-25T09:20:50.084354+00:00
+ - user: None
+ - tags: ['personal']
+
+## Almost looks like work
+ - [https://jasmcole.com](https://jasmcole.com)
+ - date published: 2023-10-25T15:26:56.478165+00:00
+ - user: None
+ - tags: []
+
+## JASON COLAVITO - Home
+ - [https://www.jasoncolavito.com](https://www.jasoncolavito.com)
+ - date published: 2023-10-25T15:27:13.210438+00:00
+ - user: None
+ - tags: []
+
+## Jason Davies - Freelance Data Visualisation
+ - [https://www.jasondavies.com](https://www.jasondavies.com)
+ - date published: 2023-10-25T08:31:16.657113+00:00
+ - user: None
+ - tags: []
+
+## Simply Confusing
+ - [https://jasonfantl.com](https://jasonfantl.com)
+ - date published: 2023-10-25T15:27:14.283439+00:00
+ - user: None
+ - tags: []
+
+## Jason Markow
+ - [https://www.jasonmarkow.com](https://www.jasonmarkow.com)
+ - date published: 2023-11-29T14:22:42.135828+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jason Quintin | Product Designer
+ - [https://v15.jasonquintin.com](https://v15.jasonquintin.com)
+ - date published: 2023-12-22T17:49:37.580394+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jason’s Big Adventure
+ - [https://jasonsbigadventure.com](https://jasonsbigadventure.com)
+ - date published: 2023-12-12T13:08:50.689435+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jason Shen | Cultivating Resilience
+ - [https://www.jasonshen.com](https://www.jasonshen.com)
+ - date published: 2023-10-25T08:46:15.822607+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jason Shulman
+ - [https://www.jasonshulmanstudio.com](https://www.jasonshulmanstudio.com)
+ - date published: 2023-10-25T08:46:16.648529+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jason Zweig | A safe haven for investors by Jason Zweig of The Wall Street Journal.
+ - [https://jasonzweig.com](https://jasonzweig.com)
+ - date published: 2023-10-25T15:27:17.416854+00:00
+ - user: None
+ - tags: []
+
+## https://lib.jasperplayer.com
+ - [https://lib.jasperplayer.com](https://lib.jasperplayer.com)
+ - date published: 2023-12-12T08:41:31.534121+00:00
+ - user: None
+ - tags: []
+
+## https://www.java.com
+ - [https://www.java.com](https://www.java.com)
+ - date published: 2023-11-01T08:42:20.753072+00:00
+ - user: None
+ - tags: []
+
+## Java Playground
+ - [https://java-playground.com](https://java-playground.com)
+ - date published: 2023-10-25T15:27:20.226781+00:00
+ - user: None
+ - tags: []
+
+## Welcome To The Java Advent Calendar - JVM Advent
+ - [https://www.javaadvent.com](https://www.javaadvent.com)
+ - date published: 2023-10-25T15:27:22.352791+00:00
+ - user: None
+ - tags: []
+
+## Learn JavaScript Online - Courses for Beginners - javascript.com
+ - [https://www.javascript.com](https://www.javascript.com)
+ - date published: 2023-11-01T08:42:21.170598+00:00
+ - user: None
+ - tags: ['javascript', 'tutorials']
+
+## Home - Javier Velilla - Diseño y mantenimiento web WordPress
+ - [https://javivelilla.com](https://javivelilla.com)
+ - date published: 2023-11-29T14:19:54.967099+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Jay Acunzo | Author, Speaker, Showrunner
  - [https://jayacunzo.com](https://jayacunzo.com)
  - date published: 2023-10-25T08:46:19.898867+00:00
@@ -2384,6 +2486,12 @@
 ## KSHB 41 Kansas City: News, Weather, Chiefs, Traffic and Sports
  - [https://www.kshb.com](https://www.kshb.com)
  - date published: 2023-10-25T15:39:39.874814+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.ksla.com](https://www.ksla.com)
+ - date published: 2024-01-01T22:10:17.985620+00:00
  - user: None
  - tags: []
 
@@ -5497,6 +5605,12 @@ diversions.
  - user: None
  - tags: []
 
+## https://m.media-amazon.com
+ - [https://m.media-amazon.com](https://m.media-amazon.com)
+ - date published: 2024-01-02T00:02:09.333792+00:00
+ - user: None
+ - tags: []
+
 ## Media Bias/Fact Check - Search and Learn the Bias of News Media
  - [https://mediabiasfactcheck.com](https://mediabiasfactcheck.com)
  - date published: 2023-10-25T16:00:28.557887+00:00
@@ -5884,120 +5998,6 @@ diversions.
 ## Jeffrey Kaye – Medium
  - [https://jeff-kaye.medium.com](https://jeff-kaye.medium.com)
  - date published: 2023-10-25T10:20:51.003396+00:00
- - user: None
- - tags: []
-
-## Jessica Wildfire – Medium
- - [https://jessicalexicus.medium.com](https://jessicalexicus.medium.com)
- - date published: 2023-10-25T10:20:53.235136+00:00
- - user: None
- - tags: []
-
-## John Raines – Medium
- - [https://johndanielraines.medium.com](https://johndanielraines.medium.com)
- - date published: 2023-11-01T08:42:36.495780+00:00
- - user: None
- - tags: []
-
-## John Wang – Medium
- - [https://johnjianwang.medium.com](https://johnjianwang.medium.com)
- - date published: 2023-10-25T10:20:55.393950+00:00
- - user: None
- - tags: []
-
-## Medium
- - [https://joonaskoppa.medium.com](https://joonaskoppa.medium.com)
- - date published: 2023-10-25T10:20:56.612466+00:00
- - user: None
- - tags: []
-
-## Joonas – Medium
- - [https://jooonas.medium.com](https://jooonas.medium.com)
- - date published: 2023-10-25T10:20:58.382697+00:00
- - user: None
- - tags: []
-
-## Jarrod Overson – Medium
- - [https://jsoverson.medium.com](https://jsoverson.medium.com)
- - date published: 2023-10-26T06:39:41.460353+00:00
- - user: None
- - tags: []
-
-## Andrej Karpathy – Medium
- - [https://karpathy.medium.com](https://karpathy.medium.com)
- - date published: 2023-10-25T10:21:00.289688+00:00
- - user: None
- - tags: []
-
-## Keith McNulty – Medium
- - [https://keith-mcnulty.medium.com](https://keith-mcnulty.medium.com)
- - date published: 2023-10-25T10:21:07.216026+00:00
- - user: None
- - tags: []
-
-## Kevin Da Silva – Medium
- - [https://kevin-da-silva.medium.com](https://kevin-da-silva.medium.com)
- - date published: 2023-10-25T10:21:09.233370+00:00
- - user: None
- - tags: []
-
-## Kevin Basset – Medium
- - [https://kevinbasset.medium.com](https://kevinbasset.medium.com)
- - date published: 2023-10-25T10:21:11.583444+00:00
- - user: None
- - tags: []
-
-## Kieran Healey – Medium
- - [https://kjhealey.medium.com](https://kjhealey.medium.com)
- - date published: 2023-10-25T10:21:13.813062+00:00
- - user: None
- - tags: []
-
-## Kristian Dupont – Medium
- - [https://kristiandupont.medium.com](https://kristiandupont.medium.com)
- - date published: 2023-10-25T10:21:15.916884+00:00
- - user: None
- - tags: []
-
-## Lance Ng – Medium
- - [https://lancengym.medium.com](https://lancengym.medium.com)
- - date published: 2023-10-25T10:21:18.220706+00:00
- - user: None
- - tags: []
-
-## Lessig – Medium
- - [https://lessig.medium.com](https://lessig.medium.com)
- - date published: 2023-11-29T00:36:38.454540+00:00
- - user: None
- - tags: []
-
-## Ming – Medium
- - [https://lmy.medium.com](https://lmy.medium.com)
- - date published: 2023-10-25T10:21:20.575852+00:00
- - user: None
- - tags: []
-
-## Logan Kilpatrick – Medium
- - [https://logankilpatrick.medium.com](https://logankilpatrick.medium.com)
- - date published: 2023-10-25T10:21:22.786994+00:00
- - user: None
- - tags: []
-
-## Lucas McGregor – Medium
- - [https://lucas-mcgregor.medium.com](https://lucas-mcgregor.medium.com)
- - date published: 2023-10-25T10:21:25.050681+00:00
- - user: None
- - tags: []
-
-## Devansh – Medium
- - [https://machine-learning-made-simple.medium.com](https://machine-learning-made-simple.medium.com)
- - date published: 2023-12-22T01:02:31.995578+00:00
- - user: None
- - tags: []
-
-## Ryan McGeehan – Medium
- - [https://magoo.medium.com](https://magoo.medium.com)
- - date published: 2023-10-25T10:21:27.463778+00:00
  - user: None
  - tags: []
 

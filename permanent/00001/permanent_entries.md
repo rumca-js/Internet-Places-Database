@@ -1,3 +1,33 @@
+## Daily AI news, products and research - Ben's Bites
+ - [https://news.bensbites.co](https://news.bensbites.co)
+ - date published: 2023-10-25T12:16:49.470429+00:00
+ - user: None
+ - tags: []
+
+## blendOS — Beautiful. Efficient. Elegant.
+ - [https://blendos.co](https://blendos.co)
+ - date published: 2023-10-25T08:31:36.268191+00:00
+ - user: None
+ - tags: []
+
+## Blockworks: News and insights about digital assets.
+ - [https://blockworks.co](https://blockworks.co)
+ - date published: 2023-10-25T12:17:09.910871+00:00
+ - user: None
+ - tags: []
+
+## Bubblic – End loneliness together.
+ - [https://bubblic.co](https://bubblic.co)
+ - date published: 2023-10-25T12:17:13.739153+00:00
+ - user: None
+ - tags: []
+
+## The Ruby on Rails SaaS Template | Bullet Train
+ - [https://bullettrain.co](https://bullettrain.co)
+ - date published: 2023-10-25T12:17:16.481583+00:00
+ - user: None
+ - tags: []
+
 ## Business Side | Substack
  - [https://www.businessside.co](https://www.businessside.co)
  - date published: 2023-10-25T12:17:20.577548+00:00
@@ -1483,6 +1513,12 @@
 ## Diary of a SysAdmin
  - [https://blog.abctaylor.com](https://blog.abctaylor.com)
  - date published: 2023-11-17T18:44:51.502563+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://pictures.abebooks.com](https://pictures.abebooks.com)
+ - date published: 2024-01-02T00:02:12.772750+00:00
  - user: None
  - tags: []
 
@@ -5440,6 +5476,12 @@
  - user: None
  - tags: []
 
+## Ryan Orrock's Tantra – Resources for Spirituality and Sexuality
+ - [https://www.bayraba.com](https://www.bayraba.com)
+ - date published: 2024-01-01T17:22:29.333476+00:00
+ - user: None
+ - tags: []
+
 ## Brad Barrows' Blog
  - [https://bbarrows.com](https://bbarrows.com)
  - date published: 2023-10-25T09:05:16.650245+00:00
@@ -5938,6 +5980,12 @@
  - user: rumpel
  - tags: ['virtual reality']
 
+## Purposeful Transformation - Bianca Welds (Creativity And Innovation Strategist & Coach)
+ - [https://biancawelds.com](https://biancawelds.com)
+ - date published: 2024-01-01T03:38:49.652609+00:00
+ - user: None
+ - tags: []
+
 ## Bicycle Retailer & Industry News
  - [https://www.bicycleretailer.com](https://www.bicycleretailer.com)
  - date published: 2023-10-25T14:21:33.230031+00:00
@@ -5947,54 +5995,6 @@
 ## Bicycling
  - [https://www.bicycling.com](https://www.bicycling.com)
  - date published: 2023-10-25T11:14:15.502657+00:00
- - user: None
- - tags: []
-
-## Bidspotter.com | Industrial, Commercial, Plant and Machinery auctions
- - [https://www.bidspotter.com](https://www.bidspotter.com)
- - date published: 2023-10-25T12:59:13.076928+00:00
- - user: None
- - tags: []
-
-## Biff | Clojure web framework
- - [https://biffweb.com](https://biffweb.com)
- - date published: 2023-10-25T12:59:20.038537+00:00
- - user: None
- - tags: []
-
-## Big Book of Amiga Hardware
- - [https://bigbookofamigahardware.com](https://bigbookofamigahardware.com)
- - date published: 2023-11-02T09:45:50.385820+00:00
- - user: None
- - tags: []
-
-## a blog by biggiemac42
- - [https://biggieblog.com](https://biggieblog.com)
- - date published: 2023-12-23T03:02:38.126818+00:00
- - user: None
- - tags: []
-
-## The Biglaw Investor
- - [https://www.biglawinvestor.com](https://www.biglawinvestor.com)
- - date published: 2023-11-29T15:15:31.793331+00:00
- - user: None
- - tags: ['personal']
-
-## Big Mess o' Wires
- - [https://www.bigmessowires.com](https://www.bigmessowires.com)
- - date published: 2023-10-25T12:59:26.339536+00:00
- - user: None
- - tags: []
-
-## https://www.bigscreenvr.com
- - [https://www.bigscreenvr.com](https://www.bigscreenvr.com)
- - date published: 2023-12-19T22:02:45+00:00
- - user: rumpel
- - tags: ['virtual reality']
-
-## Big Technology | Alex Kantrowitz | Substack
- - [https://www.bigtechnology.com](https://www.bigtechnology.com)
- - date published: 2023-10-25T12:59:33.972061+00:00
  - user: None
  - tags: []
 

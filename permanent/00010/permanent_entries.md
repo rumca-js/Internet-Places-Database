@@ -1,6 +1,204 @@
+## Newsroom | John Wiley & Sons, Inc.
+ - [https://newsroom.wiley.com](https://newsroom.wiley.com)
+ - date published: 2023-12-21T15:13:35.167663+00:00
+ - user: None
+ - tags: []
+
+## https://onlinelibrary.wiley.com
+ - [https://onlinelibrary.wiley.com](https://onlinelibrary.wiley.com)
+ - date published: 2023-10-25T18:05:35.898602+00:00
+ - user: None
+ - tags: []
+
+## https://physoc.onlinelibrary.wiley.com
+ - [https://physoc.onlinelibrary.wiley.com](https://physoc.onlinelibrary.wiley.com)
+ - date published: 2023-11-12T06:59:06.705475+00:00
+ - user: None
+ - tags: []
+
+## https://srcd.onlinelibrary.wiley.com
+ - [https://srcd.onlinelibrary.wiley.com](https://srcd.onlinelibrary.wiley.com)
+ - date published: 2023-10-25T18:05:36.256171+00:00
+ - user: None
+ - tags: []
+
+## posts
+ - [https://will-keleher.com](https://will-keleher.com)
+ - date published: 2023-10-25T18:05:37.139130+00:00
+ - user: None
+ - tags: []
+
+## Will Brownsberger – STATE SENATOR
+ - [https://willbrownsberger.com](https://willbrownsberger.com)
+ - date published: 2023-10-25T18:05:47.473903+00:00
+ - user: None
+ - tags: []
+
+## Will DePue
+ - [https://blog.willdepue.com](https://blog.willdepue.com)
+ - date published: 2023-10-25T18:05:49.001502+00:00
+ - user: None
+ - tags: []
+
+## Willem Laurentz Middelkoop
+ - [https://willem.com](https://willem.com)
+ - date published: 2023-11-14T16:19:39.927104+00:00
+ - user: None
+ - tags: []
+
+## Will Hackett
+ - [https://notes.willhackett.com](https://notes.willhackett.com)
+ - date published: 2023-10-25T18:05:50.791703+00:00
+ - user: None
+ - tags: []
+
+## Welcome to all those learning Haskell | William Yao
+ - [https://williamyaoh.com](https://williamyaoh.com)
+ - date published: 2023-10-25T18:05:52.874728+00:00
+ - user: None
+ - tags: []
+
+## William Zeitler-Home
+ - [https://williamzeitler.com](https://williamzeitler.com)
+ - date published: 2023-11-29T14:22:09.377285+00:00
+ - user: None
+ - tags: ['personal']
+
+## Website of artist, educator filmmaker and photographer Willie Robb
+ - [https://www.willierobb.com](https://www.willierobb.com)
+ - date published: 2023-12-20T00:59:47.184091+00:00
+ - user: None
+ - tags: ['personal']
+
+## Where there is a Will
+ - [https://www.willmcgugan.com](https://www.willmcgugan.com)
+ - date published: 2023-10-25T18:05:57.116791+00:00
+ - user: None
+ - tags: []
+
+## Willo Sana: Transformational Business Coach ~ WilloLovesYou.com
+ - [https://willolovesyou.com](https://willolovesyou.com)
+ - date published: 2023-12-07T17:38:00.495447+00:00
+ - user: None
+ - tags: ['personal']
+
+## Will Robots Take My Job?
+ - [https://willrobotstakemyjob.com](https://willrobotstakemyjob.com)
+ - date published: 2023-10-27T10:59:41.287959+00:00
+ - user: None
+ - tags: ['artificial intelligence', 'wtf']
+
+## Homepage
+ - [https://www.wilx.com](https://www.wilx.com)
+ - date published: 2023-12-22T01:29:49.446093+00:00
+ - user: None
+ - tags: []
+
+## Wimpy's World
+ - [https://wimpysworld.com](https://wimpysworld.com)
+ - date published: 2023-10-25T18:05:58.887304+00:00
+ - user: None
+ - tags: []
+
+## Win Vector LLC – Data science advising, consulting, and training
+ - [https://win-vector.com](https://win-vector.com)
+ - date published: 2023-10-25T18:06:02.876087+00:00
+ - user: None
+ - tags: []
+
+## https://forums.winamp.com
+ - [https://forums.winamp.com](https://forums.winamp.com)
+ - date published: 2023-10-25T18:06:05.343618+00:00
+ - user: None
+ - tags: []
+
+## The ultimate music machine empowering listeners, creators and fans - Winamp
+ - [https://www.winamp.com](https://www.winamp.com)
+ - date published: 2023-11-01T08:43:27.866000+00:00
+ - user: None
+ - tags: []
+
+## Window-swap – open a new window somewhere in the world
+ - [https://www.window-swap.com](https://www.window-swap.com)
+ - date published: 2023-11-02T01:16:22+00:00
+ - user: None
+ - tags: []
+
+## Home | Windows Blog
+ - [https://blogs.windows.com](https://blogs.windows.com)
+ - date published: 2023-10-25T11:29:25.500201+00:00
+ - user: None
+ - tags: []
+
+## Windows Repair Toolbox
+ - [https://windows-repair-toolbox.com](https://windows-repair-toolbox.com)
+ - date published: 2023-10-25T18:06:10.245644+00:00
+ - user: None
+ - tags: []
+
+## Windows 95 Tips, Tricks, and Tweaks
+ - [https://windows95tips.com](https://windows95tips.com)
+ - date published: 2023-10-25T18:06:17.364143+00:00
+ - user: None
+ - tags: ['windows']
+
+## Windows Central - News, Reviews & Help on Windows 10, Windows 11, Xbox & more
+ - [https://www.windowscentral.com](https://www.windowscentral.com)
+ - date published: 2023-10-25T09:36:42.590120+00:00
+ - user: None
+ - tags: []
+
+## Windows Latest: Your Source for all things Microsoft
+ - [https://www.windowslatest.com](https://www.windowslatest.com)
+ - date published: 2023-10-25T18:06:31.585381+00:00
+ - user: None
+ - tags: []
+
+## Wind River
+ - [https://www.windriver.com](https://www.windriver.com)
+ - date published: 2023-11-08T11:30:59.705560+00:00
+ - user: None
+ - tags: ['linux', 'windriver', 'wind river', 'operating system']
+
+## Windscribe - Free VPN and Ad Block
+ - [https://windscribe.com](https://windscribe.com)
+ - date published: 2023-10-25T18:06:36.879450+00:00
+ - user: None
+ - tags: []
+
+## Windy as forecasted
+ - [https://www.windy.com](https://www.windy.com)
+ - date published: 2023-10-24T20:19:13.472192+00:00
+ - user: None
+ - tags: []
+
+## absorptions
+ - [https://www.windytan.com](https://www.windytan.com)
+ - date published: 2023-10-25T18:06:44.382900+00:00
+ - user: None
+ - tags: []
+
+## wineanorak.com – online wine magazine
+ - [https://wineanorak.com](https://wineanorak.com)
+ - date published: 2023-10-25T18:06:50.105227+00:00
+ - user: None
+ - tags: []
+
+## WINK News - Breaking News and Weather | First. Fair. Everywhere
+ - [https://winknews.com](https://winknews.com)
+ - date published: 2023-10-25T18:07:00.974361+00:00
+ - user: None
+ - tags: []
+
 ## The International Law Firm of Winston & Strawn LLP | Winston & Strawn
  - [https://www.winston.com](https://www.winston.com)
  - date published: 2023-10-25T18:07:03.303397+00:00
+ - user: None
+ - tags: []
+
+## WinWorld: Welcome
+ - [https://winworldpc.com](https://winworldpc.com)
+ - date published: 2024-01-01T19:17:47.205122+00:00
  - user: None
  - tags: []
 
@@ -2308,6 +2506,12 @@
  - user: None
  - tags: ['science news', 'news']
 
+## Zobia Alvi
+ - [https://www.zobiaalvi.com](https://www.zobiaalvi.com)
+ - date published: 2024-01-01T17:20:33.744821+00:00
+ - user: None
+ - tags: []
+
 ## Zoe McKey
  - [https://www.zoemckey.com](https://www.zoemckey.com)
  - date published: 2023-12-13T20:59:10.239216+00:00
@@ -3095,6 +3299,12 @@ home
  - user: None
  - tags: []
 
+## SOPHISTICATES – Mehr Gewinn durch Digitalisierung.
+ - [https://jjs.de](https://jjs.de)
+ - date published: 2024-01-01T17:21:22.428881+00:00
+ - user: None
+ - tags: []
+
 ## Blog – Joachim Breitner's Homepage
  - [https://www.joachim-breitner.de](https://www.joachim-breitner.de)
  - date published: 2023-10-25T18:31:28.248214+00:00
@@ -3554,6 +3764,12 @@ home
 ## The Entrepreneurial University - TUM
  - [https://www.tum.de](https://www.tum.de)
  - date published: 2023-12-12T22:22:55.827588+00:00
+ - user: None
+ - tags: []
+
+## Tunkl.de  |  IT-Consulting – SEA, E-Commerce und Online Marketing Consulting
+ - [https://tunkl.de](https://tunkl.de)
+ - date published: 2024-01-01T03:39:24.415411+00:00
  - user: None
  - tags: []
 
@@ -5783,222 +5999,6 @@ home
 ## Odyssey
  - [https://theodyssey.dev](https://theodyssey.dev)
  - date published: 2023-10-25T18:42:49.667687+00:00
- - user: None
- - tags: []
-
-## The Pasture | The musings, ideas, discussions, and sometimes silly words from a digital sheep magician
- - [https://thephd.dev](https://thephd.dev)
- - date published: 2023-10-25T18:42:55.519026+00:00
- - user: None
- - tags: []
-
-## The Valuable Dev
- - [https://thevaluable.dev](https://thevaluable.dev)
- - date published: 2023-10-25T18:42:57.493336+00:00
- - user: None
- - tags: []
-
-## Thomas SIMON
- - [https://thomassimon.dev](https://thomassimon.dev)
- - date published: 2023-10-25T08:49:00.185996+00:00
- - user: None
- - tags: ['personal']
-
-## https://thorp.dev
- - [https://thorp.dev](https://thorp.dev)
- - date published: 2023-12-18T22:40:03.169679+00:00
- - user: None
- - tags: ['personal']
-
-## thunderseethe's devlog
- - [https://thunderseethe.dev](https://thunderseethe.dev)
- - date published: 2023-10-25T08:58:54.572602+00:00
- - user: None
- - tags: ['personal']
-
-## Toji.dev | Brandon Jones - Graphics and XR on the web
- - [https://toji.dev](https://toji.dev)
- - date published: 2023-10-25T18:42:59.243389+00:00
- - user: None
- - tags: []
-
-## Harrison Totty
- - [https://harrison.totty.dev](https://harrison.totty.dev)
- - date published: 2023-10-25T08:58:55.261635+00:00
- - user: None
- - tags: ['personal']
-
-## Trigger.dev | The open source background jobs framework
- - [https://trigger.dev](https://trigger.dev)
- - date published: 2023-10-25T08:34:42.404388+00:00
- - user: None
- - tags: []
-
-## trycatch.dev
- - [https://trycatch.dev](https://trycatch.dev)
- - date published: 2023-10-25T09:26:21.531803+00:00
- - user: None
- - tags: ['personal']
-
-## TSDocs.dev: type docs for any javascript library
- - [https://tsdocs.dev](https://tsdocs.dev)
- - date published: 2023-12-19T16:34:15+00:00
- - user: None
- - tags: []
-
-## Typehero: All you need to become a TypeScript menace
- - [https://typehero.dev](https://typehero.dev)
- - date published: 2023-12-04T03:53:55+00:00
- - user: None
- - tags: []
-
-## Find Hacker News candidates and jobs powered by ChatGPT
- - [https://hnjobs.u-turn.dev](https://hnjobs.u-turn.dev)
- - date published: 2023-11-01T15:43:46.245419+00:00
- - user: None
- - tags: []
-
-## Ujjwal Goel
- - [https://ujjwal.dev](https://ujjwal.dev)
- - date published: 2023-10-25T08:49:01.473893+00:00
- - user: None
- - tags: ['personal']
-
-## Unlighthouse - Site-wide Google Lighthouse · Unlighthouse
- - [https://unlighthouse.dev](https://unlighthouse.dev)
- - date published: 2023-10-25T18:43:02.237015+00:00
- - user: None
- - tags: []
-
-## Unovis
- - [https://unovis.dev](https://unovis.dev)
- - date published: 2023-10-25T18:43:05.156320+00:00
- - user: None
- - tags: []
-
-## Unravelled Development
- - [https://www.unravelled.dev](https://www.unravelled.dev)
- - date published: 2023-10-25T18:43:07.018711+00:00
- - user: None
- - tags: []
-
-## Unzip.dev - Developer trends newsletter
- - [https://unzip.dev](https://unzip.dev)
- - date published: 2023-10-25T18:43:08.774440+00:00
- - user: None
- - tags: []
-
-## Uptrace
- - [https://app.uptrace.dev](https://app.uptrace.dev)
- - date published: 2023-10-25T18:43:14.827578+00:00
- - user: None
- - tags: []
-
-## V8 JavaScript engine
- - [https://v8.dev](https://v8.dev)
- - date published: 2023-10-25T18:43:16.107391+00:00
- - user: None
- - tags: []
-
-## Hylo | The Hylo Programming Language
- - [https://www.val-lang.dev](https://www.val-lang.dev)
- - date published: 2023-10-25T18:43:18.033836+00:00
- - user: None
- - tags: []
-
-## The Vale programming language
- - [https://vale.dev](https://vale.dev)
- - date published: 2023-12-29T05:00:00+00:00
- - user: None
- - tags: []
-
-## Zowie van Dillen
- - [https://z.vandillen.dev](https://z.vandillen.dev)
- - date published: 2023-10-25T18:43:19.713621+00:00
- - user: None
- - tags: []
-
-## Verifiable Credentials
- - [https://verifiablecredentials.dev](https://verifiablecredentials.dev)
- - date published: 2023-10-25T18:43:28.655087+00:00
- - user: None
- - tags: []
-
-## victoria.dev
- - [https://victoria.dev](https://victoria.dev)
- - date published: 2023-10-25T09:26:22.317356+00:00
- - user: None
- - tags: ['personal']
-
-## Visibly
- - [https://visibly.dev](https://visibly.dev)
- - date published: 2023-10-25T18:43:30.995597+00:00
- - user: None
- - tags: []
-
-## VisionScript - VisionScript Documentation
- - [https://visionscript.dev](https://visionscript.dev)
- - date published: 2023-10-25T18:43:37.995056+00:00
- - user: None
- - tags: []
-
-## Vite | Next Generation Frontend Tooling
- - [https://vitejs.dev](https://vitejs.dev)
- - date published: 2023-10-25T18:43:39.671574+00:00
- - user: None
- - tags: []
-
-## Lane's Blog
- - [https://wagslane.dev](https://wagslane.dev)
- - date published: 2023-10-25T18:43:41.490625+00:00
- - user: None
- - tags: []
-
-## Walid Ziouche
- - [https://walid.dev](https://walid.dev)
- - date published: 2023-10-25T18:43:48.534864+00:00
- - user: None
- - tags: []
-
-## Warp: Your terminal, reimagined
- - [https://www.warp.dev](https://www.warp.dev)
- - date published: 2023-10-27T11:57:03.431124+00:00
- - user: None
- - tags: []
-
-## Warrant Blog | Warrant Blog
- - [https://blog.warrant.dev](https://blog.warrant.dev)
- - date published: 2023-10-25T18:44:06.101677+00:00
- - user: None
- - tags: []
-
-## Washi
- - [https://blog.washi.dev](https://blog.washi.dev)
- - date published: 2023-10-25T18:44:10.022725+00:00
- - user: None
- - tags: []
-
-## Wasm By Example
- - [https://wasmbyexample.dev](https://wasmbyexample.dev)
- - date published: 2023-11-15T15:16:15.958415+00:00
- - user: None
- - tags: []
-
-## WasmFX: Effect Handlers for WebAssembly
- - [https://wasmfx.dev](https://wasmfx.dev)
- - date published: 2023-11-07T23:04:21+00:00
- - user: None
- - tags: []
-
-## Wasm Labs at VMware OCTO
- - [https://wasmlabs.dev](https://wasmlabs.dev)
- - date published: 2023-10-25T18:44:11.962330+00:00
- - user: None
- - tags: []
-
-## Wasp
- - [https://wasp-lang.dev](https://wasp-lang.dev)
- - date published: 2023-10-25T18:44:13.919020+00:00
  - user: None
  - tags: []
 

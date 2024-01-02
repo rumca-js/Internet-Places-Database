@@ -1,3 +1,153 @@
+## Shacknews | Video Game Video Reviews, Celebrity Interviews, Strategy Videos, Original Content and More
+ - [https://www.shacknews.com](https://www.shacknews.com)
+ - date published: 2023-10-25T10:50:12.343927+00:00
+ - user: None
+ - tags: []
+
+## Shadertoy BETA
+ - [https://www.shadertoy.com](https://www.shadertoy.com)
+ - date published: 2023-10-25T17:03:10.073076+00:00
+ - user: None
+ - tags: []
+
+## ShadowBox Training – Accelerate Expertise
+ - [https://www.shadowboxtraining.com](https://www.shadowboxtraining.com)
+ - date published: 2023-10-25T17:03:12.236336+00:00
+ - user: None
+ - tags: []
+
+## Shahed Syed | Product Designer
+ - [https://shah3d.com](https://shah3d.com)
+ - date published: 2023-12-16T07:28:09.909101+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://shallistreamit.com](https://shallistreamit.com)
+ - date published: 2023-11-27T11:33:27+00:00
+ - user: rumpel
+ - tags: ['movies']
+
+## https://www.shanecole.com
+ - [https://www.shanecole.com](https://www.shanecole.com)
+ - date published: 2023-12-24T08:14:40.540751+00:00
+ - user: None
+ - tags: ['personal']
+
+## Shanley
+ - [https://www.shanleykane.com](https://www.shanleykane.com)
+ - date published: 2023-10-25T17:03:13.290534+00:00
+ - user: None
+ - tags: []
+
+## Shannon E. Thomas
+ - [https://shannonethomas.com](https://shannonethomas.com)
+ - date published: 2023-11-22T18:43:41.476621+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Shape of Code
+ - [https://shape-of-code.com](https://shape-of-code.com)
+ - date published: 2023-10-25T17:03:20.555625+00:00
+ - user: None
+ - tags: []
+
+## Shapecatcher: Draw the Unicode character you want!
+ - [https://shapecatcher.com](https://shapecatcher.com)
+ - date published: 2023-10-25T17:03:21.120346+00:00
+ - user: None
+ - tags: []
+
+## Larry Charbonneau - Web Developer / Diver / Husker
+ - [https://www.sharbonline.com](https://www.sharbonline.com)
+ - date published: 2023-10-25T17:03:23.397222+00:00
+ - user: None
+ - tags: []
+
+## ShareGPT: Share your wildest ChatGPT conversations with one click.
+ - [https://sharegpt.com](https://sharegpt.com)
+ - date published: 2023-10-25T17:03:24.394627+00:00
+ - user: None
+ - tags: []
+
+## Shareware Heroes | A book by Richard Moss
+ - [https://sharewareheroes.com](https://sharewareheroes.com)
+ - date published: 2023-10-25T17:03:25.595114+00:00
+ - user: None
+ - tags: []
+
+## Sharif Islam
+ - [https://sharifislam.com](https://sharifislam.com)
+ - date published: 2023-12-14T09:17:44.905338+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sharoma
+ - [https://www.sharoma.com](https://www.sharoma.com)
+ - date published: 2023-10-25T08:47:52.772488+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sharvesh | Substack
+ - [https://www.sharvesh.com](https://www.sharvesh.com)
+ - date published: 2023-12-11T11:15:14.146711+00:00
+ - user: None
+ - tags: []
+
+## ShaunOConnell.com – GP | Commissioner | Coach & Mentor | Blogger
+ - [https://shaunoconnell.com](https://shaunoconnell.com)
+ - date published: 2023-10-25T17:03:27.779859+00:00
+ - user: None
+ - tags: []
+
+## %vops, SRE, and Software Engineering Blog%%
+ - [https://shavingtheyak.com](https://shavingtheyak.com)
+ - date published: 2023-11-19T16:59:12.994606+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [https://shawneemissionpost.com](https://shawneemissionpost.com)
+ - date published: 2023-11-28T00:20:54.574204+00:00
+ - user: None
+ - tags: []
+
+## Shawn Tabrizi | A site about discovery through experience
+ - [https://www.shawntabrizi.com](https://www.shawntabrizi.com)
+ - date published: 2023-10-25T17:03:28.603657+00:00
+ - user: None
+ - tags: []
+
+## Shea Meyers
+ - [https://sheameyers.com](https://sheameyers.com)
+ - date published: 2023-12-20T05:39:54.236764+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://www.sheepesports.com
+ - [https://www.sheepesports.com](https://www.sheepesports.com)
+ - date published: 2023-11-03T01:49:18.102291+00:00
+ - user: None
+ - tags: []
+
+## Sheevaun Moran
+ - [https://sheevaunmoran.com](https://sheevaunmoran.com)
+ - date published: 2023-12-30T22:23:25.350039+00:00
+ - user: None
+ - tags: ['personal']
+
+## Shepherd - Browse the best books to read.
+ - [https://shepherd.com](https://shepherd.com)
+ - date published: 2023-11-01T13:03:34.046684+00:00
+ - user: None
+ - tags: []
+
+## Sherman On Software
+ - [https://shermanonsoftware.com](https://shermanonsoftware.com)
+ - date published: 2023-10-29T04:21:17.368512+00:00
+ - user: None
+ - tags: []
+
 ## shestherun
  - [https://shestherun.com](https://shestherun.com)
  - date published: 2023-12-02T13:41:38.958290+00:00
@@ -1976,6 +2126,12 @@
 ## Standard Notes | End-To-End Encrypted Notes App
  - [https://standardnotes.com](https://standardnotes.com)
  - date published: 2023-10-25T17:15:18.077449+00:00
+ - user: None
+ - tags: []
+
+## The Stanford Daily | Breaking news from the Farm since 1892
+ - [https://stanforddaily.com](https://stanforddaily.com)
+ - date published: 2024-01-01T00:46:36.339932+00:00
  - user: None
  - tags: []
 
@@ -4241,6 +4397,12 @@
  - user: None
  - tags: ['substack']
 
+## Suhweet Driving School | Substack
+ - [https://suhweet.substack.com](https://suhweet.substack.com)
+ - date published: 2024-01-01T08:05:08.288220+00:00
+ - user: None
+ - tags: []
+
 ## Sungho Yahng | Substack
  - [https://sunghoyahng.substack.com](https://sunghoyahng.substack.com)
  - date published: 2023-10-25T10:04:44.363089+00:00
@@ -4522,6 +4684,12 @@
  - date published: 2023-10-25T10:07:50.275708+00:00
  - user: None
  - tags: ['substack']
+
+## Leading Developers | Anton Zaides | Substack
+ - [https://zaidesanton.substack.com](https://zaidesanton.substack.com)
+ - date published: 2024-01-01T18:35:56.304888+00:00
+ - user: None
+ - tags: []
 
 ## Zero Day | Kim Zetter | Substack
  - [https://zetter.substack.com](https://zetter.substack.com)
@@ -5830,172 +5998,4 @@
  - date published: 2023-10-25T17:27:38.764706+00:00
  - user: None
  - tags: []
-
-## textshader
- - [https://textshader.com](https://textshader.com)
- - date published: 2023-10-25T17:27:39.371628+00:00
- - user: None
- - tags: []
-
-## text/plain – ericlaw talks about security, the web, and software in general
- - [https://textslashplain.com](https://textslashplain.com)
- - date published: 2023-10-25T17:27:44.879677+00:00
- - user: None
- - tags: []
-
-## Team Fortress 2 Classic
- - [https://tf2classic.com](https://tf2classic.com)
- - date published: 2023-10-30T15:18:47.971437+00:00
- - user: None
- - tags: ['game mod']
-
-## Thai PBS World
- - [https://www.thaipbsworld.com](https://www.thaipbsworld.com)
- - date published: 2023-11-04T20:48:18.797299+00:00
- - user: None
- - tags: []
-
-## Thai Train Guide – The Railways of Thailand by Richard Barrow
- - [https://www.thaitrainguide.com](https://www.thaitrainguide.com)
- - date published: 2023-10-25T17:27:49.470333+00:00
- - user: None
- - tags: []
-
-## Thales - Building a future we can all trust
- - [https://www.thalesgroup.com](https://www.thalesgroup.com)
- - date published: 2023-10-25T17:27:51.414954+00:00
- - user: None
- - tags: []
-
-## 3D model community. Search & download free 3D models. Share 3D models
- - [https://thangs.com](https://thangs.com)
- - date published: 2023-10-27T10:25:36.186824+00:00
- - user: None
- - tags: ['assets models', '3d printing']
-
-## Home | That Helpful Dad
- - [https://thathelpfuldad.com](https://thathelpfuldad.com)
- - date published: 2023-12-25T17:17:28.701928+00:00
- - user: None
- - tags: ['personal']
-
-## The finger, deal with it.
- - [https://thatsthefinger.com](https://thatsthefinger.com)
- - date published: 2023-10-27T10:40:28.736495+00:00
- - user: None
- - tags: ['wtf']
-
-## The Algorithms
- - [https://the-algorithms.com](https://the-algorithms.com)
- - date published: 2023-10-25T17:27:53.195977+00:00
- - user: None
- - tags: []
-
-## Anthony Warner
- - [https://www.the-angry-chef.com](https://www.the-angry-chef.com)
- - date published: 2023-10-25T17:27:54.586096+00:00
- - user: None
- - tags: []
-
-## Artificial Intelligence: News, Business, Science | THE DECODER
- - [https://the-decoder.com](https://the-decoder.com)
- - date published: 2023-10-25T17:27:56.260291+00:00
- - user: None
- - tags: []
-
-## Daily Express US - Latest US News, Sport & Entertainment - Daily Express US
- - [https://www.the-express.com](https://www.the-express.com)
- - date published: 2023-11-22T00:14:57.932072+00:00
- - user: None
- - tags: []
-
-## The Fence – The UK’s Only Magazine - The Fence Magazine
- - [https://www.the-fence.com](https://www.the-fence.com)
- - date published: 2023-10-25T17:27:58.391729+00:00
- - user: None
- - tags: []
-
-## News | The Independent | Today's headlines and latest breaking news | The Independent
- - [https://www.the-independent.com](https://www.the-independent.com)
- - date published: 2023-10-30T18:59:54.254380+00:00
- - user: None
- - tags: ['news']
-
-## The investing desk
- - [https://www.the-investing-desk.com](https://www.the-investing-desk.com)
- - date published: 2023-10-25T17:28:05.105433+00:00
- - user: None
- - tags: []
-
-## The Ninth Age
- - [https://www.the-ninth-age.com](https://www.the-ninth-age.com)
- - date published: 2023-11-01T18:39:46.811526+00:00
- - user: None
- - tags: ['tabletop games', '9th age', 'miniatures', 'wargames']
-
-## The ODIN
- - [https://www.the-odin.com](https://www.the-odin.com)
- - date published: 2023-10-25T17:28:13.498404+00:00
- - user: None
- - tags: []
-
-## Lu's blog
- - [https://blog.the-pans.com](https://blog.the-pans.com)
- - date published: 2023-10-25T09:21:12.558068+00:00
- - user: None
- - tags: ['personal']
-
-## The Scientist - Science News, Educational Articles, Expert Opinion
- - [https://www.the-scientist.com](https://www.the-scientist.com)
- - date published: 2023-10-25T17:28:17.141345+00:00
- - user: None
- - tags: []
-
-## News, sport, celebrities and gossip | The US Sun
- - [https://www.the-sun.com](https://www.the-sun.com)
- - date published: 2023-10-25T17:28:21.561356+00:00
- - user: None
- - tags: []
-
-## The Yorkshireman - The Home Of All Things Yorkshire
- - [https://the-yorkshireman.com](https://the-yorkshireman.com)
- - date published: 2023-10-25T17:28:24.690732+00:00
- - user: None
- - tags: []
-
-## Adam Thomas | Product Strategy Consultant
- - [https://www.theadamthomas.com](https://www.theadamthomas.com)
- - date published: 2023-12-27T01:09:49.931460+00:00
- - user: None
- - tags: ['personal']
-
-## The Air Current
- - [https://theaircurrent.com](https://theaircurrent.com)
- - date published: 2023-10-25T17:28:30.305578+00:00
- - user: None
- - tags: []
-
-## Home - The American Conservative
- - [https://www.theamericanconservative.com](https://www.theamericanconservative.com)
- - date published: 2023-10-25T17:28:33.109644+00:00
- - user: None
- - tags: []
-
-## 29% off 29 Days to France or BOGO with the new New Zealand Book - The American in Paris
- - [https://theamericaninparis.com](https://theamericaninparis.com)
- - date published: 2023-12-31T13:22:07.901135+00:00
- - user: None
- - tags: []
-
-## The Amiga Museum
- - [https://theamigamuseum.com](https://theamigamuseum.com)
- - date published: 2023-11-02T09:36:38.476435+00:00
- - user: None
- - tags: ['amiga']
-
-## The Ampersand Fairy
- - [https://theampersandfairy.com](https://theampersandfairy.com)
- - date published: 2023-11-29T17:13:45.809441+00:00
- - user: None
- - tags: ['personal']
 

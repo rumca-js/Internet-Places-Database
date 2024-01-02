@@ -1,3 +1,171 @@
+## textshader
+ - [https://textshader.com](https://textshader.com)
+ - date published: 2023-10-25T17:27:39.371628+00:00
+ - user: None
+ - tags: []
+
+## text/plain – ericlaw talks about security, the web, and software in general
+ - [https://textslashplain.com](https://textslashplain.com)
+ - date published: 2023-10-25T17:27:44.879677+00:00
+ - user: None
+ - tags: []
+
+## Team Fortress 2 Classic
+ - [https://tf2classic.com](https://tf2classic.com)
+ - date published: 2023-10-30T15:18:47.971437+00:00
+ - user: None
+ - tags: ['game mod']
+
+## Thai PBS World
+ - [https://www.thaipbsworld.com](https://www.thaipbsworld.com)
+ - date published: 2023-11-04T20:48:18.797299+00:00
+ - user: None
+ - tags: []
+
+## Thai Train Guide – The Railways of Thailand by Richard Barrow
+ - [https://www.thaitrainguide.com](https://www.thaitrainguide.com)
+ - date published: 2023-10-25T17:27:49.470333+00:00
+ - user: None
+ - tags: []
+
+## Thales - Building a future we can all trust
+ - [https://www.thalesgroup.com](https://www.thalesgroup.com)
+ - date published: 2023-10-25T17:27:51.414954+00:00
+ - user: None
+ - tags: []
+
+## 3D model community. Search & download free 3D models. Share 3D models
+ - [https://thangs.com](https://thangs.com)
+ - date published: 2023-10-27T10:25:36.186824+00:00
+ - user: None
+ - tags: ['assets models', '3d printing']
+
+## Home | That Helpful Dad
+ - [https://thathelpfuldad.com](https://thathelpfuldad.com)
+ - date published: 2023-12-25T17:17:28.701928+00:00
+ - user: None
+ - tags: ['personal']
+
+## The finger, deal with it.
+ - [https://thatsthefinger.com](https://thatsthefinger.com)
+ - date published: 2023-10-27T10:40:28.736495+00:00
+ - user: None
+ - tags: ['wtf']
+
+## The Algorithms
+ - [https://the-algorithms.com](https://the-algorithms.com)
+ - date published: 2023-10-25T17:27:53.195977+00:00
+ - user: None
+ - tags: []
+
+## Anthony Warner
+ - [https://www.the-angry-chef.com](https://www.the-angry-chef.com)
+ - date published: 2023-10-25T17:27:54.586096+00:00
+ - user: None
+ - tags: []
+
+## Artificial Intelligence: News, Business, Science | THE DECODER
+ - [https://the-decoder.com](https://the-decoder.com)
+ - date published: 2023-10-25T17:27:56.260291+00:00
+ - user: None
+ - tags: []
+
+## Daily Express US - Latest US News, Sport & Entertainment - Daily Express US
+ - [https://www.the-express.com](https://www.the-express.com)
+ - date published: 2023-11-22T00:14:57.932072+00:00
+ - user: None
+ - tags: []
+
+## The Fence – The UK’s Only Magazine - The Fence Magazine
+ - [https://www.the-fence.com](https://www.the-fence.com)
+ - date published: 2023-10-25T17:27:58.391729+00:00
+ - user: None
+ - tags: []
+
+## News | The Independent | Today's headlines and latest breaking news | The Independent
+ - [https://www.the-independent.com](https://www.the-independent.com)
+ - date published: 2023-10-30T18:59:54.254380+00:00
+ - user: None
+ - tags: ['news']
+
+## The investing desk
+ - [https://www.the-investing-desk.com](https://www.the-investing-desk.com)
+ - date published: 2023-10-25T17:28:05.105433+00:00
+ - user: None
+ - tags: []
+
+## The Ninth Age
+ - [https://www.the-ninth-age.com](https://www.the-ninth-age.com)
+ - date published: 2023-11-01T18:39:46.811526+00:00
+ - user: None
+ - tags: ['tabletop games', '9th age', 'miniatures', 'wargames']
+
+## The ODIN
+ - [https://www.the-odin.com](https://www.the-odin.com)
+ - date published: 2023-10-25T17:28:13.498404+00:00
+ - user: None
+ - tags: []
+
+## Lu's blog
+ - [https://blog.the-pans.com](https://blog.the-pans.com)
+ - date published: 2023-10-25T09:21:12.558068+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Scientist - Science News, Educational Articles, Expert Opinion
+ - [https://www.the-scientist.com](https://www.the-scientist.com)
+ - date published: 2023-10-25T17:28:17.141345+00:00
+ - user: None
+ - tags: []
+
+## News, sport, celebrities and gossip | The US Sun
+ - [https://www.the-sun.com](https://www.the-sun.com)
+ - date published: 2023-10-25T17:28:21.561356+00:00
+ - user: None
+ - tags: []
+
+## The Yorkshireman - The Home Of All Things Yorkshire
+ - [https://the-yorkshireman.com](https://the-yorkshireman.com)
+ - date published: 2023-10-25T17:28:24.690732+00:00
+ - user: None
+ - tags: []
+
+## Adam Thomas | Product Strategy Consultant
+ - [https://www.theadamthomas.com](https://www.theadamthomas.com)
+ - date published: 2023-12-27T01:09:49.931460+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Air Current
+ - [https://theaircurrent.com](https://theaircurrent.com)
+ - date published: 2023-10-25T17:28:30.305578+00:00
+ - user: None
+ - tags: []
+
+## Home - The American Conservative
+ - [https://www.theamericanconservative.com](https://www.theamericanconservative.com)
+ - date published: 2023-10-25T17:28:33.109644+00:00
+ - user: None
+ - tags: []
+
+## 29% off 29 Days to France or BOGO with the new New Zealand Book - The American in Paris
+ - [https://theamericaninparis.com](https://theamericaninparis.com)
+ - date published: 2023-12-31T13:22:07.901135+00:00
+ - user: None
+ - tags: []
+
+## The Amiga Museum
+ - [https://theamigamuseum.com](https://theamigamuseum.com)
+ - date published: 2023-11-02T09:36:38.476435+00:00
+ - user: None
+ - tags: ['amiga']
+
+## The Ampersand Fairy
+ - [https://theampersandfairy.com](https://theampersandfairy.com)
+ - date published: 2023-11-29T17:13:45.809441+00:00
+ - user: None
+ - tags: ['personal']
+
 ## The Ankler. | Richard Rushfield | Substack
  - [https://theankler.com](https://theankler.com)
  - date published: 2023-10-25T17:28:36.485877+00:00
@@ -1944,6 +2112,12 @@
  - user: None
  - tags: ['personal']
 
+## Home | Tim Mastny
+ - [https://timmastny.com](https://timmastny.com)
+ - date published: 2024-01-01T19:17:36.896328+00:00
+ - user: None
+ - tags: []
+
 ## https://timoanttila.com
  - [https://timoanttila.com](https://timoanttila.com)
  - date published: 2023-12-13T20:58:29.055580+00:00
@@ -3059,6 +3233,12 @@
 ## TVP World - Poland and World breaking, daily & top news
  - [https://tvpworld.com](https://tvpworld.com)
  - date published: 2023-10-25T17:50:22.771972+00:00
+ - user: None
+ - tags: []
+
+## Show HN: I made TV Sort, a web-based game for ranking TV show episodes
+ - [https://tvsort.com](https://tvsort.com)
+ - date published: 2024-01-01T13:14:57+00:00
  - user: None
  - tags: []
 
@@ -4876,6 +5056,12 @@
  - user: rumpel
  - tags: ['electronic']
 
+## Wait But Why
+ - [https://waitbutwhy.com](https://waitbutwhy.com)
+ - date published: 2024-01-01T18:11:58.847026+00:00
+ - user: None
+ - tags: []
+
 ## WakaTime - Dashboards for developers
  - [https://wakatime.com](https://wakatime.com)
  - date published: 2023-10-25T17:59:03.808055+00:00
@@ -5794,6 +5980,12 @@
  - user: None
  - tags: []
 
+## https://faseb.onlinelibrary.wiley.com
+ - [https://faseb.onlinelibrary.wiley.com](https://faseb.onlinelibrary.wiley.com)
+ - date published: 2024-01-01T15:50:10.356314+00:00
+ - user: None
+ - tags: []
+
 ## https://febs.onlinelibrary.wiley.com
  - [https://febs.onlinelibrary.wiley.com](https://febs.onlinelibrary.wiley.com)
  - date published: 2023-10-25T18:05:30.579131+00:00
@@ -5809,198 +6001,6 @@
 ## https://myscp.onlinelibrary.wiley.com
  - [https://myscp.onlinelibrary.wiley.com](https://myscp.onlinelibrary.wiley.com)
  - date published: 2023-11-07T02:17:31.388440+00:00
- - user: None
- - tags: []
-
-## Newsroom | John Wiley & Sons, Inc.
- - [https://newsroom.wiley.com](https://newsroom.wiley.com)
- - date published: 2023-12-21T15:13:35.167663+00:00
- - user: None
- - tags: []
-
-## https://onlinelibrary.wiley.com
- - [https://onlinelibrary.wiley.com](https://onlinelibrary.wiley.com)
- - date published: 2023-10-25T18:05:35.898602+00:00
- - user: None
- - tags: []
-
-## https://physoc.onlinelibrary.wiley.com
- - [https://physoc.onlinelibrary.wiley.com](https://physoc.onlinelibrary.wiley.com)
- - date published: 2023-11-12T06:59:06.705475+00:00
- - user: None
- - tags: []
-
-## https://srcd.onlinelibrary.wiley.com
- - [https://srcd.onlinelibrary.wiley.com](https://srcd.onlinelibrary.wiley.com)
- - date published: 2023-10-25T18:05:36.256171+00:00
- - user: None
- - tags: []
-
-## posts
- - [https://will-keleher.com](https://will-keleher.com)
- - date published: 2023-10-25T18:05:37.139130+00:00
- - user: None
- - tags: []
-
-## Will Brownsberger – STATE SENATOR
- - [https://willbrownsberger.com](https://willbrownsberger.com)
- - date published: 2023-10-25T18:05:47.473903+00:00
- - user: None
- - tags: []
-
-## Will DePue
- - [https://blog.willdepue.com](https://blog.willdepue.com)
- - date published: 2023-10-25T18:05:49.001502+00:00
- - user: None
- - tags: []
-
-## Willem Laurentz Middelkoop
- - [https://willem.com](https://willem.com)
- - date published: 2023-11-14T16:19:39.927104+00:00
- - user: None
- - tags: []
-
-## Will Hackett
- - [https://notes.willhackett.com](https://notes.willhackett.com)
- - date published: 2023-10-25T18:05:50.791703+00:00
- - user: None
- - tags: []
-
-## Welcome to all those learning Haskell | William Yao
- - [https://williamyaoh.com](https://williamyaoh.com)
- - date published: 2023-10-25T18:05:52.874728+00:00
- - user: None
- - tags: []
-
-## William Zeitler-Home
- - [https://williamzeitler.com](https://williamzeitler.com)
- - date published: 2023-11-29T14:22:09.377285+00:00
- - user: None
- - tags: ['personal']
-
-## Website of artist, educator filmmaker and photographer Willie Robb
- - [https://www.willierobb.com](https://www.willierobb.com)
- - date published: 2023-12-20T00:59:47.184091+00:00
- - user: None
- - tags: ['personal']
-
-## Where there is a Will
- - [https://www.willmcgugan.com](https://www.willmcgugan.com)
- - date published: 2023-10-25T18:05:57.116791+00:00
- - user: None
- - tags: []
-
-## Willo Sana: Transformational Business Coach ~ WilloLovesYou.com
- - [https://willolovesyou.com](https://willolovesyou.com)
- - date published: 2023-12-07T17:38:00.495447+00:00
- - user: None
- - tags: ['personal']
-
-## Will Robots Take My Job?
- - [https://willrobotstakemyjob.com](https://willrobotstakemyjob.com)
- - date published: 2023-10-27T10:59:41.287959+00:00
- - user: None
- - tags: ['artificial intelligence', 'wtf']
-
-## Homepage
- - [https://www.wilx.com](https://www.wilx.com)
- - date published: 2023-12-22T01:29:49.446093+00:00
- - user: None
- - tags: []
-
-## Wimpy's World
- - [https://wimpysworld.com](https://wimpysworld.com)
- - date published: 2023-10-25T18:05:58.887304+00:00
- - user: None
- - tags: []
-
-## Win Vector LLC – Data science advising, consulting, and training
- - [https://win-vector.com](https://win-vector.com)
- - date published: 2023-10-25T18:06:02.876087+00:00
- - user: None
- - tags: []
-
-## https://forums.winamp.com
- - [https://forums.winamp.com](https://forums.winamp.com)
- - date published: 2023-10-25T18:06:05.343618+00:00
- - user: None
- - tags: []
-
-## The ultimate music machine empowering listeners, creators and fans - Winamp
- - [https://www.winamp.com](https://www.winamp.com)
- - date published: 2023-11-01T08:43:27.866000+00:00
- - user: None
- - tags: []
-
-## Window-swap – open a new window somewhere in the world
- - [https://www.window-swap.com](https://www.window-swap.com)
- - date published: 2023-11-02T01:16:22+00:00
- - user: None
- - tags: []
-
-## Home | Windows Blog
- - [https://blogs.windows.com](https://blogs.windows.com)
- - date published: 2023-10-25T11:29:25.500201+00:00
- - user: None
- - tags: []
-
-## Windows Repair Toolbox
- - [https://windows-repair-toolbox.com](https://windows-repair-toolbox.com)
- - date published: 2023-10-25T18:06:10.245644+00:00
- - user: None
- - tags: []
-
-## Windows 95 Tips, Tricks, and Tweaks
- - [https://windows95tips.com](https://windows95tips.com)
- - date published: 2023-10-25T18:06:17.364143+00:00
- - user: None
- - tags: ['windows']
-
-## Windows Central - News, Reviews & Help on Windows 10, Windows 11, Xbox & more
- - [https://www.windowscentral.com](https://www.windowscentral.com)
- - date published: 2023-10-25T09:36:42.590120+00:00
- - user: None
- - tags: []
-
-## Windows Latest: Your Source for all things Microsoft
- - [https://www.windowslatest.com](https://www.windowslatest.com)
- - date published: 2023-10-25T18:06:31.585381+00:00
- - user: None
- - tags: []
-
-## Wind River
- - [https://www.windriver.com](https://www.windriver.com)
- - date published: 2023-11-08T11:30:59.705560+00:00
- - user: None
- - tags: ['linux', 'windriver', 'wind river', 'operating system']
-
-## Windscribe - Free VPN and Ad Block
- - [https://windscribe.com](https://windscribe.com)
- - date published: 2023-10-25T18:06:36.879450+00:00
- - user: None
- - tags: []
-
-## Windy as forecasted
- - [https://www.windy.com](https://www.windy.com)
- - date published: 2023-10-24T20:19:13.472192+00:00
- - user: None
- - tags: []
-
-## absorptions
- - [https://www.windytan.com](https://www.windytan.com)
- - date published: 2023-10-25T18:06:44.382900+00:00
- - user: None
- - tags: []
-
-## wineanorak.com – online wine magazine
- - [https://wineanorak.com](https://wineanorak.com)
- - date published: 2023-10-25T18:06:50.105227+00:00
- - user: None
- - tags: []
-
-## WINK News - Breaking News and Weather | First. Fair. Everywhere
- - [https://winknews.com](https://winknews.com)
- - date published: 2023-10-25T18:07:00.974361+00:00
  - user: None
  - tags: []
 

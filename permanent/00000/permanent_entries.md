@@ -142,6 +142,12 @@
  - user: None
  - tags: []
 
+## The Grumpy Economist
+ - [https://johnhcochrane.blogspot.com.](https://johnhcochrane.blogspot.com.)
+ - date published: 2024-01-01T15:01:45.228241+00:00
+ - user: None
+ - tags: []
+
 ## Kristiania
  - [https://kristiania.no.](https://kristiania.no.)
  - date published: 2023-12-13T11:22:44.862076+00:00
@@ -295,6 +301,12 @@
 ## Show HN: Chat with Garry Tan using RAG on his YouTube channel
  - [https://gtan-chat.arguflow.ai](https://gtan-chat.arguflow.ai)
  - date published: 2023-11-03T19:59:56+00:00
+ - user: None
+ - tags: []
+
+## https://app.artflow.ai
+ - [https://app.artflow.ai](https://app.artflow.ai)
+ - date published: 2024-01-01T14:37:26.823371+00:00
  - user: None
  - tags: []
 
@@ -1873,6 +1885,12 @@
 ## Mu
  - [https://mu.app](https://mu.app)
  - date published: 2023-10-25T11:47:22.709061+00:00
+ - user: None
+ - tags: []
+
+## 特務機関NERV防災
+ - [https://nerv.app](https://nerv.app)
+ - date published: 2024-01-01T22:14:48.864192+00:00
  - user: None
  - tags: []
 
@@ -4673,6 +4691,12 @@
  - user: None
  - tags: []
 
+## Penguin Random House Canada
+ - [https://www.penguinrandomhouse.ca](https://www.penguinrandomhouse.ca)
+ - date published: 2024-01-01T23:02:01.836479+00:00
+ - user: None
+ - tags: []
+
 ## Peter Zhu
  - [https://blog.peterzhu.ca](https://blog.peterzhu.ca)
  - date published: 2023-10-25T09:02:44.361368+00:00
@@ -4708,6 +4732,12 @@
  - date published: 2023-12-24T18:31:10.288244+00:00
  - user: None
  - tags: ['personal']
+
+## Scholastic Canada
+ - [https://www.scholastic.ca](https://www.scholastic.ca)
+ - date published: 2024-01-02T00:03:11.274641+00:00
+ - user: None
+ - tags: []
 
 ## Dominick Schroer's Blog
  - [https://schroer.ca](https://schroer.ca)
@@ -5967,36 +5997,6 @@
 ## Baseten | Machine learning infrastructure
  - [https://www.baseten.co](https://www.baseten.co)
  - date published: 2023-11-20T21:09:03.643831+00:00
- - user: None
- - tags: []
-
-## Daily AI news, products and research - Ben's Bites
- - [https://news.bensbites.co](https://news.bensbites.co)
- - date published: 2023-10-25T12:16:49.470429+00:00
- - user: None
- - tags: []
-
-## blendOS — Beautiful. Efficient. Elegant.
- - [https://blendos.co](https://blendos.co)
- - date published: 2023-10-25T08:31:36.268191+00:00
- - user: None
- - tags: []
-
-## Blockworks: News and insights about digital assets.
- - [https://blockworks.co](https://blockworks.co)
- - date published: 2023-10-25T12:17:09.910871+00:00
- - user: None
- - tags: []
-
-## Bubblic – End loneliness together.
- - [https://bubblic.co](https://bubblic.co)
- - date published: 2023-10-25T12:17:13.739153+00:00
- - user: None
- - tags: []
-
-## The Ruby on Rails SaaS Template | Bullet Train
- - [https://bullettrain.co](https://bullettrain.co)
- - date published: 2023-10-25T12:17:16.481583+00:00
  - user: None
  - tags: []
 

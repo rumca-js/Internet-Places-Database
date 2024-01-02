@@ -1,3 +1,75 @@
+## Frank Caron - Product Guy and Writer At Large
+ - [https://www.frankcaron.com](https://www.frankcaron.com)
+ - date published: 2023-10-25T08:45:49.273455+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home Page - FrankSpeech
+ - [https://frankspeech.com](https://frankspeech.com)
+ - date published: 2023-10-25T14:37:21.205761+00:00
+ - user: None
+ - tags: []
+
+## Franz AI - Franz Enzenhofer - AI First Agency
+ - [https://www.franzai.com](https://www.franzai.com)
+ - date published: 2023-11-27T11:03:22+00:00
+ - user: rumpel
+ - tags: []
+
+## Franz Vitulli – Product, lifestyle, and more.
+ - [https://www.franzvitulli.com](https://www.franzvitulli.com)
+ - date published: 2023-12-03T01:43:17.238710+00:00
+ - user: None
+ - tags: ['personal']
+
+## Freakonomics - The hidden side of everything
+ - [https://freakonomics.com](https://freakonomics.com)
+ - date published: 2023-10-25T14:37:24.395000+00:00
+ - user: None
+ - tags: []
+
+## Altera Consulting - Your Digital Transformation Partner
+ - [https://fredericpeyrot.com](https://fredericpeyrot.com)
+ - date published: 2023-11-29T15:51:15.617851+00:00
+ - user: None
+ - tags: ['personal']
+
+## Frederik Braun
+ - [https://frederik-braun.com](https://frederik-braun.com)
+ - date published: 2023-12-03T09:19:06.810399+00:00
+ - user: None
+ - tags: ['personal']
+
+## Blues Harmonica Kaizen
+ - [https://fredrikhertzberg.com](https://fredrikhertzberg.com)
+ - date published: 2023-12-09T10:39:04.723742+00:00
+ - user: None
+ - tags: ['personal']
+
+## Fredrik Holmqvist
+ - [https://www.fredrikholmqvist.com](https://www.fredrikholmqvist.com)
+ - date published: 2023-10-25T14:37:25.960001+00:00
+ - user: None
+ - tags: []
+
+## "Free Beacon" — Breaking News, Politics, National Security
+ - [https://freebeacon.com](https://freebeacon.com)
+ - date published: 2023-10-25T14:37:31.540999+00:00
+ - user: None
+ - tags: []
+
+## Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials
+ - [https://freecomputerbooks.com](https://freecomputerbooks.com)
+ - date published: 2023-10-25T11:34:58.922103+00:00
+ - user: None
+ - tags: []
+
+## Freedom to Tinker - Research and expert commentary on digital technologies
+ - [https://freedom-to-tinker.com](https://freedom-to-tinker.com)
+ - date published: 2023-10-25T14:37:41.063916+00:00
+ - user: None
+ - tags: []
+
 ## Freelance Faucet | The Content Hub For Freelancers
  - [https://freelancefaucet.com](https://freelancefaucet.com)
  - date published: 2023-11-29T15:46:47.429109+00:00
@@ -157,6 +229,12 @@
 ## FTX Homepage
  - [https://ftx.com](https://ftx.com)
  - date published: 2023-10-25T14:39:27.320966+00:00
+ - user: None
+ - tags: []
+
+## Full Circuit
+ - [https://www.fullcircuit.com](https://www.fullcircuit.com)
+ - date published: 2024-01-01T12:34:41.605970+00:00
  - user: None
  - tags: []
 
@@ -561,6 +639,12 @@
  - date published: 2023-12-29T19:00:40.931700+00:00
  - user: None
  - tags: ['personal']
+
+## Garrick van Buren
+ - [https://garrickvanburen.com](https://garrickvanburen.com)
+ - date published: 2024-01-01T17:21:16.498305+00:00
+ - user: None
+ - tags: []
 
 ## Gartner | Delivering Actionable, Objective Insight to Executives and Their Teams
  - [https://www.gartner.com](https://www.gartner.com)
@@ -2403,6 +2487,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## The Grumpy Economist | John H. Cochrane | Substack
+ - [https://www.grumpy-economist.com](https://www.grumpy-economist.com)
+ - date published: 2024-01-01T15:01:43.234461+00:00
+ - user: None
+ - tags: []
+
 ## Grumpy Gamer
  - [https://www.grumpygamer.com](https://www.grumpygamer.com)
  - date published: 2023-10-25T14:52:10.872094+00:00
@@ -3555,6 +3645,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Liz de Nesnera. Best of Both Worlds VO.
+ - [https://hireliz.com](https://hireliz.com)
+ - date published: 2024-01-01T17:21:53.248678+00:00
+ - user: None
+ - tags: []
+
 ## historic clothing:  expanded site
  - [https://histclo.com](https://histclo.com)
  - date published: 2023-12-26T17:33:15.141581+00:00
@@ -4614,6 +4710,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## incolumitas.com
  - [https://incolumitas.com](https://incolumitas.com)
  - date published: 2023-10-25T15:18:18.546695+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [https://proxy.incolumitas.com](https://proxy.incolumitas.com)
+ - date published: 2024-01-01T02:54:47.056293+00:00
  - user: None
  - tags: []
 
@@ -5898,108 +6000,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Yarve Main
  - [https://jaroslavplotnikov.com](https://jaroslavplotnikov.com)
  - date published: 2023-12-07T17:38:14.106465+00:00
- - user: None
- - tags: ['personal']
-
-## Derek Jarvis' Blog
- - [https://jarvispowered.com](https://jarvispowered.com)
- - date published: 2023-10-25T09:20:50.084354+00:00
- - user: None
- - tags: ['personal']
-
-## Almost looks like work
- - [https://jasmcole.com](https://jasmcole.com)
- - date published: 2023-10-25T15:26:56.478165+00:00
- - user: None
- - tags: []
-
-## JASON COLAVITO - Home
- - [https://www.jasoncolavito.com](https://www.jasoncolavito.com)
- - date published: 2023-10-25T15:27:13.210438+00:00
- - user: None
- - tags: []
-
-## Jason Davies - Freelance Data Visualisation
- - [https://www.jasondavies.com](https://www.jasondavies.com)
- - date published: 2023-10-25T08:31:16.657113+00:00
- - user: None
- - tags: []
-
-## Simply Confusing
- - [https://jasonfantl.com](https://jasonfantl.com)
- - date published: 2023-10-25T15:27:14.283439+00:00
- - user: None
- - tags: []
-
-## Jason Markow
- - [https://www.jasonmarkow.com](https://www.jasonmarkow.com)
- - date published: 2023-11-29T14:22:42.135828+00:00
- - user: None
- - tags: ['personal']
-
-## Jason Quintin | Product Designer
- - [https://v15.jasonquintin.com](https://v15.jasonquintin.com)
- - date published: 2023-12-22T17:49:37.580394+00:00
- - user: None
- - tags: ['personal']
-
-## Jason’s Big Adventure
- - [https://jasonsbigadventure.com](https://jasonsbigadventure.com)
- - date published: 2023-12-12T13:08:50.689435+00:00
- - user: None
- - tags: ['personal']
-
-## Jason Shen | Cultivating Resilience
- - [https://www.jasonshen.com](https://www.jasonshen.com)
- - date published: 2023-10-25T08:46:15.822607+00:00
- - user: None
- - tags: ['personal']
-
-## Jason Shulman
- - [https://www.jasonshulmanstudio.com](https://www.jasonshulmanstudio.com)
- - date published: 2023-10-25T08:46:16.648529+00:00
- - user: None
- - tags: ['personal']
-
-## Jason Zweig | A safe haven for investors by Jason Zweig of The Wall Street Journal.
- - [https://jasonzweig.com](https://jasonzweig.com)
- - date published: 2023-10-25T15:27:17.416854+00:00
- - user: None
- - tags: []
-
-## https://lib.jasperplayer.com
- - [https://lib.jasperplayer.com](https://lib.jasperplayer.com)
- - date published: 2023-12-12T08:41:31.534121+00:00
- - user: None
- - tags: []
-
-## https://www.java.com
- - [https://www.java.com](https://www.java.com)
- - date published: 2023-11-01T08:42:20.753072+00:00
- - user: None
- - tags: []
-
-## Java Playground
- - [https://java-playground.com](https://java-playground.com)
- - date published: 2023-10-25T15:27:20.226781+00:00
- - user: None
- - tags: []
-
-## Welcome To The Java Advent Calendar - JVM Advent
- - [https://www.javaadvent.com](https://www.javaadvent.com)
- - date published: 2023-10-25T15:27:22.352791+00:00
- - user: None
- - tags: []
-
-## Learn JavaScript Online - Courses for Beginners - javascript.com
- - [https://www.javascript.com](https://www.javascript.com)
- - date published: 2023-11-01T08:42:21.170598+00:00
- - user: None
- - tags: ['javascript', 'tutorials']
-
-## Home - Javier Velilla - Diseño y mantenimiento web WordPress
- - [https://javivelilla.com](https://javivelilla.com)
- - date published: 2023-11-29T14:19:54.967099+00:00
  - user: None
  - tags: ['personal']
 

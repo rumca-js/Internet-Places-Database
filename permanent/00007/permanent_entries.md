@@ -1,3 +1,129 @@
+## Unavailable In Your Region
+ - [https://www.peacocktv.com](https://www.peacocktv.com)
+ - date published: 2023-11-03T17:34:06.995031+00:00
+ - user: None
+ - tags: []
+
+## Home 2021
+ - [https://pearceonearth.com](https://pearceonearth.com)
+ - date published: 2023-11-29T17:13:01.550218+00:00
+ - user: None
+ - tags: ['personal']
+
+## PEARL, Inc. Homepage
+ - [https://www.pearl-hifi.com](https://www.pearl-hifi.com)
+ - date published: 2023-10-25T16:31:53.681955+00:00
+ - user: None
+ - tags: []
+
+## Pearl Jam - Home
+ - [https://pearljam.com](https://pearljam.com)
+ - date published: 2023-11-13T11:08:31.956919+00:00
+ - user: None
+ - tags: ['music band']
+
+## Pearson | The World’s Leading Education Provider
+ - [https://www.pearson.com](https://www.pearson.com)
+ - date published: 2023-10-25T16:31:59.807682+00:00
+ - user: None
+ - tags: []
+
+## PeerJ
+ - [https://peerj.com](https://peerj.com)
+ - date published: 2023-11-02T17:53:38.956577+00:00
+ - user: None
+ - tags: []
+
+## Book update.  Now includes recent work on best fit solutions. - Peeter Joot's Blog
+ - [https://peeterjoot.com](https://peeterjoot.com)
+ - date published: 2023-10-25T08:57:37.286572+00:00
+ - user: None
+ - tags: ['personal']
+
+## Pegasus Games
+ - [https://pegasusgames.com](https://pegasusgames.com)
+ - date published: 2023-10-30T12:01:37.114574+00:00
+ - user: None
+ - tags: []
+
+## PelotonCal
+ - [https://pelotoncal.com](https://pelotoncal.com)
+ - date published: 2023-10-25T16:32:06.386585+00:00
+ - user: None
+ - tags: []
+
+## PENDULUM - Official Website
+ - [https://pendulum.com](https://pendulum.com)
+ - date published: 2023-11-13T10:44:23.595750+00:00
+ - user: None
+ - tags: ['music band']
+
+## Penmachine - Derek K. Miller
+ - [https://www.penmachine.com](https://www.penmachine.com)
+ - date published: 2023-10-25T16:32:10.562369+00:00
+ - user: None
+ - tags: []
+
+## Central PA Local News, Breaking News, Sports & Weather
+ - [https://www.pennlive.com](https://www.pennlive.com)
+ - date published: 2023-11-04T15:48:22.366123+00:00
+ - user: None
+ - tags: []
+
+## Tom Francis
+ - [https://www.pentadact.com](https://www.pentadact.com)
+ - date published: 2023-10-25T09:21:08.810960+00:00
+ - user: None
+ - tags: ['personal']
+
+## People.com | Celebrity News, Exclusives, Photos and Videos
+ - [https://people.com](https://people.com)
+ - date published: 2023-10-25T10:52:09.683787+00:00
+ - user: None
+ - tags: []
+
+## People and Blogs
+ - [https://peopleandblogs.com](https://peopleandblogs.com)
+ - date published: 2023-10-25T16:32:21.821382+00:00
+ - user: None
+ - tags: []
+
+## Join Flourish! A newsletter to navigate business and life
+ - [https://peopleloveprojects.com](https://peopleloveprojects.com)
+ - date published: 2023-11-29T13:54:27.816636+00:00
+ - user: None
+ - tags: ['personal']
+
+## POCIT. Telling the stories and thoughts of people of color in tech.
+ - [https://peopleofcolorintech.com](https://peopleofcolorintech.com)
+ - date published: 2023-10-25T16:32:25.934361+00:00
+ - user: None
+ - tags: []
+
+## Samuel Pepys: Diary, Letters, Family Tree, Maps, Encyclopedia, Discussion and more
+ - [https://www.pepysdiary.com](https://www.pepysdiary.com)
+ - date published: 2023-10-25T16:32:28.890530+00:00
+ - user: None
+ - tags: []
+
+## Open Source Database Software Support & Services | Percona
+ - [https://www.percona.com](https://www.percona.com)
+ - date published: 2023-10-25T16:32:31.939924+00:00
+ - user: None
+ - tags: []
+
+## Hi, I'm David Perell.
+ - [https://perell.com](https://perell.com)
+ - date published: 2023-10-25T16:32:35.600204+00:00
+ - user: None
+ - tags: []
+
+## Music Technology & Synthesizers - Perfect Circuit
+ - [https://www.perfectcircuit.com](https://www.perfectcircuit.com)
+ - date published: 2023-12-24T20:04:00.092369+00:00
+ - user: None
+ - tags: []
+
 ## https://perfectdarkmode.com
  - [https://perfectdarkmode.com](https://perfectdarkmode.com)
  - date published: 2023-12-12T08:09:19.439269+00:00
@@ -412,6 +538,12 @@
 ## Blog By Physics-Astronomy
  - [https://blog.physics-astronomy.com](https://blog.physics-astronomy.com)
  - date published: 2023-10-25T16:34:22.769337+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Physics-Astronomy
+ - [https://www.physics-astronomy.com](https://www.physics-astronomy.com)
+ - date published: 2024-01-01T22:21:48.330748+00:00
  - user: None
  - tags: []
 
@@ -2415,6 +2547,12 @@
  - user: None
  - tags: []
 
+## Show HN: Raiseto – Discover and Share Ideas
+ - [https://raiseto.com](https://raiseto.com)
+ - date published: 2024-01-01T02:04:26+00:00
+ - user: None
+ - tags: []
+
 ## Software the Hard way – Thoughts on Software Development
  - [https://software.rajivprab.com](https://software.rajivprab.com)
  - date published: 2023-10-25T16:45:26.912420+00:00
@@ -3766,6 +3904,12 @@ More!
  - user: None
  - tags: []
 
+## Nikhil. R
+ - [https://rnikhil.com](https://rnikhil.com)
+ - date published: 2024-01-01T09:04:56.855200+00:00
+ - user: None
+ - tags: []
+
 ## Road & Track: Auto News, Reviews, and Car Culture
  - [https://www.roadandtrack.com](https://www.roadandtrack.com)
  - date published: 2023-10-25T10:55:46.397695+00:00
@@ -4713,6 +4857,12 @@ More!
  - date published: 2023-10-30T15:37:09.133549+00:00
  - user: None
  - tags: ['music band']
+
+## ➡️ Consultor SEO Madrid SALYSEO - Estrategia Efectiva para tu Negocio
+ - [https://salyseo.com](https://salyseo.com)
+ - date published: 2024-01-01T03:38:29.844211+00:00
+ - user: None
+ - tags: []
 
 ## Sam Rogers - Snap Synapse LLC | LinkedIn
  - [https://sam-rogers.com](https://sam-rogers.com)
@@ -5857,156 +6007,6 @@ More!
 ## sglavoie.com
  - [https://www.sglavoie.com](https://www.sglavoie.com)
  - date published: 2023-11-16T09:28:41.834908+00:00
- - user: None
- - tags: []
-
-## Shacknews | Video Game Video Reviews, Celebrity Interviews, Strategy Videos, Original Content and More
- - [https://www.shacknews.com](https://www.shacknews.com)
- - date published: 2023-10-25T10:50:12.343927+00:00
- - user: None
- - tags: []
-
-## Shadertoy BETA
- - [https://www.shadertoy.com](https://www.shadertoy.com)
- - date published: 2023-10-25T17:03:10.073076+00:00
- - user: None
- - tags: []
-
-## ShadowBox Training – Accelerate Expertise
- - [https://www.shadowboxtraining.com](https://www.shadowboxtraining.com)
- - date published: 2023-10-25T17:03:12.236336+00:00
- - user: None
- - tags: []
-
-## Shahed Syed | Product Designer
- - [https://shah3d.com](https://shah3d.com)
- - date published: 2023-12-16T07:28:09.909101+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://shallistreamit.com](https://shallistreamit.com)
- - date published: 2023-11-27T11:33:27+00:00
- - user: rumpel
- - tags: ['movies']
-
-## https://www.shanecole.com
- - [https://www.shanecole.com](https://www.shanecole.com)
- - date published: 2023-12-24T08:14:40.540751+00:00
- - user: None
- - tags: ['personal']
-
-## Shanley
- - [https://www.shanleykane.com](https://www.shanleykane.com)
- - date published: 2023-10-25T17:03:13.290534+00:00
- - user: None
- - tags: []
-
-## Shannon E. Thomas
- - [https://shannonethomas.com](https://shannonethomas.com)
- - date published: 2023-11-22T18:43:41.476621+00:00
- - user: None
- - tags: ['personal']
-
-## The Shape of Code
- - [https://shape-of-code.com](https://shape-of-code.com)
- - date published: 2023-10-25T17:03:20.555625+00:00
- - user: None
- - tags: []
-
-## Shapecatcher: Draw the Unicode character you want!
- - [https://shapecatcher.com](https://shapecatcher.com)
- - date published: 2023-10-25T17:03:21.120346+00:00
- - user: None
- - tags: []
-
-## Larry Charbonneau - Web Developer / Diver / Husker
- - [https://www.sharbonline.com](https://www.sharbonline.com)
- - date published: 2023-10-25T17:03:23.397222+00:00
- - user: None
- - tags: []
-
-## ShareGPT: Share your wildest ChatGPT conversations with one click.
- - [https://sharegpt.com](https://sharegpt.com)
- - date published: 2023-10-25T17:03:24.394627+00:00
- - user: None
- - tags: []
-
-## Shareware Heroes | A book by Richard Moss
- - [https://sharewareheroes.com](https://sharewareheroes.com)
- - date published: 2023-10-25T17:03:25.595114+00:00
- - user: None
- - tags: []
-
-## Sharif Islam
- - [https://sharifislam.com](https://sharifislam.com)
- - date published: 2023-12-14T09:17:44.905338+00:00
- - user: None
- - tags: ['personal']
-
-## Sharoma
- - [https://www.sharoma.com](https://www.sharoma.com)
- - date published: 2023-10-25T08:47:52.772488+00:00
- - user: None
- - tags: ['personal']
-
-## Sharvesh | Substack
- - [https://www.sharvesh.com](https://www.sharvesh.com)
- - date published: 2023-12-11T11:15:14.146711+00:00
- - user: None
- - tags: []
-
-## ShaunOConnell.com – GP | Commissioner | Coach & Mentor | Blogger
- - [https://shaunoconnell.com](https://shaunoconnell.com)
- - date published: 2023-10-25T17:03:27.779859+00:00
- - user: None
- - tags: []
-
-## %vops, SRE, and Software Engineering Blog%%
- - [https://shavingtheyak.com](https://shavingtheyak.com)
- - date published: 2023-11-19T16:59:12.994606+00:00
- - user: None
- - tags: []
-
-## 403 Forbidden
- - [https://shawneemissionpost.com](https://shawneemissionpost.com)
- - date published: 2023-11-28T00:20:54.574204+00:00
- - user: None
- - tags: []
-
-## Shawn Tabrizi | A site about discovery through experience
- - [https://www.shawntabrizi.com](https://www.shawntabrizi.com)
- - date published: 2023-10-25T17:03:28.603657+00:00
- - user: None
- - tags: []
-
-## Shea Meyers
- - [https://sheameyers.com](https://sheameyers.com)
- - date published: 2023-12-20T05:39:54.236764+00:00
- - user: None
- - tags: ['personal']
-
-## https://www.sheepesports.com
- - [https://www.sheepesports.com](https://www.sheepesports.com)
- - date published: 2023-11-03T01:49:18.102291+00:00
- - user: None
- - tags: []
-
-## Sheevaun Moran
- - [https://sheevaunmoran.com](https://sheevaunmoran.com)
- - date published: 2023-12-30T22:23:25.350039+00:00
- - user: None
- - tags: ['personal']
-
-## Shepherd - Browse the best books to read.
- - [https://shepherd.com](https://shepherd.com)
- - date published: 2023-11-01T13:03:34.046684+00:00
- - user: None
- - tags: []
-
-## Sherman On Software
- - [https://shermanonsoftware.com](https://shermanonsoftware.com)
- - date published: 2023-10-29T04:21:17.368512+00:00
  - user: None
  - tags: []
 

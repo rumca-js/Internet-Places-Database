@@ -1,3 +1,117 @@
+## Jessica Wildfire – Medium
+ - [https://jessicalexicus.medium.com](https://jessicalexicus.medium.com)
+ - date published: 2023-10-25T10:20:53.235136+00:00
+ - user: None
+ - tags: []
+
+## John Raines – Medium
+ - [https://johndanielraines.medium.com](https://johndanielraines.medium.com)
+ - date published: 2023-11-01T08:42:36.495780+00:00
+ - user: None
+ - tags: []
+
+## John Wang – Medium
+ - [https://johnjianwang.medium.com](https://johnjianwang.medium.com)
+ - date published: 2023-10-25T10:20:55.393950+00:00
+ - user: None
+ - tags: []
+
+## Medium
+ - [https://joonaskoppa.medium.com](https://joonaskoppa.medium.com)
+ - date published: 2023-10-25T10:20:56.612466+00:00
+ - user: None
+ - tags: []
+
+## Joonas – Medium
+ - [https://jooonas.medium.com](https://jooonas.medium.com)
+ - date published: 2023-10-25T10:20:58.382697+00:00
+ - user: None
+ - tags: []
+
+## Jarrod Overson – Medium
+ - [https://jsoverson.medium.com](https://jsoverson.medium.com)
+ - date published: 2023-10-26T06:39:41.460353+00:00
+ - user: None
+ - tags: []
+
+## Andrej Karpathy – Medium
+ - [https://karpathy.medium.com](https://karpathy.medium.com)
+ - date published: 2023-10-25T10:21:00.289688+00:00
+ - user: None
+ - tags: []
+
+## Keith McNulty – Medium
+ - [https://keith-mcnulty.medium.com](https://keith-mcnulty.medium.com)
+ - date published: 2023-10-25T10:21:07.216026+00:00
+ - user: None
+ - tags: []
+
+## Kevin Da Silva – Medium
+ - [https://kevin-da-silva.medium.com](https://kevin-da-silva.medium.com)
+ - date published: 2023-10-25T10:21:09.233370+00:00
+ - user: None
+ - tags: []
+
+## Kevin Basset – Medium
+ - [https://kevinbasset.medium.com](https://kevinbasset.medium.com)
+ - date published: 2023-10-25T10:21:11.583444+00:00
+ - user: None
+ - tags: []
+
+## Kieran Healey – Medium
+ - [https://kjhealey.medium.com](https://kjhealey.medium.com)
+ - date published: 2023-10-25T10:21:13.813062+00:00
+ - user: None
+ - tags: []
+
+## Kristian Dupont – Medium
+ - [https://kristiandupont.medium.com](https://kristiandupont.medium.com)
+ - date published: 2023-10-25T10:21:15.916884+00:00
+ - user: None
+ - tags: []
+
+## Lance Ng – Medium
+ - [https://lancengym.medium.com](https://lancengym.medium.com)
+ - date published: 2023-10-25T10:21:18.220706+00:00
+ - user: None
+ - tags: []
+
+## Lessig – Medium
+ - [https://lessig.medium.com](https://lessig.medium.com)
+ - date published: 2023-11-29T00:36:38.454540+00:00
+ - user: None
+ - tags: []
+
+## Ming – Medium
+ - [https://lmy.medium.com](https://lmy.medium.com)
+ - date published: 2023-10-25T10:21:20.575852+00:00
+ - user: None
+ - tags: []
+
+## Logan Kilpatrick – Medium
+ - [https://logankilpatrick.medium.com](https://logankilpatrick.medium.com)
+ - date published: 2023-10-25T10:21:22.786994+00:00
+ - user: None
+ - tags: []
+
+## Lucas McGregor – Medium
+ - [https://lucas-mcgregor.medium.com](https://lucas-mcgregor.medium.com)
+ - date published: 2023-10-25T10:21:25.050681+00:00
+ - user: None
+ - tags: []
+
+## Devansh – Medium
+ - [https://machine-learning-made-simple.medium.com](https://machine-learning-made-simple.medium.com)
+ - date published: 2023-12-22T01:02:31.995578+00:00
+ - user: None
+ - tags: []
+
+## Ryan McGeehan – Medium
+ - [https://magoo.medium.com](https://magoo.medium.com)
+ - date published: 2023-10-25T10:21:27.463778+00:00
+ - user: None
+ - tags: []
+
 ## Steven Renwick – Medium
  - [https://major-grooves.medium.com](https://major-grooves.medium.com)
  - date published: 2023-10-25T10:21:30.099042+00:00
@@ -2362,6 +2476,12 @@
  - user: None
  - tags: []
 
+## NateMerrill [dot] com
+ - [https://www.natemerrill.com](https://www.natemerrill.com)
+ - date published: 2024-01-01T17:21:02.778781+00:00
+ - user: None
+ - tags: []
+
 ## nate's website
  - [https://www.nateranda.com](https://www.nateranda.com)
  - date published: 2023-10-25T16:11:06.408957+00:00
@@ -4005,6 +4125,12 @@
 Answering Machine Greetings!
  - [https://www.noveltyansweringmachine.com](https://www.noveltyansweringmachine.com)
  - date published: 2023-10-25T16:22:33.282289+00:00
+ - user: None
+ - tags: []
+
+## Pavel Novikau
+ - [https://novikau.com](https://novikau.com)
+ - date published: 2024-01-01T03:38:58.292694+00:00
  - user: None
  - tags: []
 
@@ -5875,132 +6001,6 @@ Answering Machine Greetings!
 ## Easy to use free PDF tools online - pdfux
  - [https://pdfux.com](https://pdfux.com)
  - date published: 2023-10-25T16:31:51.991250+00:00
- - user: None
- - tags: []
-
-## Unavailable In Your Region
- - [https://www.peacocktv.com](https://www.peacocktv.com)
- - date published: 2023-11-03T17:34:06.995031+00:00
- - user: None
- - tags: []
-
-## Home 2021
- - [https://pearceonearth.com](https://pearceonearth.com)
- - date published: 2023-11-29T17:13:01.550218+00:00
- - user: None
- - tags: ['personal']
-
-## PEARL, Inc. Homepage
- - [https://www.pearl-hifi.com](https://www.pearl-hifi.com)
- - date published: 2023-10-25T16:31:53.681955+00:00
- - user: None
- - tags: []
-
-## Pearl Jam - Home
- - [https://pearljam.com](https://pearljam.com)
- - date published: 2023-11-13T11:08:31.956919+00:00
- - user: None
- - tags: ['music band']
-
-## Pearson | The World’s Leading Education Provider
- - [https://www.pearson.com](https://www.pearson.com)
- - date published: 2023-10-25T16:31:59.807682+00:00
- - user: None
- - tags: []
-
-## PeerJ
- - [https://peerj.com](https://peerj.com)
- - date published: 2023-11-02T17:53:38.956577+00:00
- - user: None
- - tags: []
-
-## Book update.  Now includes recent work on best fit solutions. - Peeter Joot's Blog
- - [https://peeterjoot.com](https://peeterjoot.com)
- - date published: 2023-10-25T08:57:37.286572+00:00
- - user: None
- - tags: ['personal']
-
-## Pegasus Games
- - [https://pegasusgames.com](https://pegasusgames.com)
- - date published: 2023-10-30T12:01:37.114574+00:00
- - user: None
- - tags: []
-
-## PelotonCal
- - [https://pelotoncal.com](https://pelotoncal.com)
- - date published: 2023-10-25T16:32:06.386585+00:00
- - user: None
- - tags: []
-
-## PENDULUM - Official Website
- - [https://pendulum.com](https://pendulum.com)
- - date published: 2023-11-13T10:44:23.595750+00:00
- - user: None
- - tags: ['music band']
-
-## Penmachine - Derek K. Miller
- - [https://www.penmachine.com](https://www.penmachine.com)
- - date published: 2023-10-25T16:32:10.562369+00:00
- - user: None
- - tags: []
-
-## Central PA Local News, Breaking News, Sports & Weather
- - [https://www.pennlive.com](https://www.pennlive.com)
- - date published: 2023-11-04T15:48:22.366123+00:00
- - user: None
- - tags: []
-
-## Tom Francis
- - [https://www.pentadact.com](https://www.pentadact.com)
- - date published: 2023-10-25T09:21:08.810960+00:00
- - user: None
- - tags: ['personal']
-
-## People.com | Celebrity News, Exclusives, Photos and Videos
- - [https://people.com](https://people.com)
- - date published: 2023-10-25T10:52:09.683787+00:00
- - user: None
- - tags: []
-
-## People and Blogs
- - [https://peopleandblogs.com](https://peopleandblogs.com)
- - date published: 2023-10-25T16:32:21.821382+00:00
- - user: None
- - tags: []
-
-## Join Flourish! A newsletter to navigate business and life
- - [https://peopleloveprojects.com](https://peopleloveprojects.com)
- - date published: 2023-11-29T13:54:27.816636+00:00
- - user: None
- - tags: ['personal']
-
-## POCIT. Telling the stories and thoughts of people of color in tech.
- - [https://peopleofcolorintech.com](https://peopleofcolorintech.com)
- - date published: 2023-10-25T16:32:25.934361+00:00
- - user: None
- - tags: []
-
-## Samuel Pepys: Diary, Letters, Family Tree, Maps, Encyclopedia, Discussion and more
- - [https://www.pepysdiary.com](https://www.pepysdiary.com)
- - date published: 2023-10-25T16:32:28.890530+00:00
- - user: None
- - tags: []
-
-## Open Source Database Software Support & Services | Percona
- - [https://www.percona.com](https://www.percona.com)
- - date published: 2023-10-25T16:32:31.939924+00:00
- - user: None
- - tags: []
-
-## Hi, I'm David Perell.
- - [https://perell.com](https://perell.com)
- - date published: 2023-10-25T16:32:35.600204+00:00
- - user: None
- - tags: []
-
-## Music Technology & Synthesizers - Perfect Circuit
- - [https://www.perfectcircuit.com](https://www.perfectcircuit.com)
- - date published: 2023-12-24T20:04:00.092369+00:00
  - user: None
  - tags: []
 

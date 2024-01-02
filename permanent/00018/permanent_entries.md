@@ -1,3 +1,405 @@
+## The Satanic Temple TV
+ - [https://www.thesatanictemple.tv](https://www.thesatanictemple.tv)
+ - date published: 2023-12-05T15:13:08+00:00
+ - user: rumpel
+ - tags: ['satanic temple', 'satanism']
+
+## Twitch Blog
+ - [https://blog.twitch.tv](https://blog.twitch.tv)
+ - date published: 2023-10-25T22:47:52.990838+00:00
+ - user: None
+ - tags: []
+
+## Twitch
+ - [https://clips.twitch.tv](https://clips.twitch.tv)
+ - date published: 2023-11-10T05:49:59.405958+00:00
+ - user: None
+ - tags: []
+
+## Twitch
+ - [https://embed.twitch.tv](https://embed.twitch.tv)
+ - date published: 2023-12-11T18:31:02.049722+00:00
+ - user: None
+ - tags: []
+
+## Twitch
+ - [https://twitch.tv](https://twitch.tv)
+ - date published: 2023-12-11T17:52:57.347740+00:00
+ - user: None
+ - tags: []
+
+## Twitch
+ - [https://www.twitch.tv](https://www.twitch.tv)
+ - date published: 2023-10-24T20:06:24.101730+00:00
+ - user: None
+ - tags: ['game streaming']
+
+## Loading...
+ - [https://yifymovies.tv](https://yifymovies.tv)
+ - date published: 2023-12-02T13:10:45.706597+00:00
+ - user: None
+ - tags: []
+
+## Taiwan News － Breaking News, Politics, Environment, Immigrants, Travel, and Health
+ - [https://www.taiwannews.com.tw](https://www.taiwannews.com.tw)
+ - date published: 2023-12-04T09:13:21.029708+00:00
+ - user: None
+ - tags: []
+
+## 國立故宮博物院-國立故宮博物院
+ - [https://www.npm.gov.tw](https://www.npm.gov.tw)
+ - date published: 2023-11-13T13:46:38.432750+00:00
+ - user: None
+ - tags: ['museum']
+
+## Focus Taiwan - CNA English News
+ - [https://focustaiwan.tw](https://focustaiwan.tw)
+ - date published: 2023-10-25T09:38:54.908021+00:00
+ - user: None
+ - tags: []
+
+## Google 翻譯修好了沒？ Has Google Fixed Translate Yet?
+ - [https://isgooglefixed.tw](https://isgooglefixed.tw)
+ - date published: 2023-10-25T22:47:54.521774+00:00
+ - user: None
+ - tags: []
+
+## Michael 'Six' Silberman
+ - [https://wtf.tw](https://wtf.tw)
+ - date published: 2023-10-25T22:47:55.846949+00:00
+ - user: None
+ - tags: []
+
+## Європейська правда
+ - [https://www.eurointegration.com.ua](https://www.eurointegration.com.ua)
+ - date published: 2023-10-30T13:58:50.444340+00:00
+ - user: None
+ - tags: []
+
+## Українська правда
+ - [https://www.pravda.com.ua](https://www.pravda.com.ua)
+ - date published: 2023-10-31T19:10:45.452974+00:00
+ - user: None
+ - tags: ['ukraine news']
+
+## Головні новини України - THE-NEWS.com.ua
+ - [https://the-news.com.ua](https://the-news.com.ua)
+ - date published: 2023-11-03T17:12:53.092066+00:00
+ - user: None
+ - tags: []
+
+## Офіційне інтернет-представництво Президента України
+ - [https://www.president.gov.ua](https://www.president.gov.ua)
+ - date published: 2023-10-25T22:48:03.025232+00:00
+ - user: None
+ - tags: []
+
+## Офіційний імпортер автомобілів | Citroën [Україна]
+ - [https://www.citroen.ua](https://www.citroen.ua)
+ - date published: 2023-12-11T16:04:26.794282+00:00
+ - user: None
+ - tags: []
+
+## Андрій Головін – Блог | Персональний блог Андрія Головіна. По трохи про все.
+ - [https://blog.andygol.co.ua](https://blog.andygol.co.ua)
+ - date published: 2023-10-25T22:48:03.655543+00:00
+ - user: None
+ - tags: []
+
+## Ukraine News Premier Independent English-language Source — The New Voice of Ukraine
+ - [https://english.nv.ua](https://english.nv.ua)
+ - date published: 2023-11-14T17:39:42.631502+00:00
+ - user: None
+ - tags: []
+
+## Ukraine News today - Latest news & Video | RBC-Ukraine
+ - [https://newsukraine.rbc.ua](https://newsukraine.rbc.ua)
+ - date published: 2023-11-20T14:44:27.599913+00:00
+ - user: None
+ - tags: ['ukraine news']
+
+## Судово-юридична газета
+ - [https://sud.ua](https://sud.ua)
+ - date published: 2023-12-24T14:29:22.262220+00:00
+ - user: None
+ - tags: []
+
+## NTV Uganda
+ - [https://www.ntv.co.ug](https://www.ntv.co.ug)
+ - date published: 2023-10-25T22:48:05.575547+00:00
+ - user: None
+ - tags: []
+
+## Hi Mom!‌
+ - [https://omrelli.ug](https://omrelli.ug)
+ - date published: 2023-10-25T22:48:06.493465+00:00
+ - user: None
+ - tags: []
+
+## University of Aberdeen
+ - [https://www.abdn.ac.uk](https://www.abdn.ac.uk)
+ - date published: 2023-12-29T15:34:32.664002+00:00
+ - user: None
+ - tags: []
+
+## University courses at ARU | Anglia Ruskin University - ARU
+ - [https://www.aru.ac.uk](https://www.aru.ac.uk)
+ - date published: 2023-11-13T10:20:41.441786+00:00
+ - user: None
+ - tags: []
+
+## University of Bath
+ - [https://www.bath.ac.uk](https://www.bath.ac.uk)
+ - date published: 2023-10-25T22:48:10.163673+00:00
+ - user: None
+ - tags: []
+
+## University of Birmingham - A leading global university
+ - [https://www.birmingham.ac.uk](https://www.birmingham.ac.uk)
+ - date published: 2023-10-25T22:48:18.220906+00:00
+ - user: None
+ - tags: []
+
+## The University of Brighton
+ - [https://research.brighton.ac.uk](https://research.brighton.ac.uk)
+ - date published: 2023-10-25T22:48:20.882555+00:00
+ - user: None
+ - tags: []
+
+## Homepage | University of Bristol
+ - [https://www.bristol.ac.uk](https://www.bristol.ac.uk)
+ - date published: 2023-10-25T22:48:23.421425+00:00
+ - user: None
+ - tags: []
+
+## University of Cambridge
+ - [https://www.cam.ac.uk](https://www.cam.ac.uk)
+ - date published: 2023-10-25T22:48:25.688531+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science and Technology |
+ - [https://www.cl.cam.ac.uk](https://www.cl.cam.ac.uk)
+ - date published: 2023-10-25T22:48:31.027561+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science and Technology |
+ - [https://www.cst.cam.ac.uk](https://www.cst.cam.ac.uk)
+ - date published: 2023-11-17T13:27:14.224987+00:00
+ - user: None
+ - tags: []
+
+## Cambridge University Library |
+ - [https://www.lib.cam.ac.uk](https://www.lib.cam.ac.uk)
+ - date published: 2023-12-20T23:39:54.152345+00:00
+ - user: None
+ - tags: []
+
+## Cardiff University
+ - [https://www.cardiff.ac.uk](https://www.cardiff.ac.uk)
+ - date published: 2023-12-05T01:51:21.187586+00:00
+ - user: None
+ - tags: []
+
+## UK Centre for Ecology & Hydrology
+ - [https://www.ceh.ac.uk](https://www.ceh.ac.uk)
+ - date published: 2023-10-25T22:48:32.418903+00:00
+ - user: None
+ - tags: []
+
+## City, University of London | City, University of London
+ - [https://www.city.ac.uk](https://www.city.ac.uk)
+ - date published: 2023-12-19T10:51:17.231746+00:00
+ - user: None
+ - tags: []
+
+## The Francis Crick Institute
+ - [https://www.crick.ac.uk](https://www.crick.ac.uk)
+ - date published: 2023-11-08T11:00:49.102462+00:00
+ - user: None
+ - tags: []
+
+## Durham University
+ - [https://www.durham.ac.uk](https://www.durham.ac.uk)
+ - date published: 2023-11-02T13:02:33.895215+00:00
+ - user: None
+ - tags: []
+
+## EMBL-EBI homepage | EMBL-EBI
+ - [https://www.ebi.ac.uk](https://www.ebi.ac.uk)
+ - date published: 2023-10-25T22:48:33.245753+00:00
+ - user: None
+ - tags: []
+
+## School of Mathematics | School of Mathematics
+ - [https://www.maths.ed.ac.uk](https://www.maths.ed.ac.uk)
+ - date published: 2023-10-25T22:48:35.495631+00:00
+ - user: None
+ - tags: []
+
+## News
+ - [https://news.exeter.ac.uk](https://news.exeter.ac.uk)
+ - date published: 2023-11-05T21:53:50.885706+00:00
+ - user: None
+ - tags: []
+
+## Astronomy & Astrophysics Group | University of Glasgow
+ - [https://www.astro.gla.ac.uk](https://www.astro.gla.ac.uk)
+ - date published: 2023-12-19T10:03:15.681293+00:00
+ - user: None
+ - tags: []
+
+## The University of Glasgow, Scotland, UK. A world top 100 university
+ - [https://www.gla.ac.uk](https://www.gla.ac.uk)
+ - date published: 2023-10-25T22:48:37.249525+00:00
+ - user: None
+ - tags: []
+
+## The Institute of Cancer Research, London
+ - [https://www.icr.ac.uk](https://www.icr.ac.uk)
+ - date published: 2023-11-03T11:36:33.556794+00:00
+ - user: None
+ - tags: []
+
+## Spiral: Home
+ - [https://spiral.imperial.ac.uk](https://spiral.imperial.ac.uk)
+ - date published: 2023-10-25T22:48:39.774318+00:00
+ - user: None
+ - tags: []
+
+## Imperial College London
+ - [https://www.imperial.ac.uk](https://www.imperial.ac.uk)
+ - date published: 2023-10-25T22:48:43.072561+00:00
+ - user: None
+ - tags: []
+
+## Internet Archaeology - Global. Open. Free. Peer-reviewed archaeological research
+ - [https://intarch.ac.uk](https://intarch.ac.uk)
+ - date published: 2023-10-25T22:48:44.581467+00:00
+ - user: None
+ - tags: []
+
+## King's College London
+ - [https://www.kcl.ac.uk](https://www.kcl.ac.uk)
+ - date published: 2023-10-27T12:08:52.500221+00:00
+ - user: None
+ - tags: []
+
+## University of Leeds
+ - [https://www.leeds.ac.uk](https://www.leeds.ac.uk)
+ - date published: 2023-10-25T22:48:46.915969+00:00
+ - user: None
+ - tags: []
+
+## LSE Blogs | Expert analysis & debate from LSE
+ - [https://blogs.lse.ac.uk](https://blogs.lse.ac.uk)
+ - date published: 2023-10-25T22:48:48.518267+00:00
+ - user: None
+ - tags: []
+
+## The London School of Hygiene & Tropical Medicine | LSHTM
+ - [https://www.lshtm.ac.uk](https://www.lshtm.ac.uk)
+ - date published: 2023-10-25T22:48:50.709213+00:00
+ - user: None
+ - tags: []
+
+## The things we do here make a difference out there | Newcastle University
+ - [https://www.ncl.ac.uk](https://www.ncl.ac.uk)
+ - date published: 2023-12-02T11:30:59.057474+00:00
+ - user: None
+ - tags: []
+
+## Home | Natural History Museum
+ - [https://www.nhm.ac.uk](https://www.nhm.ac.uk)
+ - date published: 2023-10-27T12:08:54.547443+00:00
+ - user: None
+ - tags: ['museum']
+
+## Home  | Nottingham Trent University
+ - [https://www.ntu.ac.uk](https://www.ntu.ac.uk)
+ - date published: 2023-12-12T22:22:47.615272+00:00
+ - user: None
+ - tags: []
+
+## Practical Ethics
+ - [https://blog.practicalethics.ox.ac.uk](https://blog.practicalethics.ox.ac.uk)
+ - date published: 2023-10-25T22:49:17.344700+00:00
+ - user: None
+ - tags: []
+
+## Bodleian Libraries blogs
+ - [https://blogs.bodleian.ox.ac.uk](https://blogs.bodleian.ox.ac.uk)
+ - date published: 2023-12-22T21:18:28.167479+00:00
+ - user: None
+ - tags: []
+
+## Home — Centre for Evidence-Based Medicine (CEBM), University of Oxford
+ - [https://www.cebm.ox.ac.uk](https://www.cebm.ox.ac.uk)
+ - date published: 2023-10-25T22:49:23.492759+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science, University of Oxford
+ - [https://www.cs.ox.ac.uk](https://www.cs.ox.ac.uk)
+ - date published: 2023-10-25T11:20:51.683475+00:00
+ - user: None
+ - tags: []
+
+## Home — Department of Physiology, Anatomy and Genetics (DPAG)
+ - [https://www.dpag.ox.ac.uk](https://www.dpag.ox.ac.uk)
+ - date published: 2023-10-31T19:57:19.175495+00:00
+ - user: None
+ - tags: []
+
+## OII | Homepage
+ - [https://www.oii.ox.ac.uk](https://www.oii.ox.ac.uk)
+ - date published: 2023-11-21T16:29:45.007881+00:00
+ - user: None
+ - tags: []
+
+## University of Oxford
+ - [https://www.ox.ac.uk](https://www.ox.ac.uk)
+ - date published: 2023-10-25T22:49:34.482125+00:00
+ - user: None
+ - tags: []
+
+## Information Engineering Main/Home Page
+ - [https://www.robots.ox.ac.uk](https://www.robots.ox.ac.uk)
+ - date published: 2023-10-25T22:49:36.138908+00:00
+ - user: None
+ - tags: []
+
+## Make it count with a triple gold university
+ - [https://www.plymouth.ac.uk](https://www.plymouth.ac.uk)
+ - date published: 2024-01-01T16:43:40.846084+00:00
+ - user: None
+ - tags: []
+
+## University of Portsmouth | A New Breed of University
+ - [https://www.port.ac.uk](https://www.port.ac.uk)
+ - date published: 2023-11-27T11:22:19.300413+00:00
+ - user: None
+ - tags: []
+
+## Queen Mary University of London
+ - [https://www.qmul.ac.uk](https://www.qmul.ac.uk)
+ - date published: 2023-10-25T22:49:40.586466+00:00
+ - user: None
+ - tags: []
+
+## The Royal Astronomical Society
+ - [https://ras.ac.uk](https://ras.ac.uk)
+ - date published: 2023-10-25T22:49:44.106790+00:00
+ - user: None
+ - tags: []
+
+## IT Services blog – Latest news, advice and information from the IT Services team
+ - [https://itservices.wp.st-andrews.ac.uk](https://itservices.wp.st-andrews.ac.uk)
+ - date published: 2023-10-25T22:49:46.498310+00:00
+ - user: None
+ - tags: []
+
 ## MacTutor Index - MacTutor History of Mathematics
  - [https://mathshistory.st-andrews.ac.uk](https://mathshistory.st-andrews.ac.uk)
  - date published: 2023-10-25T22:49:48.719060+00:00
@@ -235,6 +637,12 @@
 ## UK Home | Daily Mail Online
  - [https://www.dailymail.co.uk](https://www.dailymail.co.uk)
  - date published: 2023-10-25T10:35:12.125790+00:00
+ - user: None
+ - tags: []
+
+## Daily Record & Sunday Mail - Scottish News, Sport, Politics and Celeb gossip
+ - [https://www.dailyrecord.co.uk](https://www.dailyrecord.co.uk)
+ - date published: 2024-01-01T12:51:52.459663+00:00
  - user: None
  - tags: []
 
@@ -477,6 +885,12 @@
  - date published: 2023-10-31T08:58:17.543974+00:00
  - user: None
  - tags: ['news']
+
+## John Large .co.uk
+ - [https://www.johnlarge.co.uk](https://www.johnlarge.co.uk)
+ - date published: 2024-01-01T03:39:55.167843+00:00
+ - user: None
+ - tags: []
 
 ## Freelance Software Developer - Justin Emery
  - [https://www.justinemery.co.uk](https://www.justinemery.co.uk)

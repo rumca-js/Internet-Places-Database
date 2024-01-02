@@ -1,3 +1,257 @@
+## U.S. Senate
+ - [https://www.senate.gov](https://www.senate.gov)
+ - date published: 2023-10-25T19:25:25.397474+00:00
+ - user: None
+ - tags: []
+
+## Home | U.S. Senator Elizabeth Warren of Massachusetts
+ - [https://www.warren.senate.gov](https://www.warren.senate.gov)
+ - date published: 2023-10-25T19:25:26.821293+00:00
+ - user: None
+ - tags: []
+
+## Home | U.S. Senator Ron Wyden of Oregon
+ - [https://www.wyden.senate.gov](https://www.wyden.senate.gov)
+ - date published: 2023-10-25T19:25:32.843708+00:00
+ - user: None
+ - tags: ['senator']
+
+## Homepage | NOAA / NWS Space Weather Prediction Center
+ - [https://www.spaceweather.gov](https://www.spaceweather.gov)
+ - date published: 2023-10-25T19:25:37.411659+00:00
+ - user: None
+ - tags: []
+
+## The United States Social Security Administration | SSA
+ - [https://www.ssa.gov](https://www.ssa.gov)
+ - date published: 2023-10-25T19:25:44.249873+00:00
+ - user: None
+ - tags: []
+
+## U.S. Department of State - United States Department of State
+ - [https://2017-2021.state.gov](https://2017-2021.state.gov)
+ - date published: 2023-10-25T19:25:50.695939+00:00
+ - user: None
+ - tags: []
+
+## Federal Student Aid
+ - [https://studentaid.gov](https://studentaid.gov)
+ - date published: 2023-10-25T19:25:51.614124+00:00
+ - user: None
+ - tags: []
+
+## Office of the Attorney General
+ - [https://www.texasattorneygeneral.gov](https://www.texasattorneygeneral.gov)
+ - date published: 2023-11-21T04:24:19.389027+00:00
+ - user: None
+ - tags: []
+
+## Front page | U.S. Department of the Treasury
+ - [https://home.treasury.gov](https://home.treasury.gov)
+ - date published: 2023-10-25T19:26:01.602069+00:00
+ - user: None
+ - tags: []
+
+## Transportation Security Administration | Transportation Security Administration
+ - [https://www.tsa.gov](https://www.tsa.gov)
+ - date published: 2023-10-25T19:26:03.310372+00:00
+ - user: None
+ - tags: []
+
+## The USAP Portal: Science and Support in Antarctica - Welcome to the United States Antarctic Program Portal
+ - [https://www.usap.gov](https://www.usap.gov)
+ - date published: 2023-10-25T19:26:06.918908+00:00
+ - user: None
+ - tags: []
+
+## United States Court of Appeals 2nd Circuit
+ - [https://www.ca2.uscourts.gov](https://www.ca2.uscourts.gov)
+ - date published: 2023-10-25T19:26:11.758897+00:00
+ - user: None
+ - tags: []
+
+## Fifth Circuit Court of Appeals
+ - [https://www.ca5.uscourts.gov](https://www.ca5.uscourts.gov)
+ - date published: 2023-10-25T19:26:14.905641+00:00
+ - user: None
+ - tags: []
+
+## District of Columbia | United States District Court
+ - [https://www.dcd.uscourts.gov](https://www.dcd.uscourts.gov)
+ - date published: 2023-10-25T19:26:18.152336+00:00
+ - user: None
+ - tags: []
+
+## https://directives.sc.egov.usda.gov
+ - [https://directives.sc.egov.usda.gov](https://directives.sc.egov.usda.gov)
+ - date published: 2023-12-19T17:57:55.296864+00:00
+ - user: None
+ - tags: []
+
+## USDA ERS - Home
+ - [https://www.ers.usda.gov](https://www.ers.usda.gov)
+ - date published: 2023-11-01T05:24:12.673713+00:00
+ - user: None
+ - tags: []
+
+## Earthquake Hazards Program | U.S. Geological Survey
+ - [https://earthquake.usgs.gov](https://earthquake.usgs.gov)
+ - date published: 2023-10-25T19:26:27.821782+00:00
+ - user: None
+ - tags: []
+
+## U.S. Geological Survey Publications Warehouse
+ - [https://pubs.er.usgs.gov](https://pubs.er.usgs.gov)
+ - date published: 2023-10-25T19:26:29.739829+00:00
+ - user: None
+ - tags: []
+
+## USGS.gov | Science for a changing world
+ - [https://www.usgs.gov](https://www.usgs.gov)
+ - date published: 2023-10-25T19:26:34.516955+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.usmarshals.gov](https://www.usmarshals.gov)
+ - date published: 2023-11-01T08:43:37.168607+00:00
+ - user: None
+ - tags: []
+
+## Trademark Electronic Search System (TESS)
+ - [https://tmsearch.uspto.gov](https://tmsearch.uspto.gov)
+ - date published: 2023-10-25T19:26:42.135004+00:00
+ - user: None
+ - tags: []
+
+## Trademark Status & Document Retrieval
+ - [https://tsdr.uspto.gov](https://tsdr.uspto.gov)
+ - date published: 2023-10-25T19:26:49.816767+00:00
+ - user: None
+ - tags: []
+
+## United States Patent and Trademark Office
+ - [https://www.uspto.gov](https://www.uspto.gov)
+ - date published: 2023-10-25T19:26:53.299790+00:00
+ - user: None
+ - tags: []
+
+## DigitalVA
+ - [https://www.oit.va.gov](https://www.oit.va.gov)
+ - date published: 2023-10-25T19:27:00.114442+00:00
+ - user: None
+ - tags: []
+
+## Home - Washington Senate Democrats
+ - [https://senatedemocrats.wa.gov](https://senatedemocrats.wa.gov)
+ - date published: 2023-10-25T19:27:05.211655+00:00
+ - user: None
+ - tags: []
+
+## Washington State | Office of the Attorney General
+ - [https://www.atg.wa.gov](https://www.atg.wa.gov)
+ - date published: 2023-10-25T19:27:08.100270+00:00
+ - user: None
+ - tags: []
+
+## National Weather Service
+ - [https://forecast.weather.gov](https://forecast.weather.gov)
+ - date published: 2023-10-24T20:19:23.078078+00:00
+ - user: None
+ - tags: []
+
+## Ocean Prediction Center
+ - [https://ocean.weather.gov](https://ocean.weather.gov)
+ - date published: 2023-10-25T19:27:10.683788+00:00
+ - user: None
+ - tags: []
+
+## National Weather Service
+ - [https://www.weather.gov](https://www.weather.gov)
+ - date published: 2023-10-25T19:27:16.778437+00:00
+ - user: None
+ - tags: []
+
+## The White House
+ - [https://www.whitehouse.gov](https://www.whitehouse.gov)
+ - date published: 2023-10-25T19:27:21.217032+00:00
+ - user: None
+ - tags: []
+
+## https://wyoleg.gov
+ - [https://wyoleg.gov](https://wyoleg.gov)
+ - date published: 2023-10-25T19:27:23.611011+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://fatherhood.gov:443](https://fatherhood.gov:443)
+ - date published: 2023-12-29T00:50:59.625462+00:00
+ - user: None
+ - tags: []
+
+## Vente et achat voitures neuves - Citroen Guadeloupe
+ - [https://www.citroen.gp](https://www.citroen.gp)
+ - date published: 2023-12-11T16:03:13.872308+00:00
+ - user: None
+ - tags: []
+
+## Home | AmiCamp
+ - [https://amicamp.gr](https://amicamp.gr)
+ - date published: 2023-12-11T17:37:01.573253+00:00
+ - user: None
+ - tags: []
+
+## Νέα αυτοκίνητα | Κατασκευαστής αυτοκινήτων | Citroën
+ - [https://www.citroen.gr](https://www.citroen.gr)
+ - date published: 2023-12-11T16:01:26.638908+00:00
+ - user: None
+ - tags: []
+
+## Dmitry.GR: Projects
+ - [https://dmitry.gr](https://dmitry.gr)
+ - date published: 2023-10-25T19:27:25.347944+00:00
+ - user: None
+ - tags: []
+
+## Blog
+
+		🎤 Lexxman
+ - [https://www.lexx.gr](https://www.lexx.gr)
+ - date published: 2023-10-25T19:27:32.020037+00:00
+ - user: None
+ - tags: []
+
+## protothemanews.com | Protothema.gr news in english
+ - [https://en.protothema.gr](https://en.protothema.gr)
+ - date published: 2023-10-25T19:27:36.235371+00:00
+ - user: None
+ - tags: []
+
+## Skroutz Engineering
+ - [https://engineering.skroutz.gr](https://engineering.skroutz.gr)
+ - date published: 2023-10-25T19:27:37.896244+00:00
+ - user: None
+ - tags: []
+
+## Αρχική | Μουσείο Ακρόπολης | Επίσημος ιστοχώρος
+ - [https://www.theacropolismuseum.gr](https://www.theacropolismuseum.gr)
+ - date published: 2023-11-13T13:51:11.767913+00:00
+ - user: None
+ - tags: ['museum']
+
+## Τμήμα Επιστήμης Υπολογιστών - Πανεπιστήμιο Κρήτης
+ - [https://www.csd.uoc.gr](https://www.csd.uoc.gr)
+ - date published: 2023-10-25T19:27:39.747201+00:00
+ - user: None
+ - tags: []
+
+## Barbara
+ - [https://www.barbara.graphics](https://www.barbara.graphics)
+ - date published: 2023-10-25T19:27:40.717243+00:00
+ - user: None
+ - tags: []
+
 ## Booklet
  - [https://www.booklet.group](https://www.booklet.group)
  - date published: 2023-10-25T19:27:41.800887+00:00
@@ -1883,6 +2137,12 @@
  - user: None
  - tags: []
 
+## BinaryDigit
+ - [https://binarydigit.io](https://binarydigit.io)
+ - date published: 2024-01-01T17:21:39.444722+00:00
+ - user: None
+ - tags: []
+
 ## The Inner Join
  - [https://innerjoin.bit.io](https://innerjoin.bit.io)
  - date published: 2023-10-25T19:38:36.310405+00:00
@@ -3119,6 +3379,12 @@
  - user: None
  - tags: []
 
+## Bobbie's Web Demos
+ - [https://bobbiec.github.io](https://bobbiec.github.io)
+ - date published: 2024-01-01T07:05:08.100446+00:00
+ - user: None
+ - tags: []
+
 ## Blog O' Braheezy
  - [https://braheezy.github.io](https://braheezy.github.io)
  - date published: 2023-10-25T08:59:08.009471+00:00
@@ -4051,6 +4317,12 @@ through Composable Diffusion
  - user: None
  - tags: []
 
+## Leslie Liu
+ - [https://liuleslie.github.io](https://liuleslie.github.io)
+ - date published: 2024-01-01T03:38:18.927680+00:00
+ - user: None
+ - tags: []
+
 ## Liz Izhikevich
  - [https://lizizhikevich.github.io](https://lizizhikevich.github.io)
  - date published: 2023-10-25T19:48:30.756392+00:00
@@ -4378,6 +4650,12 @@ through Composable Diffusion
 ## nigeltao.github.io
  - [https://nigeltao.github.io](https://nigeltao.github.io)
  - date published: 2023-10-25T19:50:29.342774+00:00
+ - user: None
+ - tags: []
+
+## niplav
+ - [https://niplav.github.io](https://niplav.github.io)
+ - date published: 2024-01-01T17:21:29.307277+00:00
  - user: None
  - tags: []
 
@@ -5587,6 +5865,12 @@ through Composable Diffusion
  - user: None
  - tags: []
 
+## christina 死神 - itch.io
+ - [https://chhopsky.itch.io](https://chhopsky.itch.io)
+ - date published: 2024-01-01T02:02:35.516073+00:00
+ - user: None
+ - tags: []
+
 ## codav - itch.io
  - [https://codav.itch.io](https://codav.itch.io)
  - date published: 2023-10-25T19:57:46.903191+00:00
@@ -5716,288 +6000,6 @@ through Composable Diffusion
 ## Sebastian Lague - itch.io
  - [https://sebastian.itch.io](https://sebastian.itch.io)
  - date published: 2023-10-25T19:58:32.648638+00:00
- - user: None
- - tags: []
-
-## Sonic Sloth - itch.io
- - [https://sonicslothgames.itch.io](https://sonicslothgames.itch.io)
- - date published: 2023-10-25T19:58:34.548921+00:00
- - user: None
- - tags: []
-
-## steamknight - itch.io
- - [https://steamknight.itch.io](https://steamknight.itch.io)
- - date published: 2023-10-25T19:58:41.779852+00:00
- - user: None
- - tags: []
-
-## Neil Thapen - itch.io
- - [https://thapen.itch.io](https://thapen.itch.io)
- - date published: 2023-10-25T19:58:44.194991+00:00
- - user: None
- - tags: []
-
-## ToulouTouMou - itch.io
- - [https://toulou.itch.io](https://toulou.itch.io)
- - date published: 2023-10-25T19:58:46.804568+00:00
- - user: None
- - tags: []
-
-## tRaum Books - itch.io
- - [https://traumbooks.itch.io](https://traumbooks.itch.io)
- - date published: 2023-10-25T19:58:49.226697+00:00
- - user: None
- - tags: []
-
-## Uniday Studio - itch.io
- - [https://unidaystudio.itch.io](https://unidaystudio.itch.io)
- - date published: 2023-11-01T15:43:57.773429+00:00
- - user: None
- - tags: []
-
-## vividfax - itch.io
- - [https://vividfax.itch.io](https://vividfax.itch.io)
- - date published: 2023-10-25T19:59:06.021245+00:00
- - user: None
- - tags: []
-
-## Vkgames82 - itch.io
- - [https://vkgames82.itch.io](https://vkgames82.itch.io)
- - date published: 2023-10-25T19:59:07.894042+00:00
- - user: None
- - tags: []
-
-## BubbleSoftGames - itch.io
- - [https://vwguy16.itch.io](https://vwguy16.itch.io)
- - date published: 2023-12-11T19:05:15.630550+00:00
- - user: None
- - tags: []
-
-## My Blog
- - [https://blog.j11y.io](https://blog.j11y.io)
- - date published: 2023-12-02T23:08:51.360797+00:00
- - user: None
- - tags: []
-
-## jacko.io
- - [https://jacko.io](https://jacko.io)
- - date published: 2023-10-25T19:59:09.714979+00:00
- - user: None
- - tags: []
-
-## JanOS - Turn your phone into an IoT board
- - [http://janos.io](http://janos.io)
- - date published: 2023-10-25T19:59:11.353354+00:00
- - user: None
- - tags: []
-
-## Home | Thoughts by Javier
- - [https://www.javiergonzalez.io](https://www.javiergonzalez.io)
- - date published: 2023-10-25T19:59:13.172540+00:00
- - user: None
- - tags: []
-
-## Distributed Systems Safety Research
- - [https://jepsen.io](https://jepsen.io)
- - date published: 2023-12-19T14:47:01.110295+00:00
- - user: None
- - tags: []
-
-## Jetpack.io | Tools for sophisticated cloud development
- - [https://www.jetpack.io](https://www.jetpack.io)
- - date published: 2023-10-25T19:59:15.286431+00:00
- - user: None
- - tags: []
-
-## Jetstack Consult Services Overview | Venafi
- - [https://www.jetstack.io](https://www.jetstack.io)
- - date published: 2023-10-25T19:59:19.124604+00:00
- - user: None
- - tags: []
-
-## Jake Zimmerman – Jake Zimmerman
- - [https://blog.jez.io](https://blog.jez.io)
- - date published: 2023-10-25T19:59:21.513456+00:00
- - user: None
- - tags: []
-
-## JSON Meta Application Protocol Specification (JMAP)
- - [https://jmap.io](https://jmap.io)
- - date published: 2023-10-25T19:59:23.210564+00:00
- - user: None
- - tags: []
-
-## https://www.jobrunr.io/en/
- - [https://www.jobrunr.io](https://www.jobrunr.io)
- - date published: 2023-10-25T19:59:24.463885+00:00
- - user: None
- - tags: []
-
-## Postach.io - Please Contact Support
- - [https://joejames.io](https://joejames.io)
- - date published: 2023-12-28T22:27:00.305345+00:00
- - user: None
- - tags: ['personal']
-
-## JoinBase | JoinBase, a single-binary AIoT-first data-service platform.
- - [https://joinbase.io](https://joinbase.io)
- - date published: 2023-10-25T19:59:26.326546+00:00
- - user: None
- - tags: []
-
-## JSONGenerator - Create Random JSON Data
- - [https://www.jsongenerator.io](https://www.jsongenerator.io)
- - date published: 2023-10-25T19:59:28.663902+00:00
- - user: None
- - tags: []
-
-## ./jm
- - [https://justinmiller.io](https://justinmiller.io)
- - date published: 2023-11-29T16:19:27.042006+00:00
- - user: None
- - tags: ['personal']
-
-## JustPaid
- - [https://www.justpaid.io](https://www.justpaid.io)
- - date published: 2023-10-25T11:28:59.968204+00:00
- - user: None
- - tags: []
-
-## K3s
- - [https://k3s.io](https://k3s.io)
- - date published: 2023-10-25T19:59:30.052320+00:00
- - user: None
- - tags: []
-
-## Kairos - The immutable Linux meta-distribution for edge Kubernetes
- - [https://kairos.io](https://kairos.io)
- - date published: 2023-10-25T19:59:31.686672+00:00
- - user: None
- - tags: []
-
-## Kata Containers - Open Source Container Runtime Software | Kata Containers
- - [https://katacontainers.io](https://katacontainers.io)
- - date published: 2023-10-25T19:59:34.155323+00:00
- - user: None
- - tags: []
-
-## The Keras Blog
- - [https://blog.keras.io](https://blog.keras.io)
- - date published: 2023-12-13T23:33:24.005089+00:00
- - user: None
- - tags: []
-
-## Keybase
- - [https://keybase.io](https://keybase.io)
- - date published: 2023-12-11T16:20:17.586597+00:00
- - user: None
- - tags: []
-
-## Kiru.io
- - [https://kiru.io](https://kiru.io)
- - date published: 2023-10-25T19:59:36.324745+00:00
- - user: None
- - tags: []
-
-## Kitze
- - [https://kitze.io](https://kitze.io)
- - date published: 2023-10-25T19:59:38.773048+00:00
- - user: None
- - tags: []
-
-## Kitze
- - [https://www.kitze.io](https://www.kitze.io)
- - date published: 2023-10-27T12:05:16.392878+00:00
- - user: None
- - tags: []
-
-## KnifeGeek - Pocket Knives, Blades, and More!
- - [https://www.knifegeek.io](https://www.knifegeek.io)
- - date published: 2023-10-25T19:59:41.551736+00:00
- - user: None
- - tags: []
-
-## Kopia
- - [https://kopia.io](https://kopia.io)
- - date published: 2023-10-25T08:33:21.694650+00:00
- - user: None
- - tags: []
-
-## blog.kroy.io – computers, tech, and whatever other random stuff crosses my mind.
- - [https://blog.kroy.io](https://blog.kroy.io)
- - date published: 2023-10-25T19:59:44.362187+00:00
- - user: None
- - tags: []
-
-## Ktor: Build Asynchronous Servers and Clients in Kotlin
- - [https://ktor.io](https://ktor.io)
- - date published: 2023-12-12T09:09:46.111618+00:00
- - user: None
- - tags: []
-
-## Production-Grade Container Orchestration
- - [https://kubernetes.io](https://kubernetes.io)
- - date published: 2023-11-01T08:43:38.548206+00:00
- - user: None
- - tags: []
-
-## Hi, I'm Kyle!
- - [https://kylejones.io](https://kylejones.io)
- - date published: 2023-12-13T06:05:31.756200+00:00
- - user: None
- - tags: ['personal']
-
-## Lachy Bell
- - [https://lachy.io](https://lachy.io)
- - date published: 2023-10-25T19:59:45.673387+00:00
- - user: None
- - tags: []
-
-## Last9: Cloud Native Monitoring | Last9
- - [https://last9.io](https://last9.io)
- - date published: 2023-10-25T19:59:47.694966+00:00
- - user: None
- - tags: []
-
-## Florian Latzel
- - [https://florian.latzel.io](https://florian.latzel.io)
- - date published: 2023-12-25T22:12:24.208751+00:00
- - user: None
- - tags: ['personal']
-
-## FFmpeg Explorer!
- - [https://ffmpeg.lav.io](https://ffmpeg.lav.io)
- - date published: 2023-10-25T19:59:49.300713+00:00
- - user: None
- - tags: []
-
-## Sam Lavigne
- - [https://lav.io](https://lav.io)
- - date published: 2023-10-25T08:49:35.805876+00:00
- - user: None
- - tags: ['personal']
-
-## LFI | Home
- - [https://www.learningfromincidents.io](https://www.learningfromincidents.io)
- - date published: 2023-10-25T19:59:51.631629+00:00
- - user: None
- - tags: []
-
-## Lee Robinson
- - [https://leerob.io](https://leerob.io)
- - date published: 2023-10-25T08:49:36.718441+00:00
- - user: None
- - tags: ['personal']
-
-## lepĭter
- - [https://lepiter.io](https://lepiter.io)
- - date published: 2023-11-05T20:13:46.653792+00:00
- - user: None
- - tags: []
-
-## The Way We Work
- - [https://blog.lettucework.io](https://blog.lettucework.io)
- - date published: 2023-10-25T19:59:55.282266+00:00
  - user: None
  - tags: []
 
