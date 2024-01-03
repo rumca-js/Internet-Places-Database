@@ -1,3 +1,39 @@
+## Analogue
+ - [https://www.analogue.co](https://www.analogue.co)
+ - date published: 2023-10-25T12:16:30.604884+00:00
+ - user: None
+ - tags: []
+
+## Wellfound (formerly AngelList Talent) - Startup Job Search
+ - [https://angel.co](https://angel.co)
+ - date published: 2023-10-25T12:16:35.409003+00:00
+ - user: None
+ - tags: []
+
+## Aviator - Automate tedious workflows for developers
+ - [https://www.aviator.co](https://www.aviator.co)
+ - date published: 2023-10-25T12:16:38.929077+00:00
+ - user: None
+ - tags: []
+
+## All your data, all the time - Axiom
+ - [https://axiom.co](https://axiom.co)
+ - date published: 2023-10-25T12:16:41.460786+00:00
+ - user: None
+ - tags: []
+
+## ChatLLaMA – A ChatGPT style chatbot for Facebook's LLaMA
+ - [https://chatllama.baseten.co](https://chatllama.baseten.co)
+ - date published: 2023-10-25T12:16:42.917090+00:00
+ - user: None
+ - tags: []
+
+## Baseten | Machine learning infrastructure
+ - [https://www.baseten.co](https://www.baseten.co)
+ - date published: 2023-11-20T21:09:03.643831+00:00
+ - user: None
+ - tags: []
+
 ## Daily AI news, products and research - Ben's Bites
  - [https://news.bensbites.co](https://news.bensbites.co)
  - date published: 2023-10-25T12:16:49.470429+00:00
@@ -1354,6 +1390,12 @@
  - user: None
  - tags: ['personal']
 
+## Ruminations | Mulling over topics I find interesting
+ - [https://blog.aaronballman.com](https://blog.aaronballman.com)
+ - date published: 2024-01-02T01:07:27.881444+00:00
+ - user: None
+ - tags: []
+
 ## aaronbell.com | words about humans and tech.
  - [https://www.aaronbell.com](https://www.aaronbell.com)
  - date published: 2023-10-25T12:28:44.982948+00:00
@@ -1963,6 +2005,12 @@
 ## Advent of Code 2023
  - [https://adventofcode.com](https://adventofcode.com)
  - date published: 2023-10-25T12:34:08.250343+00:00
+ - user: None
+ - tags: []
+
+## Adventures Of A Freelance Yuppy
+ - [https://www.adventuresofafreelanceyuppy.com](https://www.adventuresofafreelanceyuppy.com)
+ - date published: 2024-01-02T03:36:00.456254+00:00
  - user: None
  - tags: []
 
@@ -3424,6 +3472,12 @@
  - user: None
  - tags: []
 
+## https://andychirch.com
+ - [https://andychirch.com](https://andychirch.com)
+ - date published: 2024-01-02T10:19:55.009650+00:00
+ - user: None
+ - tags: []
+
 ## Andy Cleff - • Creative Thinker • Change Agent • Agile Pragmatist
  - [https://www.andycleff.com](https://www.andycleff.com)
  - date published: 2023-10-25T12:41:14.237119+00:00
@@ -3637,6 +3691,12 @@
 ## stuff by kevin kwok
  - [https://antimatter15.com](https://antimatter15.com)
  - date published: 2023-10-25T12:42:04.277904+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://antirez.com](https://antirez.com)
+ - date published: 2024-01-02T12:33:10.039907+00:00
  - user: None
  - tags: []
 
@@ -3907,6 +3967,12 @@
 ## AppleVis
  - [https://www.applevis.com](https://www.applevis.com)
  - date published: 2023-10-25T12:43:07.072216+00:00
+ - user: None
+ - tags: []
+
+## https://www.applied-cartography.com
+ - [https://www.applied-cartography.com](https://www.applied-cartography.com)
+ - date published: 2024-01-02T21:23:14.311879+00:00
  - user: None
  - tags: []
 
@@ -5086,6 +5152,12 @@
  - user: None
  - tags: ['devlog']
 
+## Hey, I'm Ayush 👋
+ - [https://ayushchat.com](https://ayushchat.com)
+ - date published: 2024-01-02T03:36:33.741658+00:00
+ - user: None
+ - tags: []
+
 ## Arizona Capitol Times | Politics & political news, governor, legislature, elections, government, agencies, courts | An Arizona News Service newspaper.
  - [https://azcapitoltimes.com](https://azcapitoltimes.com)
  - date published: 2023-11-25T18:29:53.604427+00:00
@@ -5923,78 +5995,6 @@
 ## Technology News and Analysis - BetaNews
  - [https://betanews.com](https://betanews.com)
  - date published: 2023-10-25T09:32:00.086813+00:00
- - user: None
- - tags: []
-
-## Better Dwelling - Canada’s Fastest Growing Real Estate News Source
- - [https://betterdwelling.com](https://betterdwelling.com)
- - date published: 2023-10-25T12:58:23.678899+00:00
- - user: None
- - tags: []
-
-## BetterExplained – Math lessons that click
- - [https://betterexplained.com](https://betterexplained.com)
- - date published: 2023-10-25T12:58:29.605403+00:00
- - user: None
- - tags: []
-
-## https://www.betterleadersbetterschools.com
- - [https://www.betterleadersbetterschools.com](https://www.betterleadersbetterschools.com)
- - date published: 2023-12-27T18:11:37.780094+00:00
- - user: None
- - tags: ['personal']
-
-## Be With Cassandra
- - [https://www.bewithcassandra.com](https://www.bewithcassandra.com)
- - date published: 2023-12-31T16:47:15.106831+00:00
- - user: None
- - tags: []
-
-## Beyond Loom
- - [https://beyondloom.com](https://beyondloom.com)
- - date published: 2023-10-25T12:58:31.094273+00:00
- - user: None
- - tags: []
-
-## BezPlanu.com
- - [https://bezplanu.com](https://bezplanu.com)
- - date published: 2023-10-24T20:05:33.587434+00:00
- - user: None
- - tags: []
-
-## Ben Oliver
- - [https://www.bfoliver.com](https://www.bfoliver.com)
- - date published: 2023-12-19T19:08:03.990555+00:00
- - user: None
- - tags: ['personal']
-
-## BGR | Tech & Entertainment News, Reviews, & Deals
- - [https://bgr.com](https://bgr.com)
- - date published: 2023-10-25T12:58:43.634023+00:00
- - user: None
- - tags: []
-
-## Next generation full body haptic suit - bHaptics TactSuit
- - [https://www.bhaptics.com](https://www.bhaptics.com)
- - date published: 2023-11-27T16:13:54+00:00
- - user: rumpel
- - tags: ['virtual reality']
-
-## Purposeful Transformation - Bianca Welds (Creativity And Innovation Strategist & Coach)
- - [https://biancawelds.com](https://biancawelds.com)
- - date published: 2024-01-01T03:38:49.652609+00:00
- - user: None
- - tags: []
-
-## Bicycle Retailer & Industry News
- - [https://www.bicycleretailer.com](https://www.bicycleretailer.com)
- - date published: 2023-10-25T14:21:33.230031+00:00
- - user: None
- - tags: []
-
-## Bicycling
- - [https://www.bicycling.com](https://www.bicycling.com)
- - date published: 2023-10-25T11:14:15.502657+00:00
  - user: None
  - tags: []
 

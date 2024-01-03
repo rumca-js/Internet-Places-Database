@@ -1,3 +1,219 @@
+## Arthur Hayes – Medium
+ - [https://cryptohayes.medium.com](https://cryptohayes.medium.com)
+ - date published: 2023-10-25T10:19:20.082601+00:00
+ - user: None
+ - tags: []
+
+## Craig Younkins – Medium
+ - [https://cyounkins.medium.com](https://cyounkins.medium.com)
+ - date published: 2023-10-25T10:19:22.286315+00:00
+ - user: None
+ - tags: []
+
+## DataFinnovation - ChainArgos - 4AC – Medium
+ - [https://datafinnovation.medium.com](https://datafinnovation.medium.com)
+ - date published: 2023-10-25T10:19:24.661478+00:00
+ - user: None
+ - tags: []
+
+## David Delassus – Medium
+ - [https://david-delassus.medium.com](https://david-delassus.medium.com)
+ - date published: 2023-10-25T10:19:26.852264+00:00
+ - user: None
+ - tags: []
+
+## David Gilbertson – Medium
+ - [https://david-gilbertson.medium.com](https://david-gilbertson.medium.com)
+ - date published: 2023-10-25T10:19:29.708680+00:00
+ - user: None
+ - tags: []
+
+## Debugger
+ - [https://debugger.medium.com](https://debugger.medium.com)
+ - date published: 2023-10-25T10:19:31.889138+00:00
+ - user: None
+ - tags: []
+
+## David Lu – Medium
+ - [https://delu.medium.com](https://delu.medium.com)
+ - date published: 2023-10-25T10:19:34.250111+00:00
+ - user: None
+ - tags: []
+
+## Denys Linkov – Medium
+ - [https://denyslinkov.medium.com](https://denyslinkov.medium.com)
+ - date published: 2023-10-25T10:19:36.501051+00:00
+ - user: None
+ - tags: []
+
+## Dave Feldman – Medium
+ - [https://dfeldman.medium.com](https://dfeldman.medium.com)
+ - date published: 2023-10-25T10:19:38.830473+00:00
+ - user: None
+ - tags: []
+
+## Pardis Noorzad – Medium
+ - [https://djpardis.medium.com](https://djpardis.medium.com)
+ - date published: 2023-10-25T10:19:41.017651+00:00
+ - user: None
+ - tags: []
+
+## Dmitry Kan – Medium
+ - [https://dmitry-kan.medium.com](https://dmitry-kan.medium.com)
+ - date published: 2023-10-25T10:19:43.394552+00:00
+ - user: None
+ - tags: []
+
+## Cory Doctorow – Medium
+ - [https://doctorow.medium.com](https://doctorow.medium.com)
+ - date published: 2023-10-25T08:57:40.550974+00:00
+ - user: None
+ - tags: ['personal']
+
+## Don Hopkins – Medium
+ - [https://donhopkins.medium.com](https://donhopkins.medium.com)
+ - date published: 2023-10-25T10:19:46.013612+00:00
+ - user: None
+ - tags: []
+
+## Dustin Godevais – Medium
+ - [https://dustin-godevais.medium.com](https://dustin-godevais.medium.com)
+ - date published: 2023-10-25T10:19:54.217237+00:00
+ - user: None
+ - tags: []
+
+## Daniel Vassallo – Medium
+ - [https://dvassallo.medium.com](https://dvassallo.medium.com)
+ - date published: 2023-10-25T10:19:56.210495+00:00
+ - user: None
+ - tags: []
+
+## Raju Dawadi – Medium
+ - [https://dwdraju.medium.com](https://dwdraju.medium.com)
+ - date published: 2023-10-25T10:19:58.595133+00:00
+ - user: None
+ - tags: []
+
+## Elaine Cao – Medium
+ - [https://elaine-cao-93.medium.com](https://elaine-cao-93.medium.com)
+ - date published: 2023-10-25T10:20:00.285620+00:00
+ - user: None
+ - tags: []
+
+## Erik van de Ven – Medium
+ - [https://erikvandeven.medium.com](https://erikvandeven.medium.com)
+ - date published: 2023-10-25T10:20:02.499859+00:00
+ - user: None
+ - tags: []
+
+## Esther Crawford – Medium
+ - [https://esthercrawford.medium.com](https://esthercrawford.medium.com)
+ - date published: 2023-10-25T10:20:04.645101+00:00
+ - user: None
+ - tags: []
+
+## Flipboard – Medium
+ - [https://flipboard.medium.com](https://flipboard.medium.com)
+ - date published: 2023-11-21T21:54:55.251511+00:00
+ - user: None
+ - tags: []
+
+## Robert Barron – Medium
+ - [https://flyingbarron.medium.com](https://flyingbarron.medium.com)
+ - date published: 2023-10-25T10:20:12.651490+00:00
+ - user: None
+ - tags: []
+
+## Francisco Trindade – Medium
+ - [https://franciscomt.medium.com](https://franciscomt.medium.com)
+ - date published: 2023-10-25T10:20:15.354599+00:00
+ - user: None
+ - tags: []
+
+## Fredrick Brennan – Medium
+ - [https://fredrickbrennan.medium.com](https://fredrickbrennan.medium.com)
+ - date published: 2023-10-25T10:20:17.725128+00:00
+ - user: None
+ - tags: []
+
+## fwsGonzo – Medium
+ - [https://fwsgonzo.medium.com](https://fwsgonzo.medium.com)
+ - date published: 2023-10-25T10:20:24.721924+00:00
+ - user: None
+ - tags: []
+
+## Ayush Singh – Medium
+ - [https://g147.medium.com](https://g147.medium.com)
+ - date published: 2023-10-25T10:20:26.675224+00:00
+ - user: None
+ - tags: []
+
+## ＧΛËＬ ＤＵＶΛＬ – Medium
+ - [https://gael-duval.medium.com](https://gael-duval.medium.com)
+ - date published: 2023-10-25T10:20:28.861577+00:00
+ - user: None
+ - tags: []
+
+## Chris Parnin – Medium
+ - [https://gameweld.medium.com](https://gameweld.medium.com)
+ - date published: 2023-10-25T10:20:30.941220+00:00
+ - user: None
+ - tags: []
+
+## Glauber Costa – Medium
+ - [https://glaubercosta-11125.medium.com](https://glaubercosta-11125.medium.com)
+ - date published: 2023-10-25T10:20:33.543522+00:00
+ - user: None
+ - tags: []
+
+## Grace Huang – Medium
+ - [https://imgracehuang.medium.com](https://imgracehuang.medium.com)
+ - date published: 2023-10-25T10:20:35.581391+00:00
+ - user: None
+ - tags: []
+
+## Index
+ - [https://index.medium.com](https://index.medium.com)
+ - date published: 2023-10-25T10:20:38.107205+00:00
+ - user: None
+ - tags: []
+
+## Inflect Health – Medium
+ - [https://inflecthealth.medium.com](https://inflecthealth.medium.com)
+ - date published: 2023-10-25T10:20:40.099627+00:00
+ - user: None
+ - tags: []
+
+## Chris Altonji – Medium
+ - [https://introductory.medium.com](https://introductory.medium.com)
+ - date published: 2023-10-25T10:20:42.119853+00:00
+ - user: None
+ - tags: []
+
+## Jackson Cunningham – Medium
+ - [https://jacksoncunningham.medium.com](https://jacksoncunningham.medium.com)
+ - date published: 2023-10-25T10:20:43.946689+00:00
+ - user: None
+ - tags: []
+
+## Jake Spracher – Medium
+ - [https://jakespracher.medium.com](https://jakespracher.medium.com)
+ - date published: 2023-10-25T10:20:46.053371+00:00
+ - user: None
+ - tags: []
+
+## Jason Yip – Medium
+ - [https://jchyip.medium.com](https://jchyip.medium.com)
+ - date published: 2023-10-25T10:20:48.187900+00:00
+ - user: None
+ - tags: []
+
+## Jeffrey Kaye – Medium
+ - [https://jeff-kaye.medium.com](https://jeff-kaye.medium.com)
+ - date published: 2023-10-25T10:20:51.003396+00:00
+ - user: None
+ - tags: []
+
 ## Jessica Wildfire – Medium
  - [https://jessicalexicus.medium.com](https://jessicalexicus.medium.com)
  - date published: 2023-10-25T10:20:53.235136+00:00
@@ -2008,6 +2224,12 @@
  - user: None
  - tags: []
 
+## Mr Paralys
+ - [https://www.mrparalys.com](https://www.mrparalys.com)
+ - date published: 2024-01-02T19:20:01.793918+00:00
+ - user: None
+ - tags: []
+
 ## MrScraper, a visual and dead-simple web scraper.
  - [https://mrscraper.com](https://mrscraper.com)
  - date published: 2023-10-25T16:08:15.862672+00:00
@@ -3959,6 +4181,12 @@
  - user: None
  - tags: []
 
+## entrepreneurial thinking
+ - [https://www.norriskrueger.com](https://www.norriskrueger.com)
+ - date published: 2024-01-02T10:19:46.616633+00:00
+ - user: None
+ - tags: []
+
 ## northpennnow.com
  - [https://northpennnow.com](https://northpennnow.com)
  - date published: 2023-12-02T12:50:42.681742+00:00
@@ -4058,6 +4286,12 @@
 ## Notion Things
  - [https://notionthings.com](https://notionthings.com)
  - date published: 2023-10-25T16:22:13.671476+00:00
+ - user: None
+ - tags: []
+
+## Lara Schenck | Lover of programming, maker of monsters
+ - [https://notlaura.com](https://notlaura.com)
+ - date published: 2024-01-02T03:36:46.465134+00:00
  - user: None
  - tags: []
 
@@ -4203,6 +4437,12 @@ Answering Machine Greetings!
 ## n-Track Studio | Multitrack recording, editing & mixing software
  - [https://ntrack.com](https://ntrack.com)
  - date published: 2023-10-28T18:50:04.541480+00:00
+ - user: None
+ - tags: []
+
+## The Nuance Pill
+ - [https://nuancepill.com](https://nuancepill.com)
+ - date published: 2024-01-02T03:43:09.547708+00:00
  - user: None
  - tags: []
 
@@ -5763,244 +6003,4 @@ Answering Machine Greetings!
  - date published: 2023-12-08T13:07:39+00:00
  - user: rumpel
  - tags: ['personal']
-
-## Patreon | News | Home
- - [https://blog.patreon.com](https://blog.patreon.com)
- - date published: 2023-10-25T11:32:44.994110+00:00
- - user: None
- - tags: []
-
-## Home — Patreon
- - [https://patreon.com](https://patreon.com)
- - date published: 2023-12-11T17:25:04.928912+00:00
- - user: None
- - tags: []
-
-## Home — Patreon
- - [https://www.patreon.com](https://www.patreon.com)
- - date published: 2023-10-25T11:34:19.134811+00:00
- - user: None
- - tags: ['crowdfunding']
-
-## Max  FitzGerald  | Patreon
- - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
- - date published: 2023-10-27T15:07:52+00:00
- - user: rumpel
- - tags: ['tabletop games', 'turnip28']
-
-## Home · Patrick Collison
- - [https://patrickcollison.com](https://patrickcollison.com)
- - date published: 2023-10-25T08:47:23.257678+00:00
- - user: None
- - tags: ['personal']
-
-## Patrick Conway
- - [https://patrickconway.com](https://patrickconway.com)
- - date published: 2023-11-29T16:18:59.190945+00:00
- - user: None
- - tags: ['personal']
-
-## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
- - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
- - date published: 2023-12-21T08:24:19.074982+00:00
- - user: None
- - tags: ['personal']
-
-## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
- - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
- - date published: 2023-12-23T07:30:12.092026+00:00
- - user: None
- - tags: ['personal']
-
-## Patrick Yandell
- - [https://patrickyandell.com](https://patrickyandell.com)
- - date published: 2023-11-29T14:24:18.301040+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.paudal.com](https://www.paudal.com)
- - date published: 2023-12-22T12:44:01.911776+00:00
- - user: None
- - tags: []
-
-## Paul Graham AI
- - [https://www.paulgrahamai.com](https://www.paulgrahamai.com)
- - date published: 2023-10-25T16:31:25.983543+00:00
- - user: None
- - tags: []
-
-## | Paul Halme |
- - [https://paulhalme.com](https://paulhalme.com)
- - date published: 2023-12-24T02:30:12.909224+00:00
- - user: None
- - tags: ['personal']
-
-## Paul Irish
- - [https://www.paulirish.com](https://www.paulirish.com)
- - date published: 2023-10-25T09:26:01.615259+00:00
- - user: None
- - tags: ['personal']
-
-## Paulo Matsui
- - [https://www.paulomatsui.com](https://www.paulomatsui.com)
- - date published: 2023-12-19T03:01:56.181563+00:00
- - user: None
- - tags: ['personal']
-
-## Paul Onteri
- - [https://paulonteri.com](https://paulonteri.com)
- - date published: 2023-12-12T07:04:24.427551+00:00
- - user: None
- - tags: ['personal']
-
-## Paul Pedrazzi
- - [https://paulpedrazzi.com](https://paulpedrazzi.com)
- - date published: 2023-12-22T17:48:50.877726+00:00
- - user: None
- - tags: ['personal']
-
-## Paul Plowman
- - [https://paulplowman.com](https://paulplowman.com)
- - date published: 2023-10-25T16:31:26.762919+00:00
- - user: None
- - tags: []
-
-## Paul Robert Lloyd
- - [https://paulrobertlloyd.com](https://paulrobertlloyd.com)
- - date published: 2023-10-25T16:31:27.499225+00:00
- - user: None
- - tags: []
-
-## Paul's Down-Home Page | If you're reading it, it's for you
- - [https://paulrobichaux.com](https://paulrobichaux.com)
- - date published: 2023-12-15T11:15:24.587650+00:00
- - user: None
- - tags: ['personal']
-
-## Technology, Design and Photography — PaulStamatiou.com
- - [https://paulstamatiou.com](https://paulstamatiou.com)
- - date published: 2023-10-25T09:26:02.596314+00:00
- - user: None
- - tags: ['personal']
-
-## Paul Sufka M.D.
- - [https://paulsufka.com](https://paulsufka.com)
- - date published: 2023-12-03T15:55:12.196062+00:00
- - user: None
- - tags: ['personal']
-
-## Pavel Panchekha
- - [https://pavpanchekha.com](https://pavpanchekha.com)
- - date published: 2023-10-25T16:31:28.802817+00:00
- - user: None
- - tags: []
-
-## Rails, PostgreSQL Performance Audit and Tuning Consultant for Hire
- - [https://pawelurbanek.com](https://pawelurbanek.com)
- - date published: 2023-10-25T16:31:35.547056+00:00
- - user: None
- - tags: []
-
-## P.O.D. | The Official Website
- - [https://payableondeath.com](https://payableondeath.com)
- - date published: 2023-10-30T15:39:18.619441+00:00
- - user: None
- - tags: ['music band']
-
-## Paychex: Payroll & HR Solutions
- - [https://www.paychex.com](https://www.paychex.com)
- - date published: 2023-10-25T16:31:40.359186+00:00
- - user: None
- - tags: []
-
-## Payload - We cover the business and policy of space.
- - [https://payloadspace.com](https://payloadspace.com)
- - date published: 2023-10-25T16:31:46.185011+00:00
- - user: None
- - tags: []
-
-## E-płatności, wysyłaj pieniądze i akceptuj płatności | PayPal PL
- - [https://www.paypal.com](https://www.paypal.com)
- - date published: 2023-10-25T08:26:52.063948+00:00
- - user: None
- - tags: ['banking']
-
-## PayPal Status Page
- - [https://www.paypal-status.com](https://www.paypal-status.com)
- - date published: 2023-10-25T08:26:54.739488+00:00
- - user: None
- - tags: []
-
-## 403
- - [https://www.paypalobjects.com](https://www.paypalobjects.com)
- - date published: 2023-10-25T16:31:48.214530+00:00
- - user: None
- - tags: []
-
-## Paul Kafasis
- - [https://pbones.com](https://pbones.com)
- - date published: 2023-12-23T07:30:37.057666+00:00
- - user: None
- - tags: ['personal']
-
-## PC Builder AI
- - [https://www.pcbuilderai.com](https://www.pcbuilderai.com)
- - date published: 2023-10-25T16:31:48.907547+00:00
- - user: None
- - tags: []
-
-## PC Gamer
- - [https://www.pcgamer.com](https://www.pcgamer.com)
- - date published: 2023-10-25T10:49:45.933777+00:00
- - user: None
- - tags: []
-
-## PCGamesN | PC gaming news, reviews, and guides
- - [https://www.pcgamesn.com](https://www.pcgamesn.com)
- - date published: 2023-10-25T10:49:52.311261+00:00
- - user: None
- - tags: ['game news']
-
-## Intro: P.C. Maffey
- - [https://pcmaffey.com](https://pcmaffey.com)
- - date published: 2023-10-25T08:47:24.013987+00:00
- - user: None
- - tags: ['personal']
-
-## PCMag.com - Technology Product Reviews, News, Prices & Tips
- - [https://uk.pcmag.com](https://uk.pcmag.com)
- - date published: 2023-10-25T09:34:32.882984+00:00
- - user: None
- - tags: []
-
-## The Latest Technology Product Reviews, News, Tips, and Deals | PCMag
- - [https://www.pcmag.com](https://www.pcmag.com)
- - date published: 2023-10-25T09:34:47.167027+00:00
- - user: None
- - tags: []
-
-## The Starman's Realm
- - [https://thestarman.pcministry.com](https://thestarman.pcministry.com)
- - date published: 2023-10-25T16:31:49.593366+00:00
- - user: None
- - tags: []
-
-## PCWorld
- - [https://www.pcworld.com](https://www.pcworld.com)
- - date published: 2023-10-25T09:34:49.726201+00:00
- - user: None
- - tags: []
-
-## PDF Differ — Compare the differences between two pdfs
- - [https://pdfdiffer.com](https://pdfdiffer.com)
- - date published: 2023-10-25T16:31:51.020705+00:00
- - user: None
- - tags: []
-
-## Easy to use free PDF tools online - pdfux
- - [https://pdfux.com](https://pdfux.com)
- - date published: 2023-10-25T16:31:51.991250+00:00
- - user: None
- - tags: []
 

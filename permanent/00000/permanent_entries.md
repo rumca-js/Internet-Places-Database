@@ -142,6 +142,18 @@
  - user: None
  - tags: []
 
+## None
+ - [https://movieweb.com](https://movieweb.com)
+ - date published: 2024-01-02T15:03:09.368391+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://9lab.org](https://9lab.org)
+ - date published: 2024-01-02T19:08:29.997667+00:00
+ - user: None
+ - tags: []
+
 ## The Grumpy Economist
  - [https://johnhcochrane.blogspot.com.](https://johnhcochrane.blogspot.com.)
  - date published: 2024-01-01T15:01:45.228241+00:00
@@ -235,6 +247,12 @@
 ## Home | Times Aerospace
  - [https://www.timesaerospace.aero](https://www.timesaerospace.aero)
  - date published: 2023-10-25T10:58:58.652022+00:00
+ - user: None
+ - tags: []
+
+## Nation - Breaking News, Kenya, Africa, Politics, Business, Sports | HOME
+ - [https://nation.africa](https://nation.africa)
+ - date published: 2024-01-02T13:15:24.294379+00:00
  - user: None
  - tags: []
 
@@ -795,6 +813,12 @@
  - date published: 2023-10-25T09:01:03.717603+00:00
  - user: None
  - tags: ['personal']
+
+## Open-Source ChatGPT Alternative Jan
+ - [https://jan.ai](https://jan.ai)
+ - date published: 2024-01-01T23:10:57+00:00
+ - user: None
+ - tags: []
 
 ## Jina AI - Your Portal to Multimodal AI
  - [https://jina.ai](https://jina.ai)
@@ -3016,6 +3040,12 @@
  - user: None
  - tags: []
 
+## HTTPS not supported - Bureau of Meteorology
+ - [https://www.bom.gov.au](https://www.bom.gov.au)
+ - date published: 2024-01-02T07:58:37.586955+00:00
+ - user: None
+ - tags: []
+
 ## Find a health service | healthdirect
  - [https://covid-vaccine.healthdirect.gov.au](https://covid-vaccine.healthdirect.gov.au)
  - date published: 2023-10-25T11:57:51.923110+00:00
@@ -3393,6 +3423,12 @@
  - date published: 2023-10-25T09:01:30.775423+00:00
  - user: None
  - tags: ['personal']
+
+## Almad's Changelog
+ - [https://almad.blog](https://almad.blog)
+ - date published: 2024-01-02T15:36:17.739783+00:00
+ - user: None
+ - tags: []
 
 ## Alternative Friday Factorio Fan Facts
  - [https://alt-f4.blog](https://alt-f4.blog)
@@ -5963,40 +5999,4 @@
  - date published: 2023-10-25T08:43:20.426465+00:00
  - user: None
  - tags: ['personal']
-
-## Analogue
- - [https://www.analogue.co](https://www.analogue.co)
- - date published: 2023-10-25T12:16:30.604884+00:00
- - user: None
- - tags: []
-
-## Wellfound (formerly AngelList Talent) - Startup Job Search
- - [https://angel.co](https://angel.co)
- - date published: 2023-10-25T12:16:35.409003+00:00
- - user: None
- - tags: []
-
-## Aviator - Automate tedious workflows for developers
- - [https://www.aviator.co](https://www.aviator.co)
- - date published: 2023-10-25T12:16:38.929077+00:00
- - user: None
- - tags: []
-
-## All your data, all the time - Axiom
- - [https://axiom.co](https://axiom.co)
- - date published: 2023-10-25T12:16:41.460786+00:00
- - user: None
- - tags: []
-
-## ChatLLaMA – A ChatGPT style chatbot for Facebook's LLaMA
- - [https://chatllama.baseten.co](https://chatllama.baseten.co)
- - date published: 2023-10-25T12:16:42.917090+00:00
- - user: None
- - tags: []
-
-## Baseten | Machine learning infrastructure
- - [https://www.baseten.co](https://www.baseten.co)
- - date published: 2023-11-20T21:09:03.643831+00:00
- - user: None
- - tags: []
 

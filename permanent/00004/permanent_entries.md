@@ -1,3 +1,141 @@
+## FOX 5 New York
+ - [https://www.fox5ny.com](https://www.fox5ny.com)
+ - date published: 2023-11-01T17:47:22.130538+00:00
+ - user: None
+ - tags: []
+
+## FOX 7 Austin
+ - [https://www.fox7austin.com](https://www.fox7austin.com)
+ - date published: 2023-10-25T11:04:44.675389+00:00
+ - user: None
+ - tags: []
+
+## FOX 8 WVUE-TV in New Orleans
+ - [https://www.fox8live.com](https://www.fox8live.com)
+ - date published: 2023-12-22T03:35:05.796458+00:00
+ - user: None
+ - tags: []
+
+## FOX 9 Minneapolis-St. Paul
+ - [https://www.fox9.com](https://www.fox9.com)
+ - date published: 2023-10-25T11:04:58.976088+00:00
+ - user: None
+ - tags: []
+
+## Baltimore News, Weather, Sports, Breaking News | WBFF
+ - [https://foxbaltimore.com](https://foxbaltimore.com)
+ - date published: 2023-12-24T01:41:32.188455+00:00
+ - user: None
+ - tags: []
+
+## Fox Business | Business News &Stock Quotes - Saving & Investing
+ - [https://www.foxbusiness.com](https://www.foxbusiness.com)
+ - date published: 2023-10-25T10:57:40.272562+00:00
+ - user: None
+ - tags: []
+
+## FOX Carolina | South Carolina Local News, Weather, Sports | Greenville, SC | WHNS
+ - [https://www.foxcarolina.com](https://www.foxcarolina.com)
+ - date published: 2024-01-02T01:49:53.726085+00:00
+ - user: None
+ - tags: []
+
+## FOX 11 Los Angeles
+ - [https://www.foxla.com](https://www.foxla.com)
+ - date published: 2023-10-25T09:29:54.593194+00:00
+ - user: None
+ - tags: []
+
+## http://moxie.foxnews.com
+ - [http://moxie.foxnews.com](http://moxie.foxnews.com)
+ - date published: 2023-10-25T10:26:21.800868+00:00
+ - user: None
+ - tags: []
+
+## Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos
+ - [https://www.foxnews.com](https://www.foxnews.com)
+ - date published: 2023-10-25T10:26:27.291309+00:00
+ - user: None
+ - tags: []
+
+## Home Page - FP Complete
+ - [https://www.fpcomplete.com](https://www.fpcomplete.com)
+ - date published: 2023-10-25T14:37:06.434619+00:00
+ - user: None
+ - tags: []
+
+## Dashboard [Jenkins]
+ - [https://build.fpgaarcade.com](https://build.fpgaarcade.com)
+ - date published: 2023-12-11T17:28:17.596795+00:00
+ - user: None
+ - tags: []
+
+## FPGA Arcade
+ - [https://docs.fpgaarcade.com](https://docs.fpgaarcade.com)
+ - date published: 2023-12-11T17:29:08.892468+00:00
+ - user: None
+ - tags: []
+
+## FPGAArcade | Programmable Gaming Hardware
+ - [https://fpgaarcade.com](https://fpgaarcade.com)
+ - date published: 2023-12-11T17:29:13.446690+00:00
+ - user: None
+ - tags: []
+
+## FPGAArcade | Programmable Gaming Hardware
+ - [https://www.fpgaarcade.com](https://www.fpgaarcade.com)
+ - date published: 2023-10-27T14:40:13.859509+00:00
+ - user: None
+ - tags: ['fpga', 'amiga', 'retro games']
+
+## FPGA Design and Tutorials - FPGA Developer
+ - [https://www.fpgadeveloper.com](https://www.fpgadeveloper.com)
+ - date published: 2023-10-25T14:37:09.642182+00:00
+ - user: None
+ - tags: []
+
+## FPGAjobs - Jobs for Logic Designers!
+ - [https://www.fpgajobs.com](https://www.fpgajobs.com)
+ - date published: 2023-11-06T13:53:26.006456+00:00
+ - user: None
+ - tags: []
+
+## Morphing Fractal Engraving Vise Jaws
+ - [https://fractalvise.com](https://fractalvise.com)
+ - date published: 2023-10-25T14:37:12.415206+00:00
+ - user: None
+ - tags: []
+
+## The France 24 Observers - Breaking the news thanks to amateur images - Film, verify, share.
+ - [https://observers.france24.com](https://observers.france24.com)
+ - date published: 2023-10-25T14:37:17.132636+00:00
+ - user: None
+ - tags: []
+
+## France 24 - International breaking news, top stories and headlines
+ - [https://www.france24.com](https://www.france24.com)
+ - date published: 2023-10-25T10:50:28.450111+00:00
+ - user: None
+ - tags: ['france news']
+
+## Francesca Sciandra
+ - [https://www.francescaelisia.com](https://www.francescaelisia.com)
+ - date published: 2023-12-24T08:14:59.409933+00:00
+ - user: None
+ - tags: ['personal']
+
+## Francesco Boffa
+ - [https://francescoboffa.com](https://francescoboffa.com)
+ - date published: 2023-12-21T03:31:15.978337+00:00
+ - user: None
+ - tags: ['personal']
+
+## Franck Tawema
+ - [https://www.francktawema.com](https://www.francktawema.com)
+ - date published: 2023-11-29T14:19:29.384250+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Frank Caron - Product Guy and Writer At Large
  - [https://www.frankcaron.com](https://www.frankcaron.com)
  - date published: 2023-10-25T08:45:49.273455+00:00
@@ -148,6 +286,12 @@
  - user: None
  - tags: []
 
+## frithrah
+ - [https://www.frithrah.com](https://www.frithrah.com)
+ - date published: 2024-01-02T18:28:56.522748+00:00
+ - user: None
+ - tags: []
+
 ## frofftown
  - [https://frofftown.com](https://frofftown.com)
  - date published: 2023-11-29T17:11:42.139115+00:00
@@ -183,6 +327,12 @@
  - date published: 2023-10-25T14:39:04.489972+00:00
  - user: None
  - tags: ['airjet', 'cooling']
+
+## Blog - Frugality and Freedom
+ - [https://www.frugalityandfreedom.com](https://www.frugalityandfreedom.com)
+ - date published: 2024-01-02T10:21:00.827352+00:00
+ - user: None
+ - tags: []
 
 ## Home | Fruitnet
  - [https://www.fruitnet.com](https://www.fruitnet.com)
@@ -381,6 +531,12 @@
  - date published: 2023-10-25T08:45:50.242815+00:00
  - user: None
  - tags: ['personal']
+
+## Gabriel Magaña
+ - [https://gabrielmagana.com](https://gabrielmagana.com)
+ - date published: 2024-01-02T10:19:25.455497+00:00
+ - user: None
+ - tags: []
 
 ## Gabriel  Raya
  - [https://gabrielraya.com](https://gabrielraya.com)
@@ -1878,6 +2034,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: ['search engine', 'gatekeeper']
 
+## Google flights
+ - [https://www.google.com/travel/flights](https://www.google.com/travel/flights)
+ - date published: 2024-01-02T07:35:30+00:00
+ - user: rumpel
+ - tags: []
+
 ## Hosted Libraries  |  Google for Developers
  - [https://ajax.googleapis.com](https://ajax.googleapis.com)
  - date published: 2023-12-11T16:52:24.286615+00:00
@@ -2583,6 +2745,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Guan Jie - an outlet of expression
+ - [https://guanjiefung.com](https://guanjiefung.com)
+ - date published: 2024-01-02T18:29:28.205874+00:00
+ - user: None
+ - tags: []
+
 ## Guerilla Programmer
  - [https://guerillaprogrammer.com](https://guerillaprogrammer.com)
  - date published: 2023-12-18T01:35:55.800837+00:00
@@ -2850,6 +3018,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## HackerRank - Online Coding Tests and Technical Interviews
  - [https://www.hackerrank.com](https://www.hackerrank.com)
  - date published: 2023-10-25T14:54:54.856781+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Build your startup or side project faster with these SaaS templates
+ - [https://hackerstartup.com](https://hackerstartup.com)
+ - date published: 2024-01-02T03:50:49+00:00
  - user: None
  - tags: []
 
@@ -5828,178 +6002,4 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-25T15:26:10.461258+00:00
  - user: None
  - tags: []
-
-## Jakob Greenfeld – Jakob Greenfeld – Experiments in Permissionless Entrepreneurship
- - [https://jakobgreenfeld.com](https://jakobgreenfeld.com)
- - date published: 2023-10-25T15:26:12.647306+00:00
- - user: None
- - tags: []
-
-## Jalopnik | Obsessed With The Culture Of Cars
- - [https://jalopnik.com](https://jalopnik.com)
- - date published: 2023-10-25T15:26:20.516431+00:00
- - user: None
- - tags: []
-
-## JAMA Network | Home of JAMA and the Specialty Journals of the American Medical Association
- - [https://jamanetwork.com](https://jamanetwork.com)
- - date published: 2023-10-25T10:37:31.521043+00:00
- - user: None
- - tags: []
-
-## James Clear
- - [https://jamesclear.com](https://jamesclear.com)
- - date published: 2023-10-25T15:26:26.211771+00:00
- - user: None
- - tags: []
-
-## Home · jcf
- - [https://jamesconroyfinn.com](https://jamesconroyfinn.com)
- - date published: 2023-10-25T15:26:28.492942+00:00
- - user: None
- - tags: []
-
-## Database Error
- - [https://jamesfotherby.com](https://jamesfotherby.com)
- - date published: 2023-12-03T21:18:57.500736+00:00
- - user: None
- - tags: []
-
-## James Kerti
- - [https://www.jameskerti.com](https://www.jameskerti.com)
- - date published: 2023-11-29T17:09:54.712639+00:00
- - user: None
- - tags: ['personal']
-
-## Home | James Sevedge
- - [https://jamessevedge.com](https://jamessevedge.com)
- - date published: 2023-10-25T15:26:30.229317+00:00
- - user: None
- - tags: []
-
-## James Shore: The Art of Agile
- - [https://www.jamesshore.com](https://www.jamesshore.com)
- - date published: 2023-10-25T15:26:33.238659+00:00
- - user: None
- - tags: []
-
-## James Stuber
- - [https://jamesstuber.com](https://jamesstuber.com)
- - date published: 2023-11-29T17:14:55.177871+00:00
- - user: None
- - tags: ['personal']
-
-## JT Green
- - [https://www.jamestgreen.com](https://www.jamestgreen.com)
- - date published: 2023-12-11T10:58:08.109389+00:00
- - user: None
- - tags: ['personal']
-
-## James Webb Discovery
- - [https://www.jameswebbdiscovery.com](https://www.jameswebbdiscovery.com)
- - date published: 2023-10-25T15:26:43.819893+00:00
- - user: None
- - tags: []
-
-## New Home | Marketing and Technology for Coaches, Consultants and Experts | Jamie McKean
- - [https://jamiemckean.com](https://jamiemckean.com)
- - date published: 2023-11-29T15:46:24.695168+00:00
- - user: None
- - tags: ['personal']
-
-## Jamiroquai | Official Website
- - [https://www.jamiroquai.com](https://www.jamiroquai.com)
- - date published: 2023-11-13T10:36:27.517504+00:00
- - user: None
- - tags: ['music band']
-
-## Jamon Holmgren's Personal Website
- - [https://jamonholmgren.com](https://jamonholmgren.com)
- - date published: 2023-11-29T19:26:51.788492+00:00
- - user: None
- - tags: ['personal']
-
-## Jane Friedman | Reporting on the Publishing Industry
- - [https://janefriedman.com](https://janefriedman.com)
- - date published: 2023-10-25T15:26:46.348517+00:00
- - user: None
- - tags: []
-
-## Janell Sihay
- - [https://janellsihay.com](https://janellsihay.com)
- - date published: 2023-10-25T09:20:42.428341+00:00
- - user: None
- - tags: ['personal']
-
-## Jane Street Tech Blog
- - [https://blog.janestreet.com](https://blog.janestreet.com)
- - date published: 2023-10-25T09:20:44.071103+00:00
- - user: None
- - tags: ['personal']
-
-## Home :: Jane Street
- - [https://www.janestreet.com](https://www.janestreet.com)
- - date published: 2023-10-25T15:26:48.642287+00:00
- - user: None
- - tags: []
-
-## JangaFX - Real-Time VFX Software For Real-Time VFX Artists
- - [https://jangafx.com](https://jangafx.com)
- - date published: 2023-12-20T00:02:52.724284+00:00
- - user: None
- - tags: []
-
-## jan's stuff
- - [https://www.janromme.com](https://www.janromme.com)
- - date published: 2023-10-25T09:20:48.395468+00:00
- - user: None
- - tags: ['personal']
-
-## Business and Self-Development Concepts - Build Your Base For Success
- - [https://janwillemverstraten.com](https://janwillemverstraten.com)
- - date published: 2023-11-16T21:08:15.834187+00:00
- - user: None
- - tags: ['blog', 'personal']
-
-## Learn Japanese Online. Get started for free with the swiftest and most efficient system ever devised.
- - [https://japanesecomplete.com](https://japanesecomplete.com)
- - date published: 2023-10-25T15:26:50.459751+00:00
- - user: None
- - tags: []
-
-## Japan Today
- - [https://japantoday.com](https://japantoday.com)
- - date published: 2023-10-25T10:41:08.020128+00:00
- - user: None
- - tags: []
-
-## Jorge Arango
- - [https://jarango.com](https://jarango.com)
- - date published: 2023-12-15T23:48:09.743877+00:00
- - user: None
- - tags: []
-
-## Jared Dees: Inspiring Stories for Kids
- - [https://jareddees.com](https://jareddees.com)
- - date published: 2023-11-29T18:21:31.197656+00:00
- - user: None
- - tags: ['personal']
-
-## Jared Forsyth.com | Jared Forsyth.com
- - [https://jaredforsyth.com](https://jaredforsyth.com)
- - date published: 2023-10-25T15:26:52.976715+00:00
- - user: None
- - tags: []
-
-## Jared Ramsey
- - [https://jaredramsey.com](https://jaredramsey.com)
- - date published: 2023-10-25T09:20:49.239478+00:00
- - user: None
- - tags: ['personal']
-
-## Yarve Main
- - [https://jaroslavplotnikov.com](https://jaroslavplotnikov.com)
- - date published: 2023-12-07T17:38:14.106465+00:00
- - user: None
- - tags: ['personal']
 

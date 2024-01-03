@@ -1,3 +1,177 @@
+## Jakob Greenfeld – Jakob Greenfeld – Experiments in Permissionless Entrepreneurship
+ - [https://jakobgreenfeld.com](https://jakobgreenfeld.com)
+ - date published: 2023-10-25T15:26:12.647306+00:00
+ - user: None
+ - tags: []
+
+## Jalopnik | Obsessed With The Culture Of Cars
+ - [https://jalopnik.com](https://jalopnik.com)
+ - date published: 2023-10-25T15:26:20.516431+00:00
+ - user: None
+ - tags: []
+
+## JAMA Network | Home of JAMA and the Specialty Journals of the American Medical Association
+ - [https://jamanetwork.com](https://jamanetwork.com)
+ - date published: 2023-10-25T10:37:31.521043+00:00
+ - user: None
+ - tags: []
+
+## James Clear
+ - [https://jamesclear.com](https://jamesclear.com)
+ - date published: 2023-10-25T15:26:26.211771+00:00
+ - user: None
+ - tags: []
+
+## Home · jcf
+ - [https://jamesconroyfinn.com](https://jamesconroyfinn.com)
+ - date published: 2023-10-25T15:26:28.492942+00:00
+ - user: None
+ - tags: []
+
+## Database Error
+ - [https://jamesfotherby.com](https://jamesfotherby.com)
+ - date published: 2023-12-03T21:18:57.500736+00:00
+ - user: None
+ - tags: []
+
+## James Kerti
+ - [https://www.jameskerti.com](https://www.jameskerti.com)
+ - date published: 2023-11-29T17:09:54.712639+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | James Sevedge
+ - [https://jamessevedge.com](https://jamessevedge.com)
+ - date published: 2023-10-25T15:26:30.229317+00:00
+ - user: None
+ - tags: []
+
+## James Shore: The Art of Agile
+ - [https://www.jamesshore.com](https://www.jamesshore.com)
+ - date published: 2023-10-25T15:26:33.238659+00:00
+ - user: None
+ - tags: []
+
+## James Stuber
+ - [https://jamesstuber.com](https://jamesstuber.com)
+ - date published: 2023-11-29T17:14:55.177871+00:00
+ - user: None
+ - tags: ['personal']
+
+## JT Green
+ - [https://www.jamestgreen.com](https://www.jamestgreen.com)
+ - date published: 2023-12-11T10:58:08.109389+00:00
+ - user: None
+ - tags: ['personal']
+
+## James Webb Discovery
+ - [https://www.jameswebbdiscovery.com](https://www.jameswebbdiscovery.com)
+ - date published: 2023-10-25T15:26:43.819893+00:00
+ - user: None
+ - tags: []
+
+## New Home | Marketing and Technology for Coaches, Consultants and Experts | Jamie McKean
+ - [https://jamiemckean.com](https://jamiemckean.com)
+ - date published: 2023-11-29T15:46:24.695168+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jamiroquai | Official Website
+ - [https://www.jamiroquai.com](https://www.jamiroquai.com)
+ - date published: 2023-11-13T10:36:27.517504+00:00
+ - user: None
+ - tags: ['music band']
+
+## Jamon Holmgren's Personal Website
+ - [https://jamonholmgren.com](https://jamonholmgren.com)
+ - date published: 2023-11-29T19:26:51.788492+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jane Friedman | Reporting on the Publishing Industry
+ - [https://janefriedman.com](https://janefriedman.com)
+ - date published: 2023-10-25T15:26:46.348517+00:00
+ - user: None
+ - tags: []
+
+## Janell Sihay
+ - [https://janellsihay.com](https://janellsihay.com)
+ - date published: 2023-10-25T09:20:42.428341+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jane Street Tech Blog
+ - [https://blog.janestreet.com](https://blog.janestreet.com)
+ - date published: 2023-10-25T09:20:44.071103+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home :: Jane Street
+ - [https://www.janestreet.com](https://www.janestreet.com)
+ - date published: 2023-10-25T15:26:48.642287+00:00
+ - user: None
+ - tags: []
+
+## JangaFX - Real-Time VFX Software For Real-Time VFX Artists
+ - [https://jangafx.com](https://jangafx.com)
+ - date published: 2023-12-20T00:02:52.724284+00:00
+ - user: None
+ - tags: []
+
+## jan's stuff
+ - [https://www.janromme.com](https://www.janromme.com)
+ - date published: 2023-10-25T09:20:48.395468+00:00
+ - user: None
+ - tags: ['personal']
+
+## Business and Self-Development Concepts - Build Your Base For Success
+ - [https://janwillemverstraten.com](https://janwillemverstraten.com)
+ - date published: 2023-11-16T21:08:15.834187+00:00
+ - user: None
+ - tags: ['blog', 'personal']
+
+## Learn Japanese Online. Get started for free with the swiftest and most efficient system ever devised.
+ - [https://japanesecomplete.com](https://japanesecomplete.com)
+ - date published: 2023-10-25T15:26:50.459751+00:00
+ - user: None
+ - tags: []
+
+## Japan Today
+ - [https://japantoday.com](https://japantoday.com)
+ - date published: 2023-10-25T10:41:08.020128+00:00
+ - user: None
+ - tags: []
+
+## Jorge Arango
+ - [https://jarango.com](https://jarango.com)
+ - date published: 2023-12-15T23:48:09.743877+00:00
+ - user: None
+ - tags: []
+
+## Jared Dees: Inspiring Stories for Kids
+ - [https://jareddees.com](https://jareddees.com)
+ - date published: 2023-11-29T18:21:31.197656+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jared Forsyth.com | Jared Forsyth.com
+ - [https://jaredforsyth.com](https://jaredforsyth.com)
+ - date published: 2023-10-25T15:26:52.976715+00:00
+ - user: None
+ - tags: []
+
+## Jared Ramsey
+ - [https://jaredramsey.com](https://jaredramsey.com)
+ - date published: 2023-10-25T09:20:49.239478+00:00
+ - user: None
+ - tags: ['personal']
+
+## Yarve Main
+ - [https://jaroslavplotnikov.com](https://jaroslavplotnikov.com)
+ - date published: 2023-12-07T17:38:14.106465+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Derek Jarvis' Blog
  - [https://jarvispowered.com](https://jarvispowered.com)
  - date published: 2023-10-25T09:20:50.084354+00:00
@@ -754,9 +928,21 @@
  - user: None
  - tags: ['personal']
 
+## John Garvens - Salesforce Revenue Cloud Expert & Salesforce Career Coach
+ - [https://www.johngarvens.com](https://www.johngarvens.com)
+ - date published: 2024-01-02T03:35:31.713348+00:00
+ - user: None
+ - tags: []
+
 ## John Higgs – Author of Love And Let Die, William Blake Vs The World, Watling Street and The KLF
  - [https://johnhiggs.com](https://johnhiggs.com)
  - date published: 2023-10-25T15:30:16.620693+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://johnj.com](https://johnj.com)
+ - date published: 2024-01-02T10:19:57.586845+00:00
  - user: None
  - tags: []
 
@@ -1324,6 +1510,12 @@
  - user: None
  - tags: []
 
+## Justin Pinkney
+ - [https://www.justinpinkney.com](https://www.justinpinkney.com)
+ - date published: 2024-01-02T15:36:17.739923+00:00
+ - user: None
+ - tags: []
+
 ## Homepage
  - [https://justquickmath.com](https://justquickmath.com)
  - date published: 2023-10-25T15:33:50.658372+00:00
@@ -1339,6 +1531,12 @@
 ## Just Work
  - [https://www.justworktogether.com](https://www.justworktogether.com)
  - date published: 2023-10-25T15:33:52.782116+00:00
+ - user: None
+ - tags: []
+
+## Justyna Dorsz
+ - [https://justynadorsz.com](https://justynadorsz.com)
+ - date published: 2024-01-02T18:30:29.049637+00:00
  - user: None
  - tags: []
 
@@ -1699,6 +1897,12 @@
 ## KDP Community
  - [https://www.kdpcommunity.com](https://www.kdpcommunity.com)
  - date published: 2023-10-25T15:35:34.149390+00:00
+ - user: None
+ - tags: []
+
+## Access Restricted
+ - [https://kdvr.com](https://kdvr.com)
+ - date published: 2024-01-02T15:00:51.089797+00:00
  - user: None
  - tags: []
 
@@ -4602,6 +4806,12 @@ diversions.
  - user: None
  - tags: []
 
+## macwright.com
+ - [https://macwright.com](https://macwright.com)
+ - date published: 2024-01-02T03:36:28.516471+00:00
+ - user: None
+ - tags: []
+
 ## Maddyness - Le média pour comprendre l'économie de demain
  - [https://www.maddyness.com](https://www.maddyness.com)
  - date published: 2023-10-25T15:53:45.055388+00:00
@@ -5551,6 +5761,12 @@ diversions.
  - user: None
  - tags: []
 
+## HOME
+ - [https://www.mcknights.com](https://www.mcknights.com)
+ - date published: 2024-01-02T10:46:03.454880+00:00
+ - user: None
+ - tags: []
+
 ## WiFi Over Coax
  - [https://wifiovercoax.mcleodnet.com](https://wifiovercoax.mcleodnet.com)
  - date published: 2023-10-25T15:59:46.200973+00:00
@@ -5782,222 +5998,6 @@ diversions.
 ## Clive Thompson – Medium
  - [https://clivethompson.medium.com](https://clivethompson.medium.com)
  - date published: 2023-10-25T10:19:18.196307+00:00
- - user: None
- - tags: []
-
-## Arthur Hayes – Medium
- - [https://cryptohayes.medium.com](https://cryptohayes.medium.com)
- - date published: 2023-10-25T10:19:20.082601+00:00
- - user: None
- - tags: []
-
-## Craig Younkins – Medium
- - [https://cyounkins.medium.com](https://cyounkins.medium.com)
- - date published: 2023-10-25T10:19:22.286315+00:00
- - user: None
- - tags: []
-
-## DataFinnovation - ChainArgos - 4AC – Medium
- - [https://datafinnovation.medium.com](https://datafinnovation.medium.com)
- - date published: 2023-10-25T10:19:24.661478+00:00
- - user: None
- - tags: []
-
-## David Delassus – Medium
- - [https://david-delassus.medium.com](https://david-delassus.medium.com)
- - date published: 2023-10-25T10:19:26.852264+00:00
- - user: None
- - tags: []
-
-## David Gilbertson – Medium
- - [https://david-gilbertson.medium.com](https://david-gilbertson.medium.com)
- - date published: 2023-10-25T10:19:29.708680+00:00
- - user: None
- - tags: []
-
-## Debugger
- - [https://debugger.medium.com](https://debugger.medium.com)
- - date published: 2023-10-25T10:19:31.889138+00:00
- - user: None
- - tags: []
-
-## David Lu – Medium
- - [https://delu.medium.com](https://delu.medium.com)
- - date published: 2023-10-25T10:19:34.250111+00:00
- - user: None
- - tags: []
-
-## Denys Linkov – Medium
- - [https://denyslinkov.medium.com](https://denyslinkov.medium.com)
- - date published: 2023-10-25T10:19:36.501051+00:00
- - user: None
- - tags: []
-
-## Dave Feldman – Medium
- - [https://dfeldman.medium.com](https://dfeldman.medium.com)
- - date published: 2023-10-25T10:19:38.830473+00:00
- - user: None
- - tags: []
-
-## Pardis Noorzad – Medium
- - [https://djpardis.medium.com](https://djpardis.medium.com)
- - date published: 2023-10-25T10:19:41.017651+00:00
- - user: None
- - tags: []
-
-## Dmitry Kan – Medium
- - [https://dmitry-kan.medium.com](https://dmitry-kan.medium.com)
- - date published: 2023-10-25T10:19:43.394552+00:00
- - user: None
- - tags: []
-
-## Cory Doctorow – Medium
- - [https://doctorow.medium.com](https://doctorow.medium.com)
- - date published: 2023-10-25T08:57:40.550974+00:00
- - user: None
- - tags: ['personal']
-
-## Don Hopkins – Medium
- - [https://donhopkins.medium.com](https://donhopkins.medium.com)
- - date published: 2023-10-25T10:19:46.013612+00:00
- - user: None
- - tags: []
-
-## Dustin Godevais – Medium
- - [https://dustin-godevais.medium.com](https://dustin-godevais.medium.com)
- - date published: 2023-10-25T10:19:54.217237+00:00
- - user: None
- - tags: []
-
-## Daniel Vassallo – Medium
- - [https://dvassallo.medium.com](https://dvassallo.medium.com)
- - date published: 2023-10-25T10:19:56.210495+00:00
- - user: None
- - tags: []
-
-## Raju Dawadi – Medium
- - [https://dwdraju.medium.com](https://dwdraju.medium.com)
- - date published: 2023-10-25T10:19:58.595133+00:00
- - user: None
- - tags: []
-
-## Elaine Cao – Medium
- - [https://elaine-cao-93.medium.com](https://elaine-cao-93.medium.com)
- - date published: 2023-10-25T10:20:00.285620+00:00
- - user: None
- - tags: []
-
-## Erik van de Ven – Medium
- - [https://erikvandeven.medium.com](https://erikvandeven.medium.com)
- - date published: 2023-10-25T10:20:02.499859+00:00
- - user: None
- - tags: []
-
-## Esther Crawford – Medium
- - [https://esthercrawford.medium.com](https://esthercrawford.medium.com)
- - date published: 2023-10-25T10:20:04.645101+00:00
- - user: None
- - tags: []
-
-## Flipboard – Medium
- - [https://flipboard.medium.com](https://flipboard.medium.com)
- - date published: 2023-11-21T21:54:55.251511+00:00
- - user: None
- - tags: []
-
-## Robert Barron – Medium
- - [https://flyingbarron.medium.com](https://flyingbarron.medium.com)
- - date published: 2023-10-25T10:20:12.651490+00:00
- - user: None
- - tags: []
-
-## Francisco Trindade – Medium
- - [https://franciscomt.medium.com](https://franciscomt.medium.com)
- - date published: 2023-10-25T10:20:15.354599+00:00
- - user: None
- - tags: []
-
-## Fredrick Brennan – Medium
- - [https://fredrickbrennan.medium.com](https://fredrickbrennan.medium.com)
- - date published: 2023-10-25T10:20:17.725128+00:00
- - user: None
- - tags: []
-
-## fwsGonzo – Medium
- - [https://fwsgonzo.medium.com](https://fwsgonzo.medium.com)
- - date published: 2023-10-25T10:20:24.721924+00:00
- - user: None
- - tags: []
-
-## Ayush Singh – Medium
- - [https://g147.medium.com](https://g147.medium.com)
- - date published: 2023-10-25T10:20:26.675224+00:00
- - user: None
- - tags: []
-
-## ＧΛËＬ ＤＵＶΛＬ – Medium
- - [https://gael-duval.medium.com](https://gael-duval.medium.com)
- - date published: 2023-10-25T10:20:28.861577+00:00
- - user: None
- - tags: []
-
-## Chris Parnin – Medium
- - [https://gameweld.medium.com](https://gameweld.medium.com)
- - date published: 2023-10-25T10:20:30.941220+00:00
- - user: None
- - tags: []
-
-## Glauber Costa – Medium
- - [https://glaubercosta-11125.medium.com](https://glaubercosta-11125.medium.com)
- - date published: 2023-10-25T10:20:33.543522+00:00
- - user: None
- - tags: []
-
-## Grace Huang – Medium
- - [https://imgracehuang.medium.com](https://imgracehuang.medium.com)
- - date published: 2023-10-25T10:20:35.581391+00:00
- - user: None
- - tags: []
-
-## Index
- - [https://index.medium.com](https://index.medium.com)
- - date published: 2023-10-25T10:20:38.107205+00:00
- - user: None
- - tags: []
-
-## Inflect Health – Medium
- - [https://inflecthealth.medium.com](https://inflecthealth.medium.com)
- - date published: 2023-10-25T10:20:40.099627+00:00
- - user: None
- - tags: []
-
-## Chris Altonji – Medium
- - [https://introductory.medium.com](https://introductory.medium.com)
- - date published: 2023-10-25T10:20:42.119853+00:00
- - user: None
- - tags: []
-
-## Jackson Cunningham – Medium
- - [https://jacksoncunningham.medium.com](https://jacksoncunningham.medium.com)
- - date published: 2023-10-25T10:20:43.946689+00:00
- - user: None
- - tags: []
-
-## Jake Spracher – Medium
- - [https://jakespracher.medium.com](https://jakespracher.medium.com)
- - date published: 2023-10-25T10:20:46.053371+00:00
- - user: None
- - tags: []
-
-## Jason Yip – Medium
- - [https://jchyip.medium.com](https://jchyip.medium.com)
- - date published: 2023-10-25T10:20:48.187900+00:00
- - user: None
- - tags: []
-
-## Jeffrey Kaye – Medium
- - [https://jeff-kaye.medium.com](https://jeff-kaye.medium.com)
- - date published: 2023-10-25T10:20:51.003396+00:00
  - user: None
  - tags: []
 

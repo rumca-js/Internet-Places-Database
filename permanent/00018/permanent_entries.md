@@ -1,3 +1,563 @@
+## /uses
+ - [https://uses.tech](https://uses.tech)
+ - date published: 2023-10-27T12:08:40.398803+00:00
+ - user: None
+ - tags: []
+
+## Abstract Machinist
+ - [https://voidstar.tech](https://voidstar.tech)
+ - date published: 2023-10-27T12:08:41.186511+00:00
+ - user: None
+ - tags: []
+
+## Winny's Blog
+ - [https://blog.winny.tech](https://blog.winny.tech)
+ - date published: 2023-10-25T09:24:51.352755+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://pranshum.yarn.tech
+ - [https://pranshum.yarn.tech](https://pranshum.yarn.tech)
+ - date published: 2023-10-27T12:08:42.161041+00:00
+ - user: None
+ - tags: []
+
+## Zuru Tech - Changing the way we build
+ - [https://zuru.tech](https://zuru.tech)
+ - date published: 2023-10-27T12:08:43.088416+00:00
+ - user: None
+ - tags: []
+
+## the greg technology blog
+ - [https://blog.greg.technology](https://blog.greg.technology)
+ - date published: 2024-01-02T19:55:59.856399+00:00
+ - user: None
+ - tags: []
+
+## Show HN: I Remade the Fake Google Gemini Demo, Except Using GPT-4 and It's Real
+ - [https://sagittarius.greg.technology](https://sagittarius.greg.technology)
+ - date published: 2023-12-11T02:17:39+00:00
+ - user: None
+ - tags: []
+
+## The Stack
+ - [https://thestack.technology](https://thestack.technology)
+ - date published: 2023-10-27T12:08:49.317432+00:00
+ - user: None
+ - tags: []
+
+## The Stack
+ - [https://www.thestack.technology](https://www.thestack.technology)
+ - date published: 2023-10-27T12:08:50.148423+00:00
+ - user: None
+ - tags: []
+
+## blog.dave.tf
+ - [https://blog.dave.tf](https://blog.dave.tf)
+ - date published: 2023-10-25T09:24:52.465504+00:00
+ - user: None
+ - tags: ['personal']
+
+## Introduction - ThreeFold Manual
+ - [https://manual.grid.tf](https://manual.grid.tf)
+ - date published: 2023-12-02T21:50:58.594420+00:00
+ - user: None
+ - tags: []
+
+## CFAO Motors - Citroën Togo
+ - [https://www.citroen.tg](https://www.citroen.tg)
+ - date published: 2023-12-11T15:50:19.469225+00:00
+ - user: None
+ - tags: []
+
+## พิพิธภัณฑสถานแห่งชาติ
+ - [http://www.virtualmuseum.finearts.go.th](http://www.virtualmuseum.finearts.go.th)
+ - date published: 2023-11-13T13:43:42.490087+00:00
+ - user: None
+ - tags: ['museum']
+
+## notes.dt.in.th | notes.dt.in.th
+ - [https://notes.dt.in.th](https://notes.dt.in.th)
+ - date published: 2023-10-25T22:46:03.059073+00:00
+ - user: None
+ - tags: []
+
+## DX Tips: The DevTools Magazine
+ - [https://dx.tips](https://dx.tips)
+ - date published: 2023-10-25T22:46:09.880882+00:00
+ - user: None
+ - tags: []
+
+## Fedi.Tips – An Unofficial Guide to Mastodon and the Fediverse
+ - [https://fedi.tips](https://fedi.tips)
+ - date published: 2023-10-25T22:46:12.057334+00:00
+ - user: None
+ - tags: []
+
+## Overview of Projects
+ - [https://deat.tk](https://deat.tk)
+ - date published: 2023-10-25T22:46:12.989902+00:00
+ - user: None
+ - tags: []
+
+## keygenmusic.tk - tracker music player
+ - [https://keygenmusic.tk](https://keygenmusic.tk)
+ - date published: 2023-10-25T11:13:57.912458+00:00
+ - user: None
+ - tags: ['chiptune', 'demoscene', 'keygen']
+
+## maydayv7
+ - [https://maydayv7.tk](https://maydayv7.tk)
+ - date published: 2023-12-17T16:41:41.013828+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dr. Matt Lee (mattl)
+ - [https://mat.tl](https://mat.tl)
+ - date published: 2023-12-23T07:30:07.437042+00:00
+ - user: None
+ - tags: ['personal']
+
+## WeTransfer - Send Large Files & Share Photos Online - Up to 2GB Free
+ - [https://we.tl](https://we.tl)
+ - date published: 2023-11-06T22:50:48.746634+00:00
+ - user: None
+ - tags: []
+
+## Turkmenistan Altyn Asyr
+ - [https://turkmenistan.gov.tm](https://turkmenistan.gov.tm)
+ - date published: 2023-11-29T17:20:20.339321+00:00
+ - user: None
+ - tags: []
+
+## Amazon.com
+ - [https://amzn.to](https://amzn.to)
+ - date published: 2023-12-13T15:37:39.110477+00:00
+ - user: None
+ - tags: ['amazon']
+
+## Watch Anime Online, Free Anime Streaming Online on Aniwatch.to Anime Website
+ - [https://aniwatch.to](https://aniwatch.to)
+ - date published: 2023-10-25T13:12:13.844100+00:00
+ - user: None
+ - tags: ['video streaming', 'anime']
+
+## buycoffee.to - Zarabiaj na swojej twórczości w Internecie
+ - [https://buycoffee.to](https://buycoffee.to)
+ - date published: 2023-12-11T16:53:40.349379+00:00
+ - user: None
+ - tags: []
+
+## DEV Community
+ - [https://dev.to](https://dev.to)
+ - date published: 2023-10-25T11:33:22.959017+00:00
+ - user: None
+ - tags: []
+
+## Every
+ - [https://every.to](https://every.to)
+ - date published: 2023-10-25T22:46:14.453278+00:00
+ - user: None
+ - tags: []
+
+## iris
+ - [https://iris.to](https://iris.to)
+ - date published: 2023-10-25T22:46:14.765909+00:00
+ - user: None
+ - tags: []
+
+## Smart Links for Music Marketing, Podcasts and Artist Promotion | Linkfire
+ - [https://caravanpalace.lnk.to](https://caravanpalace.lnk.to)
+ - date published: 2023-12-11T15:36:25.408992+00:00
+ - user: None
+ - tags: []
+
+## Harley Watson
+ - [https://lobi.to](https://lobi.to)
+ - date published: 2023-10-25T08:56:10.693079+00:00
+ - user: None
+ - tags: ['personal']
+
+## mas.to
+ - [https://mas.to](https://mas.to)
+ - date published: 2023-10-25T22:46:15.173121+00:00
+ - user: None
+ - tags: []
+
+## Mathys van Abbe
+ - [https://www.mathys.to](https://www.mathys.to)
+ - date published: 2023-11-29T17:11:47.273460+00:00
+ - user: None
+ - tags: ['personal']
+
+## PaidLink.to: Create monetized links to anything
+ - [https://paidlink.to](https://paidlink.to)
+ - date published: 2023-10-25T22:46:16.431257+00:00
+ - user: None
+ - tags: []
+
+## nick quaranto
+ - [https://quaran.to](https://quaran.to)
+ - date published: 2023-10-25T09:24:54.180036+00:00
+ - user: None
+ - tags: ['personal']
+
+## Testimonial - Collect and embed testimonials in minutes
+ - [https://testimonial.to](https://testimonial.to)
+ - date published: 2023-10-25T22:46:16.956147+00:00
+ - user: None
+ - tags: []
+
+## cr.yp.to: 
+blog
+ - [https://blog.cr.yp.to](https://blog.cr.yp.to)
+ - date published: 2023-10-25T22:46:22.681247+00:00
+ - user: None
+ - tags: []
+
+## Intro
+ - [https://cpucycles.cr.yp.to](https://cpucycles.cr.yp.to)
+ - date published: 2023-10-25T22:46:23.684550+00:00
+ - user: None
+ - tags: []
+
+## cr.yp.to
+ - [https://cr.yp.to](https://cr.yp.to)
+ - date published: 2023-10-25T22:46:25.146248+00:00
+ - user: None
+ - tags: []
+
+## PQSRC:
+Introduction
+ - [https://pqsrc.cr.yp.to](https://pqsrc.cr.yp.to)
+ - date published: 2023-10-25T22:46:26.119793+00:00
+ - user: None
+ - tags: []
+
+## librandombytes: Intro
+ - [https://randombytes.cr.yp.to](https://randombytes.cr.yp.to)
+ - date published: 2023-10-25T22:46:27.104699+00:00
+ - user: None
+ - tags: []
+
+## Apple World Today
+ - [https://appleworld.today](https://appleworld.today)
+ - date published: 2023-10-25T09:38:28.510492+00:00
+ - user: None
+ - tags: []
+
+## Home | Bryan Today
+ - [https://bryan.today](https://bryan.today)
+ - date published: 2023-11-29T14:43:39.103267+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Dossier | Jordan Schachtel | Substack
+ - [https://www.dossier.today](https://www.dossier.today)
+ - date published: 2023-12-27T13:59:06.335120+00:00
+ - user: None
+ - tags: []
+
+## Epochalypse
+ - [https://www.epochalypse.today](https://www.epochalypse.today)
+ - date published: 2023-10-25T22:46:27.669965+00:00
+ - user: None
+ - tags: []
+
+## Evgenii Burmakin
+ - [https://frey.today](https://frey.today)
+ - date published: 2023-11-17T15:04:30+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## Now
+ - [https://glmb.today](https://glmb.today)
+ - date published: 2023-11-29T14:19:26.151065+00:00
+ - user: None
+ - tags: ['personal']
+
+## Phạm Đức Huy
+ - [https://huy.today](https://huy.today)
+ - date published: 2023-10-25T08:57:13.547312+00:00
+ - user: None
+ - tags: ['personal']
+
+## Current Mood? | How are you feeling today?
+ - [https://mymood.today](https://mymood.today)
+ - date published: 2023-10-25T22:46:33.039028+00:00
+ - user: None
+ - tags: []
+
+## The Nexus Of Privacy
+ - [https://privacy.thenexus.today](https://privacy.thenexus.today)
+ - date published: 2023-10-25T22:46:37.019688+00:00
+ - user: None
+ - tags: []
+
+## BGP.Tools
+ - [https://bgp.tools](https://bgp.tools)
+ - date published: 2023-10-25T22:46:38.621507+00:00
+ - user: None
+ - tags: []
+
+## Chatwith
+ - [https://chatwith.tools](https://chatwith.tools)
+ - date published: 2023-10-25T22:46:45.221058+00:00
+ - user: None
+ - tags: []
+
+## offsec.tools - A vast collection of security tools
+ - [https://offsec.tools](https://offsec.tools)
+ - date published: 2023-10-25T22:46:52.530092+00:00
+ - user: None
+ - tags: []
+
+## seri.tools
+ - [https://seri.tools](https://seri.tools)
+ - date published: 2023-12-29T23:13:07.019219+00:00
+ - user: None
+ - tags: []
+
+## scientific.place | Less Boring Science
+ - [https://students.tools](https://students.tools)
+ - date published: 2023-10-25T22:46:55.076112+00:00
+ - user: None
+ - tags: []
+
+## Substrate improves your security, reliability and compliance on AWS.
+ - [https://substrate.tools](https://substrate.tools)
+ - date published: 2023-10-25T22:46:59.441732+00:00
+ - user: None
+ - tags: []
+
+## Merveilles
+ - [https://merveilles.town](https://merveilles.town)
+ - date published: 2023-10-25T22:47:01.728750+00:00
+ - user: None
+ - tags: []
+
+## OSM Town | Mapstodon for OpenStreetMap
+ - [https://en.osm.town](https://en.osm.town)
+ - date published: 2023-10-24T20:14:44.610496+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## taylor.town
+ - [https://taylor.town](https://taylor.town)
+ - date published: 2023-10-25T22:47:07.379073+00:00
+ - user: None
+ - tags: []
+
+## tilde.town
+ - [https://tilde.town](https://tilde.town)
+ - date published: 2023-12-18T01:35:46.854272+00:00
+ - user: None
+ - tags: ['personal']
+
+## Val Town Blog
+ - [https://blog.val.town](https://blog.val.town)
+ - date published: 2023-10-25T09:24:56.115382+00:00
+ - user: None
+ - tags: ['personal']
+
+## Val Town
+ - [https://www.val.town](https://www.val.town)
+ - date published: 2023-10-25T11:29:19.487818+00:00
+ - user: None
+ - tags: []
+
+## compute.toys
+ - [https://compute.toys](https://compute.toys)
+ - date published: 2023-10-25T22:47:11.996030+00:00
+ - user: None
+ - tags: []
+
+## Container Training
+ - [https://container.training](https://container.training)
+ - date published: 2023-10-25T22:47:15.680138+00:00
+ - user: None
+ - tags: []
+
+## Hoku | The best trip planner to organize travel with friends
+ - [https://hoku.travel](https://hoku.travel)
+ - date published: 2023-10-25T22:47:19.285427+00:00
+ - user: None
+ - tags: []
+
+## Dust - Secure AI assistant with your company's knowledge
+ - [https://dust.tt](https://dust.tt)
+ - date published: 2023-10-25T22:47:21.135871+00:00
+ - user: None
+ - tags: []
+
+## Texts Joins Automattic
+ - [https://ma.tt](https://ma.tt)
+ - date published: 2023-10-25T08:56:15.066408+00:00
+ - user: None
+ - tags: ['personal']
+
+## ecrire.tv – Votre site ressource sur l'écriture
+ - [https://www.ecrire.tv](https://www.ecrire.tv)
+ - date published: 2023-12-11T16:23:45.682823+00:00
+ - user: None
+ - tags: []
+
+## Ukraine News ᐈ War against Russia, Latest News and Videos | Espreso TV
+ - [https://global.espreso.tv](https://global.espreso.tv)
+ - date published: 2023-12-20T05:44:26.089452+00:00
+ - user: None
+ - tags: []
+
+## Firesky
+ - [https://firesky.tv](https://firesky.tv)
+ - date published: 2023-10-25T22:47:22.627275+00:00
+ - user: None
+ - tags: []
+
+## https://www.fubo.tv
+ - [https://www.fubo.tv](https://www.fubo.tv)
+ - date published: 2023-11-28T21:02:10+00:00
+ - user: rumpel
+ - tags: ['video streaming']
+
+## holovolo - immersive volumetric VR180 videos and photos, and 3D stable diffusion, for Quest and WebVR
+ - [https://holovolo.tv](https://holovolo.tv)
+ - date published: 2023-10-25T22:47:24.915722+00:00
+ - user: None
+ - tags: []
+
+## I24NEWS - Breaking news from the Middle East, Israel and around the world
+ - [https://www.i24news.tv](https://www.i24news.tv)
+ - date published: 2023-10-30T20:58:57.678391+00:00
+ - user: None
+ - tags: []
+
+## Home » IAI TV
+ - [https://iai.tv](https://iai.tv)
+ - date published: 2023-10-25T22:47:27.304357+00:00
+ - user: None
+ - tags: []
+
+## Invisible People - Organization That Helps Homeless People
+ - [https://invisiblepeople.tv](https://invisiblepeople.tv)
+ - date published: 2023-10-25T22:47:31.099052+00:00
+ - user: None
+ - tags: []
+
+## Open Source Home Theater Software | Kodi
+ - [https://kodi.tv](https://kodi.tv)
+ - date published: 2023-10-25T22:47:33.068157+00:00
+ - user: None
+ - tags: ['open source']
+
+## LBCI Lebanon - Lebanon News
+ - [https://lbcgroup.tv](https://lbcgroup.tv)
+ - date published: 2023-12-11T15:35:56.445897+00:00
+ - user: None
+ - tags: []
+
+## LBCI Lebanon - Lebanon News
+ - [https://www.lbcgroup.tv](https://www.lbcgroup.tv)
+ - date published: 2023-10-31T11:59:44.874795+00:00
+ - user: None
+ - tags: ['lebanon']
+
+## LibreELEC
+ - [https://libreelec.tv](https://libreelec.tv)
+ - date published: 2023-10-25T08:32:34.951764+00:00
+ - user: None
+ - tags: ['operating system', 'linux']
+
+## Lon Seidman & Lon.TV Blog - Tech & Commentary from Lon Seidman of Lon.TV
+ - [https://blog.lon.tv](https://blog.lon.tv)
+ - date published: 2023-10-25T09:38:42.655480+00:00
+ - user: None
+ - tags: []
+
+## მთავარი არხი
+ - [https://mtavari.tv](https://mtavari.tv)
+ - date published: 2023-11-06T20:50:46.710159+00:00
+ - user: None
+ - tags: []
+
+## Napflix | Siesta Video Platform.
+ - [https://napflix.tv](https://napflix.tv)
+ - date published: 2023-10-25T22:47:39.579515+00:00
+ - user: None
+ - tags: []
+
+## Nebula – Indie Streaming
+ - [https://nebula.tv](https://nebula.tv)
+ - date published: 2023-11-25T15:05:20+00:00
+ - user: rumpel
+ - tags: ['video streaming']
+
+## Open Broadcast Systems | Delivering your flagship broadcast services
+ - [https://www.obe.tv](https://www.obe.tv)
+ - date published: 2023-10-25T22:47:43.873343+00:00
+ - user: None
+ - tags: []
+
+## Paloma Kop
+ - [https://palomakop.tv](https://palomakop.tv)
+ - date published: 2023-12-27T10:09:32.081236+00:00
+ - user: None
+ - tags: ['personal']
+
+## PeerTube.TV
+ - [https://peertube.tv](https://peertube.tv)
+ - date published: 2023-10-25T11:44:58.045508+00:00
+ - user: None
+ - tags: []
+
+## Plex Forum
+ - [https://forums.plex.tv](https://forums.plex.tv)
+ - date published: 2023-10-25T22:47:49.787706+00:00
+ - user: None
+ - tags: []
+
+## Meet your TV concierge.
+ - [https://links.plex.tv](https://links.plex.tv)
+ - date published: 2023-10-24T20:06:12.269474+00:00
+ - user: None
+ - tags: []
+
+## Meet your TV concierge.
+ - [https://www.plex.tv](https://www.plex.tv)
+ - date published: 2023-10-24T20:06:05.003193+00:00
+ - user: None
+ - tags: ['video streaming']
+
+## Pluto TV - It's Free TV
+ - [https://pluto.tv](https://pluto.tv)
+ - date published: 2023-12-02T13:15:05+00:00
+ - user: rumpel
+ - tags: []
+
+## Watch Scientology Network: TV Channel and Video On Demand
+ - [https://www.scientology.tv](https://www.scientology.tv)
+ - date published: 2023-11-27T13:00:28+00:00
+ - user: rumpel
+ - tags: ['scientology']
+
+## STV News | The home of Scottish News, Sport & Weather
+ - [https://news.stv.tv](https://news.stv.tv)
+ - date published: 2023-10-25T10:10:00.186984+00:00
+ - user: None
+ - tags: []
+
+## Watch all episodes of The Chosen for free
+ - [https://watch.thechosen.tv](https://watch.thechosen.tv)
+ - date published: 2023-10-24T20:06:06.638035+00:00
+ - user: None
+ - tags: ['video streaming']
+
+## The People's Voice - Where Mainstream Fears to Tread
+ - [https://thepeoplesvoice.tv](https://thepeoplesvoice.tv)
+ - date published: 2023-10-25T10:18:10.941418+00:00
+ - user: None
+ - tags: []
+
 ## The Satanic Temple TV
  - [https://www.thesatanictemple.tv](https://www.thesatanictemple.tv)
  - date published: 2023-12-05T15:13:08+00:00
@@ -628,6 +1188,12 @@
  - user: None
  - tags: []
 
+## coldclimate.co.uk
+ - [https://www.coldclimate.co.uk](https://www.coldclimate.co.uk)
+ - date published: 2024-01-02T03:36:56.454765+00:00
+ - user: None
+ - tags: []
+
 ## Cricetus Cricetus Publishing
  - [https://www.cricetuscricetus.co.uk](https://www.cricetuscricetus.co.uk)
  - date published: 2023-10-25T22:51:39.170599+00:00
@@ -994,6 +1560,12 @@
  - user: None
  - tags: ['personal']
 
+## Marketing Beat - Daily B2B Marketing News, Trends & Insight
+ - [https://www.marketing-beat.co.uk](https://www.marketing-beat.co.uk)
+ - date published: 2024-01-02T19:33:32.083550+00:00
+ - user: None
+ - tags: []
+
 ## The Market Oracle ::
  - [https://www.marketoracle.co.uk](https://www.marketoracle.co.uk)
  - date published: 2023-10-25T22:53:37.192585+00:00
@@ -1087,6 +1659,12 @@
 ## Homepage | National Geographic
  - [https://www.nationalgeographic.co.uk](https://www.nationalgeographic.co.uk)
  - date published: 2023-10-25T22:54:12.162652+00:00
+ - user: None
+ - tags: []
+
+## There Is No Such Thing As A Free Lunch | Tinstaafl
+ - [https://www.nofreelunch.co.uk](https://www.nofreelunch.co.uk)
+ - date published: 2024-01-02T09:58:00.701360+00:00
  - user: None
  - tags: []
 
@@ -1730,6 +2308,12 @@
 ## Welcome to theJPster.org.uk
  - [https://thejpster.org.uk](https://thejpster.org.uk)
  - date published: 2023-10-25T22:57:35.741935+00:00
+ - user: None
+ - tags: []
+
+## UK Defence Journal
+ - [https://ukdefencejournal.org.uk](https://ukdefencejournal.org.uk)
+ - date published: 2024-01-02T12:52:06.707273+00:00
  - user: None
  - tags: []
 
@@ -2688,6 +3272,12 @@
  - user: None
  - tags: ['personal']
 
+## Coder Spirit :: Home
+ - [https://blog.coderspirit.xyz](https://blog.coderspirit.xyz)
+ - date published: 2024-01-02T15:36:17.740032+00:00
+ - user: None
+ - tags: []
+
 ## Home • Kostas Heaven on Net
  - [https://www.cpard.xyz](https://www.cpard.xyz)
  - date published: 2023-10-25T23:03:00.217974+00:00
@@ -3143,6 +3733,12 @@
 ## zsync - high quality discussion
  - [https://zsync.xyz](https://zsync.xyz)
  - date published: 2023-10-25T23:05:23.153519+00:00
+ - user: None
+ - tags: []
+
+## Spiritual Yoga, Stress Management, and Meaningful Personal Growth | balraj.yoga - the yoga of self awareness
+ - [https://www.balraj.yoga](https://www.balraj.yoga)
+ - date published: 2024-01-02T03:35:02.467119+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,261 @@
+## Software Development Tools by SEGGER – The Embedded Experts
+ - [https://www.segger.com](https://www.segger.com)
+ - date published: 2023-10-25T17:01:38.604350+00:00
+ - user: None
+ - tags: []
+
+## Segment Anything | Meta AI
+ - [https://segment-anything.com](https://segment-anything.com)
+ - date published: 2023-10-25T17:01:39.445324+00:00
+ - user: None
+ - tags: []
+
+## Seinfeld - A site for all of us Seinfeld Fans!
+ - [https://www.seinfeldscripts.com](https://www.seinfeldscripts.com)
+ - date published: 2023-10-25T17:01:41.058524+00:00
+ - user: None
+ - tags: []
+
+## Seldo.com
+ - [https://seldo.com](https://seldo.com)
+ - date published: 2023-10-25T17:01:43.879007+00:00
+ - user: None
+ - tags: []
+
+## The Open Web
+ - [https://seldomlogical.com](https://seldomlogical.com)
+ - date published: 2023-11-29T15:46:15.297293+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sam's Blog
+ - [https://selectfromwhereand.com](https://selectfromwhereand.com)
+ - date published: 2023-11-19T07:59:28.405717+00:00
+ - user: None
+ - tags: ['personal']
+
+## Semafor - An intelligent, transparent global news platform for breaking stories, analysis and video
+ - [https://www.semafor.com](https://www.semafor.com)
+ - date published: 2023-10-25T10:38:55.032682+00:00
+ - user: None
+ - tags: []
+
+## Continuous Integration & Delivery - Semaphore
+ - [https://semaphoreci.com](https://semaphoreci.com)
+ - date published: 2023-10-25T17:01:46.828627+00:00
+ - user: None
+ - tags: []
+
+## SemiAnalysis | Dylan Patel | Substack
+ - [https://www.semianalysis.com](https://www.semianalysis.com)
+ - date published: 2023-10-25T17:01:49.736351+00:00
+ - user: None
+ - tags: []
+
+## Semiconductor Engineering - Deep Insights For Chip Engineers
+ - [https://semiengineering.com](https://semiengineering.com)
+ - date published: 2023-10-25T17:01:53.874840+00:00
+ - user: None
+ - tags: []
+
+## SemiWiki - All Things Semiconductor!
+ - [https://semiwiki.com](https://semiwiki.com)
+ - date published: 2023-10-25T17:02:04.737377+00:00
+ - user: None
+ - tags: []
+
+## Sennheiser — Headphones, Microphones, Wireless Systems
+ - [https://en-us.sennheiser.com](https://en-us.sennheiser.com)
+ - date published: 2023-10-30T18:21:56.549124+00:00
+ - user: None
+ - tags: ['audio']
+
+## Sennheiser — Headphones, Microphones, Wireless Systems
+ - [https://sennheiser.com](https://sennheiser.com)
+ - date published: 2023-10-30T18:22:42.525350+00:00
+ - user: None
+ - tags: ['company', 'audio']
+
+## SenseGlove | Feel the virtual like it’s real
+ - [https://www.senseglove.com](https://www.senseglove.com)
+ - date published: 2023-11-27T16:17:59+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
+
+## Separate Concerns
+ - [https://blog.separateconcerns.com](https://blog.separateconcerns.com)
+ - date published: 2023-10-25T09:26:06.936644+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Sequoia
+ - [https://www.sequoiacap.com](https://www.sequoiacap.com)
+ - date published: 2023-10-25T08:26:15.206357+00:00
+ - user: None
+ - tags: []
+
+## Serah B. Fredericks
+ - [https://www.serahbfredericks.com](https://www.serahbfredericks.com)
+ - date published: 2023-12-17T05:07:50.588357+00:00
+ - user: None
+ - tags: ['personal']
+
+## Seraph Secure: anti-scam software co-founded by Kitboga
+ - [https://www.seraphsecure.com](https://www.seraphsecure.com)
+ - date published: 2023-12-01T19:55:21+00:00
+ - user: None
+ - tags: []
+
+## Home | Campbell Jones
+ - [https://serebit.com](https://serebit.com)
+ - date published: 2023-10-25T17:02:05.830940+00:00
+ - user: None
+ - tags: []
+
+## Latin American VC
+ - [https://serebrisky.com](https://serebrisky.com)
+ - date published: 2023-12-25T17:23:52.303533+00:00
+ - user: None
+ - tags: []
+
+## Atlas Alpha: Your Source for Cutting-Edge Tech News and Updates
+ - [https://atlasalpha.serenebase.com](https://atlasalpha.serenebase.com)
+ - date published: 2023-10-25T17:02:07.368934+00:00
+ - user: None
+ - tags: []
+
+## Affinity – Professional Creative Software
+ - [https://affinity.serif.com](https://affinity.serif.com)
+ - date published: 2023-10-25T17:02:09.216110+00:00
+ - user: None
+ - tags: []
+
+## Serious Eats
+ - [https://www.seriouseats.com](https://www.seriouseats.com)
+ - date published: 2023-10-25T17:02:11.867889+00:00
+ - user: None
+ - tags: []
+
+## Search Engine Roundtable ::: The Pulse Of The Search Marketing Community
+ - [https://www.seroundtable.com](https://www.seroundtable.com)
+ - date published: 2023-10-25T17:02:14.125409+00:00
+ - user: None
+ - tags: []
+
+## SerpApi: Google Search API
+ - [https://serpapi.com](https://serpapi.com)
+ - date published: 2023-10-25T17:02:15.903948+00:00
+ - user: None
+ - tags: []
+
+## Server Fault
+ - [https://serverfault.com](https://serverfault.com)
+ - date published: 2023-10-25T17:02:23.306221+00:00
+ - user: None
+ - tags: []
+
+## ServeTheHome Server Storage and Networking Reviews
+ - [https://www.servethehome.com](https://www.servethehome.com)
+ - date published: 2023-10-25T17:02:27.165383+00:00
+ - user: None
+ - tags: []
+
+## Sesquiotica | Words, words, words
+ - [https://sesquiotic.com](https://sesquiotic.com)
+ - date published: 2023-10-25T17:02:31.243228+00:00
+ - user: None
+ - tags: []
+
+## set-inform.com | Adventures in Ubiquiti Routing and Switching
+ - [https://set-inform.com](https://set-inform.com)
+ - date published: 2023-10-25T17:02:35.226495+00:00
+ - user: None
+ - tags: []
+
+## Seth Ariel Green's website
+ - [https://setharielgreen.com](https://setharielgreen.com)
+ - date published: 2023-10-25T17:02:35.994039+00:00
+ - user: None
+ - tags: []
+
+## Happy Warrior by Seth Bannon | Substack
+ - [https://www.sethbannon.com](https://www.sethbannon.com)
+ - date published: 2023-10-25T17:02:37.932924+00:00
+ - user: None
+ - tags: []
+
+## Seth Perler
+ - [https://sethperler.com](https://sethperler.com)
+ - date published: 2023-12-17T05:07:38.335997+00:00
+ - user: None
+ - tags: ['personal']
+
+## Go away, the cloud is full
+ - [http://www.sevangelatos.com](http://www.sevangelatos.com)
+ - date published: 2023-10-25T17:02:39.146947+00:00
+ - user: None
+ - tags: []
+
+## Sevish – electronic microtonal music
+ - [https://sevish.com](https://sevish.com)
+ - date published: 2023-10-25T17:02:41.671400+00:00
+ - user: None
+ - tags: []
+
+## Sex, Drugs, and Suicide | Jeff Clark, MD | Substack
+ - [https://www.sexdrugsandsuicide.com](https://www.sexdrugsandsuicide.com)
+ - date published: 2023-10-25T17:02:43.133456+00:00
+ - user: None
+ - tags: []
+
+## San Francisco Chronicle - Bay Area news, sports, tech, food - San Francisco Chronicle
+ - [https://www.sfchronicle.com](https://www.sfchronicle.com)
+ - date published: 2023-10-25T17:02:52.832420+00:00
+ - user: None
+ - tags: []
+
+## The San Francisco Compute Company
+ - [https://sfcompute.com](https://sfcompute.com)
+ - date published: 2023-11-14T03:36:57.945860+00:00
+ - user: None
+ - tags: []
+
+## San Francisco Examiner
+ - [https://www.sfexaminer.com](https://www.sfexaminer.com)
+ - date published: 2023-10-25T17:02:57.221140+00:00
+ - user: None
+ - tags: []
+
+## SFGATE: San Francisco Bay Area News, Sports, Culture, Travel, Food and Drink
+ - [https://www.sfgate.com](https://www.sfgate.com)
+ - date published: 2023-10-25T11:06:19.429757+00:00
+ - user: None
+ - tags: []
+
+## Science Fiction Poetry Association
+ - [https://www.sfpoetry.com](https://www.sfpoetry.com)
+ - date published: 2023-11-15T17:37:47.910164+00:00
+ - user: None
+ - tags: ['scifi', 'sci-fi']
+
+## The San Francisco Standard
+ - [https://sfstandard.com](https://sfstandard.com)
+ - date published: 2023-10-25T10:16:18.496044+00:00
+ - user: None
+ - tags: []
+
+## San Francisco YIMBY
+ - [https://sfyimby.com](https://sfyimby.com)
+ - date published: 2023-10-25T17:03:07.889213+00:00
+ - user: None
+ - tags: []
+
+## sglavoie.com
+ - [https://www.sglavoie.com](https://www.sglavoie.com)
+ - date published: 2023-11-16T09:28:41.834908+00:00
+ - user: None
+ - tags: []
+
 ## Shacknews | Video Game Video Reviews, Celebrity Interviews, Strategy Videos, Original Content and More
  - [https://www.shacknews.com](https://www.shacknews.com)
  - date published: 2023-10-25T10:50:12.343927+00:00
@@ -607,6 +865,12 @@
 ## skagmo.com
  - [https://skagmo.com](https://skagmo.com)
  - date published: 2023-10-27T11:55:42.413804+00:00
+ - user: None
+ - tags: []
+
+## Grzegorz Skaruz - Senior Salesforce Developer / Consultant
+ - [https://skaruz.com](https://skaruz.com)
+ - date published: 2024-01-02T18:29:22.786773+00:00
  - user: None
  - tags: []
 
@@ -4313,6 +4577,12 @@
  - user: None
  - tags: ['substack']
 
+## How the Hell | Sergey Alexashenko | Substack
+ - [https://sergey.substack.com](https://sergey.substack.com)
+ - date published: 2024-01-02T17:12:43.011740+00:00
+ - user: None
+ - tags: []
+
 ## Seymour Hersh | Substack
  - [https://seymourhersh.substack.com](https://seymourhersh.substack.com)
  - date published: 2023-10-25T10:03:20.073223+00:00
@@ -4594,6 +4864,12 @@
  - date published: 2023-10-25T10:06:54.506330+00:00
  - user: None
  - tags: ['substack']
+
+## Turing Talks | Manish Shivanandhan | Substack
+ - [https://turingtalks.substack.com](https://turingtalks.substack.com)
+ - date published: 2024-01-02T08:43:07.890129+00:00
+ - user: None
+ - tags: []
 
 ## Tyler’s Substack | Tyler Glaiel | Substack
  - [https://tylerglaiel.substack.com](https://tylerglaiel.substack.com)
@@ -5309,6 +5585,12 @@
  - user: None
  - tags: []
 
+## Tangentsoft
+ - [https://tangentsoft.com](https://tangentsoft.com)
+ - date published: 2024-01-02T12:57:07.680688+00:00
+ - user: None
+ - tags: []
+
 ## Tank Historia: The Ultimate Online Resource for Tanks and Armor
  - [https://tankhistoria.com](https://tankhistoria.com)
  - date published: 2023-10-25T17:23:08.583204+00:00
@@ -5714,288 +5996,6 @@
 ## ABQ Techzonics Tech Superstore - Electronic,Scientific,Industrial
  - [https://techzonics.com](https://techzonics.com)
  - date published: 2023-10-25T17:25:56.943934+00:00
- - user: None
- - tags: []
-
-## TED: Ideas Worth Spreading
- - [https://www.ted.com](https://www.ted.com)
- - date published: 2023-10-25T17:26:06.996712+00:00
- - user: None
- - tags: []
-
-## Teddy Zetterlund – Product Coach
- - [https://teddyzetterlund.com](https://teddyzetterlund.com)
- - date published: 2023-11-29T17:13:59.532978+00:00
- - user: None
- - tags: ['personal']
-
-## Attention Required! | Cloudflare
- - [https://www.tedeytan.com](https://www.tedeytan.com)
- - date published: 2023-12-27T01:10:34.556213+00:00
- - user: None
- - tags: ['personal']
-
-## I’m a reliable product designer and front-end developer working on websites, applications, and HTML emails. | Ted Goas
- - [https://www.tedgoas.com](https://www.tedgoas.com)
- - date published: 2023-10-25T09:21:10.808694+00:00
- - user: None
- - tags: ['personal']
-
-## flak
- - [https://flak.tedunangst.com](https://flak.tedunangst.com)
- - date published: 2023-10-25T17:26:08.173750+00:00
- - user: None
- - tags: []
-
-## The Stone and the Shell – Using large digital libraries to advance  literary history
- - [https://tedunderwood.com](https://tedunderwood.com)
- - date published: 2023-10-25T17:26:17.888935+00:00
- - user: None
- - tags: []
-
-## Teejay VanSlyke
- - [http://teejayvanslyke.com](http://teejayvanslyke.com)
- - date published: 2023-12-23T03:00:36.749123+00:00
- - user: None
- - tags: ['personal']
-
-## Teen Vogue: Fashion, Beauty, Entertainment News for Teens | Teen Vogue
- - [https://www.teenvogue.com](https://www.teenvogue.com)
- - date published: 2023-10-25T17:26:19.996429+00:00
- - user: None
- - tags: []
-
-## teesche.com
- - [https://www.teesche.com](https://www.teesche.com)
- - date published: 2023-12-25T04:56:35.952703+00:00
- - user: None
- - tags: ['personal']
-
-## Create with Spring, sell on social - Spring. For creators.
- - [https://teespring.com](https://teespring.com)
- - date published: 2023-12-11T17:45:33.713090+00:00
- - user: None
- - tags: []
-
-## Teflon™ Home | Teflon™ Fluoropolymers
- - [https://www.teflon.com](https://www.teflon.com)
- - date published: 2023-11-05T16:32:38.956419+00:00
- - user: None
- - tags: []
-
-## TelecomTV | Where Telecoms Connects – 5G, Open Source, SDN, NFV
- - [https://www.telecomtv.com](https://www.telecomtv.com)
- - date published: 2023-10-25T17:26:27.343477+00:00
- - user: None
- - tags: []
-
-## Telefunc
- - [https://telefunc.com](https://telefunc.com)
- - date published: 2023-10-25T17:26:28.348990+00:00
- - user: None
- - tags: []
-
-## Submarine Cable Map 2023
- - [https://submarine-cable-map-2023.telegeography.com](https://submarine-cable-map-2023.telegeography.com)
- - date published: 2023-12-02T07:55:04+00:00
- - user: None
- - tags: []
-
-## Teleprompter Mirror | Beamsplitter & Teleprompter Software
- - [https://telepromptermirror.com](https://telepromptermirror.com)
- - date published: 2023-10-25T17:26:33.807422+00:00
- - user: None
- - tags: []
-
-## Telerik & Kendo UI - .NET Components Suites & JavaScript UI Libraries
- - [https://www.telerik.com](https://www.telerik.com)
- - date published: 2023-10-25T17:26:36.939420+00:00
- - user: None
- - tags: []
-
-## Teller Report
- - [https://www.tellerreport.com](https://www.tellerreport.com)
- - date published: 2023-10-25T17:26:40.471754+00:00
- - user: None
- - tags: []
-
-## BBS Still Exist
- - [https://www.telnetbbsguide.com](https://www.telnetbbsguide.com)
- - date published: 2023-11-03T23:29:11+00:00
- - user: None
- - tags: []
-
-## Web Templates | HTML5 Website Templates | Web Graphics
- - [https://www.templatemonster.com](https://www.templatemonster.com)
- - date published: 2023-12-13T15:53:04.783202+00:00
- - user: None
- - tags: []
-
-## Tempus Ex Blog
- - [https://blog.tempus-ex.com](https://blog.tempus-ex.com)
- - date published: 2023-10-25T17:26:41.521155+00:00
- - user: None
- - tags: []
-
-## Tenacious D - The Official Website!
- - [https://tenaciousd.com](https://tenaciousd.com)
- - date published: 2023-11-01T09:33:17.217029+00:00
- - user: None
- - tags: ['music band']
-
-## Tenderlove Making |  tenderlovemaking.com
- - [https://tenderlovemaking.com](https://tenderlovemaking.com)
- - date published: 2023-10-25T17:26:44.547477+00:00
- - user: None
- - tags: []
-
-## TenderOwl
- - [https://tenderowl.com](https://tenderowl.com)
- - date published: 2023-10-25T17:26:45.249090+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.tennessean.com](https://www.tennessean.com)
- - date published: 2023-12-10T00:52:46.601551+00:00
- - user: None
- - tags: []
-
-## Tenzir
- - [https://docs.tenzir.com](https://docs.tenzir.com)
- - date published: 2023-10-25T17:26:46.083579+00:00
- - user: None
- - tags: []
-
-## Terminal Trove – A collection of CLIs, TUIs and all things in the terminal
- - [https://terminaltrove.com](https://terminaltrove.com)
- - date published: 2023-12-11T21:02:20+00:00
- - user: None
- - tags: []
-
-## TerminusDB - Made for developers who see the value of data
- - [https://terminusdb.com](https://terminusdb.com)
- - date published: 2023-10-25T17:26:59.630117+00:00
- - user: None
- - tags: []
-
-## Life Hacks and Technology Solutions for the Modern Musician
- - [https://teropotila.com](https://teropotila.com)
- - date published: 2023-12-21T08:23:31.688801+00:00
- - user: None
- - tags: ['personal']
-
-## Terrapin Attack for prefix truncation in SSH
- - [https://terrapin-attack.com](https://terrapin-attack.com)
- - date published: 2023-12-18T16:47:14+00:00
- - user: None
- - tags: []
-
-## Terrastruct
- - [https://terrastruct.com](https://terrastruct.com)
- - date published: 2023-10-27T08:52:26.171059+00:00
- - user: None
- - tags: []
-
-## Terrastruct | Diagramming tools crafted to visualize software architecture
- - [https://www.terrastruct.com](https://www.terrastruct.com)
- - date published: 2023-10-25T17:27:01.530729+00:00
- - user: None
- - tags: []
-
-## Terrible Book Club
- - [https://terriblebookclub.com](https://terriblebookclub.com)
- - date published: 2023-11-24T06:04:10.754968+00:00
- - user: None
- - tags: []
-
-## Terrible real estate agent photographs
- - [https://terriblerealestateagentphotos.com](https://terriblerealestateagentphotos.com)
- - date published: 2023-10-25T17:27:04.177363+00:00
- - user: None
- - tags: []
-
-## Tesla | Developer
- - [https://developer.tesla.com](https://developer.tesla.com)
- - date published: 2023-10-25T17:27:05.491866+00:00
- - user: None
- - tags: []
-
-## Tesla Investor Relations
- - [https://ir.tesla.com](https://ir.tesla.com)
- - date published: 2023-10-25T17:27:09.938562+00:00
- - user: None
- - tags: []
-
-## Electric Cars, Solar & Clean Energy | Tesla
- - [https://www.tesla.com](https://www.tesla.com)
- - date published: 2023-10-25T17:27:12.705475+00:00
- - user: None
- - tags: ['electric cars']
-
-## Tesla Motors Club
- - [https://teslamotorsclub.com](https://teslamotorsclub.com)
- - date published: 2023-11-05T01:07:09.607810+00:00
- - user: None
- - tags: []
-
-## Tesla North – EV and Tesla News, SpaceX, Elon Musk and More - TeslaNorth.com
- - [https://teslanorth.com](https://teslanorth.com)
- - date published: 2023-10-25T17:27:16.707356+00:00
- - user: None
- - tags: []
-
-## Tesla News, Tips, Rumors, and Reviews
- - [https://www.teslarati.com](https://www.teslarati.com)
- - date published: 2023-10-25T17:27:19.960483+00:00
- - user: None
- - tags: []
-
-## Home | Tesorio
- - [https://www.tesorio.com](https://www.tesorio.com)
- - date published: 2023-10-25T17:27:21.250370+00:00
- - user: None
- - tags: []
-
-## TESR Skywind - Home
- - [https://tesrskywind.com](https://tesrskywind.com)
- - date published: 2023-10-25T11:17:17.551364+00:00
- - user: None
- - tags: []
-
-## TESSIE SANTIAGO
- - [https://www.tessiesantiagoart.com](https://www.tessiesantiagoart.com)
- - date published: 2023-10-25T17:27:22.119122+00:00
- - user: None
- - tags: []
-
-## Test Double | Blog | Articles and Screencasts
- - [https://blog.testdouble.com](https://blog.testdouble.com)
- - date published: 2023-10-25T17:27:24.348664+00:00
- - user: None
- - tags: []
-
-## Texas Monthly – The National Magazine of Texas
- - [https://www.texasmonthly.com](https://www.texasmonthly.com)
- - date published: 2023-10-25T11:06:35.427848+00:00
- - user: None
- - tags: []
-
-## Text to diagram
- - [https://text-to-diagram.com](https://text-to-diagram.com)
- - date published: 2023-10-25T17:27:30.474856+00:00
- - user: None
- - tags: []
-
-## T E X T F I L E S D O T C O M
- - [http://textfiles.com](http://textfiles.com)
- - date published: 2023-10-25T17:27:38.063116+00:00
- - user: None
- - tags: []
-
-## T E X T F I L E S D O T C O M
- - [http://www.textfiles.com](http://www.textfiles.com)
- - date published: 2023-10-25T17:27:38.764706+00:00
  - user: None
  - tags: []
 

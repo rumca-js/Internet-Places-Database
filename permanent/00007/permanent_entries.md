@@ -1,3 +1,243 @@
+## Patreon | News | Home
+ - [https://blog.patreon.com](https://blog.patreon.com)
+ - date published: 2023-10-25T11:32:44.994110+00:00
+ - user: None
+ - tags: []
+
+## Home — Patreon
+ - [https://patreon.com](https://patreon.com)
+ - date published: 2023-12-11T17:25:04.928912+00:00
+ - user: None
+ - tags: []
+
+## Home — Patreon
+ - [https://www.patreon.com](https://www.patreon.com)
+ - date published: 2023-10-25T11:34:19.134811+00:00
+ - user: None
+ - tags: ['crowdfunding']
+
+## Max  FitzGerald  | Patreon
+ - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
+ - date published: 2023-10-27T15:07:52+00:00
+ - user: rumpel
+ - tags: ['tabletop games', 'turnip28']
+
+## Home · Patrick Collison
+ - [https://patrickcollison.com](https://patrickcollison.com)
+ - date published: 2023-10-25T08:47:23.257678+00:00
+ - user: None
+ - tags: ['personal']
+
+## Patrick Conway
+ - [https://patrickconway.com](https://patrickconway.com)
+ - date published: 2023-11-29T16:18:59.190945+00:00
+ - user: None
+ - tags: ['personal']
+
+## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
+ - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
+ - date published: 2023-12-21T08:24:19.074982+00:00
+ - user: None
+ - tags: ['personal']
+
+## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
+ - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
+ - date published: 2023-12-23T07:30:12.092026+00:00
+ - user: None
+ - tags: ['personal']
+
+## Patrick Yandell
+ - [https://patrickyandell.com](https://patrickyandell.com)
+ - date published: 2023-11-29T14:24:18.301040+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.paudal.com](https://www.paudal.com)
+ - date published: 2023-12-22T12:44:01.911776+00:00
+ - user: None
+ - tags: []
+
+## Paul Graham AI
+ - [https://www.paulgrahamai.com](https://www.paulgrahamai.com)
+ - date published: 2023-10-25T16:31:25.983543+00:00
+ - user: None
+ - tags: []
+
+## | Paul Halme |
+ - [https://paulhalme.com](https://paulhalme.com)
+ - date published: 2023-12-24T02:30:12.909224+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paul Irish
+ - [https://www.paulirish.com](https://www.paulirish.com)
+ - date published: 2023-10-25T09:26:01.615259+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paulo Matsui
+ - [https://www.paulomatsui.com](https://www.paulomatsui.com)
+ - date published: 2023-12-19T03:01:56.181563+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paul Onteri
+ - [https://paulonteri.com](https://paulonteri.com)
+ - date published: 2023-12-12T07:04:24.427551+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paul Pedrazzi
+ - [https://paulpedrazzi.com](https://paulpedrazzi.com)
+ - date published: 2023-12-22T17:48:50.877726+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paul Plowman
+ - [https://paulplowman.com](https://paulplowman.com)
+ - date published: 2023-10-25T16:31:26.762919+00:00
+ - user: None
+ - tags: []
+
+## Paul Robert Lloyd
+ - [https://paulrobertlloyd.com](https://paulrobertlloyd.com)
+ - date published: 2023-10-25T16:31:27.499225+00:00
+ - user: None
+ - tags: []
+
+## Paul's Down-Home Page | If you're reading it, it's for you
+ - [https://paulrobichaux.com](https://paulrobichaux.com)
+ - date published: 2023-12-15T11:15:24.587650+00:00
+ - user: None
+ - tags: ['personal']
+
+## Technology, Design and Photography — PaulStamatiou.com
+ - [https://paulstamatiou.com](https://paulstamatiou.com)
+ - date published: 2023-10-25T09:26:02.596314+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paul Sufka M.D.
+ - [https://paulsufka.com](https://paulsufka.com)
+ - date published: 2023-12-03T15:55:12.196062+00:00
+ - user: None
+ - tags: ['personal']
+
+## Pavel Panchekha
+ - [https://pavpanchekha.com](https://pavpanchekha.com)
+ - date published: 2023-10-25T16:31:28.802817+00:00
+ - user: None
+ - tags: []
+
+## Rails, PostgreSQL Performance Audit and Tuning Consultant for Hire
+ - [https://pawelurbanek.com](https://pawelurbanek.com)
+ - date published: 2023-10-25T16:31:35.547056+00:00
+ - user: None
+ - tags: []
+
+## P.O.D. | The Official Website
+ - [https://payableondeath.com](https://payableondeath.com)
+ - date published: 2023-10-30T15:39:18.619441+00:00
+ - user: None
+ - tags: ['music band']
+
+## Paychex: Payroll & HR Solutions
+ - [https://www.paychex.com](https://www.paychex.com)
+ - date published: 2023-10-25T16:31:40.359186+00:00
+ - user: None
+ - tags: []
+
+## Payload - We cover the business and policy of space.
+ - [https://payloadspace.com](https://payloadspace.com)
+ - date published: 2023-10-25T16:31:46.185011+00:00
+ - user: None
+ - tags: []
+
+## E-płatności, wysyłaj pieniądze i akceptuj płatności | PayPal PL
+ - [https://www.paypal.com](https://www.paypal.com)
+ - date published: 2023-10-25T08:26:52.063948+00:00
+ - user: None
+ - tags: ['banking']
+
+## PayPal Status Page
+ - [https://www.paypal-status.com](https://www.paypal-status.com)
+ - date published: 2023-10-25T08:26:54.739488+00:00
+ - user: None
+ - tags: []
+
+## 403
+ - [https://www.paypalobjects.com](https://www.paypalobjects.com)
+ - date published: 2023-10-25T16:31:48.214530+00:00
+ - user: None
+ - tags: []
+
+## Paul Kafasis
+ - [https://pbones.com](https://pbones.com)
+ - date published: 2023-12-23T07:30:37.057666+00:00
+ - user: None
+ - tags: ['personal']
+
+## PC Builder AI
+ - [https://www.pcbuilderai.com](https://www.pcbuilderai.com)
+ - date published: 2023-10-25T16:31:48.907547+00:00
+ - user: None
+ - tags: []
+
+## PC Gamer
+ - [https://www.pcgamer.com](https://www.pcgamer.com)
+ - date published: 2023-10-25T10:49:45.933777+00:00
+ - user: None
+ - tags: []
+
+## PCGamesN | PC gaming news, reviews, and guides
+ - [https://www.pcgamesn.com](https://www.pcgamesn.com)
+ - date published: 2023-10-25T10:49:52.311261+00:00
+ - user: None
+ - tags: ['game news']
+
+## Intro: P.C. Maffey
+ - [https://pcmaffey.com](https://pcmaffey.com)
+ - date published: 2023-10-25T08:47:24.013987+00:00
+ - user: None
+ - tags: ['personal']
+
+## PCMag.com - Technology Product Reviews, News, Prices & Tips
+ - [https://uk.pcmag.com](https://uk.pcmag.com)
+ - date published: 2023-10-25T09:34:32.882984+00:00
+ - user: None
+ - tags: []
+
+## The Latest Technology Product Reviews, News, Tips, and Deals | PCMag
+ - [https://www.pcmag.com](https://www.pcmag.com)
+ - date published: 2023-10-25T09:34:47.167027+00:00
+ - user: None
+ - tags: []
+
+## The Starman's Realm
+ - [https://thestarman.pcministry.com](https://thestarman.pcministry.com)
+ - date published: 2023-10-25T16:31:49.593366+00:00
+ - user: None
+ - tags: []
+
+## PCWorld
+ - [https://www.pcworld.com](https://www.pcworld.com)
+ - date published: 2023-10-25T09:34:49.726201+00:00
+ - user: None
+ - tags: []
+
+## PDF Differ — Compare the differences between two pdfs
+ - [https://pdfdiffer.com](https://pdfdiffer.com)
+ - date published: 2023-10-25T16:31:51.020705+00:00
+ - user: None
+ - tags: []
+
+## Easy to use free PDF tools online - pdfux
+ - [https://pdfux.com](https://pdfux.com)
+ - date published: 2023-10-25T16:31:51.991250+00:00
+ - user: None
+ - tags: []
+
 ## Unavailable In Your Region
  - [https://www.peacocktv.com](https://www.peacocktv.com)
  - date published: 2023-11-03T17:34:06.995031+00:00
@@ -2728,6 +2968,12 @@ More!
  - user: None
  - tags: []
 
+## Home Page
+ - [https://rasulkireev.com](https://rasulkireev.com)
+ - date published: 2024-01-02T18:28:31.441341+00:00
+ - user: None
+ - tags: []
+
 ## Home - ratfactor
  - [https://ratfactor.com](https://ratfactor.com)
  - date published: 2023-10-25T16:46:22.037973+00:00
@@ -3724,6 +3970,12 @@ More!
  - user: None
  - tags: []
 
+## Richard Lucas
+ - [https://www.richardlucas.com](https://www.richardlucas.com)
+ - date published: 2024-01-02T10:19:40.499602+00:00
+ - user: None
+ - tags: []
+
 ## https://richardthames.com
  - [https://richardthames.com](https://richardthames.com)
  - date published: 2023-12-02T10:25:48.205930+00:00
@@ -4627,6 +4879,12 @@ More!
 ## Ruud van Asseldonk
  - [https://ruudvanasseldonk.com](https://ruudvanasseldonk.com)
  - date published: 2023-10-25T16:55:42.115868+00:00
+ - user: None
+ - tags: []
+
+## Ryan Schachte's Blog
+ - [https://ryan-schachte.com](https://ryan-schachte.com)
+ - date published: 2024-01-02T17:12:24.514748+00:00
  - user: None
  - tags: []
 
@@ -5749,264 +6007,6 @@ More!
 ## Seeking Alpha | Stock Market Analysis & Tools for Investors
  - [https://seekingalpha.com](https://seekingalpha.com)
  - date published: 2023-10-25T17:01:28.875847+00:00
- - user: None
- - tags: []
-
-## Software Development Tools by SEGGER – The Embedded Experts
- - [https://www.segger.com](https://www.segger.com)
- - date published: 2023-10-25T17:01:38.604350+00:00
- - user: None
- - tags: []
-
-## Segment Anything | Meta AI
- - [https://segment-anything.com](https://segment-anything.com)
- - date published: 2023-10-25T17:01:39.445324+00:00
- - user: None
- - tags: []
-
-## Seinfeld - A site for all of us Seinfeld Fans!
- - [https://www.seinfeldscripts.com](https://www.seinfeldscripts.com)
- - date published: 2023-10-25T17:01:41.058524+00:00
- - user: None
- - tags: []
-
-## Seldo.com
- - [https://seldo.com](https://seldo.com)
- - date published: 2023-10-25T17:01:43.879007+00:00
- - user: None
- - tags: []
-
-## The Open Web
- - [https://seldomlogical.com](https://seldomlogical.com)
- - date published: 2023-11-29T15:46:15.297293+00:00
- - user: None
- - tags: ['personal']
-
-## Sam's Blog
- - [https://selectfromwhereand.com](https://selectfromwhereand.com)
- - date published: 2023-11-19T07:59:28.405717+00:00
- - user: None
- - tags: ['personal']
-
-## Semafor - An intelligent, transparent global news platform for breaking stories, analysis and video
- - [https://www.semafor.com](https://www.semafor.com)
- - date published: 2023-10-25T10:38:55.032682+00:00
- - user: None
- - tags: []
-
-## Continuous Integration & Delivery - Semaphore
- - [https://semaphoreci.com](https://semaphoreci.com)
- - date published: 2023-10-25T17:01:46.828627+00:00
- - user: None
- - tags: []
-
-## SemiAnalysis | Dylan Patel | Substack
- - [https://www.semianalysis.com](https://www.semianalysis.com)
- - date published: 2023-10-25T17:01:49.736351+00:00
- - user: None
- - tags: []
-
-## Semiconductor Engineering - Deep Insights For Chip Engineers
- - [https://semiengineering.com](https://semiengineering.com)
- - date published: 2023-10-25T17:01:53.874840+00:00
- - user: None
- - tags: []
-
-## SemiWiki - All Things Semiconductor!
- - [https://semiwiki.com](https://semiwiki.com)
- - date published: 2023-10-25T17:02:04.737377+00:00
- - user: None
- - tags: []
-
-## Sennheiser — Headphones, Microphones, Wireless Systems
- - [https://en-us.sennheiser.com](https://en-us.sennheiser.com)
- - date published: 2023-10-30T18:21:56.549124+00:00
- - user: None
- - tags: ['audio']
-
-## Sennheiser — Headphones, Microphones, Wireless Systems
- - [https://sennheiser.com](https://sennheiser.com)
- - date published: 2023-10-30T18:22:42.525350+00:00
- - user: None
- - tags: ['company', 'audio']
-
-## SenseGlove | Feel the virtual like it’s real
- - [https://www.senseglove.com](https://www.senseglove.com)
- - date published: 2023-11-27T16:17:59+00:00
- - user: rumpel
- - tags: ['virtual reality']
-
-## Separate Concerns
- - [https://blog.separateconcerns.com](https://blog.separateconcerns.com)
- - date published: 2023-10-25T09:26:06.936644+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Sequoia
- - [https://www.sequoiacap.com](https://www.sequoiacap.com)
- - date published: 2023-10-25T08:26:15.206357+00:00
- - user: None
- - tags: []
-
-## Serah B. Fredericks
- - [https://www.serahbfredericks.com](https://www.serahbfredericks.com)
- - date published: 2023-12-17T05:07:50.588357+00:00
- - user: None
- - tags: ['personal']
-
-## Seraph Secure: anti-scam software co-founded by Kitboga
- - [https://www.seraphsecure.com](https://www.seraphsecure.com)
- - date published: 2023-12-01T19:55:21+00:00
- - user: None
- - tags: []
-
-## Home | Campbell Jones
- - [https://serebit.com](https://serebit.com)
- - date published: 2023-10-25T17:02:05.830940+00:00
- - user: None
- - tags: []
-
-## Latin American VC
- - [https://serebrisky.com](https://serebrisky.com)
- - date published: 2023-12-25T17:23:52.303533+00:00
- - user: None
- - tags: []
-
-## Atlas Alpha: Your Source for Cutting-Edge Tech News and Updates
- - [https://atlasalpha.serenebase.com](https://atlasalpha.serenebase.com)
- - date published: 2023-10-25T17:02:07.368934+00:00
- - user: None
- - tags: []
-
-## Affinity – Professional Creative Software
- - [https://affinity.serif.com](https://affinity.serif.com)
- - date published: 2023-10-25T17:02:09.216110+00:00
- - user: None
- - tags: []
-
-## Serious Eats
- - [https://www.seriouseats.com](https://www.seriouseats.com)
- - date published: 2023-10-25T17:02:11.867889+00:00
- - user: None
- - tags: []
-
-## Search Engine Roundtable ::: The Pulse Of The Search Marketing Community
- - [https://www.seroundtable.com](https://www.seroundtable.com)
- - date published: 2023-10-25T17:02:14.125409+00:00
- - user: None
- - tags: []
-
-## SerpApi: Google Search API
- - [https://serpapi.com](https://serpapi.com)
- - date published: 2023-10-25T17:02:15.903948+00:00
- - user: None
- - tags: []
-
-## Server Fault
- - [https://serverfault.com](https://serverfault.com)
- - date published: 2023-10-25T17:02:23.306221+00:00
- - user: None
- - tags: []
-
-## ServeTheHome Server Storage and Networking Reviews
- - [https://www.servethehome.com](https://www.servethehome.com)
- - date published: 2023-10-25T17:02:27.165383+00:00
- - user: None
- - tags: []
-
-## Sesquiotica | Words, words, words
- - [https://sesquiotic.com](https://sesquiotic.com)
- - date published: 2023-10-25T17:02:31.243228+00:00
- - user: None
- - tags: []
-
-## set-inform.com | Adventures in Ubiquiti Routing and Switching
- - [https://set-inform.com](https://set-inform.com)
- - date published: 2023-10-25T17:02:35.226495+00:00
- - user: None
- - tags: []
-
-## Seth Ariel Green's website
- - [https://setharielgreen.com](https://setharielgreen.com)
- - date published: 2023-10-25T17:02:35.994039+00:00
- - user: None
- - tags: []
-
-## Happy Warrior by Seth Bannon | Substack
- - [https://www.sethbannon.com](https://www.sethbannon.com)
- - date published: 2023-10-25T17:02:37.932924+00:00
- - user: None
- - tags: []
-
-## Seth Perler
- - [https://sethperler.com](https://sethperler.com)
- - date published: 2023-12-17T05:07:38.335997+00:00
- - user: None
- - tags: ['personal']
-
-## Go away, the cloud is full
- - [http://www.sevangelatos.com](http://www.sevangelatos.com)
- - date published: 2023-10-25T17:02:39.146947+00:00
- - user: None
- - tags: []
-
-## Sevish – electronic microtonal music
- - [https://sevish.com](https://sevish.com)
- - date published: 2023-10-25T17:02:41.671400+00:00
- - user: None
- - tags: []
-
-## Sex, Drugs, and Suicide | Jeff Clark, MD | Substack
- - [https://www.sexdrugsandsuicide.com](https://www.sexdrugsandsuicide.com)
- - date published: 2023-10-25T17:02:43.133456+00:00
- - user: None
- - tags: []
-
-## San Francisco Chronicle - Bay Area news, sports, tech, food - San Francisco Chronicle
- - [https://www.sfchronicle.com](https://www.sfchronicle.com)
- - date published: 2023-10-25T17:02:52.832420+00:00
- - user: None
- - tags: []
-
-## The San Francisco Compute Company
- - [https://sfcompute.com](https://sfcompute.com)
- - date published: 2023-11-14T03:36:57.945860+00:00
- - user: None
- - tags: []
-
-## San Francisco Examiner
- - [https://www.sfexaminer.com](https://www.sfexaminer.com)
- - date published: 2023-10-25T17:02:57.221140+00:00
- - user: None
- - tags: []
-
-## SFGATE: San Francisco Bay Area News, Sports, Culture, Travel, Food and Drink
- - [https://www.sfgate.com](https://www.sfgate.com)
- - date published: 2023-10-25T11:06:19.429757+00:00
- - user: None
- - tags: []
-
-## Science Fiction Poetry Association
- - [https://www.sfpoetry.com](https://www.sfpoetry.com)
- - date published: 2023-11-15T17:37:47.910164+00:00
- - user: None
- - tags: ['scifi', 'sci-fi']
-
-## The San Francisco Standard
- - [https://sfstandard.com](https://sfstandard.com)
- - date published: 2023-10-25T10:16:18.496044+00:00
- - user: None
- - tags: []
-
-## San Francisco YIMBY
- - [https://sfyimby.com](https://sfyimby.com)
- - date published: 2023-10-25T17:03:07.889213+00:00
- - user: None
- - tags: []
-
-## sglavoie.com
- - [https://www.sglavoie.com](https://www.sglavoie.com)
- - date published: 2023-11-16T09:28:41.834908+00:00
  - user: None
  - tags: []
 

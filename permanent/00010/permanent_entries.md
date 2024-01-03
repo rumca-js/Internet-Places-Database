@@ -1,3 +1,291 @@
+## Error
+ - [https://whatsapp.com](https://whatsapp.com)
+ - date published: 2023-11-01T09:36:41.682769+00:00
+ - user: None
+ - tags: ['social communicator']
+
+## Whatsapp
+ - [https://www.whatsapp.com](https://www.whatsapp.com)
+ - date published: 2023-10-25T13:24:38+00:00
+ - user: rumpel
+ - tags: ['gatekeeper', 'social communicator']
+
+## Home - Boston News, Weather, Sports | WHDH 7News
+ - [https://whdh.com](https://whdh.com)
+ - date published: 2023-12-22T21:44:15.537640+00:00
+ - user: None
+ - tags: []
+
+## WHDownLoad
+ - [https://www.whdownload.com](https://www.whdownload.com)
+ - date published: 2023-10-27T14:30:25.747347+00:00
+ - user: None
+ - tags: ['emulation', 'amiga', 'roms']
+
+## Wheatdesign.com
+ - [https://wheatdesign.com](https://wheatdesign.com)
+ - date published: 2023-12-27T01:05:53.415461+00:00
+ - user: None
+ - tags: ['personal']
+
+## News10NBC
+ - [https://www.whec.com](https://www.whec.com)
+ - date published: 2023-11-12T18:45:25.297898+00:00
+ - user: None
+ - tags: []
+
+## Veteran Owned Strategic Marketing & SEO Consulting Firm Providing Training for Teams & Implementation
+ - [https://www.wheelerconsultingco.com](https://www.wheelerconsultingco.com)
+ - date published: 2023-12-08T09:38:21.228464+00:00
+ - user: None
+ - tags: ['personal']
+
+## When is the week end?
+ - [https://whenistheweekend.com](https://whenistheweekend.com)
+ - date published: 2023-11-29T19:50:25.506110+00:00
+ - user: None
+ - tags: []
+
+## Which Face Is Real?
+ - [https://www.whichfaceisreal.com](https://www.whichfaceisreal.com)
+ - date published: 2023-10-25T18:03:39.608286+00:00
+ - user: None
+ - tags: []
+
+## David J. Pearce
+ - [https://whileydave.com](https://whileydave.com)
+ - date published: 2023-10-25T18:03:41.534311+00:00
+ - user: None
+ - tags: []
+
+## Whimsy Soul - Find your everyday magic
+ - [https://whimsysoul.com](https://whimsysoul.com)
+ - date published: 2023-10-25T18:03:48.676684+00:00
+ - user: None
+ - tags: []
+
+## Whipsaw: Product Design and Experience Innovation
+ - [https://whipsaw.com](https://whipsaw.com)
+ - date published: 2023-10-25T18:04:05.026714+00:00
+ - user: None
+ - tags: []
+
+## Whisper Memos
+ - [https://whispermemos.com](https://whispermemos.com)
+ - date published: 2023-10-25T18:04:06.690848+00:00
+ - user: None
+ - tags: []
+
+## Closed Captioning Services - White Coat Captioning
+ - [https://whitecoatcaptioning.com](https://whitecoatcaptioning.com)
+ - date published: 2023-10-25T18:04:14.532374+00:00
+ - user: None
+ - tags: []
+
+## Blade Runner White Dragon Cut
+ - [https://whitedragoncut.com](https://whitedragoncut.com)
+ - date published: 2023-11-01T08:43:27.462487+00:00
+ - user: None
+ - tags: []
+
+## Salma Alam-Naylor — live streamer, software engineer and developer educator
+ - [https://whitep4nth3r.com](https://whitep4nth3r.com)
+ - date published: 2023-10-25T18:04:18.275962+00:00
+ - user: None
+ - tags: []
+
+## ✌️ I'm Zoe Chew, Product Builder.
+ - [https://whizzoe.com](https://whizzoe.com)
+ - date published: 2023-10-25T08:58:23.078811+00:00
+ - user: None
+ - tags: ['personal']
+
+## WhoFundsWho – WhoFundsWho instantly shows you who funds the experts, politicians, think tanks and other institutions you are reading about
+ - [https://whofundswho.com](https://whofundswho.com)
+ - date published: 2023-10-25T18:04:21.086464+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.whsv.com](https://www.whsv.com)
+ - date published: 2023-12-28T13:36:21.922652+00:00
+ - user: None
+ - tags: []
+
+## Why.com - Premium category defining domain names for sale, exact match domains
+ - [http://why.com](http://why.com)
+ - date published: 2023-11-12T05:59:10.336738+00:00
+ - user: None
+ - tags: []
+
+## Why Are Things Expensive?
+ - [https://www.why-expensive.com](https://www.why-expensive.com)
+ - date published: 2023-12-18T15:19:30+00:00
+ - user: None
+ - tags: []
+
+## Why Do We Interface?
+ - [https://whydoweinterface.com](https://whydoweinterface.com)
+ - date published: 2023-10-25T18:04:25.390477+00:00
+ - user: None
+ - tags: []
+
+## Why Evolution Is True – Why Evolution is True is a blog written by Jerry Coyne, centered on evolution and biology but also dealing with diverse topics like politics, culture, and cats.
+ - [https://whyevolutionistrue.com](https://whyevolutionistrue.com)
+ - date published: 2023-10-25T18:04:36.858105+00:00
+ - user: None
+ - tags: []
+
+## AWS Wickr | Protecting Communications with End-to-End Encryption
+ - [https://wickr.com](https://wickr.com)
+ - date published: 2023-10-25T18:04:40.910250+00:00
+ - user: None
+ - tags: []
+
+## Catatan Arif
+ - [https://arif.widianto.com](https://arif.widianto.com)
+ - date published: 2023-12-19T19:09:34.109892+00:00
+ - user: None
+ - tags: ['personal']
+
+## WiiLink
+ - [https://www.wiilink24.com](https://www.wiilink24.com)
+ - date published: 2023-10-25T18:04:45.747440+00:00
+ - user: None
+ - tags: []
+
+## Diablo Wiki
+ - [https://diablo.wikia.com](https://diablo.wikia.com)
+ - date published: 2023-12-13T16:08:52.838749+00:00
+ - user: None
+ - tags: []
+
+## Warhammer 40k Wiki
+ - [https://warhammer40k.wikia.com](https://warhammer40k.wikia.com)
+ - date published: 2023-12-13T15:38:55.295725+00:00
+ - user: None
+ - tags: []
+
+## WikiBinge: Discover how all things are vaguely connected.
+ - [https://www.wikibinge.com](https://www.wikibinge.com)
+ - date published: 2023-10-25T18:04:47.548936+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia Speedruns!
+ - [https://wikispeedruns.com](https://wikispeedruns.com)
+ - date published: 2023-10-25T18:04:54.204112+00:00
+ - user: None
+ - tags: []
+
+## Billy Wilcosky
+ - [https://www.wilcosky.com](https://www.wilcosky.com)
+ - date published: 2023-10-25T18:05:03.137920+00:00
+ - user: None
+ - tags: []
+
+## Wildbit: Building a people-first business | Wildbit
+ - [https://wildbit.com](https://wildbit.com)
+ - date published: 2023-10-25T18:05:13.348290+00:00
+ - user: None
+ - tags: []
+
+## What is a Wildcard? | Robert Merki
+ - [https://wildcardpeople.com](https://wildcardpeople.com)
+ - date published: 2023-10-25T18:05:20.188372+00:00
+ - user: None
+ - tags: []
+
+## Wildergarden Audio
+ - [https://wildergardenaudio.com](https://wildergardenaudio.com)
+ - date published: 2023-12-03T18:38:27.732143+00:00
+ - user: None
+ - tags: []
+
+## Wildlife Telecast
+ - [https://www.wildlifetelecast.com](https://www.wildlifetelecast.com)
+ - date published: 2023-12-27T04:43:52.274382+00:00
+ - user: None
+ - tags: []
+
+## Wild Rift Builds & Guides :: WildRiftFire
+ - [https://www.wildriftfire.com](https://www.wildriftfire.com)
+ - date published: 2023-12-13T16:19:43.043237+00:00
+ - user: None
+ - tags: []
+
+## https://acsjournals.onlinelibrary.wiley.com
+ - [https://acsjournals.onlinelibrary.wiley.com](https://acsjournals.onlinelibrary.wiley.com)
+ - date published: 2023-12-18T13:54:11.898210+00:00
+ - user: None
+ - tags: []
+
+## https://agsjournals.onlinelibrary.wiley.com
+ - [https://agsjournals.onlinelibrary.wiley.com](https://agsjournals.onlinelibrary.wiley.com)
+ - date published: 2023-11-08T12:11:17.951453+00:00
+ - user: None
+ - tags: []
+
+## https://agupubs.onlinelibrary.wiley.com
+ - [https://agupubs.onlinelibrary.wiley.com](https://agupubs.onlinelibrary.wiley.com)
+ - date published: 2023-10-25T18:05:22.087600+00:00
+ - user: None
+ - tags: []
+
+## https://alz-journals.onlinelibrary.wiley.com
+ - [https://alz-journals.onlinelibrary.wiley.com](https://alz-journals.onlinelibrary.wiley.com)
+ - date published: 2023-10-25T18:05:29.978998+00:00
+ - user: None
+ - tags: []
+
+## https://ami-journals.onlinelibrary.wiley.com
+ - [https://ami-journals.onlinelibrary.wiley.com](https://ami-journals.onlinelibrary.wiley.com)
+ - date published: 2023-12-02T21:10:55.198296+00:00
+ - user: None
+ - tags: []
+
+## https://anthrosource.onlinelibrary.wiley.com
+ - [https://anthrosource.onlinelibrary.wiley.com](https://anthrosource.onlinelibrary.wiley.com)
+ - date published: 2023-11-23T10:59:41.519476+00:00
+ - user: None
+ - tags: []
+
+## https://bpspsychub.onlinelibrary.wiley.com
+ - [https://bpspsychub.onlinelibrary.wiley.com](https://bpspsychub.onlinelibrary.wiley.com)
+ - date published: 2023-10-31T19:09:57.335556+00:00
+ - user: None
+ - tags: []
+
+## https://compass.onlinelibrary.wiley.com
+ - [https://compass.onlinelibrary.wiley.com](https://compass.onlinelibrary.wiley.com)
+ - date published: 2023-10-25T18:05:30.278884+00:00
+ - user: None
+ - tags: []
+
+## https://faseb.onlinelibrary.wiley.com
+ - [https://faseb.onlinelibrary.wiley.com](https://faseb.onlinelibrary.wiley.com)
+ - date published: 2024-01-01T15:50:10.356314+00:00
+ - user: None
+ - tags: []
+
+## https://febs.onlinelibrary.wiley.com
+ - [https://febs.onlinelibrary.wiley.com](https://febs.onlinelibrary.wiley.com)
+ - date published: 2023-10-25T18:05:30.579131+00:00
+ - user: None
+ - tags: []
+
+## https://iaap-journals.onlinelibrary.wiley.com
+ - [https://iaap-journals.onlinelibrary.wiley.com](https://iaap-journals.onlinelibrary.wiley.com)
+ - date published: 2023-12-29T01:27:25.430295+00:00
+ - user: None
+ - tags: []
+
+## https://myscp.onlinelibrary.wiley.com
+ - [https://myscp.onlinelibrary.wiley.com](https://myscp.onlinelibrary.wiley.com)
+ - date published: 2023-11-07T02:17:31.388440+00:00
+ - user: None
+ - tags: []
+
 ## Newsroom | John Wiley & Sons, Inc.
  - [https://newsroom.wiley.com](https://newsroom.wiley.com)
  - date published: 2023-12-21T15:13:35.167663+00:00
@@ -2788,6 +3076,12 @@
  - user: None
  - tags: []
 
+## Nitter.cz / NoLog.cz
+ - [https://nitter.cz](https://nitter.cz)
+ - date published: 2024-01-02T19:33:46.047119+00:00
+ - user: None
+ - tags: []
+
 ## News from the Czech Republic
  - [https://english.radio.cz](https://english.radio.cz)
  - date published: 2023-12-19T14:00:57.181642+00:00
@@ -4193,6 +4487,12 @@ home
  - user: None
  - tags: ['blog platform']
 
+## Home
+ - [https://www.batra.dev](https://www.batra.dev)
+ - date published: 2024-01-02T10:19:19.331928+00:00
+ - user: None
+ - tags: []
+
 ## Eduardo Bautista
  - [https://www.bautista.dev](https://www.bautista.dev)
  - date published: 2023-10-25T18:35:03.411669+00:00
@@ -4445,6 +4745,12 @@ home
  - user: None
  - tags: []
 
+## Chris Nicholas | Developer experience at Liveblocks
+ - [https://chrisnicholas.dev](https://chrisnicholas.dev)
+ - date published: 2024-01-02T15:32:22.185407+00:00
+ - user: None
+ - tags: []
+
 ## @chrlschn - Charles Chen
  - [https://chrlschn.dev](https://chrlschn.dev)
  - date published: 2023-10-25T18:36:20.354962+00:00
@@ -4634,6 +4940,12 @@ home
 ## DevOps.dev
  - [https://blog.devops.dev](https://blog.devops.dev)
  - date published: 2023-10-25T18:37:21.821387+00:00
+ - user: None
+ - tags: []
+
+## Disane.dev - Personal tech blog
+ - [https://blog.disane.dev](https://blog.disane.dev)
+ - date published: 2024-01-02T05:20:52.454570+00:00
  - user: None
  - tags: []
 
@@ -5151,6 +5463,12 @@ home
 ## LangChain Blog
  - [https://blog.langchain.dev](https://blog.langchain.dev)
  - date published: 2023-10-25T18:39:03.545219+00:00
+ - user: None
+ - tags: []
+
+## Lantern
+ - [https://lantern.dev](https://lantern.dev)
+ - date published: 2024-01-02T20:40:56.829203+00:00
  - user: None
  - tags: []
 
@@ -5681,324 +5999,4 @@ home
  - date published: 2023-10-25T08:58:49.186324+00:00
  - user: None
  - tags: ['personal']
-
-## Richard Taylor
-     · Richard Taylor
- - [https://www.richardtaylor.dev](https://www.richardtaylor.dev)
- - date published: 2023-10-25T18:41:22.096940+00:00
- - user: None
- - tags: []
-
-## Rida F'kih — Developer & Designer
- - [https://www.rida.dev](https://www.rida.dev)
- - date published: 2023-10-25T08:48:57.534022+00:00
- - user: None
- - tags: ['personal']
-
-## River Phillips
- - [https://www.riverphillips.dev](https://www.riverphillips.dev)
- - date published: 2023-11-07T19:56:32.446810+00:00
- - user: None
- - tags: []
-
-## rmkit
- - [https://rmkit.dev](https://rmkit.dev)
- - date published: 2023-10-25T18:41:23.340976+00:00
- - user: None
- - tags: []
-
-## Rocicorp, LLC
- - [https://rocicorp.dev](https://rocicorp.dev)
- - date published: 2023-10-27T11:57:00.995943+00:00
- - user: None
- - tags: []
-
-## Ronin
- - [https://ronin-rb.dev](https://ronin-rb.dev)
- - date published: 2023-10-25T18:41:29.801869+00:00
- - user: None
- - tags: []
-
-## ROT256 : Cryptography & Other Random Bits.
- - [https://rot256.dev](https://rot256.dev)
- - date published: 2023-10-25T18:41:30.428116+00:00
- - user: None
- - tags: []
-
-## ruflas
- - [https://ruflas.dev](https://ruflas.dev)
- - date published: 2023-12-03T09:19:05.397560+00:00
- - user: None
- - tags: ['personal']
-
-## Runme turns your documentation into interactive runbooks
- - [https://runme.dev](https://runme.dev)
- - date published: 2023-10-25T18:41:31.705501+00:00
- - user: None
- - tags: []
-
-## Runno
- - [https://runno.dev](https://runno.dev)
- - date published: 2023-10-25T18:41:32.158796+00:00
- - user: None
- - tags: []
-
-## Blog | Roger Oriol
- - [https://www.ruxu.dev](https://www.ruxu.dev)
- - date published: 2023-10-25T08:58:50.191072+00:00
- - user: None
- - tags: ['personal']
-
-## Ryan Mulligan
- - [https://ryanmulligan.dev](https://ryanmulligan.dev)
- - date published: 2023-10-25T08:58:51.816182+00:00
- - user: None
- - tags: ['personal']
-
-## samwho
- - [https://samwho.dev](https://samwho.dev)
- - date published: 2023-10-25T18:41:32.864182+00:00
- - user: None
- - tags: []
-
-## Home | sancho.dev
- - [https://sancho.dev](https://sancho.dev)
- - date published: 2023-10-25T18:41:38.810711+00:00
- - user: None
- - tags: []
-
-## Sandworm
- - [https://blog.sandworm.dev](https://blog.sandworm.dev)
- - date published: 2023-10-25T18:41:45.058959+00:00
- - user: None
- - tags: []
-
-## Saurabh Thakur
- - [https://saurabhthakur.dev](https://saurabhthakur.dev)
- - date published: 2023-11-29T17:09:57.500467+00:00
- - user: None
- - tags: ['personal']
-
-## the scapegoat dev
- - [https://the.scapegoat.dev](https://the.scapegoat.dev)
- - date published: 2023-10-25T18:41:46.416695+00:00
- - user: None
- - tags: []
-
-## Sebastien Castiel · Developer, writer, indie hacker · 📍 Montreal, QC
- - [https://scastiel.dev](https://scastiel.dev)
- - date published: 2023-10-25T18:41:47.971907+00:00
- - user: None
- - tags: []
-
-## Seán Barry
- - [https://seanbarry.dev](https://seanbarry.dev)
- - date published: 2023-10-25T18:41:53.898962+00:00
- - user: None
- - tags: []
-
-## Selenium
- - [https://www.selenium.dev](https://www.selenium.dev)
- - date published: 2023-12-11T12:52:14+00:00
- - user: rumpel
- - tags: ['web testing']
-
-## Sematic – The open-source ML orchestrator loved by ML teams
- - [https://www.sematic.dev](https://www.sematic.dev)
- - date published: 2023-10-25T18:41:55.378126+00:00
- - user: None
- - tags: []
-
-## Serverpod – The Flutter Backend
- - [https://serverpod.dev](https://serverpod.dev)
- - date published: 2023-10-25T18:41:56.717809+00:00
- - user: None
- - tags: []
-
-## Home | servicer
- - [https://servicer.dev](https://servicer.dev)
- - date published: 2023-10-25T18:41:57.960885+00:00
- - user: None
- - tags: []
-
-## Seth Michael Larson — Python, open source, and the internet
- - [https://sethmlarson.dev](https://sethmlarson.dev)
- - date published: 2023-10-25T08:48:58.444338+00:00
- - user: None
- - tags: ['personal']
-
-## Shayon Mukherjee
- - [https://www.shayon.dev](https://www.shayon.dev)
- - date published: 2023-12-21T17:41:52.153062+00:00
- - user: None
- - tags: []
-
-## ShiftMag
- - [https://shiftmag.dev](https://shiftmag.dev)
- - date published: 2023-11-11T21:40:32.425246+00:00
- - user: None
- - tags: []
-
-## Sideko
- - [https://hacker-news.sideko.dev](https://hacker-news.sideko.dev)
- - date published: 2023-10-25T18:42:00.575012+00:00
- - user: None
- - tags: []
-
-## Sigstore Blog - Sigstore Blog
- - [https://blog.sigstore.dev](https://blog.sigstore.dev)
- - date published: 2023-10-25T18:42:02.108244+00:00
- - user: None
- - tags: []
-
-## Simon Aronsson
- - [https://simme.dev](https://simme.dev)
- - date published: 2023-10-25T08:58:52.820047+00:00
- - user: None
- - tags: ['personal']
-
-## slama.dev
- - [https://slama.dev](https://slama.dev)
- - date published: 2023-10-25T08:58:54.013566+00:00
- - user: None
- - tags: ['personal']
-
-## Home — Isaac Clayton
- - [https://slightknack.dev](https://slightknack.dev)
- - date published: 2023-10-25T08:48:59.054260+00:00
- - user: None
- - tags: ['personal']
-
-## SlimeVR Full-Body Tracker
- - [https://slimevr.dev](https://slimevr.dev)
- - date published: 2023-11-26T21:42:42+00:00
- - user: rumpel
- - tags: ['vr', 'hardware', 'virtual reality']
-
-## Slint |
-            Declarative GUI for Rust, C++ & JavaScript
- - [https://slint.dev](https://slint.dev)
- - date published: 2023-10-25T18:42:03.965621+00:00
- - user: None
- - tags: []
-
-## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date published: 2023-10-25T18:42:09.401241+00:00
- - user: None
- - tags: []
-
-## Software at Scale | Utsav Shah | Substack
- - [https://www.softwareatscale.dev](https://www.softwareatscale.dev)
- - date published: 2023-10-25T18:42:13.034114+00:00
- - user: None
- - tags: []
-
-## Out of the Software Crisis: The Newsletter
- - [https://softwarecrisis.dev](https://softwarecrisis.dev)
- - date published: 2023-10-25T18:42:14.589232+00:00
- - user: None
- - tags: []
-
-## Spaghettify🍝
- - [https://www.spaghettify.dev](https://www.spaghettify.dev)
- - date published: 2023-10-25T18:42:15.749345+00:00
- - user: None
- - tags: []
-
-## The Spicy Web: Vanilla has never tasted so hot.
- - [https://www.spicyweb.dev](https://www.spicyweb.dev)
- - date published: 2023-10-25T18:42:22.583492+00:00
- - user: None
- - tags: []
-
-## SQLSync
- - [https://sqlsync.dev](https://sqlsync.dev)
- - date published: 2023-12-01T17:37:45.763365+00:00
- - user: None
- - tags: []
-
-## Live dashboard of Stripe systems during Black Friday
- - [https://bfcm.stripe.dev](https://bfcm.stripe.dev)
- - date published: 2023-11-24T12:13:21+00:00
- - user: None
- - tags: []
-
-## surma.dev
- - [https://surma.dev](https://surma.dev)
- - date published: 2023-10-25T18:42:23.561265+00:00
- - user: None
- - tags: ['personal']
-
-## Svelte • Cybernetically enhanced web apps
- - [https://svelte.dev](https://svelte.dev)
- - date published: 2023-10-25T18:42:29.946623+00:00
- - user: None
- - tags: []
-
-## Sweep: AI-powered junior dev
- - [https://docs.sweep.dev](https://docs.sweep.dev)
- - date published: 2023-10-25T18:42:31.067579+00:00
- - user: None
- - tags: []
-
-## Tabserve - A HTTPS URL for localhost using just your browser
- - [https://tabserve.dev](https://tabserve.dev)
- - date published: 2023-10-25T18:42:31.690445+00:00
- - user: None
- - tags: []
-
-## Tailscale Community
- - [https://tailscale.dev](https://tailscale.dev)
- - date published: 2023-10-25T18:42:33.180270+00:00
- - user: None
- - tags: []
-
-## Tamagui — React Native + Web UI kit
- - [https://tamagui.dev](https://tamagui.dev)
- - date published: 2023-10-25T18:42:39.860419+00:00
- - user: None
- - tags: []
-
-## Redirecting…
- - [https://termux.dev](https://termux.dev)
- - date published: 2023-10-25T18:42:40.262222+00:00
- - user: None
- - tags: []
-
-## thanks.dev – open source funding platform
- - [https://thanks.dev](https://thanks.dev)
- - date published: 2023-10-25T18:42:40.674475+00:00
- - user: None
- - tags: []
-
-## GraphQL – The Guild
- - [https://the-guild.dev](https://the-guild.dev)
- - date published: 2023-10-25T18:42:41.689819+00:00
- - user: None
- - tags: []
-
-## Verma Notes
- - [https://blog.theabhishek.dev](https://blog.theabhishek.dev)
- - date published: 2023-10-25T18:42:42.879233+00:00
- - user: None
- - tags: []
-
-## themer - development environment theme creator
- - [https://themer.dev](https://themer.dev)
- - date published: 2023-10-25T18:42:43.703160+00:00
- - user: None
- - tags: []
-
-## Nile Database
- - [https://www.thenile.dev](https://www.thenile.dev)
- - date published: 2023-11-01T17:47:14.660009+00:00
- - user: None
- - tags: []
-
-## Odyssey
- - [https://theodyssey.dev](https://theodyssey.dev)
- - date published: 2023-10-25T18:42:49.667687+00:00
- - user: None
- - tags: []
 

@@ -1,3 +1,112 @@
+## CULTURE HUSTLE - Online store for the world's artyist art materials
+– Culture Hustle
+ - [https://culturehustle.com](https://culturehustle.com)
+ - date published: 2023-10-25T13:39:19.277909+00:00
+ - user: None
+ - tags: []
+
+## CULTURE HUSTLE US - Online store for the world's artyist art materials
+ - [https://www.culturehustleusa.com](https://www.culturehustleusa.com)
+ - date published: 2023-11-01T03:43:44.979427+00:00
+ - user: None
+ - tags: []
+
+## Massimo Curatella, Strategic Designer, Facilitator.
+ - [https://curatella.com](https://curatella.com)
+ - date published: 2023-12-21T03:31:32.846587+00:00
+ - user: None
+ - tags: ['personal']
+
+## Curbed | A site for city people
+ - [https://www.curbed.com](https://www.curbed.com)
+ - date published: 2023-10-25T13:39:27.544787+00:00
+ - user: None
+ - tags: []
+
+## Curbside Classic -
+ - [https://www.curbsideclassic.com](https://www.curbsideclassic.com)
+ - date published: 2023-10-25T13:39:31.744385+00:00
+ - user: None
+ - tags: []
+
+## Curiosity Of The Day
+ - [https://www.curiosityoftheday.com](https://www.curiosityoftheday.com)
+ - date published: 2023-10-25T13:39:35.930839+00:00
+ - user: None
+ - tags: []
+
+## https://authors.curseforge.com
+ - [https://authors.curseforge.com](https://authors.curseforge.com)
+ - date published: 2023-12-13T16:03:22.878003+00:00
+ - user: None
+ - tags: []
+
+## CurseForge for Studios - Add safe UGC to your game
+ - [https://core.curseforge.com](https://core.curseforge.com)
+ - date published: 2023-12-13T15:56:59.490682+00:00
+ - user: None
+ - tags: []
+
+## https://curseforge.com
+ - [https://curseforge.com](https://curseforge.com)
+ - date published: 2023-12-13T16:03:11.592924+00:00
+ - user: None
+ - tags: []
+
+## https://elerium-static.curseforge.com
+ - [https://elerium-static.curseforge.com](https://elerium-static.curseforge.com)
+ - date published: 2023-12-13T16:02:28.165990+00:00
+ - user: None
+ - tags: []
+
+## CurseForge Support
+ - [https://support.curseforge.com](https://support.curseforge.com)
+ - date published: 2023-12-13T16:02:43.598069+00:00
+ - user: None
+ - tags: []
+
+## https://www.curseforge.com
+ - [https://www.curseforge.com](https://www.curseforge.com)
+ - date published: 2023-10-25T11:16:22.703970+00:00
+ - user: None
+ - tags: []
+
+## Find Answers | NVIDIA
+ - [https://nvidia.custhelp.com](https://nvidia.custhelp.com)
+ - date published: 2023-10-25T13:39:37.817599+00:00
+ - user: None
+ - tags: []
+
+## Customers.com - Trusted Advisors to Customer Centric Executives
+ - [https://www.customers.com](https://www.customers.com)
+ - date published: 2023-10-25T13:39:39.836210+00:00
+ - user: None
+ - tags: []
+
+## Custom Magnetics
+ - [https://www.custommag.com](https://www.custommag.com)
+ - date published: 2023-10-25T13:39:41.904875+00:00
+ - user: None
+ - tags: []
+
+## CVE security vulnerability database. Security vulnerabilities, exploits, references and more
+ - [https://www.cvedetails.com](https://www.cvedetails.com)
+ - date published: 2023-12-03T20:18:31.906949+00:00
+ - user: None
+ - tags: []
+
+## Identity Security and Access Management Leader | CyberArk
+ - [https://www.cyberark.com](https://www.cyberark.com)
+ - date published: 2023-10-25T13:39:46.301517+00:00
+ - user: None
+ - tags: []
+
+## CyberITHub | Inspiring the Next Gen
+ - [https://www.cyberithub.com](https://www.cyberithub.com)
+ - date published: 2023-10-25T13:40:04.009553+00:00
+ - user: None
+ - tags: []
+
 ## https://cybernews.com
  - [https://cybernews.com](https://cybernews.com)
  - date published: 2023-10-25T13:40:05.348254+00:00
@@ -2147,6 +2256,12 @@
  - user: None
  - tags: []
 
+## Home - Double Your Freelancing
+ - [https://doubleyourfreelancing.com](https://doubleyourfreelancing.com)
+ - date published: 2024-01-02T03:35:18.481785+00:00
+ - user: None
+ - tags: []
+
 ## Dr. Doug Belshaw | Open Strategist
  - [https://dougbelshaw.com](https://dougbelshaw.com)
  - date published: 2023-12-22T17:47:45.891466+00:00
@@ -3332,6 +3447,12 @@
 ## Supercharge your mobile apps | Emerge Tools
  - [https://www.emergetools.com](https://www.emergetools.com)
  - date published: 2023-10-25T14:06:59.391184+00:00
+ - user: None
+ - tags: []
+
+## Hacker News Job Search
+ - [https://hnjobs.emilburzo.com](https://hnjobs.emilburzo.com)
+ - date published: 2024-01-02T18:03:30.591011+00:00
  - user: None
  - tags: []
 
@@ -5261,6 +5382,12 @@
  - user: None
  - tags: []
 
+## Do It Yourself Blind Repair
+ - [https://fixmyblinds.com](https://fixmyblinds.com)
+ - date published: 2024-01-02T17:31:45+00:00
+ - user: None
+ - tags: []
+
 ## Frankfurt Kurnit Klein & Selz
  - [https://fkks.com](https://fkks.com)
  - date published: 2023-10-25T14:32:33.167969+00:00
@@ -5524,6 +5651,12 @@
  - date published: 2023-10-30T18:33:00.064219+00:00
  - user: None
  - tags: ['audio equipment', 'scarlett']
+
+## - Justin Foeppel
+ - [https://foeppel.com](https://foeppel.com)
+ - date published: 2024-01-02T18:30:14.463579+00:00
+ - user: None
+ - tags: []
 
 ## Fogknife
  - [https://fogknife.com](https://fogknife.com)
@@ -5866,136 +5999,4 @@
  - date published: 2023-10-25T11:04:31.305284+00:00
  - user: None
  - tags: []
-
-## FOX 5 New York
- - [https://www.fox5ny.com](https://www.fox5ny.com)
- - date published: 2023-11-01T17:47:22.130538+00:00
- - user: None
- - tags: []
-
-## FOX 7 Austin
- - [https://www.fox7austin.com](https://www.fox7austin.com)
- - date published: 2023-10-25T11:04:44.675389+00:00
- - user: None
- - tags: []
-
-## FOX 8 WVUE-TV in New Orleans
- - [https://www.fox8live.com](https://www.fox8live.com)
- - date published: 2023-12-22T03:35:05.796458+00:00
- - user: None
- - tags: []
-
-## FOX 9 Minneapolis-St. Paul
- - [https://www.fox9.com](https://www.fox9.com)
- - date published: 2023-10-25T11:04:58.976088+00:00
- - user: None
- - tags: []
-
-## Baltimore News, Weather, Sports, Breaking News | WBFF
- - [https://foxbaltimore.com](https://foxbaltimore.com)
- - date published: 2023-12-24T01:41:32.188455+00:00
- - user: None
- - tags: []
-
-## Fox Business | Business News &Stock Quotes - Saving & Investing
- - [https://www.foxbusiness.com](https://www.foxbusiness.com)
- - date published: 2023-10-25T10:57:40.272562+00:00
- - user: None
- - tags: []
-
-## FOX 11 Los Angeles
- - [https://www.foxla.com](https://www.foxla.com)
- - date published: 2023-10-25T09:29:54.593194+00:00
- - user: None
- - tags: []
-
-## http://moxie.foxnews.com
- - [http://moxie.foxnews.com](http://moxie.foxnews.com)
- - date published: 2023-10-25T10:26:21.800868+00:00
- - user: None
- - tags: []
-
-## Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos
- - [https://www.foxnews.com](https://www.foxnews.com)
- - date published: 2023-10-25T10:26:27.291309+00:00
- - user: None
- - tags: []
-
-## Home Page - FP Complete
- - [https://www.fpcomplete.com](https://www.fpcomplete.com)
- - date published: 2023-10-25T14:37:06.434619+00:00
- - user: None
- - tags: []
-
-## Dashboard [Jenkins]
- - [https://build.fpgaarcade.com](https://build.fpgaarcade.com)
- - date published: 2023-12-11T17:28:17.596795+00:00
- - user: None
- - tags: []
-
-## FPGA Arcade
- - [https://docs.fpgaarcade.com](https://docs.fpgaarcade.com)
- - date published: 2023-12-11T17:29:08.892468+00:00
- - user: None
- - tags: []
-
-## FPGAArcade | Programmable Gaming Hardware
- - [https://fpgaarcade.com](https://fpgaarcade.com)
- - date published: 2023-12-11T17:29:13.446690+00:00
- - user: None
- - tags: []
-
-## FPGAArcade | Programmable Gaming Hardware
- - [https://www.fpgaarcade.com](https://www.fpgaarcade.com)
- - date published: 2023-10-27T14:40:13.859509+00:00
- - user: None
- - tags: ['fpga', 'amiga', 'retro games']
-
-## FPGA Design and Tutorials - FPGA Developer
- - [https://www.fpgadeveloper.com](https://www.fpgadeveloper.com)
- - date published: 2023-10-25T14:37:09.642182+00:00
- - user: None
- - tags: []
-
-## FPGAjobs - Jobs for Logic Designers!
- - [https://www.fpgajobs.com](https://www.fpgajobs.com)
- - date published: 2023-11-06T13:53:26.006456+00:00
- - user: None
- - tags: []
-
-## Morphing Fractal Engraving Vise Jaws
- - [https://fractalvise.com](https://fractalvise.com)
- - date published: 2023-10-25T14:37:12.415206+00:00
- - user: None
- - tags: []
-
-## The France 24 Observers - Breaking the news thanks to amateur images - Film, verify, share.
- - [https://observers.france24.com](https://observers.france24.com)
- - date published: 2023-10-25T14:37:17.132636+00:00
- - user: None
- - tags: []
-
-## France 24 - International breaking news, top stories and headlines
- - [https://www.france24.com](https://www.france24.com)
- - date published: 2023-10-25T10:50:28.450111+00:00
- - user: None
- - tags: ['france news']
-
-## Francesca Sciandra
- - [https://www.francescaelisia.com](https://www.francescaelisia.com)
- - date published: 2023-12-24T08:14:59.409933+00:00
- - user: None
- - tags: ['personal']
-
-## Francesco Boffa
- - [https://francescoboffa.com](https://francescoboffa.com)
- - date published: 2023-12-21T03:31:15.978337+00:00
- - user: None
- - tags: ['personal']
-
-## Franck Tawema
- - [https://www.francktawema.com](https://www.francktawema.com)
- - date published: 2023-11-29T14:19:29.384250+00:00
- - user: None
- - tags: ['personal']
 
