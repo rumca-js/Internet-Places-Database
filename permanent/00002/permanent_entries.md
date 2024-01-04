@@ -1,3 +1,39 @@
+## Bertrand Meyer's technology+ blog  Bertrand Meyer's technology+ blog - Software engineering, programming methodology, languages, verification, general technology, publication culture, and more
+ - [https://bertrandmeyer.com](https://bertrandmeyer.com)
+ - date published: 2023-10-25T12:58:01.200028+00:00
+ - user: None
+ - tags: []
+
+## ASCII table and history (or, why does Ctrl+i insert a Tab in my terminal?)
+ - [https://bestasciitable.com](https://bestasciitable.com)
+ - date published: 2023-10-25T12:58:09.712887+00:00
+ - user: None
+ - tags: []
+
+## Best of Privacy | Trusted Advisors in privacy and data protection
+ - [https://bestofprivacy.com](https://bestofprivacy.com)
+ - date published: 2023-10-25T12:58:17.378526+00:00
+ - user: None
+ - tags: []
+
+## Best Reminder App
+ - [https://www.bestreminderapp.com](https://www.bestreminderapp.com)
+ - date published: 2023-10-25T08:40:25.598932+00:00
+ - user: None
+ - tags: []
+
+## Home - Best Visa Jobs
+ - [https://bestvisajobs.com](https://bestvisajobs.com)
+ - date published: 2023-10-25T12:58:21.283260+00:00
+ - user: None
+ - tags: []
+
+## Technology News and Analysis - BetaNews
+ - [https://betanews.com](https://betanews.com)
+ - date published: 2023-10-25T09:32:00.086813+00:00
+ - user: None
+ - tags: []
+
 ## Better Dwelling - Canada’s Fastest Growing Real Estate News Source
  - [https://betterdwelling.com](https://betterdwelling.com)
  - date published: 2023-10-25T12:58:23.678899+00:00
@@ -1305,6 +1341,12 @@
  - date published: 2023-10-25T09:17:47.984805+00:00
  - user: None
  - tags: ['personal']
+
+## Shed Skin - A (restricted) Python-to-C++ Compiler
+ - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
+ - date published: 2024-01-03T20:38:22.927557+00:00
+ - user: None
+ - tags: []
 
 ## Blobs in Games
  - [https://simblob.blogspot.com](https://simblob.blogspot.com)
@@ -4989,6 +5031,12 @@
  - user: None
  - tags: ['personal']
 
+## Show HN: Comflowy – A ComfyUI Tutorial for Beginners
+ - [https://www.comflowy.com](https://www.comflowy.com)
+ - date published: 2024-01-03T15:43:28+00:00
+ - user: None
+ - tags: []
+
 ## Show HN: I have created a free text-to-image website that supports SDXL Turbo
  - [https://comfyuiweb.com](https://comfyuiweb.com)
  - date published: 2023-12-17T13:02:48+00:00
@@ -5960,52 +6008,4 @@
  - date published: 2023-10-25T13:39:01.069014+00:00
  - user: None
  - tags: []
-
-## csvbase
- - [https://csvbase.com](https://csvbase.com)
- - date published: 2023-10-25T13:39:03.509420+00:00
- - user: None
- - tags: []
-
-## Clément Thiriet - Software engineer, passionate about AI
- - [https://cthiriet.com](https://cthiriet.com)
- - date published: 2023-10-25T13:39:05.928349+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.ctpost.com](https://www.ctpost.com)
- - date published: 2023-11-27T18:05:35.802450+00:00
- - user: None
- - tags: []
-
-## Home - CuencaHighLife
- - [https://cuencahighlife.com](https://cuencahighlife.com)
- - date published: 2023-10-25T13:39:13.156675+00:00
- - user: None
- - tags: []
-
-## Show HN: Cujobay – A Modern Alternative to Crunchbase
- - [https://www.cujobay.com](https://www.cujobay.com)
- - date published: 2023-12-07T13:22:16+00:00
- - user: None
- - tags: []
-
-## Cult of Mac | Tech and culture through an Apple lens
- - [https://www.cultofmac.com](https://www.cultofmac.com)
- - date published: 2023-10-25T09:32:27.815027+00:00
- - user: None
- - tags: []
-
-## Cults・Download free 3D printer models・STL, OBJ, 3MF, CAD
- - [https://cults3d.com](https://cults3d.com)
- - date published: 2023-10-27T07:45:29.042431+00:00
- - user: None
- - tags: ['3d printing']
-
-## CULTS Fall 2022 Tour | cults
- - [https://www.cultscultscults.com](https://www.cultscultscults.com)
- - date published: 2023-11-13T09:46:10.167697+00:00
- - user: None
- - tags: ['music band']
 

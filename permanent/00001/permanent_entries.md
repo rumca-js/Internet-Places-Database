@@ -1,3 +1,21 @@
+## Amazon.com. Spend less. Smile more.
+ - [https://a.co](https://a.co)
+ - date published: 2023-11-16T04:19:10.428435+00:00
+ - user: None
+ - tags: []
+
+## Aeon | a world of ideas
+ - [https://aeon.co](https://aeon.co)
+ - date published: 2023-10-25T12:16:27.025696+00:00
+ - user: None
+ - tags: []
+
+## Alex Charlton Design
+ - [https://www.alexcharlton.co](https://www.alexcharlton.co)
+ - date published: 2023-10-25T08:43:20.426465+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Analogue
  - [https://www.analogue.co](https://www.analogue.co)
  - date published: 2023-10-25T12:16:30.604884+00:00
@@ -2101,6 +2119,12 @@
 ## A Frugal Doctor
  - [https://www.afrugaldoctor.com](https://www.afrugaldoctor.com)
  - date published: 2023-10-25T12:34:50.329559+00:00
+ - user: None
+ - tags: []
+
+## After Babel | Jon Haidt | Substack
+ - [https://www.afterbabel.com](https://www.afterbabel.com)
+ - date published: 2024-01-03T02:58:29.207167+00:00
  - user: None
  - tags: []
 
@@ -4486,6 +4510,12 @@
  - user: None
  - tags: []
 
+## Asimov Press
+ - [https://press.asimov.com](https://press.asimov.com)
+ - date published: 2024-01-03T11:36:48.662179+00:00
+ - user: None
+ - tags: []
+
 ## Asking deepr questions on life
  - [https://askdeepr.com](https://askdeepr.com)
  - date published: 2023-12-22T17:50:04.948259+00:00
@@ -5956,45 +5986,15 @@
  - user: None
  - tags: []
 
+## Berkutschi Live Ticker
+ - [https://live.berkutschi.com](https://live.berkutschi.com)
+ - date published: 2024-01-03T14:30:52.476102+00:00
+ - user: None
+ - tags: []
+
 ## Max Bernstein
  - [https://bernsteinbear.com](https://bernsteinbear.com)
  - date published: 2023-10-25T12:57:49.894482+00:00
- - user: None
- - tags: []
-
-## Bertrand Meyer's technology+ blog  Bertrand Meyer's technology+ blog - Software engineering, programming methodology, languages, verification, general technology, publication culture, and more
- - [https://bertrandmeyer.com](https://bertrandmeyer.com)
- - date published: 2023-10-25T12:58:01.200028+00:00
- - user: None
- - tags: []
-
-## ASCII table and history (or, why does Ctrl+i insert a Tab in my terminal?)
- - [https://bestasciitable.com](https://bestasciitable.com)
- - date published: 2023-10-25T12:58:09.712887+00:00
- - user: None
- - tags: []
-
-## Best of Privacy | Trusted Advisors in privacy and data protection
- - [https://bestofprivacy.com](https://bestofprivacy.com)
- - date published: 2023-10-25T12:58:17.378526+00:00
- - user: None
- - tags: []
-
-## Best Reminder App
- - [https://www.bestreminderapp.com](https://www.bestreminderapp.com)
- - date published: 2023-10-25T08:40:25.598932+00:00
- - user: None
- - tags: []
-
-## Home - Best Visa Jobs
- - [https://bestvisajobs.com](https://bestvisajobs.com)
- - date published: 2023-10-25T12:58:21.283260+00:00
- - user: None
- - tags: []
-
-## Technology News and Analysis - BetaNews
- - [https://betanews.com](https://betanews.com)
- - date published: 2023-10-25T09:32:00.086813+00:00
  - user: None
  - tags: []
 

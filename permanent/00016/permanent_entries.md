@@ -1,3 +1,345 @@
+## Origami by Michał Kosmulski
+ - [https://origami.kosmulski.org](https://origami.kosmulski.org)
+ - date published: 2023-10-25T21:37:13.563028+00:00
+ - user: None
+ - tags: []
+
+## Kotlin Programming Language
+ - [https://kotlinlang.org](https://kotlinlang.org)
+ - date published: 2023-12-11T12:12:45+00:00
+ - user: rumpel
+ - tags: ['kotlin', 'programming language']
+
+## kottke.org - home of fine hypertext products
+ - [https://kottke.org](https://kottke.org)
+ - date published: 2023-10-25T09:24:05.372537+00:00
+ - user: None
+ - tags: ['personal']
+
+## KPBS Homepage | KPBS Public Media
+ - [https://www.kpbs.org](https://www.kpbs.org)
+ - date published: 2023-10-25T21:37:17.991746+00:00
+ - user: None
+ - tags: []
+
+## KQED | News, Radio, Podcasts, TV | Public Media for Northern California
+ - [https://www.kqed.org](https://www.kqed.org)
+ - date published: 2023-10-25T21:37:32.208784+00:00
+ - user: None
+ - tags: []
+
+## Krita Fund | Digital Painting. Creative Freedom.
+ - [https://fund.krita.org](https://fund.krita.org)
+ - date published: 2023-10-25T21:37:38.421533+00:00
+ - user: None
+ - tags: []
+
+## Krita
+ - [https://krita.org](https://krita.org)
+ - date published: 2023-10-25T08:33:48.431626+00:00
+ - user: None
+ - tags: ['program', 'open source']
+
+## Krusader - Twin panel file management for your desktop
+ - [https://krusader.org](https://krusader.org)
+ - date published: 2023-10-30T13:59:36.700036+00:00
+ - user: None
+ - tags: ['program', 'open source', 'krusader']
+
+## Kubuntu | Friendly Computing
+ - [https://kubuntu.org](https://kubuntu.org)
+ - date published: 2023-11-06T10:07:58.071509+00:00
+ - user: None
+ - tags: ['linux', 'operating system']
+
+## NPR Utah
+ - [https://www.kuer.org](https://www.kuer.org)
+ - date published: 2023-11-02T09:42:18.848119+00:00
+ - user: None
+ - tags: []
+
+## KUNR Public Radio: Northern Nevada and the Eastern Sierra
+ - [https://www.kunr.org](https://www.kunr.org)
+ - date published: 2023-10-25T21:37:42.573020+00:00
+ - user: None
+ - tags: []
+
+## KUOW - KUOW Public Radio
+ - [https://kuow.org](https://kuow.org)
+ - date published: 2023-10-25T21:37:47.724694+00:00
+ - user: None
+ - tags: []
+
+## KUOW Public Radio
+ - [https://www.kuow.org](https://www.kuow.org)
+ - date published: 2023-11-15T11:19:14.665369+00:00
+ - user: None
+ - tags: []
+
+## KUT Homepage | KUT Radio, Austin's NPR Station
+ - [https://www.kut.org](https://www.kut.org)
+ - date published: 2023-10-25T21:37:51.868361+00:00
+ - user: None
+ - tags: []
+
+## X-Files
+ - [https://doc.lagout.org](https://doc.lagout.org)
+ - date published: 2023-10-25T21:37:53.135655+00:00
+ - user: None
+ - tags: []
+
+## Lambda the Ultimate | Programming Languages Weblog
+ - [http://lambda-the-ultimate.org](http://lambda-the-ultimate.org)
+ - date published: 2023-10-25T21:37:59.339898+00:00
+ - user: None
+ - tags: []
+
+## Ashton Wiersdorf | Lambda Land
+ - [https://lambdaland.org](https://lambdaland.org)
+ - date published: 2023-10-25T21:38:00.130658+00:00
+ - user: None
+ - tags: []
+
+## Land Camp
+ - [https://www.landcamp.org](https://www.landcamp.org)
+ - date published: 2023-10-25T21:38:02.232316+00:00
+ - user: None
+ - tags: []
+
+## | Lapham’s Quarterly
+ - [https://www.laphamsquarterly.org](https://www.laphamsquarterly.org)
+ - date published: 2023-10-25T10:45:33.434280+00:00
+ - user: None
+ - tags: []
+
+## Brian Foote
+ - [http://www.laputan.org](http://www.laputan.org)
+ - date published: 2023-10-25T08:54:53.702441+00:00
+ - user: None
+ - tags: ['personal']
+
+## Los Angeles Review of Books
+ - [https://lareviewofbooks.org](https://lareviewofbooks.org)
+ - date published: 2023-10-25T21:38:04.444325+00:00
+ - user: None
+ - tags: []
+
+## Home | Mysite
+ - [https://www.larschristensen.org](https://www.larschristensen.org)
+ - date published: 2023-12-24T02:31:31.930385+00:00
+ - user: None
+ - tags: ['personal']
+
+## Last Chance to Fix eIDAS (Mozilla)
+ - [https://last-chance-for-eidas.org](https://last-chance-for-eidas.org)
+ - date published: 2023-11-02T05:57:42+00:00
+ - user: None
+ - tags: ['mozilla', 'surveillance', 'privacy', 'eidas']
+
+## LaTeX - A document preparation system
+ - [https://www.latex-project.org](https://www.latex-project.org)
+ - date published: 2023-11-27T03:27:19.003390+00:00
+ - user: None
+ - tags: []
+
+## Mastodon
+ - [https://mastodon.laurenweinstein.org](https://mastodon.laurenweinstein.org)
+ - date published: 2023-10-25T21:38:06.486264+00:00
+ - user: None
+ - tags: []
+
+## https://www.lawfaremedia.org
+ - [https://www.lawfaremedia.org](https://www.lawfaremedia.org)
+ - date published: 2023-10-30T04:52:46.101056+00:00
+ - user: None
+ - tags: []
+
+## Law & Liberty, part of the Liberty Fund Network
+ - [https://lawliberty.org](https://lawliberty.org)
+ - date published: 2023-10-25T21:38:09.051770+00:00
+ - user: None
+ - tags: []
+
+## Lazarus Homepage
+ - [https://www.lazarus-ide.org](https://www.lazarus-ide.org)
+ - date published: 2023-12-02T15:50:53.126305+00:00
+ - user: None
+ - tags: []
+
+## 🚀 Getting Started | LazyVim
+ - [https://www.lazyvim.org](https://www.lazyvim.org)
+ - date published: 2023-10-25T08:35:28.988360+00:00
+ - user: None
+ - tags: []
+
+## Learn About Electronics - Home Page
+ - [https://learnabout-electronics.org](https://learnabout-electronics.org)
+ - date published: 2023-10-25T21:38:15.033617+00:00
+ - user: None
+ - tags: []
+
+## BCHS software stack: BSD, C, httpd, SQLite
+ - [https://learnbchs.org](https://learnbchs.org)
+ - date published: 2023-12-28T20:47:24+00:00
+ - user: None
+ - tags: []
+
+## LENFEST INSTITUTE -
+ - [https://www.lenfestinstitute.org](https://www.lenfestinstitute.org)
+ - date published: 2023-10-25T21:38:16.663488+00:00
+ - user: None
+ - tags: []
+
+## Let Grow - When Adults Step Back, Kids Step Up.
+ - [https://letgrow.org](https://letgrow.org)
+ - date published: 2023-10-25T21:38:20.621745+00:00
+ - user: None
+ - tags: []
+
+## Lets-Plot: open-source plotting library for statistical data
+ - [https://lets-plot.org](https://lets-plot.org)
+ - date published: 2023-10-25T21:38:26.790873+00:00
+ - user: None
+ - tags: []
+
+## Let's Encrypt Community Support
+ - [https://community.letsencrypt.org](https://community.letsencrypt.org)
+ - date published: 2023-10-25T21:38:30.513053+00:00
+ - user: None
+ - tags: []
+
+## Let's Encrypt
+ - [https://letsencrypt.org](https://letsencrypt.org)
+ - date published: 2023-10-25T08:33:56.588669+00:00
+ - user: None
+ - tags: []
+
+## Home - CS Lewis Society of California
+ - [https://www.lewissociety.org](https://www.lewissociety.org)
+ - date published: 2023-12-19T16:13:45.261148+00:00
+ - user: None
+ - tags: []
+
+## https://lfortran.org
+ - [https://lfortran.org](https://lfortran.org)
+ - date published: 2023-10-25T21:38:31.696970+00:00
+ - user: None
+ - tags: []
+
+## libcamera.org git repository browser
+ - [https://git.libcamera.org](https://git.libcamera.org)
+ - date published: 2023-10-25T21:38:32.187144+00:00
+ - user: None
+ - tags: []
+
+## Online Library of Liberty
+ - [https://oll.libertyfund.org](https://oll.libertyfund.org)
+ - date published: 2023-10-25T21:38:34.220715+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://librearts.org](https://librearts.org)
+ - date published: 2023-11-11T17:39:29.225756+00:00
+ - user: None
+ - tags: ['linux']
+
+## Libreboot – Libreboot project
+ - [https://libreboot.org](https://libreboot.org)
+ - date published: 2023-10-25T21:38:35.428842+00:00
+ - user: None
+ - tags: []
+
+## Create electronics the easy way | LibrePCB
+ - [https://librepcb.org](https://librepcb.org)
+ - date published: 2023-10-25T21:38:40.170206+00:00
+ - user: None
+ - tags: []
+
+## LibrePlanet
+ - [https://libreplanet.org](https://libreplanet.org)
+ - date published: 2023-10-25T21:38:48.708694+00:00
+ - user: None
+ - tags: []
+
+## LibriVox  | free public domain audiobooks
+ - [https://librivox.org](https://librivox.org)
+ - date published: 2023-10-25T11:35:50.460711+00:00
+ - user: None
+ - tags: ['audiobooks']
+
+## Simple DirectMedia Layer - Homepage
+ - [https://libsdl.org](https://libsdl.org)
+ - date published: 2023-12-11T17:46:13.103398+00:00
+ - user: None
+ - tags: []
+
+## lichess.org • Free Online Chess
+ - [https://lichess.org](https://lichess.org)
+ - date published: 2023-10-25T21:38:50.442880+00:00
+ - user: None
+ - tags: []
+
+## Lily's Things at The Cool Site
+ - [https://www.lilysthings.org](https://www.lilysthings.org)
+ - date published: 2023-10-25T21:38:51.555067+00:00
+ - user: None
+ - tags: []
+
+## The National Lime Association – NLA – NLA's mission is to represent, protect, and promote the nation's lime industry.
+ - [https://www.lime.org](https://www.lime.org)
+ - date published: 2023-10-27T04:21:17.555582+00:00
+ - user: None
+ - tags: []
+
+## Accelerating deployment of Arm-based solutions | Linaro
+ - [https://www.linaro.org](https://www.linaro.org)
+ - date published: 2023-10-25T21:38:54.212541+00:00
+ - user: None
+ - tags: []
+
+## LineageOS – LineageOS Android Distribution
+ - [https://lineageos.org](https://lineageos.org)
+ - date published: 2023-10-25T08:32:27.769540+00:00
+ - user: None
+ - tags: ['operating system', 'lineageos', 'android']
+
+## Linear Book Scanner - The open-source automatic book scanner
+ - [https://linearbookscanner.org](https://linearbookscanner.org)
+ - date published: 2023-10-25T08:36:34.572791+00:00
+ - user: None
+ - tags: []
+
+## The Linux Information Project (LINFO) Home Page
+ - [https://www.linfo.org](https://www.linfo.org)
+ - date published: 2023-10-25T21:38:55.368279+00:00
+ - user: None
+ - tags: []
+
+## Linux.org
+ - [https://www.linux.org](https://www.linux.org)
+ - date published: 2023-10-25T21:38:58.347661+00:00
+ - user: None
+ - tags: []
+
+## KVM
+ - [https://www.linux-kvm.org](https://www.linux-kvm.org)
+ - date published: 2023-10-25T21:39:00.493933+00:00
+ - user: None
+ - tags: []
+
+## Linux Containers Forum
+ - [https://discuss.linuxcontainers.org](https://discuss.linuxcontainers.org)
+ - date published: 2023-10-25T21:39:03.769630+00:00
+ - user: None
+ - tags: []
+
+## Linux Containers
+ - [https://linuxcontainers.org](https://linuxcontainers.org)
+ - date published: 2023-10-25T21:39:05.617056+00:00
+ - user: None
+ - tags: []
+
 ## Show HN: LinuxDAW – Quality audio software for Linux
  - [https://linuxdaw.org](https://linuxdaw.org)
  - date published: 2023-12-30T15:21:12+00:00
@@ -259,6 +601,12 @@
 ## Home - Marcosticks
  - [https://marcosticks.org](https://marcosticks.org)
  - date published: 2023-10-25T21:40:39.086833+00:00
+ - user: None
+ - tags: []
+
+## Now - kms
+ - [https://kyle.marek-spartz.org](https://kyle.marek-spartz.org)
+ - date published: 2024-01-03T04:06:26.789875+00:00
  - user: None
  - tags: []
 
@@ -4331,6 +4679,12 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
+## https://www.squaresapp.org
+ - [https://www.squaresapp.org](https://www.squaresapp.org)
+ - date published: 2024-01-03T16:11:16.112479+00:00
+ - user: None
+ - tags: []
+
 ## Swikis on this Site
  - [https://wiki.squeak.org](https://wiki.squeak.org)
  - date published: 2023-10-25T22:10:38.150045+00:00
@@ -5649,360 +6003,6 @@ Common Weakness Enumeration
 ## Nathaniel J. Smith: Academic homepage
  - [https://vorpus.org](https://vorpus.org)
  - date published: 2023-10-25T22:17:48.895824+00:00
- - user: None
- - tags: []
-
-## VQR Online | A National Journal of Literature & Discussion
- - [https://www.vqronline.org](https://www.vqronline.org)
- - date published: 2023-10-25T22:17:51.725128+00:00
- - user: None
- - tags: []
-
-## Home page - VSQUARE.ORG
- - [https://vsquare.org](https://vsquare.org)
- - date published: 2023-10-25T22:17:54.062301+00:00
- - user: None
- - tags: []
-
-## The Vintage Technology Digital Archive
- - [https://vtda.org](https://vtda.org)
- - date published: 2023-10-25T22:17:59.666651+00:00
- - user: None
- - tags: []
-
-## VTDigger - News in pursuit of truth
- - [https://vtdigger.org](https://vtdigger.org)
- - date published: 2024-01-02T09:03:37.832643+00:00
- - user: None
- - tags: []
-
-## Redirect Notice
- - [https://docs.vulkan.org](https://docs.vulkan.org)
- - date published: 2023-10-25T22:18:00.222735+00:00
- - user: None
- - tags: []
-
-## VUMC Reporter
- - [https://news.vumc.org](https://news.vumc.org)
- - date published: 2023-12-09T12:38:26.245882+00:00
- - user: None
- - tags: []
-
-## REST API Handbook | WordPress Developer Resources
- - [https://api.w.org](https://api.w.org)
- - date published: 2023-12-11T15:38:03.840242+00:00
- - user: None
- - tags: ['wordpress']
-
-## Blog Tool, Publishing Platform, and CMS - WordPress.org
- - [https://s.w.org](https://s.w.org)
- - date published: 2023-12-13T15:40:25.310964+00:00
- - user: None
- - tags: ['wordpress']
-
-## Blog Tool, Publishing Platform, and CMS - WordPress.org
- - [https://w.org](https://w.org)
- - date published: 2023-12-08T13:22:13+00:00
- - user: rumpel
- - tags: []
-
-## W3C
- - [https://beta.w3.org](https://beta.w3.org)
- - date published: 2023-10-25T22:18:02.678538+00:00
- - user: None
- - tags: ['css', 'standards', 'html']
-
-## Jigsaw Overview
- - [https://jigsaw.w3.org](https://jigsaw.w3.org)
- - date published: 2023-12-11T18:58:53.178352+00:00
- - user: None
- - tags: []
-
-## W3C Public mailing list archives
- - [https://lists.w3.org](https://lists.w3.org)
- - date published: 2023-10-25T22:18:33.690977+00:00
- - user: None
- - tags: []
-
-## The W3C Markup Validation Service
- - [https://validator.w3.org](https://validator.w3.org)
- - date published: 2023-12-06T09:55:45+00:00
- - user: rumpel
- - tags: ['online tool', 'online validation', 'html', 'standards']
-
-## W3C
- - [https://www.w3.org](https://www.w3.org)
- - date published: 2023-10-25T22:18:35.833687+00:00
- - user: None
- - tags: ['css', 'standards', 'html']
-
-## Wait Until 8th
- - [https://www.waituntil8th.org](https://www.waituntil8th.org)
- - date published: 2023-10-25T22:18:38.042000+00:00
- - user: None
- - tags: []
-
-## WASM-4
- - [https://wasm4.org](https://wasm4.org)
- - date published: 2023-10-25T22:18:39.853991+00:00
- - user: None
- - tags: []
-
-## WasmEdge
- - [https://wasmedge.org](https://wasmedge.org)
- - date published: 2023-10-25T22:18:41.772980+00:00
- - user: None
- - tags: []
-
-## Waxy.org - Andy Baio lives here
- - [https://waxy.org](https://waxy.org)
- - date published: 2023-10-25T22:18:46.328432+00:00
- - user: None
- - tags: []
-
-## Wayfire
- - [https://wayfire.org](https://wayfire.org)
- - date published: 2023-10-25T22:18:47.793906+00:00
- - user: None
- - tags: []
-
-## WBEZ | Chicago's NPR News Source
- - [https://www.wbez.org](https://www.wbez.org)
- - date published: 2023-12-23T15:29:48.836182+00:00
- - user: None
- - tags: []
-
-## WBUR
- - [https://www.wbur.org](https://www.wbur.org)
- - date published: 2023-10-25T22:19:31.902189+00:00
- - user: None
- - tags: []
-
-## Webamp · Winamp 2 in your browser
- - [https://webamp.org](https://webamp.org)
- - date published: 2023-10-25T22:19:32.574660+00:00
- - user: None
- - tags: []
-
-## Webb Home
- - [https://webbtelescope.org](https://webbtelescope.org)
- - date published: 2023-10-25T22:19:34.651102+00:00
- - user: None
- - tags: []
-
-## WebGL2 Fundamentals
- - [https://webgl2fundamentals.org](https://webgl2fundamentals.org)
- - date published: 2023-10-25T22:19:36.392646+00:00
- - user: None
- - tags: []
-
-## WebGPU Fundamentals
- - [https://webgpufundamentals.org](https://webgpufundamentals.org)
- - date published: 2023-10-25T22:19:37.466580+00:00
- - user: None
- - tags: []
-
-## The World Wide Web History Project
- - [http://1997.webhistory.org](http://1997.webhistory.org)
- - date published: 2023-10-25T22:19:38.470554+00:00
- - user: None
- - tags: []
-
-## Bugzilla Main Page
- - [https://bugs.webkit.org](https://bugs.webkit.org)
- - date published: 2023-10-25T22:19:39.612366+00:00
- - user: None
- - tags: []
-
-## WebKit
- - [https://webkit.org](https://webkit.org)
- - date published: 2023-10-25T22:19:41.698798+00:00
- - user: None
- - tags: []
-
-## Web Monetization
- - [https://webmonetization.org](https://webmonetization.org)
- - date published: 2023-10-25T22:19:42.833645+00:00
- - user: None
- - tags: []
-
-## WebPageTest Blog
- - [https://blog.webpagetest.org](https://blog.webpagetest.org)
- - date published: 2023-10-25T22:19:43.863277+00:00
- - user: None
- - tags: []
-
-## websdr.org
- - [https://www.websdr.org](https://www.websdr.org)
- - date published: 2023-10-26T23:03:35.129196+00:00
- - user: None
- - tags: []
-
-## WeeChat dev news
- - [https://blog.weechat.org](https://blog.weechat.org)
- - date published: 2023-10-25T22:19:47.148361+00:00
- - user: None
- - tags: []
-
-## The World Economic Forum
- - [https://www.weforum.org](https://www.weforum.org)
- - date published: 2023-10-25T11:30:42.756449+00:00
- - user: None
- - tags: []
-
-## World Economic Forum - Home
- - [https://www3.weforum.org](https://www3.weforum.org)
- - date published: 2023-10-25T22:19:53.830894+00:00
- - user: None
- - tags: []
-
-## Wejn’s corner on the interwebs.
- - [https://wejn.org](https://wejn.org)
- - date published: 2023-10-25T08:55:18.348509+00:00
- - user: None
- - tags: ['personal']
-
-## Test Page for the Apache HTTP Server on CloudLinux
- - [https://www.wermac.org](https://www.wermac.org)
- - date published: 2023-10-25T22:19:55.137989+00:00
- - user: None
- - tags: []
-
-## The Battle for Wesnoth
- - [https://wesnoth.org](https://wesnoth.org)
- - date published: 2023-10-29T13:05:11.269368+00:00
- - user: None
- - tags: ['open source', 'game']
-
-## The Westminster Declaration
- - [https://westminsterdeclaration.org](https://westminsterdeclaration.org)
- - date published: 2023-10-27T12:07:12.002789+00:00
- - user: None
- - tags: []
-
-## Wez Furlong, Open Sourceror
- - [https://wezfurlong.org](https://wezfurlong.org)
- - date published: 2023-10-25T22:19:57.560546+00:00
- - user: None
- - tags: []
-
-## Indianapolis' Public Radio, TV & News Station | WFYI
- - [https://www.wfyi.org](https://www.wfyi.org)
- - date published: 2023-10-25T22:20:00.574986+00:00
- - user: None
- - tags: []
-
-## WGA Contract 2023
- - [https://www.wgacontract2023.org](https://www.wgacontract2023.org)
- - date published: 2023-10-25T22:20:03.583080+00:00
- - user: None
- - tags: []
-
-## GBH.org
- - [https://www.wgbh.org](https://www.wgbh.org)
- - date published: 2023-11-29T05:46:53.911077+00:00
- - user: None
- - tags: []
-
-## WGCU Public Media - PBS and NPR for Southwest Florida
- - [https://news.wgcu.org](https://news.wgcu.org)
- - date published: 2023-12-08T08:34:50.964802+00:00
- - user: None
- - tags: []
-
-## What Is Scientology? Beliefs & Facts - Church of Scientology
- - [https://www.whatisscientology.org](https://www.whatisscientology.org)
- - date published: 2023-11-27T13:00:45+00:00
- - user: rumpel
- - tags: ['scientology']
-
-## whitequark's lab notebook
- - [https://lab.whitequark.org](https://lab.whitequark.org)
- - date published: 2023-10-25T22:20:08.691797+00:00
- - user: None
- - tags: []
-
-## whizzy.org
- - [https://www.whizzy.org](https://www.whizzy.org)
- - date published: 2023-12-15T21:45:41.471748+00:00
- - user: None
- - tags: []
-
-## Whonix - Superior Internet Privacy
- - [https://www.whonix.org](https://www.whonix.org)
- - date published: 2023-10-25T08:38:05.601331+00:00
- - user: None
- - tags: []
-
-## Home Page - WhoWhatWhy
- - [https://whowhatwhy.org](https://whowhatwhy.org)
- - date published: 2023-10-31T10:38:23.005616+00:00
- - user: None
- - tags: []
-
-## Dariusz Więckiewicz 🇵🇱 – Wolny świat, wolne myśly, wolne słowa.
- - [https://dariusz.wieckiewicz.org](https://dariusz.wieckiewicz.org)
- - date published: 2023-10-25T22:20:13.073418+00:00
- - user: None
- - tags: []
-
-## Wikibooks
- - [https://en.wikibooks.org](https://en.wikibooks.org)
- - date published: 2023-10-25T22:20:17.247729+00:00
- - user: None
- - tags: []
-
-## WikiChip Fuse – Your Chips and Semi News
- - [https://fuse.wikichip.org](https://fuse.wikichip.org)
- - date published: 2023-10-25T22:20:29.115014+00:00
- - user: None
- - tags: []
-
-## Wikidata
- - [https://wikidata.org](https://wikidata.org)
- - date published: 2023-11-17T16:44:51+00:00
- - user: rumpel
- - tags: ['database', 'archive']
-
-## WikiIndex
- - [https://wikiindex.org](https://wikiindex.org)
- - date published: 2023-10-25T22:20:32.639179+00:00
- - user: None
- - tags: []
-
-## 504 Gateway Time-out
- - [https://wikileaks.org](https://wikileaks.org)
- - date published: 2023-10-25T22:20:33.161903+00:00
- - user: None
- - tags: []
-
-## Wikimedia Commons
- - [https://commons.wikimedia.org](https://commons.wikimedia.org)
- - date published: 2023-10-25T22:20:40.800608+00:00
- - user: None
- - tags: []
-
-## Diff – News from across the Wikimedia movement
- - [https://diff.wikimedia.org](https://diff.wikimedia.org)
- - date published: 2023-10-25T22:20:44.837722+00:00
- - user: None
- - tags: []
-
-## Main Page - Meta
- - [https://meta.wikimedia.org](https://meta.wikimedia.org)
- - date published: 2023-10-25T22:21:00.290462+00:00
- - user: None
- - tags: []
-
-## Wikimedia Commons
- - [https://upload.wikimedia.org](https://upload.wikimedia.org)
- - date published: 2023-12-02T22:11:10.036720+00:00
- - user: None
- - tags: []
-
-## Home – Wikimedia Foundation
- - [https://wikimediafoundation.org](https://wikimediafoundation.org)
- - date published: 2023-10-25T22:21:03.787447+00:00
  - user: None
  - tags: []
 

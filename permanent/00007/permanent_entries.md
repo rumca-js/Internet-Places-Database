@@ -1,3 +1,129 @@
+## Paper. Work. Doing life.
+ - [https://www.paperworkblog.com](https://www.paperworkblog.com)
+ - date published: 2023-11-15T21:25:52.617486+00:00
+ - user: None
+ - tags: []
+
+## parade.com
+ - [https://parade.com](https://parade.com)
+ - date published: 2023-11-28T20:15:07+00:00
+ - user: rumpel
+ - tags: ['entertainment']
+
+## Welcome to ParadeDB - ParadeDB
+ - [https://docs.paradedb.com](https://docs.paradedb.com)
+ - date published: 2023-10-25T16:30:38.822701+00:00
+ - user: None
+ - tags: []
+
+## Paradox Interactive
+ - [https://www.paradoxinteractive.com](https://www.paradoxinteractive.com)
+ - date published: 2023-11-01T19:36:55.276204+00:00
+ - user: None
+ - tags: ['vampire masquarade', 'role playing games']
+
+## Growing Products — weekly essays for founders and startup teams
+ - [https://growing-products.paralect.com](https://growing-products.paralect.com)
+ - date published: 2023-10-25T16:30:41.101886+00:00
+ - user: None
+ - tags: []
+
+## Parallel Economy | A Censor-Resistant Ecosystem
+ - [https://www.paralleleconomy.com](https://www.paralleleconomy.com)
+ - date published: 2023-10-25T16:30:43.965679+00:00
+ - user: None
+ - tags: []
+
+## Parand
+ - [https://www.parand.com](https://www.parand.com)
+ - date published: 2023-10-25T16:30:46.136740+00:00
+ - user: None
+ - tags: []
+
+## https://static.parastorage.com
+ - [https://static.parastorage.com](https://static.parastorage.com)
+ - date published: 2023-12-11T16:56:44.679132+00:00
+ - user: None
+ - tags: []
+
+## Parin Patel
+ - [https://www.parinpatel.com](https://www.parinpatel.com)
+ - date published: 2023-11-29T17:08:55.692393+00:00
+ - user: None
+ - tags: ['personal']
+
+## Parker Klein | Personal Website
+ - [https://www.parkerklein.com](https://www.parkerklein.com)
+ - date published: 2023-11-29T20:43:18.758476+00:00
+ - user: None
+ - tags: ['personal']
+
+## Parkiet – portal finansowy z najważniejszymi wiadomościami - parkiet.com
+ - [https://www.parkiet.com](https://www.parkiet.com)
+ - date published: 2023-10-25T10:58:13.846289+00:00
+ - user: None
+ - tags: []
+
+## MOONLIGHT LOVE AFFAIR
+ - [https://www.parovstelar.com](https://www.parovstelar.com)
+ - date published: 2023-10-30T15:45:25.629658+00:00
+ - user: None
+ - tags: ['parov stellar', 'music band']
+
+## Live Your Dream
+ - [https://passportjoy.com](https://passportjoy.com)
+ - date published: 2023-12-10T11:35:05.409561+00:00
+ - user: None
+ - tags: ['personal']
+
+## Pastebin.com - #1 paste tool since 2002!
+ - [https://pastebin.com](https://pastebin.com)
+ - date published: 2023-10-24T20:19:33.932082+00:00
+ - user: None
+ - tags: []
+
+## Patagonia Outdoor Clothing & Gear
+ - [https://www.patagonia.com](https://www.patagonia.com)
+ - date published: 2023-10-25T16:30:56.435107+00:00
+ - user: None
+ - tags: []
+
+## Inpics Gadget Repair Services - InPics Solutions
+ - [https://patersontech.com](https://patersontech.com)
+ - date published: 2023-10-25T16:30:59.777009+00:00
+ - user: None
+ - tags: []
+
+## Path of Exile
+ - [https://www.pathofexile.com](https://www.pathofexile.com)
+ - date published: 2023-10-25T08:39:41.111324+00:00
+ - user: None
+ - tags: ['game']
+
+## Path-Sensitive
+ - [https://www.pathsensitive.com](https://www.pathsensitive.com)
+ - date published: 2023-10-25T16:31:04.472557+00:00
+ - user: None
+ - tags: []
+
+## PJK's Blog
+ - [https://www.patjk.com](https://www.patjk.com)
+ - date published: 2023-12-15T21:43:37.233324+00:00
+ - user: None
+ - tags: ['personal']
+
+## ~patmaddox: Home
+ - [https://patmaddox.com](https://patmaddox.com)
+ - date published: 2023-12-04T06:13:53.079304+00:00
+ - user: None
+ - tags: []
+
+## patorjk.com
+ - [https://patorjk.com](https://patorjk.com)
+ - date published: 2023-12-08T13:07:39+00:00
+ - user: rumpel
+ - tags: ['personal']
+
 ## Patreon | News | Home
  - [https://blog.patreon.com](https://blog.patreon.com)
  - date published: 2023-10-25T11:32:44.994110+00:00
@@ -661,6 +787,12 @@
 ## Philadelphia Magazine | News, Restaurants, Best of Philly
  - [https://www.phillymag.com](https://www.phillymag.com)
  - date published: 2023-10-25T16:34:02.217335+00:00
+ - user: None
+ - tags: []
+
+## Philadelphia Sports Acupuncture
+ - [https://www.phillysportsacupuncture.com](https://www.phillysportsacupuncture.com)
+ - date published: 2024-01-03T04:06:18.834325+00:00
  - user: None
  - tags: []
 
@@ -1444,6 +1576,12 @@
 ## Popular Mechanics - Product Reviews, How-To, Space, Military, Math, Science, and New Technology
  - [https://www.popularmechanics.com](https://www.popularmechanics.com)
  - date published: 2023-10-25T16:37:51.033102+00:00
+ - user: None
+ - tags: []
+
+## Porsche Design System
+ - [https://designsystem.porsche.com](https://designsystem.porsche.com)
+ - date published: 2024-01-03T19:13:27.286726+00:00
  - user: None
  - tags: []
 
@@ -2688,6 +2826,12 @@
 ## Start Here - Rachel Laudan
  - [https://www.rachellaudan.com](https://www.rachellaudan.com)
  - date published: 2023-10-25T16:44:22.523148+00:00
+ - user: None
+ - tags: []
+
+## Rachel Toalson | author, poet, humorist, reader
+ - [https://www.racheltoalson.com](https://www.racheltoalson.com)
+ - date published: 2024-01-03T01:12:46.245257+00:00
  - user: None
  - tags: []
 
@@ -5482,6 +5626,12 @@ More!
  - user: None
  - tags: []
 
+## Europe Travel Entry and Visa Requirements
+ - [https://www.schengenvisainfo.com](https://www.schengenvisainfo.com)
+ - date published: 2024-01-03T21:32:38.569064+00:00
+ - user: None
+ - tags: []
+
 ## schmatzberger.com – Die Website von Günter Schmatzberger
  - [https://www.schmatzberger.com](https://www.schmatzberger.com)
  - date published: 2023-12-03T09:19:10.285708+00:00
@@ -5859,154 +6009,4 @@ More!
  - date published: 2023-10-25T09:35:20.638084+00:00
  - user: None
  - tags: ['seo']
-
-## Search Engine Land - News, Search Engine Optimization (SEO), Pay-Per-Click (PPC)
- - [https://searchengineland.com](https://searchengineland.com)
- - date published: 2023-10-25T09:35:26.282775+00:00
- - user: None
- - tags: ['news', 'seo']
-
-## Sears House Seeker
- - [https://www.searshouseseeker.com](https://www.searshouseseeker.com)
- - date published: 2023-11-20T03:44:30.546873+00:00
- - user: None
- - tags: []
-
-## Season of Mist - Online Metal Shop - Music and Merchandise
- - [https://shop.season-of-mist.com](https://shop.season-of-mist.com)
- - date published: 2023-11-13T11:12:48.817968+00:00
- - user: None
- - tags: []
-
-## Season of Mist
- - [https://www.season-of-mist.com](https://www.season-of-mist.com)
- - date published: 2023-11-13T11:12:10.956345+00:00
- - user: None
- - tags: ['music label']
-
-## Seattle in Progress
- - [https://www.seattleinprogress.com](https://www.seattleinprogress.com)
- - date published: 2023-10-25T17:00:50.746487+00:00
- - user: None
- - tags: []
-
-## The Seattle Times | Local news, sports, business, politics, entertainment, travel, restaurants and opinion for Seattle and the Pacific Northwest.
- - [https://www.seattletimes.com](https://www.seattletimes.com)
- - date published: 2023-10-25T10:35:40.719975+00:00
- - user: None
- - tags: []
-
-## Sebastian Carlos – Medium
- - [https://sebastiancarlos.com](https://sebastiancarlos.com)
- - date published: 2023-10-25T17:00:58.658383+00:00
- - user: None
- - tags: []
-
-## Ahead of AI | Sebastian Raschka, PhD | Substack
- - [https://magazine.sebastianraschka.com](https://magazine.sebastianraschka.com)
- - date published: 2023-10-25T17:01:02.536800+00:00
- - user: None
- - tags: []
-
-## Sebastian Raschka, PhD
- - [https://sebastianraschka.com](https://sebastianraschka.com)
- - date published: 2023-10-25T09:26:05.600172+00:00
- - user: None
- - tags: ['personal']
-
-## Sebastian S. Smith
- - [https://sebastianssmith.com](https://sebastianssmith.com)
- - date published: 2023-11-29T17:07:32.470870+00:00
- - user: None
- - tags: ['personal']
-
-## a leading consultant in application and cybersecurity as well as IT security
- - [https://sec-consult.com](https://sec-consult.com)
- - date published: 2023-12-21T23:22:43.387321+00:00
- - user: None
- - tags: []
-
-## Secjuice | Non-Profit Cyber Goodness
- - [https://www.secjuice.com](https://www.secjuice.com)
- - date published: 2023-10-25T17:01:04.524586+00:00
- - user: None
- - tags: []
-
-## Second Life - Second Life Community
- - [https://community.secondlife.com](https://community.secondlife.com)
- - date published: 2023-10-25T17:01:11.124459+00:00
- - user: None
- - tags: []
-
-## Secret Art of Science
- - [https://secretartofscience.com](https://secretartofscience.com)
- - date published: 2023-10-25T17:01:12.115930+00:00
- - user: None
- - tags: []
-
-## Secret Mission DC: a fun and interactive scavenger hunt around the city
- - [https://secretmissiondc.com](https://secretmissiondc.com)
- - date published: 2023-10-25T17:01:13.451456+00:00
- - user: None
- - tags: []
-
-## Secret San Francisco - Your Complete Guide To Things To Do In San Francisco
- - [https://secretsanfrancisco.com](https://secretsanfrancisco.com)
- - date published: 2023-10-25T17:01:15.070667+00:00
- - user: None
- - tags: []
-
-## Secrets of Success
- - [https://www.secretsofsuccess.com](https://www.secretsofsuccess.com)
- - date published: 2023-11-03T15:08:00.408650+00:00
- - user: None
- - tags: []
-
-## Heuristic Application Security Management Platform | Secure Blink
- - [https://www.secureblink.com](https://www.secureblink.com)
- - date published: 2023-10-25T17:01:18.017496+00:00
- - user: None
- - tags: []
-
-## Securelist | Kaspersky’s threat research and reports
- - [https://securelist.com](https://securelist.com)
- - date published: 2023-10-25T11:32:51.852760+00:00
- - user: None
- - tags: []
-
-## Symantec Enterprise Blogs
- - [https://symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com)
- - date published: 2023-10-25T17:01:22.426033+00:00
- - user: None
- - tags: []
-
-## Security Affairs - Read, think, share … Security is everyone's responsibility
- - [https://securityaffairs.com](https://securityaffairs.com)
- - date published: 2023-10-25T09:35:33.117030+00:00
- - user: None
- - tags: []
-
-## Security Magazine | The business magazine for security executives
- - [https://www.securitymagazine.com](https://www.securitymagazine.com)
- - date published: 2023-10-25T17:01:25.815257+00:00
- - user: None
- - tags: []
-
-## Cybersecurity News, Insights and Analysis | SecurityWeek
- - [https://www.securityweek.com](https://www.securityweek.com)
- - date published: 2023-10-25T09:35:37.584443+00:00
- - user: None
- - tags: []
-
-## Security Wale | Aditya Patel | Substack
- - [https://www.secwale.com](https://www.secwale.com)
- - date published: 2023-10-25T17:01:27.543178+00:00
- - user: None
- - tags: []
-
-## Seeking Alpha | Stock Market Analysis & Tools for Investors
- - [https://seekingalpha.com](https://seekingalpha.com)
- - date published: 2023-10-25T17:01:28.875847+00:00
- - user: None
- - tags: []
 

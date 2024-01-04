@@ -1,3 +1,255 @@
+## Adam Argyle
+ - [https://nerdy.dev](https://nerdy.dev)
+ - date published: 2023-10-25T08:48:53.943604+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nicolo.dev
+ - [https://nicolo.dev](https://nicolo.dev)
+ - date published: 2023-10-25T08:58:41.536333+00:00
+ - user: None
+ - tags: ['personal']
+
+## niui
+ - [https://niui.dev](https://niui.dev)
+ - date published: 2023-10-25T18:40:16.339018+00:00
+ - user: None
+ - tags: []
+
+## Norberto's personal website
+ - [https://nlopes.dev](https://nlopes.dev)
+ - date published: 2023-10-25T08:48:54.951889+00:00
+ - user: None
+ - tags: ['personal']
+
+## IAMOps Platform | NOQ
+ - [https://www.noq.dev](https://www.noq.dev)
+ - date published: 2023-10-25T18:40:17.657120+00:00
+ - user: None
+ - tags: []
+
+## Nicholas Ray
+ - [https://www.nray.dev](https://www.nray.dev)
+ - date published: 2023-10-25T08:58:47.329801+00:00
+ - user: None
+ - tags: ['personal']
+
+## olano.dev
+ - [https://olano.dev](https://olano.dev)
+ - date published: 2023-12-01T10:46:06.534286+00:00
+ - user: None
+ - tags: []
+
+## Onur Şuyalçınkaya
+ - [https://onur.dev](https://onur.dev)
+ - date published: 2023-12-16T07:29:32.330441+00:00
+ - user: None
+ - tags: ['personal']
+
+## OpenGOAL | OpenGOAL
+ - [https://opengoal.dev](https://opengoal.dev)
+ - date published: 2023-10-25T18:40:19.039679+00:00
+ - user: None
+ - tags: []
+
+## OpenStatus
+ - [https://www.openstatus.dev](https://www.openstatus.dev)
+ - date published: 2023-10-25T18:40:21.230486+00:00
+ - user: None
+ - tags: []
+
+## SQLPage
+ - [https://sql.ophir.dev](https://sql.ophir.dev)
+ - date published: 2023-10-25T18:40:22.802342+00:00
+ - user: None
+ - tags: []
+
+## OrbStack · Fast, light, simple Docker & Linux on macOS
+ - [https://orbstack.dev](https://orbstack.dev)
+ - date published: 2023-10-25T18:40:25.084437+00:00
+ - user: None
+ - tags: []
+
+## Orhun's Blog
+ - [https://blog.orhun.dev](https://blog.orhun.dev)
+ - date published: 2023-10-25T18:40:26.754894+00:00
+ - user: None
+ - tags: []
+
+## orionc.dev
+ - [https://orionc.dev](https://orionc.dev)
+ - date published: 2023-11-29T17:14:05.577990+00:00
+ - user: None
+ - tags: ['personal']
+
+## Gram Publishing v2
+ - [https://blog.orsinium.dev](https://blog.orsinium.dev)
+ - date published: 2023-10-25T18:40:28.464597+00:00
+ - user: None
+ - tags: []
+
+## Ory - API-first Identity Management, Authentication and Authorization. For Secure, Global, GDPR-compliant Apps | Ory
+ - [https://www.ory.dev](https://www.ory.dev)
+ - date published: 2023-10-25T18:40:33.383690+00:00
+ - user: None
+ - tags: []
+
+## Animotion – a visual CSS animation app
+ - [https://cssanimotion.pages.dev](https://cssanimotion.pages.dev)
+ - date published: 2023-11-24T11:16:25+00:00
+ - user: None
+ - tags: []
+
+## Indeed Job Scam
+ - [https://indeedjobscam.pages.dev](https://indeedjobscam.pages.dev)
+ - date published: 2023-10-25T18:40:43.826797+00:00
+ - user: None
+ - tags: []
+
+## nonnullish
+ - [https://nonnullish.pages.dev](https://nonnullish.pages.dev)
+ - date published: 2023-12-24T14:19:01.273158+00:00
+ - user: None
+ - tags: []
+
+## TLS, byte by byte
+ - [https://subtls.pages.dev](https://subtls.pages.dev)
+ - date published: 2023-10-25T18:40:44.490273+00:00
+ - user: None
+ - tags: []
+
+## Hello! • Paul Armstrong
+ - [https://paularmstrong.dev](https://paularmstrong.dev)
+ - date published: 2023-10-25T08:48:56.005230+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hey there! · pema.dev
+ - [https://pema.dev](https://pema.dev)
+ - date published: 2023-10-25T18:40:45.349933+00:00
+ - user: None
+ - tags: []
+
+## Petals – Run LLMs at home, BitTorrent-style
+ - [https://petals.dev](https://petals.dev)
+ - date published: 2023-10-25T18:40:45.976979+00:00
+ - user: None
+ - tags: []
+
+## Pierre Couy’s tech corner | Freelance developper, computer science teacher, passionate about programming. I enjoy sharing my work with the world.
+ - [https://pierre-couy.dev](https://pierre-couy.dev)
+ - date published: 2023-10-25T18:40:46.733153+00:00
+ - user: None
+ - tags: []
+
+## pkg-size | Find the true size of a npm package
+ - [https://pkg-size.dev](https://pkg-size.dev)
+ - date published: 2023-10-25T18:40:47.132424+00:00
+ - user: None
+ - tags: []
+
+## POURIA 🦋
+ - [https://pouria.dev](https://pouria.dev)
+ - date published: 2023-10-25T18:40:48.495860+00:00
+ - user: None
+ - tags: []
+
+## PrivSec - A practical approach to Privacy and Security
+ - [https://privsec.dev](https://privsec.dev)
+ - date published: 2023-10-25T18:40:49.926726+00:00
+ - user: None
+ - tags: []
+
+## React Job Simulator by Profy.dev
+ - [https://profy.dev](https://profy.dev)
+ - date published: 2023-10-25T18:40:51.947206+00:00
+ - user: None
+ - tags: []
+
+## programming.dev - A collection of programming communities
+ - [https://programming.dev](https://programming.dev)
+ - date published: 2023-10-25T18:40:53.820318+00:00
+ - user: None
+ - tags: []
+
+## Home |
+ - [https://pulsar-edit.dev](https://pulsar-edit.dev)
+ - date published: 2023-10-25T18:41:00.178641+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Pydantic - Pydantic
+ - [https://docs.pydantic.dev](https://docs.pydantic.dev)
+ - date published: 2023-10-25T18:41:02.319299+00:00
+ - user: None
+ - tags: []
+
+## Chris James - Learn Go with Tests reaches 20k stars
+ - [https://quii.dev](https://quii.dev)
+ - date published: 2023-10-25T18:41:02.923807+00:00
+ - user: None
+ - tags: []
+
+## Semgrep — Find bugs and enforce code standards
+ - [https://r2c.dev](https://r2c.dev)
+ - date published: 2023-10-25T18:41:07.216345+00:00
+ - user: None
+ - tags: []
+
+## Justin's personal site
+ - [https://randomshit.dev](https://randomshit.dev)
+ - date published: 2023-10-25T18:41:11.166727+00:00
+ - user: None
+ - tags: []
+
+## Rasbora.dev
+ - [https://rasbora.dev](https://rasbora.dev)
+ - date published: 2023-10-25T08:48:56.751019+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ryan's Dev Blog
+ - [https://rbates.dev](https://rbates.dev)
+ - date published: 2023-10-25T08:58:48.184268+00:00
+ - user: None
+ - tags: ['personal']
+
+## React
+ - [https://react.dev](https://react.dev)
+ - date published: 2023-10-25T18:41:12.872406+00:00
+ - user: None
+ - tags: []
+
+## refine | Build your React-based CRUD applications, without constraints! | refine
+ - [https://refine.dev](https://refine.dev)
+ - date published: 2023-10-25T18:41:19.334120+00:00
+ - user: None
+ - tags: []
+
+## Remotion | Make videos programmatically in React
+ - [https://www.remotion.dev](https://www.remotion.dev)
+ - date published: 2023-12-01T16:42:33.542293+00:00
+ - user: None
+ - tags: []
+
+## SDXL – A settings guide by Replicate
+ - [https://sdxl.replicate.dev](https://sdxl.replicate.dev)
+ - date published: 2023-10-25T18:41:20.011892+00:00
+ - user: None
+ - tags: []
+
+## Restfox
+ - [https://restfox.dev](https://restfox.dev)
+ - date published: 2023-10-25T18:41:21.360876+00:00
+ - user: None
+ - tags: []
+
+## reyem.dev blog
+ - [https://blog.reyem.dev](https://blog.reyem.dev)
+ - date published: 2023-10-25T08:58:49.186324+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Richard Taylor
      · Richard Taylor
  - [https://www.richardtaylor.dev](https://www.richardtaylor.dev)
@@ -5760,260 +6012,6 @@
 ## Department of Energy
  - [https://www.energy.gov](https://www.energy.gov)
  - date published: 2023-10-25T19:20:40.502538+00:00
- - user: None
- - tags: []
-
-## U.S. Environmental Protection Agency | US EPA
- - [https://www.epa.gov](https://www.epa.gov)
- - date published: 2023-10-25T19:20:46.144373+00:00
- - user: None
- - tags: []
-
-## Federal Aviation Administration
- - [https://www.faa.gov](https://www.faa.gov)
- - date published: 2023-10-25T11:20:33.122723+00:00
- - user: None
- - tags: ['avionics', 'aerospace', 'aviation']
-
-## Welcome to the LEB website — LEB
- - [https://leb.fbi.gov](https://leb.fbi.gov)
- - date published: 2023-10-25T10:47:03.596512+00:00
- - user: None
- - tags: []
-
-## Welcome to fbi.gov — FBI
- - [https://www.fbi.gov](https://www.fbi.gov)
- - date published: 2023-10-25T19:20:52.514388+00:00
- - user: None
- - tags: ['crime', 'government', 'fbi']
-
-## 403 Forbidden
- - [https://docs.fcc.gov](https://docs.fcc.gov)
- - date published: 2023-10-25T19:20:53.694947+00:00
- - user: None
- - tags: []
-
-## Federal Communications Commission | The United States of America
- - [https://www.fcc.gov](https://www.fcc.gov)
- - date published: 2023-10-25T19:21:01.719932+00:00
- - user: None
- - tags: []
-
-## U.S. Food and Drug Administration
- - [https://www.fda.gov](https://www.fda.gov)
- - date published: 2023-10-25T19:21:05.422596+00:00
- - user: None
- - tags: []
-
-## FDIC: Federal Deposit Insurance Corporation
- - [https://www.fdic.gov](https://www.fdic.gov)
- - date published: 2023-10-25T19:21:19.392966+00:00
- - user: None
- - tags: []
-
-## Federal Register
-       :: 
-      Home - Wednesday, October 25th
- - [https://www.federalregister.gov](https://www.federalregister.gov)
- - date published: 2023-10-25T19:21:22.351422+00:00
- - user: None
- - tags: []
-
-## Federal Reserve Board - Home
- - [https://www.federalreserve.gov](https://www.federalreserve.gov)
- - date published: 2023-10-25T19:21:25.826382+00:00
- - user: None
- - tags: []
-
-## FEMA.gov
- - [https://www.fema.gov](https://www.fema.gov)
- - date published: 2023-10-25T19:21:33.460504+00:00
- - user: None
- - tags: []
-
-## United States Department of the Treasury Financial Crimes Enforcement Network | FinCEN.gov
- - [https://www.fincen.gov](https://www.fincen.gov)
- - date published: 2023-10-25T19:21:37.717717+00:00
- - user: None
- - tags: []
-
-## Florida Department of Health
- - [https://www.floridahealth.gov](https://www.floridahealth.gov)
- - date published: 2023-10-25T19:21:43.397423+00:00
- - user: None
- - tags: []
-
-## Newsroom
- - [https://news.fnal.gov](https://news.fnal.gov)
- - date published: 2023-10-25T19:21:48.635515+00:00
- - user: None
- - tags: []
-
-## FOIAonline :: Decommissioned
- - [https://foiaonline.gov](https://foiaonline.gov)
- - date published: 2023-10-25T19:21:50.776367+00:00
- - user: None
- - tags: []
-
-## Federal Trade Commission | Protecting America's Consumers
- - [https://www.ftc.gov](https://www.ftc.gov)
- - date published: 2023-10-25T19:21:54.571295+00:00
- - user: None
- - tags: []
-
-## U.S. Government Accountability Office (U.S. GAO)
- - [https://www.gao.gov](https://www.gao.gov)
- - date published: 2023-11-27T15:17:10+00:00
- - user: rumpel
- - tags: []
-
-## GPS: The Global Positioning System
- - [https://www.gps.gov](https://www.gps.gov)
- - date published: 2023-10-25T19:21:57.216221+00:00
- - user: None
- - tags: []
-
-## Real Property Disposition
- - [https://disposal.gsa.gov](https://disposal.gsa.gov)
- - date published: 2023-10-25T19:22:04.790414+00:00
- - user: None
- - tags: []
-
-## Home | GSA
- - [https://www.gsa.gov](https://www.gsa.gov)
- - date published: 2023-10-25T19:22:12.181356+00:00
- - user: None
- - tags: []
-
-## ASPR | Homepage
- - [https://aspr.hhs.gov](https://aspr.hhs.gov)
- - date published: 2023-10-25T19:22:17.545788+00:00
- - user: None
- - tags: []
-
-## HIV and AIDS Resources | HIV.gov
- - [https://www.hiv.gov](https://www.hiv.gov)
- - date published: 2023-10-25T19:22:20.398924+00:00
- - user: None
- - tags: []
-
-## House Judiciary Committee Republicans |
- - [https://judiciary.house.gov](https://judiciary.house.gov)
- - date published: 2023-10-25T19:22:23.234554+00:00
- - user: None
- - tags: []
-
-## Congressman Ro Khanna |
- - [https://khanna.house.gov](https://khanna.house.gov)
- - date published: 2023-10-25T19:22:25.514559+00:00
- - user: None
- - tags: []
-
-## United States House Committee on Oversight and Accountability -
- - [https://oversight.house.gov](https://oversight.house.gov)
- - date published: 2023-10-25T19:22:27.238039+00:00
- - user: None
- - tags: []
-
-## House Committee on Oversight and Reform
- - [https://oversightdemocrats.house.gov](https://oversightdemocrats.house.gov)
- - date published: 2023-11-28T18:21:20.465630+00:00
- - user: None
- - tags: []
-
-## House of Representatives Committee on Rules
- - [https://rules.house.gov](https://rules.house.gov)
- - date published: 2023-11-14T19:59:35.907324+00:00
- - user: None
- - tags: []
-
-## Select Committee on the CCP
- - [https://selectcommitteeontheccp.house.gov](https://selectcommitteeontheccp.house.gov)
- - date published: 2023-11-27T12:22:06+00:00
- - user: rumpel
- - tags: ['china', 'america']
-
-## Internet Crime Complaint Center(IC3) | Home Page
- - [https://www.ic3.gov](https://www.ic3.gov)
- - date published: 2023-10-25T11:20:35.175486+00:00
- - user: None
- - tags: ['fbi', 'internet crime complaint']
-
-## Attention Required! | Cloudflare
- - [https://events.in.gov](https://events.in.gov)
- - date published: 2023-10-25T19:22:27.576944+00:00
- - user: None
- - tags: []
-
-## Internal Revenue Service | An official website of the United States government
- - [https://www.irs.gov](https://www.irs.gov)
- - date published: 2023-10-25T19:22:30.651654+00:00
- - user: None
- - tags: []
-
-## ERROR: The request could not be satisfied
- - [https://www.jobcorps.gov](https://www.jobcorps.gov)
- - date published: 2023-10-25T19:22:31.466539+00:00
- - user: None
- - tags: []
-
-## Department of Justice |  Homepage | United States Department of Justice
- - [https://www.justice.gov](https://www.justice.gov)
- - date published: 2023-10-25T19:22:33.543403+00:00
- - user: None
- - tags: []
-
-## Kansas Department of Commerce
- - [https://www.kansascommerce.gov](https://www.kansascommerce.gov)
- - date published: 2023-10-25T19:22:38.214597+00:00
- - user: None
- - tags: []
-
-## Los Angeles County District Attorney's Office
- - [https://da.lacounty.gov](https://da.lacounty.gov)
- - date published: 2023-10-25T19:22:42.028055+00:00
- - user: None
- - tags: []
-
-## LANL Research Library
- - [https://lib-www.lanl.gov](https://lib-www.lanl.gov)
- - date published: 2023-10-25T19:22:43.331654+00:00
- - user: None
- - tags: []
-
-## Off-Site Source Recovery Program (OSRP) | Sealed Sources Recovery | Los Alamos National Lab |
- - [https://osrp.lanl.gov](https://osrp.lanl.gov)
- - date published: 2023-10-25T19:22:45.215778+00:00
- - user: None
- - tags: []
-
-## ALS - Advanced Light Source
- - [https://als.lbl.gov](https://als.lbl.gov)
- - date published: 2023-10-25T19:22:49.152965+00:00
- - user: None
- - tags: []
-
-## Home – Berkeley Lab News Center
- - [https://newscenter.lbl.gov](https://newscenter.lbl.gov)
- - date published: 2023-10-25T19:22:51.346360+00:00
- - user: None
- - tags: []
-
-## Lawrence Livermore National Laboratory
- - [https://www.llnl.gov](https://www.llnl.gov)
- - date published: 2023-12-21T08:15:12.940138+00:00
- - user: None
- - tags: []
-
-## Library of Congress Blogs | Blogs from the Library of Congress
- - [https://blogs.loc.gov](https://blogs.loc.gov)
- - date published: 2023-10-25T19:22:55.285850+00:00
- - user: None
- - tags: []
-
-## Home - Research Guides at Library of Congress
- - [https://guides.loc.gov](https://guides.loc.gov)
- - date published: 2023-10-25T19:22:57.450959+00:00
  - user: None
  - tags: []
 

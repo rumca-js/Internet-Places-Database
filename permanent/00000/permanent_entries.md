@@ -3737,6 +3737,12 @@
  - user: None
  - tags: ['substack']
 
+## Oh Hello Ana
+ - [https://ohhelloana.blog](https://ohhelloana.blog)
+ - date published: 2024-01-03T04:05:44.287778+00:00
+ - user: None
+ - tags: []
+
 ## Paperless
  - [https://paperless.blog](https://paperless.blog)
  - date published: 2023-10-25T08:57:53.071595+00:00
@@ -5033,6 +5039,12 @@
  - user: None
  - tags: []
 
+## wozniak.ca
+ - [https://wozniak.ca](https://wozniak.ca)
+ - date published: 2024-01-03T04:13:05.405674+00:00
+ - user: None
+ - tags: []
+
 ## York University | Right the Future
  - [https://www.yorku.ca](https://www.yorku.ca)
  - date published: 2023-12-17T16:44:20.911714+00:00
@@ -5556,6 +5568,12 @@
  - user: None
  - tags: []
 
+## Ovidiu Cherecheș
+ - [https://ovidiu.ch](https://ovidiu.ch)
+ - date published: 2024-01-03T01:13:12.518362+00:00
+ - user: None
+ - tags: []
+
 ## paedubucher.ch
  - [https://paedubucher.ch](https://paedubucher.ch)
  - date published: 2023-10-25T12:14:08.646235+00:00
@@ -5981,22 +5999,4 @@
  - date published: 2023-10-25T09:30:30.295057+00:00
  - user: None
  - tags: []
-
-## Amazon.com. Spend less. Smile more.
- - [https://a.co](https://a.co)
- - date published: 2023-11-16T04:19:10.428435+00:00
- - user: None
- - tags: []
-
-## Aeon | a world of ideas
- - [https://aeon.co](https://aeon.co)
- - date published: 2023-10-25T12:16:27.025696+00:00
- - user: None
- - tags: []
-
-## Alex Charlton Design
- - [https://www.alexcharlton.co](https://www.alexcharlton.co)
- - date published: 2023-10-25T08:43:20.426465+00:00
- - user: None
- - tags: ['personal']
 

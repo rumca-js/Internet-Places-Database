@@ -1,3 +1,111 @@
+## Alexandre Olive – Medium
+ - [https://alexandreolive.medium.com](https://alexandreolive.medium.com)
+ - date published: 2023-10-25T10:18:39.600805+00:00
+ - user: None
+ - tags: []
+
+## Anand Tyagi – Medium
+ - [https://anandtyagi.medium.com](https://anandtyagi.medium.com)
+ - date published: 2023-10-25T16:00:43.989533+00:00
+ - user: None
+ - tags: []
+
+## Andy Walker – Medium
+ - [https://andzwa.medium.com](https://andzwa.medium.com)
+ - date published: 2023-10-25T10:18:41.766784+00:00
+ - user: None
+ - tags: []
+
+## Avi Loeb – Medium
+ - [https://avi-loeb.medium.com](https://avi-loeb.medium.com)
+ - date published: 2023-10-25T10:18:43.733455+00:00
+ - user: None
+ - tags: []
+
+## Behdad Esfahbod – Medium
+ - [https://behdadesfahbod.medium.com](https://behdadesfahbod.medium.com)
+ - date published: 2023-10-25T10:18:46.008539+00:00
+ - user: None
+ - tags: []
+
+## Marianne Bellotti – Medium
+ - [https://bellmar.medium.com](https://bellmar.medium.com)
+ - date published: 2023-10-25T10:18:48.828996+00:00
+ - user: None
+ - tags: []
+
+## Ben Einstein – Medium
+ - [https://beneinstein.medium.com](https://beneinstein.medium.com)
+ - date published: 2023-10-25T10:18:51.271180+00:00
+ - user: None
+ - tags: []
+
+## Bilal Mahmood – Medium
+ - [https://bilalmahmood.medium.com](https://bilalmahmood.medium.com)
+ - date published: 2023-10-25T10:18:53.537436+00:00
+ - user: None
+ - tags: []
+
+## Billy Chasen – Medium
+ - [https://billychasen.medium.com](https://billychasen.medium.com)
+ - date published: 2023-10-25T10:18:55.524086+00:00
+ - user: None
+ - tags: []
+
+## The Medium Blog
+ - [https://blog.medium.com](https://blog.medium.com)
+ - date published: 2023-10-25T10:18:57.853664+00:00
+ - user: None
+ - tags: []
+
+## Vladimir Smirnov – Medium
+ - [https://boredengineer.medium.com](https://boredengineer.medium.com)
+ - date published: 2023-10-25T10:18:59.986959+00:00
+ - user: None
+ - tags: []
+
+## Bruce Sterling – Medium
+ - [https://bruces.medium.com](https://bruces.medium.com)
+ - date published: 2023-10-25T10:19:02.375482+00:00
+ - user: None
+ - tags: []
+
+## Byrne Hobart – Medium
+ - [https://byrnehobart.medium.com](https://byrnehobart.medium.com)
+ - date published: 2023-10-25T10:19:04.794986+00:00
+ - user: None
+ - tags: []
+
+## Catherine Andrews – Medium
+ - [https://candrews.medium.com](https://candrews.medium.com)
+ - date published: 2023-10-25T10:19:07.319497+00:00
+ - user: None
+ - tags: []
+
+## Carlos Arguelles – Medium
+ - [https://carloarg02.medium.com](https://carloarg02.medium.com)
+ - date published: 2023-11-14T03:03:34.674567+00:00
+ - user: None
+ - tags: []
+
+## Medium
+ - [https://cherp.medium.com](https://cherp.medium.com)
+ - date published: 2023-10-25T10:19:08.602659+00:00
+ - user: None
+ - tags: []
+
+## Charles Chen – Medium
+ - [https://chrlschn.medium.com](https://chrlschn.medium.com)
+ - date published: 2023-10-25T10:19:10.864666+00:00
+ - user: None
+ - tags: []
+
+## Clive Thompson – Medium
+ - [https://clivethompson.medium.com](https://clivethompson.medium.com)
+ - date published: 2023-10-25T10:19:18.196307+00:00
+ - user: None
+ - tags: []
+
 ## Arthur Hayes – Medium
  - [https://cryptohayes.medium.com](https://cryptohayes.medium.com)
  - date published: 2023-10-25T10:19:20.082601+00:00
@@ -463,6 +571,12 @@
 ## Paul Fuhr – Medium
  - [https://paulfuhr.medium.com](https://paulfuhr.medium.com)
  - date published: 2023-10-25T10:22:22.357828+00:00
+ - user: None
+ - tags: []
+
+## Peter Czernecki 10xONE, iAGE / startup, turnaround – Medium
+ - [https://pczernecki.medium.com](https://pczernecki.medium.com)
+ - date published: 2024-01-03T05:05:02.253501+00:00
  - user: None
  - tags: []
 
@@ -4917,6 +5031,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Peer-reviewed Oncology & Cancer Research Journal | Oncotarget
+ - [https://www.oncotarget.com](https://www.oncotarget.com)
+ - date published: 2024-01-03T17:07:38.928646+00:00
+ - user: None
+ - tags: []
+
 ## Ondra Kozák
  - [https://ondrakozak.com](https://ondrakozak.com)
  - date published: 2023-12-11T10:57:28.937161+00:00
@@ -5286,6 +5406,12 @@ Answering Machine Greetings!
 ## Optimising Nutrition
  - [https://optimisingnutrition.com](https://optimisingnutrition.com)
  - date published: 2023-10-25T16:27:10.295055+00:00
+ - user: None
+ - tags: []
+
+## Home - Daintree Digital
+ - [https://optimizedfit.com](https://optimizedfit.com)
+ - date published: 2024-01-03T04:04:59.622792+00:00
  - user: None
  - tags: []
 
@@ -5877,130 +6003,4 @@ Answering Machine Greetings!
  - date published: 2023-10-27T10:58:53.737739+00:00
  - user: None
  - tags: ['wtf']
-
-## Paper. Work. Doing life.
- - [https://www.paperworkblog.com](https://www.paperworkblog.com)
- - date published: 2023-11-15T21:25:52.617486+00:00
- - user: None
- - tags: []
-
-## parade.com
- - [https://parade.com](https://parade.com)
- - date published: 2023-11-28T20:15:07+00:00
- - user: rumpel
- - tags: ['entertainment']
-
-## Welcome to ParadeDB - ParadeDB
- - [https://docs.paradedb.com](https://docs.paradedb.com)
- - date published: 2023-10-25T16:30:38.822701+00:00
- - user: None
- - tags: []
-
-## Paradox Interactive
- - [https://www.paradoxinteractive.com](https://www.paradoxinteractive.com)
- - date published: 2023-11-01T19:36:55.276204+00:00
- - user: None
- - tags: ['vampire masquarade', 'role playing games']
-
-## Growing Products — weekly essays for founders and startup teams
- - [https://growing-products.paralect.com](https://growing-products.paralect.com)
- - date published: 2023-10-25T16:30:41.101886+00:00
- - user: None
- - tags: []
-
-## Parallel Economy | A Censor-Resistant Ecosystem
- - [https://www.paralleleconomy.com](https://www.paralleleconomy.com)
- - date published: 2023-10-25T16:30:43.965679+00:00
- - user: None
- - tags: []
-
-## Parand
- - [https://www.parand.com](https://www.parand.com)
- - date published: 2023-10-25T16:30:46.136740+00:00
- - user: None
- - tags: []
-
-## https://static.parastorage.com
- - [https://static.parastorage.com](https://static.parastorage.com)
- - date published: 2023-12-11T16:56:44.679132+00:00
- - user: None
- - tags: []
-
-## Parin Patel
- - [https://www.parinpatel.com](https://www.parinpatel.com)
- - date published: 2023-11-29T17:08:55.692393+00:00
- - user: None
- - tags: ['personal']
-
-## Parker Klein | Personal Website
- - [https://www.parkerklein.com](https://www.parkerklein.com)
- - date published: 2023-11-29T20:43:18.758476+00:00
- - user: None
- - tags: ['personal']
-
-## Parkiet – portal finansowy z najważniejszymi wiadomościami - parkiet.com
- - [https://www.parkiet.com](https://www.parkiet.com)
- - date published: 2023-10-25T10:58:13.846289+00:00
- - user: None
- - tags: []
-
-## MOONLIGHT LOVE AFFAIR
- - [https://www.parovstelar.com](https://www.parovstelar.com)
- - date published: 2023-10-30T15:45:25.629658+00:00
- - user: None
- - tags: ['parov stellar', 'music band']
-
-## Live Your Dream
- - [https://passportjoy.com](https://passportjoy.com)
- - date published: 2023-12-10T11:35:05.409561+00:00
- - user: None
- - tags: ['personal']
-
-## Pastebin.com - #1 paste tool since 2002!
- - [https://pastebin.com](https://pastebin.com)
- - date published: 2023-10-24T20:19:33.932082+00:00
- - user: None
- - tags: []
-
-## Patagonia Outdoor Clothing & Gear
- - [https://www.patagonia.com](https://www.patagonia.com)
- - date published: 2023-10-25T16:30:56.435107+00:00
- - user: None
- - tags: []
-
-## Inpics Gadget Repair Services - InPics Solutions
- - [https://patersontech.com](https://patersontech.com)
- - date published: 2023-10-25T16:30:59.777009+00:00
- - user: None
- - tags: []
-
-## Path of Exile
- - [https://www.pathofexile.com](https://www.pathofexile.com)
- - date published: 2023-10-25T08:39:41.111324+00:00
- - user: None
- - tags: ['game']
-
-## Path-Sensitive
- - [https://www.pathsensitive.com](https://www.pathsensitive.com)
- - date published: 2023-10-25T16:31:04.472557+00:00
- - user: None
- - tags: []
-
-## PJK's Blog
- - [https://www.patjk.com](https://www.patjk.com)
- - date published: 2023-12-15T21:43:37.233324+00:00
- - user: None
- - tags: ['personal']
-
-## ~patmaddox: Home
- - [https://patmaddox.com](https://patmaddox.com)
- - date published: 2023-12-04T06:13:53.079304+00:00
- - user: None
- - tags: []
-
-## patorjk.com
- - [https://patorjk.com](https://patorjk.com)
- - date published: 2023-12-08T13:07:39+00:00
- - user: rumpel
- - tags: ['personal']
 

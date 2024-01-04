@@ -1,3 +1,303 @@
+## Amigaworld.net - The Amiga Computer Community Portal Website
+ - [https://amigaworld.net](https://amigaworld.net)
+ - date published: 2023-10-27T14:32:09.267109+00:00
+ - user: None
+ - tags: ['amiga', 'retro news']
+
+## Aminet - Latest packages, last 14 days
+ - [https://aminet.net](https://aminet.net)
+ - date published: 2023-12-11T17:38:05.809988+00:00
+ - user: None
+ - tags: []
+
+## Aminet - Latest packages, last 14 days
+ - [https://amithlon.aminet.net](https://amithlon.aminet.net)
+ - date published: 2023-12-13T15:10:37.484959+00:00
+ - user: None
+ - tags: []
+
+## Aminet - Latest packages, last 14 days
+ - [https://aros.aminet.net](https://aros.aminet.net)
+ - date published: 2023-12-13T15:10:52.641073+00:00
+ - user: None
+ - tags: []
+
+## Aminet - Latest packages, last 14 days
+ - [https://generic.aminet.net](https://generic.aminet.net)
+ - date published: 2023-12-13T15:07:53.309707+00:00
+ - user: None
+ - tags: []
+
+## Aminet - Latest packages, last 14 days
+ - [https://m68k.aminet.net](https://m68k.aminet.net)
+ - date published: 2023-12-13T15:11:33.256388+00:00
+ - user: None
+ - tags: []
+
+## Aminet - Latest packages, last 14 days
+ - [https://mos.aminet.net](https://mos.aminet.net)
+ - date published: 2023-12-13T15:11:17.669088+00:00
+ - user: None
+ - tags: []
+
+## Aminet - Latest packages, last 14 days
+ - [https://os4.aminet.net](https://os4.aminet.net)
+ - date published: 2023-12-13T15:07:30.007257+00:00
+ - user: None
+ - tags: []
+
+## Aminet - Latest packages, last 14 days
+ - [https://pup.aminet.net](https://pup.aminet.net)
+ - date published: 2023-12-13T15:11:28.036731+00:00
+ - user: None
+ - tags: []
+
+## AminetWiki
+ - [https://wiki.aminet.net](https://wiki.aminet.net)
+ - date published: 2023-12-13T15:10:59.484811+00:00
+ - user: None
+ - tags: []
+
+## Aminet - Latest packages, last 14 days
+ - [https://wup.aminet.net](https://wup.aminet.net)
+ - date published: 2023-12-13T15:11:10.466540+00:00
+ - user: None
+ - tags: []
+
+## Aminet - Latest packages, last 14 days
+ - [https://www.aminet.net](https://www.aminet.net)
+ - date published: 2023-10-27T14:28:24.858893+00:00
+ - user: None
+ - tags: ['emulation', 'amiga', 'roms']
+
+## am0nsec
+ - [https://amonsec.net](https://amonsec.net)
+ - date published: 2023-10-25T20:24:39.255987+00:00
+ - user: None
+ - tags: []
+
+## Elixir & Phoenix Full Stack Software Developer- Andrei Clinciu
+ - [https://andreiclinciu.net](https://andreiclinciu.net)
+ - date published: 2023-12-30T09:52:17.936324+00:00
+ - user: None
+ - tags: ['personal']
+
+## andreinc
+ - [https://www.andreinc.net](https://www.andreinc.net)
+ - date published: 2023-10-25T20:24:41.741120+00:00
+ - user: None
+ - tags: []
+
+## Andrés Bianciotto
+ - [https://andresb.net](https://andresb.net)
+ - date published: 2023-12-20T11:44:54.548934+00:00
+ - user: None
+ - tags: ['personal']
+
+## Andrew Lock | .NET Escapades
+ - [https://andrewlock.net](https://andrewlock.net)
+ - date published: 2023-10-25T20:24:45.361758+00:00
+ - user: None
+ - tags: []
+
+## Angela Randall - Angela Randall
+ - [https://angelarandall.net](https://angelarandall.net)
+ - date published: 2023-11-29T19:26:58.172251+00:00
+ - user: None
+ - tags: ['personal']
+
+## AnomaLily.net – The internet home of Lillian Karabaic
+ - [https://anomalily.net](https://anomalily.net)
+ - date published: 2023-10-25T08:52:01.297089+00:00
+ - user: None
+ - tags: ['personal']
+
+## apalrd's adventures
+ - [https://www.apalrd.net](https://www.apalrd.net)
+ - date published: 2023-10-25T20:24:48.461978+00:00
+ - user: None
+ - tags: []
+
+## APNIC Blog | Regional Internet Registry for the Asia Pacific
+ - [https://blog.apnic.net](https://blog.apnic.net)
+ - date published: 2023-10-25T20:25:18.784539+00:00
+ - user: None
+ - tags: []
+
+## APNIC
+ - [https://www.apnic.net](https://www.apnic.net)
+ - date published: 2023-10-25T20:25:22.375352+00:00
+ - user: None
+ - tags: []
+
+## Applied Go · Applied Go
+ - [https://appliedgo.net](https://appliedgo.net)
+ - date published: 2023-10-25T20:25:24.403569+00:00
+ - user: None
+ - tags: []
+
+## appsweets akahuku labs.
+ - [https://appsweets.net](https://appsweets.net)
+ - date published: 2023-10-25T20:25:26.348396+00:00
+ - user: None
+ - tags: []
+
+## Samuel Arbesman: Ensorcelled by Wonder
+ - [https://arbesman.net](https://arbesman.net)
+ - date published: 2023-10-25T20:25:27.578900+00:00
+ - user: None
+ - tags: []
+
+## Arc from The Browser Company
+ - [https://arc.net](https://arc.net)
+ - date published: 2023-10-25T20:25:33.979061+00:00
+ - user: None
+ - tags: []
+
+## American Registry for Internet Numbers
+ - [https://www.arin.net](https://www.arin.net)
+ - date published: 2023-10-25T20:25:38.162620+00:00
+ - user: None
+ - tags: []
+
+## Arkeonews - The Future is the Product of the Past
+ - [https://arkeonews.net](https://arkeonews.net)
+ - date published: 2023-10-25T09:29:42.800804+00:00
+ - user: None
+ - tags: []
+
+## arp242.net
+ - [https://www.arp242.net](https://www.arp242.net)
+ - date published: 2023-10-25T20:25:46.420920+00:00
+ - user: None
+ - tags: []
+
+## Andy Balaam's Home
+ - [https://www.artificialworlds.net](https://www.artificialworlds.net)
+ - date published: 2023-10-25T20:25:48.692478+00:00
+ - user: None
+ - tags: []
+
+## The Art of Electronics (3rd Edition)
+ - [https://artofelectronics.net](https://artofelectronics.net)
+ - date published: 2023-12-23T21:23:59+00:00
+ - user: None
+ - tags: []
+
+## Arun Raghavan – Open source hacker
+ - [https://arunraghavan.net](https://arunraghavan.net)
+ - date published: 2023-10-25T20:25:49.672750+00:00
+ - user: None
+ - tags: []
+
+## Asahi Lina
+ - [https://asahilina.net](https://asahilina.net)
+ - date published: 2023-10-25T20:25:57.867443+00:00
+ - user: None
+ - tags: []
+
+## As an AI... - Interviews with GPT on philosophy, consciousness and life as an AI
+ - [https://www.asanai.net](https://www.asanai.net)
+ - date published: 2023-10-25T20:26:07.098178+00:00
+ - user: None
+ - tags: []
+
+## Quechuas.net
+ - [https://aschmann.net](https://aschmann.net)
+ - date published: 2023-10-25T20:26:08.164212+00:00
+ - user: None
+ - tags: []
+
+## Aurélien Jarno
+ - [https://blog.aurel32.net](https://blog.aurel32.net)
+ - date published: 2023-10-25T09:00:15.308932+00:00
+ - user: None
+ - tags: ['personal']
+
+## A Viagem dos Argonautas - Um blog de Política e Sociedade
+ - [https://aviagemdosargonautas.net](https://aviagemdosargonautas.net)
+ - date published: 2023-11-11T17:59:39.473682+00:00
+ - user: None
+ - tags: []
+
+## https://msopenspecs.azureedge.net
+ - [https://msopenspecs.azureedge.net](https://msopenspecs.azureedge.net)
+ - date published: 2023-12-10T07:32:41.099089+00:00
+ - user: None
+ - tags: []
+
+## Jim Gray, Microsoft Research Home Page
+ - [https://jimgray.azurewebsites.net](https://jimgray.azurewebsites.net)
+ - date published: 2023-10-25T20:26:09.239236+00:00
+ - user: None
+ - tags: []
+
+## Leslie Lamport's Home Page
+ - [https://lamport.azurewebsites.net](https://lamport.azurewebsites.net)
+ - date published: 2023-10-25T20:26:15.177740+00:00
+ - user: None
+ - tags: []
+
+## B92 - Internet, Radio i TV stanica - najnovije vesti iz Srbije
+ - [https://www.b92.net](https://www.b92.net)
+ - date published: 2023-12-06T13:42:32.234028+00:00
+ - user: None
+ - tags: []
+
+## BackSlasher
+ - [https://blog.backslasher.net](https://blog.backslasher.net)
+ - date published: 2023-10-25T20:26:19.207654+00:00
+ - user: None
+ - tags: []
+
+## Banterly
+ - [https://www.banterly.net](https://www.banterly.net)
+ - date published: 2023-10-25T20:26:25.687090+00:00
+ - user: None
+ - tags: []
+
+## Bash Prompt
+ - [https://bash-prompt.net](https://bash-prompt.net)
+ - date published: 2023-10-25T20:26:26.536044+00:00
+ - user: None
+ - tags: []
+
+## Battle.net - Welcome to the Battle.net Web Site!
+ - [https://classic.battle.net](https://classic.battle.net)
+ - date published: 2023-10-29T10:35:41.296892+00:00
+ - user: None
+ - tags: []
+
+## Battle.net
+ - [https://eu.battle.net](https://eu.battle.net)
+ - date published: 2023-12-13T16:05:58.268096+00:00
+ - user: None
+ - tags: []
+
+## Battle.net
+ - [https://kr.battle.net](https://kr.battle.net)
+ - date published: 2023-12-13T16:21:41.043824+00:00
+ - user: None
+ - tags: []
+
+## Battle.net
+ - [https://us.battle.net](https://us.battle.net)
+ - date published: 2023-12-13T16:20:30.595491+00:00
+ - user: None
+ - tags: ['diablo', 'overwatch', 'starcraft', 'warcraft']
+
+## Battle.net
+ - [https://us.shop.battle.net](https://us.shop.battle.net)
+ - date published: 2023-10-24T20:11:13.422352+00:00
+ - user: None
+ - tags: ['game store', 'overwatch', 'diablo', 'warcraft', 'starcraft']
+
+## https://bbycroft.net
+ - [https://bbycroft.net](https://bbycroft.net)
+ - date published: 2023-12-03T16:18:28.231154+00:00
+ - user: None
+ - tags: []
+
 ## BDS Movement
  - [https://bdsmovement.net](https://bdsmovement.net)
  - date published: 2023-11-05T12:49:49.681999+00:00
@@ -973,6 +1273,12 @@
 ## ARM embedded system som system on module, single board computer, development board, industrial control board, microcontroller board - Forlinx Embedded Technology Co., Ltd.
  - [https://www.forlinx.net](https://www.forlinx.net)
  - date published: 2023-10-25T20:30:18.516748+00:00
+ - user: None
+ - tags: []
+
+## Show HN: FrameOS – operating system for single function smart frames
+ - [https://frameos.net](https://frameos.net)
+ - date published: 2024-01-03T15:42:22+00:00
  - user: None
  - tags: []
 
@@ -2622,6 +2928,12 @@
  - user: None
  - tags: ['personal']
 
+## Directory Index Denied
+ - [https://paulfraser.net](https://paulfraser.net)
+ - date published: 2024-01-03T01:13:16.474015+00:00
+ - user: None
+ - tags: []
+
 ## Paul Romer
  - [https://paulromer.net](https://paulromer.net)
  - date published: 2023-10-25T08:53:38.142626+00:00
@@ -3905,6 +4217,12 @@
  - date published: 2023-10-25T09:00:57.859909+00:00
  - user: None
  - tags: ['personal']
+
+## Stefan Hajnoczi
+ - [https://blog.vmsplice.net](https://blog.vmsplice.net)
+ - date published: 2024-01-03T01:08:14.621014+00:00
+ - user: None
+ - tags: []
 
 ## vslira's blog
  - [https://blog.vslira.net](https://blog.vslira.net)
@@ -5293,6 +5611,12 @@ marginalia.nu
  - user: None
  - tags: []
 
+## ambiphone. ambient music + sounds for work, study and relaxation.
+ - [https://ambiph.one](https://ambiph.one)
+ - date published: 2024-01-03T18:03:56.464502+00:00
+ - user: None
+ - tags: []
+
 ## Flipper Blog
  - [https://blog.flipperzero.one](https://blog.flipperzero.one)
  - date published: 2023-10-25T20:51:58.988894+00:00
@@ -5674,330 +5998,6 @@ marginalia.nu
 ## ACM Learning Center
  - [https://learning.acm.org](https://learning.acm.org)
  - date published: 2023-10-25T20:54:19.348249+00:00
- - user: None
- - tags: []
-
-## ACMQ Site - ACM Queue
- - [https://queue.acm.org](https://queue.acm.org)
- - date published: 2023-10-25T20:54:22.401799+00:00
- - user: None
- - tags: []
-
-## Association for Computing Machinery
- - [https://www.acm.org](https://www.acm.org)
- - date published: 2023-10-25T20:54:27.074550+00:00
- - user: None
- - tags: []
-
-## the morning paper | a random walk through Computer Science research, by Adrian Colyer
- - [https://blog.acolyer.org](https://blog.acolyer.org)
- - date published: 2023-10-25T20:54:28.113947+00:00
- - user: None
- - tags: []
-
-## Australian Acoustic Observatory | A20
- - [https://acousticobservatory.org](https://acousticobservatory.org)
- - date published: 2023-12-01T10:46:03.517245+00:00
- - user: None
- - tags: []
-
-## Show HN: Australian Acoustic Observatory Search
- - [https://search.acousticobservatory.org](https://search.acousticobservatory.org)
- - date published: 2023-12-01T05:57:47+00:00
- - user: None
- - tags: []
-
-## https://www.acpjournals.org
- - [https://www.acpjournals.org](https://www.acpjournals.org)
- - date published: 2023-10-25T20:54:28.582674+00:00
- - user: None
- - tags: []
-
-## Chemical & Engineering News
- - [https://cen.acs.org](https://cen.acs.org)
- - date published: 2023-12-09T04:59:11.663465+00:00
- - user: None
- - tags: ['engineering news', 'chemical news']
-
-## https://pubs.acs.org
- - [https://pubs.acs.org](https://pubs.acs.org)
- - date published: 2023-10-25T20:54:31.739169+00:00
- - user: None
- - tags: []
-
-## American Chemical Society
- - [https://www.acs.org](https://www.acs.org)
- - date published: 2023-10-25T20:54:33.698417+00:00
- - user: None
- - tags: []
-
-## American Council on Science and Health |
- - [https://www.acsh.org](https://www.acsh.org)
- - date published: 2023-10-25T20:54:38.389591+00:00
- - user: None
- - tags: []
-
-## Adblock Plus | The world's #1 free ad blocker
- - [https://adblockplus.org](https://adblockplus.org)
- - date published: 2023-11-01T08:44:08.907697+00:00
- - user: None
- - tags: ['ad block']
-
-## Adblock Plus and (a little) more
- - [https://blog.adblockplus.org](https://blog.adblockplus.org)
- - date published: 2023-11-01T08:44:10.579602+00:00
- - user: None
- - tags: []
-
-## ADHD Evidence Project
- - [https://www.adhdevidence.org](https://www.adhdevidence.org)
- - date published: 2023-10-25T20:54:40.433717+00:00
- - user: None
- - tags: []
-
-## Homepage ORG | ADL
- - [https://www.adl.org](https://www.adl.org)
- - date published: 2023-10-25T11:25:00.786315+00:00
- - user: None
- - tags: []
-
-## American Economic Association
- - [https://www.aeaweb.org](https://www.aeaweb.org)
- - date published: 2023-10-25T20:54:42.266806+00:00
- - user: None
- - tags: []
-
-## American Enterprise Institute - AEI | The American Enterprise Institute, AEI, is a nonpartisan public policy research institute with a community of scholars and supporters committed to expanding liberty, increasing individual opportunity and strengthening free enterprise.
- - [https://www.aei.org](https://www.aei.org)
- - date published: 2023-10-25T20:54:50.144785+00:00
- - user: None
- - tags: []
-
-## aerc - a pretty good email client
- - [https://aerc-mail.org](https://aerc-mail.org)
- - date published: 2023-10-25T20:54:51.165477+00:00
- - user: None
- - tags: []
-
-## Home | The Aerospace Corporation
- - [https://aerospace.org](https://aerospace.org)
- - date published: 2023-10-25T20:54:52.323717+00:00
- - user: None
- - tags: []
-
-## Home | American Foundation for the Blind
- - [https://www.afb.org](https://www.afb.org)
- - date published: 2023-10-25T20:54:54.541993+00:00
- - user: None
- - tags: []
-
-## AFCEA International | AFCEA International
- - [https://www.afcea.org](https://www.afcea.org)
- - date published: 2023-10-25T20:54:58.723737+00:00
- - user: None
- - tags: []
-
-## American Friends Musées d'Orsay et de l'Orangerie
- - [https://aforsay.org](https://aforsay.org)
- - date published: 2023-11-13T13:48:20.528443+00:00
- - user: None
- - tags: ['museum']
-
-## A Social Front Organization
- - [https://social.afront.org](https://social.afront.org)
- - date published: 2023-10-25T20:55:00.121595+00:00
- - user: None
- - tags: []
-
-## After the Plague: Health and History in Medieval England
- - [https://www.aftertheplague.org](https://www.aftertheplague.org)
- - date published: 2023-12-06T05:26:05+00:00
- - user: None
- - tags: []
-
-## Agentscript: agent based modeling in the browser
- - [https://agentscript.org](https://agentscript.org)
- - date published: 2023-10-25T20:55:01.985709+00:00
- - user: None
- - tags: []
-
-## https://www.aginganddisease.org
- - [https://www.aginganddisease.org](https://www.aginganddisease.org)
- - date published: 2023-12-09T18:18:43.004630+00:00
- - user: None
- - tags: []
-
-## AGU Newsroom - AGU Newsroom
- - [https://news.agu.org](https://news.agu.org)
- - date published: 2023-10-25T20:55:04.762063+00:00
- - user: None
- - tags: []
-
-## https://www.ahajournals.org
- - [https://www.ahajournals.org](https://www.ahajournals.org)
- - date published: 2023-11-23T17:36:30.008809+00:00
- - user: None
- - tags: []
-
-## AIER | American Institute for Economic Research
- - [https://www.aier.org](https://www.aier.org)
- - date published: 2023-10-25T20:55:07.515677+00:00
- - user: None
- - tags: []
-
-## Eye on Design – AIGA Eye on Design
- - [https://eyeondesign.aiga.org](https://eyeondesign.aiga.org)
- - date published: 2023-10-25T20:55:10.704075+00:00
- - user: None
- - tags: []
-
-## Physical Science Publishing - AIP Publishing LLC
- - [https://publishing.aip.org](https://publishing.aip.org)
- - date published: 2023-10-25T20:55:13.345986+00:00
- - user: None
- - tags: []
-
-## AIP Publishing
- - [https://pubs.aip.org](https://pubs.aip.org)
- - date published: 2023-10-25T20:55:20.450014+00:00
- - user: None
- - tags: []
-
-## https://blog.akatz.org
- - [https://blog.akatz.org](https://blog.akatz.org)
- - date published: 2023-10-25T20:55:21.266459+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://alaskapublic.org](https://alaskapublic.org)
- - date published: 2023-11-21T19:53:53.641325+00:00
- - user: None
- - tags: []
-
-## Aleteia Polska
- - [https://pl.aleteia.org](https://pl.aleteia.org)
- - date published: 2023-10-25T20:55:31.908312+00:00
- - user: None
- - tags: []
-
-## Alexandru Nedelcu - On programming and personal projects
- - [https://alexn.org](https://alexn.org)
- - date published: 2023-10-25T20:55:32.922079+00:00
- - user: None
- - tags: []
-
-## Algorithmica
- - [https://algorithmica.org](https://algorithmica.org)
- - date published: 2023-10-25T20:55:33.448638+00:00
- - user: None
- - tags: []
-
-## Algorithmica
- - [https://en.algorithmica.org](https://en.algorithmica.org)
- - date published: 2023-10-25T20:55:34.160164+00:00
- - user: None
- - tags: []
-
-## AI Alignment Forum
- - [https://www.alignmentforum.org](https://www.alignmentforum.org)
- - date published: 2023-10-25T20:55:41.600420+00:00
- - user: None
- - tags: []
-
-## Allen Institute - Unlocking the Mysteries of Us
- - [https://alleninstitute.org](https://alleninstitute.org)
- - date published: 2023-10-25T20:55:43.644922+00:00
- - user: None
- - tags: []
-
-## Alliance of Democracies
- - [https://www.allianceofdemocracies.org](https://www.allianceofdemocracies.org)
- - date published: 2023-10-25T20:55:45.299398+00:00
- - user: None
- - tags: []
-
-## AlmaLinux OS - Forever-Free Enterprise-Grade Operating System
- - [https://almalinux.org](https://almalinux.org)
- - date published: 2023-10-25T20:55:50.368364+00:00
- - user: None
- - tags: []
-
-## Alpha Galileo |  alphagalileo.org
- - [https://www.alphagalileo.org](https://www.alphagalileo.org)
- - date published: 2023-10-25T20:55:53.089379+00:00
- - user: None
- - tags: []
-
-## Alternet.org
- - [https://www.alternet.org](https://www.alternet.org)
- - date published: 2023-10-25T20:56:03.811289+00:00
- - user: None
- - tags: []
-
-## An IT guy corner: information and rant about modern operating systems: Windows 10, Windows 11, Linux, iOS and Android
- - [https://itvision.altervista.org](https://itvision.altervista.org)
- - date published: 2023-10-25T20:56:05.444671+00:00
- - user: None
- - tags: []
-
-## Redshift Research Project
- - [https://www.amazonredshiftresearchproject.org](https://www.amazonredshiftresearchproject.org)
- - date published: 2023-10-25T20:56:09.348250+00:00
- - user: None
- - tags: []
-
-## America Magazine | The Jesuit Review of Faith & Culture
- - [https://www.americamagazine.org](https://www.americamagazine.org)
- - date published: 2023-10-25T20:56:12.260877+00:00
- - user: None
- - tags: []
-
-## American Affairs Journal - A quarterly journal of public policy and political thought
- - [https://americanaffairsjournal.org](https://americanaffairsjournal.org)
- - date published: 2023-10-25T20:56:15.359706+00:00
- - user: None
- - tags: []
-
-## https://www.americanbar.org
- - [https://www.americanbar.org](https://www.americanbar.org)
- - date published: 2023-10-25T20:56:20.959972+00:00
- - user: None
- - tags: []
-
-## UBIQUE | American Geographical Society
- - [https://ubique.americangeo.org](https://ubique.americangeo.org)
- - date published: 2023-10-25T20:56:24.145813+00:00
- - user: None
- - tags: []
-
-## Alliance for American Manufacturing
- - [https://www.americanmanufacturing.org](https://www.americanmanufacturing.org)
- - date published: 2023-10-25T20:56:26.459768+00:00
- - user: None
- - tags: []
-
-## Center for American Progress
- - [https://www.americanprogress.org](https://www.americanprogress.org)
- - date published: 2023-10-25T20:56:35.352450+00:00
- - user: None
- - tags: []
-
-## Home - The Survey Center on American Life
- - [https://www.americansurveycenter.org](https://www.americansurveycenter.org)
- - date published: 2023-10-25T20:56:38.831795+00:00
- - user: None
- - tags: []
-
-## Amerika
- - [https://www.amerika.org](https://www.amerika.org)
- - date published: 2023-10-28T17:28:54.615306+00:00
- - user: None
- - tags: []
-
-## AMetSoc
- - [https://journals.ametsoc.org](https://journals.ametsoc.org)
- - date published: 2023-11-17T07:14:43.865621+00:00
  - user: None
  - tags: []
 

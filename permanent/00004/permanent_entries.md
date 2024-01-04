@@ -1,6 +1,78 @@
+## Four Bar Design
+ - [https://www.fourbardesign.com](https://www.fourbardesign.com)
+ - date published: 2023-10-25T14:36:55.657537+00:00
+ - user: None
+ - tags: []
+
+## FOX 13 Tampa Bay
+ - [https://www.fox13news.com](https://www.fox13news.com)
+ - date published: 2023-11-09T20:23:39.042535+00:00
+ - user: None
+ - tags: []
+
+## FOX19 | Cincinnati
+ - [https://www.fox19.com](https://www.fox19.com)
+ - date published: 2023-10-25T11:03:39.176612+00:00
+ - user: None
+ - tags: []
+
+## FOX 26 Houston
+ - [https://www.fox26houston.com](https://www.fox26houston.com)
+ - date published: 2023-11-20T22:49:09.791736+00:00
+ - user: None
+ - tags: []
+
+## FOX 2 Detroit
+ - [https://www.fox2detroit.com](https://www.fox2detroit.com)
+ - date published: 2023-10-25T11:03:56.232571+00:00
+ - user: None
+ - tags: []
+
+## FOX 35 Orlando
+ - [https://www.fox35orlando.com](https://www.fox35orlando.com)
+ - date published: 2023-11-27T20:50:59.160081+00:00
+ - user: None
+ - tags: []
+
+## FOX 4 News Dallas-Fort Worth
+ - [https://fox4news.com](https://fox4news.com)
+ - date published: 2023-11-07T15:12:46.586235+00:00
+ - user: None
+ - tags: []
+
+## FOX 4 News Dallas-Fort Worth
+ - [https://www.fox4news.com](https://www.fox4news.com)
+ - date published: 2023-10-25T11:04:13.925923+00:00
+ - user: None
+ - tags: []
+
+## Fox 4 News | WFTX - Southwest Florida | Fox4Now.com - Home
+ - [https://www.fox4now.com](https://www.fox4now.com)
+ - date published: 2023-10-25T11:04:21.031601+00:00
+ - user: None
+ - tags: []
+
+## FOX 5 Atlanta
+ - [https://www.fox5atlanta.com](https://www.fox5atlanta.com)
+ - date published: 2023-12-15T21:47:23.514757+00:00
+ - user: None
+ - tags: []
+
+## FOX 5 DC
+ - [https://www.fox5dc.com](https://www.fox5dc.com)
+ - date published: 2023-10-25T11:04:31.305284+00:00
+ - user: None
+ - tags: []
+
 ## FOX 5 New York
  - [https://www.fox5ny.com](https://www.fox5ny.com)
  - date published: 2023-11-01T17:47:22.130538+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.fox5vegas.com](https://www.fox5vegas.com)
+ - date published: 2024-01-03T12:30:37.079630+00:00
  - user: None
  - tags: []
 
@@ -5928,78 +6000,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Jacob Stoner
  - [https://blog.jacobstoner.com](https://blog.jacobstoner.com)
  - date published: 2023-10-25T15:25:43.930450+00:00
- - user: None
- - tags: []
-
-## Jacques Mattheij
- - [https://jacquesmattheij.com](https://jacquesmattheij.com)
- - date published: 2023-10-25T15:25:49.543836+00:00
- - user: None
- - tags: []
-
-## Jailbreak Chat
- - [https://www.jailbreakchat.com](https://www.jailbreakchat.com)
- - date published: 2023-10-25T15:25:49.907916+00:00
- - user: None
- - tags: []
-
-## Jaime Bermejo ¿Quién soy? - 🚀 JAIME BERMEJO 🚀
- - [https://www.jaimebermejo.com](https://www.jaimebermejo.com)
- - date published: 2023-12-11T23:18:00.179044+00:00
- - user: None
- - tags: ['personal']
-
-## Jain | The Fool | Official Website
- - [https://www.jain-music.com](https://www.jain-music.com)
- - date published: 2023-11-13T09:51:26.066975+00:00
- - user: None
- - tags: ['music band']
-
-## Blog - JakeArchibald.com
- - [https://jakearchibald.com](https://jakearchibald.com)
- - date published: 2023-10-25T15:25:50.778011+00:00
- - user: None
- - tags: []
-
-## Jake Coppinger
- - [https://jakecoppinger.com](https://jakecoppinger.com)
- - date published: 2023-10-25T15:25:55.918940+00:00
- - user: None
- - tags: []
-
-## Athlete | JFP Sailing | England
- - [https://www.jakefarrenprice.com](https://www.jakefarrenprice.com)
- - date published: 2023-11-29T14:53:18.199392+00:00
- - user: None
- - tags: ['personal']
-
-## Web, mobile app development, and other stuff too
- - [https://www.jakekorth.com](https://www.jakekorth.com)
- - date published: 2023-12-27T10:11:14.489363+00:00
- - user: None
- - tags: ['personal']
-
-## jakelazaroff.com
- - [https://jakelazaroff.com](https://jakelazaroff.com)
- - date published: 2023-10-25T08:46:14.704303+00:00
- - user: None
- - tags: ['personal']
-
-## The Story's Story
- - [https://jakeseliger.com](https://jakeseliger.com)
- - date published: 2023-10-25T15:26:08.119306+00:00
- - user: None
- - tags: []
-
-## Jake Walker
- - [https://jakewalker.com](https://jakewalker.com)
- - date published: 2023-11-29T14:42:08.821311+00:00
- - user: None
- - tags: ['personal']
-
-## Jake Wharton
- - [https://jakewharton.com](https://jakewharton.com)
- - date published: 2023-10-25T15:26:10.461258+00:00
  - user: None
  - tags: []
 
