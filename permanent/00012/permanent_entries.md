@@ -1,3 +1,423 @@
+## EIP Gaming - Video Game Walkthroughs, News, & Reviews
+ - [https://eip.gg](https://eip.gg)
+ - date published: 2023-12-13T16:15:56.959477+00:00
+ - user: None
+ - tags: []
+
+## Explain Like I'm 5 - AI assisted ELI5
+ - [https://eli5.gg](https://eli5.gg)
+ - date published: 2023-10-25T19:17:12.083486+00:00
+ - user: None
+ - tags: []
+
+## Gen.G Esports
+ - [https://geng.gg](https://geng.gg)
+ - date published: 2023-11-03T12:50:54.357347+00:00
+ - user: None
+ - tags: []
+
+## Lexicon Gaming - Gaming Network
+ - [https://lexicon.gg](https://lexicon.gg)
+ - date published: 2023-12-13T16:17:28.599712+00:00
+ - user: None
+ - tags: []
+
+## Linus Tech Tips
+ - [https://lmg.gg](https://lmg.gg)
+ - date published: 2023-12-21T21:53:18+00:00
+ - user: rumpel
+ - tags: []
+
+## Maxroll
+ - [https://maxroll.gg](https://maxroll.gg)
+ - date published: 2023-12-13T16:18:25.175632+00:00
+ - user: None
+ - tags: []
+
+## NRG Esports | Home
+ - [https://www.nrg.gg](https://www.nrg.gg)
+ - date published: 2023-11-02T10:40:58.258689+00:00
+ - user: None
+ - tags: []
+
+## Find and Share the Best Warframe Builds - Overframe
+ - [https://overframe.gg](https://overframe.gg)
+ - date published: 2023-12-13T16:20:00.589994+00:00
+ - user: None
+ - tags: []
+
+## Riot Games Official News, Patch Notes & More - RiotWatch
+ - [https://riotwatch.gg](https://riotwatch.gg)
+ - date published: 2023-12-13T16:15:50.241910+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Scorecard.gg – minimalist scoring tool for your favorite board games
+ - [https://scorecard.gg](https://scorecard.gg)
+ - date published: 2023-11-07T14:33:53+00:00
+ - user: None
+ - tags: []
+
+## Sunny Golovine
+ - [https://sunny.gg](https://sunny.gg)
+ - date published: 2023-10-25T19:17:12.779363+00:00
+ - user: None
+ - tags: []
+
+## T1
+ - [https://t1.gg](https://t1.gg)
+ - date published: 2023-11-19T11:19:04.284643+00:00
+ - user: None
+ - tags: []
+
+## Home - TGS Esports
+ - [https://www.tgsesports.gg](https://www.tgsesports.gg)
+ - date published: 2023-10-25T11:26:26.268549+00:00
+ - user: None
+ - tags: []
+
+## Samuel Vilz
+ - [https://vilz.gg](https://vilz.gg)
+ - date published: 2023-12-28T18:50:12.689760+00:00
+ - user: None
+ - tags: ['personal']
+
+## Waku website
+ - [https://waku.gg](https://waku.gg)
+ - date published: 2023-10-25T19:17:13.554606+00:00
+ - user: None
+ - tags: []
+
+## WIN.gg - Your competitive edge in gaming and esports
+ - [https://win.gg](https://win.gg)
+ - date published: 2023-10-25T19:17:15.045264+00:00
+ - user: None
+ - tags: []
+
+## Invalid Dynamic Link
+ - [https://forms.gle](https://forms.gle)
+ - date published: 2023-12-05T02:33:59.537781+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Toyota Research Institute
+ - [https://www.tri.global](https://www.tri.global)
+ - date published: 2023-10-25T19:17:16.769072+00:00
+ - user: None
+ - tags: []
+
+## Google Translate
+ - [https://www-bild-de.translate.goog](https://www-bild-de.translate.goog)
+ - date published: 2023-11-06T18:03:15.833718+00:00
+ - user: None
+ - tags: []
+
+## Google Translate
+ - [https://www-heise-de.translate.goog](https://www-heise-de.translate.goog)
+ - date published: 2023-11-10T07:08:49.465512+00:00
+ - user: None
+ - tags: []
+
+## Google - Informacje
+ - [https://about.google](https://about.google)
+ - date published: 2023-10-25T19:17:18.468849+00:00
+ - user: None
+ - tags: []
+
+## Google AI
+ - [https://ai.google](https://ai.google)
+ - date published: 2023-10-25T19:17:19.726037+00:00
+ - user: None
+ - tags: []
+
+## The Keyword | Google Product and Technology News and Stories
+ - [https://blog.google](https://blog.google)
+ - date published: 2023-10-25T11:29:32.894232+00:00
+ - user: None
+ - tags: []
+
+## Google Cloud Skills Boost
+ - [https://www.cloudskillsboost.google](https://www.cloudskillsboost.google)
+ - date published: 2023-10-25T19:17:22.518995+00:00
+ - user: None
+ - tags: []
+
+## Google DeepMind
+ - [https://deepmind.google](https://deepmind.google)
+ - date published: 2023-11-14T16:38:56.541975+00:00
+ - user: None
+ - tags: ['artificial intelligence']
+
+## Google Domains | Official Site – Google Domains
+ - [https://domains.google](https://domains.google)
+ - date published: 2023-10-25T19:17:33.780895+00:00
+ - user: None
+ - tags: []
+
+## H4CK1NG G00GL3
+ - [https://h4ck1ng.google](https://h4ck1ng.google)
+ - date published: 2023-10-25T19:17:40.273388+00:00
+ - user: None
+ - tags: []
+
+## Google I/O 2023
+ - [https://io.google](https://io.google)
+ - date published: 2023-10-25T19:17:46.710273+00:00
+ - user: None
+ - tags: []
+
+## Labs.Google
+ - [https://labs.google](https://labs.google)
+ - date published: 2023-12-22T02:13:39+00:00
+ - user: None
+ - tags: []
+
+## Google Open Source
+ - [https://opensource.google](https://opensource.google)
+ - date published: 2023-12-06T11:17:33+00:00
+ - user: rumpel
+ - tags: ['open source']
+
+## Google Research Blog
+ - [https://blog.research.google](https://blog.research.google)
+ - date published: 2023-10-25T11:32:57.455414+00:00
+ - user: None
+ - tags: []
+
+## Imagen: Text-to-Image Diffusion Models
+ - [https://imagen.research.google](https://imagen.research.google)
+ - date published: 2023-10-25T19:17:47.644089+00:00
+ - user: None
+ - tags: []
+
+## Google Research
+ - [https://sites.research.google](https://sites.research.google)
+ - date published: 2023-10-25T19:17:49.502568+00:00
+ - user: None
+ - tags: []
+
+## Google - Site Reliability Engineering
+ - [https://sre.google](https://sre.google)
+ - date published: 2023-10-27T14:31:32.109730+00:00
+ - user: None
+ - tags: []
+
+## Argonne National Laboratory Homepage | Argonne National Laboratory
+ - [https://www.anl.gov](https://www.anl.gov)
+ - date published: 2023-10-25T19:17:52.526159+00:00
+ - user: None
+ - tags: []
+
+## National Archives |
+ - [https://www.archives.gov](https://www.archives.gov)
+ - date published: 2023-10-25T19:17:54.767250+00:00
+ - user: None
+ - tags: ['library', 'archives']
+
+## U.S. Bureau of Economic Analysis (BEA)
+ - [https://www.bea.gov](https://www.bea.gov)
+ - date published: 2023-10-25T19:18:02.924414+00:00
+ - user: None
+ - tags: []
+
+## U.S. Bureau of Labor Statistics
+ - [https://www.bls.gov](https://www.bls.gov)
+ - date published: 2023-10-25T19:18:06.559665+00:00
+ - user: None
+ - tags: []
+
+## City of Boulder Open Data
+ - [https://open-data.bouldercolorado.gov](https://open-data.bouldercolorado.gov)
+ - date published: 2023-11-26T14:08:47+00:00
+ - user: None
+ - tags: []
+
+## The Department of Financial Protection and Innovation (DFPI) | Securing a fair and healthy financial services marketplace
+ - [https://dfpi.ca.gov](https://dfpi.ca.gov)
+ - date published: 2023-10-25T19:18:09.805592+00:00
+ - user: None
+ - tags: []
+
+## State of California - Department of Justice - Office of the Attorney General
+ - [https://oag.ca.gov](https://oag.ca.gov)
+ - date published: 2023-10-25T19:18:14.245263+00:00
+ - user: None
+ - tags: []
+
+## California Courts - Home
+ - [https://www.courts.ca.gov](https://www.courts.ca.gov)
+ - date published: 2023-10-25T19:18:17.125876+00:00
+ - user: None
+ - tags: []
+
+## https://www.dmv.ca.gov
+ - [https://www.dmv.ca.gov](https://www.dmv.ca.gov)
+ - date published: 2023-12-16T17:16:27.374703+00:00
+ - user: None
+ - tags: []
+
+## Comprehensive Cancer Information - NCI
+ - [https://www.cancer.gov](https://www.cancer.gov)
+ - date published: 2023-10-25T19:18:18.579854+00:00
+ - user: None
+ - tags: []
+
+## Congressional Budget Office
+ - [https://www.cbo.gov](https://www.cbo.gov)
+ - date published: 2023-11-25T17:09:06.156821+00:00
+ - user: None
+ - tags: []
+
+## Centers for Disease Control and Prevention
+ - [https://www.cdc.gov](https://www.cdc.gov)
+ - date published: 2023-10-25T19:18:20.513066+00:00
+ - user: None
+ - tags: []
+
+## Census.gov
+ - [https://www.census.gov](https://www.census.gov)
+ - date published: 2023-10-25T19:18:28.624624+00:00
+ - user: None
+ - tags: []
+
+## Commodity Futures Trading Commission | CFTC
+ - [https://www.cftc.gov](https://www.cftc.gov)
+ - date published: 2023-10-25T19:18:30.878793+00:00
+ - user: None
+ - tags: []
+
+## We are the Nation's first line of defense - CIA
+ - [https://www.cia.gov](https://www.cia.gov)
+ - date published: 2023-10-25T19:18:37.730570+00:00
+ - user: None
+ - tags: ['cia', 'government']
+
+## Home | NICCS
+ - [https://niccs.cisa.gov](https://niccs.cisa.gov)
+ - date published: 2023-10-25T19:18:39.523763+00:00
+ - user: None
+ - tags: []
+
+## Home Page | CISA
+ - [https://www.cisa.gov](https://www.cisa.gov)
+ - date published: 2023-10-25T19:18:41.700248+00:00
+ - user: None
+ - tags: []
+
+## https://cde.ucr.cjis.gov
+ - [https://cde.ucr.cjis.gov](https://cde.ucr.cjis.gov)
+ - date published: 2023-11-12T13:04:34.470969+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://www.commerce.gov](https://www.commerce.gov)
+ - date published: 2023-11-01T19:47:55.173039+00:00
+ - user: None
+ - tags: []
+
+## Congress.gov API
+ - [https://api.congress.gov](https://api.congress.gov)
+ - date published: 2023-10-25T19:19:12.540417+00:00
+ - user: None
+ - tags: []
+
+## https://www.congress.gov
+ - [https://www.congress.gov](https://www.congress.gov)
+ - date published: 2023-10-25T19:19:13.544364+00:00
+ - user: None
+ - tags: []
+
+## Consumer Financial Protection Bureau
+ - [https://www.consumerfinance.gov](https://www.consumerfinance.gov)
+ - date published: 2023-10-25T19:19:22.686885+00:00
+ - user: None
+ - tags: []
+
+## U.S. Copyright Office | U.S. Copyright Office
+ - [https://www.copyright.gov](https://www.copyright.gov)
+ - date published: 2023-11-01T08:43:34.224069+00:00
+ - user: None
+ - tags: []
+
+## CPSC.gov
+ - [https://www.cpsc.gov](https://www.cpsc.gov)
+ - date published: 2023-10-25T19:19:28.555283+00:00
+ - user: None
+ - tags: []
+
+## U.S. Department of Defense
+ - [https://media.defense.gov](https://media.defense.gov)
+ - date published: 2023-10-25T19:19:33.802662+00:00
+ - user: None
+ - tags: []
+
+## U.S. Department of Defense
+ - [https://www.defense.gov](https://www.defense.gov)
+ - date published: 2023-10-25T19:19:38.874037+00:00
+ - user: None
+ - tags: []
+
+## Home - Delaware General Assembly
+ - [https://legis.delaware.gov](https://legis.delaware.gov)
+ - date published: 2023-10-25T19:19:49.711045+00:00
+ - user: None
+ - tags: []
+
+## Home | Homeland Security
+ - [https://www.dhs.gov](https://www.dhs.gov)
+ - date published: 2023-10-25T19:19:55.186821+00:00
+ - user: None
+ - tags: []
+
+## USWDS: The United States Web Design System | U.S. Web Design System (USWDS)
+ - [https://designsystem.digital.gov](https://designsystem.digital.gov)
+ - date published: 2023-10-25T19:20:02.198655+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.dni.gov](https://www.dni.gov)
+ - date published: 2023-10-25T19:20:05.412646+00:00
+ - user: None
+ - tags: []
+
+## BIS Website
+ - [https://www.bis.doc.gov](https://www.bis.doc.gov)
+ - date published: 2023-10-25T19:20:19.432638+00:00
+ - user: None
+ - tags: []
+
+## Home | U.S. Department of Labor
+ - [https://www.dol.gov](https://www.dol.gov)
+ - date published: 2023-10-25T19:20:24.712207+00:00
+ - user: None
+ - tags: []
+
+## Federal Highway Administration
+ - [https://highways.dot.gov](https://highways.dot.gov)
+ - date published: 2023-10-25T19:20:28.006537+00:00
+ - user: None
+ - tags: []
+
+## ERIC - Education Resources Information Center
+ - [https://files.eric.ed.gov](https://files.eric.ed.gov)
+ - date published: 2023-10-25T19:20:29.057582+00:00
+ - user: None
+ - tags: []
+
+## Homepage - U.S. Energy Information Administration (EIA)
+ - [https://www.eia.gov](https://www.eia.gov)
+ - date published: 2023-10-25T19:20:38.108192+00:00
+ - user: None
+ - tags: []
+
+## Department of Energy
+ - [https://www.energy.gov](https://www.energy.gov)
+ - date published: 2023-10-25T19:20:40.502538+00:00
+ - user: None
+ - tags: []
+
 ## U.S. Environmental Protection Agency | US EPA
  - [https://www.epa.gov](https://www.epa.gov)
  - date published: 2023-10-25T19:20:46.144373+00:00
@@ -888,7 +1308,7 @@
  - [https://juiced.gs](https://juiced.gs)
  - date published: 2024-01-02T21:43:13.244766+00:00
  - user: None
- - tags: []
+ - tags: ['apple ii', 'retro']
 
 ## d2r.guide · Diablo II: Resurrected Cheat Sheet
  - [https://d2r.guide](https://d2r.guide)
@@ -1055,6 +1475,12 @@
 ## Osobna vozila | Gospodarska vozila | Citroën
  - [https://www.citroen.hr](https://www.citroen.hr)
  - date published: 2023-12-11T16:02:20.579873+00:00
+ - user: None
+ - tags: []
+
+## Hrvatski radio - HRT
+ - [https://radio.hrt.hr](https://radio.hrt.hr)
+ - date published: 2024-01-04T14:59:28.124402+00:00
  - user: None
  - tags: []
 
@@ -1599,6 +2025,12 @@
  - user: None
  - tags: []
 
+## Karthick Ram - Software Developer
+ - [https://karthickram.in](https://karthickram.in)
+ - date published: 2024-01-04T01:12:48.776884+00:00
+ - user: None
+ - tags: []
+
 ## Talks and Ramblings by Anant Narayanan
  - [https://www.kix.in](https://www.kix.in)
  - date published: 2023-10-25T19:31:09.999679+00:00
@@ -1662,6 +2094,12 @@
 ## Prashant Sengar - Prashant Sengar
  - [https://prashants.in](https://prashants.in)
  - date published: 2023-10-25T19:31:34.244782+00:00
+ - user: None
+ - tags: []
+
+## Prem Patel
+ - [https://premp.in](https://premp.in)
+ - date published: 2024-01-04T22:44:03.071397+00:00
  - user: None
  - tags: []
 
@@ -4270,6 +4708,12 @@ through Composable Diffusion
  - user: None
  - tags: []
 
+## Dennis Muensterer
+ - [https://dnnsmnstrr.github.io](https://dnnsmnstrr.github.io)
+ - date published: 2024-01-04T08:12:41.237152+00:00
+ - user: None
+ - tags: []
+
 ## Personal Website of Dorian Quelle
  - [https://dorianquelle.github.io](https://dorianquelle.github.io)
  - date published: 2023-11-26T19:21:24.102261+00:00
@@ -5453,6 +5897,12 @@ through Composable Diffusion
  - user: None
  - tags: []
 
+## https://patrickroxas.github.io
+ - [https://patrickroxas.github.io](https://patrickroxas.github.io)
+ - date published: 2024-01-04T03:33:46.508274+00:00
+ - user: None
+ - tags: []
+
 ## https://paulsec.github.io
  - [https://paulsec.github.io](https://paulsec.github.io)
  - date published: 2023-10-25T19:51:06.414524+00:00
@@ -5552,456 +6002,6 @@ through Composable Diffusion
 ## Blog | pvigier’s blog
  - [https://pvigier.github.io](https://pvigier.github.io)
  - date published: 2023-10-25T19:51:21.999014+00:00
- - user: None
- - tags: []
-
-## pypackaging-native
- - [https://pypackaging-native.github.io](https://pypackaging-native.github.io)
- - date published: 2023-10-25T19:51:23.653265+00:00
- - user: None
- - tags: []
-
-## @radekmie’s take on IT and stuff
- - [https://radekmie.github.io](https://radekmie.github.io)
- - date published: 2023-10-25T19:51:26.585195+00:00
- - user: None
- - tags: []
-
-## Raft Consensus Algorithm
- - [https://raft.github.io](https://raft.github.io)
- - date published: 2023-10-25T19:51:29.605767+00:00
- - user: None
- - tags: []
-
-## Raph Levien’s blog | Blog of Raph Levien.
- - [https://raphlinus.github.io](https://raphlinus.github.io)
- - date published: 2023-10-25T19:51:36.478581+00:00
- - user: None
- - tags: []
-
-## ReAct: Synergizing Reasoning and Acting in Language Models
- - [https://react-lm.github.io](https://react-lm.github.io)
- - date published: 2023-10-25T19:51:37.875070+00:00
- - user: None
- - tags: []
-
-## RealFill
- - [https://realfill.github.io](https://realfill.github.io)
- - date published: 2023-10-25T19:51:39.362206+00:00
- - user: None
- - tags: []
-
-## Reanimate
- - [https://reanimate.github.io](https://reanimate.github.io)
- - date published: 2023-10-25T19:51:40.811373+00:00
- - user: None
- - tags: []
-
-## ReconFusion: 3D Reconstruction with Diffusion Priors
- - [https://reconfusion.github.io](https://reconfusion.github.io)
- - date published: 2023-12-08T16:44:34+00:00
- - user: None
- - tags: []
-
-## Simplex Sigillum Veri
- - [https://remusao.github.io](https://remusao.github.io)
- - date published: 2023-10-25T19:51:47.504665+00:00
- - user: None
- - tags: []
-
-## Wenhao (Reself) Chai
- - [https://rese1f.github.io](https://rese1f.github.io)
- - date published: 2023-10-25T19:51:49.283567+00:00
- - user: None
- - tags: []
-
-## Expressive Text-to-Image Generation with Rich Text
- - [https://rich-text-to-image.github.io](https://rich-text-to-image.github.io)
- - date published: 2023-10-25T19:51:51.003701+00:00
- - user: None
- - tags: []
-
-## Ryohei (Rio) Weil
- - [https://rioweil.github.io](https://rioweil.github.io)
- - date published: 2023-10-25T19:51:52.549274+00:00
- - user: None
- - tags: []
-
-## RoboAgent: Towards Sample Efficient Robot Manipulation with Semantic Augmentations and Action Chunking
- - [https://robopen.github.io](https://robopen.github.io)
- - date published: 2023-10-25T19:51:54.669938+00:00
- - user: None
- - tags: []
-
-## Open X-Embodiment: Robotic Learning Datasets and RT-X Models
- - [https://robotics-transformer-x.github.io](https://robotics-transformer-x.github.io)
- - date published: 2023-10-25T19:51:56.287307+00:00
- - user: None
- - tags: []
-
-## Rodrigodd
- - [https://rodrigodd.github.io](https://rodrigodd.github.io)
- - date published: 2023-10-25T19:51:57.633401+00:00
- - user: None
- - tags: []
-
-## https://rubjo.github.io
- - [https://rubjo.github.io](https://rubjo.github.io)
- - date published: 2023-11-19T14:59:13.915453+00:00
- - user: None
- - tags: []
-
-## Ruby Hacking Guide
- - [https://ruby-hacking-guide.github.io](https://ruby-hacking-guide.github.io)
- - date published: 2023-10-25T19:51:59.280808+00:00
- - user: None
- - tags: []
-
-## rust-analyzer
- - [https://rust-analyzer.github.io](https://rust-analyzer.github.io)
- - date published: 2023-10-25T19:52:01.419582+00:00
- - user: None
- - tags: []
-
-## GCC Front-End For Rust | Alternative Rust Compiler for GCC
- - [https://rust-gcc.github.io](https://rust-gcc.github.io)
- - date published: 2023-10-25T19:52:02.960686+00:00
- - user: None
- - tags: []
-
-## Rustam Kovhaev's blog
- - [https://rustylife.github.io](https://rustylife.github.io)
- - date published: 2023-10-25T08:59:14.364536+00:00
- - user: None
- - tags: ['personal']
-
-## Salwyn Mathew
- - [https://salwinat0r.github.io](https://salwinat0r.github.io)
- - date published: 2023-12-17T05:07:59.226368+00:00
- - user: None
- - tags: ['personal']
-
-## Sam Pruden Does Stuff
- - [https://sampruden.github.io](https://sampruden.github.io)
- - date published: 2023-10-25T19:52:05.808364+00:00
- - user: None
- - tags: []
-
-## sam.bigos
- - [https://samuelbigos.github.io](https://samuelbigos.github.io)
- - date published: 2023-10-25T19:52:07.178304+00:00
- - user: None
- - tags: []
-
-## https://sancarn.github.io
- - [https://sancarn.github.io](https://sancarn.github.io)
- - date published: 2023-11-15T02:22:26.981632+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://satoshi7190.github.io](https://satoshi7190.github.io)
- - date published: 2023-12-28T11:29:55.944040+00:00
- - user: None
- - tags: []
-
-## SHA-1 is a Shambles
- - [https://sha-mbles.github.io](https://sha-mbles.github.io)
- - date published: 2023-10-25T19:52:08.723718+00:00
- - user: None
- - tags: []
-
-## Shihab Khan
- - [https://shihab-shahriar.github.io](https://shihab-shahriar.github.io)
- - date published: 2023-12-19T23:38:02.523519+00:00
- - user: None
- - tags: []
-
-## Shishir Patil
- - [https://shishirpatil.github.io](https://shishirpatil.github.io)
- - date published: 2023-10-25T08:59:15.329709+00:00
- - user: None
- - tags: ['personal']
-
-## Open Source Software Projects - Shopify
- - [https://shopify.github.io](https://shopify.github.io)
- - date published: 2023-10-27T12:05:08.814711+00:00
- - user: None
- - tags: []
-
-## Shunyuan Zheng (郑顺源)’s Homepage
- - [https://shunyuanzheng.github.io](https://shunyuanzheng.github.io)
- - date published: 2023-12-08T22:09:13.139274+00:00
- - user: None
- - tags: []
-
-## Work Hard, Span Easy | Parallelizing things is easy, but making them fast is hard. A blog about parallel algorithms, data structures, programming languages, and anything else that comes to mind. Written by Sam Westrick.
- - [https://shwestrick.github.io](https://shwestrick.github.io)
- - date published: 2023-10-25T19:54:05.578167+00:00
- - user: None
- - tags: []
-
-## https://sillycross.github.io
- - [https://sillycross.github.io](https://sillycross.github.io)
- - date published: 2023-10-25T19:54:11.123868+00:00
- - user: None
- - tags: []
-
-## SilverhammerMBA's Home
- - [https://silverhammermba.github.io](https://silverhammermba.github.io)
- - date published: 2023-10-25T19:54:12.735851+00:00
- - user: None
- - tags: []
-
-## Hacker News
- - [https://simonpure.github.io](https://simonpure.github.io)
- - date published: 2023-10-25T19:54:14.176500+00:00
- - user: None
- - tags: []
-
-## Simple Statistics
- - [https://simple-statistics.github.io](https://simple-statistics.github.io)
- - date published: 2023-10-25T19:54:14.937648+00:00
- - user: None
- - tags: []
-
-## Show HN: Fill and Sign PDF from any website with a single line of code
- - [https://simplepdf.github.io](https://simplepdf.github.io)
- - date published: 2023-12-30T16:03:47+00:00
- - user: None
- - tags: []
-
-## Sivome
- - [https://sivome.github.io](https://sivome.github.io)
- - date published: 2023-11-12T08:19:47.034590+00:00
- - user: None
- - tags: []
-
-## Ramblings of a cloud engineer
- - [https://skarlso.github.io](https://skarlso.github.io)
- - date published: 2023-10-27T10:24:30.773839+00:00
- - user: None
- - tags: []
-
-## smara’s place
- - [https://smaraf.github.io](https://smaraf.github.io)
- - date published: 2024-01-03T04:04:49.479544+00:00
- - user: None
- - tags: []
-
-## Smerf: Streamable Memory Efficient Radiance Fields
- - [https://smerf-3d.github.io](https://smerf-3d.github.io)
- - date published: 2023-12-13T19:03:13+00:00
- - user: None
- - tags: []
-
-## Snakemake - A framework for reproducible data analysis
- - [https://snakemake.github.io](https://snakemake.github.io)
- - date published: 2023-10-25T19:54:15.726455+00:00
- - user: None
- - tags: []
-
-## Everything Racket
- - [https://soegaard.github.io](https://soegaard.github.io)
- - date published: 2023-10-25T19:54:22.183680+00:00
- - user: None
- - tags: []
-
-## Jascha’s blog | This blog is intended to be a place to share ideas and results that are too weird, incomplete, or off-topic to turn into an academic paper, but that I think may be important. Let me know what you think! Contact links to the left.
- - [https://sohl-dickstein.github.io](https://sohl-dickstein.github.io)
- - date published: 2023-10-25T19:54:22.838537+00:00
- - user: None
- - tags: []
-
-## https://sollecitom.github.io
- - [https://sollecitom.github.io](https://sollecitom.github.io)
- - date published: 2023-10-29T16:02:19.082465+00:00
- - user: None
- - tags: []
-
-## Soufflé | Soufflé • A Datalog Synthesis Tool for Static Analysis
- - [https://souffle-lang.github.io](https://souffle-lang.github.io)
- - date published: 2023-10-25T19:54:24.056975+00:00
- - user: None
- - tags: []
-
-## Speech Research
- - [https://speechresearch.github.io](https://speechresearch.github.io)
- - date published: 2023-10-25T19:54:25.616717+00:00
- - user: None
- - tags: []
-
-## William Spies
- - [https://spieswl.github.io](https://spieswl.github.io)
- - date published: 2023-12-22T22:53:26.101609+00:00
- - user: None
- - tags: []
-
-## Stephen Schoepfer
- - [https://sschoepfer.github.io](https://sschoepfer.github.io)
- - date published: 2023-12-11T23:18:29.673417+00:00
- - user: None
- - tags: ['personal']
-
-## Stefan Schüller
- - [https://sschueller.github.io](https://sschueller.github.io)
- - date published: 2023-10-25T19:54:28.538345+00:00
- - user: None
- - tags: []
-
-## https://stanforddatascience.github.io
- - [https://stanforddatascience.github.io](https://stanforddatascience.github.io)
- - date published: 2023-11-12T20:45:27.941454+00:00
- - user: None
- - tags: []
-
-## stdnoerr's blog
- - [https://stdnoerr.github.io](https://stdnoerr.github.io)
- - date published: 2023-10-25T08:59:16.279940+00:00
- - user: None
- - tags: ['personal']
-
-## Prevent Default
- - [https://sts10.github.io](https://sts10.github.io)
- - date published: 2023-12-08T08:31:09.671455+00:00
- - user: None
- - tags: []
-
-## StyleDrop: Text-to-Image Generation in Any Style
- - [https://styledrop.github.io](https://styledrop.github.io)
- - date published: 2023-10-25T19:54:34.980707+00:00
- - user: None
- - tags: []
-
-## Hackflow
- - [https://suor.github.io](https://suor.github.io)
- - date published: 2023-10-25T19:54:37.097870+00:00
- - user: None
- - tags: []
-
-## Stan Szymanowicz
- - [https://szymanowiczs.github.io](https://szymanowiczs.github.io)
- - date published: 2023-12-21T14:20:25.804918+00:00
- - user: None
- - tags: []
-
-## Josh Berry's Blog
- - [https://taeric.github.io](https://taeric.github.io)
- - date published: 2023-10-25T19:54:38.604675+00:00
- - user: None
- - tags: []
-
-## System Programming Lab | The next public class is SOLD OUT – November 27-28 and December 4-5 (4 days) via Zoom
- - [https://tandasat.github.io](https://tandasat.github.io)
- - date published: 2023-10-25T19:54:40.015158+00:00
- - user: None
- - tags: []
-
-## tangarts
- - [https://tangarts.github.io](https://tangarts.github.io)
- - date published: 2024-01-02T03:35:23.837120+00:00
- - user: None
- - tags: []
-
-## tangentstorm's github page
- - [https://tangentstorm.github.io](https://tangentstorm.github.io)
- - date published: 2023-12-31T13:20:14.669899+00:00
- - user: None
- - tags: []
-
-## Text-to-Audio Generation using Instruction Tuned LLM and Latent Diffusion Model
- - [https://tango-web.github.io](https://tango-web.github.io)
- - date published: 2023-10-25T19:54:41.441534+00:00
- - user: None
- - tags: []
-
-## TheAbbie: Abhishek Chaudhary
- - [https://theabbie.github.io](https://theabbie.github.io)
- - date published: 2023-11-29T17:14:27.934904+00:00
- - user: None
- - tags: ['personal']
-
-## The Force Engine ·
- - [https://theforceengine.github.io](https://theforceengine.github.io)
- - date published: 2023-10-25T19:54:43.382443+00:00
- - user: None
- - tags: []
-
-## Electronics etc…
- - [https://tomverbeure.github.io](https://tomverbeure.github.io)
- - date published: 2023-10-25T19:54:56.629189+00:00
- - user: None
- - tags: []
-
-## Redirecting to Peng Wang's Public Notion Site
- - [https://totoro97.github.io](https://totoro97.github.io)
- - date published: 2023-10-25T19:54:57.690671+00:00
- - user: None
- - tags: []
-
-## tpaschalis – software, systems
- - [https://tpaschalis.github.io](https://tpaschalis.github.io)
- - date published: 2023-10-25T19:55:00.774309+00:00
- - user: None
- - tags: []
-
-## Tristan de Cacqueray – Tristan's Zettelkasten
- - [https://tristancacqueray.github.io](https://tristancacqueray.github.io)
- - date published: 2023-10-25T19:55:02.459044+00:00
- - user: None
- - tags: []
-
-## trofi's blog: /
- - [https://trofi.github.io](https://trofi.github.io)
- - date published: 2023-10-25T08:59:17.032313+00:00
- - user: None
- - tags: ['personal']
-
-## John  Tromp HomePage
- - [https://tromp.github.io](https://tromp.github.io)
- - date published: 2023-10-25T19:55:03.866969+00:00
- - user: None
- - tags: []
-
-## Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models
- - [https://tuning-encoder.github.io](https://tuning-encoder.github.io)
- - date published: 2023-10-25T19:55:06.349691+00:00
- - user: None
- - tags: []
-
-## Home - Richard Marmorstein
- - [https://twitchard.github.io](https://twitchard.github.io)
- - date published: 2023-10-25T19:55:07.096382+00:00
- - user: None
- - tags: []
-
-## Vertette's Blog
- - [https://vertette.github.io](https://vertette.github.io)
- - date published: 2023-10-28T07:51:18.208706+00:00
- - user: None
- - tags: []
-
-## Vimium - the hacker's browser
- - [https://vimium.github.io](https://vimium.github.io)
- - date published: 2023-10-25T19:55:08.196629+00:00
- - user: None
- - tags: []
-
-## Victor Stinner blog 3
- - [https://vstinner.github.io](https://vstinner.github.io)
- - date published: 2023-10-25T19:55:09.424906+00:00
- - user: None
- - tags: []
-
-## Val on Programming
- - [https://vvvvalvalval.github.io](https://vvvvalvalval.github.io)
- - date published: 2023-10-25T08:49:30.971591+00:00
- - user: None
- - tags: ['personal']
-
-## Photorealistic Video Generation with Diffusion Models
- - [https://walt-video-diffusion.github.io](https://walt-video-diffusion.github.io)
- - date published: 2023-12-11T18:00:07+00:00
  - user: None
  - tags: []
 

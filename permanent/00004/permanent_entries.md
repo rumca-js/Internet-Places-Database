@@ -1,3 +1,183 @@
+## Forbes India | Leadership, Innovation, Billionaires, Startups, India's richest people, Business news
+ - [https://www.forbesindia.com](https://www.forbesindia.com)
+ - date published: 2023-11-28T20:17:02+00:00
+ - user: rumpel
+ - tags: ['journalism', 'news']
+
+## Home | Ford of Europe | Ford Media Center
+ - [https://media.ford.com](https://media.ford.com)
+ - date published: 2023-10-25T15:10:06.084869+00:00
+ - user: None
+ - tags: []
+
+## Ford® - New Hybrid & Electric Vehicles, SUVs, Crossovers, Trucks, Vans & Cars
+ - [https://www.ford.com](https://www.ford.com)
+ - date published: 2023-11-01T08:42:08.838585+00:00
+ - user: None
+ - tags: []
+
+## Foreign Affairs Magazine
+ - [https://www.foreignaffairs.com](https://www.foreignaffairs.com)
+ - date published: 2023-10-25T15:10:16.234805+00:00
+ - user: None
+ - tags: []
+
+## Foreign Brief
+ - [https://foreignbrief.com](https://foreignbrief.com)
+ - date published: 2023-12-29T05:28:44.166117+00:00
+ - user: None
+ - tags: []
+
+## Foreign Policy – the Global Magazine of News and Ideas
+ - [https://foreignpolicy.com](https://foreignpolicy.com)
+ - date published: 2023-10-25T15:10:25.310637+00:00
+ - user: None
+ - tags: []
+
+## When it matters, say it on Forem — Forem
+ - [https://forem.com](https://forem.com)
+ - date published: 2023-10-25T08:32:55.266940+00:00
+ - user: None
+ - tags: []
+
+## News  | On the Scene and in the Lab - Forensic®
+ - [https://www.forensicmag.com](https://www.forensicmag.com)
+ - date published: 2023-10-25T15:10:28.071402+00:00
+ - user: None
+ - tags: []
+
+## Forensic Science Society
+ - [https://forensicsciencesociety.com](https://forensicsciencesociety.com)
+ - date published: 2023-10-28T17:32:29.161406+00:00
+ - user: None
+ - tags: ['crime', 'police']
+
+## Forexlive | Forex News, Technical Analysis & Trading Tools
+ - [https://www.forexlive.com](https://www.forexlive.com)
+ - date published: 2023-12-15T21:52:32.167982+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.format.com](https://www.format.com)
+ - date published: 2023-10-27T10:24:23.394039+00:00
+ - user: None
+ - tags: []
+
+## High Resolution SLA and SLS 3D Printers for Professionals
+ - [https://formlabs.com](https://formlabs.com)
+ - date published: 2023-10-27T10:15:17.313202+00:00
+ - user: None
+ - tags: ['corporate', '3d printing']
+
+## Forrester Helps Organizations Grow Through Customer Obsession
+ - [https://www.forrester.com](https://www.forrester.com)
+ - date published: 2023-10-25T15:10:40.006112+00:00
+ - user: None
+ - tags: []
+
+## Forrest Glover Design - Custom Drapery Manufacturing with 3-4 week Lead Time.
+ - [https://www.forrestgloverdesign.com](https://www.forrestgloverdesign.com)
+ - date published: 2023-12-03T09:19:46.568413+00:00
+ - user: None
+ - tags: ['personal']
+
+## Forrest Heller
+ - [https://forrestheller.com](https://forrestheller.com)
+ - date published: 2023-12-27T03:17:31.876183+00:00
+ - user: None
+ - tags: []
+
+## ForrestTheWoods - Home
+ - [https://www.forrestthewoods.com](https://www.forrestthewoods.com)
+ - date published: 2023-10-25T14:35:30.429573+00:00
+ - user: None
+ - tags: []
+
+## blog.forret.com · Peter Forret
+ - [https://blog.forret.com](https://blog.forret.com)
+ - date published: 2023-10-25T14:35:33.678369+00:00
+ - user: None
+ - tags: []
+
+## Ben Forta
+ - [https://forta.com](https://forta.com)
+ - date published: 2023-10-25T14:35:41.162914+00:00
+ - user: None
+ - tags: []
+
+## Home - Forte Labs
+ - [https://fortelabs.com](https://fortelabs.com)
+ - date published: 2023-10-25T14:35:48.567669+00:00
+ - user: None
+ - tags: []
+
+## software development systems & services
+ - [https://www.forth.com](https://www.forth.com)
+ - date published: 2023-10-25T14:35:54.553513+00:00
+ - user: None
+ - tags: []
+
+## Global Leader of Cybersecurity Solutions and Services | Fortinet
+ - [https://www.fortinet.com](https://www.fortinet.com)
+ - date published: 2023-10-25T14:36:07.519364+00:00
+ - user: None
+ - tags: []
+
+## Fortress of Doors
+ - [https://www.fortressofdoors.com](https://www.fortressofdoors.com)
+ - date published: 2023-10-25T14:36:09.294965+00:00
+ - user: None
+ - tags: []
+
+## Fortune - Fortune 500 Daily & Breaking Business News | Fortune
+ - [https://fortune.com](https://fortune.com)
+ - date published: 2023-10-25T14:36:22.071682+00:00
+ - user: None
+ - tags: []
+
+## News That Matters to American Jews – The Forward
+ - [https://forward.com](https://forward.com)
+ - date published: 2023-10-25T14:36:25.563672+00:00
+ - user: None
+ - tags: []
+
+## FOSSA: Audit-Grade Open Source Dependency Protection
+ - [https://fossa.com](https://fossa.com)
+ - date published: 2023-10-25T14:36:27.833673+00:00
+ - user: None
+ - tags: []
+
+## FOSS Force - Keeping tech free
+ - [https://fossforce.com](https://fossforce.com)
+ - date published: 2023-10-25T09:32:58.587105+00:00
+ - user: None
+ - tags: []
+
+## Market & Opportunity Explorer for Devs · Fossfox
+ - [https://fossfox.com](https://fossfox.com)
+ - date published: 2023-10-25T14:36:32.664186+00:00
+ - user: None
+ - tags: []
+
+## FOSS Patents
+ - [http://www.fosspatents.com](http://www.fosspatents.com)
+ - date published: 2023-10-25T14:36:39.372249+00:00
+ - user: None
+ - tags: []
+
+## Founder's Choice
+ - [https://www.founderschoicevc.com](https://www.founderschoicevc.com)
+ - date published: 2023-10-25T14:36:45.980846+00:00
+ - user: None
+ - tags: []
+
+## Founding Fuel
+ - [https://foundingfuel.com](https://foundingfuel.com)
+ - date published: 2023-10-25T14:36:52.016854+00:00
+ - user: None
+ - tags: []
+
 ## Four Bar Design
  - [https://www.fourbardesign.com](https://www.fourbardesign.com)
  - date published: 2023-10-25T14:36:55.657537+00:00
@@ -1190,6 +1370,12 @@
 ## gerrysweeney.com – Sharing My Passion for Electronics Engineering and Software Hacking
  - [https://gerrysweeney.com](https://gerrysweeney.com)
  - date published: 2023-10-25T14:43:13.625341+00:00
+ - user: None
+ - tags: []
+
+## Gersande La Fleche
+ - [https://gersande.com](https://gersande.com)
+ - date published: 2024-01-04T08:11:47.772325+00:00
  - user: None
  - tags: []
 
@@ -2394,6 +2580,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Home - Gradient Flow
  - [https://gradientflow.com](https://gradientflow.com)
  - date published: 2023-10-25T14:50:23.145758+00:00
+ - user: None
+ - tags: []
+
+## Graeme Sacks music therapy
+ - [https://graemesacks.com](https://graemesacks.com)
+ - date published: 2024-01-04T19:55:52.847502+00:00
  - user: None
  - tags: []
 
@@ -4299,6 +4491,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Hrishi Mittal
+ - [https://hrishimittal.com](https://hrishimittal.com)
+ - date published: 2024-01-04T08:12:50.656142+00:00
+ - user: None
+ - tags: []
+
 ## HSBC Group corporate website | HSBC Holdings plc
  - [https://www.hsbc.com](https://www.hsbc.com)
  - date published: 2023-10-25T15:11:36.231641+00:00
@@ -4574,6 +4772,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-12-28T18:50:04.458221+00:00
  - user: None
  - tags: ['personal']
+
+## Dennis Field —  Brand & Employee Experience Designer
+ - [https://iamdennisfield.com](https://iamdennisfield.com)
+ - date published: 2024-01-04T08:12:28.678294+00:00
+ - user: None
+ - tags: []
 
 ## New UK record for wind power set today – 21.81 GW between 0900-0930 GMT
  - [https://grid.iamkate.com](https://grid.iamkate.com)
@@ -5547,6 +5751,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Collaborate better | InVision
+ - [https://www.invisionapp.com](https://www.invisionapp.com)
+ - date published: 2024-01-04T19:51:34.055894+00:00
+ - user: None
+ - tags: []
+
 ## INVISV | Securing Data in Motion
  - [https://invisv.com](https://invisv.com)
  - date published: 2023-10-25T15:22:56.621551+00:00
@@ -5679,6 +5889,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Irving Weekly news sports finance health Irving TX
+ - [https://www.irvingweekly.com](https://www.irvingweekly.com)
+ - date published: 2024-01-04T03:43:38.763680+00:00
+ - user: None
+ - tags: []
+
 ## Irwin Collier's Blog, Economics in the Rear-view Mirror
  - [https://www.irwincollier.com](https://www.irwincollier.com)
  - date published: 2023-10-25T15:23:46.067334+00:00
@@ -5784,222 +6000,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Status Overview • Is The Service Down?
  - [https://istheservicedown.com](https://istheservicedown.com)
  - date published: 2023-10-25T15:24:17.795730+00:00
- - user: None
- - tags: []
-
-## Help, is this عربي?
- - [https://isthisarabic.com](https://isthisarabic.com)
- - date published: 2023-10-25T15:24:19.139174+00:00
- - user: None
- - tags: []
-
-## Isthmus: Free and online all the time - Isthmus | Madison, Wisconsin
- - [https://isthmus.com](https://isthmus.com)
- - date published: 2023-10-25T15:24:22.767105+00:00
- - user: None
- - tags: []
-
-## istwitterdownyet.com
- - [https://istwitterdownyet.com](https://istwitterdownyet.com)
- - date published: 2023-10-25T15:24:24.184009+00:00
- - user: None
- - tags: []
-
-## http://www.isuresults.com
- - [http://www.isuresults.com](http://www.isuresults.com)
- - date published: 2023-11-03T17:34:06.178556+00:00
- - user: None
- - tags: []
-
-## https://www.itbrew.com
- - [https://www.itbrew.com](https://www.itbrew.com)
- - date published: 2023-11-20T20:04:01.138736+00:00
- - user: None
- - tags: []
-
-## iTerm2 - macOS Terminal Replacement
- - [https://iterm2.com](https://iterm2.com)
- - date published: 2023-10-25T15:24:29.565257+00:00
- - user: None
- - tags: []
-
-## Technical How-to's, Tips, and Tricks | ITIGIC
- - [https://itigic.com](https://itigic.com)
- - date published: 2023-10-25T15:24:32.675709+00:00
- - user: None
- - tags: []
-
-## ITOps Times - IT Operations News
- - [https://www.itopstimes.com](https://www.itopstimes.com)
- - date published: 2023-10-25T09:33:35.606323+00:00
- - user: None
- - tags: []
-
-## ITPro | A comprehensive resource for enterprise IT professionals
- - [https://www.itpro.com](https://www.itpro.com)
- - date published: 2023-10-25T15:24:49.632042+00:00
- - user: None
- - tags: []
-
-## ITPro Today: IT News, How-Tos, Trends, Case Studies, Career Tips, More
- - [https://www.itprotoday.com](https://www.itprotoday.com)
- - date published: 2023-10-25T09:33:37.780799+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://itsbehnam.com](https://itsbehnam.com)
- - date published: 2023-10-25T15:24:51.563396+00:00
- - user: None
- - tags: []
-
-## Daum Park – Capturing Human Imagination
- - [https://itsdaum.com](https://itsdaum.com)
- - date published: 2023-12-20T21:31:19.471050+00:00
- - user: None
- - tags: ['personal']
-
-## It's FOSS
- - [https://itsfoss.com](https://itsfoss.com)
- - date published: 2023-10-25T15:24:54.042751+00:00
- - user: None
- - tags: []
-
-## It's FOSS News
- - [https://news.itsfoss.com](https://news.itsfoss.com)
- - date published: 2023-10-25T09:33:39.850848+00:00
- - user: None
- - tags: []
-
-## ITTavern.com
- - [https://ittavern.com](https://ittavern.com)
- - date published: 2023-10-25T15:24:55.919091+00:00
- - user: None
- - tags: []
-
-## Welcome to ITuziast - Bits and Bytes of Technology
- - [https://www.ituziast.com](https://www.ituziast.com)
- - date published: 2023-10-25T15:24:59.977201+00:00
- - user: None
- - tags: []
-
-## ITVX - The Streaming Home For All Of ITV And So Much More!
- - [https://www.itv.com](https://www.itv.com)
- - date published: 2023-10-25T15:25:09.198132+00:00
- - user: None
- - tags: []
-
-## https://itwasntai.com
- - [https://itwasntai.com](https://itwasntai.com)
- - date published: 2023-10-25T15:25:09.488916+00:00
- - user: None
- - tags: []
-
-## Technology News for IT Professionals in Canada | IT World Canada
- - [https://www.itworldcanada.com](https://www.itworldcanada.com)
- - date published: 2023-11-26T23:26:37.745369+00:00
- - user: None
- - tags: []
-
-## Ivan Lukianchuk – Who is he? Does he know things? Let's find out!
- - [https://ivanlukianchuk.com](https://ivanlukianchuk.com)
- - date published: 2023-12-23T07:30:09.747818+00:00
- - user: None
- - tags: ['personal']
-
-## iVentoy
- - [https://www.iventoy.com](https://www.iventoy.com)
- - date published: 2023-10-25T15:25:11.555461+00:00
- - user: None
- - tags: []
-
-## Ivica Baraba – personal blog
- - [https://ivicabaraba.com](https://ivicabaraba.com)
- - date published: 2023-12-28T18:50:27.715971+00:00
- - user: None
- - tags: ['personal']
-
-## Ivan on Containers, Kubernetes, and Server-Side
- - [https://iximiuz.com](https://iximiuz.com)
- - date published: 2023-10-25T15:25:12.899907+00:00
- - user: None
- - tags: []
-
-## Home | Izolda Trakhtenberg
- - [https://izoldat.com](https://izoldat.com)
- - date published: 2023-12-14T01:27:31.122955+00:00
- - user: None
- - tags: ['personal']
-
-## Jan van den Berg - j11g.com
- - [https://j11g.com](https://j11g.com)
- - date published: 2023-10-25T15:25:14.241613+00:00
- - user: None
- - tags: []
-
-## Home - JabPerf Corp
- - [https://www.jabperf.com](https://www.jabperf.com)
- - date published: 2023-10-25T15:25:17.195762+00:00
- - user: None
- - tags: []
-
-## Jack Vanlightly
- - [https://jack-vanlightly.com](https://jack-vanlightly.com)
- - date published: 2023-10-25T15:25:21.935128+00:00
- - user: None
- - tags: []
-
-## Jack Cook
- - [https://jackcook.com](https://jackcook.com)
- - date published: 2023-10-25T08:46:13.389369+00:00
- - user: None
- - tags: ['personal']
-
-## Meet the Moonlight
- - [https://jackjohnsonmusic.com](https://jackjohnsonmusic.com)
- - date published: 2023-11-13T09:54:17.278111+00:00
- - user: None
- - tags: ['music band']
-
-## jacksonprogress-argus.com
- - [https://www.jacksonprogress-argus.com](https://www.jacksonprogress-argus.com)
- - date published: 2023-11-11T07:53:49.320058+00:00
- - user: None
- - tags: []
-
-## Jacob Does Code
- - [https://jacobdoescode.com](https://jacobdoescode.com)
- - date published: 2023-10-25T08:46:14.075308+00:00
- - user: None
- - tags: ['personal']
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://jacobhrussell.com](https://jacobhrussell.com)
- - date published: 2023-11-29T17:19:03.891976+00:00
- - user: None
- - tags: ['personal']
-
-## Jacobin
- - [https://jacobin.com](https://jacobin.com)
- - date published: 2023-10-25T15:25:36.036572+00:00
- - user: None
- - tags: []
-
-## Jacob Martin
- - [https://jacobmartins.com](https://jacobmartins.com)
- - date published: 2023-10-25T15:25:38.116032+00:00
- - user: None
- - tags: []
-
-## jacobsalmela (Jacob Salmela) · GitHub
- - [https://jacobsalmela.com](https://jacobsalmela.com)
- - date published: 2023-10-25T15:25:42.767357+00:00
- - user: None
- - tags: []
-
-## Jacob Stoner
- - [https://blog.jacobstoner.com](https://blog.jacobstoner.com)
- - date published: 2023-10-25T15:25:43.930450+00:00
  - user: None
  - tags: []
 

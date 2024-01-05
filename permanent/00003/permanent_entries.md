@@ -1,3 +1,141 @@
+## https://www.crunchyroll.com
+ - [https://www.crunchyroll.com](https://www.crunchyroll.com)
+ - date published: 2023-10-25T13:11:56.653719+00:00
+ - user: None
+ - tags: ['video streaming', 'anime']
+
+## Crux | Taking the Catholic Pulse
+ - [https://cruxnow.com](https://cruxnow.com)
+ - date published: 2023-10-25T13:37:31.700192+00:00
+ - user: None
+ - tags: []
+
+## CRW Flags Inc. Store in Glen Burnie, Maryland
+ - [https://www.crwflags.com](https://www.crwflags.com)
+ - date published: 2023-10-25T13:37:32.965412+00:00
+ - user: None
+ - tags: []
+
+## CRYENGINE | The complete solution for next generation game development by Crytek
+ - [https://www.cryengine.com](https://www.cryengine.com)
+ - date published: 2023-10-25T08:39:24.036653+00:00
+ - user: None
+ - tags: ['game engine']
+
+## Show HN: Advent of Distributed Systems
+ - [https://aods.cryingpotato.com](https://aods.cryingpotato.com)
+ - date published: 2023-12-12T14:38:13+00:00
+ - user: None
+ - tags: []
+
+## Cannon
+ - [https://cannon.cryingpotato.com](https://cannon.cryingpotato.com)
+ - date published: 2023-12-13T05:58:38.068812+00:00
+ - user: None
+ - tags: []
+
+## Crypto Bulls Club - Crypto News, Reviews, Guides and Updates
+ - [https://cryptobullsclub.com](https://cryptobullsclub.com)
+ - date published: 2023-10-25T13:37:35.155055+00:00
+ - user: None
+ - tags: []
+
+## History of Alice and Bob
+ - [http://cryptocouple.com](http://cryptocouple.com)
+ - date published: 2023-12-26T21:08:11+00:00
+ - user: None
+ - tags: []
+
+## A Few Thoughts on Cryptographic Engineering – Some random thoughts about crypto. Notes from a course I teach. Pictures of my dachshunds.
+ - [https://blog.cryptographyengineering.com](https://blog.cryptographyengineering.com)
+ - date published: 2023-10-25T13:37:59.416502+00:00
+ - user: None
+ - tags: []
+
+## Crypto Museum
+ - [https://www.cryptomuseum.com](https://www.cryptomuseum.com)
+ - date published: 2023-10-25T13:38:03.916973+00:00
+ - user: None
+ - tags: []
+
+## The Cryptopals Crypto Challenges
+ - [https://cryptopals.com](https://cryptopals.com)
+ - date published: 2023-10-25T13:38:04.387806+00:00
+ - user: None
+ - tags: []
+
+## CryptoSlate - News, Insights & Data
+ - [https://cryptoslate.com](https://cryptoslate.com)
+ - date published: 2023-10-25T13:38:11.583080+00:00
+ - user: None
+ - tags: []
+
+## Crystalverse - A Crystal Growing Adventure
+ - [https://crystalverse.com](https://crystalverse.com)
+ - date published: 2023-10-25T13:38:15.309354+00:00
+ - user: None
+ - tags: []
+
+## Crytek - video game developer, makers of CRYENGINE
+ - [https://www.crytek.com](https://www.crytek.com)
+ - date published: 2023-12-10T12:01:17+00:00
+ - user: rumpel
+ - tags: ['climb', 'game studio', 'far cry', 'crysis']
+
+## Christian Science Monitor - CSMonitor.com
+ - [https://www.csmonitor.com](https://www.csmonitor.com)
+ - date published: 2023-10-25T13:38:18.051344+00:00
+ - user: None
+ - tags: []
+
+## CSO Online
+ - [https://www.csoonline.com](https://www.csoonline.com)
+ - date published: 2023-10-25T13:38:21.687530+00:00
+ - user: None
+ - tags: []
+
+## Home | Csound Community
+ - [https://csound.com](https://csound.com)
+ - date published: 2023-10-25T13:38:23.183888+00:00
+ - user: None
+ - tags: []
+
+## Center for the Study of Partisanship and Ideology | CSPI | Substack
+ - [https://www.cspicenter.com](https://www.cspicenter.com)
+ - date published: 2023-10-25T13:38:26.650997+00:00
+ - user: None
+ - tags: []
+
+## CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.
+ - [https://css-tricks.com](https://css-tricks.com)
+ - date published: 2023-10-25T13:38:31.537767+00:00
+ - user: None
+ - tags: []
+
+## CSS Dig
+ - [https://www.cssdig.com](https://www.cssdig.com)
+ - date published: 2023-10-25T13:38:42.950691+00:00
+ - user: None
+ - tags: []
+
+## CSS Pro | A re-imagined Devtools for web design
+ - [https://csspro.com](https://csspro.com)
+ - date published: 2023-10-25T13:38:44.161200+00:00
+ - user: None
+ - tags: []
+
+## Site-Speed Optimisation – Harry Roberts – Web Performance Consultant
+ - [https://csswizardry.com](https://csswizardry.com)
+ - date published: 2023-10-25T13:38:54.755341+00:00
+ - user: None
+ - tags: []
+
+## Convenience Store News | C-Store Dive
+ - [https://www.cstoredive.com](https://www.cstoredive.com)
+ - date published: 2023-10-25T13:39:01.069014+00:00
+ - user: None
+ - tags: []
+
 ## csvbase
  - [https://csvbase.com](https://csvbase.com)
  - date published: 2023-10-25T13:39:03.509420+00:00
@@ -381,7 +519,7 @@
  - [https://www.dailysabah.com](https://www.dailysabah.com)
  - date published: 2024-01-03T00:55:08.271284+00:00
  - user: None
- - tags: []
+ - tags: ['turkey news']
 
 ## Home
  - [https://dailysecurityreview.com](https://dailysecurityreview.com)
@@ -599,6 +737,12 @@
  - user: None
  - tags: ['personal']
 
+## https://www.danpalladinomusic.com
+ - [https://www.danpalladinomusic.com](https://www.danpalladinomusic.com)
+ - date published: 2024-01-04T03:32:32.543499+00:00
+ - user: None
+ - tags: []
+
 ## Dan Slimmon – Evidence-oriented SRE
  - [https://blog.danslimmon.com](https://blog.danslimmon.com)
  - date published: 2023-10-25T13:43:11.268220+00:00
@@ -668,6 +812,12 @@
 ## doodle:ai
  - [https://doodleai.darraghoriordan.com](https://doodleai.darraghoriordan.com)
  - date published: 2023-10-25T13:43:28.176592+00:00
+ - user: None
+ - tags: []
+
+## Daryl Cook | Home
+ - [https://darylcook.com](https://darylcook.com)
+ - date published: 2024-01-04T03:34:09.104755+00:00
  - user: None
  - tags: []
 
@@ -892,6 +1042,12 @@
  - date published: 2023-11-13T09:52:52.903921+00:00
  - user: None
  - tags: ['vip', 'celebrity']
+
+## David LaMotte
+ - [https://www.davidlamotte.com](https://www.davidlamotte.com)
+ - date published: 2024-01-04T22:42:04.799905+00:00
+ - user: None
+ - tags: []
 
 ## David Nebinski
  - [https://www.davidnebinski.com](https://www.davidnebinski.com)
@@ -1118,6 +1274,12 @@
 ## Decipad — Make sense of numbers
  - [https://www.decipad.com](https://www.decipad.com)
  - date published: 2023-10-25T13:47:20.389396+00:00
+ - user: None
+ - tags: []
+
+## Decode Today
+ - [https://decodetoday.com](https://decodetoday.com)
+ - date published: 2024-01-04T09:27:47.278321+00:00
  - user: None
  - tags: []
 
@@ -2036,6 +2198,12 @@
 ## DJI - Official Website
  - [https://www.dji.com](https://www.dji.com)
  - date published: 2023-10-25T08:39:58.225999+00:00
+ - user: None
+ - tags: []
+
+## D.J. Jacobson | Fantasy books for the bold adventurer.
+ - [https://djjacobson.com](https://djjacobson.com)
+ - date published: 2024-01-04T19:57:34.616515+00:00
  - user: None
  - tags: []
 
@@ -4128,6 +4296,12 @@
  - user: None
  - tags: []
 
+## https://www.euperia.com
+ - [https://www.euperia.com](https://www.euperia.com)
+ - date published: 2024-01-04T19:56:17.730978+00:00
+ - user: None
+ - tags: []
+
 ## EURACTIV.com – EURACTIV is your one-stop-shop for in-depth news about policies and politics from EU institutions and national capitals.
  - [https://www.euractiv.com](https://www.euractiv.com)
  - date published: 2023-10-25T14:11:17.575771+00:00
@@ -5376,6 +5550,12 @@
  - user: None
  - tags: []
 
+## Fire. Light. Love.
+ - [https://www.firelightlove.com](https://www.firelightlove.com)
+ - date published: 2024-01-04T03:33:59.148413+00:00
+ - user: None
+ - tags: []
+
 ## FireMon.com – Improve Security Operations. Improve Security Outcomes.
  - [https://www.firemon.com](https://www.firemon.com)
  - date published: 2023-10-25T14:31:45.441785+00:00
@@ -5817,186 +5997,6 @@
 ## Forbes Africa
  - [https://www.forbesafrica.com](https://www.forbesafrica.com)
  - date published: 2023-10-25T10:26:21.517830+00:00
- - user: None
- - tags: []
-
-## Forbes India | Leadership, Innovation, Billionaires, Startups, India's richest people, Business news
- - [https://www.forbesindia.com](https://www.forbesindia.com)
- - date published: 2023-11-28T20:17:02+00:00
- - user: rumpel
- - tags: ['journalism', 'news']
-
-## Home | Ford of Europe | Ford Media Center
- - [https://media.ford.com](https://media.ford.com)
- - date published: 2023-10-25T15:10:06.084869+00:00
- - user: None
- - tags: []
-
-## Ford® - New Hybrid & Electric Vehicles, SUVs, Crossovers, Trucks, Vans & Cars
- - [https://www.ford.com](https://www.ford.com)
- - date published: 2023-11-01T08:42:08.838585+00:00
- - user: None
- - tags: []
-
-## Foreign Affairs Magazine
- - [https://www.foreignaffairs.com](https://www.foreignaffairs.com)
- - date published: 2023-10-25T15:10:16.234805+00:00
- - user: None
- - tags: []
-
-## Foreign Brief
- - [https://foreignbrief.com](https://foreignbrief.com)
- - date published: 2023-12-29T05:28:44.166117+00:00
- - user: None
- - tags: []
-
-## Foreign Policy – the Global Magazine of News and Ideas
- - [https://foreignpolicy.com](https://foreignpolicy.com)
- - date published: 2023-10-25T15:10:25.310637+00:00
- - user: None
- - tags: []
-
-## When it matters, say it on Forem — Forem
- - [https://forem.com](https://forem.com)
- - date published: 2023-10-25T08:32:55.266940+00:00
- - user: None
- - tags: []
-
-## News  | On the Scene and in the Lab - Forensic®
- - [https://www.forensicmag.com](https://www.forensicmag.com)
- - date published: 2023-10-25T15:10:28.071402+00:00
- - user: None
- - tags: []
-
-## Forensic Science Society
- - [https://forensicsciencesociety.com](https://forensicsciencesociety.com)
- - date published: 2023-10-28T17:32:29.161406+00:00
- - user: None
- - tags: ['crime', 'police']
-
-## Forexlive | Forex News, Technical Analysis & Trading Tools
- - [https://www.forexlive.com](https://www.forexlive.com)
- - date published: 2023-12-15T21:52:32.167982+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.format.com](https://www.format.com)
- - date published: 2023-10-27T10:24:23.394039+00:00
- - user: None
- - tags: []
-
-## High Resolution SLA and SLS 3D Printers for Professionals
- - [https://formlabs.com](https://formlabs.com)
- - date published: 2023-10-27T10:15:17.313202+00:00
- - user: None
- - tags: ['corporate', '3d printing']
-
-## Forrester Helps Organizations Grow Through Customer Obsession
- - [https://www.forrester.com](https://www.forrester.com)
- - date published: 2023-10-25T15:10:40.006112+00:00
- - user: None
- - tags: []
-
-## Forrest Glover Design - Custom Drapery Manufacturing with 3-4 week Lead Time.
- - [https://www.forrestgloverdesign.com](https://www.forrestgloverdesign.com)
- - date published: 2023-12-03T09:19:46.568413+00:00
- - user: None
- - tags: ['personal']
-
-## Forrest Heller
- - [https://forrestheller.com](https://forrestheller.com)
- - date published: 2023-12-27T03:17:31.876183+00:00
- - user: None
- - tags: []
-
-## ForrestTheWoods - Home
- - [https://www.forrestthewoods.com](https://www.forrestthewoods.com)
- - date published: 2023-10-25T14:35:30.429573+00:00
- - user: None
- - tags: []
-
-## blog.forret.com · Peter Forret
- - [https://blog.forret.com](https://blog.forret.com)
- - date published: 2023-10-25T14:35:33.678369+00:00
- - user: None
- - tags: []
-
-## Ben Forta
- - [https://forta.com](https://forta.com)
- - date published: 2023-10-25T14:35:41.162914+00:00
- - user: None
- - tags: []
-
-## Home - Forte Labs
- - [https://fortelabs.com](https://fortelabs.com)
- - date published: 2023-10-25T14:35:48.567669+00:00
- - user: None
- - tags: []
-
-## software development systems & services
- - [https://www.forth.com](https://www.forth.com)
- - date published: 2023-10-25T14:35:54.553513+00:00
- - user: None
- - tags: []
-
-## Global Leader of Cybersecurity Solutions and Services | Fortinet
- - [https://www.fortinet.com](https://www.fortinet.com)
- - date published: 2023-10-25T14:36:07.519364+00:00
- - user: None
- - tags: []
-
-## Fortress of Doors
- - [https://www.fortressofdoors.com](https://www.fortressofdoors.com)
- - date published: 2023-10-25T14:36:09.294965+00:00
- - user: None
- - tags: []
-
-## Fortune - Fortune 500 Daily & Breaking Business News | Fortune
- - [https://fortune.com](https://fortune.com)
- - date published: 2023-10-25T14:36:22.071682+00:00
- - user: None
- - tags: []
-
-## News That Matters to American Jews – The Forward
- - [https://forward.com](https://forward.com)
- - date published: 2023-10-25T14:36:25.563672+00:00
- - user: None
- - tags: []
-
-## FOSSA: Audit-Grade Open Source Dependency Protection
- - [https://fossa.com](https://fossa.com)
- - date published: 2023-10-25T14:36:27.833673+00:00
- - user: None
- - tags: []
-
-## FOSS Force - Keeping tech free
- - [https://fossforce.com](https://fossforce.com)
- - date published: 2023-10-25T09:32:58.587105+00:00
- - user: None
- - tags: []
-
-## Market & Opportunity Explorer for Devs · Fossfox
- - [https://fossfox.com](https://fossfox.com)
- - date published: 2023-10-25T14:36:32.664186+00:00
- - user: None
- - tags: []
-
-## FOSS Patents
- - [http://www.fosspatents.com](http://www.fosspatents.com)
- - date published: 2023-10-25T14:36:39.372249+00:00
- - user: None
- - tags: []
-
-## Founder's Choice
- - [https://www.founderschoicevc.com](https://www.founderschoicevc.com)
- - date published: 2023-10-25T14:36:45.980846+00:00
- - user: None
- - tags: []
-
-## Founding Fuel
- - [https://foundingfuel.com](https://foundingfuel.com)
- - date published: 2023-10-25T14:36:52.016854+00:00
  - user: None
  - tags: []
 

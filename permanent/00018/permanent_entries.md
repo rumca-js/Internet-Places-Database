@@ -1,3 +1,592 @@
+## The Gitea Community is asking Gitea Owners to correct
+conflicts of interest and restore Community Trust.
+ - [https://gitea-open-letter.coding.social](https://gitea-open-letter.coding.social)
+ - date published: 2023-10-24T20:13:51.584131+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Cyberplace
+ - [https://cyberplace.social](https://cyberplace.social)
+ - date published: 2023-10-24T20:13:52.156249+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## DEF CON Social
+ - [https://defcon.social](https://defcon.social)
+ - date published: 2023-10-24T20:13:53.592152+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## digitalcourage.social
+ - [https://digitalcourage.social](https://digitalcourage.social)
+ - date published: 2023-11-09T12:46:12.081546+00:00
+ - user: None
+ - tags: []
+
+## Firefish Social
+ - [https://firefish.social](https://firefish.social)
+ - date published: 2023-10-24T20:13:59.673761+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Flipboard
+ - [https://flipboard.social](https://flipboard.social)
+ - date published: 2023-10-24T20:14:00.608002+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## FLOSS.social
+ - [https://floss.social](https://floss.social)
+ - date published: 2023-10-24T20:14:01.314852+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Front-End Social
+ - [https://front-end.social](https://front-end.social)
+ - date published: 2023-10-24T20:14:01.864788+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Akkoma
+ - [https://genserver.social](https://genserver.social)
+ - date published: 2023-10-24T20:14:02.904857+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Show HN: Sherlock – AI that chats with your friends about their gift wishes
+ - [https://www.giftit.social](https://www.giftit.social)
+ - date published: 2023-12-11T19:13:54+00:00
+ - user: None
+ - tags: []
+
+## graz.social
+ - [https://graz.social](https://graz.social)
+ - date published: 2023-10-25T22:41:35.241574+00:00
+ - user: None
+ - tags: []
+
+## Idle Mastodon
+ - [https://idlethumbs.social](https://idlethumbs.social)
+ - date published: 2023-11-12T18:45:17.298083+00:00
+ - user: None
+ - tags: []
+
+## Indieweb.Social
+ - [https://indieweb.social](https://indieweb.social)
+ - date published: 2023-12-11T16:22:02.290659+00:00
+ - user: None
+ - tags: []
+
+## Mastodon instances
+ - [https://instances.social](https://instances.social)
+ - date published: 2023-10-24T20:14:03.649565+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## kbin.social - Explore the Fediverse
+ - [https://kbin.social](https://kbin.social)
+ - date published: 2023-10-24T20:14:07.177014+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Kestrel's Nest
+ - [https://blog.kestrelsnest.social](https://blog.kestrelsnest.social)
+ - date published: 2023-12-12T08:10:15.894053+00:00
+ - user: None
+ - tags: ['personal']
+
+## kolektiva.social
+ - [https://kolektiva.social](https://kolektiva.social)
+ - date published: 2023-10-24T20:14:07.746877+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Mastodon
+ - [https://mastodon.social](https://mastodon.social)
+ - date published: 2023-10-24T20:14:08.225237+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Mozilla Social
+ - [https://mozilla.social](https://mozilla.social)
+ - date published: 2023-10-24T20:14:09.821304+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Mastodon 🐘
+ - [https://mstdn.social](https://mstdn.social)
+ - date published: 2023-10-24T20:14:10.330696+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## the Octodon
+ - [https://octodon.social](https://octodon.social)
+ - date published: 2023-11-29T10:39:01.415827+00:00
+ - user: None
+ - tags: []
+
+## OpenDolphin
+ - [https://about.opendolphin.social](https://about.opendolphin.social)
+ - date published: 2023-10-24T20:13:16.241264+00:00
+ - user: None
+ - tags: []
+
+## Home · Pinafore
+ - [https://pinafore.social](https://pinafore.social)
+ - date published: 2023-10-24T20:14:11.069010+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Ponies on Mastodon
+ - [https://pony.social](https://pony.social)
+ - date published: 2023-10-24T20:14:11.679526+00:00
+ - user: None
+ - tags: ['mastodon', 'the left wing', 'lgbt']
+
+## Retro Social
+ - [https://retro.social](https://retro.social)
+ - date published: 2023-11-27T08:29:44.189204+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Rings
+ - [https://rings.social](https://rings.social)
+ - date published: 2023-10-24T20:14:16.984207+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## How to run a small social network
+ - [https://runyourown.social](https://runyourown.social)
+ - date published: 2023-12-31T17:08:13+00:00
+ - user: None
+ - tags: []
+
+## Ex-Searchtodon: Private Timeline Search for Mastodon
+ - [https://searchtodon.social](https://searchtodon.social)
+ - date published: 2023-10-24T20:14:22.655817+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## SFBA.social
+ - [https://sfba.social](https://sfba.social)
+ - date published: 2023-10-24T20:14:23.701217+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Skyview
+ - [https://skyview.social](https://skyview.social)
+ - date published: 2023-10-24T20:14:24.128743+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## StreetPass for Mastodon
+ - [https://streetpass.social](https://streetpass.social)
+ - date published: 2023-10-24T20:14:24.933769+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## tapbots.social
+ - [https://tapbots.social](https://tapbots.social)
+ - date published: 2023-10-24T20:14:25.808474+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## TechHub
+ - [https://techhub.social](https://techhub.social)
+ - date published: 2023-10-24T20:14:26.335577+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Urbanists.Social
+ - [https://urbanists.social](https://urbanists.social)
+ - date published: 2023-10-24T20:14:26.879258+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## VT Social
+ - [https://vt.social](https://vt.social)
+ - date published: 2023-10-24T20:14:28.715062+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## w3c.social
+ - [https://w3c.social](https://w3c.social)
+ - date published: 2023-12-06T18:22:37.078866+00:00
+ - user: None
+ - tags: []
+
+## Mastodon
+ - [https://wikimedia.social](https://wikimedia.social)
+ - date published: 2023-10-24T20:14:29.349003+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Commodore Software - New Files
+ - [https://commodore.software](https://commodore.software)
+ - date published: 2023-11-10T13:02:40.505410+00:00
+ - user: None
+ - tags: ['commodore', 'retro']
+
+## Ellie for Windows
+ - [https://ellie.software](https://ellie.software)
+ - date published: 2023-10-25T22:41:37.051718+00:00
+ - user: None
+ - tags: []
+
+## Adapt Site
+ - [https://www.adaptframework.solutions](https://www.adaptframework.solutions)
+ - date published: 2023-10-25T22:41:40.136262+00:00
+ - user: None
+ - tags: []
+
+## WordPress and ClassicPress plugins trusted by over 50000 users.
+ - [https://ajdg.solutions](https://ajdg.solutions)
+ - date published: 2023-12-11T19:08:23.472936+00:00
+ - user: None
+ - tags: []
+
+## Lunatic: an Erlang-inspired runtime for WebAssembly
+ - [https://lunatic.solutions](https://lunatic.solutions)
+ - date published: 2023-10-25T22:41:46.372898+00:00
+ - user: None
+ - tags: []
+
+## Velociraptor Aerospace Dynamics
+ - [https://vad.solutions](https://vad.solutions)
+ - date published: 2023-10-25T22:41:49.222188+00:00
+ - user: None
+ - tags: []
+
+## 0ut3r Space
+ - [https://0ut3r.space](https://0ut3r.space)
+ - date published: 2023-10-25T22:41:55.742385+00:00
+ - user: None
+ - tags: []
+
+## Alan's Space
+ - [https://18alan.space](https://18alan.space)
+ - date published: 2023-10-25T09:24:43.871441+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ariadne's Space
+ - [https://ariadne.space](https://ariadne.space)
+ - date published: 2023-10-25T09:24:45.081532+00:00
+ - user: None
+ - tags: ['personal']
+
+## SpaceBadgers
+ - [https://badgers.space](https://badgers.space)
+ - date published: 2023-10-25T22:41:57.198709+00:00
+ - user: None
+ - tags: []
+
+## Becca Ricks
+ - [https://beccaricks.space](https://beccaricks.space)
+ - date published: 2023-10-25T08:55:57.797271+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ben Calderon's Web Page
+ - [https://benjcal.space](https://benjcal.space)
+ - date published: 2023-10-25T08:55:59.360622+00:00
+ - user: None
+ - tags: ['personal']
+
+## Can't Unsee
+ - [https://cantunsee.space](https://cantunsee.space)
+ - date published: 2023-10-25T22:41:57.679574+00:00
+ - user: None
+ - tags: []
+
+## Сайт Дани
+ - [https://blog.danilax86.space](https://blog.danilax86.space)
+ - date published: 2023-12-22T17:48:17.947780+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Dragon's Cave
+ - [https://dragonscave.space](https://dragonscave.space)
+ - date published: 2023-10-25T22:41:58.143211+00:00
+ - user: None
+ - tags: []
+
+## Drifting in Space
+ - [https://driftingin.space](https://driftingin.space)
+ - date published: 2023-10-25T22:42:03.587468+00:00
+ - user: None
+ - tags: []
+
+## Royal Icing
+ - [https://icing.space](https://icing.space)
+ - date published: 2023-10-25T09:24:46.037499+00:00
+ - user: None
+ - tags: ['personal']
+
+## Recent Posts — Jakob's Personal Webpage
+ - [https://jakob.space](https://jakob.space)
+ - date published: 2023-10-25T09:24:48.365761+00:00
+ - user: None
+ - tags: ['personal']
+
+## Latent Space | swyx | Substack
+ - [https://www.latent.space](https://www.latent.space)
+ - date published: 2023-10-25T22:42:07.060753+00:00
+ - user: None
+ - tags: []
+
+## Log In | LeoLabs
+ - [https://platform.leolabs.space](https://platform.leolabs.space)
+ - date published: 2023-10-25T22:42:09.201538+00:00
+ - user: None
+ - tags: []
+
+## Libre Space Foundation
+ - [https://libre.space](https://libre.space)
+ - date published: 2023-10-25T22:42:11.386945+00:00
+ - user: None
+ - tags: []
+
+## makeworld.space
+ - [https://www.makeworld.space](https://www.makeworld.space)
+ - date published: 2023-10-25T22:42:12.199594+00:00
+ - user: None
+ - tags: []
+
+## NodePad.
+ - [https://nodepad.space](https://nodepad.space)
+ - date published: 2023-10-25T22:42:13.077793+00:00
+ - user: None
+ - tags: []
+
+## OldBytes Space - Mastodon
+ - [https://oldbytes.space](https://oldbytes.space)
+ - date published: 2023-10-24T20:14:40.345599+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## PolyInnovator LLC | Official Website for Dustin Miller
+ - [https://polyinnovator.space](https://polyinnovator.space)
+ - date published: 2023-11-29T15:45:57.482379+00:00
+ - user: None
+ - tags: ['personal']
+
+## sabrinas.space -
+ - [https://sabrinas.space](https://sabrinas.space)
+ - date published: 2023-10-25T22:42:16.798161+00:00
+ - user: None
+ - tags: []
+
+## Jon Santiago | Examinations in Patience, Practice, and Process
+ - [https://santiagos.space](https://santiagos.space)
+ - date published: 2023-12-27T10:10:28.923262+00:00
+ - user: None
+ - tags: ['personal']
+
+## Live Starlink Satellite and Coverage Map
+ - [https://satellitemap.space](https://satellitemap.space)
+ - date published: 2023-10-25T22:42:18.342062+00:00
+ - user: None
+ - tags: []
+
+## SDavidPrince Space
+ - [https://www.sdavidprince.space](https://www.sdavidprince.space)
+ - date published: 2023-12-23T19:27:39.558254+00:00
+ - user: None
+ - tags: ['personal']
+
+## the sporks space - party with sporks in space
+ - [https://sporks.space](https://sporks.space)
+ - date published: 2023-10-25T22:42:26.491552+00:00
+ - user: None
+ - tags: []
+
+## strangeobject.space
+ - [https://strangeobject.space](https://strangeobject.space)
+ - date published: 2023-10-25T22:42:27.285300+00:00
+ - user: None
+ - tags: []
+
+## Swarm - Low cost, global satellite connectivity for IoT
+ - [https://swarm.space](https://swarm.space)
+ - date published: 2023-10-25T22:42:29.401566+00:00
+ - user: None
+ - tags: []
+
+## tafc.space
+ - [https://tafc.space](https://tafc.space)
+ - date published: 2023-10-25T22:42:32.984763+00:00
+ - user: None
+ - tags: []
+
+## THOM KLODOWSKY
+ - [https://thomask.space](https://thomask.space)
+ - date published: 2023-12-19T09:59:17.908608+00:00
+ - user: None
+ - tags: ['personal']
+
+## XincereYi Yours
+ - [https://www.xincereyiyours.space](https://www.xincereyiyours.space)
+ - date published: 2023-11-29T16:20:49.523341+00:00
+ - user: None
+ - tags: ['personal']
+
+## zverok's space
+ - [https://zverok.space](https://zverok.space)
+ - date published: 2023-10-25T08:56:01.367009+00:00
+ - user: None
+ - tags: ['personal']
+
+## Andrey Listopadov
+ - [https://andreyor.st](https://andreyor.st)
+ - date published: 2023-10-25T08:57:23.593103+00:00
+ - user: None
+ - tags: ['personal']
+
+## Baest
+ - [https://bae.st](https://bae.st)
+ - date published: 2023-10-25T22:42:39.183960+00:00
+ - user: None
+ - tags: []
+
+## Cuis-Smalltalk
+ - [https://cuis.st](https://cuis.st)
+ - date published: 2023-12-31T00:10:41+00:00
+ - user: None
+ - tags: []
+
+## Julien Jorge's Personal Website
+ - [https://julien.jorge.st](https://julien.jorge.st)
+ - date published: 2023-10-25T08:56:02.922696+00:00
+ - user: None
+ - tags: ['personal']
+
+## Welcome
+ - [https://emilien.klein.st](https://emilien.klein.st)
+ - date published: 2023-12-17T16:41:55.577098+00:00
+ - user: None
+ - tags: ['personal']
+
+## Launch Your Startup in Days, Not Weeks | ShipFast
+ - [https://shipfa.st](https://shipfa.st)
+ - date published: 2023-10-25T22:42:40.431705+00:00
+ - user: None
+ - tags: []
+
+## The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post
+ - [https://wapo.st](https://wapo.st)
+ - date published: 2023-10-31T22:17:45.086653+00:00
+ - user: None
+ - tags: []
+
+## x.st
+ - [https://x.st](https://x.st)
+ - date published: 2023-10-25T22:42:46.302777+00:00
+ - user: None
+ - tags: []
+
+## https://ddramdisk.store
+ - [https://ddramdisk.store](https://ddramdisk.store)
+ - date published: 2023-10-25T22:42:51.861670+00:00
+ - user: None
+ - tags: []
+
+## Meatcanyon
+ - [https://meatcanyon.store](https://meatcanyon.store)
+ - date published: 2023-12-12T08:26:51+00:00
+ - user: rumpel
+ - tags: ['merch', 'youtuber']
+
+## Gently Down the Stream
+ - [https://www.gentlydownthe.stream](https://www.gentlydownthe.stream)
+ - date published: 2023-10-25T22:42:57.556970+00:00
+ - user: None
+ - tags: []
+
+## Bauble
+ - [https://bauble.studio](https://bauble.studio)
+ - date published: 2023-10-25T22:43:03.761102+00:00
+ - user: None
+ - tags: []
+
+## gsplat 0.0.1 documentation
+ - [https://docs.gsplat.studio](https://docs.gsplat.studio)
+ - date published: 2023-10-25T22:43:05.748972+00:00
+ - user: None
+ - tags: []
+
+## Cardinal
+ - [https://cardinal.kx.studio](https://cardinal.kx.studio)
+ - date published: 2023-10-25T22:43:07.234190+00:00
+ - user: None
+ - tags: []
+
+## LX Studio
+ - [https://lx.studio](https://lx.studio)
+ - date published: 2023-11-01T08:44:40.767131+00:00
+ - user: None
+ - tags: []
+
+## Make-A-Video
+ - [https://makeavideo.studio](https://makeavideo.studio)
+ - date published: 2023-10-25T22:43:13.659023+00:00
+ - user: None
+ - tags: []
+
+## nerfstudio
+ - [https://docs.nerf.studio](https://docs.nerf.studio)
+ - date published: 2023-10-25T22:43:15.774720+00:00
+ - user: None
+ - tags: []
+
+## NVL Studio | Turengin tehdas
+ - [https://www.nvl.studio](https://www.nvl.studio)
+ - date published: 2024-01-01T03:40:07.584188+00:00
+ - user: None
+ - tags: []
+
+## paul bowman studio
+ - [https://pdbowman.studio](https://pdbowman.studio)
+ - date published: 2023-11-10T18:20:29.303681+00:00
+ - user: None
+ - tags: []
+
+## STUDIO SIRUP
+ - [https://sirup.studio](https://sirup.studio)
+ - date published: 2023-12-24T02:31:44.913749+00:00
+ - user: None
+ - tags: ['personal']
+
+## Engine
+ - [https://www.engine.study](https://www.engine.study)
+ - date published: 2023-10-25T22:43:16.781717+00:00
+ - user: None
+ - tags: []
+
+## Atmos | Everything you need to create color palettes
+ - [https://atmos.style](https://atmos.style)
+ - date published: 2023-10-25T22:43:18.155390+00:00
+ - user: None
+ - tags: []
+
+## Open Props: sub-atomic styles
+ - [https://open-props.style](https://open-props.style)
+ - date published: 2023-10-25T22:43:20.777027+00:00
+ - user: None
+ - tags: []
+
+## Oriental Review
+ - [https://orientalreview.su](https://orientalreview.su)
+ - date published: 2023-11-28T09:56:23.700637+00:00
+ - user: None
+ - tags: []
+
+## Jeff Sandberg's Blog
+ - [https://pdx.su](https://pdx.su)
+ - date published: 2023-10-25T22:43:21.559860+00:00
+ - user: None
+ - tags: []
+
 ## takaya.su
  - [https://takaya.su](https://takaya.su)
  - date published: 2023-12-09T10:38:42.636470+00:00
@@ -7,6 +596,12 @@
 ## Help Center
  - [https://www.eoxp.support](https://www.eoxp.support)
  - date published: 2023-12-13T16:17:48.605350+00:00
+ - user: None
+ - tags: []
+
+## Vox: Upcoming open-source browser engine in V
+ - [https://vox.sx](https://vox.sx)
+ - date published: 2024-01-04T20:00:48+00:00
  - user: None
  - tags: []
 
@@ -141,6 +736,12 @@
 ## Berty · Berty Technologies
  - [https://berty.tech](https://berty.tech)
  - date published: 2023-10-25T22:44:01.666558+00:00
+ - user: None
+ - tags: []
+
+## iPhone physical keyboard from ex-Crackberry guy
+ - [https://www.clicks.tech](https://www.clicks.tech)
+ - date published: 2024-01-04T20:43:20+00:00
  - user: None
  - tags: []
 
@@ -1825,6 +2426,12 @@ Introduction
  - date published: 2023-10-25T09:01:03.349828+00:00
  - user: None
  - tags: ['personal']
+
+## Jason Fry | UK Remote Swift & Typescript Software Developer
+ - [https://jasonfry.co.uk](https://jasonfry.co.uk)
+ - date published: 2024-01-04T15:18:20.109172+00:00
+ - user: None
+ - tags: []
 
 ## Jewish News
  - [https://www.jewishnews.co.uk](https://www.jewishnews.co.uk)

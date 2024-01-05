@@ -32,7 +32,7 @@
  - [https://archive.is](https://archive.is)
  - date published: 2023-12-04T18:30:00+00:00
  - user: rumpel
- - tags: ['archive']
+ - tags: ['internet archive']
 
 ## https://archive.vn
  - [https://archive.vn](https://archive.vn)
@@ -1237,6 +1237,18 @@
 ## ROASTED
  - [https://www.roastedby.ai](https://www.roastedby.ai)
  - date published: 2023-10-25T11:42:22.672027+00:00
+ - user: None
+ - tags: []
+
+## Play and Create Games on Rosebud — AI-Powered Game Development
+ - [https://play.rosebud.ai](https://play.rosebud.ai)
+ - date published: 2024-01-04T16:18:49.176689+00:00
+ - user: None
+ - tags: []
+
+## Rosebud AI: Build Games at the Speed of Thought. AI Powered Game Development.
+ - [https://www.rosebud.ai](https://www.rosebud.ai)
+ - date published: 2024-01-04T16:19:02.132824+00:00
  - user: None
  - tags: []
 
@@ -3382,6 +3394,12 @@
  - user: None
  - tags: []
 
+## Roberts Design | Web Design & Development | Graphic Design
+ - [https://robertsdesign.biz](https://robertsdesign.biz)
+ - date published: 2024-01-04T03:34:14.600258+00:00
+ - user: None
+ - tags: []
+
 ## 8Sided Blog
  - [https://8sided.blog](https://8sided.blog)
  - date published: 2023-12-25T22:11:32.378760+00:00
@@ -3896,6 +3914,12 @@
 ## Vanilla Java
  - [https://blog.vanillajava.blog](https://blog.vanillajava.blog)
  - date published: 2023-10-25T12:01:45.438171+00:00
+ - user: None
+ - tags: []
+
+## weitergedacht – Idee für Idee etwas erwachsener
+ - [https://weitergedacht.blog](https://weitergedacht.blog)
+ - date published: 2024-01-04T22:41:37.082776+00:00
  - user: None
  - tags: []
 
@@ -4667,6 +4691,12 @@
  - user: None
  - tags: []
 
+## Department of Computing and Software – FACULTY OF ENGINEERING
+ - [https://www.cas.mcmaster.ca](https://www.cas.mcmaster.ca)
+ - date published: 2024-01-04T00:51:18.377090+00:00
+ - user: None
+ - tags: []
+
 ## Michael Geist -
  - [https://www.michaelgeist.ca](https://www.michaelgeist.ca)
  - date published: 2023-10-25T12:06:10.628082+00:00
@@ -4678,6 +4708,12 @@
  - date published: 2023-11-27T00:26:57.612206+00:00
  - user: None
  - tags: ['personal']
+
+## @mohoromitch | hey
+ - [https://mitchell.mohorovich.ca](https://mitchell.mohorovich.ca)
+ - date published: 2024-01-04T01:12:43.264182+00:00
+ - user: None
+ - tags: []
 
 ## Guerrero, Bichette lead Blue Jays past Royals 5-4 to kick off 10-game homestand
  - [https://morns.ca](https://morns.ca)
@@ -4720,6 +4756,12 @@
  - date published: 2023-11-29T18:20:44.786867+00:00
  - user: None
  - tags: ['personal']
+
+## The Boreal Beetle – Insect Ecology Lab @UNBC
+ - [https://huber.opened.ca](https://huber.opened.ca)
+ - date published: 2024-01-04T22:42:43.854141+00:00
+ - user: None
+ - tags: []
 
 ## Mayo Jordanov
  - [https://oyam.ca](https://oyam.ca)
@@ -5219,6 +5261,12 @@
  - user: None
  - tags: []
 
+## Committed To The Research & Development Of IoT
+ - [https://www.lilygo.cc](https://www.lilygo.cc)
+ - date published: 2024-01-04T04:23:21.553958+00:00
+ - user: None
+ - tags: []
+
 ## Benjamin Mako Hill
  - [https://mako.cc](https://mako.cc)
  - date published: 2023-10-25T09:03:06.147739+00:00
@@ -5493,6 +5541,12 @@
 ## ETH Zürich - Homepage | ETH Zürich
  - [https://ethz.ch](https://ethz.ch)
  - date published: 2023-10-25T12:13:42.696984+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [https://people.inf.ethz.ch](https://people.inf.ethz.ch)
+ - date published: 2024-01-04T17:43:31.139421+00:00
  - user: None
  - tags: []
 
@@ -5943,60 +5997,6 @@
 ## The Web Scraping Club | Pierluigi Vinciguerra | Substack
  - [https://substack.thewebscraping.club](https://substack.thewebscraping.club)
  - date published: 2023-10-25T12:16:16.183663+00:00
- - user: None
- - tags: []
-
-## Welcome to ~tilde.club~
- - [https://tilde.club](https://tilde.club)
- - date published: 2023-10-25T12:16:21.152568+00:00
- - user: None
- - tags: []
-
-## China News Service Website - Headlines, stories, photos and videos | Ecns.cn
- - [https://www.ecns.cn](https://www.ecns.cn)
- - date published: 2023-11-29T19:10:25.826354+00:00
- - user: None
- - tags: ['china news']
-
-## Xinhua – China, World, Business, Sports, Photos and Video | English.news.cn
- - [https://english.news.cn](https://english.news.cn)
- - date published: 2023-10-25T10:54:50.659057+00:00
- - user: None
- - tags: []
-
-## 秦始皇帝陵博物院官网
- - [https://www.bmy.com.cn](https://www.bmy.com.cn)
- - date published: 2023-11-13T13:49:10.021687+00:00
- - user: None
- - tags: ['museum']
-
-## Global Edition
- - [https://global.chinadaily.com.cn](https://global.chinadaily.com.cn)
- - date published: 2023-10-25T10:54:54.979976+00:00
- - user: None
- - tags: []
-
-## JetBrains: 软件开发者和团队的必备工具
- - [https://www.jetbrains.com.cn](https://www.jetbrains.com.cn)
- - date published: 2023-12-12T09:10:15.351076+00:00
- - user: None
- - tags: []
-
-## Research Statement [IPADS]
- - [https://ipads.se.sjtu.edu.cn](https://ipads.se.sjtu.edu.cn)
- - date published: 2023-12-19T22:22:52.947508+00:00
- - user: None
- - tags: []
-
-## Hundred Rabbits
- - [https://100r.co](https://100r.co)
- - date published: 2023-10-25T12:16:22.299825+00:00
- - user: None
- - tags: []
-
-## 404 Media
- - [https://www.404media.co](https://www.404media.co)
- - date published: 2023-10-25T09:30:30.295057+00:00
  - user: None
  - tags: []
 

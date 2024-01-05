@@ -1,3 +1,564 @@
+## Jason Murray
+ - [https://jasonmurray.org](https://jasonmurray.org)
+ - date published: 2023-12-03T01:44:03.303278+00:00
+ - user: None
+ - tags: ['personal']
+
+## JCI Insight -
+Welcome
+ - [https://insight.jci.org](https://insight.jci.org)
+ - date published: 2023-10-25T21:33:32.162300+00:00
+ - user: None
+ - tags: []
+
+## joshua stein
+ - [https://jcs.org](https://jcs.org)
+ - date published: 2023-10-25T21:33:34.730352+00:00
+ - user: None
+ - tags: []
+
+## Home | JEDEC
+ - [https://www.jedec.org](https://www.jedec.org)
+ - date published: 2023-12-11T10:55:36.795616+00:00
+ - user: None
+ - tags: []
+
+## The Free Software Media System | Jellyfin
+ - [https://jellyfin.org](https://jellyfin.org)
+ - date published: 2023-10-25T21:33:41.843077+00:00
+ - user: None
+ - tags: []
+
+## Scott Jenson – Exploring the world beyond mobile
+ - [https://jenson.org](https://jenson.org)
+ - date published: 2023-10-25T08:54:47.957915+00:00
+ - user: None
+ - tags: ['personal']
+
+## web.jfet.org
+ - [https://web.jfet.org](https://web.jfet.org)
+ - date published: 2023-10-25T21:33:43.509595+00:00
+ - user: None
+ - tags: []
+
+## John Graham-Cumming's blog
+ - [https://blog.jgc.org](https://blog.jgc.org)
+ - date published: 2023-10-25T21:33:49.105192+00:00
+ - user: None
+ - tags: []
+
+## JHI Blog – The Journal of the History of Ideas Blog
+ - [https://jhiblog.org](https://jhiblog.org)
+ - date published: 2023-10-25T09:26:48.882576+00:00
+ - user: None
+ - tags: ['personal']
+
+## Exposing the role that Islamic jihad theology and ideology play in the modern global conflicts
+ - [https://www.jihadwatch.org](https://www.jihadwatch.org)
+ - date published: 2023-10-25T21:34:04.072137+00:00
+ - user: None
+ - tags: []
+
+## Free Video Conferencing Software for Web & Mobile | Jitsi
+ - [https://jitsi.org](https://jitsi.org)
+ - date published: 2023-10-25T21:34:13.186384+00:00
+ - user: None
+ - tags: []
+
+## Jason McIntosh
+ - [https://jmac.org](https://jmac.org)
+ - date published: 2023-12-03T23:31:24.435686+00:00
+ - user: None
+ - tags: ['personal']
+
+## Journal of Machine Learning Research
+ - [https://www.jmlr.org](https://www.jmlr.org)
+ - date published: 2023-10-25T21:34:26.430835+00:00
+ - user: None
+ - tags: []
+
+## Journal of Neuroscience
+ - [https://www.jneurosci.org](https://www.jneurosci.org)
+ - date published: 2023-12-07T08:21:12.636553+00:00
+ - user: None
+ - tags: []
+
+## JNS.org
+ - [https://www.jns.org](https://www.jns.org)
+ - date published: 2023-11-02T15:51:39.301436+00:00
+ - user: None
+ - tags: []
+
+## Joblint
+ - [https://joblint.org](https://joblint.org)
+ - date published: 2023-10-25T21:34:29.523770+00:00
+ - user: None
+ - tags: []
+
+## John Horgan (The Science Writer)
+ - [https://johnhorgan.org](https://johnhorgan.org)
+ - date published: 2023-10-25T08:54:50.144199+00:00
+ - user: None
+ - tags: ['personal']
+
+## John Horgan (The Science Writer)
+ - [https://www.johnhorgan.org](https://www.johnhorgan.org)
+ - date published: 2023-10-25T21:34:35.099221+00:00
+ - user: None
+ - tags: []
+
+## Lemmy - A link aggregator for the fediverse
+ - [https://join-lemmy.org](https://join-lemmy.org)
+ - date published: 2023-10-24T20:15:04.346134+00:00
+ - user: None
+ - tags: []
+
+## Mastodon Blog
+ - [https://blog.joinmastodon.org](https://blog.joinmastodon.org)
+ - date published: 2023-10-24T20:17:06.109620+00:00
+ - user: None
+ - tags: []
+
+## PeerTube instances
+ - [https://instances.joinpeertube.org](https://instances.joinpeertube.org)
+ - date published: 2023-10-25T11:44:39.511568+00:00
+ - user: None
+ - tags: ['video streaming']
+
+## What is PeerTube? | JoinPeerTube
+ - [https://joinpeertube.org](https://joinpeertube.org)
+ - date published: 2023-10-24T20:06:01.634426+00:00
+ - user: None
+ - tags: []
+
+## Welcome | Takahē
+ - [https://jointakahe.org](https://jointakahe.org)
+ - date published: 2023-10-25T21:34:38.084888+00:00
+ - user: None
+ - tags: []
+
+## Joker
+ - [https://joker-lang.org](https://joker-lang.org)
+ - date published: 2023-10-25T21:34:44.306193+00:00
+ - user: None
+ - tags: []
+
+## JONATHAN TURLEY – Res ipsa loquitur – The thing itself speaks
+ - [https://jonathanturley.org](https://jonathanturley.org)
+ - date published: 2023-10-25T21:34:51.595319+00:00
+ - user: None
+ - tags: []
+
+## Simon Josefsson's blog
+ - [https://blog.josefsson.org](https://blog.josefsson.org)
+ - date published: 2023-10-25T09:24:02.008742+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [http://jpc2.org](http://jpc2.org)
+ - date published: 2023-12-24T08:16:31.320638+00:00
+ - user: None
+ - tags: ['personal']
+
+## Day.js · 2kB JavaScript date utility library
+ - [https://day.js.org](https://day.js.org)
+ - date published: 2023-10-25T21:35:01.156471+00:00
+ - user: None
+ - tags: []
+
+## LIPS: Powerful Scheme based Lisp interpreter in JavaScript
+ - [https://lips.js.org](https://lips.js.org)
+ - date published: 2023-12-30T21:13:03+00:00
+ - user: None
+ - tags: []
+
+## Build lightweight cross-platform desktop apps with JavaScript, HTML, and CSS | Neutralinojs
+ - [https://neutralino.js.org](https://neutralino.js.org)
+ - date published: 2023-10-25T21:35:04.047579+00:00
+ - user: None
+ - tags: []
+
+## Nostalgist.js
+ - [https://nostalgist.js.org](https://nostalgist.js.org)
+ - date published: 2023-10-25T21:35:11.516801+00:00
+ - user: None
+ - tags: []
+
+## NPKILL - Maintain your development workspace clean.
+ - [https://npkill.js.org](https://npkill.js.org)
+ - date published: 2023-12-13T11:29:20+00:00
+ - user: rumpel
+ - tags: ['javascript', 'npm']
+
+## SqueakJS by Vanessa Freudenberg
+ - [https://squeak.js.org](https://squeak.js.org)
+ - date published: 2023-12-27T15:54:20.655645+00:00
+ - user: None
+ - tags: []
+
+## Storybook: Frontend workshop for UI development
+ - [https://storybook.js.org](https://storybook.js.org)
+ - date published: 2023-10-25T21:35:15.535761+00:00
+ - user: None
+ - tags: []
+
+## TwinSpark
+ - [https://twinspark.js.org](https://twinspark.js.org)
+ - date published: 2023-10-25T21:35:17.129272+00:00
+ - user: None
+ - tags: []
+
+## XState - JavaScript State Machines and Statecharts
+ - [https://xstate.js.org](https://xstate.js.org)
+ - date published: 2023-10-25T21:35:18.263757+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://jskatas.org](https://jskatas.org)
+ - date published: 2023-12-13T14:53:11.009608+00:00
+ - user: None
+ - tags: ['personal', 'javascript']
+
+## JSON-LD - JSON for Linking Data
+ - [https://json-ld.org](https://json-ld.org)
+ - date published: 2023-10-25T21:35:20.538149+00:00
+ - user: None
+ - tags: []
+
+## Jsonnet - Jsonnet Configuration Language
+ - [https://jsonnet.org](https://jsonnet.org)
+ - date published: 2023-10-25T21:35:22.344537+00:00
+ - user: None
+ - tags: []
+
+## JSTOR Daily Homepage - JSTOR Daily
+ - [https://daily.jstor.org](https://daily.jstor.org)
+ - date published: 2023-10-25T21:35:29.037741+00:00
+ - user: None
+ - tags: []
+
+## JSTOR Home
+ - [https://www.jstor.org](https://www.jstor.org)
+ - date published: 2023-11-15T00:43:06.140214+00:00
+ - user: None
+ - tags: []
+
+## http://jsx-mail.org
+ - [http://jsx-mail.org](http://jsx-mail.org)
+ - date published: 2023-10-25T21:35:35.101318+00:00
+ - user: None
+ - tags: []
+
+## Jewish Telegraphic Agency - The Global Jewish News Source
+ - [https://www.jta.org](https://www.jta.org)
+ - date published: 2023-11-21T01:59:22.551429+00:00
+ - user: None
+ - tags: ['israel']
+
+## Juggling Lab
+ - [https://jugglinglab.org](https://jugglinglab.org)
+ - date published: 2023-10-25T21:35:36.225777+00:00
+ - user: None
+ - tags: []
+
+## Julia Programming Language - A forum for users and developers
+ - [https://discourse.julialang.org](https://discourse.julialang.org)
+ - date published: 2023-10-25T21:35:40.545200+00:00
+ - user: None
+ - tags: []
+
+## https://docs.julialang.org
+ - [https://docs.julialang.org](https://docs.julialang.org)
+ - date published: 2023-12-27T18:36:15.980400+00:00
+ - user: None
+ - tags: []
+
+## The Julia Programming Language
+ - [https://julialang.org](https://julialang.org)
+ - date published: 2023-10-25T21:35:42.851009+00:00
+ - user: None
+ - tags: []
+
+## Stop irreversible damage to the Amazon
+ - [https://www.junglekeepers.org](https://www.junglekeepers.org)
+ - date published: 2023-10-25T21:35:45.246371+00:00
+ - user: None
+ - tags: []
+
+## Jupyter Blog
+ - [https://blog.jupyter.org](https://blog.jupyter.org)
+ - date published: 2023-10-25T08:31:26.996270+00:00
+ - user: None
+ - tags: []
+
+## Just Security - A Forum on Law, Rights, and U.S. National Security
+ - [https://www.justsecurity.org](https://www.justsecurity.org)
+ - date published: 2023-10-25T21:35:52.137435+00:00
+ - user: None
+ - tags: []
+
+## Kakoune - Official site
+ - [https://kakoune.org](https://kakoune.org)
+ - date published: 2023-10-25T21:35:52.995500+00:00
+ - user: None
+ - tags: []
+
+## Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution
+ - [https://www.kali.org](https://www.kali.org)
+ - date published: 2023-10-27T16:38:43.999429+00:00
+ - user: None
+ - tags: ['operating system']
+
+## Kalpataru
+ - [https://kalpatarurudra.org](https://kalpatarurudra.org)
+ - date published: 2023-11-02T03:25:41.929209+00:00
+ - user: None
+ - tags: []
+
+## Kamby Language
+ - [https://kamby.org](https://kamby.org)
+ - date published: 2023-10-25T21:35:58.399472+00:00
+ - user: None
+ - tags: []
+
+## Kanban Project Management Software - Kanboard
+ - [https://kanboard.org](https://kanboard.org)
+ - date published: 2023-10-25T21:35:59.351365+00:00
+ - user: None
+ - tags: []
+
+## KanColl: The Kansas Collection Welcome Page
+ - [https://www.kancoll.org](https://www.kancoll.org)
+ - date published: 2023-11-15T17:44:31.559724+00:00
+ - user: None
+ - tags: ['personal']
+
+## KaTeX – The fastest math typesetting library for the web
+ - [https://katex.org](https://katex.org)
+ - date published: 2023-10-25T21:36:00.014489+00:00
+ - user: None
+ - tags: []
+
+## KCUR | KCUR - Kansas City news and NPR
+ - [https://www.kcur.org](https://www.kcur.org)
+ - date published: 2023-11-04T18:28:47.889014+00:00
+ - user: None
+ - tags: []
+
+## KDE Discuss - KDE Community
+ - [https://discuss.kde.org](https://discuss.kde.org)
+ - date published: 2023-10-25T21:36:01.965434+00:00
+ - user: None
+ - tags: []
+
+## KDE Eco
+ - [https://eco.kde.org](https://eco.kde.org)
+ - date published: 2023-10-25T21:36:03.672195+00:00
+ - user: None
+ - tags: []
+
+## Explore groups · GitLab
+ - [https://invent.kde.org](https://invent.kde.org)
+ - date published: 2023-10-25T21:36:04.476762+00:00
+ - user: None
+ - tags: []
+
+## Home - KDE Community
+ - [https://kde.org](https://kde.org)
+ - date published: 2023-10-25T21:36:06.463462+00:00
+ - user: None
+ - tags: ['kde', 'linux', 'open source']
+
+## KDE Mailing Lists - KDE Community
+ - [https://mail.kde.org](https://mail.kde.org)
+ - date published: 2023-10-25T21:36:08.509574+00:00
+ - user: None
+ - tags: []
+
+## Browse  Latest | https://store.kde.org/browse/
+ - [https://store.kde.org](https://store.kde.org)
+ - date published: 2023-11-05T10:28:13.360219+00:00
+ - user: None
+ - tags: []
+
+## KeePassXC Password Manager
+ - [https://keepassxc.org](https://keepassxc.org)
+ - date published: 2023-10-25T21:36:09.258338+00:00
+ - user: None
+ - tags: []
+
+## Knowledge Ecology International - Attending and mending the knowledge ecosystem
+ - [https://www.keionline.org](https://www.keionline.org)
+ - date published: 2023-10-25T21:36:12.622310+00:00
+ - user: None
+ - tags: []
+
+## KERA - Homepage | KERA News
+ - [https://www.keranews.org](https://www.keranews.org)
+ - date published: 2023-11-20T11:24:52.643626+00:00
+ - user: None
+ - tags: []
+
+## Open-Source Kermit Project -
+Free, Portable, Scriptable, Transport-Independent Communications Software.
+Hosted by Panix.com.
+ - [https://www.kermitproject.org](https://www.kermitproject.org)
+ - date published: 2023-10-25T21:36:15.806979+00:00
+ - user: None
+ - tags: []
+
+## Kernel.org Bugzilla Main Page
+ - [https://bugzilla.kernel.org](https://bugzilla.kernel.org)
+ - date published: 2023-10-25T21:36:18.126215+00:00
+ - user: None
+ - tags: []
+
+## Kernel.org git repositories
+ - [https://git.kernel.org](https://git.kernel.org)
+ - date published: 2023-10-25T21:36:22.264353+00:00
+ - user: None
+ - tags: []
+
+## The Linux Kernel Archives
+ - [https://kernel.org](https://kernel.org)
+ - date published: 2023-11-06T10:02:37.263414+00:00
+ - user: None
+ - tags: ['linux']
+
+## public-inbox listing
+ - [https://lore.kernel.org](https://lore.kernel.org)
+ - date published: 2023-10-25T21:36:24.705702+00:00
+ - user: None
+ - tags: []
+
+## mirrors.kernel.org
+ - [https://mirrors.edge.kernel.org](https://mirrors.edge.kernel.org)
+ - date published: 2023-10-25T21:36:25.751314+00:00
+ - user: None
+ - tags: []
+
+## people.kernel.org Reader
+ - [https://people.kernel.org](https://people.kernel.org)
+ - date published: 2023-10-25T21:36:30.389450+00:00
+ - user: None
+ - tags: []
+
+## A kernel-based root solution for Android | KernelSU
+ - [https://kernelsu.org](https://kernelsu.org)
+ - date published: 2023-10-25T21:36:36.612083+00:00
+ - user: None
+ - tags: []
+
+## WordPress › Error
+ - [http://blog.kevtris.org](http://blog.kevtris.org)
+ - date published: 2023-10-25T21:36:37.992822+00:00
+ - user: None
+ - tags: []
+
+## KFF Health News
+ - [https://kffhealthnews.org](https://kffhealthnews.org)
+ - date published: 2023-12-03T18:38:29.362939+00:00
+ - user: None
+ - tags: []
+
+## Права людини в Україні — сайт Харківської правозахисної групи
+ - [https://khpg.org](https://khpg.org)
+ - date published: 2023-12-19T08:14:20.221086+00:00
+ - user: None
+ - tags: []
+
+## The Khronos Group Inc
+ - [https://www.khronos.org](https://www.khronos.org)
+ - date published: 2023-10-25T21:36:40.765055+00:00
+ - user: None
+ - tags: []
+
+## Documentation | KiCad
+ - [https://docs.kicad.org](https://docs.kicad.org)
+ - date published: 2023-10-25T21:36:41.762036+00:00
+ - user: None
+ - tags: []
+
+## KiCad EDA - Schematic Capture & PCB Design Software
+ - [https://www.kicad.org](https://www.kicad.org)
+ - date published: 2023-10-25T21:36:43.199325+00:00
+ - user: None
+ - tags: []
+
+## Detexify LaTeX handwritten symbol recognition
+ - [https://detexify.kirelabs.org](https://detexify.kirelabs.org)
+ - date published: 2023-11-15T01:02:24.623426+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Kiwix Server
+ - [https://library.kiwix.org](https://library.kiwix.org)
+ - date published: 2023-10-25T21:36:43.855326+00:00
+ - user: None
+ - tags: []
+
+## Kevin Kelly – Over the long term, the future is decided by optimists
+ - [https://kk.org](https://kk.org)
+ - date published: 2023-10-25T21:36:46.122026+00:00
+ - user: None
+ - tags: []
+
+## WebGPU GPT Model Demo
+ - [https://www.kmeans.org](https://www.kmeans.org)
+ - date published: 2023-10-25T21:36:46.471227+00:00
+ - user: None
+ - tags: []
+
+## Mark J. Nelson
+ - [https://www.kmjn.org](https://www.kmjn.org)
+ - date published: 2023-10-25T21:36:47.730721+00:00
+ - user: None
+ - tags: []
+
+## KMUW - Homepage | KMUW
+ - [https://www.kmuw.org](https://www.kmuw.org)
+ - date published: 2023-11-09T13:45:32.889287+00:00
+ - user: None
+ - tags: []
+
+## | Knight First Amendment Institute
+ - [https://knightcolumbia.org](https://knightcolumbia.org)
+ - date published: 2023-10-25T21:36:54.362080+00:00
+ - user: None
+ - tags: []
+
+## Knight Foundation
+ - [https://knightfoundation.org](https://knightfoundation.org)
+ - date published: 2023-10-25T21:37:00.753387+00:00
+ - user: None
+ - tags: []
+
+## KNKX Public Radio | Jazz, Blues & NPR News | KNKX Public Radio
+ - [https://www.knkx.org](https://www.knkx.org)
+ - date published: 2023-10-25T21:37:06.340326+00:00
+ - user: None
+ - tags: []
+
+## Knowable Magazine
+ - [https://knowablemagazine.org](https://knowablemagazine.org)
+ - date published: 2023-10-25T21:37:11.035991+00:00
+ - user: None
+ - tags: []
+
+## Knowing Machines
+ - [https://knowingmachines.org](https://knowingmachines.org)
+ - date published: 2023-10-30T22:57:52.177182+00:00
+ - user: None
+ - tags: []
+
+## Home Page of Marat Fayzullin
+ - [https://fms.komkon.org](https://fms.komkon.org)
+ - date published: 2023-10-25T21:37:12.156811+00:00
+ - user: None
+ - tags: []
+
 ## Origami by Michał Kosmulski
  - [https://origami.kosmulski.org](https://origami.kosmulski.org)
  - date published: 2023-10-25T21:37:13.563028+00:00
@@ -1502,6 +2063,12 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
+## The Neocities Blog
+ - [https://blog.neocities.org](https://blog.neocities.org)
+ - date published: 2024-01-04T18:45:41.052280+00:00
+ - user: None
+ - tags: []
+
 ## Coby Cat's Abode
  - [https://cobycat.neocities.org](https://cobycat.neocities.org)
  - date published: 2023-11-09T19:01:08.263713+00:00
@@ -1787,6 +2354,12 @@ Common Weakness Enumeration
 ## Nix & NixOS | Reproducible builds and deployments
  - [https://nixos.org](https://nixos.org)
  - date published: 2023-10-25T21:48:48.526213+00:00
+ - user: None
+ - tags: []
+
+## Personal Website | Nick Long
+ - [https://nlong.org](https://nlong.org)
+ - date published: 2024-01-04T03:32:37.512387+00:00
  - user: None
  - tags: []
 
@@ -5434,575 +6007,4 @@ Common Weakness Enumeration
  - date published: 2023-10-30T14:40:32.920820+00:00
  - user: None
  - tags: ['privacy', 'dark web', 'tor']
-
-## TortoiseGit – Windows Shell Interface to Git
- - [https://tortoisegit.org](https://tortoisegit.org)
- - date published: 2023-10-31T12:01:44.737036+00:00
- - user: None
- - tags: ['open source', 'program']
-
-## Frontpage -- Terms of Service; Didn't Read
- - [https://tosdr.org](https://tosdr.org)
- - date published: 2023-10-25T22:15:19.624851+00:00
- - user: None
- - tags: []
-
-## Happy Birthday TOSEC! #tosecdev
- - [https://www.tosecdev.org](https://www.tosecdev.org)
- - date published: 2023-12-11T18:33:33.268854+00:00
- - user: None
- - tags: []
-
-## touchHLE
- - [https://touchhle.org](https://touchhle.org)
- - date published: 2023-10-25T22:15:20.558373+00:00
- - user: None
- - tags: []
-
-## Toy Skeleton
- - [https://toyskeleton.org](https://toyskeleton.org)
- - date published: 2023-11-29T14:44:19.281027+00:00
- - user: None
- - tags: ['personal']
-
-## Texas Public Radio | TPR
- - [https://www.tpr.org](https://www.tpr.org)
- - date published: 2023-10-25T22:15:25.876244+00:00
- - user: None
- - tags: []
-
-## Trinity Desktop Environment
- - [https://www.trinitydesktop.org](https://www.trinitydesktop.org)
- - date published: 2023-10-25T22:15:27.131626+00:00
- - user: None
- - tags: []
-
-## TripleA: An Open Source Turn Based Grand Strategy Game
- - [https://triplea-game.org](https://triplea-game.org)
- - date published: 2023-10-25T22:15:28.144410+00:00
- - user: None
- - tags: []
-
-## Home - Trisul Network Analytics
- - [https://www.trisul.org](https://www.trisul.org)
- - date published: 2023-10-25T11:29:06.015532+00:00
- - user: None
- - tags: []
-
-## -
- - [https://triunetimes.org](https://triunetimes.org)
- - date published: 2023-11-08T16:17:48.474181+00:00
- - user: None
- - tags: []
-
-## Home Page
- - [https://www.trsearch.org](https://www.trsearch.org)
- - date published: 2023-10-27T12:07:10.556271+00:00
- - user: None
- - tags: []
-
-## Welcome to Valhalla’s Docs — Valhalla’s Docs  documentation
- - [https://docs.trueelena.org](https://docs.trueelena.org)
- - date published: 2023-12-02T05:06:12.411577+00:00
- - user: None
- - tags: []
-
-## https://trueelena.org
- - [https://trueelena.org](https://trueelena.org)
- - date published: 2023-12-02T09:10:35+00:00
- - user: rumpel
- - tags: []
-
-## News Home | Thomson Reuters Foundation News
- - [https://news.trust.org](https://news.trust.org)
- - date published: 2023-10-25T22:15:38.811272+00:00
- - user: None
- - tags: []
-
-## Truthout | Fearless Independent Journalism
- - [https://truthout.org](https://truthout.org)
- - date published: 2023-10-25T22:15:42.168983+00:00
- - user: None
- - tags: []
-
-## Minnie's Home Page
- - [https://minnie.tuhs.org](https://minnie.tuhs.org)
- - date published: 2023-10-25T22:15:45.834689+00:00
- - user: None
- - tags: []
-
-## The Unix Heritage Society
- - [https://www.tuhs.org](https://www.tuhs.org)
- - date published: 2023-10-25T22:15:47.417509+00:00
- - user: None
- - tags: []
-
-## Homepage | Tulsa Library
- - [https://www.tulsalibrary.org](https://www.tulsalibrary.org)
- - date published: 2023-10-27T10:21:07.270897+00:00
- - user: None
- - tags: ['library']
-
-## TurboWarp Desktop - Better offline editor for Scratch 3
- - [https://desktop.turbowarp.org](https://desktop.turbowarp.org)
- - date published: 2023-10-25T22:15:48.691606+00:00
- - user: None
- - tags: []
-
-## TV Tropes
- - [https://tvtropes.org](https://tvtropes.org)
- - date published: 2023-10-25T22:15:56.479437+00:00
- - user: None
- - tags: []
-
-## Two-Bit History
- - [https://twobithistory.org](https://twobithistory.org)
- - date published: 2023-10-25T22:15:57.521416+00:00
- - user: None
- - tags: []
-
-## 2 Player Games - TwoPlayerGames.org
- - [https://www.twoplayergames.org](https://www.twoplayergames.org)
- - date published: 2023-10-25T11:18:34.239862+00:00
- - user: None
- - tags: []
-
-## TypeAPI
- - [https://typeapi.org](https://typeapi.org)
- - date published: 2023-10-25T22:15:58.228065+00:00
- - user: None
- - tags: []
-
-## JavaScript With Syntax For Types.
- - [https://www.typescriptlang.org](https://www.typescriptlang.org)
- - date published: 2023-10-30T13:48:03.524384+00:00
- - user: None
- - tags: ['javascript', 'typescript']
-
-## Typesense | Fast, typo-tolerant open source search engine
- - [https://typesense.org](https://typesense.org)
- - date published: 2023-10-25T22:15:59.784891+00:00
- - user: None
- - tags: []
-
-## Typewritten Software - Retrotechnology Research Laboratory
- - [http://www.typewritten.org](http://www.typewritten.org)
- - date published: 2023-10-25T22:16:01.583832+00:00
- - user: None
- - tags: []
-
-## Matt Tytel
- - [https://tytel.org](https://tytel.org)
- - date published: 2023-11-26T06:05:54.913570+00:00
- - user: None
- - tags: []
-
-## UAWire
- - [https://uawire.org](https://uawire.org)
- - date published: 2024-01-02T18:25:41.964512+00:00
- - user: None
- - tags: []
-
-## Ubuntu MATE | For a retrospective future
- - [https://ubuntu-mate.org](https://ubuntu-mate.org)
- - date published: 2023-11-06T10:08:20.674734+00:00
- - user: None
- - tags: ['linux', 'operating system']
-
-## UCLA Health: Center for High Quality Health Care Services
- - [https://www.uclahealth.org](https://www.uclahealth.org)
- - date published: 2023-10-25T22:16:04.259788+00:00
- - user: None
- - tags: []
-
-## The Equation - Union of Concerned Scientists
- - [https://blog.ucsusa.org](https://blog.ucsusa.org)
- - date published: 2023-10-25T22:16:07.751665+00:00
- - user: None
- - tags: []
-
-## UF Health - University of Florida Health
- - [https://ufhealth.org](https://ufhealth.org)
- - date published: 2023-11-26T10:51:05.063033+00:00
- - user: None
- - tags: []
-
-## Uyghur Human Rights Project
- - [https://uhrp.org](https://uhrp.org)
- - date published: 2023-11-27T12:21:06+00:00
- - user: rumpel
- - tags: ['uyghurs']
-
-## UK Research and Innovation
- - [https://www.ukri.org](https://www.ukri.org)
- - date published: 2023-12-07T17:40:19.222248+00:00
- - user: None
- - tags: ['organization']
-
-## Ultibo.org – Make something amazing
- - [https://ultibo.org](https://ultibo.org)
- - date published: 2023-10-25T22:16:12.188671+00:00
- - user: None
- - tags: []
-
-## U++ - Cross-Platform App Development Framework
- - [https://www.ultimatepp.org](https://www.ultimatepp.org)
- - date published: 2023-12-02T15:50:58.928912+00:00
- - user: None
- - tags: []
-
-## UN News | Global perspective Human stories
- - [https://news.un.org](https://news.un.org)
- - date published: 2023-10-25T22:16:15.307275+00:00
- - user: None
- - tags: []
-
-## Welcome to the United Nations
- - [https://www.un.org](https://www.un.org)
- - date published: 2023-10-25T22:16:21.032376+00:00
- - user: None
- - tags: []
-
-## 2023 Report - UNAIDS - Global Report 2023
- - [https://thepath.unaids.org](https://thepath.unaids.org)
- - date published: 2023-10-25T22:16:22.303503+00:00
- - user: None
- - tags: []
-
-## UNC Health & UNC School of Medicine Newsroom
- - [https://news.unchealthcare.org](https://news.unchealthcare.org)
- - date published: 2023-11-05T02:04:02.063047+00:00
- - user: None
- - tags: []
-
-## Undark Magazine | Truth, Beauty, Science.
- - [https://undark.org](https://undark.org)
- - date published: 2023-10-25T10:40:08.530856+00:00
- - user: None
- - tags: []
-
-## OpenBSD Journal: A resource for the OpenBSD community
- - [https://undeadly.org](https://undeadly.org)
- - date published: 2023-10-25T22:16:23.799423+00:00
- - user: None
- - tags: []
-
-## OpenBSD Journal: A resource for the OpenBSD community
- - [https://www.undeadly.org](https://www.undeadly.org)
- - date published: 2023-10-25T10:15:21.266043+00:00
- - user: None
- - tags: []
-
-## Understanding AI | Timothy B Lee | Substack
- - [https://www.understandingai.org](https://www.understandingai.org)
- - date published: 2023-10-25T22:16:26.229235+00:00
- - user: None
- - tags: []
-
-## UNEP - UN Environment Programme
- - [https://www.unep.org](https://www.unep.org)
- - date published: 2023-10-25T22:16:28.858183+00:00
- - user: None
- - tags: []
-
-## UNESCO : Building Peace through Education, Science and Culture, communication and information
- - [https://www.unesco.org](https://www.unesco.org)
- - date published: 2023-11-16T12:13:51.361275+00:00
- - user: None
- - tags: []
-
-## UNHCR, the UN Refugee Agency | UNHCR
- - [https://www.unhcr.org](https://www.unhcr.org)
- - date published: 2023-11-07T18:14:19.052073+00:00
- - user: None
- - tags: []
-
-## Unicon.org - the Unicon Programming Language Home Page
- - [http://unicon.org](http://unicon.org)
- - date published: 2023-10-25T22:16:30.161488+00:00
- - user: None
- - tags: []
-
-## UnifiedPush
- - [https://unifiedpush.org](https://unifiedpush.org)
- - date published: 2023-10-25T22:16:36.878388+00:00
- - user: None
- - tags: []
-
-## The Unison language
- - [https://www.unison-lang.org](https://www.unison-lang.org)
- - date published: 2023-10-25T22:16:43.435256+00:00
- - user: None
- - tags: []
-
-## United Way of the National Capital Area - Assistance for DC, MD & VA
- - [https://unitedwaynca.org](https://unitedwaynca.org)
- - date published: 2023-10-25T22:16:46.777544+00:00
- - user: None
- - tags: []
-
-## Universal Blue
- - [https://universal-blue.org](https://universal-blue.org)
- - date published: 2023-10-25T22:16:48.799969+00:00
- - user: None
- - tags: []
-
-## https://www.unrwa.org
- - [https://www.unrwa.org](https://www.unrwa.org)
- - date published: 2023-11-04T00:46:39.532150+00:00
- - user: None
- - tags: []
-
-## UN Watch - Home
- - [https://unwatch.org](https://unwatch.org)
- - date published: 2023-11-06T21:10:36.734291+00:00
- - user: None
- - tags: []
-
-## Uri Shaked - urish.org
- - [https://urish.org](https://urish.org)
- - date published: 2023-12-31T13:21:59.425104+00:00
- - user: None
- - tags: []
-
-## House Absolute(ly Pointless)
- - [https://blog.urth.org](https://blog.urth.org)
- - date published: 2023-10-25T22:16:50.060450+00:00
- - user: None
- - tags: []
-
-## Erich Boleyn's Home Page
- - [http://www.uruk.org](http://www.uruk.org)
- - date published: 2023-10-25T22:16:51.177684+00:00
- - user: None
- - tags: []
-
-## USA National Phenology Network | USA National Phenology Network
- - [https://www.usanpn.org](https://www.usanpn.org)
- - date published: 2023-10-25T22:16:53.580862+00:00
- - user: None
- - tags: []
-
-## Front Page | USB-IF
- - [https://www.usb.org](https://www.usb.org)
- - date published: 2023-10-25T22:16:55.660013+00:00
- - user: None
- - tags: []
-
-## USENIX | The Advanced Computing Systems Association
- - [https://www.usenix.org](https://www.usenix.org)
- - date published: 2023-10-25T22:16:57.549244+00:00
- - user: None
- - tags: []
-
-## userChrome.css for Customizing Firefox
- - [https://www.userchrome.org](https://www.userchrome.org)
- - date published: 2023-11-22T06:52:28+00:00
- - user: rumpel
- - tags: []
-
-## United States Holocaust Memorial Museum
- - [https://www.ushmm.org](https://www.ushmm.org)
- - date published: 2023-11-27T12:19:04+00:00
- - user: rumpel
- - tags: ['museum']
-
-## USNI News - Maritime News and Analysis
- - [https://news.usni.org](https://news.usni.org)
- - date published: 2023-10-25T10:47:11.011084+00:00
- - user: None
- - tags: []
-
-## https://www.usni.org
- - [https://www.usni.org](https://www.usni.org)
- - date published: 2023-10-25T22:17:02.758104+00:00
- - user: None
- - tags: []
-
-## U.S. Right To Know - Pursuing truth and transparency for public health
- - [https://usrtk.org](https://usrtk.org)
- - date published: 2023-10-25T22:17:06.462467+00:00
- - user: None
- - tags: []
-
-## USS Los Angeles CA-135
- - [https://uss-la-ca135.org](https://uss-la-ca135.org)
- - date published: 2023-10-25T22:17:08.646577+00:00
- - user: None
- - tags: []
-
-## US v Google
- - [https://usvgoogle.org](https://usvgoogle.org)
- - date published: 2023-12-01T08:40:04+00:00
- - user: rumpel
- - tags: ['dark design', 'monopoly', 'google']
-
-## Portal
- - [https://ut99.org](https://ut99.org)
- - date published: 2023-10-30T15:41:29.210700+00:00
- - user: None
- - tags: []
-
-## Uyuni
- - [https://www.uyuni-project.org](https://www.uyuni-project.org)
- - date published: 2023-10-25T22:17:10.350047+00:00
- - user: None
- - tags: []
-
-## Van Andel Institute - Independent Biomedical Research Institute
- - [https://www.vai.org](https://www.vai.org)
- - date published: 2023-11-16T13:27:50.392681+00:00
- - user: None
- - tags: []
-
-## Vanilla OS Handbook
- - [https://handbook.vanillaos.org](https://handbook.vanillaos.org)
- - date published: 2023-10-25T22:17:11.694319+00:00
- - user: None
- - tags: []
-
-## Vanilla OS
- - [https://vanillaos.org](https://vanillaos.org)
- - date published: 2023-10-25T22:17:12.831357+00:00
- - user: None
- - tags: []
-
-## VanJS: A 0.9KB JavaScript UI framework
- - [https://vanjs.org](https://vanjs.org)
- - date published: 2023-12-20T13:34:20+00:00
- - user: None
- - tags: []
-
-## Vaughn Tan - Vaughn Tan
- - [https://vaughntan.org](https://vaughntan.org)
- - date published: 2023-10-25T22:17:15.170507+00:00
- - user: None
- - tags: []
-
-## Vintage Computer Federation Forums
- - [https://forum.vcfed.org](https://forum.vcfed.org)
- - date published: 2023-10-25T22:17:18.497361+00:00
- - user: None
- - tags: []
-
-## Vintage Computer Federation – VCF — A organization for computer history enthusiasts
- - [https://vcfed.org](https://vcfed.org)
- - date published: 2023-10-25T11:33:37.708206+00:00
- - user: None
- - tags: []
-
-## https://vegan-day.org
- - [https://vegan-day.org](https://vegan-day.org)
- - date published: 2023-11-02T11:19:51.464364+00:00
- - user: None
- - tags: []
-
-## Gary Gale •
-            Gary Gale
- - [https://www.vicchi.org](https://www.vicchi.org)
- - date published: 2023-12-26T06:31:43.798844+00:00
- - user: None
- - tags: ['personal']
-
-## The Victorian Web: Linking Scholarship, Teaching and Learning since 1994
- - [https://victorianweb.org](https://victorianweb.org)
- - date published: 2023-11-01T18:33:01.038777+00:00
- - user: None
- - tags: []
-
-## Inicio - Vida Salvaje
- - [https://vidasalvaje.org](https://vidasalvaje.org)
- - date published: 2023-11-29T14:42:58.928937+00:00
- - user: None
- - tags: ['personal']
-
-## VLC: Official site - Free multimedia solutions for all OS! - VideoLAN
- - [https://www.videolan.org](https://www.videolan.org)
- - date published: 2023-10-28T20:47:24.713754+00:00
- - user: None
- - tags: ['open source']
-
-## Paige Ruten
- - [https://viewsourcecode.org](https://viewsourcecode.org)
- - date published: 2023-10-25T22:17:19.388232+00:00
- - user: None
- - tags: []
-
-## welcome home : vim online
- - [https://www.vim.org](https://www.vim.org)
- - date published: 2023-10-30T13:50:47.115932+00:00
- - user: None
- - tags: ['ide', 'program', 'open source', 'vim']
-
-## Vim: help.txt
- - [https://vimhelp.org](https://vimhelp.org)
- - date published: 2023-12-29T00:00:01.583497+00:00
- - user: None
- - tags: []
-
-## Vine Robots – Learn to make your own!
- - [https://www.vinerobots.org](https://www.vinerobots.org)
- - date published: 2023-10-25T22:17:31.334649+00:00
- - user: None
- - tags: []
-
-## Vintage Apple
- - [https://vintageapple.org](https://vintageapple.org)
- - date published: 2023-10-25T22:17:38.659417+00:00
- - user: None
- - tags: []
-
-## A virtual museum of Tektronix products, technology, and people
- - [https://vintagetek.org](https://vintagetek.org)
- - date published: 2023-11-19T23:34:21.585596+00:00
- - user: None
- - tags: []
-
-## The Viridian Design Movement
- - [https://www.viridiandesign.org](https://www.viridiandesign.org)
- - date published: 2023-10-25T22:17:40.101109+00:00
- - user: None
- - tags: []
-
-## Oracle VM VirtualBox
- - [https://www.virtualbox.org](https://www.virtualbox.org)
- - date published: 2023-10-25T22:17:41.368693+00:00
- - user: None
- - tags: []
-
-## Federico's Blog
- - [https://viruta.org](https://viruta.org)
- - date published: 2023-10-25T22:17:42.708643+00:00
- - user: None
- - tags: []
-
-## Vitalic - Dissidænce
- - [https://www.vitalic.org](https://www.vitalic.org)
- - date published: 2023-11-13T10:28:23.377605+00:00
- - user: None
- - tags: ['music band']
-
-## viXra.org open e-Print archive
- - [https://vixra.org](https://vixra.org)
- - date published: 2023-10-25T22:17:44.457600+00:00
- - user: None
- - tags: []
-
-## VLDB Endowment Inc.
- - [https://vldb.org](https://vldb.org)
- - date published: 2023-10-25T22:17:46.407190+00:00
- - user: None
- - tags: []
-
-## VOGONS
- - [https://www.vogons.org](https://www.vogons.org)
- - date published: 2023-10-25T22:17:48.197911+00:00
- - user: None
- - tags: []
-
-## Nathaniel J. Smith: Academic homepage
- - [https://vorpus.org](https://vorpus.org)
- - date published: 2023-10-25T22:17:48.895824+00:00
- - user: None
- - tags: []
 

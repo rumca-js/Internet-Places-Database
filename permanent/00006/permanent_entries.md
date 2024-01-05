@@ -1,3 +1,285 @@
+## Matt Megrue – Product Designer
+ - [https://mattmegruedesign.com](https://mattmegruedesign.com)
+ - date published: 2023-12-13T06:05:18.360177+00:00
+ - user: None
+ - tags: ['personal']
+
+## Author and Author Services Provider Matthew Wayne Selznick
+ - [https://www.mattselznick.com](https://www.mattselznick.com)
+ - date published: 2023-12-07T17:37:46.378916+00:00
+ - user: None
+ - tags: ['personal']
+
+## Matt Stein
+ - [https://mattstein.com](https://mattstein.com)
+ - date published: 2023-12-20T11:45:06.855158+00:00
+ - user: None
+ - tags: ['personal']
+
+## MatX | Faster chips for LLMs
+ - [https://matx.com](https://matx.com)
+ - date published: 2023-10-25T15:58:28.628172+00:00
+ - user: None
+ - tags: []
+
+## Availability | Max
+ - [https://www.max.com](https://www.max.com)
+ - date published: 2023-10-24T20:05:43.408291+00:00
+ - user: None
+ - tags: ['video streaming']
+
+## MAX Security | Security Services & Intelligence Reports
+ - [https://www.max-security.com](https://www.max-security.com)
+ - date published: 2023-10-25T15:58:36.481351+00:00
+ - user: None
+ - tags: []
+
+## Max Countryman - People first leader, technologist, and indie hacker
+ - [https://www.maxcountryman.com](https://www.maxcountryman.com)
+ - date published: 2023-10-25T15:58:43.515740+00:00
+ - user: None
+ - tags: []
+
+## Maxime Heckel's Blog
+ - [https://blog.maximeheckel.com](https://blog.maximeheckel.com)
+ - date published: 2023-10-31T16:58:23.142701+00:00
+ - user: None
+ - tags: []
+
+## Maximilian Golla
+ - [https://maximiliangolla.com](https://maximiliangolla.com)
+ - date published: 2023-10-25T15:58:56.149767+00:00
+ - user: None
+ - tags: []
+
+## Maxim Massenkoff | Homepage
+ - [https://maximmassenkoff.com](https://maximmassenkoff.com)
+ - date published: 2023-10-25T15:58:57.718905+00:00
+ - user: None
+ - tags: []
+
+## Watch Maximum Effort Channel on Fubo | Maximum Effort Channel
+ - [https://www.maximumeffortchannel.com](https://www.maximumeffortchannel.com)
+ - date published: 2023-11-28T21:01:12+00:00
+ - user: rumpel
+ - tags: ['video streaming']
+
+## Maxinomics
+ - [https://www.maxinomics.com](https://www.maxinomics.com)
+ - date published: 2023-10-25T15:58:59.765746+00:00
+ - user: None
+ - tags: []
+
+## Max Leiter
+ - [https://maxleiter.com](https://maxleiter.com)
+ - date published: 2023-10-25T15:59:02.588809+00:00
+ - user: None
+ - tags: []
+
+## About Me - Max Rozen
+ - [https://maxrozen.com](https://maxrozen.com)
+ - date published: 2023-10-25T15:59:09.969498+00:00
+ - user: None
+ - tags: []
+
+## Max Wrenna -
+ - [https://maxwrenna.com](https://maxwrenna.com)
+ - date published: 2023-12-30T09:52:45.350249+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ledger Independent – Maysville Online
+ - [https://maysville-online.com](https://maysville-online.com)
+ - date published: 2023-10-25T15:59:20.004304+00:00
+ - user: None
+ - tags: []
+
+## Free open source IoT OS and development tools from Arm | Mbed
+ - [https://os.mbed.com](https://os.mbed.com)
+ - date published: 2023-10-25T15:59:22.747695+00:00
+ - user: None
+ - tags: []
+
+## Luxury Cars - Sedans, SUVs, Coupes & Wagons
+ - [https://www.mbusa.com](https://www.mbusa.com)
+ - date published: 2023-11-01T08:42:28.246652+00:00
+ - user: None
+ - tags: []
+
+## Motor boat news, motor boat reviews, pictures, videos | MBY
+ - [https://www.mby.com](https://www.mby.com)
+ - date published: 2023-10-25T15:59:36.703916+00:00
+ - user: None
+ - tags: []
+
+## All-in-one Security, Identity, and Privacy Protection
+ - [https://www.mcafee.com](https://www.mcafee.com)
+ - date published: 2023-10-25T08:40:55.941637+00:00
+ - user: None
+ - tags: ['antivirus']
+
+## McCall Erickson
+ - [https://www.mccallerickson.com](https://www.mccallerickson.com)
+ - date published: 2023-11-29T15:31:52.166793+00:00
+ - user: None
+ - tags: ['personal']
+
+## McDonald's: Burgers, Fries & More. Quality Ingredients.
+ - [https://www.mcdonalds.com](https://www.mcdonalds.com)
+ - date published: 2023-11-01T08:42:28.940798+00:00
+ - user: None
+ - tags: []
+
+## Dan McKinley :: Math, Programming, and Minority Reports
+ - [https://mcfunley.com](https://mcfunley.com)
+ - date published: 2023-10-25T15:59:38.297240+00:00
+ - user: None
+ - tags: []
+
+## McGST
+ - [https://mcgst.com](https://mcgst.com)
+ - date published: 2023-10-25T15:59:41.737647+00:00
+ - user: None
+ - tags: []
+
+## Global management consulting | McKinsey & Company
+ - [https://www.mckinsey.com](https://www.mckinsey.com)
+ - date published: 2023-10-25T15:59:45.217952+00:00
+ - user: None
+ - tags: []
+
+## HOME
+ - [https://www.mcknights.com](https://www.mcknights.com)
+ - date published: 2024-01-02T10:46:03.454880+00:00
+ - user: None
+ - tags: []
+
+## WiFi Over Coax
+ - [https://wifiovercoax.mcleodnet.com](https://wifiovercoax.mcleodnet.com)
+ - date published: 2023-10-25T15:59:46.200973+00:00
+ - user: None
+ - tags: []
+
+## McMansion Hell
+ - [https://mcmansionhell.com](https://mcmansionhell.com)
+ - date published: 2023-10-25T15:59:50.085703+00:00
+ - user: None
+ - tags: []
+
+## McMaster-Carr
+ - [https://www.mcmaster.com](https://www.mcmaster.com)
+ - date published: 2023-10-25T15:59:55.166753+00:00
+ - user: None
+ - tags: []
+
+## MC PHAGWARA - Breaking News, Results, Jobs & Exam Updates
+ - [https://www.mcphagwara.com](https://www.mcphagwara.com)
+ - date published: 2023-10-25T15:59:59.380025+00:00
+ - user: None
+ - tags: []
+
+## MCU on Eclipse | Everything on Eclipse, Microcontrollers and Software
+ - [https://mcuoneclipse.com](https://mcuoneclipse.com)
+ - date published: 2023-10-25T16:00:03.039661+00:00
+ - user: None
+ - tags: []
+
+## Maarten’s Newsletter | Maarten Dalmijn | Substack
+ - [https://mdalmijn.com](https://mdalmijn.com)
+ - date published: 2023-10-25T16:00:10.637609+00:00
+ - user: None
+ - tags: []
+
+## MDPI - Publisher of Open Access Journals
+ - [https://www.mdpi.com](https://www.mdpi.com)
+ - date published: 2023-10-25T16:00:19.436124+00:00
+ - user: None
+ - tags: []
+
+## Meat Fighter
+ - [https://meatfighter.com](https://meatfighter.com)
+ - date published: 2023-10-25T16:00:21.111757+00:00
+ - user: rumpel
+ - tags: ['games', 'personal']
+
+## Mechanomy
+ - [https://mechanomy.com](https://mechanomy.com)
+ - date published: 2023-10-25T16:00:23.497449+00:00
+ - user: None
+ - tags: []
+
+## https://m.media-amazon.com
+ - [https://m.media-amazon.com](https://m.media-amazon.com)
+ - date published: 2024-01-02T00:02:09.333792+00:00
+ - user: None
+ - tags: []
+
+## Media Bias/Fact Check - Search and Learn the Bias of News Media
+ - [https://mediabiasfactcheck.com](https://mediabiasfactcheck.com)
+ - date published: 2023-10-25T16:00:28.557887+00:00
+ - user: None
+ - tags: []
+
+## Media Narodowe – bez poprawności politycznej
+ - [https://medianarodowe.com](https://medianarodowe.com)
+ - date published: 2023-10-25T16:00:37.956275+00:00
+ - user: None
+ - tags: []
+
+## Medical Xpress - medical research advances and health news
+ - [https://medicalxpress.com](https://medicalxpress.com)
+ - date published: 2023-10-25T10:46:01.116429+00:00
+ - user: None
+ - tags: []
+
+## - Meditación y Psicología
+ - [https://meditacionypsicologia.com](https://meditacionypsicologia.com)
+ - date published: 2023-12-20T19:15:11.085725+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paul Greenberg – Medium
+ - [https://4fishgreenberg.medium.com](https://4fishgreenberg.medium.com)
+ - date published: 2023-10-25T10:18:26.978914+00:00
+ - user: None
+ - tags: []
+
+## The Data Observer – Medium
+ - [https://acceldataio.medium.com](https://acceldataio.medium.com)
+ - date published: 2023-10-25T10:18:29.480316+00:00
+ - user: None
+ - tags: []
+
+## Admiral Cloudberg – Medium
+ - [https://admiralcloudberg.medium.com](https://admiralcloudberg.medium.com)
+ - date published: 2023-10-25T10:18:31.319523+00:00
+ - user: None
+ - tags: []
+
+## adrian cockcroft – Medium
+ - [https://adrianco.medium.com](https://adrianco.medium.com)
+ - date published: 2023-10-25T10:18:33.437352+00:00
+ - user: None
+ - tags: []
+
+## Sander Mertens – Medium
+ - [https://ajmmertens.medium.com](https://ajmmertens.medium.com)
+ - date published: 2023-10-25T10:18:35.461737+00:00
+ - user: None
+ - tags: []
+
+## Akshay Raveendran – Medium
+ - [https://akshayraveendran.medium.com](https://akshayraveendran.medium.com)
+ - date published: 2023-11-01T08:42:30.094336+00:00
+ - user: None
+ - tags: []
+
+## Alen Tred – Medium
+ - [https://alentred.medium.com](https://alentred.medium.com)
+ - date published: 2023-10-25T10:18:37.466546+00:00
+ - user: None
+ - tags: []
+
 ## Alexandre Olive – Medium
  - [https://alexandreolive.medium.com](https://alexandreolive.medium.com)
  - date published: 2023-10-25T10:18:39.600805+00:00
@@ -1839,6 +2121,12 @@
  - date published: 2023-12-13T16:19:05.456659+00:00
  - user: None
  - tags: []
+
+## MNT Research GmbH
+ - [https://mntre.com](https://mntre.com)
+ - date published: 2024-01-04T19:00:48+00:00
+ - user: rumpel
+ - tags: ['hardware', 'open hardware']
 
 ## MOBAFire
  - [https://www.mobafire.com](https://www.mobafire.com)
@@ -5692,6 +5980,12 @@ Answering Machine Greetings!
  - user: None
  - tags: ['substack']
 
+## Search and borrow from OverDrive's huge catalogue of eBooks, audiobooks and videos
+ - [https://www.overdrive.com](https://www.overdrive.com)
+ - date published: 2024-01-04T01:25:31.640053+00:00
+ - user: None
+ - tags: ['ebooks', 'audiobooks', 'digital library']
+
 ## overexact.com
  - [https://overexact.com](https://overexact.com)
  - date published: 2023-10-25T16:28:44.079753+00:00
@@ -5709,298 +6003,4 @@ Answering Machine Greetings!
  - date published: 2023-11-21T19:10:01.479781+00:00
  - user: None
  - tags: []
-
-## Become an Overwolf Alpha
- - [https://alphas.overwolf.com](https://alphas.overwolf.com)
- - date published: 2023-12-13T15:56:50.081121+00:00
- - user: None
- - tags: []
-
-## CurseForge Ideas
- - [https://curseforge-ideas.overwolf.com](https://curseforge-ideas.overwolf.com)
- - date published: 2023-12-13T15:57:17.333379+00:00
- - user: None
- - tags: []
-
-## https://download.overwolf.com
- - [https://download.overwolf.com](https://download.overwolf.com)
- - date published: 2023-12-13T16:03:05.172379+00:00
- - user: None
- - tags: []
-
-## Overwolf platform Ideas Portal
- - [https://ideas.overwolf.com](https://ideas.overwolf.com)
- - date published: 2023-12-13T15:57:10.879850+00:00
- - user: None
- - tags: []
-
-## Overwolf Support Help Center
- - [https://support.overwolf.com](https://support.overwolf.com)
- - date published: 2023-12-13T16:02:52.887164+00:00
- - user: None
- - tags: []
-
-## Overwolf | The guild of in-game creators
- - [https://www.overwolf.com](https://www.overwolf.com)
- - date published: 2023-12-13T16:02:25.163174+00:00
- - user: None
- - tags: []
-
-## OVHcloud
- - [https://www.ovhcloud.com](https://www.ovhcloud.com)
- - date published: 2023-10-25T08:26:40.799882+00:00
- - user: None
- - tags: ['hosting service']
-
-## owehrens.com
- - [https://owehrens.com](https://owehrens.com)
- - date published: 2023-12-13T15:53:28.406704+00:00
- - user: None
- - tags: []
-
-## Home - Owen Young's Story
- - [https://blog.owenyoung.com](https://blog.owenyoung.com)
- - date published: 2023-12-13T11:22:49.498288+00:00
- - user: None
- - tags: ['personal']
-
-## OBN | Hey, how are ya?
- - [https://www.owlbynight.com](https://www.owlbynight.com)
- - date published: 2023-10-25T16:28:44.701322+00:00
- - user: None
- - tags: []
-
-## Tutoring Services | Oxford Learning
- - [https://www.oxfordlearning.com](https://www.oxfordlearning.com)
- - date published: 2023-10-25T16:28:48.244897+00:00
- - user: None
- - tags: []
-
-## Home - Oxford Political Review
- - [https://oxfordpoliticalreview.com](https://oxfordpoliticalreview.com)
- - date published: 2023-10-25T16:28:52.447028+00:00
- - user: None
- - tags: []
-
-## The Oxford Student – The Oxford Student
- - [https://www.oxfordstudent.com](https://www.oxfordstudent.com)
- - date published: 2023-10-25T16:29:04.754563+00:00
- - user: None
- - tags: []
-
-## Oxygen Official Site
- - [https://www.oxygen.com](https://www.oxygen.com)
- - date published: 2023-10-28T17:36:52.135541+00:00
- - user: None
- - tags: []
-
-## http://www.oyonale.com
- - [http://www.oyonale.com](http://www.oyonale.com)
- - date published: 2023-10-25T16:29:06.302463+00:00
- - user: None
- - tags: []
-
-## Sergey Stadnik's blog
- - [https://ozmoroz.com](https://ozmoroz.com)
- - date published: 2023-12-17T16:42:45.433064+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Oz Rhodes
- - [https://www.ozrhodes.com](https://www.ozrhodes.com)
- - date published: 2023-12-20T00:59:19.143915+00:00
- - user: None
- - tags: ['personal']
-
-## Unified In-game and On-Chain Analytics
- - [https://p2eanalytics.com](https://p2eanalytics.com)
- - date published: 2023-10-25T16:29:07.420465+00:00
- - user: None
- - tags: []
-
-## PA Ancestors
- - [https://www.paancestors.com](https://www.paancestors.com)
- - date published: 2023-12-28T22:26:07.134081+00:00
- - user: None
- - tags: ['personal']
-
-## Paavan — Digital Product Designer
- - [https://paavandesign.com](https://paavandesign.com)
- - date published: 2023-10-25T16:29:13.648161+00:00
- - user: None
- - tags: []
-
-## Home Page | Pachyderm
- - [https://www.pachyderm.com](https://www.pachyderm.com)
- - date published: 2023-10-25T16:29:16.162733+00:00
- - user: None
- - tags: []
-
-## Graphing Calculator
- - [https://www.pacifict.com](https://www.pacifict.com)
- - date published: 2023-10-25T16:29:17.519350+00:00
- - user: None
- - tags: []
-
-## Packet Loss Test – Test Your Connection Quality
- - [https://packetlosstest.com](https://packetlosstest.com)
- - date published: 2023-11-16T09:49:00.669649+00:00
- - user: None
- - tags: []
-
-## Packt | Programming Books, eBooks & Videos for Developers
- - [https://www.packtpub.com](https://www.packtpub.com)
- - date published: 2023-10-25T08:25:45.035269+00:00
- - user: None
- - tags: []
-
-## Home - PYOK
- - [https://www.paddleyourownkanoo.com](https://www.paddleyourownkanoo.com)
- - date published: 2023-10-25T16:29:23.750808+00:00
- - user: None
- - tags: []
-
-## Home - New - Pagely
- - [https://pagely.com](https://pagely.com)
- - date published: 2023-10-25T16:29:33.698142+00:00
- - user: None
- - tags: []
-
-## Link Building, SEO, Content Marketing | Page One Power
- - [https://www.pageonepower.com](https://www.pageonepower.com)
- - date published: 2023-10-25T16:29:36.991160+00:00
- - user: None
- - tags: ['company', 'seo']
-
-## Page Six: Latest Celebrity News, Entertainment News & Gossip
- - [https://pagesix.com](https://pagesix.com)
- - date published: 2023-10-25T10:52:05.156137+00:00
- - user: None
- - tags: []
-
-## Cheap Books!
- - [https://www.pagesonpages.com](https://www.pagesonpages.com)
- - date published: 2023-10-25T16:29:38.022535+00:00
- - user: None
- - tags: []
-
-## pagetable.com – Some Assembly Required
- - [https://www.pagetable.com](https://www.pagetable.com)
- - date published: 2023-10-25T16:29:42.920014+00:00
- - user: None
- - tags: []
-
-## Home of the Pathfinder and Starfinder RPGs. The Golem’s Got It! | Paizo
- - [https://paizo.com](https://paizo.com)
- - date published: 2023-10-25T16:29:51.558859+00:00
- - user: None
- - tags: []
-
-## Paleofuture
- - [https://paleofuture.com](https://paleofuture.com)
- - date published: 2023-10-25T16:29:54.151105+00:00
- - user: None
- - tags: []
-
-## Electronics, Computing and Videogame History - Paleotronic Magazine
- - [https://paleotronic.com](https://paleotronic.com)
- - date published: 2023-10-25T11:10:53.460145+00:00
- - user: None
- - tags: []
-
-## Paliparan - Travels Around the World
- - [https://paliparan.com](https://paliparan.com)
- - date published: 2023-10-25T16:29:56.800882+00:00
- - user: None
- - tags: []
-
-## Palladium Magazine
- - [https://palladiummag.com](https://palladiummag.com)
- - date published: 2023-10-25T10:14:15.909364+00:00
- - user: None
- - tags: []
-
-## Palladium Magazine
- - [https://www.palladiummag.com](https://www.palladiummag.com)
- - date published: 2023-10-25T16:30:09.505258+00:00
- - user: None
- - tags: []
-
-## The Blog of Palmer Luckey – The #1 Palmer Luckey Blog on the Internet
- - [https://palmerluckey.com](https://palmerluckey.com)
- - date published: 2023-10-25T16:30:13.359058+00:00
- - user: None
- - tags: []
-
-## | Palo Alto Online |
- - [https://www.paloaltoonline.com](https://www.paloaltoonline.com)
- - date published: 2023-10-25T16:30:19.898249+00:00
- - user: None
- - tags: []
-
-## Panasonic Polska
- - [https://www.panasonic.com](https://www.panasonic.com)
- - date published: 2023-11-01T07:37:07.821934+00:00
- - user: None
- - tags: ['company']
-
-## The Antivirus Revolution - Panda Security
- - [https://www.pandasecurity.com](https://www.pandasecurity.com)
- - date published: 2023-10-29T12:00:35.028997+00:00
- - user: None
- - tags: []
-
-## Panels & Prose
- - [https://panelsandprose.com](https://panelsandprose.com)
- - date published: 2023-11-02T11:19:49.225609+00:00
- - user: None
- - tags: []
-
-## HOME
- - [https://www.pangeosyacht.com](https://www.pangeosyacht.com)
- - date published: 2023-10-25T16:30:22.156795+00:00
- - user: None
- - tags: []
-
-## Panic Social
- - [https://social.panic.com](https://social.panic.com)
- - date published: 2023-10-24T20:13:18.672824+00:00
- - user: None
- - tags: ['mastodon']
-
-## Paolo Amoroso's Journal
- - [https://journal.paoloamoroso.com](https://journal.paoloamoroso.com)
- - date published: 2023-10-25T16:30:24.194833+00:00
- - user: None
- - tags: []
-
-## Paolo Mainardi
- - [https://www.paolomainardi.com](https://www.paolomainardi.com)
- - date published: 2023-10-25T16:30:26.103996+00:00
- - user: None
- - tags: []
-
-## Paperpile Reference Manager
- - [https://paperpile.com](https://paperpile.com)
- - date published: 2023-11-01T08:42:53.570173+00:00
- - user: None
- - tags: []
-
-## Cloud GPUs & Hosting for AI | Paperspace
- - [https://www.paperspace.com](https://www.paperspace.com)
- - date published: 2023-10-25T16:30:30.437808+00:00
- - user: None
- - tags: []
-
-## The latest in Machine Learning | Papers With Code
- - [https://paperswithcode.com](https://paperswithcode.com)
- - date published: 2023-10-25T16:30:32.725669+00:00
- - user: None
- - tags: []
-
-## collection of sébastien de ganay, paper toilet .com by rafaël rozendaal, 2006
- - [https://papertoilet.com](https://papertoilet.com)
- - date published: 2023-10-27T10:58:53.737739+00:00
- - user: None
- - tags: ['wtf']
 
