@@ -1,3 +1,33 @@
+## Roguelike Celebration
+ - [https://www.roguelike.club](https://www.roguelike.club)
+ - date published: 2023-10-25T12:16:02.060980+00:00
+ - user: None
+ - tags: []
+
+## secret club | We Break Software
+ - [https://secret.club](https://secret.club)
+ - date published: 2023-10-25T12:16:05.805445+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Launch your product within hours
+ - [https://shipped.club](https://shipped.club)
+ - date published: 2023-12-07T01:13:21+00:00
+ - user: None
+ - tags: []
+
+## The Print Shop Club – Create Apple II Print Shop Printouts On-Line!
+ - [https://theprintshop.club](https://theprintshop.club)
+ - date published: 2023-10-25T12:16:08.782455+00:00
+ - user: None
+ - tags: []
+
+## The Web Scraping Club | Pierluigi Vinciguerra | Substack
+ - [https://substack.thewebscraping.club](https://substack.thewebscraping.club)
+ - date published: 2023-10-25T12:16:16.183663+00:00
+ - user: None
+ - tags: []
+
 ## Welcome to ~tilde.club~
  - [https://tilde.club](https://tilde.club)
  - date published: 2023-10-25T12:16:21.152568+00:00
@@ -319,6 +349,12 @@
 ## Green Investing Co. - Build Wealth. Save the Planet.
  - [https://greeninvesting.co](https://greeninvesting.co)
  - date published: 2023-11-16T15:37:38.056532+00:00
+ - user: None
+ - tags: []
+
+## Greg Brown
+ - [https://gregbrown.co](https://gregbrown.co)
+ - date published: 2024-01-05T01:04:39.810006+00:00
  - user: None
  - tags: []
 
@@ -2230,6 +2266,12 @@
  - user: None
  - tags: []
 
+## None
+ - [https://www.ageekinjapan.com](https://www.ageekinjapan.com)
+ - date published: 2024-01-05T16:52:51.955257+00:00
+ - user: None
+ - tags: []
+
 ## Home - Agenzia Nova
  - [https://www.agenzianova.com](https://www.agenzianova.com)
  - date published: 2023-12-25T09:27:40.052555+00:00
@@ -2493,6 +2535,12 @@
  - date published: 2023-11-29T15:51:39.126052+00:00
  - user: None
  - tags: ['personal']
+
+## How to Build a Thinking AI
+ - [https://aithought.com](https://aithought.com)
+ - date published: 2024-01-05T18:35:34+00:00
+ - user: None
+ - tags: []
 
 ## AGI Simulator
  - [https://agi.aitida.com](https://agi.aitida.com)
@@ -5410,6 +5458,12 @@
  - user: None
  - tags: []
 
+## 百度贴吧——全球领先的中文社区
+ - [https://tieba.baidu.com](https://tieba.baidu.com)
+ - date published: 2024-01-05T21:10:24.551578+00:00
+ - user: None
+ - tags: []
+
 ## bakersfield.com | Kern County news, events, shopping & search
  - [https://www.bakersfield.com](https://www.bakersfield.com)
  - date published: 2023-10-25T12:51:56.284017+00:00
@@ -5941,60 +5995,6 @@
 ## Electric and Automatic Commercial Coffee Roaster | Bellwether Coffee
  - [https://bellwethercoffee.com](https://bellwethercoffee.com)
  - date published: 2023-10-25T12:56:52.055674+00:00
- - user: None
- - tags: []
-
-## Simplify Your Life
- - [https://bemorewithless.com](https://bemorewithless.com)
- - date published: 2023-12-29T20:11:42.020820+00:00
- - user: None
- - tags: ['personal']
-
-## Be My Eyes - See the world together
- - [https://www.bemyeyes.com](https://www.bemyeyes.com)
- - date published: 2023-10-25T12:56:56.367181+00:00
- - user: None
- - tags: []
-
-## Benedict Evans
- - [https://www.ben-evans.com](https://www.ben-evans.com)
- - date published: 2023-12-12T08:35:22.223621+00:00
- - user: None
- - tags: []
-
-## Ben Burwell
- - [https://www.benburwell.com](https://www.benburwell.com)
- - date published: 2023-11-01T08:41:33.680868+00:00
- - user: None
- - tags: []
-
-## Ben Detalle
- - [https://bendetalle.com](https://bendetalle.com)
- - date published: 2023-11-29T14:23:21.989583+00:00
- - user: None
- - tags: ['personal']
-
-## Ben Hoyt
- - [https://benhoyt.com](https://benhoyt.com)
- - date published: 2023-10-25T08:45:03.337226+00:00
- - user: None
- - tags: ['personal']
-
-## Benjamin Boman
- - [https://benjaminboman.com](https://benjaminboman.com)
- - date published: 2023-11-29T16:22:12.763525+00:00
- - user: None
- - tags: ['personal']
-
-## Insider Songwriting Secrets | Music Publishing Tips | Artistic Marketing - Benjamin Groff
- - [https://www.benjamingroff.com](https://www.benjamingroff.com)
- - date published: 2023-10-25T12:57:11.627046+00:00
- - user: None
- - tags: []
-
-## Compass Rose | The territory is a map of the map.
- - [http://benjaminrosshoffman.com](http://benjaminrosshoffman.com)
- - date published: 2023-10-25T12:57:15.976304+00:00
  - user: None
  - tags: []
 

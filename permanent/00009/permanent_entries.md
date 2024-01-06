@@ -1,3 +1,303 @@
+## Customize and apply backgrounds fast | SVG Backgrounds
+ - [https://www.svgbackgrounds.com](https://www.svgbackgrounds.com)
+ - date published: 2023-10-25T17:20:04.343453+00:00
+ - user: None
+ - tags: []
+
+## Free SVG logos & icons download  | SVGmix
+ - [https://svgmix.com](https://svgmix.com)
+ - date published: 2023-10-25T17:20:13.052145+00:00
+ - user: None
+ - tags: []
+
+## Webhooks as a Service – Secure and Enterprise Ready · Svix
+ - [https://www.svix.com](https://www.svix.com)
+ - date published: 2023-10-25T17:20:14.867763+00:00
+ - user: None
+ - tags: []
+
+## Kelly Shortridge's Magical Research Land
+ - [https://swagitda.com](https://swagitda.com)
+ - date published: 2023-10-25T17:20:17.134510+00:00
+ - user: None
+ - tags: []
+
+## Show HN: SwaraNotebook – a notation editor for Indian classical music
+ - [https://swaranotebook.com](https://swaranotebook.com)
+ - date published: 2023-11-28T02:34:00+00:00
+ - user: None
+ - tags: []
+
+## Sweet Home 3D - Draw floor plans and arrange furniture freely
+ - [https://www.sweethome3d.com](https://www.sweethome3d.com)
+ - date published: 2023-10-25T17:20:18.110245+00:00
+ - user: None
+ - tags: []
+
+## Swift Publisher — Desktop Publishing and Page Layout Software for Mac
+ - [https://www.swiftpublisher.com](https://www.swiftpublisher.com)
+ - date published: 2024-01-05T04:48:32.094760+00:00
+ - user: None
+ - tags: []
+
+## Home - Switch and Click
+ - [https://switchandclick.com](https://switchandclick.com)
+ - date published: 2023-10-25T17:20:24.588728+00:00
+ - user: None
+ - tags: []
+
+## Switchyard
+ - [https://www.switchyardmag.com](https://www.switchyardmag.com)
+ - date published: 2023-12-20T05:27:59.725283+00:00
+ - user: None
+ - tags: []
+
+## Swizec Teller
+ - [https://swizec.com](https://swizec.com)
+ - date published: 2023-10-25T08:48:05.117046+00:00
+ - user: None
+ - tags: ['personal']
+
+## research!rsc
+ - [https://research.swtch.com](https://research.swtch.com)
+ - date published: 2023-10-25T17:20:26.605238+00:00
+ - user: None
+ - tags: []
+
+## swtchboard
+ - [https://swtch.com](https://swtch.com)
+ - date published: 2023-10-25T17:20:27.482205+00:00
+ - user: None
+ - tags: []
+
+## Swurl - Search everything
+ - [https://swurl.com](https://swurl.com)
+ - date published: 2023-10-25T08:28:12.182647+00:00
+ - user: None
+ - tags: []
+
+## Sylvera Carbon Data
+ - [https://www.sylvera.com](https://www.sylvera.com)
+ - date published: 2023-10-25T17:20:29.492942+00:00
+ - user: None
+ - tags: []
+
+## Sym: Secure Your Production Infrastructure
+ - [https://symops.com](https://symops.com)
+ - date published: 2023-10-25T17:20:30.341455+00:00
+ - user: None
+ - tags: []
+
+## Synced
+ - [https://syncedreview.com](https://syncedreview.com)
+ - date published: 2023-10-25T17:20:38.836617+00:00
+ - user: None
+ - tags: []
+
+## .NET, Xamarin, JavaScript, Angular UI components | Syncfusion
+ - [https://www.syncfusion.com](https://www.syncfusion.com)
+ - date published: 2023-10-25T17:20:42.708228+00:00
+ - user: None
+ - tags: []
+
+## Synctera | Easily build banking for your customers
+ - [https://www.synctera.com](https://www.synctera.com)
+ - date published: 2023-10-25T17:20:46.427654+00:00
+ - user: None
+ - tags: []
+
+## Synology Community
+ - [https://community.synology.com](https://community.synology.com)
+ - date published: 2023-10-26T19:02:23.508064+00:00
+ - user: None
+ - tags: []
+
+## Synthesis
+ - [https://www.synthesis.com](https://www.synthesis.com)
+ - date published: 2023-10-25T17:20:47.415633+00:00
+ - user: None
+ - tags: []
+
+## Synthical | Main feed
+ - [https://synthical.com](https://synthical.com)
+ - date published: 2023-10-25T17:20:50.155045+00:00
+ - user: None
+ - tags: []
+
+## www.synthroom.com
+ - [https://synthroom.com](https://synthroom.com)
+ - date published: 2023-10-25T17:20:54.037917+00:00
+ - user: None
+ - tags: []
+
+## Synthtopia – Synthesizer and electronic music news, synth and music software reviews and more!
+ - [https://www.synthtopia.com](https://www.synthtopia.com)
+ - date published: 2023-10-25T10:17:36.780975+00:00
+ - user: None
+ - tags: []
+
+## Syracuse NY Local News, Breaking News, Sports & Weather
+ - [https://www.syracuse.com](https://www.syracuse.com)
+ - date published: 2023-10-25T17:21:10.221646+00:00
+ - user: None
+ - tags: []
+
+## Systems Community of Inquiry | An open discussion on systems
+ - [https://stream.syscoi.com](https://stream.syscoi.com)
+ - date published: 2023-10-25T17:21:18.586641+00:00
+ - user: None
+ - tags: []
+
+## Sysdig | Security for Containers, Kubernetes, and Cloud
+ - [https://sysdig.com](https://sysdig.com)
+ - date published: 2023-10-25T17:21:21.628166+00:00
+ - user: None
+ - tags: []
+
+## SYSGO - Embedding Innovations | SYSGO
+ - [https://www.sysgo.com](https://www.sysgo.com)
+ - date published: 2023-10-25T17:21:24.694877+00:00
+ - user: None
+ - tags: []
+
+## Syst & Deploy
+ - [https://www.systanddeploy.com](https://www.systanddeploy.com)
+ - date published: 2023-10-25T17:21:31.211599+00:00
+ - user: None
+ - tags: []
+
+## System76 Blog
+ - [https://blog.system76.com](https://blog.system76.com)
+ - date published: 2023-10-25T17:21:32.380629+00:00
+ - user: None
+ - tags: []
+
+## Pop!_OS by System76
+ - [https://pop.system76.com](https://pop.system76.com)
+ - date published: 2023-10-25T08:31:49.176627+00:00
+ - user: None
+ - tags: ['operating system', 'linux']
+
+## System76 - Linux Laptops, Desktops, and Servers
+ - [https://system76.com](https://system76.com)
+ - date published: 2023-10-25T17:21:39.587668+00:00
+ - user: None
+ - tags: []
+
+## System Initiative
+ - [https://www.systeminit.com](https://www.systeminit.com)
+ - date published: 2023-10-25T17:21:41.166800+00:00
+ - user: None
+ - tags: []
+
+## System Of A Down | Official Site
+ - [https://systemofadown.com](https://systemofadown.com)
+ - date published: 2023-10-30T15:37:43.794306+00:00
+ - user: None
+ - tags: ['music band']
+
+## Gry strategiczne. Gry
+ - [https://www.sztab.com](https://www.sztab.com)
+ - date published: 2023-11-17T21:40:40+00:00
+ - user: rumpel
+ - tags: ['video games', 'strategic games', 'games']
+
+## Smarter Living | T3
+ - [https://www.t3.com](https://www.t3.com)
+ - date published: 2023-10-25T17:21:52.772578+00:00
+ - user: None
+ - tags: []
+
+## https://public.tableau.com
+ - [https://public.tableau.com](https://public.tableau.com)
+ - date published: 2024-01-03T01:43:17.774089+00:00
+ - user: None
+ - tags: []
+
+## TablEdit Tablature Editor
+ - [https://tabledit.com](https://tabledit.com)
+ - date published: 2023-10-25T17:21:55.418458+00:00
+ - user: None
+ - tags: []
+
+## TableFlow | The open source CSV importer
+ - [https://tableflow.com](https://tableflow.com)
+ - date published: 2023-10-25T17:22:01.648668+00:00
+ - user: None
+ - tags: []
+
+## Tablet Magazine
+ - [https://www.tabletmag.com](https://www.tabletmag.com)
+ - date published: 2023-12-06T10:23:40+00:00
+ - user: rumpel
+ - tags: ['israel', 'jewish news']
+
+## Tabletmonkeys - The World's Largest Computer Tablet Magazine/Website • Tabletmonkeys Is The World's Largest Computer Tablet Magazine/Website With Tablet Comparison, Tablet Deals, Tablet Leaks, Tablet Rumors, and Tablet News.
+ - [https://tabletmonkeys.com](https://tabletmonkeys.com)
+ - date published: 2023-10-25T17:22:16.200755+00:00
+ - user: None
+ - tags: []
+
+## Tabletop world
+ - [https://tabletop-world.com](https://tabletop-world.com)
+ - date published: 2023-10-27T07:56:12+00:00
+ - user: rumpel
+ - tags: ['tabletop games', 'miniatures']
+
+## Home - TableTop Game and Hobby
+ - [https://tabletopgameandhobby.com](https://tabletopgameandhobby.com)
+ - date published: 2023-10-25T11:11:47.639152+00:00
+ - user: None
+ - tags: []
+
+## Tabletop Games Blog - All things tabletop games
+ - [https://tabletopgamesblog.com](https://tabletopgamesblog.com)
+ - date published: 2023-10-25T11:11:51.352396+00:00
+ - user: None
+ - tags: []
+
+## Tabletop Gaming News - TGN
+ - [https://www.tabletopgamingnews.com](https://www.tabletopgamingnews.com)
+ - date published: 2023-11-08T09:29:32.273419+00:00
+ - user: None
+ - tags: ['game news', 'tabletop games', 'warhammer']
+
+## Play 2,400+ Board Games Online for Free • Tabletopia
+ - [https://tabletopia.com](https://tabletopia.com)
+ - date published: 2023-10-25T11:12:02.256440+00:00
+ - user: None
+ - tags: []
+
+## Home | Tabletop Simulator
+ - [https://www.tabletopsimulator.com](https://www.tabletopsimulator.com)
+ - date published: 2023-10-27T10:35:48.411335+00:00
+ - user: None
+ - tags: []
+
+## Tabletop Skirmish Games
+ - [https://tabletopskirmishgames.com](https://tabletopskirmishgames.com)
+ - date published: 2023-10-27T07:59:36.389296+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://cdn.taboola.com](https://cdn.taboola.com)
+ - date published: 2023-12-18T17:19:26.211579+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://trc.taboola.com](https://trc.taboola.com)
+ - date published: 2023-12-18T17:16:54.076202+00:00
+ - user: None
+ - tags: []
+
+## Tailscale · Best VPN Service for Secure Networks
+ - [https://tailscale.com](https://tailscale.com)
+ - date published: 2023-10-25T17:22:17.414679+00:00
+ - user: None
+ - tags: []
+
 ## Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.
  - [https://tailwindcss.com](https://tailwindcss.com)
  - date published: 2023-10-25T17:22:25.981083+00:00
@@ -4226,6 +4526,12 @@
  - user: None
  - tags: []
 
+## tylor slinger
+ - [https://www.tylorslinger.com](https://www.tylorslinger.com)
+ - date published: 2024-01-05T10:38:39.418889+00:00
+ - user: None
+ - tags: []
+
 ## Tynan.com – Life Outside the Box
  - [https://tynan.com](https://tynan.com)
  - date published: 2023-10-25T08:48:20.581559+00:00
@@ -5697,310 +6003,4 @@
  - date published: 2023-12-12T22:18:12.429315+00:00
  - user: None
  - tags: ['virtualization']
-
-## VNV NATION - Alternative Electronic Music
- - [https://vnvnation.com](https://vnvnation.com)
- - date published: 2023-10-25T13:52:36.723319+00:00
- - user: None
- - tags: ['music band']
-
-## VOA - Voice of America English News
- - [https://www.voanews.com](https://www.voanews.com)
- - date published: 2023-10-25T17:58:00.143976+00:00
- - user: None
- - tags: ['news']
-
-## Show HN: Vocab Miner – find new words in Spanish from texts
- - [https://vocabminer.com](https://vocabminer.com)
- - date published: 2023-12-28T15:17:37+00:00
- - user: None
- - tags: []
-
-## VOCALOID ( ボーカロイド・ボカロ ) 公式サイト
- - [https://www.vocaloid.com](https://www.vocaloid.com)
- - date published: 2023-10-25T17:58:04.057960+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.vodafone.com](https://www.vodafone.com)
- - date published: 2023-10-25T17:58:07.620214+00:00
- - user: None
- - tags: []
-
-## Vogue: Fashion, Beauty, Celebrity, Fashion Shows | Vogue
- - [https://www.vogue.com](https://www.vogue.com)
- - date published: 2023-10-25T17:58:10.904686+00:00
- - user: None
- - tags: []
-
-## Vogue Business: Fashion Industry Expertise From an Insider's Perspective | Vogue Business
- - [https://www.voguebusiness.com](https://www.voguebusiness.com)
- - date published: 2023-10-25T17:58:13.232753+00:00
- - user: None
- - tags: []
-
-## VoidStar Security LLC
- - [https://voidstarsec.com](https://voidstarsec.com)
- - date published: 2023-11-01T08:43:22.489825+00:00
- - user: None
- - tags: []
-
-## Voiture Blog: It's all about cars
- - [https://www.voitureblog.com](https://www.voitureblog.com)
- - date published: 2023-10-25T17:58:19.010249+00:00
- - user: None
- - tags: []
-
-## Volocopter brings urban air mobility to life
- - [https://www.volocopter.com](https://www.volocopter.com)
- - date published: 2023-11-13T13:14:21.543535+00:00
- - user: None
- - tags: ['avionics', 'aviation']
-
-## Home - Volumio
- - [https://volumio.com](https://volumio.com)
- - date published: 2023-10-25T17:58:28.288602+00:00
- - user: None
- - tags: []
-
-## Volvo Cars
- - [https://www.volvocars.com](https://www.volvocars.com)
- - date published: 2023-11-01T08:43:23.237480+00:00
- - user: None
- - tags: []
-
-## Welcome to Volvo Trucks
- - [https://www.volvotrucks.com](https://www.volvotrucks.com)
- - date published: 2023-11-17T19:49:46.635994+00:00
- - user: None
- - tags: []
-
-## vomitingchicken.com
- - [https://vomitingchicken.com](https://vomitingchicken.com)
- - date published: 2023-11-29T17:11:52.328753+00:00
- - user: None
- - tags: []
-
-## vonhulewicz
- - [https://www.vonhulewicz.com](https://www.vonhulewicz.com)
- - date published: 2023-12-24T18:30:25.995250+00:00
- - user: None
- - tags: ['personal']
-
-## Lauren Weinstein's Blog
- - [https://lauren.vortex.com](https://lauren.vortex.com)
- - date published: 2023-10-25T17:58:32.739644+00:00
- - user: None
- - tags: []
-
-## Show HN: Vowl daily word guessing game
- - [https://vowlgame.com](https://vowlgame.com)
- - date published: 2023-12-29T21:53:49+00:00
- - user: None
- - tags: []
-
-## Vox - Our world, explained
- - [https://www.vox.com](https://www.vox.com)
- - date published: 2023-10-25T10:39:39.512845+00:00
- - user: None
- - tags: []
-
-## Voxel51 // Open source computer vision tools for machine learning
- - [https://voxel51.com](https://voxel51.com)
- - date published: 2023-10-25T17:58:36.656429+00:00
- - user: None
- - tags: []
-
-## VPNCentral - Your #1 Resource for VPN Information
- - [https://vpncentral.com](https://vpncentral.com)
- - date published: 2023-10-25T17:58:38.882345+00:00
- - user: None
- - tags: []
-
-## VPNOverview.com | News and Reviews, Privacy and Anonymity
- - [https://vpnoverview.com](https://vpnoverview.com)
- - date published: 2023-10-25T17:58:41.057138+00:00
- - user: None
- - tags: []
-
-## VRChat
- - [https://hello.vrchat.com](https://hello.vrchat.com)
- - date published: 2023-12-06T10:35:33+00:00
- - user: rumpel
- - tags: ['virtual reality', 'social platform']
-
-## Virtual Reality - Virtual Realities | Virtual Reality Products and Services
- - [https://www.vrealities.com](https://www.vrealities.com)
- - date published: 2023-11-27T16:24:43+00:00
- - user: rumpel
- - tags: ['virtual reality']
-
-## VSCodium - Open Source Binaries of VSCode
- - [https://vscodium.com](https://vscodium.com)
- - date published: 2023-10-25T17:58:41.892210+00:00
- - user: None
- - tags: []
-
-## Vudu is not available in your region.
- - [https://www.vudu.com](https://www.vudu.com)
- - date published: 2023-12-02T13:12:44+00:00
- - user: rumpel
- - tags: []
-
-## Vulture - Entertainment News - TV, Movies, Music, Books, Theater, Art
- - [https://www.vulture.com](https://www.vulture.com)
- - date published: 2023-10-25T10:24:00.700690+00:00
- - user: None
- - tags: ['entertainment news', 'movies']
-
-## VW.com | Official Home of Volkswagen Cars & SUVs
- - [https://www.vw.com](https://www.vw.com)
- - date published: 2023-10-25T18:10:11.961099+00:00
- - user: None
- - tags: ['company', 'car producer']
-
-## Effektiv drift och förvaltning | Vyer Technologies AB | Sweden
- - [https://www.vyer.com](https://www.vyer.com)
- - date published: 2023-11-29T14:19:39.041120+00:00
- - user: None
- - tags: []
-
-## Warcraft 3: Reforged - Map database
- - [https://maps.w3reforged.com](https://maps.w3reforged.com)
- - date published: 2023-10-29T10:35:07.109924+00:00
- - user: None
- - tags: []
-
-## W3Schools Online Web Tutorials
- - [https://www.w3schools.com](https://www.w3schools.com)
- - date published: 2023-10-25T17:25:37.350967+00:00
- - user: None
- - tags: ['css', 'standards', 'html', 'javascript']
-
-## W4 Games – Home
- - [https://w4games.com](https://w4games.com)
- - date published: 2023-10-25T17:58:48.483188+00:00
- - user: None
- - tags: ['godot', 'game studio']
-
-## Wacom | Interactive pen displays , pen tablets and stylus products.
- - [https://www.wacom.com](https://www.wacom.com)
- - date published: 2023-10-27T13:57:25.561009+00:00
- - user: None
- - tags: ['drawing', 'hardware']
-
-## WAD Commander
- - [https://wadcmd.com](https://wadcmd.com)
- - date published: 2023-10-25T17:58:50.087656+00:00
- - user: None
- - tags: []
-
-## WAGO Polska | Twój Partner w automatyce i połączeniach elektrycznych
- - [https://www.wago.com](https://www.wago.com)
- - date published: 2023-11-26T10:10:06+00:00
- - user: rumpel
- - tags: ['electronic']
-
-## Wait But Why
- - [https://waitbutwhy.com](https://waitbutwhy.com)
- - date published: 2024-01-01T18:11:58.847026+00:00
- - user: None
- - tags: []
-
-## WakaTime - Dashboards for developers
- - [https://wakatime.com](https://wakatime.com)
- - date published: 2023-10-25T17:59:03.808055+00:00
- - user: None
- - tags: []
-
-## Wakelet - Save, organize and share content
- - [https://wakelet.com](https://wakelet.com)
- - date published: 2023-11-26T16:49:19+00:00
- - user: rumpel
- - tags: ['bookmark manager']
-
-## قدم زدن در باغ عدن
- - [https://walkineden.com](https://walkineden.com)
- - date published: 2023-12-15T21:44:25.009160+00:00
- - user: None
- - tags: ['personal']
-
-## Best Wallet Hacks - Strategies & tactics for getting ahead financially and in life
- - [https://wallethacks.com](https://wallethacks.com)
- - date published: 2023-11-29T16:21:56.754241+00:00
- - user: None
- - tags: ['personal']
-
-## Wallpapers.com | 1,500,000+ Free HD Wallpapers for Desktop, Mobiles & Tablets
- - [https://wallpapers.com](https://wallpapers.com)
- - date published: 2023-10-25T16:30:58.046543+00:00
- - user: None
- - tags: []
-
-## Walmart has deals on the most-wanted gifts
- - [https://www.walmart.com](https://www.walmart.com)
- - date published: 2023-12-18T10:21:10.339974+00:00
- - user: None
- - tags: []
-
-## Wandering Wheatleys
- - [https://wanderingwheatleys.com](https://wanderingwheatleys.com)
- - date published: 2023-11-29T19:27:17.788085+00:00
- - user: None
- - tags: ['personal']
-
-## Wannabe Angels | Substack
- - [https://wannabeangels.com](https://wannabeangels.com)
- - date published: 2023-10-25T17:59:09.818436+00:00
- - user: None
- - tags: []
-
-## Dragonflight Raid & Dungeon Journal - Warcraft DB
- - [https://warcraftdb.com](https://warcraftdb.com)
- - date published: 2023-12-13T16:16:13.742566+00:00
- - user: None
- - tags: []
-
-## Warcraft Tavern - World of Warcraft News, Guides, & Tools
- - [https://www.warcrafttavern.com](https://www.warcrafttavern.com)
- - date published: 2023-12-13T16:17:17.821169+00:00
- - user: None
- - tags: []
-
-## Warfare Miniatures USA
- - [https://www.warfareminiaturesusa.com](https://www.warfareminiaturesusa.com)
- - date published: 2023-10-25T11:12:05.174416+00:00
- - user: None
- - tags: []
-
-## Home - The Wargame Explorer
- - [https://wargameexplorer.com](https://wargameexplorer.com)
- - date published: 2023-10-25T11:12:16.521806+00:00
- - user: None
- - tags: []
-
-## Wargamer | Warhammer, DnD, MTG, board games, and more
- - [https://www.wargamer.com](https://www.wargamer.com)
- - date published: 2023-10-25T11:19:48.926186+00:00
- - user: None
- - tags: ['board games', 'tabletop games', 'dungeons & dragons', 'warhammer', 'card games']
-
-## Wargames Foundry Miniatures – WargamesFoundry
- - [https://www.wargamesfoundry.com](https://www.wargamesfoundry.com)
- - date published: 2023-10-25T11:12:20.467045+00:00
- - user: None
- - tags: ['tabletop games', 'shop']
-
-## Home - Warhammer
- - [https://www.warhammer.com](https://www.warhammer.com)
- - date published: 2023-10-31T20:55:20.625099+00:00
- - user: None
- - tags: ['games workshop', 'tabletop games', 'warhammer']
-
-## https://www.warhammer-community.com
- - [https://www.warhammer-community.com](https://www.warhammer-community.com)
- - date published: 2023-10-25T11:12:32.436432+00:00
- - user: None
- - tags: []
 

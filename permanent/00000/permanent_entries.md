@@ -2627,6 +2627,12 @@
  - tags: []
 
 ## Home - Manuel Matuzovic
+ - [https://matuzo.at](https://matuzo.at)
+ - date published: 2024-01-05T10:25:13.748351+00:00
+ - user: None
+ - tags: []
+
+## Home - Manuel Matuzovic
  - [https://www.matuzo.at](https://www.matuzo.at)
  - date published: 2023-10-25T08:57:51.245566+00:00
  - user: None
@@ -3184,6 +3190,12 @@
  - user: None
  - tags: ['personal']
 
+## Authenticsound.be - La musique expérimentale
+ - [https://www.authenticsound.be](https://www.authenticsound.be)
+ - date published: 2024-01-05T21:36:47.484213+00:00
+ - user: None
+ - tags: []
+
 ## Aviation24.be - Latest News & Breaking Stories - Discussion Forums
  - [https://www.aviation24.be](https://www.aviation24.be)
  - date published: 2023-10-25T10:59:01.632137+00:00
@@ -3559,6 +3571,12 @@
 ## Engraved
  - [https://www.engraved.blog](https://www.engraved.blog)
  - date published: 2023-10-25T12:00:15.735106+00:00
+ - user: None
+ - tags: []
+
+## Combining the Ordinary to Become Extraordinary
+ - [https://erinshaw.blog](https://erinshaw.blog)
+ - date published: 2024-01-05T10:38:31.333598+00:00
  - user: None
  - tags: []
 
@@ -3950,6 +3968,12 @@
 ## Show HN: Gobble Bot
  - [https://gobble.bot](https://gobble.bot)
  - date published: 2023-12-03T12:57:13+00:00
+ - user: None
+ - tags: []
+
+## Agência FAPESP
+ - [https://agencia.fapesp.br](https://agencia.fapesp.br)
+ - date published: 2024-01-05T15:18:41.204636+00:00
  - user: None
  - tags: []
 
@@ -5562,6 +5586,12 @@
  - user: None
  - tags: []
 
+## Fourmilab
+ - [https://www.fourmilab.ch](https://www.fourmilab.ch)
+ - date published: 2024-01-05T19:09:00.683849+00:00
+ - user: None
+ - tags: []
+
 ## A Java geek
  - [https://blog.frankel.ch](https://blog.frankel.ch)
  - date published: 2023-10-25T09:03:10.100142+00:00
@@ -5967,36 +5997,6 @@
 ## rawtext.club
  - [https://rawtext.club](https://rawtext.club)
  - date published: 2023-10-25T12:15:59.378026+00:00
- - user: None
- - tags: []
-
-## Roguelike Celebration
- - [https://www.roguelike.club](https://www.roguelike.club)
- - date published: 2023-10-25T12:16:02.060980+00:00
- - user: None
- - tags: []
-
-## secret club | We Break Software
- - [https://secret.club](https://secret.club)
- - date published: 2023-10-25T12:16:05.805445+00:00
- - user: None
- - tags: []
-
-## Show HN: Launch your product within hours
- - [https://shipped.club](https://shipped.club)
- - date published: 2023-12-07T01:13:21+00:00
- - user: None
- - tags: []
-
-## The Print Shop Club – Create Apple II Print Shop Printouts On-Line!
- - [https://theprintshop.club](https://theprintshop.club)
- - date published: 2023-10-25T12:16:08.782455+00:00
- - user: None
- - tags: []
-
-## The Web Scraping Club | Pierluigi Vinciguerra | Substack
- - [https://substack.thewebscraping.club](https://substack.thewebscraping.club)
- - date published: 2023-10-25T12:16:16.183663+00:00
  - user: None
  - tags: []
 

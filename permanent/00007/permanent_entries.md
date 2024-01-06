@@ -1,3 +1,226 @@
+## OrioleDB – the next generation storage engine for PostgreSQL
+ - [https://www.orioledata.com](https://www.orioledata.com)
+ - date published: 2023-10-25T16:27:26.200155+00:00
+ - user: None
+ - tags: []
+
+## Orlando Sentinel
+ - [https://www.orlandosentinel.com](https://www.orlandosentinel.com)
+ - date published: 2023-11-27T21:19:15.271397+00:00
+ - user: None
+ - tags: []
+
+## Orlando Weekly
+ - [https://www.orlandoweekly.com](https://www.orlandoweekly.com)
+ - date published: 2023-11-23T07:19:16.129563+00:00
+ - user: None
+ - tags: []
+
+## Orville McDonald – Random thoughts on technology and business
+ - [https://orvillemcdonald.com](https://orvillemcdonald.com)
+ - date published: 2023-10-25T09:21:05.715824+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Orwell Foundation
+ - [https://www.orwellfoundation.com](https://www.orwellfoundation.com)
+ - date published: 2023-10-25T11:26:43.410563+00:00
+ - user: None
+ - tags: []
+
+## Oryx
+ - [https://www.oryxspioenkop.com](https://www.oryxspioenkop.com)
+ - date published: 2023-10-25T16:27:36.030855+00:00
+ - user: None
+ - tags: []
+
+## The OS/2 Museum
+ - [https://www.os2museum.com](https://www.os2museum.com)
+ - date published: 2023-10-25T16:27:40.415903+00:00
+ - user: None
+ - tags: []
+
+## https://www.oscarscampos.com
+ - [https://www.oscarscampos.com](https://www.oscarscampos.com)
+ - date published: 2023-12-25T04:55:51.274224+00:00
+ - user: None
+ - tags: ['personal']
+
+## oschvr.com
+ - [https://oschvr.com](https://oschvr.com)
+ - date published: 2023-10-25T16:27:41.499435+00:00
+ - user: None
+ - tags: []
+
+## Open Source Clones of Games
+ - [https://osgameclones.com](https://osgameclones.com)
+ - date published: 2023-12-27T02:09:22+00:00
+ - user: None
+ - tags: []
+
+## osintme.com
+ - [https://www.osintme.com](https://www.osintme.com)
+ - date published: 2023-10-25T16:27:45.841879+00:00
+ - user: None
+ - tags: []
+
+## Oskar Eggert
+ - [https://www.oskareggert.com](https://www.oskareggert.com)
+ - date published: 2023-12-05T14:37:10.380947+00:00
+ - user: None
+ - tags: ['personal']
+
+## OSnews  -  Exploring the Future of Computing
+ - [https://www.osnews.com](https://www.osnews.com)
+ - date published: 2023-10-25T09:34:29.424722+00:00
+ - user: None
+ - tags: []
+
+## All Projects
+    - OSSRank
+ - [https://ossrank.com](https://ossrank.com)
+ - date published: 2023-10-25T16:27:50.745403+00:00
+ - user: None
+ - tags: []
+
+## Learn How To Play Button Accordion - Lessons in Los Angeles, CA
+ - [https://otonolujan.com](https://otonolujan.com)
+ - date published: 2023-12-08T09:38:41.735465+00:00
+ - user: None
+ - tags: ['personal']
+
+## Danny's Blog
+ - [https://blog.otterstack.com](https://blog.otterstack.com)
+ - date published: 2023-10-25T16:27:51.252333+00:00
+ - user: None
+ - tags: []
+
+## AI-Powered Automatic PostgreSQL & MySQL Tuning | OtterTune
+ - [https://ottertune.com](https://ottertune.com)
+ - date published: 2023-10-25T16:27:55.088952+00:00
+ - user: None
+ - tags: []
+
+## Oxford Academic
+ - [https://academic.oup.com](https://academic.oup.com)
+ - date published: 2023-10-25T16:27:59.208559+00:00
+ - user: None
+ - tags: []
+
+## OUPblog | Oxford University Press’s Academic Insights for the World
+ - [https://blog.oup.com](https://blog.oup.com)
+ - date published: 2023-10-25T16:28:04.688791+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Oxford University Press
+ - [https://global.oup.com](https://global.oup.com)
+ - date published: 2023-10-25T16:28:11.875051+00:00
+ - user: None
+ - tags: []
+
+## Oxford Languages | The Home of Language Data
+ - [https://languages.oup.com](https://languages.oup.com)
+ - date published: 2023-12-04T15:57:30.501689+00:00
+ - user: None
+ - tags: []
+
+## OurBigBook.com
+ - [https://ourbigbook.com](https://ourbigbook.com)
+ - date published: 2023-12-02T02:46:08.135245+00:00
+ - user: None
+ - tags: []
+
+## World of Pixels
+ - [https://ourworldofpixels.com](https://ourworldofpixels.com)
+ - date published: 2023-10-25T08:36:48.464142+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://widgets.outbrain.com](https://widgets.outbrain.com)
+ - date published: 2023-12-11T16:36:52.135525+00:00
+ - user: None
+ - tags: []
+
+## Outdoor Status
+ - [https://outdoorstatus.com](https://outdoorstatus.com)
+ - date published: 2023-10-25T16:28:14.906908+00:00
+ - user: None
+ - tags: []
+
+## Outfunnel - Sales & Marketing Workflow Platform
+ - [https://outfunnel.com](https://outfunnel.com)
+ - date published: 2023-10-25T16:28:17.037385+00:00
+ - user: None
+ - tags: []
+
+## OutHorse Your Email
+ - [http://outhorseyouremail.com](http://outhorseyouremail.com)
+ - date published: 2023-10-25T16:28:24.817697+00:00
+ - user: None
+ - tags: []
+
+## OutKick - Fearless Sports Media Company Founded by Clay Travis
+ - [https://www.outkick.com](https://www.outkick.com)
+ - date published: 2023-10-25T10:09:04.240719+00:00
+ - user: None
+ - tags: []
+
+## VELO - Competitive Cycling News, Race Results and Bike Reviews
+ - [https://velo.outsideonline.com](https://velo.outsideonline.com)
+ - date published: 2023-11-02T15:51:17.506295+00:00
+ - user: None
+ - tags: []
+
+## Outside Magazine
+ - [https://www.outsideonline.com](https://www.outsideonline.com)
+ - date published: 2023-10-25T16:28:28.955211+00:00
+ - user: None
+ - tags: []
+
+## Outsider Club | Because You'll Never Be On The Inside
+ - [https://www.outsiderclub.com](https://www.outsiderclub.com)
+ - date published: 2023-10-25T16:28:31.579451+00:00
+ - user: None
+ - tags: []
+
+## OutThere Colorado
+ - [https://www.outtherecolorado.com](https://www.outtherecolorado.com)
+ - date published: 2023-10-25T16:28:37.775032+00:00
+ - user: None
+ - tags: []
+
+## Overcoming Bias | Robin Hanson | Substack
+ - [https://www.overcomingbias.com](https://www.overcomingbias.com)
+ - date published: 2023-10-25T09:40:33.681379+00:00
+ - user: None
+ - tags: ['substack']
+
+## Search and borrow from OverDrive's huge catalogue of eBooks, audiobooks and videos
+ - [https://www.overdrive.com](https://www.overdrive.com)
+ - date published: 2024-01-04T01:25:31.640053+00:00
+ - user: None
+ - tags: ['ebooks', 'audiobooks', 'digital library']
+
+## overexact.com
+ - [https://overexact.com](https://overexact.com)
+ - date published: 2023-10-25T16:28:44.079753+00:00
+ - user: None
+ - tags: []
+
+## OversightBoard
+ - [https://www.oversightboard.com](https://www.oversightboard.com)
+ - date published: 2023-11-28T20:53:29+00:00
+ - user: rumpel
+ - tags: ['misinformation', 'ministry of truth', 'disinformation']
+
+## Overthinking Money - Personal finance, entrepreneurship, and economics
+ - [https://overthinkingmoney.com](https://overthinkingmoney.com)
+ - date published: 2023-11-21T19:10:01.479781+00:00
+ - user: None
+ - tags: []
+
 ## Become an Overwolf Alpha
  - [https://alphas.overwolf.com](https://alphas.overwolf.com)
  - date published: 2023-12-13T15:56:50.081121+00:00
@@ -94,6 +317,12 @@
  - user: None
  - tags: ['personal']
 
+## Hi, I'm Janis Ozolins.
+ - [https://ozolinsjanis.com](https://ozolinsjanis.com)
+ - date published: 2024-01-05T01:03:25.780064+00:00
+ - user: None
+ - tags: []
+
 ## Home - Oz Rhodes
  - [https://www.ozrhodes.com](https://www.ozrhodes.com)
  - date published: 2023-12-20T00:59:19.143915+00:00
@@ -181,6 +410,12 @@
 ## Home of the Pathfinder and Starfinder RPGs. The Golem’s Got It! | Paizo
  - [https://paizo.com](https://paizo.com)
  - date published: 2023-10-25T16:29:51.558859+00:00
+ - user: None
+ - tags: []
+
+## Pajhwok Afghan News – Reflecting the Truth
+ - [https://pajhwok.com](https://pajhwok.com)
+ - date published: 2024-01-05T23:11:30.570756+00:00
  - user: None
  - tags: []
 
@@ -3141,6 +3376,12 @@
  - user: None
  - tags: []
 
+## Rachel Zampino | Website Wizard - Rachel Zampino
+ - [https://rachelzampino.com](https://rachelzampino.com)
+ - date published: 2024-01-05T10:37:26.530384+00:00
+ - user: None
+ - tags: []
+
 ## Home | Rach Smith's digital garden
  - [https://rachsmith.com](https://rachsmith.com)
  - date published: 2023-10-25T16:44:23.501026+00:00
@@ -4726,6 +4967,12 @@ More!
  - user: None
  - tags: []
 
+## Rob Esposito
+ - [https://robesposito.com](https://robesposito.com)
+ - date published: 2024-01-05T21:36:20.934744+00:00
+ - user: None
+ - tags: []
+
 ## Redirecting…
  - [https://robhaisfield.com](https://robhaisfield.com)
  - date published: 2023-10-25T16:52:48.799236+00:00
@@ -4854,9 +5101,9 @@ More!
 
 ## Rock Paper Shotgun
  - [https://www.rockpapershotgun.com](https://www.rockpapershotgun.com)
- - date published: 2023-10-25T10:50:04.819629+00:00
- - user: None
- - tags: []
+ - date published: 2023-10-25T10:50:04+00:00
+ - user: rumpel
+ - tags: ['video game news']
 
 ## Rockstar Games
  - [https://www.rockstargames.com](https://www.rockstargames.com)
@@ -4905,6 +5152,12 @@ More!
  - date published: 2023-10-25T08:47:49.289045+00:00
  - user: None
  - tags: ['personal']
+
+## Rogan Murley
+ - [https://roganmurley.com](https://roganmurley.com)
+ - date published: 2024-01-05T15:17:03.373517+00:00
+ - user: None
+ - tags: []
 
 ## Movie reviews and ratings by Film Critic Roger Ebert | Roger Ebert
  - [https://www.rogerebert.com](https://www.rogerebert.com)
@@ -5757,256 +6010,4 @@ More!
  - date published: 2023-11-29T15:49:55.017096+00:00
  - user: None
  - tags: ['personal']
-
-## Sanspoint.
- - [https://www.sanspoint.com](https://www.sanspoint.com)
- - date published: 2023-12-02T13:41:14.987837+00:00
- - user: None
- - tags: ['personal']
-
-## Santa Cruz Sentinel
- - [https://www.santacruzsentinel.com](https://www.santacruzsentinel.com)
- - date published: 2023-11-28T06:01:12.404466+00:00
- - user: None
- - tags: []
-
-## Santi Younger
- - [https://santiyounger.com](https://santiyounger.com)
- - date published: 2023-12-17T16:42:23.109435+00:00
- - user: None
- - tags: ['personal']
-
-## SapkowskiBooks.com - Discover & Buy The Witcher books from Sapkowski
- - [https://sapkowskibooks.com](https://sapkowskibooks.com)
- - date published: 2023-11-13T12:57:51.679449+00:00
- - user: None
- - tags: []
-
-## home | sara hendren
- - [https://sarahendren.com](https://sarahendren.com)
- - date published: 2023-12-27T09:29:11.156250+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://sarahguo.com](https://sarahguo.com)
- - date published: 2023-10-25T16:57:33.115906+00:00
- - user: None
- - tags: []
-
-## - SarahMcCulloch.com | With Strength and Spirit
- - [http://www.sarahmcculloch.com](http://www.sarahmcculloch.com)
- - date published: 2023-12-24T08:15:55.915305+00:00
- - user: None
- - tags: ['personal']
-
-## sara kingsley – YA :: FANTASY :: ROMANCE
- - [https://www.sarakingsley.com](https://www.sarakingsley.com)
- - date published: 2023-12-20T19:14:46.733459+00:00
- - user: None
- - tags: ['personal']
-
-## Saransh Grover
- - [https://saranshgrover.com](https://saranshgrover.com)
- - date published: 2023-11-29T14:19:34.236833+00:00
- - user: None
- - tags: ['personal']
-
-## Portfolio | Sara Wade
- - [https://www.sarawade.com](https://www.sarawade.com)
- - date published: 2023-12-27T01:09:39.156134+00:00
- - user: None
- - tags: ['personal']
-
-## Sarim Khalid - Welcome To My World.
- - [https://www.sarimkhalidworld.com](https://www.sarimkhalidworld.com)
- - date published: 2023-11-29T17:07:38.802229+00:00
- - user: None
- - tags: ['personal']
-
-## None
- - [https://ced.sascdn.com](https://ced.sascdn.com)
- - date published: 2023-12-11T16:36:45.369110+00:00
- - user: None
- - tags: []
-
-## Sascha Sprikut - Sascha Sprikut
- - [https://sascha-sprikut.com](https://sascha-sprikut.com)
- - date published: 2023-12-27T10:09:41.626888+00:00
- - user: None
- - tags: ['personal']
-
-## The Saturday Evening Post | Home of The Saturday Evening Post
- - [https://www.saturdayeveningpost.com](https://www.saturdayeveningpost.com)
- - date published: 2023-10-25T16:57:40.189446+00:00
- - user: None
- - tags: []
-
-## Saul Costa – Medium
- - [https://saulcosta.com](https://saulcosta.com)
- - date published: 2023-10-25T16:57:43.958378+00:00
- - user: None
- - tags: []
-
-## Savage Chickens - Cartoons on Sticky Notes by Doug Savage
- - [https://www.savagechickens.com](https://www.savagechickens.com)
- - date published: 2023-10-25T16:57:50.887747+00:00
- - user: None
- - tags: []
-
-## sbensu
- - [https://blog.sbensu.com](https://blog.sbensu.com)
- - date published: 2023-10-25T16:57:52.408325+00:00
- - user: None
- - tags: []
-
-## SBF goes to prison – Is SBF going to prison?
- - [https://sbfgoestoprison.com](https://sbfgoestoprison.com)
- - date published: 2023-10-25T16:57:55.553085+00:00
- - user: None
- - tags: []
-
-## SBNation.com | Sports news, video, live coverage, community
- - [https://www.sbnation.com](https://www.sbnation.com)
- - date published: 2023-10-25T16:58:10.437360+00:00
- - user: None
- - tags: []
-
-## The Statesman – Informing Stony Brook University For More Than 60 Years – The Statesman
- - [https://www.sbstatesman.com](https://www.sbstatesman.com)
- - date published: 2023-10-25T16:58:13.749647+00:00
- - user: None
- - tags: []
-
-## SC2Mapster Wiki
- - [https://wiki.sc2mapster.com](https://wiki.sc2mapster.com)
- - date published: 2023-12-13T16:02:20.408615+00:00
- - user: None
- - tags: []
-
-## SC2Mapster
- - [https://www.sc2mapster.com](https://www.sc2mapster.com)
- - date published: 2023-10-29T10:39:10.600746+00:00
- - user: None
- - tags: ['starcraft', 'warcraft']
-
-## Accelerate the Development of AI Applications | Scale AI
- - [https://scale.com](https://scale.com)
- - date published: 2023-10-25T16:58:17.398784+00:00
- - user: None
- - tags: []
-
-## Whatever | FURIOUSLY REASONABLE
- - [https://whatever.scalzi.com](https://whatever.scalzi.com)
- - date published: 2023-10-25T16:58:26.532841+00:00
- - user: None
- - tags: []
-
-## Scandinavian MIND
- - [https://scandinavianmind.com](https://scandinavianmind.com)
- - date published: 2023-10-25T16:58:30.296776+00:00
- - user: None
- - tags: []
-
-## Scan of the Month—you've never seen anything like this.
- - [https://www.scanofthemonth.com](https://www.scanofthemonth.com)
- - date published: 2023-10-25T16:58:31.237252+00:00
- - user: None
- - tags: []
-
-## https://www.scarletink.com
- - [https://www.scarletink.com](https://www.scarletink.com)
- - date published: 2023-12-07T08:41:07.140775+00:00
- - user: None
- - tags: []
-
-## Scary Pockets
- - [https://www.scarypocketsfunk.com](https://www.scarypocketsfunk.com)
- - date published: 2023-10-30T13:30:50.613174+00:00
- - user: None
- - tags: ['music band']
-
-## #1 GPS Car Tracking Kenya from 4,500/- | Scepture Empire
- - [https://scepturempire.com](https://scepturempire.com)
- - date published: 2023-12-12T04:53:34.071795+00:00
- - user: None
- - tags: ['personal']
-
-## Sched CDN
- - [https://static.sched.com](https://static.sched.com)
- - date published: 2023-10-25T16:58:32.047651+00:00
- - user: None
- - tags: []
-
-## Schemescape
- - [https://log.schemescape.com](https://log.schemescape.com)
- - date published: 2023-10-25T16:58:33.610205+00:00
- - user: None
- - tags: []
-
-## Europe Travel Entry and Visa Requirements
- - [https://www.schengenvisainfo.com](https://www.schengenvisainfo.com)
- - date published: 2024-01-03T21:32:38.569064+00:00
- - user: None
- - tags: []
-
-## schmatzberger.com – Die Website von Günter Schmatzberger
- - [https://www.schmatzberger.com](https://www.schmatzberger.com)
- - date published: 2023-12-03T09:19:10.285708+00:00
- - user: None
- - tags: ['personal']
-
-## Homepage - Schmidt Futures
- - [https://www.schmidtfutures.com](https://www.schmidtfutures.com)
- - date published: 2023-10-25T16:58:36.285547+00:00
- - user: None
- - tags: []
-
-## Schneier on Security
- - [https://www.schneier.com](https://www.schneier.com)
- - date published: 2023-10-25T09:35:13.644701+00:00
- - user: None
- - tags: []
-
-## Recursive Recipes | Make food from scratch
- - [https://recursiverecipes.schollz.com](https://recursiverecipes.schollz.com)
- - date published: 2023-10-25T16:58:38.084916+00:00
- - user: None
- - tags: []
-
-## schollz
- - [https://schollz.com](https://schollz.com)
- - date published: 2023-10-25T16:58:39.985655+00:00
- - user: None
- - tags: []
-
-## schoolofworklife.com - Resources To Help You Self Direct Your WorkLife Learning
- - [https://schoolofworklife.com](https://schoolofworklife.com)
- - date published: 2023-12-29T19:00:29.094459+00:00
- - user: None
- - tags: ['personal']
-
-## Charles Schwab | A Modern Approach to Investing and Retirement Planning
- - [https://www.schwab.com](https://www.schwab.com)
- - date published: 2023-10-25T16:58:46.215643+00:00
- - user: None
- - tags: []
-
-## http://science.com
- - [http://science.com](http://science.com)
- - date published: 2023-11-25T05:34:43.281781+00:00
- - user: None
- - tags: []
-
-## ScienceAlert : The Best in Science News And Amazing Breakthroughs
- - [https://www.sciencealert.com](https://www.sciencealert.com)
- - date published: 2023-10-25T16:58:48.223977+00:00
- - user: None
- - tags: []
-
-## SAND
- - [https://www.scienceandnonduality.com](https://www.scienceandnonduality.com)
- - date published: 2023-10-25T16:58:52.745129+00:00
- - user: None
- - tags: []
 

@@ -1,3 +1,105 @@
+## CrimethInc. ex-Workers’ Collective: Your ticket to a world free of charge
+ - [https://crimethinc.com](https://crimethinc.com)
+ - date published: 2023-11-01T08:41:53.567673+00:00
+ - user: None
+ - tags: []
+
+## I, Cringely
+ - [https://www.cringely.com](https://www.cringely.com)
+ - date published: 2023-10-25T13:36:47.106347+00:00
+ - user: None
+ - tags: []
+
+## Notes on the Crises
+ - [https://www.crisesnotes.com](https://www.crisesnotes.com)
+ - date published: 2023-11-07T19:56:40.157638+00:00
+ - user: None
+ - tags: []
+
+## Cristine Chen
+ - [https://cristinechen.com](https://cristinechen.com)
+ - date published: 2023-12-08T08:32:11.970323+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Criterion Collection
+ - [https://www.criterion.com](https://www.criterion.com)
+ - date published: 2023-10-25T13:36:50.135480+00:00
+ - user: None
+ - tags: []
+
+## Home | Charlie Marsh
+ - [https://notes.crmarsh.com](https://notes.crmarsh.com)
+ - date published: 2023-10-25T13:36:54.436746+00:00
+ - user: None
+ - tags: []
+
+## CrociDBlog - A blog about programming, gamedev, hacking projects, creative code, photography and my thoughts. Written by Bruno Croci.
+ - [https://crocidb.com](https://crocidb.com)
+ - date published: 2023-10-25T13:36:56.108747+00:00
+ - user: None
+ - tags: []
+
+## crockford.com
+ - [https://www.crockford.com](https://www.crockford.com)
+ - date published: 2023-12-31T13:20:44.916201+00:00
+ - user: None
+ - tags: []
+
+## Bob Cromwell on Linux, Cybersecurity, Travel, and More
+ - [https://cromwell-intl.com](https://cromwell-intl.com)
+ - date published: 2023-10-25T13:36:59.002500+00:00
+ - user: None
+ - tags: []
+
+## Crosscut | Washington state & Seattle News
+ - [https://crosscut.com](https://crosscut.com)
+ - date published: 2023-11-09T07:35:36.311494+00:00
+ - user: None
+ - tags: ['news']
+
+## Crossword Unclued
+ - [https://www.crosswordunclued.com](https://www.crosswordunclued.com)
+ - date published: 2023-10-25T13:37:03.732224+00:00
+ - user: None
+ - tags: []
+
+## Crowd Supply - For the Greater Goods
+ - [https://www.crowdsupply.com](https://www.crowdsupply.com)
+ - date published: 2023-10-25T13:37:08.444119+00:00
+ - user: None
+ - tags: ['crowdfunding']
+
+## crul
+ - [https://www.crul.com](https://www.crul.com)
+ - date published: 2023-10-25T13:37:14.796515+00:00
+ - user: None
+ - tags: []
+
+## Swear not by the wiki, the fickle wiki, the inconstant wiki
+ - [https://www.crummy.com](https://www.crummy.com)
+ - date published: 2023-10-25T13:37:19.379716+00:00
+ - user: None
+ - tags: []
+
+## crumplab
+ - [https://crumplab.com](https://crumplab.com)
+ - date published: 2023-10-25T13:37:21.726921+00:00
+ - user: None
+ - tags: []
+
+## Crunchbase News: Data-driven reporting on private markets, startups, founders, and investors
+ - [https://news.crunchbase.com](https://news.crunchbase.com)
+ - date published: 2023-10-25T13:37:26.877787+00:00
+ - user: None
+ - tags: []
+
+## Crunchy Data: Postgres for Cloud, Kubernetes, or Enterprise
+ - [https://www.crunchydata.com](https://www.crunchydata.com)
+ - date published: 2023-10-25T08:30:20.731363+00:00
+ - user: None
+ - tags: []
+
 ## https://www.crunchyroll.com
  - [https://www.crunchyroll.com](https://www.crunchyroll.com)
  - date published: 2023-10-25T13:11:56.653719+00:00
@@ -590,6 +692,12 @@
 ## Damn Interesting • Obscure true stories from science & history
  - [https://www.damninteresting.com](https://www.damninteresting.com)
  - date published: 2023-10-25T13:42:23.621997+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.danamania.com](https://www.danamania.com)
+ - date published: 2024-01-05T04:46:29.387891+00:00
  - user: None
  - tags: []
 
@@ -1613,9 +1721,21 @@
  - user: None
  - tags: []
 
+## Show HN: Possibly the most comprehensive design system collection
+ - [https://www.designsystemhunt.com](https://www.designsystemhunt.com)
+ - date published: 2024-01-05T03:23:31+00:00
+ - user: None
+ - tags: []
+
 ## Design You Trust
  - [https://designyoutrust.com](https://designyoutrust.com)
  - date published: 2023-10-25T13:50:22.315830+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.desmoinesregister.com](https://www.desmoinesregister.com)
+ - date published: 2024-01-05T01:39:55.710157+00:00
  - user: None
  - tags: []
 
@@ -1760,6 +1880,12 @@
 ## Dezeen | architecture and design magazine
  - [https://www.dezeen.com](https://www.dezeen.com)
  - date published: 2023-10-25T13:51:22.239944+00:00
+ - user: None
+ - tags: []
+
+## Dejan Gajsek – Content Marketing and Growth Studies
+ - [https://www.dgajsek.com](https://www.dgajsek.com)
+ - date published: 2024-01-05T10:27:37.786318+00:00
  - user: None
  - tags: []
 
@@ -3081,6 +3207,12 @@
 ## Tech Blog - eBay Inc.
  - [https://tech.ebayinc.com](https://tech.ebayinc.com)
  - date published: 2023-10-25T14:02:57.410323+00:00
+ - user: None
+ - tags: []
+
+## Make Money Online, Build Your Online Business - eBiz Facts
+ - [https://ebizfacts.com](https://ebizfacts.com)
+ - date published: 2024-01-05T16:53:05.875671+00:00
  - user: None
  - tags: []
 
@@ -5298,6 +5430,12 @@
  - user: None
  - tags: ['personal']
 
+## https://feertech.com
+ - [https://feertech.com](https://feertech.com)
+ - date published: 2024-01-05T15:16:55.318676+00:00
+ - user: None
+ - tags: []
+
 ## Brad Feld
  - [https://feld.com](https://feld.com)
  - date published: 2023-10-25T14:28:55.922376+00:00
@@ -5664,6 +5802,12 @@
  - user: None
  - tags: ['miniatures', 'tabletop games']
 
+## Flappers And Fiction
+ - [https://flappersandfiction.com](https://flappersandfiction.com)
+ - date published: 2024-01-05T10:23:36.798469+00:00
+ - user: None
+ - tags: []
+
 ## Flappy Birdle - Flappy Bird meets Wordle by AE Studio
  - [https://flappybirdle.com](https://flappybirdle.com)
  - date published: 2023-10-25T14:32:37.111728+00:00
@@ -5853,150 +5997,6 @@
 ## https://www.flyertalk.com
  - [https://www.flyertalk.com](https://www.flyertalk.com)
  - date published: 2023-10-25T14:33:51.873317+00:00
- - user: None
- - tags: []
-
-## Aviation, Airplanes, News & Training | Flying
- - [https://www.flyingmag.com](https://www.flyingmag.com)
- - date published: 2023-10-25T11:49:16.977687+00:00
- - user: None
- - tags: []
-
-## 에펨코리아 - 유머, 축구, 아프리카TV, 게임, 풋볼매니저, 에펨, 펨코
- - [https://m.fmkorea.com](https://m.fmkorea.com)
- - date published: 2023-11-19T14:19:27.294240+00:00
- - user: None
- - tags: []
-
-## Financial and Business News | Financial News London
- - [https://www.fnlondon.com](https://www.fnlondon.com)
- - date published: 2023-10-25T14:33:54.885690+00:00
- - user: None
- - tags: []
-
-## Faith No More
- - [https://www.fnm.com](https://www.fnm.com)
- - date published: 2023-11-13T09:54:42.494534+00:00
- - user: None
- - tags: ['music band']
-
-## Fntastic announces shutdown four days after releasing "The Day Before"
- - [https://www.fntastic.com](https://www.fntastic.com)
- - date published: 2023-12-11T19:42:02+00:00
- - user: None
- - tags: []
-
-## Daily Citizen - Your Christian News Source
- - [https://dailycitizen.focusonthefamily.com](https://dailycitizen.focusonthefamily.com)
- - date published: 2023-10-25T14:33:58.914108+00:00
- - user: None
- - tags: []
-
-## Focusrite | Audio Interfaces and Pro Audio Equipment
- - [https://focusrite.com](https://focusrite.com)
- - date published: 2023-10-30T18:33:00.064219+00:00
- - user: None
- - tags: ['audio equipment', 'scarlett']
-
-## - Justin Foeppel
- - [https://foeppel.com](https://foeppel.com)
- - date published: 2024-01-02T18:30:14.463579+00:00
- - user: None
- - tags: []
-
-## Fogknife
- - [https://fogknife.com](https://fogknife.com)
- - date published: 2023-11-23T14:34:27.407822+00:00
- - user: None
- - tags: ['personal']
-
-## Fold 'N Fly » Paper Airplane Folding Instructions
- - [https://www.foldnfly.com](https://www.foldnfly.com)
- - date published: 2023-10-25T14:34:03.044577+00:00
- - user: None
- - tags: []
-
-## Foldscope Paper Microscopes | Portable Microscopes
- - [https://foldscope.com](https://foldscope.com)
- - date published: 2023-10-25T14:34:05.409908+00:00
- - user: None
- - tags: []
-
-## Beautifully Illustrated Hardcover Books | Folio Society
- - [https://www.foliosociety.com](https://www.foliosociety.com)
- - date published: 2023-10-25T14:34:08.541366+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://blog.fontawesome.com](https://blog.fontawesome.com)
- - date published: 2023-10-25T14:34:10.547469+00:00
- - user: None
- - tags: []
-
-## Font Awesome
- - [https://fontawesome.com](https://fontawesome.com)
- - date published: 2023-12-11T17:52:44.493826+00:00
- - user: None
- - tags: []
-
-## FontsArena — Free fonts, free alternatives, done-for-you-research articles. Ads-free open startup.
- - [https://fontsarena.com](https://fontsarena.com)
- - date published: 2023-10-25T14:34:13.414676+00:00
- - user: None
- - tags: []
-
-## Fonts In Use – Type at work in the real world.
- - [https://fontsinuse.com](https://fontsinuse.com)
- - date published: 2023-10-25T14:34:23.136028+00:00
- - user: None
- - tags: []
-
-## Fonts Plugin | Google Fonts for WordPress
- - [https://fontsplugin.com](https://fontsplugin.com)
- - date published: 2023-10-25T14:34:24.794642+00:00
- - user: None
- - tags: []
-
-## Food & Wine: Rigorously tested recipes and trusted culinary content
- - [https://www.foodandwine.com](https://www.foodandwine.com)
- - date published: 2023-12-06T04:46:22.768336+00:00
- - user: None
- - tags: []
-
-## FoodBev Media
- - [https://www.foodbev.com](https://www.foodbev.com)
- - date published: 2023-11-06T23:21:46.548226+00:00
- - user: None
- - tags: []
-
-## https://www.foodlogistics.com
- - [https://www.foodlogistics.com](https://www.foodlogistics.com)
- - date published: 2023-11-06T12:50:59.714989+00:00
- - user: None
- - tags: []
-
-## Food Ingredients & Food Science - Additives, Flavours, Starch
- - [https://www.foodnavigator.com](https://www.foodnavigator.com)
- - date published: 2023-10-25T14:34:28.393944+00:00
- - user: None
- - tags: []
-
-## Delicious Healthy Snack Food | Food to Live
- - [https://foodtolive.com](https://foodtolive.com)
- - date published: 2023-10-25T15:10:04.963182+00:00
- - user: None
- - tags: []
-
-## Forbes
- - [https://www.forbes.com](https://www.forbes.com)
- - date published: 2023-10-25T10:26:08.645541+00:00
- - user: None
- - tags: []
-
-## Forbes Africa
- - [https://www.forbesafrica.com](https://www.forbesafrica.com)
- - date published: 2023-10-25T10:26:21.517830+00:00
  - user: None
  - tags: []
 

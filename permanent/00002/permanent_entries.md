@@ -1,3 +1,63 @@
+## Simplify Your Life
+ - [https://bemorewithless.com](https://bemorewithless.com)
+ - date published: 2023-12-29T20:11:42.020820+00:00
+ - user: None
+ - tags: ['personal']
+
+## Be My Eyes - See the world together
+ - [https://www.bemyeyes.com](https://www.bemyeyes.com)
+ - date published: 2023-10-25T12:56:56.367181+00:00
+ - user: None
+ - tags: []
+
+## Benedict Evans
+ - [https://www.ben-evans.com](https://www.ben-evans.com)
+ - date published: 2023-12-12T08:35:22.223621+00:00
+ - user: None
+ - tags: []
+
+## Benard Makaa | Electrical Engineer, Writer, Lecturer, Programmer
+ - [https://www.benardmakaa.com](https://www.benardmakaa.com)
+ - date published: 2024-01-05T01:04:54.810679+00:00
+ - user: None
+ - tags: []
+
+## Ben Burwell
+ - [https://www.benburwell.com](https://www.benburwell.com)
+ - date published: 2023-11-01T08:41:33.680868+00:00
+ - user: None
+ - tags: []
+
+## Ben Detalle
+ - [https://bendetalle.com](https://bendetalle.com)
+ - date published: 2023-11-29T14:23:21.989583+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ben Hoyt
+ - [https://benhoyt.com](https://benhoyt.com)
+ - date published: 2023-10-25T08:45:03.337226+00:00
+ - user: None
+ - tags: ['personal']
+
+## Benjamin Boman
+ - [https://benjaminboman.com](https://benjaminboman.com)
+ - date published: 2023-11-29T16:22:12.763525+00:00
+ - user: None
+ - tags: ['personal']
+
+## Insider Songwriting Secrets | Music Publishing Tips | Artistic Marketing - Benjamin Groff
+ - [https://www.benjamingroff.com](https://www.benjamingroff.com)
+ - date published: 2023-10-25T12:57:11.627046+00:00
+ - user: None
+ - tags: []
+
+## Compass Rose | The territory is a map of the map.
+ - [http://benjaminrosshoffman.com](http://benjaminrosshoffman.com)
+ - date published: 2023-10-25T12:57:15.976304+00:00
+ - user: None
+ - tags: []
+
 ## Ben Joffe
  - [https://benjoffe.com](https://benjoffe.com)
  - date published: 2023-10-25T09:05:18.406692+00:00
@@ -2950,6 +3010,12 @@
  - user: None
  - tags: ['personal']
 
+## Home
+ - [https://camillamia.com](https://camillamia.com)
+ - date published: 2024-01-05T10:37:52.955092+00:00
+ - user: None
+ - tags: []
+
 ## Inicio
  - [https://www.camiloluna.com](https://www.camiloluna.com)
  - date published: 2023-12-19T10:00:30.216832+00:00
@@ -2973,6 +3039,12 @@
  - date published: 2023-10-25T09:19:34.667288+00:00
  - user: None
  - tags: ['personal']
+
+## Candorium | BreakingBusinessNews
+ - [https://candorium.com](https://candorium.com)
+ - date published: 2024-01-05T00:49:43.313552+00:00
+ - user: None
+ - tags: []
 
 ## The National Confectioners Association - NCA
  - [https://candyusa.com](https://candyusa.com)
@@ -3520,6 +3592,12 @@
  - user: None
  - tags: []
 
+## César Lemus
+ - [https://cesarlemus.com](https://cesarlemus.com)
+ - date published: 2024-01-05T16:53:34.024968+00:00
+ - user: None
+ - tags: []
+
 ## CFAO GROUP - With Africa For Africa
  - [https://www.cfaogroup.com](https://www.cfaogroup.com)
  - date published: 2023-12-11T16:09:55.234732+00:00
@@ -3613,6 +3691,12 @@
 ## Welcome to Charles Atlas LTD.
  - [https://www.charlesatlas.com](https://www.charlesatlas.com)
  - date published: 2023-10-25T13:20:30.485142+00:00
+ - user: None
+ - tags: []
+
+## Charles Kunken
+ - [https://www.charleskunken.com](https://www.charleskunken.com)
+ - date published: 2024-01-05T01:04:32.750147+00:00
  - user: None
  - tags: []
 
@@ -3982,6 +4066,12 @@
  - user: None
  - tags: ['personal']
 
+## Chrissy Gillmore
+ - [https://www.chrissygillmore.com](https://www.chrissygillmore.com)
+ - date published: 2024-01-05T21:36:54.303434+00:00
+ - user: None
+ - tags: []
+
 ## Christian News Headlines - Breaking and Trending Religion News
  - [https://www.christianheadlines.com](https://www.christianheadlines.com)
  - date published: 2023-10-25T10:13:08.561605+00:00
@@ -4069,6 +4159,12 @@
 ## Chris Zacharias
  - [https://blog.chriszacharias.com](https://blog.chriszacharias.com)
  - date published: 2023-10-25T13:22:45.023126+00:00
+ - user: None
+ - tags: []
+
+## Chris Zombik | Home
+ - [https://www.chriszombik.com](https://www.chriszombik.com)
+ - date published: 2024-01-05T10:28:39.158434+00:00
  - user: None
  - tags: []
 
@@ -5241,6 +5337,12 @@
  - user: None
  - tags: []
 
+## Telecom News - CommsUpdate :   5 Jan 2024
+ - [https://www.commsupdate.com](https://www.commsupdate.com)
+ - date published: 2024-01-05T20:54:36.121943+00:00
+ - user: None
+ - tags: []
+
 ## Compact Mag
  - [https://compactmag.com](https://compactmag.com)
  - date published: 2023-10-25T13:32:08.062307+00:00
@@ -5904,108 +6006,6 @@
 ## CrimeReads
  - [https://crimereads.com](https://crimereads.com)
  - date published: 2023-11-07T14:07:13.850793+00:00
- - user: None
- - tags: []
-
-## CrimethInc. ex-Workers’ Collective: Your ticket to a world free of charge
- - [https://crimethinc.com](https://crimethinc.com)
- - date published: 2023-11-01T08:41:53.567673+00:00
- - user: None
- - tags: []
-
-## I, Cringely
- - [https://www.cringely.com](https://www.cringely.com)
- - date published: 2023-10-25T13:36:47.106347+00:00
- - user: None
- - tags: []
-
-## Notes on the Crises
- - [https://www.crisesnotes.com](https://www.crisesnotes.com)
- - date published: 2023-11-07T19:56:40.157638+00:00
- - user: None
- - tags: []
-
-## Cristine Chen
- - [https://cristinechen.com](https://cristinechen.com)
- - date published: 2023-12-08T08:32:11.970323+00:00
- - user: None
- - tags: ['personal']
-
-## The Criterion Collection
- - [https://www.criterion.com](https://www.criterion.com)
- - date published: 2023-10-25T13:36:50.135480+00:00
- - user: None
- - tags: []
-
-## Home | Charlie Marsh
- - [https://notes.crmarsh.com](https://notes.crmarsh.com)
- - date published: 2023-10-25T13:36:54.436746+00:00
- - user: None
- - tags: []
-
-## CrociDBlog - A blog about programming, gamedev, hacking projects, creative code, photography and my thoughts. Written by Bruno Croci.
- - [https://crocidb.com](https://crocidb.com)
- - date published: 2023-10-25T13:36:56.108747+00:00
- - user: None
- - tags: []
-
-## crockford.com
- - [https://www.crockford.com](https://www.crockford.com)
- - date published: 2023-12-31T13:20:44.916201+00:00
- - user: None
- - tags: []
-
-## Bob Cromwell on Linux, Cybersecurity, Travel, and More
- - [https://cromwell-intl.com](https://cromwell-intl.com)
- - date published: 2023-10-25T13:36:59.002500+00:00
- - user: None
- - tags: []
-
-## Crosscut | Washington state & Seattle News
- - [https://crosscut.com](https://crosscut.com)
- - date published: 2023-11-09T07:35:36.311494+00:00
- - user: None
- - tags: ['news']
-
-## Crossword Unclued
- - [https://www.crosswordunclued.com](https://www.crosswordunclued.com)
- - date published: 2023-10-25T13:37:03.732224+00:00
- - user: None
- - tags: []
-
-## Crowd Supply - For the Greater Goods
- - [https://www.crowdsupply.com](https://www.crowdsupply.com)
- - date published: 2023-10-25T13:37:08.444119+00:00
- - user: None
- - tags: ['crowdfunding']
-
-## crul
- - [https://www.crul.com](https://www.crul.com)
- - date published: 2023-10-25T13:37:14.796515+00:00
- - user: None
- - tags: []
-
-## Swear not by the wiki, the fickle wiki, the inconstant wiki
- - [https://www.crummy.com](https://www.crummy.com)
- - date published: 2023-10-25T13:37:19.379716+00:00
- - user: None
- - tags: []
-
-## crumplab
- - [https://crumplab.com](https://crumplab.com)
- - date published: 2023-10-25T13:37:21.726921+00:00
- - user: None
- - tags: []
-
-## Crunchbase News: Data-driven reporting on private markets, startups, founders, and investors
- - [https://news.crunchbase.com](https://news.crunchbase.com)
- - date published: 2023-10-25T13:37:26.877787+00:00
- - user: None
- - tags: []
-
-## Crunchy Data: Postgres for Cloud, Kubernetes, or Enterprise
- - [https://www.crunchydata.com](https://www.crunchydata.com)
- - date published: 2023-10-25T08:30:20.731363+00:00
  - user: None
  - tags: []
 
