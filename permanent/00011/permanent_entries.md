@@ -1,3 +1,304 @@
+## Hello, I'm Cendyne
+ - [https://cendyne.dev](https://cendyne.dev)
+ - date published: 2023-10-25T18:36:04.595071+00:00
+ - user: None
+ - tags: []
+
+## Census Engineering
+ - [https://census.dev](https://census.dev)
+ - date published: 2023-10-25T18:36:08.128182+00:00
+ - user: None
+ - tags: []
+
+## chadxz.dev
+ - [https://chadxz.dev](https://chadxz.dev)
+ - date published: 2023-10-25T18:36:14.744551+00:00
+ - user: None
+ - tags: []
+
+## Chainguard: Fortified Software Delivery
+ - [https://www.chainguard.dev](https://www.chainguard.dev)
+ - date published: 2023-10-25T18:36:16.306141+00:00
+ - user: None
+ - tags: []
+
+## Chaos Engineering | Francisco Javier Arceo | Substack
+ - [https://www.chaos-engineering.dev](https://www.chaos-engineering.dev)
+ - date published: 2023-10-25T18:36:19.103017+00:00
+ - user: None
+ - tags: []
+
+## Chris Nicholas | Developer experience at Liveblocks
+ - [https://chrisnicholas.dev](https://chrisnicholas.dev)
+ - date published: 2024-01-02T15:32:22.185407+00:00
+ - user: None
+ - tags: []
+
+## @chrlschn - Charles Chen
+ - [https://chrlschn.dev](https://chrlschn.dev)
+ - date published: 2023-10-25T18:36:20.354962+00:00
+ - user: None
+ - tags: []
+
+## cichocinski.dev
+ - [https://cichocinski.dev](https://cichocinski.dev)
+ - date published: 2023-10-25T18:36:21.479652+00:00
+ - user: None
+ - tags: []
+
+## Home - Caught in the Web
+ - [https://citw.dev](https://citw.dev)
+ - date published: 2023-10-25T18:36:22.127721+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Civet
+ - [https://civet.dev](https://civet.dev)
+ - date published: 2023-10-25T18:36:23.882958+00:00
+ - user: None
+ - tags: []
+
+## clairefro
+ - [https://clairefro.dev](https://clairefro.dev)
+ - date published: 2023-10-25T18:36:25.009918+00:00
+ - user: None
+ - tags: []
+
+## Cobalt
+ - [https://cobalt.dev](https://cobalt.dev)
+ - date published: 2023-10-25T18:36:32.246177+00:00
+ - user: None
+ - tags: []
+
+## AI-Powered Coding Tutorials | Codeamigo
+ - [https://codeamigo.dev](https://codeamigo.dev)
+ - date published: 2023-10-25T18:36:35.073084+00:00
+ - user: None
+ - tags: []
+
+## CodeLink
+ - [https://codelink.dev](https://codelink.dev)
+ - date published: 2023-10-25T18:36:35.450021+00:00
+ - user: None
+ - tags: []
+
+## Cohan Robinson
+ - [https://cohan.dev](https://cohan.dev)
+ - date published: 2023-11-17T12:48:41+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## Embeddable Common-Lisp
+ - [https://ecl.common-lisp.dev](https://ecl.common-lisp.dev)
+ - date published: 2023-10-25T18:36:36.899923+00:00
+ - user: None
+ - tags: []
+
+## Second Draft (in-progress) · Learn Lisp The Hard Way
+ - [https://llthw.common-lisp.dev](https://llthw.common-lisp.dev)
+ - date published: 2023-10-25T18:36:39.180021+00:00
+ - user: None
+ - tags: []
+
+## Confused bit
+ - [https://confusedbit.dev](https://confusedbit.dev)
+ - date published: 2023-10-25T18:36:44.738942+00:00
+ - user: None
+ - tags: []
+
+## Development containers
+ - [https://containers.dev](https://containers.dev)
+ - date published: 2023-10-25T18:36:46.250992+00:00
+ - user: None
+ - tags: []
+
+## Continue
+ - [https://continue.dev](https://continue.dev)
+ - date published: 2023-10-25T18:36:47.728031+00:00
+ - user: None
+ - tags: []
+
+## Stack: A collection of good ideas for developers building with Convex.
+ - [https://stack.convex.dev](https://stack.convex.dev)
+ - date published: 2023-10-25T18:36:52.175996+00:00
+ - user: None
+ - tags: []
+
+## Core Dumped
+ - [https://coredumped.dev](https://coredumped.dev)
+ - date published: 2023-10-25T18:36:55.902823+00:00
+ - user: None
+ - tags: []
+
+## Corrode Rust Consulting
+ - [https://corrode.dev](https://corrode.dev)
+ - date published: 2023-10-25T08:58:25.029322+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cory Dransfeldt
+ - [https://coryd.dev](https://coryd.dev)
+ - date published: 2023-10-25T18:37:02.718460+00:00
+ - user: None
+ - tags: []
+
+## Counter: Simple Web Analytics
+ - [https://counter.dev](https://counter.dev)
+ - date published: 2023-10-25T18:37:03.893973+00:00
+ - user: None
+ - tags: []
+
+## Christian Fei's Blog - cri.dev
+ - [https://cri.dev](https://cri.dev)
+ - date published: 2023-10-25T08:58:26.480635+00:00
+ - user: None
+ - tags: ['personal']
+
+## CubeSigner, a refreshingly secure key manager
+ - [https://cubist.dev](https://cubist.dev)
+ - date published: 2023-11-02T07:07:07+00:00
+ - user: None
+ - tags: []
+
+## Home | Cubxity — Full-stack Developer
+ - [https://cubxity.dev](https://cubxity.dev)
+ - date published: 2023-10-25T18:37:05.670677+00:00
+ - user: None
+ - tags: []
+
+## Cypress and Playwright Dashboard. Debug, deflake and analyse CI tests in Cloud.
+ - [https://currents.dev](https://currents.dev)
+ - date published: 2023-10-25T18:37:07.754644+00:00
+ - user: None
+ - tags: []
+
+## Cyber - Fast and concurrent scripting.
+ - [https://cyberscript.dev](https://cyberscript.dev)
+ - date published: 2023-10-25T18:37:09.369506+00:00
+ - user: None
+ - tags: []
+
+## dbdev | The Database Package Manager
+ - [https://database.dev](https://database.dev)
+ - date published: 2023-10-25T18:37:10.874218+00:00
+ - user: None
+ - tags: []
+
+## ~/.didev
+ - [https://davidisaksson.dev](https://davidisaksson.dev)
+ - date published: 2023-10-25T08:58:27.129547+00:00
+ - user: None
+ - tags: ['personal']
+
+## David Nguyen
+ - [https://davidnguyen.dev](https://davidnguyen.dev)
+ - date published: 2023-12-03T09:19:51.549979+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hi, I'm Den :wave:
+ - [https://den.dev](https://den.dev)
+ - date published: 2023-10-25T08:58:28.132514+00:00
+ - user: None
+ - tags: ['personal']
+
+## Writing | denvaar's Site
+ - [https://denvaar.dev](https://denvaar.dev)
+ - date published: 2023-11-16T09:28:41.834997+00:00
+ - user: None
+ - tags: []
+
+## Depot
+ - [https://depot.dev](https://depot.dev)
+ - date published: 2023-10-25T18:37:13.920387+00:00
+ - user: None
+ - tags: []
+
+## The Developing Dev | Ryan Peterman | Substack
+ - [https://www.developing.dev](https://www.developing.dev)
+ - date published: 2023-10-25T18:37:18.745268+00:00
+ - user: None
+ - tags: []
+
+## DevOps.dev
+ - [https://blog.devops.dev](https://blog.devops.dev)
+ - date published: 2023-10-25T18:37:21.821387+00:00
+ - user: None
+ - tags: []
+
+## Digger.dev
+ - [https://blog.digger.dev](https://blog.digger.dev)
+ - date published: 2024-01-04T16:43:27.471043+00:00
+ - user: None
+ - tags: []
+
+## Disane.dev - Personal tech blog
+ - [https://blog.disane.dev](https://blog.disane.dev)
+ - date published: 2024-01-02T05:20:52.454570+00:00
+ - user: None
+ - tags: []
+
+## djhworld - thoughts
+ - [https://djharper.dev](https://djharper.dev)
+ - date published: 2023-10-25T18:37:23.198428+00:00
+ - user: None
+ - tags: []
+
+## Hristiyan Dodov: Full-Stack Developer at Oblik Studio
+ - [https://dodov.dev](https://dodov.dev)
+ - date published: 2023-10-25T18:37:24.848610+00:00
+ - user: None
+ - tags: []
+
+## Earthly - Make Builds Super Simple
+ - [https://earthly.dev](https://earthly.dev)
+ - date published: 2023-10-25T18:37:27.899029+00:00
+ - user: None
+ - tags: []
+
+## echoserver: A simple echo server for testing HTTP clients.
+ - [https://echoserver.dev](https://echoserver.dev)
+ - date published: 2023-10-25T18:37:29.344617+00:00
+ - user: None
+ - tags: []
+
+## Ecostack —
+        a developer blog
+ - [https://ecostack.dev](https://ecostack.dev)
+ - date published: 2023-10-25T18:37:30.969613+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://emnudge.dev](https://emnudge.dev)
+ - date published: 2023-10-25T18:37:32.803436+00:00
+ - user: None
+ - tags: []
+
+## Emoji Kitchen
+ - [https://emojikitchen.dev](https://emojikitchen.dev)
+ - date published: 2023-10-25T18:37:39.002696+00:00
+ - user: None
+ - tags: []
+
+## Encore — Escape your backend development burdens
+ - [https://encore.dev](https://encore.dev)
+ - date published: 2023-11-23T13:54:15.244923+00:00
+ - user: None
+ - tags: []
+
+## Matthias Endler
+ - [https://endler.dev](https://endler.dev)
+ - date published: 2023-10-25T18:37:40.403164+00:00
+ - user: None
+ - tags: []
+
+## endtimes.dev
+ - [https://endtimes.dev](https://endtimes.dev)
+ - date published: 2023-10-25T18:37:42.008452+00:00
+ - user: None
+ - tags: []
+
 ## Enhance
  - [https://enhance.dev](https://enhance.dev)
  - date published: 2023-10-25T18:37:45.413755+00:00
@@ -163,6 +464,12 @@
 ## Grifel
  - [https://grifel.dev](https://grifel.dev)
  - date published: 2023-10-25T18:38:11.797740+00:00
+ - user: None
+ - tags: []
+
+## Strona główna - semipythonic
+ - [https://gronkiewicz.dev](https://gronkiewicz.dev)
+ - date published: 2024-01-06T22:17:07.896380+00:00
  - user: None
  - tags: []
 
@@ -1581,6 +1888,12 @@
 ## Gustav Westling
  - [https://westling.dev](https://westling.dev)
  - date published: 2023-10-25T18:44:24.486704+00:00
+ - user: None
+ - tags: []
+
+## Boost your Go/Golang skills. One article at a time.
+ - [https://www.willem.dev](https://www.willem.dev)
+ - date published: 2024-01-06T17:32:27.814127+00:00
  - user: None
  - tags: []
 
@@ -3220,6 +3533,12 @@
 ## Home | Santa Fe Institute
  - [https://www.santafe.edu](https://www.santafe.edu)
  - date published: 2023-10-25T18:57:32.428032+00:00
+ - user: None
+ - tags: []
+
+## Scripps Research
+ - [https://www.scripps.edu](https://www.scripps.edu)
+ - date published: 2024-01-06T17:19:10.654645+00:00
  - user: None
  - tags: []
 
@@ -5692,326 +6011,6 @@
 ## Centre Inria d'Université Côte d'Azur | Inria
  - [https://www-sop.inria.fr](https://www-sop.inria.fr)
  - date published: 2023-10-25T19:15:12.301697+00:00
- - user: None
- - tags: []
-
-## Boutique Officielle Raspberry PI- Vente cartes Arduino, gaming et robotique
- - [https://kubii.fr](https://kubii.fr)
- - date published: 2023-12-11T17:25:33.070964+00:00
- - user: None
- - tags: []
-
-## Le Coq de Wall Street – Investissement et Liberté Financière
- - [https://lecoqdewallst.fr](https://lecoqdewallst.fr)
- - date published: 2023-12-21T18:50:33.754796+00:00
- - user: None
- - tags: ['personal']
-
-## Abonnement Le Figaro - Découvrez nos offres
- - [https://abonnement.lefigaro.fr](https://abonnement.lefigaro.fr)
- - date published: 2023-12-18T17:12:57.675595+00:00
- - user: None
- - tags: []
-
-## Publiez vos annonces légales avec Le Figaro au meilleur prix – Annonces légales du Figaro
- - [https://annonces-legales.lefigaro.fr](https://annonces-legales.lefigaro.fr)
- - date published: 2023-12-18T17:10:36.151946+00:00
- - user: None
- - tags: []
-
-## Access Denied
- - [https://api-graphql.lefigaro.fr](https://api-graphql.lefigaro.fr)
- - date published: 2023-12-18T17:11:36.827228+00:00
- - user: None
- - tags: []
-
-## Le Figaro - Sitemap
- - [https://articles.lefigaro.fr](https://articles.lefigaro.fr)
- - date published: 2023-12-18T17:12:16.400645+00:00
- - user: None
- - tags: []
-
-## Le Figaro Vin : le guide vin pour tous - Le Figaro Vin
- - [https://avis-vin.lefigaro.fr](https://avis-vin.lefigaro.fr)
- - date published: 2023-12-18T17:18:03.724522+00:00
- - user: None
- - tags: []
-
-## Le Figaro - Billetterie Spectacles
- - [https://billetterie.lefigaro.fr](https://billetterie.lefigaro.fr)
- - date published: 2023-12-18T17:11:39.808712+00:00
- - user: None
- - tags: []
-
-## Actualité Bourse & Conseils pour Investir - Le Figaro Bourse
- - [https://bourse.lefigaro.fr](https://bourse.lefigaro.fr)
- - date published: 2023-12-18T17:13:06.860206+00:00
- - user: None
- - tags: []
-
-## Le Figaro Store - La boutique officielle du Groupe Figaro
- - [https://boutique.lefigaro.fr](https://boutique.lefigaro.fr)
- - date published: 2023-12-18T17:12:43.650240+00:00
- - user: None
- - tags: []
-
-## Espace Personnel Figaro - Connectez-vous à votre compte client
- - [https://client.lefigaro.fr](https://client.lefigaro.fr)
- - date published: 2023-12-18T17:19:09.607595+00:00
- - user: None
- - tags: []
-
-## Le Figaro : Codes promo 100% valides en Décembre 2023
- - [https://codespromo.lefigaro.fr](https://codespromo.lefigaro.fr)
- - date published: 2023-12-18T17:11:29.520457+00:00
- - user: None
- - tags: []
-
-## Le Figaro.fr - Connexion compte Figaro
- - [https://connect.lefigaro.fr](https://connect.lefigaro.fr)
- - date published: 2023-12-18T17:12:35.047801+00:00
- - user: None
- - tags: []
-
-## Figaro Emploi : Offres d’emploi, Conseils et Actualités, Alertes, CV…
- - [https://emploi.lefigaro.fr](https://emploi.lefigaro.fr)
- - date published: 2023-12-18T17:18:25.289303+00:00
- - user: None
- - tags: []
-
-## Annuaire Entreprises
- - [https://entreprises.lefigaro.fr](https://entreprises.lefigaro.fr)
- - date published: 2023-12-18T17:17:17.974319+00:00
- - user: None
- - tags: []
-
-## Le Figaro Etudiant : Actualité, Conseils pour bien s'orienter
- - [https://etudiant.lefigaro.fr](https://etudiant.lefigaro.fr)
- - date published: 2023-12-18T17:17:40.140406+00:00
- - user: None
- - tags: []
-
-## Citation : les meilleures citations et proverbes célèbres
- - [https://evene.lefigaro.fr](https://evene.lefigaro.fr)
- - date published: 2023-12-18T17:11:08.890309+00:00
- - user: None
- - tags: []
-
-## Le Figaro
- - [https://faq.lefigaro.fr](https://faq.lefigaro.fr)
- - date published: 2023-12-18T17:16:55.779804+00:00
- - user: None
- - tags: []
-
-## Actu golf, résultats complets et classements en direct - Le Figaro Golf
- - [https://golf.lefigaro.fr](https://golf.lefigaro.fr)
- - date published: 2023-12-18T17:11:23.422903+00:00
- - user: None
- - tags: []
-
-## Guides d'achat : Avis et conseils pour bien choisir vos produits
- - [https://guide-achat.lefigaro.fr](https://guide-achat.lefigaro.fr)
- - date published: 2023-12-18T17:18:20.668762+00:00
- - user: None
- - tags: []
-
-## Annonces, Actualités et Conseils Immos
- - [https://immobilier.lefigaro.fr](https://immobilier.lefigaro.fr)
- - date published: 2023-12-18T17:12:11.950614+00:00
- - user: None
- - tags: []
-
-## Les journaux et magazines numériques - Kiosque Figaro
- - [https://kiosque.lefigaro.fr](https://kiosque.lefigaro.fr)
- - date published: 2023-12-18T17:10:58.586113+00:00
- - user: None
- - tags: []
-
-## Actualité juridique, patrimoniale et pratique - Le Particulier
- - [https://leparticulier.lefigaro.fr](https://leparticulier.lefigaro.fr)
- - date published: 2023-12-18T17:11:13.659417+00:00
- - user: None
- - tags: []
-
-## Accueil
- | Les Voyages F.
- - [https://lesvoyagesf.lefigaro.fr](https://lesvoyagesf.lefigaro.fr)
- - date published: 2023-12-18T17:17:44.021653+00:00
- - user: None
- - tags: []
-
-## Mode, Beauté, Recettes, Société, Horoscope, Célébrités
- - [https://madame.lefigaro.fr](https://madame.lefigaro.fr)
- - date published: 2023-12-18T17:11:19.044505+00:00
- - user: None
- - tags: []
-
-## VPN - Réseau Privé Virtuel : Sécurisez Votre Présence en Ligne
- - [https://meilleurs-vpn.lefigaro.fr](https://meilleurs-vpn.lefigaro.fr)
- - date published: 2023-12-18T17:18:30.074139+00:00
- - user: None
- - tags: []
-
-## mentions legales
- - [https://mentions-legales.lefigaro.fr](https://mentions-legales.lefigaro.fr)
- - date published: 2023-12-18T17:13:17.014023+00:00
- - user: None
- - tags: []
-
-## Le Figaro.fr - Connexion compte Figaro
- - [https://myaccount.lefigaro.fr](https://myaccount.lefigaro.fr)
- - date published: 2023-12-18T17:10:53.910492+00:00
- - user: None
- - tags: []
-
-## L'actualité en vidéo sur Figaro Live : politique, éco, international, culture…
- - [https://player-video.lefigaro.fr](https://player-video.lefigaro.fr)
- - date published: 2023-12-18T17:17:22.143286+00:00
- - user: None
- - tags: []
-
-## Le Figaro - Actualité en direct et informations en continu
- - [https://plus.lefigaro.fr](https://plus.lefigaro.fr)
- - date published: 2023-12-18T17:18:48.210533+00:00
- - user: None
- - tags: []
-
-## LeFigaro - Les Podcasts du Figaro
- - [https://podcasts.lefigaro.fr](https://podcasts.lefigaro.fr)
- - date published: 2023-12-18T17:11:52.288692+00:00
- - user: None
- - tags: []
-
-## Propriétés Le Figaro : immobilier de luxe, demeures et villas de charme
- - [https://proprietes.lefigaro.fr](https://proprietes.lefigaro.fr)
- - date published: 2023-12-18T17:16:50.549372+00:00
- - user: None
- - tags: []
-
-## Rechercher un article, une information, une archive — Le Figaro
- - [https://recherche.lefigaro.fr](https://recherche.lefigaro.fr)
- - date published: 2023-12-18T17:12:08.333757+00:00
- - user: None
- - tags: []
-
-## Résultats du bac 2023: Résultats Officiels, Gratuits et par Académie
- - [https://resultats.etudiant.lefigaro.fr](https://resultats.etudiant.lefigaro.fr)
- - date published: 2023-12-18T17:13:02.793883+00:00
- - user: None
- - tags: []
-
-## Le Figaro Santé - Actualité santé - Fiches et conseils médicaux
- - [https://sante.lefigaro.fr](https://sante.lefigaro.fr)
- - date published: 2023-12-18T17:13:11.599702+00:00
- - user: None
- - tags: []
-
-## Programme TV : Tout le Programme Télé des chaînes – TV Magazine.
- - [https://tvmag.lefigaro.fr](https://tvmag.lefigaro.fr)
- - date published: 2023-12-18T17:18:34.682651+00:00
- - user: None
- - tags: []
-
-## L'actualité en vidéo sur Figaro Live : politique, éco, international, culture…
- - [https://video.lefigaro.fr](https://video.lefigaro.fr)
- - date published: 2023-12-18T17:17:31.575272+00:00
- - user: None
- - tags: []
-
-## Le Figaro - Actualité en direct et informations en continu
- - [https://www.lefigaro.fr](https://www.lefigaro.fr)
- - date published: 2023-10-25T19:15:28.361007+00:00
- - user: None
- - tags: ['france news']
-
-## Le Monde.fr - Actualités et Infos en France et dans le monde
- - [https://www.lemonde.fr](https://www.lemonde.fr)
- - date published: 2023-10-25T10:30:38.809449+00:00
- - user: None
- - tags: []
-
-## Julien's DevRel corner
- - [https://lengrand.fr](https://lengrand.fr)
- - date published: 2023-10-25T19:15:29.943632+00:00
- - user: None
- - tags: []
-
-## Le Parpaing
- - [https://leparpaing.fr](https://leparpaing.fr)
- - date published: 2023-12-11T16:19:17.858879+00:00
- - user: None
- - tags: []
-
-## lesenechal.fr
- - [https://lesenechal.fr](https://lesenechal.fr)
- - date published: 2023-10-25T19:15:30.524166+00:00
- - user: None
- - tags: []
-
-## Accueil
- | Les Voyages F.
- - [https://lesvoyagesf.fr](https://lesvoyagesf.fr)
- - date published: 2023-12-18T17:16:37.758839+00:00
- - user: None
- - tags: []
-
-## Loup Vaillant's Home Page
- - [https://loup-vaillant.fr](https://loup-vaillant.fr)
- - date published: 2023-10-25T19:15:31.999364+00:00
- - user: None
- - tags: []
-
-## Louvre Museum Official Website
- - [https://www.louvre.fr](https://www.louvre.fr)
- - date published: 2023-11-13T13:49:23.630733+00:00
- - user: None
- - tags: ['museum']
-
-## None
- - [https://maitre-du-monde.fr](https://maitre-du-monde.fr)
- - date published: 2023-12-30T05:22:02.013987+00:00
- - user: None
- - tags: ['personal']
-
-## La Quadrature du Net - Mastodon - Media Fédéré
- - [https://mamot.fr](https://mamot.fr)
- - date published: 2023-10-25T19:15:32.656881+00:00
- - user: None
- - tags: []
-
-## Spécialiste du voyage sur-mesure ▷ Marco Vasco
- - [https://www.marcovasco.fr](https://www.marcovasco.fr)
- - date published: 2023-12-18T17:11:04.210811+00:00
- - user: None
- - tags: []
-
-## mdk.fr – Julien Palard
- - [https://mdk.fr](https://mdk.fr)
- - date published: 2023-10-25T19:15:33.507337+00:00
- - user: None
- - tags: []
-
-## Actualités Nautisme : l'actualité du nautisme au quotidien avec Figaro Nautisme
- - [https://figaronautisme.meteoconsult.fr](https://figaronautisme.meteoconsult.fr)
- - date published: 2023-12-18T17:12:20.499289+00:00
- - user: None
- - tags: []
-
-## Météo France - Prévisions METEO DETAILLEES à 15 jours - METEO CONSULT
- - [https://www.meteoconsult.fr](https://www.meteoconsult.fr)
- - date published: 2023-12-18T17:19:23.525460+00:00
- - user: None
- - tags: []
-
-## Parimal Satyal - Neustadt.fr
- - [https://neustadt.fr](https://neustadt.fr)
- - date published: 2023-11-15T17:47:22.781493+00:00
- - user: None
- - tags: ['personal']
-
-## Institut Pasteur | Pour la recherche, pour la santé, pour demain
- - [https://www.pasteur.fr](https://www.pasteur.fr)
- - date published: 2023-10-25T19:15:36.559641+00:00
  - user: None
  - tags: []
 

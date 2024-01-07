@@ -1,3 +1,183 @@
+## MarketWatch: Stock Market News - Financial News - MarketWatch
+ - [https://www.marketwatch.com](https://www.marketwatch.com)
+ - date published: 2023-10-25T10:57:58.274767+00:00
+ - user: None
+ - tags: []
+
+## Marko
+ - [https://markojs.com](https://markojs.com)
+ - date published: 2023-10-25T15:56:37.194167+00:00
+ - user: None
+ - tags: []
+
+## Markprompt | AI infrastructure for customer experience teams
+ - [https://markprompt.com](https://markprompt.com)
+ - date published: 2023-10-25T15:56:38.195582+00:00
+ - user: None
+ - tags: []
+
+## markround.com
+ - [https://www.markround.com](https://www.markround.com)
+ - date published: 2023-10-25T08:47:12.220324+00:00
+ - user: None
+ - tags: ['personal']
+
+## Tech Blog
+ - [https://tech.marksblogg.com](https://tech.marksblogg.com)
+ - date published: 2023-10-25T15:56:40.316031+00:00
+ - user: None
+ - tags: []
+
+## Home - Mark Simonson
+ - [https://www.marksimonson.com](https://www.marksimonson.com)
+ - date published: 2023-10-25T15:56:42.940461+00:00
+ - user: None
+ - tags: []
+
+## Mark Tarver
+ - [https://www.marktarver.com](https://www.marktarver.com)
+ - date published: 2023-10-25T15:56:44.809094+00:00
+ - user: None
+ - tags: []
+
+## Home - MarkTechPost
+ - [https://www.marktechpost.com](https://www.marktechpost.com)
+ - date published: 2023-10-25T15:56:53.242112+00:00
+ - user: None
+ - tags: []
+
+## MarktStash -Database of Growth Strategies
+ - [https://marktstash.com](https://marktstash.com)
+ - date published: 2023-10-25T15:56:58.027059+00:00
+ - user: None
+ - tags: []
+
+## Markuta
+ - [https://markuta.com](https://markuta.com)
+ - date published: 2023-10-25T15:56:58.729228+00:00
+ - user: None
+ - tags: []
+
+## Meridiem
+ - [https://app.markwhen.com](https://app.markwhen.com)
+ - date published: 2023-10-25T15:57:04.623513+00:00
+ - user: None
+ - tags: []
+
+## Artificially Intelligent
+ - [https://markxu.com](https://markxu.com)
+ - date published: 2023-10-25T15:57:06.149015+00:00
+ - user: None
+ - tags: []
+
+## Maroofy
+ - [https://maroofy.com](https://maroofy.com)
+ - date published: 2023-10-25T15:57:12.798153+00:00
+ - user: None
+ - tags: []
+
+## Marten – The pragmatic web framework
+ - [https://martenframework.com](https://martenframework.com)
+ - date published: 2023-10-25T15:57:13.770826+00:00
+ - user: None
+ - tags: []
+
+## Martin the Wanderer – Think different. Live different.
+ - [https://www.martin-the-wanderer.com](https://www.martin-the-wanderer.com)
+ - date published: 2023-12-13T06:05:45.388172+00:00
+ - user: None
+ - tags: ['personal']
+
+## Martin Capodici – Software Developer
+ - [http://www.martincapodici.com](http://www.martincapodici.com)
+ - date published: 2023-10-25T15:57:22.485782+00:00
+ - user: None
+ - tags: []
+
+## martineellis.com
+ - [https://www.martineellis.com](https://www.martineellis.com)
+ - date published: 2024-01-04T03:33:03.364718+00:00
+ - user: None
+ - tags: []
+
+## martinfowler.com
+ - [https://martinfowler.com](https://martinfowler.com)
+ - date published: 2023-10-25T15:57:25.358777+00:00
+ - user: None
+ - tags: []
+
+## martinfowler.com
+ - [https://www.martinfowler.com](https://www.martinfowler.com)
+ - date published: 2023-10-25T15:57:26.369682+00:00
+ - user: None
+ - tags: []
+
+## Portfolio | Martinheterjag
+ - [https://martinheterjag.com](https://martinheterjag.com)
+ - date published: 2023-10-28T20:35:29.202722+00:00
+ - user: None
+ - tags: []
+
+## Martin Kysel – Coding Challenges and More
+ - [https://martinkysel.com](https://martinkysel.com)
+ - date published: 2023-10-25T15:57:27.578876+00:00
+ - user: None
+ - tags: []
+
+## Martin Rue
+ - [https://martinrue.com](https://martinrue.com)
+ - date published: 2023-10-25T15:57:29.125644+00:00
+ - user: None
+ - tags: []
+
+## Martin Sketchley
+ - [https://martinsketchley.com](https://martinsketchley.com)
+ - date published: 2023-11-29T15:51:53.677176+00:00
+ - user: None
+ - tags: ['personal']
+
+## Martin Vigo - Personal hacking projects, writeups and tools
+ - [https://www.martinvigo.com](https://www.martinvigo.com)
+ - date published: 2023-11-16T16:28:38.549404+00:00
+ - user: None
+ - tags: []
+
+## Marvel.com | The Official Site for Marvel Movies, Characters, Comics, TV
+ - [https://www.marvel.com](https://www.marvel.com)
+ - date published: 2023-10-25T13:53:09.244051+00:00
+ - user: None
+ - tags: ['captain america', 'movie studio', 'iron man', 'disney']
+
+## vi360 photography/video/digital imaging
+ - [https://www.marxdesign.com](https://www.marxdesign.com)
+ - date published: 2023-12-22T00:41:17.350208+00:00
+ - user: None
+ - tags: []
+
+## vi360 photography/video/digital imaging
+ - [http://www.marxdesign.com](http://www.marxdesign.com)
+ - date published: 2023-12-22T21:24:02.738903+00:00
+ - user: None
+ - tags: []
+
+## Mary Ann Mahoney - Content Writer, Book Editor, Author & Musician
+ - [https://www.maryannmahoney.com](https://www.maryannmahoney.com)
+ - date published: 2023-12-10T16:59:24.402245+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mary Rose Cook
+ - [https://maryrosecook.com](https://maryrosecook.com)
+ - date published: 2023-10-25T15:57:30.568665+00:00
+ - user: None
+ - tags: []
+
+## Mashable
+ - [https://mashable.com](https://mashable.com)
+ - date published: 2023-10-25T15:57:33.723982+00:00
+ - user: None
+ - tags: []
+
 ## Mashable ME
  - [https://me.mashable.com](https://me.mashable.com)
  - date published: 2023-11-27T03:06:38.699135+00:00
@@ -261,6 +441,12 @@
  - date published: 2023-11-28T21:01:12+00:00
  - user: rumpel
  - tags: ['video streaming']
+
+## Maxim Zubarev
+ - [https://maximzubarev.com](https://maximzubarev.com)
+ - date published: 2024-01-06T17:58:20.079646+00:00
+ - user: None
+ - tags: []
 
 ## Maxinomics
  - [https://www.maxinomics.com](https://www.maxinomics.com)
@@ -1420,6 +1606,12 @@
  - user: None
  - tags: ['personal']
 
+## Merlin Star's Website – My current skill set and where I blog about various things.
+ - [https://merlinjstar.com](https://merlinjstar.com)
+ - date published: 2024-01-06T21:27:07.525100+00:00
+ - user: None
+ - tags: []
+
 ## Get The Magic of Music!
  - [https://www.merlinnsound.com](https://www.merlinnsound.com)
  - date published: 2023-12-23T19:28:27.312651+00:00
@@ -2091,6 +2283,12 @@
  - date published: 2023-11-29T14:41:50.950597+00:00
  - user: None
  - tags: ['personal']
+
+## Mindful tester | Sharing knowledge about testing and other things on my mind
+ - [https://mindfultester.com](https://mindfultester.com)
+ - date published: 2024-01-06T17:58:32.611587+00:00
+ - user: None
+ - tags: []
 
 ## Mindly Games
  - [https://www.mindlygames.com](https://www.mindlygames.com)
@@ -3310,6 +3508,12 @@
  - user: None
  - tags: []
 
+## Nat Eliason: Blog, Book Notes, Newsletter, and More
+ - [https://www.nateliason.com](https://www.nateliason.com)
+ - date published: 2024-01-06T08:53:03.977149+00:00
+ - user: None
+ - tags: []
+
 ## NateMerrill [dot] com
  - [https://www.natemerrill.com](https://www.natemerrill.com)
  - date published: 2024-01-01T17:21:02.778781+00:00
@@ -3879,6 +4083,12 @@
  - date published: 2023-10-25T16:16:16.727478+00:00
  - user: None
  - tags: ['science articles', 'science news']
+
+## Neutron Bytes
+ - [https://neutronbytes.com](https://neutronbytes.com)
+ - date published: 2024-01-06T22:32:13.595177+00:00
+ - user: None
+ - tags: []
 
 ## Private Site
  - [https://nevan.com](https://nevan.com)
@@ -5790,216 +6000,6 @@ Answering Machine Greetings!
 ## Home | Open Core Ventures
  - [https://opencoreventures.com](https://opencoreventures.com)
  - date published: 2023-10-25T16:26:31.896557+00:00
- - user: None
- - tags: []
-
-## OpenCritic - The top critics in gaming. All in one place.
- - [https://opencritic.com](https://opencritic.com)
- - date published: 2023-10-27T07:30:11.127691+00:00
- - user: None
- - tags: ['game news']
-
-## The best free cultural & educational media on the web - Open Culture
- - [https://www.openculture.com](https://www.openculture.com)
- - date published: 2023-10-25T09:28:29.608798+00:00
- - user: None
- - tags: []
-
-## Cloud Delivered Enterprise Security by OpenDNS
- - [https://www.opendns.com](https://www.opendns.com)
- - date published: 2023-10-30T12:52:26.123819+00:00
- - user: None
- - tags: ['dns']
-
-## Home | OpenFaaS - Serverless Functions Made Simple
- - [https://www.openfaas.com](https://www.openfaas.com)
- - date published: 2023-10-25T16:26:32.887003+00:00
- - user: None
- - tags: []
-
-## The Open Heart Project - Susan Piver
- - [https://openheartproject.com](https://openheartproject.com)
- - date published: 2023-10-25T16:26:38.251087+00:00
- - user: None
- - tags: []
-
-## Openlayer - The evaluation workspace for machine learning
- - [https://www.openlayer.com](https://www.openlayer.com)
- - date published: 2023-10-25T16:26:39.469662+00:00
- - user: None
- - tags: []
-
-## Advancing connectivity for all | Opensignal
- - [https://www.opensignal.com](https://www.opensignal.com)
- - date published: 2023-10-25T16:26:41.916120+00:00
- - user: None
- - tags: []
-
-## Show HN: Open Source Heroes – Explore the world of Open Source
- - [https://opensource-heroes.com](https://opensource-heroes.com)
- - date published: 2023-11-06T18:16:28+00:00
- - user: None
- - tags: []
-
-## Open Source For You | Open Source Updates
- - [https://www.opensourceforu.com](https://www.opensourceforu.com)
- - date published: 2023-12-29T05:15:37.272678+00:00
- - user: None
- - tags: []
-
-## OpenSSH
- - [https://www.openssh.com](https://www.openssh.com)
- - date published: 2023-10-25T08:32:56.764937+00:00
- - user: None
- - tags: []
-
-## 503 Backend fetch failed
- - [https://blog.opensubtitles.com](https://blog.opensubtitles.com)
- - date published: 2023-11-16T14:55:26.595310+00:00
- - user: None
- - tags: []
-
-## OpenSX70
- - [https://opensx70.com](https://opensx70.com)
- - date published: 2023-11-01T08:42:52.647761+00:00
- - user: None
- - tags: []
-
-## Open Magazine
- - [https://openthemagazine.com](https://openthemagazine.com)
- - date published: 2023-10-25T16:26:47.462037+00:00
- - user: None
- - tags: []
-
-## Interactive Vim tutorial
- - [https://www.openvim.com](https://www.openvim.com)
- - date published: 2023-10-25T09:27:45.430152+00:00
- - user: None
- - tags: []
-
-## Openwall - bringing security into open computing environments
- - [https://www.openwall.com](https://www.openwall.com)
- - date published: 2023-10-25T16:26:56.278778+00:00
- - user: None
- - tags: []
-
-## The Opera Blog - News | Opera
- - [https://blogs.opera.com](https://blogs.opera.com)
- - date published: 2023-10-25T11:29:22.476464+00:00
- - user: None
- - tags: []
-
-## Opera Web Browser | Faster, Safer, Smarter | Opera
- - [https://www.opera.com](https://www.opera.com)
- - date published: 2023-11-01T08:41:07.913556+00:00
- - user: None
- - tags: []
-
-## Ant-Like Persistence
- - [https://blog.oppedahl.com](https://blog.oppedahl.com)
- - date published: 2023-10-25T16:27:01.429670+00:00
- - user: None
- - tags: []
-
-## Smartfony i akcesoria OPPO | OPPO Polska
- - [https://www.oppo.com](https://www.oppo.com)
- - date published: 2023-10-25T11:26:11.032644+00:00
- - user: None
- - tags: ['company']
-
-## Opposite Invictus
- - [https://oppositeinvictus.com](https://oppositeinvictus.com)
- - date published: 2023-10-25T16:27:04.778062+00:00
- - user: None
- - tags: []
-
-## Optimising Nutrition
- - [https://optimisingnutrition.com](https://optimisingnutrition.com)
- - date published: 2023-10-25T16:27:10.295055+00:00
- - user: None
- - tags: []
-
-## Home - Daintree Digital
- - [https://optimizedfit.com](https://optimizedfit.com)
- - date published: 2024-01-03T04:04:59.622792+00:00
- - user: None
- - tags: []
-
-## Opusmodus: Common Lisp Music Composition System
- - [https://opusmodus.com](https://opusmodus.com)
- - date published: 2023-11-08T10:57:11+00:00
- - user: None
- - tags: []
-
-## Oracle Blogs
- - [https://blogs.oracle.com](https://blogs.oracle.com)
- - date published: 2023-10-25T16:27:16.386692+00:00
- - user: None
- - tags: []
-
-## Oracle | Cloud Applications and Cloud Platform
- - [https://www.oracle.com](https://www.oracle.com)
- - date published: 2023-10-25T11:28:29.767741+00:00
- - user: None
- - tags: ['company', 'java']
-
-## Orange Juice Liberation Front | Uli’s blog on programming, game development, pop culture and other boring things.
- - [https://orangejuiceliberationfront.com](https://orangejuiceliberationfront.com)
- - date published: 2023-10-25T16:27:20.212216+00:00
- - user: None
- - tags: []
-
-## The Orbital Index | Space: weekly, technical, curated.
- - [https://orbitalindex.com](https://orbitalindex.com)
- - date published: 2023-10-25T16:27:22.300273+00:00
- - user: None
- - tags: []
-
-## Homepage - Orbital
- - [https://www.orbitalofficial.com](https://www.orbitalofficial.com)
- - date published: 2023-10-30T13:56:48.367456+00:00
- - user: None
- - tags: ['music band']
-
-## Orbital Today
- - [https://orbitaltoday.com](https://orbitaltoday.com)
- - date published: 2023-12-15T21:45:30.445029+00:00
- - user: None
- - tags: []
-
-## Ordently - A simpler way to get things done
- - [https://www.ordently.com](https://www.ordently.com)
- - date published: 2023-10-25T16:27:23.383546+00:00
- - user: None
- - tags: []
-
-## Ord Phone
- - [https://ordphone.com](https://ordphone.com)
- - date published: 2023-10-25T08:37:02.073914+00:00
- - user: None
- - tags: []
-
-## Oregon Local News, Breaking News, Sports & Weather
- - [https://www.oregonlive.com](https://www.oregonlive.com)
- - date published: 2023-10-25T11:06:13.645376+00:00
- - user: None
- - tags: []
-
-## O'Reilly Media - Technology and Business Training
- - [https://www.oreilly.com](https://www.oreilly.com)
- - date published: 2023-10-24T20:19:32.879408+00:00
- - user: None
- - tags: []
-
-## Organ Clearing House
- - [https://www.organclearinghouse.com](https://www.organclearinghouse.com)
- - date published: 2023-10-25T16:27:25.213840+00:00
- - user: None
- - tags: []
-
-## Orinoco Tribune – News and opinion pieces about Venezuela and beyond – From Venezuela and made by Venezuelan Chavistas
- - [https://orinocotribune.com](https://orinocotribune.com)
- - date published: 2023-10-25T09:29:37.225218+00:00
  - user: None
  - tags: []
 

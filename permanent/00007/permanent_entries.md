@@ -1,3 +1,213 @@
+## OpenCritic - The top critics in gaming. All in one place.
+ - [https://opencritic.com](https://opencritic.com)
+ - date published: 2023-10-27T07:30:11.127691+00:00
+ - user: None
+ - tags: ['game news']
+
+## The best free cultural & educational media on the web - Open Culture
+ - [https://www.openculture.com](https://www.openculture.com)
+ - date published: 2023-10-25T09:28:29.608798+00:00
+ - user: None
+ - tags: []
+
+## Cloud Delivered Enterprise Security by OpenDNS
+ - [https://www.opendns.com](https://www.opendns.com)
+ - date published: 2023-10-30T12:52:26.123819+00:00
+ - user: None
+ - tags: ['dns']
+
+## Home | OpenFaaS - Serverless Functions Made Simple
+ - [https://www.openfaas.com](https://www.openfaas.com)
+ - date published: 2023-10-25T16:26:32.887003+00:00
+ - user: None
+ - tags: []
+
+## The Open Heart Project - Susan Piver
+ - [https://openheartproject.com](https://openheartproject.com)
+ - date published: 2023-10-25T16:26:38.251087+00:00
+ - user: None
+ - tags: []
+
+## Openlayer - The evaluation workspace for machine learning
+ - [https://www.openlayer.com](https://www.openlayer.com)
+ - date published: 2023-10-25T16:26:39.469662+00:00
+ - user: None
+ - tags: []
+
+## Advancing connectivity for all | Opensignal
+ - [https://www.opensignal.com](https://www.opensignal.com)
+ - date published: 2023-10-25T16:26:41.916120+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Open Source Heroes – Explore the world of Open Source
+ - [https://opensource-heroes.com](https://opensource-heroes.com)
+ - date published: 2023-11-06T18:16:28+00:00
+ - user: None
+ - tags: []
+
+## Open Source For You | Open Source Updates
+ - [https://www.opensourceforu.com](https://www.opensourceforu.com)
+ - date published: 2023-12-29T05:15:37.272678+00:00
+ - user: None
+ - tags: []
+
+## OpenSSH
+ - [https://www.openssh.com](https://www.openssh.com)
+ - date published: 2023-10-25T08:32:56.764937+00:00
+ - user: None
+ - tags: []
+
+## 503 Backend fetch failed
+ - [https://blog.opensubtitles.com](https://blog.opensubtitles.com)
+ - date published: 2023-11-16T14:55:26.595310+00:00
+ - user: None
+ - tags: []
+
+## OpenSX70
+ - [https://opensx70.com](https://opensx70.com)
+ - date published: 2023-11-01T08:42:52.647761+00:00
+ - user: None
+ - tags: []
+
+## Open Magazine
+ - [https://openthemagazine.com](https://openthemagazine.com)
+ - date published: 2023-10-25T16:26:47.462037+00:00
+ - user: None
+ - tags: []
+
+## Interactive Vim tutorial
+ - [https://www.openvim.com](https://www.openvim.com)
+ - date published: 2023-10-25T09:27:45.430152+00:00
+ - user: None
+ - tags: []
+
+## Openwall - bringing security into open computing environments
+ - [https://www.openwall.com](https://www.openwall.com)
+ - date published: 2023-10-25T16:26:56.278778+00:00
+ - user: None
+ - tags: []
+
+## The Opera Blog - News | Opera
+ - [https://blogs.opera.com](https://blogs.opera.com)
+ - date published: 2023-10-25T11:29:22.476464+00:00
+ - user: None
+ - tags: []
+
+## Opera Web Browser | Faster, Safer, Smarter | Opera
+ - [https://www.opera.com](https://www.opera.com)
+ - date published: 2023-11-01T08:41:07.913556+00:00
+ - user: None
+ - tags: []
+
+## Ant-Like Persistence
+ - [https://blog.oppedahl.com](https://blog.oppedahl.com)
+ - date published: 2023-10-25T16:27:01.429670+00:00
+ - user: None
+ - tags: []
+
+## Smartfony i akcesoria OPPO | OPPO Polska
+ - [https://www.oppo.com](https://www.oppo.com)
+ - date published: 2023-10-25T11:26:11.032644+00:00
+ - user: None
+ - tags: ['company']
+
+## Opposite Invictus
+ - [https://oppositeinvictus.com](https://oppositeinvictus.com)
+ - date published: 2023-10-25T16:27:04.778062+00:00
+ - user: None
+ - tags: []
+
+## Optimising Nutrition
+ - [https://optimisingnutrition.com](https://optimisingnutrition.com)
+ - date published: 2023-10-25T16:27:10.295055+00:00
+ - user: None
+ - tags: []
+
+## Home - Daintree Digital
+ - [https://optimizedfit.com](https://optimizedfit.com)
+ - date published: 2024-01-03T04:04:59.622792+00:00
+ - user: None
+ - tags: []
+
+## Opusmodus: Common Lisp Music Composition System
+ - [https://opusmodus.com](https://opusmodus.com)
+ - date published: 2023-11-08T10:57:11+00:00
+ - user: None
+ - tags: []
+
+## Oracle Blogs
+ - [https://blogs.oracle.com](https://blogs.oracle.com)
+ - date published: 2023-10-25T16:27:16.386692+00:00
+ - user: None
+ - tags: []
+
+## Oracle | Cloud Applications and Cloud Platform
+ - [https://www.oracle.com](https://www.oracle.com)
+ - date published: 2023-10-25T11:28:29.767741+00:00
+ - user: None
+ - tags: ['company', 'java']
+
+## Orange Juice Liberation Front | Uli’s blog on programming, game development, pop culture and other boring things.
+ - [https://orangejuiceliberationfront.com](https://orangejuiceliberationfront.com)
+ - date published: 2023-10-25T16:27:20.212216+00:00
+ - user: None
+ - tags: []
+
+## The Orbital Index | Space: weekly, technical, curated.
+ - [https://orbitalindex.com](https://orbitalindex.com)
+ - date published: 2023-10-25T16:27:22.300273+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Orbital
+ - [https://www.orbitalofficial.com](https://www.orbitalofficial.com)
+ - date published: 2023-10-30T13:56:48.367456+00:00
+ - user: None
+ - tags: ['music band']
+
+## Orbital Today
+ - [https://orbitaltoday.com](https://orbitaltoday.com)
+ - date published: 2023-12-15T21:45:30.445029+00:00
+ - user: None
+ - tags: []
+
+## Ordently - A simpler way to get things done
+ - [https://www.ordently.com](https://www.ordently.com)
+ - date published: 2023-10-25T16:27:23.383546+00:00
+ - user: None
+ - tags: []
+
+## Ord Phone
+ - [https://ordphone.com](https://ordphone.com)
+ - date published: 2023-10-25T08:37:02.073914+00:00
+ - user: None
+ - tags: []
+
+## Oregon Local News, Breaking News, Sports & Weather
+ - [https://www.oregonlive.com](https://www.oregonlive.com)
+ - date published: 2023-10-25T11:06:13.645376+00:00
+ - user: None
+ - tags: []
+
+## O'Reilly Media - Technology and Business Training
+ - [https://www.oreilly.com](https://www.oreilly.com)
+ - date published: 2023-10-24T20:19:32.879408+00:00
+ - user: None
+ - tags: []
+
+## Organ Clearing House
+ - [https://www.organclearinghouse.com](https://www.organclearinghouse.com)
+ - date published: 2023-10-25T16:27:25.213840+00:00
+ - user: None
+ - tags: []
+
+## Orinoco Tribune – News and opinion pieces about Venezuela and beyond – From Venezuela and made by Venezuelan Chavistas
+ - [https://orinocotribune.com](https://orinocotribune.com)
+ - date published: 2023-10-25T09:29:37.225218+00:00
+ - user: None
+ - tags: []
+
 ## OrioleDB – the next generation storage engine for PostgreSQL
  - [https://www.orioledata.com](https://www.orioledata.com)
  - date published: 2023-10-25T16:27:26.200155+00:00
@@ -88,6 +298,12 @@
  - date published: 2023-12-08T09:38:41.735465+00:00
  - user: None
  - tags: ['personal']
+
+## Ottawa Citizen
+ - [https://ottawacitizen.com](https://ottawacitizen.com)
+ - date published: 2024-01-06T22:28:15.792337+00:00
+ - user: None
+ - tags: []
 
 ## Danny's Blog
  - [https://blog.otterstack.com](https://blog.otterstack.com)
@@ -2270,6 +2486,12 @@
  - user: None
  - tags: []
 
+## Power Moby-Dick, the Online Annotation
+ - [https://www.powermobydick.com](https://www.powermobydick.com)
+ - date published: 2024-01-06T15:25:09.104106+00:00
+ - user: None
+ - tags: []
+
 ## Poznańskie Kolędowanie
  - [https://poznanskiekoledowanie.com](https://poznanskiekoledowanie.com)
  - date published: 2023-12-28T11:23:42+00:00
@@ -3695,6 +3917,12 @@ More!
  - user: None
  - tags: []
 
+## Rayedwards
+ - [https://rayedwards.com](https://rayedwards.com)
+ - date published: 2024-01-06T08:56:27.338338+00:00
+ - user: None
+ - tags: []
+
 ## Raymond Camden
  - [https://www.raymondcamden.com](https://www.raymondcamden.com)
  - date published: 2023-12-08T08:33:21.749631+00:00
@@ -4937,6 +5165,12 @@ More!
  - user: None
  - tags: []
 
+## Robert Henke
+ - [https://roberthenke.com](https://roberthenke.com)
+ - date published: 2024-01-06T17:07:27.532001+00:00
+ - user: None
+ - tags: []
+
 ## Robert Kennedy III – | Your Words Deserve To Be Heard
  - [https://www.robertkennedy3.com](https://www.robertkennedy3.com)
  - date published: 2023-11-29T16:20:35.874809+00:00
@@ -5699,6 +5933,12 @@ More!
  - user: None
  - tags: []
 
+## Home :: Sacha Chua
+ - [https://sachachua.com](https://sachachua.com)
+ - date published: 2024-01-06T02:24:05.322702+00:00
+ - user: None
+ - tags: []
+
 ## The private markets research you need to be a better investor | Sacra
  - [https://sacra.com](https://sacra.com)
  - date published: 2023-10-25T16:56:09.267904+00:00
@@ -5770,244 +6010,4 @@ More!
  - date published: 2023-10-25T16:56:38.448274+00:00
  - user: None
  - tags: []
-
-## https://journals.sagepub.com
- - [https://journals.sagepub.com](https://journals.sagepub.com)
- - date published: 2023-10-25T16:56:38.723045+00:00
- - user: None
- - tags: []
-
-## Sagio Dev
- - [https://www.sagiodev.com](https://www.sagiodev.com)
- - date published: 2023-10-25T16:56:39.444290+00:00
- - user: None
- - tags: []
-
-## Home | Sahbi Chaieb
- - [https://sahbichaieb.com](https://sahbichaieb.com)
- - date published: 2023-10-25T16:56:41.014086+00:00
- - user: None
- - tags: []
-
-## Sahil Bloom — Investor | Entrepreneur | Creator
- - [https://www.sahilbloom.com](https://www.sahilbloom.com)
- - date published: 2023-10-25T16:56:43.110906+00:00
- - user: None
- - tags: []
-
-## Sahil Lavingia
- - [https://sahillavingia.com](https://sahillavingia.com)
- - date published: 2023-10-25T16:56:43.588003+00:00
- - user: None
- - tags: []
-
-## Sakuga Blog – The Art of Japanese Animation
- - [https://blog.sakugabooru.com](https://blog.sakugabooru.com)
- - date published: 2023-10-25T16:56:46.948097+00:00
- - user: None
- - tags: []
-
-## Salesforce AI
- - [https://blog.salesforceairesearch.com](https://blog.salesforceairesearch.com)
- - date published: 2023-10-25T16:56:52.248548+00:00
- - user: None
- - tags: []
-
-## Inicio - Salomón Acuña
- - [https://salomonacuna.com](https://salomonacuna.com)
- - date published: 2023-12-09T10:38:52.029039+00:00
- - user: None
- - tags: ['personal']
-
-## Salon Homepage
- - [https://www.salon.com](https://www.salon.com)
- - date published: 2023-10-27T13:18:14.457594+00:00
- - user: None
- - tags: []
-
-## Salvatore Ganacci
- - [https://www.salvatoreganacci.com](https://www.salvatoreganacci.com)
- - date published: 2023-10-30T15:37:09.133549+00:00
- - user: None
- - tags: ['music band']
-
-## ➡️ Consultor SEO Madrid SALYSEO - Estrategia Efectiva para tu Negocio
- - [https://salyseo.com](https://salyseo.com)
- - date published: 2024-01-01T03:38:29.844211+00:00
- - user: None
- - tags: []
-
-## Sam Rogers - Snap Synapse LLC | LinkedIn
- - [https://sam-rogers.com](https://sam-rogers.com)
- - date published: 2023-12-29T19:00:05.149583+00:00
- - user: None
- - tags: ['personal']
-
-## SamaGame – The Gaming News Arena – English
- - [https://samagame.com](https://samagame.com)
- - date published: 2023-10-25T10:50:09.269662+00:00
- - user: None
- - tags: []
-
-## Sam Altman
- - [https://blog.samaltman.com](https://blog.samaltman.com)
- - date published: 2023-10-25T16:57:03.444504+00:00
- - user: None
- - tags: []
-
-## Moore's Law for Everything
- - [https://moores.samaltman.com](https://moores.samaltman.com)
- - date published: 2023-10-25T16:57:09.038103+00:00
- - user: None
- - tags: []
-
-## Startup Playbook
- - [https://playbook.samaltman.com](https://playbook.samaltman.com)
- - date published: 2023-10-25T16:57:10.270548+00:00
- - user: None
- - tags: []
-
-## The United Slate
- - [https://unitedslate.samaltman.com](https://unitedslate.samaltman.com)
- - date published: 2023-11-25T14:25:32+00:00
- - user: None
- - tags: []
-
-## Sam Bleckley
- - [https://sambleckley.com](https://sambleckley.com)
- - date published: 2023-10-25T16:57:11.060488+00:00
- - user: None
- - tags: []
-
-## Notes on Growth | Sam Dumitriu | Substack
- - [https://www.samdumitriu.com](https://www.samdumitriu.com)
- - date published: 2023-10-25T16:57:13.504768+00:00
- - user: None
- - tags: []
-
-## Sam DuRegger
- - [http://samduregger.com](http://samduregger.com)
- - date published: 2023-12-24T02:30:20.951784+00:00
- - user: None
- - tags: ['personal']
-
-## build build
- - [https://samiramly.com](https://samiramly.com)
- - date published: 2023-10-25T16:57:14.191341+00:00
- - user: None
- - tags: []
-
-## Samir Bharadwaj - Creative conversations by design
- - [https://samirbharadwaj.com](https://samirbharadwaj.com)
- - date published: 2023-11-29T20:43:22.165089+00:00
- - user: None
- - tags: ['personal']
-
-## SamMobile - Your source for all Samsung news
- - [https://www.sammobile.com](https://www.sammobile.com)
- - date published: 2023-10-25T09:35:06.448961+00:00
- - user: None
- - tags: []
-
-## Home | Samo Burja
- - [https://www.samoburja.com](https://www.samoburja.com)
- - date published: 2023-10-25T16:57:15.611603+00:00
- - user: None
- - tags: []
-
-## Sam Stoelinga
- - [https://samos-it.com](https://samos-it.com)
- - date published: 2023-10-25T16:57:16.390621+00:00
- - user: None
- - tags: []
-
-## Samson Hu
- - [https://writing.samsonhu.com](https://writing.samsonhu.com)
- - date published: 2023-10-25T16:57:17.096847+00:00
- - user: None
- - tags: []
-
-## Sam Spurlin
- - [https://www.samspurlin.com](https://www.samspurlin.com)
- - date published: 2023-12-24T02:31:10.792116+00:00
- - user: None
- - tags: ['personal']
-
-## Samsung Developers
- - [https://developer.samsung.com](https://developer.samsung.com)
- - date published: 2023-10-25T10:52:45.538672+00:00
- - user: None
- - tags: []
-
-## Samsung Developers Community
- - [https://forum.developer.samsung.com](https://forum.developer.samsung.com)
- - date published: 2023-12-08T12:56:20.855768+00:00
- - user: None
- - tags: []
-
-## Samsung Global Newsroom – All the latest news, key facts and inspiring stories about Samsung Electronics.
- - [https://news.samsung.com](https://news.samsung.com)
- - date published: 2023-10-25T09:35:08.370608+00:00
- - user: None
- - tags: []
-
-## Samsung Semiconductor Global Official Website | Samsung Semiconductor Global
- - [https://semiconductor.samsung.com](https://semiconductor.samsung.com)
- - date published: 2023-10-25T11:51:50.845445+00:00
- - user: None
- - tags: []
-
-## Samsung Polska | Sklep online | Smartfony, TV, sprzęt AGD
- - [https://www.samsung.com](https://www.samsung.com)
- - date published: 2023-10-25T11:28:36.759869+00:00
- - user: None
- - tags: ['semiconductors', 'company']
-
-## Samsung Mobile Press – Samsung Mobile Press is the official source of news about Samsung's mobile products. Read press releases and features, watch videos, and download images.
- - [https://www.samsungmobilepress.com](https://www.samsungmobilepress.com)
- - date published: 2023-10-25T09:35:10.933665+00:00
- - user: None
- - tags: []
-
-## Sandee Jackson, CNP | Nonprofit Communications Strategist
- - [https://sandeejackson.com](https://sandeejackson.com)
- - date published: 2023-12-28T18:49:32.215377+00:00
- - user: None
- - tags: ['personal']
-
-## San Diego Criminal Lawyers Blog — Published by San Diego, California Criminal Attorneys — Law Offices of David M. Boertje
- - [https://www.sandiegocriminallawyersblog.com](https://www.sandiegocriminallawyersblog.com)
- - date published: 2023-10-25T16:57:19.259261+00:00
- - user: None
- - tags: []
-
-## The San Diego Union-Tribune - San Diego, California & National News
- - [https://www.sandiegouniontribune.com](https://www.sandiegouniontribune.com)
- - date published: 2023-11-25T02:14:40.171365+00:00
- - user: None
- - tags: []
-
-## Sandi Metz
- - [https://sandimetz.com](https://sandimetz.com)
- - date published: 2023-10-25T16:57:25.228625+00:00
- - user: None
- - tags: []
-
-## Sandor Dargo’s Blog
- - [https://www.sandordargo.com](https://www.sandordargo.com)
- - date published: 2023-11-01T13:42:46.470895+00:00
- - user: None
- - tags: []
-
-## San Jose Inside | A look inside San Jose politics and culture
- - [https://www.sanjoseinside.com](https://www.sanjoseinside.com)
- - date published: 2023-10-25T16:57:27.249598+00:00
- - user: None
- - tags: []
-
-## sanlive.com — My home on the internet.
- - [https://sanlive.com](https://sanlive.com)
- - date published: 2023-11-29T15:49:55.017096+00:00
- - user: None
- - tags: ['personal']
 

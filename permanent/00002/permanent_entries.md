@@ -1,3 +1,75 @@
+## Open Source Watch
+ - [https://opensourcewatch.beehiiv.com](https://opensourcewatch.beehiiv.com)
+ - date published: 2023-10-25T12:56:25.295654+00:00
+ - user: None
+ - tags: []
+
+## Statecraft
+ - [https://statecraft.beehiiv.com](https://statecraft.beehiiv.com)
+ - date published: 2023-10-25T12:56:29.279394+00:00
+ - user: None
+ - tags: []
+
+## The Disruptors
+ - [https://thedisruptors.beehiiv.com](https://thedisruptors.beehiiv.com)
+ - date published: 2023-10-25T12:56:33.285763+00:00
+ - user: None
+ - tags: []
+
+## https://blog.beeper.com
+ - [https://blog.beeper.com](https://blog.beeper.com)
+ - date published: 2023-12-05T15:26:45.775261+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Beeper Mini – iMessage Client for Android
+ - [https://www.beeper.com](https://www.beeper.com)
+ - date published: 2023-12-05T15:06:21+00:00
+ - user: None
+ - tags: []
+
+## befores & afters - VFX magazine
+ - [https://beforesandafters.com](https://beforesandafters.com)
+ - date published: 2023-10-25T12:56:37.675468+00:00
+ - user: None
+ - tags: []
+
+## Begin — The Cloud Platform for Functional Web Apps
+ - [https://begin.com](https://begin.com)
+ - date published: 2023-10-25T12:56:41.405376+00:00
+ - user: None
+ - tags: []
+
+## Belay the C++ – A blog talking about (usually bad) practices in C++
+ - [https://belaycpp.com](https://belaycpp.com)
+ - date published: 2023-10-25T12:56:44.895499+00:00
+ - user: None
+ - tags: []
+
+## Belkadan Software
+ - [https://belkadan.com](https://belkadan.com)
+ - date published: 2023-10-25T12:56:48.049005+00:00
+ - user: None
+ - tags: []
+
+## Nokia Bell Labs - Nokia Bell Labs
+ - [https://www.bell-labs.com](https://www.bell-labs.com)
+ - date published: 2023-10-25T12:56:49.854172+00:00
+ - user: None
+ - tags: []
+
+## bellingcat - the home of online investigations
+ - [https://www.bellingcat.com](https://www.bellingcat.com)
+ - date published: 2023-11-05T19:13:31.558970+00:00
+ - user: None
+ - tags: []
+
+## Electric and Automatic Commercial Coffee Roaster | Bellwether Coffee
+ - [https://bellwethercoffee.com](https://bellwethercoffee.com)
+ - date published: 2023-10-25T12:56:52.055674+00:00
+ - user: None
+ - tags: []
+
 ## Simplify Your Life
  - [https://bemorewithless.com](https://bemorewithless.com)
  - date published: 2023-12-29T20:11:42.020820+00:00
@@ -3898,6 +3970,12 @@
  - user: None
  - tags: ['personal']
 
+## Home
+ - [https://chicagocrusader.com](https://chicagocrusader.com)
+ - date published: 2024-01-06T04:56:24.963086+00:00
+ - user: None
+ - tags: []
+
 ## Chicago Magazine
  - [https://www.chicagomag.com](https://www.chicagomag.com)
  - date published: 2023-10-25T13:21:56.030020+00:00
@@ -5930,82 +6008,4 @@
  - date published: 2023-10-25T14:20:55.995211+00:00
  - user: None
  - tags: ['3d printing']
-
-## createsend.com | Email Newsletter Software
- - [https://createsend.com](https://createsend.com)
- - date published: 2023-10-25T13:36:19.859758+00:00
- - user: None
- - tags: []
-
-## An error has occurred
- - [https://cio.createsend1.com](https://cio.createsend1.com)
- - date published: 2023-10-25T13:36:20.669986+00:00
- - user: None
- - tags: []
-
-## Creation Engine
- - [https://creationengine.com](https://creationengine.com)
- - date published: 2023-11-13T11:55:41.774736+00:00
- - user: None
- - tags: []
-
-## Creation Engine
- - [https://shop.creationengine.com](https://shop.creationengine.com)
- - date published: 2023-11-13T11:55:20.339935+00:00
- - user: None
- - tags: []
-
-## Creative Bloq | Art and Design Inspiration
- - [https://www.creativebloq.com](https://www.creativebloq.com)
- - date published: 2023-10-25T13:36:27.732182+00:00
- - user: None
- - tags: ['craft', 'hobby']
-
-## Creative Good: projects from Mark Hurst, since 1997
- - [https://creativegood.com](https://creativegood.com)
- - date published: 2023-10-25T13:36:29.301049+00:00
- - user: None
- - tags: []
-
-## API for Automated Video Generation - Creatomate
- - [https://creatomate.com](https://creatomate.com)
- - date published: 2023-10-25T13:36:31.260062+00:00
- - user: None
- - tags: []
-
-## https://the-linux-experiment.creator-spring.com/
- - [https://the-linux-experiment.creator-spring.com](https://the-linux-experiment.creator-spring.com)
- - date published: 2023-11-19T21:31:13+00:00
- - user: rumpel
- - tags: []
-
-## CREATRIX TIARA
- - [https://creatrixtiara.com](https://creatrixtiara.com)
- - date published: 2023-11-29T15:44:01.004610+00:00
- - user: None
- - tags: ['personal']
-
-## Credistick - science fiction, technology, community
- - [https://credistick.com](https://credistick.com)
- - date published: 2023-10-25T13:36:34.055427+00:00
- - user: None
- - tags: []
-
-## Home - Cree LED: Application-Optimized LED Solutions
- - [https://cree-led.com](https://cree-led.com)
- - date published: 2023-10-25T13:36:42.415996+00:00
- - user: None
- - tags: []
-
-## Creed - Official Website
- - [https://creed.com](https://creed.com)
- - date published: 2023-11-13T10:35:50.547381+00:00
- - user: None
- - tags: ['music band']
-
-## CrimeReads
- - [https://crimereads.com](https://crimereads.com)
- - date published: 2023-11-07T14:07:13.850793+00:00
- - user: None
- - tags: []
 

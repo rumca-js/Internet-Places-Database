@@ -1,3 +1,280 @@
+## Show HN: Unofficial YouTube Wrapped 2023, see top creators and watching habits
+ - [https://videorecap.viewodyssey.com](https://videorecap.viewodyssey.com)
+ - date published: 2023-12-01T18:26:03+00:00
+ - user: None
+ - tags: []
+
+## ViewStats – YouTube Channel Statistics
+ - [https://www.viewstats.com](https://www.viewstats.com)
+ - date published: 2023-12-18T11:44:54+00:00
+ - user: None
+ - tags: []
+
+## Vijay Prema - The Mindful Technologist
+ - [https://vijayprema.com](https://vijayprema.com)
+ - date published: 2023-10-25T17:56:35.803225+00:00
+ - user: None
+ - tags: []
+
+## Viksit Gaur | Viksit Gaur Online
+ - [https://viksit.com](https://viksit.com)
+ - date published: 2023-10-25T17:56:36.926186+00:00
+ - user: None
+ - tags: []
+
+## The Village Voice
+ - [https://www.villagevoice.com](https://www.villagevoice.com)
+ - date published: 2023-10-25T10:16:50.071015+00:00
+ - user: None
+ - tags: []
+
+## Learn VIM while playing a game - VIM Adventures
+ - [https://vim-adventures.com](https://vim-adventures.com)
+ - date published: 2023-10-25T17:56:39.100234+00:00
+ - user: None
+ - tags: []
+
+## Vimeo: Your videos deserve the best
+ - [https://player.vimeo.com](https://player.vimeo.com)
+ - date published: 2023-12-11T19:06:10.109935+00:00
+ - user: None
+ - tags: []
+
+## Vimeo Interactive Video Experience Platform
+ - [https://vimeo.com](https://vimeo.com)
+ - date published: 2023-10-24T20:05:51.950738+00:00
+ - user: None
+ - tags: ['video streaming']
+
+## Vim Ninja — Master Vim From Your Browser Through Interactive Exercises
+ - [https://www.vimninja.com](https://www.vimninja.com)
+ - date published: 2023-10-25T17:56:41.524655+00:00
+ - user: None
+ - tags: []
+
+## Vim Online Editor - Vim Editor In Browser
+ - [https://www.vimonlineeditor.com](https://www.vimonlineeditor.com)
+ - date published: 2023-10-25T17:56:42.379253+00:00
+ - user: None
+ - tags: []
+
+## vincelwt.com
+ - [https://vincelwt.com](https://vincelwt.com)
+ - date published: 2023-10-25T17:56:43.228366+00:00
+ - user: None
+ - tags: []
+
+## Home - Vineet Jobanputra
+ - [https://vineetjobanputra.com](https://vineetjobanputra.com)
+ - date published: 2023-11-29T14:20:23.850636+00:00
+ - user: None
+ - tags: ['personal']
+
+## Drinking Is Culture - Learn About Wine, Beer & Spirits | VinePair
+ - [https://vinepair.com](https://vinepair.com)
+ - date published: 2023-10-25T17:56:46.657755+00:00
+ - user: None
+ - tags: []
+
+## Home - VINnews
+ - [https://vinnews.com](https://vinnews.com)
+ - date published: 2023-11-01T20:48:03.267478+00:00
+ - user: None
+ - tags: []
+
+## Vinney Cavallo
+ - [https://vinneycavallo.com](https://vinneycavallo.com)
+ - date published: 2023-12-27T10:11:21.276832+00:00
+ - user: None
+ - tags: ['personal']
+
+## Vinography : A Wine Blog
+ - [https://www.vinography.com](https://www.vinography.com)
+ - date published: 2023-10-25T17:56:49.222659+00:00
+ - user: None
+ - tags: []
+
+## 2023 Vintage is The New Old Writer’s Contest Winners Announced - Vintage is The New Old
+ - [https://www.vintageisthenewold.com](https://www.vintageisthenewold.com)
+ - date published: 2023-10-27T14:44:52.922545+00:00
+ - user: None
+ - tags: ['amiga', 'retro games']
+
+## vinylrecorder, vinyl recorder, dubplate, phono, analog, single,
+    maxi, record, recording, directmastering, pressing, pressung, schallplatten
+ - [https://www.vinylrecorder.com](https://www.vinylrecorder.com)
+ - date published: 2023-10-25T17:56:49.670180+00:00
+ - user: None
+ - tags: []
+
+## Violeta Nedkova - Self-Publish Your Book Your Way
+ - [https://violetanedkova.com](https://violetanedkova.com)
+ - date published: 2023-12-27T18:13:05.043655+00:00
+ - user: None
+ - tags: ['personal']
+
+## About Vipul Shekhawat
+ - [https://www.vipshek.com](https://www.vipshek.com)
+ - date published: 2023-10-25T17:56:50.234660+00:00
+ - user: None
+ - tags: []
+
+## viralinstruction
+ - [https://viralinstruction.com](https://viralinstruction.com)
+ - date published: 2023-10-25T17:56:50.835332+00:00
+ - user: None
+ - tags: []
+
+## https://www.virginiamercury.com
+ - [https://www.virginiamercury.com](https://www.virginiamercury.com)
+ - date published: 2023-11-04T03:07:08.777366+00:00
+ - user: None
+ - tags: []
+
+## Virtualization Howto - Virtualization Networking Cloud Enterprise
+ - [https://www.virtualizationhowto.com](https://www.virtualizationhowto.com)
+ - date published: 2023-10-25T17:56:54.921265+00:00
+ - user: None
+ - tags: []
+
+## Virtually Fun | Fun with Virtualization
+ - [https://virtuallyfun.com](https://virtuallyfun.com)
+ - date published: 2023-10-25T17:57:25.943395+00:00
+ - user: None
+ - tags: []
+
+## Virtual Reality Oasis
+ - [https://virtualrealityoasis.com](https://virtualrealityoasis.com)
+ - date published: 2023-11-27T16:12:28+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
+
+## Virtual Uncle - VR, XR, AR Curated News & Releases
+ - [https://virtualuncle.com](https://virtualuncle.com)
+ - date published: 2023-10-25T17:57:29.714238+00:00
+ - user: None
+ - tags: ['tech news', 'virtual reality']
+
+## Vishnu Menon
+ - [https://vishnumenon.com](https://vishnumenon.com)
+ - date published: 2023-10-25T08:48:21.110375+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Visionary CTO | Matt Watson | Substack
+ - [https://blog.visionarycto.com](https://blog.visionarycto.com)
+ - date published: 2023-10-25T17:57:32.350119+00:00
+ - user: None
+ - tags: []
+
+## Sweden – a destination <br>of a different nature
+ - [https://visitsweden.com](https://visitsweden.com)
+ - date published: 2023-10-29T13:00:54.024158+00:00
+ - user: None
+ - tags: []
+
+## Visual Fonts – Type Good Pictures
+ - [https://visual-fonts.com](https://visual-fonts.com)
+ - date published: 2023-10-25T17:57:36.728693+00:00
+ - user: None
+ - tags: []
+
+## Visual Capitalist
+ - [https://www.visualcapitalist.com](https://www.visualcapitalist.com)
+ - date published: 2023-10-25T10:39:33.539082+00:00
+ - user: None
+ - tags: []
+
+## VisualPDE | Interactive live solutions of PDE systems, right on your device
+ - [https://visualpde.com](https://visualpde.com)
+ - date published: 2023-10-25T17:57:37.518948+00:00
+ - user: None
+ - tags: []
+
+## Visual Studio Code - Code Editing. Redefined
+ - [https://code.visualstudio.com](https://code.visualstudio.com)
+ - date published: 2023-10-25T17:57:39.109407+00:00
+ - user: None
+ - tags: ['ide', 'visual studio']
+
+## Developer Community
+ - [https://developercommunity.visualstudio.com](https://developercommunity.visualstudio.com)
+ - date published: 2023-10-25T17:57:41.357962+00:00
+ - user: None
+ - tags: []
+
+## Visual Studio Magazine Home -- Visual Studio Magazine
+ - [https://visualstudiomagazine.com](https://visualstudiomagazine.com)
+ - date published: 2023-10-25T17:57:48.493438+00:00
+ - user: None
+ - tags: []
+
+## Viswagyan -
+ - [https://viswagyan.com](https://viswagyan.com)
+ - date published: 2023-12-30T09:16:45.834804+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://now.vitalyobukhov.com](https://now.vitalyobukhov.com)
+ - date published: 2023-12-20T21:32:00.927597+00:00
+ - user: None
+ - tags: ['personal']
+
+## vite-plugin-ssr
+ - [https://vite-plugin-ssr.com](https://vite-plugin-ssr.com)
+ - date published: 2023-10-25T17:57:51.712020+00:00
+ - user: None
+ - tags: []
+
+## Vivaldi Browser | Powerful, Personal and Private web browser
+ - [https://vivaldi.com](https://vivaldi.com)
+ - date published: 2023-10-25T08:40:37.885818+00:00
+ - user: None
+ - tags: []
+
+## Vivek Haldar
+ - [https://blog.vivekhaldar.com](https://blog.vivekhaldar.com)
+ - date published: 2023-10-25T17:57:53.859667+00:00
+ - user: None
+ - tags: []
+
+## Vivek Panyam
+ - [https://blog.vivekpanyam.com](https://blog.vivekpanyam.com)
+ - date published: 2023-12-29T22:49:51.039108+00:00
+ - user: None
+ - tags: []
+
+## Vivid Maps - Maps that explain the World
+ - [https://vividmaps.com](https://vividmaps.com)
+ - date published: 2023-10-25T17:57:56.121309+00:00
+ - user: None
+ - tags: []
+
+## Vivian Qu
+ - [https://vivqu.com](https://vivqu.com)
+ - date published: 2023-10-25T17:57:56.937671+00:00
+ - user: None
+ - tags: []
+
+## VIZ: The Best in Manga, Anime & Global Entertainment
+ - [https://www.viz.com](https://www.viz.com)
+ - date published: 2023-10-31T15:37:59.527773+00:00
+ - user: None
+ - tags: []
+
+## Summer Afternoon
+ - [https://summer-afternoon.vlucendo.com](https://summer-afternoon.vlucendo.com)
+ - date published: 2023-10-25T17:57:57.354906+00:00
+ - user: None
+ - tags: []
+
+## VMware News & Stories
+ - [https://news.vmware.com](https://news.vmware.com)
+ - date published: 2023-12-12T22:18:12.429315+00:00
+ - user: None
+ - tags: ['virtualization']
+
 ## VNV NATION - Alternative Electronic Music
  - [https://vnvnation.com](https://vnvnation.com)
  - date published: 2023-10-25T13:52:36.723319+00:00
@@ -159,6 +436,12 @@
  - date published: 2023-10-25T18:10:11.961099+00:00
  - user: None
  - tags: ['company', 'car producer']
+
+## GitHub - dylanpdx/BetterTwitFix: Fix Twitter video embeds in Discord (and Telegram!)
+ - [https://vxtwitter.com](https://vxtwitter.com)
+ - date published: 2024-01-06T02:26:04.304605+00:00
+ - user: None
+ - tags: []
 
 ## Effektiv drift och förvaltning | Vyer Technologies AB | Sweden
  - [https://www.vyer.com](https://www.vyer.com)
@@ -2794,6 +3077,12 @@
  - user: None
  - tags: ['personal', 'ruby on rails', 'programming', 'ruby']
 
+## Ruxandra’s Substack | Ruxandra Teslo | Substack
+ - [https://www.writingruxandrabio.com](https://www.writingruxandrabio.com)
+ - date published: 2024-01-06T03:59:04.422251+00:00
+ - user: None
+ - tags: []
+
 ## Atlanta News, Weather and Sports. Breaking stories from around the Metro Area. Coverage you can count on from WSB-TV Channel 2. – WSB-TV Channel 2 - Atlanta
  - [https://www.wsbtv.com](https://www.wsbtv.com)
  - date published: 2023-11-05T03:04:19.560301+00:00
@@ -3339,6 +3628,12 @@
  - date published: 2023-10-27T10:31:57.935885+00:00
  - user: None
  - tags: ['assets models', '3d printing']
+
+## YOURBARNABAS.COM
+ - [https://yourbarnabas.com](https://yourbarnabas.com)
+ - date published: 2024-01-06T08:54:10.485569+00:00
+ - user: None
+ - tags: []
 
 ## YourTango | Opening Hearts, Building Relationships, Spreading Love
  - [https://www.yourtango.com](https://www.yourtango.com)
@@ -4745,6 +5040,12 @@ home
  - user: None
  - tags: []
 
+## Startseite - Max-Planck-Gesellschaft
+ - [https://www.mpg.de](https://www.mpg.de)
+ - date published: 2024-01-06T06:05:42.465870+00:00
+ - user: None
+ - tags: []
+
 ## Startseite
  - [https://www.mpip-mainz.mpg.de](https://www.mpip-mainz.mpg.de)
  - date published: 2023-10-27T13:11:14.983477+00:00
@@ -5696,307 +5997,6 @@ home
 ## cc.dev - Database-Driven Email Marketing
  - [https://cc.dev](https://cc.dev)
  - date published: 2023-10-25T18:36:03.249709+00:00
- - user: None
- - tags: []
-
-## Hello, I'm Cendyne
- - [https://cendyne.dev](https://cendyne.dev)
- - date published: 2023-10-25T18:36:04.595071+00:00
- - user: None
- - tags: []
-
-## Census Engineering
- - [https://census.dev](https://census.dev)
- - date published: 2023-10-25T18:36:08.128182+00:00
- - user: None
- - tags: []
-
-## chadxz.dev
- - [https://chadxz.dev](https://chadxz.dev)
- - date published: 2023-10-25T18:36:14.744551+00:00
- - user: None
- - tags: []
-
-## Chainguard: Fortified Software Delivery
- - [https://www.chainguard.dev](https://www.chainguard.dev)
- - date published: 2023-10-25T18:36:16.306141+00:00
- - user: None
- - tags: []
-
-## Chaos Engineering | Francisco Javier Arceo | Substack
- - [https://www.chaos-engineering.dev](https://www.chaos-engineering.dev)
- - date published: 2023-10-25T18:36:19.103017+00:00
- - user: None
- - tags: []
-
-## Chris Nicholas | Developer experience at Liveblocks
- - [https://chrisnicholas.dev](https://chrisnicholas.dev)
- - date published: 2024-01-02T15:32:22.185407+00:00
- - user: None
- - tags: []
-
-## @chrlschn - Charles Chen
- - [https://chrlschn.dev](https://chrlschn.dev)
- - date published: 2023-10-25T18:36:20.354962+00:00
- - user: None
- - tags: []
-
-## cichocinski.dev
- - [https://cichocinski.dev](https://cichocinski.dev)
- - date published: 2023-10-25T18:36:21.479652+00:00
- - user: None
- - tags: []
-
-## Home - Caught in the Web
- - [https://citw.dev](https://citw.dev)
- - date published: 2023-10-25T18:36:22.127721+00:00
- - user: None
- - tags: []
-
-## Homepage | Civet
- - [https://civet.dev](https://civet.dev)
- - date published: 2023-10-25T18:36:23.882958+00:00
- - user: None
- - tags: []
-
-## clairefro
- - [https://clairefro.dev](https://clairefro.dev)
- - date published: 2023-10-25T18:36:25.009918+00:00
- - user: None
- - tags: []
-
-## Cobalt
- - [https://cobalt.dev](https://cobalt.dev)
- - date published: 2023-10-25T18:36:32.246177+00:00
- - user: None
- - tags: []
-
-## AI-Powered Coding Tutorials | Codeamigo
- - [https://codeamigo.dev](https://codeamigo.dev)
- - date published: 2023-10-25T18:36:35.073084+00:00
- - user: None
- - tags: []
-
-## CodeLink
- - [https://codelink.dev](https://codelink.dev)
- - date published: 2023-10-25T18:36:35.450021+00:00
- - user: None
- - tags: []
-
-## Cohan Robinson
- - [https://cohan.dev](https://cohan.dev)
- - date published: 2023-11-17T12:48:41+00:00
- - user: rumpel
- - tags: ['personal']
-
-## Embeddable Common-Lisp
- - [https://ecl.common-lisp.dev](https://ecl.common-lisp.dev)
- - date published: 2023-10-25T18:36:36.899923+00:00
- - user: None
- - tags: []
-
-## Second Draft (in-progress) · Learn Lisp The Hard Way
- - [https://llthw.common-lisp.dev](https://llthw.common-lisp.dev)
- - date published: 2023-10-25T18:36:39.180021+00:00
- - user: None
- - tags: []
-
-## Confused bit
- - [https://confusedbit.dev](https://confusedbit.dev)
- - date published: 2023-10-25T18:36:44.738942+00:00
- - user: None
- - tags: []
-
-## Development containers
- - [https://containers.dev](https://containers.dev)
- - date published: 2023-10-25T18:36:46.250992+00:00
- - user: None
- - tags: []
-
-## Continue
- - [https://continue.dev](https://continue.dev)
- - date published: 2023-10-25T18:36:47.728031+00:00
- - user: None
- - tags: []
-
-## Stack: A collection of good ideas for developers building with Convex.
- - [https://stack.convex.dev](https://stack.convex.dev)
- - date published: 2023-10-25T18:36:52.175996+00:00
- - user: None
- - tags: []
-
-## Core Dumped
- - [https://coredumped.dev](https://coredumped.dev)
- - date published: 2023-10-25T18:36:55.902823+00:00
- - user: None
- - tags: []
-
-## Corrode Rust Consulting
- - [https://corrode.dev](https://corrode.dev)
- - date published: 2023-10-25T08:58:25.029322+00:00
- - user: None
- - tags: ['personal']
-
-## Cory Dransfeldt
- - [https://coryd.dev](https://coryd.dev)
- - date published: 2023-10-25T18:37:02.718460+00:00
- - user: None
- - tags: []
-
-## Counter: Simple Web Analytics
- - [https://counter.dev](https://counter.dev)
- - date published: 2023-10-25T18:37:03.893973+00:00
- - user: None
- - tags: []
-
-## Christian Fei's Blog - cri.dev
- - [https://cri.dev](https://cri.dev)
- - date published: 2023-10-25T08:58:26.480635+00:00
- - user: None
- - tags: ['personal']
-
-## CubeSigner, a refreshingly secure key manager
- - [https://cubist.dev](https://cubist.dev)
- - date published: 2023-11-02T07:07:07+00:00
- - user: None
- - tags: []
-
-## Home | Cubxity — Full-stack Developer
- - [https://cubxity.dev](https://cubxity.dev)
- - date published: 2023-10-25T18:37:05.670677+00:00
- - user: None
- - tags: []
-
-## Cypress and Playwright Dashboard. Debug, deflake and analyse CI tests in Cloud.
- - [https://currents.dev](https://currents.dev)
- - date published: 2023-10-25T18:37:07.754644+00:00
- - user: None
- - tags: []
-
-## Cyber - Fast and concurrent scripting.
- - [https://cyberscript.dev](https://cyberscript.dev)
- - date published: 2023-10-25T18:37:09.369506+00:00
- - user: None
- - tags: []
-
-## dbdev | The Database Package Manager
- - [https://database.dev](https://database.dev)
- - date published: 2023-10-25T18:37:10.874218+00:00
- - user: None
- - tags: []
-
-## ~/.didev
- - [https://davidisaksson.dev](https://davidisaksson.dev)
- - date published: 2023-10-25T08:58:27.129547+00:00
- - user: None
- - tags: ['personal']
-
-## David Nguyen
- - [https://davidnguyen.dev](https://davidnguyen.dev)
- - date published: 2023-12-03T09:19:51.549979+00:00
- - user: None
- - tags: ['personal']
-
-## Hi, I'm Den :wave:
- - [https://den.dev](https://den.dev)
- - date published: 2023-10-25T08:58:28.132514+00:00
- - user: None
- - tags: ['personal']
-
-## Writing | denvaar's Site
- - [https://denvaar.dev](https://denvaar.dev)
- - date published: 2023-11-16T09:28:41.834997+00:00
- - user: None
- - tags: []
-
-## Depot
- - [https://depot.dev](https://depot.dev)
- - date published: 2023-10-25T18:37:13.920387+00:00
- - user: None
- - tags: []
-
-## The Developing Dev | Ryan Peterman | Substack
- - [https://www.developing.dev](https://www.developing.dev)
- - date published: 2023-10-25T18:37:18.745268+00:00
- - user: None
- - tags: []
-
-## DevOps.dev
- - [https://blog.devops.dev](https://blog.devops.dev)
- - date published: 2023-10-25T18:37:21.821387+00:00
- - user: None
- - tags: []
-
-## Digger.dev
- - [https://blog.digger.dev](https://blog.digger.dev)
- - date published: 2024-01-04T16:43:27.471043+00:00
- - user: None
- - tags: []
-
-## Disane.dev - Personal tech blog
- - [https://blog.disane.dev](https://blog.disane.dev)
- - date published: 2024-01-02T05:20:52.454570+00:00
- - user: None
- - tags: []
-
-## djhworld - thoughts
- - [https://djharper.dev](https://djharper.dev)
- - date published: 2023-10-25T18:37:23.198428+00:00
- - user: None
- - tags: []
-
-## Hristiyan Dodov: Full-Stack Developer at Oblik Studio
- - [https://dodov.dev](https://dodov.dev)
- - date published: 2023-10-25T18:37:24.848610+00:00
- - user: None
- - tags: []
-
-## Earthly - Make Builds Super Simple
- - [https://earthly.dev](https://earthly.dev)
- - date published: 2023-10-25T18:37:27.899029+00:00
- - user: None
- - tags: []
-
-## echoserver: A simple echo server for testing HTTP clients.
- - [https://echoserver.dev](https://echoserver.dev)
- - date published: 2023-10-25T18:37:29.344617+00:00
- - user: None
- - tags: []
-
-## Ecostack —
-        a developer blog
- - [https://ecostack.dev](https://ecostack.dev)
- - date published: 2023-10-25T18:37:30.969613+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://emnudge.dev](https://emnudge.dev)
- - date published: 2023-10-25T18:37:32.803436+00:00
- - user: None
- - tags: []
-
-## Emoji Kitchen
- - [https://emojikitchen.dev](https://emojikitchen.dev)
- - date published: 2023-10-25T18:37:39.002696+00:00
- - user: None
- - tags: []
-
-## Encore — Escape your backend development burdens
- - [https://encore.dev](https://encore.dev)
- - date published: 2023-11-23T13:54:15.244923+00:00
- - user: None
- - tags: []
-
-## Matthias Endler
- - [https://endler.dev](https://endler.dev)
- - date published: 2023-10-25T18:37:40.403164+00:00
- - user: None
- - tags: []
-
-## endtimes.dev
- - [https://endtimes.dev](https://endtimes.dev)
- - date published: 2023-10-25T18:37:42.008452+00:00
  - user: None
  - tags: []
 

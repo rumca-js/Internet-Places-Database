@@ -1,3 +1,255 @@
+## Worldish | Substack
+ - [https://worldish.substack.com](https://worldish.substack.com)
+ - date published: 2023-10-25T10:07:36.707638+00:00
+ - user: None
+ - tags: ['substack']
+
+## Wyclif's Dust | Substack
+ - [https://wyclif.substack.com](https://wyclif.substack.com)
+ - date published: 2023-10-25T10:07:39.575720+00:00
+ - user: None
+ - tags: ['substack']
+
+## Fun With The Cloud | Yehuda Cohen | Substack
+ - [https://yehudacohen.substack.com](https://yehudacohen.substack.com)
+ - date published: 2023-10-25T10:07:41.995878+00:00
+ - user: None
+ - tags: ['substack']
+
+## In The Long Run | Zachary D. Carter | Substack
+ - [https://zacharydcarter.substack.com](https://zacharydcarter.substack.com)
+ - date published: 2023-10-25T10:07:50.275708+00:00
+ - user: None
+ - tags: ['substack']
+
+## Leading Developers | Anton Zaides | Substack
+ - [https://zaidesanton.substack.com](https://zaidesanton.substack.com)
+ - date published: 2024-01-01T18:35:56.304888+00:00
+ - user: None
+ - tags: []
+
+## Zero Day | Kim Zetter | Substack
+ - [https://zetter.substack.com](https://zetter.substack.com)
+ - date published: 2023-10-25T10:07:53.099694+00:00
+ - user: None
+ - tags: ['substack']
+
+## Error - Substack
+ - [https://substackcdn.com](https://substackcdn.com)
+ - date published: 2023-12-09T21:18:30.972024+00:00
+ - user: None
+ - tags: []
+
+## https://successfulstepsblog.com
+ - [https://successfulstepsblog.com](https://successfulstepsblog.com)
+ - date published: 2023-12-20T05:40:47.440858+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## Main Page | succulentoats
+ - [https://succulentoats.com](https://succulentoats.com)
+ - date published: 2023-12-26T06:31:18.576813+00:00
+ - user: None
+ - tags: ['personal']
+
+## Welcome to Sudo Null IT News / Sudo Null IT News
+ - [https://sudonull.com](https://sudonull.com)
+ - date published: 2023-10-25T17:19:21.870327+00:00
+ - user: None
+ - tags: []
+
+## Sukhy Hullait - Portait | Documentary | Workshops
+ - [https://www.sukhyhullait.com](https://www.sukhyhullait.com)
+ - date published: 2023-12-21T03:32:47.538203+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://www.summacumfarte.com](https://www.summacumfarte.com)
+ - date published: 2023-12-26T21:29:52.831597+00:00
+ - user: None
+ - tags: []
+
+## Summary Cat
+ - [https://www.summarycat.com](https://www.summarycat.com)
+ - date published: 2023-10-25T17:19:23.747610+00:00
+ - user: None
+ - tags: []
+
+## Sun Sentinel
+ - [https://www.sun-sentinel.com](https://www.sun-sentinel.com)
+ - date published: 2023-12-05T16:27:09.881254+00:00
+ - user: None
+ - tags: []
+
+## Sundial:Do it yourself
+ - [https://www.sundialzone.com](https://www.sundialzone.com)
+ - date published: 2023-10-25T17:19:29.731342+00:00
+ - user: None
+ - tags: []
+
+## Chicago Sun-Times: Chicago news, sports, politics, entertainment
+ - [https://chicago.suntimes.com](https://chicago.suntimes.com)
+ - date published: 2023-10-25T11:06:25.871318+00:00
+ - user: None
+ - tags: []
+
+## Supabase | The Open Source Firebase Alternative
+ - [https://supabase.com](https://supabase.com)
+ - date published: 2023-10-25T17:19:31.509105+00:00
+ - user: None
+ - tags: []
+
+## Supademo: Create Engaging Interactive Demos and Guides
+ - [https://supademo.com](https://supademo.com)
+ - date published: 2023-10-25T17:19:33.311498+00:00
+ - user: None
+ - tags: []
+
+## Superblocks | Save 100s of developer hours on internal tools
+ - [https://www.superblocks.com](https://www.superblocks.com)
+ - date published: 2023-10-25T17:19:38.285897+00:00
+ - user: None
+ - tags: []
+
+## Our Greatest Space Stories
+ - [https://www.supercluster.com](https://www.supercluster.com)
+ - date published: 2023-10-25T17:19:39.677669+00:00
+ - user: None
+ - tags: []
+
+## Super Fast Python – making you awesome at concurrency
+ - [https://superfastpython.com](https://superfastpython.com)
+ - date published: 2023-10-25T17:19:42.973908+00:00
+ - user: None
+ - tags: []
+
+## SUPERHOT - The FPS where time moves only when you move
+ - [https://superhotgame.com](https://superhotgame.com)
+ - date published: 2023-12-06T08:03:27+00:00
+ - user: rumpel
+ - tags: ['video game']
+
+## Superman Homepage
+ - [https://www.supermanhomepage.com](https://www.supermanhomepage.com)
+ - date published: 2023-11-27T12:56:00+00:00
+ - user: rumpel
+ - tags: []
+
+## Super Soldier Talk | Milabs, Monarchs, Mkultra
+ - [https://supersoldiertalk.com](https://supersoldiertalk.com)
+ - date published: 2023-10-25T17:19:46.384521+00:00
+ - user: None
+ - tags: []
+
+## Mapping Ideas That Change the World
+ - [https://www.superusapp.com](https://www.superusapp.com)
+ - date published: 2023-10-25T17:19:48.556306+00:00
+ - user: None
+ - tags: []
+
+## Super User
+ - [https://superuser.com](https://superuser.com)
+ - date published: 2023-10-25T17:19:51.369524+00:00
+ - user: None
+ - tags: []
+
+## My blog.
+ - [https://surfcoderepeat.com](https://surfcoderepeat.com)
+ - date published: 2023-11-29T18:21:20.149748+00:00
+ - user: None
+ - tags: ['personal']
+
+## SUR in English - Spanish news in English
+ - [https://www.surinenglish.com](https://www.surinenglish.com)
+ - date published: 2023-12-28T16:42:30.076739+00:00
+ - user: None
+ - tags: []
+
+## SurrealDB | The ultimate multi-model database for tomorrow's applications
+ - [https://surrealdb.com](https://surrealdb.com)
+ - date published: 2023-10-29T17:22:37.369138+00:00
+ - user: None
+ - tags: []
+
+## SursockHouse
+ - [https://sursockhouse.com](https://sursockhouse.com)
+ - date published: 2023-10-25T17:19:53.345575+00:00
+ - user: None
+ - tags: []
+
+## Susan Rigetti
+ - [https://www.susanrigetti.com](https://www.susanrigetti.com)
+ - date published: 2023-10-25T17:19:55.091861+00:00
+ - user: None
+ - tags: []
+
+## SusanWithPearls
+ - [https://susanwithpearls.com](https://susanwithpearls.com)
+ - date published: 2023-12-12T13:09:08.446005+00:00
+ - user: None
+ - tags: ['personal']
+
+## Open Source Solutions for Enterprise Servers & Cloud | SUSE
+ - [https://www.suse.com](https://www.suse.com)
+ - date published: 2023-10-25T08:31:47.830684+00:00
+ - user: None
+ - tags: ['operating system']
+
+## Sushi Swap
+ - [https://forum.sushi.com](https://forum.sushi.com)
+ - date published: 2023-10-25T17:19:58.195025+00:00
+ - user: None
+ - tags: []
+
+## Sustainability by numbers | Hannah Ritchie | Substack
+ - [https://www.sustainabilitybynumbers.com](https://www.sustainabilitybynumbers.com)
+ - date published: 2023-11-05T15:52:28.331482+00:00
+ - user: None
+ - tags: []
+
+## https://www.sustainableplastics.com
+ - [https://www.sustainableplastics.com](https://www.sustainableplastics.com)
+ - date published: 2023-10-25T17:19:58.477450+00:00
+ - user: None
+ - tags: []
+
+## suzann.com
+ - [http://www.suzann.com](http://www.suzann.com)
+ - date published: 2023-11-29T16:18:49.996303+00:00
+ - user: None
+ - tags: ['personal']
+
+## Suzuki Musical Inst. MFG | Qualified Musical Inst. Manufacture.
+ - [https://suzukimusic-global.com](https://suzukimusic-global.com)
+ - date published: 2023-12-08T08:31:28.443083+00:00
+ - user: None
+ - tags: []
+
+## Constantine Molchanov on Svbtle
+ - [https://moigagoo.svbtle.com](https://moigagoo.svbtle.com)
+ - date published: 2023-12-04T19:56:08.845073+00:00
+ - user: None
+ - tags: []
+
+## Ted Piotrowski
+ - [https://tedpiotrowski.svbtle.com](https://tedpiotrowski.svbtle.com)
+ - date published: 2023-10-25T17:20:00.283562+00:00
+ - user: None
+ - tags: []
+
+## Launch Faster with the Full-stack SaaS Template for SvelteKit
+ - [https://sveltekitsaas.com](https://sveltekitsaas.com)
+ - date published: 2023-10-25T17:20:01.448128+00:00
+ - user: None
+ - tags: []
+
+## Learn SVG with 25 examples – How to code images in HTML
+ - [https://svg-tutorial.com](https://svg-tutorial.com)
+ - date published: 2023-12-07T13:38:04+00:00
+ - user: None
+ - tags: ['tutorial', 'html', 'svg']
+
 ## Customize and apply backgrounds fast | SVG Backgrounds
  - [https://www.svgbackgrounds.com](https://www.svgbackgrounds.com)
  - date published: 2023-10-25T17:20:04.343453+00:00
@@ -2051,6 +2303,12 @@
  - user: None
  - tags: []
 
+## The Light Herder and the Fractal Time Machine
+ - [https://www.thelightherder.com](https://www.thelightherder.com)
+ - date published: 2024-01-06T19:31:40+00:00
+ - user: None
+ - tags: []
+
 ## The Linux Experiment
  - [https://thelinuxexp.com](https://thelinuxexp.com)
  - date published: 2023-11-19T21:32:03+00:00
@@ -2835,6 +3093,12 @@
 ## Thomas Bandt
  - [https://thomasbandt.com](https://thomasbandt.com)
  - date published: 2023-10-25T17:40:55.323582+00:00
+ - user: None
+ - tags: []
+
+## Tom Goddard
+ - [https://www.thomasglengoddard.com](https://www.thomasglengoddard.com)
+ - date published: 2024-01-06T17:58:40.895891+00:00
  - user: None
  - tags: []
 
@@ -3635,6 +3899,12 @@
  - date published: 2023-10-31T04:18:45.594409+00:00
  - user: None
  - tags: ['politic news', 'news']
+
+## Tosbourn – Belfast based Ruby developers
+ - [https://tosbourn.com](https://tosbourn.com)
+ - date published: 2024-01-06T08:56:21.590129+00:00
+ - user: None
+ - tags: []
 
 ## ToS Notify
  - [https://tosnotify.com](https://tosnotify.com)
@@ -4742,6 +5012,12 @@
  - user: None
  - tags: ['personal']
 
+## UIDesignDaily 4 years later, 1600 open-source designs
+ - [https://www.uidesigndaily.com](https://www.uidesigndaily.com)
+ - date published: 2024-01-06T21:06:08+00:00
+ - user: None
+ - tags: []
+
 ## The Ukiah Daily Journal
  - [https://www.ukiahdailyjournal.com](https://www.ukiahdailyjournal.com)
  - date published: 2023-12-25T07:19:03.498039+00:00
@@ -5726,281 +6002,4 @@
  - date published: 2023-10-25T17:56:33.453322+00:00
  - user: None
  - tags: []
-
-## Show HN: Unofficial YouTube Wrapped 2023, see top creators and watching habits
- - [https://videorecap.viewodyssey.com](https://videorecap.viewodyssey.com)
- - date published: 2023-12-01T18:26:03+00:00
- - user: None
- - tags: []
-
-## ViewStats – YouTube Channel Statistics
- - [https://www.viewstats.com](https://www.viewstats.com)
- - date published: 2023-12-18T11:44:54+00:00
- - user: None
- - tags: []
-
-## Vijay Prema - The Mindful Technologist
- - [https://vijayprema.com](https://vijayprema.com)
- - date published: 2023-10-25T17:56:35.803225+00:00
- - user: None
- - tags: []
-
-## Viksit Gaur | Viksit Gaur Online
- - [https://viksit.com](https://viksit.com)
- - date published: 2023-10-25T17:56:36.926186+00:00
- - user: None
- - tags: []
-
-## The Village Voice
- - [https://www.villagevoice.com](https://www.villagevoice.com)
- - date published: 2023-10-25T10:16:50.071015+00:00
- - user: None
- - tags: []
-
-## Learn VIM while playing a game - VIM Adventures
- - [https://vim-adventures.com](https://vim-adventures.com)
- - date published: 2023-10-25T17:56:39.100234+00:00
- - user: None
- - tags: []
-
-## Vimeo: Your videos deserve the best
- - [https://player.vimeo.com](https://player.vimeo.com)
- - date published: 2023-12-11T19:06:10.109935+00:00
- - user: None
- - tags: []
-
-## Vimeo Interactive Video Experience Platform
- - [https://vimeo.com](https://vimeo.com)
- - date published: 2023-10-24T20:05:51.950738+00:00
- - user: None
- - tags: ['video streaming']
-
-## Vim Ninja — Master Vim From Your Browser Through Interactive Exercises
- - [https://www.vimninja.com](https://www.vimninja.com)
- - date published: 2023-10-25T17:56:41.524655+00:00
- - user: None
- - tags: []
-
-## Vim Online Editor - Vim Editor In Browser
- - [https://www.vimonlineeditor.com](https://www.vimonlineeditor.com)
- - date published: 2023-10-25T17:56:42.379253+00:00
- - user: None
- - tags: []
-
-## vincelwt.com
- - [https://vincelwt.com](https://vincelwt.com)
- - date published: 2023-10-25T17:56:43.228366+00:00
- - user: None
- - tags: []
-
-## Home - Vineet Jobanputra
- - [https://vineetjobanputra.com](https://vineetjobanputra.com)
- - date published: 2023-11-29T14:20:23.850636+00:00
- - user: None
- - tags: ['personal']
-
-## Drinking Is Culture - Learn About Wine, Beer & Spirits | VinePair
- - [https://vinepair.com](https://vinepair.com)
- - date published: 2023-10-25T17:56:46.657755+00:00
- - user: None
- - tags: []
-
-## Home - VINnews
- - [https://vinnews.com](https://vinnews.com)
- - date published: 2023-11-01T20:48:03.267478+00:00
- - user: None
- - tags: []
-
-## Vinney Cavallo
- - [https://vinneycavallo.com](https://vinneycavallo.com)
- - date published: 2023-12-27T10:11:21.276832+00:00
- - user: None
- - tags: ['personal']
-
-## Vinography : A Wine Blog
- - [https://www.vinography.com](https://www.vinography.com)
- - date published: 2023-10-25T17:56:49.222659+00:00
- - user: None
- - tags: []
-
-## 2023 Vintage is The New Old Writer’s Contest Winners Announced - Vintage is The New Old
- - [https://www.vintageisthenewold.com](https://www.vintageisthenewold.com)
- - date published: 2023-10-27T14:44:52.922545+00:00
- - user: None
- - tags: ['amiga', 'retro games']
-
-## vinylrecorder, vinyl recorder, dubplate, phono, analog, single,
-    maxi, record, recording, directmastering, pressing, pressung, schallplatten
- - [https://www.vinylrecorder.com](https://www.vinylrecorder.com)
- - date published: 2023-10-25T17:56:49.670180+00:00
- - user: None
- - tags: []
-
-## Violeta Nedkova - Self-Publish Your Book Your Way
- - [https://violetanedkova.com](https://violetanedkova.com)
- - date published: 2023-12-27T18:13:05.043655+00:00
- - user: None
- - tags: ['personal']
-
-## About Vipul Shekhawat
- - [https://www.vipshek.com](https://www.vipshek.com)
- - date published: 2023-10-25T17:56:50.234660+00:00
- - user: None
- - tags: []
-
-## viralinstruction
- - [https://viralinstruction.com](https://viralinstruction.com)
- - date published: 2023-10-25T17:56:50.835332+00:00
- - user: None
- - tags: []
-
-## https://www.virginiamercury.com
- - [https://www.virginiamercury.com](https://www.virginiamercury.com)
- - date published: 2023-11-04T03:07:08.777366+00:00
- - user: None
- - tags: []
-
-## Virtualization Howto - Virtualization Networking Cloud Enterprise
- - [https://www.virtualizationhowto.com](https://www.virtualizationhowto.com)
- - date published: 2023-10-25T17:56:54.921265+00:00
- - user: None
- - tags: []
-
-## Virtually Fun | Fun with Virtualization
- - [https://virtuallyfun.com](https://virtuallyfun.com)
- - date published: 2023-10-25T17:57:25.943395+00:00
- - user: None
- - tags: []
-
-## Virtual Reality Oasis
- - [https://virtualrealityoasis.com](https://virtualrealityoasis.com)
- - date published: 2023-11-27T16:12:28+00:00
- - user: rumpel
- - tags: ['virtual reality']
-
-## Virtual Uncle - VR, XR, AR Curated News & Releases
- - [https://virtualuncle.com](https://virtualuncle.com)
- - date published: 2023-10-25T17:57:29.714238+00:00
- - user: None
- - tags: ['tech news', 'virtual reality']
-
-## Vishnu Menon
- - [https://vishnumenon.com](https://vishnumenon.com)
- - date published: 2023-10-25T08:48:21.110375+00:00
- - user: None
- - tags: ['personal']
-
-## The Visionary CTO | Matt Watson | Substack
- - [https://blog.visionarycto.com](https://blog.visionarycto.com)
- - date published: 2023-10-25T17:57:32.350119+00:00
- - user: None
- - tags: []
-
-## Sweden – a destination <br>of a different nature
- - [https://visitsweden.com](https://visitsweden.com)
- - date published: 2023-10-29T13:00:54.024158+00:00
- - user: None
- - tags: []
-
-## Visual Fonts – Type Good Pictures
- - [https://visual-fonts.com](https://visual-fonts.com)
- - date published: 2023-10-25T17:57:36.728693+00:00
- - user: None
- - tags: []
-
-## Visual Capitalist
- - [https://www.visualcapitalist.com](https://www.visualcapitalist.com)
- - date published: 2023-10-25T10:39:33.539082+00:00
- - user: None
- - tags: []
-
-## VisualPDE | Interactive live solutions of PDE systems, right on your device
- - [https://visualpde.com](https://visualpde.com)
- - date published: 2023-10-25T17:57:37.518948+00:00
- - user: None
- - tags: []
-
-## Visual Studio Code - Code Editing. Redefined
- - [https://code.visualstudio.com](https://code.visualstudio.com)
- - date published: 2023-10-25T17:57:39.109407+00:00
- - user: None
- - tags: ['ide', 'visual studio']
-
-## Developer Community
- - [https://developercommunity.visualstudio.com](https://developercommunity.visualstudio.com)
- - date published: 2023-10-25T17:57:41.357962+00:00
- - user: None
- - tags: []
-
-## Visual Studio Magazine Home -- Visual Studio Magazine
- - [https://visualstudiomagazine.com](https://visualstudiomagazine.com)
- - date published: 2023-10-25T17:57:48.493438+00:00
- - user: None
- - tags: []
-
-## Viswagyan -
- - [https://viswagyan.com](https://viswagyan.com)
- - date published: 2023-12-30T09:16:45.834804+00:00
- - user: None
- - tags: []
-
-## None
- - [https://now.vitalyobukhov.com](https://now.vitalyobukhov.com)
- - date published: 2023-12-20T21:32:00.927597+00:00
- - user: None
- - tags: ['personal']
-
-## vite-plugin-ssr
- - [https://vite-plugin-ssr.com](https://vite-plugin-ssr.com)
- - date published: 2023-10-25T17:57:51.712020+00:00
- - user: None
- - tags: []
-
-## Vivaldi Browser | Powerful, Personal and Private web browser
- - [https://vivaldi.com](https://vivaldi.com)
- - date published: 2023-10-25T08:40:37.885818+00:00
- - user: None
- - tags: []
-
-## Vivek Haldar
- - [https://blog.vivekhaldar.com](https://blog.vivekhaldar.com)
- - date published: 2023-10-25T17:57:53.859667+00:00
- - user: None
- - tags: []
-
-## Vivek Panyam
- - [https://blog.vivekpanyam.com](https://blog.vivekpanyam.com)
- - date published: 2023-12-29T22:49:51.039108+00:00
- - user: None
- - tags: []
-
-## Vivid Maps - Maps that explain the World
- - [https://vividmaps.com](https://vividmaps.com)
- - date published: 2023-10-25T17:57:56.121309+00:00
- - user: None
- - tags: []
-
-## Vivian Qu
- - [https://vivqu.com](https://vivqu.com)
- - date published: 2023-10-25T17:57:56.937671+00:00
- - user: None
- - tags: []
-
-## VIZ: The Best in Manga, Anime & Global Entertainment
- - [https://www.viz.com](https://www.viz.com)
- - date published: 2023-10-31T15:37:59.527773+00:00
- - user: None
- - tags: []
-
-## Summer Afternoon
- - [https://summer-afternoon.vlucendo.com](https://summer-afternoon.vlucendo.com)
- - date published: 2023-10-25T17:57:57.354906+00:00
- - user: None
- - tags: []
-
-## VMware News & Stories
- - [https://news.vmware.com](https://news.vmware.com)
- - date published: 2023-12-12T22:18:12.429315+00:00
- - user: None
- - tags: ['virtualization']
 

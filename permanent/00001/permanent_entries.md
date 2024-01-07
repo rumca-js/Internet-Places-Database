@@ -1,3 +1,39 @@
+## GlyphDrawing.Club -blog
+ - [https://blog.glyphdrawing.club](https://blog.glyphdrawing.club)
+ - date published: 2023-11-01T08:41:29.882135+00:00
+ - user: None
+ - tags: []
+
+## Home | J-Novel Club
+ - [https://j-novel.club](https://j-novel.club)
+ - date published: 2023-10-30T23:18:51.751078+00:00
+ - user: None
+ - tags: []
+
+## Kinopio – Thinking Canvas
+ - [https://kinopio.club](https://kinopio.club)
+ - date published: 2023-10-25T12:15:55.482462+00:00
+ - user: None
+ - tags: []
+
+## No CSS Club
+ - [https://nocss.club](https://nocss.club)
+ - date published: 2023-10-25T12:15:57.723517+00:00
+ - user: None
+ - tags: []
+
+## Peer Video Club
+ - [https://peervideo.club](https://peervideo.club)
+ - date published: 2023-10-25T11:43:55.275907+00:00
+ - user: None
+ - tags: []
+
+## rawtext.club
+ - [https://rawtext.club](https://rawtext.club)
+ - date published: 2023-10-25T12:15:59.378026+00:00
+ - user: None
+ - tags: []
+
 ## Roguelike Celebration
  - [https://www.roguelike.club](https://www.roguelike.club)
  - date published: 2023-10-25T12:16:02.060980+00:00
@@ -405,6 +441,12 @@
  - date published: 2023-11-29T14:54:22.955893+00:00
  - user: None
  - tags: ['personal']
+
+## Inderpreet Singh | software engineer
+ - [https://www.inderpreetsingh.co](https://www.inderpreetsingh.co)
+ - date published: 2024-01-06T17:39:46.195482+00:00
+ - user: None
+ - tags: []
 
 ## Izzy Miller
  - [https://www.izzy.co](https://www.izzy.co)
@@ -1540,6 +1582,12 @@
  - user: None
  - tags: []
 
+## None
+ - [https://www.aaronbuxbaum.com](https://www.aaronbuxbaum.com)
+ - date published: 2024-01-06T05:37:26.107018+00:00
+ - user: None
+ - tags: []
+
 ## Aaron Francis
  - [https://aaronfrancis.com](https://aaronfrancis.com)
  - date published: 2023-12-14T01:19:19.905292+00:00
@@ -2146,6 +2194,12 @@
  - user: None
  - tags: []
 
+## Home - Adventure Hermit Travel
+ - [https://adventurehermit.com](https://adventurehermit.com)
+ - date published: 2024-01-06T08:54:27.239976+00:00
+ - user: None
+ - tags: []
+
 ## Adventures Of A Freelance Yuppy
  - [https://www.adventuresofafreelanceyuppy.com](https://www.adventuresofafreelanceyuppy.com)
  - date published: 2024-01-02T03:36:00.456254+00:00
@@ -2551,6 +2605,12 @@
 ## AI Weirdness
  - [https://www.aiweirdness.com](https://www.aiweirdness.com)
  - date published: 2023-10-25T12:36:54.679172+00:00
+ - user: None
+ - tags: []
+
+## Ajay Rajani
+ - [https://www.ajayrajani.com](https://www.ajayrajani.com)
+ - date published: 2024-01-06T17:58:15.245405+00:00
  - user: None
  - tags: []
 
@@ -3688,6 +3748,12 @@
  - user: None
  - tags: ['personal']
 
+## Anggriawan Sugianto
+ - [https://blog.anggriawan.com](https://blog.anggriawan.com)
+ - date published: 2024-01-06T08:53:34.572563+00:00
+ - user: None
+ - tags: []
+
 ## AngleLock Extruded Aluminum Framing | Beats T-Slots & Steel
  - [https://anglelock.com](https://anglelock.com)
  - date published: 2023-11-01T11:38:19.728459+00:00
@@ -3751,6 +3817,12 @@
 ## Home - Animevania
  - [https://animevania.com](https://animevania.com)
  - date published: 2023-10-25T15:05:06.667869+00:00
+ - user: None
+ - tags: []
+
+## Anish Athalye
+ - [https://anishathalye.com](https://anishathalye.com)
+ - date published: 2024-01-06T23:46:34.927004+00:00
  - user: None
  - tags: []
 
@@ -5923,78 +5995,6 @@
 ## Just Ship It | Newsletter for Solopreneurs
  - [https://marclou.beehiiv.com](https://marclou.beehiiv.com)
  - date published: 2023-12-23T17:08:36.935130+00:00
- - user: None
- - tags: []
-
-## Open Source Watch
- - [https://opensourcewatch.beehiiv.com](https://opensourcewatch.beehiiv.com)
- - date published: 2023-10-25T12:56:25.295654+00:00
- - user: None
- - tags: []
-
-## Statecraft
- - [https://statecraft.beehiiv.com](https://statecraft.beehiiv.com)
- - date published: 2023-10-25T12:56:29.279394+00:00
- - user: None
- - tags: []
-
-## The Disruptors
- - [https://thedisruptors.beehiiv.com](https://thedisruptors.beehiiv.com)
- - date published: 2023-10-25T12:56:33.285763+00:00
- - user: None
- - tags: []
-
-## https://blog.beeper.com
- - [https://blog.beeper.com](https://blog.beeper.com)
- - date published: 2023-12-05T15:26:45.775261+00:00
- - user: None
- - tags: []
-
-## Show HN: Beeper Mini – iMessage Client for Android
- - [https://www.beeper.com](https://www.beeper.com)
- - date published: 2023-12-05T15:06:21+00:00
- - user: None
- - tags: []
-
-## befores & afters - VFX magazine
- - [https://beforesandafters.com](https://beforesandafters.com)
- - date published: 2023-10-25T12:56:37.675468+00:00
- - user: None
- - tags: []
-
-## Begin — The Cloud Platform for Functional Web Apps
- - [https://begin.com](https://begin.com)
- - date published: 2023-10-25T12:56:41.405376+00:00
- - user: None
- - tags: []
-
-## Belay the C++ – A blog talking about (usually bad) practices in C++
- - [https://belaycpp.com](https://belaycpp.com)
- - date published: 2023-10-25T12:56:44.895499+00:00
- - user: None
- - tags: []
-
-## Belkadan Software
- - [https://belkadan.com](https://belkadan.com)
- - date published: 2023-10-25T12:56:48.049005+00:00
- - user: None
- - tags: []
-
-## Nokia Bell Labs - Nokia Bell Labs
- - [https://www.bell-labs.com](https://www.bell-labs.com)
- - date published: 2023-10-25T12:56:49.854172+00:00
- - user: None
- - tags: []
-
-## bellingcat - the home of online investigations
- - [https://www.bellingcat.com](https://www.bellingcat.com)
- - date published: 2023-11-05T19:13:31.558970+00:00
- - user: None
- - tags: []
-
-## Electric and Automatic Commercial Coffee Roaster | Bellwether Coffee
- - [https://bellwethercoffee.com](https://bellwethercoffee.com)
- - date published: 2023-10-25T12:56:52.055674+00:00
  - user: None
  - tags: []
 

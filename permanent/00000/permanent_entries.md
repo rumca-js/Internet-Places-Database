@@ -820,6 +820,12 @@
  - user: None
  - tags: []
 
+## Nitro: A fast, lightweight 3MB inference server with OpenAI-Compatible API
+ - [https://nitro.jan.ai](https://nitro.jan.ai)
+ - date published: 2024-01-06T01:50:14+00:00
+ - user: None
+ - tags: []
+
 ## Jina AI - Your Portal to Multimodal AI
  - [https://jina.ai](https://jina.ai)
  - date published: 2023-10-25T11:39:32.941807+00:00
@@ -2101,6 +2107,12 @@
 ## Reproof | The collaborate writing app for creativity.
  - [https://www.reproof.app](https://www.reproof.app)
  - date published: 2023-10-25T11:48:57.280169+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Seedling – A Decentralised Medium
+ - [https://seedling-d.app](https://seedling-d.app)
+ - date published: 2024-01-05T22:54:58+00:00
  - user: None
  - tags: []
 
@@ -4223,6 +4235,12 @@
  - user: None
  - tags: []
 
+## Brad Hussey - Start a Business as a Freelancer, Coach or Consultant
+ - [https://www.bradhussey.ca](https://www.bradhussey.ca)
+ - date published: 2024-01-06T17:58:08.994162+00:00
+ - user: None
+ - tags: []
+
 ## The Breach
  - [https://breachmedia.ca](https://breachmedia.ca)
  - date published: 2023-10-25T12:04:07.809857+00:00
@@ -5111,6 +5129,12 @@
  - user: None
  - tags: []
 
+## Classics in the History of Psychology
+ - [https://psychclassics.yorku.ca](https://psychclassics.yorku.ca)
+ - date published: 2024-01-06T17:40:41.073576+00:00
+ - user: None
+ - tags: []
+
 ## York University | Right the Future
  - [https://www.yorku.ca](https://www.yorku.ca)
  - date published: 2023-12-17T16:44:20.911714+00:00
@@ -5598,6 +5622,12 @@
  - user: None
  - tags: ['personal']
 
+## Frank Renold
+ - [https://frankrenold.ch](https://frankrenold.ch)
+ - date published: 2024-01-06T08:53:55.074747+00:00
+ - user: None
+ - tags: []
+
 ## GalaSoft Laurent Bugnion - On Azure
  - [https://galasoft.ch](https://galasoft.ch)
  - date published: 2023-10-25T09:03:11.978072+00:00
@@ -5751,6 +5781,12 @@
 ## Varun Biniwale
  - [https://varun.ch](https://varun.ch)
  - date published: 2023-10-25T12:14:56.634948+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [https://maps.vasile.ch](https://maps.vasile.ch)
+ - date published: 2024-01-06T15:09:24.331662+00:00
  - user: None
  - tags: []
 
@@ -5961,42 +5997,6 @@
 ## carhenge.club
  - [https://carhenge.club](https://carhenge.club)
  - date published: 2023-10-25T12:15:54.088553+00:00
- - user: None
- - tags: []
-
-## GlyphDrawing.Club -blog
- - [https://blog.glyphdrawing.club](https://blog.glyphdrawing.club)
- - date published: 2023-11-01T08:41:29.882135+00:00
- - user: None
- - tags: []
-
-## Home | J-Novel Club
- - [https://j-novel.club](https://j-novel.club)
- - date published: 2023-10-30T23:18:51.751078+00:00
- - user: None
- - tags: []
-
-## Kinopio – Thinking Canvas
- - [https://kinopio.club](https://kinopio.club)
- - date published: 2023-10-25T12:15:55.482462+00:00
- - user: None
- - tags: []
-
-## No CSS Club
- - [https://nocss.club](https://nocss.club)
- - date published: 2023-10-25T12:15:57.723517+00:00
- - user: None
- - tags: []
-
-## Peer Video Club
- - [https://peervideo.club](https://peervideo.club)
- - date published: 2023-10-25T11:43:55.275907+00:00
- - user: None
- - tags: []
-
-## rawtext.club
- - [https://rawtext.club](https://rawtext.club)
- - date published: 2023-10-25T12:15:59.378026+00:00
  - user: None
  - tags: []
 
