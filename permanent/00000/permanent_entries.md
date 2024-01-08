@@ -1984,6 +1984,12 @@
  - user: None
  - tags: []
 
+## Show HN: I made an app that consolidated 18 apps (doc, sheet, form, site, chat…)
+ - [https://nino.app](https://nino.app)
+ - date published: 2024-01-07T14:34:46+00:00
+ - user: None
+ - tags: []
+
 ## Nordot | ノアドット株式会社
  - [https://nordot.app](https://nordot.app)
  - date published: 2023-10-25T11:48:00.245663+00:00
@@ -2311,6 +2317,12 @@
 ## Hello Luna
  - [https://luna-demo.vercel.app](https://luna-demo.vercel.app)
  - date published: 2023-10-25T08:36:44.066507+00:00
+ - user: None
+ - tags: []
+
+## Martin di Martino-Marriott | Front-end Web Developer, Nottingham
+ - [https://martindm-uk.vercel.app](https://martindm-uk.vercel.app)
+ - date published: 2024-01-07T17:48:29.845931+00:00
  - user: None
  - tags: []
 
@@ -2740,6 +2752,12 @@
  - user: None
  - tags: []
 
+## Andrew Bayliss - Mav3rik | LinkedIn
+ - [https://www.andrewbayliss.com.au](https://www.andrewbayliss.com.au)
+ - date published: 2024-01-07T08:44:51.422537+00:00
+ - user: None
+ - tags: []
+
 ## Australian Geographic -
  - [https://www.australiangeographic.com.au](https://www.australiangeographic.com.au)
  - date published: 2023-10-25T11:54:05.753030+00:00
@@ -2815,6 +2833,12 @@
 ## iTnews - For Australian Business
  - [https://www.itnews.com.au](https://www.itnews.com.au)
  - date published: 2023-10-25T11:55:13.545067+00:00
+ - user: None
+ - tags: []
+
+## Jonathon Holmes | Sydney Piano Man & Composer
+ - [https://www.jonathonholmes.com.au](https://www.jonathonholmes.com.au)
+ - date published: 2024-01-07T04:15:01.779496+00:00
  - user: None
  - tags: []
 
@@ -3502,6 +3526,12 @@
  - user: None
  - tags: []
 
+## Brian Birtles’ Blog
+ - [https://birtles.blog](https://birtles.blog)
+ - date published: 2024-01-07T12:52:11.923527+00:00
+ - user: None
+ - tags: []
+
 ## Book Confidential - Libri, storie e maestri
  - [https://www.bookconfidential.blog](https://www.bookconfidential.blog)
  - date published: 2023-12-30T05:22:55.385833+00:00
@@ -3707,6 +3737,12 @@
  - user: None
  - tags: ['personal']
 
+## joshua johnson – learn more. know less.
+ - [https://joshj.blog](https://joshj.blog)
+ - date published: 2024-01-07T17:48:58.133412+00:00
+ - user: None
+ - tags: []
+
 ## json.blog
  - [https://json.blog](https://json.blog)
  - date published: 2023-11-29T17:16:21.010658+00:00
@@ -3784,6 +3820,12 @@
  - date published: 2023-10-25T09:39:20.899129+00:00
  - user: None
  - tags: ['substack']
+
+## notizBlog
+ - [https://notiz.blog](https://notiz.blog)
+ - date published: 2024-01-07T08:45:39.431652+00:00
+ - user: None
+ - tags: []
 
 ## Oh Hello Ana
  - [https://ohhelloana.blog](https://ohhelloana.blog)
@@ -5955,48 +5997,6 @@
 ## AI Art Gallery - SINTEF
  - [https://ai-art-gallery.sintef.cloud](https://ai-art-gallery.sintef.cloud)
  - date published: 2023-10-25T12:15:38.861088+00:00
- - user: None
- - tags: []
-
-## Unum | Scaling Intelligence
- - [https://www.unum.cloud](https://www.unum.cloud)
- - date published: 2023-10-25T12:15:40.179031+00:00
- - user: None
- - tags: []
-
-## Valetudo – Cloud replacement for vacuum robots enabling local-only operation
- - [https://valetudo.cloud](https://valetudo.cloud)
- - date published: 2023-12-27T23:51:24+00:00
- - user: None
- - tags: []
-
-## Azerbaijan Cloud Service Provider - YER Hosted Service Provider (xSP)
- - [https://yer.cloud](https://yer.cloud)
- - date published: 2023-10-25T12:15:42.985430+00:00
- - user: None
- - tags: []
-
-## anti software software club
- - [https://antisoftware.club](https://antisoftware.club)
- - date published: 2023-10-25T12:15:45.612327+00:00
- - user: None
- - tags: []
-
-## Big Feels Club
- - [https://www.bigfeels.club](https://www.bigfeels.club)
- - date published: 2023-10-25T12:15:50.350658+00:00
- - user: None
- - tags: []
-
-## Choose Boring Technology
- - [https://boringtechnology.club](https://boringtechnology.club)
- - date published: 2023-10-25T12:15:52.028418+00:00
- - user: None
- - tags: []
-
-## carhenge.club
- - [https://carhenge.club](https://carhenge.club)
- - date published: 2023-10-25T12:15:54.088553+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,75 @@
+## Becker's Hospital Review - Healthcare News
+ - [https://www.beckershospitalreview.com](https://www.beckershospitalreview.com)
+ - date published: 2023-10-25T12:55:13.587124+00:00
+ - user: None
+ - tags: []
+
+## Ben Edelstein
+ - [https://www.bedelstein.com](https://www.bedelstein.com)
+ - date published: 2023-10-25T12:55:18.081066+00:00
+ - user: None
+ - tags: []
+
+## Ben's Bites
+ - [https://bensbites.beehiiv.com](https://bensbites.beehiiv.com)
+ - date published: 2023-10-25T12:55:28.977663+00:00
+ - user: None
+ - tags: []
+
+## But What For?
+ - [https://butwhatfor.beehiiv.com](https://butwhatfor.beehiiv.com)
+ - date published: 2023-10-25T12:55:34.496023+00:00
+ - user: None
+ - tags: []
+
+## Easily Amused
+ - [https://easilyamused.beehiiv.com](https://easilyamused.beehiiv.com)
+ - date published: 2023-10-25T12:55:37.997353+00:00
+ - user: None
+ - tags: []
+
+## FOSS Weekly
+ - [https://fossweekly.beehiiv.com](https://fossweekly.beehiiv.com)
+ - date published: 2023-10-25T12:55:43.086938+00:00
+ - user: None
+ - tags: []
+
+## Health Brief
+ - [https://healthbrief.beehiiv.com](https://healthbrief.beehiiv.com)
+ - date published: 2023-11-15T09:58:50.981130+00:00
+ - user: None
+ - tags: []
+
+## IdeaHub
+ - [https://ideahub.beehiiv.com](https://ideahub.beehiiv.com)
+ - date published: 2023-10-25T12:55:48.185995+00:00
+ - user: None
+ - tags: []
+
+## One Thing Better
+ - [https://jasonfeifer.beehiiv.com](https://jasonfeifer.beehiiv.com)
+ - date published: 2023-10-25T12:55:54.736691+00:00
+ - user: None
+ - tags: []
+
+## LeanerCloud News
+ - [https://leanercloud.beehiiv.com](https://leanercloud.beehiiv.com)
+ - date published: 2023-10-25T12:56:04.212888+00:00
+ - user: None
+ - tags: []
+
+## The Lindy Newsletter
+ - [https://lindynewsletter.beehiiv.com](https://lindynewsletter.beehiiv.com)
+ - date published: 2023-10-25T12:56:19.031748+00:00
+ - user: None
+ - tags: []
+
+## Just Ship It | Newsletter for Solopreneurs
+ - [https://marclou.beehiiv.com](https://marclou.beehiiv.com)
+ - date published: 2023-12-23T17:08:36.935130+00:00
+ - user: None
+ - tags: []
+
 ## Open Source Watch
  - [https://opensourcewatch.beehiiv.com](https://opensourcewatch.beehiiv.com)
  - date published: 2023-10-25T12:56:25.295654+00:00
@@ -544,6 +616,12 @@
  - user: None
  - tags: []
 
+## BMC Genomic Data
+ - [https://bmcgenomdata.biomedcentral.com](https://bmcgenomdata.biomedcentral.com)
+ - date published: 2024-01-07T13:46:51.957931+00:00
+ - user: None
+ - tags: []
+
 ## BMC Medicine | Home page
  - [https://bmcmedicine.biomedcentral.com](https://bmcmedicine.biomedcentral.com)
  - date published: 2023-10-25T13:00:29.613132+00:00
@@ -934,6 +1012,12 @@
  - user: None
  - tags: []
 
+## https://blendorsefaj.com
+ - [https://blendorsefaj.com](https://blendorsefaj.com)
+ - date published: 2024-01-07T11:03:03.360613+00:00
+ - user: None
+ - tags: []
+
 ## bleuje
  - [https://bleuje.com](https://bleuje.com)
  - date published: 2023-10-25T13:04:35.313268+00:00
@@ -1009,6 +1093,12 @@
 ## Blockade Labs Skybox - AI-Generated 3D Worlds
  - [https://skybox.blockadelabs.com](https://skybox.blockadelabs.com)
  - date published: 2023-10-25T13:04:48.005443+00:00
+ - user: None
+ - tags: []
+
+## Blockchain.com | Be early to the future of finance
+ - [https://www.blockchain.com](https://www.blockchain.com)
+ - date published: 2024-01-07T11:17:18.108682+00:00
  - user: None
  - tags: []
 
@@ -2974,6 +3064,12 @@
  - user: None
  - tags: []
 
+## 国产色午夜,国产97色在线|日韩,在线观看91精品国产剧情免费,国产高清美女**毛片久久w-91porn
+ - [https://calicogoodrich.com](https://calicogoodrich.com)
+ - date published: 2024-01-07T22:19:51.485604+00:00
+ - user: None
+ - tags: []
+
 ## California18
  - [https://california18.com](https://california18.com)
  - date published: 2023-11-26T13:31:09.723420+00:00
@@ -3679,6 +3775,12 @@
 ## Carlos Fenollosa
  - [https://cfenollosa.com](https://cfenollosa.com)
  - date published: 2023-10-25T13:20:11.729770+00:00
+ - user: None
+ - tags: []
+
+## CGTN | Breaking News, China News, World News and Video
+ - [https://news.cgtn.com](https://news.cgtn.com)
+ - date published: 2024-01-07T17:51:31.615627+00:00
  - user: None
  - tags: []
 
@@ -5906,106 +6008,4 @@
  - date published: 2023-10-25T11:30:06.549087+00:00
  - user: None
  - tags: []
-
-## https://www.crackle.com/
- - [https://www.crackle.com](https://www.crackle.com)
- - date published: 2023-12-02T13:09:15+00:00
- - user: rumpel
- - tags: ['video streaming', 'sony']
-
-## Craft By Zen
- - [https://craftbyzen.com](https://craftbyzen.com)
- - date published: 2023-12-01T10:46:52.645405+00:00
- - user: None
- - tags: ['personal']
-
-## Crafting Interpreters
- - [https://craftinginterpreters.com](https://craftinginterpreters.com)
- - date published: 2023-10-25T13:35:46.078108+00:00
- - user: None
- - tags: []
-
-## Craftknights - Learn everything about making stuff!
- - [https://craftknights.com](https://craftknights.com)
- - date published: 2023-11-01T18:24:33.898439+00:00
- - user: None
- - tags: ['sculpting', '3d printing', 'laser cutting', 'hobby']
-
-## Home - The Miniature Engineering Craftsmanship Museum
- - [https://craftsmanshipmuseum.com](https://craftsmanshipmuseum.com)
- - date published: 2023-10-25T13:35:51.492729+00:00
- - user: None
- - tags: ['miniatures', 'museum']
-
-## About - Craig Hamill
- - [https://www.craighamill.com](https://www.craighamill.com)
- - date published: 2023-12-08T08:32:40.633348+00:00
- - user: None
- - tags: ['personal']
-
-## Craig Jamieson
- - [https://craigjamieson.com](https://craigjamieson.com)
- - date published: 2024-01-04T01:13:41.821076+00:00
- - user: None
- - tags: []
-
-## Craig Kerstiens - Craig Kerstiens
- - [https://www.craigkerstiens.com](https://www.craigkerstiens.com)
- - date published: 2023-10-25T13:35:55.760012+00:00
- - user: None
- - tags: []
-
-## Craig Mod — Writer + Photographer
- - [https://craigmod.com](https://craigmod.com)
- - date published: 2023-10-25T13:35:58.813306+00:00
- - user: None
- - tags: []
-
-## None
- - [https://craigwickesser.com](https://craigwickesser.com)
- - date published: 2023-12-27T18:11:54.496669+00:00
- - user: None
- - tags: ['personal']
-
-## https://www.crainsdetroit.com
- - [https://www.crainsdetroit.com](https://www.crainsdetroit.com)
- - date published: 2023-10-25T13:35:59.149433+00:00
- - user: None
- - tags: []
-
-## Cranky Flier – An Airline Industry Blog
- - [https://crankyflier.com](https://crankyflier.com)
- - date published: 2023-10-25T13:36:04.780743+00:00
- - user: None
- - tags: []
-
-## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [https://craphound.com](https://craphound.com)
- - date published: 2023-11-28T07:36:32+00:00
- - user: rumpel
- - tags: []
-
-## Cory Doctorow's MEMEX – Proto-Hypertext Memory Expander
- - [https://memex.craphound.com](https://memex.craphound.com)
- - date published: 2023-10-25T13:36:08.888784+00:00
- - user: None
- - tags: []
-
-## Free Online Games on CrazyGames 🎮 Play Now!
- - [https://www.crazygames.com](https://www.crazygames.com)
- - date published: 2023-10-25T11:08:35.067413+00:00
- - user: None
- - tags: ['games']
-
-## The Costa Rica Daily: Costa Rica News & Travel | Alejandro Zúñiga | Substack
- - [https://www.crcdaily.com](https://www.crcdaily.com)
- - date published: 2023-10-25T13:36:13.040529+00:00
- - user: None
- - tags: []
-
-## CREALITY - Official Website, Leading 3D Printer Supplier & Manufacturer
- - [https://www.creality.com](https://www.creality.com)
- - date published: 2023-10-25T14:20:55.995211+00:00
- - user: None
- - tags: ['3d printing']
 

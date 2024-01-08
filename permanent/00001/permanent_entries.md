@@ -1,3 +1,45 @@
+## Unum | Scaling Intelligence
+ - [https://www.unum.cloud](https://www.unum.cloud)
+ - date published: 2023-10-25T12:15:40.179031+00:00
+ - user: None
+ - tags: []
+
+## Valetudo – Cloud replacement for vacuum robots enabling local-only operation
+ - [https://valetudo.cloud](https://valetudo.cloud)
+ - date published: 2023-12-27T23:51:24+00:00
+ - user: None
+ - tags: []
+
+## Azerbaijan Cloud Service Provider - YER Hosted Service Provider (xSP)
+ - [https://yer.cloud](https://yer.cloud)
+ - date published: 2023-10-25T12:15:42.985430+00:00
+ - user: None
+ - tags: []
+
+## anti software software club
+ - [https://antisoftware.club](https://antisoftware.club)
+ - date published: 2023-10-25T12:15:45.612327+00:00
+ - user: None
+ - tags: []
+
+## Big Feels Club
+ - [https://www.bigfeels.club](https://www.bigfeels.club)
+ - date published: 2023-10-25T12:15:50.350658+00:00
+ - user: None
+ - tags: []
+
+## Choose Boring Technology
+ - [https://boringtechnology.club](https://boringtechnology.club)
+ - date published: 2023-10-25T12:15:52.028418+00:00
+ - user: None
+ - tags: []
+
+## carhenge.club
+ - [https://carhenge.club](https://carhenge.club)
+ - date published: 2023-10-25T12:15:54.088553+00:00
+ - user: None
+ - tags: []
+
 ## GlyphDrawing.Club -blog
  - [https://blog.glyphdrawing.club](https://blog.glyphdrawing.club)
  - date published: 2023-11-01T08:41:29.882135+00:00
@@ -1972,6 +2014,12 @@
  - user: None
  - tags: []
 
+## Adam Albrecht - Full Stack Developer in Columbus, Ohio
+ - [https://www.adamalbrecht.com](https://www.adamalbrecht.com)
+ - date published: 2024-01-07T04:14:41.712373+00:00
+ - user: None
+ - tags: []
+
 ## http://adamard.com
  - [http://adamard.com](http://adamard.com)
  - date published: 2023-10-25T12:31:59.675953+00:00
@@ -3778,6 +3826,12 @@
  - user: None
  - tags: []
 
+## anhudy
+ - [https://www.anhudy.com](https://www.anhudy.com)
+ - date published: 2024-01-07T22:19:29.002878+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://www.anichexperience.com](https://www.anichexperience.com)
  - date published: 2023-11-29T16:22:28.621282+00:00
@@ -3855,6 +3909,12 @@
  - date published: 2023-11-29T14:19:05.513902+00:00
  - user: None
  - tags: ['personal']
+
+## About - Ann Pierce
+ - [https://www.annpierce.com](https://www.annpierce.com)
+ - date published: 2024-01-07T17:49:18.703215+00:00
+ - user: None
+ - tags: []
 
 ## Homesteading Off The Grid| An Off Grid Life
  - [https://www.anoffgridlife.com](https://www.anoffgridlife.com)
@@ -4075,6 +4135,12 @@
 ## Streamlining APIs, Databases, & Microservices | Apollo GraphQL
  - [https://www.apollographql.com](https://www.apollographql.com)
  - date published: 2023-10-25T12:42:38.687177+00:00
+ - user: None
+ - tags: []
+
+## Aporia | Substack
+ - [https://www.aporiamagazine.com](https://www.aporiamagazine.com)
+ - date published: 2024-01-07T01:07:08.817139+00:00
  - user: None
  - tags: []
 
@@ -4515,6 +4581,12 @@
  - date published: 2023-10-25T11:27:17.516393+00:00
  - user: None
  - tags: ['semiconductors']
+
+## Armantas Zvirgzdas
+ - [https://armantas.com](https://armantas.com)
+ - date published: 2024-01-07T11:03:45.565786+00:00
+ - user: None
+ - tags: []
 
 ## Armin van Buuren
  - [https://www.arminvanbuuren.com](https://www.arminvanbuuren.com)
@@ -5923,78 +5995,6 @@
 ## Becker News - Truly Independent Journalism.
  - [https://beckernews.com](https://beckernews.com)
  - date published: 2023-10-25T12:55:06.516634+00:00
- - user: None
- - tags: []
-
-## Becker's Hospital Review - Healthcare News
- - [https://www.beckershospitalreview.com](https://www.beckershospitalreview.com)
- - date published: 2023-10-25T12:55:13.587124+00:00
- - user: None
- - tags: []
-
-## Ben Edelstein
- - [https://www.bedelstein.com](https://www.bedelstein.com)
- - date published: 2023-10-25T12:55:18.081066+00:00
- - user: None
- - tags: []
-
-## Ben's Bites
- - [https://bensbites.beehiiv.com](https://bensbites.beehiiv.com)
- - date published: 2023-10-25T12:55:28.977663+00:00
- - user: None
- - tags: []
-
-## But What For?
- - [https://butwhatfor.beehiiv.com](https://butwhatfor.beehiiv.com)
- - date published: 2023-10-25T12:55:34.496023+00:00
- - user: None
- - tags: []
-
-## Easily Amused
- - [https://easilyamused.beehiiv.com](https://easilyamused.beehiiv.com)
- - date published: 2023-10-25T12:55:37.997353+00:00
- - user: None
- - tags: []
-
-## FOSS Weekly
- - [https://fossweekly.beehiiv.com](https://fossweekly.beehiiv.com)
- - date published: 2023-10-25T12:55:43.086938+00:00
- - user: None
- - tags: []
-
-## Health Brief
- - [https://healthbrief.beehiiv.com](https://healthbrief.beehiiv.com)
- - date published: 2023-11-15T09:58:50.981130+00:00
- - user: None
- - tags: []
-
-## IdeaHub
- - [https://ideahub.beehiiv.com](https://ideahub.beehiiv.com)
- - date published: 2023-10-25T12:55:48.185995+00:00
- - user: None
- - tags: []
-
-## One Thing Better
- - [https://jasonfeifer.beehiiv.com](https://jasonfeifer.beehiiv.com)
- - date published: 2023-10-25T12:55:54.736691+00:00
- - user: None
- - tags: []
-
-## LeanerCloud News
- - [https://leanercloud.beehiiv.com](https://leanercloud.beehiiv.com)
- - date published: 2023-10-25T12:56:04.212888+00:00
- - user: None
- - tags: []
-
-## The Lindy Newsletter
- - [https://lindynewsletter.beehiiv.com](https://lindynewsletter.beehiiv.com)
- - date published: 2023-10-25T12:56:19.031748+00:00
- - user: None
- - tags: []
-
-## Just Ship It | Newsletter for Solopreneurs
- - [https://marclou.beehiiv.com](https://marclou.beehiiv.com)
- - date published: 2023-12-23T17:08:36.935130+00:00
  - user: None
  - tags: []
 

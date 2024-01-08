@@ -1,3 +1,105 @@
+## https://www.crackle.com/
+ - [https://www.crackle.com](https://www.crackle.com)
+ - date published: 2023-12-02T13:09:15+00:00
+ - user: rumpel
+ - tags: ['video streaming', 'sony']
+
+## Craft By Zen
+ - [https://craftbyzen.com](https://craftbyzen.com)
+ - date published: 2023-12-01T10:46:52.645405+00:00
+ - user: None
+ - tags: ['personal']
+
+## Crafting Interpreters
+ - [https://craftinginterpreters.com](https://craftinginterpreters.com)
+ - date published: 2023-10-25T13:35:46.078108+00:00
+ - user: None
+ - tags: []
+
+## Craftknights - Learn everything about making stuff!
+ - [https://craftknights.com](https://craftknights.com)
+ - date published: 2023-11-01T18:24:33.898439+00:00
+ - user: None
+ - tags: ['sculpting', '3d printing', 'laser cutting', 'hobby']
+
+## Home - The Miniature Engineering Craftsmanship Museum
+ - [https://craftsmanshipmuseum.com](https://craftsmanshipmuseum.com)
+ - date published: 2023-10-25T13:35:51.492729+00:00
+ - user: None
+ - tags: ['miniatures', 'museum']
+
+## About - Craig Hamill
+ - [https://www.craighamill.com](https://www.craighamill.com)
+ - date published: 2023-12-08T08:32:40.633348+00:00
+ - user: None
+ - tags: ['personal']
+
+## Craig Jamieson
+ - [https://craigjamieson.com](https://craigjamieson.com)
+ - date published: 2024-01-04T01:13:41.821076+00:00
+ - user: None
+ - tags: []
+
+## Craig Kerstiens - Craig Kerstiens
+ - [https://www.craigkerstiens.com](https://www.craigkerstiens.com)
+ - date published: 2023-10-25T13:35:55.760012+00:00
+ - user: None
+ - tags: []
+
+## Craig Mod — Writer + Photographer
+ - [https://craigmod.com](https://craigmod.com)
+ - date published: 2023-10-25T13:35:58.813306+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://craigwickesser.com](https://craigwickesser.com)
+ - date published: 2023-12-27T18:11:54.496669+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://www.crainsdetroit.com
+ - [https://www.crainsdetroit.com](https://www.crainsdetroit.com)
+ - date published: 2023-10-25T13:35:59.149433+00:00
+ - user: None
+ - tags: []
+
+## Cranky Flier – An Airline Industry Blog
+ - [https://crankyflier.com](https://crankyflier.com)
+ - date published: 2023-10-25T13:36:04.780743+00:00
+ - user: None
+ - tags: []
+
+## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
+ - [https://craphound.com](https://craphound.com)
+ - date published: 2023-11-28T07:36:32+00:00
+ - user: rumpel
+ - tags: []
+
+## Cory Doctorow's MEMEX – Proto-Hypertext Memory Expander
+ - [https://memex.craphound.com](https://memex.craphound.com)
+ - date published: 2023-10-25T13:36:08.888784+00:00
+ - user: None
+ - tags: []
+
+## Free Online Games on CrazyGames 🎮 Play Now!
+ - [https://www.crazygames.com](https://www.crazygames.com)
+ - date published: 2023-10-25T11:08:35.067413+00:00
+ - user: None
+ - tags: ['games']
+
+## The Costa Rica Daily: Costa Rica News & Travel | Alejandro Zúñiga | Substack
+ - [https://www.crcdaily.com](https://www.crcdaily.com)
+ - date published: 2023-10-25T13:36:13.040529+00:00
+ - user: None
+ - tags: []
+
+## CREALITY - Official Website, Leading 3D Printer Supplier & Manufacturer
+ - [https://www.creality.com](https://www.creality.com)
+ - date published: 2023-10-25T14:20:55.995211+00:00
+ - user: None
+ - tags: ['3d printing']
+
 ## createsend.com | Email Newsletter Software
  - [https://createsend.com](https://createsend.com)
  - date published: 2023-10-25T13:36:19.859758+00:00
@@ -824,6 +926,12 @@
 ## Things That Caught My Attention
  - [https://newsletter.danhon.com](https://newsletter.danhon.com)
  - date published: 2023-10-25T13:42:35.672609+00:00
+ - user: None
+ - tags: []
+
+## Dani Algarin
+ - [https://danialgarin.com](https://danialgarin.com)
+ - date published: 2024-01-07T11:03:08.286710+00:00
  - user: None
  - tags: []
 
@@ -2874,6 +2982,12 @@
  - user: None
  - tags: []
 
+## Drink Less; Live Better – Sarah Williamson 1:1 Coaching Services
+ - [https://drinklesslivebetter.com](https://drinklesslivebetter.com)
+ - date published: 2024-01-07T04:13:54.065014+00:00
+ - user: None
+ - tags: []
+
 ## Home - Drinks Digest
  - [https://drinksdigest.com](https://drinksdigest.com)
  - date published: 2023-10-25T13:58:41.057422+00:00
@@ -3828,6 +3942,12 @@
  - user: None
  - tags: []
 
+## https://www.elvisdigital.com
+ - [https://www.elvisdigital.com](https://www.elvisdigital.com)
+ - date published: 2024-01-07T04:14:20.741356+00:00
+ - user: None
+ - tags: []
+
 ## Home | Ely Echo
  - [https://www.elyecho.com](https://www.elyecho.com)
  - date published: 2023-12-11T17:20:17.281571+00:00
@@ -4265,6 +4385,12 @@
  - date published: 2023-12-12T09:16:42+00:00
  - user: rumpel
  - tags: ['personal']
+
+## Eric Jon Kassel - Designer, Director, Animator, Musician
+ - [https://erickassel.com](https://erickassel.com)
+ - date published: 2024-01-07T04:14:32.322306+00:00
+ - user: None
+ - tags: []
 
 ## Fabulous adventures in coding | Eric Lippert's blog
  - [https://ericlippert.com](https://ericlippert.com)
@@ -5871,132 +5997,6 @@
 ## Do It Yourself Blind Repair
  - [https://fixmyblinds.com](https://fixmyblinds.com)
  - date published: 2024-01-02T17:31:45+00:00
- - user: None
- - tags: []
-
-## Frankfurt Kurnit Klein & Selz
- - [https://fkks.com](https://fkks.com)
- - date published: 2023-10-25T14:32:33.167969+00:00
- - user: None
- - tags: []
-
-## Flagsmith - Open Source Feature Flag & Remote Config Service
- - [https://www.flagsmith.com](https://www.flagsmith.com)
- - date published: 2023-10-25T14:32:36.006141+00:00
- - user: None
- - tags: []
-
-## FlakeHub
- - [https://flakehub.com](https://flakehub.com)
- - date published: 2023-10-25T14:32:36.676696+00:00
- - user: None
- - tags: []
-
-## Flamed Fury
- - [https://flamedfury.com](https://flamedfury.com)
- - date published: 2023-11-15T17:59:09.730156+00:00
- - user: None
- - tags: ['personal']
-
-## Flames Of War
- - [https://www.flamesofwar.com](https://www.flamesofwar.com)
- - date published: 2023-12-13T15:39:09.793839+00:00
- - user: None
- - tags: ['miniatures', 'tabletop games']
-
-## Flappers And Fiction
- - [https://flappersandfiction.com](https://flappersandfiction.com)
- - date published: 2024-01-05T10:23:36.798469+00:00
- - user: None
- - tags: []
-
-## Flappy Birdle - Flappy Bird meets Wordle by AE Studio
- - [https://flappybirdle.com](https://flappybirdle.com)
- - date published: 2023-10-25T14:32:37.111728+00:00
- - user: None
- - tags: []
-
-## Flashbak - Everything Old Is New Again
- - [https://flashbak.com](https://flashbak.com)
- - date published: 2023-10-25T14:32:41.113559+00:00
- - user: None
- - tags: []
-
-## HOME | flashgitz
- - [https://www.flashgitz.com](https://www.flashgitz.com)
- - date published: 2023-12-12T08:27:35+00:00
- - user: rumpel
- - tags: ['youtuber']
-
-## FlatFootFox
- - [https://flatfootfox.com](https://flatfootfox.com)
- - date published: 2023-10-25T14:32:43.375704+00:00
- - user: None
- - tags: []
-
-## FlatpanelsHD - Guide to TVs, media streamers & monitors
- - [https://www.flatpanelshd.com](https://www.flatpanelshd.com)
- - date published: 2023-10-25T14:32:47.410407+00:00
- - user: None
- - tags: []
-
-## Fleet Europe - For international fleet and mobility leaders
- - [https://www.fleeteurope.com](https://www.fleeteurope.com)
- - date published: 2023-10-25T14:32:51.801276+00:00
- - user: None
- - tags: []
-
-## Fleming's Bond – The Life And Times of Ian Fleming's Secret Agent
- - [https://flemingsbond.com](https://flemingsbond.com)
- - date published: 2023-10-25T14:32:55.653805+00:00
- - user: None
- - tags: []
-
-## Flexbox Froggy - A game for learning CSS flexbox
- - [https://flexboxfroggy.com](https://flexboxfroggy.com)
- - date published: 2023-10-25T14:33:00.527972+00:00
- - user: None
- - tags: []
-
-## The Supply Chain Logistics Platform | Flexport
- - [https://flexport.com](https://flexport.com)
- - date published: 2023-10-25T14:33:04.432186+00:00
- - user: None
- - tags: []
-
-## Find your inspiration. | Flickr
- - [https://www.flickr.com](https://www.flickr.com)
- - date published: 2023-10-25T14:33:07.840624+00:00
- - user: None
- - tags: []
-
-## FlightGlobal | Pioneering aviation news and insight
- - [https://www.flightglobal.com](https://www.flightglobal.com)
- - date published: 2023-10-25T11:49:06.277131+00:00
- - user: None
- - tags: []
-
-## Live Flight Tracker - Real-Time Flight Tracker Map | Flightradar24
- - [https://www.flightradar24.com](https://www.flightradar24.com)
- - date published: 2023-10-25T14:33:08.473156+00:00
- - user: None
- - tags: []
-
-## DJI drone flight log viewer | Flight Reader
- - [https://www.flightreader.com](https://www.flightreader.com)
- - date published: 2023-10-25T14:33:09.805978+00:00
- - user: None
- - tags: []
-
-## FLiNG Trainer
- - [https://flingtrainer.com](https://flingtrainer.com)
- - date published: 2023-10-28T20:43:39.122151+00:00
- - user: None
- - tags: []
-
-## FlingUp
- - [https://flingup.com](https://flingup.com)
- - date published: 2023-10-25T14:33:10.205659+00:00
  - user: None
  - tags: []
 
