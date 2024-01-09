@@ -1,3 +1,225 @@
+## http://timothywasike.ronzag.com
+ - [http://timothywasike.ronzag.com](http://timothywasike.ronzag.com)
+ - date published: 2023-12-10T16:59:19.722167+00:00
+ - user: None
+ - tags: ['personal']
+
+## my blog
+ - [https://ronzhyn.com](https://ronzhyn.com)
+ - date published: 2023-12-03T01:43:15.181104+00:00
+ - user: None
+ - tags: []
+
+## RorVsWild - All-in-one server monitoring for Ruby on Rails applications
+ - [https://www.rorvswild.com](https://www.rorvswild.com)
+ - date published: 2023-12-07T14:48:44.621698+00:00
+ - user: None
+ - tags: []
+
+## MacBook Repair Austin | (347) 552-2258 | Rossmann Repair Group
+ - [https://www.rossmanngroup.com](https://www.rossmanngroup.com)
+ - date published: 2023-11-03T10:37:01.928688+00:00
+ - user: None
+ - tags: ['louis rossmann']
+
+## Ross Zeiger - Software, Video, Business, Life Abroad
+ - [https://rosszeiger.com](https://rosszeiger.com)
+ - date published: 2023-11-29T17:18:54.650056+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rotaboxes - the daily photo puzzle game
+ - [https://rotaboxes.com](https://rotaboxes.com)
+ - date published: 2023-10-25T16:54:35.233146+00:00
+ - user: None
+ - tags: []
+
+## Rotating Sandwiches – that's it
+ - [https://rotatingsandwiches.com](https://rotatingsandwiches.com)
+ - date published: 2023-10-25T16:54:37.119990+00:00
+ - user: None
+ - tags: []
+
+## Rotten Tomatoes: Movies | TV Shows | Movie Trailers | Reviews - Rotten Tomatoes
+ - [https://www.rottentomatoes.com](https://www.rottentomatoes.com)
+ - date published: 2023-10-25T16:43:03.779236+00:00
+ - user: None
+ - tags: ['ranking', 'movies']
+
+## Rough.js: Create graphics with a hand-drawn, sketchy, appearance
+ - [https://roughjs.com](https://roughjs.com)
+ - date published: 2023-12-22T08:06:23+00:00
+ - user: None
+ - tags: []
+
+## ROUGH TYPE | Nicholas Carr's blog
+ - [https://www.roughtype.com](https://www.roughtype.com)
+ - date published: 2023-10-25T16:54:46.815167+00:00
+ - user: None
+ - tags: []
+
+## Routledge - Publisher of Professional & Academic Books
+ - [https://www.routledge.com](https://www.routledge.com)
+ - date published: 2023-10-25T16:54:48.988309+00:00
+ - user: None
+ - tags: []
+
+## Rowan Zellers' Homepage
+ - [https://rowanzellers.com](https://rowanzellers.com)
+ - date published: 2023-10-25T16:54:51.440050+00:00
+ - user: None
+ - tags: []
+
+## Rowena Morais - Helping you build more influence
+ - [https://rowenamorais.com](https://rowenamorais.com)
+ - date published: 2024-01-04T01:14:16.801526+00:00
+ - user: None
+ - tags: []
+
+## Rows
+ - [https://rows.com](https://rows.com)
+ - date published: 2023-10-25T16:54:52.043447+00:00
+ - user: None
+ - tags: []
+
+## Roxine Kee
+ - [https://www.roxinekee.com](https://www.roxinekee.com)
+ - date published: 2023-12-13T06:03:32.244926+00:00
+ - user: None
+ - tags: ['personal']
+
+## | ROXLU
+ - [https://www.roxlu.com](https://www.roxlu.com)
+ - date published: 2023-10-25T16:54:53.567514+00:00
+ - user: None
+ - tags: []
+
+## Royal Blood
+ - [https://www.royalbloodband.com](https://www.royalbloodband.com)
+ - date published: 2023-11-13T09:58:37.856076+00:00
+ - user: None
+ - tags: []
+
+## Royal Mail Shop
+ - [https://shop.royalmail.com](https://shop.royalmail.com)
+ - date published: 2023-10-25T16:54:56.812431+00:00
+ - user: None
+ - tags: []
+
+## Royal Mail | Royal Mail Group Ltd
+ - [https://www.royalmail.com](https://www.royalmail.com)
+ - date published: 2023-10-25T16:55:04.193019+00:00
+ - user: None
+ - tags: []
+
+## - ROYALTY FREE MUSIC
+ - [https://www.royaltyfree-music.com](https://www.royaltyfree-music.com)
+ - date published: 2023-10-25T11:35:25.743817+00:00
+ - user: None
+ - tags: ['asset audio']
+
+## roycifer
+ - [https://roycifer.com](https://roycifer.com)
+ - date published: 2023-12-20T11:45:49.231303+00:00
+ - user: None
+ - tags: ['personal']
+
+## Profound Mysteries
+ - [https://royksopp.com](https://royksopp.com)
+ - date published: 2023-11-13T09:28:05.167168+00:00
+ - user: None
+ - tags: ['music band']
+
+## Roy Tanck
+ - [https://roytanck.com](https://roytanck.com)
+ - date published: 2023-12-29T16:24:36.355595+00:00
+ - user: None
+ - tags: []
+
+## The Homepage of Ryan P. Flynn
+ - [https://rpflynn.com](https://rpflynn.com)
+ - date published: 2023-12-17T20:59:36.992817+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | RPG in a Box
+ - [https://www.rpginabox.com](https://www.rpginabox.com)
+ - date published: 2023-10-25T16:55:06.758154+00:00
+ - user: None
+ - tags: []
+
+## Buy D2R Items and Runes, OSRS Gold, POE Orbs - RPGStash
+ - [https://www.rpgstash.com](https://www.rpgstash.com)
+ - date published: 2023-10-25T11:10:04.692031+00:00
+ - user: None
+ - tags: []
+
+## Rajath Ramakrishna
+ - [https://rrajath.com](https://rrajath.com)
+ - date published: 2023-11-29T17:13:31.375439+00:00
+ - user: None
+ - tags: ['personal']
+
+## RR Auction
+ - [https://www.rrauction.com](https://www.rrauction.com)
+ - date published: 2023-10-25T16:55:10.247515+00:00
+ - user: None
+ - tags: []
+
+## RSS Brain - A Modern RSS Reader
+ - [https://www.rssbrain.com](https://www.rssbrain.com)
+ - date published: 2023-10-25T08:38:16.407947+00:00
+ - user: None
+ - tags: ['rss reader']
+
+## RSS Feed Extractor
+ - [https://rssfeedasap.com](https://rssfeedasap.com)
+ - date published: 2023-10-25T08:30:46.933111+00:00
+ - user: None
+ - tags: []
+
+## RT - Breaking News, Russia News, World News and Video
+ - [https://www.rt.com](https://www.rt.com)
+ - date published: 2023-10-25T10:12:55.826509+00:00
+ - user: None
+ - tags: []
+
+## R. Talsorian Games - We create worlds you can only imagine.
+ - [https://rtalsoriangames.com](https://rtalsoriangames.com)
+ - date published: 2023-11-01T19:34:54.050124+00:00
+ - user: None
+ - tags: ['cyberpunk', 'role playing games']
+
+## Rubenerd
+ - [https://rubenerd.com](https://rubenerd.com)
+ - date published: 2023-10-25T16:55:20.911142+00:00
+ - user: None
+ - tags: []
+
+## rubenwardy's blog
+ - [https://blog.rubenwardy.com](https://blog.rubenwardy.com)
+ - date published: 2023-11-18T18:28:01.582764+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jade Rubick - Rubick.com
+ - [https://www.rubick.com](https://www.rubick.com)
+ - date published: 2023-10-25T08:47:51.358817+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ruetir | Latest News, World News, Breaking News, Games, Business & Health
+ - [https://www.ruetir.com](https://www.ruetir.com)
+ - date published: 2023-10-25T16:55:26.559906+00:00
+ - user: None
+ - tags: []
+
+## Rui Zhi Dong - Writer
+ - [https://ruizhidong.com](https://ruizhidong.com)
+ - date published: 2023-12-22T17:48:27.466814+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Rumble
  - [https://rumble.com](https://rumble.com)
  - date published: 2023-10-24T20:12:23.443415+00:00
@@ -1804,6 +2026,12 @@
  - user: None
  - tags: []
 
+## https://siddhantpyasi.com
+ - [https://siddhantpyasi.com](https://siddhantpyasi.com)
+ - date published: 2024-01-08T07:27:25.364006+00:00
+ - user: None
+ - tags: []
+
 ## Cash Prices for Medical Procedures | Sidecar Health Care Calculator
  - [https://cost.sidecarhealth.com](https://cost.sidecarhealth.com)
  - date published: 2023-10-25T17:03:58.680063+00:00
@@ -2612,6 +2840,12 @@
 ## Solveig Sørbø
  - [https://solveigsorbo.com](https://solveigsorbo.com)
  - date published: 2024-01-07T04:14:37.204798+00:00
+ - user: None
+ - tags: []
+
+## Solver Max - Home
+ - [https://www.solvermax.com](https://www.solvermax.com)
+ - date published: 2024-01-08T19:27:02.080164+00:00
  - user: None
  - tags: []
 
@@ -4997,6 +5231,12 @@
  - user: None
  - tags: ['substack']
 
+## Sober Soulful | Dana Leigh Lyons | Substack
+ - [https://danaleighlyons.substack.com](https://danaleighlyons.substack.com)
+ - date published: 2024-01-08T15:36:32.857614+00:00
+ - user: None
+ - tags: []
+
 ## Mathworlds | Dan Meyer | Substack
  - [https://danmeyer.substack.com](https://danmeyer.substack.com)
  - date published: 2023-10-25T17:18:58.905775+00:00
@@ -5762,246 +6002,6 @@
 ## One Useful Thing | Ethan Mollick | Substack
  - [https://oneusefulthing.substack.com](https://oneusefulthing.substack.com)
  - date published: 2023-10-25T10:00:23.738941+00:00
- - user: None
- - tags: ['substack']
-
-## https://open.substack.com
- - [https://open.substack.com](https://open.substack.com)
- - date published: 2023-11-27T22:35:46.334729+00:00
- - user: None
- - tags: []
-
-## The Trick Revealed | Jabari | Substack
- - [https://owlpal.substack.com](https://owlpal.substack.com)
- - date published: 2023-10-25T10:00:28.577107+00:00
- - user: None
- - tags: ['substack']
-
-## Passing Time | Michael Bateman | Substack
- - [https://passingtime.substack.com](https://passingtime.substack.com)
- - date published: 2023-10-25T10:00:31.464969+00:00
- - user: None
- - tags: ['substack']
-
-## The Abbey of Misrule | Paul Kingsnorth | Substack
- - [https://paulkingsnorth.substack.com](https://paulkingsnorth.substack.com)
- - date published: 2023-10-25T10:00:34.889123+00:00
- - user: None
- - tags: ['substack']
-
-## Pea Bee | pb | Substack
- - [https://peabee.substack.com](https://peabee.substack.com)
- - date published: 2023-10-25T10:00:40.276763+00:00
- - user: None
- - tags: ['substack']
-
-## PG's Substack | Substack
- - [https://pgpt.substack.com](https://pgpt.substack.com)
- - date published: 2023-10-25T10:00:41.628701+00:00
- - user: None
- - tags: ['substack']
-
-## Philosophy bear | Substack
- - [https://philosophybear.substack.com](https://philosophybear.substack.com)
- - date published: 2023-10-25T10:00:48.623849+00:00
- - user: None
- - tags: ['substack']
-
-## Unverified Revelations | Substack
- - [https://philosophyinhell.substack.com](https://philosophyinhell.substack.com)
- - date published: 2023-10-25T10:00:51.129883+00:00
- - user: None
- - tags: ['substack']
-
-## The PhilaVerse | Phil Siarri | Substack
- - [https://philsiarri.substack.com](https://philsiarri.substack.com)
- - date published: 2023-10-25T10:00:53.681393+00:00
- - user: None
- - tags: ['substack']
-
-## Photon-Lines Substack | Nick M | Substack
- - [https://photonlines.substack.com](https://photonlines.substack.com)
- - date published: 2023-10-25T10:00:55.503118+00:00
- - user: None
- - tags: ['substack']
-
-## Planetocracy | Peter Hague | Substack
- - [https://planetocracy.substack.com](https://planetocracy.substack.com)
- - date published: 2023-10-31T16:17:52.828871+00:00
- - user: None
- - tags: []
-
-## Polymathic Being | Michael Woudenberg | Substack
- - [https://polymathicbeing.substack.com](https://polymathicbeing.substack.com)
- - date published: 2023-10-25T10:01:04.036294+00:00
- - user: None
- - tags: ['substack']
-
-## https://ppaolo.substack.com
- - [https://ppaolo.substack.com](https://ppaolo.substack.com)
- - date published: 2023-12-04T21:16:18.389456+00:00
- - user: None
- - tags: []
-
-## PromptArmor Blog | Substack
- - [https://promptarmor.substack.com](https://promptarmor.substack.com)
- - date published: 2023-12-15T21:47:07.452086+00:00
- - user: None
- - tags: []
-
-## Public | Michael Shellenberger | Substack
- - [https://public.substack.com](https://public.substack.com)
- - date published: 2023-11-26T17:00:37+00:00
- - user: rumpel
- - tags: ['substack']
-
-## Identity Revive | Rakkhi Joy | Substack
- - [https://rakkhi.substack.com](https://rakkhi.substack.com)
- - date published: 2023-10-25T10:01:24.275651+00:00
- - user: None
- - tags: ['substack']
-
-## Random Acts of Medicine | Chris Worsham | Substack
- - [https://randomactsofmedicine.substack.com](https://randomactsofmedicine.substack.com)
- - date published: 2023-10-25T10:01:28.416412+00:00
- - user: None
- - tags: ['substack']
-
-## Lazy Afternoons | Ravi Teja Kanta | Substack
- - [https://ravitejakanta.substack.com](https://ravitejakanta.substack.com)
- - date published: 2023-10-25T10:01:35.638481+00:00
- - user: None
- - tags: ['substack']
-
-## rants by razberry | Substack
- - [https://razberry.substack.com](https://razberry.substack.com)
- - date published: 2023-11-15T18:40:37.968645+00:00
- - user: None
- - tags: []
-
-## Razib Khan's Unsupervised Learning | Substack
- - [https://razib.substack.com](https://razib.substack.com)
- - date published: 2023-10-25T10:01:38.890917+00:00
- - user: None
- - tags: ['substack']
-
-## The Poetry of Reality with Richard Dawkins | Substack
- - [https://richarddawkins.substack.com](https://richarddawkins.substack.com)
- - date published: 2023-10-25T10:01:47.068642+00:00
- - user: None
- - tags: ['substack']
-
-## Interconnects | Nathan Lambert | Substack
- - [https://robotic.substack.com](https://robotic.substack.com)
- - date published: 2023-10-25T10:02:26.630773+00:00
- - user: None
- - tags: ['substack']
-
-## The Honest Broker | Roger Pielke Jr. | Substack
- - [https://rogerpielkejr.substack.com](https://rogerpielkejr.substack.com)
- - date published: 2023-10-25T10:02:34.687234+00:00
- - user: None
- - tags: ['substack']
-
-## Roughly Written | Ryan O'Neill | Substack
- - [https://roughlywritten.substack.com](https://roughlywritten.substack.com)
- - date published: 2023-12-23T15:08:37.487132+00:00
- - user: None
- - tags: []
-
-## Rough Diamonds | Sarah Constantin | Substack
- - [https://sarahconstantin.substack.com](https://sarahconstantin.substack.com)
- - date published: 2024-01-07T23:12:10.014354+00:00
- - user: None
- - tags: []
-
-## Implications, by Scott Belsky | Substack
- - [https://scottbelsky.substack.com](https://scottbelsky.substack.com)
- - date published: 2023-10-25T10:02:57.280453+00:00
- - user: None
- - tags: ['substack']
-
-## Sensible Medicine | Substack
- - [https://sensiblemed.substack.com](https://sensiblemed.substack.com)
- - date published: 2023-10-25T10:03:15.606034+00:00
- - user: None
- - tags: ['substack']
-
-## How the Hell | Sergey Alexashenko | Substack
- - [https://sergey.substack.com](https://sergey.substack.com)
- - date published: 2024-01-02T17:12:43.011740+00:00
- - user: None
- - tags: []
-
-## Seymour Hersh | Substack
- - [https://seymourhersh.substack.com](https://seymourhersh.substack.com)
- - date published: 2023-10-25T10:03:20.073223+00:00
- - user: None
- - tags: ['substack']
-
-## Shawn’s Substack | Substack
- - [https://shmck.substack.com](https://shmck.substack.com)
- - date published: 2023-11-03T14:50:19.834430+00:00
- - user: None
- - tags: []
-
-## Madhur’s Writings | Madhur Shrimal | Substack
- - [https://shrimalmadhur.substack.com](https://shrimalmadhur.substack.com)
- - date published: 2023-10-25T10:03:33.706563+00:00
- - user: None
- - tags: ['substack']
-
-## Sibelius’s Newsletter | Sibelius Seraphini | Substack
- - [https://sibelius.substack.com](https://sibelius.substack.com)
- - date published: 2023-10-25T17:19:21.199989+00:00
- - user: None
- - tags: []
-
-## Obvious Bicycle | Siddhesh | Substack
- - [https://siddhesh.substack.com](https://siddhesh.substack.com)
- - date published: 2023-12-19T00:38:00.924670+00:00
- - user: None
- - tags: []
-
-## The Map is Mostly Water | Simon Sarris | Substack
- - [https://simonsarris.substack.com](https://simonsarris.substack.com)
- - date published: 2023-10-25T10:03:37.881602+00:00
- - user: None
- - tags: ['substack']
-
-## Skybrian’s Blog | Substack
- - [https://skybrian.substack.com](https://skybrian.substack.com)
- - date published: 2023-10-25T10:03:51.030062+00:00
- - user: None
- - tags: ['substack']
-
-## Reverie by Daniel Cawrey | Substack
- - [https://somereverie.substack.com](https://somereverie.substack.com)
- - date published: 2023-10-25T10:03:59.905705+00:00
- - user: None
- - tags: ['substack']
-
-## NeoNarrative | Sotonye | Substack
- - [https://sotonye.substack.com](https://sotonye.substack.com)
- - date published: 2023-10-25T10:04:03.629604+00:00
- - user: None
- - tags: ['substack']
-
-## Innovation Nation | George Patterson Sibble | Substack
- - [https://startupdreams.substack.com](https://startupdreams.substack.com)
- - date published: 2023-10-25T10:04:12.459507+00:00
- - user: None
- - tags: ['substack']
-
-## Data People Etc. | Stephen Bailey | Substack
- - [https://stkbailey.substack.com](https://stkbailey.substack.com)
- - date published: 2023-10-25T10:04:23.504857+00:00
- - user: None
- - tags: ['substack']
-
-## Science Fictions | Stuart Ritchie | Substack
- - [https://stuartritchie.substack.com](https://stuartritchie.substack.com)
- - date published: 2023-10-25T10:04:31.154160+00:00
  - user: None
  - tags: ['substack']
 

@@ -1,3 +1,177 @@
+## Transactional Email Delivery Made Easy
+ - [https://maileroo.com](https://maileroo.com)
+ - date published: 2023-12-16T05:53:51+00:00
+ - user: None
+ - tags: []
+
+## Harden your email - Mailhardener
+ - [https://www.mailhardener.com](https://www.mailhardener.com)
+ - date published: 2023-10-25T15:54:36.141918+00:00
+ - user: None
+ - tags: []
+
+## Show HN: I built a tool to send 10k emails for $1 via AWS
+ - [https://maillayer.com](https://maillayer.com)
+ - date published: 2024-01-07T12:35:00+00:00
+ - user: None
+ - tags: []
+
+## Mainmatter
+ - [https://mainmatter.com](https://mainmatter.com)
+ - date published: 2023-10-25T15:54:37.268613+00:00
+ - user: None
+ - tags: []
+
+## Voyage sur mesure, circuit et sejour - Les Maisons du Voyage
+ - [https://www.maisonsduvoyage.com](https://www.maisonsduvoyage.com)
+ - date published: 2023-12-18T17:19:14.453560+00:00
+ - user: None
+ - tags: []
+
+## The Iteration | Kenn Costales | Substack
+ - [https://iteration.maiwriter.com](https://iteration.maiwriter.com)
+ - date published: 2023-11-05T11:29:59.648908+00:00
+ - user: None
+ - tags: []
+
+## The magic button — Make Everything OK
+ - [https://make-everything-ok.com](https://make-everything-ok.com)
+ - date published: 2023-12-12T12:07:19+00:00
+ - user: rumpel
+ - tags: []
+
+## make-safe-ai/is-bing-chat-safe
+ - [https://www.make-safe-ai.com](https://www.make-safe-ai.com)
+ - date published: 2023-10-25T15:54:39.527554+00:00
+ - user: None
+ - tags: []
+
+## Make America Walkable Again
+ - [https://makeamericawalkable.com](https://makeamericawalkable.com)
+ - date published: 2023-10-25T15:54:41.558574+00:00
+ - user: None
+ - tags: []
+
+## Make Art with Python
+ - [https://www.makeartwithpython.com](https://www.makeartwithpython.com)
+ - date published: 2023-10-25T15:54:43.070926+00:00
+ - user: None
+ - tags: []
+
+## Makefile Tutorial By Example
+ - [https://makefiletutorial.com](https://makefiletutorial.com)
+ - date published: 2023-10-25T15:54:44.493732+00:00
+ - user: None
+ - tags: []
+
+## MakeItFrom.com: Material Properties Database
+ - [https://www.makeitfrom.com](https://www.makeitfrom.com)
+ - date published: 2023-10-25T15:54:45.799547+00:00
+ - user: None
+ - tags: []
+
+## Home - Makerdiary Wiki
+ - [https://wiki.makerdiary.com](https://wiki.makerdiary.com)
+ - date published: 2023-10-25T15:54:46.717561+00:00
+ - user: None
+ - tags: []
+
+## Maker Faire |
+ - [https://makerfaire.com](https://makerfaire.com)
+ - date published: 2023-10-25T15:54:51.642732+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Maker Hacks
+ - [https://www.makerhacks.com](https://www.makerhacks.com)
+ - date published: 2023-12-11T17:52:35.069448+00:00
+ - user: None
+ - tags: []
+
+## DIY | Makers Mashup
+ - [https://www.makersmashup.com](https://www.makersmashup.com)
+ - date published: 2023-10-27T10:17:04.972576+00:00
+ - user: None
+ - tags: ['hobby', 'dyi', '3d printing']
+
+## Home
+ - [https://makezine.com](https://makezine.com)
+ - date published: 2023-11-27T16:27:53+00:00
+ - user: rumpel
+ - tags: ['tech', 'creators', '3d printing', 'sbc']
+
+## Making It with Chris G.
+ - [https://www.makingitwithchrisg.com](https://www.makingitwithchrisg.com)
+ - date published: 2023-11-29T17:12:52.483030+00:00
+ - user: None
+ - tags: []
+
+## about mako
+ - [https://makopool.com](https://makopool.com)
+ - date published: 2023-10-25T08:47:11.035727+00:00
+ - user: None
+ - tags: ['personal']
+
+## Malay Mail | Breaking News, Malaysia, World, Lifestyle News
+ - [https://www.malaymail.com](https://www.malaymail.com)
+ - date published: 2023-10-25T15:54:56.436525+00:00
+ - user: None
+ - tags: []
+
+## MalaysiaNow | News, views and insights into Malaysian current affairs.
+ - [https://www.malaysianow.com](https://www.malaysianow.com)
+ - date published: 2023-11-17T07:41:45.486280+00:00
+ - user: None
+ - tags: []
+
+## La Malienne de l'Automobile
+ - [https://www.malienne-automobile.com](https://www.malienne-automobile.com)
+ - date published: 2023-12-11T16:01:08.468013+00:00
+ - user: None
+ - tags: []
+
+## Cyber Security Software & Anti-Malware | Malwarebytes
+ - [https://www.malwarebytes.com](https://www.malwarebytes.com)
+ - date published: 2023-10-25T15:54:59.336261+00:00
+ - user: None
+ - tags: ['tech services', 'corporation']
+
+## MambaOnline - Gay South Africa online
+ - [https://www.mambaonline.com](https://www.mambaonline.com)
+ - date published: 2023-11-26T08:46:20.848115+00:00
+ - user: None
+ - tags: ['lgbt', 'homosexuality']
+
+## The Market for Magic Cards | Mana Pool
+ - [https://manapool.com](https://manapool.com)
+ - date published: 2023-10-25T15:55:00.570677+00:00
+ - user: None
+ - tags: []
+
+## Senselessness
+ - [https://blog.mand3l.com](https://blog.mand3l.com)
+ - date published: 2023-10-25T15:55:08.960526+00:00
+ - user: None
+ - tags: []
+
+## Threat Intelligence Solutions | Cyber Security Services & Training
+ - [https://www.mandiant.com](https://www.mandiant.com)
+ - date published: 2023-10-25T15:55:12.774419+00:00
+ - user: None
+ - tags: []
+
+## Get Good at Delivering Software™️
+ - [https://blog.mangoteque.com](https://blog.mangoteque.com)
+ - date published: 2023-10-25T15:55:14.397259+00:00
+ - user: None
+ - tags: []
+
+## Manish R Jain
+ - [https://manishrjain.com](https://manishrjain.com)
+ - date published: 2023-10-25T15:55:17.260053+00:00
+ - user: None
+ - tags: []
+
 ## Howie Mann - Startup Strategy
  - [https://mannhowie.com](https://mannhowie.com)
  - date published: 2023-10-25T15:55:21.301915+00:00
@@ -197,6 +371,12 @@
  - user: None
  - tags: []
 
+## Marko Masnjak - Product Designer
+ - [https://markomasnjak.com](https://markomasnjak.com)
+ - date published: 2024-01-09T00:11:32.347317+00:00
+ - user: None
+ - tags: []
+
 ## Markprompt | AI infrastructure for customer experience teams
  - [https://markprompt.com](https://markprompt.com)
  - date published: 2023-10-25T15:56:38.195582+00:00
@@ -356,6 +536,12 @@
 ## Mary Rose Cook
  - [https://maryrosecook.com](https://maryrosecook.com)
  - date published: 2023-10-25T15:57:30.568665+00:00
+ - user: None
+ - tags: []
+
+## Tulisan Mas Dzub
+ - [https://tulisan.masdzub.com](https://tulisan.masdzub.com)
+ - date published: 2024-01-08T15:37:29.875377+00:00
  - user: None
  - tags: []
 
@@ -1124,6 +1310,12 @@
 ## Glauber Costa – Medium
  - [https://glaubercosta-11125.medium.com](https://glaubercosta-11125.medium.com)
  - date published: 2023-10-25T10:20:33.543522+00:00
+ - user: None
+ - tags: []
+
+## Henry Ward – Medium
+ - [https://henrysward.medium.com](https://henrysward.medium.com)
+ - date published: 2024-01-08T00:57:08.537094+00:00
  - user: None
  - tags: []
 
@@ -2423,6 +2615,12 @@
  - user: None
  - tags: []
 
+## Milan Teh • heartfelt photography
+ - [https://www.milanteh.com](https://www.milanteh.com)
+ - date published: 2024-01-09T00:12:33.647011+00:00
+ - user: None
+ - tags: []
+
 ## Mile Nerd | Just the most miles in the fewest words possible.
  - [https://www.milenerd.com](https://www.milenerd.com)
  - date published: 2023-12-02T09:31:35.184567+00:00
@@ -2620,6 +2818,12 @@
  - date published: 2023-12-18T01:35:14.727669+00:00
  - user: None
  - tags: ['personal']
+
+## In the solution
+ - [https://www.mitchellfriedman.com](https://www.mitchellfriedman.com)
+ - date published: 2024-01-08T15:37:32.858228+00:00
+ - user: None
+ - tags: []
 
 ## Mitchell Hashimoto
  - [https://mitchellh.com](https://mitchellh.com)
@@ -5310,6 +5514,12 @@
  - user: None
  - tags: []
 
+## The Productive Dad – Optimise Workflows & Reduce Stress with ClickUp
+ - [https://notiondad.com](https://notiondad.com)
+ - date published: 2024-01-08T07:27:12.614460+00:00
+ - user: None
+ - tags: []
+
 ## Notion Things
  - [https://notionthings.com](https://notionthings.com)
  - date published: 2023-10-25T16:22:13.671476+00:00
@@ -5758,6 +5968,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Open Source ERP and CRM | Odoo
+ - [https://www.odoo.com](https://www.odoo.com)
+ - date published: 2024-01-08T07:29:29+00:00
+ - user: rumpel
+ - tags: ['erp', 'open source', 'crm', 'csm']
+
 ## Odysee
  - [https://odysee.com](https://odysee.com)
  - date published: 2023-10-24T20:05:47.992634+00:00
@@ -5787,220 +6003,4 @@ Answering Machine Greetings!
  - date published: 2023-11-28T17:20:48.839073+00:00
  - user: None
  - tags: []
-
-## OFRAK: unpack, modify, and repack binaries
- - [https://ofrak.com](https://ofrak.com)
- - date published: 2023-10-25T16:24:56.351939+00:00
- - user: None
- - tags: []
-
-## Home - Ogletree
- - [https://ogletree.com](https://ogletree.com)
- - date published: 2023-10-25T16:25:01.982432+00:00
- - user: None
- - tags: []
-
-## Oh Mighty Health | Natural Wellness & Holistic Coaching
- - [https://ohmightyhealth.com](https://ohmightyhealth.com)
- - date published: 2023-11-29T15:47:08.578315+00:00
- - user: None
- - tags: ['personal']
-
-## Crude Oil Prices Today | OilPrice.com
- - [https://oilprice.com](https://oilprice.com)
- - date published: 2023-10-25T16:25:08.877775+00:00
- - user: None
- - tags: []
-
-## MC, Keynote Speaker, Webinar Host, Writer & Consultant - OISIN LUNNY
- - [https://oisinlunny.com](https://oisinlunny.com)
- - date published: 2023-12-31T21:19:58.482987+00:00
- - user: None
- - tags: []
-
-## Oisín Moran
- - [https://oisinmoran.com](https://oisinmoran.com)
- - date published: 2023-10-25T16:25:09.684817+00:00
- - user: None
- - tags: []
-
-## Oklahoma City News, Weather, Sports, Breaking News | KOKH
- - [https://okcfox.com](https://okcfox.com)
- - date published: 2023-11-12T03:19:07.648289+00:00
- - user: None
- - tags: []
-
-## oklahoman.com: Local News, Politics & Sports in Oklahoma City, OK
- - [https://www.oklahoman.com](https://www.oklahoman.com)
- - date published: 2024-01-07T20:03:21.629277+00:00
- - user: None
- - tags: []
-
-## Home | Okta Developer
- - [https://developer.okta.com](https://developer.okta.com)
- - date published: 2023-10-25T16:25:11.442571+00:00
- - user: None
- - tags: []
-
-## Articles (Page 1 of 9) | Okta Security
- - [https://sec.okta.com](https://sec.okta.com)
- - date published: 2023-10-25T16:25:12.911081+00:00
- - user: None
- - tags: []
-
-## Okta Help Center (Lightning)
- - [https://support.okta.com](https://support.okta.com)
- - date published: 2023-10-25T16:25:15.663008+00:00
- - user: None
- - tags: []
-
-## Employee and Customer Identity Solutions | Okta
- - [https://www.okta.com](https://www.okta.com)
- - date published: 2023-10-25T16:25:18.525570+00:00
- - user: None
- - tags: []
-
-## Old Games Download - Abandonware and Retrogaming
- - [https://oldgamesdownload.com](https://oldgamesdownload.com)
- - date published: 2023-10-25T16:33:49.666375+00:00
- - user: None
- - tags: ['command and conquer', 'abandonware', 'game roms', 'red alert', 'amiga', 'atari']
-
-## The Old Operating Theatre
- - [https://oldoperatingtheatre.com](https://oldoperatingtheatre.com)
- - date published: 2023-10-25T16:25:23.309950+00:00
- - user: None
- - tags: []
-
-## Optimal Living Daily Podcasts - Home Page
- - [https://oldpodcast.com](https://oldpodcast.com)
- - date published: 2023-12-14T01:27:02.081623+00:00
- - user: None
- - tags: ['personal']
-
-## Old School Game Blog
- - [https://oldschoolgameblog.com](https://oldschoolgameblog.com)
- - date published: 2023-10-27T14:21:42.288683+00:00
- - user: None
- - tags: ['amiga', 'demoscene', 'retro games']
-
-## Oliver Emberton
- - [https://oliveremberton.com](https://oliveremberton.com)
- - date published: 2023-10-25T16:25:26.557746+00:00
- - user: None
- - tags: []
-
-## https://www.oliverquinlan.com
- - [https://www.oliverquinlan.com](https://www.oliverquinlan.com)
- - date published: 2024-01-05T10:38:05.594623+00:00
- - user: None
- - tags: []
-
-## Om's Observations
- - [https://omajoshi.com](https://omajoshi.com)
- - date published: 2023-10-25T16:25:28.966147+00:00
- - user: None
- - tags: []
-
-## OMD Ventures
- - [https://omdventures.com](https://omdventures.com)
- - date published: 2023-12-12T07:04:29.761427+00:00
- - user: None
- - tags: ['personal']
-
-## Omegle
- - [https://omegle.com](https://omegle.com)
- - date published: 2023-11-09T01:15:04.545909+00:00
- - user: None
- - tags: ['inactive']
-
-## Omegle
- - [https://www.omegle.com](https://www.omegle.com)
- - date published: 2023-11-09T00:55:39.921609+00:00
- - user: None
- - tags: ['inactive']
-
-## OMG Laser guns! Pew! Pew! Pew!
- - [http://omglasergunspewpewpew.com](http://omglasergunspewpewpew.com)
- - date published: 2023-10-27T11:36:30.120538+00:00
- - user: None
- - tags: ['wtf', 'funny']
-
-## OMG! Linux - Linux News, Distros, Apps and Reviews
- - [https://www.omglinux.com](https://www.omglinux.com)
- - date published: 2023-10-25T10:15:18.092529+00:00
- - user: None
- - tags: []
-
-## Omniflux
- - [https://www.omnifluxmusic.com](https://www.omnifluxmusic.com)
- - date published: 2023-11-29T20:44:08.484060+00:00
- - user: None
- - tags: []
-
-## Omniglot - the encyclopedia of writing systems and languages
- - [https://www.omniglot.com](https://www.omniglot.com)
- - date published: 2023-10-25T16:25:31.034846+00:00
- - user: None
- - tags: []
-
-## OmniPaxos - A distributed log library
- - [https://omnipaxos.com](https://omnipaxos.com)
- - date published: 2023-10-25T16:25:31.956953+00:00
- - user: None
- - tags: []
-
-## ONCE — Introducing ONCE
- - [https://once.com](https://once.com)
- - date published: 2023-10-25T16:25:32.812459+00:00
- - user: None
- - tags: []
-
-## Peer-reviewed Oncology & Cancer Research Journal | Oncotarget
- - [https://www.oncotarget.com](https://www.oncotarget.com)
- - date published: 2024-01-03T17:07:38.928646+00:00
- - user: None
- - tags: []
-
-## Ondra Kozák
- - [https://ondrakozak.com](https://ondrakozak.com)
- - date published: 2023-12-11T10:57:28.937161+00:00
- - user: None
- - tags: ['personal']
-
-## ONE37pm | For the Curious
- - [https://www.one37pm.com](https://www.one37pm.com)
- - date published: 2023-11-13T12:44:17.830223+00:00
- - user: None
- - tags: ['news', 'pop culture']
-
-## One Big Fluke
- - [https://www.onebigfluke.com](https://www.onebigfluke.com)
- - date published: 2023-10-25T16:25:38.795372+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://www.onebrickaday.com](https://www.onebrickaday.com)
- - date published: 2023-12-20T19:15:43.341768+00:00
- - user: None
- - tags: ['personal']
-
-## One Day You’ll Find Yourself
- - [https://www.onedayyoullfindyourself.com](https://www.onedayyoullfindyourself.com)
- - date published: 2023-10-25T16:25:45.697942+00:00
- - user: None
- - tags: []
-
-## One For The Code
- - [https://www.oneforthecode.com](https://www.oneforthecode.com)
- - date published: 2023-12-21T08:23:46.436938+00:00
- - user: None
- - tags: ['personal']
-
-## OneKeep
- - [https://onekeep.com](https://onekeep.com)
- - date published: 2023-11-26T16:48:20+00:00
- - user: rumpel
- - tags: ['bookmark manager']
 

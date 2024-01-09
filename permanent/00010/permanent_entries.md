@@ -1,3 +1,274 @@
+## Latest World & National News & Headlines - USATODAY.com
+ - [https://eu.usatoday.com](https://eu.usatoday.com)
+ - date published: 2023-10-25T10:29:19.995983+00:00
+ - user: None
+ - tags: []
+
+## Latest World & National News & Headlines - USATODAY.com
+ - [https://www.usatoday.com](https://www.usatoday.com)
+ - date published: 2023-10-25T17:53:51.210195+00:00
+ - user: None
+ - tags: []
+
+## Annenberg Media
+ - [https://www.uscannenbergmedia.com](https://www.uscannenbergmedia.com)
+ - date published: 2023-10-25T17:54:00.446464+00:00
+ - user: None
+ - tags: []
+
+## Script - A text editor powering truly digital documents in a dedicated project workspace
+ - [https://www.use-script.com](https://www.use-script.com)
+ - date published: 2023-10-25T17:54:01.989669+00:00
+ - user: None
+ - tags: []
+
+## Adrenaline
+ - [http://www.useadrenaline.com](http://www.useadrenaline.com)
+ - date published: 2023-10-25T17:54:04.299699+00:00
+ - user: None
+ - tags: []
+
+## Easily run Windows software on Linux with Bottles! ⋅ Bottles
+ - [https://usebottles.com](https://usebottles.com)
+ - date published: 2023-10-25T08:32:57.754063+00:00
+ - user: None
+ - tags: []
+
+## https://app.usebracket.com
+ - [https://app.usebracket.com](https://app.usebracket.com)
+ - date published: 2023-12-12T22:18:34.347674+00:00
+ - user: None
+ - tags: []
+
+## What is Bracket? - Bracket
+ - [https://docs.usebracket.com](https://docs.usebracket.com)
+ - date published: 2023-12-12T22:18:18.624096+00:00
+ - user: None
+ - tags: []
+
+## Bracket | Two-way data syncs
+ - [https://www.usebracket.com](https://www.usebracket.com)
+ - date published: 2023-10-25T17:54:06.457624+00:00
+ - user: None
+ - tags: []
+
+## Website performance expert from Amsterdam | Usecue web development
+ - [https://www.usecue.com](https://www.usecue.com)
+ - date published: 2023-10-25T17:54:07.038735+00:00
+ - user: None
+ - tags: []
+
+## The Google Analytics alternative without compromise - Fathom Analytics
+ - [https://usefathom.com](https://usefathom.com)
+ - date published: 2023-10-25T17:54:08.744492+00:00
+ - user: None
+ - tags: []
+
+## Grasp | New kind of search engine
+ - [https://usegrasp.com](https://usegrasp.com)
+ - date published: 2023-10-25T09:07:27.655808+00:00
+ - user: None
+ - tags: []
+
+## useHooks – The React Hooks Library
+ - [https://usehooks.com](https://usehooks.com)
+ - date published: 2023-10-25T17:54:10.268521+00:00
+ - user: None
+ - tags: []
+
+## Massive | Hyper-relevant roles at the most
+      exciting companies
+ - [https://usemassive.com](https://usemassive.com)
+ - date published: 2023-10-25T17:54:15.919129+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Minimalist Calendars Generator
+ - [https://useminimal.com](https://useminimal.com)
+ - date published: 2023-12-09T21:06:53+00:00
+ - user: None
+ - tags: []
+
+## Motion | Manage calendars, meetings, projects & tasks in one app
+ - [https://www.usemotion.com](https://www.usemotion.com)
+ - date published: 2023-10-25T17:54:20.063782+00:00
+ - user: None
+ - tags: []
+
+## Best Usenet Service Providers 2023-Newsgroup Reviews- Usenet.com
+ - [https://www.usenet.com](https://www.usenet.com)
+ - date published: 2023-10-25T11:34:30.146419+00:00
+ - user: None
+ - tags: ['social platform']
+
+## User Inyerface - A worst-practice UI experiment
+ - [https://userinyerface.com](https://userinyerface.com)
+ - date published: 2023-10-25T17:54:20.521712+00:00
+ - user: None
+ - tags: []
+
+## Notes from the Burrow
+ - [https://blog.usmanity.com](https://blog.usmanity.com)
+ - date published: 2023-10-25T17:54:21.650052+00:00
+ - user: None
+ - tags: []
+
+## Muhammad Usman
+ - [https://usmanity.com](https://usmanity.com)
+ - date published: 2023-12-18T22:38:16.558325+00:00
+ - user: None
+ - tags: ['personal']
+
+## U.S. News & World Report: News, Rankings and Analysis on Politics, Education, Healthcare and More
+ - [https://www.usnews.com](https://www.usnews.com)
+ - date published: 2023-10-25T11:06:45.360963+00:00
+ - user: None
+ - tags: []
+
+## Home - About.usps.com
+ - [https://about.usps.com](https://about.usps.com)
+ - date published: 2023-10-25T17:54:24.601136+00:00
+ - user: None
+ - tags: []
+
+## USSA News | The Tea Party’s Front Page.
+ - [https://ussanews.com](https://ussanews.com)
+ - date published: 2023-10-25T17:54:30.171670+00:00
+ - user: None
+ - tags: []
+
+## Utilitarianism : past, present and future
+ - [https://www.utilitarianism.com](https://www.utilitarianism.com)
+ - date published: 2023-10-25T17:54:30.938333+00:00
+ - user: None
+ - tags: []
+
+## Utility and Energy Transmission & Distribution News | Utility Dive
+ - [https://www.utilitydive.com](https://www.utilitydive.com)
+ - date published: 2023-10-25T17:54:35.594731+00:00
+ - user: None
+ - tags: []
+
+## Utilu.com
+ - [https://utilu.com](https://utilu.com)
+ - date published: 2023-10-25T17:54:36.822372+00:00
+ - user: None
+ - tags: []
+
+## útilware.com - Welcome
+ - [https://utilware.com](https://utilware.com)
+ - date published: 2023-12-30T05:22:40.118077+00:00
+ - user: None
+ - tags: ['personal']
+
+## Utku Şen Kişisel Web Sitesi
+ - [https://utkusen.com](https://utkusen.com)
+ - date published: 2023-10-25T17:54:37.452305+00:00
+ - user: None
+ - tags: []
+
+## UVA Health Newsroom
+ - [https://newsroom.uvahealth.com](https://newsroom.uvahealth.com)
+ - date published: 2024-01-03T19:54:34.023561+00:00
+ - user: None
+ - tags: []
+
+## https://v2ex.com
+ - [https://v2ex.com](https://v2ex.com)
+ - date published: 2023-10-25T17:54:37.744256+00:00
+ - user: None
+ - tags: []
+
+## Vadim Demedes
+ - [https://vadimdemedes.com](https://vadimdemedes.com)
+ - date published: 2023-10-25T17:54:43.533479+00:00
+ - user: None
+ - tags: []
+
+## Vadim Kravcenko - Fractional CTO. Helping Startups Scale.
+ - [https://vadimkravcenko.com](https://vadimkravcenko.com)
+ - date published: 2023-10-25T17:54:44.960359+00:00
+ - user: None
+ - tags: []
+
+## Home - Vaibhav Sagar
+ - [https://vaibhavsagar.com](https://vaibhavsagar.com)
+ - date published: 2023-10-25T17:54:45.622246+00:00
+ - user: None
+ - tags: []
+
+## Vainglory (VG) Builds & Guides, wiki, database and forums. VG Hero Build Guides on VaingloryFire Wiki!
+ - [https://www.vaingloryfire.com](https://www.vaingloryfire.com)
+ - date published: 2023-12-13T16:20:40.277237+00:00
+ - user: None
+ - tags: []
+
+## Valentino Urbano
+ - [https://www.valentinourbano.com](https://www.valentinourbano.com)
+ - date published: 2023-12-20T00:59:43.567174+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## Valheim
+ - [https://www.valheimgame.com](https://www.valheimgame.com)
+ - date published: 2023-11-04T19:20:47.911512+00:00
+ - user: None
+ - tags: ['game']
+
+## The Vallejo Sun: An independent news publication for Solano County
+ - [https://www.vallejosun.com](https://www.vallejosun.com)
+ - date published: 2023-10-25T17:54:48.425962+00:00
+ - user: None
+ - tags: []
+
+## Valve Developer Community
+ - [https://developer.valvesoftware.com](https://developer.valvesoftware.com)
+ - date published: 2023-12-06T10:38:51+00:00
+ - user: rumpel
+ - tags: []
+
+## Valve Corporation
+ - [https://www.valvesoftware.com](https://www.valvesoftware.com)
+ - date published: 2023-10-25T11:28:48.972520+00:00
+ - user: None
+ - tags: ['counter strike', 'half life']
+
+## VAN — An independent online classical music magazine
+ - [https://van-magazine.com](https://van-magazine.com)
+ - date published: 2023-10-25T17:54:53.957295+00:00
+ - user: None
+ - tags: []
+
+## Vancouver News  - Vancouver Is Awesome
+ - [https://www.vancouverisawesome.com](https://www.vancouverisawesome.com)
+ - date published: 2023-10-25T17:54:58.760634+00:00
+ - user: None
+ - tags: []
+
+## Home | Vancouver Sun
+ - [https://vancouversun.com](https://vancouversun.com)
+ - date published: 2023-10-25T17:55:12.378780+00:00
+ - user: None
+ - tags: []
+
+## The Vanderbilt Hustler - The official student newspaper of Vanderbilt University
+ - [https://vanderbilthustler.com](https://vanderbilthustler.com)
+ - date published: 2023-10-25T17:55:16.964948+00:00
+ - user: None
+ - tags: []
+
+## Mutual funds, IRAs, ETFs, 401(k) plans, and more | Vanguard
+ - [https://vanguard.com](https://vanguard.com)
+ - date published: 2023-10-25T16:15:21.429996+00:00
+ - user: None
+ - tags: []
+
+## https://www.vanguardngr.com
+ - [https://www.vanguardngr.com](https://www.vanguardngr.com)
+ - date published: 2023-12-29T20:35:26.118500+00:00
+ - user: None
+ - tags: ['nigeria']
+
 ## index
  - [https://vanhunteradams.com](https://vanhunteradams.com)
  - date published: 2023-10-25T17:55:19.369824+00:00
@@ -37,6 +308,12 @@
 ## VapourSynth | The future home of VapourSynth… 3000!
  - [https://www.vapoursynth.com](https://www.vapoursynth.com)
  - date published: 2023-10-25T14:01:23.313974+00:00
+ - user: None
+ - tags: []
+
+## varia Pulse
+ - [https://variapulse.com](https://variapulse.com)
+ - date published: 2024-01-08T00:13:21.167973+00:00
  - user: None
  - tags: []
 
@@ -325,6 +602,12 @@
 ## Viksit Gaur | Viksit Gaur Online
  - [https://viksit.com](https://viksit.com)
  - date published: 2023-10-25T17:56:36.926186+00:00
+ - user: None
+ - tags: []
+
+## Viktor Lovgren - Home
+ - [https://www.viktorlovgren.com](https://www.viktorlovgren.com)
+ - date published: 2024-01-09T00:11:03.366212+00:00
  - user: None
  - tags: []
 
@@ -4571,6 +4854,12 @@
  - user: None
  - tags: []
 
+## Webhook.Cool - Online Webhook Tester
+ - [https://webhook.cool](https://webhook.cool)
+ - date published: 2024-01-08T18:35:40.117613+00:00
+ - user: None
+ - tags: []
+
 ## Hellō
  - [https://www.hello.coop](https://www.hello.coop)
  - date published: 2023-10-25T18:26:53.905223+00:00
@@ -4817,6 +5106,12 @@
  - user: None
  - tags: []
 
+## Bernd Paysan
+ - [https://bernd-paysan.de](https://bernd-paysan.de)
+ - date published: 2024-01-08T13:27:29.644413+00:00
+ - user: None
+ - tags: []
+
 ## BfS  -  Startseite
  - [https://www.bfs.de](https://www.bfs.de)
  - date published: 2023-10-25T18:28:14.718430+00:00
@@ -4856,6 +5151,12 @@
 ## Bundesverfassungsgericht  -  Startseite
  - [https://www.bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de)
  - date published: 2023-10-25T18:28:33.150667+00:00
+ - user: None
+ - tags: []
+
+## Carmen Radeck – thoughts and stuff
+ - [https://carmenradeck.de](https://carmenradeck.de)
+ - date published: 2024-01-08T15:37:43.540623+00:00
  - user: None
  - tags: []
 
@@ -5502,6 +5803,12 @@ home
  - user: None
  - tags: []
 
+## rsadowski.de
+ - [https://rsadowski.de](https://rsadowski.de)
+ - date published: 2024-01-08T18:34:59.214173+00:00
+ - user: None
+ - tags: []
+
 ## Newsportal - Ruhr-Universität Bochum
  - [https://news.rub.de](https://news.rub.de)
  - date published: 2023-10-30T21:58:13.353774+00:00
@@ -5693,310 +6000,4 @@ home
  - date published: 2023-10-25T18:33:06.452394+00:00
  - user: None
  - tags: []
-
-## Umweltbundesamt | Für Mensch und Umwelt
- - [https://www.umweltbundesamt.de](https://www.umweltbundesamt.de)
- - date published: 2023-10-25T18:33:10.971958+00:00
- - user: None
- - tags: []
-
-## https://jsxgraph.uni-bayreuth.de
- - [https://jsxgraph.uni-bayreuth.de](https://jsxgraph.uni-bayreuth.de)
- - date published: 2023-10-26T13:42:48.938099+00:00
- - user: None
- - tags: []
-
-## Faculty of Mathematics - Bielefeld University
- - [https://www.math.uni-bielefeld.de](https://www.math.uni-bielefeld.de)
- - date published: 2023-10-25T18:33:13.635873+00:00
- - user: None
- - tags: []
-
-## Universität Göttingen - Georg-August-Universität Göttingen
- - [https://www.uni-goettingen.de](https://www.uni-goettingen.de)
- - date published: 2023-12-13T10:23:08.198367+00:00
- - user: None
- - tags: []
-
-## Heidelberg University EN
- - [https://www.uni-heidelberg.de](https://www.uni-heidelberg.de)
- - date published: 2023-10-25T11:22:07.189480+00:00
- - user: None
- - tags: []
-
-## Exzellenzwettbewerb | Forschen | Universität Konstanz
- - [https://www.exc.uni-konstanz.de](https://www.exc.uni-konstanz.de)
- - date published: 2023-11-25T11:44:21.122864+00:00
- - user: None
- - tags: []
-
-## Universität Münster
- - [https://www.uni-muenster.de](https://www.uni-muenster.de)
- - date published: 2023-10-25T18:33:14.981774+00:00
- - user: None
- - tags: []
-
-## Universität Stuttgart
- - [https://www.uni-stuttgart.de](https://www.uni-stuttgart.de)
- - date published: 2023-10-25T18:33:19.227772+00:00
- - user: None
- - tags: []
-
-## Universität Würzburg - Universität Würzburg
- - [https://www.uni-wuerzburg.de](https://www.uni-wuerzburg.de)
- - date published: 2024-01-04T12:24:07.412643+00:00
- - user: None
- - tags: []
-
-## UTzone.de     -->>    [UT99 | UT2004 | UT3 | UT4 ] Feel the Emotions
- - [https://www.utzone.de](https://www.utzone.de)
- - date published: 2023-10-30T15:41:16.767039+00:00
- - user: None
- - tags: []
-
-## Viktor Garske
- - [https://ai.v-gar.de](https://ai.v-gar.de)
- - date published: 2023-10-25T18:33:20.746124+00:00
- - user: None
- - tags: []
-
-## Vesalia Online - The Amiga & Retrocomputing Store (Est. 1987)
- - [https://www.vesalia.de](https://www.vesalia.de)
- - date published: 2023-12-11T19:07:27.880695+00:00
- - user: None
- - tags: []
-
-## VIVALINE Media Production – Online Agentur Halle (Saale)
- - [https://vivaline.de](https://vivaline.de)
- - date published: 2023-12-11T19:05:56.531832+00:00
- - user: None
- - tags: []
-
-## volzo · volzo.de
- - [https://volzo.de](https://volzo.de)
- - date published: 2023-10-25T18:33:21.403089+00:00
- - user: None
- - tags: []
-
-## vzbv
- - [https://www.vzbv.de](https://www.vzbv.de)
- - date published: 2023-10-31T08:58:05.940865+00:00
- - user: None
- - tags: []
-
-## WELT - Aktuelle Nachrichten, News, Hintergründe & Videos
- - [https://www.welt.de](https://www.welt.de)
- - date published: 2023-10-25T18:33:41+00:00
- - user: rumpel
- - tags: ['germany news']
-
-## whatheco.de – Discussions on software, design, and software design.
- - [https://whatheco.de](https://whatheco.de)
- - date published: 2023-10-25T18:33:46.115321+00:00
- - user: None
- - tags: []
-
-## WHDLoad
- - [https://www.whdload.de](https://www.whdload.de)
- - date published: 2023-10-27T14:27:32.256574+00:00
- - user: None
- - tags: ['amiga']
-
-## Serialized Gedanken
- - [https://valentin.willscher.de](https://valentin.willscher.de)
- - date published: 2023-12-25T08:33:59.217539+00:00
- - user: None
- - tags: []
-
-## Ode to capitalism
- - [https://blog.xa0.de](https://blog.xa0.de)
- - date published: 2023-10-25T18:33:54.731626+00:00
- - user: None
- - tags: []
-
-## ZEIT ONLINE | Nachrichten, News, Hintergründe und Debatten
- - [https://www.zeit.de](https://www.zeit.de)
- - date published: 2023-10-25T18:34:07.682068+00:00
- - user: None
- - tags: []
-
-## Jelly Deals
- - [https://www.jelly.deals](https://www.jelly.deals)
- - date published: 2023-12-13T15:40:49.601884+00:00
- - user: None
- - tags: []
-
-## Explore - git.meli.delivery
- - [https://git.meli.delivery](https://git.meli.delivery)
- - date published: 2023-10-25T18:34:11.386923+00:00
- - user: None
- - tags: []
-
-## Alessandro De Simone - Software Engineer - London
- - [https://alessandro.desi](https://alessandro.desi)
- - date published: 2023-12-19T09:58:57.272282+00:00
- - user: None
- - tags: ['personal']
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://www.1984.design](https://www.1984.design)
- - date published: 2023-10-25T18:34:13.186299+00:00
- - user: None
- - tags: []
-
-## archives.design
- - [https://archives.design](https://archives.design)
- - date published: 2023-10-25T18:34:15.291934+00:00
- - user: None
- - tags: []
-
-## Design For Awareness | Cap_able Design
- - [https://www.capable.design](https://www.capable.design)
- - date published: 2023-10-25T18:34:17.686429+00:00
- - user: None
- - tags: []
-
-## Product design & UX design resources – Degreeless.Design
- - [https://www.degreeless.design](https://www.degreeless.design)
- - date published: 2023-10-25T18:34:21.863194+00:00
- - user: None
- - tags: []
-
-## École supérieure d’art et de design d’Amiens / design | accueil
- - [https://esad-amiens.design](https://esad-amiens.design)
- - date published: 2023-12-11T16:19:11.537933+00:00
- - user: None
- - tags: []
-
-## feedme.design
- - [https://www.feedme.design](https://www.feedme.design)
- - date published: 2023-12-24T10:58:53.703752+00:00
- - user: None
- - tags: []
-
-## femke.design / Femke van Schoonhoven
- - [https://www.femke.design](https://www.femke.design)
- - date published: 2023-10-25T09:21:33.094419+00:00
- - user: None
- - tags: ['personal']
-
-## Growth.Design — Better Products, Better Growth.
- - [https://growth.design](https://growth.design)
- - date published: 2023-10-25T18:34:22.781659+00:00
- - user: None
- - tags: []
-
-## Julie Chabin
- - [https://www.julie.design](https://www.julie.design)
- - date published: 2023-10-25T09:21:34.151926+00:00
- - user: None
- - tags: ['personal']
-
-## mastodon.design
- - [https://mastodon.design](https://mastodon.design)
- - date published: 2023-12-11T16:19:14.967288+00:00
- - user: None
- - tags: []
-
-## Home - Fluent 2 Design System
- - [https://fluent2.microsoft.design](https://fluent2.microsoft.design)
- - date published: 2023-10-25T18:34:24.950370+00:00
- - user: None
- - tags: []
-
-## Miris Whispers
- - [https://blog.miris.design](https://blog.miris.design)
- - date published: 2023-10-25T18:34:31.450280+00:00
- - user: None
- - tags: []
-
-## Reconstrained Design
- - [https://reconstrained.design](https://reconstrained.design)
- - date published: 2023-12-11T16:18:13.316990+00:00
- - user: None
- - tags: []
-
-## @rolle / Full Stack Developer = Front-end developer, designer, sysadmin
- - [https://rolle.design](https://rolle.design)
- - date published: 2023-12-19T02:59:27.788104+00:00
- - user: None
- - tags: ['personal']
-
-## Slack Design
- - [https://slack.design](https://slack.design)
- - date published: 2023-11-02T16:39:18.847159+00:00
- - user: None
- - tags: []
-
-## Steve Polito is a full stack web developer in the Boston Area
- - [https://stevepolito.design](https://stevepolito.design)
- - date published: 2023-10-25T18:34:32.217038+00:00
- - user: None
- - tags: []
-
-## Wise Design
- - [https://wise.design](https://wise.design)
- - date published: 2023-10-25T18:34:32.784058+00:00
- - user: None
- - tags: []
-
-## 0x7D0
- - [https://blog.0x7d0.dev](https://blog.0x7d0.dev)
- - date published: 2023-10-25T18:34:34.220775+00:00
- - user: None
- - tags: []
-
-## 0x7f Inc.
- - [https://0x7f.dev](https://0x7f.dev)
- - date published: 2023-10-25T18:34:34.827334+00:00
- - user: None
- - tags: []
-
-## A world where people pay for software
- - [https://1sub.dev](https://1sub.dev)
- - date published: 2023-10-25T18:34:35.457611+00:00
- - user: None
- - tags: []
-
-## It works
- - [https://blog.aawadia.dev](https://blog.aawadia.dev)
- - date published: 2023-10-25T18:34:36.448442+00:00
- - user: None
- - tags: []
-
-## Aerolite Studios
- - [https://aerolite.dev](https://aerolite.dev)
- - date published: 2023-10-25T18:34:37.299684+00:00
- - user: None
- - tags: []
-
-## The Aha Stack
- - [https://ahastack.dev](https://ahastack.dev)
- - date published: 2024-01-03T14:54:40+00:00
- - user: None
- - tags: []
-
-## Airplane | The developer platform for internal tools
- - [https://www.airplane.dev](https://www.airplane.dev)
- - date published: 2023-10-25T18:34:38.548749+00:00
- - user: None
- - tags: []
-
-## AksDev
- - [https://www.akselmo.dev](https://www.akselmo.dev)
- - date published: 2023-10-25T18:34:39.206217+00:00
- - user: None
- - tags: []
-
-## Alex Saveau | https://alexsaveau.dev
- - [https://alexsaveau.dev](https://alexsaveau.dev)
- - date published: 2023-10-25T18:34:44.776986+00:00
- - user: None
- - tags: []
-
-## Adrian Alic - Blogging about High-Performance Systems
- - [https://alic.dev](https://alic.dev)
- - date published: 2023-10-25T08:48:21.706613+00:00
- - user: None
- - tags: ['personal']
 

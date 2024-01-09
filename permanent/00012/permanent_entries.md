@@ -1,3 +1,321 @@
+## NIS2 Directive | Prepare Your Organization Now
+ - [https://nis2directive.eu](https://nis2directive.eu)
+ - date published: 2023-10-25T19:11:09.618121+00:00
+ - user: None
+ - tags: []
+
+## Новая газета Европа
+ - [https://novayagazeta.eu](https://novayagazeta.eu)
+ - date published: 2023-11-15T18:40:56.455675+00:00
+ - user: None
+ - tags: []
+
+## NOYB enforces your right to privacy everyday
+ - [https://noyb.eu](https://noyb.eu)
+ - date published: 2023-10-25T11:24:53.335930+00:00
+ - user: None
+ - tags: []
+
+## Welcome - Open Web Search – Promoting Europe's Independence in Web Search
+ - [https://openwebsearch.eu](https://openwebsearch.eu)
+ - date published: 2023-10-25T19:11:14.751829+00:00
+ - user: None
+ - tags: []
+
+## pnote | Przemek | Substack
+ - [https://newsletter.pnote.eu](https://newsletter.pnote.eu)
+ - date published: 2024-01-01T16:29:16.021094+00:00
+ - user: None
+ - tags: []
+
+## pnote.eu
+ - [https://pnote.eu](https://pnote.eu)
+ - date published: 2023-11-12T09:42:04.084639+00:00
+ - user: None
+ - tags: []
+
+## Pograne
+ - [https://pograne.eu](https://pograne.eu)
+ - date published: 2023-12-13T15:18:08.619232+00:00
+ - user: None
+ - tags: ['video games']
+
+## POLITICO – European Politics, Policy, Government News
+ - [https://www.politico.eu](https://www.politico.eu)
+ - date published: 2023-10-25T10:30:34.441140+00:00
+ - user: None
+ - tags: []
+
+## https://publiccode.eu/en/
+ - [https://publiccode.eu](https://publiccode.eu)
+ - date published: 2023-10-25T19:11:20.936558+00:00
+ - user: None
+ - tags: []
+
+## On Programming, Software Architecture, and Sociotechnical Systems
+ - [https://www.reactivesystems.eu](https://www.reactivesystems.eu)
+ - date published: 2023-10-25T19:11:27.315296+00:00
+ - user: None
+ - tags: []
+
+## Your voice in the European Parliament - Renew Europe
+ - [https://www.reneweuropegroup.eu](https://www.reneweuropegroup.eu)
+ - date published: 2023-10-25T19:11:30.012318+00:00
+ - user: None
+ - tags: []
+
+## Home - Right to Repair Europe
+ - [https://repair.eu](https://repair.eu)
+ - date published: 2023-11-03T10:38:49.832941+00:00
+ - user: None
+ - tags: []
+
+## retronagazie – Gry RETRO, recenzje, wspominki, publicystyka
+ - [https://www.retronagazie.eu](https://www.retronagazie.eu)
+ - date published: 2023-12-12T09:19:43+00:00
+ - user: rumpel
+ - tags: ['retro games']
+
+## Bystroushaak's blog
+ - [https://blog.rfox.eu](https://blog.rfox.eu)
+ - date published: 2023-10-25T11:45:10.258800+00:00
+ - user: None
+ - tags: ['personal']
+
+## Severe Weather Europe » “Follow severe weather as it happens. Anywhere. Any time.”
+ - [https://www.severe-weather.eu](https://www.severe-weather.eu)
+ - date published: 2023-10-25T19:11:37.267092+00:00
+ - user: None
+ - tags: []
+
+## The latest startup news and analysis from Europe | Sifted
+ - [https://sifted.eu](https://sifted.eu)
+ - date published: 2023-10-25T19:11:43.124785+00:00
+ - user: None
+ - tags: []
+
+## Silent Signal Techblog
+ - [https://blog.silentsignal.eu](https://blog.silentsignal.eu)
+ - date published: 2023-10-25T19:11:44.624027+00:00
+ - user: None
+ - tags: []
+
+## Stare-Gry.eu - Klasyki gier sprzed lat:
+ - [https://stare-gry.eu](https://stare-gry.eu)
+ - date published: 2023-12-13T15:07:15.431359+00:00
+ - user: None
+ - tags: ['video games']
+
+## State of the Map EU 2023
+ - [https://stateofthemap.eu](https://stateofthemap.eu)
+ - date published: 2023-10-25T19:11:51.109957+00:00
+ - user: None
+ - tags: []
+
+## Let's stop the EU chat control! - stopchatcontrol.eu
+ - [https://stopchatcontrol.eu](https://stopchatcontrol.eu)
+ - date published: 2023-10-25T19:11:53.766629+00:00
+ - user: None
+ - tags: []
+
+## Stop Scanning Me
+ - [https://stopscanningme.eu](https://stopscanningme.eu)
+ - date published: 2023-10-25T19:11:57.111015+00:00
+ - user: None
+ - tags: []
+
+## TMS Electronics AB
+ - [https://tmsnet.eu](https://tmsnet.eu)
+ - date published: 2023-12-13T14:57:36.436436+00:00
+ - user: None
+ - tags: ['electronic parts']
+
+## Newsroom Toyota Europe
+ - [https://newsroom.toyota.eu](https://newsroom.toyota.eu)
+ - date published: 2023-10-25T10:55:48.058400+00:00
+ - user: None
+ - tags: []
+
+## Blog about business, startups, technology and digital transformation | Adam Trojanczyk
+ - [https://trojanczyk.eu](https://trojanczyk.eu)
+ - date published: 2023-10-25T19:12:06.424115+00:00
+ - user: None
+ - tags: []
+
+## VCMI Project
+ - [https://vcmi.eu](https://vcmi.eu)
+ - date published: 2023-10-25T08:33:07.453100+00:00
+ - user: None
+ - tags: ['open source', 'heroes3']
+
+## VCMI Project Wiki
+ - [https://wiki.vcmi.eu](https://wiki.vcmi.eu)
+ - date published: 2023-10-25T11:17:27.869847+00:00
+ - user: None
+ - tags: []
+
+## Personal homepage of Vitalii Kovalenko
+ - [https://vk7.eu](https://vk7.eu)
+ - date published: 2023-10-25T09:26:23.336733+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://act.wemove.eu](https://act.wemove.eu)
+ - date published: 2023-10-25T19:12:09.146978+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://www.worldstandards.eu](https://www.worldstandards.eu)
+ - date published: 2023-10-25T19:12:10.573642+00:00
+ - user: None
+ - tags: []
+
+## Home - Yanis Varoufakis
+ - [https://www.yanisvaroufakis.eu](https://www.yanisvaroufakis.eu)
+ - date published: 2023-10-25T11:24:31.031712+00:00
+ - user: None
+ - tags: []
+
+## https://ecomm.events
+ - [https://ecomm.events](https://ecomm.events)
+ - date published: 2023-12-11T16:51:20.422883+00:00
+ - user: None
+ - tags: []
+
+## HOME | UKTC.events
+ - [https://www.uktc.events](https://www.uktc.events)
+ - date published: 2023-10-25T11:12:36.401594+00:00
+ - user: None
+ - tags: []
+
+## : : d j . e x c h a n g e : :
+ - [https://dj.exchange](https://dj.exchange)
+ - date published: 2023-10-25T19:12:11.857349+00:00
+ - user: None
+ - tags: []
+
+## Infosec Exchange
+ - [https://infosec.exchange](https://infosec.exchange)
+ - date published: 2023-10-25T19:12:12.530727+00:00
+ - user: None
+ - tags: []
+
+## IOC.exchange
+ - [https://ioc.exchange](https://ioc.exchange)
+ - date published: 2023-10-25T19:12:13.727494+00:00
+ - user: None
+ - tags: []
+
+## Nicole Express
+ - [https://nicole.express](https://nicole.express)
+ - date published: 2023-10-25T19:12:14.620553+00:00
+ - user: None
+ - tags: ['personal']
+
+## Abort Retry Fail | Bradford Morgan White | Substack
+ - [https://www.abortretry.fail](https://www.abortretry.fail)
+ - date published: 2023-10-25T19:12:20.013358+00:00
+ - user: None
+ - tags: []
+
+## Brute.Fail: Watch brute force attacks fail in real time
+ - [https://brute.fail](https://brute.fail)
+ - date published: 2023-10-25T19:12:28.295612+00:00
+ - user: None
+ - tags: []
+
+## How Complex Systems Fail
+ - [https://how.complexsystems.fail](https://how.complexsystems.fail)
+ - date published: 2023-10-25T19:12:28.930660+00:00
+ - user: None
+ - tags: []
+
+## dare.fail
+ - [https://dare.fail](https://dare.fail)
+ - date published: 2023-10-25T19:12:30.964824+00:00
+ - user: None
+ - tags: []
+
+## SGX.Fail
+ - [https://sgx.fail](https://sgx.fail)
+ - date published: 2023-10-25T19:12:32.595021+00:00
+ - user: None
+ - tags: []
+
+## Personal Ramblings – Persönliches dies-und-das
+ - [https://patrick.georgi.family](https://patrick.georgi.family)
+ - date published: 2023-10-25T19:12:38.756579+00:00
+ - user: None
+ - tags: []
+
+## MGR.FARM - serwis branżowy dla farmaceutów
+ - [https://mgr.farm](https://mgr.farm)
+ - date published: 2023-10-25T19:12:44.760001+00:00
+ - user: None
+ - tags: []
+
+## Orb.Farm
+ - [https://orb.farm](https://orb.farm)
+ - date published: 2023-10-25T19:12:45.231890+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science | Aalto University
+ - [https://users.ics.aalto.fi](https://users.ics.aalto.fi)
+ - date published: 2023-10-25T19:12:48.987236+00:00
+ - user: None
+ - tags: []
+
+## WeChatGPT+ now with 8% less censorship!
+ - [https://future.attejuvonen.fi](https://future.attejuvonen.fi)
+ - date published: 2023-10-25T19:12:50.280628+00:00
+ - user: None
+ - tags: []
+
+## Citroën Suomi
+ - [https://www.citroen.fi](https://www.citroen.fi)
+ - date published: 2023-12-11T16:01:21.717152+00:00
+ - user: None
+ - tags: []
+
+## AfterDawn
+ - [https://dawn.fi](https://dawn.fi)
+ - date published: 2023-10-25T19:13:02.974882+00:00
+ - user: None
+ - tags: []
+
+## WWW.NIC.FUNET.FI
+ - [https://www.funet.fi](https://www.funet.fi)
+ - date published: 2023-10-25T19:13:04.150075+00:00
+ - user: None
+ - tags: []
+
+## Home - gekkio.fi
+ - [https://gekkio.fi](https://gekkio.fi)
+ - date published: 2023-10-25T19:13:04.942208+00:00
+ - user: None
+ - tags: []
+
+## Sähköä, kaukolämpöä ja kaukojäähdytystä luotettavasti
+ - [https://www.helen.fi](https://www.helen.fi)
+ - date published: 2023-11-10T16:23:29.663051+00:00
+ - user: None
+ - tags: []
+
+## Computer Science | Faculty of Science | University of Helsinki
+ - [https://www.cs.helsinki.fi](https://www.cs.helsinki.fi)
+ - date published: 2023-12-01T13:53:30+00:00
+ - user: rumpel
+ - tags: ['university']
+
+## University of Helsinki
+ - [https://www.helsinki.fi](https://www.helsinki.fi)
+ - date published: 2023-11-07T12:03:41.332278+00:00
+ - user: None
+ - tags: ['university']
+
 ## News from Finland "Helsinki Times"
  - [https://www.helsinkitimes.fi](https://www.helsinkitimes.fi)
  - date published: 2023-10-25T19:13:07.329659+00:00
@@ -2054,6 +2372,12 @@
  - user: None
  - tags: []
 
+## Oklahoma.gov Home
+ - [https://oklahoma.gov](https://oklahoma.gov)
+ - date published: 2024-01-08T15:10:22.537667+00:00
+ - user: None
+ - tags: []
+
 ## Oak Ridge National Laboratory: Solving the Big Problems | ORNL
  - [https://www.ornl.gov](https://www.ornl.gov)
  - date published: 2023-10-25T19:25:00.286836+00:00
@@ -2707,6 +3031,12 @@
 ## Preloved - Jual-Beli Baju Vintage di Thrift Shop Online
  - [https://preloved.co.id](https://preloved.co.id)
  - date published: 2023-10-25T19:28:30.280862+00:00
+ - user: None
+ - tags: []
+
+## By Benny
+ - [https://benny.id](https://benny.id)
+ - date published: 2024-01-08T07:26:12.846132+00:00
  - user: None
  - tags: []
 
@@ -5669,340 +5999,9 @@
  - user: None
  - tags: []
 
-## github:buttons
- - [https://buttons.github.io](https://buttons.github.io)
- - date published: 2023-12-11T19:35:06.408108+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://cachemon.github.io](https://cachemon.github.io)
- - date published: 2024-01-03T07:21:47.641951+00:00
- - user: None
- - tags: []
-
-## The Cairo Programming Language - The Cairo Programming Language
- - [https://cairo-book.github.io](https://cairo-book.github.io)
- - date published: 2023-10-25T19:44:39.830616+00:00
- - user: None
- - tags: []
-
-## About Me - Andrew Lee
- - [https://candrewlee14.github.io](https://candrewlee14.github.io)
- - date published: 2023-10-25T19:44:40.542809+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://captain-of-coit.github.io](https://captain-of-coit.github.io)
- - date published: 2023-12-20T00:38:21.856528+00:00
- - user: None
- - tags: []
-
-## invoke::thought()
- - [https://cdacamar.github.io](https://cdacamar.github.io)
- - date published: 2023-10-25T19:44:41.325612+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://charlieroberts.github.io](https://charlieroberts.github.io)
- - date published: 2024-01-02T19:33:20.285527+00:00
- - user: None
- - tags: []
-
-## Chunyi
- - [https://chuny1.github.io](https://chuny1.github.io)
- - date published: 2023-12-22T05:12:34.200449+00:00
- - user: None
- - tags: []
-
-## Stefano Cianciulli
- - [https://cianciustyles.github.io](https://cianciustyles.github.io)
- - date published: 2023-11-29T15:45:13.460255+00:00
- - user: None
- - tags: ['personal']
-
-## Clayton's Website
- - [https://claytonwramsey.github.io](https://claytonwramsey.github.io)
- - date published: 2023-10-25T19:44:41.848803+00:00
- - user: None
- - tags: []
-
-## Matthew C. Davis
- - [https://cmumatt.github.io](https://cmumatt.github.io)
- - date published: 2023-10-25T08:49:15.702993+00:00
- - user: None
- - tags: ['personal']
-
-## CoTracker: It is Better to Track Together
- - [https://co-tracker.github.io](https://co-tracker.github.io)
- - date published: 2023-10-25T19:44:42.584023+00:00
- - user: None
- - tags: []
-
-## Pythonicity
- - [https://coady.github.io](https://coady.github.io)
- - date published: 2023-11-25T03:39:41.735379+00:00
- - user: None
- - tags: []
-
-## Patai Gergely
- - [https://cobbpg.github.io](https://cobbpg.github.io)
- - date published: 2023-11-16T00:32:47.215451+00:00
- - user: None
- - tags: []
-
-## CoDi: Generate Anything from Anything All At Once
-through Composable Diffusion
- - [https://codi-gen.github.io](https://codi-gen.github.io)
- - date published: 2023-10-25T19:44:43.372332+00:00
- - user: None
- - tags: []
-
-## One second code: Do YOU know how much your computer can do in a second?
- - [https://computers-are-fast.github.io](https://computers-are-fast.github.io)
- - date published: 2023-10-25T19:44:43.854261+00:00
- - user: None
- - tags: []
-
-## Conor Lamb
- - [https://conorcorp.github.io](https://conorcorp.github.io)
- - date published: 2023-10-25T19:44:44.971410+00:00
- - user: None
- - tags: []
-
-## Silent’s Blog | A blog and portfolio of Silent
- - [https://cookieplmonster.github.io](https://cookieplmonster.github.io)
- - date published: 2023-10-25T19:44:45.892632+00:00
- - user: None
- - tags: []
-
-## https://cor3ntin.github.io
- - [https://cor3ntin.github.io](https://cor3ntin.github.io)
- - date published: 2023-10-25T19:44:46.571111+00:00
- - user: None
- - tags: []
-
-## CTurt
- - [https://cturt.github.io](https://cturt.github.io)
- - date published: 2023-10-25T19:44:52.061450+00:00
- - user: None
- - tags: []
-
-## \\cube0x0\
- - [https://cube0x0.github.io](https://cube0x0.github.io)
- - date published: 2023-10-25T19:44:52.992321+00:00
- - user: None
- - tags: []
-
-## Wherein The Chicken
- - [https://cushychicken.github.io](https://cushychicken.github.io)
- - date published: 2023-10-25T19:44:53.696442+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://daduckmsft.github.io](https://daduckmsft.github.io)
- - date published: 2023-12-31T17:16:39.038947+00:00
- - user: None
- - tags: []
-
-## Daniel Geng
- - [https://dangeng.github.io](https://dangeng.github.io)
- - date published: 2023-12-01T10:46:14.463296+00:00
- - user: None
- - tags: []
-
-## Find HN Candidates
- - [https://darighost.github.io](https://darighost.github.io)
- - date published: 2024-01-02T19:34:22.824261+00:00
- - user: None
- - tags: []
-
-## DatenLord
- - [https://datenlord.github.io](https://datenlord.github.io)
- - date published: 2023-10-30T20:37:53.162449+00:00
- - user: None
- - tags: []
-
-## David Turner says…
- - [https://davecturner.github.io](https://davecturner.github.io)
- - date published: 2023-12-25T20:07:12.208878+00:00
- - user: None
- - tags: []
-
-## David Laprade | Blog
- - [https://davidlaprade.github.io](https://davidlaprade.github.io)
- - date published: 2023-10-25T19:44:54.555331+00:00
- - user: None
- - tags: []
-
-## David Lattimore’s open-source projects
- - [https://davidlattimore.github.io](https://davidlattimore.github.io)
- - date published: 2023-10-25T19:44:55.086464+00:00
- - user: None
- - tags: []
-
-## Posts | David Muller
- - [https://davidmuller.github.io](https://davidmuller.github.io)
- - date published: 2023-10-25T19:44:55.761535+00:00
- - user: None
- - tags: []
-
-## DBOS | A Database-Oriented Operating System
- - [https://dbos-project.github.io](https://dbos-project.github.io)
- - date published: 2023-10-25T19:44:56.758451+00:00
- - user: None
- - tags: []
-
-## https://dendiz.github.io
- - [https://dendiz.github.io](https://dendiz.github.io)
- - date published: 2024-01-07T04:15:57.292799+00:00
- - user: None
- - tags: []
-
-## Martijn de Vos
- - [https://devos50.github.io](https://devos50.github.io)
- - date published: 2023-10-25T19:44:58.236322+00:00
- - user: None
- - tags: []
-
-## Moving rocks around | Diego Quintana's blog
- - [https://diegoquintanav.github.io](https://diegoquintanav.github.io)
- - date published: 2023-12-30T15:36:36.876681+00:00
- - user: None
- - tags: ['personal']
-
-## TokenFlow: Consistent Diffusion Features for Consistent Video Editing
- - [https://diffusion-tokenflow.github.io](https://diffusion-tokenflow.github.io)
- - date published: 2023-10-25T19:44:59.018850+00:00
- - user: None
- - tags: []
-
-## Show HN: Resurrecting the Dillo Browser
- - [https://dillo-browser.github.io](https://dillo-browser.github.io)
- - date published: 2024-01-02T21:55:08+00:00
- - user: None
- - tags: []
-
-## Dean Markwick | Personal website for Dean Markwick. If you like stats, sports and rambling, you’ve come to the right place. All rights reserved.
- - [https://dm13450.github.io](https://dm13450.github.io)
- - date published: 2023-10-25T19:45:00.641641+00:00
- - user: None
- - tags: []
-
-## Dennis Muensterer
- - [https://dnnsmnstrr.github.io](https://dnnsmnstrr.github.io)
- - date published: 2024-01-04T08:12:41.237152+00:00
- - user: None
- - tags: []
-
-## Personal Website of Dorian Quelle
- - [https://dorianquelle.github.io](https://dorianquelle.github.io)
- - date published: 2023-11-26T19:21:24.102261+00:00
- - user: None
- - tags: []
-
-## SystemDotRun – Dorian Cussen's Super Blog
- - [https://doridori.github.io](https://doridori.github.io)
- - date published: 2023-10-25T19:45:02.011170+00:00
- - user: None
- - tags: []
-
-## Jinbo Xing
- - [https://doubiiu.github.io](https://doubiiu.github.io)
- - date published: 2023-12-16T17:16:57.452135+00:00
- - user: None
- - tags: []
-
-## Dragon863 - Home
- - [https://dragon863.github.io](https://dragon863.github.io)
- - date published: 2023-10-25T19:45:02.523780+00:00
- - user: None
- - tags: []
-
-## DreamFusion: Text-to-3D using 2D Diffusion
- - [https://dreamfusion3d.github.io](https://dreamfusion3d.github.io)
- - date published: 2023-10-25T19:45:03.516388+00:00
- - user: None
- - tags: []
-
-## DreamFusion: Text-to-3D using 2D Diffusion
- - [https://dreamfusionpaper.github.io](https://dreamfusionpaper.github.io)
- - date published: 2023-10-25T19:45:04.399489+00:00
- - user: None
- - tags: []
-
-## Personal Github Page
- - [https://drhyperion451.github.io](https://drhyperion451.github.io)
- - date published: 2023-12-05T23:27:28.485029+00:00
- - user: None
- - tags: []
-
-## Dr. Tomás Aragón - Population Health Blog
- - [https://drtomasaragon.github.io](https://drtomasaragon.github.io)
- - date published: 2023-10-25T19:45:05.485671+00:00
- - user: None
- - tags: []
-
-## DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion
- - [https://ds-fusion.github.io](https://ds-fusion.github.io)
- - date published: 2023-10-25T19:45:06.310901+00:00
- - user: None
- - tags: []
-
-## None
- - [http://dsego.github.io](http://dsego.github.io)
- - date published: 2023-10-25T19:45:10.046408+00:00
- - user: None
- - tags: []
-
-## dtinth.github.io
- - [https://dtinth.github.io](https://dtinth.github.io)
- - date published: 2023-10-25T19:45:10.444392+00:00
- - user: None
- - tags: []
-
-## Damian Bogunowicz - dtransposed
- - [https://dtransposed.github.io](https://dtransposed.github.io)
- - date published: 2023-11-06T13:53:20.330919+00:00
- - user: None
- - tags: []
-
-## Edward Tufte on GitHub
- - [https://edwardtufte.github.io](https://edwardtufte.github.io)
- - date published: 2023-10-25T19:45:10.914469+00:00
- - user: None
- - tags: []
-
-## Ezequiel Leonardo Castaño Personal Website
- - [https://elc.github.io](https://elc.github.io)
- - date published: 2023-10-25T19:45:12.215543+00:00
- - user: None
- - tags: []
-
-## epage
- - [https://epage.github.io](https://epage.github.io)
- - date published: 2023-10-25T19:45:12.848366+00:00
- - user: None
- - tags: []
-
-## Redirecting to EPIC Kitchens 2023
- - [https://epic-kitchens.github.io](https://epic-kitchens.github.io)
- - date published: 2023-10-25T19:45:13.242646+00:00
- - user: None
- - tags: []
-
-## Erich Friedman
- - [https://erich-friedman.github.io](https://erich-friedman.github.io)
- - date published: 2023-10-25T19:45:13.848679+00:00
- - user: None
- - tags: []
-
-## espadrine
- - [https://espadrine.github.io](https://espadrine.github.io)
- - date published: 2023-10-25T19:45:14.335066+00:00
+## /root
+ - [https://buredoranna.github.io](https://buredoranna.github.io)
+ - date published: 2024-01-08T05:08:08.728993+00:00
  - user: None
  - tags: []
 

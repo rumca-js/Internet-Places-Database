@@ -1,3 +1,141 @@
+## Initial Commit - Quality resources and tools for developers
+ - [https://initialcommit.com](https://initialcommit.com)
+ - date published: 2023-10-25T15:20:06.886371+00:00
+ - user: None
+ - tags: []
+
+## AC3D - Easy to use 3D software
+ - [https://www.inivis.com](https://www.inivis.com)
+ - date published: 2023-10-25T15:20:09.545970+00:00
+ - user: None
+ - tags: []
+
+## Ink & Switch
+ - [https://www.inkandswitch.com](https://www.inkandswitch.com)
+ - date published: 2023-10-25T15:20:10.327252+00:00
+ - user: None
+ - tags: []
+
+## inkle
+ - [https://www.inklestudios.com](https://www.inklestudios.com)
+ - date published: 2023-10-25T15:20:11.965217+00:00
+ - user: None
+ - tags: []
+
+## https://cmp.inmobi.com
+ - [https://cmp.inmobi.com](https://cmp.inmobi.com)
+ - date published: 2023-12-11T18:41:59.986191+00:00
+ - user: None
+ - tags: []
+
+## Inngest - Effortless serverless queues, background jobs, and workflows
+ - [https://www.inngest.com](https://www.inngest.com)
+ - date published: 2023-10-25T15:20:13.641088+00:00
+ - user: None
+ - tags: []
+
+## INNOQ
+ - [https://www.innoq.com](https://www.innoq.com)
+ - date published: 2023-10-25T15:20:16.024206+00:00
+ - user: None
+ - tags: []
+
+## Innovation & Tech Today | Online
+ - [https://innotechtoday.com](https://innotechtoday.com)
+ - date published: 2023-10-25T15:20:25.830987+00:00
+ - user: None
+ - tags: []
+
+## Innovation Origins - Your Sneak Preview of the Future
+ - [https://innovationorigins.com](https://innovationorigins.com)
+ - date published: 2023-10-25T15:20:37.229296+00:00
+ - user: None
+ - tags: []
+
+## Innovations Report - News & Neuigkeiten aus der Welt der Innovationen
+ - [https://www.innovations-report.com](https://www.innovations-report.com)
+ - date published: 2023-10-25T15:20:39.419726+00:00
+ - user: None
+ - tags: []
+
+## Ian Norris - Home
+ - [https://inorris.com](https://inorris.com)
+ - date published: 2023-10-25T15:20:40.248982+00:00
+ - user: None
+ - tags: []
+
+## InpharmD
+ - [https://www.inpharmd.com](https://www.inpharmd.com)
+ - date published: 2023-12-16T01:15:56.375298+00:00
+ - user: None
+ - tags: []
+
+## Input
+ - [https://www.inputmag.com](https://www.inputmag.com)
+ - date published: 2023-10-25T15:20:42.775326+00:00
+ - user: None
+ - tags: []
+
+## Inquirer.com: Philadelphia local news, sports, jobs, cars, homes
+ - [https://www.inquirer.com](https://www.inquirer.com)
+ - date published: 2023-10-25T15:21:01.641378+00:00
+ - user: None
+ - tags: []
+
+## Inside Edition
+ - [https://www.insideedition.com](https://www.insideedition.com)
+ - date published: 2023-12-29T04:40:41.317819+00:00
+ - user: None
+ - tags: []
+
+## InsideEVs | Electric Vehicle News, Reviews, and Reports
+ - [https://insideevs.com](https://insideevs.com)
+ - date published: 2023-10-25T15:21:12.264565+00:00
+ - user: None
+ - tags: []
+
+## Inside Higher Ed | Higher Education News, Career Advice, Events and Jobs
+ - [https://www.insidehighered.com](https://www.insidehighered.com)
+ - date published: 2023-10-25T15:21:16.274145+00:00
+ - user: None
+ - tags: []
+
+## InsideHook | News, Reviews, Health, Travel & Fashion for Men - InsideHook
+ - [https://www.insidehook.com](https://www.insidehook.com)
+ - date published: 2023-10-25T15:21:20.621084+00:00
+ - user: None
+ - tags: []
+
+## Inside Precision Medicine | Homepage
+ - [https://www.insideprecisionmedicine.com](https://www.insideprecisionmedicine.com)
+ - date published: 2023-10-25T15:21:24.467480+00:00
+ - user: None
+ - tags: []
+
+## Insider
+ - [https://www.insider.com](https://www.insider.com)
+ - date published: 2023-10-25T15:21:32.402345+00:00
+ - user: None
+ - tags: []
+
+## Insider Gaming
+ - [https://insider-gaming.com](https://insider-gaming.com)
+ - date published: 2023-12-09T15:39:00.870192+00:00
+ - user: None
+ - tags: []
+
+## insideradio.com | The Most Trusted News in Radio
+ - [https://www.insideradio.com](https://www.insideradio.com)
+ - date published: 2023-10-25T15:21:35.983361+00:00
+ - user: None
+ - tags: []
+
+## Exceptional Mobile App Performance. Improved User Experience | Instabug
+ - [https://instabug.com](https://instabug.com)
+ - date published: 2023-10-25T15:21:40.127994+00:00
+ - user: None
+ - tags: []
+
 ## Instagram
  - [https://instagram.com](https://instagram.com)
  - date published: 2023-12-11T17:25:16.403261+00:00
@@ -97,6 +235,12 @@
 ## Interior AI: Interior Design Ideas Inspiration, and Virtual Staging App using Artifical Intelligence
  - [https://interiorai.com](https://interiorai.com)
  - date published: 2023-10-25T15:22:13.484560+00:00
+ - user: None
+ - tags: []
+
+## Interjected Future
+ - [https://interjectedfuture.com](https://interjectedfuture.com)
+ - date published: 2024-01-08T19:51:53.885964+00:00
  - user: None
  - tags: []
 
@@ -1456,6 +1600,12 @@
  - user: None
  - tags: []
 
+## Thriller author J.F.Penn
+ - [https://jfpenn.com](https://jfpenn.com)
+ - date published: 2024-01-08T07:27:33.171213+00:00
+ - user: None
+ - tags: []
+
 ## Software Supply Chain Platform for DevOps & Security | JFrog
  - [https://jfrog.com](https://jfrog.com)
  - date published: 2023-10-25T15:29:02.160628+00:00
@@ -1585,6 +1735,12 @@
 ## Jobsort · Find jobs in top startups
  - [https://jobsort.com](https://jobsort.com)
  - date published: 2023-10-25T15:29:37.310595+00:00
+ - user: None
+ - tags: []
+
+## Jody Whitesides Music – Get to know musician / producer Jody Whitesides inside & out
+ - [https://jodywhitesides.com](https://jodywhitesides.com)
+ - date published: 2024-01-08T07:25:56.945403+00:00
  - user: None
  - tags: []
 
@@ -1869,6 +2025,12 @@
  - date published: 2023-12-14T01:20:13.226016+00:00
  - user: None
  - tags: ['personal']
+
+## Jonathan Haslett's Website
+ - [https://jonathanhaslett.com](https://jonathanhaslett.com)
+ - date published: 2024-01-08T07:26:44.689451+00:00
+ - user: None
+ - tags: []
 
 ## Jonathan Magnin
  - [https://jonathanmagnin.com](https://jonathanmagnin.com)
@@ -2479,6 +2641,12 @@
 ## Kalzumeus Software
  - [https://www.kalzumeus.com](https://www.kalzumeus.com)
  - date published: 2023-10-25T15:34:16.823180+00:00
+ - user: None
+ - tags: []
+
+## Kambrya Pettit – Author. Artist.
+ - [https://kambryapettit.com](https://kambryapettit.com)
+ - date published: 2024-01-08T07:25:51.974779+00:00
  - user: None
  - tags: []
 
@@ -3280,6 +3448,12 @@
  - date published: 2023-10-31T19:11:15.180516+00:00
  - user: None
  - tags: ['science news']
+
+## Know Your Meme
+ - [https://knowyourmeme.com](https://knowyourmeme.com)
+ - date published: 2024-01-08T21:24:45.001232+00:00
+ - user: None
+ - tags: []
 
 ## Knucklepuck: Digital Marketing Agency for SEO & Paid Media SEM
  - [https://www.knucklepuckmedia.com](https://www.knucklepuckmedia.com)
@@ -5823,180 +5997,6 @@ diversions.
 ## Create Email Marketing Your Audience Will Love - MailerLite
  - [https://static.mailerlite.com](https://static.mailerlite.com)
  - date published: 2023-12-13T14:56:54.663028+00:00
- - user: None
- - tags: []
-
-## Transactional Email Delivery Made Easy
- - [https://maileroo.com](https://maileroo.com)
- - date published: 2023-12-16T05:53:51+00:00
- - user: None
- - tags: []
-
-## Harden your email - Mailhardener
- - [https://www.mailhardener.com](https://www.mailhardener.com)
- - date published: 2023-10-25T15:54:36.141918+00:00
- - user: None
- - tags: []
-
-## Show HN: I built a tool to send 10k emails for $1 via AWS
- - [https://maillayer.com](https://maillayer.com)
- - date published: 2024-01-07T12:35:00+00:00
- - user: None
- - tags: []
-
-## Mainmatter
- - [https://mainmatter.com](https://mainmatter.com)
- - date published: 2023-10-25T15:54:37.268613+00:00
- - user: None
- - tags: []
-
-## Voyage sur mesure, circuit et sejour - Les Maisons du Voyage
- - [https://www.maisonsduvoyage.com](https://www.maisonsduvoyage.com)
- - date published: 2023-12-18T17:19:14.453560+00:00
- - user: None
- - tags: []
-
-## The Iteration | Kenn Costales | Substack
- - [https://iteration.maiwriter.com](https://iteration.maiwriter.com)
- - date published: 2023-11-05T11:29:59.648908+00:00
- - user: None
- - tags: []
-
-## The magic button — Make Everything OK
- - [https://make-everything-ok.com](https://make-everything-ok.com)
- - date published: 2023-12-12T12:07:19+00:00
- - user: rumpel
- - tags: []
-
-## make-safe-ai/is-bing-chat-safe
- - [https://www.make-safe-ai.com](https://www.make-safe-ai.com)
- - date published: 2023-10-25T15:54:39.527554+00:00
- - user: None
- - tags: []
-
-## Make America Walkable Again
- - [https://makeamericawalkable.com](https://makeamericawalkable.com)
- - date published: 2023-10-25T15:54:41.558574+00:00
- - user: None
- - tags: []
-
-## Make Art with Python
- - [https://www.makeartwithpython.com](https://www.makeartwithpython.com)
- - date published: 2023-10-25T15:54:43.070926+00:00
- - user: None
- - tags: []
-
-## Makefile Tutorial By Example
- - [https://makefiletutorial.com](https://makefiletutorial.com)
- - date published: 2023-10-25T15:54:44.493732+00:00
- - user: None
- - tags: []
-
-## MakeItFrom.com: Material Properties Database
- - [https://www.makeitfrom.com](https://www.makeitfrom.com)
- - date published: 2023-10-25T15:54:45.799547+00:00
- - user: None
- - tags: []
-
-## Home - Makerdiary Wiki
- - [https://wiki.makerdiary.com](https://wiki.makerdiary.com)
- - date published: 2023-10-25T15:54:46.717561+00:00
- - user: None
- - tags: []
-
-## Maker Faire |
- - [https://makerfaire.com](https://makerfaire.com)
- - date published: 2023-10-25T15:54:51.642732+00:00
- - user: None
- - tags: []
-
-## Welcome to Maker Hacks
- - [https://www.makerhacks.com](https://www.makerhacks.com)
- - date published: 2023-12-11T17:52:35.069448+00:00
- - user: None
- - tags: []
-
-## DIY | Makers Mashup
- - [https://www.makersmashup.com](https://www.makersmashup.com)
- - date published: 2023-10-27T10:17:04.972576+00:00
- - user: None
- - tags: ['hobby', 'dyi', '3d printing']
-
-## Home
- - [https://makezine.com](https://makezine.com)
- - date published: 2023-11-27T16:27:53+00:00
- - user: rumpel
- - tags: ['tech', 'creators', '3d printing', 'sbc']
-
-## Making It with Chris G.
- - [https://www.makingitwithchrisg.com](https://www.makingitwithchrisg.com)
- - date published: 2023-11-29T17:12:52.483030+00:00
- - user: None
- - tags: []
-
-## about mako
- - [https://makopool.com](https://makopool.com)
- - date published: 2023-10-25T08:47:11.035727+00:00
- - user: None
- - tags: ['personal']
-
-## Malay Mail | Breaking News, Malaysia, World, Lifestyle News
- - [https://www.malaymail.com](https://www.malaymail.com)
- - date published: 2023-10-25T15:54:56.436525+00:00
- - user: None
- - tags: []
-
-## MalaysiaNow | News, views and insights into Malaysian current affairs.
- - [https://www.malaysianow.com](https://www.malaysianow.com)
- - date published: 2023-11-17T07:41:45.486280+00:00
- - user: None
- - tags: []
-
-## La Malienne de l'Automobile
- - [https://www.malienne-automobile.com](https://www.malienne-automobile.com)
- - date published: 2023-12-11T16:01:08.468013+00:00
- - user: None
- - tags: []
-
-## Cyber Security Software & Anti-Malware | Malwarebytes
- - [https://www.malwarebytes.com](https://www.malwarebytes.com)
- - date published: 2023-10-25T15:54:59.336261+00:00
- - user: None
- - tags: ['tech services', 'corporation']
-
-## MambaOnline - Gay South Africa online
- - [https://www.mambaonline.com](https://www.mambaonline.com)
- - date published: 2023-11-26T08:46:20.848115+00:00
- - user: None
- - tags: ['lgbt', 'homosexuality']
-
-## The Market for Magic Cards | Mana Pool
- - [https://manapool.com](https://manapool.com)
- - date published: 2023-10-25T15:55:00.570677+00:00
- - user: None
- - tags: []
-
-## Senselessness
- - [https://blog.mand3l.com](https://blog.mand3l.com)
- - date published: 2023-10-25T15:55:08.960526+00:00
- - user: None
- - tags: []
-
-## Threat Intelligence Solutions | Cyber Security Services & Training
- - [https://www.mandiant.com](https://www.mandiant.com)
- - date published: 2023-10-25T15:55:12.774419+00:00
- - user: None
- - tags: []
-
-## Get Good at Delivering Software™️
- - [https://blog.mangoteque.com](https://blog.mangoteque.com)
- - date published: 2023-10-25T15:55:14.397259+00:00
- - user: None
- - tags: []
-
-## Manish R Jain
- - [https://manishrjain.com](https://manishrjain.com)
- - date published: 2023-10-25T15:55:17.260053+00:00
  - user: None
  - tags: []
 
