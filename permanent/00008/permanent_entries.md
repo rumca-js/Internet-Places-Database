@@ -1,3 +1,267 @@
+## ptrchm
+ - [https://ptrchm.com](https://ptrchm.com)
+ - date published: 2023-12-17T17:43:33.561774+00:00
+ - user: None
+ - tags: []
+
+## PubliCola
+ - [https://publicola.com](https://publicola.com)
+ - date published: 2023-12-22T19:47:45.020324+00:00
+ - user: None
+ - tags: []
+
+## Chambersburg Breaking News, Sports, Weather, Traffic - Chambersburg Public Opinion
+ - [https://eu.publicopiniononline.com](https://eu.publicopiniononline.com)
+ - date published: 2023-10-25T16:42:09.010556+00:00
+ - user: None
+ - tags: []
+
+## Book Reviews, Bestselling Books & Publishing Business News | Publishers Weekly
+ - [https://www.publishersweekly.com](https://www.publishersweekly.com)
+ - date published: 2023-10-31T20:17:32.697765+00:00
+ - user: None
+ - tags: []
+
+## PUFFBUNNY STUDIO
+ - [https://www.puffbunnystudio.com](https://www.puffbunnystudio.com)
+ - date published: 2023-11-08T04:36:44.784840+00:00
+ - user: None
+ - tags: []
+
+## America's Custom Workstation Leader | Puget Systems
+ - [https://www.pugetsystems.com](https://www.pugetsystems.com)
+ - date published: 2023-10-25T16:42:14.792651+00:00
+ - user: None
+ - tags: []
+
+## Pulpflakes
+ - [https://pulpflakes.com](https://pulpflakes.com)
+ - date published: 2023-11-16T12:13:53.296510+00:00
+ - user: None
+ - tags: []
+
+## Pulumi - Infrastructure as Code in Any Programming Language
+ - [https://www.pulumi.com](https://www.pulumi.com)
+ - date published: 2023-10-25T16:42:16.113122+00:00
+ - user: None
+ - tags: []
+
+## Punch newspapers - Breaking News, Nigerian News & Top Stories
+ - [https://punchng.com](https://punchng.com)
+ - date published: 2023-10-25T10:15:32.859277+00:00
+ - user: None
+ - tags: []
+
+## Punctuation Matters – Punctuation: Important for academic and published writing. Not a bad idea if you just want to be understood.
+ - [https://www.punctuationmatters.com](https://www.punctuationmatters.com)
+ - date published: 2023-10-25T16:42:20.055212+00:00
+ - user: None
+ - tags: []
+
+## PuppyCoding – Friendly Python & AI tutorials for beginner & intermediate programmers.
+ - [https://puppycoding.com](https://puppycoding.com)
+ - date published: 2023-10-25T16:42:23.120169+00:00
+ - user: None
+ - tags: []
+
+## PureClean Performance, Live Elevated, Buy Trusted Quality Supplements
+ - [https://purecleanperformance.com](https://purecleanperformance.com)
+ - date published: 2023-11-26T14:31:11.905931+00:00
+ - user: None
+ - tags: []
+
+## ATMA - PureDiablo
+ - [https://atma.purediablo.com](https://atma.purediablo.com)
+ - date published: 2023-12-13T16:11:18.939840+00:00
+ - user: None
+ - tags: []
+
+## Diablo 4 Wiki
+ - [https://diablo4.purediablo.com](https://diablo4.purediablo.com)
+ - date published: 2023-12-13T16:11:09.689395+00:00
+ - user: None
+ - tags: []
+
+## Diablo 4, Diablo 2, Wiki, Forums, News, Guides and more.
+ - [https://purediablo.com](https://purediablo.com)
+ - date published: 2023-12-13T16:10:55.678273+00:00
+ - user: None
+ - tags: []
+
+## Diablo 4, Diablo 2, Wiki, Forums, News, Guides and more.
+ - [https://www.purediablo.com](https://www.purediablo.com)
+ - date published: 2023-10-25T11:09:49.721507+00:00
+ - user: None
+ - tags: []
+
+## Pure Xbox
+ - [https://www.purexbox.com](https://www.purexbox.com)
+ - date published: 2023-12-13T15:42:10.158947+00:00
+ - user: None
+ - tags: ['game news', 'xbox']
+
+## Purple Hoisin - Exploring the Techy Arts
+ - [https://purplehoisin.com](https://purplehoisin.com)
+ - date published: 2023-10-25T16:42:23.995556+00:00
+ - user: None
+ - tags: []
+
+## Freefall 3970 October 13, 2023
+ - [http://freefall.purrsia.com](http://freefall.purrsia.com)
+ - date published: 2023-11-03T00:47:50+00:00
+ - user: rumpel
+ - tags: []
+
+## Pursuing Reality | Adam Elwood | Substack
+ - [https://pursuingreality.com](https://pursuingreality.com)
+ - date published: 2023-10-25T16:42:28.415516+00:00
+ - user: None
+ - tags: []
+
+## Pushbullet Blog
+ - [https://blog.pushbullet.com](https://blog.pushbullet.com)
+ - date published: 2023-10-25T16:42:28.991402+00:00
+ - user: None
+ - tags: []
+
+## Push Square
+ - [https://www.pushsquare.com](https://www.pushsquare.com)
+ - date published: 2023-12-13T15:41:43.120881+00:00
+ - user: None
+ - tags: []
+
+## Puter
+ - [https://puter.com](https://puter.com)
+ - date published: 2023-10-25T16:42:29.575309+00:00
+ - user: None
+ - tags: []
+
+## Home – Put This On
+ - [https://putthison.com](https://putthison.com)
+ - date published: 2023-10-25T16:42:35.463042+00:00
+ - user: None
+ - tags: []
+
+## pv magazine International – Photovoltaic Markets and Technology
+ - [https://www.pv-magazine.com](https://www.pv-magazine.com)
+ - date published: 2023-10-25T10:14:46.327383+00:00
+ - user: None
+ - tags: []
+
+## pv magazine USA – Solar Energy Markets and Technology
+ - [https://pv-magazine-usa.com](https://pv-magazine-usa.com)
+ - date published: 2023-10-25T16:42:40.482465+00:00
+ - user: None
+ - tags: []
+
+## PVS‑Studio is a solution to enhance code quality, security (SAST), and safety
+ - [https://pvs-studio.com](https://pvs-studio.com)
+ - date published: 2023-10-25T16:42:44.021841+00:00
+ - user: None
+ - tags: []
+
+## PwnAllTheThings | Matt Tait | Substack
+ - [https://www.pwnallthethings.com](https://www.pwnallthethings.com)
+ - date published: 2023-10-25T16:42:46.833086+00:00
+ - user: None
+ - tags: []
+
+## Free Images & Free stock photos - PxHere
+ - [https://pxhere.com](https://pxhere.com)
+ - date published: 2023-12-11T19:04:17.193073+00:00
+ - user: None
+ - tags: []
+
+## Pixel Envy
+ - [https://pxlnv.com](https://pxlnv.com)
+ - date published: 2023-10-25T08:58:19.153772+00:00
+ - user: None
+ - tags: ['personal']
+
+## pyinfra automates infrastructure super fast at massive scale
+ - [https://pyinfra.com](https://pyinfra.com)
+ - date published: 2023-10-25T16:42:47.538903+00:00
+ - user: None
+ - tags: []
+
+## Pymnts.com
+ - [https://www.pymnts.com](https://www.pymnts.com)
+ - date published: 2023-10-25T16:42:52.300386+00:00
+ - user: None
+ - tags: []
+
+## Python for Engineers
+ - [https://new.pythonforengineers.com](https://new.pythonforengineers.com)
+ - date published: 2023-10-25T16:42:53.338256+00:00
+ - user: None
+ - tags: []
+
+## Python GUIs – Create GUI applications with Python and Qt
+ - [https://www.pythonguis.com](https://www.pythonguis.com)
+ - date published: 2023-10-25T16:42:55.356281+00:00
+ - user: None
+ - tags: []
+
+## Python is Love
+ - [https://pythonislove.com](https://pythonislove.com)
+ - date published: 2023-10-25T16:42:58.111053+00:00
+ - user: None
+ - tags: []
+
+## Write faster Python code, and ship your code faster
+ - [https://pythonspeed.com](https://pythonspeed.com)
+ - date published: 2023-10-25T16:42:59.186784+00:00
+ - user: None
+ - tags: []
+
+## pythontest.com
+ - [https://pythontest.com](https://pythontest.com)
+ - date published: 2023-10-25T16:43:00.662988+00:00
+ - user: None
+ - tags: []
+
+## Python Web Conference 2023
+ - [https://2023.pythonwebconf.com](https://2023.pythonwebconf.com)
+ - date published: 2023-10-25T16:43:04.177641+00:00
+ - user: None
+ - tags: []
+
+## Python Wheels
+ - [https://pythonwheels.com](https://pythonwheels.com)
+ - date published: 2023-10-25T16:43:05.526351+00:00
+ - user: None
+ - tags: ['python']
+
+## PyVibe: Easily create styled web pages with Python
+ - [https://www.pyvibe.com](https://www.pyvibe.com)
+ - date published: 2023-10-25T16:43:06.793558+00:00
+ - user: None
+ - tags: []
+
+## Piotr Zakrzewski on Data
+ - [https://blog.pzakrzewski.com](https://blog.pzakrzewski.com)
+ - date published: 2023-11-21T09:09:37.768225+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [https://s21.q4cdn.com](https://s21.q4cdn.com)
+ - date published: 2023-10-25T16:43:17.531271+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [https://s25.q4cdn.com](https://s25.q4cdn.com)
+ - date published: 2023-10-25T16:43:18.100869+00:00
+ - user: None
+ - tags: []
+
+## https://blog.qartis.com
+ - [https://blog.qartis.com](https://blog.qartis.com)
+ - date published: 2024-01-09T02:47:21.129786+00:00
+ - user: None
+ - tags: []
+
 ## Qbix Community - Great place for talking about the Qbix Platform
  - [https://community.qbix.com](https://community.qbix.com)
  - date published: 2023-10-25T16:43:21.345237+00:00
@@ -1181,7 +1445,7 @@ More!
  - [https://regexr.com](https://regexr.com)
  - date published: 2023-12-11T12:26:25+00:00
  - user: rumpel
- - tags: ['regular expressions', 'code sandbox']
+ - tags: ['code sandbox', 'regular expressions', 'online tool']
 
 ## Rehan van der Merwe - Architect, Developer and AWS Junkie
  - [https://rehanvdm.com](https://rehanvdm.com)
@@ -3115,6 +3379,12 @@ More!
  - user: None
  - tags: ['personal']
 
+## SantaBarbara.com
+ - [https://www.santabarbara.com](https://www.santabarbara.com)
+ - date published: 2024-01-11T00:06:13.061816+00:00
+ - user: None
+ - tags: []
+
 ## Santa Cruz Sentinel
  - [https://www.santacruzsentinel.com](https://www.santacruzsentinel.com)
  - date published: 2023-11-28T06:01:12.404466+00:00
@@ -3588,6 +3858,12 @@ More!
  - date published: 2024-01-09T02:48:30.103493+00:00
  - user: None
  - tags: []
+
+## ScreenRant
+ - [https://screenrant.com](https://screenrant.com)
+ - date published: 2024-01-10T15:08:21+00:00
+ - user: rumpel
+ - tags: ['movie news', 'news']
 
 ## Screen Slate | Cinematic Excellence Est. 2011 | Upcoming Film Showtimes NYC
  - [https://www.screenslate.com](https://www.screenslate.com)
@@ -5729,282 +6005,6 @@ More!
 ## SparkNotes: Today's Most Popular Study Guides
  - [https://www.sparknotes.com](https://www.sparknotes.com)
  - date published: 2023-12-26T17:33:03.148611+00:00
- - user: None
- - tags: []
-
-## Sparring Mind: Creative Work and Human Behavior
- - [https://www.sparringmind.com](https://www.sparringmind.com)
- - date published: 2023-10-25T17:09:40.935104+00:00
- - user: None
- - tags: []
-
-## Spartan Esquire
- - [https://spartanesquire.com](https://spartanesquire.com)
- - date published: 2023-12-17T16:41:22.145388+00:00
- - user: None
- - tags: ['personal']
-
-## Speaker Deck | Easily Share Your Presentations Online
- - [https://speakerdeck.com](https://speakerdeck.com)
- - date published: 2023-10-25T17:09:48.220637+00:00
- - user: None
- - tags: []
-
-## Speculative Branches
- - [https://specbranch.com](https://specbranch.com)
- - date published: 2023-10-25T17:09:49.340220+00:00
- - user: None
- - tags: []
-
-## The Spectator
- - [https://spectatorworld.com](https://spectatorworld.com)
- - date published: 2023-10-25T17:09:52.971452+00:00
- - user: None
- - tags: []
-
-## https://spectrumlocalnews.com
- - [https://spectrumlocalnews.com](https://spectrumlocalnews.com)
- - date published: 2024-01-09T02:49:17.613649+00:00
- - user: None
- - tags: []
-
-## Speech Meter - Analyze your accent and improve your pronunciation
- - [https://speechmeter.com](https://speechmeter.com)
- - date published: 2023-10-25T17:09:54.893442+00:00
- - user: None
- - tags: []
-
-## SpeedCurve | Website Performance Monitoring
- - [https://www.speedcurve.com](https://www.speedcurve.com)
- - date published: 2023-10-25T17:09:59.183470+00:00
- - user: None
- - tags: []
-
-## Spellbrush
- - [https://spellbrush.com](https://spellbrush.com)
- - date published: 2023-12-06T21:32:46.624790+00:00
- - user: None
- - tags: []
-
-## Spencer Dixon
- - [https://www.spencerdixon.com](https://www.spencerdixon.com)
- - date published: 2024-01-03T01:12:12.725734+00:00
- - user: None
- - tags: []
-
-## Articles
- - [https://spencermortensen.com](https://spencermortensen.com)
- - date published: 2023-11-22T15:19:29.713479+00:00
- - user: None
- - tags: []
-
-## spf13
- - [https://spf13.com](https://spf13.com)
- - date published: 2023-10-25T17:10:00.325400+00:00
- - user: None
- - tags: []
-
-## Spherical Cow Consulting - Translating geek to human
- - [https://sphericalcowconsulting.com](https://sphericalcowconsulting.com)
- - date published: 2023-10-25T17:10:09.453631+00:00
- - user: None
- - tags: []
-
-## Business and Industry News, Analysis and Expert Insights - Spiceworks
- - [https://www.spiceworks.com](https://www.spiceworks.com)
- - date published: 2023-10-25T17:10:27.438171+00:00
- - user: None
- - tags: []
-
-## Home - Spiezz Digital
- - [https://www.spiezz.com](https://www.spiezz.com)
- - date published: 2024-01-05T10:37:07.949209+00:00
- - user: None
- - tags: []
-
-## spiked - humanity is underrated
- - [https://www.spiked-online.com](https://www.spiked-online.com)
- - date published: 2023-10-25T17:10:30.358271+00:00
- - user: None
- - tags: []
-
-## https://spikeybits.com
- - [https://spikeybits.com](https://spikeybits.com)
- - date published: 2023-10-25T11:11:37.761643+00:00
- - user: None
- - tags: ['news', 'tabletop games', 'star wars', 'warhammer']
-
-## SPIN - Music News, Album Reviews, Concert Photos, Videos and More
- - [https://www.spin.com](https://www.spin.com)
- - date published: 2023-11-13T12:42:43.730941+00:00
- - user: None
- - tags: ['music news']
-
-## Home
- - [https://www.spinebookstorecafe.com](https://www.spinebookstorecafe.com)
- - date published: 2023-12-04T13:08:28.054449+00:00
- - user: None
- - tags: []
-
-## Spinfuel Magazine
- - [https://spinfuel.com](https://spinfuel.com)
- - date published: 2023-10-25T17:10:35.537230+00:00
- - user: None
- - tags: []
-
-## Global maritime, shipping and offshore news - Splash 24/7
- - [https://splash247.com](https://splash247.com)
- - date published: 2024-01-04T12:43:29.828881+00:00
- - user: None
- - tags: []
-
-## Splunk | The Key to Enterprise Resilience
- - [https://www.splunk.com](https://www.splunk.com)
- - date published: 2023-10-25T17:10:39.211445+00:00
- - user: None
- - tags: []
-
-## The Spokesman-Review | Local News, Business, Entertainment, Sports & Weather for Eastern Washington
- - [https://www.spokesman.com](https://www.spokesman.com)
- - date published: 2023-10-25T17:10:45.399309+00:00
- - user: None
- - tags: []
-
-## Spoon & Tamago | japanese art, design and culture
- - [https://www.spoon-tamago.com](https://www.spoon-tamago.com)
- - date published: 2023-10-25T17:10:53.324617+00:00
- - user: None
- - tags: []
-
-## Sportskeeda - Sports News, Live Scores, Gaming, Fantasy and Wrestling News
- - [https://www.sportskeeda.com](https://www.sportskeeda.com)
- - date published: 2023-10-25T17:11:10.338467+00:00
- - user: None
- - tags: []
-
-## Home - The Spotify Community
- - [https://community.spotify.com](https://community.spotify.com)
- - date published: 2023-10-25T17:11:13.595614+00:00
- - user: None
- - tags: []
-
-## Spotify — For the Record
- - [https://newsroom.spotify.com](https://newsroom.spotify.com)
- - date published: 2023-10-24T20:06:18.415946+00:00
- - user: None
- - tags: []
-
-## Spotify - Web Player: Music for everyone
- - [https://open.spotify.com](https://open.spotify.com)
- - date published: 2023-10-25T13:14:14.516318+00:00
- - user: None
- - tags: ['audio streaming']
-
-## Spotify - Web Player: Music for everyone
- - [https://play.spotify.com](https://play.spotify.com)
- - date published: 2023-12-11T17:54:34.969815+00:00
- - user: None
- - tags: []
-
-## Spotify for Podcasters
- - [https://podcasters.spotify.com](https://podcasters.spotify.com)
- - date published: 2023-12-11T16:55:59.488790+00:00
- - user: None
- - tags: []
-
-## Spotify - Web Player: Music for everyone
- - [https://www.spotify.com](https://www.spotify.com)
- - date published: 2023-10-24T20:06:19.517755+00:00
- - user: None
- - tags: ['audio streaming']
-
-## Spotlight: Sentry for Development
- - [https://spotlightjs.com](https://spotlightjs.com)
- - date published: 2023-12-06T17:03:27+00:00
- - user: None
- - tags: []
-
-## Spot | Virtual office for teams
- - [https://www.spotvirtual.com](https://www.spotvirtual.com)
- - date published: 2023-10-25T17:11:14.472863+00:00
- - user: None
- - tags: []
-
-## Spread Privacy
- - [https://spreadprivacy.com](https://spreadprivacy.com)
- - date published: 2023-10-25T17:11:16.811041+00:00
- - user: None
- - tags: []
-
-## Home | SpringerLink
- - [https://link.springer.com](https://link.springer.com)
- - date published: 2023-10-25T17:11:18.919117+00:00
- - user: None
- - tags: []
-
-## The Spriters Resource
- - [https://www.spriters-resource.com](https://www.spriters-resource.com)
- - date published: 2023-10-25T11:35:11.849563+00:00
- - user: None
- - tags: ['assets sprites']
-
-## Sprites mods - Welcome - Welcome!
- - [https://spritesmods.com](https://spritesmods.com)
- - date published: 2023-10-25T17:11:19.992109+00:00
- - user: None
- - tags: []
-
-## SPY – Men's Style, Health, Grooming, Tech, Sports
- - [https://spy.com](https://spy.com)
- - date published: 2023-10-25T17:11:25.023835+00:00
- - user: None
- - tags: []
-
-## Beepy by SQFMI x Beeper | Beepy
- - [https://beepberry.sqfmi.com](https://beepberry.sqfmi.com)
- - date published: 2024-01-09T02:49:24.589380+00:00
- - user: None
- - tags: []
-
-## SQLforDevs.com - Database Tips & Tricks
- - [https://sqlfordevs.com](https://sqlfordevs.com)
- - date published: 2023-10-25T17:11:28.657539+00:00
- - user: None
- - tags: []
-
-## Solar Car City Car for daily Urban Mobility
- - [https://www.squadmobility.com](https://www.squadmobility.com)
- - date published: 2023-10-25T17:11:30.184077+00:00
- - user: None
- - tags: []
-
-## Squarespace / Engineering
- - [https://engineering.squarespace.com](https://engineering.squarespace.com)
- - date published: 2023-10-25T17:11:31.582819+00:00
- - user: None
- - tags: []
-
-## The Official Squarespace Newsroom
- - [https://newsroom.squarespace.com](https://newsroom.squarespace.com)
- - date published: 2023-10-25T17:11:33.322378+00:00
- - user: None
- - tags: []
-
-## AMIGA
- - [https://olive-dove-amhz.squarespace.com](https://olive-dove-amhz.squarespace.com)
- - date published: 2023-12-11T18:34:11.976151+00:00
- - user: None
- - tags: []
-
-## 404 Not Found
- - [https://static1.squarespace.com](https://static1.squarespace.com)
- - date published: 2024-01-09T02:49:25.627185+00:00
- - user: None
- - tags: []
-
-## Website Builder — Create a Website in Minutes — Squarespace
- - [https://www.squarespace.com](https://www.squarespace.com)
- - date published: 2023-10-25T08:24:15.197115+00:00
  - user: None
  - tags: []
 

@@ -1,27 +1,3 @@
-## PC Engines home
- - [https://www.pcengines.ch](https://www.pcengines.ch)
- - date published: 2023-10-25T12:14:14.724348+00:00
- - user: None
- - tags: []
-
-## REDS blog – REDS Institute, HEIG-VD
- - [https://blog.reds.ch](https://blog.reds.ch)
- - date published: 2023-10-25T12:14:18.446449+00:00
- - user: None
- - tags: []
-
-## RELEC – Software & Hardware Amiga
- - [https://www.relec.ch](https://www.relec.ch)
- - date published: 2024-01-09T02:27:25.294187+00:00
- - user: None
- - tags: []
-
-## Srijan Choudhary's personal website
- - [https://srijan.ch](https://srijan.ch)
- - date published: 2023-11-18T23:28:44.408301+00:00
- - user: None
- - tags: ['personal']
-
 ## About
  - [https://michael.stapelberg.ch](https://michael.stapelberg.ch)
  - date published: 2023-10-25T09:03:20.383919+00:00
@@ -529,6 +505,12 @@
 ## Blockworks: News and insights about digital assets.
  - [https://blockworks.co](https://blockworks.co)
  - date published: 2023-10-25T12:17:09.910871+00:00
+ - user: None
+ - tags: []
+
+## Juli
+ - [https://juli.bloggi.co](https://juli.bloggi.co)
+ - date published: 2024-01-10T18:10:58.452881+00:00
  - user: None
  - tags: []
 
@@ -1714,6 +1696,12 @@
  - user: None
  - tags: []
 
+## 24 Hours of Lemons - Wheel to Wheel Racing for $500 Cars
+ - [https://24hoursoflemons.com](https://24hoursoflemons.com)
+ - date published: 2024-01-10T04:53:11.642378+00:00
+ - user: None
+ - tags: []
+
 ## 250bpm
  - [https://250bpm.com](https://250bpm.com)
  - date published: 2023-10-25T12:26:31.107003+00:00
@@ -2101,6 +2089,12 @@
 ## Notice from Joint Official Liquidators
  - [https://trends.aax.com](https://trends.aax.com)
  - date published: 2024-01-09T02:29:04.145542+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.aayushkapoor.com](https://www.aayushkapoor.com)
+ - date published: 2024-01-10T22:41:33.853890+00:00
  - user: None
  - tags: []
 
@@ -4653,6 +4647,12 @@
  - date published: 2023-10-27T14:33:14.667975+00:00
  - user: None
  - tags: ['retro hardware', 'apollo 68080']
+
+## None
+ - [https://apolloacademy.com](https://apolloacademy.com)
+ - date published: 2024-01-09T13:02:16.965527+00:00
+ - user: None
+ - tags: []
 
 ## Streamlining APIs, Databases, & Microservices | Apollo GraphQL
  - [https://www.apollographql.com](https://www.apollographql.com)

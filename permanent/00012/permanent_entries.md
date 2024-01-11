@@ -1,3 +1,351 @@
+## https://www.leapml.dev
+ - [https://www.leapml.dev](https://www.leapml.dev)
+ - date published: 2024-01-09T02:57:18.355700+00:00
+ - user: None
+ - tags: []
+
+## Introduction to Genomics for Engineers | Introduction to Genomics for Engineers
+ - [https://learngenomics.dev](https://learngenomics.dev)
+ - date published: 2023-10-25T18:39:08.432311+00:00
+ - user: None
+ - tags: []
+
+## Home Page
+ - [https://leots.dev](https://leots.dev)
+ - date published: 2023-12-15T11:15:24.587419+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Leptos
+ - [https://leptos.dev](https://leptos.dev)
+ - date published: 2023-10-25T18:39:09.955344+00:00
+ - user: None
+ - tags: []
+
+## Libraria – Create AI chatbots in seconds.
+ - [https://libraria.dev](https://libraria.dev)
+ - date published: 2023-10-25T18:39:17.589462+00:00
+ - user: None
+ - tags: []
+
+## Morten Linderud
+ - [https://linderud.dev](https://linderud.dev)
+ - date published: 2024-01-07T03:57:31.148688+00:00
+ - user: None
+ - tags: []
+
+## Linen Community
+ - [https://www.linen.dev](https://www.linen.dev)
+ - date published: 2023-10-25T18:39:21.192660+00:00
+ - user: None
+ - tags: []
+
+## Lit
+ - [https://lit.dev](https://lit.dev)
+ - date published: 2023-10-25T18:39:24.294606+00:00
+ - user: None
+ - tags: []
+
+## Livebook.dev - The Livebook Blog
+ - [https://news.livebook.dev](https://news.livebook.dev)
+ - date published: 2023-10-25T18:39:31.130189+00:00
+ - user: None
+ - tags: []
+
+## Local-First Web Development
+ - [https://localfirstweb.dev](https://localfirstweb.dev)
+ - date published: 2023-10-25T18:39:34.514760+00:00
+ - user: None
+ - tags: []
+
+## localghost
+ - [https://localghost.dev](https://localghost.dev)
+ - date published: 2024-01-07T19:02:10.388264+00:00
+ - user: None
+ - tags: []
+
+## Loren's blog
+ - [https://lorendb.dev](https://lorendb.dev)
+ - date published: 2024-01-05T15:16:20.712582+00:00
+ - user: None
+ - tags: []
+
+## Loro – Reimagine state management with CRDTs – Loro
+ - [https://www.loro.dev](https://www.loro.dev)
+ - date published: 2023-11-13T12:41:13.173629+00:00
+ - user: None
+ - tags: []
+
+## Lukas Hermann – Bootstraping a profitable business
+ - [https://lukashermann.dev](https://lukashermann.dev)
+ - date published: 2023-10-25T18:39:36.060648+00:00
+ - user: None
+ - tags: []
+
+## lunnova.dev
+ - [https://lunnova.dev](https://lunnova.dev)
+ - date published: 2023-10-25T18:39:36.570613+00:00
+ - user: None
+ - tags: []
+
+## Scott Mabin
+ - [https://mabez.dev](https://mabez.dev)
+ - date published: 2023-10-25T08:48:38.285682+00:00
+ - user: None
+ - tags: ['personal']
+
+## Magic Loops
+ - [https://magicloops.dev](https://magicloops.dev)
+ - date published: 2023-10-25T18:39:37.627469+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.mandymak.dev](https://www.mandymak.dev)
+ - date published: 2023-12-14T06:54:37.710670+00:00
+ - user: None
+ - tags: ['personal']
+
+## Markok.dev - Blog about web development and other random things
+ - [https://markok.dev](https://markok.dev)
+ - date published: 2023-12-12T23:24:05.386377+00:00
+ - user: None
+ - tags: ['personal']
+
+## Marvin Hagemeister Frontend Developer
+ - [https://marvinh.dev](https://marvinh.dev)
+ - date published: 2023-10-25T08:48:41.375132+00:00
+ - user: None
+ - tags: ['personal']
+
+## Become mastermind
+ - [https://blog.mastermind.dev](https://blog.mastermind.dev)
+ - date published: 2023-10-25T18:39:41.085781+00:00
+ - user: None
+ - tags: []
+
+## Matchu Says Words | Emi Matchu (they/she), tech professional turned hobbyist! Aspiring to do what’s right, in the places and ways I can.
+ - [https://blog.matchu.dev](https://blog.matchu.dev)
+ - date published: 2023-10-31T19:57:41.845855+00:00
+ - user: None
+ - tags: []
+
+## Matias Pan's blog
+ - [https://blog.matiaspan.dev](https://blog.matiaspan.dev)
+ - date published: 2023-11-21T19:09:54.203670+00:00
+ - user: None
+ - tags: []
+
+## Matthew C Dev
+ - [https://matthewc.dev](https://matthewc.dev)
+ - date published: 2023-10-25T18:39:42.826551+00:00
+ - user: None
+ - tags: []
+
+## [jim-fx] Home
+ - [https://max-richter.dev](https://max-richter.dev)
+ - date published: 2023-12-04T12:08:16.954803+00:00
+ - user: None
+ - tags: ['personal']
+
+## Show HN: Simulate 3D Plants in the Browser
+ - [https://plant.max-richter.dev](https://plant.max-richter.dev)
+ - date published: 2023-12-03T10:55:35+00:00
+ - user: None
+ - tags: []
+
+## MeadSteve's Dev Blog
+ - [https://blog.meadsteve.dev](https://blog.meadsteve.dev)
+ - date published: 2023-10-25T08:58:39.127357+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hello - Meg Risdal
+ - [https://meg.dev](https://meg.dev)
+ - date published: 2023-10-25T09:26:20.086165+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sine Machine, a new additive synth · Melatonin
+ - [https://melatonin.dev](https://melatonin.dev)
+ - date published: 2023-11-10T14:03:59.822755+00:00
+ - user: None
+ - tags: []
+
+## metahead | the world's 1st enterprise-grade metarepo
+ - [https://www.metahead.dev](https://www.metahead.dev)
+ - date published: 2024-01-10T22:30:13.454038+00:00
+ - user: None
+ - tags: []
+
+## mhdm.dev
+ - [https://mhdm.dev](https://mhdm.dev)
+ - date published: 2023-10-25T18:39:43.340614+00:00
+ - user: None
+ - tags: []
+
+## Micro | A Platform built for developers
+ - [https://micro.dev](https://micro.dev)
+ - date published: 2023-10-25T18:39:44.219958+00:00
+ - user: None
+ - tags: []
+
+## Mike Mwanje's Blog
+ - [https://blog.mikemwanje.dev](https://blog.mikemwanje.dev)
+ - date published: 2023-10-25T08:58:40.213617+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://minios.dev
+ - [https://minios.dev](https://minios.dev)
+ - date published: 2023-10-25T18:39:44.564001+00:00
+ - user: None
+ - tags: []
+
+## An Internet Canvas
+ - [https://paper.mmm.dev](https://paper.mmm.dev)
+ - date published: 2023-10-25T18:39:44.966705+00:00
+ - user: None
+ - tags: []
+
+## ModelFusion
+ - [https://modelfusion.dev](https://modelfusion.dev)
+ - date published: 2023-10-25T18:39:50.499764+00:00
+ - user: None
+ - tags: []
+
+## Modern CSS Solutions
+ - [https://moderncss.dev](https://moderncss.dev)
+ - date published: 2023-10-25T18:39:51.550252+00:00
+ - user: None
+ - tags: []
+
+## Mojo Dojo
+ - [https://mojodojo.dev](https://mojodojo.dev)
+ - date published: 2023-10-25T18:39:53.691349+00:00
+ - user: None
+ - tags: []
+
+## MoonGuard - Web Monitoring Tools | MoonGuard - Web Monitoring Tools
+ - [https://blog.moonguard.dev](https://blog.moonguard.dev)
+ - date published: 2023-11-07T19:56:34.884228+00:00
+ - user: None
+ - tags: []
+
+## Gunnar Morling - Random Musings on All Things Software Engineering
+ - [https://www.morling.dev](https://www.morling.dev)
+ - date published: 2023-10-25T18:39:54.535047+00:00
+ - user: None
+ - tags: []
+
+## Kamal — Deploy web apps anywhere
+ - [https://mrsk.dev](https://mrsk.dev)
+ - date published: 2023-10-25T18:39:55.589208+00:00
+ - user: None
+ - tags: []
+
+## MUD – a framework for ambitious Ethereum applications
+ - [https://mud.dev](https://mud.dev)
+ - date published: 2023-10-27T13:33:33.855803+00:00
+ - user: None
+ - tags: []
+
+## Mult.dev - Animated Travel Maps
+ - [https://mult.dev](https://mult.dev)
+ - date published: 2023-10-25T18:39:56.399255+00:00
+ - user: None
+ - tags: []
+
+## Minimum Viable Secure Product
+ - [https://mvsp.dev](https://mvsp.dev)
+ - date published: 2023-10-25T18:39:57.092486+00:00
+ - user: None
+ - tags: []
+
+## Nango - The open unified API
+ - [https://nango.dev](https://nango.dev)
+ - date published: 2023-10-25T18:40:04.494324+00:00
+ - user: None
+ - tags: []
+
+## Nango - The open unified API
+ - [https://www.nango.dev](https://www.nango.dev)
+ - date published: 2023-10-25T18:40:06.457916+00:00
+ - user: None
+ - tags: []
+
+## Becoming Rustacean: A Beginners Guide to the Rustverse
+ - [https://www.nativebyx.dev](https://www.nativebyx.dev)
+ - date published: 2023-10-25T18:40:13.005761+00:00
+ - user: None
+ - tags: []
+
+## neilalexander.dev
+ - [https://neilalexander.dev](https://neilalexander.dev)
+ - date published: 2023-10-25T18:40:13.691485+00:00
+ - user: None
+ - tags: []
+
+## Blog@neko.dev - blog.neko.dev
+ - [https://blog.neko.dev](https://blog.neko.dev)
+ - date published: 2023-10-25T08:58:40.756473+00:00
+ - user: None
+ - tags: ['personal']
+
+## Adam Argyle
+ - [https://nerdy.dev](https://nerdy.dev)
+ - date published: 2023-10-25T08:48:53.943604+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nicolo.dev
+ - [https://nicolo.dev](https://nicolo.dev)
+ - date published: 2023-10-25T08:58:41.536333+00:00
+ - user: None
+ - tags: ['personal']
+
+## niui
+ - [https://niui.dev](https://niui.dev)
+ - date published: 2023-10-25T18:40:16.339018+00:00
+ - user: None
+ - tags: []
+
+## Norberto's personal website
+ - [https://nlopes.dev](https://nlopes.dev)
+ - date published: 2023-10-25T08:48:54.951889+00:00
+ - user: None
+ - tags: ['personal']
+
+## IAMOps Platform | NOQ
+ - [https://www.noq.dev](https://www.noq.dev)
+ - date published: 2023-10-25T18:40:17.657120+00:00
+ - user: None
+ - tags: []
+
+## Nicholas Ray
+ - [https://www.nray.dev](https://www.nray.dev)
+ - date published: 2023-10-25T08:58:47.329801+00:00
+ - user: None
+ - tags: ['personal']
+
+## olano.dev
+ - [https://olano.dev](https://olano.dev)
+ - date published: 2023-12-01T10:46:06.534286+00:00
+ - user: None
+ - tags: []
+
+## Onur Şuyalçınkaya
+ - [https://onur.dev](https://onur.dev)
+ - date published: 2023-12-16T07:29:32.330441+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://www.open-fire.dev
+ - [https://www.open-fire.dev](https://www.open-fire.dev)
+ - date published: 2024-01-09T02:57:19.590490+00:00
+ - user: None
+ - tags: []
+
 ## OpenGOAL | OpenGOAL
  - [https://opengoal.dev](https://opengoal.dev)
  - date published: 2023-10-25T18:40:19.039679+00:00
@@ -79,6 +427,12 @@
 ## TLS, byte by byte
  - [https://subtls.pages.dev](https://subtls.pages.dev)
  - date published: 2023-10-25T18:40:44.490273+00:00
+ - user: None
+ - tags: []
+
+## https://tropical.pages.dev
+ - [https://tropical.pages.dev](https://tropical.pages.dev)
+ - date published: 2024-01-10T01:32:32.654649+00:00
  - user: None
  - tags: []
 
@@ -4844,6 +5198,12 @@
  - user: None
  - tags: []
 
+## old-home.faith
+ - [https://old-home.faith](https://old-home.faith)
+ - date published: 2024-01-10T14:25:35.832437+00:00
+ - user: None
+ - tags: []
+
 ## Personal Ramblings – Persönliches dies-und-das
  - [https://patrick.georgi.family](https://patrick.georgi.family)
  - date published: 2023-10-25T19:12:38.756579+00:00
@@ -5237,6 +5597,12 @@
 ## Diátaxis
  - [https://diataxis.fr](https://diataxis.fr)
  - date published: 2023-10-25T19:14:47.414067+00:00
+ - user: None
+ - tags: []
+
+## Digital Change Management
+ - [https://www.didiermary.fr](https://www.didiermary.fr)
+ - date published: 2024-01-10T22:42:52.468292+00:00
  - user: None
  - tags: []
 
@@ -5647,372 +6013,6 @@
 ## La Quadrature du Net - Mastodon - Media Fédéré
  - [https://mamot.fr](https://mamot.fr)
  - date published: 2023-10-25T19:15:32.656881+00:00
- - user: None
- - tags: []
-
-## Spécialiste du voyage sur-mesure ▷ Marco Vasco
- - [https://www.marcovasco.fr](https://www.marcovasco.fr)
- - date published: 2023-12-18T17:11:04.210811+00:00
- - user: None
- - tags: []
-
-## mdk.fr – Julien Palard
- - [https://mdk.fr](https://mdk.fr)
- - date published: 2023-10-25T19:15:33.507337+00:00
- - user: None
- - tags: []
-
-## Actualités Nautisme : l'actualité du nautisme au quotidien avec Figaro Nautisme
- - [https://figaronautisme.meteoconsult.fr](https://figaronautisme.meteoconsult.fr)
- - date published: 2023-12-18T17:12:20.499289+00:00
- - user: None
- - tags: []
-
-## Météo France - Prévisions METEO DETAILLEES à 15 jours - METEO CONSULT
- - [https://www.meteoconsult.fr](https://www.meteoconsult.fr)
- - date published: 2023-12-18T17:19:23.525460+00:00
- - user: None
- - tags: []
-
-## Parimal Satyal - Neustadt.fr
- - [https://neustadt.fr](https://neustadt.fr)
- - date published: 2023-11-15T17:47:22.781493+00:00
- - user: None
- - tags: ['personal']
-
-## Institut Pasteur | Pour la recherche, pour la santé, pour demain
- - [https://www.pasteur.fr](https://www.pasteur.fr)
- - date published: 2023-10-25T19:15:36.559641+00:00
- - user: None
- - tags: []
-
-## Pauline - Diététicienne Nutritionniste en ligne
- - [https://paulinediet.fr](https://paulinediet.fr)
- - date published: 2023-12-30T15:37:09.456943+00:00
- - user: None
- - tags: ['personal']
-
-## PC Solutions – Dépannage informatique Moëlan sur mer
- - [https://www.pcsolu.fr](https://www.pcsolu.fr)
- - date published: 2023-12-13T15:19:51.233148+00:00
- - user: None
- - tags: []
-
-## Plateaux numériques
- - [https://plateaux-numeriques.fr](https://plateaux-numeriques.fr)
- - date published: 2023-12-11T16:18:41.981814+00:00
- - user: None
- - tags: []
-
-## RFI - All the news from France, Europe, Africa and the rest of the world.
- - [https://www.rfi.fr](https://www.rfi.fr)
- - date published: 2023-10-25T19:15:39.019325+00:00
- - user: None
- - tags: []
-
-## Magazine du voyage et de la découverte
- - [https://www.sauvonslepalaisdeladecouverte.fr](https://www.sauvonslepalaisdeladecouverte.fr)
- - date published: 2024-01-07T08:44:38.911143+00:00
- - user: None
- - tags: []
-
-## Siècle Digital - L'actualité internationale de l'économie du numérique
- - [https://siecledigital.fr](https://siecledigital.fr)
- - date published: 2023-10-25T19:15:41.666599+00:00
- - user: None
- - tags: []
-
-## Siosm’s blog
- - [https://tim.siosm.fr](https://tim.siosm.fr)
- - date published: 2023-12-20T01:47:50.797689+00:00
- - user: None
- - tags: []
-
-## SunEstra
- - [https://sunestra.fr](https://sunestra.fr)
- - date published: 2023-10-25T09:21:54.389722+00:00
- - user: None
- - tags: ['personal']
-
-## TeleCoop, premier opérateur télécom coopératif
- - [https://telecoop.fr](https://telecoop.fr)
- - date published: 2023-12-11T16:19:38.653596+00:00
- - user: None
- - tags: []
-
-## The Local - France's news in English
- - [https://www.thelocal.fr](https://www.thelocal.fr)
- - date published: 2023-10-25T19:15:46.734185+00:00
- - user: None
- - tags: []
-
-## The Shelf
- - [https://theshelf.fr](https://theshelf.fr)
- - date published: 2024-01-09T03:30:05.552264+00:00
- - user: None
- - tags: []
-
-## UTOPIAWEB - Agence et éditeur web à Rennes
- - [https://utopiaweb.fr](https://utopiaweb.fr)
- - date published: 2023-12-11T18:41:53.958415+00:00
- - user: None
- - tags: []
-
-## https://www.veracrypt.fr
- - [https://www.veracrypt.fr](https://www.veracrypt.fr)
- - date published: 2024-01-09T03:30:06.149408+00:00
- - user: None
- - tags: []
-
-## Victor MARTIN | Machine Learning Engineer
- - [https://vmartin.fr](https://vmartin.fr)
- - date published: 2023-10-25T19:15:48.126680+00:00
- - user: None
- - tags: []
-
-## CPU-Z VALIDATOR
- - [https://valid.x86.fr](https://valid.x86.fr)
- - date published: 2024-01-09T13:19:21+00:00
- - user: rumpel
- - tags: []
-
-## Andrew Ginn, etc.
- - [https://andrewginn.fun](https://andrewginn.fun)
- - date published: 2024-01-07T04:14:03.213185+00:00
- - user: None
- - tags: []
-
-## None
- - [https://chess2.fun](https://chess2.fun)
- - date published: 2024-01-09T03:30:06.701243+00:00
- - user: None
- - tags: []
-
-## Flowchart Fun — Fast, Free Online Flowchart Maker
- - [https://flowchart.fun](https://flowchart.fun)
- - date published: 2023-10-25T19:15:48.621117+00:00
- - user: None
- - tags: []
-
-## Neal.fun
- - [https://neal.fun](https://neal.fun)
- - date published: 2023-10-25T19:15:49.467863+00:00
- - user: None
- - tags: []
-
-## A Netflix for fake TV shows and movies
- - [https://nestflix.fun](https://nestflix.fun)
- - date published: 2024-01-04T19:41:51+00:00
- - user: None
- - tags: []
-
-## The Autopilot Fund
- - [https://blog.autopilot.fund](https://blog.autopilot.fund)
- - date published: 2023-10-25T19:15:50.122692+00:00
- - user: None
- - tags: []
-
-## Adriano Caloiaro's personal blog
- - [https://adriano.fyi](https://adriano.fyi)
- - date published: 2023-10-25T08:59:03.095518+00:00
- - user: None
- - tags: ['personal']
-
-## Brody Smith • Information Design
- - [https://brody.fyi](https://brody.fyi)
- - date published: 2024-01-04T08:11:51.602420+00:00
- - user: None
- - tags: []
-
-## brr
- - [https://brr.fyi](https://brr.fyi)
- - date published: 2023-10-25T19:15:50.754055+00:00
- - user: None
- - tags: []
-
-## CDR.fyi
- - [https://www.cdr.fyi](https://www.cdr.fyi)
- - date published: 2024-01-09T03:30:10.035205+00:00
- - user: None
- - tags: []
-
-## Freelance rates by contractrates.fyi
- - [https://www.contractrates.fyi](https://www.contractrates.fyi)
- - date published: 2023-10-25T19:15:52.506601+00:00
- - user: None
- - tags: []
-
-## DevBase - Product Gallery for Developers
- - [https://devbase.fyi](https://devbase.fyi)
- - date published: 2023-10-25T19:15:55.735011+00:00
- - user: None
- - tags: []
-
-## Digital culture and entertainment insights daily: Digital culture and entertainment insights daily
- - [https://dirt.fyi](https://dirt.fyi)
- - date published: 2023-10-25T19:15:57.266413+00:00
- - user: None
- - tags: []
-
-## ESPP.fyi - ESPP Calculator
- - [https://espp.fyi](https://espp.fyi)
- - date published: 2023-10-25T19:15:58.160226+00:00
- - user: None
- - tags: []
-
-## iliana.fyi
- - [https://iliana.fyi](https://iliana.fyi)
- - date published: 2023-10-25T19:15:59.645382+00:00
- - user: None
- - tags: []
-
-## jade's www site
- - [https://jade.fyi](https://jade.fyi)
- - date published: 2024-01-09T18:46:42.354724+00:00
- - user: None
- - tags: []
-
-## Layoffs.fyi - Tech Layoff Tracker and Startup Layoff Lists
- - [https://layoffs.fyi](https://layoffs.fyi)
- - date published: 2023-10-25T19:16:02.675285+00:00
- - user: None
- - tags: []
-
-## Levels.fyi | Salaries & Tools to Level Up Your Career
- - [https://www.levels.fyi](https://www.levels.fyi)
- - date published: 2023-10-25T19:16:09.416624+00:00
- - user: None
- - tags: []
-
-## Not a Number
- - [https://www.nan.fyi](https://www.nan.fyi)
- - date published: 2023-10-25T19:16:10.047779+00:00
- - user: None
- - tags: []
-
-## Not By AI — Add the Badge to Your Human-Created Content
- - [https://notbyai.fyi](https://notbyai.fyi)
- - date published: 2023-10-25T19:16:11.639093+00:00
- - user: None
- - tags: []
-
-## 2 Weeks Notice/Layoff Checklist
- - [https://notice.fyi](https://notice.fyi)
- - date published: 2023-10-25T19:16:13.369510+00:00
- - user: None
- - tags: []
-
-## None
- - [https://nudges.fyi](https://nudges.fyi)
- - date published: 2024-01-09T03:30:11.356804+00:00
- - user: None
- - tags: []
-
-## Show HN: Onsites.fyi - Curated Big Tech Interview Experiences
- - [https://www.onsites.fyi](https://www.onsites.fyi)
- - date published: 2023-12-03T13:29:53+00:00
- - user: None
- - tags: []
-
-## Paisa
- - [https://paisa.fyi](https://paisa.fyi)
- - date published: 2023-10-25T19:16:14.401445+00:00
- - user: None
- - tags: []
-
-## physician.fyi
- - [https://www.physician.fyi](https://www.physician.fyi)
- - date published: 2023-10-25T19:16:19.520735+00:00
- - user: None
- - tags: []
-
-## rustjobs.fyi
- - [https://www.rustjobs.fyi](https://www.rustjobs.fyi)
- - date published: 2023-10-25T19:16:20.460320+00:00
- - user: None
- - tags: []
-
-## https://south.fyi
- - [https://south.fyi](https://south.fyi)
- - date published: 2023-12-20T14:34:44.308769+00:00
- - user: None
- - tags: ['personal']
-
-## time.fyi - All the time related tools
- - [https://time.fyi](https://time.fyi)
- - date published: 2024-01-06T09:13:14.048827+00:00
- - user: None
- - tags: []
-
-## Show HN: Trains.fyi – a live map of passenger trains in the US and Canada
- - [https://trains.fyi](https://trains.fyi)
- - date published: 2023-11-27T16:47:19+00:00
- - user: None
- - tags: []
-
-## The ideal viewport doesn’t exist
- - [https://viewports.fyi](https://viewports.fyi)
- - date published: 2023-10-25T19:16:21.804980+00:00
- - user: None
- - tags: []
-
-## Vizly - Data to insights in seconds
- - [https://www.vizly.fyi](https://www.vizly.fyi)
- - date published: 2023-10-25T19:16:23.095453+00:00
- - user: None
- - tags: []
-
-## William Edmisten
- - [https://wcedmisten.fyi](https://wcedmisten.fyi)
- - date published: 2023-10-25T19:16:24.081987+00:00
- - user: None
- - tags: []
-
-## Jack Wrenn
- - [https://jack.wrenn.fyi](https://jack.wrenn.fyi)
- - date published: 2023-10-25T19:16:25.606719+00:00
- - user: None
- - tags: []
-
-## Are the Americans Awake?
- - [https://are-the-americans-awake.yusuf.fyi](https://are-the-americans-awake.yusuf.fyi)
- - date published: 2023-10-25T19:16:26.673031+00:00
- - user: None
- - tags: []
-
-## None
- - [https://blog.joren.ga](https://blog.joren.ga)
- - date published: 2024-01-09T03:30:11.532362+00:00
- - user: None
- - tags: []
-
-## Minimal Gallery – Website inspiration
- - [https://minimal.gallery](https://minimal.gallery)
- - date published: 2023-10-25T19:16:29.833681+00:00
- - user: None
- - tags: []
-
-## Nyx.gallery - AI-generated photography
- - [https://nyx.gallery](https://nyx.gallery)
- - date published: 2023-10-25T19:16:35.991453+00:00
- - user: None
- - tags: []
-
-## Baldur's Gate 3
- - [https://baldursgate3.game](https://baldursgate3.game)
- - date published: 2023-10-25T19:16:37.135932+00:00
- - user: None
- - tags: []
-
-## Nour: Play With Your Food
- - [https://food.game](https://food.game)
- - date published: 2023-10-25T19:16:38.689460+00:00
- - user: None
- - tags: []
-
-## GuessTheGame - Your daily video game guessing puzzle!
- - [https://guessthe.game](https://guessthe.game)
- - date published: 2023-10-25T19:16:39.291433+00:00
  - user: None
  - tags: []
 

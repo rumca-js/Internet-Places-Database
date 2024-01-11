@@ -1,3 +1,93 @@
+## SaaS Growth & Marketing On Autopilot
+ - [https://www.heymarketcurve.com](https://www.heymarketcurve.com)
+ - date published: 2023-10-25T14:59:10.290950+00:00
+ - user: None
+ - tags: []
+
+## https://www.heynibras.com
+ - [https://www.heynibras.com](https://www.heynibras.com)
+ - date published: 2024-01-09T19:19:43.292912+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Heynote – A Dedicated Scratchpad for Developers
+ - [https://heynote.com](https://heynote.com)
+ - date published: 2023-12-22T13:33:51+00:00
+ - user: None
+ - tags: []
+
+## https://heypi.com
+ - [https://heypi.com](https://heypi.com)
+ - date published: 2023-10-25T14:59:12.202317+00:00
+ - user: None
+ - tags: []
+
+## Hiatt Zhao
+ - [https://www.hiattzhao.com](https://www.hiattzhao.com)
+ - date published: 2023-12-08T08:33:07.683640+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home :  Stereogram Images, Games, Video and Software. All Free!
+ - [https://hidden-3d.com](https://hidden-3d.com)
+ - date published: 2023-10-25T14:59:14.721828+00:00
+ - user: None
+ - tags: []
+
+## High Scalability -
+ - [https://highscalability.com](https://highscalability.com)
+ - date published: 2023-12-14T06:38:38.118546+00:00
+ - user: None
+ - tags: []
+
+## Home, Hildebranski.com
+ - [https://hildebranski.com](https://hildebranski.com)
+ - date published: 2023-11-29T17:12:27.118132+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Office of Hillary Rodham Clinton
+ - [https://www.hillaryclinton.com](https://www.hillaryclinton.com)
+ - date published: 2023-11-03T13:51:13.846449+00:00
+ - user: None
+ - tags: ['vip']
+
+## Hillel Wayne
+ - [https://www.hillelwayne.com](https://www.hillelwayne.com)
+ - date published: 2023-10-25T09:20:37.103409+00:00
+ - user: None
+ - tags: ['personal']
+
+## HILOBROW – Josh Glenn, ed.
+ - [https://www.hilobrow.com](https://www.hilobrow.com)
+ - date published: 2023-11-25T18:10:06.316995+00:00
+ - user: None
+ - tags: ['science fiction', 'personal', 'books', 'blog', 'scifi']
+
+## Hindenburg Research – Investigative Research & Reporting
+ - [https://hindenburgresearch.com](https://hindenburgresearch.com)
+ - date published: 2023-10-25T14:59:22.875020+00:00
+ - user: None
+ - tags: []
+
+## Technology News: Latest tech news on New Mobile Phones, Laptops, Gadgets
+ - [https://tech.hindustantimes.com](https://tech.hindustantimes.com)
+ - date published: 2023-11-22T06:57:51+00:00
+ - user: rumpel
+ - tags: ['tech news']
+
+## News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times
+ - [https://www.hindustantimes.com](https://www.hindustantimes.com)
+ - date published: 2023-10-25T10:44:25.190390+00:00
+ - user: None
+ - tags: ['tech news', 'india news']
+
+## Hired - Job Search Marketplace. Tech Job Hunting Simplified!
+ - [https://hired.com](https://hired.com)
+ - date published: 2023-10-25T14:59:29.185613+00:00
+ - user: None
+ - tags: []
+
 ## Liz de Nesnera. Best of Both Worlds VO.
  - [https://hireliz.com](https://hireliz.com)
  - date published: 2024-01-01T17:21:53.248678+00:00
@@ -2008,6 +2098,12 @@
  - user: None
  - tags: ['wtf']
 
+## Is It Down Right Now?
+ - [https://www.isitdownrightnow.com](https://www.isitdownrightnow.com)
+ - date published: 2024-01-10T09:01:02+00:00
+ - user: rumpel
+ - tags: ['online tool', 'down detector']
+
 ## I made a website that tells you which human foods are toxic for dogs
  - [https://www.isittoxicformydog.com](https://www.isittoxicformydog.com)
  - date published: 2023-11-23T01:08:07+00:00
@@ -2019,6 +2115,12 @@
  - date published: 2023-12-30T09:53:08.097389+00:00
  - user: None
  - tags: ['personal']
+
+## None
+ - [https://www.ismailzai.com](https://www.ismailzai.com)
+ - date published: 2024-01-09T09:17:26.042306+00:00
+ - user: None
+ - tags: []
 
 ## 737 MAX Checker
  - [https://www.ismyplanea737max.com](https://www.ismyplanea737max.com)
@@ -2938,6 +3040,12 @@
  - user: None
  - tags: []
 
+## https://www.jenniferrossehamm.com
+ - [https://www.jenniferrossehamm.com](https://www.jenniferrossehamm.com)
+ - date published: 2024-01-10T22:40:55.887100+00:00
+ - user: None
+ - tags: []
+
 ## Jeremiah Lee
  - [https://www.jeremiahlee.com](https://www.jeremiahlee.com)
  - date published: 2024-01-09T11:06:14.555745+00:00
@@ -3031,6 +3139,12 @@
 ## JESDA.COM | Cars, travel, etc.
  - [https://jesda.com](https://jesda.com)
  - date published: 2023-10-25T15:28:14.048562+00:00
+ - user: None
+ - tags: []
+
+## Jesper Bylund
+ - [https://jesperbylund.com](https://jesperbylund.com)
+ - date published: 2024-01-10T14:28:39.004546+00:00
  - user: None
  - tags: []
 
@@ -3148,6 +3262,12 @@
  - user: None
  - tags: []
 
+## Jett Hays
+ - [https://jetthays.com](https://jetthays.com)
+ - date published: 2024-01-10T18:10:55.728176+00:00
+ - user: None
+ - tags: []
+
 ## The Jewish Press - JewishPress.com
  - [https://www.jewishpress.com](https://www.jewishpress.com)
  - date published: 2023-12-07T15:14:09.328558+00:00
@@ -3229,6 +3349,12 @@
 ## Jonathan Katz
  - [https://jkatz05.com](https://jkatz05.com)
  - date published: 2023-10-25T15:29:21.287258+00:00
+ - user: None
+ - tags: []
+
+## Jaso'n k'Leinberg is still here | jkleinberg.com
+ - [https://jkleinberg.com](https://jkleinberg.com)
+ - date published: 2024-01-10T23:53:20.981430+00:00
  - user: None
  - tags: []
 
@@ -3409,6 +3535,12 @@
 ## Jo Freeman: Feminist Scholar and Author
  - [https://www.jofreeman.com](https://www.jofreeman.com)
  - date published: 2024-01-09T02:40:43.568798+00:00
+ - user: None
+ - tags: []
+
+## Johannes Haage
+ - [https://www.johanneshaage.com](https://www.johanneshaage.com)
+ - date published: 2024-01-10T23:53:13.723781+00:00
  - user: None
  - tags: []
 
@@ -3628,6 +3760,12 @@
  - user: None
  - tags: ['personal']
 
+## Jonathon Riggert
+ - [https://www.jonathonriggert.com](https://www.jonathonriggert.com)
+ - date published: 2024-01-10T14:29:56.063970+00:00
+ - user: None
+ - tags: []
+
 ## Jon Griffin's Site
  - [https://www.jongriffin.com](https://www.jongriffin.com)
  - date published: 2023-11-29T15:31:40.430080+00:00
@@ -3784,6 +3922,18 @@
  - user: None
  - tags: ['personal']
 
+## Josh Lu
+ - [https://www.joshlu.com](https://www.joshlu.com)
+ - date published: 2024-01-10T18:10:44.469035+00:00
+ - user: None
+ - tags: []
+
+## Josh Pigford
+ - [https://joshpigford.com](https://joshpigford.com)
+ - date published: 2024-01-10T14:30:02.970020+00:00
+ - user: None
+ - tags: []
+
 ## Joshua Galinato
  - [https://joshuagalinato.com](https://joshuagalinato.com)
  - date published: 2023-12-08T08:32:02.604763+00:00
@@ -3914,7 +4064,7 @@
  - [https://jsbin.com](https://jsbin.com)
  - date published: 2023-12-11T12:23:44+00:00
  - user: rumpel
- - tags: ['code sandbox']
+ - tags: ['code sandbox', 'online tool']
 
 ## JS Is Weird
  - [https://jsisweird.com](https://jsisweird.com)
@@ -4222,6 +4372,12 @@
  - user: None
  - tags: ['personal']
 
+## Kaitlin Maud
+ - [https://kaitlinmaud.com](https://kaitlinmaud.com)
+ - date published: 2024-01-10T19:22:53.151548+00:00
+ - user: None
+ - tags: []
+
 ## Kaitlin McKinnon
  - [https://www.kaitlinmckinnon.com](https://www.kaitlinmckinnon.com)
  - date published: 2023-10-25T09:21:00.326339+00:00
@@ -4426,6 +4582,12 @@
  - user: None
  - tags: ['personal']
 
+## Welcome
+ - [https://www.katiequinney.com](https://www.katiequinney.com)
+ - date published: 2024-01-10T23:53:18.181914+00:00
+ - user: None
+ - tags: []
+
 ## Katrina Goldsaito
  - [https://katrinagoldsaito.com](https://katrinagoldsaito.com)
  - date published: 2023-12-19T02:59:53.799605+00:00
@@ -4567,6 +4729,12 @@
 ## Home - Brazil's Blog
  - [https://blog.kellybrazil.com](https://blog.kellybrazil.com)
  - date published: 2023-10-25T15:35:42.425437+00:00
+ - user: None
+ - tags: []
+
+## Kelly Hobkirk's Blog
+ - [https://kellyhobkirk.com](https://kellyhobkirk.com)
+ - date published: 2024-01-10T23:53:07.782781+00:00
  - user: None
  - tags: []
 
@@ -5830,172 +5998,4 @@
  - date published: 2023-11-14T15:18:54.247417+00:00
  - user: None
  - tags: []
-
-## Show HN: SvelteKit SaaS Boilerplate to help launch your product fast
- - [https://launchleopard.com](https://launchleopard.com)
- - date published: 2023-11-14T13:33:49+00:00
- - user: None
- - tags: []
-
-## Laura Doorneweerd-Perry
- - [https://www.lauradoorneweerd.com](https://www.lauradoorneweerd.com)
- - date published: 2024-01-09T19:17:58.321083+00:00
- - user: None
- - tags: []
-
-## https://www.laurelparkerbook.com/fr/
- - [https://laurelparkerbook.com](https://laurelparkerbook.com)
- - date published: 2023-12-11T16:18:48.011302+00:00
- - user: None
- - tags: []
-
-## Law.com
- - [https://www.law.com](https://www.law.com)
- - date published: 2023-12-30T06:29:36.870856+00:00
- - user: None
- - tags: []
-
-## Legal News & Analysis on Litigation, Policy, Deals : Law360
- - [https://www.law360.com](https://www.law360.com)
- - date published: 2023-10-25T15:42:48.876318+00:00
- - user: None
- - tags: []
-
-## Law & Crime - Law and Crime News
- - [https://lawandcrime.com](https://lawandcrime.com)
- - date published: 2023-10-27T18:51:39.072959+00:00
- - user: None
- - tags: []
-
-## Hard National Security Choices | Lawfare
- - [https://www.lawfareblog.com](https://www.lawfareblog.com)
- - date published: 2023-10-25T15:42:52.054796+00:00
- - user: None
- - tags: []
-
-## LawSites | by Robert Ambrogi | Websites, Technology & the Law
- - [https://www.lawnext.com](https://www.lawnext.com)
- - date published: 2023-10-25T15:43:01.762363+00:00
- - user: None
- - tags: []
-
-## Lawrence Hook
- - [https://lawrencehook.com](https://lawrencehook.com)
- - date published: 2023-10-25T15:43:05.416939+00:00
- - user: None
- - tags: []
-
-## Home | Laws of UX
- - [https://lawsofux.com](https://lawsofux.com)
- - date published: 2023-10-25T15:43:06.384994+00:00
- - user: None
- - tags: []
-
-## Law Street Media | Legal news that leads to business.
- - [https://lawstreetmedia.com](https://lawstreetmedia.com)
- - date published: 2024-01-09T02:41:40.773575+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.layoff-sucks.com](https://www.layoff-sucks.com)
- - date published: 2024-01-09T02:41:48.638192+00:00
- - user: None
- - tags: []
-
-## LayoffsTracker – Track all Tech & Startup layoffs globally
- - [https://layoffstracker.com](https://layoffstracker.com)
- - date published: 2023-10-25T15:43:16.547456+00:00
- - user: None
- - tags: []
-
-## Lazard | Lazard
- - [https://www.lazard.com](https://www.lazard.com)
- - date published: 2023-10-25T15:43:20.691281+00:00
- - user: None
- - tags: []
-
-## LBRY - Content Freedom
- - [https://lbry.com](https://lbry.com)
- - date published: 2023-10-25T11:44:31.083607+00:00
- - user: None
- - tags: ['video streaming']
-
-## LCPDFR.com
- - [https://www.lcpdfr.com](https://www.lcpdfr.com)
- - date published: 2023-10-25T11:16:47.019672+00:00
- - user: None
- - tags: []
-
-## None
- - [https://ldjam.com](https://ldjam.com)
- - date published: 2024-01-09T02:41:49.233270+00:00
- - user: None
- - tags: []
-
-## Lost Boy – The blog of @ldodds
- - [https://blog.ldodds.com](https://blog.ldodds.com)
- - date published: 2023-10-25T15:43:24.686241+00:00
- - user: None
- - tags: []
-
-## Le blog Récifal – Aquarium d'eau de mer tropicale
- - [https://le-blog-recifal.com](https://le-blog-recifal.com)
- - date published: 2023-12-09T16:39:06.936796+00:00
- - user: None
- - tags: ['personal']
-
-## Ideas on Software Engineering
- - [https://john.leacox.com](https://john.leacox.com)
- - date published: 2023-11-29T14:44:24.296491+00:00
- - user: None
- - tags: ['personal']
-
-## Lead Adventure Forum - Index
- - [https://leadadventureforum.com](https://leadadventureforum.com)
- - date published: 2023-11-01T18:38:25.808998+00:00
- - user: None
- - tags: ['tabletop games', 'miniatures']
-
-## The home of engineering leadership | LeadDev
- - [https://leaddev.com](https://leaddev.com)
- - date published: 2023-10-25T15:43:28.840460+00:00
- - user: None
- - tags: []
-
-## Leaded Solder | Old computer repair, history and programming.
- - [https://www.leadedsolder.com](https://www.leadedsolder.com)
- - date published: 2023-10-25T15:43:32.295992+00:00
- - user: None
- - tags: []
-
-## Leading in Product | Benedikt Kantus | Substack
- - [https://www.leadinginproduct.com](https://www.leadinginproduct.com)
- - date published: 2023-11-21T09:09:34.603189+00:00
- - user: None
- - tags: []
-
-## Leaflet — an open-source JavaScript library for interactive maps
- - [https://leafletjs.com](https://leafletjs.com)
- - date published: 2023-12-11T13:13:52+00:00
- - user: rumpel
- - tags: ['open source', 'open street maps', 'service maps', 'leaflet', 'maps']
-
-## LoL Champions & Summoners Stats & Rankings - LeagueOfGraphs
- - [https://www.leagueofgraphs.com](https://www.leagueofgraphs.com)
- - date published: 2023-11-12T07:39:06.736085+00:00
- - user: None
- - tags: []
-
-## https://www.leagueoflegends.com
- - [https://www.leagueoflegends.com](https://www.leagueoflegends.com)
- - date published: 2023-11-02T10:41:02.774533+00:00
- - user: None
- - tags: []
-
-## And now it’s all this
- - [https://leancrew.com](https://leancrew.com)
- - date published: 2023-10-25T08:58:14.214738+00:00
- - user: None
- - tags: ['personal']
 

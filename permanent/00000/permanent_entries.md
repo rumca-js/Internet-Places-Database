@@ -1,15 +1,3 @@
-## New Retro Wave
- - [https://newretrowave.com](https://newretrowave.com)
- - date published: 2023-11-13T09:25:37+00:00
- - user: rumpel
- - tags: ['new retro wave', 'synthwave']
-
-## ScreenRant
- - [https://screenrant.com](https://screenrant.com)
- - date published: 2023-11-13T12:48:23+00:00
- - user: rumpel
- - tags: ['news', 'movie news']
-
 ## TrasHTTPandas – Trash Panda HTTP Responses
  - [https://httpraccoons.com](https://httpraccoons.com)
  - date published: 2023-11-18T05:17:18+00:00
@@ -35,18 +23,6 @@
  - tags: []
 
 ## None
- - [https://www.red](https://www.red)
- - date published: 2023-12-06T10:59:33.412520+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.c-spa](https://www.c-spa)
- - date published: 2023-12-06T16:47:29.071049+00:00
- - user: None
- - tags: []
-
-## None
  - [http://musecdn.businesscatalyst.com](http://musecdn.businesscatalyst.com)
  - date published: 2023-12-11T16:10:40.270068+00:00
  - user: None
@@ -61,12 +37,6 @@
 ## None
  - [https://oss.maxcdn.com](https://oss.maxcdn.com)
  - date published: 2023-12-11T16:36:15.248509+00:00
- - user: None
- - tags: []
-
-## None
- - [https://ssl](https://ssl)
- - date published: 2023-12-11T16:37:14.706123+00:00
  - user: None
  - tags: []
 
@@ -109,24 +79,6 @@
 ## None
  - [https://www.reddit.c](https://www.reddit.c)
  - date published: 2024-01-08T13:04:16.215952+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.ismailzai.com](https://www.ismailzai.com)
- - date published: 2024-01-09T09:17:26.042306+00:00
- - user: None
- - tags: []
-
-## None
- - [https://apolloacademy.com](https://apolloacademy.com)
- - date published: 2024-01-09T13:02:16.965527+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://localhost](https://localhost)
- - date published: 2024-01-09T02:23:12.787503+00:00
  - user: None
  - tags: []
 
@@ -2764,6 +2716,12 @@
  - user: None
  - tags: []
 
+## Patrick Wied | Products, Data Visualization, Web Developer.
+ - [https://www.patrick-wied.at](https://www.patrick-wied.at)
+ - date published: 2024-01-10T19:22:19.660780+00:00
+ - user: None
+ - tags: []
+
 ## leyrers online pamphlet
  - [https://martin.leyrer.priv.at](https://martin.leyrer.priv.at)
  - date published: 2023-10-25T11:53:04.082823+00:00
@@ -2839,6 +2797,12 @@
 ## Coming Soon – Acid Media
  - [https://acidmedia.com.au](https://acidmedia.com.au)
  - date published: 2023-12-13T15:36:48.038751+00:00
+ - user: None
+ - tags: []
+
+## Now - Adam Ashton
+ - [https://www.adamashton.com.au](https://www.adamashton.com.au)
+ - date published: 2024-01-10T18:10:16.445630+00:00
  - user: None
  - tags: []
 
@@ -3243,6 +3207,12 @@
  - date published: 2023-10-25T09:07:53.316523+00:00
  - user: None
  - tags: ['personal']
+
+## Ben Hamilton – what I thought
+ - [https://ben.hamilton.id.au](https://ben.hamilton.id.au)
+ - date published: 2024-01-10T23:52:38.516524+00:00
+ - user: None
+ - tags: []
 
 ## Zen Savona
  - [https://zen.id.au](https://zen.id.au)
@@ -5964,6 +5934,12 @@
  - user: None
  - tags: ['personal']
 
+## Welcome to my website | André Jaenisch
+ - [https://jaenis.ch](https://jaenis.ch)
+ - date published: 2024-01-10T14:29:58.767888+00:00
+ - user: None
+ - tags: []
+
 ## Pasar Jalan Petaling
  - [https://www.maurits.ch](https://www.maurits.ch)
  - date published: 2023-10-25T08:43:18.862210+00:00
@@ -5999,4 +5975,28 @@
  - date published: 2023-10-25T12:14:08.646235+00:00
  - user: None
  - tags: []
+
+## PC Engines home
+ - [https://www.pcengines.ch](https://www.pcengines.ch)
+ - date published: 2023-10-25T12:14:14.724348+00:00
+ - user: None
+ - tags: []
+
+## REDS blog – REDS Institute, HEIG-VD
+ - [https://blog.reds.ch](https://blog.reds.ch)
+ - date published: 2023-10-25T12:14:18.446449+00:00
+ - user: None
+ - tags: []
+
+## RELEC – Software & Hardware Amiga
+ - [https://www.relec.ch](https://www.relec.ch)
+ - date published: 2024-01-09T02:27:25.294187+00:00
+ - user: None
+ - tags: []
+
+## Srijan Choudhary's personal website
+ - [https://srijan.ch](https://srijan.ch)
+ - date published: 2023-11-18T23:28:44.408301+00:00
+ - user: None
+ - tags: ['personal']
 

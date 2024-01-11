@@ -4192,6 +4192,12 @@
  - user: None
  - tags: []
 
+## Thoughts in Low Places
+ - [https://www.carsengrote.com](https://www.carsengrote.com)
+ - date published: 2024-01-10T21:16:21.205470+00:00
+ - user: None
+ - tags: []
+
 ## Compare car design and dimensions in a Virtual Showroom
  - [https://www.carsized.com](https://www.carsized.com)
  - date published: 2023-10-25T13:18:46.682593+00:00
@@ -4275,6 +4281,12 @@
  - date published: 2023-10-27T10:41:48.615354+00:00
  - user: None
  - tags: ['wtf']
+
+## Catalyst
+ - [https://catalyst-journal.com](https://catalyst-journal.com)
+ - date published: 2024-01-10T10:18:06.844569+00:00
+ - user: None
+ - tags: []
 
 ## Welcome to the World of CATAN | Home | CATAN
  - [https://www.catan.com](https://www.catan.com)
@@ -4827,6 +4839,12 @@
  - date published: 2023-10-25T09:19:45.648985+00:00
  - user: None
  - tags: ['personal']
+
+## chiaracokieng.com
+ - [https://www.chiaracokieng.com](https://www.chiaracokieng.com)
+ - date published: 2024-01-10T23:52:41.513399+00:00
+ - user: None
+ - tags: []
 
 ## Home
  - [https://chicagocrusader.com](https://chicagocrusader.com)
@@ -5662,6 +5680,12 @@
  - user: None
  - tags: []
 
+## https://www.cloudsek.com
+ - [https://www.cloudsek.com](https://www.cloudsek.com)
+ - date published: 2024-01-10T21:16:05.705650+00:00
+ - user: None
+ - tags: []
+
 ## None
  - [https://cloverchronicle.com](https://cloverchronicle.com)
  - date published: 2024-01-09T02:32:21.089765+00:00
@@ -5984,28 +6008,4 @@
  - date published: 2023-10-25T13:28:40.388558+00:00
  - user: None
  - tags: []
-
-## CodeWritePlay – Game Development, Tech, Humor
- - [https://codewriteplay.com](https://codewriteplay.com)
- - date published: 2023-10-25T13:28:50.815482+00:00
- - user: None
- - tags: []
-
-## Codex 99
- - [https://www.codex99.com](https://www.codex99.com)
- - date published: 2024-01-09T02:32:31.105130+00:00
- - user: None
- - tags: []
-
-## A weekly newsletter that explain tech terms in plain, everyday language
- - [https://codictionary.com](https://codictionary.com)
- - date published: 2024-01-09T02:32:34.042018+00:00
- - user: None
- - tags: []
-
-## Coding Horror
- - [https://blog.codinghorror.com](https://blog.codinghorror.com)
- - date published: 2023-10-25T09:19:51.330520+00:00
- - user: None
- - tags: ['personal']
 

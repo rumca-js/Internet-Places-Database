@@ -1,3 +1,171 @@
+## Show HN: SvelteKit SaaS Boilerplate to help launch your product fast
+ - [https://launchleopard.com](https://launchleopard.com)
+ - date published: 2023-11-14T13:33:49+00:00
+ - user: None
+ - tags: []
+
+## Laura Doorneweerd-Perry
+ - [https://www.lauradoorneweerd.com](https://www.lauradoorneweerd.com)
+ - date published: 2024-01-09T19:17:58.321083+00:00
+ - user: None
+ - tags: []
+
+## https://www.laurelparkerbook.com/fr/
+ - [https://laurelparkerbook.com](https://laurelparkerbook.com)
+ - date published: 2023-12-11T16:18:48.011302+00:00
+ - user: None
+ - tags: []
+
+## Law.com
+ - [https://www.law.com](https://www.law.com)
+ - date published: 2023-12-30T06:29:36.870856+00:00
+ - user: None
+ - tags: []
+
+## Legal News & Analysis on Litigation, Policy, Deals : Law360
+ - [https://www.law360.com](https://www.law360.com)
+ - date published: 2023-10-25T15:42:48.876318+00:00
+ - user: None
+ - tags: []
+
+## Law & Crime - Law and Crime News
+ - [https://lawandcrime.com](https://lawandcrime.com)
+ - date published: 2023-10-27T18:51:39.072959+00:00
+ - user: None
+ - tags: []
+
+## Hard National Security Choices | Lawfare
+ - [https://www.lawfareblog.com](https://www.lawfareblog.com)
+ - date published: 2023-10-25T15:42:52.054796+00:00
+ - user: None
+ - tags: []
+
+## LawSites | by Robert Ambrogi | Websites, Technology & the Law
+ - [https://www.lawnext.com](https://www.lawnext.com)
+ - date published: 2023-10-25T15:43:01.762363+00:00
+ - user: None
+ - tags: []
+
+## Lawrence Hook
+ - [https://lawrencehook.com](https://lawrencehook.com)
+ - date published: 2023-10-25T15:43:05.416939+00:00
+ - user: None
+ - tags: []
+
+## Home | Laws of UX
+ - [https://lawsofux.com](https://lawsofux.com)
+ - date published: 2023-10-25T15:43:06.384994+00:00
+ - user: None
+ - tags: []
+
+## Law Street Media | Legal news that leads to business.
+ - [https://lawstreetmedia.com](https://lawstreetmedia.com)
+ - date published: 2024-01-09T02:41:40.773575+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.layoff-sucks.com](https://www.layoff-sucks.com)
+ - date published: 2024-01-09T02:41:48.638192+00:00
+ - user: None
+ - tags: []
+
+## LayoffsTracker – Track all Tech & Startup layoffs globally
+ - [https://layoffstracker.com](https://layoffstracker.com)
+ - date published: 2023-10-25T15:43:16.547456+00:00
+ - user: None
+ - tags: []
+
+## Lazard | Lazard
+ - [https://www.lazard.com](https://www.lazard.com)
+ - date published: 2023-10-25T15:43:20.691281+00:00
+ - user: None
+ - tags: []
+
+## LBRY - Content Freedom
+ - [https://lbry.com](https://lbry.com)
+ - date published: 2023-10-25T11:44:31.083607+00:00
+ - user: None
+ - tags: ['video streaming']
+
+## LCPDFR.com
+ - [https://www.lcpdfr.com](https://www.lcpdfr.com)
+ - date published: 2023-10-25T11:16:47.019672+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://ldjam.com](https://ldjam.com)
+ - date published: 2024-01-09T02:41:49.233270+00:00
+ - user: None
+ - tags: []
+
+## Lost Boy – The blog of @ldodds
+ - [https://blog.ldodds.com](https://blog.ldodds.com)
+ - date published: 2023-10-25T15:43:24.686241+00:00
+ - user: None
+ - tags: []
+
+## Le blog Récifal – Aquarium d'eau de mer tropicale
+ - [https://le-blog-recifal.com](https://le-blog-recifal.com)
+ - date published: 2023-12-09T16:39:06.936796+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ideas on Software Engineering
+ - [https://john.leacox.com](https://john.leacox.com)
+ - date published: 2023-11-29T14:44:24.296491+00:00
+ - user: None
+ - tags: ['personal']
+
+## Lead Adventure Forum - Index
+ - [https://leadadventureforum.com](https://leadadventureforum.com)
+ - date published: 2023-11-01T18:38:25.808998+00:00
+ - user: None
+ - tags: ['tabletop games', 'miniatures']
+
+## The home of engineering leadership | LeadDev
+ - [https://leaddev.com](https://leaddev.com)
+ - date published: 2023-10-25T15:43:28.840460+00:00
+ - user: None
+ - tags: []
+
+## Leaded Solder | Old computer repair, history and programming.
+ - [https://www.leadedsolder.com](https://www.leadedsolder.com)
+ - date published: 2023-10-25T15:43:32.295992+00:00
+ - user: None
+ - tags: []
+
+## Leading in Product | Benedikt Kantus | Substack
+ - [https://www.leadinginproduct.com](https://www.leadinginproduct.com)
+ - date published: 2023-11-21T09:09:34.603189+00:00
+ - user: None
+ - tags: []
+
+## Leaflet — an open-source JavaScript library for interactive maps
+ - [https://leafletjs.com](https://leafletjs.com)
+ - date published: 2023-12-11T13:13:52+00:00
+ - user: rumpel
+ - tags: ['open source', 'open street maps', 'service maps', 'leaflet', 'maps']
+
+## LoL Champions & Summoners Stats & Rankings - LeagueOfGraphs
+ - [https://www.leagueofgraphs.com](https://www.leagueofgraphs.com)
+ - date published: 2023-11-12T07:39:06.736085+00:00
+ - user: None
+ - tags: []
+
+## https://www.leagueoflegends.com
+ - [https://www.leagueoflegends.com](https://www.leagueoflegends.com)
+ - date published: 2023-11-02T10:41:02.774533+00:00
+ - user: None
+ - tags: []
+
+## And now it’s all this
+ - [https://leancrew.com](https://leancrew.com)
+ - date published: 2023-10-25T08:58:14.214738+00:00
+ - user: None
+ - tags: ['personal']
+
 ## And now it’s all this
  - [https://www.leancrew.com](https://www.leancrew.com)
  - date published: 2024-01-09T02:41:51.560090+00:00
@@ -1000,6 +1168,12 @@
  - user: None
  - tags: []
 
+## Liz Foreman, Digital Content Manager - Personal website
+ - [https://lizforeman.com](https://lizforeman.com)
+ - date published: 2024-01-10T18:10:52.751002+00:00
+ - user: None
+ - tags: []
+
 ## News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, Kansas
  - [https://www2.ljworld.com](https://www2.ljworld.com)
  - date published: 2023-10-25T15:48:55.622762+00:00
@@ -1589,6 +1763,12 @@ diversions.
  - user: None
  - tags: []
 
+## Clarity through writing · macapinlac.com
+ - [https://www.macapinlac.com](https://www.macapinlac.com)
+ - date published: 2024-01-10T14:29:44.031217+00:00
+ - user: None
+ - tags: []
+
 ## Mac Chaffee
  - [https://www.macchaffee.com](https://www.macchaffee.com)
  - date published: 2023-10-25T15:53:14.050016+00:00
@@ -1778,6 +1958,12 @@ diversions.
 ## Transactional Email Delivery Made Easy
  - [https://maileroo.com](https://maileroo.com)
  - date published: 2023-12-16T05:53:51+00:00
+ - user: None
+ - tags: []
+
+## Transactional Email API Service For Developers | Mailgun
+ - [https://www.mailgun.com](https://www.mailgun.com)
+ - date published: 2024-01-10T03:28:10.263497+00:00
  - user: None
  - tags: []
 
@@ -2098,6 +2284,12 @@ diversions.
  - date published: 2023-12-28T18:49:25.685557+00:00
  - user: None
  - tags: ['personal']
+
+## Performance | MarielisGarcia
+ - [https://www.marielisgarcia.com](https://www.marielisgarcia.com)
+ - date published: 2024-01-10T23:52:06.653575+00:00
+ - user: None
+ - tags: []
 
 ## Marin Comics
  - [https://marincomics.com](https://marincomics.com)
@@ -3003,6 +3195,12 @@ diversions.
 ## Clive Thompson – Medium
  - [https://clivethompson.medium.com](https://clivethompson.medium.com)
  - date published: 2023-10-25T10:19:18.196307+00:00
+ - user: None
+ - tags: []
+
+## Andrew Coyle – Medium
+ - [https://coyleandrew.medium.com](https://coyleandrew.medium.com)
+ - date published: 2024-01-10T20:25:33.997993+00:00
  - user: None
  - tags: []
 
@@ -4176,6 +4374,12 @@ diversions.
  - user: None
  - tags: ['personal']
 
+## None
+ - [https://michaellabelle.com](https://michaellabelle.com)
+ - date published: 2024-01-10T22:41:16.724719+00:00
+ - user: None
+ - tags: []
+
 ## Michael's Notebook
  - [https://michaelnotebook.com](https://michaelnotebook.com)
  - date published: 2023-10-25T08:47:16.324263+00:00
@@ -4386,6 +4590,12 @@ diversions.
  - user: None
  - tags: []
 
+## Cloud-Based Medical Office Software & Billing Services
+ - [https://www.microwize.com](https://www.microwize.com)
+ - date published: 2024-01-10T14:29:04.664029+00:00
+ - user: None
+ - tags: []
+
 ## Middle East Monitor
  - [https://www.middleeastmonitor.com](https://www.middleeastmonitor.com)
  - date published: 2023-11-05T15:09:13.933802+00:00
@@ -4425,6 +4635,13 @@ diversions.
 ## Sprezzatura
  - [https://mikaelsyding.com](https://mikaelsyding.com)
  - date published: 2023-12-31T21:20:59.573845+00:00
+ - user: None
+ - tags: []
+
+## MhWeb
+     · Phoenix Framework
+ - [https://mike-hostetler.com](https://mike-hostetler.com)
+ - date published: 2024-01-10T19:22:18.450167+00:00
  - user: None
  - tags: []
 
@@ -4473,6 +4690,12 @@ diversions.
 ## Mike Puchol – Medium
  - [https://mikepuchol.com](https://mikepuchol.com)
  - date published: 2023-10-25T16:03:56.379616+00:00
+ - user: None
+ - tags: []
+
+## Mike's Blog: Content Creation & Online Marketing Blogging Lifestyle
+ - [https://mikesblog.com](https://mikesblog.com)
+ - date published: 2024-01-10T14:29:50.005176+00:00
  - user: None
  - tags: []
 
@@ -5160,6 +5383,12 @@ diversions.
  - user: None
  - tags: []
 
+## None
+ - [https://www.moorethought.com](https://www.moorethought.com)
+ - date published: 2024-01-10T22:42:50.250561+00:00
+ - user: None
+ - tags: []
+
 ## moralestapia.com
  - [https://www.moralestapia.com](https://www.moralestapia.com)
  - date published: 2023-11-29T15:49:04.258610+00:00
@@ -5769,234 +5998,6 @@ diversions.
 ## 502 Bad Gateway
  - [https://www.nakedcapitalism.com](https://www.nakedcapitalism.com)
  - date published: 2023-10-25T16:10:12.031538+00:00
- - user: None
- - tags: []
-
-## Buy a domain name - Register cheap domain names from $0.99 - Namecheap
- - [https://www.namecheap.com](https://www.namecheap.com)
- - date published: 2023-10-25T16:10:18.001858+00:00
- - user: None
- - tags: []
-
-## News | Nancy Ruth
- - [https://www.nancyruth.com](https://www.nancyruth.com)
- - date published: 2024-01-05T10:27:10.689759+00:00
- - user: None
- - tags: []
-
-## Nandología
- - [https://nandologia.com](https://nandologia.com)
- - date published: 2023-11-20T01:41:25.949856+00:00
- - user: None
- - tags: []
-
-## NannyML - Estimating model performance, drift detection and more...
- - [https://www.nannyml.com](https://www.nannyml.com)
- - date published: 2023-10-25T16:10:21.787934+00:00
- - user: None
- - tags: []
-
-## Oxford Nanopore Technologies
- - [https://nanoporetech.com](https://nanoporetech.com)
- - date published: 2023-11-28T06:40:57.895158+00:00
- - user: None
- - tags: []
-
-## NanoVMs
- - [https://nanovms.com](https://nanovms.com)
- - date published: 2023-10-25T16:10:29.833433+00:00
- - user: None
- - tags: []
-
-## Nanotechnology and Emerging Technologies News from Nanowerk
- - [https://www.nanowerk.com](https://www.nanowerk.com)
- - date published: 2023-12-03T03:58:00.211208+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.narnia.com](https://www.narnia.com)
- - date published: 2023-10-25T14:12:16.212703+00:00
- - user: None
- - tags: []
-
-## Narnia Fans - Narnia on Netflix Movie and Series News
- - [https://narniafans.com](https://narniafans.com)
- - date published: 2023-10-25T14:11:41.606701+00:00
- - user: None
- - tags: []
-
-## NarniaWeb
- - [https://www.narniaweb.com](https://www.narniaweb.com)
- - date published: 2023-10-25T14:11:57.005524+00:00
- - user: None
- - tags: []
-
-## Narratively | Substack
- - [https://narratively.com](https://narratively.com)
- - date published: 2023-10-25T16:10:34.190788+00:00
- - user: None
- - tags: []
-
-## A self-hosted solution to enable secure connectivity between devices across restricted networks like NAT or firewalls | Narrowlink
- - [https://narrowlink.com](https://narrowlink.com)
- - date published: 2023-10-25T16:10:41.665631+00:00
- - user: None
- - tags: []
-
-## Nasdaq: Stock Market, Data Updates, Reports & News
- - [https://www.nasdaq.com](https://www.nasdaq.com)
- - date published: 2023-10-25T10:58:04.699701+00:00
- - user: None
- - tags: []
-
-## Ben Nassi
- - [https://www.nassiben.com](https://www.nassiben.com)
- - date published: 2023-10-25T16:10:45.259333+00:00
- - user: None
- - tags: []
-
-## Cloudflare
- - [https://nassimsoftware.com](https://nassimsoftware.com)
- - date published: 2023-10-25T16:10:46.275013+00:00
- - user: None
- - tags: []
-
-## Natecation · from Nathan H. Leung
- - [https://www.natecation.com](https://www.natecation.com)
- - date published: 2023-10-25T16:10:48.264572+00:00
- - user: None
- - tags: []
-
-## Nate Hoffelder
- - [https://natehoffelder.com](https://natehoffelder.com)
- - date published: 2023-10-25T16:10:56.376597+00:00
- - user: None
- - tags: []
-
-## Nat Eliason's Newsletter | Substack
- - [https://blog.nateliason.com](https://blog.nateliason.com)
- - date published: 2023-10-25T16:11:04.110312+00:00
- - user: None
- - tags: []
-
-## Nat Eliason: Blog, Book Notes, Newsletter, and More
- - [https://www.nateliason.com](https://www.nateliason.com)
- - date published: 2024-01-06T08:53:03.977149+00:00
- - user: None
- - tags: []
-
-## NateMerrill [dot] com
- - [https://www.natemerrill.com](https://www.natemerrill.com)
- - date published: 2024-01-01T17:21:02.778781+00:00
- - user: None
- - tags: []
-
-## nate's website
- - [https://www.nateranda.com](https://www.nateranda.com)
- - date published: 2023-10-25T16:11:06.408957+00:00
- - user: None
- - tags: []
-
-## Nathanael Haggard
- - [https://nathanaelhaggard.com](https://nathanaelhaggard.com)
- - date published: 2023-12-20T00:58:45.930055+00:00
- - user: None
- - tags: ['personal']
-
-## Nathan Craddock
- - [https://nathancraddock.com](https://nathancraddock.com)
- - date published: 2023-10-25T16:11:07.784296+00:00
- - user: None
- - tags: []
-
-## Nathan Lustig – Staying out of the Cubicle
- - [https://www.nathanlustig.com](https://www.nathanlustig.com)
- - date published: 2023-12-13T06:04:31.022737+00:00
- - user: None
- - tags: ['personal']
-
-## Nathan Otterness' Page
- - [https://nathanotterness.com](https://nathanotterness.com)
- - date published: 2023-10-25T16:11:10.707029+00:00
- - user: None
- - tags: []
-
-## Nathan Peck
- - [https://nathanpeck.com](https://nathanpeck.com)
- - date published: 2023-10-25T16:11:12.511630+00:00
- - user: None
- - tags: []
-
-## Nat Henry
- - [https://nathenry.com](https://nathenry.com)
- - date published: 2023-10-25T16:11:15.803624+00:00
- - user: None
- - tags: []
-
-## Home | National Affairs
- - [https://nationalaffairs.com](https://nationalaffairs.com)
- - date published: 2023-10-25T16:11:19.497717+00:00
- - user: None
- - tags: []
-
-## Home | National Affairs
- - [https://www.nationalaffairs.com](https://www.nationalaffairs.com)
- - date published: 2023-10-25T16:11:25.921422+00:00
- - user: None
- - tags: []
-
-## National File
- - [https://nationalfile.com](https://nationalfile.com)
- - date published: 2023-10-25T16:11:33.651688+00:00
- - user: None
- - tags: []
-
-## https://pmdvod.nationalgeographic.com
- - [https://pmdvod.nationalgeographic.com](https://pmdvod.nationalgeographic.com)
- - date published: 2024-01-09T02:44:42.172690+00:00
- - user: None
- - tags: []
-
-## National Geographic
- - [https://www.nationalgeographic.com](https://www.nationalgeographic.com)
- - date published: 2023-10-25T16:11:46.782249+00:00
- - user: None
- - tags: ['science', 'articles', 'culture', 'nature']
-
-## National Grid
- - [https://www.nationalgrid.com](https://www.nationalgrid.com)
- - date published: 2023-12-29T17:09:33.416207+00:00
- - user: None
- - tags: []
-
-## National Journal
- - [https://www.nationaljournal.com](https://www.nationaljournal.com)
- - date published: 2023-11-10T19:58:41.389822+00:00
- - user: None
- - tags: []
-
-## Canada's National Observer: News & Analysis
- - [https://www.nationalobserver.com](https://www.nationalobserver.com)
- - date published: 2023-10-25T16:11:50.828726+00:00
- - user: None
- - tags: []
-
-## Home | The National Post Home Page | National Post
- - [https://nationalpost.com](https://nationalpost.com)
- - date published: 2023-10-25T16:12:03.903762+00:00
- - user: None
- - tags: ['news']
-
-## National Review: Conservative News, Opinion, Politics, Policy, & Current Events
- - [https://www.nationalreview.com](https://www.nationalreview.com)
- - date published: 2023-10-25T10:26:54.464697+00:00
- - user: None
- - tags: []
-
-## Nation World News | Get Latest Breaking News Update
- - [https://nationworldnews.com](https://nationworldnews.com)
- - date published: 2023-10-25T16:12:09.375654+00:00
  - user: None
  - tags: []
 

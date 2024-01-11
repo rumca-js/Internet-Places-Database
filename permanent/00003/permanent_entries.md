@@ -1,3 +1,27 @@
+## CodeWritePlay – Game Development, Tech, Humor
+ - [https://codewriteplay.com](https://codewriteplay.com)
+ - date published: 2023-10-25T13:28:50.815482+00:00
+ - user: None
+ - tags: []
+
+## Codex 99
+ - [https://www.codex99.com](https://www.codex99.com)
+ - date published: 2024-01-09T02:32:31.105130+00:00
+ - user: None
+ - tags: []
+
+## A weekly newsletter that explain tech terms in plain, everyday language
+ - [https://codictionary.com](https://codictionary.com)
+ - date published: 2024-01-09T02:32:34.042018+00:00
+ - user: None
+ - tags: []
+
+## Coding Horror
+ - [https://blog.codinghorror.com](https://blog.codinghorror.com)
+ - date published: 2023-10-25T09:19:51.330520+00:00
+ - user: None
+ - tags: ['personal']
+
 ## The Coding Nest
  - [https://codingnest.com](https://codingnest.com)
  - date published: 2023-10-25T13:28:59.884471+00:00
@@ -448,6 +472,12 @@
  - user: None
  - tags: []
 
+## Coach
+ - [https://confidecoaching.com](https://confidecoaching.com)
+ - date published: 2024-01-10T18:11:11.126608+00:00
+ - user: None
+ - tags: []
+
 ## DeepEval
  - [https://docs.confident-ai.com](https://docs.confident-ai.com)
  - date published: 2023-10-25T13:33:10.255539+00:00
@@ -681,6 +711,12 @@
  - date published: 2023-10-27T11:05:03.317068+00:00
  - user: None
  - tags: ['wtf']
+
+## Corina Burri.
+ - [https://www.corinaburri.com](https://www.corinaburri.com)
+ - date published: 2024-01-10T18:10:02.887785+00:00
+ - user: None
+ - tags: []
 
 ## Coroot
  - [https://coroot.com](https://coroot.com)
@@ -2213,6 +2249,12 @@
  - user: None
  - tags: ['personal']
 
+## Data Scientist | Dave Ramsey | PHL | blog
+ - [https://www.daveramseymusic.com](https://www.daveramseymusic.com)
+ - date published: 2024-01-10T22:41:10.539741+00:00
+ - user: None
+ - tags: []
+
 ## The Homepage of Dave Rupert | daverupert.com
  - [https://daverupert.com](https://daverupert.com)
  - date published: 2023-10-25T13:45:08.453766+00:00
@@ -2476,6 +2518,12 @@
  - date published: 2023-11-29T14:44:16.253144+00:00
  - user: None
  - tags: ['personal']
+
+## Dean Robert Watson
+ - [https://deanrobertwatson.com](https://deanrobertwatson.com)
+ - date published: 2024-01-10T14:28:16.684706+00:00
+ - user: None
+ - tags: []
 
 ## Dean Sawatzky
  - [https://www.deansawatzky.com](https://www.deansawatzky.com)
@@ -2872,6 +2920,12 @@
  - date published: 2023-11-29T17:08:37.949199+00:00
  - user: None
  - tags: ['personal']
+
+## Derek Shirk / Design Leader
+ - [https://derekshirk.com](https://derekshirk.com)
+ - date published: 2024-01-10T19:22:30.953376+00:00
+ - user: None
+ - tags: []
 
 ## Derek Yu's Home on the Web
  - [https://derekyu.com](https://derekyu.com)
@@ -4128,6 +4182,12 @@
  - user: None
  - tags: ['personal']
 
+## drodol
+ - [https://blog.drodol.com](https://blog.drodol.com)
+ - date published: 2024-01-10T22:41:34.790474+00:00
+ - user: None
+ - tags: []
+
 ## Work in Progress | Dropbox Blog
  - [https://blog.dropbox.com](https://blog.dropbox.com)
  - date published: 2023-10-25T13:58:59.007997+00:00
@@ -4701,6 +4761,12 @@
 ## إديوكيشن للمعلومات education
  - [https://www.educationarb.com](https://www.educationarb.com)
  - date published: 2023-12-29T09:57:45.127370+00:00
+ - user: None
+ - tags: []
+
+## Ensiklopedia Dunia Berbahasa Indonesia - Daftar Isi | Wiki eduNitas.com
+ - [https://wiki.edunitas.com](https://wiki.edunitas.com)
+ - date published: 2024-01-10T21:15:58.828429+00:00
  - user: None
  - tags: []
 
@@ -5748,6 +5814,12 @@
  - user: None
  - tags: []
 
+## esther bouquet
+ - [https://estherbouquet.com](https://estherbouquet.com)
+ - date published: 2024-01-10T23:53:02.102566+00:00
+ - user: None
+ - tags: []
+
 ## Estonian World
  - [https://estonianworld.com](https://estonianworld.com)
  - date published: 2023-10-25T10:37:26.564767+00:00
@@ -5927,76 +5999,4 @@
  - date published: 2023-10-25T14:11:46.504047+00:00
  - user: None
  - tags: []
-
-## Evan Mullins – circlecube.com
- - [https://evanmullins.com](https://evanmullins.com)
- - date published: 2023-12-22T17:48:37.499297+00:00
- - user: None
- - tags: ['personal']
-
-## EvanPlaice.com
- - [https://evanplaice.com](https://evanplaice.com)
- - date published: 2023-11-29T14:25:13.116814+00:00
- - user: None
- - tags: ['personal']
-
-## Eveline Falcão | Motion Designer
- - [https://evelinefalcao.com](https://evelinefalcao.com)
- - date published: 2023-11-29T14:54:04.579355+00:00
- - user: None
- - tags: ['personal']
-
-## Evennia Python MUD/MU creation system
- - [https://www.evennia.com](https://www.evennia.com)
- - date published: 2023-10-25T14:11:58.427196+00:00
- - user: None
- - tags: ['game engine', 'mud']
-
-## Sequence diagram based System Modeling and Wireshark Debugging
- - [https://eventhelix.com](https://eventhelix.com)
- - date published: 2023-10-25T14:11:59.354571+00:00
- - user: None
- - tags: []
-
-## EventHubs fighting game news and tournament results
- - [https://www.eventhubs.com](https://www.eventhubs.com)
- - date published: 2023-10-25T14:12:09.513704+00:00
- - user: None
- - tags: []
-
-## {{meta.title}}
- - [https://eventvods.com](https://eventvods.com)
- - date published: 2023-11-02T10:40:57.348617+00:00
- - user: None
- - tags: []
-
-## Home - Evergreen Off-Grid
- - [https://evergreenoffgrid.com](https://evergreenoffgrid.com)
- - date published: 2023-10-25T14:12:15.348595+00:00
- - user: None
- - tags: []
-
-## Best Note Taking App - Organize Your Notes with Evernote
- - [https://evernote.com](https://evernote.com)
- - date published: 2023-10-25T14:12:24.164120+00:00
- - user: None
- - tags: []
-
-## Best Note Taking App - Organize Your Notes with Evernote
- - [https://www.evernote.com](https://www.evernote.com)
- - date published: 2023-12-26T06:31:31.803085+00:00
- - user: None
- - tags: ['personal']
-
-## Evert's Dugout
- - [https://evertpot.com](https://evertpot.com)
- - date published: 2023-10-25T14:12:30.455702+00:00
- - user: None
- - tags: []
-
-## Every Bit The Journey
- - [https://everybitthejourney.com](https://everybitthejourney.com)
- - date published: 2023-11-29T17:12:18.397207+00:00
- - user: None
- - tags: ['personal']
 
