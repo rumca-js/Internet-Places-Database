@@ -1,3 +1,471 @@
+## Deja Vu: (re-)creating web history
+ - [https://www.dejavu.org](https://www.dejavu.org)
+ - date published: 2023-10-25T21:13:58.736177+00:00
+ - user: None
+ - tags: []
+
+## Democracy Now! | Democracy Now!
+ - [https://www.democracynow.org](https://www.democracynow.org)
+ - date published: 2023-10-25T21:14:03.352030+00:00
+ - user: None
+ - tags: []
+
+## We are the Democratic Party - Democrats
+ - [https://democrats.org](https://democrats.org)
+ - date published: 2023-12-19T13:57:50.412077+00:00
+ - user: None
+ - tags: []
+
+## The blog at the bottom of the sea « Programming, Graphics, Gamedev, Exotic Computation, Audio Synthesis
+ - [https://blog.demofox.org](https://blog.demofox.org)
+ - date published: 2023-10-25T21:14:10.363138+00:00
+ - user: None
+ - tags: []
+
+## Demozoo
+ - [https://demozoo.org](https://demozoo.org)
+ - date published: 2023-10-27T14:46:20.722956+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## design manifestos .org
+ - [https://designmanifestos.org](https://designmanifestos.org)
+ - date published: 2024-01-09T13:36:18+00:00
+ - user: rumpel
+ - tags: ['desgin', 'manifesto']
+
+## Policy Experts Advocating for Developers | Developers Alliance
+ - [https://developersalliance.org](https://developersalliance.org)
+ - date published: 2023-12-29T18:50:24.565985+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://luc.devroye.org](https://luc.devroye.org)
+ - date published: 2023-12-29T00:51:34.131174+00:00
+ - user: None
+ - tags: []
+
+## DevTools Tips
+ - [https://devtoolstips.org](https://devtoolstips.org)
+ - date published: 2023-10-25T21:14:12.309236+00:00
+ - user: None
+ - tags: []
+
+## DFRLab - DFRLab
+ - [https://dfrlab.org](https://dfrlab.org)
+ - date published: 2023-10-25T21:14:16.103433+00:00
+ - user: None
+ - tags: []
+
+## DIEGO  VERA
+ - [https://www.diegovera.org](https://www.diegovera.org)
+ - date published: 2023-10-25T21:14:18.082525+00:00
+ - user: None
+ - tags: []
+
+## diffoscope: in-depth comparison of files, archives, and directories
+ - [https://diffoscope.org](https://diffoscope.org)
+ - date published: 2023-10-25T21:14:19.698212+00:00
+ - user: None
+ - tags: []
+
+## Dinosaur Images & Facts - The Online Database
+ - [https://dinosaurpictures.org](https://dinosaurpictures.org)
+ - date published: 2023-10-25T21:14:21.679378+00:00
+ - user: None
+ - tags: []
+
+## https://dirtyprosecutor.org
+ - [https://dirtyprosecutor.org](https://dirtyprosecutor.org)
+ - date published: 2024-01-09T03:38:55.288541+00:00
+ - user: None
+ - tags: []
+
+## Discourse is the place to build civilized communities | Discourse - Civilized Discussion
+ - [https://discourse.org](https://discourse.org)
+ - date published: 2023-10-25T21:14:25.105642+00:00
+ - user: None
+ - tags: []
+
+## distcc: a fast, free distributed C/C++ compiler
+ - [https://www.distcc.org](https://www.distcc.org)
+ - date published: 2023-10-25T21:14:26.079192+00:00
+ - user: None
+ - tags: []
+
+## Simple search
+ - [https://sh.diva-portal.org](https://sh.diva-portal.org)
+ - date published: 2023-10-25T21:14:32.161650+00:00
+ - user: None
+ - tags: []
+
+## Simple search
+ - [https://uu.diva-portal.org](https://uu.diva-portal.org)
+ - date published: 2023-10-25T21:14:33.208064+00:00
+ - user: None
+ - tags: []
+
+## Home - DivestOS Mobile
+ - [https://divestos.org](https://divestos.org)
+ - date published: 2023-10-25T21:14:34.497389+00:00
+ - user: None
+ - tags: []
+
+## Django Packages : Reusable apps, sites and tools directory for Django
+ - [https://djangopackages.org](https://djangopackages.org)
+ - date published: 2023-10-25T21:14:37.143169+00:00
+ - user: None
+ - tags: []
+
+## DJ Food | An online scrapbook by Strictly Kev aka DJ Food & Openmind.
+ - [https://www.djfood.org](https://www.djfood.org)
+ - date published: 2023-10-25T21:14:43.286931+00:00
+ - user: None
+ - tags: []
+
+## Home - D Programming Language
+ - [https://dlang.org](https://dlang.org)
+ - date published: 2023-10-25T21:14:45.334948+00:00
+ - user: None
+ - tags: []
+
+## Index - D Programming Language Discussion Forum
+ - [https://forum.dlang.org](https://forum.dlang.org)
+ - date published: 2023-10-25T21:14:51.989473+00:00
+ - user: None
+ - tags: []
+
+## Deep Learning Systems
+ - [https://dlsyscourse.org](https://dlsyscourse.org)
+ - date published: 2023-10-25T21:14:57.710621+00:00
+ - user: None
+ - tags: []
+
+## Gudang Slot88: Situs Slot Gacor Hari Ini dan Slot88 Terpercaya
+ - [https://dnipogo.org](https://dnipogo.org)
+ - date published: 2024-01-09T03:38:57.166834+00:00
+ - user: None
+ - tags: []
+
+## Home | Doctors Without Borders - USA
+ - [https://www.doctorswithoutborders.org](https://www.doctorswithoutborders.org)
+ - date published: 2023-11-11T16:04:52.293520+00:00
+ - user: None
+ - tags: []
+
+## DocumentCloud
+ - [https://www.documentcloud.org](https://www.documentcloud.org)
+ - date published: 2023-10-25T21:14:58.036496+00:00
+ - user: None
+ - tags: []
+
+## The Document Foundation Blog - The home of LibreOffice
+ - [https://blog.documentfoundation.org](https://blog.documentfoundation.org)
+ - date published: 2023-10-25T21:14:59.845814+00:00
+ - user: None
+ - tags: []
+
+## LibreOffice Development Blog - Blog for the LibreOffice Developers Community; Tutorials, tips and tricks for working with the LibreOffice code
+ - [https://dev.blog.documentfoundation.org](https://dev.blog.documentfoundation.org)
+ - date published: 2023-10-25T21:15:02.330486+00:00
+ - user: None
+ - tags: []
+
+## Welcome to The Document Foundation’s wiki - The Document Foundation Wiki
+ - [https://wiki.documentfoundation.org](https://wiki.documentfoundation.org)
+ - date published: 2023-10-25T21:15:04.376783+00:00
+ - user: None
+ - tags: []
+
+## Dogbolt Decompiler Explorer
+ - [https://dogbolt.org](https://dogbolt.org)
+ - date published: 2023-12-04T17:52:55+00:00
+ - user: None
+ - tags: []
+
+## Home Page
+ - [https://doi.org](https://doi.org)
+ - date published: 2023-10-25T21:15:05.945582+00:00
+ - user: None
+ - tags: []
+
+## Resolve a DOI Name
+ - [https://dx.doi.org](https://dx.doi.org)
+ - date published: 2023-12-03T01:17:58.110575+00:00
+ - user: None
+ - tags: []
+
+## Dolphin Emulator - GameCube/Wii games on PC
+ - [https://dolphin-emu.org](https://dolphin-emu.org)
+ - date published: 2023-10-25T08:36:22.762291+00:00
+ - user: None
+ - tags: ['emulator']
+
+## Domain Verification Protocol
+ - [https://domainverification.org](https://domainverification.org)
+ - date published: 2023-10-25T21:15:06.523985+00:00
+ - user: None
+ - tags: []
+
+## Domain Verification Protocol
+ - [https://www.domainverification.org](https://www.domainverification.org)
+ - date published: 2023-10-25T21:15:07.191275+00:00
+ - user: None
+ - tags: []
+
+## Domestika
+ - [https://www.domestika.org](https://www.domestika.org)
+ - date published: 2023-10-24T20:19:43.752630+00:00
+ - user: None
+ - tags: ['drawing', 'tutorials', 'writing', 'courses']
+
+## None
+ - [https://donellameadows.org](https://donellameadows.org)
+ - date published: 2023-12-24T03:19:42.866506+00:00
+ - user: None
+ - tags: []
+
+## The Doom Wiki at DoomWiki.org - Doom, Heretic, Hexen, Strife, and more
+ - [https://doomwiki.org](https://doomwiki.org)
+ - date published: 2023-10-25T21:15:10.502720+00:00
+ - user: None
+ - tags: []
+
+## .NET Foundation | .NET Foundation
+ - [https://dotnetfoundation.org](https://dotnetfoundation.org)
+ - date published: 2023-10-25T21:15:11.977111+00:00
+ - user: None
+ - tags: []
+
+## Welcome - Doug Engelbart Institute
+ - [https://www.dougengelbart.org](https://www.dougengelbart.org)
+ - date published: 2023-10-25T21:15:15.673050+00:00
+ - user: None
+ - tags: []
+
+## DragonFlyBSD: DragonFly BSD
+ - [https://www.dragonflybsd.org](https://www.dragonflybsd.org)
+ - date published: 2023-10-25T21:15:22.406789+00:00
+ - user: None
+ - tags: []
+
+## D.R.A.S.T.I.C. Research – D.R.A.S.T.I.C. Research
+ - [https://drasticresearch.org](https://drasticresearch.org)
+ - date published: 2023-10-25T21:15:25.874666+00:00
+ - user: None
+ - tags: []
+
+## diziet | Recent Entries
+ - [https://diziet.dreamwidth.org](https://diziet.dreamwidth.org)
+ - date published: 2023-10-25T21:15:30.379033+00:00
+ - user: None
+ - tags: []
+
+## graydon2 | Recent Entries
+ - [https://graydon2.dreamwidth.org](https://graydon2.dreamwidth.org)
+ - date published: 2023-10-25T21:15:34.097894+00:00
+ - user: None
+ - tags: []
+
+## liam_on_linux | Recent Entries
+ - [https://liam-on-linux.dreamwidth.org](https://liam-on-linux.dreamwidth.org)
+ - date published: 2023-10-25T21:15:39.084907+00:00
+ - user: None
+ - tags: []
+
+## mjg59 | Recent Entries
+ - [https://mjg59.dreamwidth.org](https://mjg59.dreamwidth.org)
+ - date published: 2023-10-25T21:15:42.543885+00:00
+ - user: None
+ - tags: []
+
+## roadrunnertwice | Recent Entries
+ - [https://roadrunnertwice.dreamwidth.org](https://roadrunnertwice.dreamwidth.org)
+ - date published: 2023-10-25T21:15:47.028918+00:00
+ - user: None
+ - tags: []
+
+## siderea | Recent Entries
+ - [https://siderea.dreamwidth.org](https://siderea.dreamwidth.org)
+ - date published: 2023-10-25T21:15:50.428581+00:00
+ - user: None
+ - tags: []
+
+## spindas | Recent Entries
+ - [https://spindas.dreamwidth.org](https://spindas.dreamwidth.org)
+ - date published: 2023-10-25T21:15:54.073987+00:00
+ - user: None
+ - tags: []
+
+## The Blog of Dr. Moron
+ - [https://www.drmoron.org](https://www.drmoron.org)
+ - date published: 2024-01-11T13:43:51.813117+00:00
+ - user: None
+ - tags: []
+
+## Drupal - Open Source CMS | Drupal.org
+ - [https://www.drupal.org](https://www.drupal.org)
+ - date published: 2023-10-25T21:15:56.363748+00:00
+ - user: None
+ - tags: []
+
+## DSLinux - Linux for the Nintendo DS
+ - [https://www.dslinux.org](https://www.dslinux.org)
+ - date published: 2023-10-25T08:32:08.225858+00:00
+ - user: None
+ - tags: []
+
+## dtrace.org
+ - [https://dtrace.org](https://dtrace.org)
+ - date published: 2024-01-09T03:38:59.443261+00:00
+ - user: None
+ - tags: []
+
+## DuckDB - An in-process SQL OLAP database management system
+ - [https://duckdb.org](https://duckdb.org)
+ - date published: 2023-10-25T21:16:01.562376+00:00
+ - user: None
+ - tags: []
+
+## Duck DNS
+ - [https://www.duckdns.org](https://www.duckdns.org)
+ - date published: 2023-10-25T21:16:02.876094+00:00
+ - user: None
+ - tags: ['dns']
+
+## DuckStation: Fast PS1 Emulator
+ - [https://www.duckstation.org](https://www.duckstation.org)
+ - date published: 2023-10-25T11:18:17.981573+00:00
+ - user: None
+ - tags: []
+
+## Home | Duke Health
+ - [https://corporate.dukehealth.org](https://corporate.dukehealth.org)
+ - date published: 2023-11-18T13:29:15.830491+00:00
+ - user: None
+ - tags: []
+
+## Dune 3D
+ - [https://dune3d.org](https://dune3d.org)
+ - date published: 2023-11-01T08:44:19.648377+00:00
+ - user: None
+ - tags: []
+
+## dungeoncrawlers.org - Keep calm and crawl dungeons.
+ - [https://www.dungeoncrawlers.org](https://www.dungeoncrawlers.org)
+ - date published: 2023-12-11T16:52:40.401217+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://duskos.org](https://duskos.org)
+ - date published: 2024-01-09T03:39:14.973427+00:00
+ - user: None
+ - tags: []
+
+## Artificial truth
+ - [https://dustri.org](https://dustri.org)
+ - date published: 2024-01-09T03:39:25.664057+00:00
+ - user: None
+ - tags: []
+
+## EHTML
+ - [https://e-html.org](https://e-html.org)
+ - date published: 2023-12-05T04:11:42.720580+00:00
+ - user: None
+ - tags: ['html']
+
+## Earthjustice: Because the earth needs a good lawyer
+ - [https://earthjustice.org](https://earthjustice.org)
+ - date published: 2023-10-25T09:27:32.950598+00:00
+ - user: None
+ - tags: []
+
+## EarthSky | Earth, Space, Sun, Human, Tonight
+ - [https://earthsky.org](https://earthsky.org)
+ - date published: 2023-12-24T15:29:19.919616+00:00
+ - user: None
+ - tags: ['space', 'science']
+
+## ebb.org
+ - [https://ebb.org](https://ebb.org)
+ - date published: 2023-11-15T17:30:57.242683+00:00
+ - user: None
+ - tags: ['personal']
+
+## Latest Resources - ecancer
+ - [https://ecancer.org](https://ecancer.org)
+ - date published: 2023-11-13T10:20:44.453606+00:00
+ - user: None
+ - tags: []
+
+## projects.eclipse.org
+ - [https://projects.eclipse.org](https://projects.eclipse.org)
+ - date published: 2023-11-13T00:40:40.685327+00:00
+ - user: None
+ - tags: []
+
+## The Community for Open Collaboration and Innovation  | The Eclipse Foundation
+ - [https://www.eclipse.org](https://www.eclipse.org)
+ - date published: 2023-12-11T12:00:23+00:00
+ - user: rumpel
+ - tags: ['ide']
+
+## Econlib - The Library of Economics and Liberty
+ - [https://www.econlib.org](https://www.econlib.org)
+ - date published: 2023-10-25T21:16:15.326410+00:00
+ - user: None
+ - tags: []
+
+## Econofact
+ - [https://econofact.org](https://econofact.org)
+ - date published: 2023-10-25T21:16:17.972710+00:00
+ - user: None
+ - tags: []
+
+## https://simplecast.econtalk.org
+ - [https://simplecast.econtalk.org](https://simplecast.econtalk.org)
+ - date published: 2024-01-09T03:39:26.620734+00:00
+ - user: None
+ - tags: []
+
+## EcoRenovator.org — Diy, Green, Home Improvements, Energy Efficiency
+ - [https://ecorenovator.org](https://ecorenovator.org)
+ - date published: 2023-10-25T21:16:25.962788+00:00
+ - user: None
+ - tags: []
+
+## Ecstatic Integration | Jules Evans | Substack
+ - [https://www.ecstaticintegration.org](https://www.ecstaticintegration.org)
+ - date published: 2023-10-25T21:16:29.105749+00:00
+ - user: None
+ - tags: []
+
+## Ed's Nike Missile Web Site
+ - [https://ed-thelen.org](https://ed-thelen.org)
+ - date published: 2023-12-03T06:18:05.806409+00:00
+ - user: None
+ - tags: []
+
+## Ed's Nike Missile Web Site
+ - [https://www.ed-thelen.org](https://www.ed-thelen.org)
+ - date published: 2023-12-03T05:38:04.247574+00:00
+ - user: None
+ - tags: []
+
+## Edge.org
+ - [https://www.edge.org](https://www.edge.org)
+ - date published: 2023-10-25T21:16:31.469598+00:00
+ - user: None
+ - tags: []
+
+## European Digital Rights (EDRi)
+ - [https://edri.org](https://edri.org)
+ - date published: 2023-10-25T21:16:34.020264+00:00
+ - user: None
+ - tags: []
+
 ## Covering education in California and beyond | EdSource
  - [https://edsource.org](https://edsource.org)
  - date published: 2023-10-25T21:16:39.216605+00:00
@@ -1921,6 +2389,12 @@
  - user: None
  - tags: []
 
+## Magnus Hultberg - hultberg.org
+ - [https://hultberg.org](https://hultberg.org)
+ - date published: 2024-01-11T20:47:44.802753+00:00
+ - user: None
+ - tags: []
+
 ## The Humane Society of the United States| End suffering for all animals
  - [https://www.humanesociety.org](https://www.humanesociety.org)
  - date published: 2023-10-25T21:29:17.708287+00:00
@@ -3634,6 +4108,12 @@ Hosted by Panix.com.
  - user: None
  - tags: ['operating system', 'linux']
 
+## Home - Manner of speaking
+ - [https://mannerofspeaking.org](https://mannerofspeaking.org)
+ - date published: 2024-01-11T12:22:38.220954+00:00
+ - user: None
+ - tags: []
+
 ## Manton Reece
  - [https://www.manton.org](https://www.manton.org)
  - date published: 2023-10-25T08:54:57.479172+00:00
@@ -3991,6 +4471,12 @@ Hosted by Panix.com.
 ## Minding The Campus — Reforming Our Universities
  - [https://www.mindingthecampus.org](https://www.mindingthecampus.org)
  - date published: 2023-10-25T21:42:55.312806+00:00
+ - user: None
+ - tags: []
+
+## lists.mindrot.org Mailing Lists
+ - [https://lists.mindrot.org](https://lists.mindrot.org)
+ - date published: 2024-01-11T13:43:10.457170+00:00
  - user: None
  - tags: []
 
@@ -5519,493 +6005,6 @@ Common Weakness Enumeration
 ## Home | Open Steno Project
  - [https://www.openstenoproject.org](https://www.openstenoproject.org)
  - date published: 2023-10-25T21:53:42.685049+00:00
- - user: None
- - tags: []
-
-## OpenStreetMap Blog | Supporting the OpenStreetMap project
- - [https://blog.openstreetmap.org](https://blog.openstreetmap.org)
- - date published: 2023-10-25T21:54:00.090175+00:00
- - user: None
- - tags: []
-
-## OpenStreetMap
- - [https://www.openstreetmap.org](https://www.openstreetmap.org)
- - date published: 2023-10-25T08:25:21.448647+00:00
- - user: None
- - tags: ['maps', 'open source', 'service maps', 'open street maps']
-
-## Get openSUSE
- - [https://get.opensuse.org](https://get.opensuse.org)
- - date published: 2023-10-25T21:54:02.204473+00:00
- - user: None
- - tags: []
-
-## openSUSE News
- - [https://news.opensuse.org](https://news.opensuse.org)
- - date published: 2023-10-25T21:54:11.240130+00:00
- - user: None
- - tags: []
-
-## https://opentf.org
- - [https://opentf.org](https://opentf.org)
- - date published: 2023-10-25T21:54:12.348282+00:00
- - user: None
- - tags: []
-
-## OpenTofu
- - [https://opentofu.org](https://opentofu.org)
- - date published: 2023-10-25T21:54:15.162985+00:00
- - user: None
- - tags: []
-
-## Opalstack: no site here.... yet!
- - [https://opentranscripts.org](https://opentranscripts.org)
- - date published: 2024-01-09T03:41:56.346236+00:00
- - user: None
- - tags: []
-
-## OpenTTD | OpenTTD's Wiki
- - [https://wiki.openttd.org](https://wiki.openttd.org)
- - date published: 2023-10-25T21:54:22.399587+00:00
- - user: None
- - tags: []
-
-## OpenTTD | Home
- - [https://www.openttd.org](https://www.openttd.org)
- - date published: 2023-10-25T21:54:30.332521+00:00
- - user: None
- - tags: []
-
-## Open Web Docs
- - [https://openwebdocs.org](https://openwebdocs.org)
- - date published: 2023-10-25T21:54:33.151027+00:00
- - user: None
- - tags: []
-
-## OpenWrt Mailing Lists
- - [https://lists.openwrt.org](https://lists.openwrt.org)
- - date published: 2024-01-10T22:07:03.931154+00:00
- - user: None
- - tags: []
-
-## [OpenWrt Wiki] Welcome to the OpenWrt Project
- - [https://openwrt.org](https://openwrt.org)
- - date published: 2023-10-25T21:54:37.020038+00:00
- - user: None
- - tags: ['routers', 'operating system']
-
-## OPNsense® a true open source security platform and more - OPNsense® is a true open source firewall and more
- - [https://opnsense.org](https://opnsense.org)
- - date published: 2023-10-25T21:54:42.178862+00:00
- - user: None
- - tags: []
-
-## Optica Publishing Group
- - [https://opg.optica.org](https://opg.optica.org)
- - date published: 2023-10-25T21:54:45.913732+00:00
- - user: None
- - tags: []
-
-## Home | Optica
- - [https://www.optica.org](https://www.optica.org)
- - date published: 2023-10-25T21:54:49.744968+00:00
- - user: None
- - tags: []
-
-## Orange Pi - Orange Pi official website - Orange Pi development board, open source hardware, open source
-        software, open source chip, computer keyboard
- - [http://www.orangepi.org](http://www.orangepi.org)
- - date published: 2023-10-25T21:54:52.162979+00:00
- - user: None
- - tags: []
-
-## Organiser Weekly - Voice of the Nation
- - [https://organiser.org](https://organiser.org)
- - date published: 2023-11-25T22:29:38.591315+00:00
- - user: None
- - tags: []
-
-## Orion Magazine | Nature, Culture & Place
- - [https://orionmagazine.org](https://orionmagazine.org)
- - date published: 2023-10-25T21:54:59.353571+00:00
- - user: None
- - tags: []
-
-## OS.js Web Desktop
- - [https://www.os-js.org](https://www.os-js.org)
- - date published: 2023-10-25T21:55:06.625725+00:00
- - user: None
- - tags: []
-
-## Expanded Main Page - OSDev Wiki
- - [https://wiki.osdev.org](https://wiki.osdev.org)
- - date published: 2023-12-26T20:32:40.382941+00:00
- - user: None
- - tags: []
-
-## Rod's Slide Rules
- - [https://osgalleries.org](https://osgalleries.org)
- - date published: 2023-10-25T21:55:08.267829+00:00
- - user: None
- - tags: []
-
-## Osmapp – A Universal OpenStreetMap App
- - [https://osmapp.org](https://osmapp.org)
- - date published: 2023-12-28T17:05:25+00:00
- - user: None
- - tags: []
-
-## OSM Buildings
- - [https://osmbuildings.org](https://osmbuildings.org)
- - date published: 2023-12-24T08:15:03+00:00
- - user: rumpel
- - tags: ['service maps']
-
-## Open Source Mobile Communications
- - [https://projects.osmocom.org](https://projects.osmocom.org)
- - date published: 2023-10-25T21:55:10.623342+00:00
- - user: None
- - tags: []
-
-## Welcome to the Open Source Seed Initiative - Open Source Seed Initiative
- - [https://osseeds.org](https://osseeds.org)
- - date published: 2023-10-25T21:55:13.834590+00:00
- - user: None
- - tags: []
-
-## Show HN: Open-source alternatives to tools You pay for
- - [https://osssoftware.org](https://osssoftware.org)
- - date published: 2023-12-09T01:14:37+00:00
- - user: None
- - tags: []
-
-## Our World in Data
- - [https://ourworldindata.org](https://ourworldindata.org)
- - date published: 2023-10-25T21:55:14.796544+00:00
- - user: None
- - tags: ['statistics', 'data']
-
-## Earth Overshoot Day home - #MoveTheDate
- - [https://www.overshootday.org](https://www.overshootday.org)
- - date published: 2023-10-25T21:55:21.472858+00:00
- - user: None
- - tags: []
-
-## https://overthewire.org
- - [https://overthewire.org](https://overthewire.org)
- - date published: 2024-01-09T03:41:57.489375+00:00
- - user: None
- - tags: []
-
-## Overture Maps Foundation – Linux Foundation Project
- - [https://overturemaps.org](https://overturemaps.org)
- - date published: 2023-10-25T21:55:23.960595+00:00
- - user: None
- - tags: []
-
-## OWASP Foundation, the Open Source Foundation for Application Security | OWASP Foundation
- - [https://owasp.org](https://owasp.org)
- - date published: 2023-10-25T21:55:25.406620+00:00
- - user: None
- - tags: []
-
-## Owl’s Portfolio
- - [https://www.owlfolio.org](https://www.owlfolio.org)
- - date published: 2023-10-25T21:55:28.509100+00:00
- - user: None
- - tags: []
-
-## The future is equal | Oxfam International
- - [https://www.oxfam.org](https://www.oxfam.org)
- - date published: 2023-10-25T21:55:30.733555+00:00
- - user: None
- - tags: []
-
-## Oxford American | Home
- - [https://main.oxfordamerican.org](https://main.oxfordamerican.org)
- - date published: 2023-10-25T21:55:33.395856+00:00
- - user: None
- - tags: []
-
-## Oxford American | Home
- - [https://oxfordamerican.org](https://oxfordamerican.org)
- - date published: 2023-10-25T21:55:35.228196+00:00
- - user: None
- - tags: []
-
-## Home | p2panda
- - [https://p2panda.org](https://p2panda.org)
- - date published: 2023-10-25T21:55:36.083870+00:00
- - user: None
- - tags: []
-
-## Hummus and Magnets
- - [https://h14s.p5r.org](https://h14s.p5r.org)
- - date published: 2023-10-25T21:55:43.963463+00:00
- - user: None
- - tags: []
-
-## pablotron.org
- - [https://pablotron.org](https://pablotron.org)
- - date published: 2023-10-25T21:55:47.144745+00:00
- - user: None
- - tags: []
-
-## PackagingCon 2023
- - [https://packaging-con.org](https://packaging-con.org)
- - date published: 2023-10-25T21:55:54.179386+00:00
- - user: None
- - tags: []
-
-## The Palaeontological Association | Reg. Charity No. 1168330
- - [https://www.palass.org](https://www.palass.org)
- - date published: 2023-10-25T11:25:34.390632+00:00
- - user: None
- - tags: []
-
-## pamela fox's blog
- - [https://blog.pamelafox.org](https://blog.pamelafox.org)
- - date published: 2023-10-25T21:55:58.273502+00:00
- - user: None
- - tags: []
-
-## Pandoc - index
- - [https://pandoc.org](https://pandoc.org)
- - date published: 2023-10-25T21:55:59.781435+00:00
- - user: None
- - tags: []
-
-## Strona główna | Fundacja Panoptykon
- - [https://panoptykon.org](https://panoptykon.org)
- - date published: 2023-10-25T21:56:01.636917+00:00
- - user: None
- - tags: []
-
-## Papers, Please! – The Identity Project
- - [https://papersplease.org](https://papersplease.org)
- - date published: 2023-10-25T21:56:07.417099+00:00
- - user: None
- - tags: []
-
-## paredit — parenthetical editing in Emacs
- - [https://paredit.org](https://paredit.org)
- - date published: 2023-10-25T21:56:08.422643+00:00
- - user: None
- - tags: []
-
-## Welcome!
- - [https://parentheticallyspeaking.org](https://parentheticallyspeaking.org)
- - date published: 2023-10-25T21:56:09.143442+00:00
- - user: None
- - tags: []
-
-## parsonsmatt.org
- - [https://www.parsonsmatt.org](https://www.parsonsmatt.org)
- - date published: 2023-10-25T21:56:09.832668+00:00
- - user: None
- - tags: []
-
-## PATL
- - [https://patl.org](https://patl.org)
- - date published: 2023-12-11T16:19:08.247036+00:00
- - user: None
- - tags: []
-
-## Patrick T. Brown, PhD | It’s easy to construct a persuasive argument, it’s much more difficult to figure out the truth…
- - [https://patricktbrown.org](https://patricktbrown.org)
- - date published: 2023-10-25T21:56:15.510577+00:00
- - user: None
- - tags: []
-
-## Andrew Payne | payne.org
- - [https://payne.org](https://payne.org)
- - date published: 2023-10-25T21:56:16.509535+00:00
- - user: None
- - tags: []
-
-## Physically Based Rendering: From Theory to Implementation
- - [https://pbr-book.org](https://pbr-book.org)
- - date published: 2023-11-02T10:40:48.951509+00:00
- - user: None
- - tags: []
-
-## PBS: Public Broadcasting Service
- - [https://www.pbs.org](https://www.pbs.org)
- - date published: 2023-10-25T10:24:08.998645+00:00
- - user: None
- - tags: []
-
-## PBS North Carolina
- - [https://www.pbsnc.org](https://www.pbsnc.org)
- - date published: 2023-11-19T19:54:33.463328+00:00
- - user: None
- - tags: []
-
-## PCG, A Family of Better Random Number Generators | PCG, A Better Random Number Generator
- - [https://www.pcg-random.org](https://www.pcg-random.org)
- - date published: 2023-10-25T21:56:20.672047+00:00
- - user: None
- - tags: []
-
-## PCjs Machines
- - [https://www.pcjs.org](https://www.pcjs.org)
- - date published: 2023-10-25T21:56:26.849904+00:00
- - user: None
- - tags: []
-
-## PDF Association – Home of the worldwide PDF technical community
- - [https://www.pdfa.org](https://www.pdfa.org)
- - date published: 2023-10-25T21:56:35.310113+00:00
- - user: None
- - tags: []
-
-## pdfgrep
- - [https://pdfgrep.org](https://pdfgrep.org)
- - date published: 2023-10-25T21:56:36.063095+00:00
- - user: None
- - tags: []
-
-## PDFTool: secure and seamless online PDF modifications
- - [https://www.pdftool.org](https://www.pdftool.org)
- - date published: 2023-10-25T21:56:37.161684+00:00
- - user: None
- - tags: []
-
-## Public Domain Operating System
- - [https://www.pdos.org](https://www.pdos.org)
- - date published: 2023-10-25T21:56:39.058423+00:00
- - user: None
- - tags: []
-
-## Peergos
- - [https://peergos.org](https://peergos.org)
- - date published: 2023-11-13T14:19:22.688197+00:00
- - user: None
- - tags: []
-
-## PEN America
- - [https://pen.org](https://pen.org)
- - date published: 2023-10-25T21:56:42.955186+00:00
- - user: None
- - tags: []
-
-## https://www.pennmedicine.org
- - [https://www.pennmedicine.org](https://www.pennmedicine.org)
- - date published: 2023-11-08T17:46:33.639957+00:00
- - user: None
- - tags: []
-
-## People's World
- - [https://peoplesworld.org](https://peoplesworld.org)
- - date published: 2023-11-04T02:47:57.842267+00:00
- - user: None
- - tags: []
-
-## blogs.perl.org — blogging the onion
- - [https://blogs.perl.org](https://blogs.perl.org)
- - date published: 2023-10-25T21:56:44.273665+00:00
- - user: None
- - tags: []
-
-## Perl Documentation - Perldoc Browser
- - [https://perldoc.perl.org](https://perldoc.perl.org)
- - date published: 2023-10-25T21:56:51.003512+00:00
- - user: None
- - tags: []
-
-## The Perl Foundation News
- - [https://news.perlfoundation.org](https://news.perlfoundation.org)
- - date published: 2023-10-25T21:56:58.087141+00:00
- - user: None
- - tags: []
-
-## Discover plants, swap seeds, plan gardens, share knowledge
- - [https://permapeople.org](https://permapeople.org)
- - date published: 2023-11-10T20:31:47+00:00
- - user: None
- - tags: []
-
-## Aiding the Persecuted Church
- - [https://www.persecution.org](https://www.persecution.org)
- - date published: 2023-11-27T12:13:05+00:00
- - user: rumpel
- - tags: ['persecution', 'christianity', 'religion', 'catholicism']
-
-## Pessimists Archive Newsletter | Substack
- - [https://newsletter.pessimistsarchive.org](https://newsletter.pessimistsarchive.org)
- - date published: 2023-10-25T21:57:00.476125+00:00
- - user: None
- - tags: []
-
-## Pessimists Archive
- - [https://pessimistsarchive.org](https://pessimistsarchive.org)
- - date published: 2023-11-04T23:05:27+00:00
- - user: None
- - tags: []
-
-## People for the Ethical Treatment of Reinforcement Learners
- - [https://petrl.org](https://petrl.org)
- - date published: 2024-01-09T03:41:58.419634+00:00
- - user: None
- - tags: []
-
-## Pew Research Center | Nonpartisan, nonadvocacy, public opinion polling and data-driven social science research | Pew Research Center
- - [https://www.pewresearch.org](https://www.pewresearch.org)
- - date published: 2023-10-25T21:57:05.064047+00:00
- - user: None
- - tags: []
-
-## Simon Peyton Jones - Simon Peyton Jones
- - [https://simon.peytonjones.org](https://simon.peytonjones.org)
- - date published: 2023-10-25T21:57:06.231617+00:00
- - user: None
- - tags: []
-
-## pgAdmin - PostgreSQL Tools
- - [https://www.pgadmin.org](https://www.pgadmin.org)
- - date published: 2023-11-29T10:39:05.596079+00:00
- - user: None
- - tags: []
-
-## Postgres Lock Conflicts
- - [https://pglocks.org](https://pglocks.org)
- - date published: 2023-10-25T21:57:06.888982+00:00
- - user: None
- - tags: []
-
-## Pharo - Welcome to Pharo!
- - [https://pharo.org](https://pharo.org)
- - date published: 2023-10-25T21:57:07.584972+00:00
- - user: None
- - tags: []
-
-## Philanthropy News Digest
- - [https://philanthropynewsdigest.org](https://philanthropynewsdigest.org)
- - date published: 2023-10-25T21:57:14.951406+00:00
- - user: None
- - tags: []
-
-## Philosophize This!
- - [https://www.philosophizethis.org](https://www.philosophizethis.org)
- - date published: 2023-12-09T09:38:16.879428+00:00
- - user: None
- - tags: ['philosophy', 'humanities']
-
-## Philosophy for Life
- - [https://www.philosophyforlife.org](https://www.philosophyforlife.org)
- - date published: 2023-10-25T21:57:16.464929+00:00
- - user: None
- - tags: []
-
-## Philosophy Now | a magazine of ideas
- - [https://philosophynow.org](https://philosophynow.org)
- - date published: 2023-10-25T21:57:18.587433+00:00
- - user: None
- - tags: []
-
-## PhilPapers: Online Research in Philosophy
- - [https://philpapers.org](https://philpapers.org)
- - date published: 2023-10-25T21:57:21.323401+00:00
  - user: None
  - tags: []
 

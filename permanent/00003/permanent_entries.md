@@ -1,3 +1,51 @@
+## CodeRed - Wagtail web development and hosting for businesses.
+ - [https://www.coderedcorp.com](https://www.coderedcorp.com)
+ - date published: 2023-10-27T13:11:12.513520+00:00
+ - user: None
+ - tags: []
+
+## The VPSNode Blog
+ - [https://coderoasis.com](https://coderoasis.com)
+ - date published: 2024-01-09T02:32:24.871671+00:00
+ - user: None
+ - tags: []
+
+## codeshaunted | code’s haunted
+ - [https://codeshaunted.com](https://codeshaunted.com)
+ - date published: 2023-10-25T13:28:26.229731+00:00
+ - user: None
+ - tags: []
+
+## Codesolvent Blog
+ - [https://blog.codesolvent.com](https://blog.codesolvent.com)
+ - date published: 2023-10-25T13:28:28.190326+00:00
+ - user: None
+ - tags: []
+
+## Welcome to malus.exotica.org.uk
+ - [https://www.codetapper.com](https://www.codetapper.com)
+ - date published: 2024-01-09T02:32:27.005228+00:00
+ - user: None
+ - tags: []
+
+## | codethrasher
+ - [https://codethrasher.com](https://codethrasher.com)
+ - date published: 2023-10-25T13:28:29.506444+00:00
+ - user: None
+ - tags: []
+
+## Windows Software on Mac, Linux, and ChromeOS with CrossOver | CodeWeavers
+ - [https://www.codeweavers.com](https://www.codeweavers.com)
+ - date published: 2023-10-25T13:28:37.655699+00:00
+ - user: None
+ - tags: []
+
+## Code with Jason - Learn Ruby on Rails, Rails Testing, Docker, OOP
+ - [https://www.codewithjason.com](https://www.codewithjason.com)
+ - date published: 2023-10-25T13:28:40.388558+00:00
+ - user: None
+ - tags: []
+
 ## CodeWritePlay – Game Development, Tech, Humor
  - [https://codewriteplay.com](https://codewriteplay.com)
  - date published: 2023-10-25T13:28:50.815482+00:00
@@ -2255,6 +2303,12 @@
  - user: None
  - tags: []
 
+## User-centered experiences that deliver measurable returns
+ - [https://daveredfern.com](https://daveredfern.com)
+ - date published: 2024-01-11T20:48:00.108287+00:00
+ - user: None
+ - tags: []
+
 ## The Homepage of Dave Rupert | daverupert.com
  - [https://daverupert.com](https://daverupert.com)
  - date published: 2023-10-25T13:45:08.453766+00:00
@@ -3382,6 +3436,12 @@
  - date published: 2023-11-26T16:44:37+00:00
  - user: rumpel
  - tags: ['bookmark manager']
+
+## David Klein
+ - [https://diklein.com](https://diklein.com)
+ - date published: 2024-01-11T07:43:53.828915+00:00
+ - user: None
+ - tags: []
 
 ## Dilbert.com
  - [https://dilbert.com](https://dilbert.com)
@@ -5088,6 +5148,12 @@
  - user: rumpel
  - tags: ['courses', 'programming', 'tutorials']
 
+## Elizabeth Hummel
+ - [https://elizabethhummel.com](https://elizabethhummel.com)
+ - date published: 2024-01-11T17:10:19.476431+00:00
+ - user: None
+ - tags: []
+
 ## Liam Quigley – Work by New York City reporter and photographer Liam Quigley
  - [https://elkue.com](https://elkue.com)
  - date published: 2023-10-25T14:05:27.383443+00:00
@@ -5724,6 +5790,12 @@
  - user: None
  - tags: []
 
+## Simon Wilson – digital director and design lead
+ - [https://www.ermlikeyeah.com](https://www.ermlikeyeah.com)
+ - date published: 2024-01-11T02:12:32.289644+00:00
+ - user: None
+ - tags: []
+
 ## Escape Adulthood. Your life. Now with less stress and more fun.
  - [https://escapeadulthood.com](https://escapeadulthood.com)
  - date published: 2023-12-17T16:42:33.638893+00:00
@@ -5925,78 +5997,6 @@
 ## EUobserver
  - [https://euobserver.com](https://euobserver.com)
  - date published: 2023-10-25T14:11:12.039933+00:00
- - user: None
- - tags: []
-
-## https://www.euperia.com
- - [https://www.euperia.com](https://www.euperia.com)
- - date published: 2024-01-04T19:56:17.730978+00:00
- - user: None
- - tags: []
-
-## EURACTIV.com – EURACTIV is your one-stop-shop for in-depth news about policies and politics from EU institutions and national capitals.
- - [https://www.euractiv.com](https://www.euractiv.com)
- - date published: 2023-10-25T14:11:17.575771+00:00
- - user: None
- - tags: []
-
-## Database Error
- - [https://euromaidanpress.com](https://euromaidanpress.com)
- - date published: 2023-10-25T14:11:17.964316+00:00
- - user: None
- - tags: []
-
-## Latest breaking news available as free video on demand | Euronews
- - [https://www.euronews.com](https://www.euronews.com)
- - date published: 2023-10-25T10:51:05.127933+00:00
- - user: None
- - tags: []
-
-## The European Review of Books
- - [https://europeanreviewofbooks.com](https://europeanreviewofbooks.com)
- - date published: 2023-10-25T14:11:19.756707+00:00
- - user: None
- - tags: []
-
-## European Spaceflight Homepage
- - [https://europeanspaceflight.com](https://europeanspaceflight.com)
- - date published: 2023-12-15T22:05:52.281693+00:00
- - user: None
- - tags: []
-
-## The Liberty Beacon | Bringing Alternative Media Sources Together™
- - [https://www.europereloaded.com](https://www.europereloaded.com)
- - date published: 2023-10-25T14:11:26.432764+00:00
- - user: None
- - tags: []
-
-## Najważniejsze wiadomości sportowe, relacje na żywo, wideo i wyniki - Eurosport
- - [https://www.eurosport.com](https://www.eurosport.com)
- - date published: 2023-12-09T12:18:59.440313+00:00
- - user: None
- - tags: []
-
-## Euro Weekly News – leading English language newspaper in Spain
- - [https://euroweeklynews.com](https://euroweeklynews.com)
- - date published: 2023-10-25T14:11:32.834569+00:00
- - user: None
- - tags: []
-
-## EV EDITION - EV News, Media, Articles, And Insights.
- - [https://ev-edition.com](https://ev-edition.com)
- - date published: 2023-10-25T14:11:36.896821+00:00
- - user: None
- - tags: []
-
-## EvangelosSciFi
- - [https://www.evangelosscifi.com](https://www.evangelosscifi.com)
- - date published: 2023-10-25T14:11:45.721572+00:00
- - user: None
- - tags: []
-
-## Evan Hahn (dot com)
- - [https://evanhahn.com](https://evanhahn.com)
- - date published: 2023-10-25T14:11:46.504047+00:00
  - user: None
  - tags: []
 

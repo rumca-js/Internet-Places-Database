@@ -1,3 +1,147 @@
+## 🦜️🔗 Langchain
+ - [https://python.langchain.com](https://python.langchain.com)
+ - date published: 2023-10-25T15:40:59.811350+00:00
+ - user: None
+ - tags: []
+
+## LangoGuessr
+ - [https://langoguessr.com](https://langoguessr.com)
+ - date published: 2023-10-25T15:41:00.327608+00:00
+ - user: None
+ - tags: []
+
+## Language Learning with Netflix
+ - [https://languagelearningwithnetflix.com](https://languagelearningwithnetflix.com)
+ - date published: 2023-10-25T15:41:01.160963+00:00
+ - user: None
+ - tags: []
+
+## Language World Map
+ - [https://languageworldmap.com](https://languageworldmap.com)
+ - date published: 2023-10-25T08:24:47.023665+00:00
+ - user: None
+ - tags: []
+
+## Ian Langworth’s Things of Variable Interest
+ - [https://blog.langworth.com](https://blog.langworth.com)
+ - date published: 2023-10-25T15:41:01.991722+00:00
+ - user: None
+ - tags: []
+
+## Lantern
+ - [https://www.lanternbioworks.com](https://www.lanternbioworks.com)
+ - date published: 2023-10-25T15:41:08.376607+00:00
+ - user: None
+ - tags: []
+
+## Jeff Johnson
+ - [https://lapcatsoftware.com](https://lapcatsoftware.com)
+ - date published: 2023-10-25T15:41:09.925391+00:00
+ - user: None
+ - tags: []
+
+## La Prensa Latina Media
+ - [https://www.laprensalatina.com](https://www.laprensalatina.com)
+ - date published: 2023-12-08T18:09:19.349070+00:00
+ - user: None
+ - tags: []
+
+## Laravel News
+ - [https://laravel-news.com](https://laravel-news.com)
+ - date published: 2023-10-25T15:41:11.614231+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Larian Studios
+ - [https://larian.com](https://larian.com)
+ - date published: 2023-11-04T19:14:56.784693+00:00
+ - user: None
+ - tags: ['baldurs gate', 'game studio', 'dungeons and dragons']
+
+## Lariat Data
+ - [https://www.lariatdata.com](https://www.lariatdata.com)
+ - date published: 2023-10-25T15:41:19.402858+00:00
+ - user: None
+ - tags: []
+
+## Larry Jordan | Apple Final Cut Pro and Adobe Premiere Pro webinars, training and tutorials.
+ - [https://larryjordan.com](https://larryjordan.com)
+ - date published: 2023-10-25T15:41:23.332035+00:00
+ - user: None
+ - tags: []
+
+## Lasse Laursen – Lasse Laursen's project portfolio and development blog.
+ - [https://www.lasselaursen.com](https://www.lasselaursen.com)
+ - date published: 2023-10-25T15:41:32.904514+00:00
+ - user: None
+ - tags: []
+
+## Home - Last Movie Outpost
+ - [https://www.lastmovieoutpost.com](https://www.lastmovieoutpost.com)
+ - date published: 2023-10-25T15:41:42.257022+00:00
+ - user: None
+ - tags: []
+
+## The LastPass Blog - The Last Password You'll Ever Need
+ - [https://blog.lastpass.com](https://blog.lastpass.com)
+ - date published: 2023-10-25T15:41:49.291482+00:00
+ - user: None
+ - tags: []
+
+## laststandonzombieisland | Weapons, Wars, Preparation and Security from a recovering gun nut turned bad writer
+ - [https://laststandonzombieisland.com](https://laststandonzombieisland.com)
+ - date published: 2023-10-25T15:42:05.543829+00:00
+ - user: None
+ - tags: []
+
+## Last Week in AWS - AWS News Sprinkled With a Side of Snark
+ - [https://www.lastweekinaws.com](https://www.lastweekinaws.com)
+ - date published: 2023-10-25T15:42:09.402265+00:00
+ - user: None
+ - tags: []
+
+## The Last Word On Nothing | "Science says the first word on everything, and the last word on nothing"  - Victor Hugo
+ - [https://www.lastwordonnothing.com](https://www.lastwordonnothing.com)
+ - date published: 2023-10-25T15:42:16.452959+00:00
+ - user: None
+ - tags: []
+
+## Latent Dictionary: 3D map of Oxford3000+search words via DistilBert embeddings
+ - [https://latentdictionary.com](https://latentdictionary.com)
+ - date published: 2023-12-30T13:07:44+00:00
+ - user: None
+ - tags: []
+
+## News from California, the nation and world  - Los Angeles Times
+ - [https://www.latimes.com](https://www.latimes.com)
+ - date published: 2023-10-25T15:42:35.013271+00:00
+ - user: None
+ - tags: []
+
+## LATTE - Luxury Australian Travel Trade Enews - LATTE Luxury News
+ - [https://latteluxurynews.com](https://latteluxurynews.com)
+ - date published: 2023-12-23T19:47:36.835345+00:00
+ - user: None
+ - tags: []
+
+## LattePanda - x86 Windows/Linux Single Board Computers
+ - [https://www.lattepanda.com](https://www.lattepanda.com)
+ - date published: 2023-10-25T09:07:42.768066+00:00
+ - user: None
+ - tags: []
+
+## People Management Platform | Performance and Engagement Software | Lattice
+ - [https://lattice.com](https://lattice.com)
+ - date published: 2023-10-25T15:42:39.571265+00:00
+ - user: None
+ - tags: []
+
+## Introduction - Launch Leopard
+ - [https://docs.launchleopard.com](https://docs.launchleopard.com)
+ - date published: 2023-11-14T15:18:54.247417+00:00
+ - user: None
+ - tags: []
+
 ## Show HN: SvelteKit SaaS Boilerplate to help launch your product fast
  - [https://launchleopard.com](https://launchleopard.com)
  - date published: 2023-11-14T13:33:49+00:00
@@ -2231,6 +2375,12 @@ diversions.
  - user: None
  - tags: []
 
+## Marc Gunn – Rhythm & Folk Celtic Music
+ - [https://marcgunn.com](https://marcgunn.com)
+ - date published: 2024-01-11T02:12:05.082052+00:00
+ - user: None
+ - tags: []
+
 ## Hello, I'm Marc Littlemore
  - [https://www.marclittlemore.com](https://www.marclittlemore.com)
  - date published: 2023-12-09T15:01:11.057762+00:00
@@ -2309,6 +2459,12 @@ diversions.
  - user: None
  - tags: []
 
+## Mario Sangiorgio
+ - [https://www.mariosangiorgio.com](https://www.mariosangiorgio.com)
+ - date published: 2024-01-11T13:28:59.977327+00:00
+ - user: None
+ - tags: []
+
 ## Design and Nature ·
       Marisa Morby
  - [https://marisamorby.com](https://marisamorby.com)
@@ -2355,6 +2511,12 @@ diversions.
 ## MarketWatch: Stock Market News - Financial News - MarketWatch
  - [https://www.marketwatch.com](https://www.marketwatch.com)
  - date published: 2023-10-25T10:57:58.274767+00:00
+ - user: None
+ - tags: []
+
+## Mark Gukov – Software engineer 👨🏻‍💻 with over a decade of experience, primarily in e-commerce 🛒 and payments 💳
+ - [https://markgukov.com](https://markgukov.com)
+ - date published: 2024-01-11T07:51:55.652234+00:00
  - user: None
  - tags: []
 
@@ -2445,6 +2607,12 @@ diversions.
 ## Marten – The pragmatic web framework
  - [https://martenframework.com](https://martenframework.com)
  - date published: 2023-10-25T15:57:13.770826+00:00
+ - user: None
+ - tags: []
+
+## Hi, I'm Martijn van Zwieten.
+ - [https://www.martijnvanzwieten.com](https://www.martijnvanzwieten.com)
+ - date published: 2024-01-11T20:48:06.417974+00:00
  - user: None
  - tags: []
 
@@ -2724,6 +2892,12 @@ diversions.
  - user: None
  - tags: []
 
+## Matthias Röder – Music & Technology Strategist
+ - [https://www.matthiasroder.com](https://www.matthiasroder.com)
+ - date published: 2024-01-11T13:28:18.450628+00:00
+ - user: None
+ - tags: []
+
 ## Matt Hidinger
  - [https://matthidinger.com](https://matthidinger.com)
  - date published: 2023-10-25T09:25:52.333265+00:00
@@ -2808,6 +2982,12 @@ diversions.
  - user: None
  - tags: []
 
+## None
+ - [https://oss.maxcdn.com](https://oss.maxcdn.com)
+ - date published: 2023-12-11T16:36:15.248509+00:00
+ - user: None
+ - tags: []
+
 ## Max Countryman - People first leader, technologist, and indie hacker
  - [https://www.maxcountryman.com](https://www.maxcountryman.com)
  - date published: 2023-10-25T15:58:43.515740+00:00
@@ -2889,6 +3069,12 @@ diversions.
 ## Ledger Independent – Maysville Online
  - [https://maysville-online.com](https://maysville-online.com)
  - date published: 2023-10-25T15:59:20.004304+00:00
+ - user: None
+ - tags: []
+
+## - Mazie Bones
+ - [https://maziebones.com](https://maziebones.com)
+ - date published: 2024-01-11T12:23:16.751882+00:00
  - user: None
  - tags: []
 
@@ -3930,6 +4116,12 @@ diversions.
  - user: None
  - tags: []
 
+## Meetup | Find Local Groups, Events, and Activities Near You
+ - [https://www.meetup.com](https://www.meetup.com)
+ - date published: 2024-01-11T16:03:14.387507+00:00
+ - user: None
+ - tags: []
+
 ## retrocogs.mega65.com – Coding for the Mega65
  - [https://retrocogs.mega65.com](https://retrocogs.mega65.com)
  - date published: 2023-10-25T16:01:05.819512+00:00
@@ -4748,6 +4940,12 @@ diversions.
  - tags: []
 
 ## Military and Veteran Benefits, News, Veteran Jobs
+ - [https://military.com](https://military.com)
+ - date published: 2024-01-11T22:13:05+00:00
+ - user: rumpel
+ - tags: ['military news']
+
+## Military and Veteran Benefits, News, Veteran Jobs
  - [https://www.military.com](https://www.military.com)
  - date published: 2023-11-04T18:08:01.043546+00:00
  - user: None
@@ -5533,6 +5731,12 @@ diversions.
  - user: None
  - tags: []
 
+## None
+ - [https://movieweb.com](https://movieweb.com)
+ - date published: 2024-01-02T15:03:09.368391+00:00
+ - user: None
+ - tags: []
+
 ## MovingLake
  - [https://app.movinglake.com](https://app.movinglake.com)
  - date published: 2023-10-25T16:07:54.313990+00:00
@@ -5796,208 +6000,4 @@ diversions.
  - date published: 2023-11-13T12:45:38.213438+00:00
  - user: None
  - tags: ['database', 'music notes']
-
-## Music Gear, Equipment, News, Tutorials & Reviews | MusicRadar
- - [https://www.musicradar.com](https://www.musicradar.com)
- - date published: 2023-10-25T11:13:46.875557+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://musictech.com](https://musictech.com)
- - date published: 2023-10-28T18:49:40.424751+00:00
- - user: None
- - tags: []
-
-## MusicXML
- - [https://www.musicxml.com](https://www.musicxml.com)
- - date published: 2023-11-29T13:13:49+00:00
- - user: None
- - tags: []
-
-## The Internet's video infrastructure | Mux
- - [https://mux.com](https://mux.com)
- - date published: 2023-10-25T16:09:05.771772+00:00
- - user: None
- - tags: []
-
-## The Internet's video infrastructure | Mux
- - [https://www.mux.com](https://www.mux.com)
- - date published: 2023-10-25T16:09:22.904159+00:00
- - user: None
- - tags: []
-
-## Muxup - Adventures in collaborative open source development
- - [https://muxup.com](https://muxup.com)
- - date published: 2023-10-25T16:09:26.038159+00:00
- - user: None
- - tags: []
-
-## Stan Stewart - aka @muz4now - the muse is present
- - [https://muz4now.com](https://muz4now.com)
- - date published: 2023-12-30T22:23:47.478481+00:00
- - user: None
- - tags: ['personal']
-
-## Muzzug
- - [https://blog.muzzug.com](https://blog.muzzug.com)
- - date published: 2023-11-29T15:45:30.166689+00:00
- - user: None
- - tags: ['personal']
-
-## | Mountain View Online |
- - [https://www.mv-voice.com](https://www.mv-voice.com)
- - date published: 2023-10-25T16:09:34.714338+00:00
- - user: None
- - tags: []
-
-## Blog · Max Gorin
- - [https://mxgrn.com](https://mxgrn.com)
- - date published: 2023-10-25T16:09:39.374278+00:00
- - user: None
- - tags: []
-
-## My 90's TV!
- - [https://my90stv.com](https://my90stv.com)
- - date published: 2023-10-25T16:09:42.269232+00:00
- - user: None
- - tags: []
-
-## My Abandonware - Download Old Video Games
- - [https://www.myabandonware.com](https://www.myabandonware.com)
- - date published: 2023-10-25T16:35:49.568489+00:00
- - user: None
- - tags: []
-
-## https://status.mycloud.com
- - [https://status.mycloud.com](https://status.mycloud.com)
- - date published: 2024-01-09T02:44:32.133560+00:00
- - user: None
- - tags: []
-
-## Mycroft
- - [https://mycroftproject.com](https://mycroftproject.com)
- - date published: 2023-12-05T19:53:37+00:00
- - user: None
- - tags: []
-
-## Dear Sabrina
- - [https://mydearsabrina.com](https://mydearsabrina.com)
- - date published: 2023-12-03T09:19:33.315226+00:00
- - user: None
- - tags: ['personal']
-
-## Columbus News, Weather, Sports, Breaking News | WTTE
- - [https://myfox28columbus.com](https://myfox28columbus.com)
- - date published: 2023-12-22T15:48:21.919825+00:00
- - user: None
- - tags: []
-
-## Japanese Green Tea
- - [https://www.myjapanesegreentea.com](https://www.myjapanesegreentea.com)
- - date published: 2023-10-25T16:09:48.957754+00:00
- - user: None
- - tags: []
-
-## will england :: home
- - [https://will.mylanders.com](https://will.mylanders.com)
- - date published: 2023-12-03T01:44:00.361357+00:00
- - user: None
- - tags: ['personal']
-
-## Mango Mail - Email Hosting
- - [https://mymangomail.com](https://mymangomail.com)
- - date published: 2023-10-25T16:09:51.519785+00:00
- - user: None
- - tags: []
-
-## Discover STL files for 3D printing ideas and high-quality 3D printer models. | MyMiniFactory
- - [https://www.myminifactory.com](https://www.myminifactory.com)
- - date published: 2023-10-27T07:43:49.625978+00:00
- - user: None
- - tags: ['3d printing']
-
-## My Modern Met – The Big City That Celebrates Creative Ideas
- - [https://mymodernmet.com](https://mymodernmet.com)
- - date published: 2023-10-25T16:09:59.227066+00:00
- - user: None
- - tags: []
-
-## My Nintendo News - Nintendo News
- - [https://mynintendonews.com](https://mynintendonews.com)
- - date published: 2023-10-25T10:49:12.686518+00:00
- - user: None
- - tags: []
-
-## MyNixOS
- - [https://mynixos.com](https://mynixos.com)
- - date published: 2023-10-25T16:10:01.100682+00:00
- - user: None
- - tags: []
-
-## MyNorthwest - Seattle news, sports, weather, traffic, talk - MyNorthwest.com
- - [https://mynorthwest.com](https://mynorthwest.com)
- - date published: 2023-10-25T16:10:06.967219+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.mynwfl.com](https://www.mynwfl.com)
- - date published: 2024-01-09T02:22:04.382434+00:00
- - user: None
- - tags: []
-
-## My Proactive Life – One Man's desire to change, one step at a time
- - [https://myproactivelife.com](https://myproactivelife.com)
- - date published: 2024-01-09T02:44:35.810001+00:00
- - user: None
- - tags: []
-
-## MySA: San Antonio News, Food, Sports, Entertainment and Travel
- - [https://www.mysanantonio.com](https://www.mysanantonio.com)
- - date published: 2023-11-15T19:11:19.944384+00:00
- - user: None
- - tags: []
-
-## Post | MyScale | Blog
- - [https://blog.myscale.com](https://blog.myscale.com)
- - date published: 2023-10-25T16:10:09.126066+00:00
- - user: None
- - tags: []
-
-## My Sketch Journal
- - [https://mysketchjournal.com](https://mysketchjournal.com)
- - date published: 2023-11-01T18:52:28.828959+00:00
- - user: None
- - tags: ['drawing', 'hobby']
-
-## mystery-o-matic
- - [https://mystery-o-matic.com](https://mystery-o-matic.com)
- - date published: 2023-10-25T16:10:10.975410+00:00
- - user: None
- - tags: []
-
-## Mythical Type – Zines and creative projects
- - [https://mythicaltype.com](https://mythicaltype.com)
- - date published: 2023-11-29T17:11:37.801675+00:00
- - user: None
- - tags: ['personal']
-
-## My Twenty Cents | Entrepreneuriat et Investissement
- - [https://mytwentycents.com](https://mytwentycents.com)
- - date published: 2023-12-19T09:59:06.167232+00:00
- - user: None
- - tags: ['personal']
-
-## nadia payan 𓇚 leadership coach, speaker, author and montessori educator
- - [https://nadiapayan.com](https://nadiapayan.com)
- - date published: 2023-12-31T16:47:41.945766+00:00
- - user: None
- - tags: []
-
-## 502 Bad Gateway
- - [https://www.nakedcapitalism.com](https://www.nakedcapitalism.com)
- - date published: 2023-10-25T16:10:12.031538+00:00
- - user: None
- - tags: []
 

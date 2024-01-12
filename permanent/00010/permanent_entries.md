@@ -1,3 +1,279 @@
+## Artificial Intelligence: News, Business, Science | THE DECODER
+ - [https://the-decoder.com](https://the-decoder.com)
+ - date published: 2023-10-25T17:27:56.260291+00:00
+ - user: None
+ - tags: []
+
+## Daily Express US - Latest US News, Sport & Entertainment - Daily Express US
+ - [https://www.the-express.com](https://www.the-express.com)
+ - date published: 2023-11-22T00:14:57.932072+00:00
+ - user: None
+ - tags: []
+
+## The Fence – The UK’s Only Magazine - The Fence Magazine
+ - [https://www.the-fence.com](https://www.the-fence.com)
+ - date published: 2023-10-25T17:27:58.391729+00:00
+ - user: None
+ - tags: []
+
+## News | The Independent | Today's headlines and latest breaking news | The Independent
+ - [https://www.the-independent.com](https://www.the-independent.com)
+ - date published: 2023-10-30T18:59:54.254380+00:00
+ - user: None
+ - tags: ['news']
+
+## The investing desk
+ - [https://www.the-investing-desk.com](https://www.the-investing-desk.com)
+ - date published: 2023-10-25T17:28:05.105433+00:00
+ - user: None
+ - tags: []
+
+## The Ninth Age
+ - [https://www.the-ninth-age.com](https://www.the-ninth-age.com)
+ - date published: 2023-11-01T18:39:46.811526+00:00
+ - user: None
+ - tags: ['tabletop games', '9th age', 'miniatures', 'wargames']
+
+## The ODIN
+ - [https://www.the-odin.com](https://www.the-odin.com)
+ - date published: 2023-10-25T17:28:13.498404+00:00
+ - user: None
+ - tags: []
+
+## Lu's blog
+ - [https://blog.the-pans.com](https://blog.the-pans.com)
+ - date published: 2023-10-25T09:21:12.558068+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Scientist - Science News, Educational Articles, Expert Opinion
+ - [https://www.the-scientist.com](https://www.the-scientist.com)
+ - date published: 2023-10-25T17:28:17.141345+00:00
+ - user: None
+ - tags: []
+
+## News, sport, celebrities and gossip | The US Sun
+ - [https://www.the-sun.com](https://www.the-sun.com)
+ - date published: 2023-10-25T17:28:21.561356+00:00
+ - user: None
+ - tags: []
+
+## The Yorkshireman - The Home Of All Things Yorkshire
+ - [https://the-yorkshireman.com](https://the-yorkshireman.com)
+ - date published: 2023-10-25T17:28:24.690732+00:00
+ - user: None
+ - tags: []
+
+## Adam Thomas | Product Strategy Consultant
+ - [https://www.theadamthomas.com](https://www.theadamthomas.com)
+ - date published: 2023-12-27T01:09:49.931460+00:00
+ - user: None
+ - tags: ['personal']
+
+## AI Bot Summarizer for your articles and PDFs
+ - [https://theaialfred.com](https://theaialfred.com)
+ - date published: 2024-01-09T02:50:42.682109+00:00
+ - user: None
+ - tags: []
+
+## The Air Current
+ - [https://theaircurrent.com](https://theaircurrent.com)
+ - date published: 2023-10-25T17:28:30.305578+00:00
+ - user: None
+ - tags: []
+
+## Home - The American Conservative
+ - [https://www.theamericanconservative.com](https://www.theamericanconservative.com)
+ - date published: 2023-10-25T17:28:33.109644+00:00
+ - user: None
+ - tags: []
+
+## 29% off 29 Days to France or BOGO with the new New Zealand Book - The American in Paris
+ - [https://theamericaninparis.com](https://theamericaninparis.com)
+ - date published: 2023-12-31T13:22:07.901135+00:00
+ - user: None
+ - tags: []
+
+## The Amiga Museum
+ - [https://theamigamuseum.com](https://theamigamuseum.com)
+ - date published: 2023-11-02T09:36:38.476435+00:00
+ - user: None
+ - tags: ['amiga']
+
+## The Ampersand Fairy
+ - [https://theampersandfairy.com](https://theampersandfairy.com)
+ - date published: 2023-11-29T17:13:45.809441+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Ankler. | Richard Rushfield | Substack
+ - [https://theankler.com](https://theankler.com)
+ - date published: 2023-10-25T17:28:36.485877+00:00
+ - user: None
+ - tags: []
+
+## TheArticle. Every Angle.
+ - [https://www.thearticle.com](https://www.thearticle.com)
+ - date published: 2023-10-25T17:28:38.047382+00:00
+ - user: None
+ - tags: []
+
+## The Art Newspaper - International art news and events
+ - [https://www.theartnewspaper.com](https://www.theartnewspaper.com)
+ - date published: 2023-10-25T17:28:41.293190+00:00
+ - user: None
+ - tags: []
+
+## The art of high performance computing
+ - [https://theartofhpc.com](https://theartofhpc.com)
+ - date published: 2023-12-30T14:01:52+00:00
+ - user: None
+ - tags: []
+
+## Home - The Assembly NC
+ - [https://www.theassemblync.com](https://www.theassemblync.com)
+ - date published: 2023-10-25T17:28:45.181864+00:00
+ - user: None
+ - tags: []
+
+## The Athletic UK - Sports news, commentary, results, fixtures, and updates - TheAthletic.com
+ - [https://theathletic.com](https://theathletic.com)
+ - date published: 2024-01-03T18:29:10.751074+00:00
+ - user: None
+ - tags: []
+
+## Subscriber Newsletters - The Atlantic
+ - [https://newsletters.theatlantic.com](https://newsletters.theatlantic.com)
+ - date published: 2023-10-25T17:28:47.108510+00:00
+ - user: None
+ - tags: []
+
+## World Edition - The Atlantic
+ - [https://www-stage.theatlantic.com](https://www-stage.theatlantic.com)
+ - date published: 2023-11-04T22:47:32.432382+00:00
+ - user: None
+ - tags: []
+
+## World Edition - The Atlantic
+ - [https://www.theatlantic.com](https://www.theatlantic.com)
+ - date published: 2023-10-25T10:28:51.647818+00:00
+ - user: None
+ - tags: []
+
+## Pages of Tragedy - the official Theatre of Tragedy website
+ - [https://theatreoftragedy.com](https://theatreoftragedy.com)
+ - date published: 2023-10-30T15:39:45.915538+00:00
+ - user: None
+ - tags: ['music band']
+
+## Blog - The Audio Owl
+ - [https://theaudioowl.com](https://theaudioowl.com)
+ - date published: 2023-10-25T17:28:56.261413+00:00
+ - user: None
+ - tags: []
+
+## Home - The Autopian
+ - [https://www.theautopian.com](https://www.theautopian.com)
+ - date published: 2023-10-25T17:29:04.495821+00:00
+ - user: None
+ - tags: []
+
+## The Aviation Geek Club - Stories and News for true aviation Geeks
+ - [https://theaviationgeekclub.com](https://theaviationgeekclub.com)
+ - date published: 2023-10-25T17:29:13.141576+00:00
+ - user: None
+ - tags: []
+
+## Construction's Leading Video Channel - The B1M
+ - [https://www.theb1m.com](https://www.theb1m.com)
+ - date published: 2023-11-20T12:43:48.423603+00:00
+ - user: None
+ - tags: ['construction', 'engineering', 'architecture']
+
+## The Baffler—The Journal That Blunts the Cutting Edge
+ - [https://thebaffler.com](https://thebaffler.com)
+ - date published: 2023-10-25T17:29:18.078335+00:00
+ - user: None
+ - tags: []
+
+## The Baltimore Banner: Baltimore News, Politics, Business, Food, Events
+ - [https://www.thebaltimorebanner.com](https://www.thebaltimorebanner.com)
+ - date published: 2023-10-25T17:29:35.515805+00:00
+ - user: None
+ - tags: []
+
+## The Independent Barents Observer
+ - [https://thebarentsobserver.com](https://thebarentsobserver.com)
+ - date published: 2023-12-21T22:16:23.668159+00:00
+ - user: None
+ - tags: []
+
+## Homepage - JOHN EYE PRODUCTIONS / BEACH HOUSE STUDIOS
+ - [https://www.thebeachhousestudios.com](https://www.thebeachhousestudios.com)
+ - date published: 2023-12-18T01:35:28.625007+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Beauty of Transport – Transport design, transport architecture, and transport's influence on art and culture. Part travelogue, part history, all transport (but sometimes tangentially so)
+ - [https://thebeautyoftransport.com](https://thebeautyoftransport.com)
+ - date published: 2023-10-25T17:29:47.187685+00:00
+ - user: None
+ - tags: []
+
+## Blog, The Best Wrong Way
+ - [https://www.thebestwrongway.com](https://www.thebestwrongway.com)
+ - date published: 2023-12-14T01:25:57.578090+00:00
+ - user: None
+ - tags: ['personal']
+
+## BIG by Matt Stoller | Substack
+ - [https://www.thebignewsletter.com](https://www.thebignewsletter.com)
+ - date published: 2023-10-25T17:29:51.179343+00:00
+ - user: None
+ - tags: []
+
+## The Black Vault
+ - [https://www.theblackvault.com](https://www.theblackvault.com)
+ - date published: 2023-10-25T17:29:54.543631+00:00
+ - user: None
+ - tags: []
+
+## Blaze Media
+ - [https://www.theblaze.com](https://www.theblaze.com)
+ - date published: 2023-10-25T17:30:01.051201+00:00
+ - user: None
+ - tags: []
+
+## Kitchen - The Blind Kitchen - Everyone has a place at the table!
+ - [https://theblindkitchen.com](https://theblindkitchen.com)
+ - date published: 2023-10-25T17:30:11.200484+00:00
+ - user: None
+ - tags: []
+
+## Trusted Polymer Clay Info!
+ - [https://thebluebottletree.com](https://thebluebottletree.com)
+ - date published: 2023-11-01T18:26:06.137168+00:00
+ - user: None
+ - tags: ['sculpting', 'polymer clay', 'hobby']
+
+## The Bold Italic
+ - [https://thebolditalic.com](https://thebolditalic.com)
+ - date published: 2023-10-25T17:30:21.886512+00:00
+ - user: None
+ - tags: []
+
+## The Booker Prizes
+ - [https://thebookerprizes.com](https://thebookerprizes.com)
+ - date published: 2023-11-26T22:21:31.211102+00:00
+ - user: None
+ - tags: []
+
+## The Book of Shaders
+ - [https://thebookofshaders.com](https://thebookofshaders.com)
+ - date published: 2024-01-09T20:46:05.659823+00:00
+ - user: None
+ - tags: []
+
 ## The Book Review Crew
  - [https://thebookreviewcrew.com](https://thebookreviewcrew.com)
  - date published: 2023-12-10T00:33:56.103299+00:00
@@ -1169,6 +1445,12 @@
  - user: None
  - tags: []
 
+## 3+ Ingredient Magic Meals
+ - [https://thestonesoup.com](https://thestonesoup.com)
+ - date published: 2024-01-11T13:28:21.560862+00:00
+ - user: None
+ - tags: []
+
 ## The StoryGraph
  - [https://app.thestorygraph.com](https://app.thestorygraph.com)
  - date published: 2023-12-18T23:09:38.819981+00:00
@@ -1497,6 +1779,12 @@
 ## Thomas Burette
  - [https://thomasburette.com](https://thomasburette.com)
  - date published: 2024-01-09T02:51:26.352880+00:00
+ - user: None
+ - tags: []
+
+## Online Business und Finanzielle Freiheit - Thomas Dahlmann
+ - [https://thomasdahlmann.com](https://thomasdahlmann.com)
+ - date published: 2024-01-11T13:28:29.215117+00:00
  - user: None
  - tags: []
 
@@ -1949,6 +2237,12 @@
 ## Home | Tim Mastny
  - [https://timmastny.com](https://timmastny.com)
  - date published: 2024-01-01T19:17:36.896328+00:00
+ - user: None
+ - tags: []
+
+## Learn Web Development - Tim Mouskhelichvili
+ - [https://timmousk.com](https://timmousk.com)
+ - date published: 2024-01-11T07:53:19.428165+00:00
  - user: None
  - tags: []
 
@@ -2465,6 +2759,12 @@
 ## Echoes of Somewhere - Generative AI assisted experimental freeware 2.5D point and click adventure game research project
  - [https://www.traffickinggame.com](https://www.traffickinggame.com)
  - date published: 2023-10-25T17:45:30.023614+00:00
+ - user: None
+ - tags: []
+
+## Traffic Technology Today | Planning | Safety | Data Modeling | Smart Cities
+ - [https://www.traffictechnologytoday.com](https://www.traffictechnologytoday.com)
+ - date published: 2024-01-11T04:50:21.137124+00:00
  - user: None
  - tags: []
 
@@ -5703,306 +6003,6 @@
 ## The Well-Appointed Desk
  - [https://www.wellappointeddesk.com](https://www.wellappointeddesk.com)
  - date published: 2023-10-27T11:56:32.300412+00:00
- - user: None
- - tags: []
-
-## Wellfound (formerly AngelList Talent) - Startup Job Search
- - [https://wellfound.com](https://wellfound.com)
- - date published: 2023-10-27T11:56:34.071844+00:00
- - user: None
- - tags: []
-
-## We Love Trump - We Love Trump
- - [https://welovetrump.com](https://welovetrump.com)
- - date published: 2023-10-27T11:56:34.660336+00:00
- - user: None
- - tags: []
-
-## Free Cheats and Trainers for Thousands of PC Games - WeMod App
- - [https://www.wemod.com](https://www.wemod.com)
- - date published: 2023-10-28T20:43:16.661569+00:00
- - user: None
- - tags: ['game trainer']
-
-## Home
- - [https://www.weny.com](https://www.weny.com)
- - date published: 2023-11-15T15:16:18.816467+00:00
- - user: None
- - tags: []
-
-## We Publish News
- - [https://wepublishnews.com](https://wepublishnews.com)
- - date published: 2023-12-06T13:22:32.502754+00:00
- - user: None
- - tags: []
-
-## THE CONTRARIAN IMPULSE
- - [https://wesammikhail.com](https://wesammikhail.com)
- - date published: 2023-10-27T11:56:36.318781+00:00
- - user: None
- - tags: []
-
-## Blog Home
- - [https://www.wesbotman.com](https://www.wesbotman.com)
- - date published: 2023-12-25T22:11:47.181325+00:00
- - user: None
- - tags: ['personal']
-
-## Wes Colton
- - [https://wescolton.com](https://wescolton.com)
- - date published: 2023-12-26T19:09:07.277282+00:00
- - user: None
- - tags: ['personal']
-
-## Site Not Available
- - [https://www.wesh.com](https://www.wesh.com)
- - date published: 2024-01-09T02:53:53.104196+00:00
- - user: None
- - tags: []
-
-## Main Page
- - [https://blog.wesleyac.com](https://blog.wesleyac.com)
- - date published: 2023-10-27T11:56:37.768938+00:00
- - user: None
- - tags: []
-
-## Wesley Ross
- - [https://www.wesleyross.com](https://www.wesleyross.com)
- - date published: 2023-11-29T14:19:51.690739+00:00
- - user: None
- - tags: ['personal']
-
-## Wes McKinney
- - [https://wesmckinney.com](https://wesmckinney.com)
- - date published: 2023-10-27T11:56:39.333955+00:00
- - user: None
- - tags: []
-
-## High-Performance SSDs, HDDs, USB Drives, &amp; Memory Cards | Western Digital
- - [https://www.westerndigital.com](https://www.westerndigital.com)
- - date published: 2023-11-01T08:43:25.034810+00:00
- - user: None
- - tags: []
-
-## https://info.westinghousenuclear.com
- - [https://info.westinghousenuclear.com](https://info.westinghousenuclear.com)
- - date published: 2024-01-09T02:53:54.064429+00:00
- - user: None
- - tags: []
-
-## Shaping Tomorrow's Energy | Westinghouse Electric Company
- - [https://www.westinghousenuclear.com](https://www.westinghousenuclear.com)
- - date published: 2024-01-09T02:53:57.112918+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://westphaliantimes.com](https://westphaliantimes.com)
- - date published: 2024-01-09T02:54:02.017579+00:00
- - user: None
- - tags: []
-
-## Wes Wyatt
- - [https://www.weswyatt.com](https://www.weswyatt.com)
- - date published: 2023-12-18T01:34:44.477408+00:00
- - user: None
- - tags: ['personal']
-
-## None
- - [https://wevpn.com](https://wevpn.com)
- - date published: 2024-01-09T02:54:13.120868+00:00
- - user: None
- - tags: []
-
-## Access Denied
- - [https://www.wfaa.com](https://www.wfaa.com)
- - date published: 2023-10-27T11:56:51.812151+00:00
- - user: None
- - tags: []
-
-## Access Restricted
- - [https://www.wfla.com](https://www.wfla.com)
- - date published: 2023-11-10T02:12:09.738510+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.wfmj.com](https://www.wfmj.com)
- - date published: 2023-12-01T16:23:15.879267+00:00
- - user: None
- - tags: []
-
-## The WFMT Studs Terkel Radio Archive | A Living Celebration
- - [https://studsterkel.wfmt.com](https://studsterkel.wfmt.com)
- - date published: 2023-10-25T18:03:10.011308+00:00
- - user: None
- - tags: []
-
-## wfmz.com | Your Life, Your World, Your NEWS
- - [https://www.wfmz.com](https://www.wfmz.com)
- - date published: 2023-11-15T18:40:50.031661+00:00
- - user: None
- - tags: []
-
-## Orlando News, Weather, and Sports | WFTV – WFTV
- - [https://www.wftv.com](https://www.wftv.com)
- - date published: 2023-10-31T19:10:21.991353+00:00
- - user: None
- - tags: []
-
-## None
- - [https://track.wg-aff.com](https://track.wg-aff.com)
- - date published: 2024-01-09T02:54:14.354613+00:00
- - user: None
- - tags: []
-
-## Portland News, Weather, Sports, Breaking News | WGME
- - [https://wgme.com](https://wgme.com)
- - date published: 2024-01-03T09:56:23.975437+00:00
- - user: None
- - tags: []
-
-## Access Restricted
- - [https://wgntv.com](https://wgntv.com)
- - date published: 2024-01-09T02:54:16.996136+00:00
- - user: None
- - tags: []
-
-## Access Denied
- - [https://www.whas11.com](https://www.whas11.com)
- - date published: 2023-10-25T18:03:10.464733+00:00
- - user: None
- - tags: []
-
-## Show HN: Whataaabout.com – unique activity ideas for the holiday break
- - [https://www.whataaabout.com](https://www.whataaabout.com)
- - date published: 2023-12-26T15:13:08+00:00
- - user: None
- - tags: []
-
-## What does this code do?
- - [https://whatdoesthiscodedo.com](https://whatdoesthiscodedo.com)
- - date published: 2023-10-25T18:03:11.005084+00:00
- - user: None
- - tags: []
-
-## What Hi-Fi? | Tech news and reviews
- - [https://www.whathifi.com](https://www.whathifi.com)
- - date published: 2023-10-25T18:03:26.791247+00:00
- - user: None
- - tags: []
-
-## What Lisa Cooks
- - [https://www.whatlisacooks.com](https://www.whatlisacooks.com)
- - date published: 2023-10-25T18:03:33.421482+00:00
- - user: None
- - tags: []
-
-## Error
- - [https://api.whatsapp.com](https://api.whatsapp.com)
- - date published: 2023-12-11T19:06:07.082457+00:00
- - user: None
- - tags: []
-
-## Error
- - [https://blog.whatsapp.com](https://blog.whatsapp.com)
- - date published: 2023-10-25T18:03:33.987561+00:00
- - user: None
- - tags: []
-
-## Error
- - [https://web.whatsapp.com](https://web.whatsapp.com)
- - date published: 2023-10-25T18:03:35.151613+00:00
- - user: None
- - tags: []
-
-## Error
- - [https://whatsapp.com](https://whatsapp.com)
- - date published: 2023-11-01T09:36:41.682769+00:00
- - user: None
- - tags: ['social communicator']
-
-## Whatsapp
- - [https://www.whatsapp.com](https://www.whatsapp.com)
- - date published: 2023-10-25T13:24:38+00:00
- - user: rumpel
- - tags: ['gatekeeper', 'social communicator']
-
-## What's Brew
- - [https://www.whatsbrew.com](https://www.whatsbrew.com)
- - date published: 2024-01-05T10:38:53.421536+00:00
- - user: None
- - tags: []
-
-## Home - Boston News, Weather, Sports | WHDH 7News
- - [https://whdh.com](https://whdh.com)
- - date published: 2023-12-22T21:44:15.537640+00:00
- - user: None
- - tags: []
-
-## WHDownLoad
- - [https://www.whdownload.com](https://www.whdownload.com)
- - date published: 2023-10-27T14:30:25.747347+00:00
- - user: None
- - tags: ['emulation', 'amiga', 'roms']
-
-## Wheatdesign.com
- - [https://wheatdesign.com](https://wheatdesign.com)
- - date published: 2023-12-27T01:05:53.415461+00:00
- - user: None
- - tags: ['personal']
-
-## News10NBC
- - [https://www.whec.com](https://www.whec.com)
- - date published: 2023-11-12T18:45:25.297898+00:00
- - user: None
- - tags: []
-
-## Veteran Owned Strategic Marketing & SEO Consulting Firm Providing Training for Teams & Implementation
- - [https://www.wheelerconsultingco.com](https://www.wheelerconsultingco.com)
- - date published: 2023-12-08T09:38:21.228464+00:00
- - user: None
- - tags: ['personal']
-
-## When is the week end?
- - [https://whenistheweekend.com](https://whenistheweekend.com)
- - date published: 2023-11-29T19:50:25.506110+00:00
- - user: None
- - tags: []
-
-## https://wheybags.com
- - [https://wheybags.com](https://wheybags.com)
- - date published: 2024-01-09T02:54:23.170380+00:00
- - user: None
- - tags: []
-
-## Which Face Is Real?
- - [https://www.whichfaceisreal.com](https://www.whichfaceisreal.com)
- - date published: 2023-10-25T18:03:39.608286+00:00
- - user: None
- - tags: []
-
-## David J. Pearce
- - [https://whileydave.com](https://whileydave.com)
- - date published: 2023-10-25T18:03:41.534311+00:00
- - user: None
- - tags: []
-
-## Whimsy Soul - Find your everyday magic
- - [https://whimsysoul.com](https://whimsysoul.com)
- - date published: 2023-10-25T18:03:48.676684+00:00
- - user: None
- - tags: []
-
-## Whipsaw: Product Design and Experience Innovation
- - [https://whipsaw.com](https://whipsaw.com)
- - date published: 2023-10-25T18:04:05.026714+00:00
- - user: None
- - tags: []
-
-## Whisper Memos
- - [https://whispermemos.com](https://whispermemos.com)
- - date published: 2023-10-25T18:04:06.690848+00:00
  - user: None
  - tags: []
 

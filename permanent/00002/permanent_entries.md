@@ -1,3 +1,15 @@
+## AWS Docs GPT
+ - [https://www.awsdocsgpt.com](https://www.awsdocsgpt.com)
+ - date published: 2023-10-25T12:51:03.280111+00:00
+ - user: None
+ - tags: []
+
+## AWS re:Invent 2023 | Amazon Web Services
+ - [https://reinvent.awsevents.com](https://reinvent.awsevents.com)
+ - date published: 2023-10-25T12:51:05.928646+00:00
+ - user: None
+ - tags: []
+
 ## AWS Icon Quiz
  - [https://awsiconquiz.com](https://awsiconquiz.com)
  - date published: 2023-10-25T12:51:10.159299+00:00
@@ -775,6 +787,12 @@
 ## Ben Burwell
  - [https://www.benburwell.com](https://www.benburwell.com)
  - date published: 2023-11-01T08:41:33.680868+00:00
+ - user: None
+ - tags: []
+
+## Ben Cowgill
+ - [https://bencowgill.com](https://bencowgill.com)
+ - date published: 2024-01-11T17:08:58.451572+00:00
  - user: None
  - tags: []
 
@@ -3412,6 +3430,12 @@
  - user: None
  - tags: ['personal']
 
+## Bryan Teare
+ - [https://bryanteare.com](https://bryanteare.com)
+ - date published: 2024-01-11T17:08:34.235419+00:00
+ - user: None
+ - tags: []
+
 ## BryceWray.com
  - [https://www.brycewray.com](https://www.brycewray.com)
  - date published: 2023-10-25T13:14:12.806971+00:00
@@ -3535,6 +3559,12 @@
 ## Business News, Finance News, India News, BSE/NSE News, Stock Markets News, Sensex NIFTY, Union Budget 2023
  - [https://www.business-standard.com](https://www.business-standard.com)
  - date published: 2023-10-31T03:18:05.634110+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://musecdn.businesscatalyst.com](http://musecdn.businesscatalyst.com)
+ - date published: 2023-12-11T16:10:40.270068+00:00
  - user: None
  - tags: []
 
@@ -3673,6 +3703,12 @@
 ## ByteWelder
  - [https://bytewelder.com](https://bytewelder.com)
  - date published: 2023-10-25T13:16:10.040163+00:00
+ - user: None
+ - tags: []
+
+## C# Corner - Community of Software and Data Developers
+ - [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+ - date published: 2024-01-11T05:09:33.279713+00:00
  - user: None
  - tags: []
 
@@ -5482,6 +5518,12 @@
  - user: None
  - tags: []
 
+## Business owner. Consultant, web developer and web project manager
+ - [https://clementbarbaza.com](https://clementbarbaza.com)
+ - date published: 2024-01-11T20:47:46.706785+00:00
+ - user: None
+ - tags: []
+
 ## Clement Neo - Blog
  - [https://clementneo.com](https://clementneo.com)
  - date published: 2023-10-25T09:19:48.402987+00:00
@@ -5575,6 +5617,12 @@
 ## https://clinicalnutritionjournal.com
  - [https://clinicalnutritionjournal.com](https://clinicalnutritionjournal.com)
  - date published: 2023-12-04T23:16:21.241233+00:00
+ - user: None
+ - tags: []
+
+## Clint McMahon
+ - [https://clintmcmahon.com](https://clintmcmahon.com)
+ - date published: 2024-01-11T02:12:30.396119+00:00
  - user: None
  - tags: []
 
@@ -5958,54 +6006,6 @@
 ## CodeProject - For those who code
  - [https://www.codeproject.com](https://www.codeproject.com)
  - date published: 2023-10-25T10:13:50.403402+00:00
- - user: None
- - tags: []
-
-## CodeRed - Wagtail web development and hosting for businesses.
- - [https://www.coderedcorp.com](https://www.coderedcorp.com)
- - date published: 2023-10-27T13:11:12.513520+00:00
- - user: None
- - tags: []
-
-## The VPSNode Blog
- - [https://coderoasis.com](https://coderoasis.com)
- - date published: 2024-01-09T02:32:24.871671+00:00
- - user: None
- - tags: []
-
-## codeshaunted | code’s haunted
- - [https://codeshaunted.com](https://codeshaunted.com)
- - date published: 2023-10-25T13:28:26.229731+00:00
- - user: None
- - tags: []
-
-## Codesolvent Blog
- - [https://blog.codesolvent.com](https://blog.codesolvent.com)
- - date published: 2023-10-25T13:28:28.190326+00:00
- - user: None
- - tags: []
-
-## Welcome to malus.exotica.org.uk
- - [https://www.codetapper.com](https://www.codetapper.com)
- - date published: 2024-01-09T02:32:27.005228+00:00
- - user: None
- - tags: []
-
-## | codethrasher
- - [https://codethrasher.com](https://codethrasher.com)
- - date published: 2023-10-25T13:28:29.506444+00:00
- - user: None
- - tags: []
-
-## Windows Software on Mac, Linux, and ChromeOS with CrossOver | CodeWeavers
- - [https://www.codeweavers.com](https://www.codeweavers.com)
- - date published: 2023-10-25T13:28:37.655699+00:00
- - user: None
- - tags: []
-
-## Code with Jason - Learn Ruby on Rails, Rails Testing, Docker, OOP
- - [https://www.codewithjason.com](https://www.codewithjason.com)
- - date published: 2023-10-25T13:28:40.388558+00:00
  - user: None
  - tags: []
 

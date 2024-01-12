@@ -1,84 +1,12 @@
-## TrasHTTPandas – Trash Panda HTTP Responses
- - [https://httpraccoons.com](https://httpraccoons.com)
- - date published: 2023-11-18T05:17:18+00:00
- - user: None
- - tags: ['http']
-
-## https://www.androidpolice.com
- - [https://www.androidpolice.com](https://www.androidpolice.com)
- - date published: 2023-11-22T19:38:02+00:00
- - user: rumpel
- - tags: []
-
-## https://archive.is
- - [https://archive.is](https://archive.is)
- - date published: 2023-12-04T18:30:00+00:00
- - user: rumpel
- - tags: ['internet archive']
-
-## https://archive.vn
- - [https://archive.vn](https://archive.vn)
- - date published: 2023-12-06T10:22:38+00:00
- - user: rumpel
- - tags: []
-
-## None
- - [http://musecdn.businesscatalyst.com](http://musecdn.businesscatalyst.com)
- - date published: 2023-12-11T16:10:40.270068+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.oxamyne.org](https://www.oxamyne.org)
- - date published: 2023-12-11T16:12:55.572072+00:00
- - user: None
- - tags: []
-
-## None
- - [https://oss.maxcdn.com](https://oss.maxcdn.com)
- - date published: 2023-12-11T16:36:15.248509+00:00
- - user: None
- - tags: []
-
-## None
- - [http://shop.amigaos.net](http://shop.amigaos.net)
- - date published: 2023-12-11T16:38:28.226754+00:00
- - user: None
- - tags: []
-
 ## None
  - [https://605a7baede844d278b89dc95ae0a9123](https://605a7baede844d278b89dc95ae0a9123)
  - date published: 2023-12-11T16:57:05.048387+00:00
  - user: None
  - tags: []
 
-## None
- - [https://bo.wix.com](https://bo.wix.com)
- - date published: 2023-12-11T17:01:19.811311+00:00
- - user: None
- - tags: []
-
-## None
- - [https://gamerant.com](https://gamerant.com)
- - date published: 2023-12-26T20:57:32.673603+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.howtogeek.com](https://www.howtogeek.com)
- - date published: 2023-12-28T15:14:58.511451+00:00
- - user: None
- - tags: []
-
-## None
- - [https://movieweb.com](https://movieweb.com)
- - date published: 2024-01-02T15:03:09.368391+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.reddit.c](https://www.reddit.c)
- - date published: 2024-01-08T13:04:16.215952+00:00
+## renegat0x0 site
+ - [https://localhost](https://localhost)
+ - date published: 2024-01-11T00:42:21.133587+00:00
  - user: None
  - tags: []
 
@@ -3430,6 +3358,12 @@
  - user: None
  - tags: []
 
+## 😼Pierre-Henry, Software Developer | Never Stop Learning!🚀 Eager to Learn & Share
+ - [https://pierrehenry.be](https://pierrehenry.be)
+ - date published: 2024-01-11T13:28:25.513555+00:00
+ - user: None
+ - tags: []
+
 ## Home: New - Shakalaka
  - [http://shakalaka.be](http://shakalaka.be)
  - date published: 2023-12-22T22:29:41.716940+00:00
@@ -4349,6 +4283,12 @@
  - user: None
  - tags: []
 
+## None
+ - [https://www.reddit.c](https://www.reddit.c)
+ - date published: 2024-01-08T13:04:16.215952+00:00
+ - user: None
+ - tags: []
+
 ## George's Home Page
  - [https://48k.ca](https://48k.ca)
  - date published: 2024-01-09T01:38:09.555037+00:00
@@ -5033,6 +4973,12 @@
  - user: None
  - tags: []
 
+## None
+ - [https://novak.ca](https://novak.ca)
+ - date published: 2024-01-11T02:12:34.554251+00:00
+ - user: None
+ - tags: []
+
 ## Good, Better, Best
  - [https://www.nthn.ca](https://www.nthn.ca)
  - date published: 2023-11-29T18:20:44.786867+00:00
@@ -5362,6 +5308,12 @@
  - date published: 2023-10-25T09:03:03.847296+00:00
  - user: None
  - tags: ['personal']
+
+## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
+ - [https://wingfelder.ca](https://wingfelder.ca)
+ - date published: 2024-01-11T13:28:46.842673+00:00
+ - user: None
+ - tags: []
 
 ## Women of Influence –
  - [https://www.womenofinfluence.ca](https://www.womenofinfluence.ca)
@@ -5999,4 +5951,52 @@
  - date published: 2023-11-18T23:28:44.408301+00:00
  - user: None
  - tags: ['personal']
+
+## About
+ - [https://michael.stapelberg.ch](https://michael.stapelberg.ch)
+ - date published: 2023-10-25T09:03:20.383919+00:00
+ - user: None
+ - tags: ['personal']
+
+## Switzerland - News and perspectives - SWI swissinfo.ch
+ - [https://www.swissinfo.ch](https://www.swissinfo.ch)
+ - date published: 2023-10-25T12:14:25.180277+00:00
+ - user: None
+ - tags: []
+
+## Switzerland Times | Latest Switzerland News
+ - [https://switzerlandtimes.ch](https://switzerlandtimes.ch)
+ - date published: 2023-10-25T12:14:30.377990+00:00
+ - user: None
+ - tags: []
+
+## Tages-Anzeiger | Aktuelle Nachrichten und Hintergründe.
+ - [https://www.tagesanzeiger.ch](https://www.tagesanzeiger.ch)
+ - date published: 2023-10-25T12:14:40.969018+00:00
+ - user: None
+ - tags: []
+
+## TAWS - The Amiga Workbench Simulation
+ - [https://taws.ch](https://taws.ch)
+ - date published: 2023-10-25T12:14:41.731543+00:00
+ - user: None
+ - tags: []
+
+## The Market – Analysen und Hintergründe aus der Wirtschaft
+ - [https://themarket.ch](https://themarket.ch)
+ - date published: 2023-10-25T12:14:47.125200+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Personalized Meal Plans to Suit Your Lifestyle
+ - [https://assistant.tnx-solutions.ch](https://assistant.tnx-solutions.ch)
+ - date published: 2023-11-25T15:09:20+00:00
+ - user: None
+ - tags: []
+
+## Universität Basel
+ - [https://www.unibas.ch](https://www.unibas.ch)
+ - date published: 2023-11-21T10:09:34.554675+00:00
+ - user: None
+ - tags: []
 

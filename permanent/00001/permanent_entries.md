@@ -1,51 +1,3 @@
-## About
- - [https://michael.stapelberg.ch](https://michael.stapelberg.ch)
- - date published: 2023-10-25T09:03:20.383919+00:00
- - user: None
- - tags: ['personal']
-
-## Switzerland - News and perspectives - SWI swissinfo.ch
- - [https://www.swissinfo.ch](https://www.swissinfo.ch)
- - date published: 2023-10-25T12:14:25.180277+00:00
- - user: None
- - tags: []
-
-## Switzerland Times | Latest Switzerland News
- - [https://switzerlandtimes.ch](https://switzerlandtimes.ch)
- - date published: 2023-10-25T12:14:30.377990+00:00
- - user: None
- - tags: []
-
-## Tages-Anzeiger | Aktuelle Nachrichten und Hintergründe.
- - [https://www.tagesanzeiger.ch](https://www.tagesanzeiger.ch)
- - date published: 2023-10-25T12:14:40.969018+00:00
- - user: None
- - tags: []
-
-## TAWS - The Amiga Workbench Simulation
- - [https://taws.ch](https://taws.ch)
- - date published: 2023-10-25T12:14:41.731543+00:00
- - user: None
- - tags: []
-
-## The Market – Analysen und Hintergründe aus der Wirtschaft
- - [https://themarket.ch](https://themarket.ch)
- - date published: 2023-10-25T12:14:47.125200+00:00
- - user: None
- - tags: []
-
-## Show HN: Personalized Meal Plans to Suit Your Lifestyle
- - [https://assistant.tnx-solutions.ch](https://assistant.tnx-solutions.ch)
- - date published: 2023-11-25T15:09:20+00:00
- - user: None
- - tags: []
-
-## Universität Basel
- - [https://www.unibas.ch](https://www.unibas.ch)
- - date published: 2023-11-21T10:09:34.554675+00:00
- - user: None
- - tags: []
-
 ## Université de Genève - Université de Genève
  - [https://www.unige.ch](https://www.unige.ch)
  - date published: 2023-12-03T11:18:25.630786+00:00
@@ -1455,6 +1407,12 @@
  - date published: 2023-10-25T09:03:51.081821+00:00
  - user: None
  - tags: ['personal']
+
+## Max Dietrich - Geospatial Developer
+ - [https://mxd.codes](https://mxd.codes)
+ - date published: 2024-01-11T17:09:41.413244+00:00
+ - user: None
+ - tags: []
 
 ## Leonora Tindall | Nora Codes
  - [https://nora.codes](https://nora.codes)
@@ -3100,6 +3058,12 @@
  - user: None
  - tags: []
 
+## The Homepage of Ajay Karwal
+ - [https://ajaykarwal.com](https://ajaykarwal.com)
+ - date published: 2024-01-11T20:47:25.305726+00:00
+ - user: None
+ - tags: []
+
 ## Ajay Rajani
  - [https://www.ajayrajani.com](https://www.ajayrajani.com)
  - date published: 2024-01-06T17:58:15.245405+00:00
@@ -3145,6 +3109,12 @@
 ## Cloud Computing, Security, Content Delivery (CDN) | Akamai
  - [https://www.akamai.com](https://www.akamai.com)
  - date published: 2023-10-25T12:36:57.964483+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://akashgoswami.com](https://akashgoswami.com)
+ - date published: 2024-01-11T07:52:16.457692+00:00
  - user: None
  - tags: []
 
@@ -4060,6 +4030,12 @@
  - user: None
  - tags: []
 
+## Home - Ana Isabel Turner
+ - [https://anaturner.com](https://anaturner.com)
+ - date published: 2024-01-11T12:22:58.975279+00:00
+ - user: None
+ - tags: []
+
 ## And a Dinosaur
  - [https://andadinosaur.com](https://andadinosaur.com)
  - date published: 2023-10-30T02:12:03.537127+00:00
@@ -4216,6 +4192,18 @@
  - user: None
  - tags: ['personal']
 
+## Andrew Zuo – Medium
+ - [https://andrewzuo.com](https://andrewzuo.com)
+ - date published: 2024-01-11T19:21:26.544977+00:00
+ - user: None
+ - tags: []
+
+## Andrey Butenko
+ - [https://andreybutenko.com](https://andreybutenko.com)
+ - date published: 2024-01-11T17:08:18.795523+00:00
+ - user: None
+ - tags: []
+
 ## Android | Do More With Google on Android Phones & Devices
  - [https://www.android.com](https://www.android.com)
  - date published: 2023-10-25T08:38:15.191869+00:00
@@ -4232,6 +4220,12 @@
  - [https://www.androidcentral.com](https://www.androidcentral.com)
  - date published: 2023-10-25T09:31:51.241958+00:00
  - user: None
+ - tags: []
+
+## https://www.androidpolice.com
+ - [https://www.androidpolice.com](https://www.androidpolice.com)
+ - date published: 2023-11-22T19:38:02+00:00
+ - user: rumpel
  - tags: []
 
 ## Andromeda Cluster: 10 exaflops for startups
@@ -4387,6 +4381,12 @@
 ## Anita | Fully customizable management solution for organizing you data and your life
  - [https://anita-app.com](https://anita-app.com)
  - date published: 2023-10-25T12:41:45.217052+00:00
+ - user: None
+ - tags: []
+
+## Anita Posch - Bitcoin educator, author and founder of Bitcoin for Fairness
+ - [https://anitaposch.com](https://anitaposch.com)
+ - date published: 2024-01-11T02:12:16.661795+00:00
  - user: None
  - tags: []
 
@@ -5080,6 +5080,12 @@
  - user: None
  - tags: ['personal']
 
+## Ari Koinuma
+ - [https://arikoinuma.com](https://arikoinuma.com)
+ - date published: 2024-01-11T07:52:35.164486+00:00
+ - user: None
+ - tags: []
+
 ## Ariyh | Thomas McKinlay | Substack
  - [https://tips.ariyh.com](https://tips.ariyh.com)
  - date published: 2023-10-25T12:45:23.819225+00:00
@@ -5734,6 +5740,12 @@
  - user: None
  - tags: ['personal']
 
+## Home - Austin Grandt
+ - [https://www.austingrandt.com](https://www.austingrandt.com)
+ - date published: 2024-01-11T17:10:30.078306+00:00
+ - user: None
+ - tags: []
+
 ## Austin Henley - I work on AI + dev tools
  - [https://austinhenley.com](https://austinhenley.com)
  - date published: 2023-10-25T08:44:47.634188+00:00
@@ -5983,18 +5995,6 @@
 ## SVG and PNG AWS icons | AWS Icons
  - [https://aws-icons.com](https://aws-icons.com)
  - date published: 2023-10-25T09:07:44.572730+00:00
- - user: None
- - tags: []
-
-## AWS Docs GPT
- - [https://www.awsdocsgpt.com](https://www.awsdocsgpt.com)
- - date published: 2023-10-25T12:51:03.280111+00:00
- - user: None
- - tags: []
-
-## AWS re:Invent 2023 | Amazon Web Services
- - [https://reinvent.awsevents.com](https://reinvent.awsevents.com)
- - date published: 2023-10-25T12:51:05.928646+00:00
  - user: None
  - tags: []
 
