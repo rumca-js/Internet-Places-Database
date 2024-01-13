@@ -1,3 +1,82 @@
+## Code Maze - C#, .NET and Web Development Tutorials
+ - [https://code-maze.com](https://code-maze.com)
+ - date published: 2023-10-25T13:27:55.458215+00:00
+ - user: None
+ - tags: []
+
+## Blog · Codeanywhere
+ - [https://blog.codeanywhere.com](https://blog.codeanywhere.com)
+ - date published: 2023-10-25T13:27:59.137947+00:00
+ - user: None
+ - tags: []
+
+## Learn to Code - for Free | Codecademy
+ - [https://www.codecademy.com](https://www.codecademy.com)
+ - date published: 2023-12-11T12:20:56+00:00
+ - user: rumpel
+ - tags: ['courses', 'tutorials']
+
+## Code Code Ship
+     · Code Code Ship
+ - [https://codecodeship.com](https://codecodeship.com)
+ - date published: 2023-10-25T13:28:01.849017+00:00
+ - user: None
+ - tags: []
+
+## Learn To Code For Free — Interactive Courses And Practice Problems
+ - [https://codedamn.com](https://codedamn.com)
+ - date published: 2023-10-25T13:28:03.885487+00:00
+ - user: None
+ - tags: []
+
+## Codeforces
+ - [https://codeforces.com](https://codeforces.com)
+ - date published: 2023-10-25T13:28:14.373320+00:00
+ - user: None
+ - tags: []
+
+## CodeGuppy | Free coding platform and projects for middle school and high school students
+ - [https://codeguppy.com](https://codeguppy.com)
+ - date published: 2023-10-25T13:28:20.545811+00:00
+ - user: None
+ - tags: []
+
+## Codeium · Free AI Code Completion & Chat
+ - [https://codeium.com](https://codeium.com)
+ - date published: 2023-10-25T13:28:21.432922+00:00
+ - user: None
+ - tags: []
+
+## Codeium · Free AI Code Completion & Chat
+ - [https://www.codeium.com](https://www.codeium.com)
+ - date published: 2023-10-25T13:28:22.792901+00:00
+ - user: None
+ - tags: []
+
+## Code Language Converter - Convert code to other languages using AI
+ - [https://codelanguageconverter.com](https://codelanguageconverter.com)
+ - date published: 2023-10-25T13:28:24.823933+00:00
+ - user: None
+ - tags: []
+
+## CodePerfect
+ - [https://codeperfect95.com](https://codeperfect95.com)
+ - date published: 2023-10-25T13:28:25.510592+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://codepipet.com](https://codepipet.com)
+ - date published: 2024-01-09T02:32:23.488008+00:00
+ - user: None
+ - tags: []
+
+## CodeProject - For those who code
+ - [https://www.codeproject.com](https://www.codeproject.com)
+ - date published: 2023-10-25T10:13:50.403402+00:00
+ - user: None
+ - tags: []
+
 ## CodeRed - Wagtail web development and hosting for businesses.
  - [https://www.coderedcorp.com](https://www.coderedcorp.com)
  - date published: 2023-10-27T13:11:12.513520+00:00
@@ -2369,6 +2448,12 @@
  - user: None
  - tags: []
 
+## David Gary Wood
+ - [https://davidgarywood.com](https://davidgarywood.com)
+ - date published: 2024-01-12T21:01:35.169651+00:00
+ - user: None
+ - tags: []
+
 ## David Gomes
  - [https://davidgomes.com](https://davidgomes.com)
  - date published: 2023-10-25T13:45:40.991424+00:00
@@ -3413,6 +3498,12 @@
  - user: None
  - tags: []
 
+## https://tge-data-web.nyc3.digitaloceanspaces.com
+ - [https://tge-data-web.nyc3.digitaloceanspaces.com](https://tge-data-web.nyc3.digitaloceanspaces.com)
+ - date published: 2024-01-12T18:12:33.618256+00:00
+ - user: None
+ - tags: []
+
 ## Digital Spy  - TV, Movies and Entertainment News
  - [https://www.digitalspy.com](https://www.digitalspy.com)
  - date published: 2023-10-27T13:14:15.948159+00:00
@@ -3740,6 +3831,12 @@
 ## DMCA.com - Protect Your Online Content and Brand with DMCA Takedown Services, Compliance Solutions, and Content Protection
  - [https://www.dmca.com](https://www.dmca.com)
  - date published: 2023-12-13T16:04:19.583920+00:00
+ - user: None
+ - tags: []
+
+## Center for Direct Marketing | Performance-based promotion
+ - [https://dmcenter.com](https://dmcenter.com)
+ - date published: 2024-01-12T18:46:07.435567+00:00
  - user: None
  - tags: []
 
@@ -4461,6 +4558,12 @@
 ## Duvar English
  - [https://www.duvarenglish.com](https://www.duvarenglish.com)
  - date published: 2023-10-25T14:00:07.518414+00:00
+ - user: None
+ - tags: []
+
+## https://dvpolymedia.com
+ - [https://dvpolymedia.com](https://dvpolymedia.com)
+ - date published: 2024-01-12T08:14:24.224060+00:00
  - user: None
  - tags: []
 
@@ -5256,6 +5359,12 @@
  - user: None
  - tags: []
 
+## Emils Veveris
+ - [https://www.em-v.com](https://www.em-v.com)
+ - date published: 2024-01-12T10:31:52.068245+00:00
+ - user: None
+ - tags: []
+
 ## Emmanuel Maggiori – Freelance software engineer
  - [https://emaggiori.com](https://emaggiori.com)
  - date published: 2023-10-25T14:06:10.029962+00:00
@@ -5889,114 +5998,6 @@
 ## esther bouquet
  - [https://estherbouquet.com](https://estherbouquet.com)
  - date published: 2024-01-10T23:53:02.102566+00:00
- - user: None
- - tags: []
-
-## Estonian World
- - [https://estonianworld.com](https://estonianworld.com)
- - date published: 2023-10-25T10:37:26.564767+00:00
- - user: None
- - tags: []
-
-## Pivot or Persevere ·
- - [https://etagwerker.com](https://etagwerker.com)
- - date published: 2023-12-17T21:00:05.569423+00:00
- - user: None
- - tags: ['personal']
-
-## Ethan Heilman
- - [https://www.ethanheilman.com](https://www.ethanheilman.com)
- - date published: 2023-10-25T08:45:41.412233+00:00
- - user: None
- - tags: ['personal']
-
-## Ethan Heyenga
- - [https://www.ethanheyenga.com](https://www.ethanheyenga.com)
- - date published: 2023-12-03T23:30:50.021989+00:00
- - user: None
- - tags: ['personal']
-
-## Ethan Rosenthal
- - [https://www.ethanrosenthal.com](https://www.ethanrosenthal.com)
- - date published: 2023-10-25T08:45:42.554826+00:00
- - user: None
- - tags: ['personal']
-
-## Ethan Schoonover
- - [https://ethanschoonover.com](https://ethanschoonover.com)
- - date published: 2023-10-25T14:10:00.745773+00:00
- - user: None
- - tags: []
-
-## Home - Ethan Zuckerman
- - [https://ethanzuckerman.com](https://ethanzuckerman.com)
- - date published: 2023-12-23T00:58:28.522500+00:00
- - user: None
- - tags: []
-
-## Étienne Garbugli
- - [https://etiennegarbugli.com](https://etiennegarbugli.com)
- - date published: 2023-12-09T14:59:54.704872+00:00
- - user: None
- - tags: ['personal']
-
-## ETL and Data Pipelines | Etleap
- - [https://etleap.com](https://etleap.com)
- - date published: 2023-10-25T14:10:05.177989+00:00
- - user: None
- - tags: []
-
-## Entertainment Tonight
- - [https://www.etonline.com](https://www.etonline.com)
- - date published: 2024-01-08T06:39:28.415089+00:00
- - user: None
- - tags: []
-
-## Etsy Poland - Shop for handmade, vintage, custom, and unique gifts for everyone
- - [https://www.etsy.com](https://www.etsy.com)
- - date published: 2023-10-24T20:17:31.946799+00:00
- - user: None
- - tags: []
-
-## Etymonline - Online Etymology Dictionary
- - [https://www.etymonline.com](https://www.etymonline.com)
- - date published: 2023-10-25T14:10:09.473480+00:00
- - user: None
- - tags: []
-
-## EuclideanSpace
- - [https://euclideanspace.com](https://euclideanspace.com)
- - date published: 2023-11-10T04:19:14+00:00
- - user: None
- - tags: []
-
-## Eugene's Musings
- - [https://eugenescheepers.com](https://eugenescheepers.com)
- - date published: 2023-12-31T13:21:39.424716+00:00
- - user: None
- - tags: []
-
-## Eugene Yan
- - [https://eugeneyan.com](https://eugeneyan.com)
- - date published: 2023-10-25T14:10:14.129450+00:00
- - user: None
- - tags: []
-
-## Eukaryote Writes Blog | Risk, research, and life as a membrane-bound organism
- - [https://eukaryotewritesblog.com](https://eukaryotewritesblog.com)
- - date published: 2023-10-25T14:10:51.852271+00:00
- - user: None
- - tags: []
-
-## EU Law Enforcement – Central point of information, research and discussion
- - [https://eulawenforcement.com](https://eulawenforcement.com)
- - date published: 2023-10-25T14:11:01.968377+00:00
- - user: None
- - tags: []
-
-## EUobserver
- - [https://euobserver.com](https://euobserver.com)
- - date published: 2023-10-25T14:11:12.039933+00:00
  - user: None
  - tags: []
 

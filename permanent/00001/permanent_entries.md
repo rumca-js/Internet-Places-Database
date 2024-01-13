@@ -1,3 +1,9 @@
+## Universität Basel
+ - [https://www.unibas.ch](https://www.unibas.ch)
+ - date published: 2023-11-21T10:09:34.554675+00:00
+ - user: None
+ - tags: []
+
 ## Université de Genève - Université de Genève
  - [https://www.unige.ch](https://www.unige.ch)
  - date published: 2023-12-03T11:18:25.630786+00:00
@@ -2470,6 +2476,12 @@
  - user: None
  - tags: ['personal']
 
+## adbalits
+ - [https://www.adbalits.com](https://www.adbalits.com)
+ - date published: 2024-01-12T21:01:32.090225+00:00
+ - user: None
+ - tags: []
+
 ## Home - Addis Standard
  - [https://addisstandard.com](https://addisstandard.com)
  - date published: 2023-10-25T12:32:22.406834+00:00
@@ -3190,6 +3202,12 @@
  - user: None
  - tags: []
 
+## Alastair Johnston
+ - [https://alastairjohnston.com](https://alastairjohnston.com)
+ - date published: 2024-01-12T18:47:13.689115+00:00
+ - user: None
+ - tags: []
+
 ## Al Bawaba | Middle East News & Arab Headlines From A Local Perspective
  - [https://www.albawaba.com](https://www.albawaba.com)
  - date published: 2023-10-25T12:37:26.893113+00:00
@@ -3310,6 +3328,12 @@
  - user: None
  - tags: []
 
+## Sorta Insightful
+ - [https://www.alexirpan.com](https://www.alexirpan.com)
+ - date published: 2024-01-12T16:07:48.804677+00:00
+ - user: None
+ - tags: []
+
 ## Alex Meub
  - [https://alexmeub.com](https://alexmeub.com)
  - date published: 2023-10-25T09:04:24.113928+00:00
@@ -3421,6 +3445,12 @@
 ## Notes and ramblings — Alin Panaitiu
  - [https://notes.alinpanaitiu.com](https://notes.alinpanaitiu.com)
  - date published: 2023-10-25T12:38:38.027163+00:00
+ - user: None
+ - tags: []
+
+## Ali Reza Hayati
+ - [https://alirezahayati.com](https://alirezahayati.com)
+ - date published: 2024-01-12T18:46:45.669130+00:00
  - user: None
  - tags: []
 
@@ -5092,6 +5122,12 @@
  - user: None
  - tags: []
 
+## Domain error
+ - [https://www.arjmahadevan.com](https://www.arjmahadevan.com)
+ - date published: 2024-01-12T02:35:16.551632+00:00
+ - user: None
+ - tags: []
+
 ## The Arkansas Democrat-Gazette - Arkansas' Best News Source
  - [https://www.arkansasonline.com](https://www.arkansasonline.com)
  - date published: 2023-10-25T09:30:16.619090+00:00
@@ -5959,42 +5995,6 @@
 ## AVS Forum
  - [https://www.avsforum.com](https://www.avsforum.com)
  - date published: 2023-10-25T12:50:48.844024+00:00
- - user: None
- - tags: []
-
-## Awaken With JP - Official JP Sears Site
- - [https://awakenwithjp.com](https://awakenwithjp.com)
- - date published: 2023-10-30T10:48:56.613025+00:00
- - user: None
- - tags: ['comedian']
-
-## Track your rewards and travel plans in a convenient, secure place
- - [https://awardwallet.com](https://awardwallet.com)
- - date published: 2023-10-25T12:50:51.452867+00:00
- - user: None
- - tags: []
-
-## A Wealth of Common Sense - Personal Finance, Investments & Markets
- - [https://awealthofcommonsense.com](https://awealthofcommonsense.com)
- - date published: 2023-10-25T12:50:55.115628+00:00
- - user: None
- - tags: []
-
-## Awful Announcing - All things sports media
- - [https://awfulannouncing.com](https://awfulannouncing.com)
- - date published: 2023-10-25T12:51:00.052953+00:00
- - user: None
- - tags: []
-
-## Home - Andrew Whitelee
- - [https://awhitelee.com](https://awhitelee.com)
- - date published: 2023-12-19T10:00:20.226120+00:00
- - user: None
- - tags: ['personal']
-
-## SVG and PNG AWS icons | AWS Icons
- - [https://aws-icons.com](https://aws-icons.com)
- - date published: 2023-10-25T09:07:44.572730+00:00
  - user: None
  - tags: []
 

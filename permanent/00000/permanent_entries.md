@@ -376,6 +376,12 @@
  - user: None
  - tags: []
 
+## Coral
+ - [https://coral.ai](https://coral.ai)
+ - date published: 2024-01-12T03:16:41.370771+00:00
+ - user: None
+ - tags: []
+
 ## HackerNews
  - [https://hn.curiosity.ai](https://hn.curiosity.ai)
  - date published: 2023-10-25T08:27:20.682126+00:00
@@ -5991,12 +5997,6 @@
 ## Show HN: Personalized Meal Plans to Suit Your Lifestyle
  - [https://assistant.tnx-solutions.ch](https://assistant.tnx-solutions.ch)
  - date published: 2023-11-25T15:09:20+00:00
- - user: None
- - tags: []
-
-## Universität Basel
- - [https://www.unibas.ch](https://www.unibas.ch)
- - date published: 2023-11-21T10:09:34.554675+00:00
  - user: None
  - tags: []
 

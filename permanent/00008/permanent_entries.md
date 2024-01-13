@@ -1,3 +1,255 @@
+## Predictable Designs is where electronics and entrepreneurship intersect
+ - [https://predictabledesigns.com](https://predictabledesigns.com)
+ - date published: 2023-10-25T16:39:14.616428+00:00
+ - user: None
+ - tags: []
+
+## Present&Correct – SUNDRIES FOR THE MODERN WORKSPACE
+ - [http://blog.presentandcorrect.com](http://blog.presentandcorrect.com)
+ - date published: 2023-10-25T16:39:22.105057+00:00
+ - user: None
+ - tags: []
+
+## Preshing on Programming
+ - [https://preshing.com](https://preshing.com)
+ - date published: 2023-10-25T16:39:24.657091+00:00
+ - user: None
+ - tags: []
+
+## PreSonus Software
+ - [https://www.presonussoftware.com](https://www.presonussoftware.com)
+ - date published: 2023-11-27T01:06:49.801011+00:00
+ - user: None
+ - tags: []
+
+## Shaun Gallagher - Author, Software Engineer, Fast Typer
+ - [https://shaungallagher.pressbin.com](https://shaungallagher.pressbin.com)
+ - date published: 2023-11-04T13:47:28.938025+00:00
+ - user: None
+ - tags: []
+
+## https://www.pressdemocrat.com
+ - [https://www.pressdemocrat.com](https://www.pressdemocrat.com)
+ - date published: 2023-11-01T08:42:56.938211+00:00
+ - user: None
+ - tags: []
+
+## Press Enterprise
+ - [https://www.pressenterprise.com](https://www.pressenterprise.com)
+ - date published: 2023-12-08T17:29:18.211069+00:00
+ - user: None
+ - tags: []
+
+## The Portland Press Herald - Maine Sunday Telegram
+ - [https://www.pressherald.com](https://www.pressherald.com)
+ - date published: 2023-10-25T16:39:39.509064+00:00
+ - user: None
+ - tags: []
+
+## Prestissimo Media
+ - [https://prestissimo-guitar.com](https://prestissimo-guitar.com)
+ - date published: 2023-12-03T23:31:18.327725+00:00
+ - user: None
+ - tags: []
+
+## Tom Preston-Werner
+ - [https://tom.preston-werner.com](https://tom.preston-werner.com)
+ - date published: 2023-10-25T16:39:41.232703+00:00
+ - user: None
+ - tags: []
+
+## Pretty Graham | Paul Graham for people with eyes
+ - [https://prettygraham.com](https://prettygraham.com)
+ - date published: 2023-10-25T16:39:42.501069+00:00
+ - user: None
+ - tags: []
+
+## Prevention.com - Health Advice, Nutrition Tips, Trusted Medical Information
+ - [https://www.prevention.com](https://www.prevention.com)
+ - date published: 2023-10-25T16:39:45.941407+00:00
+ - user: None
+ - tags: []
+
+## Primate - Polymorphic development platform
+ - [https://primatejs.com](https://primatejs.com)
+ - date published: 2024-01-09T02:47:11.318310+00:00
+ - user: None
+ - tags: []
+
+## PRIMETIMER
+ - [https://www.primetimer.com](https://www.primetimer.com)
+ - date published: 2023-12-04T17:36:35.353924+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Prime Video
+ - [https://www.primevideo.com](https://www.primevideo.com)
+ - date published: 2023-10-25T11:44:38.166340+00:00
+ - user: None
+ - tags: ['video streaming']
+
+## Prime Video Tech | The tech blog about innovation at Prime Video
+ - [https://www.primevideotech.com](https://www.primevideotech.com)
+ - date published: 2023-10-25T16:39:53.743824+00:00
+ - user: None
+ - tags: []
+
+## Official Home Site of the Principality of Hutt River, Homepage!
+ - [https://www.principality-hutt-river.com](https://www.principality-hutt-river.com)
+ - date published: 2024-01-12T06:11:20.338223+00:00
+ - user: None
+ - tags: []
+
+## Principia Mundi
+ - [https://principiamundi.com](https://principiamundi.com)
+ - date published: 2023-10-25T16:39:55.572582+00:00
+ - user: None
+ - tags: []
+
+## Printables
+ - [https://www.printables.com](https://www.printables.com)
+ - date published: 2023-10-25T08:29:53.478133+00:00
+ - user: None
+ - tags: ['3d printing', 'assets models']
+
+## PrintableSearch
+ - [https://www.printablesearch.com](https://www.printablesearch.com)
+ - date published: 2023-10-25T08:29:54.461614+00:00
+ - user: None
+ - tags: ['3d printing', 'assets models']
+
+## PRINT Magazine
+ - [https://www.printmag.com](https://www.printmag.com)
+ - date published: 2023-10-25T16:40:07.393377+00:00
+ - user: None
+ - tags: []
+
+## The Privacy Sandbox: Technology for a More Private Web.
+ - [https://privacysandbox.com](https://privacysandbox.com)
+ - date published: 2023-10-25T16:40:10.149411+00:00
+ - user: None
+ - tags: []
+
+## Home - Privateer Press
+ - [https://privateerpress.com](https://privateerpress.com)
+ - date published: 2023-12-13T15:38:41.524726+00:00
+ - user: None
+ - tags: []
+
+## Private Internet Access: The #1 Best VPN Service For 10+ Years
+ - [https://www.privateinternetaccess.com](https://www.privateinternetaccess.com)
+ - date published: 2023-10-24T20:20:42.918262+00:00
+ - user: None
+ - tags: []
+
+## PR Newswire: press release distribution, targeting, monitoring and marketing
+ - [https://www.prnewswire.com](https://www.prnewswire.com)
+ - date published: 2023-10-25T16:40:21.014061+00:00
+ - user: None
+ - tags: []
+
+## ProAndroidDev
+ - [https://proandroiddev.com](https://proandroiddev.com)
+ - date published: 2024-01-04T05:08:32.168608+00:00
+ - user: None
+ - tags: []
+
+## Probably Dance | I can program and like games
+ - [https://probablydance.com](https://probablydance.com)
+ - date published: 2023-10-25T16:40:23.924707+00:00
+ - user: None
+ - tags: []
+
+## About me | Marcus Lewis
+ - [https://probablymarcus.com](https://probablymarcus.com)
+ - date published: 2023-10-26T14:22:23.950088+00:00
+ - user: None
+ - tags: []
+
+## Process Mechanics
+ - [https://www.processmechanics.com](https://www.processmechanics.com)
+ - date published: 2023-10-25T16:40:26.548873+00:00
+ - user: None
+ - tags: []
+
+## Procoto | Modern Procurement Software
+ - [https://procoto.com](https://procoto.com)
+ - date published: 2023-10-25T16:40:31.598546+00:00
+ - user: None
+ - tags: []
+
+## Procreate® – Sketch, Paint, Create.
+ - [https://procreate.com](https://procreate.com)
+ - date published: 2023-10-25T16:40:35.562288+00:00
+ - user: None
+ - tags: []
+
+## Pro WireGuard Management
+ - [https://www.procustodibus.com](https://www.procustodibus.com)
+ - date published: 2023-10-25T08:34:49.301754+00:00
+ - user: None
+ - tags: []
+
+## Product Hunt – The best new products in tech.
+ - [https://www.producthunt.com](https://www.producthunt.com)
+ - date published: 2023-11-28T13:49:08.264671+00:00
+ - user: None
+ - tags: []
+
+## Productivityist - Productivity Tips & Tools for Everyone
+ - [https://productivityist.com](https://productivityist.com)
+ - date published: 2024-01-12T08:14:15.588169+00:00
+ - user: None
+ - tags: []
+
+## https://productonboarding.com
+ - [https://productonboarding.com](https://productonboarding.com)
+ - date published: 2023-10-25T16:40:38.929648+00:00
+ - user: None
+ - tags: []
+
+## The Program audio series
+ - [https://programaudioseries.com](https://programaudioseries.com)
+ - date published: 2023-10-25T16:40:39.618952+00:00
+ - user: None
+ - tags: []
+
+## Programmable Mutter | Henry Farrell | Substack
+ - [https://www.programmablemutter.com](https://www.programmablemutter.com)
+ - date published: 2023-12-12T22:17:51.832362+00:00
+ - user: None
+ - tags: []
+
+## Programmer Hat | Programmer Hat Blog
+ - [https://www.programmerhat.com](https://www.programmerhat.com)
+ - date published: 2023-10-25T16:40:49.077500+00:00
+ - user: None
+ - tags: []
+
+## programming is terrible
+ - [https://programmingisterrible.com](https://programmingisterrible.com)
+ - date published: 2023-10-25T16:40:51.213240+00:00
+ - user: None
+ - tags: []
+
+## Programming With Style
+ - [https://programmingwithstyle.com](https://programmingwithstyle.com)
+ - date published: 2023-10-25T16:40:52.371233+00:00
+ - user: None
+ - tags: []
+
+## Progress and Purpose
+ - [https://www.progressandpurpose.com](https://www.progressandpurpose.com)
+ - date published: 2023-10-25T16:40:53.303597+00:00
+ - user: None
+ - tags: []
+
+## Page not found | Project Aria
+ - [https://www.projectaria.com](https://www.projectaria.com)
+ - date published: 2023-10-25T16:40:54.798196+00:00
+ - user: None
+ - tags: []
+
 ## Project E Ink - Your favorite newspaper frontpage on your wall
  - [https://projecteink.com](https://projecteink.com)
  - date published: 2023-10-25T16:41:01.361628+00:00
@@ -2263,6 +2515,12 @@ More!
  - user: None
  - tags: ['music band']
 
+## Rihards Steinbergs
+ - [https://rihards.com](https://rihards.com)
+ - date published: 2024-01-12T10:32:04.930603+00:00
+ - user: None
+ - tags: []
+
 ## https://ui.rilldata.com
  - [https://ui.rilldata.com](https://ui.rilldata.com)
  - date published: 2024-01-09T02:48:01.435862+00:00
@@ -2704,6 +2962,12 @@ More!
 ## Rodney Brooks – Robots, AI, and other stuff
  - [https://rodneybrooks.com](https://rodneybrooks.com)
  - date published: 2023-10-25T16:53:31.841027+00:00
+ - user: None
+ - tags: []
+
+## https://www.rodrigofranco.com
+ - [https://www.rodrigofranco.com](https://www.rodrigofranco.com)
+ - date published: 2024-01-12T21:01:46.147308+00:00
  - user: None
  - tags: []
 
@@ -4237,6 +4501,12 @@ More!
  - user: None
  - tags: ['personal']
 
+## S.J. Kerrigan
+ - [https://seankerrigan.com](https://seankerrigan.com)
+ - date published: 2024-01-12T16:32:52.356935+00:00
+ - user: None
+ - tags: []
+
 ## seanmonstar
  - [https://seanmonstar.com](https://seanmonstar.com)
  - date published: 2023-10-25T17:00:49.391284+00:00
@@ -5737,274 +6007,4 @@ More!
  - date published: 2023-10-26T08:37:26.367607+00:00
  - user: None
  - tags: ['social platform']
-
-## Help engineers build better products faster
- - [https://careers.snapeda.com](https://careers.snapeda.com)
- - date published: 2023-10-25T17:07:21.771077+00:00
- - user: None
- - tags: []
-
-## Royalty Free Music - 16.000+ Free Royalty Free Music | Snapmuse
- - [https://snapmuse.com](https://snapmuse.com)
- - date published: 2023-10-25T11:35:29.676605+00:00
- - user: None
- - tags: ['asset audio']
-
-## Snarling Badger Studios
- - [https://www.snarlingbadger.com](https://www.snarlingbadger.com)
- - date published: 2023-11-10T10:42:34.914133+00:00
- - user: None
- - tags: ['warhammer', 'wargames', 'tabletop games', 'magazine']
-
-## Serge Nevsky
- - [https://snevsky.com](https://snevsky.com)
- - date published: 2023-11-29T14:41:22.989669+00:00
- - user: None
- - tags: ['personal']
-
-## Snopes.com | The definitive fact-checking site and reference source for urban legends, folklore, myths, rumors, and misinformation.
- - [https://www.snopes.com](https://www.snopes.com)
- - date published: 2023-10-25T17:07:24.158275+00:00
- - user: None
- - tags: []
-
-## Snowflake
- - [https://app.snowflake.com](https://app.snowflake.com)
- - date published: 2023-11-01T19:48:03.541761+00:00
- - user: None
- - tags: []
-
-## The Snowflake Data Cloud - Mobilize Data, Apps, and AI
- - [https://www.snowflake.com](https://www.snowflake.com)
- - date published: 2023-10-25T17:07:28.475972+00:00
- - user: None
- - tags: []
-
-## Snowpine - Writing about wildflowers
- - [https://snowingpine.com](https://snowingpine.com)
- - date published: 2023-10-25T17:07:29.232270+00:00
- - user: None
- - tags: []
-
-## Prajwal S N
- - [https://www.snprajwal.com](https://www.snprajwal.com)
- - date published: 2023-10-25T17:07:29.857584+00:00
- - user: None
- - tags: []
-
-## YouTube, Twitch, Twitter, & Instagram Statistics - SocialBlade.com
- - [https://socialblade.com](https://socialblade.com)
- - date published: 2023-11-15T09:13:25.644305+00:00
- - user: None
- - tags: ['social media', 'statistics']
-
-## Like Oil Leads to Global Warming, Data Leads to Social Cooling
- - [https://www.socialcooling.com](https://www.socialcooling.com)
- - date published: 2023-12-01T03:06:33+00:00
- - user: None
- - tags: []
-
-## https://sociologicalscience.com
- - [https://sociologicalscience.com](https://sociologicalscience.com)
- - date published: 2023-12-15T11:09:54.578333+00:00
- - user: None
- - tags: []
-
-## SocketSite™ – San Francisco real estate tips, trends and the local scoop: "Plug In" to SocketSite™
- - [https://socketsite.com](https://socketsite.com)
- - date published: 2023-10-25T17:07:32.698557+00:00
- - user: None
- - tags: []
-
-## SOCKS
- - [https://socks-studio.com](https://socks-studio.com)
- - date published: 2023-12-30T21:26:46.788487+00:00
- - user: None
- - tags: []
-
-## Marcos Arrivillaga
- - [https://marcos.socraming.com](https://marcos.socraming.com)
- - date published: 2023-12-29T03:11:34.370859+00:00
- - user: None
- - tags: ['personal']
-
-## The Sofia Globe – Bulgaria’s independent English-language news and features website.
- - [https://sofiaglobe.com](https://sofiaglobe.com)
- - date published: 2023-10-25T17:07:35.226802+00:00
- - user: None
- - tags: []
-
-## Software Amusements
- - [https://softwareamusements.com](https://softwareamusements.com)
- - date published: 2023-12-11T18:40:38.037619+00:00
- - user: None
- - tags: []
-
-## Doug Turnbull's Blog
- - [https://softwaredoug.com](https://softwaredoug.com)
- - date published: 2023-10-25T17:07:36.413404+00:00
- - user: None
- - tags: []
-
-## Musings about software | The Blog of Thomas Depierre, Elixir and DevOps consultant.
- - [https://www.softwaremaxims.com](https://www.softwaremaxims.com)
- - date published: 2023-10-25T17:07:42.671790+00:00
- - user: None
- - tags: []
-
-## Software Stack Investing - Investing analysis of the software companies that power next generation digital businesses
- - [https://softwarestackinvesting.com](https://softwarestackinvesting.com)
- - date published: 2023-10-25T17:07:46.269464+00:00
- - user: None
- - tags: []
-
-## SoFuckingAgile
- - [https://www.sofuckingagile.com](https://www.sofuckingagile.com)
- - date published: 2023-10-25T17:07:48.249078+00:00
- - user: None
- - tags: []
-
-## Solarian Programmer | My programming ramblings
- - [https://solarianprogrammer.com](https://solarianprogrammer.com)
- - date published: 2023-10-25T17:07:50.730454+00:00
- - user: None
- - tags: []
-
-## Soldat 2 | Transhuman Design
- - [https://soldat2.com](https://soldat2.com)
- - date published: 2023-10-26T18:44:37.477139+00:00
- - user: None
- - tags: ['game']
-
-## https://www.solidjs.com
- - [https://www.solidjs.com](https://www.solidjs.com)
- - date published: 2024-01-09T02:49:15.704524+00:00
- - user: None
- - tags: []
-
-## Soliyarn
- - [https://www.soliyarn.com](https://www.soliyarn.com)
- - date published: 2023-11-29T14:19:44.567478+00:00
- - user: None
- - tags: []
-
-## Solveig Sørbø
- - [https://solveigsorbo.com](https://solveigsorbo.com)
- - date published: 2024-01-07T04:14:37.204798+00:00
- - user: None
- - tags: []
-
-## Solver Max - Home
- - [https://www.solvermax.com](https://www.solvermax.com)
- - date published: 2024-01-08T19:27:02.080164+00:00
- - user: None
- - tags: []
-
-## Solver Wp
- - [https://solverwp.com](https://solverwp.com)
- - date published: 2023-12-11T18:37:07.651221+00:00
- - user: None
- - tags: []
-
-## Solving Procrastination
- - [https://solvingprocrastination.com](https://solvingprocrastination.com)
- - date published: 2023-11-19T14:19:03.262194+00:00
- - user: None
- - tags: []
-
-## SomaFM
- - [https://somafm.com](https://somafm.com)
- - date published: 2023-11-24T04:43:46.281998+00:00
- - user: None
- - tags: []
-
-## Nelson's Weblog
- - [https://www.somebits.com](https://www.somebits.com)
- - date published: 2023-10-25T17:07:56.756525+00:00
- - user: None
- - tags: []
-
-## Somegirlwitha.com -- More geeky than girly.
- - [https://somegirlwitha.com](https://somegirlwitha.com)
- - date published: 2023-11-29T19:26:08.073587+00:00
- - user: None
- - tags: ['personal']
-
-## Something or other, whatever!
- - [https://somethingorotherwhatever.com](https://somethingorotherwhatever.com)
- - date published: 2023-10-25T17:08:02.730300+00:00
- - user: None
- - tags: []
-
-## Sometimes Interesting -
- - [https://sometimes-interesting.com](https://sometimes-interesting.com)
- - date published: 2023-10-25T17:08:09.993313+00:00
- - user: None
- - tags: []
-
-## Song Meanings at Songfacts
- - [https://www.songfacts.com](https://www.songfacts.com)
- - date published: 2023-12-26T16:32:47.901464+00:00
- - user: None
- - tags: []
-
-## Songtell
- - [https://www.songtell.com](https://www.songtell.com)
- - date published: 2023-10-25T17:08:13.907903+00:00
- - user: None
- - tags: []
-
-## Sony Group Portal - Home
- - [https://www.sony.com](https://www.sony.com)
- - date published: 2023-10-25T11:28:44.351859+00:00
- - user: None
- - tags: ['company']
-
-## Sony Semiconductor Solutions Group
- - [https://www.sony-semicon.com](https://www.sony-semicon.com)
- - date published: 2023-10-25T17:08:19.816230+00:00
- - user: None
- - tags: []
-
-## Naked Security – Sophos News
- - [https://nakedsecurity.sophos.com](https://nakedsecurity.sophos.com)
- - date published: 2023-10-25T17:08:21.418653+00:00
- - user: None
- - tags: []
-
-## SoraNews24 -Japan News-
- - [https://soranews24.com](https://soranews24.com)
- - date published: 2023-10-27T11:54:48.691383+00:00
- - user: None
- - tags: []
-
-## So Raven
- - [https://soraven.com](https://soraven.com)
- - date published: 2023-10-25T17:08:25.074516+00:00
- - user: None
- - tags: []
-
-## About · Soren Bjornstad
- - [https://sorenbjornstad.com](https://sorenbjornstad.com)
- - date published: 2023-12-28T22:26:38.786014+00:00
- - user: None
- - tags: ['personal']
-
-## Sortabase | Collaborative, visual databases by communities
- - [https://www.sortabase.com](https://www.sortabase.com)
- - date published: 2023-10-25T17:08:25.672322+00:00
- - user: None
- - tags: []
-
-## Sorting and Searching
- - [https://sortingsearching.com](https://sortingsearching.com)
- - date published: 2023-11-25T19:34:17.452870+00:00
- - user: None
- - tags: []
-
-## Fine Art, Jewels, Watches, Wine Auctions & Sales | Sotheby's
- - [https://www.sothebys.com](https://www.sothebys.com)
- - date published: 2023-10-25T17:08:32.046840+00:00
- - user: None
- - tags: []
 
