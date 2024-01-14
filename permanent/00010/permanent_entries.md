@@ -1,3 +1,297 @@
+## Team Fortress 2
+ - [https://teamfortress.com](https://teamfortress.com)
+ - date published: 2023-10-30T15:18:20.534310+00:00
+ - user: None
+ - tags: ['game']
+
+## Team Heretics - Tienda oficial
+ - [https://teamheretics.com](https://teamheretics.com)
+ - date published: 2023-12-09T18:59:20.127080+00:00
+ - user: None
+ - tags: []
+
+## Team management for developers - Teamplify
+ - [https://teamplify.com](https://teamplify.com)
+ - date published: 2023-10-25T17:24:05.514376+00:00
+ - user: None
+ - tags: []
+
+## Tea with Tolkien
+ - [https://www.teawithtolkien.com](https://www.teawithtolkien.com)
+ - date published: 2023-10-25T13:56:06.179784+00:00
+ - user: None
+ - tags: ['hobbit', 'lord of the rings']
+
+## Tech-KnowHow.com | Helping you help yourself to technology solutions
+ - [https://www.tech-knowhow.com](https://www.tech-knowhow.com)
+ - date published: 2023-10-25T17:24:10.603392+00:00
+ - user: None
+ - tags: []
+
+## TechAint – The New Staff From Technology
+ - [https://techaint.com](https://techaint.com)
+ - date published: 2023-10-25T17:24:18.770437+00:00
+ - user: None
+ - tags: []
+
+## TechCrunch is part of the Yahoo family of brands
+ - [https://techcrunch.com](https://techcrunch.com)
+ - date published: 2023-10-25T09:35:53.435438+00:00
+ - user: None
+ - tags: ['tech news']
+
+## Techdirt.
+ - [https://www.techdirt.com](https://www.techdirt.com)
+ - date published: 2023-10-25T10:15:01.446813+00:00
+ - user: None
+ - tags: []
+
+## Techdows - Latest Technology News
+ - [https://techdows.com](https://techdows.com)
+ - date published: 2023-10-25T17:24:21.014976+00:00
+ - user: None
+ - tags: []
+
+## Internal Tech Emails | Substack
+ - [https://www.techemails.com](https://www.techemails.com)
+ - date published: 2023-10-25T17:24:24.810743+00:00
+ - user: None
+ - tags: []
+
+## Tech Explorist - Latest Science and Technology News
+ - [https://www.techexplorist.com](https://www.techexplorist.com)
+ - date published: 2023-10-25T17:24:28.491926+00:00
+ - user: None
+ - tags: []
+
+## Tech Funding News | Global technology startup funding news
+ - [https://techfundingnews.com](https://techfundingnews.com)
+ - date published: 2023-10-25T17:24:35.857919+00:00
+ - user: None
+ - tags: []
+
+## https://techgenix.com
+ - [https://techgenix.com](https://techgenix.com)
+ - date published: 2023-10-25T17:24:36.123076+00:00
+ - user: None
+ - tags: []
+
+## Techmeme
+ - [https://techmeme.com](https://techmeme.com)
+ - date published: 2023-10-25T17:24:58.613645+00:00
+ - user: None
+ - tags: []
+
+## Creatures of Thought
+ - [https://technicshistory.com](https://technicshistory.com)
+ - date published: 2023-10-25T17:25:03.668553+00:00
+ - user: None
+ - tags: []
+
+## Technoblogy
+ - [http://www.technoblogy.com](http://www.technoblogy.com)
+ - date published: 2023-10-25T17:25:05.692742+00:00
+ - user: None
+ - tags: []
+
+## Latest Technology News & Gadgets News | TechnoBugg
+ - [https://www.technobugg.com](https://www.technobugg.com)
+ - date published: 2023-10-25T17:25:15.753498+00:00
+ - user: None
+ - tags: []
+
+## TechNode - Latest China Tech Trends
+ - [https://technode.com](https://technode.com)
+ - date published: 2023-10-25T09:35:57.836282+00:00
+ - user: None
+ - tags: []
+
+## Technology Networks - The Online Scientific Community
+ - [https://www.technologynetworks.com](https://www.technologynetworks.com)
+ - date published: 2023-10-25T17:25:18.998962+00:00
+ - user: None
+ - tags: []
+
+## MIT Technology Review
+ - [https://www.technologyreview.com](https://www.technologyreview.com)
+ - date published: 2023-10-25T09:36:02.543423+00:00
+ - user: None
+ - tags: []
+
+## TechPowerUp
+ - [https://www.techpowerup.com](https://www.techpowerup.com)
+ - date published: 2023-10-25T17:25:26.426085+00:00
+ - user: None
+ - tags: []
+
+## TechRadar | the technology experts
+ - [https://www.techradar.com](https://www.techradar.com)
+ - date published: 2023-10-25T10:28:41.163318+00:00
+ - user: None
+ - tags: []
+
+## TechRepublic: News, Tips & Advice for Technology Professionals
+ - [https://www.techrepublic.com](https://www.techrepublic.com)
+ - date published: 2023-10-25T09:36:05.591340+00:00
+ - user: None
+ - tags: []
+
+## TechSpot | Tech Enthusiasts, Power Users, Gamers
+ - [https://www.techspot.com](https://www.techspot.com)
+ - date published: 2023-10-25T09:36:09.058914+00:00
+ - user: None
+ - tags: []
+
+## TechStartups | Startups and Technology news
+ - [https://techstartups.com](https://techstartups.com)
+ - date published: 2023-10-25T17:25:32.553890+00:00
+ - user: None
+ - tags: []
+
+## Purchase Intent Data for Enterprise Tech Sales and Marketing | TechTarget
+ - [https://www.techtarget.com](https://www.techtarget.com)
+ - date published: 2023-10-25T17:25:43.327954+00:00
+ - user: None
+ - tags: []
+
+## Learn and be better everyday - TechTello
+ - [https://www.techtello.com](https://www.techtello.com)
+ - date published: 2023-10-25T17:25:46.707708+00:00
+ - user: None
+ - tags: []
+
+## Tech Three Dots
+ - [https://techthreedots.com](https://techthreedots.com)
+ - date published: 2023-11-11T23:40:58.568624+00:00
+ - user: None
+ - tags: []
+
+## Tech Times | Tech News, Science, Health, Reviews
+ - [https://www.techtimes.com](https://www.techtimes.com)
+ - date published: 2023-11-27T16:23:40+00:00
+ - user: rumpel
+ - tags: ['tech news']
+
+## TechTinkering - Retro Computers, Programming, General Technical Tinkering
+ - [https://techtinkering.com](https://techtinkering.com)
+ - date published: 2023-10-25T17:25:47.542481+00:00
+ - user: None
+ - tags: []
+
+## Tech Week - Gadgets, news and reviews
+ - [https://www.techweekmag.com](https://www.techweekmag.com)
+ - date published: 2024-01-09T02:50:04.206010+00:00
+ - user: None
+ - tags: []
+
+## TechWiser - Tips, Tricks & How to
+ - [https://techwiser.com](https://techwiser.com)
+ - date published: 2023-10-25T17:25:51.110378+00:00
+ - user: None
+ - tags: []
+
+## Tech World With Milan Newsletter | Dr Milan Milanović | Substack
+ - [https://newsletter.techworld-with-milan.com](https://newsletter.techworld-with-milan.com)
+ - date published: 2023-12-23T10:43:34.120923+00:00
+ - user: None
+ - tags: []
+
+## Tech Xplore - Technology and Engineering news
+ - [https://techxplore.com](https://techxplore.com)
+ - date published: 2023-10-25T17:25:54.520888+00:00
+ - user: None
+ - tags: ['tech news', 'science news']
+
+## TechYourChance
+ - [https://www.techyourchance.com](https://www.techyourchance.com)
+ - date published: 2023-10-28T02:15:09.534742+00:00
+ - user: None
+ - tags: []
+
+## ABQ Techzonics Tech Superstore - Electronic,Scientific,Industrial
+ - [https://techzonics.com](https://techzonics.com)
+ - date published: 2023-10-25T17:25:56.943934+00:00
+ - user: None
+ - tags: []
+
+## TED: Ideas Worth Spreading
+ - [https://www.ted.com](https://www.ted.com)
+ - date published: 2023-10-25T17:26:06.996712+00:00
+ - user: None
+ - tags: []
+
+## Teddy Zetterlund – Product Coach
+ - [https://teddyzetterlund.com](https://teddyzetterlund.com)
+ - date published: 2023-11-29T17:13:59.532978+00:00
+ - user: None
+ - tags: ['personal']
+
+## Attention Required! | Cloudflare
+ - [https://www.tedeytan.com](https://www.tedeytan.com)
+ - date published: 2023-12-27T01:10:34.556213+00:00
+ - user: None
+ - tags: ['personal']
+
+## I’m a reliable product designer and front-end developer working on websites, applications, and HTML emails. | Ted Goas
+ - [https://www.tedgoas.com](https://www.tedgoas.com)
+ - date published: 2023-10-25T09:21:10.808694+00:00
+ - user: None
+ - tags: ['personal']
+
+## flak
+ - [https://flak.tedunangst.com](https://flak.tedunangst.com)
+ - date published: 2023-10-25T17:26:08.173750+00:00
+ - user: None
+ - tags: []
+
+## The Stone and the Shell – Using large digital libraries to advance  literary history
+ - [https://tedunderwood.com](https://tedunderwood.com)
+ - date published: 2023-10-25T17:26:17.888935+00:00
+ - user: None
+ - tags: []
+
+## Teejay VanSlyke
+ - [http://teejayvanslyke.com](http://teejayvanslyke.com)
+ - date published: 2023-12-23T03:00:36.749123+00:00
+ - user: None
+ - tags: ['personal']
+
+## Teen Vogue: Fashion, Beauty, Entertainment News for Teens | Teen Vogue
+ - [https://www.teenvogue.com](https://www.teenvogue.com)
+ - date published: 2023-10-25T17:26:19.996429+00:00
+ - user: None
+ - tags: []
+
+## teesche.com
+ - [https://www.teesche.com](https://www.teesche.com)
+ - date published: 2023-12-25T04:56:35.952703+00:00
+ - user: None
+ - tags: ['personal']
+
+## Create with Spring, sell on social - Spring. For creators.
+ - [https://teespring.com](https://teespring.com)
+ - date published: 2023-12-11T17:45:33.713090+00:00
+ - user: None
+ - tags: []
+
+## Teflon™ Home | Teflon™ Fluoropolymers
+ - [https://www.teflon.com](https://www.teflon.com)
+ - date published: 2023-11-05T16:32:38.956419+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://tekdeeps.com](https://tekdeeps.com)
+ - date published: 2024-01-09T02:50:20.691184+00:00
+ - user: None
+ - tags: []
+
+## TelecomTV | Where Telecoms Connects – 5G, Open Source, SDN, NFV
+ - [https://www.telecomtv.com](https://www.telecomtv.com)
+ - date published: 2023-10-25T17:26:27.343477+00:00
+ - user: None
+ - tags: []
+
 ## Telefunc
  - [https://telefunc.com](https://telefunc.com)
  - date published: 2023-10-25T17:26:28.348990+00:00
@@ -722,6 +1016,12 @@
 ## The Conversation: In-depth analysis, research, news and ideas from leading academics and researchers.
  - [https://theconversation.com](https://theconversation.com)
  - date published: 2023-10-25T17:31:19.094203+00:00
+ - user: None
+ - tags: []
+
+## The Cool Down | Connecting You to a Cleaner, Cooler Future
+ - [https://www.thecooldown.com](https://www.thecooldown.com)
+ - date published: 2024-01-13T20:45:38.601015+00:00
  - user: None
  - tags: []
 
@@ -2390,6 +2690,12 @@
  - user: None
  - tags: []
 
+## TimBruls.com – Just another WordPress site
+ - [https://www.timbruls.com](https://www.timbruls.com)
+ - date published: 2024-01-13T22:54:34.613149+00:00
+ - user: None
+ - tags: []
+
 ## tbc aka tbc0 aka Tim Chambers
  - [https://timchambersusa.com](https://timchambersusa.com)
  - date published: 2023-12-12T07:05:03.825732+00:00
@@ -3187,6 +3493,12 @@
 ## Travel Off Path - Travel News and Tips for U.S. Travelers
  - [https://www.traveloffpath.com](https://www.traveloffpath.com)
  - date published: 2023-10-27T11:56:04.451368+00:00
+ - user: None
+ - tags: []
+
+## Travis Hellstrom
+ - [https://travishellstrom.com](https://travishellstrom.com)
+ - date published: 2024-01-13T09:37:09.274582+00:00
  - user: None
  - tags: []
 
@@ -5691,318 +6003,6 @@
 ## VPNOverview.com | News and Reviews, Privacy and Anonymity
  - [https://vpnoverview.com](https://vpnoverview.com)
  - date published: 2023-10-25T17:58:41.057138+00:00
- - user: None
- - tags: []
-
-## The Best VPN Service of 2024: 160+ VPNs Tested
- - [https://www.vpnranks.com](https://www.vpnranks.com)
- - date published: 2024-01-09T02:53:25.989758+00:00
- - user: None
- - tags: []
-
-## VRChat
- - [https://hello.vrchat.com](https://hello.vrchat.com)
- - date published: 2023-12-06T10:35:33+00:00
- - user: rumpel
- - tags: ['virtual reality', 'social platform']
-
-## Virtual Reality - Virtual Realities | Virtual Reality Products and Services
- - [https://www.vrealities.com](https://www.vrealities.com)
- - date published: 2023-11-27T16:24:43+00:00
- - user: rumpel
- - tags: ['virtual reality']
-
-## VSCodium - Open Source Binaries of VSCode
- - [https://vscodium.com](https://vscodium.com)
- - date published: 2023-10-25T17:58:41.892210+00:00
- - user: None
- - tags: []
-
-## Vudu is not available in your region.
- - [https://www.vudu.com](https://www.vudu.com)
- - date published: 2023-12-02T13:12:44+00:00
- - user: rumpel
- - tags: []
-
-## Vulture - Entertainment News - TV, Movies, Music, Books, Theater, Art
- - [https://www.vulture.com](https://www.vulture.com)
- - date published: 2023-10-25T10:24:00.700690+00:00
- - user: None
- - tags: ['entertainment news', 'movies']
-
-## VW.com | Official Home of Volkswagen Cars & SUVs
- - [https://www.vw.com](https://www.vw.com)
- - date published: 2023-10-25T18:10:11.961099+00:00
- - user: None
- - tags: ['company', 'car producer']
-
-## GitHub - dylanpdx/BetterTwitFix: Fix Twitter video embeds in Discord (and Telegram!)
- - [https://vxtwitter.com](https://vxtwitter.com)
- - date published: 2024-01-06T02:26:04.304605+00:00
- - user: None
- - tags: []
-
-## Effektiv drift och förvaltning | Vyer Technologies AB | Sweden
- - [https://www.vyer.com](https://www.vyer.com)
- - date published: 2023-11-29T14:19:39.041120+00:00
- - user: None
- - tags: []
-
-## Warcraft 3: Reforged - Map database
- - [https://maps.w3reforged.com](https://maps.w3reforged.com)
- - date published: 2023-10-29T10:35:07.109924+00:00
- - user: None
- - tags: []
-
-## W3Schools Online Web Tutorials
- - [https://www.w3schools.com](https://www.w3schools.com)
- - date published: 2023-10-25T17:25:37.350967+00:00
- - user: None
- - tags: ['css', 'standards', 'html', 'javascript']
-
-## W4 Games – Home
- - [https://w4games.com](https://w4games.com)
- - date published: 2023-10-25T17:58:48.483188+00:00
- - user: None
- - tags: ['godot', 'game studio']
-
-## Wacom | Interactive pen displays , pen tablets and stylus products.
- - [https://www.wacom.com](https://www.wacom.com)
- - date published: 2023-10-27T13:57:25.561009+00:00
- - user: None
- - tags: ['drawing', 'hardware']
-
-## WAD Commander
- - [https://wadcmd.com](https://wadcmd.com)
- - date published: 2023-10-25T17:58:50.087656+00:00
- - user: None
- - tags: []
-
-## WAGO Polska | Twój Partner w automatyce i połączeniach elektrycznych
- - [https://www.wago.com](https://www.wago.com)
- - date published: 2023-11-26T10:10:06+00:00
- - user: rumpel
- - tags: ['electronic']
-
-## Wait But Why
- - [https://waitbutwhy.com](https://waitbutwhy.com)
- - date published: 2024-01-01T18:11:58.847026+00:00
- - user: None
- - tags: []
-
-## WakaTime - Dashboards for developers
- - [https://wakatime.com](https://wakatime.com)
- - date published: 2023-10-25T17:59:03.808055+00:00
- - user: None
- - tags: []
-
-## Wakelet - Save, organize and share content
- - [https://wakelet.com](https://wakelet.com)
- - date published: 2023-11-26T16:49:19+00:00
- - user: rumpel
- - tags: ['bookmark manager']
-
-## قدم زدن در باغ عدن
- - [https://walkineden.com](https://walkineden.com)
- - date published: 2023-12-15T21:44:25.009160+00:00
- - user: None
- - tags: ['personal']
-
-## Best Wallet Hacks - Strategies & tactics for getting ahead financially and in life
- - [https://wallethacks.com](https://wallethacks.com)
- - date published: 2023-11-29T16:21:56.754241+00:00
- - user: None
- - tags: ['personal']
-
-## Wallpapers.com | 1,500,000+ Free HD Wallpapers for Desktop, Mobiles & Tablets
- - [https://wallpapers.com](https://wallpapers.com)
- - date published: 2023-10-25T16:30:58.046543+00:00
- - user: None
- - tags: []
-
-## Walmart has deals on the most-wanted gifts
- - [https://www.walmart.com](https://www.walmart.com)
- - date published: 2023-12-18T10:21:10.339974+00:00
- - user: None
- - tags: []
-
-## Wandering Wheatleys
- - [https://wanderingwheatleys.com](https://wanderingwheatleys.com)
- - date published: 2023-11-29T19:27:17.788085+00:00
- - user: None
- - tags: ['personal']
-
-## Wannabe Angels | Substack
- - [https://wannabeangels.com](https://wannabeangels.com)
- - date published: 2023-10-25T17:59:09.818436+00:00
- - user: None
- - tags: []
-
-## Dragonflight Raid & Dungeon Journal - Warcraft DB
- - [https://warcraftdb.com](https://warcraftdb.com)
- - date published: 2023-12-13T16:16:13.742566+00:00
- - user: None
- - tags: []
-
-## Warcraft Tavern - World of Warcraft News, Guides, & Tools
- - [https://www.warcrafttavern.com](https://www.warcrafttavern.com)
- - date published: 2023-12-13T16:17:17.821169+00:00
- - user: None
- - tags: []
-
-## Warfare Miniatures USA
- - [https://www.warfareminiaturesusa.com](https://www.warfareminiaturesusa.com)
- - date published: 2023-10-25T11:12:05.174416+00:00
- - user: None
- - tags: []
-
-## Home - The Wargame Explorer
- - [https://wargameexplorer.com](https://wargameexplorer.com)
- - date published: 2023-10-25T11:12:16.521806+00:00
- - user: None
- - tags: []
-
-## Wargamer | Warhammer, DnD, MTG, board games, and more
- - [https://www.wargamer.com](https://www.wargamer.com)
- - date published: 2023-10-25T11:19:48.926186+00:00
- - user: None
- - tags: ['board games', 'tabletop games', 'dungeons & dragons', 'warhammer', 'card games']
-
-## Wargames Foundry Miniatures – WargamesFoundry
- - [https://www.wargamesfoundry.com](https://www.wargamesfoundry.com)
- - date published: 2023-10-25T11:12:20.467045+00:00
- - user: None
- - tags: ['tabletop games', 'shop']
-
-## WargameVault
- - [https://www.wargamevault.com](https://www.wargamevault.com)
- - date published: 2023-11-10T10:44:27+00:00
- - user: rumpel
- - tags: ['warhammer', 'wargames', 'tabletop games', 'magazine', 'warhammer', 'wargames', 'tabletop games']
-
-## Award-Winning Wargaming Miniatures | WargamingMiniatures.com
- - [https://www.wargamingminiatures.com](https://www.wargamingminiatures.com)
- - date published: 2024-01-09T02:22:11.873929+00:00
- - user: None
- - tags: []
-
-## Warhammer Stores
- - [https://stores.warhammer.com](https://stores.warhammer.com)
- - date published: 2024-01-09T02:22:21.929212+00:00
- - user: None
- - tags: []
-
-## Home - Warhammer
- - [https://www.warhammer.com](https://www.warhammer.com)
- - date published: 2023-10-31T20:55:20.625099+00:00
- - user: None
- - tags: ['games workshop', 'tabletop games', 'warhammer']
-
-## https://www.warhammer-community.com
- - [https://www.warhammer-community.com](https://www.warhammer-community.com)
- - date published: 2023-10-25T11:12:32.436432+00:00
- - user: None
- - tags: []
-
-## Warhammer 40,000
- - [https://warhammer40000.com](https://warhammer40000.com)
- - date published: 2023-10-25T11:12:34.020898+00:00
- - user: None
- - tags: []
-
-## WarnerBros.com | Home of WB Movies, TV, Games, and more!
- - [https://www.warnerbros.com](https://www.warnerbros.com)
- - date published: 2023-10-25T15:08:19.885376+00:00
- - user: None
- - tags: []
-
-## WARNTracker
- - [https://yarn.warntracker.com](https://yarn.warntracker.com)
- - date published: 2023-10-25T17:59:11.816306+00:00
- - user: None
- - tags: []
-
-## War on the Rocks
- - [https://warontherocks.com](https://warontherocks.com)
- - date published: 2023-10-25T17:59:17.181704+00:00
- - user: None
- - tags: []
-
-## Show HN: WarpBuild – x86-64 and arm GitHub Action runners for 30% faster builds
- - [https://www.warpbuild.com](https://www.warpbuild.com)
- - date published: 2023-12-08T16:11:20+00:00
- - user: None
- - tags: []
-
-## WarpStream - Stream More, Manage Less
- - [https://www.warpstream.com](https://www.warpstream.com)
- - date published: 2023-10-25T17:59:20.863843+00:00
- - user: None
- - tags: []
-
-## War Remnants Museum
- - [https://warremnantsmuseum.com](https://warremnantsmuseum.com)
- - date published: 2023-11-13T13:42:19.429391+00:00
- - user: None
- - tags: ['museum']
-
-## warriormaven.com
- - [https://warriormaven.com](https://warriormaven.com)
- - date published: 2023-12-08T14:43:17.804302+00:00
- - user: None
- - tags: ['military news']
-
-## Buy Double-Sided Mouse Pad or Fabric Battle Mat, Miniatures, Terrain and Accessories for your Tabletop Wargaming Board. USA, Canada, Europe, Worldwide Shipping!
- - [https://warzonestudio.com](https://warzonestudio.com)
- - date published: 2023-11-01T19:18:45.990572+00:00
- - user: None
- - tags: ['tabletop games', 'wargames']
-
-## Washington Blade Newspaper
- - [https://www.washingtonblade.com](https://www.washingtonblade.com)
- - date published: 2023-11-07T16:06:11.624222+00:00
- - user: None
- - tags: ['the left wing', 'transgender', 'lgbt']
-
-## Washington City Paper: The Free Source for Local News in D.C.
- - [https://washingtoncitypaper.com](https://washingtoncitypaper.com)
- - date published: 2023-10-25T11:50:54.805063+00:00
- - user: None
- - tags: []
-
-## Political News and Conservative Analysis About Congress, the President, and the Federal Government | Washington Examiner
- - [https://www.washingtonexaminer.com](https://www.washingtonexaminer.com)
- - date published: 2023-10-25T10:29:27.520286+00:00
- - user: None
- - tags: []
-
-## Washingtonian - The website that Washington lives by.
- - [https://www.washingtonian.com](https://www.washingtonian.com)
- - date published: 2023-11-29T09:01:18.599201+00:00
- - user: None
- - tags: []
-
-## Home | Washington Monthly
- - [https://washingtonmonthly.com](https://washingtonmonthly.com)
- - date published: 2023-11-17T19:04:36.842471+00:00
- - user: None
- - tags: []
-
-## 404 Not Found
- - [https://feeds.washingtonpost.com](https://feeds.washingtonpost.com)
- - date published: 2024-01-09T02:53:40.790581+00:00
- - user: None
- - tags: []
-
-## The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post
- - [https://www.washingtonpost.com](https://www.washingtonpost.com)
- - date published: 2023-10-25T10:29:53.512747+00:00
- - user: None
- - tags: []
-
-## Washington Times - Politics, Breaking News, US and World News
- - [https://www.washingtontimes.com](https://www.washingtontimes.com)
- - date published: 2023-10-25T17:59:31.606473+00:00
  - user: None
  - tags: []
 

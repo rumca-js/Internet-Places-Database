@@ -1,3 +1,9 @@
+## Show HN: Personalized Meal Plans to Suit Your Lifestyle
+ - [https://assistant.tnx-solutions.ch](https://assistant.tnx-solutions.ch)
+ - date published: 2023-11-25T15:09:20+00:00
+ - user: None
+ - tags: []
+
 ## Universität Basel
  - [https://www.unibas.ch](https://www.unibas.ch)
  - date published: 2023-11-21T10:09:34.554675+00:00
@@ -979,6 +985,12 @@
 ## Pasteboard — Easy Image Uploads
  - [https://pasteboard.co](https://pasteboard.co)
  - date published: 2023-10-24T20:20:43.389331+00:00
+ - user: None
+ - tags: []
+
+## Point-Free: A video series exploring advanced programming topics in Swift.
+ - [https://www.pointfree.co](https://www.pointfree.co)
+ - date published: 2024-01-13T06:17:22.372182+00:00
  - user: None
  - tags: []
 
@@ -2182,6 +2194,12 @@
  - user: None
  - tags: []
 
+## Abhinav Bhatt
+ - [https://abhinavbhatt.com](https://abhinavbhatt.com)
+ - date published: 2024-01-13T22:54:15.913288+00:00
+ - user: None
+ - tags: []
+
 ## Abhishek
  - [https://abhishekbanthia.com](https://abhishekbanthia.com)
  - date published: 2023-10-25T09:04:22.035223+00:00
@@ -2470,6 +2488,12 @@
  - user: None
  - tags: ['personal']
 
+## Articles about bootstrapping a business in tech, web development, and leadership. | Adam Waselnuk
+ - [https://www.adamwaselnuk.com](https://www.adamwaselnuk.com)
+ - date published: 2024-01-13T09:37:38.534463+00:00
+ - user: None
+ - tags: []
+
 ## Adam Weigand
  - [https://adamweigand.com](https://adamweigand.com)
  - date published: 2023-12-30T09:52:07.005007+00:00
@@ -2683,6 +2707,12 @@
 ## Adze JS - Better JavaScript Logging
  - [https://adzejs.com](https://adzejs.com)
  - date published: 2023-10-25T12:34:27.271211+00:00
+ - user: None
+ - tags: []
+
+## Aerospace Testing International | Aviation & Engineering News | MAG
+ - [https://www.aerospacetestinginternational.com](https://www.aerospacetestinginternational.com)
+ - date published: 2024-01-13T01:38:16.799942+00:00
  - user: None
  - tags: []
 
@@ -3334,6 +3364,12 @@
  - user: None
  - tags: []
 
+## Alex Panagis | Entrepreneur, SaaS Operator & Investor
+ - [https://alexjpanagis.com](https://alexjpanagis.com)
+ - date published: 2024-01-13T18:26:31.067280+00:00
+ - user: None
+ - tags: []
+
 ## Alex Meub
  - [https://alexmeub.com](https://alexmeub.com)
  - date published: 2023-10-25T09:04:24.113928+00:00
@@ -3577,6 +3613,12 @@
 ## All Things Distributed
  - [https://www.allthingsdistributed.com](https://www.allthingsdistributed.com)
  - date published: 2023-10-25T12:39:06.127295+00:00
+ - user: None
+ - tags: []
+
+## Alma Ayon – Art  & Meditation
+ - [https://www.alma-ayon.com](https://www.alma-ayon.com)
+ - date published: 2024-01-13T09:36:47.244639+00:00
  - user: None
  - tags: []
 
@@ -4318,6 +4360,12 @@
  - user: None
  - tags: []
 
+## Angela Winter
+ - [https://www.angelawinter.com](https://www.angelawinter.com)
+ - date published: 2024-01-13T22:52:43.550542+00:00
+ - user: None
+ - tags: []
+
 ## Angélique Weger
  - [https://angeliqueweger.com](https://angeliqueweger.com)
  - date published: 2023-12-19T19:09:14.788158+00:00
@@ -4495,6 +4543,12 @@
 ## Anthony Hobday—Product designer
  - [https://anthonyhobday.com](https://anthonyhobday.com)
  - date published: 2023-10-25T12:41:54.796663+00:00
+ - user: None
+ - tags: []
+
+## Reliable, Compelling, and Original Content Since 2011 | Anthony St. Clair
+ - [https://www.anthonystclair.com](https://www.anthonystclair.com)
+ - date published: 2024-01-13T18:25:59.972828+00:00
  - user: None
  - tags: []
 
@@ -4737,6 +4791,12 @@
  - date published: 2023-12-11T15:37:38.856311+00:00
  - user: None
  - tags: ['apple']
+
+## Careers at Apple: Join us. Be you.
+ - [https://jobs.apple.com](https://jobs.apple.com)
+ - date published: 2024-01-13T10:17:29.272605+00:00
+ - user: None
+ - tags: []
 
 ## Overview - Apple Machine Learning Research
  - [https://machinelearning.apple.com](https://machinelearning.apple.com)
@@ -5935,66 +5995,6 @@
 ## HITTCUTE
  - [https://www.avecute.com](https://www.avecute.com)
  - date published: 2023-11-17T23:43:53.942541+00:00
- - user: None
- - tags: []
-
-## averylaird.com
- - [https://www.averylaird.com](https://www.averylaird.com)
- - date published: 2023-12-26T17:42:47.963845+00:00
- - user: None
- - tags: []
-
-## AVG 2024 | DARMOWY antywirus, VPN i TuneUp
- - [https://www.avg.com](https://www.avg.com)
- - date published: 2023-10-30T12:54:23.203236+00:00
- - user: None
- - tags: ['antivirus']
-
-## The Aviation Herald
- - [https://avherald.com](https://avherald.com)
- - date published: 2023-10-25T11:48:37.614174+00:00
- - user: None
- - tags: []
-
-## Aviation A2Z - Latest Aviation News
- - [https://aviationa2z.com](https://aviationa2z.com)
- - date published: 2023-10-25T12:50:15.437143+00:00
- - user: None
- - tags: []
-
-## Aviation Week Network - Homepage | Aviation Week Network
- - [https://aviationweek.com](https://aviationweek.com)
- - date published: 2023-10-25T11:48:47.466803+00:00
- - user: None
- - tags: []
-
-## Aviatrix Engineering
- - [https://engineering.aviatrix.com](https://engineering.aviatrix.com)
- - date published: 2023-10-27T11:55:10.409502+00:00
- - user: None
- - tags: []
-
-## A view from the cycle path
- - [https://www.aviewfromthecyclepath.com](https://www.aviewfromthecyclepath.com)
- - date published: 2023-10-25T12:50:44.833761+00:00
- - user: None
- - tags: []
-
-## Download Security Software for Windows, Mac, Android & iOS | Avira Antivirus
- - [https://www.avira.com](https://www.avira.com)
- - date published: 2023-10-30T12:55:20.105525+00:00
- - user: None
- - tags: ['antivirus']
-
-## AvSax | A thermal runaway solution in a fireproof bag | Avsax.com
- - [https://avsax.com](https://avsax.com)
- - date published: 2023-11-04T09:27:46.266247+00:00
- - user: None
- - tags: []
-
-## AVS Forum
- - [https://www.avsforum.com](https://www.avsforum.com)
- - date published: 2023-10-25T12:50:48.844024+00:00
  - user: None
  - tags: []
 
