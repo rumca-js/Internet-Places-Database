@@ -1,3 +1,159 @@
+## Event-Driven by Oskar Dudycz
+ - [https://event-driven.io](https://event-driven.io)
+ - date published: 2023-10-25T19:42:13.572557+00:00
+ - user: None
+ - tags: []
+
+## Everstrike Blog
+ - [https://blog.everstrike.io](https://blog.everstrike.io)
+ - date published: 2023-10-25T19:42:15.001515+00:00
+ - user: None
+ - tags: []
+
+## The EV Universe
+ - [https://www.evuniverse.io](https://www.evuniverse.io)
+ - date published: 2023-10-25T19:42:17.038711+00:00
+ - user: None
+ - tags: []
+
+## Ewan Valentine | Home
+ - [https://ewanvalentine.io](https://ewanvalentine.io)
+ - date published: 2023-11-06T08:14:47.316226+00:00
+ - user: None
+ - tags: []
+
+## Home | Exaloop blog
+ - [https://blog.exaloop.io](https://blog.exaloop.io)
+ - date published: 2023-10-25T19:42:17.703333+00:00
+ - user: None
+ - tags: []
+
+## Exaltitude Engineering Leadership Community
+ - [https://www.exaltitude.io](https://www.exaltitude.io)
+ - date published: 2023-10-25T19:42:19.238033+00:00
+ - user: None
+ - tags: []
+
+## Failing Fast
+ - [https://failingfast.io](https://failingfast.io)
+ - date published: 2023-10-25T19:42:20.010109+00:00
+ - user: None
+ - tags: []
+
+## https://fairtec.io/fr/
+ - [https://fairtec.io](https://fairtec.io)
+ - date published: 2023-12-11T16:19:34.009224+00:00
+ - user: None
+ - tags: []
+
+## Fan Pu Zeng
+ - [https://fanpu.io](https://fanpu.io)
+ - date published: 2023-10-25T19:42:21.616085+00:00
+ - user: None
+ - tags: []
+
+## Favoree - Discover quality channels from YouTube
+ - [https://www.favoree.io](https://www.favoree.io)
+ - date published: 2023-10-25T19:42:22.471809+00:00
+ - user: None
+ - tags: []
+
+## FerretDB Blog | FerretDB Blog
+ - [https://blog.ferretdb.io](https://blog.ferretdb.io)
+ - date published: 2023-10-25T19:42:24.585480+00:00
+ - user: None
+ - tags: []
+
+## Build your company workspace with no code — Fibery
+ - [https://fibery.io](https://fibery.io)
+ - date published: 2023-10-25T19:42:31.278832+00:00
+ - user: None
+ - tags: []
+
+## Fig
+ - [https://fig.io](https://fig.io)
+ - date published: 2023-10-25T19:42:32.304878+00:00
+ - user: None
+ - tags: []
+
+## Filippo Valsorda
+ - [https://blog.filippo.io](https://blog.filippo.io)
+ - date published: 2023-10-25T19:42:34.529201+00:00
+ - user: None
+ - tags: []
+
+## Filippo Valsorda
+ - [https://filippo.io](https://filippo.io)
+ - date published: 2023-10-25T19:42:35.382816+00:00
+ - user: None
+ - tags: []
+
+## Filippo Valsorda
+ - [https://words.filippo.io](https://words.filippo.io)
+ - date published: 2023-10-25T08:59:06.743488+00:00
+ - user: None
+ - tags: ['personal']
+
+## Filtra
+ - [https://filtra.io](https://filtra.io)
+ - date published: 2023-10-31T13:18:58.615018+00:00
+ - user: None
+ - tags: []
+
+## FindMyCat - The Open-Source Pet Tracker
+ - [https://www.findmycat.io](https://www.findmycat.io)
+ - date published: 2023-10-25T19:42:41.070101+00:00
+ - user: None
+ - tags: ['open hardware', 'hardware tracker']
+
+## Fireship - Learn to Code Faster
+ - [https://fireship.io](https://fireship.io)
+ - date published: 2023-10-25T19:42:41.631253+00:00
+ - user: None
+ - tags: []
+
+## Fly.io
+ - [https://community.fly.io](https://community.fly.io)
+ - date published: 2023-10-25T19:42:46.027252+00:00
+ - user: None
+ - tags: []
+
+## Deploy app servers close to your users · Fly
+ - [https://fly.io](https://fly.io)
+ - date published: 2023-10-25T19:42:47.102257+00:00
+ - user: None
+ - tags: []
+
+## FoAz - Frontend-Only-AuthZ | FoAz
+ - [https://foaz.io](https://foaz.io)
+ - date published: 2023-10-25T19:42:48.088096+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Forwarder – FOSS MITM proxy written in Go
+ - [https://forwarder-proxy.io](https://forwarder-proxy.io)
+ - date published: 2023-12-20T15:30:47+00:00
+ - user: None
+ - tags: []
+
+## Foxy.io | Flexible Ecommerce for Your Website
+ - [https://www.foxy.io](https://www.foxy.io)
+ - date published: 2023-10-25T19:42:49.688772+00:00
+ - user: None
+ - tags: []
+
+## FreeTube - The Private YouTube Client
+ - [https://freetubeapp.io](https://freetubeapp.io)
+ - date published: 2023-10-25T08:30:25.633576+00:00
+ - user: None
+ - tags: ['youtube']
+
+## Freshpaint | Healthcare Privacy Platform To Manage Your Data And Meet HIPAA Regulations
+ - [https://www.freshpaint.io](https://www.freshpaint.io)
+ - date published: 2023-10-25T19:42:56.058009+00:00
+ - user: None
+ - tags: []
+
 ## FusionAuth: Auth. Built for Devs, by Devs
  - [https://fusionauth.io](https://fusionauth.io)
  - date published: 2023-10-27T16:12:10.629678+00:00
@@ -2595,6 +2751,12 @@ through Composable Diffusion
 ## Stan Szymanowicz
  - [https://szymanowiczs.github.io](https://szymanowiczs.github.io)
  - date published: 2023-12-21T14:20:25.804918+00:00
+ - user: None
+ - tags: []
+
+## Xinye Tao
+ - [https://tabokie.github.io](https://tabokie.github.io)
+ - date published: 2024-01-14T17:10:57.682317+00:00
  - user: None
  - tags: []
 
@@ -5843,166 +6005,4 @@ End-to-end typesafe APIs made easy. | tRPC
  - date published: 2023-10-25T20:14:22.428117+00:00
  - user: None
  - tags: []
-
-## Joel Gascoigne
- - [https://joel.is](https://joel.is)
- - date published: 2024-01-12T22:14:31.768252+00:00
- - user: None
- - tags: []
-
-## Jonah is… - Jonah is…
- - [https://jonah.is](https://jonah.is)
- - date published: 2024-01-06T17:57:57.609829+00:00
- - user: None
- - tags: []
-
-## Kenny Grants Personal Website
- - [https://kenny.is](https://kenny.is)
- - date published: 2024-01-07T11:03:19.555237+00:00
- - user: None
- - tags: []
-
-## | a.programming.blog
- - [https://who.ldelossa.is](https://who.ldelossa.is)
- - date published: 2023-10-25T20:14:23.039703+00:00
- - user: None
- - tags: []
-
-## Library Genesis
- - [https://libgen.is](https://libgen.is)
- - date published: 2023-10-25T20:14:24.181142+00:00
- - user: None
- - tags: []
-
-## Library Genesis
- - [https://www.libgen.is](https://www.libgen.is)
- - date published: 2024-01-04T12:01:56+00:00
- - user: rumpel
- - tags: ['digital library']
-
-## Iceland Monitor - monitor.is
- - [https://icelandmonitor.mbl.is](https://icelandmonitor.mbl.is)
- - date published: 2023-11-14T14:17:41.442172+00:00
- - user: None
- - tags: []
-
-## Professor Steven J. Murdoch
- - [https://murdoch.is](https://murdoch.is)
- - date published: 2023-10-25T20:14:25.931346+00:00
- - user: None
- - tags: []
-
-## pratik.is/
- - [https://pratik.is](https://pratik.is)
- - date published: 2023-10-25T20:14:27.508195+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://ben.robertson.is](https://ben.robertson.is)
- - date published: 2024-01-11T13:45:34.420578+00:00
- - user: None
- - tags: []
-
-## RÚV.is
- - [https://www.ruv.is](https://www.ruv.is)
- - date published: 2023-11-11T03:29:34.003690+00:00
- - user: None
- - tags: []
-
-## Your story estimation can be lightweight and efficient
- - [https://smartguess.is](https://smartguess.is)
- - date published: 2023-11-01T08:43:48.191532+00:00
- - user: None
- - tags: []
-
-## Lincoln is...blue
- - [https://lincoln.swaine-moore.is](https://lincoln.swaine-moore.is)
- - date published: 2024-01-09T03:33:33.087300+00:00
- - user: None
- - tags: []
-
-## Jasper is (╯°□°）╯︵ ┻━┻
- - [https://jasper.tandy.is](https://jasper.tandy.is)
- - date published: 2023-11-29T14:25:42.608019+00:00
- - user: None
- - tags: ['personal']
-
-## The (Site of) Davis
- - [https://thedav.is](https://thedav.is)
- - date published: 2023-10-25T20:14:33.148978+00:00
- - user: None
- - tags: []
-
-## Time.is - exact time, any time zone
- - [https://time.is](https://time.is)
- - date published: 2023-10-25T20:14:35.850640+00:00
- - user: None
- - tags: []
-
-## timing blog
- - [https://blog.timing.is](https://blog.timing.is)
- - date published: 2023-10-25T20:14:37.573106+00:00
- - user: None
- - tags: []
-
-## tot.is - tiny original thoughts
- - [https://tot.is](https://tot.is)
- - date published: 2023-11-26T21:56:30.710870+00:00
- - user: None
- - tags: ['personal']
-
-## Forsíða - Vísir
- - [https://www.visir.is](https://www.visir.is)
- - date published: 2023-12-19T00:38:08.555606+00:00
- - user: None
- - tags: []
-
-## Open visual  development for the open web
- - [https://webstudio.is](https://webstudio.is)
- - date published: 2023-10-25T20:14:38.592018+00:00
- - user: None
- - tags: []
-
-## gavart.ist — 🌱 digital garden  🗂  work repository
- - [https://gavart.ist](https://gavart.ist)
- - date published: 2023-12-20T00:59:57.888289+00:00
- - user: None
- - tags: ['personal']
-
-## Amiga.it: le risorse Amiga in Italia
- - [https://www.amiga.it](https://www.amiga.it)
- - date published: 2024-01-09T03:33:34.657525+00:00
- - user: None
- - tags: []
-
-## Amigapage - Sito italiano dedicato ad Amiga
- - [https://www.amigapage.it](https://www.amigapage.it)
- - date published: 2023-11-02T09:47:56.546618+00:00
- - user: None
- - tags: ['amiga']
-
-## Agenzia ANSA: ultime notizie di cronaca, politica e sport - ANSA
- - [https://www.ansa.it](https://www.ansa.it)
- - date published: 2023-10-25T20:14:45.151180+00:00
- - user: None
- - tags: []
-
-## Aurelio De Rosa
- - [https://www.audero.it](https://www.audero.it)
- - date published: 2023-10-25T20:14:45.892675+00:00
- - user: None
- - tags: []
-
-## Wifi & Bed
- - [https://bitslap.it](https://bitslap.it)
- - date published: 2023-10-25T20:14:46.393122+00:00
- - user: None
- - tags: []
-
-## Can I Stream It?
- - [https://www.canistream.it](https://www.canistream.it)
- - date published: 2023-11-27T11:29:05+00:00
- - user: rumpel
- - tags: ['video streaming filter']
 

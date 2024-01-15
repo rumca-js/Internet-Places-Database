@@ -1,3 +1,129 @@
+## VNV NATION - Alternative Electronic Music
+ - [https://vnvnation.com](https://vnvnation.com)
+ - date published: 2023-10-25T13:52:36.723319+00:00
+ - user: None
+ - tags: ['music band']
+
+## VOA - Voice of America English News
+ - [https://www.voanews.com](https://www.voanews.com)
+ - date published: 2023-10-25T17:58:00.143976+00:00
+ - user: None
+ - tags: ['news']
+
+## Show HN: Vocab Miner – find new words in Spanish from texts
+ - [https://vocabminer.com](https://vocabminer.com)
+ - date published: 2023-12-28T15:17:37+00:00
+ - user: None
+ - tags: []
+
+## VOCALOID ( ボーカロイド・ボカロ ) 公式サイト
+ - [https://www.vocaloid.com](https://www.vocaloid.com)
+ - date published: 2023-10-25T17:58:04.057960+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.vodafone.com](https://www.vodafone.com)
+ - date published: 2023-10-25T17:58:07.620214+00:00
+ - user: None
+ - tags: []
+
+## Vogue: Fashion, Beauty, Celebrity, Fashion Shows | Vogue
+ - [https://www.vogue.com](https://www.vogue.com)
+ - date published: 2023-10-25T17:58:10.904686+00:00
+ - user: None
+ - tags: []
+
+## Vogue Business: Fashion Industry Expertise From an Insider's Perspective | Vogue Business
+ - [https://www.voguebusiness.com](https://www.voguebusiness.com)
+ - date published: 2023-10-25T17:58:13.232753+00:00
+ - user: None
+ - tags: []
+
+## VoidStar Security LLC
+ - [https://voidstarsec.com](https://voidstarsec.com)
+ - date published: 2023-11-01T08:43:22.489825+00:00
+ - user: None
+ - tags: []
+
+## Voiture Blog: It's all about cars
+ - [https://www.voitureblog.com](https://www.voitureblog.com)
+ - date published: 2023-10-25T17:58:19.010249+00:00
+ - user: None
+ - tags: []
+
+## Volocopter brings urban air mobility to life
+ - [https://www.volocopter.com](https://www.volocopter.com)
+ - date published: 2023-11-13T13:14:21.543535+00:00
+ - user: None
+ - tags: ['avionics', 'aviation']
+
+## Home - Volumio
+ - [https://volumio.com](https://volumio.com)
+ - date published: 2023-10-25T17:58:28.288602+00:00
+ - user: None
+ - tags: []
+
+## Volvo Cars
+ - [https://www.volvocars.com](https://www.volvocars.com)
+ - date published: 2023-11-01T08:43:23.237480+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Volvo Trucks
+ - [https://www.volvotrucks.com](https://www.volvotrucks.com)
+ - date published: 2023-11-17T19:49:46.635994+00:00
+ - user: None
+ - tags: []
+
+## vomitingchicken.com
+ - [https://vomitingchicken.com](https://vomitingchicken.com)
+ - date published: 2023-11-29T17:11:52.328753+00:00
+ - user: None
+ - tags: []
+
+## vonhulewicz
+ - [https://www.vonhulewicz.com](https://www.vonhulewicz.com)
+ - date published: 2023-12-24T18:30:25.995250+00:00
+ - user: None
+ - tags: ['personal']
+
+## Lauren Weinstein's Blog
+ - [https://lauren.vortex.com](https://lauren.vortex.com)
+ - date published: 2023-10-25T17:58:32.739644+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Vowl daily word guessing game
+ - [https://vowlgame.com](https://vowlgame.com)
+ - date published: 2023-12-29T21:53:49+00:00
+ - user: None
+ - tags: []
+
+## Vox - Our world, explained
+ - [https://www.vox.com](https://www.vox.com)
+ - date published: 2023-10-25T10:39:39.512845+00:00
+ - user: None
+ - tags: []
+
+## Voxel51 // Open source computer vision tools for machine learning
+ - [https://voxel51.com](https://voxel51.com)
+ - date published: 2023-10-25T17:58:36.656429+00:00
+ - user: None
+ - tags: []
+
+## VPNCentral - Your #1 Resource for VPN Information
+ - [https://vpncentral.com](https://vpncentral.com)
+ - date published: 2023-10-25T17:58:38.882345+00:00
+ - user: None
+ - tags: []
+
+## VPNOverview.com | News and Reviews, Privacy and Anonymity
+ - [https://vpnoverview.com](https://vpnoverview.com)
+ - date published: 2023-10-25T17:58:41.057138+00:00
+ - user: None
+ - tags: []
+
 ## The Best VPN Service of 2024: 160+ VPNs Tested
  - [https://www.vpnranks.com](https://www.vpnranks.com)
  - date published: 2024-01-09T02:53:25.989758+00:00
@@ -5870,132 +5996,6 @@ home
 ## Envoy Playground
  - [https://envoy-playground.apoxy.dev](https://envoy-playground.apoxy.dev)
  - date published: 2023-10-25T18:34:51.661054+00:00
- - user: None
- - tags: []
-
-## Archsense | Architecture visualization
- - [https://www.archsense.dev](https://www.archsense.dev)
- - date published: 2023-10-25T18:34:53.556550+00:00
- - user: None
- - tags: []
-
-## Argbash: Bash argument parsing made easy
- - [https://argbash.dev](https://argbash.dev)
- - date published: 2023-10-25T18:34:54.594624+00:00
- - user: None
- - tags: []
-
-## Introducing Darwin: An Evolutionary App Framework
- - [https://evolutionary.arweave.dev](https://evolutionary.arweave.dev)
- - date published: 2023-10-25T18:34:55.983152+00:00
- - user: None
- - tags: []
-
-## Freelance software consultant - Asko Nõmm
- - [https://asko.dev](https://asko.dev)
- - date published: 2023-10-25T18:34:56.669192+00:00
- - user: None
- - tags: []
-
-## Auth.js
- - [https://authjs.dev](https://authjs.dev)
- - date published: 2023-10-25T18:34:57.550961+00:00
- - user: None
- - tags: []
-
-## Avestura's Blog
- - [https://avestura.dev](https://avestura.dev)
- - date published: 2023-10-25T18:34:58.986618+00:00
- - user: None
- - tags: []
-
-## The AWK Programming Language, Second Edition
- - [https://awk.dev](https://awk.dev)
- - date published: 2023-10-25T18:35:00.619087+00:00
- - user: None
- - tags: []
-
-## The AWK Programming Language, Second Edition
- - [https://www.awk.dev](https://www.awk.dev)
- - date published: 2023-10-27T11:56:59.977208+00:00
- - user: None
- - tags: []
-
-## Axflow
- - [https://axflow.dev](https://axflow.dev)
- - date published: 2024-01-08T19:27:16.030595+00:00
- - user: None
- - tags: []
-
-## axo blog - System dependencies are hard (so we made them easier)
- - [https://blog.axo.dev](https://blog.axo.dev)
- - date published: 2023-10-25T18:35:02.657023+00:00
- - user: None
- - tags: []
-
-## Paul Baecher
- - [https://baecher.dev](https://baecher.dev)
- - date published: 2023-12-25T20:32:27.875144+00:00
- - user: None
- - tags: []
-
-## Banner Blog
- - [https://bannerblog.dev](https://bannerblog.dev)
- - date published: 2023-12-11T10:34:13.452233+00:00
- - user: None
- - tags: ['blog platform']
-
-## Home
- - [https://www.batra.dev](https://www.batra.dev)
- - date published: 2024-01-02T10:19:19.331928+00:00
- - user: None
- - tags: []
-
-## Eduardo Bautista
- - [https://www.bautista.dev](https://www.bautista.dev)
- - date published: 2023-10-25T18:35:03.411669+00:00
- - user: None
- - tags: []
-
-## Barely Managing
- - [https://barely-managing.bearblog.dev](https://barely-managing.bearblog.dev)
- - date published: 2023-10-25T18:35:04.253109+00:00
- - user: None
- - tags: []
-
-## Blub's Blog
- - [https://blubsblog.bearblog.dev](https://blubsblog.bearblog.dev)
- - date published: 2023-10-25T18:35:05.034243+00:00
- - user: None
- - tags: []
-
-## a rickety bridge of impossible crossing
- - [https://bluelander.bearblog.dev](https://bluelander.bearblog.dev)
- - date published: 2023-10-25T18:35:09.913884+00:00
- - user: None
- - tags: []
-
-## 404
- - [https://but-her-flies.bearblog.dev](https://but-her-flies.bearblog.dev)
- - date published: 2024-01-09T02:56:50.328344+00:00
- - user: None
- - tags: []
-
-## Chatterhead Says
- - [https://chatterhead.bearblog.dev](https://chatterhead.bearblog.dev)
- - date published: 2023-10-25T18:35:10.696893+00:00
- - user: None
- - tags: []
-
-## ❀°。Deijin's Blog
- - [https://deijin.bearblog.dev](https://deijin.bearblog.dev)
- - date published: 2023-10-25T09:21:34.845060+00:00
- - user: None
- - tags: ['personal']
-
-## garden of eden
- - [https://eden.bearblog.dev](https://eden.bearblog.dev)
- - date published: 2023-10-25T18:35:11.866612+00:00
  - user: None
  - tags: []
 

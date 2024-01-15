@@ -3166,6 +3166,12 @@
  - user: None
  - tags: ['personal']
 
+## keyboardninja
+ - [https://kbni.net.au](https://kbni.net.au)
+ - date published: 2024-01-14T08:12:23.595165+00:00
+ - user: None
+ - tags: []
+
 ## The Australia Institute's Centre for Future Work
  - [https://futurework.org.au](https://futurework.org.au)
  - date published: 2023-10-25T11:58:03.137578+00:00
@@ -3307,6 +3313,12 @@
 ## Remko Tronçon's Homepage
  - [https://el-tramo.be](https://el-tramo.be)
  - date published: 2023-10-25T11:58:55.730192+00:00
+ - user: None
+ - tags: []
+
+## ESP32 open MAC
+ - [https://esp32-open-mac.be](https://esp32-open-mac.be)
+ - date published: 2024-01-14T18:00:14.190501+00:00
  - user: None
  - tags: []
 
@@ -4442,6 +4454,12 @@
 ## The Citizen Lab - University of Toronto
  - [https://citizenlab.ca](https://citizenlab.ca)
  - date published: 2023-10-25T12:09:16.663748+00:00
+ - user: None
+ - tags: []
+
+## Breaking News | Top Local Stories | CityNews Calgary
+ - [https://calgary.citynews.ca](https://calgary.citynews.ca)
+ - date published: 2024-01-14T14:56:16.599498+00:00
  - user: None
  - tags: []
 
@@ -5979,24 +5997,6 @@
 ## Switzerland Times | Latest Switzerland News
  - [https://switzerlandtimes.ch](https://switzerlandtimes.ch)
  - date published: 2023-10-25T12:14:30.377990+00:00
- - user: None
- - tags: []
-
-## Tages-Anzeiger | Aktuelle Nachrichten und Hintergründe.
- - [https://www.tagesanzeiger.ch](https://www.tagesanzeiger.ch)
- - date published: 2023-10-25T12:14:40.969018+00:00
- - user: None
- - tags: []
-
-## TAWS - The Amiga Workbench Simulation
- - [https://taws.ch](https://taws.ch)
- - date published: 2023-10-25T12:14:41.731543+00:00
- - user: None
- - tags: []
-
-## The Market – Analysen und Hintergründe aus der Wirtschaft
- - [https://themarket.ch](https://themarket.ch)
- - date published: 2023-10-25T12:14:47.125200+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,69 @@
+## Kotaku | Gaming Reviews, News, Tips and More.
+ - [https://kotaku.com](https://kotaku.com)
+ - date published: 2023-10-25T10:49:08.889355+00:00
+ - user: None
+ - tags: []
+
+## Atit Kothari
+ - [https://kothariatit.com](https://kothariatit.com)
+ - date published: 2023-11-29T14:17:59.288306+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://www.kptv.com](https://www.kptv.com)
+ - date published: 2023-10-25T15:38:57.920289+00:00
+ - user: None
+ - tags: []
+
+## Kraken Blog
+ - [https://blog.kraken.com](https://blog.kraken.com)
+ - date published: 2023-10-25T15:39:02.164099+00:00
+ - user: None
+ - tags: []
+
+## KrakenSDR Forum - KrakenSDR and KrakenRF Forum
+ - [https://forum.krakenrf.com](https://forum.krakenrf.com)
+ - date published: 2023-10-25T15:39:05.478705+00:00
+ - user: None
+ - tags: []
+
+## Kraktoos
+ - [https://kraktoos.com](https://kraktoos.com)
+ - date published: 2023-10-25T08:46:47.993948+00:00
+ - user: None
+ - tags: ['personal']
+
+## LayerSlider: #1 WordPress Slider Plugin
+ - [https://layerslider.kreaturamedia.com](https://layerslider.kreaturamedia.com)
+ - date published: 2023-12-11T16:37:18.965095+00:00
+ - user: None
+ - tags: []
+
+## Krebs on Security – In-depth security news and investigation
+ - [https://krebsonsecurity.com](https://krebsonsecurity.com)
+ - date published: 2023-10-25T10:14:56.854608+00:00
+ - user: None
+ - tags: []
+
+## Krickelkrackel | I had nothing in mind while painting this.
+ - [https://krickelkrackel.com](https://krickelkrackel.com)
+ - date published: 2023-10-25T15:39:08.147156+00:00
+ - user: None
+ - tags: []
+
+## Kristin Kwan
+ - [http://www.kristinkwan.com](http://www.kristinkwan.com)
+ - date published: 2023-12-24T18:30:35.935559+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kristin Weber Music
+ - [http://www.kristinwebermusic.com](http://www.kristinwebermusic.com)
+ - date published: 2023-12-24T08:14:45.608577+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Christophe Berg
  - [https://www.kristofberg.com](https://www.kristofberg.com)
  - date published: 2024-01-04T19:56:12.404306+00:00
@@ -109,6 +175,12 @@
 ## KTNV.com
  - [https://www.ktnv.com](https://www.ktnv.com)
  - date published: 2024-01-03T21:00:35.347663+00:00
+ - user: None
+ - tags: []
+
+## Kevin Tracy - The Official Site
+ - [https://www.ktracy.com](https://www.ktracy.com)
+ - date published: 2024-01-14T08:12:55.311624+00:00
  - user: None
  - tags: []
 
@@ -2465,6 +2537,12 @@ diversions.
  - user: None
  - tags: []
 
+## Magma Partners venture capital firm
+ - [https://www.magmapartners.com](https://www.magmapartners.com)
+ - date published: 2024-01-14T08:13:22.897327+00:00
+ - user: None
+ - tags: []
+
 ## Magrathea Metals
  - [https://magratheametals.com](https://magratheametals.com)
  - date published: 2023-10-25T15:54:22.803149+00:00
@@ -2907,6 +2985,12 @@ diversions.
 ## Mark Gukov – Software engineer 👨🏻‍💻 with over a decade of experience, primarily in e-commerce 🛒 and payments 💳
  - [https://markgukov.com](https://markgukov.com)
  - date published: 2024-01-11T07:51:55.652234+00:00
+ - user: None
+ - tags: []
+
+## Mark Marshall
+ - [https://www.markmarshall.com](https://www.markmarshall.com)
+ - date published: 2024-01-14T17:11:57.067129+00:00
  - user: None
  - tags: []
 
@@ -5916,88 +6000,4 @@ diversions.
  - date published: 2023-10-25T16:06:25.829565+00:00
  - user: None
  - tags: []
-
-## MonoDevelop | MonoDevelop
- - [https://www.monodevelop.com](https://www.monodevelop.com)
- - date published: 2023-10-25T16:06:27.432727+00:00
- - user: None
- - tags: []
-
-## MOnSter 6502
- - [https://monster6502.com](https://monster6502.com)
- - date published: 2023-10-25T16:06:28.942526+00:00
- - user: None
- - tags: []
-
-## MonsterInsights - The Best Google Analytics Plugin for WordPress
- - [https://www.monsterinsights.com](https://www.monsterinsights.com)
- - date published: 2023-12-11T19:04:53.468599+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.montgomeryadvertiser.com](https://www.montgomeryadvertiser.com)
- - date published: 2023-12-05T02:11:23.056645+00:00
- - user: None
- - tags: []
-
-## Mam - Month After Mars
- - [https://www.monthaftermars.com](https://www.monthaftermars.com)
- - date published: 2023-10-25T09:25:59.073568+00:00
- - user: None
- - tags: ['personal']
-
-## Mont Marte Global
- - [https://www.montmarte.com](https://www.montmarte.com)
- - date published: 2023-11-01T18:49:31.831083+00:00
- - user: None
- - tags: ['drawing', 'hobby']
-
-## Home | Montreal Gazette | Montreal Gazette
- - [https://montrealgazette.com](https://montrealgazette.com)
- - date published: 2023-10-25T16:06:41.382989+00:00
- - user: None
- - tags: []
-
-## Monty Harper
- - [https://montyharper.com](https://montyharper.com)
- - date published: 2023-12-29T20:11:28.121829+00:00
- - user: None
- - tags: ['personal']
-
-## https://www.montypython.com
- - [https://www.montypython.com](https://www.montypython.com)
- - date published: 2023-10-30T10:51:43.445860+00:00
- - user: None
- - tags: ['monty python']
-
-## Monzo – Online Banking Made Easy | Open An Account Online
- - [https://monzo.com](https://monzo.com)
- - date published: 2023-10-25T16:06:43.718528+00:00
- - user: None
- - tags: []
-
-## MoonBit
- - [https://www.moonbitlang.com](https://www.moonbitlang.com)
- - date published: 2023-10-25T16:06:44.746203+00:00
- - user: None
- - tags: []
-
-## Moore Consulting
- - [https://www.mooreds.com](https://www.mooreds.com)
- - date published: 2023-12-18T16:28:30.195738+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.moorethought.com](https://www.moorethought.com)
- - date published: 2024-01-10T22:42:50.250561+00:00
- - user: None
- - tags: []
-
-## moralestapia.com
- - [https://www.moralestapia.com](https://www.moralestapia.com)
- - date published: 2023-11-29T15:49:04.258610+00:00
- - user: None
- - tags: ['personal']
 

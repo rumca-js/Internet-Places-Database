@@ -1,3 +1,21 @@
+## Tages-Anzeiger | Aktuelle Nachrichten und Hintergründe.
+ - [https://www.tagesanzeiger.ch](https://www.tagesanzeiger.ch)
+ - date published: 2023-10-25T12:14:40.969018+00:00
+ - user: None
+ - tags: []
+
+## TAWS - The Amiga Workbench Simulation
+ - [https://taws.ch](https://taws.ch)
+ - date published: 2023-10-25T12:14:41.731543+00:00
+ - user: None
+ - tags: []
+
+## The Market – Analysen und Hintergründe aus der Wirtschaft
+ - [https://themarket.ch](https://themarket.ch)
+ - date published: 2023-10-25T12:14:47.125200+00:00
+ - user: None
+ - tags: []
+
 ## Show HN: Personalized Meal Plans to Suit Your Lifestyle
  - [https://assistant.tnx-solutions.ch](https://assistant.tnx-solutions.ch)
  - date published: 2023-11-25T15:09:20+00:00
@@ -475,6 +493,12 @@
 ## Juli
  - [https://juli.bloggi.co](https://juli.bloggi.co)
  - date published: 2024-01-10T18:10:58.452881+00:00
+ - user: None
+ - tags: []
+
+## branden shortt | Primate. Human. Male.
+ - [https://branden.co](https://branden.co)
+ - date published: 2024-01-14T17:11:23.596323+00:00
  - user: None
  - tags: []
 
@@ -5973,28 +5997,4 @@
  - date published: 2023-10-30T12:54:06.035216+00:00
  - user: None
  - tags: ['antivirus']
-
-## Avatartion - Create Your Notion-Style Avatar
- - [https://www.avatartion.com](https://www.avatartion.com)
- - date published: 2023-10-25T12:49:56.329217+00:00
- - user: None
- - tags: []
-
-## AVC - Musings of a VC in NYC
- - [https://avc.com](https://avc.com)
- - date published: 2023-10-25T12:49:58.577974+00:00
- - user: None
- - tags: []
-
-## The A.V. Club | Pop culture obsessives writing for the pop culture obsessed.
- - [https://www.avclub.com](https://www.avclub.com)
- - date published: 2023-10-25T12:50:03.407757+00:00
- - user: None
- - tags: []
-
-## HITTCUTE
- - [https://www.avecute.com](https://www.avecute.com)
- - date published: 2023-11-17T23:43:53.942541+00:00
- - user: None
- - tags: []
 

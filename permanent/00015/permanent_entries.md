@@ -1,6 +1,174 @@
+## Joel Gascoigne
+ - [https://joel.is](https://joel.is)
+ - date published: 2024-01-12T22:14:31.768252+00:00
+ - user: None
+ - tags: []
+
+## Jonah is… - Jonah is…
+ - [https://jonah.is](https://jonah.is)
+ - date published: 2024-01-06T17:57:57.609829+00:00
+ - user: None
+ - tags: []
+
+## Kenny Grants Personal Website
+ - [https://kenny.is](https://kenny.is)
+ - date published: 2024-01-07T11:03:19.555237+00:00
+ - user: None
+ - tags: []
+
+## | a.programming.blog
+ - [https://who.ldelossa.is](https://who.ldelossa.is)
+ - date published: 2023-10-25T20:14:23.039703+00:00
+ - user: None
+ - tags: []
+
+## Library Genesis
+ - [https://libgen.is](https://libgen.is)
+ - date published: 2023-10-25T20:14:24.181142+00:00
+ - user: None
+ - tags: []
+
+## Library Genesis
+ - [https://www.libgen.is](https://www.libgen.is)
+ - date published: 2024-01-04T12:01:56+00:00
+ - user: rumpel
+ - tags: ['digital library']
+
+## Iceland Monitor - monitor.is
+ - [https://icelandmonitor.mbl.is](https://icelandmonitor.mbl.is)
+ - date published: 2023-11-14T14:17:41.442172+00:00
+ - user: None
+ - tags: []
+
+## Professor Steven J. Murdoch
+ - [https://murdoch.is](https://murdoch.is)
+ - date published: 2023-10-25T20:14:25.931346+00:00
+ - user: None
+ - tags: []
+
+## pratik.is/
+ - [https://pratik.is](https://pratik.is)
+ - date published: 2023-10-25T20:14:27.508195+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://ben.robertson.is](https://ben.robertson.is)
+ - date published: 2024-01-11T13:45:34.420578+00:00
+ - user: None
+ - tags: []
+
+## RÚV.is
+ - [https://www.ruv.is](https://www.ruv.is)
+ - date published: 2023-11-11T03:29:34.003690+00:00
+ - user: None
+ - tags: []
+
+## Your story estimation can be lightweight and efficient
+ - [https://smartguess.is](https://smartguess.is)
+ - date published: 2023-11-01T08:43:48.191532+00:00
+ - user: None
+ - tags: []
+
+## Lincoln is...blue
+ - [https://lincoln.swaine-moore.is](https://lincoln.swaine-moore.is)
+ - date published: 2024-01-09T03:33:33.087300+00:00
+ - user: None
+ - tags: []
+
+## Jasper is (╯°□°）╯︵ ┻━┻
+ - [https://jasper.tandy.is](https://jasper.tandy.is)
+ - date published: 2023-11-29T14:25:42.608019+00:00
+ - user: None
+ - tags: ['personal']
+
+## The (Site of) Davis
+ - [https://thedav.is](https://thedav.is)
+ - date published: 2023-10-25T20:14:33.148978+00:00
+ - user: None
+ - tags: []
+
+## Time.is - exact time, any time zone
+ - [https://time.is](https://time.is)
+ - date published: 2023-10-25T20:14:35.850640+00:00
+ - user: None
+ - tags: []
+
+## timing blog
+ - [https://blog.timing.is](https://blog.timing.is)
+ - date published: 2023-10-25T20:14:37.573106+00:00
+ - user: None
+ - tags: []
+
+## tot.is - tiny original thoughts
+ - [https://tot.is](https://tot.is)
+ - date published: 2023-11-26T21:56:30.710870+00:00
+ - user: None
+ - tags: ['personal']
+
+## Forsíða - Vísir
+ - [https://www.visir.is](https://www.visir.is)
+ - date published: 2023-12-19T00:38:08.555606+00:00
+ - user: None
+ - tags: []
+
+## Open visual  development for the open web
+ - [https://webstudio.is](https://webstudio.is)
+ - date published: 2023-10-25T20:14:38.592018+00:00
+ - user: None
+ - tags: []
+
+## gavart.ist — 🌱 digital garden  🗂  work repository
+ - [https://gavart.ist](https://gavart.ist)
+ - date published: 2023-12-20T00:59:57.888289+00:00
+ - user: None
+ - tags: ['personal']
+
+## Amiga.it: le risorse Amiga in Italia
+ - [https://www.amiga.it](https://www.amiga.it)
+ - date published: 2024-01-09T03:33:34.657525+00:00
+ - user: None
+ - tags: []
+
+## Amigapage - Sito italiano dedicato ad Amiga
+ - [https://www.amigapage.it](https://www.amigapage.it)
+ - date published: 2023-11-02T09:47:56.546618+00:00
+ - user: None
+ - tags: ['amiga']
+
+## Agenzia ANSA: ultime notizie di cronaca, politica e sport - ANSA
+ - [https://www.ansa.it](https://www.ansa.it)
+ - date published: 2023-10-25T20:14:45.151180+00:00
+ - user: None
+ - tags: []
+
+## Aurelio De Rosa
+ - [https://www.audero.it](https://www.audero.it)
+ - date published: 2023-10-25T20:14:45.892675+00:00
+ - user: None
+ - tags: []
+
+## Wifi & Bed
+ - [https://bitslap.it](https://bitslap.it)
+ - date published: 2023-10-25T20:14:46.393122+00:00
+ - user: None
+ - tags: []
+
+## Can I Stream It?
+ - [https://www.canistream.it](https://www.canistream.it)
+ - date published: 2023-11-27T11:29:05+00:00
+ - user: rumpel
+ - tags: ['video streaming filter']
+
 ## Charanjit Chana, Associate Director & Head of Development
  - [https://charanj.it](https://charanj.it)
  - date published: 2024-01-02T03:37:07.145151+00:00
+ - user: None
+ - tags: []
+
+## Daniele's personal web site
+ - [https://www.danielediminica.it](https://www.danielediminica.it)
+ - date published: 2024-01-14T17:11:51.209804+00:00
  - user: None
  - tags: []
 
@@ -1738,6 +1906,12 @@
  - user: None
  - tags: []
 
+## Ioan Bizău
+ - [https://ibz.me](https://ibz.me)
+ - date published: 2024-01-14T17:12:26.725204+00:00
+ - user: None
+ - tags: []
+
 ## IndieWebify.Me - a guide to getting you on the IndieWeb
  - [https://indiewebify.me](https://indiewebify.me)
  - date published: 2023-12-11T16:20:06.205585+00:00
@@ -1864,6 +2038,12 @@
  - date published: 2023-10-25T08:57:12.664570+00:00
  - user: None
  - tags: ['personal']
+
+## Blog
+ - [https://blog.liallen.me](https://blog.liallen.me)
+ - date published: 2024-01-14T08:12:58.144221+00:00
+ - user: None
+ - tags: []
 
 ## 静水铭室 Silent Water and Curved Mountain
  - [https://liuliu.me](https://liuliu.me)
@@ -2272,6 +2452,12 @@
  - date published: 2023-11-29T14:20:14.061881+00:00
  - user: None
  - tags: ['personal']
+
+## Home — Scott Gruber
+ - [https://scottgruber.me](https://scottgruber.me)
+ - date published: 2024-01-14T17:12:43.021513+00:00
+ - user: None
+ - tags: []
 
 ## Scott James
  - [https://scottjames.me](https://scottjames.me)
@@ -3899,6 +4085,12 @@
  - user: None
  - tags: ['personal']
 
+## Error: Active domain connection for this domain not found
+ - [https://outside.bricin.net](https://outside.bricin.net)
+ - date published: 2024-01-14T08:12:48.437709+00:00
+ - user: None
+ - tags: []
+
 ## The Open Buddhist University @ A website dedicated to providing free, online courses and bibliographies in Buddhist Studies.
  - [https://buddhistuniversity.net](https://buddhistuniversity.net)
  - date published: 2023-10-25T20:26:55.453359+00:00
@@ -5381,6 +5573,12 @@
  - user: None
  - tags: ['personal']
 
+## jgoin
+ - [https://jgoin.net](https://jgoin.net)
+ - date published: 2024-01-14T17:11:21.730907+00:00
+ - user: None
+ - tags: []
+
 ## Jonathan Dowland
  - [https://jmtd.net](https://jmtd.net)
  - date published: 2023-10-25T08:52:51.054917+00:00
@@ -5801,202 +5999,4 @@
  - date published: 2023-10-25T09:23:15.450577+00:00
  - user: None
  - tags: ['personal']
-
-## Łukasz Wójcik, Blog
- - [https://blog.lukaszwojcik.net](https://blog.lukaszwojcik.net)
- - date published: 2024-01-01T09:41:19.790752+00:00
- - user: None
- - tags: []
-
-## Łukasz Wójcik - software engineer
- - [https://lukaszwojcik.net](https://lukaszwojcik.net)
- - date published: 2023-12-14T01:20:17.921823+00:00
- - user: None
- - tags: ['personal']
-
-## Lutris - Open Gaming Platform
- - [https://lutris.net](https://lutris.net)
- - date published: 2023-10-25T08:35:41.232931+00:00
- - user: None
- - tags: []
-
-## Luxagraf: thoughts on ecology, culture, travel, photography, walking and other ephemera
- - [https://luxagraf.net](https://luxagraf.net)
- - date published: 2024-01-09T11:07:21.549562+00:00
- - user: None
- - tags: []
-
-## Welcome to LWN.net [LWN.net]
- - [https://lwn.net](https://lwn.net)
- - date published: 2023-10-25T20:33:18.171971+00:00
- - user: None
- - tags: []
-
-## Amiga Graphics Archive
- - [https://amiga.lychesis.net](https://amiga.lychesis.net)
- - date published: 2023-10-30T10:13:32.873579+00:00
- - user: None
- - tags: ['amiga', 'retro games']
-
-## Home - Lyonsden Blog
- - [https://lyonsden.net](https://lyonsden.net)
- - date published: 2023-10-25T11:19:07.342674+00:00
- - user: None
- - tags: []
-
-## Introducing Cheetah: A Lightweight Virtual Machine Manager for macOS | Cheetah
- - [https://macspot.net](https://macspot.net)
- - date published: 2023-10-25T20:33:19.344039+00:00
- - user: None
- - tags: []
-
-## Mad Camp! (coming 2024 stay tuned)
- - [https://www.madcamp.net](https://www.madcamp.net)
- - date published: 2023-12-20T09:12:49.749827+00:00
- - user: None
- - tags: []
-
-## MADEBYAL
- - [https://www.madebyal.net](https://www.madebyal.net)
- - date published: 2023-11-29T14:44:40.937041+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.mannyvallarino.net](https://www.mannyvallarino.net)
- - date published: 2023-12-14T01:27:54.207135+00:00
- - user: None
- - tags: ['personal']
-
-## Man Things
- - [https://manthings.net](https://manthings.net)
- - date published: 2024-01-04T03:32:56.183567+00:00
- - user: None
- - tags: []
-
-## The Map of the Universe
- - [https://mapoftheuniverse.net](https://mapoftheuniverse.net)
- - date published: 2023-10-25T08:25:19.111191+00:00
- - user: None
- - tags: []
-
-## N=1 (marcua’s blog) | I’m the Co-Founder and CTO of B12, where we’re building a better future of creative and analytical work. Before that, I was Director of Data at Locu, a startup that was acquired by GoDaddy. I went to grad school at MIT’s CSAIL. One time in Jerusalem I ate a whole tub of hummus on my own. I don’t regret that day.
- - [https://blog.marcua.net](https://blog.marcua.net)
- - date published: 2023-10-25T20:33:20.374918+00:00
- - user: None
- - tags: []
-
-## Marijuana Moment - All your cannabis news, in one place
- - [https://www.marijuanamoment.net](https://www.marijuanamoment.net)
- - date published: 2023-10-25T20:33:26.925572+00:00
- - user: None
- - tags: []
-
-## Mark Carrigan
- - [https://markcarrigan.net](https://markcarrigan.net)
- - date published: 2023-11-21T11:09:36.282019+00:00
- - user: None
- - tags: ['blog', 'personal']
-
-## Mark Smart
- - [http://www.marksmart.net](http://www.marksmart.net)
- - date published: 2023-11-15T17:40:13.256468+00:00
- - user: None
- - tags: ['personal']
-
-## The No-9to5-Guy Austria > Remote work and flexible lifestyle!
- - [https://www.markusraab.net](https://www.markusraab.net)
- - date published: 2023-11-29T14:41:21.924083+00:00
- - user: None
- - tags: ['personal']
-
-## MathOverflow
- - [https://mathoverflow.net](https://mathoverflow.net)
- - date published: 2023-10-25T20:33:30.026920+00:00
- - user: None
- - tags: []
-
-## Recent Discussions - Matrix Fans Official Forum
- - [https://forums.matrixfans.net](https://forums.matrixfans.net)
- - date published: 2023-10-25T16:24:25.044961+00:00
- - user: None
- - tags: []
-
-## Matrix Fans - The Matrix Resurrections News, Trailers, Posters
- - [https://www.matrixfans.net](https://www.matrixfans.net)
- - date published: 2023-10-25T16:23:48.175925+00:00
- - user: None
- - tags: []
-
-## Matt Wynne
- - [https://mattwynne.net](https://mattwynne.net)
- - date published: 2023-10-25T08:53:05.442698+00:00
- - user: None
- - tags: ['personal']
-
-## Maze Generator
- - [https://mazegenerator.net](https://mazegenerator.net)
- - date published: 2023-12-22T09:11:08+00:00
- - user: None
- - tags: []
-
-## McSweeney’s Internet Tendency
- - [https://www.mcsweeneys.net](https://www.mcsweeneys.net)
- - date published: 2023-10-25T20:33:32.469274+00:00
- - user: None
- - tags: []
-
-## MCToon
- - [https://mctoon.net](https://mctoon.net)
- - date published: 2023-10-25T20:33:39.743559+00:00
- - user: None
- - tags: ['flat earth']
-
-## Medievalists.net - Where the Middle Ages Begin
- - [https://www.medievalists.net](https://www.medievalists.net)
- - date published: 2023-10-25T20:33:42.220747+00:00
- - user: None
- - tags: []
-
-## Men Rights India - Fight against Legal Terrorism
- - [https://menrightsindia.net](https://menrightsindia.net)
- - date published: 2023-10-25T20:33:43.991054+00:00
- - user: None
- - tags: []
-
-## MenuetOS
- - [https://menuetos.net](https://menuetos.net)
- - date published: 2023-10-25T08:32:01.277687+00:00
- - user: None
- - tags: []
-
-## MenuetOS
- - [https://www.menuetos.net](https://www.menuetos.net)
- - date published: 2023-10-29T22:06:17.393907+00:00
- - user: None
- - tags: []
-
-## mess with dns
- - [https://messwithdns.net](https://messwithdns.net)
- - date published: 2023-10-25T20:33:44.669726+00:00
- - user: None
- - tags: []
-
-## Heavy Metal News, Music Videos, Tour Dates - Metal Injection
- - [https://metalinjection.net](https://metalinjection.net)
- - date published: 2023-11-02T09:14:46.967961+00:00
- - user: None
- - tags: []
-
-## Metal Storm
- - [https://metalstorm.net](https://metalstorm.net)
- - date published: 2023-11-02T09:15:21.901367+00:00
- - user: None
- - tags: []
-
-## https://metaltoilet.net
- - [https://metaltoilet.net](https://metaltoilet.net)
- - date published: 2023-10-25T20:33:45.878115+00:00
- - user: None
- - tags: []
 

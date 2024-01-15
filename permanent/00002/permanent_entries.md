@@ -1,3 +1,27 @@
+## Avatartion - Create Your Notion-Style Avatar
+ - [https://www.avatartion.com](https://www.avatartion.com)
+ - date published: 2023-10-25T12:49:56.329217+00:00
+ - user: None
+ - tags: []
+
+## AVC - Musings of a VC in NYC
+ - [https://avc.com](https://avc.com)
+ - date published: 2023-10-25T12:49:58.577974+00:00
+ - user: None
+ - tags: []
+
+## The A.V. Club | Pop culture obsessives writing for the pop culture obsessed.
+ - [https://www.avclub.com](https://www.avclub.com)
+ - date published: 2023-10-25T12:50:03.407757+00:00
+ - user: None
+ - tags: []
+
+## HITTCUTE
+ - [https://www.avecute.com](https://www.avecute.com)
+ - date published: 2023-11-17T23:43:53.942541+00:00
+ - user: None
+ - tags: []
+
 ## averylaird.com
  - [https://www.averylaird.com](https://www.averylaird.com)
  - date published: 2023-12-26T17:42:47.963845+00:00
@@ -5608,6 +5632,12 @@
  - user: None
  - tags: ['personal']
 
+## Clarkesworld Magazine - Science Fiction & Fantasy
+ - [https://clarkesworldmagazine.com](https://clarkesworldmagazine.com)
+ - date published: 2024-01-14T17:35:51.424521+00:00
+ - user: None
+ - tags: []
+
 ## Clash Magazine Music News, Reviews & Interviews
  - [https://www.clashmusic.com](https://www.clashmusic.com)
  - date published: 2023-10-25T13:25:34.751984+00:00
@@ -5971,36 +6001,6 @@
 ## Breaking News, Latest News and Videos | CNN
  - [https://edition.cnn.com](https://edition.cnn.com)
  - date published: 2023-10-25T10:25:37.123636+00:00
- - user: None
- - tags: []
-
-## Breaking News, Latest News and Videos | CNN
- - [https://lite.cnn.com](https://lite.cnn.com)
- - date published: 2023-10-25T10:25:40.608108+00:00
- - user: None
- - tags: []
-
-## Business News - Latest Headlines on CNN Business | CNN Business
- - [https://money.cnn.com](https://money.cnn.com)
- - date published: 2023-10-25T10:25:51.898732+00:00
- - user: None
- - tags: []
-
-## None
- - [https://rss.cnn.com](https://rss.cnn.com)
- - date published: 2024-01-09T02:32:21.836666+00:00
- - user: None
- - tags: []
-
-## Breaking News, Latest News and Videos | CNN
- - [https://us.cnn.com](https://us.cnn.com)
- - date published: 2024-01-02T12:59:15.005555+00:00
- - user: None
- - tags: []
-
-## Breaking News, Latest News and Videos | CNN
- - [https://www.cnn.com](https://www.cnn.com)
- - date published: 2023-10-25T10:25:59.473108+00:00
  - user: None
  - tags: []
 

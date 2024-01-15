@@ -1,3 +1,244 @@
+## Recent Discussions
+ - [https://forums.zotero.org](https://forums.zotero.org)
+ - date published: 2023-12-25T09:44:04.914656+00:00
+ - user: None
+ - tags: []
+
+## Zotero | Your personal research assistant
+ - [https://www.zotero.org](https://www.zotero.org)
+ - date published: 2023-11-26T16:42:13+00:00
+ - user: rumpel
+ - tags: ['bookmark manager']
+
+## Mike's corner of the web
+ - [https://mike.zwobble.org](https://mike.zwobble.org)
+ - date published: 2023-10-25T08:57:19.563236+00:00
+ - user: None
+ - tags: ['personal']
+
+## Interdependent Thoughts – by Ton Zĳlstra
+ - [https://www.zylstra.org](https://www.zylstra.org)
+ - date published: 2023-10-25T22:24:12.190484+00:00
+ - user: None
+ - tags: []
+
+## Galaxy Simulation
+ - [https://galaxym.ovh](https://galaxym.ovh)
+ - date published: 2023-10-25T22:24:12.588967+00:00
+ - user: None
+ - tags: []
+
+## mcilloni's blog · A simple blog for rather complicated topics
+ - [https://mcilloni.ovh](https://mcilloni.ovh)
+ - date published: 2023-10-25T22:24:15.437330+00:00
+ - user: None
+ - tags: []
+
+## Neowutran
+ - [https://neowutran.ovh](https://neowutran.ovh)
+ - date published: 2023-12-18T13:57:19.767633+00:00
+ - user: None
+ - tags: ['personal']
+
+## ⌨️🤷🏻‍♂️📷
+ - [https://andys.page](https://andys.page)
+ - date published: 2023-10-25T22:24:16.171341+00:00
+ - user: None
+ - tags: []
+
+## Ben Borgers
+ - [https://ben.page](https://ben.page)
+ - date published: 2024-01-09T17:04:04.047326+00:00
+ - user: None
+ - tags: []
+
+## Chris Lu
+ - [https://chrislu.page](https://chrislu.page)
+ - date published: 2023-10-25T22:24:17.652952+00:00
+ - user: None
+ - tags: []
+
+## Bonjour, je suis Anaël Verdier,
+ - [https://anael-verdier.ck.page](https://anael-verdier.ck.page)
+ - date published: 2023-12-11T16:24:10.764815+00:00
+ - user: None
+ - tags: []
+
+## Jean G3nie
+ - [https://jeang3nie.codeberg.page](https://jeang3nie.codeberg.page)
+ - date published: 2023-10-25T22:24:18.487570+00:00
+ - user: None
+ - tags: []
+
+## Lup Yuen LEE
+ - [https://lupyuen.codeberg.page](https://lupyuen.codeberg.page)
+ - date published: 2023-10-25T22:24:23.126536+00:00
+ - user: None
+ - tags: []
+
+## Please don't upload my code on GitHub
+ - [https://nogithub.codeberg.page](https://nogithub.codeberg.page)
+ - date published: 2023-10-25T22:24:23.766571+00:00
+ - user: None
+ - tags: []
+
+## David Tang - Your guide to navigating health challenges
+ - [https://www.davidtang.page](https://www.davidtang.page)
+ - date published: 2023-11-29T14:25:33.842704+00:00
+ - user: None
+ - tags: ['personal']
+
+## Downfall
+ - [https://downfall.page](https://downfall.page)
+ - date published: 2023-10-25T22:24:25.474487+00:00
+ - user: None
+ - tags: []
+
+## Fetcher
+ - [https://www.fetcher.page](https://www.fetcher.page)
+ - date published: 2023-10-25T22:24:26.273886+00:00
+ - user: None
+ - tags: []
+
+## Ignore This Page
+ - [https://ignorethis.page](https://ignorethis.page)
+ - date published: 2024-01-02T10:20:21.903538+00:00
+ - user: None
+ - tags: []
+
+## Ishan Das Sharma
+ - [https://ishan.page](https://ishan.page)
+ - date published: 2023-11-08T04:59:12.690853+00:00
+ - user: None
+ - tags: ['personal']
+
+## Juliette's Café – My lil blog
+ - [https://juliette.page](https://juliette.page)
+ - date published: 2024-01-09T03:43:21.081260+00:00
+ - user: None
+ - tags: []
+
+## Kaustubh Maske Patil
+ - [https://kaustubh.page](https://kaustubh.page)
+ - date published: 2023-12-20T05:39:13.757904+00:00
+ - user: None
+ - tags: ['personal']
+
+## paulo pinto dot page
+ - [https://paulopinto.page](https://paulopinto.page)
+ - date published: 2023-12-08T08:32:27.632081+00:00
+ - user: None
+ - tags: ['personal']
+
+## Postcard
+ - [https://postcard.page](https://postcard.page)
+ - date published: 2023-10-25T22:24:37.222590+00:00
+ - user: None
+ - tags: []
+
+## Buffer
+ - [https://buffer.start.page](https://buffer.start.page)
+ - date published: 2023-11-19T15:19:04.082607+00:00
+ - user: None
+ - tags: []
+
+## Superfunctions - Ai Prompts as a service
+ - [https://superfunctions.versoly.page](https://superfunctions.versoly.page)
+ - date published: 2023-10-25T22:24:38.792551+00:00
+ - user: None
+ - tags: []
+
+## benoit.paris
+ - [https://benoit.paris](https://benoit.paris)
+ - date published: 2023-10-25T22:24:39.468739+00:00
+ - user: None
+ - tags: []
+
+## La tour Eiffel, Site OFFICIEL : billets, infos, actualité....
+ - [https://www.toureiffel.paris](https://www.toureiffel.paris)
+ - date published: 2023-10-25T22:24:41.407683+00:00
+ - user: None
+ - tags: []
+
+## Next Wave Partners | Venture Studio | Growth Accelerator | Innovation Lab
+ - [https://nextwave.partners](https://nextwave.partners)
+ - date published: 2023-10-25T22:24:43.531032+00:00
+ - user: None
+ - tags: []
+
+## Engine Simulator
+ - [https://www.engine-sim.parts](https://www.engine-sim.parts)
+ - date published: 2023-10-25T22:24:44.453129+00:00
+ - user: None
+ - tags: []
+
+## Human Chess - chess variant where playing the top engine move
+is forbidden
+ - [https://humanchess.abcd.party](https://humanchess.abcd.party)
+ - date published: 2023-10-25T22:24:44.942470+00:00
+ - user: None
+ - tags: []
+
+## Show HN: A Dalle-3 and GPT4-Vision feedback loop
+ - [https://dalle.party](https://dalle.party)
+ - date published: 2023-11-27T14:18:24+00:00
+ - user: None
+ - tags: []
+
+## Tiny Code Christmas
+ - [https://tcc.lovebyte.party](https://tcc.lovebyte.party)
+ - date published: 2023-10-25T22:24:45.776384+00:00
+ - user: None
+ - tags: []
+
+## Matthew Pope
+ - [https://mattpo.pe](https://mattpo.pe)
+ - date published: 2023-10-25T22:24:47.280695+00:00
+ - user: None
+ - tags: []
+
+## Daily Tribune
+ - [https://tribune.net.ph](https://tribune.net.ph)
+ - date published: 2023-12-16T10:37:57.398069+00:00
+ - user: None
+ - tags: []
+
+## Internet Archive
+ - [https://archive.ph](https://archive.ph)
+ - date published: 2023-11-13T12:03:03+00:00
+ - user: rumpel
+ - tags: ['internet archive']
+
+## Telegraph
+ - [https://telegra.ph](https://telegra.ph)
+ - date published: 2023-10-25T22:24:48.190795+00:00
+ - user: None
+ - tags: []
+
+## https://ansel.photos/en/
+ - [https://ansel.photos](https://ansel.photos)
+ - date published: 2023-11-25T12:28:56.428069+00:00
+ - user: None
+ - tags: []
+
+## Generated Photos | Unique, worry-free model photos
+ - [https://generated.photos](https://generated.photos)
+ - date published: 2023-10-25T22:24:50.468939+00:00
+ - user: None
+ - tags: []
+
+## Show HN: AnyText AI – Multilingual text generation and editing tool
+ - [https://anytext.pics](https://anytext.pics)
+ - date published: 2024-01-07T15:38:08+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://commit.pizza](https://commit.pizza)
+ - date published: 2024-01-09T03:43:23.556943+00:00
+ - user: None
+ - tags: []
+
 ## Daniël van der Winden • Product Designer, Writer
  - [https://www.daniel.pizza](https://www.daniel.pizza)
  - date published: 2024-01-05T16:52:00.190425+00:00
@@ -5376,6 +5617,12 @@ conflicts of interest and restore Community Trust.
  - user: None
  - tags: []
 
+## The EXT Store
+ - [https://ext.store](https://ext.store)
+ - date published: 2024-01-14T21:20:10.623612+00:00
+ - user: None
+ - tags: []
+
 ## Meatcanyon
  - [https://meatcanyon.store](https://meatcanyon.store)
  - date published: 2023-12-12T08:26:51+00:00
@@ -5759,252 +6006,6 @@ conflicts of interest and restore Community Trust.
 ## Leporello.js · Interactive functional programming IDE for JavaScript
  - [https://leporello.tech](https://leporello.tech)
  - date published: 2023-10-25T22:44:34.491251+00:00
- - user: None
- - tags: []
-
-## Lewis Campbell Tech
- - [https://lewiscampbell.tech](https://lewiscampbell.tech)
- - date published: 2023-11-12T18:27:09.724007+00:00
- - user: None
- - tags: []
-
-## C and C++ Hot-Reload/Live Coding
- - [https://liveplusplus.tech](https://liveplusplus.tech)
- - date published: 2024-01-03T17:20:30+00:00
- - user: None
- - tags: []
-
-## We are Manas
- - [https://manas.tech](https://manas.tech)
- - date published: 2023-10-26T06:39:43.427836+00:00
- - user: None
- - tags: []
-
-## mapc.tech
- - [https://www.mapc.tech](https://www.mapc.tech)
- - date published: 2024-01-01T03:39:33.011078+00:00
- - user: None
- - tags: []
-
-## Mark writes: Mark Damon Hughes blogs about tech and everything else
- - [https://mdhughes.tech](https://mdhughes.tech)
- - date published: 2023-11-29T14:24:33.031475+00:00
- - user: None
- - tags: ['personal']
-
-## Home | Modos
- - [https://www.modos.tech](https://www.modos.tech)
- - date published: 2023-10-25T22:44:40.523599+00:00
- - user: None
- - tags: []
-
-## Neon — Serverless, Fault-Tolerant, Branchable Postgres
- - [https://neon.tech](https://neon.tech)
- - date published: 2023-10-25T22:44:42.493550+00:00
- - user: None
- - tags: []
-
-## Nothing (United States)
- - [https://us.nothing.tech](https://us.nothing.tech)
- - date published: 2023-10-25T22:44:45.536178+00:00
- - user: None
- - tags: []
-
-## https://report.opensustain.tech
- - [https://report.opensustain.tech](https://report.opensustain.tech)
- - date published: 2024-01-09T03:47:35.670823+00:00
- - user: None
- - tags: []
-
-## Pablo Fernandez – Entrepreneur, geek, manager, coder, maker, aspiring book author.
- - [https://pablofernandez.tech](https://pablofernandez.tech)
- - date published: 2023-11-29T20:43:37.021626+00:00
- - user: None
- - tags: ['personal']
-
-## Qdrant - Vector Database
- - [https://qdrant.tech](https://qdrant.tech)
- - date published: 2023-10-25T22:44:47.684444+00:00
- - user: None
- - tags: []
-
-## rabbit — home
- - [https://www.rabbit.tech](https://www.rabbit.tech)
- - date published: 2024-01-09T19:01:02.734374+00:00
- - user: None
- - tags: []
-
-## Sanket Shanbhag
- - [https://sanket.tech](https://sanket.tech)
- - date published: 2023-10-25T08:57:30.024022+00:00
- - user: None
- - tags: ['personal']
-
-## Silent Flyer – A Birdlike Drone
- - [https://www.silentflyer.tech](https://www.silentflyer.tech)
- - date published: 2023-12-30T21:04:49+00:00
- - user: None
- - tags: []
-
-## spiffytech
- - [https://spiffy.tech](https://spiffy.tech)
- - date published: 2023-10-25T22:44:49.054342+00:00
- - user: None
- - tags: []
-
-## None
- - [https://dispatch.techlore.tech](https://dispatch.techlore.tech)
- - date published: 2024-01-09T03:47:45.985886+00:00
- - user: None
- - tags: []
-
-## Thomas Sojka
- - [https://thomas-sojka.tech](https://thomas-sojka.tech)
- - date published: 2023-11-29T15:45:59.704607+00:00
- - user: None
- - tags: ['personal']
-
-## Vladimir Klepov as a Coder
- - [https://blog.thoughtspile.tech](https://blog.thoughtspile.tech)
- - date published: 2023-10-25T22:44:49.893333+00:00
- - user: None
- - tags: []
-
-## Learn Building Modern Go applications - Three Dots Labs blog
- - [https://threedots.tech](https://threedots.tech)
- - date published: 2023-11-01T08:44:41.241942+00:00
- - user: None
- - tags: []
-
-## TinyVG Vector Graphics
- - [https://tinyvg.tech](https://tinyvg.tech)
- - date published: 2023-10-27T12:07:55.561755+00:00
- - user: None
- - tags: []
-
-## ToolHub · Online webtools
- - [https://toolhub.tech](https://toolhub.tech)
- - date published: 2023-10-27T12:07:58.014742+00:00
- - user: None
- - tags: []
-
-## Welcome to the virtual Computer Museum Project
- - [https://museum.trialanderror.tech](https://museum.trialanderror.tech)
- - date published: 2024-01-11T16:03:43.195482+00:00
- - user: None
- - tags: []
-
-## TRIBAL KNOWLEDGE - Knowledge Sharing Process Automation
- - [https://www.tribalknowledge.tech](https://www.tribalknowledge.tech)
- - date published: 2023-10-27T12:08:00.055280+00:00
- - user: None
- - tags: []
-
-## Turso Blog
- - [https://blog.turso.tech](https://blog.turso.tech)
- - date published: 2023-10-25T10:23:55.028481+00:00
- - user: None
- - tags: []
-
-## Unstructed.tech
- - [https://unstructed.tech](https://unstructed.tech)
- - date published: 2023-10-27T12:08:02.752207+00:00
- - user: None
- - tags: []
-
-## /uses
- - [https://uses.tech](https://uses.tech)
- - date published: 2023-10-27T12:08:40.398803+00:00
- - user: None
- - tags: []
-
-## Abstract Machinist
- - [https://voidstar.tech](https://voidstar.tech)
- - date published: 2023-10-27T12:08:41.186511+00:00
- - user: None
- - tags: []
-
-## Winny's Blog
- - [https://blog.winny.tech](https://blog.winny.tech)
- - date published: 2023-10-25T09:24:51.352755+00:00
- - user: None
- - tags: ['personal']
-
-## https://pranshum.yarn.tech
- - [https://pranshum.yarn.tech](https://pranshum.yarn.tech)
- - date published: 2023-10-27T12:08:42.161041+00:00
- - user: None
- - tags: []
-
-## Zuru Tech - Changing the way we build
- - [https://zuru.tech](https://zuru.tech)
- - date published: 2023-10-27T12:08:43.088416+00:00
- - user: None
- - tags: []
-
-## the greg technology blog
- - [https://blog.greg.technology](https://blog.greg.technology)
- - date published: 2024-01-02T19:55:59.856399+00:00
- - user: None
- - tags: []
-
-## Show HN: I Remade the Fake Google Gemini Demo, Except Using GPT-4 and It's Real
- - [https://sagittarius.greg.technology](https://sagittarius.greg.technology)
- - date published: 2023-12-11T02:17:39+00:00
- - user: None
- - tags: []
-
-## The Stack
- - [https://thestack.technology](https://thestack.technology)
- - date published: 2023-10-27T12:08:49.317432+00:00
- - user: None
- - tags: []
-
-## The Stack
- - [https://www.thestack.technology](https://www.thestack.technology)
- - date published: 2023-10-27T12:08:50.148423+00:00
- - user: None
- - tags: []
-
-## blog.dave.tf
- - [https://blog.dave.tf](https://blog.dave.tf)
- - date published: 2023-10-25T09:24:52.465504+00:00
- - user: None
- - tags: ['personal']
-
-## Introduction - ThreeFold Manual
- - [https://manual.grid.tf](https://manual.grid.tf)
- - date published: 2023-12-02T21:50:58.594420+00:00
- - user: None
- - tags: []
-
-## CFAO Motors - Citroën Togo
- - [https://www.citroen.tg](https://www.citroen.tg)
- - date published: 2023-12-11T15:50:19.469225+00:00
- - user: None
- - tags: []
-
-## พิพิธภัณฑสถานแห่งชาติ
- - [http://www.virtualmuseum.finearts.go.th](http://www.virtualmuseum.finearts.go.th)
- - date published: 2023-11-13T13:43:42.490087+00:00
- - user: None
- - tags: ['museum']
-
-## notes.dt.in.th | notes.dt.in.th
- - [https://notes.dt.in.th](https://notes.dt.in.th)
- - date published: 2023-10-25T22:46:03.059073+00:00
- - user: None
- - tags: []
-
-## DX Tips: The DevTools Magazine
- - [https://dx.tips](https://dx.tips)
- - date published: 2023-10-25T22:46:09.880882+00:00
- - user: None
- - tags: []
-
-## Fedi.Tips – An Unofficial Guide to Mastodon and the Fediverse
- - [https://fedi.tips](https://fedi.tips)
- - date published: 2023-10-25T22:46:12.057334+00:00
  - user: None
  - tags: []
 

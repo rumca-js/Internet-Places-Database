@@ -1,3 +1,111 @@
+## Six Colors – Apple, technology, and other stuff by Jason Snell & Dan Moren
+ - [https://sixcolors.com](https://sixcolors.com)
+ - date published: 2023-10-25T17:05:14.070957+00:00
+ - user: None
+ - tags: []
+
+## Six Degrees of Wikipedia
+ - [https://www.sixdegreesofwikipedia.com](https://www.sixdegreesofwikipedia.com)
+ - date published: 2023-12-20T20:26:43+00:00
+ - user: None
+ - tags: []
+
+## Python web application development and cloud management services
+ - [https://sixfeetup.com](https://sixfeetup.com)
+ - date published: 2023-10-25T17:05:25.383126+00:00
+ - user: None
+ - tags: []
+
+## The State Journal-Register: Local News, Politics & Sports in Springfield, IL
+ - [https://www.sj-r.com](https://www.sj-r.com)
+ - date published: 2023-10-27T11:55:41.059970+00:00
+ - user: None
+ - tags: []
+
+## The San Joaquin Valley Sun - Central Valley breaking news, sports, lifestyle, and agriculture
+ - [https://sjvsun.com](https://sjvsun.com)
+ - date published: 2023-12-29T09:35:40.857966+00:00
+ - user: None
+ - tags: []
+
+## skagmo.com
+ - [https://skagmo.com](https://skagmo.com)
+ - date published: 2023-10-27T11:55:42.413804+00:00
+ - user: None
+ - tags: []
+
+## Grzegorz Skaruz - Senior Salesforce Developer / Consultant
+ - [https://skaruz.com](https://skaruz.com)
+ - date published: 2024-01-02T18:29:22.786773+00:00
+ - user: None
+ - tags: []
+
+## Stanislav (Stas) Katkov
+ - [https://skatkov.com](https://skatkov.com)
+ - date published: 2023-12-26T19:10:06.720403+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sketchfab - The best 3D viewer on the web
+ - [https://sketchfab.com](https://sketchfab.com)
+ - date published: 2023-10-27T10:26:31.358910+00:00
+ - user: None
+ - tags: ['assets models', '3d printing']
+
+## 3D Warehouse
+ - [https://3dwarehouse.sketchup.com](https://3dwarehouse.sketchup.com)
+ - date published: 2023-10-27T10:30:39.685349+00:00
+ - user: None
+ - tags: ['assets models', '3d printing']
+
+## Skiff - Private, encrypted, secure email - 10 GB free
+ - [https://skiff.com](https://skiff.com)
+ - date published: 2023-10-25T17:05:52.635675+00:00
+ - user: None
+ - tags: []
+
+## https://www.skillshare.com
+ - [https://www.skillshare.com](https://www.skillshare.com)
+ - date published: 2023-10-24T20:19:37.469993+00:00
+ - user: None
+ - tags: ['tutorials']
+
+## None
+ - [https://www.skillztruth.com](https://www.skillztruth.com)
+ - date published: 2024-01-09T02:49:03.209005+00:00
+ - user: None
+ - tags: []
+
+## skio: subscriptions for shopify
+ - [https://skio.com](https://skio.com)
+ - date published: 2023-10-25T17:05:56.544814+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Skippy.com - Home of Percy Crosby's lovable "Skippy" character
+ - [http://www.skippy.com](http://www.skippy.com)
+ - date published: 2023-10-25T17:05:57.442936+00:00
+ - user: None
+ - tags: []
+
+## Škoda Auto a.s. | The International Website
+ - [https://skoda-auto.com](https://skoda-auto.com)
+ - date published: 2023-11-03T13:13:05.594047+00:00
+ - user: None
+ - tags: ['car producer']
+
+## Skorks
+ - [https://skorks.com](https://skorks.com)
+ - date published: 2023-10-25T17:05:59.705764+00:00
+ - user: None
+ - tags: []
+
+## Skrillex | Official Website
+ - [https://www.skrillex.com](https://www.skrillex.com)
+ - date published: 2023-11-13T09:55:50.781194+00:00
+ - user: None
+ - tags: ['music band']
+
 ## Mobile solutions for warehousing, fulfillment, and shipping | SKUSavvy
  - [https://skusavvy.com](https://skusavvy.com)
  - date published: 2023-10-25T17:06:01.743430+00:00
@@ -2224,6 +2332,12 @@
  - date published: 2023-11-29T15:51:34.281370+00:00
  - user: None
  - tags: ['personal']
+
+## StudioBinder: Project Management for Video Professionals
+ - [https://www.studiobinder.com](https://www.studiobinder.com)
+ - date published: 2024-01-14T18:50:49.716879+00:00
+ - user: None
+ - tags: []
 
 ## study.com
  - [https://study.com](https://study.com)
@@ -4709,6 +4823,12 @@
  - user: None
  - tags: ['substack']
 
+## https://techtalksweekly.substack.com
+ - [https://techtalksweekly.substack.com](https://techtalksweekly.substack.com)
+ - date published: 2024-01-14T11:06:13.211779+00:00
+ - user: None
+ - tags: []
+
 ## The Honest Broker | Ted Gioia | Substack
  - [https://tedgioia.substack.com](https://tedgioia.substack.com)
  - date published: 2023-10-25T10:05:14.471020+00:00
@@ -5158,6 +5278,12 @@
  - date published: 2023-12-21T03:32:47.538203+00:00
  - user: None
  - tags: ['personal']
+
+## Sulthan Allaudeen
+ - [https://sulthanallaudeen.com](https://sulthanallaudeen.com)
+ - date published: 2024-01-14T08:12:37.599653+00:00
+ - user: None
+ - tags: []
 
 ## Index of /
  - [https://whatcolorisit.sumbioun.com](https://whatcolorisit.sumbioun.com)
@@ -5870,132 +5996,6 @@
 ## Tasshin
  - [https://tasshin.com](https://tasshin.com)
  - date published: 2023-10-25T17:23:31.495484+00:00
- - user: None
- - tags: []
-
-## World Food Atlas: Discover 16951 Local Dishes & Ingredients
- - [https://www.tasteatlas.com](https://www.tasteatlas.com)
- - date published: 2023-10-25T17:23:32.165427+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.tatteredcover.com](https://www.tatteredcover.com)
- - date published: 2024-01-09T02:49:53.203945+00:00
- - user: None
- - tags: []
-
-## Shayne Boyer
- - [https://tattoocoder.com](https://tattoocoder.com)
- - date published: 2023-10-25T08:58:21.323432+00:00
- - user: None
- - tags: ['personal']
-
-## AI-powered Tattoo Generator: Your Personal Tattoo Artist | TattoosAI
- - [https://www.tattoosai.com](https://www.tattoosai.com)
- - date published: 2023-10-25T17:23:32.690634+00:00
- - user: None
- - tags: []
-
-## 兴安盟扰晒教育咨询有限公司
- - [http://www.tatyanadiamantine.com](http://www.tatyanadiamantine.com)
- - date published: 2023-11-29T17:08:07.618968+00:00
- - user: None
- - tags: ['personal']
-
-## Home - tavianator.com
- - [https://tavianator.com](https://tavianator.com)
- - date published: 2023-10-25T17:23:34.213313+00:00
- - user: None
- - tags: []
-
-## Tax Heaven 3000
- - [https://taxheaven3000.com](https://taxheaven3000.com)
- - date published: 2023-10-25T17:23:40.756623+00:00
- - user: None
- - tags: []
-
-## Taylor & Francis Newsroom - Global research making the news
- - [https://newsroom.taylorandfrancisgroup.com](https://newsroom.taylorandfrancisgroup.com)
- - date published: 2023-12-22T12:19:01.091178+00:00
- - user: None
- - tags: []
-
-## Thunder Bay News
- - [https://www.tbnewswatch.com](https://www.tbnewswatch.com)
- - date published: 2023-11-02T14:58:38.717251+00:00
- - user: None
- - tags: []
-
-## Warner Bros. Discovery
- - [https://tbs.com](https://tbs.com)
- - date published: 2023-10-25T15:07:05.133530+00:00
- - user: None
- - tags: []
-
-## T.C. Elliott – Music, Songwriting and Art
- - [https://tcelliottmusic.com](https://tcelliottmusic.com)
- - date published: 2023-12-17T20:58:49.946629+00:00
- - user: None
- - tags: ['personal']
-
-## The Tcherepnin Society Website - Welcome!
- - [https://www.tcherepnin.com](https://www.tcherepnin.com)
- - date published: 2023-10-25T11:13:53.299542+00:00
- - user: None
- - tags: []
-
-## brandsite Home
- - [https://www.tcl.com](https://www.tcl.com)
- - date published: 2023-12-08T07:53:20+00:00
- - user: rumpel
- - tags: ['hardware company']
-
-## TCPAWorld – The World of the Telephone Consumer Protection Act
- - [https://tcpaworld.com](https://tcpaworld.com)
- - date published: 2023-10-25T17:23:43.563219+00:00
- - user: None
- - tags: []
-
-## Thomas Derflinger Blog
- - [https://tderflinger.com](https://tderflinger.com)
- - date published: 2023-10-25T17:23:45.930231+00:00
- - user: None
- - tags: []
-
-## Tea and Tech Time – Tech projects to read over your afternoon tea
- - [https://teaandtechtime.com](https://teaandtechtime.com)
- - date published: 2023-10-25T17:23:51.944870+00:00
- - user: None
- - tags: []
-
-## Teachfloor: The leading social learning platform
- - [https://www.teachfloor.com](https://www.teachfloor.com)
- - date published: 2023-10-25T17:23:53.514633+00:00
- - user: None
- - tags: []
-
-## Team-BHP - India's Most Trusted Car Reviews & News
- - [https://www.team-bhp.com](https://www.team-bhp.com)
- - date published: 2023-10-25T17:23:57.686441+00:00
- - user: None
- - tags: []
-
-## Team17 | Indie Games developed by Independent Developers
- - [https://www.team17.com](https://www.team17.com)
- - date published: 2023-11-01T13:30:58.364849+00:00
- - user: None
- - tags: ['retro games', 'amiga', 'company', 'game studio']
-
-## Blind - The #1 Tech Career Community - Blind
- - [https://www.teamblind.com](https://www.teamblind.com)
- - date published: 2023-10-25T17:24:03.818771+00:00
- - user: None
- - tags: []
-
-## Team BRG | Gaming guides and coverage
- - [https://teambrg.com](https://teambrg.com)
- - date published: 2023-12-13T16:22:56.736564+00:00
  - user: None
  - tags: []
 
