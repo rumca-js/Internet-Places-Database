@@ -10,24 +10,6 @@
  - user: None
  - tags: []
 
-## The Grumpy Economist
- - [https://johnhcochrane.blogspot.com.](https://johnhcochrane.blogspot.com.)
- - date published: 2024-01-01T15:01:45.228241+00:00
- - user: None
- - tags: []
-
-## Kristiania
- - [https://kristiania.no.](https://kristiania.no.)
- - date published: 2023-12-13T11:22:44.862076+00:00
- - user: None
- - tags: ['personal']
-
-## Sort: Supercharged collaboration for your database
- - [https://sort.xyz.](https://sort.xyz.)
- - date published: 2023-11-01T23:07:07.991006+00:00
- - user: None
- - tags: []
-
 ## Kern Type
  - [https://type.method.ac](https://type.method.ac)
  - date published: 2023-10-25T08:31:02.163535+00:00
@@ -103,6 +85,12 @@
 ## Home | Times Aerospace
  - [https://www.timesaerospace.aero](https://www.timesaerospace.aero)
  - date published: 2023-10-25T10:58:58.652022+00:00
+ - user: None
+ - tags: []
+
+## Howdy - Paul's Weblog
+ - [https://paul.af](https://paul.af)
+ - date published: 2024-01-15T06:16:49.509268+00:00
  - user: None
  - tags: []
 
@@ -2446,6 +2434,12 @@
  - user: None
  - tags: []
 
+## Songkeys
+ - [https://song.xlog.app](https://song.xlog.app)
+ - date published: 2024-01-15T14:06:39.285330+00:00
+ - user: None
+ - tags: []
+
 ## Show HN: Python-Type-Challenges, master Python typing with online exercises
  - [https://python-type-challenges.zeabur.app](https://python-type-challenges.zeabur.app)
  - date published: 2023-11-29T06:38:03+00:00
@@ -4415,9 +4409,21 @@
  - user: None
  - tags: []
 
+## Scatterplots Advent of Code
+ - [https://aoc-stats.fastbee.box.ca](https://aoc-stats.fastbee.box.ca)
+ - date published: 2024-01-15T10:02:36.118939+00:00
+ - user: None
+ - tags: []
+
 ## Brad Hussey - Start a Business as a Freelancer, Coach or Consultant
  - [https://www.bradhussey.ca](https://www.bradhussey.ca)
  - date published: 2024-01-06T17:58:08.994162+00:00
+ - user: None
+ - tags: []
+
+## Bradley Thompson- Team Canada Duathlete, Digital Marketing Expert, Podcaster, Marketing Professor & Creative Content Creator
+ - [https://bradleythompson.ca](https://bradleythompson.ca)
+ - date published: 2024-01-15T22:20:27.125154+00:00
  - user: None
  - tags: []
 
@@ -5579,6 +5585,12 @@
  - user: None
  - tags: ['substack']
 
+## Nancy's Baby Names
+ - [https://www.nancy.cc](https://www.nancy.cc)
+ - date published: 2024-01-15T02:46:18.706402+00:00
+ - user: None
+ - tags: []
+
 ## Home | Nannou
  - [https://nannou.cc](https://nannou.cc)
  - date published: 2023-10-25T12:11:08.415162+00:00
@@ -5987,16 +5999,4 @@
  - date published: 2023-10-25T09:03:20.383919+00:00
  - user: None
  - tags: ['personal']
-
-## Switzerland - News and perspectives - SWI swissinfo.ch
- - [https://www.swissinfo.ch](https://www.swissinfo.ch)
- - date published: 2023-10-25T12:14:25.180277+00:00
- - user: None
- - tags: []
-
-## Switzerland Times | Latest Switzerland News
- - [https://switzerlandtimes.ch](https://switzerlandtimes.ch)
- - date published: 2023-10-25T12:14:30.377990+00:00
- - user: None
- - tags: []
 

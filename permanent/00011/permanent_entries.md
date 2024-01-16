@@ -1,3 +1,436 @@
+## Vesko Iliev
+ - [https://www.veskoiliev.com](https://www.veskoiliev.com)
+ - date published: 2023-12-18T22:38:34.003079+00:00
+ - user: None
+ - tags: ['personal']
+
+## Global Leader in Sustainable Energy | Vestas
+ - [https://www.vestas.com](https://www.vestas.com)
+ - date published: 2023-10-25T17:56:06.586790+00:00
+ - user: None
+ - tags: []
+
+## Veterinary daily
+ - [https://www.veterinarydaily.com](https://www.veterinarydaily.com)
+ - date published: 2023-10-25T17:56:08.813506+00:00
+ - user: None
+ - tags: []
+
+## VG247
+ - [https://www.vg247.com](https://www.vg247.com)
+ - date published: 2023-11-28T13:23:37.145498+00:00
+ - user: None
+ - tags: []
+
+## Videogame Questions and Answers
+ - [https://www.vgassist.com](https://www.vgassist.com)
+ - date published: 2023-12-13T16:15:17.027932+00:00
+ - user: None
+ - tags: []
+
+## Viam | Bring Any Smart Machine Project to Life
+ - [https://www.viam.com](https://www.viam.com)
+ - date published: 2023-10-25T17:56:12.612670+00:00
+ - user: None
+ - tags: []
+
+## VIBE.com
+ - [https://www.vibe.com](https://www.vibe.com)
+ - date published: 2023-11-22T23:43:52.120847+00:00
+ - user: None
+ - tags: []
+
+## viborc.com • Data-driven stories for bright minds
+ - [https://viborc.com](https://viborc.com)
+ - date published: 2023-10-25T17:56:14.934252+00:00
+ - user: None
+ - tags: []
+
+## VICE - VICE is the definitive guide to enlightening information.
+ - [https://www.vice.com](https://www.vice.com)
+ - date published: 2023-10-25T10:29:22.678604+00:00
+ - user: None
+ - tags: []
+
+## Tech Blog | ★❤✰ Vicki Boykis ★❤✰
+ - [https://vickiboykis.com](https://vickiboykis.com)
+ - date published: 2023-10-25T17:56:16.247870+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the Victoria News
+ - [https://www.vicnews.com](https://www.vicnews.com)
+ - date published: 2023-11-05T01:47:17.761566+00:00
+ - user: None
+ - tags: []
+
+## Home | Victor Brandalise
+ - [https://victorbrandalise.com](https://victorbrandalise.com)
+ - date published: 2023-10-25T17:56:19.318141+00:00
+ - user: None
+ - tags: []
+
+## VictoriaMetrics: Simple & Reliable Monitoring for Everyone
+ - [https://victoriametrics.com](https://victoriametrics.com)
+ - date published: 2023-10-25T17:56:20.471667+00:00
+ - user: None
+ - tags: []
+
+## A fine set of rules, designed to ensure that all who post there may do so with the assurance that their comments will be met with approbation by those of a similar persuasion
+ - [https://victorianhackernews.com](https://victorianhackernews.com)
+ - date published: 2023-10-25T17:56:21.528971+00:00
+ - user: None
+ - tags: []
+
+## VictoriaNow | Victoria news and the stuff that matters
+ - [https://www.victorianow.com](https://www.victorianow.com)
+ - date published: 2023-11-16T08:28:10.924553+00:00
+ - user: None
+ - tags: []
+
+## Nader Ouerdiane - Software Engineer
+ - [https://www.vicyyn.com](https://www.vicyyn.com)
+ - date published: 2023-11-13T00:40:41.668000+00:00
+ - user: None
+ - tags: []
+
+## VideoCardz.com - Home of Graphics Cards, Video Cards, GPUs
+ - [https://videocardz.com](https://videocardz.com)
+ - date published: 2023-10-25T17:56:26.527652+00:00
+ - user: None
+ - tags: []
+
+## VGC - Video Games Chronicle
+ - [https://www.videogameschronicle.com](https://www.videogameschronicle.com)
+ - date published: 2023-10-25T17:56:28.236670+00:00
+ - user: None
+ - tags: []
+
+## VideoPress – The finest video for WordPress
+ - [https://videopress.com](https://videopress.com)
+ - date published: 2023-10-25T17:56:30.912782+00:00
+ - user: None
+ - tags: []
+
+## View from the Wing - Thought Leader in Travel
+ - [https://viewfromthewing.com](https://viewfromthewing.com)
+ - date published: 2023-10-25T17:56:33.453322+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Unofficial YouTube Wrapped 2023, see top creators and watching habits
+ - [https://videorecap.viewodyssey.com](https://videorecap.viewodyssey.com)
+ - date published: 2023-12-01T18:26:03+00:00
+ - user: None
+ - tags: []
+
+## ViewStats – YouTube Channel Statistics
+ - [https://www.viewstats.com](https://www.viewstats.com)
+ - date published: 2023-12-18T11:44:54+00:00
+ - user: None
+ - tags: []
+
+## Vijay Prema - The Mindful Technologist
+ - [https://vijayprema.com](https://vijayprema.com)
+ - date published: 2023-10-25T17:56:35.803225+00:00
+ - user: None
+ - tags: []
+
+## Viksit Gaur | Viksit Gaur Online
+ - [https://viksit.com](https://viksit.com)
+ - date published: 2023-10-25T17:56:36.926186+00:00
+ - user: None
+ - tags: []
+
+## Viktor Lovgren - Home
+ - [https://www.viktorlovgren.com](https://www.viktorlovgren.com)
+ - date published: 2024-01-09T00:11:03.366212+00:00
+ - user: None
+ - tags: []
+
+## Application Error
+ - [https://villagersapp.com](https://villagersapp.com)
+ - date published: 2024-01-09T02:53:12.516052+00:00
+ - user: None
+ - tags: []
+
+## The Village Voice
+ - [https://www.villagevoice.com](https://www.villagevoice.com)
+ - date published: 2023-10-25T10:16:50.071015+00:00
+ - user: None
+ - tags: []
+
+## Learn VIM while playing a game - VIM Adventures
+ - [https://vim-adventures.com](https://vim-adventures.com)
+ - date published: 2023-10-25T17:56:39.100234+00:00
+ - user: None
+ - tags: []
+
+## Vimeo: Your videos deserve the best
+ - [https://player.vimeo.com](https://player.vimeo.com)
+ - date published: 2023-12-11T19:06:10.109935+00:00
+ - user: None
+ - tags: []
+
+## Vimeo Interactive Video Experience Platform
+ - [https://vimeo.com](https://vimeo.com)
+ - date published: 2023-10-24T20:05:51.950738+00:00
+ - user: None
+ - tags: ['video streaming']
+
+## Vim Ninja — Master Vim From Your Browser Through Interactive Exercises
+ - [https://www.vimninja.com](https://www.vimninja.com)
+ - date published: 2023-10-25T17:56:41.524655+00:00
+ - user: None
+ - tags: []
+
+## Vim Online Editor - Vim Editor In Browser
+ - [https://www.vimonlineeditor.com](https://www.vimonlineeditor.com)
+ - date published: 2023-10-25T17:56:42.379253+00:00
+ - user: None
+ - tags: []
+
+## vincelwt.com
+ - [https://vincelwt.com](https://vincelwt.com)
+ - date published: 2023-10-25T17:56:43.228366+00:00
+ - user: None
+ - tags: []
+
+## https://vincentmeertens.com
+ - [https://vincentmeertens.com](https://vincentmeertens.com)
+ - date published: 2024-01-09T02:53:13.931603+00:00
+ - user: None
+ - tags: []
+
+## Home - Vineet Jobanputra
+ - [https://vineetjobanputra.com](https://vineetjobanputra.com)
+ - date published: 2023-11-29T14:20:23.850636+00:00
+ - user: None
+ - tags: ['personal']
+
+## Drinking Is Culture - Learn About Wine, Beer & Spirits | VinePair
+ - [https://vinepair.com](https://vinepair.com)
+ - date published: 2023-10-25T17:56:46.657755+00:00
+ - user: None
+ - tags: []
+
+## Home - VINnews
+ - [https://vinnews.com](https://vinnews.com)
+ - date published: 2023-11-01T20:48:03.267478+00:00
+ - user: None
+ - tags: []
+
+## Vinney Cavallo
+ - [https://vinneycavallo.com](https://vinneycavallo.com)
+ - date published: 2023-12-27T10:11:21.276832+00:00
+ - user: None
+ - tags: ['personal']
+
+## Vinography : A Wine Blog
+ - [https://www.vinography.com](https://www.vinography.com)
+ - date published: 2023-10-25T17:56:49.222659+00:00
+ - user: None
+ - tags: []
+
+## Erik S. Klein's Vintage Computer Collection - Home of historical computers such as Mark-8, Altair, Kenbak, Apple, Commodore and IBM
+ - [https://www.vintage-computer.com](https://www.vintage-computer.com)
+ - date published: 2024-01-09T02:53:18.369493+00:00
+ - user: None
+ - tags: []
+
+## 2023 Vintage is The New Old Writer’s Contest Winners Announced - Vintage is The New Old
+ - [https://www.vintageisthenewold.com](https://www.vintageisthenewold.com)
+ - date published: 2023-10-27T14:44:52.922545+00:00
+ - user: None
+ - tags: ['amiga', 'retro games']
+
+## vinylrecorder, vinyl recorder, dubplate, phono, analog, single,
+    maxi, record, recording, directmastering, pressing, pressung, schallplatten
+ - [https://www.vinylrecorder.com](https://www.vinylrecorder.com)
+ - date published: 2023-10-25T17:56:49.670180+00:00
+ - user: None
+ - tags: []
+
+## Violeta Nedkova - Self-Publish Your Book Your Way
+ - [https://violetanedkova.com](https://violetanedkova.com)
+ - date published: 2023-12-27T18:13:05.043655+00:00
+ - user: None
+ - tags: ['personal']
+
+## About Vipul Shekhawat
+ - [https://www.vipshek.com](https://www.vipshek.com)
+ - date published: 2023-10-25T17:56:50.234660+00:00
+ - user: None
+ - tags: []
+
+## Viraj Joshi – Designer, Technologist, Futurist
+ - [https://virajvjoshi.com](https://virajvjoshi.com)
+ - date published: 2024-01-07T04:15:13.535010+00:00
+ - user: None
+ - tags: []
+
+## viralinstruction
+ - [https://viralinstruction.com](https://viralinstruction.com)
+ - date published: 2023-10-25T17:56:50.835332+00:00
+ - user: None
+ - tags: []
+
+## https://www.virginiamercury.com
+ - [https://www.virginiamercury.com](https://www.virginiamercury.com)
+ - date published: 2023-11-04T03:07:08.777366+00:00
+ - user: None
+ - tags: []
+
+## Virtualization Howto - Virtualization Networking Cloud Enterprise
+ - [https://www.virtualizationhowto.com](https://www.virtualizationhowto.com)
+ - date published: 2023-10-25T17:56:54.921265+00:00
+ - user: None
+ - tags: []
+
+## Virtually Fun | Fun with Virtualization
+ - [https://virtuallyfun.com](https://virtuallyfun.com)
+ - date published: 2023-10-25T17:57:25.943395+00:00
+ - user: None
+ - tags: []
+
+## Virtual Reality Oasis
+ - [https://virtualrealityoasis.com](https://virtualrealityoasis.com)
+ - date published: 2023-11-27T16:12:28+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
+
+## Virtual Uncle - VR, XR, AR Curated News & Releases
+ - [https://virtualuncle.com](https://virtualuncle.com)
+ - date published: 2023-10-25T17:57:29.714238+00:00
+ - user: None
+ - tags: ['tech news', 'virtual reality']
+
+## Vishnu Menon
+ - [https://vishnumenon.com](https://vishnumenon.com)
+ - date published: 2023-10-25T08:48:21.110375+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Visionary CTO | Matt Watson | Substack
+ - [https://blog.visionarycto.com](https://blog.visionarycto.com)
+ - date published: 2023-10-25T17:57:32.350119+00:00
+ - user: None
+ - tags: []
+
+## Sweden – a destination <br>of a different nature
+ - [https://visitsweden.com](https://visitsweden.com)
+ - date published: 2023-10-29T13:00:54.024158+00:00
+ - user: None
+ - tags: []
+
+## Visual Fonts – Type Good Pictures
+ - [https://visual-fonts.com](https://visual-fonts.com)
+ - date published: 2023-10-25T17:57:36.728693+00:00
+ - user: None
+ - tags: []
+
+## Visual Capitalist
+ - [https://www.visualcapitalist.com](https://www.visualcapitalist.com)
+ - date published: 2023-10-25T10:39:33.539082+00:00
+ - user: None
+ - tags: []
+
+## VisualPDE | Interactive live solutions of PDE systems, right on your device
+ - [https://visualpde.com](https://visualpde.com)
+ - date published: 2023-10-25T17:57:37.518948+00:00
+ - user: None
+ - tags: []
+
+## Visual Studio Code - Code Editing. Redefined
+ - [https://code.visualstudio.com](https://code.visualstudio.com)
+ - date published: 2023-10-25T17:57:39.109407+00:00
+ - user: None
+ - tags: ['ide', 'visual studio']
+
+## Developer Community
+ - [https://developercommunity.visualstudio.com](https://developercommunity.visualstudio.com)
+ - date published: 2023-10-25T17:57:41.357962+00:00
+ - user: None
+ - tags: []
+
+## Visual Studio Magazine Home -- Visual Studio Magazine
+ - [https://visualstudiomagazine.com](https://visualstudiomagazine.com)
+ - date published: 2023-10-25T17:57:48.493438+00:00
+ - user: None
+ - tags: []
+
+## Viswagyan -
+ - [https://viswagyan.com](https://viswagyan.com)
+ - date published: 2023-12-30T09:16:45.834804+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://now.vitalyobukhov.com](https://now.vitalyobukhov.com)
+ - date published: 2023-12-20T21:32:00.927597+00:00
+ - user: None
+ - tags: ['personal']
+
+## vite-plugin-ssr
+ - [https://vite-plugin-ssr.com](https://vite-plugin-ssr.com)
+ - date published: 2023-10-25T17:57:51.712020+00:00
+ - user: None
+ - tags: []
+
+## Vivaldi Browser | Powerful, Personal and Private web browser
+ - [https://vivaldi.com](https://vivaldi.com)
+ - date published: 2023-10-25T08:40:37.885818+00:00
+ - user: None
+ - tags: []
+
+## Vivek Haldar
+ - [https://blog.vivekhaldar.com](https://blog.vivekhaldar.com)
+ - date published: 2023-10-25T17:57:53.859667+00:00
+ - user: None
+ - tags: []
+
+## Vivek Panyam
+ - [https://blog.vivekpanyam.com](https://blog.vivekpanyam.com)
+ - date published: 2023-12-29T22:49:51.039108+00:00
+ - user: None
+ - tags: []
+
+## Words of Wisdom
+ - [https://vivekwisdom.com](https://vivekwisdom.com)
+ - date published: 2024-01-09T21:37:26.210572+00:00
+ - user: None
+ - tags: []
+
+## Vivid Maps - Maps that explain the World
+ - [https://vividmaps.com](https://vividmaps.com)
+ - date published: 2023-10-25T17:57:56.121309+00:00
+ - user: None
+ - tags: []
+
+## Vivian Qu
+ - [https://vivqu.com](https://vivqu.com)
+ - date published: 2023-10-25T17:57:56.937671+00:00
+ - user: None
+ - tags: []
+
+## VIZ: The Best in Manga, Anime & Global Entertainment
+ - [https://www.viz.com](https://www.viz.com)
+ - date published: 2023-10-31T15:37:59.527773+00:00
+ - user: None
+ - tags: []
+
+## Summer Afternoon
+ - [https://summer-afternoon.vlucendo.com](https://summer-afternoon.vlucendo.com)
+ - date published: 2023-10-25T17:57:57.354906+00:00
+ - user: None
+ - tags: []
+
+## VMware News & Stories
+ - [https://news.vmware.com](https://news.vmware.com)
+ - date published: 2023-12-12T22:18:12.429315+00:00
+ - user: None
+ - tags: ['virtualization']
+
 ## VNV NATION - Alternative Electronic Music
  - [https://vnvnation.com](https://vnvnation.com)
  - date published: 2023-10-25T13:52:36.723319+00:00
@@ -5135,6 +5568,12 @@ home
  - user: None
  - tags: ['personal']
 
+## Tach auch! | Marek Maras • Webentwicklung aus'm Ruhrpott
+ - [https://www.marek-maras.de](https://www.marek-maras.de)
+ - date published: 2024-01-16T03:18:50.121445+00:00
+ - user: None
+ - tags: []
+
 ## Home | Mario Keipert: textwärts
  - [https://mariokeipert.de](https://mariokeipert.de)
  - date published: 2024-01-07T11:04:04.914461+00:00
@@ -5558,444 +5997,6 @@ home
 ## Department of Computer Science - TUM School of Computation, Information and Technology - Department of Computer Science
  - [https://www.cs.cit.tum.de](https://www.cs.cit.tum.de)
  - date published: 2023-10-25T18:33:05.751862+00:00
- - user: None
- - tags: []
-
-## The Entrepreneurial University - TUM
- - [https://www.tum.de](https://www.tum.de)
- - date published: 2023-12-12T22:22:55.827588+00:00
- - user: None
- - tags: []
-
-## Tunkl.de  |  IT-Consulting – SEA, E-Commerce und Online Marketing Consulting
- - [https://tunkl.de](https://tunkl.de)
- - date published: 2024-01-01T03:39:24.415411+00:00
- - user: None
- - tags: []
-
-## Andreas Zwinkau
- - [https://beza1e1.tuxen.de](https://beza1e1.tuxen.de)
- - date published: 2023-10-25T18:33:06.452394+00:00
- - user: None
- - tags: []
-
-## Umweltbundesamt | Für Mensch und Umwelt
- - [https://www.umweltbundesamt.de](https://www.umweltbundesamt.de)
- - date published: 2023-10-25T18:33:10.971958+00:00
- - user: None
- - tags: []
-
-## https://jsxgraph.uni-bayreuth.de
- - [https://jsxgraph.uni-bayreuth.de](https://jsxgraph.uni-bayreuth.de)
- - date published: 2023-10-26T13:42:48.938099+00:00
- - user: None
- - tags: []
-
-## Faculty of Mathematics - Bielefeld University
- - [https://www.math.uni-bielefeld.de](https://www.math.uni-bielefeld.de)
- - date published: 2023-10-25T18:33:13.635873+00:00
- - user: None
- - tags: []
-
-## Universität Göttingen - Georg-August-Universität Göttingen
- - [https://www.uni-goettingen.de](https://www.uni-goettingen.de)
- - date published: 2023-12-13T10:23:08.198367+00:00
- - user: None
- - tags: []
-
-## Heidelberg University EN
- - [https://www.uni-heidelberg.de](https://www.uni-heidelberg.de)
- - date published: 2023-10-25T11:22:07.189480+00:00
- - user: None
- - tags: []
-
-## Exzellenzwettbewerb | Forschen | Universität Konstanz
- - [https://www.exc.uni-konstanz.de](https://www.exc.uni-konstanz.de)
- - date published: 2023-11-25T11:44:21.122864+00:00
- - user: None
- - tags: []
-
-## Universität Münster
- - [https://www.uni-muenster.de](https://www.uni-muenster.de)
- - date published: 2023-10-25T18:33:14.981774+00:00
- - user: None
- - tags: []
-
-## Universität Stuttgart
- - [https://www.uni-stuttgart.de](https://www.uni-stuttgart.de)
- - date published: 2023-10-25T18:33:19.227772+00:00
- - user: None
- - tags: []
-
-## https://se.cs.uni-tuebingen.de
- - [https://se.cs.uni-tuebingen.de](https://se.cs.uni-tuebingen.de)
- - date published: 2024-01-09T02:56:23.916336+00:00
- - user: None
- - tags: []
-
-## Universität Würzburg - Universität Würzburg
- - [https://www.uni-wuerzburg.de](https://www.uni-wuerzburg.de)
- - date published: 2024-01-04T12:24:07.412643+00:00
- - user: None
- - tags: []
-
-## UTzone.de     -->>    [UT99 | UT2004 | UT3 | UT4 ] Feel the Emotions
- - [https://www.utzone.de](https://www.utzone.de)
- - date published: 2023-10-30T15:41:16.767039+00:00
- - user: None
- - tags: []
-
-## Viktor Garske
- - [https://ai.v-gar.de](https://ai.v-gar.de)
- - date published: 2023-10-25T18:33:20.746124+00:00
- - user: None
- - tags: []
-
-## Vesalia Online - The Amiga & Retrocomputing Store (Est. 1987)
- - [https://www.vesalia.de](https://www.vesalia.de)
- - date published: 2023-12-11T19:07:27.880695+00:00
- - user: None
- - tags: []
-
-## VIVALINE Media Production – Online Agentur Halle (Saale)
- - [https://vivaline.de](https://vivaline.de)
- - date published: 2023-12-11T19:05:56.531832+00:00
- - user: None
- - tags: []
-
-## volzo · volzo.de
- - [https://volzo.de](https://volzo.de)
- - date published: 2023-10-25T18:33:21.403089+00:00
- - user: None
- - tags: []
-
-## vzbv
- - [https://www.vzbv.de](https://www.vzbv.de)
- - date published: 2023-10-31T08:58:05.940865+00:00
- - user: None
- - tags: []
-
-## WELT - Aktuelle Nachrichten, News, Hintergründe & Videos
- - [https://www.welt.de](https://www.welt.de)
- - date published: 2023-10-25T18:33:41+00:00
- - user: rumpel
- - tags: ['germany news']
-
-## whatheco.de – Discussions on software, design, and software design.
- - [https://whatheco.de](https://whatheco.de)
- - date published: 2023-10-25T18:33:46.115321+00:00
- - user: None
- - tags: []
-
-## Main - WHDLoad MantisBT
- - [https://mantis.whdload.de](https://mantis.whdload.de)
- - date published: 2024-01-09T02:56:25.035953+00:00
- - user: None
- - tags: []
-
-## WHDLoad
- - [https://whdload.de](https://whdload.de)
- - date published: 2024-01-09T02:56:26.610993+00:00
- - user: None
- - tags: []
-
-## WHDLoad
- - [https://www.whdload.de](https://www.whdload.de)
- - date published: 2023-10-27T14:27:32.256574+00:00
- - user: None
- - tags: ['amiga']
-
-## Serialized Gedanken
- - [https://valentin.willscher.de](https://valentin.willscher.de)
- - date published: 2023-12-25T08:33:59.217539+00:00
- - user: None
- - tags: []
-
-## Ode to capitalism
- - [https://blog.xa0.de](https://blog.xa0.de)
- - date published: 2023-10-25T18:33:54.731626+00:00
- - user: None
- - tags: []
-
-## YAML CSS Framework — for truly flexible, accessible and responsive websites
- - [https://www.yaml.de](https://www.yaml.de)
- - date published: 2024-01-09T02:56:27.311542+00:00
- - user: None
- - tags: []
-
-## ZEIT ONLINE | Nachrichten, News, Hintergründe und Debatten
- - [https://www.zeit.de](https://www.zeit.de)
- - date published: 2023-10-25T18:34:07.682068+00:00
- - user: None
- - tags: []
-
-## https://zukunft-der-sub.de
- - [https://zukunft-der-sub.de](https://zukunft-der-sub.de)
- - date published: 2024-01-09T02:56:28.461043+00:00
- - user: None
- - tags: []
-
-## Jelly Deals
- - [https://www.jelly.deals](https://www.jelly.deals)
- - date published: 2023-12-13T15:40:49.601884+00:00
- - user: None
- - tags: []
-
-## Explore - git.meli.delivery
- - [https://git.meli.delivery](https://git.meli.delivery)
- - date published: 2023-10-25T18:34:11.386923+00:00
- - user: None
- - tags: []
-
-## Alessandro De Simone - Software Engineer - London
- - [https://alessandro.desi](https://alessandro.desi)
- - date published: 2023-12-19T09:58:57.272282+00:00
- - user: None
- - tags: ['personal']
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://www.1984.design](https://www.1984.design)
- - date published: 2023-10-25T18:34:13.186299+00:00
- - user: None
- - tags: []
-
-## archives.design
- - [https://archives.design](https://archives.design)
- - date published: 2023-10-25T18:34:15.291934+00:00
- - user: None
- - tags: []
-
-## Bingham Design | Digital Marketing for Your Cause
- - [https://bingham.design](https://bingham.design)
- - date published: 2024-01-11T13:29:06.035129+00:00
- - user: None
- - tags: []
-
-## Design For Awareness | Cap_able Design
- - [https://www.capable.design](https://www.capable.design)
- - date published: 2023-10-25T18:34:17.686429+00:00
- - user: None
- - tags: []
-
-## Product design & UX design resources – Degreeless.Design
- - [https://www.degreeless.design](https://www.degreeless.design)
- - date published: 2023-10-25T18:34:21.863194+00:00
- - user: None
- - tags: []
-
-## École supérieure d’art et de design d’Amiens / design | accueil
- - [https://esad-amiens.design](https://esad-amiens.design)
- - date published: 2023-12-11T16:19:11.537933+00:00
- - user: None
- - tags: []
-
-## feedme.design
- - [https://www.feedme.design](https://www.feedme.design)
- - date published: 2023-12-24T10:58:53.703752+00:00
- - user: None
- - tags: []
-
-## femke.design / Femke van Schoonhoven
- - [https://www.femke.design](https://www.femke.design)
- - date published: 2023-10-25T09:21:33.094419+00:00
- - user: None
- - tags: ['personal']
-
-## UX Design Portfolio of Gary Bacon - Home
- - [https://gary.design](https://gary.design)
- - date published: 2024-01-12T02:34:44.601604+00:00
- - user: None
- - tags: []
-
-## Growth.Design — Better Products, Better Growth.
- - [https://growth.design](https://growth.design)
- - date published: 2023-10-25T18:34:22.781659+00:00
- - user: None
- - tags: []
-
-## Julie Chabin
- - [https://www.julie.design](https://www.julie.design)
- - date published: 2023-10-25T09:21:34.151926+00:00
- - user: None
- - tags: ['personal']
-
-## mastodon.design
- - [https://mastodon.design](https://mastodon.design)
- - date published: 2023-12-11T16:19:14.967288+00:00
- - user: None
- - tags: []
-
-## Home - Fluent 2 Design System
- - [https://fluent2.microsoft.design](https://fluent2.microsoft.design)
- - date published: 2023-10-25T18:34:24.950370+00:00
- - user: None
- - tags: []
-
-## Miris Whispers
- - [https://blog.miris.design](https://blog.miris.design)
- - date published: 2023-10-25T18:34:31.450280+00:00
- - user: None
- - tags: []
-
-## Reconstrained Design
- - [https://reconstrained.design](https://reconstrained.design)
- - date published: 2023-12-11T16:18:13.316990+00:00
- - user: None
- - tags: []
-
-## @rolle / Full Stack Developer = Front-end developer, designer, sysadmin
- - [https://rolle.design](https://rolle.design)
- - date published: 2023-12-19T02:59:27.788104+00:00
- - user: None
- - tags: ['personal']
-
-## Slack Design
- - [https://slack.design](https://slack.design)
- - date published: 2023-11-02T16:39:18.847159+00:00
- - user: None
- - tags: []
-
-## Steve Polito is a full stack web developer in the Boston Area
- - [https://stevepolito.design](https://stevepolito.design)
- - date published: 2023-10-25T18:34:32.217038+00:00
- - user: None
- - tags: []
-
-## Wise Design
- - [https://wise.design](https://wise.design)
- - date published: 2023-10-25T18:34:32.784058+00:00
- - user: None
- - tags: []
-
-## 0x7D0
- - [https://blog.0x7d0.dev](https://blog.0x7d0.dev)
- - date published: 2023-10-25T18:34:34.220775+00:00
- - user: None
- - tags: []
-
-## 0x7f Inc.
- - [https://0x7f.dev](https://0x7f.dev)
- - date published: 2023-10-25T18:34:34.827334+00:00
- - user: None
- - tags: []
-
-## A world where people pay for software
- - [https://1sub.dev](https://1sub.dev)
- - date published: 2023-10-25T18:34:35.457611+00:00
- - user: None
- - tags: []
-
-## It works
- - [https://blog.aawadia.dev](https://blog.aawadia.dev)
- - date published: 2023-10-25T18:34:36.448442+00:00
- - user: None
- - tags: []
-
-## Aerolite Studios
- - [https://aerolite.dev](https://aerolite.dev)
- - date published: 2023-10-25T18:34:37.299684+00:00
- - user: None
- - tags: []
-
-## The Aha Stack
- - [https://ahastack.dev](https://ahastack.dev)
- - date published: 2024-01-03T14:54:40+00:00
- - user: None
- - tags: []
-
-## Airplane | The developer platform for internal tools
- - [https://www.airplane.dev](https://www.airplane.dev)
- - date published: 2023-10-25T18:34:38.548749+00:00
- - user: None
- - tags: []
-
-## AksDev
- - [https://www.akselmo.dev](https://www.akselmo.dev)
- - date published: 2023-10-25T18:34:39.206217+00:00
- - user: None
- - tags: []
-
-## Alex Saveau | https://alexsaveau.dev
- - [https://alexsaveau.dev](https://alexsaveau.dev)
- - date published: 2023-10-25T18:34:44.776986+00:00
- - user: None
- - tags: []
-
-## Adrian Alic - Blogging about High-Performance Systems
- - [https://alic.dev](https://alic.dev)
- - date published: 2023-10-25T08:48:21.706613+00:00
- - user: None
- - tags: ['personal']
-
-## Alpine.js
- - [https://alpinejs.dev](https://alpinejs.dev)
- - date published: 2023-10-25T18:34:45.599743+00:00
- - user: None
- - tags: []
-
-## Technical blog by Alexander Ameye.
- - [https://ameye.dev](https://ameye.dev)
- - date published: 2023-10-25T18:34:46.760527+00:00
- - user: None
- - tags: []
-
-## Amoenus Dev
- - [https://amoenus.dev](https://amoenus.dev)
- - date published: 2023-12-07T17:36:20.416462+00:00
- - user: None
- - tags: ['personal']
-
-## None
- - [https://www.amolas.dev](https://www.amolas.dev)
- - date published: 2024-01-09T02:56:39.751957+00:00
- - user: None
- - tags: []
-
-## Amr Diab - Web Developer
- - [https://www.amrdiab.dev](https://www.amrdiab.dev)
- - date published: 2023-12-29T18:59:56.823678+00:00
- - user: None
- - tags: ['personal']
-
-## Show HN: Anchor – developer-friendly private CAs for internal TLS
- - [https://anchor.dev](https://anchor.dev)
- - date published: 2023-11-01T14:17:14+00:00
- - user: None
- - tags: []
-
-## Effortless Encryption
- - [https://blog.anchor.dev](https://blog.anchor.dev)
- - date published: 2023-11-01T14:43:17.307157+00:00
- - user: None
- - tags: []
-
-## andersource
- - [https://andersource.dev](https://andersource.dev)
- - date published: 2024-01-09T23:47:51.887993+00:00
- - user: None
- - tags: []
-
-## andrea simone costa
- - [https://andreasimonecosta.dev](https://andreasimonecosta.dev)
- - date published: 2024-01-07T16:03:32.309409+00:00
- - user: None
- - tags: []
-
-## Andrew Chan
- - [https://andrewkchan.dev](https://andrewkchan.dev)
- - date published: 2023-12-19T18:48:03.347748+00:00
- - user: None
- - tags: []
-
-## API RANK | Benchmarks of public APIs, by Escape
- - [https://apirank.dev](https://apirank.dev)
- - date published: 2023-10-25T18:34:50.703389+00:00
- - user: None
- - tags: []
-
-## Envoy Playground
- - [https://envoy-playground.apoxy.dev](https://envoy-playground.apoxy.dev)
- - date published: 2023-10-25T18:34:51.661054+00:00
  - user: None
  - tags: []
 
