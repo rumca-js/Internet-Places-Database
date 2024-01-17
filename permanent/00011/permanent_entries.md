@@ -1,3 +1,237 @@
+## Mutual funds, IRAs, ETFs, 401(k) plans, and more | Vanguard
+ - [https://vanguard.com](https://vanguard.com)
+ - date published: 2023-10-25T16:15:21.429996+00:00
+ - user: None
+ - tags: []
+
+## https://www.vanguardngr.com
+ - [https://www.vanguardngr.com](https://www.vanguardngr.com)
+ - date published: 2023-12-29T20:35:26.118500+00:00
+ - user: None
+ - tags: ['nigeria']
+
+## index
+ - [https://vanhunteradams.com](https://vanhunteradams.com)
+ - date published: 2023-10-25T17:55:19.369824+00:00
+ - user: None
+ - tags: []
+
+## The Vanilla JS Toolkit
+ - [https://vanillajstoolkit.com](https://vanillajstoolkit.com)
+ - date published: 2023-10-25T17:55:20.883096+00:00
+ - user: None
+ - tags: []
+
+## Vanity Fair -  Entertainment, Politics, and Fashion News | Vanity Fair
+ - [https://www.vanityfair.com](https://www.vanityfair.com)
+ - date published: 2023-10-25T17:55:24.038496+00:00
+ - user: None
+ - tags: []
+
+## Vanity Notes - A blog about programming and socialism
+ - [https://vanitynotes.com](https://vanitynotes.com)
+ - date published: 2023-10-25T17:55:29.596861+00:00
+ - user: None
+ - tags: []
+
+## Van Tucker - Digital Future Wizard - Empowering Exceptional Experiences
+ - [https://vantucker.com](https://vantucker.com)
+ - date published: 2023-11-29T14:43:21.870606+00:00
+ - user: None
+ - tags: ['personal']
+
+## Share your universe with our observation stations
+ - [https://vaonis.com](https://vaonis.com)
+ - date published: 2023-10-25T17:55:32.901924+00:00
+ - user: None
+ - tags: []
+
+## The best place online to buy vaporizers and glass  - vapor.com
+ - [https://www.vapor.com](https://www.vapor.com)
+ - date published: 2024-01-09T02:53:08.897273+00:00
+ - user: None
+ - tags: []
+
+## VapourSynth | The future home of VapourSynth… 3000!
+ - [https://www.vapoursynth.com](https://www.vapoursynth.com)
+ - date published: 2023-10-25T14:01:23.313974+00:00
+ - user: None
+ - tags: []
+
+## varia Pulse
+ - [https://variapulse.com](https://variapulse.com)
+ - date published: 2024-01-08T00:13:21.167973+00:00
+ - user: None
+ - tags: []
+
+## Variety
+ - [https://variety.com](https://variety.com)
+ - date published: 2023-10-25T10:17:55.128799+00:00
+ - user: None
+ - tags: []
+
+## Brian Whitman
+ - [https://notes.variogram.com](https://notes.variogram.com)
+ - date published: 2023-10-25T17:55:33.688023+00:00
+ - user: None
+ - tags: []
+
+## Fossil freedom - Vattenfall
+ - [https://group.vattenfall.com](https://group.vattenfall.com)
+ - date published: 2023-10-25T17:55:35.303824+00:00
+ - user: None
+ - tags: []
+
+## Zack Apiratitham
+ - [https://vatthikorn.com](https://vatthikorn.com)
+ - date published: 2024-01-15T22:19:59.451762+00:00
+ - user: None
+ - tags: []
+
+## VAZGRIZ
+ - [https://vazgriz.com](https://vazgriz.com)
+ - date published: 2024-01-16T13:41:49.604652+00:00
+ - user: None
+ - tags: []
+
+## UX/UI Designer. Author. Speaker. | Estelle Van de Velde
+ - [https://vdvestelle.com](https://vdvestelle.com)
+ - date published: 2024-01-04T08:23:18.936542+00:00
+ - user: None
+ - tags: []
+
+## The Trusted GenAI Product Platform for Product Builders
+ - [https://vectara.com](https://vectara.com)
+ - date published: 2023-10-25T17:55:37.945868+00:00
+ - user: None
+ - tags: []
+
+## Vectary - Build interactive 3D and AR solutions online
+ - [https://www.vectary.com](https://www.vectary.com)
+ - date published: 2023-10-27T10:19:22.992988+00:00
+ - user: None
+ - tags: ['virtual reality', '3d printing', 'augmented reality']
+
+## Vectis IP Ltd - Building IP Solutions  for the Future
+ - [https://www.vectis.com](https://www.vectis.com)
+ - date published: 2023-10-25T17:55:40.842745+00:00
+ - user: None
+ - tags: []
+
+## VectorLogic
+ - [https://www.vector-logic.com](https://www.vector-logic.com)
+ - date published: 2023-10-25T17:55:41.709495+00:00
+ - user: None
+ - tags: []
+
+## VectorDB: Vector Database Built by Kagi Search
+ - [https://vectordb.com](https://vectordb.com)
+ - date published: 2023-11-26T10:21:55+00:00
+ - user: None
+ - tags: []
+
+## >mv_
+ - [https://mv.vegancambodia.com](https://mv.vegancambodia.com)
+ - date published: 2024-01-10T18:09:42.179174+00:00
+ - user: None
+ - tags: []
+
+## Latest News - vegconomist - the vegan business magazine
+ - [https://vegconomist.com](https://vegconomist.com)
+ - date published: 2023-10-25T17:55:45.760592+00:00
+ - user: None
+ - tags: []
+
+## Veilid
+ - [https://veilid.com](https://veilid.com)
+ - date published: 2023-10-25T17:55:46.235167+00:00
+ - user: None
+ - tags: []
+
+## VELCRO® Brand Fastening Solutions | Velcro Companies
+ - [https://www.velcro.com](https://www.velcro.com)
+ - date published: 2023-12-29T14:19:33.593603+00:00
+ - user: None
+ - tags: []
+
+## Vendr: The Software Procurement & SaaS Management Platform
+ - [https://www.vendr.com](https://www.vendr.com)
+ - date published: 2023-10-25T17:55:48.039196+00:00
+ - user: None
+ - tags: []
+
+## VentureBeat | Transformative tech coverage that matters
+ - [https://venturebeat.com](https://venturebeat.com)
+ - date published: 2023-10-25T09:36:34.376824+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.veonid.com](https://www.veonid.com)
+ - date published: 2024-01-09T02:53:10.869607+00:00
+ - user: None
+ - tags: []
+
+## VERA Version Control Systems
+ - [https://vcs.vera-visions.com](https://vcs.vera-visions.com)
+ - date published: 2023-11-12T12:21:17.875383+00:00
+ - user: None
+ - tags: []
+
+## Vera Ruel-Wunsch
+ - [https://veraveravera.com](https://veraveravera.com)
+ - date published: 2023-11-26T10:11:12.588555+00:00
+ - user: None
+ - tags: ['personal']
+
+## Vercel: Build and deploy the best Web experiences with The Frontend Cloud
+ - [https://vercel.com](https://vercel.com)
+ - date published: 2023-10-25T17:55:50.277514+00:00
+ - user: None
+ - tags: []
+
+## Mighil | Generalist in Chengdu
+ - [https://verfasor.com](https://verfasor.com)
+ - date published: 2023-12-13T06:04:43.812181+00:00
+ - user: None
+ - tags: ['personal']
+
+## Verily Public Health
+ - [https://publichealth.verily.com](https://publichealth.verily.com)
+ - date published: 2023-10-25T17:55:51.105963+00:00
+ - user: None
+ - tags: []
+
+## Verily | Research, Care and Health Financing | Alphabet Precision Health Company
+ - [https://verily.com](https://verily.com)
+ - date published: 2023-10-25T17:55:52.204653+00:00
+ - user: None
+ - tags: []
+
+## Verocel
+ - [https://verocel.com](https://verocel.com)
+ - date published: 2023-10-25T11:28:53.666720+00:00
+ - user: None
+ - tags: ['avionics', 'aerospace', 'aviation']
+
+## Madison Wisconsin Web Design and Development with Craft CMS and ExpressionEngine CMS
+ - [https://versastudio.com](https://versastudio.com)
+ - date published: 2023-12-03T23:31:28.129334+00:00
+ - user: None
+ - tags: ['personal']
+
+## Vertical Mag - The pulse of the helicopter industry
+ - [https://verticalmag.com](https://verticalmag.com)
+ - date published: 2023-10-25T17:55:56.776993+00:00
+ - user: None
+ - tags: []
+
+## Verywell Mind - Know More. Live Brighter.
+ - [https://www.verywellmind.com](https://www.verywellmind.com)
+ - date published: 2023-10-25T17:56:04.001477+00:00
+ - user: None
+ - tags: []
+
 ## Vesko Iliev
  - [https://www.veskoiliev.com](https://www.veskoiliev.com)
  - date published: 2023-12-18T22:38:34.003079+00:00
@@ -2987,6 +3221,12 @@
  - user: None
  - tags: ['personal']
 
+## Siiri Saunders
+ - [https://siirisaunders.wordpress.com](https://siirisaunders.wordpress.com)
+ - date published: 2024-01-16T17:03:04.647578+00:00
+ - user: None
+ - tags: []
+
 ## Stephen Smith's Blog
  - [https://smist08.wordpress.com](https://smist08.wordpress.com)
  - date published: 2023-12-16T20:21:59.905988+00:00
@@ -4727,6 +4967,12 @@
  - user: None
  - tags: []
 
+## Barkey Wolf Consulting
+ - [https://barkeywolf.consulting](https://barkeywolf.consulting)
+ - date published: 2024-01-16T14:31:43.706149+00:00
+ - user: None
+ - tags: []
+
 ## Certitude Consulting Vienna - Information Security
  - [https://certitude.consulting](https://certitude.consulting)
  - date published: 2023-10-25T18:26:41.919963+00:00
@@ -5751,252 +5997,6 @@ home
 ## Patrick Breyer – Digitaler Freiheitskämpfer und Europaabgeordneter
  - [https://www.patrick-breyer.de](https://www.patrick-breyer.de)
  - date published: 2023-10-25T18:32:28.196653+00:00
- - user: None
- - tags: []
-
-## Pegasus Spiele
- - [https://pegasus.de](https://pegasus.de)
- - date published: 2023-10-30T12:01:05.937311+00:00
- - user: None
- - tags: []
-
-## phryneas.de
- - [https://phryneas.de](https://phryneas.de)
- - date published: 2023-10-25T18:32:28.870643+00:00
- - user: None
- - tags: []
-
-## PSI Software SE - Software für Energieversorger, Industrieunternehmen und Infrastrukturbetreiber
- - [https://www.psi.de](https://www.psi.de)
- - date published: 2023-10-25T11:28:57.913466+00:00
- - user: None
- - tags: []
-
-## Qantara.de - Dialogue with the Islamic World |
- - [https://en.qantara.de](https://en.qantara.de)
- - date published: 2023-10-25T18:32:31.147423+00:00
- - user: None
- - tags: []
-
-## ralfj.de
- - [https://www.ralfj.de](https://www.ralfj.de)
- - date published: 2023-10-25T18:32:31.634686+00:00
- - user: None
- - tags: []
-
-## https://www.rammstein.de
- - [https://www.rammstein.de](https://www.rammstein.de)
- - date published: 2023-10-25T13:45:45.378120+00:00
- - user: None
- - tags: ['music band']
-
-## RedTeam Pentesting - Blog
- - [https://blog.redteam-pentesting.de](https://blog.redteam-pentesting.de)
- - date published: 2024-01-03T15:25:30.538368+00:00
- - user: None
- - tags: []
-
-## retrocmp / retro computing
- - [https://retrocmp.de](https://retrocmp.de)
- - date published: 2023-10-25T11:15:38.287955+00:00
- - user: None
- - tags: []
-
-## RWieruch
- - [https://www.robinwieruch.de](https://www.robinwieruch.de)
- - date published: 2023-10-25T18:32:32.464114+00:00
- - user: None
- - tags: []
-
-## root42 - Arne's Homepage
- - [https://www.root42.de](https://www.root42.de)
- - date published: 2023-10-25T18:32:33.188691+00:00
- - user: None
- - tags: []
-
-## rsadowski.de
- - [https://rsadowski.de](https://rsadowski.de)
- - date published: 2024-01-08T18:34:59.214173+00:00
- - user: None
- - tags: []
-
-## Newsportal - Ruhr-Universität Bochum
- - [https://news.rub.de](https://news.rub.de)
- - date published: 2023-10-30T21:58:13.353774+00:00
- - user: None
- - tags: []
-
-## Homepage von Andreas und Marie-Theres Saremba
- - [http://www.saremba.de](http://www.saremba.de)
- - date published: 2023-10-25T18:32:33.526919+00:00
- - user: None
- - tags: []
-
-## Positionierung stärkt Selbständige | Sascha Theobald
- - [https://www.sascha-theobald.de](https://www.sascha-theobald.de)
- - date published: 2023-12-23T07:29:45.118390+00:00
- - user: None
- - tags: ['personal']
-
-## Beyond the Frame
- - [https://schmud.de](https://schmud.de)
- - date published: 2023-11-15T17:42:13.603677+00:00
- - user: None
- - tags: ['personal', 'blog']
-
-## Sebastian Holstein
- - [https://sebastian-holstein.de](https://sebastian-holstein.de)
- - date published: 2023-10-25T18:32:34.240038+00:00
- - user: None
- - tags: []
-
-## Simon schreibt.
- - [https://simonschreibt.de](https://simonschreibt.de)
- - date published: 2023-10-25T18:32:36.399916+00:00
- - user: None
- - tags: []
-
-## Home | Sovereign Tech Fund
- - [https://www.sovereigntechfund.de](https://www.sovereigntechfund.de)
- - date published: 2023-12-16T05:56:10.685928+00:00
- - user: None
- - tags: []
-
-## Spark Innovation – Martin Ferfers
- - [https://www.spark-innovation.de](https://www.spark-innovation.de)
- - date published: 2023-12-22T17:51:37.712266+00:00
- - user: None
- - tags: ['personal']
-
-## Tagebücher der Wissenschaft » SciLogs - Wissenschaftsblogs
- - [https://scilogs.spektrum.de](https://scilogs.spektrum.de)
- - date published: 2023-10-25T18:32:38.955822+00:00
- - user: None
- - tags: []
-
-## DER SPIEGEL | Online-Nachrichten
- - [https://www.spiegel.de](https://www.spiegel.de)
- - date published: 2023-11-06T15:41:57.887667+00:00
- - user: None
- - tags: ['news', 'germany']
-
-## Spiegelburg Onlineshop | Ungewöhnlich anders & voller Überraschungen
- - [https://www.spiegelburg-shop.de](https://www.spiegelburg-shop.de)
- - date published: 2023-12-28T11:09:44.236543+00:00
- - user: None
- - tags: []
-
-## sst13 - Quake3 Maps
- - [https://sst13.de](https://sst13.de)
- - date published: 2023-10-28T20:30:23.101250+00:00
- - user: None
- - tags: ['quake']
-
-## https://digital.staatsbibliothek-berlin.de
- - [https://digital.staatsbibliothek-berlin.de](https://digital.staatsbibliothek-berlin.de)
- - date published: 2023-10-25T18:32:39.387140+00:00
- - user: None
- - tags: []
-
-## Stefan-Marr.de · personal and research notes
- - [https://stefan-marr.de](https://stefan-marr.de)
- - date published: 2023-10-25T18:32:40.817597+00:00
- - user: None
- - tags: []
-
-## Thomas Stensitzki
- - [https://www.stensitzki.de](https://www.stensitzki.de)
- - date published: 2024-01-03T01:12:18.386735+00:00
- - user: None
- - tags: []
-
-## Aktuelle Nachrichten und Kommentare - SZ.de
- - [https://www.sueddeutsche.de](https://www.sueddeutsche.de)
- - date published: 2023-10-25T18:32:54.580719+00:00
- - user: None
- - tags: []
-
-## SymbOS – Crazy Preemptive Multitasking OS for Z80
- - [http://www.symbos.de](http://www.symbos.de)
- - date published: 2023-12-22T16:57:22+00:00
- - user: None
- - tags: []
-
-## HP-15C: A Simulator for Windows, Linux and macOS
- - [https://hp-15c.homepage.t-online.de](https://hp-15c.homepage.t-online.de)
- - date published: 2023-10-25T18:32:55.137051+00:00
- - user: None
- - tags: []
-
-## t3n | Das Magazin für digitales Business
- - [https://t3n.de](https://t3n.de)
- - date published: 2023-12-27T19:01:46.731365+00:00
- - user: None
- - tags: []
-
-## Hi there, Friend! : tchncs.de
- - [https://tchncs.de](https://tchncs.de)
- - date published: 2023-10-25T18:32:56.483309+00:00
- - user: None
- - tags: []
-
-## tele-TASK
- - [https://www.tele-task.de](https://www.tele-task.de)
- - date published: 2023-11-24T16:44:19.800399+00:00
- - user: None
- - tags: []
-
-## The Local Germany - News and practical guides in English
- - [https://www.thelocal.de](https://www.thelocal.de)
- - date published: 2023-12-30T10:05:50.800353+00:00
- - user: None
- - tags: []
-
-## thenybble.de
- - [https://thenybble.de](https://thenybble.de)
- - date published: 2023-10-25T18:32:57.087216+00:00
- - user: None
- - tags: []
-
-## Tims blog
- - [https://timbuening.de](https://timbuening.de)
- - date published: 2024-01-07T11:02:58.507889+00:00
- - user: None
- - tags: []
-
-## Timo Zander — Cologne-based Software Developer
- - [https://timozander.de](https://timozander.de)
- - date published: 2023-10-25T18:32:57.895419+00:00
- - user: None
- - tags: []
-
-## Henning Koch
- - [https://triskweline.de](https://triskweline.de)
- - date published: 2024-01-09T02:56:23.463055+00:00
- - user: None
- - tags: []
-
-## Home - Leibniz-Institut für Troposphärenforschung e.V. (TROPOS)
- - [https://www.tropos.de](https://www.tropos.de)
- - date published: 2023-12-21T15:45:59.681751+00:00
- - user: None
- - tags: []
-
-## www.user.tu-berlin.de
- - [https://www.user.tu-berlin.de](https://www.user.tu-berlin.de)
- - date published: 2023-10-25T18:33:04.460538+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.tu-darmstadt.de](https://www.tu-darmstadt.de)
- - date published: 2023-12-02T05:46:14.228323+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science - TUM School of Computation, Information and Technology - Department of Computer Science
- - [https://www.cs.cit.tum.de](https://www.cs.cit.tum.de)
- - date published: 2023-10-25T18:33:05.751862+00:00
  - user: None
  - tags: []
 

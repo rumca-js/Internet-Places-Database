@@ -1,3 +1,261 @@
+## Accredited Online University
+ - [https://www.waldenu.edu](https://www.waldenu.edu)
+ - date published: 2024-01-09T19:16:48.326131+00:00
+ - user: None
+ - tags: []
+
+## courses.cs.washington.edu
+ - [https://courses.cs.washington.edu](https://courses.cs.washington.edu)
+ - date published: 2023-10-25T19:05:57.896541+00:00
+ - user: None
+ - tags: []
+
+## UW Departments Web Server
+ - [https://depts.washington.edu](https://depts.washington.edu)
+ - date published: 2023-11-13T19:09:28.425970+00:00
+ - user: None
+ - tags: []
+
+## UW Faculty Web Server
+ - [https://faculty.washington.edu](https://faculty.washington.edu)
+ - date published: 2023-10-25T19:05:59.829333+00:00
+ - user: None
+ - tags: []
+
+## UW Interactive Data Lab
+ - [https://idl.cs.washington.edu](https://idl.cs.washington.edu)
+ - date published: 2023-10-26T06:39:53.394657+00:00
+ - user: None
+ - tags: []
+
+## City-Wide IMSI-Catcher Detection - SeaGlass
+ - [https://seaglass.cs.washington.edu](https://seaglass.cs.washington.edu)
+ - date published: 2023-10-25T19:06:04.694581+00:00
+ - user: None
+ - tags: []
+
+## UW Staff Web Server
+ - [https://staff.washington.edu](https://staff.washington.edu)
+ - date published: 2023-10-25T19:06:09.097286+00:00
+ - user: None
+ - tags: []
+
+## UW Homepage
+ - [https://www.washington.edu](https://www.washington.edu)
+ - date published: 2023-10-25T19:06:16.518171+00:00
+ - user: None
+ - tags: ['university']
+
+## Word Warriors - Wayne State University
+ - [https://wordwarriors.wayne.edu](https://wordwarriors.wayne.edu)
+ - date published: 2023-10-25T19:06:22.803186+00:00
+ - user: None
+ - tags: []
+
+## https://apps.weber.edu
+ - [https://apps.weber.edu](https://apps.weber.edu)
+ - date published: 2024-01-09T03:28:57.379562+00:00
+ - user: None
+ - tags: []
+
+## 403 - Forbidden: Access is denied.
+ - [https://faculty.weber.edu](https://faculty.weber.edu)
+ - date published: 2023-10-25T19:06:32.887393+00:00
+ - user: None
+ - tags: []
+
+## The U.S. Military Academy at West Point | United States Military Academy West Point
+ - [https://www.westpoint.edu](https://www.westpoint.edu)
+ - date published: 2024-01-09T03:28:59.603602+00:00
+ - user: None
+ - tags: []
+
+## Williams College
+ - [https://web.williams.edu](https://web.williams.edu)
+ - date published: 2023-11-13T10:00:02.994920+00:00
+ - user: None
+ - tags: []
+
+## Prof. Joshua San Miguel - STACS Lab - University of Wisconsin-Madison
+ - [https://jsm.ece.wisc.edu](https://jsm.ece.wisc.edu)
+ - date published: 2023-10-25T19:06:36.281424+00:00
+ - user: None
+ - tags: []
+
+## News from the University of Wisconsin–Madison
+ - [https://news.wisc.edu](https://news.wisc.edu)
+ - date published: 2023-11-12T12:01:17.297435+00:00
+ - user: None
+ - tags: []
+
+## UW Computer Sciences User Pages
+ - [https://pages.cs.wisc.edu](https://pages.cs.wisc.edu)
+ - date published: 2023-10-25T19:06:38.993669+00:00
+ - user: None
+ - tags: []
+
+## WSU Insider
+ - [https://news.wsu.edu](https://news.wsu.edu)
+ - date published: 2023-12-15T11:10:21.420611+00:00
+ - user: None
+ - tags: []
+
+## West Texas A&M University | WTAMU
+ - [https://www.wtamu.edu](https://www.wtamu.edu)
+ - date published: 2023-10-25T19:06:41.753042+00:00
+ - user: None
+ - tags: []
+
+## Washington University School of Medicine in St. Louis
+ - [https://medicine.wustl.edu](https://medicine.wustl.edu)
+ - date published: 2023-10-25T19:06:46.132338+00:00
+ - user: None
+ - tags: []
+
+## The Source | Washington University in St. Louis
+ - [https://source.wustl.edu](https://source.wustl.edu)
+ - date published: 2023-10-25T19:06:49.350674+00:00
+ - user: None
+ - tags: []
+
+## WVU Community Website
+ - [https://community.wvu.edu](https://community.wvu.edu)
+ - date published: 2023-10-25T19:06:50.246651+00:00
+ - user: None
+ - tags: []
+
+## https://cs-www.cs.yale.edu
+ - [https://cs-www.cs.yale.edu](https://cs-www.cs.yale.edu)
+ - date published: 2024-01-09T03:29:01.849380+00:00
+ - user: None
+ - tags: []
+
+## Yale E360
+ - [https://e360.yale.edu](https://e360.yale.edu)
+ - date published: 2023-10-25T19:06:53.110107+00:00
+ - user: None
+ - tags: []
+
+## Energy History – Energy History Online
+ - [https://energyhistory.yale.edu](https://energyhistory.yale.edu)
+ - date published: 2023-11-16T01:58:56.369597+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://law.yale.edu](https://law.yale.edu)
+ - date published: 2024-01-02T00:04:15.577147+00:00
+ - user: None
+ - tags: []
+
+## Yale School of Medicine
+ - [https://medicine.yale.edu](https://medicine.yale.edu)
+ - date published: 2023-12-27T12:02:00.358239+00:00
+ - user: None
+ - tags: []
+
+## YaleNews | Home
+ - [https://news.yale.edu](https://news.yale.edu)
+ - date published: 2023-10-25T19:06:55.320385+00:00
+ - user: None
+ - tags: []
+
+## https://www.cs.yale.edu
+ - [https://www.cs.yale.edu](https://www.cs.yale.edu)
+ - date published: 2024-01-09T03:29:02.859570+00:00
+ - user: None
+ - tags: []
+
+## Yale School Of Public Health
+ - [https://ysph.yale.edu](https://ysph.yale.edu)
+ - date published: 2023-12-12T22:22:14.445515+00:00
+ - user: None
+ - tags: []
+
+## Esileht - Ants Nomm
+ - [https://ano.ee](https://ano.ee)
+ - date published: 2023-10-25T19:06:58.105867+00:00
+ - user: None
+ - tags: []
+
+## Citroen Estonia
+ - [https://www.citroen.ee](https://www.citroen.ee)
+ - date published: 2023-12-11T15:49:58.226163+00:00
+ - user: None
+ - tags: []
+
+## fuzzy notepad
+ - [https://eev.ee](https://eev.ee)
+ - date published: 2023-10-25T08:49:06.921537+00:00
+ - user: None
+ - tags: ['personal']
+
+## news | ERR
+ - [https://news.err.ee](https://news.err.ee)
+ - date published: 2023-10-25T19:07:03.906710+00:00
+ - user: None
+ - tags: []
+
+## Haze Booth
+ - [https://haz.ee](https://haz.ee)
+ - date published: 2023-10-25T19:07:04.320998+00:00
+ - user: None
+ - tags: []
+
+## Jakarta® EE | Cloud Native Enterprise Java | Java EE | the Eclipse Foundation | The Eclipse Foundation
+ - [https://jakarta.ee](https://jakarta.ee)
+ - date published: 2023-10-25T19:07:06.974394+00:00
+ - user: None
+ - tags: []
+
+## Home | Jamie(.ee) Cole
+ - [https://www.jamie.ee](https://www.jamie.ee)
+ - date published: 2023-12-20T01:00:10.771518+00:00
+ - user: None
+ - tags: ['personal']
+
+## lemm.ee - General-purpose Lemmy instance. New users and communities welcome!
+ - [https://lemm.ee](https://lemm.ee)
+ - date published: 2023-10-24T20:14:55.872230+00:00
+ - user: None
+ - tags: []
+
+## Linktree: Link everything you are
+ - [https://linktr.ee](https://linktr.ee)
+ - date published: 2023-10-31T16:18:01.056130+00:00
+ - user: None
+ - tags: ['link service']
+
+## Mairedesign masinkudumise koolitus
+ - [https://www.masinkudumine.ee](https://www.masinkudumine.ee)
+ - date published: 2023-11-18T18:28:01.582875+00:00
+ - user: None
+ - tags: ['personal']
+
+## OmniFish – Jakarta EE Consulting & Support
+ - [https://omnifish.ee](https://omnifish.ee)
+ - date published: 2024-01-09T03:29:05.336267+00:00
+ - user: None
+ - tags: []
+
+## Hello there.
+ - [https://ounapuu.ee](https://ounapuu.ee)
+ - date published: 2023-10-25T08:49:07.717738+00:00
+ - user: None
+ - tags: ['personal']
+
+## Solutional - Agile Software Development Company
+ - [https://solutional.ee](https://solutional.ee)
+ - date published: 2023-10-25T19:07:07.982182+00:00
+ - user: None
+ - tags: []
+
+## https://raport.valisluureamet.ee
+ - [https://raport.valisluureamet.ee](https://raport.valisluureamet.ee)
+ - date published: 2024-01-09T03:29:09.650872+00:00
+ - user: None
+ - tags: []
+
 ## e-Residency of Estonia | Apply & start an EU company online
  - [https://www.e-resident.gov.ee](https://www.e-resident.gov.ee)
  - date published: 2023-10-25T19:07:11.004930+00:00
@@ -1743,6 +2001,12 @@
 ## Météo France - Prévisions METEO DETAILLEES à 15 jours - METEO CONSULT
  - [https://www.meteoconsult.fr](https://www.meteoconsult.fr)
  - date published: 2023-12-18T17:19:23.525460+00:00
+ - user: None
+ - tags: []
+
+## Moneylo – L'investissement, mais en (vraiment) simple
+ - [https://moneylo.fr](https://moneylo.fr)
+ - date published: 2024-01-16T23:53:52.013848+00:00
  - user: None
  - tags: []
 
@@ -5738,270 +6002,6 @@
 ## Academy Software Foundation - ASWF
  - [https://www.aswf.io](https://www.aswf.io)
  - date published: 2023-10-25T19:37:54.400426+00:00
- - user: None
- - tags: []
-
-## The Autodidacts
- - [https://www.autodidacts.io](https://www.autodidacts.io)
- - date published: 2023-10-25T09:21:59.454981+00:00
- - user: None
- - tags: ['personal']
-
-## Automatisch - Open Source Zapier Alternative
- - [https://automatisch.io](https://automatisch.io)
- - date published: 2023-10-25T19:38:01.066958+00:00
- - user: None
- - tags: []
-
-## Auxilia
- - [https://auxilia.io](https://auxilia.io)
- - date published: 2024-01-05T10:29:22.728060+00:00
- - user: None
- - tags: []
-
-## Axel’s Blog | Technical blog discussing reverse engineering, detections engineering, exploit development, capability development, and other cybersecurity topics.
- - [https://axelp.io](https://axelp.io)
- - date published: 2023-10-25T19:38:02.657295+00:00
- - user: None
- - tags: []
-
-## Ayo Ayco | Software Engineer, Web Developer, Consultant
- - [https://ayco.io](https://ayco.io)
- - date published: 2023-12-25T04:56:50.840416+00:00
- - user: None
- - tags: ['personal']
-
-## Babel · Babel
- - [https://babeljs.io](https://babeljs.io)
- - date published: 2023-10-25T19:38:04.462286+00:00
- - user: None
- - tags: []
-
-## Bank List - Find the Best Bank for Your Needs
- - [https://banklist.io](https://banklist.io)
- - date published: 2023-10-25T19:38:08.774494+00:00
- - user: None
- - tags: []
-
-## https://assets.bbhub.io
- - [https://assets.bbhub.io](https://assets.bbhub.io)
- - date published: 2024-01-09T03:32:44.228408+00:00
- - user: None
- - tags: []
-
-## The SQL Editor and Database Manager Of Your Dreams | Beekeeper Studio
- - [https://www.beekeeperstudio.io](https://www.beekeeperstudio.io)
- - date published: 2023-10-25T19:38:16.881595+00:00
- - user: None
- - tags: []
-
-## Ricard Bejarano – Site Reliability Engineer
- - [https://www.bejarano.io](https://www.bejarano.io)
- - date published: 2023-10-25T08:49:12.684001+00:00
- - user: None
- - tags: ['personal']
-
-## Bemi | Database change tracking enabled in under a minute
- - [https://bemi.io](https://bemi.io)
- - date published: 2024-01-11T21:51:38.369259+00:00
- - user: None
- - tags: []
-
-## Ben Myers | Home
- - [https://benmyers.io](https://benmyers.io)
- - date published: 2023-11-29T17:10:03.166882+00:00
- - user: None
- - tags: ['personal']
-
-## Andrew Benton's Blog
- - [https://blog.benton.io](https://blog.benton.io)
- - date published: 2023-10-25T19:38:20.516581+00:00
- - user: None
- - tags: []
-
-## Beren's Blog
- - [https://www.beren.io](https://www.beren.io)
- - date published: 2023-10-25T08:49:13.643486+00:00
- - user: None
- - tags: ['personal']
-
-## Alexis Bernard
- - [https://alexis.bernard.io](https://alexis.bernard.io)
- - date published: 2023-10-25T19:38:27.013256+00:00
- - user: None
- - tags: []
-
-## https://bernert.io
- - [https://bernert.io](https://bernert.io)
- - date published: 2023-12-16T07:27:54.422121+00:00
- - user: None
- - tags: ['personal']
-
-## Hacker News Summary - by ChatGPT
- - [https://hackernews.betacat.io](https://hackernews.betacat.io)
- - date published: 2023-10-25T19:38:30.979928+00:00
- - user: None
- - tags: []
-
-## The BigPicture.io Blog
- - [https://blog.bigpicture.io](https://blog.bigpicture.io)
- - date published: 2023-10-25T19:38:32.903857+00:00
- - user: None
- - tags: []
-
-## BinaryDigit
- - [https://binarydigit.io](https://binarydigit.io)
- - date published: 2024-01-01T17:21:39.444722+00:00
- - user: None
- - tags: []
-
-## The Inner Join
- - [https://innerjoin.bit.io](https://innerjoin.bit.io)
- - date published: 2023-10-25T19:38:36.310405+00:00
- - user: None
- - tags: []
-
-## Bit Bashing
- - [https://bitbashing.io](https://bitbashing.io)
- - date published: 2023-10-25T19:38:38.348088+00:00
- - user: None
- - tags: []
-
-## Mahesh Balakrishnan
- - [https://maheshba.bitbucket.io](https://maheshba.bitbucket.io)
- - date published: 2023-10-25T19:38:39.794842+00:00
- - user: None
- - tags: []
-
-## Home | bitmagnet
- - [https://bitmagnet.io](https://bitmagnet.io)
- - date published: 2023-10-25T19:38:40.683226+00:00
- - user: None
- - tags: []
-
-## MindPop
- - [https://mindpop.blankenship.io](https://mindpop.blankenship.io)
- - date published: 2023-10-25T19:38:41.879757+00:00
- - user: None
- - tags: []
-
-## WikiScroll
- - [https://wikiscroll.blankenship.io](https://wikiscroll.blankenship.io)
- - date published: 2023-10-25T19:38:42.548565+00:00
- - user: None
- - tags: []
-
-## Matt Blewitt
- - [https://matt.blwt.io](https://matt.blwt.io)
- - date published: 2023-10-25T19:38:43.360921+00:00
- - user: None
- - tags: []
-
-## booky.io | Online bookmark manager.
- - [https://booky.io](https://booky.io)
- - date published: 2023-11-26T16:45:14+00:00
- - user: rumpel
- - tags: ['bookmark manager']
-
-## Brad Woods' Digital Garden
- - [https://garden.bradwoods.io](https://garden.bradwoods.io)
- - date published: 2023-10-25T19:38:45.624360+00:00
- - user: None
- - tags: []
-
-## plus/minus epsilon
- - [https://blog.bren2010.io](https://blog.bren2010.io)
- - date published: 2023-10-25T19:38:47.226606+00:00
- - user: None
- - tags: []
-
-## Damien Brenelière's Blog
- - [https://www.brenel.io](https://www.brenel.io)
- - date published: 2023-12-09T14:59:45.290038+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Stephen Brennan
- - [https://brennan.io](https://brennan.io)
- - date published: 2023-12-09T10:38:32.840470+00:00
- - user: None
- - tags: ['personal']
-
-## https://bricolage.io
- - [https://bricolage.io](https://bricolage.io)
- - date published: 2023-10-25T09:22:00.295903+00:00
- - user: None
- - tags: ['personal']
-
-## Bug reporting for Next.js - Bugpilot
- - [https://www.bugpilot.io](https://www.bugpilot.io)
- - date published: 2023-10-25T19:38:50.347269+00:00
- - user: None
- - tags: []
-
-## Bazel at Enterprise Scale | BuildBuddy
- - [https://www.buildbuddy.io](https://www.buildbuddy.io)
- - date published: 2023-10-25T19:38:52.255059+00:00
- - user: None
- - tags: []
-
-## Framework reimagined for the edge! 📚 Qwik Documentation
- - [https://qwik.builder.io](https://qwik.builder.io)
- - date published: 2023-10-25T19:39:02.264388+00:00
- - user: None
- - tags: []
-
-## Builder.io: Drag & Drop Headless CMS
- - [https://www.builder.io](https://www.builder.io)
- - date published: 2023-11-10T17:59:53.727555+00:00
- - user: None
- - tags: []
-
-## Buttplug.io Documentation Site | buttplug.io
- - [https://stpihkal.docs.buttplug.io](https://stpihkal.docs.buttplug.io)
- - date published: 2023-10-25T19:39:09.612892+00:00
- - user: None
- - tags: []
-
-## Homepage – bytewax
- - [https://bytewax.io](https://bytewax.io)
- - date published: 2023-10-25T19:39:17.817255+00:00
- - user: None
- - tags: []
-
-## Code. Simply. Clearly. Calmly.
- - [https://calmcode.io](https://calmcode.io)
- - date published: 2023-10-25T19:39:22.006027+00:00
- - user: None
- - tags: []
-
-## Capillaries
- - [https://capillaries.io](https://capillaries.io)
- - date published: 2023-10-25T19:39:24.840675+00:00
- - user: None
- - tags: []
-
-## Career Fair - Level up your tech career
- - [https://www.careerfair.io](https://www.careerfair.io)
- - date published: 2023-10-25T19:39:29.525523+00:00
- - user: None
- - tags: []
-
-## CasaOS - A simple, easy-to-use, elegant open-source personal cloud system
- - [https://casaos.io](https://casaos.io)
- - date published: 2023-10-31T13:15:43.772223+00:00
- - user: None
- - tags: ['operating system']
-
-## Castle Game Engine - Free open-source cross-platform 3D 2D game engine with editor and powerful Pascal API
- - [https://castle-engine.io](https://castle-engine.io)
- - date published: 2023-10-25T19:39:32.258962+00:00
- - user: None
- - tags: []
-
-## Celso Martinho
- - [https://celso.io](https://celso.io)
- - date published: 2023-10-25T19:39:38.279176+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,333 @@
+## LiteDB :: A .NET embedded NoSQL database
+ - [https://www.litedb.org](https://www.litedb.org)
+ - date published: 2023-10-25T21:39:07.941318+00:00
+ - user: None
+ - tags: []
+
+## Take a Book. Share a Book. - Little Free Library
+ - [https://littlefreelibrary.org](https://littlefreelibrary.org)
+ - date published: 2023-10-25T21:39:11.222918+00:00
+ - user: None
+ - tags: []
+
+## Live Action |  Pro-Life Advocacy for Dignity and Human Rights
+ - [https://www.liveaction.org](https://www.liveaction.org)
+ - date published: 2023-10-25T21:39:14.444748+00:00
+ - user: None
+ - tags: []
+
+## LKML.ORG - the Linux Kernel Mailing List Archive
+ - [https://lkml.org](https://lkml.org)
+ - date published: 2023-11-13T12:04:53.320666+00:00
+ - user: None
+ - tags: []
+
+## Universal and Transferable Attacks on Aligned Language Models
+ - [https://llm-attacks.org](https://llm-attacks.org)
+ - date published: 2023-10-25T21:39:17.051556+00:00
+ - user: None
+ - tags: []
+
+## GPU Utils ⚡️
+ - [https://gpus.llm-utils.org](https://gpus.llm-utils.org)
+ - date published: 2023-10-25T21:39:18.562208+00:00
+ - user: None
+ - tags: []
+
+## Home - LLM Utils
+ - [https://llm-utils.org](https://llm-utils.org)
+ - date published: 2023-10-25T21:39:20.535334+00:00
+ - user: None
+ - tags: []
+
+## The LLVM Project Blog
+ - [https://blog.llvm.org](https://blog.llvm.org)
+ - date published: 2023-12-12T23:37:43.090695+00:00
+ - user: None
+ - tags: []
+
+## LLVM Discussion Forums - Our community includes both users and developers of various compiler technologies within the LLVM project.
+ - [https://discourse.llvm.org](https://discourse.llvm.org)
+ - date published: 2023-10-25T21:39:24.567913+00:00
+ - user: None
+ - tags: []
+
+## The LLVM Compiler Infrastructure Project
+ - [https://llvm.org](https://llvm.org)
+ - date published: 2023-10-25T21:39:28.896311+00:00
+ - user: None
+ - tags: []
+
+## Download LLVM releases
+ - [https://releases.llvm.org](https://releases.llvm.org)
+ - date published: 2023-10-25T21:39:30.474866+00:00
+ - user: None
+ - tags: []
+
+## Loża-Matka "Kopernik"
+ - [https://lmkopernik.org](https://lmkopernik.org)
+ - date published: 2023-12-05T15:16:55+00:00
+ - user: rumpel
+ - tags: ['freemasonry']
+
+## LMSYS Org
+ - [https://lmsys.org](https://lmsys.org)
+ - date published: 2023-10-25T21:39:31.970567+00:00
+ - user: None
+ - tags: []
+
+## Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality | LMSYS Org
+ - [https://vicuna.lmsys.org](https://vicuna.lmsys.org)
+ - date published: 2023-10-25T21:39:33.956719+00:00
+ - user: None
+ - tags: []
+
+## Opening the target...
+ - [https://mw.lojban.org](https://mw.lojban.org)
+ - date published: 2023-10-25T21:39:36.643198+00:00
+ - user: None
+ - tags: []
+
+## LONG NOW — fostering long term thinking
+ - [https://longnow.org](https://longnow.org)
+ - date published: 2023-10-25T21:39:39.438749+00:00
+ - user: None
+ - tags: []
+
+## FDD's Long War Journal
+ - [https://www.longwarjournal.org](https://www.longwarjournal.org)
+ - date published: 2023-11-10T03:51:21.976358+00:00
+ - user: None
+ - tags: []
+
+## LÖVE - Free 2D Game Engine
+ - [https://love2d.org](https://love2d.org)
+ - date published: 2023-10-25T08:35:50.630389+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://www.lpi.org](https://www.lpi.org)
+ - date published: 2024-01-09T03:41:18.717606+00:00
+ - user: None
+ - tags: []
+
+## Louisville Public Media
+ - [https://www.lpm.org](https://www.lpm.org)
+ - date published: 2023-11-06T14:35:50.495843+00:00
+ - user: None
+ - tags: []
+
+## https://lpython.org
+ - [https://lpython.org](https://lpython.org)
+ - date published: 2023-10-25T21:39:41.946449+00:00
+ - user: None
+ - tags: []
+
+## The Long Riders Guild Academic Foundation
+ - [https://www.lrgaf.org](https://www.lrgaf.org)
+ - date published: 2024-01-09T03:41:28.231971+00:00
+ - user: None
+ - tags: []
+
+## The L-Space Web - A Terry Pratchett / Discworld Web® Site
+ - [https://www.lspace.org](https://www.lspace.org)
+ - date published: 2023-11-16T07:01:44.475059+00:00
+ - user: None
+ - tags: []
+
+## The Programming Language Lua
+ - [https://www.lua.org](https://www.lua.org)
+ - date published: 2023-10-25T21:39:44.587710+00:00
+ - user: None
+ - tags: []
+
+## Luke Harold Miles
+ - [https://lukemiles.org](https://lukemiles.org)
+ - date published: 2024-01-12T18:47:12.686223+00:00
+ - user: None
+ - tags: []
+
+## Home Page for David Drysdale
+ - [https://www.lurklurk.org](https://www.lurklurk.org)
+ - date published: 2023-10-25T21:39:48.617218+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Mathematical Association of America
+ - [https://maa.org](https://maa.org)
+ - date published: 2023-10-25T21:39:56.661675+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Mathematical Association of America
+ - [https://www.maa.org](https://www.maa.org)
+ - date published: 2023-10-25T21:40:08.149299+00:00
+ - user: None
+ - tags: []
+
+## Macaulay Library
+ - [https://www.macaulaylibrary.org](https://www.macaulaylibrary.org)
+ - date published: 2023-12-07T00:42:18.929148+00:00
+ - user: None
+ - tags: []
+
+## Macintosh Garden - Celebrating Macintosh Abandonware!
+ - [https://www.macintoshgarden.org](https://www.macintoshgarden.org)
+ - date published: 2023-10-27T14:50:05.944370+00:00
+ - user: None
+ - tags: ['abandonware', 'retro games']
+
+## macOS Containers Initiative
+ - [https://macoscontainers.org](https://macoscontainers.org)
+ - date published: 2023-10-25T21:40:08.656728+00:00
+ - user: None
+ - tags: []
+
+## MadSciNet: The 24-hour exploding laboratory.
+ - [https://www.madsci.org](https://www.madsci.org)
+ - date published: 2023-10-25T21:40:09.904654+00:00
+ - user: None
+ - tags: []
+
+## Secure e-mail for private and business customers | mailbox.org
+ - [https://mailbox.org](https://mailbox.org)
+ - date published: 2023-10-25T21:40:11.120497+00:00
+ - user: None
+ - tags: []
+
+## Maine State Legislature - Home
+ - [https://www.mainelegislature.org](https://www.mainelegislature.org)
+ - date published: 2023-10-25T21:40:12.533641+00:00
+ - user: None
+ - tags: []
+
+## Index of /.
+ - [https://maizure.org](https://maizure.org)
+ - date published: 2023-10-25T21:40:18.210567+00:00
+ - user: None
+ - tags: []
+
+## https://makie.org
+ - [https://makie.org](https://makie.org)
+ - date published: 2024-01-09T03:41:29.122373+00:00
+ - user: None
+ - tags: []
+
+## MAMEdev.org | Home of The MAME Project
+ - [https://www.mamedev.org](https://www.mamedev.org)
+ - date published: 2023-10-25T08:33:59.180459+00:00
+ - user: None
+ - tags: []
+
+## Michael Kerrisk - man7.org
+ - [https://man7.org](https://man7.org)
+ - date published: 2023-10-25T08:54:54.932586+00:00
+ - user: None
+ - tags: ['personal']
+
+## Michael Kerrisk - man7.org
+ - [https://www.man7.org](https://www.man7.org)
+ - date published: 2023-11-01T08:44:26.382114+00:00
+ - user: None
+ - tags: []
+
+## Manifund
+ - [https://manifund.org](https://manifund.org)
+ - date published: 2023-10-25T21:40:31.014774+00:00
+ - user: None
+ - tags: []
+
+## Manjaro
+ - [https://manjaro.org](https://manjaro.org)
+ - date published: 2023-10-25T08:32:30.040310+00:00
+ - user: None
+ - tags: ['operating system', 'linux']
+
+## Home - Manner of speaking
+ - [https://mannerofspeaking.org](https://mannerofspeaking.org)
+ - date published: 2024-01-11T12:22:38.220954+00:00
+ - user: None
+ - tags: []
+
+## Manton Reece
+ - [https://www.manton.org](https://www.manton.org)
+ - date published: 2023-10-25T08:54:57.479172+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://manytools.org](https://manytools.org)
+ - date published: 2023-10-30T13:46:40.956044+00:00
+ - user: None
+ - tags: []
+
+## Museo de Arte de Puerto Rico |
+ - [https://www.mapr.org](https://www.mapr.org)
+ - date published: 2023-11-13T13:47:30.668564+00:00
+ - user: None
+ - tags: ['museum']
+
+## Marco.org
+ - [https://marco.org](https://marco.org)
+ - date published: 2023-10-25T08:55:03.700528+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Marcosticks
+ - [https://marcosticks.org](https://marcosticks.org)
+ - date published: 2023-10-25T21:40:39.086833+00:00
+ - user: None
+ - tags: []
+
+## Now - kms
+ - [https://kyle.marek-spartz.org](https://kyle.marek-spartz.org)
+ - date published: 2024-01-03T04:06:26.789875+00:00
+ - user: None
+ - tags: []
+
+## Mario Sanchez Carrion | mariosanchez.org
+ - [https://mariosanchez.org](https://mariosanchez.org)
+ - date published: 2023-11-29T15:48:28.173933+00:00
+ - user: None
+ - tags: ['personal']
+
+## Marketplace - Business News & Economic Stories For Everyone.
+ - [https://www.marketplace.org](https://www.marketplace.org)
+ - date published: 2023-10-25T21:40:43.366236+00:00
+ - user: None
+ - tags: []
+
+## Mark O'Neill
+ - [https://markoneill.org](https://markoneill.org)
+ - date published: 2023-12-12T07:04:45.862225+00:00
+ - user: None
+ - tags: ['personal']
+
+## MarTech
+ - [https://martech.org](https://martech.org)
+ - date published: 2024-01-09T05:07:40.902644+00:00
+ - user: None
+ - tags: []
+
+## Award-winning cancer care in Virginia
+ - [https://www.masseycancercenter.org](https://www.masseycancercenter.org)
+ - date published: 2023-11-07T14:33:04.946309+00:00
+ - user: None
+ - tags: []
+
+## Massachusetts General Hospital
+ - [https://www.massgeneral.org](https://www.massgeneral.org)
+ - date published: 2023-12-03T07:38:18.354294+00:00
+ - user: None
+ - tags: []
+
+## massicotte.org | I write stuff here.
+ - [https://www.massicotte.org](https://www.massicotte.org)
+ - date published: 2023-10-25T21:40:44.215042+00:00
+ - user: None
+ - tags: []
+
 ## Mastering Emacs
  - [https://www.masteringemacs.org](https://www.masteringemacs.org)
  - date published: 2023-10-25T08:40:44.720587+00:00
@@ -1746,7 +2076,7 @@ Common Weakness Enumeration
  - [https://openrss.org](https://openrss.org)
  - date published: 2024-01-16T00:45:10.574589+00:00
  - user: None
- - tags: []
+ - tags: ['rss']
 
 ## A Grand Theft Auto III Re-Implementation
  - [https://openrw.org](https://openrw.org)
@@ -4793,6 +5123,12 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
+## The Crime Report | Your Complete Criminal Justice Resource
+ - [https://thecrimereport.org](https://thecrimereport.org)
+ - date published: 2024-01-16T09:56:36.466395+00:00
+ - user: None
+ - tags: []
+
 ## The Debrief - Science, Tech and Defense for the Rebelliously Curious.
  - [https://thedebrief.org](https://thedebrief.org)
  - date published: 2023-10-25T22:13:48.410021+00:00
@@ -5667,342 +6003,6 @@ Common Weakness Enumeration
 ## Vine Robots – Learn to make your own!
  - [https://www.vinerobots.org](https://www.vinerobots.org)
  - date published: 2023-10-25T22:17:31.334649+00:00
- - user: None
- - tags: []
-
-## Vintage Apple
- - [https://vintageapple.org](https://vintageapple.org)
- - date published: 2023-10-25T22:17:38.659417+00:00
- - user: None
- - tags: []
-
-## A virtual museum of Tektronix products, technology, and people
- - [https://vintagetek.org](https://vintagetek.org)
- - date published: 2023-11-19T23:34:21.585596+00:00
- - user: None
- - tags: []
-
-## The Viridian Design Movement
- - [https://www.viridiandesign.org](https://www.viridiandesign.org)
- - date published: 2023-10-25T22:17:40.101109+00:00
- - user: None
- - tags: []
-
-## Oracle VM VirtualBox
- - [https://www.virtualbox.org](https://www.virtualbox.org)
- - date published: 2023-10-25T22:17:41.368693+00:00
- - user: None
- - tags: []
-
-## Federico's Blog
- - [https://viruta.org](https://viruta.org)
- - date published: 2023-10-25T22:17:42.708643+00:00
- - user: None
- - tags: []
-
-## Visual Literacy |
- - [https://www.visual-literacy.org](https://www.visual-literacy.org)
- - date published: 2024-01-15T08:30:13.627778+00:00
- - user: None
- - tags: []
-
-## Vitalic - Dissidænce
- - [https://www.vitalic.org](https://www.vitalic.org)
- - date published: 2023-11-13T10:28:23.377605+00:00
- - user: None
- - tags: ['music band']
-
-## viXra.org open e-Print archive
- - [https://vixra.org](https://vixra.org)
- - date published: 2023-10-25T22:17:44.457600+00:00
- - user: None
- - tags: []
-
-## VLDB Endowment Inc.
- - [https://vldb.org](https://vldb.org)
- - date published: 2023-10-25T22:17:46.407190+00:00
- - user: None
- - tags: []
-
-## VOGONS
- - [https://www.vogons.org](https://www.vogons.org)
- - date published: 2023-10-25T22:17:48.197911+00:00
- - user: None
- - tags: []
-
-## Nathaniel J. Smith: Academic homepage
- - [https://vorpus.org](https://vorpus.org)
- - date published: 2023-10-25T22:17:48.895824+00:00
- - user: None
- - tags: []
-
-## VQR Online | A National Journal of Literature & Discussion
- - [https://www.vqronline.org](https://www.vqronline.org)
- - date published: 2023-10-25T22:17:51.725128+00:00
- - user: None
- - tags: []
-
-## Home page - VSQUARE.ORG
- - [https://vsquare.org](https://vsquare.org)
- - date published: 2023-10-25T22:17:54.062301+00:00
- - user: None
- - tags: []
-
-## The Vintage Technology Digital Archive
- - [https://vtda.org](https://vtda.org)
- - date published: 2023-10-25T22:17:59.666651+00:00
- - user: None
- - tags: []
-
-## VTDigger - News in pursuit of truth
- - [https://vtdigger.org](https://vtdigger.org)
- - date published: 2024-01-02T09:03:37.832643+00:00
- - user: None
- - tags: []
-
-## Redirect Notice
- - [https://docs.vulkan.org](https://docs.vulkan.org)
- - date published: 2023-10-25T22:18:00.222735+00:00
- - user: None
- - tags: []
-
-## VUMC Reporter
- - [https://news.vumc.org](https://news.vumc.org)
- - date published: 2023-12-09T12:38:26.245882+00:00
- - user: None
- - tags: []
-
-## REST API Handbook | WordPress Developer Resources
- - [https://api.w.org](https://api.w.org)
- - date published: 2023-12-11T15:38:03.840242+00:00
- - user: None
- - tags: ['wordpress']
-
-## Blog Tool, Publishing Platform, and CMS - WordPress.org
- - [https://s.w.org](https://s.w.org)
- - date published: 2023-12-13T15:40:25.310964+00:00
- - user: None
- - tags: ['wordpress']
-
-## Blog Tool, Publishing Platform, and CMS - WordPress.org
- - [https://w.org](https://w.org)
- - date published: 2023-12-08T13:22:13+00:00
- - user: rumpel
- - tags: []
-
-## W3C
- - [https://beta.w3.org](https://beta.w3.org)
- - date published: 2023-10-25T22:18:02.678538+00:00
- - user: None
- - tags: ['css', 'standards', 'html']
-
-## Jigsaw Overview
- - [https://jigsaw.w3.org](https://jigsaw.w3.org)
- - date published: 2023-12-11T18:58:53.178352+00:00
- - user: None
- - tags: []
-
-## W3C Public mailing list archives
- - [https://lists.w3.org](https://lists.w3.org)
- - date published: 2023-10-25T22:18:33.690977+00:00
- - user: None
- - tags: []
-
-## The W3C Markup Validation Service
- - [https://validator.w3.org](https://validator.w3.org)
- - date published: 2023-12-06T09:55:45+00:00
- - user: rumpel
- - tags: ['online tool', 'online validation', 'html', 'standards']
-
-## W3C
- - [https://www.w3.org](https://www.w3.org)
- - date published: 2023-10-25T22:18:35.833687+00:00
- - user: None
- - tags: ['css', 'standards', 'html']
-
-## None
- - [https://www.w3c.org](https://www.w3c.org)
- - date published: 2024-01-09T03:43:02.582200+00:00
- - user: None
- - tags: []
-
-## Wait Until 8th
- - [https://www.waituntil8th.org](https://www.waituntil8th.org)
- - date published: 2023-10-25T22:18:38.042000+00:00
- - user: None
- - tags: []
-
-## WASM-4
- - [https://wasm4.org](https://wasm4.org)
- - date published: 2023-10-25T22:18:39.853991+00:00
- - user: None
- - tags: []
-
-## WasmEdge
- - [https://wasmedge.org](https://wasmedge.org)
- - date published: 2023-10-25T22:18:41.772980+00:00
- - user: None
- - tags: []
-
-## Waxy.org - Andy Baio lives here
- - [https://waxy.org](https://waxy.org)
- - date published: 2023-10-25T22:18:46.328432+00:00
- - user: None
- - tags: []
-
-## Wayfire
- - [https://wayfire.org](https://wayfire.org)
- - date published: 2023-10-25T22:18:47.793906+00:00
- - user: None
- - tags: []
-
-## WBEZ | Chicago's NPR News Source
- - [https://www.wbez.org](https://www.wbez.org)
- - date published: 2023-12-23T15:29:48.836182+00:00
- - user: None
- - tags: []
-
-## WBUR
- - [https://www.wbur.org](https://www.wbur.org)
- - date published: 2023-10-25T22:19:31.902189+00:00
- - user: None
- - tags: []
-
-## Webamp · Winamp 2 in your browser
- - [https://webamp.org](https://webamp.org)
- - date published: 2023-10-25T22:19:32.574660+00:00
- - user: None
- - tags: []
-
-## Webb Home
- - [https://webbtelescope.org](https://webbtelescope.org)
- - date published: 2023-10-25T22:19:34.651102+00:00
- - user: None
- - tags: []
-
-## WebGL2 Fundamentals
- - [https://webgl2fundamentals.org](https://webgl2fundamentals.org)
- - date published: 2023-10-25T22:19:36.392646+00:00
- - user: None
- - tags: []
-
-## WebGPU Fundamentals
- - [https://webgpufundamentals.org](https://webgpufundamentals.org)
- - date published: 2023-10-25T22:19:37.466580+00:00
- - user: None
- - tags: []
-
-## The World Wide Web History Project
- - [http://1997.webhistory.org](http://1997.webhistory.org)
- - date published: 2023-10-25T22:19:38.470554+00:00
- - user: None
- - tags: []
-
-## Bugzilla Main Page
- - [https://bugs.webkit.org](https://bugs.webkit.org)
- - date published: 2023-10-25T22:19:39.612366+00:00
- - user: None
- - tags: []
-
-## WebKit
- - [https://webkit.org](https://webkit.org)
- - date published: 2023-10-25T22:19:41.698798+00:00
- - user: None
- - tags: []
-
-## Web Monetization
- - [https://webmonetization.org](https://webmonetization.org)
- - date published: 2023-10-25T22:19:42.833645+00:00
- - user: None
- - tags: []
-
-## WebPageTest Blog
- - [https://blog.webpagetest.org](https://blog.webpagetest.org)
- - date published: 2023-10-25T22:19:43.863277+00:00
- - user: None
- - tags: []
-
-## websdr.org
- - [https://www.websdr.org](https://www.websdr.org)
- - date published: 2023-10-26T23:03:35.129196+00:00
- - user: None
- - tags: []
-
-## WeeChat dev news
- - [https://blog.weechat.org](https://blog.weechat.org)
- - date published: 2023-10-25T22:19:47.148361+00:00
- - user: None
- - tags: []
-
-## The World Economic Forum
- - [https://www.weforum.org](https://www.weforum.org)
- - date published: 2023-10-25T11:30:42.756449+00:00
- - user: None
- - tags: []
-
-## World Economic Forum - Home
- - [https://www3.weforum.org](https://www3.weforum.org)
- - date published: 2023-10-25T22:19:53.830894+00:00
- - user: None
- - tags: []
-
-## Wejn’s corner on the interwebs.
- - [https://wejn.org](https://wejn.org)
- - date published: 2023-10-25T08:55:18.348509+00:00
- - user: None
- - tags: ['personal']
-
-## Test Page for the Apache HTTP Server on CloudLinux
- - [https://www.wermac.org](https://www.wermac.org)
- - date published: 2023-10-25T22:19:55.137989+00:00
- - user: None
- - tags: []
-
-## The Battle for Wesnoth
- - [https://wesnoth.org](https://wesnoth.org)
- - date published: 2023-10-29T13:05:11.269368+00:00
- - user: None
- - tags: ['open source', 'game']
-
-## The Westminster Declaration
- - [https://westminsterdeclaration.org](https://westminsterdeclaration.org)
- - date published: 2023-10-27T12:07:12.002789+00:00
- - user: None
- - tags: []
-
-## Wez Furlong, Open Sourceror
- - [https://wezfurlong.org](https://wezfurlong.org)
- - date published: 2023-10-25T22:19:57.560546+00:00
- - user: None
- - tags: []
-
-## Indianapolis' Public Radio, TV & News Station | WFYI
- - [https://www.wfyi.org](https://www.wfyi.org)
- - date published: 2023-10-25T22:20:00.574986+00:00
- - user: None
- - tags: []
-
-## WGA Contract 2023
- - [https://www.wgacontract2023.org](https://www.wgacontract2023.org)
- - date published: 2023-10-25T22:20:03.583080+00:00
- - user: None
- - tags: []
-
-## GBH.org
- - [https://www.wgbh.org](https://www.wgbh.org)
- - date published: 2023-11-29T05:46:53.911077+00:00
- - user: None
- - tags: []
-
-## WGCU Public Media - PBS and NPR for Southwest Florida
- - [https://news.wgcu.org](https://news.wgcu.org)
- - date published: 2023-12-08T08:34:50.964802+00:00
- - user: None
- - tags: []
-
-## What Is My Screen Resolution
- - [https://www.whatismyscreenresolution.org](https://www.whatismyscreenresolution.org)
- - date published: 2024-01-07T05:40:05+00:00
  - user: None
  - tags: []
 

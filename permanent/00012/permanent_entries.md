@@ -1,3 +1,249 @@
+## Pegasus Spiele
+ - [https://pegasus.de](https://pegasus.de)
+ - date published: 2023-10-30T12:01:05.937311+00:00
+ - user: None
+ - tags: []
+
+## phryneas.de
+ - [https://phryneas.de](https://phryneas.de)
+ - date published: 2023-10-25T18:32:28.870643+00:00
+ - user: None
+ - tags: []
+
+## PSI Software SE - Software für Energieversorger, Industrieunternehmen und Infrastrukturbetreiber
+ - [https://www.psi.de](https://www.psi.de)
+ - date published: 2023-10-25T11:28:57.913466+00:00
+ - user: None
+ - tags: []
+
+## Qantara.de - Dialogue with the Islamic World |
+ - [https://en.qantara.de](https://en.qantara.de)
+ - date published: 2023-10-25T18:32:31.147423+00:00
+ - user: None
+ - tags: []
+
+## ralfj.de
+ - [https://www.ralfj.de](https://www.ralfj.de)
+ - date published: 2023-10-25T18:32:31.634686+00:00
+ - user: None
+ - tags: []
+
+## https://www.rammstein.de
+ - [https://www.rammstein.de](https://www.rammstein.de)
+ - date published: 2023-10-25T13:45:45.378120+00:00
+ - user: None
+ - tags: ['music band']
+
+## RedTeam Pentesting - Blog
+ - [https://blog.redteam-pentesting.de](https://blog.redteam-pentesting.de)
+ - date published: 2024-01-03T15:25:30.538368+00:00
+ - user: None
+ - tags: []
+
+## retrocmp / retro computing
+ - [https://retrocmp.de](https://retrocmp.de)
+ - date published: 2023-10-25T11:15:38.287955+00:00
+ - user: None
+ - tags: []
+
+## RWieruch
+ - [https://www.robinwieruch.de](https://www.robinwieruch.de)
+ - date published: 2023-10-25T18:32:32.464114+00:00
+ - user: None
+ - tags: []
+
+## root42 - Arne's Homepage
+ - [https://www.root42.de](https://www.root42.de)
+ - date published: 2023-10-25T18:32:33.188691+00:00
+ - user: None
+ - tags: []
+
+## rsadowski.de
+ - [https://rsadowski.de](https://rsadowski.de)
+ - date published: 2024-01-08T18:34:59.214173+00:00
+ - user: None
+ - tags: []
+
+## Newsportal - Ruhr-Universität Bochum
+ - [https://news.rub.de](https://news.rub.de)
+ - date published: 2023-10-30T21:58:13.353774+00:00
+ - user: None
+ - tags: []
+
+## Homepage von Andreas und Marie-Theres Saremba
+ - [http://www.saremba.de](http://www.saremba.de)
+ - date published: 2023-10-25T18:32:33.526919+00:00
+ - user: None
+ - tags: []
+
+## Positionierung stärkt Selbständige | Sascha Theobald
+ - [https://www.sascha-theobald.de](https://www.sascha-theobald.de)
+ - date published: 2023-12-23T07:29:45.118390+00:00
+ - user: None
+ - tags: ['personal']
+
+## Beyond the Frame
+ - [https://schmud.de](https://schmud.de)
+ - date published: 2023-11-15T17:42:13.603677+00:00
+ - user: None
+ - tags: ['personal', 'blog']
+
+## Sebastian Holstein
+ - [https://sebastian-holstein.de](https://sebastian-holstein.de)
+ - date published: 2023-10-25T18:32:34.240038+00:00
+ - user: None
+ - tags: []
+
+## Simon schreibt.
+ - [https://simonschreibt.de](https://simonschreibt.de)
+ - date published: 2023-10-25T18:32:36.399916+00:00
+ - user: None
+ - tags: []
+
+## Home | Sovereign Tech Fund
+ - [https://www.sovereigntechfund.de](https://www.sovereigntechfund.de)
+ - date published: 2023-12-16T05:56:10.685928+00:00
+ - user: None
+ - tags: []
+
+## Spark Innovation – Martin Ferfers
+ - [https://www.spark-innovation.de](https://www.spark-innovation.de)
+ - date published: 2023-12-22T17:51:37.712266+00:00
+ - user: None
+ - tags: ['personal']
+
+## Tagebücher der Wissenschaft » SciLogs - Wissenschaftsblogs
+ - [https://scilogs.spektrum.de](https://scilogs.spektrum.de)
+ - date published: 2023-10-25T18:32:38.955822+00:00
+ - user: None
+ - tags: []
+
+## DER SPIEGEL | Online-Nachrichten
+ - [https://www.spiegel.de](https://www.spiegel.de)
+ - date published: 2023-11-06T15:41:57.887667+00:00
+ - user: None
+ - tags: ['news', 'germany']
+
+## Spiegelburg Onlineshop | Ungewöhnlich anders & voller Überraschungen
+ - [https://www.spiegelburg-shop.de](https://www.spiegelburg-shop.de)
+ - date published: 2023-12-28T11:09:44.236543+00:00
+ - user: None
+ - tags: []
+
+## sst13 - Quake3 Maps
+ - [https://sst13.de](https://sst13.de)
+ - date published: 2023-10-28T20:30:23.101250+00:00
+ - user: None
+ - tags: ['quake']
+
+## https://digital.staatsbibliothek-berlin.de
+ - [https://digital.staatsbibliothek-berlin.de](https://digital.staatsbibliothek-berlin.de)
+ - date published: 2023-10-25T18:32:39.387140+00:00
+ - user: None
+ - tags: []
+
+## Stefan-Marr.de · personal and research notes
+ - [https://stefan-marr.de](https://stefan-marr.de)
+ - date published: 2023-10-25T18:32:40.817597+00:00
+ - user: None
+ - tags: []
+
+## Thomas Stensitzki
+ - [https://www.stensitzki.de](https://www.stensitzki.de)
+ - date published: 2024-01-03T01:12:18.386735+00:00
+ - user: None
+ - tags: []
+
+## Aktuelle Nachrichten und Kommentare - SZ.de
+ - [https://www.sueddeutsche.de](https://www.sueddeutsche.de)
+ - date published: 2023-10-25T18:32:54.580719+00:00
+ - user: None
+ - tags: []
+
+## SymbOS – Crazy Preemptive Multitasking OS for Z80
+ - [http://www.symbos.de](http://www.symbos.de)
+ - date published: 2023-12-22T16:57:22+00:00
+ - user: None
+ - tags: []
+
+## HP-15C: A Simulator for Windows, Linux and macOS
+ - [https://hp-15c.homepage.t-online.de](https://hp-15c.homepage.t-online.de)
+ - date published: 2023-10-25T18:32:55.137051+00:00
+ - user: None
+ - tags: []
+
+## t3n | Das Magazin für digitales Business
+ - [https://t3n.de](https://t3n.de)
+ - date published: 2023-12-27T19:01:46.731365+00:00
+ - user: None
+ - tags: []
+
+## Hi there, Friend! : tchncs.de
+ - [https://tchncs.de](https://tchncs.de)
+ - date published: 2023-10-25T18:32:56.483309+00:00
+ - user: None
+ - tags: []
+
+## tele-TASK
+ - [https://www.tele-task.de](https://www.tele-task.de)
+ - date published: 2023-11-24T16:44:19.800399+00:00
+ - user: None
+ - tags: []
+
+## The Local Germany - News and practical guides in English
+ - [https://www.thelocal.de](https://www.thelocal.de)
+ - date published: 2023-12-30T10:05:50.800353+00:00
+ - user: None
+ - tags: []
+
+## thenybble.de
+ - [https://thenybble.de](https://thenybble.de)
+ - date published: 2023-10-25T18:32:57.087216+00:00
+ - user: None
+ - tags: []
+
+## Tims blog
+ - [https://timbuening.de](https://timbuening.de)
+ - date published: 2024-01-07T11:02:58.507889+00:00
+ - user: None
+ - tags: []
+
+## Timo Zander — Cologne-based Software Developer
+ - [https://timozander.de](https://timozander.de)
+ - date published: 2023-10-25T18:32:57.895419+00:00
+ - user: None
+ - tags: []
+
+## Henning Koch
+ - [https://triskweline.de](https://triskweline.de)
+ - date published: 2024-01-09T02:56:23.463055+00:00
+ - user: None
+ - tags: []
+
+## Home - Leibniz-Institut für Troposphärenforschung e.V. (TROPOS)
+ - [https://www.tropos.de](https://www.tropos.de)
+ - date published: 2023-12-21T15:45:59.681751+00:00
+ - user: None
+ - tags: []
+
+## www.user.tu-berlin.de
+ - [https://www.user.tu-berlin.de](https://www.user.tu-berlin.de)
+ - date published: 2023-10-25T18:33:04.460538+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.tu-darmstadt.de](https://www.tu-darmstadt.de)
+ - date published: 2023-12-02T05:46:14.228323+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science - TUM School of Computation, Information and Technology - Department of Computer Science
+ - [https://www.cs.cit.tum.de](https://www.cs.cit.tum.de)
+ - date published: 2023-10-25T18:33:05.751862+00:00
+ - user: None
+ - tags: []
+
 ## The Entrepreneurial University - TUM
  - [https://www.tum.de](https://www.tum.de)
  - date published: 2023-12-12T22:22:55.827588+00:00
@@ -109,6 +355,12 @@
 ## vzbv
  - [https://www.vzbv.de](https://www.vzbv.de)
  - date published: 2023-10-31T08:58:05.940865+00:00
+ - user: None
+ - tags: []
+
+## Not Found
+ - [https://downloads.webis.de](https://downloads.webis.de)
+ - date published: 2024-01-16T17:22:29.443496+00:00
  - user: None
  - tags: []
 
@@ -1451,6 +1703,12 @@
  - date published: 2023-12-12T04:53:12.747632+00:00
  - user: None
  - tags: ['personal']
+
+## https://indiebackers.dev
+ - [https://indiebackers.dev](https://indiebackers.dev)
+ - date published: 2024-01-16T11:11:45.517650+00:00
+ - user: None
+ - tags: []
 
 ## Nobody5050 | Homepage
  - [https://6502.is-a.dev](https://6502.is-a.dev)
@@ -5755,264 +6013,6 @@
 ## Newsroom | Atrium Health Wake Forest Baptist
  - [https://newsroom.wakehealth.edu](https://newsroom.wakehealth.edu)
  - date published: 2023-10-25T19:05:55.541527+00:00
- - user: None
- - tags: []
-
-## Accredited Online University
- - [https://www.waldenu.edu](https://www.waldenu.edu)
- - date published: 2024-01-09T19:16:48.326131+00:00
- - user: None
- - tags: []
-
-## courses.cs.washington.edu
- - [https://courses.cs.washington.edu](https://courses.cs.washington.edu)
- - date published: 2023-10-25T19:05:57.896541+00:00
- - user: None
- - tags: []
-
-## UW Departments Web Server
- - [https://depts.washington.edu](https://depts.washington.edu)
- - date published: 2023-11-13T19:09:28.425970+00:00
- - user: None
- - tags: []
-
-## UW Faculty Web Server
- - [https://faculty.washington.edu](https://faculty.washington.edu)
- - date published: 2023-10-25T19:05:59.829333+00:00
- - user: None
- - tags: []
-
-## UW Interactive Data Lab
- - [https://idl.cs.washington.edu](https://idl.cs.washington.edu)
- - date published: 2023-10-26T06:39:53.394657+00:00
- - user: None
- - tags: []
-
-## City-Wide IMSI-Catcher Detection - SeaGlass
- - [https://seaglass.cs.washington.edu](https://seaglass.cs.washington.edu)
- - date published: 2023-10-25T19:06:04.694581+00:00
- - user: None
- - tags: []
-
-## UW Staff Web Server
- - [https://staff.washington.edu](https://staff.washington.edu)
- - date published: 2023-10-25T19:06:09.097286+00:00
- - user: None
- - tags: []
-
-## UW Homepage
- - [https://www.washington.edu](https://www.washington.edu)
- - date published: 2023-10-25T19:06:16.518171+00:00
- - user: None
- - tags: ['university']
-
-## Word Warriors - Wayne State University
- - [https://wordwarriors.wayne.edu](https://wordwarriors.wayne.edu)
- - date published: 2023-10-25T19:06:22.803186+00:00
- - user: None
- - tags: []
-
-## https://apps.weber.edu
- - [https://apps.weber.edu](https://apps.weber.edu)
- - date published: 2024-01-09T03:28:57.379562+00:00
- - user: None
- - tags: []
-
-## 403 - Forbidden: Access is denied.
- - [https://faculty.weber.edu](https://faculty.weber.edu)
- - date published: 2023-10-25T19:06:32.887393+00:00
- - user: None
- - tags: []
-
-## The U.S. Military Academy at West Point | United States Military Academy West Point
- - [https://www.westpoint.edu](https://www.westpoint.edu)
- - date published: 2024-01-09T03:28:59.603602+00:00
- - user: None
- - tags: []
-
-## Williams College
- - [https://web.williams.edu](https://web.williams.edu)
- - date published: 2023-11-13T10:00:02.994920+00:00
- - user: None
- - tags: []
-
-## Prof. Joshua San Miguel - STACS Lab - University of Wisconsin-Madison
- - [https://jsm.ece.wisc.edu](https://jsm.ece.wisc.edu)
- - date published: 2023-10-25T19:06:36.281424+00:00
- - user: None
- - tags: []
-
-## News from the University of Wisconsin–Madison
- - [https://news.wisc.edu](https://news.wisc.edu)
- - date published: 2023-11-12T12:01:17.297435+00:00
- - user: None
- - tags: []
-
-## UW Computer Sciences User Pages
- - [https://pages.cs.wisc.edu](https://pages.cs.wisc.edu)
- - date published: 2023-10-25T19:06:38.993669+00:00
- - user: None
- - tags: []
-
-## WSU Insider
- - [https://news.wsu.edu](https://news.wsu.edu)
- - date published: 2023-12-15T11:10:21.420611+00:00
- - user: None
- - tags: []
-
-## West Texas A&M University | WTAMU
- - [https://www.wtamu.edu](https://www.wtamu.edu)
- - date published: 2023-10-25T19:06:41.753042+00:00
- - user: None
- - tags: []
-
-## Washington University School of Medicine in St. Louis
- - [https://medicine.wustl.edu](https://medicine.wustl.edu)
- - date published: 2023-10-25T19:06:46.132338+00:00
- - user: None
- - tags: []
-
-## The Source | Washington University in St. Louis
- - [https://source.wustl.edu](https://source.wustl.edu)
- - date published: 2023-10-25T19:06:49.350674+00:00
- - user: None
- - tags: []
-
-## WVU Community Website
- - [https://community.wvu.edu](https://community.wvu.edu)
- - date published: 2023-10-25T19:06:50.246651+00:00
- - user: None
- - tags: []
-
-## https://cs-www.cs.yale.edu
- - [https://cs-www.cs.yale.edu](https://cs-www.cs.yale.edu)
- - date published: 2024-01-09T03:29:01.849380+00:00
- - user: None
- - tags: []
-
-## Yale E360
- - [https://e360.yale.edu](https://e360.yale.edu)
- - date published: 2023-10-25T19:06:53.110107+00:00
- - user: None
- - tags: []
-
-## Energy History – Energy History Online
- - [https://energyhistory.yale.edu](https://energyhistory.yale.edu)
- - date published: 2023-11-16T01:58:56.369597+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://law.yale.edu](https://law.yale.edu)
- - date published: 2024-01-02T00:04:15.577147+00:00
- - user: None
- - tags: []
-
-## Yale School of Medicine
- - [https://medicine.yale.edu](https://medicine.yale.edu)
- - date published: 2023-12-27T12:02:00.358239+00:00
- - user: None
- - tags: []
-
-## YaleNews | Home
- - [https://news.yale.edu](https://news.yale.edu)
- - date published: 2023-10-25T19:06:55.320385+00:00
- - user: None
- - tags: []
-
-## https://www.cs.yale.edu
- - [https://www.cs.yale.edu](https://www.cs.yale.edu)
- - date published: 2024-01-09T03:29:02.859570+00:00
- - user: None
- - tags: []
-
-## Yale School Of Public Health
- - [https://ysph.yale.edu](https://ysph.yale.edu)
- - date published: 2023-12-12T22:22:14.445515+00:00
- - user: None
- - tags: []
-
-## Esileht - Ants Nomm
- - [https://ano.ee](https://ano.ee)
- - date published: 2023-10-25T19:06:58.105867+00:00
- - user: None
- - tags: []
-
-## Citroen Estonia
- - [https://www.citroen.ee](https://www.citroen.ee)
- - date published: 2023-12-11T15:49:58.226163+00:00
- - user: None
- - tags: []
-
-## fuzzy notepad
- - [https://eev.ee](https://eev.ee)
- - date published: 2023-10-25T08:49:06.921537+00:00
- - user: None
- - tags: ['personal']
-
-## news | ERR
- - [https://news.err.ee](https://news.err.ee)
- - date published: 2023-10-25T19:07:03.906710+00:00
- - user: None
- - tags: []
-
-## Haze Booth
- - [https://haz.ee](https://haz.ee)
- - date published: 2023-10-25T19:07:04.320998+00:00
- - user: None
- - tags: []
-
-## Jakarta® EE | Cloud Native Enterprise Java | Java EE | the Eclipse Foundation | The Eclipse Foundation
- - [https://jakarta.ee](https://jakarta.ee)
- - date published: 2023-10-25T19:07:06.974394+00:00
- - user: None
- - tags: []
-
-## Home | Jamie(.ee) Cole
- - [https://www.jamie.ee](https://www.jamie.ee)
- - date published: 2023-12-20T01:00:10.771518+00:00
- - user: None
- - tags: ['personal']
-
-## lemm.ee - General-purpose Lemmy instance. New users and communities welcome!
- - [https://lemm.ee](https://lemm.ee)
- - date published: 2023-10-24T20:14:55.872230+00:00
- - user: None
- - tags: []
-
-## Linktree: Link everything you are
- - [https://linktr.ee](https://linktr.ee)
- - date published: 2023-10-31T16:18:01.056130+00:00
- - user: None
- - tags: ['link service']
-
-## Mairedesign masinkudumise koolitus
- - [https://www.masinkudumine.ee](https://www.masinkudumine.ee)
- - date published: 2023-11-18T18:28:01.582875+00:00
- - user: None
- - tags: ['personal']
-
-## OmniFish – Jakarta EE Consulting & Support
- - [https://omnifish.ee](https://omnifish.ee)
- - date published: 2024-01-09T03:29:05.336267+00:00
- - user: None
- - tags: []
-
-## Hello there.
- - [https://ounapuu.ee](https://ounapuu.ee)
- - date published: 2023-10-25T08:49:07.717738+00:00
- - user: None
- - tags: ['personal']
-
-## Solutional - Agile Software Development Company
- - [https://solutional.ee](https://solutional.ee)
- - date published: 2023-10-25T19:07:07.982182+00:00
- - user: None
- - tags: []
-
-## https://raport.valisluureamet.ee
- - [https://raport.valisluureamet.ee](https://raport.valisluureamet.ee)
- - date published: 2024-01-09T03:29:09.650872+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,75 @@
+## Engineering Calm | Sofia Quintero | Substack
+ - [https://www.engineeringcalm.com](https://www.engineeringcalm.com)
+ - date published: 2023-10-25T14:07:29.366579+00:00
+ - user: None
+ - tags: []
+
+## Engineering Media
+ - [https://engineeringmedia.com](https://engineeringmedia.com)
+ - date published: 2023-10-25T14:07:31.330325+00:00
+ - user: None
+ - tags: []
+
+## Engineer’s Codex | Substack
+ - [https://read.engineerscodex.com](https://read.engineerscodex.com)
+ - date published: 2023-12-15T21:45:21.439801+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.engineersgarage.com](https://www.engineersgarage.com)
+ - date published: 2023-10-28T20:16:59.244728+00:00
+ - user: None
+ - tags: ['electricity', 'tech news']
+
+## Engineers Need Art
+ - [https://www.engineersneedart.com](https://www.engineersneedart.com)
+ - date published: 2023-10-25T14:07:39.626483+00:00
+ - user: None
+ - tags: []
+
+## Home • Engineers who Van Life
+ - [https://engineerswhovanlife.com](https://engineerswhovanlife.com)
+ - date published: 2023-10-25T14:07:42.230187+00:00
+ - user: None
+ - tags: []
+
+## Home - EngineLabs
+ - [https://www.enginelabs.com](https://www.enginelabs.com)
+ - date published: 2023-10-25T14:07:54.382666+00:00
+ - user: None
+ - tags: []
+
+## Engines Database
+ - [https://enginesdatabase.com](https://enginesdatabase.com)
+ - date published: 2023-10-25T08:32:52.339937+00:00
+ - user: None
+ - tags: []
+
+## The Fall Of A Rebel Angel | Enigma - Official Website
+ - [https://www.enigmaspace.com](https://www.enigmaspace.com)
+ - date published: 2023-11-13T10:40:32.859077+00:00
+ - user: None
+ - tags: ['music band']
+
+## enjoyagile.com - Domain Name For Sale | Dan.com
+ - [https://enjoyagile.com](https://enjoyagile.com)
+ - date published: 2023-11-29T15:50:12.664197+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://enroncorp.com
+ - [https://enroncorp.com](https://enroncorp.com)
+ - date published: 2024-01-09T02:35:59.403080+00:00
+ - user: None
+ - tags: []
+
+## Latest Startup l Technology News | Entrackr
+ - [https://entrackr.com](https://entrackr.com)
+ - date published: 2023-10-25T14:08:00.546259+00:00
+ - user: None
+ - tags: []
+
 ## Entrepreneur - Start, run and grow your business.
  - [https://www.entrepreneur.com](https://www.entrepreneur.com)
  - date published: 2023-10-25T14:08:06.585735+00:00
@@ -135,6 +207,12 @@
  - date published: 2023-11-29T15:16:23.716415+00:00
  - user: None
  - tags: ['personal']
+
+## The Official Website of Creative Entreprenuer Eric Beaty
+ - [https://ericbeaty.com](https://ericbeaty.com)
+ - date published: 2024-01-16T23:54:25.185150+00:00
+ - user: None
+ - tags: []
 
 ## Eric Clapton
  - [https://ericclapton.com](https://ericclapton.com)
@@ -961,6 +1039,12 @@
 ## In re: Facebook, Inc. Consumer Privacy User Profile Litigation
  - [https://www.facebookuserprivacysettlement.com](https://www.facebookuserprivacysettlement.com)
  - date published: 2023-10-25T14:25:09.291666+00:00
+ - user: None
+ - tags: []
+
+## Facili-station | Jose Manuel Redondo Lopera | Substack
+ - [https://www.facilistation.com](https://www.facilistation.com)
+ - date published: 2024-01-16T23:54:39.028524+00:00
  - user: None
  - tags: []
 
@@ -3202,6 +3286,12 @@
  - user: None
  - tags: []
 
+## Tá Todo Mundo Tentando | Gaía Passarelli | Substack
+ - [https://www.gaiapassarelli.com](https://www.gaiapassarelli.com)
+ - date published: 2024-01-16T23:46:29.796691+00:00
+ - user: None
+ - tags: []
+
 ## gail.com FAQ
  - [https://gail.com](https://gail.com)
  - date published: 2023-10-25T14:40:36.414735+00:00
@@ -5355,6 +5445,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Green Rose Chemistry | Sustainable Chemistry Consultants
+ - [https://greenrosechemistry.com](https://greenrosechemistry.com)
+ - date published: 2024-01-16T18:51:36.990353+00:00
+ - user: None
+ - tags: []
+
 ## Philip Greenspun's home page
  - [https://philip.greenspun.com](https://philip.greenspun.com)
  - date published: 2023-11-19T01:48:48.082052+00:00
@@ -5904,102 +6000,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Show HN: Build your startup or side project faster with these SaaS templates
  - [https://hackerstartup.com](https://hackerstartup.com)
  - date published: 2024-01-02T03:50:49+00:00
- - user: None
- - tags: []
-
-## Hacker Stations
- - [https://hackerstations.com](https://hackerstations.com)
- - date published: 2023-10-25T14:54:56.900783+00:00
- - user: None
- - tags: []
-
-## HackerTyper: Use This Site To Prank Your Friends With Your Coding Skills :)
- - [https://hackertyper.com](https://hackertyper.com)
- - date published: 2023-10-27T10:55:53.612524+00:00
- - user: None
- - tags: ['wtf']
-
-## Hacker Warehouse - Your one stop computer security shop.
- - [https://hackerwarehouse.com](https://hackerwarehouse.com)
- - date published: 2023-11-22T17:22:12+00:00
- - user: rumpel
- - tags: ['electronics', 'shop']
-
-## Hacking, but Legal | Jackie Singh | Substack
- - [https://www.hackingbutlegal.com](https://www.hackingbutlegal.com)
- - date published: 2023-10-25T14:55:00.627683+00:00
- - user: None
- - tags: []
-
-## Hacking with Swift – learn to code iPhone and iPad apps with free Swift tutorials
- - [https://www.hackingwithswift.com](https://www.hackingwithswift.com)
- - date published: 2023-10-25T14:55:13.491770+00:00
- - user: None
- - tags: []
-
-## - Hackread - Latest Cybersecurity News, Press Releases & Technology Today
- - [https://hackread.com](https://hackread.com)
- - date published: 2023-10-25T14:55:18.836218+00:00
- - user: None
- - tags: []
-
-## - Hackread - Latest Cybersecurity News, Press Releases & Technology Today
- - [https://www.hackread.com](https://www.hackread.com)
- - date published: 2023-10-25T09:33:28.459782+00:00
- - user: None
- - tags: []
-
-## Hackreels
- - [https://www.hackreels.com](https://www.hackreels.com)
- - date published: 2023-11-01T08:42:11.529233+00:00
- - user: None
- - tags: []
-
-## Hacktoberfest 2023
- - [https://hacktoberfest.com](https://hacktoberfest.com)
- - date published: 2023-10-25T14:55:20.590544+00:00
- - user: None
- - tags: []
-
-## HackYourNews
- - [https://hackyournews.com](https://hackyournews.com)
- - date published: 2023-10-25T11:00:54.478394+00:00
- - user: None
- - tags: []
-
-## Hagerty | Classic Car Insurance For People Who Love Cars
- - [https://www.hagerty.com](https://www.hagerty.com)
- - date published: 2023-10-25T14:55:22.855356+00:00
- - user: None
- - tags: []
-
-## Make Your Own Passover Haggadah
- - [https://www.haggadot.com](https://www.haggadot.com)
- - date published: 2023-10-25T14:55:27.685060+00:00
- - user: None
- - tags: []
-
-## Hailley Griffis
- - [https://www.hailleygriffis.com](https://www.hailleygriffis.com)
- - date published: 2024-01-11T07:52:06.090610+00:00
- - user: None
- - tags: []
-
-## Hai Robotics Homepage
- - [https://www.hairobotics.com](https://www.hairobotics.com)
- - date published: 2023-11-27T15:47:03+00:00
- - user: rumpel
- - tags: []
-
-## Hakai Magazine
- - [https://hakaimagazine.com](https://hakaimagazine.com)
- - date published: 2023-10-25T14:55:31.115622+00:00
- - user: None
- - tags: []
-
-## Hakai Offensive Security
- - [https://labs.hakaioffsec.com](https://labs.hakaioffsec.com)
- - date published: 2023-10-25T14:55:34.276021+00:00
  - user: None
  - tags: []
 

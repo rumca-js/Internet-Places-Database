@@ -1,3 +1,267 @@
+## The Autodidacts
+ - [https://www.autodidacts.io](https://www.autodidacts.io)
+ - date published: 2023-10-25T09:21:59.454981+00:00
+ - user: None
+ - tags: ['personal']
+
+## Automatisch - Open Source Zapier Alternative
+ - [https://automatisch.io](https://automatisch.io)
+ - date published: 2023-10-25T19:38:01.066958+00:00
+ - user: None
+ - tags: []
+
+## Auxilia
+ - [https://auxilia.io](https://auxilia.io)
+ - date published: 2024-01-05T10:29:22.728060+00:00
+ - user: None
+ - tags: []
+
+## Axel’s Blog | Technical blog discussing reverse engineering, detections engineering, exploit development, capability development, and other cybersecurity topics.
+ - [https://axelp.io](https://axelp.io)
+ - date published: 2023-10-25T19:38:02.657295+00:00
+ - user: None
+ - tags: []
+
+## Ayo Ayco | Software Engineer, Web Developer, Consultant
+ - [https://ayco.io](https://ayco.io)
+ - date published: 2023-12-25T04:56:50.840416+00:00
+ - user: None
+ - tags: ['personal']
+
+## Babel · Babel
+ - [https://babeljs.io](https://babeljs.io)
+ - date published: 2023-10-25T19:38:04.462286+00:00
+ - user: None
+ - tags: []
+
+## Bank List - Find the Best Bank for Your Needs
+ - [https://banklist.io](https://banklist.io)
+ - date published: 2023-10-25T19:38:08.774494+00:00
+ - user: None
+ - tags: []
+
+## https://assets.bbhub.io
+ - [https://assets.bbhub.io](https://assets.bbhub.io)
+ - date published: 2024-01-09T03:32:44.228408+00:00
+ - user: None
+ - tags: []
+
+## The SQL Editor and Database Manager Of Your Dreams | Beekeeper Studio
+ - [https://www.beekeeperstudio.io](https://www.beekeeperstudio.io)
+ - date published: 2023-10-25T19:38:16.881595+00:00
+ - user: None
+ - tags: []
+
+## Ricard Bejarano – Site Reliability Engineer
+ - [https://www.bejarano.io](https://www.bejarano.io)
+ - date published: 2023-10-25T08:49:12.684001+00:00
+ - user: None
+ - tags: ['personal']
+
+## Bemi | Database change tracking enabled in under a minute
+ - [https://bemi.io](https://bemi.io)
+ - date published: 2024-01-11T21:51:38.369259+00:00
+ - user: None
+ - tags: []
+
+## Ben Myers | Home
+ - [https://benmyers.io](https://benmyers.io)
+ - date published: 2023-11-29T17:10:03.166882+00:00
+ - user: None
+ - tags: ['personal']
+
+## Andrew Benton's Blog
+ - [https://blog.benton.io](https://blog.benton.io)
+ - date published: 2023-10-25T19:38:20.516581+00:00
+ - user: None
+ - tags: []
+
+## Beren's Blog
+ - [https://www.beren.io](https://www.beren.io)
+ - date published: 2023-10-25T08:49:13.643486+00:00
+ - user: None
+ - tags: ['personal']
+
+## Alexis Bernard
+ - [https://alexis.bernard.io](https://alexis.bernard.io)
+ - date published: 2023-10-25T19:38:27.013256+00:00
+ - user: None
+ - tags: []
+
+## https://bernert.io
+ - [https://bernert.io](https://bernert.io)
+ - date published: 2023-12-16T07:27:54.422121+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hacker News Summary - by ChatGPT
+ - [https://hackernews.betacat.io](https://hackernews.betacat.io)
+ - date published: 2023-10-25T19:38:30.979928+00:00
+ - user: None
+ - tags: []
+
+## The BigPicture.io Blog
+ - [https://blog.bigpicture.io](https://blog.bigpicture.io)
+ - date published: 2023-10-25T19:38:32.903857+00:00
+ - user: None
+ - tags: []
+
+## BinaryDigit
+ - [https://binarydigit.io](https://binarydigit.io)
+ - date published: 2024-01-01T17:21:39.444722+00:00
+ - user: None
+ - tags: []
+
+## The Inner Join
+ - [https://innerjoin.bit.io](https://innerjoin.bit.io)
+ - date published: 2023-10-25T19:38:36.310405+00:00
+ - user: None
+ - tags: []
+
+## Bit Bashing
+ - [https://bitbashing.io](https://bitbashing.io)
+ - date published: 2023-10-25T19:38:38.348088+00:00
+ - user: None
+ - tags: []
+
+## Mahesh Balakrishnan
+ - [https://maheshba.bitbucket.io](https://maheshba.bitbucket.io)
+ - date published: 2023-10-25T19:38:39.794842+00:00
+ - user: None
+ - tags: []
+
+## Home | bitmagnet
+ - [https://bitmagnet.io](https://bitmagnet.io)
+ - date published: 2023-10-25T19:38:40.683226+00:00
+ - user: None
+ - tags: []
+
+## MindPop
+ - [https://mindpop.blankenship.io](https://mindpop.blankenship.io)
+ - date published: 2023-10-25T19:38:41.879757+00:00
+ - user: None
+ - tags: []
+
+## WikiScroll
+ - [https://wikiscroll.blankenship.io](https://wikiscroll.blankenship.io)
+ - date published: 2023-10-25T19:38:42.548565+00:00
+ - user: None
+ - tags: []
+
+## Matt Blewitt
+ - [https://matt.blwt.io](https://matt.blwt.io)
+ - date published: 2023-10-25T19:38:43.360921+00:00
+ - user: None
+ - tags: []
+
+## booky.io | Online bookmark manager.
+ - [https://booky.io](https://booky.io)
+ - date published: 2023-11-26T16:45:14+00:00
+ - user: rumpel
+ - tags: ['bookmark manager']
+
+## Brad Woods' Digital Garden
+ - [https://garden.bradwoods.io](https://garden.bradwoods.io)
+ - date published: 2023-10-25T19:38:45.624360+00:00
+ - user: None
+ - tags: []
+
+## plus/minus epsilon
+ - [https://blog.bren2010.io](https://blog.bren2010.io)
+ - date published: 2023-10-25T19:38:47.226606+00:00
+ - user: None
+ - tags: []
+
+## Damien Brenelière's Blog
+ - [https://www.brenel.io](https://www.brenel.io)
+ - date published: 2023-12-09T14:59:45.290038+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Stephen Brennan
+ - [https://brennan.io](https://brennan.io)
+ - date published: 2023-12-09T10:38:32.840470+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://bricolage.io
+ - [https://bricolage.io](https://bricolage.io)
+ - date published: 2023-10-25T09:22:00.295903+00:00
+ - user: None
+ - tags: ['personal']
+
+## Bug reporting for Next.js - Bugpilot
+ - [https://www.bugpilot.io](https://www.bugpilot.io)
+ - date published: 2023-10-25T19:38:50.347269+00:00
+ - user: None
+ - tags: []
+
+## Bazel at Enterprise Scale | BuildBuddy
+ - [https://www.buildbuddy.io](https://www.buildbuddy.io)
+ - date published: 2023-10-25T19:38:52.255059+00:00
+ - user: None
+ - tags: []
+
+## Framework reimagined for the edge! 📚 Qwik Documentation
+ - [https://qwik.builder.io](https://qwik.builder.io)
+ - date published: 2023-10-25T19:39:02.264388+00:00
+ - user: None
+ - tags: []
+
+## Builder.io: Drag & Drop Headless CMS
+ - [https://www.builder.io](https://www.builder.io)
+ - date published: 2023-11-10T17:59:53.727555+00:00
+ - user: None
+ - tags: []
+
+## Buttplug.io Documentation Site | buttplug.io
+ - [https://stpihkal.docs.buttplug.io](https://stpihkal.docs.buttplug.io)
+ - date published: 2023-10-25T19:39:09.612892+00:00
+ - user: None
+ - tags: []
+
+## Homepage – bytewax
+ - [https://bytewax.io](https://bytewax.io)
+ - date published: 2023-10-25T19:39:17.817255+00:00
+ - user: None
+ - tags: []
+
+## Code. Simply. Clearly. Calmly.
+ - [https://calmcode.io](https://calmcode.io)
+ - date published: 2023-10-25T19:39:22.006027+00:00
+ - user: None
+ - tags: []
+
+## Capillaries
+ - [https://capillaries.io](https://capillaries.io)
+ - date published: 2023-10-25T19:39:24.840675+00:00
+ - user: None
+ - tags: []
+
+## Career Fair - Level up your tech career
+ - [https://www.careerfair.io](https://www.careerfair.io)
+ - date published: 2023-10-25T19:39:29.525523+00:00
+ - user: None
+ - tags: []
+
+## CasaOS - A simple, easy-to-use, elegant open-source personal cloud system
+ - [https://casaos.io](https://casaos.io)
+ - date published: 2023-10-31T13:15:43.772223+00:00
+ - user: None
+ - tags: ['operating system']
+
+## Castle Game Engine - Free open-source cross-platform 3D 2D game engine with editor and powerful Pascal API
+ - [https://castle-engine.io](https://castle-engine.io)
+ - date published: 2023-10-25T19:39:32.258962+00:00
+ - user: None
+ - tags: []
+
+## Celso Martinho
+ - [https://celso.io](https://celso.io)
+ - date published: 2023-10-25T19:39:38.279176+00:00
+ - user: None
+ - tags: []
+
 ## ramblings of 1lann
  - [https://blog.chuie.io](https://blog.chuie.io)
  - date published: 2023-10-25T19:39:39.618395+00:00
@@ -1812,6 +2076,12 @@ through Composable Diffusion
  - user: None
  - tags: []
 
+## scott kosman
+ - [https://humantorch.github.io](https://humantorch.github.io)
+ - date published: 2024-01-16T23:54:10.645629+00:00
+ - user: None
+ - tags: []
+
 ## Huon on the internet
  - [https://huonw.github.io](https://huonw.github.io)
  - date published: 2023-12-30T02:39:56.436386+00:00
@@ -2532,6 +2802,12 @@ through Composable Diffusion
  - user: None
  - tags: []
 
+## Blog · Me think, why waste time say lot word, when few word do trick
+ - [https://nashby.github.io](https://nashby.github.io)
+ - date published: 2024-01-16T16:06:37.893524+00:00
+ - user: None
+ - tags: []
+
 ## Nathan Rooy
  - [https://nathanrooy.github.io](https://nathanrooy.github.io)
  - date published: 2023-10-25T19:50:08.197904+00:00
@@ -2829,6 +3105,12 @@ through Composable Diffusion
 ## Tom Hulton-Harrop | A programming blog
  - [https://pr0g.github.io](https://pr0g.github.io)
  - date published: 2023-10-25T19:51:17.054227+00:00
+ - user: None
+ - tags: []
+
+## Redirecting to https://humantorch.github.io/
+ - [https://prayingmadness.github.io](https://prayingmadness.github.io)
+ - date published: 2024-01-16T23:54:06.566120+00:00
  - user: None
  - tags: []
 
@@ -3489,6 +3771,12 @@ through Composable Diffusion
 ## Page not found · GitHub Pages
  - [https://zju3dv.github.io](https://zju3dv.github.io)
  - date published: 2023-10-25T19:55:18.667660+00:00
+ - user: None
+ - tags: []
+
+## zolutal’s blog
+ - [https://zolutal.github.io](https://zolutal.github.io)
+ - date published: 2024-01-16T18:05:10.914886+00:00
  - user: None
  - tags: []
 
@@ -5713,294 +6001,6 @@ through Composable Diffusion
 ## Let's Encrypt Status
  - [https://letsencrypt.status.io](https://letsencrypt.status.io)
  - date published: 2023-10-25T20:07:35.624064+00:00
- - user: None
- - tags: []
-
-## reddit Status
- - [https://reddit.statuspage.io](https://reddit.statuspage.io)
- - date published: 2023-10-25T20:07:37.533135+00:00
- - user: None
- - tags: []
-
-## No-Bullshit Games
- - [https://nobsgames.stavros.io](https://nobsgames.stavros.io)
- - date published: 2023-11-27T06:59:49+00:00
- - user: None
- - tags: []
-
-## https://phantasmagoria.stavros.io
- - [https://phantasmagoria.stavros.io](https://phantasmagoria.stavros.io)
- - date published: 2023-10-25T20:07:44.067474+00:00
- - user: None
- - tags: []
-
-## Stealth Security
- - [https://stealthsecurity.io](https://stealthsecurity.io)
- - date published: 2023-10-25T20:07:45.435227+00:00
- - user: None
- - tags: []
-
-## Steambase
- - [https://steambase.io](https://steambase.io)
- - date published: 2023-11-13T19:48:31.691442+00:00
- - user: None
- - tags: []
-
-## Steampipe | select * from cloud;
- - [https://steampipe.io](https://steampipe.io)
- - date published: 2023-10-25T20:07:52.520453+00:00
- - user: None
- - tags: []
-
-## STENDEC
- - [https://stendec.io](https://stendec.io)
- - date published: 2023-10-25T20:07:54.044015+00:00
- - user: None
- - tags: []
-
-## Steph | Smith
- - [https://blog.stephsmith.io](https://blog.stephsmith.io)
- - date published: 2023-12-18T20:13:34.554340+00:00
- - user: None
- - tags: []
-
-## Blog - stitcher.io
- - [https://stitcher.io](https://stitcher.io)
- - date published: 2023-10-25T20:07:58.151576+00:00
- - user: None
- - tags: []
-
-## Stepan Parunashvili
- - [https://stopa.io](https://stopa.io)
- - date published: 2023-10-25T20:08:00.512572+00:00
- - user: None
- - tags: []
-
-## Globally Distributed Cloud Object Storage
- - [https://www.storj.io](https://www.storj.io)
- - date published: 2023-10-25T20:08:04.187915+00:00
- - user: None
- - tags: []
-
-## Streambatch.io NDVI API
- - [https://www.streambatch.io](https://www.streambatch.io)
- - date published: 2023-10-25T20:08:06.092524+00:00
- - user: None
- - tags: []
-
-## Blog on Building & Sharing Data Apps | Streamlit Blog
- - [https://blog.streamlit.io](https://blog.streamlit.io)
- - date published: 2023-10-25T20:08:08.074530+00:00
- - user: None
- - tags: []
-
-## https://share.streamlit.io
- - [https://share.streamlit.io](https://share.streamlit.io)
- - date published: 2023-12-20T16:28:43.015391+00:00
- - user: None
- - tags: []
-
-## StreamNative | Apache Pulsar & Cloud-Native Messaging
- - [https://streamnative.io](https://streamnative.io)
- - date published: 2023-10-25T20:08:12.433385+00:00
- - user: None
- - tags: []
-
-## JavaScript Barcode Scanning Library
- - [https://strich.io](https://strich.io)
- - date published: 2023-10-25T20:08:19.288564+00:00
- - user: None
- - tags: []
-
-## Subsection.io
- - [https://subsection.io](https://subsection.io)
- - date published: 2023-10-25T20:08:21.016966+00:00
- - user: None
- - tags: []
-
-## sunshowers
- - [https://sunshowers.io](https://sunshowers.io)
- - date published: 2023-10-25T20:08:22.475120+00:00
- - user: None
- - tags: []
-
-## Coding Stephan
- - [https://svrooij.io](https://svrooij.io)
- - date published: 2023-10-25T20:08:24.094901+00:00
- - user: None
- - tags: []
-
-## Swan - The easiest way to embed banking features
- - [https://www.swan.io](https://www.swan.io)
- - date published: 2023-10-25T20:08:26.926477+00:00
- - user: None
- - tags: []
-
-## Latent Space | swyx | Substack
- - [https://lspace.swyx.io](https://lspace.swyx.io)
- - date published: 2023-10-25T20:08:37.542967+00:00
- - user: None
- - tags: []
-
-## swyx's site
- - [https://www.swyx.io](https://www.swyx.io)
- - date published: 2023-10-25T20:11:08.959268+00:00
- - user: None
- - tags: []
-
-## Synq | Deliver reliable models and metrics | Synq
- - [https://www.synq.io](https://www.synq.io)
- - date published: 2023-10-25T20:11:10.050394+00:00
- - user: None
- - tags: []
-
-## System and Service Manager
- - [https://systemd.io](https://systemd.io)
- - date published: 2023-11-21T07:48:30+00:00
- - user: rumpel
- - tags: ['open source', 'systemd', 'linux']
-
-## TACHYONS - Css Toolkit
- - [https://tachyons.io](https://tachyons.io)
- - date published: 2023-10-25T20:11:11.800274+00:00
- - user: None
- - tags: []
-
-## Talkyard
- - [https://www.talkyard.io](https://www.talkyard.io)
- - date published: 2023-10-25T20:11:13.606524+00:00
- - user: None
- - tags: []
-
-## Tarantool Data Integration Platform
- - [https://www.tarantool.io](https://www.tarantool.io)
- - date published: 2023-12-02T15:51:11.384341+00:00
- - user: None
- - tags: []
-
-## Tavus | The Most Advanced AI Video Personalization Platform
- - [https://www.tavus.io](https://www.tavus.io)
- - date published: 2023-10-25T20:11:15.699443+00:00
- - user: None
- - tags: []
-
-## Tembo
- - [https://tembo.io](https://tembo.io)
- - date published: 2023-10-25T20:11:16.524916+00:00
- - user: None
- - tags: []
-
-## Open Source Durable Execution Platform | Temporal Technologies
- - [https://temporal.io](https://temporal.io)
- - date published: 2023-10-25T20:11:18.787668+00:00
- - user: None
- - tags: []
-
-## Termshark – A terminal UI for tshark, inspired by Wireshark
- - [https://termshark.io](https://termshark.io)
- - date published: 2023-12-05T14:32:12+00:00
- - user: None
- - tags: []
-
-## Terrateam | Terraform automation for GitHub
- - [https://terrateam.io](https://terrateam.io)
- - date published: 2023-10-25T20:11:19.804400+00:00
- - user: None
- - tags: []
-
-## Textual
- - [https://textual.textualize.io](https://textual.textualize.io)
- - date published: 2023-10-25T20:11:29.080654+00:00
- - user: None
- - tags: []
-
-## Textualize - Home
- - [https://www.textualize.io](https://www.textualize.io)
- - date published: 2023-10-25T20:11:30.506711+00:00
- - user: None
- - tags: []
-
-## Apricot Blog
- - [https://blog.theapricot.io](https://blog.theapricot.io)
- - date published: 2023-10-25T08:37:46.129251+00:00
- - user: None
- - tags: []
-
-## The Driven |
- - [https://thedriven.io](https://thedriven.io)
- - date published: 2023-10-25T20:11:36.997339+00:00
- - user: None
- - tags: []
-
-## The New Stack | DevOps, Open Source, and Cloud Native News
- - [https://thenewstack.io](https://thenewstack.io)
- - date published: 2023-10-25T09:37:01.943177+00:00
- - user: None
- - tags: []
-
-## Philip Herrons Personal Blog – Compilers and stuff
- - [https://thephilbert.io](https://thephilbert.io)
- - date published: 2023-10-25T20:11:38.288865+00:00
- - user: None
- - tags: []
-
-## The Prompt: Getting AI smart in just 3 minutes
- - [https://www.theprompt.io](https://www.theprompt.io)
- - date published: 2023-10-25T20:11:42.348627+00:00
- - user: None
- - tags: []
-
-## Show HN: ThreeFold – Decentralized Cloud Infrastructure
- - [https://threefold.io](https://threefold.io)
- - date published: 2023-12-02T20:43:14+00:00
- - user: None
- - tags: []
-
-## ThrowawayOpinions
- - [https://throwawayopinions.io](https://throwawayopinions.io)
- - date published: 2023-10-25T20:11:43.353030+00:00
- - user: None
- - tags: []
-
-## Home | thul.io
- - [https://thul.io](https://thul.io)
- - date published: 2023-10-25T20:11:44.138258+00:00
- - user: None
- - tags: []
-
-## Free Graphical Abstract Maker | Tidbit
- - [https://tidbitapp.io](https://tidbitapp.io)
- - date published: 2023-11-14T21:31:07.441734+00:00
- - user: None
- - tags: []
-
-## Digital Economy Payment Solutions | Tilia
- - [https://www.tilia.io](https://www.tilia.io)
- - date published: 2023-10-25T20:11:46.185217+00:00
- - user: None
- - tags: []
-
-## Tilores | No-Code Identity Resolution Platform for Fraud Prevention, KYC & AML
- - [https://tilores.io](https://tilores.io)
- - date published: 2023-10-25T20:11:48.283552+00:00
- - user: None
- - tags: []
-
-## The Markdown CMS | Tina
- - [https://tina.io](https://tina.io)
- - date published: 2023-11-21T02:39:14.089010+00:00
- - user: None
- - tags: []
-
-## Tlon Corporation
- - [https://tlon.io](https://tlon.io)
- - date published: 2023-10-25T20:11:49.018973+00:00
- - user: None
- - tags: []
-
-## TOML: Tom's Obvious Minimal Language
- - [https://toml.io](https://toml.io)
- - date published: 2023-10-25T20:11:49.897205+00:00
  - user: None
  - tags: []
 

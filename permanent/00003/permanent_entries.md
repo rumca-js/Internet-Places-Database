@@ -1,3 +1,69 @@
+## https://clinicalnutritionjournal.com
+ - [https://clinicalnutritionjournal.com](https://clinicalnutritionjournal.com)
+ - date published: 2023-12-04T23:16:21.241233+00:00
+ - user: None
+ - tags: []
+
+## Clint McMahon
+ - [https://clintmcmahon.com](https://clintmcmahon.com)
+ - date published: 2024-01-11T02:12:30.396119+00:00
+ - user: None
+ - tags: []
+
+## Clockwork Micro: Map tools that work like clockwork | Clockwork Micro
+ - [https://www.clockworkmicro.com](https://www.clockworkmicro.com)
+ - date published: 2023-10-25T13:26:38.479404+00:00
+ - user: None
+ - tags: []
+
+## ClockworkPi | Open Source Hardware
+ - [https://www.clockworkpi.com](https://www.clockworkpi.com)
+ - date published: 2023-10-25T08:35:32.122401+00:00
+ - user: None
+ - tags: []
+
+## The Making of Close
+ - [https://making.close.com](https://making.close.com)
+ - date published: 2023-10-25T13:26:39.375532+00:00
+ - user: None
+ - tags: []
+
+## Mission Critical Enterprise Software by Cloud Software Group - Cloud Software Group
+ - [https://www.cloud.com](https://www.cloud.com)
+ - date published: 2023-10-25T13:26:40.246262+00:00
+ - user: None
+ - tags: []
+
+## The visual CMS that gives content teams full autonomy | CloudCannon
+ - [https://cloudcannon.com](https://cloudcannon.com)
+ - date published: 2023-12-11T19:35:21.638088+00:00
+ - user: None
+ - tags: []
+
+## The Cloudflare Blog
+ - [https://blog.cloudflare.com](https://blog.cloudflare.com)
+ - date published: 2023-10-25T13:26:44.738944+00:00
+ - user: None
+ - tags: []
+
+## cdnjs.cloudflare.com
+ - [https://cdnjs.cloudflare.com](https://cdnjs.cloudflare.com)
+ - date published: 2023-12-11T17:46:09.328805+00:00
+ - user: None
+ - tags: []
+
+## https://community.cloudflare.com
+ - [https://community.cloudflare.com](https://community.cloudflare.com)
+ - date published: 2023-10-25T13:26:48.405370+00:00
+ - user: None
+ - tags: []
+
+## Merkle Town: Explore the certificate transparency ecosystem
+ - [https://ct.cloudflare.com](https://ct.cloudflare.com)
+ - date published: 2024-01-01T02:17:47+00:00
+ - user: None
+ - tags: []
+
 ## https://radar.cloudflare.com
  - [https://radar.cloudflare.com](https://radar.cloudflare.com)
  - date published: 2023-10-25T13:26:48.681639+00:00
@@ -2655,6 +2721,12 @@
  - date published: 2023-11-29T15:45:17.836125+00:00
  - user: None
  - tags: ['personal']
+
+## Dave Krunal
+ - [https://davekrunal.com](https://davekrunal.com)
+ - date published: 2024-01-16T17:03:21.478319+00:00
+ - user: None
+ - tags: []
 
 ## Hi! I'm Dave Paola
  - [https://davepaola.com](https://davepaola.com)
@@ -5930,78 +6002,6 @@
 ## Engineering Book Club - Online community for reading books
  - [https://www.engineeringbookclub.com](https://www.engineeringbookclub.com)
  - date published: 2023-10-25T14:07:27.340540+00:00
- - user: None
- - tags: []
-
-## Engineering Calm | Sofia Quintero | Substack
- - [https://www.engineeringcalm.com](https://www.engineeringcalm.com)
- - date published: 2023-10-25T14:07:29.366579+00:00
- - user: None
- - tags: []
-
-## Engineering Media
- - [https://engineeringmedia.com](https://engineeringmedia.com)
- - date published: 2023-10-25T14:07:31.330325+00:00
- - user: None
- - tags: []
-
-## Engineer’s Codex | Substack
- - [https://read.engineerscodex.com](https://read.engineerscodex.com)
- - date published: 2023-12-15T21:45:21.439801+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.engineersgarage.com](https://www.engineersgarage.com)
- - date published: 2023-10-28T20:16:59.244728+00:00
- - user: None
- - tags: ['electricity', 'tech news']
-
-## Engineers Need Art
- - [https://www.engineersneedart.com](https://www.engineersneedart.com)
- - date published: 2023-10-25T14:07:39.626483+00:00
- - user: None
- - tags: []
-
-## Home • Engineers who Van Life
- - [https://engineerswhovanlife.com](https://engineerswhovanlife.com)
- - date published: 2023-10-25T14:07:42.230187+00:00
- - user: None
- - tags: []
-
-## Home - EngineLabs
- - [https://www.enginelabs.com](https://www.enginelabs.com)
- - date published: 2023-10-25T14:07:54.382666+00:00
- - user: None
- - tags: []
-
-## Engines Database
- - [https://enginesdatabase.com](https://enginesdatabase.com)
- - date published: 2023-10-25T08:32:52.339937+00:00
- - user: None
- - tags: []
-
-## The Fall Of A Rebel Angel | Enigma - Official Website
- - [https://www.enigmaspace.com](https://www.enigmaspace.com)
- - date published: 2023-11-13T10:40:32.859077+00:00
- - user: None
- - tags: ['music band']
-
-## enjoyagile.com - Domain Name For Sale | Dan.com
- - [https://enjoyagile.com](https://enjoyagile.com)
- - date published: 2023-11-29T15:50:12.664197+00:00
- - user: None
- - tags: ['personal']
-
-## https://enroncorp.com
- - [https://enroncorp.com](https://enroncorp.com)
- - date published: 2024-01-09T02:35:59.403080+00:00
- - user: None
- - tags: []
-
-## Latest Startup l Technology News | Entrackr
- - [https://entrackr.com](https://entrackr.com)
- - date published: 2023-10-25T14:08:00.546259+00:00
  - user: None
  - tags: []
 
