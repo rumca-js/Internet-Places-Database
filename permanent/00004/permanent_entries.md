@@ -1,3 +1,117 @@
+## Hacker News Job Search
+ - [https://hnjobs.emilburzo.com](https://hnjobs.emilburzo.com)
+ - date published: 2024-01-02T18:03:30.591011+00:00
+ - user: None
+ - tags: []
+
+## Just Emil Kirkegaard Things | Emil O. W. Kirkegaard | Substack
+ - [https://www.emilkirkegaard.com](https://www.emilkirkegaard.com)
+ - date published: 2023-10-25T09:40:07.368841+00:00
+ - user: None
+ - tags: ['substack']
+
+## Home - Eminem
+ - [https://www.eminem.com](https://www.eminem.com)
+ - date published: 2023-11-13T10:35:19.859556+00:00
+ - user: None
+ - tags: ['music band']
+
+## Emir's blog
+ - [https://emiruz.com](https://emiruz.com)
+ - date published: 2023-10-25T14:07:01.831705+00:00
+ - user: None
+ - tags: []
+
+## EmptyCrate.com: Recent Posts
+ - [https://articles.emptycrate.com](https://articles.emptycrate.com)
+ - date published: 2023-10-29T10:21:17.478746+00:00
+ - user: None
+ - tags: []
+
+## The Emulator Zone - Your Source for Emulation!
+ - [https://www.emulator-zone.com](https://www.emulator-zone.com)
+ - date published: 2023-10-25T11:08:52.480918+00:00
+ - user: None
+ - tags: []
+
+## eMule-Project.net - Official eMule Homepage. Downloads, Help, Docu, News...
+ - [https://www.emule-project.com](https://www.emule-project.com)
+ - date published: 2023-10-28T20:46:40.712218+00:00
+ - user: None
+ - tags: ['piracy']
+
+## 403 Forbidden
+ - [http://amigacoverdisks.emuunlim.com](http://amigacoverdisks.emuunlim.com)
+ - date published: 2023-12-11T18:28:06.982719+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [http://nthdimension.emuunlim.com](http://nthdimension.emuunlim.com)
+ - date published: 2023-12-11T17:55:11.037449+00:00
+ - user: None
+ - tags: []
+
+## Data Engine for AI Model Development | Encord
+ - [https://encord.com](https://encord.com)
+ - date published: 2023-10-25T14:07:04.146183+00:00
+ - user: None
+ - tags: []
+
+## https://endgamebusiness.com
+ - [https://endgamebusiness.com](https://endgamebusiness.com)
+ - date published: 2023-12-29T03:12:29.220958+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Endless Doomscroller
+ - [https://endlessdoomscroller.com](https://endlessdoomscroller.com)
+ - date published: 2023-10-25T14:07:05.150878+00:00
+ - user: None
+ - tags: []
+
+## Endpoints News – Biotech, drug, pharma and health news for business and professional readers
+ - [https://endpts.com](https://endpts.com)
+ - date published: 2023-10-25T10:45:49.631839+00:00
+ - user: None
+ - tags: []
+
+## Portal o energetyce | Energetyka24
+ - [https://energetyka24.com](https://energetyka24.com)
+ - date published: 2023-10-25T14:07:11.459555+00:00
+ - user: None
+ - tags: []
+
+## Energy Capital & Power
+ - [https://energycapitalpower.com](https://energycapitalpower.com)
+ - date published: 2023-11-25T06:54:41.624265+00:00
+ - user: None
+ - tags: []
+
+## Engadget is part of the Yahoo family of brands
+ - [https://www.engadget.com](https://www.engadget.com)
+ - date published: 2023-10-25T14:07:17.718893+00:00
+ - user: None
+ - tags: ['tech news']
+
+## Home - Engaging Data
+ - [https://engaging-data.com](https://engaging-data.com)
+ - date published: 2023-10-25T14:07:23.332596+00:00
+ - user: None
+ - tags: []
+
+## The Software Engineer's Guidebook
+ - [https://www.engguidebook.com](https://www.engguidebook.com)
+ - date published: 2023-11-08T00:46:17+00:00
+ - user: None
+ - tags: []
+
+## Engineering Book Club - Online community for reading books
+ - [https://www.engineeringbookclub.com](https://www.engineeringbookclub.com)
+ - date published: 2023-10-25T14:07:27.340540+00:00
+ - user: None
+ - tags: []
+
 ## Engineering Calm | Sofia Quintero | Substack
  - [https://www.engineeringcalm.com](https://www.engineeringcalm.com)
  - date published: 2023-10-25T14:07:29.366579+00:00
@@ -3232,6 +3346,12 @@
  - user: None
  - tags: []
 
+## https://www.g2.com
+ - [https://www.g2.com](https://www.g2.com)
+ - date published: 1000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## https://www.g2a.com
  - [https://www.g2a.com](https://www.g2a.com)
  - date published: 2023-10-29T11:08:42.607822+00:00
@@ -5880,126 +6000,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Domain gesperrt
  - [http://www.haage-partner.com](http://www.haage-partner.com)
  - date published: 2023-12-11T19:30:25.828724+00:00
- - user: None
- - tags: []
-
-## De Haakse Zeedijk – Plan voor klimaatbestendig Nederland
- - [https://haaksezeedijk.com](https://haaksezeedijk.com)
- - date published: 2023-10-25T14:53:22.801703+00:00
- - user: None
- - tags: []
-
-## Haaretz | Israel News, the Middle East and the Jewish World - Haaretz.com
- - [https://www.haaretz.com](https://www.haaretz.com)
- - date published: 2023-10-25T10:41:43.834801+00:00
- - user: None
- - tags: ['israel news']
-
-## Hello | Haasie
- - [https://haasie.com](https://haasie.com)
- - date published: 2023-10-25T14:53:24.109225+00:00
- - user: None
- - tags: []
-
-## Habitat Chronicles
- - [http://habitatchronicles.com](http://habitatchronicles.com)
- - date published: 2023-10-25T14:53:33.579168+00:00
- - user: None
- - tags: []
-
-## All articles in a row / Habr
- - [https://habr.com](https://habr.com)
- - date published: 2023-10-25T14:53:46.346796+00:00
- - user: None
- - tags: []
-
-## Home - Henrique Dias
- - [https://hacdias.com](https://hacdias.com)
- - date published: 2024-01-13T18:26:29.176764+00:00
- - user: None
- - tags: []
-
-## Hachette Book Group
- - [https://hachettebookgroup.com](https://hachettebookgroup.com)
- - date published: 2023-12-22T05:41:14.903666+00:00
- - user: None
- - tags: []
-
-## Hachette Book Group
- - [https://www.hachettebookgroup.com](https://www.hachettebookgroup.com)
- - date published: 2023-10-25T14:54:05.574098+00:00
- - user: None
- - tags: []
-
-## Hackaday | Fresh Hacks Every Day
- - [https://hackaday.com](https://hackaday.com)
- - date published: 2023-10-25T14:54:12.251133+00:00
- - user: None
- - tags: ['tech news', 'blog']
-
-## A Home for High School Hackers – Hack Club
- - [https://hackclub.com](https://hackclub.com)
- - date published: 2023-10-25T14:54:19.680950+00:00
- - user: None
- - tags: []
-
-## hackcompute
- - [https://hackcompute.com](https://hackcompute.com)
- - date published: 2023-10-25T14:54:20.857205+00:00
- - user: None
- - tags: []
-
-## Hacker Jobs - Technology Jobs from the monthly Hacker News Who is hiring threads
- - [https://www.hacker-jobs.com](https://www.hacker-jobs.com)
- - date published: 2023-10-25T14:54:31.881421+00:00
- - user: None
- - tags: []
-
-## Hacker Factor: Home Page
- - [https://www.hackerfactor.com](https://www.hackerfactor.com)
- - date published: 2023-10-25T14:54:32.697578+00:00
- - user: None
- - tags: []
-
-## Hacker FM
- - [https://hackerfm.com](https://hackerfm.com)
- - date published: 2023-10-25T14:54:35.925362+00:00
- - user: None
- - tags: []
-
-## Home - Hacker History Podcast
- - [https://hackerhistory.com](https://hackerhistory.com)
- - date published: 2023-10-26T16:02:58.214513+00:00
- - user: None
- - tags: []
-
-## HackerNoon - read, write and learn about any technology
- - [https://hackernoon.com](https://hackernoon.com)
- - date published: 2023-10-25T14:54:43.557045+00:00
- - user: None
- - tags: []
-
-## HackerOne | #1 Trusted Security Platform and Hacker Program
- - [https://hackerone.com](https://hackerone.com)
- - date published: 2023-10-25T14:54:51.021089+00:00
- - user: None
- - tags: []
-
-## HackerOne | #1 Trusted Security Platform and Hacker Program
- - [https://www.hackerone.com](https://www.hackerone.com)
- - date published: 2023-10-25T14:54:52.834191+00:00
- - user: None
- - tags: []
-
-## HackerRank - Online Coding Tests and Technical Interviews
- - [https://www.hackerrank.com](https://www.hackerrank.com)
- - date published: 2023-10-25T14:54:54.856781+00:00
- - user: None
- - tags: []
-
-## Show HN: Build your startup or side project faster with these SaaS templates
- - [https://hackerstartup.com](https://hackerstartup.com)
- - date published: 2024-01-02T03:50:49+00:00
  - user: None
  - tags: []
 

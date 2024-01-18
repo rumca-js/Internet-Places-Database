@@ -1,3 +1,21 @@
+## paedubucher.ch
+ - [https://paedubucher.ch](https://paedubucher.ch)
+ - date published: 2023-10-25T12:14:08.646235+00:00
+ - user: None
+ - tags: []
+
+## PC Engines home
+ - [https://www.pcengines.ch](https://www.pcengines.ch)
+ - date published: 2023-10-25T12:14:14.724348+00:00
+ - user: None
+ - tags: []
+
+## REDS blog – REDS Institute, HEIG-VD
+ - [https://blog.reds.ch](https://blog.reds.ch)
+ - date published: 2023-10-25T12:14:18.446449+00:00
+ - user: None
+ - tags: []
+
 ## RELEC – Software & Hardware Amiga
  - [https://www.relec.ch](https://www.relec.ch)
  - date published: 2024-01-09T02:27:25.294187+00:00
@@ -1168,6 +1186,12 @@
  - user: None
  - tags: ['personal']
 
+## Ryan Maynard - Fractional CMO
+ - [https://ryanmaynard.co](https://ryanmaynard.co)
+ - date published: 2024-01-17T04:42:46.503628+00:00
+ - user: None
+ - tags: []
+
 ## Consumer Surplus | Sam Bowman | Substack
  - [https://www.sambowman.co](https://www.sambowman.co)
  - date published: 2023-10-25T12:22:09.912561+00:00
@@ -1261,6 +1285,12 @@
 ## t.co / Twitter
  - [https://t.co](https://t.co)
  - date published: 2023-12-11T16:23:00.287075+00:00
+ - user: None
+ - tags: []
+
+## Techsauce | Tech and Biz Ecosystem Leader for Startups Technologies and Business
+ - [https://techsauce.co](https://techsauce.co)
+ - date published: 2024-01-17T02:11:26.094311+00:00
  - user: None
  - tags: []
 
@@ -3447,6 +3477,12 @@
 ## Alex Crompton
  - [https://www.alexcrompton.com](https://www.alexcrompton.com)
  - date published: 2023-10-25T12:37:53.635291+00:00
+ - user: None
+ - tags: []
+
+## Alex DeCapri – Human Being
+ - [https://alexdecapri.com](https://alexdecapri.com)
+ - date published: 2024-01-17T04:44:04.090106+00:00
  - user: None
  - tags: []
 
@@ -5963,40 +5999,4 @@
  - date published: 2023-12-17T03:31:46.186900+00:00
  - user: None
  - tags: []
-
-## Dystalgia - DYSTALGIA : Aurel Manea photography & visuals
- - [https://aurelm.com](https://aurelm.com)
- - date published: 2024-01-09T01:36:57.652800+00:00
- - user: None
- - tags: []
-
-## AURORA
- - [https://www.aurora-music.com](https://www.aurora-music.com)
- - date published: 2023-11-13T09:45:36.627181+00:00
- - user: None
- - tags: ['music band']
-
-## The Particular Finest
- - [https://blog.aurynn.com](https://blog.aurynn.com)
- - date published: 2023-10-25T12:48:22.860754+00:00
- - user: None
- - tags: []
-
-## Hi, I'm Austin Gil. I want to help you build better websites
- - [https://austingil.com](https://austingil.com)
- - date published: 2023-10-25T08:44:45.948237+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Austin Grandt
- - [https://www.austingrandt.com](https://www.austingrandt.com)
- - date published: 2024-01-11T17:10:30.078306+00:00
- - user: None
- - tags: []
-
-## Austin Henley - I work on AI + dev tools
- - [https://austinhenley.com](https://austinhenley.com)
- - date published: 2023-10-25T08:44:47.634188+00:00
- - user: None
- - tags: ['personal']
 

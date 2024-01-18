@@ -1,3 +1,189 @@
+## Latest articles on design, development, and the world around me
+ - [https://mikebifulco.com](https://mikebifulco.com)
+ - date published: 2023-12-27T08:43:59.949594+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mike Echlin Music - Mike Echlin
+ - [https://www.mikeechlin.com](https://www.mikeechlin.com)
+ - date published: 2024-01-09T19:18:53.663234+00:00
+ - user: None
+ - tags: []
+
+## MK Productions
+ - [https://mikekilcoyne.com](https://mikekilcoyne.com)
+ - date published: 2023-11-29T16:19:57.698565+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mike McQuaid | Workbrew CTO and Homebrew Project Leader
+ - [https://mikemcquaid.com](https://mikemcquaid.com)
+ - date published: 2023-10-25T16:03:53.506426+00:00
+ - user: None
+ - tags: []
+
+## Home - Mike Oldfield Official
+ - [https://mikeoldfieldofficial.com](https://mikeoldfieldofficial.com)
+ - date published: 2023-11-13T10:45:13.768890+00:00
+ - user: None
+ - tags: ['music band']
+
+## Mike Paul
+ - [https://mikepaul.com](https://mikepaul.com)
+ - date published: 2023-12-22T22:30:57.160444+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mike Puchol – Medium
+ - [https://mikepuchol.com](https://mikepuchol.com)
+ - date published: 2023-10-25T16:03:56.379616+00:00
+ - user: None
+ - tags: []
+
+## Mike's Blog: Content Creation & Online Marketing Blogging Lifestyle
+ - [https://mikesblog.com](https://mikesblog.com)
+ - date published: 2024-01-10T14:29:50.005176+00:00
+ - user: None
+ - tags: []
+
+## I love computers
+ - [https://www.mikesteder.com](https://www.mikesteder.com)
+ - date published: 2023-10-25T16:03:58.740409+00:00
+ - user: None
+ - tags: []
+
+## Mike Sukmanowsky's Personal Site
+ - [https://www.mikesukmanowsky.com](https://www.mikesukmanowsky.com)
+ - date published: 2023-10-25T16:03:59.932190+00:00
+ - user: None
+ - tags: []
+
+## Mike Swanson's Blog
+ - [https://blog.mikeswanson.com](https://blog.mikeswanson.com)
+ - date published: 2023-10-25T16:04:02.873353+00:00
+ - user: None
+ - tags: []
+
+## Mike Taylor, y'all 🍔
+ - [https://miketaylr.com](https://miketaylr.com)
+ - date published: 2023-10-25T16:04:04.907429+00:00
+ - user: None
+ - tags: []
+
+## MikroTik blog
+ - [https://blog.mikrotik.com](https://blog.mikrotik.com)
+ - date published: 2023-10-25T16:04:06.167951+00:00
+ - user: None
+ - tags: []
+
+## Milan's website
+ - [https://milancurcic.com](https://milancurcic.com)
+ - date published: 2023-10-25T16:04:06.862133+00:00
+ - user: None
+ - tags: []
+
+## Milan Teh • heartfelt photography
+ - [https://www.milanteh.com](https://www.milanteh.com)
+ - date published: 2024-01-09T00:12:33.647011+00:00
+ - user: None
+ - tags: []
+
+## Mile Nerd | Just the most miles in the fewest words possible.
+ - [https://www.milenerd.com](https://www.milenerd.com)
+ - date published: 2023-12-02T09:31:35.184567+00:00
+ - user: None
+ - tags: []
+
+## Military and Veteran Benefits, News, Veteran Jobs
+ - [https://military.com](https://military.com)
+ - date published: 2024-01-11T22:13:05+00:00
+ - user: rumpel
+ - tags: ['military news']
+
+## Military and Veteran Benefits, News, Veteran Jobs
+ - [https://www.military.com](https://www.military.com)
+ - date published: 2023-11-04T18:08:01.043546+00:00
+ - user: None
+ - tags: []
+
+## Home | Military Aerospace
+ - [https://www.militaryaerospace.com](https://www.militaryaerospace.com)
+ - date published: 2023-10-25T10:18:16.055349+00:00
+ - user: None
+ - tags: []
+
+## Military Times - Independent News About Your Military | Military Times
+ - [https://www.militarytimes.com](https://www.militarytimes.com)
+ - date published: 2023-10-25T10:18:20.645155+00:00
+ - user: None
+ - tags: []
+
+## Welcome To MILK Kommunikations Ko-Op
+ - [https://milk.com](https://milk.com)
+ - date published: 2023-10-25T16:04:08.251962+00:00
+ - user: None
+ - tags: []
+
+## Milky Eggs
+ - [https://milkyeggs.com](https://milkyeggs.com)
+ - date published: 2023-10-25T16:04:15.774895+00:00
+ - user: None
+ - tags: []
+
+## Mill Computing, Inc
+ - [https://millcomputing.com](https://millcomputing.com)
+ - date published: 2023-10-25T16:04:21.860685+00:00
+ - user: None
+ - tags: []
+
+## Financial Independence by Investing, Minimalism & Mindfulness | Minafi
+ - [https://minafi.com](https://minafi.com)
+ - date published: 2023-11-29T14:41:50.950597+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mindful tester | Sharing knowledge about testing and other things on my mind
+ - [https://mindfultester.com](https://mindfultester.com)
+ - date published: 2024-01-06T17:58:32.611587+00:00
+ - user: None
+ - tags: []
+
+## Mindly Games
+ - [https://www.mindlygames.com](https://www.mindlygames.com)
+ - date published: 2023-10-25T16:04:26.957000+00:00
+ - user: None
+ - tags: []
+
+## Minecraft Servers - Minecraft Server List
+ - [https://minecraft-server-list.com](https://minecraft-server-list.com)
+ - date published: 2023-10-25T11:09:25.967048+00:00
+ - user: None
+ - tags: []
+
+## Minecraft Mods | Mods for Minecraft
+ - [https://www.minecraftmods.com](https://www.minecraftmods.com)
+ - date published: 2023-10-25T11:09:27.371524+00:00
+ - user: None
+ - tags: []
+
+## https://www.minecraftskins.com
+ - [https://www.minecraftskins.com](https://www.minecraftskins.com)
+ - date published: 2023-10-30T15:19:29.516955+00:00
+ - user: None
+ - tags: ['minecraft']
+
+## Minecraft Station - Minecraft tips, tricks, and error solutions
+ - [https://www.minecraftstation.com](https://www.minecraftstation.com)
+ - date published: 2023-12-13T16:20:51.592513+00:00
+ - user: None
+ - tags: []
+
+## Miniatua Limited Edition | Home
+ - [https://www.miniatua.com](https://www.miniatua.com)
+ - date published: 2023-10-25T16:04:28.404066+00:00
+ - user: None
+ - tags: []
+
 ## Miniature Market - Board Games, Magic The Gathering, Table Top Games, Dungeons & Dragons, Role Playing Games | Miniature Market
  - [https://www.miniaturemarket.com](https://www.miniaturemarket.com)
  - date published: 2023-10-25T11:19:41.464959+00:00
@@ -556,6 +742,12 @@
  - user: None
  - tags: []
 
+## Home
+ - [https://moorinsightsstrategy.com](https://moorinsightsstrategy.com)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## moralestapia.com
  - [https://www.moralestapia.com](https://www.moralestapia.com)
  - date published: 2023-11-29T15:49:04.258610+00:00
@@ -729,6 +921,12 @@
  - date published: 2023-10-25T16:07:57.215743+00:00
  - user: None
  - tags: []
+
+## Home
+ - [https://www.mozenda.com](https://www.mozenda.com)
+ - date published: 2024-01-17T09:04:40+00:00
+ - user: rumpel
+ - tags: ['web scraping']
 
 ## Mozilla Lifeboat
  - [https://mozillalifeboat.com](https://mozillalifeboat.com)
@@ -2543,6 +2741,12 @@
  - user: None
  - tags: ['personal']
 
+## niklasgoeke.com - Lessons from life outside the comfort zone
+ - [https://niklasgoeke.com](https://niklasgoeke.com)
+ - date published: 2024-01-17T04:44:14.874735+00:00
+ - user: None
+ - tags: []
+
 ## Nikolai Vazquez
  - [https://nikolaivazquez.com](https://nikolaivazquez.com)
  - date published: 2023-10-25T08:47:21.833024+00:00
@@ -3005,6 +3209,12 @@
  - user: None
  - tags: []
 
+## Nothing Easy About This
+ - [https://www.nothingeasyaboutthis.com](https://www.nothingeasyaboutthis.com)
+ - date published: 2024-01-17T07:31:38.646628+00:00
+ - user: None
+ - tags: []
+
 ## The Productive Dad – Optimise Workflows & Reduce Stress with ClickUp
  - [https://notiondad.com](https://notiondad.com)
  - date published: 2024-01-08T07:27:12.614460+00:00
@@ -3452,6 +3662,12 @@ Answering Machine Greetings!
  - date published: 2024-01-12T08:41:37.874675+00:00
  - user: None
  - tags: []
+
+## Web Scraping Tool & Free Web Crawlers | Octoparse
+ - [https://www.octoparse.com](https://www.octoparse.com)
+ - date published: 2024-01-17T08:56:20+00:00
+ - user: rumpel
+ - tags: ['web scraping']
 
 ## Continuous delivery & deployment automation tool for DevOps teams | Octopus Deploy - Octopus Deploy
  - [https://octopus.com](https://octopus.com)
@@ -4846,6 +5062,12 @@ Answering Machine Greetings!
  - user: None
  - tags: ['parov stellar', 'music band']
 
+## ParseHub | Free web scraping - The most powerful web scraper
+ - [https://www.parsehub.com](https://www.parsehub.com)
+ - date published: 2024-01-17T09:05:15+00:00
+ - user: rumpel
+ - tags: ['web scraping']
+
 ## Le blog de Pascal Andy
  - [https://pascalandy.com](https://pascalandy.com)
  - date published: 2024-01-13T04:52:48.069302+00:00
@@ -5780,230 +6002,6 @@ Answering Machine Greetings!
 ## PhoneArena | Phone News, Reviews, Deals and Specs
  - [https://www.phonearena.com](https://www.phonearena.com)
  - date published: 2023-10-25T10:14:53.382529+00:00
- - user: None
- - tags: []
-
-## Phone Scoop
- - [https://www.phonescoop.com](https://www.phonescoop.com)
- - date published: 2023-10-25T16:34:12.198914+00:00
- - user: None
- - tags: []
-
-## Linux Hardware Reviews & Performance Benchmarks, Open-Source News - Phoronix
- - [https://www.phoronix.com](https://www.phoronix.com)
- - date published: 2023-10-25T09:34:52.687128+00:00
- - user: None
- - tags: ['tech news', 'open source', 'linux']
-
-## Photopea | Online Photo Editor
- - [https://www.photopea.com](https://www.photopea.com)
- - date published: 2023-10-25T16:34:13.576672+00:00
- - user: None
- - tags: []
-
-## The Photographer's Newsletter
-    
-         - Information & Inspiration For Photogs
- - [https://www.photoroo.com](https://www.photoroo.com)
- - date published: 2023-10-25T16:34:15.007380+00:00
- - user: None
- - tags: []
-
-## AI Photo Editing: Remove Background & Create Product Pics | PhotoRoom
- - [https://www.photoroom.com](https://www.photoroom.com)
- - date published: 2023-10-25T16:34:17.644739+00:00
- - user: None
- - tags: []
-
-## phpBB • Free and Open Source Forum Software
- - [https://phpbb.com](https://phpbb.com)
- - date published: 2023-12-13T16:04:04.243437+00:00
- - user: None
- - tags: ['selfhost']
-
-## phpBB • Free and Open Source Forum Software
- - [https://www.phpbb.com](https://www.phpbb.com)
- - date published: 2023-10-25T08:30:34.828095+00:00
- - user: None
- - tags: []
-
-## phpied.com
- - [https://www.phpied.com](https://www.phpied.com)
- - date published: 2024-01-15T05:45:17.624527+00:00
- - user: None
- - tags: []
-
-## Phronemophobic's Blog
- - [https://blog.phronemophobic.com](https://blog.phronemophobic.com)
- - date published: 2023-10-25T16:34:18.995437+00:00
- - user: None
- - tags: []
-
-## Blog By Physics-Astronomy
- - [https://blog.physics-astronomy.com](https://blog.physics-astronomy.com)
- - date published: 2023-10-25T16:34:22.769337+00:00
- - user: None
- - tags: []
-
-## Homepage | Physics-Astronomy
- - [https://www.physics-astronomy.com](https://www.physics-astronomy.com)
- - date published: 2024-01-01T22:21:48.330748+00:00
- - user: None
- - tags: []
-
-## Physics & Maths Tutor
- - [https://www.physicsandmathstutor.com](https://www.physicsandmathstutor.com)
- - date published: 2023-10-25T16:34:25.911179+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://physiqonomics.com](https://physiqonomics.com)
- - date published: 2024-01-10T19:41:14.953087+00:00
- - user: None
- - tags: []
-
-## Pick a Direction - How do you expect to finish if you never start?
- - [https://pickadirection.com](https://pickadirection.com)
- - date published: 2023-12-27T01:10:03.415030+00:00
- - user: None
- - tags: ['personal']
-
-## PiCockpit
- - [https://picockpit.com](https://picockpit.com)
- - date published: 2023-10-25T16:34:27.996274+00:00
- - user: None
- - tags: []
-
-## PicoLisp Blog
- - [https://picolisp-explored.com](https://picolisp-explored.com)
- - date published: 2023-10-25T16:34:34.579154+00:00
- - user: None
- - tags: []
-
-## PICO Virtual Reality | Official Website | PICO Global
- - [https://www.picoxr.com](https://www.picoxr.com)
- - date published: 2023-10-31T13:12:33.032092+00:00
- - user: None
- - tags: ['virtual reality']
-
-## Pietro Rea
- - [https://pietrorea.com](https://pietrorea.com)
- - date published: 2023-10-25T16:34:36.288257+00:00
- - user: None
- - tags: []
-
-## Pietro Rea
- - [https://www.pietrorea.com](https://www.pietrorea.com)
- - date published: 2023-10-25T16:34:45.291873+00:00
- - user: None
- - tags: []
-
-## ShanDong Tengyue Shangqingtai Agriculture And Animal Husbandry Machinery Technology Co., Ltd.
- - [https://www.pigfarmequipments.com](https://www.pigfarmequipments.com)
- - date published: 2023-11-22T11:04:42.133720+00:00
- - user: None
- - tags: []
-
-## Automate your marketing visuals using Figma
- - [https://pikmaker.com](https://pikmaker.com)
- - date published: 2023-10-25T16:34:47.831381+00:00
- - user: None
- - tags: []
-
-## Pikuma: Fundamentals of computer science and mathematics
- - [https://pikuma.com](https://pikuma.com)
- - date published: 2023-10-25T16:34:51.221525+00:00
- - user: None
- - tags: []
-
-## Tech-Tutorials, Howtos and buying advice
- - [https://pilabor.com](https://pilabor.com)
- - date published: 2023-10-25T16:34:53.491317+00:00
- - user: None
- - tags: []
-
-## The Pillar
- - [https://www.pillarcatholic.com](https://www.pillarcatholic.com)
- - date published: 2023-10-25T16:34:54.561047+00:00
- - user: None
- - tags: []
-
-## PillPack - Pharmacy Simplified
- - [https://www.pillpack.com](https://www.pillpack.com)
- - date published: 2023-10-25T16:34:55.621297+00:00
- - user: None
- - tags: []
-
-## Pilot | Bookkeeping, tax, & CFO services for startups & small businesses
- - [https://pilot.com](https://pilot.com)
- - date published: 2023-10-25T16:35:02.377356+00:00
- - user: None
- - tags: []
-
-## Aviation School: Free & Paid Pilot Training Classes - Pilot Institute
- - [https://pilotinstitute.com](https://pilotinstitute.com)
- - date published: 2023-10-25T16:35:03.645931+00:00
- - user: None
- - tags: []
-
-## The Virginian-Pilot - Virginia News, Sports, Weather, Business & Things to Do
- - [https://www.pilotonline.com](https://www.pilotonline.com)
- - date published: 2023-10-25T16:35:09.170323+00:00
- - user: None
- - tags: []
-
-## Pi My Life Up - 500+ DIY Projects, Tutorials & Guides
- - [https://pimylifeup.com](https://pimylifeup.com)
- - date published: 2023-10-25T11:10:56.411744+00:00
- - user: None
- - tags: ['sbc', 'raspberry']
-
-## Pinalist - All-in-one Bookmark Manager
- - [https://pinalist.com](https://pinalist.com)
- - date published: 2023-11-26T16:47:48+00:00
- - user: rumpel
- - tags: ['bookmark manager']
-
-## PINE TAR POKER
- - [https://www.pinetarpoker.com](https://www.pinetarpoker.com)
- - date published: 2023-10-25T16:35:11.801158+00:00
- - user: None
- - tags: []
-
-## None
- - [https://blog.pingsafe.com](https://blog.pingsafe.com)
- - date published: 2024-01-09T02:46:32.883093+00:00
- - user: None
- - tags: []
-
-## PINK FLOYD
- - [https://www.pinkfloyd.com](https://www.pinkfloyd.com)
- - date published: 2023-10-25T13:46:29.880859+00:00
- - user: None
- - tags: ['music band']
-
-## Pink Gallica
- - [https://pinkgallica.com](https://pinkgallica.com)
- - date published: 2023-12-11T23:17:15.963649+00:00
- - user: None
- - tags: ['personal']
-
-## Jobs at SafetyWing | SafetyWing Careers
- - [https://safetywing.pinpointhq.com](https://safetywing.pinpointhq.com)
- - date published: 2023-10-25T16:35:12.884449+00:00
- - user: None
- - tags: []
-
-## Free 3D Printable Files and Designs | Pinshape
- - [https://pinshape.com](https://pinshape.com)
- - date published: 2023-10-27T10:31:11.033157+00:00
- - user: None
- - tags: ['assets models', '3d printing']
-
-## Pinterest
- - [https://fr.pinterest.com](https://fr.pinterest.com)
- - date published: 2023-12-11T15:37:14.861617+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,69 @@
+## Cleveland Scene
+ - [https://www.clevescene.com](https://www.clevescene.com)
+ - date published: 2023-12-12T09:20:52.362931+00:00
+ - user: None
+ - tags: []
+
+## Click2Houston | Houston News, Texas News, Weather, Sports | KPRC 2
+ - [https://www.click2houston.com](https://www.click2houston.com)
+ - date published: 2023-10-25T13:26:13.604036+00:00
+ - user: None
+ - tags: []
+
+## Click Americana: Your free time machine to revisit good stuff from the past
+ - [https://clickamericana.com](https://clickamericana.com)
+ - date published: 2023-10-25T13:26:23.255464+00:00
+ - user: None
+ - tags: []
+
+## Fast Open-Source OLAP DBMS - ClickHouse
+ - [https://clickhouse.com](https://clickhouse.com)
+ - date published: 2023-10-25T13:26:25.919496+00:00
+ - user: None
+ - tags: []
+
+## ClickOnDetroit | WDIV Local 4
+ - [https://www.clickondetroit.com](https://www.clickondetroit.com)
+ - date published: 2023-10-25T13:26:31.744637+00:00
+ - user: None
+ - tags: []
+
+## ClickOrlando l Orlando, Florida News, Local Headlines l WKMG News 6
+ - [https://www.clickorlando.com](https://www.clickorlando.com)
+ - date published: 2023-11-10T02:51:33.674297+00:00
+ - user: None
+ - tags: []
+
+## Cliffle
+ - [https://cliffle.com](https://cliffle.com)
+ - date published: 2023-10-25T13:26:33.249479+00:00
+ - user: None
+ - tags: []
+
+## Climate Drift | Marco & Skander | Substack
+ - [https://www.climatedrift.com](https://www.climatedrift.com)
+ - date published: 2023-10-25T09:40:02.589131+00:00
+ - user: None
+ - tags: ['substack']
+
+## Show HN: ClimateTriage – Impactful open source contributions
+ - [https://climatetriage.com](https://climatetriage.com)
+ - date published: 2023-12-20T10:34:43+00:00
+ - user: None
+ - tags: []
+
+## Journey toward net zero with Climeworks' carbon removal service
+ - [https://climeworks.com](https://climeworks.com)
+ - date published: 2023-10-25T13:26:37.360343+00:00
+ - user: None
+ - tags: []
+
+## https://www.clinicalmicrobiologyandinfection.com
+ - [https://www.clinicalmicrobiologyandinfection.com](https://www.clinicalmicrobiologyandinfection.com)
+ - date published: 2023-11-05T07:28:30.587332+00:00
+ - user: None
+ - tags: []
+
 ## https://clinicalnutritionjournal.com
  - [https://clinicalnutritionjournal.com](https://clinicalnutritionjournal.com)
  - date published: 2023-12-04T23:16:21.241233+00:00
@@ -873,6 +939,12 @@
  - user: None
  - tags: []
 
+## 504 Gateway Time-out
+ - [https://computerengineeringforbabies.com](https://computerengineeringforbabies.com)
+ - date published: 2024-01-18T00:14:10.718483+00:00
+ - user: None
+ - tags: []
+
 ## Computer, Enhance! | Casey Muratori | Substack
  - [https://www.computerenhance.com](https://www.computerenhance.com)
  - date published: 2023-10-25T13:32:39.542030+00:00
@@ -992,6 +1064,12 @@
  - date published: 2023-10-25T13:33:16.108871+00:00
  - user: None
  - tags: ['content farm', 'seo']
+
+## Sequentum | Low Code Web Data Pipelines at Enterprise Scale
+ - [https://contentgrabber.com](https://contentgrabber.com)
+ - date published: 2024-01-17T09:10:05+00:00
+ - user: rumpel
+ - tags: ['web scraping']
 
 ## 403 Forbidden
  - [https://wasm.continuation-labs.com](https://wasm.continuation-labs.com)
@@ -1447,6 +1525,12 @@
  - [https://crashthearcade.com](https://crashthearcade.com)
  - date published: 2024-01-13T11:51:22.083085+00:00
  - user: None
+ - tags: []
+
+## Cloud based SEO reporting software, view performance, monitoring to improve SEO rankings. | CrawlMonster Crawl Monster
+ - [https://www.crawlmonster.com](https://www.crawlmonster.com)
+ - date published: 2024-01-17T09:06:06+00:00
+ - user: rumpel
  - tags: []
 
 ## Free Online Games on CrazyGames 🎮 Play Now!
@@ -3016,6 +3100,12 @@
  - user: None
  - tags: ['linux', 'operating system']
 
+## ddanieltan.com - 🤔
+ - [https://www.ddanieltan.com](https://www.ddanieltan.com)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Deadline – Hollywood Entertainment Breaking News
  - [https://deadline.com](https://deadline.com)
  - date published: 2023-10-25T10:17:40.928660+00:00
@@ -3027,6 +3117,12 @@
  - date published: 2023-12-25T17:18:21.336759+00:00
  - user: None
  - tags: ['personal']
+
+## Western Shores Marketing - Affordable Marketing for Small Businesses
+ - [https://www.deancalin.com](https://www.deancalin.com)
+ - date published: 2024-01-17T04:43:13.671196+00:00
+ - user: None
+ - tags: []
 
 ## Deanne Achong
  - [https://deanneachong.com](https://deanneachong.com)
@@ -3789,6 +3885,18 @@
  - date published: 2023-10-25T08:31:40.105924+00:00
  - user: None
  - tags: ['pine64', 'raspberry pi', 'odroid', 'operating system']
+
+## Turn Websites Into Data in Seconds
+ - [https://crawly.diffbot.com](https://crawly.diffbot.com)
+ - date published: 2024-01-17T09:09:20+00:00
+ - user: rumpel
+ - tags: ['web scraping']
+
+## Diffbot | Knowledge Graph, AI Web Data Extraction and Crawling
+ - [https://www.diffbot.com](https://www.diffbot.com)
+ - date published: 2024-01-17T09:11:08+00:00
+ - user: rumpel
+ - tags: ['web scraping']
 
 ## Diffchecker - Compare text online to find the difference between two text files
  - [https://www.diffchecker.com](https://www.diffchecker.com)
@@ -4658,6 +4766,12 @@
 ## Dr. Cat Hicks | Resilient Productivity
  - [https://www.drcathicks.com](https://www.drcathicks.com)
  - date published: 2023-10-25T13:58:26.111396+00:00
+ - user: None
+ - tags: []
+
+## Dr. Cox Consulting |
+ - [https://www.drcoxconsulting.com](https://www.drcoxconsulting.com)
+ - date published: 6667-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5888,120 +6002,6 @@
 ## Supercharge your mobile apps | Emerge Tools
  - [https://www.emergetools.com](https://www.emergetools.com)
  - date published: 2023-10-25T14:06:59.391184+00:00
- - user: None
- - tags: []
-
-## Hacker News Job Search
- - [https://hnjobs.emilburzo.com](https://hnjobs.emilburzo.com)
- - date published: 2024-01-02T18:03:30.591011+00:00
- - user: None
- - tags: []
-
-## Just Emil Kirkegaard Things | Emil O. W. Kirkegaard | Substack
- - [https://www.emilkirkegaard.com](https://www.emilkirkegaard.com)
- - date published: 2023-10-25T09:40:07.368841+00:00
- - user: None
- - tags: ['substack']
-
-## Home - Eminem
- - [https://www.eminem.com](https://www.eminem.com)
- - date published: 2023-11-13T10:35:19.859556+00:00
- - user: None
- - tags: ['music band']
-
-## Emir's blog
- - [https://emiruz.com](https://emiruz.com)
- - date published: 2023-10-25T14:07:01.831705+00:00
- - user: None
- - tags: []
-
-## EmptyCrate.com: Recent Posts
- - [https://articles.emptycrate.com](https://articles.emptycrate.com)
- - date published: 2023-10-29T10:21:17.478746+00:00
- - user: None
- - tags: []
-
-## The Emulator Zone - Your Source for Emulation!
- - [https://www.emulator-zone.com](https://www.emulator-zone.com)
- - date published: 2023-10-25T11:08:52.480918+00:00
- - user: None
- - tags: []
-
-## eMule-Project.net - Official eMule Homepage. Downloads, Help, Docu, News...
- - [https://www.emule-project.com](https://www.emule-project.com)
- - date published: 2023-10-28T20:46:40.712218+00:00
- - user: None
- - tags: ['piracy']
-
-## 403 Forbidden
- - [http://amigacoverdisks.emuunlim.com](http://amigacoverdisks.emuunlim.com)
- - date published: 2023-12-11T18:28:06.982719+00:00
- - user: None
- - tags: []
-
-## 403 Forbidden
- - [http://nthdimension.emuunlim.com](http://nthdimension.emuunlim.com)
- - date published: 2023-12-11T17:55:11.037449+00:00
- - user: None
- - tags: []
-
-## Data Engine for AI Model Development | Encord
- - [https://encord.com](https://encord.com)
- - date published: 2023-10-25T14:07:04.146183+00:00
- - user: None
- - tags: []
-
-## https://endgamebusiness.com
- - [https://endgamebusiness.com](https://endgamebusiness.com)
- - date published: 2023-12-29T03:12:29.220958+00:00
- - user: None
- - tags: ['personal']
-
-## The Endless Doomscroller
- - [https://endlessdoomscroller.com](https://endlessdoomscroller.com)
- - date published: 2023-10-25T14:07:05.150878+00:00
- - user: None
- - tags: []
-
-## Endpoints News – Biotech, drug, pharma and health news for business and professional readers
- - [https://endpts.com](https://endpts.com)
- - date published: 2023-10-25T10:45:49.631839+00:00
- - user: None
- - tags: []
-
-## Portal o energetyce | Energetyka24
- - [https://energetyka24.com](https://energetyka24.com)
- - date published: 2023-10-25T14:07:11.459555+00:00
- - user: None
- - tags: []
-
-## Energy Capital & Power
- - [https://energycapitalpower.com](https://energycapitalpower.com)
- - date published: 2023-11-25T06:54:41.624265+00:00
- - user: None
- - tags: []
-
-## Engadget is part of the Yahoo family of brands
- - [https://www.engadget.com](https://www.engadget.com)
- - date published: 2023-10-25T14:07:17.718893+00:00
- - user: None
- - tags: ['tech news']
-
-## Home - Engaging Data
- - [https://engaging-data.com](https://engaging-data.com)
- - date published: 2023-10-25T14:07:23.332596+00:00
- - user: None
- - tags: []
-
-## The Software Engineer's Guidebook
- - [https://www.engguidebook.com](https://www.engguidebook.com)
- - date published: 2023-11-08T00:46:17+00:00
- - user: None
- - tags: []
-
-## Engineering Book Club - Online community for reading books
- - [https://www.engineeringbookclub.com](https://www.engineeringbookclub.com)
- - date published: 2023-10-25T14:07:27.340540+00:00
  - user: None
  - tags: []
 
