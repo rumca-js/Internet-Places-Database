@@ -1,3 +1,40 @@
+## MIT 24-Hour Challenge 2022 | MIT Annual Fund | Giving to MIT
+ - [https://mit24hourchallenge.mightycause.com](https://mit24hourchallenge.mightycause.com)
+ - date published: 2023-10-25T16:03:41.849852+00:00
+ - user: None
+ - tags: []
+
+## miguelgrinberg.com
+ - [https://blog.miguelgrinberg.com](https://blog.miguelgrinberg.com)
+ - date published: 2023-10-25T16:03:44.577554+00:00
+ - user: None
+ - tags: []
+
+## Miguel Piedrafita
+ - [https://miguelpiedrafita.com](https://miguelpiedrafita.com)
+ - date published: 2024-01-12T02:35:03.994676+00:00
+ - user: None
+ - tags: []
+
+## Sprezzatura
+ - [https://mikaelsyding.com](https://mikaelsyding.com)
+ - date published: 2023-12-31T21:20:59.573845+00:00
+ - user: None
+ - tags: []
+
+## MhWeb
+     · Phoenix Framework
+ - [https://mike-hostetler.com](https://mike-hostetler.com)
+ - date published: 2024-01-10T19:22:18.450167+00:00
+ - user: None
+ - tags: []
+
+## mike beauchamp : occasional doer of stuff and maker of things
+ - [http://mikebeauchamp.com](http://mikebeauchamp.com)
+ - date published: 2023-10-25T16:03:50.613706+00:00
+ - user: None
+ - tags: []
+
 ## Latest articles on design, development, and the world around me
  - [https://mikebifulco.com](https://mikebifulco.com)
  - date published: 2023-12-27T08:43:59.949594+00:00
@@ -1138,6 +1175,12 @@
  - user: None
  - tags: []
 
+## Virtual tour of Museum of Failure
+ - [https://collection.museumoffailure.com](https://collection.museumoffailure.com)
+ - date published: 2024-01-18T23:12:25.261252+00:00
+ - user: None
+ - tags: []
+
 ## Museum of Failure Main - Museum of Failure
  - [https://museumoffailure.com](https://museumoffailure.com)
  - date published: 2023-10-25T16:08:49.578439+00:00
@@ -1443,6 +1486,12 @@
  - date published: 2023-12-03T03:58:00.211208+00:00
  - user: None
  - tags: []
+
+## NAPALM RECORDS
+ - [https://label.napalmrecords.com](https://label.napalmrecords.com)
+ - date published: 2024-01-18T15:13:48+00:00
+ - user: rumpel
+ - tags: ['record label']
 
 ## Home
  - [https://www.narnia.com](https://www.narnia.com)
@@ -2801,6 +2850,12 @@
  - user: None
  - tags: ['personal']
 
+## Ninerito | Shopify Partner
+ - [https://www.ninerito.com](https://www.ninerito.com)
+ - date published: 2024-01-18T16:43:38.239765+00:00
+ - user: None
+ - tags: []
+
 ## Nintendo Official Site: Consoles, Games, News, and More
  - [https://www.nintendo.com](https://www.nintendo.com)
  - date published: 2023-10-27T12:55:02.230844+00:00
@@ -3342,6 +3397,12 @@ Answering Machine Greetings!
  - user: None
  - tags: ['personal']
 
+## NRW
+ - [https://nrwradio.com](https://nrwradio.com)
+ - date published: 2024-01-18T20:18:50+00:00
+ - user: rumpel
+ - tags: ['news retro wave', 'synthwave']
+
 ## NSKYC - The average color of the New York sky
  - [https://nskyc.com](https://nskyc.com)
  - date published: 2023-10-25T16:22:44.266267+00:00
@@ -3398,6 +3459,12 @@ Answering Machine Greetings!
  - date published: 2023-10-25T16:23:04.186037+00:00
  - user: None
  - tags: []
+
+## Reggae Rasta Rootswear | Nuff Respekt shop
+ - [https://www.nuffrespekt.com](https://www.nuffrespekt.com)
+ - date published: 2024-01-18T10:27:23+00:00
+ - user: rumpel
+ - tags: ['merch', 'shop']
 
 ## Nukeni - Cheapest price for Apple products
  - [https://www.nukeni.com](https://www.nukeni.com)
@@ -5935,73 +6002,6 @@ Answering Machine Greetings!
 ## Philadelphia Magazine | News, Restaurants, Best of Philly
  - [https://www.phillymag.com](https://www.phillymag.com)
  - date published: 2023-10-25T16:34:02.217335+00:00
- - user: None
- - tags: []
-
-## Philadelphia Sports Acupuncture
- - [https://www.phillysportsacupuncture.com](https://www.phillysportsacupuncture.com)
- - date published: 2024-01-03T04:06:18.834325+00:00
- - user: None
- - tags: []
-
-## Dr. Phil Maffetone - founder of the 180 formula and MAF test
- - [https://philmaffetone.com](https://philmaffetone.com)
- - date published: 2023-11-18T07:33:39.194122+00:00
- - user: None
- - tags: []
-
-## Reversing entropy, locally
- - [https://philoserf.com](https://philoserf.com)
- - date published: 2023-12-03T01:43:34.806253+00:00
- - user: None
- - tags: ['personal']
-
-## Philosophy Bro
- - [https://www.philosophybro.com](https://www.philosophybro.com)
- - date published: 2023-10-25T16:34:04.305344+00:00
- - user: None
- - tags: []
-
-## Risk & Cybersecurity
- - [https://www.philvenables.com](https://www.philvenables.com)
- - date published: 2023-10-25T16:34:06.256000+00:00
- - user: None
- - tags: []
-
-## Phil Zimmermann's Home Page
- - [https://www.philzimmermann.com](https://www.philzimmermann.com)
- - date published: 2023-10-25T08:47:32.129006+00:00
- - user: None
- - tags: ['personal']
-
-## https://phind.com
- - [https://phind.com](https://phind.com)
- - date published: 2023-10-25T16:34:07.856025+00:00
- - user: None
- - tags: []
-
-## https://www.phind.com
- - [https://www.phind.com](https://www.phind.com)
- - date published: 2023-10-25T16:34:08.146703+00:00
- - user: None
- - tags: []
-
-## Phoenix New Times | The Leading Independent News Source in Phoenix, Arizona
- - [https://www.phoenixnewtimes.com](https://www.phoenixnewtimes.com)
- - date published: 2023-11-23T22:14:37.035277+00:00
- - user: None
- - tags: []
-
-## Phoenix and Elixir for Ruby on Rails developers
- · Phoenix on Rails
- - [https://phoenixonrails.com](https://phoenixonrails.com)
- - date published: 2023-10-25T16:34:09.532839+00:00
- - user: None
- - tags: []
-
-## PhoneArena | Phone News, Reviews, Deals and Specs
- - [https://www.phonearena.com](https://www.phonearena.com)
- - date published: 2023-10-25T10:14:53.382529+00:00
  - user: None
  - tags: []
 

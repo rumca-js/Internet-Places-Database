@@ -1,3 +1,9 @@
+## clevelandjewishnews.com | Award-winning coverage of local, national and world news of Jewish interest.
+ - [https://www.clevelandjewishnews.com](https://www.clevelandjewishnews.com)
+ - date published: 2023-10-31T03:38:08.908723+00:00
+ - user: None
+ - tags: []
+
 ## Cleveland Scene
  - [https://www.clevescene.com](https://www.clevescene.com)
  - date published: 2023-12-12T09:20:52.362931+00:00
@@ -2614,6 +2620,12 @@
  - user: None
  - tags: ['personal']
 
+## Unknown Domain
+ - [https://dariengibson.com](https://dariengibson.com)
+ - date published: 2024-01-18T16:43:14.346572+00:00
+ - user: None
+ - tags: []
+
 ## Darius Foroux | Weekly ideas to become smarter and wealthier
  - [https://dariusforoux.com](https://dariusforoux.com)
  - date published: 2023-10-25T13:43:22.766378+00:00
@@ -3411,6 +3423,12 @@
  - date published: 2023-10-25T13:48:49.685212+00:00
  - user: None
  - tags: []
+
+## delorie software
+ - [https://www.delorie.com](https://www.delorie.com)
+ - date published: 2019-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['djgpp']
 
 ## Delphine McClelland
  - [https://delphinemcclelland.com](https://delphinemcclelland.com)
@@ -5986,22 +6004,4 @@
  - date published: 2023-11-28T07:58:07+00:00
  - user: rumpel
  - tags: ['email client']
-
-## Go To ELL
- - [http://www.emeraldlake.com](http://www.emeraldlake.com)
- - date published: 2023-10-25T14:06:51.636805+00:00
- - user: None
- - tags: []
-
-## AI-Powered AI News | Emergent Mind
- - [https://www.emergentmind.com](https://www.emergentmind.com)
- - date published: 2023-10-25T14:06:55.805993+00:00
- - user: None
- - tags: []
-
-## Supercharge your mobile apps | Emerge Tools
- - [https://www.emergetools.com](https://www.emergetools.com)
- - date published: 2023-10-25T14:06:59.391184+00:00
- - user: None
- - tags: []
 

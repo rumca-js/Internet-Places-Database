@@ -1,3 +1,165 @@
+## PySaaS | Make a Profitable SaaS Business Fast in Python
+ - [https://pysaas.io](https://pysaas.io)
+ - date published: 2023-10-25T20:04:25.968019+00:00
+ - user: None
+ - tags: []
+
+## Qt | Tools for Each Stage of Software Development Lifecycle
+ - [https://www.qt.io](https://www.qt.io)
+ - date published: 2023-10-25T20:04:38.723901+00:00
+ - user: None
+ - tags: ['programming framework', 'qt']
+
+## play
+ - [https://play.questdb.io](https://play.questdb.io)
+ - date published: 2023-10-25T20:04:40.310430+00:00
+ - user: None
+ - tags: []
+
+## QuestDB | High performance time series
+ - [https://questdb.io](https://questdb.io)
+ - date published: 2023-10-25T20:04:42.166068+00:00
+ - user: None
+ - tags: []
+
+## Search more with less | Quickwit
+ - [https://quickwit.io](https://quickwit.io)
+ - date published: 2023-10-25T20:04:43.380239+00:00
+ - user: None
+ - tags: []
+
+## Raindrop.io — All in One Bookmark Manager
+ - [https://raindrop.io](https://raindrop.io)
+ - date published: 2023-11-26T16:43:25+00:00
+ - user: rumpel
+ - tags: ['bookmark manager']
+
+## ReactAgent - The open-source React.js LLM Agent
+ - [https://reactagent.io](https://reactagent.io)
+ - date published: 2023-11-03T08:29:49.953749+00:00
+ - user: None
+ - tags: []
+
+## Reactiverse | The Reactiverse
+ - [https://reactiverse.io](https://reactiverse.io)
+ - date published: 2023-10-25T20:04:44.223881+00:00
+ - user: None
+ - tags: []
+
+## Briefcase 0.3.16
+ - [https://briefcase.readthedocs.io](https://briefcase.readthedocs.io)
+ - date published: 2023-10-25T20:04:46.661232+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Cython’s Documentation — Cython 3.0.5.dev0 documentation
+ - [https://cython.readthedocs.io](https://cython.readthedocs.io)
+ - date published: 2023-10-25T20:04:48.362766+00:00
+ - user: None
+ - tags: []
+
+## Django documentation — Django 4.2.7 documentation
+ - [https://django.readthedocs.io](https://django.readthedocs.io)
+ - date published: 2023-11-01T08:43:47.341783+00:00
+ - user: None
+ - tags: []
+
+## drgn — drgn 0.0.25+15.g2ebdc10 documentation
+ - [https://drgn.readthedocs.io](https://drgn.readthedocs.io)
+ - date published: 2024-01-12T03:41:34.870436+00:00
+ - user: None
+ - tags: []
+
+## EvaDB 0.3.8
+ - [https://evadb.readthedocs.io](https://evadb.readthedocs.io)
+ - date published: 2023-10-25T20:04:51.723131+00:00
+ - user: None
+ - tags: []
+
+## JAX: High-Performance Array Computing — JAX  documentation
+ - [https://jax.readthedocs.io](https://jax.readthedocs.io)
+ - date published: 2023-10-25T20:04:54.823125+00:00
+ - user: None
+ - tags: []
+
+## Joblib: running Python functions as pipeline jobs — joblib 1.3.2 documentation
+ - [https://joblib.readthedocs.io](https://joblib.readthedocs.io)
+ - date published: 2023-10-25T20:04:55.727911+00:00
+ - user: None
+ - tags: []
+
+## Jupyter AI — Jupyter AI  documentation
+ - [https://jupyter-ai.readthedocs.io](https://jupyter-ai.readthedocs.io)
+ - date published: 2023-10-25T20:04:57.357900+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Linux command line for you and me! — Linux command line for you and me 0.1 documentation
+ - [https://lym.readthedocs.io](https://lym.readthedocs.io)
+ - date published: 2023-10-25T20:04:59.179033+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Read the Docs — Macros in Nim - Tutorial latest documentation
+ - [https://macros-in-nim-tutorial.readthedocs.io](https://macros-in-nim-tutorial.readthedocs.io)
+ - date published: 2023-10-25T20:05:00.694042+00:00
+ - user: None
+ - tags: []
+
+## Moonshine
+ - [https://moonshineai.readthedocs.io](https://moonshineai.readthedocs.io)
+ - date published: 2023-10-25T20:05:02.388020+00:00
+ - user: None
+ - tags: []
+
+## Mr. Graph — mr-graph 0.1.0 documentation
+ - [https://mr-graph.readthedocs.io](https://mr-graph.readthedocs.io)
+ - date published: 2023-10-25T20:05:03.959625+00:00
+ - user: None
+ - tags: []
+
+## picamera — Picamera 1.13 Documentation
+ - [https://picamera.readthedocs.io](https://picamera.readthedocs.io)
+ - date published: 2023-10-28T20:22:33.919715+00:00
+ - user: None
+ - tags: ['raspberry']
+
+## PyRF Documentation — PyRF  documentation
+ - [https://pyrf.readthedocs.io](https://pyrf.readthedocs.io)
+ - date published: 2023-10-25T20:05:05.560846+00:00
+ - user: None
+ - tags: []
+
+## Welcome to QEMU’s documentation! — QEMU 8.1.0 documentation
+ - [https://qemu.readthedocs.io](https://qemu.readthedocs.io)
+ - date published: 2023-10-25T20:05:07.966272+00:00
+ - user: None
+ - tags: []
+
+## Features — returns 0.22.0 documentation
+ - [https://returns.readthedocs.io](https://returns.readthedocs.io)
+ - date published: 2023-10-25T20:05:10.862277+00:00
+ - user: None
+ - tags: []
+
+## skrl (1.0.0)
+ - [https://skrl.readthedocs.io](https://skrl.readthedocs.io)
+ - date published: 2023-10-25T20:05:13.818332+00:00
+ - user: None
+ - tags: []
+
+## Readwise
+ - [https://readwise.io](https://readwise.io)
+ - date published: 2023-10-25T20:05:16.822368+00:00
+ - user: None
+ - tags: []
+
+## ReadySet Blog
+ - [https://blog.readyset.io](https://blog.readyset.io)
+ - date published: 2023-10-25T08:33:24.826806+00:00
+ - user: None
+ - tags: []
+
 ## The Realistic Optimist | Timothy Motte | Substack
  - [https://www.realisticoptimist.io](https://www.realisticoptimist.io)
  - date published: 2023-10-25T20:05:21.071317+00:00
@@ -2383,6 +2545,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - date published: 2023-12-13T06:03:59.732960+00:00
  - user: None
  - tags: ['personal']
+
+## https://rejectedagain.lol
+ - [https://rejectedagain.lol](https://rejectedagain.lol)
+ - date published: 2024-01-18T21:07:21.223392+00:00
+ - user: None
+ - tags: []
 
 ## social.lol
  - [https://social.lol](https://social.lol)
@@ -5834,172 +6002,4 @@ End-to-end typesafe APIs made easy. | tRPC
  - date published: 2023-10-25T09:23:00.010601+00:00
  - user: None
  - tags: ['personal']
-
-## Deus In Machina | Diego Crespo | Substack
- - [https://www.deusinmachina.net](https://www.deusinmachina.net)
- - date published: 2023-10-25T10:08:14.443830+00:00
- - user: None
- - tags: ['substack']
-
-## devever
- - [https://www.devever.net](https://www.devever.net)
- - date published: 2023-10-25T08:41:20.331085+00:00
- - user: None
- - tags: ['personal']
-
-## Diablo 2 @ Gamerz-bg.com
- - [https://old.diablo-2.net](https://old.diablo-2.net)
- - date published: 2023-12-13T16:18:20.452676+00:00
- - user: None
- - tags: []
-
-## Diablo 2 Database Fansite | Diablo-2.net
- - [https://www.diablo-2.net](https://www.diablo-2.net)
- - date published: 2023-10-25T11:10:20.483355+00:00
- - user: None
- - tags: []
-
-## Diablo 2 Resurrected Best Builds, Guides, and News
- - [https://www.diabloii.net](https://www.diabloii.net)
- - date published: 2023-12-13T16:22:40.834110+00:00
- - user: None
- - tags: []
-
-## Welcome to dialup.net
- - [https://www.dialup.net](https://www.dialup.net)
- - date published: 2023-10-25T20:29:02.353079+00:00
- - user: None
- - tags: []
-
-## digidip
- - [https://lefigaro-fr.digidip.net](https://lefigaro-fr.digidip.net)
- - date published: 2023-12-18T17:19:32.837404+00:00
- - user: None
- - tags: []
-
-## Sign in · GitLab
- - [https://gitlab.digilol.net](https://gitlab.digilol.net)
- - date published: 2023-10-25T20:29:04.046376+00:00
- - user: None
- - tags: []
-
-## Snacks of the internet | Digisnacks.net
- - [https://www.digisnacks.net](https://www.digisnacks.net)
- - date published: 2023-10-25T11:17:47.532576+00:00
- - user: None
- - tags: []
-
-## Digital Foundry
- - [https://www.digitalfoundry.net](https://www.digitalfoundry.net)
- - date published: 2023-10-25T18:13:04.739169+00:00
- - user: None
- - tags: []
-
-## Discuit
- - [https://discuit.net](https://discuit.net)
- - date published: 2023-10-25T20:29:05.581236+00:00
- - user: None
- - tags: []
-
-## Dittytoy
- - [https://dittytoy.net](https://dittytoy.net)
- - date published: 2023-10-25T20:29:07.339713+00:00
- - user: None
- - tags: []
-
-## DIY-Thermocam | Open-source thermal imaging for everyone!
- - [https://www.diy-thermocam.net](https://www.diy-thermocam.net)
- - date published: 2023-10-25T20:29:10.410970+00:00
- - user: None
- - tags: []
-
-## DIY Photography - Your one stop shop for everything photo-video
- - [https://www.diyphotography.net](https://www.diyphotography.net)
- - date published: 2023-10-25T20:29:15.677437+00:00
- - user: None
- - tags: []
-
-## Notes from a data witch
- - [https://blog.djnavarro.net](https://blog.djnavarro.net)
- - date published: 2023-10-25T20:29:17.118132+00:00
- - user: None
- - tags: []
-
-## Łona i Webber / Dobrzewiesz Nagrania
- - [https://dobrzewiesz.net](https://dobrzewiesz.net)
- - date published: 2024-01-09T03:35:23.233699+00:00
- - user: None
- - tags: []
-
-## Upload & Share PDF | DocDroid
- - [https://www.docdroid.net](https://www.docdroid.net)
- - date published: 2023-10-25T20:29:17.961774+00:00
- - user: None
- - tags: []
-
-## Mikhail Gusarov
- - [https://dottedmag.net](https://dottedmag.net)
- - date published: 2023-10-25T09:00:34.520480+00:00
- - user: None
- - tags: ['personal']
-
-## doubleagent.net
- - [https://doubleagent.net](https://doubleagent.net)
- - date published: 2023-10-25T20:29:18.710543+00:00
- - user: None
- - tags: []
-
-## DownloadHelper - Video download browser extension
- - [https://www.downloadhelper.net](https://www.downloadhelper.net)
- - date published: 2023-12-26T20:04:49+00:00
- - user: rumpel
- - tags: ['browser extension']
-
-## IT Notes
- - [https://it-notes.dragas.net](https://it-notes.dragas.net)
- - date published: 2023-10-25T20:29:24.860280+00:00
- - user: None
- - tags: []
-
-## duncan­lock­.net
- - [https://duncanlock.net](https://duncanlock.net)
- - date published: 2023-10-25T08:57:06.125112+00:00
- - user: None
- - tags: ['personal']
-
-## Duncan Mackenzie
- - [https://www.duncanmackenzie.net](https://www.duncanmackenzie.net)
- - date published: 2023-10-25T09:26:31.408589+00:00
- - user: None
- - tags: ['personal']
-
-## DYNOMIGHT INTERNET WEBSITE
- - [https://dynomight.net](https://dynomight.net)
- - date published: 2023-10-25T10:08:18.133719+00:00
- - user: None
- - tags: ['substack']
-
-## e-gry.net
- - [https://e-gry.net](https://e-gry.net)
- - date published: 2023-12-13T15:07:10.954747+00:00
- - user: None
- - tags: ['video games']
-
-## Świetne Gry Online do pobrania za Darmo na PC
- - [https://gierki.e-gry.net](https://gierki.e-gry.net)
- - date published: 2023-12-13T15:07:20.901994+00:00
- - user: None
- - tags: []
-
-## Stare gry - stare.e-gry.net
- - [https://stare.e-gry.net](https://stare.e-gry.net)
- - date published: 2023-10-29T13:17:57.644528+00:00
- - user: None
- - tags: ['retro games', 'commodore', 'roms', 'amiga', 'games']
-
-## E-Planning
- - [https://us.img.e-planning.net](https://us.img.e-planning.net)
- - date published: 2023-12-12T08:11:56.418101+00:00
- - user: None
- - tags: []
 

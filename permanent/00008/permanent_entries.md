@@ -1,3 +1,70 @@
+## Philadelphia Sports Acupuncture
+ - [https://www.phillysportsacupuncture.com](https://www.phillysportsacupuncture.com)
+ - date published: 2024-01-03T04:06:18.834325+00:00
+ - user: None
+ - tags: []
+
+## Dr. Phil Maffetone - founder of the 180 formula and MAF test
+ - [https://philmaffetone.com](https://philmaffetone.com)
+ - date published: 2023-11-18T07:33:39.194122+00:00
+ - user: None
+ - tags: []
+
+## Reversing entropy, locally
+ - [https://philoserf.com](https://philoserf.com)
+ - date published: 2023-12-03T01:43:34.806253+00:00
+ - user: None
+ - tags: ['personal']
+
+## Philosophy Bro
+ - [https://www.philosophybro.com](https://www.philosophybro.com)
+ - date published: 2023-10-25T16:34:04.305344+00:00
+ - user: None
+ - tags: []
+
+## Risk & Cybersecurity
+ - [https://www.philvenables.com](https://www.philvenables.com)
+ - date published: 2023-10-25T16:34:06.256000+00:00
+ - user: None
+ - tags: []
+
+## Phil Zimmermann's Home Page
+ - [https://www.philzimmermann.com](https://www.philzimmermann.com)
+ - date published: 2023-10-25T08:47:32.129006+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://phind.com
+ - [https://phind.com](https://phind.com)
+ - date published: 2023-10-25T16:34:07.856025+00:00
+ - user: None
+ - tags: []
+
+## https://www.phind.com
+ - [https://www.phind.com](https://www.phind.com)
+ - date published: 2023-10-25T16:34:08.146703+00:00
+ - user: None
+ - tags: []
+
+## Phoenix New Times | The Leading Independent News Source in Phoenix, Arizona
+ - [https://www.phoenixnewtimes.com](https://www.phoenixnewtimes.com)
+ - date published: 2023-11-23T22:14:37.035277+00:00
+ - user: None
+ - tags: []
+
+## Phoenix and Elixir for Ruby on Rails developers
+ · Phoenix on Rails
+ - [https://phoenixonrails.com](https://phoenixonrails.com)
+ - date published: 2023-10-25T16:34:09.532839+00:00
+ - user: None
+ - tags: []
+
+## PhoneArena | Phone News, Reviews, Deals and Specs
+ - [https://www.phonearena.com](https://www.phonearena.com)
+ - date published: 2023-10-25T10:14:53.382529+00:00
+ - user: None
+ - tags: []
+
 ## Phone Scoop
  - [https://www.phonescoop.com](https://www.phonescoop.com)
  - date published: 2023-10-25T16:34:12.198914+00:00
@@ -735,6 +802,12 @@
 ## tme Polówka – 2023
  - [https://polowka.com](https://polowka.com)
  - date published: 2023-10-27T14:19:33.297667+00:00
+ - user: None
+ - tags: []
+
+## Considerations on Codecrafting
+ - [https://blog.polybdenum.com](https://blog.polybdenum.com)
+ - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2081,6 +2154,12 @@
 ## Quizgecko | AI Question Generator | Make a Test or Exam
  - [https://quizgecko.com](https://quizgecko.com)
  - date published: 2023-10-25T16:44:02.786230+00:00
+ - user: None
+ - tags: []
+
+## Make knowledge stick
+ - [https://quizwithit.com](https://quizwithit.com)
+ - date published: 2024-01-18T21:57:37.469654+00:00
  - user: None
  - tags: []
 
@@ -4713,6 +4792,18 @@ More!
  - user: None
  - tags: []
 
+## SaaStr | B2B SaaS Training, Events & More to Scale Your Business
+ - [https://www.saastr.com](https://www.saastr.com)
+ - date published: 2024-01-18T20:42:10.550745+00:00
+ - user: None
+ - tags: []
+
+## Sabine Hossenfelder Physicist, Author, Content Creator
+ - [https://sabinehossenfelder.com](https://sabinehossenfelder.com)
+ - date published: 2024-01-18T21:57:19.359338+00:00
+ - user: None
+ - tags: []
+
 ## Sacramento CA News, Sports & Politics | The Sacramento Bee
  - [https://www.sacbee.com](https://www.sacbee.com)
  - date published: 2023-10-25T16:56:08.264766+00:00
@@ -5916,96 +6007,6 @@ More!
 ## Semafor - An intelligent, transparent global news platform for breaking stories, analysis and video
  - [https://www.semafor.com](https://www.semafor.com)
  - date published: 2023-10-25T10:38:55.032682+00:00
- - user: None
- - tags: []
-
-## Continuous Integration & Delivery - Semaphore
- - [https://semaphoreci.com](https://semaphoreci.com)
- - date published: 2023-10-25T17:01:46.828627+00:00
- - user: None
- - tags: []
-
-## SemiAnalysis | Dylan Patel | Substack
- - [https://www.semianalysis.com](https://www.semianalysis.com)
- - date published: 2023-10-25T17:01:49.736351+00:00
- - user: None
- - tags: []
-
-## Semiconductor Engineering - Deep Insights For Chip Engineers
- - [https://semiengineering.com](https://semiengineering.com)
- - date published: 2023-10-25T17:01:53.874840+00:00
- - user: None
- - tags: []
-
-## SemiWiki - All Things Semiconductor!
- - [https://semiwiki.com](https://semiwiki.com)
- - date published: 2023-10-25T17:02:04.737377+00:00
- - user: None
- - tags: []
-
-## Sennheiser — Headphones, Microphones, Wireless Systems
- - [https://en-us.sennheiser.com](https://en-us.sennheiser.com)
- - date published: 2023-10-30T18:21:56.549124+00:00
- - user: None
- - tags: ['audio']
-
-## Sennheiser — Headphones, Microphones, Wireless Systems
- - [https://sennheiser.com](https://sennheiser.com)
- - date published: 2023-10-30T18:22:42.525350+00:00
- - user: None
- - tags: ['company', 'audio']
-
-## SenseGlove | Feel the virtual like it’s real
- - [https://www.senseglove.com](https://www.senseglove.com)
- - date published: 2023-11-27T16:17:59+00:00
- - user: rumpel
- - tags: ['virtual reality']
-
-## Separate Concerns
- - [https://blog.separateconcerns.com](https://blog.separateconcerns.com)
- - date published: 2023-10-25T09:26:06.936644+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Sequoia
- - [https://www.sequoiacap.com](https://www.sequoiacap.com)
- - date published: 2023-10-25T08:26:15.206357+00:00
- - user: None
- - tags: []
-
-## Serah B. Fredericks
- - [https://www.serahbfredericks.com](https://www.serahbfredericks.com)
- - date published: 2023-12-17T05:07:50.588357+00:00
- - user: None
- - tags: ['personal']
-
-## Seraph Secure: anti-scam software co-founded by Kitboga
- - [https://www.seraphsecure.com](https://www.seraphsecure.com)
- - date published: 2023-12-01T19:55:21+00:00
- - user: None
- - tags: []
-
-## Home | Campbell Jones
- - [https://serebit.com](https://serebit.com)
- - date published: 2023-10-25T17:02:05.830940+00:00
- - user: None
- - tags: []
-
-## Latin American VC
- - [https://serebrisky.com](https://serebrisky.com)
- - date published: 2023-12-25T17:23:52.303533+00:00
- - user: None
- - tags: []
-
-## Serena Bianca De Matteis
- - [https://serenabiancadematteis.com](https://serenabiancadematteis.com)
- - date published: 2024-01-13T18:25:33.092304+00:00
- - user: None
- - tags: []
-
-## Atlas Alpha: Your Source for Cutting-Edge Tech News and Updates
- - [https://atlasalpha.serenebase.com](https://atlasalpha.serenebase.com)
- - date published: 2023-10-25T17:02:07.368934+00:00
  - user: None
  - tags: []
 

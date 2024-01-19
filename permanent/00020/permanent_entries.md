@@ -1,3 +1,255 @@
+## Dmytro on Things
+ - [https://dmytro.sh](https://dmytro.sh)
+ - date published: 2023-10-25T22:38:14.858579+00:00
+ - user: None
+ - tags: []
+
+## Dub - Link Management for Modern Marketing Teams
+ - [https://dub.sh](https://dub.sh)
+ - date published: 2023-10-25T22:38:22.951450+00:00
+ - user: None
+ - tags: []
+
+## ./gibson.sh --blog
+ - [https://blog.gibson.sh](https://blog.gibson.sh)
+ - date published: 2023-10-25T09:24:37.801883+00:00
+ - user: None
+ - tags: ['personal']
+
+## Harlequin: The DuckDB IDE for Your Terminal.
+ - [https://harlequin.sh](https://harlequin.sh)
+ - date published: 2023-10-25T22:38:24.159361+00:00
+ - user: None
+ - tags: []
+
+## ian carroll
+ - [https://ian.sh](https://ian.sh)
+ - date published: 2023-10-25T22:38:25.169602+00:00
+ - user: None
+ - tags: []
+
+## j3s.sh
+ - [https://j3s.sh](https://j3s.sh)
+ - date published: 2023-10-25T22:38:25.955497+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Jeeves – A Pythonic Alternative to GNU Make
+ - [https://jeeves.sh](https://jeeves.sh)
+ - date published: 2023-11-06T00:04:25+00:00
+ - user: None
+ - tags: []
+
+## Kaushik Gopal's Site
+ - [https://kau.sh](https://kau.sh)
+ - date published: 2023-10-25T08:55:45.952108+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kunal Shah
+ - [https://kunal.sh](https://kunal.sh)
+ - date published: 2023-12-27T10:11:48.670216+00:00
+ - user: None
+ - tags: ['personal']
+
+## change is - matt.sh
+ - [https://matt.sh](https://matt.sh)
+ - date published: 2023-10-25T22:38:28.757019+00:00
+ - user: None
+ - tags: []
+
+## mkws themes
+ - [https://t.mkws.sh](https://t.mkws.sh)
+ - date published: 2023-10-25T22:38:29.732632+00:00
+ - user: None
+ - tags: []
+
+## mzrnsh › Home
+ - [https://mzrn.sh](https://mzrn.sh)
+ - date published: 2023-10-25T22:38:30.595869+00:00
+ - user: None
+ - tags: []
+
+## WHOIS
+ - [https://whois.nic.sh](https://whois.nic.sh)
+ - date published: 2024-01-09T03:46:58.737907+00:00
+ - user: None
+ - tags: []
+
+## nodb.sh
+ - [https://nodb.sh](https://nodb.sh)
+ - date published: 2023-10-25T22:38:32.548203+00:00
+ - user: None
+ - tags: []
+
+## Novel – Notion-style WYSIWYG editor with AI-powered autocompletions
+ - [https://novel.sh](https://novel.sh)
+ - date published: 2023-10-25T22:38:38.175820+00:00
+ - user: None
+ - tags: []
+
+## ntfy.sh | Send push notifications to your phone via PUT/POST
+ - [https://ntfy.sh](https://ntfy.sh)
+ - date published: 2023-10-25T22:38:40.020029+00:00
+ - user: None
+ - tags: []
+
+## Nushell
+ - [https://www.nushell.sh](https://www.nushell.sh)
+ - date published: 2023-10-25T08:34:23.003511+00:00
+ - user: None
+ - tags: []
+
+## nwb.sh
+ - [https://nwb.sh](https://nwb.sh)
+ - date published: 2023-10-25T22:38:41.217075+00:00
+ - user: None
+ - tags: []
+
+## Open Folder
+ - [https://openfolder.sh](https://openfolder.sh)
+ - date published: 2023-10-25T22:38:42.170725+00:00
+ - user: None
+ - tags: []
+
+## osk blog
+ - [https://blog.osk.sh](https://blog.osk.sh)
+ - date published: 2023-12-23T08:18:30.428265+00:00
+ - user: None
+ - tags: []
+
+## gniP
+ - [https://www.peeng.sh](https://www.peeng.sh)
+ - date published: 2023-10-25T22:38:43.225021+00:00
+ - user: None
+ - tags: []
+
+## Peter Beverloo
+ - [https://peter.sh](https://peter.sh)
+ - date published: 2023-10-25T22:38:45.358697+00:00
+ - user: None
+ - tags: []
+
+## pgs.sh -- A zero-dependency static site hosting service for hackers.
+ - [https://pgs.sh](https://pgs.sh)
+ - date published: 2023-10-25T22:38:46.155641+00:00
+ - user: None
+ - tags: []
+
+## pkgx — Run Anything
+ - [https://pkgx.sh](https://pkgx.sh)
+ - date published: 2023-10-25T22:38:47.144388+00:00
+ - user: None
+ - tags: []
+
+## Plural | Secure, self-hosted applications in your cloud
+ - [https://www.plural.sh](https://www.plural.sh)
+ - date published: 2023-10-25T22:38:50.500372+00:00
+ - user: None
+ - tags: []
+
+## Polar
+ - [https://blog.polar.sh](https://blog.polar.sh)
+ - date published: 2024-01-09T03:46:59.844272+00:00
+ - user: None
+ - tags: []
+
+## welcome | osu!
+ - [https://osu.ppy.sh](https://osu.ppy.sh)
+ - date published: 2023-11-12T22:06:36.000555+00:00
+ - user: None
+ - tags: []
+
+## Developer Roadmaps - roadmap.sh
+ - [https://roadmap.sh](https://roadmap.sh)
+ - date published: 2023-10-25T22:38:53.579530+00:00
+ - user: None
+ - tags: []
+
+## https://skl.sh
+ - [https://skl.sh](https://skl.sh)
+ - date published: 2024-01-18T21:57:15.621572+00:00
+ - user: None
+ - tags: []
+
+## Sunny
+ - [https://sny.sh](https://sny.sh)
+ - date published: 2023-12-27T18:12:17.238864+00:00
+ - user: None
+ - tags: ['personal']
+
+## Now Page
+ - [https://now.ssp.sh](https://now.ssp.sh)
+ - date published: 2024-01-02T10:20:47.042213+00:00
+ - user: None
+ - tags: []
+
+## thoughts
+ - [https://thoughts.theden.sh](https://thoughts.theden.sh)
+ - date published: 2023-11-26T09:06:04.933677+00:00
+ - user: None
+ - tags: []
+
+## tmp.0ut
+ - [https://tmpout.sh](https://tmpout.sh)
+ - date published: 2023-11-21T13:49:38.879677+00:00
+ - user: None
+ - tags: []
+
+## Vale.sh - A linter for prose
+ - [https://vale.sh](https://vale.sh)
+ - date published: 2023-10-25T22:38:55.124011+00:00
+ - user: None
+ - tags: []
+
+## I mishandle my smartphone in my nightmares - foobuzz
+ - [https://blog.valentin.sh](https://blog.valentin.sh)
+ - date published: 2023-10-25T22:38:56.047581+00:00
+ - user: None
+ - tags: []
+
+## verto.sh - Your Gateway to Open Source Collaboration
+ - [https://www.verto.sh](https://www.verto.sh)
+ - date published: 2023-11-03T08:29:52.703892+00:00
+ - user: None
+ - tags: []
+
+## R3zk0n
+ - [https://x64.sh](https://x64.sh)
+ - date published: 2023-10-25T22:38:58.240784+00:00
+ - user: None
+ - tags: []
+
+## ./xai.sh
+ - [https://xai.sh](https://xai.sh)
+ - date published: 2023-10-25T22:38:58.899589+00:00
+ - user: None
+ - tags: []
+
+## Welcome To Yacht | Yacht
+ - [https://yacht.sh](https://yacht.sh)
+ - date published: 2023-11-01T08:44:39.492740+00:00
+ - user: None
+ - tags: []
+
+## ebooksource
+ - [https://ebooksource.shop](https://ebooksource.shop)
+ - date published: 2023-11-24T16:04:22.899236+00:00
+ - user: None
+ - tags: []
+
+## The Wandering Shop
+ - [https://wandering.shop](https://wandering.shop)
+ - date published: 2023-10-25T22:38:59.839954+00:00
+ - user: None
+ - tags: []
+
+## Create an Ecommerce Website and Sell Online! Ecommerce Software by Shopify
+ - [http://zerowastenyc.shop](http://zerowastenyc.shop)
+ - date published: 2023-10-25T22:39:01.212212+00:00
+ - user: None
+ - tags: []
+
 ## banger.show - video maker app for busy musicians
  - [https://banger.show](https://banger.show)
  - date published: 2023-10-25T22:39:02.762788+00:00
@@ -3976,6 +4228,12 @@ Introduction
  - user: None
  - tags: []
 
+## James Valentine – Solutions Architect (amongst other things)
+ - [https://jdv.me.uk](https://jdv.me.uk)
+ - date published: 8211-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Luke Plant's home page - lukeplant.me.uk
  - [https://lukeplant.me.uk](https://lukeplant.me.uk)
  - date published: 2023-10-25T22:56:38.556582+00:00
@@ -5746,264 +6004,6 @@ Introduction
 ## Toby Lam’s Blog
  - [https://tobylam.xyz](https://tobylam.xyz)
  - date published: 2023-11-26T16:36:13.535205+00:00
- - user: None
- - tags: []
-
-## Together AI
- - [https://www.together.xyz](https://www.together.xyz)
- - date published: 2023-10-25T23:05:07.592230+00:00
- - user: None
- - tags: []
-
-## Stefan VanBuren
- - [https://stefan.vanburen.xyz](https://stefan.vanburen.xyz)
- - date published: 2024-01-10T19:21:28.446386+00:00
- - user: None
- - tags: []
-
-## vitling
- - [https://www.vitling.xyz](https://www.vitling.xyz)
- - date published: 2023-10-25T23:05:08.807453+00:00
- - user: None
- - tags: []
-
-## Show HN: I've built a tool that summarizes 3-hour YouTube videos
- - [https://voxweave.xyz](https://voxweave.xyz)
- - date published: 2023-12-27T08:44:59+00:00
- - user: None
- - tags: []
-
-## Vyshnav Gangadharan
- - [https://vyshnav.xyz](https://vyshnav.xyz)
- - date published: 2024-01-11T13:29:29.542413+00:00
- - user: None
- - tags: []
-
-## Waqas.xyz
- - [https://waqas.xyz](https://waqas.xyz)
- - date published: 2023-10-25T08:57:01.703740+00:00
- - user: None
- - tags: ['personal']
-
-## What to Read After - AI book recommendations with 🤩 effect
- - [https://whattoreadafter.xyz](https://whattoreadafter.xyz)
- - date published: 2023-10-25T23:05:15.924060+00:00
- - user: None
- - tags: []
-
-## Show HN: Zaranova – A game where you must pretend you are an AI
- - [https://zaranova.xyz](https://zaranova.xyz)
- - date published: 2023-12-22T19:00:22+00:00
- - user: None
- - tags: []
-
-## Zood
- - [https://www.zood.xyz](https://www.zood.xyz)
- - date published: 2023-10-25T23:05:17.932942+00:00
- - user: None
- - tags: []
-
-## zsync - high quality discussion
- - [https://zsync.xyz](https://zsync.xyz)
- - date published: 2023-10-25T23:05:23.153519+00:00
- - user: None
- - tags: []
-
-## Spiritual Yoga, Stress Management, and Meaningful Personal Growth | balraj.yoga - the yoga of self awareness
- - [https://www.balraj.yoga](https://www.balraj.yoga)
- - date published: 2024-01-02T03:35:02.467119+00:00
- - user: None
- - tags: []
-
-## YouTube Blog — Official Blog for Latest YouTube News & Insights
- - [https://blog.youtube](https://blog.youtube)
- - date published: 2023-10-25T11:33:05.708463+00:00
- - user: None
- - tags: []
-
-## Andrew Huberman AI | Dexa
- - [https://huberman.rile.yt](https://huberman.rile.yt)
- - date published: 2023-10-25T23:05:27.750010+00:00
- - user: None
- - tags: []
-
-## Home - Wits University
- - [https://www.wits.ac.za](https://www.wits.ac.za)
- - date published: 2023-10-28T22:55:25.000926+00:00
- - user: None
- - tags: []
-
-## Barely Normal | Hardly Strange - Barely Normal
- - [https://barelynormal.co.za](https://barelynormal.co.za)
- - date published: 2024-01-09T19:17:05.832477+00:00
- - user: None
- - tags: []
-
-## https://brooker.co.za
- - [https://brooker.co.za](https://brooker.co.za)
- - date published: 2024-01-08T14:10:57.191772+00:00
- - user: None
- - tags: ['blog', 'personal']
-
-## Business Insider Polska
- - [https://www.businessinsider.co.za](https://www.businessinsider.co.za)
- - date published: 2023-10-25T23:05:39.649325+00:00
- - user: None
- - tags: []
-
-## Channon Perry
- - [https://chan.co.za](https://chan.co.za)
- - date published: 2023-10-25T08:57:02.637705+00:00
- - user: None
- - tags: ['personal']
-
-## Christine Powell VA + Design - Christine Powell
- - [https://christinepowell.co.za](https://christinepowell.co.za)
- - date published: 2023-11-29T14:42:11.739232+00:00
- - user: None
- - tags: ['personal']
-
-## Selecta
- - [https://selecta.ciaran.co.za](https://selecta.ciaran.co.za)
- - date published: 2023-10-25T23:05:40.383815+00:00
- - user: None
- - tags: []
-
-## Fortress of Solitude - Entertainment News & Reviews
- - [https://www.fortressofsolitude.co.za](https://www.fortressofsolitude.co.za)
- - date published: 2023-10-25T23:05:44.831319+00:00
- - user: None
- - tags: []
-
-## FUCK THAT SHIT - A blog about ideas, things and 💩
- - [https://fuckthatshit.co.za](https://fuckthatshit.co.za)
- - date published: 2024-01-09T03:49:00.043816+00:00
- - user: None
- - tags: []
-
-## IOL | News that Connects South Africans
- - [https://www.iol.co.za](https://www.iol.co.za)
- - date published: 2023-12-12T22:24:38.653617+00:00
- - user: None
- - tags: []
-
-## Hi, Mpho is my name!
- - [https://blog.mphomphego.co.za](https://blog.mphomphego.co.za)
- - date published: 2023-11-17T07:31:00.398986+00:00
- - user: None
- - tags: ['personal']
-
-## Things.
- - [https://pb.co.za](https://pb.co.za)
- - date published: 2023-10-25T23:05:54.100498+00:00
- - user: None
- - tags: []
-
-## The Phone System for Modern Business | Voys Telecom
- - [https://www.voys.co.za](https://www.voys.co.za)
- - date published: 2023-10-25T23:05:56.746906+00:00
- - user: None
- - tags: []
-
-## Weblearning | Home
- - [https://weblearning.co.za](https://weblearning.co.za)
- - date published: 2024-01-10T23:52:47.727319+00:00
- - user: None
- - tags: []
-
-## GroundUp: South African news that matters
- - [https://www.groundup.org.za](https://www.groundup.org.za)
- - date published: 2023-10-25T23:05:58.275927+00:00
- - user: None
- - tags: []
-
-## Open Doors - Serving persecuted Christians worldwide
- - [https://www.opendoors.org.za](https://www.opendoors.org.za)
- - date published: 2023-11-27T12:18:20+00:00
- - user: rumpel
- - tags: ['christian', 'catholic', 'religion', 'persecution']
-
-## connor.zip
- - [https://connor.zip](https://connor.zip)
- - date published: 2023-10-25T23:05:59.245372+00:00
- - user: None
- - tags: []
-
-## The .zip TLD sucks and it needs to be immediately revoked.
- - [https://financialstatement.zip](https://financialstatement.zip)
- - date published: 2023-10-25T23:06:02.287524+00:00
- - user: None
- - tags: []
-
-## 🗜 omg it's a smolsite
- - [https://smolsite.zip](https://smolsite.zip)
- - date published: 2023-10-25T08:31:30.560011+00:00
- - user: None
- - tags: []
-
-## bytes.zone
- - [https://bytes.zone](https://bytes.zone)
- - date published: 2023-10-25T23:06:03.013091+00:00
- - user: None
- - tags: []
-
-## Free Radical Blog
- - [https://blog.freeradical.zone](https://blog.freeradical.zone)
- - date published: 2023-10-25T23:06:09.197777+00:00
- - user: None
- - tags: []
-
-## Froth Zone Nitter
- - [https://nitter.bird.froth.zone](https://nitter.bird.froth.zone)
- - date published: 2023-10-25T23:06:12.052064+00:00
- - user: None
- - tags: []
-
-## PeerTube Instance Index - All Instances
- - [https://index.kraut.zone](https://index.kraut.zone)
- - date published: 2023-10-25T23:06:33.430179+00:00
- - user: None
- - tags: []
-
-## manu
- - [https://manu.zone](https://manu.zone)
- - date published: 2023-10-25T09:25:17.649037+00:00
- - user: None
- - tags: ['personal']
-
-## 403 Forbidden
- - [https://morph.zone](https://morph.zone)
- - date published: 2023-10-27T14:26:46.029825+00:00
- - user: None
- - tags: ['morphos']
-
-## the mango zone
- - [https://mango.pdf.zone](https://mango.pdf.zone)
- - date published: 2023-10-25T23:06:34.386402+00:00
- - user: None
- - tags: []
-
-## skip’s house
- - [https://www.slice.zone](https://www.slice.zone)
- - date published: 2023-11-12T10:19:22.949732+00:00
- - user: None
- - tags: []
-
-## Leo Robinovitch @ The Leo Zone
- - [https://theleo.zone](https://theleo.zone)
- - date published: 2023-10-25T08:57:03.725058+00:00
- - user: None
- - tags: ['personal']
-
-## tilde.zone
- - [https://tilde.zone](https://tilde.zone)
- - date published: 2023-10-24T20:14:54.397151+00:00
- - user: None
- - tags: ['mastodon']
-
-## The Zimbabwe Sphere
- - [https://www.zimsphere.co.zw](https://www.zimsphere.co.zw)
- - date published: 2024-01-09T03:49:05.321457+00:00
  - user: None
  - tags: []
 

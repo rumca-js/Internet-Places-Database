@@ -1,3 +1,195 @@
+## American Dialect Society
+ - [https://americandialect.org](https://americandialect.org)
+ - date published: 2024-01-07T08:07:09.436647+00:00
+ - user: None
+ - tags: []
+
+## UBIQUE | American Geographical Society
+ - [https://ubique.americangeo.org](https://ubique.americangeo.org)
+ - date published: 2023-10-25T20:56:24.145813+00:00
+ - user: None
+ - tags: []
+
+## Alliance for American Manufacturing
+ - [https://www.americanmanufacturing.org](https://www.americanmanufacturing.org)
+ - date published: 2023-10-25T20:56:26.459768+00:00
+ - user: None
+ - tags: []
+
+## Center for American Progress
+ - [https://www.americanprogress.org](https://www.americanprogress.org)
+ - date published: 2023-10-25T20:56:35.352450+00:00
+ - user: None
+ - tags: []
+
+## Home - The Survey Center on American Life
+ - [https://www.americansurveycenter.org](https://www.americansurveycenter.org)
+ - date published: 2023-10-25T20:56:38.831795+00:00
+ - user: None
+ - tags: []
+
+## Amerika
+ - [https://www.amerika.org](https://www.amerika.org)
+ - date published: 2023-10-28T17:28:54.615306+00:00
+ - user: None
+ - tags: []
+
+## AMetSoc
+ - [https://journals.ametsoc.org](https://journals.ametsoc.org)
+ - date published: 2023-11-17T07:14:43.865621+00:00
+ - user: None
+ - tags: []
+
+## AMIBIAN - Amiga emulation environment for Raspberry Pi.
+ - [https://www.amibian.org](https://www.amibian.org)
+ - date published: 2023-11-02T10:54:30.008681+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Amiga.org
+ - [https://amiga.org](https://amiga.org)
+ - date published: 2023-12-12T09:20:12+00:00
+ - user: rumpel
+ - tags: []
+
+## Amiga.org - Index
+ - [https://forum.amiga.org](https://forum.amiga.org)
+ - date published: 2023-12-11T17:27:44.605001+00:00
+ - user: None
+ - tags: []
+
+## wiki.amiga.org
+ - [https://wiki.amiga.org](https://wiki.amiga.org)
+ - date published: 2024-01-09T03:38:14.810685+00:00
+ - user: None
+ - tags: []
+
+## https://www.amiga.org
+ - [https://www.amiga.org](https://www.amiga.org)
+ - date published: 2023-12-12T09:21:33+00:00
+ - user: rumpel
+ - tags: []
+
+## Index of /
+ - [http://ftp.amigascne.org](http://ftp.amigascne.org)
+ - date published: 2023-12-11T17:26:36.493088+00:00
+ - user: None
+ - tags: []
+
+## AmigaShop.org
+ - [https://www.amigashop.org](https://www.amigashop.org)
+ - date published: 2023-12-11T19:05:06.410380+00:00
+ - user: None
+ - tags: []
+
+## AmigaWARP organizacija - Prvi hrvatski Amiga portal
+ - [https://amigawarp.org](https://amigawarp.org)
+ - date published: 2023-12-11T19:28:47.299747+00:00
+ - user: None
+ - tags: []
+
+## Amnesty International
+ - [https://www.amnesty.org](https://www.amnesty.org)
+ - date published: 2023-10-25T20:56:42.566735+00:00
+ - user: None
+ - tags: ['human rights', 'organization']
+
+## American Museum of Natural History | New York City
+ - [https://www.amnh.org](https://www.amnh.org)
+ - date published: 2024-01-14T00:43:40.479281+00:00
+ - user: None
+ - tags: []
+
+## American Mathematical Society :: Homepage
+ - [https://www.ams.org](https://www.ams.org)
+ - date published: 2023-10-25T20:56:48.677652+00:00
+ - user: None
+ - tags: []
+
+## Amsterdam UMC Vandaag
+ - [https://www.amsterdamumc.org](https://www.amsterdamumc.org)
+ - date published: 2024-01-04T16:19:39.496136+00:00
+ - user: None
+ - tags: []
+
+## # Welcome to aMule, the all-platform eMule-like P2P client #
+ - [https://www.amule.org](https://www.amule.org)
+ - date published: 2023-10-28T20:48:21.605487+00:00
+ - user: None
+ - tags: ['piracy']
+
+## The Analog Computer Museum / Das Analogrechnermuseum
+ - [https://www.analogmuseum.org](https://www.analogmuseum.org)
+ - date published: 2023-10-25T20:56:49.148666+00:00
+ - user: None
+ - tags: []
+
+## Anash.org - Good News
+ - [https://anash.org](https://anash.org)
+ - date published: 2023-12-21T15:47:22.735810+00:00
+ - user: None
+ - tags: ['israel']
+
+## Andrew McWatters
+ - [https://blog.andrewmcwatters.org](https://blog.andrewmcwatters.org)
+ - date published: 2023-10-25T20:56:51.087174+00:00
+ - user: None
+ - tags: []
+
+## Andrew Shell's Weblog
+ - [https://blog.andrewshell.org](https://blog.andrewshell.org)
+ - date published: 2023-11-29T14:53:31.250344+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ministry of Intrigue
+ - [https://www.andrlik.org](https://www.andrlik.org)
+ - date published: 2024-01-02T18:28:50.452334+00:00
+ - user: None
+ - tags: []
+
+## Andy Matuschak
+ - [https://andymatuschak.org](https://andymatuschak.org)
+ - date published: 2023-10-25T20:56:54.344415+00:00
+ - user: None
+ - tags: []
+
+## About these notes
+ - [https://notes.andymatuschak.org](https://notes.andymatuschak.org)
+ - date published: 2023-10-25T20:56:56.005423+00:00
+ - user: None
+ - tags: []
+
+## Anglish
+ - [https://anglish.org](https://anglish.org)
+ - date published: 2023-10-25T20:56:58.251091+00:00
+ - user: None
+ - tags: []
+
+## Animal Cognition
+ - [https://www.animalcognition.org](https://www.animalcognition.org)
+ - date published: 2024-01-01T23:17:13.137162+00:00
+ - user: None
+ - tags: []
+
+## Anime Music Videos .Org - Home
+ - [https://www.animemusicvideos.org](https://www.animemusicvideos.org)
+ - date published: 2023-10-25T15:04:03.927579+00:00
+ - user: None
+ - tags: []
+
+## Anna’s Archive
+ - [https://annas-archive.org](https://annas-archive.org)
+ - date published: 2023-10-25T20:56:58.923570+00:00
+ - user: None
+ - tags: ['ebook', 'digital library']
+
+## Anna’s Archive
+ - [https://www.annas-archive.org](https://www.annas-archive.org)
+ - date published: 2023-10-25T09:28:18.535522+00:00
+ - user: None
+ - tags: []
+
 ## Anna’s Blog
  - [https://annas-blog.org](https://annas-blog.org)
  - date published: 2023-10-25T09:26:39.715551+00:00
@@ -123,6 +315,18 @@
  - date published: 2023-10-25T08:35:23.292622+00:00
  - user: None
  - tags: []
+
+## Hello from Apache Hudi | Apache Hudi
+ - [https://hudi.apache.org](https://hudi.apache.org)
+ - date published: 2024-01-18T07:35:20+00:00
+ - user: rumpel
+ - tags: ['big data']
+
+## Apache Iceberg
+ - [https://iceberg.apache.org](https://iceberg.apache.org)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['big data']
 
 ## Apache Logging Services
  - [https://logging.apache.org](https://logging.apache.org)
@@ -2773,6 +2977,12 @@
  - user: None
  - tags: []
 
+## Free Donate Button - Donorbox Nonprofit Fundraising Software
+ - [https://donorbox.org](https://donorbox.org)
+ - date published: 2024-01-18T21:57:11.297764+00:00
+ - user: None
+ - tags: []
+
 ## The Doom Wiki at DoomWiki.org - Doom, Heretic, Hexen, Strife, and more
  - [https://doomwiki.org](https://doomwiki.org)
  - date published: 2023-10-25T21:15:10.502720+00:00
@@ -3754,6 +3964,12 @@
 ## Build production-grade data and ML workflows, hassle-free with Flyte
  - [https://flyte.org](https://flyte.org)
  - date published: 2023-10-25T21:21:33.769405+00:00
+ - user: None
+ - tags: []
+
+## https://folklore.org
+ - [https://folklore.org](https://folklore.org)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5549,6 +5765,12 @@ Welcome
  - user: None
  - tags: []
 
+## Journal of Geek Studies
+ - [https://jgeekstudies.org](https://jgeekstudies.org)
+ - date published: 2024-01-18T21:07:40.023872+00:00
+ - user: None
+ - tags: []
+
 ## JHI Blog – The Journal of the History of Ideas Blog
  - [https://jhiblog.org](https://jhiblog.org)
  - date published: 2023-10-25T09:26:48.882576+00:00
@@ -5786,230 +6008,6 @@ Welcome
 ## Julia Programming Language - A forum for users and developers
  - [https://discourse.julialang.org](https://discourse.julialang.org)
  - date published: 2023-10-25T21:35:40.545200+00:00
- - user: None
- - tags: []
-
-## https://docs.julialang.org
- - [https://docs.julialang.org](https://docs.julialang.org)
- - date published: 2023-12-27T18:36:15.980400+00:00
- - user: None
- - tags: []
-
-## The Julia Programming Language
- - [https://julialang.org](https://julialang.org)
- - date published: 2023-10-25T21:35:42.851009+00:00
- - user: None
- - tags: []
-
-## https://jumblejournal.org
- - [https://jumblejournal.org](https://jumblejournal.org)
- - date published: 2024-01-09T03:41:09.606051+00:00
- - user: None
- - tags: []
-
-## Stop irreversible damage to the Amazon
- - [https://www.junglekeepers.org](https://www.junglekeepers.org)
- - date published: 2023-10-25T21:35:45.246371+00:00
- - user: None
- - tags: []
-
-## Jupyter Blog
- - [https://blog.jupyter.org](https://blog.jupyter.org)
- - date published: 2023-10-25T08:31:26.996270+00:00
- - user: None
- - tags: []
-
-## Just Security - A Forum on Law, Rights, and U.S. National Security
- - [https://www.justsecurity.org](https://www.justsecurity.org)
- - date published: 2023-10-25T21:35:52.137435+00:00
- - user: None
- - tags: []
-
-## Kakoune - Official site
- - [https://kakoune.org](https://kakoune.org)
- - date published: 2023-10-25T21:35:52.995500+00:00
- - user: None
- - tags: []
-
-## Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution
- - [https://www.kali.org](https://www.kali.org)
- - date published: 2023-10-27T16:38:43.999429+00:00
- - user: None
- - tags: ['operating system']
-
-## Kalpataru
- - [https://kalpatarurudra.org](https://kalpatarurudra.org)
- - date published: 2023-11-02T03:25:41.929209+00:00
- - user: None
- - tags: []
-
-## Kamby Language
- - [https://kamby.org](https://kamby.org)
- - date published: 2023-10-25T21:35:58.399472+00:00
- - user: None
- - tags: []
-
-## Kanban Project Management Software - Kanboard
- - [https://kanboard.org](https://kanboard.org)
- - date published: 2023-10-25T21:35:59.351365+00:00
- - user: None
- - tags: []
-
-## KanColl: The Kansas Collection Welcome Page
- - [https://www.kancoll.org](https://www.kancoll.org)
- - date published: 2023-11-15T17:44:31.559724+00:00
- - user: None
- - tags: ['personal']
-
-## Kart
- - [https://kartproject.org](https://kartproject.org)
- - date published: 2024-01-09T03:41:10.946630+00:00
- - user: None
- - tags: []
-
-## KaTeX – The fastest math typesetting library for the web
- - [https://katex.org](https://katex.org)
- - date published: 2023-10-25T21:36:00.014489+00:00
- - user: None
- - tags: []
-
-## KCUR | KCUR - Kansas City news and NPR
- - [https://www.kcur.org](https://www.kcur.org)
- - date published: 2023-11-04T18:28:47.889014+00:00
- - user: None
- - tags: []
-
-## KDE Discuss - KDE Community
- - [https://discuss.kde.org](https://discuss.kde.org)
- - date published: 2023-10-25T21:36:01.965434+00:00
- - user: None
- - tags: []
-
-## KDE Eco
- - [https://eco.kde.org](https://eco.kde.org)
- - date published: 2023-10-25T21:36:03.672195+00:00
- - user: None
- - tags: []
-
-## Explore groups · GitLab
- - [https://invent.kde.org](https://invent.kde.org)
- - date published: 2023-10-25T21:36:04.476762+00:00
- - user: None
- - tags: []
-
-## Home - KDE Community
- - [https://kde.org](https://kde.org)
- - date published: 2023-10-25T21:36:06.463462+00:00
- - user: None
- - tags: ['kde', 'linux', 'open source']
-
-## KDE Mailing Lists - KDE Community
- - [https://mail.kde.org](https://mail.kde.org)
- - date published: 2023-10-25T21:36:08.509574+00:00
- - user: None
- - tags: []
-
-## Browse  Latest | https://store.kde.org/browse/
- - [https://store.kde.org](https://store.kde.org)
- - date published: 2023-11-05T10:28:13.360219+00:00
- - user: None
- - tags: []
-
-## KeePassXC Password Manager
- - [https://keepassxc.org](https://keepassxc.org)
- - date published: 2023-10-25T21:36:09.258338+00:00
- - user: None
- - tags: []
-
-## Knowledge Ecology International - Attending and mending the knowledge ecosystem
- - [https://www.keionline.org](https://www.keionline.org)
- - date published: 2023-10-25T21:36:12.622310+00:00
- - user: None
- - tags: []
-
-## KERA - Homepage | KERA News
- - [https://www.keranews.org](https://www.keranews.org)
- - date published: 2023-11-20T11:24:52.643626+00:00
- - user: None
- - tags: []
-
-## Open-Source Kermit Project -
-Free, Portable, Scriptable, Transport-Independent Communications Software.
-Hosted by Panix.com.
- - [https://www.kermitproject.org](https://www.kermitproject.org)
- - date published: 2023-10-25T21:36:15.806979+00:00
- - user: None
- - tags: []
-
-## Kernel.org Bugzilla Main Page
- - [https://bugzilla.kernel.org](https://bugzilla.kernel.org)
- - date published: 2023-10-25T21:36:18.126215+00:00
- - user: None
- - tags: []
-
-## Kernel.org git repositories
- - [https://git.kernel.org](https://git.kernel.org)
- - date published: 2023-10-25T21:36:22.264353+00:00
- - user: None
- - tags: []
-
-## The Linux Kernel Archives
- - [https://kernel.org](https://kernel.org)
- - date published: 2023-11-06T10:02:37.263414+00:00
- - user: None
- - tags: ['linux']
-
-## public-inbox listing
- - [https://lore.kernel.org](https://lore.kernel.org)
- - date published: 2023-10-25T21:36:24.705702+00:00
- - user: None
- - tags: []
-
-## mirrors.kernel.org
- - [https://mirrors.edge.kernel.org](https://mirrors.edge.kernel.org)
- - date published: 2023-10-25T21:36:25.751314+00:00
- - user: None
- - tags: []
-
-## people.kernel.org Reader
- - [https://people.kernel.org](https://people.kernel.org)
- - date published: 2023-10-25T21:36:30.389450+00:00
- - user: None
- - tags: []
-
-## A kernel-based root solution for Android | KernelSU
- - [https://kernelsu.org](https://kernelsu.org)
- - date published: 2023-10-25T21:36:36.612083+00:00
- - user: None
- - tags: []
-
-## WordPress › Error
- - [http://blog.kevtris.org](http://blog.kevtris.org)
- - date published: 2023-10-25T21:36:37.992822+00:00
- - user: None
- - tags: []
-
-## KFF Health News
- - [https://kffhealthnews.org](https://kffhealthnews.org)
- - date published: 2023-12-03T18:38:29.362939+00:00
- - user: None
- - tags: []
-
-## Права людини в Україні — сайт Харківської правозахисної групи
- - [https://khpg.org](https://khpg.org)
- - date published: 2023-12-19T08:14:20.221086+00:00
- - user: None
- - tags: []
-
-## The Khronos Group Inc
- - [https://www.khronos.org](https://www.khronos.org)
- - date published: 2023-10-25T21:36:40.765055+00:00
- - user: None
- - tags: []
-
-## Documentation | KiCad
- - [https://docs.kicad.org](https://docs.kicad.org)
- - date published: 2023-10-25T21:36:41.762036+00:00
  - user: None
  - tags: []
 

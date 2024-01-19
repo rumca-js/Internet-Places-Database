@@ -1,3 +1,9 @@
+## https://augmentingcognition.com
+ - [https://augmentingcognition.com](https://augmentingcognition.com)
+ - date published: 2023-12-17T03:31:46.186900+00:00
+ - user: None
+ - tags: []
+
 ## Dystalgia - DYSTALGIA : Aurel Manea photography & visuals
  - [https://aurelm.com](https://aurelm.com)
  - date published: 2024-01-09T01:36:57.652800+00:00
@@ -5995,12 +6001,6 @@
 ## Cleveland 19 News | WOIO | Cleveland, Ohio
  - [https://www.cleveland19.com](https://www.cleveland19.com)
  - date published: 2023-10-25T11:02:33.064071+00:00
- - user: None
- - tags: []
-
-## clevelandjewishnews.com | Award-winning coverage of local, national and world news of Jewish interest.
- - [https://www.clevelandjewishnews.com](https://www.clevelandjewishnews.com)
- - date published: 2023-10-31T03:38:08.908723+00:00
  - user: None
  - tags: []
 

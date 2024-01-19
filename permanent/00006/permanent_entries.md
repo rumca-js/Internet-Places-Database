@@ -1,3 +1,33 @@
+## Kera Desktop
+ - [https://desktop.kerahq.com](https://desktop.kerahq.com)
+ - date published: 2023-10-25T15:36:28.216806+00:00
+ - user: None
+ - tags: []
+
+## Kerbal Space Program Forums
+ - [https://forum.kerbalspaceprogram.com](https://forum.kerbalspaceprogram.com)
+ - date published: 2023-10-25T08:39:16.787582+00:00
+ - user: None
+ - tags: []
+
+## Sylvain Kerkour
+ - [https://kerkour.com](https://kerkour.com)
+ - date published: 2023-10-25T08:46:46.409680+00:00
+ - user: None
+ - tags: ['personal']
+
+## Clément Renault
+ - [https://blog.kerollmops.com](https://blog.kerollmops.com)
+ - date published: 2023-12-24T09:24:00.267229+00:00
+ - user: None
+ - tags: []
+
+## Kerrick Long’s Home Page
+ - [https://kerricklong.com](https://kerricklong.com)
+ - date published: 2023-10-25T15:36:29.663619+00:00
+ - user: None
+ - tags: []
+
 ## Ketan Vijayvargiya
  - [https://ketanvijayvargiya.com](https://ketanvijayvargiya.com)
  - date published: 2024-01-14T08:13:15.975076+00:00
@@ -2901,7 +2931,7 @@
  - [https://lukhash.com](https://lukhash.com)
  - date published: 2023-10-30T13:31:43.558214+00:00
  - user: None
- - tags: ['music band']
+ - tags: ['chiptune', 'news retro wave', 'music band']
 
 ## LUKHASH | www.lukhash.com
  - [https://www.lukhash.com](https://www.lukhash.com)
@@ -3790,6 +3820,12 @@ diversions.
 ## Martin Vigo - Personal hacking projects, writeups and tools
  - [https://www.martinvigo.com](https://www.martinvigo.com)
  - date published: 2023-11-16T16:28:38.549404+00:00
+ - user: None
+ - tags: []
+
+## Maruf Hops Maps – Practicing the immersed lifestyle
+ - [https://www.maruf-hops-maps.com](https://www.maruf-hops-maps.com)
+ - date published: 8211-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5964,41 +6000,4 @@ diversions.
  - date published: 2023-10-28T18:42:53.364247+00:00
  - user: None
  - tags: ['music']
-
-## MIT 24-Hour Challenge 2022 | MIT Annual Fund | Giving to MIT
- - [https://mit24hourchallenge.mightycause.com](https://mit24hourchallenge.mightycause.com)
- - date published: 2023-10-25T16:03:41.849852+00:00
- - user: None
- - tags: []
-
-## miguelgrinberg.com
- - [https://blog.miguelgrinberg.com](https://blog.miguelgrinberg.com)
- - date published: 2023-10-25T16:03:44.577554+00:00
- - user: None
- - tags: []
-
-## Miguel Piedrafita
- - [https://miguelpiedrafita.com](https://miguelpiedrafita.com)
- - date published: 2024-01-12T02:35:03.994676+00:00
- - user: None
- - tags: []
-
-## Sprezzatura
- - [https://mikaelsyding.com](https://mikaelsyding.com)
- - date published: 2023-12-31T21:20:59.573845+00:00
- - user: None
- - tags: []
-
-## MhWeb
-     · Phoenix Framework
- - [https://mike-hostetler.com](https://mike-hostetler.com)
- - date published: 2024-01-10T19:22:18.450167+00:00
- - user: None
- - tags: []
-
-## mike beauchamp : occasional doer of stuff and maker of things
- - [http://mikebeauchamp.com](http://mikebeauchamp.com)
- - date published: 2023-10-25T16:03:50.613706+00:00
- - user: None
- - tags: []
 

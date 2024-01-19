@@ -1,3 +1,171 @@
+## Deus In Machina | Diego Crespo | Substack
+ - [https://www.deusinmachina.net](https://www.deusinmachina.net)
+ - date published: 2023-10-25T10:08:14.443830+00:00
+ - user: None
+ - tags: ['substack']
+
+## devever
+ - [https://www.devever.net](https://www.devever.net)
+ - date published: 2023-10-25T08:41:20.331085+00:00
+ - user: None
+ - tags: ['personal']
+
+## Diablo 2 @ Gamerz-bg.com
+ - [https://old.diablo-2.net](https://old.diablo-2.net)
+ - date published: 2023-12-13T16:18:20.452676+00:00
+ - user: None
+ - tags: []
+
+## Diablo 2 Database Fansite | Diablo-2.net
+ - [https://www.diablo-2.net](https://www.diablo-2.net)
+ - date published: 2023-10-25T11:10:20.483355+00:00
+ - user: None
+ - tags: []
+
+## Diablo 2 Resurrected Best Builds, Guides, and News
+ - [https://www.diabloii.net](https://www.diabloii.net)
+ - date published: 2023-12-13T16:22:40.834110+00:00
+ - user: None
+ - tags: []
+
+## Welcome to dialup.net
+ - [https://www.dialup.net](https://www.dialup.net)
+ - date published: 2023-10-25T20:29:02.353079+00:00
+ - user: None
+ - tags: []
+
+## digidip
+ - [https://lefigaro-fr.digidip.net](https://lefigaro-fr.digidip.net)
+ - date published: 2023-12-18T17:19:32.837404+00:00
+ - user: None
+ - tags: []
+
+## Sign in · GitLab
+ - [https://gitlab.digilol.net](https://gitlab.digilol.net)
+ - date published: 2023-10-25T20:29:04.046376+00:00
+ - user: None
+ - tags: []
+
+## Snacks of the internet | Digisnacks.net
+ - [https://www.digisnacks.net](https://www.digisnacks.net)
+ - date published: 2023-10-25T11:17:47.532576+00:00
+ - user: None
+ - tags: []
+
+## Digital Foundry
+ - [https://www.digitalfoundry.net](https://www.digitalfoundry.net)
+ - date published: 2023-10-25T18:13:04.739169+00:00
+ - user: None
+ - tags: []
+
+## Discuit
+ - [https://discuit.net](https://discuit.net)
+ - date published: 2023-10-25T20:29:05.581236+00:00
+ - user: None
+ - tags: []
+
+## Dittytoy
+ - [https://dittytoy.net](https://dittytoy.net)
+ - date published: 2023-10-25T20:29:07.339713+00:00
+ - user: None
+ - tags: []
+
+## DIY-Thermocam | Open-source thermal imaging for everyone!
+ - [https://www.diy-thermocam.net](https://www.diy-thermocam.net)
+ - date published: 2023-10-25T20:29:10.410970+00:00
+ - user: None
+ - tags: []
+
+## DIY Photography - Your one stop shop for everything photo-video
+ - [https://www.diyphotography.net](https://www.diyphotography.net)
+ - date published: 2023-10-25T20:29:15.677437+00:00
+ - user: None
+ - tags: []
+
+## Notes from a data witch
+ - [https://blog.djnavarro.net](https://blog.djnavarro.net)
+ - date published: 2023-10-25T20:29:17.118132+00:00
+ - user: None
+ - tags: []
+
+## Łona i Webber / Dobrzewiesz Nagrania
+ - [https://dobrzewiesz.net](https://dobrzewiesz.net)
+ - date published: 2024-01-09T03:35:23.233699+00:00
+ - user: None
+ - tags: []
+
+## Upload & Share PDF | DocDroid
+ - [https://www.docdroid.net](https://www.docdroid.net)
+ - date published: 2023-10-25T20:29:17.961774+00:00
+ - user: None
+ - tags: []
+
+## Mikhail Gusarov
+ - [https://dottedmag.net](https://dottedmag.net)
+ - date published: 2023-10-25T09:00:34.520480+00:00
+ - user: None
+ - tags: ['personal']
+
+## doubleagent.net
+ - [https://doubleagent.net](https://doubleagent.net)
+ - date published: 2023-10-25T20:29:18.710543+00:00
+ - user: None
+ - tags: []
+
+## DownloadHelper - Video download browser extension
+ - [https://www.downloadhelper.net](https://www.downloadhelper.net)
+ - date published: 2023-12-26T20:04:49+00:00
+ - user: rumpel
+ - tags: ['browser extension']
+
+## IT Notes
+ - [https://it-notes.dragas.net](https://it-notes.dragas.net)
+ - date published: 2023-10-25T20:29:24.860280+00:00
+ - user: None
+ - tags: []
+
+## duncan­lock­.net
+ - [https://duncanlock.net](https://duncanlock.net)
+ - date published: 2023-10-25T08:57:06.125112+00:00
+ - user: None
+ - tags: ['personal']
+
+## Duncan Mackenzie
+ - [https://www.duncanmackenzie.net](https://www.duncanmackenzie.net)
+ - date published: 2023-10-25T09:26:31.408589+00:00
+ - user: None
+ - tags: ['personal']
+
+## DYNOMIGHT INTERNET WEBSITE
+ - [https://dynomight.net](https://dynomight.net)
+ - date published: 2023-10-25T10:08:18.133719+00:00
+ - user: None
+ - tags: ['substack']
+
+## e-gry.net
+ - [https://e-gry.net](https://e-gry.net)
+ - date published: 2023-12-13T15:07:10.954747+00:00
+ - user: None
+ - tags: ['video games']
+
+## Świetne Gry Online do pobrania za Darmo na PC
+ - [https://gierki.e-gry.net](https://gierki.e-gry.net)
+ - date published: 2023-12-13T15:07:20.901994+00:00
+ - user: None
+ - tags: []
+
+## Stare gry - stare.e-gry.net
+ - [https://stare.e-gry.net](https://stare.e-gry.net)
+ - date published: 2023-10-29T13:17:57.644528+00:00
+ - user: None
+ - tags: ['retro games', 'commodore', 'roms', 'amiga', 'games']
+
+## E-Planning
+ - [https://us.img.e-planning.net](https://us.img.e-planning.net)
+ - date published: 2023-12-12T08:11:56.418101+00:00
+ - user: None
+ - tags: []
+
 ## EarthCam: Construction Camera Solutions, Time-Lapse, Webcams
  - [https://www.earthcam.net](https://www.earthcam.net)
  - date published: 2023-10-25T20:29:27.847020+00:00
@@ -777,6 +945,12 @@
  - date published: 2023-10-25T08:52:46.073444+00:00
  - user: None
  - tags: ['personal']
+
+## Bernard Vander Beken
+ - [https://jawn.net](https://jawn.net)
+ - date published: 2024-01-18T16:43:46.246446+00:00
+ - user: None
+ - tags: []
 
 ## Blog - Jay Carlson
  - [https://jaycarlson.net](https://jaycarlson.net)
@@ -1774,6 +1948,12 @@
  - date published: 2024-01-05T16:52:03.371750+00:00
  - user: None
  - tags: []
+
+## Ninja Tune
+ - [https://ninjatune.net](https://ninjatune.net)
+ - date published: 2024-01-18T15:14:18+00:00
+ - user: rumpel
+ - tags: ['record label']
 
 ## my php/cobol blog
  - [https://nliu.net](https://nliu.net)
@@ -4716,6 +4896,12 @@
  - user: None
  - tags: []
 
+## Ragnarok Film
+ - [https://www.ragnarokfilm.no](https://www.ragnarokfilm.no)
+ - date published: 2024-01-18T12:22:33+00:00
+ - user: rumpel
+ - tags: []
+
 ## regjeringen.no
  - [https://www.regjeringen.no](https://www.regjeringen.no)
  - date published: 2024-01-01T22:56:55.799316+00:00
@@ -4743,6 +4929,12 @@
 ## Et ledende miljø i norsk romindustri | Space Norway
  - [https://spacenorway.no](https://spacenorway.no)
  - date published: 2023-11-10T16:04:50.344777+00:00
+ - user: None
+ - tags: []
+
+## Grunnlaget for suksess på nett | Stammen
+ - [https://stammen.no](https://stammen.no)
+ - date published: 2017-10-17T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5285,7 +5477,7 @@ marginalia.nu
  - [https://www.38north.org](https://www.38north.org)
  - date published: 2023-10-25T20:52:39.281469+00:00
  - user: None
- - tags: []
+ - tags: ['north korea']
 
 ## 3dbrew
  - [https://www.3dbrew.org](https://www.3dbrew.org)
@@ -5806,198 +5998,6 @@ marginalia.nu
 ## https://www.americanbar.org
  - [https://www.americanbar.org](https://www.americanbar.org)
  - date published: 2023-10-25T20:56:20.959972+00:00
- - user: None
- - tags: []
-
-## American Dialect Society
- - [https://americandialect.org](https://americandialect.org)
- - date published: 2024-01-07T08:07:09.436647+00:00
- - user: None
- - tags: []
-
-## UBIQUE | American Geographical Society
- - [https://ubique.americangeo.org](https://ubique.americangeo.org)
- - date published: 2023-10-25T20:56:24.145813+00:00
- - user: None
- - tags: []
-
-## Alliance for American Manufacturing
- - [https://www.americanmanufacturing.org](https://www.americanmanufacturing.org)
- - date published: 2023-10-25T20:56:26.459768+00:00
- - user: None
- - tags: []
-
-## Center for American Progress
- - [https://www.americanprogress.org](https://www.americanprogress.org)
- - date published: 2023-10-25T20:56:35.352450+00:00
- - user: None
- - tags: []
-
-## Home - The Survey Center on American Life
- - [https://www.americansurveycenter.org](https://www.americansurveycenter.org)
- - date published: 2023-10-25T20:56:38.831795+00:00
- - user: None
- - tags: []
-
-## Amerika
- - [https://www.amerika.org](https://www.amerika.org)
- - date published: 2023-10-28T17:28:54.615306+00:00
- - user: None
- - tags: []
-
-## AMetSoc
- - [https://journals.ametsoc.org](https://journals.ametsoc.org)
- - date published: 2023-11-17T07:14:43.865621+00:00
- - user: None
- - tags: []
-
-## AMIBIAN - Amiga emulation environment for Raspberry Pi.
- - [https://www.amibian.org](https://www.amibian.org)
- - date published: 2023-11-02T10:54:30.008681+00:00
- - user: None
- - tags: []
-
-## Welcome to Amiga.org
- - [https://amiga.org](https://amiga.org)
- - date published: 2023-12-12T09:20:12+00:00
- - user: rumpel
- - tags: []
-
-## Amiga.org - Index
- - [https://forum.amiga.org](https://forum.amiga.org)
- - date published: 2023-12-11T17:27:44.605001+00:00
- - user: None
- - tags: []
-
-## wiki.amiga.org
- - [https://wiki.amiga.org](https://wiki.amiga.org)
- - date published: 2024-01-09T03:38:14.810685+00:00
- - user: None
- - tags: []
-
-## https://www.amiga.org
- - [https://www.amiga.org](https://www.amiga.org)
- - date published: 2023-12-12T09:21:33+00:00
- - user: rumpel
- - tags: []
-
-## Index of /
- - [http://ftp.amigascne.org](http://ftp.amigascne.org)
- - date published: 2023-12-11T17:26:36.493088+00:00
- - user: None
- - tags: []
-
-## AmigaShop.org
- - [https://www.amigashop.org](https://www.amigashop.org)
- - date published: 2023-12-11T19:05:06.410380+00:00
- - user: None
- - tags: []
-
-## AmigaWARP organizacija - Prvi hrvatski Amiga portal
- - [https://amigawarp.org](https://amigawarp.org)
- - date published: 2023-12-11T19:28:47.299747+00:00
- - user: None
- - tags: []
-
-## Amnesty International
- - [https://www.amnesty.org](https://www.amnesty.org)
- - date published: 2023-10-25T20:56:42.566735+00:00
- - user: None
- - tags: ['human rights', 'organization']
-
-## American Museum of Natural History | New York City
- - [https://www.amnh.org](https://www.amnh.org)
- - date published: 2024-01-14T00:43:40.479281+00:00
- - user: None
- - tags: []
-
-## American Mathematical Society :: Homepage
- - [https://www.ams.org](https://www.ams.org)
- - date published: 2023-10-25T20:56:48.677652+00:00
- - user: None
- - tags: []
-
-## Amsterdam UMC Vandaag
- - [https://www.amsterdamumc.org](https://www.amsterdamumc.org)
- - date published: 2024-01-04T16:19:39.496136+00:00
- - user: None
- - tags: []
-
-## # Welcome to aMule, the all-platform eMule-like P2P client #
- - [https://www.amule.org](https://www.amule.org)
- - date published: 2023-10-28T20:48:21.605487+00:00
- - user: None
- - tags: ['piracy']
-
-## The Analog Computer Museum / Das Analogrechnermuseum
- - [https://www.analogmuseum.org](https://www.analogmuseum.org)
- - date published: 2023-10-25T20:56:49.148666+00:00
- - user: None
- - tags: []
-
-## Anash.org - Good News
- - [https://anash.org](https://anash.org)
- - date published: 2023-12-21T15:47:22.735810+00:00
- - user: None
- - tags: ['israel']
-
-## Andrew McWatters
- - [https://blog.andrewmcwatters.org](https://blog.andrewmcwatters.org)
- - date published: 2023-10-25T20:56:51.087174+00:00
- - user: None
- - tags: []
-
-## Andrew Shell's Weblog
- - [https://blog.andrewshell.org](https://blog.andrewshell.org)
- - date published: 2023-11-29T14:53:31.250344+00:00
- - user: None
- - tags: ['personal']
-
-## Ministry of Intrigue
- - [https://www.andrlik.org](https://www.andrlik.org)
- - date published: 2024-01-02T18:28:50.452334+00:00
- - user: None
- - tags: []
-
-## Andy Matuschak
- - [https://andymatuschak.org](https://andymatuschak.org)
- - date published: 2023-10-25T20:56:54.344415+00:00
- - user: None
- - tags: []
-
-## About these notes
- - [https://notes.andymatuschak.org](https://notes.andymatuschak.org)
- - date published: 2023-10-25T20:56:56.005423+00:00
- - user: None
- - tags: []
-
-## Anglish
- - [https://anglish.org](https://anglish.org)
- - date published: 2023-10-25T20:56:58.251091+00:00
- - user: None
- - tags: []
-
-## Animal Cognition
- - [https://www.animalcognition.org](https://www.animalcognition.org)
- - date published: 2024-01-01T23:17:13.137162+00:00
- - user: None
- - tags: []
-
-## Anime Music Videos .Org - Home
- - [https://www.animemusicvideos.org](https://www.animemusicvideos.org)
- - date published: 2023-10-25T15:04:03.927579+00:00
- - user: None
- - tags: []
-
-## Anna’s Archive
- - [https://annas-archive.org](https://annas-archive.org)
- - date published: 2023-10-25T20:56:58.923570+00:00
- - user: None
- - tags: ['ebook', 'digital library']
-
-## Anna’s Archive
- - [https://www.annas-archive.org](https://www.annas-archive.org)
- - date published: 2023-10-25T09:28:18.535522+00:00
  - user: None
  - tags: []
 

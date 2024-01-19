@@ -1,9 +1,3 @@
-## paedubucher.ch
- - [https://paedubucher.ch](https://paedubucher.ch)
- - date published: 2023-10-25T12:14:08.646235+00:00
- - user: None
- - tags: []
-
 ## PC Engines home
  - [https://www.pcengines.ch](https://www.pcengines.ch)
  - date published: 2023-10-25T12:14:14.724348+00:00
@@ -1288,6 +1282,12 @@
  - user: None
  - tags: []
 
+## Tam Pham's Blog
+ - [https://www.tampham.co](https://www.tampham.co)
+ - date published: 2024-01-18T16:43:02.232242+00:00
+ - user: None
+ - tags: []
+
 ## Techsauce | Tech and Biz Ecosystem Leader for Startups Technologies and Business
  - [https://techsauce.co](https://techsauce.co)
  - date published: 2024-01-17T02:11:26.094311+00:00
@@ -1503,6 +1503,12 @@
  - date published: 2023-10-25T08:43:47.558616+00:00
  - user: None
  - tags: ['personal']
+
+## 42!
+ - [https://devan.codes](https://devan.codes)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Diego Vicente
  - [https://diego.codes](https://diego.codes)
@@ -5991,12 +5997,6 @@
 ## Joel Oppenheimer Gallery
  - [https://www.audubonart.com](https://www.audubonart.com)
  - date published: 2023-11-03T13:09:08.951322+00:00
- - user: None
- - tags: []
-
-## https://augmentingcognition.com
- - [https://augmentingcognition.com](https://augmentingcognition.com)
- - date published: 2023-12-17T03:31:46.186900+00:00
  - user: None
  - tags: []
 
