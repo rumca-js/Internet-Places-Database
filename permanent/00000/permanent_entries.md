@@ -1342,6 +1342,12 @@
  - user: None
  - tags: []
 
+## Upollo | Know who is ready to convert, upgrade or churn and why
+ - [https://upollo.ai](https://upollo.ai)
+ - date published: 2024-01-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Galileo AI
  - [https://www.usegalileo.ai](https://www.usegalileo.ai)
  - date published: 2023-10-25T11:44:45.723617+00:00
@@ -2872,6 +2878,12 @@
  - user: None
  - tags: ['personal']
 
+## Maadmob | Design leadership, facilitation and teaching
+ - [https://www.maadmob.com.au](https://www.maadmob.com.au)
+ - date published: 2024-01-19T01:52:16.745098+00:00
+ - user: None
+ - tags: []
+
 ## MacroBusiness | Australia's leading source of macroeconomic and financial market analysis
  - [https://www.macrobusiness.com.au](https://www.macrobusiness.com.au)
  - date published: 2023-10-25T11:55:24.879899+00:00
@@ -3430,6 +3442,12 @@
  - user: None
  - tags: ['youtube']
 
+## FaceSwap.Beauty - Online Face Swapping Tool | Deep Swap
+ - [https://www.faceswap.beauty](https://www.faceswap.beauty)
+ - date published: 2024-01-20T10:20:41.362758+00:00
+ - user: None
+ - tags: []
+
 ## DNS points to prohibited IP | blog.cto.berlin | Cloudflare
  - [https://blog.cto.berlin](https://blog.cto.berlin)
  - date published: 2023-10-25T11:59:33.436078+00:00
@@ -3523,6 +3541,12 @@
 ## Roberts Design | Web Design & Development | Graphic Design
  - [https://robertsdesign.biz](https://robertsdesign.biz)
  - date published: 2024-01-04T03:34:14.600258+00:00
+ - user: None
+ - tags: []
+
+## The Founder: Change the World
+ - [https://thefounder.biz](https://thefounder.biz)
+ - date published: 2001-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3634,6 +3658,12 @@
  - user: None
  - tags: []
 
+## From a technical expert to a leader ☕️🛫
+ - [https://coffeejourneys.blog](https://coffeejourneys.blog)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Colin Walker — Home
  - [https://colinwalker.blog](https://colinwalker.blog)
  - date published: 2023-11-20T07:44:38.276818+00:00
@@ -3662,7 +3692,7 @@
  - [https://dagan.blog](https://dagan.blog)
  - date published: 2024-01-09T02:26:37.338771+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## https://default.blog
  - [https://default.blog](https://default.blog)
@@ -3986,6 +4016,12 @@
 ## home · Joseph Thacker
  - [https://rez0.blog](https://rez0.blog)
  - date published: 2023-10-25T12:01:04.204782+00:00
+ - user: None
+ - tags: []
+
+## Riley Harris
+ - [https://rileyharris.blog](https://rileyharris.blog)
+ - date published: 2024-01-19T13:02:00.009123+00:00
  - user: None
  - tags: []
 
@@ -5961,42 +5997,6 @@
 ## Welcome to my website | André Jaenisch
  - [https://jaenis.ch](https://jaenis.ch)
  - date published: 2024-01-10T14:29:58.767888+00:00
- - user: None
- - tags: []
-
-## Pasar Jalan Petaling
- - [https://www.maurits.ch](https://www.maurits.ch)
- - date published: 2023-10-25T08:43:18.862210+00:00
- - user: None
- - tags: ['personal']
-
-## Multiplayer Online Science
- - [http://mmos.ch](http://mmos.ch)
- - date published: 2023-12-28T20:56:18+00:00
- - user: None
- - tags: []
-
-## Michael Rupp - My Projects
- - [https://mrupp.ch](https://mrupp.ch)
- - date published: 2023-11-02T09:42:08.151338+00:00
- - user: None
- - tags: ['amiga', 'personal']
-
-## NZZ – Neue Zürcher Zeitung | Aktuelle News, Hintergründe & mehr
- - [https://www.nzz.ch](https://www.nzz.ch)
- - date published: 2023-10-25T12:14:06.360385+00:00
- - user: None
- - tags: []
-
-## Ovidiu Cherecheș
- - [https://ovidiu.ch](https://ovidiu.ch)
- - date published: 2024-01-03T01:13:12.518362+00:00
- - user: None
- - tags: []
-
-## paedubucher.ch
- - [https://paedubucher.ch](https://paedubucher.ch)
- - date published: 2023-10-25T12:14:08.646235+00:00
  - user: None
  - tags: []
 

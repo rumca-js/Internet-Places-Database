@@ -1,3 +1,39 @@
+## Pasar Jalan Petaling
+ - [https://www.maurits.ch](https://www.maurits.ch)
+ - date published: 2023-10-25T08:43:18.862210+00:00
+ - user: None
+ - tags: ['personal']
+
+## Multiplayer Online Science
+ - [http://mmos.ch](http://mmos.ch)
+ - date published: 2023-12-28T20:56:18+00:00
+ - user: None
+ - tags: []
+
+## Michael Rupp - My Projects
+ - [https://mrupp.ch](https://mrupp.ch)
+ - date published: 2023-11-02T09:42:08.151338+00:00
+ - user: None
+ - tags: ['amiga', 'personal']
+
+## NZZ – Neue Zürcher Zeitung | Aktuelle News, Hintergründe & mehr
+ - [https://www.nzz.ch](https://www.nzz.ch)
+ - date published: 2023-10-25T12:14:06.360385+00:00
+ - user: None
+ - tags: []
+
+## Ovidiu Cherecheș
+ - [https://ovidiu.ch](https://ovidiu.ch)
+ - date published: 2024-01-03T01:13:12.518362+00:00
+ - user: None
+ - tags: []
+
+## paedubucher.ch
+ - [https://paedubucher.ch](https://paedubucher.ch)
+ - date published: 2023-10-25T12:14:08.646235+00:00
+ - user: None
+ - tags: []
+
 ## PC Engines home
  - [https://www.pcengines.ch](https://www.pcengines.ch)
  - date published: 2023-10-25T12:14:14.724348+00:00
@@ -115,6 +151,12 @@
 ## aider is AI pair programming in your terminal
  - [https://aider.chat](https://aider.chat)
  - date published: 2023-11-08T00:15:40.726262+00:00
+ - user: None
+ - tags: []
+
+## Coffeehouse
+ - [https://coffeehouse.chat](https://coffeehouse.chat)
+ - date published: 2024-01-20T14:57:24.843286+00:00
  - user: None
  - tags: []
 
@@ -316,6 +358,12 @@
  - user: None
  - tags: []
 
+## Chris Daniel's Blog is under construction
+ - [https://chrisdaniel.club](https://chrisdaniel.club)
+ - date published: 2024-01-19T13:01:35.779185+00:00
+ - user: None
+ - tags: []
+
 ## GlyphDrawing.Club -blog
  - [https://blog.glyphdrawing.club](https://blog.glyphdrawing.club)
  - date published: 2023-11-01T08:41:29.882135+00:00
@@ -487,6 +535,18 @@
 ## Wellfound (formerly AngelList Talent) - Startup Job Search
  - [https://angel.co](https://angel.co)
  - date published: 2023-10-25T12:16:35.409003+00:00
+ - user: None
+ - tags: []
+
+## Anna Goss
+ - [https://notes.annagoss.co](https://notes.annagoss.co)
+ - date published: 2018-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ant Harris
+ - [https://antharris.co](https://antharris.co)
+ - date published: 2024-01-19T18:44:06.170906+00:00
  - user: None
  - tags: []
 
@@ -1000,6 +1060,12 @@
  - user: None
  - tags: []
 
+## Nabeel S. Qureshi
+ - [https://nabeelqu.co](https://nabeelqu.co)
+ - date published: 2024-01-20T19:20:52.169397+00:00
+ - user: None
+ - tags: []
+
 ## Net Interest | Marc Rubinstein | Substack
  - [https://www.netinterest.co](https://www.netinterest.co)
  - date published: 2023-10-25T09:39:48.627101+00:00
@@ -1209,6 +1275,12 @@
  - date published: 2023-10-25T09:07:56.781772+00:00
  - user: None
  - tags: ['personal']
+
+## SCIENTIA
+ - [https://skientia.co](https://skientia.co)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## SkyPilot Blog
  - [https://blog.skypilot.co](https://blog.skypilot.co)
@@ -2192,7 +2264,7 @@
  - [https://www.aayushkapoor.com](https://www.aayushkapoor.com)
  - date published: 2024-01-10T22:41:33.853890+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Collection of the Best Mathematics and Science Stuff | Abakcus
  - [https://abakcus.com](https://abakcus.com)
@@ -2458,6 +2530,12 @@
  - user: None
  - tags: []
 
+## A CITY ON MARS
+ - [https://www.acityonmars.com](https://www.acityonmars.com)
+ - date published: 2024-01-19T15:56:08.894537+00:00
+ - user: None
+ - tags: []
+
 ## ACM Wealth - Advisor Capital Management
  - [https://acmwealth.com](https://acmwealth.com)
  - date published: 2023-10-25T12:31:35.736632+00:00
@@ -2578,6 +2656,12 @@
  - user: None
  - tags: []
 
+## Hi, I’m Adam - Adam J. Doolittle
+ - [https://www.adamdoolittle.com](https://www.adamdoolittle.com)
+ - date published: 2024-01-19T13:00:38.013071+00:00
+ - user: None
+ - tags: []
+
 ## adamfallon.com
  - [https://adamfallon.com](https://adamfallon.com)
  - date published: 2023-10-25T12:32:07.492619+00:00
@@ -2601,6 +2685,12 @@
  - date published: 2023-11-29T14:22:29.279710+00:00
  - user: None
  - tags: ['personal']
+
+## Adam Mattis - Technology & Operations Exec
+ - [https://www.adammattis.com](https://www.adammattis.com)
+ - date published: 2024-01-19T13:01:04.477003+00:00
+ - user: None
+ - tags: []
 
 ## Adam Pangelinan
  - [https://adampangelinan.com](https://adampangelinan.com)
@@ -4386,6 +4476,12 @@
  - user: None
  - tags: []
 
+## Andrew Conner  » meaning, tech, philosophy, connection
+ - [https://andrewconner.com](https://andrewconner.com)
+ - date published: 2024-01-19T01:54:42.611797+00:00
+ - user: None
+ - tags: []
+
 ## Andrew Heiss
  - [https://www.andrewheiss.com](https://www.andrewheiss.com)
  - date published: 2023-10-25T12:40:59.037777+00:00
@@ -5862,6 +5958,12 @@
  - user: None
  - tags: []
 
+## • James A. Reeves
+ - [https://atlasminor.com](https://atlasminor.com)
+ - date published: 2024-01-19T19:09:40.260711+00:00
+ - user: None
+ - tags: []
+
 ## Curious and Wondrous Travel Destinations - Atlas Obscura
  - [https://www.atlasobscura.com](https://www.atlasobscura.com)
  - date published: 2023-10-25T12:47:48.977147+00:00
@@ -5895,108 +5997,6 @@
 ## atomic14
  - [https://blog.atomic14.com](https://blog.atomic14.com)
  - date published: 2023-11-04T18:28:37.686431+00:00
- - user: None
- - tags: []
-
-## atomic14 | atomic14
- - [https://www.atomic14.com](https://www.atomic14.com)
- - date published: 2023-10-25T12:47:55.499147+00:00
- - user: None
- - tags: []
-
-## Homepage | Atomic Spin
- - [https://spin.atomicobject.com](https://spin.atomicobject.com)
- - date published: 2023-10-25T12:48:01.805574+00:00
- - user: None
- - tags: []
-
-## Atomic Semi • The Make Anything Company
- - [https://atomicsemi.com](https://atomicsemi.com)
- - date published: 2023-10-25T12:48:05.403887+00:00
- - user: None
- - tags: []
-
-## The AT Protocol
- - [https://atproto.com](https://atproto.com)
- - date published: 2023-10-25T12:48:06.759125+00:00
- - user: None
- - tags: []
-
-## ATCQ
- - [https://atribecalledquest.com](https://atribecalledquest.com)
- - date published: 2023-11-06T11:26:11.153578+00:00
- - user: None
- - tags: ['music band']
-
-## Spotify Research - Spotify’s official research blog : Spotify Research
- - [https://research.atspotify.com](https://research.atspotify.com)
- - date published: 2023-10-25T12:48:11.735370+00:00
- - user: None
- - tags: []
-
-## Attention Viz
- - [https://attentionviz.com](https://attentionviz.com)
- - date published: 2023-10-25T12:48:12.890646+00:00
- - user: None
- - tags: []
-
-## Atul Pradhananga
- - [https://www.atulprd.com](https://www.atulprd.com)
- - date published: 2023-11-29T17:12:54.801078+00:00
- - user: None
- - tags: ['personal']
-
-## Atoms vs Bits
- - [https://www.atvbt.com](https://www.atvbt.com)
- - date published: 2023-10-25T12:48:14.605093+00:00
- - user: None
- - tags: []
-
-## Audi.com – the international Audi website | audi.com
- - [https://www.audi.com](https://www.audi.com)
- - date published: 2023-11-01T08:41:32.663490+00:00
- - user: None
- - tags: ['company', 'car producer']
-
-## Emergent Drums by Audialab - Generate infinite, royalty-free drum samples with AI
- - [https://audialab.com](https://audialab.com)
- - date published: 2023-10-25T12:48:17.613530+00:00
- - user: None
- - tags: []
-
-## Audible.com | Try Audible Free Today
- - [https://www.audible.com](https://www.audible.com)
- - date published: 2023-10-25T11:44:50.898900+00:00
- - user: None
- - tags: ['company', 'amazon', 'audio streaming']
-
-## Audio Asylum -- Audio Reviews, Audiophile Forums and Stereo Reviews
- - [https://www.audioasylum.com](https://www.audioasylum.com)
- - date published: 2023-10-25T11:19:51.622570+00:00
- - user: None
- - tags: []
-
-## Audiobooks.com | Get 3 Audiobooks Free
- - [https://www.audiobooks.com](https://www.audiobooks.com)
- - date published: 2023-10-25T11:44:52.209349+00:00
- - user: None
- - tags: []
-
-## Audioboom
- - [https://audioboom.com](https://audioboom.com)
- - date published: 2023-10-25T12:48:19.825674+00:00
- - user: None
- - tags: []
-
-## Page Redirection
- - [https://www.audiosciencereview.com](https://www.audiosciencereview.com)
- - date published: 2023-10-25T12:48:20.923694+00:00
- - user: None
- - tags: []
-
-## Joel Oppenheimer Gallery
- - [https://www.audubonart.com](https://www.audubonart.com)
- - date published: 2023-11-03T13:09:08.951322+00:00
  - user: None
  - tags: []
 

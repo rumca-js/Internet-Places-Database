@@ -1,3 +1,285 @@
+## Kate Vass Galerie | Contemporary Art Gallery | Zurich, Switzerland
+ - [https://www.katevassgalerie.com](https://www.katevassgalerie.com)
+ - date published: 2023-10-25T15:35:13.511037+00:00
+ - user: None
+ - tags: []
+
+## Kat Fukui — Independent Designer
+ - [https://www.katfukui.com](https://www.katfukui.com)
+ - date published: 2023-10-25T09:21:01.628171+00:00
+ - user: None
+ - tags: ['personal']
+
+## Katamari Hack
+ - [http://kathack.com](http://kathack.com)
+ - date published: 2023-10-25T15:35:19.257455+00:00
+ - user: None
+ - tags: []
+
+## The Kathmandu Post | Read online latest news and articles from Nepal
+ - [https://kathmandupost.com](https://kathmandupost.com)
+ - date published: 2023-11-13T13:20:19.326564+00:00
+ - user: None
+ - tags: []
+
+## katiecouric.com
+ - [https://katiecouric.com](https://katiecouric.com)
+ - date published: 2023-12-02T18:30:53.045338+00:00
+ - user: None
+ - tags: []
+
+## Flourish & Bloom
+ - [https://www.katiedutcher.com](https://www.katiedutcher.com)
+ - date published: 2023-11-29T15:45:42.538065+00:00
+ - user: None
+ - tags: ['personal']
+
+## Welcome
+ - [https://www.katiequinney.com](https://www.katiequinney.com)
+ - date published: 2024-01-10T23:53:18.181914+00:00
+ - user: None
+ - tags: []
+
+## Katrina Goldsaito
+ - [https://katrinagoldsaito.com](https://katrinagoldsaito.com)
+ - date published: 2023-12-19T02:59:53.799605+00:00
+ - user: None
+ - tags: ['personal']
+
+## Blender Game, Design and Editing tutorials and tools : KatsBits.com
+ - [https://www.katsbits.com](https://www.katsbits.com)
+ - date published: 2023-10-28T20:34:38.257298+00:00
+ - user: None
+ - tags: ['gaming', 'blog']
+
+## Portfolio | Kat Snyder | UX Researcher | Palo Alto, CA
+ - [https://www.katsnyderux.com](https://www.katsnyderux.com)
+ - date published: 2023-10-25T15:35:22.405683+00:00
+ - user: None
+ - tags: []
+
+## Little Rock News, Weather, Sports, Breaking News | KATV
+ - [https://katv.com](https://katv.com)
+ - date published: 2023-11-15T02:43:27.922383+00:00
+ - user: None
+ - tags: []
+
+## KATYA JACKSON - Travel and Photography Around The UK
+ - [https://katyajackson.com](https://katyajackson.com)
+ - date published: 2023-12-27T23:53:55.481809+00:00
+ - user: None
+ - tags: ['personal']
+
+## Katy Perry | Official Site
+ - [https://www.katyperry.com](https://www.katyperry.com)
+ - date published: 2023-11-13T10:44:39.585340+00:00
+ - user: None
+ - tags: ['music band']
+
+## Kavii Suri
+ - [https://kaviisuri.com](https://kaviisuri.com)
+ - date published: 2023-10-25T15:35:24.728646+00:00
+ - user: None
+ - tags: []
+
+## KAVINSKY OFFICIAL WEBSITE
+ - [https://kavinsky.com](https://kavinsky.com)
+ - date published: 2023-11-13T10:25:58.873427+00:00
+ - user: None
+ - tags: ['music band']
+
+## Kawasaki Robotics - Industrial Robotics | HOME
+ - [https://kawasakirobotics.com](https://kawasakirobotics.com)
+ - date published: 2023-11-27T15:32:22+00:00
+ - user: rumpel
+ - tags: []
+
+## Access Denied
+ - [https://www.kbb.com](https://www.kbb.com)
+ - date published: 2023-10-25T15:35:25.046506+00:00
+ - user: None
+ - tags: []
+
+## KBH Games - Play Free Online Web Games
+ - [https://kbhgames.com](https://kbhgames.com)
+ - date published: 2023-10-26T18:52:24.828608+00:00
+ - user: None
+ - tags: ['games']
+
+## KBroeren.com
+ - [https://www.kbroeren.com](https://www.kbroeren.com)
+ - date published: 2023-11-29T15:45:33.480531+00:00
+ - user: None
+ - tags: ['personal']
+
+## Site Not Available
+ - [https://www.kcra.com](https://www.kcra.com)
+ - date published: 2023-12-20T22:46:41.685543+00:00
+ - user: None
+ - tags: []
+
+## KCRG | Cedar Rapids, Iowa City, Waterloo, Dubuque | News, Sports and Weather
+ - [https://www.kcrg.com](https://www.kcrg.com)
+ - date published: 2023-11-19T00:29:17.547259+00:00
+ - user: None
+ - tags: ['news']
+
+## KCRW 89.9FM | Music, NPR News, Culture Los Angeles | KCRW
+ - [https://www.kcrw.com](https://www.kcrw.com)
+ - date published: 2023-10-25T15:35:29.861868+00:00
+ - user: None
+ - tags: []
+
+## KDnuggets
+ - [https://www.kdnuggets.com](https://www.kdnuggets.com)
+ - date published: 2023-12-10T10:12:35.693865+00:00
+ - user: None
+ - tags: ['machine learning', 'artificial intelligence']
+
+## KDP Community
+ - [https://www.kdpcommunity.com](https://www.kdpcommunity.com)
+ - date published: 2023-10-25T15:35:34.149390+00:00
+ - user: None
+ - tags: []
+
+## Access Restricted
+ - [https://kdvr.com](https://kdvr.com)
+ - date published: 2024-01-02T15:00:51.089797+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://www.keengamer.com](https://www.keengamer.com)
+ - date published: 2023-11-12T05:39:10.831693+00:00
+ - user: None
+ - tags: []
+
+## Keith Donegan - Web Developer
+ - [https://www.keithdonegan.com](https://www.keithdonegan.com)
+ - date published: 2023-12-19T10:00:34.286305+00:00
+ - user: None
+ - tags: ['personal']
+
+## Authentic Educator – Trusted Leader – Unconventional Scholar
+ - [https://www.keithedwards.com](https://www.keithedwards.com)
+ - date published: 2024-01-09T02:41:04.418506+00:00
+ - user: None
+ - tags: []
+
+## Keith J Lang - Writer & Top 7 Billion Expert in a Few Things
+ - [https://keithjlang.com](https://keithjlang.com)
+ - date published: 2024-01-09T19:16:40.032796+00:00
+ - user: None
+ - tags: []
+
+## Kellan Elliott-McCrea
+ - [https://kellanem.com](https://kellanem.com)
+ - date published: 2023-10-25T08:58:12.167205+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Brazil's Blog
+ - [https://blog.kellybrazil.com](https://blog.kellybrazil.com)
+ - date published: 2023-10-25T15:35:42.425437+00:00
+ - user: None
+ - tags: []
+
+## Kelly Hobkirk's Blog
+ - [https://kellyhobkirk.com](https://kellyhobkirk.com)
+ - date published: 2024-01-10T23:53:07.782781+00:00
+ - user: None
+ - tags: []
+
+## Kelly Shortridge
+ - [https://kellyshortridge.com](https://kellyshortridge.com)
+ - date published: 2023-12-13T23:14:24.360707+00:00
+ - user: None
+ - tags: []
+
+## Startup Win | Kelsus | Substack
+ - [https://startupwin.kelsus.com](https://startupwin.kelsus.com)
+ - date published: 2023-10-25T15:35:46.064869+00:00
+ - user: None
+ - tags: []
+
+## /dev/lawyer
+ - [https://writing.kemitchell.com](https://writing.kemitchell.com)
+ - date published: 2023-10-25T15:35:58.761033+00:00
+ - user: None
+ - tags: []
+
+## Kempa.com
+ - [https://www.kempa.com](https://www.kempa.com)
+ - date published: 2023-10-25T08:46:44.860682+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kendall Giles | Kendall Giles: Technology, Society, and Meaning
+ - [https://www.kendallgiles.com](https://www.kendallgiles.com)
+ - date published: 2023-12-10T17:00:14.989133+00:00
+ - user: None
+ - tags: ['personal']
+
+## kennedn
+ - [https://kennedn.com](https://kennedn.com)
+ - date published: 2023-10-25T15:36:00.034186+00:00
+ - user: None
+ - tags: []
+
+## Kenneth Klabunde
+ - [https://www.kennethklabunde.com](https://www.kennethklabunde.com)
+ - date published: 2024-01-07T22:20:02.583885+00:00
+ - user: None
+ - tags: []
+
+## Kenny Log-Ins
+ - [https://www.kennylog-in.com](https://www.kennylog-in.com)
+ - date published: 2023-10-25T15:36:01.766783+00:00
+ - user: None
+ - tags: []
+
+## Access Denied
+ - [https://www.kens5.com](https://www.kens5.com)
+ - date published: 2023-12-09T00:59:09.524386+00:00
+ - user: None
+ - tags: []
+
+## https://kenschutte.com
+ - [https://kenschutte.com](https://kenschutte.com)
+ - date published: 2024-01-09T02:41:08.594455+00:00
+ - user: None
+ - tags: []
+
+## Chris Kenst
+ - [https://www.kenst.com](https://www.kenst.com)
+ - date published: 2023-12-29T20:11:56.663745+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kent C. Dodds
+ - [https://kentcdodds.com](https://kentcdodds.com)
+ - date published: 2023-10-25T15:36:05.091092+00:00
+ - user: None
+ - tags: []
+
+## Network Observability, Performance and Security | Network Flow Analytics, Network Monitoring & DDoS Detection | Kentik
+ - [https://www.kentik.com](https://www.kentik.com)
+ - date published: 2023-10-25T15:36:09.225110+00:00
+ - user: None
+ - tags: []
+
+## Kent Nerburn | Kent Nerburn
+ - [https://kentnerburn.com](https://kentnerburn.com)
+ - date published: 2023-10-25T15:36:24.836850+00:00
+ - user: None
+ - tags: []
+
+## Kenton's House
+ - [https://kentonshouse.com](https://kentonshouse.com)
+ - date published: 2023-10-25T15:36:27.827605+00:00
+ - user: None
+ - tags: []
+
 ## Kera Desktop
  - [https://desktop.kerahq.com](https://desktop.kerahq.com)
  - date published: 2023-10-25T15:36:28.216806+00:00
@@ -46,6 +328,12 @@
  - user: None
  - tags: ['personal']
 
+## Kevin Clelland
+ - [https://kevinclelland.com](https://kevinclelland.com)
+ - date published: 2024-01-20T04:45:45.094611+00:00
+ - user: None
+ - tags: []
+
 ## kevingal.com
  - [https://kevingal.com](https://kevingal.com)
  - date published: 2023-10-25T15:36:30.394253+00:00
@@ -55,6 +343,12 @@
 ## Kevin Jalbert
  - [https://kevinjalbert.com](https://kevinjalbert.com)
  - date published: 2024-01-12T08:14:10.892622+00:00
+ - user: None
+ - tags: []
+
+## Kevin Kammeraad and Friends
+ - [https://www.kevinkammeraad.com](https://www.kevinkammeraad.com)
+ - date published: 2024-01-19T01:54:46.769466+00:00
  - user: None
  - tags: []
 
@@ -320,6 +614,12 @@
 ## Casa | Alejandro AR (kinduff)
  - [https://kinduff.com](https://kinduff.com)
  - date published: 2023-10-25T15:37:27.297746+00:00
+ - user: None
+ - tags: []
+
+## Fantasy Author DE King - Epic Fantasy Series In All Jest
+ - [https://www.kingdarryl.com](https://www.kingdarryl.com)
+ - date published: 2024-01-12T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -851,6 +1151,12 @@
  - user: None
  - tags: []
 
+## Home
+ - [https://kunalanand.com](https://kunalanand.com)
+ - date published: 2018-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Kurt Elster, MBA | Ecommerce Senior Consultant, Chicago Shopify Expert
  - [https://kurtelster.com](https://kurtelster.com)
  - date published: 2024-01-12T02:34:46.885944+00:00
@@ -968,6 +1274,12 @@
 ## Météo France : La meilleure info météo GRATUITE à 15 jours - La Chaîne Météo
  - [https://www.lachainemeteo.com](https://www.lachainemeteo.com)
  - date published: 2023-12-18T17:17:14.108236+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://lachlanallison.com](https://lachlanallison.com)
+ - date published: 2000-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2082,6 +2394,12 @@
  - tags: []
 
 ## LinkedIn: Log In or Sign Up
+ - [https://linkedin.com](https://linkedin.com)
+ - date published: 2024-01-20T12:00:32.764477+00:00
+ - user: None
+ - tags: []
+
+## LinkedIn: Log In or Sign Up
  - [https://www.linkedin.com](https://www.linkedin.com)
  - date published: 2023-10-27T13:16:10.184199+00:00
  - user: None
@@ -2277,7 +2595,7 @@
  - [https://www.listennotes.com](https://www.listennotes.com)
  - date published: 2023-10-25T15:48:17.923123+00:00
  - user: None
- - tags: []
+ - tags: ['podcast']
 
 ## Lists of Note | Shaun Usher | Substack
  - [https://www.listsofnote.com](https://www.listsofnote.com)
@@ -2351,6 +2669,12 @@
  - user: None
  - tags: []
 
+## Dispatches from Tanganyika
+ - [https://docbrite.livejournal.com](https://docbrite.livejournal.com)
+ - date published: 2024-01-19T15:56:04.743056+00:00
+ - user: None
+ - tags: []
+
 ## Liam&#39;s write-only LJ
  - [https://lproven.livejournal.com](https://lproven.livejournal.com)
  - date published: 2024-01-09T17:03:54.463691+00:00
@@ -2420,6 +2744,12 @@
 ## LLMonitor Benchmarks
  - [https://benchmarks.llmonitor.com](https://benchmarks.llmonitor.com)
  - date published: 2023-10-25T15:48:57.001391+00:00
+ - user: None
+ - tags: []
+
+## LoaderShip
+ - [https://www.loadership.com](https://www.loadership.com)
+ - date published: 2024-01-19T08:47:14.424793+00:00
  - user: None
  - tags: []
 
@@ -2888,6 +3218,12 @@
 ## Lucas' Blog
  - [https://lucaspauker.com](https://lucaspauker.com)
  - date published: 2023-10-25T15:51:59.452646+00:00
+ - user: None
+ - tags: []
+
+## https://blog.luccasiau.com
+ - [https://blog.luccasiau.com](https://blog.luccasiau.com)
+ - date published: 2024-01-20T22:40:46.364035+00:00
  - user: None
  - tags: []
 
@@ -3901,6 +4237,12 @@ diversions.
  - user: None
  - tags: []
 
+## Massdream Music
+ - [https://www.massdream.com](https://www.massdream.com)
+ - date published: 2024-01-19T01:53:53.146297+00:00
+ - user: None
+ - tags: []
+
 ## Massachusetts Local News, Breaking News, Sports and Weather
  - [https://www.masslive.com](https://www.masslive.com)
  - date published: 2023-10-25T10:16:06.752056+00:00
@@ -4015,6 +4357,12 @@ diversions.
  - user: None
  - tags: []
 
+## Matt Downing - Web Developer & Strategist
+ - [https://mattcdowning.com](https://mattcdowning.com)
+ - date published: 2024-01-19T17:20:50.843662+00:00
+ - user: None
+ - tags: []
+
 ## mattgadient.com | Tech stuff, some fixes/solutions, and occasionally a passionate rant.
  - [https://mattgadient.com](https://mattgadient.com)
  - date published: 2023-12-31T17:16:54.550816+00:00
@@ -4026,6 +4374,12 @@ diversions.
  - date published: 2023-12-05T09:12:58.682891+00:00
  - user: None
  - tags: ['personal']
+
+## Home
+ - [https://matthew-fenton.com](https://matthew-fenton.com)
+ - date published: 2024-01-14T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Matt Bilyeu
  - [https://matthewbilyeu.com](https://matthewbilyeu.com)
@@ -5646,358 +6000,4 @@ diversions.
  - date published: 2023-10-25T16:02:20.447342+00:00
  - user: None
  - tags: ['personal']
-
-## Home
- - [https://mhlakhani.com](https://mhlakhani.com)
- - date published: 2023-10-25T16:02:25.332685+00:00
- - user: None
- - tags: []
-
-## MHP Books | Homepage
- - [https://mhpbooks.com](https://mhpbooks.com)
- - date published: 2023-11-27T07:54:18.617523+00:00
- - user: None
- - tags: []
-
-## McGraw Hill Professional | Textbooks | Interactive Learning Solutions
- - [https://www.mhprofessional.com](https://www.mhprofessional.com)
- - date published: 2023-11-24T12:24:12.213996+00:00
- - user: None
- - tags: []
-
-## Xiaomi Polska | Oficjalna strona Xiaomi
- - [https://www.mi.com](https://www.mi.com)
- - date published: 2023-10-25T11:25:58.094244+00:00
- - user: None
- - tags: []
-
-## Mia Hopkins
- - [https://www.miahopkinsauthor.com](https://www.miahopkinsauthor.com)
- - date published: 2023-12-29T03:11:52.770398+00:00
- - user: None
- - tags: ['personal']
-
-## Miami Breaking News, Sports, Crime & More | Miami Herald
- - [https://www.miamiherald.com](https://www.miamiherald.com)
- - date published: 2023-10-25T16:02:30.434761+00:00
- - user: None
- - tags: []
-
-## Miami New Times | The Leading Independent News Source in Miami, Florida
- - [https://www.miaminewtimes.com](https://www.miaminewtimes.com)
- - date published: 2023-11-07T13:45:17.755480+00:00
- - user: None
- - tags: []
-
-## Micah Lee's blog
- - [https://micahflee.com](https://micahflee.com)
- - date published: 2023-10-25T16:02:40.629225+00:00
- - user: None
- - tags: []
-
-## Micah Lerner
- - [https://www.micahlerner.com](https://www.micahlerner.com)
- - date published: 2023-10-25T16:02:42.515945+00:00
- - user: None
- - tags: []
-
-## Micah Walter
- - [https://www.micahwalter.com](https://www.micahwalter.com)
- - date published: 2023-10-25T16:02:43.726260+00:00
- - user: None
- - tags: []
-
-## ᐈ【 Las 5 MEJORES Cámaras DEPORTIVAS 】❗️ TOP 2023
- - [https://micamaradeportiva.com](https://micamaradeportiva.com)
- - date published: 2023-12-25T22:12:40.489547+00:00
- - user: None
- - tags: ['personal']
-
-## Michael Hudson
- - [https://michael-hudson.com](https://michael-hudson.com)
- - date published: 2023-11-16T12:41:59.799273+00:00
- - user: None
- - tags: []
-
-## Code Review Workshops with Dr. Michaela Greiler - Dr. McKayla
- - [https://www.michaelagreiler.com](https://www.michaelagreiler.com)
- - date published: 2023-10-25T16:02:47.336831+00:00
- - user: None
- - tags: []
-
-## Michael Andreuzza ⏤ Freelance Designer & Developer ⏤ Maximize your online presence with an engaging website page that delivers outstanding results. - Michael Andreuzza
- - [https://michaelandreuzza.com](https://michaelandreuzza.com)
- - date published: 2024-01-12T18:46:34.485685+00:00
- - user: None
- - tags: []
-
-## https://michaelbalchan.com
- - [https://michaelbalchan.com](https://michaelbalchan.com)
- - date published: 2024-01-15T08:34:35.765713+00:00
- - user: None
- - tags: []
-
-## Home Page V2
- - [https://www.michaelfrew.com](https://www.michaelfrew.com)
- - date published: 2023-11-29T16:20:25.573482+00:00
- - user: None
- - tags: ['personal']
-
-## Solution to a Contest Math Problem
- - [https://www.michaelhartl.com](https://www.michaelhartl.com)
- - date published: 2023-12-20T21:31:22.657887+00:00
- - user: None
- - tags: ['personal']
-
-## None
- - [https://michaellabelle.com](https://michaellabelle.com)
- - date published: 2024-01-10T22:41:16.724719+00:00
- - user: None
- - tags: []
-
-## Michael's Notebook
- - [https://michaelnotebook.com](https://michaelnotebook.com)
- - date published: 2023-10-25T08:47:16.324263+00:00
- - user: None
- - tags: ['personal']
-
-## Wide Awake Developers
- - [https://www.michaelnygard.com](https://www.michaelnygard.com)
- - date published: 2023-10-25T16:02:49.444422+00:00
- - user: None
- - tags: []
-
-## The New Normal | Michael P Senger | Substack
- - [https://www.michaelpsenger.com](https://www.michaelpsenger.com)
- - date published: 2023-11-01T08:41:20.462876+00:00
- - user: None
- - tags: []
-
-## Hi there 👋
- - [https://michaelrbock.com](https://michaelrbock.com)
- - date published: 2023-12-11T10:57:55.589456+00:00
- - user: None
- - tags: ['personal']
-
-## Michael Samsel Therapist Seattle
- - [https://www.michaelsamsel.com](https://www.michaelsamsel.com)
- - date published: 2023-10-25T16:02:51.669719+00:00
- - user: None
- - tags: []
-
-## Michel Fortin | Visibility Marketing & SEO Strategy Expert
- - [https://michelfortin.com](https://michelfortin.com)
- - date published: 2023-11-29T17:16:25.427969+00:00
- - user: None
- - tags: ['seo', 'personal']
-
-## Michel Griffin - [En]chanteur franglais
- - [https://www.michelgriffin.com](https://www.michelgriffin.com)
- - date published: 2023-11-29T17:09:14.174486+00:00
- - user: None
- - tags: []
-
-## Michigan Post | Today's Front Page, Breaking News, World, Politics
- - [https://michigan-post.com](https://michigan-post.com)
- - date published: 2023-11-23T19:54:39.421012+00:00
- - user: None
- - tags: []
-
-## Home | Mickey Delp dot com
- - [https://mickeydelp.com](https://mickeydelp.com)
- - date published: 2024-01-09T02:43:50.140818+00:00
- - user: None
- - tags: []
-
-## Mickey Mellen
- - [https://www.mickmel.com](https://www.mickmel.com)
- - date published: 2023-10-25T16:02:56.827577+00:00
- - user: None
- - tags: []
-
-## Micro Focus is now OpenText
- - [https://www.microfocus.com](https://www.microfocus.com)
- - date published: 2023-10-25T16:03:01.109438+00:00
- - user: None
- - tags: []
-
-## Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
- - [https://microjs.com](https://microjs.com)
- - date published: 2024-01-09T02:43:52.181231+00:00
- - user: None
- - tags: []
-
-## MicroMac Technology's Home Page for Macintosh Upgrades and Accelerators
- - [https://www.micromac.com](https://www.micromac.com)
- - date published: 2023-12-02T08:30:30.624398+00:00
- - user: None
- - tags: []
-
-## MicroProse | The name of the game in strategy and simulation
- - [https://www.microprose.com](https://www.microprose.com)
- - date published: 2023-11-06T10:58:40.981934+00:00
- - user: None
- - tags: ['amiga', 'game studio']
-
-## Micro SaaS HQ
- - [https://microsaashq.com](https://microsaashq.com)
- - date published: 2023-10-25T16:03:04.818064+00:00
- - user: None
- - tags: []
-
-## Microsoft Apps
- - [https://apps.microsoft.com](https://apps.microsoft.com)
- - date published: 2023-10-25T13:36:42.240354+00:00
- - user: None
- - tags: ['app store']
-
-## Find the right app | Microsoft AppSource
- - [https://appsource.microsoft.com](https://appsource.microsoft.com)
- - date published: 2023-10-25T16:03:13.347631+00:00
- - user: None
- - tags: []
-
-## Cloud Computing Services | Microsoft Azure
- - [https://azure.microsoft.com](https://azure.microsoft.com)
- - date published: 2023-10-25T16:03:25.472197+00:00
- - user: None
- - tags: []
-
-## Blog usługi Microsoft Fabric
- - [https://blog.fabric.microsoft.com](https://blog.fabric.microsoft.com)
- - date published: 2023-10-25T09:34:04.976907+00:00
- - user: None
- - tags: []
-
-## The Official Microsoft Blog
- - [https://blogs.microsoft.com](https://blogs.microsoft.com)
- - date published: 2023-10-25T09:34:08.525842+00:00
- - user: None
- - tags: []
-
-## Home - Cloud Perspectives Blog
- - [https://cloudblogs.microsoft.com](https://cloudblogs.microsoft.com)
- - date published: 2023-10-25T09:34:15.781614+00:00
- - user: None
- - tags: []
-
-## Microsoft Designer - Stunning designs in a flash
- - [https://designer.microsoft.com](https://designer.microsoft.com)
- - date published: 2023-10-25T16:03:31.208056+00:00
- - user: None
- - tags: []
-
-## DevBlogs - Microsoft Developer Blogs
- - [https://devblogs.microsoft.com](https://devblogs.microsoft.com)
- - date published: 2023-10-25T10:14:03.592606+00:00
- - user: None
- - tags: []
-
-## Microsoft Developer
- - [https://developer.microsoft.com](https://developer.microsoft.com)
- - date published: 2024-01-15T13:49:47.590358+00:00
- - user: None
- - tags: []
-
-## Microsoft Learn: Build skills that open doors in your career
- - [https://docs.microsoft.com](https://docs.microsoft.com)
- - date published: 2023-10-25T11:30:47.045143+00:00
- - user: None
- - tags: []
-
-## Search Jobs | Microsoft Careers
- - [https://jobs.careers.microsoft.com](https://jobs.careers.microsoft.com)
- - date published: 2023-10-25T11:31:38.386584+00:00
- - user: None
- - tags: []
-
-## Microsoft Learn: Build skills that open doors in your career
- - [https://learn.microsoft.com](https://learn.microsoft.com)
- - date published: 2023-10-25T11:30:34.619514+00:00
- - user: None
- - tags: []
-
-## Microsoft Security Response Center
- - [https://msrc.microsoft.com](https://msrc.microsoft.com)
- - date published: 2023-10-25T11:31:41.607143+00:00
- - user: None
- - tags: []
-
-## Homepage - Source
- - [https://news.microsoft.com](https://news.microsoft.com)
- - date published: 2023-10-25T10:52:37.879287+00:00
- - user: None
- - tags: []
-
-## Microsoft Support
- - [https://support.microsoft.com](https://support.microsoft.com)
- - date published: 2023-10-25T16:03:34.137323+00:00
- - user: None
- - tags: []
-
-## checking your credentials..
- - [https://teams.microsoft.com](https://teams.microsoft.com)
- - date published: 2023-10-25T16:03:34.551273+00:00
- - user: None
- - tags: []
-
-## Home - Microsoft Community Hub
- - [https://techcommunity.microsoft.com](https://techcommunity.microsoft.com)
- - date published: 2023-10-25T10:52:42.152193+00:00
- - user: None
- - tags: []
-
-## Visual Studio: IDE and Code Editor for Software Developers and Teams
- - [https://visualstudio.microsoft.com](https://visualstudio.microsoft.com)
- - date published: 2023-11-03T20:33:06.635502+00:00
- - user: None
- - tags: ['ide', 'visual studio']
-
-## Microsoft – chmura, komputery, aplikacje i gry
- - [https://www.microsoft.com](https://www.microsoft.com)
- - date published: 2023-10-25T11:26:39.907068+00:00
- - user: None
- - tags: ['company', 'gatekeeper', 'edge']
-
-## Office Insiders
- - [https://insider.microsoft365.com](https://insider.microsoft365.com)
- - date published: 2023-11-01T08:42:38.686906+00:00
- - user: None
- - tags: []
-
-## Sign in to your account
- - [https://login.microsoftonline.com](https://login.microsoftonline.com)
- - date published: 2023-12-11T17:43:06.294391+00:00
- - user: None
- - tags: []
-
-## Cloud-Based Medical Office Software & Billing Services
- - [https://www.microwize.com](https://www.microwize.com)
- - date published: 2024-01-10T14:29:04.664029+00:00
- - user: None
- - tags: []
-
-## Middle East Monitor
- - [https://www.middleeastmonitor.com](https://www.middleeastmonitor.com)
- - date published: 2023-11-05T15:09:13.933802+00:00
- - user: None
- - tags: []
-
-## Hudson Valley News - Daily Breaking Stories | Mid Hudson News
- - [https://midhudsonnews.com](https://midhudsonnews.com)
- - date published: 2023-11-24T15:24:08.581764+00:00
- - user: None
- - tags: []
-
-## https://www.midjourney.com
- - [https://www.midjourney.com](https://www.midjourney.com)
- - date published: 2023-10-25T11:35:57.322285+00:00
- - user: None
- - tags: ['artificial intelligence']
-
-## Search for Music Using Your Voice by Singing or Humming, View Music Videos, Join Fan Clubs, Share with Friends, Be Discovered and Much More For Free! - midomi.com
- - [https://www.midomi.com](https://www.midomi.com)
- - date published: 2023-10-28T18:42:53.364247+00:00
- - user: None
- - tags: ['music']
 

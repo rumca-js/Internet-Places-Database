@@ -1,3 +1,562 @@
+## The Pudding
+ - [https://pudding.cool](https://pudding.cool)
+ - date published: 2023-10-25T18:26:52.831116+00:00
+ - user: None
+ - tags: []
+
+## Webhook.Cool - Online Webhook Tester
+ - [https://webhook.cool](https://webhook.cool)
+ - date published: 2024-01-08T18:35:40.117613+00:00
+ - user: None
+ - tags: []
+
+## Hellō
+ - [https://www.hello.coop](https://www.hello.coop)
+ - date published: 2023-10-25T18:26:53.905223+00:00
+ - user: None
+ - tags: []
+
+## THOMAS SCHINDLER
+ - [https://thomas.cr](https://thomas.cr)
+ - date published: 2023-12-02T21:17:20.516738+00:00
+ - user: None
+ - tags: ['personal']
+
+## Explore
+ - [https://read.cv](https://read.cv)
+ - date published: 2023-12-11T16:12:03.063746+00:00
+ - user: None
+ - tags: []
+
+## [lcamtuf.coredump.cx]
+ - [https://lcamtuf.coredump.cx](https://lcamtuf.coredump.cx)
+ - date published: 2023-10-25T18:26:54.648487+00:00
+ - user: None
+ - tags: []
+
+## Kostya's Boring Codec World
+ - [https://codecs.multimedia.cx](https://codecs.multimedia.cx)
+ - date published: 2023-10-25T18:27:06.338688+00:00
+ - user: None
+ - tags: []
+
+## REcon - Home
+ - [https://www.recon.cx](https://www.recon.cx)
+ - date published: 2023-10-25T18:27:08.079660+00:00
+ - user: None
+ - tags: []
+
+## Amiga Hardware Database
+ - [https://amiga.resource.cx](https://amiga.resource.cx)
+ - date published: 2023-11-02T10:38:55.509567+00:00
+ - user: None
+ - tags: []
+
+## https://www.amiga.cz
+ - [https://www.amiga.cz](https://www.amiga.cz)
+ - date published: 2024-01-09T02:55:51.231423+00:00
+ - user: None
+ - tags: []
+
+## Akademie věd České republiky - Akademie věd České republiky
+ - [https://www.avcr.cz](https://www.avcr.cz)
+ - date published: 2024-01-09T02:55:56.941147+00:00
+ - user: None
+ - tags: []
+
+## Vít Baisa
+ - [https://vit.baisa.cz](https://vit.baisa.cz)
+ - date published: 2024-01-05T16:52:12.245958+00:00
+ - user: None
+ - tags: []
+
+## Česká televize
+ - [https://www.ceskatelevize.cz](https://www.ceskatelevize.cz)
+ - date published: 2023-12-09T12:19:22.067454+00:00
+ - user: None
+ - tags: []
+
+## Nákup nových a ojetých vozů | Automobil | CITROËN Česká republika
+ - [https://www.citroen.cz](https://www.citroen.cz)
+ - date published: 2023-12-11T16:03:45.511374+00:00
+ - user: None
+ - tags: []
+
+## Department of Distributed and Dependable Systems | D3S
+ - [https://d3s.mff.cuni.cz](https://d3s.mff.cuni.cz)
+ - date published: 2023-11-03T00:27:03.410640+00:00
+ - user: None
+ - tags: []
+
+## Expats.cz - The Czech Republic's leading English language website
+ - [https://www.expats.cz](https://www.expats.cz)
+ - date published: 2023-11-08T11:51:18.565360+00:00
+ - user: None
+ - tags: []
+
+## Jiri Stepanovsky
+ - [https://www.jiristepanovsky.cz](https://www.jiristepanovsky.cz)
+ - date published: 2023-10-25T18:27:15.846550+00:00
+ - user: None
+ - tags: []
+
+## MorphOS Software - Czech PowerPC User Group
+ - [https://morphos.lukysoft.cz](https://morphos.lukysoft.cz)
+ - date published: 2024-01-09T02:56:03.184813+00:00
+ - user: None
+ - tags: []
+
+## Mapy.cz
+ - [https://mapy.cz](https://mapy.cz)
+ - date published: 2023-10-25T18:27:28.698444+00:00
+ - user: None
+ - tags: []
+
+## MAXELL's HOME
+ - [https://mxl.cz](https://mxl.cz)
+ - date published: 2024-01-09T02:56:03.815327+00:00
+ - user: None
+ - tags: []
+
+## Nitter.cz / NoLog.cz
+ - [https://nitter.cz](https://nitter.cz)
+ - date published: 2024-01-02T19:33:46.047119+00:00
+ - user: None
+ - tags: []
+
+## News from the Czech Republic
+ - [https://english.radio.cz](https://english.radio.cz)
+ - date published: 2023-12-19T14:00:57.181642+00:00
+ - user: None
+ - tags: []
+
+## RetroGames.cz - Play Old Games ONLINE
+ - [https://www.retrogames.cz](https://www.retrogames.cz)
+ - date published: 2023-10-25T11:10:17.378675+00:00
+ - user: None
+ - tags: []
+
+## Kamil Tomšík
+ - [https://tomsik.cz](https://tomsik.cz)
+ - date published: 2023-12-09T18:59:39.029990+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dawn of the Dad
+ - [https://dawnofthe.dad](https://dawnofthe.dad)
+ - date published: 2023-10-25T18:27:30.960009+00:00
+ - user: None
+ - tags: []
+
+## sweet & sour notes
+ - [https://write.hamster.dance](https://write.hamster.dance)
+ - date published: 2023-10-25T18:27:33.948069+00:00
+ - user: None
+ - tags: []
+
+## sorry@idont.date
+ - [https://sorry.idont.date](https://sorry.idont.date)
+ - date published: 2023-10-25T18:27:35.295304+00:00
+ - user: None
+ - tags: []
+
+## Playdate News
+ - [https://news.play.date](https://news.play.date)
+ - date published: 2023-11-01T08:43:29.130061+00:00
+ - user: None
+ - tags: []
+
+## ROAST - Best Dating Profile Review for Tinder, Hinge, Bumble
+ - [https://roast.dating](https://roast.dating)
+ - date published: 2024-01-05T10:54:35.570137+00:00
+ - user: None
+ - tags: []
+
+## Smell Dating
+ - [https://smell.dating](https://smell.dating)
+ - date published: 2023-10-25T18:27:37.466544+00:00
+ - user: None
+ - tags: []
+
+## Darnell (Seize The Day)
+ - [https://darnell.day](https://darnell.day)
+ - date published: 2023-10-25T18:27:40.908329+00:00
+ - user: None
+ - tags: []
+
+## dade
+ - [https://0xda.de](https://0xda.de)
+ - date published: 2023-10-25T18:27:43.060988+00:00
+ - user: None
+ - tags: []
+
+## Thomas' Digital Garden
+ - [https://www.2uo.de](https://www.2uo.de)
+ - date published: 2023-10-25T18:27:45.765864+00:00
+ - user: None
+ - tags: []
+
+## ALBs Blog | Freepascal, AROS, Amiga, Lazarus
+ - [https://blog.alb42.de](https://blog.alb42.de)
+ - date published: 2023-12-11T18:35:45.310101+00:00
+ - user: None
+ - tags: []
+
+## amiga-news.de - Amiga-News auf den Punkt gebracht
+ - [https://amiga-news.de](https://amiga-news.de)
+ - date published: 2023-10-25T11:01:48.109047+00:00
+ - user: None
+ - tags: []
+
+## amiga-news.de - Amiga-News auf den Punkt gebracht
+ - [https://www.amiga-news.de](https://www.amiga-news.de)
+ - date published: 2024-01-09T02:56:04.543993+00:00
+ - user: None
+ - tags: []
+
+## Startseite
+ - [http://amiga-spiele.de](http://amiga-spiele.de)
+ - date published: 2023-11-02T09:56:45.846843+00:00
+ - user: None
+ - tags: ['amiga']
+
+## TAWS - The Amiga Workbench Simulation is loading...
+ - [https://amigaevent.de](https://amigaevent.de)
+ - date published: 2023-12-11T19:07:32.453372+00:00
+ - user: None
+ - tags: []
+
+## Amiga Future
+ - [https://www.amigafuture.de](https://www.amigafuture.de)
+ - date published: 2023-12-11T18:37:24.839529+00:00
+ - user: None
+ - tags: []
+
+## Startseite
+ - [https://amigaland.de](https://amigaland.de)
+ - date published: 2023-12-11T19:06:58.734072+00:00
+ - user: None
+ - tags: []
+
+## AmigaPortal.de Gewinnspiel 2023
+ - [https://gewinnspiel.amigaportal.de](https://gewinnspiel.amigaportal.de)
+ - date published: 2024-01-09T02:56:06.537699+00:00
+ - user: None
+ - tags: []
+
+## AmigaPortal.de
+ - [https://www.amigaportal.de](https://www.amigaportal.de)
+ - date published: 2023-12-11T16:52:08.242908+00:00
+ - user: None
+ - tags: []
+
+## social.anoxinon.de - Mastodon
+ - [https://social.anoxinon.de](https://social.anoxinon.de)
+ - date published: 2023-10-24T20:13:21.748400+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## APC-TCP.de
+ - [https://www.apc-tcp.de](https://www.apc-tcp.de)
+ - date published: 2024-01-09T02:56:12.796640+00:00
+ - user: None
+ - tags: []
+
+## Ascii Art Dictionary (Andreas Freise)
+ - [https://www.ascii-art.de](https://www.ascii-art.de)
+ - date published: 2024-01-09T02:56:13.535941+00:00
+ - user: None
+ - tags: []
+
+## Новости Германии: последние события на русском языке
+ - [https://aussiedlerbote.de](https://aussiedlerbote.de)
+ - date published: 2023-11-28T21:06:27.794315+00:00
+ - user: None
+ - tags: []
+
+## Auto News, Automarken und Testberichte - autozeitung.de
+ - [https://www.autozeitung.de](https://www.autozeitung.de)
+ - date published: 2023-12-06T11:50:31+00:00
+ - user: rumpel
+ - tags: ['vehicle news']
+
+## AWS Works Council Germany
+ - [https://www.aws-works-council-initiative.de](https://www.aws-works-council-initiative.de)
+ - date published: 2023-10-25T18:27:47.880406+00:00
+ - user: None
+ - tags: []
+
+## Baker Tilly. 4 Perspektiven. Eine Lösung. Weltweit.
+ - [https://www.bakertilly.de](https://www.bakertilly.de)
+ - date published: 2023-10-25T18:27:57.686783+00:00
+ - user: None
+ - tags: []
+
+## Ballettschule Frankfurt Ostend - Ballett für Kinder und Erwachsene
+ - [https://www.ballettstudio-ost.de](https://www.ballettstudio-ost.de)
+ - date published: 2023-11-29T14:43:02.887375+00:00
+ - user: None
+ - tags: ['personal']
+
+## Benchkram
+ - [https://benchkram.de](https://benchkram.de)
+ - date published: 2023-10-25T18:27:59.151379+00:00
+ - user: None
+ - tags: []
+
+## Bernd Paysan
+ - [https://bernd-paysan.de](https://bernd-paysan.de)
+ - date published: 2024-01-08T13:27:29.644413+00:00
+ - user: None
+ - tags: []
+
+## BfS  -  Startseite
+ - [https://www.bfs.de](https://www.bfs.de)
+ - date published: 2023-10-25T18:28:14.718430+00:00
+ - user: None
+ - tags: []
+
+## Aktuelle Nachrichten | BILD.de
+ - [https://bild.de](https://bild.de)
+ - date published: 2023-10-29T18:16:15.369094+00:00
+ - user: rumpel
+ - tags: ['germany news']
+
+## Aktuelle Nachrichten | BILD.de
+ - [https://m.bild.de](https://m.bild.de)
+ - date published: 2023-10-29T18:15:30.206767+00:00
+ - user: None
+ - tags: ['news']
+
+## Aktuelle Nachrichten | BILD.de
+ - [https://www.bild.de](https://www.bild.de)
+ - date published: 2023-10-25T18:28:30.805665+00:00
+ - user: None
+ - tags: []
+
+## Welcome - BioWissKomm
+ - [https://www.biowisskomm.de](https://www.biowisskomm.de)
+ - date published: 2024-01-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## BRouter: Advanced OSM Routing
+ - [https://www.brouter.de](https://www.brouter.de)
+ - date published: 2024-01-09T02:56:14.180424+00:00
+ - user: None
+ - tags: []
+
+## social.bund.de
+ - [https://social.bund.de](https://social.bund.de)
+ - date published: 2023-10-25T18:28:31.356395+00:00
+ - user: None
+ - tags: []
+
+## Bundestagsshop
+ - [https://www.bundestagsshop.de](https://www.bundestagsshop.de)
+ - date published: 2023-12-07T12:22:20.768351+00:00
+ - user: None
+ - tags: []
+
+## Bundesverfassungsgericht  -  Startseite
+ - [https://www.bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de)
+ - date published: 2023-10-25T18:28:33.150667+00:00
+ - user: None
+ - tags: []
+
+## Carmen Radeck – thoughts and stuff
+ - [https://carmenradeck.de](https://carmenradeck.de)
+ - date published: 2024-01-08T15:37:43.540623+00:00
+ - user: None
+ - tags: []
+
+## Caspar’s Website | Caspar von Wrede
+ - [https://casparwre.de](https://casparwre.de)
+ - date published: 2023-10-25T18:28:35.732274+00:00
+ - user: None
+ - tags: []
+
+## 37C3 Call For Participation
+ - [https://content.events.ccc.de](https://content.events.ccc.de)
+ - date published: 2023-10-25T18:28:37.146400+00:00
+ - user: None
+ - tags: []
+
+## CCC Event Blog
+ - [https://events.ccc.de](https://events.ccc.de)
+ - date published: 2023-10-25T18:28:39.662895+00:00
+ - user: None
+ - tags: []
+
+## Schedule 37th Chaos Communication Congress
+ - [https://fahrplan.events.ccc.de](https://fahrplan.events.ccc.de)
+ - date published: 2023-12-26T23:02:30.939237+00:00
+ - user: None
+ - tags: []
+
+## media.ccc.de -
+home
+ - [https://media.ccc.de](https://media.ccc.de)
+ - date published: 2023-10-25T18:28:41.208202+00:00
+ - user: None
+ - tags: ['chaos computer club', 'hackers']
+
+## See you soon … somewhere else! – C3VOC Streaming
+ - [https://streaming.media.ccc.de](https://streaming.media.ccc.de)
+ - date published: 2023-10-25T18:28:42.515686+00:00
+ - user: None
+ - tags: []
+
+## CCC | Startseite
+ - [https://www.ccc.de](https://www.ccc.de)
+ - date published: 2023-10-25T18:28:44.193001+00:00
+ - user: None
+ - tags: []
+
+## Yet another IT blog
+ - [https://ch-st.de](https://ch-st.de)
+ - date published: 2023-11-06T18:48:19.602527+00:00
+ - user: None
+ - tags: []
+
+## Startseite
+ - [https://www.charite.de](https://www.charite.de)
+ - date published: 2023-12-15T11:10:59.766023+00:00
+ - user: None
+ - tags: []
+
+## Latest Blog Posts
+ - [https://christiantietze.de](https://christiantietze.de)
+ - date published: 2023-12-09T14:59:41.845777+00:00
+ - user: None
+ - tags: ['personal']
+
+## Citroën PKW, Nutzfahrzeuge, Elektroautos | Citroën Deutschland
+ - [https://www.citroen.de](https://www.citroen.de)
+ - date published: 2023-12-11T16:04:22.581093+00:00
+ - user: None
+ - tags: []
+
+## CKTN Forum - Tech & Privacy for People
+ - [https://forum.cktn.de](https://forum.cktn.de)
+ - date published: 2023-10-25T18:28:48.772187+00:00
+ - user: None
+ - tags: []
+
+## The Cyber Vanguard
+ - [https://cyber.dabamos.de](https://cyber.dabamos.de)
+ - date published: 2023-10-27T11:56:58.035109+00:00
+ - user: None
+ - tags: []
+
+## DROPS - Series
+ - [https://drops.dagstuhl.de](https://drops.dagstuhl.de)
+ - date published: 2023-10-25T18:29:09.557733+00:00
+ - user: None
+ - tags: []
+
+## Fedor Indutny's Blog
+ - [https://darksi.de](https://darksi.de)
+ - date published: 2023-12-16T13:36:25.831545+00:00
+ - user: None
+ - tags: []
+
+## Datawrapper Blog
+ - [https://blog.datawrapper.de](https://blog.datawrapper.de)
+ - date published: 2023-10-25T18:29:23.861867+00:00
+ - user: None
+ - tags: []
+
+## Blogless — Writing Articles online without a Blog
+ - [https://blogless.datenbrei.de](https://blogless.datenbrei.de)
+ - date published: 2023-10-25T18:29:26.642822+00:00
+ - user: None
+ - tags: []
+
+## lists.denx.de Mailing Lists
+ - [https://lists.denx.de](https://lists.denx.de)
+ - date published: 2023-10-25T18:29:27.869041+00:00
+ - user: None
+ - tags: []
+
+## Deutschlands größtes Beschleunigerzentrum - Deutsches Elektronen-Synchrotron DESY
+ - [https://www.desy.de](https://www.desy.de)
+ - date published: 2023-10-25T18:29:33.914611+00:00
+ - user: None
+ - tags: []
+
+## deutschland.de - Your link to Germany
+ - [https://www.deutschland.de](https://www.deutschland.de)
+ - date published: 2023-10-25T18:29:41.108581+00:00
+ - user: None
+ - tags: []
+
+## :: DJ TOBANDER - Official Website ::
+ - [https://dj-tobander.de](https://dj-tobander.de)
+ - date published: 2024-01-12T02:34:43.341559+00:00
+ - user: None
+ - tags: []
+
+## German Cancer Research Center
+ - [https://www.dkfz.de](https://www.dkfz.de)
+ - date published: 2023-10-25T18:30:06.376806+00:00
+ - user: None
+ - tags: []
+
+## e-basteln
+ - [https://www.e-basteln.de](https://www.e-basteln.de)
+ - date published: 2023-10-25T18:30:07.534543+00:00
+ - user: None
+ - tags: []
+
+## Startseite - Econtribute
+ - [https://www.econtribute.de](https://www.econtribute.de)
+ - date published: 2023-10-25T18:30:10.727479+00:00
+ - user: None
+ - tags: []
+
+## Fabian Kleiser
+ - [https://www.fabian-keller.de](https://www.fabian-keller.de)
+ - date published: 2023-12-27T01:00:18.809608+00:00
+ - user: None
+ - tags: ['personal']
+
+## FACTOR 5
+ - [http://www.factor5.de](http://www.factor5.de)
+ - date published: 2023-11-02T10:55:33.784420+00:00
+ - user: None
+ - tags: ['amiga']
+
+## fantotal.de Onlineshop für Merchandise | CDs Vinyl | Gothic Metal Pun
+ - [https://fantotal.de](https://fantotal.de)
+ - date published: 2023-11-13T09:40:58.541752+00:00
+ - user: None
+ - tags: ['music', 'shop']
+
+## Lemmymap - a lemmy federation map
+ - [https://lemmymap.feddit.de](https://lemmymap.feddit.de)
+ - date published: 2023-10-25T18:30:11.155382+00:00
+ - user: None
+ - tags: []
+
+## felix fisgus | Felix Fisgus
+ - [https://felixfisgus.de](https://felixfisgus.de)
+ - date published: 2023-10-25T18:30:12.186826+00:00
+ - user: None
+ - tags: []
+
+## Felix Geisendörfer
+ - [https://blog.felixge.de](https://blog.felixge.de)
+ - date published: 2023-10-25T18:30:14.021327+00:00
+ - user: None
+ - tags: []
+
+## Fenix Magazin - Početna
+ - [https://fenix-magazin.de](https://fenix-magazin.de)
+ - date published: 2023-10-30T19:00:12.736074+00:00
+ - user: None
+ - tags: []
+
 ## feststelltaste – About Legacy Systems, Software Analytics and the Fundamental Problems of Software Engineering
  - [https://www.feststelltaste.de](https://www.feststelltaste.de)
  - date published: 2023-10-25T18:30:19.967784+00:00
@@ -418,6 +977,12 @@
  - user: None
  - tags: []
 
+## Nupita - [nu:b i:ta]
+ - [https://nupita.de](https://nupita.de)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## APK Downloader for PC
  - [https://raccoon.onyxbits.de](https://raccoon.onyxbits.de)
  - date published: 2023-10-25T18:32:24.624846+00:00
@@ -661,6 +1226,12 @@
 ## Timo Zander — Cologne-based Software Developer
  - [https://timozander.de](https://timozander.de)
  - date published: 2023-10-25T18:32:57.895419+00:00
+ - user: None
+ - tags: []
+
+## transmediale
+ - [https://transmediale.de](https://transmediale.de)
+ - date published: 2024-01-20T21:52:31.006351+00:00
  - user: None
  - tags: []
 
@@ -2892,6 +3463,12 @@
  - user: None
  - tags: []
 
+## Pydantic
+ - [https://pydantic.dev](https://pydantic.dev)
+ - date published: 2024-01-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['online validation', 'online tool']
+
 ## Chris James - Learn Go with Tests reaches 20k stars
  - [https://quii.dev](https://quii.dev)
  - date published: 2023-10-25T18:41:02.923807+00:00
@@ -2998,6 +3575,12 @@
 ## Rocicorp, LLC
  - [https://rocicorp.dev](https://rocicorp.dev)
  - date published: 2023-10-27T11:57:00.995943+00:00
+ - user: None
+ - tags: []
+
+## ./
+ - [https://www.rohitagarwal.dev](https://www.rohitagarwal.dev)
+ - date published: 2024-01-20T02:44:55.146355+00:00
  - user: None
  - tags: []
 
@@ -3905,6 +4488,12 @@
 ## Alejandro Machado – Projects
  - [https://alejandro.macha.do](https://alejandro.macha.do)
  - date published: 2024-01-02T18:28:44.845981+00:00
+ - user: None
+ - tags: []
+
+## HOME | LIS.DOCTOR
+ - [https://lis.doctor](https://lis.doctor)
+ - date published: 2024-01-19T01:54:20.473301+00:00
  - user: None
  - tags: []
 
@@ -5419,600 +6008,6 @@
 ## Scripps Research
  - [https://www.scripps.edu](https://www.scripps.edu)
  - date published: 2024-01-06T17:19:10.654645+00:00
- - user: None
- - tags: []
-
-## Santa Clara University: The Jesuit University in Silicon Valley
- - [https://www.scu.edu](https://www.scu.edu)
- - date published: 2023-11-21T17:24:48.452481+00:00
- - user: None
- - tags: []
-
-## https://edoras.sdsu.edu
- - [https://edoras.sdsu.edu](https://edoras.sdsu.edu)
- - date published: 2024-01-09T03:27:54.033795+00:00
- - user: None
- - tags: []
-
-## Homepage | National Air and Space Museum
- - [https://airandspace.si.edu](https://airandspace.si.edu)
- - date published: 2023-11-13T13:53:14.274573+00:00
- - user: None
- - tags: ['aviation', 'aerospace', 'museum']
-
-## Home | National Museum of American History
- - [https://americanhistory.si.edu](https://americanhistory.si.edu)
- - date published: 2023-10-25T18:57:48.749072+00:00
- - user: None
- - tags: []
-
-## Chandra X-ray Observatory - NASA's flagship X-ray telescope
- - [https://chandra.si.edu](https://chandra.si.edu)
- - date published: 2023-10-25T18:57:53.939009+00:00
- - user: None
- - tags: []
-
-## Request Rejected
- - [https://nationalzoo.si.edu](https://nationalzoo.si.edu)
- - date published: 2023-11-09T12:24:21.084128+00:00
- - user: None
- - tags: []
-
-## A People’s Journey, A Nation’s Story | National Museum of African American History and Culture
- - [https://nmaahc.si.edu](https://nmaahc.si.edu)
- - date published: 2023-11-13T13:44:30.377020+00:00
- - user: None
- - tags: ['museum']
-
-## Lemelson Center for the Study of Invention and Innovation
- - [https://www.invention.si.edu](https://www.invention.si.edu)
- - date published: 2023-12-12T22:57:53.346127+00:00
- - user: None
- - tags: []
-
-## Smithsonian Institution | Home
- - [https://www.si.edu](https://www.si.edu)
- - date published: 2023-10-25T18:57:58.976078+00:00
- - user: None
- - tags: []
-
-## St. John's College | Liberal Arts College with a World-Class Faculty
- - [https://www.sjc.edu](https://www.sjc.edu)
- - date published: 2023-10-25T18:58:03.261142+00:00
- - user: None
- - tags: []
-
-## Stanford Artificial Intelligence Laboratory
- - [https://ai.stanford.edu](https://ai.stanford.edu)
- - date published: 2023-10-25T18:58:06.440600+00:00
- - user: None
- - tags: []
-
-## Artificial Intelligence Index
- - [https://aiindex.stanford.edu](https://aiindex.stanford.edu)
- - date published: 2023-10-25T18:58:07.854720+00:00
- - user: None
- - tags: []
-
-## Stanford CRFM
- - [https://crfm.stanford.edu](https://crfm.stanford.edu)
- - date published: 2023-10-25T18:58:08.596511+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://cs.stanford.edu](https://cs.stanford.edu)
- - date published: 2023-10-25T11:23:16.227465+00:00
- - user: None
- - tags: []
-
-## Stanford CVA Group - Concurrent VLSI Architecture Group
- - [http://cva.stanford.edu](http://cva.stanford.edu)
- - date published: 2023-10-25T18:58:09.358599+00:00
- - user: None
- - tags: []
-
-## Cyber Policy Center | FSI
- - [https://cyber.fsi.stanford.edu](https://cyber.fsi.stanford.edu)
- - date published: 2023-10-25T18:58:18.772573+00:00
- - user: None
- - tags: []
-
-## Center for Internet and Society | The Center for Internet and Society is a leader in the study of the law & policy around the Internet & emerging technologies.
- - [https://cyberlaw.stanford.edu](https://cyberlaw.stanford.edu)
- - date published: 2023-10-25T18:58:20.662315+00:00
- - user: None
- - tags: []
-
-## Data Science
- - [https://datascience.stanford.edu](https://datascience.stanford.edu)
- - date published: 2023-11-12T13:46:11.993969+00:00
- - user: None
- - tags: []
-
-## https://ee380.stanford.edu
- - [https://ee380.stanford.edu](https://ee380.stanford.edu)
- - date published: 2024-01-09T03:27:56.799112+00:00
- - user: None
- - tags: []
-
-## Home | Stanford HAI
- - [https://hai.stanford.edu](https://hai.stanford.edu)
- - date published: 2023-10-25T18:58:24.324282+00:00
- - user: None
- - tags: []
-
-## Hazy Research
- - [https://hazyresearch.stanford.edu](https://hazyresearch.stanford.edu)
- - date published: 2023-10-25T18:58:25.276211+00:00
- - user: None
- - tags: []
-
-## Stanford HCI Group
- - [https://hci.stanford.edu](https://hci.stanford.edu)
- - date published: 2023-10-25T18:58:28.830172+00:00
- - user: None
- - tags: []
-
-## The Stanford University InfoLab
- - [http://infolab.stanford.edu](http://infolab.stanford.edu)
- - date published: 2023-10-25T11:23:23.038240+00:00
- - user: None
- - tags: []
-
-## Welcome to SLS - Stanford Law School
- - [https://law.stanford.edu](https://law.stanford.edu)
- - date published: 2023-10-25T18:58:32.350011+00:00
- - user: None
- - tags: []
-
-## Home | Learning for a Lifetime | Stanford Online
- - [https://learn.stanford.edu](https://learn.stanford.edu)
- - date published: 2023-12-06T21:05:55.624627+00:00
- - user: None
- - tags: []
-
-## Mathematics
- - [https://math.stanford.edu](https://math.stanford.edu)
- - date published: 2024-01-09T03:28:00.216558+00:00
- - user: None
- - tags: []
-
-## Home | Stanford Medicine
- - [https://med.stanford.edu](https://med.stanford.edu)
- - date published: 2023-10-25T18:58:38.098796+00:00
- - user: None
- - tags: []
-
-## Stanford News
- - [https://news.stanford.edu](https://news.stanford.edu)
- - date published: 2023-10-25T18:58:41.013599+00:00
- - user: None
- - tags: []
-
-## Stanford Encyclopedia of Philosophy
- - [https://plato.stanford.edu](https://plato.stanford.edu)
- - date published: 2023-10-25T18:58:42.260186+00:00
- - user: None
- - tags: []
-
-## Protégé: A free, open-source ontology editor for building intelligent systems
- - [https://protege.stanford.edu](https://protege.stanford.edu)
- - date published: 2023-11-10T17:29:05+00:00
- - user: None
- - tags: []
-
-## Stanford Digital Repository
- - [https://purl.stanford.edu](https://purl.stanford.edu)
- - date published: 2023-12-20T21:10:16.425792+00:00
- - user: None
- - tags: []
-
-## RelBench: Relational Deep Learning Benchmark
- - [https://relbench.stanford.edu](https://relbench.stanford.edu)
- - date published: 2023-11-28T17:41:50.517585+00:00
- - user: None
- - tags: []
-
-## Sebastian Thrun – Home
- - [http://robots.stanford.edu](http://robots.stanford.edu)
- - date published: 2023-10-25T18:58:43.127336+00:00
- - user: None
- - tags: []
-
-## Scope | Stanford Medicine's blog - Scope
- - [https://scopeblog.stanford.edu](https://scopeblog.stanford.edu)
- - date published: 2023-10-25T18:58:46.447141+00:00
- - user: None
- - tags: []
-
-## Stacks
- - [https://stacks.stanford.edu](https://stacks.stanford.edu)
- - date published: 2023-10-25T18:58:47.620111+00:00
- - user: None
- - tags: []
-
-## Home - Stanford Medicine Magazine
- - [https://stanmed.stanford.edu](https://stanmed.stanford.edu)
- - date published: 2023-10-25T18:58:50.836757+00:00
- - user: None
- - tags: []
-
-## Stanford University
- - [https://web.stanford.edu](https://web.stanford.edu)
- - date published: 2023-10-25T11:23:29.593797+00:00
- - user: None
- - tags: ['university']
-
-## Computer Science
- - [https://www-cs-faculty.stanford.edu](https://www-cs-faculty.stanford.edu)
- - date published: 2023-10-25T11:23:38.340991+00:00
- - user: None
- - tags: []
-
-## Formal Reasoning Group
- - [https://www-formal.stanford.edu](https://www-formal.stanford.edu)
- - date published: 2023-10-25T18:59:01.363669+00:00
- - user: None
- - tags: []
-
-## Stanford Graduate School of Business
- - [https://www.gsb.stanford.edu](https://www.gsb.stanford.edu)
- - date published: 2023-10-25T18:59:13.500246+00:00
- - user: None
- - tags: []
-
-## Stanford Secure Computer Systems Group
- - [https://www.scs.stanford.edu](https://www.scs.stanford.edu)
- - date published: 2023-10-25T18:59:15.431486+00:00
- - user: None
- - tags: []
-
-## Stevens Institute of Technology
- - [https://www.stevens.edu](https://www.stevens.edu)
- - date published: 2023-11-02T13:02:30.527891+00:00
- - user: None
- - tags: []
-
-## Engineering People Site
- - [https://people.engr.tamu.edu](https://people.engr.tamu.edu)
- - date published: 2023-10-25T18:59:20.825012+00:00
- - user: None
- - tags: []
-
-## Texas A&M Today - News from Texas A&M University
- - [https://today.tamu.edu](https://today.tamu.edu)
- - date published: 2023-10-25T18:59:22.810212+00:00
- - user: None
- - tags: []
-
-## Open Earable
- - [https://open-earable.teco.edu](https://open-earable.teco.edu)
- - date published: 2023-10-25T18:59:23.641652+00:00
- - user: None
- - tags: []
-
-## Department of Computer & Information Sciences | College of Science and Technology
- - [https://cis.temple.edu](https://cis.temple.edu)
- - date published: 2023-10-25T18:59:25.283156+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science, University of Toronto
- - [https://www.cs.toronto.edu](https://www.cs.toronto.edu)
- - date published: 2023-10-25T18:59:33.196200+00:00
- - user: None
- - tags: []
-
-## Homepage | Department of Computer Science
- - [https://www.cs.tufts.edu](https://www.cs.tufts.edu)
- - date published: 2023-10-25T18:59:37.817720+00:00
- - user: None
- - tags: []
-
-## Tulane News
- - [https://news.tulane.edu](https://news.tulane.edu)
- - date published: 2023-10-25T18:59:42.065237+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.uc.edu](https://www.uc.edu)
- - date published: 2023-11-03T10:54:50.239840+00:00
- - user: None
- - tags: []
-
-## UC Davis College of Letters and Science
- - [https://lettersandscience.ucdavis.edu](https://lettersandscience.ucdavis.edu)
- - date published: 2023-11-03T19:14:18.151008+00:00
- - user: None
- - tags: []
-
-## Computer Science
- - [https://web.cs.ucdavis.edu](https://web.cs.ucdavis.edu)
- - date published: 2023-10-25T18:59:47.853350+00:00
- - user: None
- - tags: []
-
-## UC Davis | California's College Town
- - [https://www.ucdavis.edu](https://www.ucdavis.edu)
- - date published: 2023-10-25T18:59:54.439947+00:00
- - user: None
- - tags: []
-
-## Autonomous and Intelligent Systems – Just another WordPress site
- - [https://eecs.ucf.edu](https://eecs.ucf.edu)
- - date published: 2024-01-09T03:28:03.267934+00:00
- - user: None
- - tags: []
-
-## Becker Friedman Institute for Economics at University of Chicago — Frontier Research, Global Impact. | BFI
- - [https://bfi.uchicago.edu](https://bfi.uchicago.edu)
- - date published: 2023-10-25T18:59:59.078924+00:00
- - user: None
- - tags: []
-
-## Biological Sciences Division at the University of Chicago
- - [https://biologicalsciences.uchicago.edu](https://biologicalsciences.uchicago.edu)
- - date published: 2023-11-27T16:10:30.419743+00:00
- - user: None
- - tags: []
-
-## Geophysical Sciences
- - [https://geosci.uchicago.edu](https://geosci.uchicago.edu)
- - date published: 2023-10-25T19:00:02.742597+00:00
- - user: None
- - tags: []
-
-## Glaze - Protecting Artists from Generative AI
- - [https://glaze.cs.uchicago.edu](https://glaze.cs.uchicago.edu)
- - date published: 2023-10-25T19:00:05.496930+00:00
- - user: None
- - tags: []
-
-## University of Chicago News
- - [https://news.uchicago.edu](https://news.uchicago.edu)
- - date published: 2023-10-25T19:00:12.204385+00:00
- - user: None
- - tags: []
-
-## Home | Pritzker School of Molecular Engineering | The University of Chicago
- - [https://pme.uchicago.edu](https://pme.uchicago.edu)
- - date published: 2023-10-25T11:20:47.091123+00:00
- - user: None
- - tags: []
-
-## https://www.journals.uchicago.edu
- - [https://www.journals.uchicago.edu](https://www.journals.uchicago.edu)
- - date published: 2023-10-25T19:00:13.234205+00:00
- - user: None
- - tags: []
-
-## The University of Chicago Library
-                
-            
-            
-                
-            
-            - The University of Chicago Library
- - [https://www2.lib.uchicago.edu](https://www2.lib.uchicago.edu)
- - date published: 2023-10-25T19:00:18.639938+00:00
- - user: None
- - tags: []
-
-## Home - UC Irvine Donald Bren School of Information & Computer Sciences
- - [https://www.ics.uci.edu](https://www.ics.uci.edu)
- - date published: 2023-10-25T19:00:29.565931+00:00
- - user: None
- - tags: []
-
-## Home | UCI Mathematics
- - [https://www.math.uci.edu](https://www.math.uci.edu)
- - date published: 2023-10-25T19:00:33.632611+00:00
- - user: None
- - tags: []
-
-## Newsroom | UCLA
- - [https://newsroom.ucla.edu](https://newsroom.ucla.edu)
- - date published: 2023-10-25T19:00:36.419553+00:00
- - user: None
- - tags: []
-
-## UCLA Fielding School of Public Health | UCLA Fielding
- - [https://ph.ucla.edu](https://ph.ucla.edu)
- - date published: 2023-10-25T19:00:39.211230+00:00
- - user: None
- - tags: []
-
-## UCLA Cognitive Systems Laboratory (Experimental)
- - [http://singapore.cs.ucla.edu](http://singapore.cs.ucla.edu)
- - date published: 2023-10-25T19:00:41.031479+00:00
- - user: None
- - tags: []
-
-## Lawyers. Leaders. UCLA School of Law. | UCLA Law
- - [https://www2.law.ucla.edu](https://www2.law.ucla.edu)
- - date published: 2023-10-25T19:00:46.288421+00:00
- - user: None
- - tags: []
-
-## Home  - UConn Today
- - [https://today.uconn.edu](https://today.uconn.edu)
- - date published: 2023-10-25T19:00:48.881073+00:00
- - user: None
- - tags: []
-
-## Home | Polynomial-Sized LP Models for Hard COPs
- - [https://tsplp.research.uconn.edu](https://tsplp.research.uconn.edu)
- - date published: 2023-10-25T19:00:52.126830+00:00
- - user: None
- - tags: []
-
-## https://math.ucr.edu
- - [https://math.ucr.edu](https://math.ucr.edu)
- - date published: 2024-01-09T03:28:05.221200+00:00
- - user: None
- - tags: []
-
-## | News
- - [https://news.ucr.edu](https://news.ucr.edu)
- - date published: 2023-10-25T19:00:55.178548+00:00
- - user: None
- - tags: []
-
-## The Agrippa Files
- - [https://agrippa.english.ucsb.edu](https://agrippa.english.ucsb.edu)
- - date published: 2024-01-09T03:28:12.292436+00:00
- - user: None
- - tags: []
-
-## UC Santa Barbara News & Events | The Current
- - [https://news.ucsb.edu](https://news.ucsb.edu)
- - date published: 2023-10-25T19:00:57.283089+00:00
- - user: None
- - tags: []
-
-## UC Santa Barbara News & Events | The Current
- - [https://www.news.ucsb.edu](https://www.news.ucsb.edu)
- - date published: 2023-10-25T19:00:59.328877+00:00
- - user: None
- - tags: []
-
-## University News & Events
- - [https://news.ucsc.edu](https://news.ucsc.edu)
- - date published: 2023-10-25T19:01:04.525669+00:00
- - user: None
- - tags: []
-
-## Home | Computer Science
- - [https://cseweb.ucsd.edu](https://cseweb.ucsd.edu)
- - date published: 2023-10-25T19:01:08.426811+00:00
- - user: None
- - tags: []
-
-## Do the Math | Using physics and estimation to assess energy, growth, options—by Tom Murphy
- - [https://dothemath.ucsd.edu](https://dothemath.ucsd.edu)
- - date published: 2023-10-25T19:01:13.139500+00:00
- - user: None
- - tags: []
-
-## Index of /
- - [https://goto.ucsd.edu](https://goto.ucsd.edu)
- - date published: 2023-10-25T19:01:14.176997+00:00
- - user: None
- - tags: []
-
-## Miller Puckette
- - [https://msp.ucsd.edu](https://msp.ucsd.edu)
- - date published: 2024-01-09T03:28:22.857191+00:00
- - user: None
- - tags: []
-
-## UC San Diego Today
- - [https://today.ucsd.edu](https://today.ucsd.edu)
- - date published: 2023-12-18T14:34:21.556636+00:00
- - user: None
- - tags: []
-
-## UC San Diego Today
- - [https://ucsdnews.ucsd.edu](https://ucsdnews.ucsd.edu)
- - date published: 2024-01-09T03:28:28.295212+00:00
- - user: None
- - tags: []
-
-## Home | UC San Francisco
- - [https://www.ucsf.edu](https://www.ucsf.edu)
- - date published: 2023-10-25T19:01:18.504331+00:00
- - user: None
- - tags: []
-
-## University of Delaware
- - [https://udel.edu](https://udel.edu)
- - date published: 2023-12-23T17:33:38.138635+00:00
- - user: None
- - tags: []
-
-## Center for Cognitive Aging and Memory Clinical Translational Research »  » University of Florida
- - [https://cam.mbi.ufl.edu](https://cam.mbi.ufl.edu)
- - date published: 2023-10-25T19:01:26.632166+00:00
- - user: None
- - tags: []
-
-## Home - News - University of Florida
- - [https://news.ufl.edu](https://news.ufl.edu)
- - date published: 2024-01-04T17:18:14.446846+00:00
- - user: None
- - tags: []
-
-## http://plaza.ufl.edu
- - [http://plaza.ufl.edu](http://plaza.ufl.edu)
- - date published: 2023-10-25T19:01:27.333883+00:00
- - user: None
- - tags: []
-
-## Florida Museum
- - [https://www.floridamuseum.ufl.edu](https://www.floridamuseum.ufl.edu)
- - date published: 2023-11-09T19:00:22.567256+00:00
- - user: None
- - tags: []
-
-## https://digilab.libs.uga.edu
- - [https://digilab.libs.uga.edu](https://digilab.libs.uga.edu)
- - date published: 2024-01-09T03:28:33.119214+00:00
- - user: None
- - tags: []
-
-## National Center for Home Food Preservation
- - [https://nchfp.uga.edu](https://nchfp.uga.edu)
- - date published: 2023-11-01T08:43:32.942121+00:00
- - user: None
- - tags: []
-
-## TinyUGA - link shortener for University of Georgia websites
- - [https://t.uga.edu](https://t.uga.edu)
- - date published: 2023-11-07T14:54:18.985053+00:00
- - user: None
- - tags: []
-
-## Stories - University of Houston
- - [https://stories.uh.edu](https://stories.uh.edu)
- - date published: 2023-10-25T19:01:29.577878+00:00
- - user: None
- - tags: []
-
-## University of Houston
- - [https://uh.edu](https://uh.edu)
- - date published: 2023-10-25T19:01:32.158915+00:00
- - user: None
- - tags: ['university']
-
-## UIC today
- - [https://today.uic.edu](https://today.uic.edu)
- - date published: 2023-10-25T19:01:36.433328+00:00
- - user: None
- - tags: []
-
-## Iowa Now | The University of Iowa
- - [https://now.uiowa.edu](https://now.uiowa.edu)
- - date published: 2023-11-19T05:08:59.202397+00:00
- - user: None
- - tags: []
-
-## The Aggregate
- - [http://aggregate.ee.engr.uky.edu](http://aggregate.ee.engr.uky.edu)
- - date published: 2023-10-25T19:01:38.933454+00:00
- - user: None
- - tags: []
-
-## Home | University of Kentucky College of Arts & Sciences
- - [https://wrd.as.uky.edu](https://wrd.as.uky.edu)
- - date published: 2023-10-25T19:01:42.368454+00:00
- - user: None
- - tags: []
-
-## Manning College of Information and Computer Sciences | UMass Amherst
- - [https://web.cs.umass.edu](https://web.cs.umass.edu)
- - date published: 2023-10-25T19:01:52.332060+00:00
  - user: None
  - tags: []
 
