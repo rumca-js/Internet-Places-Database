@@ -1,3 +1,183 @@
+## The Meson Build system
+ - [https://mesonbuild.com](https://mesonbuild.com)
+ - date published: 2023-10-25T16:01:37.935464+00:00
+ - user: None
+ - tags: []
+
+## Messenger
+ - [https://www.messenger.com](https://www.messenger.com)
+ - date published: 2023-10-25T13:24:05.476740+00:00
+ - user: None
+ - tags: ['gatekeeper', 'social communicator']
+
+## Error
+ - [https://ai.meta.com](https://ai.meta.com)
+ - date published: 2023-12-05T18:26:53.355058+00:00
+ - user: None
+ - tags: []
+
+## Meta
+ - [https://www.meta.com](https://www.meta.com)
+ - date published: 2023-10-27T12:56:25+00:00
+ - user: rumpel
+ - tags: ['meta', 'company', 'facebook', 'gatekeeper']
+
+## μεταcole
+ - [https://metacole.com](https://metacole.com)
+ - date published: 2023-12-17T16:42:28.844399+00:00
+ - user: None
+ - tags: ['personal']
+
+## Movie Reviews, TV Reviews, Game Reviews, and Music Reviews
+ - [https://www.metacritic.com](https://www.metacritic.com)
+ - date published: 2023-10-24T20:20:31.185064+00:00
+ - user: None
+ - tags: ['ranking']
+
+## Metaculus
+ - [https://www.metaculus.com](https://www.metaculus.com)
+ - date published: 2023-10-25T16:01:40.572647+00:00
+ - user: None
+ - tags: []
+
+## DINOv2 by Meta AI
+ - [https://dinov2.metademolab.com](https://dinov2.metademolab.com)
+ - date published: 2023-10-25T16:01:40.973105+00:00
+ - user: None
+ - tags: []
+
+## Metadocs - First Strand Type Extenstion
+ - [https://metadocs8.com](https://metadocs8.com)
+ - date published: 2023-10-25T16:01:41.432105+00:00
+ - user: None
+ - tags: []
+
+## Home - Encyclopaedia Metallum: The Metal Archives
+ - [https://www.metal-archives.com](https://www.metal-archives.com)
+ - date published: 2023-10-29T15:29:31.205442+00:00
+ - user: None
+ - tags: ['music']
+
+## Home - Metal Construction News
+ - [https://www.metalconstructionnews.com](https://www.metalconstructionnews.com)
+ - date published: 2023-11-02T09:15:50.607713+00:00
+ - user: None
+ - tags: []
+
+## Metal In Theory – Analyzing Heavy Metal Music
+ - [https://metalintheory.com](https://metalintheory.com)
+ - date published: 2023-10-25T16:01:44.480654+00:00
+ - user: None
+ - tags: []
+
+## Metallica.com
+ - [https://www.metallica.com](https://www.metallica.com)
+ - date published: 2023-10-30T15:38:28.721707+00:00
+ - user: None
+ - tags: ['music band']
+
+## MetalliCSS
+ - [https://www.metallicss.com](https://www.metallicss.com)
+ - date published: 2023-10-25T16:01:46.787639+00:00
+ - user: None
+ - tags: []
+
+## Metal Wellness
+ - [https://www.metalwellness.com](https://www.metalwellness.com)
+ - date published: 2023-12-01T10:47:40.491393+00:00
+ - user: None
+ - tags: ['personal']
+
+## metablog
+ - [https://blog.metaobject.com](https://blog.metaobject.com)
+ - date published: 2023-10-25T16:01:55.739270+00:00
+ - user: None
+ - tags: []
+
+## In the Cells of the Eggplant | Meta-rationality
+ - [https://metarationality.com](https://metarationality.com)
+ - date published: 2023-12-25T03:43:59.974297+00:00
+ - user: None
+ - tags: []
+
+## Metaroids The Singularity is coming
+ - [https://metaroids.com](https://metaroids.com)
+ - date published: 2023-10-25T16:02:02.144840+00:00
+ - user: None
+ - tags: []
+
+## Status and outages of Meta business products
+ - [https://metastatus.com](https://metastatus.com)
+ - date published: 2023-10-25T16:02:02.544702+00:00
+ - user: None
+ - tags: []
+
+## Metazooa
+ - [https://metazooa.com](https://metazooa.com)
+ - date published: 2023-10-25T16:02:03.276826+00:00
+ - user: None
+ - tags: []
+
+## Mete Balci
+ - [https://metebalci.com](https://metebalci.com)
+ - date published: 2023-12-04T15:32:44.461644+00:00
+ - user: None
+ - tags: []
+
+## Meteosource - The Global Weather API & Mapping Platform - current weather and forecast data
+ - [https://www.meteosource.com](https://www.meteosource.com)
+ - date published: 2023-10-25T16:02:04.837084+00:00
+ - user: None
+ - tags: []
+
+## Meter: Routing, Switching, Wireless, Applications
+ - [https://www.meter.com](https://www.meter.com)
+ - date published: 2023-10-25T16:02:08.107802+00:00
+ - user: None
+ - tags: []
+
+## Methodus 2000
+ - [https://www.methodus2000.com](https://www.methodus2000.com)
+ - date published: 2023-10-25T16:02:08.577916+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Metric-time.com
+ - [https://metric-time.com](https://metric-time.com)
+ - date published: 2023-10-25T16:02:10.118873+00:00
+ - user: None
+ - tags: []
+
+## An Event-Driven Google Analytics Alternative - MetricsWave
+ - [https://metricswave.com](https://metricswave.com)
+ - date published: 2023-10-25T16:02:11.597096+00:00
+ - user: None
+ - tags: []
+
+## Welcome page
+ - [https://www.metzdowd.com](https://www.metzdowd.com)
+ - date published: 2023-10-25T16:02:12.401994+00:00
+ - user: None
+ - tags: []
+
+## meWho.com
+ - [https://www.mewho.com](https://www.mewho.com)
+ - date published: 2023-10-25T16:02:17.586198+00:00
+ - user: None
+ - tags: []
+
+## Home - Mexico News Daily
+ - [https://mexiconewsdaily.com](https://mexiconewsdaily.com)
+ - date published: 2023-11-14T01:23:54.266794+00:00
+ - user: None
+ - tags: []
+
+## meyerweb.com
+ - [https://meyerweb.com](https://meyerweb.com)
+ - date published: 2023-10-25T16:02:20.447342+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Home
  - [https://mhlakhani.com](https://mhlakhani.com)
  - date published: 2023-10-25T16:02:25.332685+00:00
@@ -815,6 +995,12 @@
  - user: None
  - tags: []
 
+## Mobile Dev Memo by Eric Seufert
+ - [https://mobiledevmemo.com](https://mobiledevmemo.com)
+ - date published: 2022-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://mobilesyrup.com](https://mobilesyrup.com)
  - date published: 2023-11-13T04:39:37.774142+00:00
@@ -1166,6 +1352,12 @@
 ## Morgan Hill Times | Morgan Hill, San Martin, CA | Home of the Morgan Hill Times
  - [https://morganhilltimes.com](https://morganhilltimes.com)
  - date published: 2023-10-25T16:06:57.200736+00:00
+ - user: None
+ - tags: []
+
+## welcome to mormoroi
+ - [https://mormoroi.com](https://mormoroi.com)
+ - date published: 2024-01-21T12:29:18.131870+00:00
  - user: None
  - tags: []
 
@@ -3324,6 +3516,12 @@
  - user: None
  - tags: []
 
+## New Jersey Local News, Breaking News, Sports & Weather
+ - [https://www.nj.com](https://www.nj.com)
+ - date published: 2024-01-21T14:14:01.173307+00:00
+ - user: None
+ - tags: []
+
 ## Nik Kantar
  - [https://www.nkantar.com](https://www.nkantar.com)
  - date published: 2023-11-29T15:45:20.884071+00:00
@@ -4150,6 +4348,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Odd Pieces | Mystery Puzzles with a Twist!
+ - [http://oddpieces.com](http://oddpieces.com)
+ - date published: 2024-01-21T19:15:05.349652+00:00
+ - user: None
+ - tags: []
+
 ## Odelia Chan
  - [https://odeliachan.com](https://odeliachan.com)
  - date published: 2023-12-26T19:09:53.729956+00:00
@@ -4305,6 +4509,12 @@ Answering Machine Greetings!
  - date published: 2023-12-14T01:27:02.081623+00:00
  - user: None
  - tags: ['personal']
+
+## Old School Alex
+ - [https://oldschoolalex.com](https://oldschoolalex.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Old School Game Blog
  - [https://oldschoolgameblog.com](https://oldschoolgameblog.com)
@@ -5583,7 +5793,7 @@ Answering Machine Greetings!
  - [https://www.patjk.com](https://www.patjk.com)
  - date published: 2023-12-15T21:43:37.233324+00:00
  - user: None
- - tags: ['personal']
+ - tags: ['personal', 'personal']
 
 ## ~patmaddox: Home
  - [https://patmaddox.com](https://patmaddox.com)
@@ -5794,214 +6004,4 @@ Answering Machine Greetings!
  - date published: 2023-10-25T08:26:52.063948+00:00
  - user: None
  - tags: ['banking']
-
-## PayPal Status Page
- - [https://www.paypal-status.com](https://www.paypal-status.com)
- - date published: 2023-10-25T08:26:54.739488+00:00
- - user: None
- - tags: []
-
-## 403
- - [https://www.paypalobjects.com](https://www.paypalobjects.com)
- - date published: 2023-10-25T16:31:48.214530+00:00
- - user: None
- - tags: []
-
-## Paul Kafasis
- - [https://pbones.com](https://pbones.com)
- - date published: 2023-12-23T07:30:37.057666+00:00
- - user: None
- - tags: ['personal']
-
-## PC Builder AI
- - [https://www.pcbuilderai.com](https://www.pcbuilderai.com)
- - date published: 2023-10-25T16:31:48.907547+00:00
- - user: None
- - tags: []
-
-## PC Gamer
- - [https://www.pcgamer.com](https://www.pcgamer.com)
- - date published: 2023-10-25T10:49:45.933777+00:00
- - user: None
- - tags: []
-
-## PCGamesN | PC gaming news, reviews, and guides
- - [https://www.pcgamesn.com](https://www.pcgamesn.com)
- - date published: 2023-10-25T10:49:52.311261+00:00
- - user: None
- - tags: ['game news']
-
-## Intro: P.C. Maffey
- - [https://pcmaffey.com](https://pcmaffey.com)
- - date published: 2023-10-25T08:47:24.013987+00:00
- - user: None
- - tags: ['personal']
-
-## PCMag.com - Technology Product Reviews, News, Prices & Tips
- - [https://uk.pcmag.com](https://uk.pcmag.com)
- - date published: 2023-10-25T09:34:32.882984+00:00
- - user: None
- - tags: []
-
-## The Latest Technology Product Reviews, News, Tips, and Deals | PCMag
- - [https://www.pcmag.com](https://www.pcmag.com)
- - date published: 2023-10-25T09:34:47.167027+00:00
- - user: None
- - tags: []
-
-## The Starman's Realm
- - [https://thestarman.pcministry.com](https://thestarman.pcministry.com)
- - date published: 2023-10-25T16:31:49.593366+00:00
- - user: None
- - tags: []
-
-## PCWorld
- - [https://www.pcworld.com](https://www.pcworld.com)
- - date published: 2023-10-25T09:34:49.726201+00:00
- - user: None
- - tags: []
-
-## PDF Differ — Compare the differences between two pdfs
- - [https://pdfdiffer.com](https://pdfdiffer.com)
- - date published: 2023-10-25T16:31:51.020705+00:00
- - user: None
- - tags: []
-
-## Easy to use free PDF tools online - pdfux
- - [https://pdfux.com](https://pdfux.com)
- - date published: 2023-10-25T16:31:51.991250+00:00
- - user: None
- - tags: []
-
-## Unavailable In Your Region
- - [https://www.peacocktv.com](https://www.peacocktv.com)
- - date published: 2023-11-03T17:34:06.995031+00:00
- - user: None
- - tags: []
-
-## Home 2021
- - [https://pearceonearth.com](https://pearceonearth.com)
- - date published: 2023-11-29T17:13:01.550218+00:00
- - user: None
- - tags: ['personal']
-
-## PEARL, Inc. Homepage
- - [https://www.pearl-hifi.com](https://www.pearl-hifi.com)
- - date published: 2023-10-25T16:31:53.681955+00:00
- - user: None
- - tags: []
-
-## Pearl Jam - Home
- - [https://pearljam.com](https://pearljam.com)
- - date published: 2023-11-13T11:08:31.956919+00:00
- - user: None
- - tags: ['music band']
-
-## Pearson | The World’s Leading Education Provider
- - [https://www.pearson.com](https://www.pearson.com)
- - date published: 2023-10-25T16:31:59.807682+00:00
- - user: None
- - tags: []
-
-## Pedestrian Observations
- - [https://pedestrianobservations.com](https://pedestrianobservations.com)
- - date published: 2024-01-09T02:45:49.923910+00:00
- - user: None
- - tags: []
-
-## PeerJ
- - [https://peerj.com](https://peerj.com)
- - date published: 2023-11-02T17:53:38.956577+00:00
- - user: None
- - tags: []
-
-## Book update.  Now includes recent work on best fit solutions. - Peeter Joot's Blog
- - [https://peeterjoot.com](https://peeterjoot.com)
- - date published: 2023-10-25T08:57:37.286572+00:00
- - user: None
- - tags: ['personal']
-
-## Pegasus Games
- - [https://pegasusgames.com](https://pegasusgames.com)
- - date published: 2023-10-30T12:01:37.114574+00:00
- - user: None
- - tags: []
-
-## PelotonCal
- - [https://pelotoncal.com](https://pelotoncal.com)
- - date published: 2023-10-25T16:32:06.386585+00:00
- - user: None
- - tags: []
-
-## None
- - [https://peltarion.com](https://peltarion.com)
- - date published: 2024-01-09T02:45:52.860446+00:00
- - user: None
- - tags: []
-
-## PENDULUM - Official Website
- - [https://pendulum.com](https://pendulum.com)
- - date published: 2023-11-13T10:44:23.595750+00:00
- - user: None
- - tags: ['music band']
-
-## Penguinjaa
- - [https://www.penguinjaa.com](https://www.penguinjaa.com)
- - date published: 2024-01-09T02:45:54.096725+00:00
- - user: None
- - tags: []
-
-## Penmachine - Derek K. Miller
- - [https://www.penmachine.com](https://www.penmachine.com)
- - date published: 2023-10-25T16:32:10.562369+00:00
- - user: None
- - tags: []
-
-## Central PA Local News, Breaking News, Sports & Weather
- - [https://www.pennlive.com](https://www.pennlive.com)
- - date published: 2023-11-04T15:48:22.366123+00:00
- - user: None
- - tags: []
-
-## Tom Francis
- - [https://www.pentadact.com](https://www.pentadact.com)
- - date published: 2023-10-25T09:21:08.810960+00:00
- - user: None
- - tags: ['personal']
-
-## CyberSecurity Developer (API) Portal - PENTESTON - Stay secure
- - [https://developer.penteston.com](https://developer.penteston.com)
- - date published: 2024-01-09T02:46:02.810283+00:00
- - user: None
- - tags: []
-
-## People.com | Celebrity News, Exclusives, Photos and Videos
- - [https://people.com](https://people.com)
- - date published: 2023-10-25T10:52:09.683787+00:00
- - user: None
- - tags: []
-
-## People and Blogs
- - [https://peopleandblogs.com](https://peopleandblogs.com)
- - date published: 2023-10-25T16:32:21.821382+00:00
- - user: None
- - tags: []
-
-## Join Flourish! A newsletter to navigate business and life
- - [https://peopleloveprojects.com](https://peopleloveprojects.com)
- - date published: 2023-11-29T13:54:27.816636+00:00
- - user: None
- - tags: ['personal']
-
-## POCIT. Telling the stories and thoughts of people of color in tech.
- - [https://peopleofcolorintech.com](https://peopleofcolorintech.com)
- - date published: 2023-10-25T16:32:25.934361+00:00
- - user: None
- - tags: []
-
-## Samuel Pepys: Diary, Letters, Family Tree, Maps, Encyclopedia, Discussion and more
- - [https://www.pepysdiary.com](https://www.pepysdiary.com)
- - date published: 2023-10-25T16:32:28.890530+00:00
- - user: None
- - tags: []
 

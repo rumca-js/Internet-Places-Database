@@ -1,3 +1,57 @@
+## Home - Athletics Illustrated
+ - [https://athleticsillustrated.com](https://athleticsillustrated.com)
+ - date published: 2023-11-29T17:20:14.087100+00:00
+ - user: None
+ - tags: []
+
+## @Large Research - Massivizing Computer Systems
+ - [https://atlarge-research.com](https://atlarge-research.com)
+ - date published: 2023-10-25T12:47:42.982758+00:00
+ - user: None
+ - tags: []
+
+## • James A. Reeves
+ - [https://atlasminor.com](https://atlasminor.com)
+ - date published: 2024-01-19T19:09:40.260711+00:00
+ - user: None
+ - tags: []
+
+## Curious and Wondrous Travel Destinations - Atlas Obscura
+ - [https://www.atlasobscura.com](https://www.atlasobscura.com)
+ - date published: 2023-10-25T12:47:48.977147+00:00
+ - user: None
+ - tags: []
+
+## Atlassian Community
+ - [https://community.atlassian.com](https://community.atlassian.com)
+ - date published: 2023-10-25T08:40:12.122410+00:00
+ - user: None
+ - tags: []
+
+## Unlock your team's best work with Jira Software
+ - [https://jira.atlassian.com](https://jira.atlassian.com)
+ - date published: 2023-10-26T11:32:39.476046+00:00
+ - user: None
+ - tags: ['jira']
+
+## Collaboration software for software, IT and business teams
+ - [https://www.atlassian.com](https://www.atlassian.com)
+ - date published: 2023-10-25T11:27:22.292269+00:00
+ - user: None
+ - tags: []
+
+## Atmosera: Azure-Managed Cloud Services | Azure Expert MSP
+ - [https://www.atmosera.com](https://www.atmosera.com)
+ - date published: 2023-10-25T12:47:53.524443+00:00
+ - user: None
+ - tags: []
+
+## atomic14
+ - [https://blog.atomic14.com](https://blog.atomic14.com)
+ - date published: 2023-11-04T18:28:37.686431+00:00
+ - user: None
+ - tags: []
+
 ## atomic14 | atomic14
  - [https://www.atomic14.com](https://www.atomic14.com)
  - date published: 2023-10-25T12:47:55.499147+00:00
@@ -340,6 +394,12 @@
  - user: None
  - tags: ['antivirus']
 
+## AVPro Edge
+ - [https://avproedge.com](https://avproedge.com)
+ - date published: 2024-01-21T19:15:16.215337+00:00
+ - user: None
+ - tags: []
+
 ## AvSax | A thermal runaway solution in a fireproof bag | Avsax.com
  - [https://avsax.com](https://avsax.com)
  - date published: 2023-11-04T09:27:46.266247+00:00
@@ -661,6 +721,12 @@
 ## Merch from FM Attack
  - [https://fmattack.bandcamp.com](https://fmattack.bandcamp.com)
  - date published: 2023-12-11T15:48:39.117736+00:00
+ - user: None
+ - tags: []
+
+## Kirara Magic
+ - [https://kiraramagic.bandcamp.com](https://kiraramagic.bandcamp.com)
+ - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2302,6 +2368,12 @@
  - user: None
  - tags: ['personal']
 
+## The Axis of Eval
+ - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
+ - date published: 2024-01-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Sabine Hossenfelder: Backreaction
  - [https://backreaction.blogspot.com](https://backreaction.blogspot.com)
  - date published: 2023-10-25T09:05:55.426378+00:00
@@ -3574,6 +3646,12 @@
  - user: None
  - tags: []
 
+## Home - Bravely She Blogs
+ - [https://www.bravelysheblogs.com](https://www.bravelysheblogs.com)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Brave New Geek – Introspections of a software engineer
  - [https://bravenewgeek.com](https://bravenewgeek.com)
  - date published: 2023-10-25T13:11:55.311751+00:00
@@ -4153,6 +4231,12 @@
 ## Press release distribution, EDGAR filing, XBRL, regulatory filings | Business Wire
  - [https://www.businesswire.com](https://www.businesswire.com)
  - date published: 2023-10-25T13:15:22.022214+00:00
+ - user: None
+ - tags: []
+
+## Bus Pirate
+ - [https://buspirate.com](https://buspirate.com)
+ - date published: 2024-01-21T23:08:41.781533+00:00
  - user: None
  - tags: []
 
@@ -4748,7 +4832,7 @@
  - [https://carolineishii.com](https://carolineishii.com)
  - date published: 2023-11-29T17:06:58.369780+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Carpe Ludum – Eidolon's Inn – World of M.U.L.E. – Great Games Society
  - [https://www.carpeludum.com](https://www.carpeludum.com)
@@ -5536,6 +5620,12 @@
  - user: None
  - tags: []
 
+## (no title)
+ - [https://chokepointcapitalism.com](https://chokepointcapitalism.com)
+ - date published: 2024-01-21T19:17:18.280193+00:00
+ - user: None
+ - tags: ['cory doctorow']
+
 ## Christian Hollinger
  - [https://chollinger.com](https://chollinger.com)
  - date published: 2023-10-25T08:45:21.585578+00:00
@@ -5911,96 +6001,6 @@
 ## Cisco Blogs
  - [https://blogs.cisco.com](https://blogs.cisco.com)
  - date published: 2023-10-25T13:24:33.805114+00:00
- - user: None
- - tags: []
-
-## Networking, Cloud, and Cybersecurity Solutions
- - [https://www.cisco.com](https://www.cisco.com)
- - date published: 2023-10-31T13:19:01.525709+00:00
- - user: None
- - tags: ['company', 'technology']
-
-## news.cision.com
- - [https://news.cision.com](https://news.cision.com)
- - date published: 2023-10-25T13:24:47.937269+00:00
- - user: None
- - tags: []
-
-## Citi | Global Investment Bank and Financial Services
- - [https://www.citigroup.com](https://www.citigroup.com)
- - date published: 2023-10-25T13:24:56.886316+00:00
- - user: None
- - tags: []
-
-## Citizen Records & Shop Citizen Records | Find all artists and releases here
- - [https://www.citizen-records.com](https://www.citizen-records.com)
- - date published: 2023-12-11T16:11:09.050237+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.citizen-times.com](https://www.citizen-times.com)
- - date published: 2023-11-19T22:34:21.391578+00:00
- - user: None
- - tags: []
-
-## CITIZEN WATCH Global Network
- - [https://www.citizenwatch-global.com](https://www.citizenwatch-global.com)
- - date published: 2023-10-25T13:25:01.204497+00:00
- - user: None
- - tags: []
-
-## Snowflake Observability Software | Cito Data
- - [https://www.citodata.com](https://www.citodata.com)
- - date published: 2023-10-25T13:25:04.311443+00:00
- - user: None
- - tags: []
-
-## CITROËN Lifestyle | CITROËN Official Store
- - [https://lifestyle.citroen.com](https://lifestyle.citroen.com)
- - date published: 2023-12-11T16:10:04.420004+00:00
- - user: None
- - tags: []
-
-## Citroën.com, le site International de Citroën JJ
- - [https://www.citroen.com](https://www.citroen.com)
- - date published: 2023-11-01T08:41:52.291259+00:00
- - user: None
- - tags: []
-
-## Citroën Albania
- - [https://www.citroen-al.com](https://www.citroen-al.com)
- - date published: 2023-12-11T15:50:24.236965+00:00
- - user: None
- - tags: []
-
-## Citroen Jordan : Auto and new car for sale
- - [https://www.citroen-jo.com](https://www.citroen-jo.com)
- - date published: 2023-12-11T16:03:49.342070+00:00
- - user: None
- - tags: []
-
-## 시트로엥 코리아
- - [https://www.citroen-kr.com](https://www.citroen-kr.com)
- - date published: 2023-12-11T16:02:34.835311+00:00
- - user: None
- - tags: []
-
-## Citroën Kosovë
- - [https://www.citroen-ks.com](https://www.citroen-ks.com)
- - date published: 2023-12-11T16:03:10.046687+00:00
- - user: None
- - tags: []
-
-## Citroën Costa Rica - Citroen Costa Rica
- - [https://www.citroencr.com](https://www.citroencr.com)
- - date published: 2023-12-11T16:04:07.377053+00:00
- - user: None
- - tags: []
-
-## Citroen Liban : Vente et achat d'auto et de voiture neuve
- - [https://www.citroenliban.com](https://www.citroenliban.com)
- - date published: 2023-12-11T16:01:55.805343+00:00
  - user: None
  - tags: []
 

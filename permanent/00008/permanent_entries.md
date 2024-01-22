@@ -1,3 +1,213 @@
+## PayPal Status Page
+ - [https://www.paypal-status.com](https://www.paypal-status.com)
+ - date published: 2023-10-25T08:26:54.739488+00:00
+ - user: None
+ - tags: []
+
+## 403
+ - [https://www.paypalobjects.com](https://www.paypalobjects.com)
+ - date published: 2023-10-25T16:31:48.214530+00:00
+ - user: None
+ - tags: []
+
+## Paul Kafasis
+ - [https://pbones.com](https://pbones.com)
+ - date published: 2023-12-23T07:30:37.057666+00:00
+ - user: None
+ - tags: ['personal']
+
+## PC Builder AI
+ - [https://www.pcbuilderai.com](https://www.pcbuilderai.com)
+ - date published: 2023-10-25T16:31:48.907547+00:00
+ - user: None
+ - tags: []
+
+## PC Gamer
+ - [https://www.pcgamer.com](https://www.pcgamer.com)
+ - date published: 2023-10-25T10:49:45.933777+00:00
+ - user: None
+ - tags: []
+
+## PCGamesN | PC gaming news, reviews, and guides
+ - [https://www.pcgamesn.com](https://www.pcgamesn.com)
+ - date published: 2023-10-25T10:49:52.311261+00:00
+ - user: None
+ - tags: ['game news']
+
+## Intro: P.C. Maffey
+ - [https://pcmaffey.com](https://pcmaffey.com)
+ - date published: 2023-10-25T08:47:24.013987+00:00
+ - user: None
+ - tags: ['personal']
+
+## PCMag.com - Technology Product Reviews, News, Prices & Tips
+ - [https://uk.pcmag.com](https://uk.pcmag.com)
+ - date published: 2023-10-25T09:34:32.882984+00:00
+ - user: None
+ - tags: []
+
+## The Latest Technology Product Reviews, News, Tips, and Deals | PCMag
+ - [https://www.pcmag.com](https://www.pcmag.com)
+ - date published: 2023-10-25T09:34:47.167027+00:00
+ - user: None
+ - tags: []
+
+## The Starman's Realm
+ - [https://thestarman.pcministry.com](https://thestarman.pcministry.com)
+ - date published: 2023-10-25T16:31:49.593366+00:00
+ - user: None
+ - tags: []
+
+## PCWorld
+ - [https://www.pcworld.com](https://www.pcworld.com)
+ - date published: 2023-10-25T09:34:49.726201+00:00
+ - user: None
+ - tags: []
+
+## PDF Differ — Compare the differences between two pdfs
+ - [https://pdfdiffer.com](https://pdfdiffer.com)
+ - date published: 2023-10-25T16:31:51.020705+00:00
+ - user: None
+ - tags: []
+
+## Easy to use free PDF tools online - pdfux
+ - [https://pdfux.com](https://pdfux.com)
+ - date published: 2023-10-25T16:31:51.991250+00:00
+ - user: None
+ - tags: []
+
+## Unavailable In Your Region
+ - [https://www.peacocktv.com](https://www.peacocktv.com)
+ - date published: 2023-11-03T17:34:06.995031+00:00
+ - user: None
+ - tags: []
+
+## Home 2021
+ - [https://pearceonearth.com](https://pearceonearth.com)
+ - date published: 2023-11-29T17:13:01.550218+00:00
+ - user: None
+ - tags: ['personal']
+
+## PEARL, Inc. Homepage
+ - [https://www.pearl-hifi.com](https://www.pearl-hifi.com)
+ - date published: 2023-10-25T16:31:53.681955+00:00
+ - user: None
+ - tags: []
+
+## Pearl Jam - Home
+ - [https://pearljam.com](https://pearljam.com)
+ - date published: 2023-11-13T11:08:31.956919+00:00
+ - user: None
+ - tags: ['music band']
+
+## Pearson | The World’s Leading Education Provider
+ - [https://www.pearson.com](https://www.pearson.com)
+ - date published: 2023-10-25T16:31:59.807682+00:00
+ - user: None
+ - tags: []
+
+## Pedestrian Observations
+ - [https://pedestrianobservations.com](https://pedestrianobservations.com)
+ - date published: 2024-01-09T02:45:49.923910+00:00
+ - user: None
+ - tags: []
+
+## PeerJ
+ - [https://peerj.com](https://peerj.com)
+ - date published: 2023-11-02T17:53:38.956577+00:00
+ - user: None
+ - tags: []
+
+## Book update.  Now includes recent work on best fit solutions. - Peeter Joot's Blog
+ - [https://peeterjoot.com](https://peeterjoot.com)
+ - date published: 2023-10-25T08:57:37.286572+00:00
+ - user: None
+ - tags: ['personal']
+
+## Pegasus Games
+ - [https://pegasusgames.com](https://pegasusgames.com)
+ - date published: 2023-10-30T12:01:37.114574+00:00
+ - user: None
+ - tags: []
+
+## PelotonCal
+ - [https://pelotoncal.com](https://pelotoncal.com)
+ - date published: 2023-10-25T16:32:06.386585+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://peltarion.com](https://peltarion.com)
+ - date published: 2024-01-09T02:45:52.860446+00:00
+ - user: None
+ - tags: []
+
+## PENDULUM - Official Website
+ - [https://pendulum.com](https://pendulum.com)
+ - date published: 2023-11-13T10:44:23.595750+00:00
+ - user: None
+ - tags: ['music band']
+
+## Penguinjaa
+ - [https://www.penguinjaa.com](https://www.penguinjaa.com)
+ - date published: 2024-01-09T02:45:54.096725+00:00
+ - user: None
+ - tags: []
+
+## Penmachine - Derek K. Miller
+ - [https://www.penmachine.com](https://www.penmachine.com)
+ - date published: 2023-10-25T16:32:10.562369+00:00
+ - user: None
+ - tags: []
+
+## Central PA Local News, Breaking News, Sports & Weather
+ - [https://www.pennlive.com](https://www.pennlive.com)
+ - date published: 2023-11-04T15:48:22.366123+00:00
+ - user: None
+ - tags: []
+
+## Tom Francis
+ - [https://www.pentadact.com](https://www.pentadact.com)
+ - date published: 2023-10-25T09:21:08.810960+00:00
+ - user: None
+ - tags: ['personal']
+
+## CyberSecurity Developer (API) Portal - PENTESTON - Stay secure
+ - [https://developer.penteston.com](https://developer.penteston.com)
+ - date published: 2024-01-09T02:46:02.810283+00:00
+ - user: None
+ - tags: []
+
+## People.com | Celebrity News, Exclusives, Photos and Videos
+ - [https://people.com](https://people.com)
+ - date published: 2023-10-25T10:52:09.683787+00:00
+ - user: None
+ - tags: []
+
+## People and Blogs
+ - [https://peopleandblogs.com](https://peopleandblogs.com)
+ - date published: 2023-10-25T16:32:21.821382+00:00
+ - user: None
+ - tags: []
+
+## Join Flourish! A newsletter to navigate business and life
+ - [https://peopleloveprojects.com](https://peopleloveprojects.com)
+ - date published: 2023-11-29T13:54:27.816636+00:00
+ - user: None
+ - tags: ['personal']
+
+## POCIT. Telling the stories and thoughts of people of color in tech.
+ - [https://peopleofcolorintech.com](https://peopleofcolorintech.com)
+ - date published: 2023-10-25T16:32:25.934361+00:00
+ - user: None
+ - tags: []
+
+## Samuel Pepys: Diary, Letters, Family Tree, Maps, Encyclopedia, Discussion and more
+ - [https://www.pepysdiary.com](https://www.pepysdiary.com)
+ - date published: 2023-10-25T16:32:28.890530+00:00
+ - user: None
+ - tags: []
+
 ## Pera Barrett - Dad, Shoebox Christmas founder, author, musician, doer.
  - [https://www.perabarrett.com](https://www.perabarrett.com)
  - date published: 2024-01-12T22:14:14.873814+00:00
@@ -2992,6 +3202,12 @@ More!
  - user: None
  - tags: ['personal']
 
+## Affordable Websites & More | Rayveon
+ - [https://www.rayveon.com](https://www.rayveon.com)
+ - date published: 2024-01-21T19:07:45.692652+00:00
+ - user: None
+ - tags: []
+
 ## Razed Mods
  - [https://www.razedmods.com](https://www.razedmods.com)
  - date published: 2023-10-25T11:09:52.685264+00:00
@@ -4066,6 +4282,12 @@ More!
  - user: None
  - tags: ['personal']
 
+## Rich Keeble – Actor, voiceover artist, comedian, musician, man
+ - [https://www.richkeeble.com](https://www.richkeeble.com)
+ - date published: 2024-01-21T13:31:19.816138+00:00
+ - user: None
+ - tags: []
+
 ## Rich PalmerVoice actor, narrator, storyteller, audio producer.
  - [https://richpalmer.com](https://richpalmer.com)
  - date published: 2024-01-09T02:47:56.721503+00:00
@@ -4215,6 +4437,12 @@ More!
  - date published: 2023-10-25T16:51:59.432468+00:00
  - user: None
  - tags: []
+
+## Learn programming languages with books and examples
+ - [https://riptutorial.com](https://riptutorial.com)
+ - date published: 2024-01-21T21:07:11+00:00
+ - user: rumpel
+ - tags: ['tutorial']
 
 ## Rishikesh Sreehari - Redefining Probabilities
  - [https://rishikeshs.com](https://rishikeshs.com)
@@ -5560,6 +5788,12 @@ More!
  - user: None
  - tags: []
 
+## (Re)Creating Yourself ˚୨୧⋆｡˚ ⋆
+ - [https://sanguineroyal.com](https://sanguineroyal.com)
+ - date published: 2024-01-21T14:32:57.130358+00:00
+ - user: None
+ - tags: []
+
 ## San Jose Inside | A look inside San Jose politics and culture
  - [https://www.sanjoseinside.com](https://www.sanjoseinside.com)
  - date published: 2023-10-25T16:57:27.249598+00:00
@@ -5775,238 +6009,4 @@ More!
  - date published: 2023-12-12T04:53:34.071795+00:00
  - user: None
  - tags: ['personal']
-
-## Sched CDN
- - [https://static.sched.com](https://static.sched.com)
- - date published: 2023-10-25T16:58:32.047651+00:00
- - user: None
- - tags: []
-
-## Schemescape
- - [https://log.schemescape.com](https://log.schemescape.com)
- - date published: 2023-10-25T16:58:33.610205+00:00
- - user: None
- - tags: []
-
-## Europe Travel Entry and Visa Requirements
- - [https://www.schengenvisainfo.com](https://www.schengenvisainfo.com)
- - date published: 2024-01-03T21:32:38.569064+00:00
- - user: None
- - tags: []
-
-## schmatzberger.com – Die Website von Günter Schmatzberger
- - [https://www.schmatzberger.com](https://www.schmatzberger.com)
- - date published: 2023-12-03T09:19:10.285708+00:00
- - user: None
- - tags: ['personal']
-
-## Homepage - Schmidt Futures
- - [https://www.schmidtfutures.com](https://www.schmidtfutures.com)
- - date published: 2023-10-25T16:58:36.285547+00:00
- - user: None
- - tags: []
-
-## Yareev's schmonz.com
- - [https://schmonz.com](https://schmonz.com)
- - date published: 2024-01-15T02:46:33.518415+00:00
- - user: None
- - tags: []
-
-## Schneier on Security
- - [https://www.schneier.com](https://www.schneier.com)
- - date published: 2023-10-25T09:35:13.644701+00:00
- - user: None
- - tags: []
-
-## Recursive Recipes | Make food from scratch
- - [https://recursiverecipes.schollz.com](https://recursiverecipes.schollz.com)
- - date published: 2023-10-25T16:58:38.084916+00:00
- - user: None
- - tags: []
-
-## schollz
- - [https://schollz.com](https://schollz.com)
- - date published: 2023-10-25T16:58:39.985655+00:00
- - user: None
- - tags: []
-
-## schoolofworklife.com - Resources To Help You Self Direct Your WorkLife Learning
- - [https://schoolofworklife.com](https://schoolofworklife.com)
- - date published: 2023-12-29T19:00:29.094459+00:00
- - user: None
- - tags: ['personal']
-
-## Charles Schwab | A Modern Approach to Investing and Retirement Planning
- - [https://www.schwab.com](https://www.schwab.com)
- - date published: 2023-10-25T16:58:46.215643+00:00
- - user: None
- - tags: []
-
-## http://science.com
- - [http://science.com](http://science.com)
- - date published: 2023-11-25T05:34:43.281781+00:00
- - user: None
- - tags: []
-
-## ScienceAlert : The Best in Science News And Amazing Breakthroughs
- - [https://www.sciencealert.com](https://www.sciencealert.com)
- - date published: 2023-10-25T16:58:48.223977+00:00
- - user: None
- - tags: []
-
-## SAND
- - [https://www.scienceandnonduality.com](https://www.scienceandnonduality.com)
- - date published: 2023-10-25T16:58:52.745129+00:00
- - user: None
- - tags: []
-
-## Josh Mitteldorf | Aging Matters
- - [https://joshmitteldorf.scienceblog.com](https://joshmitteldorf.scienceblog.com)
- - date published: 2023-10-25T16:58:58.341469+00:00
- - user: None
- - tags: []
-
-## ScienceDaily: Your source for the latest research news
- - [https://www.sciencedaily.com](https://www.sciencedaily.com)
- - date published: 2023-10-25T10:10:58.373293+00:00
- - user: None
- - tags: ['science']
-
-## ScienceDirect
- - [https://www.sciencedirect.com](https://www.sciencedirect.com)
- - date published: 2023-10-25T10:10:59.662060+00:00
- - user: None
- - tags: ['science news']
-
-## BBC Science Focus Magazine - science, nature, technology, Q&As
- - [https://www.sciencefocus.com](https://www.sciencefocus.com)
- - date published: 2023-10-25T16:59:02.217981+00:00
- - user: None
- - tags: []
-
-## Science Friday
- - [https://www.sciencefriday.com](https://www.sciencefriday.com)
- - date published: 2023-10-25T16:59:05.373137+00:00
- - user: None
- - tags: []
-
-## Science Shot: Professional Insights, Unique Perspectives.
- - [https://www.scienceshot.com](https://www.scienceshot.com)
- - date published: 2023-12-29T20:02:33.354446+00:00
- - user: None
- - tags: []
-
-## ScienceSwitch – Exploring the Depths of Curiosity
- - [https://scienceswitch.com](https://scienceswitch.com)
- - date published: 2023-10-25T16:59:08.691306+00:00
- - user: None
- - tags: []
-
-## Scientific Computing | Scientific Computing World
- - [https://www.scientific-computing.com](https://www.scientific-computing.com)
- - date published: 2023-10-25T16:59:10.313762+00:00
- - user: None
- - tags: []
-
-## Scientific American Blog Network - Scientific American Blog Network
- - [https://blogs.scientificamerican.com](https://blogs.scientificamerican.com)
- - date published: 2023-10-25T16:59:13.314083+00:00
- - user: None
- - tags: []
-
-## Scientific American: Science News, Expert Analysis, Health Research - Scientific American
- - [https://www.scientificamerican.com](https://www.scientificamerican.com)
- - date published: 2023-10-25T10:11:03.956799+00:00
- - user: None
- - tags: []
-
-## The Scientific Coder
- - [https://scientificcoder.com](https://scientificcoder.com)
- - date published: 2023-10-25T16:59:14.570457+00:00
- - user: None
- - tags: []
-
-## Sci-fi interfaces
- - [https://scifiinterfaces.com](https://scifiinterfaces.com)
- - date published: 2023-12-14T07:38:40.007550+00:00
- - user: None
- - tags: []
-
-## SciProgramming - Home
- - [https://sciprogramming.com](https://sciprogramming.com)
- - date published: 2023-10-25T16:59:15.991666+00:00
- - user: None
- - tags: []
-
-## SciTechDaily - Science, Space and Technology News 2023
- - [https://scitechdaily.com](https://scitechdaily.com)
- - date published: 2023-10-25T10:11:08.449489+00:00
- - user: None
- - tags: []
-
-## sciter – Multiplatform HTML/CSS/JavaScript UI Engine for Desktop and Mobile Application
- - [https://sciter.com](https://sciter.com)
- - date published: 2023-10-25T16:59:18.546109+00:00
- - user: None
- - tags: []
-
-## Scivus
- - [https://scivus.com](https://scivus.com)
- - date published: 2023-11-22T07:04:29.079121+00:00
- - user: None
- - tags: []
-
-## Cybersecurity News, Awards, Webinars, eSummits, Research | SC Media
- - [https://www.scmagazine.com](https://www.scmagazine.com)
- - date published: 2023-10-25T16:59:21.821719+00:00
- - user: None
- - tags: []
-
-## HK, China, Asia news & opinion from SCMP’s global edition | South China Morning Post
- - [https://www.scmp.com](https://www.scmp.com)
- - date published: 2023-10-25T10:55:24.006811+00:00
- - user: None
- - tags: []
-
-## Welcome to scmscx.com
- - [https://scmscx.com](https://scmscx.com)
- - date published: 2023-10-25T11:51:08.396681+00:00
- - user: None
- - tags: []
-
-## Scorched Garlic
- - [https://www.scorchedgarlic.com](https://www.scorchedgarlic.com)
- - date published: 2023-12-20T11:44:45.377578+00:00
- - user: None
- - tags: ['personal']
-
-## renegat0x0 site
- - [https://b.scorecardresearch.com](https://b.scorecardresearch.com)
- - date published: 2024-01-09T02:48:27.227136+00:00
- - user: None
- - tags: []
-
-## Latest News | The Scotsman
- - [https://www.scotsman.com](https://www.scotsman.com)
- - date published: 2023-10-25T16:59:27.807401+00:00
- - user: None
- - tags: []
-
-## Scott Aaronson
- - [https://scottaaronson.com](https://scottaaronson.com)
- - date published: 2023-10-25T16:59:29.689793+00:00
- - user: None
- - tags: []
-
-## Scott Aaronson
- - [https://www.scottaaronson.com](https://www.scottaaronson.com)
- - date published: 2023-10-25T16:59:31.584638+00:00
- - user: None
- - tags: []
-
-## Scott Antipa
- - [https://www.scottantipa.com](https://www.scottantipa.com)
- - date published: 2023-10-25T16:59:37.222129+00:00
- - user: None
- - tags: []
 

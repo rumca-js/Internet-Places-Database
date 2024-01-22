@@ -1,3 +1,99 @@
+## Home - Electric Literature
+ - [https://electricliterature.com](https://electricliterature.com)
+ - date published: 2023-10-25T14:04:47.010880+00:00
+ - user: None
+ - tags: []
+
+## Compare Electric Companies and find the Lowest Rate
+ - [https://www.electricrate.com](https://www.electricrate.com)
+ - date published: 2023-10-25T14:04:52.809394+00:00
+ - user: None
+ - tags: []
+
+## Electric UI
+ - [https://electricui.com](https://electricui.com)
+ - date published: 2023-10-25T14:04:56.240950+00:00
+ - user: None
+ - tags: []
+
+## Electrifying.com | The electric car experts
+ - [https://www.electrifying.com](https://www.electrifying.com)
+ - date published: 2023-12-10T11:12:49.347373+00:00
+ - user: None
+ - tags: ['electric vehicles']
+
+## Home - electrive.com
+ - [https://www.electrive.com](https://www.electrive.com)
+ - date published: 2023-10-25T14:05:00.157793+00:00
+ - user: None
+ - tags: []
+
+## Electroagenda -
+ - [https://electroagenda.com](https://electroagenda.com)
+ - date published: 2023-10-25T14:05:08.600030+00:00
+ - user: None
+ - tags: []
+
+## Home | Electronic Design
+ - [https://www.electronicdesign.com](https://www.electronicdesign.com)
+ - date published: 2023-10-25T14:05:19.630697+00:00
+ - user: None
+ - tags: []
+
+## Electronics Flea Market
+ - [https://www.electronicsfleamarket.com](https://www.electronicsfleamarket.com)
+ - date published: 2023-12-28T21:05:22+00:00
+ - user: None
+ - tags: []
+
+## Electronics For You | Free DIY and Electronics Projects | Tech News
+ - [https://www.electronicsforu.com](https://www.electronicsforu.com)
+ - date published: 2023-10-28T20:18:10.605148+00:00
+ - user: None
+ - tags: []
+
+## Electronics Weekly: Design, Components, Tech & Business News
+ - [https://www.electronicsweekly.com](https://www.electronicsweekly.com)
+ - date published: 2023-10-25T10:46:26.227627+00:00
+ - user: None
+ - tags: []
+
+## Electrozombies - International Synthpop Magazine
+ - [https://electrozombies.com](https://electrozombies.com)
+ - date published: 2023-10-25T14:02:53.937231+00:00
+ - user: None
+ - tags: ['music news']
+
+## The Most Popular WordPress Themes In The World
+ - [https://www.elegantthemes.com](https://www.elegantthemes.com)
+ - date published: 2023-12-13T15:44:07.450174+00:00
+ - user: None
+ - tags: ['wordpress']
+
+## ELEGOO: Best Consumer Level 3D Printers, Materials and STEM Products
+ - [https://www.elegoo.com](https://www.elegoo.com)
+ - date published: 2023-11-27T16:35:15+00:00
+ - user: rumpel
+ - tags: ['3d printing']
+
+## Diary Of A Mad Chaos - The Largest Online Diary In The World
+ - [https://www.eleninovski.com](https://www.eleninovski.com)
+ - date published: 2023-11-02T11:03:35.042983+00:00
+ - user: None
+ - tags: ['blog', 'personal', 'amiga']
+
+## Elevator Saga - the elevator programming game
+ - [https://play.elevatorsaga.com](https://play.elevatorsaga.com)
+ - date published: 2023-10-25T14:05:22.236086+00:00
+ - user: None
+ - tags: []
+
+## Articles and programs by Elias Naur
+ - [https://eliasnaur.com](https://eliasnaur.com)
+ - date published: 2024-01-15T22:36:32.858874+00:00
+ - user: None
+ - tags: []
+
 ## Elicit Blog
  - [https://blog.elicit.com](https://blog.elicit.com)
  - date published: 2023-12-20T05:52:58.477716+00:00
@@ -892,6 +988,12 @@
  - user: None
  - tags: []
 
+## EU AI Act - EU Artificial Intelligence Act
+ - [https://www.euaiact.com](https://www.euaiact.com)
+ - date published: 2024-01-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## EuclideanSpace
  - [https://euclideanspace.com](https://euclideanspace.com)
  - date published: 2023-11-10T04:19:14+00:00
@@ -1249,6 +1351,12 @@
 ## Explainpaper
  - [https://www.explainpaper.com](https://www.explainpaper.com)
  - date published: 2023-10-25T14:13:33.232774+00:00
+ - user: None
+ - tags: []
+
+## Exploding Topics - Discover the hottest new trends.
+ - [https://explodingtopics.com](https://explodingtopics.com)
+ - date published: 2024-01-21T19:07:00.661949+00:00
  - user: None
  - tags: []
 
@@ -2293,6 +2401,12 @@
 ## finnious.com | finnious Scott Finney | Online Home
  - [https://finnious.com](https://finnious.com)
  - date published: 2024-01-10T14:29:32.532292+00:00
+ - user: None
+ - tags: []
+
+## FirebrandX 's Web Site
+ - [https://www.firebrandx.com](https://www.firebrandx.com)
+ - date published: 2024-01-21T19:15:18.360262+00:00
  - user: None
  - tags: []
 
@@ -4485,7 +4599,7 @@
  - [https://ghostinfluence.com](https://ghostinfluence.com)
  - date published: 2023-10-25T14:43:51.757960+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Ghost in the Stacks
  - [https://www.ghostinthestacks.com](https://www.ghostinthestacks.com)
@@ -5886,120 +6000,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## games.greggman.com - page 1 - Games, Code, and Game Dev
  - [https://games.greggman.com](https://games.greggman.com)
  - date published: 2023-10-25T14:51:40.366917+00:00
- - user: None
- - tags: []
-
-## Greg Navis | Fractional CTO and Product Engineer
- - [https://www.gregnavis.com](https://www.gregnavis.com)
- - date published: 2023-10-25T14:51:42.147429+00:00
- - user: None
- - tags: []
-
-## Gregory Ciotti – Content Marketing
- - [https://www.gregoryciotti.com](https://www.gregoryciotti.com)
- - date published: 2023-10-25T14:51:43.454505+00:00
- - user: None
- - tags: []
-
-## Gregory Gundersen
- - [https://gregorygundersen.com](https://gregorygundersen.com)
- - date published: 2023-10-25T14:51:45.550672+00:00
- - user: None
- - tags: []
-
-## Greg S. Roche
- - [https://www.gregsroche.com](https://www.gregsroche.com)
- - date published: 2023-12-14T01:19:28.319434+00:00
- - user: None
- - tags: ['personal']
-
-## Greptime: Cloud-Native TSDB. Anywhere, Any Scale
- - [https://greptime.com](https://greptime.com)
- - date published: 2023-12-27T03:45:20.171040+00:00
- - user: None
- - tags: []
-
-## Mike Cardwell - Grepular
- - [https://www.grepular.com](https://www.grepular.com)
- - date published: 2024-01-14T20:30:07.543187+00:00
- - user: None
- - tags: []
-
-## GreyB - World's Leading Innovation Consulting Firm
- - [https://www.greyb.com](https://www.greyb.com)
- - date published: 2023-10-30T07:13:15.458579+00:00
- - user: None
- - tags: []
-
-## Posts | Serhii Potapov (greyblake)
- - [https://www.greyblake.com](https://www.greyblake.com)
- - date published: 2023-10-25T14:51:46.904848+00:00
- - user: None
- - tags: []
-
-## Grey Enlightenment – let's try this again
- - [https://greyenlightenment.com](https://greyenlightenment.com)
- - date published: 2023-10-25T14:51:54.361848+00:00
- - user: None
- - tags: []
-
-## 李辉的个人主页
- - [https://greyli.com](https://greyli.com)
- - date published: 2023-12-12T04:54:36.147220+00:00
- - user: None
- - tags: ['personal']
-
-## Grimdark Magazine
- - [https://www.grimdarkmagazine.com](https://www.grimdarkmagazine.com)
- - date published: 2023-10-27T07:47:07.098985+00:00
- - user: None
- - tags: ['tabletop games', 'warhammer', 'fantasy']
-
-## https://grizzlyreports.com
- - [https://grizzlyreports.com](https://grizzlyreports.com)
- - date published: 2023-10-25T14:51:55.634896+00:00
- - user: None
- - tags: []
-
-## Groqchat
- - [https://chat.groq.com](https://chat.groq.com)
- - date published: 2023-12-22T22:03:04+00:00
- - user: None
- - tags: []
-
-## GROUNDHOG-DAY.com — The leading Groundhog Day data source
- - [https://groundhog-day.com](https://groundhog-day.com)
- - date published: 2023-10-25T14:51:56.587714+00:00
- - user: None
- - tags: []
-
-## Grow by Ginkgo | A Magazine About Synthetic Biology
- - [https://www.growbyginkgo.com](https://www.growbyginkgo.com)
- - date published: 2023-10-25T14:51:59.808774+00:00
- - user: None
- - tags: []
-
-## Vegetable Garden Planner | Garden Planning Apps | GrowVeg.com
- - [https://www.growveg.com](https://www.growveg.com)
- - date published: 2023-10-25T14:52:02.997858+00:00
- - user: None
- - tags: []
-
-## GruCloud | GruCloud
- - [https://www.grucloud.com](https://www.grucloud.com)
- - date published: 2023-10-25T14:52:03.814878+00:00
- - user: None
- - tags: []
-
-## Grug Notes | A tool for text: simple, fast, self-organizing notes.
- - [https://grugnotes.com](https://grugnotes.com)
- - date published: 2023-10-25T14:52:09.718990+00:00
- - user: None
- - tags: []
-
-## The Grumpy Economist | John H. Cochrane | Substack
- - [https://www.grumpy-economist.com](https://www.grumpy-economist.com)
- - date published: 2024-01-01T15:01:43.234461+00:00
  - user: None
  - tags: []
 

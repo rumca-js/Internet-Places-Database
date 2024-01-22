@@ -1,3 +1,117 @@
+## Greg Navis | Fractional CTO and Product Engineer
+ - [https://www.gregnavis.com](https://www.gregnavis.com)
+ - date published: 2023-10-25T14:51:42.147429+00:00
+ - user: None
+ - tags: []
+
+## Gregory Ciotti – Content Marketing
+ - [https://www.gregoryciotti.com](https://www.gregoryciotti.com)
+ - date published: 2023-10-25T14:51:43.454505+00:00
+ - user: None
+ - tags: []
+
+## Gregory Gundersen
+ - [https://gregorygundersen.com](https://gregorygundersen.com)
+ - date published: 2023-10-25T14:51:45.550672+00:00
+ - user: None
+ - tags: []
+
+## Greg S. Roche
+ - [https://www.gregsroche.com](https://www.gregsroche.com)
+ - date published: 2023-12-14T01:19:28.319434+00:00
+ - user: None
+ - tags: ['personal']
+
+## Greptime: Cloud-Native TSDB. Anywhere, Any Scale
+ - [https://greptime.com](https://greptime.com)
+ - date published: 2023-12-27T03:45:20.171040+00:00
+ - user: None
+ - tags: []
+
+## Mike Cardwell - Grepular
+ - [https://www.grepular.com](https://www.grepular.com)
+ - date published: 2024-01-14T20:30:07.543187+00:00
+ - user: None
+ - tags: []
+
+## GreyB - World's Leading Innovation Consulting Firm
+ - [https://www.greyb.com](https://www.greyb.com)
+ - date published: 2023-10-30T07:13:15.458579+00:00
+ - user: None
+ - tags: []
+
+## Posts | Serhii Potapov (greyblake)
+ - [https://www.greyblake.com](https://www.greyblake.com)
+ - date published: 2023-10-25T14:51:46.904848+00:00
+ - user: None
+ - tags: []
+
+## Grey Enlightenment – let's try this again
+ - [https://greyenlightenment.com](https://greyenlightenment.com)
+ - date published: 2023-10-25T14:51:54.361848+00:00
+ - user: None
+ - tags: []
+
+## 李辉的个人主页
+ - [https://greyli.com](https://greyli.com)
+ - date published: 2023-12-12T04:54:36.147220+00:00
+ - user: None
+ - tags: ['personal']
+
+## Grimdark Magazine
+ - [https://www.grimdarkmagazine.com](https://www.grimdarkmagazine.com)
+ - date published: 2023-10-27T07:47:07.098985+00:00
+ - user: None
+ - tags: ['tabletop games', 'warhammer', 'fantasy']
+
+## https://grizzlyreports.com
+ - [https://grizzlyreports.com](https://grizzlyreports.com)
+ - date published: 2023-10-25T14:51:55.634896+00:00
+ - user: None
+ - tags: []
+
+## Groqchat
+ - [https://chat.groq.com](https://chat.groq.com)
+ - date published: 2023-12-22T22:03:04+00:00
+ - user: None
+ - tags: []
+
+## GROUNDHOG-DAY.com — The leading Groundhog Day data source
+ - [https://groundhog-day.com](https://groundhog-day.com)
+ - date published: 2023-10-25T14:51:56.587714+00:00
+ - user: None
+ - tags: []
+
+## Grow by Ginkgo | A Magazine About Synthetic Biology
+ - [https://www.growbyginkgo.com](https://www.growbyginkgo.com)
+ - date published: 2023-10-25T14:51:59.808774+00:00
+ - user: None
+ - tags: []
+
+## Vegetable Garden Planner | Garden Planning Apps | GrowVeg.com
+ - [https://www.growveg.com](https://www.growveg.com)
+ - date published: 2023-10-25T14:52:02.997858+00:00
+ - user: None
+ - tags: []
+
+## GruCloud | GruCloud
+ - [https://www.grucloud.com](https://www.grucloud.com)
+ - date published: 2023-10-25T14:52:03.814878+00:00
+ - user: None
+ - tags: []
+
+## Grug Notes | A tool for text: simple, fast, self-organizing notes.
+ - [https://grugnotes.com](https://grugnotes.com)
+ - date published: 2023-10-25T14:52:09.718990+00:00
+ - user: None
+ - tags: []
+
+## The Grumpy Economist | John H. Cochrane | Substack
+ - [https://www.grumpy-economist.com](https://www.grumpy-economist.com)
+ - date published: 2024-01-01T15:01:43.234461+00:00
+ - user: None
+ - tags: []
+
 ## Grumpy Gamer
  - [https://www.grumpygamer.com](https://www.grumpygamer.com)
  - date published: 2023-10-25T14:52:10.872094+00:00
@@ -1366,6 +1480,12 @@
  - user: None
  - tags: []
 
+## Hitreg
+ - [https://hitregbroke.com](https://hitregbroke.com)
+ - date published: 2024-01-21T00:49:33.553773+00:00
+ - user: None
+ - tags: []
+
 ## #1 Warcraft 3 Reforged Modding Community | HIVE
  - [https://www.hiveworkshop.com](https://www.hiveworkshop.com)
  - date published: 2023-10-25T11:51:06.417742+00:00
@@ -1465,6 +1585,12 @@
 ## hoho.com
  - [https://hoho.com](https://hoho.com)
  - date published: 2023-10-25T15:00:24.125704+00:00
+ - user: None
+ - tags: []
+
+## Holistic AI | AI Governance, Risk and Compliance Platform
+ - [https://www.holisticai.com](https://www.holisticai.com)
+ - date published: 2024-01-19T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1813,6 +1939,12 @@
 ## None
  - [httpstatusdogs.com](httpstatusdogs.com)
  - date published: 2024-01-09T02:38:19.350410+00:00
+ - user: None
+ - tags: []
+
+## HTTP Status Dogs
+ - [https://httpstatusdogs.com](https://httpstatusdogs.com)
+ - date published: 2024-01-21T01:43:06.311441+00:00
  - user: None
  - tags: []
 
@@ -3736,6 +3868,12 @@
  - user: None
  - tags: []
 
+## Jagran Josh: Education News, Complete Career Guide for Board Exams, Colleges and Jobs
+ - [https://www.jagranjosh.com](https://www.jagranjosh.com)
+ - date published: 2024-01-21T19:07:43.010542+00:00
+ - user: None
+ - tags: []
+
 ## Jailbreak Chat
  - [https://www.jailbreakchat.com](https://www.jailbreakchat.com)
  - date published: 2023-10-25T15:25:49.907916+00:00
@@ -3799,6 +3937,12 @@
 ## Jake Wharton
  - [https://jakewharton.com](https://jakewharton.com)
  - date published: 2023-10-25T15:26:10.461258+00:00
+ - user: None
+ - tags: []
+
+## Jake Wiesler
+ - [https://www.jakewiesler.com](https://www.jakewiesler.com)
+ - date published: 2000-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4372,11 +4516,17 @@
  - user: None
  - tags: []
 
+## Jennifer Pepper—Marketing & Brand Leader
+ - [https://jennifer-pepper.com](https://jennifer-pepper.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## https://www.jenniferrossehamm.com
  - [https://www.jenniferrossehamm.com](https://www.jenniferrossehamm.com)
  - date published: 2024-01-10T22:40:55.887100+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Jeremiah Lee
  - [https://www.jeremiahlee.com](https://www.jeremiahlee.com)
@@ -5847,154 +5997,4 @@
  - date published: 2023-10-25T15:34:16.823180+00:00
  - user: None
  - tags: []
-
-## Kambrya Pettit – Author. Artist.
- - [https://kambryapettit.com](https://kambryapettit.com)
- - date published: 2024-01-08T07:25:51.974779+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.kanavkhurana.com](https://www.kanavkhurana.com)
- - date published: 2023-12-21T18:50:44.618412+00:00
- - user: None
- - tags: ['personal']
-
-## Kansas City Breaking News & Sports | The Kansas City Star
- - [https://www.kansascity.com](https://www.kansascity.com)
- - date published: 2023-10-25T15:34:26.194328+00:00
- - user: None
- - tags: []
-
-## Home - Kansas Reflector
- - [https://kansasreflector.com](https://kansasreflector.com)
- - date published: 2023-10-25T15:34:35.984897+00:00
- - user: None
- - tags: []
-
-## Kantar. Shape your brand future
- - [https://www.kantar.com](https://www.kantar.com)
- - date published: 2023-10-25T15:34:39.939920+00:00
- - user: None
- - tags: []
-
-## Kapwing — Create more content in less time
- - [https://www.kapwing.com](https://www.kapwing.com)
- - date published: 2023-10-25T15:34:42.922569+00:00
- - user: None
- - tags: []
-
-## Home | Karat
- - [https://karat.com](https://karat.com)
- - date published: 2023-10-25T15:34:45.025329+00:00
- - user: None
- - tags: []
-
-## Access Denied
- - [https://www.kare11.com](https://www.kare11.com)
- - date published: 2023-10-25T15:34:46.333884+00:00
- - user: None
- - tags: []
-
-## Turn Growing Pains into Growth Plans — Karen Sergeant
- - [https://karensergeant.com](https://karensergeant.com)
- - date published: 2023-11-29T14:22:47.196746+00:00
- - user: None
- - tags: ['personal']
-
-## Karim Jedda - Personal blog
- - [https://karimjedda.com](https://karimjedda.com)
- - date published: 2023-10-25T15:34:47.196110+00:00
- - user: None
- - tags: []
-
-## karinavanron.com
- - [https://karinavanron.com](https://karinavanron.com)
- - date published: 2024-01-12T22:15:14.564098+00:00
- - user: None
- - tags: []
-
-## Corona, CA Personal Injury Lawyer & Law Firm - Free Consultation
- - [https://www.karlaw.com](https://www.karlaw.com)
- - date published: 2024-01-03T16:04:53.536126+00:00
- - user: None
- - tags: []
-
-## Karl's Notes
- - [https://www.karlsnotes.com](https://www.karlsnotes.com)
- - date published: 2023-10-25T15:34:48.823772+00:00
- - user: None
- - tags: []
-
-## Karlstack | Christopher Brunet | Substack
- - [https://www.karlstack.com](https://www.karlstack.com)
- - date published: 2023-12-10T16:12:53.069326+00:00
- - user: None
- - tags: []
-
-## Karl Sutt · Programing, business, self-development
- - [https://www.karlsutt.com](https://www.karlsutt.com)
- - date published: 2023-10-25T15:34:49.967790+00:00
- - user: None
- - tags: []
-
-## Karwansaray Publishers
- - [https://www.karwansaraypublishers.com](https://www.karwansaraypublishers.com)
- - date published: 2024-01-19T09:35:37+00:00
- - user: rumpel
- - tags: ['zine', 'magazine', 'wargames', 'history']
-
-## Kasm Workspaces | The Container Streaming Platform
- - [https://kasmweb.com](https://kasmweb.com)
- - date published: 2023-10-25T15:34:57.953403+00:00
- - user: None
- - tags: []
-
-## Kasper Junge
- - [https://blog.kasperjunge.com](https://blog.kasperjunge.com)
- - date published: 2023-10-25T08:58:10.514076+00:00
- - user: None
- - tags: ['personal']
-
-## Kaspersky Cyber Security Solutions for Home and Business | Kaspersky
- - [https://usa.kaspersky.com](https://usa.kaspersky.com)
- - date published: 2023-10-25T15:35:03.111028+00:00
- - user: None
- - tags: []
-
-## Kaspersky Cyber Security Solutions for Home and Business | Kaspersky
- - [https://www.kaspersky.com](https://www.kaspersky.com)
- - date published: 2023-10-25T15:35:07.289449+00:00
- - user: None
- - tags: ['antivirus', 'kaspersky']
-
-## Law Offices of Kate Downing
- - [https://katedowninglaw.com](https://katedowninglaw.com)
- - date published: 2023-10-25T15:35:09.252104+00:00
- - user: None
- - tags: []
-
-## Home - Kate Heartfield
- - [https://kateheartfield.com](https://kateheartfield.com)
- - date published: 2023-12-21T18:49:11.508913+00:00
- - user: None
- - tags: ['personal']
-
-## All posts
- - [https://katelynsills.com](https://katelynsills.com)
- - date published: 2024-01-03T23:56:16.792993+00:00
- - user: None
- - tags: []
-
-## Kate Matsudaira
- - [https://katemats.com](https://katemats.com)
- - date published: 2023-12-03T15:55:44.164945+00:00
- - user: None
- - tags: ['personal']
-
-## Kate Smalley - Small Business Advisor & Educator
- - [https://katesmalley.com](https://katesmalley.com)
- - date published: 2023-11-29T15:51:45.373718+00:00
- - user: None
- - tags: ['personal']
 

@@ -1,3 +1,327 @@
+## Yitong Zhang
+ - [https://zhayitong.com](https://zhayitong.com)
+ - date published: 2023-10-25T18:25:24.963388+00:00
+ - user: None
+ - tags: []
+
+## Home | Zhengdong
+ - [https://zhengdongwang.com](https://zhengdongwang.com)
+ - date published: 2023-10-25T18:25:25.764800+00:00
+ - user: None
+ - tags: []
+
+## Vector Database built for enterprise-grade AI applications - Zilliz
+ - [https://zilliz.com](https://zilliz.com)
+ - date published: 2023-10-25T18:25:27.230254+00:00
+ - user: None
+ - tags: []
+
+## ZimaBoard - World's First Hackable Single Board Server
+ - [https://www.zimaboard.com](https://www.zimaboard.com)
+ - date published: 2024-01-09T02:55:45.243240+00:00
+ - user: None
+ - tags: []
+
+## OpenObserve | Open Source Observability Platform for Logs, Metrics, Traces, and More – Your Ultimate Dashboard for Alerts and Insights
+ - [https://zincsearch.com](https://zincsearch.com)
+ - date published: 2023-10-25T18:25:28.914613+00:00
+ - user: None
+ - tags: []
+
+## Light and Illusion
+ - [https://zintaglio.com](https://zintaglio.com)
+ - date published: 2023-10-25T18:25:29.902791+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://zipoapps.com](https://zipoapps.com)
+ - date published: 2023-12-05T21:49:36+00:00
+ - user: rumpel
+ - tags: ['software company']
+
+## Zippia - Find Jobs, Salaries, Companies, Resume Help, Career Paths, and More
+ - [https://www.zippia.com](https://www.zippia.com)
+ - date published: 2023-10-25T18:25:39.229043+00:00
+ - user: None
+ - tags: []
+
+## ZITADEL • Identity infrastructure, simplified for you
+ - [https://zitadel.com](https://zitadel.com)
+ - date published: 2023-10-25T18:25:40.528841+00:00
+ - user: None
+ - tags: []
+
+## Zack Korman
+ - [https://zkorman.com](https://zkorman.com)
+ - date published: 2023-12-11T05:38:51.364578+00:00
+ - user: None
+ - tags: ['personal']
+
+## Save, organize, revisit & connect ideas.
+ - [https://zlinky.com](https://zlinky.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ZME Science: not exactly rocket science
+ - [https://www.zmescience.com](https://www.zmescience.com)
+ - date published: 2023-11-09T06:35:18.336550+00:00
+ - user: None
+ - tags: ['science news', 'news']
+
+## Zobia Alvi
+ - [https://www.zobiaalvi.com](https://www.zobiaalvi.com)
+ - date published: 2024-01-01T17:20:33.744821+00:00
+ - user: None
+ - tags: []
+
+## Zoe McKey
+ - [https://www.zoemckey.com](https://www.zoemckey.com)
+ - date published: 2023-12-13T20:59:10.239216+00:00
+ - user: None
+ - tags: ['personal']
+
+## Online Word Processor | Create & Edit Documents Online - Writer
+ - [https://writer.zohopublic.com](https://writer.zohopublic.com)
+ - date published: 2023-10-25T18:25:42.345907+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Zoom - ZOOM Europe
+ - [https://www.zoom-europe.com](https://www.zoom-europe.com)
+ - date published: 2023-11-02T09:09:25.938526+00:00
+ - user: None
+ - tags: ['audio equipment']
+
+## Zorin
+ - [https://zorin.com](https://zorin.com)
+ - date published: 2023-11-06T10:11:49.466457+00:00
+ - user: None
+ - tags: ['linux', 'operating system']
+
+## mrb's blog
+ - [https://blog.zorinaq.com](https://blog.zorinaq.com)
+ - date published: 2024-01-10T06:49:52.627242+00:00
+ - user: None
+ - tags: []
+
+## zserge's blog
+ - [https://zserge.com](https://zserge.com)
+ - date published: 2023-10-25T18:25:42.935979+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://zlib.zu1k.com](https://zlib.zu1k.com)
+ - date published: 2024-01-09T02:55:46.388139+00:00
+ - user: None
+ - tags: []
+
+## Zuck Banned Me – My Facebook got hacked, then Meta banned me from all services
+ - [https://zuckbannedme.com](https://zuckbannedme.com)
+ - date published: 2023-10-25T11:08:11.437717+00:00
+ - user: None
+ - tags: ['censorship', 'facebook', 'meta']
+
+## The Zulip Blog
+ - [https://blog.zulip.com](https://blog.zulip.com)
+ - date published: 2023-10-25T18:25:44.890990+00:00
+ - user: None
+ - tags: []
+
+## ZwillGen – Practical. Creative. Trusted.
+ - [https://www.zwillgen.com](https://www.zwillgen.com)
+ - date published: 2023-12-12T09:00:50.007145+00:00
+ - user: None
+ - tags: []
+
+## zwischenzugs
+ - [https://zwischenzugs.com](https://zwischenzugs.com)
+ - date published: 2023-12-30T10:51:16.692475+00:00
+ - user: None
+ - tags: []
+
+## Zxch3n's Blog | Zxch3n
+ - [https://www.zxch3n.com](https://www.zxch3n.com)
+ - date published: 2023-10-25T18:25:50.490464+00:00
+ - user: None
+ - tags: []
+
+## The Intellectual Wilderness – There is nothing more useless than doing efficiently that which should not be done at all.
+ - [https://zxq9.com](https://zxq9.com)
+ - date published: 2023-10-25T18:25:54.864362+00:00
+ - user: None
+ - tags: []
+
+## World's Leading Web Scraping Service | Zyte
+ - [https://www.zyte.com](https://www.zyte.com)
+ - date published: 2024-01-17T09:14:05+00:00
+ - user: rumpel
+ - tags: ['web scraping']
+
+## Legal Lullabies
+ - [https://www.zzzuckerberg.com](https://www.zzzuckerberg.com)
+ - date published: 2023-10-25T11:08:13.765188+00:00
+ - user: None
+ - tags: ['wtf']
+
+## Human fetal brain self-organizes into long-term expanding organoids
+ - [www.cell.com/cell/fulltext/S0092-8674(23)01344-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867423013442%3Fshowall%3Dtrue](www.cell.com/cell/fulltext/S0092-8674(23)01344-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867423013442%3Fshowall%3Dtrue)
+ - date published: 2024-01-10T19:20:45.384863+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [abcnews.go.comhttps](abcnews.go.comhttps)
+ - date published: 2024-01-09T02:55:46.479176+00:00
+ - user: None
+ - tags: []
+
+## How to play C&C guides, C&C News, C&C Remastered Leaderboards - Command & Conquer
+ - [https://cnc.community](https://cnc.community)
+ - date published: 2023-11-17T21:46:11+00:00
+ - user: rumpel
+ - tags: ['red alert', 'command and conquer']
+
+## Introduction - Building Games with DragonRuby
+ - [https://book.dragonriders.community](https://book.dragonriders.community)
+ - date published: 2023-10-25T18:25:56.311837+00:00
+ - user: None
+ - tags: []
+
+## Flux — A platform for change
+ - [https://flux.community](https://flux.community)
+ - date published: 2023-10-25T18:25:58.051970+00:00
+ - user: None
+ - tags: []
+
+## Nothing Community
+ - [https://nothing.community](https://nothing.community)
+ - date published: 2023-11-16T06:39:37.887354+00:00
+ - user: None
+ - tags: []
+
+## Persuasion | Yascha Mounk | Substack
+ - [https://www.persuasion.community](https://www.persuasion.community)
+ - date published: 2023-10-25T18:26:06.826791+00:00
+ - user: None
+ - tags: []
+
+## home
+ - [https://www.tga.community](https://www.tga.community)
+ - date published: 2023-11-01T18:31:03.321945+00:00
+ - user: None
+ - tags: []
+
+## X, the moonshot factory
+ - [https://x.company](https://x.company)
+ - date published: 2023-10-25T18:26:15.275324+00:00
+ - user: None
+ - tags: []
+
+## Bad Computer
+ - [https://bad.computer](https://bad.computer)
+ - date published: 2023-10-25T18:26:17.111050+00:00
+ - user: None
+ - tags: []
+
+## Writing by Bob Doto
+ - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
+ - date published: 2024-01-09T02:55:47.919867+00:00
+ - user: None
+ - tags: []
+
+## Dashy
+ - [https://commodore.bookmark.computer](https://commodore.bookmark.computer)
+ - date published: 2024-01-12T21:07:53.962502+00:00
+ - user: None
+ - tags: []
+
+## Iroh
+ - [https://iroh.computer](https://iroh.computer)
+ - date published: 2023-10-25T18:26:28.682186+00:00
+ - user: None
+ - tags: []
+
+## Mythic Computer Co.
+ - [https://www.mythic.computer](https://www.mythic.computer)
+ - date published: 2023-10-25T18:26:30.118803+00:00
+ - user: None
+ - tags: []
+
+## Neil Panchal
+ - [https://neil.computer](https://neil.computer)
+ - date published: 2023-10-25T18:26:32.134105+00:00
+ - user: None
+ - tags: []
+
+## Dot by New Computer
+ - [https://new.computer](https://new.computer)
+ - date published: 2023-11-01T17:45:32+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://v20.ohayo.computer](https://v20.ohayo.computer)
+ - date published: 2024-01-09T02:55:50.855876+00:00
+ - user: None
+ - tags: []
+
+## List disks /  API / Oxide
+ - [https://docs.oxide.computer](https://docs.oxide.computer)
+ - date published: 2023-10-25T18:26:35.191809+00:00
+ - user: None
+ - tags: []
+
+## Hubris
+ - [https://hubris.oxide.computer](https://hubris.oxide.computer)
+ - date published: 2023-10-25T18:26:37.051005+00:00
+ - user: None
+ - tags: []
+
+## Oxide Computer Company
+ - [https://oxide.computer](https://oxide.computer)
+ - date published: 2023-10-25T18:26:40.340286+00:00
+ - user: None
+ - tags: []
+
+## RFD / Oxide
+ - [https://rfd.shared.oxide.computer](https://rfd.shared.oxide.computer)
+ - date published: 2023-11-03T17:54:12.549938+00:00
+ - user: None
+ - tags: []
+
+## Barkey Wolf Consulting
+ - [https://barkeywolf.consulting](https://barkeywolf.consulting)
+ - date published: 2024-01-16T14:31:43.706149+00:00
+ - user: None
+ - tags: []
+
+## Certitude Consulting Vienna - Information Security
+ - [https://certitude.consulting](https://certitude.consulting)
+ - date published: 2023-10-25T18:26:41.919963+00:00
+ - user: None
+ - tags: []
+
+## Airtable.cool - Link previews and analytics for your Airtable shared view links
+ - [https://airtable.cool](https://airtable.cool)
+ - date published: 2023-10-25T18:26:45.983340+00:00
+ - user: None
+ - tags: []
+
+## Dan's Site
+ - [https://www.mayer.cool](https://www.mayer.cool)
+ - date published: 2023-10-25T18:26:46.688031+00:00
+ - user: None
+ - tags: []
+
+## Home of Val Packett
+ - [https://val.packett.cool](https://val.packett.cool)
+ - date published: 2023-10-25T18:26:48.292933+00:00
+ - user: None
+ - tags: []
+
 ## The Pudding
  - [https://pudding.cool](https://pudding.cool)
  - date published: 2023-10-25T18:26:52.831116+00:00
@@ -4575,6 +4899,12 @@ home
  - user: None
  - tags: []
 
+## Laboratory for Social Connectedness & Health (LSCH)
+ - [https://sbarra.faculty.arizona.edu](https://sbarra.faculty.arizona.edu)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## https://wp.optics.arizona.edu
  - [https://wp.optics.arizona.edu](https://wp.optics.arizona.edu)
  - date published: 2024-01-09T02:58:14.257859+00:00
@@ -5651,6 +5981,12 @@ home
  - user: None
  - tags: []
 
+## News + Updates – MIT Media Lab
+ - [https://www.media.mit.edu](https://www.media.mit.edu)
+ - date published: 2024-01-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## More crop per drop | MIT - Massachusetts Institute of Technology
  - [https://www.mit.edu](https://www.mit.edu)
  - date published: 2023-10-25T18:55:16.546253+00:00
@@ -5672,342 +6008,6 @@ home
 ## https://msutoday.msu.edu
  - [https://msutoday.msu.edu](https://msutoday.msu.edu)
  - date published: 2023-12-23T11:36:25.043855+00:00
- - user: None
- - tags: []
-
-## Middle Tennessee State University | Middle Tennessee State University
- - [https://www.mtsu.edu](https://www.mtsu.edu)
- - date published: 2023-10-25T18:55:21.754876+00:00
- - user: None
- - tags: []
-
-## NC State News
- - [https://news.ncsu.edu](https://news.ncsu.edu)
- - date published: 2023-10-25T18:55:26.541930+00:00
- - user: None
- - tags: []
-
-## Notre Dame News | University of Notre Dame
- - [https://news.nd.edu](https://news.nd.edu)
- - date published: 2023-10-25T18:55:35.076777+00:00
- - user: None
- - tags: []
-
-## NDSU - North Dakota State University
- - [https://www.ndsu.edu](https://www.ndsu.edu)
- - date published: 2023-10-25T18:55:39.000458+00:00
- - user: None
- - tags: []
-
-## NJIT News
- - [https://news.njit.edu](https://news.njit.edu)
- - date published: 2023-12-24T14:21:23.481370+00:00
- - user: None
- - tags: []
-
-## Welcome to Hobbes
- - [https://hobbes.nmsu.edu](https://hobbes.nmsu.edu)
- - date published: 2024-01-09T21:08:23.894605+00:00
- - user: None
- - tags: []
-
-## NOIRLab / NSF’s National Optical-IR Astronomy Research Laboratory
- - [https://noirlab.edu](https://noirlab.edu)
- - date published: 2024-01-09T02:59:27.072163+00:00
- - user: None
- - tags: []
-
-## Northeastern Global News - News, Discovery, and Analysis from Around the World
- - [https://news.northeastern.edu](https://news.northeastern.edu)
- - date published: 2023-10-25T18:55:44.990462+00:00
- - user: None
- - tags: []
-
-## Home - Programming Research Laboratory - Northeastern University
- - [https://prl.khoury.northeastern.edu](https://prl.khoury.northeastern.edu)
- - date published: 2023-10-25T18:55:46.864652+00:00
- - user: None
- - tags: []
-
-## Feinstein Institutes for Medical Research | Northwell Health
- - [https://feinstein.northwell.edu](https://feinstein.northwell.edu)
- - date published: 2023-10-25T18:55:49.028133+00:00
- - user: None
- - tags: []
-
-## Main Home - News Center
- - [https://news.feinberg.northwestern.edu](https://news.feinberg.northwestern.edu)
- - date published: 2023-10-25T18:55:55.307920+00:00
- - user: None
- - tags: []
-
-## Northwestern Now News
- - [https://news.northwestern.edu](https://news.northwestern.edu)
- - date published: 2023-10-25T18:56:08.345374+00:00
- - user: None
- - tags: []
-
-## NRAO at AAS 243 New Orleans - January 2024 — Science Website
- - [https://science.nrao.edu](https://science.nrao.edu)
- - date published: 2024-01-15T01:25:31.960705+00:00
- - user: None
- - tags: []
-
-## OSIRIS Lab at NYU Tandon
- - [https://blog.osiris.cyber.nyu.edu](https://blog.osiris.cyber.nyu.edu)
- - date published: 2023-10-25T18:56:14.326050+00:00
- - user: None
- - tags: []
-
-## Institute | NYU Courant
- - [https://cims.nyu.edu](https://cims.nyu.edu)
- - date published: 2023-10-25T18:56:17.174439+00:00
- - user: None
- - tags: []
-
-## Welcome to Pages at the Stern School of Business, New York University
- - [https://pages.stern.nyu.edu](https://pages.stern.nyu.edu)
- - date published: 2024-01-09T03:27:46.632899+00:00
- - user: None
- - tags: []
-
-## https://physics.nyu.edu
- - [https://physics.nyu.edu](https://physics.nyu.edu)
- - date published: 2024-01-09T03:27:52.463967+00:00
- - user: None
- - tags: []
-
-## NYU
- - [https://www.nyu.edu](https://www.nyu.edu)
- - date published: 2023-10-25T18:56:19.949944+00:00
- - user: None
- - tags: []
-
-## Welcome to Ohio University
- - [https://www.ohio.edu](https://www.ohio.edu)
- - date published: 2023-10-25T18:56:22.621409+00:00
- - user: None
- - tags: ['university']
-
-## CSE
- - [https://web.cse.ohio-state.edu](https://web.cse.ohio-state.edu)
- - date published: 2023-10-25T18:56:24.315200+00:00
- - user: None
- - tags: []
-
-## Home | College of Arts and Sciences
- - [https://www.asc.ohio-state.edu](https://www.asc.ohio-state.edu)
- - date published: 2024-01-11T18:56:17.405128+00:00
- - user: None
- - tags: []
-
-## Home | OHSU News
- - [https://news.ohsu.edu](https://news.ohsu.edu)
- - date published: 2023-10-25T18:56:26.525047+00:00
- - user: None
- - tags: []
-
-## Distance Learning Courses and Adult Education - The Open University
- - [https://www.open.edu](https://www.open.edu)
- - date published: 2023-10-25T18:56:29.084298+00:00
- - user: None
- - tags: []
-
-## Ohio State News
- - [https://news.osu.edu](https://news.osu.edu)
- - date published: 2023-10-25T18:56:36.422788+00:00
- - user: None
- - tags: []
-
-## Social Psychology Perspectives – Applying social psychology to the world around us
- - [https://socialpsych.blogs.pace.edu](https://socialpsych.blogs.pace.edu)
- - date published: 2023-10-25T18:56:44.098429+00:00
- - user: None
- - tags: []
-
-## Peninsula College presents a podcast honoring the work of the influential American poet and short story writer, Raymond Carver from the last town he called home: Port Angeles, Washington. You can listen here on our Episode page. You can also find us on Stitcher, Google Podcasts, Apple Podcasts, Spotify, and more. In each regular episode, | Raymond Carver Podcast
- - [https://raymondcarverpodcast.pencol.edu](https://raymondcarverpodcast.pencol.edu)
- - date published: 2023-10-31T19:57:35.429326+00:00
- - user: None
- - tags: []
-
-## University of Pittsburgh: Error HTTP 403 - Forbidden
- - [https://sites.pitt.edu](https://sites.pitt.edu)
- - date published: 2023-10-25T18:56:45.029939+00:00
- - user: None
- - tags: []
-
-## Nuclear Princeton
- - [https://nuclearprinceton.princeton.edu](https://nuclearprinceton.princeton.edu)
- - date published: 2023-10-25T18:56:47.383073+00:00
- - user: None
- - tags: []
-
-## Against Predictive Optimization
- - [https://predictive-optimization.cs.princeton.edu](https://predictive-optimization.cs.princeton.edu)
- - date published: 2023-10-25T18:56:49.990374+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://press.princeton.edu](https://press.princeton.edu)
- - date published: 2023-12-21T02:05:06.489728+00:00
- - user: None
- - tags: []
-
-## Princeton Site Builder
- - [https://scholar.princeton.edu](https://scholar.princeton.edu)
- - date published: 2023-10-25T18:56:53.006902+00:00
- - user: None
- - tags: []
-
-## Home | Princeton Science & Global Security
- - [https://sgs.princeton.edu](https://sgs.princeton.edu)
- - date published: 2023-10-25T18:56:54.261014+00:00
- - user: None
- - tags: []
-
-## Home | Math
- - [https://web.math.princeton.edu](https://web.math.princeton.edu)
- - date published: 2023-10-25T18:56:57.474310+00:00
- - user: None
- - tags: []
-
-## Computer Science Department at Princeton University
- - [https://www.cs.princeton.edu](https://www.cs.princeton.edu)
- - date published: 2023-10-25T18:56:59.790460+00:00
- - user: None
- - tags: []
-
-## Home | Princeton University
- - [https://www.princeton.edu](https://www.princeton.edu)
- - date published: 2023-10-25T18:57:02.402538+00:00
- - user: None
- - tags: ['university']
-
-## CiteSeerX
- - [https://citeseerx.ist.psu.edu](https://citeseerx.ist.psu.edu)
- - date published: 2023-10-25T18:57:04.773829+00:00
- - user: None
- - tags: []
-
-## Sites at Penn State | Create websites easily with WordPress
- - [https://sites.psu.edu](https://sites.psu.edu)
- - date published: 2023-10-25T18:57:08.218702+00:00
- - user: None
- - tags: []
-
-## Penn State University
- - [https://www.psu.edu](https://www.psu.edu)
- - date published: 2023-11-01T07:44:07.480002+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://engineering.purdue.edu](https://engineering.purdue.edu)
- - date published: 2023-12-04T12:08:09.866347+00:00
- - user: None
- - tags: []
-
-## Purdue University
- - [https://www.purdue.edu](https://www.purdue.edu)
- - date published: 2023-11-06T05:55:24.051315+00:00
- - user: None
- - tags: []
-
-## Rice News | News and Media Relations | Rice University
- - [https://news.rice.edu](https://news.rice.edu)
- - date published: 2023-10-25T09:29:39.683713+00:00
- - user: None
- - tags: []
-
-## Rice
- - [https://rice.edu](https://rice.edu)
- - date published: 2023-10-27T13:02:00.219008+00:00
- - user: None
- - tags: ['university']
-
-## Rice University
- - [https://www.clear.rice.edu](https://www.clear.rice.edu)
- - date published: 2023-10-25T11:22:50.744610+00:00
- - user: None
- - tags: []
-
-## Rochester Institute of Technology | RIT
- - [https://www.rit.edu](https://www.rit.edu)
- - date published: 2023-10-25T18:57:15.262189+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science : University of Rochester
- - [https://www.cs.rochester.edu](https://www.cs.rochester.edu)
- - date published: 2023-10-25T11:22:54.164400+00:00
- - user: None
- - tags: []
-
-## University of Rochester
- - [https://www.rochester.edu](https://www.rochester.edu)
- - date published: 2023-10-25T11:22:58.003643+00:00
- - user: None
- - tags: []
-
-## The Rockefeller University
- - [https://www.rockefeller.edu](https://www.rockefeller.edu)
- - date published: 2023-10-25T11:23:02.452486+00:00
- - user: None
- - tags: []
-
-## Rowan Today | Rowan University
- - [https://today.rowan.edu](https://today.rowan.edu)
- - date published: 2023-10-25T18:57:18.671620+00:00
- - user: None
- - tags: []
-
-## Rensselaer News | News & Events
- - [https://news.rpi.edu](https://news.rpi.edu)
- - date published: 2023-10-24T20:05:28.211262+00:00
- - user: None
- - tags: []
-
-## Mathematics Department - Welcome
- - [https://sites.math.rutgers.edu](https://sites.math.rutgers.edu)
- - date published: 2023-10-25T18:57:21.555977+00:00
- - user: None
- - tags: []
-
-## Rutgers University
- - [https://www.rutgers.edu](https://www.rutgers.edu)
- - date published: 2023-10-25T11:23:06.491659+00:00
- - user: None
- - tags: []
-
-## University of San Diego Home Pages
- - [https://home.sandiego.edu](https://home.sandiego.edu)
- - date published: 2023-10-25T11:23:10.865084+00:00
- - user: None
- - tags: []
-
-## SANS.edu Internet Storm Center - SANS Internet Storm Center
- - [https://isc.sans.edu](https://isc.sans.edu)
- - date published: 2023-10-25T18:57:24.482790+00:00
- - user: None
- - tags: []
-
-## Home | Santa Fe Institute
- - [https://santafe.edu](https://santafe.edu)
- - date published: 2023-12-02T04:06:17.286147+00:00
- - user: None
- - tags: []
-
-## Home | Santa Fe Institute
- - [https://www.santafe.edu](https://www.santafe.edu)
- - date published: 2023-10-25T18:57:32.428032+00:00
- - user: None
- - tags: []
-
-## Scripps Research
- - [https://www.scripps.edu](https://www.scripps.edu)
- - date published: 2024-01-06T17:19:10.654645+00:00
  - user: None
  - tags: []
 
