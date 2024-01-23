@@ -1,3 +1,93 @@
+## ASUS Global
+ - [https://www.asus.com](https://www.asus.com)
+ - date published: 2023-10-25T11:27:20.087992+00:00
+ - user: None
+ - tags: []
+
+## Asymco
+ - [https://www.asymco.com](https://www.asymco.com)
+ - date published: 2024-01-09T02:29:58.373002+00:00
+ - user: None
+ - tags: []
+
+## Asymptote
+ - [https://www.asymptotejournal.com](https://www.asymptotejournal.com)
+ - date published: 2023-10-25T12:47:23.426486+00:00
+ - user: None
+ - tags: []
+
+## Articles about Software Engineering, AI, DevOps, Cloud and more
+ - [https://ataiva.com](https://ataiva.com)
+ - date published: 2023-10-25T09:31:56.080655+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://atari.com](https://atari.com)
+ - date published: 2023-10-30T11:59:21.517294+00:00
+ - user: None
+ - tags: ['company']
+
+## Forums - AtariAge Forums
+ - [https://forums.atariage.com](https://forums.atariage.com)
+ - date published: 2023-10-25T12:47:32.642001+00:00
+ - user: None
+ - tags: []
+
+## Home - Atari Hotels
+ - [https://atarihotels.com](https://atarihotels.com)
+ - date published: 2023-10-25T11:25:51.476313+00:00
+ - user: None
+ - tags: []
+
+## www.atarimagazines.com: Error 403: Access Forbidden
+ - [https://www.atarimagazines.com](https://www.atarimagazines.com)
+ - date published: 2023-11-02T09:37:23.602518+00:00
+ - user: None
+ - tags: ['commodore', 'magazine', 'amiga']
+
+## The World's Finest Atari Database : games, demos, utilities for 2600, 5200, 400, 800, xl, xe, st and falcon
+ - [http://www.atarimania.com](http://www.atarimania.com)
+ - date published: 2023-10-30T12:00:17.683140+00:00
+ - user: None
+ - tags: ['atari']
+
+## https://www.atarimuseum.com
+ - [https://www.atarimuseum.com](https://www.atarimuseum.com)
+ - date published: 2024-01-09T02:30:00.258823+00:00
+ - user: None
+ - tags: []
+
+## Homepage - The Atavist Magazine
+ - [https://magazine.atavist.com](https://magazine.atavist.com)
+ - date published: 2023-10-25T12:47:35.472094+00:00
+ - user: None
+ - tags: []
+
+## atb - NEXT
+ - [https://atb-music.com](https://atb-music.com)
+ - date published: 2023-11-13T10:23:22.137674+00:00
+ - user: None
+ - tags: ['music band']
+
+## mathew's web site  | Ghost of a chance
+ - [https://meta.ath0.com](https://meta.ath0.com)
+ - date published: 2023-10-25T12:47:40.391860+00:00
+ - user: None
+ - tags: []
+
+## Renato Athaydes
+ - [https://renato.athaydes.com](https://renato.athaydes.com)
+ - date published: 2023-10-25T09:05:15.180164+00:00
+ - user: None
+ - tags: ['personal']
+
+## Athenil
+ - [https://athenil.com](https://athenil.com)
+ - date published: 2023-11-24T01:58:48.935933+00:00
+ - user: None
+ - tags: []
+
 ## Home - Athletics Illustrated
  - [https://athleticsillustrated.com](https://athleticsillustrated.com)
  - date published: 2023-11-29T17:20:14.087100+00:00
@@ -123,6 +213,12 @@
  - date published: 2023-10-25T11:44:50.898900+00:00
  - user: None
  - tags: ['company', 'amazon', 'audio streaming']
+
+## Home | Audiblegate
+ - [https://www.audiblegate.com](https://www.audiblegate.com)
+ - date published: 2024-01-22T08:33:23.410014+00:00
+ - user: None
+ - tags: []
 
 ## Audio Asylum -- Audio Reviews, Audiophile Forums and Stereo Reviews
  - [https://www.audioasylum.com](https://www.audioasylum.com)
@@ -565,6 +661,12 @@
 ## B612 – The font family
  - [https://b612-font.com](https://b612-font.com)
  - date published: 2023-10-25T08:36:07.861239+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://babakfakhamzadeh.com](https://babakfakhamzadeh.com)
+ - date published: 2024-01-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1522,6 +1624,12 @@
  - user: None
  - tags: []
 
+## BiaSciLab
+ - [https://biascilab.com](https://biascilab.com)
+ - date published: 2024-01-22T09:34:42+00:00
+ - user: rumpel
+ - tags: ['personal']
+
 ## Bicycle Retailer & Industry News
  - [https://www.bicycleretailer.com](https://www.bicycleretailer.com)
  - date published: 2023-10-25T14:21:33.230031+00:00
@@ -2092,6 +2200,12 @@
  - user: None
  - tags: []
 
+## Black Phoebe :: Ms. Jen | Jenifer Hanen's Website'
+ - [https://blackphoebe.com](https://blackphoebe.com)
+ - date published: 2016-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Zarządzanie aktywami | BlackRock
  - [https://www.blackrock.com](https://www.blackrock.com)
  - date published: 2023-10-25T11:27:39.252299+00:00
@@ -2361,6 +2475,12 @@
  - date published: 2023-10-25T09:05:44.139609+00:00
  - user: None
  - tags: ['personal']
+
+## Nothing To Do With Arbroath
+ - [https://arbroath.blogspot.com](https://arbroath.blogspot.com)
+ - date published: 2024-01-22T10:04:14.316123+00:00
+ - user: None
+ - tags: []
 
 ## blog
  - [https://avodonosov.blogspot.com](https://avodonosov.blogspot.com)
@@ -3244,6 +3364,12 @@
  - user: None
  - tags: []
 
+## Bobulate - for Intentional Organization
+ - [https://bobulate.com](https://bobulate.com)
+ - date published: 2024-01-22T18:53:51.312858+00:00
+ - user: None
+ - tags: []
+
 ## Site not found · DreamHost
  - [https://www.bobzien.com](https://www.bobzien.com)
  - date published: 2024-01-15T13:59:16.442976+00:00
@@ -3385,6 +3511,12 @@
 ## BOOK RIOT - Book Recommendations and Reviews
  - [https://bookriot.com](https://bookriot.com)
  - date published: 2023-10-25T13:08:14.644680+00:00
+ - user: None
+ - tags: []
+
+## Books & Books | Locally-owned, independent neighborhood bookstore
+ - [https://www.booksandbooks.com](https://www.booksandbooks.com)
+ - date published: 2024-01-08T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4238,7 +4370,7 @@
  - [https://buspirate.com](https://buspirate.com)
  - date published: 2024-01-21T23:08:41.781533+00:00
  - user: None
- - tags: []
+ - tags: ['spi', 'hardware hacking', 'uart', 'open source', 'i2c', 'open hardware']
 
 ## Bus Pirate 5 Firmware | Bus Pirate 5 Firmware
  - [https://firmware.buspirate.com](https://firmware.buspirate.com)
@@ -4390,6 +4522,12 @@
  - user: None
  - tags: []
 
+## Warhammer 40K Blog
+ - [https://cadianshock.com](https://cadianshock.com)
+ - date published: 2024-01-22T15:54:30+00:00
+ - user: rumpel
+ - tags: ['warhammer', 'wargames', 'tabletop games']
+
 ## CAD Sketcher | Blender Parametric Precision Modeling
  - [https://www.cadsketcher.com](https://www.cadsketcher.com)
  - date published: 2023-10-25T13:16:21.249116+00:00
@@ -4449,6 +4587,12 @@
  - date published: 2023-10-25T13:16:46.641621+00:00
  - user: None
  - tags: []
+
+## Caleb Porzio
+ - [https://calebporzio.com](https://calebporzio.com)
+ - date published: 2024-01-22T09:05:08+00:00
+ - user: rumpel
+ - tags: ['personal']
 
 ## Home » Calfkicker.com
  - [https://calfkicker.com](https://calfkicker.com)
@@ -4948,6 +5092,12 @@
  - user: None
  - tags: ['wtf']
 
+## Catalina Villegas
+ - [https://www.catalinavillegas.com](https://www.catalinavillegas.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Catalyst
  - [https://catalyst-journal.com](https://catalyst-journal.com)
  - date published: 2024-01-10T10:18:06.844569+00:00
@@ -5253,6 +5403,12 @@
  - date published: 2023-12-03T09:19:49.150434+00:00
  - user: None
  - tags: ['personal']
+
+## Open Path by Chad Whitacre
+ - [https://openpath.chadwhitacre.com](https://openpath.chadwhitacre.com)
+ - date published: 2024-01-22T07:17:07.392204+00:00
+ - user: None
+ - tags: []
 
 ## AI Analytics & Insights — Klu
  - [https://chainparrot.com](https://chainparrot.com)
@@ -5650,6 +5806,12 @@
  - user: None
  - tags: []
 
+## Chris Haarburger Blog
+ - [https://chris-haarburger.com](https://chris-haarburger.com)
+ - date published: 2024-01-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Personal Development Coaching | ChrisCarlock.com
  - [https://www.chriscarlock.com](https://www.chriscarlock.com)
  - date published: 2024-01-16T03:19:41.058557+00:00
@@ -5840,167 +6002,5 @@
  - [https://www.christophgruber.com](https://www.christophgruber.com)
  - date published: 2024-01-17T04:43:22.299793+00:00
  - user: None
- - tags: []
-
-## Blog | Chris Warrick
- - [https://chriswarrick.com](https://chriswarrick.com)
- - date published: 2023-10-25T09:19:47.812882+00:00
- - user: None
  - tags: ['personal']
-
-## Chris Zacharias
- - [https://blog.chriszacharias.com](https://blog.chriszacharias.com)
- - date published: 2023-10-25T13:22:45.023126+00:00
- - user: None
- - tags: []
-
-## Chris Zombik | Home
- - [https://www.chriszombik.com](https://www.chriszombik.com)
- - date published: 2024-01-05T10:28:39.158434+00:00
- - user: None
- - tags: []
-
-## Chrome for Developers
- - [https://developer.chrome.com](https://developer.chrome.com)
- - date published: 2023-10-25T13:22:57.046360+00:00
- - user: None
- - tags: []
-
-## Chrome Platform Status
- - [https://chromestatus.com](https://chromestatus.com)
- - date published: 2023-10-25T13:22:59.796806+00:00
- - user: None
- - tags: []
-
-## Chrome Unboxed | Chromebooks | Chromecast | Assistant | News
- - [https://chromeunboxed.com](https://chromeunboxed.com)
- - date published: 2023-10-25T13:23:05.320515+00:00
- - user: None
- - tags: []
-
-## Chron: Houston News, Sports, Weather, Food, Politics & Texas
- - [https://www.chron.com](https://www.chron.com)
- - date published: 2023-10-25T13:23:10.991817+00:00
- - user: None
- - tags: []
-
-## https://www.chronicle.com
- - [https://www.chronicle.com](https://www.chronicle.com)
- - date published: 2023-10-25T13:23:11.311164+00:00
- - user: None
- - tags: []
-
-## Red Alert 2: Chrono Divide
- - [https://chronodivide.com](https://chronodivide.com)
- - date published: 2023-11-17T21:39:41+00:00
- - user: rumpel
- - tags: ['red alert']
-
-## Loading...  - Chronology Clock
- - [https://chronologyclock.com](https://chronologyclock.com)
- - date published: 2023-10-25T13:23:11.800564+00:00
- - user: None
- - tags: []
-
-## Chrultrabook Docs
- - [https://docs.chrultrabook.com](https://docs.chrultrabook.com)
- - date published: 2024-01-02T18:46:00+00:00
- - user: None
- - tags: []
-
-## Dome's Blog
- - [https://blog.chybby.com](https://blog.chybby.com)
- - date published: 2024-01-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.cincinnati.com](https://www.cincinnati.com)
- - date published: 2023-11-29T22:00:29.169909+00:00
- - user: None
- - tags: []
-
-## CINDY BRZOSTOWSKI
- - [https://www.cindybrz.com](https://www.cindybrz.com)
- - date published: 2023-12-24T18:31:00.190284+00:00
- - user: None
- - tags: ['personal']
-
-## The Latest Indian Movie News And Film Reviews | Cinema Express
- - [https://www.cinemaexpress.com](https://www.cinemaexpress.com)
- - date published: 2023-10-25T11:29:56.350559+00:00
- - user: None
- - tags: []
-
-## Cinematography.com - Community, Education, News and Resources - Cinematography.com
- - [https://cinematography.com](https://cinematography.com)
- - date published: 2023-10-25T13:23:20.039978+00:00
- - user: None
- - tags: []
-
-## CIO | The voice of IT leadership
- - [https://www.cio.com](https://www.cio.com)
- - date published: 2023-10-25T13:23:27.607432+00:00
- - user: None
- - tags: []
-
-## Information and Enterprise Technology News | CIO Dive
- - [https://www.ciodive.com](https://www.ciodive.com)
- - date published: 2023-10-25T13:23:37.193248+00:00
- - user: None
- - tags: []
-
-## CIO Influence | IT, Cloud Computing and InfoSec news
- - [https://cioinfluence.com](https://cioinfluence.com)
- - date published: 2023-10-25T13:23:43.397807+00:00
- - user: None
- - tags: []
-
-## Circle | USDC Payments, Treasury Management, & Developer Tools
- - [https://www.circle.com](https://www.circle.com)
- - date published: 2023-10-25T13:23:50.181753+00:00
- - user: None
- - tags: []
-
-## Continuous Integration and Delivery - CircleCI
- - [https://circleci.com](https://circleci.com)
- - date published: 2023-10-25T13:23:58.608577+00:00
- - user: None
- - tags: []
-
-## CircleID - Breaking Internet News, Opinions and Blogs
- - [https://circleid.com](https://circleid.com)
- - date published: 2023-10-25T13:24:02.589280+00:00
- - user: None
- - tags: []
-
-## Circuit Digest - Electronics Engineering News, Latest Products, Articles and Projects
- - [https://circuitdigest.com](https://circuitdigest.com)
- - date published: 2023-10-28T20:15:59.074787+00:00
- - user: None
- - tags: []
-
-## Embedded Engineering
- - [https://www.circuitvalley.com](https://www.circuitvalley.com)
- - date published: 2023-10-25T13:24:14.388051+00:00
- - user: None
- - tags: []
-
-## The Circus Scientist Site - Circus Scientist
- - [https://www.circusscientist.com](https://www.circusscientist.com)
- - date published: 2023-10-25T13:24:25.453287+00:00
- - user: None
- - tags: []
-
-## Ciro Durán ← A Live Archive
- - [https://www.ciroduran.com](https://www.ciroduran.com)
- - date published: 2023-12-20T21:30:36.738957+00:00
- - user: None
- - tags: ['personal']
-
-## Cisco Blogs
- - [https://blogs.cisco.com](https://blogs.cisco.com)
- - date published: 2023-10-25T13:24:33.805114+00:00
- - user: None
- - tags: []
 

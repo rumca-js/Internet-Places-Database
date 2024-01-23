@@ -1090,6 +1090,12 @@
  - user: None
  - tags: []
 
+## Pwnagotchi - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
+ - [https://pwnagotchi.ai](https://pwnagotchi.ai)
+ - date published: 2019-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['hardware hacking', 'wifi']
+
 ## QMR – QMR
  - [https://www.qmr.ai](https://www.qmr.ai)
  - date published: 2023-10-25T11:41:43.521292+00:00
@@ -1456,6 +1462,12 @@
  - user: None
  - tags: ['personal']
 
+## juan.al
+ - [https://juan.al](https://juan.al)
+ - date published: 2024-01-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Naval
  - [https://nav.al](https://nav.al)
  - date published: 2023-10-25T11:45:20.135109+00:00
@@ -1567,6 +1579,12 @@
 ## https://carina.app
  - [https://carina.app](https://carina.app)
  - date published: 2023-10-25T11:45:43.807234+00:00
+ - user: None
+ - tags: []
+
+## Cash App - Do more with your money
+ - [https://cash.app](https://cash.app)
+ - date published: 1907-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3508,6 +3526,12 @@
  - user: None
  - tags: []
 
+## Submission Portal
+ - [https://kito.portal.district.biz](https://kito.portal.district.biz)
+ - date published: 2024-01-22T07:43:23.228582+00:00
+ - user: None
+ - tags: []
+
 ## GamesIndustry.biz
  - [https://www.gamesindustry.biz](https://www.gamesindustry.biz)
  - date published: 2023-10-25T10:47:30.738123+00:00
@@ -4144,6 +4168,12 @@
  - date published: 2023-12-11T16:01:17.353726+00:00
  - user: None
  - tags: []
+
+## Source d'Histoire BNP Paribas : 2 siècles d'archives
+ - [https://histoire.bnpparibas](https://histoire.bnpparibas)
+ - date published: 2024-01-22T00:00:00+00:00
+ - user: rumpel
+ - tags: ['bank']
 
 ## Without boats, dreams dry up
  - [https://without.boats](https://without.boats)
@@ -4862,6 +4892,12 @@
 ## Interrupt Labs
  - [https://interruptlabs.ca](https://interruptlabs.ca)
  - date published: 2023-10-25T12:05:15.572215+00:00
+ - user: None
+ - tags: []
+
+## iter.ca
+ - [https://iter.ca](https://iter.ca)
+ - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5836,7 +5872,7 @@
  - [https://www.blog-gregor.ch](https://www.blog-gregor.ch)
  - date published: 2023-12-27T23:55:45.885819+00:00
  - user: None
- - tags: ['personal']
+ - tags: ['personal', 'personal']
 
 ## CernVM
  - [https://cernvm.cern.ch](https://cernvm.cern.ch)
@@ -5961,42 +5997,6 @@
 ## Frank Renold
  - [https://frankrenold.ch](https://frankrenold.ch)
  - date published: 2024-01-06T08:53:55.074747+00:00
- - user: None
- - tags: []
-
-## GalaSoft Laurent Bugnion - On Azure
- - [https://galasoft.ch](https://galasoft.ch)
- - date published: 2023-10-25T09:03:11.978072+00:00
- - user: None
- - tags: ['personal']
-
-## galaxus.ch – fast alles für fast jede*n
- - [https://www.galaxus.ch](https://www.galaxus.ch)
- - date published: 2023-10-25T12:13:52.492514+00:00
- - user: None
- - tags: []
-
-## Reflecting on 18 Years at Google
- - [https://ln.hixie.ch](https://ln.hixie.ch)
- - date published: 2023-11-22T16:44:15+00:00
- - user: None
- - tags: []
-
-## Invisible · InVisible
- - [https://invisible.ch](https://invisible.ch)
- - date published: 2023-12-19T03:01:42.549849+00:00
- - user: None
- - tags: ['personal']
-
-## About · Jonathan Chan
- - [https://ionathan.ch](https://ionathan.ch)
- - date published: 2023-10-25T09:03:13.206809+00:00
- - user: None
- - tags: ['personal']
-
-## Welcome to my website | André Jaenisch
- - [https://jaenis.ch](https://jaenis.ch)
- - date published: 2024-01-10T14:29:58.767888+00:00
  - user: None
  - tags: []
 

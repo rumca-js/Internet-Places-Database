@@ -1,3 +1,39 @@
+## GalaSoft Laurent Bugnion - On Azure
+ - [https://galasoft.ch](https://galasoft.ch)
+ - date published: 2023-10-25T09:03:11.978072+00:00
+ - user: None
+ - tags: ['personal']
+
+## galaxus.ch – fast alles für fast jede*n
+ - [https://www.galaxus.ch](https://www.galaxus.ch)
+ - date published: 2023-10-25T12:13:52.492514+00:00
+ - user: None
+ - tags: []
+
+## Reflecting on 18 Years at Google
+ - [https://ln.hixie.ch](https://ln.hixie.ch)
+ - date published: 2023-11-22T16:44:15+00:00
+ - user: None
+ - tags: []
+
+## Invisible · InVisible
+ - [https://invisible.ch](https://invisible.ch)
+ - date published: 2023-12-19T03:01:42.549849+00:00
+ - user: None
+ - tags: ['personal']
+
+## About · Jonathan Chan
+ - [https://ionathan.ch](https://ionathan.ch)
+ - date published: 2023-10-25T09:03:13.206809+00:00
+ - user: None
+ - tags: ['personal']
+
+## Welcome to my website | André Jaenisch
+ - [https://jaenis.ch](https://jaenis.ch)
+ - date published: 2024-01-10T14:29:58.767888+00:00
+ - user: None
+ - tags: []
+
 ## Pasar Jalan Petaling
  - [https://www.maurits.ch](https://www.maurits.ch)
  - date published: 2023-10-25T08:43:18.862210+00:00
@@ -367,6 +403,12 @@
 ## Chris Daniel's Blog is under construction
  - [https://chrisdaniel.club](https://chrisdaniel.club)
  - date published: 2024-01-19T13:01:35.779185+00:00
+ - user: None
+ - tags: []
+
+## https://www.creativedestruction.club
+ - [https://www.creativedestruction.club](https://www.creativedestruction.club)
+ - date published: 2024-01-22T16:55:22.437154+00:00
  - user: None
  - tags: []
 
@@ -1894,6 +1936,12 @@
  - user: None
  - tags: []
 
+## 2600 News | 2600
+ - [https://www.2600.com](https://www.2600.com)
+ - date published: 2024-01-22T09:28:17+00:00
+ - user: rumpel
+ - tags: ['the hacker quarterly']
+
 ## Go Away
  - [https://27bslash6.com](https://27bslash6.com)
  - date published: 2023-10-25T12:26:34.157519+00:00
@@ -2212,6 +2260,12 @@
  - user: None
  - tags: []
 
+## aaron embrey
+ - [https://www.aaronembrey.com](https://www.aaronembrey.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Aaron Francis
  - [https://aaronfrancis.com](https://aaronfrancis.com)
  - date published: 2023-12-14T01:19:19.905292+00:00
@@ -2252,7 +2306,7 @@
  - [https://aaronshbeeb.com](https://aaronshbeeb.com)
  - date published: 2023-12-17T20:59:02.532105+00:00
  - user: None
- - tags: ['personal']
+ - tags: ['personal', 'personal']
 
 ## None
  - [https://www.aaronsw.com](https://www.aaronsw.com)
@@ -2434,6 +2488,12 @@
  - user: None
  - tags: ['personal']
 
+## A Book Apart
+ - [https://abookapart.com](https://abookapart.com)
+ - date published: 2024-01-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Press release archive
  - [https://press.aboutamazon.com](https://press.aboutamazon.com)
  - date published: 2023-11-28T18:21:10.358258+00:00
@@ -2571,6 +2631,12 @@
  - date published: 2023-10-25T12:31:37.824249+00:00
  - user: None
  - tags: []
+
+## Acrylicos Vallejo
+ - [https://acrylicosvallejo.com](https://acrylicosvallejo.com)
+ - date published: 2023-07-19T00:00:00+00:00
+ - user: rumpel
+ - tags: ['miniatures paints']
 
 ## Action News 5 | WMC Memphis | Weather | Mid-South
  - [https://www.actionnews5.com](https://www.actionnews5.com)
@@ -4848,6 +4914,12 @@
  - user: None
  - tags: ['personal']
 
+## Anoushka Shankar
+ - [https://www.anoushkashankar.com](https://www.anoushkashankar.com)
+ - date published: 2024-01-22T12:39:13+00:00
+ - user: rumpel
+ - tags: ['music band']
+
 ## Answer Overflow - Search all of Discord
  - [https://www.answeroverflow.com](https://www.answeroverflow.com)
  - date published: 2023-10-25T12:41:51.907514+00:00
@@ -5334,6 +5406,12 @@
  - user: None
  - tags: ['personal']
 
+## آراز غلامی | Araz Gholami
+ - [https://arazgholami.com](https://arazgholami.com)
+ - date published: 2022-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Museum of the Game Forums
  - [https://forums.arcade-museum.com](https://forums.arcade-museum.com)
  - date published: 2023-10-25T12:43:52.605419+00:00
@@ -5688,6 +5766,12 @@
  - user: None
  - tags: []
 
+## https://www.artstation.com
+ - [https://www.artstation.com](https://www.artstation.com)
+ - date published: 2024-01-22T07:43:52.364059+00:00
+ - user: None
+ - tags: []
+
 ## Warhammer Miniature Painting Studio | Art-W Studio
  - [https://www.artwstudio.com](https://www.artwstudio.com)
  - date published: 2023-11-01T18:36:06.432842+00:00
@@ -5715,6 +5799,12 @@
 ## 朝日新聞デジタル：朝日新聞社のニュースサイト
  - [https://www.asahi.com](https://www.asahi.com)
  - date published: 2023-10-25T12:46:02.663411+00:00
+ - user: None
+ - tags: []
+
+## Aliberk Sandıkçı
+ - [https://asandikci.com](https://asandikci.com)
+ - date published: 2024-01-22T03:53:15.965676+00:00
  - user: None
  - tags: []
 
@@ -5909,94 +5999,4 @@
  - date published: 2023-10-25T08:38:34.670910+00:00
  - user: None
  - tags: ['hardware', 'product']
-
-## ASUS Global
- - [https://www.asus.com](https://www.asus.com)
- - date published: 2023-10-25T11:27:20.087992+00:00
- - user: None
- - tags: []
-
-## Asymco
- - [https://www.asymco.com](https://www.asymco.com)
- - date published: 2024-01-09T02:29:58.373002+00:00
- - user: None
- - tags: []
-
-## Asymptote
- - [https://www.asymptotejournal.com](https://www.asymptotejournal.com)
- - date published: 2023-10-25T12:47:23.426486+00:00
- - user: None
- - tags: []
-
-## Articles about Software Engineering, AI, DevOps, Cloud and more
- - [https://ataiva.com](https://ataiva.com)
- - date published: 2023-10-25T09:31:56.080655+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://atari.com](https://atari.com)
- - date published: 2023-10-30T11:59:21.517294+00:00
- - user: None
- - tags: ['company']
-
-## Forums - AtariAge Forums
- - [https://forums.atariage.com](https://forums.atariage.com)
- - date published: 2023-10-25T12:47:32.642001+00:00
- - user: None
- - tags: []
-
-## Home - Atari Hotels
- - [https://atarihotels.com](https://atarihotels.com)
- - date published: 2023-10-25T11:25:51.476313+00:00
- - user: None
- - tags: []
-
-## www.atarimagazines.com: Error 403: Access Forbidden
- - [https://www.atarimagazines.com](https://www.atarimagazines.com)
- - date published: 2023-11-02T09:37:23.602518+00:00
- - user: None
- - tags: ['commodore', 'magazine', 'amiga']
-
-## The World's Finest Atari Database : games, demos, utilities for 2600, 5200, 400, 800, xl, xe, st and falcon
- - [http://www.atarimania.com](http://www.atarimania.com)
- - date published: 2023-10-30T12:00:17.683140+00:00
- - user: None
- - tags: ['atari']
-
-## https://www.atarimuseum.com
- - [https://www.atarimuseum.com](https://www.atarimuseum.com)
- - date published: 2024-01-09T02:30:00.258823+00:00
- - user: None
- - tags: []
-
-## Homepage - The Atavist Magazine
- - [https://magazine.atavist.com](https://magazine.atavist.com)
- - date published: 2023-10-25T12:47:35.472094+00:00
- - user: None
- - tags: []
-
-## atb - NEXT
- - [https://atb-music.com](https://atb-music.com)
- - date published: 2023-11-13T10:23:22.137674+00:00
- - user: None
- - tags: ['music band']
-
-## mathew's web site  | Ghost of a chance
- - [https://meta.ath0.com](https://meta.ath0.com)
- - date published: 2023-10-25T12:47:40.391860+00:00
- - user: None
- - tags: []
-
-## Renato Athaydes
- - [https://renato.athaydes.com](https://renato.athaydes.com)
- - date published: 2023-10-25T09:05:15.180164+00:00
- - user: None
- - tags: ['personal']
-
-## Athenil
- - [https://athenil.com](https://athenil.com)
- - date published: 2023-11-24T01:58:48.935933+00:00
- - user: None
- - tags: []
 
