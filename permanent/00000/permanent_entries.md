@@ -1120,6 +1120,12 @@
  - user: None
  - tags: []
 
+## ResearchRabbit
+ - [https://www.researchrabbit.ai](https://www.researchrabbit.ai)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Rewind
  - [https://www.rewind.ai](https://www.rewind.ai)
  - date published: 2023-10-25T11:42:16.679664+00:00
@@ -3574,6 +3580,12 @@
  - user: None
  - tags: []
 
+## Conor Black, Author
+ - [https://conor.black](https://conor.black)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## 8Sided Blog
  - [https://8sided.blog](https://8sided.blog)
  - date published: 2023-12-25T22:11:32.378760+00:00
@@ -5177,6 +5189,12 @@
  - user: None
  - tags: ['personal']
 
+## Software Analysis Research Group
+ - [http://sarg.ryerson.ca](http://sarg.ryerson.ca)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Scholastic Canada
  - [https://www.scholastic.ca](https://www.scholastic.ca)
  - date published: 2024-01-02T00:03:11.274641+00:00
@@ -5188,6 +5206,12 @@
  - date published: 2023-10-25T09:02:45.716038+00:00
  - user: None
  - tags: ['personal']
+
+## Scott Redmond
+ - [https://www.scottredmond.ca](https://www.scottredmond.ca)
+ - date published: 2024-01-23T03:27:52.039443+00:00
+ - user: None
+ - tags: []
 
 ## The Second Egress: Building a Code Change
  - [https://secondegress.ca](https://secondegress.ca)
@@ -5975,28 +5999,4 @@
  - date published: 2023-10-25T09:03:08.833901+00:00
  - user: None
  - tags: ['personal']
-
-## Scanalyst - Fourmilab Forum: SCANALYZER and more
- - [https://scanalyst.fourmilab.ch](https://scanalyst.fourmilab.ch)
- - date published: 2023-10-25T12:13:48.508095+00:00
- - user: None
- - tags: []
-
-## Fourmilab
- - [https://www.fourmilab.ch](https://www.fourmilab.ch)
- - date published: 2024-01-05T19:09:00.683849+00:00
- - user: None
- - tags: []
-
-## A Java geek
- - [https://blog.frankel.ch](https://blog.frankel.ch)
- - date published: 2023-10-25T09:03:10.100142+00:00
- - user: None
- - tags: ['personal']
-
-## Frank Renold
- - [https://frankrenold.ch](https://frankrenold.ch)
- - date published: 2024-01-06T08:53:55.074747+00:00
- - user: None
- - tags: []
 

@@ -1,3 +1,153 @@
+## Middle East and Israel News | All Breaking News | The Jerusalem Post
+ - [https://jpost.com](https://jpost.com)
+ - date published: 2023-10-30T13:20:42.742067+00:00
+ - user: None
+ - tags: []
+
+## Middle East and Israel News | All Breaking News | The Jerusalem Post
+ - [https://m.jpost.com](https://m.jpost.com)
+ - date published: 2023-10-25T11:47:33.957970+00:00
+ - user: None
+ - tags: []
+
+## Middle East and Israel News | All Breaking News | The Jerusalem Post
+ - [https://www.jpost.com](https://www.jpost.com)
+ - date published: 2023-10-25T10:42:19.438893+00:00
+ - user: None
+ - tags: ['israel news']
+
+## Jeff’s Place v5
+ - [https://www.jpr62.com](https://www.jpr62.com)
+ - date published: 2023-12-11T19:31:19.195049+00:00
+ - user: None
+ - tags: []
+
+## Official jQuery Blog | New Wave Javascript
+ - [https://blog.jquery.com](https://blog.jquery.com)
+ - date published: 2023-10-25T15:32:22.937325+00:00
+ - user: None
+ - tags: []
+
+## jQuery CDN
+ - [https://code.jquery.com](https://code.jquery.com)
+ - date published: 2023-12-11T18:29:47.227941+00:00
+ - user: None
+ - tags: []
+
+## jQuery
+ - [https://jquery.com](https://jquery.com)
+ - date published: 2023-11-01T08:42:23.287841+00:00
+ - user: None
+ - tags: []
+
+## J.Q. Whitcomb – trumpet
+ - [https://jqwhitcomb.com](https://jqwhitcomb.com)
+ - date published: 2024-01-20T13:00:25.112541+00:00
+ - user: None
+ - tags: []
+
+## James Sinclair
+ - [https://jrsinclair.com](https://jrsinclair.com)
+ - date published: 2023-10-25T15:32:26.809287+00:00
+ - user: None
+ - tags: []
+
+## https://www.jsad.com
+ - [https://www.jsad.com](https://www.jsad.com)
+ - date published: 2023-11-02T20:51:07.780630+00:00
+ - user: None
+ - tags: []
+
+## J. Sanilac
+ - [https://www.jsanilac.com](https://www.jsanilac.com)
+ - date published: 2023-10-25T15:32:29.108341+00:00
+ - user: None
+ - tags: []
+
+## JS Bin
+ - [https://jsbin.com](https://jsbin.com)
+ - date published: 2023-12-11T12:23:44+00:00
+ - user: rumpel
+ - tags: ['code sandbox', 'online tool']
+
+## JS Is Weird
+ - [https://jsisweird.com](https://jsisweird.com)
+ - date published: 2023-10-25T15:32:31.192289+00:00
+ - user: None
+ - tags: []
+
+## J Wiki
+ - [https://code.jsoftware.com](https://code.jsoftware.com)
+ - date published: 2023-10-25T15:32:33.481302+00:00
+ - user: None
+ - tags: []
+
+## json-joy
+ - [https://jsonjoy.com](https://jsonjoy.com)
+ - date published: 2023-10-25T15:32:36.143937+00:00
+ - user: None
+ - tags: []
+
+## Milwaukee - home
+ - [https://www.jsonline.com](https://www.jsonline.com)
+ - date published: 2023-10-25T15:32:39.275546+00:00
+ - user: None
+ - tags: []
+
+## JT Olio | jtolio.com
+ - [https://www.jtolio.com](https://www.jtolio.com)
+ - date published: 2022-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Juan and Joe Comedy
+ - [https://www.juanandjoecomedy.com](https://www.juanandjoecomedy.com)
+ - date published: 2023-11-29T17:08:42.429078+00:00
+ - user: None
+ - tags: []
+
+## Bastian Halbach | jubari.com
+ - [https://www.jubari.com](https://www.jubari.com)
+ - date published: 2023-12-12T13:08:58.557951+00:00
+ - user: None
+ - tags: ['personal']
+
+## Climate Etc.
+ - [https://judithcurry.com](https://judithcurry.com)
+ - date published: 2023-10-25T15:32:43.494387+00:00
+ - user: None
+ - tags: []
+
+## JuiceFS - Open Source Distributed POSIX File System for Cloud
+ - [https://juicefs.com](https://juicefs.com)
+ - date published: 2023-10-25T15:32:52.234309+00:00
+ - user: None
+ - tags: []
+
+## Juicy Beast – Indie game studio based in Montreal
+ - [https://juicybeast.com](https://juicybeast.com)
+ - date published: 2023-10-25T15:32:55.182232+00:00
+ - user: None
+ - tags: []
+
+## Julian Shapiro
+ - [https://www.julian.com](https://www.julian.com)
+ - date published: 2023-10-25T15:33:01.258134+00:00
+ - user: None
+ - tags: []
+
+## Juliana Han | Pianist
+ - [https://www.julianahan.com](https://www.julianahan.com)
+ - date published: 2023-11-29T17:14:16.216702+00:00
+ - user: None
+ - tags: []
+
+## JuliaZoid
+ - [https://juliazoid.com](https://juliazoid.com)
+ - date published: 2023-10-25T15:33:09.377920+00:00
+ - user: None
+ - tags: []
+
 ## I'm lovin' I.T. by Julien Sobczak
  - [https://www.juliensobczak.com](https://www.juliensobczak.com)
  - date published: 2023-10-25T15:33:10.910422+00:00
@@ -481,6 +631,12 @@
 ## Welcome
  - [https://www.katiequinney.com](https://www.katiequinney.com)
  - date published: 2024-01-10T23:53:18.181914+00:00
+ - user: None
+ - tags: []
+
+## Kat Huang
+ - [https://katmh.com](https://katmh.com)
+ - date published: 2024-01-23T03:27:40.037859+00:00
  - user: None
  - tags: []
 
@@ -1077,7 +1233,7 @@
  - [https://www.kirkusreviews.com](https://www.kirkusreviews.com)
  - date published: 2023-10-25T15:37:36.619388+00:00
  - user: None
- - tags: []
+ - tags: ['book reviews']
 
 ## Seattle News, Weather, Traffic & Sports | KIRO-TV – KIRO 7 News Seattle
  - [https://www.kiro7.com](https://www.kiro7.com)
@@ -1604,6 +1760,12 @@
 ## Home
  - [https://kunalanand.com](https://kunalanand.com)
  - date published: 2018-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Kunal
+ - [https://kunalmarwaha.com](https://kunalmarwaha.com)
+ - date published: 2024-01-23T03:27:16.214170+00:00
  - user: None
  - tags: []
 
@@ -2693,6 +2855,12 @@
  - user: None
  - tags: []
 
+## LibraryThing | Catalog your books online | LibraryThing
+ - [https://www.librarything.com](https://www.librarything.com)
+ - date published: 2024-01-23T13:38:55+00:00
+ - user: rumpel
+ - tags: ['book catalog']
+
 ## Advent of Computing
  - [https://adventofcomputing.libsyn.com](https://adventofcomputing.libsyn.com)
  - date published: 2023-10-25T15:46:18.588810+00:00
@@ -3291,7 +3459,7 @@
  - [https://locusmag.com](https://locusmag.com)
  - date published: 2023-10-25T15:49:23.976381+00:00
  - user: None
- - tags: ['fantasy', 'books', 'science fiction']
+ - tags: ['books', 'science-fiction', 'fantasy']
 
 ## Lode Runner Web Game (online game)
  - [https://loderunnerwebgame.com](https://loderunnerwebgame.com)
@@ -3774,6 +3942,12 @@ diversions.
  - user: None
  - tags: []
 
+## Luzme, the ebook search site
+ - [https://blog.luzme.com](https://blog.luzme.com)
+ - date published: 2019-03-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## ..::LvL - Quake 3 Arena Maps (Q3A Custom Maps)
  - [https://lvlworld.com](https://lvlworld.com)
  - date published: 2023-10-27T13:48:04.565038+00:00
@@ -3861,6 +4035,12 @@ diversions.
 ## Store
  - [https://edu.machinelearningplus.com](https://edu.machinelearningplus.com)
  - date published: 2023-10-25T15:53:20.695196+00:00
+ - user: None
+ - tags: []
+
+## MacInTouch – timely, accurate info since 1985
+ - [https://www.macintouch.com](https://www.macintouch.com)
+ - date published: 2024-01-23T16:31:45.602470+00:00
  - user: None
  - tags: []
 
@@ -4138,7 +4318,7 @@ diversions.
  - [https://www.makerhacks.com](https://www.makerhacks.com)
  - date published: 2023-12-11T17:52:35.069448+00:00
  - user: None
- - tags: []
+ - tags: ['hardware hacking', 'hardware tinkering']
 
 ## DIY | Makers Mashup
  - [https://www.makersmashup.com](https://www.makersmashup.com)
@@ -4156,7 +4336,7 @@ diversions.
  - [https://makezine.com](https://makezine.com)
  - date published: 2023-11-27T16:27:53+00:00
  - user: rumpel
- - tags: ['tech', 'creators', '3d printing', 'sbc']
+ - tags: ['tech', 'creators', '3d printing', 'single-board']
 
 ## Making It with Chris G.
  - [https://www.makingitwithchrisg.com](https://www.makingitwithchrisg.com)
@@ -4498,6 +4678,12 @@ diversions.
 ## Mark Marshall
  - [https://www.markmarshall.com](https://www.markmarshall.com)
  - date published: 2024-01-14T17:11:57.067129+00:00
+ - user: None
+ - tags: []
+
+## Mark Mosher Multimedia
+ - [https://markmoshermusic.com](https://markmoshermusic.com)
+ - date published: 2024-01-23T03:27:23.327248+00:00
  - user: None
  - tags: []
 
@@ -5527,6 +5713,12 @@ diversions.
  - user: None
  - tags: []
 
+## End Forced Arbitration – Medium
+ - [https://endforcedarbitration.medium.com](https://endforcedarbitration.medium.com)
+ - date published: 2024-01-23T09:08:02.722628+00:00
+ - user: None
+ - tags: []
+
 ## Erik van de Ven – Medium
  - [https://erikvandeven.medium.com](https://erikvandeven.medium.com)
  - date published: 2023-10-25T10:20:02.499859+00:00
@@ -5806,198 +5998,6 @@ diversions.
 ## Matt Schellhas – Medium
  - [https://matt-schellhas.medium.com](https://matt-schellhas.medium.com)
  - date published: 2023-10-25T10:21:43.331825+00:00
- - user: None
- - tags: []
-
-## Matthias Bühlmann – Medium
- - [https://matthias-buehlmann.medium.com](https://matthias-buehlmann.medium.com)
- - date published: 2023-10-25T10:21:45.263139+00:00
- - user: None
- - tags: []
-
-## Michael Dubakov – Medium
- - [https://mdubakov.medium.com](https://mdubakov.medium.com)
- - date published: 2023-10-25T10:21:47.728718+00:00
- - user: None
- - tags: []
-
-## Matt Welsh – Medium
- - [https://mdwdotla.medium.com](https://mdwdotla.medium.com)
- - date published: 2023-10-25T10:21:50.299253+00:00
- - user: None
- - tags: []
-
-## Medium – Where good ideas find you.
- - [https://medium.com](https://medium.com)
- - date published: 2023-10-25T14:33:39.240442+00:00
- - user: None
- - tags: []
-
-## Masayuki Hatta – Medium
- - [https://mhatta.medium.com](https://mhatta.medium.com)
- - date published: 2023-10-25T10:21:53.146584+00:00
- - user: None
- - tags: []
-
-## MooseyAnon – Medium
- - [https://mooseyanon.medium.com](https://mooseyanon.medium.com)
- - date published: 2023-11-01T02:23:21.073666+00:00
- - user: None
- - tags: []
-
-## Andrei R | Mr Fireside – Medium
- - [https://mrfireside.medium.com](https://mrfireside.medium.com)
- - date published: 2023-10-25T10:21:55.362809+00:00
- - user: None
- - tags: []
-
-## Medium
- - [https://mrs-t.medium.com](https://mrs-t.medium.com)
- - date published: 2023-10-25T10:21:56.734858+00:00
- - user: None
- - tags: []
-
-## Matt Calder – Medium
- - [https://mvcalder-01701.medium.com](https://mvcalder-01701.medium.com)
- - date published: 2023-10-25T10:21:58.459803+00:00
- - user: None
- - tags: []
-
-## Fernando Villalba – Medium
- - [https://nandovillalba.medium.com](https://nandovillalba.medium.com)
- - date published: 2023-10-26T06:39:56.179167+00:00
- - user: None
- - tags: []
-
-## Netflix Technology Blog – Medium
- - [https://netflixtechblog.medium.com](https://netflixtechblog.medium.com)
- - date published: 2023-10-25T10:22:00.831065+00:00
- - user: None
- - tags: []
-
-## Nick Hilton – Medium
- - [https://nickfthilton.medium.com](https://nickfthilton.medium.com)
- - date published: 2023-10-25T10:22:03.024047+00:00
- - user: None
- - tags: []
-
-## Leonard and Sondra Nones – Medium
- - [https://nones-leonard.medium.com](https://nones-leonard.medium.com)
- - date published: 2023-10-25T10:22:05.192487+00:00
- - user: None
- - tags: []
-
-## Obie Fernandez – Medium
- - [https://obie.medium.com](https://obie.medium.com)
- - date published: 2023-10-25T10:22:12.616559+00:00
- - user: None
- - tags: []
-
-## OneZero
- - [https://onezero.medium.com](https://onezero.medium.com)
- - date published: 2023-10-25T10:22:19.984318+00:00
- - user: None
- - tags: []
-
-## Patrik Mojzis – Medium
- - [https://patrikmojzis.medium.com](https://patrikmojzis.medium.com)
- - date published: 2024-01-09T15:18:49+00:00
- - user: rumpel
- - tags: ['personal']
-
-## Paul Fuhr – Medium
- - [https://paulfuhr.medium.com](https://paulfuhr.medium.com)
- - date published: 2023-10-25T10:22:22.357828+00:00
- - user: None
- - tags: []
-
-## Peter Czernecki 10xONE, iAGE / startup, turnaround – Medium
- - [https://pczernecki.medium.com](https://pczernecki.medium.com)
- - date published: 2024-01-03T05:05:02.253501+00:00
- - user: None
- - tags: []
-
-## Piotr Jaworski – Medium
- - [https://piotrjaworski.medium.com](https://piotrjaworski.medium.com)
- - date published: 2023-10-25T10:22:24.976124+00:00
- - user: None
- - tags: []
-
-## Privacy1St – Medium
- - [https://privacyis1st.medium.com](https://privacyis1st.medium.com)
- - date published: 2023-10-25T10:22:26.531063+00:00
- - user: None
- - tags: []
-
-## Richard Kenneth Eng – Medium
- - [https://richardeng.medium.com](https://richardeng.medium.com)
- - date published: 2023-10-25T10:22:29.415887+00:00
- - user: None
- - tags: []
-
-## Rosie Sherry – Medium
- - [https://rosiesherry.medium.com](https://rosiesherry.medium.com)
- - date published: 2023-10-25T10:22:31.783188+00:00
- - user: None
- - tags: []
-
-## Ruurtjan Pul – Medium
- - [https://ruurtjan.medium.com](https://ruurtjan.medium.com)
- - date published: 2023-10-25T10:22:34.320278+00:00
- - user: None
- - tags: []
-
-## Ryan Cornateanu – Medium
- - [https://ryancor.medium.com](https://ryancor.medium.com)
- - date published: 2023-10-25T10:22:41.538981+00:00
- - user: None
- - tags: []
-
-## Ryonald Teofilo – Medium
- - [https://ryonaldteofilo.medium.com](https://ryonaldteofilo.medium.com)
- - date published: 2023-10-25T10:22:43.785424+00:00
- - user: None
- - tags: []
-
-## Sacha Arbonel – Medium
- - [https://sachaarbonel.medium.com](https://sachaarbonel.medium.com)
- - date published: 2023-10-25T10:22:46.030789+00:00
- - user: None
- - tags: []
-
-## Sai Gaddam – Medium
- - [https://saigaddam.medium.com](https://saigaddam.medium.com)
- - date published: 2023-10-25T10:22:48.172465+00:00
- - user: None
- - tags: []
-
-## Sarah Drinkwater – Medium
- - [https://sarahdrinkwater.medium.com](https://sarahdrinkwater.medium.com)
- - date published: 2023-10-25T10:22:50.413109+00:00
- - user: None
- - tags: []
-
-## Sebastian Carlos – Medium
- - [https://sebastiancarlos.medium.com](https://sebastiancarlos.medium.com)
- - date published: 2023-10-25T10:22:58.905115+00:00
- - user: None
- - tags: []
-
-## Shannon Jacobs – Medium
- - [https://shanen.medium.com](https://shanen.medium.com)
- - date published: 2023-10-25T10:23:01.455983+00:00
- - user: None
- - tags: []
-
-## Sourcery – Medium
- - [https://sourcery-ai.medium.com](https://sourcery-ai.medium.com)
- - date published: 2023-10-25T10:23:03.723269+00:00
- - user: None
- - tags: []
-
-## Stephan Shahinian – Medium
- - [https://stephan-shahinian.medium.com](https://stephan-shahinian.medium.com)
- - date published: 2023-10-25T10:23:05.870308+00:00
  - user: None
  - tags: []
 

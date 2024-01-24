@@ -1,3 +1,249 @@
+## All-Source Intelligence Fusion | Jack Poulson | Substack
+ - [https://jackpoulson.substack.com](https://jackpoulson.substack.com)
+ - date published: 2023-11-18T19:07:51.838890+00:00
+ - user: None
+ - tags: []
+
+## Jacob’s Tech Tavern | Jacob Bartlett | Substack
+ - [https://jacobbartlett.substack.com](https://jacobbartlett.substack.com)
+ - date published: 2023-12-17T23:23:08.731195+00:00
+ - user: None
+ - tags: []
+
+## As Clay Awakens | Jacob Buckman | Substack
+ - [https://jacobbuckman.substack.com](https://jacobbuckman.substack.com)
+ - date published: 2024-01-09T01:41:04.546089+00:00
+ - user: None
+ - tags: []
+
+## jasonbock’s Substack | Jason Bock | Substack
+ - [https://jasonbock.substack.com](https://jasonbock.substack.com)
+ - date published: 2024-01-10T03:58:01.479440+00:00
+ - user: None
+ - tags: []
+
+## The Experiment | Jason Stanford | Substack
+ - [https://jasonstanford.substack.com](https://jasonstanford.substack.com)
+ - date published: 2023-11-28T22:06:34.502561+00:00
+ - user: None
+ - tags: []
+
+## Politics, News, Novels and More | MJ Javani | Substack
+ - [https://javani.substack.com](https://javani.substack.com)
+ - date published: 2024-01-09T01:41:06.222556+00:00
+ - user: None
+ - tags: []
+
+## These Are Systems | Jacob Bayless | Substack
+ - [https://jbconsulting.substack.com](https://jbconsulting.substack.com)
+ - date published: 2024-01-09T01:41:08.420577+00:00
+ - user: None
+ - tags: []
+
+## Tech and Tea | Jean Hsu | Substack
+ - [https://jeanhsu.substack.com](https://jeanhsu.substack.com)
+ - date published: 2024-01-09T01:41:11.957328+00:00
+ - user: None
+ - tags: []
+
+## Points And Figures | Jeffrey Carter | Substack
+ - [https://jeffreycarter.substack.com](https://jeffreycarter.substack.com)
+ - date published: 2023-10-25T09:55:01.324163+00:00
+ - user: None
+ - tags: ['substack']
+
+## An Educated Guess | Jeroen van Baar | Substack
+ - [https://jeroenvanbaar.substack.com](https://jeroenvanbaar.substack.com)
+ - date published: 2023-12-01T21:29:00.031789+00:00
+ - user: None
+ - tags: []
+
+## Jérôme à Paris  | Substack
+ - [https://jeromeaparis.substack.com](https://jeromeaparis.substack.com)
+ - date published: 2023-10-25T09:55:06.824850+00:00
+ - user: None
+ - tags: ['substack']
+
+## Singal-Minded | Jesse Singal | Substack
+ - [https://jessesingal.substack.com](https://jessesingal.substack.com)
+ - date published: 2024-01-09T01:41:19.060592+00:00
+ - user: None
+ - tags: []
+
+## The Unpublishable | Jessica DeFino | Substack
+ - [https://jessicadefino.substack.com](https://jessicadefino.substack.com)
+ - date published: 2023-10-25T09:55:15.775970+00:00
+ - user: None
+ - tags: ['substack']
+
+## Noted | Jillian Hess | Substack
+ - [https://jillianhess.substack.com](https://jillianhess.substack.com)
+ - date published: 2023-10-25T17:19:11.075658+00:00
+ - user: None
+ - tags: []
+
+## Jinay's Substack | Jinay Jain | Substack
+ - [https://jjain.substack.com](https://jjain.substack.com)
+ - date published: 2023-10-25T09:55:19.692399+00:00
+ - user: None
+ - tags: ['substack']
+
+## Pryor Thoughts | JJ Pryor | Substack
+ - [https://jjpryor.substack.com](https://jjpryor.substack.com)
+ - date published: 2023-10-25T09:55:26.042636+00:00
+ - user: None
+ - tags: ['substack']
+
+## Causal Deference | John McDonnell | Substack
+ - [https://jmcdonnell.substack.com](https://jmcdonnell.substack.com)
+ - date published: 2023-10-25T09:55:29.223040+00:00
+ - user: None
+ - tags: ['substack']
+
+## A Closer Look with Joe Morrison | Substack
+ - [https://joemorrison.substack.com](https://joemorrison.substack.com)
+ - date published: 2024-01-09T01:41:21.259857+00:00
+ - user: None
+ - tags: []
+
+## JoeBlogs | Joe Posnanski | Substack
+ - [https://joeposnanski.substack.com](https://joeposnanski.substack.com)
+ - date published: 2023-10-25T09:55:38.595856+00:00
+ - user: None
+ - tags: ['substack']
+
+## After Babel | Jon Haidt | Substack
+ - [https://jonathanhaidt.substack.com](https://jonathanhaidt.substack.com)
+ - date published: 2024-01-09T01:41:24.980838+00:00
+ - user: None
+ - tags: []
+
+## Joscha Bach | Substack
+ - [https://joscha.substack.com](https://joscha.substack.com)
+ - date published: 2023-10-25T09:55:48.369614+00:00
+ - user: None
+ - tags: ['substack']
+
+## In Due Course | Joseph Heath | Substack
+ - [https://josephheath.substack.com](https://josephheath.substack.com)
+ - date published: 2023-12-31T16:29:29.512997+00:00
+ - user: None
+ - tags: []
+
+## Wednesday Wisdom | Jos Visser | Substack
+ - [https://josvisser.substack.com](https://josvisser.substack.com)
+ - date published: 2023-12-07T03:05:59.094132+00:00
+ - user: None
+ - tags: []
+
+## quite useless | a. natasha joukovsky | Substack
+ - [https://joukovsky.substack.com](https://joukovsky.substack.com)
+ - date published: 2023-10-25T09:55:57.553758+00:00
+ - user: None
+ - tags: ['substack']
+
+## Finding Joy | Joy Lere, Psy.D. | Substack
+ - [https://joylere.substack.com](https://joylere.substack.com)
+ - date published: 2023-10-25T09:56:00.200869+00:00
+ - user: None
+ - tags: ['substack']
+
+## Delayed Branch | Jason Rahman | Substack
+ - [https://jprahman.substack.com](https://jprahman.substack.com)
+ - date published: 2024-01-09T01:41:28.615386+00:00
+ - user: None
+ - tags: []
+
+## Teaching computers how to talk | Jurgen Gravestein | Substack
+ - [https://jurgengravestein.substack.com](https://jurgengravestein.substack.com)
+ - date published: 2023-10-25T09:56:12.153586+00:00
+ - user: None
+ - tags: ['substack']
+
+## Justin Smith-Ruiu’s Hinternet | Substack
+ - [https://justinehsmith.substack.com](https://justinehsmith.substack.com)
+ - date published: 2024-01-09T01:41:31.303927+00:00
+ - user: None
+ - tags: []
+
+## The Kaitchup – AI on a Budget | Benjamin Marie, PhD | Substack
+ - [https://kaitchup.substack.com](https://kaitchup.substack.com)
+ - date published: 2023-10-25T09:56:18.279130+00:00
+ - user: None
+ - tags: ['substack']
+
+## Kanekoa News | Substack
+ - [https://kanekoa.substack.com](https://kanekoa.substack.com)
+ - date published: 2024-01-09T01:41:35.705314+00:00
+ - user: None
+ - tags: []
+
+## Nine Lives | Karawynn Long | Substack
+ - [https://karawynn.substack.com](https://karawynn.substack.com)
+ - date published: 2024-01-09T01:41:39.328336+00:00
+ - user: None
+ - tags: []
+
+## Kareem Abdul-Jabbar | Substack
+ - [https://kareem.substack.com](https://kareem.substack.com)
+ - date published: 2023-10-25T09:56:43.884000+00:00
+ - user: None
+ - tags: ['substack']
+
+## Essays by Ken Lane | Substack
+ - [https://kenlane.substack.com](https://kenlane.substack.com)
+ - date published: 2023-12-11T10:57:46.356034+00:00
+ - user: None
+ - tags: ['personal']
+
+## Erdmann Housing Tracker | Kevin Erdmann | Substack
+ - [https://kevinerdmann.substack.com](https://kevinerdmann.substack.com)
+ - date published: 2023-12-19T22:22:46.647327+00:00
+ - user: None
+ - tags: []
+
+## Kids Who Love Math | Sebastian Gutierrez | Substack
+ - [https://kidswholovemath.substack.com](https://kidswholovemath.substack.com)
+ - date published: 2024-01-09T01:41:46.315215+00:00
+ - user: None
+ - tags: []
+
+## Kit’s Newsletter | Kit Klarenberg | Substack
+ - [https://kitklarenberg.substack.com](https://kitklarenberg.substack.com)
+ - date published: 2023-12-04T01:53:45.581863+00:00
+ - user: None
+ - tags: []
+
+## Knoll’s Law | Knoll's Law | Substack
+ - [https://knollslaw.substack.com](https://knollslaw.substack.com)
+ - date published: 2024-01-09T01:41:47.891078+00:00
+ - user: None
+ - tags: []
+
+## System Failure | Nathan Knopp | Substack
+ - [https://knopp.substack.com](https://knopp.substack.com)
+ - date published: 2023-10-25T09:56:59.004155+00:00
+ - user: None
+ - tags: ['substack']
+
+## Laetitia@Work | Laëtitia Vitaud | Substack
+ - [https://laetitiaatwork.substack.com](https://laetitiaatwork.substack.com)
+ - date published: 2023-10-25T09:57:02.350935+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Free Mind | Laura Dodsworth | Substack
+ - [https://lauradodsworth.substack.com](https://lauradodsworth.substack.com)
+ - date published: 2024-01-09T01:41:49.947980+00:00
+ - user: None
+ - tags: []
+
+## lcamtuf’s thing | Substack
+ - [https://lcamtuf.substack.com](https://lcamtuf.substack.com)
+ - date published: 2023-10-25T09:57:09.013670+00:00
+ - user: None
+ - tags: ['substack']
+
 ## Leigh Marie’s Newsletter | Leigh Marie Braswell | Substack
  - [https://leighmariebraswell.substack.com](https://leighmariebraswell.substack.com)
  - date published: 2023-10-25T09:57:12.216880+00:00
@@ -1321,6 +1567,12 @@
 ## Everything is Light | Zion Lights | Substack
  - [https://zionlights.substack.com](https://zionlights.substack.com)
  - date published: 2024-01-09T01:46:17.041180+00:00
+ - user: None
+ - tags: []
+
+## https://zverok.substack.com
+ - [https://zverok.substack.com](https://zverok.substack.com)
+ - date published: 2024-01-23T03:19:16.516653+00:00
  - user: None
  - tags: []
 
@@ -2841,6 +3093,12 @@
  - date published: 2023-10-27T10:25:36.186824+00:00
  - user: None
  - tags: ['assets models', '3d printing']
+
+## That Artsy Reader Girl
+ - [https://www.thatartsyreadergirl.com](https://www.thatartsyreadergirl.com)
+ - date published: 2024-01-23T13:37:11+00:00
+ - user: rumpel
+ - tags: ['book reviews']
 
 ## Home | That Helpful Dad
  - [https://thathelpfuldad.com](https://thathelpfuldad.com)
@@ -5743,264 +6001,4 @@
  - date published: 2023-11-09T07:16:51.924656+00:00
  - user: None
  - tags: ['news', 'logistics', 'maritime news']
-
-## https://www.tradientblog.com
- - [https://www.tradientblog.com](https://www.tradientblog.com)
- - date published: 2024-01-09T02:51:43.277125+00:00
- - user: None
- - tags: []
-
-## Echoes of Somewhere - Generative AI assisted experimental freeware 2.5D point and click adventure game research project
- - [https://www.traffickinggame.com](https://www.traffickinggame.com)
- - date published: 2023-10-25T17:45:30.023614+00:00
- - user: None
- - tags: []
-
-## Traffic Technology Today | Planning | Safety | Data Modeling | Smart Cities
- - [https://www.traffictechnologytoday.com](https://www.traffictechnologytoday.com)
- - date published: 2024-01-11T04:50:21.137124+00:00
- - user: None
- - tags: []
-
-## Homepage - Trailhead Technology Partners
- - [https://trailheadtechnology.com](https://trailheadtechnology.com)
- - date published: 2023-10-25T17:45:32.800756+00:00
- - user: None
- - tags: []
-
-## The bitsavers main page
- - [http://bitsavers.trailing-edge.com](http://bitsavers.trailing-edge.com)
- - date published: 2023-10-25T17:45:33.848628+00:00
- - user: None
- - tags: []
-
-## Trail of Bits Blog
- - [https://blog.trailofbits.com](https://blog.trailofbits.com)
- - date published: 2023-10-25T17:45:39.302092+00:00
- - user: None
- - tags: []
-
-## Home - Trains
- - [https://www.trains.com](https://www.trains.com)
- - date published: 2023-10-25T11:10:31.427688+00:00
- - user: None
- - tags: []
-
-## Traipsing About
- - [https://www.traipsingabout.com](https://www.traipsingabout.com)
- - date published: 2023-11-29T15:16:04.158104+00:00
- - user: None
- - tags: ['personal']
-
-## Olark jobs |
-    Olark openings |
-    Olark careers
- - [https://olark.hire.trakstar.com](https://olark.hire.trakstar.com)
- - date published: 2023-10-25T17:45:40.696654+00:00
- - user: None
- - tags: []
-
-## The TrampolineTales Newsletter
- - [https://blog.trampolinetales.com](https://blog.trampolinetales.com)
- - date published: 2023-10-27T11:55:53.374754+00:00
- - user: None
- - tags: []
-
-## Transit • Make life better without a car.
- - [https://transitapp.com](https://transitapp.com)
- - date published: 2023-11-02T19:49:30.402526+00:00
- - user: None
- - tags: []
-
-## Mark Binder author storyteller nice guy books audiobook - Schools
- - [https://transmitjoy.com](https://transmitjoy.com)
- - date published: 2024-01-09T21:37:18.836063+00:00
- - user: None
- - tags: []
-
-## Transmutable Explorations
- - [https://www.transmutableexplorations.com](https://www.transmutableexplorations.com)
- - date published: 2024-01-12T18:46:59.246491+00:00
- - user: None
- - tags: []
-
-## family collection klinkhamer, trash loop .com by rafaël rozendaal, 2015
- - [https://www.trashloop.com](https://www.trashloop.com)
- - date published: 2023-10-27T10:56:22.410673+00:00
- - user: None
- - tags: ['wtf']
-
-## Welcome to Travanie Travels
- - [https://travanietravels.com](https://travanietravels.com)
- - date published: 2023-12-22T17:51:27.518093+00:00
- - user: None
- - tags: ['personal']
-
-## Travel + Leisure: Travel Reviews, News, Guides & Tips
- - [https://www.travelandleisure.com](https://www.travelandleisure.com)
- - date published: 2023-10-27T11:56:01.635878+00:00
- - user: None
- - tags: []
-
-## Croatia Honestly Homepage
- - [https://travelhonestly.com](https://travelhonestly.com)
- - date published: 2023-12-31T13:22:19.962818+00:00
- - user: None
- - tags: []
-
-## Travel Japan Like a Local Japan Travel Tips, Straight From the Source
- - [https://traveljapanlocal.com](https://traveljapanlocal.com)
- - date published: 2023-11-29T17:16:14.299259+00:00
- - user: None
- - tags: []
-
-## TravelnLass
- - [https://www.travelnlass.com](https://www.travelnlass.com)
- - date published: 2023-11-29T15:29:58.354556+00:00
- - user: None
- - tags: []
-
-## Travel Off Path - Travel News and Tips for U.S. Travelers
- - [https://www.traveloffpath.com](https://www.traveloffpath.com)
- - date published: 2023-10-27T11:56:04.451368+00:00
- - user: None
- - tags: []
-
-## Travis Dailey | Growth Marketing
- - [https://travisdailey.com](https://travisdailey.com)
- - date published: 2024-01-15T08:35:08.073865+00:00
- - user: None
- - tags: []
-
-## Travis Hellstrom
- - [https://travishellstrom.com](https://travishellstrom.com)
- - date published: 2024-01-13T09:37:09.274582+00:00
- - user: None
- - tags: []
-
-## Home | TravisJayWood
- - [https://www.travisjaywood.com](https://www.travisjaywood.com)
- - date published: 2024-01-09T00:12:09.105181+00:00
- - user: None
- - tags: []
-
-## https://www.travisknightmusic.com
- - [https://www.travisknightmusic.com](https://www.travisknightmusic.com)
- - date published: 2024-01-09T02:51:44.234036+00:00
- - user: None
- - tags: []
-
-## Travis Northcutt
- - [https://travisnorthcutt.com](https://travisnorthcutt.com)
- - date published: 2023-11-29T14:53:29.691761+00:00
- - user: None
- - tags: ['personal']
-
-## Treblle API Blog
- - [https://blog.treblle.com](https://blog.treblle.com)
- - date published: 2023-10-27T11:56:06.146440+00:00
- - user: None
- - tags: []
-
-## Treehugger
- - [https://www.treehugger.com](https://www.treehugger.com)
- - date published: 2023-10-27T11:56:09.042822+00:00
- - user: None
- - tags: []
-
-## A Legacy Video Is The Ultimate Gift!
- - [https://treeoflifelegacies.com](https://treeoflifelegacies.com)
- - date published: 2024-01-18T16:42:47.373654+00:00
- - user: None
- - tags: []
-
-## Treksit | Interstellar puzzle based on Graph Theory
- - [https://treksit.com](https://treksit.com)
- - date published: 2023-10-25T17:46:30.386189+00:00
- - user: None
- - tags: []
-
-## Tremendous Gift Cards. Rewards & payouts & more | Tremendous
- - [https://www.tremendous.com](https://www.tremendous.com)
- - date published: 2023-10-25T17:46:31.921844+00:00
- - user: None
- - tags: []
-
-## Numer 1 w dziedzinie bezpieczeństwa w chmurze i cyberbezpieczeństwa punktów końcowych | Trend Micro (PL)
- - [https://www.trendmicro.com](https://www.trendmicro.com)
- - date published: 2023-10-25T17:46:39.133559+00:00
- - user: None
- - tags: []
-
-## @trevoragilbert
- - [https://www.trevoragilbert.com](https://www.trevoragilbert.com)
- - date published: 2024-01-12T00:51:16.473134+00:00
- - user: None
- - tags: []
-
-## Trevor Phillips - Home
- - [https://trevphil.com](https://trevphil.com)
- - date published: 2023-12-15T21:42:06.157324+00:00
- - user: None
- - tags: ['personal']
-
-## treycausey.com
- - [https://www.treycausey.com](https://www.treycausey.com)
- - date published: 2023-10-25T17:46:41.867181+00:00
- - user: None
- - tags: []
-
-## Tri-Cities WA Breaking News, Sports & Crime | Tri-City Herald
- - [https://www.tri-cityherald.com](https://www.tri-cityherald.com)
- - date published: 2023-10-25T17:46:48.318447+00:00
- - user: None
- - tags: []
-
-## Trialfacts
- - [https://trialfacts.com](https://trialfacts.com)
- - date published: 2023-12-03T01:43:30.890601+00:00
- - user: None
- - tags: []
-
-## Home | TribLIVE.com
- - [https://triblive.com](https://triblive.com)
- - date published: 2023-10-25T17:46:56.922760+00:00
- - user: None
- - tags: []
-
-## News Headlines: Top News Today & Breaking News | Tribune India
- - [https://www.tribuneindia.com](https://www.tribuneindia.com)
- - date published: 2023-10-25T17:47:05.113159+00:00
- - user: None
- - tags: []
-
-## Trickest: Automate Offensive Security, EASM, Threat Intelligence, and your Custom Security Processes | Trickest
- - [https://trickest.com](https://trickest.com)
- - date published: 2023-10-25T17:47:07.375769+00:00
- - user: None
- - tags: []
-
-## Hackman's Realm
- - [https://lateblt.tripod.com](https://lateblt.tripod.com)
- - date published: 2023-10-25T17:47:10.090461+00:00
- - user: None
- - tags: []
-
-## About Me - Trisha Gee
- - [https://trishagee.com](https://trishagee.com)
- - date published: 2023-10-25T17:47:20.373023+00:00
- - user: None
- - tags: []
-
-## Triton Station – A Blog About the Science and Sociology of Cosmology and Dark Matter
- - [https://tritonstation.com](https://tritonstation.com)
- - date published: 2023-10-25T17:47:23.092421+00:00
- - user: None
- - tags: []
-
-## Home - Trivia-Library.com
- - [https://www.trivia-library.com](https://www.trivia-library.com)
- - date published: 2023-10-25T09:27:54.754039+00:00
- - user: None
- - tags: []
 

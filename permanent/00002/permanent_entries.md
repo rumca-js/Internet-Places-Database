@@ -1,3 +1,75 @@
+## A Smart Bear
+ - [https://longform.asmartbear.com](https://longform.asmartbear.com)
+ - date published: 2023-10-25T12:46:57.562576+00:00
+ - user: None
+ - tags: []
+
+## ASML | The world's supplier to the semiconductor industry
+ - [https://www.asml.com](https://www.asml.com)
+ - date published: 2023-10-25T12:47:01.318225+00:00
+ - user: None
+ - tags: []
+
+## AssemblyAI | AI models to transcribe and understand speech
+ - [https://www.assemblyai.com](https://www.assemblyai.com)
+ - date published: 2023-10-25T12:47:05.319435+00:00
+ - user: None
+ - tags: []
+
+## Assembly Magazine | Manufacturing automation and design | ASSEMBLY
+ - [https://www.assemblymag.com](https://www.assemblymag.com)
+ - date published: 2023-10-25T12:47:11.183469+00:00
+ - user: None
+ - tags: []
+
+## Asterisk
+ - [https://asteriskmag.com](https://asteriskmag.com)
+ - date published: 2023-10-25T10:36:42.137629+00:00
+ - user: None
+ - tags: []
+
+## Astral Codex Ten | Scott Alexander | Substack
+ - [https://www.astralcodexten.com](https://www.astralcodexten.com)
+ - date published: 2023-10-27T04:21:23.608397+00:00
+ - user: None
+ - tags: []
+
+## AstraZeneca - Research-Based BioPharmaceutical Company
+ - [https://www.astrazeneca.com](https://www.astrazeneca.com)
+ - date published: 2023-11-01T08:41:31.502444+00:00
+ - user: None
+ - tags: []
+
+## AstroBin
+ - [https://www.astrobin.com](https://www.astrobin.com)
+ - date published: 2023-10-25T12:47:15.474607+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.astronautix.com](https://www.astronautix.com)
+ - date published: 2024-01-09T02:29:57.237713+00:00
+ - user: None
+ - tags: []
+
+## The world's best website for the the world’s best-selling astronomy magazine.
+ - [https://www.astronomy.com](https://www.astronomy.com)
+ - date published: 2023-12-29T14:20:32.421258+00:00
+ - user: None
+ - tags: []
+
+## ROG - Republic of Gamers｜Global | For Those Who Dare
+ - [https://rog.asus.com](https://rog.asus.com)
+ - date published: 2024-01-21T19:16:40.354023+00:00
+ - user: None
+ - tags: []
+
+## Tinker Board
+ - [https://tinker-board.asus.com](https://tinker-board.asus.com)
+ - date published: 2023-10-25T08:38:34.670910+00:00
+ - user: None
+ - tags: ['hardware', 'product']
+
 ## ASUS Global
  - [https://www.asus.com](https://www.asus.com)
  - date published: 2023-10-25T11:27:20.087992+00:00
@@ -939,6 +1011,12 @@
  - date published: 2023-10-25T08:25:34.703651+00:00
  - user: None
  - tags: []
+
+## Online Bookstore: Books, NOOK ebooks, Music, Movies & Toys
+ - [https://www.barnesandnoble.com](https://www.barnesandnoble.com)
+ - date published: 2024-01-23T13:54:36+00:00
+ - user: rumpel
+ - tags: ['ebooks', 'magazines', 'shop']
 
 ## Journey Notes - Your guide to a safer path
  - [https://blog.barracuda.com](https://blog.barracuda.com)
@@ -3332,7 +3410,7 @@
  - [https://bob-wagner.com](https://bob-wagner.com)
  - date published: 2023-12-03T23:30:46.221944+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Bob Bertsch
  - [https://bobbertsch.com](https://bobbertsch.com)
@@ -3484,6 +3562,12 @@
  - user: None
  - tags: []
 
+## https://www.bookbub.com
+ - [https://www.bookbub.com](https://www.bookbub.com)
+ - date published: 2024-01-23T13:39:48+00:00
+ - user: rumpel
+ - tags: []
+
 ## Amazon.com: Books
  - [https://www.bookdepository.com](https://www.bookdepository.com)
  - date published: 2023-10-25T13:08:04.593045+00:00
@@ -3502,6 +3586,12 @@
  - user: rumpel
  - tags: ['booking', 'rentals']
 
+## BookPage | Discover your next great book!
+ - [https://www.bookpage.com](https://www.bookpage.com)
+ - date published: 2024-01-23T13:40:53+00:00
+ - user: rumpel
+ - tags: ['book reviews']
+
 ## Bookreporter.com |
  - [https://www.bookreporter.com](https://www.bookreporter.com)
  - date published: 2023-11-07T16:06:19.097099+00:00
@@ -3512,7 +3602,7 @@
  - [https://bookriot.com](https://bookriot.com)
  - date published: 2023-10-25T13:08:14.644680+00:00
  - user: None
- - tags: []
+ - tags: ['book reviews', 'books']
 
 ## Books & Books | Locally-owned, independent neighborhood bookstore
  - [https://www.booksandbooks.com](https://www.booksandbooks.com)
@@ -5326,6 +5416,12 @@
  - user: None
  - tags: []
 
+## Cephalofair - Epic Strategy Awaits
+ - [https://cephalofair.com](https://cephalofair.com)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: rumpel
+ - tags: ['frostahaven', 'tabletop games', 'gloomhaven', 'forge war', 'board games']
+
 ## Joshua Cerdenia, Composer
  - [https://cerdenia.com](https://cerdenia.com)
  - date published: 2023-11-29T16:21:34.257033+00:00
@@ -5905,102 +6001,6 @@
 ## Creator | Chris Spiegl — Content Creator, World Traveler, and Consultant
  - [https://chrisspiegl.com](https://chrisspiegl.com)
  - date published: 2023-12-23T03:00:10.769279+00:00
- - user: None
- - tags: ['personal']
-
-## Chrissy Gillmore
- - [https://www.chrissygillmore.com](https://www.chrissygillmore.com)
- - date published: 2024-01-05T21:36:54.303434+00:00
- - user: None
- - tags: []
-
-## Chris the Freelancer
- - [https://christhefreelancer.com](https://christhefreelancer.com)
- - date published: 2024-01-15T13:58:47.407251+00:00
- - user: None
- - tags: []
-
-## Christian News Headlines - Breaking and Trending Religion News
- - [https://www.christianheadlines.com](https://www.christianheadlines.com)
- - date published: 2023-10-25T10:13:08.561605+00:00
- - user: None
- - tags: []
-
-## Christian Heilmann
- - [https://christianheilmann.com](https://christianheilmann.com)
- - date published: 2023-10-25T13:22:37.195350+00:00
- - user: None
- - tags: []
-
-## ChristianityToday.com
- - [https://www.christianitytoday.com](https://www.christianitytoday.com)
- - date published: 2023-11-27T12:11:51+00:00
- - user: rumpel
- - tags: ['christian news']
-
-## Christian Mills
- - [https://christianjmills.com](https://christianjmills.com)
- - date published: 2023-10-25T08:45:22.645601+00:00
- - user: None
- - tags: ['personal']
-
-## Christian Post | Christian News & Commentaries
- - [https://www.christianpost.com](https://www.christianpost.com)
- - date published: 2023-10-25T10:13:13.137647+00:00
- - user: None
- - tags: []
-
-## Christian Varga
- - [https://christianvarga.com](https://christianvarga.com)
- - date published: 2023-10-25T08:45:24.982295+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://christinchong.com](https://christinchong.com)
- - date published: 2023-12-28T22:26:31.547980+00:00
- - user: None
- - tags: ['personal']
-
-## Christine DeMerchant Site about Boats, boat plans, Boatbuilding, Cats, and other good stuff
- - [https://christinedemerchant.com](https://christinedemerchant.com)
- - date published: 2023-10-25T13:22:43.758095+00:00
- - user: None
- - tags: []
-
-## Chris Titus Tech | Tech Content Creator
- - [https://christitus.com](https://christitus.com)
- - date published: 2023-10-25T09:32:21.672470+00:00
- - user: None
- - tags: []
-
-## I Wanna Be a Sailor
- - [https://christopheducamp.com](https://christopheducamp.com)
- - date published: 2023-12-11T16:22:05.393946+00:00
- - user: None
- - tags: []
-
-## I Wanna Be a Sailor
- - [https://www.christopheducamp.com](https://www.christopheducamp.com)
- - date published: 2023-11-29T15:48:47.945198+00:00
- - user: None
- - tags: ['personal']
-
-## Denatured: the writings of Christopher Ketcham – freelance writer and investigative journalist
- - [https://www.christopherketcham.com](https://www.christopherketcham.com)
- - date published: 2023-11-16T06:39:34.554791+00:00
- - user: None
- - tags: []
-
-## Christopher Sherrod - Entrepreneur & Author - Christopher Sherrod
- - [https://christophersherrod.com](https://christophersherrod.com)
- - date published: 2023-11-29T15:49:40.947012+00:00
- - user: None
- - tags: ['personal']
-
-## Christoph Gruber
- - [https://www.christophgruber.com](https://www.christophgruber.com)
- - date published: 2024-01-17T04:43:22.299793+00:00
  - user: None
  - tags: ['personal']
 

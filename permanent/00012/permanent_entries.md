@@ -1,3 +1,279 @@
+## Xfire - Straight-shooting Video Game & Entertainment News
+ - [https://www.xfire.com](https://www.xfire.com)
+ - date published: 2023-10-25T18:21:42.076056+00:00
+ - user: None
+ - tags: []
+
+## AMD ׀ together we advance_AI
+ - [https://www.xilinx.com](https://www.xilinx.com)
+ - date published: 2023-10-25T18:21:46.931921+00:00
+ - user: None
+ - tags: ['fpga']
+
+## 新华网_让新闻离你更近
+ - [https://www.xinhuanet.com](https://www.xinhuanet.com)
+ - date published: 2023-10-25T18:21:56.235028+00:00
+ - user: None
+ - tags: []
+
+## Xiomaro | Art Studio | New York
+ - [https://xiomaro.com](https://xiomaro.com)
+ - date published: 2024-01-09T02:55:12.811983+00:00
+ - user: None
+ - tags: []
+
+## xkcd: Daylight Saving Choice
+ - [https://xkcd.com](https://xkcd.com)
+ - date published: 2023-10-25T18:21:57.309268+00:00
+ - user: None
+ - tags: ['comics', 'funny images', 'memes']
+
+## x mod 2 | Kirk Thaker | Substack
+ - [https://www.xmodtwo.com](https://www.xmodtwo.com)
+ - date published: 2023-10-25T18:21:58.704877+00:00
+ - user: None
+ - tags: []
+
+## Xmodulo ‒ Linux FAQ
+ - [https://www.xmodulo.com](https://www.xmodulo.com)
+ - date published: 2023-10-25T18:22:00.974957+00:00
+ - user: None
+ - tags: []
+
+## マリウス
+ - [https://xn--gckvb8fzb.com](https://xn--gckvb8fzb.com)
+ - date published: 2023-10-25T18:22:01.979918+00:00
+ - user: None
+ - tags: []
+
+## XOR’s Hammer – Some things in mathematical logic that I find interesting
+ - [https://xorshammer.com](https://xorshammer.com)
+ - date published: 2023-10-25T18:22:04.640484+00:00
+ - user: None
+ - tags: []
+
+## xorvoid
+ - [https://xorvoid.com](https://xorvoid.com)
+ - date published: 2023-10-25T18:22:05.503748+00:00
+ - user: None
+ - tags: []
+
+## Shannon Weber
+ - [https://www.xoshannonweber.com](https://www.xoshannonweber.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Graphic drawing tablets & Digital Art Pads With Screen | XPPen
+ - [https://www.xp-pen.com](https://www.xp-pen.com)
+ - date published: 2023-10-27T13:56:49.144113+00:00
+ - user: None
+ - tags: ['drawing', 'hardware']
+
+## XPN InfoSec Blog
+ - [https://blog.xpnsec.com](https://blog.xpnsec.com)
+ - date published: 2023-10-25T18:22:06.411182+00:00
+ - user: None
+ - tags: []
+
+## XTDB
+ - [https://www.xtdb.com](https://www.xtdb.com)
+ - date published: 2023-10-25T18:22:07.780785+00:00
+ - user: None
+ - tags: []
+
+## Xtra Magazine - Queering the conversation
+ - [https://xtramagazine.com](https://xtramagazine.com)
+ - date published: 2023-10-25T18:22:10.782790+00:00
+ - user: None
+ - tags: ['the left wing', 'lgbt']
+
+## magazine sport XV des gaulois
+ - [https://www.xvdesgaulois.com](https://www.xvdesgaulois.com)
+ - date published: 2024-01-11T07:53:07.761243+00:00
+ - user: None
+ - tags: []
+
+## Xxaxx - Blogging on a variety of topics from spiritual science to game dev.
+ - [http://www.xxaxx.com](http://www.xxaxx.com)
+ - date published: 2023-12-24T02:30:58.315008+00:00
+ - user: None
+ - tags: ['personal']
+
+## XXIIVV — In Transit
+ - [https://wiki.xxiivv.com](https://wiki.xxiivv.com)
+ - date published: 2023-10-25T18:22:11.321810+00:00
+ - user: None
+ - tags: ['personal']
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://add.my.yahoo.com](https://add.my.yahoo.com)
+ - date published: 2023-12-11T17:54:25.322121+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://au.finance.yahoo.com](https://au.finance.yahoo.com)
+ - date published: 2023-10-25T18:22:17.506355+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://au.lifestyle.yahoo.com](https://au.lifestyle.yahoo.com)
+ - date published: 2023-12-05T12:34:14.779055+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://au.news.yahoo.com](https://au.news.yahoo.com)
+ - date published: 2023-11-02T01:27:24.024533+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://autos.yahoo.com](https://autos.yahoo.com)
+ - date published: 2023-12-21T02:23:33.537990+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://ca.news.yahoo.com](https://ca.news.yahoo.com)
+ - date published: 2023-10-25T18:22:19.311480+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://ca.style.yahoo.com](https://ca.style.yahoo.com)
+ - date published: 2023-11-02T17:22:20.047082+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://finance.yahoo.com](https://finance.yahoo.com)
+ - date published: 2023-10-25T10:30:30.327746+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://news.yahoo.com](https://news.yahoo.com)
+ - date published: 2023-10-25T10:16:52.263929+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://sg.news.yahoo.com](https://sg.news.yahoo.com)
+ - date published: 2023-11-08T17:23:05.854339+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://uk.news.yahoo.com](https://uk.news.yahoo.com)
+ - date published: 2023-10-25T18:22:21.043179+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://uk.sports.yahoo.com](https://uk.sports.yahoo.com)
+ - date published: 2023-10-25T18:22:22.751947+00:00
+ - user: None
+ - tags: []
+
+## Yahoo is part of the Yahoo family of brands
+ - [https://www.yahoo.com](https://www.yahoo.com)
+ - date published: 2023-10-25T08:28:22.683805+00:00
+ - user: None
+ - tags: ['search engine']
+
+## Yakihonne
+ - [https://yakihonne.com](https://yakihonne.com)
+ - date published: 2023-10-25T18:22:24.673328+00:00
+ - user: None
+ - tags: []
+
+## Yandex
+ - [https://yandex.com](https://yandex.com)
+ - date published: 2023-10-25T08:28:25.478842+00:00
+ - user: None
+ - tags: ['search engine']
+
+## VC Europe I Yannick Oswald I Blog I European VC Musings
+ - [https://www.yannickoswald.com](https://www.yannickoswald.com)
+ - date published: 2023-10-25T18:22:27.341830+00:00
+ - user: None
+ - tags: []
+
+## Yardbarker.com
+ - [https://www.yardbarker.com](https://www.yardbarker.com)
+ - date published: 2023-11-13T12:43:18.972262+00:00
+ - user: None
+ - tags: ['sport news', 'sport']
+
+## Yash Banka
+ - [https://www.yashbanka.com](https://www.yashbanka.com)
+ - date published: 2023-11-29T15:31:58.631795+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home — @ybouane
+ - [https://ybouane.com](https://ybouane.com)
+ - date published: 2023-10-25T18:22:29.074580+00:00
+ - user: None
+ - tags: []
+
+## https://news.ycombinato.com
+ - [https://news.ycombinato.com](https://news.ycombinato.com)
+ - date published: 2024-01-09T02:55:14.148150+00:00
+ - user: None
+ - tags: []
+
+## Hacker News
+ - [https://news.ycombinator.com](https://news.ycombinator.com)
+ - date published: 2023-10-25T18:22:31.665387+00:00
+ - user: None
+ - tags: ['hacker']
+
+## Y Combinator
+ - [https://www.ycombinator.com](https://www.ycombinator.com)
+ - date published: 2023-10-25T18:22:35.240796+00:00
+ - user: None
+ - tags: []
+
+## YZY
+ - [https://yeezy.com](https://yeezy.com)
+ - date published: 2023-12-15T11:14:44.905593+00:00
+ - user: None
+ - tags: []
+
+## yeggi - 3D Printer Models Search Engine
+ - [https://www.yeggi.com](https://www.yeggi.com)
+ - date published: 2023-10-25T08:30:16.926541+00:00
+ - user: None
+ - tags: ['3d printing', 'assets models']
+
+## None
+ - [https://blog.yenniejun.com](https://blog.yenniejun.com)
+ - date published: 2024-01-09T02:55:29.774770+00:00
+ - user: None
+ - tags: []
+
+## YKM's Corner on the Web
+ - [https://yeokhengmeng.com](https://yeokhengmeng.com)
+ - date published: 2023-10-25T18:22:37.585912+00:00
+ - user: None
+ - tags: []
+
+## Yet Another Blog
+ - [https://www.yet-another-blog.com](https://www.yet-another-blog.com)
+ - date published: 2023-10-25T18:22:39.053631+00:00
+ - user: None
+ - tags: []
+
+## Yinson Lee
+ - [https://yinsonlee.com](https://yinsonlee.com)
+ - date published: 2023-12-30T15:37:35.027510+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Yisheng's blog – software engineering, poetry and short stories
  - [https://yishenggong.com](https://yishenggong.com)
  - date published: 2023-10-25T18:22:43.268814+00:00
@@ -176,13 +452,13 @@
  - [https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg)
  - date published: 2023-11-03T10:34:47+00:00
  - user: rumpel
- - tags: ['raspberry', 'sbc', 'youtuber']
+ - tags: ['raspberry', 'single-board', 'youtuber']
 
 ## Eta Prime YouTube Channel
  - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
  - date published: 2023-11-03T10:35:46+00:00
  - user: rumpel
- - tags: ['raspberry', 'sbc', 'youtuber']
+ - tags: ['raspberry', 'single-board', 'youtuber']
 
 ## Louis Rossmann YouTube Channel
  - [https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w](https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w)
@@ -926,7 +1202,7 @@
  - [https://konecipv4.cz](https://konecipv4.cz)
  - date published: 2024-01-23T00:59:29.294676+00:00
  - user: None
- - tags: []
+ - tags: ['web20', 'internet']
 
 ## MorphOS Software - Czech PowerPC User Group
  - [https://morphos.lukysoft.cz](https://morphos.lukysoft.cz)
@@ -3217,6 +3493,12 @@ home
  - user: None
  - tags: []
 
+## Embrasure
+ - [https://embrasure.dev](https://embrasure.dev)
+ - date published: 2019-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://emnudge.dev](https://emnudge.dev)
  - date published: 2023-10-25T18:37:32.803436+00:00
@@ -4490,6 +4772,12 @@ home
  - user: None
  - tags: ['personal']
 
+## Ryan Brewer's Blog - Ryan Brewer
+ - [https://ryanbrewer.dev](https://ryanbrewer.dev)
+ - date published: 2024-01-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Ryan Mulligan
  - [https://ryanmulligan.dev](https://ryanmulligan.dev)
  - date published: 2023-10-25T08:58:51.816182+00:00
@@ -5717,294 +6005,6 @@ home
 ## Penrose | Penrose
  - [https://penrose.cs.cmu.edu](https://penrose.cs.cmu.edu)
  - date published: 2023-10-25T18:49:42.884999+00:00
- - user: None
- - tags: []
-
-## index -     Electrical and Computer Engineering -     College of Engineering - Carnegie Mellon University
- - [https://users.ece.cmu.edu](https://users.ece.cmu.edu)
- - date published: 2023-10-25T18:49:47.511158+00:00
- - user: None
- - tags: []
-
-## Homepage -     CMU - Carnegie Mellon University
- - [https://www.cmu.edu](https://www.cmu.edu)
- - date published: 2023-10-25T18:49:49.835716+00:00
- - user: None
- - tags: []
-
-## CMU School of Computer Science
- - [https://www.cs.cmu.edu](https://www.cs.cmu.edu)
- - date published: 2023-10-25T18:49:52.744969+00:00
- - user: None
- - tags: []
-
-## Department of Mathematical Sciences
- - [https://www.math.cmu.edu](https://www.math.cmu.edu)
- - date published: 2023-10-25T18:49:53.580780+00:00
- - user: None
- - tags: []
-
-## The Robotics Institute Carnegie Mellon University : Robotics Education and Research Leader
- - [https://www.ri.cmu.edu](https://www.ri.cmu.edu)
- - date published: 2023-11-29T17:37:28.886724+00:00
- - user: None
- - tags: []
-
-## Home | University of Colorado Boulder
- - [https://www.colorado.edu](https://www.colorado.edu)
- - date published: 2023-10-25T18:49:55.392617+00:00
- - user: None
- - tags: []
-
-## Colorado State University News - SOURCE
- - [https://source.colostate.edu](https://source.colostate.edu)
- - date published: 2023-11-29T17:19:55.036565+00:00
- - user: None
- - tags: []
-
-## Diffusion Models for Robotics Control
- - [https://diffusion-policy.cs.columbia.edu](https://diffusion-policy.cs.columbia.edu)
- - date published: 2023-12-14T04:53:26+00:00
- - user: None
- - tags: []
-
-## Columbia Magazine
- - [https://magazine.columbia.edu](https://magazine.columbia.edu)
- - date published: 2023-10-25T18:49:57.691308+00:00
- - user: None
- - tags: []
-
-## State of the Planet - News from the Columbia Climate School
- - [https://news.climate.columbia.edu](https://news.climate.columbia.edu)
- - date published: 2023-12-20T22:47:58.538909+00:00
- - user: None
- - tags: []
-
-## Columbia News
- - [https://news.columbia.edu](https://news.columbia.edu)
- - date published: 2023-12-05T18:08:58.749533+00:00
- - user: None
- - tags: []
-
-## Statistical Modeling, Causal Inference, and Social Science
- - [https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu)
- - date published: 2023-10-25T18:50:02.076404+00:00
- - user: None
- - tags: []
-
-## ViperGPT: Visual Inference via Python Execution for Reasoning
- - [https://viper.cs.columbia.edu](https://viper.cs.columbia.edu)
- - date published: 2023-10-25T18:50:05.789837+00:00
- - user: None
- - tags: []
-
-## Herbert Irving Comprehensive Cancer Center (HICCC) - New York
- - [https://www.cancer.columbia.edu](https://www.cancer.columbia.edu)
- - date published: 2023-10-25T18:50:13.811298+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science, Columbia University
- - [https://www.cs.columbia.edu](https://www.cs.columbia.edu)
- - date published: 2023-10-25T18:50:17.823882+00:00
- - user: None
- - tags: []
-
-## Columbia University Irving Medical Center
- - [https://www.cuimc.columbia.edu](https://www.cuimc.columbia.edu)
- - date published: 2023-10-25T18:50:21.143055+00:00
- - user: None
- - tags: []
-
-## Department of Mathematics at Columbia University - Welcome
- - [https://www.math.columbia.edu](https://www.math.columbia.edu)
- - date published: 2023-10-25T18:50:23.763635+00:00
- - user: None
- - tags: []
-
-## Apache HTTP Server Test Page powered by CentOS
- - [https://www.stat.columbia.edu](https://www.stat.columbia.edu)
- - date published: 2024-01-09T02:58:36.122416+00:00
- - user: None
- - tags: []
-
-## Zero-1-to-3: Zero-shot One Image to 3D Object
- - [https://zero123.cs.columbia.edu](https://zero123.cs.columbia.edu)
- - date published: 2023-10-25T18:50:29.530822+00:00
- - user: None
- - tags: []
-
-## Columbia | Zuckerman Institute
- - [https://zuckermaninstitute.columbia.edu](https://zuckermaninstitute.columbia.edu)
- - date published: 2023-10-25T18:50:31.676775+00:00
- - user: None
- - tags: []
-
-## Cornell Virtual Workshop
- - [https://cvw.cac.cornell.edu](https://cvw.cac.cornell.edu)
- - date published: 2023-10-25T18:50:32.946582+00:00
- - user: None
- - tags: []
-
-## LISC: Laboratory for Intelligent Systems and Controls
- - [https://lisc.mae.cornell.edu](https://lisc.mae.cornell.edu)
- - date published: 2024-01-09T02:58:39.276898+00:00
- - user: None
- - tags: []
-
-## Learning Strategies Center – Academic Support at Cornell University
- - [https://lsc.cornell.edu](https://lsc.cornell.edu)
- - date published: 2023-10-25T18:50:35.715625+00:00
- - user: None
- - tags: []
-
-## Home | Cornell Chronicle
- - [https://news.cornell.edu](https://news.cornell.edu)
- - date published: 2023-10-25T18:50:38.276285+00:00
- - user: None
- - tags: []
-
-## Newsroom | Weill Cornell Medicine
- - [https://news.weill.cornell.edu](https://news.weill.cornell.edu)
- - date published: 2023-10-25T18:50:39.847779+00:00
- - user: None
- - tags: []
-
-## Electrical and Computer Engineering | Electrical and Computer Engineering
- - [https://people.ece.cornell.edu](https://people.ece.cornell.edu)
- - date published: 2023-10-25T18:50:42.502337+00:00
- - user: None
- - tags: []
-
-## https://pi.math.cornell.edu
- - [https://pi.math.cornell.edu](https://pi.math.cornell.edu)
- - date published: 2024-01-09T02:58:44.329557+00:00
- - user: None
- - tags: []
-
-## Follow the Story – Research & Innovation
- - [https://research.cornell.edu](https://research.cornell.edu)
- - date published: 2023-10-25T18:50:46.764859+00:00
- - user: None
- - tags: []
-
-## Home | Department of Computer Science
- - [https://www.cs.cornell.edu](https://www.cs.cornell.edu)
- - date published: 2023-10-25T18:50:50.915149+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www2.csudh.edu](https://www2.csudh.edu)
- - date published: 2024-01-09T02:58:55.600628+00:00
- - user: None
- - tags: []
-
-## CU Anschutz Newsroom
- - [https://news.cuanschutz.edu](https://news.cuanschutz.edu)
- - date published: 2023-10-25T18:50:58.468453+00:00
- - user: None
- - tags: []
-
-## The City College of New York
- - [https://www.ccny.cuny.edu](https://www.ccny.cuny.edu)
- - date published: 2023-10-25T18:51:01.179182+00:00
- - user: None
- - tags: []
-
-## Mathematics at Dartmouth
- - [https://math.dartmouth.edu](https://math.dartmouth.edu)
- - date published: 2023-10-25T18:51:02.976336+00:00
- - user: None
- - tags: []
-
-## User Homepages @Drew University
- - [https://users.drew.edu](https://users.drew.edu)
- - date published: 2023-11-14T23:58:00.601263+00:00
- - user: None
- - tags: []
-
-## Drexel Home
- - [https://drexel.edu](https://drexel.edu)
- - date published: 2023-10-25T18:51:05.420930+00:00
- - user: None
- - tags: []
-
-## Home | Duke Pratt School of Engineering
- - [https://pratt.duke.edu](https://pratt.duke.edu)
- - date published: 2023-12-11T12:00:31.232853+00:00
- - user: None
- - tags: []
-
-## Duke Today | Duke Today
- - [https://today.duke.edu](https://today.duke.edu)
- - date published: 2023-10-25T18:51:07.229842+00:00
- - user: None
- - tags: []
-
-## Duke University School of Law
- - [https://web.law.duke.edu](https://web.law.duke.edu)
- - date published: 2023-10-25T11:22:18.328920+00:00
- - user: None
- - tags: []
-
-## Duke University Press
- - [https://read.dukeupress.edu](https://read.dukeupress.edu)
- - date published: 2023-10-25T18:51:09.503912+00:00
- - user: None
- - tags: []
-
-## Florida Atlantic University
- - [https://www.fau.edu](https://www.fau.edu)
- - date published: 2024-01-09T02:59:07.976768+00:00
- - user: None
- - tags: []
-
-## FIU News - Florida International University
- - [https://news.fiu.edu](https://news.fiu.edu)
- - date published: 2023-10-30T12:42:14.738633+00:00
- - user: None
- - tags: []
-
-## Florida State University
- - [https://fsu.edu](https://fsu.edu)
- - date published: 2023-10-27T12:59:00.241454+00:00
- - user: None
- - tags: ['university']
-
-## Home - Florida State University News
- - [https://news.fsu.edu](https://news.fsu.edu)
- - date published: 2023-10-25T11:22:28.015942+00:00
- - user: None
- - tags: []
-
-## CSUF Psychology Department Research and Teaching Materials
- - [https://psych.fullerton.edu](https://psych.fullerton.edu)
- - date published: 2023-10-25T18:51:10.992214+00:00
- - user: None
- - tags: []
-
-## https://faculty.cc.gatech.edu
- - [https://faculty.cc.gatech.edu](https://faculty.cc.gatech.edu)
- - date published: 2023-10-25T18:51:12.075741+00:00
- - user: None
- - tags: []
-
-## Georgia Tech Top Research University | Research
- - [https://research.gatech.edu](https://research.gatech.edu)
- - date published: 2024-01-05T15:16:26.801994+00:00
- - user: None
- - tags: []
-
-## College of Computing | Involvement, Innovation and Impact
- - [https://www.cc.gatech.edu](https://www.cc.gatech.edu)
- - date published: 2023-11-26T01:05:44.391396+00:00
- - user: None
- - tags: []
-
-## Getty: Resources for Visual Art and Cultural Heritage
- - [https://getty.edu](https://getty.edu)
- - date published: 2024-01-09T02:59:10.633338+00:00
  - user: None
  - tags: []
 

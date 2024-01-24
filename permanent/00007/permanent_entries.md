@@ -1,3 +1,195 @@
+## Matthias Bühlmann – Medium
+ - [https://matthias-buehlmann.medium.com](https://matthias-buehlmann.medium.com)
+ - date published: 2023-10-25T10:21:45.263139+00:00
+ - user: None
+ - tags: []
+
+## Michael Dubakov – Medium
+ - [https://mdubakov.medium.com](https://mdubakov.medium.com)
+ - date published: 2023-10-25T10:21:47.728718+00:00
+ - user: None
+ - tags: []
+
+## Matt Welsh – Medium
+ - [https://mdwdotla.medium.com](https://mdwdotla.medium.com)
+ - date published: 2023-10-25T10:21:50.299253+00:00
+ - user: None
+ - tags: []
+
+## Medium – Where good ideas find you.
+ - [https://medium.com](https://medium.com)
+ - date published: 2023-10-25T14:33:39.240442+00:00
+ - user: None
+ - tags: []
+
+## Masayuki Hatta – Medium
+ - [https://mhatta.medium.com](https://mhatta.medium.com)
+ - date published: 2023-10-25T10:21:53.146584+00:00
+ - user: None
+ - tags: []
+
+## MooseyAnon – Medium
+ - [https://mooseyanon.medium.com](https://mooseyanon.medium.com)
+ - date published: 2023-11-01T02:23:21.073666+00:00
+ - user: None
+ - tags: []
+
+## Andrei R | Mr Fireside – Medium
+ - [https://mrfireside.medium.com](https://mrfireside.medium.com)
+ - date published: 2023-10-25T10:21:55.362809+00:00
+ - user: None
+ - tags: []
+
+## Medium
+ - [https://mrs-t.medium.com](https://mrs-t.medium.com)
+ - date published: 2023-10-25T10:21:56.734858+00:00
+ - user: None
+ - tags: []
+
+## Matt Calder – Medium
+ - [https://mvcalder-01701.medium.com](https://mvcalder-01701.medium.com)
+ - date published: 2023-10-25T10:21:58.459803+00:00
+ - user: None
+ - tags: []
+
+## Fernando Villalba – Medium
+ - [https://nandovillalba.medium.com](https://nandovillalba.medium.com)
+ - date published: 2023-10-26T06:39:56.179167+00:00
+ - user: None
+ - tags: []
+
+## Netflix Technology Blog – Medium
+ - [https://netflixtechblog.medium.com](https://netflixtechblog.medium.com)
+ - date published: 2023-10-25T10:22:00.831065+00:00
+ - user: None
+ - tags: []
+
+## Nick Hilton – Medium
+ - [https://nickfthilton.medium.com](https://nickfthilton.medium.com)
+ - date published: 2023-10-25T10:22:03.024047+00:00
+ - user: None
+ - tags: []
+
+## Leonard and Sondra Nones – Medium
+ - [https://nones-leonard.medium.com](https://nones-leonard.medium.com)
+ - date published: 2023-10-25T10:22:05.192487+00:00
+ - user: None
+ - tags: []
+
+## Obie Fernandez – Medium
+ - [https://obie.medium.com](https://obie.medium.com)
+ - date published: 2023-10-25T10:22:12.616559+00:00
+ - user: None
+ - tags: []
+
+## OneZero
+ - [https://onezero.medium.com](https://onezero.medium.com)
+ - date published: 2023-10-25T10:22:19.984318+00:00
+ - user: None
+ - tags: []
+
+## Patrik Mojzis – Medium
+ - [https://patrikmojzis.medium.com](https://patrikmojzis.medium.com)
+ - date published: 2024-01-09T15:18:49+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## Paul Fuhr – Medium
+ - [https://paulfuhr.medium.com](https://paulfuhr.medium.com)
+ - date published: 2023-10-25T10:22:22.357828+00:00
+ - user: None
+ - tags: []
+
+## Peter Czernecki 10xONE, iAGE / startup, turnaround – Medium
+ - [https://pczernecki.medium.com](https://pczernecki.medium.com)
+ - date published: 2024-01-03T05:05:02.253501+00:00
+ - user: None
+ - tags: []
+
+## Piotr Jaworski – Medium
+ - [https://piotrjaworski.medium.com](https://piotrjaworski.medium.com)
+ - date published: 2023-10-25T10:22:24.976124+00:00
+ - user: None
+ - tags: []
+
+## Privacy1St – Medium
+ - [https://privacyis1st.medium.com](https://privacyis1st.medium.com)
+ - date published: 2023-10-25T10:22:26.531063+00:00
+ - user: None
+ - tags: []
+
+## Richard Kenneth Eng – Medium
+ - [https://richardeng.medium.com](https://richardeng.medium.com)
+ - date published: 2023-10-25T10:22:29.415887+00:00
+ - user: None
+ - tags: []
+
+## Rosie Sherry – Medium
+ - [https://rosiesherry.medium.com](https://rosiesherry.medium.com)
+ - date published: 2023-10-25T10:22:31.783188+00:00
+ - user: None
+ - tags: []
+
+## Ruurtjan Pul – Medium
+ - [https://ruurtjan.medium.com](https://ruurtjan.medium.com)
+ - date published: 2023-10-25T10:22:34.320278+00:00
+ - user: None
+ - tags: []
+
+## Ryan Cornateanu – Medium
+ - [https://ryancor.medium.com](https://ryancor.medium.com)
+ - date published: 2023-10-25T10:22:41.538981+00:00
+ - user: None
+ - tags: []
+
+## Ryonald Teofilo – Medium
+ - [https://ryonaldteofilo.medium.com](https://ryonaldteofilo.medium.com)
+ - date published: 2023-10-25T10:22:43.785424+00:00
+ - user: None
+ - tags: []
+
+## Sacha Arbonel – Medium
+ - [https://sachaarbonel.medium.com](https://sachaarbonel.medium.com)
+ - date published: 2023-10-25T10:22:46.030789+00:00
+ - user: None
+ - tags: []
+
+## Sai Gaddam – Medium
+ - [https://saigaddam.medium.com](https://saigaddam.medium.com)
+ - date published: 2023-10-25T10:22:48.172465+00:00
+ - user: None
+ - tags: []
+
+## Sarah Drinkwater – Medium
+ - [https://sarahdrinkwater.medium.com](https://sarahdrinkwater.medium.com)
+ - date published: 2023-10-25T10:22:50.413109+00:00
+ - user: None
+ - tags: []
+
+## Sebastian Carlos – Medium
+ - [https://sebastiancarlos.medium.com](https://sebastiancarlos.medium.com)
+ - date published: 2023-10-25T10:22:58.905115+00:00
+ - user: None
+ - tags: []
+
+## Shannon Jacobs – Medium
+ - [https://shanen.medium.com](https://shanen.medium.com)
+ - date published: 2023-10-25T10:23:01.455983+00:00
+ - user: None
+ - tags: []
+
+## Sourcery – Medium
+ - [https://sourcery-ai.medium.com](https://sourcery-ai.medium.com)
+ - date published: 2023-10-25T10:23:03.723269+00:00
+ - user: None
+ - tags: []
+
+## Stephan Shahinian – Medium
+ - [https://stephan-shahinian.medium.com](https://stephan-shahinian.medium.com)
+ - date published: 2023-10-25T10:23:05.870308+00:00
+ - user: None
+ - tags: []
+
 ## Steve Yegge – Medium
  - [https://steve-yegge.medium.com](https://steve-yegge.medium.com)
  - date published: 2023-10-26T10:51:30.639547+00:00
@@ -661,6 +853,12 @@
 ## Michigan Post | Today's Front Page, Breaking News, World, Politics
  - [https://michigan-post.com](https://michigan-post.com)
  - date published: 2023-11-23T19:54:39.421012+00:00
+ - user: None
+ - tags: []
+
+## Michi Mathias. illustration & comics.
+ - [https://www.michimathias.com](https://www.michimathias.com)
+ - date published: 2022-06-06T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2837,6 +3035,12 @@
  - user: None
  - tags: []
 
+## Neil Gaiman
+ - [https://www.neilgaiman.com](https://www.neilgaiman.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['science-fiction', 'fantasy']
+
 ## Logo & Brand Identity Designer Nela Dunato
  - [https://neladunato.com](https://neladunato.com)
  - date published: 2023-10-25T16:13:38.305402+00:00
@@ -4838,7 +5042,7 @@ Answering Machine Greetings!
  - [https://oldavista.com](https://oldavista.com)
  - date published: 1988-01-01T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['retro internet']
 
 ## Old Games Download - Abandonware and Retrogaming
  - [https://oldgamesdownload.com](https://oldgamesdownload.com)
@@ -5800,208 +6004,4 @@ Answering Machine Greetings!
  - date published: 2023-12-28T22:26:07.134081+00:00
  - user: None
  - tags: ['personal']
-
-## Paavan — Digital Product Designer
- - [https://paavandesign.com](https://paavandesign.com)
- - date published: 2023-10-25T16:29:13.648161+00:00
- - user: None
- - tags: []
-
-## Home Page | Pachyderm
- - [https://www.pachyderm.com](https://www.pachyderm.com)
- - date published: 2023-10-25T16:29:16.162733+00:00
- - user: None
- - tags: []
-
-## Graphing Calculator
- - [https://www.pacifict.com](https://www.pacifict.com)
- - date published: 2023-10-25T16:29:17.519350+00:00
- - user: None
- - tags: []
-
-## Packet Loss Test – Test Your Connection Quality
- - [https://packetlosstest.com](https://packetlosstest.com)
- - date published: 2023-11-16T09:49:00.669649+00:00
- - user: None
- - tags: []
-
-## Packt | Programming Books, eBooks & Videos for Developers
- - [https://www.packtpub.com](https://www.packtpub.com)
- - date published: 2023-10-25T08:25:45.035269+00:00
- - user: None
- - tags: []
-
-## Home - PYOK
- - [https://www.paddleyourownkanoo.com](https://www.paddleyourownkanoo.com)
- - date published: 2023-10-25T16:29:23.750808+00:00
- - user: None
- - tags: []
-
-## Home - New - Pagely
- - [https://pagely.com](https://pagely.com)
- - date published: 2023-10-25T16:29:33.698142+00:00
- - user: None
- - tags: []
-
-## Link Building, SEO, Content Marketing | Page One Power
- - [https://www.pageonepower.com](https://www.pageonepower.com)
- - date published: 2023-10-25T16:29:36.991160+00:00
- - user: None
- - tags: ['company', 'seo']
-
-## Page Six: Latest Celebrity News, Entertainment News & Gossip
- - [https://pagesix.com](https://pagesix.com)
- - date published: 2023-10-25T10:52:05.156137+00:00
- - user: None
- - tags: []
-
-## Cheap Books!
- - [https://www.pagesonpages.com](https://www.pagesonpages.com)
- - date published: 2023-10-25T16:29:38.022535+00:00
- - user: None
- - tags: []
-
-## pagetable.com – Some Assembly Required
- - [https://www.pagetable.com](https://www.pagetable.com)
- - date published: 2023-10-25T16:29:42.920014+00:00
- - user: None
- - tags: []
-
-## Home of the Pathfinder and Starfinder RPGs. The Golem’s Got It! | Paizo
- - [https://paizo.com](https://paizo.com)
- - date published: 2023-10-25T16:29:51.558859+00:00
- - user: None
- - tags: []
-
-## Pajhwok Afghan News – Reflecting the Truth
- - [https://pajhwok.com](https://pajhwok.com)
- - date published: 2024-01-05T23:11:30.570756+00:00
- - user: None
- - tags: []
-
-## Pākiki - Intercepting Proxy
- - [https://pakikiproxy.com](https://pakikiproxy.com)
- - date published: 2024-01-09T02:45:43.723960+00:00
- - user: None
- - tags: []
-
-## Paleofuture
- - [https://paleofuture.com](https://paleofuture.com)
- - date published: 2023-10-25T16:29:54.151105+00:00
- - user: None
- - tags: []
-
-## Electronics, Computing and Videogame History - Paleotronic Magazine
- - [https://paleotronic.com](https://paleotronic.com)
- - date published: 2023-10-25T11:10:53.460145+00:00
- - user: None
- - tags: []
-
-## Home Page - Palestine Chronicle
- - [https://www.palestinechronicle.com](https://www.palestinechronicle.com)
- - date published: 2024-01-09T01:46:20.677231+00:00
- - user: None
- - tags: []
-
-## Paliparan - Travels Around the World
- - [https://paliparan.com](https://paliparan.com)
- - date published: 2023-10-25T16:29:56.800882+00:00
- - user: None
- - tags: []
-
-## Palladium Magazine
- - [https://palladiummag.com](https://palladiummag.com)
- - date published: 2023-10-25T10:14:15.909364+00:00
- - user: None
- - tags: []
-
-## Palladium Magazine
- - [https://www.palladiummag.com](https://www.palladiummag.com)
- - date published: 2023-10-25T16:30:09.505258+00:00
- - user: None
- - tags: []
-
-## The Blog of Palmer Luckey – The #1 Palmer Luckey Blog on the Internet
- - [https://palmerluckey.com](https://palmerluckey.com)
- - date published: 2023-10-25T16:30:13.359058+00:00
- - user: None
- - tags: []
-
-## | Palo Alto Online |
- - [https://www.paloaltoonline.com](https://www.paloaltoonline.com)
- - date published: 2023-10-25T16:30:19.898249+00:00
- - user: None
- - tags: []
-
-## Panasonic Polska
- - [https://www.panasonic.com](https://www.panasonic.com)
- - date published: 2023-11-01T07:37:07.821934+00:00
- - user: None
- - tags: ['company']
-
-## The Antivirus Revolution - Panda Security
- - [https://www.pandasecurity.com](https://www.pandasecurity.com)
- - date published: 2023-10-29T12:00:35.028997+00:00
- - user: None
- - tags: []
-
-## Panels & Prose
- - [https://panelsandprose.com](https://panelsandprose.com)
- - date published: 2023-11-02T11:19:49.225609+00:00
- - user: None
- - tags: []
-
-## HOME
- - [https://www.pangeosyacht.com](https://www.pangeosyacht.com)
- - date published: 2023-10-25T16:30:22.156795+00:00
- - user: None
- - tags: []
-
-## Panic Social
- - [https://social.panic.com](https://social.panic.com)
- - date published: 2023-10-24T20:13:18.672824+00:00
- - user: None
- - tags: ['mastodon']
-
-## Delicious Recipes & Expert Food Advice
- - [https://pantryandlarder.com](https://pantryandlarder.com)
- - date published: 2024-01-13T16:35:34.732639+00:00
- - user: None
- - tags: []
-
-## Paolo Amoroso's Journal
- - [https://journal.paoloamoroso.com](https://journal.paoloamoroso.com)
- - date published: 2023-10-25T16:30:24.194833+00:00
- - user: None
- - tags: []
-
-## Paolo Mainardi
- - [https://www.paolomainardi.com](https://www.paolomainardi.com)
- - date published: 2023-10-25T16:30:26.103996+00:00
- - user: None
- - tags: []
-
-## Paperpile Reference Manager
- - [https://paperpile.com](https://paperpile.com)
- - date published: 2023-11-01T08:42:53.570173+00:00
- - user: None
- - tags: []
-
-## Cloud GPUs & Hosting for AI | Paperspace
- - [https://www.paperspace.com](https://www.paperspace.com)
- - date published: 2023-10-25T16:30:30.437808+00:00
- - user: None
- - tags: []
-
-## The latest in Machine Learning | Papers With Code
- - [https://paperswithcode.com](https://paperswithcode.com)
- - date published: 2023-10-25T16:30:32.725669+00:00
- - user: None
- - tags: []
-
-## collection of sébastien de ganay, paper toilet .com by rafaël rozendaal, 2006
- - [https://papertoilet.com](https://papertoilet.com)
- - date published: 2023-10-27T10:58:53.737739+00:00
- - user: None
- - tags: ['wtf']
 

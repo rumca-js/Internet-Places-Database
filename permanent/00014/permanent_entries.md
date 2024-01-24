@@ -1,3 +1,299 @@
+## U.S. Department of State - United States Department of State
+ - [https://2017-2021.state.gov](https://2017-2021.state.gov)
+ - date published: 2023-10-25T19:25:50.695939+00:00
+ - user: None
+ - tags: []
+
+## Federal Student Aid
+ - [https://studentaid.gov](https://studentaid.gov)
+ - date published: 2023-10-25T19:25:51.614124+00:00
+ - user: None
+ - tags: []
+
+## Home - Supreme Court of the United States
+ - [https://www.supremecourt.gov](https://www.supremecourt.gov)
+ - date published: 2024-01-09T03:31:35.235119+00:00
+ - user: None
+ - tags: []
+
+## Texas Department of Criminal Justice
+ - [https://www.tdcj.texas.gov](https://www.tdcj.texas.gov)
+ - date published: 2024-01-09T03:31:36.838462+00:00
+ - user: None
+ - tags: []
+
+## Office of the Attorney General
+ - [https://www.texasattorneygeneral.gov](https://www.texasattorneygeneral.gov)
+ - date published: 2023-11-21T04:24:19.389027+00:00
+ - user: None
+ - tags: []
+
+## Front page | U.S. Department of the Treasury
+ - [https://home.treasury.gov](https://home.treasury.gov)
+ - date published: 2023-10-25T19:26:01.602069+00:00
+ - user: None
+ - tags: []
+
+## Transportation Security Administration | Transportation Security Administration
+ - [https://www.tsa.gov](https://www.tsa.gov)
+ - date published: 2023-10-25T19:26:03.310372+00:00
+ - user: None
+ - tags: []
+
+## The USAP Portal: Science and Support in Antarctica - Welcome to the United States Antarctic Program Portal
+ - [https://www.usap.gov](https://www.usap.gov)
+ - date published: 2023-10-25T19:26:06.918908+00:00
+ - user: None
+ - tags: []
+
+## United States Court of Appeals 2nd Circuit
+ - [https://www.ca2.uscourts.gov](https://www.ca2.uscourts.gov)
+ - date published: 2023-10-25T19:26:11.758897+00:00
+ - user: None
+ - tags: []
+
+## Fifth Circuit Court of Appeals
+ - [https://www.ca5.uscourts.gov](https://www.ca5.uscourts.gov)
+ - date published: 2023-10-25T19:26:14.905641+00:00
+ - user: None
+ - tags: []
+
+## District of Columbia | United States District Court
+ - [https://www.dcd.uscourts.gov](https://www.dcd.uscourts.gov)
+ - date published: 2023-10-25T19:26:18.152336+00:00
+ - user: None
+ - tags: []
+
+## Object not found!
+ - [https://www.txnd.uscourts.gov](https://www.txnd.uscourts.gov)
+ - date published: 2024-01-09T03:31:38.226546+00:00
+ - user: None
+ - tags: []
+
+## https://directives.sc.egov.usda.gov
+ - [https://directives.sc.egov.usda.gov](https://directives.sc.egov.usda.gov)
+ - date published: 2023-12-19T17:57:55.296864+00:00
+ - user: None
+ - tags: []
+
+## USDA ERS - Home
+ - [https://www.ers.usda.gov](https://www.ers.usda.gov)
+ - date published: 2023-11-01T05:24:12.673713+00:00
+ - user: None
+ - tags: []
+
+## Earthquake Hazards Program | U.S. Geological Survey
+ - [https://earthquake.usgs.gov](https://earthquake.usgs.gov)
+ - date published: 2023-10-25T19:26:27.821782+00:00
+ - user: None
+ - tags: []
+
+## U.S. Geological Survey Publications Warehouse
+ - [https://pubs.er.usgs.gov](https://pubs.er.usgs.gov)
+ - date published: 2023-10-25T19:26:29.739829+00:00
+ - user: None
+ - tags: []
+
+## USGS.gov | Science for a changing world
+ - [https://www.usgs.gov](https://www.usgs.gov)
+ - date published: 2023-10-25T19:26:34.516955+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.usmarshals.gov](https://www.usmarshals.gov)
+ - date published: 2023-11-01T08:43:37.168607+00:00
+ - user: None
+ - tags: []
+
+## HTTP Status 404 – Not Found
+ - [https://image-ppubs.uspto.gov](https://image-ppubs.uspto.gov)
+ - date published: 2024-01-09T03:31:39.680391+00:00
+ - user: None
+ - tags: []
+
+## Trademark Electronic Search System (TESS)
+ - [https://tmsearch.uspto.gov](https://tmsearch.uspto.gov)
+ - date published: 2023-10-25T19:26:42.135004+00:00
+ - user: None
+ - tags: []
+
+## Trademark Status & Document Retrieval
+ - [https://tsdr.uspto.gov](https://tsdr.uspto.gov)
+ - date published: 2023-10-25T19:26:49.816767+00:00
+ - user: None
+ - tags: []
+
+## United States Patent and Trademark Office
+ - [https://www.uspto.gov](https://www.uspto.gov)
+ - date published: 2023-10-25T19:26:53.299790+00:00
+ - user: None
+ - tags: []
+
+## DigitalVA
+ - [https://www.oit.va.gov](https://www.oit.va.gov)
+ - date published: 2023-10-25T19:27:00.114442+00:00
+ - user: None
+ - tags: []
+
+## Home - Washington Senate Democrats
+ - [https://senatedemocrats.wa.gov](https://senatedemocrats.wa.gov)
+ - date published: 2023-10-25T19:27:05.211655+00:00
+ - user: None
+ - tags: []
+
+## Washington State | Office of the Attorney General
+ - [https://www.atg.wa.gov](https://www.atg.wa.gov)
+ - date published: 2023-10-25T19:27:08.100270+00:00
+ - user: None
+ - tags: []
+
+## National Weather Service
+ - [https://forecast.weather.gov](https://forecast.weather.gov)
+ - date published: 2023-10-24T20:19:23.078078+00:00
+ - user: None
+ - tags: []
+
+## Ocean Prediction Center
+ - [https://ocean.weather.gov](https://ocean.weather.gov)
+ - date published: 2023-10-25T19:27:10.683788+00:00
+ - user: None
+ - tags: []
+
+## National Weather Service
+ - [https://www.weather.gov](https://www.weather.gov)
+ - date published: 2023-10-25T19:27:16.778437+00:00
+ - user: None
+ - tags: []
+
+## The White House
+ - [https://www.whitehouse.gov](https://www.whitehouse.gov)
+ - date published: 2023-10-25T19:27:21.217032+00:00
+ - user: None
+ - tags: []
+
+## https://wyoleg.gov
+ - [https://wyoleg.gov](https://wyoleg.gov)
+ - date published: 2023-10-25T19:27:23.611011+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://fatherhood.gov:443](https://fatherhood.gov:443)
+ - date published: 2023-12-29T00:50:59.625462+00:00
+ - user: None
+ - tags: []
+
+## Vente et achat voitures neuves - Citroen Guadeloupe
+ - [https://www.citroen.gp](https://www.citroen.gp)
+ - date published: 2023-12-11T16:03:13.872308+00:00
+ - user: None
+ - tags: []
+
+## The Eternal Jukebox
+ - [https://jukebox.davi.gq](https://jukebox.davi.gq)
+ - date published: 2024-01-02T16:20:15.152611+00:00
+ - user: None
+ - tags: []
+
+## Home | AmiCamp
+ - [https://amicamp.gr](https://amicamp.gr)
+ - date published: 2023-12-11T17:37:01.573253+00:00
+ - user: None
+ - tags: []
+
+## Νέα αυτοκίνητα | Κατασκευαστής αυτοκινήτων | Citroën
+ - [https://www.citroen.gr](https://www.citroen.gr)
+ - date published: 2023-12-11T16:01:26.638908+00:00
+ - user: None
+ - tags: []
+
+## Dmitry.GR: Projects
+ - [https://dmitry.gr](https://dmitry.gr)
+ - date published: 2023-10-25T19:27:25.347944+00:00
+ - user: None
+ - tags: []
+
+## Blog
+
+		🎤 Lexxman
+ - [https://www.lexx.gr](https://www.lexx.gr)
+ - date published: 2023-10-25T19:27:32.020037+00:00
+ - user: None
+ - tags: []
+
+## protothemanews.com | Protothema.gr news in english
+ - [https://en.protothema.gr](https://en.protothema.gr)
+ - date published: 2023-10-25T19:27:36.235371+00:00
+ - user: None
+ - tags: []
+
+## Skroutz Engineering
+ - [https://engineering.skroutz.gr](https://engineering.skroutz.gr)
+ - date published: 2023-10-25T19:27:37.896244+00:00
+ - user: None
+ - tags: []
+
+## Αρχική | Μουσείο Ακρόπολης | Επίσημος ιστοχώρος
+ - [https://www.theacropolismuseum.gr](https://www.theacropolismuseum.gr)
+ - date published: 2023-11-13T13:51:11.767913+00:00
+ - user: None
+ - tags: ['museum']
+
+## Τμήμα Επιστήμης Υπολογιστών - Πανεπιστήμιο Κρήτης
+ - [https://www.csd.uoc.gr](https://www.csd.uoc.gr)
+ - date published: 2023-10-25T19:27:39.747201+00:00
+ - user: None
+ - tags: []
+
+## Barbara
+ - [https://www.barbara.graphics](https://www.barbara.graphics)
+ - date published: 2023-10-25T19:27:40.717243+00:00
+ - user: None
+ - tags: []
+
+## Booklet
+ - [https://www.booklet.group](https://www.booklet.group)
+ - date published: 2023-10-25T19:27:41.800887+00:00
+ - user: None
+ - tags: []
+
+## Fortran Discourse - Fortran open source community
+ - [https://fortran-lang.discourse.group](https://fortran-lang.discourse.group)
+ - date published: 2023-10-25T19:27:46.377370+00:00
+ - user: None
+ - tags: []
+
+## Kim-Jong Cracks Social
+ - [https://nso.group](https://nso.group)
+ - date published: 2023-10-25T19:27:46.890969+00:00
+ - user: None
+ - tags: []
+
+## The Opsgroup Story – What we are about
+ - [https://ops.group](https://ops.group)
+ - date published: 2023-12-04T00:36:57.850661+00:00
+ - user: None
+ - tags: []
+
+## Juiced.GS - A quarterly Apple II magazine
+ - [https://juiced.gs](https://juiced.gs)
+ - date published: 2024-01-02T21:43:13.244766+00:00
+ - user: None
+ - tags: ['apple ii', 'retro']
+
+## d2r.guide · Diablo II: Resurrected Cheat Sheet
+ - [https://d2r.guide](https://d2r.guide)
+ - date published: 2023-12-13T16:04:31.872838+00:00
+ - user: None
+ - tags: []
+
+## FFmpeg.guide - One stop solution to all things FFmpeg
+ - [https://ffmpeg.guide](https://ffmpeg.guide)
+ - date published: 2024-01-09T03:31:46.199295+00:00
+ - user: None
+ - tags: []
+
 ## Show HN: IP Guide – info on IP addresses, Networks, and ASNs
  - [https://ip.guide](https://ip.guide)
  - date published: 2023-11-24T22:37:16+00:00
@@ -3702,6 +3998,12 @@ through Composable Diffusion
  - user: None
  - tags: []
 
+## https://crowsonkb.github.io
+ - [https://crowsonkb.github.io](https://crowsonkb.github.io)
+ - date published: 2024-01-23T20:07:38.415806+00:00
+ - user: None
+ - tags: []
+
 ## CTurt
  - [https://cturt.github.io](https://cturt.github.io)
  - date published: 2023-10-25T19:44:52.061450+00:00
@@ -5698,306 +6000,6 @@ through Composable Diffusion
 ## Text-to-Audio Generation using Instruction Tuned LLM and Latent Diffusion Model
  - [https://tango-web.github.io](https://tango-web.github.io)
  - date published: 2023-10-25T19:54:41.441534+00:00
- - user: None
- - tags: []
-
-## TextAnalysisTool.NET
- - [https://textanalysistool.github.io](https://textanalysistool.github.io)
- - date published: 2023-04-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## TheAbbie: Abhishek Chaudhary
- - [https://theabbie.github.io](https://theabbie.github.io)
- - date published: 2023-11-29T17:14:27.934904+00:00
- - user: None
- - tags: ['personal']
-
-## The Force Engine ·
- - [https://theforceengine.github.io](https://theforceengine.github.io)
- - date published: 2023-10-25T19:54:43.382443+00:00
- - user: None
- - tags: []
-
-## Electronics etc…
- - [https://tomverbeure.github.io](https://tomverbeure.github.io)
- - date published: 2023-10-25T19:54:56.629189+00:00
- - user: None
- - tags: []
-
-## Anthony Shaw's Home Page
- - [https://tonybaloney.github.io](https://tonybaloney.github.io)
- - date published: 2024-01-09T10:06:57.857911+00:00
- - user: None
- - tags: []
-
-## Redirecting to Peng Wang's Public Notion Site
- - [https://totoro97.github.io](https://totoro97.github.io)
- - date published: 2023-10-25T19:54:57.690671+00:00
- - user: None
- - tags: []
-
-## tpaschalis – software, systems
- - [https://tpaschalis.github.io](https://tpaschalis.github.io)
- - date published: 2023-10-25T19:55:00.774309+00:00
- - user: None
- - tags: []
-
-## Tristan de Cacqueray – Tristan's Zettelkasten
- - [https://tristancacqueray.github.io](https://tristancacqueray.github.io)
- - date published: 2023-10-25T19:55:02.459044+00:00
- - user: None
- - tags: []
-
-## trofi's blog: /
- - [https://trofi.github.io](https://trofi.github.io)
- - date published: 2023-10-25T08:59:17.032313+00:00
- - user: None
- - tags: ['personal']
-
-## John  Tromp HomePage
- - [https://tromp.github.io](https://tromp.github.io)
- - date published: 2023-10-25T19:55:03.866969+00:00
- - user: None
- - tags: []
-
-## https://tschatzl.github.io
- - [https://tschatzl.github.io](https://tschatzl.github.io)
- - date published: 2024-01-09T03:33:02.519471+00:00
- - user: None
- - tags: []
-
-## Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models
- - [https://tuning-encoder.github.io](https://tuning-encoder.github.io)
- - date published: 2023-10-25T19:55:06.349691+00:00
- - user: None
- - tags: []
-
-## Home - Richard Marmorstein
- - [https://twitchard.github.io](https://twitchard.github.io)
- - date published: 2023-10-25T19:55:07.096382+00:00
- - user: None
- - tags: []
-
-## https://twitter.github.io
- - [https://twitter.github.io](https://twitter.github.io)
- - date published: 2024-01-09T03:33:03.047151+00:00
- - user: None
- - tags: []
-
-## Vertette's Blog
- - [https://vertette.github.io](https://vertette.github.io)
- - date published: 2023-10-28T07:51:18.208706+00:00
- - user: None
- - tags: []
-
-## Vimium - the hacker's browser
- - [https://vimium.github.io](https://vimium.github.io)
- - date published: 2023-10-25T19:55:08.196629+00:00
- - user: None
- - tags: []
-
-## Victor Stinner blog 3
- - [https://vstinner.github.io](https://vstinner.github.io)
- - date published: 2023-10-25T19:55:09.424906+00:00
- - user: None
- - tags: []
-
-## Val on Programming
- - [https://vvvvalvalval.github.io](https://vvvvalvalval.github.io)
- - date published: 2023-10-25T08:49:30.971591+00:00
- - user: None
- - tags: ['personal']
-
-## Photorealistic Video Generation with Diffusion Models
- - [https://walt-video-diffusion.github.io](https://walt-video-diffusion.github.io)
- - date published: 2023-12-11T18:00:07+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://wh0.github.io](https://wh0.github.io)
- - date published: 2023-10-25T19:55:10.951365+00:00
- - user: None
- - tags: []
-
-## Wisha Wanichwecharungruang
- - [https://wishawa.github.io](https://wishawa.github.io)
- - date published: 2023-10-25T19:55:11.585400+00:00
- - user: None
- - tags: []
-
-## https://woodrush.github.io
- - [https://woodrush.github.io](https://woodrush.github.io)
- - date published: 2023-10-25T19:55:12.403642+00:00
- - user: None
- - tags: []
-
-## Willy R. Vasquez - Homepage
- - [https://wrv.github.io](https://wrv.github.io)
- - date published: 2023-10-25T19:55:13.735359+00:00
- - user: None
- - tags: []
-
-## Blog
- - [https://wsdookadr.github.io](https://wsdookadr.github.io)
- - date published: 2023-10-25T09:26:23.835465+00:00
- - user: None
- - tags: ['personal']
-
-## Xin Huang 黄鑫
- - [https://xhuangcv.github.io](https://xhuangcv.github.io)
- - date published: 2023-10-25T19:55:14.739671+00:00
- - user: None
- - tags: []
-
-## Home | This & That
- - [https://yafetn.github.io](https://yafetn.github.io)
- - date published: 2023-10-25T19:55:15.262479+00:00
- - user: None
- - tags: []
-
-## Yaksha Programming Language
- - [https://yakshalang.github.io](https://yakshalang.github.io)
- - date published: 2023-10-25T19:55:16.207333+00:00
- - user: None
- - tags: []
-
-## yanmaani's blog
- - [https://yanmaani.github.io](https://yanmaani.github.io)
- - date published: 2023-10-25T08:59:17.521757+00:00
- - user: None
- - tags: ['personal']
-
-## Site not found · GitHub Pages
- - [https://yformer.github.io](https://yformer.github.io)
- - date published: 2023-12-06T13:42:40.703065+00:00
- - user: None
- - tags: []
-
-## Home | YJDoc2
- - [https://yjdoc2.github.io](https://yjdoc2.github.io)
- - date published: 2023-10-25T19:55:16.923294+00:00
- - user: None
- - tags: []
-
-## Il y a du thé renversé au bord de la table !
- - [https://yoric.github.io](https://yoric.github.io)
- - date published: 2023-10-25T19:55:17.779830+00:00
- - user: None
- - tags: []
-
-## https://yuelangx.github.io
- - [https://yuelangx.github.io](https://yuelangx.github.io)
- - date published: 2023-12-08T12:56:48.222151+00:00
- - user: None
- - tags: []
-
-## Mogan
- - [https://yufeng-shen.github.io](https://yufeng-shen.github.io)
- - date published: 2023-10-25T19:55:18.194289+00:00
- - user: None
- - tags: []
-
-## yuxxeun.
- - [https://yuxxeun.github.io](https://yuxxeun.github.io)
- - date published: 2023-11-29T14:21:02.515807+00:00
- - user: None
- - tags: ['personal']
-
-## Xaver’s blog
- - [https://zamundaaa.github.io](https://zamundaaa.github.io)
- - date published: 2023-12-20T03:22:56.924440+00:00
- - user: None
- - tags: []
-
-## Ziyue  Wang
- - [https://ziyuewang25.github.io](https://ziyuewang25.github.io)
- - date published: 2024-01-12T18:46:40.302971+00:00
- - user: None
- - tags: []
-
-## Page not found · GitHub Pages
- - [https://zju3dv.github.io](https://zju3dv.github.io)
- - date published: 2023-10-25T19:55:18.667660+00:00
- - user: None
- - tags: []
-
-## zolutal’s blog
- - [https://zolutal.github.io](https://zolutal.github.io)
- - date published: 2024-01-16T18:05:10.914886+00:00
- - user: None
- - tags: []
-
-## zrepl - ZFS replication — zrepl  documentation
- - [https://zrepl.github.io](https://zrepl.github.io)
- - date published: 2023-10-25T19:55:19.875471+00:00
- - user: None
- - tags: []
-
-## __del__( self )
- - [https://zulko.github.io](https://zulko.github.io)
- - date published: 2023-10-25T19:55:20.629671+00:00
- - user: None
- - tags: []
-
-## Zachary Yedidia
- - [https://zyedidia.github.io](https://zyedidia.github.io)
- - date published: 2023-10-25T19:55:21.722255+00:00
- - user: None
- - tags: []
-
-## Garett Brown
- - [https://zyrxvo.github.io](https://zyrxvo.github.io)
- - date published: 2023-10-25T08:49:32.688735+00:00
- - user: None
- - tags: ['personal']
-
-## GitHub Trends
- - [https://www.githubtrends.io](https://www.githubtrends.io)
- - date published: 2023-10-25T19:55:22.901532+00:00
- - user: None
- - tags: []
-
-## Show HN: GitInsights – a weekly summary email of your team's GitHub activity
- - [https://gitinsights.io](https://gitinsights.io)
- - date published: 2023-11-03T20:15:03+00:00
- - user: None
- - tags: []
-
-## ten-thousand-times
- - [https://10ktimes.gitlab.io](https://10ktimes.gitlab.io)
- - date published: 2024-01-09T00:12:49.027675+00:00
- - user: None
- - tags: ['personal']
-
-## Andrey Listopadov
- - [https://andreyorst.gitlab.io](https://andreyorst.gitlab.io)
- - date published: 2023-10-25T19:55:24.276900+00:00
- - user: None
- - tags: []
-
-## https://dwrodri.gitlab.io
- - [https://dwrodri.gitlab.io](https://dwrodri.gitlab.io)
- - date published: 2024-01-11T23:56:33.130193+00:00
- - user: None
- - tags: []
-
-## https://esr.gitlab.io
- - [https://esr.gitlab.io](https://esr.gitlab.io)
- - date published: 2023-10-25T19:55:25.824776+00:00
- - user: None
- - tags: []
-
-## Lisp journey
- - [https://lisp-journey.gitlab.io](https://lisp-journey.gitlab.io)
- - date published: 2023-10-25T19:55:27.274355+00:00
- - user: None
- - tags: []
-
-## About me | Matheus Tavares
- - [https://matheustavares.gitlab.io](https://matheustavares.gitlab.io)
- - date published: 2023-12-31T13:20:58.112219+00:00
  - user: None
  - tags: []
 
