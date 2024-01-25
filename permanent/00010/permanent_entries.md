@@ -1,3 +1,243 @@
+## General Robots | Benjie Holson | Substack
+ - [https://generalrobots.substack.com](https://generalrobots.substack.com)
+ - date published: 2023-10-25T11:46:22.101723+00:00
+ - user: None
+ - tags: ['substack']
+
+## Generating Conversation | Joseph E. Gonzalez | Substack
+ - [https://generatingconversation.substack.com](https://generatingconversation.substack.com)
+ - date published: 2023-10-25T17:19:03.436504+00:00
+ - user: None
+ - tags: []
+
+## Alex Ghiculescu's Newsletter | Substack
+ - [https://ghiculescu.substack.com](https://ghiculescu.substack.com)
+ - date published: 2024-01-09T01:40:25.488363+00:00
+ - user: None
+ - tags: []
+
+## Michael Girdley's Newsletter | Substack
+ - [https://girdley.substack.com](https://girdley.substack.com)
+ - date published: 2024-01-09T01:40:27.407232+00:00
+ - user: None
+ - tags: []
+
+## Gonzo ML | Grigory Sapunov | Substack
+ - [https://gonzoml.substack.com](https://gonzoml.substack.com)
+ - date published: 2023-10-25T11:46:30.729151+00:00
+ - user: None
+ - tags: ['substack']
+
+## Good Reason | Andre Cooper | Substack
+ - [https://goodreason.substack.com](https://goodreason.substack.com)
+ - date published: 2024-01-09T01:40:29.168190+00:00
+ - user: None
+ - tags: []
+
+## The Good Teacher | Matthew Kaul | Substack
+ - [https://goodteacher.substack.com](https://goodteacher.substack.com)
+ - date published: 2023-11-18T19:08:05.233065+00:00
+ - user: None
+ - tags: ['substack']
+
+## Gould Asks | Substack
+ - [https://gouldasks.substack.com](https://gouldasks.substack.com)
+ - date published: 2024-01-09T01:40:31.573735+00:00
+ - user: None
+ - tags: []
+
+## The Grandiose Journal | Substack
+ - [https://grandiose.substack.com](https://grandiose.substack.com)
+ - date published: 2023-10-25T11:46:41.608888+00:00
+ - user: None
+ - tags: ['substack']
+
+## Fútbol with Grant Wahl | Substack
+ - [https://grantwahl.substack.com](https://grantwahl.substack.com)
+ - date published: 2024-01-09T01:40:33.661467+00:00
+ - user: None
+ - tags: []
+
+## Grappling Lane | tibi | Substack
+ - [https://grapplinglane.substack.com](https://grapplinglane.substack.com)
+ - date published: 2023-10-25T11:46:50.347636+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Prism | Gurwinder | Substack
+ - [https://gurwinder.substack.com](https://gurwinder.substack.com)
+ - date published: 2023-10-25T11:46:58.520291+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Hagakure | Paulo André | Substack
+ - [https://hagakure.substack.com](https://hagakure.substack.com)
+ - date published: 2024-01-09T01:40:36.254592+00:00
+ - user: None
+ - tags: []
+
+## Maybe Baby | Haley Nahman | Substack
+ - [https://haleynahman.substack.com](https://haleynahman.substack.com)
+ - date published: 2024-01-09T01:40:38.764256+00:00
+ - user: None
+ - tags: []
+
+## Sustainability by numbers | Hannah Ritchie | Substack
+ - [https://hannahritchie.substack.com](https://hannahritchie.substack.com)
+ - date published: 2024-01-09T01:40:40.867001+00:00
+ - user: None
+ - tags: []
+
+## Happy Chasing | Petter Haga | Substack
+ - [https://happychasing.substack.com](https://happychasing.substack.com)
+ - date published: 2023-10-25T09:53:28.318342+00:00
+ - user: None
+ - tags: ['substack']
+
+## Hard Pivot | jeff tang | Substack
+ - [https://hardpivot.substack.com](https://hardpivot.substack.com)
+ - date published: 2023-10-25T09:53:30.197949+00:00
+ - user: None
+ - tags: ['substack']
+
+## Hasen Judi | Substack
+ - [https://hasen.substack.com](https://hasen.substack.com)
+ - date published: 2023-10-25T09:53:32.676350+00:00
+ - user: None
+ - tags: ['substack']
+
+## Headlines | Fitt Insider | Substack
+ - [https://headlineshq.substack.com](https://headlineshq.substack.com)
+ - date published: 2023-10-25T09:53:34.487257+00:00
+ - user: None
+ - tags: ['substack']
+
+## John’s Substack | Substack
+ - [https://hermitian.substack.com](https://hermitian.substack.com)
+ - date published: 2024-01-09T01:40:49.351640+00:00
+ - user: None
+ - tags: []
+
+## Human Programming | Daniel Sosebee | Substack
+ - [https://humanprogramming.substack.com](https://humanprogramming.substack.com)
+ - date published: 2023-10-25T09:53:38.961944+00:00
+ - user: None
+ - tags: ['substack']
+
+## Handwaving Freakoutery | Substack
+ - [https://hwfo.substack.com](https://hwfo.substack.com)
+ - date published: 2024-01-09T01:40:51.174941+00:00
+ - user: None
+ - tags: []
+
+## Heterodox STEM | Dorian Abbot | Substack
+ - [https://hxstem.substack.com](https://hxstem.substack.com)
+ - date published: 2023-10-25T09:53:44.146234+00:00
+ - user: None
+ - tags: ['substack']
+
+## Iah’s Substack | Substack
+ - [https://iahwrites.substack.com](https://iahwrites.substack.com)
+ - date published: 2023-10-25T09:53:45.650210+00:00
+ - user: None
+ - tags: ['substack']
+
+## I Am Not a Robot | Diego Basch | Substack
+ - [https://iamnotarobot.substack.com](https://iamnotarobot.substack.com)
+ - date published: 2023-10-25T09:53:47.300720+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Ruffian | Ian Leslie | Substack
+ - [https://ianleslie.substack.com](https://ianleslie.substack.com)
+ - date published: 2023-10-25T09:54:01.013922+00:00
+ - user: None
+ - tags: ['substack']
+
+## https://iatia.substack.com
+ - [https://iatia.substack.com](https://iatia.substack.com)
+ - date published: 2024-01-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Ideal Gas Newsletter | Substack
+ - [https://idealgas.substack.com](https://idealgas.substack.com)
+ - date published: 2023-10-25T09:54:03.827327+00:00
+ - user: None
+ - tags: ['substack']
+
+## 50 Years of Text Games | Aaron A. Reed | Substack
+ - [https://if50.substack.com](https://if50.substack.com)
+ - date published: 2023-10-25T09:54:06.218172+00:00
+ - user: None
+ - tags: ['substack']
+
+## I have thoughts | Thomas Poinsot | Substack
+ - [https://ihavemanythoughts.substack.com](https://ihavemanythoughts.substack.com)
+ - date published: 2023-10-25T09:54:07.794382+00:00
+ - user: None
+ - tags: ['substack']
+
+## a newsletter for infovores. | Age of Infovores | Substack
+ - [https://infovores.substack.com](https://infovores.substack.com)
+ - date published: 2023-10-25T09:54:08.800392+00:00
+ - user: None
+ - tags: ['substack']
+
+## Interconnected | Kevin Xu | Substack
+ - [https://interconnect.substack.com](https://interconnect.substack.com)
+ - date published: 2023-10-25T09:54:16.997332+00:00
+ - user: None
+ - tags: ['substack']
+
+## That's Interesting | Substack
+ - [https://interestingcontent.substack.com](https://interestingcontent.substack.com)
+ - date published: 2023-12-21T19:33:37.713703+00:00
+ - user: None
+ - tags: []
+
+## inter human agreement | linked zero sync | Substack
+ - [https://interhumanagreement.substack.com](https://interhumanagreement.substack.com)
+ - date published: 2023-10-25T09:54:18.928911+00:00
+ - user: None
+ - tags: ['substack']
+
+## Intuitive AI | Will Seltzer | Substack
+ - [https://intuitiveai.substack.com](https://intuitiveai.substack.com)
+ - date published: 2023-10-25T09:54:20.839554+00:00
+ - user: None
+ - tags: ['substack']
+
+## Investing 101 | Kyle Harrison | Substack
+ - [https://investing1012dot0.substack.com](https://investing1012dot0.substack.com)
+ - date published: 2023-10-25T09:54:23.993215+00:00
+ - user: None
+ - tags: ['substack']
+
+## Ironic Sans | David Friedman | Substack
+ - [https://ironicsans.substack.com](https://ironicsans.substack.com)
+ - date published: 2023-10-25T09:54:27.002372+00:00
+ - user: None
+ - tags: ['substack']
+
+## Ivan's Indie Journey | Ivan Klimchuk | Substack
+ - [https://ivanklimchuk.substack.com](https://ivanklimchuk.substack.com)
+ - date published: 2024-01-09T01:40:54.321638+00:00
+ - user: None
+ - tags: []
+
+## Gordian Knot News | Jack Devanney | Substack
+ - [https://jackdevanney.substack.com](https://jackdevanney.substack.com)
+ - date published: 2024-01-09T01:40:56.135107+00:00
+ - user: None
+ - tags: []
+
+## Cracking the PM Newsletter | Jackie Bavaro | Substack
+ - [https://jackiebavaro.substack.com](https://jackiebavaro.substack.com)
+ - date published: 2024-01-09T01:40:58.041645+00:00
+ - user: None
+ - tags: []
+
 ## All-Source Intelligence Fusion | Jack Poulson | Substack
  - [https://jackpoulson.substack.com](https://jackpoulson.substack.com)
  - date published: 2023-11-18T19:07:51.838890+00:00
@@ -2962,6 +3202,12 @@
  - user: None
  - tags: []
 
+## Image and Video Upload, Storage, Optimization and CDN
+ - [https://digitalassets.tesla.com](https://digitalassets.tesla.com)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Tesla Investor Relations
  - [https://ir.tesla.com](https://ir.tesla.com)
  - date published: 2023-10-25T17:27:09.938562+00:00
@@ -3313,6 +3559,12 @@
 ## The Aviation Geek Club - Stories and News for true aviation Geeks
  - [https://theaviationgeekclub.com](https://theaviationgeekclub.com)
  - date published: 2023-10-25T17:29:13.141576+00:00
+ - user: None
+ - tags: []
+
+## Construction's Leading Video Channel - The B1M
+ - [https://theb1m.com](https://theb1m.com)
+ - date published: 2024-01-24T20:53:55.272719+00:00
  - user: None
  - tags: []
 
@@ -4126,6 +4378,12 @@
  - date published: 2023-10-31T12:38:37.277060+00:00
  - user: None
  - tags: ['news']
+
+## The London Spy – One of London's Finest Walking Tours
+ - [https://thelondonspy.com](https://thelondonspy.com)
+ - date published: 2024-01-24T20:56:23.287448+00:00
+ - user: None
+ - tags: []
 
 ## https://www.themagazineofcontemporaryart.com
  - [https://www.themagazineofcontemporaryart.com](https://www.themagazineofcontemporaryart.com)
@@ -5743,262 +6001,4 @@
  - date published: 2024-01-16T03:19:06.515711+00:00
  - user: None
  - tags: []
-
-## Home « Tom Scott
- - [https://www.tomscott.com](https://www.tomscott.com)
- - date published: 2023-10-25T17:43:54.648389+00:00
- - user: None
- - tags: []
-
-## Tom's Guide | Tech Product Reviews, Top Picks and How To
- - [https://www.tomsguide.com](https://www.tomsguide.com)
- - date published: 2023-10-25T09:36:18.075879+00:00
- - user: None
- - tags: []
-
-## Tom's Hardware: For The Hardcore PC Enthusiast
- - [https://www.tomshardware.com](https://www.tomshardware.com)
- - date published: 2023-10-25T09:36:26.552623+00:00
- - user: None
- - tags: []
-
-## TomTom — Mapping and Location Technology
- - [https://www.tomtom.com](https://www.tomtom.com)
- - date published: 2023-10-25T08:25:17.562840+00:00
- - user: None
- - tags: []
-
-## Tomasz Tunguz by @ttunguz
- - [https://tomtunguz.com](https://tomtunguz.com)
- - date published: 2023-10-25T17:44:14.660115+00:00
- - user: None
- - tags: []
-
-## tontinton
- - [https://tontinton.com](https://tontinton.com)
- - date published: 2023-12-15T21:46:45.340254+00:00
- - user: None
- - tags: []
-
-## Tony Beato | UI/UX Designer & Frontend Developer | tonybeato.com
- - [https://tonybeato.com](https://tonybeato.com)
- - date published: 2023-12-05T14:37:28.614161+00:00
- - user: None
- - tags: ['personal']
-
-## Tony Dinh's Newsletter | Substack
- - [https://news.tonydinh.com](https://news.tonydinh.com)
- - date published: 2023-10-25T17:44:16.928207+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://tonyendelman.com](https://tonyendelman.com)
- - date published: 2023-12-18T01:36:02.598581+00:00
- - user: None
- - tags: ['personal']
-
-## Beginnings | Tony Kulesa | Substack
- - [https://www.tonykulesa.com](https://www.tonykulesa.com)
- - date published: 2023-10-25T17:44:18.368021+00:00
- - user: None
- - tags: []
-
-## Tony Mottaz
- - [https://www.tonymottaz.com](https://www.tonymottaz.com)
- - date published: 2023-11-10T23:40:09.155479+00:00
- - user: None
- - tags: []
-
-## Tool Army
- - [https://www.toolband.com](https://www.toolband.com)
- - date published: 2023-11-13T10:43:19.764493+00:00
- - user: None
- - tags: ['music band']
-
-## ToolGuyd | Tool Reviews, Deals, Industry News
- - [https://toolguyd.com](https://toolguyd.com)
- - date published: 2023-10-25T17:44:21.148611+00:00
- - user: None
- - tags: []
-
-## ToolJet | Open-source low-code platform to build internal tools
- - [https://www.tooljet.com](https://www.tooljet.com)
- - date published: 2023-10-25T17:44:23.477839+00:00
- - user: None
- - tags: []
-
-## Barley Yields from Wide-Form Data
- - [https://www.toolofthought.com](https://www.toolofthought.com)
- - date published: 2023-11-26T00:45:42.871246+00:00
- - user: None
- - tags: []
-
-## Andy Hunt's Toolshed Technologies Home Page
- - [https://toolshed.com](https://toolshed.com)
- - date published: 2023-12-24T02:31:25.107056+00:00
- - user: None
- - tags: ['personal']
-
-## Tooth Artifacts | Human teeth jewelry | Real teeth jewelry
- - [https://www.toothantique.com](https://www.toothantique.com)
- - date published: 2023-10-25T17:44:27.660101+00:00
- - user: None
- - tags: []
-
-## None
- - [https://topagree.com](https://topagree.com)
- - date published: 2024-01-09T02:51:40.592780+00:00
- - user: None
- - tags: []
-
-## https://www.topdrumgear.com
- - [https://www.topdrumgear.com](https://www.topdrumgear.com)
- - date published: 2024-01-16T23:53:18.254793+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.topgear.com](https://www.topgear.com)
- - date published: 2023-12-06T14:02:30.746280+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.topspeed.com](https://www.topspeed.com)
- - date published: 2024-01-09T02:51:41.114038+00:00
- - user: None
- - tags: []
-
-## Tor.com | Science fiction. Fantasy. The universe. And related subjects.
- - [https://www.tor.com](https://www.tor.com)
- - date published: 2023-10-25T17:44:34.590867+00:00
- - user: None
- - tags: ['fantasy news']
-
-## toronto.com | Latest Daily Breaking News Stories
- - [https://www.toronto.com](https://www.toronto.com)
- - date published: 2023-11-11T20:00:21.025764+00:00
- - user: None
- - tags: []
-
-## Toronto Life
- - [https://torontolife.com](https://torontolife.com)
- - date published: 2023-10-25T17:44:44.016018+00:00
- - user: None
- - tags: []
-
-## Home | Toronto Sun Home Page | Toronto Sun
- - [https://torontosun.com](https://torontosun.com)
- - date published: 2023-10-25T17:44:56.380706+00:00
- - user: None
- - tags: []
-
-## TorrentFreak - News
- - [https://torrentfreak.com](https://torrentfreak.com)
- - date published: 2023-10-25T17:44:57.688554+00:00
- - user: None
- - tags: ['news', 'privacy']
-
-## Home - Tortoise
- - [https://www.tortoisemedia.com](https://www.tortoisemedia.com)
- - date published: 2023-10-31T04:18:45.594409+00:00
- - user: None
- - tags: ['politic news', 'news']
-
-## Tosbourn – Belfast based Ruby developers
- - [https://tosbourn.com](https://tosbourn.com)
- - date published: 2024-01-06T08:56:21.590129+00:00
- - user: None
- - tags: []
-
-## ToS Notify
- - [https://tosnotify.com](https://tosnotify.com)
- - date published: 2023-10-25T17:44:58.740805+00:00
- - user: None
- - tags: []
-
-## Totality of Evidence Home
- - [https://totalityofevidence.com](https://totalityofevidence.com)
- - date published: 2023-10-25T17:45:02.485633+00:00
- - user: None
- - tags: []
-
-## JavaScript libraries and components for web development - Total.js Platform
- - [https://www.totaljs.com](https://www.totaljs.com)
- - date published: 2023-10-25T17:45:03.509721+00:00
- - user: None
- - tags: []
-
-## Professional TypeScript Training by Matt Pocock  | Total TypeScript
- - [https://www.totaltypescript.com](https://www.totaltypescript.com)
- - date published: 2023-10-25T17:45:05.114856+00:00
- - user: None
- - tags: []
-
-## Touch Pianist - Magical Piano App
- - [https://touchpianist.com](https://touchpianist.com)
- - date published: 2023-10-25T08:35:08.517593+00:00
- - user: None
- - tags: []
-
-## The Tournament of Books
- - [https://www.tournamentofbooks.com](https://www.tournamentofbooks.com)
- - date published: 2023-12-12T22:25:24.005775+00:00
- - user: None
- - tags: []
-
-## tovima.com - Breaking News, Analysis and Opinion from To Vima’s International Edition
- - [https://www.tovima.com](https://www.tovima.com)
- - date published: 2023-12-06T01:26:17.958785+00:00
- - user: None
- - tags: []
-
-## Towards Data Science
- - [https://towardsdatascience.com](https://towardsdatascience.com)
- - date published: 2023-10-25T17:45:08.870699+00:00
- - user: None
- - tags: []
-
-## Luxury Style, Travel, and Leisure - Town & Country Magazine
- - [https://www.townandcountrymag.com](https://www.townandcountrymag.com)
- - date published: 2023-10-25T17:45:12.913567+00:00
- - user: None
- - tags: []
-
-## TownFlex » latest entertainment news, breaking news, celebrity gossip, music
- - [https://townflex.com](https://townflex.com)
- - date published: 2023-10-25T17:45:16.808230+00:00
- - user: None
- - tags: []
-
-## Townhall :  Conservative News, Cartoons, Top Stories & Commentary
- - [https://townhall.com](https://townhall.com)
- - date published: 2023-10-25T17:45:24.004199+00:00
- - user: None
- - tags: []
-
-## Townsourced Tech Blog
- - [https://tech.townsourced.com](https://tech.townsourced.com)
- - date published: 2023-10-25T17:45:25.254459+00:00
- - user: None
- - tags: []
-
-## New Cars, Trucks, SUVs & Hybrids | Toyota Official Site
- - [https://www.toyota.com](https://www.toyota.com)
- - date published: 2023-11-01T09:01:55.012316+00:00
- - user: None
- - tags: ['company', 'car producer']
-
-## Tracy Durnell
- - [https://tracydurnell.com](https://tracydurnell.com)
- - date published: 2023-10-25T08:48:10.913316+00:00
- - user: None
- - tags: ['personal']
-
-## TradeWinds | Latest shipping and maritime news
- - [https://www.tradewindsnews.com](https://www.tradewindsnews.com)
- - date published: 2023-11-09T07:16:51.924656+00:00
- - user: None
- - tags: ['news', 'logistics', 'maritime news']
 

@@ -1,3 +1,471 @@
+## Home — Department of Physiology, Anatomy and Genetics (DPAG)
+ - [https://www.dpag.ox.ac.uk](https://www.dpag.ox.ac.uk)
+ - date published: 2023-10-31T19:57:19.175495+00:00
+ - user: None
+ - tags: []
+
+## OII | Homepage
+ - [https://www.oii.ox.ac.uk](https://www.oii.ox.ac.uk)
+ - date published: 2023-11-21T16:29:45.007881+00:00
+ - user: None
+ - tags: []
+
+## University of Oxford
+ - [https://www.ox.ac.uk](https://www.ox.ac.uk)
+ - date published: 2023-10-25T22:49:34.482125+00:00
+ - user: None
+ - tags: []
+
+## Information Engineering Main/Home Page
+ - [https://www.robots.ox.ac.uk](https://www.robots.ox.ac.uk)
+ - date published: 2023-10-25T22:49:36.138908+00:00
+ - user: None
+ - tags: []
+
+## Make it count with a triple gold university
+ - [https://www.plymouth.ac.uk](https://www.plymouth.ac.uk)
+ - date published: 2024-01-01T16:43:40.846084+00:00
+ - user: None
+ - tags: []
+
+## University of Portsmouth | A New Breed of University
+ - [https://www.port.ac.uk](https://www.port.ac.uk)
+ - date published: 2023-11-27T11:22:19.300413+00:00
+ - user: None
+ - tags: []
+
+## Queen Mary University of London
+ - [https://www.qmul.ac.uk](https://www.qmul.ac.uk)
+ - date published: 2023-10-25T22:49:40.586466+00:00
+ - user: None
+ - tags: []
+
+## The Royal Astronomical Society
+ - [https://ras.ac.uk](https://ras.ac.uk)
+ - date published: 2023-10-25T22:49:44.106790+00:00
+ - user: None
+ - tags: []
+
+## IT Services blog – Latest news, advice and information from the IT Services team
+ - [https://itservices.wp.st-andrews.ac.uk](https://itservices.wp.st-andrews.ac.uk)
+ - date published: 2023-10-25T22:49:46.498310+00:00
+ - user: None
+ - tags: []
+
+## MacTutor Index - MacTutor History of Mathematics
+ - [https://mathshistory.st-andrews.ac.uk](https://mathshistory.st-andrews.ac.uk)
+ - date published: 2023-10-25T22:49:48.719060+00:00
+ - user: None
+ - tags: []
+
+## Home - Staffordshire University
+ - [https://www.staffs.ac.uk](https://www.staffs.ac.uk)
+ - date published: 2023-12-12T13:24:55.758245+00:00
+ - user: None
+ - tags: []
+
+## Strathprints: The University of Strathclyde institutional repository - Strathprints
+ - [https://strathprints.strath.ac.uk](https://strathprints.strath.ac.uk)
+ - date published: 2023-12-07T17:36:01.374666+00:00
+ - user: None
+ - tags: []
+
+## UCL – University College London
+ - [https://www.ucl.ac.uk](https://www.ucl.ac.uk)
+ - date published: 2023-11-14T14:17:51.871742+00:00
+ - user: None
+ - tags: []
+
+## Find your place at UEA
+ - [https://www.uea.ac.uk](https://www.uea.ac.uk)
+ - date published: 2023-10-25T22:49:55.186219+00:00
+ - user: None
+ - tags: []
+
+## Exchanges: The Interdisciplinary Research Journal
+ - [https://exchanges.warwick.ac.uk](https://exchanges.warwick.ac.uk)
+ - date published: 2023-12-26T16:32:30.722613+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science, University of Warwick
+ - [https://www.dcs.warwick.ac.uk](https://www.dcs.warwick.ac.uk)
+ - date published: 2024-01-09T03:48:16.468095+00:00
+ - user: None
+ - tags: []
+
+## Computer Science - Computer Science, University of York
+ - [https://www.cs.york.ac.uk](https://www.cs.york.ac.uk)
+ - date published: 2023-10-25T22:50:02.708001+00:00
+ - user: None
+ - tags: []
+
+## University of York
+ - [https://www.york.ac.uk](https://www.york.ac.uk)
+ - date published: 2023-12-10T10:56:12.136279+00:00
+ - user: None
+ - tags: ['university']
+
+## Alister Bulman
+ - [https://abulman.co.uk](https://abulman.co.uk)
+ - date published: 2023-12-27T18:13:12.519753+00:00
+ - user: None
+ - tags: ['personal']
+
+## Adam K Dean
+ - [https://adamkdean.co.uk](https://adamkdean.co.uk)
+ - date published: 2023-10-25T08:56:16.522890+00:00
+ - user: None
+ - tags: ['personal']
+
+## GPT Unicorn
+ - [https://gpt-unicorn.adamkdean.co.uk](https://gpt-unicorn.adamkdean.co.uk)
+ - date published: 2023-10-25T22:50:04.452981+00:00
+ - user: None
+ - tags: []
+
+## Emmy-nominated filmmaker and artist Adam Westbrook
+ - [https://www.adamwestbrook.co.uk](https://www.adamwestbrook.co.uk)
+ - date published: 2024-01-15T06:17:25.579224+00:00
+ - user: None
+ - tags: []
+
+## ADMIRALTY Maritime Data Solutions
+ - [https://www.admiralty.co.uk](https://www.admiralty.co.uk)
+ - date published: 2023-10-25T22:50:10.346848+00:00
+ - user: None
+ - tags: []
+
+## Alex Murrell
+ - [https://www.alexmurrell.co.uk](https://www.alexmurrell.co.uk)
+ - date published: 2023-10-25T08:56:17.999808+00:00
+ - user: None
+ - tags: ['personal']
+
+## Amazon.co.uk: Low Prices in Electronics, Books, Sports Equipment & more
+ - [https://www.amazon.co.uk](https://www.amazon.co.uk)
+ - date published: 2023-10-25T22:50:25.984254+00:00
+ - user: None
+ - tags: []
+
+## Amimetic Developer Website from James Porter
+ - [https://www.amimetic.co.uk](https://www.amimetic.co.uk)
+ - date published: 2024-01-07T21:07:26.024418+00:00
+ - user: None
+ - tags: []
+
+## AN.
+ - [https://www.andrewnile.co.uk](https://www.andrewnile.co.uk)
+ - date published: 2023-10-25T22:50:28.355553+00:00
+ - user: None
+ - tags: []
+
+## Andy Bell - Designer, front-end developer and founder of Set Studio
+ - [https://andy-bell.co.uk](https://andy-bell.co.uk)
+ - date published: 2023-10-25T22:50:30.224777+00:00
+ - user: None
+ - tags: []
+
+## AOL is part of the Yahoo family of brands
+ - [https://www.aol.co.uk](https://www.aol.co.uk)
+ - date published: 2023-11-23T12:40:52.890100+00:00
+ - user: None
+ - tags: []
+
+## art market art online artsmarket da  vinci code last supper
+ - [http://www.artsmarket.co.uk](http://www.artsmarket.co.uk)
+ - date published: 2023-10-25T22:50:35.558821+00:00
+ - user: None
+ - tags: []
+
+## ASCII.co.uk - The home of all things ASCII
+ - [https://ascii.co.uk](https://ascii.co.uk)
+ - date published: 2023-10-30T13:46:28.309681+00:00
+ - user: None
+ - tags: []
+
+## Authentic Comms Strategic Consultancy
+ - [https://www.authenticcomms.co.uk](https://www.authenticcomms.co.uk)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Autocar | Car News and Car Reviews
+ - [https://www.autocar.co.uk](https://www.autocar.co.uk)
+ - date published: 2023-10-25T22:50:42.741657+00:00
+ - user: None
+ - tags: []
+
+## BabelStone
+ - [https://www.babelstone.co.uk](https://www.babelstone.co.uk)
+ - date published: 2023-10-25T22:50:46.375041+00:00
+ - user: None
+ - tags: []
+
+## Home | Bank of England
+ - [https://www.bankofengland.co.uk](https://www.bankofengland.co.uk)
+ - date published: 2023-10-25T22:50:52.361987+00:00
+ - user: None
+ - tags: []
+
+## Home - BBC News
+ - [https://news.bbc.co.uk](https://news.bbc.co.uk)
+ - date published: 2023-10-25T10:34:44.046411+00:00
+ - user: None
+ - tags: []
+
+## Recreating the sounds of the BBC Radiophonic Workshop
+ - [https://webaudio.prototyping.bbc.co.uk](https://webaudio.prototyping.bbc.co.uk)
+ - date published: 2024-01-09T03:48:18.813003+00:00
+ - user: None
+ - tags: []
+
+## BBC - Home
+ - [https://www.bbc.co.uk](https://www.bbc.co.uk)
+ - date published: 2023-10-25T10:34:51.357017+00:00
+ - user: None
+ - tags: []
+
+## BBC BASIC
+ - [https://www.bbcbasic.co.uk](https://www.bbcbasic.co.uk)
+ - date published: 2023-11-29T09:01:23.032263+00:00
+ - user: None
+ - tags: []
+
+## BBC Computer Literacy Project Archive
+ - [https://clp.bbcrewind.co.uk](https://clp.bbcrewind.co.uk)
+ - date published: 2023-10-25T22:50:58.960438+00:00
+ - user: None
+ - tags: []
+
+## Belfast Live: Latest Belfast News, sport & celebrity gossip
+ - [https://www.belfastlive.co.uk](https://www.belfastlive.co.uk)
+ - date published: 2023-10-25T22:51:11.575136+00:00
+ - user: None
+ - tags: []
+
+## Benji Weber
+ - [https://benjiweber.co.uk](https://benjiweber.co.uk)
+ - date published: 2023-10-25T22:51:13.295230+00:00
+ - user: None
+ - tags: []
+
+## Benjojo - Ben Cartwright-Cox
+ - [https://benjojo.co.uk](https://benjojo.co.uk)
+ - date published: 2024-01-03T20:38:30.635588+00:00
+ - user: None
+ - tags: []
+
+## Benjojo's Blog
+ - [https://blog.benjojo.co.uk](https://blog.benjojo.co.uk)
+ - date published: 2023-10-25T08:56:20.029035+00:00
+ - user: None
+ - tags: ['personal']
+
+## www.bentasker.co.uk
+ - [https://www.bentasker.co.uk](https://www.bentasker.co.uk)
+ - date published: 2023-12-09T19:20:15.327345+00:00
+ - user: None
+ - tags: ['personal']
+
+## Binary Moon > Ben Gillbanks
+ - [https://www.binarymoon.co.uk](https://www.binarymoon.co.uk)
+ - date published: 2023-10-25T22:51:15.031956+00:00
+ - user: None
+ - tags: []
+
+## Rebellion acquires The Bitmap Brothers brand and portfolio | Rebellion
+ - [https://www.bitmap-brothers.co.uk](https://www.bitmap-brothers.co.uk)
+ - date published: 2023-11-06T10:56:40.022375+00:00
+ - user: None
+ - tags: ['amiga', 'bitmap brothers', 'retro games', 'game studio']
+
+## Blackwell's, books for life and for learning Blackwell's
+ - [https://blackwells.co.uk](https://blackwells.co.uk)
+ - date published: 2023-11-24T08:14:30.224553+00:00
+ - user: None
+ - tags: []
+
+## <Blue Witch : "defiantly and resplendently un-trendy" >
+ - [https://www.blue-witch.co.uk](https://www.blue-witch.co.uk)
+ - date published: 2024-01-22T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## Bristol Live - latest local news, sport & business from Bristol
+ - [https://www.bristolpost.co.uk](https://www.bristolpost.co.uk)
+ - date published: 2023-10-25T22:51:29.047653+00:00
+ - user: None
+ - tags: []
+
+## Office Printers | Business Solutions | Brother UK
+ - [https://www.brother.co.uk](https://www.brother.co.uk)
+ - date published: 2024-01-13T20:20:52.124053+00:00
+ - user: None
+ - tags: []
+
+## hubs = geodesic domes made simple
+ - [https://buildwithhubs.co.uk](https://buildwithhubs.co.uk)
+ - date published: 2023-10-25T22:51:31.098717+00:00
+ - user: None
+ - tags: []
+
+## Bytes N Bits – Code, Make, Have Fun
+ - [https://bytesnbits.co.uk](https://bytesnbits.co.uk)
+ - date published: 2023-11-02T10:58:20.376646+00:00
+ - user: None
+ - tags: ['retro gaming', 'programming', 'amiga']
+
+## The Latest News and Sport for Cambridge - Cambridge Independent
+ - [https://www.cambridgeindependent.co.uk](https://www.cambridgeindependent.co.uk)
+ - date published: 2023-10-25T22:51:36.002589+00:00
+ - user: None
+ - tags: []
+
+## Official Citroën Website | New & Used Cars | Citroën UK
+ - [https://www.citroen.co.uk](https://www.citroen.co.uk)
+ - date published: 2023-12-11T16:09:38.261301+00:00
+ - user: None
+ - tags: []
+
+## coldclimate.co.uk
+ - [https://www.coldclimate.co.uk](https://www.coldclimate.co.uk)
+ - date published: 2024-01-02T03:36:56.454765+00:00
+ - user: None
+ - tags: []
+
+## Cricetus Cricetus Publishing
+ - [https://www.cricetuscricetus.co.uk](https://www.cricetuscricetus.co.uk)
+ - date published: 2023-10-25T22:51:39.170599+00:00
+ - user: None
+ - tags: []
+
+## UK Home | Daily Mail Online
+ - [https://www.dailymail.co.uk](https://www.dailymail.co.uk)
+ - date published: 2023-10-25T10:35:12.125790+00:00
+ - user: None
+ - tags: []
+
+## Daily Record & Sunday Mail - Scottish News, Sport, Politics and Celeb gossip
+ - [https://www.dailyrecord.co.uk](https://www.dailyrecord.co.uk)
+ - date published: 2024-01-01T12:51:52.459663+00:00
+ - user: None
+ - tags: []
+
+## Dan Bartlett: coach, writer and advisor
+ - [https://danbartlett.co.uk](https://danbartlett.co.uk)
+ - date published: 2023-11-29T15:51:43.101157+00:00
+ - user: None
+ - tags: []
+
+## Daniel Tyrkiel
+ - [https://danieltyrkiel.co.uk](https://danieltyrkiel.co.uk)
+ - date published: 2023-12-27T10:10:36.041467+00:00
+ - user: None
+ - tags: ['personal', 'personal']
+
+## Web Developer + Indie Maker | Dave Stewart
+ - [https://davestewart.co.uk](https://davestewart.co.uk)
+ - date published: 2023-10-25T22:51:41.535395+00:00
+ - user: None
+ - tags: []
+
+## David Tyler's Blog - Technical writing mostly focused on emulating old systems.
+ - [https://blog.davetcode.co.uk](https://blog.davetcode.co.uk)
+ - date published: 2023-10-25T09:24:56.811268+00:00
+ - user: None
+ - tags: ['personal']
+
+## David Edmundson's Web Log – Just another WordPress site
+ - [https://blog.davidedmundson.co.uk](https://blog.davidedmundson.co.uk)
+ - date published: 2023-10-25T09:01:01.611247+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kristian Glass
+ - [https://www.doismellburning.co.uk](https://www.doismellburning.co.uk)
+ - date published: 2024-01-16T23:53:44.553926+00:00
+ - user: None
+ - tags: []
+
+## DOS Days
+ - [https://www.dosdays.co.uk](https://www.dosdays.co.uk)
+ - date published: 2023-10-25T22:51:43.492116+00:00
+ - user: None
+ - tags: []
+
+## Bringing you games from across the internet into one place
+ - [https://www.dragonbonegames.co.uk](https://www.dragonbonegames.co.uk)
+ - date published: 2023-11-01T19:20:01.063717+00:00
+ - user: None
+ - tags: ['tabletop games', 'wargames']
+
+## Edinburgh Live: Edinburgh News, Sport & What's On
+ - [https://www.edinburghlive.co.uk](https://www.edinburghlive.co.uk)
+ - date published: 2023-10-25T22:52:02.414204+00:00
+ - user: None
+ - tags: []
+
+## EF Education First - United Kingdom
+ - [https://www.ef.co.uk](https://www.ef.co.uk)
+ - date published: 2023-11-28T20:18:24+00:00
+ - user: rumpel
+ - tags: []
+
+## Finance Jobs, Banking and Tech Jobs - UK - eFinancialCareers
+ - [https://www.efinancialcareers.co.uk](https://www.efinancialcareers.co.uk)
+ - date published: 2023-10-25T22:52:08.693906+00:00
+ - user: None
+ - tags: []
+
+## YorkshireLive - Yorkshire News, Sport, Events & more
+ - [https://www.examinerlive.co.uk](https://www.examinerlive.co.uk)
+ - date published: 2023-10-25T22:52:15.713823+00:00
+ - user: None
+ - tags: []
+
+## Latest UK and World News, Sport and Comment | Express.co.uk
+ - [https://www.express.co.uk](https://www.express.co.uk)
+ - date published: 2023-10-25T22:52:29.771366+00:00
+ - user: None
+ - tags: []
+
+## Film Stories
+ - [https://filmstories.co.uk](https://filmstories.co.uk)
+ - date published: 2023-11-24T20:54:17.369187+00:00
+ - user: None
+ - tags: []
+
+## Fleet Management | Company Car Tax | Best Car Reviews | Fleet News | Fuel costs |
+ - [https://www.fleetnews.co.uk](https://www.fleetnews.co.uk)
+ - date published: 2023-10-25T22:52:32.642993+00:00
+ - user: None
+ - tags: []
+
+## A:// FLOPPYSWOP / MADE FOR 56K / ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+ - [https://www.floppyswop.co.uk](https://www.floppyswop.co.uk)
+ - date published: 2023-11-15T17:54:32.775435+00:00
+ - user: None
+ - tags: ['retro', 'hobby', 'floppy disk']
+
+## flypig's page
+ - [https://www.flypig.co.uk](https://www.flypig.co.uk)
+ - date published: 2023-11-29T15:51:30.025011+00:00
+ - user: None
+ - tags: ['personal']
+
+## Forgeworld Games Workshop
+ - [https://www.forgeworld.co.uk](https://www.forgeworld.co.uk)
+ - date published: 2023-10-25T11:13:13+00:00
+ - user: rumpel
+ - tags: ['lord of the rings', 'warhammer', 'tabletop games']
+
+## Frenchleeds
+ - [https://www.frenchleeds.co.uk](https://www.frenchleeds.co.uk)
+ - date published: 2023-10-25T22:52:34.164510+00:00
+ - user: None
+ - tags: []
+
 ## https://www.freyaindia.co.uk
  - [https://www.freyaindia.co.uk](https://www.freyaindia.co.uk)
  - date published: 2024-01-20T17:30:57.926454+00:00
@@ -856,6 +1324,12 @@
  - user: None
  - tags: []
 
+## Welcome to Lambeth | Lambeth Council
+ - [https://www.lambeth.gov.uk](https://www.lambeth.gov.uk)
+ - date published: 2024-01-24T20:56:18.339942+00:00
+ - user: None
+ - tags: []
+
 ## maps.london.gov.uk
  - [https://apps.london.gov.uk](https://apps.london.gov.uk)
  - date published: 2023-10-25T22:56:20.873232+00:00
@@ -1433,6 +1907,12 @@
  - user: None
  - tags: ['personal']
 
+## duplicity: Encrypted bandwidth-efficient backup
+ - [https://duplicity.us](https://duplicity.us)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Ephemeral Hosting
  - [https://ephemeralp2p.durazo.us](https://ephemeralp2p.durazo.us)
  - date published: 2024-01-09T03:48:39.511792+00:00
@@ -1545,7 +2025,7 @@
  - [https://s92256806.onlinehome.us](https://s92256806.onlinehome.us)
  - date published: 2023-12-21T08:23:53.080816+00:00
  - user: None
- - tags: ['personal']
+ - tags: ['personal', 'personal']
 
 ## More Perfect Union
  - [https://perfectunion.us](https://perfectunion.us)
@@ -2002,7 +2482,7 @@
  - [https://olek.works](https://olek.works)
  - date published: 2023-12-12T23:24:43.805393+00:00
  - user: None
- - tags: ['personal']
+ - tags: ['personal', 'personal']
 
 ## 3D Animation and Automated Rigging | Anything World
  - [https://anything.world](https://anything.world)
@@ -2867,6 +3347,12 @@
 ## IOL | News that Connects South Africans
  - [https://www.iol.co.za](https://www.iol.co.za)
  - date published: 2023-12-12T22:24:38.653617+00:00
+ - user: None
+ - tags: []
+
+## https://www.mattcroxon.co.za
+ - [https://www.mattcroxon.co.za](https://www.mattcroxon.co.za)
+ - date published: 2024-01-24T19:36:46.260318+00:00
  - user: None
  - tags: []
 

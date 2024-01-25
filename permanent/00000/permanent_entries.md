@@ -640,6 +640,12 @@
  - user: None
  - tags: []
 
+## Offline GPT Store 😉
+ - [https://uneven-macaw-bef2.hony.ai](https://uneven-macaw-bef2.hony.ai)
+ - date published: 2024-01-24T17:05:23.757347+00:00
+ - user: None
+ - tags: []
+
 ## IFCA
  - [https://www.ifca.ai](https://www.ifca.ai)
  - date published: 2023-10-25T11:39:11.249743+00:00
@@ -1342,6 +1348,12 @@
  - user: None
  - tags: []
 
+## Undermind
+ - [https://app.undermind.ai](https://app.undermind.ai)
+ - date published: 2024-01-24T17:05:57.127775+00:00
+ - user: None
+ - tags: []
+
 ## AI News & Robotics News - Unite.AI
  - [https://www.unite.ai](https://www.unite.ai)
  - date published: 2023-10-25T11:00:48.637068+00:00
@@ -1948,6 +1960,12 @@
  - user: None
  - tags: []
 
+## Twoslash
+ - [https://twoslash.netlify.app](https://twoslash.netlify.app)
+ - date published: 2024-01-24T04:21:20.436111+00:00
+ - user: None
+ - tags: []
+
 ## Show HN: I made an app that consolidated 18 apps (doc, sheet, form, site, chat…)
  - [https://nino.app](https://nino.app)
  - date published: 2024-01-07T14:34:46+00:00
@@ -2131,6 +2149,12 @@
 ## Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps
  - [https://tauri.app](https://tauri.app)
  - date published: 2023-10-25T11:49:16.037626+00:00
+ - user: None
+ - tags: []
+
+## teachyourselfmath
+ - [https://teachyourselfmath.app](https://teachyourselfmath.app)
+ - date published: 2024-01-24T06:49:02.414761+00:00
  - user: None
  - tags: []
 
@@ -2541,6 +2565,12 @@
  - date published: 2023-11-29T17:10:47.669540+00:00
  - user: None
  - tags: ['personal']
+
+## Masterworks
+ - [https://www.masterworks.art](https://www.masterworks.art)
+ - date published: 2024-01-24T20:54:06.806591+00:00
+ - user: None
+ - tags: []
 
 ## Art, technology, and NFTs - Outland
  - [https://outland.art](https://outland.art)
@@ -5135,6 +5165,12 @@
  - user: None
  - tags: []
 
+## Patrick Boivin
+ - [https://pboivin.ca](https://pboivin.ca)
+ - date published: 2024-01-24T17:59:32.974422+00:00
+ - user: None
+ - tags: []
+
 ## Penguin Random House Canada
  - [https://www.penguinrandomhouse.ca](https://www.penguinrandomhouse.ca)
  - date published: 2024-01-01T23:02:01.836479+00:00
@@ -5715,7 +5751,7 @@
  - [https://www.nancy.cc](https://www.nancy.cc)
  - date published: 2024-01-15T02:46:18.706402+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home | Nannou
  - [https://nannou.cc](https://nannou.cc)
@@ -5963,40 +5999,4 @@
  - date published: 2023-10-25T12:13:36.353791+00:00
  - user: None
  - tags: []
-
-## CLIC EPFL | Association des étudiant.e.s Informatique et Systèmes de communication
- - [https://clic.epfl.ch](https://clic.epfl.ch)
- - date published: 2023-10-25T12:13:38.017502+00:00
- - user: None
- - tags: []
-
-## Ethereum Research
- - [https://ethresear.ch](https://ethresear.ch)
- - date published: 2023-12-29T04:55:09.336302+00:00
- - user: None
- - tags: []
-
-## About COMSEC - Computer Security Group
- - [https://comsec.ethz.ch](https://comsec.ethz.ch)
- - date published: 2023-10-25T12:13:40.287827+00:00
- - user: None
- - tags: []
-
-## ETH Zürich - Homepage | ETH Zürich
- - [https://ethz.ch](https://ethz.ch)
- - date published: 2023-10-25T12:13:42.696984+00:00
- - user: None
- - tags: []
-
-## 403 Forbidden
- - [https://people.inf.ethz.ch](https://people.inf.ethz.ch)
- - date published: 2024-01-04T17:43:31.139421+00:00
- - user: None
- - tags: []
-
-## Fabio Crameri graphic design, geoscience, and academic evaluation
- - [https://www.fabiocrameri.ch](https://www.fabiocrameri.ch)
- - date published: 2023-10-25T09:03:08.833901+00:00
- - user: None
- - tags: ['personal']
 

@@ -1,3 +1,267 @@
+## WRAL | News and Weather in Raleigh NC
+ - [https://www.wral.com](https://www.wral.com)
+ - date published: 2023-11-03T14:50:18.372996+00:00
+ - user: None
+ - tags: []
+
+## WRAL TechWire - The Triangle's Source for Tech & Startup News
+ - [https://wraltechwire.com](https://wraltechwire.com)
+ - date published: 2023-10-25T18:20:00.561894+00:00
+ - user: None
+ - tags: []
+
+## Access Restricted
+ - [https://www.wrbl.com](https://www.wrbl.com)
+ - date published: 2023-11-04T05:07:11.984619+00:00
+ - user: None
+ - tags: []
+
+## Access Restricted
+ - [https://www.wric.com](https://www.wric.com)
+ - date published: 2023-12-23T19:49:13.622587+00:00
+ - user: None
+ - tags: []
+
+## The Wright Place TV Show
+ - [https://wrightplacetv.com](https://wrightplacetv.com)
+ - date published: 2023-12-19T19:08:46.085944+00:00
+ - user: None
+ - tags: ['personal']
+
+## Shift Print
+ - [https://shiftprint.writeas.com](https://shiftprint.writeas.com)
+ - date published: 2023-12-27T13:59:10.758617+00:00
+ - user: None
+ - tags: []
+
+## Write Software, Well
+ - [https://www.writesoftwarewell.com](https://www.writesoftwarewell.com)
+ - date published: 2023-12-07T10:42:22.957389+00:00
+ - user: None
+ - tags: ['personal', 'ruby on rails', 'programming', 'ruby']
+
+## Ruxandra’s Substack | Ruxandra Teslo | Substack
+ - [https://www.writingruxandrabio.com](https://www.writingruxandrabio.com)
+ - date published: 2024-01-06T03:59:04.422251+00:00
+ - user: None
+ - tags: []
+
+## Atlanta News, Weather and Sports. Breaking stories from around the Metro Area. Coverage you can count on from WSB-TV Channel 2. – WSB-TV Channel 2 - Atlanta
+ - [https://www.wsbtv.com](https://www.wsbtv.com)
+ - date published: 2023-11-05T03:04:19.560301+00:00
+ - user: None
+ - tags: []
+
+## The Wall Street Journal - Breaking News, Business, Financial & Economic News, World News and Video
+ - [https://online.wsj.com](https://online.wsj.com)
+ - date published: 2023-10-25T18:20:48.069060+00:00
+ - user: None
+ - tags: []
+
+## The Wall Street Journal - Breaking News, Business, Financial & Economic News, World News and Video
+ - [https://www.wsj.com](https://www.wsj.com)
+ - date published: 2023-10-25T10:30:29.252767+00:00
+ - user: None
+ - tags: []
+
+## Nashville News, Weather, Sports
+ - [https://www.wsmv.com](https://www.wsmv.com)
+ - date published: 2023-11-05T16:32:47.785699+00:00
+ - user: None
+ - tags: []
+
+## WSOC-TV Channel 9 – WSOC TV
+ - [https://www.wsoctv.com](https://www.wsoctv.com)
+ - date published: 2023-11-14T23:38:32.237217+00:00
+ - user: None
+ - tags: []
+
+## WTOP | Washington’s Top News | DC, MD & VA News, Traffic & Weather
+ - [https://wtop.com](https://wtop.com)
+ - date published: 2023-11-08T13:11:29.249332+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.wtvm.com](https://www.wtvm.com)
+ - date published: 2023-11-04T05:07:09.334162+00:00
+ - user: None
+ - tags: []
+
+## WTVR.com | News, Weather and Sports from WTVR Richmond
+ - [https://www.wtvr.com](https://www.wtvr.com)
+ - date published: 2023-10-25T18:20:53.102355+00:00
+ - user: None
+ - tags: []
+
+## Wu Ming Foundation
+ - [https://www.wumingfoundation.com](https://www.wumingfoundation.com)
+ - date published: 2023-12-23T17:38:27.205848+00:00
+ - user: None
+ - tags: []
+
+## Open-Source GraphQL Federation with WunderGraph Cosmo, API Composition with WunderGraph Gateway, Backend-for-Frontend Framework with WunderGraph SDK - WunderGraph
+ - [https://wundergraph.com](https://wundergraph.com)
+ - date published: 2023-10-25T18:20:54.761799+00:00
+ - user: None
+ - tags: []
+
+## Local Weather Forecast, News and Conditions | Weather Underground
+ - [https://www.wunderground.com](https://www.wunderground.com)
+ - date published: 2023-10-24T20:19:15.561998+00:00
+ - user: None
+ - tags: []
+
+## Access Denied
+ - [https://www.wusa9.com](https://www.wusa9.com)
+ - date published: 2023-10-25T18:20:55.120846+00:00
+ - user: None
+ - tags: []
+
+## Wu Tang Clan - Official Site
+ - [https://wutangclan.com](https://wutangclan.com)
+ - date published: 2023-11-13T10:21:48.421461+00:00
+ - user: None
+ - tags: ['music band']
+
+## wvgazettemail.com | A Pulitzer Prize Winning Newspaper
+ - [https://www.wvgazettemail.com](https://www.wvgazettemail.com)
+ - date published: 2023-10-25T18:20:55.865888+00:00
+ - user: None
+ - tags: []
+
+## wvnews.com | WVNEWS, West Virginia's News, INDEPENDENT, TRUSTWORTHY, NEWS, SPORTS, EVENTS, WVU, WV COLLEGE, WV HIGH SCHOOL, CHARLESTON, HUNTINGTON, MORGANTOWN, WHEELING, PARKERSBURG, MARTINSBURG, BECKLEY, CLARKSBURG, BRIDGEPORT, KINGWOOD, WESTON, BUCKHANNON, FAIRMONT, POINT PLEASANT, RIPLEY, WV NEWS, WEST VIRGINIA NEWS, Weather, lottery, schools, department of education
+ - [https://www.wvnews.com](https://www.wvnews.com)
+ - date published: 2023-12-11T06:55:01.079300+00:00
+ - user: None
+ - tags: []
+
+## Willamette Week
+ - [https://www.wweek.com](https://www.wweek.com)
+ - date published: 2023-12-10T15:34:18.473734+00:00
+ - user: None
+ - tags: []
+
+## Kalamazoo News, Weather, Sports, Breaking News | WWMT
+ - [https://wwmt.com](https://wwmt.com)
+ - date published: 2023-12-05T16:27:32.456152+00:00
+ - user: None
+ - tags: []
+
+## Home Page
+ - [https://wwnorton.com](https://wwnorton.com)
+ - date published: 2023-12-25T19:17:02.291434+00:00
+ - user: None
+ - tags: []
+
+## https://www.com
+ - [https://www.com](https://www.com)
+ - date published: 2023-11-01T17:24:26.002971+00:00
+ - user: None
+ - tags: []
+
+## WXYZ Channel 7: Detroit news, weather, traffic and more
+ - [https://www.wxyz.com](https://www.wxyz.com)
+ - date published: 2023-10-25T18:21:03.158094+00:00
+ - user: None
+ - tags: []
+
+## At-Home Allergy Testing and Treatment | Wyndly
+ - [https://www.wyndly.com](https://www.wyndly.com)
+ - date published: 2023-10-25T18:21:05.563424+00:00
+ - user: None
+ - tags: []
+
+## Wyoming Trust & LLC Attorney - Asset Protection is Our Only Focus
+ - [https://wyomingllcattorney.com](https://wyomingllcattorney.com)
+ - date published: 2023-10-25T18:21:07.429056+00:00
+ - user: None
+ - tags: []
+
+## Access Denied
+ - [https://www.wzzm13.com](https://www.wzzm13.com)
+ - date published: 2023-11-08T15:16:55.250942+00:00
+ - user: None
+ - tags: []
+
+## Twitter
+ - [https://x.com](https://x.com)
+ - date published: 2023-10-31T10:38:39+00:00
+ - user: rumpel
+ - tags: ['social platform']
+
+## X-Plane 12 Flight Simulator - X-Plane
+ - [https://www.x-plane.com](https://www.x-plane.com)
+ - date published: 2023-10-25T18:21:13.128611+00:00
+ - user: None
+ - tags: []
+
+## Transforming Machine Learning into Innovative Expression
+ - [https://x0axz.com](https://x0axz.com)
+ - date published: 2023-10-25T18:21:13.681331+00:00
+ - user: None
+ - tags: []
+
+## x64dbg
+ - [https://x64dbg.com](https://x64dbg.com)
+ - date published: 2024-01-09T13:24:47+00:00
+ - user: rumpel
+ - tags: ['debugger']
+
+## random hacks
+ - [https://xakcop.com](https://xakcop.com)
+ - date published: 2023-10-25T18:21:14.495113+00:00
+ - user: None
+ - tags: []
+
+## Xbox Official Site: Consoles, Games, and Community | Xbox
+ - [https://www.xbox.com](https://www.xbox.com)
+ - date published: 2023-10-24T20:06:23.111885+00:00
+ - user: None
+ - tags: ['game streaming', 'game pass']
+
+## XDA Forums
+ - [https://forum.xda-developers.com](https://forum.xda-developers.com)
+ - date published: 2023-10-25T11:33:33.734807+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.xda-developers.com](https://www.xda-developers.com)
+ - date published: 2023-12-04T20:35:49.290144+00:00
+ - user: None
+ - tags: []
+
+## Use the XDG Base Directory Specification!
+ - [https://xdgbasedirectoryspecification.com](https://xdgbasedirectoryspecification.com)
+ - date published: 2023-10-25T18:21:20.314625+00:00
+ - user: None
+ - tags: []
+
+## Digital Transformation Consultancy Services and Solutions Xebia
+ - [https://xebia.com](https://xebia.com)
+ - date published: 2023-10-25T18:21:23.207999+00:00
+ - user: None
+ - tags: []
+
+## Álvaro Ramírez
+ - [https://xenodium.com](https://xenodium.com)
+ - date published: 2023-10-25T18:21:29.741267+00:00
+ - user: None
+ - tags: []
+
+## XetHub
+ - [https://about.xethub.com](https://about.xethub.com)
+ - date published: 2023-10-25T18:21:31.652655+00:00
+ - user: None
+ - tags: []
+
+## XetHub
+ - [https://xethub.com](https://xethub.com)
+ - date published: 2023-10-25T18:21:39.213158+00:00
+ - user: None
+ - tags: []
+
 ## Xfire - Straight-shooting Video Game & Entertainment News
  - [https://www.xfire.com](https://www.xfire.com)
  - date published: 2023-10-25T18:21:42.076056+00:00
@@ -2429,6 +2693,12 @@ home
  - user: None
  - tags: []
 
+## Pressemitteilungen
+ - [https://pressemitteilungen.pr.uni-halle.de](https://pressemitteilungen.pr.uni-halle.de)
+ - date published: 2024-01-24T17:54:14.509249+00:00
+ - user: None
+ - tags: []
+
 ## Heidelberg University EN
  - [https://www.uni-heidelberg.de](https://www.uni-heidelberg.de)
  - date published: 2023-10-25T11:22:07.189480+00:00
@@ -4003,6 +4273,12 @@ home
  - user: None
  - tags: []
 
+## koch.dev
+ - [https://www.koch.dev](https://www.koch.dev)
+ - date published: 2024-01-24T08:01:45.057444+00:00
+ - user: None
+ - tags: []
+
 ## chshersh aka Dmitrii Kovanikov
  - [http://kodimensional.dev](http://kodimensional.dev)
  - date published: 2023-10-25T18:38:58.685350+00:00
@@ -4222,6 +4498,12 @@ home
 ## Matteo Bianchi – Medium
  - [https://blog.mb-consulting.dev](https://blog.mb-consulting.dev)
  - date published: 2024-01-15T16:49:18.050849+00:00
+ - user: None
+ - tags: []
+
+## Colin McMillen
+ - [https://www.mcmillen.dev](https://www.mcmillen.dev)
+ - date published: 2022-11-07T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5718,293 +6000,6 @@ home
 ## Research @ AU
  - [https://research.american.edu](https://research.american.edu)
  - date published: 2023-10-25T18:46:30.302927+00:00
- - user: None
- - tags: []
-
-## UArizona Health Sciences |
- - [https://healthsciences.arizona.edu](https://healthsciences.arizona.edu)
- - date published: 2023-10-25T18:46:38.005550+00:00
- - user: None
- - tags: []
-
-## Home | University of Arizona News
- - [https://news.arizona.edu](https://news.arizona.edu)
- - date published: 2023-10-25T11:22:13.823722+00:00
- - user: None
- - tags: []
-
-## Laboratory for Social Connectedness & Health (LSCH)
- - [https://sbarra.faculty.arizona.edu](https://sbarra.faculty.arizona.edu)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://wp.optics.arizona.edu
- - [https://wp.optics.arizona.edu](https://wp.optics.arizona.edu)
- - date published: 2024-01-09T02:58:14.257859+00:00
- - user: None
- - tags: []
-
-## USAWC Press
- - [https://press.armywarcollege.edu](https://press.armywarcollege.edu)
- - date published: 2023-10-25T18:46:57.063005+00:00
- - user: None
- - tags: []
-
-## Downtown Chicago's #1 Museum | The Art Institute of Chicago
- - [https://www.artic.edu](https://www.artic.edu)
- - date published: 2023-11-13T13:48:34.613550+00:00
- - user: None
- - tags: ['museum']
-
-## ASU Now
- - [https://news.asu.edu](https://news.asu.edu)
- - date published: 2023-11-02T16:39:16.908709+00:00
- - user: None
- - tags: []
-
-## Bard College
- - [https://www.bard.edu](https://www.bard.edu)
- - date published: 2023-10-25T18:47:01.280987+00:00
- - user: None
- - tags: []
-
-## Baylor College of Medicine Blog Network
- - [https://blogs.bcm.edu](https://blogs.bcm.edu)
- - date published: 2023-12-10T11:15:31.259852+00:00
- - user: None
- - tags: []
-
-## Home - Cal Alumni Association
- - [https://alumni.berkeley.edu](https://alumni.berkeley.edu)
- - date published: 2023-10-25T18:47:08.428083+00:00
- - user: None
- - tags: []
-
-## School of Information Sites • sites for the I School community
- - [https://blogs.ischool.berkeley.edu](https://blogs.ischool.berkeley.edu)
- - date published: 2023-10-25T18:47:17.028952+00:00
- - user: None
- - tags: []
-
-## Gorilla
- - [https://gorilla.cs.berkeley.edu](https://gorilla.cs.berkeley.edu)
- - date published: 2023-10-25T18:47:21.878049+00:00
- - user: None
- - tags: []
-
-## Greater Good: The Science of a Meaningful Life
- - [https://greatergood.berkeley.edu](https://greatergood.berkeley.edu)
- - date published: 2023-10-25T18:47:26.081278+00:00
- - user: None
- - tags: []
-
-## EECS Instructional Support Group Home Page
- - [https://inst.eecs.berkeley.edu](https://inst.eecs.berkeley.edu)
- - date published: 2023-10-25T18:47:27.815351+00:00
- - user: None
- - tags: []
-
-## UCB Mathematics | Department of Mathematics at University of California Berkeley
- - [https://math.berkeley.edu](https://math.berkeley.edu)
- - date published: 2023-10-25T18:47:32.688694+00:00
- - user: None
- - tags: []
-
-## UC Berkeley Rausser College of Natural Resources
- - [https://nature.berkeley.edu](https://nature.berkeley.edu)
- - date published: 2023-11-07T06:24:12.895605+00:00
- - user: None
- - tags: []
-
-## Berkeley News | Berkeley
- - [https://news.berkeley.edu](https://news.berkeley.edu)
- - date published: 2023-10-25T18:47:36.594729+00:00
- - user: None
- - tags: []
-
-## Newsroom | Haas News | Berkeley Haas
- - [https://newsroom.haas.berkeley.edu](https://newsroom.haas.berkeley.edu)
- - date published: 2023-10-25T18:47:42.073714+00:00
- - user: None
- - tags: []
-
-## UC Berkeley School of Optometry
- - [https://optometry.berkeley.edu](https://optometry.berkeley.edu)
- - date published: 2023-12-02T21:50:54.268970+00:00
- - user: None
- - tags: []
-
-## Home - Adept Lab at UCBerkeley
- - [https://pbs.cs.berkeley.edu](https://pbs.cs.berkeley.edu)
- - date published: 2023-10-25T18:47:55.838189+00:00
- - user: None
- - tags: []
-
-## People @ EECS at UC Berkeley
- - [https://people.eecs.berkeley.edu](https://people.eecs.berkeley.edu)
- - date published: 2023-10-25T18:47:59.063312+00:00
- - user: None
- - tags: []
-
-## Hello World
- - [https://people.ischool.berkeley.edu](https://people.ischool.berkeley.edu)
- - date published: 2023-10-31T04:18:44.290260+00:00
- - user: None
- - tags: []
-
-## Ptolemy Project Home Page
- - [https://ptolemy.berkeley.edu](https://ptolemy.berkeley.edu)
- - date published: 2023-10-25T18:48:03.786652+00:00
- - user: None
- - tags: []
-
-## SETI@home
- - [https://setiathome.berkeley.edu](https://setiathome.berkeley.edu)
- - date published: 2023-10-25T18:48:06.909632+00:00
- - user: None
- - tags: []
-
-## Statistics at UC Berkeley | Department of Statistics
- - [https://www.stat.berkeley.edu](https://www.stat.berkeley.edu)
- - date published: 2023-10-25T18:48:16.122861+00:00
- - user: None
- - tags: []
-
-## Thomas J. Watson College of Engineering and Applied Science | Binghamton University
- - [http://www.ws.binghamton.edu](http://www.ws.binghamton.edu)
- - date published: 2023-10-25T18:48:19.170626+00:00
- - user: None
- - tags: []
-
-## Brookings - Quality. Independence. Impact.
- - [https://www.brookings.edu](https://www.brookings.edu)
- - date published: 2023-11-05T11:08:07.121051+00:00
- - user: None
- - tags: []
-
-## Brown University Department of Computer Science
- - [https://cs.brown.edu](https://cs.brown.edu)
- - date published: 2024-01-09T02:58:24.829394+00:00
- - user: None
- - tags: []
-
-## https://esl.cs.brown.edu
- - [https://esl.cs.brown.edu](https://esl.cs.brown.edu)
- - date published: 2023-10-25T18:48:26.205486+00:00
- - user: None
- - tags: []
-
-## Watson Institute for International and Public Affairs
- - [https://watson.brown.edu](https://watson.brown.edu)
- - date published: 2023-10-25T18:48:34.751888+00:00
- - user: None
- - tags: []
-
-## Homepage | Boston University
- - [https://www.bu.edu](https://www.bu.edu)
- - date published: 2023-10-25T18:48:37.312705+00:00
- - user: None
- - tags: []
-
-## Boston University Medical Campus
- - [https://www.bumc.bu.edu](https://www.bumc.bu.edu)
- - date published: 2023-12-03T14:38:34.468583+00:00
- - user: None
- - tags: []
-
-## Human Factors and Ergonomics Society Student Chapter – The University at Buffalo, State University of New York
- - [https://markelz.physics.buffalo.edu](https://markelz.physics.buffalo.edu)
- - date published: 2024-01-09T02:58:27.946041+00:00
- - user: None
- - tags: []
-
-## University at Buffalo
- - [https://www.buffalo.edu](https://www.buffalo.edu)
- - date published: 2024-01-09T02:58:31.896039+00:00
- - user: None
- - tags: []
-
-## News Homepage - BYU News
- - [https://news.byu.edu](https://news.byu.edu)
- - date published: 2023-10-25T18:48:47.775303+00:00
- - user: None
- - tags: []
-
-## Plant & Wildlife Sciences Homepage
- - [https://pws.byu.edu](https://pws.byu.edu)
- - date published: 2023-10-25T18:49:07.807137+00:00
- - user: None
- - tags: []
-
-## https://users.csc.calpoly.edu
- - [https://users.csc.calpoly.edu](https://users.csc.calpoly.edu)
- - date published: 2024-01-09T02:58:34.457804+00:00
- - user: None
- - tags: []
-
-## Welcome to Caltech Magazine (formerly Engineering & Science) - Caltech Magazine
- - [https://calteches.library.caltech.edu](https://calteches.library.caltech.edu)
- - date published: 2023-10-25T18:49:12.742737+00:00
- - user: None
- - tags: []
-
-## Taking to www.astro.caltech.edu
- - [https://sites.astro.caltech.edu](https://sites.astro.caltech.edu)
- - date published: 2023-10-25T18:49:21.036394+00:00
- - user: None
- - tags: []
-
-## Home
-  
-
-     | 
-    
-    www.caltech.edu
- - [https://www.caltech.edu](https://www.caltech.edu)
- - date published: 2023-10-25T18:49:26.802906+00:00
- - user: None
- - tags: []
-
-## The Feynman Lectures on Physics
- - [https://www.feynmanlectures.caltech.edu](https://www.feynmanlectures.caltech.edu)
- - date published: 2023-10-25T18:49:32.962260+00:00
- - user: None
- - tags: []
-
-## The Daily | Case Western Reserve University
- - [https://thedaily.case.edu](https://thedaily.case.edu)
- - date published: 2023-12-08T08:26:55.618418+00:00
- - user: None
- - tags: []
-
-## ITS - Technology Infrastructure Services
- - [https://tiswww.case.edu](https://tiswww.case.edu)
- - date published: 2023-10-25T18:49:35.427501+00:00
- - user: None
- - tags: []
-
-## Chapman Blogs | Chapman University
- - [https://blogs.chapman.edu](https://blogs.chapman.edu)
- - date published: 2023-10-25T18:49:38.865941+00:00
- - user: None
- - tags: []
-
-## CMU CS Academy
- - [https://academy.cs.cmu.edu](https://academy.cs.cmu.edu)
- - date published: 2023-10-25T18:49:39.691260+00:00
- - user: None
- - tags: []
-
-## Carnegie Mellon Database Group
- - [https://db.cs.cmu.edu](https://db.cs.cmu.edu)
- - date published: 2023-10-25T18:49:41.742513+00:00
- - user: None
- - tags: []
-
-## Penrose | Penrose
- - [https://penrose.cs.cmu.edu](https://penrose.cs.cmu.edu)
- - date published: 2023-10-25T18:49:42.884999+00:00
  - user: None
  - tags: []
 

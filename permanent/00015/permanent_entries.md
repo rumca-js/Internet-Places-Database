@@ -1,3 +1,339 @@
+## man Richard-Baeck.3
+ - [https://ritschmaster.github.io](https://ritschmaster.github.io)
+ - date published: 2024-01-13T09:07:27.004992+00:00
+ - user: None
+ - tags: []
+
+## RoboAgent: Towards Sample Efficient Robot Manipulation with Semantic Augmentations and Action Chunking
+ - [https://robopen.github.io](https://robopen.github.io)
+ - date published: 2023-10-25T19:51:54.669938+00:00
+ - user: None
+ - tags: []
+
+## Open X-Embodiment: Robotic Learning Datasets and RT-X Models
+ - [https://robotics-transformer-x.github.io](https://robotics-transformer-x.github.io)
+ - date published: 2023-10-25T19:51:56.287307+00:00
+ - user: None
+ - tags: []
+
+## Rodrigodd
+ - [https://rodrigodd.github.io](https://rodrigodd.github.io)
+ - date published: 2023-10-25T19:51:57.633401+00:00
+ - user: None
+ - tags: []
+
+## https://rubjo.github.io
+ - [https://rubjo.github.io](https://rubjo.github.io)
+ - date published: 2023-11-19T14:59:13.915453+00:00
+ - user: None
+ - tags: []
+
+## Ruby Hacking Guide
+ - [https://ruby-hacking-guide.github.io](https://ruby-hacking-guide.github.io)
+ - date published: 2023-10-25T19:51:59.280808+00:00
+ - user: None
+ - tags: []
+
+## rust-analyzer
+ - [https://rust-analyzer.github.io](https://rust-analyzer.github.io)
+ - date published: 2023-10-25T19:52:01.419582+00:00
+ - user: None
+ - tags: []
+
+## GCC Front-End For Rust | Alternative Rust Compiler for GCC
+ - [https://rust-gcc.github.io](https://rust-gcc.github.io)
+ - date published: 2023-10-25T19:52:02.960686+00:00
+ - user: None
+ - tags: []
+
+## https://rust-hosted-langs.github.io
+ - [https://rust-hosted-langs.github.io](https://rust-hosted-langs.github.io)
+ - date published: 2024-01-09T03:33:01.800848+00:00
+ - user: None
+ - tags: []
+
+## Rustam Kovhaev's blog
+ - [https://rustylife.github.io](https://rustylife.github.io)
+ - date published: 2023-10-25T08:59:14.364536+00:00
+ - user: None
+ - tags: ['personal']
+
+## Salwyn Mathew
+ - [https://salwinat0r.github.io](https://salwinat0r.github.io)
+ - date published: 2023-12-17T05:07:59.226368+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sam Pruden Does Stuff
+ - [https://sampruden.github.io](https://sampruden.github.io)
+ - date published: 2023-10-25T19:52:05.808364+00:00
+ - user: None
+ - tags: []
+
+## sam.bigos
+ - [https://samuelbigos.github.io](https://samuelbigos.github.io)
+ - date published: 2023-10-25T19:52:07.178304+00:00
+ - user: None
+ - tags: []
+
+## https://sancarn.github.io
+ - [https://sancarn.github.io](https://sancarn.github.io)
+ - date published: 2023-11-15T02:22:26.981632+00:00
+ - user: None
+ - tags: []
+
+## Site not found · GitHub Pages
+ - [https://satoshi7190.github.io](https://satoshi7190.github.io)
+ - date published: 2023-12-28T11:29:55.944040+00:00
+ - user: None
+ - tags: []
+
+## SHA-1 is a Shambles
+ - [https://sha-mbles.github.io](https://sha-mbles.github.io)
+ - date published: 2023-10-25T19:52:08.723718+00:00
+ - user: None
+ - tags: []
+
+## https://shady-gang.github.io
+ - [https://shady-gang.github.io](https://shady-gang.github.io)
+ - date published: 2024-01-10T07:50:22.563532+00:00
+ - user: None
+ - tags: []
+
+## Shihab Khan
+ - [https://shihab-shahriar.github.io](https://shihab-shahriar.github.io)
+ - date published: 2023-12-19T23:38:02.523519+00:00
+ - user: None
+ - tags: []
+
+## Shishir Patil
+ - [https://shishirpatil.github.io](https://shishirpatil.github.io)
+ - date published: 2023-10-25T08:59:15.329709+00:00
+ - user: None
+ - tags: ['personal']
+
+## Shonumi: Main Page
+ - [https://shonumi.github.io](https://shonumi.github.io)
+ - date published: 2024-01-10T02:27:56.229313+00:00
+ - user: None
+ - tags: []
+
+## Open Source Software Projects - Shopify
+ - [https://shopify.github.io](https://shopify.github.io)
+ - date published: 2023-10-27T12:05:08.814711+00:00
+ - user: None
+ - tags: []
+
+## Shunyuan Zheng (郑顺源)’s Homepage
+ - [https://shunyuanzheng.github.io](https://shunyuanzheng.github.io)
+ - date published: 2023-12-08T22:09:13.139274+00:00
+ - user: None
+ - tags: []
+
+## Work Hard, Span Easy | Parallelizing things is easy, but making them fast is hard. A blog about parallel algorithms, data structures, programming languages, and anything else that comes to mind. Written by Sam Westrick.
+ - [https://shwestrick.github.io](https://shwestrick.github.io)
+ - date published: 2023-10-25T19:54:05.578167+00:00
+ - user: None
+ - tags: []
+
+## https://sillycross.github.io
+ - [https://sillycross.github.io](https://sillycross.github.io)
+ - date published: 2023-10-25T19:54:11.123868+00:00
+ - user: None
+ - tags: []
+
+## SilverhammerMBA's Home
+ - [https://silverhammermba.github.io](https://silverhammermba.github.io)
+ - date published: 2023-10-25T19:54:12.735851+00:00
+ - user: None
+ - tags: []
+
+## Site not found · GitHub Pages
+ - [https://simjanos-dev.github.io](https://simjanos-dev.github.io)
+ - date published: 2024-01-08T15:10:29.412813+00:00
+ - user: None
+ - tags: []
+
+## Hacker News
+ - [https://simonpure.github.io](https://simonpure.github.io)
+ - date published: 2023-10-25T19:54:14.176500+00:00
+ - user: None
+ - tags: []
+
+## Simple Statistics
+ - [https://simple-statistics.github.io](https://simple-statistics.github.io)
+ - date published: 2023-10-25T19:54:14.937648+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Fill and Sign PDF from any website with a single line of code
+ - [https://simplepdf.github.io](https://simplepdf.github.io)
+ - date published: 2023-12-30T16:03:47+00:00
+ - user: None
+ - tags: []
+
+## Sivome
+ - [https://sivome.github.io](https://sivome.github.io)
+ - date published: 2023-11-12T08:19:47.034590+00:00
+ - user: None
+ - tags: []
+
+## Ramblings of a cloud engineer
+ - [https://skarlso.github.io](https://skarlso.github.io)
+ - date published: 2023-10-27T10:24:30.773839+00:00
+ - user: None
+ - tags: []
+
+## Egor S. Skorbenko
+ - [https://skorbenko.github.io](https://skorbenko.github.io)
+ - date published: 2024-01-12T18:46:44.026376+00:00
+ - user: None
+ - tags: []
+
+## smara’s place
+ - [https://smaraf.github.io](https://smaraf.github.io)
+ - date published: 2024-01-03T04:04:49.479544+00:00
+ - user: None
+ - tags: []
+
+## Smerf: Streamable Memory Efficient Radiance Fields
+ - [https://smerf-3d.github.io](https://smerf-3d.github.io)
+ - date published: 2023-12-13T19:03:13+00:00
+ - user: None
+ - tags: []
+
+## Snakemake - A framework for reproducible data analysis
+ - [https://snakemake.github.io](https://snakemake.github.io)
+ - date published: 2023-10-25T19:54:15.726455+00:00
+ - user: None
+ - tags: []
+
+## Everything Racket
+ - [https://soegaard.github.io](https://soegaard.github.io)
+ - date published: 2023-10-25T19:54:22.183680+00:00
+ - user: None
+ - tags: []
+
+## Jascha’s blog | This blog is intended to be a place to share ideas and results that are too weird, incomplete, or off-topic to turn into an academic paper, but that I think may be important. Let me know what you think! Contact links to the left.
+ - [https://sohl-dickstein.github.io](https://sohl-dickstein.github.io)
+ - date published: 2023-10-25T19:54:22.838537+00:00
+ - user: None
+ - tags: []
+
+## https://sollecitom.github.io
+ - [https://sollecitom.github.io](https://sollecitom.github.io)
+ - date published: 2023-10-29T16:02:19.082465+00:00
+ - user: None
+ - tags: []
+
+## Soufflé | Soufflé • A Datalog Synthesis Tool for Static Analysis
+ - [https://souffle-lang.github.io](https://souffle-lang.github.io)
+ - date published: 2023-10-25T19:54:24.056975+00:00
+ - user: None
+ - tags: []
+
+## Speech Research
+ - [https://speechresearch.github.io](https://speechresearch.github.io)
+ - date published: 2023-10-25T19:54:25.616717+00:00
+ - user: None
+ - tags: []
+
+## William Spies
+ - [https://spieswl.github.io](https://spieswl.github.io)
+ - date published: 2023-12-22T22:53:26.101609+00:00
+ - user: None
+ - tags: []
+
+## spite.github.io
+ - [https://spite.github.io](https://spite.github.io)
+ - date published: 2013-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Stephen Schoepfer
+ - [https://sschoepfer.github.io](https://sschoepfer.github.io)
+ - date published: 2023-12-11T23:18:29.673417+00:00
+ - user: None
+ - tags: ['personal']
+
+## Stefan Schüller
+ - [https://sschueller.github.io](https://sschueller.github.io)
+ - date published: 2023-10-25T19:54:28.538345+00:00
+ - user: None
+ - tags: []
+
+## https://stanforddatascience.github.io
+ - [https://stanforddatascience.github.io](https://stanforddatascience.github.io)
+ - date published: 2023-11-12T20:45:27.941454+00:00
+ - user: None
+ - tags: []
+
+## stdnoerr's blog
+ - [https://stdnoerr.github.io](https://stdnoerr.github.io)
+ - date published: 2023-10-25T08:59:16.279940+00:00
+ - user: None
+ - tags: ['personal']
+
+## Prevent Default
+ - [https://sts10.github.io](https://sts10.github.io)
+ - date published: 2023-12-08T08:31:09.671455+00:00
+ - user: None
+ - tags: []
+
+## StyleDrop: Text-to-Image Generation in Any Style
+ - [https://styledrop.github.io](https://styledrop.github.io)
+ - date published: 2023-10-25T19:54:34.980707+00:00
+ - user: None
+ - tags: []
+
+## Hackflow
+ - [https://suor.github.io](https://suor.github.io)
+ - date published: 2023-10-25T19:54:37.097870+00:00
+ - user: None
+ - tags: []
+
+## Stan Szymanowicz
+ - [https://szymanowiczs.github.io](https://szymanowiczs.github.io)
+ - date published: 2023-12-21T14:20:25.804918+00:00
+ - user: None
+ - tags: []
+
+## Xinye Tao
+ - [https://tabokie.github.io](https://tabokie.github.io)
+ - date published: 2024-01-14T17:10:57.682317+00:00
+ - user: None
+ - tags: []
+
+## Josh Berry's Blog
+ - [https://taeric.github.io](https://taeric.github.io)
+ - date published: 2023-10-25T19:54:38.604675+00:00
+ - user: None
+ - tags: []
+
+## System Programming Lab | The next public class is SOLD OUT – November 27-28 and December 4-5 (4 days) via Zoom
+ - [https://tandasat.github.io](https://tandasat.github.io)
+ - date published: 2023-10-25T19:54:40.015158+00:00
+ - user: None
+ - tags: []
+
+## tangarts
+ - [https://tangarts.github.io](https://tangarts.github.io)
+ - date published: 2024-01-02T03:35:23.837120+00:00
+ - user: None
+ - tags: []
+
+## tangentstorm's github page
+ - [https://tangentstorm.github.io](https://tangentstorm.github.io)
+ - date published: 2023-12-31T13:20:14.669899+00:00
+ - user: None
+ - tags: []
+
+## Text-to-Audio Generation using Instruction Tuned LLM and Latent Diffusion Model
+ - [https://tango-web.github.io](https://tango-web.github.io)
+ - date published: 2023-10-25T19:54:41.441534+00:00
+ - user: None
+ - tags: []
+
 ## TextAnalysisTool.NET
  - [https://textanalysistool.github.io](https://textanalysistool.github.io)
  - date published: 2023-04-25T00:00:00+00:00
@@ -1302,6 +1638,12 @@
  - user: None
  - tags: []
 
+## mayari 🌙✨
+ - [https://www.mayari.io](https://www.mayari.io)
+ - date published: 2024-01-24T08:01:32.640740+00:00
+ - user: None
+ - tags: []
+
 ## https://www.mayerowitz.io
  - [https://www.mayerowitz.io](https://www.mayerowitz.io)
  - date published: 2023-10-26T23:41:55.043352+00:00
@@ -1402,7 +1744,7 @@
  - [https://mph.io](https://mph.io)
  - date published: 2023-12-31T21:21:07.398961+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Today's Top AI and Crypto News | Metaverse Post
  - [https://mpost.io](https://mpost.io)
@@ -2160,9 +2502,21 @@
  - user: None
  - tags: []
 
+## Sebastian Rollén's Blog
+ - [https://rollen.io](https://rollen.io)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Alyssa Rosenzweig
  - [https://rosenzweig.io](https://rosenzweig.io)
  - date published: 2023-10-25T20:05:44.214322+00:00
+ - user: None
+ - tags: []
+
+## Rubén Vara ~ Mi Blog sobre Javascript, Desarrollo Web, y Otras Historias
+ - [https://rubenvara.io](https://rubenvara.io)
+ - date published: 2014-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3009,6 +3363,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - date published: 2023-10-25T20:12:34.784265+00:00
  - user: None
  - tags: []
+
+## A demonstration of the WebAuthn specification
+ - [https://webauthn.io](https://webauthn.io)
+ - date published: 2024-01-24T09:42:50+00:00
+ - user: rumpel
+ - tags: ['passkeys']
 
 ## WebContainers - Dev environments. In your web app. | WebContainers
  - [https://webcontainers.io](https://webcontainers.io)
@@ -4726,6 +5086,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
+## Leading Global Influencer Marketing | Digital Voices | London – New York
+ - [https://amd.chrd.ly](https://amd.chrd.ly)
+ - date published: 2024-01-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Technical.ly - News for technologists and entrepreneurs
  - [https://technical.ly](https://technical.ly)
  - date published: 2023-10-24T20:52:29.169639+00:00
@@ -5638,370 +6004,4 @@ End-to-end typesafe APIs made easy. | tRPC
  - date published: 2023-12-11T16:53:52.586635+00:00
  - user: None
  - tags: []
-
-## Omar Shehata
- - [https://omarshehata.me](https://omarshehata.me)
- - date published: 2023-10-25T08:50:42.172246+00:00
- - user: None
- - tags: ['personal']
-
-## https://nikkeiasiaandroid.onelink.me
- - [https://nikkeiasiaandroid.onelink.me](https://nikkeiasiaandroid.onelink.me)
- - date published: 2023-12-12T09:09:21.839719+00:00
- - user: None
- - tags: []
-
-## https://nikkeiasiaios.onelink.me
- - [https://nikkeiasiaios.onelink.me](https://nikkeiasiaios.onelink.me)
- - date published: 2023-12-12T09:09:36.739956+00:00
- - user: None
- - tags: []
-
-## Derek Mohr: Designer + Developer | Grand Rapids, MI
- - [https://onemohrti.me](https://onemohrti.me)
- - date published: 2023-12-29T19:00:50.504774+00:00
- - user: None
- - tags: ['personal']
-
-## osantana
- - [https://osantana.me](https://osantana.me)
- - date published: 2023-11-29T14:24:45.651088+00:00
- - user: None
- - tags: ['personal']
-
-## paavohtl's blog
- - [https://blog.paavo.me](https://blog.paavo.me)
- - date published: 2023-11-05T18:33:22.286573+00:00
- - user: None
- - tags: []
-
-## Paul Burdick :: Home
- - [https://paulburdick.me](https://paulburdick.me)
- - date published: 2023-11-29T14:20:49.637841+00:00
- - user: None
- - tags: ['personal']
-
-## Eric Pauley
- - [https://pauley.me](https://pauley.me)
- - date published: 2023-10-25T08:50:43.702674+00:00
- - user: None
- - tags: ['personal']
-
-## Paul Osman
- - [https://paulosman.me](https://paulosman.me)
- - date published: 2023-10-25T09:22:37.534273+00:00
- - user: None
- - tags: ['personal']
-
-## Uzyskaj własne łącze PayPal.Me
- - [https://paypal.me](https://paypal.me)
- - date published: 2023-11-19T21:29:39+00:00
- - user: rumpel
- - tags: ['crowdfunding']
-
-## Uzyskaj własne łącze PayPal.Me
- - [https://www.paypal.me](https://www.paypal.me)
- - date published: 2023-12-11T18:30:21.332636+00:00
- - user: None
- - tags: []
-
-## Paul Brown
- - [https://pbrown.me](https://pbrown.me)
- - date published: 2023-10-25T08:59:59.207817+00:00
- - user: None
- - tags: ['personal']
-
-## Pete's Blog
- - [https://petevilter.me](https://petevilter.me)
- - date published: 2023-10-25T08:50:45.050699+00:00
- - user: None
- - tags: ['personal']
-
-## Petter Holme
- - [https://petterhol.me](https://petterhol.me)
- - date published: 2023-10-25T08:50:47.284099+00:00
- - user: None
- - tags: ['personal']
-
-## Phil Booth
- - [https://philbooth.me](https://philbooth.me)
- - date published: 2023-10-25T08:50:48.807135+00:00
- - user: None
- - tags: ['personal']
-
-## ubitux/blog
- - [https://blog.pkh.me](https://blog.pkh.me)
- - date published: 2023-10-25T20:20:45.149687+00:00
- - user: None
- - tags: []
-
-## Pradyun Gedam
- - [https://pradyunsg.me](https://pradyunsg.me)
- - date published: 2023-10-25T09:22:38.359262+00:00
- - user: None
- - tags: ['personal']
-
-## pragdave
- - [https://pragdave.me](https://pragdave.me)
- - date published: 2024-01-05T16:52:06.388175+00:00
- - user: None
- - tags: []
-
-## Preslav Rachev
- - [https://preslav.me](https://preslav.me)
- - date published: 2023-10-25T08:50:50.134536+00:00
- - user: None
- - tags: ['personal']
-
-## Corey Prophitt's Website
- - [https://prophitt.me](https://prophitt.me)
- - date published: 2023-10-25T08:50:51.665289+00:00
- - user: None
- - tags: ['personal']
-
-## Proton — Privacy by default
- - [https://proton.me](https://proton.me)
- - date published: 2023-10-25T08:25:39.070341+00:00
- - user: None
- - tags: ['privacy', 'vpn', 'email server']
-
-## Rauno Freiberg
- - [https://rauno.me](https://rauno.me)
- - date published: 2023-10-25T08:50:53.557307+00:00
- - user: None
- - tags: ['personal']
-
-## Redbrick | The official student newspaper of the University of Birmingham
- - [https://www.redbrick.me](https://www.redbrick.me)
- - date published: 2023-10-25T20:20:51.810256+00:00
- - user: None
- - tags: []
-
-## Raymond Finzel
- - [https://rfinz.me](https://rfinz.me)
- - date published: 2024-01-06T17:07:27.532326+00:00
- - user: None
- - tags: []
-
-## rhondalbowen.me – Rhonda L Bowen
- - [https://rhondalbowen.me](https://rhondalbowen.me)
- - date published: 2023-12-25T22:12:15.217953+00:00
- - user: None
- - tags: ['personal']
-
-## Robb Knight
- - [https://rknight.me](https://rknight.me)
- - date published: 2023-12-10T23:33:02.712924+00:00
- - user: None
- - tags: ['personal']
-
-## https://roastmyresu.me
- - [https://roastmyresu.me](https://roastmyresu.me)
- - date published: 2023-10-25T20:20:52.494687+00:00
- - user: None
- - tags: []
-
-## Rukshan's Blog
- - [https://ruky.me](https://ruky.me)
- - date published: 2023-10-25T08:50:56.032223+00:00
- - user: None
- - tags: ['personal']
-
-## RyotaK's Blog - 技術的な話とか
- - [https://blog.ryotak.me](https://blog.ryotak.me)
- - date published: 2023-10-25T20:20:53.525118+00:00
- - user: None
- - tags: []
-
-## Stefan Saasen
- - [https://stefan.saasen.me](https://stefan.saasen.me)
- - date published: 2023-11-01T08:43:50.249821+00:00
- - user: None
- - tags: []
-
-## Sam Dickie | Product Manager & Maker based in Scotland
- - [https://www.samdickie.me](https://www.samdickie.me)
- - date published: 2023-10-25T20:21:00.260047+00:00
- - user: None
- - tags: []
-
-## samyaksahu.me
- - [https://samyaksahu.me](https://samyaksahu.me)
- - date published: 2023-10-25T20:21:02.710847+00:00
- - user: None
- - tags: []
-
-## HandlR
- - [https://handlr.sapico.me](https://handlr.sapico.me)
- - date published: 2023-10-25T20:21:09.032470+00:00
- - user: None
- - tags: []
-
-## [Michał Sapka's website]
- - [https://michal.sapka.me](https://michal.sapka.me)
- - date published: 2023-10-25T08:50:59.399029+00:00
- - user: None
- - tags: ['personal']
-
-## Nick Scialli - Nick Scialli | Senior Software Engineer
- - [https://nick.scialli.me](https://nick.scialli.me)
- - date published: 2023-12-30T22:41:28.603862+00:00
- - user: None
- - tags: []
-
-## scoop.me - Share it. Translate it. Republish it.
- - [https://scoop.me](https://scoop.me)
- - date published: 2023-10-25T10:39:44.099392+00:00
- - user: None
- - tags: []
-
-## Scott Gould – Author and speaker on Engagement
- - [https://scottgould.me](https://scottgould.me)
- - date published: 2023-11-29T14:20:14.061881+00:00
- - user: None
- - tags: ['personal']
-
-## Home — Scott Gruber
- - [https://scottgruber.me](https://scottgruber.me)
- - date published: 2024-01-14T17:12:43.021513+00:00
- - user: None
- - tags: []
-
-## Scott James
- - [https://scottjames.me](https://scottjames.me)
- - date published: 2023-12-31T13:22:15.376760+00:00
- - user: None
- - tags: []
-
-## Elia Scotto
- - [https://www.scotto.me](https://www.scotto.me)
- - date published: 2024-01-22T03:52:49.284711+00:00
- - user: None
- - tags: []
-
-## Seiya Nuta
- - [https://seiya.me](https://seiya.me)
- - date published: 2023-10-25T08:51:02.101892+00:00
- - user: None
- - tags: ['personal']
-
-## SerCe's blog
- - [https://serce.me](https://serce.me)
- - date published: 2023-10-25T08:51:03.677213+00:00
- - user: None
- - tags: ['personal']
-
-## SerHack – Security Researcher and Writer
- - [https://serhack.me](https://serhack.me)
- - date published: 2023-10-25T08:51:06.357837+00:00
- - user: None
- - tags: ['personal']
-
-## SH1MMER.me
- - [https://sh1mmer.me](https://sh1mmer.me)
- - date published: 2023-10-25T20:21:10.380048+00:00
- - user: None
- - tags: []
-
-## Shalvah's Blog
- - [https://blog.shalvah.me](https://blog.shalvah.me)
- - date published: 2023-10-25T09:00:00.613048+00:00
- - user: None
- - tags: ['personal']
-
-## Shameem Reza
- - [https://shameem.me](https://shameem.me)
- - date published: 2023-11-29T14:41:10.640159+00:00
- - user: None
- - tags: ['personal']
-
-## The Sharat's
- - [https://sharats.me](https://sharats.me)
- - date published: 2023-10-25T09:00:01.772363+00:00
- - user: None
- - tags: ['personal']
-
-## The homepage of Leonid Shevtsov - systems architect, software enthusiast and philosopher. Opinions, tips and case studies
- - [https://leonid.shevtsov.me](https://leonid.shevtsov.me)
- - date published: 2023-10-25T20:21:12.014354+00:00
- - user: None
- - tags: []
-
-## Shyim's Brain
- - [https://shyim.me](https://shyim.me)
- - date published: 2023-10-25T08:37:50.607216+00:00
- - user: None
- - tags: []
-
-## Simon’s Newsletter | Substack
- - [https://simonberens.me](https://simonberens.me)
- - date published: 2023-10-25T10:07:57.433976+00:00
- - user: None
- - tags: ['substack']
-
-## London / Las Palmas-based Software Engineer, Simon Hamp :: simonhamp.me
- - [https://simonhamp.me](https://simonhamp.me)
- - date published: 2023-12-20T19:16:05.164620+00:00
- - user: None
- - tags: ['personal']
-
-## Origin
- - [https://blog.singee.me](https://blog.singee.me)
- - date published: 2024-01-09T19:19:38.636523+00:00
- - user: None
- - tags: []
-
-## The online home of Stephen Lewis. No, not that one.
- - [https://www.stephenlewis.me](https://www.stephenlewis.me)
- - date published: 2023-10-25T20:21:14.210743+00:00
- - user: None
- - tags: []
-
-## Site of Steven Irby
- - [https://www.stevenirby.me](https://www.stevenirby.me)
- - date published: 2023-12-27T01:09:33.342262+00:00
- - user: None
- - tags: ['personal']
-
-## (no title)
- - [https://www.stfr.me](https://www.stfr.me)
- - date published: 2024-01-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Sufyaan's Website
- - [https://sufyaan.me](https://sufyaan.me)
- - date published: 2023-12-30T16:45:55.353422+00:00
- - user: None
- - tags: []
-
-## Telegram Messenger
- - [https://t.me](https://t.me)
- - date published: 2023-10-25T20:21:15.924156+00:00
- - user: None
- - tags: []
-
-## Takuya Kitazawa
- - [https://takuti.me](https://takuti.me)
- - date published: 2024-01-21T13:32:07.414181+00:00
- - user: None
- - tags: []
-
-## Hi, I’m Taylor Pearson -
- - [https://taylorpearson.me](https://taylorpearson.me)
- - date published: 2023-11-17T07:29:25.425464+00:00
- - user: None
- - tags: ['personal']
-
-## TheFrenchGhosty's Blog
- - [https://blog.thefrenchghosty.me](https://blog.thefrenchghosty.me)
- - date published: 2023-10-25T09:22:39.074426+00:00
- - user: None
- - tags: ['personal']
-
-## The Sloth Blog
- - [https://thesloth.me](https://thesloth.me)
- - date published: 2023-10-25T09:22:40.122984+00:00
- - user: None
- - tags: ['personal']
 
