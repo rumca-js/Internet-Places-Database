@@ -1,3 +1,219 @@
+## Modern Web Development with Chrome
+ - [https://paul.kinlan.me](https://paul.kinlan.me)
+ - date published: 2023-10-25T20:20:27.860589+00:00
+ - user: None
+ - tags: []
+
+## Klafyvel's personal page
+ - [https://klafyvel.me](https://klafyvel.me)
+ - date published: 2023-10-25T08:50:35.431083+00:00
+ - user: None
+ - tags: ['personal']
+
+## About
+ - [https://laplab.me](https://laplab.me)
+ - date published: 2023-10-25T08:50:36.037865+00:00
+ - user: None
+ - tags: ['personal']
+
+## Daniel Lemire's blog
+ - [https://lemire.me](https://lemire.me)
+ - date published: 2023-10-25T08:57:12.664570+00:00
+ - user: None
+ - tags: ['personal']
+
+## Blog
+ - [https://blog.liallen.me](https://blog.liallen.me)
+ - date published: 2024-01-14T08:12:58.144221+00:00
+ - user: None
+ - tags: []
+
+## 静水铭室 Silent Water and Curved Mountain
+ - [https://liuliu.me](https://liuliu.me)
+ - date published: 2023-10-25T20:20:32.015989+00:00
+ - user: None
+ - tags: []
+
+## I'm Alex MacArthur
+ - [https://www.macarthur.me](https://www.macarthur.me)
+ - date published: 2023-10-25T08:50:37.022613+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://macoy.me](https://macoy.me)
+ - date published: 2023-10-25T20:20:33.858057+00:00
+ - user: None
+ - tags: []
+
+## Manoj Ranaweera – The man who built Manchester's Tech Startup Ecosystem
+ - [https://manojranaweera.me](https://manojranaweera.me)
+ - date published: 2024-01-07T22:19:45.375154+00:00
+ - user: None
+ - tags: []
+
+## MaskRay
+ - [https://maskray.me](https://maskray.me)
+ - date published: 2023-10-25T08:59:54.363115+00:00
+ - user: None
+ - tags: ['personal']
+
+## Matthieu's blog
+ - [https://blog.matthieud.me](https://blog.matthieud.me)
+ - date published: 2023-10-25T08:59:55.198007+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://mattyv.me
+ - [https://mattyv.me](https://mattyv.me)
+ - date published: 2024-01-01T17:22:42.346756+00:00
+ - user: None
+ - tags: []
+
+## Mes productions de podcast et participations - maune.me
+ - [http://www.maune.me](http://www.maune.me)
+ - date published: 2023-12-22T22:30:51.890778+00:00
+ - user: None
+ - tags: ['personal']
+
+## Max Greenwald
+ - [https://maxgreenwald.me](https://maxgreenwald.me)
+ - date published: 2023-10-25T08:50:38.396994+00:00
+ - user: None
+ - tags: ['personal']
+
+## ABOUT ME  | Peter A McDowell
+ - [https://www.mcdoogle.me](https://www.mcdoogle.me)
+ - date published: 2024-01-10T22:41:29.774768+00:00
+ - user: None
+ - tags: []
+
+## https://mgregory22.me
+ - [https://mgregory22.me](https://mgregory22.me)
+ - date published: 2023-10-27T12:05:23.328151+00:00
+ - user: None
+ - tags: []
+
+## Mihai Olteanu
+ - [https://mihaiolteanu.me](https://mihaiolteanu.me)
+ - date published: 2023-10-25T20:20:34.685721+00:00
+ - user: None
+ - tags: []
+
+## milen.me — About
+ - [https://milen.me](https://milen.me)
+ - date published: 2023-10-25T20:20:35.555910+00:00
+ - user: None
+ - tags: []
+
+## Matt's Headroom
+ - [https://blog.millerti.me](https://blog.millerti.me)
+ - date published: 2023-10-25T08:59:55.745324+00:00
+ - user: None
+ - tags: ['personal']
+
+## Misframe - Home
+ - [https://misfra.me](https://misfra.me)
+ - date published: 2023-10-25T20:20:39.309810+00:00
+ - user: None
+ - tags: []
+
+## Yury Molodtsov
+ - [https://molodtsov.me](https://molodtsov.me)
+ - date published: 2023-10-25T09:22:27.300795+00:00
+ - user: None
+ - tags: ['personal']
+
+## Monica Giambitto
+ - [https://monicag.me](https://monicag.me)
+ - date published: 2023-11-29T15:51:06.075857+00:00
+ - user: None
+ - tags: ['personal']
+
+## Riccardo Mori | Writer & Translator
+ - [https://morrick.me](https://morrick.me)
+ - date published: 2023-10-25T20:20:42.075379+00:00
+ - user: None
+ - tags: []
+
+## { mrsk mE }
+ - [https://vez.mrsk.me](https://vez.mrsk.me)
+ - date published: 2023-10-25T20:20:42.804549+00:00
+ - user: None
+ - tags: []
+
+## Muhammad | Personal Blog where I write about things I learn or discover.
+ - [https://muhammadraza.me](https://muhammadraza.me)
+ - date published: 2023-10-25T20:20:43.774048+00:00
+ - user: None
+ - tags: []
+
+## মুরাদুল ইসলাম
+ - [https://muradulislam.me](https://muradulislam.me)
+ - date published: 2023-11-29T14:18:24.389418+00:00
+ - user: None
+ - tags: ['personal']
+
+## a blog by biggiemac42
+ - [https://btm.qva.mybluehost.me](https://btm.qva.mybluehost.me)
+ - date published: 2023-10-25T09:22:31.896364+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://wkk.usa.mybluehost.me
+ - [https://wkk.usa.mybluehost.me](https://wkk.usa.mybluehost.me)
+ - date published: 2024-01-09T03:34:17.212869+00:00
+ - user: None
+ - tags: []
+
+## Nate's Notes
+ - [https://natedunn.me](https://natedunn.me)
+ - date published: 2023-11-29T17:13:27.372479+00:00
+ - user: None
+ - tags: ['personal']
+
+## Navendu Pottekkat
+ - [https://navendu.me](https://navendu.me)
+ - date published: 2023-10-25T08:59:57.701859+00:00
+ - user: None
+ - tags: ['personal']
+
+## It's Nicky Case!
+ - [https://ncase.me](https://ncase.me)
+ - date published: 2023-10-25T08:50:40.025023+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nick Gerakines
+ - [https://ngerakines.me](https://ngerakines.me)
+ - date published: 2023-12-23T19:28:08.759580+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nick's Blog – Projects in Math, Science and Programming
+ - [https://nickmcd.me](https://nickmcd.me)
+ - date published: 2023-12-30T15:38:19.710290+00:00
+ - user: None
+ - tags: []
+
+## njump - the nostr static gateway
+ - [https://njump.me](https://njump.me)
+ - date published: 2023-12-21T11:05:09.550900+00:00
+ - user: None
+ - tags: []
+
+## Nova Skin - Minecraft Skin Editor
+ - [https://minecraft.novaskin.me](https://minecraft.novaskin.me)
+ - date published: 2023-10-30T15:19:59.219664+00:00
+ - user: None
+ - tags: []
+
+## Open Graph protocol
+ - [https://ogp.me](https://ogp.me)
+ - date published: 2023-12-11T16:53:52.586635+00:00
+ - user: None
+ - tags: []
+
 ## Omar Shehata
  - [https://omarshehata.me](https://omarshehata.me)
  - date published: 2023-10-25T08:50:42.172246+00:00
@@ -331,6 +547,12 @@
 ## Sufyaan's Website
  - [https://sufyaan.me](https://sufyaan.me)
  - date published: 2023-12-30T16:45:55.353422+00:00
+ - user: None
+ - tags: []
+
+## HedgeDoc - Ideas grow better together
+ - [https://docs.sweeting.me](https://docs.sweeting.me)
+ - date published: 2024-01-25T11:13:50.462676+00:00
  - user: None
  - tags: []
 
@@ -1946,7 +2168,7 @@
  - [https://www.bungie.net](https://www.bungie.net)
  - date published: 2023-11-01T07:14:14.674870+00:00
  - user: None
- - tags: ['game studio']
+ - tags: ['video game developer']
 
 ## bunny.net - The Content Delivery platform that truly Hops!
  - [https://bunny.net](https://bunny.net)
@@ -2397,6 +2619,12 @@
  - date published: 2023-12-22T22:30:08.197155+00:00
  - user: None
  - tags: ['personal']
+
+## Dragon Ball Nao im. Akiry Toriyamy - polski serwis o DB, Z, GT, Kai, Super
+ - [https://dbnao.net](https://dbnao.net)
+ - date published: 2024-01-25T17:54:51+00:00
+ - user: rumpel
+ - tags: []
 
 ## dcreager.net
  - [https://dcreager.net](https://dcreager.net)
@@ -4552,7 +4780,7 @@
  - [https://www.obsidian.net](https://www.obsidian.net)
  - date published: 2023-11-01T09:06:55.954899+00:00
  - user: None
- - tags: ['game studio', 'company', 'fallout']
+ - tags: ['video game developer', 'company', 'fallout']
 
 ## Ohio Marijuana Network - Cannabis News and Product Reviews
  - [https://ohmj.net](https://ohmj.net)
@@ -4600,7 +4828,7 @@
  - [https://www.openra.net](https://www.openra.net)
  - date published: 2023-10-25T20:35:15.188173+00:00
  - user: None
- - tags: ['open source']
+ - tags: ['video game', 'open source']
 
 ## Venues | OpenReview
  - [https://openreview.net](https://openreview.net)
@@ -5214,6 +5442,12 @@
  - user: None
  - tags: ['substack']
 
+## Writing | Ryan Glover
+ - [https://www.ryanglover.net](https://www.ryanglover.net)
+ - date published: 2021-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Said van de Klundert - Words on things
  - [https://saidvandeklundert.net](https://saidvandeklundert.net)
  - date published: 2023-10-25T20:36:43.888896+00:00
@@ -5763,240 +5997,6 @@
 ## systemreboot – blog
  - [https://www.systemreboot.net](https://www.systemreboot.net)
  - date published: 2023-10-25T20:38:22.531078+00:00
- - user: None
- - tags: []
-
-## https://tycho.sytes.net
- - [https://tycho.sytes.net](https://tycho.sytes.net)
- - date published: 2024-01-09T03:36:54.533078+00:00
- - user: None
- - tags: []
-
-## Tails - Home
- - [https://tails.net](https://tails.net)
- - date published: 2023-10-25T08:32:02.990545+00:00
- - user: None
- - tags: []
-
-## GNU Taler
- - [https://taler.net](https://taler.net)
- - date published: 2023-10-25T20:38:23.963189+00:00
- - user: None
- - tags: []
-
-## Home | Tampermonkey
- - [https://www.tampermonkey.net](https://www.tampermonkey.net)
- - date published: 2023-12-05T17:26:58.213684+00:00
- - user: None
- - tags: []
-
-## Taoism.net
- - [https://taoism.net](https://taoism.net)
- - date published: 2024-01-09T03:36:55.848430+00:00
- - user: None
- - tags: []
-
-## The Cutting Room Floor
- - [https://tcrf.net](https://tcrf.net)
- - date published: 2023-10-25T11:18:10.805196+00:00
- - user: None
- - tags: []
-
-## Hi there! :: Thomas Pain
- - [https://www.tdpain.net](https://www.tdpain.net)
- - date published: 2023-10-25T08:54:09.435702+00:00
- - user: None
- - tags: ['personal']
-
-## We create unforgettable experiences
- - [https://techland.net](https://techland.net)
- - date published: 2023-10-30T18:26:25.030539+00:00
- - user: None
- - tags: ['company', 'game studio']
-
-## TechRaptor - Gaming News and Reviews
- - [https://techraptor.net](https://techraptor.net)
- - date published: 2023-10-25T10:50:24.885098+00:00
- - user: None
- - tags: []
-
-## Techworm - The Tech Hub
- - [https://www.techworm.net](https://www.techworm.net)
- - date published: 2023-10-25T20:38:30.945323+00:00
- - user: None
- - tags: []
-
-## teleSUR English
- - [https://www.telesurenglish.net](https://www.telesurenglish.net)
- - date published: 2023-12-17T00:55:01.088525+00:00
- - user: None
- - tags: []
-
-## The web, design, and accessibility
- - [https://www.tempertemper.net](https://www.tempertemper.net)
- - date published: 2024-01-05T21:36:23.273816+00:00
- - user: None
- - tags: []
-
-## thebandys.net
- - [https://thebandys.net](https://thebandys.net)
- - date published: 2024-01-02T18:29:48.879505+00:00
- - user: None
- - tags: []
-
-## Batman Comic Reviews, Movies, Video Games, Merch & More | The Batman Universe
- - [https://thebatmanuniverse.net](https://thebatmanuniverse.net)
- - date published: 2023-11-27T12:53:37+00:00
- - user: rumpel
- - tags: []
-
-## Home - Believer Magazine
- - [https://www.thebeliever.net](https://www.thebeliever.net)
- - date published: 2023-10-25T20:38:35.687502+00:00
- - user: None
- - tags: []
-
-## Eli Bendersky's website
- - [https://eli.thegreenplace.net](https://eli.thegreenplace.net)
- - date published: 2023-10-25T20:38:36.946214+00:00
- - user: None
- - tags: []
-
-## The Knife are 20 in 2020
- - [https://theknife.net](https://theknife.net)
- - date published: 2023-11-13T10:43:46.417240+00:00
- - user: None
- - tags: ['music band']
-
-## The Life Engine
- - [https://thelifeengine.net](https://thelifeengine.net)
- - date published: 2023-10-25T20:38:37.474424+00:00
- - user: None
- - tags: []
-
-## The Observational
- - [https://www.theobservational.net](https://www.theobservational.net)
- - date published: 2023-11-29T14:41:29.451267+00:00
- - user: None
- - tags: ['personal']
-
-## Lord of the Rings on Prime News and Info - The One Ring .net
- - [https://theonering.net](https://theonering.net)
- - date published: 2023-10-25T13:57:49.200628+00:00
- - user: None
- - tags: ['tolkien']
-
-## Lord of the Rings on Prime News and Info - The One Ring .net
- - [https://www.theonering.net](https://www.theonering.net)
- - date published: 2024-01-23T09:35:10+00:00
- - user: rumpel
- - tags: ['tolkien', 'lord of the rings']
-
-## The Path Not Taken | Thomas Prosser | Substack
- - [https://www.thepathnottaken.net](https://www.thepathnottaken.net)
- - date published: 2023-11-14T11:53:38.062486+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://thepenmuse.net](https://thepenmuse.net)
- - date published: 2024-01-22T00:00:00+00:00
- - user: rumpel
- - tags: ['book reviews']
-
-## The Rumpus.net
- - [https://therumpus.net](https://therumpus.net)
- - date published: 2023-10-25T20:38:43.833561+00:00
- - user: None
- - tags: []
-
-## &> /dev/null
- - [https://www.thirtythreeforty.net](https://www.thirtythreeforty.net)
- - date published: 2023-10-25T20:38:44.287752+00:00
- - user: None
- - tags: []
-
-## This is important
- - [https://thisisimportant.net](https://thisisimportant.net)
- - date published: 2024-01-01T21:50:14.658453+00:00
- - user: None
- - tags: ['personal']
-
-## Threads
- - [https://www.threads.net](https://www.threads.net)
- - date published: 2023-10-25T20:38:45.571181+00:00
- - user: None
- - tags: ['social platform']
-
-## The Thunderbird Blog -
- - [https://blog.thunderbird.net](https://blog.thunderbird.net)
- - date published: 2023-10-25T20:38:52.705273+00:00
- - user: None
- - tags: []
-
-## Thunderbird — Free Your Inbox.
- - [https://www.thunderbird.net](https://www.thunderbird.net)
- - date published: 2023-10-25T08:36:29.384393+00:00
- - user: None
- - tags: ['email client', 'rss reader']
-
-## TI-99/4A Game Shelf
- - [https://tigameshelf.net](https://tigameshelf.net)
- - date published: 2023-10-25T20:38:54.509707+00:00
- - user: None
- - tags: []
-
-## Tildes
- - [https://tildes.net](https://tildes.net)
- - date published: 2024-01-12T19:27:22.052529+00:00
- - user: None
- - tags: []
-
-## Home - Tim Corpus
- - [https://timcorpus.net](https://timcorpus.net)
- - date published: 2023-11-29T14:18:36.924591+00:00
- - user: None
- - tags: ['personal']
-
-## timschumi’s low-traffic blog
- - [https://blog.timschumi.net](https://blog.timschumi.net)
- - date published: 2024-01-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tiny Awards
- - [https://tinyawards.net](https://tinyawards.net)
- - date published: 2023-10-25T20:39:01.634307+00:00
- - user: None
- - tags: []
-
-## tinyBots.net
- - [https://tinybots.net](https://tinybots.net)
- - date published: 2023-12-17T22:23:15.235947+00:00
- - user: None
- - tags: []
-
-## home page
- - [https://www.tinyportal.net](https://www.tinyportal.net)
- - date published: 2023-12-11T19:30:51.915528+00:00
- - user: None
- - tags: []
-
-## Tyblog | Home
- - [https://blog.tjll.net](https://blog.tjll.net)
- - date published: 2023-10-25T20:39:03.958904+00:00
- - user: None
- - tags: []
-
-## Tolkien Gateway
- - [https://tolkiengateway.net](https://tolkiengateway.net)
- - date published: 2023-10-25T13:59:33.225336+00:00
- - user: None
- - tags: []
-
-## Tomas Petricek - New ways of thinking about programming
- - [https://tomasp.net](https://tomasp.net)
- - date published: 2023-10-25T20:39:10.376942+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,75 @@
+## Google
+ - [https://search.google.com](https://search.google.com)
+ - date published: 2023-12-06T08:08:53+00:00
+ - user: rumpel
+ - tags: ['search engine', 'google']
+
+## Google Sites: Sign-in
+ - [https://sites.google.com](https://sites.google.com)
+ - date published: 2023-10-25T11:31:20.231134+00:00
+ - user: None
+ - tags: []
+
+## Stadia
+ - [https://stadia.google.com](https://stadia.google.com)
+ - date published: 2023-10-25T11:31:25.844268+00:00
+ - user: None
+ - tags: ['abandonware']
+
+## Google Cloud Service Health
+ - [https://status.cloud.google.com](https://status.cloud.google.com)
+ - date published: 2023-10-25T11:31:27.950150+00:00
+ - user: None
+ - tags: []
+
+## Google Help
+ - [https://support.google.com](https://support.google.com)
+ - date published: 2023-10-25T11:31:32.624882+00:00
+ - user: None
+ - tags: []
+
+## Google Chrome - The Fast & Secure Web Browser Built to be Yours
+ - [https://tools.google.com](https://tools.google.com)
+ - date published: 2023-10-25T11:30:29.194219+00:00
+ - user: None
+ - tags: []
+
+## Google Translate
+ - [https://translate.google.com](https://translate.google.com)
+ - date published: 2023-10-25T09:27:58+00:00
+ - user: rumpel
+ - tags: ['dictionary', 'translate']
+
+## Google Transparency Report
+ - [https://transparencyreport.google.com](https://transparencyreport.google.com)
+ - date published: 2023-10-25T11:31:33.783605+00:00
+ - user: None
+ - tags: []
+
+## Aplikacje biznesowe i narzędzia do współpracy | Google Workspace
+ - [https://workspace.google.com](https://workspace.google.com)
+ - date published: 2023-10-25T11:31:36.960984+00:00
+ - user: None
+ - tags: []
+
+## Google
+ - [https://www.google.com](https://www.google.com)
+ - date published: 2023-10-25T08:28:06.744876+00:00
+ - user: None
+ - tags: ['search engine', 'gatekeeper']
+
+## Google flights
+ - [https://www.google.com/travel/flights](https://www.google.com/travel/flights)
+ - date published: 2024-01-02T07:35:30+00:00
+ - user: rumpel
+ - tags: []
+
+## Hosted Libraries  |  Google for Developers
+ - [https://ajax.googleapis.com](https://ajax.googleapis.com)
+ - date published: 2023-12-11T16:52:24.286615+00:00
+ - user: None
+ - tags: []
+
 ## Error 404 (Not Found)!!1
  - [https://fonts.googleapis.com](https://fonts.googleapis.com)
  - date published: 2023-12-11T16:10:31.937427+00:00
@@ -1199,7 +1271,7 @@
  - [https://www.halowaypoint.com](https://www.halowaypoint.com)
  - date published: 2023-10-30T18:28:31.338398+00:00
  - user: None
- - tags: ['company', 'game studio', 'halo']
+ - tags: ['company', 'video game developer', 'halo']
 
 ## How Things Work | Hamilton Nolan | Substack
  - [https://www.hamiltonnolan.com](https://www.hamiltonnolan.com)
@@ -2729,7 +2801,7 @@
  - [https://www.hyperion-entertainment.com](https://www.hyperion-entertainment.com)
  - date published: 2023-10-25T15:15:58.440236+00:00
  - user: None
- - tags: ['news', 'amiga', 'game studio']
+ - tags: ['news', 'amiga', 'video game developer']
 
 ## Hypertalking
  - [https://www.hypertalking.com](https://www.hypertalking.com)
@@ -3001,6 +3073,12 @@
  - user: None
  - tags: []
 
+## Web Server's Default Page
+ - [https://totton.idirect.com](https://totton.idirect.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Why Not Mars (Idle Words)
  - [https://idlewords.com](https://idlewords.com)
  - date published: 2023-10-25T15:17:08.885229+00:00
@@ -3220,6 +3298,12 @@
 ## IMPOSSIBLE ® | Push Your Limits™
  - [https://impossiblehq.com](https://impossiblehq.com)
  - date published: 2023-10-25T15:18:00.099282+00:00
+ - user: None
+ - tags: []
+
+## Improbable Island
+ - [https://www.improbableisland.com](https://www.improbableisland.com)
+ - date published: 2023-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5815,6 +5899,12 @@
  - user: None
  - tags: []
 
+## Your Privacy is our Business
+ - [http://joindeleteme.com](http://joindeleteme.com)
+ - date published: 2022-12-23T16:20:20+00:00
+ - user: None
+ - tags: []
+
 ## Join me for the ride - Thoughts on how we live
  - [https://joinmefortheride.com](https://joinmefortheride.com)
  - date published: 2023-12-08T09:37:46.434802+00:00
@@ -5910,94 +6000,4 @@
  - date published: 2023-12-25T22:13:04.284730+00:00
  - user: None
  - tags: ['personal']
-
-## JonPaulUritis.com
- - [https://jonpauluritis.com](https://jonpauluritis.com)
- - date published: 2023-10-25T15:31:13.129837+00:00
- - user: None
- - tags: []
-
-## Code & Sundry
- - [https://blog.jonstodle.com](https://blog.jonstodle.com)
- - date published: 2023-10-25T15:31:14.644491+00:00
- - user: None
- - tags: []
-
-## jonstokes.com | Jon Stokes | Substack
- - [https://www.jonstokes.com](https://www.jonstokes.com)
- - date published: 2023-10-25T15:31:18.894851+00:00
- - user: None
- - tags: []
-
-## Jorcus – Best Remote Work Forum
- - [https://jorcus.com](https://jorcus.com)
- - date published: 2024-01-09T02:40:50.508257+00:00
- - user: None
- - tags: []
-
-## Home | Jordan Peterson
- - [https://www.jordanbpeterson.com](https://www.jordanbpeterson.com)
- - date published: 2023-10-25T08:46:41.267780+00:00
- - user: None
- - tags: ['personal']
-
-## Jorge Sancho Muñoz
- - [https://jorgesm.com](https://jorgesm.com)
- - date published: 2023-11-17T15:06:23+00:00
- - user: rumpel
- - tags: ['personal']
-
-## Josef Erben's Blog
- - [https://www.joseferben.com](https://www.joseferben.com)
- - date published: 2023-10-25T15:31:22.326088+00:00
- - user: None
- - tags: []
-
-## Jose Munoz | Product Designer
- - [https://www.josemunozmatos.com](https://www.josemunozmatos.com)
- - date published: 2023-12-11T23:18:46.523295+00:00
- - user: None
- - tags: ['personal']
-
-## Joseon
- - [https://www.joseon.com](https://www.joseon.com)
- - date published: 2023-10-26T11:09:14.356479+00:00
- - user: None
- - tags: []
-
-## joseph aleo
- - [https://josephaleo.com](https://josephaleo.com)
- - date published: 2023-12-30T05:22:46.207312+00:00
- - user: None
- - tags: ['personal']
-
-## Joseph A. McCullough – Writer & Games Designer
- - [https://www.josephamccullough.com](https://www.josephamccullough.com)
- - date published: 2023-10-27T07:26:53.904248+00:00
- - user: None
- - tags: ['tabletop games', 'personal', 'frostgrave']
-
-## Joseph Andrew lafond
- - [https://josephandrewlafond.com](https://josephandrewlafond.com)
- - date published: 2023-11-29T14:19:21.939663+00:00
- - user: None
- - tags: ['personal']
-
-## Seph
- - [https://josephg.com](https://josephg.com)
- - date published: 2023-10-25T15:31:24.014626+00:00
- - user: None
- - tags: []
-
-## joseph of iowa
- - [https://blog.josephofiowa.com](https://blog.josephofiowa.com)
- - date published: 2023-11-08T21:31:37.242452+00:00
- - user: None
- - tags: []
-
-## Home | JOSEPH PIDALA
- - [https://www.josephpidala.com](https://www.josephpidala.com)
- - date published: 2024-01-03T01:13:27.460205+00:00
- - user: None
- - tags: []
 

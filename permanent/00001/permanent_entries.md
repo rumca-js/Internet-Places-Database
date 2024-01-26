@@ -1,3 +1,9 @@
+## News - EPFL
+ - [https://actu.epfl.ch](https://actu.epfl.ch)
+ - date published: 2023-10-25T12:13:36.353791+00:00
+ - user: None
+ - tags: []
+
 ## CLIC EPFL | Association des étudiant.e.s Informatique et Systèmes de communication
  - [https://clic.epfl.ch](https://clic.epfl.ch)
  - date published: 2023-10-25T12:13:38.017502+00:00
@@ -776,7 +782,7 @@
  - [https://chriscruz.co](https://chriscruz.co)
  - date published: 2023-12-13T11:23:23.455194+00:00
  - user: None
- - tags: ['personal']
+ - tags: ['personal', 'personal']
 
 ## Chris Proulx
  - [https://chrisproulx.co](https://chrisproulx.co)
@@ -1713,6 +1719,12 @@
  - date published: 2023-12-17T05:07:17.833775+00:00
  - user: None
  - tags: ['personal']
+
+## Avdi Grimm, Code Cleric
+ - [https://avdi.codes](https://avdi.codes)
+ - date published: 2024-01-25T02:57:55.276852+00:00
+ - user: None
+ - tags: []
 
 ## Bas codes
  - [https://bas.codes](https://bas.codes)
@@ -3294,6 +3306,12 @@
  - user: None
  - tags: []
 
+## AgileConnection | Your agile software development resource with content and conversations about agile principles & practices, Scrum, kanban, enterprise agile, DevOps practices, agile leadership
+ - [https://www.agileconnection.com](https://www.agileconnection.com)
+ - date published: 2024-01-25T21:47:35.336110+00:00
+ - user: None
+ - tags: []
+
 ## Agility Robotics
  - [https://agilityrobotics.com](https://agilityrobotics.com)
  - date published: 2023-11-27T15:46:40+00:00
@@ -3671,6 +3689,12 @@
  - date published: 2023-11-18T18:48:50.203800+00:00
  - user: None
  - tags: []
+
+## A La Bapsi
+ - [https://www.alabapsi.com](https://www.alabapsi.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Al Anany | Substack
  - [https://alanany.com](https://alanany.com)
@@ -5975,28 +5999,4 @@
  - date published: 2023-11-29T13:54:15.010258+00:00
  - user: None
  - tags: ['personal']
-
-## Ash's Blog
- - [https://ashvardanian.com](https://ashvardanian.com)
- - date published: 2023-10-25T09:05:07.778656+00:00
- - user: None
- - tags: ['personal']
-
-## Asia Markets | Invest in Asia - Business & Finance News
- - [https://www.asiamarkets.com](https://www.asiamarkets.com)
- - date published: 2023-10-25T11:50:12.562858+00:00
- - user: None
- - tags: []
-
-## The Asianometry Newsletter | Jon Y | Substack
- - [https://www.asianometry.com](https://www.asianometry.com)
- - date published: 2024-01-08T09:49:51.127449+00:00
- - user: None
- - tags: []
-
-## AsiaOne, Asia's Leading News Portal, Get Latest News at AsiaOne
- - [https://www.asiaone.com](https://www.asiaone.com)
- - date published: 2023-10-25T11:00:36.091714+00:00
- - user: None
- - tags: []
 

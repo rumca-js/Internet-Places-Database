@@ -1,3 +1,99 @@
+## Esther Crawford – Medium
+ - [https://esthercrawford.medium.com](https://esthercrawford.medium.com)
+ - date published: 2023-10-25T10:20:04.645101+00:00
+ - user: None
+ - tags: []
+
+## Felipe Pepe – Medium
+ - [https://felipepepe.medium.com](https://felipepepe.medium.com)
+ - date published: 2024-01-09T01:46:29.522794+00:00
+ - user: None
+ - tags: []
+
+## Flipboard – Medium
+ - [https://flipboard.medium.com](https://flipboard.medium.com)
+ - date published: 2023-11-21T21:54:55.251511+00:00
+ - user: None
+ - tags: []
+
+## Robert Barron – Medium
+ - [https://flyingbarron.medium.com](https://flyingbarron.medium.com)
+ - date published: 2023-10-25T10:20:12.651490+00:00
+ - user: None
+ - tags: []
+
+## Francisco Trindade – Medium
+ - [https://franciscomt.medium.com](https://franciscomt.medium.com)
+ - date published: 2023-10-25T10:20:15.354599+00:00
+ - user: None
+ - tags: []
+
+## Fredrick Brennan – Medium
+ - [https://fredrickbrennan.medium.com](https://fredrickbrennan.medium.com)
+ - date published: 2023-10-25T10:20:17.725128+00:00
+ - user: None
+ - tags: []
+
+## fwsGonzo – Medium
+ - [https://fwsgonzo.medium.com](https://fwsgonzo.medium.com)
+ - date published: 2023-10-25T10:20:24.721924+00:00
+ - user: None
+ - tags: []
+
+## Ayush Singh – Medium
+ - [https://g147.medium.com](https://g147.medium.com)
+ - date published: 2023-10-25T10:20:26.675224+00:00
+ - user: None
+ - tags: []
+
+## ＧΛËＬ ＤＵＶΛＬ – Medium
+ - [https://gael-duval.medium.com](https://gael-duval.medium.com)
+ - date published: 2023-10-25T10:20:28.861577+00:00
+ - user: None
+ - tags: []
+
+## Chris Parnin – Medium
+ - [https://gameweld.medium.com](https://gameweld.medium.com)
+ - date published: 2023-10-25T10:20:30.941220+00:00
+ - user: None
+ - tags: []
+
+## Glauber Costa – Medium
+ - [https://glaubercosta-11125.medium.com](https://glaubercosta-11125.medium.com)
+ - date published: 2023-10-25T10:20:33.543522+00:00
+ - user: None
+ - tags: []
+
+## Henry Ward – Medium
+ - [https://henrysward.medium.com](https://henrysward.medium.com)
+ - date published: 2024-01-08T00:57:08.537094+00:00
+ - user: None
+ - tags: []
+
+## Grace Huang – Medium
+ - [https://imgracehuang.medium.com](https://imgracehuang.medium.com)
+ - date published: 2023-10-25T10:20:35.581391+00:00
+ - user: None
+ - tags: []
+
+## Index
+ - [https://index.medium.com](https://index.medium.com)
+ - date published: 2023-10-25T10:20:38.107205+00:00
+ - user: None
+ - tags: []
+
+## Inflect Health – Medium
+ - [https://inflecthealth.medium.com](https://inflecthealth.medium.com)
+ - date published: 2023-10-25T10:20:40.099627+00:00
+ - user: None
+ - tags: []
+
+## Chris Altonji – Medium
+ - [https://introductory.medium.com](https://introductory.medium.com)
+ - date published: 2023-10-25T10:20:42.119853+00:00
+ - user: None
+ - tags: []
+
 ## Jackson Cunningham – Medium
  - [https://jacksoncunningham.medium.com](https://jacksoncunningham.medium.com)
  - date published: 2023-10-25T10:20:43.946689+00:00
@@ -860,7 +956,7 @@
  - [https://www.metro-magazine.com](https://www.metro-magazine.com)
  - date published: 2024-01-24T20:53:30.770936+00:00
  - user: None
- - tags: []
+ - tags: ['bus news', 'rail news']
 
 ## Welcome page
  - [https://www.metzdowd.com](https://www.metzdowd.com)
@@ -1082,7 +1178,7 @@
  - [https://www.microprose.com](https://www.microprose.com)
  - date published: 2023-11-06T10:58:40.981934+00:00
  - user: None
- - tags: ['amiga', 'game studio']
+ - tags: ['amiga', 'video game developer']
 
 ## Micro SaaS HQ
  - [https://microsaashq.com](https://microsaashq.com)
@@ -1424,6 +1520,12 @@
 ## Financial Independence by Investing, Minimalism & Mindfulness | Minafi
  - [https://minafi.com](https://minafi.com)
  - date published: 2023-11-29T14:41:50.950597+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://www.mindfulpolyglot.com](https://www.mindfulpolyglot.com)
+ - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
 
@@ -3015,7 +3117,7 @@
  - [https://www.naughtydog.com](https://www.naughtydog.com)
  - date published: 2023-10-30T18:27:44.301408+00:00
  - user: None
- - tags: ['company', 'game studio']
+ - tags: ['company', 'video game developer']
 
 ## Naval Technology | Naval Defence News & Views Updated Daily
  - [https://www.naval-technology.com](https://www.naval-technology.com)
@@ -4697,7 +4799,7 @@ Answering Machine Greetings!
  - [https://www.npmjs.com](https://www.npmjs.com)
  - date published: 2023-10-25T16:22:41.165614+00:00
  - user: None
- - tags: []
+ - tags: ['javascript']
 
 ## nikic's Blog
  - [https://www.npopov.com](https://www.npopov.com)
@@ -5606,7 +5708,7 @@ Answering Machine Greetings!
  - [https://opencollective.com](https://opencollective.com)
  - date published: 2023-12-11T17:46:06.323429+00:00
  - user: None
- - tags: []
+ - tags: ['fundrising organization']
 
 ## Home | Open Core Ventures
  - [https://opencoreventures.com](https://opencoreventures.com)
@@ -5899,109 +6001,6 @@ Answering Machine Greetings!
 ## OSnews  -  Exploring the Future of Computing
  - [https://www.osnews.com](https://www.osnews.com)
  - date published: 2023-10-25T09:34:29.424722+00:00
- - user: None
- - tags: []
-
-## All Projects
-    - OSSRank
- - [https://ossrank.com](https://ossrank.com)
- - date published: 2023-10-25T16:27:50.745403+00:00
- - user: None
- - tags: []
-
-## Otaku Journalist
- - [https://otakujournalist.com](https://otakujournalist.com)
- - date published: 2024-01-09T02:45:32.729873+00:00
- - user: None
- - tags: []
-
-## Learn How To Play Button Accordion - Lessons in Los Angeles, CA
- - [https://otonolujan.com](https://otonolujan.com)
- - date published: 2023-12-08T09:38:41.735465+00:00
- - user: None
- - tags: ['personal']
-
-## Ottawa Citizen
- - [https://ottawacitizen.com](https://ottawacitizen.com)
- - date published: 2024-01-06T22:28:15.792337+00:00
- - user: None
- - tags: []
-
-## Danny's Blog
- - [https://blog.otterstack.com](https://blog.otterstack.com)
- - date published: 2023-10-25T16:27:51.252333+00:00
- - user: None
- - tags: []
-
-## AI-Powered Automatic PostgreSQL & MySQL Tuning | OtterTune
- - [https://ottertune.com](https://ottertune.com)
- - date published: 2023-10-25T16:27:55.088952+00:00
- - user: None
- - tags: []
-
-## Oxford Academic
- - [https://academic.oup.com](https://academic.oup.com)
- - date published: 2023-10-25T16:27:59.208559+00:00
- - user: None
- - tags: []
-
-## OUPblog | Oxford University Press’s Academic Insights for the World
- - [https://blog.oup.com](https://blog.oup.com)
- - date published: 2023-10-25T16:28:04.688791+00:00
- - user: None
- - tags: []
-
-## Homepage - Oxford University Press
- - [https://global.oup.com](https://global.oup.com)
- - date published: 2023-10-25T16:28:11.875051+00:00
- - user: None
- - tags: []
-
-## Oxford Languages | The Home of Language Data
- - [https://languages.oup.com](https://languages.oup.com)
- - date published: 2023-12-04T15:57:30.501689+00:00
- - user: None
- - tags: []
-
-## OurBigBook.com
- - [https://ourbigbook.com](https://ourbigbook.com)
- - date published: 2023-12-02T02:46:08.135245+00:00
- - user: None
- - tags: []
-
-## OurNows: One page overview of what are you doing these days
- - [https://ournows.com](https://ournows.com)
- - date published: 2024-01-15T02:46:12.918819+00:00
- - user: None
- - tags: []
-
-## 403 Forbidden
- - [https://www.ourstate.com](https://www.ourstate.com)
- - date published: 2024-01-09T02:45:42.246472+00:00
- - user: None
- - tags: []
-
-## World of Pixels
- - [https://ourworldofpixels.com](https://ourworldofpixels.com)
- - date published: 2023-10-25T08:36:48.464142+00:00
- - user: None
- - tags: []
-
-## None
- - [https://widgets.outbrain.com](https://widgets.outbrain.com)
- - date published: 2023-12-11T16:36:52.135525+00:00
- - user: None
- - tags: []
-
-## Outdoor Status
- - [https://outdoorstatus.com](https://outdoorstatus.com)
- - date published: 2023-10-25T16:28:14.906908+00:00
- - user: None
- - tags: []
-
-## Outfunnel - Sales & Marketing Workflow Platform
- - [https://outfunnel.com](https://outfunnel.com)
- - date published: 2023-10-25T16:28:17.037385+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,93 @@
+## JonPaulUritis.com
+ - [https://jonpauluritis.com](https://jonpauluritis.com)
+ - date published: 2023-10-25T15:31:13.129837+00:00
+ - user: None
+ - tags: []
+
+## Code & Sundry
+ - [https://blog.jonstodle.com](https://blog.jonstodle.com)
+ - date published: 2023-10-25T15:31:14.644491+00:00
+ - user: None
+ - tags: []
+
+## jonstokes.com | Jon Stokes | Substack
+ - [https://www.jonstokes.com](https://www.jonstokes.com)
+ - date published: 2023-10-25T15:31:18.894851+00:00
+ - user: None
+ - tags: []
+
+## Jorcus – Best Remote Work Forum
+ - [https://jorcus.com](https://jorcus.com)
+ - date published: 2024-01-09T02:40:50.508257+00:00
+ - user: None
+ - tags: []
+
+## Home | Jordan Peterson
+ - [https://www.jordanbpeterson.com](https://www.jordanbpeterson.com)
+ - date published: 2023-10-25T08:46:41.267780+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jorge Sancho Muñoz
+ - [https://jorgesm.com](https://jorgesm.com)
+ - date published: 2023-11-17T15:06:23+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## Josef Erben's Blog
+ - [https://www.joseferben.com](https://www.joseferben.com)
+ - date published: 2023-10-25T15:31:22.326088+00:00
+ - user: None
+ - tags: []
+
+## Jose Munoz | Product Designer
+ - [https://www.josemunozmatos.com](https://www.josemunozmatos.com)
+ - date published: 2023-12-11T23:18:46.523295+00:00
+ - user: None
+ - tags: ['personal']
+
+## Joseon
+ - [https://www.joseon.com](https://www.joseon.com)
+ - date published: 2023-10-26T11:09:14.356479+00:00
+ - user: None
+ - tags: []
+
+## joseph aleo
+ - [https://josephaleo.com](https://josephaleo.com)
+ - date published: 2023-12-30T05:22:46.207312+00:00
+ - user: None
+ - tags: ['personal']
+
+## Joseph A. McCullough – Writer & Games Designer
+ - [https://www.josephamccullough.com](https://www.josephamccullough.com)
+ - date published: 2023-10-27T07:26:53.904248+00:00
+ - user: None
+ - tags: ['tabletop games', 'personal', 'frostgrave']
+
+## Joseph Andrew lafond
+ - [https://josephandrewlafond.com](https://josephandrewlafond.com)
+ - date published: 2023-11-29T14:19:21.939663+00:00
+ - user: None
+ - tags: ['personal']
+
+## Seph
+ - [https://josephg.com](https://josephg.com)
+ - date published: 2023-10-25T15:31:24.014626+00:00
+ - user: None
+ - tags: []
+
+## joseph of iowa
+ - [https://blog.josephofiowa.com](https://blog.josephofiowa.com)
+ - date published: 2023-11-08T21:31:37.242452+00:00
+ - user: None
+ - tags: []
+
+## Home | JOSEPH PIDALA
+ - [https://www.josephpidala.com](https://www.josephpidala.com)
+ - date published: 2024-01-03T01:13:27.460205+00:00
+ - user: None
+ - tags: []
+
 ## Very Serious | Josh Barro | Substack
  - [https://www.joshbarro.com](https://www.joshbarro.com)
  - date published: 2024-01-06T18:29:26.380590+00:00
@@ -2229,7 +2319,7 @@
  - [https://larian.com](https://larian.com)
  - date published: 2023-11-04T19:14:56.784693+00:00
  - user: None
- - tags: ['baldurs gate', 'game studio', 'dungeons and dragons']
+ - tags: ['baldurs gate', 'video game developer', 'dungeons and dragons']
 
 ## Lariat Data
  - [https://www.lariatdata.com](https://www.lariatdata.com)
@@ -4716,6 +4806,12 @@ diversions.
  - user: None
  - tags: ['personal']
 
+## https://www.marcoreeuwijk.com
+ - [https://www.marcoreeuwijk.com](https://www.marcoreeuwijk.com)
+ - date published: 2024-01-25T03:05:36.342834+00:00
+ - user: None
+ - tags: []
+
 ## marcthorpe.com – the art of
  - [https://marcthorpe.com](https://marcthorpe.com)
  - date published: 2023-11-27T07:06:46.747488+00:00
@@ -5902,102 +5998,6 @@ diversions.
 ## Erik van de Ven – Medium
  - [https://erikvandeven.medium.com](https://erikvandeven.medium.com)
  - date published: 2023-10-25T10:20:02.499859+00:00
- - user: None
- - tags: []
-
-## Esther Crawford – Medium
- - [https://esthercrawford.medium.com](https://esthercrawford.medium.com)
- - date published: 2023-10-25T10:20:04.645101+00:00
- - user: None
- - tags: []
-
-## Felipe Pepe – Medium
- - [https://felipepepe.medium.com](https://felipepepe.medium.com)
- - date published: 2024-01-09T01:46:29.522794+00:00
- - user: None
- - tags: []
-
-## Flipboard – Medium
- - [https://flipboard.medium.com](https://flipboard.medium.com)
- - date published: 2023-11-21T21:54:55.251511+00:00
- - user: None
- - tags: []
-
-## Robert Barron – Medium
- - [https://flyingbarron.medium.com](https://flyingbarron.medium.com)
- - date published: 2023-10-25T10:20:12.651490+00:00
- - user: None
- - tags: []
-
-## Francisco Trindade – Medium
- - [https://franciscomt.medium.com](https://franciscomt.medium.com)
- - date published: 2023-10-25T10:20:15.354599+00:00
- - user: None
- - tags: []
-
-## Fredrick Brennan – Medium
- - [https://fredrickbrennan.medium.com](https://fredrickbrennan.medium.com)
- - date published: 2023-10-25T10:20:17.725128+00:00
- - user: None
- - tags: []
-
-## fwsGonzo – Medium
- - [https://fwsgonzo.medium.com](https://fwsgonzo.medium.com)
- - date published: 2023-10-25T10:20:24.721924+00:00
- - user: None
- - tags: []
-
-## Ayush Singh – Medium
- - [https://g147.medium.com](https://g147.medium.com)
- - date published: 2023-10-25T10:20:26.675224+00:00
- - user: None
- - tags: []
-
-## ＧΛËＬ ＤＵＶΛＬ – Medium
- - [https://gael-duval.medium.com](https://gael-duval.medium.com)
- - date published: 2023-10-25T10:20:28.861577+00:00
- - user: None
- - tags: []
-
-## Chris Parnin – Medium
- - [https://gameweld.medium.com](https://gameweld.medium.com)
- - date published: 2023-10-25T10:20:30.941220+00:00
- - user: None
- - tags: []
-
-## Glauber Costa – Medium
- - [https://glaubercosta-11125.medium.com](https://glaubercosta-11125.medium.com)
- - date published: 2023-10-25T10:20:33.543522+00:00
- - user: None
- - tags: []
-
-## Henry Ward – Medium
- - [https://henrysward.medium.com](https://henrysward.medium.com)
- - date published: 2024-01-08T00:57:08.537094+00:00
- - user: None
- - tags: []
-
-## Grace Huang – Medium
- - [https://imgracehuang.medium.com](https://imgracehuang.medium.com)
- - date published: 2023-10-25T10:20:35.581391+00:00
- - user: None
- - tags: []
-
-## Index
- - [https://index.medium.com](https://index.medium.com)
- - date published: 2023-10-25T10:20:38.107205+00:00
- - user: None
- - tags: []
-
-## Inflect Health – Medium
- - [https://inflecthealth.medium.com](https://inflecthealth.medium.com)
- - date published: 2023-10-25T10:20:40.099627+00:00
- - user: None
- - tags: []
-
-## Chris Altonji – Medium
- - [https://introductory.medium.com](https://introductory.medium.com)
- - date published: 2023-10-25T10:20:42.119853+00:00
  - user: None
  - tags: []
 

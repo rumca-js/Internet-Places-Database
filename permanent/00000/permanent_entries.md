@@ -3160,6 +3160,12 @@
  - user: None
  - tags: []
 
+## UWA Impact : The University of Western Australia
+ - [https://www.news.uwa.edu.au](https://www.news.uwa.edu.au)
+ - date published: 2024-01-25T11:14:20.098611+00:00
+ - user: None
+ - tags: []
+
 ## The University of Western Australia - Seek wisdom with a leading university for employability
  - [https://www.uwa.edu.au](https://www.uwa.edu.au)
  - date published: 2023-10-25T11:57:20.643330+00:00
@@ -5991,12 +5997,6 @@
 ## Home - European Journalism Observatory - EJO
  - [https://en.ejo.ch](https://en.ejo.ch)
  - date published: 2023-10-25T12:13:33.749632+00:00
- - user: None
- - tags: []
-
-## News - EPFL
- - [https://actu.epfl.ch](https://actu.epfl.ch)
- - date published: 2023-10-25T12:13:36.353791+00:00
  - user: None
  - tags: []
 

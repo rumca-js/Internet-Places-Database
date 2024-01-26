@@ -1,3 +1,57 @@
+## ChooseYourBoss : annonce d’emplois des métiers du numérique
+ - [https://www.chooseyourboss.com](https://www.chooseyourboss.com)
+ - date published: 2023-12-18T17:18:12.643424+00:00
+ - user: None
+ - tags: []
+
+## Choosing Therapy | Find a Life-Changing Therapist
+ - [https://www.choosingtherapy.com](https://www.choosingtherapy.com)
+ - date published: 2023-10-25T13:22:20.583825+00:00
+ - user: None
+ - tags: []
+
+## chreke's blog
+ - [https://chreke.com](https://chreke.com)
+ - date published: 2023-10-25T13:22:21.390839+00:00
+ - user: None
+ - tags: []
+
+## Chris Haarburger Blog
+ - [https://chris-haarburger.com](https://chris-haarburger.com)
+ - date published: 2024-01-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Personal Development Coaching | ChrisCarlock.com
+ - [https://www.chriscarlock.com](https://www.chriscarlock.com)
+ - date published: 2024-01-16T03:19:41.058557+00:00
+ - user: None
+ - tags: []
+
+## Splashgrav – Chris Cornell
+ - [https://chriscornell.com](https://chriscornell.com)
+ - date published: 2023-11-13T10:33:39.756055+00:00
+ - user: None
+ - tags: ['music artist', 'music band']
+
+## Less Talk, More Do – Christopher Finke writes about things he has done: software, woodworking, and other creative endeavors.
+ - [https://www.chrisfinke.com](https://www.chrisfinke.com)
+ - date published: 2023-10-25T13:22:23.741521+00:00
+ - user: None
+ - tags: []
+
+## Chris Gagné – Delight people. Create value. Do good.
+ - [https://chrisgagne.com](https://chrisgagne.com)
+ - date published: 2023-10-25T13:22:28.478637+00:00
+ - user: None
+ - tags: []
+
+## Chris Glass
+ - [https://chrisglass.com](https://chrisglass.com)
+ - date published: 2023-12-20T21:31:09.440697+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Measure latency
  - [https://ping.projects.chrisjeakle.com](https://ping.projects.chrisjeakle.com)
  - date published: 2023-10-25T13:22:31.002085+00:00
@@ -2491,7 +2545,7 @@
  - [https://www.crytek.com](https://www.crytek.com)
  - date published: 2023-12-10T12:01:17+00:00
  - user: rumpel
- - tags: ['climb', 'game studio', 'far cry', 'crysis']
+ - tags: ['climb', 'video game developer', 'far cry', 'crysis']
 
 ## Christian Science Monitor - CSMonitor.com
  - [https://www.csmonitor.com](https://www.csmonitor.com)
@@ -3171,6 +3225,12 @@
  - date published: 2023-11-29T14:21:43.266780+00:00
  - user: None
  - tags: ['personal']
+
+## Coaching and Marketing for Evidence-Based Advisors - Dan Solin
+ - [https://danielsolin.com](https://danielsolin.com)
+ - date published: 2023-07-21T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Home | Daniel Southwell
  - [https://www.danielsouthwell.com](https://www.danielsouthwell.com)
@@ -4700,7 +4760,7 @@
  - [https://www.digitaleclipse.com](https://www.digitaleclipse.com)
  - date published: 2023-10-31T12:09:00.016308+00:00
  - user: None
- - tags: ['retro games', 'game studio']
+ - tags: ['retro games', 'video game developer']
 
 ## Digital Information World
  - [https://www.digitalinformationworld.com](https://www.digitalinformationworld.com)
@@ -5489,6 +5549,12 @@
  - user: None
  - tags: []
 
+## Dragon Ball Multiverse - Webcomic
+ - [https://www.dragonball-multiverse.com](https://www.dragonball-multiverse.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
 ## Dragon Lady Today | U-2 Dragon Lady latest news and books by Chris Pocock
  - [https://dragonladytoday.com](https://dragonladytoday.com)
  - date published: 2023-10-25T13:58:17.023100+00:00
@@ -5895,7 +5961,7 @@
  - [https://dvpolymedia.com](https://dvpolymedia.com)
  - date published: 2024-01-12T08:14:24.224060+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## https://p.dw.com
  - [https://p.dw.com](https://p.dw.com)
@@ -5938,70 +6004,4 @@
  - date published: 2023-10-25T14:00:26.538339+00:00
  - user: None
  - tags: []
-
-## Dying Light 2 – Official website
- - [https://dyinglightgame.com](https://dyinglightgame.com)
- - date published: 2023-10-30T18:27:03.121972+00:00
- - user: None
- - tags: ['game']
-
-## Dylan Paulus
- - [https://www.dylanpaulus.com](https://www.dylanpaulus.com)
- - date published: 2023-10-25T14:00:27.457944+00:00
- - user: None
- - tags: []
-
-## Developer Documentation | Dylibso Developer Resources
- - [https://dev.dylibso.com](https://dev.dylibso.com)
- - date published: 2023-10-25T14:00:28.218108+00:00
- - user: None
- - tags: []
-
-## Welcome!
- - [https://dylibso.com](https://dylibso.com)
- - date published: 2023-10-25T14:00:29.744674+00:00
- - user: None
- - tags: []
-
-## My Dyn Account
- - [https://account.dyn.com](https://account.dyn.com)
- - date published: 2023-10-31T10:25:32.543241+00:00
- - user: None
- - tags: ['dns']
-
-## https://www.dynamicdrive.com
- - [https://www.dynamicdrive.com](https://www.dynamicdrive.com)
- - date published: 2024-01-09T02:35:24.416804+00:00
- - user: None
- - tags: []
-
-## dys2p
- - [https://dys2p.com](https://dys2p.com)
- - date published: 2023-10-25T14:00:30.903688+00:00
- - user: None
- - tags: []
-
-## Science & technology experiments | coding, data science, ml, cloud, greentech
- - [https://dzidas.com](https://dzidas.com)
- - date published: 2023-10-25T14:00:31.747355+00:00
- - user: None
- - tags: []
-
-## e-Discovery Team | LAW and TECHNOLOGY – Ralph Losey © 2006-2023
- - [https://e-discoveryteam.com](https://e-discoveryteam.com)
- - date published: 2023-10-25T14:00:41.659209+00:00
- - user: None
- - tags: []
-
-## E-Scribe
- - [https://news.e-scribe.com](https://news.e-scribe.com)
- - date published: 2023-10-25T14:00:47.197415+00:00
- - user: None
- - tags: []
-
-## Electronic Arts Home Page - Official EA Site
- - [https://www.ea.com](https://www.ea.com)
- - date published: 2023-10-25T11:27:58.776792+00:00
- - user: None
- - tags: ['fifa', 'company', 'nfl', 'nhl']
 

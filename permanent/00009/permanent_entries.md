@@ -1,3 +1,111 @@
+## None
+ - [https://www.rotarywoofer.com](https://www.rotarywoofer.com)
+ - date published: 2024-01-09T02:48:20.061558+00:00
+ - user: None
+ - tags: []
+
+## Rotating Sandwiches – that's it
+ - [https://rotatingsandwiches.com](https://rotatingsandwiches.com)
+ - date published: 2023-10-25T16:54:37.119990+00:00
+ - user: None
+ - tags: []
+
+## Rotten Tomatoes: Movies | TV Shows | Movie Trailers | Reviews - Rotten Tomatoes
+ - [https://www.rottentomatoes.com](https://www.rottentomatoes.com)
+ - date published: 2023-10-25T16:43:03.779236+00:00
+ - user: None
+ - tags: ['ranking', 'movies']
+
+## Rough.js: Create graphics with a hand-drawn, sketchy, appearance
+ - [https://roughjs.com](https://roughjs.com)
+ - date published: 2023-12-22T08:06:23+00:00
+ - user: None
+ - tags: []
+
+## ROUGH TYPE | Nicholas Carr's blog
+ - [https://www.roughtype.com](https://www.roughtype.com)
+ - date published: 2023-10-25T16:54:46.815167+00:00
+ - user: None
+ - tags: []
+
+## Routledge - Publisher of Professional & Academic Books
+ - [https://www.routledge.com](https://www.routledge.com)
+ - date published: 2023-10-25T16:54:48.988309+00:00
+ - user: None
+ - tags: []
+
+## Rowan Zellers' Homepage
+ - [https://rowanzellers.com](https://rowanzellers.com)
+ - date published: 2023-10-25T16:54:51.440050+00:00
+ - user: None
+ - tags: []
+
+## Rowena Morais - Helping you build more influence
+ - [https://rowenamorais.com](https://rowenamorais.com)
+ - date published: 2024-01-04T01:14:16.801526+00:00
+ - user: None
+ - tags: []
+
+## Rows
+ - [https://rows.com](https://rows.com)
+ - date published: 2023-10-25T16:54:52.043447+00:00
+ - user: None
+ - tags: []
+
+## Roxine Kee
+ - [https://www.roxinekee.com](https://www.roxinekee.com)
+ - date published: 2023-12-13T06:03:32.244926+00:00
+ - user: None
+ - tags: ['personal']
+
+## | ROXLU
+ - [https://www.roxlu.com](https://www.roxlu.com)
+ - date published: 2023-10-25T16:54:53.567514+00:00
+ - user: None
+ - tags: []
+
+## Royal Blood
+ - [https://www.royalbloodband.com](https://www.royalbloodband.com)
+ - date published: 2023-11-13T09:58:37.856076+00:00
+ - user: None
+ - tags: []
+
+## Royal Mail Shop
+ - [https://shop.royalmail.com](https://shop.royalmail.com)
+ - date published: 2023-10-25T16:54:56.812431+00:00
+ - user: None
+ - tags: []
+
+## Royal Mail | Royal Mail Group Ltd
+ - [https://www.royalmail.com](https://www.royalmail.com)
+ - date published: 2023-10-25T16:55:04.193019+00:00
+ - user: None
+ - tags: []
+
+## - ROYALTY FREE MUSIC
+ - [https://www.royaltyfree-music.com](https://www.royaltyfree-music.com)
+ - date published: 2023-10-25T11:35:25.743817+00:00
+ - user: None
+ - tags: ['asset audio']
+
+## roycifer
+ - [https://roycifer.com](https://roycifer.com)
+ - date published: 2023-12-20T11:45:49.231303+00:00
+ - user: None
+ - tags: ['personal']
+
+## Profound Mysteries
+ - [https://royksopp.com](https://royksopp.com)
+ - date published: 2023-11-13T09:28:05.167168+00:00
+ - user: None
+ - tags: ['music band']
+
+## Roy Tanck
+ - [https://roytanck.com](https://roytanck.com)
+ - date published: 2023-12-29T16:24:36.355595+00:00
+ - user: None
+ - tags: []
+
 ## The Homepage of Ryan P. Flynn
  - [https://rpflynn.com](https://rpflynn.com)
  - date published: 2023-12-17T20:59:36.992817+00:00
@@ -261,6 +369,12 @@
  - date published: 2023-12-11T10:57:12.973341+00:00
  - user: None
  - tags: ['personal']
+
+## The Django SaaS Template | SaaS Hammer
+ - [https://saashammer.com](https://saashammer.com)
+ - date published: 2024-01-25T00:38:35.543603+00:00
+ - user: None
+ - tags: []
 
 ## SaaS Pegasus | The Django SaaS Boilerplate
  - [https://www.saaspegasus.com](https://www.saaspegasus.com)
@@ -5888,120 +6002,6 @@
 ## Erik Torenberg | Substack
  - [https://eriktorenberg.substack.com](https://eriktorenberg.substack.com)
  - date published: 2024-01-09T01:40:08.307454+00:00
- - user: None
- - tags: []
-
-## Atlas of Wonders and Monsters | Étienne Fortier-Dubois | Substack
- - [https://etiennefd.substack.com](https://etiennefd.substack.com)
- - date published: 2023-10-25T09:50:13.292516+00:00
- - user: None
- - tags: ['substack']
-
-## Experimental History | Adam Mastroianni | Substack
- - [https://experimentalhistory.substack.com](https://experimentalhistory.substack.com)
- - date published: 2023-10-25T09:50:23.915520+00:00
- - user: None
- - tags: ['substack']
-
-## Exponentially | Jamie | Substack
- - [https://exponentially.substack.com](https://exponentially.substack.com)
- - date published: 2023-10-25T09:50:29.724540+00:00
- - user: None
- - tags: ['substack']
-
-## Ed Zitron's Where's Your Ed At | Substack
- - [https://ez.substack.com](https://ez.substack.com)
- - date published: 2024-01-09T01:40:10.352159+00:00
- - user: None
- - tags: []
-
-## John’s Substack | Tom Jordell | Substack
- - [https://ezali.substack.com](https://ezali.substack.com)
- - date published: 2023-12-15T11:11:56.718524+00:00
- - user: None
- - tags: []
-
-## Fake Money News | Substack
- - [https://fakemoneynews.substack.com](https://fakemoneynews.substack.com)
- - date published: 2023-10-25T09:50:38.816311+00:00
- - user: None
- - tags: ['substack']
-
-## Fake  Noûs | Michael Huemer | Substack
- - [https://fakenous.substack.com](https://fakenous.substack.com)
- - date published: 2024-01-09T01:40:12.504642+00:00
- - user: None
- - tags: []
-
-## Breaking the News | James Fallows | Substack
- - [https://fallows.substack.com](https://fallows.substack.com)
- - date published: 2023-10-25T11:45:42.200431+00:00
- - user: None
- - tags: ['substack']
-
-## Faster, Please! | James Pethokoukis | Substack
- - [https://fasterplease.substack.com](https://fasterplease.substack.com)
- - date published: 2023-10-25T11:45:50.876655+00:00
- - user: None
- - tags: ['substack']
-
-## The Fat Software Engineer | Substack
- - [https://fatsoftwareengineer.substack.com](https://fatsoftwareengineer.substack.com)
- - date published: 2024-01-09T01:40:14.579959+00:00
- - user: None
- - tags: []
-
-## Sparks in the Wind | François Chollet | Substack
- - [https://fchollet.substack.com](https://fchollet.substack.com)
- - date published: 2024-01-09T01:40:17.620631+00:00
- - user: None
- - tags: []
-
-## The Personable Engineer | Fernando Villalba | Substack
- - [https://fernandovillalba.substack.com](https://fernandovillalba.substack.com)
- - date published: 2023-12-29T02:25:36.002765+00:00
- - user: None
- - tags: []
-
-## Figs in Winter: New Stoicism and beyond | Massimo Pigliucci | Substack
- - [https://figsinwinter.substack.com](https://figsinwinter.substack.com)
- - date published: 2024-01-09T01:40:19.337613+00:00
- - user: None
- - tags: []
-
-## The Forgotten Files | Peter Pappas | Substack
- - [https://forgottenfiles.substack.com](https://forgottenfiles.substack.com)
- - date published: 2023-10-25T11:46:05.435815+00:00
- - user: None
- - tags: ['substack']
-
-## From the Desk | Miles Farnsworth | Substack
- - [https://fromthedesk.substack.com](https://fromthedesk.substack.com)
- - date published: 2024-01-09T01:40:21.393376+00:00
- - user: None
- - tags: []
-
-## Furiously Rotating Shapes | furiousRotator | Substack
- - [https://furiouslyrotatingshapes.substack.com](https://furiouslyrotatingshapes.substack.com)
- - date published: 2024-01-09T01:40:23.966529+00:00
- - user: None
- - tags: []
-
-## Galen’s Corner | Galen Marchetti | Substack
- - [https://galenmarchetti.substack.com](https://galenmarchetti.substack.com)
- - date published: 2023-10-25T11:46:17.171143+00:00
- - user: None
- - tags: ['substack']
-
-## Marcus on AI | Gary Marcus | Substack
- - [https://garymarcus.substack.com](https://garymarcus.substack.com)
- - date published: 2023-12-29T01:35:20.032814+00:00
- - user: None
- - tags: []
-
-## https://generallyintelligent.substack.com
- - [https://generallyintelligent.substack.com](https://generallyintelligent.substack.com)
- - date published: 2023-12-05T17:46:50.096294+00:00
  - user: None
  - tags: []
 

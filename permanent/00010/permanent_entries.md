@@ -1,3 +1,117 @@
+## Atlas of Wonders and Monsters | Étienne Fortier-Dubois | Substack
+ - [https://etiennefd.substack.com](https://etiennefd.substack.com)
+ - date published: 2023-10-25T09:50:13.292516+00:00
+ - user: None
+ - tags: ['substack']
+
+## Experimental History | Adam Mastroianni | Substack
+ - [https://experimentalhistory.substack.com](https://experimentalhistory.substack.com)
+ - date published: 2023-10-25T09:50:23.915520+00:00
+ - user: None
+ - tags: ['substack']
+
+## Exponentially | Jamie | Substack
+ - [https://exponentially.substack.com](https://exponentially.substack.com)
+ - date published: 2023-10-25T09:50:29.724540+00:00
+ - user: None
+ - tags: ['substack']
+
+## Ed Zitron's Where's Your Ed At | Substack
+ - [https://ez.substack.com](https://ez.substack.com)
+ - date published: 2024-01-09T01:40:10.352159+00:00
+ - user: None
+ - tags: []
+
+## John’s Substack | Tom Jordell | Substack
+ - [https://ezali.substack.com](https://ezali.substack.com)
+ - date published: 2023-12-15T11:11:56.718524+00:00
+ - user: None
+ - tags: []
+
+## Fake Money News | Substack
+ - [https://fakemoneynews.substack.com](https://fakemoneynews.substack.com)
+ - date published: 2023-10-25T09:50:38.816311+00:00
+ - user: None
+ - tags: ['substack']
+
+## Fake  Noûs | Michael Huemer | Substack
+ - [https://fakenous.substack.com](https://fakenous.substack.com)
+ - date published: 2024-01-09T01:40:12.504642+00:00
+ - user: None
+ - tags: []
+
+## Breaking the News | James Fallows | Substack
+ - [https://fallows.substack.com](https://fallows.substack.com)
+ - date published: 2023-10-25T11:45:42.200431+00:00
+ - user: None
+ - tags: ['substack']
+
+## Faster, Please! | James Pethokoukis | Substack
+ - [https://fasterplease.substack.com](https://fasterplease.substack.com)
+ - date published: 2023-10-25T11:45:50.876655+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Fat Software Engineer | Substack
+ - [https://fatsoftwareengineer.substack.com](https://fatsoftwareengineer.substack.com)
+ - date published: 2024-01-09T01:40:14.579959+00:00
+ - user: None
+ - tags: []
+
+## Sparks in the Wind | François Chollet | Substack
+ - [https://fchollet.substack.com](https://fchollet.substack.com)
+ - date published: 2024-01-09T01:40:17.620631+00:00
+ - user: None
+ - tags: []
+
+## The Personable Engineer | Fernando Villalba | Substack
+ - [https://fernandovillalba.substack.com](https://fernandovillalba.substack.com)
+ - date published: 2023-12-29T02:25:36.002765+00:00
+ - user: None
+ - tags: []
+
+## Figs in Winter: New Stoicism and beyond | Massimo Pigliucci | Substack
+ - [https://figsinwinter.substack.com](https://figsinwinter.substack.com)
+ - date published: 2024-01-09T01:40:19.337613+00:00
+ - user: None
+ - tags: []
+
+## The Forgotten Files | Peter Pappas | Substack
+ - [https://forgottenfiles.substack.com](https://forgottenfiles.substack.com)
+ - date published: 2023-10-25T11:46:05.435815+00:00
+ - user: None
+ - tags: ['substack']
+
+## From the Desk | Miles Farnsworth | Substack
+ - [https://fromthedesk.substack.com](https://fromthedesk.substack.com)
+ - date published: 2024-01-09T01:40:21.393376+00:00
+ - user: None
+ - tags: []
+
+## Furiously Rotating Shapes | furiousRotator | Substack
+ - [https://furiouslyrotatingshapes.substack.com](https://furiouslyrotatingshapes.substack.com)
+ - date published: 2024-01-09T01:40:23.966529+00:00
+ - user: None
+ - tags: []
+
+## Galen’s Corner | Galen Marchetti | Substack
+ - [https://galenmarchetti.substack.com](https://galenmarchetti.substack.com)
+ - date published: 2023-10-25T11:46:17.171143+00:00
+ - user: None
+ - tags: ['substack']
+
+## Marcus on AI | Gary Marcus | Substack
+ - [https://garymarcus.substack.com](https://garymarcus.substack.com)
+ - date published: 2023-12-29T01:35:20.032814+00:00
+ - user: None
+ - tags: []
+
+## https://generallyintelligent.substack.com
+ - [https://generallyintelligent.substack.com](https://generallyintelligent.substack.com)
+ - date published: 2023-12-05T17:46:50.096294+00:00
+ - user: None
+ - tags: []
+
 ## General Robots | Benjie Holson | Substack
  - [https://generalrobots.substack.com](https://generalrobots.substack.com)
  - date published: 2023-10-25T11:46:22.101723+00:00
@@ -63,6 +177,12 @@
  - date published: 2023-10-25T11:46:50.347636+00:00
  - user: None
  - tags: ['substack']
+
+## https://greglukianoff.substack.com
+ - [https://greglukianoff.substack.com](https://greglukianoff.substack.com)
+ - date published: 2024-01-25T01:47:52.972038+00:00
+ - user: None
+ - tags: []
 
 ## The Prism | Gurwinder | Substack
  - [https://gurwinder.substack.com](https://gurwinder.substack.com)
@@ -2714,7 +2834,7 @@
  - [https://www.team17.com](https://www.team17.com)
  - date published: 2023-11-01T13:30:58.364849+00:00
  - user: None
- - tags: ['retro games', 'amiga', 'company', 'game studio']
+ - tags: ['retro games', 'amiga', 'company', 'video game developer']
 
 ## Blind - The #1 Tech Career Community - Blind
  - [https://www.teamblind.com](https://www.teamblind.com)
@@ -4973,6 +5093,12 @@
  - user: None
  - tags: []
 
+## The Uncomfortable – a collection of deliberately inconvenient objects
+ - [https://www.theuncomfortable.com](https://www.theuncomfortable.com)
+ - date published: 2024-01-25T18:00:43+00:00
+ - user: None
+ - tags: []
+
 ## The Unconventional Route: Travel Extraordinarily
  - [https://theunconventionalroute.com](https://theunconventionalroute.com)
  - date published: 2024-01-18T00:00:00+00:00
@@ -5332,7 +5458,7 @@
  - [https://www.thqnordic.com](https://www.thqnordic.com)
  - date published: 2023-12-08T07:29:59+00:00
  - user: rumpel
- - tags: ['game studio']
+ - tags: ['video game developer']
 
 ## Home – Thread Reader App
  - [https://threadreaderapp.com](https://threadreaderapp.com)
@@ -5858,6 +5984,12 @@
  - user: None
  - tags: []
 
+## The Bounding Box – Blog of Tobias Revell
+ - [https://blog.tobiasrevell.com](https://blog.tobiasrevell.com)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Tobiloba Adejumo
  - [https://tobilobaadejumo.com](https://tobilobaadejumo.com)
  - date published: 2023-12-12T23:23:02.153690+00:00
@@ -5869,136 +6001,4 @@
  - date published: 2023-11-29T19:27:09.018600+00:00
  - user: None
  - tags: ['personal']
-
-## Latest News, Videos & Guest Interviews from the Today Show on NBC | TODAY
- - [https://www.today.com](https://www.today.com)
- - date published: 2023-10-25T10:16:42.705063+00:00
- - user: None
- - tags: []
-
-## Today I Found Out | Learn Interesting Facts Every Day
- - [https://www.todayifoundout.com](https://www.todayifoundout.com)
- - date published: 2023-10-25T17:43:33.027740+00:00
- - user: None
- - tags: []
-
-## Welcome to Today In BC | British Columbia News
- - [https://www.todayinbc.com](https://www.todayinbc.com)
- - date published: 2023-11-18T19:07:55.241515+00:00
- - user: None
- - tags: []
-
-## Latest news in Singapore and around the world – TODAY
- - [https://www.todayonline.com](https://www.todayonline.com)
- - date published: 2023-12-06T06:43:16.215152+00:00
- - user: None
- - tags: []
-
-## Today Purpose
- - [https://todaypurpose.com](https://todaypurpose.com)
- - date published: 2024-01-03T13:11:49.842309+00:00
- - user: None
- - tags: []
-
-## Red Deer News & Red Deer Events - Todayville.com
- - [https://www.todayville.com](https://www.todayville.com)
- - date published: 2023-10-25T17:43:42.189847+00:00
- - user: None
- - tags: []
-
-## Todepond dot com
- - [https://www.todepond.com](https://www.todepond.com)
- - date published: 2023-11-22T13:45:46.497388+00:00
- - user: None
- - tags: []
-
-## ToDesktop - Web app to desktop app in minutes
- - [https://www.todesktop.com](https://www.todesktop.com)
- - date published: 2023-10-25T17:43:43.646887+00:00
- - user: None
- - tags: []
-
-## Software Developer Jobs in Japan | TokyoDev
- - [https://www.tokyodev.com](https://www.tokyodev.com)
- - date published: 2023-10-25T11:33:29.711180+00:00
- - user: None
- - tags: []
-
-## Tokyo Weekender | Japan's No.1 English Lifestyle Magazine
- - [https://www.tokyoweekender.com](https://www.tokyoweekender.com)
- - date published: 2023-10-25T10:41:20.902583+00:00
- - user: None
- - tags: []
-
-## Growthlog by Tomas Laurinavicius
- - [https://tomaslau.com](https://tomaslau.com)
- - date published: 2023-12-21T08:24:25.224521+00:00
- - user: None
- - tags: ['personal']
-
-## Uncharted Territories | Tomas Pueyo | Substack
- - [https://unchartedterritories.tomaspueyo.com](https://unchartedterritories.tomaspueyo.com)
- - date published: 2023-10-25T17:43:46.009449+00:00
- - user: None
- - tags: []
-
-## Blogccasion
- - [https://blog.tomayac.com](https://blog.tomayac.com)
- - date published: 2023-10-25T17:43:47.125385+00:00
- - user: None
- - tags: []
-
-## Tom Critchlow. Move. Think. Create.
- - [https://tomcritchlow.com](https://tomcritchlow.com)
- - date published: 2023-10-25T17:43:48.241244+00:00
- - user: None
- - tags: []
-
-## Home — Tom Dalling
- - [https://www.tomdalling.com](https://www.tomdalling.com)
- - date published: 2023-10-25T17:43:49.689309+00:00
- - user: None
- - tags: []
-
-## Freelance Dubbing Mixer | Work with a trusted pair of ears
- - [https://www.tomedwardssound.com](https://www.tomedwardssound.com)
- - date published: 2023-12-20T05:39:35.050397+00:00
- - user: None
- - tags: ['personal']
-
-## Blog Posts
- - [https://tomerfiliba.com](https://tomerfiliba.com)
- - date published: 2023-10-25T17:43:51.353398+00:00
- - user: None
- - tags: []
-
-## Tom Hazledine
- - [https://tomhazledine.com](https://tomhazledine.com)
- - date published: 2023-12-08T09:33:21.723633+00:00
- - user: None
- - tags: ['personal']
-
-## Tom Hummel
- - [https://tomhummel.com](https://tomhummel.com)
- - date published: 2023-10-25T17:43:53.186060+00:00
- - user: None
- - tags: []
-
-## Tom Libertiny - Multimedia Storyteller
- - [https://tomlibertiny.com](https://tomlibertiny.com)
- - date published: 2024-01-21T04:57:20.506224+00:00
- - user: None
- - tags: []
-
-## Tom McCallum - UK-Based Leadership Coach and Strategic Business Advisor
- - [https://tommccallum.com](https://tommccallum.com)
- - date published: 2024-01-16T23:47:14.373122+00:00
- - user: None
- - tags: []
-
-## 【ママ活DAYS】男性の日々を豊かにする情報をお届け！
- - [https://www.tommydarker.com](https://www.tommydarker.com)
- - date published: 2024-01-16T03:19:06.515711+00:00
- - user: None
- - tags: []
 

@@ -1,3 +1,267 @@
+## Expanded Main Page - OSDev Wiki
+ - [https://wiki.osdev.org](https://wiki.osdev.org)
+ - date published: 2023-12-26T20:32:40.382941+00:00
+ - user: None
+ - tags: []
+
+## Rod's Slide Rules
+ - [https://osgalleries.org](https://osgalleries.org)
+ - date published: 2023-10-25T21:55:08.267829+00:00
+ - user: None
+ - tags: []
+
+## Osmapp – A Universal OpenStreetMap App
+ - [https://osmapp.org](https://osmapp.org)
+ - date published: 2023-12-28T17:05:25+00:00
+ - user: None
+ - tags: []
+
+## OSM Buildings
+ - [https://osmbuildings.org](https://osmbuildings.org)
+ - date published: 2023-12-24T08:15:03+00:00
+ - user: rumpel
+ - tags: ['service maps']
+
+## Open Source Mobile Communications
+ - [https://projects.osmocom.org](https://projects.osmocom.org)
+ - date published: 2023-10-25T21:55:10.623342+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the Open Source Seed Initiative - Open Source Seed Initiative
+ - [https://osseeds.org](https://osseeds.org)
+ - date published: 2023-10-25T21:55:13.834590+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Open-source alternatives to tools You pay for
+ - [https://osssoftware.org](https://osssoftware.org)
+ - date published: 2023-12-09T01:14:37+00:00
+ - user: None
+ - tags: []
+
+## Our World in Data
+ - [https://ourworldindata.org](https://ourworldindata.org)
+ - date published: 2023-10-25T21:55:14.796544+00:00
+ - user: None
+ - tags: ['statistics', 'data']
+
+## Earth Overshoot Day home - #MoveTheDate
+ - [https://www.overshootday.org](https://www.overshootday.org)
+ - date published: 2023-10-25T21:55:21.472858+00:00
+ - user: None
+ - tags: []
+
+## https://overthewire.org
+ - [https://overthewire.org](https://overthewire.org)
+ - date published: 2024-01-09T03:41:57.489375+00:00
+ - user: None
+ - tags: []
+
+## Overture Maps Foundation – Linux Foundation Project
+ - [https://overturemaps.org](https://overturemaps.org)
+ - date published: 2023-10-25T21:55:23.960595+00:00
+ - user: None
+ - tags: []
+
+## OWASP Foundation, the Open Source Foundation for Application Security | OWASP Foundation
+ - [https://owasp.org](https://owasp.org)
+ - date published: 2023-10-25T21:55:25.406620+00:00
+ - user: None
+ - tags: []
+
+## Owl’s Portfolio
+ - [https://www.owlfolio.org](https://www.owlfolio.org)
+ - date published: 2023-10-25T21:55:28.509100+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.oxamyne.org](https://www.oxamyne.org)
+ - date published: 2023-12-11T16:12:55.572072+00:00
+ - user: None
+ - tags: []
+
+## The future is equal | Oxfam International
+ - [https://www.oxfam.org](https://www.oxfam.org)
+ - date published: 2023-10-25T21:55:30.733555+00:00
+ - user: None
+ - tags: []
+
+## Oxford American | Home
+ - [https://main.oxfordamerican.org](https://main.oxfordamerican.org)
+ - date published: 2023-10-25T21:55:33.395856+00:00
+ - user: None
+ - tags: []
+
+## Oxford American | Home
+ - [https://oxfordamerican.org](https://oxfordamerican.org)
+ - date published: 2023-10-25T21:55:35.228196+00:00
+ - user: None
+ - tags: []
+
+## Home | p2panda
+ - [https://p2panda.org](https://p2panda.org)
+ - date published: 2023-10-25T21:55:36.083870+00:00
+ - user: None
+ - tags: []
+
+## Hummus and Magnets
+ - [https://h14s.p5r.org](https://h14s.p5r.org)
+ - date published: 2023-10-25T21:55:43.963463+00:00
+ - user: None
+ - tags: []
+
+## pablotron.org
+ - [https://pablotron.org](https://pablotron.org)
+ - date published: 2023-10-25T21:55:47.144745+00:00
+ - user: None
+ - tags: []
+
+## PackagingCon 2023
+ - [https://packaging-con.org](https://packaging-con.org)
+ - date published: 2023-10-25T21:55:54.179386+00:00
+ - user: None
+ - tags: []
+
+## The Palaeontological Association | Reg. Charity No. 1168330
+ - [https://www.palass.org](https://www.palass.org)
+ - date published: 2023-10-25T11:25:34.390632+00:00
+ - user: None
+ - tags: []
+
+## pamela fox's blog
+ - [https://blog.pamelafox.org](https://blog.pamelafox.org)
+ - date published: 2023-10-25T21:55:58.273502+00:00
+ - user: None
+ - tags: []
+
+## Pandoc - index
+ - [https://pandoc.org](https://pandoc.org)
+ - date published: 2023-10-25T21:55:59.781435+00:00
+ - user: None
+ - tags: []
+
+## Strona główna | Fundacja Panoptykon
+ - [https://panoptykon.org](https://panoptykon.org)
+ - date published: 2023-10-25T21:56:01.636917+00:00
+ - user: None
+ - tags: []
+
+## Papers, Please! – The Identity Project
+ - [https://papersplease.org](https://papersplease.org)
+ - date published: 2023-10-25T21:56:07.417099+00:00
+ - user: None
+ - tags: []
+
+## paredit — parenthetical editing in Emacs
+ - [https://paredit.org](https://paredit.org)
+ - date published: 2023-10-25T21:56:08.422643+00:00
+ - user: None
+ - tags: []
+
+## Welcome!
+ - [https://parentheticallyspeaking.org](https://parentheticallyspeaking.org)
+ - date published: 2023-10-25T21:56:09.143442+00:00
+ - user: None
+ - tags: []
+
+## parsonsmatt.org
+ - [https://www.parsonsmatt.org](https://www.parsonsmatt.org)
+ - date published: 2023-10-25T21:56:09.832668+00:00
+ - user: None
+ - tags: []
+
+## PATL
+ - [https://patl.org](https://patl.org)
+ - date published: 2023-12-11T16:19:08.247036+00:00
+ - user: None
+ - tags: []
+
+## Patrick T. Brown, PhD | It’s easy to construct a persuasive argument, it’s much more difficult to figure out the truth…
+ - [https://patricktbrown.org](https://patricktbrown.org)
+ - date published: 2023-10-25T21:56:15.510577+00:00
+ - user: None
+ - tags: []
+
+## Andrew Payne | payne.org
+ - [https://payne.org](https://payne.org)
+ - date published: 2023-10-25T21:56:16.509535+00:00
+ - user: None
+ - tags: []
+
+## Physically Based Rendering: From Theory to Implementation
+ - [https://pbr-book.org](https://pbr-book.org)
+ - date published: 2023-11-02T10:40:48.951509+00:00
+ - user: None
+ - tags: []
+
+## PBS: Public Broadcasting Service
+ - [https://www.pbs.org](https://www.pbs.org)
+ - date published: 2023-10-25T10:24:08.998645+00:00
+ - user: None
+ - tags: []
+
+## PBS North Carolina
+ - [https://www.pbsnc.org](https://www.pbsnc.org)
+ - date published: 2023-11-19T19:54:33.463328+00:00
+ - user: None
+ - tags: []
+
+## PCG, A Family of Better Random Number Generators | PCG, A Better Random Number Generator
+ - [https://www.pcg-random.org](https://www.pcg-random.org)
+ - date published: 2023-10-25T21:56:20.672047+00:00
+ - user: None
+ - tags: []
+
+## PCjs Machines
+ - [https://www.pcjs.org](https://www.pcjs.org)
+ - date published: 2023-10-25T21:56:26.849904+00:00
+ - user: None
+ - tags: []
+
+## PDF Association – Home of the worldwide PDF technical community
+ - [https://www.pdfa.org](https://www.pdfa.org)
+ - date published: 2023-10-25T21:56:35.310113+00:00
+ - user: None
+ - tags: []
+
+## pdfgrep
+ - [https://pdfgrep.org](https://pdfgrep.org)
+ - date published: 2023-10-25T21:56:36.063095+00:00
+ - user: None
+ - tags: []
+
+## PDFTool: secure and seamless online PDF modifications
+ - [https://www.pdftool.org](https://www.pdftool.org)
+ - date published: 2023-10-25T21:56:37.161684+00:00
+ - user: None
+ - tags: []
+
+## Public Domain Operating System
+ - [https://www.pdos.org](https://www.pdos.org)
+ - date published: 2023-10-25T21:56:39.058423+00:00
+ - user: None
+ - tags: []
+
+## Peergos
+ - [https://peergos.org](https://peergos.org)
+ - date published: 2023-11-13T14:19:22.688197+00:00
+ - user: None
+ - tags: []
+
+## PEN America
+ - [https://pen.org](https://pen.org)
+ - date published: 2023-10-25T21:56:42.955186+00:00
+ - user: None
+ - tags: []
+
+## https://www.pennmedicine.org
+ - [https://www.pennmedicine.org](https://www.pennmedicine.org)
+ - date published: 2023-11-08T17:46:33.639957+00:00
+ - user: None
+ - tags: []
+
 ## People's World
  - [https://peoplesworld.org](https://peoplesworld.org)
  - date published: 2023-11-04T02:47:57.842267+00:00
@@ -602,7 +866,7 @@
  - [http://www.psygnosis.org](http://www.psygnosis.org)
  - date published: 2023-11-06T10:59:24.530295+00:00
  - user: None
- - tags: ['amiga', 'game studio']
+ - tags: ['amiga', 'video game developer']
 
 ## PsyPost - Reporting the latest scientific research on behavior, cognition and society
  - [https://www.psypost.org](https://www.psypost.org)
@@ -1454,7 +1718,7 @@
  - [https://www.schema.org](https://www.schema.org)
  - date published: 2023-12-13T16:05:38.117286+00:00
  - user: None
- - tags: []
+ - tags: ['standards']
 
 ## JSON Schema Store
  - [https://www.schemastore.org](https://www.schemastore.org)
@@ -1699,6 +1963,12 @@
 ## Share and accept documents securely
  - [https://securedrop.org](https://securedrop.org)
  - date published: 2023-10-25T22:07:55.571358+00:00
+ - user: None
+ - tags: []
+
+## The Internet Con | Cory Doctorow's craphound.com
+ - [http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org)
+ - date published: 2024-01-25T00:48:59.722899+00:00
  - user: None
  - tags: []
 
@@ -3853,6 +4123,12 @@
  - user: None
  - tags: []
 
+## Home
+ - [https://wedistribute.org](https://wedistribute.org)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## WeeChat dev news
  - [https://blog.weechat.org](https://blog.weechat.org)
  - date published: 2023-10-25T22:19:47.148361+00:00
@@ -5726,280 +6002,4 @@ is forbidden
  - date published: 2023-11-27T17:47:00.062717+00:00
  - user: None
  - tags: []
-
-## Futurex Gdynia - sklep online
- - [https://futurex.pl](https://futurex.pl)
- - date published: 2023-11-01T19:13:40.420967+00:00
- - user: None
- - tags: ['tabletop games', 'shop', 'wargames']
-
-## Forex Kursy walut Akcje Giełda Waluty Kryptowaluty | FXMAG INWESTOR
- - [https://www.fxmag.pl](https://www.fxmag.pl)
- - date published: 2024-01-09T03:44:13.910462+00:00
- - user: None
- - tags: []
-
-## Poznań Game Arena | 6-8 października 2023 | Tu Bije Serce Gamingu
- - [https://gamearena.pl](https://gamearena.pl)
- - date published: 2023-11-01T08:41:25.764766+00:00
- - user: None
- - tags: []
-
-## Zwiastuny, Livestreamy i Wywiady | Gamereactor Polska
- - [https://www.gamereactor.pl](https://www.gamereactor.pl)
- - date published: 2023-11-17T21:45:33+00:00
- - user: rumpel
- - tags: ['game news']
-
-## Film, seriale, muzyka - Kultura.Gazeta.pl
- - [https://kultura.gazeta.pl](https://kultura.gazeta.pl)
- - date published: 2023-12-04T12:48:18.132743+00:00
- - user: None
- - tags: []
-
-## Next Gazeta.pl - Biznes, Nowe Technologie i Pieniądze
- - [https://next.gazeta.pl](https://next.gazeta.pl)
- - date published: 2023-10-25T10:31:14.489308+00:00
- - user: None
- - tags: []
-
-## Weekend w Gazeta.pl trwa ca³y tydzieñ
- - [https://weekend.gazeta.pl](https://weekend.gazeta.pl)
- - date published: 2023-10-25T22:27:32.339026+00:00
- - user: None
- - tags: []
-
-## Wiadomo¶ci - Gazeta.pl
- - [https://wiadomosci.gazeta.pl](https://wiadomosci.gazeta.pl)
- - date published: 2023-10-25T10:31:23.272215+00:00
- - user: None
- - tags: []
-
-## Zdrowie - choroby - leczenie - porady o zdrowiu - Zdrowy tryb życia | Zdrowie.Gazeta.pl
- - [https://zdrowie.gazeta.pl](https://zdrowie.gazeta.pl)
- - date published: 2023-10-25T10:31:32.035588+00:00
- - user: None
- - tags: []
-
-## Podatki - GazetaPrawna.pl - wiadomości, akcyza, CIT, PIT, VAT
- - [https://podatki.gazetaprawna.pl](https://podatki.gazetaprawna.pl)
- - date published: 2023-10-25T22:27:36.796232+00:00
- - user: None
- - tags: []
-
-## Serwisy Tematyczne- GazetaPrawna.pl
- - [https://serwisy.gazetaprawna.pl](https://serwisy.gazetaprawna.pl)
- - date published: 2023-10-25T22:27:40.688880+00:00
- - user: None
- - tags: []
-
-## GazetaPrawna.pl - biznes, podatki, prawo, finanse, wiadomości, praca
- - [https://www.gazetaprawna.pl](https://www.gazetaprawna.pl)
- - date published: 2023-12-17T16:47:11.471502+00:00
- - user: None
- - tags: []
-
-## GeekWeek w INTERIA.PL – technologie, nauka, lifestyle i podróże
- - [https://www.geekweek.pl](https://www.geekweek.pl)
- - date published: 2023-10-25T22:27:43.375194+00:00
- - user: None
- - tags: []
-
-## Game Exe :: Pillars of Eternity, Skyrim, Wiedźmin 3, Dragon Age: Inkwizycja, Mass Effect 3, cRPG, RPG, Fantasy
- - [https://gexe.pl](https://gexe.pl)
- - date published: 2023-10-27T13:52:06.302322+00:00
- - user: None
- - tags: ['game news']
-
-## GG - Lekki i Niezawodny Komunikator (d. Gadu-Gadu)
- - [https://www.gg.pl](https://www.gg.pl)
- - date published: 2023-10-25T13:22:16.410779+00:00
- - user: None
- - tags: ['social communicator']
-
-## Gry online - zagraj w darmowe gry na Giercownia.pl
- - [https://www.giercownia.pl](https://www.giercownia.pl)
- - date published: 2023-11-13T11:59:22.324826+00:00
- - user: None
- - tags: ['video games']
-
-## GlobEnergia » Serwis poświęcony odnawialnym źródłom energii
- - [https://globenergia.pl](https://globenergia.pl)
- - date published: 2024-01-21T18:35:00+00:00
- - user: rumpel
- - tags: ['energa news']
-
-## Głos Wielkopolski - Wiadomości Poznań, Wiadomości Wielkopolska
- - [https://gloswielkopolski.pl](https://gloswielkopolski.pl)
- - date published: 2023-10-25T22:27:51.505382+00:00
- - user: None
- - tags: []
-
-## Tabletop, Board Games, Figure Games, Card Games and Model Accessories
- - [https://gnom-sklep.pl](https://gnom-sklep.pl)
- - date published: 2023-10-25T11:12:46.998303+00:00
- - user: None
- - tags: []
-
-## Google
- - [https://www.google.pl](https://www.google.pl)
- - date published: 2023-11-01T07:06:35.266786+00:00
- - user: None
- - tags: []
-
-## Gralingrad - opowiadam o grach
- - [https://gralingrad.pl](https://gralingrad.pl)
- - date published: 2023-12-13T15:18:36.943356+00:00
- - user: None
- - tags: ['video games']
-
-## Darmowe gry – graj w gry online na gry.pl
- - [https://www.gry.pl](https://www.gry.pl)
- - date published: 2023-10-25T11:18:46.003977+00:00
- - user: None
- - tags: ['video games']
-
-## Gry planszowe, karciane, na imprezę | Basanti - sklep Poznań
- - [https://gryplanszowe-basanti.pl](https://gryplanszowe-basanti.pl)
- - date published: 2023-11-01T18:54:38.033521+00:00
- - user: None
- - tags: ['card games', 'tabletop games', 'warhammer', 'shop', 'bilard games']
-
-## GTA Mods ZONE
- - [https://www.gta-mods.pl](https://www.gta-mods.pl)
- - date published: 2023-10-30T15:28:57.483148+00:00
- - user: None
- - tags: ['grand theft auto']
-
-## Jakub Gutkowski
- - [https://blog.gutek.pl](https://blog.gutek.pl)
- - date published: 2023-12-11T12:33:46+00:00
- - user: rumpel
- - tags: ['personal']
-
-## Warsaw Hackerspace Social Club
- - [https://social.hackerspace.pl](https://social.hackerspace.pl)
- - date published: 2023-12-05T14:46:52.343608+00:00
- - user: None
- - tags: []
-
-## Przepisy wideo i porady kulinarne - Haps.pl
- - [https://haps.pl](https://haps.pl)
- - date published: 2023-10-25T22:28:03.313446+00:00
- - user: None
- - tags: []
-
-## Najlepsze wpisy - Hejto.pl
- - [https://www.hejto.pl](https://www.hejto.pl)
- - date published: 2023-12-06T14:42:07+00:00
- - user: rumpel
- - tags: ['social platform']
-
-## Księgarnia informatyczna helion.pl
- - [https://helion.pl](https://helion.pl)
- - date published: 2023-12-11T12:31:26+00:00
- - user: rumpel
- - tags: ['shop', 'books']
-
-## Domeny, Hosting, Serwery WWW, Strony, Sklepy internetowe | home.pl
- - [https://home.pl](https://home.pl)
- - date published: 2023-10-25T08:26:47.726693+00:00
- - user: None
- - tags: ['hosting service']
-
-## Hubika.pl
- - [https://hubika.pl](https://hubika.pl)
- - date published: 2023-10-25T11:16:09.280790+00:00
- - user: None
- - tags: ['shop', 'electronics']
-
-## Portal i.pl - nowy portal informacyjny - i wiesz wszystko - wiadomości z Polski i ze Świata
- - [https://i.pl](https://i.pl)
- - date published: 2023-10-25T22:28:09.834838+00:00
- - user: None
- - tags: []
-
-## ~aki
- - [https://ignore.pl](https://ignore.pl)
- - date published: 2023-10-25T22:28:10.577701+00:00
- - user: None
- - tags: []
-
-## Imperium Westwood - Twoje centrum Command & Conquer Polska
- - [https://imperium-ww.pl](https://imperium-ww.pl)
- - date published: 2023-11-17T21:38:45+00:00
- - user: rumpel
- - tags: ['red alert']
-
-## Niezależny Portal Finansowy - Independent Trader.pl
- - [https://independenttrader.pl](https://independenttrader.pl)
- - date published: 2023-10-25T22:28:12.140238+00:00
- - user: None
- - tags: []
-
-## ING Bank Śląski
- - [https://www.ing.pl](https://www.ing.pl)
- - date published: 2023-10-25T11:29:39.102663+00:00
- - user: None
- - tags: []
-
-## InPost dla Ciebie - Paczkomat®, Kurier, Przesyłki Kurierskie i Paczki
- - [https://inpost.pl](https://inpost.pl)
- - date published: 2023-10-25T08:26:12.097725+00:00
- - user: None
- - tags: []
-
-## • Insimilion • gry, książki, fantastyka
- - [https://www.insimilion.pl](https://www.insimilion.pl)
- - date published: 2023-10-27T13:52:27.671881+00:00
- - user: None
- - tags: ['fantasy', 'game news', 'dungeons and dragons', 'role playing games']
-
-## INSTALKI - technologie, sprzęt, recenzje, programy
- - [https://www.instalki.pl](https://www.instalki.pl)
- - date published: 2023-10-25T09:37:54.865975+00:00
- - user: None
- - tags: []
-
-## Biznes w INTERIA.PL
- - [https://biznes.interia.pl](https://biznes.interia.pl)
- - date published: 2023-10-25T10:31:34.569732+00:00
- - user: None
- - tags: []
-
-## GeekWeek w INTERIA.PL – technologie, nauka, lifestyle i podróże
- - [https://geekweek.interia.pl](https://geekweek.interia.pl)
- - date published: 2023-10-25T10:31:36.806211+00:00
- - user: None
- - tags: []
-
-## Motoryzacja w INTERIA.PL - auto moto wiadomości, aktualności, wydarzenia i porady motoryzacyjne
- - [https://motoryzacja.interia.pl](https://motoryzacja.interia.pl)
- - date published: 2023-10-25T10:31:39.366002+00:00
- - user: None
- - tags: []
-
-## Pogoda w INTERIA.PL – długoterminowa (na 25 dni) prognoza pogody dla Polski, Europy i Świata
- - [https://pogoda.interia.pl](https://pogoda.interia.pl)
- - date published: 2023-10-24T20:19:26.422240+00:00
- - user: None
- - tags: []
-
-## Sport w INTERIA.PL - wyniki na żywo i newsy: piłka nożna, skoki, tenis, żużel
- - [https://sport.interia.pl](https://sport.interia.pl)
- - date published: 2023-11-22T18:59:00.087140+00:00
- - user: None
- - tags: []
-
-## WYDARZENIA w INTERIA.PL - najnowsze wiadomości z Polski i świata, polityka, wydarzenia dnia i najważniejsze informacje, zawsze aktualne wiadomości
- - [https://wydarzenia.interia.pl](https://wydarzenia.interia.pl)
- - date published: 2023-10-25T10:31:39.986701+00:00
- - user: None
- - tags: []
-
-## Invisible Black
- - [https://invisibleblack.pl](https://invisibleblack.pl)
- - date published: 2023-12-13T15:12:53.506184+00:00
- - user: None
- - tags: ['shop']
 
