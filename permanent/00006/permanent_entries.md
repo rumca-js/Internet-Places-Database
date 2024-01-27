@@ -1,3 +1,111 @@
+## BookWyrm: Social Reading and Reviewing
+ - [https://joinbookwyrm.com](https://joinbookwyrm.com)
+ - date published: 2023-10-25T15:30:50.406250+00:00
+ - user: None
+ - tags: []
+
+## Your Privacy is our Business
+ - [http://joindeleteme.com](http://joindeleteme.com)
+ - date published: 2022-12-23T16:20:20+00:00
+ - user: None
+ - tags: []
+
+## Join me for the ride - Thoughts on how we live
+ - [https://joinmefortheride.com](https://joinmefortheride.com)
+ - date published: 2023-12-08T09:37:46.434802+00:00
+ - user: None
+ - tags: ['personal']
+
+## Korea JoongAng Daily
+ - [https://koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com)
+ - date published: 2023-10-25T15:31:01.479422+00:00
+ - user: None
+ - tags: []
+
+## JavaScript diagramming library for interactive UIs – JointJS
+ - [https://www.jointjs.com](https://www.jointjs.com)
+ - date published: 2023-10-25T15:31:04.622694+00:00
+ - user: None
+ - tags: []
+
+## AI for Tech Support
+ - [https://www.jointwig.com](https://www.jointwig.com)
+ - date published: 2023-10-25T15:31:05.890192+00:00
+ - user: None
+ - tags: []
+
+## Joltmailer
+ - [https://joltmailer.com](https://joltmailer.com)
+ - date published: 2023-11-10T11:04:46.045640+00:00
+ - user: None
+ - tags: []
+
+## Jonah Aragon
+ - [https://www.jonaharagon.com](https://www.jonaharagon.com)
+ - date published: 2024-01-06T01:04:13.965853+00:00
+ - user: None
+ - tags: []
+
+## jonandnic dot com - suddenly nothing happened
+ - [https://www.jonandnic.com](https://www.jonandnic.com)
+ - date published: 2023-10-25T15:31:08.960393+00:00
+ - user: None
+ - tags: []
+
+## WordPress Membership Developer - Jonathan Martínez
+ - [https://jonathanenlared.com](https://jonathanenlared.com)
+ - date published: 2023-12-14T01:20:13.226016+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jonathan Haslett's Website
+ - [https://jonathanhaslett.com](https://jonathanhaslett.com)
+ - date published: 2024-01-08T07:26:44.689451+00:00
+ - user: None
+ - tags: []
+
+## Jonathan Magnin
+ - [https://jonathanmagnin.com](https://jonathanmagnin.com)
+ - date published: 2024-01-04T01:12:58.973603+00:00
+ - user: None
+ - tags: []
+
+## Jonathan Vieker
+ - [https://jonathanvieker.com](https://jonathanvieker.com)
+ - date published: 2023-12-19T19:07:54.915537+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jonathon Riggert
+ - [https://www.jonathonriggert.com](https://www.jonathonriggert.com)
+ - date published: 2024-01-10T14:29:56.063970+00:00
+ - user: None
+ - tags: []
+
+## Jon Griffin's Site
+ - [https://www.jongriffin.com](https://www.jongriffin.com)
+ - date published: 2023-11-29T15:31:40.430080+00:00
+ - user: None
+ - tags: ['personal']
+
+## jon izquierdo_
+ - [https://jonizquierdo.com](https://jonizquierdo.com)
+ - date published: 2023-12-14T01:26:28.259256+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jon Lajoie
+ - [https://www.jonlajoie.com](https://www.jonlajoie.com)
+ - date published: 2023-11-13T10:41:04.131591+00:00
+ - user: None
+ - tags: ['comedy', 'music artist', 'music band', 'satire']
+
+## jonmircha 🦊
+ - [https://jonmircha.com](https://jonmircha.com)
+ - date published: 2023-12-25T22:13:04.284730+00:00
+ - user: None
+ - tags: ['personal']
+
 ## JonPaulUritis.com
  - [https://jonpauluritis.com](https://jonpauluritis.com)
  - date published: 2023-10-25T15:31:13.129837+00:00
@@ -235,6 +343,12 @@
 ## JPC van Heijst | Aviation - Aerial - Travel Photography | jpcvanheijst.com
  - [https://jpcvanheijst.com](https://jpcvanheijst.com)
  - date published: 2023-10-25T15:32:13.512617+00:00
+ - user: None
+ - tags: []
+
+## JPMARTIN | Jose Paul Martin - Investor, Trader & Author
+ - [https://jpmartin.com](https://jpmartin.com)
+ - date published: 2024-01-26T15:29:08.643538+00:00
  - user: None
  - tags: []
 
@@ -1833,7 +1947,7 @@
  - [https://krebsonsecurity.com](https://krebsonsecurity.com)
  - date published: 2023-10-25T10:14:56.854608+00:00
  - user: None
- - tags: []
+ - tags: ['cybersecurity']
 
 ## Krickelkrackel | I had nothing in mind while painting this.
  - [https://krickelkrackel.com](https://krickelkrackel.com)
@@ -4073,6 +4187,12 @@
  - user: None
  - tags: []
 
+## Startup Cap Table Management | LTSE Equity
+ - [https://equity.ltse.com](https://equity.ltse.com)
+ - date published: 2024-01-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## lttstore
  - [https://lttstore.com](https://lttstore.com)
  - date published: 2024-01-11T00:00:00+00:00
@@ -4317,6 +4437,12 @@ diversions.
 ## Macmillan Teaching Learning Community
  - [https://community.macmillanlearning.com](https://community.macmillanlearning.com)
  - date published: 2023-10-25T15:53:25.295893+00:00
+ - user: None
+ - tags: []
+
+## home page | macmonta
+ - [https://macmonta.com](https://macmonta.com)
+ - date published: 2024-01-26T22:23:45.915149+00:00
  - user: None
  - tags: []
 
@@ -4942,6 +5068,12 @@ diversions.
 ## Mark Marshall
  - [https://www.markmarshall.com](https://www.markmarshall.com)
  - date published: 2024-01-14T17:11:57.067129+00:00
+ - user: None
+ - tags: []
+
+## Mark McClure, writer
+ - [https://markmccluretoday.com](https://markmccluretoday.com)
+ - date published: 2024-01-26T22:23:12.913501+00:00
  - user: None
  - tags: []
 
@@ -5866,138 +5998,6 @@ diversions.
 ## Medium
  - [https://cherp.medium.com](https://cherp.medium.com)
  - date published: 2023-10-25T10:19:08.602659+00:00
- - user: None
- - tags: []
-
-## Charles Chen – Medium
- - [https://chrlschn.medium.com](https://chrlschn.medium.com)
- - date published: 2023-10-25T10:19:10.864666+00:00
- - user: None
- - tags: []
-
-## Clive Thompson – Medium
- - [https://clivethompson.medium.com](https://clivethompson.medium.com)
- - date published: 2023-10-25T10:19:18.196307+00:00
- - user: None
- - tags: []
-
-## Andrew Coyle – Medium
- - [https://coyleandrew.medium.com](https://coyleandrew.medium.com)
- - date published: 2024-01-10T20:25:33.997993+00:00
- - user: None
- - tags: []
-
-## Arthur Hayes – Medium
- - [https://cryptohayes.medium.com](https://cryptohayes.medium.com)
- - date published: 2023-10-25T10:19:20.082601+00:00
- - user: None
- - tags: []
-
-## Craig Younkins – Medium
- - [https://cyounkins.medium.com](https://cyounkins.medium.com)
- - date published: 2023-10-25T10:19:22.286315+00:00
- - user: None
- - tags: []
-
-## DataFinnovation - ChainArgos - 4AC – Medium
- - [https://datafinnovation.medium.com](https://datafinnovation.medium.com)
- - date published: 2023-10-25T10:19:24.661478+00:00
- - user: None
- - tags: []
-
-## David Delassus – Medium
- - [https://david-delassus.medium.com](https://david-delassus.medium.com)
- - date published: 2023-10-25T10:19:26.852264+00:00
- - user: None
- - tags: []
-
-## David Gilbertson – Medium
- - [https://david-gilbertson.medium.com](https://david-gilbertson.medium.com)
- - date published: 2023-10-25T10:19:29.708680+00:00
- - user: None
- - tags: []
-
-## Debugger
- - [https://debugger.medium.com](https://debugger.medium.com)
- - date published: 2023-10-25T10:19:31.889138+00:00
- - user: None
- - tags: []
-
-## David Lu – Medium
- - [https://delu.medium.com](https://delu.medium.com)
- - date published: 2023-10-25T10:19:34.250111+00:00
- - user: None
- - tags: []
-
-## Denys Linkov – Medium
- - [https://denyslinkov.medium.com](https://denyslinkov.medium.com)
- - date published: 2023-10-25T10:19:36.501051+00:00
- - user: None
- - tags: []
-
-## Dave Feldman – Medium
- - [https://dfeldman.medium.com](https://dfeldman.medium.com)
- - date published: 2023-10-25T10:19:38.830473+00:00
- - user: None
- - tags: []
-
-## Pardis Noorzad – Medium
- - [https://djpardis.medium.com](https://djpardis.medium.com)
- - date published: 2023-10-25T10:19:41.017651+00:00
- - user: None
- - tags: []
-
-## Dmitry Kan – Medium
- - [https://dmitry-kan.medium.com](https://dmitry-kan.medium.com)
- - date published: 2023-10-25T10:19:43.394552+00:00
- - user: None
- - tags: []
-
-## Cory Doctorow – Medium
- - [https://doctorow.medium.com](https://doctorow.medium.com)
- - date published: 2023-10-25T08:57:40.550974+00:00
- - user: None
- - tags: ['personal']
-
-## Don Hopkins – Medium
- - [https://donhopkins.medium.com](https://donhopkins.medium.com)
- - date published: 2023-10-25T10:19:46.013612+00:00
- - user: None
- - tags: []
-
-## Dustin Godevais – Medium
- - [https://dustin-godevais.medium.com](https://dustin-godevais.medium.com)
- - date published: 2023-10-25T10:19:54.217237+00:00
- - user: None
- - tags: []
-
-## Daniel Vassallo – Medium
- - [https://dvassallo.medium.com](https://dvassallo.medium.com)
- - date published: 2023-10-25T10:19:56.210495+00:00
- - user: None
- - tags: []
-
-## Raju Dawadi – Medium
- - [https://dwdraju.medium.com](https://dwdraju.medium.com)
- - date published: 2023-10-25T10:19:58.595133+00:00
- - user: None
- - tags: []
-
-## Elaine Cao – Medium
- - [https://elaine-cao-93.medium.com](https://elaine-cao-93.medium.com)
- - date published: 2023-10-25T10:20:00.285620+00:00
- - user: None
- - tags: []
-
-## End Forced Arbitration – Medium
- - [https://endforcedarbitration.medium.com](https://endforcedarbitration.medium.com)
- - date published: 2024-01-23T09:08:02.722628+00:00
- - user: None
- - tags: []
-
-## Erik van de Ven – Medium
- - [https://erikvandeven.medium.com](https://erikvandeven.medium.com)
- - date published: 2023-10-25T10:20:02.499859+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,153 @@
+## The Great Reset Diary 2022-  | Yun-Fang Juan | Substack
+ - [https://depression2022.substack.com](https://depression2022.substack.com)
+ - date published: 2024-01-09T01:39:30.436174+00:00
+ - user: None
+ - tags: []
+
+## Derw | Substack
+ - [https://derw.substack.com](https://derw.substack.com)
+ - date published: 2024-01-09T01:39:32.524288+00:00
+ - user: None
+ - tags: []
+
+## Rhizome Palindrome Prism. Rotate Quaternion. Rinse Repeat. | Miller Hooks | Substack
+ - [https://dickymirrors.substack.com](https://dickymirrors.substack.com)
+ - date published: 2023-10-25T17:19:01.003516+00:00
+ - user: None
+ - tags: []
+
+## Dirty Bubble Media | Substack
+ - [https://dirtybubblemedia.substack.com](https://dirtybubblemedia.substack.com)
+ - date published: 2024-01-09T01:39:35.443461+00:00
+ - user: None
+ - tags: []
+
+## The DisInformation Chronicle | Paul D. Thacker | Substack
+ - [https://disinformationchronicle.substack.com](https://disinformationchronicle.substack.com)
+ - date published: 2023-10-25T09:48:18.190366+00:00
+ - user: None
+ - tags: ['substack']
+
+## Dissentient | Diana Fleischman | Substack
+ - [https://dissentient.substack.com](https://dissentient.substack.com)
+ - date published: 2024-01-09T01:39:39.120752+00:00
+ - user: None
+ - tags: []
+
+## The Dossier | Jordan Schachtel | Substack
+ - [https://dossier.substack.com](https://dossier.substack.com)
+ - date published: 2023-10-25T09:48:27.561303+00:00
+ - user: None
+ - tags: ['substack']
+
+## Dougald Lamont’s Substack | Substack
+ - [https://dougaldlamont.substack.com](https://dougaldlamont.substack.com)
+ - date published: 2023-11-14T18:21:47.758730+00:00
+ - user: None
+ - tags: []
+
+## Dr. Eric Ding’s Journal | Eric Feigl-Ding | Substack
+ - [https://drericding.substack.com](https://drericding.substack.com)
+ - date published: 2023-10-25T09:48:29.176011+00:00
+ - user: None
+ - tags: ['substack']
+
+## Dr. Pippa's Pen & Podcast | Dr Pippa | Substack
+ - [https://drpippa.substack.com](https://drpippa.substack.com)
+ - date published: 2023-10-25T09:48:32.670348+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Dose | Dr. Samantha Boardman | Substack
+ - [https://drsamanthaboardman.substack.com](https://drsamanthaboardman.substack.com)
+ - date published: 2023-10-25T09:48:36.554284+00:00
+ - user: None
+ - tags: ['substack']
+
+## DYNOMIGHT INTERNET NEWSLETTER | Substack
+ - [https://dynomight.substack.com](https://dynomight.substack.com)
+ - date published: 2023-10-25T09:48:40.730454+00:00
+ - user: None
+ - tags: ['substack']
+
+## Material World | Ed Conway | Substack
+ - [https://edconway.substack.com](https://edconway.substack.com)
+ - date published: 2024-01-09T01:39:40.579563+00:00
+ - user: None
+ - tags: []
+
+## Ednevsky Blog | Alexander Nevedovsky | Substack
+ - [https://ednevsky.substack.com](https://ednevsky.substack.com)
+ - date published: 2024-01-09T01:39:43.394040+00:00
+ - user: None
+ - tags: []
+
+## Edward Slavsquat | Substack
+ - [https://edwardslavsquat.substack.com](https://edwardslavsquat.substack.com)
+ - date published: 2024-01-09T01:39:52.342623+00:00
+ - user: None
+ - tags: []
+
+## Continuing Ed  — with Edward Snowden | Substack
+ - [https://edwardsnowden.substack.com](https://edwardsnowden.substack.com)
+ - date published: 2023-10-25T09:49:04.557546+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Power of Teamwork | Andrew Makhovskyi | Substack
+ - [https://effyai.substack.com](https://effyai.substack.com)
+ - date published: 2023-10-25T09:49:13.799085+00:00
+ - user: None
+ - tags: ['substack']
+
+## eigenrobot,s Blog | Substack
+ - [https://eigenrobot.substack.com](https://eigenrobot.substack.com)
+ - date published: 2024-01-09T01:39:54.987097+00:00
+ - user: None
+ - tags: []
+
+## Embedded | Nick  Catucci | Substack
+ - [https://embedded.substack.com](https://embedded.substack.com)
+ - date published: 2023-10-25T09:49:25.916960+00:00
+ - user: None
+ - tags: ['substack']
+
+## Empathy: The Remnant Pieces | Andrew Johnston | Substack
+ - [https://empathynovel.substack.com](https://empathynovel.substack.com)
+ - date published: 2024-01-09T01:39:56.752914+00:00
+ - user: None
+ - tags: []
+
+## Engineer’s Codex | Substack
+ - [https://engineercodex.substack.com](https://engineercodex.substack.com)
+ - date published: 2023-10-25T09:49:38.971740+00:00
+ - user: None
+ - tags: ['substack']
+
+## Erik de Stefanis | Substack
+ - [https://erikdestefanis.substack.com](https://erikdestefanis.substack.com)
+ - date published: 2024-01-09T01:39:58.842519+00:00
+ - user: None
+ - tags: []
+
+## Erik Examines | Erik Engheim | Substack
+ - [https://erikexamines.substack.com](https://erikexamines.substack.com)
+ - date published: 2024-01-09T01:40:02.387175+00:00
+ - user: None
+ - tags: []
+
+## Erik Explores | Erik Engheim | Substack
+ - [https://erikexplores.substack.com](https://erikexplores.substack.com)
+ - date published: 2024-01-09T01:40:05.656538+00:00
+ - user: None
+ - tags: []
+
+## Erik Torenberg | Substack
+ - [https://eriktorenberg.substack.com](https://eriktorenberg.substack.com)
+ - date published: 2024-01-09T01:40:08.307454+00:00
+ - user: None
+ - tags: []
+
 ## Atlas of Wonders and Monsters | Étienne Fortier-Dubois | Substack
  - [https://etiennefd.substack.com](https://etiennefd.substack.com)
  - date published: 2023-10-25T09:50:13.292516+00:00
@@ -2968,6 +3118,12 @@
  - user: None
  - tags: []
 
+## Technologizer by Harry McCracken
+ - [https://technologizer.com](https://technologizer.com)
+ - date published: 2024-01-26T19:59:58.276399+00:00
+ - user: None
+ - tags: []
+
 ## Technology Networks - The Online Scientific Community
  - [https://www.technologynetworks.com](https://www.technologynetworks.com)
  - date published: 2023-10-25T17:25:18.998962+00:00
@@ -5843,162 +5999,6 @@
 ## tim kellogg - Home
  - [https://timkellogg.com](https://timkellogg.com)
  - date published: 2023-12-21T15:16:17.803500+00:00
- - user: None
- - tags: ['personal']
-
-## Home | Tim Mastny
- - [https://timmastny.com](https://timmastny.com)
- - date published: 2024-01-01T19:17:36.896328+00:00
- - user: None
- - tags: []
-
-## Learn Web Development - Tim Mouskhelichvili
- - [https://timmousk.com](https://timmousk.com)
- - date published: 2024-01-11T07:53:19.428165+00:00
- - user: None
- - tags: []
-
-## https://timoanttila.com
- - [https://timoanttila.com](https://timoanttila.com)
- - date published: 2023-12-13T20:58:29.055580+00:00
- - user: None
- - tags: ['personal']
-
-## Telemetry in front-end tools
- - [https://telemetry.timseverien.com](https://telemetry.timseverien.com)
- - date published: 2023-10-25T17:42:56.126466+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://timtesluck.com](https://timtesluck.com)
- - date published: 2023-11-16T21:08:06.043609+00:00
- - user: None
- - tags: ['personal']
-
-## Buy and Sell DIY Hardware Products - Tindie
- - [https://www.tindie.com](https://www.tindie.com)
- - date published: 2023-10-25T17:43:02.164185+00:00
- - user: None
- - tags: []
-
-## Engineering | Tines
- - [https://engineering.tines.com](https://engineering.tines.com)
- - date published: 2023-10-25T17:43:04.490878+00:00
- - user: None
- - tags: []
-
-## Tinkercad | From mind to design in minutes
- - [https://www.tinkercad.com](https://www.tinkercad.com)
- - date published: 2023-10-27T10:18:37.522915+00:00
- - user: None
- - tags: ['3d printing']
-
-## Tinloof
- - [https://tinloof.com](https://tinloof.com)
- - date published: 2023-10-25T17:43:06.314886+00:00
- - user: None
- - tags: []
-
-## newhome - Wildlife Photography Coaching by Tin Man Lee
- - [https://tinmanphotoblog.com](https://tinmanphotoblog.com)
- - date published: 2023-12-26T19:09:40.507463+00:00
- - user: None
- - tags: ['personal']
-
-## Blog do Tino Gomes
- - [https://blog.tinogomes.com](https://blog.tinogomes.com)
- - date published: 2023-12-17T05:07:31.704120+00:00
- - user: None
- - tags: ['personal', 'personal']
-
-## Tiny Subversions | Darius Kazemi
- - [https://tinysubversions.com](https://tinysubversions.com)
- - date published: 2023-10-25T17:43:12.693676+00:00
- - user: None
- - tags: []
-
-## Tiny Tapeout :: Documentation in English
- - [https://tinytapeout.com](https://tinytapeout.com)
- - date published: 2023-10-25T17:43:13.967055+00:00
- - user: None
- - tags: []
-
-## https://tinyurl.com
- - [https://tinyurl.com](https://tinyurl.com)
- - date published: 2023-12-11T16:53:21.642934+00:00
- - user: None
- - tags: ['link service']
-
-## Tipp10 - Free Touch Typing Tutor | Online and Software Training
- - [https://www.tipp10.com](https://www.tipp10.com)
- - date published: 2023-10-25T17:43:14.789917+00:00
- - user: None
- - tags: []
-
-## Tire Meets Road - Alt Car news
- - [https://tiremeetsroad.com](https://tiremeetsroad.com)
- - date published: 2023-10-25T17:43:21.793371+00:00
- - user: None
- - tags: []
-
-## draw my ui
- - [https://makereal.tldraw.com](https://makereal.tldraw.com)
- - date published: 2023-11-16T13:22:37.653367+00:00
- - user: None
- - tags: ['ui creator', 'online tool']
-
-## tldraw
- - [https://tldraw.com](https://tldraw.com)
- - date published: 2023-11-16T13:23:01.595371+00:00
- - user: None
- - tags: ['drawing', 'online tool']
-
-## https://www.tlo.com
- - [https://www.tlo.com](https://www.tlo.com)
- - date published: 2023-10-25T17:43:22.174068+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://tlpnetwork.com](https://tlpnetwork.com)
- - date published: 2023-10-25T17:43:24.008897+00:00
- - user: None
- - tags: []
-
-## www.toastermuseum.com - ANTIQUE TOASTERS for TOASTER COLLECTORS
- - [http://toastermuseum.com](http://toastermuseum.com)
- - date published: 2023-10-25T17:43:24.496047+00:00
- - user: None
- - tags: []
-
-## Nathan's Toasty Technology Page
- - [https://toastytech.com](https://toastytech.com)
- - date published: 2023-10-25T17:43:25.787615+00:00
- - user: None
- - tags: []
-
-## Tobias Ahlin
- - [https://tobiasahlin.com](https://tobiasahlin.com)
- - date published: 2023-10-25T17:43:26.654867+00:00
- - user: None
- - tags: []
-
-## The Bounding Box – Blog of Tobias Revell
- - [https://blog.tobiasrevell.com](https://blog.tobiasrevell.com)
- - date published: 2024-01-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tobiloba Adejumo
- - [https://tobilobaadejumo.com](https://tobilobaadejumo.com)
- - date published: 2023-12-12T23:23:02.153690+00:00
- - user: None
- - tags: ['personal']
-
-## TobinSlaven.com
- - [https://www.tobinslaven.com](https://www.tobinslaven.com)
- - date published: 2023-11-29T19:27:09.018600+00:00
  - user: None
  - tags: ['personal']
 

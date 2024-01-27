@@ -1,3 +1,237 @@
+## Sorcerer's Place - Baldur's Gate 3 FAQ, RPG News, Walkthrough, Guide, Mods, Hacks, Cheats, Icewind Dale, Neverwinter Nights, Dragon Age, Wizardry
+ - [https://sorcerers.net](https://sorcerers.net)
+ - date published: 2023-10-25T11:18:08.570700+00:00
+ - user: None
+ - tags: []
+
+## ArcEm - The Acorn Archimedes Emulator
+ - [https://arcem.sourceforge.net](https://arcem.sourceforge.net)
+ - date published: 2023-10-25T20:37:50.814944+00:00
+ - user: None
+ - tags: []
+
+## AROS Research Operating System
+ - [https://aros.sourceforge.net](https://aros.sourceforge.net)
+ - date published: 2023-11-02T09:53:42.231278+00:00
+ - user: None
+ - tags: ['operating system', 'amiga']
+
+## Justin Bieber Linux
+ - [https://biebian.sourceforge.net](https://biebian.sourceforge.net)
+ - date published: 2023-12-22T19:25:55+00:00
+ - user: rumpel
+ - tags: ['operating system']
+
+## Gambas - Gambas Almost Means Basic
+ - [https://gambas.sourceforge.net](https://gambas.sourceforge.net)
+ - date published: 2023-10-25T20:37:51.440690+00:00
+ - user: None
+ - tags: []
+
+## Hannah Montana Linux
+ - [https://hannahmontana.sourceforge.net](https://hannahmontana.sourceforge.net)
+ - date published: 2023-12-22T14:14:11+00:00
+ - user: None
+ - tags: []
+
+## Judy Arrays Web Page
+ - [https://judy.sourceforge.net](https://judy.sourceforge.net)
+ - date published: 2023-10-25T08:31:18.433251+00:00
+ - user: None
+ - tags: []
+
+## Luke Stackwalker home page
+ - [https://lukestackwalker.sourceforge.net](https://lukestackwalker.sourceforge.net)
+ - date published: 2024-01-09T13:20:31+00:00
+ - user: rumpel
+ - tags: ['code profiler']
+
+## Sodipodi
+ - [https://sodipodi.sourceforge.net](https://sodipodi.sourceforge.net)
+ - date published: 2024-01-09T03:36:16.772128+00:00
+ - user: None
+ - tags: []
+
+## Compare, Download & Develop Open Source & Business Software - SourceForge
+ - [https://sourceforge.net](https://sourceforge.net)
+ - date published: 2023-10-25T08:41:02.286459+00:00
+ - user: None
+ - tags: ['app platform']
+
+## Thinking Forth
+ - [https://thinking-forth.sourceforge.net](https://thinking-forth.sourceforge.net)
+ - date published: 2023-10-25T20:37:52.312115+00:00
+ - user: None
+ - tags: []
+
+## Yorick is an interpreted programming language for scientific simulations
+ - [https://yorick.sourceforge.net](https://yorick.sourceforge.net)
+ - date published: 2023-11-03T21:00:01+00:00
+ - user: None
+ - tags: []
+
+## https://sovinform.net
+ - [https://sovinform.net](https://sovinform.net)
+ - date published: 2023-10-25T20:37:53.833050+00:00
+ - user: None
+ - tags: []
+
+## Space: 1999 Catacombs- Guides, Scripts, Analysis
+ - [https://catacombs.space1999.net](https://catacombs.space1999.net)
+ - date published: 2023-10-31T22:37:27.873348+00:00
+ - user: None
+ - tags: []
+
+## Space Rogue
+ - [https://www.spacerogue.net](https://www.spacerogue.net)
+ - date published: 2023-10-25T20:37:55.002608+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://a.spolecznosci.net](https://a.spolecznosci.net)
+ - date published: 2024-01-09T03:36:23.568106+00:00
+ - user: None
+ - tags: []
+
+## Pieter Spronck
+ - [https://www.spronck.net](https://www.spronck.net)
+ - date published: 2023-10-25T08:54:07.792417+00:00
+ - user: None
+ - tags: ['personal']
+
+## intro
+ - [https://srobb.net](https://srobb.net)
+ - date published: 2023-10-25T20:37:57.343748+00:00
+ - user: None
+ - tags: []
+
+## SSHGuard
+ - [https://www.sshguard.net](https://www.sshguard.net)
+ - date published: 2023-10-25T20:37:58.024063+00:00
+ - user: None
+ - tags: []
+
+## Status
+ - [https://www.stackstatus.net](https://www.stackstatus.net)
+ - date published: 2023-10-25T20:37:58.860480+00:00
+ - user: None
+ - tags: []
+
+## Starcraft Resources, Gadgets, Videos, Stores and more at StarcraftWire.net | Live in the Starcraft World
+ - [https://www.starcraftwire.net](https://www.starcraftwire.net)
+ - date published: 2023-10-25T11:51:20.910250+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.staredit.net](https://www.staredit.net)
+ - date published: 2024-01-09T02:22:53.342424+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.staregierki.net](https://www.staregierki.net)
+ - date published: 2024-01-09T03:36:44.091476+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Better Seater: Wedding Seating Chart Optimizer
+ - [https://seater.steam-oven.net](https://seater.steam-oven.net)
+ - date published: 2024-01-02T19:10:36+00:00
+ - user: None
+ - tags: []
+
+## Stephen Ramsay
+ - [https://stephenramsay.net](https://stephenramsay.net)
+ - date published: 2023-10-25T08:54:08.668211+00:00
+ - user: None
+ - tags: ['personal']
+
+## Borax Mans Pad
+ - [http://boraxman.strangled.net](http://boraxman.strangled.net)
+ - date published: 2023-11-26T08:26:10.973215+00:00
+ - user: None
+ - tags: ['personal']
+
+## Stride Game Engine - Free, Open Source C# 2D and 3D Game Engine
+ - [https://www.stride3d.net](https://www.stride3d.net)
+ - date published: 2023-10-25T08:35:44.211697+00:00
+ - user: None
+ - tags: []
+
+## https://stryjski.net
+ - [https://stryjski.net](https://stryjski.net)
+ - date published: 2024-01-10T19:22:11.141572+00:00
+ - user: None
+ - tags: []
+
+## Mim.Stupi.NET - WEB for RSX
+ - [http://mim.stupi.net](http://mim.stupi.net)
+ - date published: 2023-10-25T20:37:59.749336+00:00
+ - user: None
+ - tags: []
+
+## Successful Software | …requires more than just good programming.
+ - [https://successfulsoftware.net](https://successfulsoftware.net)
+ - date published: 2023-10-25T20:38:06.050769+00:00
+ - user: None
+ - tags: []
+
+## Super Punch
+ - [https://www.superpunch.net](https://www.superpunch.net)
+ - date published: 2024-01-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Suppi Dot Net
+ - [https://suppi.net](https://suppi.net)
+ - date published: 2023-10-25T20:38:07.025523+00:00
+ - user: None
+ - tags: []
+
+## Susam Pal
+ - [https://susam.net](https://susam.net)
+ - date published: 2023-10-25T09:23:32.170959+00:00
+ - user: None
+ - tags: ['personal']
+
+## Timothy D. Swieter, P.E.
+ - [https://www.swieter.net](https://www.swieter.net)
+ - date published: 2024-01-06T17:58:24.322191+00:00
+ - user: None
+ - tags: []
+
+## Swimburger.net: a blog about .NET, Web, Azure, Umbraco, and more
+ - [https://swimburger.net](https://swimburger.net)
+ - date published: 2023-10-25T09:00:52.513930+00:00
+ - user: None
+ - tags: ['personal']
+
+## Swiss Institute
+ - [https://www.swissinstitute.net](https://www.swissinstitute.net)
+ - date published: 2023-10-25T20:38:13.943234+00:00
+ - user: None
+ - tags: []
+
+## syBOS | Die Internet Feuerwehrsoftware
+ - [https://www.sybos.net](https://www.sybos.net)
+ - date published: 2023-10-25T20:38:16.524978+00:00
+ - user: None
+ - tags: []
+
+## Syncthing
+ - [https://syncthing.net](https://syncthing.net)
+ - date published: 2023-10-25T20:38:17.196194+00:00
+ - user: None
+ - tags: []
+
+## systemreboot – blog
+ - [https://www.systemreboot.net](https://www.systemreboot.net)
+ - date published: 2023-10-25T20:38:22.531078+00:00
+ - user: None
+ - tags: []
+
 ## https://tycho.sytes.net
  - [https://tycho.sytes.net](https://tycho.sytes.net)
  - date published: 2024-01-09T03:36:54.533078+00:00
@@ -189,6 +423,12 @@
  - date published: 2023-11-29T14:18:36.924591+00:00
  - user: None
  - tags: ['personal']
+
+## Tim Errickson
+ - [https://www.timerrickson.net](https://www.timerrickson.net)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## timschumi’s low-traffic blog
  - [https://blog.timschumi.net](https://blog.timschumi.net)
@@ -1154,7 +1394,7 @@
  - [https://aljanscholtens.nl](https://aljanscholtens.nl)
  - date published: 2023-11-29T15:51:31.773471+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Annemieke Verhoeff
  - [https://www.annemiekeverhoeff.nl](https://www.annemiekeverhoeff.nl)
@@ -5765,246 +6005,6 @@ marginalia.nu
 ## Django Packages : Reusable apps, sites and tools directory for Django
  - [https://djangopackages.org](https://djangopackages.org)
  - date published: 2023-10-25T21:14:37.143169+00:00
- - user: None
- - tags: []
-
-## DJ Food | An online scrapbook by Strictly Kev aka DJ Food & Openmind.
- - [https://www.djfood.org](https://www.djfood.org)
- - date published: 2023-10-25T21:14:43.286931+00:00
- - user: None
- - tags: []
-
-## Home - D Programming Language
- - [https://dlang.org](https://dlang.org)
- - date published: 2023-10-25T21:14:45.334948+00:00
- - user: None
- - tags: []
-
-## Index - D Programming Language Discussion Forum
- - [https://forum.dlang.org](https://forum.dlang.org)
- - date published: 2023-10-25T21:14:51.989473+00:00
- - user: None
- - tags: []
-
-## Deep Learning Systems
- - [https://dlsyscourse.org](https://dlsyscourse.org)
- - date published: 2023-10-25T21:14:57.710621+00:00
- - user: None
- - tags: []
-
-## Gudang Slot88: Situs Slot Gacor Hari Ini dan Slot88 Terpercaya
- - [https://dnipogo.org](https://dnipogo.org)
- - date published: 2024-01-09T03:38:57.166834+00:00
- - user: None
- - tags: []
-
-## Home | Doctors Without Borders - USA
- - [https://www.doctorswithoutborders.org](https://www.doctorswithoutborders.org)
- - date published: 2023-11-11T16:04:52.293520+00:00
- - user: None
- - tags: []
-
-## DocumentCloud
- - [https://www.documentcloud.org](https://www.documentcloud.org)
- - date published: 2023-10-25T21:14:58.036496+00:00
- - user: None
- - tags: []
-
-## The Document Foundation Blog - The home of LibreOffice
- - [https://blog.documentfoundation.org](https://blog.documentfoundation.org)
- - date published: 2023-10-25T21:14:59.845814+00:00
- - user: None
- - tags: []
-
-## LibreOffice Development Blog - Blog for the LibreOffice Developers Community; Tutorials, tips and tricks for working with the LibreOffice code
- - [https://dev.blog.documentfoundation.org](https://dev.blog.documentfoundation.org)
- - date published: 2023-10-25T21:15:02.330486+00:00
- - user: None
- - tags: []
-
-## Welcome to The Document Foundation’s wiki - The Document Foundation Wiki
- - [https://wiki.documentfoundation.org](https://wiki.documentfoundation.org)
- - date published: 2023-10-25T21:15:04.376783+00:00
- - user: None
- - tags: []
-
-## Dogbolt Decompiler Explorer
- - [https://dogbolt.org](https://dogbolt.org)
- - date published: 2023-12-04T17:52:55+00:00
- - user: None
- - tags: []
-
-## Home Page
- - [https://doi.org](https://doi.org)
- - date published: 2023-10-25T21:15:05.945582+00:00
- - user: None
- - tags: []
-
-## Resolve a DOI Name
- - [https://dx.doi.org](https://dx.doi.org)
- - date published: 2023-12-03T01:17:58.110575+00:00
- - user: None
- - tags: []
-
-## Dolphin Emulator - GameCube/Wii games on PC
- - [https://dolphin-emu.org](https://dolphin-emu.org)
- - date published: 2023-10-25T08:36:22.762291+00:00
- - user: None
- - tags: ['emulator']
-
-## Domain Verification Protocol
- - [https://domainverification.org](https://domainverification.org)
- - date published: 2023-10-25T21:15:06.523985+00:00
- - user: None
- - tags: []
-
-## Domain Verification Protocol
- - [https://www.domainverification.org](https://www.domainverification.org)
- - date published: 2023-10-25T21:15:07.191275+00:00
- - user: None
- - tags: []
-
-## Domestika
- - [https://www.domestika.org](https://www.domestika.org)
- - date published: 2023-10-24T20:19:43.752630+00:00
- - user: None
- - tags: ['drawing', 'tutorials', 'writing', 'courses']
-
-## None
- - [https://donellameadows.org](https://donellameadows.org)
- - date published: 2023-12-24T03:19:42.866506+00:00
- - user: None
- - tags: []
-
-## Free Donate Button - Donorbox Nonprofit Fundraising Software
- - [https://donorbox.org](https://donorbox.org)
- - date published: 2024-01-18T21:57:11.297764+00:00
- - user: None
- - tags: []
-
-## The Doom Wiki at DoomWiki.org - Doom, Heretic, Hexen, Strife, and more
- - [https://doomwiki.org](https://doomwiki.org)
- - date published: 2023-10-25T21:15:10.502720+00:00
- - user: None
- - tags: []
-
-## .NET Foundation | .NET Foundation
- - [https://dotnetfoundation.org](https://dotnetfoundation.org)
- - date published: 2023-10-25T21:15:11.977111+00:00
- - user: None
- - tags: []
-
-## Welcome - Doug Engelbart Institute
- - [https://www.dougengelbart.org](https://www.dougengelbart.org)
- - date published: 2023-10-25T21:15:15.673050+00:00
- - user: None
- - tags: []
-
-## DragonFlyBSD: DragonFly BSD
- - [https://www.dragonflybsd.org](https://www.dragonflybsd.org)
- - date published: 2023-10-25T21:15:22.406789+00:00
- - user: None
- - tags: []
-
-## D.R.A.S.T.I.C. Research – D.R.A.S.T.I.C. Research
- - [https://drasticresearch.org](https://drasticresearch.org)
- - date published: 2023-10-25T21:15:25.874666+00:00
- - user: None
- - tags: []
-
-## diziet | Recent Entries
- - [https://diziet.dreamwidth.org](https://diziet.dreamwidth.org)
- - date published: 2023-10-25T21:15:30.379033+00:00
- - user: None
- - tags: []
-
-## graydon2 | Recent Entries
- - [https://graydon2.dreamwidth.org](https://graydon2.dreamwidth.org)
- - date published: 2023-10-25T21:15:34.097894+00:00
- - user: None
- - tags: []
-
-## liam_on_linux | Recent Entries
- - [https://liam-on-linux.dreamwidth.org](https://liam-on-linux.dreamwidth.org)
- - date published: 2023-10-25T21:15:39.084907+00:00
- - user: None
- - tags: []
-
-## mjg59 | Recent Entries
- - [https://mjg59.dreamwidth.org](https://mjg59.dreamwidth.org)
- - date published: 2023-10-25T21:15:42.543885+00:00
- - user: None
- - tags: []
-
-## roadrunnertwice | Recent Entries
- - [https://roadrunnertwice.dreamwidth.org](https://roadrunnertwice.dreamwidth.org)
- - date published: 2023-10-25T21:15:47.028918+00:00
- - user: None
- - tags: []
-
-## siderea | Recent Entries
- - [https://siderea.dreamwidth.org](https://siderea.dreamwidth.org)
- - date published: 2023-10-25T21:15:50.428581+00:00
- - user: None
- - tags: []
-
-## spindas | Recent Entries
- - [https://spindas.dreamwidth.org](https://spindas.dreamwidth.org)
- - date published: 2023-10-25T21:15:54.073987+00:00
- - user: None
- - tags: []
-
-## The Blog of Dr. Moron
- - [https://www.drmoron.org](https://www.drmoron.org)
- - date published: 2024-01-11T13:43:51.813117+00:00
- - user: None
- - tags: []
-
-## Drupal - Open Source CMS | Drupal.org
- - [https://www.drupal.org](https://www.drupal.org)
- - date published: 2023-10-25T21:15:56.363748+00:00
- - user: None
- - tags: []
-
-## DSLinux - Linux for the Nintendo DS
- - [https://www.dslinux.org](https://www.dslinux.org)
- - date published: 2023-10-25T08:32:08.225858+00:00
- - user: None
- - tags: []
-
-## dtrace.org
- - [https://dtrace.org](https://dtrace.org)
- - date published: 2024-01-09T03:38:59.443261+00:00
- - user: None
- - tags: []
-
-## DuckDB - An in-process SQL OLAP database management system
- - [https://duckdb.org](https://duckdb.org)
- - date published: 2023-10-25T21:16:01.562376+00:00
- - user: None
- - tags: []
-
-## Duck DNS
- - [https://www.duckdns.org](https://www.duckdns.org)
- - date published: 2023-10-25T21:16:02.876094+00:00
- - user: None
- - tags: ['dns']
-
-## DuckStation: Fast PS1 Emulator
- - [https://www.duckstation.org](https://www.duckstation.org)
- - date published: 2023-10-25T11:18:17.981573+00:00
- - user: None
- - tags: []
-
-## Home | Duke Health
- - [https://corporate.dukehealth.org](https://corporate.dukehealth.org)
- - date published: 2023-11-18T13:29:15.830491+00:00
- - user: None
- - tags: []
-
-## Dune 3D
- - [https://dune3d.org](https://dune3d.org)
- - date published: 2023-11-01T08:44:19.648377+00:00
  - user: None
  - tags: []
 

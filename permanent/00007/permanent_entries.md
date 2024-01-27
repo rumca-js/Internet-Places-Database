@@ -1,3 +1,135 @@
+## Charles Chen – Medium
+ - [https://chrlschn.medium.com](https://chrlschn.medium.com)
+ - date published: 2023-10-25T10:19:10.864666+00:00
+ - user: None
+ - tags: []
+
+## Clive Thompson – Medium
+ - [https://clivethompson.medium.com](https://clivethompson.medium.com)
+ - date published: 2023-10-25T10:19:18.196307+00:00
+ - user: None
+ - tags: []
+
+## Andrew Coyle – Medium
+ - [https://coyleandrew.medium.com](https://coyleandrew.medium.com)
+ - date published: 2024-01-10T20:25:33.997993+00:00
+ - user: None
+ - tags: []
+
+## Arthur Hayes – Medium
+ - [https://cryptohayes.medium.com](https://cryptohayes.medium.com)
+ - date published: 2023-10-25T10:19:20.082601+00:00
+ - user: None
+ - tags: []
+
+## Craig Younkins – Medium
+ - [https://cyounkins.medium.com](https://cyounkins.medium.com)
+ - date published: 2023-10-25T10:19:22.286315+00:00
+ - user: None
+ - tags: []
+
+## DataFinnovation - ChainArgos - 4AC – Medium
+ - [https://datafinnovation.medium.com](https://datafinnovation.medium.com)
+ - date published: 2023-10-25T10:19:24.661478+00:00
+ - user: None
+ - tags: []
+
+## David Delassus – Medium
+ - [https://david-delassus.medium.com](https://david-delassus.medium.com)
+ - date published: 2023-10-25T10:19:26.852264+00:00
+ - user: None
+ - tags: []
+
+## David Gilbertson – Medium
+ - [https://david-gilbertson.medium.com](https://david-gilbertson.medium.com)
+ - date published: 2023-10-25T10:19:29.708680+00:00
+ - user: None
+ - tags: []
+
+## Debugger
+ - [https://debugger.medium.com](https://debugger.medium.com)
+ - date published: 2023-10-25T10:19:31.889138+00:00
+ - user: None
+ - tags: []
+
+## David Lu – Medium
+ - [https://delu.medium.com](https://delu.medium.com)
+ - date published: 2023-10-25T10:19:34.250111+00:00
+ - user: None
+ - tags: []
+
+## Denys Linkov – Medium
+ - [https://denyslinkov.medium.com](https://denyslinkov.medium.com)
+ - date published: 2023-10-25T10:19:36.501051+00:00
+ - user: None
+ - tags: []
+
+## Dave Feldman – Medium
+ - [https://dfeldman.medium.com](https://dfeldman.medium.com)
+ - date published: 2023-10-25T10:19:38.830473+00:00
+ - user: None
+ - tags: []
+
+## Pardis Noorzad – Medium
+ - [https://djpardis.medium.com](https://djpardis.medium.com)
+ - date published: 2023-10-25T10:19:41.017651+00:00
+ - user: None
+ - tags: []
+
+## Dmitry Kan – Medium
+ - [https://dmitry-kan.medium.com](https://dmitry-kan.medium.com)
+ - date published: 2023-10-25T10:19:43.394552+00:00
+ - user: None
+ - tags: []
+
+## Cory Doctorow – Medium
+ - [https://doctorow.medium.com](https://doctorow.medium.com)
+ - date published: 2023-10-25T08:57:40.550974+00:00
+ - user: None
+ - tags: ['personal']
+
+## Don Hopkins – Medium
+ - [https://donhopkins.medium.com](https://donhopkins.medium.com)
+ - date published: 2023-10-25T10:19:46.013612+00:00
+ - user: None
+ - tags: []
+
+## Dustin Godevais – Medium
+ - [https://dustin-godevais.medium.com](https://dustin-godevais.medium.com)
+ - date published: 2023-10-25T10:19:54.217237+00:00
+ - user: None
+ - tags: []
+
+## Daniel Vassallo – Medium
+ - [https://dvassallo.medium.com](https://dvassallo.medium.com)
+ - date published: 2023-10-25T10:19:56.210495+00:00
+ - user: None
+ - tags: []
+
+## Raju Dawadi – Medium
+ - [https://dwdraju.medium.com](https://dwdraju.medium.com)
+ - date published: 2023-10-25T10:19:58.595133+00:00
+ - user: None
+ - tags: []
+
+## Elaine Cao – Medium
+ - [https://elaine-cao-93.medium.com](https://elaine-cao-93.medium.com)
+ - date published: 2023-10-25T10:20:00.285620+00:00
+ - user: None
+ - tags: []
+
+## End Forced Arbitration – Medium
+ - [https://endforcedarbitration.medium.com](https://endforcedarbitration.medium.com)
+ - date published: 2024-01-23T09:08:02.722628+00:00
+ - user: None
+ - tags: []
+
+## Erik van de Ven – Medium
+ - [https://erikvandeven.medium.com](https://erikvandeven.medium.com)
+ - date published: 2023-10-25T10:20:02.499859+00:00
+ - user: None
+ - tags: []
+
 ## Esther Crawford – Medium
  - [https://esthercrawford.medium.com](https://esthercrawford.medium.com)
  - date published: 2023-10-25T10:20:04.645101+00:00
@@ -1829,6 +1961,12 @@
  - user: None
  - tags: []
 
+## Moby Pixel | Making Digital Doodads
+ - [https://www.mobypixel.com](https://www.mobypixel.com)
+ - date published: 2010-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Games and mods development for Windows, Linux and Mac - Mod DB
  - [https://www.moddb.com](https://www.moddb.com)
  - date published: 2023-10-25T11:09:37.572465+00:00
@@ -2170,6 +2308,12 @@
  - date published: 2023-10-25T16:06:57.200736+00:00
  - user: None
  - tags: []
+
+## MÖRK BORG
+ - [https://morkborg.com](https://morkborg.com)
+ - date published: 2024-01-26T15:17:50+00:00
+ - user: rumpel
+ - tags: ['role playing game']
 
 ## welcome to mormoroi
  - [https://mormoroi.com](https://mormoroi.com)
@@ -3404,6 +3548,12 @@
 ## Nerd Level Tech - Learn the Nerd Way
  - [https://nerdleveltech.com](https://nerdleveltech.com)
  - date published: 2023-10-25T16:15:11.606065+00:00
+ - user: None
+ - tags: []
+
+## Nerd Marketing: Smart DTC Growth
+ - [https://www.nerdmarketing.com](https://www.nerdmarketing.com)
+ - date published: 2024-01-26T02:30:42.422754+00:00
  - user: None
  - tags: []
 
@@ -5851,156 +6001,6 @@ Answering Machine Greetings!
 ## Opusmodus: Common Lisp Music Composition System
  - [https://opusmodus.com](https://opusmodus.com)
  - date published: 2023-11-08T10:57:11+00:00
- - user: None
- - tags: []
-
-## Oracle Blogs
- - [https://blogs.oracle.com](https://blogs.oracle.com)
- - date published: 2023-10-25T16:27:16.386692+00:00
- - user: None
- - tags: []
-
-## Oracle | Cloud Applications and Cloud Platform
- - [https://www.oracle.com](https://www.oracle.com)
- - date published: 2023-10-25T11:28:29.767741+00:00
- - user: None
- - tags: ['company', 'java']
-
-## Orange Juice Liberation Front | Uli’s blog on programming, game development, pop culture and other boring things.
- - [https://orangejuiceliberationfront.com](https://orangejuiceliberationfront.com)
- - date published: 2023-10-25T16:27:20.212216+00:00
- - user: None
- - tags: []
-
-## The Orbital Index | Space: weekly, technical, curated.
- - [https://orbitalindex.com](https://orbitalindex.com)
- - date published: 2023-10-25T16:27:22.300273+00:00
- - user: None
- - tags: []
-
-## Homepage - Orbital
- - [https://www.orbitalofficial.com](https://www.orbitalofficial.com)
- - date published: 2023-10-30T13:56:48.367456+00:00
- - user: None
- - tags: ['music band']
-
-## Orbital Today
- - [https://orbitaltoday.com](https://orbitaltoday.com)
- - date published: 2023-12-15T21:45:30.445029+00:00
- - user: None
- - tags: []
-
-## Ordently - A simpler way to get things done
- - [https://www.ordently.com](https://www.ordently.com)
- - date published: 2023-10-25T16:27:23.383546+00:00
- - user: None
- - tags: []
-
-## Ord Phone
- - [https://ordphone.com](https://ordphone.com)
- - date published: 2023-10-25T08:37:02.073914+00:00
- - user: None
- - tags: []
-
-## Oregon Local News, Breaking News, Sports & Weather
- - [https://www.oregonlive.com](https://www.oregonlive.com)
- - date published: 2023-10-25T11:06:13.645376+00:00
- - user: None
- - tags: []
-
-## O'Reilly Media - Technology and Business Training
- - [https://www.oreilly.com](https://www.oreilly.com)
- - date published: 2023-10-24T20:19:32.879408+00:00
- - user: None
- - tags: []
-
-## Organ Clearing House
- - [https://www.organclearinghouse.com](https://www.organclearinghouse.com)
- - date published: 2023-10-25T16:27:25.213840+00:00
- - user: None
- - tags: []
-
-## Orinoco Tribune – News and opinion pieces about Venezuela and beyond – From Venezuela and made by Venezuelan Chavistas
- - [https://orinocotribune.com](https://orinocotribune.com)
- - date published: 2023-10-25T09:29:37.225218+00:00
- - user: None
- - tags: []
-
-## OrioleDB – the next generation storage engine for PostgreSQL
- - [https://www.orioledata.com](https://www.orioledata.com)
- - date published: 2023-10-25T16:27:26.200155+00:00
- - user: None
- - tags: []
-
-## Orlando Sentinel
- - [https://www.orlandosentinel.com](https://www.orlandosentinel.com)
- - date published: 2023-11-27T21:19:15.271397+00:00
- - user: None
- - tags: []
-
-## Orlando Weekly
- - [https://www.orlandoweekly.com](https://www.orlandoweekly.com)
- - date published: 2023-11-23T07:19:16.129563+00:00
- - user: None
- - tags: []
-
-## Orville McDonald – Random thoughts on technology and business
- - [https://orvillemcdonald.com](https://orvillemcdonald.com)
- - date published: 2023-10-25T09:21:05.715824+00:00
- - user: None
- - tags: ['personal']
-
-## The Orwell Foundation
- - [https://www.orwellfoundation.com](https://www.orwellfoundation.com)
- - date published: 2023-10-25T11:26:43.410563+00:00
- - user: None
- - tags: []
-
-## Oryx
- - [https://www.oryxspioenkop.com](https://www.oryxspioenkop.com)
- - date published: 2023-10-25T16:27:36.030855+00:00
- - user: None
- - tags: []
-
-## The OS/2 Museum
- - [https://www.os2museum.com](https://www.os2museum.com)
- - date published: 2023-10-25T16:27:40.415903+00:00
- - user: None
- - tags: []
-
-## https://www.oscarscampos.com
- - [https://www.oscarscampos.com](https://www.oscarscampos.com)
- - date published: 2023-12-25T04:55:51.274224+00:00
- - user: None
- - tags: ['personal']
-
-## oschvr.com
- - [https://oschvr.com](https://oschvr.com)
- - date published: 2023-10-25T16:27:41.499435+00:00
- - user: None
- - tags: []
-
-## Open Source Clones of Games
- - [https://osgameclones.com](https://osgameclones.com)
- - date published: 2023-12-27T02:09:22+00:00
- - user: None
- - tags: []
-
-## osintme.com
- - [https://www.osintme.com](https://www.osintme.com)
- - date published: 2023-10-25T16:27:45.841879+00:00
- - user: None
- - tags: []
-
-## Oskar Eggert
- - [https://www.oskareggert.com](https://www.oskareggert.com)
- - date published: 2023-12-05T14:37:10.380947+00:00
- - user: None
- - tags: ['personal']
-
-## OSnews  -  Exploring the Future of Computing
- - [https://www.osnews.com](https://www.osnews.com)
- - date published: 2023-10-25T09:34:29.424722+00:00
  - user: None
  - tags: []
 

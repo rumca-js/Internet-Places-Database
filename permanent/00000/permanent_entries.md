@@ -3748,6 +3748,12 @@
  - user: None
  - tags: []
 
+## https://contrarianliving.blog
+ - [https://contrarianliving.blog](https://contrarianliving.blog)
+ - date published: 2024-01-26T22:22:59.653234+00:00
+ - user: None
+ - tags: []
+
 ## CS 007: Personal Finance for Engineers | Stanford University 2017-22 (6th Year)
  - [https://cs007.blog](https://cs007.blog)
  - date published: 2023-10-25T11:59:58.340140+00:00
@@ -4628,6 +4634,12 @@
 ## Concordia University
  - [https://www.concordia.ca](https://www.concordia.ca)
  - date published: 2023-10-25T11:21:43.402681+00:00
+ - user: None
+ - tags: []
+
+## Protecting and promoting the health and well-being of children and youth | Canadian Paediatric Society
+ - [https://cps.ca](https://cps.ca)
+ - date published: 2024-01-26T10:31:49.585956+00:00
  - user: None
  - tags: []
 
@@ -5985,18 +5997,6 @@
 ## https://claudioholanda.ch
  - [https://claudioholanda.ch](https://claudioholanda.ch)
  - date published: 2024-01-09T02:27:22.425891+00:00
- - user: None
- - tags: []
-
-## Dugas.ch
- - [https://dugas.ch](https://dugas.ch)
- - date published: 2023-10-25T09:03:06.949619+00:00
- - user: None
- - tags: ['personal']
-
-## Home - European Journalism Observatory - EJO
- - [https://en.ejo.ch](https://en.ejo.ch)
- - date published: 2023-10-25T12:13:33.749632+00:00
  - user: None
  - tags: []
 

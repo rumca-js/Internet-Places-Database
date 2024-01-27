@@ -1,3 +1,15 @@
+## Dugas.ch
+ - [https://dugas.ch](https://dugas.ch)
+ - date published: 2023-10-25T09:03:06.949619+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - European Journalism Observatory - EJO
+ - [https://en.ejo.ch](https://en.ejo.ch)
+ - date published: 2023-10-25T12:13:33.749632+00:00
+ - user: None
+ - tags: []
+
 ## News - EPFL
  - [https://actu.epfl.ch](https://actu.epfl.ch)
  - date published: 2023-10-25T12:13:36.353791+00:00
@@ -476,7 +488,7 @@
  - [https://chrisdaniel.club](https://chrisdaniel.club)
  - date published: 2024-01-19T13:01:35.779185+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## https://www.creativedestruction.club
  - [https://www.creativedestruction.club](https://www.creativedestruction.club)
@@ -1336,6 +1348,12 @@
  - user: None
  - tags: []
 
+## PROPHETIC
+ - [https://propheticai.co](https://propheticai.co)
+ - date published: 2024-01-26T10:31:44.952433+00:00
+ - user: None
+ - tags: []
+
 ## Prospective
  - [https://prospective.co](https://prospective.co)
  - date published: 2023-11-01T17:24:22.525282+00:00
@@ -1609,6 +1627,12 @@
 ## ChatCody
  - [https://chatcody.umso.co](https://chatcody.umso.co)
  - date published: 2023-10-25T12:24:34.308441+00:00
+ - user: None
+ - tags: []
+
+## Untranslatable
+ - [https://untranslatable.co](https://untranslatable.co)
+ - date published: 2019-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2374,6 +2398,12 @@
  - user: None
  - tags: []
 
+## Aaron Crocco – Author
+ - [https://www.aaroncrocco.com](https://www.aaroncrocco.com)
+ - date published: 2024-01-26T22:22:48.379230+00:00
+ - user: None
+ - tags: []
+
 ## aaron embrey
  - [https://www.aaronembrey.com](https://www.aaronembrey.com)
  - date published: 2008-01-01T00:00:00+00:00
@@ -2804,7 +2834,7 @@
  - [https://www.adacore.com](https://www.adacore.com)
  - date published: 2023-10-25T11:27:07.163203+00:00
  - user: None
- - tags: []
+ - tags: ['do-178b', 'do-178c']
 
 ## Adafruit Industries – Makers, hackers, artists, designers and engineers!
  - [https://blog.adafruit.com](https://blog.adafruit.com)
@@ -2869,6 +2899,12 @@
 ## Hi, I’m Adam - Adam J. Doolittle
  - [https://www.adamdoolittle.com](https://www.adamdoolittle.com)
  - date published: 2024-01-19T13:00:38.013071+00:00
+ - user: None
+ - tags: []
+
+## Adam Drake
+ - [https://adamdrake.com](https://adamdrake.com)
+ - date published: 2019-08-16T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4224,6 +4260,12 @@
  - user: None
  - tags: ['personal']
 
+## Alzheimer's Buddy: 40Hz Therapy
+ - [https://alzheimersbuddy.com](https://alzheimersbuddy.com)
+ - date published: 2024-01-26T14:02:26.464371+00:00
+ - user: None
+ - tags: []
+
 ## Amadeus Pagel's Newsletter | Substack
  - [https://amadeuspagel.com](https://amadeuspagel.com)
  - date published: 2023-10-25T12:39:34.658645+00:00
@@ -5502,6 +5544,12 @@
  - user: None
  - tags: []
 
+## Aptiv |  Global Technology Company
+ - [https://www.aptiv.com](https://www.aptiv.com)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: rumpel
+ - tags: ['automotive']
+
 ## Pickled ML – Documenting my eccentric Machine Learning projects
  - [https://blog.aqnichol.com](https://blog.aqnichol.com)
  - date published: 2023-10-25T12:43:28.339043+00:00
@@ -5951,52 +5999,4 @@
  - date published: 2023-10-25T12:46:02.663411+00:00
  - user: None
  - tags: []
-
-## Aliberk Sandıkçı
- - [https://asandikci.com](https://asandikci.com)
- - date published: 2024-01-22T03:53:15.965676+00:00
- - user: None
- - tags: []
-
-## The Mesothelioma Center: Support for Cancer Patients & Families
- - [https://www.asbestos.com](https://www.asbestos.com)
- - date published: 2023-10-25T12:46:12.247543+00:00
- - user: None
- - tags: []
-
-## ASCII FacePalm & Facepalm Emoticon
- - [https://www.asciifacepalm.com](https://www.asciifacepalm.com)
- - date published: 2023-10-25T12:46:14.068647+00:00
- - user: None
- - tags: []
-
-## asdf | asdf
- - [https://asdf-vm.com](https://asdf-vm.com)
- - date published: 2023-10-25T12:46:15.470211+00:00
- - user: None
- - tags: []
-
-## Jobs
- - [https://jobs.ashbyhq.com](https://jobs.ashbyhq.com)
- - date published: 2023-12-20T21:10:04.471042+00:00
- - user: None
- - tags: []
-
-## All-in-one Recruiting Software for Ambitious Teams | Ashby
- - [https://www.ashbyhq.com](https://www.ashbyhq.com)
- - date published: 2023-10-25T12:46:19.534911+00:00
- - user: None
- - tags: []
-
-## Ash Furrow
- - [https://ashfurrow.com](https://ashfurrow.com)
- - date published: 2023-10-25T12:46:21.735717+00:00
- - user: None
- - tags: []
-
-## Inbound Marketing Consulting and HubSpot CMS Development
- - [https://www.ashleyidesign.com](https://www.ashleyidesign.com)
- - date published: 2023-11-29T13:54:15.010258+00:00
- - user: None
- - tags: ['personal']
 

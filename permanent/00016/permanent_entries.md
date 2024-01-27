@@ -1,3 +1,220 @@
+## fhur
+ - [https://fhur.me](https://fhur.me)
+ - date published: 2023-10-25T08:50:23.592020+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cogitate
+ - [https://www.fkarg.me](https://www.fkarg.me)
+ - date published: 2023-11-29T15:32:02.196412+00:00
+ - user: None
+ - tags: ['personal']
+
+## fogus: Send More Paramedics
+ - [https://blog.fogus.me](https://blog.fogus.me)
+ - date published: 2023-10-25T20:20:10.304773+00:00
+ - user: None
+ - tags: []
+
+## GAP-Index
+ - [https://g-a-p.me](https://g-a-p.me)
+ - date published: 2023-12-11T19:07:24.408783+00:00
+ - user: None
+ - tags: []
+
+## Home - Geoff Graham
+ - [https://geoffgraham.me](https://geoffgraham.me)
+ - date published: 2023-10-25T08:50:25.138457+00:00
+ - user: None
+ - tags: ['personal']
+
+## /james/notes - James Gibbard
+ - [https://www.gibbard.me](https://www.gibbard.me)
+ - date published: 2024-01-09T13:03:23.516752+00:00
+ - user: None
+ - tags: []
+
+## Hex Triplet Words
+ - [https://hex-triplet-words.glitch.me](https://hex-triplet-words.glitch.me)
+ - date published: 2023-10-25T20:20:13.574717+00:00
+ - user: None
+ - tags: []
+
+## Wobbly clock!
+ - [https://wobble-clock.glitch.me](https://wobble-clock.glitch.me)
+ - date published: 2023-10-25T20:20:15.928891+00:00
+ - user: None
+ - tags: []
+
+## GPTZero | The Trusted AI Detector for ChatGPT, GPT-4, & More
+ - [https://gptzero.me](https://gptzero.me)
+ - date published: 2023-10-25T20:20:17.993202+00:00
+ - user: None
+ - tags: []
+
+## Ivan Grishaev's blog
+ - [https://grishaev.me](https://grishaev.me)
+ - date published: 2023-11-20T14:03:57.861202+00:00
+ - user: None
+ - tags: []
+
+## Hajo Nils Krabbenhöft
+ - [https://hajo.me](https://hajo.me)
+ - date published: 2023-10-25T08:59:44.463447+00:00
+ - user: None
+ - tags: ['personal']
+
+## Show HN: Hashmap.me – Simple HTTP-Based Data Storage and Retrieval
+ - [https://hashmap.me](https://hashmap.me)
+ - date published: 2024-01-06T01:12:02+00:00
+ - user: None
+ - tags: []
+
+## Holy-Elie Scaide's Notes
+ - [https://hescaide.me](https://hescaide.me)
+ - date published: 2023-10-25T08:50:26.162093+00:00
+ - user: None
+ - tags: ['personal']
+
+## hillward.me – words + images
+ - [https://hillward.me](https://hillward.me)
+ - date published: 2023-11-29T17:08:50.012590+00:00
+ - user: None
+ - tags: ['personal']
+
+## Bienvenue · humanize.me
+ - [https://humanize.me](https://humanize.me)
+ - date published: 2024-01-05T10:37:02.058991+00:00
+ - user: None
+ - tags: []
+
+## Hynek Schlawack
+ - [https://hynek.me](https://hynek.me)
+ - date published: 2023-10-25T08:50:26.973911+00:00
+ - user: None
+ - tags: ['personal']
+
+## Planner and calendar for reMarkable, Supernote, Kindle Scribe, and more
+ - [https://hyperpaper.me](https://hyperpaper.me)
+ - date published: 2023-10-25T20:20:20.003623+00:00
+ - user: None
+ - tags: []
+
+## Ioan Bizău
+ - [https://ibz.me](https://ibz.me)
+ - date published: 2024-01-14T17:12:26.725204+00:00
+ - user: None
+ - tags: []
+
+## IndieWebify.Me - a guide to getting you on the IndieWeb
+ - [https://indiewebify.me](https://indiewebify.me)
+ - date published: 2023-12-11T16:20:06.205585+00:00
+ - user: None
+ - tags: []
+
+## The blog with no purpose
+ - [https://isstiaung.me](https://isstiaung.me)
+ - date published: 2023-12-30T09:52:13.718952+00:00
+ - user: None
+ - tags: ['personal']
+
+## Squarespace - Website Expired
+ - [https://www.jakso.me](https://www.jakso.me)
+ - date published: 2023-10-25T20:20:20.791103+00:00
+ - user: None
+ - tags: []
+
+## Juncheng Yang's website
+ - [https://jasony.me](https://jasony.me)
+ - date published: 2023-10-25T08:50:28.528054+00:00
+ - user: None
+ - tags: ['personal']
+
+## jfhr's blog
+ - [https://jfhr.me](https://jfhr.me)
+ - date published: 2023-10-25T08:59:45.249417+00:00
+ - user: None
+ - tags: ['personal']
+
+## John O'Connor is under construction
+ - [https://www.johnoconnor.me](https://www.johnoconnor.me)
+ - date published: 2023-12-20T05:40:39.569493+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hi, I'm Jonathan - Jonathan Berkowitz
+ - [https://blog.jonathanberkowitz.me](https://blog.jonathanberkowitz.me)
+ - date published: 2023-12-12T12:11:55.702590+00:00
+ - user: None
+ - tags: []
+
+## Jonathan Liu – Natural language for unnatural people.
+ - [https://jonathanliu.me](https://jonathanliu.me)
+ - date published: 2023-11-29T17:13:40.092591+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jonathon Reed
+ - [https://jonathonreed.me](https://jonathonreed.me)
+ - date published: 2023-12-25T22:13:10.573275+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jon Deaves, Web Developer
+ - [https://jondeaves.me](https://jondeaves.me)
+ - date published: 2023-12-25T22:12:49.001610+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Joost Jansen
+ - [https://joostjansen.me](https://joostjansen.me)
+ - date published: 2023-10-25T20:20:26.328305+00:00
+ - user: None
+ - tags: []
+
+## Joseph Tame in Tokyo | ジョセフ・テイム |
+ - [https://josephta.me](https://josephta.me)
+ - date published: 2024-01-02T10:20:08.926321+00:00
+ - user: None
+ - tags: []
+
+## Josh Anderson
+ - [https://joshanderson.me](https://joshanderson.me)
+ - date published: 2023-10-25T08:50:31.529094+00:00
+ - user: None
+ - tags: ['personal']
+
+## Josh Beard
+ - [https://joshbeard.me](https://joshbeard.me)
+ - date published: 2024-01-05T01:04:28.973590+00:00
+ - user: None
+ - tags: []
+
+## HN - Recommendation
+ - [https://hn-recommend.julienc.me](https://hn-recommend.julienc.me)
+ - date published: 2023-10-25T20:20:26.855778+00:00
+ - user: None
+ - tags: []
+
+## Jamie Tanna | Software Engineer
+ · Jamie Tanna | Software Engineer
+ - [https://www.jvt.me](https://www.jvt.me)
+ - date published: 2023-10-25T08:50:33.488748+00:00
+ - user: None
+ - tags: ['personal']
+
+## Index | katafrakt's garden
+ - [https://katafrakt.me](https://katafrakt.me)
+ - date published: 2023-10-25T08:50:34.441819+00:00
+ - user: None
+ - tags: ['personal']
+
+## Marketing Advisor, Mentor, & Educator
+ - [https://kevin.me](https://kevin.me)
+ - date published: 2024-01-21T04:57:47.011935+00:00
+ - user: None
+ - tags: []
+
 ## Modern Web Development with Chrome
  - [https://paul.kinlan.me](https://paul.kinlan.me)
  - date published: 2023-10-25T20:20:27.860589+00:00
@@ -505,6 +722,12 @@
 ## Shyim's Brain
  - [https://shyim.me](https://shyim.me)
  - date published: 2023-10-25T08:37:50.607216+00:00
+ - user: None
+ - tags: []
+
+## Simbly Scribbles
+ - [https://simbly.me](https://simbly.me)
+ - date published: 2023-12-16T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3989,6 +4212,12 @@
  - user: None
  - tags: []
 
+## Las Vegas Open
+ - [https://www.lasvegasopen.net](https://www.lasvegasopen.net)
+ - date published: 2024-01-26T15:25:15+00:00
+ - user: rumpel
+ - tags: ['wargames', 'tabletop game event', 'tabletop games']
+
 ## Launchpad Bugs
  - [https://bugs.launchpad.net](https://bugs.launchpad.net)
  - date published: 2023-10-25T20:32:47.781928+00:00
@@ -5412,6 +5641,12 @@
  - user: None
  - tags: ['role playing games']
 
+## Welcome to RPGBOT.net
+ - [https://rpgbot.net](https://rpgbot.net)
+ - date published: 2021-09-30T04:58:57+00:00
+ - user: rumpel
+ - tags: ['role playing games', 'tabletop games']
+
 ## RPG Site
  - [https://www.rpgsite.net](https://www.rpgsite.net)
  - date published: 2023-10-25T20:36:41.173422+00:00
@@ -5763,240 +5998,6 @@
 ## Sony Corporation - Home
  - [https://www.sony.net](https://www.sony.net)
  - date published: 2023-10-25T11:29:02.084856+00:00
- - user: None
- - tags: []
-
-## Sorcerer's Place - Baldur's Gate 3 FAQ, RPG News, Walkthrough, Guide, Mods, Hacks, Cheats, Icewind Dale, Neverwinter Nights, Dragon Age, Wizardry
- - [https://sorcerers.net](https://sorcerers.net)
- - date published: 2023-10-25T11:18:08.570700+00:00
- - user: None
- - tags: []
-
-## ArcEm - The Acorn Archimedes Emulator
- - [https://arcem.sourceforge.net](https://arcem.sourceforge.net)
- - date published: 2023-10-25T20:37:50.814944+00:00
- - user: None
- - tags: []
-
-## AROS Research Operating System
- - [https://aros.sourceforge.net](https://aros.sourceforge.net)
- - date published: 2023-11-02T09:53:42.231278+00:00
- - user: None
- - tags: ['operating system', 'amiga']
-
-## Justin Bieber Linux
- - [https://biebian.sourceforge.net](https://biebian.sourceforge.net)
- - date published: 2023-12-22T19:25:55+00:00
- - user: rumpel
- - tags: ['operating system']
-
-## Gambas - Gambas Almost Means Basic
- - [https://gambas.sourceforge.net](https://gambas.sourceforge.net)
- - date published: 2023-10-25T20:37:51.440690+00:00
- - user: None
- - tags: []
-
-## Hannah Montana Linux
- - [https://hannahmontana.sourceforge.net](https://hannahmontana.sourceforge.net)
- - date published: 2023-12-22T14:14:11+00:00
- - user: None
- - tags: []
-
-## Judy Arrays Web Page
- - [https://judy.sourceforge.net](https://judy.sourceforge.net)
- - date published: 2023-10-25T08:31:18.433251+00:00
- - user: None
- - tags: []
-
-## Luke Stackwalker home page
- - [https://lukestackwalker.sourceforge.net](https://lukestackwalker.sourceforge.net)
- - date published: 2024-01-09T13:20:31+00:00
- - user: rumpel
- - tags: ['code profiler']
-
-## Sodipodi
- - [https://sodipodi.sourceforge.net](https://sodipodi.sourceforge.net)
- - date published: 2024-01-09T03:36:16.772128+00:00
- - user: None
- - tags: []
-
-## Compare, Download & Develop Open Source & Business Software - SourceForge
- - [https://sourceforge.net](https://sourceforge.net)
- - date published: 2023-10-25T08:41:02.286459+00:00
- - user: None
- - tags: ['app platform']
-
-## Thinking Forth
- - [https://thinking-forth.sourceforge.net](https://thinking-forth.sourceforge.net)
- - date published: 2023-10-25T20:37:52.312115+00:00
- - user: None
- - tags: []
-
-## Yorick is an interpreted programming language for scientific simulations
- - [https://yorick.sourceforge.net](https://yorick.sourceforge.net)
- - date published: 2023-11-03T21:00:01+00:00
- - user: None
- - tags: []
-
-## https://sovinform.net
- - [https://sovinform.net](https://sovinform.net)
- - date published: 2023-10-25T20:37:53.833050+00:00
- - user: None
- - tags: []
-
-## Space: 1999 Catacombs- Guides, Scripts, Analysis
- - [https://catacombs.space1999.net](https://catacombs.space1999.net)
- - date published: 2023-10-31T22:37:27.873348+00:00
- - user: None
- - tags: []
-
-## Space Rogue
- - [https://www.spacerogue.net](https://www.spacerogue.net)
- - date published: 2023-10-25T20:37:55.002608+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://a.spolecznosci.net](https://a.spolecznosci.net)
- - date published: 2024-01-09T03:36:23.568106+00:00
- - user: None
- - tags: []
-
-## Pieter Spronck
- - [https://www.spronck.net](https://www.spronck.net)
- - date published: 2023-10-25T08:54:07.792417+00:00
- - user: None
- - tags: ['personal']
-
-## intro
- - [https://srobb.net](https://srobb.net)
- - date published: 2023-10-25T20:37:57.343748+00:00
- - user: None
- - tags: []
-
-## SSHGuard
- - [https://www.sshguard.net](https://www.sshguard.net)
- - date published: 2023-10-25T20:37:58.024063+00:00
- - user: None
- - tags: []
-
-## Status
- - [https://www.stackstatus.net](https://www.stackstatus.net)
- - date published: 2023-10-25T20:37:58.860480+00:00
- - user: None
- - tags: []
-
-## Starcraft Resources, Gadgets, Videos, Stores and more at StarcraftWire.net | Live in the Starcraft World
- - [https://www.starcraftwire.net](https://www.starcraftwire.net)
- - date published: 2023-10-25T11:51:20.910250+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.staredit.net](https://www.staredit.net)
- - date published: 2024-01-09T02:22:53.342424+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.staregierki.net](https://www.staregierki.net)
- - date published: 2024-01-09T03:36:44.091476+00:00
- - user: None
- - tags: []
-
-## Show HN: Better Seater: Wedding Seating Chart Optimizer
- - [https://seater.steam-oven.net](https://seater.steam-oven.net)
- - date published: 2024-01-02T19:10:36+00:00
- - user: None
- - tags: []
-
-## Stephen Ramsay
- - [https://stephenramsay.net](https://stephenramsay.net)
- - date published: 2023-10-25T08:54:08.668211+00:00
- - user: None
- - tags: ['personal']
-
-## Borax Mans Pad
- - [http://boraxman.strangled.net](http://boraxman.strangled.net)
- - date published: 2023-11-26T08:26:10.973215+00:00
- - user: None
- - tags: ['personal']
-
-## Stride Game Engine - Free, Open Source C# 2D and 3D Game Engine
- - [https://www.stride3d.net](https://www.stride3d.net)
- - date published: 2023-10-25T08:35:44.211697+00:00
- - user: None
- - tags: []
-
-## https://stryjski.net
- - [https://stryjski.net](https://stryjski.net)
- - date published: 2024-01-10T19:22:11.141572+00:00
- - user: None
- - tags: []
-
-## Mim.Stupi.NET - WEB for RSX
- - [http://mim.stupi.net](http://mim.stupi.net)
- - date published: 2023-10-25T20:37:59.749336+00:00
- - user: None
- - tags: []
-
-## Successful Software | …requires more than just good programming.
- - [https://successfulsoftware.net](https://successfulsoftware.net)
- - date published: 2023-10-25T20:38:06.050769+00:00
- - user: None
- - tags: []
-
-## Super Punch
- - [https://www.superpunch.net](https://www.superpunch.net)
- - date published: 2024-01-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Suppi Dot Net
- - [https://suppi.net](https://suppi.net)
- - date published: 2023-10-25T20:38:07.025523+00:00
- - user: None
- - tags: []
-
-## Susam Pal
- - [https://susam.net](https://susam.net)
- - date published: 2023-10-25T09:23:32.170959+00:00
- - user: None
- - tags: ['personal']
-
-## Timothy D. Swieter, P.E.
- - [https://www.swieter.net](https://www.swieter.net)
- - date published: 2024-01-06T17:58:24.322191+00:00
- - user: None
- - tags: []
-
-## Swimburger.net: a blog about .NET, Web, Azure, Umbraco, and more
- - [https://swimburger.net](https://swimburger.net)
- - date published: 2023-10-25T09:00:52.513930+00:00
- - user: None
- - tags: ['personal']
-
-## Swiss Institute
- - [https://www.swissinstitute.net](https://www.swissinstitute.net)
- - date published: 2023-10-25T20:38:13.943234+00:00
- - user: None
- - tags: []
-
-## syBOS | Die Internet Feuerwehrsoftware
- - [https://www.sybos.net](https://www.sybos.net)
- - date published: 2023-10-25T20:38:16.524978+00:00
- - user: None
- - tags: []
-
-## Syncthing
- - [https://syncthing.net](https://syncthing.net)
- - date published: 2023-10-25T20:38:17.196194+00:00
- - user: None
- - tags: []
-
-## systemreboot – blog
- - [https://www.systemreboot.net](https://www.systemreboot.net)
- - date published: 2023-10-25T20:38:22.531078+00:00
  - user: None
  - tags: []
 

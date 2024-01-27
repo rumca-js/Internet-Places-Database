@@ -1,3 +1,93 @@
+## Duplicati
+ - [https://www.duplicati.com](https://www.duplicati.com)
+ - date published: 2023-10-25T14:00:05.522255+00:00
+ - user: None
+ - tags: []
+
+## Library of Unusually Good Ideas
+ - [https://durmonski.com](https://durmonski.com)
+ - date published: 2024-01-22T21:14:29.698494+00:00
+ - user: None
+ - tags: []
+
+## Goran Duskic | Internet Entrepreneur | Duskic.com | 2023 – Internet entrepreneur, website investor
+ - [https://www.duskic.com](https://www.duskic.com)
+ - date published: 2023-11-29T16:19:36.273999+00:00
+ - user: None
+ - tags: ['personal']
+
+## Website Impersonating a Desktop Environment
+ - [https://dustinbrett.com](https://dustinbrett.com)
+ - date published: 2024-01-01T06:48:45+00:00
+ - user: None
+ - tags: []
+
+## Dustin Main's A Skinny Escape
+ - [https://dustinmain.com](https://dustinmain.com)
+ - date published: 2023-11-16T20:40:58.860267+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kapil Dutta - Blog
+ - [https://duttakapil.com](https://duttakapil.com)
+ - date published: 2023-11-18T19:08:01.389864+00:00
+ - user: None
+ - tags: ['personal']
+
+## Duvar English
+ - [https://www.duvarenglish.com](https://www.duvarenglish.com)
+ - date published: 2023-10-25T14:00:07.518414+00:00
+ - user: None
+ - tags: []
+
+## https://dvpolymedia.com
+ - [https://dvpolymedia.com](https://dvpolymedia.com)
+ - date published: 2024-01-12T08:14:24.224060+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://p.dw.com
+ - [https://p.dw.com](https://p.dw.com)
+ - date published: 2023-11-04T11:47:38.546816+00:00
+ - user: None
+ - tags: []
+
+## https://www.dw.com
+ - [https://www.dw.com](https://www.dw.com)
+ - date published: 2023-10-25T10:26:00.082237+00:00
+ - user: None
+ - tags: []
+
+## Dwarkesh Podcast | Dwarkesh Patel | Substack
+ - [https://www.dwarkeshpatel.com](https://www.dwarkeshpatel.com)
+ - date published: 2023-12-16T13:36:19.590447+00:00
+ - user: None
+ - tags: []
+
+## Dwell House – Design Delivered to Your Backyard
+ - [https://house.dwell.com](https://house.dwell.com)
+ - date published: 2023-10-25T14:00:08.441249+00:00
+ - user: None
+ - tags: []
+
+## Modern living, home design ideas, inspiration, and advice. - Dwell
+ - [https://www.dwell.com](https://www.dwell.com)
+ - date published: 2023-10-25T14:00:13.975793+00:00
+ - user: None
+ - tags: []
+
+## Dyalog APL - D-functions
+ - [https://dfns.dyalog.com](https://dfns.dyalog.com)
+ - date published: 2023-10-25T14:00:19.708737+00:00
+ - user: None
+ - tags: []
+
+## Dyalog - Home
+ - [https://www.dyalog.com](https://www.dyalog.com)
+ - date published: 2023-10-25T14:00:26.538339+00:00
+ - user: None
+ - tags: []
+
 ## Dying Light 2 – Official website
  - [https://dyinglightgame.com](https://dyinglightgame.com)
  - date published: 2023-10-30T18:27:03.121972+00:00
@@ -4498,6 +4588,12 @@
  - user: None
  - tags: []
 
+## GamersGrass
+ - [https://gamersgrass.com](https://gamersgrass.com)
+ - date published: 2020-06-16T06:36:12+00:00
+ - user: rumpel
+ - tags: ['miniatures', 'tabletop games']
+
 ## Games Workshop
  - [https://www.games-workshop.com](https://www.games-workshop.com)
  - date published: 2023-10-25T11:11:19.430080+00:00
@@ -5219,12 +5315,18 @@
  - user: None
  - tags: []
 
+## Green Hills Software
+ - [https://ghs.com](https://ghs.com)
+ - date published: 2024-01-26T17:11:08+00:00
+ - user: rumpel
+ - tags: ['integrity operating system', 'do-178b', 'automotive', 'embedded', 'do-178c', 'linux', 'real time operating system']
+
 ## Real-Time Operating Systems (RTOS), Embedded Development Tools, Optimizing
 Compilers, IDE tools, Debuggers - Green Hills Software
  - [https://www.ghs.com](https://www.ghs.com)
  - date published: 2023-12-02T19:50:50.848107+00:00
  - user: None
- - tags: []
+ - tags: ['integrity operating system', 'do-178b', 'automotive', 'embedded', 'do-178c', 'linux', 'real time operating system']
 
 ## Geoffrey Huntley
  - [https://ghuntley.com](https://ghuntley.com)
@@ -5895,108 +5997,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Google Cloud Platform
  - [https://console.cloud.google.com](https://console.cloud.google.com)
  - date published: 2023-12-20T18:54:01.264450+00:00
- - user: None
- - tags: []
-
-## Programmable Search Engine by Google
- - [https://cse.google.com](https://cse.google.com)
- - date published: 2023-12-13T14:58:49.890684+00:00
- - user: None
- - tags: ['search engine']
-
-## Google for Developers - from AI and Cloud to Mobile and Web
- - [https://developers.google.com](https://developers.google.com)
- - date published: 2023-12-11T19:07:49.858032+00:00
- - user: None
- - tags: []
-
-## Sign in - Google Accounts
- - [https://docs.google.com](https://docs.google.com)
- - date published: 2023-10-25T11:31:05.811351+00:00
- - user: None
- - tags: []
-
-## Personal Cloud Storage & File Sharing Platform - Google
- - [https://drive.google.com](https://drive.google.com)
- - date published: 2023-10-25T08:25:55.109146+00:00
- - user: None
- - tags: ['cloud drive']
-
-## https://earth.google.com
- - [https://earth.google.com](https://earth.google.com)
- - date published: 2023-12-24T08:13:28+00:00
- - user: rumpel
- - tags: ['service maps']
-
-## Browse Fonts - Google Fonts
- - [https://fonts.google.com](https://fonts.google.com)
- - date published: 2023-10-25T11:31:06.266545+00:00
- - user: None
- - tags: []
-
-## Google Forms: Sign-in
- - [https://forms.google.com](https://forms.google.com)
- - date published: 2023-12-27T19:46:23.467840+00:00
- - user: None
- - tags: []
-
-## Google
- - [https://google.com](https://google.com)
- - date published: 2023-12-26T05:06:13.105333+00:00
- - user: None
- - tags: ['search engine', 'gatekeeper']
-
-## Sign in - Google Accounts
- - [https://groups.google.com](https://groups.google.com)
- - date published: 2023-10-25T11:31:08.141313+00:00
- - user: None
- - tags: []
-
-## Google Issue Tracker
- - [https://issuetracker.google.com](https://issuetracker.google.com)
- - date published: 2023-10-25T11:31:09.582088+00:00
- - user: None
- - tags: []
-
-## Zanim przejdziesz do Map Google
- - [https://maps.google.com](https://maps.google.com)
- - date published: 2023-10-25T08:24:45.052104+00:00
- - user: None
- - tags: ['gatekeeper', 'map', 'service maps']
-
-## Before you continue
- - [https://news.google.com](https://news.google.com)
- - date published: 2023-12-18T17:17:59.010277+00:00
- - user: None
- - tags: []
-
-## Google Patents
- - [https://patents.google.com](https://patents.google.com)
- - date published: 2023-10-25T11:31:10.094604+00:00
- - user: None
- - tags: []
-
-## Android Apps on Google Play
- - [https://play.google.com](https://play.google.com)
- - date published: 2023-10-24T20:11:54.898633+00:00
- - user: None
- - tags: ['app store', 'gatekeeper']
-
-## New community features for Google Chat and an update on Currents
- - [https://plus.google.com](https://plus.google.com)
- - date published: 2023-12-11T19:33:32.723745+00:00
- - user: None
- - tags: []
-
-## Google Podcasts
- - [https://podcasts.google.com](https://podcasts.google.com)
- - date published: 2023-10-25T11:31:17.486510+00:00
- - user: None
- - tags: []
-
-## Google Scholar
- - [https://scholar.google.com](https://scholar.google.com)
- - date published: 2023-10-25T11:31:18.931237+00:00
  - user: None
  - tags: []
 

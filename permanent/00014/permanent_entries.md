@@ -1,3 +1,197 @@
+## Federal Communications Commission | The United States of America
+ - [https://www.fcc.gov](https://www.fcc.gov)
+ - date published: 2023-10-25T19:21:01.719932+00:00
+ - user: None
+ - tags: []
+
+## U.S. Food and Drug Administration
+ - [https://www.fda.gov](https://www.fda.gov)
+ - date published: 2023-10-25T19:21:05.422596+00:00
+ - user: None
+ - tags: []
+
+## FDIC: Federal Deposit Insurance Corporation
+ - [https://www.fdic.gov](https://www.fdic.gov)
+ - date published: 2023-10-25T19:21:19.392966+00:00
+ - user: None
+ - tags: []
+
+## Federal Register
+       :: 
+      Home - Wednesday, October 25th
+ - [https://www.federalregister.gov](https://www.federalregister.gov)
+ - date published: 2023-10-25T19:21:22.351422+00:00
+ - user: None
+ - tags: []
+
+## Federal Reserve Board - Home
+ - [https://www.federalreserve.gov](https://www.federalreserve.gov)
+ - date published: 2023-10-25T19:21:25.826382+00:00
+ - user: None
+ - tags: []
+
+## FEMA.gov
+ - [https://www.fema.gov](https://www.fema.gov)
+ - date published: 2023-10-25T19:21:33.460504+00:00
+ - user: None
+ - tags: []
+
+## United States Department of the Treasury Financial Crimes Enforcement Network | FinCEN.gov
+ - [https://www.fincen.gov](https://www.fincen.gov)
+ - date published: 2023-10-25T19:21:37.717717+00:00
+ - user: None
+ - tags: []
+
+## Florida Department of Health
+ - [https://www.floridahealth.gov](https://www.floridahealth.gov)
+ - date published: 2023-10-25T19:21:43.397423+00:00
+ - user: None
+ - tags: []
+
+## Newsroom
+ - [https://news.fnal.gov](https://news.fnal.gov)
+ - date published: 2023-10-25T19:21:48.635515+00:00
+ - user: None
+ - tags: []
+
+## FOIAonline :: Decommissioned
+ - [https://foiaonline.gov](https://foiaonline.gov)
+ - date published: 2023-10-25T19:21:50.776367+00:00
+ - user: None
+ - tags: []
+
+## Federal Trade Commission | Protecting America's Consumers
+ - [https://www.ftc.gov](https://www.ftc.gov)
+ - date published: 2023-10-25T19:21:54.571295+00:00
+ - user: None
+ - tags: []
+
+## U.S. Government Accountability Office (U.S. GAO)
+ - [https://www.gao.gov](https://www.gao.gov)
+ - date published: 2023-11-27T15:17:10+00:00
+ - user: rumpel
+ - tags: []
+
+## GPS: The Global Positioning System
+ - [https://www.gps.gov](https://www.gps.gov)
+ - date published: 2023-10-25T19:21:57.216221+00:00
+ - user: None
+ - tags: []
+
+## Real Property Disposition
+ - [https://disposal.gsa.gov](https://disposal.gsa.gov)
+ - date published: 2023-10-25T19:22:04.790414+00:00
+ - user: None
+ - tags: []
+
+## Home | GSA
+ - [https://www.gsa.gov](https://www.gsa.gov)
+ - date published: 2023-10-25T19:22:12.181356+00:00
+ - user: None
+ - tags: []
+
+## ASPR | Homepage
+ - [https://aspr.hhs.gov](https://aspr.hhs.gov)
+ - date published: 2023-10-25T19:22:17.545788+00:00
+ - user: None
+ - tags: []
+
+## HIV and AIDS Resources | HIV.gov
+ - [https://www.hiv.gov](https://www.hiv.gov)
+ - date published: 2023-10-25T19:22:20.398924+00:00
+ - user: None
+ - tags: []
+
+## House Judiciary Committee Republicans |
+ - [https://judiciary.house.gov](https://judiciary.house.gov)
+ - date published: 2023-10-25T19:22:23.234554+00:00
+ - user: None
+ - tags: []
+
+## Congressman Ro Khanna |
+ - [https://khanna.house.gov](https://khanna.house.gov)
+ - date published: 2023-10-25T19:22:25.514559+00:00
+ - user: None
+ - tags: []
+
+## United States House Committee on Oversight and Accountability -
+ - [https://oversight.house.gov](https://oversight.house.gov)
+ - date published: 2023-10-25T19:22:27.238039+00:00
+ - user: None
+ - tags: []
+
+## House Committee on Oversight and Reform
+ - [https://oversightdemocrats.house.gov](https://oversightdemocrats.house.gov)
+ - date published: 2023-11-28T18:21:20.465630+00:00
+ - user: None
+ - tags: []
+
+## House of Representatives Committee on Rules
+ - [https://rules.house.gov](https://rules.house.gov)
+ - date published: 2023-11-14T19:59:35.907324+00:00
+ - user: None
+ - tags: []
+
+## Select Committee on the CCP
+ - [https://selectcommitteeontheccp.house.gov](https://selectcommitteeontheccp.house.gov)
+ - date published: 2023-11-27T12:22:06+00:00
+ - user: rumpel
+ - tags: ['china', 'america']
+
+## Internet Crime Complaint Center(IC3) | Home Page
+ - [https://www.ic3.gov](https://www.ic3.gov)
+ - date published: 2023-10-25T11:20:35.175486+00:00
+ - user: None
+ - tags: ['fbi', 'internet crime complaint']
+
+## None
+ - [https://ilga.gov](https://ilga.gov)
+ - date published: 2024-01-09T03:30:40.556731+00:00
+ - user: None
+ - tags: []
+
+## Attention Required! | Cloudflare
+ - [https://events.in.gov](https://events.in.gov)
+ - date published: 2023-10-25T19:22:27.576944+00:00
+ - user: None
+ - tags: []
+
+## Internal Revenue Service | An official website of the United States government
+ - [https://www.irs.gov](https://www.irs.gov)
+ - date published: 2023-10-25T19:22:30.651654+00:00
+ - user: None
+ - tags: []
+
+## ERROR: The request could not be satisfied
+ - [https://www.jobcorps.gov](https://www.jobcorps.gov)
+ - date published: 2023-10-25T19:22:31.466539+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://oig.justice.gov](https://oig.justice.gov)
+ - date published: 2024-01-09T03:30:58.690663+00:00
+ - user: None
+ - tags: []
+
+## Department of Justice |  Homepage | United States Department of Justice
+ - [https://www.justice.gov](https://www.justice.gov)
+ - date published: 2023-10-25T19:22:33.543403+00:00
+ - user: None
+ - tags: []
+
+## Kansas Department of Commerce
+ - [https://www.kansascommerce.gov](https://www.kansascommerce.gov)
+ - date published: 2023-10-25T19:22:38.214597+00:00
+ - user: None
+ - tags: []
+
+## Los Angeles County District Attorney's Office
+ - [https://da.lacounty.gov](https://da.lacounty.gov)
+ - date published: 2023-10-25T19:22:42.028055+00:00
+ - user: None
+ - tags: []
+
 ## LANL Research Library
  - [https://lib-www.lanl.gov](https://lib-www.lanl.gov)
  - date published: 2023-10-25T19:22:43.331654+00:00
@@ -2863,6 +3057,12 @@
  - user: None
  - tags: []
 
+## AWAIS.IO
+ - [https://blog.awais.io](https://blog.awais.io)
+ - date published: 2024-01-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Axel’s Blog | Technical blog discussing reverse engineering, detections engineering, exploit development, capability development, and other cybersecurity topics.
  - [https://axelp.io](https://axelp.io)
  - date published: 2023-10-25T19:38:02.657295+00:00
@@ -3121,6 +3321,12 @@
  - user: None
  - tags: []
 
+## Chris Jones | chrisjones.io
+ - [https://chrisjones.io](https://chrisjones.io)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## ramblings of 1lann
  - [https://blog.chuie.io](https://blog.chuie.io)
  - date published: 2023-10-25T19:39:39.618395+00:00
@@ -3330,6 +3536,12 @@
  - date published: 2023-10-25T08:33:13.077918+00:00
  - user: None
  - tags: []
+
+## CY_BORG
+ - [https://cy-borg.io](https://cy-borg.io)
+ - date published: 2024-01-26T15:15:36+00:00
+ - user: rumpel
+ - tags: ['cyberpunk', 'role playing game', 'cy_borg']
 
 ## Dagger.io - CI/CD as Code that Runs Anywhere
  - [https://dagger.io](https://dagger.io)
@@ -4229,7 +4441,7 @@
  - [https://aungthurhahein.github.io](https://aungthurhahein.github.io)
  - date published: 2023-11-29T14:22:16.213145+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Awais
  - [https://awaisrauf.github.io](https://awaisrauf.github.io)
@@ -5790,216 +6002,6 @@ through Composable Diffusion
 ## nfultz.github.io
  - [https://nfultz.github.io](https://nfultz.github.io)
  - date published: 2023-11-29T14:24:53.953723+00:00
- - user: None
- - tags: ['personal']
-
-## Eight million pixels and counting
- - [https://nical.github.io](https://nical.github.io)
- - date published: 2023-10-25T19:50:15.945525+00:00
- - user: None
- - tags: []
-
-## Nick Desaulniers
- - [https://nickdesaulniers.github.io](https://nickdesaulniers.github.io)
- - date published: 2023-10-25T19:50:17.713377+00:00
- - user: None
- - tags: []
-
-## Something Something Programming | Mostly thoughts about programming. Maybe other stuff too.
- - [https://nickdrozd.github.io](https://nickdrozd.github.io)
- - date published: 2023-10-25T19:50:19.845694+00:00
- - user: None
- - tags: []
-
-## Dyskryminacja mężczyzn i „dyskryminacja” kobiet w Polsce
- - [https://nieczekam107lat.github.io](https://nieczekam107lat.github.io)
- - date published: 2023-10-25T19:50:21.360497+00:00
- - user: None
- - tags: []
-
-## https://niespodd.github.io
- - [https://niespodd.github.io](https://niespodd.github.io)
- - date published: 2024-01-09T03:32:53.013438+00:00
- - user: None
- - tags: []
-
-## nigeltao.github.io
- - [https://nigeltao.github.io](https://nigeltao.github.io)
- - date published: 2023-10-25T19:50:29.342774+00:00
- - user: None
- - tags: []
-
-## niplav
- - [https://niplav.github.io](https://niplav.github.io)
- - date published: 2024-01-01T17:21:29.307277+00:00
- - user: None
- - tags: []
-
-## Bits and Paradoxes
- - [https://nish1001.github.io](https://nish1001.github.io)
- - date published: 2023-12-11T23:18:51.580288+00:00
- - user: None
- - tags: ['personal']
-
-## Nicholas Nethercote | Be kind and be useful.
- - [https://nnethercote.github.io](https://nnethercote.github.io)
- - date published: 2023-10-25T19:50:30.882872+00:00
- - user: None
- - tags: []
-
-## Noise2Music
- - [https://noise2music.github.io](https://noise2music.github.io)
- - date published: 2023-10-25T19:50:32.288101+00:00
- - user: None
- - tags: []
-
-## https://not-just-memorization.github.io
- - [https://not-just-memorization.github.io](https://not-just-memorization.github.io)
- - date published: 2023-11-29T17:19:34.609423+00:00
- - user: None
- - tags: []
-
-## not-matthias
- - [https://not-matthias.github.io](https://not-matthias.github.io)
- - date published: 2023-10-25T19:50:33.780319+00:00
- - user: None
- - tags: []
-
-## All posts | Note's on software
- - [https://note89.github.io](https://note89.github.io)
- - date published: 2023-10-25T19:50:35.276107+00:00
- - user: None
- - tags: []
-
-## notgull – The world's \#1 source of notgull
- - [https://notgull.github.io](https://notgull.github.io)
- - date published: 2023-10-25T19:50:36.988312+00:00
- - user: None
- - tags: []
-
-## Redirecting to https://research.nvidia.com/labs/toronto-ai/
- - [https://nv-tlabs.github.io](https://nv-tlabs.github.io)
- - date published: 2023-10-25T19:50:38.683182+00:00
- - user: None
- - tags: []
-
-## john (@nyan_satan)
- - [https://nyansatan.github.io](https://nyansatan.github.io)
- - date published: 2023-10-25T19:50:39.873510+00:00
- - user: None
- - tags: []
-
-## Show HN: Oasis – A Repository of Project Ideas
- - [https://oasis-of-ideas.github.io](https://oasis-of-ideas.github.io)
- - date published: 2023-11-29T20:46:27+00:00
- - user: None
- - tags: []
-
-## Code Examples | The Oberon+ Programming Language
- - [https://oberon-lang.github.io](https://oberon-lang.github.io)
- - date published: 2023-10-25T19:50:41.397058+00:00
- - user: None
- - tags: []
-
-## Joel Arvidsson on GitHub
- - [https://oblador.github.io](https://oblador.github.io)
- - date published: 2023-10-25T19:50:42.692439+00:00
- - user: None
- - tags: []
-
-## OCamlPro's Resources on Github
- - [https://ocamlpro.github.io](https://ocamlpro.github.io)
- - date published: 2023-10-25T19:50:54.541806+00:00
- - user: None
- - tags: []
-
-## Tea and Bits
- - [https://ohadravid.github.io](https://ohadravid.github.io)
- - date published: 2023-10-25T19:50:55.937894+00:00
- - user: None
- - tags: []
-
-## https://open-journey.github.io
- - [https://open-journey.github.io](https://open-journey.github.io)
- - date published: 2024-01-09T03:32:53.564573+00:00
- - user: None
- - tags: []
-
-## Sotolf's Blog
- - [https://opsahl.github.io](https://opsahl.github.io)
- - date published: 2023-10-25T08:49:25.098637+00:00
- - user: None
- - tags: ['personal']
-
-## Site not found · GitHub Pages
- - [https://osanseviero.github.io](https://osanseviero.github.io)
- - date published: 2024-01-03T21:23:24.597485+00:00
- - user: None
- - tags: []
-
-## Page Redirection
- - [https://ostreedev.github.io](https://ostreedev.github.io)
- - date published: 2023-10-25T19:51:03.196975+00:00
- - user: None
- - tags: []
-
-## Easily create apps for PC games on the Overwolf framework | Overwolf
- - [https://overwolf.github.io](https://overwolf.github.io)
- - date published: 2023-12-13T15:57:22.507855+00:00
- - user: None
- - tags: []
-
-## The JavaScript Oxidation Compiler
- - [https://oxc-project.github.io](https://oxc-project.github.io)
- - date published: 2023-12-16T20:21:13+00:00
- - user: None
- - tags: []
-
-## PaLM-E: An Embodied Multimodal Language Model
- - [https://palm-e.github.io](https://palm-e.github.io)
- - date published: 2023-10-25T19:51:04.713759+00:00
- - user: None
- - tags: []
-
-## https://patrickroxas.github.io
- - [https://patrickroxas.github.io](https://patrickroxas.github.io)
- - date published: 2024-01-04T03:33:46.508274+00:00
- - user: None
- - tags: []
-
-## https://paulsec.github.io
- - [https://paulsec.github.io](https://paulsec.github.io)
- - date published: 2023-10-25T19:51:06.414524+00:00
- - user: None
- - tags: []
-
-## Index – pcwalton – pcwalton's blog
- - [https://pcwalton.github.io](https://pcwalton.github.io)
- - date published: 2023-10-25T19:51:08.007982+00:00
- - user: None
- - tags: []
-
-## Pelayo Arbués
- - [https://pelayoarbues.github.io](https://pelayoarbues.github.io)
- - date published: 2024-01-13T09:36:59.010580+00:00
- - user: None
- - tags: []
-
-## Petr Lorenc
- - [https://petrlorenc.github.io](https://petrlorenc.github.io)
- - date published: 2024-01-22T03:52:33.980694+00:00
- - user: None
- - tags: []
-
-## PH3 Blog
- - [https://ph3at.github.io](https://ph3at.github.io)
- - date published: 2024-01-03T09:01:09.381646+00:00
- - user: None
- - tags: []
-
-## Phil Pearl's Blog
- - [https://philpearl.github.io](https://philpearl.github.io)
- - date published: 2023-10-25T08:59:13.014092+00:00
  - user: None
  - tags: ['personal']
 

@@ -1,3 +1,243 @@
+## DJ Food | An online scrapbook by Strictly Kev aka DJ Food & Openmind.
+ - [https://www.djfood.org](https://www.djfood.org)
+ - date published: 2023-10-25T21:14:43.286931+00:00
+ - user: None
+ - tags: []
+
+## Home - D Programming Language
+ - [https://dlang.org](https://dlang.org)
+ - date published: 2023-10-25T21:14:45.334948+00:00
+ - user: None
+ - tags: []
+
+## Index - D Programming Language Discussion Forum
+ - [https://forum.dlang.org](https://forum.dlang.org)
+ - date published: 2023-10-25T21:14:51.989473+00:00
+ - user: None
+ - tags: []
+
+## Deep Learning Systems
+ - [https://dlsyscourse.org](https://dlsyscourse.org)
+ - date published: 2023-10-25T21:14:57.710621+00:00
+ - user: None
+ - tags: []
+
+## Gudang Slot88: Situs Slot Gacor Hari Ini dan Slot88 Terpercaya
+ - [https://dnipogo.org](https://dnipogo.org)
+ - date published: 2024-01-09T03:38:57.166834+00:00
+ - user: None
+ - tags: []
+
+## Home | Doctors Without Borders - USA
+ - [https://www.doctorswithoutborders.org](https://www.doctorswithoutborders.org)
+ - date published: 2023-11-11T16:04:52.293520+00:00
+ - user: None
+ - tags: []
+
+## DocumentCloud
+ - [https://www.documentcloud.org](https://www.documentcloud.org)
+ - date published: 2023-10-25T21:14:58.036496+00:00
+ - user: None
+ - tags: []
+
+## The Document Foundation Blog - The home of LibreOffice
+ - [https://blog.documentfoundation.org](https://blog.documentfoundation.org)
+ - date published: 2023-10-25T21:14:59.845814+00:00
+ - user: None
+ - tags: []
+
+## LibreOffice Development Blog - Blog for the LibreOffice Developers Community; Tutorials, tips and tricks for working with the LibreOffice code
+ - [https://dev.blog.documentfoundation.org](https://dev.blog.documentfoundation.org)
+ - date published: 2023-10-25T21:15:02.330486+00:00
+ - user: None
+ - tags: []
+
+## Welcome to The Document Foundation’s wiki - The Document Foundation Wiki
+ - [https://wiki.documentfoundation.org](https://wiki.documentfoundation.org)
+ - date published: 2023-10-25T21:15:04.376783+00:00
+ - user: None
+ - tags: []
+
+## Dogbolt Decompiler Explorer
+ - [https://dogbolt.org](https://dogbolt.org)
+ - date published: 2023-12-04T17:52:55+00:00
+ - user: None
+ - tags: []
+
+## Home Page
+ - [https://doi.org](https://doi.org)
+ - date published: 2023-10-25T21:15:05.945582+00:00
+ - user: None
+ - tags: []
+
+## Resolve a DOI Name
+ - [https://dx.doi.org](https://dx.doi.org)
+ - date published: 2023-12-03T01:17:58.110575+00:00
+ - user: None
+ - tags: []
+
+## Dolphin Emulator - GameCube/Wii games on PC
+ - [https://dolphin-emu.org](https://dolphin-emu.org)
+ - date published: 2023-10-25T08:36:22.762291+00:00
+ - user: None
+ - tags: ['emulator']
+
+## Domain Verification Protocol
+ - [https://domainverification.org](https://domainverification.org)
+ - date published: 2023-10-25T21:15:06.523985+00:00
+ - user: None
+ - tags: []
+
+## Domain Verification Protocol
+ - [https://www.domainverification.org](https://www.domainverification.org)
+ - date published: 2023-10-25T21:15:07.191275+00:00
+ - user: None
+ - tags: []
+
+## Domestika
+ - [https://www.domestika.org](https://www.domestika.org)
+ - date published: 2023-10-24T20:19:43.752630+00:00
+ - user: None
+ - tags: ['drawing', 'tutorials', 'writing', 'courses']
+
+## None
+ - [https://donellameadows.org](https://donellameadows.org)
+ - date published: 2023-12-24T03:19:42.866506+00:00
+ - user: None
+ - tags: []
+
+## Free Donate Button - Donorbox Nonprofit Fundraising Software
+ - [https://donorbox.org](https://donorbox.org)
+ - date published: 2024-01-18T21:57:11.297764+00:00
+ - user: None
+ - tags: []
+
+## The Doom Wiki at DoomWiki.org - Doom, Heretic, Hexen, Strife, and more
+ - [https://doomwiki.org](https://doomwiki.org)
+ - date published: 2023-10-25T21:15:10.502720+00:00
+ - user: None
+ - tags: []
+
+## .NET Foundation | .NET Foundation
+ - [https://dotnetfoundation.org](https://dotnetfoundation.org)
+ - date published: 2023-10-25T21:15:11.977111+00:00
+ - user: None
+ - tags: []
+
+## Welcome - Doug Engelbart Institute
+ - [https://www.dougengelbart.org](https://www.dougengelbart.org)
+ - date published: 2023-10-25T21:15:15.673050+00:00
+ - user: None
+ - tags: []
+
+## DragonFlyBSD: DragonFly BSD
+ - [https://www.dragonflybsd.org](https://www.dragonflybsd.org)
+ - date published: 2023-10-25T21:15:22.406789+00:00
+ - user: None
+ - tags: []
+
+## D.R.A.S.T.I.C. Research – D.R.A.S.T.I.C. Research
+ - [https://drasticresearch.org](https://drasticresearch.org)
+ - date published: 2023-10-25T21:15:25.874666+00:00
+ - user: None
+ - tags: []
+
+## diziet | Recent Entries
+ - [https://diziet.dreamwidth.org](https://diziet.dreamwidth.org)
+ - date published: 2023-10-25T21:15:30.379033+00:00
+ - user: None
+ - tags: []
+
+## graydon2 | Recent Entries
+ - [https://graydon2.dreamwidth.org](https://graydon2.dreamwidth.org)
+ - date published: 2023-10-25T21:15:34.097894+00:00
+ - user: None
+ - tags: []
+
+## liam_on_linux | Recent Entries
+ - [https://liam-on-linux.dreamwidth.org](https://liam-on-linux.dreamwidth.org)
+ - date published: 2023-10-25T21:15:39.084907+00:00
+ - user: None
+ - tags: []
+
+## mjg59 | Recent Entries
+ - [https://mjg59.dreamwidth.org](https://mjg59.dreamwidth.org)
+ - date published: 2023-10-25T21:15:42.543885+00:00
+ - user: None
+ - tags: []
+
+## roadrunnertwice | Recent Entries
+ - [https://roadrunnertwice.dreamwidth.org](https://roadrunnertwice.dreamwidth.org)
+ - date published: 2023-10-25T21:15:47.028918+00:00
+ - user: None
+ - tags: []
+
+## siderea | Recent Entries
+ - [https://siderea.dreamwidth.org](https://siderea.dreamwidth.org)
+ - date published: 2023-10-25T21:15:50.428581+00:00
+ - user: None
+ - tags: []
+
+## spindas | Recent Entries
+ - [https://spindas.dreamwidth.org](https://spindas.dreamwidth.org)
+ - date published: 2023-10-25T21:15:54.073987+00:00
+ - user: None
+ - tags: []
+
+## The Blog of Dr. Moron
+ - [https://www.drmoron.org](https://www.drmoron.org)
+ - date published: 2024-01-11T13:43:51.813117+00:00
+ - user: None
+ - tags: []
+
+## Drupal - Open Source CMS | Drupal.org
+ - [https://www.drupal.org](https://www.drupal.org)
+ - date published: 2023-10-25T21:15:56.363748+00:00
+ - user: None
+ - tags: []
+
+## DSLinux - Linux for the Nintendo DS
+ - [https://www.dslinux.org](https://www.dslinux.org)
+ - date published: 2023-10-25T08:32:08.225858+00:00
+ - user: None
+ - tags: []
+
+## dtrace.org
+ - [https://dtrace.org](https://dtrace.org)
+ - date published: 2024-01-09T03:38:59.443261+00:00
+ - user: None
+ - tags: []
+
+## DuckDB - An in-process SQL OLAP database management system
+ - [https://duckdb.org](https://duckdb.org)
+ - date published: 2023-10-25T21:16:01.562376+00:00
+ - user: None
+ - tags: []
+
+## Duck DNS
+ - [https://www.duckdns.org](https://www.duckdns.org)
+ - date published: 2023-10-25T21:16:02.876094+00:00
+ - user: None
+ - tags: ['dns']
+
+## DuckStation: Fast PS1 Emulator
+ - [https://www.duckstation.org](https://www.duckstation.org)
+ - date published: 2023-10-25T11:18:17.981573+00:00
+ - user: None
+ - tags: []
+
+## Home | Duke Health
+ - [https://corporate.dukehealth.org](https://corporate.dukehealth.org)
+ - date published: 2023-11-18T13:29:15.830491+00:00
+ - user: None
+ - tags: []
+
+## Dune 3D
+ - [https://dune3d.org](https://dune3d.org)
+ - date published: 2023-11-01T08:44:19.648377+00:00
+ - user: None
+ - tags: []
+
 ## dungeoncrawlers.org - Keep calm and crawl dungeons.
  - [https://www.dungeoncrawlers.org](https://www.dungeoncrawlers.org)
  - date published: 2023-12-11T16:52:40.401217+00:00
@@ -2110,6 +2350,12 @@
 ## </> htmx - high power tools for html
  - [https://htmx.org](https://htmx.org)
  - date published: 2023-10-25T21:29:00.359686+00:00
+ - user: None
+ - tags: []
+
+## </> htmx - high power tools for html
+ - [https://v2-0v2-0.htmx.org](https://v2-0v2-0.htmx.org)
+ - date published: 2023-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5761,251 +6007,4 @@ Common Weakness Enumeration
  - date published: 2023-10-29T10:00:57.928021+00:00
  - user: None
  - tags: ['morrowind', 'open source', 'the elder scrolls']
-
-## OpenProcessing - Creative Coding for the Curious Mind
- - [https://openprocessing.org](https://openprocessing.org)
- - date published: 2023-10-25T21:53:01.379367+00:00
- - user: None
- - tags: []
-
-## OpenRailwayMap
- - [https://www.openrailwaymap.org](https://www.openrailwaymap.org)
- - date published: 2023-10-25T08:25:20.516625+00:00
- - user: None
- - tags: []
-
-## OpenRCT2 project
- - [https://openrct2.org](https://openrct2.org)
- - date published: 2023-10-25T21:53:01.909495+00:00
- - user: None
- - tags: []
-
-## OpenRefine
- - [https://openrefine.org](https://openrefine.org)
- - date published: 2023-11-01T08:44:36.756515+00:00
- - user: None
- - tags: []
-
-## OpenRetro Game Database
- - [https://openretro.org](https://openretro.org)
- - date published: 2023-10-25T11:18:22.724488+00:00
- - user: None
- - tags: []
-
-## Home | Open Rights Group
- - [https://www.openrightsgroup.org](https://www.openrightsgroup.org)
- - date published: 2023-10-25T21:53:03.331761+00:00
- - user: None
- - tags: []
-
-## Open Robotics
- - [https://www.openrobotics.org](https://www.openrobotics.org)
- - date published: 2023-10-25T21:53:09.705140+00:00
- - user: None
- - tags: []
-
-## Open RSS
- - [https://openrss.org](https://openrss.org)
- - date published: 2024-01-16T00:45:10.574589+00:00
- - user: None
- - tags: ['rss']
-
-## A Grand Theft Auto III Re-Implementation
- - [https://openrw.org](https://openrw.org)
- - date published: 2023-10-31T19:53:00+00:00
- - user: rumpel
- - tags: ['game', 'open source', 'grand theft auto']
-
-## OpenSAFELY: Home
- - [https://www.opensafely.org](https://www.opensafely.org)
- - date published: 2023-10-25T21:53:15.561678+00:00
- - user: None
- - tags: []
-
-## Home - The Open Sanctuary Project
- - [https://opensanctuary.org](https://opensanctuary.org)
- - date published: 2023-10-25T21:53:20.102001+00:00
- - user: None
- - tags: []
-
-## OpenSCAD
- - [https://www.openscad.org](https://www.openscad.org)
- - date published: 2023-10-27T10:20:28.967315+00:00
- - user: None
- - tags: ['open source', 'cad software']
-
-## OpenSecrets
- - [https://www.opensecrets.org](https://www.opensecrets.org)
- - date published: 2023-10-25T21:53:23.720431+00:00
- - user: None
- - tags: ['politics', 'news']
-
-## Scale your e-commerce operations by using multi-channel fulfillment | Openship
- - [https://openship.org](https://openship.org)
- - date published: 2023-10-25T21:53:32.292650+00:00
- - user: None
- - tags: []
-
-## Home - Voices of Open Source
- - [https://blog.opensource.org](https://blog.opensource.org)
- - date published: 2023-10-25T21:53:35.210044+00:00
- - user: None
- - tags: []
-
-## Open Source Initiative
- - [https://opensource.org](https://opensource.org)
- - date published: 2023-12-13T15:37:03.108899+00:00
- - user: None
- - tags: ['open source']
-
-## OpenSSF Best Practices Working Group (WG)
- - [https://best.openssf.org](https://best.openssf.org)
- - date published: 2023-12-01T12:40:53.021877+00:00
- - user: None
- - tags: []
-
-## Home - Open Source Security Foundation
- - [https://openssf.org](https://openssf.org)
- - date published: 2023-10-25T21:53:38.058024+00:00
- - user: None
- - tags: []
-
-## https://mta.openssl.org
- - [https://mta.openssl.org](https://mta.openssl.org)
- - date published: 2024-01-09T03:41:54.854164+00:00
- - user: None
- - tags: []
-
-## /index.html
- - [https://www.openssl.org](https://www.openssl.org)
- - date published: 2023-10-25T21:53:40.757319+00:00
- - user: None
- - tags: []
-
-## Home | Open Steno Project
- - [https://www.openstenoproject.org](https://www.openstenoproject.org)
- - date published: 2023-10-25T21:53:42.685049+00:00
- - user: None
- - tags: []
-
-## OpenStreetMap Blog | Supporting the OpenStreetMap project
- - [https://blog.openstreetmap.org](https://blog.openstreetmap.org)
- - date published: 2023-10-25T21:54:00.090175+00:00
- - user: None
- - tags: []
-
-## OpenStreetMap
- - [https://www.openstreetmap.org](https://www.openstreetmap.org)
- - date published: 2023-10-25T08:25:21.448647+00:00
- - user: None
- - tags: ['maps', 'open source', 'service maps', 'open street maps']
-
-## Get openSUSE
- - [https://get.opensuse.org](https://get.opensuse.org)
- - date published: 2023-10-25T21:54:02.204473+00:00
- - user: None
- - tags: []
-
-## openSUSE News
- - [https://news.opensuse.org](https://news.opensuse.org)
- - date published: 2023-10-25T21:54:11.240130+00:00
- - user: None
- - tags: []
-
-## https://opentf.org
- - [https://opentf.org](https://opentf.org)
- - date published: 2023-10-25T21:54:12.348282+00:00
- - user: None
- - tags: []
-
-## OpenTofu
- - [https://opentofu.org](https://opentofu.org)
- - date published: 2023-10-25T21:54:15.162985+00:00
- - user: None
- - tags: []
-
-## Opalstack: no site here.... yet!
- - [https://opentranscripts.org](https://opentranscripts.org)
- - date published: 2024-01-09T03:41:56.346236+00:00
- - user: None
- - tags: []
-
-## OpenTTD | OpenTTD's Wiki
- - [https://wiki.openttd.org](https://wiki.openttd.org)
- - date published: 2023-10-25T21:54:22.399587+00:00
- - user: None
- - tags: []
-
-## OpenTTD | Home
- - [https://www.openttd.org](https://www.openttd.org)
- - date published: 2023-10-25T21:54:30.332521+00:00
- - user: None
- - tags: []
-
-## Open Web Docs
- - [https://openwebdocs.org](https://openwebdocs.org)
- - date published: 2023-10-25T21:54:33.151027+00:00
- - user: None
- - tags: []
-
-## OpenWrt Mailing Lists
- - [https://lists.openwrt.org](https://lists.openwrt.org)
- - date published: 2024-01-10T22:07:03.931154+00:00
- - user: None
- - tags: []
-
-## [OpenWrt Wiki] Welcome to the OpenWrt Project
- - [https://openwrt.org](https://openwrt.org)
- - date published: 2023-10-25T21:54:37.020038+00:00
- - user: None
- - tags: ['routers', 'operating system']
-
-## OPNsense® a true open source security platform and more - OPNsense® is a true open source firewall and more
- - [https://opnsense.org](https://opnsense.org)
- - date published: 2023-10-25T21:54:42.178862+00:00
- - user: None
- - tags: []
-
-## Optica Publishing Group
- - [https://opg.optica.org](https://opg.optica.org)
- - date published: 2023-10-25T21:54:45.913732+00:00
- - user: None
- - tags: []
-
-## Home | Optica
- - [https://www.optica.org](https://www.optica.org)
- - date published: 2023-10-25T21:54:49.744968+00:00
- - user: None
- - tags: []
-
-## Orange Pi - Orange Pi official website - Orange Pi development board, open source hardware, open source
-        software, open source chip, computer keyboard
- - [http://www.orangepi.org](http://www.orangepi.org)
- - date published: 2023-10-25T21:54:52.162979+00:00
- - user: None
- - tags: []
-
-## Organiser Weekly - Voice of the Nation
- - [https://organiser.org](https://organiser.org)
- - date published: 2023-11-25T22:29:38.591315+00:00
- - user: None
- - tags: []
-
-## Orion Magazine | Nature, Culture & Place
- - [https://orionmagazine.org](https://orionmagazine.org)
- - date published: 2023-10-25T21:54:59.353571+00:00
- - user: None
- - tags: []
-
-## OS.js Web Desktop
- - [https://www.os-js.org](https://www.os-js.org)
- - date published: 2023-10-25T21:55:06.625725+00:00
- - user: None
- - tags: []
-
-## Oscars.org | Academy of Motion Picture Arts and Sciences
- - [https://www.oscars.org](https://www.oscars.org)
- - date published: 2024-01-12T21:10:31+00:00
- - user: rumpel
- - tags: ['oscars']
 

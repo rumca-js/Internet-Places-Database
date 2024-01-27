@@ -1,3 +1,250 @@
+## OpenProcessing - Creative Coding for the Curious Mind
+ - [https://openprocessing.org](https://openprocessing.org)
+ - date published: 2023-10-25T21:53:01.379367+00:00
+ - user: None
+ - tags: []
+
+## OpenRailwayMap
+ - [https://www.openrailwaymap.org](https://www.openrailwaymap.org)
+ - date published: 2023-10-25T08:25:20.516625+00:00
+ - user: None
+ - tags: []
+
+## OpenRCT2 project
+ - [https://openrct2.org](https://openrct2.org)
+ - date published: 2023-10-25T21:53:01.909495+00:00
+ - user: None
+ - tags: []
+
+## OpenRefine
+ - [https://openrefine.org](https://openrefine.org)
+ - date published: 2023-11-01T08:44:36.756515+00:00
+ - user: None
+ - tags: []
+
+## OpenRetro Game Database
+ - [https://openretro.org](https://openretro.org)
+ - date published: 2023-10-25T11:18:22.724488+00:00
+ - user: None
+ - tags: []
+
+## Home | Open Rights Group
+ - [https://www.openrightsgroup.org](https://www.openrightsgroup.org)
+ - date published: 2023-10-25T21:53:03.331761+00:00
+ - user: None
+ - tags: []
+
+## Open Robotics
+ - [https://www.openrobotics.org](https://www.openrobotics.org)
+ - date published: 2023-10-25T21:53:09.705140+00:00
+ - user: None
+ - tags: []
+
+## Open RSS
+ - [https://openrss.org](https://openrss.org)
+ - date published: 2024-01-16T00:45:10.574589+00:00
+ - user: None
+ - tags: ['rss']
+
+## A Grand Theft Auto III Re-Implementation
+ - [https://openrw.org](https://openrw.org)
+ - date published: 2023-10-31T19:53:00+00:00
+ - user: rumpel
+ - tags: ['game', 'open source', 'grand theft auto']
+
+## OpenSAFELY: Home
+ - [https://www.opensafely.org](https://www.opensafely.org)
+ - date published: 2023-10-25T21:53:15.561678+00:00
+ - user: None
+ - tags: []
+
+## Home - The Open Sanctuary Project
+ - [https://opensanctuary.org](https://opensanctuary.org)
+ - date published: 2023-10-25T21:53:20.102001+00:00
+ - user: None
+ - tags: []
+
+## OpenSCAD
+ - [https://www.openscad.org](https://www.openscad.org)
+ - date published: 2023-10-27T10:20:28.967315+00:00
+ - user: None
+ - tags: ['open source', 'cad software']
+
+## OpenSecrets
+ - [https://www.opensecrets.org](https://www.opensecrets.org)
+ - date published: 2023-10-25T21:53:23.720431+00:00
+ - user: None
+ - tags: ['politics', 'news']
+
+## Scale your e-commerce operations by using multi-channel fulfillment | Openship
+ - [https://openship.org](https://openship.org)
+ - date published: 2023-10-25T21:53:32.292650+00:00
+ - user: None
+ - tags: []
+
+## Home - Voices of Open Source
+ - [https://blog.opensource.org](https://blog.opensource.org)
+ - date published: 2023-10-25T21:53:35.210044+00:00
+ - user: None
+ - tags: []
+
+## Open Source Initiative
+ - [https://opensource.org](https://opensource.org)
+ - date published: 2023-12-13T15:37:03.108899+00:00
+ - user: None
+ - tags: ['open source']
+
+## OpenSSF Best Practices Working Group (WG)
+ - [https://best.openssf.org](https://best.openssf.org)
+ - date published: 2023-12-01T12:40:53.021877+00:00
+ - user: None
+ - tags: []
+
+## Home - Open Source Security Foundation
+ - [https://openssf.org](https://openssf.org)
+ - date published: 2023-10-25T21:53:38.058024+00:00
+ - user: None
+ - tags: []
+
+## https://mta.openssl.org
+ - [https://mta.openssl.org](https://mta.openssl.org)
+ - date published: 2024-01-09T03:41:54.854164+00:00
+ - user: None
+ - tags: []
+
+## /index.html
+ - [https://www.openssl.org](https://www.openssl.org)
+ - date published: 2023-10-25T21:53:40.757319+00:00
+ - user: None
+ - tags: []
+
+## Home | Open Steno Project
+ - [https://www.openstenoproject.org](https://www.openstenoproject.org)
+ - date published: 2023-10-25T21:53:42.685049+00:00
+ - user: None
+ - tags: []
+
+## OpenStreetMap Blog | Supporting the OpenStreetMap project
+ - [https://blog.openstreetmap.org](https://blog.openstreetmap.org)
+ - date published: 2023-10-25T21:54:00.090175+00:00
+ - user: None
+ - tags: []
+
+## OpenStreetMap
+ - [https://www.openstreetmap.org](https://www.openstreetmap.org)
+ - date published: 2023-10-25T08:25:21.448647+00:00
+ - user: None
+ - tags: ['maps', 'open source', 'service maps', 'open street maps']
+
+## Get openSUSE
+ - [https://get.opensuse.org](https://get.opensuse.org)
+ - date published: 2023-10-25T21:54:02.204473+00:00
+ - user: None
+ - tags: []
+
+## openSUSE News
+ - [https://news.opensuse.org](https://news.opensuse.org)
+ - date published: 2023-10-25T21:54:11.240130+00:00
+ - user: None
+ - tags: []
+
+## https://opentf.org
+ - [https://opentf.org](https://opentf.org)
+ - date published: 2023-10-25T21:54:12.348282+00:00
+ - user: None
+ - tags: []
+
+## OpenTofu
+ - [https://opentofu.org](https://opentofu.org)
+ - date published: 2023-10-25T21:54:15.162985+00:00
+ - user: None
+ - tags: []
+
+## Opalstack: no site here.... yet!
+ - [https://opentranscripts.org](https://opentranscripts.org)
+ - date published: 2024-01-09T03:41:56.346236+00:00
+ - user: None
+ - tags: []
+
+## OpenTTD | OpenTTD's Wiki
+ - [https://wiki.openttd.org](https://wiki.openttd.org)
+ - date published: 2023-10-25T21:54:22.399587+00:00
+ - user: None
+ - tags: []
+
+## OpenTTD | Home
+ - [https://www.openttd.org](https://www.openttd.org)
+ - date published: 2023-10-25T21:54:30.332521+00:00
+ - user: None
+ - tags: []
+
+## Open Web Docs
+ - [https://openwebdocs.org](https://openwebdocs.org)
+ - date published: 2023-10-25T21:54:33.151027+00:00
+ - user: None
+ - tags: []
+
+## OpenWrt Mailing Lists
+ - [https://lists.openwrt.org](https://lists.openwrt.org)
+ - date published: 2024-01-10T22:07:03.931154+00:00
+ - user: None
+ - tags: []
+
+## [OpenWrt Wiki] Welcome to the OpenWrt Project
+ - [https://openwrt.org](https://openwrt.org)
+ - date published: 2023-10-25T21:54:37.020038+00:00
+ - user: None
+ - tags: ['routers', 'operating system']
+
+## OPNsense® a true open source security platform and more - OPNsense® is a true open source firewall and more
+ - [https://opnsense.org](https://opnsense.org)
+ - date published: 2023-10-25T21:54:42.178862+00:00
+ - user: None
+ - tags: []
+
+## Optica Publishing Group
+ - [https://opg.optica.org](https://opg.optica.org)
+ - date published: 2023-10-25T21:54:45.913732+00:00
+ - user: None
+ - tags: []
+
+## Home | Optica
+ - [https://www.optica.org](https://www.optica.org)
+ - date published: 2023-10-25T21:54:49.744968+00:00
+ - user: None
+ - tags: []
+
+## Orange Pi - Orange Pi official website - Orange Pi development board, open source hardware, open source
+        software, open source chip, computer keyboard
+ - [http://www.orangepi.org](http://www.orangepi.org)
+ - date published: 2023-10-25T21:54:52.162979+00:00
+ - user: None
+ - tags: []
+
+## Organiser Weekly - Voice of the Nation
+ - [https://organiser.org](https://organiser.org)
+ - date published: 2023-11-25T22:29:38.591315+00:00
+ - user: None
+ - tags: []
+
+## Orion Magazine | Nature, Culture & Place
+ - [https://orionmagazine.org](https://orionmagazine.org)
+ - date published: 2023-10-25T21:54:59.353571+00:00
+ - user: None
+ - tags: []
+
+## OS.js Web Desktop
+ - [https://www.os-js.org](https://www.os-js.org)
+ - date published: 2023-10-25T21:55:06.625725+00:00
+ - user: None
+ - tags: []
+
+## Oscars.org | Academy of Motion Picture Arts and Sciences
+ - [https://www.oscars.org](https://www.oscars.org)
+ - date published: 2024-01-12T21:10:31+00:00
+ - user: rumpel
+ - tags: ['oscars']
+
 ## Expanded Main Page - OSDev Wiki
  - [https://wiki.osdev.org](https://wiki.osdev.org)
  - date published: 2023-12-26T20:32:40.382941+00:00
@@ -310,6 +557,12 @@
  - user: None
  - tags: []
 
+## Peter Krautzberger
+ - [https://www.peterkrautzberger.org](https://www.peterkrautzberger.org)
+ - date published: 2024-01-26T02:22:06.209671+00:00
+ - user: None
+ - tags: []
+
 ## People for the Ethical Treatment of Reinforcement Learners
  - [https://petrl.org](https://petrl.org)
  - date published: 2024-01-09T03:41:58.419634+00:00
@@ -529,6 +782,12 @@
 ## Plasma Mobile
  - [https://plasma-mobile.org](https://plasma-mobile.org)
  - date published: 2023-10-25T21:58:26.355725+00:00
+ - user: None
+ - tags: []
+
+## Plato
+ - [https://www.platoedu.org](https://www.platoedu.org)
+ - date published: 2024-01-26T22:20:04.169174+00:00
  - user: None
  - tags: []
 
@@ -1429,6 +1688,12 @@
 ## rkyv - rkyv
  - [https://rkyv.org](https://rkyv.org)
  - date published: 2024-01-13T07:27:30.454779+00:00
+ - user: None
+ - tags: []
+
+## RMI
+ - [https://rmi.org](https://rmi.org)
+ - date published: 2024-01-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2406,6 +2671,12 @@
  - user: None
  - tags: []
 
+## Spyglass
+ - [https://spyglass.org](https://spyglass.org)
+ - date published: 2024-01-26T19:59:51.093397+00:00
+ - user: None
+ - tags: []
+
 ## Sqids – Generate Short Unique IDs from Numbers
  - [https://sqids.org](https://sqids.org)
  - date published: 2023-11-25T17:30:06+00:00
@@ -3201,6 +3472,12 @@
 ## tinygrad: A simple and powerful neural network framework
  - [https://tinygrad.org](https://tinygrad.org)
  - date published: 2023-10-25T22:14:54.100856+00:00
+ - user: None
+ - tags: []
+
+## https://www.tinysa.org
+ - [https://www.tinysa.org](https://www.tinysa.org)
+ - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5726,280 +6003,4 @@ is forbidden
  - date published: 2023-10-29T15:30:33.114136+00:00
  - user: None
  - tags: ['music band', 'celebrity']
-
-## Demotywatory.pl
- - [https://demotywatory.pl](https://demotywatory.pl)
- - date published: 2023-10-31T13:19:51.709657+00:00
- - user: None
- - tags: ['funny images', 'memes']
-
-## DEON.pl
- - [https://deon.pl](https://deon.pl)
- - date published: 2023-10-25T22:26:47.842454+00:00
- - user: None
- - tags: ['religion', 'catholic news', 'christian news']
-
-## Archidiecezja Krakowska - Strona Archidiecezji Krakowskiej
- - [https://diecezja.pl](https://diecezja.pl)
- - date published: 2023-11-07T09:24:34.029916+00:00
- - user: None
- - tags: []
-
-## Disney Polska | Oficjalna strona filmów Disneya
- - [https://www.disney.pl](https://www.disney.pl)
- - date published: 2023-10-25T11:29:08.216261+00:00
- - user: None
- - tags: []
-
-## dominikanie.pl – Katolicka platforma wideo z dedykowanymi materiałami o tematyce liturgicznej, teologicznej, kulinarnej i dla dzieci.
- - [https://dominikanie.pl](https://dominikanie.pl)
- - date published: 2023-11-27T12:43:38+00:00
- - user: rumpel
- - tags: ['christian news', 'catholic news']
-
-## Donald.pl
- - [https://www.donald.pl](https://www.donald.pl)
- - date published: 2023-10-25T22:26:50.268952+00:00
- - user: None
- - tags: []
-
-## Do Rzeczy – Piszemy o tym co najważniejsze, zawsze do rzeczy
- - [https://dorzeczy.pl](https://dorzeczy.pl)
- - date published: 2023-10-25T22:26:53.947542+00:00
- - user: None
- - tags: []
-
-## Dragon Sector
- - [https://dragonsector.pl](https://dragonsector.pl)
- - date published: 2023-12-06T11:57:51+00:00
- - user: rumpel
- - tags: ['cybersecurity', 'hackers']
-
-## Polskie centrum Deluxe Ski Jump 2 ▪ DSJ2.pl
- - [https://dsj2.pl](https://dsj2.pl)
- - date published: 2023-10-26T20:51:51.569154+00:00
- - user: None
- - tags: ['retro game']
-
-## Kultura i Sztuka - książki, teatr, sztuka -  kultura wysoka i masowa - Dziennik.pl  - Dziennik
- - [https://kultura.dziennik.pl](https://kultura.dziennik.pl)
- - date published: 2023-10-25T22:26:59.359405+00:00
- - user: None
- - tags: []
-
-## Wiadomości z kraju i ze świata - Dziennik.pl - Wydarzenia i Fakty  - Dziennik
- - [https://wiadomosci.dziennik.pl](https://wiadomosci.dziennik.pl)
- - date published: 2023-10-25T22:27:05.933765+00:00
- - user: None
- - tags: []
-
-## Dziennik Bałtycki - Wiadomości Trójmiasto, Wiadomości Pomorskie
- - [https://dziennikbaltycki.pl](https://dziennikbaltycki.pl)
- - date published: 2023-10-25T22:27:19.284645+00:00
- - user: None
- - tags: []
-
-## Dziennik Polski - Wiadomości Kraków, Wiadomości Małopolskie
- - [https://dziennikpolski24.pl](https://dziennikpolski24.pl)
- - date published: 2023-11-22T11:44:36.660000+00:00
- - user: None
- - tags: []
-
-## Elektronika, Odzież, Samochody, Przedmioty kolekcjonerskie i jeszcze więcej | eBay
- - [https://www.ebay.pl](https://www.ebay.pl)
- - date published: 2023-10-24T20:20:08.021134+00:00
- - user: None
- - tags: ['marketplace']
-
-## Bilety na koncerty, imprezy, mecze i do teatru 2023/2024 | eBilet.pl
- - [https://www.ebilet.pl](https://www.ebilet.pl)
- - date published: 2023-10-25T15:02:41.696363+00:00
- - user: None
- - tags: []
-
-## Księgarnia ebookpoint.pl - ebooki i audiobooki, książki: ePub, PDF, mobi, mp3
- - [https://ebookpoint.pl](https://ebookpoint.pl)
- - date published: 2023-10-24T20:18:27.785398+00:00
- - user: None
- - tags: []
-
-## eDziecko.pl - Serwis dla Rodziców. Ciąŋa, Poród, Zdrowie i Wychowanie Dzieci
- - [https://www.edziecko.pl](https://www.edziecko.pl)
- - date published: 2023-11-14T13:15:06.737125+00:00
- - user: None
- - tags: []
-
-## Strona główna | eKAI
- - [https://www.ekai.pl](https://www.ekai.pl)
- - date published: 2023-11-27T12:36:53+00:00
- - user: rumpel
- - tags: ['christian news', 'catholic news']
-
-## elektroda.pl - Electronics Tutorials, Forums, Tools, IoT, and More
- - [https://www.elektroda.pl](https://www.elektroda.pl)
- - date published: 2023-10-27T11:55:07.546233+00:00
- - user: None
- - tags: ['internet forum', 'electricity', 'hardware']
-
-## ElektronikaB2B - Portal branżowy dla Elektroników
- - [https://elektronikab2b.pl](https://elektronikab2b.pl)
- - date published: 2023-11-01T06:49:25.502818+00:00
- - user: None
- - tags: ['electronic news']
-
-## https://www.elektrycznegitary.pl
- - [https://www.elektrycznegitary.pl](https://www.elektrycznegitary.pl)
- - date published: 2024-01-09T03:44:08.519565+00:00
- - user: None
- - tags: []
-
-## Elportal
- - [https://elportal.pl](https://elportal.pl)
- - date published: 2023-12-13T14:59:18.203496+00:00
- - user: None
- - tags: ['electronics']
-
-## Sklep elektroniczny, sklep dla robotyków  - elty.pl
- - [https://elty.pl](https://elty.pl)
- - date published: 2023-10-25T11:16:07.459983+00:00
- - user: None
- - tags: ['raspberry', 'electronic parts']
-
-## Main Home - L.U.C.
- - [https://eluce.pl](https://eluce.pl)
- - date published: 2023-10-30T13:37:08.582551+00:00
- - user: None
- - tags: ['music band']
-
-## Enklawa Network - Gry RPG, gry MMORPG, gry strategiczne, fantastyka, konwenty.
- - [https://enklawanetwork.pl](https://enklawanetwork.pl)
- - date published: 2023-10-27T13:53:39.500995+00:00
- - user: None
- - tags: ['fantasy', 'game news']
-
-## epoznan.pl - pierwszy portal Poznania
- - [https://epoznan.pl](https://epoznan.pl)
- - date published: 2023-10-25T10:14:12.175401+00:00
- - user: None
- - tags: []
-
-## Radio ESKA: Hity na czasie! - ESKA.pl
- - [https://www.eska.pl](https://www.eska.pl)
- - date published: 2023-10-25T10:30:54.777063+00:00
- - user: None
- - tags: []
-
-## Estrada i Studio - serwis dla muzyków i producentów
- - [https://estradaistudio.pl](https://estradaistudio.pl)
- - date published: 2023-10-28T20:08:29.693117+00:00
- - user: None
- - tags: ['audio news']
-
-## EURACTIV.pl
- - [https://www.euractiv.pl](https://www.euractiv.pl)
- - date published: 2023-12-02T02:06:18.332350+00:00
- - user: None
- - tags: []
-
-## Eventim Bilety na Koncerty, Bilety na Imprezy
- - [https://www.eventim.pl](https://www.eventim.pl)
- - date published: 2023-10-25T15:02:30.121028+00:00
- - user: None
- - tags: []
-
-## Amiga aktualności - AmigaOS, Amiga Classic, AmigaOne, programy, gry, porady, forum
- - [https://exec.pl](https://exec.pl)
- - date published: 2024-01-09T03:44:09.912391+00:00
- - user: None
- - tags: []
-
-## Amiga aktualności - AmigaOS, Amiga Classic, AmigaOne, programy, gry, porady, forum
- - [https://www.exec.pl](https://www.exec.pl)
- - date published: 2023-10-30T10:10:51.905899+00:00
- - user: None
- - tags: ['amiga']
-
-## stare gry do pobrania - stare gry to nasza pasja - eXtragry.pl
- - [https://www.extragry.pl](https://www.extragry.pl)
- - date published: 2024-01-09T03:44:11.335073+00:00
- - user: None
- - tags: []
-
-## Filmweb - filmy takie jak Ty!
- - [https://www.filmweb.pl](https://www.filmweb.pl)
- - date published: 2023-10-27T13:25:39.706562+00:00
- - user: None
- - tags: ['movies', 'ranking']
-
-## FISZ EMADE - TWORZYWO
- - [https://fiszemade.pl](https://fiszemade.pl)
- - date published: 2024-01-09T03:44:12.023195+00:00
- - user: None
- - tags: []
-
-## FISZ EMADE TWORZYWO
- - [https://sklep.fiszemade.pl](https://sklep.fiszemade.pl)
- - date published: 2023-10-29T15:32:44.993626+00:00
- - user: None
- - tags: []
-
-## Budowa domu, remont mieszkania, meble na wymiar Fixly.pl
- - [https://fixly.pl](https://fixly.pl)
- - date published: 2023-11-13T09:42:24.591486+00:00
- - user: None
- - tags: ['services']
-
-## FL STUDIO - FL STUDIO - POLSKIE CENTRUM
- - [https://flstudio.pl](https://flstudio.pl)
- - date published: 2023-10-28T20:08:12.231521+00:00
- - user: None
- - tags: []
-
-## Turystyka medyczna. Przeszczepy włosów, zabiegi stomatologiczne i chirurgia plastyczna w Turcji
- - [https://flydoctor.pl](https://flydoctor.pl)
- - date published: 2023-11-27T14:52:39.953922+00:00
- - user: None
- - tags: []
-
-## Forbot
- - [https://forbot.pl](https://forbot.pl)
- - date published: 2023-11-01T06:48:34.843254+00:00
- - user: None
- - tags: ['electronic news']
-
-## Forsal.pl – Biznes, Gospodarka, Świat
- - [https://forsal.pl](https://forsal.pl)
- - date published: 2023-10-25T10:31:03.680126+00:00
- - user: None
- - tags: []
-
-## None
- - [https://rss.forsal.pl](https://rss.forsal.pl)
- - date published: 2024-01-09T03:44:12.545694+00:00
- - user: None
- - tags: []
-
-## Nowości świata fotografii zawsze najszybciej na Fotopolis.pl
- - [https://www.fotopolis.pl](https://www.fotopolis.pl)
- - date published: 2023-12-13T14:59:00.143744+00:00
- - user: None
- - tags: ['photography']
-
-## Fronda - strona główna | Fronda.pl
- - [https://www.fronda.pl](https://www.fronda.pl)
- - date published: 2023-10-25T22:27:20.822064+00:00
- - user: None
- - tags: []
-
-## A Certain Magical Index
- - [https://pop.fsck.pl](https://pop.fsck.pl)
- - date published: 2023-12-06T08:54:14.512570+00:00
- - user: None
- - tags: ['hardware', 'personal']
-
-## FUTUREBEAT.pl
- - [https://futurebeat.pl](https://futurebeat.pl)
- - date published: 2023-11-27T17:47:00.062717+00:00
- - user: None
- - tags: []
 
