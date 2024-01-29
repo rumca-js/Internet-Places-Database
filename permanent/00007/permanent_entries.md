@@ -1,3 +1,159 @@
+## Medical Xpress - medical research advances and health news
+ - [https://medicalxpress.com](https://medicalxpress.com)
+ - date published: 2023-10-25T10:46:01.116429+00:00
+ - user: None
+ - tags: []
+
+## 504 Gateway Time-out
+ - [https://medispank.com](https://medispank.com)
+ - date published: 2024-01-09T02:43:41.258516+00:00
+ - user: None
+ - tags: []
+
+## - Meditación y Psicología
+ - [https://meditacionypsicologia.com](https://meditacionypsicologia.com)
+ - date published: 2023-12-20T19:15:11.085725+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paul Greenberg – Medium
+ - [https://4fishgreenberg.medium.com](https://4fishgreenberg.medium.com)
+ - date published: 2023-10-25T10:18:26.978914+00:00
+ - user: None
+ - tags: []
+
+## The Data Observer – Medium
+ - [https://acceldataio.medium.com](https://acceldataio.medium.com)
+ - date published: 2023-10-25T10:18:29.480316+00:00
+ - user: None
+ - tags: []
+
+## Admiral Cloudberg – Medium
+ - [https://admiralcloudberg.medium.com](https://admiralcloudberg.medium.com)
+ - date published: 2023-10-25T10:18:31.319523+00:00
+ - user: None
+ - tags: []
+
+## adrian cockcroft – Medium
+ - [https://adrianco.medium.com](https://adrianco.medium.com)
+ - date published: 2023-10-25T10:18:33.437352+00:00
+ - user: None
+ - tags: []
+
+## Sander Mertens – Medium
+ - [https://ajmmertens.medium.com](https://ajmmertens.medium.com)
+ - date published: 2023-10-25T10:18:35.461737+00:00
+ - user: None
+ - tags: []
+
+## Akshay Raveendran – Medium
+ - [https://akshayraveendran.medium.com](https://akshayraveendran.medium.com)
+ - date published: 2023-11-01T08:42:30.094336+00:00
+ - user: None
+ - tags: []
+
+## Alen Tred – Medium
+ - [https://alentred.medium.com](https://alentred.medium.com)
+ - date published: 2023-10-25T10:18:37.466546+00:00
+ - user: None
+ - tags: []
+
+## Alexandre Olive – Medium
+ - [https://alexandreolive.medium.com](https://alexandreolive.medium.com)
+ - date published: 2023-10-25T10:18:39.600805+00:00
+ - user: None
+ - tags: []
+
+## Anand Tyagi – Medium
+ - [https://anandtyagi.medium.com](https://anandtyagi.medium.com)
+ - date published: 2023-10-25T16:00:43.989533+00:00
+ - user: None
+ - tags: []
+
+## Andy Walker – Medium
+ - [https://andzwa.medium.com](https://andzwa.medium.com)
+ - date published: 2023-10-25T10:18:41.766784+00:00
+ - user: None
+ - tags: []
+
+## Avi Loeb – Medium
+ - [https://avi-loeb.medium.com](https://avi-loeb.medium.com)
+ - date published: 2023-10-25T10:18:43.733455+00:00
+ - user: None
+ - tags: []
+
+## Behdad Esfahbod – Medium
+ - [https://behdadesfahbod.medium.com](https://behdadesfahbod.medium.com)
+ - date published: 2023-10-25T10:18:46.008539+00:00
+ - user: None
+ - tags: []
+
+## Marianne Bellotti – Medium
+ - [https://bellmar.medium.com](https://bellmar.medium.com)
+ - date published: 2023-10-25T10:18:48.828996+00:00
+ - user: None
+ - tags: []
+
+## Ben Einstein – Medium
+ - [https://beneinstein.medium.com](https://beneinstein.medium.com)
+ - date published: 2023-10-25T10:18:51.271180+00:00
+ - user: None
+ - tags: []
+
+## Bilal Mahmood – Medium
+ - [https://bilalmahmood.medium.com](https://bilalmahmood.medium.com)
+ - date published: 2023-10-25T10:18:53.537436+00:00
+ - user: None
+ - tags: []
+
+## Billy Chasen – Medium
+ - [https://billychasen.medium.com](https://billychasen.medium.com)
+ - date published: 2023-10-25T10:18:55.524086+00:00
+ - user: None
+ - tags: []
+
+## The Medium Blog
+ - [https://blog.medium.com](https://blog.medium.com)
+ - date published: 2023-10-25T10:18:57.853664+00:00
+ - user: None
+ - tags: []
+
+## Vladimir Smirnov – Medium
+ - [https://boredengineer.medium.com](https://boredengineer.medium.com)
+ - date published: 2023-10-25T10:18:59.986959+00:00
+ - user: None
+ - tags: []
+
+## Bruce Sterling – Medium
+ - [https://bruces.medium.com](https://bruces.medium.com)
+ - date published: 2023-10-25T10:19:02.375482+00:00
+ - user: None
+ - tags: []
+
+## Byrne Hobart – Medium
+ - [https://byrnehobart.medium.com](https://byrnehobart.medium.com)
+ - date published: 2023-10-25T10:19:04.794986+00:00
+ - user: None
+ - tags: []
+
+## Catherine Andrews – Medium
+ - [https://candrews.medium.com](https://candrews.medium.com)
+ - date published: 2023-10-25T10:19:07.319497+00:00
+ - user: None
+ - tags: []
+
+## Carlos Arguelles – Medium
+ - [https://carloarg02.medium.com](https://carloarg02.medium.com)
+ - date published: 2023-11-14T03:03:34.674567+00:00
+ - user: None
+ - tags: []
+
+## Medium
+ - [https://cherp.medium.com](https://cherp.medium.com)
+ - date published: 2023-10-25T10:19:08.602659+00:00
+ - user: None
+ - tags: []
+
 ## Charles Chen – Medium
  - [https://chrlschn.medium.com](https://chrlschn.medium.com)
  - date published: 2023-10-25T10:19:10.864666+00:00
@@ -1216,6 +1372,12 @@
  - user: None
  - tags: ['personal']
 
+## michaelhoney.com
+ - [https://michaelhoney.com](https://michaelhoney.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
 ## None
  - [https://michaellabelle.com](https://michaellabelle.com)
  - date published: 2024-01-10T22:41:16.724719+00:00
@@ -1965,7 +2127,7 @@
  - [https://www.mobypixel.com](https://www.mobypixel.com)
  - date published: 2010-01-01T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Games and mods development for Windows, Linux and Mac - Mod DB
  - [https://www.moddb.com](https://www.moddb.com)
@@ -2933,6 +3095,12 @@
  - user: None
  - tags: []
 
+## nachoespino.com
+ - [https://nachoespino.com](https://nachoespino.com)
+ - date published: 2021-09-20T09:38:52+00:00
+ - user: None
+ - tags: []
+
 ## nadia payan 𓇚 leadership coach, speaker, author and montessori educator
  - [https://nadiapayan.com](https://nadiapayan.com)
  - date published: 2023-12-31T16:47:41.945766+00:00
@@ -3081,7 +3249,7 @@
  - [https://www.natemerrill.com](https://www.natemerrill.com)
  - date published: 2024-01-01T17:21:02.778781+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## nate's website
  - [https://www.nateranda.com](https://www.nateranda.com)
@@ -4143,7 +4311,7 @@
  - [https://www.nicklatoof.com](https://www.nicklatoof.com)
  - date published: 2023-11-29T15:47:43.364763+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Nick Montfort’s site
  - [https://nickm.com](https://nickm.com)
@@ -4163,6 +4331,12 @@
  - user: None
  - tags: []
 
+## Nick Simson – Yet another personal feed.
+ - [https://www.nicksimson.com](https://www.nicksimson.com)
+ - date published: 2024-01-27T17:53:44.094931+00:00
+ - user: None
+ - tags: []
+
 ## Nick Vitucci
  - [https://nickvitucci.com](https://nickvitucci.com)
  - date published: 2023-12-12T23:22:51.342722+00:00
@@ -4179,7 +4353,7 @@
  - [https://nicolarushton.com](https://nicolarushton.com)
  - date published: 2024-01-09T02:44:58.408245+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Chronique d'Humeur de Nicolas Bermond 2005 – 2023 – Perspective
  - [https://nicolas-bermond.com](https://nicolas-bermond.com)
@@ -4455,6 +4629,12 @@
 ## [NFC: The Internet Nirvana Fan Club]
  - [https://www.nirvanaclub.com](https://www.nirvanaclub.com)
  - date published: 2023-10-25T14:19:53.039695+00:00
+ - user: None
+ - tags: []
+
+## Another Dev's Two Cents
+ - [https://nishtahir.com](https://nishtahir.com)
+ - date published: 2024-01-27T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5356,6 +5536,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Odin flash
+ - [https://www.odinflash.com](https://www.odinflash.com)
+ - date published: 2024-01-28T16:04:45+00:00
+ - user: rumpel
+ - tags: ['android flash']
+
 ## Open Source ERP and CRM | Odoo
  - [https://www.odoo.com](https://www.odoo.com)
  - date published: 2024-01-08T07:29:29+00:00
@@ -5815,192 +6001,6 @@ Answering Machine Greetings!
 ## OpenAI
  - [https://openai.com](https://openai.com)
  - date published: 2023-10-25T11:28:25.619086+00:00
- - user: None
- - tags: []
-
-## OpenAI Platform
- - [https://platform.openai.com](https://platform.openai.com)
- - date published: 2023-10-25T16:26:25.632367+00:00
- - user: None
- - tags: []
-
-## Welcome to Spinning Up in Deep RL! — Spinning Up  documentation
- - [https://spinningup.openai.com](https://spinningup.openai.com)
- - date published: 2023-11-24T03:43:48.174303+00:00
- - user: None
- - tags: []
-
-## OpenAI Status
- - [https://status.openai.com](https://status.openai.com)
- - date published: 2023-10-25T16:26:27.103892+00:00
- - user: None
- - tags: []
-
-## Home | OpenBSD Handbook
- - [https://www.openbsdhandbook.com](https://www.openbsdhandbook.com)
- - date published: 2023-10-25T16:26:28.495244+00:00
- - user: None
- - tags: []
-
-## OpenBW – free and open-source
- - [https://www.openbw.com](https://www.openbw.com)
- - date published: 2024-01-09T02:45:29.927017+00:00
- - user: None
- - tags: []
-
-## OpenCage blog - what's new at OpenCage
- - [https://blog.opencagedata.com](https://blog.opencagedata.com)
- - date published: 2023-10-25T16:26:29.828123+00:00
- - user: None
- - tags: []
-
-## Raise and spend money with full transparency.
- - [https://opencollective.com](https://opencollective.com)
- - date published: 2023-12-11T17:46:06.323429+00:00
- - user: None
- - tags: ['fundrising organization']
-
-## Home | Open Core Ventures
- - [https://opencoreventures.com](https://opencoreventures.com)
- - date published: 2023-10-25T16:26:31.896557+00:00
- - user: None
- - tags: []
-
-## OpenCritic - The top critics in gaming. All in one place.
- - [https://opencritic.com](https://opencritic.com)
- - date published: 2023-10-27T07:30:11.127691+00:00
- - user: None
- - tags: ['game news']
-
-## The best free cultural & educational media on the web - Open Culture
- - [https://www.openculture.com](https://www.openculture.com)
- - date published: 2023-10-25T09:28:29.608798+00:00
- - user: None
- - tags: []
-
-## Cloud Delivered Enterprise Security by OpenDNS
- - [https://www.opendns.com](https://www.opendns.com)
- - date published: 2023-10-30T12:52:26.123819+00:00
- - user: None
- - tags: ['dns']
-
-## Home | OpenFaaS - Serverless Functions Made Simple
- - [https://www.openfaas.com](https://www.openfaas.com)
- - date published: 2023-10-25T16:26:32.887003+00:00
- - user: None
- - tags: []
-
-## The Open Heart Project - Susan Piver
- - [https://openheartproject.com](https://openheartproject.com)
- - date published: 2023-10-25T16:26:38.251087+00:00
- - user: None
- - tags: []
-
-## Openlayer - The evaluation workspace for machine learning
- - [https://www.openlayer.com](https://www.openlayer.com)
- - date published: 2023-10-25T16:26:39.469662+00:00
- - user: None
- - tags: []
-
-## Advancing connectivity for all | Opensignal
- - [https://www.opensignal.com](https://www.opensignal.com)
- - date published: 2023-10-25T16:26:41.916120+00:00
- - user: None
- - tags: []
-
-## Show HN: Open Source Heroes – Explore the world of Open Source
- - [https://opensource-heroes.com](https://opensource-heroes.com)
- - date published: 2023-11-06T18:16:28+00:00
- - user: None
- - tags: []
-
-## Open Source For You | Open Source Updates
- - [https://www.opensourceforu.com](https://www.opensourceforu.com)
- - date published: 2023-12-29T05:15:37.272678+00:00
- - user: None
- - tags: []
-
-## OpenSSH
- - [https://www.openssh.com](https://www.openssh.com)
- - date published: 2023-10-25T08:32:56.764937+00:00
- - user: None
- - tags: []
-
-## 503 Backend fetch failed
- - [https://blog.opensubtitles.com](https://blog.opensubtitles.com)
- - date published: 2023-11-16T14:55:26.595310+00:00
- - user: None
- - tags: []
-
-## OpenSX70
- - [https://opensx70.com](https://opensx70.com)
- - date published: 2023-11-01T08:42:52.647761+00:00
- - user: None
- - tags: []
-
-## Open Magazine
- - [https://openthemagazine.com](https://openthemagazine.com)
- - date published: 2023-10-25T16:26:47.462037+00:00
- - user: None
- - tags: []
-
-## Interactive Vim tutorial
- - [https://www.openvim.com](https://www.openvim.com)
- - date published: 2023-10-25T09:27:45.430152+00:00
- - user: None
- - tags: []
-
-## Openwall - bringing security into open computing environments
- - [https://www.openwall.com](https://www.openwall.com)
- - date published: 2023-10-25T16:26:56.278778+00:00
- - user: None
- - tags: []
-
-## The Opera Blog - News | Opera
- - [https://blogs.opera.com](https://blogs.opera.com)
- - date published: 2023-10-25T11:29:22.476464+00:00
- - user: None
- - tags: []
-
-## Opera Web Browser | Faster, Safer, Smarter | Opera
- - [https://www.opera.com](https://www.opera.com)
- - date published: 2023-11-01T08:41:07.913556+00:00
- - user: None
- - tags: []
-
-## Ant-Like Persistence
- - [https://blog.oppedahl.com](https://blog.oppedahl.com)
- - date published: 2023-10-25T16:27:01.429670+00:00
- - user: None
- - tags: []
-
-## Smartfony i akcesoria OPPO | OPPO Polska
- - [https://www.oppo.com](https://www.oppo.com)
- - date published: 2023-10-25T11:26:11.032644+00:00
- - user: None
- - tags: ['company']
-
-## Opposite Invictus
- - [https://oppositeinvictus.com](https://oppositeinvictus.com)
- - date published: 2023-10-25T16:27:04.778062+00:00
- - user: None
- - tags: []
-
-## Optimising Nutrition
- - [https://optimisingnutrition.com](https://optimisingnutrition.com)
- - date published: 2023-10-25T16:27:10.295055+00:00
- - user: None
- - tags: []
-
-## Home - Daintree Digital
- - [https://optimizedfit.com](https://optimizedfit.com)
- - date published: 2024-01-03T04:04:59.622792+00:00
- - user: None
- - tags: []
-
-## Opusmodus: Common Lisp Music Composition System
- - [https://opusmodus.com](https://opusmodus.com)
- - date published: 2023-11-08T10:57:11+00:00
  - user: None
  - tags: []
 

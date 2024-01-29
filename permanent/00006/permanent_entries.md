@@ -1,3 +1,141 @@
+## Bald Faced Truth by John Canzano | Substack
+ - [https://www.johncanzano.com](https://www.johncanzano.com)
+ - date published: 2023-12-06T19:21:06.131877+00:00
+ - user: None
+ - tags: []
+
+## John Cleese Live Tour
+ - [https://www.johncleeselive.com](https://www.johncleeselive.com)
+ - date published: 2023-10-30T10:56:21.749252+00:00
+ - user: None
+ - tags: []
+
+## Expert consulting in applied mathematics & data privacy
+ - [https://www.johndcook.com](https://www.johndcook.com)
+ - date published: 2023-10-25T15:30:12.313572+00:00
+ - user: None
+ - tags: []
+
+## John Doherty
+ - [https://www.johnfdoherty.com](https://www.johnfdoherty.com)
+ - date published: 2023-12-17T20:59:27.398614+00:00
+ - user: None
+ - tags: ['personal']
+
+## John Fial – Software Engineer, Developer, Human
+ - [https://www.johnfial.com](https://www.johnfial.com)
+ - date published: 2024-01-16T17:04:24.566102+00:00
+ - user: None
+ - tags: []
+
+## John Garvens - Salesforce Revenue Cloud Expert & Salesforce Career Coach
+ - [https://www.johngarvens.com](https://www.johngarvens.com)
+ - date published: 2024-01-02T03:35:31.713348+00:00
+ - user: None
+ - tags: []
+
+## John Higgs – Author of Love And Let Die, William Blake Vs The World, Watling Street and The KLF
+ - [https://johnhiggs.com](https://johnhiggs.com)
+ - date published: 2023-10-25T15:30:16.620693+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://johnj.com](https://johnj.com)
+ - date published: 2024-01-02T10:19:57.586845+00:00
+ - user: None
+ - tags: []
+
+## John Kappa ✦ Melbourne Based Designer & Creative Artist
+ - [https://johnkappa.com](https://johnkappa.com)
+ - date published: 2023-11-29T14:41:20.308656+00:00
+ - user: None
+ - tags: ['personal']
+
+## Johnny Cash Has Been Everywhere (Man)! - Music Hack Day London 2012 - Iain Mullan
+ - [https://www.johnnycashhasbeeneverywhere.com](https://www.johnnycashhasbeeneverywhere.com)
+ - date published: 2023-10-25T11:07:59.661696+00:00
+ - user: None
+ - tags: ['funny', 'animation']
+
+## 11.01 Introduction║J•D
+ - [https://johnnydecimal.com](https://johnnydecimal.com)
+ - date published: 2023-10-25T15:30:19.537551+00:00
+ - user: None
+ - tags: []
+
+## johnnyreilly | johnnyreilly
+ - [https://johnnyreilly.com](https://johnnyreilly.com)
+ - date published: 2023-10-25T15:30:28.366557+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Johnny's Software Lab! - Johnny's Software Lab
+ - [https://johnnysswlab.com](https://johnnysswlab.com)
+ - date published: 2023-10-25T15:30:38.384314+00:00
+ - user: None
+ - tags: []
+
+## Johnny Webber 🔥 – some thoughts, some links
+ - [https://johnnywebber.com](https://johnnywebber.com)
+ - date published: 2023-10-25T09:25:42.382699+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://johnpaulbaric.com](https://johnpaulbaric.com)
+ - date published: 2023-12-31T21:20:13.421240+00:00
+ - user: None
+ - tags: []
+
+## John P. Weiss Artist and Writer
+ - [https://johnpweiss.com](https://johnpweiss.com)
+ - date published: 2023-10-25T15:30:43.191667+00:00
+ - user: None
+ - tags: []
+
+## John Qian's blog
+ - [https://blog.johnqian.com](https://blog.johnqian.com)
+ - date published: 2023-10-25T15:30:45.804332+00:00
+ - user: None
+ - tags: []
+
+## John Reed Stark | Incident Response and Digital Compliance
+ - [https://www.johnreedstark.com](https://www.johnreedstark.com)
+ - date published: 2023-10-25T15:30:48.365940+00:00
+ - user: None
+ - tags: []
+
+## John's Website
+ - [https://johnthenerd.com](https://johnthenerd.com)
+ - date published: 2024-01-13T22:50:35.513248+00:00
+ - user: None
+ - tags: []
+
+## John's internet house
+ - [https://johnwhiles.com](https://johnwhiles.com)
+ - date published: 2023-11-18T22:08:05.217014+00:00
+ - user: None
+ - tags: []
+
+## - john wilker
+ - [https://johnwilker.com](https://johnwilker.com)
+ - date published: 2023-11-29T15:32:06.390097+00:00
+ - user: None
+ - tags: ['personal']
+
+## John Zanussi
+ - [https://johnzanussi.com](https://johnzanussi.com)
+ - date published: 2023-12-10T20:35:29.532868+00:00
+ - user: None
+ - tags: ['personal']
+
+## BATTLEBIT REMASTERED
+ - [https://joinbattlebit.com](https://joinbattlebit.com)
+ - date published: 2023-11-04T19:18:12.604508+00:00
+ - user: None
+ - tags: ['game', 'massive online multiplayer', 'mmo']
+
 ## BookWyrm: Social Reading and Reviewing
  - [https://joinbookwyrm.com](https://joinbookwyrm.com)
  - date published: 2023-10-25T15:30:50.406250+00:00
@@ -679,6 +817,12 @@
 ## Justyna Dorsz
  - [https://justynadorsz.com](https://justynadorsz.com)
  - date published: 2024-01-02T18:30:29.049637+00:00
+ - user: None
+ - tags: []
+
+## Home • Juul Labs
+ - [https://www.juullabs.com](https://www.juullabs.com)
+ - date published: 2024-01-27T08:46:16.701810+00:00
  - user: None
  - tags: []
 
@@ -2973,7 +3117,7 @@
  - [https://lennygale.com](https://lennygale.com)
  - date published: 2024-01-09T08:54:46.549587+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Lenny's Newsletter | Lenny Rachitsky | Substack
  - [https://www.lennysnewsletter.com](https://www.lennysnewsletter.com)
@@ -3812,6 +3956,12 @@
 ## A curated list of posts
  - [https://www.lockedinspace.com](https://www.lockedinspace.com)
  - date published: 2023-10-25T15:49:14.174047+00:00
+ - user: None
+ - tags: []
+
+## Lockedown SEO | Manufacturing & Industrial SEO | Local SEO
+ - [https://www.lockedownseo.com](https://www.lockedownseo.com)
+ - date published: 2024-01-28T23:16:27.413577+00:00
  - user: None
  - tags: []
 
@@ -4914,6 +5064,12 @@ diversions.
  - user: None
  - tags: []
 
+## Marc Koran - Skillstacking
+ - [https://marckoran.com](https://marckoran.com)
+ - date published: 2019-05-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Hello, I'm Marc Littlemore
  - [https://www.marclittlemore.com](https://www.marclittlemore.com)
  - date published: 2023-12-09T15:01:11.057762+00:00
@@ -5842,162 +5998,6 @@ diversions.
 ## Media Narodowe – bez poprawności politycznej
  - [https://medianarodowe.com](https://medianarodowe.com)
  - date published: 2023-10-25T16:00:37.956275+00:00
- - user: None
- - tags: []
-
-## Medical Xpress - medical research advances and health news
- - [https://medicalxpress.com](https://medicalxpress.com)
- - date published: 2023-10-25T10:46:01.116429+00:00
- - user: None
- - tags: []
-
-## 504 Gateway Time-out
- - [https://medispank.com](https://medispank.com)
- - date published: 2024-01-09T02:43:41.258516+00:00
- - user: None
- - tags: []
-
-## - Meditación y Psicología
- - [https://meditacionypsicologia.com](https://meditacionypsicologia.com)
- - date published: 2023-12-20T19:15:11.085725+00:00
- - user: None
- - tags: ['personal']
-
-## Paul Greenberg – Medium
- - [https://4fishgreenberg.medium.com](https://4fishgreenberg.medium.com)
- - date published: 2023-10-25T10:18:26.978914+00:00
- - user: None
- - tags: []
-
-## The Data Observer – Medium
- - [https://acceldataio.medium.com](https://acceldataio.medium.com)
- - date published: 2023-10-25T10:18:29.480316+00:00
- - user: None
- - tags: []
-
-## Admiral Cloudberg – Medium
- - [https://admiralcloudberg.medium.com](https://admiralcloudberg.medium.com)
- - date published: 2023-10-25T10:18:31.319523+00:00
- - user: None
- - tags: []
-
-## adrian cockcroft – Medium
- - [https://adrianco.medium.com](https://adrianco.medium.com)
- - date published: 2023-10-25T10:18:33.437352+00:00
- - user: None
- - tags: []
-
-## Sander Mertens – Medium
- - [https://ajmmertens.medium.com](https://ajmmertens.medium.com)
- - date published: 2023-10-25T10:18:35.461737+00:00
- - user: None
- - tags: []
-
-## Akshay Raveendran – Medium
- - [https://akshayraveendran.medium.com](https://akshayraveendran.medium.com)
- - date published: 2023-11-01T08:42:30.094336+00:00
- - user: None
- - tags: []
-
-## Alen Tred – Medium
- - [https://alentred.medium.com](https://alentred.medium.com)
- - date published: 2023-10-25T10:18:37.466546+00:00
- - user: None
- - tags: []
-
-## Alexandre Olive – Medium
- - [https://alexandreolive.medium.com](https://alexandreolive.medium.com)
- - date published: 2023-10-25T10:18:39.600805+00:00
- - user: None
- - tags: []
-
-## Anand Tyagi – Medium
- - [https://anandtyagi.medium.com](https://anandtyagi.medium.com)
- - date published: 2023-10-25T16:00:43.989533+00:00
- - user: None
- - tags: []
-
-## Andy Walker – Medium
- - [https://andzwa.medium.com](https://andzwa.medium.com)
- - date published: 2023-10-25T10:18:41.766784+00:00
- - user: None
- - tags: []
-
-## Avi Loeb – Medium
- - [https://avi-loeb.medium.com](https://avi-loeb.medium.com)
- - date published: 2023-10-25T10:18:43.733455+00:00
- - user: None
- - tags: []
-
-## Behdad Esfahbod – Medium
- - [https://behdadesfahbod.medium.com](https://behdadesfahbod.medium.com)
- - date published: 2023-10-25T10:18:46.008539+00:00
- - user: None
- - tags: []
-
-## Marianne Bellotti – Medium
- - [https://bellmar.medium.com](https://bellmar.medium.com)
- - date published: 2023-10-25T10:18:48.828996+00:00
- - user: None
- - tags: []
-
-## Ben Einstein – Medium
- - [https://beneinstein.medium.com](https://beneinstein.medium.com)
- - date published: 2023-10-25T10:18:51.271180+00:00
- - user: None
- - tags: []
-
-## Bilal Mahmood – Medium
- - [https://bilalmahmood.medium.com](https://bilalmahmood.medium.com)
- - date published: 2023-10-25T10:18:53.537436+00:00
- - user: None
- - tags: []
-
-## Billy Chasen – Medium
- - [https://billychasen.medium.com](https://billychasen.medium.com)
- - date published: 2023-10-25T10:18:55.524086+00:00
- - user: None
- - tags: []
-
-## The Medium Blog
- - [https://blog.medium.com](https://blog.medium.com)
- - date published: 2023-10-25T10:18:57.853664+00:00
- - user: None
- - tags: []
-
-## Vladimir Smirnov – Medium
- - [https://boredengineer.medium.com](https://boredengineer.medium.com)
- - date published: 2023-10-25T10:18:59.986959+00:00
- - user: None
- - tags: []
-
-## Bruce Sterling – Medium
- - [https://bruces.medium.com](https://bruces.medium.com)
- - date published: 2023-10-25T10:19:02.375482+00:00
- - user: None
- - tags: []
-
-## Byrne Hobart – Medium
- - [https://byrnehobart.medium.com](https://byrnehobart.medium.com)
- - date published: 2023-10-25T10:19:04.794986+00:00
- - user: None
- - tags: []
-
-## Catherine Andrews – Medium
- - [https://candrews.medium.com](https://candrews.medium.com)
- - date published: 2023-10-25T10:19:07.319497+00:00
- - user: None
- - tags: []
-
-## Carlos Arguelles – Medium
- - [https://carloarg02.medium.com](https://carloarg02.medium.com)
- - date published: 2023-11-14T03:03:34.674567+00:00
- - user: None
- - tags: []
-
-## Medium
- - [https://cherp.medium.com](https://cherp.medium.com)
- - date published: 2023-10-25T10:19:08.602659+00:00
  - user: None
  - tags: []
 

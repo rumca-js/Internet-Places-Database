@@ -1,3 +1,87 @@
+## The Cheese Professor | The Class You Always Wanted To Take
+ - [https://www.cheeseprofessor.com](https://www.cheeseprofessor.com)
+ - date published: 2023-10-25T13:21:10.552300+00:00
+ - user: None
+ - tags: []
+
+## Chelsea Troy
+ - [https://chelseatroy.com](https://chelseatroy.com)
+ - date published: 2023-10-25T13:21:13.217018+00:00
+ - user: None
+ - tags: []
+
+## Chemistry news, research and opinions | Chemistry World
+ - [https://www.chemistryworld.com](https://www.chemistryworld.com)
+ - date published: 2023-10-25T13:21:20.243948+00:00
+ - user: None
+ - tags: []
+
+## Chess.com - Play Chess Online - Free Games
+ - [https://www.chess.com](https://www.chess.com)
+ - date published: 2023-10-25T13:21:22.359293+00:00
+ - user: None
+ - tags: []
+
+## Chess - Play, Learn & Watch Live Tournaments - chess24 | chess24.com
+ - [https://chess24.com](https://chess24.com)
+ - date published: 2023-10-25T13:21:24.370913+00:00
+ - user: None
+ - tags: []
+
+## chess24 wall
+ - [https://new.chess24.com](https://new.chess24.com)
+ - date published: 2023-10-25T13:21:26.844592+00:00
+ - user: None
+ - tags: []
+
+## Chess News | ChessBase
+ - [https://en.chessbase.com](https://en.chessbase.com)
+ - date published: 2023-10-25T13:21:28.502428+00:00
+ - user: None
+ - tags: []
+
+## Chessdom - Chess, chess news, live chess games
+ - [https://www.chessdom.com](https://www.chessdom.com)
+ - date published: 2023-10-25T13:21:41.450959+00:00
+ - user: None
+ - tags: []
+
+## ChessMonitor.com - Analytics for Chess Players
+ - [https://www.chessmonitor.com](https://www.chessmonitor.com)
+ - date published: 2023-10-25T13:21:47.807179+00:00
+ - user: None
+ - tags: []
+
+## Chester Grant
+ - [https://www.chestergrant.com](https://www.chestergrant.com)
+ - date published: 2023-10-25T09:19:45.648985+00:00
+ - user: None
+ - tags: ['personal']
+
+## chiaracokieng.com
+ - [https://www.chiaracokieng.com](https://www.chiaracokieng.com)
+ - date published: 2024-01-10T23:52:41.513399+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://chicagocrusader.com](https://chicagocrusader.com)
+ - date published: 2024-01-06T04:56:24.963086+00:00
+ - user: None
+ - tags: []
+
+## Chicago Magazine
+ - [https://www.chicagomag.com](https://www.chicagomag.com)
+ - date published: 2023-10-25T13:21:56.030020+00:00
+ - user: None
+ - tags: []
+
+## Chicago Reader
+ - [https://chicagoreader.com](https://chicagoreader.com)
+ - date published: 2023-10-25T13:22:02.366112+00:00
+ - user: None
+ - tags: []
+
 ## Chicago Tribune: Chicago news, sports, weather, entertainment - Chicago Tribune
  - [https://www.chicagotribune.com](https://www.chicagotribune.com)
  - date published: 2023-10-25T10:37:22.041466+00:00
@@ -4462,6 +4546,12 @@
  - user: None
  - tags: []
 
+## Design Epic Life – Self Mastery and Life Design for High Achievers
+ - [https://designepiclife.com](https://designepiclife.com)
+ - date published: 2018-05-19T03:20:18+00:00
+ - user: None
+ - tags: []
+
 ## Design Made in Japan
  - [https://designmadeinjapan.com](https://designmadeinjapan.com)
  - date published: 2024-01-09T02:34:32.514694+00:00
@@ -5914,94 +6004,4 @@
  - date published: 2023-10-25T08:28:05.025287+00:00
  - user: None
  - tags: ['search engine']
-
-## Welcome | DuckDuckGo Help Pages
- - [https://help.duckduckgo.com](https://help.duckduckgo.com)
- - date published: 2023-10-25T13:59:34.994405+00:00
- - user: None
- - tags: []
-
-## Small Business Marketing Agency - Fractional CMO Services and Training by Duct Tape Marketing
- - [https://www.ducttapemarketing.com](https://www.ducttapemarketing.com)
- - date published: 2024-01-09T11:07:05.642700+00:00
- - user: None
- - tags: []
-
-## Duffel - The best API to sell travel.
- - [https://duffel.com](https://duffel.com)
- - date published: 2023-10-25T13:59:37.618037+00:00
- - user: None
- - tags: []
-
-## Games by Lucas Pope
- - [https://dukope.com](https://dukope.com)
- - date published: 2023-10-25T13:59:39.811375+00:00
- - user: None
- - tags: []
-
-## dullneon.com
- - [https://dullneon.com](https://dullneon.com)
- - date published: 2023-12-29T20:11:54.010781+00:00
- - user: None
- - tags: ['personal']
-
-## Dumb Cuneiform. We'll take your tweets and make them permanent clay tablets.
- - [https://dumbcuneiform.com](https://dumbcuneiform.com)
- - date published: 2023-10-25T13:59:42.146786+00:00
- - user: None
- - tags: []
-
-## Dumb Password Rules
- - [https://dumbpasswordrules.com](https://dumbpasswordrules.com)
- - date published: 2023-10-25T13:59:43.811839+00:00
- - user: None
- - tags: []
-
-## Bar & Line
- - [https://blog.duncangeere.com](https://blog.duncangeere.com)
- - date published: 2023-12-03T02:38:03.034981+00:00
- - user: None
- - tags: []
-
-## Duncan Geere
- - [https://www.duncangeere.com](https://www.duncangeere.com)
- - date published: 2023-12-03T10:58:21.192847+00:00
- - user: None
- - tags: ['personal']
-
-## Dune: Part Two | Official Movie Site
- - [https://www.dunemovie.com](https://www.dunemovie.com)
- - date published: 2023-11-13T13:00:16.333580+00:00
- - user: None
- - tags: ['movie', 'dune']
-
-## Dungeon Map Doodler
- - [https://dungeonmapdoodler.com](https://dungeonmapdoodler.com)
- - date published: 2023-10-25T13:59:52.064138+00:00
- - user: None
- - tags: ['role playing games']
-
-## Multi-Factor Authentication & Single Sign-On | Duo Security
- - [https://duo.com](https://duo.com)
- - date published: 2023-10-25T13:59:56.230418+00:00
- - user: None
- - tags: []
-
-## Duo Status
- - [https://status.duo.com](https://status.duo.com)
- - date published: 2023-10-25T14:00:01.542214+00:00
- - user: None
- - tags: []
-
-## Duolingo Blog | Writing about the best way to learn a language
- - [https://blog.duolingo.com](https://blog.duolingo.com)
- - date published: 2023-10-25T14:00:03.408327+00:00
- - user: None
- - tags: []
-
-## Duplicate Word Finder
- - [https://duplicateword.com](https://duplicateword.com)
- - date published: 2023-10-25T14:00:04.558446+00:00
- - user: None
- - tags: []
 

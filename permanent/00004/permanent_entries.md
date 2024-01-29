@@ -1,3 +1,93 @@
+## Welcome | DuckDuckGo Help Pages
+ - [https://help.duckduckgo.com](https://help.duckduckgo.com)
+ - date published: 2023-10-25T13:59:34.994405+00:00
+ - user: None
+ - tags: []
+
+## Small Business Marketing Agency - Fractional CMO Services and Training by Duct Tape Marketing
+ - [https://www.ducttapemarketing.com](https://www.ducttapemarketing.com)
+ - date published: 2024-01-09T11:07:05.642700+00:00
+ - user: None
+ - tags: []
+
+## Duffel - The best API to sell travel.
+ - [https://duffel.com](https://duffel.com)
+ - date published: 2023-10-25T13:59:37.618037+00:00
+ - user: None
+ - tags: []
+
+## Games by Lucas Pope
+ - [https://dukope.com](https://dukope.com)
+ - date published: 2023-10-25T13:59:39.811375+00:00
+ - user: None
+ - tags: []
+
+## dullneon.com
+ - [https://dullneon.com](https://dullneon.com)
+ - date published: 2023-12-29T20:11:54.010781+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dumb Cuneiform. We'll take your tweets and make them permanent clay tablets.
+ - [https://dumbcuneiform.com](https://dumbcuneiform.com)
+ - date published: 2023-10-25T13:59:42.146786+00:00
+ - user: None
+ - tags: []
+
+## Dumb Password Rules
+ - [https://dumbpasswordrules.com](https://dumbpasswordrules.com)
+ - date published: 2023-10-25T13:59:43.811839+00:00
+ - user: None
+ - tags: []
+
+## Bar & Line
+ - [https://blog.duncangeere.com](https://blog.duncangeere.com)
+ - date published: 2023-12-03T02:38:03.034981+00:00
+ - user: None
+ - tags: []
+
+## Duncan Geere
+ - [https://www.duncangeere.com](https://www.duncangeere.com)
+ - date published: 2023-12-03T10:58:21.192847+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dune: Part Two | Official Movie Site
+ - [https://www.dunemovie.com](https://www.dunemovie.com)
+ - date published: 2023-11-13T13:00:16.333580+00:00
+ - user: None
+ - tags: ['movie', 'dune']
+
+## Dungeon Map Doodler
+ - [https://dungeonmapdoodler.com](https://dungeonmapdoodler.com)
+ - date published: 2023-10-25T13:59:52.064138+00:00
+ - user: None
+ - tags: ['role playing games']
+
+## Multi-Factor Authentication & Single Sign-On | Duo Security
+ - [https://duo.com](https://duo.com)
+ - date published: 2023-10-25T13:59:56.230418+00:00
+ - user: None
+ - tags: []
+
+## Duo Status
+ - [https://status.duo.com](https://status.duo.com)
+ - date published: 2023-10-25T14:00:01.542214+00:00
+ - user: None
+ - tags: []
+
+## Duolingo Blog | Writing about the best way to learn a language
+ - [https://blog.duolingo.com](https://blog.duolingo.com)
+ - date published: 2023-10-25T14:00:03.408327+00:00
+ - user: None
+ - tags: []
+
+## Duplicate Word Finder
+ - [https://duplicateword.com](https://duplicateword.com)
+ - date published: 2023-10-25T14:00:04.558446+00:00
+ - user: None
+ - tags: []
+
 ## Duplicati
  - [https://www.duplicati.com](https://www.duplicati.com)
  - date published: 2023-10-25T14:00:05.522255+00:00
@@ -1942,6 +2032,12 @@
  - user: None
  - tags: []
 
+## Ruby's Exceptional Creatures
+ - [https://www.exceptionalcreatures.com](https://www.exceptionalcreatures.com)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## The Ex-Classics Web Site Main Page
  - [https://www.exclassics.com](https://www.exclassics.com)
  - date published: 2023-10-25T14:13:15.086562+00:00
@@ -2047,6 +2143,12 @@
 ## ExtremeTech
  - [https://www.extremetech.com](https://www.extremetech.com)
  - date published: 2023-10-25T14:14:05.524012+00:00
+ - user: None
+ - tags: []
+
+## Ex Urbe – History, Philosophy, Books, Food & Fandom
+ - [https://www.exurbe.com](https://www.exurbe.com)
+ - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5416,7 +5518,7 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - [https://gioelgio.com](https://gioelgio.com)
  - date published: 2024-01-15T08:33:12.975028+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Hi, I’m Giorgio. | Giorgio Pretto - UX Designer
  - [https://www.giorgiopretto.com](https://www.giorgiopretto.com)
@@ -5895,108 +5997,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Go Make Things
  - [https://gomakethings.com](https://gomakethings.com)
  - date published: 2023-10-25T14:47:03.838756+00:00
- - user: None
- - tags: []
-
-## Hey, I'm Gonz
- - [https://gonsanchezs.com](https://gonsanchezs.com)
- - date published: 2023-11-29T15:16:11.940294+00:00
- - user: None
- - tags: ['personal']
-
-## GonzoKnows - A minimal, responsive, and powerful personal website designed to educate others.
- - [https://gonzoknows.com](https://gonzoknows.com)
- - date published: 2023-10-25T14:47:06.140156+00:00
- - user: None
- - tags: []
-
-## Good e-Reader - E-Reader News and Reviews
- - [https://goodereader.com](https://goodereader.com)
- - date published: 2023-10-25T11:19:00.115619+00:00
- - user: None
- - tags: []
-
-## GMA - Good Morning America
- - [https://www.goodmorningamerica.com](https://www.goodmorningamerica.com)
- - date published: 2023-10-25T14:47:14.656778+00:00
- - user: None
- - tags: []
-
-## Goodreads
- - [https://www.goodreads.com](https://www.goodreads.com)
- - date published: 2023-10-29T14:35:04.185228+00:00
- - user: None
- - tags: ['books']
-
-## Sign in - Google Accounts
- - [https://accounts.google.com](https://accounts.google.com)
- - date published: 2023-12-13T16:04:41.466509+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://ads.google.com](https://ads.google.com)
- - date published: 2024-01-09T02:37:37.140211+00:00
- - user: None
- - tags: []
-
-## Google for Developers - from AI and Cloud to Mobile and Web
- - [https://apis.google.com](https://apis.google.com)
- - date published: 2023-12-11T16:51:37.859216+00:00
- - user: None
- - tags: []
-
-## Google Arts & Culture
- - [https://artsandculture.google.com](https://artsandculture.google.com)
- - date published: 2023-10-25T14:47:24.929387+00:00
- - user: None
- - tags: []
-
-## ‎Bard - Chat Based AI Tool from Google, Powered by PaLM 2
- - [https://bard.google.com](https://bard.google.com)
- - date published: 2023-10-25T14:47:31.201724+00:00
- - user: None
- - tags: []
-
-## Google Bug Hunters
- - [https://bughunters.google.com](https://bughunters.google.com)
- - date published: 2023-12-14T04:38:33.745395+00:00
- - user: None
- - tags: []
-
-## Shareable Online Calendar and Scheduling - Google Calendar
- - [https://calendar.google.com](https://calendar.google.com)
- - date published: 2024-01-06T11:15:34.786443+00:00
- - user: None
- - tags: []
-
-## Google Chrome - The Fast & Secure Web Browser Built to be Yours
- - [https://chrome.google.com](https://chrome.google.com)
- - date published: 2023-10-25T08:40:34.195093+00:00
- - user: None
- - tags: ['gatekeeper', 'web browser']
-
-## Chrome Web Store
- - [https://chromewebstore.google.com](https://chromewebstore.google.com)
- - date published: 2023-11-19T01:48:44.969811+00:00
- - user: None
- - tags: []
-
-## https://cloud.google.com
- - [https://cloud.google.com](https://cloud.google.com)
- - date published: 2023-10-25T14:47:43.318651+00:00
- - user: None
- - tags: []
-
-## Google Colab
- - [https://colab.research.google.com](https://colab.research.google.com)
- - date published: 2023-10-25T14:47:44.134292+00:00
- - user: None
- - tags: []
-
-## Google Cloud Platform
- - [https://console.cloud.google.com](https://console.cloud.google.com)
- - date published: 2023-12-20T18:54:01.264450+00:00
  - user: None
  - tags: []
 
