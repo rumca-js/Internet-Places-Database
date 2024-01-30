@@ -1,3 +1,117 @@
+## Charlotte Breaking News, Sports & Crime |  Charlotte Observer
+ - [https://www.charlotteobserver.com](https://www.charlotteobserver.com)
+ - date published: 2023-12-28T13:51:54.119648+00:00
+ - user: None
+ - tags: []
+
+## Charlotte Rogg
+ - [https://www.charlotterogg.com](https://www.charlotterogg.com)
+ - date published: 2023-11-29T14:22:50.814357+00:00
+ - user: None
+ - tags: ['personal']
+
+## Charmaine Lee
+ - [https://www.charmaineklee.com](https://www.charmaineklee.com)
+ - date published: 2023-10-25T09:19:42.820729+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Charming Science
+ - [https://charmingscience.com](https://charmingscience.com)
+ - date published: 2023-10-25T13:20:36.046950+00:00
+ - user: None
+ - tags: []
+
+## Credit Card, Mortgage, Banking, Auto | Chase Online | Chase.com
+ - [https://www.chase.com](https://www.chase.com)
+ - date published: 2023-10-25T13:20:38.268897+00:00
+ - user: None
+ - tags: []
+
+## Chase λ
+ - [https://blog.chaselambda.com](https://blog.chaselambda.com)
+ - date published: 2023-10-25T13:20:40.077289+00:00
+ - user: None
+ - tags: []
+
+## i: a man named chase
+ - [https://chasewildly.com](https://chasewildly.com)
+ - date published: 2023-11-29T17:06:09.031824+00:00
+ - user: None
+ - tags: ['personal']
+
+## ChatBA: Generative AI for Slides ✨
+ - [https://www.chatbcg.com](https://www.chatbcg.com)
+ - date published: 2023-10-25T13:20:40.648474+00:00
+ - user: None
+ - tags: []
+
+## ChatBotKit
+ - [https://chatbotkit.com](https://chatbotkit.com)
+ - date published: 2023-10-25T13:20:41.975572+00:00
+ - user: None
+ - tags: []
+
+## ChatGPT Online - No Login Needed!
+ - [https://chatgptbay.com](https://chatgptbay.com)
+ - date published: 2023-10-25T13:20:42.654731+00:00
+ - user: None
+ - tags: []
+
+## ChatGPT on Telegram | Access ChatGPT anywhere on Telegram
+ - [https://chatgptontelegram.com](https://chatgptontelegram.com)
+ - date published: 2023-10-25T13:20:43.958030+00:00
+ - user: None
+ - tags: []
+
+## ChatPDF - Chat with any PDF!
+ - [https://www.chatpdf.com](https://www.chatpdf.com)
+ - date published: 2023-10-25T13:20:44.651673+00:00
+ - user: None
+ - tags: []
+
+## Ratika Deshpande – Learning + doing + sharing
+ - [https://chavanniclass.com](https://chavanniclass.com)
+ - date published: 2023-10-25T13:20:46.419776+00:00
+ - user: None
+ - tags: []
+
+## CHCollins - You Are What You Create
+ - [https://chcollins.com](https://chcollins.com)
+ - date published: 2023-10-25T13:20:47.748663+00:00
+ - user: None
+ - tags: []
+
+## Car Accident Records Search and Check VIN  |  Vehicle History Reports  |  Junk and Salvage Records  |  Check Any VIN
+ - [https://checkanyvin.com](https://checkanyvin.com)
+ - date published: 2023-10-25T13:20:49.534387+00:00
+ - user: None
+ - tags: []
+
+## Application Security Testing Company | Software Security Testing Solutions | Checkmarx
+ - [https://checkmarx.com](https://checkmarx.com)
+ - date published: 2023-10-25T13:20:53.896133+00:00
+ - user: None
+ - tags: []
+
+## Checkmate 19" IPS Retro Monitor
+ - [https://www.checkmate1500plus.com](https://www.checkmate1500plus.com)
+ - date published: 2023-12-05T18:39:42+00:00
+ - user: None
+ - tags: []
+
+## Check Point Blog - Cyber Security News, Research & Trends
+ - [https://blog.checkpoint.com](https://blog.checkpoint.com)
+ - date published: 2023-10-25T13:21:03.502709+00:00
+ - user: None
+ - tags: []
+
+## CPR - Check Point Research
+ - [https://research.checkpoint.com](https://research.checkpoint.com)
+ - date published: 2023-10-25T13:21:06.052525+00:00
+ - user: None
+ - tags: []
+
 ## The Cheese Professor | The Class You Always Wanted To Take
  - [https://www.cheeseprofessor.com](https://www.cheeseprofessor.com)
  - date published: 2023-10-25T13:21:10.552300+00:00
@@ -412,11 +526,11 @@
  - user: None
  - tags: []
 
-## https://www.chronicle.com
+## The Chronicle of Higher Education
  - [https://www.chronicle.com](https://www.chronicle.com)
- - date published: 2023-10-25T13:23:11.311164+00:00
- - user: None
- - tags: []
+ - date published: 2023-10-25T13:23:11+00:00
+ - user: rumpel
+ - tags: ['news']
 
 ## Red Alert 2: Chrono Divide
  - [https://chronodivide.com](https://chronodivide.com)
@@ -1120,6 +1234,12 @@
  - user: None
  - tags: []
 
+## Condé Nast Traveler - Travel Reviews, News, Guides & Tips
+ - [https://www.cntraveler.com](https://www.cntraveler.com)
+ - date published: 2024-01-30T01:14:55.180572+00:00
+ - user: None
+ - tags: []
+
 ## CNX Software - Embedded Systems News
  - [https://www.cnx-software.com](https://www.cnx-software.com)
  - date published: 2023-10-25T13:27:18.842563+00:00
@@ -1632,6 +1752,12 @@
 ## All commands
  - [https://www.commandlinefu.com](https://www.commandlinefu.com)
  - date published: 2024-01-09T02:32:39.297001+00:00
+ - user: None
+ - tags: []
+
+## CommercialEdge
+ - [https://www.commercialedge.com](https://www.commercialedge.com)
+ - date published: 2024-01-23T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3547,6 +3673,12 @@
 ## Dark Delicacies
  - [https://www.darkdel.com](https://www.darkdel.com)
  - date published: 2024-01-19T15:55:47.629462+00:00
+ - user: None
+ - tags: []
+
+## darkdot.
+ - [https://darkdot.com](https://darkdot.com)
+ - date published: 2024-01-08T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5831,6 +5963,12 @@
  - user: None
  - tags: ['personal']
 
+## DRIE-D Mechanical Motion - Composite Bearing and Friction Technology
+ - [https://drie-d.com](https://drie-d.com)
+ - date published: 2024-01-30T01:06:56.259872+00:00
+ - user: None
+ - tags: []
+
 ## DriftDB | DriftDB
  - [https://driftdb.com](https://driftdb.com)
  - date published: 2023-10-25T13:58:30.361329+00:00
@@ -5866,142 +6004,4 @@
  - date published: 2023-10-25T13:58:44.198864+00:00
  - user: None
  - tags: []
-
-## DriveThruCards.com - Connecting card game designers and players
- - [https://www.drivethrucards.com](https://www.drivethrucards.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['magazines', 'shop']
-
-## DriveThruComics.com - The First Download Comic Shop
- - [https://www.drivethrucomics.com](https://www.drivethrucomics.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['magazines', 'shop']
-
-## DriveThruFiction.com - The best in downloadable fiction titles
- - [https://www.drivethrufiction.com](https://www.drivethrufiction.com)
- - date published: 2024-01-22T10:00:24+00:00
- - user: rumpel
- - tags: ['magazines', 'shop']
-
-## DriveThruRPG
- - [https://preview.drivethrurpg.com](https://preview.drivethrurpg.com)
- - date published: 2023-10-27T07:46:17.734170+00:00
- - user: None
- - tags: ['magazines', 'shop']
-
-## Dr Karl | an answer looking for a question
- - [https://drkarl.com](https://drkarl.com)
- - date published: 2023-12-02T20:11:08.430448+00:00
- - user: None
- - tags: []
-
-## Dr.Mani - Author. Heart Surgeon. Fund Raiser.
- - [https://www.drmani.com](https://www.drmani.com)
- - date published: 2023-12-20T11:46:05.266048+00:00
- - user: None
- - tags: ['personal']
-
-## Vadim Drobinin: iOS consultant and software engineer
- - [https://drobinin.com](https://drobinin.com)
- - date published: 2024-01-14T17:10:41.162993+00:00
- - user: None
- - tags: []
-
-## drodol
- - [https://blog.drodol.com](https://blog.drodol.com)
- - date published: 2024-01-10T22:41:34.790474+00:00
- - user: None
- - tags: []
-
-## Work in Progress | Dropbox Blog
- - [https://blog.dropbox.com](https://blog.dropbox.com)
- - date published: 2023-10-25T13:58:59.007997+00:00
- - user: None
- - tags: []
-
-## Dropbox Help Center - How to use Dropbox - Dropbox Help
- - [https://help.dropbox.com](https://help.dropbox.com)
- - date published: 2023-10-25T13:59:05.039187+00:00
- - user: None
- - tags: []
-
-## Dropbox.com
- - [https://www.dropbox.com](https://www.dropbox.com)
- - date published: 2023-10-25T08:25:49.008967+00:00
- - user: None
- - tags: ['cloud drive']
-
-## Dropbox Community
- - [https://www.dropboxforum.com](https://www.dropboxforum.com)
- - date published: 2023-10-25T08:25:52.806214+00:00
- - user: None
- - tags: []
-
-## Dror Poleg — Official Website
- - [https://www.drorpoleg.com](https://www.drorpoleg.com)
- - date published: 2023-10-25T13:59:06.912379+00:00
- - user: None
- - tags: []
-
-## drossbucket
- - [https://drossbucket.com](https://drossbucket.com)
- - date published: 2023-10-25T13:59:15.349301+00:00
- - user: None
- - tags: []
-
-## drummachineguy.com – Exploring Drum Machines Past & Present
- - [https://drummachineguy.com](https://drummachineguy.com)
- - date published: 2023-10-28T18:40:02.488315+00:00
- - user: None
- - tags: ['dj', 'music']
-
-## Drunk Pastor
- - [https://drunkpastor.com](https://drunkpastor.com)
- - date published: 2023-11-29T15:32:18.653046+00:00
- - user: None
- - tags: []
-
-## ds-security.com
- - [https://ds-security.com](https://ds-security.com)
- - date published: 2023-11-25T11:48:54.004989+00:00
- - user: None
- - tags: []
-
-## DSF ANTIQUE JEWELRY
- - [https://dsfantiquejewelry.com](https://dsfantiquejewelry.com)
- - date published: 2023-10-25T13:59:20.748611+00:00
- - user: None
- - tags: []
-
-## DSOGaming - PC Games News, Screenshots, Trailers & More
- - [https://www.dsogaming.com](https://www.dsogaming.com)
- - date published: 2023-10-26T19:02:28.844140+00:00
- - user: None
- - tags: ['game news']
-
-## Dennis Sy Singer Songwriter Producer
- - [https://dsymusic.com](https://dsymusic.com)
- - date published: 2023-11-29T17:05:39.546520+00:00
- - user: None
- - tags: ['personal']
-
-## Duarte O.Carmo
- - [https://duarteocarmo.com](https://duarteocarmo.com)
- - date published: 2023-10-25T09:20:20.172980+00:00
- - user: None
- - tags: ['personal']
-
-## Patrick Dubroy
- - [https://dubroy.com](https://dubroy.com)
- - date published: 2023-12-28T14:25:00.041819+00:00
- - user: None
- - tags: []
-
-## DuckDuckGo — Privacy, simplified.
- - [https://duckduckgo.com](https://duckduckgo.com)
- - date published: 2023-10-25T08:28:05.025287+00:00
- - user: None
- - tags: ['search engine']
 
