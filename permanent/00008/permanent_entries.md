@@ -1,3 +1,123 @@
+## Employee and Customer Identity Solutions | Okta
+ - [https://www.okta.com](https://www.okta.com)
+ - date published: 2023-10-25T16:25:18.525570+00:00
+ - user: None
+ - tags: []
+
+## Old'aVista
+ - [https://oldavista.com](https://oldavista.com)
+ - date published: 1988-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['retro internet']
+
+## Old Games Download - Abandonware and Retrogaming
+ - [https://oldgamesdownload.com](https://oldgamesdownload.com)
+ - date published: 2023-10-25T16:33:49.666375+00:00
+ - user: None
+ - tags: ['command and conquer', 'abandonware', 'game roms', 'red alert', 'amiga', 'atari']
+
+## The Old Operating Theatre
+ - [https://oldoperatingtheatre.com](https://oldoperatingtheatre.com)
+ - date published: 2023-10-25T16:25:23.309950+00:00
+ - user: None
+ - tags: []
+
+## Optimal Living Daily Podcasts - Home Page
+ - [https://oldpodcast.com](https://oldpodcast.com)
+ - date published: 2023-12-14T01:27:02.081623+00:00
+ - user: None
+ - tags: ['personal']
+
+## Old School Alex
+ - [https://oldschoolalex.com](https://oldschoolalex.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Old School Game Blog
+ - [https://oldschoolgameblog.com](https://oldschoolgameblog.com)
+ - date published: 2023-10-27T14:21:42.288683+00:00
+ - user: None
+ - tags: ['amiga', 'demoscene', 'retro games']
+
+## Oliver Emberton
+ - [https://oliveremberton.com](https://oliveremberton.com)
+ - date published: 2023-10-25T16:25:26.557746+00:00
+ - user: None
+ - tags: []
+
+## https://www.oliverquinlan.com
+ - [https://www.oliverquinlan.com](https://www.oliverquinlan.com)
+ - date published: 2024-01-05T10:38:05.594623+00:00
+ - user: None
+ - tags: []
+
+## Om's Observations
+ - [https://omajoshi.com](https://omajoshi.com)
+ - date published: 2023-10-25T16:25:28.966147+00:00
+ - user: None
+ - tags: []
+
+## OMD Ventures
+ - [https://omdventures.com](https://omdventures.com)
+ - date published: 2023-12-12T07:04:29.761427+00:00
+ - user: None
+ - tags: ['personal']
+
+## Omegle
+ - [https://omegle.com](https://omegle.com)
+ - date published: 2023-11-09T01:15:04.545909+00:00
+ - user: None
+ - tags: ['inactive']
+
+## Omegle
+ - [https://www.omegle.com](https://www.omegle.com)
+ - date published: 2023-11-09T00:55:39.921609+00:00
+ - user: None
+ - tags: ['inactive']
+
+## OMG Laser guns! Pew! Pew! Pew!
+ - [http://omglasergunspewpewpew.com](http://omglasergunspewpewpew.com)
+ - date published: 2023-10-27T11:36:30.120538+00:00
+ - user: None
+ - tags: ['wtf', 'funny']
+
+## OMG! Linux - Linux News, Distros, Apps and Reviews
+ - [https://www.omglinux.com](https://www.omglinux.com)
+ - date published: 2023-10-25T10:15:18.092529+00:00
+ - user: None
+ - tags: []
+
+## Omniflux
+ - [https://www.omnifluxmusic.com](https://www.omnifluxmusic.com)
+ - date published: 2023-11-29T20:44:08.484060+00:00
+ - user: None
+ - tags: []
+
+## Omniglot - the encyclopedia of writing systems and languages
+ - [https://www.omniglot.com](https://www.omniglot.com)
+ - date published: 2023-10-25T16:25:31.034846+00:00
+ - user: None
+ - tags: []
+
+## OmniPaxos - A distributed log library
+ - [https://omnipaxos.com](https://omnipaxos.com)
+ - date published: 2023-10-25T16:25:31.956953+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://www.omniture.com](https://www.omniture.com)
+ - date published: 2024-01-09T02:45:24.759188+00:00
+ - user: None
+ - tags: []
+
+## ONCE — Introducing ONCE
+ - [https://once.com](https://once.com)
+ - date published: 2023-10-25T16:25:32.812459+00:00
+ - user: None
+ - tags: []
+
 ## Peer-reviewed Oncology & Cancer Research Journal | Oncotarget
  - [https://www.oncotarget.com](https://www.oncotarget.com)
  - date published: 2024-01-03T17:07:38.928646+00:00
@@ -2033,6 +2153,12 @@
  - user: None
  - tags: []
 
+## Hey There Buddo!
+ - [https://www.philipzucker.com](https://www.philipzucker.com)
+ - date published: 2024-01-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Musician, Web Developer, Entrepreneur - Phillip Harrington
  - [https://phillipharrington.com](https://phillipharrington.com)
  - date published: 2023-11-16T20:40:41.297992+00:00
@@ -3104,6 +3230,12 @@
  - user: None
  - tags: []
 
+## Derek Powazek
+ - [https://powazek.com](https://powazek.com)
+ - date published: 2024-01-30T18:41:01.579498+00:00
+ - user: None
+ - tags: []
+
 ## Power Industry And Energy News | Power Engineering
  - [https://www.power-eng.com](https://www.power-eng.com)
  - date published: 2023-10-25T16:38:51.262181+00:00
@@ -3737,6 +3869,12 @@
 ## ptrchm
  - [https://ptrchm.com](https://ptrchm.com)
  - date published: 2023-12-17T17:43:33.561774+00:00
+ - user: None
+ - tags: []
+
+## PUB400.COM - Your public IBM i server
+ - [https://pub400.com](https://pub400.com)
+ - date published: 2024-01-30T14:37:36.318120+00:00
  - user: None
  - tags: []
 
@@ -5864,144 +6002,6 @@ More!
 ## Ride Report: The platform to manage mobility
  - [https://www.ridereport.com](https://www.ridereport.com)
  - date published: 2023-10-25T16:51:25.938785+00:00
- - user: None
- - tags: []
-
-## Rifat Najmi | Visual Artist and Designer based in Jakarta
- - [https://rifatnajmi.com](https://rifatnajmi.com)
- - date published: 2024-01-13T22:53:38.949880+00:00
- - user: None
- - tags: []
-
-## RIFE2 Framework : Full-stack, no-declaration, framework to quickly and effortlessly create web applications with modern Java.
- - [https://rife2.com](https://rife2.com)
- - date published: 2023-10-25T16:51:26.581095+00:00
- - user: None
- - tags: []
-
-## Riffusion
- - [https://www.riffusion.com](https://www.riffusion.com)
- - date published: 2023-10-25T16:51:27.329208+00:00
- - user: None
- - tags: []
-
-## Ken Shirriff's blog
- - [https://www.righto.com](https://www.righto.com)
- - date published: 2023-10-25T16:51:33.313104+00:00
- - user: None
- - tags: ['personal', 'blog']
-
-## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
- - [https://www.rigzone.com](https://www.rigzone.com)
- - date published: 2023-10-25T16:51:39.145136+00:00
- - user: None
- - tags: []
-
-## Rihanna - Rihanna
- - [https://www.rihannanow.com](https://www.rihannanow.com)
- - date published: 2023-11-13T10:35:34.882090+00:00
- - user: None
- - tags: ['music band']
-
-## Rihards Steinbergs
- - [https://rihards.com](https://rihards.com)
- - date published: 2024-01-12T10:32:04.930603+00:00
- - user: None
- - tags: []
-
-## https://ui.rilldata.com
- - [https://ui.rilldata.com](https://ui.rilldata.com)
- - date published: 2024-01-09T02:48:01.435862+00:00
- - user: None
- - tags: []
-
-## Home - Rimac Automobili
- - [https://www.rimac-automobili.com](https://www.rimac-automobili.com)
- - date published: 2024-01-09T02:48:02.433622+00:00
- - user: None
- - tags: []
-
-## Latest News from Rimac – Rimac Newsroom
- - [https://www.rimac-newsroom.com](https://www.rimac-newsroom.com)
- - date published: 2023-10-25T16:51:41.401391+00:00
- - user: None
- - tags: []
-
-## Rimenes Ribeiro
- - [https://rimenesribeiro.com](https://rimenesribeiro.com)
- - date published: 2023-12-30T22:23:58.013629+00:00
- - user: None
- - tags: ['personal']
-
-## RimWorld - Sci-Fi Colony Sim
- - [https://rimworldgame.com](https://rimworldgame.com)
- - date published: 2023-10-25T16:51:42.834278+00:00
- - user: None
- - tags: []
-
-## Ring.com Status
- - [https://status.ring.com](https://status.ring.com)
- - date published: 2023-10-25T16:51:44.473538+00:00
- - user: None
- - tags: []
-
-## Ringer
- - [https://www.ringerhq.com](https://www.ringerhq.com)
- - date published: 2023-10-25T16:51:53.579899+00:00
- - user: None
- - tags: []
-
-## Riot Games. Developer of League of Legends, VALORANT, Teamfight Tactics, Legends of Runeterra, and Wild Rift. Creators of Arcane. Home of LOL and VALORANT Esports.
- - [https://www.riotgames.com](https://www.riotgames.com)
- - date published: 2024-01-23T00:59:39.503692+00:00
- - user: None
- - tags: ['video game developer']
-
-## Home
- - [https://www.riotimesonline.com](https://www.riotimesonline.com)
- - date published: 2023-12-06T19:21:30.188407+00:00
- - user: None
- - tags: []
-
-## Ripley's Believe It or Not! | Aquariums, Attractions, and Weird News
- - [https://www.ripleys.com](https://www.ripleys.com)
- - date published: 2023-10-25T16:51:58.390818+00:00
- - user: None
- - tags: []
-
-## Oven Career Opportunities
- - [https://oven.rippling-ats.com](https://oven.rippling-ats.com)
- - date published: 2023-10-25T16:51:59.432468+00:00
- - user: None
- - tags: []
-
-## Learn programming languages with books and examples
- - [https://riptutorial.com](https://riptutorial.com)
- - date published: 2024-01-21T21:07:11+00:00
- - user: rumpel
- - tags: ['tutorial']
-
-## Rishikesh Sreehari - Redefining Probabilities
- - [https://rishikeshs.com](https://rishikeshs.com)
- - date published: 2023-12-09T15:00:20.435644+00:00
- - user: None
- - tags: ['personal']
-
-## RisingWave: Open-Source Streaming Database
- - [https://www.risingwave.com](https://www.risingwave.com)
- - date published: 2023-10-25T16:52:03.481553+00:00
- - user: None
- - tags: []
-
-## RisingWave: Open-Source Streaming Database
- - [https://www.risingwave-labs.com](https://www.risingwave-labs.com)
- - date published: 2023-10-25T16:52:06.777687+00:00
- - user: None
- - tags: []
-
-## RiskInsight
- - [https://www.riskinsight-wavestone.com](https://www.riskinsight-wavestone.com)
- - date published: 2024-01-09T02:48:03.956238+00:00
  - user: None
  - tags: []
 

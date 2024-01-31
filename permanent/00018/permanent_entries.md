@@ -1,3 +1,281 @@
+## Welcome to Chandoo.org - Learn Excel, Charting Online
+ - [https://chandoo.org](https://chandoo.org)
+ - date published: 2023-11-29T15:15:17.820653+00:00
+ - user: None
+ - tags: ['personal']
+
+## Chapel: Productive Parallel Programming
+ - [https://chapel-lang.org](https://chapel-lang.org)
+ - date published: 2023-10-25T21:07:07.375203+00:00
+ - user: None
+ - tags: []
+
+## Charts.css
+ - [https://chartscss.org](https://chartscss.org)
+ - date published: 2023-10-25T21:07:09.548781+00:00
+ - user: None
+ - tags: []
+
+## The Cheapskate's Guide to Computers and the Internet
+ - [https://cheapskatesguide.org](https://cheapskatesguide.org)
+ - date published: 2023-10-25T21:07:11.276610+00:00
+ - user: None
+ - tags: []
+
+## Check My Ads Institute | Adtech Watchdog
+ - [https://checkmyads.org](https://checkmyads.org)
+ - date published: 2023-10-25T21:07:12.324867+00:00
+ - user: None
+ - tags: []
+
+## Children's Health Defense • Help Children’s Health Defense and RFK, Jr. end the epidemic of poor health plaguing our children.
+ - [https://childrenshealthdefense.org](https://childrenshealthdefense.org)
+ - date published: 2023-10-25T21:07:23.108077+00:00
+ - user: None
+ - tags: []
+
+## Chimera Linux
+ - [https://chimera-linux.org](https://chimera-linux.org)
+ - date published: 2023-12-16T20:45:35+00:00
+ - user: None
+ - tags: []
+
+## ChimeraOS
+ - [https://chimeraos.org](https://chimeraos.org)
+ - date published: 2023-10-25T08:34:38.580113+00:00
+ - user: None
+ - tags: []
+
+## The Greater China Journal  – The Greater China Journal
+ - [https://china-journal.org](https://china-journal.org)
+ - date published: 2023-10-25T21:07:26.320813+00:00
+ - user: None
+ - tags: []
+
+## ChipMusic.org
+ - [https://chipmusic.org](https://chipmusic.org)
+ - date published: 2023-10-28T18:53:32.192644+00:00
+ - user: None
+ - tags: ['chiptune']
+
+## Chicago Public Library
+ - [https://www.chipublib.org](https://www.chipublib.org)
+ - date published: 2023-12-03T17:58:38.708217+00:00
+ - user: None
+ - tags: []
+
+## Chocolate Doom
+ - [https://www.chocolate-doom.org](https://www.chocolate-doom.org)
+ - date published: 2023-10-25T21:07:27.565962+00:00
+ - user: None
+ - tags: []
+
+## Saving Rural Hospitals - The Crisis in Rural Health Care
+ - [https://ruralhospitals.chqpr.org](https://ruralhospitals.chqpr.org)
+ - date published: 2023-10-25T21:07:30.408857+00:00
+ - user: None
+ - tags: []
+
+## Welcome
+ - [https://chrisbrooks.org](https://chrisbrooks.org)
+ - date published: 2024-01-15T22:21:28.701192+00:00
+ - user: None
+ - tags: []
+
+## Christian History Institute
+ - [https://christianhistoryinstitute.org](https://christianhistoryinstitute.org)
+ - date published: 2023-11-27T12:24:53+00:00
+ - user: rumpel
+ - tags: ['christian']
+
+## Chromium Blog
+ - [https://blog.chromium.org](https://blog.chromium.org)
+ - date published: 2023-10-25T21:07:36.663177+00:00
+ - user: None
+ - tags: []
+
+## Monorail - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Monorail
+ - [https://bugs.chromium.org](https://bugs.chromium.org)
+ - date published: 2023-10-25T21:07:37.503432+00:00
+ - user: None
+ - tags: []
+
+## ChromeDriver - WebDriver for Chrome
+ - [https://chromedriver.chromium.org](https://chromedriver.chromium.org)
+ - date published: 2024-01-17T07:29:45+00:00
+ - user: rumpel
+ - tags: ['chrome', 'webdriver']
+
+## Christian Persecution - Aid to the Church in Need - Papal Charity
+ - [https://www.churchinneed.org](https://www.churchinneed.org)
+ - date published: 2023-11-27T12:14:37+00:00
+ - user: rumpel
+ - tags: []
+
+## Homepage - The Church of Jesus Christ of Latter-day Saints
+ - [https://www.churchofjesuschrist.org](https://www.churchofjesuschrist.org)
+ - date published: 2023-11-27T12:59:19+00:00
+ - user: rumpel
+ - tags: ['mormon']
+
+## CIDR
+ - [https://www.cidrdb.org](https://www.cidrdb.org)
+ - date published: 2023-10-25T21:07:38.570541+00:00
+ - user: None
+ - tags: []
+
+## CircuitVerse - Online Digital Logic Circuit Simulator
+ - [https://circuitverse.org](https://circuitverse.org)
+ - date published: 2023-10-25T21:07:40.023436+00:00
+ - user: None
+ - tags: []
+
+## Circus Freaks
+ - [https://circusfreaks.org](https://circusfreaks.org)
+ - date published: 2023-11-17T07:29:46.138084+00:00
+ - user: None
+ - tags: ['personal']
+
+## citadel.org
+ - [https://www.citadel.org](https://www.citadel.org)
+ - date published: 2023-10-25T21:07:41.061444+00:00
+ - user: None
+ - tags: []
+
+## Public Citizen
+ - [https://www.citizen.org](https://www.citizen.org)
+ - date published: 2023-11-24T17:24:12.597451+00:00
+ - user: None
+ - tags: []
+
+## CREW | Citizens for Responsibility and Ethics in Washington
+ - [https://www.citizensforethics.org](https://www.citizensforethics.org)
+ - date published: 2024-01-03T19:16:48.252217+00:00
+ - user: None
+ - tags: []
+
+## City Journal | Urban Affairs Magazine | Conservative Magazine Online
+ - [https://www.city-journal.org](https://www.city-journal.org)
+ - date published: 2023-10-25T21:07:43.177871+00:00
+ - user: None
+ - tags: []
+
+## Top Cancer Treatment and Research Center | City of Hope
+ - [https://www.cityofhope.org](https://www.cityofhope.org)
+ - date published: 2023-10-25T21:07:46.949303+00:00
+ - user: None
+ - tags: []
+
+## Hawaii News: In-Depth Local News From Honolulu Civil Beat
+ - [https://www.civilbeat.org](https://www.civilbeat.org)
+ - date published: 2023-10-25T21:07:51.470459+00:00
+ - user: None
+ - tags: []
+
+## Columbia Journalism Review
+ - [https://www.cjr.org](https://www.cjr.org)
+ - date published: 2023-11-12T00:38:58.917292+00:00
+ - user: None
+ - tags: []
+
+## DAVES OLD COMPUTERS
+ - [http://dunfield.classiccmp.org](http://dunfield.classiccmp.org)
+ - date published: 2023-10-25T21:07:52.168842+00:00
+ - user: None
+ - tags: []
+
+## Classify Org
+ - [http://www.classify.org](http://www.classify.org)
+ - date published: 2023-12-11T18:40:54.550062+00:00
+ - user: None
+ - tags: []
+
+## Clean Energy Wire
+ - [https://www.cleanenergywire.org](https://www.cleanenergywire.org)
+ - date published: 2023-12-23T14:02:14.311996+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the James Clerk Maxwell Foundation Website
+ - [https://clerkmaxwellfoundation.org](https://clerkmaxwellfoundation.org)
+ - date published: 2023-12-15T11:11:15.943058+00:00
+ - user: None
+ - tags: []
+
+## Federal Reserve Bank of Cleveland
+ - [https://www.clevelandfed.org](https://www.clevelandfed.org)
+ - date published: 2023-10-25T21:07:54.878569+00:00
+ - user: None
+ - tags: []
+
+## Clever Creations | Your Hub for 3D Printing, Laser Cutting, and 3D Scanning
+ - [https://clevercreations.org](https://clevercreations.org)
+ - date published: 2023-10-25T11:20:10.803835+00:00
+ - user: None
+ - tags: []
+
+## Home – Centre for Climate Reporting
+ - [https://climate-reporting.org](https://climate-reporting.org)
+ - date published: 2023-11-27T14:57:21.654177+00:00
+ - user: None
+ - tags: ['climate change']
+
+## Homepage
+ - [https://climateanalytics.org](https://climateanalytics.org)
+ - date published: 2023-11-26T13:56:16.649268+00:00
+ - user: None
+ - tags: []
+
+## Climate Change Tracker
+ - [https://climatechangetracker.org](https://climatechangetracker.org)
+ - date published: 2023-10-25T08:31:20.212953+00:00
+ - user: None
+ - tags: []
+
+## Private Jet Emissions - ClimateJets
+ - [https://climatejets.org](https://climatejets.org)
+ - date published: 2023-10-25T21:07:55.534132+00:00
+ - user: None
+ - tags: []
+
+## Climate Reanalyzer
+ - [https://climatereanalyzer.org](https://climatereanalyzer.org)
+ - date published: 2023-10-25T21:07:56.503114+00:00
+ - user: None
+ - tags: []
+
+## Climb to the Stars
+ - [https://climbtothestars.org](https://climbtothestars.org)
+ - date published: 2023-12-16T07:29:16.507400+00:00
+ - user: None
+ - tags: ['personal']
+
+## Clinical Correlations – The NYU Langone Online Journal of Medicine
+ - [https://www.clinicalcorrelations.org](https://www.clinicalcorrelations.org)
+ - date published: 2023-11-26T20:41:22.924885+00:00
+ - user: None
+ - tags: []
+
+## Climate Intelligence (CLINTEL) climate change and climate policy
+ - [https://clintel.org](https://clintel.org)
+ - date published: 2023-10-25T21:07:59.294966+00:00
+ - user: None
+ - tags: []
+
+## Clojure
+ - [https://clojure.org](https://clojure.org)
+ - date published: 2023-10-25T21:08:00.189323+00:00
+ - user: None
+ - tags: []
+
 ## The Cloud Appreciation Society - Cloud Appreciation Society
  - [https://cloudappreciationsociety.org](https://cloudappreciationsociety.org)
  - date published: 2023-10-25T21:08:02.476071+00:00
@@ -602,6 +880,12 @@
 ## Home | DanceSafe
  - [https://dancesafe.org](https://dancesafe.org)
  - date published: 2023-10-25T21:12:23.473262+00:00
+ - user: None
+ - tags: []
+
+## Dan Cohen – Vice Provost, Dean, and Professor at Northeastern University
+ - [https://dancohen.org](https://dancohen.org)
+ - date published: 2024-01-30T17:18:12.589463+00:00
  - user: None
  - tags: []
 
@@ -5732,280 +6016,4 @@ Common Weakness Enumeration
  - date published: 2023-10-25T21:44:28.453577+00:00
  - user: None
  - tags: []
-
-## Home | Moodle.org
- - [https://moodle.org](https://moodle.org)
- - date published: 2023-10-25T21:44:33.671005+00:00
- - user: None
- - tags: []
-
-## In Event of Moon Disaster
- - [https://moondisaster.org](https://moondisaster.org)
- - date published: 2023-10-25T21:44:36.544360+00:00
- - user: None
- - tags: []
-
-## Home - Gordon and Betty Moore Foundation
- - [https://www.moore.org](https://www.moore.org)
- - date published: 2023-10-25T21:44:45.883763+00:00
- - user: None
- - tags: []
-
-## Morgan Holland's Blog
- - [https://morgz.org](https://morgz.org)
- - date published: 2024-01-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Mosh: the mobile shell
- - [https://mosh.org](https://mosh.org)
- - date published: 2023-10-25T21:44:49.078711+00:00
- - user: None
- - tags: []
-
-## Mount Sinai Health System - New York City |  Mount Sinai - New York
- - [https://www.mountsinai.org](https://www.mountsinai.org)
- - date published: 2023-12-22T14:34:57.308807+00:00
- - user: None
- - tags: []
-
-## Mount Washington Observatory - Mount Washington Observatory
- - [https://www.mountwashington.org](https://www.mountwashington.org)
- - date published: 2023-10-25T21:44:53.270678+00:00
- - user: None
- - tags: []
-
-## None
- - [https://mikhailian.mova.org](https://mikhailian.mova.org)
- - date published: 2023-12-29T09:45:44.954442+00:00
- - user: None
- - tags: []
-
-## Movetodon: Find your Twitter Friends on Mastodon
- - [https://movetodon.org](https://movetodon.org)
- - date published: 2023-10-25T21:44:54.599883+00:00
- - user: None
- - tags: []
-
-## Moxie Marlinspike >> About
- - [https://moxie.org](https://moxie.org)
- - date published: 2023-10-25T21:44:56.078354+00:00
- - user: None
- - tags: []
-
-## Add-ons for Firefox (en-US)
- - [https://addons.mozilla.org](https://addons.mozilla.org)
- - date published: 2023-10-25T09:27:04.184973+00:00
- - user: None
- - tags: ['browser extensions']
-
-## Home - The Mozilla Blog
- - [https://blog.mozilla.org](https://blog.mozilla.org)
- - date published: 2023-10-25T09:27:06.601346+00:00
- - user: None
- - tags: []
-
-## Bugzilla Main Page
- - [https://bugzilla.mozilla.org](https://bugzilla.mozilla.org)
- - date published: 2023-10-25T09:27:16.128502+00:00
- - user: None
- - tags: []
-
-## Mozilla Common Voice
- - [https://commonvoice.mozilla.org](https://commonvoice.mozilla.org)
- - date published: 2023-12-05T17:06:55.184819+00:00
- - user: None
- - tags: []
-
-## MDN Web Docs
- - [https://developer.mozilla.org](https://developer.mozilla.org)
- - date published: 2023-10-25T09:27:17.722718+00:00
- - user: None
- - tags: []
-
-## Mozilla Foundation - Homepage
- - [https://foundation.mozilla.org](https://foundation.mozilla.org)
- - date published: 2023-10-25T09:27:19.580881+00:00
- - user: None
- - tags: []
-
-## Innovations
- - [https://future.mozilla.org](https://future.mozilla.org)
- - date published: 2023-10-25T09:27:20.433592+00:00
- - user: None
- - tags: []
-
-## Home - Mozilla Hacks - the Web developer blog
- - [https://hacks.mozilla.org](https://hacks.mozilla.org)
- - date published: 2023-10-25T09:27:22.380438+00:00
- - user: None
- - tags: []
-
-## Joint Statement on AI Safety and Openness
- - [https://open.mozilla.org](https://open.mozilla.org)
- - date published: 2023-11-02T18:21:50.124595+00:00
- - user: None
- - tags: []
-
-## Papers & Publications - Mozilla Research
- - [https://research.mozilla.org](https://research.mozilla.org)
- - date published: 2023-10-25T09:27:25.209201+00:00
- - user: None
- - tags: []
-
-## The State of Mozilla: 2022 — 2023 Annual Report — Mozilla
- - [https://stateof.mozilla.org](https://stateof.mozilla.org)
- - date published: 2023-12-05T14:09:52.283936+00:00
- - user: None
- - tags: []
-
-## Mozilla Support
- - [https://support.mozilla.org](https://support.mozilla.org)
- - date published: 2023-10-25T11:32:03.980205+00:00
- - user: None
- - tags: []
-
-## Treeherder
- - [https://treeherder.mozilla.org](https://treeherder.mozilla.org)
- - date published: 2023-10-25T09:27:25.901270+00:00
- - user: None
- - tags: []
-
-## MozillaWiki
- - [https://wiki.mozilla.org](https://wiki.mozilla.org)
- - date published: 2023-10-25T09:27:28.058443+00:00
- - user: None
- - tags: []
-
-## Internet for people, not profit — Mozilla (US)
- - [https://www.mozilla.org](https://www.mozilla.org)
- - date published: 2023-10-25T09:27:30.838308+00:00
- - user: None
- - tags: ['organization', 'firefox', 'company', 'thunderbird']
-
-## Pocket | Discover, Capture and Savor Content That Fascinates You
- - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
- - date published: 2023-11-13T13:38:32+00:00
- - user: rumpel
- - tags: ['link aggregation', 'bookmark manager']
-
-## Nextcloud
- - [https://nce.mpi-sp.org](https://nce.mpi-sp.org)
- - date published: 2023-11-06T14:35:47.552163+00:00
- - user: None
- - tags: []
-
-## MPR News
- - [https://www.mprnews.org](https://www.mprnews.org)
- - date published: 2023-10-25T11:07:25.515521+00:00
- - user: None
- - tags: []
-
-## MR Online
- - [https://mronline.org](https://mronline.org)
- - date published: 2023-10-25T21:45:02.065470+00:00
- - user: None
- - tags: []
-
-## mruby
- - [https://mruby.org](https://mruby.org)
- - date published: 2023-10-25T21:45:04.103594+00:00
- - user: None
- - tags: []
-
-## MSX Resource Center
- - [https://www.msx.org](https://www.msx.org)
- - date published: 2023-10-28T18:52:39.028551+00:00
- - user: None
- - tags: ['internet forum']
-
-## Montana Public Radio | Montana Public Radio
- - [https://www.mtpr.org](https://www.mtpr.org)
- - date published: 2023-10-25T21:45:11.677857+00:00
- - user: None
- - tags: []
-
-## Mudlet – A cross-platform, open source, and super fast MUD client with scripting in Lua
- - [https://www.mudlet.org](https://www.mudlet.org)
- - date published: 2023-10-27T13:35:28.124871+00:00
- - user: None
- - tags: ['mud']
-
-## Mugen Games
- - [https://mugengames.org](https://mugengames.org)
- - date published: 2023-10-30T16:29:32.202260+00:00
- - user: None
- - tags: []
-
-## Multics
- - [https://multicians.org](https://multicians.org)
- - date published: 2023-10-25T21:45:15.492870+00:00
- - user: None
- - tags: []
-
-## Multics
- - [https://www.multicians.org](https://www.multicians.org)
- - date published: 2023-10-25T21:45:18.889786+00:00
- - user: None
- - tags: []
-
-## MultiPath TCP - Linux Kernel implementation : Main - Home Page browse
- - [https://www.multipath-tcp.org](https://www.multipath-tcp.org)
- - date published: 2023-10-25T21:45:21.667260+00:00
- - user: None
- - tags: []
-
-## mupuf.org
- - [https://www.mupuf.org](https://www.mupuf.org)
- - date published: 2023-10-25T21:45:24.514993+00:00
- - user: None
- - tags: []
-
-## Digital Giza | Educational Resources
- - [https://giza.mused.org](https://giza.mused.org)
- - date published: 2023-10-25T08:35:37.841688+00:00
- - user: None
- - tags: []
-
-## Museo Larco
- - [https://www.museolarco.org](https://www.museolarco.org)
- - date published: 2023-11-13T13:48:51.556742+00:00
- - user: None
- - tags: ['museum']
-
-## Free music composition and notation software | MuseScore
- - [https://musescore.org](https://musescore.org)
- - date published: 2023-10-25T21:45:30.331302+00:00
- - user: None
- - tags: []
-
-## Museum Crush – from Culture24
- - [https://museumcrush.org](https://museumcrush.org)
- - date published: 2023-10-25T21:45:32.572221+00:00
- - user: None
- - tags: []
-
-## Free Sheet Music, Royalty Free & Public Domain Music | Musopen
- - [https://musopen.org](https://musopen.org)
- - date published: 2023-10-25T11:35:30.710422+00:00
- - user: None
- - tags: ['asset audio']
-
-## mwmbl blog
- - [https://blog.mwmbl.org](https://blog.mwmbl.org)
- - date published: 2023-12-23T17:08:48.710959+00:00
- - user: None
- - tags: []
-
-## MWMBL - Search
- - [https://mwmbl.org](https://mwmbl.org)
- - date published: 2023-10-25T09:07:24.154196+00:00
- - user: None
- - tags: ['search engine']
-
-## MX Linux – Midweight Simple Stable Desktop OS
- - [https://mxlinux.org](https://mxlinux.org)
- - date published: 2023-11-06T10:13:11.934073+00:00
- - user: None
- - tags: ['linux', 'operating system']
 

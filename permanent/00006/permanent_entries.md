@@ -1,3 +1,105 @@
+## Jingnan Shi
+ - [https://jingnanshi.com](https://jingnanshi.com)
+ - date published: 2023-10-25T15:29:17.944385+00:00
+ - user: None
+ - tags: []
+
+## JITX - Software-defined electronics
+ - [https://www.jitx.com](https://www.jitx.com)
+ - date published: 2023-10-25T15:29:20.014336+00:00
+ - user: None
+ - tags: []
+
+## Joseph Jude - Coach • CTO • Podcast Host
+ - [https://jjude.com](https://jjude.com)
+ - date published: 2023-12-05T14:37:52.987095+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jonathan Katz
+ - [https://jkatz05.com](https://jkatz05.com)
+ - date published: 2023-10-25T15:29:21.287258+00:00
+ - user: None
+ - tags: []
+
+## Jaso'n k'Leinberg is still here | jkleinberg.com
+ - [https://jkleinberg.com](https://jkleinberg.com)
+ - date published: 2024-01-10T23:53:20.981430+00:00
+ - user: None
+ - tags: []
+
+## Jon Kulton
+ - [https://jkulton.com](https://jkulton.com)
+ - date published: 2023-10-25T15:29:22.992517+00:00
+ - user: None
+ - tags: []
+
+## Jon Quixote | In which the author considers whether a community is more like a giant or more like a windmill.
+ - [https://jlericson.com](https://jlericson.com)
+ - date published: 2023-10-25T15:29:25.754618+00:00
+ - user: None
+ - tags: []
+
+## James Long - blog & knowledge graph
+ - [https://jlongster.com](https://jlongster.com)
+ - date published: 2023-10-25T15:29:27.238133+00:00
+ - user: None
+ - tags: []
+
+## JL Peridot
+ - [https://jlperidot.com](https://jlperidot.com)
+ - date published: 2024-01-07T08:43:35.103723+00:00
+ - user: None
+ - tags: []
+
+## jM Galleries: Everyday Fine Art, Portraits, Weddings, Real Estate and Lifestyle Photography by j.McCarthy
+ - [https://jmgalleries.com](https://jmgalleries.com)
+ - date published: 2023-12-28T18:51:11.146539+00:00
+ - user: None
+ - tags: ['personal']
+
+## A sonic soul with a relentless drive to make & learn - JmsDnns
+ - [https://jmsdnns.com](https://jmsdnns.com)
+ - date published: 2023-10-25T15:29:28.593016+00:00
+ - user: None
+ - tags: []
+
+## jneidel.com
+ - [https://jneidel.com](https://jneidel.com)
+ - date published: 2024-01-11T12:23:06.500517+00:00
+ - user: None
+ - tags: []
+
+## Johnson & Johnson
+ - [https://www.jnj.com](https://www.jnj.com)
+ - date published: 2023-11-01T08:42:21.909273+00:00
+ - user: None
+ - tags: []
+
+## https://www.jntrnr.com
+ - [https://www.jntrnr.com](https://www.jntrnr.com)
+ - date published: 2023-10-25T15:29:29.920596+00:00
+ - user: None
+ - tags: []
+
+## Joan Jett and the Blackhearts
+ - [https://www.joanjett.com](https://www.joanjett.com)
+ - date published: 2024-01-15T10:42:00+00:00
+ - user: rumpel
+ - tags: ['music band']
+
+## Joanne Jacobs on Education and Parenting
+ - [https://www.joannejacobs.com](https://www.joannejacobs.com)
+ - date published: 2023-10-25T15:29:32.835787+00:00
+ - user: None
+ - tags: []
+
+## Tech + Economics + Humans
+ - [https://joanwestenberg.com](https://joanwestenberg.com)
+ - date published: 2023-10-30T12:42:03.697617+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://joaodlf.com](https://joaodlf.com)
  - date published: 2023-10-25T15:29:35.649022+00:00
@@ -1925,6 +2027,12 @@
  - user: None
  - tags: ['personal']
 
+## Home
+ - [https://kishvanchee.com](https://kishvanchee.com)
+ - date published: 2022-03-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Live Gold Prices | Gold News And Analysis | Mining News | KITCO
  - [https://www.kitco.com](https://www.kitco.com)
  - date published: 2023-10-25T15:37:43.834479+00:00
@@ -3153,7 +3261,7 @@
  - [https://www.leefang.com](https://www.leefang.com)
  - date published: 2023-10-25T15:44:30.439070+00:00
  - user: None
- - tags: []
+ - tags: ['journalism']
 
 ## Lee Kelleher
  - [https://leekelleher.com](https://leekelleher.com)
@@ -5892,112 +6000,4 @@ diversions.
  - date published: 2023-10-25T15:58:19.582884+00:00
  - user: None
  - tags: []
-
-## Attainable Felicity | Matt Kirkland
- - [https://attainablefelicity.mattkirkland.com](https://attainablefelicity.mattkirkland.com)
- - date published: 2023-10-25T15:58:20.923737+00:00
- - user: None
- - tags: []
-
-## Matt Langford
- - [https://mattlangford.com](https://mattlangford.com)
- - date published: 2023-10-25T15:58:22.745675+00:00
- - user: None
- - tags: []
-
-## Matt Mazur
- - [https://mattmazur.com](https://mattmazur.com)
- - date published: 2023-10-25T15:58:27.234425+00:00
- - user: None
- - tags: []
-
-## Matt Megrue – Product Designer
- - [https://mattmegruedesign.com](https://mattmegruedesign.com)
- - date published: 2023-12-13T06:05:18.360177+00:00
- - user: None
- - tags: ['personal']
-
-## None
- - [https://www.mattroelle.com](https://www.mattroelle.com)
- - date published: 2024-01-09T02:43:15.722771+00:00
- - user: None
- - tags: []
-
-## Author and Author Services Provider Matthew Wayne Selznick
- - [https://www.mattselznick.com](https://www.mattselznick.com)
- - date published: 2023-12-07T17:37:46.378916+00:00
- - user: None
- - tags: ['personal']
-
-## Matt Stein
- - [https://mattstein.com](https://mattstein.com)
- - date published: 2023-12-20T11:45:06.855158+00:00
- - user: None
- - tags: ['personal']
-
-## MatX | Faster chips for LLMs
- - [https://matx.com](https://matx.com)
- - date published: 2023-10-25T15:58:28.628172+00:00
- - user: None
- - tags: []
-
-## Mauricio Piña - Digital Marketing Consultant
- - [https://mauriciopina.com](https://mauriciopina.com)
- - date published: 2024-01-05T21:36:11.603459+00:00
- - user: None
- - tags: []
-
-## Maurizio Leo
- - [https://www.maurizioleo.com](https://www.maurizioleo.com)
- - date published: 2024-01-12T08:14:29.684139+00:00
- - user: None
- - tags: []
-
-## Availability | Max
- - [https://www.max.com](https://www.max.com)
- - date published: 2023-10-24T20:05:43.408291+00:00
- - user: None
- - tags: ['video streaming']
-
-## MAX Security | Security Services & Intelligence Reports
- - [https://www.max-security.com](https://www.max-security.com)
- - date published: 2023-10-25T15:58:36.481351+00:00
- - user: None
- - tags: []
-
-## None
- - [https://oss.maxcdn.com](https://oss.maxcdn.com)
- - date published: 2023-12-11T16:36:15.248509+00:00
- - user: None
- - tags: []
-
-## Max Countryman - People first leader, technologist, and indie hacker
- - [https://www.maxcountryman.com](https://www.maxcountryman.com)
- - date published: 2023-10-25T15:58:43.515740+00:00
- - user: None
- - tags: []
-
-## Maxime Heckel's Blog
- - [https://blog.maximeheckel.com](https://blog.maximeheckel.com)
- - date published: 2023-10-31T16:58:23.142701+00:00
- - user: None
- - tags: []
-
-## Maximilian Golla
- - [https://maximiliangolla.com](https://maximiliangolla.com)
- - date published: 2023-10-25T15:58:56.149767+00:00
- - user: None
- - tags: []
-
-## Maxim Massenkoff | Homepage
- - [https://maximmassenkoff.com](https://maximmassenkoff.com)
- - date published: 2023-10-25T15:58:57.718905+00:00
- - user: None
- - tags: []
-
-## Watch Maximum Effort Channel on Fubo | Maximum Effort Channel
- - [https://www.maximumeffortchannel.com](https://www.maximumeffortchannel.com)
- - date published: 2023-11-28T21:01:12+00:00
- - user: rumpel
- - tags: ['video streaming']
 

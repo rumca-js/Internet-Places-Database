@@ -1,3 +1,141 @@
+## Rifat Najmi | Visual Artist and Designer based in Jakarta
+ - [https://rifatnajmi.com](https://rifatnajmi.com)
+ - date published: 2024-01-13T22:53:38.949880+00:00
+ - user: None
+ - tags: []
+
+## RIFE2 Framework : Full-stack, no-declaration, framework to quickly and effortlessly create web applications with modern Java.
+ - [https://rife2.com](https://rife2.com)
+ - date published: 2023-10-25T16:51:26.581095+00:00
+ - user: None
+ - tags: []
+
+## Riffusion
+ - [https://www.riffusion.com](https://www.riffusion.com)
+ - date published: 2023-10-25T16:51:27.329208+00:00
+ - user: None
+ - tags: []
+
+## Ken Shirriff's blog
+ - [https://www.righto.com](https://www.righto.com)
+ - date published: 2023-10-25T16:51:33.313104+00:00
+ - user: None
+ - tags: ['personal', 'blog']
+
+## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
+ - [https://www.rigzone.com](https://www.rigzone.com)
+ - date published: 2023-10-25T16:51:39.145136+00:00
+ - user: None
+ - tags: []
+
+## Rihanna - Rihanna
+ - [https://www.rihannanow.com](https://www.rihannanow.com)
+ - date published: 2023-11-13T10:35:34.882090+00:00
+ - user: None
+ - tags: ['music band']
+
+## Rihards Steinbergs
+ - [https://rihards.com](https://rihards.com)
+ - date published: 2024-01-12T10:32:04.930603+00:00
+ - user: None
+ - tags: []
+
+## https://ui.rilldata.com
+ - [https://ui.rilldata.com](https://ui.rilldata.com)
+ - date published: 2024-01-09T02:48:01.435862+00:00
+ - user: None
+ - tags: []
+
+## Home - Rimac Automobili
+ - [https://www.rimac-automobili.com](https://www.rimac-automobili.com)
+ - date published: 2024-01-09T02:48:02.433622+00:00
+ - user: None
+ - tags: []
+
+## Latest News from Rimac – Rimac Newsroom
+ - [https://www.rimac-newsroom.com](https://www.rimac-newsroom.com)
+ - date published: 2023-10-25T16:51:41.401391+00:00
+ - user: None
+ - tags: []
+
+## Rimenes Ribeiro
+ - [https://rimenesribeiro.com](https://rimenesribeiro.com)
+ - date published: 2023-12-30T22:23:58.013629+00:00
+ - user: None
+ - tags: ['personal']
+
+## RimWorld - Sci-Fi Colony Sim
+ - [https://rimworldgame.com](https://rimworldgame.com)
+ - date published: 2023-10-25T16:51:42.834278+00:00
+ - user: None
+ - tags: []
+
+## Ring.com Status
+ - [https://status.ring.com](https://status.ring.com)
+ - date published: 2023-10-25T16:51:44.473538+00:00
+ - user: None
+ - tags: []
+
+## Ringer
+ - [https://www.ringerhq.com](https://www.ringerhq.com)
+ - date published: 2023-10-25T16:51:53.579899+00:00
+ - user: None
+ - tags: []
+
+## Riot Games. Developer of League of Legends, VALORANT, Teamfight Tactics, Legends of Runeterra, and Wild Rift. Creators of Arcane. Home of LOL and VALORANT Esports.
+ - [https://www.riotgames.com](https://www.riotgames.com)
+ - date published: 2024-01-23T00:59:39.503692+00:00
+ - user: None
+ - tags: ['video game developer']
+
+## Home
+ - [https://www.riotimesonline.com](https://www.riotimesonline.com)
+ - date published: 2023-12-06T19:21:30.188407+00:00
+ - user: None
+ - tags: []
+
+## Ripley's Believe It or Not! | Aquariums, Attractions, and Weird News
+ - [https://www.ripleys.com](https://www.ripleys.com)
+ - date published: 2023-10-25T16:51:58.390818+00:00
+ - user: None
+ - tags: []
+
+## Oven Career Opportunities
+ - [https://oven.rippling-ats.com](https://oven.rippling-ats.com)
+ - date published: 2023-10-25T16:51:59.432468+00:00
+ - user: None
+ - tags: []
+
+## Learn programming languages with books and examples
+ - [https://riptutorial.com](https://riptutorial.com)
+ - date published: 2024-01-21T21:07:11+00:00
+ - user: rumpel
+ - tags: ['tutorial']
+
+## Rishikesh Sreehari - Redefining Probabilities
+ - [https://rishikeshs.com](https://rishikeshs.com)
+ - date published: 2023-12-09T15:00:20.435644+00:00
+ - user: None
+ - tags: ['personal']
+
+## RisingWave: Open-Source Streaming Database
+ - [https://www.risingwave.com](https://www.risingwave.com)
+ - date published: 2023-10-25T16:52:03.481553+00:00
+ - user: None
+ - tags: []
+
+## RisingWave: Open-Source Streaming Database
+ - [https://www.risingwave-labs.com](https://www.risingwave-labs.com)
+ - date published: 2023-10-25T16:52:06.777687+00:00
+ - user: None
+ - tags: []
+
+## RiskInsight
+ - [https://www.riskinsight-wavestone.com](https://www.riskinsight-wavestone.com)
+ - date published: 2024-01-09T02:48:03.956238+00:00
+ - user: None
+ - tags: []
+
 ## Homepage
  - [https://www.riveducha.com](https://www.riveducha.com)
  - date published: 2023-10-25T16:52:07.967889+00:00
@@ -901,6 +1039,12 @@
 ## About me - Ryan Bigg
  - [https://ryanbigg.com](https://ryanbigg.com)
  - date published: 2023-10-25T16:55:42.654673+00:00
+ - user: None
+ - tags: []
+
+## Ryan Kulp
+ - [https://www.ryanckulp.com](https://www.ryanckulp.com)
+ - date published: 2024-01-30T14:46:23.121943+00:00
  - user: None
  - tags: []
 
@@ -2743,6 +2887,12 @@
 ## Shellsharks
  - [https://shellsharks.com](https://shellsharks.com)
  - date published: 2024-01-21T20:47:50.232449+00:00
+ - user: None
+ - tags: []
+
+## :: Dan Shepelavy  :: | this, that, and also, etc ::
+ - [https://shepelavy.com](https://shepelavy.com)
+ - date published: 2024-01-30T18:41:12.942576+00:00
  - user: None
  - tags: []
 
@@ -5615,6 +5765,12 @@
  - user: None
  - tags: []
 
+## Home
+ - [https://www.stringkick.com](https://www.stringkick.com)
+ - date published: 2020-09-25T14:17:50+00:00
+ - user: None
+ - tags: []
+
 ## Stripe Press — Ideas for progress
  - [https://press.stripe.com](https://press.stripe.com)
  - date published: 2023-11-22T21:03:47.005626+00:00
@@ -5753,6 +5909,12 @@
  - user: rumpel
  - tags: ['content creators', 'monetization']
 
+## https://12challenges.substack.com
+ - [https://12challenges.substack.com](https://12challenges.substack.com)
+ - date published: 2024-01-30T17:02:46.662176+00:00
+ - user: None
+ - tags: []
+
 ## 1517 Fund | Zak Slayback | Substack
  - [https://1517.substack.com](https://1517.substack.com)
  - date published: 2023-10-25T09:40:46.254905+00:00
@@ -5842,166 +6004,4 @@
  - date published: 2023-11-04T06:47:54.961600+00:00
  - user: None
  - tags: []
-
-## AI Political Pulse | Greg Dale | Substack
- - [https://aipoliticalpulse.substack.com](https://aipoliticalpulse.substack.com)
- - date published: 2023-10-25T09:41:23.435206+00:00
- - user: None
- - tags: ['substack']
-
-## AI Snake Oil | Sayash Kapoor | Substack
- - [https://aisnakeoil.substack.com](https://aisnakeoil.substack.com)
- - date published: 2023-10-25T09:41:27.444440+00:00
- - user: None
- - tags: ['substack']
-
-## AI Supremacy  | Michael Spencer | Substack
- - [https://aisupremacy.substack.com](https://aisupremacy.substack.com)
- - date published: 2023-11-20T15:43:53.277002+00:00
- - user: None
- - tags: []
-
-## Life Since the Baby Boom | Albert Cory | Substack
- - [https://albertcory50.substack.com](https://albertcory50.substack.com)
- - date published: 2023-10-25T09:41:35.577450+00:00
- - user: None
- - tags: ['substack']
-
-## The Alchemy of Money | Frederik Gieschen | Substack
- - [https://alchemy.substack.com](https://alchemy.substack.com)
- - date published: 2023-12-04T15:57:22.523973+00:00
- - user: None
- - tags: []
-
-## Public Service | Alethios | Substack
- - [https://alethios.substack.com](https://alethios.substack.com)
- - date published: 2023-11-16T09:10:46.307541+00:00
- - user: None
- - tags: []
-
-## Unreported Truths | Alex Berenson | Substack
- - [https://alexberenson.substack.com](https://alexberenson.substack.com)
- - date published: 2023-10-25T09:41:42.940169+00:00
- - user: None
- - tags: ['substack']
-
-## Alex Ewerlöf Notes | Substack
- - [https://alexewerlof.substack.com](https://alexewerlof.substack.com)
- - date published: 2023-10-25T09:41:45.579089+00:00
- - user: None
- - tags: ['substack']
-
-## Rational in the Fullness of Time | Alexandr Wang | Substack
- - [https://alexw.substack.com](https://alexw.substack.com)
- - date published: 2023-10-25T09:41:47.119980+00:00
- - user: None
- - tags: ['substack']
-
-## A Biologist's Guide to Life | Alex Washburne | Substack
- - [https://alexwasburne.substack.com](https://alexwasburne.substack.com)
- - date published: 2023-10-25T09:41:49.395167+00:00
- - user: None
- - tags: ['substack']
-
-## Alex Writes | Alex Wilhelm | Substack
- - [https://alexwrites.substack.com](https://alexwrites.substack.com)
- - date published: 2023-10-25T09:41:52.752191+00:00
- - user: None
- - tags: ['substack']
-
-## https://ameliatait.substack.com
- - [https://ameliatait.substack.com](https://ameliatait.substack.com)
- - date published: 2024-01-23T19:06:15.106114+00:00
- - user: None
- - tags: []
-
-## Am I Stronger Yet? | Steve | Substack
- - [https://amistrongeryet.substack.com](https://amistrongeryet.substack.com)
- - date published: 2023-10-25T09:41:55.230669+00:00
- - user: None
- - tags: ['substack']
-
-## Ammar Mian | Substack
- - [https://ammarmian.substack.com](https://ammarmian.substack.com)
- - date published: 2023-10-25T09:41:57.289319+00:00
- - user: None
- - tags: ['substack']
-
-## Sunshine and Seedlings: A Newsletter by HydroponicTrash | Substack
- - [https://anarchosolarpunk.substack.com](https://anarchosolarpunk.substack.com)
- - date published: 2023-10-25T09:42:00.050208+00:00
- - user: None
- - tags: ['substack']
-
-## Andrew's Substack | Andrew Huth | Substack
- - [https://andrewhuth.substack.com](https://andrewhuth.substack.com)
- - date published: 2023-10-25T09:42:02.215026+00:00
- - user: None
- - tags: ['substack']
-
-## Anh-Tho’s Newsletter | Anh-Tho Chuong | Substack
- - [https://anhtho.substack.com](https://anhtho.substack.com)
- - date published: 2023-10-25T09:42:03.676083+00:00
- - user: None
- - tags: ['substack']
-
-## Animation Obsessive | Animation Obsessive Staff | Substack
- - [https://animationobsessive.substack.com](https://animationobsessive.substack.com)
- - date published: 2023-10-25T09:42:11.045618+00:00
- - user: None
- - tags: ['substack']
-
-## Anna’s Archival Musings | Anna Mancini | Substack
- - [https://annamancini.substack.com](https://annamancini.substack.com)
- - date published: 2023-10-25T09:42:12.649007+00:00
- - user: None
- - tags: ['substack']
-
-## Culture Study | Anne Helen Petersen | Substack
- - [https://annehelen.substack.com](https://annehelen.substack.com)
- - date published: 2023-10-25T09:42:15.878553+00:00
- - user: None
- - tags: ['substack']
-
-## System Change | Ann Pettifor | Substack
- - [https://annpettifor.substack.com](https://annpettifor.substack.com)
- - date published: 2023-10-25T09:42:18.289389+00:00
- - user: None
- - tags: ['substack']
-
-## Age of Invention, by Anton Howes | Substack
- - [https://antonhowes.substack.com](https://antonhowes.substack.com)
- - date published: 2023-10-25T09:42:20.167627+00:00
- - user: None
- - tags: ['substack']
-
-## Beneath the Pavement | Antonio Melonio | Substack
- - [https://antoniomelonio.substack.com](https://antoniomelonio.substack.com)
- - date published: 2023-10-25T09:42:24.309389+00:00
- - user: None
- - tags: ['substack']
-
-## Working Theories | Anu Atluru | Substack
- - [https://anu.substack.com](https://anu.substack.com)
- - date published: 2023-10-25T09:42:27.141462+00:00
- - user: None
- - tags: ['substack']
-
-## Runner’s Newsletter | Substack
- - [https://applewatchrunner.substack.com](https://applewatchrunner.substack.com)
- - date published: 2023-10-25T09:42:29.442208+00:00
- - user: None
- - tags: ['substack']
-
-## Mindful Musings | Apurva Chitnis | Substack
- - [https://apuchitnis.substack.com](https://apuchitnis.substack.com)
- - date published: 2023-10-25T09:42:32.956411+00:00
- - user: None
- - tags: ['substack']
-
-## Cabinet of Wonders | Samuel Arbesman | Substack
- - [https://arbesman.substack.com](https://arbesman.substack.com)
- - date published: 2023-10-25T09:42:37.648122+00:00
- - user: None
- - tags: ['substack']
 

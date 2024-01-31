@@ -1,3 +1,165 @@
+## AI Political Pulse | Greg Dale | Substack
+ - [https://aipoliticalpulse.substack.com](https://aipoliticalpulse.substack.com)
+ - date published: 2023-10-25T09:41:23.435206+00:00
+ - user: None
+ - tags: ['substack']
+
+## AI Snake Oil | Sayash Kapoor | Substack
+ - [https://aisnakeoil.substack.com](https://aisnakeoil.substack.com)
+ - date published: 2023-10-25T09:41:27.444440+00:00
+ - user: None
+ - tags: ['substack']
+
+## AI Supremacy  | Michael Spencer | Substack
+ - [https://aisupremacy.substack.com](https://aisupremacy.substack.com)
+ - date published: 2023-11-20T15:43:53.277002+00:00
+ - user: None
+ - tags: []
+
+## Life Since the Baby Boom | Albert Cory | Substack
+ - [https://albertcory50.substack.com](https://albertcory50.substack.com)
+ - date published: 2023-10-25T09:41:35.577450+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Alchemy of Money | Frederik Gieschen | Substack
+ - [https://alchemy.substack.com](https://alchemy.substack.com)
+ - date published: 2023-12-04T15:57:22.523973+00:00
+ - user: None
+ - tags: []
+
+## Public Service | Alethios | Substack
+ - [https://alethios.substack.com](https://alethios.substack.com)
+ - date published: 2023-11-16T09:10:46.307541+00:00
+ - user: None
+ - tags: []
+
+## Unreported Truths | Alex Berenson | Substack
+ - [https://alexberenson.substack.com](https://alexberenson.substack.com)
+ - date published: 2023-10-25T09:41:42.940169+00:00
+ - user: None
+ - tags: ['substack']
+
+## Alex Ewerlöf Notes | Substack
+ - [https://alexewerlof.substack.com](https://alexewerlof.substack.com)
+ - date published: 2023-10-25T09:41:45.579089+00:00
+ - user: None
+ - tags: ['substack']
+
+## Rational in the Fullness of Time | Alexandr Wang | Substack
+ - [https://alexw.substack.com](https://alexw.substack.com)
+ - date published: 2023-10-25T09:41:47.119980+00:00
+ - user: None
+ - tags: ['substack']
+
+## A Biologist's Guide to Life | Alex Washburne | Substack
+ - [https://alexwasburne.substack.com](https://alexwasburne.substack.com)
+ - date published: 2023-10-25T09:41:49.395167+00:00
+ - user: None
+ - tags: ['substack']
+
+## Alex Writes | Alex Wilhelm | Substack
+ - [https://alexwrites.substack.com](https://alexwrites.substack.com)
+ - date published: 2023-10-25T09:41:52.752191+00:00
+ - user: None
+ - tags: ['substack']
+
+## https://ameliatait.substack.com
+ - [https://ameliatait.substack.com](https://ameliatait.substack.com)
+ - date published: 2024-01-23T19:06:15.106114+00:00
+ - user: None
+ - tags: []
+
+## Am I Stronger Yet? | Steve | Substack
+ - [https://amistrongeryet.substack.com](https://amistrongeryet.substack.com)
+ - date published: 2023-10-25T09:41:55.230669+00:00
+ - user: None
+ - tags: ['substack']
+
+## Ammar Mian | Substack
+ - [https://ammarmian.substack.com](https://ammarmian.substack.com)
+ - date published: 2023-10-25T09:41:57.289319+00:00
+ - user: None
+ - tags: ['substack']
+
+## Sunshine and Seedlings: A Newsletter by HydroponicTrash | Substack
+ - [https://anarchosolarpunk.substack.com](https://anarchosolarpunk.substack.com)
+ - date published: 2023-10-25T09:42:00.050208+00:00
+ - user: None
+ - tags: ['substack']
+
+## Andrew's Substack | Andrew Huth | Substack
+ - [https://andrewhuth.substack.com](https://andrewhuth.substack.com)
+ - date published: 2023-10-25T09:42:02.215026+00:00
+ - user: None
+ - tags: ['substack']
+
+## Anh-Tho’s Newsletter | Anh-Tho Chuong | Substack
+ - [https://anhtho.substack.com](https://anhtho.substack.com)
+ - date published: 2023-10-25T09:42:03.676083+00:00
+ - user: None
+ - tags: ['substack']
+
+## Animation Obsessive | Animation Obsessive Staff | Substack
+ - [https://animationobsessive.substack.com](https://animationobsessive.substack.com)
+ - date published: 2023-10-25T09:42:11.045618+00:00
+ - user: None
+ - tags: ['substack']
+
+## Anna’s Archival Musings | Anna Mancini | Substack
+ - [https://annamancini.substack.com](https://annamancini.substack.com)
+ - date published: 2023-10-25T09:42:12.649007+00:00
+ - user: None
+ - tags: ['substack']
+
+## Culture Study | Anne Helen Petersen | Substack
+ - [https://annehelen.substack.com](https://annehelen.substack.com)
+ - date published: 2023-10-25T09:42:15.878553+00:00
+ - user: None
+ - tags: ['substack']
+
+## System Change | Ann Pettifor | Substack
+ - [https://annpettifor.substack.com](https://annpettifor.substack.com)
+ - date published: 2023-10-25T09:42:18.289389+00:00
+ - user: None
+ - tags: ['substack']
+
+## Age of Invention, by Anton Howes | Substack
+ - [https://antonhowes.substack.com](https://antonhowes.substack.com)
+ - date published: 2023-10-25T09:42:20.167627+00:00
+ - user: None
+ - tags: ['substack']
+
+## Beneath the Pavement | Antonio Melonio | Substack
+ - [https://antoniomelonio.substack.com](https://antoniomelonio.substack.com)
+ - date published: 2023-10-25T09:42:24.309389+00:00
+ - user: None
+ - tags: ['substack']
+
+## Working Theories | Anu Atluru | Substack
+ - [https://anu.substack.com](https://anu.substack.com)
+ - date published: 2023-10-25T09:42:27.141462+00:00
+ - user: None
+ - tags: ['substack']
+
+## Runner’s Newsletter | Substack
+ - [https://applewatchrunner.substack.com](https://applewatchrunner.substack.com)
+ - date published: 2023-10-25T09:42:29.442208+00:00
+ - user: None
+ - tags: ['substack']
+
+## Mindful Musings | Apurva Chitnis | Substack
+ - [https://apuchitnis.substack.com](https://apuchitnis.substack.com)
+ - date published: 2023-10-25T09:42:32.956411+00:00
+ - user: None
+ - tags: ['substack']
+
+## Cabinet of Wonders | Samuel Arbesman | Substack
+ - [https://arbesman.substack.com](https://arbesman.substack.com)
+ - date published: 2023-10-25T09:42:37.648122+00:00
+ - user: None
+ - tags: ['substack']
+
 ## Transmissions from the floor | Drew Schorno | Substack
  - [https://arcove.substack.com](https://arcove.substack.com)
  - date published: 2023-10-25T09:42:40.395493+00:00
@@ -3854,7 +4016,7 @@
  - [https://teespring.com](https://teespring.com)
  - date published: 2023-12-11T17:45:33.713090+00:00
  - user: None
- - tags: []
+ - tags: ['merchendise']
 
 ## Teflon™ Home | Teflon™ Fluoropolymers
  - [https://www.teflon.com](https://www.teflon.com)
@@ -4715,6 +4877,12 @@
  - user: None
  - tags: []
 
+## the Dangerz
+ - [https://www.thedangerz.com](https://www.thedangerz.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## The Dark Mod - Stealth Gaming in a Gothic Steampunk World | The Dark Mod
  - [https://www.thedarkmod.com](https://www.thedarkmod.com)
  - date published: 2023-10-30T15:27:29.953311+00:00
@@ -4791,7 +4959,7 @@
  - [https://theentrepreneurway.com](https://theentrepreneurway.com)
  - date published: 2023-11-29T14:41:41.566948+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## The Epoch Times | Breaking News, Latest News, World News and Videos
  - [https://feed.theepochtimes.com](https://feed.theepochtimes.com)
@@ -5828,174 +5996,6 @@
 ## The Undeniable Street View
  - [https://theundeniablestreetview.com](https://theundeniablestreetview.com)
  - date published: 2023-10-25T17:39:50.627178+00:00
- - user: None
- - tags: []
-
-## The Useless Web
- - [https://theuselessweb.com](https://theuselessweb.com)
- - date published: 2023-10-27T10:59:06.943011+00:00
- - user: None
- - tags: ['wtf']
-
-## Velvet Duke Productions
- - [https://thevelvetduke.com](https://thevelvetduke.com)
- - date published: 2023-12-20T19:15:07.109651+00:00
- - user: None
- - tags: ['personal']
-
-## The Verge
- - [https://www.theverge.com](https://www.theverge.com)
- - date published: 2023-10-25T10:29:09.149200+00:00
- - user: None
- - tags: ['news']
-
-## About
- - [https://blog.thevinter.com](https://blog.thevinter.com)
- - date published: 2023-10-25T17:39:51.130190+00:00
- - user: None
- - tags: []
-
-## The Walt Disney Company
- - [https://thewaltdisneycompany.com](https://thewaltdisneycompany.com)
- - date published: 2024-01-18T18:43:54.830609+00:00
- - user: None
- - tags: []
-
-## The Washington Standard -
- - [https://thewashingtonstandard.com](https://thewashingtonstandard.com)
- - date published: 2023-10-25T17:39:54.260943+00:00
- - user: None
- - tags: []
-
-## Wealth Advisor | The Voice of the Financial Advisor Community
- - [https://www.thewealthadvisor.com](https://www.thewealthadvisor.com)
- - date published: 2023-10-25T17:39:56.632715+00:00
- - user: None
- - tags: []
-
-## The Web Is Fucked
- - [https://thewebisfucked.com](https://thewebisfucked.com)
- - date published: 2023-10-25T17:40:03.136235+00:00
- - user: None
- - tags: []
-
-## Pam The Webivore -
- - [https://thewebivore.com](https://thewebivore.com)
- - date published: 2023-10-25T17:40:06.577778+00:00
- - user: None
- - tags: []
-
-## The Week | All you need to know about everything that matters
- - [https://theweek.com](https://theweek.com)
- - date published: 2023-10-25T10:39:27.419795+00:00
- - user: None
- - tags: []
-
-## The Week | All you need to know about everything that matters
- - [https://www.theweek.com](https://www.theweek.com)
- - date published: 2023-12-13T14:29:39.338270+00:00
- - user: None
- - tags: []
-
-## The Wired Nomad - Home
- - [https://thewirednomad.com](https://thewirednomad.com)
- - date published: 2024-01-09T02:51:18.349892+00:00
- - user: None
- - tags: []
-
-## theworldsworstwebsiteever.com
- - [http://www.theworldsworstwebsiteever.com](http://www.theworldsworstwebsiteever.com)
- - date published: 2023-10-25T17:40:14.612649+00:00
- - user: None
- - tags: []
-
-## The World Thinks - Self-help, Social, Spiritual, Strength and Success
- - [https://theworldthinks.com](https://theworldthinks.com)
- - date published: 2023-11-07T20:19:24.129998+00:00
- - user: None
- - tags: []
-
-## TheWrap - Your trusted source for breaking entertainment news, film reviews, TV updates and Hollywood insights. Stay informed with the latest entertainment headlines and analysis from TheWrap.
- - [https://www.thewrap.com](https://www.thewrap.com)
- - date published: 2023-10-25T17:40:23.680900+00:00
- - user: None
- - tags: []
-
-## Home | Yeshiva World News | The Yeshiva World
- - [https://www.theyeshivaworld.com](https://www.theyeshivaworld.com)
- - date published: 2023-11-17T07:41:54.275650+00:00
- - user: None
- - tags: []
-
-## Zero Day Initiative — Homepage Redirect
- - [https://www.thezdi.com](https://www.thezdi.com)
- - date published: 2023-10-25T17:40:24.624625+00:00
- - user: None
- - tags: []
-
-## Technical ramblings on Elixir, Ruby, Dev/Ops & code in general.
- - [https://thibautbarrere.com](https://thibautbarrere.com)
- - date published: 2023-10-25T17:40:30.637246+00:00
- - user: None
- - tags: []
-
-## Home - Through the Looking Glass
- - [https://www.thief-thecircle.com](https://www.thief-thecircle.com)
- - date published: 2024-01-09T02:51:20.821091+00:00
- - user: None
- - tags: []
-
-## Jamie Thingelstad
- - [https://www.thingelstad.com](https://www.thingelstad.com)
- - date published: 2023-12-30T05:22:50.017517+00:00
- - user: None
- - tags: ['personal']
-
-## Thingiverse - Digital Designs for Physical Objects
- - [https://www.thingiverse.com](https://www.thingiverse.com)
- - date published: 2023-10-25T08:29:55.121392+00:00
- - user: None
- - tags: ['3d printing', 'assets models']
-
-## Investment News & Analysis for Financial Advisors | ThinkAdvisor
- - [https://www.thinkadvisor.com](https://www.thinkadvisor.com)
- - date published: 2023-10-25T17:40:33.056700+00:00
- - user: None
- - tags: []
-
-## Thinking Elixir Podcast
- - [https://podcast.thinkingelixir.com](https://podcast.thinkingelixir.com)
- - date published: 2023-10-25T17:40:34.591140+00:00
- - user: None
- - tags: []
-
-## ThinkPenguin.com | Penguin Laptops, Desktops, and Accessories with Linux & GNU Support
- - [https://www.thinkpenguin.com](https://www.thinkpenguin.com)
- - date published: 2023-10-25T17:40:36.061061+00:00
- - user: None
- - tags: []
-
-## Thinkst Thoughts – Writing about our experiences and research findings
- - [https://blog.thinkst.com](https://blog.thinkst.com)
- - date published: 2023-10-25T17:40:38.116838+00:00
- - user: None
- - tags: []
-
-## This Builds Character
- - [https://thisbuildscharacter.com](https://thisbuildscharacter.com)
- - date published: 2023-11-29T15:44:15.550502+00:00
- - user: None
- - tags: ['personal']
-
-## Colossal — The best of art, craft, and visual culture since 2010.
- - [https://www.thisiscolossal.com](https://www.thisiscolossal.com)
- - date published: 2023-10-25T17:40:43.687554+00:00
- - user: None
- - tags: []
-
-## A Message From Appy McSqurriel - CEO of Instacart
- - [https://thislayoffdoesnotexist.com](https://thislayoffdoesnotexist.com)
- - date published: 2023-10-25T17:40:44.509468+00:00
  - user: None
  - tags: []
 

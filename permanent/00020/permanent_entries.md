@@ -1,3 +1,285 @@
+## Wikiversity
+ - [https://en.wikiversity.org](https://en.wikiversity.org)
+ - date published: 2023-10-25T22:21:18.483834+00:00
+ - user: None
+ - tags: []
+
+## Wiktionary, the free dictionary
+ - [https://en.wiktionary.org](https://en.wiktionary.org)
+ - date published: 2023-10-25T22:21:25.676976+00:00
+ - user: None
+ - tags: []
+
+## Willow Specifications - Willow
+ - [https://willowprotocol.org](https://willowprotocol.org)
+ - date published: 2024-01-17T14:03:21.090496+00:00
+ - user: None
+ - tags: []
+
+## Explore groups · GitLab
+ - [https://gitlab.winehq.org](https://gitlab.winehq.org)
+ - date published: 2023-10-25T22:21:28.097147+00:00
+ - user: None
+ - tags: []
+
+## WineHQ - Run Windows applications on Linux, BSD, Solaris and macOS
+ - [https://www.winehq.org](https://www.winehq.org)
+ - date published: 2023-10-25T08:34:14.919530+00:00
+ - user: None
+ - tags: ['emulator', 'open source']
+
+## wingolog
+ - [https://wingolog.org](https://wingolog.org)
+ - date published: 2023-10-25T22:21:31.127284+00:00
+ - user: None
+ - tags: []
+
+## wingolog
+ - [https://www.wingolog.org](https://www.wingolog.org)
+ - date published: 2023-10-25T22:21:34.064097+00:00
+ - user: None
+ - tags: []
+
+## Winlator - Android app
+ - [https://winlator.org](https://winlator.org)
+ - date published: 2024-01-22T21:14:09.078239+00:00
+ - user: None
+ - tags: []
+
+## EFNet #Winprog
+ - [http://www.winprog.org](http://www.winprog.org)
+ - date published: 2022-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['winapi', 'win32']
+
+## Show HN: WireHub – easily create and share WireGuard networks
+ - [https://www.wirehub.org](https://www.wirehub.org)
+ - date published: 2023-11-05T20:54:33+00:00
+ - user: None
+ - tags: []
+
+## Sniff free or die | The official Wireshark blog
+ - [https://blog.wireshark.org](https://blog.wireshark.org)
+ - date published: 2023-10-25T22:21:35.527623+00:00
+ - user: None
+ - tags: []
+
+## WLRN Homepage | WLRN
+ - [https://www.wlrn.org](https://www.wlrn.org)
+ - date published: 2023-12-17T16:48:32.373811+00:00
+ - user: None
+ - tags: []
+
+## Pageviews Analysis
+ - [https://pageviews.wmcloud.org](https://pageviews.wmcloud.org)
+ - date published: 2023-12-30T07:39:48.797012+00:00
+ - user: None
+ - tags: []
+
+## Facts-Based News for Christians | WORLD
+ - [https://wng.org](https://wng.org)
+ - date published: 2023-10-25T10:13:18.284192+00:00
+ - user: None
+ - tags: []
+
+## WolfeDen.Org
+ - [https://www.wolfeden.org](https://www.wolfeden.org)
+ - date published: 2023-10-25T22:21:37.043037+00:00
+ - user: None
+ - tags: []
+
+## WolfMUD: Main Index
+ - [https://www.wolfmud.org](https://www.wolfmud.org)
+ - date published: 2023-10-25T22:21:38.012310+00:00
+ - user: None
+ - tags: ['game']
+
+## EnglishFrontPage - Greg's Wiki
+ - [https://mywiki.wooledge.org](https://mywiki.wooledge.org)
+ - date published: 2023-10-25T22:21:44.832786+00:00
+ - user: None
+ - tags: []
+
+## WordPress Developer Resources | Official WordPress Developer Resources
+ - [https://developer.wordpress.org](https://developer.wordpress.org)
+ - date published: 2023-10-25T22:21:47.552150+00:00
+ - user: None
+ - tags: []
+
+## Get Involved – WordPress.org
+ - [https://make.wordpress.org](https://make.wordpress.org)
+ - date published: 2023-10-25T22:21:51.468556+00:00
+ - user: None
+ - tags: []
+
+## Narzędzie do blogowania, platforma wydawnicza i system zarządzania treścią witryny - WordPress.org Polska
+ - [https://pl.wordpress.org](https://pl.wordpress.org)
+ - date published: 2023-12-13T15:18:24.837452+00:00
+ - user: None
+ - tags: []
+
+## Blog Tool, Publishing Platform, and CMS - WordPress.org
+ - [https://wordpress.org](https://wordpress.org)
+ - date published: 2023-12-08T13:17:28+00:00
+ - user: rumpel
+ - tags: ['wordpress', 'cms']
+
+## Blog Tool, Publishing Platform, and CMS - WordPress.org
+ - [https://www.wordpress.org](https://www.wordpress.org)
+ - date published: 2024-01-09T03:43:14.112422+00:00
+ - user: None
+ - tags: []
+
+## Emergency Workplace Organizing Committee
+ - [https://workerorganizing.org](https://workerorganizing.org)
+ - date published: 2023-10-25T22:21:54.504677+00:00
+ - user: None
+ - tags: []
+
+## Homepage - World Nuclear News
+ - [https://www.world-nuclear-news.org](https://www.world-nuclear-news.org)
+ - date published: 2023-10-25T22:21:56.036925+00:00
+ - user: None
+ - tags: []
+
+## World Bank Group - International Development, Poverty, & Sustainability
+ - [https://www.worldbank.org](https://www.worldbank.org)
+ - date published: 2023-10-25T22:22:01.340001+00:00
+ - user: None
+ - tags: []
+
+## World BEYOND War - World BEYOND War
+ - [https://worldbeyondwar.org](https://worldbeyondwar.org)
+ - date published: 2023-10-25T22:22:10.341829+00:00
+ - user: None
+ - tags: []
+
+## For every human
+ - [https://worldcoin.org](https://worldcoin.org)
+ - date published: 2023-10-25T22:22:11.918693+00:00
+ - user: None
+ - tags: []
+
+## Worldcon
+ - [https://www.worldcon.org](https://www.worldcon.org)
+ - date published: 2024-01-23T15:48:44+00:00
+ - user: rumpel
+ - tags: ['science-fiction', 'fantasy']
+
+## World History Encyclopedia
+ - [https://www.worldhistory.org](https://www.worldhistory.org)
+ - date published: 2023-10-25T22:22:14.640193+00:00
+ - user: None
+ - tags: []
+
+## World of Paleoanthropology – Join us on a Journey through Deep Human Time…
+ - [https://worldofpaleoanthropology.org](https://worldofpaleoanthropology.org)
+ - date published: 2023-10-25T22:22:16.776641+00:00
+ - user: None
+ - tags: []
+
+## World of Spectrum
+ - [https://www.worldofspectrum.org](https://www.worldofspectrum.org)
+ - date published: 2024-01-09T03:43:17.518087+00:00
+ - user: None
+ - tags: []
+
+## WOSU News | WOSU News
+ - [https://news.wosu.org](https://news.wosu.org)
+ - date published: 2023-12-22T19:25:47.692968+00:00
+ - user: None
+ - tags: []
+
+## Wisconsin Public Radio
+ - [https://www.wpr.org](https://www.wpr.org)
+ - date published: 2023-11-25T18:29:48.496756+00:00
+ - user: None
+ - tags: []
+
+## WriteFreely
+ - [https://writefreely.org](https://writefreely.org)
+ - date published: 2023-10-25T22:22:17.991561+00:00
+ - user: None
+ - tags: []
+
+## Write Free Software
+ - [https://writefreesoftware.org](https://writefreesoftware.org)
+ - date published: 2023-10-25T22:22:24.018433+00:00
+ - user: None
+ - tags: []
+
+## World Socialist Web Site - Marxist analysis, international working class struggles & the fight for socialism
+ - [https://www.wsws.org](https://www.wsws.org)
+ - date published: 2023-10-25T22:22:35.983932+00:00
+ - user: None
+ - tags: []
+
+## Wyoming Public Media | Inspires, Educates and Connects Wyoming  | Wyoming Public Media
+ - [https://www.wyomingpublicmedia.org](https://www.wyomingpublicmedia.org)
+ - date published: 2023-11-14T12:55:09.440375+00:00
+ - user: None
+ - tags: []
+
+## lists.x.org Mailing Lists
+ - [https://lists.x.org](https://lists.x.org)
+ - date published: 2023-10-25T22:22:42.517159+00:00
+ - user: None
+ - tags: []
+
+## X.Org
+ - [https://www.x.org](https://www.x.org)
+ - date published: 2023-10-25T22:22:44.175728+00:00
+ - user: None
+ - tags: ['open source', 'x.org']
+
+## The X11 Conservancy Project | Home
+ - [https://x11cp.org](https://x11cp.org)
+ - date published: 2023-10-25T22:22:44.911678+00:00
+ - user: None
+ - tags: []
+
+## The Animated Elliptic Curve
+ - [https://curves.xargs.org](https://curves.xargs.org)
+ - date published: 2023-10-25T22:22:46.560899+00:00
+ - user: None
+ - tags: []
+
+## xBrowserSync - Browser syncing as it should be: secure, anonymous and free!
+ - [https://www.xbrowsersync.org](https://www.xbrowsersync.org)
+ - date published: 2023-10-25T22:22:47.617487+00:00
+ - user: None
+ - tags: []
+
+## XEmacs: The next generation of Emacs
+ - [https://www.xemacs.org](https://www.xemacs.org)
+ - date published: 2023-10-25T22:22:53.892766+00:00
+ - user: None
+ - tags: []
+
+## Middle-earth & J.R.R. Tolkien Blog – by Michael Martinez
+ - [https://middle-earth.xenite.org](https://middle-earth.xenite.org)
+ - date published: 2023-10-25T22:22:59.286432+00:00
+ - user: None
+ - tags: []
+
+## Xenocara
+ - [https://xenocara.org](https://xenocara.org)
+ - date published: 2023-10-25T22:23:00.216944+00:00
+ - user: None
+ - tags: []
+
+## start [Xfce Wiki]
+ - [https://wiki.xfce.org](https://wiki.xfce.org)
+ - date published: 2023-10-25T22:23:07.349440+00:00
+ - user: None
+ - tags: []
+
+## Xiph.org
+ - [https://xiph.org](https://xiph.org)
+ - date published: 2023-10-25T22:23:09.030980+00:00
+ - user: None
+ - tags: []
+
 ## XMPP | The universal messaging standard
  - [https://xmpp.org](https://xmpp.org)
  - date published: 2023-10-25T22:23:10.869081+00:00
@@ -3030,6 +3312,12 @@ is forbidden
  - user: None
  - tags: []
 
+## Mariusz Pietrzyk (wijet)
+ - [https://wijet.pl](https://wijet.pl)
+ - date published: 2018-06-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Media, Reklama, Internet, PR, Telewizja, Radio - najnowsze wiadomości tylko na WirtualneMedia.pl
  - [https://m.wirtualnemedia.pl](https://m.wirtualnemedia.pl)
  - date published: 2023-10-25T22:32:51.254215+00:00
@@ -5233,6 +5521,12 @@ is forbidden
  - user: None
  - tags: []
 
+## Home - pjg1
+ - [https://pjg1.site](https://pjg1.site)
+ - date published: 2023-11-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Reflect Notes
  - [https://reflect.site](https://reflect.site)
  - date published: 2023-10-25T22:40:25.344272+00:00
@@ -5713,298 +6007,4 @@ conflicts of interest and restore Community Trust.
  - date published: 2023-10-24T20:14:25.808474+00:00
  - user: None
  - tags: ['mastodon']
-
-## TechHub
- - [https://techhub.social](https://techhub.social)
- - date published: 2023-10-24T20:14:26.335577+00:00
- - user: None
- - tags: ['mastodon']
-
-## Urbanists.Social
- - [https://urbanists.social](https://urbanists.social)
- - date published: 2023-10-24T20:14:26.879258+00:00
- - user: None
- - tags: ['mastodon']
-
-## VT Social
- - [https://vt.social](https://vt.social)
- - date published: 2023-10-24T20:14:28.715062+00:00
- - user: None
- - tags: ['mastodon']
-
-## w3c.social
- - [https://w3c.social](https://w3c.social)
- - date published: 2023-12-06T18:22:37.078866+00:00
- - user: None
- - tags: []
-
-## Mastodon
- - [https://wikimedia.social](https://wikimedia.social)
- - date published: 2023-10-24T20:14:29.349003+00:00
- - user: None
- - tags: ['mastodon']
-
-## Commodore Software - New Files
- - [https://commodore.software](https://commodore.software)
- - date published: 2023-11-10T13:02:40.505410+00:00
- - user: None
- - tags: ['commodore', 'retro']
-
-## Ellie for Windows
- - [https://ellie.software](https://ellie.software)
- - date published: 2023-10-25T22:41:37.051718+00:00
- - user: None
- - tags: []
-
-## Adapt Site
- - [https://www.adaptframework.solutions](https://www.adaptframework.solutions)
- - date published: 2023-10-25T22:41:40.136262+00:00
- - user: None
- - tags: []
-
-## WordPress and ClassicPress plugins trusted by over 50000 users.
- - [https://ajdg.solutions](https://ajdg.solutions)
- - date published: 2023-12-11T19:08:23.472936+00:00
- - user: None
- - tags: []
-
-## Lunatic: an Erlang-inspired runtime for WebAssembly
- - [https://lunatic.solutions](https://lunatic.solutions)
- - date published: 2023-10-25T22:41:46.372898+00:00
- - user: None
- - tags: []
-
-## Velociraptor Aerospace Dynamics
- - [https://vad.solutions](https://vad.solutions)
- - date published: 2023-10-25T22:41:49.222188+00:00
- - user: None
- - tags: []
-
-## 0ut3r Space
- - [https://0ut3r.space](https://0ut3r.space)
- - date published: 2023-10-25T22:41:55.742385+00:00
- - user: None
- - tags: []
-
-## Alan's Space
- - [https://18alan.space](https://18alan.space)
- - date published: 2023-10-25T09:24:43.871441+00:00
- - user: None
- - tags: ['personal']
-
-## Ariadne's Space
- - [https://ariadne.space](https://ariadne.space)
- - date published: 2023-10-25T09:24:45.081532+00:00
- - user: None
- - tags: ['personal']
-
-## SpaceBadgers
- - [https://badgers.space](https://badgers.space)
- - date published: 2023-10-25T22:41:57.198709+00:00
- - user: None
- - tags: []
-
-## Becca Ricks
- - [https://beccaricks.space](https://beccaricks.space)
- - date published: 2023-10-25T08:55:57.797271+00:00
- - user: None
- - tags: ['personal']
-
-## Ben Calderon's Web Page
- - [https://benjcal.space](https://benjcal.space)
- - date published: 2023-10-25T08:55:59.360622+00:00
- - user: None
- - tags: ['personal']
-
-## botsin.space
- - [https://botsin.space](https://botsin.space)
- - date published: 2024-01-09T01:36:31.605653+00:00
- - user: None
- - tags: []
-
-## Can't Unsee
- - [https://cantunsee.space](https://cantunsee.space)
- - date published: 2023-10-25T22:41:57.679574+00:00
- - user: None
- - tags: []
-
-## Сайт Дани
- - [https://blog.danilax86.space](https://blog.danilax86.space)
- - date published: 2023-12-22T17:48:17.947780+00:00
- - user: None
- - tags: ['personal']
-
-## The Dragon's Cave
- - [https://dragonscave.space](https://dragonscave.space)
- - date published: 2023-10-25T22:41:58.143211+00:00
- - user: None
- - tags: []
-
-## Drifting in Space
- - [https://driftingin.space](https://driftingin.space)
- - date published: 2023-10-25T22:42:03.587468+00:00
- - user: None
- - tags: []
-
-## https://www.hottakes.space
- - [https://www.hottakes.space](https://www.hottakes.space)
- - date published: 2024-01-27T17:35:11.853317+00:00
- - user: None
- - tags: []
-
-## Royal Icing
- - [https://icing.space](https://icing.space)
- - date published: 2023-10-25T09:24:46.037499+00:00
- - user: None
- - tags: ['personal']
-
-## Recent Posts — Jakob's Personal Webpage
- - [https://jakob.space](https://jakob.space)
- - date published: 2023-10-25T09:24:48.365761+00:00
- - user: None
- - tags: ['personal']
-
-## https://blog.jatan.space
- - [https://blog.jatan.space](https://blog.jatan.space)
- - date published: 2024-01-15T14:06:50.909590+00:00
- - user: None
- - tags: []
-
-## Jatan Mehta
- - [https://jatan.space](https://jatan.space)
- - date published: 2024-01-15T14:06:49.668239+00:00
- - user: None
- - tags: []
-
-## Jayash Space
- - [https://www.jayash.space](https://www.jayash.space)
- - date published: 2024-01-12T21:01:48.117877+00:00
- - user: None
- - tags: []
-
-## Latent Space | swyx | Substack
- - [https://www.latent.space](https://www.latent.space)
- - date published: 2023-10-25T22:42:07.060753+00:00
- - user: None
- - tags: []
-
-## Log In | LeoLabs
- - [https://platform.leolabs.space](https://platform.leolabs.space)
- - date published: 2023-10-25T22:42:09.201538+00:00
- - user: None
- - tags: []
-
-## Libre Space Foundation
- - [https://libre.space](https://libre.space)
- - date published: 2023-10-25T22:42:11.386945+00:00
- - user: None
- - tags: []
-
-## makeworld.space
- - [https://www.makeworld.space](https://www.makeworld.space)
- - date published: 2023-10-25T22:42:12.199594+00:00
- - user: None
- - tags: []
-
-## https://mynotion.space
- - [https://mynotion.space](https://mynotion.space)
- - date published: 2024-01-09T03:47:13.687606+00:00
- - user: None
- - tags: []
-
-## NodePad.
- - [https://nodepad.space](https://nodepad.space)
- - date published: 2023-10-25T22:42:13.077793+00:00
- - user: None
- - tags: []
-
-## OldBytes Space - Mastodon
- - [https://oldbytes.space](https://oldbytes.space)
- - date published: 2023-10-24T20:14:40.345599+00:00
- - user: None
- - tags: ['mastodon']
-
-## PolyInnovator LLC | Official Website for Dustin Miller
- - [https://polyinnovator.space](https://polyinnovator.space)
- - date published: 2023-11-29T15:45:57.482379+00:00
- - user: None
- - tags: ['personal']
-
-## MP | Education, Product, Philosophy, Good Life
- - [https://www.productnerd.space](https://www.productnerd.space)
- - date published: 2024-01-15T02:47:00.750180+00:00
- - user: None
- - tags: []
-
-## sabrinas.space -
- - [https://sabrinas.space](https://sabrinas.space)
- - date published: 2023-10-25T22:42:16.798161+00:00
- - user: None
- - tags: []
-
-## Jon Santiago | Examinations in Patience, Practice, and Process
- - [https://santiagos.space](https://santiagos.space)
- - date published: 2023-12-27T10:10:28.923262+00:00
- - user: None
- - tags: ['personal']
-
-## Live Starlink Satellite and Coverage Map
- - [https://satellitemap.space](https://satellitemap.space)
- - date published: 2023-10-25T22:42:18.342062+00:00
- - user: None
- - tags: []
-
-## SDavidPrince Space
- - [https://www.sdavidprince.space](https://www.sdavidprince.space)
- - date published: 2023-12-23T19:27:39.558254+00:00
- - user: None
- - tags: ['personal']
-
-## the sporks space - party with sporks in space
- - [https://sporks.space](https://sporks.space)
- - date published: 2023-10-25T22:42:26.491552+00:00
- - user: None
- - tags: []
-
-## strangeobject.space
- - [https://strangeobject.space](https://strangeobject.space)
- - date published: 2023-10-25T22:42:27.285300+00:00
- - user: None
- - tags: []
-
-## Swarm - Low cost, global satellite connectivity for IoT
- - [https://swarm.space](https://swarm.space)
- - date published: 2023-10-25T22:42:29.401566+00:00
- - user: None
- - tags: []
-
-## https://karambolage.t-cup.space
- - [https://karambolage.t-cup.space](https://karambolage.t-cup.space)
- - date published: 2024-01-09T03:47:20.756508+00:00
- - user: None
- - tags: []
-
-## tafc.space
- - [https://tafc.space](https://tafc.space)
- - date published: 2023-10-25T22:42:32.984763+00:00
- - user: None
- - tags: []
-
-## Tania Dreams
- - [https://www.taniadreams.space](https://www.taniadreams.space)
- - date published: 2024-01-08T07:27:21.550544+00:00
- - user: None
- - tags: []
-
-## THOM KLODOWSKY
- - [https://thomask.space](https://thomask.space)
- - date published: 2023-12-19T09:59:17.908608+00:00
- - user: None
- - tags: ['personal']
-
-## XincereYi Yours
- - [https://www.xincereyiyours.space](https://www.xincereyiyours.space)
- - date published: 2023-11-29T16:20:49.523341+00:00
- - user: None
- - tags: ['personal']
 

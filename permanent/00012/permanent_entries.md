@@ -1,3 +1,195 @@
+## Binary Debt – Systems programming, computer architecture & algorithms
+ - [https://binarydebt.wordpress.com](https://binarydebt.wordpress.com)
+ - date published: 2023-10-25T18:09:32.894806+00:00
+ - user: None
+ - tags: []
+
+## Brick Experiment Channel
+ - [https://brickexperimentchannel.wordpress.com](https://brickexperimentchannel.wordpress.com)
+ - date published: 2023-10-25T18:09:40.411395+00:00
+ - user: None
+ - tags: []
+
+## Round the Island
+ - [https://britishcoast.wordpress.com](https://britishcoast.wordpress.com)
+ - date published: 2024-01-09T02:54:38.115044+00:00
+ - user: None
+ - tags: []
+
+## Juan Silva
+ - [https://bufalojuan.wordpress.com](https://bufalojuan.wordpress.com)
+ - date published: 2023-11-29T17:13:49.970436+00:00
+ - user: None
+ - tags: ['personal']
+
+## blog :: Brent -> [String]
+ - [https://byorgey.wordpress.com](https://byorgey.wordpress.com)
+ - date published: 2023-10-25T18:09:52.299601+00:00
+ - user: None
+ - tags: []
+
+## Commodore 64
+ - [https://c64blog.wordpress.com](https://c64blog.wordpress.com)
+ - date published: 2023-12-11T16:34:07.156127+00:00
+ - user: None
+ - tags: []
+
+## Cape Cod Test Kitchen
+ - [https://capecodtestkitchen.wordpress.com](https://capecodtestkitchen.wordpress.com)
+ - date published: 2023-11-29T14:21:14.967486+00:00
+ - user: None
+ - tags: ['personal']
+
+## Casey Handmer's blog – Space, Travel, Technology, 3D Printing, Energy, Writing
+ - [https://caseyhandmer.wordpress.com](https://caseyhandmer.wordpress.com)
+ - date published: 2023-10-25T18:09:57.703133+00:00
+ - user: None
+ - tags: []
+
+## Alien Blognezz
+ - [https://cazzyalien.wordpress.com](https://cazzyalien.wordpress.com)
+ - date published: 2023-11-29T15:45:44.563508+00:00
+ - user: None
+ - tags: ['personal']
+
+## Codemanship's Blog
+ - [https://codemanship.wordpress.com](https://codemanship.wordpress.com)
+ - date published: 2023-11-20T09:24:43.633895+00:00
+ - user: None
+ - tags: []
+
+## Computing Ed Research - Guzdial's Take | How do people understand computing, and how can we improve that understanding?
+ - [https://computinged.wordpress.com](https://computinged.wordpress.com)
+ - date published: 2023-10-25T18:10:13.200424+00:00
+ - user: None
+ - tags: []
+
+## cordlandwehr – Adventures in Open Source Development
+ - [https://cordlandwehr.wordpress.com](https://cordlandwehr.wordpress.com)
+ - date published: 2023-10-25T18:10:23.632127+00:00
+ - user: None
+ - tags: []
+
+## Tim's Blog
+ - [https://cpldcpu.wordpress.com](https://cpldcpu.wordpress.com)
+ - date published: 2024-01-28T23:02:52.853350+00:00
+ - user: None
+ - tags: []
+
+## The Craft of Coding – Musings on programming and education
+ - [https://craftofcoding.wordpress.com](https://craftofcoding.wordpress.com)
+ - date published: 2023-10-25T18:10:30.908567+00:00
+ - user: None
+ - tags: []
+
+## The CRPG Book Project
+ - [https://crpgbook.wordpress.com](https://crpgbook.wordpress.com)
+ - date published: 2024-01-09T01:46:35.492524+00:00
+ - user: None
+ - tags: []
+
+## The Curious Terran
+ - [https://curiousterran.wordpress.com](https://curiousterran.wordpress.com)
+ - date published: 2023-11-29T14:22:05.627993+00:00
+ - user: None
+ - tags: ['personal']
+
+## danscreativeoulet
+ - [https://danscreativeoutlet.wordpress.com](https://danscreativeoutlet.wordpress.com)
+ - date published: 2023-12-29T03:12:11.124326+00:00
+ - user: None
+ - tags: ['personal']
+
+## daveavrandotcom
+ - [https://daveavrandotcom.wordpress.com](https://daveavrandotcom.wordpress.com)
+ - date published: 2024-01-20T12:59:58.360297+00:00
+ - user: None
+ - tags: []
+
+## David Hayes's Blog
+ - [https://davidhayesblog.wordpress.com](https://davidhayesblog.wordpress.com)
+ - date published: 2023-12-29T19:00:23.328671+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dead Reckonings – Lost Art in the Mathematical Sciences
+ - [https://deadreckonings.files.wordpress.com](https://deadreckonings.files.wordpress.com)
+ - date published: 2023-10-25T18:10:38.471657+00:00
+ - user: None
+ - tags: []
+
+## DeavidSedice's blog – Thoughts about programming
+ - [https://deavid.wordpress.com](https://deavid.wordpress.com)
+ - date published: 2023-10-25T18:10:48.058627+00:00
+ - user: None
+ - tags: []
+
+## debbie eberlin
+ - [https://debbieeberlin.wordpress.com](https://debbieeberlin.wordpress.com)
+ - date published: 2024-01-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## didactics
+ - [https://didacticsblog.wordpress.com](https://didacticsblog.wordpress.com)
+ - date published: 2023-12-31T21:20:54.582250+00:00
+ - user: None
+ - tags: []
+
+## DIY-Audio-Heaven | Enjoy music through headphones on a low budget
+ - [https://diyaudioheaven.wordpress.com](https://diyaudioheaven.wordpress.com)
+ - date published: 2023-10-25T18:11:03.735153+00:00
+ - user: None
+ - tags: []
+
+## dougallj
+ - [https://dougallj.wordpress.com](https://dougallj.wordpress.com)
+ - date published: 2023-10-25T18:11:12.312963+00:00
+ - user: None
+ - tags: []
+
+## D.R.A.S.T.I.C. Research – D.R.A.S.T.I.C. Research
+ - [https://drasticresearch.files.wordpress.com](https://drasticresearch.files.wordpress.com)
+ - date published: 2023-10-25T18:11:23.096110+00:00
+ - user: None
+ - tags: []
+
+## Short, Fat Matrices – a research blog by Dustin G. Mixon
+ - [https://dustingmixon.wordpress.com](https://dustingmixon.wordpress.com)
+ - date published: 2023-10-25T18:11:26.844417+00:00
+ - user: None
+ - tags: []
+
+## Ecologically Oriented | …with frequent whatnot
+ - [https://ecologicallyoriented.wordpress.com](https://ecologicallyoriented.wordpress.com)
+ - date published: 2023-10-25T18:11:30.809009+00:00
+ - user: None
+ - tags: []
+
+## ample code
+ - [https://einarwh.wordpress.com](https://einarwh.wordpress.com)
+ - date published: 2023-11-29T07:35:51.179721+00:00
+ - user: None
+ - tags: []
+
+## Elsa Johansson
+ - [https://elsajohansson.wordpress.com](https://elsajohansson.wordpress.com)
+ - date published: 2023-10-25T18:11:32.795763+00:00
+ - user: None
+ - tags: []
+
+## WordPress, Your Way
+ - [https://en.wordpress.com](https://en.wordpress.com)
+ - date published: 2023-12-11T16:31:09.815871+00:00
+ - user: None
+ - tags: []
+
+## Ephemeral New York | Chronicling an ever-changing city through faded and forgotten artifacts
+ - [https://ephemeralnewyork.wordpress.com](https://ephemeralnewyork.wordpress.com)
+ - date published: 2023-10-25T18:11:41.936917+00:00
+ - user: None
+ - tags: []
+
 ## Felipe Contreras
  - [https://felipec.wordpress.com](https://felipec.wordpress.com)
  - date published: 2023-10-25T18:11:44.469031+00:00
@@ -331,6 +523,12 @@
 ## The Pageman in Kabul
  - [https://pageman.wordpress.com](https://pageman.wordpress.com)
  - date published: 2024-01-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Pete Morin
+ - [https://petemorin.wordpress.com](https://petemorin.wordpress.com)
+ - date published: 2024-01-30T19:31:10.858778+00:00
  - user: None
  - tags: []
 
@@ -1519,6 +1717,12 @@
 ## YoboWargames – Hex based wargames
  - [https://www.yobowargames.com](https://www.yobowargames.com)
  - date published: 2023-10-25T18:23:01.907368+00:00
+ - user: None
+ - tags: []
+
+## Y o h a n c a
+ - [https://yohanca.com](https://yohanca.com)
+ - date published: 2024-01-30T14:39:29.778540+00:00
  - user: None
  - tags: []
 
@@ -4212,6 +4416,12 @@ home
  - user: None
  - tags: []
 
+## The Shelf
+ - [https://ganji.bearblog.dev](https://ganji.bearblog.dev)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Thoughts on Software
  - [https://gordonc.bearblog.dev](https://gordonc.bearblog.dev)
  - date published: 2023-10-25T18:35:17.641679+00:00
@@ -5789,217 +5999,6 @@ home
 ## step by step
  - [https://vxdev.pages.dev](https://vxdev.pages.dev)
  - date published: 2024-01-22T18:02:01.724826+00:00
- - user: None
- - tags: []
-
-## Passkey Developer Resources
- - [https://passkeys.dev](https://passkeys.dev)
- - date published: 2023-01-31T00:00:00+00:00
- - user: None
- - tags: []
-
-## Hello! • Paul Armstrong
- - [https://paularmstrong.dev](https://paularmstrong.dev)
- - date published: 2023-10-25T08:48:56.005230+00:00
- - user: None
- - tags: ['personal']
-
-## Hey there! · pema.dev
- - [https://pema.dev](https://pema.dev)
- - date published: 2023-10-25T18:40:45.349933+00:00
- - user: None
- - tags: []
-
-## Petals – Run LLMs at home, BitTorrent-style
- - [https://petals.dev](https://petals.dev)
- - date published: 2023-10-25T18:40:45.976979+00:00
- - user: None
- - tags: []
-
-## Florian Pfisterer
- - [https://pfisterer.dev](https://pfisterer.dev)
- - date published: 2024-01-12T10:31:39.595981+00:00
- - user: None
- - tags: []
-
-## Pierre Couy’s tech corner | Freelance developper, computer science teacher, passionate about programming. I enjoy sharing my work with the world.
- - [https://pierre-couy.dev](https://pierre-couy.dev)
- - date published: 2023-10-25T18:40:46.733153+00:00
- - user: None
- - tags: []
-
-## pkg-size | Find the true size of a npm package
- - [https://pkg-size.dev](https://pkg-size.dev)
- - date published: 2023-10-25T18:40:47.132424+00:00
- - user: None
- - tags: []
-
-## POURIA 🦋
- - [https://pouria.dev](https://pouria.dev)
- - date published: 2023-10-25T18:40:48.495860+00:00
- - user: None
- - tags: []
-
-## Puppeteer | Puppeteer
- - [https://pptr.dev](https://pptr.dev)
- - date published: 2024-01-17T09:19:59+00:00
- - user: rumpel
- - tags: ['web scraping']
-
-## https://www.privatemarket.dev
- - [https://www.privatemarket.dev](https://www.privatemarket.dev)
- - date published: 2024-01-09T02:57:31.384269+00:00
- - user: None
- - tags: []
-
-## PrivSec - A practical approach to Privacy and Security
- - [https://privsec.dev](https://privsec.dev)
- - date published: 2023-10-25T18:40:49.926726+00:00
- - user: None
- - tags: []
-
-## React Job Simulator by Profy.dev
- - [https://profy.dev](https://profy.dev)
- - date published: 2023-10-25T18:40:51.947206+00:00
- - user: None
- - tags: []
-
-## programming.dev - A collection of programming communities
- - [https://programming.dev](https://programming.dev)
- - date published: 2023-10-25T18:40:53.820318+00:00
- - user: None
- - tags: []
-
-## Home |
- - [https://pulsar-edit.dev](https://pulsar-edit.dev)
- - date published: 2023-10-25T18:41:00.178641+00:00
- - user: None
- - tags: []
-
-## Welcome to Pydantic - Pydantic
- - [https://docs.pydantic.dev](https://docs.pydantic.dev)
- - date published: 2023-10-25T18:41:02.319299+00:00
- - user: None
- - tags: []
-
-## Pydantic
- - [https://pydantic.dev](https://pydantic.dev)
- - date published: 2024-01-09T00:00:00+00:00
- - user: rumpel
- - tags: ['online validation', 'online tool']
-
-## Chris James - Learn Go with Tests reaches 20k stars
- - [https://quii.dev](https://quii.dev)
- - date published: 2023-10-25T18:41:02.923807+00:00
- - user: None
- - tags: []
-
-## https://blog.qwertyforce.dev
- - [https://blog.qwertyforce.dev](https://blog.qwertyforce.dev)
- - date published: 2024-01-09T02:57:33.591668+00:00
- - user: None
- - tags: []
-
-## Semgrep — Find bugs and enforce code standards
- - [https://r2c.dev](https://r2c.dev)
- - date published: 2023-10-25T18:41:07.216345+00:00
- - user: None
- - tags: []
-
-## Roni Äikäs
- - [https://raikas.dev](https://raikas.dev)
- - date published: 2024-01-12T10:32:49.573822+00:00
- - user: None
- - tags: []
-
-## Justin's personal site
- - [https://randomshit.dev](https://randomshit.dev)
- - date published: 2023-10-25T18:41:11.166727+00:00
- - user: None
- - tags: []
-
-## Rasbora.dev
- - [https://rasbora.dev](https://rasbora.dev)
- - date published: 2023-10-25T08:48:56.751019+00:00
- - user: None
- - tags: ['personal']
-
-## Ryan's Dev Blog
- - [https://rbates.dev](https://rbates.dev)
- - date published: 2023-10-25T08:58:48.184268+00:00
- - user: None
- - tags: ['personal']
-
-## React
- - [https://react.dev](https://react.dev)
- - date published: 2023-10-25T18:41:12.872406+00:00
- - user: None
- - tags: []
-
-## refine | Build your React-based CRUD applications, without constraints! | refine
- - [https://refine.dev](https://refine.dev)
- - date published: 2023-10-25T18:41:19.334120+00:00
- - user: None
- - tags: []
-
-## Remotion | Make videos programmatically in React
- - [https://www.remotion.dev](https://www.remotion.dev)
- - date published: 2023-12-01T16:42:33.542293+00:00
- - user: None
- - tags: []
-
-## SDXL – A settings guide by Replicate
- - [https://sdxl.replicate.dev](https://sdxl.replicate.dev)
- - date published: 2023-10-25T18:41:20.011892+00:00
- - user: None
- - tags: []
-
-## Restfox
- - [https://restfox.dev](https://restfox.dev)
- - date published: 2023-10-25T18:41:21.360876+00:00
- - user: None
- - tags: []
-
-## reyem.dev blog
- - [https://blog.reyem.dev](https://blog.reyem.dev)
- - date published: 2023-10-25T08:58:49.186324+00:00
- - user: None
- - tags: ['personal']
-
-## Richard Taylor
-     · Richard Taylor
- - [https://www.richardtaylor.dev](https://www.richardtaylor.dev)
- - date published: 2023-10-25T18:41:22.096940+00:00
- - user: None
- - tags: []
-
-## Rida F'kih — Developer & Designer
- - [https://www.rida.dev](https://www.rida.dev)
- - date published: 2023-10-25T08:48:57.534022+00:00
- - user: None
- - tags: ['personal']
-
-## River Phillips
- - [https://www.riverphillips.dev](https://www.riverphillips.dev)
- - date published: 2023-11-07T19:56:32.446810+00:00
- - user: None
- - tags: []
-
-## rmkit
- - [https://rmkit.dev](https://rmkit.dev)
- - date published: 2023-10-25T18:41:23.340976+00:00
- - user: None
- - tags: []
-
-## Rocicorp, LLC
- - [https://rocicorp.dev](https://rocicorp.dev)
- - date published: 2023-10-27T11:57:00.995943+00:00
- - user: None
- - tags: []
-
-## ./
- - [https://www.rohitagarwal.dev](https://www.rohitagarwal.dev)
- - date published: 2024-01-20T02:44:55.146355+00:00
  - user: None
  - tags: []
 

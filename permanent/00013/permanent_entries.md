@@ -1,3 +1,214 @@
+## Passkey Developer Resources
+ - [https://passkeys.dev](https://passkeys.dev)
+ - date published: 2023-01-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Hello! • Paul Armstrong
+ - [https://paularmstrong.dev](https://paularmstrong.dev)
+ - date published: 2023-10-25T08:48:56.005230+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hey there! · pema.dev
+ - [https://pema.dev](https://pema.dev)
+ - date published: 2023-10-25T18:40:45.349933+00:00
+ - user: None
+ - tags: []
+
+## Petals – Run LLMs at home, BitTorrent-style
+ - [https://petals.dev](https://petals.dev)
+ - date published: 2023-10-25T18:40:45.976979+00:00
+ - user: None
+ - tags: []
+
+## Florian Pfisterer
+ - [https://pfisterer.dev](https://pfisterer.dev)
+ - date published: 2024-01-12T10:31:39.595981+00:00
+ - user: None
+ - tags: []
+
+## Pierre Couy’s tech corner | Freelance developper, computer science teacher, passionate about programming. I enjoy sharing my work with the world.
+ - [https://pierre-couy.dev](https://pierre-couy.dev)
+ - date published: 2023-10-25T18:40:46.733153+00:00
+ - user: None
+ - tags: []
+
+## pkg-size | Find the true size of a npm package
+ - [https://pkg-size.dev](https://pkg-size.dev)
+ - date published: 2023-10-25T18:40:47.132424+00:00
+ - user: None
+ - tags: []
+
+## POURIA 🦋
+ - [https://pouria.dev](https://pouria.dev)
+ - date published: 2023-10-25T18:40:48.495860+00:00
+ - user: None
+ - tags: []
+
+## Puppeteer | Puppeteer
+ - [https://pptr.dev](https://pptr.dev)
+ - date published: 2024-01-17T09:19:59+00:00
+ - user: rumpel
+ - tags: ['web scraping']
+
+## https://www.privatemarket.dev
+ - [https://www.privatemarket.dev](https://www.privatemarket.dev)
+ - date published: 2024-01-09T02:57:31.384269+00:00
+ - user: None
+ - tags: []
+
+## PrivSec - A practical approach to Privacy and Security
+ - [https://privsec.dev](https://privsec.dev)
+ - date published: 2023-10-25T18:40:49.926726+00:00
+ - user: None
+ - tags: []
+
+## React Job Simulator by Profy.dev
+ - [https://profy.dev](https://profy.dev)
+ - date published: 2023-10-25T18:40:51.947206+00:00
+ - user: None
+ - tags: []
+
+## programming.dev - A collection of programming communities
+ - [https://programming.dev](https://programming.dev)
+ - date published: 2023-10-25T18:40:53.820318+00:00
+ - user: None
+ - tags: []
+
+## Home |
+ - [https://pulsar-edit.dev](https://pulsar-edit.dev)
+ - date published: 2023-10-25T18:41:00.178641+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Pydantic - Pydantic
+ - [https://docs.pydantic.dev](https://docs.pydantic.dev)
+ - date published: 2023-10-25T18:41:02.319299+00:00
+ - user: None
+ - tags: []
+
+## Pydantic
+ - [https://pydantic.dev](https://pydantic.dev)
+ - date published: 2024-01-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['online validation', 'online tool']
+
+## Chris James - Learn Go with Tests reaches 20k stars
+ - [https://quii.dev](https://quii.dev)
+ - date published: 2023-10-25T18:41:02.923807+00:00
+ - user: None
+ - tags: []
+
+## https://blog.qwertyforce.dev
+ - [https://blog.qwertyforce.dev](https://blog.qwertyforce.dev)
+ - date published: 2024-01-09T02:57:33.591668+00:00
+ - user: None
+ - tags: []
+
+## Semgrep — Find bugs and enforce code standards
+ - [https://r2c.dev](https://r2c.dev)
+ - date published: 2023-10-25T18:41:07.216345+00:00
+ - user: None
+ - tags: []
+
+## Roni Äikäs
+ - [https://raikas.dev](https://raikas.dev)
+ - date published: 2024-01-12T10:32:49.573822+00:00
+ - user: None
+ - tags: []
+
+## Justin's personal site
+ - [https://randomshit.dev](https://randomshit.dev)
+ - date published: 2023-10-25T18:41:11.166727+00:00
+ - user: None
+ - tags: []
+
+## Rasbora.dev
+ - [https://rasbora.dev](https://rasbora.dev)
+ - date published: 2023-10-25T08:48:56.751019+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ryan's Dev Blog
+ - [https://rbates.dev](https://rbates.dev)
+ - date published: 2023-10-25T08:58:48.184268+00:00
+ - user: None
+ - tags: ['personal']
+
+## React
+ - [https://react.dev](https://react.dev)
+ - date published: 2023-10-25T18:41:12.872406+00:00
+ - user: None
+ - tags: []
+
+## refine | Build your React-based CRUD applications, without constraints! | refine
+ - [https://refine.dev](https://refine.dev)
+ - date published: 2023-10-25T18:41:19.334120+00:00
+ - user: None
+ - tags: []
+
+## Remotion | Make videos programmatically in React
+ - [https://www.remotion.dev](https://www.remotion.dev)
+ - date published: 2023-12-01T16:42:33.542293+00:00
+ - user: None
+ - tags: []
+
+## SDXL – A settings guide by Replicate
+ - [https://sdxl.replicate.dev](https://sdxl.replicate.dev)
+ - date published: 2023-10-25T18:41:20.011892+00:00
+ - user: None
+ - tags: []
+
+## Restfox
+ - [https://restfox.dev](https://restfox.dev)
+ - date published: 2023-10-25T18:41:21.360876+00:00
+ - user: None
+ - tags: []
+
+## reyem.dev blog
+ - [https://blog.reyem.dev](https://blog.reyem.dev)
+ - date published: 2023-10-25T08:58:49.186324+00:00
+ - user: None
+ - tags: ['personal']
+
+## Richard Taylor
+     · Richard Taylor
+ - [https://www.richardtaylor.dev](https://www.richardtaylor.dev)
+ - date published: 2023-10-25T18:41:22.096940+00:00
+ - user: None
+ - tags: []
+
+## Rida F'kih — Developer & Designer
+ - [https://www.rida.dev](https://www.rida.dev)
+ - date published: 2023-10-25T08:48:57.534022+00:00
+ - user: None
+ - tags: ['personal']
+
+## River Phillips
+ - [https://www.riverphillips.dev](https://www.riverphillips.dev)
+ - date published: 2023-11-07T19:56:32.446810+00:00
+ - user: None
+ - tags: []
+
+## rmkit
+ - [https://rmkit.dev](https://rmkit.dev)
+ - date published: 2023-10-25T18:41:23.340976+00:00
+ - user: None
+ - tags: []
+
+## Rocicorp, LLC
+ - [https://rocicorp.dev](https://rocicorp.dev)
+ - date published: 2023-10-27T11:57:00.995943+00:00
+ - user: None
+ - tags: []
+
+## ./
+ - [https://www.rohitagarwal.dev](https://www.rohitagarwal.dev)
+ - date published: 2024-01-20T02:44:55.146355+00:00
+ - user: None
+ - tags: []
+
 ## Ronin
  - [https://ronin-rb.dev](https://ronin-rb.dev)
  - date published: 2023-10-25T18:41:29.801869+00:00
@@ -5802,216 +6013,6 @@
 ## https://www.veracrypt.fr
  - [https://www.veracrypt.fr](https://www.veracrypt.fr)
  - date published: 2024-01-09T03:30:06.149408+00:00
- - user: None
- - tags: []
-
-## Victor MARTIN | Machine Learning Engineer
- - [https://vmartin.fr](https://vmartin.fr)
- - date published: 2023-10-25T19:15:48.126680+00:00
- - user: None
- - tags: []
-
-## CPU-Z VALIDATOR
- - [https://valid.x86.fr](https://valid.x86.fr)
- - date published: 2024-01-09T13:19:21+00:00
- - user: rumpel
- - tags: []
-
-## Andrew Ginn, etc.
- - [https://andrewginn.fun](https://andrewginn.fun)
- - date published: 2024-01-07T04:14:03.213185+00:00
- - user: None
- - tags: []
-
-## None
- - [https://chess2.fun](https://chess2.fun)
- - date published: 2024-01-09T03:30:06.701243+00:00
- - user: None
- - tags: []
-
-## Flowchart Fun — Fast, Free Online Flowchart Maker
- - [https://flowchart.fun](https://flowchart.fun)
- - date published: 2023-10-25T19:15:48.621117+00:00
- - user: None
- - tags: []
-
-## Neal.fun
- - [https://neal.fun](https://neal.fun)
- - date published: 2023-10-25T19:15:49.467863+00:00
- - user: None
- - tags: []
-
-## A Netflix for fake TV shows and movies
- - [https://nestflix.fun](https://nestflix.fun)
- - date published: 2024-01-04T19:41:51+00:00
- - user: None
- - tags: []
-
-## Orthic Shorthand
- - [https://orthic.shorthand.fun](https://orthic.shorthand.fun)
- - date published: 2024-01-19T05:42:09.555455+00:00
- - user: None
- - tags: []
-
-## https://app.vnote.fun
- - [https://app.vnote.fun](https://app.vnote.fun)
- - date published: 2024-01-20T08:05:26.303097+00:00
- - user: None
- - tags: []
-
-## The Autopilot Fund
- - [https://blog.autopilot.fund](https://blog.autopilot.fund)
- - date published: 2023-10-25T19:15:50.122692+00:00
- - user: None
- - tags: []
-
-## Adriano Caloiaro's personal blog
- - [https://adriano.fyi](https://adriano.fyi)
- - date published: 2023-10-25T08:59:03.095518+00:00
- - user: None
- - tags: ['personal']
-
-## Brody Smith • Information Design
- - [https://brody.fyi](https://brody.fyi)
- - date published: 2024-01-04T08:11:51.602420+00:00
- - user: None
- - tags: []
-
-## brr
- - [https://brr.fyi](https://brr.fyi)
- - date published: 2023-10-25T19:15:50.754055+00:00
- - user: None
- - tags: []
-
-## CDR.fyi
- - [https://www.cdr.fyi](https://www.cdr.fyi)
- - date published: 2024-01-09T03:30:10.035205+00:00
- - user: None
- - tags: []
-
-## Freelance rates by contractrates.fyi
- - [https://www.contractrates.fyi](https://www.contractrates.fyi)
- - date published: 2023-10-25T19:15:52.506601+00:00
- - user: None
- - tags: []
-
-## DevBase - Product Gallery for Developers
- - [https://devbase.fyi](https://devbase.fyi)
- - date published: 2023-10-25T19:15:55.735011+00:00
- - user: None
- - tags: []
-
-## Digital culture and entertainment insights daily: Digital culture and entertainment insights daily
- - [https://dirt.fyi](https://dirt.fyi)
- - date published: 2023-10-25T19:15:57.266413+00:00
- - user: None
- - tags: []
-
-## ESPP.fyi - ESPP Calculator
- - [https://espp.fyi](https://espp.fyi)
- - date published: 2023-10-25T19:15:58.160226+00:00
- - user: None
- - tags: []
-
-## iliana.fyi
- - [https://iliana.fyi](https://iliana.fyi)
- - date published: 2023-10-25T19:15:59.645382+00:00
- - user: None
- - tags: []
-
-## jade's www site
- - [https://jade.fyi](https://jade.fyi)
- - date published: 2024-01-09T18:46:42.354724+00:00
- - user: None
- - tags: []
-
-## Layoffs.fyi - Tech Layoff Tracker and Startup Layoff Lists
- - [https://layoffs.fyi](https://layoffs.fyi)
- - date published: 2023-10-25T19:16:02.675285+00:00
- - user: None
- - tags: []
-
-## Levels.fyi | Salaries & Tools to Level Up Your Career
- - [https://www.levels.fyi](https://www.levels.fyi)
- - date published: 2023-10-25T19:16:09.416624+00:00
- - user: None
- - tags: []
-
-## Not a Number
- - [https://www.nan.fyi](https://www.nan.fyi)
- - date published: 2023-10-25T19:16:10.047779+00:00
- - user: None
- - tags: []
-
-## Not By AI — Add the Badge to Your Human-Created Content
- - [https://notbyai.fyi](https://notbyai.fyi)
- - date published: 2023-10-25T19:16:11.639093+00:00
- - user: None
- - tags: []
-
-## 2 Weeks Notice/Layoff Checklist
- - [https://notice.fyi](https://notice.fyi)
- - date published: 2023-10-25T19:16:13.369510+00:00
- - user: None
- - tags: []
-
-## None
- - [https://nudges.fyi](https://nudges.fyi)
- - date published: 2024-01-09T03:30:11.356804+00:00
- - user: None
- - tags: []
-
-## Show HN: Onsites.fyi - Curated Big Tech Interview Experiences
- - [https://www.onsites.fyi](https://www.onsites.fyi)
- - date published: 2023-12-03T13:29:53+00:00
- - user: None
- - tags: []
-
-## Paisa
- - [https://paisa.fyi](https://paisa.fyi)
- - date published: 2023-10-25T19:16:14.401445+00:00
- - user: None
- - tags: []
-
-## physician.fyi
- - [https://www.physician.fyi](https://www.physician.fyi)
- - date published: 2023-10-25T19:16:19.520735+00:00
- - user: None
- - tags: []
-
-## rustjobs.fyi
- - [https://www.rustjobs.fyi](https://www.rustjobs.fyi)
- - date published: 2023-10-25T19:16:20.460320+00:00
- - user: None
- - tags: []
-
-## https://south.fyi
- - [https://south.fyi](https://south.fyi)
- - date published: 2023-12-20T14:34:44.308769+00:00
- - user: None
- - tags: ['personal']
-
-## time.fyi - All the time related tools
- - [https://time.fyi](https://time.fyi)
- - date published: 2024-01-06T09:13:14.048827+00:00
- - user: None
- - tags: []
-
-## Show HN: Trains.fyi – a live map of passenger trains in the US and Canada
- - [https://trains.fyi](https://trains.fyi)
- - date published: 2023-11-27T16:47:19+00:00
- - user: None
- - tags: []
-
-## The ideal viewport doesn’t exist
- - [https://viewports.fyi](https://viewports.fyi)
- - date published: 2023-10-25T19:16:21.804980+00:00
- - user: None
- - tags: []
-
-## Vizly - Data to insights in seconds
- - [https://www.vizly.fyi](https://www.vizly.fyi)
- - date published: 2023-10-25T19:16:23.095453+00:00
  - user: None
  - tags: []
 

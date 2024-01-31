@@ -1,3 +1,219 @@
+## Victor MARTIN | Machine Learning Engineer
+ - [https://vmartin.fr](https://vmartin.fr)
+ - date published: 2023-10-25T19:15:48.126680+00:00
+ - user: None
+ - tags: []
+
+## Worakls Tour Dates 2023
+ - [https://www.worakls.fr](https://www.worakls.fr)
+ - date published: 2024-02-02T00:00:00+00:00
+ - user: rumpel
+ - tags: ['music band']
+
+## CPU-Z VALIDATOR
+ - [https://valid.x86.fr](https://valid.x86.fr)
+ - date published: 2024-01-09T13:19:21+00:00
+ - user: rumpel
+ - tags: []
+
+## Andrew Ginn, etc.
+ - [https://andrewginn.fun](https://andrewginn.fun)
+ - date published: 2024-01-07T04:14:03.213185+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://chess2.fun](https://chess2.fun)
+ - date published: 2024-01-09T03:30:06.701243+00:00
+ - user: None
+ - tags: []
+
+## Flowchart Fun — Fast, Free Online Flowchart Maker
+ - [https://flowchart.fun](https://flowchart.fun)
+ - date published: 2023-10-25T19:15:48.621117+00:00
+ - user: None
+ - tags: []
+
+## Neal.fun
+ - [https://neal.fun](https://neal.fun)
+ - date published: 2023-10-25T19:15:49.467863+00:00
+ - user: None
+ - tags: []
+
+## A Netflix for fake TV shows and movies
+ - [https://nestflix.fun](https://nestflix.fun)
+ - date published: 2024-01-04T19:41:51+00:00
+ - user: None
+ - tags: []
+
+## Orthic Shorthand
+ - [https://orthic.shorthand.fun](https://orthic.shorthand.fun)
+ - date published: 2024-01-19T05:42:09.555455+00:00
+ - user: None
+ - tags: []
+
+## https://app.vnote.fun
+ - [https://app.vnote.fun](https://app.vnote.fun)
+ - date published: 2024-01-20T08:05:26.303097+00:00
+ - user: None
+ - tags: []
+
+## The Autopilot Fund
+ - [https://blog.autopilot.fund](https://blog.autopilot.fund)
+ - date published: 2023-10-25T19:15:50.122692+00:00
+ - user: None
+ - tags: []
+
+## Adriano Caloiaro's personal blog
+ - [https://adriano.fyi](https://adriano.fyi)
+ - date published: 2023-10-25T08:59:03.095518+00:00
+ - user: None
+ - tags: ['personal']
+
+## Brody Smith • Information Design
+ - [https://brody.fyi](https://brody.fyi)
+ - date published: 2024-01-04T08:11:51.602420+00:00
+ - user: None
+ - tags: []
+
+## brr
+ - [https://brr.fyi](https://brr.fyi)
+ - date published: 2023-10-25T19:15:50.754055+00:00
+ - user: None
+ - tags: []
+
+## CDR.fyi
+ - [https://www.cdr.fyi](https://www.cdr.fyi)
+ - date published: 2024-01-09T03:30:10.035205+00:00
+ - user: None
+ - tags: []
+
+## Freelance rates by contractrates.fyi
+ - [https://www.contractrates.fyi](https://www.contractrates.fyi)
+ - date published: 2023-10-25T19:15:52.506601+00:00
+ - user: None
+ - tags: []
+
+## DevBase - Product Gallery for Developers
+ - [https://devbase.fyi](https://devbase.fyi)
+ - date published: 2023-10-25T19:15:55.735011+00:00
+ - user: None
+ - tags: []
+
+## Digital culture and entertainment insights daily: Digital culture and entertainment insights daily
+ - [https://dirt.fyi](https://dirt.fyi)
+ - date published: 2023-10-25T19:15:57.266413+00:00
+ - user: None
+ - tags: []
+
+## ESPP.fyi - ESPP Calculator
+ - [https://espp.fyi](https://espp.fyi)
+ - date published: 2023-10-25T19:15:58.160226+00:00
+ - user: None
+ - tags: []
+
+## iliana.fyi
+ - [https://iliana.fyi](https://iliana.fyi)
+ - date published: 2023-10-25T19:15:59.645382+00:00
+ - user: None
+ - tags: []
+
+## jade's www site
+ - [https://jade.fyi](https://jade.fyi)
+ - date published: 2024-01-09T18:46:42.354724+00:00
+ - user: None
+ - tags: []
+
+## Layoffs.fyi - Tech Layoff Tracker and Startup Layoff Lists
+ - [https://layoffs.fyi](https://layoffs.fyi)
+ - date published: 2023-10-25T19:16:02.675285+00:00
+ - user: None
+ - tags: []
+
+## Levels.fyi | Salaries & Tools to Level Up Your Career
+ - [https://www.levels.fyi](https://www.levels.fyi)
+ - date published: 2023-10-25T19:16:09.416624+00:00
+ - user: None
+ - tags: []
+
+## Not a Number
+ - [https://www.nan.fyi](https://www.nan.fyi)
+ - date published: 2023-10-25T19:16:10.047779+00:00
+ - user: None
+ - tags: []
+
+## Not By AI — Add the Badge to Your Human-Created Content
+ - [https://notbyai.fyi](https://notbyai.fyi)
+ - date published: 2023-10-25T19:16:11.639093+00:00
+ - user: None
+ - tags: []
+
+## 2 Weeks Notice/Layoff Checklist
+ - [https://notice.fyi](https://notice.fyi)
+ - date published: 2023-10-25T19:16:13.369510+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://nudges.fyi](https://nudges.fyi)
+ - date published: 2024-01-09T03:30:11.356804+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Onsites.fyi - Curated Big Tech Interview Experiences
+ - [https://www.onsites.fyi](https://www.onsites.fyi)
+ - date published: 2023-12-03T13:29:53+00:00
+ - user: None
+ - tags: []
+
+## Paisa
+ - [https://paisa.fyi](https://paisa.fyi)
+ - date published: 2023-10-25T19:16:14.401445+00:00
+ - user: None
+ - tags: []
+
+## physician.fyi
+ - [https://www.physician.fyi](https://www.physician.fyi)
+ - date published: 2023-10-25T19:16:19.520735+00:00
+ - user: None
+ - tags: []
+
+## rustjobs.fyi
+ - [https://www.rustjobs.fyi](https://www.rustjobs.fyi)
+ - date published: 2023-10-25T19:16:20.460320+00:00
+ - user: None
+ - tags: []
+
+## https://south.fyi
+ - [https://south.fyi](https://south.fyi)
+ - date published: 2023-12-20T14:34:44.308769+00:00
+ - user: None
+ - tags: ['personal']
+
+## time.fyi - All the time related tools
+ - [https://time.fyi](https://time.fyi)
+ - date published: 2024-01-06T09:13:14.048827+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Trains.fyi – a live map of passenger trains in the US and Canada
+ - [https://trains.fyi](https://trains.fyi)
+ - date published: 2023-11-27T16:47:19+00:00
+ - user: None
+ - tags: []
+
+## The ideal viewport doesn’t exist
+ - [https://viewports.fyi](https://viewports.fyi)
+ - date published: 2023-10-25T19:16:21.804980+00:00
+ - user: None
+ - tags: []
+
+## Vizly - Data to insights in seconds
+ - [https://www.vizly.fyi](https://www.vizly.fyi)
+ - date published: 2023-10-25T19:16:23.095453+00:00
+ - user: None
+ - tags: []
+
 ## William Edmisten
  - [https://wcedmisten.fyi](https://wcedmisten.fyi)
  - date published: 2023-10-25T19:16:24.081987+00:00
@@ -236,7 +452,7 @@
  - [https://lmg.gg](https://lmg.gg)
  - date published: 2023-12-21T21:53:18+00:00
  - user: rumpel
- - tags: []
+ - tags: ['link service']
 
 ## Maxroll
  - [https://maxroll.gg](https://maxroll.gg)
@@ -3093,6 +3309,12 @@
  - user: None
  - tags: ['company']
 
+## Mailready: Ensure your emails get delivered
+ - [https://mailready.info](https://mailready.info)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Mainly Norfolk: English Folk and Other Good Music
  - [https://mainlynorfolk.info](https://mainlynorfolk.info)
  - date published: 2023-12-15T11:15:44.660614+00:00
@@ -5779,229 +6001,6 @@ through Composable Diffusion
 ## The Brain Dump
  - [https://floooh.github.io](https://floooh.github.io)
  - date published: 2023-10-25T19:45:28.718968+00:00
- - user: None
- - tags: []
-
-## Renfei Mao
- - [https://flujoo.github.io](https://flujoo.github.io)
- - date published: 2023-10-25T19:45:39.274500+00:00
- - user: None
- - tags: []
-
-## The home page
- - [https://fractalfir.github.io](https://fractalfir.github.io)
- - date published: 2023-10-25T19:45:40.600968+00:00
- - user: None
- - tags: []
-
-## Frycos Security Diary | Blogging mainly
- - [https://frycos.github.io](https://frycos.github.io)
- - date published: 2023-10-25T19:45:41.948422+00:00
- - user: None
- - tags: []
-
-## Gavin Ray Blog
- - [https://gavinray97.github.io](https://gavinray97.github.io)
- - date published: 2023-10-25T19:45:44.346786+00:00
- - user: None
- - tags: []
-
-## Home | Guillaume's graphics blog
- - [https://gboisse.github.io](https://gboisse.github.io)
- - date published: 2023-10-25T08:59:08.514234+00:00
- - user: None
- - tags: ['personal']
-
-## The Gnome Commander homepage
- - [https://gcmd.github.io](https://gcmd.github.io)
- - date published: 2023-10-30T13:59:05.692801+00:00
- - user: None
- - tags: ['gnome commander', 'open source', 'program']
-
-## Generative Image Dynamics
- - [https://generative-dynamics.github.io](https://generative-dynamics.github.io)
- - date published: 2023-10-25T19:45:45.988886+00:00
- - user: None
- - tags: []
-
-## Gimel Studio – Open source, non-destructive 2D image graphics editor
- - [https://gimelstudio.github.io](https://gimelstudio.github.io)
- - date published: 2023-10-25T19:45:52.208036+00:00
- - user: None
- - tags: []
-
-## Goodness’s blog
- - [https://goodyduru.github.io](https://goodyduru.github.io)
- - date published: 2023-10-25T08:59:09.136861+00:00
- - user: None
- - tags: ['personal']
-
-## Redirecting to https://github.com/google
- - [https://google.github.io](https://google.github.io)
- - date published: 2023-10-25T19:45:53.263770+00:00
- - user: None
- - tags: []
-
-## gPodder:
-      Media aggregator and podcast client
- - [https://gpodder.github.io](https://gpodder.github.io)
- - date published: 2023-10-25T19:45:54.620928+00:00
- - user: None
- - tags: []
-
-## grantsh | Main
- - [https://grantshandy.github.io](https://grantshandy.github.io)
- - date published: 2023-10-25T19:45:55.822501+00:00
- - user: None
- - tags: []
-
-## Grazfather
- - [https://grazfather.github.io](https://grazfather.github.io)
- - date published: 2023-10-25T19:45:58.510433+00:00
- - user: None
- - tags: []
-
-## Prompt Injections are bad, mkay?
- - [https://greshake.github.io](https://greshake.github.io)
- - date published: 2023-10-25T19:46:02.223136+00:00
- - user: None
- - tags: []
-
-## Natural Intelligence
- - [https://greydanus.github.io](https://greydanus.github.io)
- - date published: 2023-10-25T19:46:04.585065+00:00
- - user: None
- - tags: []
-
-## Hacker OPSEC
- - [https://grugq.github.io](https://grugq.github.io)
- - date published: 2023-10-25T19:46:06.910969+00:00
- - user: None
- - tags: []
-
-## GTFOBins
- - [https://gtfobins.github.io](https://gtfobins.github.io)
- - date published: 2023-10-25T19:46:18.630004+00:00
- - user: None
- - tags: []
-
-## Jure Šorn
- - [https://gto76.github.io](https://gto76.github.io)
- - date published: 2023-10-25T19:46:20.114469+00:00
- - user: None
- - tags: []
-
-## Guanjun Wu (吴官骏)'s Homepage
- - [https://guanjunwu.github.io](https://guanjunwu.github.io)
- - date published: 2023-10-25T19:46:21.642985+00:00
- - user: None
- - tags: []
-
-## Guocheng Qian
- - [https://guochengqian.github.io](https://guochengqian.github.io)
- - date published: 2023-10-25T19:46:23.779318+00:00
- - user: None
- - tags: []
-
-## Guy Tevet
- - [https://guytevet.github.io](https://guytevet.github.io)
- - date published: 2023-10-25T19:46:25.309837+00:00
- - user: None
- - tags: []
-
-## Hamed Haddadi – Imperial College London & Brave Software
- - [https://haddadi.github.io](https://haddadi.github.io)
- - date published: 2023-10-25T19:46:27.415612+00:00
- - user: None
- - tags: []
-
-## David Wakeham – QML researcher
- - [https://hapax.github.io](https://hapax.github.io)
- - date published: 2024-01-07T01:27:17.326366+00:00
- - user: None
- - tags: []
-
-## Comfortably Numbered
- - [https://hardmath123.github.io](https://hardmath123.github.io)
- - date published: 2023-12-28T13:09:27.683625+00:00
- - user: None
- - tags: []
-
-## The Hardware Lottery
- - [https://hardwarelottery.github.io](https://hardwarelottery.github.io)
- - date published: 2023-11-22T10:06:06+00:00
- - user: None
- - tags: []
-
-## Heitor's log
- - [https://heitorpb.github.io](https://heitorpb.github.io)
- - date published: 2023-11-13T11:19:01.522710+00:00
- - user: None
- - tags: []
-
-## helloSystem
- - [https://hellosystem.github.io](https://hellosystem.github.io)
- - date published: 2023-10-25T19:46:28.515239+00:00
- - user: None
- - tags: []
-
-## Hirrolot's Blog
- - [https://hirrolot.github.io](https://hirrolot.github.io)
- - date published: 2023-10-25T19:46:29.955891+00:00
- - user: None
- - tags: []
-
-## Redirecting
- - [https://hse-project.github.io](https://hse-project.github.io)
- - date published: 2023-10-25T19:46:30.418811+00:00
- - user: None
- - tags: []
-
-## GitHub & BitBucket HTML Preview
- - [https://htmlpreview.github.io](https://htmlpreview.github.io)
- - date published: 2023-10-25T19:46:30.908755+00:00
- - user: None
- - tags: []
-
-## https://hughjonesd.github.io
- - [https://hughjonesd.github.io](https://hughjonesd.github.io)
- - date published: 2023-12-30T08:30:49.707192+00:00
- - user: None
- - tags: []
-
-## scott kosman
- - [https://humantorch.github.io](https://humantorch.github.io)
- - date published: 2024-01-16T23:54:10.645629+00:00
- - user: None
- - tags: []
-
-## Huon on the internet
- - [https://huonw.github.io](https://huonw.github.io)
- - date published: 2023-12-30T02:39:56.436386+00:00
- - user: None
- - tags: []
-
-## Krut's Blog
- - [https://iamkroot.github.io](https://iamkroot.github.io)
- - date published: 2023-10-25T19:46:33.488191+00:00
- - user: None
- - tags: []
-
-## I❤️LA: Compilable Markdown for Linear Algebra
- - [https://iheartla.github.io](https://iheartla.github.io)
- - date published: 2023-10-25T19:46:34.877245+00:00
- - user: None
- - tags: []
-
-## Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions
- - [https://instruct-nerf2nerf.github.io](https://instruct-nerf2nerf.github.io)
- - date published: 2023-10-25T19:46:36.357698+00:00
- - user: None
- - tags: []
-
-## Redirecting…
- - [https://intel.github.io](https://intel.github.io)
- - date published: 2023-10-25T19:46:42.447401+00:00
  - user: None
  - tags: []
 
