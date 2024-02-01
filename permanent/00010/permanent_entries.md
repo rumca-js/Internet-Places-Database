@@ -1,3 +1,105 @@
+## SubscribeStar.com - The best way to start your own subscription business
+ - [https://www.subscribestar.com](https://www.subscribestar.com)
+ - date published: 2023-12-21T19:04:41+00:00
+ - user: rumpel
+ - tags: ['content creators', 'monetization']
+
+## https://12challenges.substack.com
+ - [https://12challenges.substack.com](https://12challenges.substack.com)
+ - date published: 2024-01-30T17:02:46.662176+00:00
+ - user: None
+ - tags: []
+
+## 1517 Fund | Zak Slayback | Substack
+ - [https://1517.substack.com](https://1517.substack.com)
+ - date published: 2023-10-25T09:40:46.254905+00:00
+ - user: None
+ - tags: ['substack']
+
+## Aaron Greenspan | Substack
+ - [https://aarongreenspan.substack.com](https://aarongreenspan.substack.com)
+ - date published: 2023-11-23T02:03:50.588445+00:00
+ - user: None
+ - tags: []
+
+## Injecting Freedom | Aaron Siri | Substack
+ - [https://aaronsiri.substack.com](https://aaronsiri.substack.com)
+ - date published: 2023-10-25T09:40:48.445493+00:00
+ - user: None
+ - tags: ['substack']
+
+## About to Learn | Substack
+ - [https://abouttolearn.substack.com](https://abouttolearn.substack.com)
+ - date published: 2023-10-25T09:40:50.749209+00:00
+ - user: None
+ - tags: ['substack']
+
+## brainwork | abu | Substack
+ - [https://abuqader.substack.com](https://abuqader.substack.com)
+ - date published: 2023-10-25T09:40:52.663238+00:00
+ - user: None
+ - tags: ['substack']
+
+## Oleksii Sidorov | Substack
+ - [https://acecreamu.substack.com](https://acecreamu.substack.com)
+ - date published: 2023-10-25T09:40:55.727244+00:00
+ - user: None
+ - tags: ['substack']
+
+## Hot Takes | Adam Singer | Substack
+ - [https://adamsinger.substack.com](https://adamsinger.substack.com)
+ - date published: 2023-10-25T09:40:59.148654+00:00
+ - user: None
+ - tags: ['substack']
+
+## Chartbook | Adam Tooze | Substack
+ - [https://adamtooze.substack.com](https://adamtooze.substack.com)
+ - date published: 2023-10-25T09:41:02.258121+00:00
+ - user: None
+ - tags: ['substack']
+
+## Adetokunbo Sees | Adetokunbo Abiola | Substack
+ - [https://adetokunbo.substack.com](https://adetokunbo.substack.com)
+ - date published: 2023-10-25T09:41:05.242808+00:00
+ - user: None
+ - tags: ['substack']
+
+## Aditya’s Newsletter  | Aditya Saxena | Substack
+ - [https://aditya8080.substack.com](https://aditya8080.substack.com)
+ - date published: 2023-11-02T20:09:06.928633+00:00
+ - user: None
+ - tags: []
+
+## Knowingless | Aella | Substack
+ - [https://aella.substack.com](https://aella.substack.com)
+ - date published: 2023-10-25T09:41:12.865600+00:00
+ - user: None
+ - tags: ['substack']
+
+## Ageling on Agile | Willem-Jan Ageling | Substack
+ - [https://ageling.substack.com](https://ageling.substack.com)
+ - date published: 2023-10-25T09:41:16.204113+00:00
+ - user: None
+ - tags: ['substack']
+
+## Andrew's Substack | Andrew Zheng | Substack
+ - [https://aheze.substack.com](https://aheze.substack.com)
+ - date published: 2023-10-25T09:41:18.206414+00:00
+ - user: None
+ - tags: ['substack']
+
+## AI: A Guide for Thinking Humans | Melanie Mitchell | Substack
+ - [https://aiguide.substack.com](https://aiguide.substack.com)
+ - date published: 2023-10-25T09:41:20.815131+00:00
+ - user: None
+ - tags: ['substack']
+
+## AIModels.fyi | Mike Young | Substack
+ - [https://aimodels.substack.com](https://aimodels.substack.com)
+ - date published: 2023-11-04T06:47:54.961600+00:00
+ - user: None
+ - tags: []
+
 ## AI Political Pulse | Greg Dale | Substack
  - [https://aipoliticalpulse.substack.com](https://aipoliticalpulse.substack.com)
  - date published: 2023-10-25T09:41:23.435206+00:00
@@ -1687,6 +1789,12 @@
 ## Mostly Python | Eric Matthes | Substack
  - [https://mostlypython.substack.com](https://mostlypython.substack.com)
  - date published: 2024-01-09T01:42:29.608331+00:00
+ - user: None
+ - tags: []
+
+## https://moveit.substack.com
+ - [https://moveit.substack.com](https://moveit.substack.com)
+ - date published: 2024-01-30T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4997,6 +5105,12 @@
  - user: None
  - tags: []
 
+## The Far Side Comic Strip by Gary Larson - Official Website | TheFarSide.com
+ - [https://www.thefarside.com](https://www.thefarside.com)
+ - date published: 2024-01-31T20:58:14.365066+00:00
+ - user: None
+ - tags: []
+
 ## The Federalist - Culture, Politics, Religion
  - [https://thefederalist.com](https://thefederalist.com)
  - date published: 2023-10-25T17:32:52.453047+00:00
@@ -5882,120 +5996,6 @@
 ## Homepage - The Storytellers
  - [https://thestorytellers.com](https://thestorytellers.com)
  - date published: 2023-10-25T17:39:20.175714+00:00
- - user: None
- - tags: []
-
-## Togel Online | Togel Singapore | Togel Hongkong | Bandar Togel Online
- - [https://www.thestrayphotographer.com](https://www.thestrayphotographer.com)
- - date published: 2024-01-28T13:20:19.465059+00:00
- - user: None
- - tags: []
-
-## thestreet.com
- - [https://www.thestreet.com](https://www.thestreet.com)
- - date published: 2023-10-25T10:58:50.346204+00:00
- - user: None
- - tags: []
-
-## The Systems Thinker – The Systems Thinker -
- - [https://thesystemsthinker.com](https://thesystemsthinker.com)
- - date published: 2023-10-25T17:39:24.113619+00:00
- - user: None
- - tags: []
-
-## The Tech
- - [https://thetech.com](https://thetech.com)
- - date published: 2023-10-25T17:39:32.335916+00:00
- - user: None
- - tags: []
-
-## the tech deviant – tech, AI, art, etc.
- - [https://www.thetechdeviant.com](https://www.thetechdeviant.com)
- - date published: 2023-10-25T17:39:37.878292+00:00
- - user: None
- - tags: []
-
-## The Ted K Archive
- - [https://www.thetedkarchive.com](https://www.thetedkarchive.com)
- - date published: 2024-01-29T11:28:13+00:00
- - user: rumpel
- - tags: ['unabomber', 'ted kaczynski']
-
-## Thaiger
- - [https://thethaiger.com](https://thethaiger.com)
- - date published: 2023-11-07T18:32:57.135612+00:00
- - user: None
- - tags: []
-
-## The official website of the band The Ting Tings.
- - [https://thetingtings.com](https://thetingtings.com)
- - date published: 2023-10-30T12:06:10.450298+00:00
- - user: None
- - tags: ['music band']
-
-## TinyCTO
- - [https://thetinycto.com](https://thetinycto.com)
- - date published: 2023-10-25T17:39:38.508271+00:00
- - user: None
- - tags: []
-
-## The Tiny Life: Tiny Houses, Minimalism, Homesteading | Welcome
- - [https://thetinylife.com](https://thetinylife.com)
- - date published: 2023-10-25T17:39:42.804145+00:00
- - user: None
- - tags: []
-
-## Thomas Desmond - Writer, Speaker, Content Creator
- - [https://thetombomb.com](https://thetombomb.com)
- - date published: 2023-12-03T01:44:13.963138+00:00
- - user: None
- - tags: ['personal']
-
-## HOME | TheTomMason
- - [https://www.thetommason.com](https://www.thetommason.com)
- - date published: 2023-11-01T18:29:06.630318+00:00
- - user: None
- - tags: ['miniatures', 'sculpting', 'hobby']
-
-## Training Data | Substack
- - [https://www.thetrainingdata.com](https://www.thetrainingdata.com)
- - date published: 2023-10-25T17:39:44.124793+00:00
- - user: None
- - tags: []
-
-## theTrumpet.com | World News, Economics and Analysis Based on Bible Prophecy
- - [https://www.thetrumpet.com](https://www.thetrumpet.com)
- - date published: 2023-10-25T17:39:47.463608+00:00
- - user: None
- - tags: []
-
-## The Turn Signal
- - [https://www.theturnsignalblog.com](https://www.theturnsignalblog.com)
- - date published: 2023-10-25T17:39:48.868896+00:00
- - user: None
- - tags: []
-
-## The Typing of the RegEX
- - [https://thetypingoftheregex.com](https://thetypingoftheregex.com)
- - date published: 2023-10-25T17:39:49.507372+00:00
- - user: None
- - tags: []
-
-## The Uncomfortable – a collection of deliberately inconvenient objects
- - [https://www.theuncomfortable.com](https://www.theuncomfortable.com)
- - date published: 2024-01-25T18:00:43+00:00
- - user: None
- - tags: []
-
-## The Unconventional Route: Travel Extraordinarily
- - [https://theunconventionalroute.com](https://theunconventionalroute.com)
- - date published: 2024-01-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Undeniable Street View
- - [https://theundeniablestreetview.com](https://theundeniablestreetview.com)
- - date published: 2023-10-25T17:39:50.627178+00:00
  - user: None
  - tags: []
 

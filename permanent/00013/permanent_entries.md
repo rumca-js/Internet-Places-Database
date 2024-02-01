@@ -1,3 +1,135 @@
+## Norberto's personal website
+ - [https://nlopes.dev](https://nlopes.dev)
+ - date published: 2023-10-25T08:48:54.951889+00:00
+ - user: None
+ - tags: ['personal']
+
+## IAMOps Platform | NOQ
+ - [https://www.noq.dev](https://www.noq.dev)
+ - date published: 2023-10-25T18:40:17.657120+00:00
+ - user: None
+ - tags: []
+
+## Nicholas Ray
+ - [https://www.nray.dev](https://www.nray.dev)
+ - date published: 2023-10-25T08:58:47.329801+00:00
+ - user: None
+ - tags: ['personal']
+
+## olano.dev
+ - [https://olano.dev](https://olano.dev)
+ - date published: 2023-12-01T10:46:06.534286+00:00
+ - user: None
+ - tags: []
+
+## Onur Şuyalçınkaya
+ - [https://onur.dev](https://onur.dev)
+ - date published: 2023-12-16T07:29:32.330441+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://www.open-fire.dev
+ - [https://www.open-fire.dev](https://www.open-fire.dev)
+ - date published: 2024-01-09T02:57:19.590490+00:00
+ - user: None
+ - tags: []
+
+## OpenGOAL | OpenGOAL
+ - [https://opengoal.dev](https://opengoal.dev)
+ - date published: 2023-10-25T18:40:19.039679+00:00
+ - user: None
+ - tags: []
+
+## OpenStatus
+ - [https://www.openstatus.dev](https://www.openstatus.dev)
+ - date published: 2023-10-25T18:40:21.230486+00:00
+ - user: None
+ - tags: []
+
+## SQLPage
+ - [https://sql.ophir.dev](https://sql.ophir.dev)
+ - date published: 2023-10-25T18:40:22.802342+00:00
+ - user: None
+ - tags: []
+
+## OrbStack · Fast, light, simple Docker & Linux on macOS
+ - [https://orbstack.dev](https://orbstack.dev)
+ - date published: 2023-10-25T18:40:25.084437+00:00
+ - user: None
+ - tags: []
+
+## Orhun's Blog
+ - [https://blog.orhun.dev](https://blog.orhun.dev)
+ - date published: 2023-10-25T18:40:26.754894+00:00
+ - user: None
+ - tags: []
+
+## orionc.dev
+ - [https://orionc.dev](https://orionc.dev)
+ - date published: 2023-11-29T17:14:05.577990+00:00
+ - user: None
+ - tags: ['personal']
+
+## Gram Publishing v2
+ - [https://blog.orsinium.dev](https://blog.orsinium.dev)
+ - date published: 2023-10-25T18:40:28.464597+00:00
+ - user: None
+ - tags: []
+
+## Ory - API-first Identity Management, Authentication and Authorization. For Secure, Global, GDPR-compliant Apps | Ory
+ - [https://www.ory.dev](https://www.ory.dev)
+ - date published: 2023-10-25T18:40:33.383690+00:00
+ - user: None
+ - tags: []
+
+## oscard0m Blog
+ - [https://www.oscardom.dev](https://www.oscardom.dev)
+ - date published: 2024-01-05T10:28:24.995014+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://ad8e.pages.dev](https://ad8e.pages.dev)
+ - date published: 2024-01-09T02:57:22.291725+00:00
+ - user: None
+ - tags: []
+
+## Animotion – a visual CSS animation app
+ - [https://cssanimotion.pages.dev](https://cssanimotion.pages.dev)
+ - date published: 2023-11-24T11:16:25+00:00
+ - user: None
+ - tags: []
+
+## Indeed Job Scam
+ - [https://indeedjobscam.pages.dev](https://indeedjobscam.pages.dev)
+ - date published: 2023-10-25T18:40:43.826797+00:00
+ - user: None
+ - tags: []
+
+## nonnullish
+ - [https://nonnullish.pages.dev](https://nonnullish.pages.dev)
+ - date published: 2023-12-24T14:19:01.273158+00:00
+ - user: None
+ - tags: []
+
+## TLS, byte by byte
+ - [https://subtls.pages.dev](https://subtls.pages.dev)
+ - date published: 2023-10-25T18:40:44.490273+00:00
+ - user: None
+ - tags: []
+
+## https://tropical.pages.dev
+ - [https://tropical.pages.dev](https://tropical.pages.dev)
+ - date published: 2024-01-10T01:32:32.654649+00:00
+ - user: None
+ - tags: []
+
+## step by step
+ - [https://vxdev.pages.dev](https://vxdev.pages.dev)
+ - date published: 2024-01-22T18:02:01.724826+00:00
+ - user: None
+ - tags: []
+
 ## Passkey Developer Resources
  - [https://passkeys.dev](https://passkeys.dev)
  - date published: 2023-01-31T00:00:00+00:00
@@ -4010,6 +4142,12 @@
  - user: None
  - tags: ['personal']
 
+## Dhamma – Olulisem, kui kirjutis, on see, kes loeb
+ - [https://www.lausa.ee](https://www.lausa.ee)
+ - date published: 2024-01-31T05:28:34.305446+00:00
+ - user: None
+ - tags: []
+
 ## lemm.ee - General-purpose Lemmy instance. New users and communities welcome!
  - [https://lemm.ee](https://lemm.ee)
  - date published: 2023-10-24T20:14:55.872230+00:00
@@ -4267,6 +4405,12 @@
  - date published: 2023-12-22T17:48:22.490078+00:00
  - user: None
  - tags: ['personal']
+
+## Exist
+ - [https://leejon.es](https://leejon.es)
+ - date published: 2024-01-31T18:44:31.519646+00:00
+ - user: None
+ - tags: []
 
 ## Mejora Tu Hogar con MejorHogar: Consejos y Soluciones Prácticas
  - [https://mejorhogar.es](https://mejorhogar.es)
@@ -5565,6 +5709,12 @@
  - tags: []
 
 ## Sign in · GitLab
+ - [https://gitlab.inria.fr](https://gitlab.inria.fr)
+ - date published: 2024-01-31T22:10:38.061645+00:00
+ - user: None
+ - tags: []
+
+## Sign in · GitLab
  - [https://gustedt.gitlabpages.inria.fr](https://gustedt.gitlabpages.inria.fr)
  - date published: 2023-10-25T19:15:07.742650+00:00
  - user: None
@@ -5863,156 +6013,6 @@
 ## Loup Vaillant's Home Page
  - [https://loup-vaillant.fr](https://loup-vaillant.fr)
  - date published: 2023-10-25T19:15:31.999364+00:00
- - user: None
- - tags: []
-
-## Louvre Museum Official Website
- - [https://www.louvre.fr](https://www.louvre.fr)
- - date published: 2023-11-13T13:49:23.630733+00:00
- - user: None
- - tags: ['museum']
-
-## None
- - [https://maitre-du-monde.fr](https://maitre-du-monde.fr)
- - date published: 2023-12-30T05:22:02.013987+00:00
- - user: None
- - tags: ['personal']
-
-## La Quadrature du Net - Mastodon - Media Fédéré
- - [https://mamot.fr](https://mamot.fr)
- - date published: 2023-10-25T19:15:32.656881+00:00
- - user: None
- - tags: []
-
-## Spécialiste du voyage sur-mesure ▷ Marco Vasco
- - [https://www.marcovasco.fr](https://www.marcovasco.fr)
- - date published: 2023-12-18T17:11:04.210811+00:00
- - user: None
- - tags: []
-
-## mdk.fr – Julien Palard
- - [https://mdk.fr](https://mdk.fr)
- - date published: 2023-10-25T19:15:33.507337+00:00
- - user: None
- - tags: []
-
-## Actualités Nautisme : l'actualité du nautisme au quotidien avec Figaro Nautisme
- - [https://figaronautisme.meteoconsult.fr](https://figaronautisme.meteoconsult.fr)
- - date published: 2023-12-18T17:12:20.499289+00:00
- - user: None
- - tags: []
-
-## Météo France - Prévisions METEO DETAILLEES à 15 jours - METEO CONSULT
- - [https://www.meteoconsult.fr](https://www.meteoconsult.fr)
- - date published: 2023-12-18T17:19:23.525460+00:00
- - user: None
- - tags: []
-
-## Moneylo – L'investissement, mais en (vraiment) simple
- - [https://moneylo.fr](https://moneylo.fr)
- - date published: 2024-01-16T23:53:52.013848+00:00
- - user: None
- - tags: []
-
-## Parimal Satyal - Neustadt.fr
- - [https://neustadt.fr](https://neustadt.fr)
- - date published: 2023-11-15T17:47:22.781493+00:00
- - user: None
- - tags: ['personal']
-
-## Institut Pasteur | Pour la recherche, pour la santé, pour demain
- - [https://www.pasteur.fr](https://www.pasteur.fr)
- - date published: 2023-10-25T19:15:36.559641+00:00
- - user: None
- - tags: []
-
-## Pauline - Diététicienne Nutritionniste en ligne
- - [https://paulinediet.fr](https://paulinediet.fr)
- - date published: 2023-12-30T15:37:09.456943+00:00
- - user: None
- - tags: ['personal']
-
-## PC Solutions – Dépannage informatique Moëlan sur mer
- - [https://www.pcsolu.fr](https://www.pcsolu.fr)
- - date published: 2023-12-13T15:19:51.233148+00:00
- - user: None
- - tags: []
-
-## Plateaux numériques
- - [https://plateaux-numeriques.fr](https://plateaux-numeriques.fr)
- - date published: 2023-12-11T16:18:41.981814+00:00
- - user: None
- - tags: []
-
-## Quentin Santos
- - [https://qsantos.fr](https://qsantos.fr)
- - date published: 2024-01-14T11:07:10.851970+00:00
- - user: None
- - tags: []
-
-## RFI - All the news from France, Europe, Africa and the rest of the world.
- - [https://www.rfi.fr](https://www.rfi.fr)
- - date published: 2023-10-25T19:15:39.019325+00:00
- - user: None
- - tags: []
-
-## Magazine du voyage et de la découverte
- - [https://www.sauvonslepalaisdeladecouverte.fr](https://www.sauvonslepalaisdeladecouverte.fr)
- - date published: 2024-01-07T08:44:38.911143+00:00
- - user: None
- - tags: []
-
-## Siècle Digital - L'actualité internationale de l'économie du numérique
- - [https://siecledigital.fr](https://siecledigital.fr)
- - date published: 2023-10-25T19:15:41.666599+00:00
- - user: None
- - tags: []
-
-## Siosm’s blog
- - [https://tim.siosm.fr](https://tim.siosm.fr)
- - date published: 2023-12-20T01:47:50.797689+00:00
- - user: None
- - tags: []
-
-## SunEstra
- - [https://sunestra.fr](https://sunestra.fr)
- - date published: 2023-10-25T09:21:54.389722+00:00
- - user: None
- - tags: ['personal']
-
-## Knowledge versus market -- Sharing versus Ease of use. - Techno Barje
- - [https://blog.techno-barje.fr](https://blog.techno-barje.fr)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## TeleCoop, premier opérateur télécom coopératif
- - [https://telecoop.fr](https://telecoop.fr)
- - date published: 2023-12-11T16:19:38.653596+00:00
- - user: None
- - tags: []
-
-## The Local - France's news in English
- - [https://www.thelocal.fr](https://www.thelocal.fr)
- - date published: 2023-10-25T19:15:46.734185+00:00
- - user: None
- - tags: []
-
-## The Shelf
- - [https://theshelf.fr](https://theshelf.fr)
- - date published: 2024-01-09T03:30:05.552264+00:00
- - user: None
- - tags: []
-
-## UTOPIAWEB - Agence et éditeur web à Rennes
- - [https://utopiaweb.fr](https://utopiaweb.fr)
- - date published: 2023-12-11T18:41:53.958415+00:00
- - user: None
- - tags: []
-
-## https://www.veracrypt.fr
- - [https://www.veracrypt.fr](https://www.veracrypt.fr)
- - date published: 2024-01-09T03:30:06.149408+00:00
  - user: None
  - tags: []
 

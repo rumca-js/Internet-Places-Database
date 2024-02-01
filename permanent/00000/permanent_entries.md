@@ -3478,6 +3478,12 @@
  - user: None
  - tags: ['personal']
 
+## 20 angles Podcast/Blog
+ - [https://nibbler.be](https://nibbler.be)
+ - date published: 2020-10-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## There oughta be…
  - [https://there.oughta.be](https://there.oughta.be)
  - date published: 2023-10-25T11:59:20.700704+00:00
@@ -5993,10 +5999,4 @@
  - date published: 2023-10-25T12:12:48.064999+00:00
  - user: None
  - tags: []
-
-## Home | CERN
- - [https://home.cern](https://home.cern)
- - date published: 2023-10-25T11:24:34.306556+00:00
- - user: None
- - tags: ['nuclear research']
 

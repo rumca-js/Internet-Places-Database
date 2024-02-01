@@ -1,3 +1,9 @@
+## Home | CERN
+ - [https://home.cern](https://home.cern)
+ - date published: 2023-10-25T11:24:34.306556+00:00
+ - user: None
+ - tags: ['nuclear research']
+
 ## FATF Travel Rule Solution for Crypto Compliance
  - [https://www.21analytics.ch](https://www.21analytics.ch)
  - date published: 2023-10-25T12:12:52.708719+00:00
@@ -1819,6 +1825,12 @@
 ## snackableCTO | Adrian Stanek | Substack
  - [https://blog.snackablecto.coach](https://blog.snackablecto.coach)
  - date published: 2023-12-03T17:18:27.310586+00:00
+ - user: None
+ - tags: []
+
+## 2MB codes hub
+ - [https://2mb.codes](https://2mb.codes)
+ - date published: 2000-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3743,6 +3755,12 @@
  - date published: 2023-11-29T17:12:45.622404+00:00
  - user: None
  - tags: ['personal']
+
+## Ajmal Afif
+ - [https://ajmalafif.com](https://ajmalafif.com)
+ - date published: 2024-01-31T21:01:43.444720+00:00
+ - user: None
+ - tags: []
 
 ## Joel's Blog
  - [https://ajoellee.com](https://ajoellee.com)
@@ -5838,6 +5856,12 @@
  - user: None
  - tags: []
 
+## Arctic Adventure: A Lost 1981 TRS-80 Adventure Game
+ - [https://www.arctic81.com](https://www.arctic81.com)
+ - date published: 1981-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## News - ArcticToday
  - [https://www.arctictoday.com](https://www.arctictoday.com)
  - date published: 2024-01-04T18:39:16.439515+00:00
@@ -5938,7 +5962,7 @@
  - [https://arikoinuma.com](https://arikoinuma.com)
  - date published: 2024-01-11T07:52:35.164486+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Ariyh | Thomas McKinlay | Substack
  - [https://tips.ariyh.com](https://tips.ariyh.com)
@@ -5975,28 +5999,4 @@
  - date published: 2023-10-25T12:45:30.852233+00:00
  - user: None
  - tags: []
-
-## Arm Newsroom
- - [https://newsroom.arm.com](https://newsroom.arm.com)
- - date published: 2023-11-02T14:38:10.439533+00:00
- - user: None
- - tags: []
-
-## Building the Future of Computing – Arm®
- - [https://www.arm.com](https://www.arm.com)
- - date published: 2023-10-25T11:27:17.516393+00:00
- - user: None
- - tags: ['semiconductors']
-
-## Armantas Zvirgzdas
- - [https://armantas.com](https://armantas.com)
- - date published: 2024-01-07T11:03:45.565786+00:00
- - user: None
- - tags: []
-
-## Armin van Buuren
- - [https://www.arminvanbuuren.com](https://www.arminvanbuuren.com)
- - date published: 2023-11-13T10:22:59.517128+00:00
- - user: None
- - tags: ['music band']
 

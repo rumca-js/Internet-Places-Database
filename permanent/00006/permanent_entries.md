@@ -1,3 +1,63 @@
+## The Jewish Press - JewishPress.com
+ - [https://www.jewishpress.com](https://www.jewishpress.com)
+ - date published: 2023-12-07T15:14:09.328558+00:00
+ - user: None
+ - tags: ['jewish news', 'israel']
+
+## Jezen Thomas | Haskell, Unix, Minimalism, and Entrepreneurship.
+ - [https://jezenthomas.com](https://jezenthomas.com)
+ - date published: 2023-10-25T15:28:46.503280+00:00
+ - user: None
+ - tags: []
+
+## Thriller author J.F.Penn
+ - [https://jfpenn.com](https://jfpenn.com)
+ - date published: 2024-01-08T07:27:33.171213+00:00
+ - user: None
+ - tags: []
+
+## Software Supply Chain Platform for DevOps & Security | JFrog
+ - [https://jfrog.com](https://jfrog.com)
+ - date published: 2023-10-25T15:29:02.160628+00:00
+ - user: None
+ - tags: []
+
+## jgallant's Indie Game Developer Homepage
+ - [https://www.jgallant.com](https://www.jgallant.com)
+ - date published: 2023-10-25T15:29:05.166800+00:00
+ - user: None
+ - tags: []
+
+## https://riscv.jghuff.com
+ - [https://riscv.jghuff.com](https://riscv.jghuff.com)
+ - date published: 2024-01-09T02:40:36.995426+00:00
+ - user: None
+ - tags: []
+
+## Ji'hyn's Webbed Site – Thinkin' 'bout stuff
+ - [https://jihyn.com](https://jihyn.com)
+ - date published: 2023-11-09T19:01:08.263803+00:00
+ - user: None
+ - tags: []
+
+## Jim Nielsen’s Blog
+ - [https://blog.jim-nielsen.com](https://blog.jim-nielsen.com)
+ - date published: 2023-10-25T15:29:09.082962+00:00
+ - user: None
+ - tags: []
+
+## Jim Clair – Blog
+ - [https://jimclair.com](https://jimclair.com)
+ - date published: 2023-10-25T15:29:13.208321+00:00
+ - user: None
+ - tags: []
+
+## Jimmy Keane
+ - [https://jimmykeane.com](https://jimmykeane.com)
+ - date published: 2023-11-29T17:12:38.002816+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Jingnan Shi
  - [https://jingnanshi.com](https://jingnanshi.com)
  - date published: 2023-10-25T15:29:17.944385+00:00
@@ -1538,7 +1598,7 @@
  - [https://www.keithedwards.com](https://www.keithedwards.com)
  - date published: 2024-01-09T02:41:04.418506+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Keith J Lang - Writer & Top 7 Billion Expert in a Few Things
  - [https://keithjlang.com](https://keithjlang.com)
@@ -5940,64 +6000,4 @@ diversions.
  - date published: 2023-12-05T09:12:58.682891+00:00
  - user: None
  - tags: ['personal']
-
-## Home
- - [https://matthew-fenton.com](https://matthew-fenton.com)
- - date published: 2024-01-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## Matt Bilyeu
- - [https://matthewbilyeu.com](https://matthewbilyeu.com)
- - date published: 2023-10-25T15:58:14.725827+00:00
- - user: None
- - tags: []
-
-## Matthew Bischoff
- - [https://matthewbischoff.com](https://matthewbischoff.com)
- - date published: 2023-12-25T22:12:58.645784+00:00
- - user: None
- - tags: ['personal']
-
-## Matthew Butterick
- - [https://matthewbutterick.com](https://matthewbutterick.com)
- - date published: 2023-10-25T15:58:16.245284+00:00
- - user: None
- - tags: []
-
-## Matthew Hirschey
- - [https://www.matthewhirschey.com](https://www.matthewhirschey.com)
- - date published: 2024-01-24T08:01:24.160544+00:00
- - user: None
- - tags: []
-
-## Matthias Portzel
- - [https://matthiasportzel.com](https://matthiasportzel.com)
- - date published: 2023-10-25T15:58:17.267821+00:00
- - user: None
- - tags: []
-
-## Matthias Röder – Music & Technology Strategist
- - [https://www.matthiasroder.com](https://www.matthiasroder.com)
- - date published: 2024-01-11T13:28:18.450628+00:00
- - user: None
- - tags: []
-
-## Matt Hidinger
- - [https://matthidinger.com](https://matthidinger.com)
- - date published: 2023-10-25T09:25:52.333265+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Matt Karamazov
- - [https://www.mattkaramazov.com](https://www.mattkaramazov.com)
- - date published: 2024-01-09T21:35:34.484273+00:00
- - user: None
- - tags: []
-
-## home
- - [https://www.mattkeeter.com](https://www.mattkeeter.com)
- - date published: 2023-10-25T15:58:19.582884+00:00
- - user: None
- - tags: []
 

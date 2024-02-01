@@ -1,3 +1,217 @@
+## Miles A. Curry
+ - [https://micurry.org](https://micurry.org)
+ - date published: 2023-12-05T14:38:00.304530+00:00
+ - user: None
+ - tags: ['personal']
+
+## Military Poisons | WILPF US
+ - [https://www.militarypoisons.org](https://www.militarypoisons.org)
+ - date published: 2023-10-25T21:42:31.932290+00:00
+ - user: None
+ - tags: []
+
+## Min | A fast, minimal browser that protects your privacy
+ - [https://minbrowser.org](https://minbrowser.org)
+ - date published: 2023-10-25T21:42:38.172126+00:00
+ - user: None
+ - tags: []
+
+## Ed Fox meditation coach – Overcome fear, limitation, and challenge
+ - [https://www.mindbodyawakening.org](https://www.mindbodyawakening.org)
+ - date published: 2023-12-12T23:23:50.149785+00:00
+ - user: None
+ - tags: ['personal']
+
+## Minding The Campus — Reforming Our Universities
+ - [https://www.mindingthecampus.org](https://www.mindingthecampus.org)
+ - date published: 2023-10-25T21:42:55.312806+00:00
+ - user: None
+ - tags: []
+
+## lists.mindrot.org Mailing Lists
+ - [https://lists.mindrot.org](https://lists.mindrot.org)
+ - date published: 2024-01-11T13:43:10.457170+00:00
+ - user: None
+ - tags: []
+
+## Minecraft Servers | Minecraft Server List
+ - [https://minecraftservers.org](https://minecraftservers.org)
+ - date published: 2023-10-25T11:18:19.441515+00:00
+ - user: None
+ - tags: []
+
+## MineDojo | Building Open-Ended Embodied Agents with
+        Internet-Scale Knowledge
+ - [https://minedojo.org](https://minedojo.org)
+ - date published: 2023-10-25T21:42:57.598309+00:00
+ - user: None
+ - tags: []
+
+## Voyager | An Open-Ended Embodied Agent with Large Language Models
+ - [https://voyager.minedojo.org](https://voyager.minedojo.org)
+ - date published: 2023-10-25T21:43:00.475854+00:00
+ - user: None
+ - tags: []
+
+## https://mingw.org
+ - [https://mingw.org](https://mingw.org)
+ - date published: 2024-01-09T03:41:43.009235+00:00
+ - user: None
+ - tags: []
+
+## MinGW-w64
+ - [https://www.mingw-w64.org](https://www.mingw-w64.org)
+ - date published: 2023-10-30T14:03:46.137119+00:00
+ - user: None
+ - tags: ['open source']
+
+## Minidisc Community Portal
+ - [https://www.minidisc.org](https://www.minidisc.org)
+ - date published: 2023-10-25T21:43:02.864383+00:00
+ - user: None
+ - tags: []
+
+## Manifesto for Minimalist Software Engineers
+ - [https://minifesto.org](https://minifesto.org)
+ - date published: 2024-01-09T03:41:45.036036+00:00
+ - user: None
+ - tags: []
+
+## Minifree Ltd – GNU+Linux laptops with Libreboot preinstalled, based on coreboot
+ - [https://minifree.org](https://minifree.org)
+ - date published: 2023-10-25T21:43:09.325144+00:00
+ - user: None
+ - tags: []
+
+## We champion the writer in every child - Ministry of Stories
+ - [https://ministryofstories.org](https://ministryofstories.org)
+ - date published: 2023-10-30T10:55:17.609587+00:00
+ - user: None
+ - tags: ['community']
+
+## git.minix3.org Git
+ - [https://git.minix3.org](https://git.minix3.org)
+ - date published: 2023-10-25T21:43:12.370760+00:00
+ - user: None
+ - tags: []
+
+## MiniZinc
+ - [https://www.minizinc.org](https://www.minizinc.org)
+ - date published: 2023-10-25T21:43:16.189696+00:00
+ - user: None
+ - tags: []
+
+## 100% free, ad-free wikis, request yours today! - Miraheze
+ - [https://meta.miraheze.org](https://meta.miraheze.org)
+ - date published: 2023-10-25T21:43:20.077625+00:00
+ - user: None
+ - tags: []
+
+## Mission Local: local news for a global city | San Francisco, CA
+ - [https://missionlocal.org](https://missionlocal.org)
+ - date published: 2023-10-25T21:43:31.496412+00:00
+ - user: None
+ - tags: []
+
+## Mississippi Free Press - Solutions Journalism - Beyond Partisanship
+ - [https://www.mississippifreepress.org](https://www.mississippifreepress.org)
+ - date published: 2023-12-13T01:19:16.375937+00:00
+ - user: None
+ - tags: []
+
+## MIT Admissions
+ - [https://mitadmissions.org](https://mitadmissions.org)
+ - date published: 2023-10-25T21:43:35.721118+00:00
+ - user: None
+ - tags: []
+
+## mitmproxy - an interactive HTTPS proxy
+ - [https://mitmproxy.org](https://mitmproxy.org)
+ - date published: 2023-10-25T21:43:42.450770+00:00
+ - user: None
+ - tags: []
+
+## CVE -
+
+CVE
+ - [https://cve.mitre.org](https://cve.mitre.org)
+ - date published: 2023-10-25T21:43:44.813392+00:00
+ - user: None
+ - tags: []
+
+## CWE - 
+Common Weakness Enumeration
+ - [https://cwe.mitre.org](https://cwe.mitre.org)
+ - date published: 2023-10-25T21:43:47.269871+00:00
+ - user: None
+ - tags: []
+
+## Maine Indian Tribal-State Commission
+ - [https://www.mitsc.org](https://www.mitsc.org)
+ - date published: 2023-11-07T15:22:54.544635+00:00
+ - user: None
+ - tags: []
+
+## Welcome to MkLinux.org
+ - [https://mklinux.org](https://mklinux.org)
+ - date published: 2024-01-09T03:41:47.847919+00:00
+ - user: None
+ - tags: []
+
+## Blog | Minglemangle Of Mymind
+ - [https://www.mmomm.org](https://www.mmomm.org)
+ - date published: 2023-12-20T14:33:01.924588+00:00
+ - user: None
+ - tags: ['personal']
+
+## Tom's Home Page
+ - [http://cholla.mmto.org](http://cholla.mmto.org)
+ - date published: 2023-10-27T12:06:43.535423+00:00
+ - user: None
+ - tags: []
+
+## Mobian's Blog
+ - [https://blog.mobian.org](https://blog.mobian.org)
+ - date published: 2023-10-25T21:44:05.166649+00:00
+ - user: None
+ - tags: []
+
+## The Mod Archive v4.0b - A distinctive collection of modules
+ - [https://modarchive.org](https://modarchive.org)
+ - date published: 2023-10-28T19:01:07.809021+00:00
+ - user: None
+ - tags: ['demoscene', 'keygen', 'chiptune']
+
+## mojo.js - JavaScript real-time web framework
+ - [https://mojojs.org](https://mojojs.org)
+ - date published: 2023-10-25T21:44:11.865057+00:00
+ - user: None
+ - tags: []
+
+## https://www.moma.org
+ - [https://www.moma.org](https://www.moma.org)
+ - date published: 2023-10-25T21:44:12.528195+00:00
+ - user: None
+ - tags: []
+
+## Monkeynoodle.Org – A Scientific Venture!
+ - [https://monkeynoodle.org](https://monkeynoodle.org)
+ - date published: 2023-10-25T21:44:16.728817+00:00
+ - user: None
+ - tags: []
+
+## Monoskop
+ - [https://monoskop.org](https://monoskop.org)
+ - date published: 2023-11-07T15:23:03.904739+00:00
+ - user: None
+ - tags: []
+
+## Monthly Review | An Independent Socialist Magazine
+ - [https://monthlyreview.org](https://monthlyreview.org)
+ - date published: 2023-10-25T21:44:28.453577+00:00
+ - user: None
+ - tags: []
+
 ## Home | Moodle.org
  - [https://moodle.org](https://moodle.org)
  - date published: 2023-10-25T21:44:33.671005+00:00
@@ -423,6 +637,12 @@
  - date published: 2023-10-25T09:24:18.851938+00:00
  - user: None
  - tags: ['personal']
+
+## Blog
+ - [https://neimanslab.org](https://neimanslab.org)
+ - date published: 2024-01-31T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## https://www.nejm.org
  - [https://www.nejm.org](https://www.nejm.org)
@@ -2783,6 +3003,12 @@
  - user: None
  - tags: ['operating system', 'open source']
 
+## Reading Rainbow
+ - [https://www.readingrainbow.org](https://www.readingrainbow.org)
+ - date published: 2024-01-31T22:17:20.397841+00:00
+ - user: None
+ - tags: []
+
 ## realclearenergy.org
  - [https://www.realclearenergy.org](https://www.realclearenergy.org)
  - date published: 2023-10-25T22:02:36.663158+00:00
@@ -3884,6 +4110,12 @@
 ## https://smarthistory.org
  - [https://smarthistory.org](https://smarthistory.org)
  - date published: 2023-10-25T22:09:34.986464+00:00
+ - user: None
+ - tags: []
+
+## SMS Power!
+ - [https://www.smspower.org](https://www.smspower.org)
+ - date published: 2024-01-31T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5773,232 +6005,4 @@
  - date published: 2023-10-29T13:05:11.269368+00:00
  - user: None
  - tags: ['open source', 'game']
-
-## The Westminster Declaration
- - [https://westminsterdeclaration.org](https://westminsterdeclaration.org)
- - date published: 2023-10-27T12:07:12.002789+00:00
- - user: None
- - tags: []
-
-## Wez Furlong, Open Sourceror
- - [https://wezfurlong.org](https://wezfurlong.org)
- - date published: 2023-10-25T22:19:57.560546+00:00
- - user: None
- - tags: []
-
-## Indianapolis' Public Radio, TV & News Station | WFYI
- - [https://www.wfyi.org](https://www.wfyi.org)
- - date published: 2023-10-25T22:20:00.574986+00:00
- - user: None
- - tags: []
-
-## WGA Contract 2023
- - [https://www.wgacontract2023.org](https://www.wgacontract2023.org)
- - date published: 2023-10-25T22:20:03.583080+00:00
- - user: None
- - tags: []
-
-## GBH.org
- - [https://www.wgbh.org](https://www.wgbh.org)
- - date published: 2023-11-29T05:46:53.911077+00:00
- - user: None
- - tags: []
-
-## WGCU Public Media - PBS and NPR for Southwest Florida
- - [https://news.wgcu.org](https://news.wgcu.org)
- - date published: 2023-12-08T08:34:50.964802+00:00
- - user: None
- - tags: []
-
-## What Is My Screen Resolution
- - [https://www.whatismyscreenresolution.org](https://www.whatismyscreenresolution.org)
- - date published: 2024-01-07T05:40:05+00:00
- - user: None
- - tags: []
-
-## What Is Scientology? Beliefs & Facts - Church of Scientology
- - [https://www.whatisscientology.org](https://www.whatisscientology.org)
- - date published: 2023-11-27T13:00:45+00:00
- - user: rumpel
- - tags: ['scientology']
-
-## Whistleblower Aid
- - [https://whistlebloweraid.org](https://whistlebloweraid.org)
- - date published: 2024-01-04T10:20:01+00:00
- - user: None
- - tags: []
-
-## whitequark's lab notebook
- - [https://lab.whitequark.org](https://lab.whitequark.org)
- - date published: 2023-10-25T22:20:08.691797+00:00
- - user: None
- - tags: []
-
-## whizzy.org
- - [https://www.whizzy.org](https://www.whizzy.org)
- - date published: 2023-12-15T21:45:41.471748+00:00
- - user: None
- - tags: []
-
-## Whonix - Superior Internet Privacy
- - [https://www.whonix.org](https://www.whonix.org)
- - date published: 2023-10-25T08:38:05.601331+00:00
- - user: None
- - tags: []
-
-## Home Page - WhoWhatWhy
- - [https://whowhatwhy.org](https://whowhatwhy.org)
- - date published: 2023-10-31T10:38:23.005616+00:00
- - user: None
- - tags: []
-
-## WHYY
- - [https://whyy.org](https://whyy.org)
- - date published: 2024-01-21T00:49:48.850951+00:00
- - user: None
- - tags: []
-
-## Dariusz Więckiewicz 🇵🇱 – Wolny świat, wolne myśly, wolne słowa.
- - [https://dariusz.wieckiewicz.org](https://dariusz.wieckiewicz.org)
- - date published: 2023-10-25T22:20:13.073418+00:00
- - user: None
- - tags: []
-
-## Wikibooks
- - [https://en.wikibooks.org](https://en.wikibooks.org)
- - date published: 2023-10-25T22:20:17.247729+00:00
- - user: None
- - tags: []
-
-## WikiChip Fuse – Your Chips and Semi News
- - [https://fuse.wikichip.org](https://fuse.wikichip.org)
- - date published: 2023-10-25T22:20:29.115014+00:00
- - user: None
- - tags: []
-
-## Wikidata
- - [https://wikidata.org](https://wikidata.org)
- - date published: 2023-11-17T16:44:51+00:00
- - user: rumpel
- - tags: ['internet archive', 'knowledge database']
-
-## Wikidata
- - [https://www.wikidata.org](https://www.wikidata.org)
- - date published: 2024-01-09T03:43:03.451523+00:00
- - user: None
- - tags: []
-
-## WikiIndex
- - [https://wikiindex.org](https://wikiindex.org)
- - date published: 2023-10-25T22:20:32.639179+00:00
- - user: None
- - tags: []
-
-## 504 Gateway Time-out
- - [https://wikileaks.org](https://wikileaks.org)
- - date published: 2023-10-25T22:20:33.161903+00:00
- - user: None
- - tags: []
-
-## Wikimedia Commons
- - [https://commons.wikimedia.org](https://commons.wikimedia.org)
- - date published: 2023-10-25T22:20:40.800608+00:00
- - user: None
- - tags: []
-
-## Diff – News from across the Wikimedia movement
- - [https://diff.wikimedia.org](https://diff.wikimedia.org)
- - date published: 2023-10-25T22:20:44.837722+00:00
- - user: None
- - tags: []
-
-## List Index - lists.wikimedia.org
- - [https://lists.wikimedia.org](https://lists.wikimedia.org)
- - date published: 2024-01-09T03:43:10.640760+00:00
- - user: None
- - tags: []
-
-## Main Page - Meta
- - [https://meta.wikimedia.org](https://meta.wikimedia.org)
- - date published: 2023-10-25T22:21:00.290462+00:00
- - user: None
- - tags: []
-
-## Wikimedia Commons
- - [https://upload.wikimedia.org](https://upload.wikimedia.org)
- - date published: 2023-12-02T22:11:10.036720+00:00
- - user: None
- - tags: []
-
-## Home – Wikimedia Foundation
- - [https://wikimediafoundation.org](https://wikimediafoundation.org)
- - date published: 2023-10-25T22:21:03.787447+00:00
- - user: None
- - tags: []
-
-## Wikipedia – Die freie Enzyklopädie
- - [https://de.wikipedia.org](https://de.wikipedia.org)
- - date published: 2023-11-01T15:44:21.604213+00:00
- - user: None
- - tags: []
-
-## Wikipedia, the free encyclopedia
- - [https://en.m.wikipedia.org](https://en.m.wikipedia.org)
- - date published: 2023-10-25T09:28:56.379569+00:00
- - user: None
- - tags: []
-
-## Wikipedia, the free encyclopedia
- - [https://en.wikipedia.org](https://en.wikipedia.org)
- - date published: 2023-10-25T09:28:43.251880+00:00
- - user: None
- - tags: []
-
-## Wikipédia, l'encyclopédie libre
- - [https://fr.wikipedia.org](https://fr.wikipedia.org)
- - date published: 2023-12-11T16:21:57.471851+00:00
- - user: None
- - tags: []
-
-## Wikipedia, wolna encyklopedia
- - [https://pl.m.wikipedia.org](https://pl.m.wikipedia.org)
- - date published: 2023-10-25T09:28:59.023034+00:00
- - user: None
- - tags: []
-
-## Wikipedia, wolna encyklopedia
- - [https://pl.wikipedia.org](https://pl.wikipedia.org)
- - date published: 2023-10-25T09:29:01.830546+00:00
- - user: None
- - tags: []
-
-## Википедия — свободная энциклопедия
- - [https://ru.wikipedia.org](https://ru.wikipedia.org)
- - date published: 2023-12-11T19:10:59.468908+00:00
- - user: None
- - tags: []
-
-## Wikipedia
- - [https://www.wikipedia.org](https://www.wikipedia.org)
- - date published: 2023-10-25T13:32:36.498304+00:00
- - user: None
- - tags: ['encyclopedia']
-
-## Wikiquote
- - [https://wikiquote.org](https://wikiquote.org)
- - date published: 2023-11-28T19:06:23+00:00
- - user: rumpel
- - tags: ['quotes', 'wiki']
-
-## Wikisource, the free library
- - [https://en.wikisource.org](https://en.wikisource.org)
- - date published: 2023-10-25T22:21:09.335429+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://wikisummaries.org](https://wikisummaries.org)
- - date published: 2023-11-20T20:54:09.137088+00:00
- - user: None
- - tags: []
 

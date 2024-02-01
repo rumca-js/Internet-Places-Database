@@ -1,3 +1,39 @@
+## Welcome to dranger.com
+ - [https://dranger.com](https://dranger.com)
+ - date published: 2024-01-09T02:35:22.654698+00:00
+ - user: None
+ - tags: []
+
+## Dr. Cat Hicks | Resilient Productivity
+ - [https://www.drcathicks.com](https://www.drcathicks.com)
+ - date published: 2023-10-25T13:58:26.111396+00:00
+ - user: None
+ - tags: []
+
+## Dr. Cox Consulting |
+ - [https://www.drcoxconsulting.com](https://www.drcoxconsulting.com)
+ - date published: 6667-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Systems & Strategy To Make More Money. Period.
+ - [https://dreallday.com](https://dreallday.com)
+ - date published: 2024-01-08T07:27:18.679327+00:00
+ - user: None
+ - tags: []
+
+## Dreame FM, a world of audible books & fictions
+ - [https://dreamefm.com](https://dreamefm.com)
+ - date published: 2024-01-24T18:03:01.831693+00:00
+ - user: None
+ - tags: []
+
+## "Baseball Games: antique parlor games to modern tabletop sims"
+ - [https://baseballgames.dreamhosters.com](https://baseballgames.dreamhosters.com)
+ - date published: 2023-10-25T13:58:28.028198+00:00
+ - user: None
+ - tags: []
+
 ## Dreamsongs
  - [https://dreamsongs.com](https://dreamsongs.com)
  - date published: 2023-10-25T13:58:29.575307+00:00
@@ -103,6 +139,12 @@
 ## Dr Karl | an answer looking for a question
  - [https://drkarl.com](https://drkarl.com)
  - date published: 2023-12-02T20:11:08.430448+00:00
+ - user: None
+ - tags: []
+
+## David R. MacIver
+ - [https://www.drmaciver.com](https://www.drmaciver.com)
+ - date published: 2024-01-31T17:45:45.567034+00:00
  - user: None
  - tags: []
 
@@ -1287,6 +1329,12 @@
  - date published: 2023-10-25T09:40:07.368841+00:00
  - user: None
  - tags: ['substack']
+
+## EmilyGorcenski.com
+ - [https://emilygorcenski.com](https://emilygorcenski.com)
+ - date published: 2024-01-31T17:45:49.870683+00:00
+ - user: None
+ - tags: []
 
 ## Theatre | Emily Rainbow Davis
  - [https://www.emilyrainbowdavis.com](https://www.emilyrainbowdavis.com)
@@ -5951,52 +5999,4 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-12-26T17:17:31.263884+00:00
  - user: None
  - tags: []
-
-## Gitta Wolf
- - [https://gittawolf.com](https://gittawolf.com)
- - date published: 2023-11-29T14:42:14.713737+00:00
- - user: None
- - tags: ['personal']
-
-## GiveLiveExplore – The Blog of Matthew Trinetti
- - [https://www.giveliveexplore.com](https://www.giveliveexplore.com)
- - date published: 2023-11-29T14:18:10.684298+00:00
- - user: None
- - tags: ['personal']
-
-## None
- - [https://www.givemesport.com](https://www.givemesport.com)
- - date published: 2024-01-09T02:37:32.883898+00:00
- - user: None
- - tags: []
-
-## Gizmodo | The Future Is Here
- - [https://gizmodo.com](https://gizmodo.com)
- - date published: 2023-10-25T09:33:24.250359+00:00
- - user: None
- - tags: ['news']
-
-## Gokberk Yaltirakli
- - [https://www.gkbrk.com](https://www.gkbrk.com)
- - date published: 2023-10-25T14:45:23.901785+00:00
- - user: None
- - tags: []
-
-## Women's Issues, Politics, Fashion, Beauty, Entertainment News | Glamour
- - [https://www.glamour.com](https://www.glamour.com)
- - date published: 2023-10-25T14:45:26.156885+00:00
- - user: None
- - tags: []
-
-## The Glasgow Gallivanter – Adventures at home and abroad
- - [https://glasgowgallivanter.com](https://glasgowgallivanter.com)
- - date published: 2023-12-10T17:30:01.706680+00:00
- - user: None
- - tags: ['personal']
-
-## https://www.glassattic.com
- - [https://www.glassattic.com](https://www.glassattic.com)
- - date published: 2023-11-01T18:27:48.715499+00:00
- - user: None
- - tags: ['sculpting', 'polymer clay']
 

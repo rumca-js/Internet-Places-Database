@@ -1,3 +1,51 @@
+## Gitta Wolf
+ - [https://gittawolf.com](https://gittawolf.com)
+ - date published: 2023-11-29T14:42:14.713737+00:00
+ - user: None
+ - tags: ['personal']
+
+## GiveLiveExplore – The Blog of Matthew Trinetti
+ - [https://www.giveliveexplore.com](https://www.giveliveexplore.com)
+ - date published: 2023-11-29T14:18:10.684298+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://www.givemesport.com](https://www.givemesport.com)
+ - date published: 2024-01-09T02:37:32.883898+00:00
+ - user: None
+ - tags: []
+
+## Gizmodo | The Future Is Here
+ - [https://gizmodo.com](https://gizmodo.com)
+ - date published: 2023-10-25T09:33:24.250359+00:00
+ - user: None
+ - tags: ['news']
+
+## Gokberk Yaltirakli
+ - [https://www.gkbrk.com](https://www.gkbrk.com)
+ - date published: 2023-10-25T14:45:23.901785+00:00
+ - user: None
+ - tags: []
+
+## Women's Issues, Politics, Fashion, Beauty, Entertainment News | Glamour
+ - [https://www.glamour.com](https://www.glamour.com)
+ - date published: 2023-10-25T14:45:26.156885+00:00
+ - user: None
+ - tags: []
+
+## The Glasgow Gallivanter – Adventures at home and abroad
+ - [https://glasgowgallivanter.com](https://glasgowgallivanter.com)
+ - date published: 2023-12-10T17:30:01.706680+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://www.glassattic.com
+ - [https://www.glassattic.com](https://www.glassattic.com)
+ - date published: 2023-11-01T18:27:48.715499+00:00
+ - user: None
+ - tags: ['sculpting', 'polymer clay']
+
 ## Gliglish · Your AI Language Teacher | Practice speaking & listening
  - [https://gliglish.com](https://gliglish.com)
  - date published: 2023-10-25T14:45:28.936207+00:00
@@ -296,7 +344,7 @@
  - [https://bard.google.com](https://bard.google.com)
  - date published: 2023-10-25T14:47:31.201724+00:00
  - user: None
- - tags: []
+ - tags: ['artificial intelligence']
 
 ## Google Bug Hunters
  - [https://bughunters.google.com](https://bughunters.google.com)
@@ -1831,6 +1879,12 @@
  - user: None
  - tags: []
 
+## Sarah Ahn – St. Louis based designer with a focus on UX design and studio arts
+ - [https://haramahn.com](https://haramahn.com)
+ - date published: 2024-01-31T21:02:26.008394+00:00
+ - user: None
+ - tags: []
+
 ## Hardik Sachan
  - [https://hardiksachan.com](https://hardiksachan.com)
  - date published: 2023-10-25T08:45:56.728022+00:00
@@ -3340,6 +3394,12 @@
 ## None
  - [https://i2forge.com](https://i2forge.com)
  - date published: 2024-01-09T02:38:56.702396+00:00
+ - user: None
+ - tags: []
+
+## IAIN RYAN
+ - [https://www.iainryan.com](https://www.iainryan.com)
+ - date published: 2024-01-31T21:02:07.769289+00:00
  - user: None
  - tags: []
 
@@ -5940,64 +6000,4 @@
  - date published: 2024-01-10T18:10:55.728176+00:00
  - user: None
  - tags: []
-
-## The Jewish Press - JewishPress.com
- - [https://www.jewishpress.com](https://www.jewishpress.com)
- - date published: 2023-12-07T15:14:09.328558+00:00
- - user: None
- - tags: ['jewish news', 'israel']
-
-## Jezen Thomas | Haskell, Unix, Minimalism, and Entrepreneurship.
- - [https://jezenthomas.com](https://jezenthomas.com)
- - date published: 2023-10-25T15:28:46.503280+00:00
- - user: None
- - tags: []
-
-## Thriller author J.F.Penn
- - [https://jfpenn.com](https://jfpenn.com)
- - date published: 2024-01-08T07:27:33.171213+00:00
- - user: None
- - tags: []
-
-## Software Supply Chain Platform for DevOps & Security | JFrog
- - [https://jfrog.com](https://jfrog.com)
- - date published: 2023-10-25T15:29:02.160628+00:00
- - user: None
- - tags: []
-
-## jgallant's Indie Game Developer Homepage
- - [https://www.jgallant.com](https://www.jgallant.com)
- - date published: 2023-10-25T15:29:05.166800+00:00
- - user: None
- - tags: []
-
-## https://riscv.jghuff.com
- - [https://riscv.jghuff.com](https://riscv.jghuff.com)
- - date published: 2024-01-09T02:40:36.995426+00:00
- - user: None
- - tags: []
-
-## Ji'hyn's Webbed Site – Thinkin' 'bout stuff
- - [https://jihyn.com](https://jihyn.com)
- - date published: 2023-11-09T19:01:08.263803+00:00
- - user: None
- - tags: []
-
-## Jim Nielsen’s Blog
- - [https://blog.jim-nielsen.com](https://blog.jim-nielsen.com)
- - date published: 2023-10-25T15:29:09.082962+00:00
- - user: None
- - tags: []
-
-## Jim Clair – Blog
- - [https://jimclair.com](https://jimclair.com)
- - date published: 2023-10-25T15:29:13.208321+00:00
- - user: None
- - tags: []
-
-## Jimmy Keane
- - [https://jimmykeane.com](https://jimmykeane.com)
- - date published: 2023-11-29T17:12:38.002816+00:00
- - user: None
- - tags: ['personal']
 

@@ -1,3 +1,99 @@
+## Bézier Curves - and the logic behind them | Richard Ekwonye
+ - [https://blog.richardekwonye.com](https://blog.richardekwonye.com)
+ - date published: 2023-10-25T16:51:18.543659+00:00
+ - user: None
+ - tags: []
+
+## HelpFully IT - IT Support Consultancy
+ - [https://richardhickson.com](https://richardhickson.com)
+ - date published: 2024-01-11T07:52:49.571068+00:00
+ - user: None
+ - tags: []
+
+## Richard Lucas
+ - [https://www.richardlucas.com](https://www.richardlucas.com)
+ - date published: 2024-01-02T10:19:40.499602+00:00
+ - user: None
+ - tags: []
+
+## https://richardthames.com
+ - [https://richardthames.com](https://richardthames.com)
+ - date published: 2023-12-02T10:25:48.205930+00:00
+ - user: None
+ - tags: ['personal']
+
+## richbowdler.com - Ta strona jest na sprzedaż! - richbowdler Zasoby i informacje.
+ - [https://richbowdler.com](https://richbowdler.com)
+ - date published: 2023-12-30T22:21:45.238245+00:00
+ - user: None
+ - tags: ['personal']
+
+## Stumbling Over Diamonds – The Music of Rich DeVore
+ - [https://www.richdevore.com](https://www.richdevore.com)
+ - date published: 2024-01-24T17:15:30.142004+00:00
+ - user: None
+ - tags: []
+
+## Rich Gee High-Performance Coaching
+ - [https://richgee.com](https://richgee.com)
+ - date published: 2023-12-02T10:25:43.025735+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rich Keeble – Actor, voiceover artist, comedian, musician, man
+ - [https://www.richkeeble.com](https://www.richkeeble.com)
+ - date published: 2024-01-21T13:31:19.816138+00:00
+ - user: None
+ - tags: []
+
+## Rich PalmerVoice actor, narrator, storyteller, audio producer.
+ - [https://richpalmer.com](https://richpalmer.com)
+ - date published: 2024-01-09T02:47:56.721503+00:00
+ - user: None
+ - tags: []
+
+## Rich Tabor - Multidisciplinary maker specializing in the intersection of product, design and engineering. Making WordPress.
+ - [https://richtabor.com](https://richtabor.com)
+ - date published: 2023-12-19T09:59:46.789011+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rick Carabba - Home of BrainBank
+ - [https://www.rickcarabba.com](https://www.rickcarabba.com)
+ - date published: 2024-01-15T13:59:06.069303+00:00
+ - user: None
+ - tags: []
+
+## The Blog of Rick Carlino
+ - [https://rickcarlino.com](https://rickcarlino.com)
+ - date published: 2024-01-15T22:21:01.483442+00:00
+ - user: None
+ - tags: []
+
+## rick@console:/
+ - [https://staging.rickconsole.com](https://staging.rickconsole.com)
+ - date published: 2023-10-25T16:51:19.430482+00:00
+ - user: None
+ - tags: []
+
+## Rick Umali's Home Page
+ - [https://rickumali.com](https://rickumali.com)
+ - date published: 2023-12-03T15:55:26.247597+00:00
+ - user: None
+ - tags: []
+
+## Ricos y Libres
+ - [https://www.ricosylibres.com](https://www.ricosylibres.com)
+ - date published: 2024-01-09T08:54:05.454224+00:00
+ - user: None
+ - tags: []
+
+## Ride Report: The platform to manage mobility
+ - [https://www.ridereport.com](https://www.ridereport.com)
+ - date published: 2023-10-25T16:51:25.938785+00:00
+ - user: None
+ - tags: []
+
 ## Rifat Najmi | Visual Artist and Designer based in Jakarta
  - [https://rifatnajmi.com](https://rifatnajmi.com)
  - date published: 2024-01-13T22:53:38.949880+00:00
@@ -3226,6 +3322,12 @@
  - user: None
  - tags: ['substack']
 
+## Simon Cox Technical SEO and Bread baker
+ - [https://www.simoncox.com](https://www.simoncox.com)
+ - date published: 2024-01-31T05:28:58.199620+00:00
+ - user: None
+ - tags: []
+
 ## Simon Dalvai
  - [https://simondalvai.com](https://simondalvai.com)
  - date published: 2023-10-25T17:04:34.162658+00:00
@@ -5900,108 +6002,6 @@
 ## Subreply / Trending
  - [https://subreply.com](https://subreply.com)
  - date published: 2023-10-25T17:18:52.817248+00:00
- - user: None
- - tags: []
-
-## SubscribeStar.com - The best way to start your own subscription business
- - [https://www.subscribestar.com](https://www.subscribestar.com)
- - date published: 2023-12-21T19:04:41+00:00
- - user: rumpel
- - tags: ['content creators', 'monetization']
-
-## https://12challenges.substack.com
- - [https://12challenges.substack.com](https://12challenges.substack.com)
- - date published: 2024-01-30T17:02:46.662176+00:00
- - user: None
- - tags: []
-
-## 1517 Fund | Zak Slayback | Substack
- - [https://1517.substack.com](https://1517.substack.com)
- - date published: 2023-10-25T09:40:46.254905+00:00
- - user: None
- - tags: ['substack']
-
-## Aaron Greenspan | Substack
- - [https://aarongreenspan.substack.com](https://aarongreenspan.substack.com)
- - date published: 2023-11-23T02:03:50.588445+00:00
- - user: None
- - tags: []
-
-## Injecting Freedom | Aaron Siri | Substack
- - [https://aaronsiri.substack.com](https://aaronsiri.substack.com)
- - date published: 2023-10-25T09:40:48.445493+00:00
- - user: None
- - tags: ['substack']
-
-## About to Learn | Substack
- - [https://abouttolearn.substack.com](https://abouttolearn.substack.com)
- - date published: 2023-10-25T09:40:50.749209+00:00
- - user: None
- - tags: ['substack']
-
-## brainwork | abu | Substack
- - [https://abuqader.substack.com](https://abuqader.substack.com)
- - date published: 2023-10-25T09:40:52.663238+00:00
- - user: None
- - tags: ['substack']
-
-## Oleksii Sidorov | Substack
- - [https://acecreamu.substack.com](https://acecreamu.substack.com)
- - date published: 2023-10-25T09:40:55.727244+00:00
- - user: None
- - tags: ['substack']
-
-## Hot Takes | Adam Singer | Substack
- - [https://adamsinger.substack.com](https://adamsinger.substack.com)
- - date published: 2023-10-25T09:40:59.148654+00:00
- - user: None
- - tags: ['substack']
-
-## Chartbook | Adam Tooze | Substack
- - [https://adamtooze.substack.com](https://adamtooze.substack.com)
- - date published: 2023-10-25T09:41:02.258121+00:00
- - user: None
- - tags: ['substack']
-
-## Adetokunbo Sees | Adetokunbo Abiola | Substack
- - [https://adetokunbo.substack.com](https://adetokunbo.substack.com)
- - date published: 2023-10-25T09:41:05.242808+00:00
- - user: None
- - tags: ['substack']
-
-## Aditya’s Newsletter  | Aditya Saxena | Substack
- - [https://aditya8080.substack.com](https://aditya8080.substack.com)
- - date published: 2023-11-02T20:09:06.928633+00:00
- - user: None
- - tags: []
-
-## Knowingless | Aella | Substack
- - [https://aella.substack.com](https://aella.substack.com)
- - date published: 2023-10-25T09:41:12.865600+00:00
- - user: None
- - tags: ['substack']
-
-## Ageling on Agile | Willem-Jan Ageling | Substack
- - [https://ageling.substack.com](https://ageling.substack.com)
- - date published: 2023-10-25T09:41:16.204113+00:00
- - user: None
- - tags: ['substack']
-
-## Andrew's Substack | Andrew Zheng | Substack
- - [https://aheze.substack.com](https://aheze.substack.com)
- - date published: 2023-10-25T09:41:18.206414+00:00
- - user: None
- - tags: ['substack']
-
-## AI: A Guide for Thinking Humans | Melanie Mitchell | Substack
- - [https://aiguide.substack.com](https://aiguide.substack.com)
- - date published: 2023-10-25T09:41:20.815131+00:00
- - user: None
- - tags: ['substack']
-
-## AIModels.fyi | Mike Young | Substack
- - [https://aimodels.substack.com](https://aimodels.substack.com)
- - date published: 2023-11-04T06:47:54.961600+00:00
  - user: None
  - tags: []
 

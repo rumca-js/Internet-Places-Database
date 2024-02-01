@@ -1,3 +1,33 @@
+## Character Home, LLC
+ - [https://characterhome.com](https://characterhome.com)
+ - date published: 2024-01-19T13:01:28.344914+00:00
+ - user: None
+ - tags: []
+
+## Chargeback Prevention for Software Companies | ChargebackStop
+ - [https://chargebackstop.com](https://chargebackstop.com)
+ - date published: 2023-10-25T13:20:24.056373+00:00
+ - user: None
+ - tags: []
+
+## CHARL-E: Make art with AI on your Mac
+ - [https://www.charl-e.com](https://www.charl-e.com)
+ - date published: 2023-10-25T13:20:24.713725+00:00
+ - user: None
+ - tags: []
+
+## Sales Advisor & Speaker | Charlene Ignites
+ - [https://www.charleneignites.com](https://www.charleneignites.com)
+ - date published: 2023-11-29T17:15:02.416177+00:00
+ - user: None
+ - tags: ['personal']
+
+## Welcome to Charles Atlas LTD.
+ - [https://www.charlesatlas.com](https://www.charlesatlas.com)
+ - date published: 2023-10-25T13:20:30.485142+00:00
+ - user: None
+ - tags: []
+
 ## Charles Kunken
  - [https://www.charleskunken.com](https://www.charleskunken.com)
  - date published: 2024-01-05T01:04:32.750147+00:00
@@ -799,6 +829,12 @@
 ## CJ Chilvers
  - [https://www.cjchilvers.com](https://www.cjchilvers.com)
  - date published: 2023-10-25T13:25:16.340035+00:00
+ - user: None
+ - tags: []
+
+## CJS Live Music & Events - Simplify The Process. Music For Events Made Easy.
+ - [https://cjslivemusic.com](https://cjslivemusic.com)
+ - date published: 2024-01-31T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4460,7 +4496,7 @@
  - [https://www.deere.com](https://www.deere.com)
  - date published: 2024-01-30T17:02:42.432506+00:00
  - user: None
- - tags: []
+ - tags: ['agricultural machinery']
 
 ## Deeter Cesler is your favorite person | strategist, software engineer, marketer
  - [https://deetercesler.com](https://deetercesler.com)
@@ -5966,42 +6002,6 @@
 ## Free flowchart, mind map, and checklist software—DrakonHub
  - [https://drakonhub.com](https://drakonhub.com)
  - date published: 2023-10-25T13:58:22.226558+00:00
- - user: None
- - tags: []
-
-## Welcome to dranger.com
- - [https://dranger.com](https://dranger.com)
- - date published: 2024-01-09T02:35:22.654698+00:00
- - user: None
- - tags: []
-
-## Dr. Cat Hicks | Resilient Productivity
- - [https://www.drcathicks.com](https://www.drcathicks.com)
- - date published: 2023-10-25T13:58:26.111396+00:00
- - user: None
- - tags: []
-
-## Dr. Cox Consulting |
- - [https://www.drcoxconsulting.com](https://www.drcoxconsulting.com)
- - date published: 6667-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Systems & Strategy To Make More Money. Period.
- - [https://dreallday.com](https://dreallday.com)
- - date published: 2024-01-08T07:27:18.679327+00:00
- - user: None
- - tags: []
-
-## Dreame FM, a world of audible books & fictions
- - [https://dreamefm.com](https://dreamefm.com)
- - date published: 2024-01-24T18:03:01.831693+00:00
- - user: None
- - tags: []
-
-## "Baseball Games: antique parlor games to modern tabletop sims"
- - [https://baseballgames.dreamhosters.com](https://baseballgames.dreamhosters.com)
- - date published: 2023-10-25T13:58:28.028198+00:00
  - user: None
  - tags: []
 
