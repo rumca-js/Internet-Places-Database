@@ -1,3 +1,87 @@
+## Jessitron – symmathecist, in the medium of code
+ - [https://jessitron.com](https://jessitron.com)
+ - date published: 2023-10-25T15:28:28.652075+00:00
+ - user: None
+ - tags: []
+
+## C. Jess Riedel
+ - [https://jessriedel.com](https://jessriedel.com)
+ - date published: 2013-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## JetBrains Account
+ - [https://account.jetbrains.com](https://account.jetbrains.com)
+ - date published: 2023-12-12T09:09:43.184363+00:00
+ - user: None
+ - tags: []
+
+## JetBrains Blog: The Drive to Develop
+ - [https://blog.jetbrains.com](https://blog.jetbrains.com)
+ - date published: 2023-10-25T08:37:43.300846+00:00
+ - user: None
+ - tags: []
+
+## Administration
+ - [https://hub.jetbrains.com](https://hub.jetbrains.com)
+ - date published: 2023-12-12T09:05:46+00:00
+ - user: rumpel
+ - tags: []
+
+## JetBrains: Essential tools for software developers and teams
+ - [https://lp.jetbrains.com](https://lp.jetbrains.com)
+ - date published: 2023-12-12T09:09:56.188947+00:00
+ - user: None
+ - tags: []
+
+## JetBrains Marketplace
+ - [https://plugins.jetbrains.com](https://plugins.jetbrains.com)
+ - date published: 2023-12-12T09:09:59.760112+00:00
+ - user: None
+ - tags: []
+
+## https://resources.jetbrains.com
+ - [https://resources.jetbrains.com](https://resources.jetbrains.com)
+ - date published: 2023-12-12T09:10:06.381602+00:00
+ - user: None
+ - tags: []
+
+## https://sales.jetbrains.com
+ - [https://sales.jetbrains.com](https://sales.jetbrains.com)
+ - date published: 2023-12-12T09:09:48.760487+00:00
+ - user: None
+ - tags: []
+
+## JetBrains: Essential tools for software developers and teams
+ - [https://www.jetbrains.com](https://www.jetbrains.com)
+ - date published: 2023-10-25T11:28:02.006390+00:00
+ - user: None
+ - tags: ['ide', 'pycharm', 'intellij', 'clion', 'webstorm']
+
+## https://youtrack.jetbrains.com
+ - [https://youtrack.jetbrains.com](https://youtrack.jetbrains.com)
+ - date published: 2023-12-12T09:04:30+00:00
+ - user: rumpel
+ - tags: []
+
+## JETNET | World Leader in Aviation Market Intelligence
+ - [https://www.jetnet.com](https://www.jetnet.com)
+ - date published: 2023-10-25T15:28:36.142271+00:00
+ - user: None
+ - tags: []
+
+## JetPens - The Best Pens & Stationery From Japan & Beyond
+ - [https://www.jetpens.com](https://www.jetpens.com)
+ - date published: 2023-10-25T15:28:45.728960+00:00
+ - user: None
+ - tags: []
+
+## Jett Hays
+ - [https://jetthays.com](https://jetthays.com)
+ - date published: 2024-01-10T18:10:55.728176+00:00
+ - user: None
+ - tags: []
+
 ## The Jewish Press - JewishPress.com
  - [https://www.jewishpress.com](https://www.jewishpress.com)
  - date published: 2023-12-07T15:14:09.328558+00:00
@@ -705,6 +789,12 @@
  - date published: 2023-11-29T16:20:19.966910+00:00
  - user: None
  - tags: ['personal']
+
+## Josh Levent
+ - [https://www.joshlevent.com](https://www.joshlevent.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Josh Lu
  - [https://www.joshlu.com](https://www.joshlu.com)
@@ -2729,6 +2819,12 @@
  - user: None
  - tags: ['music band']
 
+## kylie dunn and dinkylune
+ - [https://www.kyliedunn.com](https://www.kyliedunn.com)
+ - date published: 2024-02-01T13:42:31.713663+00:00
+ - user: None
+ - tags: []
+
 ## L'achimiste.com, Le monde évolue. Dans quel sens ?
  - [https://www.l-alchimiste.com](https://www.l-alchimiste.com)
  - date published: 2024-01-09T21:36:07.605097+00:00
@@ -3176,6 +3272,12 @@
 ## JavaFiddle - Build and share Java code snippets in your browser
  - [https://javafiddle.leaningtech.com](https://javafiddle.leaningtech.com)
  - date published: 2023-10-25T15:43:39.439255+00:00
+ - user: None
+ - tags: []
+
+## Leaning Technologies Developer
+ - [https://labs.leaningtech.com](https://labs.leaningtech.com)
+ - date published: 2024-02-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5898,106 +6000,4 @@ diversions.
  - date published: 2023-10-25T15:57:43.490807+00:00
  - user: None
  - tags: []
-
-## The Operational Data Warehouse | Materialize
- - [https://materialize.com](https://materialize.com)
- - date published: 2023-10-25T15:57:46.385730+00:00
- - user: None
- - tags: []
-
-## Math3ma
- - [https://www.math3ma.com](https://www.math3ma.com)
- - date published: 2023-10-25T15:57:52.314185+00:00
- - user: None
- - tags: []
-
-## The Mathematica Journal: Mathematica Techniques and Applications
- - [https://www.mathematica-journal.com](https://www.mathematica-journal.com)
- - date published: 2023-10-25T15:57:54.312866+00:00
- - user: None
- - tags: []
-
-## matheusmoreira.com
- - [https://www.matheusmoreira.com](https://www.matheusmoreira.com)
- - date published: 2023-10-25T08:47:12.843961+00:00
- - user: None
- - tags: ['personal']
-
-## mathiasluz.com - Ta strona jest na sprzedaż! - mathiasluz Zasoby i informacje.
- - [https://www.mathiasluz.com](https://www.mathiasluz.com)
- - date published: 2023-12-14T06:55:02.242092+00:00
- - user: None
- - tags: ['personal']
-
-## Mathieu Acher – Professor in Computer Science
- - [https://blog.mathieuacher.com](https://blog.mathieuacher.com)
- - date published: 2024-01-21T18:21:51.804323+00:00
- - user: None
- - tags: []
-
-## MathPages
- - [https://mathpages.com](https://mathpages.com)
- - date published: 2023-10-25T15:57:59.237131+00:00
- - user: None
- - tags: []
-
-## Bits and pieces
- - [https://matradomski.com](https://matradomski.com)
- - date published: 2024-01-09T02:43:11.740166+00:00
- - user: None
- - tags: []
-
-## matrixfansite.com
- - [https://www.matrixfansite.com](https://www.matrixfansite.com)
- - date published: 2024-01-09T02:43:14.613934+00:00
- - user: None
- - tags: []
-
-## https://matt-rickard.com
- - [https://matt-rickard.com](https://matt-rickard.com)
- - date published: 2023-10-25T09:21:02.564765+00:00
- - user: None
- - tags: ['personal']
-
-## Matt Boegner
- - [https://mattboegner.com](https://mattboegner.com)
- - date published: 2023-10-25T15:58:10.497437+00:00
- - user: None
- - tags: []
-
-## Matt Bruenig Dot Com
- - [https://mattbruenig.com](https://mattbruenig.com)
- - date published: 2023-10-25T15:58:12.356643+00:00
- - user: None
- - tags: []
-
-## Matt Button
- - [https://www.mattbutton.com](https://www.mattbutton.com)
- - date published: 2024-01-15T06:16:56.374412+00:00
- - user: None
- - tags: []
-
-## Matt Downing - Web Developer & Strategist
- - [https://mattcdowning.com](https://mattcdowning.com)
- - date published: 2024-01-19T17:20:50.843662+00:00
- - user: None
- - tags: []
-
-## Matt Finucane - Senior Software engineer
- - [https://mattfinucane.com](https://mattfinucane.com)
- - date published: 2024-01-22T16:00:37.790544+00:00
- - user: None
- - tags: []
-
-## mattgadient.com | Tech stuff, some fixes/solutions, and occasionally a passionate rant.
- - [https://mattgadient.com](https://mattgadient.com)
- - date published: 2023-12-31T17:16:54.550816+00:00
- - user: None
- - tags: []
-
-## blog.matthen.com
- - [https://blog.matthen.com](https://blog.matthen.com)
- - date published: 2023-12-05T09:12:58.682891+00:00
- - user: None
- - tags: ['personal']
 

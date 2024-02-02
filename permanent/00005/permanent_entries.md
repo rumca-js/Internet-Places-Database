@@ -1,3 +1,75 @@
+## GitHub Blocks
+ - [https://blocks.githubnext.com](https://blocks.githubnext.com)
+ - date published: 2023-10-25T14:45:06.114880+00:00
+ - user: None
+ - tags: []
+
+## GitHub Next
+ - [https://githubnext.com](https://githubnext.com)
+ - date published: 2023-10-25T14:45:09.306656+00:00
+ - user: None
+ - tags: []
+
+## Monaspace
+ - [https://monaspace.githubnext.com](https://monaspace.githubnext.com)
+ - date published: 2023-11-09T20:16:34+00:00
+ - user: None
+ - tags: []
+
+## GitHub Status
+ - [https://www.githubstatus.com](https://www.githubstatus.com)
+ - date published: 2023-10-25T14:45:11.841528+00:00
+ - user: None
+ - tags: []
+
+## GitHub Universe - November 8-9, 2023
+ - [https://githubuniverse.com](https://githubuniverse.com)
+ - date published: 2023-10-25T14:45:13.916652+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://objects.githubusercontent.com](https://objects.githubusercontent.com)
+ - date published: 2024-01-09T02:37:27.707839+00:00
+ - user: None
+ - tags: []
+
+## The DevSecOps Platform | GitLab
+ - [https://about.gitlab.com](https://about.gitlab.com)
+ - date published: 2023-10-25T14:45:15.830655+00:00
+ - user: None
+ - tags: []
+
+## GitLab Documentation
+ - [https://docs.gitlab.com](https://docs.gitlab.com)
+ - date published: 2023-10-25T14:45:17.171619+00:00
+ - user: None
+ - tags: []
+
+## The DevSecOps Platform | GitLab
+ - [https://gitlab.com](https://gitlab.com)
+ - date published: 2023-10-25T14:45:19.469977+00:00
+ - user: None
+ - tags: ['code repository']
+
+## GitLab System Status
+ - [https://status.gitlab.com](https://status.gitlab.com)
+ - date published: 2023-10-25T14:45:21.280848+00:00
+ - user: None
+ - tags: []
+
+## Gitless
+ - [https://gitless.com](https://gitless.com)
+ - date published: 2023-10-25T14:45:22.153895+00:00
+ - user: None
+ - tags: []
+
+## Gitroom
+ - [https://gitroom.com](https://gitroom.com)
+ - date published: 2023-12-26T17:17:31.263884+00:00
+ - user: None
+ - tags: []
+
 ## Gitta Wolf
  - [https://gittawolf.com](https://gittawolf.com)
  - date published: 2023-11-29T14:42:14.713737+00:00
@@ -400,10 +472,10 @@
  - user: None
  - tags: []
 
-## Sign in - Google Accounts
+## Google Docs
  - [https://docs.google.com](https://docs.google.com)
- - date published: 2023-10-25T11:31:05.811351+00:00
- - user: None
+ - date published: 2023-10-25T11:31:05+00:00
+ - user: rumpel
  - tags: []
 
 ## Personal Cloud Storage & File Sharing Platform - Google
@@ -3401,7 +3473,7 @@
  - [https://www.iainryan.com](https://www.iainryan.com)
  - date published: 2024-01-31T21:02:07.769289+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## iajrz's low stakes – words blaring out of a screen
  - [https://www.iajrz.com](https://www.iajrz.com)
@@ -3418,6 +3490,12 @@
 ## IamBozdar.com | Abdul-Jabbar Bozdar's Website About STEM
  - [https://iambozdar.com](https://iambozdar.com)
  - date published: 2024-01-16T23:53:57.054198+00:00
+ - user: None
+ - tags: []
+
+## iamcal.com
+ - [https://www.iamcal.com](https://www.iamcal.com)
+ - date published: 2024-02-01T18:46:46.785729+00:00
  - user: None
  - tags: []
 
@@ -4594,6 +4672,12 @@
 ## IraqiNews | Latest News Coverage From Iraq and Worldwide
  - [https://www.iraqinews.com](https://www.iraqinews.com)
  - date published: 2023-10-25T10:42:55.180340+00:00
+ - user: None
+ - tags: []
+
+## Irene de Mas
+ - [https://irenedemas.com](https://irenedemas.com)
+ - date published: 2024-02-01T06:35:13.191910+00:00
  - user: None
  - tags: []
 
@@ -5916,88 +6000,4 @@
  - date published: 2023-11-29T14:25:37.115227+00:00
  - user: None
  - tags: ['personal']
-
-## Jessitron – symmathecist, in the medium of code
- - [https://jessitron.com](https://jessitron.com)
- - date published: 2023-10-25T15:28:28.652075+00:00
- - user: None
- - tags: []
-
-## C. Jess Riedel
- - [https://jessriedel.com](https://jessriedel.com)
- - date published: 2013-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## JetBrains Account
- - [https://account.jetbrains.com](https://account.jetbrains.com)
- - date published: 2023-12-12T09:09:43.184363+00:00
- - user: None
- - tags: []
-
-## JetBrains Blog: The Drive to Develop
- - [https://blog.jetbrains.com](https://blog.jetbrains.com)
- - date published: 2023-10-25T08:37:43.300846+00:00
- - user: None
- - tags: []
-
-## Administration
- - [https://hub.jetbrains.com](https://hub.jetbrains.com)
- - date published: 2023-12-12T09:05:46+00:00
- - user: rumpel
- - tags: []
-
-## JetBrains: Essential tools for software developers and teams
- - [https://lp.jetbrains.com](https://lp.jetbrains.com)
- - date published: 2023-12-12T09:09:56.188947+00:00
- - user: None
- - tags: []
-
-## JetBrains Marketplace
- - [https://plugins.jetbrains.com](https://plugins.jetbrains.com)
- - date published: 2023-12-12T09:09:59.760112+00:00
- - user: None
- - tags: []
-
-## https://resources.jetbrains.com
- - [https://resources.jetbrains.com](https://resources.jetbrains.com)
- - date published: 2023-12-12T09:10:06.381602+00:00
- - user: None
- - tags: []
-
-## https://sales.jetbrains.com
- - [https://sales.jetbrains.com](https://sales.jetbrains.com)
- - date published: 2023-12-12T09:09:48.760487+00:00
- - user: None
- - tags: []
-
-## JetBrains: Essential tools for software developers and teams
- - [https://www.jetbrains.com](https://www.jetbrains.com)
- - date published: 2023-10-25T11:28:02.006390+00:00
- - user: None
- - tags: ['ide', 'pycharm', 'intellij', 'clion', 'webstorm']
-
-## https://youtrack.jetbrains.com
- - [https://youtrack.jetbrains.com](https://youtrack.jetbrains.com)
- - date published: 2023-12-12T09:04:30+00:00
- - user: rumpel
- - tags: []
-
-## JETNET | World Leader in Aviation Market Intelligence
- - [https://www.jetnet.com](https://www.jetnet.com)
- - date published: 2023-10-25T15:28:36.142271+00:00
- - user: None
- - tags: []
-
-## JetPens - The Best Pens & Stationery From Japan & Beyond
- - [https://www.jetpens.com](https://www.jetpens.com)
- - date published: 2023-10-25T15:28:45.728960+00:00
- - user: None
- - tags: []
-
-## Jett Hays
- - [https://jetthays.com](https://jetthays.com)
- - date published: 2024-01-10T18:10:55.728176+00:00
- - user: None
- - tags: []
 

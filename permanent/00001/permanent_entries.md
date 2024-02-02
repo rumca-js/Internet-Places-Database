@@ -3912,6 +3912,12 @@
  - user: None
  - tags: ['personal']
 
+## Alejandro Lujan
+ - [https://www.alejandrolujan.com](https://www.alejandrolujan.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Aleksandr Hovhannisyan
  - [https://www.aleksandrhovhannisyan.com](https://www.aleksandrhovhannisyan.com)
  - date published: 2023-10-25T12:37:33.866549+00:00
@@ -5991,12 +5997,6 @@
 ## ARLnow.com | Arlington, Va. local news
  - [https://www.arlnow.com](https://www.arlnow.com)
  - date published: 2023-12-05T02:33:32.576085+00:00
- - user: None
- - tags: []
-
-## Arm Community
- - [https://community.arm.com](https://community.arm.com)
- - date published: 2023-10-25T12:45:30.852233+00:00
  - user: None
  - tags: []
 
