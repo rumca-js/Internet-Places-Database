@@ -1,3 +1,279 @@
+## Claudio Lassala's Blog
+ - [https://lassala.net](https://lassala.net)
+ - date published: 2024-01-15T13:59:26.725680+00:00
+ - user: None
+ - tags: []
+
+## Lasso - Home
+ - [https://lasso.net](https://lasso.net)
+ - date published: 2023-11-26T16:47:11+00:00
+ - user: rumpel
+ - tags: ['bookmark manager']
+
+## LASTLIGHTS.NET - Waterfront Cityscape Photography at Blue Hour by Joey J 📸
+ - [https://lastlights.net](https://lastlights.net)
+ - date published: 2024-01-11T07:52:20.030411+00:00
+ - user: None
+ - tags: []
+
+## Las Vegas Open
+ - [https://www.lasvegasopen.net](https://www.lasvegasopen.net)
+ - date published: 2024-01-26T15:25:15+00:00
+ - user: rumpel
+ - tags: ['wargames', 'tabletop game event', 'tabletop games']
+
+## Launchpad Bugs
+ - [https://bugs.launchpad.net](https://bugs.launchpad.net)
+ - date published: 2023-10-25T20:32:47.781928+00:00
+ - user: None
+ - tags: []
+
+## 403 - Forbidden: Access is denied.
+ - [https://webpush.lbccdn.net](https://webpush.lbccdn.net)
+ - date published: 2024-01-09T03:35:47.391159+00:00
+ - user: None
+ - tags: []
+
+## Legacy Update: Get back online, activate, and install updates on your legacy Windows PC
+ - [https://legacyupdate.net](https://legacyupdate.net)
+ - date published: 2023-10-25T20:32:48.666498+00:00
+ - user: None
+ - tags: []
+
+## Nikita's Homepage
+ - [https://www.leshenko.net](https://www.leshenko.net)
+ - date published: 2023-10-25T08:53:01.995172+00:00
+ - user: None
+ - tags: ['personal']
+
+## LibertyCity // GTA 6 news, cheats for GTA 5 and GTA San Andreas, download mods, cars
+ - [https://libertycity.net](https://libertycity.net)
+ - date published: 2023-10-25T11:17:55.769566+00:00
+ - user: None
+ - tags: ['grand theft auto']
+
+## LibreWolf
+ - [https://librewolf.net](https://librewolf.net)
+ - date published: 2023-10-25T20:32:49.628211+00:00
+ - user: None
+ - tags: ['firefox', 'privacy', 'open source']
+
+## Creative Commons license buttons
+ - [https://licensebuttons.net](https://licensebuttons.net)
+ - date published: 2023-12-11T16:10:34.794982+00:00
+ - user: None
+ - tags: []
+
+## adq
+ - [https://blog.lidskialf.net](https://blog.lidskialf.net)
+ - date published: 2024-01-09T03:35:49.205902+00:00
+ - user: None
+ - tags: []
+
+## limpet.net
+ - [https://limpet.net](https://limpet.net)
+ - date published: 2023-10-25T20:32:53.415063+00:00
+ - user: None
+ - tags: []
+
+## Home - Linda Graham
+ - [https://lindagraham-mft.net](https://lindagraham-mft.net)
+ - date published: 2024-01-02T12:39:12.932682+00:00
+ - user: None
+ - tags: []
+
+## Linda Stone
+ - [https://lindastone.net](https://lindastone.net)
+ - date published: 2023-10-25T08:53:03.480692+00:00
+ - user: None
+ - tags: ['personal']
+
+## linusakesson.net
+ - [https://linusakesson.net](https://linusakesson.net)
+ - date published: 2023-10-25T20:32:54.866699+00:00
+ - user: None
+ - tags: []
+
+## linusakesson.net
+ - [https://www.linusakesson.net](https://www.linusakesson.net)
+ - date published: 2023-10-25T20:33:01.198358+00:00
+ - user: None
+ - tags: []
+
+## Eli Lipsitz
+ - [https://eli.lipsitz.net](https://eli.lipsitz.net)
+ - date published: 2023-10-25T09:23:12.493617+00:00
+ - user: None
+ - tags: ['personal']
+
+## Liquipedia
+ - [https://liquipedia.net](https://liquipedia.net)
+ - date published: 2023-10-25T11:48:20.723694+00:00
+ - user: None
+ - tags: []
+
+## KeepCoding | KeepCoding
+ - [https://en.liujiacai.net](https://en.liujiacai.net)
+ - date published: 2023-10-25T20:33:01.656840+00:00
+ - user: None
+ - tags: []
+
+## Live Limitless
+ - [https://www.livelimitless.net](https://www.livelimitless.net)
+ - date published: 2024-01-12T08:14:08.892321+00:00
+ - user: None
+ - tags: []
+
+## Software Engineer and Maker - Lloyd Atkinson
+ - [https://www.lloydatkinson.net](https://www.lloydatkinson.net)
+ - date published: 2023-10-25T20:33:02.816512+00:00
+ - user: None
+ - tags: []
+
+## - Logic Matters
+ - [https://www.logicmatters.net](https://www.logicmatters.net)
+ - date published: 2023-10-25T20:33:04.168407+00:00
+ - user: None
+ - tags: []
+
+## Longtermtrends | Find the most interesting financial charts!
+ - [https://www.longtermtrends.net](https://www.longtermtrends.net)
+ - date published: 2023-10-25T20:33:06.001904+00:00
+ - user: None
+ - tags: []
+
+## Cypherpunk Cogitations
+ - [https://blog.lopp.net](https://blog.lopp.net)
+ - date published: 2023-11-01T08:43:54.638506+00:00
+ - user: None
+ - tags: []
+
+## Lounge Ruminator
+ - [https://loungeruminator.net](https://loungeruminator.net)
+ - date published: 2023-12-26T06:32:03.438248+00:00
+ - user: None
+ - tags: ['personal']
+
+## Julien Guertault (Zavie)
+ - [https://lousodrome.net](https://lousodrome.net)
+ - date published: 2023-11-01T08:43:55.529677+00:00
+ - user: None
+ - tags: []
+
+## Lowering the Bar
+ - [https://www.loweringthebar.net](https://www.loweringthebar.net)
+ - date published: 2024-01-23T19:10:53.266729+00:00
+ - user: None
+ - tags: []
+
+## Lowyat.NET | Technology News Malaysia
+ - [https://www.lowyat.net](https://www.lowyat.net)
+ - date published: 2023-10-25T20:33:11.272378+00:00
+ - user: None
+ - tags: []
+
+## LUCIDBOX
+ - [https://lucidbox.net](https://lucidbox.net)
+ - date published: 2023-10-25T20:33:16.621214+00:00
+ - user: None
+ - tags: []
+
+## Lukas Rosenstock's Blog
+ - [https://lukasrosenstock.net](https://lukasrosenstock.net)
+ - date published: 2023-10-25T09:23:15.450577+00:00
+ - user: None
+ - tags: ['personal']
+
+## Łukasz Wójcik, Blog
+ - [https://blog.lukaszwojcik.net](https://blog.lukaszwojcik.net)
+ - date published: 2024-01-01T09:41:19.790752+00:00
+ - user: None
+ - tags: []
+
+## Łukasz Wójcik - software engineer
+ - [https://lukaszwojcik.net](https://lukaszwojcik.net)
+ - date published: 2023-12-14T01:20:17.921823+00:00
+ - user: None
+ - tags: ['personal']
+
+## Lutris - Open Gaming Platform
+ - [https://lutris.net](https://lutris.net)
+ - date published: 2023-10-25T08:35:41.232931+00:00
+ - user: None
+ - tags: []
+
+## Luxagraf: thoughts on ecology, culture, travel, photography, walking and other ephemera
+ - [https://luxagraf.net](https://luxagraf.net)
+ - date published: 2024-01-09T11:07:21.549562+00:00
+ - user: None
+ - tags: []
+
+## Welcome to LWN.net [LWN.net]
+ - [https://lwn.net](https://lwn.net)
+ - date published: 2023-10-25T20:33:18.171971+00:00
+ - user: None
+ - tags: []
+
+## Amiga Graphics Archive
+ - [https://amiga.lychesis.net](https://amiga.lychesis.net)
+ - date published: 2023-10-30T10:13:32.873579+00:00
+ - user: None
+ - tags: ['amiga', 'retro games']
+
+## Home - Lyonsden Blog
+ - [https://lyonsden.net](https://lyonsden.net)
+ - date published: 2023-10-25T11:19:07.342674+00:00
+ - user: None
+ - tags: []
+
+## Introducing Cheetah: A Lightweight Virtual Machine Manager for macOS | Cheetah
+ - [https://macspot.net](https://macspot.net)
+ - date published: 2023-10-25T20:33:19.344039+00:00
+ - user: None
+ - tags: []
+
+## Mad Camp! (coming 2024 stay tuned)
+ - [https://www.madcamp.net](https://www.madcamp.net)
+ - date published: 2023-12-20T09:12:49.749827+00:00
+ - user: None
+ - tags: []
+
+## MADEBYAL
+ - [https://www.madebyal.net](https://www.madebyal.net)
+ - date published: 2023-11-29T14:44:40.937041+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://www.mannyvallarino.net](https://www.mannyvallarino.net)
+ - date published: 2023-12-14T01:27:54.207135+00:00
+ - user: None
+ - tags: ['personal']
+
+## Man Things
+ - [https://manthings.net](https://manthings.net)
+ - date published: 2024-01-04T03:32:56.183567+00:00
+ - user: None
+ - tags: []
+
+## The Map of the Universe
+ - [https://mapoftheuniverse.net](https://mapoftheuniverse.net)
+ - date published: 2023-10-25T08:25:19.111191+00:00
+ - user: None
+ - tags: []
+
+## N=1 (marcua’s blog) | I’m the Co-Founder and CTO of B12, where we’re building a better future of creative and analytical work. Before that, I was Director of Data at Locu, a startup that was acquired by GoDaddy. I went to grad school at MIT’s CSAIL. One time in Jerusalem I ate a whole tub of hummus on my own. I don’t regret that day.
+ - [https://blog.marcua.net](https://blog.marcua.net)
+ - date published: 2023-10-25T20:33:20.374918+00:00
+ - user: None
+ - tags: []
+
+## Marijuana Moment - All your cannabis news, in one place
+ - [https://www.marijuanamoment.net](https://www.marijuanamoment.net)
+ - date published: 2023-10-25T20:33:26.925572+00:00
+ - user: None
+ - tags: []
+
 ## Mark Carrigan
  - [https://markcarrigan.net](https://markcarrigan.net)
  - date published: 2023-11-21T11:09:36.282019+00:00
@@ -350,7 +626,7 @@
  - [https://msls.net](https://msls.net)
  - date published: 2024-01-15T02:45:44.794165+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## mukoshy.net
  - [https://mukoshy.net](https://mukoshy.net)
@@ -404,7 +680,7 @@
  - [https://www.naylandblake.net](https://www.naylandblake.net)
  - date published: 2024-01-11T07:53:05.911668+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## NearlyFreeSpeech.NET Blog
  - [https://blog.nearlyfreespeech.net](https://blog.nearlyfreespeech.net)
@@ -3059,6 +3335,12 @@
  - user: None
  - tags: ['mastodon']
 
+## Hoofdpagina - Eftepedia - alles over de Efteling
+ - [https://www.eftepedia.nl](https://www.eftepedia.nl)
+ - date published: 2024-02-02T08:47:55.368283+00:00
+ - user: None
+ - tags: []
+
 ## Chris Eidhof
  - [https://chris.eidhof.nl](https://chris.eidhof.nl)
  - date published: 2023-10-25T08:54:21.499298+00:00
@@ -3900,6 +4182,12 @@ marginalia.nu
  - user: None
  - tags: []
 
+## Jeremy Baker
+ - [https://www.jeremybaker.nz](https://www.jeremybaker.nz)
+ - date published: 2024-02-02T18:14:31.907184+00:00
+ - user: None
+ - tags: []
+
 ## Welcome! - Matt Brown
  - [https://www.mattb.nz](https://www.mattb.nz)
  - date published: 2023-10-25T20:51:25.148571+00:00
@@ -4629,6 +4917,12 @@ marginalia.nu
 ## AI Alignment Forum
  - [https://www.alignmentforum.org](https://www.alignmentforum.org)
  - date published: 2023-10-25T20:55:41.600420+00:00
+ - user: None
+ - tags: []
+
+## Allen Institute for AI
+ - [https://allenai.org](https://allenai.org)
+ - date published: 2024-02-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5707,298 +6001,4 @@ marginalia.nu
  - date published: 2023-10-25T21:02:01.475660+00:00
  - user: None
  - tags: []
-
-## Bentham’s Gaze
- - [https://www.benthamsgaze.org](https://www.benthamsgaze.org)
- - date published: 2024-01-04T15:49:03.573788+00:00
- - user: None
- - tags: []
-
-## bertrand fan
- - [https://bert.org](https://bert.org)
- - date published: 2023-10-25T21:02:04.793992+00:00
- - user: None
- - tags: []
-
-## Better Markets | Transparency. Accountability. Oversight.
- - [https://bettermarkets.org](https://bettermarkets.org)
- - date published: 2023-10-25T21:02:12.687358+00:00
- - user: None
- - tags: []
-
-## Bevy Engine
- - [https://bevyengine.org](https://bevyengine.org)
- - date published: 2023-10-25T21:02:14.400715+00:00
- - user: None
- - tags: []
-
-## Bezos Earth Fund
- - [https://www.bezosearthfund.org](https://www.bezosearthfund.org)
- - date published: 2023-10-25T21:02:21.240501+00:00
- - user: None
- - tags: []
-
-## https://mark.biek.org
- - [https://mark.biek.org](https://mark.biek.org)
- - date published: 2024-01-04T01:13:10.818210+00:00
- - user: None
- - tags: []
-
-## Home - Berlin Institute of Health at Charité
- - [https://www.bihealth.org](https://www.bihealth.org)
- - date published: 2023-10-25T21:02:23.690868+00:00
- - user: None
- - tags: []
-
-## llimllib notes
- - [https://notes.billmill.org](https://notes.billmill.org)
- - date published: 2023-11-28T04:40:54.869762+00:00
- - user: None
- - tags: []
-
-## bioRxiv.org - the preprint server for Biology
- - [https://www.biorxiv.org](https://www.biorxiv.org)
- - date published: 2023-10-25T21:02:25.856718+00:00
- - user: None
- - tags: []
-
-## Biscuit
- - [https://www.biscuitsec.org](https://www.biscuitsec.org)
- - date published: 2023-10-25T21:02:27.841277+00:00
- - user: None
- - tags: []
-
-## Bitbucket | Git solution for teams using Jira
- - [https://bitbucket.org](https://bitbucket.org)
- - date published: 2023-10-25T08:41:07.091610+00:00
- - user: None
- - tags: ['code repository']
-
-## Bitcoin - Open source P2P money
- - [https://bitcoin.org](https://bitcoin.org)
- - date published: 2023-10-29T15:13:34.530679+00:00
- - user: None
- - tags: []
-
-## The bitsavers main page
- - [https://bitsavers.org](https://bitsavers.org)
- - date published: 2023-10-25T21:02:29.463650+00:00
- - user: None
- - tags: []
-
-## The bitsavers main page
- - [https://www.bitsavers.org](https://www.bitsavers.org)
- - date published: 2024-01-09T03:38:25.148934+00:00
- - user: None
- - tags: []
-
-## bitsgalore.org
- - [https://www.bitsgalore.org](https://www.bitsgalore.org)
- - date published: 2023-10-25T21:02:36.496344+00:00
- - user: None
- - tags: []
-
-## Bitsplitting.org | Chasing the impossible with Daniel Jalkut
- - [https://bitsplitting.org](https://bitsplitting.org)
- - date published: 2023-10-25T21:02:44.465812+00:00
- - user: None
- - tags: []
-
-## https://bitvm.org
- - [https://bitvm.org](https://bitvm.org)
- - date published: 2023-10-25T21:02:45.523247+00:00
- - user: None
- - tags: []
-
-## BarryK's Home — All categories
- - [https://bkhome.org](https://bkhome.org)
- - date published: 2023-10-25T21:02:47.631425+00:00
- - user: None
- - tags: []
-
-## Brooklyn Public Library
- - [https://www.bklynlibrary.org](https://www.bklynlibrary.org)
- - date published: 2023-10-25T21:02:53.786581+00:00
- - user: None
- - tags: []
-
-## Developer Blog - code.blender.org
- - [https://code.blender.org](https://code.blender.org)
- - date published: 2023-10-25T21:02:57.177492+00:00
- - user: None
- - tags: []
-
-## Developer Forum
- - [https://devtalk.blender.org](https://devtalk.blender.org)
- - date published: 2023-10-25T21:02:59.659020+00:00
- - user: None
- - tags: []
-
-## Blender Projects
- - [https://projects.blender.org](https://projects.blender.org)
- - date published: 2023-10-25T21:03:01.728947+00:00
- - user: None
- - tags: []
-
-## Blender Developer Wiki
- - [https://wiki.blender.org](https://wiki.blender.org)
- - date published: 2023-10-25T21:03:03.560868+00:00
- - user: None
- - tags: []
-
-## blender.org - Home of the Blender project - Free and Open 3D Creation Software
- - [https://www.blender.org](https://www.blender.org)
- - date published: 2023-10-25T21:03:06.210208+00:00
- - user: None
- - tags: ['3d', 'open source', '3d printing', 'program']
-
-## Reading QR codes without a computer!
- - [https://qr.blinry.org](https://qr.blinry.org)
- - date published: 2024-01-22T10:59:05.126432+00:00
- - user: None
- - tags: []
-
-## BlobStreaming
- - [https://blobstreaming.org](https://blobstreaming.org)
- - date published: 2023-12-19T07:38:23.678372+00:00
- - user: None
- - tags: []
-
-## Ye Olde Blogroll - Blogroll.org
- - [https://blogroll.org](https://blogroll.org)
- - date published: 2023-12-18T15:09:34+00:00
- - user: rumpel
- - tags: ['blogs', 'personal']
-
-## Blokada Community - The place for Blokada enthusiasts to communicate and learn
- - [https://community.blokada.org](https://community.blokada.org)
- - date published: 2023-10-25T21:03:09.458756+00:00
- - user: None
- - tags: []
-
-## Bogleheads Investing Advice and Info
- - [https://www.bogleheads.org](https://www.bogleheads.org)
- - date published: 2023-10-25T21:03:13.569250+00:00
- - user: None
- - tags: []
-
-## Bonfire
- - [https://bonfirenetworks.org](https://bonfirenetworks.org)
- - date published: 2023-10-25T21:03:15.251631+00:00
- - user: None
- - tags: []
-
-## BorgBackup – Deduplicating archiver with compression and authenticated encryption
- - [https://www.borgbackup.org](https://www.borgbackup.org)
- - date published: 2023-10-25T21:03:21.679225+00:00
- - user: None
- - tags: []
-
-## Boring Report
- - [https://www.boringreport.org](https://www.boringreport.org)
- - date published: 2023-10-25T21:03:23.184338+00:00
- - user: None
- - tags: []
-
-## Boston Library
- - [https://bostonlibrary.org](https://bostonlibrary.org)
- - date published: 2023-11-28T09:06:05.426016+00:00
- - user: None
- - tags: []
-
-## Home | Boston Planning & Development Agency
- - [https://www.bostonplans.org](https://www.bostonplans.org)
- - date published: 2023-10-25T21:03:28.958237+00:00
- - user: None
- - tags: []
-
-## BoTorch · Bayesian Optimization in PyTorch
- - [https://botorch.org](https://botorch.org)
- - date published: 2023-10-25T21:03:30.553611+00:00
- - user: None
- - tags: []
-
-## Tails - Home
- - [https://tails.boum.org](https://tails.boum.org)
- - date published: 2023-10-25T21:03:33.692031+00:00
- - user: None
- - tags: []
-
-## Common Lisp Quick Reference
- - [https://clqr.boundp.org](https://clqr.boundp.org)
- - date published: 2024-01-09T03:38:26.364393+00:00
- - user: None
- - tags: []
-
-## Box2D
- - [https://box2d.org](https://box2d.org)
- - date published: 2023-10-25T08:35:42.304717+00:00
- - user: None
- - tags: []
-
-## Box86 – Linux Userspace x86 Emulator with a Twist
- - [https://box86.org](https://box86.org)
- - date published: 2023-10-25T21:03:37.749632+00:00
- - user: None
- - tags: []
-
-## Ben E. C. Boyter | Ben E. C. Boyter
- - [https://boyter.org](https://boyter.org)
- - date published: 2023-10-25T21:03:43.739592+00:00
- - user: None
- - tags: []
-
-## Services for the Blind and Visually Impaired | Braille Institute
- - [https://brailleinstitute.org](https://brailleinstitute.org)
- - date published: 2023-10-25T21:03:49.278625+00:00
- - user: None
- - tags: []
-
-## BrainFlow
- - [https://brainflow.org](https://brainflow.org)
- - date published: 2023-10-27T12:06:33.631461+00:00
- - user: None
- - tags: []
-
-## brandur.org — Brandur Leach
- - [https://brandur.org](https://brandur.org)
- - date published: 2023-10-27T12:06:34.276245+00:00
- - user: None
- - tags: []
-
-## Stig's Soapbox
- - [https://www.brautaset.org](https://www.brautaset.org)
- - date published: 2023-10-25T21:04:05.893123+00:00
- - user: None
- - tags: []
-
-## Breezy Version Control System
- - [https://www.breezy-vcs.org](https://www.breezy-vcs.org)
- - date published: 2023-11-25T17:14:27+00:00
- - user: None
- - tags: []
-
-## Brian Chandler
- - [https://brianchandler.org](https://brianchandler.org)
- - date published: 2023-12-20T05:39:42.276424+00:00
- - user: rumpel
- - tags: ['personal']
-
-## BAM Weblog
- - [https://brianmckenna.org](https://brianmckenna.org)
- - date published: 2023-10-25T21:04:15.068274+00:00
- - user: None
- - tags: []
-
-## About Brian Richardson
- - [https://brianrichardson.org](https://brianrichardson.org)
- - date published: 2024-01-02T18:29:03.654286+00:00
- - user: None
- - tags: []
-
-## Brian Smith
- - [https://briansmith.org](https://briansmith.org)
- - date published: 2023-10-25T09:23:52.621584+00:00
- - user: None
- - tags: ['personal']
 

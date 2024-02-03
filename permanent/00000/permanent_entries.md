@@ -1046,7 +1046,7 @@
  - [https://www.perplexity.ai](https://www.perplexity.ai)
  - date published: 2023-10-25T12:44:02.078801+00:00
  - user: None
- - tags: ['search engine', 'artificial intelligence']
+ - tags: ['artificial intelligence bot', 'search engine']
 
 ## PetPic
  - [https://www.petpic.ai](https://www.petpic.ai)
@@ -1894,6 +1894,12 @@
  - user: None
  - tags: []
 
+## Not Found
+ - [https://rss.nebula.app](https://rss.nebula.app)
+ - date published: 2024-02-02T08:24:08.436135+00:00
+ - user: None
+ - tags: []
+
 ## 特務機関NERV防災
  - [https://nerv.app](https://nerv.app)
  - date published: 2024-01-01T22:14:48.864192+00:00
@@ -2276,7 +2282,7 @@
  - [https://avse.vercel.app](https://avse.vercel.app)
  - date published: 2023-12-20T04:44:54+00:00
  - user: None
- - tags: []
+ - tags: ['artificial intelligence bot']
 
 ## Boot & Shoe Blog
  - [https://boot-and-shoe.vercel.app](https://boot-and-shoe.vercel.app)
@@ -5991,12 +5997,6 @@
 ## Entrepreneur's Edge | Ryan Waliany | Substack
  - [https://www.edge.ceo](https://www.edge.ceo)
  - date published: 2023-10-25T12:12:41.496123+00:00
- - user: None
- - tags: []
-
-## ATLAS Experiment at CERN | ATLAS Experiment at CERN
- - [https://atlas.cern](https://atlas.cern)
- - date published: 2023-10-25T12:12:48.064999+00:00
  - user: None
  - tags: []
 

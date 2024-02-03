@@ -1,3 +1,189 @@
+## WINK News - Breaking News and Weather | First. Fair. Everywhere
+ - [https://winknews.com](https://winknews.com)
+ - date published: 2023-10-25T18:07:00.974361+00:00
+ - user: None
+ - tags: []
+
+## The International Law Firm of Winston & Strawn LLP | Winston & Strawn
+ - [https://www.winston.com](https://www.winston.com)
+ - date published: 2023-10-25T18:07:03.303397+00:00
+ - user: None
+ - tags: []
+
+## WinWorld: Welcome
+ - [https://winworldpc.com](https://winworldpc.com)
+ - date published: 2024-01-01T19:17:47.205122+00:00
+ - user: None
+ - tags: []
+
+## WION: Breaking News, Latest News, World, South Asia, India, Pakistan, Bangladesh News & Analysis - Latest World News
+ - [https://www.wionews.com](https://www.wionews.com)
+ - date published: 2023-10-25T10:45:15.167046+00:00
+ - user: None
+ - tags: []
+
+## WIRED - The Latest in Technology, Science, Culture and Business | WIRED
+ - [https://www.wired.com](https://www.wired.com)
+ - date published: 2023-10-25T09:36:45.817671+00:00
+ - user: None
+ - tags: ['technology news', 'science news']
+
+## Wirehead hedonism versus paradise-engineering
+ - [https://www.wireheading.com](https://www.wireheading.com)
+ - date published: 2023-10-25T18:07:05.948427+00:00
+ - user: None
+ - tags: []
+
+## Wirfs-Brock Associates
+ - [https://wirfs-brock.com](https://wirfs-brock.com)
+ - date published: 2023-10-25T18:07:07.838674+00:00
+ - user: None
+ - tags: []
+
+## WISDOMINATION
+ - [https://www.wisdomination.com](https://www.wisdomination.com)
+ - date published: 2023-10-25T18:07:12.621625+00:00
+ - user: None
+ - tags: []
+
+## Wise, Formerly TransferWise: Online Money Transfers | International Banking Features
+ - [https://wise.com](https://wise.com)
+ - date published: 2023-10-28T03:56:49.631440+00:00
+ - user: None
+ - tags: []
+
+## WiseStacker - Wisely Stack The World's Best Dividend Stocks
+ - [https://wisestacker.com](https://wisestacker.com)
+ - date published: 2023-12-02T13:42:08.251986+00:00
+ - user: None
+ - tags: ['personal']
+
+## WitcherHour: Bringing the latest Witcher news, guides, & more.
+ - [https://witcherhour.com](https://witcherhour.com)
+ - date published: 2023-10-25T14:23:14.446827+00:00
+ - user: None
+ - tags: []
+
+## Cardinal is the Database for Humans
+ - [https://www.withcardinal.com](https://www.withcardinal.com)
+ - date published: 2023-10-25T18:07:14.230770+00:00
+ - user: None
+ - tags: []
+
+## Coherence — The Integrated Developer Platform for your own cloud account
+ - [https://www.withcoherence.com](https://www.withcoherence.com)
+ - date published: 2023-10-25T18:07:16.180638+00:00
+ - user: None
+ - tags: []
+
+## Compound Planning | Modern Wealth & Investment Management
+ - [https://withcompound.com](https://withcompound.com)
+ - date published: 2023-10-25T18:07:21.872974+00:00
+ - user: None
+ - tags: []
+
+## Diode — Build, program, and simulate hardware
+ - [https://www.withdiode.com](https://www.withdiode.com)
+ - date published: 2024-01-09T02:54:27.368367+00:00
+ - user: None
+ - tags: []
+
+## Nonobvious | Edge | Substack
+ - [https://blog.withedge.com](https://blog.withedge.com)
+ - date published: 2023-10-25T18:07:38.413246+00:00
+ - user: None
+ - tags: []
+
+## Google's latest experiments in Labs
+ - [https://labs.withgoogle.com](https://labs.withgoogle.com)
+ - date published: 2023-10-25T18:07:40.867814+00:00
+ - user: None
+ - tags: []
+
+## https://learnkubernetes.withgoogle.com
+ - [https://learnkubernetes.withgoogle.com](https://learnkubernetes.withgoogle.com)
+ - date published: 2024-01-09T02:54:28.714253+00:00
+ - user: None
+ - tags: []
+
+## People + AI Research
+ - [https://pair.withgoogle.com](https://pair.withgoogle.com)
+ - date published: 2023-10-25T18:07:44.673354+00:00
+ - user: None
+ - tags: []
+
+## Home | Google Summer of Code
+ - [https://summerofcode.withgoogle.com](https://summerofcode.withgoogle.com)
+ - date published: 2023-10-25T18:07:48.328715+00:00
+ - user: None
+ - tags: []
+
+## Project Sunroof
+ - [https://sunroof.withgoogle.com](https://sunroof.withgoogle.com)
+ - date published: 2023-10-25T18:07:51.710648+00:00
+ - user: None
+ - tags: []
+
+## Google Teachable Machine
+ - [https://teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com)
+ - date published: 2024-01-07T03:20:02+00:00
+ - user: None
+ - tags: ['machine learning']
+
+## TextFX
+ - [https://textfx.withgoogle.com](https://textfx.withgoogle.com)
+ - date published: 2023-10-25T18:07:53.024899+00:00
+ - user: None
+ - tags: []
+
+## Google - The Web Can Do What!?
+ - [https://thewebshowcase.withgoogle.com](https://thewebshowcase.withgoogle.com)
+ - date published: 2023-12-06T20:50:01.109390+00:00
+ - user: None
+ - tags: []
+
+## Within Temptation Music Store
+ - [https://www.within-temptation.com](https://www.within-temptation.com)
+ - date published: 2023-11-13T11:10:55.031197+00:00
+ - user: None
+ - tags: ['music band']
+
+## Home | WithSecure™ Labs
+ - [https://labs.withsecure.com](https://labs.withsecure.com)
+ - date published: 2023-10-25T18:07:54.930284+00:00
+ - user: None
+ - tags: []
+
+## Access Restricted
+ - [https://www.wivb.com](https://www.wivb.com)
+ - date published: 2024-01-09T02:54:30.871469+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://bo.wix.com](https://bo.wix.com)
+ - date published: 2023-12-11T17:01:19.811311+00:00
+ - user: None
+ - tags: []
+
+## https://frog.wix.com
+ - [https://frog.wix.com](https://frog.wix.com)
+ - date published: 2023-12-11T16:57:12.422596+00:00
+ - user: None
+ - tags: []
+
+## Wix UX
+ - [https://wix-ux.com](https://wix-ux.com)
+ - date published: 2023-10-25T18:08:04.082110+00:00
+ - user: None
+ - tags: []
+
+## https://gameknightplaysyt.wixsite.com
+ - [https://gameknightplaysyt.wixsite.com](https://gameknightplaysyt.wixsite.com)
+ - date published: 2023-11-03T08:29:48.426730+00:00
+ - user: None
+ - tags: []
+
 ## Wizarding World: The Official Home of Harry Potter
  - [https://www.wizardingworld.com](https://www.wizardingworld.com)
  - date published: 2023-10-25T14:07:20.273222+00:00
@@ -2627,6 +2813,12 @@
  - user: None
  - tags: []
 
+## None
+ - [https://abcnews.go.comhttps](https://abcnews.go.comhttps)
+ - date published: 2024-02-02T08:24:31.883332+00:00
+ - user: None
+ - tags: []
+
 ## How to play C&C guides, C&C News, C&C Remastered Leaderboards - Command & Conquer
  - [https://cnc.community](https://cnc.community)
  - date published: 2023-11-17T21:46:11+00:00
@@ -3047,6 +3239,12 @@
  - user: None
  - tags: ['mastodon']
 
+## Anupam Krishnamurthy | Now
+ - [https://anupam.de](https://anupam.de)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## APC-TCP.de
  - [https://www.apc-tcp.de](https://www.apc-tcp.de)
  - date published: 2024-01-09T02:56:12.796640+00:00
@@ -3369,6 +3567,12 @@ home
 ## Florian Heidenreich – Indie Software Developer from Dresden
  - [https://fheidenreich.de](https://fheidenreich.de)
  - date published: 2024-01-07T17:48:40.202500+00:00
+ - user: None
+ - tags: []
+
+## Finanz-Designerin: Finanziell frei in 5 Jahren.
+ - [https://www.finanz-designerin.de](https://www.finanz-designerin.de)
+ - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5414,6 +5618,12 @@ home
  - user: None
  - tags: []
 
+## 🧊 The missing Package Manager for Kubernetes 📦 | Glasskube.dev
+ - [https://glasskube.dev](https://glasskube.dev)
+ - date published: 2024-02-02T14:48:31.122557+00:00
+ - user: None
+ - tags: []
+
 ## The Go Programming Language
  - [https://go.dev](https://go.dev)
  - date published: 2023-10-25T08:38:22.802255+00:00
@@ -5789,216 +5999,6 @@ home
 ## lastmile ai — blog
  - [https://blog.lastmileai.dev](https://blog.lastmileai.dev)
  - date published: 2023-10-25T18:39:06.395794+00:00
- - user: None
- - tags: []
-
-## LastMile AI | The AI developer platform for engineering teams
- - [https://lastmileai.dev](https://lastmileai.dev)
- - date published: 2023-10-25T18:39:07.840038+00:00
- - user: None
- - tags: []
-
-## https://www.leapml.dev
- - [https://www.leapml.dev](https://www.leapml.dev)
- - date published: 2024-01-09T02:57:18.355700+00:00
- - user: None
- - tags: []
-
-## Introduction to Genomics for Engineers | Introduction to Genomics for Engineers
- - [https://learngenomics.dev](https://learngenomics.dev)
- - date published: 2023-10-25T18:39:08.432311+00:00
- - user: None
- - tags: []
-
-## Home Page
- - [https://leots.dev](https://leots.dev)
- - date published: 2023-12-15T11:15:24.587419+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Leptos
- - [https://leptos.dev](https://leptos.dev)
- - date published: 2023-10-25T18:39:09.955344+00:00
- - user: None
- - tags: []
-
-## Libraria – Create AI chatbots in seconds.
- - [https://libraria.dev](https://libraria.dev)
- - date published: 2023-10-25T18:39:17.589462+00:00
- - user: None
- - tags: []
-
-## Morten Linderud
- - [https://linderud.dev](https://linderud.dev)
- - date published: 2024-01-07T03:57:31.148688+00:00
- - user: None
- - tags: []
-
-## Linen Community
- - [https://www.linen.dev](https://www.linen.dev)
- - date published: 2023-10-25T18:39:21.192660+00:00
- - user: None
- - tags: []
-
-## Lit
- - [https://lit.dev](https://lit.dev)
- - date published: 2023-10-25T18:39:24.294606+00:00
- - user: None
- - tags: []
-
-## Livebook.dev - The Livebook Blog
- - [https://news.livebook.dev](https://news.livebook.dev)
- - date published: 2023-10-25T18:39:31.130189+00:00
- - user: None
- - tags: []
-
-## Local-First Web Development
- - [https://localfirstweb.dev](https://localfirstweb.dev)
- - date published: 2023-10-25T18:39:34.514760+00:00
- - user: None
- - tags: []
-
-## localghost
- - [https://localghost.dev](https://localghost.dev)
- - date published: 2024-01-07T19:02:10.388264+00:00
- - user: None
- - tags: []
-
-## Doug Hammond
- - [https://doug.lon.dev](https://doug.lon.dev)
- - date published: 2024-01-31T16:19:06.866893+00:00
- - user: None
- - tags: []
-
-## Loren's blog
- - [https://lorendb.dev](https://lorendb.dev)
- - date published: 2024-01-05T15:16:20.712582+00:00
- - user: None
- - tags: []
-
-## Loro – Reimagine state management with CRDTs – Loro
- - [https://www.loro.dev](https://www.loro.dev)
- - date published: 2023-11-13T12:41:13.173629+00:00
- - user: None
- - tags: []
-
-## Lukas Hermann – Bootstraping a profitable business
- - [https://lukashermann.dev](https://lukashermann.dev)
- - date published: 2023-10-25T18:39:36.060648+00:00
- - user: None
- - tags: []
-
-## lunnova.dev
- - [https://lunnova.dev](https://lunnova.dev)
- - date published: 2023-10-25T18:39:36.570613+00:00
- - user: None
- - tags: []
-
-## Scott Mabin
- - [https://mabez.dev](https://mabez.dev)
- - date published: 2023-10-25T08:48:38.285682+00:00
- - user: None
- - tags: ['personal']
-
-## Magic Loops
- - [https://magicloops.dev](https://magicloops.dev)
- - date published: 2023-10-25T18:39:37.627469+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.mandymak.dev](https://www.mandymak.dev)
- - date published: 2023-12-14T06:54:37.710670+00:00
- - user: None
- - tags: ['personal']
-
-## Markok.dev - Blog about web development and other random things
- - [https://markok.dev](https://markok.dev)
- - date published: 2023-12-12T23:24:05.386377+00:00
- - user: None
- - tags: ['personal']
-
-## Marvin Hagemeister Frontend Developer
- - [https://marvinh.dev](https://marvinh.dev)
- - date published: 2023-10-25T08:48:41.375132+00:00
- - user: None
- - tags: ['personal']
-
-## Become mastermind
- - [https://blog.mastermind.dev](https://blog.mastermind.dev)
- - date published: 2023-10-25T18:39:41.085781+00:00
- - user: None
- - tags: []
-
-## Matchu Says Words | Emi Matchu (they/she), tech professional turned hobbyist! Aspiring to do what’s right, in the places and ways I can.
- - [https://blog.matchu.dev](https://blog.matchu.dev)
- - date published: 2023-10-31T19:57:41.845855+00:00
- - user: None
- - tags: []
-
-## Matias Pan's blog
- - [https://blog.matiaspan.dev](https://blog.matiaspan.dev)
- - date published: 2023-11-21T19:09:54.203670+00:00
- - user: None
- - tags: []
-
-## Matthew C Dev
- - [https://matthewc.dev](https://matthewc.dev)
- - date published: 2023-10-25T18:39:42.826551+00:00
- - user: None
- - tags: []
-
-## Matthew Kim
- - [https://www.matthewkim.dev](https://www.matthewkim.dev)
- - date published: 2024-01-22T18:19:15.032834+00:00
- - user: None
- - tags: []
-
-## [jim-fx] Home
- - [https://max-richter.dev](https://max-richter.dev)
- - date published: 2023-12-04T12:08:16.954803+00:00
- - user: None
- - tags: ['personal']
-
-## Show HN: Simulate 3D Plants in the Browser
- - [https://plant.max-richter.dev](https://plant.max-richter.dev)
- - date published: 2023-12-03T10:55:35+00:00
- - user: None
- - tags: []
-
-## Matteo Bianchi – Medium
- - [https://blog.mb-consulting.dev](https://blog.mb-consulting.dev)
- - date published: 2024-01-15T16:49:18.050849+00:00
- - user: None
- - tags: []
-
-## Colin McMillen
- - [https://www.mcmillen.dev](https://www.mcmillen.dev)
- - date published: 2022-11-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## MeadSteve's Dev Blog
- - [https://blog.meadsteve.dev](https://blog.meadsteve.dev)
- - date published: 2023-10-25T08:58:39.127357+00:00
- - user: None
- - tags: ['personal']
-
-## Hello - Meg Risdal
- - [https://meg.dev](https://meg.dev)
- - date published: 2023-10-25T09:26:20.086165+00:00
- - user: None
- - tags: ['personal']
-
-## Sine Machine, a new additive synth · Melatonin
- - [https://melatonin.dev](https://melatonin.dev)
- - date published: 2023-11-10T14:03:59.822755+00:00
- - user: None
- - tags: []
-
-## metahead | the world's 1st enterprise-grade metarepo
- - [https://www.metahead.dev](https://www.metahead.dev)
- - date published: 2024-01-10T22:30:13.454038+00:00
  - user: None
  - tags: []
 

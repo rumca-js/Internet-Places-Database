@@ -1,3 +1,213 @@
+## LastMile AI | The AI developer platform for engineering teams
+ - [https://lastmileai.dev](https://lastmileai.dev)
+ - date published: 2023-10-25T18:39:07.840038+00:00
+ - user: None
+ - tags: []
+
+## https://www.leapml.dev
+ - [https://www.leapml.dev](https://www.leapml.dev)
+ - date published: 2024-01-09T02:57:18.355700+00:00
+ - user: None
+ - tags: []
+
+## Introduction to Genomics for Engineers | Introduction to Genomics for Engineers
+ - [https://learngenomics.dev](https://learngenomics.dev)
+ - date published: 2023-10-25T18:39:08.432311+00:00
+ - user: None
+ - tags: []
+
+## Home Page
+ - [https://leots.dev](https://leots.dev)
+ - date published: 2023-12-15T11:15:24.587419+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Leptos
+ - [https://leptos.dev](https://leptos.dev)
+ - date published: 2023-10-25T18:39:09.955344+00:00
+ - user: None
+ - tags: []
+
+## Libraria – Create AI chatbots in seconds.
+ - [https://libraria.dev](https://libraria.dev)
+ - date published: 2023-10-25T18:39:17.589462+00:00
+ - user: None
+ - tags: []
+
+## Morten Linderud
+ - [https://linderud.dev](https://linderud.dev)
+ - date published: 2024-01-07T03:57:31.148688+00:00
+ - user: None
+ - tags: []
+
+## Linen Community
+ - [https://www.linen.dev](https://www.linen.dev)
+ - date published: 2023-10-25T18:39:21.192660+00:00
+ - user: None
+ - tags: []
+
+## Lit
+ - [https://lit.dev](https://lit.dev)
+ - date published: 2023-10-25T18:39:24.294606+00:00
+ - user: None
+ - tags: []
+
+## Livebook.dev - The Livebook Blog
+ - [https://news.livebook.dev](https://news.livebook.dev)
+ - date published: 2023-10-25T18:39:31.130189+00:00
+ - user: None
+ - tags: []
+
+## Local-First Web Development
+ - [https://localfirstweb.dev](https://localfirstweb.dev)
+ - date published: 2023-10-25T18:39:34.514760+00:00
+ - user: None
+ - tags: []
+
+## localghost
+ - [https://localghost.dev](https://localghost.dev)
+ - date published: 2024-01-07T19:02:10.388264+00:00
+ - user: None
+ - tags: []
+
+## Doug Hammond
+ - [https://doug.lon.dev](https://doug.lon.dev)
+ - date published: 2024-01-31T16:19:06.866893+00:00
+ - user: None
+ - tags: []
+
+## Loren's blog
+ - [https://lorendb.dev](https://lorendb.dev)
+ - date published: 2024-01-05T15:16:20.712582+00:00
+ - user: None
+ - tags: []
+
+## Loro – Reimagine state management with CRDTs – Loro
+ - [https://www.loro.dev](https://www.loro.dev)
+ - date published: 2023-11-13T12:41:13.173629+00:00
+ - user: None
+ - tags: []
+
+## Lukas Hermann – Bootstraping a profitable business
+ - [https://lukashermann.dev](https://lukashermann.dev)
+ - date published: 2023-10-25T18:39:36.060648+00:00
+ - user: None
+ - tags: []
+
+## lunnova.dev
+ - [https://lunnova.dev](https://lunnova.dev)
+ - date published: 2023-10-25T18:39:36.570613+00:00
+ - user: None
+ - tags: []
+
+## Scott Mabin
+ - [https://mabez.dev](https://mabez.dev)
+ - date published: 2023-10-25T08:48:38.285682+00:00
+ - user: None
+ - tags: ['personal']
+
+## Magic Loops
+ - [https://magicloops.dev](https://magicloops.dev)
+ - date published: 2023-10-25T18:39:37.627469+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.mandymak.dev](https://www.mandymak.dev)
+ - date published: 2023-12-14T06:54:37.710670+00:00
+ - user: None
+ - tags: ['personal']
+
+## Markok.dev - Blog about web development and other random things
+ - [https://markok.dev](https://markok.dev)
+ - date published: 2023-12-12T23:24:05.386377+00:00
+ - user: None
+ - tags: ['personal']
+
+## Marvin Hagemeister Frontend Developer
+ - [https://marvinh.dev](https://marvinh.dev)
+ - date published: 2023-10-25T08:48:41.375132+00:00
+ - user: None
+ - tags: ['personal']
+
+## Become mastermind
+ - [https://blog.mastermind.dev](https://blog.mastermind.dev)
+ - date published: 2023-10-25T18:39:41.085781+00:00
+ - user: None
+ - tags: []
+
+## Matchu Says Words | Emi Matchu (they/she), tech professional turned hobbyist! Aspiring to do what’s right, in the places and ways I can.
+ - [https://blog.matchu.dev](https://blog.matchu.dev)
+ - date published: 2023-10-31T19:57:41.845855+00:00
+ - user: None
+ - tags: []
+
+## Matias Pan's blog
+ - [https://blog.matiaspan.dev](https://blog.matiaspan.dev)
+ - date published: 2023-11-21T19:09:54.203670+00:00
+ - user: None
+ - tags: []
+
+## Matthew C Dev
+ - [https://matthewc.dev](https://matthewc.dev)
+ - date published: 2023-10-25T18:39:42.826551+00:00
+ - user: None
+ - tags: []
+
+## Matthew Kim
+ - [https://www.matthewkim.dev](https://www.matthewkim.dev)
+ - date published: 2024-01-22T18:19:15.032834+00:00
+ - user: None
+ - tags: []
+
+## [jim-fx] Home
+ - [https://max-richter.dev](https://max-richter.dev)
+ - date published: 2023-12-04T12:08:16.954803+00:00
+ - user: None
+ - tags: ['personal']
+
+## Show HN: Simulate 3D Plants in the Browser
+ - [https://plant.max-richter.dev](https://plant.max-richter.dev)
+ - date published: 2023-12-03T10:55:35+00:00
+ - user: None
+ - tags: []
+
+## Matteo Bianchi – Medium
+ - [https://blog.mb-consulting.dev](https://blog.mb-consulting.dev)
+ - date published: 2024-01-15T16:49:18.050849+00:00
+ - user: None
+ - tags: []
+
+## Colin McMillen
+ - [https://www.mcmillen.dev](https://www.mcmillen.dev)
+ - date published: 2022-11-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MeadSteve's Dev Blog
+ - [https://blog.meadsteve.dev](https://blog.meadsteve.dev)
+ - date published: 2023-10-25T08:58:39.127357+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hello - Meg Risdal
+ - [https://meg.dev](https://meg.dev)
+ - date published: 2023-10-25T09:26:20.086165+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sine Machine, a new additive synth · Melatonin
+ - [https://melatonin.dev](https://melatonin.dev)
+ - date published: 2023-11-10T14:03:59.822755+00:00
+ - user: None
+ - tags: []
+
+## metahead | the world's 1st enterprise-grade metarepo
+ - [https://www.metahead.dev](https://www.metahead.dev)
+ - date published: 2024-01-10T22:30:13.454038+00:00
+ - user: None
+ - tags: []
+
 ## mhdm.dev
  - [https://mhdm.dev](https://mhdm.dev)
  - date published: 2023-10-25T18:39:43.340614+00:00
@@ -845,6 +1055,12 @@
  - date published: 2023-10-25T08:58:54.572602+00:00
  - user: None
  - tags: ['personal']
+
+## Tailwind CSS 11-color Palette Generator and API
+ - [https://www.tints.dev](https://www.tints.dev)
+ - date published: 2024-02-02T14:48:44.570871+00:00
+ - user: None
+ - tags: []
 
 ## Toji.dev | Brandon Jones - Graphics and XR on the web
  - [https://toji.dev](https://toji.dev)
@@ -5795,222 +6011,6 @@
 ## European Synchrotron Radiation Facility (ESRF)
  - [https://www.esrf.fr](https://www.esrf.fr)
  - date published: 2023-10-25T19:14:58.288540+00:00
- - user: None
- - tags: []
-
-## Actualités et Infos en direct & replay | Europe 1
- - [https://www.europe1.fr](https://www.europe1.fr)
- - date published: 2023-11-05T12:49:53.622670+00:00
- - user: None
- - tags: []
-
-## Fathy Boundjadj
- - [https://fathy.fr](https://fathy.fr)
- - date published: 2023-10-25T19:14:59.727135+00:00
- - user: None
- - tags: []
-
-## Amiga Libraries FTP
- - [https://amiga.foul.fr](https://amiga.foul.fr)
- - date published: 2023-11-02T09:55:43.484734+00:00
- - user: None
- - tags: ['amiga']
-
-## Obligement - L'Amiga au maximum
- - [http://obligement.free.fr](http://obligement.free.fr)
- - date published: 2023-11-02T09:51:57.420141+00:00
- - user: None
- - tags: ['amiga']
-
-## Avant de continuer
- - [https://translate.google.fr](https://translate.google.fr)
- - date published: 2023-12-11T19:00:32.746424+00:00
- - user: None
- - tags: []
-
-## Google
- - [https://www.google.fr](https://www.google.fr)
- - date published: 2024-01-09T03:29:35.619916+00:00
- - user: None
- - tags: []
-
-## Mohamed HAIMOURA
- - [https://haimoura.fr](https://haimoura.fr)
- - date published: 2024-01-04T22:21:33.901320+00:00
- - user: None
- - tags: []
-
-## HandBrake - Index page
- - [https://forum.handbrake.fr](https://forum.handbrake.fr)
- - date published: 2023-11-19T07:59:22.879848+00:00
- - user: None
- - tags: []
-
-## HandBrake: Open Source Video Transcoder
- - [https://handbrake.fr](https://handbrake.fr)
- - date published: 2023-11-19T12:04:56+00:00
- - user: rumpel
- - tags: ['open source', 'program']
-
-## Accueil - Haute école des arts du Rhin
- - [https://www.hear.fr](https://www.hear.fr)
- - date published: 2024-01-09T03:29:37.108977+00:00
- - user: None
- - tags: []
-
-## None
- - [https://minestrix.henri2h.fr](https://minestrix.henri2h.fr)
- - date published: 2024-01-09T03:29:47.662398+00:00
- - user: None
- - tags: []
-
-## Sign in · GitLab
- - [https://gitlab.inria.fr](https://gitlab.inria.fr)
- - date published: 2024-01-31T22:10:38.061645+00:00
- - user: None
- - tags: []
-
-## Sign in · GitLab
- - [https://gustedt.gitlabpages.inria.fr](https://gustedt.gitlabpages.inria.fr)
- - date published: 2023-10-25T19:15:07.742650+00:00
- - user: None
- - tags: []
-
-## Centre Inria d'Université Côte d'Azur | Inria
- - [https://www-sop.inria.fr](https://www-sop.inria.fr)
- - date published: 2023-10-25T19:15:12.301697+00:00
- - user: None
- - tags: []
-
-## ipfyx blog
- - [https://ipfyx.fr](https://ipfyx.fr)
- - date published: 2024-01-09T03:30:03.245945+00:00
- - user: None
- - tags: []
-
-## Boutique Officielle Raspberry PI- Vente cartes Arduino, gaming et robotique
- - [https://kubii.fr](https://kubii.fr)
- - date published: 2023-12-11T17:25:33.070964+00:00
- - user: None
- - tags: []
-
-## https://dept-info.labri.fr
- - [https://dept-info.labri.fr](https://dept-info.labri.fr)
- - date published: 2024-01-09T03:30:03.853411+00:00
- - user: None
- - tags: []
-
-## Le Coq de Wall Street – Investissement et Liberté Financière
- - [https://lecoqdewallst.fr](https://lecoqdewallst.fr)
- - date published: 2023-12-21T18:50:33.754796+00:00
- - user: None
- - tags: ['personal']
-
-## Abonnement Le Figaro - Découvrez nos offres
- - [https://abonnement.lefigaro.fr](https://abonnement.lefigaro.fr)
- - date published: 2023-12-18T17:12:57.675595+00:00
- - user: None
- - tags: []
-
-## Publiez vos annonces légales avec Le Figaro au meilleur prix – Annonces légales du Figaro
- - [https://annonces-legales.lefigaro.fr](https://annonces-legales.lefigaro.fr)
- - date published: 2023-12-18T17:10:36.151946+00:00
- - user: None
- - tags: []
-
-## Access Denied
- - [https://api-graphql.lefigaro.fr](https://api-graphql.lefigaro.fr)
- - date published: 2023-12-18T17:11:36.827228+00:00
- - user: None
- - tags: []
-
-## Le Figaro - Sitemap
- - [https://articles.lefigaro.fr](https://articles.lefigaro.fr)
- - date published: 2023-12-18T17:12:16.400645+00:00
- - user: None
- - tags: []
-
-## Le Figaro Vin : le guide vin pour tous - Le Figaro Vin
- - [https://avis-vin.lefigaro.fr](https://avis-vin.lefigaro.fr)
- - date published: 2023-12-18T17:18:03.724522+00:00
- - user: None
- - tags: []
-
-## Le Figaro - Billetterie Spectacles
- - [https://billetterie.lefigaro.fr](https://billetterie.lefigaro.fr)
- - date published: 2023-12-18T17:11:39.808712+00:00
- - user: None
- - tags: []
-
-## Actualité Bourse & Conseils pour Investir - Le Figaro Bourse
- - [https://bourse.lefigaro.fr](https://bourse.lefigaro.fr)
- - date published: 2023-12-18T17:13:06.860206+00:00
- - user: None
- - tags: []
-
-## Le Figaro Store - La boutique officielle du Groupe Figaro
- - [https://boutique.lefigaro.fr](https://boutique.lefigaro.fr)
- - date published: 2023-12-18T17:12:43.650240+00:00
- - user: None
- - tags: []
-
-## Espace Personnel Figaro - Connectez-vous à votre compte client
- - [https://client.lefigaro.fr](https://client.lefigaro.fr)
- - date published: 2023-12-18T17:19:09.607595+00:00
- - user: None
- - tags: []
-
-## Le Figaro : Codes promo 100% valides en Décembre 2023
- - [https://codespromo.lefigaro.fr](https://codespromo.lefigaro.fr)
- - date published: 2023-12-18T17:11:29.520457+00:00
- - user: None
- - tags: []
-
-## Le Figaro.fr - Connexion compte Figaro
- - [https://connect.lefigaro.fr](https://connect.lefigaro.fr)
- - date published: 2023-12-18T17:12:35.047801+00:00
- - user: None
- - tags: []
-
-## Figaro Emploi : Offres d’emploi, Conseils et Actualités, Alertes, CV…
- - [https://emploi.lefigaro.fr](https://emploi.lefigaro.fr)
- - date published: 2023-12-18T17:18:25.289303+00:00
- - user: None
- - tags: []
-
-## Annuaire Entreprises
- - [https://entreprises.lefigaro.fr](https://entreprises.lefigaro.fr)
- - date published: 2023-12-18T17:17:17.974319+00:00
- - user: None
- - tags: []
-
-## Le Figaro Etudiant : Actualité, Conseils pour bien s'orienter
- - [https://etudiant.lefigaro.fr](https://etudiant.lefigaro.fr)
- - date published: 2023-12-18T17:17:40.140406+00:00
- - user: None
- - tags: []
-
-## Citation : les meilleures citations et proverbes célèbres
- - [https://evene.lefigaro.fr](https://evene.lefigaro.fr)
- - date published: 2023-12-18T17:11:08.890309+00:00
- - user: None
- - tags: []
-
-## Le Figaro
- - [https://faq.lefigaro.fr](https://faq.lefigaro.fr)
- - date published: 2023-12-18T17:16:55.779804+00:00
- - user: None
- - tags: []
-
-## Actu golf, résultats complets et classements en direct - Le Figaro Golf
- - [https://golf.lefigaro.fr](https://golf.lefigaro.fr)
- - date published: 2023-12-18T17:11:23.422903+00:00
- - user: None
- - tags: []
-
-## Guides d'achat : Avis et conseils pour bien choisir vos produits
- - [https://guide-achat.lefigaro.fr](https://guide-achat.lefigaro.fr)
- - date published: 2023-12-18T17:18:20.668762+00:00
  - user: None
  - tags: []
 

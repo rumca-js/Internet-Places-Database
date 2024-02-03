@@ -1,3 +1,57 @@
+## https://www.douyin.com
+ - [https://www.douyin.com](https://www.douyin.com)
+ - date published: 2024-01-09T02:35:21.185525+00:00
+ - user: None
+ - tags: []
+
+## Dove Medical Press - Open Access Publisher of Medical Journals
+ - [https://www.dovepress.com](https://www.dovepress.com)
+ - date published: 2023-12-08T09:32:44.907062+00:00
+ - user: None
+ - tags: []
+
+## - DovTheLachman.News
+ - [https://dovthelachman.com](https://dovthelachman.com)
+ - date published: 2023-10-25T13:57:40.792494+00:00
+ - user: None
+ - tags: []
+
+## Download subtitles from Youtube, Viki, Viu, Wetv, Kocowa and more
+ - [https://downsub.com](https://downsub.com)
+ - date published: 2023-11-27T13:29:48+00:00
+ - user: rumpel
+ - tags: ['subtitles', 'download', 'youtube']
+
+## Downtown Doug Brown
+ - [https://www.downtowndougbrown.com](https://www.downtowndougbrown.com)
+ - date published: 2023-10-25T13:57:44.045589+00:00
+ - user: None
+ - tags: []
+
+## Downtown Josh Brown
+ - [https://www.downtownjoshbrown.com](https://www.downtownjoshbrown.com)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Doximity Technology Blog
+ - [https://technology.doximity.com](https://technology.doximity.com)
+ - date published: 2023-10-25T13:57:48.725314+00:00
+ - user: None
+ - tags: []
+
+## Doyensec's Blog
+ - [https://blog.doyensec.com](https://blog.doyensec.com)
+ - date published: 2023-10-25T13:57:51.254946+00:00
+ - user: None
+ - tags: []
+
+## We are DPD - DPD
+ - [https://www.dpd.com](https://www.dpd.com)
+ - date published: 2023-11-01T08:42:04.426875+00:00
+ - user: None
+ - tags: []
+
 ## {DPHacks}
  - [https://dphacks.com](https://dphacks.com)
  - date published: 2024-01-23T16:02:22+00:00
@@ -1975,6 +2029,12 @@
 ## Etan Kerr-Finell
  - [https://etankerrfinell.com](https://etankerrfinell.com)
  - date published: 2024-01-13T22:52:50.885326+00:00
+ - user: None
+ - tags: []
+
+## Ethan Lalakea Alter
+ - [https://www.ethanalter.com](https://www.ethanalter.com)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4438,6 +4498,12 @@
  - user: None
  - tags: ['personal']
 
+## Frank Meeuwsen
+ - [https://frankmeeuwsen.com](https://frankmeeuwsen.com)
+ - date published: 2024-02-02T02:44:12.691035+00:00
+ - user: None
+ - tags: []
+
 ## Home Page - FrankSpeech
  - [https://frankspeech.com](https://frankspeech.com)
  - date published: 2023-10-25T14:37:21.205761+00:00
@@ -5931,72 +5997,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## GitGuardian Blog
  - [https://blog.gitguardian.com](https://blog.gitguardian.com)
  - date published: 2023-10-25T14:44:40.974111+00:00
- - user: None
- - tags: []
-
-## GitHub Accelerator
- - [https://accelerator.github.com](https://accelerator.github.com)
- - date published: 2023-10-25T14:44:43.194804+00:00
- - user: None
- - tags: []
-
-## GitHub Docs
- - [https://docs.github.com](https://docs.github.com)
- - date published: 2023-10-25T14:44:44.496737+00:00
- - user: None
- - tags: []
-
-## Discover gists · GitHub
- - [https://gist.github.com](https://gist.github.com)
- - date published: 2023-10-25T14:44:47.049318+00:00
- - user: None
- - tags: ['code sandbox']
-
-## GitHub: Let’s build from here · GitHub
- - [https://github.com](https://github.com)
- - date published: 2023-10-25T14:42:43.938249+00:00
- - user: None
- - tags: ['gatekeeper', 'app platform']
-
-## Grimoire: Open-Source bookmark manager with extra features
- - [https://github.com/goniszewski/grimoire](https://github.com/goniszewski/grimoire)
- - date published: 2023-11-26T08:04:54+00:00
- - user: rumpel
- - tags: ['open source', 'bookmark manager']
-
-## GitHub Pages
- - [https://pages.github.com](https://pages.github.com)
- - date published: 2023-10-25T08:40:58.526731+00:00
- - user: None
- - tags: []
-
-## Home - GitHub Resources
- - [https://resources.github.com](https://resources.github.com)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## GitHub Security Lab | Securing the world’s software, together
- - [https://securitylab.github.com](https://securitylab.github.com)
- - date published: 2023-10-25T14:44:54.681852+00:00
- - user: None
- - tags: []
-
-## Your GitHub story in 3D - GitHub Skyline
- - [https://skyline.github.com](https://skyline.github.com)
- - date published: 2023-10-25T14:44:56.097492+00:00
- - user: None
- - tags: []
-
-## GitHub Copilot investigation · Joseph Saveri Law Firm & Matthew Butterick
- - [https://githubcopilotinvestigation.com](https://githubcopilotinvestigation.com)
- - date published: 2023-10-25T14:44:58.558633+00:00
- - user: None
- - tags: []
-
-## GitHub Copilot litigation ôñô Joseph Saveri Law Firmô & Matthew Butterick
- - [https://githubcopilotlitigation.com](https://githubcopilotlitigation.com)
- - date published: 2023-10-25T14:45:00.133493+00:00
  - user: None
  - tags: []
 

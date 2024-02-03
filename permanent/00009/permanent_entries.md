@@ -1,3 +1,141 @@
+## https://retractionwatch.com
+ - [https://retractionwatch.com](https://retractionwatch.com)
+ - date published: 2023-12-13T03:59:08.828047+00:00
+ - user: None
+ - tags: []
+
+## Retro Otaku - My nerdy video gaming soapbox...
+ - [https://www.retro-otaku.com](https://www.retro-otaku.com)
+ - date published: 2023-10-27T14:43:31.465677+00:00
+ - user: None
+ - tags: ['retro games']
+
+## Retro Synthwave – Outrun
+ - [https://www.retro-synthwave.com](https://www.retro-synthwave.com)
+ - date published: 2023-11-13T10:27:34.345834+00:00
+ - user: None
+ - tags: ['synthwave']
+
+## Retro32 | Amiga | Commodore | Retro Gaming Store Shop | 3D Printing
+ - [https://www.retro32.com](https://www.retro32.com)
+ - date published: 2023-10-25T11:15:21.579596+00:00
+ - user: None
+ - tags: ['shop']
+
+## Retro Dodo - Retro Gaming Reviews & News
+ - [https://retrododo.com](https://retrododo.com)
+ - date published: 2023-10-25T10:46:34.000501+00:00
+ - user: None
+ - tags: ['retro game', 'game news']
+
+## Retro entre Amigos
+ - [https://www.retroentreamigos.com](https://www.retroentreamigos.com)
+ - date published: 2023-11-02T09:46:17.486897+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://retrogamecoders.com](https://retrogamecoders.com)
+ - date published: 2023-11-02T11:00:22.902914+00:00
+ - user: None
+ - tags: ['retro games', 'amiga']
+
+## Retro Gaming Crew - Das retro Gaming Magazin
+ - [https://www.retrogamingcrew.com](https://www.retrogamingcrew.com)
+ - date published: 2023-12-11T19:06:24.467363+00:00
+ - user: None
+ - tags: []
+
+## RetroKingPin - Retro Gaming News & Reviews
+ - [https://www.retrokingpin.com](https://www.retrokingpin.com)
+ - date published: 2023-10-26T18:55:54.590808+00:00
+ - user: None
+ - tags: ['game news']
+
+## Los mejores juegos retro para descargar gratis - Retrolorian
+ - [https://www.retrolorian.com](https://www.retrolorian.com)
+ - date published: 2023-11-17T21:44:04+00:00
+ - user: rumpel
+ - tags: ['retro games']
+
+## About the Retro-Printer Module | RetroPrinter.com
+ - [https://www.retroprinter.com](https://www.retroprinter.com)
+ - date published: 2023-10-25T16:50:29.050727+00:00
+ - user: None
+ - tags: []
+
+## Adam's Vintage Computer Restorations
+ - [https://retrorepairsandrefurbs.com](https://retrorepairsandrefurbs.com)
+ - date published: 2023-10-25T08:47:47.426248+00:00
+ - user: None
+ - tags: ['personal']
+
+## Retro Reverse Engineering · RetroReversing
+ - [https://www.retroreversing.com](https://www.retroreversing.com)
+ - date published: 2023-10-25T16:50:34.097785+00:00
+ - user: None
+ - tags: []
+
+## RetroRGB |
+ - [https://www.retrorgb.com](https://www.retrorgb.com)
+ - date published: 2024-01-19T18:38:43+00:00
+ - user: rumpel
+ - tags: ['retro games']
+
+## retrotechnology.com, retrotechnology.net
+ - [https://www.retrotechnology.com](https://www.retrotechnology.com)
+ - date published: 2023-10-25T08:47:48.567953+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | RetroTINK LLC
+ - [https://www.retrotink.com](https://www.retrotink.com)
+ - date published: 2024-01-19T18:33:04+00:00
+ - user: rumpel
+ - tags: ['hardware', 'retro games']
+
+## PowerShark for your Amiga is coming!
+ - [https://retrousbpower.com](https://retrousbpower.com)
+ - date published: 2024-02-02T07:10:46.302196+00:00
+ - user: None
+ - tags: ['hardware', 'amiga']
+
+## Return to Monkey Island | Available now on PC, Nintendo Swtich, PS5, and Xbox S/X
+ - [https://returntomonkeyisland.com](https://returntomonkeyisland.com)
+ - date published: 2023-10-25T16:50:39.735294+00:00
+ - user: None
+ - tags: []
+
+## The Lord of the Rings: Return to Moria™
+ - [https://www.returntomoria.com](https://www.returntomoria.com)
+ - date published: 2023-10-25T13:56:54.054723+00:00
+ - user: None
+ - tags: ['tolkien']
+
+## Reuters | Breaking International News & Views
+ - [https://www.reuters.com](https://www.reuters.com)
+ - date published: 2023-10-25T10:38:41.639140+00:00
+ - user: None
+ - tags: []
+
+## International News Agency | Multimedia News Provider | Reuters
+ - [https://www.reutersagency.com](https://www.reutersagency.com)
+ - date published: 2023-10-25T16:50:47.197541+00:00
+ - user: None
+ - tags: []
+
+## Rev | AI Speech to Text Transcription Service
+ - [https://www.rev.com](https://www.rev.com)
+ - date published: 2023-11-27T13:30:27+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'transcript']
+
+## Charlie Revett (@revcd) • Software Engineer
+ - [https://revcd.com](https://revcd.com)
+ - date published: 2024-01-13T18:26:52.208850+00:00
+ - user: None
+ - tags: []
+
 ## Home | Reverb Machine
  - [https://reverbmachine.com](https://reverbmachine.com)
  - date published: 2023-10-25T16:50:50.350568+00:00
@@ -2738,7 +2876,7 @@
  - [https://serenabiancadematteis.com](https://serenabiancadematteis.com)
  - date published: 2024-01-13T18:25:33.092304+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Atlas Alpha: Your Source for Cutting-Edge Tech News and Updates
  - [https://atlasalpha.serenebase.com](https://atlasalpha.serenebase.com)
@@ -3488,7 +3626,7 @@
  - [https://simonhedley.com](https://simonhedley.com)
  - date published: 2024-01-13T04:53:05.503923+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## simonhuggins.com – Simon Huggins and his projects
  - [https://simonhuggins.com](https://simonhuggins.com)
@@ -4929,7 +5067,7 @@
  - [https://www.squidmar.com](https://www.squidmar.com)
  - date published: 2023-10-25T11:11:44.653780+00:00
  - user: None
- - tags: []
+ - tags: ['youtuber']
 
 ## Фотографии, биография звезд, моделей и просто красивых девушек!
  - [https://sqwera.com](https://sqwera.com)
@@ -5864,144 +6002,6 @@
 ## Stop Buying Domain Names
  - [https://stopbuyingdomainnames.com](https://stopbuyingdomainnames.com)
  - date published: 2023-10-27T11:55:44.704033+00:00
- - user: None
- - tags: []
-
-## Stop KOSA
- - [https://www.stopkosa.com](https://www.stopkosa.com)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## The European choice for cybersecurity | Stormshield
- - [https://www.stormshield.com](https://www.stormshield.com)
- - date published: 2024-01-21T18:36:54+00:00
- - user: rumpel
- - tags: ['cybersecurity']
-
-## Storytellers Vault -
- - [https://www.storytellersvault.com](https://www.storytellersvault.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['magazines', 'shop']
-
-## Strafe Esports | Watch Esports Games Online | Esports Schedules
- - [https://www.strafe.com](https://www.strafe.com)
- - date published: 2023-10-25T11:17:14.755103+00:00
- - user: None
- - tags: []
-
-## Straight Dope Message Board - Your direct line to thousands of the smartest, hippest people on the planet, plus a few total dipsticks.
- - [https://boards.straightdope.com](https://boards.straightdope.com)
- - date published: 2023-10-25T17:17:37.904412+00:00
- - user: None
- - tags: []
-
-## Straight to Ground
- - [https://straighttoground.com](https://straighttoground.com)
- - date published: 2023-10-25T17:17:41.380789+00:00
- - user: None
- - tags: []
-
-## The Straits Times - Breaking News, Lifestyle & Multimedia News
- - [https://www.straitstimes.com](https://www.straitstimes.com)
- - date published: 2023-10-25T17:17:45.421512+00:00
- - user: None
- - tags: []
-
-## Strange Comforts
- - [https://strangecomforts.com](https://strangecomforts.com)
- - date published: 2023-11-25T04:59:41.989803+00:00
- - user: None
- - tags: []
-
-## Strange Horizons - A Magazine of Speculative Fiction
- - [http://strangehorizons.com](http://strangehorizons.com)
- - date published: 2023-10-25T17:17:49.923645+00:00
- - user: None
- - tags: []
-
-## Strange Loop Canon | Rohit Krishnan | Substack
- - [https://www.strangeloopcanon.com](https://www.strangeloopcanon.com)
- - date published: 2023-10-25T17:17:52.855444+00:00
- - user: None
- - tags: []
-
-## Stratechery by Ben Thompson – On the business, strategy, and impact of technology.
- - [https://stratechery.com](https://stratechery.com)
- - date published: 2023-10-25T17:17:59.521705+00:00
- - user: None
- - tags: []
-
-## Stratoflow - High-Performance Software Development Company
- - [https://stratoflow.com](https://stratoflow.com)
- - date published: 2023-10-25T17:18:01.529316+00:00
- - user: None
- - tags: []
-
-## Upload Video Online - Free Video Hosting - Streamable
- - [https://streamable.com](https://streamable.com)
- - date published: 2023-10-25T11:44:38.857649+00:00
- - user: None
- - tags: ['video streaming']
-
-## Upload Video Online - Free Video Hosting - Streamable
- - [http://streamable.com](http://streamable.com)
- - date published: 2023-12-25T10:44:57.433810+00:00
- - user: None
- - tags: []
-
-## Streamdal Console
- - [https://demo.streamdal.com](https://demo.streamdal.com)
- - date published: 2023-10-31T19:11:21.644056+00:00
- - user: None
- - tags: []
-
-## Open Source Data Observability That Drives Action
- - [https://streamdal.com](https://streamdal.com)
- - date published: 2023-10-31T19:11:18.771347+00:00
- - user: None
- - tags: []
-
-## Streamhead
- - [https://www.streamhead.com](https://www.streamhead.com)
- - date published: 2023-11-29T14:53:56.714447+00:00
- - user: None
- - tags: ['personal']
-
-## Streaming Learning Center
- - [https://streaminglearningcenter.com](https://streaminglearningcenter.com)
- - date published: 2023-11-04T01:30:25.033571+00:00
- - user: None
- - tags: []
-
-## StreamLikers – Watch Full Movies Online - Watch Full Movies Online Free in HD Quality
- - [https://www.streamlikers.com](https://www.streamlikers.com)
- - date published: 2023-12-02T13:14:24+00:00
- - user: rumpel
- - tags: []
-
-## Streamline Icons: The Only Icon System
- - [https://www.streamlinehq.com](https://www.streamlinehq.com)
- - date published: 2023-10-25T17:18:08.969199+00:00
- - user: None
- - tags: []
-
-## StreamTV Insider Homepage | StreamTV Insider
- - [https://www.streamtvinsider.com](https://www.streamtvinsider.com)
- - date published: 2023-11-02T16:07:19.355989+00:00
- - user: None
- - tags: []
-
-## StreetFins® | Finance Simplified®
- - [https://streetfins.com](https://streetfins.com)
- - date published: 2023-10-25T17:18:12.720903+00:00
- - user: None
- - tags: []
-
-## Stretch 15
- - [https://stretch15.com](https://stretch15.com)
- - date published: 2023-10-25T17:18:13.663808+00:00
  - user: None
  - tags: []
 

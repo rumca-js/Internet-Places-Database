@@ -1,3 +1,309 @@
+## Create an Ecommerce Website and Sell Online! Ecommerce Software by Shopify
+ - [http://zerowastenyc.shop](http://zerowastenyc.shop)
+ - date published: 2023-10-25T22:39:01.212212+00:00
+ - user: None
+ - tags: []
+
+## banger.show - video maker app for busy musicians
+ - [https://banger.show](https://banger.show)
+ - date published: 2023-10-25T22:39:02.762788+00:00
+ - user: None
+ - tags: []
+
+## https://bearen.show
+ - [https://bearen.show](https://bearen.show)
+ - date published: 2024-01-15T06:18:04.913904+00:00
+ - user: None
+ - tags: []
+
+## Self-Hosted
+ - [https://selfhosted.show](https://selfhosted.show)
+ - date published: 2023-11-17T20:24:50.366545+00:00
+ - user: None
+ - tags: []
+
+## Serious Trouble | Substack
+ - [https://www.serioustrouble.show](https://www.serioustrouble.show)
+ - date published: 2023-10-25T22:39:05.030372+00:00
+ - user: None
+ - tags: []
+
+## Narodni muzej Slovenije
+ - [https://www.nms.si](https://www.nms.si)
+ - date published: 2023-10-25T22:39:12.070893+00:00
+ - user: None
+ - tags: []
+
+## ID portal
+ - [https://id.uni-lj.si](https://id.uni-lj.si)
+ - date published: 2024-01-21T14:13:51.552197+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Aftermath
+ - [https://aftermath.site](https://aftermath.site)
+ - date published: 2023-11-07T15:23:01.879660+00:00
+ - user: None
+ - tags: []
+
+## Austin Vernon - Austin Vernon's Blog
+ - [https://austinvernon.site](https://austinvernon.site)
+ - date published: 2023-10-25T08:55:48.649144+00:00
+ - user: None
+ - tags: ['personal']
+
+## Automa – Automate the browser by connecting blocks
+ - [https://www.automa.site](https://www.automa.site)
+ - date published: 2023-11-10T13:05:40+00:00
+ - user: None
+ - tags: []
+
+## bit.site - Make Distributed Web faster and more reliable. - bit.site
+ - [https://bit.site](https://bit.site)
+ - date published: 2023-10-25T22:39:13.932367+00:00
+ - user: None
+ - tags: []
+
+## Recent posts
+ - [https://emmas.site](https://emmas.site)
+ - date published: 2024-01-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://grossack.site](https://grossack.site)
+ - date published: 2023-11-12T20:26:23.938812+00:00
+ - user: None
+ - tags: []
+
+## IconHunt
+ - [https://www.iconhunt.site](https://www.iconhunt.site)
+ - date published: 2023-10-25T22:39:14.631628+00:00
+ - user: None
+ - tags: []
+
+## Patrick Kidger
+ - [https://kidger.site](https://kidger.site)
+ - date published: 2023-10-25T08:55:53.732866+00:00
+ - user: None
+ - tags: ['personal']
+
+## home
+ - [https://whoisdsmith.mixa.site](https://whoisdsmith.mixa.site)
+ - date published: 2023-11-22T08:44:29.428440+00:00
+ - user: None
+ - tags: ['personal']
+
+## Show HN: I made a tool to turn your Spotify profile into a website
+ - [https://noise.site](https://noise.site)
+ - date published: 2023-12-13T14:48:17+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://activeloop.notion.site](https://activeloop.notion.site)
+ - date published: 2023-10-25T22:39:21.105796+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://alliancedao.notion.site](https://alliancedao.notion.site)
+ - date published: 2023-10-25T22:39:22.325561+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://auspicious-domain-086.notion.site](https://auspicious-domain-086.notion.site)
+ - date published: 2023-10-25T22:39:23.726835+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://bulkninja.notion.site](https://bulkninja.notion.site)
+ - date published: 2023-11-05T12:07:53.538117+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://chaudhry.notion.site](https://chaudhry.notion.site)
+ - date published: 2023-10-25T22:39:24.906292+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://enchanting-trader-463.notion.site](https://enchanting-trader-463.notion.site)
+ - date published: 2023-10-25T22:39:26.286235+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://flower-nutria-41d.notion.site](https://flower-nutria-41d.notion.site)
+ - date published: 2023-10-25T22:39:27.897053+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://huckridge.notion.site](https://huckridge.notion.site)
+ - date published: 2023-12-21T14:20:20.347998+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://hydra-so.notion.site](https://hydra-so.notion.site)
+ - date published: 2023-10-25T22:39:34.085319+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://knowsuchagency.notion.site](https://knowsuchagency.notion.site)
+ - date published: 2023-10-25T22:39:35.501901+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://kyndinfo.notion.site](https://kyndinfo.notion.site)
+ - date published: 2023-10-25T22:39:36.740705+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://lantern-db.notion.site](https://lantern-db.notion.site)
+ - date published: 2024-01-09T03:47:02.430604+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://loro-dev.notion.site](https://loro-dev.notion.site)
+ - date published: 2023-10-25T22:39:38.139653+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://medarc.notion.site](https://medarc.notion.site)
+ - date published: 2023-10-25T22:39:39.354553+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://mollymielke.notion.site](https://mollymielke.notion.site)
+ - date published: 2024-01-09T03:47:04.458445+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://msprout.notion.site](https://msprout.notion.site)
+ - date published: 2024-01-09T03:47:06.743892+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://neurofusionresearchinc.notion.site](https://neurofusionresearchinc.notion.site)
+ - date published: 2023-11-16T03:40:39.870878+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://observant-hoodie-597.notion.site](https://observant-hoodie-597.notion.site)
+ - date published: 2023-10-25T22:39:45.482702+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://plusdocs.notion.site](https://plusdocs.notion.site)
+ - date published: 2023-10-25T22:39:46.603183+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://postgrowthguide.notion.site](https://postgrowthguide.notion.site)
+ - date published: 2023-10-25T22:39:47.779531+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://prequelco.notion.site](https://prequelco.notion.site)
+ - date published: 2023-10-27T12:07:52.584102+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://provision-software.notion.site](https://provision-software.notion.site)
+ - date published: 2023-10-25T22:39:49.561712+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://rosacarbo.notion.site](https://rosacarbo.notion.site)
+ - date published: 2023-10-25T22:39:50.906331+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://rxhl.notion.site](https://rxhl.notion.site)
+ - date published: 2023-10-25T22:39:52.281261+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://seraleev.notion.site](https://seraleev.notion.site)
+ - date published: 2023-11-23T17:36:50.740494+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://serverlessai.notion.site](https://serverlessai.notion.site)
+ - date published: 2023-10-25T22:39:58.896287+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://snowsoft.notion.site](https://snowsoft.notion.site)
+ - date published: 2023-10-25T22:40:06.077935+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://taxproper.notion.site](https://taxproper.notion.site)
+ - date published: 2023-10-25T22:40:08.100234+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://vocode.notion.site](https://vocode.notion.site)
+ - date published: 2023-12-23T12:23:30.936410+00:00
+ - user: None
+ - tags: []
+
+## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://yaofu.notion.site](https://yaofu.notion.site)
+ - date published: 2023-10-25T22:40:15.132648+00:00
+ - user: None
+ - tags: []
+
+## permission.site
+ - [https://permission.site](https://permission.site)
+ - date published: 2023-10-25T22:40:18.074064+00:00
+ - user: None
+ - tags: []
+
+## Home - pjg1
+ - [https://pjg1.site](https://pjg1.site)
+ - date published: 2023-11-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Reflect Notes
+ - [https://reflect.site](https://reflect.site)
+ - date published: 2023-10-25T22:40:25.344272+00:00
+ - user: None
+ - tags: []
+
+## Shift Happens newsletter
+ - [https://newsletter.shifthappens.site](https://newsletter.shifthappens.site)
+ - date published: 2023-10-25T22:40:27.644529+00:00
+ - user: None
+ - tags: []
+
 ## Shift Happens
  - [https://shifthappens.site](https://shifthappens.site)
  - date published: 2023-10-25T22:40:33.666065+00:00
@@ -3159,6 +3465,12 @@ Introduction
  - user: None
  - tags: []
 
+## Jem – UK blogger - Developer - Entrepeneur
+ - [https://www.jemjabella.co.uk](https://www.jemjabella.co.uk)
+ - date published: 2024-02-02T18:14:33.893066+00:00
+ - user: None
+ - tags: []
+
 ## Jewish News
  - [https://www.jewishnews.co.uk](https://www.jewishnews.co.uk)
  - date published: 2023-12-13T13:26:16.054550+00:00
@@ -5375,6 +5687,12 @@ Introduction
  - user: None
  - tags: []
 
+## DJMcG
+ - [https://djmcg.xyz](https://djmcg.xyz)
+ - date published: 2024-02-02T20:24:51.933760+00:00
+ - user: None
+ - tags: []
+
 ## dxu
  - [https://dxuuu.xyz](https://dxuuu.xyz)
  - date published: 2023-10-25T09:26:56.324921+00:00
@@ -5688,322 +6006,4 @@ Introduction
  - date published: 2023-10-25T09:26:59.645730+00:00
  - user: None
  - tags: ['personal']
-
-## replicad | replicad
- - [https://replicad.xyz](https://replicad.xyz)
- - date published: 2023-10-25T23:04:15.965600+00:00
- - user: None
- - tags: []
-
-## rohanrd.xyz
- - [https://rohanrd.xyz](https://rohanrd.xyz)
- - date published: 2023-10-25T23:04:22.702680+00:00
- - user: None
- - tags: []
-
-## Rooms
- - [https://rooms.xyz](https://rooms.xyz)
- - date published: 2023-10-25T23:04:25.156786+00:00
- - user: None
- - tags: []
-
-## Projects by Matthew Schlachter
- - [https://www.schlachter.xyz](https://www.schlachter.xyz)
- - date published: 2023-10-25T23:04:29.118673+00:00
- - user: None
- - tags: []
-
-## Sort: Supercharged collaboration for your database
- - [https://sort.xyz](https://sort.xyz)
- - date published: 2024-01-15T16:28:22+00:00
- - user: rumpel
- - tags: []
-
-## tga
- - [https://space55.xyz](https://space55.xyz)
- - date published: 2023-11-27T10:59:14+00:00
- - user: rumpel
- - tags: ['personal']
-
-## Index
- - [https://sqrtminusone.xyz](https://sqrtminusone.xyz)
- - date published: 2023-10-25T23:04:30.564772+00:00
- - user: None
- - tags: []
-
-## Nora's Website
- - [https://squidleafs.xyz](https://squidleafs.xyz)
- - date published: 2023-10-25T08:56:59.540184+00:00
- - user: None
- - tags: ['personal']
-
-## Shlomi Steinberg
- - [https://ssteinberg.xyz](https://ssteinberg.xyz)
- - date published: 2023-10-25T09:25:14.256449+00:00
- - user: None
- - tags: ['personal']
-
-## Welcome - sulami's blog
- - [https://blog.sulami.xyz](https://blog.sulami.xyz)
- - date published: 2023-10-25T08:57:00.741805+00:00
- - user: None
- - tags: ['personal']
-
-## Syzito.xyz
- - [https://syzito.xyz](https://syzito.xyz)
- - date published: 2023-10-24T20:14:53.644951+00:00
- - user: None
- - tags: ['mastodon']
-
-## https://techovertea.xyz
- - [https://techovertea.xyz](https://techovertea.xyz)
- - date published: 2023-12-21T21:45:48+00:00
- - user: rumpel
- - tags: []
-
-## Bloom
- - [https://bloom.tendtoyourgarden.xyz](https://bloom.tendtoyourgarden.xyz)
- - date published: 2023-10-25T23:04:36.857094+00:00
- - user: None
- - tags: []
-
-## tevfik's notion
- - [https://tevfik.xyz](https://tevfik.xyz)
- - date published: 2023-10-25T23:04:39.043482+00:00
- - user: None
- - tags: []
-
-## thasso.xyz
- - [https://thasso.xyz](https://thasso.xyz)
- - date published: 2023-10-25T23:04:41.380101+00:00
- - user: None
- - tags: []
-
-## 5to9
- - [https://www.the5to9.xyz](https://www.the5to9.xyz)
- - date published: 2023-10-25T23:04:54.128354+00:00
- - user: None
- - tags: []
-
-## The Newsletter Newsletter. The newsletter about newsletters.
- - [https://www.thenewsletternewsletter.xyz](https://www.thenewsletternewsletter.xyz)
- - date published: 2023-10-25T23:04:57.601495+00:00
- - user: None
- - tags: []
-
-## theor
- - [https://theor.xyz](https://theor.xyz)
- - date published: 2023-10-25T23:04:59.644683+00:00
- - user: None
- - tags: []
-
-## Tinkering · Come for the Foo, stay for the Bar
- - [https://tinkering.xyz](https://tinkering.xyz)
- - date published: 2023-10-25T23:05:01.502999+00:00
- - user: None
- - tags: []
-
-## Florian Obser
- - [https://tlakh.xyz](https://tlakh.xyz)
- - date published: 2023-10-25T09:25:15.534923+00:00
- - user: None
- - tags: ['personal']
-
-## Toby Lam’s Blog
- - [https://tobylam.xyz](https://tobylam.xyz)
- - date published: 2023-11-26T16:36:13.535205+00:00
- - user: None
- - tags: []
-
-## Together AI
- - [https://www.together.xyz](https://www.together.xyz)
- - date published: 2023-10-25T23:05:07.592230+00:00
- - user: None
- - tags: []
-
-## Stefan VanBuren
- - [https://stefan.vanburen.xyz](https://stefan.vanburen.xyz)
- - date published: 2024-01-10T19:21:28.446386+00:00
- - user: None
- - tags: []
-
-## vitling
- - [https://www.vitling.xyz](https://www.vitling.xyz)
- - date published: 2023-10-25T23:05:08.807453+00:00
- - user: None
- - tags: []
-
-## Show HN: I've built a tool that summarizes 3-hour YouTube videos
- - [https://voxweave.xyz](https://voxweave.xyz)
- - date published: 2023-12-27T08:44:59+00:00
- - user: None
- - tags: []
-
-## Vyshnav Gangadharan
- - [https://vyshnav.xyz](https://vyshnav.xyz)
- - date published: 2024-01-11T13:29:29.542413+00:00
- - user: None
- - tags: []
-
-## Waqas.xyz
- - [https://waqas.xyz](https://waqas.xyz)
- - date published: 2023-10-25T08:57:01.703740+00:00
- - user: None
- - tags: ['personal']
-
-## What to Read After - AI book recommendations with 🤩 effect
- - [https://whattoreadafter.xyz](https://whattoreadafter.xyz)
- - date published: 2023-10-25T23:05:15.924060+00:00
- - user: None
- - tags: []
-
-## Show HN: Zaranova – A game where you must pretend you are an AI
- - [https://zaranova.xyz](https://zaranova.xyz)
- - date published: 2023-12-22T19:00:22+00:00
- - user: None
- - tags: []
-
-## Zood
- - [https://www.zood.xyz](https://www.zood.xyz)
- - date published: 2023-10-25T23:05:17.932942+00:00
- - user: None
- - tags: []
-
-## zsync - high quality discussion
- - [https://zsync.xyz](https://zsync.xyz)
- - date published: 2023-10-25T23:05:23.153519+00:00
- - user: None
- - tags: []
-
-## Spiritual Yoga, Stress Management, and Meaningful Personal Growth | balraj.yoga - the yoga of self awareness
- - [https://www.balraj.yoga](https://www.balraj.yoga)
- - date published: 2024-01-02T03:35:02.467119+00:00
- - user: None
- - tags: []
-
-## YouTube Blog — Official Blog for Latest YouTube News & Insights
- - [https://blog.youtube](https://blog.youtube)
- - date published: 2023-10-25T11:33:05.708463+00:00
- - user: None
- - tags: []
-
-## Andrew Huberman AI | Dexa
- - [https://huberman.rile.yt](https://huberman.rile.yt)
- - date published: 2023-10-25T23:05:27.750010+00:00
- - user: None
- - tags: []
-
-## Home - Wits University
- - [https://www.wits.ac.za](https://www.wits.ac.za)
- - date published: 2023-10-28T22:55:25.000926+00:00
- - user: None
- - tags: []
-
-## Barely Normal | Hardly Strange - Barely Normal
- - [https://barelynormal.co.za](https://barelynormal.co.za)
- - date published: 2024-01-09T19:17:05.832477+00:00
- - user: None
- - tags: []
-
-## https://brooker.co.za
- - [https://brooker.co.za](https://brooker.co.za)
- - date published: 2024-01-08T14:10:57.191772+00:00
- - user: None
- - tags: ['blog', 'personal']
-
-## Business Insider Polska
- - [https://www.businessinsider.co.za](https://www.businessinsider.co.za)
- - date published: 2023-10-25T23:05:39.649325+00:00
- - user: None
- - tags: []
-
-## Channon Perry
- - [https://chan.co.za](https://chan.co.za)
- - date published: 2023-10-25T08:57:02.637705+00:00
- - user: None
- - tags: ['personal']
-
-## Christine Powell VA + Design - Christine Powell
- - [https://christinepowell.co.za](https://christinepowell.co.za)
- - date published: 2023-11-29T14:42:11.739232+00:00
- - user: None
- - tags: ['personal']
-
-## Selecta
- - [https://selecta.ciaran.co.za](https://selecta.ciaran.co.za)
- - date published: 2023-10-25T23:05:40.383815+00:00
- - user: None
- - tags: []
-
-## Fortress of Solitude - Entertainment News & Reviews
- - [https://www.fortressofsolitude.co.za](https://www.fortressofsolitude.co.za)
- - date published: 2023-10-25T23:05:44.831319+00:00
- - user: None
- - tags: []
-
-## FUCK THAT SHIT - A blog about ideas, things and 💩
- - [https://fuckthatshit.co.za](https://fuckthatshit.co.za)
- - date published: 2024-01-09T03:49:00.043816+00:00
- - user: None
- - tags: []
-
-## IOL | News that Connects South Africans
- - [https://www.iol.co.za](https://www.iol.co.za)
- - date published: 2023-12-12T22:24:38.653617+00:00
- - user: None
- - tags: []
-
-## https://www.mattcroxon.co.za
- - [https://www.mattcroxon.co.za](https://www.mattcroxon.co.za)
- - date published: 2024-01-24T19:36:46.260318+00:00
- - user: None
- - tags: []
-
-## Hi, Mpho is my name!
- - [https://blog.mphomphego.co.za](https://blog.mphomphego.co.za)
- - date published: 2023-11-17T07:31:00.398986+00:00
- - user: None
- - tags: ['personal']
-
-## Things.
- - [https://pb.co.za](https://pb.co.za)
- - date published: 2023-10-25T23:05:54.100498+00:00
- - user: None
- - tags: []
-
-## The Phone System for Modern Business | Voys Telecom
- - [https://www.voys.co.za](https://www.voys.co.za)
- - date published: 2023-10-25T23:05:56.746906+00:00
- - user: None
- - tags: []
-
-## Weblearning | Home
- - [https://weblearning.co.za](https://weblearning.co.za)
- - date published: 2024-01-10T23:52:47.727319+00:00
- - user: None
- - tags: []
-
-## GroundUp: South African news that matters
- - [https://www.groundup.org.za](https://www.groundup.org.za)
- - date published: 2023-10-25T23:05:58.275927+00:00
- - user: None
- - tags: []
-
-## Open Doors - Serving persecuted Christians worldwide
- - [https://www.opendoors.org.za](https://www.opendoors.org.za)
- - date published: 2023-11-27T12:18:20+00:00
- - user: rumpel
- - tags: ['christian', 'catholic', 'religion', 'persecution']
-
-## connor.zip
- - [https://connor.zip](https://connor.zip)
- - date published: 2023-10-25T23:05:59.245372+00:00
- - user: None
- - tags: []
-
-## The .zip TLD sucks and it needs to be immediately revoked.
- - [https://financialstatement.zip](https://financialstatement.zip)
- - date published: 2023-10-25T23:06:02.287524+00:00
- - user: None
- - tags: []
 

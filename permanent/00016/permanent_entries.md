@@ -1,3 +1,243 @@
+## Home - Linux.it
+ - [https://www.linux.it](https://www.linux.it)
+ - date published: 2023-10-25T20:15:13.230291+00:00
+ - user: None
+ - tags: []
+
+## Luigi Mozzillo
+ - [https://mzll.it](https://mzll.it)
+ - date published: 2024-01-15T22:21:22.287791+00:00
+ - user: None
+ - tags: []
+
+## nitter.it
+ - [https://nitter.it](https://nitter.it)
+ - date published: 2023-11-22T06:56:02+00:00
+ - user: rumpel
+ - tags: ['x', 'twitter']
+
+## GTranslate - Error 402: Payment Required
+ - [https://en.oppohub.it](https://en.oppohub.it)
+ - date published: 2023-10-25T20:15:13.671922+00:00
+ - user: None
+ - tags: []
+
+## Welcome on www.pasqualegallo.it
+ - [https://pasqualegallo.it](https://pasqualegallo.it)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Penna Blu - Scrivere per guadagnare lettori e clienti
+ - [https://pennablu.it](https://pennablu.it)
+ - date published: 2024-01-15T02:47:15.594279+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://we.phorge.it](https://we.phorge.it)
+ - date published: 2023-10-25T20:15:19.719274+00:00
+ - user: None
+ - tags: []
+
+## Pinterest
+ - [https://pin.it](https://pin.it)
+ - date published: 2024-01-15T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
+## https://external-preview.redd.it/
+ - [https://external-preview.redd.it](https://external-preview.redd.it)
+ - date published: 2023-10-30T12:22:01.044585+00:00
+ - user: None
+ - tags: []
+
+## Reddit - Dive into anything
+ - [https://i.redd.it](https://i.redd.it)
+ - date published: 2023-10-25T20:15:21.079184+00:00
+ - user: None
+ - tags: []
+
+## Reddit - Dive into anything
+ - [https://preview.redd.it](https://preview.redd.it)
+ - date published: 2023-10-25T20:15:22.724650+00:00
+ - user: None
+ - tags: []
+
+## reddit
+ - [https://redd.it](https://redd.it)
+ - date published: 2023-12-11T19:25:05.732440+00:00
+ - user: None
+ - tags: []
+
+## https://v.redd.it
+ - [https://v.redd.it](https://v.redd.it)
+ - date published: 2023-10-30T12:42:19.101470+00:00
+ - user: None
+ - tags: []
+
+## Replit: The software creation platform. IDE, AI, and Deployments
+ - [https://repl.it](https://repl.it)
+ - date published: 2023-12-11T12:25:08+00:00
+ - user: rumpel
+ - tags: ['code sandbox']
+
+## Home - Retro-Gamers.it
+ - [https://www.retro-gamers.it](https://www.retro-gamers.it)
+ - date published: 2023-12-11T18:59:38.730308+00:00
+ - user: None
+ - tags: []
+
+## Rome in the footsteps of a 1750 traveller
+ - [https://www.romeartlover.it](https://www.romeartlover.it)
+ - date published: 2023-11-15T17:37:09.666911+00:00
+ - user: None
+ - tags: ['personal']
+
+## Linkfire Acquired smartURL | Music Marketing | Smart Links for music
+ - [https://smarturl.it](https://smarturl.it)
+ - date published: 2023-11-05T16:12:49.518226+00:00
+ - user: None
+ - tags: []
+
+## Summate.it - Quickly summarize web articles
+ - [https://summate.it](https://summate.it)
+ - date published: 2023-10-25T20:15:23.804588+00:00
+ - user: None
+ - tags: []
+
+## Software You Can love
+ - [https://sycl.it](https://sycl.it)
+ - date published: 2024-01-27T11:15:37.435380+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://tedd.it](https://tedd.it)
+ - date published: 2024-01-09T03:33:45.616994+00:00
+ - user: None
+ - tags: []
+
+## The Local - Italy's news in English
+ - [https://www.thelocal.it](https://www.thelocal.it)
+ - date published: 2023-10-25T20:15:26.536494+00:00
+ - user: None
+ - tags: []
+
+## Branża IT bez tajemnic. Odwiedź blog IT od the:protocol!
+ - [https://blog.theprotocol.it](https://blog.theprotocol.it)
+ - date published: 2023-12-13T14:57:12.580020+00:00
+ - user: None
+ - tags: ['tech news']
+
+## The Split | Turner Novak | Substack
+ - [https://www.thespl.it](https://www.thespl.it)
+ - date published: 2023-10-25T20:15:30.056480+00:00
+ - user: None
+ - tags: []
+
+## TransitiveBullsh.it
+ - [https://transitivebullsh.it](https://transitivebullsh.it)
+ - date published: 2023-10-25T20:15:34.091849+00:00
+ - user: None
+ - tags: []
+
+## Unclutter — Reader Mode for Chrome & Firefox
+ - [https://unclutter.it](https://unclutter.it)
+ - date published: 2023-10-25T20:15:40.192858+00:00
+ - user: None
+ - tags: []
+
+## L'Unione Sarda.it
+ - [https://www.unionesarda.it](https://www.unionesarda.it)
+ - date published: 2023-11-06T02:35:24.227351+00:00
+ - user: None
+ - tags: []
+
+## Home - Dipartimento di Informatica
+ - [http://groups.di.unipi.it](http://groups.di.unipi.it)
+ - date published: 2023-10-25T20:15:43.305470+00:00
+ - user: None
+ - tags: []
+
+## upbeat.it - upbeat.it
+ - [https://www.upbeat.it](https://www.upbeat.it)
+ - date published: 2023-12-03T15:55:21.887131+00:00
+ - user: None
+ - tags: ['personal']
+
+## vexl – Medium
+ - [https://blog.vexl.it](https://blog.vexl.it)
+ - date published: 2023-10-25T20:15:45.707451+00:00
+ - user: None
+ - tags: []
+
+## Inside.java
+ - [https://inside.java](https://inside.java)
+ - date published: 2023-10-25T20:15:47.805588+00:00
+ - user: None
+ - tags: []
+
+## Linus's blog - Home
+ - [https://linus.schreibt.jetzt](https://linus.schreibt.jetzt)
+ - date published: 2023-10-25T20:15:48.629425+00:00
+ - user: None
+ - tags: []
+
+## Home Page - Jordan News | Latest News from Jordan, MENA
+ - [https://www.jordannews.jo](https://www.jordannews.jo)
+ - date published: 2023-11-06T01:35:39.245161+00:00
+ - user: None
+ - tags: []
+
+## wellfound.com
+ - [https://padlet.jobs](https://padlet.jobs)
+ - date published: 2023-10-25T20:15:54.132403+00:00
+ - user: None
+ - tags: []
+
+## 国立大学法人 神戸大学 (Kobe University)
+ - [https://www.kobe-u.ac.jp](https://www.kobe-u.ac.jp)
+ - date published: 2023-12-21T22:37:59.390250+00:00
+ - user: None
+ - tags: []
+
+## ASHBi Institute for the Advanced Study of Human Biology
+ - [https://ashbi.kyoto-u.ac.jp](https://ashbi.kyoto-u.ac.jp)
+ - date published: 2023-12-28T17:06:21.539329+00:00
+ - user: None
+ - tags: []
+
+## 京都大学
+ - [https://www.kyoto-u.ac.jp](https://www.kyoto-u.ac.jp)
+ - date published: 2024-01-02T16:45:34.615971+00:00
+ - user: None
+ - tags: ['university']
+
+## 名古屋大学
+ - [https://www.nagoya-u.ac.jp](https://www.nagoya-u.ac.jp)
+ - date published: 2023-10-25T20:15:58.916788+00:00
+ - user: None
+ - tags: []
+
+## 大阪大学発の研究を。
+ - [https://resou.osaka-u.ac.jp](https://resou.osaka-u.ac.jp)
+ - date published: 2024-01-06T12:19:38.103646+00:00
+ - user: None
+ - tags: []
+
+## 立命館大学
+ - [https://www.ritsumei.ac.jp](https://www.ritsumei.ac.jp)
+ - date published: 2023-10-25T20:16:04.028920+00:00
+ - user: None
+ - tags: []
+
+## Tohoku University
+ - [https://www.tohoku.ac.jp](https://www.tohoku.ac.jp)
+ - date published: 2023-12-05T10:47:34.290298+00:00
+ - user: None
+ - tags: []
+
 ## 筑波大学
  - [https://www.tsukuba.ac.jp](https://www.tsukuba.ac.jp)
  - date published: 2023-10-25T20:16:10.773573+00:00
@@ -1582,6 +1822,12 @@
  - user: None
  - tags: ['personal']
 
+## John Dalton - gently does it . . . | Art | Podcast | Writing |
+ - [https://www.johndalton.me](https://www.johndalton.me)
+ - date published: 2024-02-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## John O'Connor is under construction
  - [https://www.johnoconnor.me](https://www.johnoconnor.me)
  - date published: 2023-12-20T05:40:39.569493+00:00
@@ -1678,6 +1924,12 @@
  - date published: 2023-10-25T08:50:35.431083+00:00
  - user: None
  - tags: ['personal']
+
+## Kyle’s Tech Korner
+ - [https://www.kylereddoch.me](https://www.kylereddoch.me)
+ - date published: 2024-02-02T01:33:53.349222+00:00
+ - user: None
+ - tags: []
 
 ## About
  - [https://laplab.me](https://laplab.me)
@@ -2909,6 +3161,12 @@
  - user: None
  - tags: ['personal']
 
+## Nick Morris
+ - [https://nickmorris.name](https://nickmorris.name)
+ - date published: 2024-02-02T14:27:11.007543+00:00
+ - user: None
+ - tags: []
+
 ## Geek Blight - Home
  - [https://rg3.name](https://rg3.name)
  - date published: 2023-10-25T20:23:20.284813+00:00
@@ -3443,6 +3701,12 @@
  - user: None
  - tags: []
 
+## And0uille
+ - [https://and0uille.net](https://and0uille.net)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Elixir & Phoenix Full Stack Software Developer- Andrei Clinciu
  - [https://andreiclinciu.net](https://andreiclinciu.net)
  - date published: 2023-12-30T09:52:17.936324+00:00
@@ -3525,7 +3789,7 @@
  - [https://arc.net](https://arc.net)
  - date published: 2023-10-25T20:25:33.979061+00:00
  - user: None
- - tags: []
+ - tags: ['web browser', 'search engine']
 
 ## https://www.argmin.net
  - [https://www.argmin.net](https://www.argmin.net)
@@ -5429,6 +5693,18 @@
  - user: None
  - tags: ['personal']
 
+## Jayeless.net
+ - [https://www.jayeless.net](https://www.jayeless.net)
+ - date published: 2024-02-02T18:14:39.989294+00:00
+ - user: None
+ - tags: []
+
+## Jean Snow [.net] – Blogging since 1998
+ - [https://www.jeansnow.net](https://www.jeansnow.net)
+ - date published: 2024-02-02T18:14:36.799150+00:00
+ - user: None
+ - tags: ['personal', 'blog']
+
 ## JTube
  - [https://tube.jeena.net](https://tube.jeena.net)
  - date published: 2023-12-05T14:09:28.323742+00:00
@@ -5721,282 +5997,6 @@
 ## La Quadrature du Net
  - [https://www.laquadrature.net](https://www.laquadrature.net)
  - date published: 2023-10-25T20:32:46.883924+00:00
- - user: None
- - tags: []
-
-## Claudio Lassala's Blog
- - [https://lassala.net](https://lassala.net)
- - date published: 2024-01-15T13:59:26.725680+00:00
- - user: None
- - tags: []
-
-## Lasso - Home
- - [https://lasso.net](https://lasso.net)
- - date published: 2023-11-26T16:47:11+00:00
- - user: rumpel
- - tags: ['bookmark manager']
-
-## LASTLIGHTS.NET - Waterfront Cityscape Photography at Blue Hour by Joey J 📸
- - [https://lastlights.net](https://lastlights.net)
- - date published: 2024-01-11T07:52:20.030411+00:00
- - user: None
- - tags: []
-
-## Las Vegas Open
- - [https://www.lasvegasopen.net](https://www.lasvegasopen.net)
- - date published: 2024-01-26T15:25:15+00:00
- - user: rumpel
- - tags: ['wargames', 'tabletop game event', 'tabletop games']
-
-## Launchpad Bugs
- - [https://bugs.launchpad.net](https://bugs.launchpad.net)
- - date published: 2023-10-25T20:32:47.781928+00:00
- - user: None
- - tags: []
-
-## 403 - Forbidden: Access is denied.
- - [https://webpush.lbccdn.net](https://webpush.lbccdn.net)
- - date published: 2024-01-09T03:35:47.391159+00:00
- - user: None
- - tags: []
-
-## Legacy Update: Get back online, activate, and install updates on your legacy Windows PC
- - [https://legacyupdate.net](https://legacyupdate.net)
- - date published: 2023-10-25T20:32:48.666498+00:00
- - user: None
- - tags: []
-
-## Nikita's Homepage
- - [https://www.leshenko.net](https://www.leshenko.net)
- - date published: 2023-10-25T08:53:01.995172+00:00
- - user: None
- - tags: ['personal']
-
-## LibertyCity // GTA 6 news, cheats for GTA 5 and GTA San Andreas, download mods, cars
- - [https://libertycity.net](https://libertycity.net)
- - date published: 2023-10-25T11:17:55.769566+00:00
- - user: None
- - tags: ['grand theft auto']
-
-## LibreWolf
- - [https://librewolf.net](https://librewolf.net)
- - date published: 2023-10-25T20:32:49.628211+00:00
- - user: None
- - tags: ['firefox', 'privacy', 'open source']
-
-## Creative Commons license buttons
- - [https://licensebuttons.net](https://licensebuttons.net)
- - date published: 2023-12-11T16:10:34.794982+00:00
- - user: None
- - tags: []
-
-## adq
- - [https://blog.lidskialf.net](https://blog.lidskialf.net)
- - date published: 2024-01-09T03:35:49.205902+00:00
- - user: None
- - tags: []
-
-## limpet.net
- - [https://limpet.net](https://limpet.net)
- - date published: 2023-10-25T20:32:53.415063+00:00
- - user: None
- - tags: []
-
-## Home - Linda Graham
- - [https://lindagraham-mft.net](https://lindagraham-mft.net)
- - date published: 2024-01-02T12:39:12.932682+00:00
- - user: None
- - tags: []
-
-## Linda Stone
- - [https://lindastone.net](https://lindastone.net)
- - date published: 2023-10-25T08:53:03.480692+00:00
- - user: None
- - tags: ['personal']
-
-## linusakesson.net
- - [https://linusakesson.net](https://linusakesson.net)
- - date published: 2023-10-25T20:32:54.866699+00:00
- - user: None
- - tags: []
-
-## linusakesson.net
- - [https://www.linusakesson.net](https://www.linusakesson.net)
- - date published: 2023-10-25T20:33:01.198358+00:00
- - user: None
- - tags: []
-
-## Eli Lipsitz
- - [https://eli.lipsitz.net](https://eli.lipsitz.net)
- - date published: 2023-10-25T09:23:12.493617+00:00
- - user: None
- - tags: ['personal']
-
-## Liquipedia
- - [https://liquipedia.net](https://liquipedia.net)
- - date published: 2023-10-25T11:48:20.723694+00:00
- - user: None
- - tags: []
-
-## KeepCoding | KeepCoding
- - [https://en.liujiacai.net](https://en.liujiacai.net)
- - date published: 2023-10-25T20:33:01.656840+00:00
- - user: None
- - tags: []
-
-## Live Limitless
- - [https://www.livelimitless.net](https://www.livelimitless.net)
- - date published: 2024-01-12T08:14:08.892321+00:00
- - user: None
- - tags: []
-
-## Software Engineer and Maker - Lloyd Atkinson
- - [https://www.lloydatkinson.net](https://www.lloydatkinson.net)
- - date published: 2023-10-25T20:33:02.816512+00:00
- - user: None
- - tags: []
-
-## - Logic Matters
- - [https://www.logicmatters.net](https://www.logicmatters.net)
- - date published: 2023-10-25T20:33:04.168407+00:00
- - user: None
- - tags: []
-
-## Longtermtrends | Find the most interesting financial charts!
- - [https://www.longtermtrends.net](https://www.longtermtrends.net)
- - date published: 2023-10-25T20:33:06.001904+00:00
- - user: None
- - tags: []
-
-## Cypherpunk Cogitations
- - [https://blog.lopp.net](https://blog.lopp.net)
- - date published: 2023-11-01T08:43:54.638506+00:00
- - user: None
- - tags: []
-
-## Lounge Ruminator
- - [https://loungeruminator.net](https://loungeruminator.net)
- - date published: 2023-12-26T06:32:03.438248+00:00
- - user: None
- - tags: ['personal']
-
-## Julien Guertault (Zavie)
- - [https://lousodrome.net](https://lousodrome.net)
- - date published: 2023-11-01T08:43:55.529677+00:00
- - user: None
- - tags: []
-
-## Lowering the Bar
- - [https://www.loweringthebar.net](https://www.loweringthebar.net)
- - date published: 2024-01-23T19:10:53.266729+00:00
- - user: None
- - tags: []
-
-## Lowyat.NET | Technology News Malaysia
- - [https://www.lowyat.net](https://www.lowyat.net)
- - date published: 2023-10-25T20:33:11.272378+00:00
- - user: None
- - tags: []
-
-## LUCIDBOX
- - [https://lucidbox.net](https://lucidbox.net)
- - date published: 2023-10-25T20:33:16.621214+00:00
- - user: None
- - tags: []
-
-## Lukas Rosenstock's Blog
- - [https://lukasrosenstock.net](https://lukasrosenstock.net)
- - date published: 2023-10-25T09:23:15.450577+00:00
- - user: None
- - tags: ['personal']
-
-## Łukasz Wójcik, Blog
- - [https://blog.lukaszwojcik.net](https://blog.lukaszwojcik.net)
- - date published: 2024-01-01T09:41:19.790752+00:00
- - user: None
- - tags: []
-
-## Łukasz Wójcik - software engineer
- - [https://lukaszwojcik.net](https://lukaszwojcik.net)
- - date published: 2023-12-14T01:20:17.921823+00:00
- - user: None
- - tags: ['personal']
-
-## Lutris - Open Gaming Platform
- - [https://lutris.net](https://lutris.net)
- - date published: 2023-10-25T08:35:41.232931+00:00
- - user: None
- - tags: []
-
-## Luxagraf: thoughts on ecology, culture, travel, photography, walking and other ephemera
- - [https://luxagraf.net](https://luxagraf.net)
- - date published: 2024-01-09T11:07:21.549562+00:00
- - user: None
- - tags: []
-
-## Welcome to LWN.net [LWN.net]
- - [https://lwn.net](https://lwn.net)
- - date published: 2023-10-25T20:33:18.171971+00:00
- - user: None
- - tags: []
-
-## Amiga Graphics Archive
- - [https://amiga.lychesis.net](https://amiga.lychesis.net)
- - date published: 2023-10-30T10:13:32.873579+00:00
- - user: None
- - tags: ['amiga', 'retro games']
-
-## Home - Lyonsden Blog
- - [https://lyonsden.net](https://lyonsden.net)
- - date published: 2023-10-25T11:19:07.342674+00:00
- - user: None
- - tags: []
-
-## Introducing Cheetah: A Lightweight Virtual Machine Manager for macOS | Cheetah
- - [https://macspot.net](https://macspot.net)
- - date published: 2023-10-25T20:33:19.344039+00:00
- - user: None
- - tags: []
-
-## Mad Camp! (coming 2024 stay tuned)
- - [https://www.madcamp.net](https://www.madcamp.net)
- - date published: 2023-12-20T09:12:49.749827+00:00
- - user: None
- - tags: []
-
-## MADEBYAL
- - [https://www.madebyal.net](https://www.madebyal.net)
- - date published: 2023-11-29T14:44:40.937041+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://www.mannyvallarino.net](https://www.mannyvallarino.net)
- - date published: 2023-12-14T01:27:54.207135+00:00
- - user: None
- - tags: ['personal']
-
-## Man Things
- - [https://manthings.net](https://manthings.net)
- - date published: 2024-01-04T03:32:56.183567+00:00
- - user: None
- - tags: []
-
-## The Map of the Universe
- - [https://mapoftheuniverse.net](https://mapoftheuniverse.net)
- - date published: 2023-10-25T08:25:19.111191+00:00
- - user: None
- - tags: []
-
-## N=1 (marcua’s blog) | I’m the Co-Founder and CTO of B12, where we’re building a better future of creative and analytical work. Before that, I was Director of Data at Locu, a startup that was acquired by GoDaddy. I went to grad school at MIT’s CSAIL. One time in Jerusalem I ate a whole tub of hummus on my own. I don’t regret that day.
- - [https://blog.marcua.net](https://blog.marcua.net)
- - date published: 2023-10-25T20:33:20.374918+00:00
- - user: None
- - tags: []
-
-## Marijuana Moment - All your cannabis news, in one place
- - [https://www.marijuanamoment.net](https://www.marijuanamoment.net)
- - date published: 2023-10-25T20:33:26.925572+00:00
  - user: None
  - tags: []
 

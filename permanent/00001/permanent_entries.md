@@ -1,3 +1,9 @@
+## ATLAS Experiment at CERN | ATLAS Experiment at CERN
+ - [https://atlas.cern](https://atlas.cern)
+ - date published: 2023-10-25T12:12:48.064999+00:00
+ - user: None
+ - tags: []
+
 ## Home | CERN
  - [https://home.cern](https://home.cern)
  - date published: 2023-10-25T11:24:34.306556+00:00
@@ -4386,6 +4392,12 @@
  - user: None
  - tags: []
 
+## Alvaro Dominguez
+ - [https://www.alvarodominguez.com](https://www.alvarodominguez.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Alvy Ray Smith Homepage
  - [http://alvyray.com](http://alvyray.com)
  - date published: 2023-10-25T08:44:25.872695+00:00
@@ -5985,18 +5997,6 @@
 ## The Arkansas Democrat-Gazette - Arkansas' Best News Source
  - [https://www.arkansasonline.com](https://www.arkansasonline.com)
  - date published: 2023-10-25T09:30:16.619090+00:00
- - user: None
- - tags: []
-
-## Arkansas Times • Arkansas news, politics, opinion, restaurants, music, movies and art
- - [https://arktimes.com](https://arktimes.com)
- - date published: 2023-11-26T19:46:32.219657+00:00
- - user: None
- - tags: []
-
-## ARLnow.com | Arlington, Va. local news
- - [https://www.arlnow.com](https://www.arlnow.com)
- - date published: 2023-12-05T02:33:32.576085+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,111 @@
+## RSS Feeds - The New York Times
+ - [https://rss.nytimes.com](https://rss.nytimes.com)
+ - date published: 2023-10-25T10:50:36.082162+00:00
+ - user: None
+ - tags: []
+
+## The New York Times - Breaking News, US News, World News and Videos
+ - [https://www.nytimes.com](https://www.nytimes.com)
+ - date published: 2023-10-25T10:28:14.756045+00:00
+ - user: None
+ - tags: []
+
+## Al Nyveldt
+ - [https://nyveldt.com](https://nyveldt.com)
+ - date published: 2023-11-29T17:18:39.669722+00:00
+ - user: None
+ - tags: []
+
+## Oaktree Capital Management
+ - [https://www.oaktreecapital.com](https://www.oaktreecapital.com)
+ - date published: 2023-10-25T16:23:47.230313+00:00
+ - user: None
+ - tags: []
+
+## Online Business Dude
+ - [https://obdude.com](https://obdude.com)
+ - date published: 2023-11-29T14:19:17.322995+00:00
+ - user: None
+ - tags: ['personal']
+
+## Obie Fernandez
+ - [http://obiefernandez.com](http://obiefernandez.com)
+ - date published: 2023-12-24T18:31:20.883388+00:00
+ - user: None
+ - tags: ['personal']
+
+## Oblivious Investor — Low-Maintenance Investing with Index Funds and ETFs
+ - [https://obliviousinvestor.com](https://obliviousinvestor.com)
+ - date published: 2023-10-25T16:23:50.646888+00:00
+ - user: None
+ - tags: []
+
+## Oblivus | The next generation GPU Cloud
+ - [https://oblivus.com](https://oblivus.com)
+ - date published: 2023-10-25T16:23:53.272979+00:00
+ - user: None
+ - tags: []
+
+## Danny O'Brien's Oblomovka
+ - [https://www.oblomovka.com](https://www.oblomovka.com)
+ - date published: 2024-01-30T17:18:08.596564+00:00
+ - user: None
+ - tags: []
+
+## News - the latest news of Ukraine and the world today - OBOZREVATEL
+ - [https://eng.obozrevatel.com](https://eng.obozrevatel.com)
+ - date published: 2023-12-21T15:14:31.314207+00:00
+ - user: None
+ - tags: []
+
+## O'Brien Communications- Top Pittsburgh PR Firm, Ranked one of the Best PR Firms in Pittsburgh
+ - [https://obriencommunications.com](https://obriencommunications.com)
+ - date published: 2023-11-29T13:55:56.976233+00:00
+ - user: None
+ - tags: []
+
+## OBSBOT - Connecting You to the Future [Official]
+ - [https://www.obsbot.com](https://www.obsbot.com)
+ - date published: 2023-11-30T22:16:35+00:00
+ - user: rumpel
+ - tags: ['webcam']
+
+## The Obscuritory
+ - [https://obscuritory.com](https://obscuritory.com)
+ - date published: 2023-10-25T16:23:58.860161+00:00
+ - user: None
+ - tags: []
+
+## Data visualization platform | Observable
+ - [https://observablehq.com](https://observablehq.com)
+ - date published: 2023-10-25T16:24:07.429854+00:00
+ - user: None
+ - tags: []
+
+## News, data and insight about the powerful forces that shape the world. | Observer
+ - [https://observer.com](https://observer.com)
+ - date published: 2023-10-25T10:37:59.004949+00:00
+ - user: None
+ - tags: []
+
+## Oliver Byford
+ - [https://obyford.com](https://obyford.com)
+ - date published: 2023-10-25T16:24:08.350790+00:00
+ - user: None
+ - tags: []
+
+## https://www.occamm.com
+ - [https://www.occamm.com](https://www.occamm.com)
+ - date published: 2023-10-25T16:24:08.687098+00:00
+ - user: None
+ - tags: []
+
+## Ocean of Games
+ - [https://ocean-of-games.com](https://ocean-of-games.com)
+ - date published: 2023-11-06T12:55:20.842494+00:00
+ - user: None
+ - tags: []
+
 ## https://en.oceanbase.com
  - [https://en.oceanbase.com](https://en.oceanbase.com)
  - date published: 2023-12-02T09:31:31.077187+00:00
@@ -506,7 +614,7 @@
  - [https://chat.openai.com](https://chat.openai.com)
  - date published: 2023-12-26T15:17:31.114796+00:00
  - user: None
- - tags: ['artificial intelligence', 'chatgpt']
+ - tags: ['artificial intelligence bot', 'chatgpt']
 
 ## OpenAI Developer Forum
  - [https://community.openai.com](https://community.openai.com)
@@ -1166,6 +1274,12 @@
 ## Paavan — Digital Product Designer
  - [https://paavandesign.com](https://paavandesign.com)
  - date published: 2023-10-25T16:29:13.648161+00:00
+ - user: None
+ - tags: []
+
+## PabloZarate™. Product Design expert, strategist & consultant.
+ - [https://pablozarate.com](https://pablozarate.com)
+ - date published: 2024-02-02T14:27:52.296881+00:00
  - user: None
  - tags: []
 
@@ -2135,6 +2249,12 @@
  - user: rumpel
  - tags: ['christianity', 'religion', 'persecution']
 
+## Jobs at Bloop AI Limited
+ - [https://bloop.jobs.personio.com](https://bloop.jobs.personio.com)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## PerThirtySix
  - [https://perthirtysix.com](https://perthirtysix.com)
  - date published: 2023-10-25T16:33:09.219386+00:00
@@ -2635,6 +2755,12 @@
  - date published: 2023-11-26T16:47:48+00:00
  - user: rumpel
  - tags: ['bookmark manager']
+
+## Pinball Map
+ - [https://pinballmap.com](https://pinballmap.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Pineberry Pi
  - [https://pineberrypi.com](https://pineberrypi.com)
@@ -3569,6 +3695,12 @@
 ## Predictable Designs is where electronics and entrepreneurship intersect
  - [https://predictabledesigns.com](https://predictabledesigns.com)
  - date published: 2023-10-25T16:39:14.616428+00:00
+ - user: None
+ - tags: []
+
+## @preethamrn - Preetham
+ - [https://www.preethamrn.com](https://www.preethamrn.com)
+ - date published: 2000-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5870,138 +6002,6 @@ More!
 ## Retool | The fastest way to develop effective software.
  - [https://retool.com](https://retool.com)
  - date published: 2023-10-25T16:50:27.329954+00:00
- - user: None
- - tags: []
-
-## https://retractionwatch.com
- - [https://retractionwatch.com](https://retractionwatch.com)
- - date published: 2023-12-13T03:59:08.828047+00:00
- - user: None
- - tags: []
-
-## Retro Otaku - My nerdy video gaming soapbox...
- - [https://www.retro-otaku.com](https://www.retro-otaku.com)
- - date published: 2023-10-27T14:43:31.465677+00:00
- - user: None
- - tags: ['retro games']
-
-## Retro Synthwave – Outrun
- - [https://www.retro-synthwave.com](https://www.retro-synthwave.com)
- - date published: 2023-11-13T10:27:34.345834+00:00
- - user: None
- - tags: ['synthwave']
-
-## Retro32 | Amiga | Commodore | Retro Gaming Store Shop | 3D Printing
- - [https://www.retro32.com](https://www.retro32.com)
- - date published: 2023-10-25T11:15:21.579596+00:00
- - user: None
- - tags: ['shop']
-
-## Retro Dodo - Retro Gaming Reviews & News
- - [https://retrododo.com](https://retrododo.com)
- - date published: 2023-10-25T10:46:34.000501+00:00
- - user: None
- - tags: ['retro game', 'game news']
-
-## Retro entre Amigos
- - [https://www.retroentreamigos.com](https://www.retroentreamigos.com)
- - date published: 2023-11-02T09:46:17.486897+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://retrogamecoders.com](https://retrogamecoders.com)
- - date published: 2023-11-02T11:00:22.902914+00:00
- - user: None
- - tags: ['retro games', 'amiga']
-
-## Retro Gaming Crew - Das retro Gaming Magazin
- - [https://www.retrogamingcrew.com](https://www.retrogamingcrew.com)
- - date published: 2023-12-11T19:06:24.467363+00:00
- - user: None
- - tags: []
-
-## RetroKingPin - Retro Gaming News & Reviews
- - [https://www.retrokingpin.com](https://www.retrokingpin.com)
- - date published: 2023-10-26T18:55:54.590808+00:00
- - user: None
- - tags: ['game news']
-
-## Los mejores juegos retro para descargar gratis - Retrolorian
- - [https://www.retrolorian.com](https://www.retrolorian.com)
- - date published: 2023-11-17T21:44:04+00:00
- - user: rumpel
- - tags: ['retro games']
-
-## About the Retro-Printer Module | RetroPrinter.com
- - [https://www.retroprinter.com](https://www.retroprinter.com)
- - date published: 2023-10-25T16:50:29.050727+00:00
- - user: None
- - tags: []
-
-## Adam's Vintage Computer Restorations
- - [https://retrorepairsandrefurbs.com](https://retrorepairsandrefurbs.com)
- - date published: 2023-10-25T08:47:47.426248+00:00
- - user: None
- - tags: ['personal']
-
-## Retro Reverse Engineering · RetroReversing
- - [https://www.retroreversing.com](https://www.retroreversing.com)
- - date published: 2023-10-25T16:50:34.097785+00:00
- - user: None
- - tags: []
-
-## RetroRGB |
- - [https://www.retrorgb.com](https://www.retrorgb.com)
- - date published: 2024-01-19T18:38:43+00:00
- - user: rumpel
- - tags: ['retro games']
-
-## retrotechnology.com, retrotechnology.net
- - [https://www.retrotechnology.com](https://www.retrotechnology.com)
- - date published: 2023-10-25T08:47:48.567953+00:00
- - user: None
- - tags: ['personal']
-
-## Home | RetroTINK LLC
- - [https://www.retrotink.com](https://www.retrotink.com)
- - date published: 2024-01-19T18:33:04+00:00
- - user: rumpel
- - tags: ['hardware', 'retro games']
-
-## Return to Monkey Island | Available now on PC, Nintendo Swtich, PS5, and Xbox S/X
- - [https://returntomonkeyisland.com](https://returntomonkeyisland.com)
- - date published: 2023-10-25T16:50:39.735294+00:00
- - user: None
- - tags: []
-
-## The Lord of the Rings: Return to Moria™
- - [https://www.returntomoria.com](https://www.returntomoria.com)
- - date published: 2023-10-25T13:56:54.054723+00:00
- - user: None
- - tags: ['tolkien']
-
-## Reuters | Breaking International News & Views
- - [https://www.reuters.com](https://www.reuters.com)
- - date published: 2023-10-25T10:38:41.639140+00:00
- - user: None
- - tags: []
-
-## International News Agency | Multimedia News Provider | Reuters
- - [https://www.reutersagency.com](https://www.reutersagency.com)
- - date published: 2023-10-25T16:50:47.197541+00:00
- - user: None
- - tags: []
-
-## Rev | AI Speech to Text Transcription Service
- - [https://www.rev.com](https://www.rev.com)
- - date published: 2023-11-27T13:30:27+00:00
- - user: rumpel
- - tags: ['artificial intelligence', 'transcript']
-
-## Charlie Revett (@revcd) • Software Engineer
- - [https://revcd.com](https://revcd.com)
- - date published: 2024-01-13T18:26:52.208850+00:00
  - user: None
  - tags: []
 

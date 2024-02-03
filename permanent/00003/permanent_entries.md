@@ -1,3 +1,33 @@
+## Chad Riden
+ - [https://chadriden.com](https://chadriden.com)
+ - date published: 2024-01-09T11:06:48.763243+00:00
+ - user: None
+ - tags: ['personal']
+
+## Chad Wellington
+ - [https://www.chadwellington.com](https://www.chadwellington.com)
+ - date published: 2023-12-03T09:19:49.150434+00:00
+ - user: None
+ - tags: ['personal']
+
+## Open Path by Chad Whitacre
+ - [https://openpath.chadwhitacre.com](https://openpath.chadwhitacre.com)
+ - date published: 2024-01-22T07:17:07.392204+00:00
+ - user: None
+ - tags: []
+
+## AI Analytics & Insights — Klu
+ - [https://chainparrot.com](https://chainparrot.com)
+ - date published: 2024-01-09T02:31:56.443071+00:00
+ - user: None
+ - tags: []
+
+## Challonge
+ - [https://challonge.com](https://challonge.com)
+ - date published: 2023-11-12T22:06:34.634033+00:00
+ - user: None
+ - tags: []
+
 ## chandrakantha.com – Information of interest to the student and lover of Indian music
  - [https://chandrakantha.com](https://chandrakantha.com)
  - date published: 2023-10-25T13:20:16.676397+00:00
@@ -535,6 +565,12 @@
 ## Christian Post | Christian News & Commentaries
  - [https://www.christianpost.com](https://www.christianpost.com)
  - date published: 2023-10-25T10:13:13.137647+00:00
+ - user: None
+ - tags: []
+
+## Christian Selig
+ - [https://christianselig.com](https://christianselig.com)
+ - date published: 2024-02-02T06:00:55.488499+00:00
  - user: None
  - tags: []
 
@@ -3988,6 +4024,12 @@
  - user: None
  - tags: []
 
+## Welcome | Dave Holton
+ - [https://www.daveholton.com](https://www.daveholton.com)
+ - date published: 2024-02-02T01:33:10.566787+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Dave Kilian's Blog
  - [https://davekilian.com](https://davekilian.com)
  - date published: 2023-10-25T09:20:02.366505+00:00
@@ -4051,6 +4093,12 @@
 ## David Drake – Science Fiction & Fantasy Writer
  - [https://david-drake.com](https://david-drake.com)
  - date published: 2023-12-11T18:53:29.186098+00:00
+ - user: None
+ - tags: []
+
+## David A. Windham
+ - [https://davidawindham.com](https://davidawindham.com)
+ - date published: 2024-02-02T14:28:46.222312+00:00
  - user: None
  - tags: []
 
@@ -4957,6 +5005,12 @@
 ## デヴィエーションゲーム
  - [https://deviationgame.com](https://deviationgame.com)
  - date published: 2023-10-25T13:51:04.144622+00:00
+ - user: None
+ - tags: []
+
+## Dev Fern | Devinfernandez.com
+ - [https://www.devinfernandez.com](https://www.devinfernandez.com)
+ - date published: 2023-10-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5948,60 +6002,6 @@
 ## Doug Seven – Something can be learned in the course of observing things
  - [https://dougseven.com](https://dougseven.com)
  - date published: 2023-10-25T13:57:37.103486+00:00
- - user: None
- - tags: []
-
-## https://www.douyin.com
- - [https://www.douyin.com](https://www.douyin.com)
- - date published: 2024-01-09T02:35:21.185525+00:00
- - user: None
- - tags: []
-
-## Dove Medical Press - Open Access Publisher of Medical Journals
- - [https://www.dovepress.com](https://www.dovepress.com)
- - date published: 2023-12-08T09:32:44.907062+00:00
- - user: None
- - tags: []
-
-## - DovTheLachman.News
- - [https://dovthelachman.com](https://dovthelachman.com)
- - date published: 2023-10-25T13:57:40.792494+00:00
- - user: None
- - tags: []
-
-## Download subtitles from Youtube, Viki, Viu, Wetv, Kocowa and more
- - [https://downsub.com](https://downsub.com)
- - date published: 2023-11-27T13:29:48+00:00
- - user: rumpel
- - tags: ['subtitles', 'download', 'youtube']
-
-## Downtown Doug Brown
- - [https://www.downtowndougbrown.com](https://www.downtowndougbrown.com)
- - date published: 2023-10-25T13:57:44.045589+00:00
- - user: None
- - tags: []
-
-## Downtown Josh Brown
- - [https://www.downtownjoshbrown.com](https://www.downtownjoshbrown.com)
- - date published: 2024-01-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Doximity Technology Blog
- - [https://technology.doximity.com](https://technology.doximity.com)
- - date published: 2023-10-25T13:57:48.725314+00:00
- - user: None
- - tags: []
-
-## Doyensec's Blog
- - [https://blog.doyensec.com](https://blog.doyensec.com)
- - date published: 2023-10-25T13:57:51.254946+00:00
- - user: None
- - tags: []
-
-## We are DPD - DPD
- - [https://www.dpd.com](https://www.dpd.com)
- - date published: 2023-11-01T08:42:04.426875+00:00
  - user: None
  - tags: []
 
