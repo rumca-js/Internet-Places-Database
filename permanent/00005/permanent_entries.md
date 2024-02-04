@@ -1,3 +1,27 @@
+## The first Developer-Friendly Analytics tool - GitClear
+ - [https://www.gitclear.com](https://www.gitclear.com)
+ - date published: 2023-10-25T14:44:24.167415+00:00
+ - user: None
+ - tags: []
+
+## Level Up Coding
+ - [https://levelup.gitconnected.com](https://levelup.gitconnected.com)
+ - date published: 2023-10-25T14:44:29.186805+00:00
+ - user: None
+ - tags: []
+
+## Blog | Gitea Blog
+ - [https://blog.gitea.com](https://blog.gitea.com)
+ - date published: 2023-10-25T14:44:31.437032+00:00
+ - user: None
+ - tags: []
+
+## GitGuardian Blog
+ - [https://blog.gitguardian.com](https://blog.gitguardian.com)
+ - date published: 2023-10-25T14:44:40.974111+00:00
+ - user: None
+ - tags: []
+
 ## GitHub Accelerator
  - [https://accelerator.github.com](https://accelerator.github.com)
  - date published: 2023-10-25T14:44:43.194804+00:00
@@ -1582,6 +1606,12 @@
 ## NSB Home page
  - [https://www.guppylake.com](https://www.guppylake.com)
  - date published: 2023-12-22T07:17:34.852159+00:00
+ - user: None
+ - tags: []
+
+## GurtyBeats.com
+ - [https://www.gurtybeats.com](https://www.gurtybeats.com)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5119,6 +5149,12 @@
  - user: None
  - tags: ['personal']
 
+## izzaboo.com - home
+ - [https://izzaboo.com](https://izzaboo.com)
+ - date published: 1971-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## None
  - [https://izzodlaw.com](https://izzodlaw.com)
  - date published: 2024-01-09T02:40:22.379945+00:00
@@ -5851,6 +5887,12 @@
  - user: None
  - tags: ['personal']
 
+## Jeff McNeill Resume
+ - [https://jeffmcneill.com](https://jeffmcneill.com)
+ - date published: 2024-02-03T14:51:48.458143+00:00
+ - user: None
+ - tags: []
+
 ## Home | Jeff Nobbs
  - [https://www.jeffnobbs.com](https://www.jeffnobbs.com)
  - date published: 2023-10-25T08:46:33.428500+00:00
@@ -5958,46 +6000,4 @@
  - date published: 2023-12-23T19:27:02.724013+00:00
  - user: None
  - tags: ['personal']
-
-## Math ∩ Programming
- - [https://jeremykun.com](https://jeremykun.com)
- - date published: 2023-10-25T15:28:05.702522+00:00
- - user: None
- - tags: []
-
-## Jeremy Mikkola - Home
- - [https://jeremymikkola.com](https://jeremymikkola.com)
- - date published: 2023-10-25T09:20:59.043607+00:00
- - user: None
- - tags: ['personal']
-
-## Jeremy's Programming Blog
- - [https://www.jeremymorgan.com](https://www.jeremymorgan.com)
- - date published: 2023-10-25T15:28:07.381699+00:00
- - user: None
- - tags: []
-
-## Jeremy's Blog
- - [https://www.jeremyong.com](https://www.jeremyong.com)
- - date published: 2023-10-25T15:28:08.983378+00:00
- - user: None
- - tags: []
-
-## Jeremy W. Richter - Jeremy W. Richter
- - [https://www.jeremywrichter.com](https://www.jeremywrichter.com)
- - date published: 2024-01-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Jer Lance (dot com)
- - [https://jerlance.com](https://jerlance.com)
- - date published: 2023-12-20T01:00:20.704273+00:00
- - user: None
- - tags: ['personal']
-
-## Juan Ernesto Blog
- - [https://www.jernesto.com](https://www.jernesto.com)
- - date published: 2023-10-25T15:28:10.434639+00:00
- - user: None
- - tags: []
 

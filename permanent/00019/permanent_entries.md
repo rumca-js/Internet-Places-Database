@@ -1,3 +1,159 @@
+## Accelerating deployment of Arm-based solutions | Linaro
+ - [https://www.linaro.org](https://www.linaro.org)
+ - date published: 2023-10-25T21:38:54.212541+00:00
+ - user: None
+ - tags: []
+
+## LineageOS – LineageOS Android Distribution
+ - [https://lineageos.org](https://lineageos.org)
+ - date published: 2023-10-25T08:32:27.769540+00:00
+ - user: None
+ - tags: ['operating system', 'lineageos', 'android']
+
+## Linear Book Scanner - The open-source automatic book scanner
+ - [https://linearbookscanner.org](https://linearbookscanner.org)
+ - date published: 2023-10-25T08:36:34.572791+00:00
+ - user: None
+ - tags: []
+
+## Linebender
+ - [https://linebender.org](https://linebender.org)
+ - date published: 2023-04-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Linux Information Project (LINFO) Home Page
+ - [https://www.linfo.org](https://www.linfo.org)
+ - date published: 2023-10-25T21:38:55.368279+00:00
+ - user: None
+ - tags: []
+
+## Linux.org
+ - [https://www.linux.org](https://www.linux.org)
+ - date published: 2023-10-25T21:38:58.347661+00:00
+ - user: None
+ - tags: []
+
+## KVM
+ - [https://www.linux-kvm.org](https://www.linux-kvm.org)
+ - date published: 2023-10-25T21:39:00.493933+00:00
+ - user: None
+ - tags: []
+
+## Linux Containers Forum
+ - [https://discuss.linuxcontainers.org](https://discuss.linuxcontainers.org)
+ - date published: 2023-10-25T21:39:03.769630+00:00
+ - user: None
+ - tags: []
+
+## Linux Containers
+ - [https://linuxcontainers.org](https://linuxcontainers.org)
+ - date published: 2023-10-25T21:39:05.617056+00:00
+ - user: None
+ - tags: []
+
+## Show HN: LinuxDAW – Quality audio software for Linux
+ - [https://linuxdaw.org](https://linuxdaw.org)
+ - date published: 2023-12-30T15:21:12+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Linux From Scratch!
+ - [https://www.linuxfromscratch.org](https://www.linuxfromscratch.org)
+ - date published: 2023-10-25T21:39:07.168165+00:00
+ - user: None
+ - tags: []
+
+## LiteDB :: A .NET embedded NoSQL database
+ - [https://www.litedb.org](https://www.litedb.org)
+ - date published: 2023-10-25T21:39:07.941318+00:00
+ - user: None
+ - tags: []
+
+## Take a Book. Share a Book. - Little Free Library
+ - [https://littlefreelibrary.org](https://littlefreelibrary.org)
+ - date published: 2023-10-25T21:39:11.222918+00:00
+ - user: None
+ - tags: []
+
+## Live Action |  Pro-Life Advocacy for Dignity and Human Rights
+ - [https://www.liveaction.org](https://www.liveaction.org)
+ - date published: 2023-10-25T21:39:14.444748+00:00
+ - user: None
+ - tags: []
+
+## Living Code
+ - [https://livingcode.org](https://livingcode.org)
+ - date published: 2020-07-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## LKML.ORG - the Linux Kernel Mailing List Archive
+ - [https://lkml.org](https://lkml.org)
+ - date published: 2023-11-13T12:04:53.320666+00:00
+ - user: None
+ - tags: []
+
+## Universal and Transferable Attacks on Aligned Language Models
+ - [https://llm-attacks.org](https://llm-attacks.org)
+ - date published: 2023-10-25T21:39:17.051556+00:00
+ - user: None
+ - tags: []
+
+## GPU Utils ⚡️
+ - [https://gpus.llm-utils.org](https://gpus.llm-utils.org)
+ - date published: 2023-10-25T21:39:18.562208+00:00
+ - user: None
+ - tags: []
+
+## Home - LLM Utils
+ - [https://llm-utils.org](https://llm-utils.org)
+ - date published: 2023-10-25T21:39:20.535334+00:00
+ - user: None
+ - tags: []
+
+## The LLVM Project Blog
+ - [https://blog.llvm.org](https://blog.llvm.org)
+ - date published: 2023-12-12T23:37:43.090695+00:00
+ - user: None
+ - tags: []
+
+## LLVM Discussion Forums - Our community includes both users and developers of various compiler technologies within the LLVM project.
+ - [https://discourse.llvm.org](https://discourse.llvm.org)
+ - date published: 2023-10-25T21:39:24.567913+00:00
+ - user: None
+ - tags: []
+
+## The LLVM Compiler Infrastructure Project
+ - [https://llvm.org](https://llvm.org)
+ - date published: 2023-10-25T21:39:28.896311+00:00
+ - user: None
+ - tags: []
+
+## Download LLVM releases
+ - [https://releases.llvm.org](https://releases.llvm.org)
+ - date published: 2023-10-25T21:39:30.474866+00:00
+ - user: None
+ - tags: []
+
+## Loża-Matka "Kopernik"
+ - [https://lmkopernik.org](https://lmkopernik.org)
+ - date published: 2023-12-05T15:16:55+00:00
+ - user: rumpel
+ - tags: ['freemasonry']
+
+## LMSYS Org
+ - [https://lmsys.org](https://lmsys.org)
+ - date published: 2023-10-25T21:39:31.970567+00:00
+ - user: None
+ - tags: []
+
+## Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality | LMSYS Org
+ - [https://vicuna.lmsys.org](https://vicuna.lmsys.org)
+ - date published: 2023-10-25T21:39:33.956719+00:00
+ - user: None
+ - tags: []
+
 ## Opening the target...
  - [https://mw.lojban.org](https://mw.lojban.org)
  - date published: 2023-10-25T21:39:36.643198+00:00
@@ -1866,7 +2022,7 @@ Common Weakness Enumeration
  - [https://open-web-advocacy.org](https://open-web-advocacy.org)
  - date published: 2024-03-06T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['internet', 'community']
 
 ## https://open5gs.org
  - [https://open5gs.org](https://open5gs.org)
@@ -5129,6 +5285,12 @@ Common Weakness Enumeration
  - user: None
  - tags: ['social communicator']
 
+## Telegram Web
+ - [https://web.telegram.org](https://web.telegram.org)
+ - date published: 2024-02-03T08:18:34+00:00
+ - user: rumpel
+ - tags: []
+
 ## TempleOS
  - [https://templeos.org](https://templeos.org)
  - date published: 2023-10-27T16:37:36.694236+00:00
@@ -5842,166 +6004,4 @@ Common Weakness Enumeration
  - date published: 2023-11-27T12:21:06+00:00
  - user: rumpel
  - tags: ['uyghurs']
-
-## Home - UIC HIGHSPEED congress
- - [https://uichighspeed.org](https://uichighspeed.org)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## UK Research and Innovation
- - [https://www.ukri.org](https://www.ukri.org)
- - date published: 2023-12-07T17:40:19.222248+00:00
- - user: None
- - tags: ['organization']
-
-## Ultibo.org – Make something amazing
- - [https://ultibo.org](https://ultibo.org)
- - date published: 2023-10-25T22:16:12.188671+00:00
- - user: None
- - tags: []
-
-## U++ - Cross-Platform App Development Framework
- - [https://www.ultimatepp.org](https://www.ultimatepp.org)
- - date published: 2023-12-02T15:50:58.928912+00:00
- - user: None
- - tags: []
-
-## UN News | Global perspective Human stories
- - [https://news.un.org](https://news.un.org)
- - date published: 2023-10-25T22:16:15.307275+00:00
- - user: None
- - tags: []
-
-## Welcome to the United Nations
- - [https://www.un.org](https://www.un.org)
- - date published: 2023-10-25T22:16:21.032376+00:00
- - user: None
- - tags: []
-
-## 2023 Report - UNAIDS - Global Report 2023
- - [https://thepath.unaids.org](https://thepath.unaids.org)
- - date published: 2023-10-25T22:16:22.303503+00:00
- - user: None
- - tags: []
-
-## UNC Health & UNC School of Medicine Newsroom
- - [https://news.unchealthcare.org](https://news.unchealthcare.org)
- - date published: 2023-11-05T02:04:02.063047+00:00
- - user: None
- - tags: []
-
-## UNCTADstat
- - [https://unctadstat.unctad.org](https://unctadstat.unctad.org)
- - date published: 2024-01-10T21:16:07.763143+00:00
- - user: None
- - tags: []
-
-## Undark Magazine | Truth, Beauty, Science.
- - [https://undark.org](https://undark.org)
- - date published: 2023-10-25T10:40:08.530856+00:00
- - user: None
- - tags: []
-
-## OpenBSD Journal: A resource for the OpenBSD community
- - [https://undeadly.org](https://undeadly.org)
- - date published: 2023-10-25T22:16:23.799423+00:00
- - user: None
- - tags: []
-
-## OpenBSD Journal: A resource for the OpenBSD community
- - [https://www.undeadly.org](https://www.undeadly.org)
- - date published: 2023-10-25T10:15:21.266043+00:00
- - user: None
- - tags: []
-
-## The Underhanded C Contest
- - [https://www.underhanded-c.org](https://www.underhanded-c.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Underscore.js
- - [https://underscorejs.org](https://underscorejs.org)
- - date published: 2024-01-09T03:42:54.533314+00:00
- - user: None
- - tags: []
-
-## Understanding AI | Timothy B Lee | Substack
- - [https://www.understandingai.org](https://www.understandingai.org)
- - date published: 2023-10-25T22:16:26.229235+00:00
- - user: None
- - tags: []
-
-## UN Environment Document Repository Home
- - [https://wedocs.unep.org](https://wedocs.unep.org)
- - date published: 2024-01-09T03:42:56.537854+00:00
- - user: None
- - tags: []
-
-## UNEP - UN Environment Programme
- - [https://www.unep.org](https://www.unep.org)
- - date published: 2023-10-25T22:16:28.858183+00:00
- - user: None
- - tags: []
-
-## UNESCO : Building Peace through Education, Science and Culture, communication and information
- - [https://www.unesco.org](https://www.unesco.org)
- - date published: 2023-11-16T12:13:51.361275+00:00
- - user: None
- - tags: []
-
-## UNHCR, the UN Refugee Agency | UNHCR
- - [https://www.unhcr.org](https://www.unhcr.org)
- - date published: 2023-11-07T18:14:19.052073+00:00
- - user: None
- - tags: []
-
-## Unicon.org - the Unicon Programming Language Home Page
- - [http://unicon.org](http://unicon.org)
- - date published: 2023-10-25T22:16:30.161488+00:00
- - user: None
- - tags: []
-
-## UnifiedPush
- - [https://unifiedpush.org](https://unifiedpush.org)
- - date published: 2023-10-25T22:16:36.878388+00:00
- - user: None
- - tags: []
-
-## The Unison language
- - [https://www.unison-lang.org](https://www.unison-lang.org)
- - date published: 2023-10-25T22:16:43.435256+00:00
- - user: None
- - tags: []
-
-## United Way of the National Capital Area - Assistance for DC, MD & VA
- - [https://unitedwaynca.org](https://unitedwaynca.org)
- - date published: 2023-10-25T22:16:46.777544+00:00
- - user: None
- - tags: []
-
-## Universal Blue
- - [https://universal-blue.org](https://universal-blue.org)
- - date published: 2023-10-25T22:16:48.799969+00:00
- - user: None
- - tags: []
-
-## WelCOM to UNIX 50!
- - [https://unix50.org](https://unix50.org)
- - date published: 2024-01-09T03:42:59.961847+00:00
- - user: None
- - tags: []
-
-## https://www.unrwa.org
- - [https://www.unrwa.org](https://www.unrwa.org)
- - date published: 2023-11-04T00:46:39.532150+00:00
- - user: None
- - tags: []
-
-## UN Watch - Home
- - [https://unwatch.org](https://unwatch.org)
- - date published: 2023-11-06T21:10:36.734291+00:00
- - user: None
- - tags: []
 

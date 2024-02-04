@@ -1,3 +1,27 @@
+## Home - Double Your Freelancing
+ - [https://doubleyourfreelancing.com](https://doubleyourfreelancing.com)
+ - date published: 2024-01-02T03:35:18.481785+00:00
+ - user: None
+ - tags: []
+
+## Dr. Doug Belshaw | Open Strategist
+ - [https://dougbelshaw.com](https://dougbelshaw.com)
+ - date published: 2023-12-22T17:47:45.891466+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Douglas Self Site
+ - [http://www.douglas-self.com](http://www.douglas-self.com)
+ - date published: 2023-12-12T13:07:52.909466+00:00
+ - user: None
+ - tags: ['personal']
+
+## Doug Seven – Something can be learned in the course of observing things
+ - [https://dougseven.com](https://dougseven.com)
+ - date published: 2023-10-25T13:57:37.103486+00:00
+ - user: None
+ - tags: []
+
 ## https://www.douyin.com
  - [https://www.douyin.com](https://www.douyin.com)
  - date published: 2024-01-09T02:35:21.185525+00:00
@@ -3968,7 +3992,7 @@
  - [https://foeppel.com](https://foeppel.com)
  - date published: 2024-01-02T18:30:14.463579+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Fogknife
  - [https://fogknife.com](https://fogknife.com)
@@ -5974,29 +5998,5 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - [https://girlswhohack.com](https://girlswhohack.com)
  - date published: 2024-01-22T09:45:12+00:00
  - user: rumpel
- - tags: []
-
-## The first Developer-Friendly Analytics tool - GitClear
- - [https://www.gitclear.com](https://www.gitclear.com)
- - date published: 2023-10-25T14:44:24.167415+00:00
- - user: None
- - tags: []
-
-## Level Up Coding
- - [https://levelup.gitconnected.com](https://levelup.gitconnected.com)
- - date published: 2023-10-25T14:44:29.186805+00:00
- - user: None
- - tags: []
-
-## Blog | Gitea Blog
- - [https://blog.gitea.com](https://blog.gitea.com)
- - date published: 2023-10-25T14:44:31.437032+00:00
- - user: None
- - tags: []
-
-## GitGuardian Blog
- - [https://blog.gitguardian.com](https://blog.gitguardian.com)
- - date published: 2023-10-25T14:44:40.974111+00:00
- - user: None
  - tags: []
 

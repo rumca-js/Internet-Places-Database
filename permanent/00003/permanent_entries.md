@@ -1,3 +1,21 @@
+## thoughts by ch3ngl0rd ᕦʕ •ᴥ•ʔᕤ
+ - [https://www.ch3ngl0rd.com](https://www.ch3ngl0rd.com)
+ - date published: 2023-10-28T05:40:39.418464+00:00
+ - user: None
+ - tags: []
+
+## CHABAD WELCOME TENT – WARSAW GHETTO POLAND
+ - [https://chabad-tent.com](https://chabad-tent.com)
+ - date published: 2024-01-30T02:12:50.375701+00:00
+ - user: None
+ - tags: []
+
+## faq - Chad Nauseam Home
+ - [https://chadnauseam.com](https://chadnauseam.com)
+ - date published: 2023-10-25T13:20:12.854613+00:00
+ - user: None
+ - tags: []
+
 ## Chad Riden
  - [https://chadriden.com](https://chadriden.com)
  - date published: 2024-01-09T11:06:48.763243+00:00
@@ -464,7 +482,7 @@
  - [https://chrisjstott.com](https://chrisjstott.com)
  - date published: 2024-01-24T08:01:05.864817+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home - Blogomatano
  - [https://chriskiehl.com](https://chriskiehl.com)
@@ -4636,6 +4654,12 @@
  - user: None
  - tags: []
 
+## Home - Radiant Life Counselling
+ - [https://www.deganwalters.com](https://www.deganwalters.com)
+ - date published: 2022-12-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Degenerate Conic
  - [https://degenerateconic.com](https://degenerateconic.com)
  - date published: 2023-10-25T13:48:30.999460+00:00
@@ -5978,30 +6002,6 @@
 ## DoublePulsar
  - [https://doublepulsar.com](https://doublepulsar.com)
  - date published: 2023-10-25T14:24:29.697003+00:00
- - user: None
- - tags: []
-
-## Home - Double Your Freelancing
- - [https://doubleyourfreelancing.com](https://doubleyourfreelancing.com)
- - date published: 2024-01-02T03:35:18.481785+00:00
- - user: None
- - tags: []
-
-## Dr. Doug Belshaw | Open Strategist
- - [https://dougbelshaw.com](https://dougbelshaw.com)
- - date published: 2023-12-22T17:47:45.891466+00:00
- - user: None
- - tags: ['personal']
-
-## The Douglas Self Site
- - [http://www.douglas-self.com](http://www.douglas-self.com)
- - date published: 2023-12-12T13:07:52.909466+00:00
- - user: None
- - tags: ['personal']
-
-## Doug Seven – Something can be learned in the course of observing things
- - [https://dougseven.com](https://dougseven.com)
- - date published: 2023-10-25T13:57:37.103486+00:00
  - user: None
  - tags: []
 

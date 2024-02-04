@@ -1,3 +1,63 @@
+## ResearchHub | Open Science Community
+ - [https://www.researchhub.com](https://www.researchhub.com)
+ - date published: 2023-10-25T16:49:54.114014+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Research Professional News
+ - [https://www.researchprofessionalnews.com](https://www.researchprofessionalnews.com)
+ - date published: 2023-10-25T16:50:04.201997+00:00
+ - user: None
+ - tags: []
+
+## Resend
+ - [https://resend.com](https://resend.com)
+ - date published: 2023-10-25T16:50:10.173228+00:00
+ - user: None
+ - tags: []
+
+## Resident Contrarian | Substack
+ - [https://www.residentcontrarian.com](https://www.residentcontrarian.com)
+ - date published: 2023-10-25T16:50:13.160491+00:00
+ - user: None
+ - tags: []
+
+## Responscious Creative Studio
+ - [https://www.responscious.com](https://www.responscious.com)
+ - date published: 2024-01-07T04:14:46.975734+00:00
+ - user: None
+ - tags: []
+
+## Building a starter pack for an API-as-a-Service
+ - [https://www.resteasyapi.com](https://www.resteasyapi.com)
+ - date published: 2023-11-20T20:12:06+00:00
+ - user: None
+ - tags: []
+
+## RestorePrivacy | Your online privacy resource center
+ - [https://restoreprivacy.com](https://restoreprivacy.com)
+ - date published: 2023-10-25T16:50:18.686824+00:00
+ - user: None
+ - tags: []
+
+## The Best Free Online Resume Builder - ResumeBuilder.com
+ - [https://www.resumebuilder.com](https://www.resumebuilder.com)
+ - date published: 2023-10-25T16:50:20.501887+00:00
+ - user: None
+ - tags: []
+
+## RetailWire - Insights & Trends from Retail Industry Experts
+ - [https://retailwire.com](https://retailwire.com)
+ - date published: 2024-01-09T02:47:48.716736+00:00
+ - user: None
+ - tags: []
+
+## Retool | The fastest way to develop effective software.
+ - [https://retool.com](https://retool.com)
+ - date published: 2023-10-25T16:50:27.329954+00:00
+ - user: None
+ - tags: []
+
 ## https://retractionwatch.com
  - [https://retractionwatch.com](https://retractionwatch.com)
  - date published: 2023-12-13T03:59:08.828047+00:00
@@ -1076,7 +1136,7 @@
  - [https://ronzhyn.com](https://ronzhyn.com)
  - date published: 2023-12-03T01:43:15.181104+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## RorVsWild - All-in-one server monitoring for Ruby on Rails applications
  - [https://www.rorvswild.com](https://www.rorvswild.com)
@@ -1999,6 +2059,12 @@
 ## Savage Chickens - Cartoons on Sticky Notes by Doug Savage
  - [https://www.savagechickens.com](https://www.savagechickens.com)
  - date published: 2023-10-25T16:57:50.887747+00:00
+ - user: None
+ - tags: []
+
+## Save The Fans
+ - [https://www.savethefans.com](https://www.savethefans.com)
+ - date published: 2024-01-18T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3350,7 +3416,7 @@
  - [https://shorer.com](https://shorer.com)
  - date published: 2023-11-29T14:25:19.463201+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Book Summaries in Minutes
  - [https://shortsummarybook.com](https://shortsummarybook.com)
@@ -5399,6 +5465,12 @@
  - user: None
  - tags: []
 
+## Space Exploration Stack Exchange
+ - [https://space.stackexchange.com](https://space.stackexchange.com)
+ - date published: 2024-02-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Substrate and Polkadot Stack Exchange
  - [https://substrate.stackexchange.com](https://substrate.stackexchange.com)
  - date published: 2023-10-25T17:14:27.990996+00:00
@@ -5930,78 +6002,6 @@
 ## Steve Ridout
  - [https://steveridout.com](https://steveridout.com)
  - date published: 2023-10-25T17:17:20.743440+00:00
- - user: None
- - tags: []
-
-## https://www.stevestewartwilliams.com
- - [https://www.stevestewartwilliams.com](https://www.stevestewartwilliams.com)
- - date published: 2024-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Stewart Calculus Textbooks and Online Course Materials
- - [https://www.stewartcalculus.com](https://www.stewartcalculus.com)
- - date published: 2023-10-25T17:17:21.875785+00:00
- - user: None
- - tags: []
-
-## St George News – Southern Utah's Premier Free Local News
- - [https://www.stgeorgeutah.com](https://www.stgeorgeutah.com)
- - date published: 2023-11-05T13:08:52.220398+00:00
- - user: None
- - tags: []
-
-## Stitcher: Made for Podcasts
- - [https://www.stitcher.com](https://www.stitcher.com)
- - date published: 2023-12-13T15:41:49.176468+00:00
- - user: None
- - tags: []
-
-## St. Louis Post-Dispatch | Breaking News | | Read St. Louis, MO and Missouri breaking news. Get latest news, events and information on Missouri sports, weather, entertainment and lifestyles.
- - [https://www.stltoday.com](https://www.stltoday.com)
- - date published: 2023-10-25T17:17:29.361272+00:00
- - user: None
- - tags: []
-
-## STM Cyber Blog - R&D Team
- - [https://blog.stmcyber.com](https://blog.stmcyber.com)
- - date published: 2023-10-25T17:17:30.542563+00:00
- - user: None
- - tags: []
-
-## Created a free website that simplifies stock analysis
- - [https://stocknear.com](https://stocknear.com)
- - date published: 2023-12-10T15:05:06+00:00
- - user: None
- - tags: []
-
-## Stock Performer - Analytics for Photographers and Other Stock Producers
- - [https://www.stockperformer.com](https://www.stockperformer.com)
- - date published: 2023-10-25T17:17:31.473126+00:00
- - user: None
- - tags: []
-
-## Stonemaier Games – We believe in creating memorable, beautiful, fun games.
- - [https://stonemaiergames.com](https://stonemaiergames.com)
- - date published: 2023-10-25T17:17:35.039298+00:00
- - user: None
- - tags: []
-
-## Stone Pages • Web guide to Megalithic Europe
- - [https://stonepages.com](https://stonepages.com)
- - date published: 2023-11-15T17:43:52.195711+00:00
- - user: None
- - tags: ['hobby', 'stones']
-
-## Stonkys.com /
- - [https://www.stonkys.com](https://www.stonkys.com)
- - date published: 2023-10-25T08:48:03.199792+00:00
- - user: None
- - tags: ['personal']
-
-## Stop Buying Domain Names
- - [https://stopbuyingdomainnames.com](https://stopbuyingdomainnames.com)
- - date published: 2023-10-27T11:55:44.704033+00:00
  - user: None
  - tags: []
 

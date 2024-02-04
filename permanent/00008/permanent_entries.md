@@ -1,3 +1,63 @@
+## Home - NXTaltfoods
+ - [https://www.nxtaltfoods.com](https://www.nxtaltfoods.com)
+ - date published: 2023-10-25T16:23:37.700057+00:00
+ - user: None
+ - tags: []
+
+## Home | The New York Review of Books
+ - [https://www.nybooks.com](https://www.nybooks.com)
+ - date published: 2023-10-25T16:23:43.264499+00:00
+ - user: None
+ - tags: []
+
+## Cathy Grier aka NYC Subway Girl
+ - [https://www.nycsubwaygirl.com](https://www.nycsubwaygirl.com)
+ - date published: 2024-01-09T02:45:19.816614+00:00
+ - user: None
+ - tags: []
+
+## New York Daily News: New York News, Sports, Weather, Business & Things to Do
+ - [https://www.nydailynews.com](https://www.nydailynews.com)
+ - date published: 2023-10-25T11:06:03.850370+00:00
+ - user: None
+ - tags: []
+
+## New York Magazine
+ - [https://nymag.com](https://nymag.com)
+ - date published: 2023-10-25T10:37:51.311890+00:00
+ - user: None
+ - tags: []
+
+## New York Post – Breaking News, Top Headlines, Photos & Videos
+ - [https://nypost.com](https://nypost.com)
+ - date published: 2023-10-25T10:28:09.421567+00:00
+ - user: None
+ - tags: []
+
+## NYSC CDS | NYSC News Updates 2018, NYSC CDS News, Projects.
+ - [https://nysc-cds.com](https://nysc-cds.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## NYS Music - New York State's Music News Source
+ - [https://nysmusic.com](https://nysmusic.com)
+ - date published: 2023-10-25T10:17:28.556912+00:00
+ - user: None
+ - tags: []
+
+## The New York Sun
+ - [https://www.nysun.com](https://www.nysun.com)
+ - date published: 2023-11-15T15:36:07.334176+00:00
+ - user: None
+ - tags: []
+
+## The New York Times Web Archive
+ - [https://archive.nytimes.com](https://archive.nytimes.com)
+ - date published: 2023-10-25T16:23:44.901744+00:00
+ - user: None
+ - tags: []
+
 ## RSS Feeds - The New York Times
  - [https://rss.nytimes.com](https://rss.nytimes.com)
  - date published: 2023-10-25T10:50:36.082162+00:00
@@ -1257,7 +1317,7 @@
  - [https://www.ozrhodes.com](https://www.ozrhodes.com)
  - date published: 2023-12-20T00:59:19.143915+00:00
  - user: None
- - tags: ['personal']
+ - tags: ['personal', 'personal']
 
 ## Unified In-game and On-Chain Analytics
  - [https://p2eanalytics.com](https://p2eanalytics.com)
@@ -5942,66 +6002,6 @@ More!
 ## ReRender AI - Instant Renders for Architectures. Enhance your AutoCAD/Blender/Sketchup results!
  - [https://rerenderai.com](https://rerenderai.com)
  - date published: 2023-10-25T16:49:53.163297+00:00
- - user: None
- - tags: []
-
-## ResearchHub | Open Science Community
- - [https://www.researchhub.com](https://www.researchhub.com)
- - date published: 2023-10-25T16:49:54.114014+00:00
- - user: None
- - tags: []
-
-## Homepage - Research Professional News
- - [https://www.researchprofessionalnews.com](https://www.researchprofessionalnews.com)
- - date published: 2023-10-25T16:50:04.201997+00:00
- - user: None
- - tags: []
-
-## Resend
- - [https://resend.com](https://resend.com)
- - date published: 2023-10-25T16:50:10.173228+00:00
- - user: None
- - tags: []
-
-## Resident Contrarian | Substack
- - [https://www.residentcontrarian.com](https://www.residentcontrarian.com)
- - date published: 2023-10-25T16:50:13.160491+00:00
- - user: None
- - tags: []
-
-## Responscious Creative Studio
- - [https://www.responscious.com](https://www.responscious.com)
- - date published: 2024-01-07T04:14:46.975734+00:00
- - user: None
- - tags: []
-
-## Building a starter pack for an API-as-a-Service
- - [https://www.resteasyapi.com](https://www.resteasyapi.com)
- - date published: 2023-11-20T20:12:06+00:00
- - user: None
- - tags: []
-
-## RestorePrivacy | Your online privacy resource center
- - [https://restoreprivacy.com](https://restoreprivacy.com)
- - date published: 2023-10-25T16:50:18.686824+00:00
- - user: None
- - tags: []
-
-## The Best Free Online Resume Builder - ResumeBuilder.com
- - [https://www.resumebuilder.com](https://www.resumebuilder.com)
- - date published: 2023-10-25T16:50:20.501887+00:00
- - user: None
- - tags: []
-
-## RetailWire - Insights & Trends from Retail Industry Experts
- - [https://retailwire.com](https://retailwire.com)
- - date published: 2024-01-09T02:47:48.716736+00:00
- - user: None
- - tags: []
-
-## Retool | The fastest way to develop effective software.
- - [https://retool.com](https://retool.com)
- - date published: 2023-10-25T16:50:27.329954+00:00
  - user: None
  - tags: []
 

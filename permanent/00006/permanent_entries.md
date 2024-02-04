@@ -1,3 +1,45 @@
+## Math ∩ Programming
+ - [https://jeremykun.com](https://jeremykun.com)
+ - date published: 2023-10-25T15:28:05.702522+00:00
+ - user: None
+ - tags: []
+
+## Jeremy Mikkola - Home
+ - [https://jeremymikkola.com](https://jeremymikkola.com)
+ - date published: 2023-10-25T09:20:59.043607+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeremy's Programming Blog
+ - [https://www.jeremymorgan.com](https://www.jeremymorgan.com)
+ - date published: 2023-10-25T15:28:07.381699+00:00
+ - user: None
+ - tags: []
+
+## Jeremy's Blog
+ - [https://www.jeremyong.com](https://www.jeremyong.com)
+ - date published: 2023-10-25T15:28:08.983378+00:00
+ - user: None
+ - tags: []
+
+## Jeremy W. Richter - Jeremy W. Richter
+ - [https://www.jeremywrichter.com](https://www.jeremywrichter.com)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Jer Lance (dot com)
+ - [https://jerlance.com](https://jerlance.com)
+ - date published: 2023-12-20T01:00:20.704273+00:00
+ - user: None
+ - tags: ['personal']
+
+## Juan Ernesto Blog
+ - [https://www.jernesto.com](https://www.jernesto.com)
+ - date published: 2023-10-25T15:28:10.434639+00:00
+ - user: None
+ - tags: []
+
 ## Jerome Leroy | Composer
  - [https://www.jeromeleroy.com](https://www.jeromeleroy.com)
  - date published: 2023-10-25T08:46:34.625108+00:00
@@ -416,7 +458,7 @@
  - [https://joematzzie.com](https://joematzzie.com)
  - date published: 2023-11-29T15:49:24.713588+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Joe Previte's Site
  - [https://joeprevite.com](https://joeprevite.com)
@@ -788,7 +830,7 @@
  - [https://josephaleo.com](https://josephaleo.com)
  - date published: 2023-12-30T05:22:46.207312+00:00
  - user: None
- - tags: ['personal']
+ - tags: ['personal', 'personal']
 
 ## Joseph A. McCullough – Writer & Games Designer
  - [https://www.josephamccullough.com](https://www.josephamccullough.com)
@@ -830,7 +872,7 @@
  - [https://joshbicknell.com](https://joshbicknell.com)
  - date published: 2024-01-09T02:40:54.271568+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## The Site of Joshua Blais
  - [https://joshblais.com](https://joshblais.com)
@@ -1891,6 +1933,12 @@
 ## Kenton's House
  - [https://kentonshouse.com](https://kentonshouse.com)
  - date published: 2023-10-25T15:36:27.827605+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://kenwagatsuma.com](https://kenwagatsuma.com)
+ - date published: 2024-02-03T14:51:12.848442+00:00
  - user: None
  - tags: []
 
@@ -4137,7 +4185,7 @@
  - [https://linustechtips.com](https://linustechtips.com)
  - date published: 2023-10-25T11:28:17.081250+00:00
  - user: None
- - tags: ['youtuber']
+ - tags: ['hardware forum', 'youtuber', 'tech forum']
 
 ## » Linux Magazine
  - [https://www.linux-magazine.com](https://www.linux-magazine.com)
@@ -5952,52 +6000,4 @@ diversions.
  - date published: 2023-10-25T15:57:27.578876+00:00
  - user: None
  - tags: []
-
-## Martin Rue
- - [https://martinrue.com](https://martinrue.com)
- - date published: 2023-10-25T15:57:29.125644+00:00
- - user: None
- - tags: []
-
-## Martin Sketchley
- - [https://martinsketchley.com](https://martinsketchley.com)
- - date published: 2023-11-29T15:51:53.677176+00:00
- - user: None
- - tags: ['personal']
-
-## Martin Vigo - Personal hacking projects, writeups and tools
- - [https://www.martinvigo.com](https://www.martinvigo.com)
- - date published: 2023-11-16T16:28:38.549404+00:00
- - user: None
- - tags: []
-
-## Maruf Hops Maps – Practicing the immersed lifestyle
- - [https://www.maruf-hops-maps.com](https://www.maruf-hops-maps.com)
- - date published: 8211-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Marvel.com | The Official Site for Marvel Movies, Characters, Comics, TV
- - [https://www.marvel.com](https://www.marvel.com)
- - date published: 2023-10-25T13:53:09.244051+00:00
- - user: None
- - tags: ['captain america', 'movie studio', 'iron man', 'disney']
-
-## vi360 photography/video/digital imaging
- - [https://www.marxdesign.com](https://www.marxdesign.com)
- - date published: 2023-12-22T00:41:17.350208+00:00
- - user: None
- - tags: []
-
-## vi360 photography/video/digital imaging
- - [http://www.marxdesign.com](http://www.marxdesign.com)
- - date published: 2023-12-22T21:24:02.738903+00:00
- - user: None
- - tags: []
-
-## Mary Ann Mahoney - Content Writer, Book Editor, Author & Musician
- - [https://www.maryannmahoney.com](https://www.maryannmahoney.com)
- - date published: 2023-12-10T16:59:24.402245+00:00
- - user: None
- - tags: ['personal']
 

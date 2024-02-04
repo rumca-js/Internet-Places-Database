@@ -1,3 +1,9 @@
+## Entrepreneur's Edge | Ryan Waliany | Substack
+ - [https://www.edge.ceo](https://www.edge.ceo)
+ - date published: 2023-10-25T12:12:41.496123+00:00
+ - user: None
+ - tags: []
+
 ## ATLAS Experiment at CERN | ATLAS Experiment at CERN
  - [https://atlas.cern](https://atlas.cern)
  - date published: 2023-10-25T12:12:48.064999+00:00
@@ -573,6 +579,12 @@
  - date published: 2024-01-19T13:01:35.779185+00:00
  - user: None
  - tags: ['personal']
+
+## Colin James
+ - [https://compiler.club](https://compiler.club)
+ - date published: 2024-02-03T17:00:11.086206+00:00
+ - user: None
+ - tags: []
 
 ## https://www.creativedestruction.club
  - [https://www.creativedestruction.club](https://www.creativedestruction.club)
@@ -5985,18 +5997,6 @@
 ## Ariyh | Thomas McKinlay | Substack
  - [https://tips.ariyh.com](https://tips.ariyh.com)
  - date published: 2023-10-25T12:45:23.819225+00:00
- - user: None
- - tags: []
-
-## Domain error
- - [https://www.arjmahadevan.com](https://www.arjmahadevan.com)
- - date published: 2024-01-12T02:35:16.551632+00:00
- - user: None
- - tags: []
-
-## The Arkansas Democrat-Gazette - Arkansas' Best News Source
- - [https://www.arkansasonline.com](https://www.arkansasonline.com)
- - date published: 2023-10-25T09:30:16.619090+00:00
  - user: None
  - tags: []
 
