@@ -1,3 +1,87 @@
+## Jeff Kaufman
+ - [https://www.jefftk.com](https://www.jefftk.com)
+ - date published: 2023-10-25T09:20:58.479167+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://jefftriplett.com](https://jefftriplett.com)
+ - date published: 2023-11-29T17:06:17.889307+00:00
+ - user: None
+ - tags: ['personal']
+
+## Holy Ghost Stories – Faith, technology, and everything in between.
+ - [https://www.jeffwofford.com](https://www.jeffwofford.com)
+ - date published: 2023-11-10T23:40:06.837839+00:00
+ - user: None
+ - tags: []
+
+## Jellylade
+ - [https://app.jellylade.com](https://app.jellylade.com)
+ - date published: 2023-10-25T15:27:58.907008+00:00
+ - user: None
+ - tags: []
+
+## Literature Clock
+ - [https://literature-clock.jenevoldsen.com](https://literature-clock.jenevoldsen.com)
+ - date published: 2023-10-25T15:27:59.485399+00:00
+ - user: None
+ - tags: []
+
+## Jen Kuo | Advisor. Consultant. Guide.
+ - [https://jenkuo.com](https://jenkuo.com)
+ - date published: 2024-01-18T16:42:20.541388+00:00
+ - user: None
+ - tags: []
+
+## Jennifer Pepper—Marketing & Brand Leader
+ - [https://jennifer-pepper.com](https://jennifer-pepper.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://www.jenniferrossehamm.com
+ - [https://www.jenniferrossehamm.com](https://www.jenniferrossehamm.com)
+ - date published: 2024-01-10T22:40:55.887100+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeremiah Lee
+ - [https://www.jeremiahlee.com](https://www.jeremiahlee.com)
+ - date published: 2024-01-09T11:06:14.555745+00:00
+ - user: None
+ - tags: []
+
+## 👋🏻 - Jeremia on the internet
+ - [https://www.jeremiak.com](https://www.jeremiak.com)
+ - date published: 2023-10-25T15:28:00.104721+00:00
+ - user: None
+ - tags: []
+
+## WHY EDIFY
+ - [https://www.jeremyajorgensen.com](https://www.jeremyajorgensen.com)
+ - date published: 2023-11-29T15:48:09.478619+00:00
+ - user: None
+ - tags: ['personal']
+
+## JEREMY DEPRISCO - JEREMY DEPRISCO
+ - [https://www.jeremydeprisco.com](https://www.jeremydeprisco.com)
+ - date published: 2023-11-17T10:12:35.173571+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeremy Howlett | Entrepreneur, Marketer, Philosopher, Husband and Dad
+ - [https://jeremyhowlett.com](https://jeremyhowlett.com)
+ - date published: 2023-11-29T17:16:32.441165+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeremy Jeziorski
+ - [https://www.jeremyjeziorski.com](https://www.jeremyjeziorski.com)
+ - date published: 2023-12-23T19:27:02.724013+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Math ∩ Programming
  - [https://jeremykun.com](https://jeremykun.com)
  - date published: 2023-10-25T15:28:05.702522+00:00
@@ -532,6 +616,12 @@
  - user: None
  - tags: []
 
+## Work - John D. Nilles
+ - [https://www.johndnilles.com](https://www.johndnilles.com)
+ - date published: 2024-02-04T09:30:03.880250+00:00
+ - user: None
+ - tags: []
+
 ## John Doherty
  - [https://www.johnfdoherty.com](https://www.johnfdoherty.com)
  - date published: 2023-12-17T20:59:27.398614+00:00
@@ -608,7 +698,7 @@
  - [https://johnpaulbaric.com](https://johnpaulbaric.com)
  - date published: 2023-12-31T21:20:13.421240+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## John P. Weiss Artist and Writer
  - [https://johnpweiss.com](https://johnpweiss.com)
@@ -2489,6 +2579,12 @@
  - user: None
  - tags: []
 
+## kohina - old school game and demo music
+ - [https://kohina.com](https://kohina.com)
+ - date published: 2024-02-04T12:25:56+00:00
+ - user: rumpel
+ - tags: []
+
 ## Kohina Web Player
  - [https://player.kohina.com](https://player.kohina.com)
  - date published: 2023-10-25T15:38:24.816845+00:00
@@ -4325,6 +4421,12 @@
  - user: None
  - tags: ['personal']
 
+## Lisa Occhino
+ - [https://www.lisaocchino.com](https://www.lisaocchino.com)
+ - date published: 2024-02-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Lisa Qin
  - [https://lisaqin.com](https://lisaqin.com)
  - date published: 2024-01-06T08:53:50.575013+00:00
@@ -5896,108 +5998,6 @@ diversions.
 ## Home - Mark Simonson
  - [https://www.marksimonson.com](https://www.marksimonson.com)
  - date published: 2023-10-25T15:56:42.940461+00:00
- - user: None
- - tags: []
-
-## Mark Tarver
- - [https://www.marktarver.com](https://www.marktarver.com)
- - date published: 2023-10-25T15:56:44.809094+00:00
- - user: None
- - tags: []
-
-## Home - MarkTechPost
- - [https://www.marktechpost.com](https://www.marktechpost.com)
- - date published: 2023-10-25T15:56:53.242112+00:00
- - user: None
- - tags: []
-
-## MarktStash -Database of Growth Strategies
- - [https://marktstash.com](https://marktstash.com)
- - date published: 2023-10-25T15:56:58.027059+00:00
- - user: None
- - tags: []
-
-## Markuta
- - [https://markuta.com](https://markuta.com)
- - date published: 2023-10-25T15:56:58.729228+00:00
- - user: None
- - tags: []
-
-## Meridiem
- - [https://app.markwhen.com](https://app.markwhen.com)
- - date published: 2023-10-25T15:57:04.623513+00:00
- - user: None
- - tags: []
-
-## Artificially Intelligent
- - [https://markxu.com](https://markxu.com)
- - date published: 2023-10-25T15:57:06.149015+00:00
- - user: None
- - tags: []
-
-## https://marmelab.com
- - [https://marmelab.com](https://marmelab.com)
- - date published: 2024-01-09T02:43:05.796080+00:00
- - user: None
- - tags: []
-
-## Maroofy
- - [https://maroofy.com](https://maroofy.com)
- - date published: 2023-10-25T15:57:12.798153+00:00
- - user: None
- - tags: []
-
-## Marten – The pragmatic web framework
- - [https://martenframework.com](https://martenframework.com)
- - date published: 2023-10-25T15:57:13.770826+00:00
- - user: None
- - tags: []
-
-## Hi, I'm Martijn van Zwieten.
- - [https://www.martijnvanzwieten.com](https://www.martijnvanzwieten.com)
- - date published: 2024-01-11T20:48:06.417974+00:00
- - user: None
- - tags: []
-
-## Martin the Wanderer – Think different. Live different.
- - [https://www.martin-the-wanderer.com](https://www.martin-the-wanderer.com)
- - date published: 2023-12-13T06:05:45.388172+00:00
- - user: None
- - tags: ['personal']
-
-## Martin Capodici – Software Developer
- - [http://www.martincapodici.com](http://www.martincapodici.com)
- - date published: 2023-10-25T15:57:22.485782+00:00
- - user: None
- - tags: []
-
-## martineellis.com
- - [https://www.martineellis.com](https://www.martineellis.com)
- - date published: 2024-01-04T03:33:03.364718+00:00
- - user: None
- - tags: []
-
-## martinfowler.com
- - [https://martinfowler.com](https://martinfowler.com)
- - date published: 2023-10-25T15:57:25.358777+00:00
- - user: None
- - tags: []
-
-## martinfowler.com
- - [https://www.martinfowler.com](https://www.martinfowler.com)
- - date published: 2023-10-25T15:57:26.369682+00:00
- - user: None
- - tags: []
-
-## Portfolio | Martinheterjag
- - [https://martinheterjag.com](https://martinheterjag.com)
- - date published: 2023-10-28T20:35:29.202722+00:00
- - user: None
- - tags: []
-
-## Martin Kysel – Coding Challenges and More
- - [https://martinkysel.com](https://martinkysel.com)
- - date published: 2023-10-25T15:57:27.578876+00:00
  - user: None
  - tags: []
 

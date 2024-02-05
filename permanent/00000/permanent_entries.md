@@ -1216,6 +1216,12 @@
  - user: None
  - tags: []
 
+## Sketch Logo AI
+ - [https://www.sketchlogo.ai](https://www.sketchlogo.ai)
+ - date published: 2024-02-04T15:17:04.965374+00:00
+ - user: None
+ - tags: []
+
 ## Stay curious about wine tech | softwine
  - [https://www.softwine.ai](https://www.softwine.ai)
  - date published: 2023-10-25T11:42:48.387434+00:00
@@ -4157,6 +4163,12 @@
  - user: None
  - tags: []
 
+## Reese Richardson
+ - [https://reeserichardson.blog](https://reeserichardson.blog)
+ - date published: 2024-02-04T02:18:53.099471+00:00
+ - user: None
+ - tags: []
+
 ## home · Joseph Thacker
  - [https://rez0.blog](https://rez0.blog)
  - date published: 2023-10-25T12:01:04.204782+00:00
@@ -4186,6 +4198,12 @@
  - date published: 2023-10-25T09:01:55.034633+00:00
  - user: None
  - tags: ['personal']
+
+## Shyam's Blog
+ - [https://shyam.blog](https://shyam.blog)
+ - date published: 2024-01-29T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Smarter.Blog Newsletter | Mahesh | Substack
  - [https://newsletter.smarter.blog](https://newsletter.smarter.blog)
@@ -5979,24 +5997,6 @@
 ## Досье - Досье
  - [https://dossier.center](https://dossier.center)
  - date published: 2023-10-25T12:12:24.046539+00:00
- - user: None
- - tags: []
-
-## GMK Center – центр экспертизы о промышленности и ГМК
- - [https://gmk.center](https://gmk.center)
- - date published: 2023-12-19T20:46:40.065605+00:00
- - user: None
- - tags: []
-
-## The James G. Martin Center for Academic Renewal —
- - [https://www.jamesgmartin.center](https://www.jamesgmartin.center)
- - date published: 2023-10-25T12:12:29.460489+00:00
- - user: None
- - tags: []
-
-## Subdomain Center | ARPSyndicate
- - [https://www.subdomain.center](https://www.subdomain.center)
- - date published: 2023-10-25T12:12:36.739613+00:00
  - user: None
  - tags: []
 

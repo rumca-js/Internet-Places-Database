@@ -1,3 +1,21 @@
+## GMK Center – центр экспертизы о промышленности и ГМК
+ - [https://gmk.center](https://gmk.center)
+ - date published: 2023-12-19T20:46:40.065605+00:00
+ - user: None
+ - tags: []
+
+## The James G. Martin Center for Academic Renewal —
+ - [https://www.jamesgmartin.center](https://www.jamesgmartin.center)
+ - date published: 2023-10-25T12:12:29.460489+00:00
+ - user: None
+ - tags: []
+
+## Subdomain Center | ARPSyndicate
+ - [https://www.subdomain.center](https://www.subdomain.center)
+ - date published: 2023-10-25T12:12:36.739613+00:00
+ - user: None
+ - tags: []
+
 ## Entrepreneur's Edge | Ryan Waliany | Substack
  - [https://www.edge.ceo](https://www.edge.ceo)
  - date published: 2023-10-25T12:12:41.496123+00:00
@@ -1633,6 +1651,12 @@
 ## t.co / Twitter
  - [https://t.co](https://t.co)
  - date published: 2023-12-11T16:23:00.287075+00:00
+ - user: None
+ - tags: []
+
+## tabatinga ☾
+ - [https://tabatinga.co](https://tabatinga.co)
+ - date published: 2023-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4102,7 +4126,7 @@
  - [https://alfredmegally.com](https://alfredmegally.com)
  - date published: 2024-01-09T08:53:49.175773+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home - Algemeiner.com
  - [https://www.algemeiner.com](https://www.algemeiner.com)
@@ -5838,6 +5862,12 @@
  - user: None
  - tags: ['service maps']
 
+## Archaeoramblings
+ - [https://www.archaeoramblings.com](https://www.archaeoramblings.com)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## ArchDaily | Broadcasting Architecture Worldwide
  - [https://www.archdaily.com](https://www.archdaily.com)
  - date published: 2023-10-25T12:44:15.008885+00:00
@@ -5967,36 +5997,6 @@
 ## ariba.com - welcome
  - [https://service.ariba.com](https://service.ariba.com)
  - date published: 2023-12-11T17:43:11.111413+00:00
- - user: None
- - tags: []
-
-## Arielle Phoenix - SEO - Author - Business Enthusiast - Creator
- - [https://ariellephoenix.com](https://ariellephoenix.com)
- - date published: 2023-12-15T21:42:58.530437+00:00
- - user: None
- - tags: ['personal']
-
-## Balkanada Films – Film . Music Video . Dynamic Content Production
- - [https://arielnorling.com](https://arielnorling.com)
- - date published: 2024-01-09T01:36:47.034307+00:00
- - user: None
- - tags: []
-
-## Ari Gold Films - Official Website of Filmmaker Ari Gold
- - [https://arigoldfilms.com](https://arigoldfilms.com)
- - date published: 2023-12-02T21:17:07.140132+00:00
- - user: None
- - tags: ['personal']
-
-## Ari Koinuma
- - [https://arikoinuma.com](https://arikoinuma.com)
- - date published: 2024-01-11T07:52:35.164486+00:00
- - user: None
- - tags: ['personal']
-
-## Ariyh | Thomas McKinlay | Substack
- - [https://tips.ariyh.com](https://tips.ariyh.com)
- - date published: 2023-10-25T12:45:23.819225+00:00
  - user: None
  - tags: []
 

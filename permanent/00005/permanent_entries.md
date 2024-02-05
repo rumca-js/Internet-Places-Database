@@ -1,3 +1,87 @@
+## gigamonkeys
+ - [https://gigamonkeys.com](https://gigamonkeys.com)
+ - date published: 2023-10-25T14:43:59.564221+00:00
+ - user: None
+ - tags: []
+
+## Gilad Naor
+ - [https://blog.giladnaor.com](https://blog.giladnaor.com)
+ - date published: 2023-11-29T17:11:14.863947+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Gila Herald - Your trusted source for news of the Gila Valley and more.
+ - [https://gilaherald.com](https://gilaherald.com)
+ - date published: 2023-10-25T14:44:03.509703+00:00
+ - user: None
+ - tags: []
+
+## Gil Gildner
+ - [https://www.gilgildner.com](https://www.gilgildner.com)
+ - date published: 2023-11-29T15:43:54.277512+00:00
+ - user: None
+ - tags: ['personal']
+
+## Coming Soon
+ - [https://gilles-snowcat.com](https://gilles-snowcat.com)
+ - date published: 2024-01-09T00:12:02.177651+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | Gil's LotD
+ - [https://gilslotd.com](https://gilslotd.com)
+ - date published: 2023-10-25T14:44:09.338560+00:00
+ - user: None
+ - tags: []
+
+## ⌘I  Get Info
+ - [https://blog.gingerbeardman.com](https://blog.gingerbeardman.com)
+ - date published: 2023-10-25T14:44:12.754868+00:00
+ - user: None
+ - tags: []
+
+## Giovanni Dicanio's Blog
+ - [https://giodicanio.com](https://giodicanio.com)
+ - date published: 2024-01-11T05:10:09.506308+00:00
+ - user: None
+ - tags: []
+
+## Gioel Gio – Creative action researcher
+ - [https://gioelgio.com](https://gioelgio.com)
+ - date published: 2024-01-15T08:33:12.975028+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hi, I’m Giorgio. | Giorgio Pretto - UX Designer
+ - [https://www.giorgiopretto.com](https://www.giorgiopretto.com)
+ - date published: 2023-12-30T15:36:47.787569+00:00
+ - user: None
+ - tags: ['personal']
+
+## GioCities
+ - [https://blog.giovanh.com](https://blog.giovanh.com)
+ - date published: 2023-10-25T14:44:19.226981+00:00
+ - user: None
+ - tags: []
+
+## GIPHY - Be Animated
+ - [https://giphy.com](https://giphy.com)
+ - date published: 2023-10-25T11:35:31.306073+00:00
+ - user: None
+ - tags: ['images', 'memes']
+
+## GirlieMac! Blog
+ - [https://girliemac.com](https://girliemac.com)
+ - date published: 2023-10-25T09:20:33.038990+00:00
+ - user: None
+ - tags: ['personal']
+
+## Girls Who Hack
+ - [https://girlswhohack.com](https://girlswhohack.com)
+ - date published: 2024-01-22T09:45:12+00:00
+ - user: rumpel
+ - tags: []
+
 ## The first Developer-Friendly Analytics tool - GitClear
  - [https://www.gitclear.com](https://www.gitclear.com)
  - date published: 2023-10-25T14:44:24.167415+00:00
@@ -5916,88 +6000,4 @@
  - date published: 2024-01-06T08:55:43.170901+00:00
  - user: None
  - tags: []
-
-## Jeff Kaufman
- - [https://www.jefftk.com](https://www.jefftk.com)
- - date published: 2023-10-25T09:20:58.479167+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://jefftriplett.com](https://jefftriplett.com)
- - date published: 2023-11-29T17:06:17.889307+00:00
- - user: None
- - tags: ['personal']
-
-## Holy Ghost Stories – Faith, technology, and everything in between.
- - [https://www.jeffwofford.com](https://www.jeffwofford.com)
- - date published: 2023-11-10T23:40:06.837839+00:00
- - user: None
- - tags: []
-
-## Jellylade
- - [https://app.jellylade.com](https://app.jellylade.com)
- - date published: 2023-10-25T15:27:58.907008+00:00
- - user: None
- - tags: []
-
-## Literature Clock
- - [https://literature-clock.jenevoldsen.com](https://literature-clock.jenevoldsen.com)
- - date published: 2023-10-25T15:27:59.485399+00:00
- - user: None
- - tags: []
-
-## Jen Kuo | Advisor. Consultant. Guide.
- - [https://jenkuo.com](https://jenkuo.com)
- - date published: 2024-01-18T16:42:20.541388+00:00
- - user: None
- - tags: []
-
-## Jennifer Pepper—Marketing & Brand Leader
- - [https://jennifer-pepper.com](https://jennifer-pepper.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://www.jenniferrossehamm.com
- - [https://www.jenniferrossehamm.com](https://www.jenniferrossehamm.com)
- - date published: 2024-01-10T22:40:55.887100+00:00
- - user: None
- - tags: ['personal']
-
-## Jeremiah Lee
- - [https://www.jeremiahlee.com](https://www.jeremiahlee.com)
- - date published: 2024-01-09T11:06:14.555745+00:00
- - user: None
- - tags: []
-
-## 👋🏻 - Jeremia on the internet
- - [https://www.jeremiak.com](https://www.jeremiak.com)
- - date published: 2023-10-25T15:28:00.104721+00:00
- - user: None
- - tags: []
-
-## WHY EDIFY
- - [https://www.jeremyajorgensen.com](https://www.jeremyajorgensen.com)
- - date published: 2023-11-29T15:48:09.478619+00:00
- - user: None
- - tags: ['personal']
-
-## JEREMY DEPRISCO - JEREMY DEPRISCO
- - [https://www.jeremydeprisco.com](https://www.jeremydeprisco.com)
- - date published: 2023-11-17T10:12:35.173571+00:00
- - user: None
- - tags: ['personal']
-
-## Jeremy Howlett | Entrepreneur, Marketer, Philosopher, Husband and Dad
- - [https://jeremyhowlett.com](https://jeremyhowlett.com)
- - date published: 2023-11-29T17:16:32.441165+00:00
- - user: None
- - tags: ['personal']
-
-## Jeremy Jeziorski
- - [https://www.jeremyjeziorski.com](https://www.jeremyjeziorski.com)
- - date published: 2023-12-23T19:27:02.724013+00:00
- - user: None
- - tags: ['personal']
 

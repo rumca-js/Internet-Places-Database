@@ -1,3 +1,261 @@
+## The Tolkien Society
+ - [https://www.tolkiensociety.org](https://www.tolkiensociety.org)
+ - date published: 2024-01-23T10:56:57+00:00
+ - user: rumpel
+ - tags: ['tolkien']
+
+## Tom Murphy 7's Invincible Web Page
+ - [http://tom7.org](http://tom7.org)
+ - date published: 2023-10-25T22:15:02.094981+00:00
+ - user: None
+ - tags: []
+
+## FontCDN: Search and Proxy for Google web fonts
+ - [https://fontcdn.toolforge.org](https://fontcdn.toolforge.org)
+ - date published: 2023-10-25T22:15:02.996428+00:00
+ - user: None
+ - tags: []
+
+## Flavio Tordini
+ - [https://flavio.tordini.org](https://flavio.tordini.org)
+ - date published: 2023-11-27T13:35:29+00:00
+ - user: rumpel
+ - tags: ['youtube', 'minitube', 'personal']
+
+## Tor Blog | The Tor Project
+ - [https://blog.torproject.org](https://blog.torproject.org)
+ - date published: 2023-10-25T22:15:09.398883+00:00
+ - user: None
+ - tags: []
+
+## Tor Project Forum - Defend yourself against tracking and surveillance. Circumvent censorship.
+ - [https://forum.torproject.org](https://forum.torproject.org)
+ - date published: 2023-10-25T22:15:12.526435+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Tor Metrics
+ - [https://metrics.torproject.org](https://metrics.torproject.org)
+ - date published: 2023-10-25T22:15:13.678313+00:00
+ - user: None
+ - tags: []
+
+## The Tor Project | Privacy & Freedom Online
+ - [https://www.torproject.org](https://www.torproject.org)
+ - date published: 2023-10-30T14:40:32.920820+00:00
+ - user: None
+ - tags: ['privacy', 'dark web', 'tor']
+
+## TortoiseGit – Windows Shell Interface to Git
+ - [https://tortoisegit.org](https://tortoisegit.org)
+ - date published: 2023-10-31T12:01:44.737036+00:00
+ - user: None
+ - tags: ['open source', 'program']
+
+## Frontpage -- Terms of Service; Didn't Read
+ - [https://tosdr.org](https://tosdr.org)
+ - date published: 2023-10-25T22:15:19.624851+00:00
+ - user: None
+ - tags: []
+
+## Happy Birthday TOSEC! #tosecdev
+ - [https://www.tosecdev.org](https://www.tosecdev.org)
+ - date published: 2023-12-11T18:33:33.268854+00:00
+ - user: None
+ - tags: []
+
+## touchHLE
+ - [https://touchhle.org](https://touchhle.org)
+ - date published: 2023-10-25T22:15:20.558373+00:00
+ - user: None
+ - tags: []
+
+## Toy Skeleton
+ - [https://toyskeleton.org](https://toyskeleton.org)
+ - date published: 2023-11-29T14:44:19.281027+00:00
+ - user: None
+ - tags: ['personal']
+
+## Texas Public Radio | TPR
+ - [https://www.tpr.org](https://www.tpr.org)
+ - date published: 2023-10-25T22:15:25.876244+00:00
+ - user: None
+ - tags: []
+
+## Trinity Desktop Environment
+ - [https://www.trinitydesktop.org](https://www.trinitydesktop.org)
+ - date published: 2023-10-25T22:15:27.131626+00:00
+ - user: None
+ - tags: []
+
+## TripleA: An Open Source Turn Based Grand Strategy Game
+ - [https://triplea-game.org](https://triplea-game.org)
+ - date published: 2023-10-25T22:15:28.144410+00:00
+ - user: None
+ - tags: []
+
+## Home - Trisul Network Analytics
+ - [https://www.trisul.org](https://www.trisul.org)
+ - date published: 2023-10-25T11:29:06.015532+00:00
+ - user: None
+ - tags: []
+
+## -
+ - [https://triunetimes.org](https://triunetimes.org)
+ - date published: 2023-11-08T16:17:48.474181+00:00
+ - user: None
+ - tags: []
+
+## Home Page
+ - [https://www.trsearch.org](https://www.trsearch.org)
+ - date published: 2023-10-27T12:07:10.556271+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Valhalla’s Docs — Valhalla’s Docs  documentation
+ - [https://docs.trueelena.org](https://docs.trueelena.org)
+ - date published: 2023-12-02T05:06:12.411577+00:00
+ - user: None
+ - tags: []
+
+## https://trueelena.org
+ - [https://trueelena.org](https://trueelena.org)
+ - date published: 2023-12-02T09:10:35+00:00
+ - user: rumpel
+ - tags: []
+
+## News Home | Thomson Reuters Foundation News
+ - [https://news.trust.org](https://news.trust.org)
+ - date published: 2023-10-25T22:15:38.811272+00:00
+ - user: None
+ - tags: []
+
+## Truthout | Fearless Independent Journalism
+ - [https://truthout.org](https://truthout.org)
+ - date published: 2023-10-25T22:15:42.168983+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://tsoding.org](https://tsoding.org)
+ - date published: 2024-01-09T03:42:47.080474+00:00
+ - user: None
+ - tags: []
+
+## Tucson Festival of Books | Home
+ - [https://tucsonfestivalofbooks.org](https://tucsonfestivalofbooks.org)
+ - date published: 2024-01-23T19:05:26.753208+00:00
+ - user: None
+ - tags: []
+
+## Minnie's Home Page
+ - [https://minnie.tuhs.org](https://minnie.tuhs.org)
+ - date published: 2023-10-25T22:15:45.834689+00:00
+ - user: None
+ - tags: []
+
+## The Unix Heritage Society
+ - [https://www.tuhs.org](https://www.tuhs.org)
+ - date published: 2023-10-25T22:15:47.417509+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Tulsa Library
+ - [https://www.tulsalibrary.org](https://www.tulsalibrary.org)
+ - date published: 2023-10-27T10:21:07.270897+00:00
+ - user: None
+ - tags: ['library']
+
+## TurboWarp Desktop - Better offline editor for Scratch 3
+ - [https://desktop.turbowarp.org](https://desktop.turbowarp.org)
+ - date published: 2023-10-25T22:15:48.691606+00:00
+ - user: None
+ - tags: []
+
+## TV Tropes
+ - [https://tvtropes.org](https://tvtropes.org)
+ - date published: 2023-10-25T22:15:56.479437+00:00
+ - user: None
+ - tags: []
+
+## Two-Bit History
+ - [https://twobithistory.org](https://twobithistory.org)
+ - date published: 2023-10-25T22:15:57.521416+00:00
+ - user: None
+ - tags: []
+
+## 2 Player Games - TwoPlayerGames.org
+ - [https://www.twoplayergames.org](https://www.twoplayergames.org)
+ - date published: 2023-10-25T11:18:34.239862+00:00
+ - user: None
+ - tags: []
+
+## TypeAPI
+ - [https://typeapi.org](https://typeapi.org)
+ - date published: 2023-10-25T22:15:58.228065+00:00
+ - user: None
+ - tags: []
+
+## JavaScript With Syntax For Types.
+ - [https://www.typescriptlang.org](https://www.typescriptlang.org)
+ - date published: 2023-10-30T13:48:03.524384+00:00
+ - user: None
+ - tags: ['javascript', 'typescript']
+
+## Typesense | Fast, typo-tolerant open source search engine
+ - [https://typesense.org](https://typesense.org)
+ - date published: 2023-10-25T22:15:59.784891+00:00
+ - user: None
+ - tags: []
+
+## Typewritten Software - Retrotechnology Research Laboratory
+ - [http://www.typewritten.org](http://www.typewritten.org)
+ - date published: 2023-10-25T22:16:01.583832+00:00
+ - user: None
+ - tags: []
+
+## Matt Tytel
+ - [https://tytel.org](https://tytel.org)
+ - date published: 2023-11-26T06:05:54.913570+00:00
+ - user: None
+ - tags: []
+
+## UAWire
+ - [https://uawire.org](https://uawire.org)
+ - date published: 2024-01-02T18:25:41.964512+00:00
+ - user: None
+ - tags: []
+
+## Ubuntu MATE | For a retrospective future
+ - [https://ubuntu-mate.org](https://ubuntu-mate.org)
+ - date published: 2023-11-06T10:08:20.674734+00:00
+ - user: None
+ - tags: ['linux', 'operating system']
+
+## UCLA Health: Center for High Quality Health Care Services
+ - [https://www.uclahealth.org](https://www.uclahealth.org)
+ - date published: 2023-10-25T22:16:04.259788+00:00
+ - user: None
+ - tags: []
+
+## The Equation - Union of Concerned Scientists
+ - [https://blog.ucsusa.org](https://blog.ucsusa.org)
+ - date published: 2023-10-25T22:16:07.751665+00:00
+ - user: None
+ - tags: []
+
+## UF Health - University of Florida Health
+ - [https://ufhealth.org](https://ufhealth.org)
+ - date published: 2023-11-26T10:51:05.063033+00:00
+ - user: None
+ - tags: []
+
+## Uyghur Human Rights Project
+ - [https://uhrp.org](https://uhrp.org)
+ - date published: 2023-11-27T12:21:06+00:00
+ - user: rumpel
+ - tags: ['uyghurs']
+
 ## Home - UIC HIGHSPEED congress
  - [https://uichighspeed.org](https://uichighspeed.org)
  - date published: 2000-01-01T00:00:00+00:00
@@ -3147,6 +3405,12 @@ is forbidden
  - user: None
  - tags: ['catholic', 'christian']
 
+## Galeria Autorska Andrzeja Mleczki
+ - [https://mleczko.pl](https://mleczko.pl)
+ - date published: 2024-02-04T13:16:20+00:00
+ - user: rumpel
+ - tags: ['cartoons', 'comics strips']
+
 ## :: modules.pl :: modules.pl
  - [https://www.modules.pl](https://www.modules.pl)
  - date published: 2024-01-24T14:38:04+00:00
@@ -5741,270 +6005,6 @@ is forbidden
 ## https://www.businesstimes.com.sg
  - [https://www.businesstimes.com.sg](https://www.businesstimes.com.sg)
  - date published: 2023-10-25T22:37:56.906260+00:00
- - user: None
- - tags: []
-
-## CITROËN Singapore : Passenger Cars and Commercial Vehicles
- - [https://www.citroen.com.sg](https://www.citroen.com.sg)
- - date published: 2023-12-11T16:01:42.984836+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.ntu.edu.sg](https://www.ntu.edu.sg)
- - date published: 2023-11-18T13:29:25.952064+00:00
- - user: None
- - tags: []
-
-## https://medicine.nus.edu.sg
- - [https://medicine.nus.edu.sg](https://medicine.nus.edu.sg)
- - date published: 2023-11-16T13:52:13.001107+00:00
- - user: None
- - tags: []
-
-## BiblioAsia
- - [https://biblioasia.nlb.gov.sg](https://biblioasia.nlb.gov.sg)
- - date published: 2023-10-25T22:38:00.760584+00:00
- - user: None
- - tags: []
-
-## International News, Analysis, Politics, Business, Technology, Entertainment - IB Times SG Edition
- - [https://www.ibtimes.sg](https://www.ibtimes.sg)
- - date published: 2023-12-04T09:13:30.199869+00:00
- - user: None
- - tags: []
-
-## Mothership.SG - News from Singapore, Asia and around the world
- - [https://mothership.sg](https://mothership.sg)
- - date published: 2023-12-06T09:13:19.357127+00:00
- - user: None
- - tags: ['sinapore news', 'asia news']
-
-## when trees fall...
- - [https://blog.wtf.sg](https://blog.wtf.sg)
- - date published: 2023-10-25T22:38:01.640867+00:00
- - user: None
- - tags: []
-
-## Aakash Patel
- - [https://aaka.sh](https://aaka.sh)
- - date published: 2023-10-25T08:55:35.693568+00:00
- - user: None
- - tags: ['personal']
-
-## Alma
- - [https://www.alma.sh](https://www.alma.sh)
- - date published: 2023-10-25T22:38:01.970470+00:00
- - user: None
- - tags: []
-
-## Alyx Wijers
- - [https://alyx.sh](https://alyx.sh)
- - date published: 2023-12-02T08:30:28.363026+00:00
- - user: None
- - tags: []
-
-## Artemis Everfree
- - [https://artemis.sh](https://artemis.sh)
- - date published: 2023-10-25T08:55:44.400225+00:00
- - user: None
- - tags: ['personal']
-
-## Astral: Next-gen Python tooling
- - [https://astral.sh](https://astral.sh)
- - date published: 2023-10-25T22:38:03.500791+00:00
- - user: None
- - tags: []
-
-## Atuin - Magical Shell History
- - [https://atuin.sh](https://atuin.sh)
- - date published: 2024-01-10T08:42:47+00:00
- - user: rumpel
- - tags: ['open source', 'shell program']
-
-## Noah's Rug (5784) — Hanukkah of Data
- - [https://hanukkah.bluebird.sh](https://hanukkah.bluebird.sh)
- - date published: 2023-12-07T19:20:29.682884+00:00
- - user: None
- - tags: ['challnege', 'puzzle game', 'internet', 'programming', 'wtf']
-
-## Leo Gao
- - [https://bmk.sh](https://bmk.sh)
- - date published: 2023-10-25T22:38:04.762550+00:00
- - user: None
- - tags: []
-
-## erock's blog
- - [https://bower.sh](https://bower.sh)
- - date published: 2023-10-25T09:24:33.663418+00:00
- - user: None
- - tags: ['personal']
-
-## Bref – Simple and scalable PHP with serverless
- - [https://bref.sh](https://bref.sh)
- - date published: 2023-11-01T15:23:20.187581+00:00
- - user: None
- - tags: []
-
-## Homebrew — The Missing Package Manager for macOS (or Linux)
- - [https://brew.sh](https://brew.sh)
- - date published: 2023-10-25T22:38:06.165257+00:00
- - user: None
- - tags: []
-
-## Documentation — Homebrew Documentation
- - [https://docs.brew.sh](https://docs.brew.sh)
- - date published: 2023-10-25T22:38:07.697226+00:00
- - user: None
- - tags: []
-
-## Browsh
- - [https://www.brow.sh](https://www.brow.sh)
- - date published: 2024-01-17T07:56:37.169488+00:00
- - user: None
- - tags: []
-
-## Bun — A fast all-in-one JavaScript runtime
- - [https://bun.sh](https://bun.sh)
- - date published: 2023-10-25T22:38:10.782566+00:00
- - user: None
- - tags: []
-
-## Charm
- - [https://charm.sh](https://charm.sh)
- - date published: 2023-11-03T09:56:30.357523+00:00
- - user: None
- - tags: []
-
-## checksum.sh - Verify Every Install Script | checksum.sh
- - [https://checksum.sh](https://checksum.sh)
- - date published: 2023-10-25T22:38:11.607869+00:00
- - user: None
- - tags: []
-
-## copy's home
- - [https://copy.sh](https://copy.sh)
- - date published: 2023-10-25T22:38:12.223744+00:00
- - user: None
- - tags: ['personal']
-
-## Cursor - The AI-first Code Editor
- - [https://cursor.sh](https://cursor.sh)
- - date published: 2023-10-25T22:38:12.999026+00:00
- - user: None
- - tags: []
-
-## [Michał Sapka's website]
- - [https://d-s.sh](https://d-s.sh)
- - date published: 2023-10-25T09:24:36.592874+00:00
- - user: None
- - tags: ['personal']
-
-## DevPod - Open Source Dev-Environments-As-Code
- - [https://devpod.sh](https://devpod.sh)
- - date published: 2023-10-25T22:38:13.978640+00:00
- - user: None
- - tags: []
-
-## Jan Harasym on Svbtle
- - [https://blog.dijit.sh](https://blog.dijit.sh)
- - date published: 2024-01-09T03:46:50.814381+00:00
- - user: None
- - tags: []
-
-## Dmytro on Things
- - [https://dmytro.sh](https://dmytro.sh)
- - date published: 2023-10-25T22:38:14.858579+00:00
- - user: None
- - tags: []
-
-## Dub - Link Management for Modern Marketing Teams
- - [https://dub.sh](https://dub.sh)
- - date published: 2023-10-25T22:38:22.951450+00:00
- - user: None
- - tags: []
-
-## ./gibson.sh --blog
- - [https://blog.gibson.sh](https://blog.gibson.sh)
- - date published: 2023-10-25T09:24:37.801883+00:00
- - user: None
- - tags: ['personal']
-
-## Harlequin: The DuckDB IDE for Your Terminal.
- - [https://harlequin.sh](https://harlequin.sh)
- - date published: 2023-10-25T22:38:24.159361+00:00
- - user: None
- - tags: []
-
-## ian carroll
- - [https://ian.sh](https://ian.sh)
- - date published: 2023-10-25T22:38:25.169602+00:00
- - user: None
- - tags: []
-
-## j3s.sh
- - [https://j3s.sh](https://j3s.sh)
- - date published: 2023-10-25T22:38:25.955497+00:00
- - user: None
- - tags: []
-
-## Show HN: Jeeves – A Pythonic Alternative to GNU Make
- - [https://jeeves.sh](https://jeeves.sh)
- - date published: 2023-11-06T00:04:25+00:00
- - user: None
- - tags: []
-
-## Kaushik Gopal's Site
- - [https://kau.sh](https://kau.sh)
- - date published: 2023-10-25T08:55:45.952108+00:00
- - user: None
- - tags: ['personal']
-
-## Kunal Shah
- - [https://kunal.sh](https://kunal.sh)
- - date published: 2023-12-27T10:11:48.670216+00:00
- - user: None
- - tags: ['personal']
-
-## change is - matt.sh
- - [https://matt.sh](https://matt.sh)
- - date published: 2023-10-25T22:38:28.757019+00:00
- - user: None
- - tags: []
-
-## mkws themes
- - [https://t.mkws.sh](https://t.mkws.sh)
- - date published: 2023-10-25T22:38:29.732632+00:00
- - user: None
- - tags: []
-
-## mzrnsh › Home
- - [https://mzrn.sh](https://mzrn.sh)
- - date published: 2023-10-25T22:38:30.595869+00:00
- - user: None
- - tags: []
-
-## WHOIS
- - [https://whois.nic.sh](https://whois.nic.sh)
- - date published: 2024-01-09T03:46:58.737907+00:00
- - user: None
- - tags: []
-
-## nodb.sh
- - [https://nodb.sh](https://nodb.sh)
- - date published: 2023-10-25T22:38:32.548203+00:00
- - user: None
- - tags: []
-
-## Novel – Notion-style WYSIWYG editor with AI-powered autocompletions
- - [https://novel.sh](https://novel.sh)
- - date published: 2023-10-25T22:38:38.175820+00:00
- - user: None
- - tags: []
-
-## ntfy.sh | Send push notifications to your phone via PUT/POST
- - [https://ntfy.sh](https://ntfy.sh)
- - date published: 2023-10-25T22:38:40.020029+00:00
  - user: None
  - tags: []
 
