@@ -1,3 +1,45 @@
+## CelloJoe
+ - [https://cellojoe.com](https://cellojoe.com)
+ - date published: 2024-01-12T22:14:42.319164+00:00
+ - user: None
+ - tags: []
+
+## celsiusnetworth - Blockchain - tecnología del futuro
+ - [https://celsiusnetworth.com](https://celsiusnetworth.com)
+ - date published: 2023-10-25T13:19:52.333896+00:00
+ - user: None
+ - tags: []
+
+## CJ Cenizal
+ - [https://www.cenizal.com](https://www.cenizal.com)
+ - date published: 2023-10-25T13:19:56.379754+00:00
+ - user: None
+ - tags: []
+
+## censorine
+ - [https://censorine.com](https://censorine.com)
+ - date published: 2023-12-11T23:17:34.594077+00:00
+ - user: None
+ - tags: ['personal']
+
+## State College Breaking News & Sports | Centre Daily Times
+ - [https://www.centredaily.com](https://www.centredaily.com)
+ - date published: 2023-10-25T10:35:34.800217+00:00
+ - user: None
+ - tags: []
+
+## Cephalofair - Epic Strategy Awaits
+ - [https://cephalofair.com](https://cephalofair.com)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: rumpel
+ - tags: ['frostahaven', 'tabletop games', 'gloomhaven', 'forge war', 'board games']
+
+## Joshua Cerdenia, Composer
+ - [https://cerdenia.com](https://cerdenia.com)
+ - date published: 2023-11-29T16:21:34.257033+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Open Brains
  - [https://cerebralab.com](https://cerebralab.com)
  - date published: 2023-10-25T13:19:58.310239+00:00
@@ -194,7 +236,7 @@
  - [https://charliepecoraro.com](https://charliepecoraro.com)
  - date published: 2024-01-12T22:14:30.496627+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Charlotte Eiffel Lilith Buff | Official Homepage
  - [https://charlottebuff.com](https://charlottebuff.com)
@@ -4690,6 +4732,12 @@
  - user: None
  - tags: []
 
+## DEF CON Hacking Conference Online
+ - [https://www.defcononline.com](https://www.defcononline.com)
+ - date published: 2024-02-05T19:20:30.491695+00:00
+ - user: rumpel
+ - tags: ['hacking']
+
 ## Defector | The last good website.
  - [https://defector.com](https://defector.com)
  - date published: 2023-10-25T13:48:09.544452+00:00
@@ -5954,54 +6002,6 @@
 ## Don’t Buy Dell | A Dell Computers rant site. I know that a site dedicated to ranting about Dell is a bit ridiculous, but I feel inspired today to do something ridiculous.
  - [https://dontbuydell.com](https://dontbuydell.com)
  - date published: 2023-10-25T13:56:21.852764+00:00
- - user: None
- - tags: []
-
-## Don't Kill My App
- - [https://dontkillmyapp.com](https://dontkillmyapp.com)
- - date published: 2023-11-23T05:20:15+00:00
- - user: None
- - tags: []
-
-## https://doomedprojects.com
- - [https://doomedprojects.com](https://doomedprojects.com)
- - date published: 2024-01-09T02:35:19.895597+00:00
- - user: None
- - tags: []
-
-## Forums - Doomworld
- - [https://www.doomworld.com](https://www.doomworld.com)
- - date published: 2023-10-26T13:29:50.856360+00:00
- - user: None
- - tags: []
-
-## Products | DoorDash
- - [https://about.doordash.com](https://about.doordash.com)
- - date published: 2023-12-04T20:36:26.709144+00:00
- - user: None
- - tags: []
-
-## Dope Lemon | Dope Lemon
- - [https://dopelemon.com](https://dopelemon.com)
- - date published: 2023-11-13T11:15:37.323930+00:00
- - user: None
- - tags: ['music band']
-
-## Doppler | The #1 SecretOps Platform
- - [https://www.doppler.com](https://www.doppler.com)
- - date published: 2023-10-25T13:56:26.531730+00:00
- - user: None
- - tags: []
-
-## Blog — Dopt
- - [https://blog.dopt.com](https://blog.dopt.com)
- - date published: 2023-10-25T13:56:28.589294+00:00
- - user: None
- - tags: []
-
-## Dopt — Ship self-serve product onboarding and education, your way
- - [https://www.dopt.com](https://www.dopt.com)
- - date published: 2023-10-25T13:56:31.214889+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,69 @@
+## Jeff Geerling - Author and Software Developer in St. Louis, MO
+ - [https://www.jeffgeerling.com](https://www.jeffgeerling.com)
+ - date published: 2024-01-22T09:22:43.071064+00:00
+ - user: None
+ - tags: ['personal', 'youtuber']
+
+## Jeff Gothelf - coaching, consulting, training & keynotes
+ - [https://jeffgothelf.com](https://jeffgothelf.com)
+ - date published: 2023-12-11T16:24:47.478969+00:00
+ - user: None
+ - tags: []
+
+## Jeff Huang · Computer Science at Brown University
+ - [https://jeffhuang.com](https://jeffhuang.com)
+ - date published: 2023-10-25T15:27:58.164772+00:00
+ - user: None
+ - tags: []
+
+## Home - Jeffikus
+ - [https://jeffikus.com](https://jeffikus.com)
+ - date published: 2024-01-27T18:00:01.443689+00:00
+ - user: None
+ - tags: []
+
+## Jeff Ryan
+ - [https://jeffjryan.com](https://jeffjryan.com)
+ - date published: 2023-12-12T04:53:22.246788+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeff MacKinnon's Homepage
+ - [https://jeffmackinnon.com](https://jeffmackinnon.com)
+ - date published: 2024-02-05T20:57:27.042068+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeff McNeill Resume
+ - [https://jeffmcneill.com](https://jeffmcneill.com)
+ - date published: 2024-02-03T14:51:48.458143+00:00
+ - user: None
+ - tags: []
+
+## Home | Jeff Nobbs
+ - [https://www.jeffnobbs.com](https://www.jeffnobbs.com)
+ - date published: 2023-10-25T08:46:33.428500+00:00
+ - user: None
+ - tags: ['personal']
+
+## Work | jeff-parker-cooks
+ - [https://www.jeffparkercooks.com](https://www.jeffparkercooks.com)
+ - date published: 2023-11-29T15:44:34.183948+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeff Sandquist – Just a farmer.
+ - [https://www.jeffsandquist.com](https://www.jeffsandquist.com)
+ - date published: 2023-10-25T09:20:57.411695+00:00
+ - user: None
+ - tags: ['personal']
+
+## 仿生猫不会梦见电子猫粮 — To make each day count.
+ - [https://jefftay.com](https://jefftay.com)
+ - date published: 2024-01-06T08:55:43.170901+00:00
+ - user: None
+ - tags: []
+
 ## Jeff Kaufman
  - [https://www.jefftk.com](https://www.jefftk.com)
  - date published: 2023-10-25T09:20:58.479167+00:00
@@ -5788,7 +5854,7 @@ diversions.
  - [https://www.marchoffman.com](https://www.marchoffman.com)
  - date published: 2024-01-15T22:20:21.341302+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Marc Koran - Skillstacking
  - [https://marckoran.com](https://marckoran.com)
@@ -5932,72 +5998,6 @@ diversions.
 ## Stock market : Quotes & Financial news - MarketScreener
  - [https://www.marketscreener.com](https://www.marketscreener.com)
  - date published: 2024-01-09T02:42:57.012734+00:00
- - user: None
- - tags: []
-
-## MarketWatch: Stock Market News - Financial News - MarketWatch
- - [https://www.marketwatch.com](https://www.marketwatch.com)
- - date published: 2023-10-25T10:57:58.274767+00:00
- - user: None
- - tags: []
-
-## Mark Gukov – Software engineer 👨🏻‍💻 with over a decade of experience, primarily in e-commerce 🛒 and payments 💳
- - [https://markgukov.com](https://markgukov.com)
- - date published: 2024-01-11T07:51:55.652234+00:00
- - user: None
- - tags: []
-
-## Mark Marshall
- - [https://www.markmarshall.com](https://www.markmarshall.com)
- - date published: 2024-01-14T17:11:57.067129+00:00
- - user: None
- - tags: []
-
-## Mark McClure, writer
- - [https://markmccluretoday.com](https://markmccluretoday.com)
- - date published: 2024-01-26T22:23:12.913501+00:00
- - user: None
- - tags: []
-
-## Mark Mosher Multimedia
- - [https://markmoshermusic.com](https://markmoshermusic.com)
- - date published: 2024-01-23T03:27:23.327248+00:00
- - user: None
- - tags: []
-
-## Marko
- - [https://markojs.com](https://markojs.com)
- - date published: 2023-10-25T15:56:37.194167+00:00
- - user: None
- - tags: []
-
-## Marko Masnjak - Product Designer
- - [https://markomasnjak.com](https://markomasnjak.com)
- - date published: 2024-01-09T00:11:32.347317+00:00
- - user: None
- - tags: []
-
-## Markprompt | AI infrastructure for customer experience teams
- - [https://markprompt.com](https://markprompt.com)
- - date published: 2023-10-25T15:56:38.195582+00:00
- - user: None
- - tags: []
-
-## markround.com
- - [https://www.markround.com](https://www.markround.com)
- - date published: 2023-10-25T08:47:12.220324+00:00
- - user: None
- - tags: ['personal']
-
-## Tech Blog
- - [https://tech.marksblogg.com](https://tech.marksblogg.com)
- - date published: 2023-10-25T15:56:40.316031+00:00
- - user: None
- - tags: []
-
-## Home - Mark Simonson
- - [https://www.marksimonson.com](https://www.marksimonson.com)
- - date published: 2023-10-25T15:56:42.940461+00:00
  - user: None
  - tags: []
 

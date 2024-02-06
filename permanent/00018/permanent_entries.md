@@ -1,3 +1,203 @@
+## Special Projects from APM Reports
+ - [https://features.apmreports.org](https://features.apmreports.org)
+ - date published: 2023-10-25T20:58:27.503889+00:00
+ - user: None
+ - tags: []
+
+## Apollo in Real Time
+ - [https://apolloinrealtime.org](https://apolloinrealtime.org)
+ - date published: 2023-10-25T20:58:29.154906+00:00
+ - user: None
+ - tags: []
+
+## The App Fair Project | appfair.org
+ - [https://appfair.org](https://appfair.org)
+ - date published: 2023-10-25T20:58:30.062730+00:00
+ - user: None
+ - tags: []
+
+## Physical Review Journals
+ - [https://journals.aps.org](https://journals.aps.org)
+ - date published: 2023-10-25T20:58:32.037342+00:00
+ - user: None
+ - tags: []
+
+## Physics - spotlighting exceptional research
+ - [https://physics.aps.org](https://physics.aps.org)
+ - date published: 2023-10-25T20:58:34.154258+00:00
+ - user: None
+ - tags: []
+
+## APS Physics | American Physical Society
+ - [https://www.aps.org](https://www.aps.org)
+ - date published: 2023-10-25T20:58:37.121202+00:00
+ - user: None
+ - tags: []
+
+## APT Browse - Home
+ - [https://www.apt-browse.org](https://www.apt-browse.org)
+ - date published: 2023-10-25T20:58:43.373403+00:00
+ - user: None
+ - tags: []
+
+## Beijing Air Pollution: Real-time Air Quality Index
+ - [https://aqicn.org](https://aqicn.org)
+ - date published: 2023-10-25T20:58:48.998676+00:00
+ - user: None
+ - tags: []
+
+## Archaeology - Archaeology Magazine
+ - [https://www.archaeology.org](https://www.archaeology.org)
+ - date published: 2023-10-27T12:06:24.724348+00:00
+ - user: None
+ - tags: []
+
+## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
+ - [https://archive.org](https://archive.org)
+ - date published: 2023-10-25T09:29:04.093943+00:00
+ - user: None
+ - tags: ['internet archive']
+
+## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
+ - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
+ - date published: 2023-10-27T14:37:50+00:00
+ - user: rumpel
+ - tags: ['magazine', 'retro']
+
+## Internet Archive Blogs | A blog from the team at archive.org
+ - [https://blog.archive.org](https://blog.archive.org)
+ - date published: 2023-10-25T09:29:16.005203+00:00
+ - user: None
+ - tags: []
+
+## The Great 78 Project – Community Preservation, Research, Discovery of 78rpm Records
+ - [https://great78.archive.org](https://great78.archive.org)
+ - date published: 2023-10-27T12:06:31.660655+00:00
+ - user: None
+ - tags: []
+
+## Directory listing for ia600700.us.archive.org
+ - [https://ia600700.us.archive.org](https://ia600700.us.archive.org)
+ - date published: 2023-10-25T20:59:13.402630+00:00
+ - user: None
+ - tags: []
+
+## Directory listing for ia601406.us.archive.org
+ - [https://ia601406.us.archive.org](https://ia601406.us.archive.org)
+ - date published: 2023-10-25T20:59:19.795275+00:00
+ - user: None
+ - tags: []
+
+## Directory listing for ia601707.us.archive.org
+ - [https://ia601707.us.archive.org](https://ia601707.us.archive.org)
+ - date published: 2023-10-25T20:59:20.976004+00:00
+ - user: None
+ - tags: []
+
+## Directory listing for ia601808.us.archive.org
+ - [https://ia601808.us.archive.org](https://ia601808.us.archive.org)
+ - date published: 2023-10-25T20:59:22.280884+00:00
+ - user: None
+ - tags: []
+
+## Directory listing for ia801508.us.archive.org
+ - [https://ia801508.us.archive.org](https://ia801508.us.archive.org)
+ - date published: 2023-10-25T20:59:23.511795+00:00
+ - user: None
+ - tags: []
+
+## Directory listing for ia804605.us.archive.org
+ - [https://ia804605.us.archive.org](https://ia804605.us.archive.org)
+ - date published: 2023-10-25T20:59:24.951539+00:00
+ - user: None
+ - tags: []
+
+## Directory listing for ia903105.us.archive.org
+ - [https://ia903105.us.archive.org](https://ia903105.us.archive.org)
+ - date published: 2023-10-25T20:59:26.153617+00:00
+ - user: None
+ - tags: []
+
+## Internet Archive
+ - [https://mastodon.archive.org](https://mastodon.archive.org)
+ - date published: 2023-10-24T20:13:30.645813+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Internet Archive Scholar
+ - [https://scholar.archive.org](https://scholar.archive.org)
+ - date published: 2023-10-25T20:59:27.635866+00:00
+ - user: None
+ - tags: []
+
+## Wayback Machine
+ - [https://web.archive.org](https://web.archive.org)
+ - date published: 2023-10-25T09:29:18.969501+00:00
+ - user: None
+ - tags: ['internet archive']
+
+## Back2Roots
+ - [https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl](https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl)
+ - date published: 2023-11-02T10:36:12+00:00
+ - user: rumpel
+ - tags: []
+
+## Archive-It - 
+  
+		Web Archiving Services for Libraries and Archives
+ - [https://archive-it.org](https://archive-it.org)
+ - date published: 2024-01-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ArchiveTeam Warrior
+ - [https://tracker.archiveteam.org](https://tracker.archiveteam.org)
+ - date published: 2023-11-25T05:59:37.137970+00:00
+ - user: None
+ - tags: []
+
+## Archiveteam
+ - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
+ - date published: 2023-11-25T06:19:37.367056+00:00
+ - user: None
+ - tags: []
+
+## Arch Linux
+ - [https://archlinux.org](https://archlinux.org)
+ - date published: 2023-10-25T08:32:04.840346+00:00
+ - user: None
+ - tags: ['operating system']
+
+## Arch Linux Forums
+ - [https://bbs.archlinux.org](https://bbs.archlinux.org)
+ - date published: 2023-10-25T20:59:28.398072+00:00
+ - user: None
+ - tags: []
+
+## What can I do for Arch Linux?
+ - [https://whatcanidofor.archlinux.org](https://whatcanidofor.archlinux.org)
+ - date published: 2023-10-25T20:59:29.334535+00:00
+ - user: None
+ - tags: []
+
+## ArchWiki
+ - [https://wiki.archlinux.org](https://wiki.archlinux.org)
+ - date published: 2023-11-01T08:44:11.744107+00:00
+ - user: None
+ - tags: []
+
+## Arch Mission Foundation - Preserving humanity forever, in space and on Earth.
+ - [https://www.archmission.org](https://www.archmission.org)
+ - date published: 2023-11-01T08:44:12.919349+00:00
+ - user: None
+ - tags: []
+
+## https://ardour.org
+ - [https://ardour.org](https://ardour.org)
+ - date published: 2023-10-25T20:59:31.008744+00:00
+ - user: None
+ - tags: []
+
 ## Ardour
  - [https://discourse.ardour.org](https://discourse.ardour.org)
  - date published: 2024-01-29T00:00:00+00:00
@@ -2233,9 +2433,39 @@
  - user: None
  - tags: []
 
+## DEF CON Hacking Conference Home
+ - [https://defcon.org](https://defcon.org)
+ - date published: 2024-02-05T09:21:34+00:00
+ - user: rumpel
+ - tags: ['conference', 'event', 'hacking']
+
+## forum.defcon.org
+ - [https://forum.defcon.org](https://forum.defcon.org)
+ - date published: 2024-02-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## The DEF CON® Media Server - Archives of the conferences
  - [https://media.defcon.org](https://media.defcon.org)
- - date published: 2023-10-25T21:13:50.784512+00:00
+ - date published: 2024-02-05T19:19:52.136849+00:00
+ - user: None
+ - tags: ['hacking']
+
+## DEF CON merchandise shop
+ - [https://shop.defcon.org](https://shop.defcon.org)
+ - date published: 2024-02-05T17:23:18.325780+00:00
+ - user: None
+ - tags: []
+
+## DEF CON Security Training
+ - [https://training.defcon.org](https://training.defcon.org)
+ - date published: 2024-02-05T17:23:16.947188+00:00
+ - user: None
+ - tags: []
+
+## forum.defcon.org
+ - [https://defcongroups.org](https://defcongroups.org)
+ - date published: 2024-02-05T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2380,6 +2610,12 @@
 ## Deep Learning Systems
  - [https://dlsyscourse.org](https://dlsyscourse.org)
  - date published: 2023-10-25T21:14:57.710621+00:00
+ - user: None
+ - tags: []
+
+## https://dmoz.org
+ - [https://dmoz.org](https://dmoz.org)
+ - date published: 2024-02-05T17:23:42.498509+00:00
  - user: None
  - tags: []
 
@@ -5044,6 +5280,12 @@
  - user: None
  - tags: []
 
+## InfoCon.org
+ - [https://infocon.org](https://infocon.org)
+ - date published: 2024-02-05T00:00:00+00:00
+ - user: rumpel
+ - tags: ['tutorials', 'hacking']
+
 ## https://pubsonline.informs.org
  - [https://pubsonline.informs.org](https://pubsonline.informs.org)
  - date published: 2023-11-17T13:27:50.735817+00:00
@@ -5770,246 +6012,6 @@ Free, Portable, Scriptable, Transport-Independent Communications Software.
 Hosted by Panix.com.
  - [https://www.kermitproject.org](https://www.kermitproject.org)
  - date published: 2023-10-25T21:36:15.806979+00:00
- - user: None
- - tags: []
-
-## Kernel.org Bugzilla Main Page
- - [https://bugzilla.kernel.org](https://bugzilla.kernel.org)
- - date published: 2023-10-25T21:36:18.126215+00:00
- - user: None
- - tags: []
-
-## Kernel.org git repositories
- - [https://git.kernel.org](https://git.kernel.org)
- - date published: 2023-10-25T21:36:22.264353+00:00
- - user: None
- - tags: []
-
-## The Linux Kernel Archives
- - [https://kernel.org](https://kernel.org)
- - date published: 2023-11-06T10:02:37.263414+00:00
- - user: None
- - tags: ['linux']
-
-## public-inbox listing
- - [https://lore.kernel.org](https://lore.kernel.org)
- - date published: 2023-10-25T21:36:24.705702+00:00
- - user: None
- - tags: []
-
-## mirrors.kernel.org
- - [https://mirrors.edge.kernel.org](https://mirrors.edge.kernel.org)
- - date published: 2023-10-25T21:36:25.751314+00:00
- - user: None
- - tags: []
-
-## people.kernel.org Reader
- - [https://people.kernel.org](https://people.kernel.org)
- - date published: 2023-10-25T21:36:30.389450+00:00
- - user: None
- - tags: []
-
-## A kernel-based root solution for Android | KernelSU
- - [https://kernelsu.org](https://kernelsu.org)
- - date published: 2023-10-25T21:36:36.612083+00:00
- - user: None
- - tags: []
-
-## WordPress › Error
- - [http://blog.kevtris.org](http://blog.kevtris.org)
- - date published: 2023-10-25T21:36:37.992822+00:00
- - user: None
- - tags: []
-
-## KEXP 90.3 FM - Where the Music Matters
- - [https://kexp.org](https://kexp.org)
- - date published: 2024-01-22T12:40:00+00:00
- - user: rumpel
- - tags: ['music', 'radio']
-
-## KFF Health News
- - [https://kffhealthnews.org](https://kffhealthnews.org)
- - date published: 2023-12-03T18:38:29.362939+00:00
- - user: None
- - tags: []
-
-## Права людини в Україні — сайт Харківської правозахисної групи
- - [https://khpg.org](https://khpg.org)
- - date published: 2023-12-19T08:14:20.221086+00:00
- - user: None
- - tags: []
-
-## The Khronos Group Inc
- - [https://www.khronos.org](https://www.khronos.org)
- - date published: 2023-10-25T21:36:40.765055+00:00
- - user: None
- - tags: []
-
-## KIANMENG.ORG
- - [https://www.kianmeng.org](https://www.kianmeng.org)
- - date published: 2024-01-27T17:53:19.855192+00:00
- - user: None
- - tags: []
-
-## Documentation | KiCad
- - [https://docs.kicad.org](https://docs.kicad.org)
- - date published: 2023-10-25T21:36:41.762036+00:00
- - user: None
- - tags: []
-
-## KiCad EDA - Schematic Capture & PCB Design Software
- - [https://www.kicad.org](https://www.kicad.org)
- - date published: 2023-10-25T21:36:43.199325+00:00
- - user: None
- - tags: []
-
-## Detexify LaTeX handwritten symbol recognition
- - [https://detexify.kirelabs.org](https://detexify.kirelabs.org)
- - date published: 2023-11-15T01:02:24.623426+00:00
- - user: None
- - tags: []
-
-## Welcome to Kiwix Server
- - [https://library.kiwix.org](https://library.kiwix.org)
- - date published: 2023-10-25T21:36:43.855326+00:00
- - user: None
- - tags: []
-
-## Kevin Kelly – Over the long term, the future is decided by optimists
- - [https://kk.org](https://kk.org)
- - date published: 2023-10-25T21:36:46.122026+00:00
- - user: None
- - tags: []
-
-## WebGPU GPT Model Demo
- - [https://www.kmeans.org](https://www.kmeans.org)
- - date published: 2023-10-25T21:36:46.471227+00:00
- - user: None
- - tags: []
-
-## Mark J. Nelson
- - [https://www.kmjn.org](https://www.kmjn.org)
- - date published: 2023-10-25T21:36:47.730721+00:00
- - user: None
- - tags: []
-
-## KMUW - Homepage | KMUW
- - [https://www.kmuw.org](https://www.kmuw.org)
- - date published: 2023-11-09T13:45:32.889287+00:00
- - user: None
- - tags: []
-
-## | Knight First Amendment Institute
- - [https://knightcolumbia.org](https://knightcolumbia.org)
- - date published: 2023-10-25T21:36:54.362080+00:00
- - user: None
- - tags: []
-
-## Knight Foundation
- - [https://knightfoundation.org](https://knightfoundation.org)
- - date published: 2023-10-25T21:37:00.753387+00:00
- - user: None
- - tags: []
-
-## KNKX Public Radio | Jazz, Blues & NPR News | KNKX Public Radio
- - [https://www.knkx.org](https://www.knkx.org)
- - date published: 2023-10-25T21:37:06.340326+00:00
- - user: None
- - tags: []
-
-## Knowable Magazine
- - [https://knowablemagazine.org](https://knowablemagazine.org)
- - date published: 2023-10-25T21:37:11.035991+00:00
- - user: None
- - tags: []
-
-## Knowing Machines
- - [https://knowingmachines.org](https://knowingmachines.org)
- - date published: 2023-10-30T22:57:52.177182+00:00
- - user: None
- - tags: []
-
-## Home Page of Marat Fayzullin
- - [https://fms.komkon.org](https://fms.komkon.org)
- - date published: 2023-10-25T21:37:12.156811+00:00
- - user: None
- - tags: []
-
-## Origami by Michał Kosmulski
- - [https://origami.kosmulski.org](https://origami.kosmulski.org)
- - date published: 2023-10-25T21:37:13.563028+00:00
- - user: None
- - tags: []
-
-## Kotlin Programming Language
- - [https://kotlinlang.org](https://kotlinlang.org)
- - date published: 2023-12-11T12:12:45+00:00
- - user: rumpel
- - tags: ['kotlin', 'programming language']
-
-## kottke.org - home of fine hypertext products
- - [https://kottke.org](https://kottke.org)
- - date published: 2023-10-25T09:24:05.372537+00:00
- - user: None
- - tags: ['personal']
-
-## KPBS Homepage | KPBS Public Media
- - [https://www.kpbs.org](https://www.kpbs.org)
- - date published: 2023-10-25T21:37:17.991746+00:00
- - user: None
- - tags: []
-
-## KQED | News, Radio, Podcasts, TV | Public Media for Northern California
- - [https://www.kqed.org](https://www.kqed.org)
- - date published: 2023-10-25T21:37:32.208784+00:00
- - user: None
- - tags: []
-
-## Krita Fund | Digital Painting. Creative Freedom.
- - [https://fund.krita.org](https://fund.krita.org)
- - date published: 2023-10-25T21:37:38.421533+00:00
- - user: None
- - tags: []
-
-## Krita
- - [https://krita.org](https://krita.org)
- - date published: 2023-10-25T08:33:48.431626+00:00
- - user: None
- - tags: ['program', 'open source']
-
-## Krusader - Twin panel file management for your desktop
- - [https://krusader.org](https://krusader.org)
- - date published: 2023-10-30T13:59:36.700036+00:00
- - user: None
- - tags: ['program', 'open source', 'krusader']
-
-## Kubuntu | Friendly Computing
- - [https://kubuntu.org](https://kubuntu.org)
- - date published: 2023-11-06T10:07:58.071509+00:00
- - user: None
- - tags: ['linux', 'operating system']
-
-## NPR Utah
- - [https://www.kuer.org](https://www.kuer.org)
- - date published: 2023-11-02T09:42:18.848119+00:00
- - user: None
- - tags: []
-
-## KUNR Public Radio: Northern Nevada and the Eastern Sierra
- - [https://www.kunr.org](https://www.kunr.org)
- - date published: 2023-10-25T21:37:42.573020+00:00
- - user: None
- - tags: []
-
-## KUOW - KUOW Public Radio
- - [https://kuow.org](https://kuow.org)
- - date published: 2023-10-25T21:37:47.724694+00:00
- - user: None
- - tags: []
-
-## KUOW Public Radio
- - [https://www.kuow.org](https://www.kuow.org)
- - date published: 2023-11-15T11:19:14.665369+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,129 @@
+## Stats, Maps n Pix
+ - [https://www.statsmapsnpix.com](https://www.statsmapsnpix.com)
+ - date published: 2023-10-25T17:16:02.812082+00:00
+ - user: None
+ - tags: []
+
+## Show HN: I built a tool to get "Your app was approved/rejected " alerts on Slack
+ - [https://statused.com](https://statused.com)
+ - date published: 2023-11-09T09:51:26+00:00
+ - user: None
+ - tags: []
+
+## Stay SaaSy | Keeping it SaaSy
+ - [https://staysaasy.com](https://staysaasy.com)
+ - date published: 2023-10-25T17:16:04.075504+00:00
+ - user: None
+ - tags: []
+
+## https://www.steadipulse.com
+ - [https://www.steadipulse.com](https://www.steadipulse.com)
+ - date published: 2023-10-25T17:16:04.897773+00:00
+ - user: None
+ - tags: []
+
+## Steam Community
+ - [https://steamcommunity.com](https://steamcommunity.com)
+ - date published: 2023-11-05T19:13:40.009701+00:00
+ - user: None
+ - tags: []
+
+## Steam Deck
+ - [https://www.steamdeck.com](https://www.steamdeck.com)
+ - date published: 2023-10-27T12:54:20.650329+00:00
+ - user: None
+ - tags: ['product']
+
+## Steam Store
+ - [https://store.steampowered.com](https://store.steampowered.com)
+ - date published: 2023-10-24T20:12:11.678324+00:00
+ - user: None
+ - tags: ['game store', 'gatekeeper']
+
+## Steamship
+ - [https://www.steamship.com](https://www.steamship.com)
+ - date published: 2023-10-25T17:16:11.048919+00:00
+ - user: None
+ - tags: []
+
+## https://cdn.cloudflare.steamstatic.com
+ - [https://cdn.cloudflare.steamstatic.com](https://cdn.cloudflare.steamstatic.com)
+ - date published: 2024-01-09T02:49:27.393282+00:00
+ - user: None
+ - tags: []
+
+## Simplified EDI, now with flat pricing - Stedi
+ - [https://www.stedi.com](https://www.stedi.com)
+ - date published: 2023-10-25T17:16:12.750079+00:00
+ - user: None
+ - tags: []
+
+## Steemit
+ - [https://steemit.com](https://steemit.com)
+ - date published: 2023-10-25T17:16:19.491738+00:00
+ - user: None
+ - tags: []
+
+## Stefan Abi-Karam
+ - [https://stefanabikaram.com](https://stefanabikaram.com)
+ - date published: 2023-10-25T17:16:20.232528+00:00
+ - user: None
+ - tags: []
+
+## Developer, writer and speaker | Stefan Judis Web Development
+ - [https://www.stefanjudis.com](https://www.stefanjudis.com)
+ - date published: 2023-10-25T17:16:21.789433+00:00
+ - user: None
+ - tags: []
+
+## Stefan Koopmanschap
+ - [https://stefankoopmanschap.com](https://stefankoopmanschap.com)
+ - date published: 2024-01-15T14:06:24.517252+00:00
+ - user: None
+ - tags: []
+
+## Hello, I’m Ste Grainer. » SteGrainer.com
+ - [https://stegrainer.com](https://stegrainer.com)
+ - date published: 2023-12-13T20:59:04.125988+00:00
+ - user: None
+ - tags: ['personal']
+
+## steipete's blog
+ - [https://steipete.com](https://steipete.com)
+ - date published: 2023-10-25T17:16:23.057157+00:00
+ - user: None
+ - tags: []
+
+## Official Global Website
+ - [https://www.stellantis.com](https://www.stellantis.com)
+ - date published: 2023-12-11T16:09:49.916021+00:00
+ - user: None
+ - tags: []
+
+## Steno Research - The Independent Macro Research Platform
+ - [https://stenoresearch.com](https://stenoresearch.com)
+ - date published: 2023-10-25T17:16:30.954448+00:00
+ - user: None
+ - tags: []
+
+## Step CI Documentation | Step CI Docs
+ - [https://docs.stepci.com](https://docs.stepci.com)
+ - date published: 2023-10-25T17:16:32.298822+00:00
+ - user: None
+ - tags: []
+
+## Step CI — Open-source API Test Automation
+ - [https://stepci.com](https://stepci.com)
+ - date published: 2023-10-25T17:16:34.681107+00:00
+ - user: None
+ - tags: []
+
+## Steph Ango
+ - [https://stephanango.com](https://stephanango.com)
+ - date published: 2023-10-25T17:16:36.144916+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Steph Ango
  - [https://stephango.com](https://stephango.com)
  - date published: 2023-10-25T17:16:37.377748+00:00
@@ -4720,6 +4846,12 @@
  - user: None
  - tags: []
 
+## Temu Poland | Explore the Latest Clothing, Beauty, Home, Jewelry & More
+ - [https://www.temu.com](https://www.temu.com)
+ - date published: 2024-02-05T19:23:29.592455+00:00
+ - user: rumpel
+ - tags: ['shop']
+
 ## Tenacious D - The Official Website!
  - [https://tenaciousd.com](https://tenaciousd.com)
  - date published: 2023-11-01T09:33:17.217029+00:00
@@ -5864,138 +5996,6 @@
 ## Breaking News Today, Top Headlines, Live Updates | The Hindu
  - [https://www.thehindu.com](https://www.thehindu.com)
  - date published: 2023-10-25T10:45:05.654304+00:00
- - user: None
- - tags: []
-
-## Business Financial, Economy, Market, Stock - News & Updates | The Hindu BusinessLine
- - [https://www.thehindubusinessline.com](https://www.thehindubusinessline.com)
- - date published: 2023-10-25T17:35:19.405660+00:00
- - user: None
- - tags: []
-
-## The History Blog
- - [https://www.thehistoryblog.com](https://www.thehistoryblog.com)
- - date published: 2023-10-25T17:35:27.586648+00:00
- - user: None
- - tags: []
-
-## The History of the Web
- - [https://thehistoryoftheweb.com](https://thehistoryoftheweb.com)
- - date published: 2023-10-25T11:14:27.332034+00:00
- - user: None
- - tags: []
-
-## HR Magazine – Human Resources articles, updates and insights for HR leaders
- - [https://www.thehrdigest.com](https://www.thehrdigest.com)
- - date published: 2023-12-28T20:05:16.994681+00:00
- - user: None
- - tags: []
-
-## The IF Life
- - [https://theiflife.com](https://theiflife.com)
- - date published: 2023-10-25T17:35:29.793250+00:00
- - user: None
- - tags: []
-
-## The Information
- - [https://www.theinformation.com](https://www.theinformation.com)
- - date published: 2023-10-25T17:35:34.711500+00:00
- - user: None
- - tags: []
-
-## The Inner Dolphin
- - [https://theinnerdolphin.com](https://theinnerdolphin.com)
- - date published: 2023-11-29T13:56:20.737199+00:00
- - user: None
- - tags: []
-
-## Insane - TheInsaneApp.com
- - [https://www.theinsaneapp.com](https://www.theinsaneapp.com)
- - date published: 2023-10-25T17:35:37.951848+00:00
- - user: None
- - tags: []
-
-## The Intercept
- - [https://theintercept.com](https://theintercept.com)
- - date published: 2023-10-25T10:29:00.612300+00:00
- - user: None
- - tags: []
-
-## The Intrinsic Perspective | Erik Hoel | Substack
- - [https://www.theintrinsicperspective.com](https://www.theintrinsicperspective.com)
- - date published: 2023-12-09T05:59:14.893338+00:00
- - user: None
- - tags: []
-
-## https://www.thejc.com
- - [https://www.thejc.com](https://www.thejc.com)
- - date published: 2023-10-30T20:00:00.128988+00:00
- - user: None
- - tags: []
-
-## Thejesh GN ⏚ ತೇಜೇಶ್ ಜಿ.ಎನ್
- - [https://thejeshgn.com](https://thejeshgn.com)
- - date published: 2024-01-19T13:01:15.066415+00:00
- - user: None
- - tags: []
-
-## thejorgemedina | Jorge Medina | Substack
- - [https://newsletter.thejorgemedina.com](https://newsletter.thejorgemedina.com)
- - date published: 2023-10-27T11:55:47.114642+00:00
- - user: None
- - tags: []
-
-## The Justice Gap – A magazine about law & justice – and the difference between the two
- - [https://www.thejusticegap.com](https://www.thejusticegap.com)
- - date published: 2023-10-25T17:35:41.354720+00:00
- - user: None
- - tags: []
-
-## thekeesh.com
- - [https://thekeesh.com](https://thekeesh.com)
- - date published: 2024-01-15T08:33:59.816945+00:00
- - user: None
- - tags: []
-
-## The Labby
- - [https://thelabby.com](https://thelabby.com)
- - date published: 2023-11-24T18:44:41.055733+00:00
- - user: None
- - tags: []
-
-## The Lamp Magazine | Home Page
- - [https://thelampmagazine.com](https://thelampmagazine.com)
- - date published: 2023-10-25T17:35:45.158460+00:00
- - user: None
- - tags: []
-
-## https://www.thelancet.com
- - [https://www.thelancet.com](https://www.thelancet.com)
- - date published: 2023-10-25T10:11:22.609313+00:00
- - user: None
- - tags: []
-
-## theLAnd
- - [https://thelandmag.com](https://thelandmag.com)
- - date published: 2023-10-25T17:35:49.568464+00:00
- - user: None
- - tags: []
-
-## The LawDog Files
- - [https://thelawdogfiles.com](https://thelawdogfiles.com)
- - date published: 2023-10-25T17:35:54.122209+00:00
- - user: None
- - tags: []
-
-## The Life of Kenneth
- - [https://blog.thelifeofkenneth.com](https://blog.thelifeofkenneth.com)
- - date published: 2023-10-25T17:35:58.459927+00:00
- - user: None
- - tags: []
-
-## The Light Herder and the Fractal Time Machine
- - [https://www.thelightherder.com](https://www.thelightherder.com)
- - date published: 2024-01-06T19:31:40+00:00
  - user: None
  - tags: []
 

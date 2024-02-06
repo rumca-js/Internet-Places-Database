@@ -1,3 +1,171 @@
+## Personal Ramblings – Persönliches dies-und-das
+ - [https://patrick.georgi.family](https://patrick.georgi.family)
+ - date published: 2023-10-25T19:12:38.756579+00:00
+ - user: None
+ - tags: []
+
+## MGR.FARM - serwis branżowy dla farmaceutów
+ - [https://mgr.farm](https://mgr.farm)
+ - date published: 2023-10-25T19:12:44.760001+00:00
+ - user: None
+ - tags: []
+
+## Orb.Farm
+ - [https://orb.farm](https://orb.farm)
+ - date published: 2023-10-25T19:12:45.231890+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science | Aalto University
+ - [https://users.ics.aalto.fi](https://users.ics.aalto.fi)
+ - date published: 2023-10-25T19:12:48.987236+00:00
+ - user: None
+ - tags: []
+
+## WeChatGPT+ now with 8% less censorship!
+ - [https://future.attejuvonen.fi](https://future.attejuvonen.fi)
+ - date published: 2023-10-25T19:12:50.280628+00:00
+ - user: None
+ - tags: []
+
+## Citroën Suomi
+ - [https://www.citroen.fi](https://www.citroen.fi)
+ - date published: 2023-12-11T16:01:21.717152+00:00
+ - user: None
+ - tags: []
+
+## https://www.curve.fi
+ - [https://www.curve.fi](https://www.curve.fi)
+ - date published: 2024-01-09T03:29:28.812882+00:00
+ - user: None
+ - tags: []
+
+## AfterDawn
+ - [https://dawn.fi](https://dawn.fi)
+ - date published: 2023-10-25T19:13:02.974882+00:00
+ - user: None
+ - tags: []
+
+## WWW.NIC.FUNET.FI
+ - [https://www.funet.fi](https://www.funet.fi)
+ - date published: 2023-10-25T19:13:04.150075+00:00
+ - user: None
+ - tags: []
+
+## Home - gekkio.fi
+ - [https://gekkio.fi](https://gekkio.fi)
+ - date published: 2023-10-25T19:13:04.942208+00:00
+ - user: None
+ - tags: []
+
+## Sähköä, kaukolämpöä ja kaukojäähdytystä luotettavasti
+ - [https://www.helen.fi](https://www.helen.fi)
+ - date published: 2023-11-10T16:23:29.663051+00:00
+ - user: None
+ - tags: []
+
+## Computer Science | Faculty of Science | University of Helsinki
+ - [https://www.cs.helsinki.fi](https://www.cs.helsinki.fi)
+ - date published: 2023-12-01T13:53:30+00:00
+ - user: rumpel
+ - tags: ['university']
+
+## University of Helsinki
+ - [https://www.helsinki.fi](https://www.helsinki.fi)
+ - date published: 2023-11-07T12:03:41.332278+00:00
+ - user: None
+ - tags: ['university']
+
+## News from Finland "Helsinki Times"
+ - [https://www.helsinkitimes.fi](https://www.helsinkitimes.fi)
+ - date published: 2023-10-25T19:13:07.329659+00:00
+ - user: None
+ - tags: []
+
+## Uutiset | HS.fi
+ - [https://www.hs.fi](https://www.hs.fi)
+ - date published: 2023-10-25T19:13:11.550836+00:00
+ - user: None
+ - tags: []
+
+## Henri Sivonen's pages
+ - [https://hsivonen.fi](https://hsivonen.fi)
+ - date published: 2023-10-25T19:13:14.938905+00:00
+ - user: None
+ - tags: []
+
+## Blog - Henri Bergius
+ - [https://bergie.iki.fi](https://bergie.iki.fi)
+ - date published: 2023-10-25T19:13:20.818448+00:00
+ - user: None
+ - tags: []
+
+## The homepage of Jani Tarvainen - progressively balding salaryman
+ - [https://janit.iki.fi](https://janit.iki.fi)
+ - date published: 2023-11-29T15:52:34.712117+00:00
+ - user: None
+ - tags: ['personal']
+
+## The X-Copy Shrine
+ - [http://jope.fi/xcopy/index.html](http://jope.fi/xcopy/index.html)
+ - date published: 2023-11-02T10:48:33+00:00
+ - user: rumpel
+ - tags: ['x-copy', 'amiga']
+
+## https://jope.fi
+ - [https://jope.fi](https://jope.fi)
+ - date published: 2024-01-11T00:42:53.136432+00:00
+ - user: None
+ - tags: []
+
+## Jyväskylän yliopisto
+ - [https://www.jyu.fi](https://www.jyu.fi)
+ - date published: 2023-10-25T19:13:28.421480+00:00
+ - user: None
+ - tags: []
+
+## blog.liw.fi
+ - [https://blog.liw.fi](https://blog.liw.fi)
+ - date published: 2023-10-25T19:13:29.587685+00:00
+ - user: None
+ - tags: []
+
+## Oulun yliopisto
+ - [https://www.oulu.fi](https://www.oulu.fi)
+ - date published: 2023-11-24T11:44:02.061683+00:00
+ - user: None
+ - tags: []
+
+## petterikallio - Never Stop Learning
+ - [https://www.petterikallio.fi](https://www.petterikallio.fi)
+ - date published: 2023-12-30T05:22:24.492522+00:00
+ - user: None
+ - tags: ['personal']
+
+## Etusivu - Presidentti
+ - [https://www.presidentti.fi](https://www.presidentti.fi)
+ - date published: 2023-10-25T19:13:31.101604+00:00
+ - user: None
+ - tags: []
+
+## Spotify - Web Player: Music for everyone
+ - [http://spoti.fi](http://spoti.fi)
+ - date published: 2024-01-21T19:14:58.231822+00:00
+ - user: None
+ - tags: []
+
+## Spotify - Web Player: Music for everyone
+ - [https://spoti.fi](https://spoti.fi)
+ - date published: 2024-01-22T07:43:20.742120+00:00
+ - user: None
+ - tags: []
+
+## Etusivu - Trepo
+ - [https://trepo.tuni.fi](https://trepo.tuni.fi)
+ - date published: 2024-01-09T03:29:30.997301+00:00
+ - user: None
+ - tags: []
+
 ## Itä-Suomen yliopisto
  - [https://www.uef.fi](https://www.uef.fi)
  - date published: 2023-10-25T19:13:38.462613+00:00
@@ -5834,174 +6002,6 @@
 ## Show HN: Forwarder – FOSS MITM proxy written in Go
  - [https://forwarder-proxy.io](https://forwarder-proxy.io)
  - date published: 2023-12-20T15:30:47+00:00
- - user: None
- - tags: []
-
-## Foxy.io | Flexible Ecommerce for Your Website
- - [https://www.foxy.io](https://www.foxy.io)
- - date published: 2023-10-25T19:42:49.688772+00:00
- - user: None
- - tags: []
-
-## FreeTube - The Private YouTube Client
- - [https://freetubeapp.io](https://freetubeapp.io)
- - date published: 2023-10-25T08:30:25.633576+00:00
- - user: None
- - tags: ['youtube']
-
-## Freshpaint | Healthcare Privacy Platform To Manage Your Data And Meet HIPAA Regulations
- - [https://www.freshpaint.io](https://www.freshpaint.io)
- - date published: 2023-10-25T19:42:56.058009+00:00
- - user: None
- - tags: []
-
-## FusionAuth: Auth. Built for Devs, by Devs
- - [https://fusionauth.io](https://fusionauth.io)
- - date published: 2023-10-27T16:12:10.629678+00:00
- - user: None
- - tags: []
-
-## futurecoder: learn python from scratch
- - [https://futurecoder.io](https://futurecoder.io)
- - date published: 2023-10-25T19:42:57.568016+00:00
- - user: None
- - tags: []
-
-## Visual Scripting For The Web | G-Script
- - [https://g-script.io](https://g-script.io)
- - date published: 2023-10-25T19:43:00.841246+00:00
- - user: None
- - tags: []
-
-## Make 2D Games With GameMaker | Free Video Game Maker
- - [https://gamemaker.io](https://gamemaker.io)
- - date published: 2023-11-21T15:29:41.097407+00:00
- - user: None
- - tags: []
-
-## Paul Ganssle
- - [https://blog.ganssle.io](https://blog.ganssle.io)
- - date published: 2023-10-25T19:43:02.935158+00:00
- - user: None
- - tags: []
-
-## Gantry | Build AI your users trust
- - [https://gantry.io](https://gantry.io)
- - date published: 2023-10-25T19:43:06.618863+00:00
- - user: None
- - tags: []
-
-## Garden - The DevOps automation tool for K8s
- - [https://garden.io](https://garden.io)
- - date published: 2023-10-25T19:43:09.096788+00:00
- - user: None
- - tags: []
-
-## Projects | gbdev.io
- - [https://gbdev.io](https://gbdev.io)
- - date published: 2023-11-23T13:34:21.914417+00:00
- - user: None
- - tags: []
-
-## 2D and 3D Game-Making App | Free and Easy to Use | GDevelop
- - [https://gdevelop.io](https://gdevelop.io)
- - date published: 2023-10-25T19:43:11.960036+00:00
- - user: None
- - tags: []
-
-## Generals.io – Capture enemy generals to defeat them
- - [https://generals.io](https://generals.io)
- - date published: 2023-12-24T09:38:09+00:00
- - user: None
- - tags: []
-
-## Convoy
- - [https://getconvoy.io](https://getconvoy.io)
- - date published: 2023-10-25T19:43:14.580849+00:00
- - user: None
- - tags: []
-
-## Daft Blog | Sammy Sidhu | Substack
- - [https://blog.getdaft.io](https://blog.getdaft.io)
- - date published: 2023-10-25T19:43:16.770689+00:00
- - user: None
- - tags: []
-
-## POLAR - Read. Learn. Never Forget. | POLAR - Read. Learn. Never Forget.
- - [https://getpolarized.io](https://getpolarized.io)
- - date published: 1100-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Scalable Feeds & Chat - Powerful APIs and Components by Stream
- - [https://getstream.io](https://getstream.io)
- - date published: 2023-10-25T19:43:19.021581+00:00
- - user: None
- - tags: []
-
-## About the docs | Unleash
- - [https://docs.getunleash.io](https://docs.getunleash.io)
- - date published: 2023-10-25T19:43:20.921880+00:00
- - user: None
- - tags: []
-
-## GitHub: Let’s build from here
- - [https://gh.io](https://gh.io)
- - date published: 2024-01-20T12:00:38.408924+00:00
- - user: None
- - tags: []
-
-## One from Nippon
- - [https://one-from-nippon.ghost.io](https://one-from-nippon.ghost.io)
- - date published: 2023-10-25T19:43:22.404656+00:00
- - user: None
- - tags: []
-
-## Ghostfolio – Open Source Wealth Management Software
- - [https://ghostfol.io](https://ghostfol.io)
- - date published: 2023-10-25T19:43:23.662694+00:00
- - user: None
- - tags: []
-
-## GhostLabel | Online Food & Beverage Manufacturing
- - [https://www.ghostlabel.io](https://www.ghostlabel.io)
- - date published: 2023-10-25T19:43:24.941611+00:00
- - user: None
- - tags: []
-
-## Learn to use email with git!
- - [https://git-send-email.io](https://git-send-email.io)
- - date published: 2023-10-25T19:43:27.077574+00:00
- - user: None
- - tags: []
-
-## Gitblog | Lightweight Blogging Solution
- - [https://gitblog.io](https://gitblog.io)
- - date published: 2024-01-21T22:01:17.640678+00:00
- - user: None
- - tags: []
-
-## The Internals of Deno - The Internals of Deno
- - [https://choubey.gitbook.io](https://choubey.gitbook.io)
- - date published: 2023-10-25T19:43:30.635169+00:00
- - user: None
- - tags: []
-
-## Introduction - mostly-adequate-guide
- - [https://mostly-adequate.gitbook.io](https://mostly-adequate.gitbook.io)
- - date published: 2023-10-25T19:43:33.052682+00:00
- - user: None
- - tags: []
-
-## GitBook
- - [https://musicq.gitbook.io](https://musicq.gitbook.io)
- - date published: 2023-10-31T05:58:25.964810+00:00
- - user: None
- - tags: []
-
-## Home - Morrowind++
- - [https://r-fuzzo.gitbook.io](https://r-fuzzo.gitbook.io)
- - date published: 2023-10-25T11:17:42.096564+00:00
  - user: None
  - tags: []
 

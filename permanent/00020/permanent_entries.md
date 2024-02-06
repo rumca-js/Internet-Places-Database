@@ -1,3 +1,249 @@
+## The Markup
+ - [https://themarkup.org](https://themarkup.org)
+ - date published: 2023-10-25T22:14:11.526822+00:00
+ - user: None
+ - tags: []
+
+## The Marshall Project
+ - [https://www.themarshallproject.org](https://www.themarshallproject.org)
+ - date published: 2023-10-25T22:14:13.882732+00:00
+ - user: None
+ - tags: []
+
+## The Media Line - Trusted Mideast News
+ - [https://themedialine.org](https://themedialine.org)
+ - date published: 2023-11-07T18:14:10.457841+00:00
+ - user: None
+ - tags: []
+
+## The Motte
+ - [https://www.themotte.org](https://www.themotte.org)
+ - date published: 2024-01-15T10:02:38.428422+00:00
+ - user: None
+ - tags: []
+
+## The New Humanitarian • humanitarian news and analysis from Africa, Asia and the Middle East - updated daily
+ - [https://www.thenewhumanitarian.org](https://www.thenewhumanitarian.org)
+ - date published: 2023-10-25T22:14:18.022538+00:00
+ - user: None
+ - tags: []
+
+## The New Lede
+ - [https://www.thenewlede.org](https://www.thenewlede.org)
+ - date published: 2023-10-25T22:14:19.999816+00:00
+ - user: None
+ - tags: []
+
+## Theorem of the Day
+ - [https://www.theoremoftheday.org](https://www.theoremoftheday.org)
+ - date published: 2023-10-25T22:14:22.000968+00:00
+ - user: None
+ - tags: []
+
+## The Palindrome | Tivadar Danka | Substack
+ - [https://thepalindrome.org](https://thepalindrome.org)
+ - date published: 2023-10-25T10:08:41.434839+00:00
+ - user: None
+ - tags: ['substack']
+
+## Paris Review - Writers, Quotes, Biography, Interviews, Artists
+ - [https://www.theparisreview.org](https://www.theparisreview.org)
+ - date published: 2023-10-25T11:00:56.051363+00:00
+ - user: None
+ - tags: []
+
+## Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site
+ - [https://thepiratebay.org](https://thepiratebay.org)
+ - date published: 2023-10-25T11:30:24.153144+00:00
+ - user: None
+ - tags: ['piracy', 'dark web']
+
+## ThePromptEngineer
+ - [https://www.thepromptengineer.org](https://www.thepromptengineer.org)
+ - date published: 2024-01-09T03:42:38.849709+00:00
+ - user: None
+ - tags: []
+
+## The Racquet Press
+ - [https://theracquet.org](https://theracquet.org)
+ - date published: 2023-12-28T18:05:51.246062+00:00
+ - user: None
+ - tags: []
+
+## Home — The Revealer
+ - [https://therevealer.org](https://therevealer.org)
+ - date published: 2023-10-25T22:14:31.471099+00:00
+ - user: None
+ - tags: []
+
+## Accueil - The Shift Project
+ - [https://theshiftproject.org](https://theshiftproject.org)
+ - date published: 2023-12-11T16:18:22.195691+00:00
+ - user: None
+ - tags: []
+
+## The Sifter - A Food History Research Tool
+ - [https://thesifter.org](https://thesifter.org)
+ - date published: 2023-10-25T22:14:32.844291+00:00
+ - user: None
+ - tags: []
+
+## The Sling
+ - [https://www.thesling.org](https://www.thesling.org)
+ - date published: 2024-01-23T19:09:46.344136+00:00
+ - user: None
+ - tags: []
+
+## The Sun Magazine
+ - [https://www.thesunmagazine.org](https://www.thesunmagazine.org)
+ - date published: 2023-10-25T22:14:36.249512+00:00
+ - user: None
+ - tags: []
+
+## The Things Network
+ - [https://www.thethingsnetwork.org](https://www.thethingsnetwork.org)
+ - date published: 2023-10-25T22:14:38.088881+00:00
+ - user: None
+ - tags: []
+
+## The Transmitter: Neuroscience News and Perspectives
+ - [https://www.thetransmitter.org](https://www.thetransmitter.org)
+ - date published: 2024-01-18T22:22:16.708437+00:00
+ - user: None
+ - tags: []
+
+## Home - The Urbanist
+ - [https://www.theurbanist.org](https://www.theurbanist.org)
+ - date published: 2023-10-25T22:14:42.141298+00:00
+ - user: None
+ - tags: []
+
+## ThirdCloud
+ - [https://www.thirdcloud.org](https://www.thirdcloud.org)
+ - date published: 2024-01-09T03:42:42.106383+00:00
+ - user: None
+ - tags: []
+
+## This Week in Rust
+ - [https://this-week-in-rust.org](https://this-week-in-rust.org)
+ - date published: 2023-10-25T22:14:42.923387+00:00
+ - user: None
+ - tags: []
+
+## Thonny, Python IDE for beginners
+ - [https://thonny.org](https://thonny.org)
+ - date published: 2023-10-25T22:14:43.992295+00:00
+ - user: None
+ - tags: []
+
+## Thraxil.org
+ - [https://thraxil.org](https://thraxil.org)
+ - date published: 2023-10-25T22:14:45.881243+00:00
+ - user: None
+ - tags: []
+
+## The Thoreau Institute
+ - [https://ti.org](https://ti.org)
+ - date published: 2023-10-25T22:14:46.754363+00:00
+ - user: None
+ - tags: []
+
+## Timac
+ - [https://blog.timac.org](https://blog.timac.org)
+ - date published: 2023-10-25T22:14:47.546975+00:00
+ - user: None
+ - tags: []
+
+## Tim Hofmann
+ - [https://timhofmann.org](https://timhofmann.org)
+ - date published: 2023-11-29T15:50:37.598688+00:00
+ - user: None
+ - tags: ['personal']
+
+## My Point of View
+ - [https://mpov.timmorgan.org](https://mpov.timmorgan.org)
+ - date published: 2023-10-25T22:14:48.078083+00:00
+ - user: None
+ - tags: []
+
+## Timothy Rice
+ - [https://www.timothyrice.org](https://www.timothyrice.org)
+ - date published: 2023-10-25T22:14:49.049934+00:00
+ - user: None
+ - tags: []
+
+## tinc
+ - [https://www.tinc-vpn.org](https://www.tinc-vpn.org)
+ - date published: 2023-10-25T22:14:49.848736+00:00
+ - user: None
+ - tags: []
+
+## tinyapps.org
+ - [https://tinyapps.org](https://tinyapps.org)
+ - date published: 2023-10-25T22:14:50.630713+00:00
+ - user: None
+ - tags: []
+
+## TinyBase
+ - [https://tinybase.org](https://tinybase.org)
+ - date published: 2023-10-25T22:14:53.370881+00:00
+ - user: None
+ - tags: []
+
+## Ryan Dahl
+ - [https://tinyclouds.org](https://tinyclouds.org)
+ - date published: 2023-10-25T09:24:20.208297+00:00
+ - user: None
+ - tags: ['personal']
+
+## tinygrad: A simple and powerful neural network framework
+ - [https://tinygrad.org](https://tinygrad.org)
+ - date published: 2023-10-25T22:14:54.100856+00:00
+ - user: None
+ - tags: []
+
+## https://www.tinysa.org
+ - [https://www.tinysa.org](https://www.tinysa.org)
+ - date published: 2016-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://tirania.org
+ - [https://tirania.org](https://tirania.org)
+ - date published: 2024-01-09T01:38:18.650964+00:00
+ - user: None
+ - tags: []
+
+## https://exple.tive.org
+ - [https://exple.tive.org](https://exple.tive.org)
+ - date published: 2024-01-09T03:42:43.600420+00:00
+ - user: None
+ - tags: []
+
+## The Linux Documentation Project
+ - [https://tldp.org](https://tldp.org)
+ - date published: 2023-10-25T22:14:58.578899+00:00
+ - user: None
+ - tags: []
+
+## IllustrisTNG - Main
+ - [https://www.tng-project.org](https://www.tng-project.org)
+ - date published: 2023-11-13T18:48:08.058674+00:00
+ - user: None
+ - tags: []
+
+## The National Museum of Computing
+ - [https://www.tnmoc.org](https://www.tnmoc.org)
+ - date published: 2023-10-27T10:22:09.468148+00:00
+ - user: None
+ - tags: ['museum']
+
+## Home - Texas National Security Review
+ - [https://tnsr.org](https://tnsr.org)
+ - date published: 2023-10-25T22:15:00.554967+00:00
+ - user: None
+ - tags: []
+
 ## The Tolkien Society
  - [https://www.tolkiensociety.org](https://www.tolkiensociety.org)
  - date published: 2024-01-23T10:56:57+00:00
@@ -2197,6 +2443,12 @@ is forbidden
  - user: rumpel
  - tags: ['training']
 
+## Sztuczna Inteligencja dla Polski
+ - [https://aidla.pl](https://aidla.pl)
+ - date published: 2024-02-05T08:26:54+00:00
+ - user: rumpel
+ - tags: []
+
 ## allegro.pl
  - [https://allegro.pl](https://allegro.pl)
  - date published: 2023-10-24T20:20:03.496697+00:00
@@ -3501,6 +3753,12 @@ is forbidden
  - user: None
  - tags: []
 
+## National Geographic – przyroda, fotografia, nauka, ludzie, podróże, świat
+ - [https://www.national-geographic.pl](https://www.national-geographic.pl)
+ - date published: 2024-02-05T19:23:30.522432+00:00
+ - user: rumpel
+ - tags: ['nature', 'science']
+
 ## Nauka o klimacie | naukaoklimacie.pl
  - [https://naukaoklimacie.pl](https://naukaoklimacie.pl)
  - date published: 2023-10-25T22:29:07.910756+00:00
@@ -4469,6 +4727,12 @@ is forbidden
  - [https://www.visuality.pl](https://www.visuality.pl)
  - date published: 2023-10-25T22:32:34.274635+00:00
  - user: None
+ - tags: []
+
+## Magazyn Vogue Polska
+ - [https://www.vogue.pl](https://www.vogue.pl)
+ - date published: 2024-02-05T19:23:26.429708+00:00
+ - user: rumpel
  - tags: []
 
 ## Wanda i Banda — Oficjalna strona zespołu
@@ -5741,270 +6005,6 @@ is forbidden
 ## Göteborgs-Posten
  - [https://www.gp.se](https://www.gp.se)
  - date published: 2024-01-09T03:46:34.509871+00:00
- - user: None
- - tags: []
-
-## Hem | Göteborgs universitet
- - [https://www.gu.se](https://www.gu.se)
- - date published: 2023-10-25T11:23:45.206128+00:00
- - user: None
- - tags: []
-
-## Daniel Stenberg - daniel.haxx.se
- - [https://daniel.haxx.se](https://daniel.haxx.se)
- - date published: 2023-10-25T08:55:25.142632+00:00
- - user: None
- - tags: ['personal']
-
-## Blog - Hugo Tunius
- - [https://hugotunius.se](https://hugotunius.se)
- - date published: 2023-10-25T08:55:26.878158+00:00
- - user: None
- - tags: ['personal']
-
-## IF Metall - Startsida
- - [https://www.ifmetall.se](https://www.ifmetall.se)
- - date published: 2023-10-25T22:37:18.193786+00:00
- - user: None
- - tags: []
-
-## Integritetsskyddsmyndigheten | IMY
- - [https://www.imy.se](https://www.imy.se)
- - date published: 2023-10-25T22:37:24.396877+00:00
- - user: None
- - tags: []
-
-## Jforberg
- - [https://jforberg.se](https://jforberg.se)
- - date published: 2023-10-25T08:55:28.679207+00:00
- - user: None
- - tags: ['personal']
-
-## Jonas Hietala: Home
- - [https://www.jonashietala.se](https://www.jonashietala.se)
- - date published: 2023-10-25T08:55:31.615150+00:00
- - user: None
- - tags: ['personal']
-
-## kebab-case
- - [https://blog.kebab-ca.se](https://blog.kebab-ca.se)
- - date published: 2023-10-25T22:37:25.278500+00:00
- - user: None
- - tags: []
-
-## | Karolinska Institutet Nyheter
- - [https://news.ki.se](https://news.ki.se)
- - date published: 2023-10-25T22:37:27.296477+00:00
- - user: None
- - tags: []
-
-## Linus Bohman, making things since 1984
- - [https://linusbohman.se](https://linusbohman.se)
- - date published: 2024-01-04T19:57:10.255184+00:00
- - user: None
- - tags: []
-
-## Linköpings universitet
- - [https://liu.se](https://liu.se)
- - date published: 2023-12-11T08:49:42.906106+00:00
- - user: None
- - tags: []
-
-## Lysator
- - [https://www.lysator.liu.se](https://www.lysator.liu.se)
- - date published: 2024-01-05T22:34:01.576430+00:00
- - user: None
- - tags: []
-
-## Olle Kjellqvist
- - [https://www.ollekjellqvist.se](https://www.ollekjellqvist.se)
- - date published: 2024-01-05T16:51:55.505500+00:00
- - user: None
- - tags: ['personal']
-
-## Omegapoint Security Blog
- - [https://securityblog.omegapoint.se](https://securityblog.omegapoint.se)
- - date published: 2024-01-12T14:14:26.065809+00:00
- - user: None
- - tags: []
-
-## Omni – Alla nyheter. Alla perspektiv.
- - [https://omni.se](https://omni.se)
- - date published: 2023-11-27T14:36:44.798009+00:00
- - user: None
- - tags: []
-
-## Erik Rigtorp
- - [https://rigtorp.se](https://rigtorp.se)
- - date published: 2023-10-25T08:57:21.036403+00:00
- - user: None
- - tags: ['personal']
-
-## Startsida
- - [https://www.riksbank.se](https://www.riksbank.se)
- - date published: 2023-12-21T16:25:20.244506+00:00
- - user: None
- - tags: []
-
-## Roxette
- - [https://roxette.se](https://roxette.se)
- - date published: 2023-11-13T10:41:31.975263+00:00
- - user: None
- - tags: ['music band']
-
-## https://moscow.sci-hub.se
- - [https://moscow.sci-hub.se](https://moscow.sci-hub.se)
- - date published: 2024-01-09T03:46:46.179878+00:00
- - user: None
- - tags: []
-
-## Sci-Hub: emancipation and democratisation of knowledge
- - [https://sci-hub.se](https://sci-hub.se)
- - date published: 2023-10-25T22:37:28.340599+00:00
- - user: None
- - tags: ['digital library']
-
-## En frilansskribent utöver det vanliga! - Sebastian LIljegren ✍️
- - [https://www.sebastianliljegren.se](https://www.sebastianliljegren.se)
- - date published: 2023-12-27T01:00:25.954543+00:00
- - user: None
- - tags: ['personal']
-
-## Välkommen till Seko
- - [https://www.seko.se](https://www.seko.se)
- - date published: 2023-11-08T15:56:06.434735+00:00
- - user: None
- - tags: []
-
-## Inte så lagom
- - [https://tomscii.sig7.se](https://tomscii.sig7.se)
- - date published: 2023-10-25T22:37:29.269135+00:00
- - user: None
- - tags: []
-
-## Spelpappan Jimmy Wilhelmsson – Grävande artiklar om datorspel, rollspel, brädspel, nördböcker och serier.
- - [https://spelpappan.se](https://spelpappan.se)
- - date published: 2023-10-25T22:37:31.118951+00:00
- - user: None
- - tags: []
-
-## Stockholms universitet
- - [https://www.su.se](https://www.su.se)
- - date published: 2023-10-25T11:23:47.766606+00:00
- - user: None
- - tags: []
-
-## Sveriges Radio - lokala och rikstäckande radiokanaler
- - [https://sverigesradio.se](https://sverigesradio.se)
- - date published: 2023-10-25T22:37:32.906094+00:00
- - user: None
- - tags: []
-
-## SVT Nyheter
- - [https://www.svt.se](https://www.svt.se)
- - date published: 2023-11-28T17:41:44.561880+00:00
- - user: None
- - tags: []
-
-## Start | Sweden
- - [https://identity.sweden.se](https://identity.sweden.se)
- - date published: 2023-10-25T22:37:34.022899+00:00
- - user: None
- - tags: []
-
-## The Local - Sweden's news in English
- - [https://www.thelocal.se](https://www.thelocal.se)
- - date published: 2023-10-25T22:37:36.940875+00:00
- - user: None
- - tags: []
-
-## Therion | therion
- - [https://www.therion.se](https://www.therion.se)
- - date published: 2023-11-13T09:39:42.327749+00:00
- - user: None
- - tags: ['music band']
-
-## the Swedish Times
- - [https://theswedishtimes.se](https://theswedishtimes.se)
- - date published: 2024-01-09T03:46:48.677501+00:00
- - user: None
- - tags: []
-
-## Tillitis TKey Developer Handbook
- - [https://dev.tillitis.se](https://dev.tillitis.se)
- - date published: 2023-12-25T18:51:42.187765+00:00
- - user: None
- - tags: []
-
-## Tillitis – Tillitis – The creator of TKey, the open source USB security key alternative.
- - [https://www.tillitis.se](https://www.tillitis.se)
- - date published: 2023-10-25T22:37:38.676725+00:00
- - user: None
- - tags: []
-
-## under orion | under orion
- - [https://underorion.se](https://underorion.se)
- - date published: 2023-10-25T22:37:39.888127+00:00
- - user: None
- - tags: []
-
-## Vasamuseet
- - [https://www.vasamuseet.se](https://www.vasamuseet.se)
- - date published: 2023-11-13T13:50:44.430060+00:00
- - user: None
- - tags: ['museum']
-
-## Biltester, bilnyheter, bilforum och test av rostskydd, däck, billjus och andra produkter. | Vi Bilägare
- - [https://www.vibilagare.se](https://www.vibilagare.se)
- - date published: 2023-10-25T22:37:43.874042+00:00
- - user: None
- - tags: []
-
-## VoF – Vetenskap och Folkbildning
- - [https://www.vof.se](https://www.vof.se)
- - date published: 2023-12-23T14:02:33.444509+00:00
- - user: None
- - tags: []
-
-## WebP Cloud Services Blog
- - [https://blog.webp.se](https://blog.webp.se)
- - date published: 2023-10-25T22:37:45.007507+00:00
- - user: None
- - tags: []
-
-## Yingyu’s Blog
- - [https://wingu.se](https://wingu.se)
- - date published: 2023-12-21T14:45:10.691382+00:00
- - user: None
- - tags: []
-
-## DSPM: Data Security at the Speed of Cloud | Dig Security
- - [https://www.dig.security](https://www.dig.security)
- - date published: 2023-10-25T22:37:47.275606+00:00
- - user: None
- - tags: []
-
-## Positive Security - IT Security Research & Consulting
- - [https://positive.security](https://positive.security)
- - date published: 2023-10-25T22:37:48.281104+00:00
- - user: None
- - tags: []
-
-## A cloud platform to enrich services made with Ergo Framework.
- - [https://cloud.ergo.services](https://cloud.ergo.services)
- - date published: 2023-10-25T22:37:54.772238+00:00
- - user: None
- - tags: []
-
-## Kofi Gumbs
- - [https://kofi.sexy](https://kofi.sexy)
- - date published: 2023-10-25T22:37:55.939601+00:00
- - user: None
- - tags: []
-
-## https://www.businesstimes.com.sg
- - [https://www.businesstimes.com.sg](https://www.businesstimes.com.sg)
- - date published: 2023-10-25T22:37:56.906260+00:00
  - user: None
  - tags: []
 

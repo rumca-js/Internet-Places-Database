@@ -1,3 +1,51 @@
+## Don't Kill My App
+ - [https://dontkillmyapp.com](https://dontkillmyapp.com)
+ - date published: 2023-11-23T05:20:15+00:00
+ - user: None
+ - tags: []
+
+## https://doomedprojects.com
+ - [https://doomedprojects.com](https://doomedprojects.com)
+ - date published: 2024-01-09T02:35:19.895597+00:00
+ - user: None
+ - tags: []
+
+## Forums - Doomworld
+ - [https://www.doomworld.com](https://www.doomworld.com)
+ - date published: 2023-10-26T13:29:50.856360+00:00
+ - user: None
+ - tags: []
+
+## Products | DoorDash
+ - [https://about.doordash.com](https://about.doordash.com)
+ - date published: 2023-12-04T20:36:26.709144+00:00
+ - user: None
+ - tags: []
+
+## Dope Lemon | Dope Lemon
+ - [https://dopelemon.com](https://dopelemon.com)
+ - date published: 2023-11-13T11:15:37.323930+00:00
+ - user: None
+ - tags: ['music band']
+
+## Doppler | The #1 SecretOps Platform
+ - [https://www.doppler.com](https://www.doppler.com)
+ - date published: 2023-10-25T13:56:26.531730+00:00
+ - user: None
+ - tags: []
+
+## Blog — Dopt
+ - [https://blog.dopt.com](https://blog.dopt.com)
+ - date published: 2023-10-25T13:56:28.589294+00:00
+ - user: None
+ - tags: []
+
+## Dopt — Ship self-serve product onboarding and education, your way
+ - [https://www.dopt.com](https://www.dopt.com)
+ - date published: 2023-10-25T13:56:31.214889+00:00
+ - user: None
+ - tags: []
+
 ## 403 Forbidden
  - [https://doriantaylor.com](https://doriantaylor.com)
  - date published: 2023-12-02T01:46:06.209034+00:00
@@ -5948,55 +5996,6 @@
 ## GhostlyStock
  - [https://www.ghostlystock.com](https://www.ghostlystock.com)
  - date published: 2023-10-25T14:43:54.624952+00:00
- - user: None
- - tags: []
-
-## Green Hills Software
- - [https://ghs.com](https://ghs.com)
- - date published: 2024-01-26T17:11:08+00:00
- - user: rumpel
- - tags: ['integrity operating system', 'do-178b', 'automotive', 'embedded', 'do-178c', 'linux', 'real time operating system']
-
-## Real-Time Operating Systems (RTOS), Embedded Development Tools, Optimizing
-Compilers, IDE tools, Debuggers - Green Hills Software
- - [https://www.ghs.com](https://www.ghs.com)
- - date published: 2023-12-02T19:50:50.848107+00:00
- - user: None
- - tags: ['integrity operating system', 'do-178b', 'automotive', 'embedded', 'do-178c', 'linux', 'real time operating system']
-
-## Geoffrey Huntley
- - [https://ghuntley.com](https://ghuntley.com)
- - date published: 2023-10-25T14:43:56.065616+00:00
- - user: None
- - tags: []
-
-## Gianni's Site
- - [https://giannirosato.com](https://giannirosato.com)
- - date published: 2023-10-25T08:45:52.574430+00:00
- - user: None
- - tags: ['personal']
-
-## @giansegato
- - [https://giansegato.com](https://giansegato.com)
- - date published: 2023-10-25T14:43:58.840095+00:00
- - user: None
- - tags: []
-
-## Giant Bomb - Video game reviews, videos, forums and wiki.
- - [https://www.giantbomb.com](https://www.giantbomb.com)
- - date published: 2023-10-27T08:01:35.696808+00:00
- - user: None
- - tags: ['game news']
-
-## Why Gibiru attempts to take the canvas image data of my browser?
- - [https://gibiru.com](https://gibiru.com)
- - date published: 2023-12-23T18:32:45+00:00
- - user: None
- - tags: []
-
-## Gigalixir - Default Backend
- - [https://rotb.gigalixirapp.com](https://rotb.gigalixirapp.com)
- - date published: 2024-01-09T02:37:25.641305+00:00
  - user: None
  - tags: []
 

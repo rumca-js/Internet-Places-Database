@@ -1,3 +1,21 @@
+## Placeholder
+ - [https://what.cd](https://what.cd)
+ - date published: 2023-10-25T12:12:14.189974+00:00
+ - user: None
+ - tags: []
+
+## CLARK | Cybersecurity Library
+ - [https://clark.center](https://clark.center)
+ - date published: 2023-10-25T12:12:15.527679+00:00
+ - user: None
+ - tags: []
+
+## Досье - Досье
+ - [https://dossier.center](https://dossier.center)
+ - date published: 2023-10-25T12:12:24.046539+00:00
+ - user: None
+ - tags: []
+
 ## GMK Center – центр экспертизы о промышленности и ГМК
  - [https://gmk.center](https://gmk.center)
  - date published: 2023-12-19T20:46:40.065605+00:00
@@ -3582,6 +3600,12 @@
  - user: None
  - tags: []
 
+## AIxCC
+ - [https://aicyberchallenge.com](https://aicyberchallenge.com)
+ - date published: 2023-08-04T19:13:33+00:00
+ - user: None
+ - tags: []
+
 ## Aigarius Blog
  - [https://aigarius.com](https://aigarius.com)
  - date published: 2023-10-25T12:35:44.607811+00:00
@@ -5934,6 +5958,12 @@
  - user: None
  - tags: []
 
+## Ardent Performance Computing
+ - [https://ardentperf.com](https://ardentperf.com)
+ - date published: 2024-02-05T08:33:43.721685+00:00
+ - user: None
+ - tags: []
+
 ## Simplifying embedded vision for all. - Arducam
  - [https://www.arducam.com](https://www.arducam.com)
  - date published: 2023-10-28T20:23:30.868791+00:00
@@ -5967,36 +5997,6 @@
 ## Are we stack-efficient yet?
  - [https://arewestackefficientyet.com](https://arewestackefficientyet.com)
  - date published: 2023-10-25T12:45:08.666599+00:00
- - user: None
- - tags: []
-
-## Adventure, craftsmanship, enjoying life!
- - [https://www.argobuilder.com](https://www.argobuilder.com)
- - date published: 2023-10-25T12:45:12.448496+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.argusleader.com](https://www.argusleader.com)
- - date published: 2023-10-25T12:45:16.745804+00:00
- - user: None
- - tags: []
-
-## Arianespace - Mission to success
- - [https://www.arianespace.com](https://www.arianespace.com)
- - date published: 2023-10-25T12:45:20.132178+00:00
- - user: None
- - tags: []
-
-## SAP Business Network Discovery
- - [https://discovery.ariba.com](https://discovery.ariba.com)
- - date published: 2024-01-09T02:29:51.440783+00:00
- - user: None
- - tags: []
-
-## ariba.com - welcome
- - [https://service.ariba.com](https://service.ariba.com)
- - date published: 2023-12-11T17:43:11.111413+00:00
  - user: None
  - tags: []
 

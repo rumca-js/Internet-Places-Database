@@ -2350,6 +2350,12 @@
  - user: None
  - tags: []
 
+## Jermanuts
+ - [https://jermanuts.vercel.app](https://jermanuts.vercel.app)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Link Book
  - [https://link-book.vercel.app](https://link-book.vercel.app)
  - date published: 2023-10-25T11:50:29.441703+00:00
@@ -2607,6 +2613,12 @@
  - date published: 2023-11-29T17:10:47.669540+00:00
  - user: None
  - tags: ['personal']
+
+## Mar Williams Art
+ - [https://marwilliams.art](https://marwilliams.art)
+ - date published: 2024-02-05T17:23:15.778256+00:00
+ - user: None
+ - tags: []
 
 ## Masterworks
  - [https://www.masterworks.art](https://www.masterworks.art)
@@ -3739,6 +3751,12 @@
 ## Appventure Time
  - [https://appventuretime.blog](https://appventuretime.blog)
  - date published: 2023-10-25T11:59:54.461305+00:00
+ - user: None
+ - tags: []
+
+## The Armancius Blog
+ - [https://armancius.blog](https://armancius.blog)
+ - date published: 2024-01-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5979,24 +5997,6 @@
 ## BF-SYS: A fantasy computer that uses Brainfuck as its instruction set
  - [https://brainfuck.zptr.cc](https://brainfuck.zptr.cc)
  - date published: 2023-12-12T07:23:44+00:00
- - user: None
- - tags: []
-
-## Placeholder
- - [https://what.cd](https://what.cd)
- - date published: 2023-10-25T12:12:14.189974+00:00
- - user: None
- - tags: []
-
-## CLARK | Cybersecurity Library
- - [https://clark.center](https://clark.center)
- - date published: 2023-10-25T12:12:15.527679+00:00
- - user: None
- - tags: []
-
-## Досье - Досье
- - [https://dossier.center](https://dossier.center)
- - date published: 2023-10-25T12:12:24.046539+00:00
  - user: None
  - tags: []
 

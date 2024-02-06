@@ -1,3 +1,52 @@
+## Green Hills Software
+ - [https://ghs.com](https://ghs.com)
+ - date published: 2024-01-26T17:11:08+00:00
+ - user: rumpel
+ - tags: ['integrity operating system', 'do-178b', 'automotive', 'embedded', 'do-178c', 'linux', 'real time operating system']
+
+## Real-Time Operating Systems (RTOS), Embedded Development Tools, Optimizing
+Compilers, IDE tools, Debuggers - Green Hills Software
+ - [https://www.ghs.com](https://www.ghs.com)
+ - date published: 2023-12-02T19:50:50.848107+00:00
+ - user: None
+ - tags: ['integrity operating system', 'do-178b', 'automotive', 'embedded', 'do-178c', 'linux', 'real time operating system']
+
+## Geoffrey Huntley
+ - [https://ghuntley.com](https://ghuntley.com)
+ - date published: 2023-10-25T14:43:56.065616+00:00
+ - user: None
+ - tags: []
+
+## Gianni's Site
+ - [https://giannirosato.com](https://giannirosato.com)
+ - date published: 2023-10-25T08:45:52.574430+00:00
+ - user: None
+ - tags: ['personal']
+
+## @giansegato
+ - [https://giansegato.com](https://giansegato.com)
+ - date published: 2023-10-25T14:43:58.840095+00:00
+ - user: None
+ - tags: []
+
+## Giant Bomb - Video game reviews, videos, forums and wiki.
+ - [https://www.giantbomb.com](https://www.giantbomb.com)
+ - date published: 2023-10-27T08:01:35.696808+00:00
+ - user: None
+ - tags: ['game news']
+
+## Why Gibiru attempts to take the canvas image data of my browser?
+ - [https://gibiru.com](https://gibiru.com)
+ - date published: 2023-12-23T18:32:45+00:00
+ - user: None
+ - tags: []
+
+## Gigalixir - Default Backend
+ - [https://rotb.gigalixirapp.com](https://rotb.gigalixirapp.com)
+ - date published: 2024-01-09T02:37:25.641305+00:00
+ - user: None
+ - tags: []
+
 ## gigamonkeys
  - [https://gigamonkeys.com](https://gigamonkeys.com)
  - date published: 2023-10-25T14:43:59.564221+00:00
@@ -529,6 +578,12 @@
 ## Go Make Things
  - [https://gomakethings.com](https://gomakethings.com)
  - date published: 2023-10-25T14:47:03.838756+00:00
+ - user: None
+ - tags: []
+
+## Gonçalo MB
+ - [https://goncalomb.com](https://goncalomb.com)
+ - date published: 2024-01-30T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2812,6 +2867,12 @@
 ## Liz de Nesnera. Best of Both Worlds VO.
  - [https://hireliz.com](https://hireliz.com)
  - date published: 2024-01-01T17:21:53.248678+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the Hisense E INK Store
+ - [https://hisenseeink.com](https://hisenseeink.com)
+ - date published: 2024-02-05T17:22:58.705297+00:00
  - user: None
  - tags: []
 
@@ -5940,64 +6001,4 @@
  - date published: 2023-10-25T08:46:29.891059+00:00
  - user: None
  - tags: ['personal']
-
-## Jeff Geerling - Author and Software Developer in St. Louis, MO
- - [https://www.jeffgeerling.com](https://www.jeffgeerling.com)
- - date published: 2024-01-22T09:22:43.071064+00:00
- - user: None
- - tags: ['personal', 'youtuber']
-
-## Jeff Gothelf - coaching, consulting, training & keynotes
- - [https://jeffgothelf.com](https://jeffgothelf.com)
- - date published: 2023-12-11T16:24:47.478969+00:00
- - user: None
- - tags: []
-
-## Jeff Huang · Computer Science at Brown University
- - [https://jeffhuang.com](https://jeffhuang.com)
- - date published: 2023-10-25T15:27:58.164772+00:00
- - user: None
- - tags: []
-
-## Home - Jeffikus
- - [https://jeffikus.com](https://jeffikus.com)
- - date published: 2024-01-27T18:00:01.443689+00:00
- - user: None
- - tags: []
-
-## Jeff Ryan
- - [https://jeffjryan.com](https://jeffjryan.com)
- - date published: 2023-12-12T04:53:22.246788+00:00
- - user: None
- - tags: ['personal']
-
-## Jeff McNeill Resume
- - [https://jeffmcneill.com](https://jeffmcneill.com)
- - date published: 2024-02-03T14:51:48.458143+00:00
- - user: None
- - tags: []
-
-## Home | Jeff Nobbs
- - [https://www.jeffnobbs.com](https://www.jeffnobbs.com)
- - date published: 2023-10-25T08:46:33.428500+00:00
- - user: None
- - tags: ['personal']
-
-## Work | jeff-parker-cooks
- - [https://www.jeffparkercooks.com](https://www.jeffparkercooks.com)
- - date published: 2023-11-29T15:44:34.183948+00:00
- - user: None
- - tags: ['personal']
-
-## Jeff Sandquist – Just a farmer.
- - [https://www.jeffsandquist.com](https://www.jeffsandquist.com)
- - date published: 2023-10-25T09:20:57.411695+00:00
- - user: None
- - tags: ['personal']
-
-## 仿生猫不会梦见电子猫粮 — To make each day count.
- - [https://jefftay.com](https://jefftay.com)
- - date published: 2024-01-06T08:55:43.170901+00:00
- - user: None
- - tags: []
 
