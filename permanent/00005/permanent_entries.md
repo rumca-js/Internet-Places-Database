@@ -1,3 +1,63 @@
+## WP-Optimize | WordPress Performance Plugin - WP-Optimize
+ - [https://getwpo.com](https://getwpo.com)
+ - date published: 2023-12-11T18:58:35.920934+00:00
+ - user: None
+ - tags: []
+
+## GGather
+ - [https://web.ggather.com](https://web.ggather.com)
+ - date published: 2023-11-26T16:45:54+00:00
+ - user: rumpel
+ - tags: ['bookmark manager']
+
+## Georgi Gerganov's Home Page
+ - [https://ggerganov.com](https://ggerganov.com)
+ - date published: 2023-11-02T14:14:54.310461+00:00
+ - user: None
+ - tags: []
+
+## whisper.cpp : WASM example
+ - [https://whisper.ggerganov.com](https://whisper.ggerganov.com)
+ - date published: 2023-10-25T14:43:42.773615+00:00
+ - user: None
+ - tags: []
+
+## GGRecon | Your Gaming & Esports Community
+ - [https://www.ggrecon.com](https://www.ggrecon.com)
+ - date published: 2023-10-25T14:43:46.483344+00:00
+ - user: None
+ - tags: []
+
+## Total Commander - home
+ - [https://www.ghisler.com](https://www.ghisler.com)
+ - date published: 2023-10-25T08:37:41.191669+00:00
+ - user: None
+ - tags: ['program', 'total commander']
+
+## Three Sigma
+ - [http://www.ghostextension.com](http://www.ghostextension.com)
+ - date published: 2023-10-25T14:43:48.430661+00:00
+ - user: None
+ - tags: []
+
+## Home - Ghost Influence
+ - [https://ghostinfluence.com](https://ghostinfluence.com)
+ - date published: 2023-10-25T14:43:51.757960+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ghost in the Stacks
+ - [https://www.ghostinthestacks.com](https://www.ghostinthestacks.com)
+ - date published: 2023-11-27T00:26:52.080058+00:00
+ - user: None
+ - tags: []
+
+## GhostlyStock
+ - [https://www.ghostlystock.com](https://www.ghostlystock.com)
+ - date published: 2023-10-25T14:43:54.624952+00:00
+ - user: None
+ - tags: []
+
 ## Green Hills Software
  - [https://ghs.com](https://ghs.com)
  - date published: 2024-01-26T17:11:08+00:00
@@ -4604,6 +4664,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Inside QC | Knowledge is Power! —– Previously known as inside3d.com, modding Quake since 1997
+ - [http://www.insideqc.com](http://www.insideqc.com)
+ - date published: 1997-02-06T15:25:02+00:00
+ - user: rumpel
+ - tags: ['quake']
+
 ## Insider
  - [https://www.insider.com](https://www.insider.com)
  - date published: 2023-10-25T15:21:32.402345+00:00
@@ -4699,6 +4765,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-25T15:22:00.515791+00:00
  - user: None
  - tags: []
+
+## Global Strategic Intelligence - Intelligence Online
+ - [https://www.intelligenceonline.com](https://www.intelligenceonline.com)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: rumpel
+ - tags: ['government intelligence news']
 
 ## bne IntelliNews
  - [https://intellinews.com](https://intellinews.com)
@@ -4871,6 +4943,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Home - The Iola Register
  - [https://www.iolaregister.com](https://www.iolaregister.com)
  - date published: 2023-10-25T15:23:02.617331+00:00
+ - user: None
+ - tags: []
+
+## Ionut Balosin – Software Architect | Technical Trainer | Oracle ACE Associate | Security Champion | Speaker | Blogger
+ - [https://ionutbalosin.com](https://ionutbalosin.com)
+ - date published: 2024-02-06T14:56:55.024746+00:00
  - user: None
  - tags: []
 
@@ -5921,84 +5999,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## - - JC de Merez
  - [https://jcdemerez.com](https://jcdemerez.com)
  - date published: 2023-12-21T08:24:43.653625+00:00
- - user: None
- - tags: ['personal']
-
-## Hack The World · Juan Carlos Jimenez
- - [https://jcjc-dev.com](https://jcjc-dev.com)
- - date published: 2023-10-25T15:27:34.864299+00:00
- - user: None
- - tags: []
-
-## https://www.jclinepi.com
- - [https://www.jclinepi.com](https://www.jclinepi.com)
- - date published: 2023-10-25T15:27:36.093054+00:00
- - user: None
- - tags: []
-
-## The If Works – The If Works
- - [https://blog.jcoglan.com](https://blog.jcoglan.com)
- - date published: 2023-10-25T15:27:36.894719+00:00
- - user: None
- - tags: []
-
-## Financial Markets and Electoral Systems
- - [https://www.jdawiseman.com](https://www.jdawiseman.com)
- - date published: 2023-10-25T15:27:40.087215+00:00
- - user: None
- - tags: []
-
-## JDG Sport | Digital sports consultant & journalist
- - [https://jdgsport.com](https://jdgsport.com)
- - date published: 2023-12-02T13:42:03.884403+00:00
- - user: None
- - tags: ['personal']
-
-## My WordPress
- - [https://www.jdilillo.com](https://www.jdilillo.com)
- - date published: 2024-01-15T06:17:35.348803+00:00
- - user: None
- - tags: []
-
-## JD Meier | High Performance. Innovation. Strategy.
- - [https://jdmeier.com](https://jdmeier.com)
- - date published: 2023-10-25T15:27:42.784067+00:00
- - user: None
- - tags: []
-
-## Need-to-Know News, Insights, & Intelligence for Business Leaders | JD Supra
- - [https://www.jdsupra.com](https://www.jdsupra.com)
- - date published: 2023-10-25T15:27:52.591885+00:00
- - user: None
- - tags: []
-
-## Jeannen  – Cool and dumb stuff, mainly about AI
- - [https://jeannen.com](https://jeannen.com)
- - date published: 2023-10-25T15:27:54.634589+00:00
- - user: None
- - tags: []
-
-## Jedi Mind Tricks - Vinnie Paz x Stoupe x Jus Allah
- - [https://jedi-mind-tricks.com](https://jedi-mind-tricks.com)
- - date published: 2023-11-13T10:31:15.448394+00:00
- - user: None
- - tags: ['music band']
-
-## Jediah Porter
- - [https://www.jediahporter.com](https://www.jediahporter.com)
- - date published: 2023-12-24T08:15:08.398647+00:00
- - user: None
- - tags: ['personal']
-
-## Jedi Wright
- - [https://www.jediwright.com](https://www.jediwright.com)
- - date published: 2023-12-14T06:54:12.717805+00:00
- - user: None
- - tags: ['personal']
-
-## Jeff Ammons
- - [https://jeffammons.com](https://jeffammons.com)
- - date published: 2023-10-25T08:46:29.891059+00:00
  - user: None
  - tags: ['personal']
 

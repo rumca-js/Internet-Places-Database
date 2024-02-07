@@ -1,3 +1,9 @@
+## BF-SYS: A fantasy computer that uses Brainfuck as its instruction set
+ - [https://brainfuck.zptr.cc](https://brainfuck.zptr.cc)
+ - date published: 2023-12-12T07:23:44+00:00
+ - user: None
+ - tags: []
+
 ## Placeholder
  - [https://what.cd](https://what.cd)
  - date published: 2023-10-25T12:12:14.189974+00:00
@@ -249,6 +255,12 @@
  - date published: 2023-12-28T20:56:18+00:00
  - user: None
  - tags: []
+
+## Mountainbytes 2024
+ - [https://www.mountainbytes.ch](https://www.mountainbytes.ch)
+ - date published: 2024-02-06T13:54:41.265472+00:00
+ - user: None
+ - tags: ['demoscene', 'retro games']
 
 ## Michael Rupp - My Projects
  - [https://mrupp.ch](https://mrupp.ch)
@@ -674,7 +686,7 @@
  - [https://secret.club](https://secret.club)
  - date published: 2023-10-25T12:16:05.805445+00:00
  - user: None
- - tags: []
+ - tags: ['hacking', 'reverse engineering']
 
 ## Show HN: Launch your product within hours
  - [https://shipped.club](https://shipped.club)
@@ -957,6 +969,12 @@
  - date published: 2024-01-30T17:18:14.973754+00:00
  - user: None
  - tags: []
+
+## Home
+ - [https://www.cyberdb.co](https://www.cyberdb.co)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['cyber security', 'consulting']
 
 ## Daniel Montgomery
  - [https://danielmontgomery.co](https://danielmontgomery.co)
@@ -2619,6 +2637,12 @@
  - date published: 2023-12-12T08:10:57.096712+00:00
  - user: None
  - tags: ['personal']
+
+## Aaron Parecki
+ - [https://aaronparecki.com](https://aaronparecki.com)
+ - date published: 2024-02-06T20:37:40.097647+00:00
+ - user: None
+ - tags: []
 
 ## Coming Soon
  - [https://aaronshbeeb.com](https://aaronshbeeb.com)
@@ -4374,6 +4398,12 @@
  - user: None
  - tags: ['personal']
 
+## Aloha Browser
+ - [https://alohabrowser.com](https://alohabrowser.com)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['web browser']
+
 ## Web Application Development in Brighton, UK | Alone On A Hill
  - [https://aloneonahill.com](https://aloneonahill.com)
  - date published: 2023-10-25T12:39:07.511934+00:00
@@ -4792,7 +4822,7 @@
  - [https://amitopia.com](https://amitopia.com)
  - date published: 2023-10-25T10:46:19.496715+00:00
  - user: None
- - tags: []
+ - tags: ['magazine']
 
 ## Amitopia
  - [https://www.amitopia.com](https://www.amitopia.com)
@@ -5967,36 +5997,6 @@
 ## Simplifying embedded vision for all. - Arducam
  - [https://www.arducam.com](https://www.arducam.com)
  - date published: 2023-10-28T20:23:30.868791+00:00
- - user: None
- - tags: []
-
-## ArduinoRailwayControl
- - [https://arduinorailwaycontrol.com](https://arduinorailwaycontrol.com)
- - date published: 2023-10-25T12:44:49.655530+00:00
- - user: None
- - tags: []
-
-## ArenaEV - electric vehicle news, specs and more...
- - [https://www.arenaev.com](https://www.arenaev.com)
- - date published: 2023-10-25T12:44:53.706425+00:00
- - user: None
- - tags: []
-
-## Areo - Free Expression • Humanism • Culture • Politics • Human Rights • Science
- - [https://areomagazine.com](https://areomagazine.com)
- - date published: 2023-10-25T12:45:02.163868+00:00
- - user: None
- - tags: []
-
-## Are We Sixel Yet?
- - [https://www.arewesixelyet.com](https://www.arewesixelyet.com)
- - date published: 2023-10-25T12:45:06.237475+00:00
- - user: None
- - tags: []
-
-## Are we stack-efficient yet?
- - [https://arewestackefficientyet.com](https://arewestackefficientyet.com)
- - date published: 2023-10-25T12:45:08.666599+00:00
  - user: None
  - tags: []
 

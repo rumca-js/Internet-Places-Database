@@ -1,3 +1,369 @@
+## bflat - C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)
+ - [https://flattened.net](https://flattened.net)
+ - date published: 2023-10-25T20:30:13.195758+00:00
+ - user: None
+ - tags: []
+
+## flu0r1ne.net
+ - [https://www.flu0r1ne.net](https://www.flu0r1ne.net)
+ - date published: 2023-11-14T04:42:18.031975+00:00
+ - user: None
+ - tags: []
+
+## Fly.io Status
+ - [https://status.flyio.net](https://status.flyio.net)
+ - date published: 2024-01-09T03:35:29.771425+00:00
+ - user: None
+ - tags: []
+
+## fodev.net
+ - [https://fodev.net](https://fodev.net)
+ - date published: 2023-10-25T08:36:01.914297+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [https://foodnotbombs.net](https://foodnotbombs.net)
+ - date published: 2024-01-09T03:35:33.314502+00:00
+ - user: None
+ - tags: []
+
+## foonathan::​blog()
+ - [https://www.foonathan.net](https://www.foonathan.net)
+ - date published: 2023-10-25T20:30:14.679352+00:00
+ - user: None
+ - tags: []
+
+## Forces Network
+ - [https://www.forces.net](https://www.forces.net)
+ - date published: 2023-12-10T17:05:03.656365+00:00
+ - user: None
+ - tags: []
+
+## ARM embedded system som system on module, single board computer, development board, industrial control board, microcontroller board - Forlinx Embedded Technology Co., Ltd.
+ - [https://www.forlinx.net](https://www.forlinx.net)
+ - date published: 2023-10-25T20:30:18.516748+00:00
+ - user: None
+ - tags: []
+
+## Show HN: FrameOS – operating system for single function smart frames
+ - [https://frameos.net](https://frameos.net)
+ - date published: 2024-01-03T15:42:22+00:00
+ - user: None
+ - tags: []
+
+## Frank Schmittlein :: WordPress & WooCommerce
+ - [https://frank-schmittlein.net](https://frank-schmittlein.net)
+ - date published: 2023-11-29T15:44:58.941355+00:00
+ - user: None
+ - tags: ['personal']
+
+## FreeBasic
+ - [https://www.freebasic.net](https://www.freebasic.net)
+ - date published: 2023-12-22T04:34:37+00:00
+ - user: None
+ - tags: []
+
+## Marc Stuff
+ - [https://www.friendlyskies.net](https://www.friendlyskies.net)
+ - date published: 2023-10-25T08:52:22.641875+00:00
+ - user: None
+ - tags: ['personal']
+
+## Frostgrave Wiki
+ - [https://www.frostgrave.net](https://www.frostgrave.net)
+ - date published: 2023-10-27T07:24:05.990469+00:00
+ - user: None
+ - tags: ['tabletop games']
+
+## FS-UAE Amiga Emulator
+ - [https://fs-uae.net](https://fs-uae.net)
+ - date published: 2023-10-25T14:20:50.782383+00:00
+ - user: None
+ - tags: ['emulator']
+
+## Full Stop | Reviews. Interviews. Marginalia.
+ - [https://www.full-stop.net](https://www.full-stop.net)
+ - date published: 2023-10-25T20:30:27.155013+00:00
+ - user: None
+ - tags: []
+
+## Fully Stacked
+ - [https://fullystacked.net](https://fullystacked.net)
+ - date published: 2023-10-31T12:38:17.676616+00:00
+ - user: None
+ - tags: []
+
+## g1a55er::blog
+ - [https://www.g1a55er.net](https://www.g1a55er.net)
+ - date published: 2023-10-25T08:52:28.778544+00:00
+ - user: None
+ - tags: ['personal']
+
+## Game-icons.net: Free icons for your games
+ - [https://game-icons.net](https://game-icons.net)
+ - date published: 2023-12-28T00:28:21+00:00
+ - user: None
+ - tags: []
+
+## NeHe Productions - Everything OpenGL
+ - [https://nehe.gamedev.net](https://nehe.gamedev.net)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['opengl']
+
+## Homepage, Most Recent | GamersNexus
+ - [https://gamersnexus.net](https://gamersnexus.net)
+ - date published: 2023-11-04T22:47:35.444560+00:00
+ - user: None
+ - tags: []
+
+## Gandi.net news
+ - [https://news.gandi.net](https://news.gandi.net)
+ - date published: 2023-10-25T20:30:32.130954+00:00
+ - user: None
+ - tags: []
+
+## GBAtemp.net - The Independent Video Game Community
+ - [https://gbatemp.net](https://gbatemp.net)
+ - date published: 2023-10-25T20:30:39.036962+00:00
+ - user: None
+ - tags: ['nintendo', 'video game news']
+
+## Geeks are Sexy Technology NewsGeeks are Sexy Technology News | Tech, science, cosplay and news by geeks, for geeks! We make technology sexy!
+ - [https://www.geeksaresexy.net](https://www.geeksaresexy.net)
+ - date published: 2023-10-25T09:37:05.301473+00:00
+ - user: None
+ - tags: []
+
+## Easy HTTPS for your private networks
+ - [https://www.getlocalcert.net](https://www.getlocalcert.net)
+ - date published: 2023-10-25T20:30:41.478985+00:00
+ - user: None
+ - tags: []
+
+## Homepage | gHacks Technology News
+ - [https://www.ghacks.net](https://www.ghacks.net)
+ - date published: 2023-10-25T20:30:52.938103+00:00
+ - user: None
+ - tags: []
+
+## Ghoztcraft [Gaming Made Easy]
+ - [https://www.ghoztcraft.net](https://www.ghoztcraft.net)
+ - date published: 2023-10-30T15:24:11.219427+00:00
+ - user: None
+ - tags: ['diablo', 'starcraft']
+
+## GIGAZINE（ギガジン） - 効果なしと論じられたフェニレフリンを含む風邪薬をドラッグストア大手が棚から自主撤去
+ - [https://gigazine.net](https://gigazine.net)
+ - date published: 2023-10-25T10:58:35.725805+00:00
+ - user: None
+ - tags: []
+
+## Taras' Blog on AI, Perf, Hacks
+ - [https://taras.glek.net](https://taras.glek.net)
+ - date published: 2023-10-25T09:00:35.505591+00:00
+ - user: None
+ - tags: ['personal']
+
+## Globo Pre Order - Globo Software Solution
+ - [https://preorder.globosoftware.net](https://preorder.globosoftware.net)
+ - date published: 2023-12-13T15:36:22.501096+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://s.go-mpulse.net](https://s.go-mpulse.net)
+ - date published: 2024-01-09T03:35:34.035829+00:00
+ - user: None
+ - tags: []
+
+## GoDaddy Inc. - Home
+ - [https://aboutus.godaddy.net](https://aboutus.godaddy.net)
+ - date published: 2023-10-25T20:30:54.623084+00:00
+ - user: None
+ - tags: []
+
+## gofoss.net - Digital freedom for all
+ - [https://gofoss.net](https://gofoss.net)
+ - date published: 2023-10-25T20:30:55.230223+00:00
+ - user: None
+ - tags: []
+
+## Goomics
+ - [https://goomics.net](https://goomics.net)
+ - date published: 2023-10-25T20:31:00.865503+00:00
+ - user: None
+ - tags: []
+
+## What We Do - GoSecure
+ - [https://www.gosecure.net](https://www.gosecure.net)
+ - date published: 2023-10-25T20:31:05.944265+00:00
+ - user: None
+ - tags: []
+
+## Gosha Tcherednitchenko
+ - [https://gosha.net](https://gosha.net)
+ - date published: 2024-01-20T13:00:32.460220+00:00
+ - user: None
+ - tags: []
+
+## Grafana
+ - [https://decentim.grafana.net](https://decentim.grafana.net)
+ - date published: 2023-11-01T08:43:53.028925+00:00
+ - user: None
+ - tags: []
+
+## Good Love - Out Now!
+ - [https://www.gramatik.net](https://www.gramatik.net)
+ - date published: 2023-11-13T09:58:11.681094+00:00
+ - user: None
+ - tags: ['music band']
+
+## Dr. Vadim Zaytsev
+ - [https://www.grammarware.net](https://www.grammarware.net)
+ - date published: 2023-10-25T08:52:31.014636+00:00
+ - user: None
+ - tags: ['personal']
+
+## Greg Egan’s Home Page
+ - [https://www.gregegan.net](https://www.gregegan.net)
+ - date published: 2023-10-25T08:52:34.982040+00:00
+ - user: None
+ - tags: ['personal']
+
+## Marva Jackson Lord
+ - [https://www.griots.net](https://www.griots.net)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://bellmedia-ash.gscontxt.net
+ - [https://bellmedia-ash.gscontxt.net](https://bellmedia-ash.gscontxt.net)
+ - date published: 2023-12-12T08:40:40.142562+00:00
+ - user: None
+ - tags: []
+
+## GTA 5 mods – GTA5mod.net
+ - [https://gta5mod.net](https://gta5mod.net)
+ - date published: 2023-10-25T11:10:23.969204+00:00
+ - user: None
+ - tags: []
+
+## GTALand.net - GTA Mods | Grand Theft Auto Mods
+ - [https://gtaland.net](https://gtaland.net)
+ - date published: 2023-10-25T11:17:52.636171+00:00
+ - user: None
+ - tags: []
+
+## Foren
+ - [https://www.gw-fanworld.net](https://www.gw-fanworld.net)
+ - date published: 2023-10-27T07:30:39.843574+00:00
+ - user: None
+ - tags: ['tabletop games', 'warhammer']
+
+## Essays · Gwern.net
+ - [https://gwern.net](https://gwern.net)
+ - date published: 2023-10-25T08:52:40.007182+00:00
+ - user: None
+ - tags: ['personal']
+
+## Essays · Gwern.net
+ - [https://www.gwern.net](https://www.gwern.net)
+ - date published: 2023-10-25T20:31:15.067679+00:00
+ - user: None
+ - tags: []
+
+## /bɑs ˈtjɛ̃ no ˈse ʁɑ/  (hadess) | News
+ - [https://www.hadess.net](https://www.hadess.net)
+ - date published: 2023-10-25T20:31:19.295251+00:00
+ - user: None
+ - tags: []
+
+## Halestrom's Peregrinations
+ - [https://halestrom.net](https://halestrom.net)
+ - date published: 2023-10-25T20:31:21.737543+00:00
+ - user: None
+ - tags: []
+
+## Vladimir Haltakov
+ - [https://haltakov.net](https://haltakov.net)
+ - date published: 2023-10-25T09:23:08.743881+00:00
+ - user: None
+ - tags: ['personal']
+
+## Tumble Forth
+ - [http://tumbleforth.hardcoded.net](http://tumbleforth.hardcoded.net)
+ - date published: 2023-11-07T23:23:22+00:00
+ - user: None
+ - tags: []
+
+## HardenedVault - Building Your Own Cyber Bunker
+ - [https://hardenedvault.net](https://hardenedvault.net)
+ - date published: 2023-10-25T20:31:23.525032+00:00
+ - user: None
+ - tags: []
+
+## recycled math
+ - [https://harrystern.net](https://harrystern.net)
+ - date published: 2023-10-25T08:52:41.328899+00:00
+ - user: None
+ - tags: ['personal']
+
+## Aftersleep Travel Log
+ - [http://www.hat.net](http://www.hat.net)
+ - date published: 2023-10-27T11:37:41.993043+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hazlitt
+ - [https://hazlitt.net](https://hazlitt.net)
+ - date published: 2023-10-25T20:31:25.130401+00:00
+ - user: None
+ - tags: []
+
+## Email Deliverability Checklist & Toolkit for Marketers
+ - [https://www.helloinbox.net](https://www.helloinbox.net)
+ - date published: 2024-01-09T01:36:36.095516+00:00
+ - user: None
+ - tags: []
+
+## Index & News — hermiene.net
+ - [https://hermiene.net](https://hermiene.net)
+ - date published: 2023-10-25T08:52:43.448249+00:00
+ - user: None
+ - tags: ['personal']
+
+## HERO Movement » Online Movement + Mobility Training » Luke Jones
+ - [https://heromovement.net](https://heromovement.net)
+ - date published: 2023-11-29T15:52:09.795783+00:00
+ - user: None
+ - tags: ['personal']
+
+## HEXUS.net - Definitive Technology News and Reviews
+ - [https://hexus.net](https://hexus.net)
+ - date published: 2023-10-25T20:31:28.683808+00:00
+ - user: None
+ - tags: []
+
+## History Defined
+ - [https://www.historydefined.net](https://www.historydefined.net)
+ - date published: 2023-10-25T20:31:31.894518+00:00
+ - user: None
+ - tags: []
+
+## Sci-Hub
+ - [https://sci-hubtw.hkvisa.net](https://sci-hubtw.hkvisa.net)
+ - date published: 2023-10-25T20:31:32.809393+00:00
+ - user: None
+ - tags: []
+
+## hllmn.net
+ - [https://hllmn.net](https://hllmn.net)
+ - date published: 2023-10-25T20:31:33.334908+00:00
+ - user: None
+ - tags: []
+
 ## https://steve.hollasch.net
  - [https://steve.hollasch.net](https://steve.hollasch.net)
  - date published: 2024-01-09T03:35:35.301545+00:00
@@ -91,6 +457,12 @@
 ## The Most Officialest SkiFree Home Page
  - [https://ski.ihoc.net](https://ski.ihoc.net)
  - date published: 2023-10-25T20:31:50.207165+00:00
+ - user: None
+ - tags: []
+
+## IHOC Quake
+ - [http://www.quake.ihoc.net](http://www.quake.ihoc.net)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -264,8 +636,8 @@
 
 ## Jean Snow [.net] – Blogging since 1998
  - [https://www.jeansnow.net](https://www.jeansnow.net)
- - date published: 2024-02-02T18:14:36.799150+00:00
- - user: None
+ - date published: 1998-02-02T18:14:36+00:00
+ - user: rumpel
  - tags: ['personal', 'blog']
 
 ## JTube
@@ -345,6 +717,12 @@
  - date published: 2023-12-23T03:00:24.862474+00:00
  - user: None
  - tags: ['personal']
+
+## Jonathan Crowe – Map blogger. Piano maniac. Science fiction and fantasy critic and writer. Snake whisperer. Typewriter fiend.
+ - [https://www.jonathancrowe.net](https://www.jonathancrowe.net)
+ - date published: 2024-02-06T10:21:49.063642+00:00
+ - user: None
+ - tags: []
 
 ## The Ravenna Ultra-Low-Altitude Vehicle: A Rocketship Treehouse
  - [https://rocket.jonh.net](https://rocket.jonh.net)
@@ -627,7 +1005,7 @@
  - [https://librewolf.net](https://librewolf.net)
  - date published: 2023-10-25T20:32:49.628211+00:00
  - user: None
- - tags: ['firefox', 'privacy', 'open source']
+ - tags: ['web browser', 'open source', 'firefox', 'privacy']
 
 ## Creative Commons license buttons
  - [https://licensebuttons.net](https://licensebuttons.net)
@@ -1269,7 +1647,7 @@
  - [https://www.neowin.net](https://www.neowin.net)
  - date published: 2023-10-25T09:37:10.924245+00:00
  - user: None
- - tags: []
+ - tags: ['tech news']
 
 ## NewPipe - a free YouTube client
  - [https://newpipe.net](https://newpipe.net)
@@ -1806,6 +2184,12 @@
  - user: None
  - tags: []
 
+## pouët.net :: your online demoscene resource
+ - [https://www.pouet.net](https://www.pouet.net)
+ - date published: 2024-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Practical Scheme
  - [https://practical-scheme.net](https://practical-scheme.net)
  - date published: 2023-10-25T20:36:15.745291+00:00
@@ -1863,6 +2247,12 @@
 ## Quad9 | A public and free DNS service for a better security and privacy
  - [https://www.quad9.net](https://www.quad9.net)
  - date published: 2023-10-25T20:36:19.669279+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [http://www.quakewiki.net](http://www.quakewiki.net)
+ - date published: 2022-04-27T16:15:35+00:00
  - user: None
  - tags: []
 
@@ -1937,6 +2327,12 @@
  - date published: 2023-10-25T20:36:30.258317+00:00
  - user: None
  - tags: []
+
+## Revision 2024 - March 29th to April 1st
+ - [https://revision-party.net](https://revision-party.net)
+ - date published: 2024-02-06T13:54:22.381675+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## RGBWatermark
  - [https://rgbwatermark.net](https://rgbwatermark.net)
@@ -2791,6 +3187,12 @@
  - tags: ['personal']
 
 ## Threads
+ - [https://threads.net](https://threads.net)
+ - date published: 2024-02-06T14:11:13.766310+00:00
+ - user: None
+ - tags: ['social media']
+
+## Threads
  - [https://www.threads.net](https://www.threads.net)
  - date published: 2023-10-25T20:38:45.571181+00:00
  - user: None
@@ -3054,6 +3456,12 @@
  - user: None
  - tags: []
 
+## Variston
+ - [https://variston.net](https://variston.net)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['spyware vendor']
+
 ## Varun Ramesh's Blog
  - [https://blog.varunramesh.net](https://blog.varunramesh.net)
  - date published: 2023-10-25T08:54:13.639194+00:00
@@ -3309,6 +3717,12 @@
 ## WorkerBox Demo
  - [https://workerbox.net](https://workerbox.net)
  - date published: 2023-10-25T20:40:29.252142+00:00
+ - user: None
+ - tags: []
+
+## Game Tournaments All Around The World | Find a tournament for your preferred game!
+ - [https://www.worldtournament.net](https://www.worldtournament.net)
+ - date published: 2024-02-06T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3702,6 +4116,12 @@
  - user: None
  - tags: []
 
+## The Bureau | Sam Cooper | Substack
+ - [https://www.thebureau.news](https://www.thebureau.news)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## tilde news
  - [https://tilde.news](https://tilde.news)
  - date published: 2023-10-25T20:43:14.869847+00:00
@@ -3867,6 +4287,12 @@
 ## Personenauto's en bedrijfswagens van Citroën | Citroën NL
  - [https://www.citroen.nl](https://www.citroen.nl)
  - date published: 2023-12-11T15:58:27.782079+00:00
+ - user: None
+ - tags: []
+
+## Ministerie van Defensie | Defensie.nl
+ - [https://www.defensie.nl](https://www.defensie.nl)
+ - date published: 2024-01-30T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5574,430 +6000,4 @@ marginalia.nu
  - date published: 2023-10-25T20:56:15.359706+00:00
  - user: None
  - tags: []
-
-## https://www.americanbar.org
- - [https://www.americanbar.org](https://www.americanbar.org)
- - date published: 2023-10-25T20:56:20.959972+00:00
- - user: None
- - tags: []
-
-## American Dialect Society
- - [https://americandialect.org](https://americandialect.org)
- - date published: 2024-01-07T08:07:09.436647+00:00
- - user: None
- - tags: []
-
-## UBIQUE | American Geographical Society
- - [https://ubique.americangeo.org](https://ubique.americangeo.org)
- - date published: 2023-10-25T20:56:24.145813+00:00
- - user: None
- - tags: []
-
-## Alliance for American Manufacturing
- - [https://www.americanmanufacturing.org](https://www.americanmanufacturing.org)
- - date published: 2023-10-25T20:56:26.459768+00:00
- - user: None
- - tags: []
-
-## Center for American Progress
- - [https://www.americanprogress.org](https://www.americanprogress.org)
- - date published: 2023-10-25T20:56:35.352450+00:00
- - user: None
- - tags: []
-
-## American Scientist
- - [https://www.americanscientist.org](https://www.americanscientist.org)
- - date published: 2024-01-27T17:35:19.415020+00:00
- - user: None
- - tags: []
-
-## Home - The Survey Center on American Life
- - [https://www.americansurveycenter.org](https://www.americansurveycenter.org)
- - date published: 2023-10-25T20:56:38.831795+00:00
- - user: None
- - tags: []
-
-## Amerika
- - [https://www.amerika.org](https://www.amerika.org)
- - date published: 2023-10-28T17:28:54.615306+00:00
- - user: None
- - tags: []
-
-## AMetSoc
- - [https://journals.ametsoc.org](https://journals.ametsoc.org)
- - date published: 2023-11-17T07:14:43.865621+00:00
- - user: None
- - tags: []
-
-## AMIBIAN - Amiga emulation environment for Raspberry Pi.
- - [https://www.amibian.org](https://www.amibian.org)
- - date published: 2023-11-02T10:54:30.008681+00:00
- - user: None
- - tags: ['amiga', 'open source', 'emulation', 'raspberry pi']
-
-## Welcome to Amiga.org
- - [https://amiga.org](https://amiga.org)
- - date published: 2023-12-12T09:20:12+00:00
- - user: rumpel
- - tags: []
-
-## Amiga.org - Index
- - [https://forum.amiga.org](https://forum.amiga.org)
- - date published: 2023-12-11T17:27:44.605001+00:00
- - user: None
- - tags: []
-
-## wiki.amiga.org
- - [https://wiki.amiga.org](https://wiki.amiga.org)
- - date published: 2024-01-09T03:38:14.810685+00:00
- - user: None
- - tags: []
-
-## https://www.amiga.org
- - [https://www.amiga.org](https://www.amiga.org)
- - date published: 2023-12-12T09:21:33+00:00
- - user: rumpel
- - tags: []
-
-## Amiga PCB Explorer
- - [https://amigapcb.org](https://amigapcb.org)
- - date published: 2024-01-30T15:24:11+00:00
- - user: rumpel
- - tags: ['amiga', 'hobby', 'hardware']
-
-## Index of /
- - [http://ftp.amigascne.org](http://ftp.amigascne.org)
- - date published: 2023-12-11T17:26:36.493088+00:00
- - user: None
- - tags: []
-
-## AmigaShop.org
- - [https://www.amigashop.org](https://www.amigashop.org)
- - date published: 2023-12-11T19:05:06.410380+00:00
- - user: None
- - tags: []
-
-## AmigaWARP organizacija - Prvi hrvatski Amiga portal
- - [https://amigawarp.org](https://amigawarp.org)
- - date published: 2023-12-11T19:28:47.299747+00:00
- - user: None
- - tags: []
-
-## Amnesty International
- - [https://www.amnesty.org](https://www.amnesty.org)
- - date published: 2023-10-25T20:56:42.566735+00:00
- - user: None
- - tags: ['human rights', 'organization']
-
-## American Museum of Natural History | New York City
- - [https://www.amnh.org](https://www.amnh.org)
- - date published: 2024-01-14T00:43:40.479281+00:00
- - user: None
- - tags: []
-
-## American Mathematical Society :: Homepage
- - [https://www.ams.org](https://www.ams.org)
- - date published: 2023-10-25T20:56:48.677652+00:00
- - user: None
- - tags: []
-
-## Amsterdam UMC Vandaag
- - [https://www.amsterdamumc.org](https://www.amsterdamumc.org)
- - date published: 2024-01-04T16:19:39.496136+00:00
- - user: None
- - tags: []
-
-## # Welcome to aMule, the all-platform eMule-like P2P client #
- - [https://www.amule.org](https://www.amule.org)
- - date published: 2023-10-28T20:48:21.605487+00:00
- - user: None
- - tags: ['piracy']
-
-## The Analog Computer Museum / Das Analogrechnermuseum
- - [https://www.analogmuseum.org](https://www.analogmuseum.org)
- - date published: 2023-10-25T20:56:49.148666+00:00
- - user: None
- - tags: []
-
-## Analyst News
- - [https://www.analystnews.org](https://www.analystnews.org)
- - date published: 2024-02-03T21:25:52.735569+00:00
- - user: None
- - tags: []
-
-## Anash.org - Good News
- - [https://anash.org](https://anash.org)
- - date published: 2023-12-21T15:47:22.735810+00:00
- - user: None
- - tags: ['israel']
-
-## Andrew McWatters
- - [https://blog.andrewmcwatters.org](https://blog.andrewmcwatters.org)
- - date published: 2023-10-25T20:56:51.087174+00:00
- - user: None
- - tags: []
-
-## Andrew Shell's Weblog
- - [https://blog.andrewshell.org](https://blog.andrewshell.org)
- - date published: 2023-11-29T14:53:31.250344+00:00
- - user: None
- - tags: ['personal']
-
-## Ministry of Intrigue
- - [https://www.andrlik.org](https://www.andrlik.org)
- - date published: 2024-01-02T18:28:50.452334+00:00
- - user: None
- - tags: []
-
-## Andy Matuschak
- - [https://andymatuschak.org](https://andymatuschak.org)
- - date published: 2023-10-25T20:56:54.344415+00:00
- - user: None
- - tags: []
-
-## About these notes
- - [https://notes.andymatuschak.org](https://notes.andymatuschak.org)
- - date published: 2023-10-25T20:56:56.005423+00:00
- - user: None
- - tags: []
-
-## Anglish
- - [https://anglish.org](https://anglish.org)
- - date published: 2023-10-25T20:56:58.251091+00:00
- - user: None
- - tags: []
-
-## Animal Cognition
- - [https://www.animalcognition.org](https://www.animalcognition.org)
- - date published: 2024-01-01T23:17:13.137162+00:00
- - user: None
- - tags: []
-
-## Anime Music Videos .Org - Home
- - [https://www.animemusicvideos.org](https://www.animemusicvideos.org)
- - date published: 2023-10-25T15:04:03.927579+00:00
- - user: None
- - tags: []
-
-## Anna’s Archive
- - [https://annas-archive.org](https://annas-archive.org)
- - date published: 2023-10-25T20:56:58.923570+00:00
- - user: None
- - tags: ['ebook', 'digital library']
-
-## Anna’s Archive
- - [https://www.annas-archive.org](https://www.annas-archive.org)
- - date published: 2023-10-25T09:28:18.535522+00:00
- - user: None
- - tags: []
-
-## Anna’s Blog
- - [https://annas-blog.org](https://annas-blog.org)
- - date published: 2023-10-25T09:26:39.715551+00:00
- - user: None
- - tags: ['personal']
-
-## AnnaArchivist / annas-archive · GitLab
- - [https://annas-software.org](https://annas-software.org)
- - date published: 2023-10-25T20:57:10.573247+00:00
- - user: None
- - tags: []
-
-## Annenberg Institute at Brown University | Annenberg Institute at Brown
- - [https://www.annenberginstitute.org](https://www.annenberginstitute.org)
- - date published: 2023-10-25T20:57:11.852093+00:00
- - user: None
- - tags: []
-
-## Annuaire Amiga Francophone
- - [https://www.annuaire-amiga.org](https://www.annuaire-amiga.org)
- - date published: 2024-01-09T03:38:16.692454+00:00
- - user: None
- - tags: []
-
-## Anthropocene Magazine from Future Earth
- - [https://www.anthropocenemagazine.org](https://www.anthropocenemagazine.org)
- - date published: 2023-10-25T20:57:16.695647+00:00
- - user: None
- - tags: []
-
-## Antipope!
- - [https://www.antipope.org](https://www.antipope.org)
- - date published: 2023-10-25T20:57:17.170460+00:00
- - user: None
- - tags: []
-
-## Anti-Slavery International | Fighting for Freedom from Slavery
- - [https://www.antislavery.org](https://www.antislavery.org)
- - date published: 2023-11-27T12:07:17+00:00
- - user: rumpel
- - tags: ['human rights', 'organization']
-
-## Anton Zhiyanov
- - [https://antonz.org](https://antonz.org)
- - date published: 2023-10-25T08:57:18.278632+00:00
- - user: None
- - tags: ['personal']
-
-## https://journals.aom.org
- - [https://journals.aom.org](https://journals.aom.org)
- - date published: 2023-10-25T20:57:17.610772+00:00
- - user: None
- - tags: []
-
-## Your Freedom to Fly - AOPA
- - [https://www.aopa.org](https://www.aopa.org)
- - date published: 2023-10-25T20:57:21.351039+00:00
- - user: None
- - tags: []
-
-## Redirecting…
- - [https://aosabook.org](https://aosabook.org)
- - date published: 2023-10-25T20:57:22.012703+00:00
- - user: None
- - tags: []
-
-## APA PsycNet
- - [https://psycnet.apa.org](https://psycnet.apa.org)
- - date published: 2023-10-31T10:17:55.540747+00:00
- - user: None
- - tags: []
-
-## American Psychological Association (APA)
- - [https://www.apa.org](https://www.apa.org)
- - date published: 2023-10-25T20:57:26.386566+00:00
- - user: None
- - tags: []
-
-## Welcome to The Apache Software Foundation!
- - [https://apache.org](https://apache.org)
- - date published: 2023-12-08T15:54:41+00:00
- - user: rumpel
- - tags: []
-
-## Apache APISIX® -- Cloud-Native API Gateway
- - [https://apisix.apache.org](https://apisix.apache.org)
- - date published: 2023-10-25T20:57:27.495040+00:00
- - user: None
- - tags: []
-
-## Apache Arrow | Apache Arrow
- - [https://arrow.apache.org](https://arrow.apache.org)
- - date published: 2023-10-25T20:57:33.670630+00:00
- - user: None
- - tags: []
-
-## Apache Baremaps - Apache Baremaps
- - [https://baremaps.apache.org](https://baremaps.apache.org)
- - date published: 2023-10-25T20:57:39.542922+00:00
- - user: None
- - tags: []
-
-## Blogs Archive | This is an archive of the Roller blogs that were previously hosted on blogs.apache.org
- - [https://blogs.apache.org](https://blogs.apache.org)
- - date published: 2023-10-25T20:58:07.343179+00:00
- - user: None
- - tags: []
-
-## Dashboard - Apache Software Foundation
- - [https://cwiki.apache.org](https://cwiki.apache.org)
- - date published: 2023-10-25T20:58:13.723236+00:00
- - user: None
- - tags: []
-
-## Apache Doris: Open-Source Real-Time Data Warehouse - Apache Doris
- - [https://doris.apache.org](https://doris.apache.org)
- - date published: 2023-10-25T20:58:16.050231+00:00
- - user: None
- - tags: []
-
-## Apache Hadoop
- - [https://hadoop.apache.org](https://hadoop.apache.org)
- - date published: 2023-06-23T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## Welcome! - The Apache HTTP Server Project
- - [https://httpd.apache.org](https://httpd.apache.org)
- - date published: 2023-10-25T08:35:23.292622+00:00
- - user: None
- - tags: []
-
-## Hello from Apache Hudi | Apache Hudi
- - [https://hudi.apache.org](https://hudi.apache.org)
- - date published: 2024-01-18T07:35:20+00:00
- - user: rumpel
- - tags: ['big data']
-
-## Apache Iceberg
- - [https://iceberg.apache.org](https://iceberg.apache.org)
- - date published: 2000-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['big data']
-
-## Apache Logging Services
- - [https://logging.apache.org](https://logging.apache.org)
- - date published: 2023-10-25T20:58:16.999501+00:00
- - user: None
- - tags: []
-
-## Welcome to Apache Lucene
- - [https://lucene.apache.org](https://lucene.apache.org)
- - date published: 2024-01-28T08:12:17+00:00
- - user: rumpel
- - tags: ['open source', 'search engine', 'self host']
-
-## Maven – Welcome to Apache Maven
- - [https://maven.apache.org](https://maven.apache.org)
- - date published: 2023-12-08T15:53:15+00:00
- - user: rumpel
- - tags: []
-
-## Netbeans
- - [https://netbeans.apache.org](https://netbeans.apache.org)
- - date published: 2023-12-02T09:10:29+00:00
- - user: rumpel
- - tags: ['ide']
-
-## The Apache Software Foundation Blog
- - [https://news.apache.org](https://news.apache.org)
- - date published: 2023-10-25T08:36:41.438322+00:00
- - user: None
- - tags: []
-
-## home.apache.org
- - [https://people.apache.org](https://people.apache.org)
- - date published: 2023-10-25T20:58:17.974296+00:00
- - user: None
- - tags: []
-
-## Apache Pinot™: Realtime distributed OLAP datastore | Apache Pinot™
- - [https://pinot.apache.org](https://pinot.apache.org)
- - date published: 2023-10-25T20:58:19.613396+00:00
- - user: None
- - tags: []
-
-## Welcome to Apache Solr - Apache Solr
- - [https://solr.apache.org](https://solr.apache.org)
- - date published: 2023-10-25T20:58:20.722292+00:00
- - user: None
- - tags: []
-
-## Apartheid Museum
- - [https://www.apartheidmuseum.org](https://www.apartheidmuseum.org)
- - date published: 2023-11-13T13:41:16.309026+00:00
- - user: None
- - tags: ['museum']
-
-## The Internet Shutdown Game
- - [https://shutdowngame.apc.org](https://shutdowngame.apc.org)
- - date published: 2023-12-08T08:40:07+00:00
- - user: None
- - tags: []
-
-## Association for Progressive Communications | Internet for social justice and sustainable development
- - [https://www.apc.org](https://www.apc.org)
- - date published: 2023-12-08T12:42:22+00:00
- - user: rumpel
- - tags: ['social justice', 'human rights']
 

@@ -1,3 +1,33 @@
+## ArduinoRailwayControl
+ - [https://arduinorailwaycontrol.com](https://arduinorailwaycontrol.com)
+ - date published: 2023-10-25T12:44:49.655530+00:00
+ - user: None
+ - tags: []
+
+## ArenaEV - electric vehicle news, specs and more...
+ - [https://www.arenaev.com](https://www.arenaev.com)
+ - date published: 2023-10-25T12:44:53.706425+00:00
+ - user: None
+ - tags: []
+
+## Areo - Free Expression • Humanism • Culture • Politics • Human Rights • Science
+ - [https://areomagazine.com](https://areomagazine.com)
+ - date published: 2023-10-25T12:45:02.163868+00:00
+ - user: None
+ - tags: []
+
+## Are We Sixel Yet?
+ - [https://www.arewesixelyet.com](https://www.arewesixelyet.com)
+ - date published: 2023-10-25T12:45:06.237475+00:00
+ - user: None
+ - tags: []
+
+## Are we stack-efficient yet?
+ - [https://arewestackefficientyet.com](https://arewestackefficientyet.com)
+ - date published: 2023-10-25T12:45:08.666599+00:00
+ - user: None
+ - tags: []
+
 ## Adventure, craftsmanship, enjoying life!
  - [https://www.argobuilder.com](https://www.argobuilder.com)
  - date published: 2023-10-25T12:45:12.448496+00:00
@@ -650,7 +680,7 @@
  - [https://atorecords.com](https://atorecords.com)
  - date published: 2024-01-24T00:00:00+00:00
  - user: rumpel
- - tags: ['music label']
+ - tags: ['record label']
 
 ## The AT Protocol
  - [https://atproto.com](https://atproto.com)
@@ -3492,9 +3522,9 @@
 
 ## Omics! Omics!
  - [https://omicsomics.blogspot.com](https://omicsomics.blogspot.com)
- - date published: 2024-02-05T00:00:00+00:00
- - user: None
- - tags: []
+ - date published: 2006-02-05T00:00:00+00:00
+ - user: rumpel
+ - tags: ['pharmacy', 'blog', 'personal']
 
 ## Postapokalipsa bez ograniczeń!
  - [https://postapokalipsa.blogspot.com](https://postapokalipsa.blogspot.com)
@@ -4382,7 +4412,7 @@
  - [https://www.brandonsanderson.com](https://www.brandonsanderson.com)
  - date published: 2023-10-25T13:11:42.034332+00:00
  - user: None
- - tags: ['writer', 'book']
+ - tags: ['book author']
 
 ## BratGPT
  - [https://bratgpt.com](https://bratgpt.com)
@@ -4394,7 +4424,7 @@
  - [https://brave.com](https://brave.com)
  - date published: 2023-10-25T08:40:27.018948+00:00
  - user: None
- - tags: []
+ - tags: ['web browser']
 
 ## Brave Search
  - [https://search.brave.com](https://search.brave.com)
@@ -4982,7 +5012,7 @@
  - [https://markets.businessinsider.com](https://markets.businessinsider.com)
  - date published: 2023-10-25T13:15:13.279722+00:00
  - user: None
- - tags: []
+ - tags: ['market news', 'business news']
 
 ## Business Insider Polska
  - [https://www.businessinsider.com](https://www.businessinsider.com)
@@ -5516,7 +5546,7 @@
  - [https://www.capcom.com](https://www.capcom.com)
  - date published: 2023-10-25T13:41:45.671843+00:00
  - user: None
- - tags: ['dead rising', 'street fighter', 'monster hounter', 'resident evil', 'devil may cry']
+ - tags: ['devil may cry', 'video game developer', 'monster hounter', 'dead rising', 'street fighter', 'resident evil']
 
 ## Cape Privacy | Keep sensitive data private while using LLMs
  - [https://capeprivacy.com](https://capeprivacy.com)
@@ -5973,34 +6003,4 @@
  - date published: 2023-10-25T09:19:37.116006+00:00
  - user: None
  - tags: ['personal']
-
-## Celebrity Private Jet Flights & Environmental Impact | CelebrityFlight
- - [https://celebrityflight.com](https://celebrityflight.com)
- - date published: 2023-10-25T13:19:38.895120+00:00
- - user: None
- - tags: []
-
-## CelerData | Enterprise Real-Time Analytics on StarRocks
- - [https://celerdata.com](https://celerdata.com)
- - date published: 2023-10-25T13:19:40.897775+00:00
- - user: None
- - tags: []
-
-## Celestine Yeh
- - [https://www.celestineyeh.com](https://www.celestineyeh.com)
- - date published: 2023-10-25T09:19:38.270194+00:00
- - user: None
- - tags: ['personal']
-
-## https://www.cell.com
- - [https://www.cell.com](https://www.cell.com)
- - date published: 2023-10-25T13:19:41.208125+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://cellebrite.com](https://cellebrite.com)
- - date published: 2023-10-30T12:02:28.412650+00:00
- - user: None
- - tags: ['israel', 'pegasus software', 'espionage']
 
