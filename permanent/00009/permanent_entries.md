@@ -1,3 +1,183 @@
+## realme (Polska) - Dare to Leap
+ - [https://www.realme.com](https://www.realme.com)
+ - date published: 2023-10-29T18:31:53.207822+00:00
+ - user: None
+ - tags: ['company']
+
+## Python Tutorials – Real Python
+ - [https://realpython.com](https://realpython.com)
+ - date published: 2023-10-25T09:27:44.900620+00:00
+ - user: None
+ - tags: []
+
+## RealVNC® - Remote access software for desktop and mobile | RealVNC
+ - [https://www.realvnc.com](https://www.realvnc.com)
+ - date published: 2023-10-25T08:36:55.279787+00:00
+ - user: None
+ - tags: []
+
+## Fully Work From Anywhere Jobs in Engineering, Marketing, Sales, Design, and more.
+ - [https://www.realworkfromanywhere.com](https://www.realworkfromanywhere.com)
+ - date published: 2023-10-25T16:47:00.940993+00:00
+ - user: None
+ - tags: []
+
+## Reaper Miniatures
+ - [https://www.reapermini.com](https://www.reapermini.com)
+ - date published: 2023-11-01T18:13:42.385023+00:00
+ - user: None
+ - tags: ['sculpting', 'tabletop games', 'miniatures']
+
+## Reason Magazine - Free Minds and Free Markets
+ - [https://reason.com](https://reason.com)
+ - date published: 2023-10-25T16:47:08.897275+00:00
+ - user: None
+ - tags: []
+
+## Reasonable Deviations · a rational approach to complexity
+ - [https://reasonabledeviations.com](https://reasonabledeviations.com)
+ - date published: 2023-10-25T16:47:11.709933+00:00
+ - user: None
+ - tags: []
+
+## Home :: Reasonably Polymorphic
+ - [https://reasonablypolymorphic.com](https://reasonablypolymorphic.com)
+ - date published: 2023-10-25T16:47:14.074710+00:00
+ - user: None
+ - tags: []
+
+## ReasonField Lab | Custom Machine Learning solutions
+ - [https://www.reasonfieldlab.com](https://www.reasonfieldlab.com)
+ - date published: 2024-01-09T02:47:23.334656+00:00
+ - user: None
+ - tags: []
+
+## Recalbox Forum
+ - [https://forum.recalbox.com](https://forum.recalbox.com)
+ - date published: 2023-12-11T17:25:44.098426+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the Recalbox wiki!
+ - [https://wiki.recalbox.com](https://wiki.recalbox.com)
+ - date published: 2023-12-11T17:25:01.917937+00:00
+ - user: None
+ - tags: []
+
+## Recalbox Home
+ - [https://www.recalbox.com](https://www.recalbox.com)
+ - date published: 2023-11-02T10:57:32.260196+00:00
+ - user: None
+ - tags: ['retro games', 'amiga']
+
+## Recall - Your AI-powered knowledge base
+ - [https://www.recall-app.com](https://www.recall-app.com)
+ - date published: 2023-10-25T16:47:21.370141+00:00
+ - user: None
+ - tags: []
+
+## Recharge | Latest renewable energy news
+ - [https://www.rechargenews.com](https://www.rechargenews.com)
+ - date published: 2023-10-25T10:54:44.339290+00:00
+ - user: None
+ - tags: []
+
+## RecipeUI
+ - [https://recipeui.com](https://recipeui.com)
+ - date published: 2023-10-25T16:47:23.469762+00:00
+ - user: None
+ - tags: []
+
+## Recoil
+ - [https://www.recoilweb.com](https://www.recoilweb.com)
+ - date published: 2023-12-27T19:01:20.072792+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Recompyle – A JavaScript Developer Friendly Console / Debugger
+ - [https://www.recompyle.com](https://www.recompyle.com)
+ - date published: 2023-12-07T14:05:47+00:00
+ - user: None
+ - tags: []
+
+## Rec Room
+ - [https://recroom.com](https://recroom.com)
+ - date published: 2023-12-20T20:37:39+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
+
+## Jobs at Tab
+ - [https://tab.recruitee.com](https://tab.recruitee.com)
+ - date published: 2023-10-25T16:47:24.237212+00:00
+ - user: None
+ - tags: []
+
+## Recurrent | Buy, Drive & Sell Electric Cars, Positively | EV Battery Reports
+ - [https://www.recurrentauto.com](https://www.recurrentauto.com)
+ - date published: 2023-10-25T16:47:30.550141+00:00
+ - user: None
+ - tags: []
+
+## Recursive Drawing
+ - [https://recursivedrawing.com](https://recursivedrawing.com)
+ - date published: 2024-01-09T02:47:24.309329+00:00
+ - user: None
+ - tags: []
+
+## Redgate Software - Compliant Database DevOps Solutions and Tools For SQL Server, Oracle, & .NET
+ - [https://www.red-gate.com](https://www.red-gate.com)
+ - date published: 2023-11-01T08:43:03.996831+00:00
+ - user: None
+ - tags: []
+
+## Red Alert 2 | Online Gameplay
+ - [https://redalert2.com](https://redalert2.com)
+ - date published: 2023-11-17T21:46:56+00:00
+ - user: rumpel
+ - tags: ['command and conquer']
+
+## Red Blob Games
+ - [https://www.redblobgames.com](https://www.redblobgames.com)
+ - date published: 2023-10-25T16:47:32.544748+00:00
+ - user: None
+ - tags: []
+
+## Red Canary | Your Managed Detection and Response Ally
+ - [https://redcanary.com](https://redcanary.com)
+ - date published: 2023-10-25T16:47:36.881352+00:00
+ - user: None
+ - tags: []
+
+## reddit: the front page of the internet
+ - [https://old.reddit.com](https://old.reddit.com)
+ - date published: 2023-10-24T20:16:40.762854+00:00
+ - user: None
+ - tags: []
+
+## reddit
+ - [https://reddit.com](https://reddit.com)
+ - date published: 2023-10-24T20:12:40.083441+00:00
+ - user: None
+ - tags: ['social platform', 'gatekeeper']
+
+## reddit
+ - [https://sh.reddit.com](https://sh.reddit.com)
+ - date published: 2023-12-30T19:00:56.429006+00:00
+ - user: None
+ - tags: []
+
+## reddit
+ - [https://www.reddit.com](https://www.reddit.com)
+ - date published: 2023-10-24T20:16:46.235665+00:00
+ - user: None
+ - tags: []
+
+## reddit-stream - a better way to view live reddit threads
+ - [https://reddit-stream.com](https://reddit-stream.com)
+ - date published: 2023-11-25T13:39:04.920744+00:00
+ - user: None
+ - tags: []
+
 ## reddit-stream - a better way to view live reddit threads
  - [https://www.reddit-stream.com](https://www.reddit-stream.com)
  - date published: 2023-11-01T21:08:19.834690+00:00
@@ -5824,184 +6004,4 @@
  - date published: 2023-10-25T17:13:05.766252+00:00
  - user: None
  - tags: []
-
-## English Language & Usage Stack Exchange
- - [https://english.stackexchange.com](https://english.stackexchange.com)
- - date published: 2023-10-25T17:13:08.440521+00:00
- - user: None
- - tags: []
-
-## GenAI Stack Exchange
- - [https://genai.stackexchange.com](https://genai.stackexchange.com)
- - date published: 2023-10-25T17:13:16.165956+00:00
- - user: None
- - tags: []
-
-## German Language Stack Exchange
- - [https://german.stackexchange.com](https://german.stackexchange.com)
- - date published: 2023-10-25T17:13:18.799900+00:00
- - user: None
- - tags: []
-
-## Geographic Information Systems Stack Exchange
- - [https://gis.stackexchange.com](https://gis.stackexchange.com)
- - date published: 2023-10-25T17:13:21.499749+00:00
- - user: None
- - tags: []
-
-## Programming Language Design and Implementation Stack Exchange
- - [https://langdev.stackexchange.com](https://langdev.stackexchange.com)
- - date published: 2023-10-25T17:13:24.333367+00:00
- - user: None
- - tags: []
-
-## Latin Language Stack Exchange
- - [https://latin.stackexchange.com](https://latin.stackexchange.com)
- - date published: 2023-10-25T17:13:26.969617+00:00
- - user: None
- - tags: []
-
-## Law Stack Exchange
- - [https://law.stackexchange.com](https://law.stackexchange.com)
- - date published: 2023-10-25T17:13:29.773395+00:00
- - user: None
- - tags: []
-
-## Mathematics Stack Exchange
- - [https://math.stackexchange.com](https://math.stackexchange.com)
- - date published: 2023-10-25T17:13:42.554988+00:00
- - user: None
- - tags: []
-
-## Mathematica Stack Exchange
- - [https://mathematica.stackexchange.com](https://mathematica.stackexchange.com)
- - date published: 2023-10-25T17:13:45.339618+00:00
- - user: None
- - tags: []
-
-## Meta Stack Exchange
- - [https://meta.stackexchange.com](https://meta.stackexchange.com)
- - date published: 2023-10-25T17:13:50.218460+00:00
- - user: None
- - tags: []
-
-## Movies & TV Stack Exchange
- - [https://movies.stackexchange.com](https://movies.stackexchange.com)
- - date published: 2023-10-25T17:13:53.200178+00:00
- - user: None
- - tags: []
-
-## Physics Stack Exchange
- - [https://physics.stackexchange.com](https://physics.stackexchange.com)
- - date published: 2023-10-25T17:13:56.651090+00:00
- - user: None
- - tags: []
-
-## Project Management Stack Exchange
- - [https://pm.stackexchange.com](https://pm.stackexchange.com)
- - date published: 2023-10-25T17:14:00.083237+00:00
- - user: None
- - tags: []
-
-## Proof Assistants Stack Exchange
- - [https://proofassistants.stackexchange.com](https://proofassistants.stackexchange.com)
- - date published: 2023-10-27T23:10:18.343496+00:00
- - user: None
- - tags: []
-
-## Puzzling Stack Exchange
- - [https://puzzling.stackexchange.com](https://puzzling.stackexchange.com)
- - date published: 2023-10-25T17:14:03.428352+00:00
- - user: None
- - tags: []
-
-## Raspberry Pi Stack Exchange
- - [https://raspberrypi.stackexchange.com](https://raspberrypi.stackexchange.com)
- - date published: 2023-11-06T10:17:19.467869+00:00
- - user: None
- - tags: []
-
-## Retrocomputing Stack Exchange
- - [https://retrocomputing.stackexchange.com](https://retrocomputing.stackexchange.com)
- - date published: 2023-10-25T17:14:06.682774+00:00
- - user: None
- - tags: []
-
-## Computational Science Stack Exchange
- - [https://scicomp.stackexchange.com](https://scicomp.stackexchange.com)
- - date published: 2023-10-25T17:14:10.060152+00:00
- - user: None
- - tags: []
-
-## Information Security Stack Exchange
- - [https://security.stackexchange.com](https://security.stackexchange.com)
- - date published: 2023-10-25T17:14:13.452807+00:00
- - user: None
- - tags: []
-
-## Skeptics Stack Exchange
- - [https://skeptics.stackexchange.com](https://skeptics.stackexchange.com)
- - date published: 2023-10-25T17:14:16.355135+00:00
- - user: None
- - tags: []
-
-## Software Engineering Stack Exchange
- - [https://softwareengineering.stackexchange.com](https://softwareengineering.stackexchange.com)
- - date published: 2023-10-25T17:14:19.605475+00:00
- - user: None
- - tags: []
-
-## Space Exploration Stack Exchange
- - [https://space.stackexchange.com](https://space.stackexchange.com)
- - date published: 2024-02-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## Substrate and Polkadot Stack Exchange
- - [https://substrate.stackexchange.com](https://substrate.stackexchange.com)
- - date published: 2023-10-25T17:14:27.990996+00:00
- - user: None
- - tags: []
-
-## Travel Stack Exchange
- - [https://travel.stackexchange.com](https://travel.stackexchange.com)
- - date published: 2023-10-25T17:14:31.765614+00:00
- - user: None
- - tags: []
-
-## Unix & Linux Stack Exchange
- - [https://unix.stackexchange.com](https://unix.stackexchange.com)
- - date published: 2023-10-25T17:14:39.830149+00:00
- - user: None
- - tags: []
-
-## User Experience Stack Exchange
- - [https://ux.stackexchange.com](https://ux.stackexchange.com)
- - date published: 2024-02-04T00:00:00+00:00
- - user: None
- - tags: ['ux design', 'gui design']
-
-## The Workplace Stack Exchange
- - [https://workplace.stackexchange.com](https://workplace.stackexchange.com)
- - date published: 2023-10-25T17:14:43.195803+00:00
- - user: None
- - tags: []
-
-## Worldbuilding Stack Exchange
- - [https://worldbuilding.stackexchange.com](https://worldbuilding.stackexchange.com)
- - date published: 2023-12-24T19:38:56.919466+00:00
- - user: None
- - tags: []
-
-## Meta Stack Overflow
- - [https://meta.stackoverflow.com](https://meta.stackoverflow.com)
- - date published: 2023-10-25T17:14:47.678996+00:00
- - user: None
- - tags: []
-
-## Stack Overflow - Where Developers Learn, Share, & Build Careers
- - [https://stackoverflow.com](https://stackoverflow.com)
- - date published: 2023-10-24T20:16:48.479485+00:00
- - user: None
- - tags: ['social platform']
 

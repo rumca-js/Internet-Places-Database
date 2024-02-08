@@ -3256,15 +3256,39 @@
  - user: None
  - tags: []
 
+## Homepage | ASIO
+ - [https://www.asio.gov.au](https://www.asio.gov.au)
+ - date published: 2024-02-07T15:31:53+00:00
+ - user: rumpel
+ - tags: ['security intelligence', 'australia security intelligence']
+
+## https://www.careers.asio.gov.au
+ - [https://www.careers.asio.gov.au](https://www.careers.asio.gov.au)
+ - date published: 2024-02-07T16:59:38.137223+00:00
+ - user: None
+ - tags: []
+
 ## HTTPS not supported - Bureau of Meteorology
  - [https://www.bom.gov.au](https://www.bom.gov.au)
  - date published: 2024-01-02T07:58:37.586955+00:00
  - user: None
  - tags: []
 
+## Content management and web hosting for government
+ - [http://govcms.gov.au](http://govcms.gov.au)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Find a health service | healthdirect
  - [https://covid-vaccine.healthdirect.gov.au](https://covid-vaccine.healthdirect.gov.au)
  - date published: 2023-10-25T11:57:51.923110+00:00
+ - user: None
+ - tags: []
+
+## Australian National Security Website
+ - [https://www.nationalsecurity.gov.au](https://www.nationalsecurity.gov.au)
+ - date published: 2024-02-07T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3825,6 +3849,12 @@
  - date published: 2023-11-20T07:44:38.276818+00:00
  - user: None
  - tags: ['personal']
+
+## Comparing Notes
+ - [https://comparingnotes.blog](https://comparingnotes.blog)
+ - date published: 2024-02-07T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## ML and robotics notes | Tutorials and implementations of machine learning and robotics algorithms.
  - [https://comsci.blog](https://comsci.blog)
@@ -5681,6 +5711,12 @@
  - user: None
  - tags: []
 
+## Communications Security Establishment
+ - [https://www.cse-cst.gc.ca](https://www.cse-cst.gc.ca)
+ - date published: 2024-02-07T15:33:10+00:00
+ - user: rumpel
+ - tags: ['security intelligence', 'france security intelligence']
+
 ## Commissariat à la protection de la vie privée du Canada / Office of the Privacy Commissioner
  - [https://www.priv.gc.ca](https://www.priv.gc.ca)
  - date published: 2023-10-25T12:09:36.663904+00:00
@@ -5961,42 +5997,6 @@
 ## Cycling News | Bike Reviews | road.cc
  - [https://road.cc](https://road.cc)
  - date published: 2023-10-25T12:11:30.754320+00:00
- - user: None
- - tags: []
-
-## Single Page - Simple, Fast, Single Page Webpage
- - [https://singlepage.cc](https://singlepage.cc)
- - date published: 2023-10-25T12:11:32.473761+00:00
- - user: None
- - tags: []
-
-## Smashing Frames -
- - [https://tante.cc](https://tante.cc)
- - date published: 2023-10-25T12:11:37.232369+00:00
- - user: None
- - tags: []
-
-## Bootcamp
- - [https://bootcamp.uxdesign.cc](https://bootcamp.uxdesign.cc)
- - date published: 2023-10-25T12:11:44.625622+00:00
- - user: None
- - tags: []
-
-## UX Collective
- - [https://uxdesign.cc](https://uxdesign.cc)
- - date published: 2023-10-25T12:12:04.761668+00:00
- - user: None
- - tags: []
-
-## web0 - Reader view page generator
- - [https://web0.cc](https://web0.cc)
- - date published: 2023-10-25T12:12:06.600910+00:00
- - user: None
- - tags: []
-
-## WikiHouse
- - [https://www.wikihouse.cc](https://www.wikihouse.cc)
- - date published: 2023-10-25T12:12:08.973455+00:00
  - user: None
  - tags: []
 

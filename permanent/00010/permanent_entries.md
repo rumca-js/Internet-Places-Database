@@ -1,3 +1,183 @@
+## English Language & Usage Stack Exchange
+ - [https://english.stackexchange.com](https://english.stackexchange.com)
+ - date published: 2023-10-25T17:13:08.440521+00:00
+ - user: None
+ - tags: []
+
+## GenAI Stack Exchange
+ - [https://genai.stackexchange.com](https://genai.stackexchange.com)
+ - date published: 2023-10-25T17:13:16.165956+00:00
+ - user: None
+ - tags: []
+
+## German Language Stack Exchange
+ - [https://german.stackexchange.com](https://german.stackexchange.com)
+ - date published: 2023-10-25T17:13:18.799900+00:00
+ - user: None
+ - tags: []
+
+## Geographic Information Systems Stack Exchange
+ - [https://gis.stackexchange.com](https://gis.stackexchange.com)
+ - date published: 2023-10-25T17:13:21.499749+00:00
+ - user: None
+ - tags: []
+
+## Programming Language Design and Implementation Stack Exchange
+ - [https://langdev.stackexchange.com](https://langdev.stackexchange.com)
+ - date published: 2023-10-25T17:13:24.333367+00:00
+ - user: None
+ - tags: []
+
+## Latin Language Stack Exchange
+ - [https://latin.stackexchange.com](https://latin.stackexchange.com)
+ - date published: 2023-10-25T17:13:26.969617+00:00
+ - user: None
+ - tags: []
+
+## Law Stack Exchange
+ - [https://law.stackexchange.com](https://law.stackexchange.com)
+ - date published: 2023-10-25T17:13:29.773395+00:00
+ - user: None
+ - tags: []
+
+## Mathematics Stack Exchange
+ - [https://math.stackexchange.com](https://math.stackexchange.com)
+ - date published: 2023-10-25T17:13:42.554988+00:00
+ - user: None
+ - tags: []
+
+## Mathematica Stack Exchange
+ - [https://mathematica.stackexchange.com](https://mathematica.stackexchange.com)
+ - date published: 2023-10-25T17:13:45.339618+00:00
+ - user: None
+ - tags: []
+
+## Meta Stack Exchange
+ - [https://meta.stackexchange.com](https://meta.stackexchange.com)
+ - date published: 2023-10-25T17:13:50.218460+00:00
+ - user: None
+ - tags: []
+
+## Movies & TV Stack Exchange
+ - [https://movies.stackexchange.com](https://movies.stackexchange.com)
+ - date published: 2023-10-25T17:13:53.200178+00:00
+ - user: None
+ - tags: []
+
+## Physics Stack Exchange
+ - [https://physics.stackexchange.com](https://physics.stackexchange.com)
+ - date published: 2023-10-25T17:13:56.651090+00:00
+ - user: None
+ - tags: []
+
+## Project Management Stack Exchange
+ - [https://pm.stackexchange.com](https://pm.stackexchange.com)
+ - date published: 2023-10-25T17:14:00.083237+00:00
+ - user: None
+ - tags: []
+
+## Proof Assistants Stack Exchange
+ - [https://proofassistants.stackexchange.com](https://proofassistants.stackexchange.com)
+ - date published: 2023-10-27T23:10:18.343496+00:00
+ - user: None
+ - tags: []
+
+## Puzzling Stack Exchange
+ - [https://puzzling.stackexchange.com](https://puzzling.stackexchange.com)
+ - date published: 2023-10-25T17:14:03.428352+00:00
+ - user: None
+ - tags: []
+
+## Raspberry Pi Stack Exchange
+ - [https://raspberrypi.stackexchange.com](https://raspberrypi.stackexchange.com)
+ - date published: 2023-11-06T10:17:19.467869+00:00
+ - user: None
+ - tags: []
+
+## Retrocomputing Stack Exchange
+ - [https://retrocomputing.stackexchange.com](https://retrocomputing.stackexchange.com)
+ - date published: 2023-10-25T17:14:06.682774+00:00
+ - user: None
+ - tags: []
+
+## Computational Science Stack Exchange
+ - [https://scicomp.stackexchange.com](https://scicomp.stackexchange.com)
+ - date published: 2023-10-25T17:14:10.060152+00:00
+ - user: None
+ - tags: []
+
+## Information Security Stack Exchange
+ - [https://security.stackexchange.com](https://security.stackexchange.com)
+ - date published: 2023-10-25T17:14:13.452807+00:00
+ - user: None
+ - tags: []
+
+## Skeptics Stack Exchange
+ - [https://skeptics.stackexchange.com](https://skeptics.stackexchange.com)
+ - date published: 2023-10-25T17:14:16.355135+00:00
+ - user: None
+ - tags: []
+
+## Software Engineering Stack Exchange
+ - [https://softwareengineering.stackexchange.com](https://softwareengineering.stackexchange.com)
+ - date published: 2023-10-25T17:14:19.605475+00:00
+ - user: None
+ - tags: []
+
+## Space Exploration Stack Exchange
+ - [https://space.stackexchange.com](https://space.stackexchange.com)
+ - date published: 2024-02-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Substrate and Polkadot Stack Exchange
+ - [https://substrate.stackexchange.com](https://substrate.stackexchange.com)
+ - date published: 2023-10-25T17:14:27.990996+00:00
+ - user: None
+ - tags: []
+
+## Travel Stack Exchange
+ - [https://travel.stackexchange.com](https://travel.stackexchange.com)
+ - date published: 2023-10-25T17:14:31.765614+00:00
+ - user: None
+ - tags: []
+
+## Unix & Linux Stack Exchange
+ - [https://unix.stackexchange.com](https://unix.stackexchange.com)
+ - date published: 2023-10-25T17:14:39.830149+00:00
+ - user: None
+ - tags: []
+
+## User Experience Stack Exchange
+ - [https://ux.stackexchange.com](https://ux.stackexchange.com)
+ - date published: 2024-02-04T00:00:00+00:00
+ - user: None
+ - tags: ['ux design', 'gui design']
+
+## The Workplace Stack Exchange
+ - [https://workplace.stackexchange.com](https://workplace.stackexchange.com)
+ - date published: 2023-10-25T17:14:43.195803+00:00
+ - user: None
+ - tags: []
+
+## Worldbuilding Stack Exchange
+ - [https://worldbuilding.stackexchange.com](https://worldbuilding.stackexchange.com)
+ - date published: 2023-12-24T19:38:56.919466+00:00
+ - user: None
+ - tags: []
+
+## Meta Stack Overflow
+ - [https://meta.stackoverflow.com](https://meta.stackoverflow.com)
+ - date published: 2023-10-25T17:14:47.678996+00:00
+ - user: None
+ - tags: []
+
+## Stack Overflow - Where Developers Learn, Share, & Build Careers
+ - [https://stackoverflow.com](https://stackoverflow.com)
+ - date published: 2023-10-24T20:16:48.479485+00:00
+ - user: None
+ - tags: ['social platform']
+
 ## Stack Overflowed - Where Developers Vent
  - [https://stackoverflowed.com](https://stackoverflowed.com)
  - date published: 2023-10-25T17:14:48.341607+00:00
@@ -836,7 +1016,7 @@
  - [https://sublimelynormal.com](https://sublimelynormal.com)
  - date published: 2023-12-31T16:47:35.827007+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Sublime Text - Text Editing, Done Right
  - [https://www.sublimetext.com](https://www.sublimetext.com)
@@ -2920,6 +3100,12 @@
  - user: None
  - tags: []
 
+## https://postliberal.substack.com
+ - [https://postliberal.substack.com](https://postliberal.substack.com)
+ - date published: 2024-02-07T13:48:59.531119+00:00
+ - user: None
+ - tags: []
+
 ## https://ppaolo.substack.com
  - [https://ppaolo.substack.com](https://ppaolo.substack.com)
  - date published: 2023-12-04T21:16:18.389456+00:00
@@ -3688,6 +3874,12 @@
  - user: None
  - tags: ['substack']
 
+## https://worktopia.substack.com
+ - [https://worktopia.substack.com](https://worktopia.substack.com)
+ - date published: 2024-02-07T16:50:29.852317+00:00
+ - user: None
+ - tags: []
+
 ## Worldish | Substack
  - [https://worldish.substack.com](https://worldish.substack.com)
  - date published: 2023-10-25T10:07:36.707638+00:00
@@ -4029,6 +4221,12 @@
  - date published: 2023-10-25T17:20:17.134510+00:00
  - user: None
  - tags: []
+
+## http://www.swaine.com
+ - [https://www.swaine.com](https://www.swaine.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Show HN: SwaraNotebook – a notation editor for Indian classical music
  - [https://swaranotebook.com](https://swaranotebook.com)
@@ -5086,6 +5284,12 @@
  - user: None
  - tags: ['music band']
 
+## Tencent 腾讯
+ - [https://www.tencent.com](https://www.tencent.com)
+ - date published: 2024-02-07T10:36:33+00:00
+ - user: rumpel
+ - tags: ['video game developer', 'video game vendor']
+
 ## Tenderlove Making |  tenderlovemaking.com
  - [https://tenderlovemaking.com](https://tenderlovemaking.com)
  - date published: 2023-10-25T17:26:44.547477+00:00
@@ -5792,210 +5996,6 @@
 ## The Comeback: Today’s Top Sports Stories & Reactions - The Comeback provides today’s top sports stories and reactions for the NFL, NBA, MLB, NHL, college football, college basketball, and more.
  - [https://thecomeback.com](https://thecomeback.com)
  - date published: 2023-10-25T17:31:13.743341+00:00
- - user: None
- - tags: []
-
-## The Computer Science Book | Learn computer science the easy way for self-taught developers
- - [https://thecomputersciencebook.com](https://thecomputersciencebook.com)
- - date published: 2023-10-25T17:31:15.914209+00:00
- - user: None
- - tags: []
-
-## The Conversation: In-depth analysis, research, news and ideas from leading academics and researchers.
- - [https://theconversation.com](https://theconversation.com)
- - date published: 2023-10-25T17:31:19.094203+00:00
- - user: None
- - tags: []
-
-## The Cool Down | Connecting You to a Cleaner, Cooler Future
- - [https://www.thecooldown.com](https://www.thecooldown.com)
- - date published: 2024-01-13T20:45:38.601015+00:00
- - user: None
- - tags: []
-
-## The Counter Signal | Alternative News and Media
- - [https://thecountersignal.com](https://thecountersignal.com)
- - date published: 2023-10-25T17:31:22.944359+00:00
- - user: None
- - tags: []
-
-## The Couple Project
- - [https://www.thecoupleproject.com](https://www.thecoupleproject.com)
- - date published: 2023-12-21T08:23:21.816083+00:00
- - user: None
- - tags: ['personal']
-
-## The Cramped – Celebrating The Unique Pleasures of Analog Writing
- - [https://www.thecramped.com](https://www.thecramped.com)
- - date published: 2023-10-25T17:31:27.867495+00:00
- - user: None
- - tags: []
-
-## Home - True Crime Magazine
- - [https://www.thecrimemag.com](https://www.thecrimemag.com)
- - date published: 2024-01-09T02:50:53.342859+00:00
- - user: None
- - tags: []
-
-## The Harvard Crimson
- - [https://www.thecrimson.com](https://www.thecrimson.com)
- - date published: 2023-10-25T17:31:36.026603+00:00
- - user: None
- - tags: []
-
-## TheCustomDroid - Android Tutorials, Tips and Tricks
- - [https://www.thecustomdroid.com](https://www.thecustomdroid.com)
- - date published: 2023-10-25T17:31:38.674743+00:00
- - user: None
- - tags: []
-
-## The Cut – Fashion, Beauty, Politics, Sex and Celebrity
- - [https://www.thecut.com](https://www.thecut.com)
- - date published: 2023-10-25T17:31:44.882099+00:00
- - user: None
- - tags: ['news']
-
-## The Cyber Express | #1 Cybersecurity News & Hacker News Site
- - [https://thecyberexpress.com](https://thecyberexpress.com)
- - date published: 2023-10-25T17:31:53.779909+00:00
- - user: None
- - tags: []
-
-## The Daily Beast
- - [https://thedailybeast.com](https://thedailybeast.com)
- - date published: 2023-12-08T19:29:39.470812+00:00
- - user: None
- - tags: []
-
-## The Daily Beast: The Latest in Politics, Media & Entertainment News
- - [https://www.thedailybeast.com](https://www.thedailybeast.com)
- - date published: 2023-10-25T17:31:56.772366+00:00
- - user: None
- - tags: []
-
-## The Daily Morning News – Get every news in your hand
- - [https://thedailymorningnews.com](https://thedailymorningnews.com)
- - date published: 2023-12-02T02:26:18.511264+00:00
- - user: None
- - tags: []
-
-## The Daily WTF: Curious Perversions in Information Technology
- - [https://thedailywtf.com](https://thedailywtf.com)
- - date published: 2023-10-25T17:32:00.501920+00:00
- - user: None
- - tags: []
-
-## The Dales Report | Digital - Business - Media
- - [https://thedalesreport.com](https://thedalesreport.com)
- - date published: 2023-12-02T15:10:44.823349+00:00
- - user: None
- - tags: []
-
-## the Dangerz
- - [https://www.thedangerz.com](https://www.thedangerz.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Dark Mod - Stealth Gaming in a Gothic Steampunk World | The Dark Mod
- - [https://www.thedarkmod.com](https://www.thedarkmod.com)
- - date published: 2023-10-30T15:27:29.953311+00:00
- - user: None
- - tags: ['game mod', 'thief']
-
-## The Darkness - Official Website
- - [https://www.thedarknesslive.com](https://www.thedarknesslive.com)
- - date published: 2023-11-13T10:20:27.774278+00:00
- - user: None
- - tags: []
-
-## The Defense Post • Global defense news, analysis and opinion
- - [https://www.thedefensepost.com](https://www.thedefensepost.com)
- - date published: 2023-10-25T17:32:04.440811+00:00
- - user: None
- - tags: []
-
-## The Digital Cat Books - Home
- - [https://www.thedigitalcatbooks.com](https://www.thedigitalcatbooks.com)
- - date published: 2023-12-11T19:04:30.473485+00:00
- - user: None
- - tags: []
-
-## The Digital Cat - Home
- - [https://blog.thedigitalcatonline.com](https://blog.thedigitalcatonline.com)
- - date published: 2023-11-02T09:53:02.939077+00:00
- - user: None
- - tags: ['blog', 'personal', 'amiga']
-
-## The Diplomat – The Diplomat is a current-affairs magazine for the Asia-Pacific, with news and analysis on politics, security, business, technology and life across the region.
- - [https://thediplomat.com](https://thediplomat.com)
- - date published: 2023-10-25T17:32:09.273734+00:00
- - user: None
- - tags: []
-
-## Dividend List | home
- - [https://thedividendlist.com](https://thedividendlist.com)
- - date published: 2023-10-25T17:32:10.176414+00:00
- - user: None
- - tags: []
-
-## The Dø - Shake Shook Shaken
- - [https://thedomusic.com](https://thedomusic.com)
- - date published: 2024-01-09T02:51:06.332251+00:00
- - user: None
- - tags: []
-
-## The Daily Pennsylvanian
- - [https://www.thedp.com](https://www.thedp.com)
- - date published: 2023-10-27T17:14:41.275709+00:00
- - user: None
- - tags: []
-
-## The Drive: Latest News and Car Reviews
- - [https://www.thedrive.com](https://www.thedrive.com)
- - date published: 2023-12-12T09:25:36.666348+00:00
- - user: None
- - tags: []
-
-## The Edge Malaysia
- - [https://theedgemalaysia.com](https://theedgemalaysia.com)
- - date published: 2023-11-01T08:43:10.638443+00:00
- - user: None
- - tags: []
-
-## https://www.theedgesingapore.com
- - [https://www.theedgesingapore.com](https://www.theedgesingapore.com)
- - date published: 2023-10-25T17:32:15.590070+00:00
- - user: None
- - tags: []
-
-## The Entrepreneur Way
- - [https://theentrepreneurway.com](https://theentrepreneurway.com)
- - date published: 2023-11-29T14:41:41.566948+00:00
- - user: None
- - tags: ['personal']
-
-## The Epoch Times | Breaking News, Latest News, World News and Videos
- - [https://feed.theepochtimes.com](https://feed.theepochtimes.com)
- - date published: 2023-10-25T10:50:48.568852+00:00
- - user: None
- - tags: []
-
-## The Epoch Times | Breaking News, Latest News, World News and Videos
- - [https://www.theepochtimes.com](https://www.theepochtimes.com)
- - date published: 2024-01-09T01:46:45.166170+00:00
- - user: None
- - tags: []
-
-## The Ethical Skeptic - Challenging Pseudo-Skepticism, its Agency and Cultivated Ignorance
- - [https://theethicalskeptic.com](https://theethicalskeptic.com)
- - date published: 2023-10-25T17:32:27.140151+00:00
- - user: None
- - tags: []
-
-## The Eyewall
- - [https://theeyewall.com](https://theeyewall.com)
- - date published: 2023-10-26T23:03:38.216802+00:00
  - user: None
  - tags: []
 

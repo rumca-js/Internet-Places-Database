@@ -1,3 +1,63 @@
+## CBS Sports - News, Live Scores, Schedules, Fantasy Games, Video and more.
+ - [https://www.cbssports.com](https://www.cbssports.com)
+ - date published: 2023-12-09T20:58:52.831010+00:00
+ - user: None
+ - tags: []
+
+## South Park  -  Satirical Animated  TV Show | Watch Free Episodes | South Park Studios Global
+ - [https://southpark.cc.com](https://southpark.cc.com)
+ - date published: 2023-10-25T11:44:25.966783+00:00
+ - user: None
+ - tags: ['comedy central', 'video streaming']
+
+## CCN | Crypto and Bitcoin News, Analysis and Guides.
+ - [https://www.ccn.com](https://www.ccn.com)
+ - date published: 2023-10-25T13:19:35.212758+00:00
+ - user: None
+ - tags: []
+
+## 体育_央视网(cctv.com)
+ - [https://sports.cctv.com](https://sports.cctv.com)
+ - date published: 2023-12-09T12:18:44.730556+00:00
+ - user: None
+ - tags: []
+
+## https://cdnsciencepub.com
+ - [https://cdnsciencepub.com](https://cdnsciencepub.com)
+ - date published: 2023-11-24T05:43:49.617319+00:00
+ - user: None
+ - tags: []
+
+## Home - CD PROJEKT
+ - [https://www.cdprojekt.com](https://www.cdprojekt.com)
+ - date published: 2023-10-25T14:21:50.256113+00:00
+ - user: None
+ - tags: ['cyberpunk', 'witcher']
+
+## CD PROJEKT RED - Award-winning creators of story-driven role-playing games.
+ - [https://www.cdprojektred.com](https://www.cdprojektred.com)
+ - date published: 2023-10-30T18:25:46.679662+00:00
+ - user: None
+ - tags: ['company', 'video game developer']
+
+## Carbon dioxide removal API
+ - [https://docs.cdrplatform.com](https://docs.cdrplatform.com)
+ - date published: 2023-10-25T13:19:36.142531+00:00
+ - user: None
+ - tags: []
+
+## Cedar Language Playground
+ - [https://www.cedarpolicy.com](https://www.cedarpolicy.com)
+ - date published: 2023-10-25T13:19:37.088830+00:00
+ - user: None
+ - tags: []
+
+## Cedric Charly's Blog
+ - [https://blog.cedriccharly.com](https://blog.cedriccharly.com)
+ - date published: 2023-10-25T09:19:37.116006+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Celebrity Private Jet Flights & Environmental Impact | CelebrityFlight
  - [https://celebrityflight.com](https://celebrityflight.com)
  - date published: 2023-10-25T13:19:38.895120+00:00
@@ -531,6 +591,12 @@
  - date published: 2024-01-21T19:17:18.280193+00:00
  - user: None
  - tags: ['cory doctorow']
+
+## Chollet Films - Video Production in Chico
+ - [https://cholletfilms.com](https://cholletfilms.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Christian Hollinger
  - [https://chollinger.com](https://chollinger.com)
@@ -2557,7 +2623,7 @@
  - [https://coryshaw.com](https://coryshaw.com)
  - date published: 2024-01-08T15:36:54.508225+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Cory Zue | Full-Stack Developer, Maker of Products, and Solopreneur
  - [https://www.coryzue.com](https://www.coryzue.com)
@@ -5116,6 +5182,12 @@
  - user: None
  - tags: []
 
+## Destination: zero bars
+ - [https://destinationzerobars.com](https://destinationzerobars.com)
+ - date published: 2013-07-18T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Destroy All Software
  - [https://www.destroyallsoftware.com](https://www.destroyallsoftware.com)
  - date published: 2023-10-25T13:50:36.567326+00:00
@@ -5930,78 +6002,6 @@
 ## Docker: Accelerated Container Application Development
  - [https://www.docker.com](https://www.docker.com)
  - date published: 2023-10-25T13:55:35.715823+00:00
- - user: None
- - tags: []
-
-## Docker Systems Status Page
- - [https://www.dockerstatus.com](https://www.dockerstatus.com)
- - date published: 2023-10-25T13:55:38.650481+00:00
- - user: None
- - tags: []
-
-## Custom Software, Mobile & Web App Development, Product Design & Strategy - DockYard
- - [https://dockyard.com](https://dockyard.com)
- - date published: 2023-10-25T13:55:46.090007+00:00
- - user: None
- - tags: []
-
-## Healthcare Courses, Healthcare Jobs and Healthcare Events Blogs - Docthub.com
- - [https://blogs.docthub.com](https://blogs.docthub.com)
- - date published: 2024-01-01T11:51:41.277685+00:00
- - user: None
- - tags: []
-
-## Doctor Kiltz | Keto, Carnivore, Intermittent Fasting, and Wellness Science
- - [https://www.doctorkiltz.com](https://www.doctorkiltz.com)
- - date published: 2023-10-25T13:55:53.523981+00:00
- - user: None
- - tags: []
-
-## DocumentationLab | Documentation that stays up-to-date
- - [https://documentationlab.com](https://documentationlab.com)
- - date published: 2023-10-25T13:55:57.591530+00:00
- - user: None
- - tags: []
-
-## Document Journal
- - [https://www.documentjournal.com](https://www.documentjournal.com)
- - date published: 2023-10-25T13:56:04.623274+00:00
- - user: None
- - tags: []
-
-## Inflection Point Strategies | Dodiodo
- - [https://www.dodiejacobi.com](https://www.dodiejacobi.com)
- - date published: 2023-11-29T15:31:03.608809+00:00
- - user: None
- - tags: ['personal']
-
-## Sustainable design for mindful brands | Dodonut
- - [https://dodonut.com](https://dodonut.com)
- - date published: 2023-12-02T17:10:44.680399+00:00
- - user: None
- - tags: []
-
-## Does Not Translate - Words That Don't Translate
- - [https://doesnottranslate.com](https://doesnottranslate.com)
- - date published: 2024-01-09T21:08:10.305369+00:00
- - user: None
- - tags: []
-
-## Dogs Plate
- - [https://dogsplate.com](https://dogsplate.com)
- - date published: 2023-11-28T20:51:22+00:00
- - user: rumpel
- - tags: []
-
-## Dog Tricks World - Teach Your Dog A New Trick
- - [https://dogtricksworld.com](https://dogtricksworld.com)
- - date published: 2023-11-20T14:44:21.971118+00:00
- - user: None
- - tags: []
-
-## https://www.dolthub.com
- - [https://www.dolthub.com](https://www.dolthub.com)
- - date published: 2024-01-09T02:35:15.209439+00:00
  - user: None
  - tags: []
 

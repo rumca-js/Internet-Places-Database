@@ -1,3 +1,147 @@
+## No Nose Smiley :)
+ - [https://www.nonosesmiley.com](https://www.nonosesmiley.com)
+ - date published: 2024-01-22T04:02:46.826537+00:00
+ - user: None
+ - tags: ['personal']
+
+## Noop Today
+ - [https://nooptoday.com](https://nooptoday.com)
+ - date published: 2024-02-07T04:41:34.258627+00:00
+ - user: None
+ - tags: []
+
+## America First Report – American exceptionalism isn't dead. It just needs to be embraced.
+ - [https://noqreport.com](https://noqreport.com)
+ - date published: 2023-10-25T16:21:43.282379+00:00
+ - user: None
+ - tags: []
+
+## https://www.norahoffmann.com
+ - [https://www.norahoffmann.com](https://www.norahoffmann.com)
+ - date published: 2024-01-07T22:19:55.938869+00:00
+ - user: None
+ - tags: []
+
+## Nora Sandler
+ - [https://norasandler.com](https://norasandler.com)
+ - date published: 2023-10-25T16:21:46.398093+00:00
+ - user: None
+ - tags: []
+
+## Alan Norbauer
+ - [https://alan.norbauer.com](https://alan.norbauer.com)
+ - date published: 2023-11-11T02:50:42.792480+00:00
+ - user: None
+ - tags: []
+
+## Welcome to our blogs | Nordic Semiconductor
+ - [https://blog.nordicsemi.com](https://blog.nordicsemi.com)
+ - date published: 2023-11-10T14:03:57.473070+00:00
+ - user: None
+ - tags: []
+
+## Nordic Semiconductor | Specialists in Low Power Wireless
+ - [https://www.nordicsemi.com](https://www.nordicsemi.com)
+ - date published: 2023-11-22T17:24:48+00:00
+ - user: rumpel
+ - tags: ['semiconductor']
+
+## Nord
+ - [https://www.nordtheme.com](https://www.nordtheme.com)
+ - date published: 2023-10-25T16:21:49.654388+00:00
+ - user: None
+ - tags: []
+
+## The best online VPN service for speed and security
+ - [https://nordvpn.com](https://nordvpn.com)
+ - date published: 2023-10-30T12:51:19.370709+00:00
+ - user: None
+ - tags: ['privacy', 'vpn']
+
+## Normally Notes
+ - [https://notes.normally.com](https://notes.normally.com)
+ - date published: 2023-10-25T16:21:50.474932+00:00
+ - user: None
+ - tags: []
+
+## entrepreneurial thinking
+ - [https://www.norriskrueger.com](https://www.norriskrueger.com)
+ - date published: 2024-01-02T10:19:46.616633+00:00
+ - user: None
+ - tags: []
+
+## northpennnow.com
+ - [https://northpennnow.com](https://northpennnow.com)
+ - date published: 2023-12-02T12:50:42.681742+00:00
+ - user: None
+ - tags: []
+
+## Newsroom | Northrop Grumman
+ - [https://news.northropgrumman.com](https://news.northropgrumman.com)
+ - date published: 2023-10-25T16:21:52.840892+00:00
+ - user: None
+ - tags: []
+
+## Now. Powered by Northrop Grumman - Now. Powered by Northrop Grumman
+ - [https://now.northropgrumman.com](https://now.northropgrumman.com)
+ - date published: 2023-10-25T16:21:56.193641+00:00
+ - user: None
+ - tags: []
+
+## Home - North Shore Crafts
+ - [https://northshorecrafts.com](https://northshorecrafts.com)
+ - date published: 2023-12-10T17:00:05.797607+00:00
+ - user: None
+ - tags: ['personal']
+
+## northstarmonthly.com | Established in 1807 - Re-established in 1989 - Good For the Whole Month!
+ - [https://www.northstarmonthly.com](https://www.northstarmonthly.com)
+ - date published: 2024-01-09T02:45:02.027269+00:00
+ - user: None
+ - tags: []
+
+## Northvolt - the future of energy
+ - [https://northvolt.com](https://northvolt.com)
+ - date published: 2023-11-21T09:49:28.443676+00:00
+ - user: None
+ - tags: []
+
+## Official Site | Norton™ - Antivirus & Anti-Malware Software
+ - [https://us.norton.com](https://us.norton.com)
+ - date published: 2023-10-30T12:54:58.008009+00:00
+ - user: None
+ - tags: ['antivirus']
+
+## Peter Norvig
+ - [https://norvig.com](https://norvig.com)
+ - date published: 2023-10-25T16:21:58.144681+00:00
+ - user: None
+ - tags: []
+
+## Norwegian SciTech News - Research News from NTNU and Sintef
+ - [https://norwegianscitechnews.com](https://norwegianscitechnews.com)
+ - date published: 2023-10-25T10:15:24.266544+00:00
+ - user: None
+ - tags: []
+
+## Nosferalatu
+ - [https://nosferalatu.com](https://nosferalatu.com)
+ - date published: 2024-01-29T15:52:25.966442+00:00
+ - user: None
+ - tags: []
+
+## No Starch Press | "The finest in geek entertainment"
+ - [https://nostarch.com](https://nostarch.com)
+ - date published: 2023-10-25T16:22:00.975649+00:00
+ - user: None
+ - tags: []
+
+## Nostr, a simple protocol for decentralizing social media that has a chance of working
+ - [https://nostr.com](https://nostr.com)
+ - date published: 2023-10-25T16:22:01.809831+00:00
+ - user: None
+ - tags: []
+
 ## ⍻ — U+237B NOT CHECKMARK
  - [https://www.notcheckmark.com](https://www.notcheckmark.com)
  - date published: 2023-10-25T16:22:03.206228+00:00
@@ -792,7 +936,7 @@ Answering Machine Greetings!
  - [https://www.omnifluxmusic.com](https://www.omnifluxmusic.com)
  - date published: 2023-11-29T20:44:08.484060+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Omniglot - the encyclopedia of writing systems and languages
  - [https://www.omniglot.com](https://www.omniglot.com)
@@ -881,6 +1025,12 @@ Answering Machine Greetings!
 ## One Mile at a Time: Airline Travel News, Reviews and Credit Card Offers
  - [https://onemileatatime.com](https://onemileatatime.com)
  - date published: 2023-10-25T16:25:53.514695+00:00
+ - user: None
+ - tags: []
+
+## One Minute Focus
+ - [https://oneminutefocus.com](https://oneminutefocus.com)
+ - date published: 2024-02-07T13:48:56.532934+00:00
  - user: None
  - tags: []
 
@@ -1779,6 +1929,36 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Palantir Blog
+ - [https://blog.palantir.com](https://blog.palantir.com)
+ - date published: 2024-01-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Palantir IR
+ - [https://investors.palantir.com](https://investors.palantir.com)
+ - date published: 2024-02-07T16:59:52.313897+00:00
+ - user: None
+ - tags: []
+
+## Palantir Learning
+ - [https://learn.palantir.com](https://learn.palantir.com)
+ - date published: 2024-02-07T16:59:56.615942+00:00
+ - user: None
+ - tags: []
+
+## Palantir
+ - [https://palantir.com](https://palantir.com)
+ - date published: 2024-02-07T15:29:44+00:00
+ - user: rumpel
+ - tags: ['security intelligence', 'surveillance', 'privacy', 'usa security intelligence']
+
+## Palantir
+ - [https://www.palantir.com](https://www.palantir.com)
+ - date published: 2024-02-07T17:00:06.566100+00:00
+ - user: None
+ - tags: []
+
 ## Paleofuture
  - [https://paleofuture.com](https://paleofuture.com)
  - date published: 2023-10-25T16:29:54.151105+00:00
@@ -2317,7 +2497,7 @@ Answering Machine Greetings!
  - [https://www.pcgamer.com](https://www.pcgamer.com)
  - date published: 2023-10-25T10:49:45.933777+00:00
  - user: None
- - tags: []
+ - tags: ['video game news']
 
 ## PCGamesN | PC gaming news, reviews, and guides
  - [https://www.pcgamesn.com](https://www.pcgamesn.com)
@@ -3778,7 +3958,7 @@ Answering Machine Greetings!
  - [https://www.politifact.com](https://www.politifact.com)
  - date published: 2023-11-14T13:36:23.125783+00:00
  - user: None
- - tags: []
+ - tags: ['fact check']
 
 ## Strona główna - Polityko.com
  - [https://polityko.com](https://polityko.com)
@@ -3808,7 +3988,7 @@ Answering Machine Greetings!
  - [https://www.polygon.com](https://www.polygon.com)
  - date published: 2023-10-25T10:50:01.149258+00:00
  - user: None
- - tags: ['game news']
+ - tags: ['video game news']
 
 ## Polymath Robotics
  - [https://www.polymathrobotics.com](https://www.polymathrobotics.com)
@@ -5828,186 +6008,6 @@ More!
 ## RealClearWire - Opinion, News, Analysis, Video and Polls
  - [https://www.realclearwire.com](https://www.realclearwire.com)
  - date published: 2023-10-25T16:46:59.090616+00:00
- - user: None
- - tags: []
-
-## realme (Polska) - Dare to Leap
- - [https://www.realme.com](https://www.realme.com)
- - date published: 2023-10-29T18:31:53.207822+00:00
- - user: None
- - tags: ['company']
-
-## Python Tutorials – Real Python
- - [https://realpython.com](https://realpython.com)
- - date published: 2023-10-25T09:27:44.900620+00:00
- - user: None
- - tags: []
-
-## RealVNC® - Remote access software for desktop and mobile | RealVNC
- - [https://www.realvnc.com](https://www.realvnc.com)
- - date published: 2023-10-25T08:36:55.279787+00:00
- - user: None
- - tags: []
-
-## Fully Work From Anywhere Jobs in Engineering, Marketing, Sales, Design, and more.
- - [https://www.realworkfromanywhere.com](https://www.realworkfromanywhere.com)
- - date published: 2023-10-25T16:47:00.940993+00:00
- - user: None
- - tags: []
-
-## Reaper Miniatures
- - [https://www.reapermini.com](https://www.reapermini.com)
- - date published: 2023-11-01T18:13:42.385023+00:00
- - user: None
- - tags: ['sculpting', 'tabletop games', 'miniatures']
-
-## Reason Magazine - Free Minds and Free Markets
- - [https://reason.com](https://reason.com)
- - date published: 2023-10-25T16:47:08.897275+00:00
- - user: None
- - tags: []
-
-## Reasonable Deviations · a rational approach to complexity
- - [https://reasonabledeviations.com](https://reasonabledeviations.com)
- - date published: 2023-10-25T16:47:11.709933+00:00
- - user: None
- - tags: []
-
-## Home :: Reasonably Polymorphic
- - [https://reasonablypolymorphic.com](https://reasonablypolymorphic.com)
- - date published: 2023-10-25T16:47:14.074710+00:00
- - user: None
- - tags: []
-
-## ReasonField Lab | Custom Machine Learning solutions
- - [https://www.reasonfieldlab.com](https://www.reasonfieldlab.com)
- - date published: 2024-01-09T02:47:23.334656+00:00
- - user: None
- - tags: []
-
-## Recalbox Forum
- - [https://forum.recalbox.com](https://forum.recalbox.com)
- - date published: 2023-12-11T17:25:44.098426+00:00
- - user: None
- - tags: []
-
-## Welcome to the Recalbox wiki!
- - [https://wiki.recalbox.com](https://wiki.recalbox.com)
- - date published: 2023-12-11T17:25:01.917937+00:00
- - user: None
- - tags: []
-
-## Recalbox Home
- - [https://www.recalbox.com](https://www.recalbox.com)
- - date published: 2023-11-02T10:57:32.260196+00:00
- - user: None
- - tags: ['retro games', 'amiga']
-
-## Recall - Your AI-powered knowledge base
- - [https://www.recall-app.com](https://www.recall-app.com)
- - date published: 2023-10-25T16:47:21.370141+00:00
- - user: None
- - tags: []
-
-## Recharge | Latest renewable energy news
- - [https://www.rechargenews.com](https://www.rechargenews.com)
- - date published: 2023-10-25T10:54:44.339290+00:00
- - user: None
- - tags: []
-
-## RecipeUI
- - [https://recipeui.com](https://recipeui.com)
- - date published: 2023-10-25T16:47:23.469762+00:00
- - user: None
- - tags: []
-
-## Recoil
- - [https://www.recoilweb.com](https://www.recoilweb.com)
- - date published: 2023-12-27T19:01:20.072792+00:00
- - user: None
- - tags: []
-
-## Show HN: Recompyle – A JavaScript Developer Friendly Console / Debugger
- - [https://www.recompyle.com](https://www.recompyle.com)
- - date published: 2023-12-07T14:05:47+00:00
- - user: None
- - tags: []
-
-## Rec Room
- - [https://recroom.com](https://recroom.com)
- - date published: 2023-12-20T20:37:39+00:00
- - user: rumpel
- - tags: ['virtual reality']
-
-## Jobs at Tab
- - [https://tab.recruitee.com](https://tab.recruitee.com)
- - date published: 2023-10-25T16:47:24.237212+00:00
- - user: None
- - tags: []
-
-## Recurrent | Buy, Drive & Sell Electric Cars, Positively | EV Battery Reports
- - [https://www.recurrentauto.com](https://www.recurrentauto.com)
- - date published: 2023-10-25T16:47:30.550141+00:00
- - user: None
- - tags: []
-
-## Recursive Drawing
- - [https://recursivedrawing.com](https://recursivedrawing.com)
- - date published: 2024-01-09T02:47:24.309329+00:00
- - user: None
- - tags: []
-
-## Redgate Software - Compliant Database DevOps Solutions and Tools For SQL Server, Oracle, & .NET
- - [https://www.red-gate.com](https://www.red-gate.com)
- - date published: 2023-11-01T08:43:03.996831+00:00
- - user: None
- - tags: []
-
-## Red Alert 2 | Online Gameplay
- - [https://redalert2.com](https://redalert2.com)
- - date published: 2023-11-17T21:46:56+00:00
- - user: rumpel
- - tags: ['command and conquer']
-
-## Red Blob Games
- - [https://www.redblobgames.com](https://www.redblobgames.com)
- - date published: 2023-10-25T16:47:32.544748+00:00
- - user: None
- - tags: []
-
-## Red Canary | Your Managed Detection and Response Ally
- - [https://redcanary.com](https://redcanary.com)
- - date published: 2023-10-25T16:47:36.881352+00:00
- - user: None
- - tags: []
-
-## reddit: the front page of the internet
- - [https://old.reddit.com](https://old.reddit.com)
- - date published: 2023-10-24T20:16:40.762854+00:00
- - user: None
- - tags: []
-
-## reddit
- - [https://reddit.com](https://reddit.com)
- - date published: 2023-10-24T20:12:40.083441+00:00
- - user: None
- - tags: ['social platform', 'gatekeeper']
-
-## reddit
- - [https://sh.reddit.com](https://sh.reddit.com)
- - date published: 2023-12-30T19:00:56.429006+00:00
- - user: None
- - tags: []
-
-## reddit
- - [https://www.reddit.com](https://www.reddit.com)
- - date published: 2023-10-24T20:16:46.235665+00:00
- - user: None
- - tags: []
-
-## reddit-stream - a better way to view live reddit threads
- - [https://reddit-stream.com](https://reddit-stream.com)
- - date published: 2023-11-25T13:39:04.920744+00:00
  - user: None
  - tags: []
 
