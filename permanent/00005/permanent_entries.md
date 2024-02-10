@@ -1,3 +1,183 @@
+## FOX 13 Tampa Bay
+ - [https://www.fox13news.com](https://www.fox13news.com)
+ - date published: 2023-11-09T20:23:39.042535+00:00
+ - user: None
+ - tags: []
+
+## FOX13 News | Seattle & Western Washington | Formerly Q13 News
+ - [https://www.fox13seattle.com](https://www.fox13seattle.com)
+ - date published: 2024-01-06T04:20:40.373713+00:00
+ - user: None
+ - tags: []
+
+## FOX19 | Cincinnati
+ - [https://www.fox19.com](https://www.fox19.com)
+ - date published: 2023-10-25T11:03:39.176612+00:00
+ - user: None
+ - tags: []
+
+## FOX 26 Houston
+ - [https://www.fox26houston.com](https://www.fox26houston.com)
+ - date published: 2023-11-20T22:49:09.791736+00:00
+ - user: None
+ - tags: []
+
+## FOX 29 News Philadelphia
+ - [https://www.fox29.com](https://www.fox29.com)
+ - date published: 2024-01-05T15:12:18.227958+00:00
+ - user: None
+ - tags: []
+
+## FOX 2 Detroit
+ - [https://www.fox2detroit.com](https://www.fox2detroit.com)
+ - date published: 2023-10-25T11:03:56.232571+00:00
+ - user: None
+ - tags: []
+
+## FOX 35 Orlando
+ - [https://www.fox35orlando.com](https://www.fox35orlando.com)
+ - date published: 2023-11-27T20:50:59.160081+00:00
+ - user: None
+ - tags: []
+
+## FOX 4 News Dallas-Fort Worth
+ - [https://fox4news.com](https://fox4news.com)
+ - date published: 2023-11-07T15:12:46.586235+00:00
+ - user: None
+ - tags: []
+
+## FOX 4 News Dallas-Fort Worth
+ - [https://www.fox4news.com](https://www.fox4news.com)
+ - date published: 2023-10-25T11:04:13.925923+00:00
+ - user: None
+ - tags: []
+
+## Fox 4 News | WFTX - Southwest Florida | Fox4Now.com - Home
+ - [https://www.fox4now.com](https://www.fox4now.com)
+ - date published: 2023-10-25T11:04:21.031601+00:00
+ - user: None
+ - tags: []
+
+## FOX 5 Atlanta
+ - [https://www.fox5atlanta.com](https://www.fox5atlanta.com)
+ - date published: 2023-12-15T21:47:23.514757+00:00
+ - user: None
+ - tags: []
+
+## FOX 5 DC
+ - [https://www.fox5dc.com](https://www.fox5dc.com)
+ - date published: 2023-10-25T11:04:31.305284+00:00
+ - user: None
+ - tags: []
+
+## FOX 5 New York
+ - [https://www.fox5ny.com](https://www.fox5ny.com)
+ - date published: 2023-11-01T17:47:22.130538+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.fox5vegas.com](https://www.fox5vegas.com)
+ - date published: 2024-01-03T12:30:37.079630+00:00
+ - user: None
+ - tags: []
+
+## FOX 7 Austin
+ - [https://www.fox7austin.com](https://www.fox7austin.com)
+ - date published: 2023-10-25T11:04:44.675389+00:00
+ - user: None
+ - tags: []
+
+## FOX 8 WVUE-TV in New Orleans
+ - [https://www.fox8live.com](https://www.fox8live.com)
+ - date published: 2023-12-22T03:35:05.796458+00:00
+ - user: None
+ - tags: []
+
+## FOX 9 Minneapolis-St. Paul
+ - [https://www.fox9.com](https://www.fox9.com)
+ - date published: 2023-10-25T11:04:58.976088+00:00
+ - user: None
+ - tags: []
+
+## Fox and Branch
+ - [https://www.foxandbranch.com](https://www.foxandbranch.com)
+ - date published: 2024-02-08T22:10:25.755945+00:00
+ - user: None
+ - tags: []
+
+## Foxandhoundsapts
+ - [https://www.foxandhoundsapts.com](https://www.foxandhoundsapts.com)
+ - date published: 2024-02-08T22:08:37.953647+00:00
+ - user: None
+ - tags: []
+
+## Baltimore News, Weather, Sports, Breaking News | WBFF
+ - [https://foxbaltimore.com](https://foxbaltimore.com)
+ - date published: 2023-12-24T01:41:32.188455+00:00
+ - user: None
+ - tags: []
+
+## Fox Business | Business News &Stock Quotes - Saving & Investing
+ - [https://www.foxbusiness.com](https://www.foxbusiness.com)
+ - date published: 2023-10-25T10:57:40.272562+00:00
+ - user: None
+ - tags: []
+
+## FOX Carolina | South Carolina Local News, Weather, Sports | Greenville, SC | WHNS
+ - [https://www.foxcarolina.com](https://www.foxcarolina.com)
+ - date published: 2024-01-02T01:49:53.726085+00:00
+ - user: None
+ - tags: []
+
+## FOX 11 Los Angeles
+ - [https://www.foxla.com](https://www.foxla.com)
+ - date published: 2023-10-25T09:29:54.593194+00:00
+ - user: None
+ - tags: []
+
+## http://moxie.foxnews.com
+ - [http://moxie.foxnews.com](http://moxie.foxnews.com)
+ - date published: 2023-10-25T10:26:21.800868+00:00
+ - user: None
+ - tags: []
+
+## Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos
+ - [https://www.foxnews.com](https://www.foxnews.com)
+ - date published: 2023-10-25T10:26:27.291309+00:00
+ - user: None
+ - tags: []
+
+## Home Page - FP Complete
+ - [https://www.fpcomplete.com](https://www.fpcomplete.com)
+ - date published: 2023-10-25T14:37:06.434619+00:00
+ - user: None
+ - tags: []
+
+## Dashboard [Jenkins]
+ - [https://build.fpgaarcade.com](https://build.fpgaarcade.com)
+ - date published: 2023-12-11T17:28:17.596795+00:00
+ - user: None
+ - tags: []
+
+## FPGA Arcade
+ - [https://docs.fpgaarcade.com](https://docs.fpgaarcade.com)
+ - date published: 2023-12-11T17:29:08.892468+00:00
+ - user: None
+ - tags: []
+
+## FPGAArcade | Programmable Gaming Hardware
+ - [https://fpgaarcade.com](https://fpgaarcade.com)
+ - date published: 2023-12-11T17:29:13.446690+00:00
+ - user: None
+ - tags: []
+
+## FPGAArcade | Programmable Gaming Hardware
+ - [https://www.fpgaarcade.com](https://www.fpgaarcade.com)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: ['fpga', 'amiga', 'retro games']
+
 ## FPGA Design and Tutorials - FPGA Developer
  - [https://www.fpgadeveloper.com](https://www.fpgadeveloper.com)
  - date published: 2023-10-25T14:37:09.642182+00:00
@@ -49,6 +229,12 @@
 ## Frank Caron - Product Guy and Writer At Large
  - [https://www.frankcaron.com](https://www.frankcaron.com)
  - date published: 2023-10-25T08:45:49.273455+00:00
+ - user: None
+ - tags: ['personal']
+
+## Frank Heim – Unsere Lebenszeit ist zu kurz f√ºr BULL&¬ß%$
+ - [https://www.frankheim.com](https://www.frankheim.com)
+ - date published: 2024-02-09T14:08:53.970765+00:00
  - user: None
  - tags: ['personal']
 
@@ -412,6 +598,12 @@
  - user: None
  - tags: []
 
+## Funimation | Help
+ - [https://help.funimation.com](https://help.funimation.com)
+ - date published: 2024-02-09T00:43:00.986412+00:00
+ - user: None
+ - tags: []
+
 ## Ain't it funny how the knight moves?
  - [https://www.funnyhowtheknightmoves.com](https://www.funnyhowtheknightmoves.com)
  - date published: 2023-10-25T14:39:54.444676+00:00
@@ -675,6 +867,12 @@
  - date published: 2020-06-16T06:36:12+00:00
  - user: rumpel
  - tags: ['miniatures', 'tabletop games']
+
+## A Career Like No Other - Games Workshop Jobs
+ - [https://jobs.games-workshop.com](https://jobs.games-workshop.com)
+ - date published: 2023-11-23T00:00:00+00:00
+ - user: rumpel
+ - tags: ['games workshop']
 
 ## Games Workshop
  - [https://www.games-workshop.com](https://www.games-workshop.com)
@@ -1055,6 +1253,12 @@
  - user: None
  - tags: ['game streaming', 'gefore now']
 
+## Chris Geirman | It's all about React Native these days, with a nod to ColdFusion and CFWheels
+ - [https://www.geirman.com](https://www.geirman.com)
+ - date published: 2024-02-09T06:40:30.072700+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Gematsu
  - [https://www.gematsu.com](https://www.gematsu.com)
  - date published: 2023-10-27T13:24:05.024819+00:00
@@ -1198,6 +1402,12 @@
  - date published: 2023-12-23T12:23:48.849956+00:00
  - user: None
  - tags: []
+
+## Welcome gerardoamaya.com - BlueHost.com
+ - [https://www.gerardoamaya.com](https://www.gerardoamaya.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## German Velasco
  - [https://www.germanvelasco.com](https://www.germanvelasco.com)
@@ -3517,7 +3727,7 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - [https://www.hailleygriffis.com](https://www.hailleygriffis.com)
  - date published: 2024-01-11T07:52:06.090610+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Hai Robotics Homepage
  - [https://www.hairobotics.com](https://www.hairobotics.com)
@@ -4543,7 +4753,7 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - [https://www.hobkirkdesign.com](https://www.hobkirkdesign.com)
  - date published: 2023-11-29T14:23:31.668593+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Hodinkee
  - [https://www.hodinkee.com](https://www.hodinkee.com)
@@ -5108,6 +5318,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-11-12T23:25:15.858728+00:00
  - user: None
  - tags: []
+
+## Husam Machlovi | Product Strategy and Design
+ - [https://husammachlovi.com](https://husammachlovi.com)
+ - date published: 2018-10-15T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Hustler Casino Live
  - [https://hustlercasinolive.com](https://hustlercasinolive.com)
@@ -5784,222 +6000,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## InCaptions: Search in YouTube Captions (Subtitles)
  - [https://incaptions.com](https://incaptions.com)
  - date published: 2023-10-25T09:07:22.960705+00:00
- - user: None
- - tags: []
-
-## incolumitas.com
- - [https://incolumitas.com](https://incolumitas.com)
- - date published: 2023-10-25T15:18:18.546695+00:00
- - user: None
- - tags: []
-
-## 403 Forbidden
- - [https://proxy.incolumitas.com](https://proxy.incolumitas.com)
- - date published: 2024-01-01T02:54:47.056293+00:00
- - user: None
- - tags: []
-
-## incompetech – Music and also Graph Paper
- - [https://incompetech.com](https://incompetech.com)
- - date published: 2024-01-22T08:56:53+00:00
- - user: rumpel
- - tags: ['asset audio']
-
-## In Compliance Magazine
- - [https://incompliancemag.com](https://incompliancemag.com)
- - date published: 2023-10-25T15:18:25.404478+00:00
- - user: None
- - tags: []
-
-## Increase
- - [https://increase.com](https://increase.com)
- - date published: 2023-10-25T15:18:29.353786+00:00
- - user: None
- - tags: []
-
-## Incremental Elm
- - [https://incrementalelm.com](https://incrementalelm.com)
- - date published: 2023-10-25T15:18:31.075146+00:00
- - user: None
- - tags: []
-
-## Incubus | Offical Website
- - [https://www.incubushq.com](https://www.incubushq.com)
- - date published: 2023-11-13T11:15:08.468795+00:00
- - user: None
- - tags: ['music band']
-
-## Indaba | Beautiful Home Decor & Lifestyle Products
- - [https://www.indabatrading.com](https://www.indabatrading.com)
- - date published: 2024-02-08T22:25:33.795516+00:00
- - user: None
- - tags: []
-
-## https://www.indeed.com
- - [https://www.indeed.com](https://www.indeed.com)
- - date published: 2023-10-25T15:18:31.337904+00:00
- - user: None
- - tags: ['jobs', 'work']
-
-## The Santa Barbara Independent
- - [https://www.independent.com](https://www.independent.com)
- - date published: 2023-10-25T15:18:36.790369+00:00
- - user: None
- - tags: []
-
-## Home - www.independentsentinel.com
- - [https://www.independentsentinel.com](https://www.independentsentinel.com)
- - date published: 2023-10-25T15:18:41.886817+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://js-sec.indexww.com](https://js-sec.indexww.com)
- - date published: 2024-01-09T02:39:39.969137+00:00
- - user: None
- - tags: []
-
-## Latest News, Breaking News, LIVE News, Top News Headlines, Viral Video, Cricket LIVE, Sports, Entertainment, Business, Health, Lifestyle and Utility News | India.Com
- - [https://www.india.com](https://www.india.com)
- - date published: 2023-12-02T11:50:42.282534+00:00
- - user: None
- - tags: ['india news']
-
-## Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports| The Indian Express
- - [https://indianexpress.com](https://indianexpress.com)
- - date published: 2023-12-09T13:58:17.867740+00:00
- - user: None
- - tags: []
-
-## BFSI News- Latest Banking, Financial Services and Insurance News | ET BFSI
- - [https://bfsi.economictimes.indiatimes.com](https://bfsi.economictimes.indiatimes.com)
- - date published: 2023-10-25T15:18:48.678621+00:00
- - user: None
- - tags: []
-
-## Business News Today: Read Latest Business news, India Business News Live, Share Market & Economy News | The Economic Times
- - [https://economictimes.indiatimes.com](https://economictimes.indiatimes.com)
- - date published: 2023-10-25T15:18:59.346880+00:00
- - user: None
- - tags: []
-
-## News - Latest News, Breaking News, Bollywood, Sports, Business and Political News | Times of India
- - [https://timesofindia.indiatimes.com](https://timesofindia.indiatimes.com)
- - date published: 2023-10-25T10:44:59.229471+00:00
- - user: None
- - tags: []
-
-## News in English: Latest News, Breaking News, Live Updates - India TV News
- - [https://www.indiatvnews.com](https://www.indiatvnews.com)
- - date published: 2023-12-11T15:46:23.421512+00:00
- - user: None
- - tags: ['india news']
-
-## IndieAuth - Sign in with your domain name
- - [https://indieauth.com](https://indieauth.com)
- - date published: 2023-12-11T16:22:54.891253+00:00
- - user: None
- - tags: []
-
-## IndieAuth Token Endpoint
- - [https://tokens.indieauth.com](https://tokens.indieauth.com)
- - date published: 2023-12-11T16:23:11.280643+00:00
- - user: None
- - tags: []
-
-## Indie Film Hustle // Thrive & Survive in the Film Industry
- - [https://indiefilmhustle.com](https://indiefilmhustle.com)
- - date published: 2023-11-26T02:25:46.366010+00:00
- - user: None
- - tags: []
-
-## Crowdfund Innovations & Support Entrepreneurs | Indiegogo
- - [https://www.indiegogo.com](https://www.indiegogo.com)
- - date published: 2023-10-25T11:34:10.992754+00:00
- - user: None
- - tags: ['crowdfunding']
-
-## Indie Hackers: Work Together to Build Profitable Online Businesses
- - [https://www.indiehackers.com](https://www.indiehackers.com)
- - date published: 2023-10-25T15:19:02.764869+00:00
- - user: None
- - tags: []
-
-## Indie Retro News
- - [https://www.indieretronews.com](https://www.indieretronews.com)
- - date published: 2023-10-25T15:19:06.586961+00:00
- - user: None
- - tags: ['amiga', 'retro games']
-
-## IndieWire – The Voice of Creative Independence
- - [https://www.indiewire.com](https://www.indiewire.com)
- - date published: 2023-10-25T15:19:11.524821+00:00
- - user: None
- - tags: []
-
-## Industry Decarbonization Newsletter
- - [https://industrydecarbonization.com](https://industrydecarbonization.com)
- - date published: 2023-10-25T15:19:13.252427+00:00
- - user: None
- - tags: []
-
-## Home | IndustryWeek
- - [https://www.industryweek.com](https://www.industryweek.com)
- - date published: 2023-10-25T15:19:18.565346+00:00
- - user: None
- - tags: []
-
-## indy100
- - [https://www.indy100.com](https://www.indy100.com)
- - date published: 2023-11-06T00:36:08.016217+00:00
- - user: None
- - tags: []
-
-## The Indianapolis Star
- - [https://www.indystar.com](https://www.indystar.com)
- - date published: 2023-11-24T06:54:53.203496+00:00
- - user: None
- - tags: []
-
-## Inference
- - [https://inference-review.com](https://inference-review.com)
- - date published: 2023-10-25T15:19:24.954815+00:00
- - user: None
- - tags: []
-
-## Inferse.com - Latest News Updates and Product Reviews!
- - [https://www.inferse.com](https://www.inferse.com)
- - date published: 2023-10-25T15:19:29.785733+00:00
- - user: None
- - tags: []
-
-## The Infinite Conversation
- - [https://infiniteconversation.com](https://infiniteconversation.com)
- - date published: 2023-10-25T15:19:31.329857+00:00
- - user: None
- - tags: []
-
-## Infinite Negative Utility
- - [https://journal.infinitenegativeutility.com](https://journal.infinitenegativeutility.com)
- - date published: 2023-10-25T15:19:36.812336+00:00
- - user: None
- - tags: []
-
-## Infinity Arcade - Text-Based Games and Interactive Fiction
- - [https://infinityarcade.com](https://infinityarcade.com)
- - date published: 2023-10-25T15:19:41.203522+00:00
- - user: None
- - tags: []
-
-## Infinity Universe Official Site
- - [https://infinitytheuniverse.com](https://infinitytheuniverse.com)
- - date published: 2023-11-01T19:27:34.233021+00:00
- - user: None
- - tags: ['tabletop games', 'infinity', 'wargames']
-
-## Infisical | Open Source SecretOps
- - [https://infisical.com](https://infisical.com)
- - date published: 2023-10-25T15:19:42.211884+00:00
  - user: None
  - tags: []
 

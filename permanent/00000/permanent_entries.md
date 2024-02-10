@@ -622,6 +622,12 @@
  - user: None
  - tags: []
 
+## GOODY-2 | The world's most responsible AI model
+ - [https://www.goody2.ai](https://www.goody2.ai)
+ - date published: 2024-02-09T19:21:56.409095+00:00
+ - user: None
+ - tags: []
+
 ## Show HN: Clone someone and talk to them like in real life
  - [https://gptclone.ai](https://gptclone.ai)
  - date published: 2023-11-01T01:18:44+00:00
@@ -2170,6 +2176,12 @@
  - user: None
  - tags: []
 
+## SleepEasy Website Monitor | Proactive monitoring for your site's most important user flows.
+ - [https://www.sleepeasy.app](https://www.sleepeasy.app)
+ - date published: 2024-02-09T00:43:13.667002+00:00
+ - user: None
+ - tags: []
+
 ## Spectrolite
  - [https://spectrolite.app](https://spectrolite.app)
  - date published: 2023-10-25T11:48:58.865948+00:00
@@ -2661,6 +2673,12 @@
  - date published: 2024-01-09T02:23:42.162820+00:00
  - user: None
  - tags: []
+
+## César Ferradas
+ - [https://ferrad.as](https://ferrad.as)
+ - date published: 2024-02-09T00:13:34.119208+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Write.as
  - [https://write.as](https://write.as)
@@ -4361,6 +4379,12 @@
  - user: None
  - tags: ['personal']
 
+## Niklas's blog
+ - [https://pivic.blog](https://pivic.blog)
+ - date published: 2024-01-22T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Pixelfed Blog
  - [https://pixelfed.blog](https://pixelfed.blog)
  - date published: 2023-10-25T12:00:46.045454+00:00
@@ -4618,6 +4642,12 @@
  - date published: 2023-10-25T11:08:27.421230+00:00
  - user: None
  - tags: []
+
+## LkSvn
+ - [https://lksvn.com.br](https://lksvn.com.br)
+ - date published: 2021-04-30T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Nord Investimentos - Research, Asset e Wealth Management
  - [https://www.nordinvestimentos.com.br](https://www.nordinvestimentos.com.br)
@@ -5553,7 +5583,7 @@
  - [https://novak.ca](https://novak.ca)
  - date published: 2024-01-11T02:12:34.554251+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Good, Better, Best
  - [https://www.nthn.ca](https://www.nthn.ca)
@@ -5631,7 +5661,7 @@
  - [https://www.redroomrecordings.ca](https://www.redroomrecordings.ca)
  - date published: 2024-01-17T04:43:07.775376+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## rongrimes
  - [https://www.rongrimes.ca](https://www.rongrimes.ca)
@@ -5667,7 +5697,7 @@
  - [https://www.scottredmond.ca](https://www.scottredmond.ca)
  - date published: 2024-01-23T03:27:52.039443+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## The Second Egress: Building a Code Change
  - [https://secondegress.ca](https://secondegress.ca)
@@ -5966,36 +5996,6 @@
 ## Commissariat à la protection de la vie privée du Canada / Office of the Privacy Commissioner
  - [https://www.priv.gc.ca](https://www.priv.gc.ca)
  - date published: 2023-10-25T12:09:36.663904+00:00
- - user: None
- - tags: []
-
-## Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
- - [https://www150.statcan.gc.ca](https://www150.statcan.gc.ca)
- - date published: 2023-11-27T21:10:40.723455+00:00
- - user: None
- - tags: []
-
-## Province of Manitoba | Home Page
- - [https://www.edu.gov.mb.ca](https://www.edu.gov.mb.ca)
- - date published: 2024-02-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Trouver une décision | SOQUIJ
- - [https://citoyens.soquij.qc.ca](https://citoyens.soquij.qc.ca)
- - date published: 2023-10-25T12:09:44.985607+00:00
- - user: None
- - tags: []
-
-## Backend Cafe
- - [https://backend.cafe](https://backend.cafe)
- - date published: 2023-10-25T12:09:49.850684+00:00
- - user: None
- - tags: []
-
-## BSD.cafe Mastodon Portal
- - [https://mastodon.bsd.cafe](https://mastodon.bsd.cafe)
- - date published: 2023-10-27T13:13:18.606396+00:00
  - user: None
  - tags: []
 

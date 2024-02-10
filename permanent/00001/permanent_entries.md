@@ -1,3 +1,33 @@
+## Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
+ - [https://www150.statcan.gc.ca](https://www150.statcan.gc.ca)
+ - date published: 2023-11-27T21:10:40.723455+00:00
+ - user: None
+ - tags: []
+
+## Province of Manitoba | Home Page
+ - [https://www.edu.gov.mb.ca](https://www.edu.gov.mb.ca)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Trouver une décision | SOQUIJ
+ - [https://citoyens.soquij.qc.ca](https://citoyens.soquij.qc.ca)
+ - date published: 2023-10-25T12:09:44.985607+00:00
+ - user: None
+ - tags: []
+
+## Backend Cafe
+ - [https://backend.cafe](https://backend.cafe)
+ - date published: 2023-10-25T12:09:49.850684+00:00
+ - user: None
+ - tags: []
+
+## BSD.cafe Mastodon Portal
+ - [https://mastodon.bsd.cafe](https://mastodon.bsd.cafe)
+ - date published: 2023-10-27T13:13:18.606396+00:00
+ - user: None
+ - tags: []
+
 ## Eldritch Café
  - [https://eldritch.cafe](https://eldritch.cafe)
  - date published: 2024-01-08T02:07:15.832728+00:00
@@ -147,6 +177,12 @@
  - date published: 2023-10-25T12:10:56.844543+00:00
  - user: None
  - tags: []
+
+## Hugo Ferreira
+ - [https://hugo.ferreira.cc](https://hugo.ferreira.cc)
+ - date published: 2024-02-09T22:23:01.833427+00:00
+ - user: None
+ - tags: ['personal']
 
 ## ICML 2024
  - [https://icml.cc](https://icml.cc)
@@ -1133,6 +1169,12 @@
  - user: None
  - tags: ['personal']
 
+## Already. Not Yet
+ - [https://alreadynotyet.co](https://alreadynotyet.co)
+ - date published: 2024-02-09T00:21:29.723050+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Analogue
  - [https://www.analogue.co](https://www.analogue.co)
  - date published: 2023-10-25T12:16:30.604884+00:00
@@ -1606,6 +1648,12 @@
  - date published: 2023-10-25T08:25:27.198036+00:00
  - user: None
  - tags: []
+
+## Lewi Hussey
+ - [https://lewi.co](https://lewi.co)
+ - date published: 2024-02-09T22:26:40.975835+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Top 70,000 Educational YouTube Channels Organized By Category
  - [https://limnology.co](https://limnology.co)
@@ -3507,7 +3555,7 @@
  - [https://www.adamdoolittle.com](https://www.adamdoolittle.com)
  - date published: 2024-01-19T13:00:38.013071+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Adam Drake
  - [https://adamdrake.com](https://adamdrake.com)
@@ -4387,6 +4435,18 @@
  - user: None
  - tags: ['personal']
 
+## alaiawilliams.com is almost here!
+ - [https://www.alaiawilliams.com](https://www.alaiawilliams.com)
+ - date published: 2024-02-09T22:22:25.043694+00:00
+ - user: None
+ - tags: ['personal']
+
+## Alain Chautard – Alain's personal website
+ - [https://www.alainchautard.com](https://www.alainchautard.com)
+ - date published: 2024-02-09T14:01:11.712731+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Al Anany | Substack
  - [https://alanany.com](https://alanany.com)
  - date published: 2023-10-25T12:37:18.791716+00:00
@@ -4591,6 +4651,12 @@
  - user: None
  - tags: []
 
+## Alex Eaton - Writer & Photographer
+ - [https://www.alexreaton.com](https://www.alexreaton.com)
+ - date published: 2024-02-09T00:12:37.874010+00:00
+ - user: None
+ - tags: ['personal']
+
 ## alexsci.com
  - [https://alexsci.com](https://alexsci.com)
  - date published: 2023-10-25T12:38:05.842613+00:00
@@ -4673,13 +4739,13 @@
  - [https://www.aliexpress.com](https://www.aliexpress.com)
  - date published: 2023-10-24T20:19:53.605037+00:00
  - user: None
- - tags: ['marketplace']
+ - tags: ['digital marketplace']
 
 ## Home -
  - [https://alifeunlived.com](https://alifeunlived.com)
  - date published: 2023-12-22T17:50:45.863289+00:00
  - user: None
- - tags: ['personal']
+ - tags: ['personal', 'personal']
 
 ## Alin Panaitiu - Personal website
  - [https://alinpanaitiu.com](https://alinpanaitiu.com)
@@ -5045,7 +5111,7 @@
  - [https://www.amazon.com](https://www.amazon.com)
  - date published: 2023-10-24T20:20:03.290504+00:00
  - user: None
- - tags: ['company', 'gatekeeper']
+ - tags: ['company', 'gatekeeper', 'digital marketplace']
 
 ## Cloud Object Storage - Amazon S3  - AWS
  - [https://s3-eu-west-1.amazonaws.com](https://s3-eu-west-1.amazonaws.com)
@@ -5377,6 +5443,12 @@
  - user: None
  - tags: []
 
+## Dise√±adora de negocio digital - Ana Cirujano | Diseño web
+ - [https://www.anacirujano.com](https://www.anacirujano.com)
+ - date published: 2024-02-09T14:09:07.151779+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Anaël Verdier – Surfer d'imaginaires
  - [https://anaelverdier.com](https://anaelverdier.com)
  - date published: 2023-11-29T17:07:23.087184+00:00
@@ -5527,6 +5599,12 @@
  - user: None
  - tags: []
 
+## Home Of Andrew Blikken
+ - [https://andrewblikken.com](https://andrewblikken.com)
+ - date published: 2022-11-07T19:47:59+00:00
+ - user: None
+ - tags: ['personal']
+
 ## andrewchen
  - [https://andrewchen.com](https://andrewchen.com)
  - date published: 2023-10-25T12:40:50.738911+00:00
@@ -5538,6 +5616,12 @@
  - date published: 2024-01-19T01:54:42.611797+00:00
  - user: None
  - tags: []
+
+## Andrew P. Dillon
+ - [https://www.andrewdillonpoetry.com](https://www.andrewdillonpoetry.com)
+ - date published: 2023-12-16T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Andrew Heiss
  - [https://www.andrewheiss.com](https://www.andrewheiss.com)
@@ -5914,90 +5998,6 @@
 ## Anthropic \ Home
  - [https://www.anthropic.com](https://www.anthropic.com)
  - date published: 2023-10-25T12:41:55.683728+00:00
- - user: None
- - tags: []
-
-## Anthropic Studios | An independent game company.
- - [https://www.anthropicstudios.com](https://www.anthropicstudios.com)
- - date published: 2023-10-25T12:41:56.427032+00:00
- - user: None
- - tags: []
-
-## Antigone: an open forum for Classics
- - [https://antigonejournal.com](https://antigonejournal.com)
- - date published: 2023-10-25T12:41:58.956730+00:00
- - user: None
- - tags: []
-
-## stuff by kevin kwok
- - [https://antimatter15.com](https://antimatter15.com)
- - date published: 2023-10-25T12:42:04.277904+00:00
- - user: None
- - tags: []
-
-## None
- - [https://antirez.com](https://antirez.com)
- - date published: 2024-01-02T12:33:10.039907+00:00
- - user: None
- - tags: []
-
-## antirez weblog
- - [http://oldblog.antirez.com](http://oldblog.antirez.com)
- - date published: 2023-10-25T12:42:11.958735+00:00
- - user: None
- - tags: []
-
-## antiX Linux – Proudly anti-fascist "antiX Magic" in an environment suitable for old and new computers.
- - [https://antixlinux.com](https://antixlinux.com)
- - date published: 2023-10-25T12:42:16.044123+00:00
- - user: None
- - tags: []
-
-## We make tech happen
- - [https://antmicro.com](https://antmicro.com)
- - date published: 2023-11-03T21:13:50.321109+00:00
- - user: None
- - tags: []
-
-## Antoine Vastel Blog
- - [https://antoinevastel.com](https://antoinevastel.com)
- - date published: 2023-10-25T12:42:23.588057+00:00
- - user: None
- - tags: []
-
-## Website of Antonio Leutsch — Designer & Developer
- - [https://www.antonio-leutsch.com](https://www.antonio-leutsch.com)
- - date published: 2023-11-29T14:41:31.764665+00:00
- - user: None
- - tags: ['personal']
-
-## Anton Sten - Product Designer
- - [https://www.antonsten.com](https://www.antonsten.com)
- - date published: 2023-11-29T13:55:34.197883+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Anton Thomas Art
- - [https://www.antonthomasart.com](https://www.antonthomasart.com)
- - date published: 2023-12-24T12:13:55.722550+00:00
- - user: None
- - tags: []
-
-## Anyscale | Scalable Compute for AI and Python
- - [https://www.anyscale.com](https://www.anyscale.com)
- - date published: 2023-10-25T12:42:28.247359+00:00
- - user: None
- - tags: []
-
-## AOL is part of the Yahoo family of brands
- - [https://www.aol.com](https://www.aol.com)
- - date published: 2023-10-25T12:42:29.440895+00:00
- - user: None
- - tags: []
-
-## aolium
- - [https://www.aolium.com](https://www.aolium.com)
- - date published: 2023-10-25T12:42:29.825154+00:00
  - user: None
  - tags: []
 

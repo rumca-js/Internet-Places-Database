@@ -1,3 +1,219 @@
+## incolumitas.com
+ - [https://incolumitas.com](https://incolumitas.com)
+ - date published: 2023-10-25T15:18:18.546695+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [https://proxy.incolumitas.com](https://proxy.incolumitas.com)
+ - date published: 2024-01-01T02:54:47.056293+00:00
+ - user: None
+ - tags: []
+
+## incompetech – Music and also Graph Paper
+ - [https://incompetech.com](https://incompetech.com)
+ - date published: 2024-01-22T08:56:53+00:00
+ - user: rumpel
+ - tags: ['asset audio']
+
+## In Compliance Magazine
+ - [https://incompliancemag.com](https://incompliancemag.com)
+ - date published: 2023-10-25T15:18:25.404478+00:00
+ - user: None
+ - tags: []
+
+## Increase
+ - [https://increase.com](https://increase.com)
+ - date published: 2023-10-25T15:18:29.353786+00:00
+ - user: None
+ - tags: []
+
+## Incremental Elm
+ - [https://incrementalelm.com](https://incrementalelm.com)
+ - date published: 2023-10-25T15:18:31.075146+00:00
+ - user: None
+ - tags: []
+
+## Incubus | Offical Website
+ - [https://www.incubushq.com](https://www.incubushq.com)
+ - date published: 2023-11-13T11:15:08.468795+00:00
+ - user: None
+ - tags: ['music band']
+
+## Indaba | Beautiful Home Decor & Lifestyle Products
+ - [https://www.indabatrading.com](https://www.indabatrading.com)
+ - date published: 2024-02-08T22:25:33.795516+00:00
+ - user: None
+ - tags: []
+
+## https://www.indeed.com
+ - [https://www.indeed.com](https://www.indeed.com)
+ - date published: 2023-10-25T15:18:31.337904+00:00
+ - user: None
+ - tags: ['jobs', 'work']
+
+## The Santa Barbara Independent
+ - [https://www.independent.com](https://www.independent.com)
+ - date published: 2023-10-25T15:18:36.790369+00:00
+ - user: None
+ - tags: []
+
+## Home - www.independentsentinel.com
+ - [https://www.independentsentinel.com](https://www.independentsentinel.com)
+ - date published: 2023-10-25T15:18:41.886817+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://js-sec.indexww.com](https://js-sec.indexww.com)
+ - date published: 2024-01-09T02:39:39.969137+00:00
+ - user: None
+ - tags: []
+
+## Latest News, Breaking News, LIVE News, Top News Headlines, Viral Video, Cricket LIVE, Sports, Entertainment, Business, Health, Lifestyle and Utility News | India.Com
+ - [https://www.india.com](https://www.india.com)
+ - date published: 2023-12-02T11:50:42.282534+00:00
+ - user: None
+ - tags: ['india news']
+
+## Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports| The Indian Express
+ - [https://indianexpress.com](https://indianexpress.com)
+ - date published: 2023-12-09T13:58:17.867740+00:00
+ - user: None
+ - tags: []
+
+## BFSI News- Latest Banking, Financial Services and Insurance News | ET BFSI
+ - [https://bfsi.economictimes.indiatimes.com](https://bfsi.economictimes.indiatimes.com)
+ - date published: 2023-10-25T15:18:48.678621+00:00
+ - user: None
+ - tags: []
+
+## Business News Today: Read Latest Business news, India Business News Live, Share Market & Economy News | The Economic Times
+ - [https://economictimes.indiatimes.com](https://economictimes.indiatimes.com)
+ - date published: 2023-10-25T15:18:59.346880+00:00
+ - user: None
+ - tags: []
+
+## News - Latest News, Breaking News, Bollywood, Sports, Business and Political News | Times of India
+ - [https://timesofindia.indiatimes.com](https://timesofindia.indiatimes.com)
+ - date published: 2023-10-25T10:44:59.229471+00:00
+ - user: None
+ - tags: []
+
+## News in English: Latest News, Breaking News, Live Updates - India TV News
+ - [https://www.indiatvnews.com](https://www.indiatvnews.com)
+ - date published: 2023-12-11T15:46:23.421512+00:00
+ - user: None
+ - tags: ['india news']
+
+## IndieAuth - Sign in with your domain name
+ - [https://indieauth.com](https://indieauth.com)
+ - date published: 2023-12-11T16:22:54.891253+00:00
+ - user: None
+ - tags: []
+
+## IndieAuth Token Endpoint
+ - [https://tokens.indieauth.com](https://tokens.indieauth.com)
+ - date published: 2023-12-11T16:23:11.280643+00:00
+ - user: None
+ - tags: []
+
+## Indie Film Hustle // Thrive & Survive in the Film Industry
+ - [https://indiefilmhustle.com](https://indiefilmhustle.com)
+ - date published: 2023-11-26T02:25:46.366010+00:00
+ - user: None
+ - tags: []
+
+## Crowdfund Innovations & Support Entrepreneurs | Indiegogo
+ - [https://www.indiegogo.com](https://www.indiegogo.com)
+ - date published: 2023-10-25T11:34:10.992754+00:00
+ - user: None
+ - tags: ['crowdfunding']
+
+## Indie Hackers: Work Together to Build Profitable Online Businesses
+ - [https://www.indiehackers.com](https://www.indiehackers.com)
+ - date published: 2023-10-25T15:19:02.764869+00:00
+ - user: None
+ - tags: []
+
+## Indie Retro News
+ - [https://www.indieretronews.com](https://www.indieretronews.com)
+ - date published: 2023-10-25T15:19:06.586961+00:00
+ - user: None
+ - tags: ['amiga', 'retro games']
+
+## IndieWire – The Voice of Creative Independence
+ - [https://www.indiewire.com](https://www.indiewire.com)
+ - date published: 2023-10-25T15:19:11.524821+00:00
+ - user: None
+ - tags: []
+
+## Industry Decarbonization Newsletter
+ - [https://industrydecarbonization.com](https://industrydecarbonization.com)
+ - date published: 2023-10-25T15:19:13.252427+00:00
+ - user: None
+ - tags: []
+
+## Home | IndustryWeek
+ - [https://www.industryweek.com](https://www.industryweek.com)
+ - date published: 2023-10-25T15:19:18.565346+00:00
+ - user: None
+ - tags: []
+
+## indy100
+ - [https://www.indy100.com](https://www.indy100.com)
+ - date published: 2023-11-06T00:36:08.016217+00:00
+ - user: None
+ - tags: []
+
+## The Indianapolis Star
+ - [https://www.indystar.com](https://www.indystar.com)
+ - date published: 2023-11-24T06:54:53.203496+00:00
+ - user: None
+ - tags: []
+
+## Inference
+ - [https://inference-review.com](https://inference-review.com)
+ - date published: 2023-10-25T15:19:24.954815+00:00
+ - user: None
+ - tags: []
+
+## Inferse.com - Latest News Updates and Product Reviews!
+ - [https://www.inferse.com](https://www.inferse.com)
+ - date published: 2023-10-25T15:19:29.785733+00:00
+ - user: None
+ - tags: []
+
+## The Infinite Conversation
+ - [https://infiniteconversation.com](https://infiniteconversation.com)
+ - date published: 2023-10-25T15:19:31.329857+00:00
+ - user: None
+ - tags: []
+
+## Infinite Negative Utility
+ - [https://journal.infinitenegativeutility.com](https://journal.infinitenegativeutility.com)
+ - date published: 2023-10-25T15:19:36.812336+00:00
+ - user: None
+ - tags: []
+
+## Infinity Arcade - Text-Based Games and Interactive Fiction
+ - [https://infinityarcade.com](https://infinityarcade.com)
+ - date published: 2023-10-25T15:19:41.203522+00:00
+ - user: None
+ - tags: []
+
+## Infinity Universe Official Site
+ - [https://infinitytheuniverse.com](https://infinitytheuniverse.com)
+ - date published: 2023-11-01T19:27:34.233021+00:00
+ - user: None
+ - tags: ['tabletop games', 'infinity', 'wargames']
+
+## Infisical | Open Source SecretOps
+ - [https://infisical.com](https://infisical.com)
+ - date published: 2023-10-25T15:19:42.211884+00:00
+ - user: None
+ - tags: []
+
 ## The Influence Association - Influence and effectiveness
  - [https://influenceassociation.com](https://influenceassociation.com)
  - date published: 2023-12-27T01:06:23.856215+00:00
@@ -238,6 +454,12 @@
  - user: None
  - tags: ['gatekeeper', 'social platform']
 
+## Instant Per Diem Attorneys, Per Diem Attorney Service
+ - [https://instantperdiemattorneyservice.com](https://instantperdiemattorneyservice.com)
+ - date published: 2018-06-07T05:36:45+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Institutional Investor
  - [https://www.institutionalinvestor.com](https://www.institutionalinvestor.com)
  - date published: 2023-10-25T15:21:43.606429+00:00
@@ -387,6 +609,12 @@
  - date published: 2023-10-27T10:42:11.444183+00:00
  - user: None
  - tags: ['knowledge', 'internet']
+
+## Interplay
+ - [https://interplay.com](https://interplay.com)
+ - date published: 2024-02-09T15:39:26+00:00
+ - user: rumpel
+ - tags: ["baldur's gate", 'fallout', 'video game developer']
 
 ## Writing An Interpreter In Go | Thorsten Ball
  - [https://interpreterbook.com](https://interpreterbook.com)
@@ -1144,6 +1372,12 @@
  - user: None
  - tags: []
 
+## Home
+ - [https://www.jakeworth.com](https://www.jakeworth.com)
+ - date published: 2024-02-09T06:39:36.536669+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Jakob Greenfeld – Jakob Greenfeld – Experiments in Permissionless Entrepreneurship
  - [https://jakobgreenfeld.com](https://jakobgreenfeld.com)
  - date published: 2023-10-25T15:26:12.647306+00:00
@@ -1282,6 +1516,12 @@
  - user: None
  - tags: ['personal']
 
+## Jamsheed Master
+ - [https://jamsheedmaster.com](https://jamsheedmaster.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Jamsocket
  - [https://jamsocket.com](https://jamsocket.com)
  - date published: 2000-01-01T00:00:00+00:00
@@ -1366,11 +1606,23 @@
  - user: None
  - tags: ['personal']
 
+## JaredEast.com | Hu+ The Human Element. Complex Systems.
+ - [https://jaredeast.com](https://jaredeast.com)
+ - date published: 2024-02-09T14:07:11.266094+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Jared Forsyth.com | Jared Forsyth.com
  - [https://jaredforsyth.com](https://jaredforsyth.com)
  - date published: 2023-10-25T15:26:52.976715+00:00
  - user: None
  - tags: []
+
+## Jaredigms
+ - [https://jaredigms.com](https://jaredigms.com)
+ - date published: 2024-02-09T22:23:13.032097+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Jared Ramsey
  - [https://jaredramsey.com](https://jaredramsey.com)
@@ -2114,7 +2366,7 @@
  - [https://jkleinberg.com](https://jkleinberg.com)
  - date published: 2024-01-10T23:53:20.981430+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home - J.K. Rowling
  - [https://www.jkrowling.com](https://www.jkrowling.com)
@@ -2420,7 +2672,7 @@
  - [https://johnj.com](https://johnj.com)
  - date published: 2024-01-02T10:19:57.586845+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## John Kappa ✦ Melbourne Based Designer & Creative Artist
  - [https://johnkappa.com](https://johnkappa.com)
@@ -2792,7 +3044,7 @@
  - [https://www.joshlevent.com](https://www.joshlevent.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Josh Lu
  - [https://www.joshlu.com](https://www.joshlu.com)
@@ -3050,7 +3302,7 @@
  - [https://www.julianahan.com](https://www.julianahan.com)
  - date published: 2023-11-29T17:14:16.216702+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Julian Sonne Hansen
  - [https://julianhansen.com](https://julianhansen.com)
@@ -3908,7 +4160,7 @@
  - [https://www.kevinkammeraad.com](https://www.kevinkammeraad.com)
  - date published: 2024-01-19T01:54:46.769466+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Kevin Kauzlaric - How to Start, Measure, & Grow an Online Business
  - [http://kevinkauzlaric.com](http://kevinkauzlaric.com)
@@ -4397,6 +4649,12 @@
  - user: None
  - tags: []
 
+## Kohan Ikin
+ - [https://kohanikin.com](https://kohanikin.com)
+ - date published: 2021-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
 ## kohina - old school game and demo music
  - [https://kohina.com](https://kohina.com)
  - date published: 2024-02-04T12:25:56+00:00
@@ -4870,6 +5128,12 @@
  - date published: 2024-01-04T22:56:46.560998+00:00
  - user: None
  - tags: []
+
+## Kyle Gulau | Entrepreneur and Strategist
+ - [https://kylegulau.com](https://kylegulau.com)
+ - date published: 2024-02-09T06:40:54.110857+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Kyle Halladay - Home Page
  - [https://kylehalladay.com](https://kylehalladay.com)
@@ -5458,7 +5722,7 @@ Chamber Music, Symphony
  - [https://www.learningtocookfood.com](https://www.learningtocookfood.com)
  - date published: 2023-12-20T21:30:27.994041+00:00
  - user: None
- - tags: ['personal']
+ - tags: ['personal', 'personal']
 
 ## Learn Code the Hard Way
  - [https://learnjsthehardway.com](https://learnjsthehardway.com)
@@ -5716,7 +5980,7 @@ Chamber Music, Symphony
  - [https://leoglowacki.com](https://leoglowacki.com)
  - date published: 2024-01-29T23:27:30.561916+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## leonidasv.com
  - [https://leonidasv.com](https://leonidasv.com)
@@ -5733,270 +5997,6 @@ Chamber Music, Symphony
 ## LEO Weekly • Louisville's Alt-Weekly
  - [https://www.leoweekly.com](https://www.leoweekly.com)
  - date published: 2023-10-25T15:45:09.727753+00:00
- - user: None
- - tags: []
-
-## Les bons comptes
- - [https://www.lesbonscomptes.com](https://www.lesbonscomptes.com)
- - date published: 2023-10-25T15:45:12.138163+00:00
- - user: None
- - tags: []
-
-## LessWrong
- - [https://www.lesswrong.com](https://www.lesswrong.com)
- - date published: 2023-10-25T15:45:22.248975+00:00
- - user: None
- - tags: []
-
-## Leteyski's blog
- - [https://www.leteyski.com](https://www.leteyski.com)
- - date published: 2023-10-25T15:45:24.651458+00:00
- - user: None
- - tags: []
-
-## Irrational Exuberance
- - [https://lethain.com](https://lethain.com)
- - date published: 2023-10-25T15:45:34.098626+00:00
- - user: None
- - tags: []
-
-## LetMyPeopleCode.com – A blog about software, schmaltz, and monkey-patches for the soul
- - [https://letmypeoplecode.com](https://letmypeoplecode.com)
- - date published: 2023-10-25T15:45:37.465526+00:00
- - user: None
- - tags: []
-
-## Fly AI - ChatGPT for mac
- - [https://letsflyai.com](https://letsflyai.com)
- - date published: 2023-10-25T15:45:38.810487+00:00
- - user: None
- - tags: []
-
-## Letters of Note | Shaun Usher | Substack
- - [https://news.lettersofnote.com](https://news.lettersofnote.com)
- - date published: 2023-10-25T15:45:42.174290+00:00
- - user: None
- - tags: []
-
-## Letters To A New Developer – What I wish I had known when starting my development career
- - [https://letterstoanewdeveloper.com](https://letterstoanewdeveloper.com)
- - date published: 2023-10-25T15:45:46.872122+00:00
- - user: None
- - tags: []
-
-## leuls
- - [https://leuls.com](https://leuls.com)
- - date published: 2023-04-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Level1Techs Forums
- - [https://forum.level1techs.com](https://forum.level1techs.com)
- - date published: 2023-10-25T15:45:51.614609+00:00
- - user: None
- - tags: []
-
-## https://levelup-edu.com
- - [https://levelup-edu.com](https://levelup-edu.com)
- - date published: 2024-01-09T02:42:01.410120+00:00
- - user: None
- - tags: []
-
-## Amiga Reviews: Videogames in the printed press
- - [https://amigareviews.leveluphost.com](https://amigareviews.leveluphost.com)
- - date published: 2023-12-11T18:28:15.176609+00:00
- - user: None
- - tags: []
-
-## Amiga Reviews: Videogames in the printed press
- - [https://www.amigareviews.leveluphost.com](https://www.amigareviews.leveluphost.com)
- - date published: 2023-10-29T13:16:27.042394+00:00
- - user: None
- - tags: ['amiga']
-
-## The Lever
- - [https://www.levernews.com](https://www.levernews.com)
- - date published: 2023-10-25T15:45:54.614786+00:00
- - user: None
- - tags: []
-
-## Benjamin Parzybok - Author of Couch, Sherwood Nation, + other projects
- - [https://levinofearth.com](https://levinofearth.com)
- - date published: 2023-11-29T14:41:46.286960+00:00
- - user: None
- - tags: ['personal']
-
-## Coding Bootcamp | Le Wagon
- - [https://www.lewagon.com](https://www.lewagon.com)
- - date published: 2023-12-11T16:18:44.845956+00:00
- - user: None
- - tags: []
-
-## Account Suspended | Lithium Hosting
- - [https://lewisq.com](https://lewisq.com)
- - date published: 2023-11-29T15:47:03.361638+00:00
- - user: None
- - tags: ['personal']
-
-## Welcome – Lewis Walsh, Freelance software engineer from Essex, United Kingdom. Posting mainly about software development, system administration, electronics, and photography. - Lewis Walsh
- - [https://lewiswalsh.com](https://lewiswalsh.com)
- - date published: 2024-01-15T02:45:35.959399+00:00
- - user: None
- - tags: []
-
-## Lexaloffle Games
- - [https://www.lexaloffle.com](https://www.lexaloffle.com)
- - date published: 2023-10-25T15:46:02.204223+00:00
- - user: None
- - tags: []
-
-## Lex Fridman
- - [https://lexfridman.com](https://lexfridman.com)
- - date published: 2023-10-25T15:46:04.386725+00:00
- - user: None
- - tags: []
-
-## Age of Sigmar - Lexicanum
- - [https://ageofsigmar.lexicanum.com](https://ageofsigmar.lexicanum.com)
- - date published: 2023-10-27T12:08:33.419970+00:00
- - user: None
- - tags: ['tabletop games', 'warhammer']
-
-## Lexicanum – The Community Created Wargames Encyclopedia
- - [https://www.lexicanum.com](https://www.lexicanum.com)
- - date published: 2023-12-13T15:39:36.326244+00:00
- - user: None
- - tags: ['warhammer', 'tabletop games', 'wargames']
-
-## LFG Slots | NFT Slot Machines
- - [https://lfgslots.com](https://lfgslots.com)
- - date published: 2023-10-25T15:46:04.930338+00:00
- - user: None
- - tags: []
-
-## LG Electronics Polska
- - [https://www.lg.com](https://www.lg.com)
- - date published: 2023-10-25T11:28:11.182708+00:00
- - user: None
- - tags: ['hardware company']
-
-## LGBTQ Nation
- - [https://www.lgbtqnation.com](https://www.lgbtqnation.com)
- - date published: 2023-10-30T19:33:36.663163+00:00
- - user: None
- - tags: ['the left wing', 'lgbt']
-
-## LGUG2Z
- - [https://lgug2z.com](https://lgug2z.com)
- - date published: 2023-10-25T15:46:06.632718+00:00
- - user: None
- - tags: []
-
-## Goto Short Links are no longer available - Google Workspace Admin Help
- - [https://to.lhunath.com](https://to.lhunath.com)
- - date published: 2024-02-08T17:02:15.548025+00:00
- - user: None
- - tags: []
-
-## LIAM CHAI
- - [https://www.liamchai.com](https://www.liamchai.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | LiamHz
- - [https://liamhz.com](https://liamhz.com)
- - date published: 2023-10-25T15:46:08.134573+00:00
- - user: None
- - tags: []
-
-## Liam Rosen – Wired Differently
- - [https://liamrosen.com](https://liamrosen.com)
- - date published: 2023-12-14T03:18:34.361953+00:00
- - user: None
- - tags: []
-
-## https://liberapay.com
- - [https://liberapay.com](https://liberapay.com)
- - date published: 2023-11-19T21:28:17+00:00
- - user: rumpel
- - tags: ['crowdfunding']
-
-## Liberland Press
- - [https://liberlandpress.com](https://liberlandpress.com)
- - date published: 2023-10-25T10:15:59.341820+00:00
- - user: None
- - tags: []
-
-## Home - Liberty Planet
- - [https://www.libertyplanets.com](https://www.libertyplanets.com)
- - date published: 2023-10-25T15:46:10.271512+00:00
- - user: None
- - tags: []
-
-## liblab blog | liblab Blog
- - [https://blog.liblab.com](https://blog.liblab.com)
- - date published: 2023-10-25T15:46:12.108456+00:00
- - user: None
- - tags: []
-
-## Librarian AI
- - [https://www.librarian-ai.com](https://www.librarian-ai.com)
- - date published: 2023-10-25T15:46:15.276931+00:00
- - user: None
- - tags: []
-
-## Library Journal
- - [https://www.libraryjournal.com](https://www.libraryjournal.com)
- - date published: 2023-10-27T11:55:25.668804+00:00
- - user: None
- - tags: []
-
-## Library of Short Stories - Read Classic Short Stories Online
- - [https://www.libraryofshortstories.com](https://www.libraryofshortstories.com)
- - date published: 2023-10-25T15:46:16.264883+00:00
- - user: None
- - tags: []
-
-## LibraryThing | Catalog your books online | LibraryThing
- - [https://www.librarything.com](https://www.librarything.com)
- - date published: 2024-01-23T13:38:55+00:00
- - user: rumpel
- - tags: ['book catalog']
-
-## Advent of Computing
- - [https://adventofcomputing.libsyn.com](https://adventofcomputing.libsyn.com)
- - date published: 2023-10-25T15:46:18.588810+00:00
- - user: None
- - tags: []
-
-## Shirtloads of Science
- - [https://shirtloadsofscience.libsyn.com](https://shirtloadsofscience.libsyn.com)
- - date published: 2023-12-02T20:11:05.694222+00:00
- - user: None
- - tags: []
-
-## Lichia Liu
- - [http://www.lichialiu.com](http://www.lichialiu.com)
- - date published: 2023-12-25T04:55:54.761543+00:00
- - user: None
- - tags: ['personal']
-
-## About LiewCF - LiewCF Tech Blog
- - [https://www.liewcf.com](https://www.liewcf.com)
- - date published: 2023-11-29T17:12:05.658238+00:00
- - user: None
- - tags: ['personal']
-
-## http://www.lifegallerist.com
- - [http://www.lifegallerist.com](http://www.lifegallerist.com)
- - date published: 2023-11-29T14:21:40.957427+00:00
- - user: None
- - tags: ['personal']
-
-## Lifehacker | Do everything better
- - [https://lifehacker.com](https://lifehacker.com)
- - date published: 2023-10-25T09:33:43.014603+00:00
  - user: None
  - tags: []
 

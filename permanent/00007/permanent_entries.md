@@ -1,3 +1,267 @@
+## Les bons comptes
+ - [https://www.lesbonscomptes.com](https://www.lesbonscomptes.com)
+ - date published: 2023-10-25T15:45:12.138163+00:00
+ - user: None
+ - tags: []
+
+## LessWrong
+ - [https://www.lesswrong.com](https://www.lesswrong.com)
+ - date published: 2023-10-25T15:45:22.248975+00:00
+ - user: None
+ - tags: []
+
+## Leteyski's blog
+ - [https://www.leteyski.com](https://www.leteyski.com)
+ - date published: 2023-10-25T15:45:24.651458+00:00
+ - user: None
+ - tags: []
+
+## Irrational Exuberance
+ - [https://lethain.com](https://lethain.com)
+ - date published: 2023-10-25T15:45:34.098626+00:00
+ - user: None
+ - tags: []
+
+## LetMyPeopleCode.com – A blog about software, schmaltz, and monkey-patches for the soul
+ - [https://letmypeoplecode.com](https://letmypeoplecode.com)
+ - date published: 2023-10-25T15:45:37.465526+00:00
+ - user: None
+ - tags: []
+
+## Fly AI - ChatGPT for mac
+ - [https://letsflyai.com](https://letsflyai.com)
+ - date published: 2023-10-25T15:45:38.810487+00:00
+ - user: None
+ - tags: []
+
+## Letters of Note | Shaun Usher | Substack
+ - [https://news.lettersofnote.com](https://news.lettersofnote.com)
+ - date published: 2023-10-25T15:45:42.174290+00:00
+ - user: None
+ - tags: []
+
+## Letters To A New Developer – What I wish I had known when starting my development career
+ - [https://letterstoanewdeveloper.com](https://letterstoanewdeveloper.com)
+ - date published: 2023-10-25T15:45:46.872122+00:00
+ - user: None
+ - tags: []
+
+## leuls
+ - [https://leuls.com](https://leuls.com)
+ - date published: 2023-04-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Level1Techs Forums
+ - [https://forum.level1techs.com](https://forum.level1techs.com)
+ - date published: 2023-10-25T15:45:51.614609+00:00
+ - user: None
+ - tags: []
+
+## https://levelup-edu.com
+ - [https://levelup-edu.com](https://levelup-edu.com)
+ - date published: 2024-01-09T02:42:01.410120+00:00
+ - user: None
+ - tags: []
+
+## Amiga Reviews: Videogames in the printed press
+ - [https://amigareviews.leveluphost.com](https://amigareviews.leveluphost.com)
+ - date published: 2023-12-11T18:28:15.176609+00:00
+ - user: None
+ - tags: []
+
+## Amiga Reviews: Videogames in the printed press
+ - [https://www.amigareviews.leveluphost.com](https://www.amigareviews.leveluphost.com)
+ - date published: 2023-10-29T13:16:27.042394+00:00
+ - user: None
+ - tags: ['amiga']
+
+## The Lever
+ - [https://www.levernews.com](https://www.levernews.com)
+ - date published: 2023-10-25T15:45:54.614786+00:00
+ - user: None
+ - tags: []
+
+## Benjamin Parzybok - Author of Couch, Sherwood Nation, + other projects
+ - [https://levinofearth.com](https://levinofearth.com)
+ - date published: 2023-11-29T14:41:46.286960+00:00
+ - user: None
+ - tags: ['personal']
+
+## Coding Bootcamp | Le Wagon
+ - [https://www.lewagon.com](https://www.lewagon.com)
+ - date published: 2023-12-11T16:18:44.845956+00:00
+ - user: None
+ - tags: []
+
+## Account Suspended | Lithium Hosting
+ - [https://lewisq.com](https://lewisq.com)
+ - date published: 2023-11-29T15:47:03.361638+00:00
+ - user: None
+ - tags: ['personal']
+
+## Welcome – Lewis Walsh, Freelance software engineer from Essex, United Kingdom. Posting mainly about software development, system administration, electronics, and photography. - Lewis Walsh
+ - [https://lewiswalsh.com](https://lewiswalsh.com)
+ - date published: 2024-01-15T02:45:35.959399+00:00
+ - user: None
+ - tags: []
+
+## Lexaloffle Games
+ - [https://www.lexaloffle.com](https://www.lexaloffle.com)
+ - date published: 2023-10-25T15:46:02.204223+00:00
+ - user: None
+ - tags: []
+
+## Lex Fridman
+ - [https://lexfridman.com](https://lexfridman.com)
+ - date published: 2023-10-25T15:46:04.386725+00:00
+ - user: None
+ - tags: []
+
+## Age of Sigmar - Lexicanum
+ - [https://ageofsigmar.lexicanum.com](https://ageofsigmar.lexicanum.com)
+ - date published: 2023-10-27T12:08:33.419970+00:00
+ - user: None
+ - tags: ['tabletop games', 'warhammer']
+
+## Lexicanum – The Community Created Wargames Encyclopedia
+ - [https://www.lexicanum.com](https://www.lexicanum.com)
+ - date published: 2023-12-13T15:39:36.326244+00:00
+ - user: None
+ - tags: ['warhammer', 'tabletop games', 'wargames']
+
+## LFG Slots | NFT Slot Machines
+ - [https://lfgslots.com](https://lfgslots.com)
+ - date published: 2023-10-25T15:46:04.930338+00:00
+ - user: None
+ - tags: []
+
+## LG Electronics Polska
+ - [https://www.lg.com](https://www.lg.com)
+ - date published: 2023-10-25T11:28:11.182708+00:00
+ - user: None
+ - tags: ['hardware company']
+
+## LGBTQ Nation
+ - [https://www.lgbtqnation.com](https://www.lgbtqnation.com)
+ - date published: 2023-10-30T19:33:36.663163+00:00
+ - user: None
+ - tags: ['the left wing', 'lgbt']
+
+## LGUG2Z
+ - [https://lgug2z.com](https://lgug2z.com)
+ - date published: 2023-10-25T15:46:06.632718+00:00
+ - user: None
+ - tags: []
+
+## Goto Short Links are no longer available - Google Workspace Admin Help
+ - [https://to.lhunath.com](https://to.lhunath.com)
+ - date published: 2024-02-08T17:02:15.548025+00:00
+ - user: None
+ - tags: []
+
+## LIAM CHAI
+ - [https://www.liamchai.com](https://www.liamchai.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | LiamHz
+ - [https://liamhz.com](https://liamhz.com)
+ - date published: 2023-10-25T15:46:08.134573+00:00
+ - user: None
+ - tags: []
+
+## Liam Rosen – Wired Differently
+ - [https://liamrosen.com](https://liamrosen.com)
+ - date published: 2023-12-14T03:18:34.361953+00:00
+ - user: None
+ - tags: []
+
+## https://liberapay.com
+ - [https://liberapay.com](https://liberapay.com)
+ - date published: 2023-11-19T21:28:17+00:00
+ - user: rumpel
+ - tags: ['crowdfunding']
+
+## Liberland Press
+ - [https://liberlandpress.com](https://liberlandpress.com)
+ - date published: 2023-10-25T10:15:59.341820+00:00
+ - user: None
+ - tags: []
+
+## Home - Liberty Planet
+ - [https://www.libertyplanets.com](https://www.libertyplanets.com)
+ - date published: 2023-10-25T15:46:10.271512+00:00
+ - user: None
+ - tags: []
+
+## liblab blog | liblab Blog
+ - [https://blog.liblab.com](https://blog.liblab.com)
+ - date published: 2023-10-25T15:46:12.108456+00:00
+ - user: None
+ - tags: []
+
+## Librarian AI
+ - [https://www.librarian-ai.com](https://www.librarian-ai.com)
+ - date published: 2023-10-25T15:46:15.276931+00:00
+ - user: None
+ - tags: []
+
+## Library Journal
+ - [https://www.libraryjournal.com](https://www.libraryjournal.com)
+ - date published: 2023-10-27T11:55:25.668804+00:00
+ - user: None
+ - tags: []
+
+## Library of Short Stories - Read Classic Short Stories Online
+ - [https://www.libraryofshortstories.com](https://www.libraryofshortstories.com)
+ - date published: 2023-10-25T15:46:16.264883+00:00
+ - user: None
+ - tags: []
+
+## LibraryThing | Catalog your books online | LibraryThing
+ - [https://www.librarything.com](https://www.librarything.com)
+ - date published: 2024-01-23T13:38:55+00:00
+ - user: rumpel
+ - tags: ['book catalog']
+
+## Advent of Computing
+ - [https://adventofcomputing.libsyn.com](https://adventofcomputing.libsyn.com)
+ - date published: 2023-10-25T15:46:18.588810+00:00
+ - user: None
+ - tags: []
+
+## Shirtloads of Science
+ - [https://shirtloadsofscience.libsyn.com](https://shirtloadsofscience.libsyn.com)
+ - date published: 2023-12-02T20:11:05.694222+00:00
+ - user: None
+ - tags: []
+
+## Lichia Liu
+ - [http://www.lichialiu.com](http://www.lichialiu.com)
+ - date published: 2023-12-25T04:55:54.761543+00:00
+ - user: None
+ - tags: ['personal']
+
+## About LiewCF - LiewCF Tech Blog
+ - [https://www.liewcf.com](https://www.liewcf.com)
+ - date published: 2023-11-29T17:12:05.658238+00:00
+ - user: None
+ - tags: ['personal']
+
+## http://www.lifegallerist.com
+ - [http://www.lifegallerist.com](http://www.lifegallerist.com)
+ - date published: 2023-11-29T14:21:40.957427+00:00
+ - user: None
+ - tags: ['personal']
+
+## Lifehacker | Do everything better
+ - [https://lifehacker.com](https://lifehacker.com)
+ - date published: 2023-10-25T09:33:43.014603+00:00
+ - user: None
+ - tags: []
+
 ## Life Is Computation - neuroscience, computation, biology, statistics, economics, physics, and philosophy
  - [https://www.lifeiscomputation.com](https://www.lifeiscomputation.com)
  - date published: 2023-10-25T15:46:24.254276+00:00
@@ -1361,6 +1625,12 @@ diversions.
  - user: None
  - tags: []
 
+## Mistâ€“a one-man studio
+ - [https://madebymist.com](https://madebymist.com)
+ - date published: 2024-02-09T22:27:38.363514+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Made By Nathan
  - [https://madebynathan.com](https://madebynathan.com)
  - date published: 2023-10-25T15:53:47.605821+00:00
@@ -1444,6 +1714,12 @@ diversions.
  - date published: 2023-10-25T15:54:22.803149+00:00
  - user: None
  - tags: []
+
+## Mahesh Rijal
+ - [https://maheshrijal.com](https://maheshrijal.com)
+ - date published: 2024-02-09T14:09:20.115113+00:00
+ - user: None
+ - tags: ['personal']
 
 ## The Mail Archive
  - [https://www.mail-archive.com](https://www.mail-archive.com)
@@ -1797,7 +2073,7 @@ diversions.
  - [https://marcallred.com](https://marcallred.com)
  - date published: 2024-01-21T04:57:58.768979+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Marc Gunn – Rhythm & Folk Celtic Music
  - [https://marcgunn.com](https://marcgunn.com)
@@ -2448,6 +2724,12 @@ diversions.
  - user: None
  - tags: []
 
+## Matthew Guy
+ - [https://matthewguy.com](https://matthewguy.com)
+ - date published: 2024-02-09T22:01:19.320413+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Matthew Hirschey
  - [https://www.matthewhirschey.com](https://www.matthewhirschey.com)
  - date published: 2024-01-24T08:01:24.160544+00:00
@@ -2668,7 +2950,7 @@ diversions.
  - [https://maziebones.com](https://maziebones.com)
  - date published: 2024-01-11T12:23:16.751882+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Free open source IoT OS and development tools from Arm | Mbed
  - [https://os.mbed.com](https://os.mbed.com)
@@ -4450,7 +4732,13 @@ diversions.
  - [https://michaelbalchan.com](https://michaelbalchan.com)
  - date published: 2024-01-15T08:34:35.765713+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
+
+## Michael Boezi: Writer, Educator, Musician
+ - [https://michaelboezi.com](https://michaelboezi.com)
+ - date published: 2024-02-09T21:50:18.240552+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Home Page V2
  - [https://www.michaelfrew.com](https://www.michaelfrew.com)
@@ -4505,6 +4793,12 @@ diversions.
  - date published: 2023-10-25T16:02:51.669719+00:00
  - user: None
  - tags: []
+
+## Welcome | Michael Welford
+ - [https://michaelwelford.com](https://michaelwelford.com)
+ - date published: 2024-02-09T22:00:20.282928+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Michele Coscia | Connecting Humanities
  - [https://www.michelecoscia.com](https://www.michelecoscia.com)
@@ -5015,7 +5309,7 @@ diversions.
  - [https://minisbarter.com](https://minisbarter.com)
  - date published: 2023-10-25T11:11:29.320355+00:00
  - user: None
- - tags: ['marketplace', 'tabletop games']
+ - tags: ['digital marketplace', 'tabletop games']
 
 ## Mini Tokyo 3D
  - [https://minitokyo3d.com](https://minitokyo3d.com)
@@ -5704,300 +5998,6 @@ diversions.
 ## Morten Vistisen | Ramblings about Tech and making Internet Money
  - [https://mortenvistisen.com](https://mortenvistisen.com)
  - date published: 2023-10-25T16:07:12.653400+00:00
- - user: None
- - tags: []
-
-## None
- - [https://mosaicmagazine.com](https://mosaicmagazine.com)
- - date published: 2023-10-27T12:49:31.579848+00:00
- - user: None
- - tags: []
-
-## MosaicML | Home
- - [https://www.mosaicml.com](https://www.mosaicml.com)
- - date published: 2023-10-25T16:07:15.073011+00:00
- - user: None
- - tags: []
-
-## Moserware
- - [https://www.moserware.com](https://www.moserware.com)
- - date published: 2023-10-25T16:07:21.129599+00:00
- - user: None
- - tags: []
-
-## Mostly metrics | CJ Gustafson | Substack
- - [https://www.mostlymetrics.com](https://www.mostlymetrics.com)
- - date published: 2023-10-25T16:07:25.793429+00:00
- - user: None
- - tags: []
-
-## MotherDuck: Serverless Data Analytics with DuckDB
- - [https://motherduck.com](https://motherduck.com)
- - date published: 2023-10-25T16:07:29.673636+00:00
- - user: None
- - tags: []
-
-## Motherfucking Website
- - [https://motherfuckingwebsite.com](https://motherfuckingwebsite.com)
- - date published: 2023-11-17T18:03:41+00:00
- - user: rumpel
- - tags: ['funny', 'wtf', 'internet']
-
-## Mother Jones – Smart, fearless journalism
- - [https://www.motherjones.com](https://www.motherjones.com)
- - date published: 2023-10-25T16:07:37.660102+00:00
- - user: None
- - tags: []
-
-## Mother Turtle | Mother Turtle Music
- - [https://www.motherturtle.com](https://www.motherturtle.com)
- - date published: 2024-01-14T17:12:17.714596+00:00
- - user: None
- - tags: []
-
-## Car News and Information | Motor1.com
- - [https://www.motor1.com](https://www.motor1.com)
- - date published: 2023-11-08T00:56:14.804673+00:00
- - user: None
- - tags: []
-
-## MotorBiscuit
- - [https://www.motorbiscuit.com](https://www.motorbiscuit.com)
- - date published: 2024-01-20T14:57:31.992792+00:00
- - user: None
- - tags: []
-
-## motorola Polska | Smartfony z systemem Android & Razr
- - [https://www.motorola.com](https://www.motorola.com)
- - date published: 2023-10-25T11:26:01.181427+00:00
- - user: None
- - tags: []
-
-## MotorTrend: New Cars - Car News and Expert Reviews
- - [https://www.motortrend.com](https://www.motortrend.com)
- - date published: 2023-10-25T16:07:43.987801+00:00
- - user: None
- - tags: []
-
-## https://www.mountaindew.com
- - [https://www.mountaindew.com](https://www.mountaindew.com)
- - date published: 2023-12-05T15:09:24.014750+00:00
- - user: None
- - tags: []
-
-## Under Construction
- - [https://www.mousevision.com](https://www.mousevision.com)
- - date published: 2024-02-08T17:51:34.525805+00:00
- - user: None
- - tags: []
-
-## None
- - [https://movieweb.com](https://movieweb.com)
- - date published: 2024-01-02T15:03:09.368391+00:00
- - user: None
- - tags: []
-
-## MovingLake
- - [https://app.movinglake.com](https://app.movinglake.com)
- - date published: 2023-10-25T16:07:54.313990+00:00
- - user: None
- - tags: []
-
-## Moving the Limit
- - [https://movingthelimit.com](https://movingthelimit.com)
- - date published: 2023-10-25T16:07:55.366690+00:00
- - user: None
- - tags: []
-
-## ShowMeYourHotKeys
- - [https://showmeyourhotkeys.moxadventu.com](https://showmeyourhotkeys.moxadventu.com)
- - date published: 2023-10-25T16:07:57.215743+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.mozenda.com](https://www.mozenda.com)
- - date published: 2024-01-17T09:04:40+00:00
- - user: rumpel
- - tags: ['web scraping']
-
-## Mozilla Lifeboat
- - [https://mozillalifeboat.com](https://mozillalifeboat.com)
- - date published: 2023-10-25T16:08:00.354945+00:00
- - user: None
- - tags: []
-
-## Luigi Mozzillo
- - [https://mozzillo.com](https://mozzillo.com)
- - date published: 2023-12-15T21:45:09.248038+00:00
- - user: None
- - tags: ['personal']
-
-## None
- - [https://mp3-cutter-splitter.com](https://mp3-cutter-splitter.com)
- - date published: 2024-02-08T18:02:36.448246+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://identity.mparticle.com](https://identity.mparticle.com)
- - date published: 2024-01-09T02:44:16.498780+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://jssdkcdns.mparticle.com](https://jssdkcdns.mparticle.com)
- - date published: 2024-01-09T02:44:17.469937+00:00
- - user: None
- - tags: []
-
-## Mobile Relay Associates - Radio Communications - Los Angeles California
- - [https://mra-raycom.com](https://mra-raycom.com)
- - date published: 2023-10-25T16:08:05.955413+00:00
- - user: None
- - tags: []
-
-## Mr Ash Co
- - [https://mrashleyball.com](https://mrashleyball.com)
- - date published: 2024-01-16T03:20:08.257975+00:00
- - user: None
- - tags: []
-
-## MrBruh's Epic Blog
- - [https://mrbruh.com](https://mrbruh.com)
- - date published: 2024-01-09T02:44:19.456554+00:00
- - user: None
- - tags: []
-
-## Home - MrCrayfish
- - [https://mrcrayfish.com](https://mrcrayfish.com)
- - date published: 2023-10-25T11:16:52.437350+00:00
- - user: None
- - tags: []
-
-## Daniel Bourke
- - [https://www.mrdbourke.com](https://www.mrdbourke.com)
- - date published: 2023-10-25T16:08:10.310346+00:00
- - user: None
- - tags: []
-
-## -= MrElusive.com =-
- - [https://mrelusive.com](https://mrelusive.com)
- - date published: 2023-10-25T08:47:18.136526+00:00
- - user: None
- - tags: ['personal']
-
-## Home | Mr James Bell
- - [https://mrjamesbell.com](https://mrjamesbell.com)
- - date published: 2023-10-25T16:08:12.987041+00:00
- - user: None
- - tags: []
-
-## Mr Paralys
- - [https://www.mrparalys.com](https://www.mrparalys.com)
- - date published: 2024-01-02T19:20:01.793918+00:00
- - user: None
- - tags: []
-
-## MrPetovan.com – The online home of Hypolite Petovan
- - [https://blog.mrpetovan.com](https://blog.mrpetovan.com)
- - date published: 2024-01-31T16:33:34.604861+00:00
- - user: None
- - tags: []
-
-## MrScraper, a visual and dead-simple web scraper.
- - [https://mrscraper.com](https://mrscraper.com)
- - date published: 2023-10-25T16:08:15.862672+00:00
- - user: None
- - tags: []
-
-## – Things I wish I knew when I started (mrsteinberg.com/)
- - [https://mrsteinberg.com](https://mrsteinberg.com)
- - date published: 2023-10-25T16:08:17.444015+00:00
- - user: None
- - tags: []
-
-## MSN
- - [https://www.msn.com](https://www.msn.com)
- - date published: 2023-10-25T10:26:37.266048+00:00
- - user: None
- - tags: []
-
-## MSNBC News - Breaking News and News Today | Latest News
- - [https://msnbc.com](https://msnbc.com)
- - date published: 2023-11-05T15:29:41.824039+00:00
- - user: None
- - tags: []
-
-## MSNBC News - Breaking News and News Today | Latest News
- - [https://www.msnbc.com](https://www.msnbc.com)
- - date published: 2023-10-25T10:26:52.780038+00:00
- - user: None
- - tags: ['news']
-
-## Home - MSPoweruser
- - [https://mspoweruser.com](https://mspoweruser.com)
- - date published: 2023-10-25T16:08:22.790856+00:00
- - user: None
- - tags: []
-
-## MT-Propeller - Home
- - [https://www.mt-propeller.com](https://www.mt-propeller.com)
- - date published: 2023-10-25T16:08:24.716570+00:00
- - user: None
- - tags: []
-
-## MTG Rocks - Magic The Gathering Decks, Spoilers, Strategy & More!
- - [https://mtgrocks.com](https://mtgrocks.com)
- - date published: 2023-10-25T16:08:30.301225+00:00
- - user: None
- - tags: []
-
-## MTG Salvation
- - [https://www.mtgsalvation.com](https://www.mtgsalvation.com)
- - date published: 2023-12-13T16:20:24.925034+00:00
- - user: None
- - tags: []
-
-## mtstandard.com | Read Butte, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles
- - [https://mtstandard.com](https://mtstandard.com)
- - date published: 2023-11-27T17:10:46.469072+00:00
- - user: None
- - tags: []
-
-## MUBI: Watch and Discover Movies
- - [https://mubi.com](https://mubi.com)
- - date published: 2023-11-13T12:46:47.451838+00:00
- - user: None
- - tags: ['video streaming']
-
-## Illuminez Votre Maison
- - [https://www.mueller-solartechnik.com](https://www.mueller-solartechnik.com)
- - date published: 2024-02-08T17:33:26.643641+00:00
- - user: None
- - tags: []
-
-## brain dump
- - [https://mufidu.com](https://mufidu.com)
- - date published: 2023-12-12T13:08:46.080906+00:00
- - user: None
- - tags: ['personal']
-
-## The MUGEN ARCHIVE - Home
- - [https://mugenarchive.com](https://mugenarchive.com)
- - date published: 2023-10-29T09:58:23.978741+00:00
- - user: None
- - tags: []
-
-## MUGEN CHARACTERS: Download Chars, Games, Stages
- - [https://www.mugendb.com](https://www.mugendb.com)
- - date published: 2023-10-30T16:29:57.817187+00:00
- - user: None
- - tags: []
-
-## Mugen Free For All
- - [https://mugenfreeforall.com](https://mugenfreeforall.com)
- - date published: 2023-10-29T09:56:20.071922+00:00
  - user: None
  - tags: []
 
