@@ -1,3 +1,9 @@
+## Commissariat à la protection de la vie privée du Canada / Office of the Privacy Commissioner
+ - [https://www.priv.gc.ca](https://www.priv.gc.ca)
+ - date published: 2023-10-25T12:09:36.663904+00:00
+ - user: None
+ - tags: []
+
 ## Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
  - [https://www150.statcan.gc.ca](https://www150.statcan.gc.ca)
  - date published: 2023-11-27T21:10:40.723455+00:00
@@ -3089,6 +3095,12 @@
  - user: None
  - tags: ['personal', 'personal']
 
+## AaronStrick.com
+ - [https://aaronstrick.com](https://aaronstrick.com)
+ - date published: 2024-02-10T21:31:56.423203+00:00
+ - user: None
+ - tags: ['personal']
+
 ## None
  - [https://www.aaronsw.com](https://www.aaronsw.com)
  - date published: 2024-01-09T01:38:10.984994+00:00
@@ -3578,6 +3590,12 @@
 ## Adam Fuhrer | Frontend Engineer
  - [https://adamfuhrer.com](https://adamfuhrer.com)
  - date published: 2023-10-25T12:32:10.321239+00:00
+ - user: None
+ - tags: []
+
+## Adam Horne Creative Services — Stockholm, Sweden
+ - [https://adamhorne.com](https://adamhorne.com)
+ - date published: 2023-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5980,24 +5998,6 @@
 ## Anthony Campbell - Van Buul
  - [https://www.anthonyjcampbell.com](https://www.anthonyjcampbell.com)
  - date published: 2024-01-15T02:46:45.382659+00:00
- - user: None
- - tags: []
-
-## Reliable, Compelling, and Original Content Since 2011 | Anthony St. Clair
- - [https://www.anthonystclair.com](https://www.anthonystclair.com)
- - date published: 2024-01-13T18:25:59.972828+00:00
- - user: None
- - tags: []
-
-## Guide to Anthropic's prompt engineering resources
- - [https://docs.anthropic.com](https://docs.anthropic.com)
- - date published: 2023-12-12T22:17:34.029936+00:00
- - user: None
- - tags: []
-
-## Anthropic \ Home
- - [https://www.anthropic.com](https://www.anthropic.com)
- - date published: 2023-10-25T12:41:55.683728+00:00
  - user: None
  - tags: []
 

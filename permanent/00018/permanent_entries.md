@@ -1,3 +1,249 @@
+## Marva Jackson Lord
+ - [https://www.griots.net](https://www.griots.net)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://bellmedia-ash.gscontxt.net
+ - [https://bellmedia-ash.gscontxt.net](https://bellmedia-ash.gscontxt.net)
+ - date published: 2023-12-12T08:40:40.142562+00:00
+ - user: None
+ - tags: []
+
+## GTA 5 mods – GTA5mod.net
+ - [https://gta5mod.net](https://gta5mod.net)
+ - date published: 2023-10-25T11:10:23.969204+00:00
+ - user: None
+ - tags: []
+
+## GTALand.net - GTA Mods | Grand Theft Auto Mods
+ - [https://gtaland.net](https://gtaland.net)
+ - date published: 2023-10-25T11:17:52.636171+00:00
+ - user: None
+ - tags: []
+
+## Foren
+ - [https://www.gw-fanworld.net](https://www.gw-fanworld.net)
+ - date published: 2023-10-27T07:30:39.843574+00:00
+ - user: None
+ - tags: ['tabletop games', 'warhammer']
+
+## Essays · Gwern.net
+ - [https://gwern.net](https://gwern.net)
+ - date published: 2023-10-25T08:52:40.007182+00:00
+ - user: None
+ - tags: ['personal']
+
+## Essays · Gwern.net
+ - [https://www.gwern.net](https://www.gwern.net)
+ - date published: 2023-10-25T20:31:15.067679+00:00
+ - user: None
+ - tags: []
+
+## /bɑs ˈtjɛ̃ no ˈse ʁɑ/  (hadess) | News
+ - [https://www.hadess.net](https://www.hadess.net)
+ - date published: 2023-10-25T20:31:19.295251+00:00
+ - user: None
+ - tags: []
+
+## Halestrom's Peregrinations
+ - [https://halestrom.net](https://halestrom.net)
+ - date published: 2023-10-25T20:31:21.737543+00:00
+ - user: None
+ - tags: []
+
+## Vladimir Haltakov
+ - [https://haltakov.net](https://haltakov.net)
+ - date published: 2023-10-25T09:23:08.743881+00:00
+ - user: None
+ - tags: ['personal']
+
+## Tumble Forth
+ - [http://tumbleforth.hardcoded.net](http://tumbleforth.hardcoded.net)
+ - date published: 2023-11-07T23:23:22+00:00
+ - user: None
+ - tags: []
+
+## HardenedVault - Building Your Own Cyber Bunker
+ - [https://hardenedvault.net](https://hardenedvault.net)
+ - date published: 2023-10-25T20:31:23.525032+00:00
+ - user: None
+ - tags: []
+
+## recycled math
+ - [https://harrystern.net](https://harrystern.net)
+ - date published: 2023-10-25T08:52:41.328899+00:00
+ - user: None
+ - tags: ['personal']
+
+## Aftersleep Travel Log
+ - [http://www.hat.net](http://www.hat.net)
+ - date published: 2023-10-27T11:37:41.993043+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hazlitt
+ - [https://hazlitt.net](https://hazlitt.net)
+ - date published: 2023-10-25T20:31:25.130401+00:00
+ - user: None
+ - tags: []
+
+## Self-Serve Ad Platform | Heart Bid is at Your Service
+ - [https://heartbid.net](https://heartbid.net)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Email Deliverability Checklist & Toolkit for Marketers
+ - [https://www.helloinbox.net](https://www.helloinbox.net)
+ - date published: 2024-01-09T01:36:36.095516+00:00
+ - user: None
+ - tags: []
+
+## Index & News — hermiene.net
+ - [https://hermiene.net](https://hermiene.net)
+ - date published: 2023-10-25T08:52:43.448249+00:00
+ - user: None
+ - tags: ['personal']
+
+## HERO Movement » Online Movement + Mobility Training » Luke Jones
+ - [https://heromovement.net](https://heromovement.net)
+ - date published: 2023-11-29T15:52:09.795783+00:00
+ - user: None
+ - tags: ['personal']
+
+## HEXUS.net - Definitive Technology News and Reviews
+ - [https://hexus.net](https://hexus.net)
+ - date published: 2023-10-25T20:31:28.683808+00:00
+ - user: None
+ - tags: []
+
+## History Defined
+ - [https://www.historydefined.net](https://www.historydefined.net)
+ - date published: 2023-10-25T20:31:31.894518+00:00
+ - user: None
+ - tags: []
+
+## Sci-Hub
+ - [https://sci-hubtw.hkvisa.net](https://sci-hubtw.hkvisa.net)
+ - date published: 2023-10-25T20:31:32.809393+00:00
+ - user: None
+ - tags: []
+
+## hllmn.net
+ - [https://hllmn.net](https://hllmn.net)
+ - date published: 2023-10-25T20:31:33.334908+00:00
+ - user: None
+ - tags: []
+
+## https://steve.hollasch.net
+ - [https://steve.hollasch.net](https://steve.hollasch.net)
+ - date published: 2024-01-09T03:35:35.301545+00:00
+ - user: None
+ - tags: []
+
+## The Silicon Underground - David L. Farquhar, computer security professional, train hobbyist, and landlord
+ - [https://dfarq.homeip.net](https://dfarq.homeip.net)
+ - date published: 2023-10-25T20:31:36.204722+00:00
+ - user: None
+ - tags: []
+
+## HomemadeTools.net                     - HomemadeTools.net
+ - [https://www.homemadetools.net](https://www.homemadetools.net)
+ - date published: 2024-02-08T22:16:12.003249+00:00
+ - user: None
+ - tags: []
+
+## Home of the Underdogs
+ - [https://www.homeoftheunderdogs.net](https://www.homeoftheunderdogs.net)
+ - date published: 2023-11-15T17:53:48.403610+00:00
+ - user: None
+ - tags: ['community', 'games']
+
+## HookRace Blog
+ - [https://hookrace.net](https://hookrace.net)
+ - date published: 2023-10-25T09:23:10.789042+00:00
+ - user: None
+ - tags: ['personal']
+
+## [HOPE XV] Welcome to Hackers On Planet Earth!
+ - [https://www.hope.net](https://www.hope.net)
+ - date published: 2024-01-23T19:08:02.452152+00:00
+ - user: None
+ - tags: ['event', 'hacking']
+
+## Show HN: How did YOUR computer reach my server?
+ - [https://how-did-i-get-here.net](https://how-did-i-get-here.net)
+ - date published: 2023-12-05T14:56:25+00:00
+ - user: None
+ - tags: []
+
+## Howard Gray
+ - [https://howardgray.net](https://howardgray.net)
+ - date published: 2023-12-20T05:38:59.905716+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://www.hughrundle.net
+ - [https://www.hughrundle.net](https://www.hughrundle.net)
+ - date published: 2024-01-09T03:35:37.074436+00:00
+ - user: None
+ - tags: []
+
+## Welcome
+ - [https://huntertur.net](https://huntertur.net)
+ - date published: 2023-10-25T20:31:39.306377+00:00
+ - user: None
+ - tags: []
+
+## 500'000€ Prize for Compressing Human Knowledge
+ - [http://prize.hutter1.net](http://prize.hutter1.net)
+ - date published: 2023-10-25T20:31:40.973909+00:00
+ - user: None
+ - tags: []
+
+## Dead End
+ - [https://imp.i328067.net](https://imp.i328067.net)
+ - date published: 2023-11-26T05:00:50.816382+00:00
+ - user: None
+ - tags: []
+
+## Home – iA
+ - [https://ia.net](https://ia.net)
+ - date published: 2023-10-25T20:31:41.939052+00:00
+ - user: None
+ - tags: []
+
+## The Blog of Ian Robinson
+ - [https://ianrobinson.net](https://ianrobinson.net)
+ - date published: 2023-12-24T02:31:15.416614+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ido Perlmuter
+ - [https://ido50.net](https://ido50.net)
+ - date published: 2023-10-25T20:31:42.586769+00:00
+ - user: None
+ - tags: []
+
+## ignore the code
+ - [https://ignorethecode.net](https://ignorethecode.net)
+ - date published: 2023-10-25T20:31:48.804771+00:00
+ - user: None
+ - tags: []
+
+## The Most Officialest SkiFree Home Page
+ - [https://ski.ihoc.net](https://ski.ihoc.net)
+ - date published: 2023-10-25T20:31:50.207165+00:00
+ - user: None
+ - tags: []
+
+## IHOC Quake
+ - [http://www.quake.ihoc.net](http://www.quake.ihoc.net)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## DIY, hacks, experiments, machine learning, IoT and more - Ikkaro
  - [https://www.ikkaro.net](https://www.ikkaro.net)
  - date published: 2024-01-16T17:01:30.769145+00:00
@@ -988,6 +1234,18 @@
  - date published: 2023-10-25T08:39:46.892619+00:00
  - user: None
  - tags: ['game']
+
+## Minecraft Forge downloads
+ - [https://files.minecraftforge.net](https://files.minecraftforge.net)
+ - date published: 2024-02-10T09:13:04+00:00
+ - user: rumpel
+ - tags: []
+
+## Minecraft Forge Forums Homepage
+ - [https://minecraftforge.net](https://minecraftforge.net)
+ - date published: 2024-02-10T00:00:00+00:00
+ - user: rumpel
+ - tags: []
 
 ## Minecraft Forum
  - [https://www.minecraftforum.net](https://www.minecraftforum.net)
@@ -2903,6 +3161,12 @@
  - date published: 2023-10-25T08:36:29.384393+00:00
  - user: None
  - tags: ['email client', 'rss reader']
+
+## Hello World_
+ - [https://tianglim.net](https://tianglim.net)
+ - date published: 2024-01-06T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## TI-99/4A Game Shelf
  - [https://tigameshelf.net](https://tigameshelf.net)
@@ -4867,6 +5131,12 @@ marginalia.nu
  - user: None
  - tags: []
 
+## Discombobulated
+ - [https://discombobulated.co.nz](https://discombobulated.co.nz)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Google
  - [https://www.google.co.nz](https://www.google.co.nz)
  - date published: 2023-10-25T20:49:22.482071+00:00
@@ -5728,276 +5998,6 @@ marginalia.nu
 ## https://www.ahajournals.org
  - [https://www.ahajournals.org](https://www.ahajournals.org)
  - date published: 2023-11-23T17:36:30.008809+00:00
- - user: None
- - tags: []
-
-## AIER | American Institute for Economic Research
- - [https://www.aier.org](https://www.aier.org)
- - date published: 2023-10-25T20:55:07.515677+00:00
- - user: None
- - tags: []
-
-## Eye on Design – AIGA Eye on Design
- - [https://eyeondesign.aiga.org](https://eyeondesign.aiga.org)
- - date published: 2023-10-25T20:55:10.704075+00:00
- - user: None
- - tags: []
-
-## Physical Science Publishing - AIP Publishing LLC
- - [https://publishing.aip.org](https://publishing.aip.org)
- - date published: 2023-10-25T20:55:13.345986+00:00
- - user: None
- - tags: []
-
-## AIP Publishing
- - [https://pubs.aip.org](https://pubs.aip.org)
- - date published: 2023-10-25T20:55:20.450014+00:00
- - user: None
- - tags: []
-
-## https://www.ajicjournal.org
- - [https://www.ajicjournal.org](https://www.ajicjournal.org)
- - date published: 2024-01-25T18:17:06.459124+00:00
- - user: None
- - tags: []
-
-## https://blog.akatz.org
- - [https://blog.akatz.org](https://blog.akatz.org)
- - date published: 2023-10-25T20:55:21.266459+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://alaskapublic.org](https://alaskapublic.org)
- - date published: 2023-11-21T19:53:53.641325+00:00
- - user: None
- - tags: []
-
-## Aleteia Polska
- - [https://pl.aleteia.org](https://pl.aleteia.org)
- - date published: 2023-10-25T20:55:31.908312+00:00
- - user: None
- - tags: []
-
-## Alexandru Nedelcu - On programming and personal projects
- - [https://alexn.org](https://alexn.org)
- - date published: 2023-10-25T20:55:32.922079+00:00
- - user: None
- - tags: []
-
-## Algorithmica
- - [https://algorithmica.org](https://algorithmica.org)
- - date published: 2023-10-25T20:55:33.448638+00:00
- - user: None
- - tags: []
-
-## Algorithmica
- - [https://en.algorithmica.org](https://en.algorithmica.org)
- - date published: 2023-10-25T20:55:34.160164+00:00
- - user: None
- - tags: []
-
-## Algorithmic Botany: Home
- - [https://algorithmicbotany.org](https://algorithmicbotany.org)
- - date published: 2024-01-09T03:38:05.013663+00:00
- - user: None
- - tags: []
-
-## AI Alignment Forum
- - [https://www.alignmentforum.org](https://www.alignmentforum.org)
- - date published: 2023-10-25T20:55:41.600420+00:00
- - user: None
- - tags: []
-
-## Allen Institute for AI
- - [https://allenai.org](https://allenai.org)
- - date published: 2024-02-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Allen Institute - Unlocking the Mysteries of Us
- - [https://alleninstitute.org](https://alleninstitute.org)
- - date published: 2023-10-25T20:55:43.644922+00:00
- - user: None
- - tags: []
-
-## Alliance of Democracies
- - [https://www.allianceofdemocracies.org](https://www.allianceofdemocracies.org)
- - date published: 2023-10-25T20:55:45.299398+00:00
- - user: None
- - tags: []
-
-## Alloy Artifacts Tool History Page
- - [https://alloy-artifacts.org](https://alloy-artifacts.org)
- - date published: 2024-01-09T03:38:07.354521+00:00
- - user: None
- - tags: []
-
-## AlmaLinux OS - Forever-Free Enterprise-Grade Operating System
- - [https://almalinux.org](https://almalinux.org)
- - date published: 2023-10-25T20:55:50.368364+00:00
- - user: None
- - tags: []
-
-## Alpha Galileo |  alphagalileo.org
- - [https://www.alphagalileo.org](https://www.alphagalileo.org)
- - date published: 2023-10-25T20:55:53.089379+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.alprofoundation.org](https://www.alprofoundation.org)
- - date published: 2024-01-09T03:38:09.527361+00:00
- - user: None
- - tags: []
-
-## Alternet.org
- - [https://www.alternet.org](https://www.alternet.org)
- - date published: 2023-10-25T20:56:03.811289+00:00
- - user: None
- - tags: []
-
-## An IT guy corner: information and rant about modern operating systems: Windows 10, Windows 11, Linux, iOS and Android
- - [https://itvision.altervista.org](https://itvision.altervista.org)
- - date published: 2023-10-25T20:56:05.444671+00:00
- - user: None
- - tags: []
-
-## Home | Altexxa Group
- - [https://altexxanet.org](https://altexxanet.org)
- - date published: 2024-01-09T03:38:12.068195+00:00
- - user: None
- - tags: []
-
-## Alys Stephens Center - Home
- - [https://www.alysstephens.org](https://www.alysstephens.org)
- - date published: 2024-02-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## ALZFORUM | NETWORKING FOR A CURE
- - [https://www.alzforum.org](https://www.alzforum.org)
- - date published: 2024-01-28T01:07:09.880336+00:00
- - user: None
- - tags: []
-
-## Professor Amandeep S. Sidhu
- - [https://www.amandeep.org](https://www.amandeep.org)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Redshift Research Project
- - [https://www.amazonredshiftresearchproject.org](https://www.amazonredshiftresearchproject.org)
- - date published: 2023-10-25T20:56:09.348250+00:00
- - user: None
- - tags: []
-
-## America Magazine | The Jesuit Review of Faith & Culture
- - [https://www.americamagazine.org](https://www.americamagazine.org)
- - date published: 2023-10-25T20:56:12.260877+00:00
- - user: None
- - tags: []
-
-## American Affairs Journal - A quarterly journal of public policy and political thought
- - [https://americanaffairsjournal.org](https://americanaffairsjournal.org)
- - date published: 2023-10-25T20:56:15.359706+00:00
- - user: None
- - tags: []
-
-## https://www.americanbar.org
- - [https://www.americanbar.org](https://www.americanbar.org)
- - date published: 2023-10-25T20:56:20.959972+00:00
- - user: None
- - tags: []
-
-## American Dialect Society
- - [https://americandialect.org](https://americandialect.org)
- - date published: 2024-01-07T08:07:09.436647+00:00
- - user: None
- - tags: []
-
-## UBIQUE | American Geographical Society
- - [https://ubique.americangeo.org](https://ubique.americangeo.org)
- - date published: 2023-10-25T20:56:24.145813+00:00
- - user: None
- - tags: []
-
-## Alliance for American Manufacturing
- - [https://www.americanmanufacturing.org](https://www.americanmanufacturing.org)
- - date published: 2023-10-25T20:56:26.459768+00:00
- - user: None
- - tags: []
-
-## Center for American Progress
- - [https://www.americanprogress.org](https://www.americanprogress.org)
- - date published: 2023-10-25T20:56:35.352450+00:00
- - user: None
- - tags: []
-
-## American Scientist
- - [https://www.americanscientist.org](https://www.americanscientist.org)
- - date published: 2024-01-27T17:35:19.415020+00:00
- - user: None
- - tags: []
-
-## Home - The Survey Center on American Life
- - [https://www.americansurveycenter.org](https://www.americansurveycenter.org)
- - date published: 2023-10-25T20:56:38.831795+00:00
- - user: None
- - tags: []
-
-## Amerika
- - [https://www.amerika.org](https://www.amerika.org)
- - date published: 2023-10-28T17:28:54.615306+00:00
- - user: None
- - tags: []
-
-## AMetSoc
- - [https://journals.ametsoc.org](https://journals.ametsoc.org)
- - date published: 2023-11-17T07:14:43.865621+00:00
- - user: None
- - tags: []
-
-## AMIBIAN - Amiga emulation environment for Raspberry Pi.
- - [https://www.amibian.org](https://www.amibian.org)
- - date published: 2024-02-06T13:37:49.056798+00:00
- - user: None
- - tags: ['amiga', 'open source', 'emulation', 'raspberry pi']
-
-## Welcome to Amiga.org
- - [https://amiga.org](https://amiga.org)
- - date published: 2023-12-12T09:20:12+00:00
- - user: rumpel
- - tags: []
-
-## Amiga.org - Index
- - [https://forum.amiga.org](https://forum.amiga.org)
- - date published: 2023-12-11T17:27:44.605001+00:00
- - user: None
- - tags: []
-
-## wiki.amiga.org
- - [https://wiki.amiga.org](https://wiki.amiga.org)
- - date published: 2024-01-09T03:38:14.810685+00:00
- - user: None
- - tags: []
-
-## https://www.amiga.org
- - [https://www.amiga.org](https://www.amiga.org)
- - date published: 2023-12-12T09:21:33+00:00
- - user: rumpel
- - tags: []
-
-## Amiga PCB Explorer
- - [https://amigapcb.org](https://amigapcb.org)
- - date published: 2024-01-30T15:24:11+00:00
- - user: rumpel
- - tags: ['amiga', 'hobby', 'hardware']
-
-## Index of /
- - [http://ftp.amigascne.org](http://ftp.amigascne.org)
- - date published: 2023-12-11T17:26:36.493088+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,75 @@
+## Imgur: The magic of the Internet
+ - [https://imgurinc.com](https://imgurinc.com)
+ - date published: 2023-10-25T15:17:55.952104+00:00
+ - user: None
+ - tags: []
+
+## Welcome To Immanuel Lutheran Church | Schleswig Iowa
+ - [https://www.immanuelschleswig.com](https://www.immanuelschleswig.com)
+ - date published: 2024-02-08T17:00:06.315405+00:00
+ - user: None
+ - tags: []
+
+## Implications, by Scott Belsky | Substack
+ - [https://www.implications.com](https://www.implications.com)
+ - date published: 2023-11-01T08:42:20.362167+00:00
+ - user: None
+ - tags: []
+
+## IMPOSSIBLE ® | Push Your Limits™
+ - [https://impossiblehq.com](https://impossiblehq.com)
+ - date published: 2023-10-25T15:18:00.099282+00:00
+ - user: None
+ - tags: []
+
+## Impredicative LLC
+ - [http://impredicative.com](http://impredicative.com)
+ - date published: 2024-01-27T17:35:43.944721+00:00
+ - user: None
+ - tags: []
+
+## Improbable Island
+ - [https://www.improbableisland.com](https://www.improbableisland.com)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Impromptu Games
+ - [https://impromptugames.com](https://impromptugames.com)
+ - date published: 2023-10-25T15:18:02.657244+00:00
+ - user: None
+ - tags: []
+
+## Projects
+ - [https://www.improwis.com](https://www.improwis.com)
+ - date published: 2024-01-09T02:39:39.088600+00:00
+ - user: None
+ - tags: []
+
+## Impulse: Battery-Integrated Home Appliances
+ - [https://www.impulselabs.com](https://www.impulselabs.com)
+ - date published: 2024-01-08T15:10:34.694357+00:00
+ - user: None
+ - tags: []
+
+## Home - imtothrive.com
+ - [https://imtothrive.com](https://imtothrive.com)
+ - date published: 2023-11-27T16:50:58.342063+00:00
+ - user: None
+ - tags: ['personal']
+
+## inc.com
+ - [https://www.inc.com](https://www.inc.com)
+ - date published: 2023-10-25T15:18:17.265068+00:00
+ - user: None
+ - tags: []
+
+## InCaptions: Search in YouTube Captions (Subtitles)
+ - [https://incaptions.com](https://incaptions.com)
+ - date published: 2023-10-25T09:07:22.960705+00:00
+ - user: None
+ - tags: []
+
 ## incolumitas.com
  - [https://incolumitas.com](https://incolumitas.com)
  - date published: 2023-10-25T15:18:18.546695+00:00
@@ -987,6 +1059,12 @@
  - date published: 2023-11-01T13:25:28.931937+00:00
  - user: None
  - tags: ['israel news']
+
+## Is RSS Dead?
+ - [http://isrssdead.com](http://isrssdead.com)
+ - date published: 2017-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: []
 
 ## Square US Status
  - [https://www.issquareup.com](https://www.issquareup.com)
@@ -2836,6 +2914,12 @@
  - user: None
  - tags: ['personal']
 
+## Social psychologist - Author - Professor | Jonathan Haidt
+ - [https://jonathanhaidt.com](https://jonathanhaidt.com)
+ - date published: 2024-02-10T06:49:18+00:00
+ - user: rumpel
+ - tags: ['psychologist']
+
 ## Jonathan Haslett's Website
  - [https://jonathanhaslett.com](https://jonathanhaslett.com)
  - date published: 2024-01-08T07:26:44.689451+00:00
@@ -2918,12 +3002,18 @@
  - [https://www.jordanbpeterson.com](https://www.jordanbpeterson.com)
  - date published: 2023-10-25T08:46:41.267780+00:00
  - user: None
- - tags: ['personal']
+ - tags: ['personal', 'psychologist']
 
 ## Jorge Sancho Muñoz
  - [https://jorgesm.com](https://jorgesm.com)
  - date published: 2023-11-17T15:06:23+00:00
  - user: rumpel
+ - tags: ['personal']
+
+## Dad Sends Sweaters
+ - [https://josearenado.com](https://josearenado.com)
+ - date published: 2018-01-01T00:00:00+00:00
+ - user: None
  - tags: ['personal']
 
 ## Josef Erben's Blog
@@ -3434,7 +3524,7 @@
  - [https://www.justinmlind.com](https://www.justinmlind.com)
  - date published: 2024-01-15T06:16:44.936689+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## justinobeirne.com
  - [https://www.justinobeirne.com](https://www.justinobeirne.com)
@@ -3969,6 +4059,12 @@
  - date published: 2024-01-09T19:16:40.032796+00:00
  - user: None
  - tags: []
+
+## Keith Kritselis - Creative, Adaptive, Problem Solver
+ - [https://www.keithkritselis.com](https://www.keithkritselis.com)
+ - date published: 2024-02-10T21:33:58.540014+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Kellan Elliott-McCrea
  - [https://kellanem.com](https://kellanem.com)
@@ -4538,6 +4634,12 @@
 ## KLKN-TV - News, Weather and Sports for Lincoln, Nebraska
  - [https://www.klkntv.com](https://www.klkntv.com)
  - date published: 2024-01-09T02:41:12.995496+00:00
+ - user: None
+ - tags: []
+
+## kmaasrud
+ - [https://kmaasrud.com](https://kmaasrud.com)
+ - date published: 2024-02-07T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5895,108 +5997,6 @@ Chamber Music, Symphony
 ## Leiry Seron
  - [https://www.leiryseron.com](https://www.leiryseron.com)
  - date published: 2024-01-15T08:34:40.294254+00:00
- - user: None
- - tags: []
-
-## Interesting things
- - [https://www.lelanthran.com](https://www.lelanthran.com)
- - date published: 2023-10-25T15:44:45.580173+00:00
- - user: None
- - tags: []
-
-## Lemon64 - Commodore 64 Games - C64 Reviews & Music
- - [https://www.lemon64.com](https://www.lemon64.com)
- - date published: 2023-10-27T14:47:48.864514+00:00
- - user: None
- - tags: ['commodore', 'retro games']
-
-## Lemon Amiga - Games, Download, Emulator, Cheats & Forum
- - [https://www.lemonamiga.com](https://www.lemonamiga.com)
- - date published: 2024-01-31T00:00:00+00:00
- - user: None
- - tags: ['amiga', 'emulation', 'game roms']
-
-## Simple Recipes For Your Busy Life
- - [https://lemonsandzest.com](https://lemonsandzest.com)
- - date published: 2020-10-21T16:39:26+00:00
- - user: None
- - tags: []
-
-## LemonSpawn – Turbo Rascal Syntax Error
- - [https://lemonspawn.com](https://lemonspawn.com)
- - date published: 2023-10-25T15:44:46.519531+00:00
- - user: None
- - tags: []
-
-## LendingTree: You Win
- - [https://www.lendingtree.com](https://www.lendingtree.com)
- - date published: 2023-10-25T15:44:50.204528+00:00
- - user: None
- - tags: []
-
-## Lenny Gale
- - [https://lennygale.com](https://lennygale.com)
- - date published: 2024-01-09T08:54:46.549587+00:00
- - user: None
- - tags: ['personal']
-
-## Lenny's Newsletter | Lenny Rachitsky | Substack
- - [https://www.lennysnewsletter.com](https://www.lennysnewsletter.com)
- - date published: 2023-10-25T09:40:14.932048+00:00
- - user: None
- - tags: ['substack']
-
-## Lenovo Press
- - [https://lenovopress.lenovo.com](https://lenovopress.lenovo.com)
- - date published: 2023-10-25T15:44:54.928538+00:00
- - user: None
- - tags: []
-
-## Oficjalna witryna Lenovo® | Laptopy, tablety, komputery, urządzenia inteligentne, telefony i Data Center | Lenovo Poland
- - [https://www.lenovo.com](https://www.lenovo.com)
- - date published: 2023-10-25T11:28:05.722801+00:00
- - user: None
- - tags: ['company']
-
-## Phil Pritchard's Lensman - News
- - [https://www.lensmangame.com](https://www.lensmangame.com)
- - date published: 2024-02-08T21:51:03.024418+00:00
- - user: None
- - tags: []
-
-## Home | Ironwood Solar
- - [https://solar.leo32345.com](https://solar.leo32345.com)
- - date published: 2024-01-09T02:41:54.407960+00:00
- - user: None
- - tags: []
-
-## Leo Dale
- - [https://leodale.com](https://leodale.com)
- - date published: 2023-11-29T17:07:15.641709+00:00
- - user: None
- - tags: ['personal']
-
-## About Me - Leo Alexander Glowacki
- - [https://leoglowacki.com](https://leoglowacki.com)
- - date published: 2024-01-29T23:27:30.561916+00:00
- - user: None
- - tags: ['personal']
-
-## leonidasv.com
- - [https://leonidasv.com](https://leonidasv.com)
- - date published: 2023-10-25T15:45:05.620518+00:00
- - user: None
- - tags: []
-
-## Leo Sidran
- - [https://www.leosidran.com](https://www.leosidran.com)
- - date published: 2023-11-29T14:41:07.382707+00:00
- - user: None
- - tags: []
-
-## LEO Weekly • Louisville's Alt-Weekly
- - [https://www.leoweekly.com](https://www.leoweekly.com)
- - date published: 2023-10-25T15:45:09.727753+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,63 @@
+## Deepnote: Analytics and data science notebook for teams.
+ - [https://deepnote.com](https://deepnote.com)
+ - date published: 2023-10-25T13:47:56.980147+00:00
+ - user: None
+ - tags: []
+
+## Deepti Kannapan - Fiction writer, painter, and engineer
+ - [https://www.deeptikannapan.com](https://www.deeptikannapan.com)
+ - date published: 2023-12-31T16:46:51.630086+00:00
+ - user: None
+ - tags: []
+
+## DEEP VOODOO
+ - [https://www.deepvoodoo.com](https://www.deepvoodoo.com)
+ - date published: 2023-10-25T13:47:58.271089+00:00
+ - user: None
+ - tags: []
+
+## John Deere US | Products & Services Information
+ - [https://www.deere.com](https://www.deere.com)
+ - date published: 2024-01-30T17:02:42.432506+00:00
+ - user: None
+ - tags: ['agricultural machinery']
+
+## Deeter Cesler is your favorite person | strategist, software engineer, marketer
+ - [https://deetercesler.com](https://deetercesler.com)
+ - date published: 2024-01-22T18:18:53.973365+00:00
+ - user: None
+ - tags: []
+
+## Deezer plans | Compare Deezer's offer prices
+ - [https://www.deezer.com](https://www.deezer.com)
+ - date published: 2023-12-11T16:11:25.147244+00:00
+ - user: None
+ - tags: []
+
+## DEF CON Hacking Conference Online
+ - [https://www.defcononline.com](https://www.defcononline.com)
+ - date published: 2024-02-05T19:20:30.491695+00:00
+ - user: rumpel
+ - tags: ['hacking']
+
+## Defector | The last good website.
+ - [https://defector.com](https://defector.com)
+ - date published: 2023-10-25T13:48:09.544452+00:00
+ - user: None
+ - tags: []
+
+## Defense Express - Ukraine military industry, technology, equipment
+ - [https://en.defence-ua.com](https://en.defence-ua.com)
+ - date published: 2023-12-25T22:35:54.461715+00:00
+ - user: None
+ - tags: []
+
+## Defense News, Covering the politics, business and technology of defense | Defense News
+ - [https://www.defensenews.com](https://www.defensenews.com)
+ - date published: 2023-10-31T05:18:09.856934+00:00
+ - user: None
+ - tags: []
+
 ## Defense One
  - [https://www.defenseone.com](https://www.defenseone.com)
  - date published: 2023-10-25T13:48:12.931984+00:00
@@ -1982,6 +2042,12 @@
 ## Modern living, home design ideas, inspiration, and advice. - Dwell
  - [https://www.dwell.com](https://www.dwell.com)
  - date published: 2023-10-25T14:00:13.975793+00:00
+ - user: None
+ - tags: []
+
+## Dwight Gunning: Software, tech startups and the outdoors
+ - [https://www.dwightgunning.com](https://www.dwightgunning.com)
+ - date published: 2000-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5930,72 +5996,6 @@
 ## Global Leader of Cybersecurity Solutions and Services | Fortinet
  - [https://www.fortinet.com](https://www.fortinet.com)
  - date published: 2023-10-25T14:36:07.519364+00:00
- - user: None
- - tags: []
-
-## Fortress of Doors
- - [https://www.fortressofdoors.com](https://www.fortressofdoors.com)
- - date published: 2023-10-25T14:36:09.294965+00:00
- - user: None
- - tags: []
-
-## Expert Daily Market Forecasts using Gann and Elliot Wave Principles • Fortucast
- - [https://www.fortucast.com](https://www.fortucast.com)
- - date published: 2024-02-08T22:07:51.868845+00:00
- - user: None
- - tags: []
-
-## Fortune - Fortune 500 Daily & Breaking Business News | Fortune
- - [https://fortune.com](https://fortune.com)
- - date published: 2023-10-25T14:36:22.071682+00:00
- - user: None
- - tags: []
-
-## News That Matters to American Jews – The Forward
- - [https://forward.com](https://forward.com)
- - date published: 2023-10-25T14:36:25.563672+00:00
- - user: None
- - tags: []
-
-## FOSSA: Audit-Grade Open Source Dependency Protection
- - [https://fossa.com](https://fossa.com)
- - date published: 2023-10-25T14:36:27.833673+00:00
- - user: None
- - tags: []
-
-## FOSS Force - Keeping tech free
- - [https://fossforce.com](https://fossforce.com)
- - date published: 2023-10-25T09:32:58.587105+00:00
- - user: None
- - tags: []
-
-## Market & Opportunity Explorer for Devs · Fossfox
- - [https://fossfox.com](https://fossfox.com)
- - date published: 2023-10-25T14:36:32.664186+00:00
- - user: None
- - tags: []
-
-## FOSS Patents
- - [http://www.fosspatents.com](http://www.fosspatents.com)
- - date published: 2023-10-25T14:36:39.372249+00:00
- - user: None
- - tags: []
-
-## Founder's Choice
- - [https://www.founderschoicevc.com](https://www.founderschoicevc.com)
- - date published: 2023-10-25T14:36:45.980846+00:00
- - user: None
- - tags: []
-
-## Founding Fuel
- - [https://foundingfuel.com](https://foundingfuel.com)
- - date published: 2023-10-25T14:36:52.016854+00:00
- - user: None
- - tags: []
-
-## Four Bar Design
- - [https://www.fourbardesign.com](https://www.fourbardesign.com)
- - date published: 2023-10-25T14:36:55.657537+00:00
  - user: None
  - tags: []
 

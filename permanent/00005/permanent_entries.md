@@ -1,3 +1,69 @@
+## Fortress of Doors
+ - [https://www.fortressofdoors.com](https://www.fortressofdoors.com)
+ - date published: 2023-10-25T14:36:09.294965+00:00
+ - user: None
+ - tags: []
+
+## Expert Daily Market Forecasts using Gann and Elliot Wave Principles • Fortucast
+ - [https://www.fortucast.com](https://www.fortucast.com)
+ - date published: 2024-02-08T22:07:51.868845+00:00
+ - user: None
+ - tags: []
+
+## Fortune - Fortune 500 Daily & Breaking Business News | Fortune
+ - [https://fortune.com](https://fortune.com)
+ - date published: 2023-10-25T14:36:22.071682+00:00
+ - user: None
+ - tags: []
+
+## News That Matters to American Jews – The Forward
+ - [https://forward.com](https://forward.com)
+ - date published: 2023-10-25T14:36:25.563672+00:00
+ - user: None
+ - tags: []
+
+## FOSSA: Audit-Grade Open Source Dependency Protection
+ - [https://fossa.com](https://fossa.com)
+ - date published: 2023-10-25T14:36:27.833673+00:00
+ - user: None
+ - tags: []
+
+## FOSS Force - Keeping tech free
+ - [https://fossforce.com](https://fossforce.com)
+ - date published: 2023-10-25T09:32:58.587105+00:00
+ - user: None
+ - tags: []
+
+## Market & Opportunity Explorer for Devs · Fossfox
+ - [https://fossfox.com](https://fossfox.com)
+ - date published: 2023-10-25T14:36:32.664186+00:00
+ - user: None
+ - tags: []
+
+## FOSS Patents
+ - [http://www.fosspatents.com](http://www.fosspatents.com)
+ - date published: 2023-10-25T14:36:39.372249+00:00
+ - user: None
+ - tags: []
+
+## Founder's Choice
+ - [https://www.founderschoicevc.com](https://www.founderschoicevc.com)
+ - date published: 2023-10-25T14:36:45.980846+00:00
+ - user: None
+ - tags: []
+
+## Founding Fuel
+ - [https://foundingfuel.com](https://foundingfuel.com)
+ - date published: 2023-10-25T14:36:52.016854+00:00
+ - user: None
+ - tags: []
+
+## Four Bar Design
+ - [https://www.fourbardesign.com](https://www.fourbardesign.com)
+ - date published: 2023-10-25T14:36:55.657537+00:00
+ - user: None
+ - tags: []
+
 ## FOX 13 Tampa Bay
  - [https://www.fox13news.com](https://www.fox13news.com)
  - date published: 2023-11-09T20:23:39.042535+00:00
@@ -1496,6 +1562,12 @@
 ## dbt Labs | Transform Data in Your Warehouse
  - [https://www.getdbt.com](https://www.getdbt.com)
  - date published: 2023-10-25T14:43:26.088176+00:00
+ - user: None
+ - tags: []
+
+## GetDeploying - Find the right cloud provider for your next project
+ - [https://getdeploying.com](https://getdeploying.com)
+ - date published: 2024-02-10T22:15:26.254654+00:00
  - user: None
  - tags: []
 
@@ -5930,76 +6002,4 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-25T11:29:57.671111+00:00
  - user: None
  - tags: ['funny images', 'memes']
-
-## Imgur: The magic of the Internet
- - [https://imgurinc.com](https://imgurinc.com)
- - date published: 2023-10-25T15:17:55.952104+00:00
- - user: None
- - tags: []
-
-## Welcome To Immanuel Lutheran Church | Schleswig Iowa
- - [https://www.immanuelschleswig.com](https://www.immanuelschleswig.com)
- - date published: 2024-02-08T17:00:06.315405+00:00
- - user: None
- - tags: []
-
-## Implications, by Scott Belsky | Substack
- - [https://www.implications.com](https://www.implications.com)
- - date published: 2023-11-01T08:42:20.362167+00:00
- - user: None
- - tags: []
-
-## IMPOSSIBLE ® | Push Your Limits™
- - [https://impossiblehq.com](https://impossiblehq.com)
- - date published: 2023-10-25T15:18:00.099282+00:00
- - user: None
- - tags: []
-
-## Impredicative LLC
- - [http://impredicative.com](http://impredicative.com)
- - date published: 2024-01-27T17:35:43.944721+00:00
- - user: None
- - tags: []
-
-## Improbable Island
- - [https://www.improbableisland.com](https://www.improbableisland.com)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Impromptu Games
- - [https://impromptugames.com](https://impromptugames.com)
- - date published: 2023-10-25T15:18:02.657244+00:00
- - user: None
- - tags: []
-
-## Projects
- - [https://www.improwis.com](https://www.improwis.com)
- - date published: 2024-01-09T02:39:39.088600+00:00
- - user: None
- - tags: []
-
-## Impulse: Battery-Integrated Home Appliances
- - [https://www.impulselabs.com](https://www.impulselabs.com)
- - date published: 2024-01-08T15:10:34.694357+00:00
- - user: None
- - tags: []
-
-## Home - imtothrive.com
- - [https://imtothrive.com](https://imtothrive.com)
- - date published: 2023-11-27T16:50:58.342063+00:00
- - user: None
- - tags: ['personal']
-
-## inc.com
- - [https://www.inc.com](https://www.inc.com)
- - date published: 2023-10-25T15:18:17.265068+00:00
- - user: None
- - tags: []
-
-## InCaptions: Search in YouTube Captions (Subtitles)
- - [https://incaptions.com](https://incaptions.com)
- - date published: 2023-10-25T09:07:22.960705+00:00
- - user: None
- - tags: []
 

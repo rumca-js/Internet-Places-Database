@@ -1,3 +1,51 @@
+## 文学通信｜多様な情報をつなげ、多くの「問い」を世に生み出す出版社
+ - [https://bungaku-report.com](https://bungaku-report.com)
+ - date published: 2024-02-08T16:33:01.509269+00:00
+ - user: None
+ - tags: []
+
+## bunnie's blog
+ - [https://www.bunniestudios.com](https://www.bunniestudios.com)
+ - date published: 2023-10-25T13:15:02.723588+00:00
+ - user: None
+ - tags: []
+
+## Fiziko's space
+ - [https://fiziko.bureau42.com](https://fiziko.bureau42.com)
+ - date published: 2024-01-02T03:20:06.267638+00:00
+ - user: None
+ - tags: []
+
+## Burials & Beyond – life, death, and the weird bits in-between
+ - [https://burialsandbeyond.com](https://burialsandbeyond.com)
+ - date published: 2023-10-25T13:15:08.454323+00:00
+ - user: None
+ - tags: []
+
+## Burnett Music
+ - [https://www.burnettmusic.com](https://www.burnettmusic.com)
+ - date published: 2023-12-10T16:59:35.327673+00:00
+ - user: None
+ - tags: ['personal']
+
+## Business News, Finance News, India News, BSE/NSE News, Stock Markets News, Sensex NIFTY, Union Budget 2023
+ - [https://www.business-standard.com](https://www.business-standard.com)
+ - date published: 2023-10-31T03:18:05.634110+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://musecdn.businesscatalyst.com](http://musecdn.businesscatalyst.com)
+ - date published: 2023-12-11T16:10:40.270068+00:00
+ - user: None
+ - tags: []
+
+## https://www.businessgreen.com
+ - [https://www.businessgreen.com](https://www.businessgreen.com)
+ - date published: 2023-12-02T10:30:33.264583+00:00
+ - user: None
+ - tags: []
+
 ## Business Insider Africa
  - [https://africa.businessinsider.com](https://africa.businessinsider.com)
  - date published: 2023-10-25T11:07:56.116745+00:00
@@ -4486,6 +4534,12 @@
  - user: None
  - tags: []
 
+## https://legacy.curseforge.com
+ - [https://legacy.curseforge.com](https://legacy.curseforge.com)
+ - date published: 2024-02-10T09:25:25+00:00
+ - user: rumpel
+ - tags: ['game mods', 'minecraft']
+
 ## CurseForge Support
  - [https://support.curseforge.com](https://support.curseforge.com)
  - date published: 2023-12-13T16:02:43.598069+00:00
@@ -4496,7 +4550,7 @@
  - [https://www.curseforge.com](https://www.curseforge.com)
  - date published: 2023-10-25T11:16:22.703970+00:00
  - user: None
- - tags: []
+ - tags: ['minecraft']
 
 ## Find Answers | NVIDIA
  - [https://nvidia.custhelp.com](https://nvidia.custhelp.com)
@@ -5031,6 +5085,12 @@
  - date published: 2023-11-29T14:21:43.266780+00:00
  - user: None
  - tags: ['personal']
+
+## Daniel Snyders
+ - [https://www.danielsnyders.com](https://www.danielsnyders.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Coaching and Marketing for Evidence-Based Advisors - Dan Solin
  - [https://danielsolin.com](https://danielsolin.com)
@@ -5943,64 +6003,4 @@
  - date published: 2023-10-25T13:47:54.689117+00:00
  - user: None
  - tags: ['artificial intelligence']
-
-## Deepnote: Analytics and data science notebook for teams.
- - [https://deepnote.com](https://deepnote.com)
- - date published: 2023-10-25T13:47:56.980147+00:00
- - user: None
- - tags: []
-
-## Deepti Kannapan - Fiction writer, painter, and engineer
- - [https://www.deeptikannapan.com](https://www.deeptikannapan.com)
- - date published: 2023-12-31T16:46:51.630086+00:00
- - user: None
- - tags: []
-
-## DEEP VOODOO
- - [https://www.deepvoodoo.com](https://www.deepvoodoo.com)
- - date published: 2023-10-25T13:47:58.271089+00:00
- - user: None
- - tags: []
-
-## John Deere US | Products & Services Information
- - [https://www.deere.com](https://www.deere.com)
- - date published: 2024-01-30T17:02:42.432506+00:00
- - user: None
- - tags: ['agricultural machinery']
-
-## Deeter Cesler is your favorite person | strategist, software engineer, marketer
- - [https://deetercesler.com](https://deetercesler.com)
- - date published: 2024-01-22T18:18:53.973365+00:00
- - user: None
- - tags: []
-
-## Deezer plans | Compare Deezer's offer prices
- - [https://www.deezer.com](https://www.deezer.com)
- - date published: 2023-12-11T16:11:25.147244+00:00
- - user: None
- - tags: []
-
-## DEF CON Hacking Conference Online
- - [https://www.defcononline.com](https://www.defcononline.com)
- - date published: 2024-02-05T19:20:30.491695+00:00
- - user: rumpel
- - tags: ['hacking']
-
-## Defector | The last good website.
- - [https://defector.com](https://defector.com)
- - date published: 2023-10-25T13:48:09.544452+00:00
- - user: None
- - tags: []
-
-## Defense Express - Ukraine military industry, technology, equipment
- - [https://en.defence-ua.com](https://en.defence-ua.com)
- - date published: 2023-12-25T22:35:54.461715+00:00
- - user: None
- - tags: []
-
-## Defense News, Covering the politics, business and technology of defense | Defense News
- - [https://www.defensenews.com](https://www.defensenews.com)
- - date published: 2023-10-31T05:18:09.856934+00:00
- - user: None
- - tags: []
 

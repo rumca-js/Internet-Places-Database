@@ -1,3 +1,291 @@
+## Sci Phi Journal - A Universe of Wonder
+ - [https://www.sciphijournal.org](https://www.sciphijournal.org)
+ - date published: 2023-10-25T11:13:33.009612+00:00
+ - user: None
+ - tags: []
+
+## American Association of Physics Teachers | AIP Publishing
+ - [https://aapt.scitation.org](https://aapt.scitation.org)
+ - date published: 2023-10-25T22:07:00.202610+00:00
+ - user: None
+ - tags: []
+
+## AIP Publishing Portfolio | AIP Publishing
+ - [https://aip.scitation.org](https://aip.scitation.org)
+ - date published: 2023-10-25T22:07:04.043537+00:00
+ - user: None
+ - tags: []
+
+## Physics Today | AIP Publishing
+ - [https://physicstoday.scitation.org](https://physicstoday.scitation.org)
+ - date published: 2023-10-25T22:07:12.198844+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.scoreforaholeintheground.org](https://www.scoreforaholeintheground.org)
+ - date published: 2024-02-08T22:20:44.793145+00:00
+ - user: None
+ - tags: []
+
+## Scott's Weblog - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking
+ - [https://blog.scottlowe.org](https://blog.scottlowe.org)
+ - date published: 2024-01-10T21:15:53.956882+00:00
+ - user: None
+ - tags: []
+
+## Scrabble Word Finder - Online Scrabble Solver and Cheat Site
+ - [https://scrabblewordfinder.org](https://scrabblewordfinder.org)
+ - date published: 2024-02-08T17:57:19.405992+00:00
+ - user: None
+ - tags: []
+
+## Scrapy | A Fast and Powerful Scraping and Web Crawling Framework
+ - [https://scrapy.org](https://scrapy.org)
+ - date published: 2024-01-17T09:12:28+00:00
+ - user: rumpel
+ - tags: ['web scraping']
+
+## Coming Soon
+ - [https://scriptingenabled.org](https://scriptingenabled.org)
+ - date published: 2024-02-08T16:27:42.144690+00:00
+ - user: None
+ - tags: []
+
+## Vesuvius Challenge
+ - [https://scrollprize.org](https://scrollprize.org)
+ - date published: 2023-10-25T22:07:20.213921+00:00
+ - user: None
+ - tags: []
+
+## ScummVM
+ - [https://www.scummvm.org](https://www.scummvm.org)
+ - date published: 2023-10-27T14:48:26.977695+00:00
+ - user: None
+ - tags: ['emulator', 'retro games']
+
+## SD Association | The SD Association
+ - [https://www.sdcard.org](https://www.sdcard.org)
+ - date published: 2023-10-25T22:07:25.829748+00:00
+ - user: None
+ - tags: []
+
+## akrl
+ - [https://akrl.sdf.org](https://akrl.sdf.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## John Baber-Lucero
+ - [https://jbaber.sdf.org](https://jbaber.sdf.org)
+ - date published: 2023-12-29T19:01:24.713727+00:00
+ - user: None
+ - tags: ['personal']
+
+## LdBeth's Homepage
+ - [https://ldbeth.sdf.org](https://ldbeth.sdf.org)
+ - date published: 2023-10-25T22:07:27.882753+00:00
+ - user: None
+ - tags: []
+
+## Mastodon @ SDF
+ - [https://mastodon.sdf.org](https://mastodon.sdf.org)
+ - date published: 2023-10-25T22:07:29.853002+00:00
+ - user: None
+ - tags: []
+
+## nyan deluxe
+ - [https://nydel.sdf.org](https://nydel.sdf.org)
+ - date published: 2023-12-30T05:22:05.208407+00:00
+ - user: None
+ - tags: ['personal']
+
+## SDF Public Access UNIX System - Free Shell Account and Shell Access
+ - [https://sdf.org](https://sdf.org)
+ - date published: 2023-10-25T22:07:32.012020+00:00
+ - user: None
+ - tags: []
+
+## Tinkering Down Under
+ - [https://thomask.sdf.org](https://thomask.sdf.org)
+ - date published: 2023-10-25T22:07:38.974474+00:00
+ - user: None
+ - tags: []
+
+## https://geocar.sdf1.org
+ - [https://geocar.sdf1.org](https://geocar.sdf1.org)
+ - date published: 2024-01-11T16:51:24.087114+00:00
+ - user: None
+ - tags: []
+
+## SeamlessAccess.org - true Single Sign On
+ - [https://seamlessaccess.org](https://seamlessaccess.org)
+ - date published: 2023-11-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sean Mullan
+ - [https://seanjmullan.org](https://seanjmullan.org)
+ - date published: 2023-10-25T09:01:04.210118+00:00
+ - user: None
+ - tags: ['personal']
+
+## @seansharp
+ - [https://www.seansharp.org](https://www.seansharp.org)
+ - date published: 2024-01-09T21:36:11.181068+00:00
+ - user: None
+ - tags: []
+
+## SearQ
+ - [https://searq.org](https://searq.org)
+ - date published: 2023-10-25T22:07:40.367684+00:00
+ - user: None
+ - tags: []
+
+## SecLists.Org Security Mailing List Archive
+ - [https://seclists.org](https://seclists.org)
+ - date published: 2023-10-25T22:07:47.160027+00:00
+ - user: None
+ - tags: []
+
+## A SimCity Interactive Map of Chicago's Zoning
+ - [https://secondcityzoning.org](https://secondcityzoning.org)
+ - date published: 2023-12-27T00:02:10+00:00
+ - user: None
+ - tags: []
+
+## Home | Free Inquiry
+ - [https://secularhumanism.org](https://secularhumanism.org)
+ - date published: 2023-10-25T22:07:53.196476+00:00
+ - user: None
+ - tags: []
+
+## Share and accept documents securely
+ - [https://securedrop.org](https://securedrop.org)
+ - date published: 2023-10-25T22:07:55.571358+00:00
+ - user: None
+ - tags: []
+
+## The Internet Con | Cory Doctorow's craphound.com
+ - [http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org)
+ - date published: 2024-01-25T00:48:59.722899+00:00
+ - user: None
+ - tags: []
+
+## semantic-mediawiki.org
+ - [https://www.semantic-mediawiki.org](https://www.semantic-mediawiki.org)
+ - date published: 2023-10-25T22:07:57.119185+00:00
+ - user: None
+ - tags: []
+
+## Semantic Versioning 2.0.0 | Semantic Versioning
+ - [https://semver.org](https://semver.org)
+ - date published: 2023-10-25T22:07:58.320918+00:00
+ - user: None
+ - tags: []
+
+## sendaiben.org
+ - [https://sendaiben.org](https://sendaiben.org)
+ - date published: 2023-11-16T21:08:00.508002+00:00
+ - user: None
+ - tags: ['personal']
+
+## www.sensi.org
+ - [https://sensi.org](https://sensi.org)
+ - date published: 2024-01-09T03:42:26.850103+00:00
+ - user: None
+ - tags: []
+
+## SerenityOS
+ - [https://serenityos.org](https://serenityos.org)
+ - date published: 2023-10-25T22:07:59.140782+00:00
+ - user: None
+ - tags: []
+
+## Welcome to The Serial Port on RAQ
+ - [https://raq.serialport.org](https://raq.serialport.org)
+ - date published: 2024-01-09T03:42:30.617157+00:00
+ - user: None
+ - tags: []
+
+## Serial Reader | Classic Books in Daily Bits for iOS and Android
+ - [https://www.serialreader.org](https://www.serialreader.org)
+ - date published: 2023-10-25T22:08:05.962650+00:00
+ - user: None
+ - tags: []
+
+## Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+ - [https://servo.org](https://servo.org)
+ - date published: 2023-10-25T22:08:07.109939+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.seti.org](https://www.seti.org)
+ - date published: 2023-11-08T20:10:13.771332+00:00
+ - user: None
+ - tags: ['universe', 'space', 'science', 'organization']
+
+## Just another blog
+ - [https://www.setphaserstostun.org](https://www.setphaserstostun.org)
+ - date published: 2023-10-25T22:08:07.940698+00:00
+ - user: None
+ - tags: []
+
+## Software Freedom Conservancy
+ - [https://sfconservancy.org](https://sfconservancy.org)
+ - date published: 2023-10-25T22:08:09.665469+00:00
+ - user: None
+ - tags: []
+
+## SF Memory
+ - [https://sfmemory.org](https://sfmemory.org)
+ - date published: 2023-10-25T22:08:11.097236+00:00
+ - user: None
+ - tags: []
+
+## San Francisco Museum of Modern Art
+ - [https://www.sfmoma.org](https://www.sfmoma.org)
+ - date published: 2023-11-13T13:47:47.040549+00:00
+ - user: None
+ - tags: ['museum']
+
+## Sherer Family Website .
+ - [https://www.sherer.org](https://www.sherer.org)
+ - date published: 2024-02-08T17:49:11.713948+00:00
+ - user: None
+ - tags: []
+
+## WELCOME! Official American Shih Tzu Club Website | American Shih Tzu Club
+ - [https://shihtzu.org](https://shihtzu.org)
+ - date published: 2024-02-08T16:46:09.764105+00:00
+ - user: None
+ - tags: []
+
+## shreyans
+ - [https://shreyans.org](https://shreyans.org)
+ - date published: 2023-11-09T19:00:05.108858+00:00
+ - user: None
+ - tags: []
+
+## SHRM - The Voice of All Things Work
+ - [https://www.shrm.org](https://www.shrm.org)
+ - date published: 2023-10-25T22:08:14.306313+00:00
+ - user: None
+ - tags: []
+
+## Shtetl - Haredi Free Press
+ - [https://www.shtetl.org](https://www.shtetl.org)
+ - date published: 2023-10-25T10:53:52.750732+00:00
+ - user: None
+ - tags: []
+
+## Сибирь.Реалии
+ - [https://www.sibreal.org](https://www.sibreal.org)
+ - date published: 2023-12-18T14:56:48.646089+00:00
+ - user: None
+ - tags: []
+
 ## SIGARCH | The ACM Special Interest Group on Computer Architecture
  - [https://www.sigarch.org](https://www.sigarch.org)
  - date published: 2023-10-25T22:08:17.795553+00:00
@@ -169,6 +457,18 @@
 ## Slashdot: News for nerds, stuff that matters
  - [https://games.slashdot.org](https://games.slashdot.org)
  - date published: 2024-02-09T21:47:30.806966+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://hardware.slashdot.org](https://hardware.slashdot.org)
+ - date published: 2024-02-10T21:53:58.516823+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://it.slashdot.org](https://it.slashdot.org)
+ - date published: 2024-02-10T05:37:54.769968+00:00
  - user: None
  - tags: []
 
@@ -5708,304 +6008,4 @@ is forbidden
  - date published: 2023-11-27T12:27:07+00:00
  - user: rumpel
  - tags: ['crowdfunding']
-
-## Domena Zablokowana
- - [https://www.silaojca.pl](https://www.silaojca.pl)
- - date published: 2024-01-09T03:44:49.950242+00:00
- - user: None
- - tags: []
-
-## Graal
- - [https://sklep-graal.pl](https://sklep-graal.pl)
- - date published: 2023-11-01T19:15:02.634304+00:00
- - user: None
- - tags: ['tabletop games', 'shop', 'wargames']
-
-## Tanie loty: porównaj i zarezerwuj bilety lotnicze | Skyscanner
- - [https://www.skyscanner.pl](https://www.skyscanner.pl)
- - date published: 2024-01-02T07:34:13+00:00
- - user: rumpel
- - tags: ['ranking', 'flying', 'rank page', 'ticket service']
-
-## Strona Głowna Wiadomości
- - [https://sluzbywakcji.pl](https://sluzbywakcji.pl)
- - date published: 2023-11-08T13:11:34.780788+00:00
- - user: None
- - tags: []
-
-## O mnie, o Was i nie tylko | Smyku.pl
- - [https://www.smyku.pl](https://www.smyku.pl)
- - date published: 2023-10-25T22:31:25.036654+00:00
- - user: None
- - tags: []
-
-## Soldat :: Homepage
- - [https://soldat.pl](https://soldat.pl)
- - date published: 2023-10-26T18:43:32.087389+00:00
- - user: None
- - tags: ['game', 'retro game']
-
-## Bizblog Spider’s Web
- - [https://bizblog.spidersweb.pl](https://bizblog.spidersweb.pl)
- - date published: 2023-11-26T14:31:17.716532+00:00
- - user: None
- - tags: []
-
-## Spider’s Web
- - [https://spidersweb.pl](https://spidersweb.pl)
- - date published: 2023-10-25T10:40:53.865008+00:00
- - user: None
- - tags: []
-
-## Stare Wilki
- - [https://starewilki.pl](https://starewilki.pl)
- - date published: 2023-10-29T13:11:57.834681+00:00
- - user: None
- - tags: ['games']
-
-## StrefaInwestorow.pl
- - [https://strefainwestorow.pl](https://strefainwestorow.pl)
- - date published: 2023-10-25T22:31:28.220248+00:00
- - user: None
- - tags: []
-
-## Sklep internetowy Strefa MTG
- - [https://strefamtg.pl](https://strefamtg.pl)
- - date published: 2023-11-01T19:26:18.754410+00:00
- - user: None
- - tags: ['magic the gathering', 'shop']
-
-## strefapsx.pl - Kolekcjonerzy | Gracze | PSX | Retro | PlayStation |
- - [https://strefapsx.pl](https://strefapsx.pl)
- - date published: 2023-10-27T13:47:44.718975+00:00
- - user: None
- - tags: ['game news', 'video games']
-
-## strefapsx.pl - Serwis i blog o PlayStation | PSX | Polska |
- - [https://www.strefapsx.pl](https://www.strefapsx.pl)
- - date published: 2023-12-13T15:12:36.834558+00:00
- - user: None
- - tags: ['video games']
-
-## Suppi by Patronite - zarabiaj na swojej pasji.
- - [https://suppi.pl](https://suppi.pl)
- - date published: 2023-12-11T16:53:54.160409+00:00
- - user: None
- - tags: []
-
-## Designing a system resistant to data disclosure
- - [https://www.swiat-owocow.pl](https://www.swiat-owocow.pl)
- - date published: 2023-12-13T15:11:39.344063+00:00
- - user: None
- - tags: []
-
-## T2E.pl (Try2Emu) Try2emu -  emulacja na komputerach PC.
- - [https://www.t2e.pl](https://www.t2e.pl)
- - date published: 2023-11-02T09:44:42.088290+00:00
- - user: None
- - tags: ['atari', 'retro games', 'commodore', 'amiga', 'emulation']
-
-## Tabletowo.pl najlepsze źródło informacji o świecie mobilnym!
- - [https://www.tabletowo.pl](https://www.tabletowo.pl)
- - date published: 2023-10-25T09:38:21.697778+00:00
- - user: None
- - tags: []
-
-## TaniaKsiazka.pl | księgarnia internetowa | tanie książki
- - [https://www.taniaksiazka.pl](https://www.taniaksiazka.pl)
- - date published: 2023-10-24T20:19:10+00:00
- - user: rumpel
- - tags: ['books', 'ebook shop', 'ebooks']
-
-## Tanie księgarnie internetowe - porównaj ceny, kup książkę najtaniej!
- - [https://tanieksiegarnie.pl](https://tanieksiegarnie.pl)
- - date published: 2023-12-11T16:36:30.430217+00:00
- - user: None
- - tags: []
-
-## TeamQuest.pl - Rekrutacja IT - Kariera IT - Znajdź wymarzoną pracę!
- - [https://teamquest.pl](https://teamquest.pl)
- - date published: 2023-10-25T22:31:29.584677+00:00
- - user: None
- - tags: []
-
-## Informacje ze świata telekomunikacji - telefony, gadżety, wiadomości, testy - TELEPOLIS.PL
- - [https://www.telepolis.pl](https://www.telepolis.pl)
- - date published: 2023-10-25T22:31:33.968176+00:00
- - user: None
- - tags: []
-
-## Teologia Polityczna
- - [https://teologiapolityczna.pl](https://teologiapolityczna.pl)
- - date published: 2023-10-25T22:31:36.916394+00:00
- - user: None
- - tags: []
-
-## Teraz-Srodowisko : Wiadomości dnia
- - [https://www.teraz-srodowisko.pl](https://www.teraz-srodowisko.pl)
- - date published: 2024-01-30T02:02:50.023253+00:00
- - user: None
- - tags: []
-
-## Portal historyczny TerazHistoria.pl
- - [https://terazhistoria.pl](https://terazhistoria.pl)
- - date published: 2023-10-25T22:31:41.656299+00:00
- - user: None
- - tags: []
-
-## The Company Community Forum
- - [https://forum.thecompany.pl](https://forum.thecompany.pl)
- - date published: 2023-12-11T18:59:00.500248+00:00
- - user: None
- - tags: []
-
-## The Company - Classic Amiga Games
- - [https://thecompany.pl](https://thecompany.pl)
- - date published: 2023-10-30T10:13:12.992416+00:00
- - user: None
- - tags: []
-
-## Wiadomo¶ci z kraju i ze ¶wiata - Portal Informacyjny - Tokfm.pl
- - [https://www.tokfm.pl](https://www.tokfm.pl)
- - date published: 2023-10-25T22:31:48.268222+00:00
- - user: None
- - tags: []
-
-## To Tylko Teoria
- - [https://www.totylkoteoria.pl](https://www.totylkoteoria.pl)
- - date published: 2023-10-25T22:31:50.137858+00:00
- - user: None
- - tags: []
-
-## Biznes w Trójmieście (Gdańsk, Gdynia, Sopot) - biznes pomorski
- - [https://biznes.trojmiasto.pl](https://biznes.trojmiasto.pl)
- - date published: 2023-10-25T22:32:00.191090+00:00
- - user: None
- - tags: []
-
-## TrueStory - Piszemy dla Was, nie dla algorytmów
- - [https://truestory.pl](https://truestory.pl)
- - date published: 2023-10-25T22:32:08.653401+00:00
- - user: None
- - tags: []
-
-## Wiadomości, live streaming i wyniki - Eurosport
- - [https://eurosport.tvn24.pl](https://eurosport.tvn24.pl)
- - date published: 2023-10-25T10:33:11.405671+00:00
- - user: None
- - tags: []
-
-## Fakty, Fakty TVN - oficjalna strona Faktów. Warto wiedzieć więcej.
- - [https://fakty.tvn24.pl](https://fakty.tvn24.pl)
- - date published: 2023-10-25T10:33:15.760218+00:00
- - user: None
- - tags: []
-
-## TVN24 GO - najnowsze odcinki online, świeże materiały przez internet
- - [https://go.tvn24.pl](https://go.tvn24.pl)
- - date published: 2023-10-25T22:32:13.892689+00:00
- - user: None
- - tags: []
-
-## Konkret24 – weryfikacja fake news, fact-checking, analiza informacji z sieci - Konkret24
- - [https://konkret24.tvn24.pl](https://konkret24.tvn24.pl)
- - date published: 2023-10-25T10:33:26.147699+00:00
- - user: None
- - tags: []
-
-## Kontakt 24 - Serwis Reporterów 24 | Oglądaj i Współtwórz!
- - [https://kontakt24.tvn24.pl](https://kontakt24.tvn24.pl)
- - date published: 2023-10-25T22:32:17.183207+00:00
- - user: None
- - tags: []
-
-## Szkło Kontaktowe online - oficjalna strona magazynu TVN24 - TVN24
- - [https://szklokontaktowe.tvn24.pl](https://szklokontaktowe.tvn24.pl)
- - date published: 2023-10-25T22:32:26.069743+00:00
- - user: None
- - tags: []
-
-## Wiadomości z kraju i ze świata - najnowsze informacje w TVN24 - TVN24
- - [https://tvn24.pl](https://tvn24.pl)
- - date published: 2023-10-25T10:33:33.358909+00:00
- - user: None
- - tags: []
-
-## Strona główna - tvp.pl - Telewizja Polska S.A.
- - [https://tvp.pl](https://tvp.pl)
- - date published: 2023-12-20T11:26:30.796033+00:00
- - user: None
- - tags: []
-
-## None
- - [https://tvrepublika.pl](https://tvrepublika.pl)
- - date published: 2024-01-08T11:26:00.067096+00:00
- - user: None
- - tags: []
-
-## Tygodnik Solidarność | Wiadomości i polityka w Polsce
- - [https://www.tysol.pl](https://www.tysol.pl)
- - date published: 2023-10-27T13:11:42.088111+00:00
- - user: None
- - tags: []
-
-## Ulubiony Kiosk - Prasa, e-kiosk, e-wydania czasopism wydawnictwa AVT
- - [https://ulubionykiosk.pl](https://ulubionykiosk.pl)
- - date published: 2023-12-13T14:59:25.270654+00:00
- - user: None
- - tags: ['books', 'ebooks']
-
-## Vanaheim.pl - Sklep z Grami - Vanaheim.pl
- - [https://vanaheim.pl](https://vanaheim.pl)
- - date published: 2023-10-25T11:13:12.482870+00:00
- - user: None
- - tags: ['shop']
-
-## Vibez - daje więcej niż obiecuje - ludzie, ekologia, lifehacki
- - [https://vibez.pl](https://vibez.pl)
- - date published: 2023-12-10T15:04:30.542537+00:00
- - user: None
- - tags: []
-
-## Visuality - Web & Mobile Apps - Ruby, React, Golang, PWA
- - [https://www.visuality.pl](https://www.visuality.pl)
- - date published: 2023-10-25T22:32:34.274635+00:00
- - user: None
- - tags: []
-
-## Magazyn Vogue Polska
- - [https://www.vogue.pl](https://www.vogue.pl)
- - date published: 2024-02-05T19:23:26.429708+00:00
- - user: rumpel
- - tags: []
-
-## Wanda i Banda — Oficjalna strona zespołu
- - [https://wandaibanda.pl](https://wandaibanda.pl)
- - date published: 2023-11-13T11:06:25.025770+00:00
- - user: None
- - tags: ['music band']
-
-## Wielkopolskie Centrum Onkologii - Zakład opieki zdrowotnej, radioterapia, chemioterapia, immunoterapia, chirurgia onkologiczna, ginekologia onkologiczna.
- - [https://wco.pl](https://wco.pl)
- - date published: 2023-10-25T22:32:40.813278+00:00
- - user: None
- - tags: []
-
-## Strona główna - Wielka Litera
- - [https://wielkalitera.pl](https://wielkalitera.pl)
- - date published: 2023-11-13T12:56:33.137385+00:00
- - user: None
- - tags: ['book publisher']
-
-## Wielki Wschód Polski
- - [https://wielkiwschod.pl](https://wielkiwschod.pl)
- - date published: 2023-12-27T10:57:16+00:00
- - user: rumpel
- - tags: ['freemasonry']
-
-## Więź. Wiara, kultura, społeczeństwo
- - [https://wiez.pl](https://wiez.pl)
- - date published: 2023-10-25T22:32:44.916878+00:00
- - user: None
- - tags: []
 
