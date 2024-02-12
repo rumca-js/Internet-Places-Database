@@ -2,6 +2,8 @@
 
 This is a database of Internet places. Mostly domains. Sometimes other things.
 
+This repository contains link metadata: title, description, publish date, etc.
+
 Acceptable link types:
  - domains
  - repository links. For example [https://github.com/rumca-js/Internet-Places-Database](https://github.com/rumca-js/Internet-Places-Database)
