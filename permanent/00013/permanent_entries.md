@@ -1,3 +1,153 @@
+## The Military Blog
+ - [https://themilitaryblogguide.wordpress.com](https://themilitaryblogguide.wordpress.com)
+ - date published: 2024-02-08T16:57:54.746391+00:00
+ - user: None
+ - tags: []
+
+## The Monad.Reader | Binding your input since 2005
+ - [https://themonadreader.files.wordpress.com](https://themonadreader.files.wordpress.com)
+ - date published: 2023-10-25T18:17:29.344389+00:00
+ - user: None
+ - tags: []
+
+## Michael Roberts Blog – blogging from a marxist economist
+ - [https://thenextrecession.wordpress.com](https://thenextrecession.wordpress.com)
+ - date published: 2023-10-25T18:17:32.726071+00:00
+ - user: None
+ - tags: []
+
+## The Tao Of Wealth – Practical ways to create abundance
+ - [https://thetaoofwealth.wordpress.com](https://thetaoofwealth.wordpress.com)
+ - date published: 2023-10-25T18:17:34.886755+00:00
+ - user: None
+ - tags: []
+
+## Don't Worry About the Vase | Trying to dig out from minus a million points
+ - [https://thezvi.wordpress.com](https://thezvi.wordpress.com)
+ - date published: 2023-10-25T18:17:39.628093+00:00
+ - user: None
+ - tags: []
+
+## This Fine Place
+ - [https://thisfineplace.wordpress.com](https://thisfineplace.wordpress.com)
+ - date published: 2023-11-29T17:18:49.482246+00:00
+ - user: None
+ - tags: ['personal']
+
+## Meandering in the Middle East
+ - [https://thowesward.wordpress.com](https://thowesward.wordpress.com)
+ - date published: 2024-01-22T10:09:15.885150+00:00
+ - user: None
+ - tags: []
+
+## Fiction is a Three-Edged Sword | Fiction, interactive fiction and narrative
+ - [https://threeedgedsword.wordpress.com](https://threeedgedsword.wordpress.com)
+ - date published: 2023-10-25T18:17:46.465251+00:00
+ - user: None
+ - tags: []
+
+## Tina\'s Virtual BackPack
+ - [https://tvbp.wordpress.com](https://tvbp.wordpress.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Useless Dev blog – A useless blog from, and for, useless developers
+ - [https://uselessdevblog.wordpress.com](https://uselessdevblog.wordpress.com)
+ - date published: 2023-10-25T18:17:52.111067+00:00
+ - user: None
+ - tags: []
+
+## A Programmers Place | Observations, Reviews, and Essays
+ - [https://vanemden.wordpress.com](https://vanemden.wordpress.com)
+ - date published: 2023-10-25T18:17:55.236218+00:00
+ - user: None
+ - tags: []
+
+## 𝚟𝚎𝚛𝚖𝚊𝚍𝚎𝚗 | Another ${RANDOM} sysadmin sharing his experiences of work at IT industry.
+ - [https://vermaden.wordpress.com](https://vermaden.wordpress.com)
+ - date published: 2023-10-25T18:18:04.756895+00:00
+ - user: None
+ - tags: []
+
+## Private Site
+ - [https://warfantasy.wordpress.com](https://warfantasy.wordpress.com)
+ - date published: 2023-10-25T18:18:05.375450+00:00
+ - user: None
+ - tags: []
+
+## If 42 is the answer, what is the question? | My sophomoric speculations on "Life, the Universe and Everything"
+ - [https://whatisthequestion.wordpress.com](https://whatisthequestion.wordpress.com)
+ - date published: 2023-10-25T18:18:13.172980+00:00
+ - user: None
+ - tags: []
+
+## WordPress, Your Way
+ - [https://wordpress.com](https://wordpress.com)
+ - date published: 2023-10-25T08:33:01.720475+00:00
+ - user: None
+ - tags: []
+
+## Private Site
+ - [https://writemz.wordpress.com](https://writemz.wordpress.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## XAML Brewer, by Diederik Krols | If you're not having fun, you're doing it wrong.
+ - [https://xamlbrewer.wordpress.com](https://xamlbrewer.wordpress.com)
+ - date published: 2023-10-25T18:18:27.707634+00:00
+ - user: None
+ - tags: []
+
+## WordReference Forums
+ - [https://forum.wordreference.com](https://forum.wordreference.com)
+ - date published: 2023-12-21T17:17:26.978086+00:00
+ - user: None
+ - tags: []
+
+## Work-Bites
+ - [https://www.work-bites.com](https://www.work-bites.com)
+ - date published: 2023-10-25T18:18:30.325248+00:00
+ - user: None
+ - tags: []
+
+## Workable
+ - [https://apply.workable.com](https://apply.workable.com)
+ - date published: 2023-10-25T18:18:31.082909+00:00
+ - user: None
+ - tags: []
+
+## Startup Jobs at YC Companies in Engineering, Product, Design, Remote and more | Y Combinator's Work at a Startup
+ - [https://www.workatastartup.com](https://www.workatastartup.com)
+ - date published: 2023-10-25T18:18:34.955309+00:00
+ - user: None
+ - tags: []
+
+## Work Chronicles - Webcomics
+ - [https://workchronicles.com](https://workchronicles.com)
+ - date published: 2023-10-25T18:18:38.617213+00:00
+ - user: None
+ - tags: []
+
+## A simpler way to organize your work - Workflowy
+ - [https://workflowy.com](https://workflowy.com)
+ - date published: 2023-12-13T11:22:54.148203+00:00
+ - user: None
+ - tags: ['personal']
+
+## Working Theorys | Anu Atluru | Substack
+ - [https://www.workingtheorys.com](https://www.workingtheorys.com)
+ - date published: 2024-01-17T18:11:38.349001+00:00
+ - user: None
+ - tags: []
+
+## Work.Life.Whatever.
+ - [https://worklifewhatever.com](https://worklifewhatever.com)
+ - date published: 2024-01-12T18:47:15.664867+00:00
+ - user: None
+ - tags: []
+
 ## Workweek - A New Kind of Media Company
  - [https://workweek.com](https://workweek.com)
  - date published: 2023-10-25T18:18:41.778705+00:00
@@ -1205,6 +1355,12 @@
  - user: None
  - tags: []
 
+## Zach Gallagher
+ - [https://zachgallagher.com](https://zachgallagher.com)
+ - date published: 2024-02-11T05:00:50.863806+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Zach Holman
  - [https://zachholman.com](https://zachholman.com)
  - date published: 2024-01-25T08:53:46.260244+00:00
@@ -2206,7 +2362,7 @@ home
  - [https://media.ccc.de](https://media.ccc.de)
  - date published: 2023-10-25T18:28:41.208202+00:00
  - user: None
- - tags: ['chaos computer club', 'hackers']
+ - tags: ['hackers', 'chaos computer club']
 
 ## See you soon … somewhere else! – C3VOC Streaming
  - [https://streaming.media.ccc.de](https://streaming.media.ccc.de)
@@ -5363,6 +5519,12 @@ Heinsohn
  - user: None
  - tags: []
 
+## Home - du.nkel.dev
+ - [https://du.nkel.dev](https://du.nkel.dev)
+ - date published: 2024-02-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Norberto's personal website
  - [https://nlopes.dev](https://nlopes.dev)
  - date published: 2023-10-25T08:48:54.951889+00:00
@@ -5841,169 +6003,6 @@ Heinsohn
 ## Serverpod – The Flutter Backend
  - [https://serverpod.dev](https://serverpod.dev)
  - date published: 2023-10-25T18:41:56.717809+00:00
- - user: None
- - tags: []
-
-## Home | servicer
- - [https://servicer.dev](https://servicer.dev)
- - date published: 2023-10-25T18:41:57.960885+00:00
- - user: None
- - tags: []
-
-## Seth Michael Larson — Python, open source, and the internet
- - [https://sethmlarson.dev](https://sethmlarson.dev)
- - date published: 2023-10-25T08:48:58.444338+00:00
- - user: None
- - tags: ['personal']
-
-## https://shadeup.dev
- - [https://shadeup.dev](https://shadeup.dev)
- - date published: 2024-01-17T17:49:00.747046+00:00
- - user: None
- - tags: []
-
-## Shayon Mukherjee
- - [https://www.shayon.dev](https://www.shayon.dev)
- - date published: 2023-12-21T17:41:52.153062+00:00
- - user: None
- - tags: []
-
-## ShiftMag
- - [https://shiftmag.dev](https://shiftmag.dev)
- - date published: 2023-11-11T21:40:32.425246+00:00
- - user: None
- - tags: []
-
-## Sideko
- - [https://hacker-news.sideko.dev](https://hacker-news.sideko.dev)
- - date published: 2023-10-25T18:42:00.575012+00:00
- - user: None
- - tags: []
-
-## Sigstore Blog - Sigstore Blog
- - [https://blog.sigstore.dev](https://blog.sigstore.dev)
- - date published: 2023-10-25T18:42:02.108244+00:00
- - user: None
- - tags: []
-
-## Simon Aronsson
- - [https://simme.dev](https://simme.dev)
- - date published: 2023-10-25T08:58:52.820047+00:00
- - user: None
- - tags: ['personal']
-
-## Skii.dev
- - [https://skii.dev](https://skii.dev)
- - date published: 2024-01-26T20:00:32.296350+00:00
- - user: None
- - tags: []
-
-## slama.dev
- - [https://slama.dev](https://slama.dev)
- - date published: 2023-10-25T08:58:54.013566+00:00
- - user: None
- - tags: ['personal']
-
-## Home — Isaac Clayton
- - [https://slightknack.dev](https://slightknack.dev)
- - date published: 2023-10-25T08:48:59.054260+00:00
- - user: None
- - tags: ['personal']
-
-## SlimeVR Full-Body Tracker
- - [https://slimevr.dev](https://slimevr.dev)
- - date published: 2023-11-26T21:42:42+00:00
- - user: rumpel
- - tags: ['vr', 'hardware', 'virtual reality']
-
-## Slint |
-            Declarative GUI for Rust, C++ & JavaScript
- - [https://slint.dev](https://slint.dev)
- - date published: 2023-10-25T18:42:03.965621+00:00
- - user: None
- - tags: []
-
-## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date published: 2023-10-25T18:42:09.401241+00:00
- - user: None
- - tags: []
-
-## Software at Scale | Utsav Shah | Substack
- - [https://www.softwareatscale.dev](https://www.softwareatscale.dev)
- - date published: 2023-10-25T18:42:13.034114+00:00
- - user: None
- - tags: []
-
-## Out of the Software Crisis: The Newsletter
- - [https://softwarecrisis.dev](https://softwarecrisis.dev)
- - date published: 2023-10-25T18:42:14.589232+00:00
- - user: None
- - tags: []
-
-## Spaghettify🍝
- - [https://www.spaghettify.dev](https://www.spaghettify.dev)
- - date published: 2023-10-25T18:42:15.749345+00:00
- - user: None
- - tags: []
-
-## The Spicy Web: Vanilla has never tasted so hot.
- - [https://www.spicyweb.dev](https://www.spicyweb.dev)
- - date published: 2023-10-25T18:42:22.583492+00:00
- - user: None
- - tags: []
-
-## SQLSync
- - [https://sqlsync.dev](https://sqlsync.dev)
- - date published: 2023-12-01T17:37:45.763365+00:00
- - user: None
- - tags: []
-
-## Live dashboard of Stripe systems during Black Friday
- - [https://bfcm.stripe.dev](https://bfcm.stripe.dev)
- - date published: 2023-11-24T12:13:21+00:00
- - user: None
- - tags: []
-
-## surma.dev
- - [https://surma.dev](https://surma.dev)
- - date published: 2023-10-25T18:42:23.561265+00:00
- - user: None
- - tags: ['personal']
-
-## Svelte • Cybernetically enhanced web apps
- - [https://svelte.dev](https://svelte.dev)
- - date published: 2023-10-25T18:42:29.946623+00:00
- - user: None
- - tags: []
-
-## Sweep: AI-powered junior dev
- - [https://docs.sweep.dev](https://docs.sweep.dev)
- - date published: 2023-10-25T18:42:31.067579+00:00
- - user: None
- - tags: []
-
-## Christopher Swingley's Home Page
- - [https://swingley.dev](https://swingley.dev)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tabserve - A HTTPS URL for localhost using just your browser
- - [https://tabserve.dev](https://tabserve.dev)
- - date published: 2023-10-25T18:42:31.690445+00:00
- - user: None
- - tags: []
-
-## Tailscale Community
- - [https://tailscale.dev](https://tailscale.dev)
- - date published: 2023-10-25T18:42:33.180270+00:00
- - user: None
- - tags: []
-
-## Tamagui — React Native + Web UI kit
- - [https://tamagui.dev](https://tamagui.dev)
- - date published: 2023-10-25T18:42:39.860419+00:00
  - user: None
  - tags: []
 

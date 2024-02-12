@@ -1,3 +1,126 @@
+## Philadelphia Sports Acupuncture
+ - [https://www.phillysportsacupuncture.com](https://www.phillysportsacupuncture.com)
+ - date published: 2024-01-03T04:06:18.834325+00:00
+ - user: None
+ - tags: []
+
+## Dr. Phil Maffetone - founder of the 180 formula and MAF test
+ - [https://philmaffetone.com](https://philmaffetone.com)
+ - date published: 2023-11-18T07:33:39.194122+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.philonomist.com](https://www.philonomist.com)
+ - date published: 2024-01-29T16:57:47.405435+00:00
+ - user: None
+ - tags: []
+
+## Reversing entropy, locally
+ - [https://philoserf.com](https://philoserf.com)
+ - date published: 2023-12-03T01:43:34.806253+00:00
+ - user: None
+ - tags: ['personal']
+
+## Philosophy Bro
+ - [https://www.philosophybro.com](https://www.philosophybro.com)
+ - date published: 2023-10-25T16:34:04.305344+00:00
+ - user: None
+ - tags: []
+
+## Phil Stephens
+ - [https://philstephens.com](https://philstephens.com)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Risk & Cybersecurity
+ - [https://www.philvenables.com](https://www.philvenables.com)
+ - date published: 2023-10-25T16:34:06.256000+00:00
+ - user: None
+ - tags: []
+
+## Phil Zimmermann's Home Page
+ - [https://www.philzimmermann.com](https://www.philzimmermann.com)
+ - date published: 2023-10-25T08:47:32.129006+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://phind.com
+ - [https://phind.com](https://phind.com)
+ - date published: 2023-10-25T16:34:07.856025+00:00
+ - user: None
+ - tags: []
+
+## https://www.phind.com
+ - [https://www.phind.com](https://www.phind.com)
+ - date published: 2023-10-25T16:34:08.146703+00:00
+ - user: None
+ - tags: []
+
+## Phoenix New Times | The Leading Independent News Source in Phoenix, Arizona
+ - [https://www.phoenixnewtimes.com](https://www.phoenixnewtimes.com)
+ - date published: 2023-11-23T22:14:37.035277+00:00
+ - user: None
+ - tags: []
+
+## Phoenix and Elixir for Ruby on Rails developers
+ · Phoenix on Rails
+ - [https://phoenixonrails.com](https://phoenixonrails.com)
+ - date published: 2023-10-25T16:34:09.532839+00:00
+ - user: None
+ - tags: []
+
+## PhoneArena | Phone News, Reviews, Deals and Specs
+ - [https://www.phonearena.com](https://www.phonearena.com)
+ - date published: 2023-10-25T10:14:53.382529+00:00
+ - user: None
+ - tags: []
+
+## Phone Scoop
+ - [https://www.phonescoop.com](https://www.phonescoop.com)
+ - date published: 2023-10-25T16:34:12.198914+00:00
+ - user: None
+ - tags: []
+
+## Linux Hardware Reviews & Performance Benchmarks, Open-Source News - Phoronix
+ - [https://www.phoronix.com](https://www.phoronix.com)
+ - date published: 2023-10-25T09:34:52.687128+00:00
+ - user: None
+ - tags: ['tech news', 'open source', 'linux']
+
+## Photopea | Online Photo Editor
+ - [https://www.photopea.com](https://www.photopea.com)
+ - date published: 2023-10-25T16:34:13.576672+00:00
+ - user: None
+ - tags: []
+
+## The Photographer's Newsletter
+    
+         - Information & Inspiration For Photogs
+ - [https://www.photoroo.com](https://www.photoroo.com)
+ - date published: 2023-10-25T16:34:15.007380+00:00
+ - user: None
+ - tags: []
+
+## AI Photo Editing: Remove Background & Create Product Pics | PhotoRoom
+ - [https://www.photoroom.com](https://www.photoroom.com)
+ - date published: 2023-10-25T16:34:17.644739+00:00
+ - user: None
+ - tags: []
+
+## phpBB • Free and Open Source Forum Software
+ - [https://phpbb.com](https://phpbb.com)
+ - date published: 2023-12-13T16:04:04.243437+00:00
+ - user: None
+ - tags: ['selfhost']
+
+## phpBB • Free and Open Source Forum Software
+ - [https://www.phpbb.com](https://www.phpbb.com)
+ - date published: 2023-10-25T08:30:34.828095+00:00
+ - user: None
+ - tags: []
+
 ## phpied.com
  - [https://www.phpied.com](https://www.phpied.com)
  - date published: 2024-01-15T05:45:17.624527+00:00
@@ -3705,6 +3828,12 @@ More!
  - user: rumpel
  - tags: ['retro games']
 
+## Retromags
+ - [https://www.retromags.com](https://www.retromags.com)
+ - date published: 2024-02-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## About the Retro-Printer Module | RetroPrinter.com
  - [https://www.retroprinter.com](https://www.retroprinter.com)
  - date published: 2023-10-25T16:50:29.050727+00:00
@@ -5880,132 +6009,6 @@ More!
 ## You are being redirected...
  - [https://ordering.schlotzskys.com](https://ordering.schlotzskys.com)
  - date published: 2024-02-08T18:20:45.081717+00:00
- - user: None
- - tags: []
-
-## schmatzberger.com – Die Website von Günter Schmatzberger
- - [https://www.schmatzberger.com](https://www.schmatzberger.com)
- - date published: 2023-12-03T09:19:10.285708+00:00
- - user: None
- - tags: ['personal']
-
-## Homepage - Schmidt Futures
- - [https://www.schmidtfutures.com](https://www.schmidtfutures.com)
- - date published: 2023-10-25T16:58:36.285547+00:00
- - user: None
- - tags: []
-
-## Yareev's schmonz.com
- - [https://schmonz.com](https://schmonz.com)
- - date published: 2024-01-15T02:46:33.518415+00:00
- - user: None
- - tags: []
-
-## Schneier on Security
- - [https://www.schneier.com](https://www.schneier.com)
- - date published: 2023-10-25T09:35:13.644701+00:00
- - user: None
- - tags: []
-
-## TEXT
- - [https://textjournal.scholasticahq.com](https://textjournal.scholasticahq.com)
- - date published: 2024-05-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Recursive Recipes | Make food from scratch
- - [https://recursiverecipes.schollz.com](https://recursiverecipes.schollz.com)
- - date published: 2023-10-25T16:58:38.084916+00:00
- - user: None
- - tags: []
-
-## schollz
- - [https://schollz.com](https://schollz.com)
- - date published: 2023-10-25T16:58:39.985655+00:00
- - user: None
- - tags: []
-
-## schoolofworklife.com - Resources To Help You Self Direct Your WorkLife Learning
- - [https://schoolofworklife.com](https://schoolofworklife.com)
- - date published: 2023-12-29T19:00:29.094459+00:00
- - user: None
- - tags: ['personal']
-
-## Charles Schwab | A Modern Approach to Investing and Retirement Planning
- - [https://www.schwab.com](https://www.schwab.com)
- - date published: 2023-10-25T16:58:46.215643+00:00
- - user: None
- - tags: []
-
-## http://science.com
- - [http://science.com](http://science.com)
- - date published: 2023-11-25T05:34:43.281781+00:00
- - user: None
- - tags: []
-
-## ScienceAlert : The Best in Science News And Amazing Breakthroughs
- - [https://www.sciencealert.com](https://www.sciencealert.com)
- - date published: 2023-10-25T16:58:48.223977+00:00
- - user: None
- - tags: []
-
-## SAND
- - [https://www.scienceandnonduality.com](https://www.scienceandnonduality.com)
- - date published: 2023-10-25T16:58:52.745129+00:00
- - user: None
- - tags: []
-
-## Josh Mitteldorf | Aging Matters
- - [https://joshmitteldorf.scienceblog.com](https://joshmitteldorf.scienceblog.com)
- - date published: 2023-10-25T16:58:58.341469+00:00
- - user: None
- - tags: []
-
-## ScienceBlogs - Where the world discusses science.
- - [https://scienceblogs.com](https://scienceblogs.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## ScienceDaily: Your source for the latest research news
- - [https://www.sciencedaily.com](https://www.sciencedaily.com)
- - date published: 2023-10-25T10:10:58.373293+00:00
- - user: None
- - tags: ['science']
-
-## ScienceDirect
- - [https://www.sciencedirect.com](https://www.sciencedirect.com)
- - date published: 2023-10-25T10:10:59.662060+00:00
- - user: None
- - tags: ['science news']
-
-## BBC Science Focus Magazine - science, nature, technology, Q&As
- - [https://www.sciencefocus.com](https://www.sciencefocus.com)
- - date published: 2023-10-25T16:59:02.217981+00:00
- - user: None
- - tags: []
-
-## Science Friday
- - [https://www.sciencefriday.com](https://www.sciencefriday.com)
- - date published: 2023-10-25T16:59:05.373137+00:00
- - user: None
- - tags: []
-
-## Science Shot: Professional Insights, Unique Perspectives.
- - [https://www.scienceshot.com](https://www.scienceshot.com)
- - date published: 2023-12-29T20:02:33.354446+00:00
- - user: None
- - tags: []
-
-## ScienceSwitch – Exploring the Depths of Curiosity
- - [https://scienceswitch.com](https://scienceswitch.com)
- - date published: 2023-10-25T16:59:08.691306+00:00
- - user: None
- - tags: []
-
-## Scientific Computing | Scientific Computing World
- - [https://www.scientific-computing.com](https://www.scientific-computing.com)
- - date published: 2023-10-25T16:59:10.313762+00:00
  - user: None
  - tags: []
 

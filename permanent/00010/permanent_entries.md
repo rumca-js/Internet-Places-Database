@@ -1,3 +1,129 @@
+## schmatzberger.com – Die Website von Günter Schmatzberger
+ - [https://www.schmatzberger.com](https://www.schmatzberger.com)
+ - date published: 2023-12-03T09:19:10.285708+00:00
+ - user: None
+ - tags: ['personal']
+
+## Homepage - Schmidt Futures
+ - [https://www.schmidtfutures.com](https://www.schmidtfutures.com)
+ - date published: 2023-10-25T16:58:36.285547+00:00
+ - user: None
+ - tags: []
+
+## Yareev's schmonz.com
+ - [https://schmonz.com](https://schmonz.com)
+ - date published: 2024-01-15T02:46:33.518415+00:00
+ - user: None
+ - tags: []
+
+## Schneier on Security
+ - [https://www.schneier.com](https://www.schneier.com)
+ - date published: 2023-10-25T09:35:13.644701+00:00
+ - user: None
+ - tags: []
+
+## TEXT
+ - [https://textjournal.scholasticahq.com](https://textjournal.scholasticahq.com)
+ - date published: 2024-05-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Recursive Recipes | Make food from scratch
+ - [https://recursiverecipes.schollz.com](https://recursiverecipes.schollz.com)
+ - date published: 2023-10-25T16:58:38.084916+00:00
+ - user: None
+ - tags: []
+
+## schollz
+ - [https://schollz.com](https://schollz.com)
+ - date published: 2023-10-25T16:58:39.985655+00:00
+ - user: None
+ - tags: []
+
+## schoolofworklife.com - Resources To Help You Self Direct Your WorkLife Learning
+ - [https://schoolofworklife.com](https://schoolofworklife.com)
+ - date published: 2023-12-29T19:00:29.094459+00:00
+ - user: None
+ - tags: ['personal']
+
+## Charles Schwab | A Modern Approach to Investing and Retirement Planning
+ - [https://www.schwab.com](https://www.schwab.com)
+ - date published: 2023-10-25T16:58:46.215643+00:00
+ - user: None
+ - tags: []
+
+## http://science.com
+ - [http://science.com](http://science.com)
+ - date published: 2023-11-25T05:34:43.281781+00:00
+ - user: None
+ - tags: []
+
+## ScienceAlert : The Best in Science News And Amazing Breakthroughs
+ - [https://www.sciencealert.com](https://www.sciencealert.com)
+ - date published: 2023-10-25T16:58:48.223977+00:00
+ - user: None
+ - tags: []
+
+## SAND
+ - [https://www.scienceandnonduality.com](https://www.scienceandnonduality.com)
+ - date published: 2023-10-25T16:58:52.745129+00:00
+ - user: None
+ - tags: []
+
+## Josh Mitteldorf | Aging Matters
+ - [https://joshmitteldorf.scienceblog.com](https://joshmitteldorf.scienceblog.com)
+ - date published: 2023-10-25T16:58:58.341469+00:00
+ - user: None
+ - tags: []
+
+## ScienceBlogs - Where the world discusses science.
+ - [https://scienceblogs.com](https://scienceblogs.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ScienceDaily: Your source for the latest research news
+ - [https://www.sciencedaily.com](https://www.sciencedaily.com)
+ - date published: 2023-10-25T10:10:58.373293+00:00
+ - user: None
+ - tags: ['science']
+
+## ScienceDirect
+ - [https://www.sciencedirect.com](https://www.sciencedirect.com)
+ - date published: 2023-10-25T10:10:59.662060+00:00
+ - user: None
+ - tags: ['science news']
+
+## BBC Science Focus Magazine - science, nature, technology, Q&As
+ - [https://www.sciencefocus.com](https://www.sciencefocus.com)
+ - date published: 2023-10-25T16:59:02.217981+00:00
+ - user: None
+ - tags: []
+
+## Science Friday
+ - [https://www.sciencefriday.com](https://www.sciencefriday.com)
+ - date published: 2023-10-25T16:59:05.373137+00:00
+ - user: None
+ - tags: []
+
+## Science Shot: Professional Insights, Unique Perspectives.
+ - [https://www.scienceshot.com](https://www.scienceshot.com)
+ - date published: 2023-12-29T20:02:33.354446+00:00
+ - user: None
+ - tags: []
+
+## ScienceSwitch – Exploring the Depths of Curiosity
+ - [https://scienceswitch.com](https://scienceswitch.com)
+ - date published: 2023-10-25T16:59:08.691306+00:00
+ - user: None
+ - tags: []
+
+## Scientific Computing | Scientific Computing World
+ - [https://www.scientific-computing.com](https://www.scientific-computing.com)
+ - date published: 2023-10-25T16:59:10.313762+00:00
+ - user: None
+ - tags: []
+
 ## Scientific American Blog Network - Scientific American Blog Network
  - [https://blogs.scientificamerican.com](https://blogs.scientificamerican.com)
  - date published: 2023-10-25T16:59:13.314083+00:00
@@ -2217,7 +2343,7 @@
  - [https://somafm.com](https://somafm.com)
  - date published: 2023-11-24T04:43:46.281998+00:00
  - user: None
- - tags: []
+ - tags: ['demoscene']
 
 ## Nelson's Weblog
  - [https://www.somebits.com](https://www.somebits.com)
@@ -2597,6 +2723,12 @@
  - user: None
  - tags: []
 
+## Spark Framework: An expressive web framework for Kotlin and Java
+ - [https://sparkjava.com](https://sparkjava.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Spark Mail — Smart. Focused. Email.
  - [https://sparkmailapp.com](https://sparkmailapp.com)
  - date published: 2023-10-25T17:09:39.568079+00:00
@@ -2636,6 +2768,12 @@
 ## The Spectator
  - [https://spectatorworld.com](https://spectatorworld.com)
  - date published: 2023-10-25T17:09:52.971452+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://024-031-245-180.inf.spectrum.com](http://024-031-245-180.inf.spectrum.com)
+ - date published: 2024-02-11T13:30:05.771363+00:00
  - user: None
  - tags: []
 
@@ -5860,144 +5998,6 @@
 ## Mad at the Internet | Joshua Moon | Substack
  - [https://madattheinternet.substack.com](https://madattheinternet.substack.com)
  - date published: 2023-10-25T09:57:47.051520+00:00
- - user: None
- - tags: ['substack']
-
-## Grandmotherly Wisdom | Made in Cosmos ✨ | Substack
- - [https://madeincosmos.substack.com](https://madeincosmos.substack.com)
- - date published: 2024-01-09T01:42:00.038119+00:00
- - user: None
- - tags: []
-
-## https://madned.substack.com
- - [https://madned.substack.com](https://madned.substack.com)
- - date published: 2024-01-28T23:04:10.684445+00:00
- - user: None
- - tags: []
-
-## Maestro's Musings | Justin Cranshaw | Substack
- - [https://maestroai.substack.com](https://maestroai.substack.com)
- - date published: 2023-10-25T09:57:55.016069+00:00
- - user: None
- - tags: ['substack']
-
-## Maneesh’s Substack | Maneesh Agrawala | Substack
- - [https://magrawala.substack.com](https://magrawala.substack.com)
- - date published: 2023-10-25T09:57:57.039994+00:00
- - user: None
- - tags: ['substack']
-
-## Many One Percents | Tuấn Mon | Substack
- - [https://manyonepercents.substack.com](https://manyonepercents.substack.com)
- - date published: 2023-10-25T09:58:00.066649+00:00
- - user: None
- - tags: ['substack']
-
-## Marcio Klepacz | Substack
- - [https://marciok.substack.com](https://marciok.substack.com)
- - date published: 2023-10-25T09:58:02.149600+00:00
- - user: None
- - tags: ['substack']
-
-## Teniade Topics | Marion Teniade | Substack
- - [https://marionteniade.substack.com](https://marionteniade.substack.com)
- - date published: 2023-10-25T09:58:10.422380+00:00
- - user: None
- - tags: ['substack']
-
-## Mimir's Well | Mark McNeilly | Substack
- - [https://markmcneilly.substack.com](https://markmcneilly.substack.com)
- - date published: 2023-10-25T09:58:13.271057+00:00
- - user: None
- - tags: ['substack']
-
-## Martin’s Newsletter | Martin Shkreli | Substack
- - [https://martinshkreli.substack.com](https://martinshkreli.substack.com)
- - date published: 2023-10-25T09:58:16.042885+00:00
- - user: None
- - tags: ['substack']
-
-## !important | Matt Frisbie | Substack
- - [https://mattfrisbie.substack.com](https://mattfrisbie.substack.com)
- - date published: 2023-10-25T09:58:18.461443+00:00
- - user: None
- - tags: ['substack']
-
-## Matthew’s Substack | Matthew Grohman | Substack
- - [https://matthewgrohman.substack.com](https://matthewgrohman.substack.com)
- - date published: 2023-10-25T09:58:21.025332+00:00
- - user: None
- - tags: ['substack']
-
-## Matthew’s Writing | Matthew Tejo | Substack
- - [https://matthewtejo.substack.com](https://matthewtejo.substack.com)
- - date published: 2024-01-09T01:42:03.454732+00:00
- - user: None
- - tags: []
-
-## BIG by Matt Stoller | Substack
- - [https://mattstoller.substack.com](https://mattstoller.substack.com)
- - date published: 2023-10-25T09:58:31.080586+00:00
- - user: None
- - tags: ['substack']
-
-## Maximum Effort, Minimum Reward | Dylan Black | Substack
- - [https://maximumeffort.substack.com](https://maximumeffort.substack.com)
- - date published: 2024-01-09T01:42:06.052060+00:00
- - user: None
- - tags: []
-
-## Maximum Progress | Maxwell Tabarrok | Substack
- - [https://maximumprogress.substack.com](https://maximumprogress.substack.com)
- - date published: 2023-11-25T21:49:13.039073+00:00
- - user: None
- - tags: []
-
-## Read Max | Max Read | Substack
- - [https://maxread.substack.com](https://maxread.substack.com)
- - date published: 2024-01-09T01:42:09.236064+00:00
- - user: None
- - tags: []
-
-## Mindful Ruminations | Michael Oliver | Substack
- - [https://mcoliver.substack.com](https://mcoliver.substack.com)
- - date published: 2023-10-25T09:58:39.266748+00:00
- - user: None
- - tags: ['substack']
-
-## Off-Topic | Meghan Boilard | Substack
- - [https://meghanboilard.substack.com](https://meghanboilard.substack.com)
- - date published: 2024-01-09T01:42:13.267759+00:00
- - user: None
- - tags: []
-
-## Melos Han-Tani | Substack
- - [https://melodicambient.substack.com](https://melodicambient.substack.com)
- - date published: 2023-10-25T09:58:46.701668+00:00
- - user: None
- - tags: ['substack']
-
-## The Melt by Jason Diamond  | Substack
- - [https://meltedcheeseonwhitefish.substack.com](https://meltedcheeseonwhitefish.substack.com)
- - date published: 2024-01-09T01:42:17.605787+00:00
- - user: None
- - tags: []
-
-## memoirs & rambles | Yakko | Substack
- - [https://memoirsandrambles.substack.com](https://memoirsandrambles.substack.com)
- - date published: 2024-01-05T15:16:39.796562+00:00
- - user: None
- - tags: []
-
-## Methexis | Kevin Fischer | Substack
- - [https://methexis.substack.com](https://methexis.substack.com)
- - date published: 2023-10-25T09:58:53.573354+00:00
- - user: None
- - tags: ['substack']
-
-## Cosmic Column | Kai Christensen | Substack
- - [https://mkaic.substack.com](https://mkaic.substack.com)
- - date published: 2023-10-25T09:59:01.344820+00:00
  - user: None
  - tags: ['substack']
 

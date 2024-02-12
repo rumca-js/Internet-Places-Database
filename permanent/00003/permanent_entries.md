@@ -1,3 +1,93 @@
+## Buddy Pond
+ - [https://buddypond.com](https://buddypond.com)
+ - date published: 2023-10-25T08:37:35.139877+00:00
+ - user: None
+ - tags: []
+
+## Home - Buenos Aires Herald
+ - [https://buenosairesherald.com](https://buenosairesherald.com)
+ - date published: 2023-12-09T23:08:19.504764+00:00
+ - user: None
+ - tags: ['buenos aires']
+
+## BUGFIX-66
+ - [https://bugfix-66.com](https://bugfix-66.com)
+ - date published: 2023-10-25T13:14:37.444263+00:00
+ - user: None
+ - tags: []
+
+## BugMeNot: share logins.
+ - [https://bugmenot.com](https://bugmenot.com)
+ - date published: 2023-10-25T13:14:37.977701+00:00
+ - user: None
+ - tags: []
+
+## Buildkite is your favorite company's CI/CD platform
+ - [https://buildkite.com](https://buildkite.com)
+ - date published: 2023-10-25T13:14:40.478871+00:00
+ - user: None
+ - tags: []
+
+## Build My Online Store: Free Resources To Start An E-Commerce Business
+ - [https://www.buildmyonlinestore.com](https://www.buildmyonlinestore.com)
+ - date published: 2023-11-29T15:48:43.191347+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nick Chamberlain
+ - [https://buildplease.com](https://buildplease.com)
+ - date published: 2023-12-14T01:26:18.819291+00:00
+ - user: None
+ - tags: ['personal']
+
+## Build Redux | Gaming PCs Custom Built
+ - [https://www.buildredux.com](https://www.buildredux.com)
+ - date published: 2024-01-19T09:37:16+00:00
+ - user: rumpel
+ - tags: ['pc shop']
+
+## TRAYD
+ - [https://www.buildtrayd.com](https://www.buildtrayd.com)
+ - date published: 2024-01-13T12:30:32.421137+00:00
+ - user: None
+ - tags: []
+
+## Learn C • Build Your Own Lisp
+ - [https://buildyourownlisp.com](https://buildyourownlisp.com)
+ - date published: 2023-10-25T13:14:41.218896+00:00
+ - user: None
+ - tags: []
+
+## Nick's .NET Travels
+ - [https://nicksnettravels.builttoroam.com](https://nicksnettravels.builttoroam.com)
+ - date published: 2024-01-09T01:37:57.313904+00:00
+ - user: None
+ - tags: []
+
+## Attila Bujdosó
+ - [https://bujatt.com](https://bujatt.com)
+ - date published: 2023-12-27T18:11:51.177552+00:00
+ - user: None
+ - tags: ['personal']
+
+## Military and defense news, analysis, research and data
+ - [https://bulgarianmilitary.com](https://bulgarianmilitary.com)
+ - date published: 2023-10-25T13:14:44.953325+00:00
+ - user: None
+ - tags: []
+
+## Home | The Bulwer-Lytton Fiction Contest
+ - [https://www.bulwer-lytton.com](https://www.bulwer-lytton.com)
+ - date published: 2023-10-25T13:14:49.791577+00:00
+ - user: None
+ - tags: []
+
+## Bumble | Lepsze randki i czaty; nowi ludzie i nowe relacje
+ - [https://bumble.com](https://bumble.com)
+ - date published: 2023-10-25T13:14:58.543760+00:00
+ - user: None
+ - tags: []
+
 ## 文学通信｜多様な情報をつなげ、多くの「問い」を世に生み出す出版社
  - [https://bungaku-report.com](https://bungaku-report.com)
  - date published: 2024-02-08T16:33:01.509269+00:00
@@ -5913,94 +6003,4 @@
  - date published: 2023-11-27T11:27:44+00:00
  - user: rumpel
  - tags: ['video streaming filter']
-
-## Decipad — Make sense of numbers
- - [https://www.decipad.com](https://www.decipad.com)
- - date published: 2023-10-25T13:47:20.389396+00:00
- - user: None
- - tags: []
-
-## https://www.decisionproblem.com
- - [https://www.decisionproblem.com](https://www.decisionproblem.com)
- - date published: 2024-01-09T02:34:12.826076+00:00
- - user: None
- - tags: []
-
-## Account Suspended
- - [https://www.decodame.com](https://www.decodame.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Decode39 - Decode39
- - [https://decode39.com](https://decode39.com)
- - date published: 2024-01-06T14:01:43.023731+00:00
- - user: None
- - tags: []
-
-## Apache HTTP Server Test Page powered by CentOS
- - [https://www.decodesystems.com](https://www.decodesystems.com)
- - date published: 2024-01-09T02:34:14.258095+00:00
- - user: None
- - tags: []
-
-## Decode Today
- - [https://decodetoday.com](https://decodetoday.com)
- - date published: 2024-01-04T09:27:47.278321+00:00
- - user: None
- - tags: []
-
-## Allison Posts
- - [https://posts.decontextualize.com](https://posts.decontextualize.com)
- - date published: 2023-10-25T13:47:27.737564+00:00
- - user: None
- - tags: []
-
-## de🔸digger find public files in Google Drive
- - [https://www.dedigger.com](https://www.dedigger.com)
- - date published: 2023-10-25T13:47:29.059381+00:00
- - user: None
- - tags: []
-
-## Dedoimedo - A Place to Learn a Lot About a Lot
- - [https://www.dedoimedo.com](https://www.dedoimedo.com)
- - date published: 2023-10-25T13:47:31.851633+00:00
- - user: None
- - tags: []
-
-## DEDWARE
- - [https://dedware.com](https://dedware.com)
- - date published: 2023-11-15T17:57:31.700400+00:00
- - user: None
- - tags: ['personal', 'art']
-
-## Deepak Gulati's blog
- - [https://www.deepakg.com](https://www.deepakg.com)
- - date published: 2023-10-25T13:47:34.103740+00:00
- - user: None
- - tags: []
-
-## Resources and Tools Created to Inspire | Deepgram
- - [https://blog.deepgram.com](https://blog.deepgram.com)
- - date published: 2023-10-25T13:47:45.305982+00:00
- - user: None
- - tags: []
-
-## DeepL Translate: The world's most accurate translator
- - [https://www.deepl.com](https://www.deepl.com)
- - date published: 2023-10-25T09:27:57.362550+00:00
- - user: None
- - tags: []
-
-## AlphaCode
- - [https://alphacode.deepmind.com](https://alphacode.deepmind.com)
- - date published: 2023-10-25T13:47:52.658441+00:00
- - user: None
- - tags: []
-
-## Google DeepMind
- - [https://www.deepmind.com](https://www.deepmind.com)
- - date published: 2023-10-25T13:47:54.689117+00:00
- - user: None
- - tags: ['artificial intelligence']
 

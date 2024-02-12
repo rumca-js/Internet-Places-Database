@@ -1,3 +1,93 @@
+## Decipad — Make sense of numbers
+ - [https://www.decipad.com](https://www.decipad.com)
+ - date published: 2023-10-25T13:47:20.389396+00:00
+ - user: None
+ - tags: []
+
+## https://www.decisionproblem.com
+ - [https://www.decisionproblem.com](https://www.decisionproblem.com)
+ - date published: 2024-01-09T02:34:12.826076+00:00
+ - user: None
+ - tags: []
+
+## Account Suspended
+ - [https://www.decodame.com](https://www.decodame.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Decode39 - Decode39
+ - [https://decode39.com](https://decode39.com)
+ - date published: 2024-01-06T14:01:43.023731+00:00
+ - user: None
+ - tags: []
+
+## Apache HTTP Server Test Page powered by CentOS
+ - [https://www.decodesystems.com](https://www.decodesystems.com)
+ - date published: 2024-01-09T02:34:14.258095+00:00
+ - user: None
+ - tags: []
+
+## Decode Today
+ - [https://decodetoday.com](https://decodetoday.com)
+ - date published: 2024-01-04T09:27:47.278321+00:00
+ - user: None
+ - tags: []
+
+## Allison Posts
+ - [https://posts.decontextualize.com](https://posts.decontextualize.com)
+ - date published: 2023-10-25T13:47:27.737564+00:00
+ - user: None
+ - tags: []
+
+## de🔸digger find public files in Google Drive
+ - [https://www.dedigger.com](https://www.dedigger.com)
+ - date published: 2023-10-25T13:47:29.059381+00:00
+ - user: None
+ - tags: []
+
+## Dedoimedo - A Place to Learn a Lot About a Lot
+ - [https://www.dedoimedo.com](https://www.dedoimedo.com)
+ - date published: 2023-10-25T13:47:31.851633+00:00
+ - user: None
+ - tags: []
+
+## DEDWARE
+ - [https://dedware.com](https://dedware.com)
+ - date published: 2023-11-15T17:57:31.700400+00:00
+ - user: None
+ - tags: ['personal', 'art']
+
+## Deepak Gulati's blog
+ - [https://www.deepakg.com](https://www.deepakg.com)
+ - date published: 2023-10-25T13:47:34.103740+00:00
+ - user: None
+ - tags: []
+
+## Resources and Tools Created to Inspire | Deepgram
+ - [https://blog.deepgram.com](https://blog.deepgram.com)
+ - date published: 2023-10-25T13:47:45.305982+00:00
+ - user: None
+ - tags: []
+
+## DeepL Translate: The world's most accurate translator
+ - [https://www.deepl.com](https://www.deepl.com)
+ - date published: 2023-10-25T09:27:57.362550+00:00
+ - user: None
+ - tags: []
+
+## AlphaCode
+ - [https://alphacode.deepmind.com](https://alphacode.deepmind.com)
+ - date published: 2023-10-25T13:47:52.658441+00:00
+ - user: None
+ - tags: []
+
+## Google DeepMind
+ - [https://www.deepmind.com](https://www.deepmind.com)
+ - date published: 2023-10-25T13:47:54.689117+00:00
+ - user: None
+ - tags: ['artificial intelligence']
+
 ## Deepnote: Analytics and data science notebook for teams.
  - [https://deepnote.com](https://deepnote.com)
  - date published: 2023-10-25T13:47:56.980147+00:00
@@ -5908,94 +5998,4 @@
  - date published: 2023-10-28T17:32:29.161406+00:00
  - user: None
  - tags: ['crime', 'police']
-
-## Forexlive | Forex News, Technical Analysis & Trading Tools
- - [https://www.forexlive.com](https://www.forexlive.com)
- - date published: 2023-12-15T21:52:32.167982+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.format.com](https://www.format.com)
- - date published: 2023-10-27T10:24:23.394039+00:00
- - user: None
- - tags: []
-
-## High Resolution SLA and SLS 3D Printers for Professionals
- - [https://formlabs.com](https://formlabs.com)
- - date published: 2023-10-27T10:15:17.313202+00:00
- - user: None
- - tags: ['corporate', '3d printing']
-
-## CBD from Switzerland
- - [https://formulaswiss.com](https://formulaswiss.com)
- - date published: 2024-01-06T11:24:48.628371+00:00
- - user: None
- - tags: []
-
-## Cottage Food Laws - Forrager
- - [https://forrager.com](https://forrager.com)
- - date published: 2024-02-08T22:03:47.723078+00:00
- - user: None
- - tags: []
-
-## Forrester Helps Organizations Grow Through Customer Obsession
- - [https://www.forrester.com](https://www.forrester.com)
- - date published: 2023-10-25T15:10:40.006112+00:00
- - user: None
- - tags: []
-
-## Forrest Glover Design - Custom Drapery Manufacturing with 3-4 week Lead Time.
- - [https://www.forrestgloverdesign.com](https://www.forrestgloverdesign.com)
- - date published: 2023-12-03T09:19:46.568413+00:00
- - user: None
- - tags: ['personal']
-
-## Forrest Heller
- - [https://forrestheller.com](https://forrestheller.com)
- - date published: 2023-12-27T03:17:31.876183+00:00
- - user: None
- - tags: []
-
-## ForrestTheWoods - Home
- - [https://www.forrestthewoods.com](https://www.forrestthewoods.com)
- - date published: 2023-10-25T14:35:30.429573+00:00
- - user: None
- - tags: []
-
-## blog.forret.com · Peter Forret
- - [https://blog.forret.com](https://blog.forret.com)
- - date published: 2023-10-25T14:35:33.678369+00:00
- - user: None
- - tags: []
-
-## Ben Forta
- - [https://forta.com](https://forta.com)
- - date published: 2023-10-25T14:35:41.162914+00:00
- - user: None
- - tags: []
-
-## Home - Forte Labs
- - [https://fortelabs.com](https://fortelabs.com)
- - date published: 2023-10-25T14:35:48.567669+00:00
- - user: None
- - tags: []
-
-## software development systems & services
- - [https://www.forth.com](https://www.forth.com)
- - date published: 2023-10-25T14:35:54.553513+00:00
- - user: None
- - tags: []
-
-## For the Badge
- - [https://forthebadge.com](https://forthebadge.com)
- - date published: 2024-01-09T02:36:52.201173+00:00
- - user: None
- - tags: []
-
-## Global Leader of Cybersecurity Solutions and Services | Fortinet
- - [https://www.fortinet.com](https://www.fortinet.com)
- - date published: 2023-10-25T14:36:07.519364+00:00
- - user: None
- - tags: []
 

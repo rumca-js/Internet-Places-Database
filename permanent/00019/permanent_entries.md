@@ -1,3 +1,255 @@
+## Ackerman Institute for the Family
+ - [https://www.ackerman.org](https://www.ackerman.org)
+ - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ACL Anthology - ACL Anthology
+ - [https://aclanthology.org](https://aclanthology.org)
+ - date published: 2023-10-25T20:53:36.329517+00:00
+ - user: None
+ - tags: []
+
+## Home | American Civil Liberties Union
+ - [https://www.aclu.org](https://www.aclu.org)
+ - date published: 2023-10-25T20:53:44.491527+00:00
+ - user: None
+ - tags: []
+
+## A.M. Turing Award
+ - [https://amturing.acm.org](https://amturing.acm.org)
+ - date published: 2023-10-25T20:53:46.979207+00:00
+ - user: None
+ - tags: []
+
+## Awards Home
+ - [https://awards.acm.org](https://awards.acm.org)
+ - date published: 2023-10-25T20:53:56.997751+00:00
+ - user: None
+ - tags: []
+
+## Communications of the ACM
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
+ - user: None
+ - tags: []
+
+## ACM Digital Library
+ - [https://dl.acm.org](https://dl.acm.org)
+ - date published: 2023-10-25T20:54:07.913205+00:00
+ - user: None
+ - tags: []
+
+## ACM Code of Ethics and Professional Conduct
+ - [https://ethics.acm.org](https://ethics.acm.org)
+ - date published: 2023-10-25T20:54:10.467772+00:00
+ - user: None
+ - tags: []
+
+## ACM Learning Center
+ - [https://learning.acm.org](https://learning.acm.org)
+ - date published: 2023-10-25T20:54:19.348249+00:00
+ - user: None
+ - tags: []
+
+## ACMQ Site - ACM Queue
+ - [https://queue.acm.org](https://queue.acm.org)
+ - date published: 2023-10-25T20:54:22.401799+00:00
+ - user: None
+ - tags: []
+
+## Association for Computing Machinery
+ - [https://www.acm.org](https://www.acm.org)
+ - date published: 2023-10-25T20:54:27.074550+00:00
+ - user: None
+ - tags: []
+
+## the morning paper | a random walk through Computer Science research, by Adrian Colyer
+ - [https://blog.acolyer.org](https://blog.acolyer.org)
+ - date published: 2023-10-25T20:54:28.113947+00:00
+ - user: None
+ - tags: []
+
+## The Acorn Theatre
+ - [https://acorntheatre.org](https://acorntheatre.org)
+ - date published: 2024-02-08T21:50:17.846763+00:00
+ - user: None
+ - tags: []
+
+## Australian Acoustic Observatory | A20
+ - [https://acousticobservatory.org](https://acousticobservatory.org)
+ - date published: 2023-12-01T10:46:03.517245+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Australian Acoustic Observatory Search
+ - [https://search.acousticobservatory.org](https://search.acousticobservatory.org)
+ - date published: 2023-12-01T05:57:47+00:00
+ - user: None
+ - tags: []
+
+## https://www.acpjournals.org
+ - [https://www.acpjournals.org](https://www.acpjournals.org)
+ - date published: 2023-10-25T20:54:28.582674+00:00
+ - user: None
+ - tags: []
+
+## Chemical & Engineering News
+ - [https://cen.acs.org](https://cen.acs.org)
+ - date published: 2023-12-09T04:59:11.663465+00:00
+ - user: None
+ - tags: ['engineering news', 'chemical news']
+
+## https://pubs.acs.org
+ - [https://pubs.acs.org](https://pubs.acs.org)
+ - date published: 2023-10-25T20:54:31.739169+00:00
+ - user: None
+ - tags: []
+
+## American Chemical Society
+ - [https://www.acs.org](https://www.acs.org)
+ - date published: 2023-10-25T20:54:33.698417+00:00
+ - user: None
+ - tags: []
+
+## American Council on Science and Health |
+ - [https://www.acsh.org](https://www.acsh.org)
+ - date published: 2023-10-25T20:54:38.389591+00:00
+ - user: None
+ - tags: []
+
+## Google
+ - [https://www.actkm.org](https://www.actkm.org)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Put Faculty Development at the Center of Student Success
+ - [https://acue.org](https://acue.org)
+ - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## American Dermatological Association – Founded in 1876
+ - [https://ada1.org](https://ada1.org)
+ - date published: 2024-02-08T17:45:57.107537+00:00
+ - user: None
+ - tags: []
+
+## Adblock Plus | The world's #1 free ad blocker
+ - [https://adblockplus.org](https://adblockplus.org)
+ - date published: 2023-11-01T08:44:08.907697+00:00
+ - user: None
+ - tags: ['ad block']
+
+## Adblock Plus and (a little) more
+ - [https://blog.adblockplus.org](https://blog.adblockplus.org)
+ - date published: 2023-11-01T08:44:10.579602+00:00
+ - user: None
+ - tags: []
+
+## Adélie Linux | Welcome
+ - [https://www.adelielinux.org](https://www.adelielinux.org)
+ - date published: 2024-01-06T17:39:36.159238+00:00
+ - user: None
+ - tags: []
+
+## ADHD Evidence Project
+ - [https://www.adhdevidence.org](https://www.adhdevidence.org)
+ - date published: 2023-10-25T20:54:40.433717+00:00
+ - user: None
+ - tags: []
+
+## Homepage ORG | ADL
+ - [https://www.adl.org](https://www.adl.org)
+ - date published: 2023-10-25T11:25:00.786315+00:00
+ - user: None
+ - tags: []
+
+## American Economic Association
+ - [https://www.aeaweb.org](https://www.aeaweb.org)
+ - date published: 2023-10-25T20:54:42.266806+00:00
+ - user: None
+ - tags: []
+
+## American Enterprise Institute - AEI | The American Enterprise Institute, AEI, is a nonpartisan public policy research institute with a community of scholars and supporters committed to expanding liberty, increasing individual opportunity and strengthening free enterprise.
+ - [https://www.aei.org](https://www.aei.org)
+ - date published: 2023-10-25T20:54:50.144785+00:00
+ - user: None
+ - tags: []
+
+## aerc - a pretty good email client
+ - [https://aerc-mail.org](https://aerc-mail.org)
+ - date published: 2023-10-25T20:54:51.165477+00:00
+ - user: None
+ - tags: []
+
+## Home | The Aerospace Corporation
+ - [https://aerospace.org](https://aerospace.org)
+ - date published: 2023-10-25T20:54:52.323717+00:00
+ - user: None
+ - tags: []
+
+## Home | American Foundation for the Blind
+ - [https://www.afb.org](https://www.afb.org)
+ - date published: 2023-10-25T20:54:54.541993+00:00
+ - user: None
+ - tags: []
+
+## AFCEA International | AFCEA International
+ - [https://www.afcea.org](https://www.afcea.org)
+ - date published: 2023-10-25T20:54:58.723737+00:00
+ - user: None
+ - tags: []
+
+## American Friends Musées d'Orsay et de l'Orangerie
+ - [https://aforsay.org](https://aforsay.org)
+ - date published: 2023-11-13T13:48:20.528443+00:00
+ - user: None
+ - tags: ['museum']
+
+## Alliance Francaise of Greater Phoenix
+ - [https://afphx.org](https://afphx.org)
+ - date published: 2024-02-08T16:36:05.678130+00:00
+ - user: None
+ - tags: []
+
+## A Social Front Organization
+ - [https://social.afront.org](https://social.afront.org)
+ - date published: 2023-10-25T20:55:00.121595+00:00
+ - user: None
+ - tags: []
+
+## After the Plague: Health and History in Medieval England
+ - [https://www.aftertheplague.org](https://www.aftertheplague.org)
+ - date published: 2023-12-06T05:26:05+00:00
+ - user: None
+ - tags: []
+
+## Agentscript: agent based modeling in the browser
+ - [https://agentscript.org](https://agentscript.org)
+ - date published: 2023-10-25T20:55:01.985709+00:00
+ - user: None
+ - tags: []
+
+## https://www.aginganddisease.org
+ - [https://www.aginganddisease.org](https://www.aginganddisease.org)
+ - date published: 2023-12-09T18:18:43.004630+00:00
+ - user: None
+ - tags: []
+
+## AGU Newsroom - AGU Newsroom
+ - [https://news.agu.org](https://news.agu.org)
+ - date published: 2023-10-25T20:55:04.762063+00:00
+ - user: None
+ - tags: []
+
+## https://www.ahajournals.org
+ - [https://www.ahajournals.org](https://www.ahajournals.org)
+ - date published: 2023-11-23T17:36:30.008809+00:00
+ - user: None
+ - tags: []
+
 ## AIER | American Institute for Economic Research
  - [https://www.aier.org](https://www.aier.org)
  - date published: 2023-10-25T20:55:07.515677+00:00
@@ -670,7 +922,7 @@
  - user: None
  - tags: ['internet archive']
 
-## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
+## Internet Archive: Secret service
  - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
  - date published: 2023-10-27T14:37:50+00:00
  - user: rumpel
@@ -5760,256 +6012,4 @@
  - date published: 2023-10-25T08:54:40.981603+00:00
  - user: None
  - tags: ['personal']
-
-## American Society of Hematology
- - [https://www.hematology.org](https://www.hematology.org)
- - date published: 2023-11-11T10:57:39.004357+00:00
- - user: None
- - tags: []
-
-## hezmatt.org
- - [https://www.hezmatt.org](https://www.hezmatt.org)
- - date published: 2023-10-25T21:28:33.908256+00:00
- - user: None
- - tags: []
-
-## Home | AHA
- - [https://www.historians.org](https://www.historians.org)
- - date published: 2023-10-25T21:28:41.074702+00:00
- - user: None
- - tags: []
-
-## Web Hosting from HostPapa
- - [https://www.historywiz.org](https://www.historywiz.org)
- - date published: 2024-02-08T18:05:50.623678+00:00
- - user: None
- - tags: []
-
-## HLTV.org - The home of competitive Counter-Strike
- - [https://www.hltv.org](https://www.hltv.org)
- - date published: 2023-11-26T18:46:28.246706+00:00
- - user: None
- - tags: []
-
-## hmgs.org
- - [https://www.hmgs.org](https://www.hmgs.org)
- - date published: 2023-10-25T11:12:44.095189+00:00
- - user: None
- - tags: []
-
-## Hacker News RSS
- - [https://hnrss.org](https://hnrss.org)
- - date published: 2023-10-25T21:28:42.854542+00:00
- - user: None
- - tags: []
-
-## Honor Flight Nevada
- - [https://www.honorflightnv.org](https://www.honorflightnv.org)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Hoover Institution
- - [https://www.hoover.org](https://www.hoover.org)
- - date published: 2023-10-25T21:28:47.678884+00:00
- - user: None
- - tags: []
-
-## Johns Hopkins Medicine, based in Baltimore, Maryland
- - [https://www.hopkinsmedicine.org](https://www.hopkinsmedicine.org)
- - date published: 2023-10-25T21:28:49.403905+00:00
- - user: None
- - tags: []
-
-## Home | Humanitarian OpenStreetMap Team
- - [https://www.hotosm.org](https://www.hotosm.org)
- - date published: 2023-10-25T21:28:50.976793+00:00
- - user: None
- - tags: []
-
-## Houston Public Media
- - [https://www.houstonpublicmedia.org](https://www.houstonpublicmedia.org)
- - date published: 2023-11-28T01:41:11.168314+00:00
- - user: None
- - tags: []
-
-## Howardism
- - [https://howardism.org](https://howardism.org)
- - date published: 2023-10-25T21:28:53.869348+00:00
- - user: None
- - tags: []
-
-## HRDAG - Human Rights Data Analysis Group
- - [https://hrdag.org](https://hrdag.org)
- - date published: 2023-11-28T07:45:56+00:00
- - user: rumpel
- - tags: ['organization']
-
-## Human Rights Watch | Defending Human Rights Worldwide
- - [https://www.hrw.org](https://www.hrw.org)
- - date published: 2023-11-27T05:46:52.633414+00:00
- - user: None
- - tags: ['human rights', 'organization']
-
-## How to Design Programs
- - [https://htdp.org](https://htdp.org)
- - date published: 2023-10-25T21:28:54.381719+00:00
- - user: None
- - tags: []
-
-## HTML, the Programming Language
- - [https://html-lang.org](https://html-lang.org)
- - date published: 2023-12-04T16:57:24+00:00
- - user: None
- - tags: ['tutorial', 'html']
-
-## </> htmx - high power tools for html
- - [https://htmx.org](https://htmx.org)
- - date published: 2023-10-25T21:29:00.359686+00:00
- - user: None
- - tags: []
-
-## </> htmx - high power tools for html
- - [https://v2-0v2-0.htmx.org](https://v2-0v2-0.htmx.org)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## IETF HTTP Working Group
- - [https://httpwg.org](https://httpwg.org)
- - date published: 2023-10-25T21:29:01.274615+00:00
- - user: None
- - tags: []
-
-## Hubble Home
- - [https://hubblesite.org](https://hubblesite.org)
- - date published: 2023-10-25T21:29:08.287960+00:00
- - user: None
- - tags: []
-
-## Hudson Crossing Park
- - [https://www.hudsoncrossingpark.org](https://www.hudsoncrossingpark.org)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Magnus Hultberg - hultberg.org
- - [https://hultberg.org](https://hultberg.org)
- - date published: 2024-01-11T20:47:44.802753+00:00
- - user: None
- - tags: []
-
-## The Humane Society of the United States| End suffering for all animals
- - [https://www.humanesociety.org](https://www.humanesociety.org)
- - date published: 2023-10-25T21:29:17.708287+00:00
- - user: None
- - tags: []
-
-## Humans TXT: We Are People, Not Machines.
- - [https://humanstxt.org](https://humanstxt.org)
- - date published: 2023-10-25T21:29:19.630955+00:00
- - user: None
- - tags: []
-
-## Bread & Circuits
- - [https://blog.humphd.org](https://blog.humphd.org)
- - date published: 2023-10-25T21:29:21.631841+00:00
- - user: None
- - tags: []
-
-## None
- - [http://www.humprog.org](http://www.humprog.org)
- - date published: 2023-10-25T21:29:35.001353+00:00
- - user: None
- - tags: []
-
-## The Hy Manual — hy 0.27.0 documentation
- - [https://docs.hylang.org](https://docs.hylang.org)
- - date published: 2023-10-25T21:29:39.020853+00:00
- - user: None
- - tags: []
-
-## Hyperview · Native mobile apps, as easy as creating a web site
- - [https://hyperview.org](https://hyperview.org)
- - date published: 2023-10-25T21:29:42.395442+00:00
- - user: None
- - tags: []
-
-## Hyprland - A wayland compositor that doesn't sacrifice on its looks!
- - [https://hyprland.org](https://hyprland.org)
- - date published: 2023-10-25T21:29:43.958993+00:00
- - user: None
- - tags: []
-
-## Cryptology ePrint Archive
- - [https://eprint.iacr.org](https://eprint.iacr.org)
- - date published: 2023-10-25T21:29:46.021630+00:00
- - user: None
- - tags: []
-
-## Internet Assigned Numbers Authority
- - [https://www.iana.org](https://www.iana.org)
- - date published: 2023-10-25T21:29:48.306690+00:00
- - user: None
- - tags: []
-
-## Ian Bicking: a home page
- - [https://ianbicking.org](https://ianbicking.org)
- - date published: 2023-10-25T21:29:50.096372+00:00
- - user: None
- - tags: []
-
-## International Association of Privacy Professionals
- - [https://iapp.org](https://iapp.org)
- - date published: 2023-10-25T21:29:55.000235+00:00
- - user: None
- - tags: []
-
-## JTUR: home
- - [https://jtur.iatur.org](https://jtur.iatur.org)
- - date published: 2023-11-07T18:14:15.877684+00:00
- - user: None
- - tags: []
-
-## The Public's Library and Digital Archive
- - [https://www.ibiblio.org](https://www.ibiblio.org)
- - date published: 2023-10-25T21:30:05.195229+00:00
- - user: None
- - tags: []
-
-## Internet Corporation for Assigned Names and Numbers (ICANN)
- - [https://www.icann.org](https://www.icann.org)
- - date published: 2023-10-25T21:30:12.025982+00:00
- - user: None
- - tags: []
-
-## icculus.org -- The Helping Phriendly Box
- - [https://icculus.org](https://icculus.org)
- - date published: 2023-10-25T21:30:17.259961+00:00
- - user: None
- - tags: []
-
-## International Consortium of Investigative Journalists - ICIJ
- - [https://www.icij.org](https://www.icij.org)
- - date published: 2023-11-15T18:02:29.893538+00:00
- - user: None
- - tags: []
-
-## Top 20 nhà cái tặng tiền free cho cược thủ không thể bỏ lỡ - Icra
- - [https://www.icra.org](https://www.icra.org)
- - date published: 2024-01-09T03:40:57.256912+00:00
- - user: None
- - tags: []
-
-## The Ideophone – Sounding out ideas on language, vivid sensory words, and iconicity
- - [https://ideophone.org](https://ideophone.org)
- - date published: 2023-10-25T21:30:19.847987+00:00
- - user: None
- - tags: []
-
-## Idiomdrottning
- - [https://idiomdrottning.org](https://idiomdrottning.org)
- - date published: 2023-10-25T21:30:30.824876+00:00
- - user: None
- - tags: []
 

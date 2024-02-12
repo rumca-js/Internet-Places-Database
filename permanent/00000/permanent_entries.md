@@ -4619,6 +4619,12 @@
  - user: None
  - tags: []
 
+## Adler Medrado's little piece of turf
+ - [https://adlermedrado.com.br](https://adlermedrado.com.br)
+ - date published: 2024-02-11T04:54:28.132837+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Citroën Home
  - [https://www.citroen.com.br](https://www.citroen.com.br)
  - date published: 2023-12-11T16:02:47.705230+00:00
@@ -4815,7 +4821,7 @@
  - [https://mw.rat.bz](https://mw.rat.bz)
  - date published: 2024-02-10T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['blog', 'personal']
 
 ## None
  - [https://www.reddit.c](https://www.reddit.c)
@@ -5007,7 +5013,7 @@
  - [https://citizenlab.ca](https://citizenlab.ca)
  - date published: 2023-10-25T12:09:16.663748+00:00
  - user: None
- - tags: []
+ - tags: ['privacy', 'human rights']
 
 ## Breaking News | Top Local Stories | CityNews Calgary
  - [https://calgary.citynews.ca](https://calgary.citynews.ca)
@@ -5771,6 +5777,12 @@
  - user: None
  - tags: []
 
+## Hiya, I'm Tan · TanHo.ca
+ - [https://tanho.ca](https://tanho.ca)
+ - date published: 2024-02-11T05:02:26.143775+00:00
+ - user: None
+ - tags: ['personal']
+
 ## The Bridgehead | From the front lines of the culture wars.
  - [https://thebridgehead.ca](https://thebridgehead.ca)
  - date published: 2023-10-25T12:07:41.693718+00:00
@@ -5986,16 +5998,4 @@
  - date published: 2024-01-06T17:40:41.073576+00:00
  - user: None
  - tags: []
-
-## York University | Right the Future
- - [https://www.yorku.ca](https://www.yorku.ca)
- - date published: 2023-12-17T16:44:20.911714+00:00
- - user: None
- - tags: []
-
-## Communications Security Establishment
- - [https://www.cse-cst.gc.ca](https://www.cse-cst.gc.ca)
- - date published: 2024-02-07T15:33:10+00:00
- - user: rumpel
- - tags: ['security intelligence', 'france security intelligence']
 

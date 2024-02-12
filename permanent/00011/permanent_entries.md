@@ -1,3 +1,141 @@
+## Grandmotherly Wisdom | Made in Cosmos ✨ | Substack
+ - [https://madeincosmos.substack.com](https://madeincosmos.substack.com)
+ - date published: 2024-01-09T01:42:00.038119+00:00
+ - user: None
+ - tags: []
+
+## https://madned.substack.com
+ - [https://madned.substack.com](https://madned.substack.com)
+ - date published: 2024-01-28T23:04:10.684445+00:00
+ - user: None
+ - tags: []
+
+## Maestro's Musings | Justin Cranshaw | Substack
+ - [https://maestroai.substack.com](https://maestroai.substack.com)
+ - date published: 2023-10-25T09:57:55.016069+00:00
+ - user: None
+ - tags: ['substack']
+
+## Maneesh’s Substack | Maneesh Agrawala | Substack
+ - [https://magrawala.substack.com](https://magrawala.substack.com)
+ - date published: 2023-10-25T09:57:57.039994+00:00
+ - user: None
+ - tags: ['substack']
+
+## Many One Percents | Tuấn Mon | Substack
+ - [https://manyonepercents.substack.com](https://manyonepercents.substack.com)
+ - date published: 2023-10-25T09:58:00.066649+00:00
+ - user: None
+ - tags: ['substack']
+
+## Marcio Klepacz | Substack
+ - [https://marciok.substack.com](https://marciok.substack.com)
+ - date published: 2023-10-25T09:58:02.149600+00:00
+ - user: None
+ - tags: ['substack']
+
+## Teniade Topics | Marion Teniade | Substack
+ - [https://marionteniade.substack.com](https://marionteniade.substack.com)
+ - date published: 2023-10-25T09:58:10.422380+00:00
+ - user: None
+ - tags: ['substack']
+
+## Mimir's Well | Mark McNeilly | Substack
+ - [https://markmcneilly.substack.com](https://markmcneilly.substack.com)
+ - date published: 2023-10-25T09:58:13.271057+00:00
+ - user: None
+ - tags: ['substack']
+
+## Martin’s Newsletter | Martin Shkreli | Substack
+ - [https://martinshkreli.substack.com](https://martinshkreli.substack.com)
+ - date published: 2023-10-25T09:58:16.042885+00:00
+ - user: None
+ - tags: ['substack']
+
+## !important | Matt Frisbie | Substack
+ - [https://mattfrisbie.substack.com](https://mattfrisbie.substack.com)
+ - date published: 2023-10-25T09:58:18.461443+00:00
+ - user: None
+ - tags: ['substack']
+
+## Matthew’s Substack | Matthew Grohman | Substack
+ - [https://matthewgrohman.substack.com](https://matthewgrohman.substack.com)
+ - date published: 2023-10-25T09:58:21.025332+00:00
+ - user: None
+ - tags: ['substack']
+
+## Matthew’s Writing | Matthew Tejo | Substack
+ - [https://matthewtejo.substack.com](https://matthewtejo.substack.com)
+ - date published: 2024-01-09T01:42:03.454732+00:00
+ - user: None
+ - tags: []
+
+## BIG by Matt Stoller | Substack
+ - [https://mattstoller.substack.com](https://mattstoller.substack.com)
+ - date published: 2023-10-25T09:58:31.080586+00:00
+ - user: None
+ - tags: ['substack']
+
+## Maximum Effort, Minimum Reward | Dylan Black | Substack
+ - [https://maximumeffort.substack.com](https://maximumeffort.substack.com)
+ - date published: 2024-01-09T01:42:06.052060+00:00
+ - user: None
+ - tags: []
+
+## Maximum Progress | Maxwell Tabarrok | Substack
+ - [https://maximumprogress.substack.com](https://maximumprogress.substack.com)
+ - date published: 2023-11-25T21:49:13.039073+00:00
+ - user: None
+ - tags: []
+
+## Read Max | Max Read | Substack
+ - [https://maxread.substack.com](https://maxread.substack.com)
+ - date published: 2024-01-09T01:42:09.236064+00:00
+ - user: None
+ - tags: []
+
+## Mindful Ruminations | Michael Oliver | Substack
+ - [https://mcoliver.substack.com](https://mcoliver.substack.com)
+ - date published: 2023-10-25T09:58:39.266748+00:00
+ - user: None
+ - tags: ['substack']
+
+## Off-Topic | Meghan Boilard | Substack
+ - [https://meghanboilard.substack.com](https://meghanboilard.substack.com)
+ - date published: 2024-01-09T01:42:13.267759+00:00
+ - user: None
+ - tags: []
+
+## Melos Han-Tani | Substack
+ - [https://melodicambient.substack.com](https://melodicambient.substack.com)
+ - date published: 2023-10-25T09:58:46.701668+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Melt by Jason Diamond  | Substack
+ - [https://meltedcheeseonwhitefish.substack.com](https://meltedcheeseonwhitefish.substack.com)
+ - date published: 2024-01-09T01:42:17.605787+00:00
+ - user: None
+ - tags: []
+
+## memoirs & rambles | Yakko | Substack
+ - [https://memoirsandrambles.substack.com](https://memoirsandrambles.substack.com)
+ - date published: 2024-01-05T15:16:39.796562+00:00
+ - user: None
+ - tags: []
+
+## Methexis | Kevin Fischer | Substack
+ - [https://methexis.substack.com](https://methexis.substack.com)
+ - date published: 2023-10-25T09:58:53.573354+00:00
+ - user: None
+ - tags: ['substack']
+
+## Cosmic Column | Kai Christensen | Substack
+ - [https://mkaic.substack.com](https://mkaic.substack.com)
+ - date published: 2023-10-25T09:59:01.344820+00:00
+ - user: None
+ - tags: ['substack']
+
 ## Wrong ideas strongly held | mkBaio | Substack
  - [https://mkbaio.substack.com](https://mkbaio.substack.com)
  - date published: 2024-01-09T01:42:19.962326+00:00
@@ -5863,142 +6001,4 @@
  - date published: 2023-10-25T17:45:05.114856+00:00
  - user: None
  - tags: []
-
-## Touch Pianist - Magical Piano App
- - [https://touchpianist.com](https://touchpianist.com)
- - date published: 2023-10-25T08:35:08.517593+00:00
- - user: None
- - tags: []
-
-## tourmobile.com
- - [https://www.tourmobile.com](https://www.tourmobile.com)
- - date published: 2024-02-08T17:43:32.216272+00:00
- - user: None
- - tags: []
-
-## The Tournament of Books
- - [https://www.tournamentofbooks.com](https://www.tournamentofbooks.com)
- - date published: 2023-12-12T22:25:24.005775+00:00
- - user: None
- - tags: []
-
-## tovima.com - Breaking News, Analysis and Opinion from To Vima’s International Edition
- - [https://www.tovima.com](https://www.tovima.com)
- - date published: 2023-12-06T01:26:17.958785+00:00
- - user: None
- - tags: []
-
-## Towards Data Science
- - [https://towardsdatascience.com](https://towardsdatascience.com)
- - date published: 2023-10-25T17:45:08.870699+00:00
- - user: None
- - tags: []
-
-## Luxury Style, Travel, and Leisure - Town & Country Magazine
- - [https://www.townandcountrymag.com](https://www.townandcountrymag.com)
- - date published: 2023-10-25T17:45:12.913567+00:00
- - user: None
- - tags: []
-
-## TownFlex » latest entertainment news, breaking news, celebrity gossip, music
- - [https://townflex.com](https://townflex.com)
- - date published: 2023-10-25T17:45:16.808230+00:00
- - user: None
- - tags: []
-
-## Townhall :  Conservative News, Cartoons, Top Stories & Commentary
- - [https://townhall.com](https://townhall.com)
- - date published: 2023-10-25T17:45:24.004199+00:00
- - user: None
- - tags: []
-
-## Townsourced Tech Blog
- - [https://tech.townsourced.com](https://tech.townsourced.com)
- - date published: 2023-10-25T17:45:25.254459+00:00
- - user: None
- - tags: []
-
-## New Cars, Trucks, SUVs & Hybrids | Toyota Official Site
- - [https://www.toyota.com](https://www.toyota.com)
- - date published: 2023-11-01T09:01:55.012316+00:00
- - user: None
- - tags: ['company', 'car producer']
-
-## Wastewater & Water Treatment Plant Information and Products | Treatment Plant Operator
- - [https://www.tpomag.com](https://www.tpomag.com)
- - date published: 2024-01-24T20:56:39.204804+00:00
- - user: None
- - tags: []
-
-## Tracy Durnell
- - [https://tracydurnell.com](https://tracydurnell.com)
- - date published: 2023-10-25T08:48:10.913316+00:00
- - user: None
- - tags: ['personal']
-
-## Trader Joe's Prices
- - [https://traderjoesprices.com](https://traderjoesprices.com)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## TradeWinds | Latest shipping and maritime news
- - [https://www.tradewindsnews.com](https://www.tradewindsnews.com)
- - date published: 2023-11-09T07:16:51.924656+00:00
- - user: None
- - tags: ['news', 'logistics', 'maritime news']
-
-## https://www.tradientblog.com
- - [https://www.tradientblog.com](https://www.tradientblog.com)
- - date published: 2024-01-09T02:51:43.277125+00:00
- - user: None
- - tags: []
-
-## Echoes of Somewhere - Generative AI assisted experimental freeware 2.5D point and click adventure game research project
- - [https://www.traffickinggame.com](https://www.traffickinggame.com)
- - date published: 2023-10-25T17:45:30.023614+00:00
- - user: None
- - tags: []
-
-## Traffic Technology Today | Planning | Safety | Data Modeling | Smart Cities
- - [https://www.traffictechnologytoday.com](https://www.traffictechnologytoday.com)
- - date published: 2024-01-11T04:50:21.137124+00:00
- - user: None
- - tags: []
-
-## Homepage - Trailhead Technology Partners
- - [https://trailheadtechnology.com](https://trailheadtechnology.com)
- - date published: 2023-10-25T17:45:32.800756+00:00
- - user: None
- - tags: []
-
-## The bitsavers main page
- - [http://bitsavers.trailing-edge.com](http://bitsavers.trailing-edge.com)
- - date published: 2023-10-25T17:45:33.848628+00:00
- - user: None
- - tags: []
-
-## Trail of Bits Blog
- - [https://blog.trailofbits.com](https://blog.trailofbits.com)
- - date published: 2023-10-25T17:45:39.302092+00:00
- - user: None
- - tags: []
-
-## Trail Runners Club
- - [https://trailrunnersclub.com](https://trailrunnersclub.com)
- - date published: 2024-02-08T16:50:10.764018+00:00
- - user: None
- - tags: []
-
-## Home - Trains
- - [https://www.trains.com](https://www.trains.com)
- - date published: 2023-10-25T11:10:31.427688+00:00
- - user: None
- - tags: []
-
-## Traipsing About
- - [https://www.traipsingabout.com](https://www.traipsingabout.com)
- - date published: 2023-11-29T15:16:04.158104+00:00
- - user: None
- - tags: ['personal']
 
