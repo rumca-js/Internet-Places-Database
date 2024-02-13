@@ -1,3 +1,33 @@
+## Foreign Brief
+ - [https://foreignbrief.com](https://foreignbrief.com)
+ - date published: 2023-12-29T05:28:44.166117+00:00
+ - user: None
+ - tags: []
+
+## Foreign Policy – the Global Magazine of News and Ideas
+ - [https://foreignpolicy.com](https://foreignpolicy.com)
+ - date published: 2023-10-25T15:10:25.310637+00:00
+ - user: None
+ - tags: []
+
+## When it matters, say it on Forem — Forem
+ - [https://forem.com](https://forem.com)
+ - date published: 2023-10-25T08:32:55.266940+00:00
+ - user: None
+ - tags: []
+
+## News  | On the Scene and in the Lab - Forensic®
+ - [https://www.forensicmag.com](https://www.forensicmag.com)
+ - date published: 2023-10-25T15:10:28.071402+00:00
+ - user: None
+ - tags: []
+
+## Forensic Science Society
+ - [https://forensicsciencesociety.com](https://forensicsciencesociety.com)
+ - date published: 2023-10-28T17:32:29.161406+00:00
+ - user: None
+ - tags: ['crime', 'police']
+
 ## Forexlive | Forex News, Technical Analysis & Trading Tools
  - [https://www.forexlive.com](https://www.forexlive.com)
  - date published: 2023-12-15T21:52:32.167982+00:00
@@ -1646,6 +1676,12 @@
 ## CSS Scan - The fastest and easiest way to check and copy CSS
  - [https://getcssscan.com](https://getcssscan.com)
  - date published: 2023-10-25T14:43:24.639628+00:00
+ - user: None
+ - tags: []
+
+## The Analytics Engineering Roundup | Tristan Handy | Substack
+ - [https://roundup.getdbt.com](https://roundup.getdbt.com)
+ - date published: 2024-02-11T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4101,6 +4137,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## Career Advice | Jobs | Employment
+ - [https://www.harrisonbarnes.com](https://www.harrisonbarnes.com)
+ - date published: 2024-02-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Home · Harrison Broadbent
  - [https://harrisonbroadbent.com](https://harrisonbroadbent.com)
  - date published: 2023-12-29T20:11:33.212756+00:00
@@ -4441,7 +4483,7 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - [https://www.hellomerch.com](https://www.hellomerch.com)
  - date published: 2023-12-11T15:36:31.900497+00:00
  - user: None
- - tags: []
+ - tags: ['merchandise']
 
 ## Heyeyeyayay - What's Going On?!
  - [https://hemansings.com](https://hemansings.com)
@@ -5958,48 +6000,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Ignition Training LLC
  - [https://ignition-training.com](https://ignition-training.com)
  - date published: 2023-10-25T15:17:23.883056+00:00
- - user: None
- - tags: []
-
-## Igorrr
- - [https://igorrr.com](https://igorrr.com)
- - date published: 2023-11-13T10:24:01.592939+00:00
- - user: None
- - tags: ['music band']
-
-## Igregious
- - [http://www.igregious.com](http://www.igregious.com)
- - date published: 2023-10-25T15:17:26.579329+00:00
- - user: None
- - tags: []
-
-## Watch Free Online Documentaries
- - [https://ihavenotv.com](https://ihavenotv.com)
- - date published: 2024-01-15T23:31:41.045358+00:00
- - user: None
- - tags: []
-
-## https://ihavesomanyideas.com
- - [https://ihavesomanyideas.com](https://ihavesomanyideas.com)
- - date published: 2023-11-29T17:12:57.364392+00:00
- - user: None
- - tags: ['personal']
-
-## iiyama
- - [https://iiyama.com](https://iiyama.com)
- - date published: 2023-10-31T10:23:56.236970+00:00
- - user: None
- - tags: ['company']
-
-## Hej! Welcome to IKEA Global
- - [https://www.ikea.com](https://www.ikea.com)
- - date published: 2023-10-25T16:57:37.279823+00:00
- - user: None
- - tags: ['company', 'shop']
-
-## Ivan Kuznetsov – Medium
- - [https://medium.ikuznetsov.com](https://medium.ikuznetsov.com)
- - date published: 2023-10-25T15:17:30.266252+00:00
  - user: None
  - tags: []
 

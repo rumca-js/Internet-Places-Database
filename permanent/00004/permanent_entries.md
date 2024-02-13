@@ -1,3 +1,27 @@
+## Decathlon | Move people through the wonders of sport | Decathlon
+ - [https://www.decathlon.com](https://www.decathlon.com)
+ - date published: 2023-10-25T13:47:16.336867+00:00
+ - user: None
+ - tags: []
+
+## decaturdaily.com | The Independent Voice of the Tennessee Valley since 1912
+ - [https://www.decaturdaily.com](https://www.decaturdaily.com)
+ - date published: 2023-11-05T17:32:42.494420+00:00
+ - user: None
+ - tags: []
+
+## Latest News Today: Breaking News and Top Headlines from India, Politics, Bengaluru, Entertainment, Business and Sports
+ - [https://www.deccanherald.com](https://www.deccanherald.com)
+ - date published: 2023-10-25T13:47:18.731813+00:00
+ - user: None
+ - tags: []
+
+## Decider
+ - [https://decider.com](https://decider.com)
+ - date published: 2023-11-27T11:27:44+00:00
+ - user: rumpel
+ - tags: ['video streaming filter']
+
 ## Decipad — Make sense of numbers
  - [https://www.decipad.com](https://www.decipad.com)
  - date published: 2023-10-25T13:47:20.389396+00:00
@@ -1786,6 +1810,12 @@
  - date published: 2024-01-21T19:15:07.982155+00:00
  - user: None
  - tags: []
+
+## The Critical Drinker Shop
+ - [https://drinkershop.com](https://drinkershop.com)
+ - date published: 2024-02-12T18:56:48+00:00
+ - user: rumpel
+ - tags: ['youtuber', 'merchendise', 'merch store']
 
 ## Drink Less; Live Better – Sarah Williamson 1:1 Coaching Services
  - [https://drinklesslivebetter.com](https://drinklesslivebetter.com)
@@ -5968,34 +5998,4 @@
  - date published: 2023-10-25T15:10:16.234805+00:00
  - user: None
  - tags: []
-
-## Foreign Brief
- - [https://foreignbrief.com](https://foreignbrief.com)
- - date published: 2023-12-29T05:28:44.166117+00:00
- - user: None
- - tags: []
-
-## Foreign Policy – the Global Magazine of News and Ideas
- - [https://foreignpolicy.com](https://foreignpolicy.com)
- - date published: 2023-10-25T15:10:25.310637+00:00
- - user: None
- - tags: []
-
-## When it matters, say it on Forem — Forem
- - [https://forem.com](https://forem.com)
- - date published: 2023-10-25T08:32:55.266940+00:00
- - user: None
- - tags: []
-
-## News  | On the Scene and in the Lab - Forensic®
- - [https://www.forensicmag.com](https://www.forensicmag.com)
- - date published: 2023-10-25T15:10:28.071402+00:00
- - user: None
- - tags: []
-
-## Forensic Science Society
- - [https://forensicsciencesociety.com](https://forensicsciencesociety.com)
- - date published: 2023-10-28T17:32:29.161406+00:00
- - user: None
- - tags: ['crime', 'police']
 

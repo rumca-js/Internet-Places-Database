@@ -1,3 +1,45 @@
+## Learn X in Y Minutes: Scenic Programming Language Tours
+ - [https://learnxinyminutes.com](https://learnxinyminutes.com)
+ - date published: 2023-10-25T15:44:16.698078+00:00
+ - user: None
+ - tags: []
+
+## Lectronz
+ - [https://lectronz.com](https://lectronz.com)
+ - date published: 2023-10-25T15:44:18.811085+00:00
+ - user: None
+ - tags: []
+
+## Ledger Labs
+ - [https://blog.ledger.com](https://blog.ledger.com)
+ - date published: 2023-10-25T15:44:20.094476+00:00
+ - user: None
+ - tags: []
+
+## Ledger - Home of the first and only certified Hardware wallets | Ledger
+ - [https://shop.ledger.com](https://shop.ledger.com)
+ - date published: 2023-10-25T15:44:25.359911+00:00
+ - user: None
+ - tags: []
+
+## Hardware Wallet & Cold Wallet - Security for Crypto | Ledger
+ - [https://www.ledger.com](https://www.ledger.com)
+ - date published: 2023-11-15T11:58:20.402642+00:00
+ - user: None
+ - tags: []
+
+## Led Zeppelin | Official Website Official Website
+ - [https://www.ledzeppelin.com](https://www.ledzeppelin.com)
+ - date published: 2023-11-13T11:08:15.197735+00:00
+ - user: None
+ - tags: ['music band']
+
+## Little Short Bulletins | Likely Some Balderdash
+ - [https://www.leebutterman.com](https://www.leebutterman.com)
+ - date published: 2023-10-25T15:44:26.549554+00:00
+ - user: None
+ - tags: []
+
 ## Lee Byron
  - [https://leebyron.com](https://leebyron.com)
  - date published: 2023-10-25T15:44:27.988608+00:00
@@ -2206,6 +2248,12 @@ diversions.
  - date published: 2023-10-25T15:55:21.301915+00:00
  - user: None
  - tags: []
+
+## Mantic Games
+ - [https://www.manticgames.com](https://www.manticgames.com)
+ - date published: 2024-02-07T00:00:00+00:00
+ - user: rumpel
+ - tags: ['deadzone', 'warhammer', 'miniatures', 'firefight', 'tabletop game producer', 'armada', 'kings of war', 'wargames']
 
 ## Manticore Search
  - [https://manticoresearch.com](https://manticoresearch.com)
@@ -5952,52 +6000,4 @@ diversions.
  - date published: 2023-12-17T20:59:14.047846+00:00
  - user: None
  - tags: ['personal']
-
-## George Monbiot
- - [https://www.monbiot.com](https://www.monbiot.com)
- - date published: 2023-10-28T15:38:01.543527+00:00
- - user: None
- - tags: []
-
-## Monday Note
- - [https://mondaynote.com](https://mondaynote.com)
- - date published: 2023-10-25T16:06:02.801355+00:00
- - user: None
- - tags: []
-
-## Money: Create Richer Lives for Everyone | Money
- - [https://money.com](https://money.com)
- - date published: 2023-10-25T10:52:33.649820+00:00
- - user: None
- - tags: []
-
-## Login Consent - Moneycontrol
- - [https://www.moneycontrol.com](https://www.moneycontrol.com)
- - date published: 2023-10-25T16:06:05.568468+00:00
- - user: None
- - tags: []
-
-## Home | Meaningful Money | Meaning/Purpose Financial Psychology
- - [https://www.moneyhealthsolutions.com](https://www.moneyhealthsolutions.com)
- - date published: 2023-12-15T21:45:04.521840+00:00
- - user: None
- - tags: ['personal']
-
-## Money Inc - The Business of Money
- - [https://moneyinc.com](https://moneyinc.com)
- - date published: 2023-10-25T16:06:09.228395+00:00
- - user: None
- - tags: []
-
-## Moneylogue.com
- - [https://www.moneylogue.com](https://www.moneylogue.com)
- - date published: 2024-01-09T08:54:56.677475+00:00
- - user: None
- - tags: []
-
-## Game Room Equipment, Parts and Accessories
- - [https://www.moneymachines.com](https://www.moneymachines.com)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
 

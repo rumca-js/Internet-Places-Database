@@ -1282,11 +1282,11 @@
  - user: None
  - tags: []
 
-## www.atarimagazines.com: Error 403: Access Forbidden
+## Classic Computer Magazine Archive
  - [https://www.atarimagazines.com](https://www.atarimagazines.com)
- - date published: 2023-11-02T09:37:23.602518+00:00
- - user: None
- - tags: ['commodore', 'magazine', 'amiga']
+ - date published: 2023-11-02T09:37:23+00:00
+ - user: rumpel
+ - tags: ['amiga', 'commodore', 'magazine', 'retro gaming']
 
 ## The World's Finest Atari Database : games, demos, utilities for 2600, 5200, 400, 800, xl, xe, st and falcon
  - [http://www.atarimania.com](http://www.atarimania.com)
@@ -2559,6 +2559,12 @@
  - date published: 2023-12-06T08:01:34+00:00
  - user: rumpel
  - tags: ['virtual reality', 'vr', 'video game']
+
+## Beau Stucki
+ - [https://www.beaustucki.com](https://www.beaustucki.com)
+ - date published: 2024-02-12T07:50:02.759444+00:00
+ - user: None
+ - tags: []
 
 ## Beautiful Public Data
  - [https://www.beautifulpublicdata.com](https://www.beautifulpublicdata.com)
@@ -4159,6 +4165,12 @@
 ## Diary of a Devman
  - [https://doadm-notes.blogspot.com](https://doadm-notes.blogspot.com)
  - date published: 2023-10-25T13:05:19.829141+00:00
+ - user: None
+ - tags: []
+
+## Donald Clark       Plan B
+ - [https://donaldclarkplanb.blogspot.com](https://donaldclarkplanb.blogspot.com)
+ - date published: 2024-02-12T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5991,18 +6003,6 @@
 ## BryceWray.com
  - [https://www.brycewray.com](https://www.brycewray.com)
  - date published: 2023-10-25T13:14:12.806971+00:00
- - user: None
- - tags: []
-
-## About Me · Igor Bubelov
- - [https://bubelov.com](https://bubelov.com)
- - date published: 2023-10-25T13:14:21.566034+00:00
- - user: None
- - tags: []
-
-## Home - The Bucks County Herald
- - [https://buckscountyherald.com](https://buckscountyherald.com)
- - date published: 2023-11-14T23:58:04.625845+00:00
  - user: None
  - tags: []
 
