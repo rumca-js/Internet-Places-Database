@@ -1,3 +1,57 @@
+## Food Ingredients & Food Science - Additives, Flavours, Starch
+ - [https://www.foodnavigator.com](https://www.foodnavigator.com)
+ - date published: 2023-10-25T14:34:28.393944+00:00
+ - user: None
+ - tags: []
+
+## Delicious Healthy Snack Food | Food to Live
+ - [https://foodtolive.com](https://foodtolive.com)
+ - date published: 2023-10-25T15:10:04.963182+00:00
+ - user: None
+ - tags: []
+
+## Forbes
+ - [https://www.forbes.com](https://www.forbes.com)
+ - date published: 2023-10-25T10:26:08.645541+00:00
+ - user: None
+ - tags: []
+
+## Forbes Africa
+ - [https://www.forbesafrica.com](https://www.forbesafrica.com)
+ - date published: 2023-10-25T10:26:21.517830+00:00
+ - user: None
+ - tags: []
+
+## Forbes India | Leadership, Innovation, Billionaires, Startups, India's richest people, Business news
+ - [https://www.forbesindia.com](https://www.forbesindia.com)
+ - date published: 2023-11-28T20:17:02+00:00
+ - user: rumpel
+ - tags: ['journalism', 'news']
+
+## For Better Science
+ - [https://forbetterscience.com](https://forbetterscience.com)
+ - date published: 2024-01-23T04:29:15.641193+00:00
+ - user: None
+ - tags: []
+
+## Home | Ford of Europe | Ford Media Center
+ - [https://media.ford.com](https://media.ford.com)
+ - date published: 2023-10-25T15:10:06.084869+00:00
+ - user: None
+ - tags: []
+
+## Ford® - New Hybrid & Electric Vehicles, SUVs, Crossovers, Trucks, Vans & Cars
+ - [https://www.ford.com](https://www.ford.com)
+ - date published: 2023-11-01T08:42:08.838585+00:00
+ - user: None
+ - tags: []
+
+## Foreign Affairs Magazine
+ - [https://www.foreignaffairs.com](https://www.foreignaffairs.com)
+ - date published: 2023-10-25T15:10:16.234805+00:00
+ - user: None
+ - tags: []
+
 ## Foreign Brief
  - [https://foreignbrief.com](https://foreignbrief.com)
  - date published: 2023-12-29T05:28:44.166117+00:00
@@ -1984,6 +2038,18 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - [https://girlswhohack.com](https://girlswhohack.com)
  - date published: 2024-01-22T09:45:12+00:00
  - user: rumpel
+ - tags: []
+
+## GitButler
+ - [https://blog.gitbutler.com](https://blog.gitbutler.com)
+ - date published: 2024-02-13T17:41:10.721864+00:00
+ - user: None
+ - tags: []
+
+## GitButler | Git Branching, Refined
+ - [https://gitbutler.com](https://gitbutler.com)
+ - date published: 2024-02-13T17:40:46.878154+00:00
+ - user: None
  - tags: []
 
 ## The first Developer-Friendly Analytics tool - GitClear
@@ -5934,72 +6000,6 @@ Compilers, IDE tools, Debuggers - Green Hills Software
 ## Why Not Mars (Idle Words)
  - [https://idlewords.com](https://idlewords.com)
  - date published: 2023-10-25T15:17:08.885229+00:00
- - user: None
- - tags: []
-
-## Application Security
- - [https://www.idontplaydarts.com](https://www.idontplaydarts.com)
- - date published: 2024-01-09T02:39:13.178327+00:00
- - user: None
- - tags: []
-
-## I’d Rather Be Writing blog
- - [https://idratherbewriting.com](https://idratherbewriting.com)
- - date published: 2023-11-22T19:43:41.480996+00:00
- - user: None
- - tags: []
-
-## id Software
- - [https://www.idsoftware.com](https://www.idsoftware.com)
- - date published: 2023-10-25T13:39:21.331862+00:00
- - user: None
- - tags: ['quake', 'wolfenstein', 'doom']
-
-## The comp.compilers newsgroup
- - [https://compilers.iecc.com](https://compilers.iecc.com)
- - date published: 2023-12-26T19:22:44.131429+00:00
- - user: None
- - tags: []
-
-## iFixit: The Free Repair Manual
- - [https://www.ifixit.com](https://www.ifixit.com)
- - date published: 2023-10-25T15:17:14.239400+00:00
- - user: None
- - tags: []
-
-## The Lighter Side of Science | IFLScience
- - [https://www.iflscience.com](https://www.iflscience.com)
- - date published: 2023-10-25T10:10:17.143653+00:00
- - user: None
- - tags: []
-
-## If This Be Treason
- - [https://ifthisbetreason.com](https://ifthisbetreason.com)
- - date published: 2024-01-09T02:39:21.575222+00:00
- - user: None
- - tags: []
-
-## None
- - [https://ifyouhatephp.com](https://ifyouhatephp.com)
- - date published: 2024-01-09T02:39:30.559811+00:00
- - user: None
- - tags: []
-
-## Igalia - Open Source Consultancy and Development
- - [https://www.igalia.com](https://www.igalia.com)
- - date published: 2023-10-25T15:17:22.424019+00:00
- - user: None
- - tags: []
-
-## IGN Polska
- - [https://www.ign.com](https://www.ign.com)
- - date published: 2023-10-25T10:49:03.237738+00:00
- - user: None
- - tags: ['video games']
-
-## Ignition Training LLC
- - [https://ignition-training.com](https://ignition-training.com)
- - date published: 2023-10-25T15:17:23.883056+00:00
  - user: None
  - tags: []
 

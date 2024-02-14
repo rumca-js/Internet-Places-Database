@@ -1,3 +1,147 @@
+## Paul W. Rankin
+ - [https://paulrankin.wordpress.com](https://paulrankin.wordpress.com)
+ - date published: 2024-02-08T16:57:53.153788+00:00
+ - user: None
+ - tags: []
+
+## Pete Morin
+ - [https://petemorin.wordpress.com](https://petemorin.wordpress.com)
+ - date published: 2024-01-30T19:31:10.858778+00:00
+ - user: None
+ - tags: []
+
+## Pawlicker's Pleroma Experiment Blog
+ - [https://pleromanonx86.wordpress.com](https://pleromanonx86.wordpress.com)
+ - date published: 2023-11-23T05:04:00.178360+00:00
+ - user: None
+ - tags: []
+
+## Polskie Muzeum Cyfrowe
+ - [https://polskiemc.wordpress.com](https://polskiemc.wordpress.com)
+ - date published: 2024-01-17T10:16:31+00:00
+ - user: rumpel
+ - tags: ['internet archive']
+
+## Pratt Courses
+ - [https://prattcourses.wordpress.com](https://prattcourses.wordpress.com)
+ - date published: 2024-02-08T16:35:17.664852+00:00
+ - user: None
+ - tags: []
+
+## PRDeving – typeof  FUN
+ - [https://prdeving.wordpress.com](https://prdeving.wordpress.com)
+ - date published: 2023-10-25T18:14:52.804446+00:00
+ - user: None
+ - tags: []
+
+## Protons for Breakfast
+ - [https://protonsforbreakfast.wordpress.com](https://protonsforbreakfast.wordpress.com)
+ - date published: 2023-10-25T18:15:13.262892+00:00
+ - user: None
+ - tags: []
+
+## REST API Resources
+ - [https://public-api.wordpress.com](https://public-api.wordpress.com)
+ - date published: 2023-12-11T16:36:56.191259+00:00
+ - user: None
+ - tags: []
+
+## Queendom Blog | Insight at your fingertips – www.queendom.com
+ - [https://queendomblog.wordpress.com](https://queendomblog.wordpress.com)
+ - date published: 2023-10-25T18:15:26.032988+00:00
+ - user: None
+ - tags: []
+
+## Quick. Concept.
+ - [https://quickconcept.wordpress.com](https://quickconcept.wordpress.com)
+ - date published: 2024-01-12T10:32:14.301346+00:00
+ - user: None
+ - tags: []
+
+## Private Site
+ - [https://r-login.wordpress.com](https://r-login.wordpress.com)
+ - date published: 2023-12-11T16:34:27.567200+00:00
+ - user: None
+ - tags: []
+
+## (no title)
+ - [https://racheldominica.wordpress.com](https://racheldominica.wordpress.com)
+ - date published: 2024-02-08T16:49:44.688152+00:00
+ - user: None
+ - tags: []
+
+## Rachel Spangler
+ - [https://rachelspangler.wordpress.com](https://rachelspangler.wordpress.com)
+ - date published: 2024-02-08T22:01:50.995260+00:00
+ - user: None
+ - tags: []
+
+## Rafał Cieślak's blog
+ - [https://rafalcieslak.wordpress.com](https://rafalcieslak.wordpress.com)
+ - date published: 2023-10-25T18:15:34.497692+00:00
+ - user: None
+ - tags: []
+
+## RAF Meteorology Man – Roy Cook ~ Former Weatherman of Sark
+ - [https://rafmetman.wordpress.com](https://rafmetman.wordpress.com)
+ - date published: 2023-10-25T18:15:38.538826+00:00
+ - user: None
+ - tags: []
+
+## Rare & Old Computers
+ - [https://randoc.wordpress.com](https://randoc.wordpress.com)
+ - date published: 2024-01-11T00:05:52.139920+00:00
+ - user: None
+ - tags: []
+
+## Random ASCII – tech blog of Bruce Dawson | Forecast for randomascii: programming, tech topics, with a chance of unicycling
+ - [https://randomascii.wordpress.com](https://randomascii.wordpress.com)
+ - date published: 2023-10-25T18:15:46.058749+00:00
+ - user: None
+ - tags: []
+
+## Rascality: Speeches to its Cultured Despisers
+ - [https://raskality.wordpress.com](https://raskality.wordpress.com)
+ - date published: 2023-10-25T18:15:57.058312+00:00
+ - user: None
+ - tags: []
+
+## The Reinvigorated Programmer
+ - [https://reprog.wordpress.com](https://reprog.wordpress.com)
+ - date published: 2024-01-04T05:09:13.524593+00:00
+ - user: None
+ - tags: []
+
+## r. pihlgren's blog
+ - [https://rpihlgrenblog.wordpress.com](https://rpihlgrenblog.wordpress.com)
+ - date published: 2023-11-29T15:46:56.730529+00:00
+ - user: None
+ - tags: ['personal']
+
+## Richard WM Jones | Virtualization, tools and tips
+ - [https://rwmj.wordpress.com](https://rwmj.wordpress.com)
+ - date published: 2023-10-25T18:16:01.907056+00:00
+ - user: None
+ - tags: []
+
+## Scali's OpenBlog™ | Programming, graphics, hardware, maths, and that sort of thing
+ - [https://scalibq.wordpress.com](https://scalibq.wordpress.com)
+ - date published: 2023-10-25T18:16:15.830405+00:00
+ - user: None
+ - tags: []
+
+## Science-Based Life | Add a Little Reason to Your Day
+ - [https://sciencebasedlife.wordpress.com](https://sciencebasedlife.wordpress.com)
+ - date published: 2023-10-25T18:16:20.995703+00:00
+ - user: None
+ - tags: []
+
+## Locklin on science | In which I explain things interesting, remarkable or silly.
+ - [https://scottlocklin.wordpress.com](https://scottlocklin.wordpress.com)
+ - date published: 2023-10-25T18:16:32.413497+00:00
+ - user: None
+ - tags: []
+
 ## The Go Farther Project
  - [https://scottsambucci.wordpress.com](https://scottsambucci.wordpress.com)
  - date published: 2023-12-11T10:57:08.269984+00:00
@@ -1576,6 +1720,12 @@
  - date published: 2023-10-25T18:24:52.923632+00:00
  - user: None
  - tags: []
+
+## Zeldman on Web and Interaction Design
+ - [https://www.zeldman.com](https://www.zeldman.com)
+ - date published: 2024-02-13T17:35:29.342852+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Lynn Haraldson, Author and Writing Mentor
  - [https://zenbaglady.com](https://zenbaglady.com)
@@ -5852,157 +6002,6 @@ Heinsohn
 ## https://www.privatemarket.dev
  - [https://www.privatemarket.dev](https://www.privatemarket.dev)
  - date published: 2024-01-09T02:57:31.384269+00:00
- - user: None
- - tags: []
-
-## PrivSec - A practical approach to Privacy and Security
- - [https://privsec.dev](https://privsec.dev)
- - date published: 2023-10-25T18:40:49.926726+00:00
- - user: None
- - tags: []
-
-## React Job Simulator by Profy.dev
- - [https://profy.dev](https://profy.dev)
- - date published: 2023-10-25T18:40:51.947206+00:00
- - user: None
- - tags: []
-
-## programming.dev - A collection of programming communities
- - [https://programming.dev](https://programming.dev)
- - date published: 2023-10-25T18:40:53.820318+00:00
- - user: None
- - tags: []
-
-## Home |
- - [https://pulsar-edit.dev](https://pulsar-edit.dev)
- - date published: 2023-10-25T18:41:00.178641+00:00
- - user: None
- - tags: []
-
-## Welcome to Pydantic - Pydantic
- - [https://docs.pydantic.dev](https://docs.pydantic.dev)
- - date published: 2023-10-25T18:41:02.319299+00:00
- - user: None
- - tags: []
-
-## Pydantic
- - [https://pydantic.dev](https://pydantic.dev)
- - date published: 2024-01-09T00:00:00+00:00
- - user: rumpel
- - tags: ['online validation', 'online tool']
-
-## Chris James - Learn Go with Tests reaches 20k stars
- - [https://quii.dev](https://quii.dev)
- - date published: 2023-10-25T18:41:02.923807+00:00
- - user: None
- - tags: []
-
-## https://blog.qwertyforce.dev
- - [https://blog.qwertyforce.dev](https://blog.qwertyforce.dev)
- - date published: 2024-01-09T02:57:33.591668+00:00
- - user: None
- - tags: []
-
-## Semgrep — Find bugs and enforce code standards
- - [https://r2c.dev](https://r2c.dev)
- - date published: 2023-10-25T18:41:07.216345+00:00
- - user: None
- - tags: []
-
-## Roni Äikäs
- - [https://raikas.dev](https://raikas.dev)
- - date published: 2024-01-12T10:32:49.573822+00:00
- - user: None
- - tags: []
-
-## Justin's personal site
- - [https://randomshit.dev](https://randomshit.dev)
- - date published: 2023-10-25T18:41:11.166727+00:00
- - user: None
- - tags: []
-
-## Rasbora.dev
- - [https://rasbora.dev](https://rasbora.dev)
- - date published: 2023-10-25T08:48:56.751019+00:00
- - user: None
- - tags: ['personal']
-
-## Ryan's Dev Blog
- - [https://rbates.dev](https://rbates.dev)
- - date published: 2023-10-25T08:58:48.184268+00:00
- - user: None
- - tags: ['personal']
-
-## React
- - [https://react.dev](https://react.dev)
- - date published: 2023-10-25T18:41:12.872406+00:00
- - user: None
- - tags: []
-
-## refine | Build your React-based CRUD applications, without constraints! | refine
- - [https://refine.dev](https://refine.dev)
- - date published: 2023-10-25T18:41:19.334120+00:00
- - user: None
- - tags: []
-
-## Remotion | Make videos programmatically in React
- - [https://www.remotion.dev](https://www.remotion.dev)
- - date published: 2023-12-01T16:42:33.542293+00:00
- - user: None
- - tags: []
-
-## SDXL – A settings guide by Replicate
- - [https://sdxl.replicate.dev](https://sdxl.replicate.dev)
- - date published: 2023-10-25T18:41:20.011892+00:00
- - user: None
- - tags: []
-
-## Restate
- - [https://restate.dev](https://restate.dev)
- - date published: 2024-02-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Restfox
- - [https://restfox.dev](https://restfox.dev)
- - date published: 2023-10-25T18:41:21.360876+00:00
- - user: None
- - tags: []
-
-## reyem.dev blog
- - [https://blog.reyem.dev](https://blog.reyem.dev)
- - date published: 2023-10-25T08:58:49.186324+00:00
- - user: None
- - tags: ['personal']
-
-## Richard Taylor
-     · Richard Taylor
- - [https://www.richardtaylor.dev](https://www.richardtaylor.dev)
- - date published: 2023-10-25T18:41:22.096940+00:00
- - user: None
- - tags: []
-
-## Rida F'kih — Developer & Designer
- - [https://www.rida.dev](https://www.rida.dev)
- - date published: 2023-10-25T08:48:57.534022+00:00
- - user: None
- - tags: ['personal']
-
-## River Phillips
- - [https://www.riverphillips.dev](https://www.riverphillips.dev)
- - date published: 2023-11-07T19:56:32.446810+00:00
- - user: None
- - tags: []
-
-## rmkit
- - [https://rmkit.dev](https://rmkit.dev)
- - date published: 2023-10-25T18:41:23.340976+00:00
- - user: None
- - tags: []
-
-## Rocicorp, LLC
- - [https://rocicorp.dev](https://rocicorp.dev)
- - date published: 2023-10-27T11:57:00.995943+00:00
  - user: None
  - tags: []
 

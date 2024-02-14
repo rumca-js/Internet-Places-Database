@@ -2662,6 +2662,12 @@
  - user: None
  - tags: []
 
+## Mervi Eskelinen | Artist, illustrator and content creator
+ - [https://mervi.art](https://mervi.art)
+ - date published: 2024-02-13T18:07:49.947136+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Art, technology, and NFTs - Outland
  - [https://outland.art](https://outland.art)
  - date published: 2023-10-25T11:52:36.812240+00:00
@@ -3835,6 +3841,12 @@
 ## Borislav Stanimirov
  - [https://ibob.bg](https://ibob.bg)
  - date published: 2023-10-25T09:01:22.391586+00:00
+ - user: None
+ - tags: ['personal']
+
+## tourist wannabe
+ - [https://rado.bg](https://rado.bg)
+ - date published: 2024-02-13T17:36:00.453841+00:00
  - user: None
  - tags: ['personal']
 
@@ -5984,18 +5996,6 @@
 ## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
  - [https://wingfelder.ca](https://wingfelder.ca)
  - date published: 2024-01-11T13:28:46.842673+00:00
- - user: None
- - tags: []
-
-## Women of Influence –
- - [https://www.womenofinfluence.ca](https://www.womenofinfluence.ca)
- - date published: 2023-10-25T12:09:32.572588+00:00
- - user: None
- - tags: []
-
-## wozniak.ca
- - [https://wozniak.ca](https://wozniak.ca)
- - date published: 2024-01-03T04:13:05.405674+00:00
  - user: None
  - tags: []
 

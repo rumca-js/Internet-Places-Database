@@ -1,3 +1,69 @@
+## Application Security
+ - [https://www.idontplaydarts.com](https://www.idontplaydarts.com)
+ - date published: 2024-01-09T02:39:13.178327+00:00
+ - user: None
+ - tags: []
+
+## I’d Rather Be Writing blog
+ - [https://idratherbewriting.com](https://idratherbewriting.com)
+ - date published: 2023-11-22T19:43:41.480996+00:00
+ - user: None
+ - tags: []
+
+## id Software
+ - [https://www.idsoftware.com](https://www.idsoftware.com)
+ - date published: 2023-10-25T13:39:21.331862+00:00
+ - user: None
+ - tags: ['quake', 'wolfenstein', 'doom']
+
+## The comp.compilers newsgroup
+ - [https://compilers.iecc.com](https://compilers.iecc.com)
+ - date published: 2023-12-26T19:22:44.131429+00:00
+ - user: None
+ - tags: []
+
+## iFixit: The Free Repair Manual
+ - [https://www.ifixit.com](https://www.ifixit.com)
+ - date published: 2023-10-25T15:17:14.239400+00:00
+ - user: None
+ - tags: []
+
+## The Lighter Side of Science | IFLScience
+ - [https://www.iflscience.com](https://www.iflscience.com)
+ - date published: 2023-10-25T10:10:17.143653+00:00
+ - user: None
+ - tags: []
+
+## If This Be Treason
+ - [https://ifthisbetreason.com](https://ifthisbetreason.com)
+ - date published: 2024-01-09T02:39:21.575222+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://ifyouhatephp.com](https://ifyouhatephp.com)
+ - date published: 2024-01-09T02:39:30.559811+00:00
+ - user: None
+ - tags: []
+
+## Igalia - Open Source Consultancy and Development
+ - [https://www.igalia.com](https://www.igalia.com)
+ - date published: 2023-10-25T15:17:22.424019+00:00
+ - user: None
+ - tags: []
+
+## IGN Polska
+ - [https://www.ign.com](https://www.ign.com)
+ - date published: 2023-10-25T10:49:03.237738+00:00
+ - user: None
+ - tags: ['video games']
+
+## Ignition Training LLC
+ - [https://ignition-training.com](https://ignition-training.com)
+ - date published: 2023-10-25T15:17:23.883056+00:00
+ - user: None
+ - tags: []
+
 ## Igorrr
  - [https://igorrr.com](https://igorrr.com)
  - date published: 2023-11-13T10:24:01.592939+00:00
@@ -2998,6 +3064,12 @@
  - user: None
  - tags: []
 
+## DeleteMe International | Where Privacy Starts
+ - [https://international.joindeleteme.com](https://international.joindeleteme.com)
+ - date published: 2024-02-13T17:54:16.872741+00:00
+ - user: None
+ - tags: []
+
 ## Your Privacy is our Business
  - [http://joindeleteme.com](http://joindeleteme.com)
  - date published: 2022-12-23T16:20:20+00:00
@@ -3747,6 +3819,12 @@
  - date published: 2023-12-02T16:30:43.333149+00:00
  - user: None
  - tags: []
+
+## jwjacobs.com | Front-End Web Designer
+ - [https://jwjacobs.com](https://jwjacobs.com)
+ - date published: 2024-02-13T17:35:54.225452+00:00
+ - user: None
+ - tags: ['personal']
 
 ## JyriAnd Blog
  - [https://jyriand.com](https://jyriand.com)
@@ -5393,6 +5471,12 @@
  - user: None
  - tags: []
 
+## Kyle Thomas Hemingway
+ - [https://kylehemingway.com](https://kylehemingway.com)
+ - date published: 2024-02-13T18:12:02.634694+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Kyle Sexton // ChamberThink Strategies
  - [https://www.kylesexton.com](https://www.kylesexton.com)
  - date published: 2023-12-10T17:00:32.232505+00:00
@@ -5913,90 +5997,6 @@ Chamber Music, Symphony
 ## We Are WebAssembly Experts | Leaning Technologies
  - [https://leaningtech.com](https://leaningtech.com)
  - date published: 2023-10-25T15:43:41.678164+00:00
- - user: None
- - tags: []
-
-## Leanne Hughes
- - [https://www.leannehughes.com](https://www.leannehughes.com)
- - date published: 2023-12-05T14:36:52.780515+00:00
- - user: None
- - tags: ['personal']
-
-## Leanpub: Publish Early, Publish Often
- - [https://leanpub.com](https://leanpub.com)
- - date published: 2023-12-11T19:00:55.011813+00:00
- - user: None
- - tags: []
-
-## LeapSecond Home Page
- - [http://leapsecond.com](http://leapsecond.com)
- - date published: 2023-10-25T15:43:48.984506+00:00
- - user: None
- - tags: []
-
-## LeapSecond Home Page
- - [http://www.leapsecond.com](http://www.leapsecond.com)
- - date published: 2023-10-25T15:43:50.814570+00:00
- - user: None
- - tags: []
-
-## App Builder: No-Code App Maker to Build Apps | Free Trial
- - [https://learnappmaking.com](https://learnappmaking.com)
- - date published: 2023-12-21T08:23:02.881170+00:00
- - user: None
- - tags: ['personal']
-
-## Learn C++ – Skill up with our free tutorials
- - [https://www.learncpp.com](https://www.learncpp.com)
- - date published: 2023-10-25T15:43:56.323518+00:00
- - user: None
- - tags: []
-
-## Learn and Test DMARC
- - [https://www.learndmarc.com](https://www.learndmarc.com)
- - date published: 2023-10-25T15:43:57.010265+00:00
- - user: None
- - tags: []
-
-## Prepare for your JavaScript Interview - Covering all the rounds
- - [https://learnersbucket.com](https://learnersbucket.com)
- - date published: 2023-12-23T19:27:19.268649+00:00
- - user: None
- - tags: ['personal']
-
-## AI-Powered AI News | Emergent Mind
- - [https://www.learngpt.com](https://www.learngpt.com)
- - date published: 2023-10-25T15:44:04.488107+00:00
- - user: None
- - tags: []
-
-## Hardcore Software by Steven Sinofsky | Substack
- - [https://hardcoresoftware.learningbyshipping.com](https://hardcoresoftware.learningbyshipping.com)
- - date published: 2023-10-25T15:44:07.575535+00:00
- - user: None
- - tags: []
-
-## Learning to Cook Food
- - [https://www.learningtocookfood.com](https://www.learningtocookfood.com)
- - date published: 2023-12-20T21:30:27.994041+00:00
- - user: None
- - tags: ['personal', 'personal']
-
-## Learn Code the Hard Way
- - [https://learnjsthehardway.com](https://learnjsthehardway.com)
- - date published: 2023-10-25T15:44:09.394971+00:00
- - user: None
- - tags: []
-
-## Learn Modern C++
- - [https://learnmoderncpp.com](https://learnmoderncpp.com)
- - date published: 2023-12-26T08:18:03+00:00
- - user: None
- - tags: []
-
-## Learn TLA+ — Learn TLA+
- - [https://learntla.com](https://learntla.com)
- - date published: 2023-10-25T15:44:15.064986+00:00
  - user: None
  - tags: []
 

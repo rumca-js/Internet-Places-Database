@@ -1,3 +1,45 @@
+## Dear Producer - Amplifying the Voices of Producers
+ - [https://dearproducer.com](https://dearproducer.com)
+ - date published: 2023-10-25T13:46:48.900755+00:00
+ - user: None
+ - tags: []
+
+## Death by AI
+ - [https://deathbyai.com](https://deathbyai.com)
+ - date published: 2023-10-25T13:46:58.127418+00:00
+ - user: None
+ - tags: []
+
+## https://www.debate-devil.com
+ - [https://www.debate-devil.com](https://www.debate-devil.com)
+ - date published: 2024-01-09T02:34:11.195175+00:00
+ - user: None
+ - tags: []
+
+## All posts | Archy de Berker
+ - [https://archy.deberker.com](https://archy.deberker.com)
+ - date published: 2023-10-25T13:47:02.854781+00:00
+ - user: None
+ - tags: []
+
+## Deborah Peacock Photography - Home
+ - [https://www.deborahpeacock.com](https://www.deborahpeacock.com)
+ - date published: 2024-01-13T04:52:40.631780+00:00
+ - user: None
+ - tags: []
+
+## Deborah Zhang
+ - [https://deborahzhang.com](https://deborahzhang.com)
+ - date published: 2024-01-09T01:38:17.640286+00:00
+ - user: None
+ - tags: []
+
+## Java, Debugging, DevOps & Open Source
+ - [https://debugagent.com](https://debugagent.com)
+ - date published: 2023-10-25T13:47:06.814636+00:00
+ - user: None
+ - tags: []
+
 ## Decathlon | Move people through the wonders of sport | Decathlon
  - [https://www.decathlon.com](https://www.decathlon.com)
  - date published: 2023-10-25T13:47:16.336867+00:00
@@ -1781,6 +1823,12 @@
  - user: None
  - tags: []
 
+## Drew Gooden Official Store
+ - [https://www.drewgoodenshop.com](https://www.drewgoodenshop.com)
+ - date published: 2024-02-13T21:31:47+00:00
+ - user: rumpel
+ - tags: ['youtuber', 'merch store']
+
 ## Drew's Review | Helping You Start & Grow Your Online Business
  - [https://drews-review.com](https://drews-review.com)
  - date published: 2023-11-29T13:54:19.354888+00:00
@@ -1917,6 +1965,12 @@
  - [https://www.dropboxforum.com](https://www.dropboxforum.com)
  - date published: 2023-10-25T08:25:52.806214+00:00
  - user: None
+ - tags: []
+
+## Drop Tables, inc.
+ - [https://droptables.com](https://droptables.com)
+ - date published: 2024-02-13T17:57:28+00:00
+ - user: rumpel
  - tags: []
 
 ## Dror Poleg — Official Website
@@ -5942,60 +5996,6 @@
 ## https://www.foodlogistics.com
  - [https://www.foodlogistics.com](https://www.foodlogistics.com)
  - date published: 2023-11-06T12:50:59.714989+00:00
- - user: None
- - tags: []
-
-## Food Ingredients & Food Science - Additives, Flavours, Starch
- - [https://www.foodnavigator.com](https://www.foodnavigator.com)
- - date published: 2023-10-25T14:34:28.393944+00:00
- - user: None
- - tags: []
-
-## Delicious Healthy Snack Food | Food to Live
- - [https://foodtolive.com](https://foodtolive.com)
- - date published: 2023-10-25T15:10:04.963182+00:00
- - user: None
- - tags: []
-
-## Forbes
- - [https://www.forbes.com](https://www.forbes.com)
- - date published: 2023-10-25T10:26:08.645541+00:00
- - user: None
- - tags: []
-
-## Forbes Africa
- - [https://www.forbesafrica.com](https://www.forbesafrica.com)
- - date published: 2023-10-25T10:26:21.517830+00:00
- - user: None
- - tags: []
-
-## Forbes India | Leadership, Innovation, Billionaires, Startups, India's richest people, Business news
- - [https://www.forbesindia.com](https://www.forbesindia.com)
- - date published: 2023-11-28T20:17:02+00:00
- - user: rumpel
- - tags: ['journalism', 'news']
-
-## For Better Science
- - [https://forbetterscience.com](https://forbetterscience.com)
- - date published: 2024-01-23T04:29:15.641193+00:00
- - user: None
- - tags: []
-
-## Home | Ford of Europe | Ford Media Center
- - [https://media.ford.com](https://media.ford.com)
- - date published: 2023-10-25T15:10:06.084869+00:00
- - user: None
- - tags: []
-
-## Ford® - New Hybrid & Electric Vehicles, SUVs, Crossovers, Trucks, Vans & Cars
- - [https://www.ford.com](https://www.ford.com)
- - date published: 2023-11-01T08:42:08.838585+00:00
- - user: None
- - tags: []
-
-## Foreign Affairs Magazine
- - [https://www.foreignaffairs.com](https://www.foreignaffairs.com)
- - date published: 2023-10-25T15:10:16.234805+00:00
  - user: None
  - tags: []
 

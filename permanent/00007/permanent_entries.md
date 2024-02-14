@@ -1,3 +1,87 @@
+## Leanne Hughes
+ - [https://www.leannehughes.com](https://www.leannehughes.com)
+ - date published: 2023-12-05T14:36:52.780515+00:00
+ - user: None
+ - tags: ['personal']
+
+## Leanpub: Publish Early, Publish Often
+ - [https://leanpub.com](https://leanpub.com)
+ - date published: 2023-12-11T19:00:55.011813+00:00
+ - user: None
+ - tags: []
+
+## LeapSecond Home Page
+ - [http://leapsecond.com](http://leapsecond.com)
+ - date published: 2023-10-25T15:43:48.984506+00:00
+ - user: None
+ - tags: []
+
+## LeapSecond Home Page
+ - [http://www.leapsecond.com](http://www.leapsecond.com)
+ - date published: 2023-10-25T15:43:50.814570+00:00
+ - user: None
+ - tags: []
+
+## App Builder: No-Code App Maker to Build Apps | Free Trial
+ - [https://learnappmaking.com](https://learnappmaking.com)
+ - date published: 2023-12-21T08:23:02.881170+00:00
+ - user: None
+ - tags: ['personal']
+
+## Learn C++ – Skill up with our free tutorials
+ - [https://www.learncpp.com](https://www.learncpp.com)
+ - date published: 2023-10-25T15:43:56.323518+00:00
+ - user: None
+ - tags: []
+
+## Learn and Test DMARC
+ - [https://www.learndmarc.com](https://www.learndmarc.com)
+ - date published: 2023-10-25T15:43:57.010265+00:00
+ - user: None
+ - tags: []
+
+## Prepare for your JavaScript Interview - Covering all the rounds
+ - [https://learnersbucket.com](https://learnersbucket.com)
+ - date published: 2023-12-23T19:27:19.268649+00:00
+ - user: None
+ - tags: ['personal']
+
+## AI-Powered AI News | Emergent Mind
+ - [https://www.learngpt.com](https://www.learngpt.com)
+ - date published: 2023-10-25T15:44:04.488107+00:00
+ - user: None
+ - tags: []
+
+## Hardcore Software by Steven Sinofsky | Substack
+ - [https://hardcoresoftware.learningbyshipping.com](https://hardcoresoftware.learningbyshipping.com)
+ - date published: 2023-10-25T15:44:07.575535+00:00
+ - user: None
+ - tags: []
+
+## Learning to Cook Food
+ - [https://www.learningtocookfood.com](https://www.learningtocookfood.com)
+ - date published: 2023-12-20T21:30:27.994041+00:00
+ - user: None
+ - tags: ['personal', 'personal']
+
+## Learn Code the Hard Way
+ - [https://learnjsthehardway.com](https://learnjsthehardway.com)
+ - date published: 2023-10-25T15:44:09.394971+00:00
+ - user: None
+ - tags: []
+
+## Learn Modern C++
+ - [https://learnmoderncpp.com](https://learnmoderncpp.com)
+ - date published: 2023-12-26T08:18:03+00:00
+ - user: None
+ - tags: []
+
+## Learn TLA+ — Learn TLA+
+ - [https://learntla.com](https://learntla.com)
+ - date published: 2023-10-25T15:44:15.064986+00:00
+ - user: None
+ - tags: []
+
 ## Learn X in Y Minutes: Scenic Programming Language Tours
  - [https://learnxinyminutes.com](https://learnxinyminutes.com)
  - date published: 2023-10-25T15:44:16.698078+00:00
@@ -5737,6 +5821,12 @@ diversions.
  - user: None
  - tags: []
 
+## Michele Hansen
+ - [https://mjwhansen.com](https://mjwhansen.com)
+ - date published: 2024-02-13T18:10:01.467771+00:00
+ - user: None
+ - tags: ['personal']
+
 ## MKBHD
  - [https://mkbhd.com](https://mkbhd.com)
  - date published: 2023-10-27T11:54:59.212907+00:00
@@ -5910,94 +6000,4 @@ diversions.
  - date published: 2024-01-09T02:44:07.641831+00:00
  - user: None
  - tags: []
-
-## Money Movement APIs | Modern Treasury | ACH, RTP, Wires and more payment methods
- - [https://www.moderntreasury.com](https://www.moderntreasury.com)
- - date published: 2023-10-25T16:05:53.474763+00:00
- - user: None
- - tags: []
-
-## modplug
- - [https://www.modplug.com](https://www.modplug.com)
- - date published: 2024-02-04T12:24:38+00:00
- - user: rumpel
- - tags: ['modplug tracker']
-
-## Modrinth
- - [https://modrinth.com](https://modrinth.com)
- - date published: 2023-10-25T11:16:51.066359+00:00
- - user: None
- - tags: []
-
-## Modular Docs
- - [https://docs.modular.com](https://docs.modular.com)
- - date published: 2023-10-25T16:05:54.312316+00:00
- - user: None
- - tags: []
-
-## Modular: AI development starts here
- - [https://www.modular.com](https://www.modular.com)
- - date published: 2023-10-25T16:05:56.151309+00:00
- - user: None
- - tags: []
-
-## ModulAware.com: Modula-2 and Oberon-2 Compiler for HP OpenVMS
- - [https://www.modulaware.com](https://www.modulaware.com)
- - date published: 1998-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## mohavedailynews.com
- - [https://mohavedailynews.com](https://mohavedailynews.com)
- - date published: 2024-01-09T02:44:10.029862+00:00
- - user: None
- - tags: []
-
-## Mohit Pawar.com – Passion Comes First !
- - [https://mohitpawar.com](https://mohitpawar.com)
- - date published: 2023-12-31T16:48:04.617160+00:00
- - user: None
- - tags: []
-
-## The Official Moist Global Store
- - [https://moistglobal.com](https://moistglobal.com)
- - date published: 2024-02-08T21:38:46.046805+00:00
- - user: None
- - tags: []
-
-## Mojeek
- - [https://www.mojeek.com](https://www.mojeek.com)
- - date published: 2023-10-25T09:07:25.783266+00:00
- - user: None
- - tags: []
-
-## Momekh.com - home of disciplined creativity - Momekh.com
- - [https://momekh.com](https://momekh.com)
- - date published: 2023-12-03T15:55:30.572760+00:00
- - user: None
- - tags: ['personal']
-
-## Home | Monadical Consulting
- - [https://monadical.com](https://monadical.com)
- - date published: 2023-10-25T16:05:58.077632+00:00
- - user: None
- - tags: []
-
-## Monad Monkey
- - [https://monadmonkey.com](https://monadmonkey.com)
- - date published: 2023-10-25T16:05:58.559782+00:00
- - user: None
- - tags: []
-
-## Michael Monagan
- - [https://www.monagan.com](https://www.monagan.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Belmont Ammunition | Belmont Ammunition
- - [https://www.monaharaty.com](https://www.monaharaty.com)
- - date published: 2023-12-17T20:59:14.047846+00:00
- - user: None
- - tags: ['personal']
 

@@ -1,3 +1,117 @@
+## Joscha Bach | Substack
+ - [https://joscha.substack.com](https://joscha.substack.com)
+ - date published: 2023-10-25T09:55:48.369614+00:00
+ - user: None
+ - tags: ['substack']
+
+## In Due Course | Joseph Heath | Substack
+ - [https://josephheath.substack.com](https://josephheath.substack.com)
+ - date published: 2023-12-31T16:29:29.512997+00:00
+ - user: None
+ - tags: []
+
+## Wednesday Wisdom | Jos Visser | Substack
+ - [https://josvisser.substack.com](https://josvisser.substack.com)
+ - date published: 2023-12-07T03:05:59.094132+00:00
+ - user: None
+ - tags: []
+
+## quite useless | a. natasha joukovsky | Substack
+ - [https://joukovsky.substack.com](https://joukovsky.substack.com)
+ - date published: 2023-10-25T09:55:57.553758+00:00
+ - user: None
+ - tags: ['substack']
+
+## Finding Joy | Joy Lere, Psy.D. | Substack
+ - [https://joylere.substack.com](https://joylere.substack.com)
+ - date published: 2023-10-25T09:56:00.200869+00:00
+ - user: None
+ - tags: ['substack']
+
+## Delayed Branch | Jason Rahman | Substack
+ - [https://jprahman.substack.com](https://jprahman.substack.com)
+ - date published: 2024-01-09T01:41:28.615386+00:00
+ - user: None
+ - tags: []
+
+## Teaching computers how to talk | Jurgen Gravestein | Substack
+ - [https://jurgengravestein.substack.com](https://jurgengravestein.substack.com)
+ - date published: 2023-10-25T09:56:12.153586+00:00
+ - user: None
+ - tags: ['substack']
+
+## Justin Smith-Ruiu’s Hinternet | Substack
+ - [https://justinehsmith.substack.com](https://justinehsmith.substack.com)
+ - date published: 2024-01-09T01:41:31.303927+00:00
+ - user: None
+ - tags: []
+
+## The Kaitchup – AI on a Budget | Benjamin Marie, PhD | Substack
+ - [https://kaitchup.substack.com](https://kaitchup.substack.com)
+ - date published: 2023-10-25T09:56:18.279130+00:00
+ - user: None
+ - tags: ['substack']
+
+## Kanekoa News | Substack
+ - [https://kanekoa.substack.com](https://kanekoa.substack.com)
+ - date published: 2024-01-09T01:41:35.705314+00:00
+ - user: None
+ - tags: []
+
+## Nine Lives | Karawynn Long | Substack
+ - [https://karawynn.substack.com](https://karawynn.substack.com)
+ - date published: 2024-01-09T01:41:39.328336+00:00
+ - user: None
+ - tags: []
+
+## Kareem Abdul-Jabbar | Substack
+ - [https://kareem.substack.com](https://kareem.substack.com)
+ - date published: 2023-10-25T09:56:43.884000+00:00
+ - user: None
+ - tags: ['substack']
+
+## Essays by Ken Lane | Substack
+ - [https://kenlane.substack.com](https://kenlane.substack.com)
+ - date published: 2023-12-11T10:57:46.356034+00:00
+ - user: None
+ - tags: ['personal']
+
+## Erdmann Housing Tracker | Kevin Erdmann | Substack
+ - [https://kevinerdmann.substack.com](https://kevinerdmann.substack.com)
+ - date published: 2023-12-19T22:22:46.647327+00:00
+ - user: None
+ - tags: []
+
+## Kids Who Love Math | Sebastian Gutierrez | Substack
+ - [https://kidswholovemath.substack.com](https://kidswholovemath.substack.com)
+ - date published: 2024-01-09T01:41:46.315215+00:00
+ - user: None
+ - tags: []
+
+## Kit’s Newsletter | Kit Klarenberg | Substack
+ - [https://kitklarenberg.substack.com](https://kitklarenberg.substack.com)
+ - date published: 2023-12-04T01:53:45.581863+00:00
+ - user: None
+ - tags: []
+
+## Knoll’s Law | Knoll's Law | Substack
+ - [https://knollslaw.substack.com](https://knollslaw.substack.com)
+ - date published: 2024-01-09T01:41:47.891078+00:00
+ - user: None
+ - tags: []
+
+## System Failure | Nathan Knopp | Substack
+ - [https://knopp.substack.com](https://knopp.substack.com)
+ - date published: 2023-10-25T09:56:59.004155+00:00
+ - user: None
+ - tags: ['substack']
+
+## https://kuiperzone.substack.com
+ - [https://kuiperzone.substack.com](https://kuiperzone.substack.com)
+ - date published: 2024-02-08T21:49:47.691074+00:00
+ - user: None
+ - tags: []
+
 ## Laetitia@Work | Laëtitia Vitaud | Substack
  - [https://laetitiaatwork.substack.com](https://laetitiaatwork.substack.com)
  - date published: 2023-10-25T09:57:02.350935+00:00
@@ -3609,7 +3723,7 @@
  - [https://www.thecut.com](https://www.thecut.com)
  - date published: 2023-10-25T17:31:44.882099+00:00
  - user: None
- - tags: ['news']
+ - tags: ['entertainment news', 'celebrity news', 'politics news', 'fashion news']
 
 ## The Cyber Express | #1 Cybersecurity News & Hacker News Site
  - [https://thecyberexpress.com](https://thecyberexpress.com)
@@ -5885,120 +5999,6 @@
 ## Tom Libertiny - Multimedia Storyteller
  - [https://tomlibertiny.com](https://tomlibertiny.com)
  - date published: 2024-01-21T04:57:20.506224+00:00
- - user: None
- - tags: []
-
-## Tom McCallum - UK-Based Leadership Coach and Strategic Business Advisor
- - [https://tommccallum.com](https://tommccallum.com)
- - date published: 2024-01-16T23:47:14.373122+00:00
- - user: None
- - tags: []
-
-## tommcquillen.com
- - [https://tommcquillen.com](https://tommcquillen.com)
- - date published: 2024-02-05T23:10:36.365839+00:00
- - user: None
- - tags: ['personal']
-
-## 【ママ活DAYS】男性の日々を豊かにする情報をお届け！
- - [https://www.tommydarker.com](https://www.tommydarker.com)
- - date published: 2024-01-16T03:19:06.515711+00:00
- - user: None
- - tags: []
-
-## Before you continue to YouTube
- - [http://www.tomnicholas.com](http://www.tomnicholas.com)
- - date published: 2024-01-29T16:56:13.030964+00:00
- - user: None
- - tags: []
-
-## Home « Tom Scott
- - [https://www.tomscott.com](https://www.tomscott.com)
- - date published: 2023-10-25T17:43:54.648389+00:00
- - user: None
- - tags: []
-
-## Tom's Guide | Tech Product Reviews, Top Picks and How To
- - [https://www.tomsguide.com](https://www.tomsguide.com)
- - date published: 2023-10-25T09:36:18.075879+00:00
- - user: None
- - tags: []
-
-## Tom's Hardware: For The Hardcore PC Enthusiast
- - [https://www.tomshardware.com](https://www.tomshardware.com)
- - date published: 2023-10-25T09:36:26.552623+00:00
- - user: None
- - tags: []
-
-## TomTom — Mapping and Location Technology
- - [https://www.tomtom.com](https://www.tomtom.com)
- - date published: 2023-10-25T08:25:17.562840+00:00
- - user: None
- - tags: []
-
-## Tomasz Tunguz by @ttunguz
- - [https://tomtunguz.com](https://tomtunguz.com)
- - date published: 2023-10-25T17:44:14.660115+00:00
- - user: None
- - tags: []
-
-## tontinton
- - [https://tontinton.com](https://tontinton.com)
- - date published: 2023-12-15T21:46:45.340254+00:00
- - user: None
- - tags: []
-
-## Tony Beato | UI/UX Designer & Frontend Developer | tonybeato.com
- - [https://tonybeato.com](https://tonybeato.com)
- - date published: 2023-12-05T14:37:28.614161+00:00
- - user: None
- - tags: ['personal']
-
-## Tony Dinh's Newsletter | Substack
- - [https://news.tonydinh.com](https://news.tonydinh.com)
- - date published: 2023-10-25T17:44:16.928207+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://tonyendelman.com](https://tonyendelman.com)
- - date published: 2023-12-18T01:36:02.598581+00:00
- - user: None
- - tags: ['personal']
-
-## Beginnings | Tony Kulesa | Substack
- - [https://www.tonykulesa.com](https://www.tonykulesa.com)
- - date published: 2023-10-25T17:44:18.368021+00:00
- - user: None
- - tags: []
-
-## Tony Mottaz
- - [https://www.tonymottaz.com](https://www.tonymottaz.com)
- - date published: 2023-11-10T23:40:09.155479+00:00
- - user: None
- - tags: []
-
-## Tool Army
- - [https://www.toolband.com](https://www.toolband.com)
- - date published: 2023-11-13T10:43:19.764493+00:00
- - user: None
- - tags: ['music band']
-
-## ToolGuyd | Tool Reviews, Deals, Industry News
- - [https://toolguyd.com](https://toolguyd.com)
- - date published: 2023-10-25T17:44:21.148611+00:00
- - user: None
- - tags: []
-
-## ToolJet | Open-source low-code platform to build internal tools
- - [https://www.tooljet.com](https://www.tooljet.com)
- - date published: 2023-10-25T17:44:23.477839+00:00
- - user: None
- - tags: []
-
-## Barley Yields from Wide-Form Data
- - [https://www.toolofthought.com](https://www.toolofthought.com)
- - date published: 2023-11-26T00:45:42.871246+00:00
  - user: None
  - tags: []
 

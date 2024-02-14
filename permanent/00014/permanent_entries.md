@@ -1,3 +1,154 @@
+## PrivSec - A practical approach to Privacy and Security
+ - [https://privsec.dev](https://privsec.dev)
+ - date published: 2023-10-25T18:40:49.926726+00:00
+ - user: None
+ - tags: []
+
+## React Job Simulator by Profy.dev
+ - [https://profy.dev](https://profy.dev)
+ - date published: 2023-10-25T18:40:51.947206+00:00
+ - user: None
+ - tags: []
+
+## programming.dev - A collection of programming communities
+ - [https://programming.dev](https://programming.dev)
+ - date published: 2023-10-25T18:40:53.820318+00:00
+ - user: None
+ - tags: []
+
+## Home |
+ - [https://pulsar-edit.dev](https://pulsar-edit.dev)
+ - date published: 2023-10-25T18:41:00.178641+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Pydantic - Pydantic
+ - [https://docs.pydantic.dev](https://docs.pydantic.dev)
+ - date published: 2023-10-25T18:41:02.319299+00:00
+ - user: None
+ - tags: []
+
+## Pydantic
+ - [https://pydantic.dev](https://pydantic.dev)
+ - date published: 2024-01-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['online validation', 'online tool']
+
+## Chris James - Learn Go with Tests reaches 20k stars
+ - [https://quii.dev](https://quii.dev)
+ - date published: 2023-10-25T18:41:02.923807+00:00
+ - user: None
+ - tags: []
+
+## https://blog.qwertyforce.dev
+ - [https://blog.qwertyforce.dev](https://blog.qwertyforce.dev)
+ - date published: 2024-01-09T02:57:33.591668+00:00
+ - user: None
+ - tags: []
+
+## Semgrep — Find bugs and enforce code standards
+ - [https://r2c.dev](https://r2c.dev)
+ - date published: 2023-10-25T18:41:07.216345+00:00
+ - user: None
+ - tags: []
+
+## Roni Äikäs
+ - [https://raikas.dev](https://raikas.dev)
+ - date published: 2024-01-12T10:32:49.573822+00:00
+ - user: None
+ - tags: []
+
+## Justin's personal site
+ - [https://randomshit.dev](https://randomshit.dev)
+ - date published: 2023-10-25T18:41:11.166727+00:00
+ - user: None
+ - tags: []
+
+## Rasbora.dev
+ - [https://rasbora.dev](https://rasbora.dev)
+ - date published: 2023-10-25T08:48:56.751019+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ryan's Dev Blog
+ - [https://rbates.dev](https://rbates.dev)
+ - date published: 2023-10-25T08:58:48.184268+00:00
+ - user: None
+ - tags: ['personal']
+
+## React
+ - [https://react.dev](https://react.dev)
+ - date published: 2023-10-25T18:41:12.872406+00:00
+ - user: None
+ - tags: []
+
+## refine | Build your React-based CRUD applications, without constraints! | refine
+ - [https://refine.dev](https://refine.dev)
+ - date published: 2023-10-25T18:41:19.334120+00:00
+ - user: None
+ - tags: []
+
+## Remotion | Make videos programmatically in React
+ - [https://www.remotion.dev](https://www.remotion.dev)
+ - date published: 2023-12-01T16:42:33.542293+00:00
+ - user: None
+ - tags: []
+
+## SDXL – A settings guide by Replicate
+ - [https://sdxl.replicate.dev](https://sdxl.replicate.dev)
+ - date published: 2023-10-25T18:41:20.011892+00:00
+ - user: None
+ - tags: []
+
+## Restate
+ - [https://restate.dev](https://restate.dev)
+ - date published: 2024-02-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Restfox
+ - [https://restfox.dev](https://restfox.dev)
+ - date published: 2023-10-25T18:41:21.360876+00:00
+ - user: None
+ - tags: []
+
+## reyem.dev blog
+ - [https://blog.reyem.dev](https://blog.reyem.dev)
+ - date published: 2023-10-25T08:58:49.186324+00:00
+ - user: None
+ - tags: ['personal']
+
+## Richard Taylor
+     · Richard Taylor
+ - [https://www.richardtaylor.dev](https://www.richardtaylor.dev)
+ - date published: 2023-10-25T18:41:22.096940+00:00
+ - user: None
+ - tags: []
+
+## Rida F'kih — Developer & Designer
+ - [https://www.rida.dev](https://www.rida.dev)
+ - date published: 2023-10-25T08:48:57.534022+00:00
+ - user: None
+ - tags: ['personal']
+
+## River Phillips
+ - [https://www.riverphillips.dev](https://www.riverphillips.dev)
+ - date published: 2023-11-07T19:56:32.446810+00:00
+ - user: None
+ - tags: []
+
+## rmkit
+ - [https://rmkit.dev](https://rmkit.dev)
+ - date published: 2023-10-25T18:41:23.340976+00:00
+ - user: None
+ - tags: []
+
+## Rocicorp, LLC
+ - [https://rocicorp.dev](https://rocicorp.dev)
+ - date published: 2023-10-27T11:57:00.995943+00:00
+ - user: None
+ - tags: []
+
 ## ./
  - [https://www.rohitagarwal.dev](https://www.rohitagarwal.dev)
  - date published: 2024-01-20T02:44:55.146355+00:00
@@ -5862,156 +6013,6 @@
 ## Loopy
  - [https://www.loopy.fm](https://www.loopy.fm)
  - date published: 2023-10-25T11:13:57.022760+00:00
- - user: None
- - tags: []
-
-## mihai.fm
- - [https://mihai.fm](https://mihai.fm)
- - date published: 2023-10-25T19:13:55.412418+00:00
- - user: None
- - tags: []
-
-## Omny Studio - Omny.fm
- - [https://omny.fm](https://omny.fm)
- - date published: 2023-10-25T19:13:56.003139+00:00
- - user: None
- - tags: []
-
-## Colorize Photos - Try Free without Sign-up - Palette.fm
- - [https://palette.fm](https://palette.fm)
- - date published: 2023-10-25T19:13:56.818041+00:00
- - user: None
- - tags: []
-
-## Peel — Little drum machine in your browser
- - [https://peel.fm](https://peel.fm)
- - date published: 2023-10-25T19:13:57.408480+00:00
- - user: None
- - tags: []
-
-## The REWORK podcast
- - [https://www.rework.fm](https://www.rework.fm)
- - date published: 2023-10-25T19:14:00.060458+00:00
- - user: None
- - tags: []
-
-## stephen.fm
- - [https://stephen.fm](https://stephen.fm)
- - date published: 2023-10-25T08:49:10.105327+00:00
- - user: None
- - tags: ['personal']
-
-## hx-pod
- - [https://hx-pod.transistor.fm](https://hx-pod.transistor.fm)
- - date published: 2024-02-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Kube Cuddle
- - [https://kubecuddle.transistor.fm](https://kubecuddle.transistor.fm)
- - date published: 2023-10-25T19:14:07.098237+00:00
- - user: None
- - tags: []
-
-## tree.fm – Tune Into Forests From Around The World 🌳🔈
- - [https://www.tree.fm](https://www.tree.fm)
- - date published: 2024-01-12T01:41:33.894199+00:00
- - user: None
- - tags: []
-
-## 90.5 WESA – Pittsburgh's NPR station
- - [https://www.wesa.fm](https://www.wesa.fm)
- - date published: 2023-11-15T22:04:18.302598+00:00
- - user: None
- - tags: []
-
-## ⊙
- - [https://writing.fm](https://writing.fm)
- - date published: 2023-10-25T19:14:07.984597+00:00
- - user: None
- - tags: []
-
-## Nomad
- - [https://nomad.foo](https://nomad.foo)
- - date published: 2023-10-25T19:14:08.549233+00:00
- - user: None
- - tags: []
-
-## Unix Foo Essays - unix.foo
- - [https://unix.foo](https://unix.foo)
- - date published: 2023-10-25T19:14:09.766393+00:00
- - user: None
- - tags: []
-
-## e Foundation - deGoogled unGoogled smartphone operating systems and online services - your data is your data
- - [https://e.foundation](https://e.foundation)
- - date published: 2023-10-25T08:31:59.915876+00:00
- - user: None
- - tags: ['open source', 'android', 'operating system']
-
-## Haskell Foundation
- - [https://haskell.foundation](https://haskell.foundation)
- - date published: 2023-10-25T19:14:11.510664+00:00
- - user: None
- - tags: []
-
-## Volta Foundation - World's Largest Battery Community
- - [https://www.volta.foundation](https://www.volta.foundation)
- - date published: 2023-10-25T19:14:14.835516+00:00
- - user: None
- - tags: []
-
-## Afnic, solution de Registre Internet des noms de domaine Accueil - Afnic
- - [https://www.afnic.fr](https://www.afnic.fr)
- - date published: 2023-10-25T19:14:19.014743+00:00
- - user: None
- - tags: []
-
-## Arnaud Gélébart : consultant SEO à Mulhouse en Alsace
- - [https://www.agelebart.fr](https://www.agelebart.fr)
- - date published: 2024-01-09T11:05:51.435930+00:00
- - user: None
- - tags: []
-
-## ANFR-Accueil
- - [https://www.anfr.fr](https://www.anfr.fr)
- - date published: 2023-10-25T09:36:54.938413+00:00
- - user: None
- - tags: []
-
-## Anicet Nougaret's portfolio & blog.
- - [https://anicetnougaret.fr](https://anicetnougaret.fr)
- - date published: 2023-10-25T19:14:22.734164+00:00
- - user: None
- - tags: []
-
-## AnimeLand
- - [https://animeland.fr](https://animeland.fr)
- - date published: 2024-01-22T07:44:28.784460+00:00
- - user: None
- - tags: []
-
-## Benjamin Bellamy
- - [https://benjaminbellamy.fr](https://benjaminbellamy.fr)
- - date published: 2024-02-08T16:21:11.300483+00:00
- - user: None
- - tags: []
-
-## ISfinder
- - [https://www-is.biotoul.fr](https://www-is.biotoul.fr)
- - date published: 2024-01-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Cadremploi : Offres d'emploi cadre | Conseils  | Actualité
- - [https://www.cadremploi.fr](https://www.cadremploi.fr)
- - date published: 2023-12-18T17:17:09.872058+00:00
- - user: None
- - tags: []
-
-## C'éclair! | L'efficacité au quotidien
- - [https://ceclair.fr](https://ceclair.fr)
- - date published: 2024-01-01T03:40:10.017494+00:00
  - user: None
  - tags: []
 

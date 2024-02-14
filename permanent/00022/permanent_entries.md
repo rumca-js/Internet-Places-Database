@@ -1,3 +1,247 @@
+## Newsweek - Aktualne wiadomości z Polski i ze świata
+ - [https://www.newsweek.pl](https://www.newsweek.pl)
+ - date published: 2024-01-29T01:12:22.041542+00:00
+ - user: None
+ - tags: []
+
+## Nexto.pl - ebooki, audiobooki, eprasa i książki papierowe
+ - [https://www.nexto.pl](https://www.nexto.pl)
+ - date published: 2023-10-24T20:18:46.717386+00:00
+ - user: None
+ - tags: []
+
+## Warszawa
+ - [https://warszawa.ngo.pl](https://warszawa.ngo.pl)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## -- Niebezpiecznik.pl --
+ - [https://niebezpiecznik.pl](https://niebezpiecznik.pl)
+ - date published: 2023-10-25T09:38:10.310234+00:00
+ - user: None
+ - tags: ['cybersecurity', 'tech news', 'cybersecurity news']
+
+## Niedziela.pl - Wiarygodna strona internetu
+ - [https://www.niedziela.pl](https://www.niedziela.pl)
+ - date published: 2023-10-25T22:29:17.230520+00:00
+ - user: None
+ - tags: []
+
+## Niezależna - wiadomości | informacje | wydarzenia - Polska i Świat
+ - [https://niezalezna.pl](https://niezalezna.pl)
+ - date published: 2023-10-25T09:30:13.629577+00:00
+ - user: None
+ - tags: ['the right wing', 'misinformation']
+
+## Noizz
+ - [https://noizz.pl](https://noizz.pl)
+ - date published: 2023-10-25T22:29:21.690409+00:00
+ - user: None
+ - tags: []
+
+## Diablo 1 Hellfire - Kronika
+ - [https://diablo.noktis.pl](https://diablo.noktis.pl)
+ - date published: 2023-12-13T16:21:22.869256+00:00
+ - user: None
+ - tags: []
+
+## Diablo 1 HD MOD
+ - [https://mod.diablo.noktis.pl](https://mod.diablo.noktis.pl)
+ - date published: 2023-10-29T11:03:03.698273+00:00
+ - user: None
+ - tags: []
+
+## Noktis Workshop
+ - [https://noktis.pl](https://noktis.pl)
+ - date published: 2023-10-29T11:03:46.458305+00:00
+ - user: None
+ - tags: ['starcraft', 'red alert', 'warcraft', 'diablo']
+
+## Strona główna
+ - [https://nowyobywatel.pl](https://nowyobywatel.pl)
+ - date published: 2023-12-30T02:42:40.571224+00:00
+ - user: None
+ - tags: []
+
+## o2 - Serce Internetu
+ - [https://www.o2.pl](https://www.o2.pl)
+ - date published: 2023-10-25T10:31:48.980569+00:00
+ - user: None
+ - tags: ['news']
+
+## Market budowlany i ogrodniczy OBI - akcesoria budowlane
+ - [https://www.obi.pl](https://www.obi.pl)
+ - date published: 2023-10-26T08:33:47.734470+00:00
+ - user: None
+ - tags: ['shop']
+
+## Obserwator Finansowy: Ekonomia | Gospodarka | Polska | Świat
+ - [https://www.obserwatorfinansowy.pl](https://www.obserwatorfinansowy.pl)
+ - date published: 2024-01-29T01:30:21.238426+00:00
+ - user: None
+ - tags: []
+
+## Obserwator Gospodarczy - portal gospodarczy
+ - [https://obserwatorgospodarczy.pl](https://obserwatorgospodarczy.pl)
+ - date published: 2023-10-25T22:29:29.603158+00:00
+ - user: None
+ - tags: []
+
+## ObywateleNieba.pl - Chrześcijański portal informacyjny
+ - [https://obywatelenieba.pl](https://obywatelenieba.pl)
+ - date published: 2023-10-25T22:29:39.409365+00:00
+ - user: None
+ - tags: []
+
+## Oferteo - Oferty od Firm
+ - [https://www.oferteo.pl](https://www.oferteo.pl)
+ - date published: 2023-10-24T20:20:11.338115+00:00
+ - user: None
+ - tags: ['services']
+
+## Ogłoszenia - Sprzedam, kupię na OLX.pl
+ - [https://olx.pl](https://olx.pl)
+ - date published: 2023-10-24T20:20:26.839764+00:00
+ - user: None
+ - tags: ['services']
+
+## Ogłoszenia - Sprzedam, kupię na OLX.pl
+ - [https://www.olx.pl](https://www.olx.pl)
+ - date published: 2023-10-26T18:23:30.459246+00:00
+ - user: None
+ - tags: ['services', 'social platform']
+
+## 403 Forbidden
+ - [https://omhconf.pl](https://omhconf.pl)
+ - date published: 2024-02-02T08:24:55.084372+00:00
+ - user: None
+ - tags: ['event', 'hacking']
+
+## Kobieta -
+        
+        Kobieta - Porady dla Kobiet, Forum Uroda, Moda Damska i Trendy, Horoskop Codzienny
+ - [https://kobieta.onet.pl](https://kobieta.onet.pl)
+ - date published: 2023-10-25T10:31:51.351331+00:00
+ - user: None
+ - tags: []
+
+## Onet – Jesteś na bieżąco
+ - [https://onet.pl](https://onet.pl)
+ - date published: 2023-10-29T15:19:57.733284+00:00
+ - user: None
+ - tags: ['news']
+
+## Wiadomości -
+        
+        Wiadomości w Onet - Najnowsze i Najważniejsze Wiadomości z Kraju i Świata
+ - [https://wiadomosci.onet.pl](https://wiadomosci.onet.pl)
+ - date published: 2023-10-25T10:32:01.945249+00:00
+ - user: None
+ - tags: []
+
+## Onet – Jesteś na bieżąco
+ - [https://www.onet.pl](https://www.onet.pl)
+ - date published: 2023-10-25T10:32:07.223794+00:00
+ - user: None
+ - tags: []
+
+## OTOMOTO - nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.
+ - [https://www.otomoto.pl](https://www.otomoto.pl)
+ - date published: 2023-11-01T08:55:54.729508+00:00
+ - user: None
+ - tags: ['social platform', 'cars']
+
+## https://www.pap.pl
+ - [https://www.pap.pl](https://www.pap.pl)
+ - date published: 2023-10-25T10:32:11.461110+00:00
+ - user: None
+ - tags: ['polska agencja prasowa', 'poland']
+
+## Serwis Zdrowie
+ - [https://zdrowie.pap.pl](https://zdrowie.pap.pl)
+ - date published: 2023-12-17T16:47:03.877071+00:00
+ - user: None
+ - tags: []
+
+## Patronite.pl: Twoja pasja, Twoje życie
+ - [https://patronite.pl](https://patronite.pl)
+ - date published: 2023-10-25T14:44:56.484026+00:00
+ - user: None
+ - tags: ['crowdfunding']
+
+## Strona główna - PCH24.pl
+ - [https://m.pch24.pl](https://m.pch24.pl)
+ - date published: 2023-10-25T10:13:31.026028+00:00
+ - user: None
+ - tags: []
+
+## Strona główna - PCH24.pl
+ - [https://pch24.pl](https://pch24.pl)
+ - date published: 2023-10-25T10:13:34.615189+00:00
+ - user: None
+ - tags: []
+
+## PcPro | PcPro
+ - [https://pcpro.pl](https://pcpro.pl)
+ - date published: 2022-04-26T12:17:21+00:00
+ - user: rumpel
+ - tags: ['tech news', 'pc news']
+
+## Usuwanie spyware i wirusów. Instrukcje usuwania. Bezpieczeństwo PC
+ - [https://www.pcrisk.pl](https://www.pcrisk.pl)
+ - date published: 2024-02-08T16:58:11.649002+00:00
+ - user: None
+ - tags: []
+
+## Gry Online | Pegasus | NES | SNES | SEGA | PSX | N64 | Retro
+ - [https://pegasus-online.pl](https://pegasus-online.pl)
+ - date published: 2023-10-30T11:47:43.447981+00:00
+ - user: None
+ - tags: ['psx', 'pegasus', 'amiga']
+
+## Pepper.pl - Najlepsze Okazje, Rabaty, Promocje i Błędy Cenowe
+ - [https://www.pepper.pl](https://www.pepper.pl)
+ - date published: 2023-10-24T20:20:40.054915+00:00
+ - user: None
+ - tags: ['ranking']
+
+## Piotr Sterkowski – Walczmy o to co dziś, bo jutro możemy nie mieć wyboru.
+ - [https://piotrsterkowski.pl](https://piotrsterkowski.pl)
+ - date published: 2023-11-20T07:41:36+00:00
+ - user: rumpel
+ - tags: ['misinformation']
+
+## PKO Bank Polski
+ - [https://www.pkobp.pl](https://www.pkobp.pl)
+ - date published: 2023-10-25T11:29:43.099631+00:00
+ - user: None
+ - tags: []
+
+## PlanetaGracza.pl – Serwis i blog o grach. Nr 1 w Internecie
+ - [https://planetagracza.pl](https://planetagracza.pl)
+ - date published: 2023-11-17T21:44:50+00:00
+ - user: rumpel
+ - tags: ['game news']
+
+## Planszostrefa.pl
+ - [https://planszostrefa.pl](https://planszostrefa.pl)
+ - date published: 2023-10-27T08:00:00.205501+00:00
+ - user: None
+ - tags: ['tabletop games']
+
+## Playa.PL - gry, recenzje gier, kody do gier
+ - [https://playa.pl](https://playa.pl)
+ - date published: 2023-10-29T13:08:48.581758+00:00
+ - user: None
+ - tags: []
+
+## Plotki Biznesowe - Plotki Biznesowe
+ - [https://plotkibiznesowe.pl](https://plotkibiznesowe.pl)
+ - date published: 2023-10-25T22:29:47.710612+00:00
+ - user: None
+ - tags: []
+
 ## Śledzenie przesyłek - Tracking | emonitoring.poczta-polska.pl
  - [https://emonitoring.poczta-polska.pl](https://emonitoring.poczta-polska.pl)
  - date published: 2023-11-01T08:44:38.654053+00:00
@@ -5765,246 +6009,6 @@ Introduction
 ## OII | Homepage
  - [https://www.oii.ox.ac.uk](https://www.oii.ox.ac.uk)
  - date published: 2023-11-21T16:29:45.007881+00:00
- - user: None
- - tags: []
-
-## University of Oxford
- - [https://www.ox.ac.uk](https://www.ox.ac.uk)
- - date published: 2023-10-25T22:49:34.482125+00:00
- - user: None
- - tags: []
-
-## Information Engineering Main/Home Page
- - [https://www.robots.ox.ac.uk](https://www.robots.ox.ac.uk)
- - date published: 2023-10-25T22:49:36.138908+00:00
- - user: None
- - tags: []
-
-## Make it count with a triple gold university
- - [https://www.plymouth.ac.uk](https://www.plymouth.ac.uk)
- - date published: 2024-01-01T16:43:40.846084+00:00
- - user: None
- - tags: []
-
-## University of Portsmouth | A New Breed of University
- - [https://www.port.ac.uk](https://www.port.ac.uk)
- - date published: 2023-11-27T11:22:19.300413+00:00
- - user: None
- - tags: []
-
-## Queen Mary University of London
- - [https://www.qmul.ac.uk](https://www.qmul.ac.uk)
- - date published: 2023-10-25T22:49:40.586466+00:00
- - user: None
- - tags: []
-
-## The Royal Astronomical Society
- - [https://ras.ac.uk](https://ras.ac.uk)
- - date published: 2023-10-25T22:49:44.106790+00:00
- - user: None
- - tags: []
-
-## IT Services blog – Latest news, advice and information from the IT Services team
- - [https://itservices.wp.st-andrews.ac.uk](https://itservices.wp.st-andrews.ac.uk)
- - date published: 2023-10-25T22:49:46.498310+00:00
- - user: None
- - tags: []
-
-## MacTutor Index - MacTutor History of Mathematics
- - [https://mathshistory.st-andrews.ac.uk](https://mathshistory.st-andrews.ac.uk)
- - date published: 2023-10-25T22:49:48.719060+00:00
- - user: None
- - tags: []
-
-## Home - Staffordshire University
- - [https://www.staffs.ac.uk](https://www.staffs.ac.uk)
- - date published: 2023-12-12T13:24:55.758245+00:00
- - user: None
- - tags: []
-
-## Strathprints: The University of Strathclyde institutional repository - Strathprints
- - [https://strathprints.strath.ac.uk](https://strathprints.strath.ac.uk)
- - date published: 2023-12-07T17:36:01.374666+00:00
- - user: None
- - tags: []
-
-## University of Surrey Blogs
- - [https://blogs.surrey.ac.uk](https://blogs.surrey.ac.uk)
- - date published: 2024-02-08T16:44:58.359175+00:00
- - user: None
- - tags: []
-
-## UCL – University College London
- - [https://www.ucl.ac.uk](https://www.ucl.ac.uk)
- - date published: 2023-11-14T14:17:51.871742+00:00
- - user: None
- - tags: []
-
-## Find your place at UEA
- - [https://www.uea.ac.uk](https://www.uea.ac.uk)
- - date published: 2023-10-25T22:49:55.186219+00:00
- - user: None
- - tags: []
-
-## Exchanges: The Interdisciplinary Research Journal
- - [https://exchanges.warwick.ac.uk](https://exchanges.warwick.ac.uk)
- - date published: 2023-12-26T16:32:30.722613+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science, University of Warwick
- - [https://www.dcs.warwick.ac.uk](https://www.dcs.warwick.ac.uk)
- - date published: 2024-01-09T03:48:16.468095+00:00
- - user: None
- - tags: []
-
-## Computer Science - Computer Science, University of York
- - [https://www.cs.york.ac.uk](https://www.cs.york.ac.uk)
- - date published: 2023-10-25T22:50:02.708001+00:00
- - user: None
- - tags: []
-
-## University of York
- - [https://www.york.ac.uk](https://www.york.ac.uk)
- - date published: 2023-12-10T10:56:12.136279+00:00
- - user: None
- - tags: ['university']
-
-## Alister Bulman
- - [https://abulman.co.uk](https://abulman.co.uk)
- - date published: 2023-12-27T18:13:12.519753+00:00
- - user: None
- - tags: ['personal']
-
-## None
- - [https://www.acousticity.co.uk](https://www.acousticity.co.uk)
- - date published: 2024-02-08T16:46:29.767866+00:00
- - user: None
- - tags: []
-
-## Adam K Dean
- - [https://adamkdean.co.uk](https://adamkdean.co.uk)
- - date published: 2023-10-25T08:56:16.522890+00:00
- - user: None
- - tags: ['personal']
-
-## GPT Unicorn
- - [https://gpt-unicorn.adamkdean.co.uk](https://gpt-unicorn.adamkdean.co.uk)
- - date published: 2023-10-25T22:50:04.452981+00:00
- - user: None
- - tags: []
-
-## Emmy-nominated filmmaker and artist Adam Westbrook
- - [https://www.adamwestbrook.co.uk](https://www.adamwestbrook.co.uk)
- - date published: 2024-01-15T06:17:25.579224+00:00
- - user: None
- - tags: []
-
-## ADMIRALTY Maritime Data Solutions
- - [https://www.admiralty.co.uk](https://www.admiralty.co.uk)
- - date published: 2023-10-25T22:50:10.346848+00:00
- - user: None
- - tags: []
-
-## Alex Murrell
- - [https://www.alexmurrell.co.uk](https://www.alexmurrell.co.uk)
- - date published: 2023-10-25T08:56:17.999808+00:00
- - user: None
- - tags: ['personal']
-
-## Amazon.co.uk: Low Prices in Electronics, Books, Sports Equipment & more
- - [https://www.amazon.co.uk](https://www.amazon.co.uk)
- - date published: 2023-10-25T22:50:25.984254+00:00
- - user: None
- - tags: []
-
-## Amimetic Developer Website from James Porter
- - [https://www.amimetic.co.uk](https://www.amimetic.co.uk)
- - date published: 2024-01-07T21:07:26.024418+00:00
- - user: None
- - tags: []
-
-## AN.
- - [https://www.andrewnile.co.uk](https://www.andrewnile.co.uk)
- - date published: 2023-10-25T22:50:28.355553+00:00
- - user: None
- - tags: []
-
-## Andy Bell - Designer, front-end developer and founder of Set Studio
- - [https://andy-bell.co.uk](https://andy-bell.co.uk)
- - date published: 2023-10-25T22:50:30.224777+00:00
- - user: None
- - tags: []
-
-## AOL is part of the Yahoo family of brands
- - [https://www.aol.co.uk](https://www.aol.co.uk)
- - date published: 2023-11-23T12:40:52.890100+00:00
- - user: None
- - tags: []
-
-## https://www.ariababu.co.uk
- - [https://www.ariababu.co.uk](https://www.ariababu.co.uk)
- - date published: 2024-01-29T23:01:39.484598+00:00
- - user: None
- - tags: []
-
-## art market art online artsmarket da  vinci code last supper
- - [http://www.artsmarket.co.uk](http://www.artsmarket.co.uk)
- - date published: 2023-10-25T22:50:35.558821+00:00
- - user: None
- - tags: []
-
-## ASCII.co.uk - The home of all things ASCII
- - [https://ascii.co.uk](https://ascii.co.uk)
- - date published: 2023-10-30T13:46:28.309681+00:00
- - user: None
- - tags: []
-
-## @RACK | @RACK
- - [https://at-rack.co.uk](https://at-rack.co.uk)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Authentic Comms Strategic Consultancy
- - [https://www.authenticcomms.co.uk](https://www.authenticcomms.co.uk)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Autocar | Car News and Car Reviews
- - [https://www.autocar.co.uk](https://www.autocar.co.uk)
- - date published: 2023-10-25T22:50:42.741657+00:00
- - user: None
- - tags: []
-
-## BabelStone
- - [https://www.babelstone.co.uk](https://www.babelstone.co.uk)
- - date published: 2023-10-25T22:50:46.375041+00:00
- - user: None
- - tags: []
-
-## Home | Bank of England
- - [https://www.bankofengland.co.uk](https://www.bankofengland.co.uk)
- - date published: 2023-10-25T22:50:52.361987+00:00
- - user: None
- - tags: []
-
-## Home - BBC News
- - [https://news.bbc.co.uk](https://news.bbc.co.uk)
- - date published: 2023-10-25T10:34:44.046411+00:00
- - user: None
- - tags: []
-
-## Recreating the sounds of the BBC Radiophonic Workshop
- - [https://webaudio.prototyping.bbc.co.uk](https://webaudio.prototyping.bbc.co.uk)
- - date published: 2024-01-09T03:48:18.813003+00:00
- - user: None
- - tags: []
-
-## BBC - Home
- - [https://www.bbc.co.uk](https://www.bbc.co.uk)
- - date published: 2023-10-25T10:34:51.357017+00:00
  - user: None
  - tags: []
 
