@@ -1,3 +1,129 @@
+## Ian Vanagas
+ - [https://ianvanagas.com](https://ianvanagas.com)
+ - date published: 2023-10-25T08:46:10.885328+00:00
+ - user: None
+ - tags: ['personal']
+
+## ibespectacled.com
+ - [https://www.ibespectacled.com](https://www.ibespectacled.com)
+ - date published: 2024-02-08T17:42:46.758640+00:00
+ - user: None
+ - tags: []
+
+## Ibiyemi Abiodun
+ - [https://ibiyemiabiodun.com](https://ibiyemiabiodun.com)
+ - date published: 2023-10-25T15:16:39.867450+00:00
+ - user: None
+ - tags: []
+
+## IBM Developer
+ - [https://developer.ibm.com](https://developer.ibm.com)
+ - date published: 2023-10-25T15:16:40.312809+00:00
+ - user: None
+ - tags: []
+
+## IBM Newsroom
+ - [https://newsroom.ibm.com](https://newsroom.ibm.com)
+ - date published: 2023-10-25T15:16:47.557092+00:00
+ - user: None
+ - tags: []
+
+## IBM Research
+ - [https://research.ibm.com](https://research.ibm.com)
+ - date published: 2023-10-25T15:16:51.132525+00:00
+ - user: None
+ - tags: []
+
+## IBM - United Kingdom
+ - [https://www.ibm.com](https://www.ibm.com)
+ - date published: 2023-10-25T11:28:00.247068+00:00
+ - user: None
+ - tags: ['company']
+
+## https://share.icloud.com
+ - [https://share.icloud.com](https://share.icloud.com)
+ - date published: 2024-01-05T17:34:07.258962+00:00
+ - user: None
+ - tags: []
+
+## iCloud
+ - [https://www.icloud.com](https://www.icloud.com)
+ - date published: 2023-10-25T08:25:55.866071+00:00
+ - user: None
+ - tags: ['cloud drive']
+
+## ICM Photography Magazine | Intentional Camera Movement
+ - [https://www.icmphotomag.com](https://www.icmphotomag.com)
+ - date published: 2023-10-25T15:16:54.312863+00:00
+ - user: None
+ - tags: []
+
+## Icona Pop | Official Website
+ - [https://www.iconapop.com](https://www.iconapop.com)
+ - date published: 2023-11-13T09:49:08.291768+00:00
+ - user: None
+ - tags: []
+
+## ICONBUSTERS
+ - [https://www.iconbusters.com](https://www.iconbusters.com)
+ - date published: 2024-02-08T17:57:16.544081+00:00
+ - user: None
+ - tags: []
+
+## The Breakroom • A blog for the Iconfactory
+ - [https://blog.iconfactory.com](https://blog.iconfactory.com)
+ - date published: 2023-10-25T15:16:59.455920+00:00
+ - user: None
+ - tags: []
+
+## Free Icons, Clipart Illustrations, Photos, and Music
+ - [https://icons8.com](https://icons8.com)
+ - date published: 2023-10-25T11:35:48.487511+00:00
+ - user: None
+ - tags: ['asset icons']
+
+## Guides and News for WoW, Diablo, FFXIV, and more
+ - [https://www.icy-veins.com](https://www.icy-veins.com)
+ - date published: 2023-12-13T16:24:47.815983+00:00
+ - user: None
+ - tags: ['diablo', 'world of warcraft']
+
+## IDEA – nonverbal algorithm assembly instructions
+ - [https://idea-instructions.com](https://idea-instructions.com)
+ - date published: 2023-10-25T15:17:01.546089+00:00
+ - user: None
+ - tags: []
+
+## Ideas y libros
+ - [https://ideasylibros.com](https://ideasylibros.com)
+ - date published: 2023-11-29T19:27:11.874261+00:00
+ - user: None
+ - tags: ['personal']
+
+## Programming from the human perspective By Ibrahim Diallo
+ - [https://idiallo.com](https://idiallo.com)
+ - date published: 2023-10-25T15:17:03.058528+00:00
+ - user: None
+ - tags: []
+
+## IdiotLamborghini
+ - [https://idiotlamborghini.com](https://idiotlamborghini.com)
+ - date published: 2023-10-25T15:17:04.847363+00:00
+ - user: None
+ - tags: []
+
+## Web Server's Default Page
+ - [https://totton.idirect.com](https://totton.idirect.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Why Not Mars (Idle Words)
+ - [https://idlewords.com](https://idlewords.com)
+ - date published: 2023-10-25T15:17:08.885229+00:00
+ - user: None
+ - tags: []
+
 ## Application Security
  - [https://www.idontplaydarts.com](https://www.idontplaydarts.com)
  - date published: 2024-01-09T02:39:13.178327+00:00
@@ -39,6 +165,12 @@
  - date published: 2024-01-09T02:39:21.575222+00:00
  - user: None
  - tags: []
+
+## I Fucking Hate Jira (2022)
+ - [https://ifuckinghatejira.com](https://ifuckinghatejira.com)
+ - date published: 2024-02-14T20:23:42+00:00
+ - user: None
+ - tags: ['wtf', 'jira', 'funny']
 
 ## None
  - [https://ifyouhatephp.com](https://ifyouhatephp.com)
@@ -1369,6 +1501,12 @@
 ## It's FOSS News
  - [https://news.itsfoss.com](https://news.itsfoss.com)
  - date published: 2023-10-25T09:33:39.850848+00:00
+ - user: None
+ - tags: []
+
+## It's Just DJ
+ - [https://www.itsjustdj.com](https://www.itsjustdj.com)
+ - date published: 2024-02-14T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5081,6 +5219,12 @@
  - user: None
  - tags: []
 
+## koolikedat.com
+ - [https://koolikedat.com](https://koolikedat.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## A high-quality custom software company
  - [https://koptional.com](https://koptional.com)
  - date published: 2023-10-25T15:38:40.699423+00:00
@@ -5853,150 +5997,6 @@ Chamber Music, Symphony
 ## Home | Laws of UX
  - [https://lawsofux.com](https://lawsofux.com)
  - date published: 2023-10-25T15:43:06.384994+00:00
- - user: None
- - tags: []
-
-## Law Street Media | Legal news that leads to business.
- - [https://lawstreetmedia.com](https://lawstreetmedia.com)
- - date published: 2024-01-09T02:41:40.773575+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.layoff-sucks.com](https://www.layoff-sucks.com)
- - date published: 2024-01-09T02:41:48.638192+00:00
- - user: None
- - tags: []
-
-## LayoffsTracker – Track all Tech & Startup layoffs globally
- - [https://layoffstracker.com](https://layoffstracker.com)
- - date published: 2023-10-25T15:43:16.547456+00:00
- - user: None
- - tags: []
-
-## Lazard | Lazard
- - [https://www.lazard.com](https://www.lazard.com)
- - date published: 2023-10-25T15:43:20.691281+00:00
- - user: None
- - tags: []
-
-## LBRY - Content Freedom
- - [https://lbry.com](https://lbry.com)
- - date published: 2023-10-25T11:44:31.083607+00:00
- - user: None
- - tags: ['video streaming']
-
-## LCPDFR.com
- - [https://www.lcpdfr.com](https://www.lcpdfr.com)
- - date published: 2023-10-25T11:16:47.019672+00:00
- - user: None
- - tags: []
-
-## None
- - [https://ldjam.com](https://ldjam.com)
- - date published: 2024-01-09T02:41:49.233270+00:00
- - user: None
- - tags: []
-
-## Lost Boy – The blog of @ldodds
- - [https://blog.ldodds.com](https://blog.ldodds.com)
- - date published: 2023-10-25T15:43:24.686241+00:00
- - user: None
- - tags: []
-
-## Le blog Récifal – Aquarium d'eau de mer tropicale
- - [https://le-blog-recifal.com](https://le-blog-recifal.com)
- - date published: 2023-12-09T16:39:06.936796+00:00
- - user: None
- - tags: ['personal']
-
-## Ideas on Software Engineering
- - [https://john.leacox.com](https://john.leacox.com)
- - date published: 2023-11-29T14:44:24.296491+00:00
- - user: None
- - tags: ['personal']
-
-## Lead Adventure Forum - Index
- - [https://leadadventureforum.com](https://leadadventureforum.com)
- - date published: 2023-11-01T18:38:25.808998+00:00
- - user: None
- - tags: ['tabletop games', 'miniatures']
-
-## The home of engineering leadership | LeadDev
- - [https://leaddev.com](https://leaddev.com)
- - date published: 2023-10-25T15:43:28.840460+00:00
- - user: None
- - tags: []
-
-## Leaded Solder | Old computer repair, history and programming.
- - [https://www.leadedsolder.com](https://www.leadedsolder.com)
- - date published: 2023-10-25T15:43:32.295992+00:00
- - user: None
- - tags: []
-
-## Shopping | Branded Clothing Retailers | Leading Labels Store
- - [https://www.leading-labels.com](https://www.leading-labels.com)
- - date published: 2024-01-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Leading in Product | Benedikt Kantus | Substack
- - [https://www.leadinginproduct.com](https://www.leadinginproduct.com)
- - date published: 2023-11-21T09:09:34.603189+00:00
- - user: None
- - tags: []
-
-## Leaflet — an open-source JavaScript library for interactive maps
- - [https://leafletjs.com](https://leafletjs.com)
- - date published: 2023-12-11T13:13:52+00:00
- - user: rumpel
- - tags: ['open source', 'open street maps', 'service maps', 'leaflet', 'maps']
-
-## LoL Champions & Summoners Stats & Rankings - LeagueOfGraphs
- - [https://www.leagueofgraphs.com](https://www.leagueofgraphs.com)
- - date published: 2023-11-12T07:39:06.736085+00:00
- - user: None
- - tags: []
-
-## https://www.leagueoflegends.com
- - [https://www.leagueoflegends.com](https://www.leagueoflegends.com)
- - date published: 2023-11-02T10:41:02.774533+00:00
- - user: None
- - tags: []
-
-## And now it’s all this
- - [https://leancrew.com](https://leancrew.com)
- - date published: 2023-10-25T08:58:14.214738+00:00
- - user: None
- - tags: ['personal']
-
-## And now it’s all this
- - [https://www.leancrew.com](https://www.leancrew.com)
- - date published: 2024-01-09T02:41:51.560090+00:00
- - user: None
- - tags: []
-
-## Leandro Linares
- - [https://leandrolinares.com](https://leandrolinares.com)
- - date published: 2023-11-06T10:16:31.848185+00:00
- - user: None
- - tags: ['personal', 'blog']
-
-## JavaFiddle - Build and share Java code snippets in your browser
- - [https://javafiddle.leaningtech.com](https://javafiddle.leaningtech.com)
- - date published: 2023-10-25T15:43:39.439255+00:00
- - user: None
- - tags: []
-
-## Leaning Technologies Developer
- - [https://labs.leaningtech.com](https://labs.leaningtech.com)
- - date published: 2024-02-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## We Are WebAssembly Experts | Leaning Technologies
- - [https://leaningtech.com](https://leaningtech.com)
- - date published: 2023-10-25T15:43:41.678164+00:00
  - user: None
  - tags: []
 

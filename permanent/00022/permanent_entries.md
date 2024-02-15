@@ -1,3 +1,297 @@
+## Lendtech – BNPL | Fintech | Digital lending | E-commerce – digital finance foundation
+ - [https://www.lendtech.pl](https://www.lendtech.pl)
+ - date published: 2023-10-25T11:32:08.450588+00:00
+ - user: None
+ - tags: []
+
+## leroymerlin.pl
+ - [https://www.leroymerlin.pl](https://www.leroymerlin.pl)
+ - date published: 2023-10-25T16:58:15.546206+00:00
+ - user: None
+ - tags: ['shop']
+
+## Let's go retro! Komputery, gry i elektronika użytkowa
+ - [https://letsgoretro.pl](https://letsgoretro.pl)
+ - date published: 2024-02-06T15:25:21.429115+00:00
+ - user: None
+ - tags: ['retro games']
+
+## Hosting i Domeny • LH.pl • Zamów Teraz
+ - [https://www.lh.pl](https://www.lh.pl)
+ - date published: 2023-12-13T14:57:16.265740+00:00
+ - user: None
+ - tags: ['server hosting']
+
+## Portal LIBRUS
+ - [https://synergia.librus.pl](https://synergia.librus.pl)
+ - date published: 2023-10-29T15:21:47.167426+00:00
+ - user: None
+ - tags: ['government', 'social platform']
+
+## Łowcy Gier
+ - [https://lowcygier.pl](https://lowcygier.pl)
+ - date published: 2023-10-30T11:51:04.442781+00:00
+ - user: None
+ - tags: ['video games']
+
+## Loża L2 Walerian Łukasiński |
+ - [https://loza2.pl](https://loza2.pl)
+ - date published: 2023-12-05T15:23:47+00:00
+ - user: rumpel
+ - tags: []
+
+## Największy serwis o książkach. Porównywarka cen książek, opinie, oceny, rekomendacje, wywiady, aktualności.
+ - [https://lubimyczytac.pl](https://lubimyczytac.pl)
+ - date published: 2023-10-25T11:19:34.231441+00:00
+ - user: None
+ - tags: []
+
+## Polskie Radio Lublin
+ - [https://radio.lublin.pl](https://radio.lublin.pl)
+ - date published: 2023-10-25T22:28:34.758687+00:00
+ - user: None
+ - tags: []
+
+## Lublin112.pl - Wiadomości z Lublina i regionu. Ważne informacje z kraju
+ - [https://www.lublin112.pl](https://www.lublin112.pl)
+ - date published: 2023-12-21T12:40:49.083831+00:00
+ - user: None
+ - tags: []
+
+## Magazyn Auto
+ - [https://magazynauto.pl](https://magazynauto.pl)
+ - date published: 2024-01-09T03:44:22.357854+00:00
+ - user: None
+ - tags: []
+
+## Magazyn Gitarzysta - najlepszy serwis dla gitarzystów w Polsce!
+ - [https://magazyngitarzysta.pl](https://magazyngitarzysta.pl)
+ - date published: 2023-12-13T14:57:42.982425+00:00
+ - user: None
+ - tags: ['guitars', 'music news']
+
+## Magazyn Perkusista - uderzamy w punkt!
+ - [https://magazynperkusista.pl](https://magazynperkusista.pl)
+ - date published: 2023-12-13T14:57:52.978136+00:00
+ - user: None
+ - tags: ['music news']
+
+## Sklep - Maginarium.pl - produkty od fanów dla fanów!
+ - [https://maginarium.pl](https://maginarium.pl)
+ - date published: 2023-11-01T19:25:34.498894+00:00
+ - user: None
+ - tags: ['tabletop games', 'shop', 'wargames']
+
+## Kredyty, lokaty, konta bankowe, karty, ubezpieczenia online | mBank.pl
+ - [https://www.mbank.pl](https://www.mbank.pl)
+ - date published: 2023-10-25T11:29:41.608314+00:00
+ - user: None
+ - tags: []
+
+## Marcin Borkowski: Strona domowa
+ - [https://mbork.pl](https://mbork.pl)
+ - date published: 2023-10-25T08:55:20.152030+00:00
+ - user: None
+ - tags: ['personal']
+
+## Media Expert
+ - [https://www.mediaexpert.pl](https://www.mediaexpert.pl)
+ - date published: 2023-11-06T11:32:01.918013+00:00
+ - user: None
+ - tags: ['shop']
+
+## Media Markt - sklep internetowy RTV, AGD, elektronika
+ - [https://mediamarkt.pl](https://mediamarkt.pl)
+ - date published: 2023-10-24T20:17:37.051421+00:00
+ - user: None
+ - tags: []
+
+## Zdrowie w Twoich rękach - Medonet.pl
+ - [https://www.medonet.pl](https://www.medonet.pl)
+ - date published: 2023-10-25T22:28:48.204917+00:00
+ - user: None
+ - tags: []
+
+## Memy.pl - Zbiór najlepszych memów & generator memów
+ - [https://memy.pl](https://memy.pl)
+ - date published: 2023-10-25T14:21:28.640120+00:00
+ - user: None
+ - tags: []
+
+## Closer to Code - Blog about coding in various languages, security, and my other IT adventures.
+ - [https://mensfeld.pl](https://mensfeld.pl)
+ - date published: 2023-10-25T22:28:52.063079+00:00
+ - user: None
+ - tags: []
+
+## MetalNews.pl - Portal muzyczny dla fanów metalu i rocka
+ - [https://www.metalnews.pl](https://www.metalnews.pl)
+ - date published: 2023-10-29T15:28:56.379324+00:00
+ - user: None
+ - tags: ['music news']
+
+## MiastoDzieci.pl – atrakcje dla dzieci, wydarzenia, imprezy rodzinne
+ - [https://miastodzieci.pl](https://miastodzieci.pl)
+ - date published: 2024-01-13T08:39:30+00:00
+ - user: rumpel
+ - tags: ['kids', 'children']
+
+## Gry komputerowe, gry konsolowe, gry na komórkę, gry online i sprzęt komputerowy || MiastoGier.pl - wirtualna stolica gier
+ - [https://www.miastogier.pl](https://www.miastogier.pl)
+ - date published: 2023-11-13T11:58:36.214881+00:00
+ - user: None
+ - tags: ['game news', 'games']
+
+## Fundacja Internet. Czas działać!
+ - [https://www.midline.pl](https://www.midline.pl)
+ - date published: 2023-10-25T22:28:53.829582+00:00
+ - user: None
+ - tags: []
+
+## Jacek Migdal Web Presence
+ - [https://jacek.migdal.pl](https://jacek.migdal.pl)
+ - date published: 2023-10-25T22:28:55.417897+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Piotr Migdał
+ - [https://p.migdal.pl](https://p.migdal.pl)
+ - date published: 2023-10-25T09:24:21.804918+00:00
+ - user: None
+ - tags: ['personal']
+
+## Misyjne.pl - Portal chrześcijański dla ludzi z misją.
+ - [https://misyjne.pl](https://misyjne.pl)
+ - date published: 2023-10-25T10:13:22.284811+00:00
+ - user: None
+ - tags: ['catholic', 'christian']
+
+## Galeria Autorska Andrzeja Mleczki
+ - [https://mleczko.pl](https://mleczko.pl)
+ - date published: 2024-02-04T13:16:20+00:00
+ - user: rumpel
+ - tags: ['cartoons', 'comics strips']
+
+## :: modules.pl :: modules.pl
+ - [https://www.modules.pl](https://www.modules.pl)
+ - date published: 2024-01-24T14:38:04+00:00
+ - user: rumpel
+ - tags: ['keygen', 'chiptune', 'tracker music']
+
+## Money.pl - portal finansowy
+ - [https://www.money.pl](https://www.money.pl)
+ - date published: 2023-10-25T10:31:43.454780+00:00
+ - user: None
+ - tags: []
+
+## MorphOS.pl - Polska strona użytkowników MorphOS-a
+ - [https://morphos.pl](https://morphos.pl)
+ - date published: 2023-12-11T16:54:14.115677+00:00
+ - user: None
+ - tags: []
+
+## Medycyna Praktyczna
+ - [https://www.mp.pl](https://www.mp.pl)
+ - date published: 2023-12-11T09:38:44+00:00
+ - user: rumpel
+ - tags: ['healthcare']
+
+## Grupa MTP - lider branży spotkań w Polsce
+ - [https://www.mtp.pl](https://www.mtp.pl)
+ - date published: 2023-11-02T08:31:38.392932+00:00
+ - user: None
+ - tags: []
+
+## muno.pl
+ - [https://muno.pl](https://muno.pl)
+ - date published: 2023-11-13T12:33:03.253162+00:00
+ - user: None
+ - tags: ['music news']
+
+## Budowa domu, instalacje, wnętrza, fachowe porady - murator.pl
+ - [https://muratordom.pl](https://muratordom.pl)
+ - date published: 2023-10-25T10:45:29+00:00
+ - user: rumpel
+ - tags: ['home articles']
+
+## Czasopisma humanistyczne
+ - [https://bazhum.muzhp.pl](https://bazhum.muzhp.pl)
+ - date published: 2023-12-05T15:24:31+00:00
+ - user: rumpel
+ - tags: ['humanism']
+
+## Muzeum Historii Polski w Warszawie
+ - [https://muzhp.pl](https://muzhp.pl)
+ - date published: 2023-12-05T15:27:28+00:00
+ - user: rumpel
+ - tags: ['poland', 'museum', 'warsow', 'history']
+
+## MyCompanyPolska.pl - Strefa Ludzi Przedsiębiorczych
+ - [https://mycompanypolska.pl](https://mycompanypolska.pl)
+ - date published: 2023-10-25T22:29:04.592214+00:00
+ - user: None
+ - tags: []
+
+## Myslovitz – Oficjalna strona zespołu – ROCK HOUSE ENTERTAINMENT
+ - [https://www.myslovitz.pl](https://www.myslovitz.pl)
+ - date published: 2023-10-29T15:28:35.756499+00:00
+ - user: None
+ - tags: ['music band']
+
+## 💥Najlepsze komiksy
+ - [https://najlepszekomiksy.pl](https://najlepszekomiksy.pl)
+ - date published: 2023-12-11T12:58:56+00:00
+ - user: rumpel
+ - tags: ['comics']
+
+## NASK
+ - [https://www.nask.pl](https://www.nask.pl)
+ - date published: 2023-12-06T12:01:57+00:00
+ - user: rumpel
+ - tags: ['organization', 'cybersecurity', 'naukowa i akademicka sieć komputerowa']
+
+## Nasza Polska internetowy magazyn informacyjny
+ - [https://naszapolska.pl](https://naszapolska.pl)
+ - date published: 2024-01-09T03:44:25.873154+00:00
+ - user: None
+ - tags: []
+
+## naTemat.pl - informacje i opinie, którymi żyją Polacy
+ - [https://natemat.pl](https://natemat.pl)
+ - date published: 2023-11-06T22:10:38.945631+00:00
+ - user: None
+ - tags: []
+
+## National Geographic – przyroda, fotografia, nauka, ludzie, podróże, świat
+ - [https://www.national-geographic.pl](https://www.national-geographic.pl)
+ - date published: 2024-02-05T19:23:30.522432+00:00
+ - user: rumpel
+ - tags: ['nature', 'science']
+
+## Nauka o klimacie | naukaoklimacie.pl
+ - [https://naukaoklimacie.pl](https://naukaoklimacie.pl)
+ - date published: 2023-10-25T22:29:07.910756+00:00
+ - user: None
+ - tags: []
+
+## NEONET - Sklep internetowy z RTV, AGD i elektroniką
+ - [https://www.neonet.pl](https://www.neonet.pl)
+ - date published: 2023-10-24T20:17:38.296034+00:00
+ - user: None
+ - tags: []
+
+## NewsBook | Wiadomości z Polski i ze Świata
+ - [https://newsbook.pl](https://newsbook.pl)
+ - date published: 2023-10-25T22:29:12.332774+00:00
+ - user: None
+ - tags: []
+
+## NewsNaDziś - Codzienna dawka wiadomości z kraju i ze świata
+ - [https://newsnadzis.pl](https://newsnadzis.pl)
+ - date published: 2023-12-20T12:11:48.184858+00:00
+ - user: None
+ - tags: []
+
 ## Newsweek - Aktualne wiadomości z Polski i ze świata
  - [https://www.newsweek.pl](https://www.newsweek.pl)
  - date published: 2024-01-29T01:12:22.041542+00:00
@@ -2767,6 +3061,12 @@ Art Product Supply
  - user: None
  - tags: []
 
+## disease.sh
+ - [https://disease.sh](https://disease.sh)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['digital database', 'open api']
+
 ## Dmytro on Things
  - [https://dmytro.sh](https://dmytro.sh)
  - date published: 2023-10-25T22:38:14.858579+00:00
@@ -3695,6 +3995,12 @@ conflicts of interest and restore Community Trust.
 ## graz.social
  - [https://graz.social](https://graz.social)
  - date published: 2023-10-25T22:41:35.241574+00:00
+ - user: None
+ - tags: []
+
+## Mastodon
+ - [https://gultsch.social](https://gultsch.social)
+ - date published: 2024-02-14T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5703,312 +6009,6 @@ Introduction
 ## Militarnyi
  - [https://mil.in.ua](https://mil.in.ua)
  - date published: 2024-01-03T16:08:05.494735+00:00
- - user: None
- - tags: []
-
-## Офіційний імпортер автомобілів | Citroën [Україна]
- - [https://www.citroen.ua](https://www.citroen.ua)
- - date published: 2023-12-11T16:04:26.794282+00:00
- - user: None
- - tags: []
-
-## Андрій Головін – Блог | Персональний блог Андрія Головіна. По трохи про все.
- - [https://blog.andygol.co.ua](https://blog.andygol.co.ua)
- - date published: 2023-10-25T22:48:03.655543+00:00
- - user: None
- - tags: []
-
-## Ukraine News Premier Independent English-language Source — The New Voice of Ukraine
- - [https://english.nv.ua](https://english.nv.ua)
- - date published: 2023-11-14T17:39:42.631502+00:00
- - user: None
- - tags: []
-
-## Ukraine News today - Latest news & Video | RBC-Ukraine
- - [https://newsukraine.rbc.ua](https://newsukraine.rbc.ua)
- - date published: 2023-11-20T14:44:27.599913+00:00
- - user: None
- - tags: ['ukraine news']
-
-## Судово-юридична газета
- - [https://sud.ua](https://sud.ua)
- - date published: 2023-12-24T14:29:22.262220+00:00
- - user: None
- - tags: []
-
-## Укрінформ - актуальні новини України та світу
- - [https://www.ukrinform.ua](https://www.ukrinform.ua)
- - date published: 2024-01-30T01:45:45.408583+00:00
- - user: None
- - tags: []
-
-## NTV Uganda
- - [https://www.ntv.co.ug](https://www.ntv.co.ug)
- - date published: 2023-10-25T22:48:05.575547+00:00
- - user: None
- - tags: []
-
-## Hi Mom!‌
- - [https://omrelli.ug](https://omrelli.ug)
- - date published: 2023-10-25T22:48:06.493465+00:00
- - user: None
- - tags: []
-
-## University of Aberdeen
- - [https://www.abdn.ac.uk](https://www.abdn.ac.uk)
- - date published: 2023-12-29T15:34:32.664002+00:00
- - user: None
- - tags: []
-
-## University courses at ARU | Anglia Ruskin University - ARU
- - [https://www.aru.ac.uk](https://www.aru.ac.uk)
- - date published: 2023-11-13T10:20:41.441786+00:00
- - user: None
- - tags: []
-
-## University of Bath
- - [https://www.bath.ac.uk](https://www.bath.ac.uk)
- - date published: 2023-10-25T22:48:10.163673+00:00
- - user: None
- - tags: []
-
-## University of Birmingham - A leading global university
- - [https://www.birmingham.ac.uk](https://www.birmingham.ac.uk)
- - date published: 2023-10-25T22:48:18.220906+00:00
- - user: None
- - tags: []
-
-## The University of Brighton
- - [https://research.brighton.ac.uk](https://research.brighton.ac.uk)
- - date published: 2023-10-25T22:48:20.882555+00:00
- - user: None
- - tags: []
-
-## Homepage |  University of Bristol
- - [https://bristol.ac.uk](https://bristol.ac.uk)
- - date published: 2024-01-09T03:48:14.546752+00:00
- - user: None
- - tags: []
-
-## Homepage | University of Bristol
- - [https://www.bristol.ac.uk](https://www.bristol.ac.uk)
- - date published: 2023-10-25T22:48:23.421425+00:00
- - user: None
- - tags: []
-
-## Department of Archaeology |
- - [https://www.arch.cam.ac.uk](https://www.arch.cam.ac.uk)
- - date published: 2024-01-22T23:34:05.489313+00:00
- - user: None
- - tags: []
-
-## University of Cambridge
- - [https://www.cam.ac.uk](https://www.cam.ac.uk)
- - date published: 2023-10-25T22:48:25.688531+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science and Technology |
- - [https://www.cl.cam.ac.uk](https://www.cl.cam.ac.uk)
- - date published: 2023-10-25T22:48:31.027561+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science and Technology |
- - [https://www.cst.cam.ac.uk](https://www.cst.cam.ac.uk)
- - date published: 2023-11-17T13:27:14.224987+00:00
- - user: None
- - tags: []
-
-## DAMTP | Department of Applied Mathematics and Theoretical Physics
- - [https://www.damtp.cam.ac.uk](https://www.damtp.cam.ac.uk)
- - date published: 2024-01-29T15:52:36.727698+00:00
- - user: None
- - tags: []
-
-## Cambridge University Library |
- - [https://www.lib.cam.ac.uk](https://www.lib.cam.ac.uk)
- - date published: 2023-12-20T23:39:54.152345+00:00
- - user: None
- - tags: []
-
-## Cardiff University
- - [https://www.cardiff.ac.uk](https://www.cardiff.ac.uk)
- - date published: 2023-12-05T01:51:21.187586+00:00
- - user: None
- - tags: []
-
-## UK Centre for Ecology & Hydrology
- - [https://www.ceh.ac.uk](https://www.ceh.ac.uk)
- - date published: 2023-10-25T22:48:32.418903+00:00
- - user: None
- - tags: []
-
-## City, University of London | City, University of London
- - [https://www.city.ac.uk](https://www.city.ac.uk)
- - date published: 2023-12-19T10:51:17.231746+00:00
- - user: None
- - tags: []
-
-## The Francis Crick Institute
- - [https://www.crick.ac.uk](https://www.crick.ac.uk)
- - date published: 2023-11-08T11:00:49.102462+00:00
- - user: None
- - tags: []
-
-## Durham University
- - [https://www.durham.ac.uk](https://www.durham.ac.uk)
- - date published: 2023-11-02T13:02:33.895215+00:00
- - user: None
- - tags: []
-
-## EMBL-EBI homepage | EMBL-EBI
- - [https://www.ebi.ac.uk](https://www.ebi.ac.uk)
- - date published: 2023-10-25T22:48:33.245753+00:00
- - user: None
- - tags: []
-
-## School of Mathematics | School of Mathematics
- - [https://www.maths.ed.ac.uk](https://www.maths.ed.ac.uk)
- - date published: 2023-10-25T22:48:35.495631+00:00
- - user: None
- - tags: []
-
-## News
- - [https://news.exeter.ac.uk](https://news.exeter.ac.uk)
- - date published: 2023-11-05T21:53:50.885706+00:00
- - user: None
- - tags: []
-
-## Astronomy & Astrophysics Group | University of Glasgow
- - [https://www.astro.gla.ac.uk](https://www.astro.gla.ac.uk)
- - date published: 2023-12-19T10:03:15.681293+00:00
- - user: None
- - tags: []
-
-## The University of Glasgow, Scotland, UK. A world top 100 university
- - [https://www.gla.ac.uk](https://www.gla.ac.uk)
- - date published: 2023-10-25T22:48:37.249525+00:00
- - user: None
- - tags: []
-
-## The Institute of Cancer Research, London
- - [https://www.icr.ac.uk](https://www.icr.ac.uk)
- - date published: 2023-11-03T11:36:33.556794+00:00
- - user: None
- - tags: []
-
-## Spiral: Home
- - [https://spiral.imperial.ac.uk](https://spiral.imperial.ac.uk)
- - date published: 2023-10-25T22:48:39.774318+00:00
- - user: None
- - tags: []
-
-## Imperial College London
- - [https://www.imperial.ac.uk](https://www.imperial.ac.uk)
- - date published: 2023-10-25T22:48:43.072561+00:00
- - user: None
- - tags: []
-
-## Internet Archaeology - Global. Open. Free. Peer-reviewed archaeological research
- - [https://intarch.ac.uk](https://intarch.ac.uk)
- - date published: 2023-10-25T22:48:44.581467+00:00
- - user: None
- - tags: []
-
-## King's College London
- - [https://www.kcl.ac.uk](https://www.kcl.ac.uk)
- - date published: 2023-10-27T12:08:52.500221+00:00
- - user: None
- - tags: []
-
-## University of Leeds
- - [https://www.leeds.ac.uk](https://www.leeds.ac.uk)
- - date published: 2023-10-25T22:48:46.915969+00:00
- - user: None
- - tags: []
-
-## University of Liverpool News
- - [https://news.liverpool.ac.uk](https://news.liverpool.ac.uk)
- - date published: 2024-01-06T10:10:17.822290+00:00
- - user: None
- - tags: []
-
-## LSE Blogs | Expert analysis & debate from LSE
- - [https://blogs.lse.ac.uk](https://blogs.lse.ac.uk)
- - date published: 2023-10-25T22:48:48.518267+00:00
- - user: None
- - tags: []
-
-## The London School of Hygiene & Tropical Medicine | LSHTM
- - [https://www.lshtm.ac.uk](https://www.lshtm.ac.uk)
- - date published: 2023-10-25T22:48:50.709213+00:00
- - user: None
- - tags: []
-
-## The things we do here make a difference out there | Newcastle University
- - [https://www.ncl.ac.uk](https://www.ncl.ac.uk)
- - date published: 2023-12-02T11:30:59.057474+00:00
- - user: None
- - tags: []
-
-## Home | Natural History Museum
- - [https://www.nhm.ac.uk](https://www.nhm.ac.uk)
- - date published: 2023-10-27T12:08:54.547443+00:00
- - user: None
- - tags: ['museum']
-
-## National Museums Scotland
- - [https://www.nms.ac.uk](https://www.nms.ac.uk)
- - date published: 2024-01-05T12:09:48.878950+00:00
- - user: None
- - tags: []
-
-## Home  | Nottingham Trent University
- - [https://www.ntu.ac.uk](https://www.ntu.ac.uk)
- - date published: 2023-12-12T22:22:47.615272+00:00
- - user: None
- - tags: []
-
-## Practical Ethics
- - [https://blog.practicalethics.ox.ac.uk](https://blog.practicalethics.ox.ac.uk)
- - date published: 2023-10-25T22:49:17.344700+00:00
- - user: None
- - tags: []
-
-## Bodleian Libraries blogs
- - [https://blogs.bodleian.ox.ac.uk](https://blogs.bodleian.ox.ac.uk)
- - date published: 2023-12-22T21:18:28.167479+00:00
- - user: None
- - tags: []
-
-## https://eodg.atm.ox.ac.uk
- - [https://eodg.atm.ox.ac.uk](https://eodg.atm.ox.ac.uk)
- - date published: 2024-01-09T03:48:15.383262+00:00
- - user: None
- - tags: []
-
-## Home — Centre for Evidence-Based Medicine (CEBM), University of Oxford
- - [https://www.cebm.ox.ac.uk](https://www.cebm.ox.ac.uk)
- - date published: 2023-10-25T22:49:23.492759+00:00
- - user: None
- - tags: []
-
-## Department of Computer Science, University of Oxford
- - [https://www.cs.ox.ac.uk](https://www.cs.ox.ac.uk)
- - date published: 2023-10-25T11:20:51.683475+00:00
- - user: None
- - tags: []
-
-## Home — Department of Physiology, Anatomy and Genetics (DPAG)
- - [https://www.dpag.ox.ac.uk](https://www.dpag.ox.ac.uk)
- - date published: 2023-10-31T19:57:19.175495+00:00
- - user: None
- - tags: []
-
-## OII | Homepage
- - [https://www.oii.ox.ac.uk](https://www.oii.ox.ac.uk)
- - date published: 2023-11-21T16:29:45.007881+00:00
  - user: None
  - tags: []
 

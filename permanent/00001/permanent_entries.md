@@ -1,3 +1,27 @@
+## A powerhouse of discovery and innovation | Mathematics
+ - [https://www.math.uwaterloo.ca](https://www.math.uwaterloo.ca)
+ - date published: 2023-10-25T12:09:20.191511+00:00
+ - user: None
+ - tags: []
+
+## About
+ - [https://varun.ca](https://varun.ca)
+ - date published: 2023-10-25T09:02:48.656185+00:00
+ - user: None
+ - tags: ['personal']
+
+## Vitalik Buterin's website
+ - [https://vitalik.ca](https://vitalik.ca)
+ - date published: 2023-10-25T09:03:03.847296+00:00
+ - user: None
+ - tags: ['personal']
+
+## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
+ - [https://wingfelder.ca](https://wingfelder.ca)
+ - date published: 2024-01-11T13:28:46.842673+00:00
+ - user: None
+ - tags: []
+
 ## Women of Influence –
  - [https://www.womenofinfluence.ca](https://www.womenofinfluence.ca)
  - date published: 2023-10-25T12:09:32.572588+00:00
@@ -1547,6 +1571,12 @@
  - user: None
  - tags: []
 
+## What are countries neighbouring the Baltic Sea doing to counteract the energy crisis? - EU Reporter
+ - [https://www.eureporter.co](https://www.eureporter.co)
+ - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## https://links.fable.co
  - [https://links.fable.co](https://links.fable.co)
  - date published: 2023-11-20T16:24:00.649414+00:00
@@ -1564,6 +1594,12 @@
  - date published: 2023-10-25T12:18:53.530447+00:00
  - user: None
  - tags: []
+
+## Welcome to gbbns.co
+ - [https://www.gbbns.co](https://www.gbbns.co)
+ - date published: 2024-02-14T08:42:49.369808+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Save your favorite X (Twitter) and Bluesky bookmarks in one place - dewey.
  - [https://getdewey.co](https://getdewey.co)
@@ -2999,6 +3035,12 @@
  - user: None
  - tags: ['video game music']
 
+## None
+ - [http://Listen.NoLife-Radio.com](http://Listen.NoLife-Radio.com)
+ - date published: 2024-02-15T01:52:02.008216+00:00
+ - user: None
+ - tags: []
+
 ## Who's In Charge of My Mind?
  - [https://NotMyMind.com](https://NotMyMind.com)
  - date published: 2023-12-19T23:17:03.469269+00:00
@@ -3010,6 +3052,12 @@
  - date published: 2023-10-25T12:28:34.794655+00:00
  - user: None
  - tags: []
+
+## The Project - PySimpleGUI Documentation
+ - [https://docs.PySimpleGUI.com](https://docs.PySimpleGUI.com)
+ - date published: 2024-02-14T15:25:27.937708+00:00
+ - user: None
+ - tags: ['python']
 
 ## Rocket Money - Take control of your money
  - [https://RocketMoney.com](https://RocketMoney.com)
@@ -3716,6 +3764,12 @@
 ## Adam Mattis - Technology & Operations Exec
  - [https://www.adammattis.com](https://www.adammattis.com)
  - date published: 2024-01-19T13:01:04.477003+00:00
+ - user: None
+ - tags: []
+
+## Adam Metropolis
+ - [https://www.adammetropolis.com](https://www.adammetropolis.com)
+ - date published: 2000-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4483,6 +4537,12 @@
  - user: None
  - tags: []
 
+## Akade Wear | Retrowave Clothing | 80's Themed Streetwear  |
+ - [https://www.akadewear.com](https://www.akadewear.com)
+ - date published: 2024-02-14T09:43:28+00:00
+ - user: rumpel
+ - tags: ['new retro wave', 'clothes', 'merchendise', 'fashion', 'retro wave']
+
 ## Cloud Computing, Security, Content Delivery (CDN) | Akamai
  - [https://www.akamai.com](https://www.akamai.com)
  - date published: 2023-10-25T12:36:57.964483+00:00
@@ -4620,6 +4680,12 @@
  - date published: 2024-02-08T16:47:37.643270+00:00
  - user: None
  - tags: []
+
+## Alec Kornblum's Website
+ - [https://aleckornblum.com](https://aleckornblum.com)
+ - date published: 2024-02-14T08:44:45.112086+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Dropsafe
  - [https://alecmuffett.com](https://alecmuffett.com)
@@ -5239,6 +5305,12 @@
  - user: None
  - tags: ['company', 'gatekeeper', 'digital marketplace']
 
+## BASE TTS: The largest text-to-speech model to-date
+ - [https://amazon-ltts-paper.com](https://amazon-ltts-paper.com)
+ - date published: 2024-02-14T19:09:29+00:00
+ - user: None
+ - tags: []
+
 ## Cloud Object Storage - Amazon S3  - AWS
  - [https://s3-eu-west-1.amazonaws.com](https://s3-eu-west-1.amazonaws.com)
  - date published: 2024-01-05T00:00:00+00:00
@@ -5605,6 +5677,12 @@
  - user: None
  - tags: ['music band']
 
+## Anand Chowdhary
+ - [https://anandchowdhary.com](https://anandchowdhary.com)
+ - date published: 2024-02-14T08:42:46.856636+00:00
+ - user: None
+ - tags: ['personal']
+
 ## AnandTech Forums: Technology, Hardware, Software, and Deals
  - [https://forums.anandtech.com](https://forums.anandtech.com)
  - date published: 2023-11-19T14:59:04.898167+00:00
@@ -5920,84 +5998,6 @@
 ## Angela Winter
  - [https://www.angelawinter.com](https://www.angelawinter.com)
  - date published: 2024-01-13T22:52:43.550542+00:00
- - user: None
- - tags: []
-
-## Angélique Weger
- - [https://angeliqueweger.com](https://angeliqueweger.com)
- - date published: 2023-12-19T19:09:14.788158+00:00
- - user: None
- - tags: ['personal']
-
-## Anggriawan Sugianto
- - [https://blog.anggriawan.com](https://blog.anggriawan.com)
- - date published: 2024-01-06T08:53:34.572563+00:00
- - user: None
- - tags: []
-
-## AngleLock Extruded Aluminum Framing | Beats T-Slots & Steel
- - [https://anglelock.com](https://anglelock.com)
- - date published: 2023-11-01T11:38:19.728459+00:00
- - user: None
- - tags: []
-
-## Angry Reviewer - Academic style editor
- - [https://www.angryreviewer.com](https://www.angryreviewer.com)
- - date published: 2023-10-25T08:31:09.186019+00:00
- - user: None
- - tags: []
-
-## Angstronomics | SkyJuice | Substack
- - [https://www.angstronomics.com](https://www.angstronomics.com)
- - date published: 2023-10-25T12:41:32.849431+00:00
- - user: None
- - tags: []
-
-## Angus Cheng
- - [https://anguscheng.com](https://anguscheng.com)
- - date published: 2023-12-12T08:03:55.203060+00:00
- - user: None
- - tags: []
-
-## anhudy
- - [https://www.anhudy.com](https://www.anhudy.com)
- - date published: 2024-01-07T22:19:29.002878+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.anichexperience.com](https://www.anichexperience.com)
- - date published: 2023-11-29T16:22:28.621282+00:00
- - user: None
- - tags: ['personal']
-
-## Anil Dash
- - [https://www.anildash.com](https://www.anildash.com)
- - date published: 2023-10-25T09:04:53.040594+00:00
- - user: None
- - tags: ['personal']
-
-## Animated Knots by Grog | Learn how to tie knots with step-by-step animation
- - [https://www.animatedknots.com](https://www.animatedknots.com)
- - date published: 2023-10-25T12:41:38.429834+00:00
- - user: None
- - tags: []
-
-## Anime Recommendations, Reviews, Manga and More! | Anime-Planet
- - [https://www.anime-planet.com](https://www.anime-planet.com)
- - date published: 2023-10-25T13:11:12.508733+00:00
- - user: None
- - tags: ['anime']
-
-## anime.js • JavaScript animation engine
- - [https://animejs.com](https://animejs.com)
- - date published: 2023-10-25T12:41:44.374076+00:00
- - user: None
- - tags: []
-
-## Anime News Network
- - [https://www.animenewsnetwork.com](https://www.animenewsnetwork.com)
- - date published: 2023-10-25T14:21:02.878748+00:00
  - user: None
  - tags: []
 

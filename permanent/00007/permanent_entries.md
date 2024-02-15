@@ -1,3 +1,147 @@
+## Law Street Media | Legal news that leads to business.
+ - [https://lawstreetmedia.com](https://lawstreetmedia.com)
+ - date published: 2024-01-09T02:41:40.773575+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.layoff-sucks.com](https://www.layoff-sucks.com)
+ - date published: 2024-01-09T02:41:48.638192+00:00
+ - user: None
+ - tags: []
+
+## LayoffsTracker – Track all Tech & Startup layoffs globally
+ - [https://layoffstracker.com](https://layoffstracker.com)
+ - date published: 2023-10-25T15:43:16.547456+00:00
+ - user: None
+ - tags: []
+
+## Lazard | Lazard
+ - [https://www.lazard.com](https://www.lazard.com)
+ - date published: 2023-10-25T15:43:20.691281+00:00
+ - user: None
+ - tags: []
+
+## LBRY - Content Freedom
+ - [https://lbry.com](https://lbry.com)
+ - date published: 2023-10-25T11:44:31.083607+00:00
+ - user: None
+ - tags: ['video streaming']
+
+## LCPDFR.com
+ - [https://www.lcpdfr.com](https://www.lcpdfr.com)
+ - date published: 2023-10-25T11:16:47.019672+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://ldjam.com](https://ldjam.com)
+ - date published: 2024-01-09T02:41:49.233270+00:00
+ - user: None
+ - tags: []
+
+## Lost Boy – The blog of @ldodds
+ - [https://blog.ldodds.com](https://blog.ldodds.com)
+ - date published: 2023-10-25T15:43:24.686241+00:00
+ - user: None
+ - tags: []
+
+## Le blog Récifal – Aquarium d'eau de mer tropicale
+ - [https://le-blog-recifal.com](https://le-blog-recifal.com)
+ - date published: 2023-12-09T16:39:06.936796+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ideas on Software Engineering
+ - [https://john.leacox.com](https://john.leacox.com)
+ - date published: 2023-11-29T14:44:24.296491+00:00
+ - user: None
+ - tags: ['personal']
+
+## Lead Adventure Forum - Index
+ - [https://leadadventureforum.com](https://leadadventureforum.com)
+ - date published: 2023-11-01T18:38:25.808998+00:00
+ - user: None
+ - tags: ['tabletop games', 'miniatures']
+
+## The home of engineering leadership | LeadDev
+ - [https://leaddev.com](https://leaddev.com)
+ - date published: 2023-10-25T15:43:28.840460+00:00
+ - user: None
+ - tags: []
+
+## Leaded Solder | Old computer repair, history and programming.
+ - [https://www.leadedsolder.com](https://www.leadedsolder.com)
+ - date published: 2023-10-25T15:43:32.295992+00:00
+ - user: None
+ - tags: []
+
+## Shopping | Branded Clothing Retailers | Leading Labels Store
+ - [https://www.leading-labels.com](https://www.leading-labels.com)
+ - date published: 2024-01-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Leading in Product | Benedikt Kantus | Substack
+ - [https://www.leadinginproduct.com](https://www.leadinginproduct.com)
+ - date published: 2023-11-21T09:09:34.603189+00:00
+ - user: None
+ - tags: []
+
+## Leaflet — an open-source JavaScript library for interactive maps
+ - [https://leafletjs.com](https://leafletjs.com)
+ - date published: 2023-12-11T13:13:52+00:00
+ - user: rumpel
+ - tags: ['open source', 'open street maps', 'service maps', 'leaflet', 'maps']
+
+## LoL Champions & Summoners Stats & Rankings - LeagueOfGraphs
+ - [https://www.leagueofgraphs.com](https://www.leagueofgraphs.com)
+ - date published: 2023-11-12T07:39:06.736085+00:00
+ - user: None
+ - tags: []
+
+## https://www.leagueoflegends.com
+ - [https://www.leagueoflegends.com](https://www.leagueoflegends.com)
+ - date published: 2023-11-02T10:41:02.774533+00:00
+ - user: None
+ - tags: []
+
+## And now it’s all this
+ - [https://leancrew.com](https://leancrew.com)
+ - date published: 2023-10-25T08:58:14.214738+00:00
+ - user: None
+ - tags: ['personal']
+
+## And now it’s all this
+ - [https://www.leancrew.com](https://www.leancrew.com)
+ - date published: 2024-01-09T02:41:51.560090+00:00
+ - user: None
+ - tags: []
+
+## Leandro Linares
+ - [https://leandrolinares.com](https://leandrolinares.com)
+ - date published: 2023-11-06T10:16:31.848185+00:00
+ - user: None
+ - tags: ['personal', 'blog']
+
+## JavaFiddle - Build and share Java code snippets in your browser
+ - [https://javafiddle.leaningtech.com](https://javafiddle.leaningtech.com)
+ - date published: 2023-10-25T15:43:39.439255+00:00
+ - user: None
+ - tags: []
+
+## Leaning Technologies Developer
+ - [https://labs.leaningtech.com](https://labs.leaningtech.com)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## We Are WebAssembly Experts | Leaning Technologies
+ - [https://leaningtech.com](https://leaningtech.com)
+ - date published: 2023-10-25T15:43:41.678164+00:00
+ - user: None
+ - tags: []
+
 ## Leanne Hughes
  - [https://www.leannehughes.com](https://www.leannehughes.com)
  - date published: 2023-12-05T14:36:52.780515+00:00
@@ -490,6 +634,12 @@
  - user: None
  - tags: ['the left wing', 'lgbt']
 
+## Home - Lawn & Garden Retailer
+ - [https://lgrmag.com](https://lgrmag.com)
+ - date published: 2024-02-14T08:03:01.694971+00:00
+ - user: None
+ - tags: []
+
 ## LGUG2Z
  - [https://lgug2z.com](https://lgug2z.com)
  - date published: 2023-10-25T15:46:06.632718+00:00
@@ -759,6 +909,12 @@
  - date published: 2023-11-19T10:38:56.546441+00:00
  - user: None
  - tags: []
+
+## Smart Links for Music Marketing, Podcasts and Artist Promotion | Linkfire
+ - [https://www.linkfire.com](https://www.linkfire.com)
+ - date published: 2024-02-14T09:38:43+00:00
+ - user: rumpel
+ - tags: ['link service']
 
 ## Linkidex
  - [https://linkidex.com](https://linkidex.com)
@@ -1690,6 +1846,12 @@
  - user: None
  - tags: []
 
+## Luísa Baltazar
+ - [https://luisabaltazar.com](https://luisabaltazar.com)
+ - date published: 2023-08-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Lujendra Ojha
  - [https://www.lujendraojha.com](https://www.lujendraojha.com)
  - date published: 2008-01-01T00:00:00+00:00
@@ -1828,6 +1990,12 @@ diversions.
  - date published: 2024-02-08T16:28:09.952810+00:00
  - user: None
  - tags: []
+
+## Lyndon Hill
+ - [https://lyndonhill.com](https://lyndonhill.com)
+ - date published: 2024-02-14T08:48:56.833040+00:00
+ - user: None
+ - tags: ['personal']
 
 ## M31 Coding - Computing & Education
  - [https://www.m31coding.com](https://www.m31coding.com)
@@ -4650,6 +4818,12 @@ diversions.
  - user: None
  - tags: []
 
+## melanie kat
+ - [https://melaniekat.com](https://melaniekat.com)
+ - date published: 2024-02-14T11:11:45.802866+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Melodiefabriek
  - [https://melodiefabriek.com](https://melodiefabriek.com)
  - date published: 2024-02-03T18:44:55.368084+00:00
@@ -5731,6 +5905,12 @@ diversions.
  - user: None
  - tags: ['personal']
 
+## Miro | The Visual Workspace for Innovation
+ - [https://miro.com](https://miro.com)
+ - date published: 2024-02-14T21:45:05+00:00
+ - user: rumpel
+ - tags: []
+
 ## Rich Mironov's Product Bytes
  - [https://www.mironov.com](https://www.mironov.com)
  - date published: 2023-10-25T16:04:55.298712+00:00
@@ -5818,186 +5998,6 @@ diversions.
 ## Michael Tsai - Good Evening
  - [https://mjtsai.com](https://mjtsai.com)
  - date published: 2023-10-25T16:05:23.023112+00:00
- - user: None
- - tags: []
-
-## Michele Hansen
- - [https://mjwhansen.com](https://mjwhansen.com)
- - date published: 2024-02-13T18:10:01.467771+00:00
- - user: None
- - tags: ['personal']
-
-## MKBHD
- - [https://mkbhd.com](https://mkbhd.com)
- - date published: 2023-10-27T11:54:59.212907+00:00
- - user: None
- - tags: []
-
-## ML Blocks | Home
- - [https://www.mlblocks.com](https://www.mlblocks.com)
- - date published: 2024-02-01T17:10:05.126078+00:00
- - user: None
- - tags: []
-
-## ML Contests
- - [https://mlcontests.com](https://mlcontests.com)
- - date published: 2023-12-11T04:38:14.349312+00:00
- - user: None
- - tags: []
-
-## MLE Online
- - [https://mle-online.com](https://mle-online.com)
- - date published: 2023-10-25T16:05:27.416057+00:00
- - user: None
- - tags: []
-
-## Michigan Local News, Breaking News, Sports &amp; Weather
- - [https://www.mlive.com](https://www.mlive.com)
- - date published: 2023-11-03T15:33:21.597418+00:00
- - user: None
- - tags: []
-
-## Matteo Mazzarolo
- - [https://mmazzarolo.com](https://mmazzarolo.com)
- - date published: 2023-10-25T16:05:28.258789+00:00
- - user: None
- - tags: []
-
-## Monday Morning Haskell
- - [https://mmhaskell.com](https://mmhaskell.com)
- - date published: 2023-10-25T16:05:30.500620+00:00
- - user: None
- - tags: []
-
-## Home | MMLab@NTU
- - [https://www.mmlab-ntu.com](https://www.mmlab-ntu.com)
- - date published: 2023-10-25T16:05:35.375867+00:00
- - user: None
- - tags: []
-
-## World of Warcraft News and Raiding Strategies - MMO-Champion
- - [https://www.mmo-champion.com](https://www.mmo-champion.com)
- - date published: 2023-12-13T16:21:13.253161+00:00
- - user: None
- - tags: []
-
-## MMO Video Game News, Reviews & Games List | MMORPG.com
- - [https://www.mmorpg.com](https://www.mmorpg.com)
- - date published: 2023-12-13T16:19:05.456659+00:00
- - user: None
- - tags: []
-
-## MNT Research GmbH
- - [https://mntre.com](https://mntre.com)
- - date published: 2024-01-04T19:00:48+00:00
- - user: rumpel
- - tags: ['hardware', 'open hardware']
-
-## renegat0x0 site
- - [https://mb.moatads.com](https://mb.moatads.com)
- - date published: 2024-01-09T02:44:01.599784+00:00
- - user: None
- - tags: []
-
-## MOBAFire
- - [https://www.mobafire.com](https://www.mobafire.com)
- - date published: 2023-12-13T16:20:06.914053+00:00
- - user: None
- - tags: []
-
-## Mobile Cuisine: Serving the Food Industry Since 2010
- - [https://mobile-cuisine.com](https://mobile-cuisine.com)
- - date published: 2024-02-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Mobile Dev Memo by Eric Seufert
- - [https://mobiledevmemo.com](https://mobiledevmemo.com)
- - date published: 2022-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://mobilesyrup.com](https://mobilesyrup.com)
- - date published: 2023-11-13T04:39:37.774142+00:00
- - user: None
- - tags: []
-
-## Video Game Database - MobyGames
- - [https://www.mobygames.com](https://www.mobygames.com)
- - date published: 2023-12-11T18:42:10.778368+00:00
- - user: None
- - tags: []
-
-## Moby Pixel | Making Digital Doodads
- - [https://www.mobypixel.com](https://www.mobypixel.com)
- - date published: 2010-01-01T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Games and mods development for Windows, Linux and Mac - Mod DB
- - [https://www.moddb.com](https://www.moddb.com)
- - date published: 2023-10-25T11:09:37.572465+00:00
- - user: None
- - tags: ['game mods']
-
-## Welcome | Modding OpenMW: A guide to modding and modernizing Morrowind with OpenMW
- - [https://modding-openmw.com](https://modding-openmw.com)
- - date published: 2023-10-25T11:16:48.373285+00:00
- - user: None
- - tags: ['open source', 'the elder scrolls']
-
-## Ozmo
- - [https://fi.sds.modeaondemand.com](https://fi.sds.modeaondemand.com)
- - date published: 2023-10-25T16:05:36.500010+00:00
- - user: None
- - tags: []
-
-## Modern SQL: A lot has changed since SQL-92
- - [https://modern-sql.com](https://modern-sql.com)
- - date published: 2023-10-25T16:05:37.782237+00:00
- - user: None
- - tags: []
-
-## Home - Modern CSV
- - [https://www.moderncsv.com](https://www.moderncsv.com)
- - date published: 2023-10-25T16:05:39.699562+00:00
- - user: None
- - tags: []
-
-## Brian Lee's Website
- - [https://www.moderndescartes.com](https://www.moderndescartes.com)
- - date published: 2023-10-25T16:05:43.508519+00:00
- - user: None
- - tags: []
-
-## MC++ BLOG – Der Blog für Modernes C++ von Rainer Grimm
- - [https://modernescpp.com](https://modernescpp.com)
- - date published: 2023-10-25T16:05:47.749861+00:00
- - user: None
- - tags: []
-
-## Homepage - Modern Farmer
- - [https://modernfarmer.com](https://modernfarmer.com)
- - date published: 2023-10-25T10:50:56.136058+00:00
- - user: None
- - tags: []
-
-## Modern Font Stacks
- - [https://modernfontstacks.com](https://modernfontstacks.com)
- - date published: 2023-10-25T16:05:50.332208+00:00
- - user: None
- - tags: []
-
-## Modern for Hacker News
- - [https://www.modernhn.com](https://www.modernhn.com)
- - date published: 2023-10-25T16:05:51.568528+00:00
- - user: None
- - tags: []
-
-## Modernizr: the feature detection library for HTML5/CSS3
- - [https://modernizr.com](https://modernizr.com)
- - date published: 2024-01-09T02:44:07.641831+00:00
  - user: None
  - tags: []
 

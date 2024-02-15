@@ -412,6 +412,12 @@
  - user: None
  - tags: []
 
+## None
+ - [https://console.dataherald.ai](https://console.dataherald.ai)
+ - date published: 2024-02-14T21:17:08.089087+00:00
+ - user: None
+ - tags: []
+
 ## The Deep Learning Development Platform | Deci
  - [https://deci.ai](https://deci.ai)
  - date published: 2023-10-25T11:38:07.322500+00:00
@@ -2974,6 +2980,12 @@
  - user: None
  - tags: []
 
+## Permaculture | Cecilia Macaulay | Australia
+ - [https://www.ceciliamacaulay.com.au](https://www.ceciliamacaulay.com.au)
+ - date published: 2024-02-14T08:49:41.318177+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Christmas & Volling Accountants in Victor Harbor, Australia
  - [https://christmasvolling.com.au](https://christmasvolling.com.au)
  - date published: 2024-02-08T22:51:11.781452+00:00
@@ -3748,6 +3760,12 @@
  - user: None
  - tags: []
 
+## De Oosterweelverbinding doet 't Stad herademen | De Oosterweelverbinding
+ - [https://www.oosterweelverbinding.be](https://www.oosterweelverbinding.be)
+ - date published: 2024-02-14T15:38:35.712162+00:00
+ - user: None
+ - tags: []
+
 ## There oughta be…
  - [https://there.oughta.be](https://there.oughta.be)
  - date published: 2023-10-25T11:59:20.700704+00:00
@@ -4324,6 +4342,12 @@
  - date published: 2023-10-25T09:01:48.490146+00:00
  - user: None
  - tags: ['personal']
+
+## melkat.blog - hi there! please enjoy my blog of things i think are interesting
+ - [https://melkat.blog](https://melkat.blog)
+ - date published: 2024-01-23T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Lisa Sieverts
  - [https://agilelisa.micro.blog](https://agilelisa.micro.blog)
@@ -5972,30 +5996,6 @@
 ## Home | University of Waterloo
  - [https://uwaterloo.ca](https://uwaterloo.ca)
  - date published: 2023-10-25T12:09:14.024143+00:00
- - user: None
- - tags: []
-
-## A powerhouse of discovery and innovation | Mathematics
- - [https://www.math.uwaterloo.ca](https://www.math.uwaterloo.ca)
- - date published: 2023-10-25T12:09:20.191511+00:00
- - user: None
- - tags: []
-
-## About
- - [https://varun.ca](https://varun.ca)
- - date published: 2023-10-25T09:02:48.656185+00:00
- - user: None
- - tags: ['personal']
-
-## Vitalik Buterin's website
- - [https://vitalik.ca](https://vitalik.ca)
- - date published: 2023-10-25T09:03:03.847296+00:00
- - user: None
- - tags: ['personal']
-
-## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
- - [https://wingfelder.ca](https://wingfelder.ca)
- - date published: 2024-01-11T13:28:46.842673+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,219 @@
+## The Ruffian | Ian Leslie | Substack
+ - [https://ianleslie.substack.com](https://ianleslie.substack.com)
+ - date published: 2023-10-25T09:54:01.013922+00:00
+ - user: None
+ - tags: ['substack']
+
+## https://iatia.substack.com
+ - [https://iatia.substack.com](https://iatia.substack.com)
+ - date published: 2024-01-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Ideal Gas Newsletter | Substack
+ - [https://idealgas.substack.com](https://idealgas.substack.com)
+ - date published: 2023-10-25T09:54:03.827327+00:00
+ - user: None
+ - tags: ['substack']
+
+## 50 Years of Text Games | Aaron A. Reed | Substack
+ - [https://if50.substack.com](https://if50.substack.com)
+ - date published: 2023-10-25T09:54:06.218172+00:00
+ - user: None
+ - tags: ['substack']
+
+## I have thoughts | Thomas Poinsot | Substack
+ - [https://ihavemanythoughts.substack.com](https://ihavemanythoughts.substack.com)
+ - date published: 2023-10-25T09:54:07.794382+00:00
+ - user: None
+ - tags: ['substack']
+
+## Implementing | Marco Moauro | Substack
+ - [https://implementing.substack.com](https://implementing.substack.com)
+ - date published: 2024-02-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## a newsletter for infovores. | Age of Infovores | Substack
+ - [https://infovores.substack.com](https://infovores.substack.com)
+ - date published: 2023-10-25T09:54:08.800392+00:00
+ - user: None
+ - tags: ['substack']
+
+## Interconnected | Kevin Xu | Substack
+ - [https://interconnect.substack.com](https://interconnect.substack.com)
+ - date published: 2023-10-25T09:54:16.997332+00:00
+ - user: None
+ - tags: ['substack']
+
+## That's Interesting | Substack
+ - [https://interestingcontent.substack.com](https://interestingcontent.substack.com)
+ - date published: 2023-12-21T19:33:37.713703+00:00
+ - user: None
+ - tags: []
+
+## inter human agreement | linked zero sync | Substack
+ - [https://interhumanagreement.substack.com](https://interhumanagreement.substack.com)
+ - date published: 2023-10-25T09:54:18.928911+00:00
+ - user: None
+ - tags: ['substack']
+
+## Intuitive AI | Will Seltzer | Substack
+ - [https://intuitiveai.substack.com](https://intuitiveai.substack.com)
+ - date published: 2023-10-25T09:54:20.839554+00:00
+ - user: None
+ - tags: ['substack']
+
+## Investing 101 | Kyle Harrison | Substack
+ - [https://investing1012dot0.substack.com](https://investing1012dot0.substack.com)
+ - date published: 2023-10-25T09:54:23.993215+00:00
+ - user: None
+ - tags: ['substack']
+
+## Ironic Sans | David Friedman | Substack
+ - [https://ironicsans.substack.com](https://ironicsans.substack.com)
+ - date published: 2023-10-25T09:54:27.002372+00:00
+ - user: None
+ - tags: ['substack']
+
+## Ivan's Indie Journey | Ivan Klimchuk | Substack
+ - [https://ivanklimchuk.substack.com](https://ivanklimchuk.substack.com)
+ - date published: 2024-01-09T01:40:54.321638+00:00
+ - user: None
+ - tags: []
+
+## Gordian Knot News | Jack Devanney | Substack
+ - [https://jackdevanney.substack.com](https://jackdevanney.substack.com)
+ - date published: 2024-01-09T01:40:56.135107+00:00
+ - user: None
+ - tags: []
+
+## Cracking the PM Newsletter | Jackie Bavaro | Substack
+ - [https://jackiebavaro.substack.com](https://jackiebavaro.substack.com)
+ - date published: 2024-01-09T01:40:58.041645+00:00
+ - user: None
+ - tags: []
+
+## All-Source Intelligence Fusion | Jack Poulson | Substack
+ - [https://jackpoulson.substack.com](https://jackpoulson.substack.com)
+ - date published: 2023-11-18T19:07:51.838890+00:00
+ - user: None
+ - tags: []
+
+## Jacob’s Tech Tavern | Jacob Bartlett | Substack
+ - [https://jacobbartlett.substack.com](https://jacobbartlett.substack.com)
+ - date published: 2023-12-17T23:23:08.731195+00:00
+ - user: None
+ - tags: []
+
+## As Clay Awakens | Jacob Buckman | Substack
+ - [https://jacobbuckman.substack.com](https://jacobbuckman.substack.com)
+ - date published: 2024-01-09T01:41:04.546089+00:00
+ - user: None
+ - tags: []
+
+## jasonbock’s Substack | Jason Bock | Substack
+ - [https://jasonbock.substack.com](https://jasonbock.substack.com)
+ - date published: 2024-01-10T03:58:01.479440+00:00
+ - user: None
+ - tags: []
+
+## The Experiment | Jason Stanford | Substack
+ - [https://jasonstanford.substack.com](https://jasonstanford.substack.com)
+ - date published: 2023-11-28T22:06:34.502561+00:00
+ - user: None
+ - tags: []
+
+## Politics, News, Novels and More | MJ Javani | Substack
+ - [https://javani.substack.com](https://javani.substack.com)
+ - date published: 2024-01-09T01:41:06.222556+00:00
+ - user: None
+ - tags: []
+
+## These Are Systems | Jacob Bayless | Substack
+ - [https://jbconsulting.substack.com](https://jbconsulting.substack.com)
+ - date published: 2024-01-09T01:41:08.420577+00:00
+ - user: None
+ - tags: []
+
+## Tech and Tea | Jean Hsu | Substack
+ - [https://jeanhsu.substack.com](https://jeanhsu.substack.com)
+ - date published: 2024-01-09T01:41:11.957328+00:00
+ - user: None
+ - tags: []
+
+## Points And Figures | Jeffrey Carter | Substack
+ - [https://jeffreycarter.substack.com](https://jeffreycarter.substack.com)
+ - date published: 2023-10-25T09:55:01.324163+00:00
+ - user: None
+ - tags: ['substack']
+
+## An Educated Guess | Jeroen van Baar | Substack
+ - [https://jeroenvanbaar.substack.com](https://jeroenvanbaar.substack.com)
+ - date published: 2023-12-01T21:29:00.031789+00:00
+ - user: None
+ - tags: []
+
+## Jérôme à Paris  | Substack
+ - [https://jeromeaparis.substack.com](https://jeromeaparis.substack.com)
+ - date published: 2023-10-25T09:55:06.824850+00:00
+ - user: None
+ - tags: ['substack']
+
+## Singal-Minded | Jesse Singal | Substack
+ - [https://jessesingal.substack.com](https://jessesingal.substack.com)
+ - date published: 2024-01-09T01:41:19.060592+00:00
+ - user: None
+ - tags: []
+
+## The Unpublishable | Jessica DeFino | Substack
+ - [https://jessicadefino.substack.com](https://jessicadefino.substack.com)
+ - date published: 2023-10-25T09:55:15.775970+00:00
+ - user: None
+ - tags: ['substack']
+
+## Noted | Jillian Hess | Substack
+ - [https://jillianhess.substack.com](https://jillianhess.substack.com)
+ - date published: 2023-10-25T17:19:11.075658+00:00
+ - user: None
+ - tags: []
+
+## Jinay's Substack | Jinay Jain | Substack
+ - [https://jjain.substack.com](https://jjain.substack.com)
+ - date published: 2023-10-25T09:55:19.692399+00:00
+ - user: None
+ - tags: ['substack']
+
+## Pryor Thoughts | JJ Pryor | Substack
+ - [https://jjpryor.substack.com](https://jjpryor.substack.com)
+ - date published: 2023-10-25T09:55:26.042636+00:00
+ - user: None
+ - tags: ['substack']
+
+## Causal Deference | John McDonnell | Substack
+ - [https://jmcdonnell.substack.com](https://jmcdonnell.substack.com)
+ - date published: 2023-10-25T09:55:29.223040+00:00
+ - user: None
+ - tags: ['substack']
+
+## A Closer Look with Joe Morrison | Substack
+ - [https://joemorrison.substack.com](https://joemorrison.substack.com)
+ - date published: 2024-01-09T01:41:21.259857+00:00
+ - user: None
+ - tags: []
+
+## JoeBlogs | Joe Posnanski | Substack
+ - [https://joeposnanski.substack.com](https://joeposnanski.substack.com)
+ - date published: 2023-10-25T09:55:38.595856+00:00
+ - user: None
+ - tags: ['substack']
+
+## After Babel | Jon Haidt | Substack
+ - [https://jonathanhaidt.substack.com](https://jonathanhaidt.substack.com)
+ - date published: 2024-01-09T01:41:24.980838+00:00
+ - user: None
+ - tags: []
+
 ## Joscha Bach | Substack
  - [https://joscha.substack.com](https://joscha.substack.com)
  - date published: 2023-10-25T09:55:48.369614+00:00
@@ -4029,7 +4245,7 @@
  - [https://thegrayzone.com](https://thegrayzone.com)
  - date published: 2023-10-25T17:34:46.262866+00:00
  - user: None
- - tags: []
+ - tags: ['political news']
 
 ## Welcome to The Great Morel
  - [https://www.thegreatmorel.com](https://www.thegreatmorel.com)
@@ -5783,222 +5999,6 @@
 ## Tintenbar Up Front
  - [https://www.tintenbarupfront.com](https://www.tintenbarupfront.com)
  - date published: 2024-02-08T18:05:25.521876+00:00
- - user: None
- - tags: []
-
-## Tiny Subversions | Darius Kazemi
- - [https://tinysubversions.com](https://tinysubversions.com)
- - date published: 2023-10-25T17:43:12.693676+00:00
- - user: None
- - tags: []
-
-## Tiny Tapeout :: Documentation in English
- - [https://tinytapeout.com](https://tinytapeout.com)
- - date published: 2023-10-25T17:43:13.967055+00:00
- - user: None
- - tags: []
-
-## https://tinyurl.com
- - [https://tinyurl.com](https://tinyurl.com)
- - date published: 2023-12-11T16:53:21.642934+00:00
- - user: None
- - tags: ['link service']
-
-## Tipp10 - Free Touch Typing Tutor | Online and Software Training
- - [https://www.tipp10.com](https://www.tipp10.com)
- - date published: 2023-10-25T17:43:14.789917+00:00
- - user: None
- - tags: []
-
-## Tire Meets Road - Alt Car news
- - [https://tiremeetsroad.com](https://tiremeetsroad.com)
- - date published: 2023-10-25T17:43:21.793371+00:00
- - user: None
- - tags: []
-
-## draw my ui
- - [https://makereal.tldraw.com](https://makereal.tldraw.com)
- - date published: 2023-11-16T13:22:37.653367+00:00
- - user: None
- - tags: ['ui creator', 'online tool']
-
-## tldraw
- - [https://tldraw.com](https://tldraw.com)
- - date published: 2023-11-16T13:23:01.595371+00:00
- - user: None
- - tags: ['drawing', 'online tool']
-
-## https://www.tlo.com
- - [https://www.tlo.com](https://www.tlo.com)
- - date published: 2023-10-25T17:43:22.174068+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://tlpnetwork.com](https://tlpnetwork.com)
- - date published: 2023-10-25T17:43:24.008897+00:00
- - user: None
- - tags: []
-
-## www.toastermuseum.com - ANTIQUE TOASTERS for TOASTER COLLECTORS
- - [http://toastermuseum.com](http://toastermuseum.com)
- - date published: 2023-10-25T17:43:24.496047+00:00
- - user: None
- - tags: []
-
-## Nathan's Toasty Technology Page
- - [https://toastytech.com](https://toastytech.com)
- - date published: 2023-10-25T17:43:25.787615+00:00
- - user: None
- - tags: []
-
-## Tobias Ahlin
- - [https://tobiasahlin.com](https://tobiasahlin.com)
- - date published: 2023-10-25T17:43:26.654867+00:00
- - user: None
- - tags: []
-
-## The Bounding Box – Blog of Tobias Revell
- - [https://blog.tobiasrevell.com](https://blog.tobiasrevell.com)
- - date published: 2024-01-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tobiloba Adejumo
- - [https://tobilobaadejumo.com](https://tobilobaadejumo.com)
- - date published: 2023-12-12T23:23:02.153690+00:00
- - user: None
- - tags: ['personal']
-
-## TobinSlaven.com
- - [https://www.tobinslaven.com](https://www.tobinslaven.com)
- - date published: 2023-11-29T19:27:09.018600+00:00
- - user: None
- - tags: ['personal']
-
-## Latest News, Videos & Guest Interviews from the Today Show on NBC | TODAY
- - [https://www.today.com](https://www.today.com)
- - date published: 2023-10-25T10:16:42.705063+00:00
- - user: None
- - tags: []
-
-## Today I Found Out | Learn Interesting Facts Every Day
- - [https://www.todayifoundout.com](https://www.todayifoundout.com)
- - date published: 2023-10-25T17:43:33.027740+00:00
- - user: None
- - tags: []
-
-## Welcome to Today In BC | British Columbia News
- - [https://www.todayinbc.com](https://www.todayinbc.com)
- - date published: 2023-11-18T19:07:55.241515+00:00
- - user: None
- - tags: []
-
-## Latest news in Singapore and around the world – TODAY
- - [https://www.todayonline.com](https://www.todayonline.com)
- - date published: 2023-12-06T06:43:16.215152+00:00
- - user: None
- - tags: []
-
-## Today Purpose
- - [https://todaypurpose.com](https://todaypurpose.com)
- - date published: 2024-01-03T13:11:49.842309+00:00
- - user: None
- - tags: []
-
-## Red Deer News & Red Deer Events - Todayville.com
- - [https://www.todayville.com](https://www.todayville.com)
- - date published: 2023-10-25T17:43:42.189847+00:00
- - user: None
- - tags: []
-
-## Todepond dot com
- - [https://www.todepond.com](https://www.todepond.com)
- - date published: 2023-11-22T13:45:46.497388+00:00
- - user: None
- - tags: []
-
-## ToDesktop - Web app to desktop app in minutes
- - [https://www.todesktop.com](https://www.todesktop.com)
- - date published: 2023-10-25T17:43:43.646887+00:00
- - user: None
- - tags: []
-
-## Software Developer Jobs in Japan | TokyoDev
- - [https://www.tokyodev.com](https://www.tokyodev.com)
- - date published: 2023-10-25T11:33:29.711180+00:00
- - user: None
- - tags: []
-
-## Tokyo Weekender | Japan's No.1 English Lifestyle Magazine
- - [https://www.tokyoweekender.com](https://www.tokyoweekender.com)
- - date published: 2023-10-25T10:41:20.902583+00:00
- - user: None
- - tags: []
-
-## Growthlog by Tomas Laurinavicius
- - [https://tomaslau.com](https://tomaslau.com)
- - date published: 2023-12-21T08:24:25.224521+00:00
- - user: None
- - tags: ['personal']
-
-## Uncharted Territories | Tomas Pueyo | Substack
- - [https://unchartedterritories.tomaspueyo.com](https://unchartedterritories.tomaspueyo.com)
- - date published: 2023-10-25T17:43:46.009449+00:00
- - user: None
- - tags: []
-
-## Blogccasion
- - [https://blog.tomayac.com](https://blog.tomayac.com)
- - date published: 2023-10-25T17:43:47.125385+00:00
- - user: None
- - tags: []
-
-## Tom Critchlow. Move. Think. Create.
- - [https://tomcritchlow.com](https://tomcritchlow.com)
- - date published: 2023-10-25T17:43:48.241244+00:00
- - user: None
- - tags: []
-
-## Home — Tom Dalling
- - [https://www.tomdalling.com](https://www.tomdalling.com)
- - date published: 2023-10-25T17:43:49.689309+00:00
- - user: None
- - tags: []
-
-## Freelance Dubbing Mixer | Work with a trusted pair of ears
- - [https://www.tomedwardssound.com](https://www.tomedwardssound.com)
- - date published: 2023-12-20T05:39:35.050397+00:00
- - user: None
- - tags: ['personal']
-
-## Blog Posts
- - [https://tomerfiliba.com](https://tomerfiliba.com)
- - date published: 2023-10-25T17:43:51.353398+00:00
- - user: None
- - tags: []
-
-## Thomas Feeley
- - [https://www.tomfeeley.com](https://www.tomfeeley.com)
- - date published: 2024-02-10T21:26:36.281553+00:00
- - user: None
- - tags: ['personal']
-
-## Tom Hazledine
- - [https://tomhazledine.com](https://tomhazledine.com)
- - date published: 2023-12-08T09:33:21.723633+00:00
- - user: None
- - tags: ['personal']
-
-## Tom Hummel
- - [https://tomhummel.com](https://tomhummel.com)
- - date published: 2023-10-25T17:43:53.186060+00:00
- - user: None
- - tags: []
-
-## Tom Libertiny - Multimedia Storyteller
- - [https://tomlibertiny.com](https://tomlibertiny.com)
- - date published: 2024-01-21T04:57:20.506224+00:00
  - user: None
  - tags: []
 

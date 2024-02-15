@@ -1,3 +1,231 @@
+## Esper | Device Management with Kiosk Mode, Remote Control, & more | MDM Solution
+ - [https://www.esper.io](https://www.esper.io)
+ - date published: 2023-10-25T19:42:06.992319+00:00
+ - user: None
+ - tags: []
+
+## Ethereum (ETH) Blockchain Explorer
+ - [https://etherscan.io](https://etherscan.io)
+ - date published: 2023-10-25T19:42:08.971913+00:00
+ - user: None
+ - tags: []
+
+## Evan Todd
+ - [https://etodd.io](https://etodd.io)
+ - date published: 2023-10-25T19:42:09.513819+00:00
+ - user: None
+ - tags: []
+
+## Event-Driven by Oskar Dudycz
+ - [https://event-driven.io](https://event-driven.io)
+ - date published: 2023-10-25T19:42:13.572557+00:00
+ - user: None
+ - tags: []
+
+## Everstrike Blog
+ - [https://blog.everstrike.io](https://blog.everstrike.io)
+ - date published: 2023-10-25T19:42:15.001515+00:00
+ - user: None
+ - tags: []
+
+## The EV Universe
+ - [https://www.evuniverse.io](https://www.evuniverse.io)
+ - date published: 2023-10-25T19:42:17.038711+00:00
+ - user: None
+ - tags: []
+
+## Ewan Valentine | Home
+ - [https://ewanvalentine.io](https://ewanvalentine.io)
+ - date published: 2023-11-06T08:14:47.316226+00:00
+ - user: None
+ - tags: []
+
+## ewen
+ - [https://ewen.io](https://ewen.io)
+ - date published: 2023-08-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | Exaloop blog
+ - [https://blog.exaloop.io](https://blog.exaloop.io)
+ - date published: 2023-10-25T19:42:17.703333+00:00
+ - user: None
+ - tags: []
+
+## Exaltitude Engineering Leadership Community
+ - [https://www.exaltitude.io](https://www.exaltitude.io)
+ - date published: 2023-10-25T19:42:19.238033+00:00
+ - user: None
+ - tags: []
+
+## Failing Fast
+ - [https://failingfast.io](https://failingfast.io)
+ - date published: 2023-10-25T19:42:20.010109+00:00
+ - user: None
+ - tags: []
+
+## https://fairtec.io/fr/
+ - [https://fairtec.io](https://fairtec.io)
+ - date published: 2023-12-11T16:19:34.009224+00:00
+ - user: None
+ - tags: []
+
+## Fan Pu Zeng
+ - [https://fanpu.io](https://fanpu.io)
+ - date published: 2023-10-25T19:42:21.616085+00:00
+ - user: None
+ - tags: []
+
+## Favoree - Discover quality channels from YouTube
+ - [https://www.favoree.io](https://www.favoree.io)
+ - date published: 2023-10-25T19:42:22.471809+00:00
+ - user: None
+ - tags: []
+
+## FerretDB Blog | FerretDB Blog
+ - [https://blog.ferretdb.io](https://blog.ferretdb.io)
+ - date published: 2023-10-25T19:42:24.585480+00:00
+ - user: None
+ - tags: []
+
+## Build your company workspace with no code — Fibery
+ - [https://fibery.io](https://fibery.io)
+ - date published: 2023-10-25T19:42:31.278832+00:00
+ - user: None
+ - tags: []
+
+## Fig
+ - [https://fig.io](https://fig.io)
+ - date published: 2023-10-25T19:42:32.304878+00:00
+ - user: None
+ - tags: []
+
+## Filippo Valsorda
+ - [https://blog.filippo.io](https://blog.filippo.io)
+ - date published: 2023-10-25T19:42:34.529201+00:00
+ - user: None
+ - tags: []
+
+## Filippo Valsorda
+ - [https://filippo.io](https://filippo.io)
+ - date published: 2023-10-25T19:42:35.382816+00:00
+ - user: None
+ - tags: ['personal']
+
+## Filippo Valsorda
+ - [https://words.filippo.io](https://words.filippo.io)
+ - date published: 2023-10-25T08:59:06.743488+00:00
+ - user: None
+ - tags: ['personal']
+
+## Filtra
+ - [https://filtra.io](https://filtra.io)
+ - date published: 2023-10-31T13:18:58.615018+00:00
+ - user: None
+ - tags: []
+
+## FindMyCat - The Open-Source Pet Tracker
+ - [https://www.findmycat.io](https://www.findmycat.io)
+ - date published: 2023-10-25T19:42:41.070101+00:00
+ - user: None
+ - tags: ['open hardware', 'hardware tracker']
+
+## Fireship - Learn to Code Faster
+ - [https://fireship.io](https://fireship.io)
+ - date published: 2023-10-25T19:42:41.631253+00:00
+ - user: None
+ - tags: []
+
+## Fly.io
+ - [https://community.fly.io](https://community.fly.io)
+ - date published: 2023-10-25T19:42:46.027252+00:00
+ - user: None
+ - tags: []
+
+## Deploy app servers close to your users · Fly
+ - [https://fly.io](https://fly.io)
+ - date published: 2023-10-25T19:42:47.102257+00:00
+ - user: None
+ - tags: []
+
+## FoAz - Frontend-Only-AuthZ | FoAz
+ - [https://foaz.io](https://foaz.io)
+ - date published: 2023-10-25T19:42:48.088096+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Forwarder – FOSS MITM proxy written in Go
+ - [https://forwarder-proxy.io](https://forwarder-proxy.io)
+ - date published: 2023-12-20T15:30:47+00:00
+ - user: None
+ - tags: []
+
+## Foxy.io | Flexible Ecommerce for Your Website
+ - [https://www.foxy.io](https://www.foxy.io)
+ - date published: 2023-10-25T19:42:49.688772+00:00
+ - user: None
+ - tags: []
+
+## Luc Didry
+ - [https://luc.frama.io](https://luc.frama.io)
+ - date published: 2016-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## FreeTube - The Private YouTube Client
+ - [https://freetubeapp.io](https://freetubeapp.io)
+ - date published: 2023-10-25T08:30:25.633576+00:00
+ - user: None
+ - tags: ['youtube']
+
+## Freshpaint | Healthcare Privacy Platform To Manage Your Data And Meet HIPAA Regulations
+ - [https://www.freshpaint.io](https://www.freshpaint.io)
+ - date published: 2023-10-25T19:42:56.058009+00:00
+ - user: None
+ - tags: []
+
+## FusionAuth: Auth. Built for Devs, by Devs
+ - [https://fusionauth.io](https://fusionauth.io)
+ - date published: 2023-10-27T16:12:10.629678+00:00
+ - user: None
+ - tags: []
+
+## futurecoder: learn python from scratch
+ - [https://futurecoder.io](https://futurecoder.io)
+ - date published: 2023-10-25T19:42:57.568016+00:00
+ - user: None
+ - tags: []
+
+## Visual Scripting For The Web | G-Script
+ - [https://g-script.io](https://g-script.io)
+ - date published: 2023-10-25T19:43:00.841246+00:00
+ - user: None
+ - tags: []
+
+## Make 2D Games With GameMaker | Free Video Game Maker
+ - [https://gamemaker.io](https://gamemaker.io)
+ - date published: 2023-11-21T15:29:41.097407+00:00
+ - user: None
+ - tags: []
+
+## Paul Ganssle
+ - [https://blog.ganssle.io](https://blog.ganssle.io)
+ - date published: 2023-10-25T19:43:02.935158+00:00
+ - user: None
+ - tags: []
+
+## Gantry | Build AI your users trust
+ - [https://gantry.io](https://gantry.io)
+ - date published: 2023-10-25T19:43:06.618863+00:00
+ - user: None
+ - tags: []
+
+## Garden - The DevOps automation tool for K8s
+ - [https://garden.io](https://garden.io)
+ - date published: 2023-10-25T19:43:09.096788+00:00
+ - user: None
+ - tags: []
+
 ## Projects | gbdev.io
  - [https://gbdev.io](https://gbdev.io)
  - date published: 2023-11-23T13:34:21.914417+00:00
@@ -1623,6 +1851,12 @@ through Composable Diffusion
 ## Basit Ayantunde's Portfolio
  - [https://lamarrr.github.io](https://lamarrr.github.io)
  - date published: 2023-10-25T19:47:57.197010+00:00
+ - user: None
+ - tags: []
+
+## Large World Models
+ - [https://largeworldmodel.github.io](https://largeworldmodel.github.io)
+ - date published: 2024-02-14T08:02:51.696172+00:00
  - user: None
  - tags: []
 
@@ -5768,239 +6002,5 @@ through Composable Diffusion
  - [https://steampipe.io](https://steampipe.io)
  - date published: 2023-10-25T20:07:52.520453+00:00
  - user: None
- - tags: []
-
-## STENDEC
- - [https://stendec.io](https://stendec.io)
- - date published: 2023-10-25T20:07:54.044015+00:00
- - user: None
- - tags: []
-
-## Steph | Smith
- - [https://blog.stephsmith.io](https://blog.stephsmith.io)
- - date published: 2023-12-18T20:13:34.554340+00:00
- - user: None
- - tags: []
-
-## Blog - stitcher.io
- - [https://stitcher.io](https://stitcher.io)
- - date published: 2023-10-25T20:07:58.151576+00:00
- - user: None
- - tags: []
-
-## Stepan Parunashvili
- - [https://stopa.io](https://stopa.io)
- - date published: 2023-10-25T20:08:00.512572+00:00
- - user: None
- - tags: []
-
-## Globally Distributed Cloud Object Storage
- - [https://www.storj.io](https://www.storj.io)
- - date published: 2023-10-25T20:08:04.187915+00:00
- - user: None
- - tags: []
-
-## Streambatch.io NDVI API
- - [https://www.streambatch.io](https://www.streambatch.io)
- - date published: 2023-10-25T20:08:06.092524+00:00
- - user: None
- - tags: []
-
-## Blog on Building & Sharing Data Apps | Streamlit Blog
- - [https://blog.streamlit.io](https://blog.streamlit.io)
- - date published: 2023-10-25T20:08:08.074530+00:00
- - user: None
- - tags: []
-
-## https://share.streamlit.io
- - [https://share.streamlit.io](https://share.streamlit.io)
- - date published: 2023-12-20T16:28:43.015391+00:00
- - user: None
- - tags: []
-
-## StreamNative | Apache Pulsar & Cloud-Native Messaging
- - [https://streamnative.io](https://streamnative.io)
- - date published: 2023-10-25T20:08:12.433385+00:00
- - user: None
- - tags: []
-
-## JavaScript Barcode Scanning Library
- - [https://strich.io](https://strich.io)
- - date published: 2023-10-25T20:08:19.288564+00:00
- - user: None
- - tags: []
-
-## Subsection.io
- - [https://subsection.io](https://subsection.io)
- - date published: 2023-10-25T20:08:21.016966+00:00
- - user: None
- - tags: []
-
-## Sudhir Jonathan
- - [https://sudhir.io](https://sudhir.io)
- - date published: 2024-01-29T23:02:33.678980+00:00
- - user: None
- - tags: []
-
-## sunshowers
- - [https://sunshowers.io](https://sunshowers.io)
- - date published: 2023-10-25T20:08:22.475120+00:00
- - user: None
- - tags: []
-
-## Coding Stephan
- - [https://svrooij.io](https://svrooij.io)
- - date published: 2023-10-25T20:08:24.094901+00:00
- - user: None
- - tags: []
-
-## Swan - The easiest way to embed banking features
- - [https://www.swan.io](https://www.swan.io)
- - date published: 2023-10-25T20:08:26.926477+00:00
- - user: None
- - tags: []
-
-## Latent Space | swyx | Substack
- - [https://lspace.swyx.io](https://lspace.swyx.io)
- - date published: 2023-10-25T20:08:37.542967+00:00
- - user: None
- - tags: []
-
-## swyx's site
- - [https://www.swyx.io](https://www.swyx.io)
- - date published: 2023-10-25T20:11:08.959268+00:00
- - user: None
- - tags: []
-
-## Synq | Deliver reliable models and metrics | Synq
- - [https://www.synq.io](https://www.synq.io)
- - date published: 2023-10-25T20:11:10.050394+00:00
- - user: None
- - tags: []
-
-## System and Service Manager
- - [https://systemd.io](https://systemd.io)
- - date published: 2023-11-21T07:48:30+00:00
- - user: rumpel
- - tags: ['open source', 'systemd', 'linux']
-
-## TACHYONS - Css Toolkit
- - [https://tachyons.io](https://tachyons.io)
- - date published: 2023-10-25T20:11:11.800274+00:00
- - user: None
- - tags: []
-
-## Taipy Website
- - [https://www.taipy.io](https://www.taipy.io)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Talkyard
- - [https://www.talkyard.io](https://www.talkyard.io)
- - date published: 2023-10-25T20:11:13.606524+00:00
- - user: None
- - tags: []
-
-## Tarantool Data Integration Platform
- - [https://www.tarantool.io](https://www.tarantool.io)
- - date published: 2023-12-02T15:51:11.384341+00:00
- - user: None
- - tags: []
-
-## Tavus | The Most Advanced AI Video Personalization Platform
- - [https://www.tavus.io](https://www.tavus.io)
- - date published: 2023-10-25T20:11:15.699443+00:00
- - user: None
- - tags: []
-
-## Tembo
- - [https://tembo.io](https://tembo.io)
- - date published: 2023-10-25T20:11:16.524916+00:00
- - user: None
- - tags: []
-
-## Open Source Durable Execution Platform | Temporal Technologies
- - [https://temporal.io](https://temporal.io)
- - date published: 2023-10-25T20:11:18.787668+00:00
- - user: None
- - tags: []
-
-## Termshark – A terminal UI for tshark, inspired by Wireshark
- - [https://termshark.io](https://termshark.io)
- - date published: 2023-12-05T14:32:12+00:00
- - user: None
- - tags: []
-
-## Terrateam | Terraform automation for GitHub
- - [https://terrateam.io](https://terrateam.io)
- - date published: 2023-10-25T20:11:19.804400+00:00
- - user: None
- - tags: []
-
-## Textual
- - [https://textual.textualize.io](https://textual.textualize.io)
- - date published: 2023-10-25T20:11:29.080654+00:00
- - user: None
- - tags: []
-
-## Textualize - Home
- - [https://www.textualize.io](https://www.textualize.io)
- - date published: 2023-10-25T20:11:30.506711+00:00
- - user: None
- - tags: []
-
-## Apricot Blog
- - [https://blog.theapricot.io](https://blog.theapricot.io)
- - date published: 2023-10-25T08:37:46.129251+00:00
- - user: None
- - tags: []
-
-## The Driven |
- - [https://thedriven.io](https://thedriven.io)
- - date published: 2023-10-25T20:11:36.997339+00:00
- - user: None
- - tags: []
-
-## The New Stack | DevOps, Open Source, and Cloud Native News
- - [https://thenewstack.io](https://thenewstack.io)
- - date published: 2023-10-25T09:37:01.943177+00:00
- - user: None
- - tags: []
-
-## Philip Herrons Personal Blog – Compilers and stuff
- - [https://thephilbert.io](https://thephilbert.io)
- - date published: 2023-10-25T20:11:38.288865+00:00
- - user: None
- - tags: []
-
-## The Prompt: Getting AI smart in just 3 minutes
- - [https://www.theprompt.io](https://www.theprompt.io)
- - date published: 2023-10-25T20:11:42.348627+00:00
- - user: None
- - tags: []
-
-## Show HN: ThreeFold – Decentralized Cloud Infrastructure
- - [https://threefold.io](https://threefold.io)
- - date published: 2023-12-02T20:43:14+00:00
- - user: None
- - tags: []
-
-## ThrowawayOpinions
- - [https://throwawayopinions.io](https://throwawayopinions.io)
- - date published: 2023-10-25T20:11:43.353030+00:00
- - user: None
- - tags: []
-
-## Home | thul.io
- - [https://thul.io](https://thul.io)
- - date published: 2023-10-25T20:11:44.138258+00:00
- - user: None
- - tags: []
-
-## Thunderstore | The BONELAB Mod Database
- - [https://bonelab.thunderstore.io](https://bonelab.thunderstore.io)
- - date published: 2024-02-13T21:48:01+00:00
- - user: rumpel
  - tags: []
 

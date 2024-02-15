@@ -1,3 +1,261 @@
+## Dangerous Minds
+ - [https://dangerousminds.net](https://dangerousminds.net)
+ - date published: 2023-10-25T20:28:38.333425+00:00
+ - user: None
+ - tags: []
+
+## Start - Daniel Hauck
+ - [https://danielhauck.net](https://danielhauck.net)
+ - date published: 2023-11-29T18:21:12.256604+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dan North & Associates Ltd
+ - [https://dannorth.net](https://dannorth.net)
+ - date published: 2023-10-25T20:28:39.620762+00:00
+ - user: None
+ - tags: []
+
+## Jeremy Danyow
+ - [https://danyow.net](https://danyow.net)
+ - date published: 2023-10-25T09:22:54.534593+00:00
+ - user: None
+ - tags: ['personal']
+
+## All articles
+ - [https://daoudclarke.net](https://daoudclarke.net)
+ - date published: 2023-10-25T20:28:40.312551+00:00
+ - user: None
+ - tags: []
+
+## Daring Fireball
+ - [https://daringfireball.net](https://daringfireball.net)
+ - date published: 2023-10-25T09:22:57.001340+00:00
+ - user: None
+ - tags: ['personal']
+
+## Graham King
+ - [https://darkcoding.net](https://darkcoding.net)
+ - date published: 2023-10-25T09:00:26.309032+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dark Sky Blog
+ - [https://blog.darksky.net](https://blog.darksky.net)
+ - date published: 2023-10-25T08:36:50.268335+00:00
+ - user: None
+ - tags: []
+
+## Darren Burns - Blog
+ - [https://darrenburns.net](https://darrenburns.net)
+ - date published: 2023-10-25T09:00:33.936983+00:00
+ - user: None
+ - tags: ['personal']
+
+## Darryl Bayliss | Darryl Bayliss’s Blog Random musings about Software Engineering
+ - [https://www.darrylbayliss.net](https://www.darrylbayliss.net)
+ - date published: 2023-10-25T20:28:41.093332+00:00
+ - user: None
+ - tags: []
+
+## Amiga Music Preservation - //home////
+ - [https://amp.dascene.net](https://amp.dascene.net)
+ - date published: 2023-11-02T09:54:32.119187+00:00
+ - user: None
+ - tags: ['amiga']
+
+## DataBreaches.net: The Office of Inadequate Security
+ - [https://www.databreaches.net](https://www.databreaches.net)
+ - date published: 2023-10-25T20:28:42.463972+00:00
+ - user: None
+ - tags: []
+
+## David Benjamin
+ - [https://davidben.net](https://davidben.net)
+ - date published: 2024-01-16T22:15:02.503596+00:00
+ - user: None
+ - tags: []
+
+## davidbordwell.net : home
+ - [https://www.davidbordwell.net](https://www.davidbordwell.net)
+ - date published: 2023-10-25T20:28:44.980999+00:00
+ - user: None
+ - tags: []
+
+## Dav Chana
+ - [https://davinder.net](https://davinder.net)
+ - date published: 2023-12-22T22:30:08.197155+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dragon Ball Nao im. Akiry Toriyamy - polski serwis o DB, Z, GT, Kai, Super
+ - [https://dbnao.net](https://dbnao.net)
+ - date published: 2024-01-25T17:54:51+00:00
+ - user: rumpel
+ - tags: []
+
+## dcreager.net
+ - [https://dcreager.net](https://dcreager.net)
+ - date published: 2024-01-06T00:18:54.926806+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://renegat0x0.ddns.net](https://renegat0x0.ddns.net)
+ - date published: 2023-10-25T08:52:16.878263+00:00
+ - user: None
+ - tags: ['personal']
+
+## Retro cracking and art underground | Defacto2
+ - [https://defacto2.net](https://defacto2.net)
+ - date published: 2023-10-25T20:28:49.622968+00:00
+ - user: None
+ - tags: []
+
+## Defined Networking
+ - [https://www.defined.net](https://www.defined.net)
+ - date published: 2023-10-25T20:28:51.152764+00:00
+ - user: None
+ - tags: []
+
+## Mastodon
+ - [https://mastodon.delroth.net](https://mastodon.delroth.net)
+ - date published: 2023-10-24T20:12:45.014547+00:00
+ - user: None
+ - tags: []
+
+## Art-of-Coding, an initiative to enlist the demoscene as first digital culture on the list of UNESCO intangible world cultural heritage - Demoscene - The Art of Coding
+ - [https://demoscene-the-art-of-coding.net](https://demoscene-the-art-of-coding.net)
+ - date published: 2024-01-09T03:35:20.270425+00:00
+ - user: None
+ - tags: []
+
+## Derek Philip Au
+ - [https://www.derekau.net](https://www.derekau.net)
+ - date published: 2024-01-29T15:51:17.684178+00:00
+ - user: None
+ - tags: []
+
+## Desdemona Despair – Blogging the End of the World™
+ - [https://desdemonadespair.net](https://desdemonadespair.net)
+ - date published: 2023-10-25T20:28:59.822386+00:00
+ - user: None
+ - tags: []
+
+## Shen DeShayne
+ - [https://shen.deshayne.net](https://shen.deshayne.net)
+ - date published: 2023-11-29T14:24:51.956102+00:00
+ - user: None
+ - tags: ['personal']
+
+## deskthority - Index page
+ - [https://deskthority.net](https://deskthority.net)
+ - date published: 2023-10-25T20:29:00.971441+00:00
+ - user: None
+ - tags: []
+
+## Daniel Estévez – Scientific & Technical Amateur Radio — Home of EA4GPZ / M0HXM
+ - [https://destevez.net](https://destevez.net)
+ - date published: 2023-10-25T09:23:00.010601+00:00
+ - user: None
+ - tags: ['personal']
+
+## Deus In Machina | Diego Crespo | Substack
+ - [https://www.deusinmachina.net](https://www.deusinmachina.net)
+ - date published: 2023-10-25T10:08:14.443830+00:00
+ - user: None
+ - tags: ['substack']
+
+## devever
+ - [https://www.devever.net](https://www.devever.net)
+ - date published: 2023-10-25T08:41:20.331085+00:00
+ - user: None
+ - tags: ['personal']
+
+## Diablo 2 @ Gamerz-bg.com
+ - [https://old.diablo-2.net](https://old.diablo-2.net)
+ - date published: 2023-12-13T16:18:20.452676+00:00
+ - user: None
+ - tags: []
+
+## Diablo 2 Database Fansite | Diablo-2.net
+ - [https://www.diablo-2.net](https://www.diablo-2.net)
+ - date published: 2023-10-25T11:10:20.483355+00:00
+ - user: None
+ - tags: []
+
+## Diablo 2 Resurrected Best Builds, Guides, and News
+ - [https://www.diabloii.net](https://www.diabloii.net)
+ - date published: 2023-12-13T16:22:40.834110+00:00
+ - user: None
+ - tags: []
+
+## Welcome to dialup.net
+ - [https://www.dialup.net](https://www.dialup.net)
+ - date published: 2023-10-25T20:29:02.353079+00:00
+ - user: None
+ - tags: []
+
+## diederickdevries.net – Ideeën voor een duurzame wereld
+ - [https://diederickdevries.net](https://diederickdevries.net)
+ - date published: 2024-01-30T06:11:57.042150+00:00
+ - user: None
+ - tags: []
+
+## digidip
+ - [https://lefigaro-fr.digidip.net](https://lefigaro-fr.digidip.net)
+ - date published: 2023-12-18T17:19:32.837404+00:00
+ - user: None
+ - tags: []
+
+## Sign in · GitLab
+ - [https://gitlab.digilol.net](https://gitlab.digilol.net)
+ - date published: 2023-10-25T20:29:04.046376+00:00
+ - user: None
+ - tags: []
+
+## Snacks of the internet | Digisnacks.net
+ - [https://www.digisnacks.net](https://www.digisnacks.net)
+ - date published: 2023-10-25T11:17:47.532576+00:00
+ - user: None
+ - tags: []
+
+## Digital Foundry
+ - [https://www.digitalfoundry.net](https://www.digitalfoundry.net)
+ - date published: 2023-10-25T18:13:04.739169+00:00
+ - user: None
+ - tags: []
+
+## Discuit
+ - [https://discuit.net](https://discuit.net)
+ - date published: 2023-10-25T20:29:05.581236+00:00
+ - user: None
+ - tags: []
+
+## Dittytoy
+ - [https://dittytoy.net](https://dittytoy.net)
+ - date published: 2023-10-25T20:29:07.339713+00:00
+ - user: None
+ - tags: []
+
+## DIY-Thermocam | Open-source thermal imaging for everyone!
+ - [https://www.diy-thermocam.net](https://www.diy-thermocam.net)
+ - date published: 2023-10-25T20:29:10.410970+00:00
+ - user: None
+ - tags: []
+
+## DIY Photography - Your one stop shop for everything photo-video
+ - [https://www.diyphotography.net](https://www.diyphotography.net)
+ - date published: 2023-10-25T20:29:15.677437+00:00
+ - user: None
+ - tags: []
+
+## Notes from a data witch
+ - [https://blog.djnavarro.net](https://blog.djnavarro.net)
+ - date published: 2023-10-25T20:29:17.118132+00:00
+ - user: None
+ - tags: []
+
 ## Home · DNS-OARC (Indico)
  - [https://indico.dns-oarc.net](https://indico.dns-oarc.net)
  - date published: 2024-02-10T16:00:19.165025+00:00
@@ -5740,264 +5998,6 @@ marginalia.nu
 ## University of Otago
  - [https://www.otago.ac.nz](https://www.otago.ac.nz)
  - date published: 2023-10-30T21:58:29.556224+00:00
- - user: None
- - tags: []
-
-## Alpha Rail - Rail Design, Consultancy, Construction and Plant
- - [https://www.alpharail.co.nz](https://www.alpharail.co.nz)
- - date published: 2023-10-25T20:49:14.642345+00:00
- - user: None
- - tags: []
-
-## Unofficial CD32 Ports
- - [https://unofficial-cd32-ports.blogspot.co.nz](https://unofficial-cd32-ports.blogspot.co.nz)
- - date published: 2023-11-02T09:51:01.000200+00:00
- - user: None
- - tags: ['amiga']
-
-## New Cars and SUVs and Servicing | Automotive |  Citroën NZ
- - [https://www.citroen.co.nz](https://www.citroen.co.nz)
- - date published: 2023-12-11T16:00:33.638425+00:00
- - user: None
- - tags: []
-
-## New Zealand Cyber Security Blog | CyberCX
- - [https://blog.cybercx.co.nz](https://blog.cybercx.co.nz)
- - date published: 2023-10-25T20:49:21.245581+00:00
- - user: None
- - tags: []
-
-## Discombobulated
- - [https://discombobulated.co.nz](https://discombobulated.co.nz)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Google
- - [https://www.google.co.nz](https://www.google.co.nz)
- - date published: 2023-10-25T20:49:22.482071+00:00
- - user: None
- - tags: []
-
-## Niche Software - Niche Software
- - [https://www.nichesoftware.co.nz](https://www.nichesoftware.co.nz)
- - date published: 2023-10-25T20:49:26.344940+00:00
- - user: None
- - tags: []
-
-## NZ Herald: Latest NZ news, plus World, Sport, Business and more - NZ Herald
- - [https://www.nzherald.co.nz](https://www.nzherald.co.nz)
- - date published: 2023-10-25T20:50:14.328097+00:00
- - user: None
- - tags: []
-
-## Open to Grow
- - [https://opentogrow.co.nz](https://opentogrow.co.nz)
- - date published: 2024-01-01T03:40:17.027386+00:00
- - user: None
- - tags: ['personal']
-
-## Pulse Security
- - [https://pulsesecurity.co.nz](https://pulsesecurity.co.nz)
- - date published: 2023-10-25T20:50:15.343196+00:00
- - user: None
- - tags: []
-
-## Reseller News - The voice of the New Zealand IT channel
- - [https://www.reseller.co.nz](https://www.reseller.co.nz)
- - date published: 2023-10-25T20:50:24.511375+00:00
- - user: None
- - tags: []
-
-## RNZ - NZ News, Current Affairs, Audio On Demand
- - [https://www.rnz.co.nz](https://www.rnz.co.nz)
- - date published: 2023-10-25T20:50:30.480752+00:00
- - user: None
- - tags: []
-
-## Shop New Zealand
- - [https://www.shopnewzealand.co.nz](https://www.shopnewzealand.co.nz)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## NZ's Best Small Business Email Marketing Experts
- - [https://spike.co.nz](https://spike.co.nz)
- - date published: 2024-01-05T16:45:11.951213+00:00
- - user: None
- - tags: []
-
-## Latest breaking news NZ | Stuff.co.nz | New Zealand
- - [https://www.stuff.co.nz](https://www.stuff.co.nz)
- - date published: 2023-10-25T20:50:45.473515+00:00
- - user: None
- - tags: []
-
-## The Daily Examiner
- - [https://www.thedailyexaminer.co.nz](https://www.thedailyexaminer.co.nz)
- - date published: 2024-01-06T21:17:49.898981+00:00
- - user: None
- - tags: []
-
-## The Post
- - [https://www.thepost.co.nz](https://www.thepost.co.nz)
- - date published: 2023-11-27T08:54:31.962811+00:00
- - user: None
- - tags: []
-
-## Tidy Life Solutions: Home Organising and Decluttering Service Wellington
- - [https://www.tidylifesolutions.co.nz](https://www.tidylifesolutions.co.nz)
- - date published: 2024-01-11T17:08:10.216210+00:00
- - user: None
- - tags: []
-
-## Maori Geek
- - [https://maori.geek.nz](https://maori.geek.nz)
- - date published: 2023-10-25T20:50:54.301684+00:00
- - user: None
- - tags: []
-
-## Arabesque | Systems, Tools, and Terminal Science
- - [https://blog.sanctum.geek.nz](https://blog.sanctum.geek.nz)
- - date published: 2023-10-25T20:51:00.552568+00:00
- - user: None
- - tags: []
-
-## SmartView Christchurch
- - [https://smartview.ccc.govt.nz](https://smartview.ccc.govt.nz)
- - date published: 2023-10-25T20:51:03.510470+00:00
- - user: None
- - tags: []
-
-## http://www.nzsis.govt.nz
- - [http://www.nzsis.govt.nz](http://www.nzsis.govt.nz)
- - date published: 2024-02-07T15:33:41+00:00
- - user: rumpel
- - tags: ['security intelligence', 'new zealand security intelligence']
-
-## Te Ara Encyclopedia of New Zealand – Te Ara Encyclopedia of New Zealand
- - [https://teara.govt.nz](https://teara.govt.nz)
- - date published: 2023-10-25T20:51:07.098533+00:00
- - user: None
- - tags: []
-
-## home
- - [https://www.tepapa.govt.nz](https://www.tepapa.govt.nz)
- - date published: 2023-11-13T13:55:09.677844+00:00
- - user: None
- - tags: ['museum']
-
-## Cloud Island
- - [https://cloudisland.nz](https://cloudisland.nz)
- - date published: 2023-10-25T20:51:13.906554+00:00
- - user: None
- - tags: []
-
-## Home » InternetNZ
- - [https://internetnz.nz](https://internetnz.nz)
- - date published: 2023-10-25T20:51:16.741237+00:00
- - user: None
- - tags: []
-
-## InternetNZ Status
- - [https://status.internetnz.nz](https://status.internetnz.nz)
- - date published: 2023-10-25T20:51:22.956753+00:00
- - user: None
- - tags: []
-
-## is this it?
- - [https://isthisit.nz](https://isthisit.nz)
- - date published: 2023-10-25T20:51:24.181241+00:00
- - user: None
- - tags: []
-
-## Jeremy Baker
- - [https://www.jeremybaker.nz](https://www.jeremybaker.nz)
- - date published: 2024-02-02T18:14:31.907184+00:00
- - user: None
- - tags: []
-
-## Welcome! - Matt Brown
- - [https://www.mattb.nz](https://www.mattb.nz)
- - date published: 2023-10-25T20:51:25.148571+00:00
- - user: None
- - tags: []
-
-## Tim McNamara (@timClicks)
- - [https://tim.mcnamara.nz](https://tim.mcnamara.nz)
- - date published: 2023-10-25T20:51:26.754354+00:00
- - user: None
- - tags: []
-
-## MEGA
- - [https://mega.nz](https://mega.nz)
- - date published: 1999-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['free cloud storage', 'file sharing', 'file hosting']
-
-## Constant Meiring
- - [https://constant.meiring.nz](https://constant.meiring.nz)
- - date published: 2023-10-25T20:51:27.602839+00:00
- - user: None
- - tags: []
-
-## Mobile made for you. One NZ.
- - [https://one.nz](https://one.nz)
- - date published: 2023-10-27T12:06:21.792668+00:00
- - user: None
- - tags: []
-
-## Serena Chen
- - [https://serena.nz](https://serena.nz)
- - date published: 2024-01-11T12:23:11.834075+00:00
- - user: None
- - tags: []
-
-## Te Awamutu Space Centre
- - [https://www.spacecentre.nz](https://www.spacecentre.nz)
- - date published: 2023-10-25T20:51:43.027687+00:00
- - user: None
- - tags: []
-
-## Asia Media Centre | Helping New Zealand media cover Asia
- - [https://www.asiamediacentre.org.nz](https://www.asiamediacentre.org.nz)
- - date published: 2023-10-25T20:51:53.621097+00:00
- - user: None
- - tags: []
-
-## My Playlist
- - [https://www.circuit.org.nz](https://www.circuit.org.nz)
- - date published: 2024-01-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://www.privacy.org.nz
- - [https://www.privacy.org.nz](https://www.privacy.org.nz)
- - date published: 2024-01-09T03:38:02.730564+00:00
- - user: None
- - tags: []
-
-## WasteNet Southland
- - [https://www.wastenet.org.nz](https://www.wastenet.org.nz)
- - date published: 2024-02-08T17:46:48.890625+00:00
- - user: None
- - tags: []
-
-## Ian's blog | entropy.observer
- - [https://blog.entropy.observer](https://blog.entropy.observer)
- - date published: 2023-10-25T20:51:56.441202+00:00
- - user: None
- - tags: []
-
-## ambiphone. ambient music + sounds for work, study and relaxation.
- - [https://ambiph.one](https://ambiph.one)
- - date published: 2024-01-03T18:03:56.464502+00:00
- - user: None
- - tags: []
-
-## Deadstar.one
- - [https://deadstar.one](https://deadstar.one)
- - date published: 2022-07-07T00:00:00+00:00
  - user: None
  - tags: []
 
