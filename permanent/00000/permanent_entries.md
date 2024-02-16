@@ -1,8 +1,56 @@
+## None
+ - [https://Stream.Zeno.FM](https://Stream.Zeno.FM)
+ - date published: 2024-02-15T22:14:13.811680+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Zeno.FM | Free streaming and listening to your favorite radio stations from around the world. Sport, News, Talk, Politics and Music.
+ - [https://Zeno.FM](https://Zeno.FM)
+ - date published: 2024-02-15T22:14:42.031318+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## WWW.COMMORADIO.NET - Authentic sound of Commodore 64 and Commodore Amiga
+ - [https://www.COMMORADIO.NET](https://www.COMMORADIO.NET)
+ - date published: 2024-02-15T22:15:06.873499+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Internet Radio Directory - RCAST.NET
+ - [https://Dir.RCAST.NET](https://Dir.RCAST.NET)
+ - date published: 2024-02-15T22:12:42.066226+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Free online radio stations – listen for free at AllRadio.Net
+ - [https://www.AllRadio.Net](https://www.AllRadio.Net)
+ - date published: 2024-02-15T22:15:04.024416+00:00
+ - user: None
+ - tags: ['demoscene']
+
 ## Welcome to QuakeServers.net
  - [http://www.quakeservers.Net](http://www.quakeservers.Net)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Game That Tune Radio
+ - [https://GTT.Rocks](https://GTT.Rocks)
+ - date published: 2024-02-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## PVM
+ - [http://Pungas.Space](http://Pungas.Space)
+ - date published: 2022-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
+ - [https://The.NAG.Zone](https://The.NAG.Zone)
+ - date published: 2024-02-15T22:14:18.261050+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Kern Type
  - [https://type.method.ac](https://type.method.ac)
@@ -50,7 +98,7 @@
  - [https://humaidq.ae](https://humaidq.ae)
  - date published: 2023-12-20T11:45:17.376653+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Welcome – Thomann United Arab Emirates
  - [https://www.thomann.ae](https://www.thomann.ae)
@@ -116,7 +164,7 @@
  - [https://rishi.ag](https://rishi.ag)
  - date published: 2023-12-16T07:28:34.638305+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Index of /
  - [https://text.causal.agency](https://text.causal.agency)
@@ -2654,7 +2702,7 @@
  - [https://glyphe.art](https://glyphe.art)
  - date published: 2023-11-29T17:10:47.669540+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Mar Williams Art
  - [https://marwilliams.art](https://marwilliams.art)
@@ -2672,7 +2720,7 @@
  - [https://mervi.art](https://mervi.art)
  - date published: 2024-02-13T18:07:49.947136+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Art, technology, and NFTs - Outland
  - [https://outland.art](https://outland.art)
@@ -2690,13 +2738,13 @@
  - [https://ferrad.as](https://ferrad.as)
  - date published: 2024-02-09T00:13:34.119208+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Write.as
  - [https://write.as](https://write.as)
  - date published: 2023-11-29T13:54:48.349537+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Homepage | IIAS
  - [https://www.iias.asia](https://www.iias.asia)
@@ -2714,7 +2762,7 @@
  - [https://petertasker.asia](https://petertasker.asia)
  - date published: 2023-12-09T18:59:39.029867+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Asia Public Holidays - PublicHolidays.asia
  - [https://publicholidays.asia](https://publicholidays.asia)
@@ -2768,7 +2816,7 @@
  - [https://fox21.at](https://fox21.at)
  - date published: 2023-12-19T02:59:36.471166+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Futurelopment
  - [https://blog.haschek.at](https://blog.haschek.at)
@@ -2852,17 +2900,11 @@
  - [https://www.saismo.at](https://www.saismo.at)
  - date published: 2023-11-29T14:53:43.981711+00:00
  - user: rumpel
- - tags: ['personal']
+ - tags: []
 
 ## Company Blog
  - [https://blog.sigma-star.at](https://blog.sigma-star.at)
  - date published: 2023-10-25T11:26:53.505946+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.spielen.at](https://www.spielen.at)
- - date published: 2024-02-08T16:51:57.849116+00:00
  - user: None
  - tags: []
 
@@ -2984,7 +3026,7 @@
  - [https://www.ceciliamacaulay.com.au](https://www.ceciliamacaulay.com.au)
  - date published: 2024-02-14T08:49:41.318177+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Christmas & Volling Accountants in Victor Harbor, Australia
  - [https://christmasvolling.com.au](https://christmasvolling.com.au)
@@ -3026,7 +3068,7 @@
  - [https://www.dianelee.com.au](https://www.dianelee.com.au)
  - date published: 2023-11-29T14:24:59.994140+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Drive - Australia's home of Car News, Expert Reviews, Independent Advice, Specs and Guides and Cars for Sale
  - [https://www.drive.com.au](https://www.drive.com.au)
@@ -3110,7 +3152,7 @@
  - [https://libbyfordham.com.au](https://libbyfordham.com.au)
  - date published: 2023-11-29T16:19:21.952996+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Maadmob | Design leadership, facilitation and teaching
  - [https://www.maadmob.com.au](https://www.maadmob.com.au)
@@ -3230,7 +3272,7 @@
  - [https://www.thompsonorganisations.com.au](https://www.thompsonorganisations.com.au)
  - date published: 2023-12-28T22:26:11.353151+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Process Systems - Manufacture Valves & Flow Control Equipment
  - [https://www.valvesonline.com.au](https://www.valvesonline.com.au)
@@ -3488,7 +3530,7 @@
  - [https://zen.id.au](https://zen.id.au)
  - date published: 2023-12-10T16:59:46.857949+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## ABC (Australian Broadcasting Corporation)
  - [https://www.abc.net.au](https://www.abc.net.au)
@@ -3614,7 +3656,7 @@
  - [http://zvi.band](http://zvi.band)
  - date published: 2023-12-22T22:31:24.610066+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## https://saucecode.bar
  - [https://saucecode.bar](https://saucecode.bar)
@@ -3650,7 +3692,7 @@
  - [https://artlambi.be](https://artlambi.be)
  - date published: 2023-12-10T16:59:16.167210+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Authenticsound.be - La musique expérimentale
  - [https://www.authenticsound.be](https://www.authenticsound.be)
@@ -3680,7 +3722,7 @@
  - [https://dewo.be](https://dewo.be)
  - date published: 2023-11-29T14:18:04.127765+00:00
  - user: None
- - tags: ['personal', 'personal']
+ - tags: ['personal']
 
 ## Dries Depoorter – artist and speaker working with technology 🔥
  - [https://driesdepoorter.be](https://driesdepoorter.be)
@@ -3788,7 +3830,7 @@
  - [http://shakalaka.be](http://shakalaka.be)
  - date published: 2023-12-22T22:29:41.716940+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Steffest - web developer
  - [https://www.stef.be](https://www.stef.be)
@@ -3866,7 +3908,7 @@
  - [https://rado.bg](https://rado.bg)
  - date published: 2024-02-13T17:36:00.453841+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Actionable Analytics for Growth teams | Narrative BI
  - [https://www.narrative.bi](https://www.narrative.bi)
@@ -3878,7 +3920,7 @@
  - [https://joshua.bio](https://joshua.bio)
  - date published: 2023-12-09T15:00:39.207861+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Amiga.org - Index
  - [https://blog.a-eon.biz](https://blog.a-eon.biz)
@@ -3938,7 +3980,7 @@
  - [https://jmoney.biz](https://jmoney.biz)
  - date published: 2023-12-16T07:28:19.600786+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Mobile games industry news and insights - Mobilegamer.biz
  - [https://mobilegamer.biz](https://mobilegamer.biz)
@@ -3968,19 +4010,19 @@
  - [https://8sided.blog](https://8sided.blog)
  - date published: 2023-12-25T22:11:32.378760+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Aapo Blog
  - [https://aapo.blog](https://aapo.blog)
  - date published: 2023-11-29T14:22:35.933854+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Abbe's Road
  - [https://abbesroad.blog](https://abbesroad.blog)
  - date published: 2023-12-08T09:38:25.844834+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## A Collection of Unmitigated Pedantry – A look at history and popular culture
  - [https://acoup.blog](https://acoup.blog)
@@ -3998,7 +4040,7 @@
  - [https://alexjgustafson.blog](https://alexjgustafson.blog)
  - date published: 2023-12-30T22:22:44.019431+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## alistair smith • blog
  - [https://alistair.blog](https://alistair.blog)
@@ -4058,13 +4100,13 @@
  - [https://www.bookconfidential.blog](https://www.bookconfidential.blog)
  - date published: 2023-12-30T05:22:55.385833+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Chai's Blog
  - [https://chait.blog](https://chait.blog)
  - date published: 2023-11-29T15:43:41.852196+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## cmart's blog
  - [https://cmart.blog](https://cmart.blog)
@@ -4124,7 +4166,7 @@
  - [https://dagan.blog](https://dagan.blog)
  - date published: 2024-01-09T02:26:37.338771+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## https://default.blog
  - [https://default.blog](https://default.blog)
@@ -4148,7 +4190,7 @@
  - [https://drewbutler.blog](https://drewbutler.blog)
  - date published: 2023-12-21T08:23:59.105908+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Life at Eclipse | Musings on the Eclipse Foundation, the community and the ecosystem
  - [https://eclipse-foundation.blog](https://eclipse-foundation.blog)
@@ -4185,7 +4227,7 @@
  - [https://fabricofhappiness.blog](https://fabricofhappiness.blog)
  - date published: 2023-12-13T06:04:10.402537+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## The Firebase Blog
  - [https://firebase.blog](https://firebase.blog)
@@ -4209,7 +4251,7 @@
  - [https://genehack.blog](https://genehack.blog)
  - date published: 2023-11-22T09:04:44.779260+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Get On With It - Writing and drawings about work, family and the stuff in-between
  - [https://getonwithit.blog](https://getonwithit.blog)
@@ -4245,13 +4287,13 @@
  - [https://dondagen.home.blog](https://dondagen.home.blog)
  - date published: 2023-12-14T06:53:35.668494+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Grumpy Wizard
  - [https://grumpywizard.home.blog](https://grumpywizard.home.blog)
  - date published: 2023-12-23T19:27:09.883564+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## To Be Determined
  - [https://locationtbd.home.blog](https://locationtbd.home.blog)
@@ -4263,7 +4305,7 @@
  - [https://hopplaausrufezeichen.blog](https://hopplaausrufezeichen.blog)
  - date published: 2023-11-29T14:18:55.206080+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Hypersphere
  - [https://hypersphere.blog](https://hypersphere.blog)
@@ -4299,7 +4341,7 @@
  - [https://jeremey.blog](https://jeremey.blog)
  - date published: 2023-12-20T14:33:15.143478+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## joshua johnson – learn more. know less.
  - [https://joshj.blog](https://joshj.blog)
@@ -4311,7 +4353,7 @@
  - [https://json.blog](https://json.blog)
  - date published: 2023-11-29T17:16:21.010658+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Web-focused software development - kimmo.blog
  - [https://kimmo.blog](https://kimmo.blog)
@@ -4353,7 +4395,7 @@
  - [https://agilelisa.micro.blog](https://agilelisa.micro.blog)
  - date published: 2023-11-29T15:29:38.973597+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Micro.blog
  - [https://micro.blog](https://micro.blog)
@@ -4365,7 +4407,7 @@
  - [https://mikeshafer.blog](https://mikeshafer.blog)
  - date published: 2023-12-20T05:39:06.849238+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## mmap(blog)
  - [https://mmapped.blog](https://mmapped.blog)
@@ -4419,13 +4461,13 @@
  - [https://petros.blog](https://petros.blog)
  - date published: 2023-12-15T21:43:49.329150+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Niklas's blog
  - [https://pivic.blog](https://pivic.blog)
  - date published: 2024-01-22T00:00:00+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Pixelfed Blog
  - [https://pixelfed.blog](https://pixelfed.blog)
@@ -4437,19 +4479,19 @@
  - [https://prashanths.blog](https://prashanths.blog)
  - date published: 2023-12-17T05:07:12.878570+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## The Stream of Thought That Waters the Garden
  - [https://quantumgardener.blog](https://quantumgardener.blog)
  - date published: 2023-11-29T14:25:56.871546+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Quigs.blog
  - [https://quigs.blog](https://quigs.blog)
  - date published: 2023-12-18T01:34:04.013330+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Raku Advent Calendar – Raku is a multi-paradigm language where there's more than one way to do it
  - [https://raku-advent.blog](https://raku-advent.blog)
@@ -4461,7 +4503,7 @@
  - [https://realhumangirl.blog](https://realhumangirl.blog)
  - date published: 2023-12-02T10:25:54.865102+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Realize Engineering | An engineering commentary for everyone every Wednesday since 2012
  - [https://realizeengineering.blog](https://realizeengineering.blog)
@@ -4491,7 +4533,7 @@
  - [https://sarah.blog](https://sarah.blog)
  - date published: 2023-11-29T14:44:35.706152+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Shtetl-Optimized
  - [https://scottaaronson.blog](https://scottaaronson.blog)
@@ -4575,7 +4617,7 @@
  - [https://tonydang.blog](https://tonydang.blog)
  - date published: 2023-12-12T04:54:16.406463+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## twdev.blog
  - [https://twdev.blog](https://twdev.blog)
@@ -4643,6 +4685,12 @@
  - user: None
  - tags: []
 
+## SHOUTcast Server
+ - [https://NOS.Radio.br](https://NOS.Radio.br)
+ - date published: 2017-08-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Portfolio
  - [https://cardume.art.br](https://cardume.art.br)
  - date published: 2024-01-09T02:26:44.691691+00:00
@@ -4661,11 +4709,23 @@
  - user: None
  - tags: []
 
+## Playpixel - Miniature Collection
+ - [https://www.Playpixel.com.br](https://www.Playpixel.com.br)
+ - date published: 2024-02-15T22:31:33.376128+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## None
+ - [https://RadioNOS.com.br](https://RadioNOS.com.br)
+ - date published: 2024-02-15T22:13:55.833092+00:00
+ - user: None
+ - tags: ['demoscene']
+
 ## Adler Medrado's little piece of turf
  - [https://adlermedrado.com.br](https://adlermedrado.com.br)
  - date published: 2024-02-11T04:54:28.132837+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Citroën Home
  - [https://www.citroen.com.br](https://www.citroen.com.br)
@@ -4683,7 +4743,7 @@
  - [https://fabricioperuzzo.com.br](https://fabricioperuzzo.com.br)
  - date published: 2023-12-23T07:30:31.973271+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Mods GTA San Andreas
  - [https://www.gta-sa.com.br](https://www.gta-sa.com.br)
@@ -4695,7 +4755,7 @@
  - [https://lksvn.com.br](https://lksvn.com.br)
  - date published: 2021-04-30T00:00:00+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Nord Investimentos - Research, Asset e Wealth Management
  - [https://www.nordinvestimentos.com.br](https://www.nordinvestimentos.com.br)
@@ -4862,6 +4922,12 @@
 ## VEG.BY — VEG's Blog
  - [https://veg.by](https://veg.by)
  - date published: 2023-11-26T12:56:13.830280+00:00
+ - user: None
+ - tags: []
+
+## -=:[ From the mind of Michael Walden ]:=-
+ - [https://MW.Rat.bz](https://MW.Rat.bz)
+ - date published: 2024-02-10T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5043,7 +5109,7 @@
  - [https://carlier.ca](https://carlier.ca)
  - date published: 2023-12-28T18:49:41.221395+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
  - [https://www.cbc.ca](https://www.cbc.ca)
@@ -5391,7 +5457,7 @@
  - [https://henman.ca](https://henman.ca)
  - date published: 2023-12-12T04:55:06.206081+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Home - Highgo Software Inc.
  - [https://www.highgo.ca](https://www.highgo.ca)
@@ -5403,7 +5469,7 @@
  - [https://hirad.ca](https://hirad.ca)
  - date published: 2023-12-27T18:12:30.676212+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## hypatia dot ca – Leigh Honeywell's Blog
  - [https://hypatia.ca](https://hypatia.ca)
@@ -5445,19 +5511,19 @@
  - [https://jasonshew.ca](https://jasonshew.ca)
  - date published: 2023-12-09T10:38:16.871758+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Author Jenn Ashton
  - [https://jenniferashton.ca](https://jenniferashton.ca)
  - date published: 2023-12-20T19:14:23.669927+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Author Jenn Ashton
  - [http://jenniferashton.ca](http://jenniferashton.ca)
  - date published: 2023-12-25T04:56:31.047100+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## John Smiley
  - [https://johnsmiley.ca](https://johnsmiley.ca)
@@ -5577,7 +5643,7 @@
  - [https://www.modernist3.ca](https://www.modernist3.ca)
  - date published: 2023-11-27T00:26:57.612206+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## @mohoromitch | hey
  - [https://mitchell.mohorovich.ca](https://mitchell.mohorovich.ca)
@@ -5643,13 +5709,13 @@
  - [https://novak.ca](https://novak.ca)
  - date published: 2024-01-11T02:12:34.554251+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Good, Better, Best
  - [https://www.nthn.ca](https://www.nthn.ca)
  - date published: 2023-11-29T18:20:44.786867+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## The Boreal Beetle – Insect Ecology Lab @UNBC
  - [https://huber.opened.ca](https://huber.opened.ca)
@@ -5661,7 +5727,7 @@
  - [https://oyam.ca](https://oyam.ca)
  - date published: 2023-12-12T13:09:05.017868+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## the Papertrail Handmade Paper & Book Arts
  - [https://papertrail.ca](https://papertrail.ca)
@@ -5697,13 +5763,13 @@
  - [https://pgadey.ca](https://pgadey.ca)
  - date published: 2023-11-29T17:15:09.105463+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Phrenssynnes' Lifestyle Blog
  - [https://phrenssynnes.ca](https://phrenssynnes.ca)
  - date published: 2023-12-27T01:06:07.688727+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Paul Khuong: some Lisp
  - [https://pvk.ca](https://pvk.ca)
@@ -5721,7 +5787,7 @@
  - [https://www.redroomrecordings.ca](https://www.redroomrecordings.ca)
  - date published: 2024-01-17T04:43:07.775376+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## rongrimes
  - [https://www.rongrimes.ca](https://www.rongrimes.ca)
@@ -5733,7 +5799,7 @@
  - [https://ruk.ca](https://ruk.ca)
  - date published: 2023-12-24T18:31:10.288244+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Software Analysis Research Group
  - [http://sarg.ryerson.ca](http://sarg.ryerson.ca)
@@ -5757,7 +5823,7 @@
  - [https://www.scottredmond.ca](https://www.scottredmond.ca)
  - date published: 2024-01-23T03:27:52.039443+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## The Second Egress: Building a Code Change
  - [https://secondegress.ca](https://secondegress.ca)
@@ -5817,7 +5883,7 @@
  - [https://staydecent.ca](https://staydecent.ca)
  - date published: 2023-11-29T14:42:31.811010+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Home | Subhadip Mukherjee
  - [https://subhadip.ca](https://subhadip.ca)
@@ -5829,7 +5895,7 @@
  - [https://tanho.ca](https://tanho.ca)
  - date published: 2024-02-11T05:02:26.143775+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## The Bridgehead | From the front lines of the culture wars.
  - [https://thebridgehead.ca](https://thebridgehead.ca)
@@ -5930,72 +5996,6 @@
 ## UdeMNouvelles, l’actualité de l’Université de Montréal | UdeMNouvelles
  - [https://nouvelles.umontreal.ca](https://nouvelles.umontreal.ca)
  - date published: 2023-11-04T12:47:25.272671+00:00
- - user: None
- - tags: []
-
-## Département d'informatique et de recherche opérationnelle - Université de Montréal
- - [https://www.iro.umontreal.ca](https://www.iro.umontreal.ca)
- - date published: 2023-10-25T12:08:56.540416+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.universitymagazine.ca](https://www.universitymagazine.ca)
- - date published: 2023-10-31T21:38:04.165908+00:00
- - user: None
- - tags: []
-
-## Home | University of Ottawa
- - [https://www.uottawa.ca](https://www.uottawa.ca)
- - date published: 2023-12-01T11:39:31.990444+00:00
- - user: None
- - tags: []
-
-## https://utcc.utoronto.ca
- - [https://utcc.utoronto.ca](https://utcc.utoronto.ca)
- - date published: 2023-12-13T01:37:35.107341+00:00
- - user: None
- - tags: []
-
-## University of Toronto Libraries
- - [https://www.library.utoronto.ca](https://www.library.utoronto.ca)
- - date published: 2023-10-27T10:23:57.087268+00:00
- - user: None
- - tags: ['university']
-
-## Rotman School of Management | University of Toronto - Rotman School of Management
- - [https://www.rotman.utoronto.ca](https://www.rotman.utoronto.ca)
- - date published: 2023-11-18T08:17:18.470993+00:00
- - user: None
- - tags: []
-
-## Home | University of Toronto Mississauga
- - [https://www.utm.utoronto.ca](https://www.utm.utoronto.ca)
- - date published: 2023-11-08T22:51:00.987663+00:00
- - user: None
- - tags: []
-
-## University of Toronto
- - [https://www.utoronto.ca](https://www.utoronto.ca)
- - date published: 2023-10-25T11:21:50.526226+00:00
- - user: None
- - tags: ['university']
-
-## Home | Cheriton School of Computer Science | University of Waterloo
- - [https://cs.uwaterloo.ca](https://cs.uwaterloo.ca)
- - date published: 2023-10-25T12:09:06.920644+00:00
- - user: None
- - tags: []
-
-## CSC - University of Waterloo
- - [https://csclub.uwaterloo.ca](https://csclub.uwaterloo.ca)
- - date published: 2023-10-25T11:22:02.876946+00:00
- - user: None
- - tags: []
-
-## Home | University of Waterloo
- - [https://uwaterloo.ca](https://uwaterloo.ca)
- - date published: 2023-10-25T12:09:14.024143+00:00
  - user: None
  - tags: []
 
