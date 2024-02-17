@@ -2476,6 +2476,12 @@
  - user: None
  - tags: []
 
+## Show HN: I made a Pinterest clone using SigLIP image embeddings
+ - [https://mood-amber.vercel.app](https://mood-amber.vercel.app)
+ - date published: 2024-02-16T02:52:01+00:00
+ - user: None
+ - tags: []
+
 ## OctoArt
  - [https://octoart.vercel.app](https://octoart.vercel.app)
  - date published: 2023-10-30T18:59:23.812847+00:00
@@ -5990,12 +5996,6 @@
 ## Home - Umoja Operation Compassion Society
  - [https://umojaoperation.ca](https://umojaoperation.ca)
  - date published: 2024-02-08T16:43:37.261232+00:00
- - user: None
- - tags: []
-
-## UdeMNouvelles, l’actualité de l’Université de Montréal | UdeMNouvelles
- - [https://nouvelles.umontreal.ca](https://nouvelles.umontreal.ca)
- - date published: 2023-11-04T12:47:25.272671+00:00
  - user: None
  - tags: []
 

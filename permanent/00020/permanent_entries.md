@@ -1,3 +1,141 @@
+## Home Page of Evan Miller
+ - [https://www.evanmiller.org](https://www.evanmiller.org)
+ - date published: 2023-10-25T21:19:35.240645+00:00
+ - user: None
+ - tags: []
+
+## Environmental Working Group – EWG’s Holiday Gift Box: Sustainable Swaps | Environmental Working Group
+ - [https://www.ewg.org](https://www.ewg.org)
+ - date published: 2023-11-07T20:37:47.472532+00:00
+ - user: None
+ - tags: []
+
+## Ex Astris Scientia - Bernd Schneider's Star Trek Site
+ - [https://www.ex-astris-scientia.org](https://www.ex-astris-scientia.org)
+ - date published: 2023-10-25T21:19:36.786033+00:00
+ - user: None
+ - tags: []
+
+## Exercism
+ - [https://exercism.org](https://exercism.org)
+ - date published: 2023-10-25T21:19:39.464087+00:00
+ - user: None
+ - tags: []
+
+## ExifTool by Phil Harvey
+ - [https://exiftool.org](https://exiftool.org)
+ - date published: 2023-10-25T21:19:45.814769+00:00
+ - user: None
+ - tags: []
+
+## Explore.org
+ - [https://explore.org](https://explore.org)
+ - date published: 2023-10-25T21:19:47.761417+00:00
+ - user: None
+ - tags: []
+
+## EXP TV
+ - [https://exptv.org](https://exptv.org)
+ - date published: 2023-10-25T21:19:50.136672+00:00
+ - user: None
+ - tags: []
+
+## Extism - make all software programmable. Extend from within. | Extism - make all software programmable. Extend from within.
+ - [https://extism.org](https://extism.org)
+ - date published: 2023-10-25T21:19:54.073061+00:00
+ - user: None
+ - tags: []
+
+## Eye on Surveillance
+ - [https://eyeonsurveillance.org](https://eyeonsurveillance.org)
+ - date published: 2024-01-03T18:31:43.190369+00:00
+ - user: None
+ - tags: []
+
+## F-Droid - Free and Open Source Android App Repository
+ - [https://f-droid.org](https://f-droid.org)
+ - date published: 2023-10-24T20:10:50.007548+00:00
+ - user: None
+ - tags: ['open source', 'app store']
+
+## F4PGA - the GCC of FPGAs
+ - [https://f4pga.org](https://f4pga.org)
+ - date published: 2023-10-25T21:19:57.352430+00:00
+ - user: None
+ - tags: []
+
+## FactCheck.org
+ - [https://www.factcheck.org](https://www.factcheck.org)
+ - date published: 2024-02-07T12:11:47+00:00
+ - user: rumpel
+ - tags: ['annenberg', 'fact check']
+
+## Re: Factor
+ - [https://re.factorcode.org](https://re.factorcode.org)
+ - date published: 2023-11-11T04:10:27.144245+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [https://fair.org](https://fair.org)
+ - date published: 2023-10-25T21:19:59.248745+00:00
+ - user: None
+ - tags: []
+
+## Fair Trials | Fairness, equality, justice
+ - [https://www.fairtrials.org](https://www.fairtrials.org)
+ - date published: 2023-10-25T21:20:03.100788+00:00
+ - user: None
+ - tags: []
+
+## Falco
+ - [https://falco.org](https://falco.org)
+ - date published: 2023-10-25T21:20:05.441013+00:00
+ - user: None
+ - tags: []
+
+## Fanlore
+ - [https://fanlore.org](https://fanlore.org)
+ - date published: 2023-10-25T13:58:14.775906+00:00
+ - user: None
+ - tags: []
+
+## Home - Federation of American Scientists
+ - [https://fas.org](https://fas.org)
+ - date published: 2023-10-25T21:20:09.087511+00:00
+ - user: None
+ - tags: []
+
+## FAS Project on Government Secrecy (1991-2021)
+ - [https://sgp.fas.org](https://sgp.fas.org)
+ - date published: 2023-10-25T21:20:11.503363+00:00
+ - user: None
+ - tags: []
+
+## Fe - A next generation, statically typed, future-proof smart contract language for the Ethereum Virtual Machine
+ - [https://fe-lang.org](https://fe-lang.org)
+ - date published: 2023-10-25T21:20:12.316273+00:00
+ - user: None
+ - tags: []
+
+## Home | Federal Reserve History
+ - [https://www.federalreservehistory.org](https://www.federalreservehistory.org)
+ - date published: 2023-10-25T21:20:14.023107+00:00
+ - user: None
+ - tags: []
+
+## FediScience.org
+ - [https://fediscience.org](https://fediscience.org)
+ - date published: 2023-10-25T21:20:14.575500+00:00
+ - user: None
+ - tags: []
+
+## Fedora Magazine - Guides, information, and news about the Fedora operating system for users, developers, system administrators, and community members.
+ - [https://fedoramagazine.org](https://fedoramagazine.org)
+ - date published: 2023-10-25T21:20:17.331969+00:00
+ - user: None
+ - tags: ['fedora linux']
+
 ## Fedora Updates System
  - [https://bodhi.fedoraproject.org](https://bodhi.fedoraproject.org)
  - date published: 2023-10-25T21:20:23.751445+00:00
@@ -121,6 +259,12 @@
 ## Perspective | Perspective
  - [https://perspective.finos.org](https://perspective.finos.org)
  - date published: 2023-10-25T21:20:56.182673+00:00
+ - user: None
+ - tags: []
+
+## Firefly III: A free and open source personal finance manager
+ - [https://www.firefly-iii.org](https://www.firefly-iii.org)
+ - date published: 2024-02-16T02:34:03+00:00
  - user: None
  - tags: []
 
@@ -5863,150 +6007,6 @@ Common Weakness Enumeration
 ## OWASP Foundation, the Open Source Foundation for Application Security | OWASP Foundation
  - [https://owasp.org](https://owasp.org)
  - date published: 2023-10-25T21:55:25.406620+00:00
- - user: None
- - tags: []
-
-## Owl’s Portfolio
- - [https://www.owlfolio.org](https://www.owlfolio.org)
- - date published: 2023-10-25T21:55:28.509100+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.oxamyne.org](https://www.oxamyne.org)
- - date published: 2023-12-11T16:12:55.572072+00:00
- - user: None
- - tags: []
-
-## The future is equal | Oxfam International
- - [https://www.oxfam.org](https://www.oxfam.org)
- - date published: 2023-10-25T21:55:30.733555+00:00
- - user: None
- - tags: []
-
-## Oxford American | Home
- - [https://main.oxfordamerican.org](https://main.oxfordamerican.org)
- - date published: 2023-10-25T21:55:33.395856+00:00
- - user: None
- - tags: []
-
-## Oxford American | Home
- - [https://oxfordamerican.org](https://oxfordamerican.org)
- - date published: 2023-10-25T21:55:35.228196+00:00
- - user: None
- - tags: []
-
-## Home | p2panda
- - [https://p2panda.org](https://p2panda.org)
- - date published: 2023-10-25T21:55:36.083870+00:00
- - user: None
- - tags: []
-
-## Hummus and Magnets
- - [https://h14s.p5r.org](https://h14s.p5r.org)
- - date published: 2023-10-25T21:55:43.963463+00:00
- - user: None
- - tags: []
-
-## pablotron.org
- - [https://pablotron.org](https://pablotron.org)
- - date published: 2023-10-25T21:55:47.144745+00:00
- - user: None
- - tags: []
-
-## PackagingCon 2023
- - [https://packaging-con.org](https://packaging-con.org)
- - date published: 2023-10-25T21:55:54.179386+00:00
- - user: None
- - tags: []
-
-## Welcome to the Population Approach Group in Europe
- - [https://www.page-meeting.org](https://www.page-meeting.org)
- - date published: 2024-02-08T16:45:08.680893+00:00
- - user: None
- - tags: []
-
-## The Palaeontological Association | Reg. Charity No. 1168330
- - [https://www.palass.org](https://www.palass.org)
- - date published: 2023-10-25T11:25:34.390632+00:00
- - user: None
- - tags: []
-
-## pamela fox's blog
- - [https://blog.pamelafox.org](https://blog.pamelafox.org)
- - date published: 2023-10-25T21:55:58.273502+00:00
- - user: None
- - tags: []
-
-## Pandemic Resilience Roadmap
- - [https://www.pandemictesting.org](https://www.pandemictesting.org)
- - date published: 2020-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pandoc - index
- - [https://pandoc.org](https://pandoc.org)
- - date published: 2023-10-25T21:55:59.781435+00:00
- - user: None
- - tags: []
-
-## Strona główna | Fundacja Panoptykon
- - [https://panoptykon.org](https://panoptykon.org)
- - date published: 2023-10-25T21:56:01.636917+00:00
- - user: None
- - tags: []
-
-## Papers, Please! – The Identity Project
- - [https://papersplease.org](https://papersplease.org)
- - date published: 2023-10-25T21:56:07.417099+00:00
- - user: None
- - tags: []
-
-## paredit — parenthetical editing in Emacs
- - [https://paredit.org](https://paredit.org)
- - date published: 2023-10-25T21:56:08.422643+00:00
- - user: None
- - tags: []
-
-## Welcome!
- - [https://parentheticallyspeaking.org](https://parentheticallyspeaking.org)
- - date published: 2023-10-25T21:56:09.143442+00:00
- - user: None
- - tags: []
-
-## parsonsmatt.org
- - [https://www.parsonsmatt.org](https://www.parsonsmatt.org)
- - date published: 2023-10-25T21:56:09.832668+00:00
- - user: None
- - tags: []
-
-## PATL
- - [https://patl.org](https://patl.org)
- - date published: 2023-12-11T16:19:08.247036+00:00
- - user: None
- - tags: []
-
-## Patrick T. Brown, PhD | It’s easy to construct a persuasive argument, it’s much more difficult to figure out the truth…
- - [https://patricktbrown.org](https://patricktbrown.org)
- - date published: 2023-10-25T21:56:15.510577+00:00
- - user: None
- - tags: []
-
-## Paul Miller – Don't panic
- - [https://paulmiller.org](https://paulmiller.org)
- - date published: 2024-02-12T16:24:57.717444+00:00
- - user: None
- - tags: []
-
-## Andrew Payne | payne.org
- - [https://payne.org](https://payne.org)
- - date published: 2023-10-25T21:56:16.509535+00:00
- - user: None
- - tags: []
-
-## Physically Based Rendering: From Theory to Implementation
- - [https://pbr-book.org](https://pbr-book.org)
- - date published: 2023-11-02T10:40:48.951509+00:00
  - user: None
  - tags: []
 

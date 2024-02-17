@@ -1,3 +1,99 @@
+## Daniel Imfeld
+ - [https://imfeld.dev](https://imfeld.dev)
+ - date published: 2023-10-25T08:58:35.606412+00:00
+ - user: None
+ - tags: ['personal']
+
+## Immersive Web Developer Home
+ - [https://immersiveweb.dev](https://immersiveweb.dev)
+ - date published: 2023-10-25T18:38:38.836353+00:00
+ - user: None
+ - tags: []
+
+## Imre Csige's Digital Garden
+ - [https://imrecsige.dev](https://imrecsige.dev)
+ - date published: 2023-12-12T04:53:12.747632+00:00
+ - user: None
+ - tags: []
+
+## https://indiebackers.dev
+ - [https://indiebackers.dev](https://indiebackers.dev)
+ - date published: 2024-01-16T11:11:45.517650+00:00
+ - user: None
+ - tags: []
+
+## Nobody5050 | Homepage
+ - [https://6502.is-a.dev](https://6502.is-a.dev)
+ - date published: 2023-10-25T18:38:44.396878+00:00
+ - user: None
+ - tags: []
+
+## jahed.dev
+ - [https://jahed.dev](https://jahed.dev)
+ - date published: 2023-10-25T08:58:36.253575+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jakob Serlier's Personal Site
+ - [https://jakobs.dev](https://jakobs.dev)
+ - date published: 2024-01-09T01:37:20.973191+00:00
+ - user: None
+ - tags: []
+
+## Jam | Build a bug-free product.
+ - [https://jam.dev](https://jam.dev)
+ - date published: 2023-10-25T18:38:45.366903+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://jamsync.dev](https://jamsync.dev)
+ - date published: 2023-10-25T18:38:46.533482+00:00
+ - user: None
+ - tags: []
+
+## Ramblings from Jessie: Home
+ - [https://jess.dev](https://jess.dev)
+ - date published: 2023-10-25T09:21:42.264142+00:00
+ - user: None
+ - tags: ['personal']
+
+## John Freeman
+ - [https://jfreeman.dev](https://jfreeman.dev)
+ - date published: 2023-10-25T08:58:37.230030+00:00
+ - user: None
+ - tags: ['personal']
+
+## @jimmyislive
+ - [https://jimmyislive.dev](https://jimmyislive.dev)
+ - date published: 2023-10-25T09:21:43.382608+00:00
+ - user: None
+ - tags: ['personal']
+
+## Just in Time Webhooks | Jiter
+ - [https://jiter.dev](https://jiter.dev)
+ - date published: 2023-10-25T18:38:47.496168+00:00
+ - user: None
+ - tags: []
+
+## JJTech
+ - [https://jjtech.dev](https://jjtech.dev)
+ - date published: 2023-12-05T17:46:59.391002+00:00
+ - user: None
+ - tags: []
+
+## Julio Merino (jmmv.dev)
+ - [https://jmmv.dev](https://jmmv.dev)
+ - date published: 2023-10-25T08:58:38.049908+00:00
+ - user: None
+ - tags: ['personal']
+
+## John Morrice
+ - [https://jmorrice.dev](https://jmorrice.dev)
+ - date published: 2023-10-25T09:21:44.400786+00:00
+ - user: None
+ - tags: ['personal']
+
 ## joev.dev: thoughts, engineering, art, life
  - [https://joev.dev](https://joev.dev)
  - date published: 2023-12-31T19:01:54.757850+00:00
@@ -5180,6 +5276,12 @@
  - user: None
  - tags: []
 
+## Whitman College
+ - [https://www.whitman.edu](https://www.whitman.edu)
+ - date published: 2024-02-16T07:45:43.452013+00:00
+ - user: None
+ - tags: []
+
 ## Williams College
  - [https://web.williams.edu](https://web.williams.edu)
  - date published: 2023-11-13T10:00:02.994920+00:00
@@ -5913,106 +6015,4 @@
  - date published: 2023-10-25T08:49:09.327114+00:00
  - user: None
  - tags: ['personal']
-
-## DeepReview - Write compelling resumes, cover letters, performance reviews and more, in just minutes.
- - [https://deepreview.eu](https://deepreview.eu)
- - date published: 2023-10-25T19:09:19.206888+00:00
- - user: None
- - tags: []
-
-## Defence Industry Europe
- - [https://defence-industry.eu](https://defence-industry.eu)
- - date published: 2023-11-27T06:06:43.599521+00:00
- - user: None
- - tags: []
-
-## dns0.eu — The European public DNS that makes your Internet safer
- - [https://www.dns0.eu](https://www.dns0.eu)
- - date published: 2023-10-25T19:09:21.881247+00:00
- - user: None
- - tags: []
-
-## Don't Spy EU
- - [https://dontspy.eu](https://dontspy.eu)
- - date published: 2023-11-15T13:03:17+00:00
- - user: rumpel
- - tags: ['facial recognition', 'surveillance', 'biometrics', 'privacy']
-
-## EAVI - Media Literacy for Citizenship
- - [https://eavi.eu](https://eavi.eu)
- - date published: 2023-10-25T19:09:47.932688+00:00
- - user: None
- - tags: []
-
-## HOME
- - [https://www.ebf.eu](https://www.ebf.eu)
- - date published: 2024-01-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## ECPR's Political Science Blog - The Loop
- - [https://theloop.ecpr.eu](https://theloop.ecpr.eu)
- - date published: 2023-10-25T19:09:55.861914+00:00
- - user: None
- - tags: []
-
-## ENTSO-E Transparency Platform
- - [https://transparency.entsoe.eu](https://transparency.entsoe.eu)
- - date published: 2023-10-25T19:09:58.582217+00:00
- - user: None
- - tags: []
-
-## EquiValent
- - [https://blog.eq8.eu](https://blog.eq8.eu)
- - date published: 2023-10-25T19:10:02.527258+00:00
- - user: None
- - tags: []
-
-## EUROMOMO EuroMOMO Bulletin, Week 4, 2024
- - [https://www.euromomo.eu](https://www.euromomo.eu)
- - date published: 2024-02-01T22:55:43.888015+00:00
- - user: None
- - tags: []
-
-## European Civil Protection and Humanitarian Aid Operations
- - [https://civil-protection-humanitarian-aid.ec.europa.eu](https://civil-protection-humanitarian-aid.ec.europa.eu)
- - date published: 2023-12-22T12:19:59.878101+00:00
- - user: None
- - tags: []
-
-## Untitled Document
- - [https://curia.europa.eu](https://curia.europa.eu)
- - date published: 2023-10-25T19:10:04.254569+00:00
- - user: None
- - tags: []
-
-## Shaping Europe’s digital future
- - [https://digital-strategy.ec.europa.eu](https://digital-strategy.ec.europa.eu)
- - date published: 2024-01-21T19:08:08.043591+00:00
- - user: None
- - tags: []
-
-## Language selection | European Commission
- - [https://ec.europa.eu](https://ec.europa.eu)
- - date published: 2023-10-25T11:24:45.809790+00:00
- - user: None
- - tags: []
-
-## Language selection | Migration and Home Affairs
- - [https://home-affairs.ec.europa.eu](https://home-affairs.ec.europa.eu)
- - date published: 2023-10-25T19:10:06.998621+00:00
- - user: None
- - tags: []
-
-## EU Voice
- - [https://social.network.europa.eu](https://social.network.europa.eu)
- - date published: 2023-10-25T19:10:09.557687+00:00
- - user: None
- - tags: []
-
-## Browser check - Consilium
- - [https://www.consilium.europa.eu](https://www.consilium.europa.eu)
- - date published: 2023-10-25T19:10:10.580564+00:00
- - user: None
- - tags: []
 

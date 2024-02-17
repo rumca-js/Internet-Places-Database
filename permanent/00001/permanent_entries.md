@@ -1,3 +1,9 @@
+## UdeMNouvelles, l’actualité de l’Université de Montréal | UdeMNouvelles
+ - [https://nouvelles.umontreal.ca](https://nouvelles.umontreal.ca)
+ - date published: 2023-11-04T12:47:25.272671+00:00
+ - user: None
+ - tags: []
+
 ## Département d'informatique et de recherche opérationnelle - Université de Montréal
  - [https://www.iro.umontreal.ca](https://www.iro.umontreal.ca)
  - date published: 2023-10-25T12:08:56.540416+00:00
@@ -3225,7 +3231,7 @@
  - [https://www.Internet-Radio.com](https://www.Internet-Radio.com)
  - date published: 2024-02-15T22:15:18.863084+00:00
  - user: None
- - tags: ['demoscene']
+ - tags: ['radio']
 
 ## GTT Radio
  - [https://GTT.JrJrTech.com](https://GTT.JrJrTech.com)
@@ -5994,10 +6000,4 @@
  - date published: 2023-11-29T15:16:16.607018+00:00
  - user: None
  - tags: []
-
-## Amy Goodchild
- - [https://www.amygoodchild.com](https://www.amygoodchild.com)
- - date published: 2023-10-25T09:04:30.562050+00:00
- - user: None
- - tags: ['personal']
 

@@ -1,3 +1,57 @@
+## Ruoyu Sun
+ - [https://ruoyusun.com](https://ruoyusun.com)
+ - date published: 2023-10-25T16:55:33.316136+00:00
+ - user: None
+ - tags: []
+
+## Rupert McKay
+ - [https://rupertmckay.com](https://rupertmckay.com)
+ - date published: 2023-10-25T16:55:34.323031+00:00
+ - user: None
+ - tags: []
+
+## Russell Turner | What I'm Up To
+ - [https://russbits.com](https://russbits.com)
+ - date published: 2023-12-29T20:10:59.764159+00:00
+ - user: None
+ - tags: []
+
+## Russell Beattie
+ - [https://www.russellbeattie.com](https://www.russellbeattie.com)
+ - date published: 2023-10-25T16:55:35.750953+00:00
+ - user: None
+ - tags: []
+
+## Rust Nation 24 - Rust Nation 24
+ - [https://www.rustnationuk.com](https://www.rustnationuk.com)
+ - date published: 2023-10-25T16:55:41.441647+00:00
+ - user: None
+ - tags: []
+
+## Blog @ RustProof Labs
+ - [https://blog.rustprooflabs.com](https://blog.rustprooflabs.com)
+ - date published: 2023-11-25T23:50:41.395453+00:00
+ - user: None
+ - tags: []
+
+## Rusty Bishop's Website
+ - [https://rustybishop.com](https://rustybishop.com)
+ - date published: 2024-02-05T07:23:43.066908+00:00
+ - user: None
+ - tags: []
+
+## Ruth Carrick-Forrester
+ - [https://ruthcf.com](https://ruthcf.com)
+ - date published: 2024-01-11T13:29:27.035862+00:00
+ - user: None
+ - tags: []
+
+## Ruud van Asseldonk
+ - [https://ruudvanasseldonk.com](https://ruudvanasseldonk.com)
+ - date published: 2023-10-25T16:55:42.115868+00:00
+ - user: None
+ - tags: []
+
 ## Ryan Schachte's Blog
  - [https://ryan-schachte.com](https://ryan-schachte.com)
  - date published: 2024-01-02T17:12:24.514748+00:00
@@ -1498,6 +1552,12 @@
  - user: rumpel
  - tags: ['smart home']
 
+## Home - Mark Dawson's Self Publishing Formula
+ - [https://selfpublishingformula.com](https://selfpublishingformula.com)
+ - date published: 2024-02-16T21:26:39.343208+00:00
+ - user: None
+ - tags: []
+
 ## Semafor - An intelligent, transparent global news platform for breaking stories, analysis and video
  - [https://www.semafor.com](https://www.semafor.com)
  - date published: 2023-10-25T10:38:55.032682+00:00
@@ -2879,6 +2939,12 @@
  - user: None
  - tags: []
 
+## Smith & Bradley Mens Tactical, Field & Sea Watches
+ - [https://smithandbradley.com](https://smithandbradley.com)
+ - date published: 2024-02-16T18:18:03.411767+00:00
+ - user: None
+ - tags: []
+
 ## History, Travel, Arts, Science, People, Places Smithsonian Magazine
  - [https://www.smithsonianmag.com](https://www.smithsonianmag.com)
  - date published: 2023-10-25T10:38:59.050420+00:00
@@ -3056,6 +3122,12 @@
 ## Aurora Store
  - [https://aurora-store.en.softonic.com](https://aurora-store.en.softonic.com)
  - date published: 2024-02-08T18:16:27.788227+00:00
+ - user: None
+ - tags: []
+
+## Latest News & Reviews by Softpedia
+ - [https://news.softpedia.com](https://news.softpedia.com)
+ - date published: 2024-02-16T16:03:05.521355+00:00
  - user: None
  - tags: []
 
@@ -5934,76 +6006,4 @@
  - date published: 2023-10-25T09:46:52.638548+00:00
  - user: None
  - tags: ['substack']
-
-## Database Engineering by Sort | Jason Zucchetto | Substack
- - [https://databaseengineering.substack.com](https://databaseengineering.substack.com)
- - date published: 2023-11-01T23:07:06.577463+00:00
- - user: None
- - tags: []
-
-## The Future, Now and Then | Dave Karpf | Substack
- - [https://davekarpf.substack.com](https://davekarpf.substack.com)
- - date published: 2023-10-25T11:45:28.784543+00:00
- - user: None
- - tags: ['substack']
-
-## David Friedman’s Substack | Substack
- - [https://daviddfriedman.substack.com](https://daviddfriedman.substack.com)
- - date published: 2023-12-17T09:57:02.027877+00:00
- - user: None
- - tags: []
-
-## Original Jurisdiction | David Lat | Substack
- - [https://davidlat.substack.com](https://davidlat.substack.com)
- - date published: 2023-10-25T09:47:15.933020+00:00
- - user: None
- - tags: ['substack']
-
-## Rozado’s Visual Analytics  | David Rozado | Substack
- - [https://davidrozado.substack.com](https://davidrozado.substack.com)
- - date published: 2024-01-09T01:39:20.187256+00:00
- - user: None
- - tags: []
-
-## davidj.substack | David Jayatillake | Substack
- - [https://davidsj.substack.com](https://davidsj.substack.com)
- - date published: 2024-01-09T01:39:22.792312+00:00
- - user: None
- - tags: []
-
-## Silent Lunch, The David Zweig Newsletter | Substack
- - [https://davidzweig.substack.com](https://davidzweig.substack.com)
- - date published: 2024-01-09T01:39:26.180855+00:00
- - user: None
- - tags: []
-
-## decodebytes  | Luke Hinds | Substack
- - [https://decodebytes.substack.com](https://decodebytes.substack.com)
- - date published: 2024-01-09T01:39:28.344134+00:00
- - user: None
- - tags: []
-
-## Autonomy | Deepak Subburam | Substack
- - [https://deepsub.substack.com](https://deepsub.substack.com)
- - date published: 2023-10-25T09:47:42.736089+00:00
- - user: None
- - tags: ['substack']
-
-## AI Research & Strategy | Delip Rao | Substack
- - [https://deliprao.substack.com](https://deliprao.substack.com)
- - date published: 2023-12-22T01:52:44.921506+00:00
- - user: None
- - tags: []
-
-## The Great Reset Diary 2022-  | Yun-Fang Juan | Substack
- - [https://depression2022.substack.com](https://depression2022.substack.com)
- - date published: 2024-01-09T01:39:30.436174+00:00
- - user: None
- - tags: []
-
-## Derw | Substack
- - [https://derw.substack.com](https://derw.substack.com)
- - date published: 2024-01-09T01:39:32.524288+00:00
- - user: None
- - tags: []
 

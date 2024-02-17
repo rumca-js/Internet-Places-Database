@@ -1,3 +1,9 @@
+## Amy Goodchild
+ - [https://www.amygoodchild.com](https://www.amygoodchild.com)
+ - date published: 2023-10-25T09:04:30.562050+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Ana Pogačnik
  - [https://www.ana-pogacnik.com](https://www.ana-pogacnik.com)
  - date published: 2024-02-08T16:29:42.263891+00:00
@@ -5999,10 +6005,4 @@
  - date published: 2023-10-25T13:11:44.999443+00:00
  - user: None
  - tags: []
-
-## Secure, Fast, & Private Web Browser with Adblocker | Brave
- - [https://brave.com](https://brave.com)
- - date published: 2023-10-25T08:40:27.018948+00:00
- - user: None
- - tags: ['web browser']
 

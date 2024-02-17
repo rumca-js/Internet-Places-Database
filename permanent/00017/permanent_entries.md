@@ -1,3 +1,117 @@
+## Home - Poseidon Labs
+ - [https://www.psdn.io](https://www.psdn.io)
+ - date published: 2023-10-25T20:04:21.016588+00:00
+ - user: None
+ - tags: []
+
+## Reflex
+ - [https://pynecone.io](https://pynecone.io)
+ - date published: 2023-10-25T20:04:22.437633+00:00
+ - user: None
+ - tags: []
+
+## pip documentation v23.3.1
+ - [https://pip.pypa.io](https://pip.pypa.io)
+ - date published: 2023-10-25T20:04:24.380034+00:00
+ - user: None
+ - tags: []
+
+## PySaaS | Make a Profitable SaaS Business Fast in Python
+ - [https://pysaas.io](https://pysaas.io)
+ - date published: 2023-10-25T20:04:25.968019+00:00
+ - user: None
+ - tags: []
+
+## Qt | Tools for Each Stage of Software Development Lifecycle
+ - [https://www.qt.io](https://www.qt.io)
+ - date published: 2023-10-25T20:04:38.723901+00:00
+ - user: None
+ - tags: ['programming framework', 'qt']
+
+## play
+ - [https://play.questdb.io](https://play.questdb.io)
+ - date published: 2023-10-25T20:04:40.310430+00:00
+ - user: None
+ - tags: []
+
+## QuestDB | High performance time series
+ - [https://questdb.io](https://questdb.io)
+ - date published: 2023-10-25T20:04:42.166068+00:00
+ - user: None
+ - tags: []
+
+## Search more with less | Quickwit
+ - [https://quickwit.io](https://quickwit.io)
+ - date published: 2023-10-25T20:04:43.380239+00:00
+ - user: None
+ - tags: []
+
+## Raindrop.io — All in One Bookmark Manager
+ - [https://raindrop.io](https://raindrop.io)
+ - date published: 2023-11-26T16:43:25+00:00
+ - user: rumpel
+ - tags: ['bookmark manager']
+
+## ReactAgent - The open-source React.js LLM Agent
+ - [https://reactagent.io](https://reactagent.io)
+ - date published: 2023-11-03T08:29:49.953749+00:00
+ - user: None
+ - tags: []
+
+## Reactiverse | The Reactiverse
+ - [https://reactiverse.io](https://reactiverse.io)
+ - date published: 2023-10-25T20:04:44.223881+00:00
+ - user: None
+ - tags: []
+
+## Briefcase 0.3.16
+ - [https://briefcase.readthedocs.io](https://briefcase.readthedocs.io)
+ - date published: 2023-10-25T20:04:46.661232+00:00
+ - user: None
+ - tags: []
+
+## CadQuery 2 Documentation — CadQuery Documentation
+ - [https://cadquery.readthedocs.io](https://cadquery.readthedocs.io)
+ - date published: 2024-02-08T21:49:03.215692+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Cython’s Documentation — Cython 3.0.5.dev0 documentation
+ - [https://cython.readthedocs.io](https://cython.readthedocs.io)
+ - date published: 2023-10-25T20:04:48.362766+00:00
+ - user: None
+ - tags: []
+
+## Django documentation — Django 4.2.7 documentation
+ - [https://django.readthedocs.io](https://django.readthedocs.io)
+ - date published: 2023-11-01T08:43:47.341783+00:00
+ - user: None
+ - tags: []
+
+## drgn — drgn 0.0.25+15.g2ebdc10 documentation
+ - [https://drgn.readthedocs.io](https://drgn.readthedocs.io)
+ - date published: 2024-01-12T03:41:34.870436+00:00
+ - user: None
+ - tags: []
+
+## EvaDB 0.3.8
+ - [https://evadb.readthedocs.io](https://evadb.readthedocs.io)
+ - date published: 2023-10-25T20:04:51.723131+00:00
+ - user: None
+ - tags: []
+
+## JAX: High-Performance Array Computing — JAX  documentation
+ - [https://jax.readthedocs.io](https://jax.readthedocs.io)
+ - date published: 2023-10-25T20:04:54.823125+00:00
+ - user: None
+ - tags: []
+
+## Joblib: running Python functions as pipeline jobs — joblib 1.3.2 documentation
+ - [https://joblib.readthedocs.io](https://joblib.readthedocs.io)
+ - date published: 2023-10-25T20:04:55.727911+00:00
+ - user: None
+ - tags: []
+
 ## Jupyter AI — Jupyter AI  documentation
  - [https://jupyter-ai.readthedocs.io](https://jupyter-ai.readthedocs.io)
  - date published: 2023-10-25T20:04:57.357900+00:00
@@ -2100,6 +2214,12 @@ End-to-end typesafe APIs made easy. | tRPC
 ## Famichiki
  - [https://famichiki.jp](https://famichiki.jp)
  - date published: 2023-10-25T20:16:37.184910+00:00
+ - user: None
+ - tags: []
+
+## アニメ『葬送のフリーレン』公式サイト
+ - [https://frieren-anime.jp](https://frieren-anime.jp)
+ - date published: 2024-02-16T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5881,126 +6001,6 @@ End-to-end typesafe APIs made easy. | tRPC
 ## https://www.argmin.net
  - [https://www.argmin.net](https://www.argmin.net)
  - date published: 2024-01-12T14:14:12.869783+00:00
- - user: None
- - tags: []
-
-## American Registry for Internet Numbers
- - [https://www.arin.net](https://www.arin.net)
- - date published: 2023-10-25T20:25:38.162620+00:00
- - user: None
- - tags: []
-
-## Arkeonews - The Future is the Product of the Past
- - [https://arkeonews.net](https://arkeonews.net)
- - date published: 2023-10-25T09:29:42.800804+00:00
- - user: None
- - tags: []
-
-## arp242.net
- - [https://www.arp242.net](https://www.arp242.net)
- - date published: 2023-10-25T20:25:46.420920+00:00
- - user: None
- - tags: []
-
-## Andy Balaam's Home
- - [https://www.artificialworlds.net](https://www.artificialworlds.net)
- - date published: 2023-10-25T20:25:48.692478+00:00
- - user: None
- - tags: []
-
-## The Art of Electronics (3rd Edition)
- - [https://artofelectronics.net](https://artofelectronics.net)
- - date published: 2023-12-23T21:23:59+00:00
- - user: None
- - tags: []
-
-## Arun Raghavan – Open source hacker
- - [https://arunraghavan.net](https://arunraghavan.net)
- - date published: 2023-10-25T20:25:49.672750+00:00
- - user: None
- - tags: []
-
-## https://qfabgtpxazxxnoc5h5rdcorsw4sivkmmte2kkpki5ejxuzqgq3eq.arweave.net
- - [https://qfabgtpxazxxnoc5h5rdcorsw4sivkmmte2kkpki5ejxuzqgq3eq.arweave.net](https://qfabgtpxazxxnoc5h5rdcorsw4sivkmmte2kkpki5ejxuzqgq3eq.arweave.net)
- - date published: 2024-01-09T03:34:58.140754+00:00
- - user: None
- - tags: []
-
-## Asahi Lina
- - [https://asahilina.net](https://asahilina.net)
- - date published: 2023-10-25T20:25:57.867443+00:00
- - user: None
- - tags: []
-
-## As an AI... - Interviews with GPT on philosophy, consciousness and life as an AI
- - [https://www.asanai.net](https://www.asanai.net)
- - date published: 2023-10-25T20:26:07.098178+00:00
- - user: None
- - tags: []
-
-## Quechuas.net
- - [https://aschmann.net](https://aschmann.net)
- - date published: 2023-10-25T20:26:08.164212+00:00
- - user: None
- - tags: []
-
-## Aurélien Jarno
- - [https://blog.aurel32.net](https://blog.aurel32.net)
- - date published: 2023-10-25T09:00:15.308932+00:00
- - user: None
- - tags: ['personal']
-
-## Avalonia UI - Cross-Platform UI Framework for .NET
- - [https://www.avaloniaui.net](https://www.avaloniaui.net)
- - date published: 2024-02-04T03:28:19.323820+00:00
- - user: None
- - tags: []
-
-## A Viagem dos Argonautas - Um blog de Política e Sociedade
- - [https://aviagemdosargonautas.net](https://aviagemdosargonautas.net)
- - date published: 2023-11-11T17:59:39.473682+00:00
- - user: None
- - tags: []
-
-## Linear Algebra Done Right
- - [https://linear.axler.net](https://linear.axler.net)
- - date published: 2024-01-09T03:34:59.103948+00:00
- - user: None
- - tags: []
-
-## https://msopenspecs.azureedge.net
- - [https://msopenspecs.azureedge.net](https://msopenspecs.azureedge.net)
- - date published: 2023-12-10T07:32:41.099089+00:00
- - user: None
- - tags: []
-
-## Jim Gray, Microsoft Research Home Page
- - [https://jimgray.azurewebsites.net](https://jimgray.azurewebsites.net)
- - date published: 2023-10-25T20:26:09.239236+00:00
- - user: None
- - tags: []
-
-## Leslie Lamport's Home Page
- - [https://lamport.azurewebsites.net](https://lamport.azurewebsites.net)
- - date published: 2023-10-25T20:26:15.177740+00:00
- - user: None
- - tags: []
-
-## B92 - Internet, Radio i TV stanica - najnovije vesti iz Srbije
- - [https://www.b92.net](https://www.b92.net)
- - date published: 2023-12-06T13:42:32.234028+00:00
- - user: None
- - tags: []
-
-## BackSlasher
- - [https://blog.backslasher.net](https://blog.backslasher.net)
- - date published: 2023-10-25T20:26:19.207654+00:00
- - user: None
- - tags: []
-
-## Balanced Economy Project
- - [https://www.balancedeconomy.net](https://www.balancedeconomy.net)
- - date published: 2022-01-01T00:00:00+00:00
  - user: None
  - tags: []
 

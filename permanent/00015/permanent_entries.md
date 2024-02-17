@@ -1,3 +1,105 @@
+## DeepReview - Write compelling resumes, cover letters, performance reviews and more, in just minutes.
+ - [https://deepreview.eu](https://deepreview.eu)
+ - date published: 2023-10-25T19:09:19.206888+00:00
+ - user: None
+ - tags: []
+
+## Defence Industry Europe
+ - [https://defence-industry.eu](https://defence-industry.eu)
+ - date published: 2023-11-27T06:06:43.599521+00:00
+ - user: None
+ - tags: []
+
+## dns0.eu — The European public DNS that makes your Internet safer
+ - [https://www.dns0.eu](https://www.dns0.eu)
+ - date published: 2023-10-25T19:09:21.881247+00:00
+ - user: None
+ - tags: []
+
+## Don't Spy EU
+ - [https://dontspy.eu](https://dontspy.eu)
+ - date published: 2023-11-15T13:03:17+00:00
+ - user: rumpel
+ - tags: ['facial recognition', 'surveillance', 'biometrics', 'privacy']
+
+## EAVI - Media Literacy for Citizenship
+ - [https://eavi.eu](https://eavi.eu)
+ - date published: 2023-10-25T19:09:47.932688+00:00
+ - user: None
+ - tags: []
+
+## HOME
+ - [https://www.ebf.eu](https://www.ebf.eu)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## ECPR's Political Science Blog - The Loop
+ - [https://theloop.ecpr.eu](https://theloop.ecpr.eu)
+ - date published: 2023-10-25T19:09:55.861914+00:00
+ - user: None
+ - tags: []
+
+## ENTSO-E Transparency Platform
+ - [https://transparency.entsoe.eu](https://transparency.entsoe.eu)
+ - date published: 2023-10-25T19:09:58.582217+00:00
+ - user: None
+ - tags: []
+
+## EquiValent
+ - [https://blog.eq8.eu](https://blog.eq8.eu)
+ - date published: 2023-10-25T19:10:02.527258+00:00
+ - user: None
+ - tags: []
+
+## EUROMOMO EuroMOMO Bulletin, Week 4, 2024
+ - [https://www.euromomo.eu](https://www.euromomo.eu)
+ - date published: 2024-02-01T22:55:43.888015+00:00
+ - user: None
+ - tags: []
+
+## European Civil Protection and Humanitarian Aid Operations
+ - [https://civil-protection-humanitarian-aid.ec.europa.eu](https://civil-protection-humanitarian-aid.ec.europa.eu)
+ - date published: 2023-12-22T12:19:59.878101+00:00
+ - user: None
+ - tags: []
+
+## Untitled Document
+ - [https://curia.europa.eu](https://curia.europa.eu)
+ - date published: 2023-10-25T19:10:04.254569+00:00
+ - user: None
+ - tags: []
+
+## Shaping Europe’s digital future
+ - [https://digital-strategy.ec.europa.eu](https://digital-strategy.ec.europa.eu)
+ - date published: 2024-01-21T19:08:08.043591+00:00
+ - user: None
+ - tags: []
+
+## Language selection | European Commission
+ - [https://ec.europa.eu](https://ec.europa.eu)
+ - date published: 2023-10-25T11:24:45.809790+00:00
+ - user: None
+ - tags: []
+
+## Language selection | Migration and Home Affairs
+ - [https://home-affairs.ec.europa.eu](https://home-affairs.ec.europa.eu)
+ - date published: 2023-10-25T19:10:06.998621+00:00
+ - user: None
+ - tags: []
+
+## EU Voice
+ - [https://social.network.europa.eu](https://social.network.europa.eu)
+ - date published: 2023-10-25T19:10:09.557687+00:00
+ - user: None
+ - tags: []
+
+## Browser check - Consilium
+ - [https://www.consilium.europa.eu](https://www.consilium.europa.eu)
+ - date published: 2023-10-25T19:10:10.580564+00:00
+ - user: None
+ - tags: []
+
 ## European Environment Agency's home page
  - [https://www.eea.europa.eu](https://www.eea.europa.eu)
  - date published: 2023-10-25T19:10:12.718824+00:00
@@ -5902,106 +6004,4 @@
  - date published: 2023-10-25T19:38:43.360921+00:00
  - user: None
  - tags: []
-
-## Boardzilla
- - [https://www.boardzilla.io](https://www.boardzilla.io)
- - date published: 2024-01-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## booky.io | Online bookmark manager.
- - [https://booky.io](https://booky.io)
- - date published: 2023-11-26T16:45:14+00:00
- - user: rumpel
- - tags: ['bookmark manager']
-
-## Brad Woods' Digital Garden
- - [https://garden.bradwoods.io](https://garden.bradwoods.io)
- - date published: 2023-10-25T19:38:45.624360+00:00
- - user: None
- - tags: []
-
-## plus/minus epsilon
- - [https://blog.bren2010.io](https://blog.bren2010.io)
- - date published: 2023-10-25T19:38:47.226606+00:00
- - user: None
- - tags: []
-
-## Damien Brenelière's Blog
- - [https://www.brenel.io](https://www.brenel.io)
- - date published: 2023-12-09T14:59:45.290038+00:00
- - user: None
- - tags: []
-
-## Home - Stephen Brennan
- - [https://brennan.io](https://brennan.io)
- - date published: 2023-12-09T10:38:32.840470+00:00
- - user: None
- - tags: []
-
-## https://bricolage.io
- - [https://bricolage.io](https://bricolage.io)
- - date published: 2023-10-25T09:22:00.295903+00:00
- - user: None
- - tags: ['personal']
-
-## Bug reporting for Next.js - Bugpilot
- - [https://www.bugpilot.io](https://www.bugpilot.io)
- - date published: 2023-10-25T19:38:50.347269+00:00
- - user: None
- - tags: []
-
-## Bazel at Enterprise Scale | BuildBuddy
- - [https://www.buildbuddy.io](https://www.buildbuddy.io)
- - date published: 2023-10-25T19:38:52.255059+00:00
- - user: None
- - tags: []
-
-## Framework reimagined for the edge! 📚 Qwik Documentation
- - [https://qwik.builder.io](https://qwik.builder.io)
- - date published: 2023-10-25T19:39:02.264388+00:00
- - user: None
- - tags: []
-
-## Builder.io: Drag & Drop Headless CMS
- - [https://www.builder.io](https://www.builder.io)
- - date published: 2023-11-10T17:59:53.727555+00:00
- - user: None
- - tags: []
-
-## Buttplug.io Documentation Site | buttplug.io
- - [https://stpihkal.docs.buttplug.io](https://stpihkal.docs.buttplug.io)
- - date published: 2023-10-25T19:39:09.612892+00:00
- - user: None
- - tags: []
-
-## Homepage – bytewax
- - [https://bytewax.io](https://bytewax.io)
- - date published: 2023-10-25T19:39:17.817255+00:00
- - user: None
- - tags: []
-
-## Code. Simply. Clearly. Calmly.
- - [https://calmcode.io](https://calmcode.io)
- - date published: 2023-10-25T19:39:22.006027+00:00
- - user: None
- - tags: []
-
-## Capillaries
- - [https://capillaries.io](https://capillaries.io)
- - date published: 2023-10-25T19:39:24.840675+00:00
- - user: None
- - tags: []
-
-## Career Fair - Level up your tech career
- - [https://www.careerfair.io](https://www.careerfair.io)
- - date published: 2023-10-25T19:39:29.525523+00:00
- - user: None
- - tags: []
-
-## CasaOS - A simple, easy-to-use, elegant open-source personal cloud system
- - [https://casaos.io](https://casaos.io)
- - date published: 2023-10-31T13:15:43.772223+00:00
- - user: None
- - tags: ['operating system']
 

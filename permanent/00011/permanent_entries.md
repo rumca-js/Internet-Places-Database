@@ -1,3 +1,75 @@
+## Database Engineering by Sort | Jason Zucchetto | Substack
+ - [https://databaseengineering.substack.com](https://databaseengineering.substack.com)
+ - date published: 2023-11-01T23:07:06.577463+00:00
+ - user: None
+ - tags: []
+
+## The Future, Now and Then | Dave Karpf | Substack
+ - [https://davekarpf.substack.com](https://davekarpf.substack.com)
+ - date published: 2023-10-25T11:45:28.784543+00:00
+ - user: None
+ - tags: ['substack']
+
+## David Friedman’s Substack | Substack
+ - [https://daviddfriedman.substack.com](https://daviddfriedman.substack.com)
+ - date published: 2023-12-17T09:57:02.027877+00:00
+ - user: None
+ - tags: []
+
+## Original Jurisdiction | David Lat | Substack
+ - [https://davidlat.substack.com](https://davidlat.substack.com)
+ - date published: 2023-10-25T09:47:15.933020+00:00
+ - user: None
+ - tags: ['substack']
+
+## Rozado’s Visual Analytics  | David Rozado | Substack
+ - [https://davidrozado.substack.com](https://davidrozado.substack.com)
+ - date published: 2024-01-09T01:39:20.187256+00:00
+ - user: None
+ - tags: []
+
+## davidj.substack | David Jayatillake | Substack
+ - [https://davidsj.substack.com](https://davidsj.substack.com)
+ - date published: 2024-01-09T01:39:22.792312+00:00
+ - user: None
+ - tags: []
+
+## Silent Lunch, The David Zweig Newsletter | Substack
+ - [https://davidzweig.substack.com](https://davidzweig.substack.com)
+ - date published: 2024-01-09T01:39:26.180855+00:00
+ - user: None
+ - tags: []
+
+## decodebytes  | Luke Hinds | Substack
+ - [https://decodebytes.substack.com](https://decodebytes.substack.com)
+ - date published: 2024-01-09T01:39:28.344134+00:00
+ - user: None
+ - tags: []
+
+## Autonomy | Deepak Subburam | Substack
+ - [https://deepsub.substack.com](https://deepsub.substack.com)
+ - date published: 2023-10-25T09:47:42.736089+00:00
+ - user: None
+ - tags: ['substack']
+
+## AI Research & Strategy | Delip Rao | Substack
+ - [https://deliprao.substack.com](https://deliprao.substack.com)
+ - date published: 2023-12-22T01:52:44.921506+00:00
+ - user: None
+ - tags: []
+
+## The Great Reset Diary 2022-  | Yun-Fang Juan | Substack
+ - [https://depression2022.substack.com](https://depression2022.substack.com)
+ - date published: 2024-01-09T01:39:30.436174+00:00
+ - user: None
+ - tags: []
+
+## Derw | Substack
+ - [https://derw.substack.com](https://derw.substack.com)
+ - date published: 2024-01-09T01:39:32.524288+00:00
+ - user: None
+ - tags: []
+
 ## Rhizome Palindrome Prism. Rotate Quaternion. Rinse Repeat. | Miller Hooks | Substack
  - [https://dickymirrors.substack.com](https://dickymirrors.substack.com)
  - date published: 2023-10-25T17:19:01.003516+00:00
@@ -5904,6 +5976,12 @@
  - user: None
  - tags: []
 
+## Men's Wedding Rings, Meteorite Rings, & Wood Rings - Thorum
+ - [http://www.thorum.com](http://www.thorum.com)
+ - date published: 2024-02-16T21:26:55.881184+00:00
+ - user: None
+ - tags: []
+
 ## Design and Development agency building web and mobile products - thoughtbot
  - [https://thoughtbot.com](https://thoughtbot.com)
  - date published: 2023-10-25T17:41:07.935247+00:00
@@ -5919,84 +5997,6 @@
 ## Thought Of Art
  - [https://www.thoughtofart.com](https://www.thoughtofart.com)
  - date published: 2023-12-03T01:43:10.562711+00:00
- - user: None
- - tags: []
-
-## Thought Of Art
- - [http://www.thoughtofart.com](http://www.thoughtofart.com)
- - date published: 2023-12-23T19:26:51.192455+00:00
- - user: None
- - tags: []
-
-## Digital Experience Monitoring | ThousandEyes
- - [https://www.thousandeyes.com](https://www.thousandeyes.com)
- - date published: 2023-10-25T17:41:11.018286+00:00
- - user: None
- - tags: []
-
-## Home | THQ Nordic GmbH
- - [https://www.thqnordic.com](https://www.thqnordic.com)
- - date published: 2023-12-08T07:29:59+00:00
- - user: rumpel
- - tags: ['video game developer']
-
-## Home – Thread Reader App
- - [https://threadreaderapp.com](https://threadreaderapp.com)
- - date published: 2023-10-25T17:41:12.962150+00:00
- - user: None
- - tags: []
-
-## Threads - A Slack Replacement Designed for Makers
- - [https://threads.com](https://threads.com)
- - date published: 2023-10-25T17:41:15.433078+00:00
- - user: None
- - tags: []
-
-## Threatpost | The first stop for security news
- - [https://threatpost.com](https://threatpost.com)
- - date published: 2023-10-25T17:41:19.359635+00:00
- - user: None
- - tags: []
-
-## threeboy
- - [https://www.threeboy.com](https://www.threeboy.com)
- - date published: 2023-11-29T16:21:41.400697+00:00
- - user: None
- - tags: []
-
-## The Three of Wands
- - [https://threeofwands.com](https://threeofwands.com)
- - date published: 2023-10-25T17:41:20.125510+00:00
- - user: None
- - tags: []
-
-## The Threepenny Review
- - [https://www.threepennyreview.com](https://www.threepennyreview.com)
- - date published: 2023-10-25T17:41:24.774237+00:00
- - user: None
- - tags: []
-
-## ThriveCart
- - [https://anaelverdier.thrivecart.com](https://anaelverdier.thrivecart.com)
- - date published: 2023-12-11T16:23:38.914949+00:00
- - user: None
- - tags: []
-
-## Throbol — a Real-time Spreadsheet for Robotics
- - [https://throbol.com](https://throbol.com)
- - date published: 2023-10-25T08:35:10.282017+00:00
- - user: None
- - tags: []
-
-## Adam Sporka
- - [https://thumbcalendar.com](https://thumbcalendar.com)
- - date published: 2024-01-09T02:51:27.344775+00:00
- - user: None
- - tags: []
-
-## Blackbox Funnel
- - [https://thunderousmoments.com](https://thunderousmoments.com)
- - date published: 2024-01-16T23:47:10.707382+00:00
  - user: None
  - tags: []
 
