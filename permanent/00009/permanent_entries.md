@@ -1,3 +1,45 @@
+## Paul Graham AI
+ - [https://www.paulgrahamai.com](https://www.paulgrahamai.com)
+ - date published: 2023-10-25T16:31:25.983543+00:00
+ - user: None
+ - tags: []
+
+## | Paul Halme |
+ - [https://paulhalme.com](https://paulhalme.com)
+ - date published: 2023-12-24T02:30:12.909224+00:00
+ - user: None
+ - tags: []
+
+## Paulina
+ - [https://paulinasaez.com](https://paulinasaez.com)
+ - date published: 2024-01-10T22:40:44.953068+00:00
+ - user: None
+ - tags: []
+
+## Paul Irish
+ - [https://www.paulirish.com](https://www.paulirish.com)
+ - date published: 2023-10-25T09:26:01.615259+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paulo Matsui
+ - [https://www.paulomatsui.com](https://www.paulomatsui.com)
+ - date published: 2023-12-19T03:01:56.181563+00:00
+ - user: None
+ - tags: []
+
+## Paul Onteri
+ - [https://paulonteri.com](https://paulonteri.com)
+ - date published: 2023-12-12T07:04:24.427551+00:00
+ - user: None
+ - tags: []
+
+## Paul Pedrazzi
+ - [https://paulpedrazzi.com](https://paulpedrazzi.com)
+ - date published: 2023-12-22T17:48:50.877726+00:00
+ - user: None
+ - tags: []
+
 ## Paul Plowman
  - [https://paulplowman.com](https://paulplowman.com)
  - date published: 2023-10-25T16:31:26.762919+00:00
@@ -674,7 +716,7 @@
  - [https://www.pexels.com](https://www.pexels.com)
  - date published: 2023-10-27T10:12:59.070431+00:00
  - user: None
- - tags: ['asset images']
+ - tags: ['assets images']
 
 ## PFAFF Home English (United States)
  - [https://www.pfaff.com](https://www.pfaff.com)
@@ -1217,7 +1259,7 @@
  - [https://pixabay.com](https://pixabay.com)
  - date published: 2023-10-25T11:35:36.504703+00:00
  - user: None
- - tags: ['asset images']
+ - tags: ['assets images']
 
 ## Pixar Animation Studios
  - [https://www.pixar.com](https://www.pixar.com)
@@ -1950,6 +1992,12 @@
  - date published: 2023-10-25T16:38:54.438081+00:00
  - user: None
  - tags: []
+
+## Power BI
+ - [https://app.powerbi.com](https://app.powerbi.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['project management']
 
 ## mailman.powerdns.com Mailing Lists
  - [https://mailman.powerdns.com](https://mailman.powerdns.com)
@@ -3338,6 +3386,12 @@
 ## Hasta Yatağı: Kiralama & Fiyatları - Radikal Medikal
  - [https://www.radikalmedikal.com](https://www.radikalmedikal.com)
  - date published: 2024-02-08T18:45:26.511622+00:00
+ - user: None
+ - tags: []
+
+## RadioDiscussions
+ - [https://www.radiodiscussions.com](https://www.radiodiscussions.com)
+ - date published: 2024-02-09T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5848,7 +5902,7 @@ More!
  - [https://www.royaltyfree-music.com](https://www.royaltyfree-music.com)
  - date published: 2023-10-25T11:35:25.743817+00:00
  - user: None
- - tags: ['asset audio']
+ - tags: ['assets audio']
 
 ## roycifer
  - [https://roycifer.com](https://roycifer.com)
@@ -5951,58 +6005,4 @@ More!
  - date published: 2023-10-25T08:47:51.358817+00:00
  - user: None
  - tags: ['personal']
-
-## renegat0x0 site
- - [https://micro.rubiconproject.com](https://micro.rubiconproject.com)
- - date published: 2024-01-09T02:48:25.552891+00:00
- - user: None
- - tags: []
-
-## RubyFlow
- - [https://rubyflow.com](https://rubyflow.com)
- - date published: 2024-01-22T09:50:17.612933+00:00
- - user: None
- - tags: []
-
-## Ruetir | Latest News, World News, Breaking News, Games, Business & Health
- - [https://www.ruetir.com](https://www.ruetir.com)
- - date published: 2023-10-25T16:55:26.559906+00:00
- - user: None
- - tags: []
-
-## Rui Zhi Dong - Writer
- - [https://ruizhidong.com](https://ruizhidong.com)
- - date published: 2023-12-22T17:48:27.466814+00:00
- - user: None
- - tags: []
-
-## Rumble
- - [https://rumble.com](https://rumble.com)
- - date published: 2023-10-24T20:12:23.443415+00:00
- - user: None
- - tags: ['social platform']
-
-## Rune Quake - A QuakeC Modification for Quake and Quakeworld
- - [http://www.runequake.com](http://www.runequake.com)
- - date published: 2024-02-06T15:25:20.173572+00:00
- - user: None
- - tags: []
-
-## RuneterraFire :: Legends of Runeterra Deck Building Community
- - [https://www.runeterrafire.com](https://www.runeterrafire.com)
- - date published: 2023-12-13T16:20:46.471947+00:00
- - user: None
- - tags: []
-
-## @Homepage3 - RunPee
- - [https://runpee.com](https://runpee.com)
- - date published: 2023-10-25T16:55:29.912926+00:00
- - user: None
- - tags: []
-
-## https://runsignals.com
- - [https://runsignals.com](https://runsignals.com)
- - date published: 2023-10-25T16:55:32.455539+00:00
- - user: None
- - tags: []
 

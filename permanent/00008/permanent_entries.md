@@ -1,3 +1,33 @@
+## Middle East Monitor
+ - [https://www.middleeastmonitor.com](https://www.middleeastmonitor.com)
+ - date published: 2023-11-05T15:09:13.933802+00:00
+ - user: None
+ - tags: []
+
+## Hudson Valley News - Daily Breaking Stories | Mid Hudson News
+ - [https://midhudsonnews.com](https://midhudsonnews.com)
+ - date published: 2023-11-24T15:24:08.581764+00:00
+ - user: None
+ - tags: []
+
+## https://www.midjourney.com
+ - [https://www.midjourney.com](https://www.midjourney.com)
+ - date published: 2023-10-25T11:35:57.322285+00:00
+ - user: None
+ - tags: ['artificial intelligence']
+
+## Search for Music Using Your Voice by Singing or Humming, View Music Videos, Join Fan Clubs, Share with Friends, Be Discovered and Much More For Free! - midomi.com
+ - [https://www.midomi.com](https://www.midomi.com)
+ - date published: 2023-10-28T18:42:53.364247+00:00
+ - user: None
+ - tags: ['music']
+
+## Homeport
+ - [https://www.migaloo-submarines.com](https://www.migaloo-submarines.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## MIT 24-Hour Challenge 2022 | MIT Annual Fund | Giving to MIT
  - [https://mit24hourchallenge.mightycause.com](https://mit24hourchallenge.mightycause.com)
  - date published: 2023-10-25T16:03:41.849852+00:00
@@ -321,7 +351,7 @@
  - [https://miro.com](https://miro.com)
  - date published: 2024-02-14T21:45:05+00:00
  - user: rumpel
- - tags: []
+ - tags: ['project management']
 
 ## Rich Mironov's Product Bytes
  - [https://www.mironov.com](https://www.mironov.com)
@@ -897,7 +927,7 @@
  - [https://morethancoding.com](https://morethancoding.com)
  - date published: 2024-02-16T17:08:08.687324+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## More To That
  - [https://moretothat.com](https://moretothat.com)
@@ -4408,6 +4438,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Ollama
+ - [https://ollama.com](https://ollama.com)
+ - date published: 2024-02-17T18:26:27.309284+00:00
+ - user: None
+ - tags: []
+
 ## Om's Observations
  - [https://omajoshi.com](https://omajoshi.com)
  - date published: 2023-10-25T16:25:28.966147+00:00
@@ -4897,6 +4933,12 @@ Answering Machine Greetings!
 ## Operation Bootstrap
  - [https://www.opsbs.com](https://www.opsbs.com)
  - date published: 2015-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Optimally Irrational | Lionel Page | Substack
+ - [https://www.optimallyirrational.com](https://www.optimallyirrational.com)
+ - date published: 2024-02-07T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5960,48 +6002,6 @@ Answering Machine Greetings!
 ## Paul Graham
  - [https://www.paulgraham.com](https://www.paulgraham.com)
  - date published: 2024-01-09T02:45:47.953966+00:00
- - user: None
- - tags: []
-
-## Paul Graham AI
- - [https://www.paulgrahamai.com](https://www.paulgrahamai.com)
- - date published: 2023-10-25T16:31:25.983543+00:00
- - user: None
- - tags: []
-
-## | Paul Halme |
- - [https://paulhalme.com](https://paulhalme.com)
- - date published: 2023-12-24T02:30:12.909224+00:00
- - user: None
- - tags: []
-
-## Paulina
- - [https://paulinasaez.com](https://paulinasaez.com)
- - date published: 2024-01-10T22:40:44.953068+00:00
- - user: None
- - tags: []
-
-## Paul Irish
- - [https://www.paulirish.com](https://www.paulirish.com)
- - date published: 2023-10-25T09:26:01.615259+00:00
- - user: None
- - tags: ['personal']
-
-## Paulo Matsui
- - [https://www.paulomatsui.com](https://www.paulomatsui.com)
- - date published: 2023-12-19T03:01:56.181563+00:00
- - user: None
- - tags: []
-
-## Paul Onteri
- - [https://paulonteri.com](https://paulonteri.com)
- - date published: 2023-12-12T07:04:24.427551+00:00
- - user: None
- - tags: []
-
-## Paul Pedrazzi
- - [https://paulpedrazzi.com](https://paulpedrazzi.com)
- - date published: 2023-12-22T17:48:50.877726+00:00
  - user: None
  - tags: []
 

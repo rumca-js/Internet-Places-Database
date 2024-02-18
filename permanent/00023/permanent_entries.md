@@ -1,3 +1,207 @@
+## Badar Jahangir Kayani – Electrical Engineer | Designer | Maker
+ - [https://badar.tech](https://badar.tech)
+ - date published: 2023-10-25T22:43:59.148186+00:00
+ - user: None
+ - tags: []
+
+## Berty · Berty Technologies
+ - [https://berty.tech](https://berty.tech)
+ - date published: 2023-10-25T22:44:01.666558+00:00
+ - user: None
+ - tags: []
+
+## Boldly Go
+ - [https://boldlygo.tech](https://boldlygo.tech)
+ - date published: 2024-01-10T01:05:17.258361+00:00
+ - user: None
+ - tags: []
+
+## iPhone physical keyboard from ex-Crackberry guy
+ - [https://www.clicks.tech](https://www.clicks.tech)
+ - date published: 2024-01-04T20:43:20+00:00
+ - user: None
+ - tags: []
+
+## Branch Magazine: A Sustainable and Just Internet for All - Branch
+ - [https://branch.climateaction.tech](https://branch.climateaction.tech)
+ - date published: 2023-10-25T22:44:02.994758+00:00
+ - user: None
+ - tags: []
+
+## Bitcoin ATMs Nationwide, Low rates, Buy Bitcoin with Cash - CoinFlip
+ - [https://www.coinflip.tech](https://www.coinflip.tech)
+ - date published: 2023-11-29T14:19:36.030482+00:00
+ - user: None
+ - tags: []
+
+## Home - Collective Action in Tech
+ - [https://collectiveaction.tech](https://collectiveaction.tech)
+ - date published: 2023-10-25T22:44:04.828483+00:00
+ - user: None
+ - tags: []
+
+## Craig Nuzzo Tech
+ - [https://craignuzzo.tech](https://craignuzzo.tech)
+ - date published: 2018-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## About CRDTs • Conflict-free Replicated Data Types
+ - [https://crdt.tech](https://crdt.tech)
+ - date published: 2023-10-25T22:44:05.642388+00:00
+ - user: None
+ - tags: []
+
+## Kai Devrim
+ - [https://devrim.tech](https://devrim.tech)
+ - date published: 2024-01-16T17:03:54.561330+00:00
+ - user: None
+ - tags: []
+
+## Dropbox Tech Blog
+ - [https://dropbox.tech](https://dropbox.tech)
+ - date published: 2023-10-25T08:26:02.427971+00:00
+ - user: None
+ - tags: []
+
+## Ekaitz's tech blog
+ - [https://ekaitz.elenq.tech](https://ekaitz.elenq.tech)
+ - date published: 2023-10-31T06:18:29.436334+00:00
+ - user: None
+ - tags: []
+
+## Escape - API Security
+ - [https://escape.tech](https://escape.tech)
+ - date published: 2023-10-25T22:44:07.143506+00:00
+ - user: None
+ - tags: []
+
+## https://chipexplorer.eto.tech
+ - [https://chipexplorer.eto.tech](https://chipexplorer.eto.tech)
+ - date published: 2024-01-09T03:47:34.610155+00:00
+ - user: None
+ - tags: []
+
+## Gabriel Sieben
+ - [https://gabrielsieben.tech](https://gabrielsieben.tech)
+ - date published: 2023-10-25T08:56:08.051568+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://gspanos.tech](https://gspanos.tech)
+ - date published: 2024-02-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://www.hearsay.tech
+ - [https://www.hearsay.tech](https://www.hearsay.tech)
+ - date published: 2023-10-29T22:44:07.726221+00:00
+ - user: None
+ - tags: []
+
+## Landing Engineering
+ - [https://blog.hellolanding.tech](https://blog.hellolanding.tech)
+ - date published: 2023-10-25T22:44:10.798939+00:00
+ - user: None
+ - tags: []
+
+## Hex - Magical data tools for working with data together
+ - [https://hex.tech](https://hex.tech)
+ - date published: 2023-10-25T22:44:12.529147+00:00
+ - user: None
+ - tags: []
+
+## HPC-AI Tech - Deep Learning Speed and Scale, Open Source
+ - [https://www.hpc-ai.tech](https://www.hpc-ai.tech)
+ - date published: 2023-10-25T22:44:15.106088+00:00
+ - user: None
+ - tags: []
+
+## Intercept, debug & mock HTTP with HTTP Toolkit
+ - [https://httptoolkit.tech](https://httptoolkit.tech)
+ - date published: 2023-10-25T22:44:22.116524+00:00
+ - user: None
+ - tags: []
+
+## Avoid Async Rust - blog.hugpoint.tech
+ - [https://blog.hugpoint.tech](https://blog.hugpoint.tech)
+ - date published: 2024-01-23T12:48:03.504966+00:00
+ - user: None
+ - tags: []
+
+## IBEX
+ - [https://ibex.tech](https://ibex.tech)
+ - date published: 2023-10-25T22:44:23.978327+00:00
+ - user: None
+ - tags: []
+
+## iodé - Take back control of your data.
+ - [https://iode.tech](https://iode.tech)
+ - date published: 2023-10-25T22:44:27.390058+00:00
+ - user: None
+ - tags: []
+
+## Home | IPFS Blog & News
+ - [https://blog.ipfs.tech](https://blog.ipfs.tech)
+ - date published: 2023-10-25T22:44:33.770088+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://laker.tech](https://laker.tech)
+ - date published: 2024-01-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Leporello.js · Interactive functional programming IDE for JavaScript
+ - [https://leporello.tech](https://leporello.tech)
+ - date published: 2023-10-25T22:44:34.491251+00:00
+ - user: None
+ - tags: []
+
+## Lewis Campbell Tech
+ - [https://lewiscampbell.tech](https://lewiscampbell.tech)
+ - date published: 2023-11-12T18:27:09.724007+00:00
+ - user: None
+ - tags: []
+
+## C and C++ Hot-Reload/Live Coding
+ - [https://liveplusplus.tech](https://liveplusplus.tech)
+ - date published: 2024-01-03T17:20:30+00:00
+ - user: None
+ - tags: []
+
+## We are Manas
+ - [https://manas.tech](https://manas.tech)
+ - date published: 2023-10-26T06:39:43.427836+00:00
+ - user: None
+ - tags: []
+
+## mapc.tech
+ - [https://www.mapc.tech](https://www.mapc.tech)
+ - date published: 2024-01-01T03:39:33.011078+00:00
+ - user: None
+ - tags: []
+
+## Mark writes: Mark Damon Hughes blogs about tech and everything else
+ - [https://mdhughes.tech](https://mdhughes.tech)
+ - date published: 2023-11-29T14:24:33.031475+00:00
+ - user: None
+ - tags: []
+
+## Home | Modos
+ - [https://www.modos.tech](https://www.modos.tech)
+ - date published: 2023-10-25T22:44:40.523599+00:00
+ - user: None
+ - tags: []
+
+## Neon — Serverless, Fault-Tolerant, Branchable Postgres
+ - [https://neon.tech](https://neon.tech)
+ - date published: 2023-10-25T22:44:42.493550+00:00
+ - user: None
+ - tags: []
+
 ## Nothing (United States)
  - [https://us.nothing.tech](https://us.nothing.tech)
  - date published: 2023-10-25T22:44:45.536178+00:00
@@ -3342,6 +3546,12 @@ Introduction
  - date published: 2023-11-13T13:45:38.774190+00:00
  - user: None
  - tags: ['museum']
+
+## https://taxpolicy.org.uk
+ - [https://taxpolicy.org.uk](https://taxpolicy.org.uk)
+ - date published: 2024-02-17T18:26:24.483131+00:00
+ - user: None
+ - tags: []
 
 ## Richard Murphy on developing a fairer and sustainable economy
  - [https://www.taxresearch.org.uk](https://www.taxresearch.org.uk)

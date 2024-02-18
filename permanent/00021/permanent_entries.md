@@ -1,3 +1,190 @@
+## openSUSE News
+ - [https://news.opensuse.org](https://news.opensuse.org)
+ - date published: 2023-10-25T21:54:11.240130+00:00
+ - user: None
+ - tags: []
+
+## https://opentf.org
+ - [https://opentf.org](https://opentf.org)
+ - date published: 2023-10-25T21:54:12.348282+00:00
+ - user: None
+ - tags: []
+
+## OpenTofu
+ - [https://opentofu.org](https://opentofu.org)
+ - date published: 2023-10-25T21:54:15.162985+00:00
+ - user: None
+ - tags: []
+
+## Opalstack: no site here.... yet!
+ - [https://opentranscripts.org](https://opentranscripts.org)
+ - date published: 2024-01-09T03:41:56.346236+00:00
+ - user: None
+ - tags: []
+
+## OpenTTD | OpenTTD's Wiki
+ - [https://wiki.openttd.org](https://wiki.openttd.org)
+ - date published: 2023-10-25T21:54:22.399587+00:00
+ - user: None
+ - tags: []
+
+## OpenTTD | Home
+ - [https://www.openttd.org](https://www.openttd.org)
+ - date published: 2023-10-25T21:54:30.332521+00:00
+ - user: None
+ - tags: []
+
+## Open Web Docs
+ - [https://openwebdocs.org](https://openwebdocs.org)
+ - date published: 2023-10-25T21:54:33.151027+00:00
+ - user: None
+ - tags: []
+
+## OpenWrt Mailing Lists
+ - [https://lists.openwrt.org](https://lists.openwrt.org)
+ - date published: 2024-01-10T22:07:03.931154+00:00
+ - user: None
+ - tags: []
+
+## [OpenWrt Wiki] Welcome to the OpenWrt Project
+ - [https://openwrt.org](https://openwrt.org)
+ - date published: 2023-10-25T21:54:37.020038+00:00
+ - user: None
+ - tags: ['routers', 'operating system']
+
+## OPNsense® a true open source security platform and more - OPNsense® is a true open source firewall and more
+ - [https://opnsense.org](https://opnsense.org)
+ - date published: 2023-10-25T21:54:42.178862+00:00
+ - user: None
+ - tags: []
+
+## Optica Publishing Group
+ - [https://opg.optica.org](https://opg.optica.org)
+ - date published: 2023-10-25T21:54:45.913732+00:00
+ - user: None
+ - tags: []
+
+## Home | Optica
+ - [https://www.optica.org](https://www.optica.org)
+ - date published: 2023-10-25T21:54:49.744968+00:00
+ - user: None
+ - tags: []
+
+## Orange Pi - Orange Pi official website - Orange Pi development board, open source hardware, open source
+        software, open source chip, computer keyboard
+ - [http://www.orangepi.org](http://www.orangepi.org)
+ - date published: 2023-10-25T21:54:52.162979+00:00
+ - user: None
+ - tags: []
+
+## Organiser Weekly - Voice of the Nation
+ - [https://organiser.org](https://organiser.org)
+ - date published: 2023-11-25T22:29:38.591315+00:00
+ - user: None
+ - tags: []
+
+## Orion Magazine | Nature, Culture & Place
+ - [https://orionmagazine.org](https://orionmagazine.org)
+ - date published: 2023-10-25T21:54:59.353571+00:00
+ - user: None
+ - tags: []
+
+## OS.js Web Desktop
+ - [https://www.os-js.org](https://www.os-js.org)
+ - date published: 2023-10-25T21:55:06.625725+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.osborne-conant.org](https://www.osborne-conant.org)
+ - date published: 2024-02-08T17:50:52.925851+00:00
+ - user: None
+ - tags: []
+
+## Orlando Science Center: A Hands-On Science Museum in Central Florida
+ - [https://www.osc.org](https://www.osc.org)
+ - date published: 2024-01-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Oscars.org | Academy of Motion Picture Arts and Sciences
+ - [https://www.oscars.org](https://www.oscars.org)
+ - date published: 2024-01-12T21:10:31+00:00
+ - user: rumpel
+ - tags: ['oscars']
+
+## Expanded Main Page - OSDev Wiki
+ - [https://wiki.osdev.org](https://wiki.osdev.org)
+ - date published: 2023-12-26T20:32:40.382941+00:00
+ - user: None
+ - tags: []
+
+## Rod's Slide Rules
+ - [https://osgalleries.org](https://osgalleries.org)
+ - date published: 2023-10-25T21:55:08.267829+00:00
+ - user: None
+ - tags: []
+
+## Osmapp – A Universal OpenStreetMap App
+ - [https://osmapp.org](https://osmapp.org)
+ - date published: 2023-12-28T17:05:25+00:00
+ - user: None
+ - tags: []
+
+## OSM Buildings
+ - [https://osmbuildings.org](https://osmbuildings.org)
+ - date published: 2023-12-24T08:15:03+00:00
+ - user: rumpel
+ - tags: ['service maps']
+
+## Open Source Mobile Communications
+ - [https://projects.osmocom.org](https://projects.osmocom.org)
+ - date published: 2023-10-25T21:55:10.623342+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the Open Source Seed Initiative - Open Source Seed Initiative
+ - [https://osseeds.org](https://osseeds.org)
+ - date published: 2023-10-25T21:55:13.834590+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Open-source alternatives to tools You pay for
+ - [https://osssoftware.org](https://osssoftware.org)
+ - date published: 2023-12-09T01:14:37+00:00
+ - user: None
+ - tags: []
+
+## Our World in Data
+ - [https://ourworldindata.org](https://ourworldindata.org)
+ - date published: 2023-10-25T21:55:14.796544+00:00
+ - user: None
+ - tags: ['statistics', 'data']
+
+## Earth Overshoot Day home - #MoveTheDate
+ - [https://www.overshootday.org](https://www.overshootday.org)
+ - date published: 2023-10-25T21:55:21.472858+00:00
+ - user: None
+ - tags: []
+
+## https://overthewire.org
+ - [https://overthewire.org](https://overthewire.org)
+ - date published: 2024-01-09T03:41:57.489375+00:00
+ - user: None
+ - tags: []
+
+## Overture Maps Foundation – Linux Foundation Project
+ - [https://overturemaps.org](https://overturemaps.org)
+ - date published: 2023-10-25T21:55:23.960595+00:00
+ - user: None
+ - tags: []
+
+## OWASP Foundation, the Open Source Foundation for Application Security | OWASP Foundation
+ - [https://owasp.org](https://owasp.org)
+ - date published: 2023-10-25T21:55:25.406620+00:00
+ - user: None
+ - tags: []
+
 ## Owl’s Portfolio
  - [https://www.owlfolio.org](https://www.owlfolio.org)
  - date published: 2023-10-25T21:55:28.509100+00:00
@@ -884,7 +1071,7 @@
  - [https://publicdomainvectors.org](https://publicdomainvectors.org)
  - date published: 2023-12-06T12:52:35+00:00
  - user: rumpel
- - tags: ['asset images']
+ - tags: ['assets images']
 
 ## Homepage - Public Health Watch
  - [https://publichealthwatch.org](https://publichealthwatch.org)
@@ -5523,6 +5710,12 @@ is forbidden
  - user: None
  - tags: []
 
+## BusinessMirror | BusinessMirror
+ - [https://businessmirror.com.ph](https://businessmirror.com.ph)
+ - date published: 2024-02-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Daily Tribune
  - [https://tribune.net.ph](https://tribune.net.ph)
  - date published: 2023-12-16T10:37:57.398069+00:00
@@ -5808,198 +6001,6 @@ is forbidden
 ## Chabad Lubawicz Polska – Centrum Żydowskie – Chabad Lubawicz – najbardziej dynamiczna siła we współczesnym żydowskim życiu. To filozofia, ruch i organizacja. Jesteśmy tym domem, którego szukają Żydzi.
  - [https://chabad.org.pl](https://chabad.org.pl)
  - date published: 2024-01-30T02:12:28.571971+00:00
- - user: None
- - tags: []
-
-## CSM – Centrum Stosunków Międzynarodowych
- - [https://csm.org.pl](https://csm.org.pl)
- - date published: 2024-01-30T02:20:38.570360+00:00
- - user: None
- - tags: []
-
-## DEMAGOG - fakty są najważniejsze! Weryfikujemy i kontrolujemy.
- - [https://demagog.org.pl](https://demagog.org.pl)
- - date published: 2023-10-25T22:25:14.949568+00:00
- - user: None
- - tags: []
-
-## Historia.org.pl - Polski portal historyczny
- - [https://historia.org.pl](https://historia.org.pl)
- - date published: 2023-10-25T22:25:19.313712+00:00
- - user: None
- - tags: []
-
-## Darmowe MMORPG - spis gier MMO, MMOFPS, MMORPG 3d, MOBA
- - [https://mmorpg.org.pl](https://mmorpg.org.pl)
- - date published: 2023-10-26T18:37:58.388090+00:00
- - user: None
- - tags: []
-
-## OPOKA. Portal katolicki
- - [https://opoka.org.pl](https://opoka.org.pl)
- - date published: 2023-10-25T22:25:23.274370+00:00
- - user: None
- - tags: []
-
-## Silent's Homepage
- - [https://silent.org.pl](https://silent.org.pl)
- - date published: 2024-02-01T18:20:20+00:00
- - user: rumpel
- - tags: ['hobby', 'personal', 'hardware']
-
-## HOMEPAGE - Warsaw Enterprise Institute
- - [https://wei.org.pl](https://wei.org.pl)
- - date published: 2024-01-29T01:13:40.671423+00:00
- - user: None
- - tags: []
-
-## Warszawy historia ukryta
- - [https://whu.org.pl](https://whu.org.pl)
- - date published: 2023-12-05T15:22:49+00:00
- - user: rumpel
- - tags: ['warsow', 'history']
-
-## Fundacja WOŚP  - wosp.org.pl
- - [https://www.wosp.org.pl](https://www.wosp.org.pl)
- - date published: 2023-11-27T12:26:19+00:00
- - user: rumpel
- - tags: ['music', 'wielka orkiestra świątecznej pomocy', 'concert', 'organization']
-
-## Stare gry - Świat klasyki gier komputerowych.
- - [https://16bit.pl](https://16bit.pl)
- - date published: 2023-10-25T16:37:07.710478+00:00
- - user: None
- - tags: ['atari', 'games', 'amiga', 'video games', 'emulation', 'abandonware', 'roms']
-
-## Jelenia Góra, Portal informacyjny powiatu i miasta  - 24jgora.pl
- - [https://24jgora.pl](https://24jgora.pl)
- - date published: 2023-10-25T22:25:26.816865+00:00
- - user: None
- - tags: []
-
-## 300Gospodarka.pl - gospodarka, nowe technologie, klimat, samorządy
- - [https://300gospodarka.pl](https://300gospodarka.pl)
- - date published: 2023-10-25T22:25:30.356095+00:00
- - user: None
- - tags: []
-
-## 3D-INFO.PL - Portal ludzi z pasją. Mobile, gry, komputery, Telewizory i Hi-Fi
- - [https://3d-info.pl](https://3d-info.pl)
- - date published: 2023-11-02T19:02:18.392184+00:00
- - user: None
- - tags: ['tech news', 'game news']
-
-## Forbot
- - [https://4bot.pl](https://4bot.pl)
- - date published: 2023-12-13T14:56:50.810351+00:00
- - user: None
- - tags: ['electronics']
-
-## :: modules.pl :: modules.pl
- - [https://www.Modules.pl](https://www.Modules.pl)
- - date published: 2024-02-15T22:15:22.643958+00:00
- - user: None
- - tags: ['demoscene']
-
-## Medycyna Pracy Blog - choroby Warszawa
- - [https://a68.pl](https://a68.pl)
- - date published: 2024-01-09T03:43:52.963330+00:00
- - user: None
- - tags: []
-
-## Zdrowie i zdrowy styl życia | WP abcZdrowie
- - [https://portal.abczdrowie.pl](https://portal.abczdrowie.pl)
- - date published: 2023-10-25T22:25:39.094951+00:00
- - user: None
- - tags: []
-
-## Risky AI Game
- - [http://game.aidevs.pl](http://game.aidevs.pl)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Psychiatryk AI - rozwiąż zagadkę
- - [http://psychiatryk.aidevs.pl](http://psychiatryk.aidevs.pl)
- - date published: 2024-01-21T19:07:34.867410+00:00
- - user: None
- - tags: []
-
-## AI_Devs – Programowanie i Automatyzacja w parze z AI
- - [https://www.aidevs.pl](https://www.aidevs.pl)
- - date published: 2024-01-17T00:00:00+00:00
- - user: rumpel
- - tags: ['training']
-
-## Sztuczna Inteligencja dla Polski
- - [https://aidla.pl](https://aidla.pl)
- - date published: 2024-02-05T08:26:54+00:00
- - user: rumpel
- - tags: []
-
-## allegro.pl
- - [https://allegro.pl](https://allegro.pl)
- - date published: 2023-10-24T20:20:03.496697+00:00
- - user: None
- - tags: ['digital marketplace']
-
-## Amica - AGD: Piekarniki, kuchnie wolnostojące, płyty, okapy
- - [https://www.amica.pl](https://www.amica.pl)
- - date published: 2023-11-01T07:06:57.139074+00:00
- - user: None
- - tags: []
-
-## Forum AmigaOne Zone • Strona główna forum
- - [https://forum.amigaone.pl](https://forum.amigaone.pl)
- - date published: 2023-12-11T19:08:38.326160+00:00
- - user: None
- - tags: []
-
-## AmigaONE Zone | Polska strona komputera AmigaOne
- - [https://www.amigaone.pl](https://www.amigaone.pl)
- - date published: 2023-11-02T10:37:41.725545+00:00
- - user: None
- - tags: []
-
-## Patroni Amigowości
- - [https://patronat.amigowiec.pl](https://patronat.amigowiec.pl)
- - date published: 2024-01-09T03:43:56.442097+00:00
- - user: None
- - tags: []
-
-## Amigowiec.pl Amiga rulez!
- - [https://www.amigowiec.pl](https://www.amigowiec.pl)
- - date published: 2023-10-30T10:11:46.861015+00:00
- - user: None
- - tags: []
-
-## Androidowy - blog dla ludzi. Smartfony, tablety, smartwatch.
- - [https://www.androidowy.pl](https://www.androidowy.pl)
- - date published: 2023-10-25T22:25:42.357332+00:00
- - user: None
- - tags: []
-
-## Andrzej Rysuje | Rysunki Satyryczne – Rysunki satyryczne Andrzeja Milewskiego
- - [https://andrzejrysuje.pl](https://andrzejrysuje.pl)
- - date published: 2024-02-03T21:46:09+00:00
- - user: rumpel
- - tags: ['cartoons', 'satire', 'comedy']
-
-## Andrzej Sapkowski
- - [http://www.andrzejsapkowski.pl](http://www.andrzejsapkowski.pl)
- - date published: 2023-11-13T12:57:23.505832+00:00
- - user: None
- - tags: ['book author', 'witcher']
-
-## Najlepsza muzyka rockowa, newsy, koncerty, recenzje
- - [https://www.antyradio.pl](https://www.antyradio.pl)
- - date published: 2023-11-02T19:28:07.593267+00:00
- - user: None
- - tags: ['radio station', 'music']
-
-## Antyweb - blog technologiczny
- - [https://antyweb.pl](https://antyweb.pl)
- - date published: 2023-10-25T09:37:36.960984+00:00
  - user: None
  - tags: []
 

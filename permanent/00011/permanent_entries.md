@@ -1,3 +1,57 @@
+## Cyril G. | Cyril Grislain | Substack
+ - [https://cyrilgrislain.substack.com](https://cyrilgrislain.substack.com)
+ - date published: 2024-01-09T01:39:08.999899+00:00
+ - user: None
+ - tags: []
+
+## Deprogram | Dakota V Adams | Substack
+ - [https://dakotavadams.substack.com](https://dakotavadams.substack.com)
+ - date published: 2023-10-25T09:46:25.312897+00:00
+ - user: None
+ - tags: ['substack']
+
+## Sober Soulful | Dana Leigh Lyons | Substack
+ - [https://danaleighlyons.substack.com](https://danaleighlyons.substack.com)
+ - date published: 2024-01-08T15:36:32.857614+00:00
+ - user: None
+ - tags: []
+
+## Future History | Daniel Jeffries | Substack
+ - [https://danieljeffries.substack.com](https://danieljeffries.substack.com)
+ - date published: 2024-01-09T01:39:10.786106+00:00
+ - user: None
+ - tags: []
+
+## Dan Lawton | Substack
+ - [https://danlawton.substack.com](https://danlawton.substack.com)
+ - date published: 2024-01-09T01:39:14.873881+00:00
+ - user: None
+ - tags: []
+
+## Mathworlds | Dan Meyer | Substack
+ - [https://danmeyer.substack.com](https://danmeyer.substack.com)
+ - date published: 2023-10-25T17:18:58.905775+00:00
+ - user: None
+ - tags: []
+
+## Dan’s Data Thoughts | Dan Goldin | Substack
+ - [https://dansdatathoughts.substack.com](https://dansdatathoughts.substack.com)
+ - date published: 2023-11-02T19:49:26.551442+00:00
+ - user: None
+ - tags: []
+
+## DARK FUTURA | Simplicius The Thinker | Substack
+ - [https://darkfutura.substack.com](https://darkfutura.substack.com)
+ - date published: 2024-01-09T01:39:16.386583+00:00
+ - user: None
+ - tags: []
+
+## The Discourse Lounge | Darrell Owens | Substack
+ - [https://darrellowens.substack.com](https://darrellowens.substack.com)
+ - date published: 2023-10-25T09:46:52.638548+00:00
+ - user: None
+ - tags: ['substack']
+
 ## Database Engineering by Sort | Jason Zucchetto | Substack
  - [https://databaseengineering.substack.com](https://databaseengineering.substack.com)
  - date published: 2023-11-01T23:07:06.577463+00:00
@@ -2119,6 +2173,12 @@
 ## Wittgenfine’s Word | Substack
  - [https://wittgenfine.substack.com](https://wittgenfine.substack.com)
  - date published: 2024-01-09T01:46:04.050317+00:00
+ - user: None
+ - tags: []
+
+## Wayne's Earth | L Wayne Mathison | Substack
+ - [https://wmathison.substack.com](https://wmathison.substack.com)
+ - date published: 2024-01-12T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5937,66 +5997,6 @@
 ## Thomson & Thomson | Home page
  - [https://www.thomson-thomson.com](https://www.thomson-thomson.com)
  - date published: 2024-02-08T17:35:51.359112+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.thomsonreuters.com](https://www.thomsonreuters.com)
- - date published: 2023-11-04T18:07:51.075849+00:00
- - user: None
- - tags: []
-
-## Thorium Nova
- - [https://thoriumsim.com](https://thoriumsim.com)
- - date published: 2023-10-25T17:41:04.719430+00:00
- - user: None
- - tags: []
-
-## Register Spill | Thorsten Ball | Substack
- - [https://registerspill.thorstenball.com](https://registerspill.thorstenball.com)
- - date published: 2023-10-25T17:41:06.824034+00:00
- - user: None
- - tags: []
-
-## Thorsten Ball - About me
- - [https://thorstenball.com](https://thorstenball.com)
- - date published: 2024-01-21T18:21:53.983413+00:00
- - user: None
- - tags: []
-
-## Thorsten Beeck — Designer, Developer & Illustrator
- - [https://thorstenbeeck.com](https://thorstenbeeck.com)
- - date published: 2024-01-16T17:02:52.455506+00:00
- - user: None
- - tags: []
-
-## Thorsten Zöller
- - [https://thorstenzoeller.com](https://thorstenzoeller.com)
- - date published: 2023-12-02T21:17:33.472492+00:00
- - user: None
- - tags: []
-
-## Men's Wedding Rings, Meteorite Rings, & Wood Rings - Thorum
- - [http://www.thorum.com](http://www.thorum.com)
- - date published: 2024-02-16T21:26:55.881184+00:00
- - user: None
- - tags: []
-
-## Design and Development agency building web and mobile products - thoughtbot
- - [https://thoughtbot.com](https://thoughtbot.com)
- - date published: 2023-10-25T17:41:07.935247+00:00
- - user: None
- - tags: []
-
-## Thought Distillery | Becca Williams
- - [https://thoughtdistillery.com](https://thoughtdistillery.com)
- - date published: 2023-12-03T15:55:17.011808+00:00
- - user: None
- - tags: []
-
-## Thought Of Art
- - [https://www.thoughtofart.com](https://www.thoughtofart.com)
- - date published: 2023-12-03T01:43:10.562711+00:00
  - user: None
  - tags: []
 

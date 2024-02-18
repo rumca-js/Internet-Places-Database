@@ -2938,6 +2938,12 @@
  - user: None
  - tags: []
 
+## BattleTech | The Game of Armored Combat
+ - [https://www.battletech.com](https://www.battletech.com)
+ - date published: 2024-02-17T15:07:58+00:00
+ - user: rumpel
+ - tags: ['wargames', 'tabletop game', 'miniatures']
+
 ## Greg Baugues
  - [https://www.baugues.com](https://www.baugues.com)
  - date published: 2023-10-25T12:52:54.281024+00:00
@@ -3368,7 +3374,7 @@
  - [https://www.bensound.com](https://www.bensound.com)
  - date published: 2023-10-25T11:35:14.672345+00:00
  - user: None
- - tags: ['asset audio']
+ - tags: ['assets audio']
 
 ## Benjamin Wechsler: Change Agent | Executive Coach | Teacher | Strategist | Organizational & Leadership Development
  - [https://benwechsler.com](https://benwechsler.com)
@@ -5002,6 +5008,12 @@
  - user: None
  - tags: ['personal']
 
+## NwAvGuy
+ - [http://nwavguy.blogspot.com](http://nwavguy.blogspot.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Old Vintage Computing Research
  - [https://oldvcr.blogspot.com](https://oldvcr.blogspot.com)
  - date published: 2023-10-25T13:06:06.842647+00:00
@@ -5993,16 +6005,4 @@
  - date published: 2023-10-25T13:11:42.034332+00:00
  - user: None
  - tags: ['book author']
-
-## Welcome to Brandywine Harps - Harp Sheet Music
- - [https://www.brandywineharps.com](https://www.brandywineharps.com)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## BratGPT
- - [https://bratgpt.com](https://bratgpt.com)
- - date published: 2023-10-25T13:11:44.999443+00:00
- - user: None
- - tags: []
 
