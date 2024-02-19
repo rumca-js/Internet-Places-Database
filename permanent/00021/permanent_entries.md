@@ -1,3 +1,159 @@
+## OpenProcessing - Creative Coding for the Curious Mind
+ - [https://openprocessing.org](https://openprocessing.org)
+ - date published: 2023-10-25T21:53:01.379367+00:00
+ - user: None
+ - tags: []
+
+## OpenRailwayMap
+ - [https://www.openrailwaymap.org](https://www.openrailwaymap.org)
+ - date published: 2023-10-25T08:25:20.516625+00:00
+ - user: None
+ - tags: []
+
+## OpenRCT2 project
+ - [https://openrct2.org](https://openrct2.org)
+ - date published: 2023-10-25T21:53:01.909495+00:00
+ - user: None
+ - tags: []
+
+## OpenRefine
+ - [https://openrefine.org](https://openrefine.org)
+ - date published: 2023-11-01T08:44:36.756515+00:00
+ - user: None
+ - tags: []
+
+## OpenRetro Game Database
+ - [https://openretro.org](https://openretro.org)
+ - date published: 2023-10-25T11:18:22.724488+00:00
+ - user: None
+ - tags: []
+
+## Home | Open Rights Group
+ - [https://www.openrightsgroup.org](https://www.openrightsgroup.org)
+ - date published: 2023-10-25T21:53:03.331761+00:00
+ - user: None
+ - tags: []
+
+## Open Robotics
+ - [https://www.openrobotics.org](https://www.openrobotics.org)
+ - date published: 2023-10-25T21:53:09.705140+00:00
+ - user: None
+ - tags: []
+
+## Open RSS
+ - [https://openrss.org](https://openrss.org)
+ - date published: 2024-01-16T00:45:10.574589+00:00
+ - user: None
+ - tags: ['rss']
+
+## A Grand Theft Auto III Re-Implementation
+ - [https://openrw.org](https://openrw.org)
+ - date published: 2023-10-31T19:53:00+00:00
+ - user: rumpel
+ - tags: ['game', 'open source', 'grand theft auto']
+
+## OpenSAFELY: Home
+ - [https://www.opensafely.org](https://www.opensafely.org)
+ - date published: 2023-10-25T21:53:15.561678+00:00
+ - user: None
+ - tags: []
+
+## Home - The Open Sanctuary Project
+ - [https://opensanctuary.org](https://opensanctuary.org)
+ - date published: 2023-10-25T21:53:20.102001+00:00
+ - user: None
+ - tags: []
+
+## OpenSCAD
+ - [https://www.openscad.org](https://www.openscad.org)
+ - date published: 2023-10-27T10:20:28.967315+00:00
+ - user: None
+ - tags: ['open source', 'cad software']
+
+## OpenSecrets
+ - [https://www.opensecrets.org](https://www.opensecrets.org)
+ - date published: 2023-10-25T21:53:23.720431+00:00
+ - user: None
+ - tags: ['politics', 'news']
+
+## Scale your e-commerce operations by using multi-channel fulfillment | Openship
+ - [https://openship.org](https://openship.org)
+ - date published: 2023-10-25T21:53:32.292650+00:00
+ - user: None
+ - tags: []
+
+## Home - Voices of Open Source
+ - [https://blog.opensource.org](https://blog.opensource.org)
+ - date published: 2023-10-25T21:53:35.210044+00:00
+ - user: None
+ - tags: []
+
+## Open Source Initiative
+ - [https://opensource.org](https://opensource.org)
+ - date published: 2023-12-13T15:37:03.108899+00:00
+ - user: None
+ - tags: ['open source']
+
+## Open Source Research Institutue :: Main / HomePage
+ - [https://opensourceresearchinstitute.org](https://opensourceresearchinstitute.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## OpenSSF Best Practices Working Group (WG)
+ - [https://best.openssf.org](https://best.openssf.org)
+ - date published: 2023-12-01T12:40:53.021877+00:00
+ - user: None
+ - tags: []
+
+## Home - Open Source Security Foundation
+ - [https://openssf.org](https://openssf.org)
+ - date published: 2023-10-25T21:53:38.058024+00:00
+ - user: None
+ - tags: []
+
+## https://mta.openssl.org
+ - [https://mta.openssl.org](https://mta.openssl.org)
+ - date published: 2024-01-09T03:41:54.854164+00:00
+ - user: None
+ - tags: []
+
+## /index.html
+ - [https://www.openssl.org](https://www.openssl.org)
+ - date published: 2023-10-25T21:53:40.757319+00:00
+ - user: None
+ - tags: []
+
+## Home | Open Steno Project
+ - [https://www.openstenoproject.org](https://www.openstenoproject.org)
+ - date published: 2023-10-25T21:53:42.685049+00:00
+ - user: None
+ - tags: []
+
+## OpenStreetMap Blog | Supporting the OpenStreetMap project
+ - [https://blog.openstreetmap.org](https://blog.openstreetmap.org)
+ - date published: 2023-10-25T21:54:00.090175+00:00
+ - user: None
+ - tags: []
+
+## OpenStreetMap Wiki
+ - [https://wiki.openstreetmap.org](https://wiki.openstreetmap.org)
+ - date published: 2024-02-14T11:16:27.221847+00:00
+ - user: None
+ - tags: []
+
+## OpenStreetMap
+ - [https://www.openstreetmap.org](https://www.openstreetmap.org)
+ - date published: 2023-10-25T08:25:21.448647+00:00
+ - user: None
+ - tags: ['maps', 'open source', 'service maps', 'open street maps']
+
+## Get openSUSE
+ - [https://get.opensuse.org](https://get.opensuse.org)
+ - date published: 2023-10-25T21:54:02.204473+00:00
+ - user: None
+ - tags: []
+
 ## openSUSE News
  - [https://news.opensuse.org](https://news.opensuse.org)
  - date published: 2023-10-25T21:54:11.240130+00:00
@@ -2995,6 +3151,12 @@
  - user: None
  - tags: []
 
+## tools | suckless.org software that sucks less
+ - [https://tools.suckless.org](https://tools.suckless.org)
+ - date published: 2024-02-18T20:18:17.466459+00:00
+ - user: None
+ - tags: []
+
 ## SUNYLA – SUNY Librarians Association
  - [https://sunyla.org](https://sunyla.org)
  - date published: 2024-02-08T17:50:27.193837+00:00
@@ -5841,166 +6003,4 @@ is forbidden
  - date published: 2023-10-24T20:17:32.488635+00:00
  - user: None
  - tags: ['electronics', 'shop']
-
-## Flamberg - gry planszowe Katowice
- - [https://flamberg.com.pl](https://flamberg.com.pl)
- - date published: 2023-11-01T19:12:06.616555+00:00
- - user: None
- - tags: ['tabletop games', 'shop', 'board games', 'wargames']
-
-## Gandalf.com.pl - księgarnia i sklep internetowy z zabawkami, muzyką i perfumami
- - [https://www.gandalf.com.pl](https://www.gandalf.com.pl)
- - date published: 2023-10-24T20:18:08.254055+00:00
- - user: None
- - tags: ['ebook shop']
-
-## Jbzd.com.pl - najgorsze obrazki w internecie!
- - [https://jbzd.com.pl](https://jbzd.com.pl)
- - date published: 2023-10-27T11:55:01.917890+00:00
- - user: None
- - tags: ['funny images', 'memes']
-
-## https://www.lady-pank.com.pl
- - [https://www.lady-pank.com.pl](https://www.lady-pank.com.pl)
- - date published: 2023-12-12T09:20:53+00:00
- - user: rumpel
- - tags: ['music band']
-
-## PAN OD KULTURY
- - [https://panodkultury.com.pl](https://panodkultury.com.pl)
- - date published: 2023-10-27T13:12:52.295579+00:00
- - user: None
- - tags: []
-
-## FISZ EMADE - TWORZYWO
- - [https://tworzywo.com.pl](https://tworzywo.com.pl)
- - date published: 2024-01-09T03:43:48.551241+00:00
- - user: None
- - tags: []
-
-## Wilki - Oficjalna Strona Zespołu - Strona Główna
- - [https://www.wilki.com.pl](https://www.wilki.com.pl)
- - date published: 2024-01-09T03:43:49.893046+00:00
- - user: None
- - tags: []
-
-## Wolni i Solidarni – Wolni i Solidarni – Partia polityczna Kornela Morawieckiego. Koło Częstochowa. Dotyczy spraw politycznych ale także historii i przyszłości.
- - [https://www.wolniisolidarni.czest.pl](https://www.wolniisolidarni.czest.pl)
- - date published: 2023-10-25T22:25:00.119842+00:00
- - user: None
- - tags: []
-
-## Strona główna - Uniwersytet im. Adama Mickiewicza w Poznaniu
- - [https://amu.edu.pl](https://amu.edu.pl)
- - date published: 2023-10-27T13:02:57.267906+00:00
- - user: None
- - tags: ['university']
-
-## IWFM - It Works For Me!
- - [https://zeus27.cyf-kr.edu.pl](https://zeus27.cyf-kr.edu.pl)
- - date published: 2024-02-08T22:53:08.246112+00:00
- - user: None
- - tags: []
-
-## Serwis prasowy IFJ PAN
- - [https://press.ifj.edu.pl](https://press.ifj.edu.pl)
- - date published: 2023-10-25T22:25:01.663981+00:00
- - user: None
- - tags: []
-
-## WZ UW | Wydział Zarządzania UW
- - [https://wz.uw.edu.pl](https://wz.uw.edu.pl)
- - date published: 2024-02-08T17:01:22.194328+00:00
- - user: None
- - tags: []
-
-## Narodowy Fundusz Zdrowia (NFZ) – finansujemy zdrowie Polaków
- - [https://www.nfz.gov.pl](https://www.nfz.gov.pl)
- - date published: 2023-10-25T22:25:03.318274+00:00
- - user: None
- - tags: ['government', 'healthcare']
-
-## Najwyższa Izba Kontroli
- - [https://www.nik.gov.pl](https://www.nik.gov.pl)
- - date published: 2023-11-16T16:54:09.383687+00:00
- - user: None
- - tags: []
-
-## Sejm Rzeczypospolitej Polskiej
- - [https://sejm.gov.pl](https://sejm.gov.pl)
- - date published: 2023-12-01T20:34:13.194103+00:00
- - user: None
- - tags: []
-
-## Sejm Rzeczypospolitej Polskiej
- - [https://www.sejm.gov.pl](https://www.sejm.gov.pl)
- - date published: 2024-01-29T01:20:06.127333+00:00
- - user: None
- - tags: []
-
-## Główny Urząd Statystyczny
- - [https://stat.gov.pl](https://stat.gov.pl)
- - date published: 2024-01-05T10:54:42.258169+00:00
- - user: None
- - tags: []
-
-## Portal Gov.pl
- - [https://www.gov.pl](https://www.gov.pl)
- - date published: 2023-10-25T22:25:05.025399+00:00
- - user: None
- - tags: ['government']
-
-## Amiga – gry i porady – Serwis o komputerach i grach
- - [https://amiga.net.pl](https://amiga.net.pl)
- - date published: 2024-02-06T13:38:51.132578+00:00
- - user: None
- - tags: ['amiga']
-
-## Sterowniki, Programy, Gry i Aktualności - Download.net.pl
- - [https://www.download.net.pl](https://www.download.net.pl)
- - date published: 2023-11-17T21:42:39+00:00
- - user: rumpel
- - tags: ['downloads', 'drivers', 'game news', 'programs']
-
-## Nowiny - Modyfikacje Heroes III - Jaskinia Behemota
- - [https://h3mods.heroes.net.pl](https://h3mods.heroes.net.pl)
- - date published: 2023-10-25T11:18:35.910684+00:00
- - user: None
- - tags: ['retro games', 'video games']
-
-## Psychologia.net.pl  - portal psychologiczny
- - [https://www.psychologia.net.pl](https://www.psychologia.net.pl)
- - date published: 2024-01-09T03:43:50.736529+00:00
- - user: None
- - tags: []
-
-## QUAKE.net.pl - Największy Polski Serwis o Quake Live, Quake Champions, Quake 3 I Quake 4 - pliki, artykuły, newsy, forum
- - [https://quake.net.pl](https://quake.net.pl)
- - date published: 2023-10-25T11:18:37.970311+00:00
- - user: None
- - tags: []
-
-## Portal AMIGA ORG PL – amiga.org.pl
- - [https://amiga.org.pl](https://amiga.org.pl)
- - date published: 2024-02-06T13:37:32.589117+00:00
- - user: None
- - tags: []
-
-## amiga online – dobre miejsce na debiut dla twórczych amigowców
- - [https://sklep.amiga.org.pl](https://sklep.amiga.org.pl)
- - date published: 2023-12-11T16:55:39.925424+00:00
- - user: None
- - tags: []
-
-## bash.org.pl: śmieszne cytaty
- - [http://bash.org.pl](http://bash.org.pl)
- - date published: 2024-01-06T08:41:47+00:00
- - user: rumpel
- - tags: ['funny']
-
-## Chabad Lubawicz Polska – Centrum Żydowskie – Chabad Lubawicz – najbardziej dynamiczna siła we współczesnym żydowskim życiu. To filozofia, ruch i organizacja. Jesteśmy tym domem, którego szukają Żydzi.
- - [https://chabad.org.pl](https://chabad.org.pl)
- - date published: 2024-01-30T02:12:28.571971+00:00
- - user: None
- - tags: []
 

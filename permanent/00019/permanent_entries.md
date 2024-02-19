@@ -1,3 +1,141 @@
+## Johnnys.News
+ - [https://johnnys.news](https://johnnys.news)
+ - date published: 2023-10-25T20:42:45.586603+00:00
+ - user: None
+ - tags: []
+
+## Keyboard Builders' Digest
+ - [https://kbd.news](https://kbd.news)
+ - date published: 2023-12-30T01:36:51+00:00
+ - user: None
+ - tags: []
+
+## Local News Today - Breaking News & Top Stories
+ - [https://localtoday.news](https://localtoday.news)
+ - date published: 2023-10-25T11:07:16.883371+00:00
+ - user: None
+ - tags: []
+
+## Not Yet News
+ - [https://www.notyet.news](https://www.notyet.news)
+ - date published: 2023-10-25T20:42:46.888810+00:00
+ - user: None
+ - tags: []
+
+## The Omg Lol Times · St. Jude Fundraiser Report
+ - [https://omglol.news](https://omglol.news)
+ - date published: 2023-10-25T20:42:48.905677+00:00
+ - user: None
+ - tags: []
+
+## Platformer | Casey Newton | Substack
+ - [https://www.platformer.news](https://www.platformer.news)
+ - date published: 2023-10-25T20:42:52.117652+00:00
+ - user: None
+ - tags: []
+
+## Positive News | Good journalism about good things - Positive News
+ - [https://www.positive.news](https://www.positive.news)
+ - date published: 2023-10-25T20:42:54.838847+00:00
+ - user: None
+ - tags: []
+
+## Post
+ - [https://post.news](https://post.news)
+ - date published: 2023-10-25T20:43:00.854072+00:00
+ - user: None
+ - tags: []
+
+## Racket News | Matt Taibbi | Substack
+ - [https://www.racket.news](https://www.racket.news)
+ - date published: 2023-10-25T20:43:04.969237+00:00
+ - user: None
+ - tags: []
+
+## Rekt - Home
+ - [https://rekt.news](https://rekt.news)
+ - date published: 2023-10-25T20:43:07.706883+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://rmx.news](https://rmx.news)
+ - date published: 2023-10-25T10:39:52.865910+00:00
+ - user: None
+ - tags: []
+
+## Sci.News: Breaking Science News
+ - [https://www.sci.news](https://www.sci.news)
+ - date published: 2023-10-25T10:11:45.286879+00:00
+ - user: None
+ - tags: []
+
+## Home - Stonks News
+ - [https://stonks.news](https://stonks.news)
+ - date published: 2023-10-25T20:43:11.649456+00:00
+ - user: None
+ - tags: []
+
+## Summit News - News From The Summit
+ - [https://summit.news](https://summit.news)
+ - date published: 2023-10-25T10:39:55.843611+00:00
+ - user: None
+ - tags: []
+
+## Supervised | Matthew Lynley | Substack
+ - [https://www.supervised.news](https://www.supervised.news)
+ - date published: 2023-10-25T10:08:38.358107+00:00
+ - user: None
+ - tags: ['substack']
+
+## Technocracy News & Trends
+ - [https://www.technocracy.news](https://www.technocracy.news)
+ - date published: 2023-10-25T09:37:25.423842+00:00
+ - user: None
+ - tags: []
+
+## The Bureau | Sam Cooper | Substack
+ - [https://www.thebureau.news](https://www.thebureau.news)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## tilde news
+ - [https://tilde.news](https://tilde.news)
+ - date published: 2023-10-25T20:43:14.869847+00:00
+ - user: None
+ - tags: []
+
+## True North | Breaking Canadian News and Opinion
+ - [https://tnc.news](https://tnc.news)
+ - date published: 2023-10-25T20:43:19.101154+00:00
+ - user: None
+ - tags: []
+
+## Web Platform News
+ - [https://webplatform.news](https://webplatform.news)
+ - date published: 2023-10-25T20:43:23.872213+00:00
+ - user: None
+ - tags: []
+
+## westernstandard.news | The independent voice of the New West
+ - [https://www.westernstandard.news](https://www.westernstandard.news)
+ - date published: 2023-12-04T22:07:35+00:00
+ - user: rumpel
+ - tags: ['news']
+
+## WorkLife — Authority on how modern work is changing people’s lives
+ - [https://www.worklife.news](https://www.worklife.news)
+ - date published: 2023-10-25T20:43:26.647990+00:00
+ - user: None
+ - tags: []
+
+## The Works in Progress Newsletter | Substack
+ - [https://www.worksinprogress.news](https://www.worksinprogress.news)
+ - date published: 2023-10-25T20:43:29.879565+00:00
+ - user: None
+ - tags: []
+
 ## Zig NEWS
  - [https://zig.news](https://zig.news)
  - date published: 2023-10-25T20:43:39.498351+00:00
@@ -3643,6 +3781,12 @@ marginalia.nu
  - user: None
  - tags: []
 
+## bt
+ - [https://btxx.org](https://btxx.org)
+ - date published: 2024-02-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Hyperlogloglog
  - [https://carlos.bueno.org](https://carlos.bueno.org)
  - date published: 2023-10-25T21:04:39.654113+00:00
@@ -5863,150 +6007,6 @@ marginalia.nu
 ## ELM by ChaN
  - [http://elm-chan.org](http://elm-chan.org)
  - date published: 2023-10-25T21:17:29.697589+00:00
- - user: None
- - tags: []
-
-## home
- - [https://elm-lang.org](https://elm-lang.org)
- - date published: 2023-10-25T21:17:32.410731+00:00
- - user: None
- - tags: []
-
-## Homepage - El Paso Matters
- - [https://elpasomatters.org](https://elpasomatters.org)
- - date published: 2024-01-01T01:49:03.036321+00:00
- - user: None
- - tags: []
-
-## EmacsConf
- - [https://emacsconf.org](https://emacsconf.org)
- - date published: 2023-10-25T21:17:34.183101+00:00
- - user: None
- - tags: []
-
-## Hello from Emacs Docs | Emacs Docs
- - [https://www.emacsdocs.org](https://www.emacsdocs.org)
- - date published: 2023-10-25T21:17:36.522307+00:00
- - user: None
- - tags: []
-
-## Emacs User Survey
- - [https://emacssurvey.org](https://emacssurvey.org)
- - date published: 2023-10-25T21:17:38.020899+00:00
- - user: None
- - tags: []
-
-## EmacsWiki: Site Map
- - [https://www.emacswiki.org](https://www.emacswiki.org)
- - date published: 2023-10-25T21:17:41.959548+00:00
- - user: None
- - tags: []
-
-## https://www.embopress.org
- - [https://www.embopress.org](https://www.embopress.org)
- - date published: 2023-11-10T20:18:27.220482+00:00
- - user: None
- - tags: []
-
-## Connecting the threads between ecology, culture, and spirituality – Emergence Magazine
- - [https://emergencemagazine.org](https://emergencemagazine.org)
- - date published: 2023-10-25T21:17:51.675310+00:00
- - user: None
- - tags: []
-
-## Ian Emnace | Thoughts on software and theory
- - [https://ig.emnace.org](https://ig.emnace.org)
- - date published: 2024-01-28T13:19:42.684810+00:00
- - user: None
- - tags: []
-
-## Emojipedia
- - [https://blog.emojipedia.org](https://blog.emojipedia.org)
- - date published: 2023-10-25T21:17:53.068101+00:00
- - user: None
- - tags: []
-
-## EmulationStation
- - [https://emulationstation.org](https://emulationstation.org)
- - date published: 2023-10-25T08:33:41.083763+00:00
- - user: None
- - tags: ['emulation']
-
-## Centre for Research on Energy and Clean Air
- - [https://energyandcleanair.org](https://energyandcleanair.org)
- - date published: 2023-10-25T21:17:56.401220+00:00
- - user: None
- - tags: []
-
-## Home - Enhanced Games. A Better Version of the Olympic Games.
- - [https://enhanced.org](https://enhanced.org)
- - date published: 2023-10-27T12:06:37.342704+00:00
- - user: None
- - tags: []
-
-## https://www.enist.org
- - [https://www.enist.org](https://www.enist.org)
- - date published: 2024-01-09T03:39:27.511657+00:00
- - user: None
- - tags: []
-
-## Enlightenment Main
- - [https://www.enlightenment.org](https://www.enlightenment.org)
- - date published: 2023-12-24T13:03:54.895999+00:00
- - user: None
- - tags: []
-
-## Entomology Today - Brought to you by the Entomological Society of America
- - [https://entomologytoday.org](https://entomologytoday.org)
- - date published: 2023-10-25T21:18:01.981972+00:00
- - user: None
- - tags: []
-
-## Home - Environment America
- - [https://environmentamerica.org](https://environmentamerica.org)
- - date published: 2023-10-25T21:18:06.610672+00:00
- - user: None
- - tags: []
-
-## EN World Tabletop RPG News & Reviews | EN World Tabletop RPG News & Reviews
- - [https://www.enworld.org](https://www.enworld.org)
- - date published: 2023-10-25T21:18:11.096732+00:00
- - user: None
- - tags: []
-
-## Encyclopedia of Life
- - [https://eol.org](https://eol.org)
- - date published: 2023-10-25T21:18:13.102746+00:00
- - user: None
- - tags: []
-
-## Homepage - Eos
- - [https://eos.org](https://eos.org)
- - date published: 2023-10-25T21:18:16.991699+00:00
- - user: None
- - tags: []
-
-## EPForums
- - [https://www.epforums.org](https://www.epforums.org)
- - date published: 2023-12-13T15:18:58.014396+00:00
- - user: None
- - tags: ['roms', 'emulation']
-
-## Economic Policy Institute | Research and Ideas for Shared Prosperity
- - [https://www.epi.org](https://www.epi.org)
- - date published: 2023-10-25T21:18:19.591674+00:00
- - user: None
- - tags: []
-
-## EPIC – Electronic Privacy Information Center
- - [https://epic.org](https://epic.org)
- - date published: 2023-10-25T11:25:29.729478+00:00
- - user: None
- - tags: []
-
-## Epoch
- - [https://epochai.org](https://epochai.org)
- - date published: 2023-10-25T21:18:20.910858+00:00
  - user: None
  - tags: []
 

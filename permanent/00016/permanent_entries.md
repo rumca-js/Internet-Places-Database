@@ -1,3 +1,99 @@
+## Open-source data curation platform for LLMs
+ - [https://argilla.io](https://argilla.io)
+ - date published: 2023-10-25T19:37:49.975085+00:00
+ - user: None
+ - tags: []
+
+## aristot
+ - [https://aristot.io](https://aristot.io)
+ - date published: 2023-12-29T19:00:36.685755+00:00
+ - user: None
+ - tags: []
+
+## A.R.P. Syndicate
+ - [https://blog.arpsyndicate.io](https://blog.arpsyndicate.io)
+ - date published: 2024-01-12T03:16:21.030697+00:00
+ - user: None
+ - tags: []
+
+## Fatih Arslan
+ - [https://arslan.io](https://arslan.io)
+ - date published: 2023-10-25T19:37:51.402475+00:00
+ - user: None
+ - tags: []
+
+## Ash Smith - Senior Software Engineer. Bath, UK
+ - [https://www.ashsmith.io](https://www.ashsmith.io)
+ - date published: 2023-12-23T02:59:52.670775+00:00
+ - user: None
+ - tags: []
+
+## Academy Software Foundation - ASWF
+ - [https://www.aswf.io](https://www.aswf.io)
+ - date published: 2023-10-25T19:37:54.400426+00:00
+ - user: None
+ - tags: []
+
+## The Autodidacts
+ - [https://www.autodidacts.io](https://www.autodidacts.io)
+ - date published: 2023-10-25T09:21:59.454981+00:00
+ - user: None
+ - tags: ['personal']
+
+## Automatisch - Open Source Zapier Alternative
+ - [https://automatisch.io](https://automatisch.io)
+ - date published: 2023-10-25T19:38:01.066958+00:00
+ - user: None
+ - tags: []
+
+## Auxilia
+ - [https://auxilia.io](https://auxilia.io)
+ - date published: 2024-01-05T10:29:22.728060+00:00
+ - user: None
+ - tags: []
+
+## AWAIS.IO
+ - [https://blog.awais.io](https://blog.awais.io)
+ - date published: 2024-01-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Axel’s Blog | Technical blog discussing reverse engineering, detections engineering, exploit development, capability development, and other cybersecurity topics.
+ - [https://axelp.io](https://axelp.io)
+ - date published: 2023-10-25T19:38:02.657295+00:00
+ - user: None
+ - tags: []
+
+## Ayo Ayco | Software Engineer, Web Developer, Consultant
+ - [https://ayco.io](https://ayco.io)
+ - date published: 2023-12-25T04:56:50.840416+00:00
+ - user: None
+ - tags: []
+
+## Babel · Babel
+ - [https://babeljs.io](https://babeljs.io)
+ - date published: 2023-10-25T19:38:04.462286+00:00
+ - user: None
+ - tags: []
+
+## Bank List - Find the Best Bank for Your Needs
+ - [https://banklist.io](https://banklist.io)
+ - date published: 2023-10-25T19:38:08.774494+00:00
+ - user: None
+ - tags: []
+
+## https://assets.bbhub.io
+ - [https://assets.bbhub.io](https://assets.bbhub.io)
+ - date published: 2024-01-09T03:32:44.228408+00:00
+ - user: None
+ - tags: []
+
+## The SQL Editor and Database Manager Of Your Dreams | Beekeeper Studio
+ - [https://www.beekeeperstudio.io](https://www.beekeeperstudio.io)
+ - date published: 2023-10-25T19:38:16.881595+00:00
+ - user: None
+ - tags: []
+
 ## Ricard Bejarano – Site Reliability Engineer
  - [https://www.bejarano.io](https://www.bejarano.io)
  - date published: 2023-10-25T08:49:12.684001+00:00
@@ -3330,6 +3426,12 @@ through Composable Diffusion
  - user: None
  - tags: ['personal']
 
+## OS-Copilot: Towards Generalist Computer Agents with Self-Improvement
+ - [https://os-copilot.github.io](https://os-copilot.github.io)
+ - date published: 2024-02-17T20:26:18+00:00
+ - user: None
+ - tags: []
+
 ## Site not found · GitHub Pages
  - [https://osanseviero.github.io](https://osanseviero.github.io)
  - date published: 2024-01-03T21:23:24.597485+00:00
@@ -4152,6 +4254,12 @@ through Composable Diffusion
  - user: None
  - tags: []
 
+## None
+ - [https://webassembly.github.io](https://webassembly.github.io)
+ - date published: 2024-02-18T14:57:31.409414+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://wh0.github.io](https://wh0.github.io)
  - date published: 2023-10-25T19:55:10.951365+00:00
@@ -4221,6 +4329,12 @@ through Composable Diffusion
 ## Latest Posts
  - [https://yansh.github.io](https://yansh.github.io)
  - date published: 2024-02-08T16:34:47.141705+00:00
+ - user: None
+ - tags: []
+
+## Yash Kant
+ - [https://yashkant.github.io](https://yashkant.github.io)
+ - date published: 2024-02-18T16:02:28.599910+00:00
  - user: None
  - tags: []
 
@@ -4733,6 +4847,12 @@ through Composable Diffusion
  - date published: 2023-10-25T08:35:39.867270+00:00
  - user: None
  - tags: ['pixel art', 'game engine']
+
+## ines.io
+ - [https://ines.io](https://ines.io)
+ - date published: 2024-02-17T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Infracost: The Cloud’s Checkout Screen
  - [https://infracost.io](https://infracost.io)
@@ -5879,126 +5999,6 @@ through Composable Diffusion
 ## Mark Palfreeman
  - [https://palf.io](https://palf.io)
  - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Empowering whistleblowers to change the world
- - [https://live-whistleblower-aid.pantheonsite.io](https://live-whistleblower-aid.pantheonsite.io)
- - date published: 2023-12-04T16:36:00.711318+00:00
- - user: None
- - tags: []
-
-## https://paperlist.io
- - [https://paperlist.io](https://paperlist.io)
- - date published: 2024-01-09T03:33:15.983882+00:00
- - user: None
- - tags: []
-
-## Elixir and Phoenix Application Security Platform
- - [https://paraxial.io](https://paraxial.io)
- - date published: 2023-10-25T20:03:13.063682+00:00
- - user: None
- - tags: []
-
-## Parseable | Democratizing Log Analytics
- - [https://www.parseable.io](https://www.parseable.io)
- - date published: 2023-10-25T20:03:13.412284+00:00
- - user: None
- - tags: []
-
-## Part-Time Tech
- - [https://www.parttimetech.io](https://www.parttimetech.io)
- - date published: 2024-01-09T03:33:21.676700+00:00
- - user: None
- - tags: []
-
-## PASETO
- - [https://paseto.io](https://paseto.io)
- - date published: 2023-10-25T20:03:19.924108+00:00
- - user: None
- - tags: []
-
-## Passit
- - [https://passit.io](https://passit.io)
- - date published: 2024-01-19T18:02:08.839252+00:00
- - user: None
- - tags: []
-
-## Passkeys.io - The passkey demo and info page by Hanko.io
- - [https://www.passkeys.io](https://www.passkeys.io)
- - date published: 2023-10-25T20:03:21.667138+00:00
- - user: None
- - tags: []
-
-## pboyd.io
- - [https://pboyd.io](https://pboyd.io)
- - date published: 2023-10-25T20:03:22.972100+00:00
- - user: None
- - tags: []
-
-## 403 Forbidden
- - [https://ss.pcj.io](https://ss.pcj.io)
- - date published: 2023-12-09T22:43:54.273209+00:00
- - user: None
- - tags: []
-
-## PeerDB Blog
- - [https://blog.peerdb.io](https://blog.peerdb.io)
- - date published: 2023-11-06T20:41:48.742787+00:00
- - user: None
- - tags: []
-
-## People Who Code
- - [https://www.peoplewhocode.io](https://www.peoplewhocode.io)
- - date published: 2023-11-04T00:46:38.201829+00:00
- - user: None
- - tags: []
-
-## Never Build Permissions Again | Permit.io
- - [https://www.permit.io](https://www.permit.io)
- - date published: 2023-10-25T20:03:24.839582+00:00
- - user: None
- - tags: []
-
-## Pete Codes - founder, developer and Twitter ghost writer
- - [https://www.petecodes.io](https://www.petecodes.io)
- - date published: 2023-10-25T20:03:25.835529+00:00
- - user: None
- - tags: []
-
-## Formation °
- - [https://formation.phobon.io](https://formation.phobon.io)
- - date published: 2023-11-26T11:07:00+00:00
- - user: None
- - tags: []
-
-## Phylum | Research Blog
- - [https://blog.phylum.io](https://blog.phylum.io)
- - date published: 2023-10-25T20:03:31.720870+00:00
- - user: None
- - tags: []
-
-## Loading...
- - [https://app.pickcode.io](https://app.pickcode.io)
- - date published: 2023-10-25T20:03:32.494754+00:00
- - user: None
- - tags: []
-
-## Show HN: New visual language for teaching kids to code
- - [https://pickcode.io](https://pickcode.io)
- - date published: 2023-11-21T16:16:38+00:00
- - user: None
- - tags: []
-
-## Vector Database for Vector Search | Pinecone
- - [https://www.pinecone.io](https://www.pinecone.io)
- - date published: 2023-10-25T20:03:33.943883+00:00
- - user: None
- - tags: []
-
-## None
- - [https://androidblog.a.pinggy.io](https://androidblog.a.pinggy.io)
- - date published: 2024-01-09T03:33:22.344023+00:00
  - user: None
  - tags: []
 

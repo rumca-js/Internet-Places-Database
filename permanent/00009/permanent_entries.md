@@ -1,3 +1,51 @@
+## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
+ - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
+ - date published: 2023-12-23T07:30:12.092026+00:00
+ - user: None
+ - tags: []
+
+## Patrick Yandell
+ - [https://patrickyandell.com](https://patrickyandell.com)
+ - date published: 2023-11-29T14:24:18.301040+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.paudal.com](https://www.paudal.com)
+ - date published: 2023-12-22T12:44:01.911776+00:00
+ - user: None
+ - tags: []
+
+## Networks and Value by Paul Bohm | Substack
+ - [https://blog.paulbohm.com](https://blog.paulbohm.com)
+ - date published: 2024-01-09T01:38:20.790691+00:00
+ - user: None
+ - tags: []
+
+## https://tools.paulcalvano.com
+ - [https://tools.paulcalvano.com](https://tools.paulcalvano.com)
+ - date published: 2024-01-09T02:45:45.126988+00:00
+ - user: None
+ - tags: []
+
+## Paul Chato | Hello denizens of the internet.
+ - [https://www.paulchato.com](https://www.paulchato.com)
+ - date published: 2024-02-01T15:37:03+00:00
+ - user: rumpel
+ - tags: ['personal', 'youtuber']
+
+## Paul Graham
+ - [https://paulgraham.com](https://paulgraham.com)
+ - date published: 2024-01-09T02:45:46.595965+00:00
+ - user: None
+ - tags: []
+
+## Paul Graham
+ - [https://www.paulgraham.com](https://www.paulgraham.com)
+ - date published: 2024-01-09T02:45:47.953966+00:00
+ - user: None
+ - tags: []
+
 ## Paul Graham AI
  - [https://www.paulgrahamai.com](https://www.paulgrahamai.com)
  - date published: 2023-10-25T16:31:25.983543+00:00
@@ -5957,52 +6005,4 @@ More!
  - date published: 2023-10-25T08:38:16.407947+00:00
  - user: None
  - tags: ['rss reader']
-
-## RSS Feed Extractor
- - [https://rssfeedasap.com](https://rssfeedasap.com)
- - date published: 2023-10-25T08:30:46.933111+00:00
- - user: None
- - tags: []
-
-## RSS Search Engine and RSS Feed Reader
- - [https://www.rsssearchhub.com](https://www.rsssearchhub.com)
- - date published: 2024-01-30T08:00:10+00:00
- - user: rumpel
- - tags: []
-
-## RT - Breaking News, Russia News, World News and Video
- - [https://www.rt.com](https://www.rt.com)
- - date published: 2023-10-25T10:12:55.826509+00:00
- - user: None
- - tags: []
-
-## R. Talsorian Games - We create worlds you can only imagine.
- - [https://rtalsoriangames.com](https://rtalsoriangames.com)
- - date published: 2023-11-01T19:34:54.050124+00:00
- - user: None
- - tags: ['cyberpunk', 'role playing games']
-
-## https://www.rtl-sdr.com
- - [https://www.rtl-sdr.com](https://www.rtl-sdr.com)
- - date published: 2024-01-09T02:48:22.088471+00:00
- - user: None
- - tags: []
-
-## Rubenerd
- - [https://rubenerd.com](https://rubenerd.com)
- - date published: 2023-10-25T16:55:20.911142+00:00
- - user: None
- - tags: []
-
-## rubenwardy's blog
- - [https://blog.rubenwardy.com](https://blog.rubenwardy.com)
- - date published: 2023-11-18T18:28:01.582764+00:00
- - user: None
- - tags: []
-
-## Jade Rubick - Rubick.com
- - [https://www.rubick.com](https://www.rubick.com)
- - date published: 2023-10-25T08:47:51.358817+00:00
- - user: None
- - tags: ['personal']
 

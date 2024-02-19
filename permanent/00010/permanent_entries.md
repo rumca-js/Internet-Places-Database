@@ -1,3 +1,51 @@
+## RSS Feed Extractor
+ - [https://rssfeedasap.com](https://rssfeedasap.com)
+ - date published: 2023-10-25T08:30:46.933111+00:00
+ - user: None
+ - tags: []
+
+## RSS Search Engine and RSS Feed Reader
+ - [https://www.rsssearchhub.com](https://www.rsssearchhub.com)
+ - date published: 2024-01-30T08:00:10+00:00
+ - user: rumpel
+ - tags: []
+
+## RT - Breaking News, Russia News, World News and Video
+ - [https://www.rt.com](https://www.rt.com)
+ - date published: 2023-10-25T10:12:55.826509+00:00
+ - user: None
+ - tags: []
+
+## R. Talsorian Games - We create worlds you can only imagine.
+ - [https://rtalsoriangames.com](https://rtalsoriangames.com)
+ - date published: 2023-11-01T19:34:54.050124+00:00
+ - user: None
+ - tags: ['cyberpunk', 'role playing games']
+
+## https://www.rtl-sdr.com
+ - [https://www.rtl-sdr.com](https://www.rtl-sdr.com)
+ - date published: 2024-01-09T02:48:22.088471+00:00
+ - user: None
+ - tags: []
+
+## Rubenerd
+ - [https://rubenerd.com](https://rubenerd.com)
+ - date published: 2023-10-25T16:55:20.911142+00:00
+ - user: None
+ - tags: []
+
+## rubenwardy's blog
+ - [https://blog.rubenwardy.com](https://blog.rubenwardy.com)
+ - date published: 2023-11-18T18:28:01.582764+00:00
+ - user: None
+ - tags: []
+
+## Jade Rubick - Rubick.com
+ - [https://www.rubick.com](https://www.rubick.com)
+ - date published: 2023-10-25T08:47:51.358817+00:00
+ - user: None
+ - tags: ['personal']
+
 ## renegat0x0 site
  - [https://micro.rubiconproject.com](https://micro.rubiconproject.com)
  - date published: 2024-01-09T02:48:25.552891+00:00
@@ -2089,6 +2137,12 @@
 ## Sheevaun Moran
  - [https://sheevaunmoran.com](https://sheevaunmoran.com)
  - date published: 2023-12-30T22:23:25.350039+00:00
+ - user: None
+ - tags: []
+
+## Shekhar Gulati
+ - [https://shekhargulati.com](https://shekhargulati.com)
+ - date published: 2024-02-18T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4357,6 +4411,12 @@
  - user: None
  - tags: []
 
+## Cross Validated
+ - [https://stats.stackexchange.com](https://stats.stackexchange.com)
+ - date published: 2024-02-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Substrate and Polkadot Stack Exchange
  - [https://substrate.stackexchange.com](https://substrate.stackexchange.com)
  - date published: 2023-10-25T17:14:27.990996+00:00
@@ -5946,64 +6006,4 @@
  - date published: 2023-10-25T09:45:48.661751+00:00
  - user: None
  - tags: ['substack']
-
-## Cosmos Institute | Substack
- - [https://cosmosinstitute.substack.com](https://cosmosinstitute.substack.com)
- - date published: 2024-01-07T21:32:09.636395+00:00
- - user: None
- - tags: []
-
-## Counter Craft | Lincoln Michel | Substack
- - [https://countercraft.substack.com](https://countercraft.substack.com)
- - date published: 2023-10-25T09:45:50.861755+00:00
- - user: None
- - tags: ['substack']
-
-## https://covidunmasked.substack.com
- - [https://covidunmasked.substack.com](https://covidunmasked.substack.com)
- - date published: 2024-02-08T16:59:22.910724+00:00
- - user: None
- - tags: []
-
-## https://cpufun.substack.com
- - [https://cpufun.substack.com](https://cpufun.substack.com)
- - date published: 2024-01-12T10:26:19.876052+00:00
- - user: None
- - tags: []
-
-## Chris’s Substack | Chris Walker | Substack
- - [https://cpwalker.substack.com](https://cpwalker.substack.com)
- - date published: 2024-01-09T01:38:53.764125+00:00
- - user: None
- - tags: []
-
-## Cremieux Recueil | Substack
- - [https://cremieux.substack.com](https://cremieux.substack.com)
- - date published: 2023-10-25T09:46:00.855999+00:00
- - user: None
- - tags: ['substack']
-
-## 0xStacker's Newsletter | Sistine Research | Substack
- - [https://cryptostackers.substack.com](https://cryptostackers.substack.com)
- - date published: 2023-10-25T09:46:07.799448+00:00
- - user: None
- - tags: ['substack']
-
-## Curiosity Sink__ | John Raptis | Substack
- - [https://curiositysink.substack.com](https://curiositysink.substack.com)
- - date published: 2023-10-25T09:46:10.975835+00:00
- - user: None
- - tags: ['substack']
-
-## The Beautiful Mess | John Cutler | Substack
- - [https://cutlefish.substack.com](https://cutlefish.substack.com)
- - date published: 2023-10-25T09:46:14.158244+00:00
- - user: None
- - tags: ['substack']
-
-## Cybersect | Robert Graham | Substack
- - [https://cybersect.substack.com](https://cybersect.substack.com)
- - date published: 2024-01-09T01:39:00.195911+00:00
- - user: None
- - tags: []
 

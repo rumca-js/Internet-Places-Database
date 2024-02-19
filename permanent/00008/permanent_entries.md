@@ -1,3 +1,45 @@
+## checking your credentials..
+ - [https://teams.microsoft.com](https://teams.microsoft.com)
+ - date published: 2023-10-25T16:03:34.551273+00:00
+ - user: None
+ - tags: []
+
+## Home - Microsoft Community Hub
+ - [https://techcommunity.microsoft.com](https://techcommunity.microsoft.com)
+ - date published: 2023-10-25T10:52:42.152193+00:00
+ - user: None
+ - tags: []
+
+## Visual Studio: IDE and Code Editor for Software Developers and Teams
+ - [https://visualstudio.microsoft.com](https://visualstudio.microsoft.com)
+ - date published: 2023-11-03T20:33:06.635502+00:00
+ - user: None
+ - tags: ['ide', 'visual studio']
+
+## Microsoft – chmura, komputery, aplikacje i gry
+ - [https://www.microsoft.com](https://www.microsoft.com)
+ - date published: 2023-10-25T11:26:39.907068+00:00
+ - user: None
+ - tags: ['web browser', 'company', 'edge', 'gatekeeper']
+
+## Office Insiders
+ - [https://insider.microsoft365.com](https://insider.microsoft365.com)
+ - date published: 2023-11-01T08:42:38.686906+00:00
+ - user: None
+ - tags: []
+
+## Sign in to your account
+ - [https://login.microsoftonline.com](https://login.microsoftonline.com)
+ - date published: 2023-12-11T17:43:06.294391+00:00
+ - user: None
+ - tags: []
+
+## Cloud-Based Medical Office Software & Billing Services
+ - [https://www.microwize.com](https://www.microwize.com)
+ - date published: 2024-01-10T14:29:04.664029+00:00
+ - user: None
+ - tags: []
+
 ## Middle East Monitor
  - [https://www.middleeastmonitor.com](https://www.middleeastmonitor.com)
  - date published: 2023-11-05T15:09:13.933802+00:00
@@ -1520,6 +1562,12 @@
 ## Mycroft
  - [https://mycroftproject.com](https://mycroftproject.com)
  - date published: 2023-12-05T19:53:37+00:00
+ - user: None
+ - tags: []
+
+## Mydbops: Expert Open Source Database Solutions
+ - [https://www.mydbops.com](https://www.mydbops.com)
+ - date published: 2024-02-18T16:02:31.501074+00:00
  - user: None
  - tags: []
 
@@ -5954,54 +6002,6 @@ Answering Machine Greetings!
 ## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
  - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
  - date published: 2023-12-21T08:24:19.074982+00:00
- - user: None
- - tags: []
-
-## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
- - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
- - date published: 2023-12-23T07:30:12.092026+00:00
- - user: None
- - tags: []
-
-## Patrick Yandell
- - [https://patrickyandell.com](https://patrickyandell.com)
- - date published: 2023-11-29T14:24:18.301040+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.paudal.com](https://www.paudal.com)
- - date published: 2023-12-22T12:44:01.911776+00:00
- - user: None
- - tags: []
-
-## Networks and Value by Paul Bohm | Substack
- - [https://blog.paulbohm.com](https://blog.paulbohm.com)
- - date published: 2024-01-09T01:38:20.790691+00:00
- - user: None
- - tags: []
-
-## https://tools.paulcalvano.com
- - [https://tools.paulcalvano.com](https://tools.paulcalvano.com)
- - date published: 2024-01-09T02:45:45.126988+00:00
- - user: None
- - tags: []
-
-## Paul Chato | Hello denizens of the internet.
- - [https://www.paulchato.com](https://www.paulchato.com)
- - date published: 2024-02-01T15:37:03+00:00
- - user: rumpel
- - tags: ['personal', 'youtuber']
-
-## Paul Graham
- - [https://paulgraham.com](https://paulgraham.com)
- - date published: 2024-01-09T02:45:46.595965+00:00
- - user: None
- - tags: []
-
-## Paul Graham
- - [https://www.paulgraham.com](https://www.paulgraham.com)
- - date published: 2024-01-09T02:45:47.953966+00:00
  - user: None
  - tags: []
 
