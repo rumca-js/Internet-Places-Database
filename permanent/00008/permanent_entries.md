@@ -1,3 +1,87 @@
+## Find the right app | Microsoft AppSource
+ - [https://appsource.microsoft.com](https://appsource.microsoft.com)
+ - date published: 2023-10-25T16:03:13.347631+00:00
+ - user: None
+ - tags: []
+
+## Cloud Computing Services | Microsoft Azure
+ - [https://azure.microsoft.com](https://azure.microsoft.com)
+ - date published: 2023-10-25T16:03:25.472197+00:00
+ - user: None
+ - tags: []
+
+## Blog usługi Microsoft Fabric
+ - [https://blog.fabric.microsoft.com](https://blog.fabric.microsoft.com)
+ - date published: 2023-10-25T09:34:04.976907+00:00
+ - user: None
+ - tags: []
+
+## The Official Microsoft Blog
+ - [https://blogs.microsoft.com](https://blogs.microsoft.com)
+ - date published: 2023-10-25T09:34:08.525842+00:00
+ - user: None
+ - tags: []
+
+## Home - Cloud Perspectives Blog
+ - [https://cloudblogs.microsoft.com](https://cloudblogs.microsoft.com)
+ - date published: 2023-10-25T09:34:15.781614+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Designer - Stunning designs in a flash
+ - [https://designer.microsoft.com](https://designer.microsoft.com)
+ - date published: 2023-10-25T16:03:31.208056+00:00
+ - user: None
+ - tags: []
+
+## DevBlogs - Microsoft Developer Blogs
+ - [https://devblogs.microsoft.com](https://devblogs.microsoft.com)
+ - date published: 2023-10-25T10:14:03.592606+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Developer
+ - [https://developer.microsoft.com](https://developer.microsoft.com)
+ - date published: 2024-01-15T13:49:47.590358+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Learn: Build skills that open doors in your career
+ - [https://docs.microsoft.com](https://docs.microsoft.com)
+ - date published: 2023-10-25T11:30:47.045143+00:00
+ - user: None
+ - tags: []
+
+## Search Jobs | Microsoft Careers
+ - [https://jobs.careers.microsoft.com](https://jobs.careers.microsoft.com)
+ - date published: 2023-10-25T11:31:38.386584+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Learn: Build skills that open doors in your career
+ - [https://learn.microsoft.com](https://learn.microsoft.com)
+ - date published: 2023-10-25T11:30:34.619514+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Security Response Center
+ - [https://msrc.microsoft.com](https://msrc.microsoft.com)
+ - date published: 2023-10-25T11:31:41.607143+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Source
+ - [https://news.microsoft.com](https://news.microsoft.com)
+ - date published: 2023-10-25T10:52:37.879287+00:00
+ - user: None
+ - tags: []
+
+## Microsoft Support
+ - [https://support.microsoft.com](https://support.microsoft.com)
+ - date published: 2023-10-25T16:03:34.137323+00:00
+ - user: None
+ - tags: []
+
 ## checking your credentials..
  - [https://teams.microsoft.com](https://teams.microsoft.com)
  - date published: 2023-10-25T16:03:34.551273+00:00
@@ -5918,90 +6002,6 @@ Answering Machine Greetings!
 ## Patagonia Outdoor Clothing & Gear
  - [https://www.patagonia.com](https://www.patagonia.com)
  - date published: 2023-10-25T16:30:56.435107+00:00
- - user: None
- - tags: []
-
-## Inpics Gadget Repair Services - InPics Solutions
- - [https://patersontech.com](https://patersontech.com)
- - date published: 2023-10-25T16:30:59.777009+00:00
- - user: None
- - tags: []
-
-## Pathfinder Infinite -
- - [https://www.pathfinderinfinite.com](https://www.pathfinderinfinite.com)
- - date published: 2000-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['magazines', 'shop']
-
-## Path of Exile
- - [https://www.pathofexile.com](https://www.pathofexile.com)
- - date published: 2023-10-25T08:39:41.111324+00:00
- - user: None
- - tags: ['game']
-
-## Path-Sensitive
- - [https://www.pathsensitive.com](https://www.pathsensitive.com)
- - date published: 2023-10-25T16:31:04.472557+00:00
- - user: None
- - tags: []
-
-## PJK's Blog
- - [https://www.patjk.com](https://www.patjk.com)
- - date published: 2023-12-15T21:43:37.233324+00:00
- - user: None
- - tags: []
-
-## ~patmaddox: Home
- - [https://patmaddox.com](https://patmaddox.com)
- - date published: 2023-12-04T06:13:53.079304+00:00
- - user: None
- - tags: []
-
-## patorjk.com
- - [https://patorjk.com](https://patorjk.com)
- - date published: 2023-12-08T13:07:39+00:00
- - user: rumpel
- - tags: ['personal']
-
-## Patreon | News | Home
- - [https://blog.patreon.com](https://blog.patreon.com)
- - date published: 2023-10-25T11:32:44.994110+00:00
- - user: None
- - tags: []
-
-## Home — Patreon
- - [https://patreon.com](https://patreon.com)
- - date published: 2023-12-11T17:25:04.928912+00:00
- - user: None
- - tags: []
-
-## Home — Patreon
- - [https://www.patreon.com](https://www.patreon.com)
- - date published: 2023-10-25T11:34:19.134811+00:00
- - user: None
- - tags: ['crowdfunding']
-
-## Max  FitzGerald  | Patreon
- - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
- - date published: 2023-10-27T15:07:52+00:00
- - user: rumpel
- - tags: ['tabletop games', 'turnip28']
-
-## Home · Patrick Collison
- - [https://patrickcollison.com](https://patrickcollison.com)
- - date published: 2023-10-25T08:47:23.257678+00:00
- - user: None
- - tags: ['personal']
-
-## Patrick Conway
- - [https://patrickconway.com](https://patrickconway.com)
- - date published: 2023-11-29T16:18:59.190945+00:00
- - user: None
- - tags: []
-
-## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
- - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
- - date published: 2023-12-21T08:24:19.074982+00:00
  - user: None
  - tags: []
 

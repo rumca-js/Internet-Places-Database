@@ -1,3 +1,39 @@
+## Inspirational Quotes at BrainyQuote
+ - [https://www.brainyquote.com](https://www.brainyquote.com)
+ - date published: 2023-11-28T20:14:37+00:00
+ - user: rumpel
+ - tags: ['quotes']
+
+## Brajeshwar
+ - [https://brajeshwar.com](https://brajeshwar.com)
+ - date published: 2024-01-25T16:12:24.177731+00:00
+ - user: None
+ - tags: []
+
+## Coding – Software is hard
+ - [https://blog.brakmic.com](https://blog.brakmic.com)
+ - date published: 2023-10-25T13:10:31.279948+00:00
+ - user: None
+ - tags: []
+
+## Bram’s Thoughts | Bram Cohen | Substack
+ - [https://bramcohen.com](https://bramcohen.com)
+ - date published: 2023-12-13T23:14:28.783742+00:00
+ - user: None
+ - tags: []
+
+## Branam: Custom Theatrical Rigging and Rentals
+ - [https://www.branament.com](https://www.branament.com)
+ - date published: 2024-02-08T17:47:53.412343+00:00
+ - user: None
+ - tags: []
+
+## Brandingmag | Narrating the discussion
+ - [https://www.brandingmag.com](https://www.brandingmag.com)
+ - date published: 2023-10-25T13:10:37.084055+00:00
+ - user: None
+ - tags: []
+
 ## Brand New Box - Home Page
  - [https://brandnewbox.com](https://brandnewbox.com)
  - date published: 2023-10-25T13:10:40.871105+00:00
@@ -495,6 +531,12 @@
  - date published: 2023-10-25T09:19:33.479733+00:00
  - user: None
  - tags: ['personal']
+
+## Bryan Maniotakis - Product designer
+ - [https://bryanmanio.com](https://bryanmanio.com)
+ - date published: 2024-02-19T10:37:12.116019+00:00
+ - user: None
+ - tags: []
 
 ## Bryan Teare
  - [https://bryanteare.com](https://bryanteare.com)
@@ -5854,6 +5896,12 @@
  - user: None
  - tags: []
 
+## Dans Blog
+ - [https://www.dantleech.com](https://www.dantleech.com)
+ - date published: 2024-02-19T11:41:38.034298+00:00
+ - user: None
+ - tags: []
+
 ## https://danwilkerson.com
  - [https://danwilkerson.com](https://danwilkerson.com)
  - date published: 2024-01-09T02:33:49.807719+00:00
@@ -5953,54 +6001,6 @@
 ## Darren Aronofsky
  - [https://www.darrenaronofsky.com](https://www.darrenaronofsky.com)
  - date published: 2024-01-09T02:34:00.135149+00:00
- - user: None
- - tags: []
-
-## Darren Nathanael
- - [https://blog.darrennathanael.com](https://blog.darrennathanael.com)
- - date published: 2024-02-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Daryl Cook | Home
- - [https://darylcook.com](https://darylcook.com)
- - date published: 2024-01-04T03:34:09.104755+00:00
- - user: None
- - tags: []
-
-## Data Science Project – Becoming a Data Scientist
- - [https://data-science-project.com](https://data-science-project.com)
- - date published: 2023-12-13T11:23:39.553811+00:00
- - user: None
- - tags: []
-
-## Free Online Database Diagram Tool
- - [https://databasediagram.com](https://databasediagram.com)
- - date published: 2023-10-25T13:43:28.543960+00:00
- - user: None
- - tags: []
-
-## Data Lakehouse Architecture and AI Company | Databricks
- - [https://www.databricks.com](https://www.databricks.com)
- - date published: 2023-10-25T13:43:30.770115+00:00
- - user: None
- - tags: []
-
-## Data center industry news, analysis and opinion - DCD
- - [https://www.datacenterdynamics.com](https://www.datacenterdynamics.com)
- - date published: 2023-10-25T09:32:36.241535+00:00
- - user: None
- - tags: []
-
-## Data Demythed
- - [https://datademythed.com](https://datademythed.com)
- - date published: 2023-10-25T13:43:38.710464+00:00
- - user: None
- - tags: []
-
-## DRUIDS by Datadog
- - [https://druids.datadoghq.com](https://druids.datadoghq.com)
- - date published: 2023-10-25T13:43:41.490095+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,111 @@
+## Chamath Palihapitiya | Substack
+ - [https://chamathreads.substack.com](https://chamathreads.substack.com)
+ - date published: 2023-10-25T09:44:47.316484+00:00
+ - user: None
+ - tags: ['substack']
+
+## Charles Eisenstein | Substack
+ - [https://charleseisenstein.substack.com](https://charleseisenstein.substack.com)
+ - date published: 2024-01-09T01:38:26.098409+00:00
+ - user: None
+ - tags: []
+
+## Castles in the Sky | Charlie Becker | Substack
+ - [https://charliebecker.substack.com](https://charliebecker.substack.com)
+ - date published: 2024-01-09T01:38:28.560827+00:00
+ - user: None
+ - tags: []
+
+## Chipmonk Meditations | Chris Lakin | Substack
+ - [https://chipmonk.substack.com](https://chipmonk.substack.com)
+ - date published: 2023-11-27T04:46:41.596650+00:00
+ - user: None
+ - tags: []
+
+## Chris’s Substack | Chris Prophet | Substack
+ - [https://chrisprophet.substack.com](https://chrisprophet.substack.com)
+ - date published: 2023-10-25T09:45:06.416073+00:00
+ - user: None
+ - tags: ['substack']
+
+## Cintra Wilson Feels Your Pain  | Substack
+ - [https://cintra.substack.com](https://cintra.substack.com)
+ - date published: 2023-10-25T09:45:10.409537+00:00
+ - user: None
+ - tags: ['substack']
+
+## Classical Wisdom | Substack
+ - [https://classicalwisdom.substack.com](https://classicalwisdom.substack.com)
+ - date published: 2024-01-09T01:38:33.101373+00:00
+ - user: None
+ - tags: []
+
+## Climateer | Steve | Substack
+ - [https://climateer.substack.com](https://climateer.substack.com)
+ - date published: 2024-01-09T01:38:40.459420+00:00
+ - user: None
+ - tags: []
+
+## Cloud Native Engineer | Giuseppe Santoro | Substack
+ - [https://cloudnativeengineer.substack.com](https://cloudnativeengineer.substack.com)
+ - date published: 2024-01-09T01:38:43.991719+00:00
+ - user: None
+ - tags: []
+
+## Confessions of a Code Addict | Abhinav Upadhyay | Substack
+ - [https://codeconfessions.substack.com](https://codeconfessions.substack.com)
+ - date published: 2023-10-25T09:45:27.076430+00:00
+ - user: None
+ - tags: ['substack']
+
+## Code Solo | Yanis | Substack
+ - [https://codesolo.substack.com](https://codesolo.substack.com)
+ - date published: 2023-10-25T09:45:28.678536+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Cognitive Revolution | Substack
+ - [https://cognitiverevolution.substack.com](https://cognitiverevolution.substack.com)
+ - date published: 2023-10-25T09:45:30.818465+00:00
+ - user: None
+ - tags: ['substack']
+
+## coldhealing | Substack
+ - [https://coldhealing.substack.com](https://coldhealing.substack.com)
+ - date published: 2024-01-09T01:38:46.916972+00:00
+ - user: None
+ - tags: []
+
+## Retrieve and Generate | Colin Harman | Substack
+ - [https://colinharman.substack.com](https://colinharman.substack.com)
+ - date published: 2023-10-25T09:45:35.919003+00:00
+ - user: None
+ - tags: ['substack']
+
+## Colin Meloy's Machine Shop | Substack
+ - [https://colinmeloy.substack.com](https://colinmeloy.substack.com)
+ - date published: 2024-01-09T01:38:49.317767+00:00
+ - user: None
+ - tags: []
+
+## Computer Ads from the Past | John Paul Wohlscheid | Substack
+ - [https://computeradsfromthepast.substack.com](https://computeradsfromthepast.substack.com)
+ - date published: 2024-01-09T01:38:51.718499+00:00
+ - user: None
+ - tags: []
+
+## Console by CodeSee.io | Ana Mogul | Substack
+ - [https://console.substack.com](https://console.substack.com)
+ - date published: 2023-10-25T09:45:46.563026+00:00
+ - user: None
+ - tags: ['substack']
+
+## Construction Physics | Brian Potter | Substack
+ - [https://constructionphysics.substack.com](https://constructionphysics.substack.com)
+ - date published: 2023-10-25T09:45:48.661751+00:00
+ - user: None
+ - tags: ['substack']
+
 ## Cosmos Institute | Substack
  - [https://cosmosinstitute.substack.com](https://cosmosinstitute.substack.com)
  - date published: 2024-01-07T21:32:09.636395+00:00
@@ -2305,6 +2413,12 @@
 ## Leading Developers | Anton Zaides | Substack
  - [https://zaidesanton.substack.com](https://zaidesanton.substack.com)
  - date published: 2024-01-01T18:35:56.304888+00:00
+ - user: None
+ - tags: []
+
+## Insight Axis | Zan Tafakari | Substack
+ - [https://zantafakari.substack.com](https://zantafakari.substack.com)
+ - date published: 2024-01-28T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5882,121 +5996,6 @@
 ## Technical ramblings on Elixir, Ruby, Dev/Ops & code in general.
  - [https://thibautbarrere.com](https://thibautbarrere.com)
  - date published: 2023-10-25T17:40:30.637246+00:00
- - user: None
- - tags: []
-
-## Home - Through the Looking Glass
- - [https://www.thief-thecircle.com](https://www.thief-thecircle.com)
- - date published: 2024-01-09T02:51:20.821091+00:00
- - user: None
- - tags: []
-
-## THIEVERY CORPORATION
- - [https://thieverycorporation.com](https://thieverycorporation.com)
- - date published: 2024-01-12T00:00:00+00:00
- - user: rumpel
- - tags: ['music band']
-
-## Jamie Thingelstad
- - [https://www.thingelstad.com](https://www.thingelstad.com)
- - date published: 2023-12-30T05:22:50.017517+00:00
- - user: None
- - tags: []
-
-## Thingiverse - Digital Designs for Physical Objects
- - [https://www.thingiverse.com](https://www.thingiverse.com)
- - date published: 2023-10-25T08:29:55.121392+00:00
- - user: None
- - tags: ['3d printing', 'assets models']
-
-## Investment News & Analysis for Financial Advisors | ThinkAdvisor
- - [https://www.thinkadvisor.com](https://www.thinkadvisor.com)
- - date published: 2023-10-25T17:40:33.056700+00:00
- - user: None
- - tags: []
-
-## Thinking Elixir Podcast
- - [https://podcast.thinkingelixir.com](https://podcast.thinkingelixir.com)
- - date published: 2023-10-25T17:40:34.591140+00:00
- - user: None
- - tags: []
-
-## ThinkPenguin.com | Penguin Laptops, Desktops, and Accessories with Linux & GNU Support
- - [https://www.thinkpenguin.com](https://www.thinkpenguin.com)
- - date published: 2023-10-25T17:40:36.061061+00:00
- - user: None
- - tags: []
-
-## Thinkst Thoughts – Writing about our experiences and research findings
- - [https://blog.thinkst.com](https://blog.thinkst.com)
- - date published: 2023-10-25T17:40:38.116838+00:00
- - user: None
- - tags: []
-
-## This Builds Character
- - [https://thisbuildscharacter.com](https://thisbuildscharacter.com)
- - date published: 2023-11-29T15:44:15.550502+00:00
- - user: None
- - tags: []
-
-## Colossal — The best of art, craft, and visual culture since 2010.
- - [https://www.thisiscolossal.com](https://www.thisiscolossal.com)
- - date published: 2023-10-25T17:40:43.687554+00:00
- - user: None
- - tags: []
-
-## A Message From Appy McSqurriel - CEO of Instacart
- - [https://thislayoffdoesnotexist.com](https://thislayoffdoesnotexist.com)
- - date published: 2023-10-25T17:40:44.509468+00:00
- - user: None
- - tags: []
-
-## https://thispersondoesnotexist.com
- - [https://thispersondoesnotexist.com](https://thispersondoesnotexist.com)
- - date published: 2024-01-09T02:51:24.601655+00:00
- - user: None
- - tags: []
-
-## ThisShirtExists.com
- - [https://www.thisshirtexists.com](https://www.thisshirtexists.com)
- - date published: 2023-10-25T17:40:47.727593+00:00
- - user: None
- - tags: []
-
-## This to That (Glue Advice)
- - [https://www.thistothat.com](https://www.thistothat.com)
- - date published: 2023-10-25T17:40:49.441634+00:00
- - user: None
- - tags: []
-
-## This Week in Photo - TWiP!
- - [https://thisweekinphoto.com](https://thisweekinphoto.com)
- - date published: 2023-10-25T17:40:52.816665+00:00
- - user: None
- - tags: []
-
-## This Word Does Not Exist
- - [https://www.thisworddoesnotexist.com](https://www.thisworddoesnotexist.com)
- - date published: 2023-10-25T17:40:53.508532+00:00
- - user: None
- - tags: []
-
-## This X Does Not Exist
- - [https://thisxdoesnotexist.com](https://thisxdoesnotexist.com)
- - date published: 2023-10-25T17:40:54.847728+00:00
- - user: None
- - tags: []
-
-## Home
-     · thmsmlr
- - [https://thmsmlr.com](https://thmsmlr.com)
- - date published: 2023-10-30T05:12:33.920219+00:00
- - user: None
- - tags: []
-
-## thodoris markou
- - [https://thodorismarkou.com](https://thodorismarkou.com)
- - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 

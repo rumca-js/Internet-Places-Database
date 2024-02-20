@@ -1,3 +1,171 @@
+## Econofact
+ - [https://econofact.org](https://econofact.org)
+ - date published: 2023-10-25T21:16:17.972710+00:00
+ - user: None
+ - tags: []
+
+## https://simplecast.econtalk.org
+ - [https://simplecast.econtalk.org](https://simplecast.econtalk.org)
+ - date published: 2024-01-09T03:39:26.620734+00:00
+ - user: None
+ - tags: []
+
+## EcoRenovator.org — Diy, Green, Home Improvements, Energy Efficiency
+ - [https://ecorenovator.org](https://ecorenovator.org)
+ - date published: 2023-10-25T21:16:25.962788+00:00
+ - user: None
+ - tags: []
+
+## Ecstatic Integration | Jules Evans | Substack
+ - [https://www.ecstaticintegration.org](https://www.ecstaticintegration.org)
+ - date published: 2023-10-25T21:16:29.105749+00:00
+ - user: None
+ - tags: []
+
+## Ed's Nike Missile Web Site
+ - [https://ed-thelen.org](https://ed-thelen.org)
+ - date published: 2023-12-03T06:18:05.806409+00:00
+ - user: None
+ - tags: []
+
+## Ed's Nike Missile Web Site
+ - [https://www.ed-thelen.org](https://www.ed-thelen.org)
+ - date published: 2023-12-03T05:38:04.247574+00:00
+ - user: None
+ - tags: []
+
+## EDE - light and fast desktop environment
+ - [https://edeproject.org](https://edeproject.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Edge.org
+ - [https://www.edge.org](https://www.edge.org)
+ - date published: 2023-10-25T21:16:31.469598+00:00
+ - user: None
+ - tags: []
+
+## European Digital Rights (EDRi)
+ - [https://edri.org](https://edri.org)
+ - date published: 2023-10-25T21:16:34.020264+00:00
+ - user: None
+ - tags: []
+
+## Covering education in California and beyond | EdSource
+ - [https://edsource.org](https://edsource.org)
+ - date published: 2023-10-25T21:16:39.216605+00:00
+ - user: None
+ - tags: []
+
+## Educated Guesswork
+ - [https://educatedguesswork.org](https://educatedguesswork.org)
+ - date published: 2023-10-25T21:16:41.328615+00:00
+ - user: None
+ - tags: []
+
+## Education Next - A Journal of Opinion and Research About Education Policy
+ - [https://www.educationnext.org](https://www.educationnext.org)
+ - date published: 2023-10-25T21:16:46.987080+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.edutopia.org](https://www.edutopia.org)
+ - date published: 2023-11-13T12:55:19.508453+00:00
+ - user: None
+ - tags: []
+
+## Test browser for web tracking – EFF
+ - [https://coveryourtracks.eff.org](https://coveryourtracks.eff.org)
+ - date published: 2023-11-05T20:31:06+00:00
+ - user: None
+ - tags: []
+
+## Electronic Frontier Foundation | Defending your rights in the digital world
+ - [https://www.eff.org](https://www.eff.org)
+ - date published: 2023-10-25T09:27:01.838372+00:00
+ - user: None
+ - tags: ['digital rights', 'free speech', 'civil liberties']
+
+## Effective Altruism Forum
+ - [https://forum.effectivealtruism.org](https://forum.effectivealtruism.org)
+ - date published: 2023-10-25T21:16:59.215662+00:00
+ - user: None
+ - tags: []
+
+## The Egison Programming Language
+ - [https://www.egison.org](https://www.egison.org)
+ - date published: 2023-10-25T21:17:02.744731+00:00
+ - user: None
+ - tags: []
+
+## EHN
+ - [https://www.ehn.org](https://www.ehn.org)
+ - date published: 2023-11-04T15:28:12.775152+00:00
+ - user: None
+ - tags: []
+
+## EU proposes to take control of web browser root certificates (open letter)
+ - [https://eidas-open-letter.org](https://eidas-open-letter.org)
+ - date published: 2023-11-03T11:08:42+00:00
+ - user: None
+ - tags: []
+
+## Home - Economic Innovation Group
+ - [https://eig.org](https://eig.org)
+ - date published: 2023-10-25T21:17:07.746023+00:00
+ - user: None
+ - tags: []
+
+## Main Index (eighty-twenty news)
+ - [https://eighty-twenty.org](https://eighty-twenty.org)
+ - date published: 2023-10-25T21:17:10.228233+00:00
+ - user: None
+ - tags: []
+
+## Peter Eisentraut | Peter Eisentraut’s blog
+ - [https://peter.eisentraut.org](https://peter.eisentraut.org)
+ - date published: 2023-10-25T21:17:12.533774+00:00
+ - user: None
+ - tags: []
+
+## https://eklitzke.org
+ - [https://eklitzke.org](https://eklitzke.org)
+ - date published: 2023-10-25T21:17:15.981137+00:00
+ - user: None
+ - tags: []
+
+## Title | There is so much pleasure to be gained from useless knowledge !  B. Russell
+ - [https://www.elbruz.org](https://www.elbruz.org)
+ - date published: 2023-10-25T21:17:18.766800+00:00
+ - user: None
+ - tags: []
+
+## Latest research | eLife
+ - [https://elifesciences.org](https://elifesciences.org)
+ - date published: 2023-10-25T21:17:23.164782+00:00
+ - user: None
+ - tags: []
+
+## eLinux.org
+ - [https://elinux.org](https://elinux.org)
+ - date published: 2023-10-25T21:17:26.630312+00:00
+ - user: None
+ - tags: []
+
+## elixir-lang.github.com
+ - [https://elixir-lang.org](https://elixir-lang.org)
+ - date published: 2023-10-25T08:35:12.152981+00:00
+ - user: None
+ - tags: []
+
+## ELM by ChaN
+ - [http://elm-chan.org](http://elm-chan.org)
+ - date published: 2023-10-25T21:17:29.697589+00:00
+ - user: None
+ - tags: []
+
 ## home
  - [https://elm-lang.org](https://elm-lang.org)
  - date published: 2023-10-25T21:17:32.410731+00:00
@@ -5840,172 +6008,4 @@ Common Weakness Enumeration
  - date published: 2024-03-06T00:00:00+00:00
  - user: None
  - tags: ['internet', 'community']
-
-## https://open5gs.org
- - [https://open5gs.org](https://open5gs.org)
- - date published: 2024-01-09T03:41:52.757713+00:00
- - user: None
- - tags: []
-
-## Open Access Government | Government | Health & Social Care | Research
- - [https://www.openaccessgovernment.org](https://www.openaccessgovernment.org)
- - date published: 2023-10-25T21:52:23.443094+00:00
- - user: None
- - tags: []
-
-## https://openairportmap.org
- - [https://openairportmap.org](https://openairportmap.org)
- - date published: 2024-01-09T01:36:33.820775+00:00
- - user: None
- - tags: []
-
-## Open Amiga - Projects
- - [http://openamiga.org](http://openamiga.org)
- - date published: 2023-12-11T17:26:39.841158+00:00
- - user: None
- - tags: []
-
-## https://code.openark.org
- - [https://code.openark.org](https://code.openark.org)
- - date published: 2024-01-09T03:41:53.810750+00:00
- - user: None
- - tags: []
-
-## OpenBSD
- - [https://www.openbsd.org](https://www.openbsd.org)
- - date published: 2023-10-25T21:52:26.569830+00:00
- - user: None
- - tags: []
-
-## Open Compute Project
- - [https://www.opencompute.org](https://www.opencompute.org)
- - date published: 2023-10-27T12:06:56.023487+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://opencv.org](https://opencv.org)
- - date published: 2023-11-27T11:43:39.740043+00:00
- - user: None
- - tags: ['facial recognition', 'artificial intelligence', 'computer vision', 'machine learning']
-
-## OpenDev: Free Software Needs Free Tools
- - [https://opendev.org](https://opendev.org)
- - date published: 2024-01-09T18:46:37.291647+00:00
- - user: None
- - tags: []
-
-## Open Doors International
- - [https://www.opendoors.org](https://www.opendoors.org)
- - date published: 2024-01-21T18:23:21+00:00
- - user: rumpel
- - tags: ['christioanophobia', 'percecution']
-
-## Home | OpenEnergyMonitor
- - [https://openenergymonitor.org](https://openenergymonitor.org)
- - date published: 2023-10-25T21:52:27.669344+00:00
- - user: None
- - tags: []
-
-## Open Graph protocol
- - [https://opengraphprotocol.org](https://opengraphprotocol.org)
- - date published: 2023-12-18T17:10:32.441946+00:00
- - user: None
- - tags: []
-
-## openHAB
- - [https://www.openhab.org](https://www.openhab.org)
- - date published: 2024-02-06T08:30:21+00:00
- - user: rumpel
- - tags: ['smart home']
-
-## OpenIndiana Illumos Distro
- - [https://www.openindiana.org](https://www.openindiana.org)
- - date published: 2024-01-02T21:51:54+00:00
- - user: None
- - tags: []
-
-## Open Infrastructure Map
- - [https://openinframap.org](https://openinframap.org)
- - date published: 2024-01-23T21:20:39.960285+00:00
- - user: None
- - tags: []
-
-## System Dashboard - Java Bug System
- - [https://bugs.openjdk.org](https://bugs.openjdk.org)
- - date published: 2023-10-25T21:52:29.217064+00:00
- - user: None
- - tags: []
-
-## cr.openjdk.org Server
- - [https://cr.openjdk.org](https://cr.openjdk.org)
- - date published: 2023-10-25T21:52:36.509765+00:00
- - user: None
- - tags: []
-
-## mail.openjdk.org Mailing Lists
- - [https://mail.openjdk.org](https://mail.openjdk.org)
- - date published: 2023-10-25T21:52:40.582021+00:00
- - user: None
- - tags: []
-
-## OpenJDK
- - [https://openjdk.org](https://openjdk.org)
- - date published: 2023-10-25T08:36:58.066021+00:00
- - user: None
- - tags: ['open source', 'java']
-
-## Welcome to Open Library | Open Library
- - [https://openlibrary.org](https://openlibrary.org)
- - date published: 2023-10-25T09:29:24.655304+00:00
- - user: None
- - tags: []
-
-## AI Ethics and Trustworthy Language Modeling - OpenLSR
- - [https://openlsr.org](https://openlsr.org)
- - date published: 2023-10-25T21:52:42.100852+00:00
- - user: None
- - tags: []
-
-## Home - Open Mainframe Project
- - [https://www.openmainframeproject.org](https://www.openmainframeproject.org)
- - date published: 2023-10-25T21:52:55.287205+00:00
- - user: None
- - tags: []
-
-## Open Markets Institute
- - [https://www.openmarketsinstitute.org](https://www.openmarketsinstitute.org)
- - date published: 2024-01-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## openmediavault - The open network attached storage solution
- - [https://www.openmediavault.org](https://www.openmediavault.org)
- - date published: 2023-10-25T08:35:04.416698+00:00
- - user: None
- - tags: []
-
-## Home - Open MKT
- - [https://openmkt.org](https://openmkt.org)
- - date published: 2023-10-25T21:52:57.063348+00:00
- - user: None
- - tags: []
-
-## MoonRay Production Renderer
- - [https://openmoonray.org](https://openmoonray.org)
- - date published: 2023-10-25T21:52:57.993654+00:00
- - user: None
- - tags: []
-
-## OpenMPT - Discover the music inside... | OpenMPT - Open ModPlug Tracker
- - [https://openmpt.org](https://openmpt.org)
- - date published: 2023-10-25T21:52:59.935278+00:00
- - user: None
- - tags: ['music tracker', 'open source']
-
-## OpenMW
- - [https://openmw.org](https://openmw.org)
- - date published: 2023-10-29T10:00:57.928021+00:00
- - user: None
- - tags: ['morrowind', 'open source', 'the elder scrolls']
 

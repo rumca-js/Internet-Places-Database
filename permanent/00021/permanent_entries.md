@@ -1,3 +1,171 @@
+## https://open5gs.org
+ - [https://open5gs.org](https://open5gs.org)
+ - date published: 2024-01-09T03:41:52.757713+00:00
+ - user: None
+ - tags: []
+
+## Open Access Government | Government | Health & Social Care | Research
+ - [https://www.openaccessgovernment.org](https://www.openaccessgovernment.org)
+ - date published: 2023-10-25T21:52:23.443094+00:00
+ - user: None
+ - tags: []
+
+## https://openairportmap.org
+ - [https://openairportmap.org](https://openairportmap.org)
+ - date published: 2024-01-09T01:36:33.820775+00:00
+ - user: None
+ - tags: []
+
+## Open Amiga - Projects
+ - [http://openamiga.org](http://openamiga.org)
+ - date published: 2023-12-11T17:26:39.841158+00:00
+ - user: None
+ - tags: []
+
+## https://code.openark.org
+ - [https://code.openark.org](https://code.openark.org)
+ - date published: 2024-01-09T03:41:53.810750+00:00
+ - user: None
+ - tags: []
+
+## OpenBSD
+ - [https://www.openbsd.org](https://www.openbsd.org)
+ - date published: 2023-10-25T21:52:26.569830+00:00
+ - user: None
+ - tags: []
+
+## Open Compute Project
+ - [https://www.opencompute.org](https://www.opencompute.org)
+ - date published: 2023-10-27T12:06:56.023487+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://opencv.org](https://opencv.org)
+ - date published: 2023-11-27T11:43:39.740043+00:00
+ - user: None
+ - tags: ['facial recognition', 'artificial intelligence', 'computer vision', 'machine learning']
+
+## OpenDev: Free Software Needs Free Tools
+ - [https://opendev.org](https://opendev.org)
+ - date published: 2024-01-09T18:46:37.291647+00:00
+ - user: None
+ - tags: []
+
+## Open Doors International
+ - [https://www.opendoors.org](https://www.opendoors.org)
+ - date published: 2024-01-21T18:23:21+00:00
+ - user: rumpel
+ - tags: ['christioanophobia', 'percecution']
+
+## Home | OpenEnergyMonitor
+ - [https://openenergymonitor.org](https://openenergymonitor.org)
+ - date published: 2023-10-25T21:52:27.669344+00:00
+ - user: None
+ - tags: []
+
+## Open Graph protocol
+ - [https://opengraphprotocol.org](https://opengraphprotocol.org)
+ - date published: 2023-12-18T17:10:32.441946+00:00
+ - user: None
+ - tags: []
+
+## openHAB
+ - [https://www.openhab.org](https://www.openhab.org)
+ - date published: 2024-02-06T08:30:21+00:00
+ - user: rumpel
+ - tags: ['smart home']
+
+## OpenIndiana Illumos Distro
+ - [https://www.openindiana.org](https://www.openindiana.org)
+ - date published: 2024-01-02T21:51:54+00:00
+ - user: None
+ - tags: []
+
+## Open Infrastructure Map
+ - [https://openinframap.org](https://openinframap.org)
+ - date published: 2024-01-23T21:20:39.960285+00:00
+ - user: None
+ - tags: []
+
+## System Dashboard - Java Bug System
+ - [https://bugs.openjdk.org](https://bugs.openjdk.org)
+ - date published: 2023-10-25T21:52:29.217064+00:00
+ - user: None
+ - tags: []
+
+## cr.openjdk.org Server
+ - [https://cr.openjdk.org](https://cr.openjdk.org)
+ - date published: 2023-10-25T21:52:36.509765+00:00
+ - user: None
+ - tags: []
+
+## mail.openjdk.org Mailing Lists
+ - [https://mail.openjdk.org](https://mail.openjdk.org)
+ - date published: 2023-10-25T21:52:40.582021+00:00
+ - user: None
+ - tags: []
+
+## OpenJDK
+ - [https://openjdk.org](https://openjdk.org)
+ - date published: 2023-10-25T08:36:58.066021+00:00
+ - user: None
+ - tags: ['open source', 'java']
+
+## Welcome to Open Library | Open Library
+ - [https://openlibrary.org](https://openlibrary.org)
+ - date published: 2023-10-25T09:29:24.655304+00:00
+ - user: None
+ - tags: []
+
+## AI Ethics and Trustworthy Language Modeling - OpenLSR
+ - [https://openlsr.org](https://openlsr.org)
+ - date published: 2023-10-25T21:52:42.100852+00:00
+ - user: None
+ - tags: []
+
+## Home - Open Mainframe Project
+ - [https://www.openmainframeproject.org](https://www.openmainframeproject.org)
+ - date published: 2023-10-25T21:52:55.287205+00:00
+ - user: None
+ - tags: []
+
+## Open Markets Institute
+ - [https://www.openmarketsinstitute.org](https://www.openmarketsinstitute.org)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## openmediavault - The open network attached storage solution
+ - [https://www.openmediavault.org](https://www.openmediavault.org)
+ - date published: 2023-10-25T08:35:04.416698+00:00
+ - user: None
+ - tags: []
+
+## Home - Open MKT
+ - [https://openmkt.org](https://openmkt.org)
+ - date published: 2023-10-25T21:52:57.063348+00:00
+ - user: None
+ - tags: []
+
+## MoonRay Production Renderer
+ - [https://openmoonray.org](https://openmoonray.org)
+ - date published: 2023-10-25T21:52:57.993654+00:00
+ - user: None
+ - tags: []
+
+## OpenMPT - Discover the music inside... | OpenMPT - Open ModPlug Tracker
+ - [https://openmpt.org](https://openmpt.org)
+ - date published: 2023-10-25T21:52:59.935278+00:00
+ - user: None
+ - tags: ['music tracker', 'open source']
+
+## OpenMW
+ - [https://openmw.org](https://openmw.org)
+ - date published: 2023-10-29T10:00:57.928021+00:00
+ - user: None
+ - tags: ['morrowind', 'open source', 'the elder scrolls']
+
 ## OpenProcessing - Creative Coding for the Curious Mind
  - [https://openprocessing.org](https://openprocessing.org)
  - date published: 2023-10-25T21:53:01.379367+00:00
@@ -1085,6 +1253,12 @@
  - user: None
  - tags: []
 
+## Curated list of awesome lists | Project-Awesome.org
+ - [https://project-awesome.org](https://project-awesome.org)
+ - date published: 2024-02-19T00:21:44.522533+00:00
+ - user: None
+ - tags: []
+
 ## Project Mage
  - [https://project-mage.org](https://project-mage.org)
  - date published: 2023-10-25T22:00:01.550908+00:00
@@ -1760,6 +1934,12 @@
 ## Home
  - [http://www.rigb.org](http://www.rigb.org)
  - date published: 2024-01-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Termination of Transfer
+ - [https://rightsback.org](https://rightsback.org)
+ - date published: 2024-02-19T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2742,6 +2922,12 @@
  - tags: []
 
 ## Slashdot: News for nerds, stuff that matters
+ - [https://mobile.slashdot.org](https://mobile.slashdot.org)
+ - date published: 2024-02-19T22:08:25.184114+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
  - [https://news.slashdot.org](https://news.slashdot.org)
  - date published: 2023-10-25T22:09:10.967180+00:00
  - user: None
@@ -3166,6 +3352,12 @@
 ## The Conference for High Performance Computing, Networking, Storage, Analysis
  - [https://sc23.supercomputing.org](https://sc23.supercomputing.org)
  - date published: 2023-11-12T17:50:37+00:00
+ - user: None
+ - tags: []
+
+## The Sushi Chronicles
+ - [https://sushichronicles.org](https://sushichronicles.org)
+ - date published: 2024-02-19T14:01:41.235268+00:00
  - user: None
  - tags: []
 
@@ -5727,6 +5919,12 @@ Zig Programming Language
  - user: None
  - tags: []
 
+## Daudix
+ - [https://daudix.codeberg.page](https://daudix.codeberg.page)
+ - date published: 2024-02-19T16:27:09.697563+00:00
+ - user: None
+ - tags: []
+
 ## Jean G3nie
  - [https://jeang3nie.codeberg.page](https://jeang3nie.codeberg.page)
  - date published: 2023-10-25T22:24:18.487570+00:00
@@ -5804,203 +6002,4 @@ Zig Programming Language
  - date published: 2024-02-06T21:45:59.502425+00:00
  - user: None
  - tags: []
-
-## Postcard
- - [https://postcard.page](https://postcard.page)
- - date published: 2023-10-25T22:24:37.222590+00:00
- - user: None
- - tags: []
-
-## Buffer
- - [https://buffer.start.page](https://buffer.start.page)
- - date published: 2023-11-19T15:19:04.082607+00:00
- - user: None
- - tags: []
-
-## Superfunctions - Ai Prompts as a service
- - [https://superfunctions.versoly.page](https://superfunctions.versoly.page)
- - date published: 2023-10-25T22:24:38.792551+00:00
- - user: None
- - tags: []
-
-## benoit.paris
- - [https://benoit.paris](https://benoit.paris)
- - date published: 2023-10-25T22:24:39.468739+00:00
- - user: None
- - tags: []
-
-## La tour Eiffel, Site OFFICIEL : billets, infos, actualité....
- - [https://www.toureiffel.paris](https://www.toureiffel.paris)
- - date published: 2023-10-25T22:24:41.407683+00:00
- - user: None
- - tags: []
-
-## Next Wave Partners | Venture Studio | Growth Accelerator | Innovation Lab
- - [https://nextwave.partners](https://nextwave.partners)
- - date published: 2023-10-25T22:24:43.531032+00:00
- - user: None
- - tags: []
-
-## Engine Simulator
- - [https://www.engine-sim.parts](https://www.engine-sim.parts)
- - date published: 2023-10-25T22:24:44.453129+00:00
- - user: None
- - tags: []
-
-## Human Chess - chess variant where playing the top engine move
-is forbidden
- - [https://humanchess.abcd.party](https://humanchess.abcd.party)
- - date published: 2023-10-25T22:24:44.942470+00:00
- - user: None
- - tags: []
-
-## Show HN: A Dalle-3 and GPT4-Vision feedback loop
- - [https://dalle.party](https://dalle.party)
- - date published: 2023-11-27T14:18:24+00:00
- - user: None
- - tags: []
-
-## Tiny Code Christmas
- - [https://tcc.lovebyte.party](https://tcc.lovebyte.party)
- - date published: 2023-10-25T22:24:45.776384+00:00
- - user: None
- - tags: []
-
-## Matthew Pope
- - [https://mattpo.pe](https://mattpo.pe)
- - date published: 2023-10-25T22:24:47.280695+00:00
- - user: None
- - tags: []
-
-## BusinessMirror | BusinessMirror
- - [https://businessmirror.com.ph](https://businessmirror.com.ph)
- - date published: 2024-02-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Daily Tribune
- - [https://tribune.net.ph](https://tribune.net.ph)
- - date published: 2023-12-16T10:37:57.398069+00:00
- - user: None
- - tags: []
-
-## Internet Archive
- - [https://archive.ph](https://archive.ph)
- - date published: 2023-11-13T12:03:03+00:00
- - user: rumpel
- - tags: ['internet archive']
-
-## Telegraph
- - [https://telegra.ph](https://telegra.ph)
- - date published: 2023-10-25T22:24:48.190795+00:00
- - user: None
- - tags: []
-
-## https://ansel.photos/en/
- - [https://ansel.photos](https://ansel.photos)
- - date published: 2023-11-25T12:28:56.428069+00:00
- - user: None
- - tags: []
-
-## Generated Photos | Unique, worry-free model photos
- - [https://generated.photos](https://generated.photos)
- - date published: 2023-10-25T22:24:50.468939+00:00
- - user: None
- - tags: []
-
-## Show HN: AnyText AI – Multilingual text generation and editing tool
- - [https://anytext.pics](https://anytext.pics)
- - date published: 2024-01-07T15:38:08+00:00
- - user: None
- - tags: []
-
-## None
- - [https://commit.pizza](https://commit.pizza)
- - date published: 2024-01-09T03:43:23.556943+00:00
- - user: None
- - tags: []
-
-## Daniël van der Winden • Product Designer, Writer
- - [https://www.daniel.pizza](https://www.daniel.pizza)
- - date published: 2024-01-05T16:52:00.190425+00:00
- - user: None
- - tags: []
-
-## None
- - [https://ptv-news.com.pk](https://ptv-news.com.pk)
- - date published: 2024-01-09T03:43:33.649877+00:00
- - user: None
- - tags: []
-
-## Portal-Attendence
- - [https://cms.cust.edu.pk](https://cms.cust.edu.pk)
- - date published: 2024-02-08T22:15:51.370802+00:00
- - user: None
- - tags: []
-
-## Karachi School of Business and Leadership. KSBL - Karachi School of Business & Leadership
- - [https://www.ksbl.edu.pk](https://www.ksbl.edu.pk)
- - date published: 2024-02-08T22:09:44.147353+00:00
- - user: None
- - tags: []
-
-## Dept. of International Relations, University of Karachi
- - [https://www.kuird.edu.pk](https://www.kuird.edu.pk)
- - date published: 2024-02-08T22:01:02.935002+00:00
- - user: None
- - tags: []
-
-## https://www.khyberpakhtunkhwa.gov.pk
- - [https://www.khyberpakhtunkhwa.gov.pk](https://www.khyberpakhtunkhwa.gov.pk)
- - date published: 2024-02-08T19:57:30.454155+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.pta.gov.pk](https://www.pta.gov.pk)
- - date published: 2024-01-09T03:43:44.494290+00:00
- - user: None
- - tags: []
-
-## ANDROID.COM.PL - społeczność entuzjastów technologii
- - [https://android.com.pl](https://android.com.pl)
- - date published: 2023-10-25T22:24:55+00:00
- - user: rumpel
- - tags: ['tech news']
-
-## Testy sprzętu hi-fi, hi-end i kina domowego. Porady, opinie, wykaz sklepów i dystrybutorów audiofilskich marek
- - [https://audio.com.pl](https://audio.com.pl)
- - date published: 2023-12-13T14:59:46.327809+00:00
- - user: None
- - tags: ['audio equipment', 'audio news']
-
-## Sklep Elektroniczny Botland - Sklep z Elektroniką
- - [https://botland.com.pl](https://botland.com.pl)
- - date published: 2023-10-25T11:16:01.784913+00:00
- - user: None
- - tags: ['electronic parts']
-
-## BrandMe CEO
- - [https://brandmeceo.businessinsider.com.pl](https://brandmeceo.businessinsider.com.pl)
- - date published: 2023-10-25T22:24:57.674006+00:00
- - user: None
- - tags: []
-
-## Business Insider Polska
- - [https://businessinsider.com.pl](https://businessinsider.com.pl)
- - date published: 2023-10-25T10:58:26.656129+00:00
- - user: None
- - tags: []
-
-## Elektronika Praktyczna | Serwis specjalistyczny o elektronice i technice
- - [https://ep.com.pl](https://ep.com.pl)
- - date published: 2023-12-13T14:59:33.501229+00:00
- - user: None
- - tags: ['electronics']
-
-## https://www.euro.com.pl
- - [https://www.euro.com.pl](https://www.euro.com.pl)
- - date published: 2023-10-24T20:17:32.488635+00:00
- - user: None
- - tags: ['electronics', 'shop']
 

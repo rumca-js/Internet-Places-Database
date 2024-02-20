@@ -1,3 +1,87 @@
+## Inpics Gadget Repair Services - InPics Solutions
+ - [https://patersontech.com](https://patersontech.com)
+ - date published: 2023-10-25T16:30:59.777009+00:00
+ - user: None
+ - tags: []
+
+## Pathfinder Infinite -
+ - [https://www.pathfinderinfinite.com](https://www.pathfinderinfinite.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['magazines', 'shop']
+
+## Path of Exile
+ - [https://www.pathofexile.com](https://www.pathofexile.com)
+ - date published: 2023-10-25T08:39:41.111324+00:00
+ - user: None
+ - tags: ['game']
+
+## Path-Sensitive
+ - [https://www.pathsensitive.com](https://www.pathsensitive.com)
+ - date published: 2023-10-25T16:31:04.472557+00:00
+ - user: None
+ - tags: []
+
+## PJK's Blog
+ - [https://www.patjk.com](https://www.patjk.com)
+ - date published: 2023-12-15T21:43:37.233324+00:00
+ - user: None
+ - tags: []
+
+## ~patmaddox: Home
+ - [https://patmaddox.com](https://patmaddox.com)
+ - date published: 2023-12-04T06:13:53.079304+00:00
+ - user: None
+ - tags: []
+
+## patorjk.com
+ - [https://patorjk.com](https://patorjk.com)
+ - date published: 2023-12-08T13:07:39+00:00
+ - user: rumpel
+ - tags: ['personal']
+
+## Patreon | News | Home
+ - [https://blog.patreon.com](https://blog.patreon.com)
+ - date published: 2023-10-25T11:32:44.994110+00:00
+ - user: None
+ - tags: []
+
+## Home — Patreon
+ - [https://patreon.com](https://patreon.com)
+ - date published: 2023-12-11T17:25:04.928912+00:00
+ - user: None
+ - tags: []
+
+## Home — Patreon
+ - [https://www.patreon.com](https://www.patreon.com)
+ - date published: 2023-10-25T11:34:19.134811+00:00
+ - user: None
+ - tags: ['crowdfunding']
+
+## Max  FitzGerald  | Patreon
+ - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
+ - date published: 2023-10-27T15:07:52+00:00
+ - user: rumpel
+ - tags: ['tabletop games', 'turnip28']
+
+## Home · Patrick Collison
+ - [https://patrickcollison.com](https://patrickcollison.com)
+ - date published: 2023-10-25T08:47:23.257678+00:00
+ - user: None
+ - tags: ['personal']
+
+## Patrick Conway
+ - [https://patrickconway.com](https://patrickconway.com)
+ - date published: 2023-11-29T16:18:59.190945+00:00
+ - user: None
+ - tags: []
+
+## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
+ - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
+ - date published: 2023-12-21T08:24:19.074982+00:00
+ - user: None
+ - tags: []
+
 ## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
  - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
  - date published: 2023-12-23T07:30:12.092026+00:00
@@ -3588,6 +3672,12 @@ More!
  - user: None
  - tags: []
 
+## Show HN: RAM Prices
+ - [https://ramstickprices.com](https://ramstickprices.com)
+ - date published: 2024-02-19T02:39:12+00:00
+ - user: None
+ - tags: []
+
 ## Innovate Everywhere
  - [https://www.rancher.com](https://www.rancher.com)
  - date published: 2023-11-01T08:43:01.849335+00:00
@@ -5915,94 +6005,4 @@ More!
  - date published: 2023-10-25T16:54:52.043447+00:00
  - user: None
  - tags: []
-
-## Roxine Kee
- - [https://www.roxinekee.com](https://www.roxinekee.com)
- - date published: 2023-12-13T06:03:32.244926+00:00
- - user: None
- - tags: []
-
-## | ROXLU
- - [https://www.roxlu.com](https://www.roxlu.com)
- - date published: 2023-10-25T16:54:53.567514+00:00
- - user: None
- - tags: []
-
-## Royal Blood
- - [https://www.royalbloodband.com](https://www.royalbloodband.com)
- - date published: 2023-11-13T09:58:37.856076+00:00
- - user: None
- - tags: []
-
-## Royal Mail Shop
- - [https://shop.royalmail.com](https://shop.royalmail.com)
- - date published: 2023-10-25T16:54:56.812431+00:00
- - user: None
- - tags: []
-
-## Royal Mail | Royal Mail Group Ltd
- - [https://www.royalmail.com](https://www.royalmail.com)
- - date published: 2023-10-25T16:55:04.193019+00:00
- - user: None
- - tags: []
-
-## - ROYALTY FREE MUSIC
- - [https://www.royaltyfree-music.com](https://www.royaltyfree-music.com)
- - date published: 2023-10-25T11:35:25.743817+00:00
- - user: None
- - tags: ['assets audio']
-
-## roycifer
- - [https://roycifer.com](https://roycifer.com)
- - date published: 2023-12-20T11:45:49.231303+00:00
- - user: None
- - tags: []
-
-## Profound Mysteries
- - [https://royksopp.com](https://royksopp.com)
- - date published: 2023-11-13T09:28:05.167168+00:00
- - user: None
- - tags: ['music band']
-
-## Roy Tanck
- - [https://roytanck.com](https://roytanck.com)
- - date published: 2023-12-29T16:24:36.355595+00:00
- - user: None
- - tags: []
-
-## The Homepage of Ryan P. Flynn
- - [https://rpflynn.com](https://rpflynn.com)
- - date published: 2023-12-17T20:59:36.992817+00:00
- - user: None
- - tags: []
-
-## Home | RPG in a Box
- - [https://www.rpginabox.com](https://www.rpginabox.com)
- - date published: 2023-10-25T16:55:06.758154+00:00
- - user: None
- - tags: []
-
-## Buy D2R Items and Runes, OSRS Gold, POE Orbs - RPGStash
- - [https://www.rpgstash.com](https://www.rpgstash.com)
- - date published: 2023-10-25T11:10:04.692031+00:00
- - user: None
- - tags: []
-
-## Rajath Ramakrishna
- - [https://rrajath.com](https://rrajath.com)
- - date published: 2023-11-29T17:13:31.375439+00:00
- - user: None
- - tags: []
-
-## RR Auction
- - [https://www.rrauction.com](https://www.rrauction.com)
- - date published: 2023-10-25T16:55:10.247515+00:00
- - user: None
- - tags: []
-
-## RSS Brain - A Modern RSS Reader
- - [https://www.rssbrain.com](https://www.rssbrain.com)
- - date published: 2023-10-25T08:38:16.407947+00:00
- - user: None
- - tags: ['rss reader']
 
