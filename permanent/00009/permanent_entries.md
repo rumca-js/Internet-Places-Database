@@ -1,3 +1,147 @@
+## Paper. Work. Doing life.
+ - [https://www.paperworkblog.com](https://www.paperworkblog.com)
+ - date published: 2023-11-15T21:25:52.617486+00:00
+ - user: None
+ - tags: []
+
+## Para Bellum Magazine – Si Vis Pacem Para Bellum
+ - [https://www.parabellum-magazine.com](https://www.parabellum-magazine.com)
+ - date published: 2024-01-19T09:33:42+00:00
+ - user: rumpel
+ - tags: ['zine', 'tabletop games', 'wargames', 'magazine']
+
+## parade.com
+ - [https://parade.com](https://parade.com)
+ - date published: 2023-11-28T20:15:07+00:00
+ - user: rumpel
+ - tags: ['entertainment']
+
+## Welcome to ParadeDB - ParadeDB
+ - [https://docs.paradedb.com](https://docs.paradedb.com)
+ - date published: 2023-10-25T16:30:38.822701+00:00
+ - user: None
+ - tags: []
+
+## Home - Paradigm Imaging Group
+ - [https://www.paradigmimaging.com](https://www.paradigmimaging.com)
+ - date published: 2024-02-08T16:32:37.192500+00:00
+ - user: None
+ - tags: []
+
+## Paradox Interactive
+ - [https://www.paradoxinteractive.com](https://www.paradoxinteractive.com)
+ - date published: 2023-11-01T19:36:55.276204+00:00
+ - user: None
+ - tags: ['vampire masquarade', 'role playing games']
+
+## Growing Products — weekly essays for founders and startup teams
+ - [https://growing-products.paralect.com](https://growing-products.paralect.com)
+ - date published: 2023-10-25T16:30:41.101886+00:00
+ - user: None
+ - tags: []
+
+## Parallel Economy | A Censor-Resistant Ecosystem
+ - [https://www.paralleleconomy.com](https://www.paralleleconomy.com)
+ - date published: 2023-10-25T16:30:43.965679+00:00
+ - user: None
+ - tags: []
+
+## Parand
+ - [https://www.parand.com](https://www.parand.com)
+ - date published: 2023-10-25T16:30:46.136740+00:00
+ - user: None
+ - tags: []
+
+## https://static.parastorage.com
+ - [https://static.parastorage.com](https://static.parastorage.com)
+ - date published: 2023-12-11T16:56:44.679132+00:00
+ - user: None
+ - tags: []
+
+## Parin Patel
+ - [https://www.parinpatel.com](https://www.parinpatel.com)
+ - date published: 2023-11-29T17:08:55.692393+00:00
+ - user: None
+ - tags: []
+
+## Paris Transatlantic: global coverage of avant-garde music & art
+ - [https://www.paristransatlantic.com](https://www.paristransatlantic.com)
+ - date published: 2024-02-08T17:52:04.347548+00:00
+ - user: None
+ - tags: []
+
+## Paris Vega – Digital Marketer & Podcast Host
+ - [https://parisvega.com](https://parisvega.com)
+ - date published: 2024-01-13T04:52:58.487519+00:00
+ - user: None
+ - tags: []
+
+## Parker Dewey
+ - [https://app.parkerdewey.com](https://app.parkerdewey.com)
+ - date published: 2024-02-08T16:21:09.993188+00:00
+ - user: None
+ - tags: []
+
+## Parker Klein | Personal Website
+ - [https://www.parkerklein.com](https://www.parkerklein.com)
+ - date published: 2023-11-29T20:43:18.758476+00:00
+ - user: None
+ - tags: []
+
+## Parkiet – portal finansowy z najważniejszymi wiadomościami - parkiet.com
+ - [https://www.parkiet.com](https://www.parkiet.com)
+ - date published: 2023-10-25T10:58:13.846289+00:00
+ - user: None
+ - tags: []
+
+## MOONLIGHT LOVE AFFAIR
+ - [https://www.parovstelar.com](https://www.parovstelar.com)
+ - date published: 2023-10-30T15:45:25.629658+00:00
+ - user: None
+ - tags: ['parov stellar', 'music band']
+
+## Pars Defense
+ - [https://parsdefense.com](https://parsdefense.com)
+ - date published: 2024-02-06T11:07:59+00:00
+ - user: rumpel
+ - tags: ['spyware vendor']
+
+## ParseHub | Free web scraping - The most powerful web scraper
+ - [https://www.parsehub.com](https://www.parsehub.com)
+ - date published: 2024-01-17T09:05:15+00:00
+ - user: rumpel
+ - tags: ['web scraping']
+
+## Le blog de Pascal Andy
+ - [https://pascalandy.com](https://pascalandy.com)
+ - date published: 2024-01-13T04:52:48.069302+00:00
+ - user: None
+ - tags: []
+
+## Error
+ - [https://book.passkey.com](https://book.passkey.com)
+ - date published: 2024-02-05T17:23:43.653453+00:00
+ - user: None
+ - tags: []
+
+## Live Your Dream
+ - [https://passportjoy.com](https://passportjoy.com)
+ - date published: 2023-12-10T11:35:05.409561+00:00
+ - user: None
+ - tags: []
+
+## Pastebin.com - #1 paste tool since 2002!
+ - [https://pastebin.com](https://pastebin.com)
+ - date published: 2023-10-24T20:19:33.932082+00:00
+ - user: None
+ - tags: ['internet service']
+
+## Patagonia Outdoor Clothing & Gear
+ - [https://www.patagonia.com](https://www.patagonia.com)
+ - date published: 2023-10-25T16:30:56.435107+00:00
+ - user: None
+ - tags: []
+
 ## Inpics Gadget Repair Services - InPics Solutions
  - [https://patersontech.com](https://patersontech.com)
  - date published: 2023-10-25T16:30:59.777009+00:00
@@ -3169,6 +3313,12 @@
  - user: None
  - tags: []
 
+## Quake live
+ - [https://www.quakelive.com](https://www.quakelive.com)
+ - date published: 2024-02-20T21:42:26+00:00
+ - user: rumpel
+ - tags: ['quake']
+
 ## QuakeOne - The largest Quake 1 community on the net! - 
 		
 		QuakeOne - Quake 1 Resurrection
@@ -5855,154 +6005,4 @@ More!
  - date published: 2023-10-25T16:18:12.778211+00:00
  - user: None
  - tags: ['political news', 'music news']
-
-## Roll Or Don't
- - [https://www.rollordont.com](https://www.rollordont.com)
- - date published: 2023-10-25T16:54:28.108990+00:00
- - user: None
- - tags: []
-
-## 2omain 3030Ξ
- - [https://www.romainboboe.com](https://www.romainboboe.com)
- - date published: 2023-12-12T13:08:31.619524+00:00
- - user: None
- - tags: []
-
-## ROMS Pack - ROM Sets - All Emulator's ROM Packs
- - [https://www.romspack.com](https://www.romspack.com)
- - date published: 2023-10-25T11:10:00.994137+00:00
- - user: None
- - tags: ['emulation']
-
-## Ronak Ganatra
- - [https://ronakganatra.com](https://ronakganatra.com)
- - date published: 2023-10-25T16:54:28.835966+00:00
- - user: None
- - tags: []
-
-## Ron Bronson
- - [https://work.ronbronson.com](https://work.ronbronson.com)
- - date published: 2023-11-29T15:53:20.777849+00:00
- - user: None
- - tags: []
-
-## Electronic Music | Rone
- - [https://www.rone-music.com](https://www.rone-music.com)
- - date published: 2023-11-13T10:26:39.229989+00:00
- - user: None
- - tags: ['music band']
-
-## RongenRobles.com
- - [https://rongenrobles.com](https://rongenrobles.com)
- - date published: 2024-01-13T22:53:21.904627+00:00
- - user: None
- - tags: []
-
-## Jet Beetle
- - [https://www.ronpatrickstuff.com](https://www.ronpatrickstuff.com)
- - date published: 2023-10-25T08:47:50.285670+00:00
- - user: None
- - tags: ['personal']
-
-## https://aiquiz.ronsor.com
- - [https://aiquiz.ronsor.com](https://aiquiz.ronsor.com)
- - date published: 2024-01-09T02:48:16.377059+00:00
- - user: None
- - tags: []
-
-## About | Undeleted Files
- - [https://undeleted.ronsor.com](https://undeleted.ronsor.com)
- - date published: 2023-10-25T16:54:29.700415+00:00
- - user: None
- - tags: []
-
-## http://timothywasike.ronzag.com
- - [http://timothywasike.ronzag.com](http://timothywasike.ronzag.com)
- - date published: 2023-12-10T16:59:19.722167+00:00
- - user: None
- - tags: []
-
-## my blog
- - [https://ronzhyn.com](https://ronzhyn.com)
- - date published: 2023-12-03T01:43:15.181104+00:00
- - user: None
- - tags: []
-
-## RorVsWild - All-in-one server monitoring for Ruby on Rails applications
- - [https://www.rorvswild.com](https://www.rorvswild.com)
- - date published: 2023-12-07T14:48:44.621698+00:00
- - user: None
- - tags: []
-
-## MacBook Repair Austin | (347) 552-2258 | Rossmann Repair Group
- - [https://www.rossmanngroup.com](https://www.rossmanngroup.com)
- - date published: 2023-11-03T10:37:01.928688+00:00
- - user: None
- - tags: ['louis rossmann']
-
-## Ross Zeiger - Software, Video, Business, Life Abroad
- - [https://rosszeiger.com](https://rosszeiger.com)
- - date published: 2023-11-29T17:18:54.650056+00:00
- - user: None
- - tags: []
-
-## Rotaboxes - the daily photo puzzle game
- - [https://rotaboxes.com](https://rotaboxes.com)
- - date published: 2023-10-25T16:54:35.233146+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.rotarywoofer.com](https://www.rotarywoofer.com)
- - date published: 2024-01-09T02:48:20.061558+00:00
- - user: None
- - tags: []
-
-## Rotating Sandwiches – that's it
- - [https://rotatingsandwiches.com](https://rotatingsandwiches.com)
- - date published: 2023-10-25T16:54:37.119990+00:00
- - user: None
- - tags: []
-
-## Rotten Tomatoes: Movies | TV Shows | Movie Trailers | Reviews - Rotten Tomatoes
- - [https://www.rottentomatoes.com](https://www.rottentomatoes.com)
- - date published: 2023-10-25T16:43:03.779236+00:00
- - user: None
- - tags: ['ranking', 'movies']
-
-## Rough.js: Create graphics with a hand-drawn, sketchy, appearance
- - [https://roughjs.com](https://roughjs.com)
- - date published: 2023-12-22T08:06:23+00:00
- - user: None
- - tags: []
-
-## ROUGH TYPE | Nicholas Carr's blog
- - [https://www.roughtype.com](https://www.roughtype.com)
- - date published: 2023-10-25T16:54:46.815167+00:00
- - user: None
- - tags: []
-
-## Routledge - Publisher of Professional & Academic Books
- - [https://www.routledge.com](https://www.routledge.com)
- - date published: 2023-10-25T16:54:48.988309+00:00
- - user: None
- - tags: []
-
-## Rowan Zellers' Homepage
- - [https://rowanzellers.com](https://rowanzellers.com)
- - date published: 2023-10-25T16:54:51.440050+00:00
- - user: None
- - tags: []
-
-## Rowena Morais - Helping you build more influence
- - [https://rowenamorais.com](https://rowenamorais.com)
- - date published: 2024-01-04T01:14:16.801526+00:00
- - user: None
- - tags: []
-
-## Rows
- - [https://rows.com](https://rows.com)
- - date published: 2023-10-25T16:54:52.043447+00:00
- - user: None
- - tags: []
 

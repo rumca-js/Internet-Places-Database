@@ -1,3 +1,159 @@
+## Eurykosmotron | Ben Goertzel | Substack
+ - [https://bengoertzel.substack.com](https://bengoertzel.substack.com)
+ - date published: 2023-10-25T09:43:42.224883+00:00
+ - user: None
+ - tags: ['substack']
+
+## Everything Is An Emergency | Bess Stillman | Substack
+ - [https://bessstillman.substack.com](https://bessstillman.substack.com)
+ - date published: 2023-10-25T09:43:44.833593+00:00
+ - user: None
+ - tags: ['substack']
+
+## Bet On It | Bryan Caplan | Substack
+ - [https://betonit.substack.com](https://betonit.substack.com)
+ - date published: 2023-10-25T09:43:46.375111+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Biblioracle Recommends | John Warner | Substack
+ - [https://biblioracle.substack.com](https://biblioracle.substack.com)
+ - date published: 2023-10-25T09:43:51.496319+00:00
+ - user: None
+ - tags: ['substack']
+
+## These Foolish Games | Bill Willingham | Substack
+ - [https://billwillingham.substack.com](https://billwillingham.substack.com)
+ - date published: 2023-10-25T09:43:54.589904+00:00
+ - user: None
+ - tags: ['substack']
+
+## Bit Byte Bit | Zarar Siddiqi | Substack
+ - [https://bitbytebit.substack.com](https://bitbytebit.substack.com)
+ - date published: 2023-10-25T09:43:57.102966+00:00
+ - user: None
+ - tags: ['substack']
+
+## Bite code! | Substack
+ - [https://bitecode.substack.com](https://bitecode.substack.com)
+ - date published: 2023-10-25T09:44:01.792299+00:00
+ - user: None
+ - tags: ['substack']
+
+## Bit Maybe Wise | Hercules Merscher | Substack
+ - [https://bitmaybewise.substack.com](https://bitmaybewise.substack.com)
+ - date published: 2023-10-25T09:44:04.612495+00:00
+ - user: None
+ - tags: ['substack']
+
+## Block21M  | Substack
+ - [https://block21m.substack.com](https://block21m.substack.com)
+ - date published: 2023-10-25T09:44:05.855908+00:00
+ - user: None
+ - tags: ['substack']
+
+## Blog System/5 | Julio Merino | Substack
+ - [https://blogsystem5.substack.com](https://blogsystem5.substack.com)
+ - date published: 2023-12-28T13:09:36.804902+00:00
+ - user: None
+ - tags: []
+
+## Telegrams from Bloodstream City | Brian Martinez | Substack
+ - [https://bloodstreamcity.substack.com](https://bloodstreamcity.substack.com)
+ - date published: 2024-01-03T14:50:05.041568+00:00
+ - user: None
+ - tags: []
+
+## Boring AppSec | Sandesh Mysore Anand | Substack
+ - [https://boringappsec.substack.com](https://boringappsec.substack.com)
+ - date published: 2023-10-25T09:44:12.761319+00:00
+ - user: None
+ - tags: ['substack']
+
+## Both Are True | Alex Dobrenko` | Substack
+ - [https://botharetrue.substack.com](https://botharetrue.substack.com)
+ - date published: 2023-10-25T17:18:55.964983+00:00
+ - user: None
+ - tags: []
+
+## Brain Pizza by Shane O'Mara | Substack
+ - [https://brainpizza.substack.com](https://brainpizza.substack.com)
+ - date published: 2023-10-25T09:44:15.485628+00:00
+ - user: None
+ - tags: ['substack']
+
+## Bretton Goods | Pradyumna Prasad | Substack
+ - [https://brettongoods.substack.com](https://brettongoods.substack.com)
+ - date published: 2023-10-25T09:44:23.031308+00:00
+ - user: None
+ - tags: ['substack']
+
+## Altered States of Monetary Consciousness | Brett Scott | Substack
+ - [https://brettscott.substack.com](https://brettscott.substack.com)
+ - date published: 2023-10-25T09:44:25.834898+00:00
+ - user: None
+ - tags: ['substack']
+
+## Build In Public Newsletter | KP | Substack
+ - [https://buildinpublichub.substack.com](https://buildinpublichub.substack.com)
+ - date published: 2023-10-25T09:44:28.188768+00:00
+ - user: None
+ - tags: ['substack']
+
+## button mash | Alanna Okun | Substack
+ - [https://buttonmash.substack.com](https://buttonmash.substack.com)
+ - date published: 2023-10-25T09:44:29.640025+00:00
+ - user: None
+ - tags: ['substack']
+
+## Bytes, Data, Action! | Blake Burch | Substack
+ - [https://bytesdataaction.substack.com](https://bytesdataaction.substack.com)
+ - date published: 2023-10-25T09:44:30.830112+00:00
+ - user: None
+ - tags: ['substack']
+
+## Bzogramming | Charles Rosenbauer | Substack
+ - [https://bzogrammer.substack.com](https://bzogrammer.substack.com)
+ - date published: 2023-10-25T09:44:33.337037+00:00
+ - user: None
+ - tags: ['substack']
+
+## Mediations with Candost | Candost Dagdeviren | Substack
+ - [https://candost.substack.com](https://candost.substack.com)
+ - date published: 2023-11-29T14:20:57.397858+00:00
+ - user: None
+ - tags: []
+
+## High Growth Engineer | Jordan Cutler | Substack
+ - [https://careercutler.substack.com](https://careercutler.substack.com)
+ - date published: 2023-10-25T09:44:36.073675+00:00
+ - user: None
+ - tags: ['substack']
+
+## Welcome to Garbagetown | Catherynne M. Valente | Substack
+ - [https://catvalente.substack.com](https://catvalente.substack.com)
+ - date published: 2024-01-09T01:38:23.568122+00:00
+ - user: None
+ - tags: []
+
+## Viruses Must Die | Chris Buck | Substack
+ - [https://cbuck.substack.com](https://cbuck.substack.com)
+ - date published: 2024-01-04T07:23:25.565849+00:00
+ - user: None
+ - tags: []
+
+## Codon | Niko McCarty | Substack
+ - [https://cell.substack.com](https://cell.substack.com)
+ - date published: 2023-10-25T09:44:41.858083+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Century of Biology | Elliot Hershberg | Substack
+ - [https://centuryofbio.substack.com](https://centuryofbio.substack.com)
+ - date published: 2023-10-25T09:44:44.711477+00:00
+ - user: None
+ - tags: ['substack']
+
 ## Chamath Palihapitiya | Substack
  - [https://chamathreads.substack.com](https://chamathreads.substack.com)
  - date published: 2023-10-25T09:44:47.316484+00:00
@@ -5842,160 +5998,4 @@
  - date published: 2023-11-01T18:29:06.630318+00:00
  - user: None
  - tags: ['miniatures', 'sculpting', 'hobby']
-
-## Training Data | Substack
- - [https://www.thetrainingdata.com](https://www.thetrainingdata.com)
- - date published: 2023-10-25T17:39:44.124793+00:00
- - user: None
- - tags: []
-
-## theTrumpet.com | World News, Economics and Analysis Based on Bible Prophecy
- - [https://www.thetrumpet.com](https://www.thetrumpet.com)
- - date published: 2023-10-25T17:39:47.463608+00:00
- - user: None
- - tags: []
-
-## The Turn Signal
- - [https://www.theturnsignalblog.com](https://www.theturnsignalblog.com)
- - date published: 2023-10-25T17:39:48.868896+00:00
- - user: None
- - tags: []
-
-## The Typing of the RegEX
- - [https://thetypingoftheregex.com](https://thetypingoftheregex.com)
- - date published: 2023-10-25T17:39:49.507372+00:00
- - user: None
- - tags: []
-
-## The Uncomfortable – a collection of deliberately inconvenient objects
- - [https://www.theuncomfortable.com](https://www.theuncomfortable.com)
- - date published: 2024-01-25T18:00:43+00:00
- - user: None
- - tags: []
-
-## The Unconventional Route: Travel Extraordinarily
- - [https://theunconventionalroute.com](https://theunconventionalroute.com)
- - date published: 2024-01-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Undeniable Street View
- - [https://theundeniablestreetview.com](https://theundeniablestreetview.com)
- - date published: 2023-10-25T17:39:50.627178+00:00
- - user: None
- - tags: []
-
-## The Useless Web
- - [https://theuselessweb.com](https://theuselessweb.com)
- - date published: 2023-10-27T10:59:06.943011+00:00
- - user: None
- - tags: ['wtf']
-
-## Velvet Duke Productions
- - [https://thevelvetduke.com](https://thevelvetduke.com)
- - date published: 2023-12-20T19:15:07.109651+00:00
- - user: None
- - tags: []
-
-## The Verge
- - [https://www.theverge.com](https://www.theverge.com)
- - date published: 2023-10-25T10:29:09.149200+00:00
- - user: None
- - tags: ['news']
-
-## About
- - [https://blog.thevinter.com](https://blog.thevinter.com)
- - date published: 2023-10-25T17:39:51.130190+00:00
- - user: None
- - tags: []
-
-## The Walt Disney Company
- - [https://thewaltdisneycompany.com](https://thewaltdisneycompany.com)
- - date published: 2024-01-18T18:43:54.830609+00:00
- - user: None
- - tags: []
-
-## The Washington Standard -
- - [https://thewashingtonstandard.com](https://thewashingtonstandard.com)
- - date published: 2023-10-25T17:39:54.260943+00:00
- - user: None
- - tags: []
-
-## Wealth Advisor | The Voice of the Financial Advisor Community
- - [https://www.thewealthadvisor.com](https://www.thewealthadvisor.com)
- - date published: 2023-10-25T17:39:56.632715+00:00
- - user: None
- - tags: []
-
-## The Web Is Fucked
- - [https://thewebisfucked.com](https://thewebisfucked.com)
- - date published: 2023-10-25T17:40:03.136235+00:00
- - user: None
- - tags: []
-
-## Pam The Webivore -
- - [https://thewebivore.com](https://thewebivore.com)
- - date published: 2023-10-25T17:40:06.577778+00:00
- - user: None
- - tags: []
-
-## The Week | All you need to know about everything that matters
- - [https://theweek.com](https://theweek.com)
- - date published: 2023-10-25T10:39:27.419795+00:00
- - user: None
- - tags: []
-
-## The Week | All you need to know about everything that matters
- - [https://www.theweek.com](https://www.theweek.com)
- - date published: 2023-12-13T14:29:39.338270+00:00
- - user: None
- - tags: []
-
-## The Wired Nomad - Home
- - [https://thewirednomad.com](https://thewirednomad.com)
- - date published: 2024-01-09T02:51:18.349892+00:00
- - user: None
- - tags: []
-
-## theworldsworstwebsiteever.com
- - [http://www.theworldsworstwebsiteever.com](http://www.theworldsworstwebsiteever.com)
- - date published: 2023-10-25T17:40:14.612649+00:00
- - user: None
- - tags: []
-
-## The World Thinks - Self-help, Social, Spiritual, Strength and Success
- - [https://theworldthinks.com](https://theworldthinks.com)
- - date published: 2023-11-07T20:19:24.129998+00:00
- - user: None
- - tags: []
-
-## TheWrap - Your trusted source for breaking entertainment news, film reviews, TV updates and Hollywood insights. Stay informed with the latest entertainment headlines and analysis from TheWrap.
- - [https://www.thewrap.com](https://www.thewrap.com)
- - date published: 2023-10-25T17:40:23.680900+00:00
- - user: None
- - tags: []
-
-## Home | Yeshiva World News | The Yeshiva World
- - [https://www.theyeshivaworld.com](https://www.theyeshivaworld.com)
- - date published: 2023-11-17T07:41:54.275650+00:00
- - user: None
- - tags: []
-
-## Yuan Wang
- - [https://theyuanwang.com](https://theyuanwang.com)
- - date published: 2024-02-03T18:44:37.299406+00:00
- - user: None
- - tags: []
-
-## Zero Day Initiative — Homepage Redirect
- - [https://www.thezdi.com](https://www.thezdi.com)
- - date published: 2023-10-25T17:40:24.624625+00:00
- - user: None
- - tags: []
-
-## Technical ramblings on Elixir, Ruby, Dev/Ops & code in general.
- - [https://thibautbarrere.com](https://thibautbarrere.com)
- - date published: 2023-10-25T17:40:30.637246+00:00
- - user: None
- - tags: []
 

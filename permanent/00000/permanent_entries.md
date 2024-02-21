@@ -640,6 +640,12 @@
  - user: None
  - tags: []
 
+## Gab AI | An Uncensored and Unbiased AI Platform
+ - [https://gab.ai](https://gab.ai)
+ - date published: 2024-02-20T17:23:39+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
 ## Gentrace
  - [https://gentrace.ai](https://gentrace.ai)
  - date published: 2023-10-25T11:39:02.363585+00:00
@@ -877,6 +883,12 @@
 ## Hacker News in Slow Italian - AI-generated podcast (with code)
  - [https://hn.lingually.ai](https://hn.lingually.ai)
  - date published: 2023-10-25T11:39:53.272458+00:00
+ - user: None
+ - tags: []
+
+## LlamaIndex Blog
+ - [https://blog.llamaindex.ai](https://blog.llamaindex.ai)
+ - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5984,18 +5996,6 @@
 ## University of Alberta
  - [https://www.ualberta.ca](https://www.ualberta.ca)
  - date published: 2023-11-07T11:03:04.316671+00:00
- - user: None
- - tags: []
-
-## UBC News: News from the University of British Columbia
- - [https://news.ubc.ca](https://news.ubc.ca)
- - date published: 2023-10-25T12:08:34.236560+00:00
- - user: None
- - tags: []
-
-## People - Department of Electrical and Computer Engineering
- - [https://people.ece.ubc.ca](https://people.ece.ubc.ca)
- - date published: 2023-12-13T16:52:05.782654+00:00
  - user: None
  - tags: []
 

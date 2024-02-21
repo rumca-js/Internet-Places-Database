@@ -1,3 +1,165 @@
+## Windows Update Restored: Fix Windows Update on Windows 95, 98, Me, 2000, and XP
+ - [https://windowsupdaterestored.com](https://windowsupdaterestored.com)
+ - date published: 2024-01-09T02:54:26.544365+00:00
+ - user: None
+ - tags: []
+
+## Wind River
+ - [https://www.windriver.com](https://www.windriver.com)
+ - date published: 2023-11-08T11:30:59.705560+00:00
+ - user: None
+ - tags: ['wind river', 'do-178b', 'operating system', 'do-178c', 'windriver', 'linux', 'avionics']
+
+## Windscribe - Free VPN and Ad Block
+ - [https://windscribe.com](https://windscribe.com)
+ - date published: 2023-10-25T18:06:36.879450+00:00
+ - user: None
+ - tags: []
+
+## Windy as forecasted
+ - [https://www.windy.com](https://www.windy.com)
+ - date published: 2023-10-24T20:19:13.472192+00:00
+ - user: None
+ - tags: []
+
+## absorptions
+ - [https://www.windytan.com](https://www.windytan.com)
+ - date published: 2023-10-25T18:06:44.382900+00:00
+ - user: None
+ - tags: []
+
+## wineanorak.com – online wine magazine
+ - [https://wineanorak.com](https://wineanorak.com)
+ - date published: 2023-10-25T18:06:50.105227+00:00
+ - user: None
+ - tags: []
+
+## WINK News - Breaking News and Weather | First. Fair. Everywhere
+ - [https://winknews.com](https://winknews.com)
+ - date published: 2023-10-25T18:07:00.974361+00:00
+ - user: None
+ - tags: []
+
+## The International Law Firm of Winston & Strawn LLP | Winston & Strawn
+ - [https://www.winston.com](https://www.winston.com)
+ - date published: 2023-10-25T18:07:03.303397+00:00
+ - user: None
+ - tags: []
+
+## WinWorld: Welcome
+ - [https://winworldpc.com](https://winworldpc.com)
+ - date published: 2024-01-01T19:17:47.205122+00:00
+ - user: None
+ - tags: []
+
+## WION: Breaking News, Latest News, World, South Asia, India, Pakistan, Bangladesh News & Analysis - Latest World News
+ - [https://www.wionews.com](https://www.wionews.com)
+ - date published: 2023-10-25T10:45:15.167046+00:00
+ - user: None
+ - tags: []
+
+## WIRED - The Latest in Technology, Science, Culture and Business | WIRED
+ - [https://www.wired.com](https://www.wired.com)
+ - date published: 2023-10-25T09:36:45.817671+00:00
+ - user: None
+ - tags: ['technology news', 'science news']
+
+## Wirehead hedonism versus paradise-engineering
+ - [https://www.wireheading.com](https://www.wireheading.com)
+ - date published: 2023-10-25T18:07:05.948427+00:00
+ - user: None
+ - tags: []
+
+## Wirfs-Brock Associates
+ - [https://wirfs-brock.com](https://wirfs-brock.com)
+ - date published: 2023-10-25T18:07:07.838674+00:00
+ - user: None
+ - tags: []
+
+## WISDOMINATION
+ - [https://www.wisdomination.com](https://www.wisdomination.com)
+ - date published: 2023-10-25T18:07:12.621625+00:00
+ - user: None
+ - tags: []
+
+## Wise, Formerly TransferWise: Online Money Transfers | International Banking Features
+ - [https://wise.com](https://wise.com)
+ - date published: 2023-10-28T03:56:49.631440+00:00
+ - user: None
+ - tags: []
+
+## WiseStacker - Wisely Stack The World's Best Dividend Stocks
+ - [https://wisestacker.com](https://wisestacker.com)
+ - date published: 2023-12-02T13:42:08.251986+00:00
+ - user: None
+ - tags: []
+
+## WitcherHour: Bringing the latest Witcher news, guides, & more.
+ - [https://witcherhour.com](https://witcherhour.com)
+ - date published: 2023-10-25T14:23:14.446827+00:00
+ - user: None
+ - tags: []
+
+## Cardinal is the Database for Humans
+ - [https://www.withcardinal.com](https://www.withcardinal.com)
+ - date published: 2023-10-25T18:07:14.230770+00:00
+ - user: None
+ - tags: []
+
+## Coherence — The Integrated Developer Platform for your own cloud account
+ - [https://www.withcoherence.com](https://www.withcoherence.com)
+ - date published: 2023-10-25T18:07:16.180638+00:00
+ - user: None
+ - tags: []
+
+## Compound Planning | Modern Wealth & Investment Management
+ - [https://withcompound.com](https://withcompound.com)
+ - date published: 2023-10-25T18:07:21.872974+00:00
+ - user: None
+ - tags: []
+
+## Diode — Build, program, and simulate hardware
+ - [https://www.withdiode.com](https://www.withdiode.com)
+ - date published: 2024-01-09T02:54:27.368367+00:00
+ - user: None
+ - tags: []
+
+## Nonobvious | Edge | Substack
+ - [https://blog.withedge.com](https://blog.withedge.com)
+ - date published: 2023-10-25T18:07:38.413246+00:00
+ - user: None
+ - tags: []
+
+## Google's latest experiments in Labs
+ - [https://labs.withgoogle.com](https://labs.withgoogle.com)
+ - date published: 2023-10-25T18:07:40.867814+00:00
+ - user: None
+ - tags: []
+
+## https://learnkubernetes.withgoogle.com
+ - [https://learnkubernetes.withgoogle.com](https://learnkubernetes.withgoogle.com)
+ - date published: 2024-01-09T02:54:28.714253+00:00
+ - user: None
+ - tags: []
+
+## People + AI Research
+ - [https://pair.withgoogle.com](https://pair.withgoogle.com)
+ - date published: 2023-10-25T18:07:44.673354+00:00
+ - user: None
+ - tags: []
+
+## Home | Google Summer of Code
+ - [https://summerofcode.withgoogle.com](https://summerofcode.withgoogle.com)
+ - date published: 2023-10-25T18:07:48.328715+00:00
+ - user: None
+ - tags: []
+
+## Project Sunroof
+ - [https://sunroof.withgoogle.com](https://sunroof.withgoogle.com)
+ - date published: 2023-10-25T18:07:51.710648+00:00
+ - user: None
+ - tags: []
+
 ## Google Teachable Machine
  - [https://teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com)
  - date published: 2024-01-07T03:20:02+00:00
@@ -2158,6 +2320,12 @@
  - user: None
  - tags: []
 
+## Yale Daily News
+ - [https://yaledailynews.com](https://yaledailynews.com)
+ - date published: 2024-02-20T17:13:10.143854+00:00
+ - user: None
+ - tags: []
+
 ## Yandex
  - [https://yandex.com](https://yandex.com)
  - date published: 2023-10-25T08:28:25.478842+00:00
@@ -2642,6 +2810,12 @@
 ## zachleat.com
  - [https://www.zachleat.com](https://www.zachleat.com)
  - date published: 2023-10-25T18:23:48.541850+00:00
+ - user: None
+ - tags: []
+
+## Zack Hargett | Substack
+ - [https://zackhargett.com](https://zackhargett.com)
+ - date published: 2024-02-20T23:30:51.612417+00:00
  - user: None
  - tags: []
 
@@ -4827,6 +5001,12 @@ Heinsohn
  - user: None
  - tags: []
 
+## Valentin Pratz
+ - [https://valentinpratz.de](https://valentinpratz.de)
+ - date published: 2024-02-20T22:21:11.144277+00:00
+ - user: None
+ - tags: []
+
 ## Valentin Bachem, Heidelberg | Mediation, Konfliktberatung, Fotografie, IT | Startseite
  - [https://www.vbachem.de](https://www.vbachem.de)
  - date published: 2024-01-17T04:43:24.571895+00:00
@@ -5823,185 +6003,4 @@ Heinsohn
  - date published: 2023-10-25T08:58:28.132514+00:00
  - user: None
  - tags: ['personal']
-
-## David Sherret
- - [https://david.deno.dev](https://david.deno.dev)
- - date published: 2024-02-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Writing | denvaar's Site
- - [https://denvaar.dev](https://denvaar.dev)
- - date published: 2023-11-16T09:28:41.834997+00:00
- - user: None
- - tags: []
-
-## Depot
- - [https://depot.dev](https://depot.dev)
- - date published: 2023-10-25T18:37:13.920387+00:00
- - user: None
- - tags: []
-
-## https://desislav.dev
- - [https://desislav.dev](https://desislav.dev)
- - date published: 2024-01-09T02:57:13.240861+00:00
- - user: None
- - tags: []
-
-## The Developing Dev | Ryan Peterman | Substack
- - [https://www.developing.dev](https://www.developing.dev)
- - date published: 2023-10-25T18:37:18.745268+00:00
- - user: None
- - tags: []
-
-## DevOps.dev
- - [https://blog.devops.dev](https://blog.devops.dev)
- - date published: 2023-10-25T18:37:21.821387+00:00
- - user: None
- - tags: []
-
-## Digger.dev
- - [https://blog.digger.dev](https://blog.digger.dev)
- - date published: 2024-01-04T16:43:27.471043+00:00
- - user: None
- - tags: []
-
-## Disane.dev - Personal tech blog
- - [https://blog.disane.dev](https://blog.disane.dev)
- - date published: 2024-01-02T05:20:52.454570+00:00
- - user: None
- - tags: []
-
-## djhworld - thoughts
- - [https://djharper.dev](https://djharper.dev)
- - date published: 2023-10-25T18:37:23.198428+00:00
- - user: None
- - tags: []
-
-## Hristiyan Dodov: Full-Stack Developer at Oblik Studio
- - [https://dodov.dev](https://dodov.dev)
- - date published: 2023-10-25T18:37:24.848610+00:00
- - user: None
- - tags: []
-
-## Earthly - Make Builds Super Simple
- - [https://earthly.dev](https://earthly.dev)
- - date published: 2023-10-25T18:37:27.899029+00:00
- - user: None
- - tags: []
-
-## echoserver: A simple echo server for testing HTTP clients.
- - [https://echoserver.dev](https://echoserver.dev)
- - date published: 2023-10-25T18:37:29.344617+00:00
- - user: None
- - tags: []
-
-## Ecostack —
-        a developer blog
- - [https://ecostack.dev](https://ecostack.dev)
- - date published: 2023-10-25T18:37:30.969613+00:00
- - user: None
- - tags: []
-
-## None
- - [https://blog.edfloreshz.dev](https://blog.edfloreshz.dev)
- - date published: 2024-01-09T02:57:13.936356+00:00
- - user: None
- - tags: []
-
-## Elijah Potter
- - [https://elijahpotter.dev](https://elijahpotter.dev)
- - date published: 2022-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Embrasure
- - [https://embrasure.dev](https://embrasure.dev)
- - date published: 2019-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://emnudge.dev](https://emnudge.dev)
- - date published: 2023-10-25T18:37:32.803436+00:00
- - user: None
- - tags: []
-
-## Emoji Kitchen
- - [https://emojikitchen.dev](https://emojikitchen.dev)
- - date published: 2023-10-25T18:37:39.002696+00:00
- - user: None
- - tags: []
-
-## Encore — Escape your backend development burdens
- - [https://encore.dev](https://encore.dev)
- - date published: 2023-11-23T13:54:15.244923+00:00
- - user: None
- - tags: []
-
-## Matthias Endler
- - [https://endler.dev](https://endler.dev)
- - date published: 2023-10-25T18:37:40.403164+00:00
- - user: None
- - tags: []
-
-## endtimes.dev
- - [https://endtimes.dev](https://endtimes.dev)
- - date published: 2023-10-25T18:37:42.008452+00:00
- - user: None
- - tags: []
-
-## Enhance
- - [https://enhance.dev](https://enhance.dev)
- - date published: 2023-10-25T18:37:45.413755+00:00
- - user: None
- - tags: []
-
-## Ship Modern Full-Stack Web Applications
- - [https://www.epicweb.dev](https://www.epicweb.dev)
- - date published: 2023-10-27T12:49:23.689681+00:00
- - user: None
- - tags: []
-
-## Ergomake | Environments-as-a-Service
- - [https://ergomake.dev](https://ergomake.dev)
- - date published: 2024-01-09T02:57:14.773368+00:00
- - user: None
- - tags: []
-
-## Oxidizing corner
- - [https://blog.erk.dev](https://blog.erk.dev)
- - date published: 2023-10-25T18:37:48.559995+00:00
- - user: None
- - tags: []
-
-## Educational Sensational Inspirational Foundational
- - [https://esif.dev](https://esif.dev)
- - date published: 2023-10-25T18:37:55.517883+00:00
- - user: None
- - tags: []
-
-## Show HN: Etcha – Infinite scale, serverless config management
- - [https://etcha.dev](https://etcha.dev)
- - date published: 2023-11-18T15:39:55+00:00
- - user: None
- - tags: []
-
-## Evidence - Business Intelligence as Code
- - [https://evidence.dev](https://evidence.dev)
- - date published: 2023-10-25T18:37:57.379219+00:00
- - user: None
- - tags: []
-
-## https://farlow.dev
- - [https://farlow.dev](https://farlow.dev)
- - date published: 2024-01-09T02:57:15.429770+00:00
- - user: None
- - tags: []
-
-## Home - FED Mentor
- - [https://fedmentor.dev](https://fedmentor.dev)
- - date published: 2023-10-25T18:37:59.320927+00:00
- - user: None
- - tags: []
 
