@@ -1,3 +1,183 @@
+## DIEGO  VERA
+ - [https://www.diegovera.org](https://www.diegovera.org)
+ - date published: 2023-10-25T21:14:18.082525+00:00
+ - user: None
+ - tags: []
+
+## diffoscope: in-depth comparison of files, archives, and directories
+ - [https://diffoscope.org](https://diffoscope.org)
+ - date published: 2023-10-25T21:14:19.698212+00:00
+ - user: None
+ - tags: []
+
+## Dinosaur Images & Facts - The Online Database
+ - [https://dinosaurpictures.org](https://dinosaurpictures.org)
+ - date published: 2023-10-25T21:14:21.679378+00:00
+ - user: None
+ - tags: []
+
+## https://dirtyprosecutor.org
+ - [https://dirtyprosecutor.org](https://dirtyprosecutor.org)
+ - date published: 2024-01-09T03:38:55.288541+00:00
+ - user: None
+ - tags: []
+
+## Discourse is the place to build civilized communities | Discourse - Civilized Discussion
+ - [https://discourse.org](https://discourse.org)
+ - date published: 2023-10-25T21:14:25.105642+00:00
+ - user: None
+ - tags: []
+
+## distcc: a fast, free distributed C/C++ compiler
+ - [https://www.distcc.org](https://www.distcc.org)
+ - date published: 2023-10-25T21:14:26.079192+00:00
+ - user: None
+ - tags: []
+
+## Simple search
+ - [https://sh.diva-portal.org](https://sh.diva-portal.org)
+ - date published: 2023-10-25T21:14:32.161650+00:00
+ - user: None
+ - tags: []
+
+## Simple search
+ - [https://uu.diva-portal.org](https://uu.diva-portal.org)
+ - date published: 2023-10-25T21:14:33.208064+00:00
+ - user: None
+ - tags: []
+
+## Home - DivestOS Mobile
+ - [https://divestos.org](https://divestos.org)
+ - date published: 2023-10-25T21:14:34.497389+00:00
+ - user: None
+ - tags: []
+
+## Django Packages : Reusable apps, sites and tools directory for Django
+ - [https://djangopackages.org](https://djangopackages.org)
+ - date published: 2023-10-25T21:14:37.143169+00:00
+ - user: None
+ - tags: []
+
+## DJ Food | An online scrapbook by Strictly Kev aka DJ Food & Openmind.
+ - [https://www.djfood.org](https://www.djfood.org)
+ - date published: 2023-10-25T21:14:43.286931+00:00
+ - user: None
+ - tags: []
+
+## Home - D Programming Language
+ - [https://dlang.org](https://dlang.org)
+ - date published: 2023-10-25T21:14:45.334948+00:00
+ - user: None
+ - tags: []
+
+## Index - D Programming Language Discussion Forum
+ - [https://forum.dlang.org](https://forum.dlang.org)
+ - date published: 2023-10-25T21:14:51.989473+00:00
+ - user: None
+ - tags: []
+
+## Deep Learning Systems
+ - [https://dlsyscourse.org](https://dlsyscourse.org)
+ - date published: 2023-10-25T21:14:57.710621+00:00
+ - user: None
+ - tags: []
+
+## https://dmoz.org
+ - [https://dmoz.org](https://dmoz.org)
+ - date published: 2024-02-05T17:23:42.498509+00:00
+ - user: None
+ - tags: []
+
+## Gudang Slot88: Situs Slot Gacor Hari Ini dan Slot88 Terpercaya
+ - [https://dnipogo.org](https://dnipogo.org)
+ - date published: 2024-01-09T03:38:57.166834+00:00
+ - user: None
+ - tags: []
+
+## Home | Doctors Without Borders - USA
+ - [https://www.doctorswithoutborders.org](https://www.doctorswithoutborders.org)
+ - date published: 2023-11-11T16:04:52.293520+00:00
+ - user: None
+ - tags: []
+
+## DocumentCloud
+ - [https://www.documentcloud.org](https://www.documentcloud.org)
+ - date published: 2023-10-25T21:14:58.036496+00:00
+ - user: None
+ - tags: []
+
+## The Document Foundation Blog - The home of LibreOffice
+ - [https://blog.documentfoundation.org](https://blog.documentfoundation.org)
+ - date published: 2023-10-25T21:14:59.845814+00:00
+ - user: None
+ - tags: []
+
+## LibreOffice Development Blog - Blog for the LibreOffice Developers Community; Tutorials, tips and tricks for working with the LibreOffice code
+ - [https://dev.blog.documentfoundation.org](https://dev.blog.documentfoundation.org)
+ - date published: 2023-10-25T21:15:02.330486+00:00
+ - user: None
+ - tags: []
+
+## Welcome to The Document Foundation’s wiki - The Document Foundation Wiki
+ - [https://wiki.documentfoundation.org](https://wiki.documentfoundation.org)
+ - date published: 2023-10-25T21:15:04.376783+00:00
+ - user: None
+ - tags: []
+
+## Dogbolt Decompiler Explorer
+ - [https://dogbolt.org](https://dogbolt.org)
+ - date published: 2023-12-04T17:52:55+00:00
+ - user: None
+ - tags: []
+
+## Home Page
+ - [https://doi.org](https://doi.org)
+ - date published: 2023-10-25T21:15:05.945582+00:00
+ - user: None
+ - tags: []
+
+## Resolve a DOI Name
+ - [https://dx.doi.org](https://dx.doi.org)
+ - date published: 2023-12-03T01:17:58.110575+00:00
+ - user: None
+ - tags: []
+
+## Dolphin Emulator - GameCube/Wii games on PC
+ - [https://dolphin-emu.org](https://dolphin-emu.org)
+ - date published: 2023-10-25T08:36:22.762291+00:00
+ - user: None
+ - tags: ['emulator']
+
+## Domain Verification Protocol
+ - [https://domainverification.org](https://domainverification.org)
+ - date published: 2023-10-25T21:15:06.523985+00:00
+ - user: None
+ - tags: []
+
+## Domain Verification Protocol
+ - [https://www.domainverification.org](https://www.domainverification.org)
+ - date published: 2023-10-25T21:15:07.191275+00:00
+ - user: None
+ - tags: []
+
+## Domestika
+ - [https://www.domestika.org](https://www.domestika.org)
+ - date published: 2023-10-24T20:19:43.752630+00:00
+ - user: None
+ - tags: ['drawing', 'tutorials', 'writing', 'courses']
+
+## None
+ - [https://donellameadows.org](https://donellameadows.org)
+ - date published: 2023-12-24T03:19:42.866506+00:00
+ - user: None
+ - tags: []
+
+## Free Donate Button - Donorbox Nonprofit Fundraising Software
+ - [https://donorbox.org](https://donorbox.org)
+ - date published: 2024-01-18T21:57:11.297764+00:00
+ - user: None
+ - tags: []
+
 ## The Doom Wiki at DoomWiki.org - Doom, Heretic, Hexen, Strife, and more
  - [https://doomwiki.org](https://doomwiki.org)
  - date published: 2023-10-25T21:15:10.502720+00:00
@@ -5826,186 +6006,6 @@ Common Weakness Enumeration
 ## Nim Programming Language
  - [https://nim-lang.org](https://nim-lang.org)
  - date published: 2023-10-25T21:48:18.211159+00:00
- - user: None
- - tags: []
-
-## Front Page - National Institute on Retirement Security
- - [https://www.nirsonline.org](https://www.nirsonline.org)
- - date published: 2023-10-27T12:06:50.540028+00:00
- - user: None
- - tags: []
-
-## Niskanen Center - Niskanen Center
- - [https://www.niskanencenter.org](https://www.niskanencenter.org)
- - date published: 2023-10-27T12:06:52.294662+00:00
- - user: None
- - tags: []
-
-## The Nivenly Foundation
- - [https://nivenly.org](https://nivenly.org)
- - date published: 2023-10-25T21:48:42.767553+00:00
- - user: None
- - tags: []
-
-## 20 Years of Nix
- - [https://20th.nixos.org](https://20th.nixos.org)
- - date published: 2023-10-25T21:48:44.867007+00:00
- - user: None
- - tags: []
-
-## NixOS Discourse - NixOS community forum
- - [https://discourse.nixos.org](https://discourse.nixos.org)
- - date published: 2023-10-25T21:48:46.933315+00:00
- - user: None
- - tags: []
-
-## Nix & NixOS | Reproducible builds and deployments
- - [https://nixos.org](https://nixos.org)
- - date published: 2023-10-25T21:48:48.526213+00:00
- - user: None
- - tags: []
-
-## Personal Website | Nick Long
- - [https://nlong.org](https://nlong.org)
- - date published: 2024-01-04T03:32:37.512387+00:00
- - user: None
- - tags: []
-
-## NO_COLOR: disabling ANSI color output by default
- - [https://no-color.org](https://no-color.org)
- - date published: 2023-10-25T21:48:56.184642+00:00
- - user: None
- - tags: []
-
-## Nobel Peace Prize - Home
- - [https://www.nobelpeaceprize.org](https://www.nobelpeaceprize.org)
- - date published: 2023-10-25T21:48:57.442582+00:00
- - user: None
- - tags: []
-
-## The official website of the Nobel Prize - NobelPrize.org
- - [https://www.nobelprize.org](https://www.nobelprize.org)
- - date published: 2023-10-25T21:49:01.273963+00:00
- - user: None
- - tags: []
-
-## Node.js
- - [https://nodejs.org](https://nodejs.org)
- - date published: 2023-10-25T08:34:04.424955+00:00
- - user: None
- - tags: ['javascript']
-
-## https://www.nodoping.org
- - [https://www.nodoping.org](https://www.nodoping.org)
- - date published: 2024-02-08T22:07:31.921657+00:00
- - user: None
- - tags: []
-
-## Human-made Content | Nonbot.org
- - [https://nonbot.org](https://nonbot.org)
- - date published: 2023-10-25T21:49:07.333742+00:00
- - user: None
- - tags: []
-
-## Welcome [Savannah]
- - [https://www.nongnu.org](https://www.nongnu.org)
- - date published: 2023-12-08T15:49:15.150101+00:00
- - user: None
- - tags: []
-
-## Official NORAD Tracks Santa
- - [https://www.noradsanta.org](https://www.noradsanta.org)
- - date published: 2023-10-25T21:49:15.959731+00:00
- - user: None
- - tags: []
-
-## Northern California Water Association
- - [https://norcalwater.org](https://norcalwater.org)
- - date published: 2024-01-24T20:56:43.500076+00:00
- - user: None
- - tags: []
-
-## NCPR: North Country Public Radio
- - [https://www.northcountrypublicradio.org](https://www.northcountrypublicradio.org)
- - date published: 2024-01-20T16:35:27.219759+00:00
- - user: None
- - tags: []
-
-## nota-bene.org, chez Stéphane
- - [https://nota-bene.org](https://nota-bene.org)
- - date published: 2023-12-22T17:50:59.722622+00:00
- - user: None
- - tags: []
-
-## Notepad++
- - [https://notepad-plus-plus.org](https://notepad-plus-plus.org)
- - date published: 2023-11-01T08:44:27.480004+00:00
- - user: None
- - tags: []
-
-## No Time To Play
- - [https://notimetoplay.org](https://notimetoplay.org)
- - date published: 2023-12-20T20:52:05.122891+00:00
- - user: None
- - tags: []
-
-## notmuch
- - [https://notmuchmail.org](https://notmuchmail.org)
- - date published: 2023-10-25T21:49:23.394283+00:00
- - user: None
- - tags: []
-
-## David "Novalis" Turner
- - [https://novalis.org](https://novalis.org)
- - date published: 2023-10-25T08:55:09.654027+00:00
- - user: None
- - tags: ['personal']
-
-## Show HN: NowDo – a super-simple todo app for procrastinators (macOS)
- - [https://nowdo.org](https://nowdo.org)
- - date published: 2023-12-17T02:18:02+00:00
- - user: None
- - tags: []
-
-## NPG - Negative Population Growth
- - [https://npg.org](https://npg.org)
- - date published: 2023-10-25T21:49:31.052897+00:00
- - user: None
- - tags: []
-
-## NPR Visuals + News Apps
- - [https://apps.npr.org](https://apps.npr.org)
- - date published: 2023-11-20T18:24:16.575994+00:00
- - user: None
- - tags: []
-
-## NPR - Breaking News, Analysis, Music, Arts & Podcasts : NPR
- - [https://feeds.npr.org](https://feeds.npr.org)
- - date published: 2023-10-25T10:50:53.329452+00:00
- - user: None
- - tags: []
-
-## NPR : National Public Radio
- - [https://text.npr.org](https://text.npr.org)
- - date published: 2023-10-25T21:49:34.712481+00:00
- - user: None
- - tags: []
-
-## NPR - Breaking News, Analysis, Music, Arts & Podcasts : NPR
- - [https://www.npr.org](https://www.npr.org)
- - date published: 2023-10-25T10:30:42.840665+00:00
- - user: None
- - tags: ['news', 'tiny desk concert']
-
-## Homepage | National Snow and Ice Data Center
- - [https://nsidc.org](https://nsidc.org)
- - date published: 2023-10-25T21:49:42.497034+00:00
- - user: None
- - tags: []
-
-## National Tidal and Sea Level Facility
- - [https://ntslf.org](https://ntslf.org)
- - date published: 2023-10-25T21:49:47.112219+00:00
  - user: None
  - tags: []
 

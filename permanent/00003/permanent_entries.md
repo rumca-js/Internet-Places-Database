@@ -1,3 +1,33 @@
+## Both Sides of the Table
+ - [https://bothsidesofthetable.com](https://bothsidesofthetable.com)
+ - date published: 2023-10-25T14:22:36.109786+00:00
+ - user: None
+ - tags: []
+
+## Computer Science from the Bottom Up
+ - [https://www.bottomupcs.com](https://www.bottomupcs.com)
+ - date published: 2023-10-25T14:22:42.149490+00:00
+ - user: None
+ - tags: []
+
+## Bounding Into Comics - Your destination for comic books, gaming, movies and more!
+ - [https://boundingintocomics.com](https://boundingintocomics.com)
+ - date published: 2023-10-25T11:19:12.732997+00:00
+ - user: None
+ - tags: ['movies', 'comic books', 'gaming']
+
+## Boundless: A Modern Immigration Company
+ - [https://www.boundless.com](https://www.boundless.com)
+ - date published: 2023-10-25T14:22:46.725060+00:00
+ - user: None
+ - tags: []
+
+## HOME | Bovska
+ - [https://www.bovska.com](https://www.bovska.com)
+ - date published: 2023-11-13T09:47:00.519610+00:00
+ - user: None
+ - tags: ['music band']
+
 ## Bowblog
  - [https://bowblog.com](https://bowblog.com)
  - date published: 2024-01-25T16:12:27.225195+00:00
@@ -163,6 +193,12 @@
 ## Brave New Geek – Introspections of a software engineer
  - [https://bravenewgeek.com](https://bravenewgeek.com)
  - date published: 2023-10-25T13:11:55.311751+00:00
+ - user: None
+ - tags: []
+
+## breadchris
+ - [https://breadchris.com](https://breadchris.com)
+ - date published: 2024-02-21T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5965,42 +6001,6 @@
 ## dansinker.com
  - [https://dansinker.com](https://dansinker.com)
  - date published: 2024-01-30T17:18:05.301664+00:00
- - user: None
- - tags: []
-
-## Dan Slimmon – Evidence-oriented SRE
- - [https://blog.danslimmon.com](https://blog.danslimmon.com)
- - date published: 2023-10-25T13:43:11.268220+00:00
- - user: None
- - tags: []
-
-## Dans Blog
- - [https://www.dantleech.com](https://www.dantleech.com)
- - date published: 2024-02-19T11:41:38.034298+00:00
- - user: None
- - tags: []
-
-## https://danwilkerson.com
- - [https://danwilkerson.com](https://danwilkerson.com)
- - date published: 2024-01-09T02:33:49.807719+00:00
- - user: None
- - tags: []
-
-## https://www.daolf.com
- - [https://www.daolf.com](https://www.daolf.com)
- - date published: 2024-01-09T02:33:55.914711+00:00
- - user: None
- - tags: []
-
-## dappGambl: Crypto Gambling, dApps & Blockchain [2023]
- - [https://dappgambl.com](https://dappgambl.com)
- - date published: 2023-10-25T13:43:20.753656+00:00
- - user: None
- - tags: []
-
-## Darek Kay — Solving web mysteries
- - [https://darekkay.com](https://darekkay.com)
- - date published: 2023-10-25T13:43:21.584138+00:00
  - user: None
  - tags: []
 

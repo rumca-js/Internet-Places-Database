@@ -1,3 +1,27 @@
+## Remixes | AmigaRemix
+ - [https://www.amigaremix.com](https://www.amigaremix.com)
+ - date published: 2023-10-25T11:20:05.098368+00:00
+ - user: None
+ - tags: ['chiptune', 'amiga', 'demoscene', 'keygen']
+
+## A Mighty Girl: Home | A Mighty Girl
+ - [https://www.amightygirl.com](https://www.amightygirl.com)
+ - date published: 2023-10-25T12:40:23.876358+00:00
+ - user: None
+ - tags: []
+
+## Amir Ghaffari's website
+ - [https://amirghaffari.com](https://amirghaffari.com)
+ - date published: 2023-12-21T03:31:24.500238+00:00
+ - user: None
+ - tags: []
+
+## AMIR MOTLAGH /  MIRS / ANIMALS
+ - [https://www.amirmotlagh.com](https://www.amirmotlagh.com)
+ - date published: 2023-11-29T15:48:22.992098+00:00
+ - user: None
+ - tags: []
+
 ## Excursions
  - [https://amitgawande.com](https://amitgawande.com)
  - date published: 2023-12-20T19:15:27.990550+00:00
@@ -727,6 +751,12 @@
 ## Home - Anton Thomas Art
  - [https://www.antonthomasart.com](https://www.antonthomasart.com)
  - date published: 2023-12-24T12:13:55.722550+00:00
+ - user: None
+ - tags: []
+
+## Show HN: A Tool to Help You Understand Your Anxious Friends Better
+ - [https://anxietysimulator.com](https://anxietysimulator.com)
+ - date published: 2024-02-21T13:31:59+00:00
  - user: None
  - tags: []
 
@@ -5975,34 +6005,4 @@
  - date published: 2024-01-09T02:31:16.529013+00:00
  - user: None
  - tags: []
-
-## Both Sides of the Table
- - [https://bothsidesofthetable.com](https://bothsidesofthetable.com)
- - date published: 2023-10-25T14:22:36.109786+00:00
- - user: None
- - tags: []
-
-## Computer Science from the Bottom Up
- - [https://www.bottomupcs.com](https://www.bottomupcs.com)
- - date published: 2023-10-25T14:22:42.149490+00:00
- - user: None
- - tags: []
-
-## Bounding Into Comics - Your destination for comic books, gaming, movies and more!
- - [https://boundingintocomics.com](https://boundingintocomics.com)
- - date published: 2023-10-25T11:19:12.732997+00:00
- - user: None
- - tags: ['movies', 'comic books', 'gaming']
-
-## Boundless: A Modern Immigration Company
- - [https://www.boundless.com](https://www.boundless.com)
- - date published: 2023-10-25T14:22:46.725060+00:00
- - user: None
- - tags: []
-
-## HOME | Bovska
- - [https://www.bovska.com](https://www.bovska.com)
- - date published: 2023-11-13T09:47:00.519610+00:00
- - user: None
- - tags: ['music band']
 

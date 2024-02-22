@@ -1,3 +1,93 @@
+## Temple of The Roguelike – Preserving the spirit of classic roguelikes
+ - [https://roguetemple.com](https://roguetemple.com)
+ - date published: 2023-10-25T16:53:45.225348+00:00
+ - user: None
+ - tags: []
+
+## Rogue VHS
+ - [https://roguevhs.com](https://roguevhs.com)
+ - date published: 2024-02-12T13:43:40+00:00
+ - user: rumpel
+ - tags: ['synthwave', 'music artist']
+
+## Rogule - a dungeon a day keeps the Balrog away
+ - [https://rogule.com](https://rogule.com)
+ - date published: 2023-10-25T16:53:50.312363+00:00
+ - user: None
+ - tags: []
+
+## Rohdesign
+ - [https://rohdesign.com](https://rohdesign.com)
+ - date published: 2023-12-09T14:59:37.930775+00:00
+ - user: None
+ - tags: []
+
+## Rohit Farmer's Personal Website
+ - [https://rohitfarmer.com](https://rohitfarmer.com)
+ - date published: 2024-02-01T03:07:26.250335+00:00
+ - user: None
+ - tags: []
+
+## About
+ - [https://rohitpaulk.com](https://rohitpaulk.com)
+ - date published: 2023-11-29T16:18:54.093413+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [https://www.roi-nj.com](https://www.roi-nj.com)
+ - date published: 2023-12-10T00:14:16.296424+00:00
+ - user: None
+ - tags: []
+
+## Roku Community Support | Fast Responses | Roku Community
+ - [https://community.roku.com](https://community.roku.com)
+ - date published: 2023-10-25T16:54:01.511231+00:00
+ - user: None
+ - tags: []
+
+## Roku
+ - [https://www.roku.com](https://www.roku.com)
+ - date published: 2023-10-24T20:19:37.202078+00:00
+ - user: None
+ - tags: []
+
+## Roland Articles | Home
+ - [https://articles.roland.com](https://articles.roland.com)
+ - date published: 2023-10-25T16:54:06.876407+00:00
+ - user: None
+ - tags: []
+
+## https://static.roland.com
+ - [https://static.roland.com](https://static.roland.com)
+ - date published: 2024-01-09T02:48:11.992808+00:00
+ - user: None
+ - tags: []
+
+## Roland - Global
+ - [https://www.roland.com](https://www.roland.com)
+ - date published: 2023-11-06T09:56:02.793816+00:00
+ - user: None
+ - tags: ['audio equipment']
+
+## Rolepad - Take the work out of the job search
+ - [https://rolepad.com](https://rolepad.com)
+ - date published: 2023-10-25T16:54:13.237013+00:00
+ - user: None
+ - tags: []
+
+## Roll Call - Covering Capitol Hill Since 1955
+ - [https://rollcall.com](https://rollcall.com)
+ - date published: 2023-10-25T16:54:16.275639+00:00
+ - user: None
+ - tags: []
+
+## Rolling Stone – Music, Film, TV and Political News Coverage
+ - [https://www.rollingstone.com](https://www.rollingstone.com)
+ - date published: 2023-10-25T16:18:12.778211+00:00
+ - user: None
+ - tags: ['political news', 'music news']
+
 ## Roll Or Don't
  - [https://www.rollordont.com](https://www.rollordont.com)
  - date published: 2023-10-25T16:54:28.108990+00:00
@@ -631,6 +721,12 @@
 ## Sagio Dev
  - [https://www.sagiodev.com](https://www.sagiodev.com)
  - date published: 2023-10-25T16:56:39.444290+00:00
+ - user: None
+ - tags: []
+
+## Reporting for and with Minnesota's immigrants and communities of color.
+ - [https://sahanjournal.com](https://sahanjournal.com)
+ - date published: 2024-02-21T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5908,102 +6004,6 @@
 ## Cabinet of Wonders | Samuel Arbesman | Substack
  - [https://arbesman.substack.com](https://arbesman.substack.com)
  - date published: 2023-10-25T09:42:37.648122+00:00
- - user: None
- - tags: ['substack']
-
-## Transmissions from the floor | Drew Schorno | Substack
- - [https://arcove.substack.com](https://arcove.substack.com)
- - date published: 2023-10-25T09:42:40.395493+00:00
- - user: None
- - tags: ['substack']
-
-## In My Tribe | Arnold Kling | Substack
- - [https://arnoldkling.substack.com](https://arnoldkling.substack.com)
- - date published: 2023-10-25T09:42:46.788508+00:00
- - user: None
- - tags: ['substack']
-
-## The Asianometry Newsletter | Jon Y | Substack
- - [https://asianometry.substack.com](https://asianometry.substack.com)
- - date published: 2023-10-25T09:42:50.856135+00:00
- - user: None
- - tags: ['substack']
-
-## Assisted Everything | Marco Witzmann | Substack
- - [https://assistedeverything.substack.com](https://assistedeverything.substack.com)
- - date published: 2023-10-25T09:42:57.739698+00:00
- - user: None
- - tags: ['substack']
-
-## Astral Codex Ten | Scott Alexander | Substack
- - [https://astralcodexten.substack.com](https://astralcodexten.substack.com)
- - date published: 2023-10-25T09:43:00.399502+00:00
- - user: None
- - tags: ['substack']
-
-## Athelas Engineering | Aakash Adesara | Substack
- - [https://athelaseng.substack.com](https://athelaseng.substack.com)
- - date published: 2023-10-25T09:43:02.627661+00:00
- - user: None
- - tags: ['substack']
-
-## atomic14 | Chris Greening | Substack
- - [https://atomic14.substack.com](https://atomic14.substack.com)
- - date published: 2023-11-04T18:28:36.332399+00:00
- - user: None
- - tags: []
-
-## Auerstack | David B. Auerbach | Substack
- - [https://auerstack.substack.com](https://auerstack.substack.com)
- - date published: 2023-10-25T09:43:04.705340+00:00
- - user: None
- - tags: ['substack']
-
-## Trying to Understand the World | Aurelien | Substack
- - [https://aurelien2022.substack.com](https://aurelien2022.substack.com)
- - date published: 2023-10-25T09:43:13.295537+00:00
- - user: None
- - tags: ['substack']
-
-## bookbear express | Ava | Substack
- - [https://ava.substack.com](https://ava.substack.com)
- - date published: 2023-10-25T09:43:14.791735+00:00
- - user: None
- - tags: ['substack']
-
-## Andreas Kling | Substack
- - [https://awesomekling.substack.com](https://awesomekling.substack.com)
- - date published: 2023-10-25T09:43:16.642349+00:00
- - user: None
- - tags: ['substack']
-
-## https://badnewsletter.substack.com
- - [https://badnewsletter.substack.com](https://badnewsletter.substack.com)
- - date published: 2024-01-21T18:29:58.388675+00:00
- - user: None
- - tags: []
-
-## Bad Software Advice | David Tate | Substack
- - [https://badsoftwareadvice.substack.com](https://badsoftwareadvice.substack.com)
- - date published: 2023-10-25T09:43:18.720440+00:00
- - user: None
- - tags: ['substack']
-
-## The Finest Tuners | Barry Z | Substack
- - [https://barryzhang.substack.com](https://barryzhang.substack.com)
- - date published: 2023-10-25T09:43:26.131333+00:00
- - user: None
- - tags: ['substack']
-
-## Basta’s Notes | Matt Basta | Substack
- - [https://basta.substack.com](https://basta.substack.com)
- - date published: 2023-10-25T09:43:29.590085+00:00
- - user: None
- - tags: ['substack']
-
-## Behavioral Value Investor | Gary Mishuris, CFA | Substack
- - [https://behavioralvalueinvestor.substack.com](https://behavioralvalueinvestor.substack.com)
- - date published: 2023-10-25T09:43:40.035975+00:00
  - user: None
  - tags: ['substack']
 

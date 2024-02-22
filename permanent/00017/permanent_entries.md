@@ -1,3 +1,153 @@
+## M6n.io
+ - [https://m6n.io](https://m6n.io)
+ - date published: 2023-10-25T20:00:26.354811+00:00
+ - user: None
+ - tags: []
+
+## The Mage's Guild
+ - [https://www.magesguild.io](https://www.magesguild.io)
+ - date published: 2024-02-03T18:41:44.875106+00:00
+ - user: None
+ - tags: []
+
+## Major Hayden
+ - [https://major.io](https://major.io)
+ - date published: 2023-10-25T08:49:38.012974+00:00
+ - user: None
+ - tags: ['personal']
+
+## Manabi Reader – Learn Japanese by Reading on iOS, iPadOS & macOS
+ - [https://reader.manabi.io](https://reader.manabi.io)
+ - date published: 2023-10-25T20:00:29.135011+00:00
+ - user: None
+ - tags: []
+
+## Map Genie | Awesome Interactive Game Maps
+ - [https://mapgenie.io](https://mapgenie.io)
+ - date published: 2023-11-13T13:33:59.935262+00:00
+ - user: None
+ - tags: ['game maps', 'video games']
+
+## marcel.io
+ - [https://marcel.io](https://marcel.io)
+ - date published: 2024-02-07T16:46:13.591201+00:00
+ - user: None
+ - tags: ['personal']
+
+## martyna.io - Private Site Access
+ - [https://martyna.io](https://martyna.io)
+ - date published: 2024-02-09T22:22:36.968074+00:00
+ - user: None
+ - tags: []
+
+## Material Design
+ - [https://material.io](https://material.io)
+ - date published: 2023-10-25T20:00:36.734434+00:00
+ - user: None
+ - tags: []
+
+## Materialized View | Chris Riccomini | Substack
+ - [https://materializedview.io](https://materializedview.io)
+ - date published: 2023-12-22T18:37:31.093475+00:00
+ - user: None
+ - tags: []
+
+## Mats3 - Mats3: Message-based Asynchronous Transactional Staged Stateless Services
+ - [https://mats3.io](https://mats3.io)
+ - date published: 2023-10-25T20:00:38.397584+00:00
+ - user: None
+ - tags: []
+
+## Shiki
+ - [https://shiki.matsu.io](https://shiki.matsu.io)
+ - date published: 2023-10-25T20:00:40.369206+00:00
+ - user: None
+ - tags: []
+
+## Thoughts on building & selling software
+ - [https://www.matthensley.io](https://www.matthensley.io)
+ - date published: 2024-01-17T14:36:18.006834+00:00
+ - user: None
+ - tags: []
+
+## Hi there! - matthieu.io
+ - [https://matthieu.io](https://matthieu.io)
+ - date published: 2023-10-25T08:49:39.454595+00:00
+ - user: None
+ - tags: ['personal']
+
+## MAXLAB.IO | Canadian Computer Vision Company
+ - [https://maxlab.io](https://maxlab.io)
+ - date published: 2023-10-25T20:00:42.506555+00:00
+ - user: None
+ - tags: []
+
+## mayari 🌙✨
+ - [https://www.mayari.io](https://www.mayari.io)
+ - date published: 2024-01-24T08:01:32.640740+00:00
+ - user: None
+ - tags: []
+
+## https://www.mayerowitz.io
+ - [https://www.mayerowitz.io](https://www.mayerowitz.io)
+ - date published: 2023-10-26T23:41:55.043352+00:00
+ - user: None
+ - tags: []
+
+## meain/blog
+ - [https://blog.meain.io](https://blog.meain.io)
+ - date published: 2023-10-25T08:59:26.694324+00:00
+ - user: None
+ - tags: ['personal']
+
+## Новости — Meduza
+ - [https://meduza.io](https://meduza.io)
+ - date published: 2023-10-25T20:00:45.062148+00:00
+ - user: None
+ - tags: []
+
+## Metrist Home - Metrist
+ - [https://metrist.io](https://metrist.io)
+ - date published: 2023-10-25T20:00:48.464072+00:00
+ - user: None
+ - tags: []
+
+## Michael Dresser’s blog
+ - [https://blog.michaeldresser.io](https://blog.michaeldresser.io)
+ - date published: 2023-10-25T20:00:49.700037+00:00
+ - user: None
+ - tags: []
+
+## Michelin IT Engineering Blog
+ - [https://blogit.michelin.io](https://blogit.michelin.io)
+ - date published: 2023-10-25T20:00:52.213437+00:00
+ - user: None
+ - tags: []
+
+## 👨‍💻 Richard Chan
+ - [https://www.middlekid.io](https://www.middlekid.io)
+ - date published: 2024-01-04T08:13:08.995762+00:00
+ - user: None
+ - tags: []
+
+## Andrei Kovalev's Midlibrary: Midjourney AI Styles Library and Guide
+ - [https://midlibrary.io](https://midlibrary.io)
+ - date published: 2024-01-13T04:17:36.992723+00:00
+ - user: None
+ - tags: []
+
+## Milk-V | Embracing RISC-V with us
+ - [https://milkv.io](https://milkv.io)
+ - date published: 2023-10-25T20:00:53.948439+00:00
+ - user: None
+ - tags: []
+
+## Životne priče i monasi Šaolina
+ - [https://milos.io](https://milos.io)
+ - date published: 2016-12-16T16:49:52+00:00
+ - user: None
+ - tags: []
+
 ## Vector database - Milvus
  - [https://milvus.io](https://milvus.io)
  - date published: 2023-10-25T20:00:58.393335+00:00
@@ -1161,6 +1311,12 @@
 ## Maxima, a Computer Algebra System
  - [https://maxima.sourceforge.io](https://maxima.sourceforge.io)
  - date published: 2023-10-25T20:07:19.918161+00:00
+ - user: None
+ - tags: []
+
+## XL: An Extensible Programming Language
+ - [https://xlr.sourceforge.io](https://xlr.sourceforge.io)
+ - date published: 2024-02-21T12:39:12+00:00
  - user: None
  - tags: []
 
@@ -5845,162 +6001,6 @@ End-to-end typesafe APIs made easy. | tRPC
 ## Mackenzie Morgan
  - [https://mackenzie.morgan.name](https://mackenzie.morgan.name)
  - date published: 2023-11-29T17:07:05.410622+00:00
- - user: None
- - tags: []
-
-## Paul Mucur
- - [https://mudge.name](https://mudge.name)
- - date published: 2023-11-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Nick Morris
- - [https://nickmorris.name](https://nickmorris.name)
- - date published: 2024-02-02T14:27:11.007543+00:00
- - user: None
- - tags: []
-
-## Geek Blight - Home
- - [https://rg3.name](https://rg3.name)
- - date published: 2023-10-25T20:23:20.284813+00:00
- - user: None
- - tags: []
-
-## Steno & PL
- - [https://blog.waleedkhan.name](https://blog.waleedkhan.name)
- - date published: 2023-10-25T20:23:22.026256+00:00
- - user: None
- - tags: []
-
-## Will Thompson
- - [https://willthompson.name](https://willthompson.name)
- - date published: 2023-10-25T08:51:51.530724+00:00
- - user: None
- - tags: ['personal']
-
-## Voiture neuve Citroën - Citroën Nouvelle Calédonie
- - [https://www.citroen.nc](https://www.citroen.nc)
- - date published: 2023-12-11T15:50:14.378552+00:00
- - user: None
- - tags: []
-
-## Get priority access
- - [https://hu.ma.ne](https://hu.ma.ne)
- - date published: 2023-10-25T20:23:28.686863+00:00
- - user: None
- - tags: []
-
-## Home |  Frank DENIS random thoughts.
- - [https://00f.net](https://00f.net)
- - date published: 2023-12-11T18:19:27.201497+00:00
- - user: None
- - tags: []
-
-## http://0pointer.net/
- - [https://0pointer.net](https://0pointer.net)
- - date published: 2023-10-25T20:23:29.773158+00:00
- - user: None
- - tags: []
-
-## Filip Borkiewicz
- - [https://0x46.net](https://0x46.net)
- - date published: 2023-10-25T09:00:07.431158+00:00
- - user: None
- - tags: ['personal']
-
-## 10xJobs.net, High paying tech jobs
- - [https://10xjobs.net](https://10xjobs.net)
- - date published: 2023-10-25T20:23:31.562851+00:00
- - user: None
- - tags: []
-
-## The Twelve-Factor App
- - [https://12factor.net](https://12factor.net)
- - date published: 2023-10-25T20:23:33.057071+00:00
- - user: None
- - tags: []
-
-## Amigan Software: Site Map
- - [https://amigan.1emu.net](https://amigan.1emu.net)
- - date published: 2024-01-09T03:34:35.504778+00:00
- - user: None
- - tags: []
-
-## 1NT3R.NET
- - [https://1nt3r.net](https://1nt3r.net)
- - date published: 2023-10-25T20:23:34.374364+00:00
- - user: None
- - tags: []
-
-## Computer Graphics & Programming with Pekka Väänänen - 30fps.net
- - [https://30fps.net](https://30fps.net)
- - date published: 2023-10-25T20:23:35.503700+00:00
- - user: None
- - tags: []
-
-## Stock 360° Panoramic Images and Videos for VR and More | 360Cities
- - [https://www.360cities.net](https://www.360cities.net)
- - date published: 2024-01-23T19:06:18.316203+00:00
- - user: None
- - tags: ['virtual reality']
-
-## Online 3D Viewer
- - [https://3dviewer.net](https://3dviewer.net)
- - date published: 2023-10-25T20:23:36.608327+00:00
- - user: None
- - tags: []
-
-## Domain Seized
- - [https://3lib.net](https://3lib.net)
- - date published: 2024-01-09T03:34:36.962873+00:00
- - user: None
- - tags: []
-
-## Programowanie: serwis dla programistów
- - [https://4programmers.net](https://4programmers.net)
- - date published: 2023-11-01T08:43:51.447999+00:00
- - user: None
- - tags: ['c++', 'java', 'c#', 'programming', 'cpp']
-
-## 512 Pixels
- - [https://512pixels.net](https://512pixels.net)
- - date published: 2023-10-25T20:23:40.952223+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.69find.net](https://www.69find.net)
- - date published: 2024-02-08T16:45:07.077935+00:00
- - user: None
- - tags: []
-
-## 80/20 Aluminum T-slot Building Systems | 80/20 Aluminum Extrusions
- - [https://8020.net](https://8020.net)
- - date published: 2023-10-25T20:23:45.365100+00:00
- - user: None
- - tags: []
-
-## Emulator of retro x86-based machines
- - [https://86box.net](https://86box.net)
- - date published: 2023-10-25T08:36:11.618732+00:00
- - user: None
- - tags: []
-
-## COMMODEXPLORER – La radio des ordinateurs des années 80-90
- - [https://COMMODEXPLORER.C-Prod.net](https://COMMODEXPLORER.C-Prod.net)
- - date published: 2024-02-15T22:12:32.762022+00:00
- - user: None
- - tags: ['demoscene']
-
-## Welcome - CVGM.net - Chiptune, Retro & Video Game Music
- - [http://Radio.CVGM.net](http://Radio.CVGM.net)
- - date published: 2024-02-15T02:00:20.008732+00:00
- - user: None
- - tags: []
-
-## Welcome - CVGM.net - Chiptune, Retro & Video Game Music
- - [https://Radio.CVGM.net](https://Radio.CVGM.net)
- - date published: 2023-01-01T00:00:00+00:00
  - user: None
  - tags: []
 

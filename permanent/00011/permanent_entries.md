@@ -1,3 +1,99 @@
+## Transmissions from the floor | Drew Schorno | Substack
+ - [https://arcove.substack.com](https://arcove.substack.com)
+ - date published: 2023-10-25T09:42:40.395493+00:00
+ - user: None
+ - tags: ['substack']
+
+## In My Tribe | Arnold Kling | Substack
+ - [https://arnoldkling.substack.com](https://arnoldkling.substack.com)
+ - date published: 2023-10-25T09:42:46.788508+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Asianometry Newsletter | Jon Y | Substack
+ - [https://asianometry.substack.com](https://asianometry.substack.com)
+ - date published: 2023-10-25T09:42:50.856135+00:00
+ - user: None
+ - tags: ['substack']
+
+## Assisted Everything | Marco Witzmann | Substack
+ - [https://assistedeverything.substack.com](https://assistedeverything.substack.com)
+ - date published: 2023-10-25T09:42:57.739698+00:00
+ - user: None
+ - tags: ['substack']
+
+## Astral Codex Ten | Scott Alexander | Substack
+ - [https://astralcodexten.substack.com](https://astralcodexten.substack.com)
+ - date published: 2023-10-25T09:43:00.399502+00:00
+ - user: None
+ - tags: ['substack']
+
+## Athelas Engineering | Aakash Adesara | Substack
+ - [https://athelaseng.substack.com](https://athelaseng.substack.com)
+ - date published: 2023-10-25T09:43:02.627661+00:00
+ - user: None
+ - tags: ['substack']
+
+## atomic14 | Chris Greening | Substack
+ - [https://atomic14.substack.com](https://atomic14.substack.com)
+ - date published: 2023-11-04T18:28:36.332399+00:00
+ - user: None
+ - tags: []
+
+## Auerstack | David B. Auerbach | Substack
+ - [https://auerstack.substack.com](https://auerstack.substack.com)
+ - date published: 2023-10-25T09:43:04.705340+00:00
+ - user: None
+ - tags: ['substack']
+
+## Trying to Understand the World | Aurelien | Substack
+ - [https://aurelien2022.substack.com](https://aurelien2022.substack.com)
+ - date published: 2023-10-25T09:43:13.295537+00:00
+ - user: None
+ - tags: ['substack']
+
+## bookbear express | Ava | Substack
+ - [https://ava.substack.com](https://ava.substack.com)
+ - date published: 2023-10-25T09:43:14.791735+00:00
+ - user: None
+ - tags: ['substack']
+
+## Andreas Kling | Substack
+ - [https://awesomekling.substack.com](https://awesomekling.substack.com)
+ - date published: 2023-10-25T09:43:16.642349+00:00
+ - user: None
+ - tags: ['substack']
+
+## https://badnewsletter.substack.com
+ - [https://badnewsletter.substack.com](https://badnewsletter.substack.com)
+ - date published: 2024-01-21T18:29:58.388675+00:00
+ - user: None
+ - tags: []
+
+## Bad Software Advice | David Tate | Substack
+ - [https://badsoftwareadvice.substack.com](https://badsoftwareadvice.substack.com)
+ - date published: 2023-10-25T09:43:18.720440+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Finest Tuners | Barry Z | Substack
+ - [https://barryzhang.substack.com](https://barryzhang.substack.com)
+ - date published: 2023-10-25T09:43:26.131333+00:00
+ - user: None
+ - tags: ['substack']
+
+## Basta’s Notes | Matt Basta | Substack
+ - [https://basta.substack.com](https://basta.substack.com)
+ - date published: 2023-10-25T09:43:29.590085+00:00
+ - user: None
+ - tags: ['substack']
+
+## Behavioral Value Investor | Gary Mishuris, CFA | Substack
+ - [https://behavioralvalueinvestor.substack.com](https://behavioralvalueinvestor.substack.com)
+ - date published: 2023-10-25T09:43:40.035975+00:00
+ - user: None
+ - tags: ['substack']
+
 ## Eurykosmotron | Ben Goertzel | Substack
  - [https://bengoertzel.substack.com](https://bengoertzel.substack.com)
  - date published: 2023-10-25T09:43:42.224883+00:00
@@ -5807,6 +5903,12 @@
  - user: None
  - tags: []
 
+## The Ruby on Rails Podcast
+ - [https://www.therubyonrailspodcast.com](https://www.therubyonrailspodcast.com)
+ - date published: 2024-02-21T16:44:33.611753+00:00
+ - user: None
+ - tags: ['programming', 'podcast']
+
 ## The Satanic Temple - Official Website
  - [https://thesatanictemple.com](https://thesatanictemple.com)
  - date published: 2023-12-05T15:12:31+00:00
@@ -5896,106 +5998,4 @@
  - date published: 2023-10-25T10:16:34.615346+00:00
  - user: None
  - tags: []
-
-## 3+ Ingredient Magic Meals
- - [https://thestonesoup.com](https://thestonesoup.com)
- - date published: 2024-01-11T13:28:21.560862+00:00
- - user: None
- - tags: []
-
-## The Stork and I, Solo Motherhood Coach
- - [https://thestorkandi.com](https://thestorkandi.com)
- - date published: 2024-01-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## The StoryGraph
- - [https://app.thestorygraph.com](https://app.thestorygraph.com)
- - date published: 2023-12-18T23:09:38.819981+00:00
- - user: None
- - tags: []
-
-## Homepage - The Storytellers
- - [https://thestorytellers.com](https://thestorytellers.com)
- - date published: 2023-10-25T17:39:20.175714+00:00
- - user: None
- - tags: []
-
-## Togel Online | Togel Singapore | Togel Hongkong | Bandar Togel Online
- - [https://www.thestrayphotographer.com](https://www.thestrayphotographer.com)
- - date published: 2024-01-28T13:20:19.465059+00:00
- - user: None
- - tags: []
-
-## thestreet.com
- - [https://www.thestreet.com](https://www.thestreet.com)
- - date published: 2023-10-25T10:58:50.346204+00:00
- - user: None
- - tags: []
-
-## The Systems Thinker – The Systems Thinker -
- - [https://thesystemsthinker.com](https://thesystemsthinker.com)
- - date published: 2023-10-25T17:39:24.113619+00:00
- - user: None
- - tags: []
-
-## The Tech
- - [https://thetech.com](https://thetech.com)
- - date published: 2023-10-25T17:39:32.335916+00:00
- - user: None
- - tags: []
-
-## the tech deviant – tech, AI, art, etc.
- - [https://www.thetechdeviant.com](https://www.thetechdeviant.com)
- - date published: 2023-10-25T17:39:37.878292+00:00
- - user: None
- - tags: []
-
-## The Ted K Archive
- - [https://www.thetedkarchive.com](https://www.thetedkarchive.com)
- - date published: 2024-01-29T11:28:13+00:00
- - user: rumpel
- - tags: ['unabomber', 'ted kaczynski']
-
-## Thaiger
- - [https://thethaiger.com](https://thethaiger.com)
- - date published: 2023-11-07T18:32:57.135612+00:00
- - user: None
- - tags: []
-
-## Three virtues of a great programmer
- - [https://thethreevirtues.com](https://thethreevirtues.com)
- - date published: 2024-02-15T17:10:15+00:00
- - user: None
- - tags: []
-
-## The official website of the band The Ting Tings.
- - [https://thetingtings.com](https://thetingtings.com)
- - date published: 2023-10-30T12:06:10.450298+00:00
- - user: None
- - tags: ['music band']
-
-## TinyCTO
- - [https://thetinycto.com](https://thetinycto.com)
- - date published: 2023-10-25T17:39:38.508271+00:00
- - user: None
- - tags: []
-
-## The Tiny Life: Tiny Houses, Minimalism, Homesteading | Welcome
- - [https://thetinylife.com](https://thetinylife.com)
- - date published: 2023-10-25T17:39:42.804145+00:00
- - user: None
- - tags: []
-
-## Thomas Desmond - Writer, Speaker, Content Creator
- - [https://thetombomb.com](https://thetombomb.com)
- - date published: 2023-12-03T01:44:13.963138+00:00
- - user: None
- - tags: []
-
-## HOME | TheTomMason
- - [https://www.thetommason.com](https://www.thetommason.com)
- - date published: 2023-11-01T18:29:06.630318+00:00
- - user: None
- - tags: ['miniatures', 'sculpting', 'hobby']
 

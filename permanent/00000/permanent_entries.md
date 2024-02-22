@@ -2254,6 +2254,12 @@
  - user: None
  - tags: []
 
+## the smallest app studio
+ - [https://smallest.app](https://smallest.app)
+ - date published: 2024-02-21T17:56:13.597364+00:00
+ - user: None
+ - tags: []
+
 ## Spectrolite
  - [https://spectrolite.app](https://spectrolite.app)
  - date published: 2023-10-25T11:48:58.865948+00:00
@@ -5837,6 +5843,12 @@
  - user: None
  - tags: []
 
+## Insecure vehicles should be banned, not security tools like the Flipper Zero
+ - [https://saveflipper.ca](https://saveflipper.ca)
+ - date published: 2024-02-21T11:20:49+00:00
+ - user: None
+ - tags: []
+
 ## Scholastic Canada
  - [https://www.scholastic.ca](https://www.scholastic.ca)
  - date published: 2024-01-02T00:03:11.274641+00:00
@@ -5984,18 +5996,6 @@
 ## Department of Electrical, Computer, & Biomedical Engineering - Toronto Metropolitan University
  - [https://www.ecb.torontomu.ca](https://www.ecb.torontomu.ca)
  - date published: 2023-10-25T12:08:29.901066+00:00
- - user: None
- - tags: []
-
-## Toronto Users Group for Power Systems
- - [https://www.tug.ca](https://www.tug.ca)
- - date published: 2023-10-25T12:08:30.829886+00:00
- - user: None
- - tags: []
-
-## University of Alberta
- - [https://www.ualberta.ca](https://www.ualberta.ca)
- - date published: 2023-11-07T11:03:04.316671+00:00
  - user: None
  - tags: []
 

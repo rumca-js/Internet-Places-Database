@@ -1,3 +1,201 @@
+## World of Paleoanthropology – Join us on a Journey through Deep Human Time…
+ - [https://worldofpaleoanthropology.org](https://worldofpaleoanthropology.org)
+ - date published: 2023-10-25T22:22:16.776641+00:00
+ - user: None
+ - tags: []
+
+## World of Spectrum
+ - [https://www.worldofspectrum.org](https://www.worldofspectrum.org)
+ - date published: 2024-01-09T03:43:17.518087+00:00
+ - user: None
+ - tags: []
+
+## WOSU News | WOSU News
+ - [https://news.wosu.org](https://news.wosu.org)
+ - date published: 2023-12-22T19:25:47.692968+00:00
+ - user: None
+ - tags: []
+
+## Wisconsin Public Radio
+ - [https://www.wpr.org](https://www.wpr.org)
+ - date published: 2023-11-25T18:29:48.496756+00:00
+ - user: None
+ - tags: []
+
+## Winter Park Sidewalk Art Festival
+ - [https://www.wpsaf.org](https://www.wpsaf.org)
+ - date published: 2024-02-08T17:42:21.876866+00:00
+ - user: None
+ - tags: []
+
+## WriteFreely
+ - [https://writefreely.org](https://writefreely.org)
+ - date published: 2023-10-25T22:22:17.991561+00:00
+ - user: None
+ - tags: []
+
+## Write Free Software
+ - [https://writefreesoftware.org](https://writefreesoftware.org)
+ - date published: 2023-10-25T22:22:24.018433+00:00
+ - user: None
+ - tags: []
+
+## World Socialist Web Site - Marxist analysis, international working class struggles & the fight for socialism
+ - [https://www.wsws.org](https://www.wsws.org)
+ - date published: 2023-10-25T22:22:35.983932+00:00
+ - user: None
+ - tags: []
+
+## Wyoming Public Media | Inspires, Educates and Connects Wyoming  | Wyoming Public Media
+ - [https://www.wyomingpublicmedia.org](https://www.wyomingpublicmedia.org)
+ - date published: 2023-11-14T12:55:09.440375+00:00
+ - user: None
+ - tags: []
+
+## lists.x.org Mailing Lists
+ - [https://lists.x.org](https://lists.x.org)
+ - date published: 2023-10-25T22:22:42.517159+00:00
+ - user: None
+ - tags: []
+
+## X.Org
+ - [https://www.x.org](https://www.x.org)
+ - date published: 2023-10-25T22:22:44.175728+00:00
+ - user: None
+ - tags: ['open source', 'x.org']
+
+## The X11 Conservancy Project | Home
+ - [https://x11cp.org](https://x11cp.org)
+ - date published: 2023-10-25T22:22:44.911678+00:00
+ - user: None
+ - tags: []
+
+## The Animated Elliptic Curve
+ - [https://curves.xargs.org](https://curves.xargs.org)
+ - date published: 2023-10-25T22:22:46.560899+00:00
+ - user: None
+ - tags: []
+
+## xBrowserSync - Browser syncing as it should be: secure, anonymous and free!
+ - [https://www.xbrowsersync.org](https://www.xbrowsersync.org)
+ - date published: 2023-10-25T22:22:47.617487+00:00
+ - user: None
+ - tags: []
+
+## XEmacs: The next generation of Emacs
+ - [https://www.xemacs.org](https://www.xemacs.org)
+ - date published: 2023-10-25T22:22:53.892766+00:00
+ - user: None
+ - tags: []
+
+## Middle-earth & J.R.R. Tolkien Blog – by Michael Martinez
+ - [https://middle-earth.xenite.org](https://middle-earth.xenite.org)
+ - date published: 2023-10-25T22:22:59.286432+00:00
+ - user: None
+ - tags: []
+
+## Xenocara
+ - [https://xenocara.org](https://xenocara.org)
+ - date published: 2023-10-25T22:23:00.216944+00:00
+ - user: None
+ - tags: []
+
+## start [Xfce Wiki]
+ - [https://wiki.xfce.org](https://wiki.xfce.org)
+ - date published: 2023-10-25T22:23:07.349440+00:00
+ - user: None
+ - tags: []
+
+## Xiph.org
+ - [https://xiph.org](https://xiph.org)
+ - date published: 2023-10-25T22:23:09.030980+00:00
+ - user: None
+ - tags: []
+
+## XMPP | The universal messaging standard
+ - [https://xmpp.org](https://xmpp.org)
+ - date published: 2023-10-25T22:23:10.869081+00:00
+ - user: None
+ - tags: []
+
+## XOOPS Web Application System - Powered by You!
+ - [https://www.xoops.org](https://www.xoops.org)
+ - date published: 2023-12-11T18:56:18.533855+00:00
+ - user: None
+ - tags: []
+
+## GitHub - Xpra-org/xpra: Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
+ - [https://xpra.org](https://xpra.org)
+ - date published: 2023-10-25T22:23:15.099636+00:00
+ - user: None
+ - tags: []
+
+## XPRIZE Foundation
+ - [https://www.xprize.org](https://www.xprize.org)
+ - date published: 2023-10-25T22:23:16.519379+00:00
+ - user: None
+ - tags: []
+
+## Welcome
+ - [https://xteddy.org](https://xteddy.org)
+ - date published: 2023-10-25T22:23:17.710966+00:00
+ - user: None
+ - tags: []
+
+## Yale Climate Connections
+ - [https://yaleclimateconnections.org](https://yaleclimateconnections.org)
+ - date published: 2024-01-21T19:45:03.571967+00:00
+ - user: None
+ - tags: []
+
+## The Yale Review | Homepage
+ - [https://yalereview.org](https://yalereview.org)
+ - date published: 2023-10-25T22:23:27.461566+00:00
+ - user: None
+ - tags: []
+
+## YAMLScript.org
+ - [https://yamlscript.org](https://yamlscript.org)
+ - date published: 2023-12-21T23:22:49.234264+00:00
+ - user: None
+ - tags: []
+
+## The Yesterweb - Reclaiming the Internet
+ - [https://yesterweb.org](https://yesterweb.org)
+ - date published: 2024-01-09T13:30:22+00:00
+ - user: rumpel
+ - tags: ['social platform']
+
+## 印记 | 君子可内敛不可懦弱，面不公可起而论之
+ - [https://yinji.org](https://yinji.org)
+ - date published: 2024-01-11T13:28:39.670286+00:00
+ - user: None
+ - tags: []
+
+## Yoshua Bengio -
+ - [https://yoshuabengio.org](https://yoshuabengio.org)
+ - date published: 2023-10-25T22:23:34.654490+00:00
+ - user: None
+ - tags: []
+
+## Own Your Data
+ - [https://yourdigitalrights.org](https://yourdigitalrights.org)
+ - date published: 2023-10-25T22:23:40.557053+00:00
+ - user: None
+ - tags: []
+
+## https://youtube-dl.org
+ - [https://youtube-dl.org](https://youtube-dl.org)
+ - date published: 2023-11-27T13:33:54+00:00
+ - user: rumpel
+ - tags: ['open source', 'youtube']
+
+## YPR HOMEPAGE | YPR
+ - [https://www.ypradio.org](https://www.ypradio.org)
+ - date published: 2024-02-08T17:47:29.516258+00:00
+ - user: None
+ - tags: []
+
 ## YunoHost • index
  - [https://yunohost.org](https://yunohost.org)
  - date published: 2023-10-25T22:23:41.314283+00:00
@@ -254,6 +452,12 @@ Zig Programming Language
 ## paulo pinto dot page
  - [https://paulopinto.page](https://paulopinto.page)
  - date published: 2023-12-08T08:32:27.632081+00:00
+ - user: None
+ - tags: []
+
+## Nerve Signals
+ - [https://nerve-signals.pika.page](https://nerve-signals.pika.page)
+ - date published: 2024-02-19T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5807,208 +6011,4 @@ conflicts of interest and restore Community Trust.
  - date published: 2023-11-09T12:46:12.081546+00:00
  - user: None
  - tags: []
-
-## Firefish Social
- - [https://firefish.social](https://firefish.social)
- - date published: 2023-10-24T20:13:59.673761+00:00
- - user: None
- - tags: ['mastodon']
-
-## Flipboard
- - [https://flipboard.social](https://flipboard.social)
- - date published: 2023-10-24T20:14:00.608002+00:00
- - user: None
- - tags: ['mastodon']
-
-## FLOSS.social
- - [https://floss.social](https://floss.social)
- - date published: 2023-10-24T20:14:01.314852+00:00
- - user: None
- - tags: ['mastodon']
-
-## Front-End Social
- - [https://front-end.social](https://front-end.social)
- - date published: 2023-10-24T20:14:01.864788+00:00
- - user: None
- - tags: ['mastodon']
-
-## Akkoma
- - [https://genserver.social](https://genserver.social)
- - date published: 2023-10-24T20:14:02.904857+00:00
- - user: None
- - tags: ['mastodon']
-
-## Show HN: Sherlock – AI that chats with your friends about their gift wishes
- - [https://www.giftit.social](https://www.giftit.social)
- - date published: 2023-12-11T19:13:54+00:00
- - user: None
- - tags: []
-
-## graz.social
- - [https://graz.social](https://graz.social)
- - date published: 2023-10-25T22:41:35.241574+00:00
- - user: None
- - tags: []
-
-## Mastodon
- - [https://gultsch.social](https://gultsch.social)
- - date published: 2024-02-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## Idle Mastodon
- - [https://idlethumbs.social](https://idlethumbs.social)
- - date published: 2023-11-12T18:45:17.298083+00:00
- - user: None
- - tags: []
-
-## Indieweb.Social
- - [https://indieweb.social](https://indieweb.social)
- - date published: 2023-12-11T16:22:02.290659+00:00
- - user: None
- - tags: []
-
-## Mastodon instances
- - [https://instances.social](https://instances.social)
- - date published: 2023-10-24T20:14:03.649565+00:00
- - user: None
- - tags: ['mastodon']
-
-## kbin.social - Explore the Fediverse
- - [https://kbin.social](https://kbin.social)
- - date published: 2023-10-24T20:14:07.177014+00:00
- - user: None
- - tags: ['mastodon']
-
-## Kestrel's Nest
- - [https://blog.kestrelsnest.social](https://blog.kestrelsnest.social)
- - date published: 2023-12-12T08:10:15.894053+00:00
- - user: None
- - tags: []
-
-## kolektiva.social
- - [https://kolektiva.social](https://kolektiva.social)
- - date published: 2023-10-24T20:14:07.746877+00:00
- - user: None
- - tags: ['mastodon']
-
-## Mastodon
- - [https://mastodon.social](https://mastodon.social)
- - date published: 2023-10-24T20:14:08.225237+00:00
- - user: None
- - tags: ['mastodon']
-
-## Mozilla Social
- - [https://mozilla.social](https://mozilla.social)
- - date published: 2023-10-24T20:14:09.821304+00:00
- - user: None
- - tags: ['mastodon']
-
-## Mastodon 🐘
- - [https://mstdn.social](https://mstdn.social)
- - date published: 2023-10-24T20:14:10.330696+00:00
- - user: None
- - tags: ['mastodon']
-
-## the Octodon
- - [https://octodon.social](https://octodon.social)
- - date published: 2023-11-29T10:39:01.415827+00:00
- - user: None
- - tags: []
-
-## OpenDolphin
- - [https://about.opendolphin.social](https://about.opendolphin.social)
- - date published: 2023-10-24T20:13:16.241264+00:00
- - user: None
- - tags: []
-
-## Home · Pinafore
- - [https://pinafore.social](https://pinafore.social)
- - date published: 2023-10-24T20:14:11.069010+00:00
- - user: None
- - tags: ['mastodon']
-
-## Ponies on Mastodon
- - [https://pony.social](https://pony.social)
- - date published: 2023-10-24T20:14:11.679526+00:00
- - user: None
- - tags: ['mastodon', 'the left wing', 'lgbt']
-
-## Retro Social
- - [https://retro.social](https://retro.social)
- - date published: 2023-11-27T08:29:44.189204+00:00
- - user: None
- - tags: ['mastodon']
-
-## Rings
- - [https://rings.social](https://rings.social)
- - date published: 2023-10-24T20:14:16.984207+00:00
- - user: None
- - tags: ['mastodon']
-
-## How to run a small social network
- - [https://runyourown.social](https://runyourown.social)
- - date published: 2023-12-31T17:08:13+00:00
- - user: None
- - tags: []
-
-## Scholar Social
- - [https://scholar.social](https://scholar.social)
- - date published: 2024-01-19T08:47:10.669098+00:00
- - user: None
- - tags: []
-
-## Ex-Searchtodon: Private Timeline Search for Mastodon
- - [https://searchtodon.social](https://searchtodon.social)
- - date published: 2023-10-24T20:14:22.655817+00:00
- - user: None
- - tags: ['mastodon']
-
-## SFBA.social
- - [https://sfba.social](https://sfba.social)
- - date published: 2023-10-24T20:14:23.701217+00:00
- - user: None
- - tags: ['mastodon']
-
-## SKRT! SKRT!
- - [https://skrt.social](https://skrt.social)
- - date published: 2024-02-08T16:58:12.981719+00:00
- - user: None
- - tags: []
-
-## Skyview
- - [https://skyview.social](https://skyview.social)
- - date published: 2023-10-24T20:14:24.128743+00:00
- - user: None
- - tags: ['mastodon']
-
-## StreetPass for Mastodon
- - [https://streetpass.social](https://streetpass.social)
- - date published: 2023-10-24T20:14:24.933769+00:00
- - user: None
- - tags: ['mastodon']
-
-## tapbots.social
- - [https://tapbots.social](https://tapbots.social)
- - date published: 2023-10-24T20:14:25.808474+00:00
- - user: None
- - tags: ['mastodon']
-
-## TechHub
- - [https://techhub.social](https://techhub.social)
- - date published: 2023-10-24T20:14:26.335577+00:00
- - user: None
- - tags: ['mastodon']
-
-## Urbanists.Social
- - [https://urbanists.social](https://urbanists.social)
- - date published: 2023-10-24T20:14:26.879258+00:00
- - user: None
- - tags: ['mastodon']
-
-## VT Social
- - [https://vt.social](https://vt.social)
- - date published: 2023-10-24T20:14:28.715062+00:00
- - user: None
- - tags: ['mastodon']
 

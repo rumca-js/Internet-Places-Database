@@ -1,3 +1,15 @@
+## Toronto Users Group for Power Systems
+ - [https://www.tug.ca](https://www.tug.ca)
+ - date published: 2023-10-25T12:08:30.829886+00:00
+ - user: None
+ - tags: []
+
+## University of Alberta
+ - [https://www.ualberta.ca](https://www.ualberta.ca)
+ - date published: 2023-11-07T11:03:04.316671+00:00
+ - user: None
+ - tags: []
+
 ## UBC News: News from the University of British Columbia
  - [https://news.ubc.ca](https://news.ubc.ca)
  - date published: 2023-10-25T12:08:34.236560+00:00
@@ -1646,6 +1658,12 @@
 ## Decrypt: AI, Bitcoin, Culture, Gaming, and Crypto News - Decrypt
  - [https://decrypt.co](https://decrypt.co)
  - date published: 2023-10-25T09:30:36.361891+00:00
+ - user: None
+ - tags: []
+
+## Finally stop procrastinating and go to bed happy
+ - [https://www.deprocrastination.co](https://www.deprocrastination.co)
+ - date published: 2024-02-21T12:03:24.800886+00:00
  - user: None
  - tags: []
 
@@ -5647,6 +5665,12 @@
  - user: None
  - tags: []
 
+## Money in Transit | Alvaro Duran | Substack
+ - [https://news.alvaroduran.com](https://news.alvaroduran.com)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Alvy Ray Smith Homepage
  - [http://alvyray.com](http://alvyray.com)
  - date published: 2023-10-25T08:44:25.872695+00:00
@@ -5976,28 +6000,4 @@
  - date published: 2023-11-02T09:59:53.082268+00:00
  - user: None
  - tags: ['amiga']
-
-## Remixes | AmigaRemix
- - [https://www.amigaremix.com](https://www.amigaremix.com)
- - date published: 2023-10-25T11:20:05.098368+00:00
- - user: None
- - tags: ['chiptune', 'amiga', 'demoscene', 'keygen']
-
-## A Mighty Girl: Home | A Mighty Girl
- - [https://www.amightygirl.com](https://www.amightygirl.com)
- - date published: 2023-10-25T12:40:23.876358+00:00
- - user: None
- - tags: []
-
-## Amir Ghaffari's website
- - [https://amirghaffari.com](https://amirghaffari.com)
- - date published: 2023-12-21T03:31:24.500238+00:00
- - user: None
- - tags: []
-
-## AMIR MOTLAGH /  MIRS / ANIMALS
- - [https://www.amirmotlagh.com](https://www.amirmotlagh.com)
- - date published: 2023-11-29T15:48:22.992098+00:00
- - user: None
- - tags: []
 
