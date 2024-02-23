@@ -448,6 +448,12 @@
  - user: None
  - tags: []
 
+## Danswer - Open Source Workplace Search
+ - [https://www.danswer.ai](https://www.danswer.ai)
+ - date published: 2024-02-22T15:20:53.072864+00:00
+ - user: None
+ - tags: []
+
 ## Dash AI: Enterprise AI Knowledge Assistant | Dashworks.ai
  - [https://www.dashworks.ai](https://www.dashworks.ai)
  - date published: 2023-10-25T11:37:54.337559+00:00
@@ -571,6 +577,12 @@
 ## fast.ai - fast.ai—Making neural nets uncool again
  - [https://www.fast.ai](https://www.fast.ai)
  - date published: 2023-10-25T11:38:41.151336+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Real-time image generation with SDXL Lightning
+ - [https://fastsdxl.ai](https://fastsdxl.ai)
+ - date published: 2024-02-22T22:52:46+00:00
  - user: None
  - tags: []
 
@@ -2176,6 +2188,12 @@
  - user: None
  - tags: []
 
+## Polypane, The browser for ambitious web developers
+ - [https://polypane.app](https://polypane.app)
+ - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## PrettyPolly: Learn a language quickly by speaking with an AI
  - [https://www.prettypolly.app](https://www.prettypolly.app)
  - date published: 2023-10-25T11:48:30.623743+00:00
@@ -2293,6 +2311,12 @@
 ## Structpad - notepad-database hybrid
  - [https://structpad.app](https://structpad.app)
  - date published: 2023-10-25T11:49:13.505963+00:00
+ - user: None
+ - tags: []
+
+## Supernotes | The best collaborative note-taking app
+ - [https://supernotes.app](https://supernotes.app)
+ - date published: 2024-02-22T13:05:18.857072+00:00
  - user: None
  - tags: []
 
@@ -5972,30 +5996,6 @@
 ## The Walrus | Canada's Conversation
  - [https://thewalrus.ca](https://thewalrus.ca)
  - date published: 2023-10-25T12:12:23.582516+00:00
- - user: None
- - tags: []
-
-## ThinkPol - Free the news
- - [https://thinkpol.ca](https://thinkpol.ca)
- - date published: 2023-10-25T12:08:24.491426+00:00
- - user: None
- - tags: []
-
-## Tristan's Site - Tristan Hume
- - [https://thume.ca](https://thume.ca)
- - date published: 2023-10-25T08:43:07.236288+00:00
- - user: None
- - tags: ['personal']
-
-## Timur Ochakovsky | Web Developer
- - [https://www.timur.ca](https://www.timur.ca)
- - date published: 2023-11-29T14:23:08.617547+00:00
- - user: None
- - tags: []
-
-## Department of Electrical, Computer, & Biomedical Engineering - Toronto Metropolitan University
- - [https://www.ecb.torontomu.ca](https://www.ecb.torontomu.ca)
- - date published: 2023-10-25T12:08:29.901066+00:00
  - user: None
  - tags: []
 

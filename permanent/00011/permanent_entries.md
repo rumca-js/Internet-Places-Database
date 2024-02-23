@@ -1,3 +1,159 @@
+## AI Snake Oil | Sayash Kapoor | Substack
+ - [https://aisnakeoil.substack.com](https://aisnakeoil.substack.com)
+ - date published: 2023-10-25T09:41:27.444440+00:00
+ - user: None
+ - tags: ['substack']
+
+## AI Supremacy  | Michael Spencer | Substack
+ - [https://aisupremacy.substack.com](https://aisupremacy.substack.com)
+ - date published: 2023-11-20T15:43:53.277002+00:00
+ - user: None
+ - tags: []
+
+## Life Since the Baby Boom | Albert Cory | Substack
+ - [https://albertcory50.substack.com](https://albertcory50.substack.com)
+ - date published: 2023-10-25T09:41:35.577450+00:00
+ - user: None
+ - tags: ['substack']
+
+## The Alchemy of Money | Frederik Gieschen | Substack
+ - [https://alchemy.substack.com](https://alchemy.substack.com)
+ - date published: 2023-12-04T15:57:22.523973+00:00
+ - user: None
+ - tags: []
+
+## Public Service | Alethios | Substack
+ - [https://alethios.substack.com](https://alethios.substack.com)
+ - date published: 2023-11-16T09:10:46.307541+00:00
+ - user: None
+ - tags: []
+
+## Unreported Truths | Alex Berenson | Substack
+ - [https://alexberenson.substack.com](https://alexberenson.substack.com)
+ - date published: 2023-10-25T09:41:42.940169+00:00
+ - user: None
+ - tags: ['substack']
+
+## Alex Ewerlöf Notes | Substack
+ - [https://alexewerlof.substack.com](https://alexewerlof.substack.com)
+ - date published: 2023-10-25T09:41:45.579089+00:00
+ - user: None
+ - tags: ['substack']
+
+## Rational in the Fullness of Time | Alexandr Wang | Substack
+ - [https://alexw.substack.com](https://alexw.substack.com)
+ - date published: 2023-10-25T09:41:47.119980+00:00
+ - user: None
+ - tags: ['substack']
+
+## A Biologist's Guide to Life | Alex Washburne | Substack
+ - [https://alexwasburne.substack.com](https://alexwasburne.substack.com)
+ - date published: 2023-10-25T09:41:49.395167+00:00
+ - user: None
+ - tags: ['substack']
+
+## Alex Writes | Alex Wilhelm | Substack
+ - [https://alexwrites.substack.com](https://alexwrites.substack.com)
+ - date published: 2023-10-25T09:41:52.752191+00:00
+ - user: None
+ - tags: ['substack']
+
+## https://ameliatait.substack.com
+ - [https://ameliatait.substack.com](https://ameliatait.substack.com)
+ - date published: 2024-01-23T19:06:15.106114+00:00
+ - user: None
+ - tags: []
+
+## Am I Stronger Yet? | Steve | Substack
+ - [https://amistrongeryet.substack.com](https://amistrongeryet.substack.com)
+ - date published: 2023-10-25T09:41:55.230669+00:00
+ - user: None
+ - tags: ['substack']
+
+## Ammar Mian | Substack
+ - [https://ammarmian.substack.com](https://ammarmian.substack.com)
+ - date published: 2023-10-25T09:41:57.289319+00:00
+ - user: None
+ - tags: ['substack']
+
+## Sunshine and Seedlings: A Newsletter by HydroponicTrash | Substack
+ - [https://anarchosolarpunk.substack.com](https://anarchosolarpunk.substack.com)
+ - date published: 2023-10-25T09:42:00.050208+00:00
+ - user: None
+ - tags: ['substack']
+
+## Andrew's Substack | Andrew Huth | Substack
+ - [https://andrewhuth.substack.com](https://andrewhuth.substack.com)
+ - date published: 2023-10-25T09:42:02.215026+00:00
+ - user: None
+ - tags: ['substack']
+
+## Anh-Tho’s Newsletter | Anh-Tho Chuong | Substack
+ - [https://anhtho.substack.com](https://anhtho.substack.com)
+ - date published: 2023-10-25T09:42:03.676083+00:00
+ - user: None
+ - tags: ['substack']
+
+## Animation Obsessive | Animation Obsessive Staff | Substack
+ - [https://animationobsessive.substack.com](https://animationobsessive.substack.com)
+ - date published: 2023-10-25T09:42:11.045618+00:00
+ - user: None
+ - tags: ['substack']
+
+## Anna’s Archival Musings | Anna Mancini | Substack
+ - [https://annamancini.substack.com](https://annamancini.substack.com)
+ - date published: 2023-10-25T09:42:12.649007+00:00
+ - user: None
+ - tags: ['substack']
+
+## Culture Study | Anne Helen Petersen | Substack
+ - [https://annehelen.substack.com](https://annehelen.substack.com)
+ - date published: 2023-10-25T09:42:15.878553+00:00
+ - user: None
+ - tags: ['substack']
+
+## System Change | Ann Pettifor | Substack
+ - [https://annpettifor.substack.com](https://annpettifor.substack.com)
+ - date published: 2023-10-25T09:42:18.289389+00:00
+ - user: None
+ - tags: ['substack']
+
+## Age of Invention, by Anton Howes | Substack
+ - [https://antonhowes.substack.com](https://antonhowes.substack.com)
+ - date published: 2023-10-25T09:42:20.167627+00:00
+ - user: None
+ - tags: ['substack']
+
+## Beneath the Pavement | Antonio Melonio | Substack
+ - [https://antoniomelonio.substack.com](https://antoniomelonio.substack.com)
+ - date published: 2023-10-25T09:42:24.309389+00:00
+ - user: None
+ - tags: ['substack']
+
+## Working Theories | Anu Atluru | Substack
+ - [https://anu.substack.com](https://anu.substack.com)
+ - date published: 2023-10-25T09:42:27.141462+00:00
+ - user: None
+ - tags: ['substack']
+
+## Runner’s Newsletter | Substack
+ - [https://applewatchrunner.substack.com](https://applewatchrunner.substack.com)
+ - date published: 2023-10-25T09:42:29.442208+00:00
+ - user: None
+ - tags: ['substack']
+
+## Mindful Musings | Apurva Chitnis | Substack
+ - [https://apuchitnis.substack.com](https://apuchitnis.substack.com)
+ - date published: 2023-10-25T09:42:32.956411+00:00
+ - user: None
+ - tags: ['substack']
+
+## Cabinet of Wonders | Samuel Arbesman | Substack
+ - [https://arbesman.substack.com](https://arbesman.substack.com)
+ - date published: 2023-10-25T09:42:37.648122+00:00
+ - user: None
+ - tags: ['substack']
+
 ## Transmissions from the floor | Drew Schorno | Substack
  - [https://arcove.substack.com](https://arcove.substack.com)
  - date published: 2023-10-25T09:42:40.395493+00:00
@@ -2836,6 +2992,12 @@
  - user: rumpel
  - tags: []
 
+## Supermaven
+ - [https://supermaven.com](https://supermaven.com)
+ - date published: 2024-02-22T22:32:11.351596+00:00
+ - user: None
+ - tags: []
+
 ## Super Soldier Talk | Milabs, Monarchs, Mkultra
  - [https://supersoldiertalk.com](https://supersoldiertalk.com)
  - date published: 2023-10-25T17:19:46.384521+00:00
@@ -4081,6 +4243,12 @@
 ## BBS Still Exist
  - [https://www.telnetbbsguide.com](https://www.telnetbbsguide.com)
  - date published: 2023-11-03T23:29:11+00:00
+ - user: None
+ - tags: []
+
+## Replacement PCB Replicates Early 80s Modem
+ - [https://tempestfpga.com](https://tempestfpga.com)
+ - date published: 2024-02-22T12:32:23+00:00
  - user: None
  - tags: []
 
@@ -5828,174 +5996,6 @@
 ## Home | The Rasmus
  - [https://therasmus.com](https://therasmus.com)
  - date published: 2024-01-09T02:51:15.661913+00:00
- - user: None
- - tags: []
-
-## The Real Deal - Real Estate News
- - [https://therealdeal.com](https://therealdeal.com)
- - date published: 2023-10-25T17:38:40.022722+00:00
- - user: None
- - tags: []
-
-## The Real News Network
- - [https://therealnews.com](https://therealnews.com)
- - date published: 2023-11-22T19:18:37.296498+00:00
- - user: None
- - tags: []
-
-## The Red Hand Files - You can ask me anything. There will be no moderator. This will be between you and me. Let's see what happens. Much love, Nick : The Red Hand Files
- - [https://www.theredhandfiles.com](https://www.theredhandfiles.com)
- - date published: 2023-10-25T17:38:41.558338+00:00
- - user: None
- - tags: []
-
-## The Register: Enterprise Technology News and Analysis
- - [https://www.theregister.com](https://www.theregister.com)
- - date published: 2023-10-25T10:29:03.269877+00:00
- - user: None
- - tags: []
-
-## Theresa Mai
- - [https://www.theresamai.com](https://www.theresamai.com)
- - date published: 2024-01-10T18:10:26.428985+00:00
- - user: None
- - tags: []
-
-## THE RESIDENCE GALLERY
- - [https://www.theresidencegallery.com](https://www.theresidencegallery.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Retro Saga - Play your childhood games online
- - [https://theretrosaga.com](https://theretrosaga.com)
- - date published: 2023-10-26T21:05:13.578906+00:00
- - user: None
- - tags: ['retro game']
-
-## The Retro Web
- - [https://theretroweb.com](https://theretroweb.com)
- - date published: 2024-02-02T00:00:00+00:00
- - user: rumpel
- - tags: ['retro hardware']
-
-## The Ringer
- - [https://www.theringer.com](https://www.theringer.com)
- - date published: 2023-10-25T17:38:48.351521+00:00
- - user: None
- - tags: []
-
-## Lost at SQL - SQL learning game
- - [https://lost-at-sql.therobinlord.com](https://lost-at-sql.therobinlord.com)
- - date published: 2023-10-25T17:38:49.086997+00:00
- - user: None
- - tags: []
-
-## robMORGAN /// Bassist /// Music Director
- - [https://therobmorgan.com](https://therobmorgan.com)
- - date published: 2023-11-29T18:20:47.272965+00:00
- - user: None
- - tags: []
-
-## The Robot Report
- - [https://www.therobotreport.com](https://www.therobotreport.com)
- - date published: 2023-10-25T17:38:53.706831+00:00
- - user: None
- - tags: []
-
-## The Ruby on Rails Podcast
- - [https://www.therubyonrailspodcast.com](https://www.therubyonrailspodcast.com)
- - date published: 2024-02-21T16:44:33.611753+00:00
- - user: None
- - tags: ['programming', 'podcast']
-
-## The Satanic Temple - Official Website
- - [https://thesatanictemple.com](https://thesatanictemple.com)
- - date published: 2023-12-05T15:12:31+00:00
- - user: rumpel
- - tags: ['satanic temple', 'satanism']
-
-## thesephist.com
- - [https://thesephist.com](https://thesephist.com)
- - date published: 2023-10-25T17:38:55.209431+00:00
- - user: None
- - tags: []
-
-## SIP Training and SSCA® Certification -
- - [https://www.thesipschool.com](https://www.thesipschool.com)
- - date published: 2024-02-08T16:27:26.924719+00:00
- - user: None
- - tags: []
-
-## https://www.thesisdriven.com
- - [https://www.thesisdriven.com](https://www.thesisdriven.com)
- - date published: 0301-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Social Radars
- - [https://www.thesocialradars.com](https://www.thesocialradars.com)
- - date published: 2023-10-25T17:38:56.286148+00:00
- - user: None
- - tags: []
-
-## Homepage - Fast News - The Space Coast Rocket
- - [https://thespacecoastrocket.com](https://thespacecoastrocket.com)
- - date published: 2023-11-20T19:14:01.066167+00:00
- - user: None
- - tags: []
-
-## The Space Review: essays and commentary about the final frontier
- - [https://www.thespacereview.com](https://www.thespacereview.com)
- - date published: 2023-11-01T08:43:13.554332+00:00
- - user: None
- - tags: []
-
-## thespec.com
- - [https://www.thespec.com](https://www.thespec.com)
- - date published: 2023-10-25T17:39:02.544744+00:00
- - user: None
- - tags: []
-
-## The Spectator
- - [https://thespectator.com](https://thespectator.com)
- - date published: 2023-10-25T17:39:05.293688+00:00
- - user: None
- - tags: []
-
-## Latest Sports News, Articles & Highlights | thesportsrush.com
- - [https://thesportsrush.com](https://thesportsrush.com)
- - date published: 2023-10-25T17:39:12.856664+00:00
- - user: None
- - tags: []
-
-## The Spruce: Make Your Best Home
- - [https://www.thespruce.com](https://www.thespruce.com)
- - date published: 2023-10-28T17:40:01.205536+00:00
- - user: None
- - tags: ['homesteading']
-
-## The SR-71 Blackbird, the fastest manned aircraft ever flown
- - [https://www.thesr71blackbird.com](https://www.thesr71blackbird.com)
- - date published: 2023-10-25T17:39:14.558107+00:00
- - user: None
- - tags: []
-
-## The Stack Canary
- - [https://www.thestackcanary.com](https://www.thestackcanary.com)
- - date published: 2023-10-25T17:39:16.532584+00:00
- - user: None
- - tags: []
-
-## Breaking News - Headlines & Top Stories | The Star
- - [https://www.thestar.com](https://www.thestar.com)
- - date published: 2023-10-25T10:16:30.014950+00:00
- - user: None
- - tags: []
-
-## Columbia SC Breaking News, Sports & Crime | The State
- - [https://www.thestate.com](https://www.thestate.com)
- - date published: 2023-10-25T10:16:34.615346+00:00
  - user: None
  - tags: []
 

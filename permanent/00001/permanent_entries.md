@@ -1,3 +1,27 @@
+## ThinkPol - Free the news
+ - [https://thinkpol.ca](https://thinkpol.ca)
+ - date published: 2023-10-25T12:08:24.491426+00:00
+ - user: None
+ - tags: []
+
+## Tristan's Site - Tristan Hume
+ - [https://thume.ca](https://thume.ca)
+ - date published: 2023-10-25T08:43:07.236288+00:00
+ - user: None
+ - tags: ['personal']
+
+## Timur Ochakovsky | Web Developer
+ - [https://www.timur.ca](https://www.timur.ca)
+ - date published: 2023-11-29T14:23:08.617547+00:00
+ - user: None
+ - tags: []
+
+## Department of Electrical, Computer, & Biomedical Engineering - Toronto Metropolitan University
+ - [https://www.ecb.torontomu.ca](https://www.ecb.torontomu.ca)
+ - date published: 2023-10-25T12:08:29.901066+00:00
+ - user: None
+ - tags: []
+
 ## Toronto Users Group for Power Systems
  - [https://www.tug.ca](https://www.tug.ca)
  - date published: 2023-10-25T12:08:30.829886+00:00
@@ -2042,6 +2066,12 @@
 ## Modern Retail – Authority and honesty on the reinvention of retail
  - [https://www.modernretail.co](https://www.modernretail.co)
  - date published: 2023-10-25T12:19:38.921835+00:00
+ - user: None
+ - tags: []
+
+## Moongarden Collective
+ - [https://moongarden.co](https://moongarden.co)
+ - date published: 2024-02-22T20:05:13.282843+00:00
  - user: None
  - tags: []
 
@@ -4399,6 +4429,12 @@
  - user: None
  - tags: []
 
+## None
+ - [https://www.adrianriv.com](https://www.adrianriv.com)
+ - date published: 2024-02-22T13:05:19.514220+00:00
+ - user: None
+ - tags: []
+
 ## Adrian Stobbe
  - [https://adrianstobbe.com](https://adrianstobbe.com)
  - date published: 2024-01-21T18:21:57.044810+00:00
@@ -5964,40 +6000,4 @@
  - date published: 2023-10-27T14:32:56.652562+00:00
  - user: None
  - tags: []
-
-## Amigamap.com - The global map of all known Amiga, MorphOS and AROS computers and their users
- - [https://amigamap.com](https://amigamap.com)
- - date published: 2023-11-02T10:47:07.922932+00:00
- - user: None
- - tags: []
-
-## Classic - Amigamap.com - The global map of all known Amiga, MorphOS and AROS computers and their users
- - [https://classic.amigamap.com](https://classic.amigamap.com)
- - date published: 2024-01-09T02:29:40.108174+00:00
- - user: None
- - tags: []
-
-## Amigamap.com - The global map of all known Amiga, MorphOS and AROS computers and their users
- - [https://live.amigamap.com](https://live.amigamap.com)
- - date published: 2023-12-11T16:56:35.321881+00:00
- - user: None
- - tags: []
-
-## AmigaNG
- - [https://amigang.com](https://amigang.com)
- - date published: 2023-10-25T11:14:46.275962+00:00
- - user: None
- - tags: ['amiga']
-
-## amigapd
- - [https://www.amigapd.com](https://www.amigapd.com)
- - date published: 2023-11-02T09:47:39.471542+00:00
- - user: None
- - tags: []
-
-## Amiga Podcast
- - [http://www.amigapodcast.com](http://www.amigapodcast.com)
- - date published: 2023-11-02T09:59:53.082268+00:00
- - user: None
- - tags: ['amiga']
 
