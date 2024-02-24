@@ -1,3 +1,159 @@
+## knotend | The fastest flowchart editor. Being keyboard-first and optimized for speed, knotend is the best flowchart editor for project management, todo lists, collaboration, and more.
+ - [https://www.knotend.com](https://www.knotend.com)
+ - date published: 2023-10-25T15:38:20.588866+00:00
+ - user: None
+ - tags: []
+
+## Knowies
+ - [https://www.knowies.com](https://www.knowies.com)
+ - date published: 2023-11-26T16:48:52+00:00
+ - user: rumpel
+ - tags: ['bookmark manager']
+
+## Knowridge Science Report | Inspiring science news
+ - [https://knowridge.com](https://knowridge.com)
+ - date published: 2023-10-31T19:11:15.180516+00:00
+ - user: None
+ - tags: ['science news']
+
+## Know Your Meme
+ - [https://knowyourmeme.com](https://knowyourmeme.com)
+ - date published: 2024-01-08T21:24:45.001232+00:00
+ - user: None
+ - tags: []
+
+## Knucklepuck: Digital Marketing Agency for SEO & Paid Media SEM
+ - [https://www.knucklepuckmedia.com](https://www.knucklepuckmedia.com)
+ - date published: 2024-01-04T22:42:18.822018+00:00
+ - user: None
+ - tags: []
+
+## Ko-fi | Donations and Memberships from fans for the price of a coffee. No fee on Donations
+ - [https://ko-fi.com](https://ko-fi.com)
+ - date published: 2023-12-11T16:24:06.969165+00:00
+ - user: None
+ - tags: ['crowdfunding']
+
+## KOBI-TV NBC5 / KOTI-TV NBC2
+ - [https://kobi5.com](https://kobi5.com)
+ - date published: 2023-12-31T13:23:07.770686+00:00
+ - user: None
+ - tags: []
+
+## Rakuten Kobo
+ - [https://www.kobo.com](https://www.kobo.com)
+ - date published: 2023-10-25T08:24:09.609956+00:00
+ - user: None
+ - tags: []
+
+## Site Not Available
+ - [https://www.koco.com](https://www.koco.com)
+ - date published: 2023-11-17T23:48:52.603924+00:00
+ - user: None
+ - tags: []
+
+## Eastman Kodak Company
+ - [https://www.kodak.com](https://www.kodak.com)
+ - date published: 2023-11-01T08:42:26.818065+00:00
+ - user: None
+ - tags: []
+
+## Kodeco
+ - [https://www.kodeco.com](https://www.kodeco.com)
+ - date published: 2024-01-22T12:32:03+00:00
+ - user: rumpel
+ - tags: ['programming tutorials', 'programming courses']
+
+## Kodezi | Autocorrect For Programmers - AI Dev-Tool
+ - [https://kodezi.com](https://kodezi.com)
+ - date published: 2023-10-25T15:38:22.265932+00:00
+ - user: None
+ - tags: []
+
+## Koding Kitty | We turn design into responsive code
+ - [https://www.kodingkitty.com](https://www.kodingkitty.com)
+ - date published: 2023-10-25T15:38:23.060949+00:00
+ - user: None
+ - tags: []
+
+## Kody Tools
+ - [https://www.kodytools.com](https://www.kodytools.com)
+ - date published: 2023-10-25T15:38:24.551235+00:00
+ - user: None
+ - tags: []
+
+## Kohan Ikin
+ - [https://kohanikin.com](https://kohanikin.com)
+ - date published: 2021-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## kohina - old school game and demo music
+ - [https://kohina.com](https://kohina.com)
+ - date published: 2024-02-04T12:25:56+00:00
+ - user: rumpel
+ - tags: []
+
+## Kohina Web Player
+ - [https://player.kohina.com](https://player.kohina.com)
+ - date published: 2023-10-25T15:38:24.816845+00:00
+ - user: None
+ - tags: ['chiptune', 'keygen']
+
+## Home - KOJO BAFFOE - Helping You Own Your Story
+ - [https://kojobaffoe.com](https://kojobaffoe.com)
+ - date published: 2024-01-04T19:56:25.960075+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.kold.com](https://www.kold.com)
+ - date published: 2023-11-13T05:19:04.992759+00:00
+ - user: None
+ - tags: []
+
+## Kole McRae | My Official Website
+ - [https://kolemcrae.com](https://kolemcrae.com)
+ - date published: 2023-11-29T15:51:40.936420+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kolide - Zero Trust for Okta
+ - [https://www.kolide.com](https://www.kolide.com)
+ - date published: 2023-10-25T15:38:27.401193+00:00
+ - user: None
+ - tags: []
+
+## Arabic Numbers Practice
+ - [https://arabic-numbers.koljapluemer.com](https://arabic-numbers.koljapluemer.com)
+ - date published: 2023-10-25T15:38:27.990224+00:00
+ - user: None
+ - tags: []
+
+## Seattle News, Weather, Sports, Breaking News | KOMO
+ - [https://komonews.com](https://komonews.com)
+ - date published: 2023-10-25T11:05:08.513586+00:00
+ - user: None
+ - tags: []
+
+## Alex Komoroske
+ - [https://komoroske.com](https://komoroske.com)
+ - date published: 2023-10-25T15:38:29.399609+00:00
+ - user: None
+ - tags: []
+
+## komu.com | KOMU 8
+ - [https://www.komu.com](https://www.komu.com)
+ - date published: 2023-11-23T04:23:57.829233+00:00
+ - user: None
+ - tags: []
+
+## KONAMI GROUP CORPORATION
+ - [https://www.konami.com](https://www.konami.com)
+ - date published: 2015-03-02T00:00:00+00:00
+ - user: rumpel
+ - tags: ['video game developer']
+
 ## Overhead Cranes | Port Cranes | Crane Parts | Crane Services | Konecranes
  - [https://www.konecranes.com](https://www.konecranes.com)
  - date published: 2023-10-25T15:38:35.642593+00:00
@@ -74,7 +230,7 @@
  - [https://kothariatit.com](https://kothariatit.com)
  - date published: 2023-11-29T14:17:59.288306+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home
  - [https://www.kptv.com](https://www.kptv.com)
@@ -122,13 +278,13 @@
  - [http://www.kristinkwan.com](http://www.kristinkwan.com)
  - date published: 2023-12-24T18:30:35.935559+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Kristin Weber Music
  - [http://www.kristinwebermusic.com](http://www.kristinwebermusic.com)
  - date published: 2023-12-24T08:14:45.608577+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Christophe Berg
  - [https://www.kristofberg.com](https://www.kristofberg.com)
@@ -320,7 +476,7 @@
  - [https://www.kurt-anderson.com](https://www.kurt-anderson.com)
  - date published: 2024-01-22T03:53:28.557943+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Kurt Elster, MBA | Ecommerce Senior Consultant, Chicago Shopify Expert
  - [https://kurtelster.com](https://kurtelster.com)
@@ -404,7 +560,7 @@
  - [https://www.kyleboddy.com](https://www.kyleboddy.com)
  - date published: 2023-12-26T06:32:50.045639+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Kyle Drake
  - [https://kyledrake.com](https://kyledrake.com)
@@ -416,7 +572,7 @@
  - [https://kylegulau.com](https://kylegulau.com)
  - date published: 2024-02-09T06:40:54.110857+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Kyle Halladay - Home Page
  - [https://kylehalladay.com](https://kylehalladay.com)
@@ -428,13 +584,13 @@
  - [https://kylehemingway.com](https://kylehemingway.com)
  - date published: 2024-02-13T18:12:02.634694+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Kyle Sexton // ChamberThink Strategies
  - [https://www.kylesexton.com](https://www.kylesexton.com)
  - date published: 2023-12-10T17:00:32.232505+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Tension by Kylie. Out 22nd Sept.
  - [https://www.kylie.com](https://www.kylie.com)
@@ -512,7 +668,7 @@
  - [https://anish.lakhwara.com](https://anish.lakhwara.com)
  - date published: 2023-12-02T13:41:48.670187+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## lamag.com
  - [https://www.lamag.com](https://www.lamag.com)
@@ -560,7 +716,7 @@
  - [https://www.lancelotshangover.com](https://www.lancelotshangover.com)
  - date published: 2023-12-09T10:39:48.574126+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Lance Wicks Judo Geek
  - [https://lancewicks.com](https://lancewicks.com)
@@ -867,13 +1023,13 @@ Chamber Music, Symphony
  - [https://le-blog-recifal.com](https://le-blog-recifal.com)
  - date published: 2023-12-09T16:39:06.936796+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Ideas on Software Engineering
  - [https://john.leacox.com](https://john.leacox.com)
  - date published: 2023-11-29T14:44:24.296491+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Lead Adventure Forum - Index
  - [https://leadadventureforum.com](https://leadadventureforum.com)
@@ -963,7 +1119,7 @@ Chamber Music, Symphony
  - [https://www.leannehughes.com](https://www.leannehughes.com)
  - date published: 2023-12-05T14:36:52.780515+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Leanpub: Publish Early, Publish Often
  - [https://leanpub.com](https://leanpub.com)
@@ -993,7 +1149,7 @@ Chamber Music, Symphony
  - [https://learnappmaking.com](https://learnappmaking.com)
  - date published: 2023-12-21T08:23:02.881170+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Learn C++ – Skill up with our free tutorials
  - [https://www.learncpp.com](https://www.learncpp.com)
@@ -1011,7 +1167,7 @@ Chamber Music, Symphony
  - [https://learnersbucket.com](https://learnersbucket.com)
  - date published: 2023-12-23T19:27:19.268649+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## AI-Powered AI News | Emergent Mind
  - [https://www.learngpt.com](https://www.learngpt.com)
@@ -1029,7 +1185,7 @@ Chamber Music, Symphony
  - [https://www.learningtocookfood.com](https://www.learningtocookfood.com)
  - date published: 2023-12-20T21:30:27.994041+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Learn Code the Hard Way
  - [https://learnjsthehardway.com](https://learnjsthehardway.com)
@@ -1125,7 +1281,7 @@ Chamber Music, Symphony
  - [https://leesareneehall.com](https://leesareneehall.com)
  - date published: 2023-12-27T10:10:44.298707+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## LeftoverLocals
  - [https://leftoverlocals.com](https://leftoverlocals.com)
@@ -1155,7 +1311,7 @@ Chamber Music, Symphony
  - [https://www.legalnomads.com](https://www.legalnomads.com)
  - date published: 2023-11-29T17:07:10.042677+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Legendary
  - [https://www.legendary.com](https://www.legendary.com)
@@ -1245,7 +1401,7 @@ Chamber Music, Symphony
  - [https://lennygale.com](https://lennygale.com)
  - date published: 2024-01-09T08:54:46.549587+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Lenny's Newsletter | Lenny Rachitsky | Substack
  - [https://www.lennysnewsletter.com](https://www.lennysnewsletter.com)
@@ -1281,13 +1437,13 @@ Chamber Music, Symphony
  - [https://leodale.com](https://leodale.com)
  - date published: 2023-11-29T17:07:15.641709+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## About Me - Leo Alexander Glowacki
  - [https://leoglowacki.com](https://leoglowacki.com)
  - date published: 2024-01-29T23:27:30.561916+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## leonidasv.com
  - [https://leonidasv.com](https://leonidasv.com)
@@ -1401,7 +1557,7 @@ Chamber Music, Symphony
  - [https://levinofearth.com](https://levinofearth.com)
  - date published: 2023-11-29T14:41:46.286960+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Coding Bootcamp | Le Wagon
  - [https://www.lewagon.com](https://www.lewagon.com)
@@ -1413,7 +1569,7 @@ Chamber Music, Symphony
  - [https://lewisq.com](https://lewisq.com)
  - date published: 2023-11-29T15:47:03.361638+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Welcome – Lewis Walsh, Freelance software engineer from Essex, United Kingdom. Posting mainly about software development, system administration, electronics, and photography. - Lewis Walsh
  - [https://lewiswalsh.com](https://lewiswalsh.com)
@@ -1563,19 +1719,19 @@ Chamber Music, Symphony
  - [http://www.lichialiu.com](http://www.lichialiu.com)
  - date published: 2023-12-25T04:55:54.761543+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## About LiewCF - LiewCF Tech Blog
  - [https://www.liewcf.com](https://www.liewcf.com)
  - date published: 2023-11-29T17:12:05.658238+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## http://www.lifegallerist.com
  - [http://www.lifegallerist.com](http://www.lifegallerist.com)
  - date published: 2023-11-29T14:21:40.957427+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Lifehacker | Do everything better
  - [https://lifehacker.com](https://lifehacker.com)
@@ -1611,7 +1767,7 @@ Chamber Music, Symphony
  - [https://lifeofpablo.com](https://lifeofpablo.com)
  - date published: 2023-11-29T16:21:15.808373+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## LifeSite Home - Catholic Edition
  - [https://www.lifesitenews.com](https://www.lifesitenews.com)
@@ -1731,7 +1887,7 @@ Chamber Music, Symphony
  - [https://www.linkedin-makeover.com](https://www.linkedin-makeover.com)
  - date published: 2023-11-29T16:22:03.800847+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Oliver Wolf – Medium
  - [https://linkedrecords.com](https://linkedrecords.com)
@@ -1779,7 +1935,7 @@ Chamber Music, Symphony
  - [https://linusrogge.com](https://linusrogge.com)
  - date published: 2023-12-08T08:33:18.420569+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Forums - Linus Tech Tips
  - [https://linustechtips.com](https://linustechtips.com)
@@ -1929,7 +2085,7 @@ Chamber Music, Symphony
  - [https://lisamariepierre.com](https://lisamariepierre.com)
  - date published: 2023-12-29T03:11:21.407775+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Lisa Occhino
  - [https://www.lisaocchino.com](https://www.lisaocchino.com)
@@ -1989,7 +2145,7 @@ Chamber Music, Symphony
  - [https://littlepluses.com](https://littlepluses.com)
  - date published: 2023-11-29T20:43:56.449544+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Little Polygon Game Dev Blog
  - [https://blog.littlepolygon.com](https://blog.littlepolygon.com)
@@ -2091,7 +2247,7 @@ Chamber Music, Symphony
  - [https://lizakateboisineau.com](https://lizakateboisineau.com)
  - date published: 2023-11-29T14:41:18.211485+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home - Lizardcube
  - [https://www.lizardcube.com](https://www.lizardcube.com)
@@ -2151,7 +2307,7 @@ Chamber Music, Symphony
  - [https://www.localfitseattle.com](https://www.localfitseattle.com)
  - date published: 2023-12-11T10:57:02.607825+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home - LocalNews8.com | News3Now.com | KXPI.com - KIFI
  - [https://localnews8.com](https://localnews8.com)
@@ -2241,13 +2397,13 @@ Chamber Music, Symphony
  - [https://www.loganherr.com](https://www.loganherr.com)
  - date published: 2023-12-29T18:59:41.808733+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Logan Lenz | Serial Entrepreneur | CEO of Nucleus
  - [https://www.loganlenz.com](https://www.loganlenz.com)
  - date published: 2023-12-29T18:59:46.123636+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Logan Marchione
  - [https://loganmarchione.com](https://loganmarchione.com)
@@ -2290,6 +2446,12 @@ Chamber Music, Symphony
  - date published: 2023-10-30T18:12:55.373094+00:00
  - user: None
  - tags: ['company']
+
+## Logitech G - Zaawansowany sprzęt dla graczy do złożenia najlepszego gamingowego zestawu
+ - [https://www.logitechg.com](https://www.logitechg.com)
+ - date published: 2024-02-23T22:51:36.904906+00:00
+ - user: None
+ - tags: []
 
 ## LogMeIn Remote Access | Secure Remote Software
  - [https://secure.logmein.com](https://secure.logmein.com)
@@ -2439,7 +2601,7 @@ Chamber Music, Symphony
  - [https://www.loris-stavrinides.com](https://www.loris-stavrinides.com)
  - date published: 2023-11-29T14:18:50.653950+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## https://www.losangelesblade.com
  - [https://www.losangelesblade.com](https://www.losangelesblade.com)
@@ -2631,7 +2793,7 @@ Chamber Music, Symphony
  - [https://lucas-schiavini.com](https://lucas-schiavini.com)
  - date published: 2023-12-12T04:53:17.195643+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Lucas F. Costa
  - [https://lucasfcosta.com](https://lucasfcosta.com)
@@ -2702,6 +2864,12 @@ Chamber Music, Symphony
 ## Lukas Malkmus
  - [https://lukasmalkmus.com](https://lukasmalkmus.com)
  - date published: 2023-12-12T23:24:40.676809+00:00
+ - user: None
+ - tags: ['personal']
+
+## Luke Bechtel
+ - [https://lukebechtel.com](https://lukebechtel.com)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2836,7 +3004,7 @@ diversions.
  - [https://lyndonhill.com](https://lyndonhill.com)
  - date published: 2024-02-14T08:48:56.833040+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## M31 Coding - Computing & Education
  - [https://www.m31coding.com](https://www.m31coding.com)
@@ -2980,7 +3148,7 @@ diversions.
  - [https://madebymist.com](https://madebymist.com)
  - date published: 2024-02-09T22:27:38.363514+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Made By Nathan
  - [https://madebynathan.com](https://madebynathan.com)
@@ -3082,7 +3250,7 @@ diversions.
  - [https://maheshrijal.com](https://maheshrijal.com)
  - date published: 2024-02-09T14:09:20.115113+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## The Mail Archive
  - [https://www.mail-archive.com](https://www.mail-archive.com)
@@ -3226,7 +3394,7 @@ diversions.
  - [https://www.makethingsmatter.com](https://www.makethingsmatter.com)
  - date published: 2024-01-09T02:42:19.097936+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home
  - [https://makezine.com](https://makezine.com)
@@ -3256,7 +3424,7 @@ diversions.
  - [https://maksimkita.com](https://maksimkita.com)
  - date published: 2024-02-10T10:10:00.436122+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Malay Mail | Breaking News, Malaysia, World, Lifestyle News
  - [https://www.malaymail.com](https://www.malaymail.com)
@@ -3376,7 +3544,7 @@ diversions.
  - [https://manuellamas.com](https://manuellamas.com)
  - date published: 2023-11-29T19:26:31.952527+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Manu – I write
  - [https://manuelmoreale.com](https://manuelmoreale.com)
@@ -3454,7 +3622,7 @@ diversions.
  - [https://marcallred.com](https://marcallred.com)
  - date published: 2024-01-21T04:57:58.768979+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Marc Gunn – Rhythm & Folk Celtic Music
  - [https://marcgunn.com](https://marcgunn.com)
@@ -3466,7 +3634,7 @@ diversions.
  - [https://www.marchoffman.com](https://www.marchoffman.com)
  - date published: 2024-01-15T22:20:21.341302+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Marc Koran - Skillstacking
  - [https://marckoran.com](https://marckoran.com)
@@ -3478,7 +3646,7 @@ diversions.
  - [https://www.marclittlemore.com](https://www.marclittlemore.com)
  - date published: 2023-12-09T15:01:11.057762+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## blog.marcocantu.com
  - [https://blog.marcocantu.com](https://blog.marcocantu.com)
@@ -3490,7 +3658,7 @@ diversions.
  - [https://marcocevoli.com](https://marcocevoli.com)
  - date published: 2023-11-29T14:53:51.157547+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## https://www.marcoreeuwijk.com
  - [https://www.marcoreeuwijk.com](https://www.marcoreeuwijk.com)
@@ -3538,7 +3706,7 @@ diversions.
  - [https://mariaskinner.com](https://mariaskinner.com)
  - date published: 2023-12-28T18:49:25.685557+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Performance | MarielisGarcia
  - [https://www.marielisgarcia.com](https://www.marielisgarcia.com)
@@ -3605,13 +3773,13 @@ diversions.
  - [https://www.markcopeman.com](https://www.markcopeman.com)
  - date published: 2023-11-29T15:51:50.246017+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home – 2
  - [https://markdalessandro.com](https://markdalessandro.com)
  - date published: 2023-11-29T16:18:35.576321+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Mark Essien | Home
  - [https://markessien.com](https://markessien.com)
@@ -3719,7 +3887,7 @@ diversions.
  - [https://markteppo.com](https://markteppo.com)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## MarktStash -Database of Growth Strategies
  - [https://marktstash.com](https://marktstash.com)
@@ -3773,7 +3941,7 @@ diversions.
  - [https://www.martin-the-wanderer.com](https://www.martin-the-wanderer.com)
  - date published: 2023-12-13T06:05:45.388172+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Martin Capodici – Software Developer
  - [https://martincapodici.com](https://martincapodici.com)
@@ -3833,7 +4001,7 @@ diversions.
  - [https://martinsketchley.com](https://martinsketchley.com)
  - date published: 2023-11-29T15:51:53.677176+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Martin Vigo - Personal hacking projects, writeups and tools
  - [https://www.martinvigo.com](https://www.martinvigo.com)
@@ -3869,7 +4037,7 @@ diversions.
  - [https://www.maryannmahoney.com](https://www.maryannmahoney.com)
  - date published: 2023-12-10T16:59:24.402245+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Mary Rose Cook
  - [https://maryrosecook.com](https://maryrosecook.com)
@@ -4001,7 +4169,7 @@ diversions.
  - [https://www.mathiasluz.com](https://www.mathiasluz.com)
  - date published: 2023-12-14T06:55:02.242092+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Mathieu Acher – Professor in Computer Science
  - [https://blog.mathieuacher.com](https://blog.mathieuacher.com)
@@ -4079,13 +4247,13 @@ diversions.
  - [https://mattgemmell.com](https://mattgemmell.com)
  - date published: 2024-02-11T04:57:36.461658+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## blog.matthen.com
  - [https://blog.matthen.com](https://blog.matthen.com)
  - date published: 2023-12-05T09:12:58.682891+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home
  - [https://matthew-fenton.com](https://matthew-fenton.com)
@@ -4103,7 +4271,7 @@ diversions.
  - [https://matthewbischoff.com](https://matthewbischoff.com)
  - date published: 2023-12-25T22:12:58.645784+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Matthew Butterick
  - [https://matthewbutterick.com](https://matthewbutterick.com)
@@ -4115,7 +4283,7 @@ diversions.
  - [https://matthewguy.com](https://matthewguy.com)
  - date published: 2024-02-09T22:01:19.320413+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Matthew Hirschey
  - [https://www.matthewhirschey.com](https://www.matthewhirschey.com)
@@ -4175,7 +4343,7 @@ diversions.
  - [https://mattmegruedesign.com](https://mattmegruedesign.com)
  - date published: 2023-12-13T06:05:18.360177+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## None
  - [https://www.mattroelle.com](https://www.mattroelle.com)
@@ -4187,13 +4355,13 @@ diversions.
  - [https://www.mattselznick.com](https://www.mattselznick.com)
  - date published: 2023-12-07T17:37:46.378916+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Matt Stein
  - [https://mattstein.com](https://mattstein.com)
  - date published: 2023-12-20T11:45:06.855158+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Matt Stuchlik
  - [http://blog.mattstuchlik.com](http://blog.mattstuchlik.com)
@@ -4331,7 +4499,7 @@ diversions.
  - [https://maxwrenna.com](https://maxwrenna.com)
  - date published: 2023-12-30T09:52:45.350249+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Maya Lombarts I The Creative Entrepreneur's Sidekick
  - [https://mayalombarts.com](https://mayalombarts.com)
@@ -4349,7 +4517,7 @@ diversions.
  - [https://maziebones.com](https://maziebones.com)
  - date published: 2024-01-11T12:23:16.751882+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Free open source IoT OS and development tools from Arm | Mbed
  - [https://os.mbed.com](https://os.mbed.com)
@@ -4385,7 +4553,7 @@ diversions.
  - [https://www.mccallerickson.com](https://www.mccallerickson.com)
  - date published: 2023-11-29T15:31:52.166793+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## McDonald's: Burgers, Fries & More. Quality Ingredients.
  - [https://www.mcdonalds.com](https://www.mcdonalds.com)
@@ -4511,7 +4679,7 @@ diversions.
  - [https://meditacionypsicologia.com](https://meditacionypsicologia.com)
  - date published: 2023-12-20T19:15:11.085725+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Paul Greenberg – Medium
  - [https://4fishgreenberg.medium.com](https://4fishgreenberg.medium.com)
@@ -5705,7 +5873,7 @@ diversions.
  - [https://melaniekat.com](https://melaniekat.com)
  - date published: 2024-02-14T11:11:45.802866+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Melodiefabriek
  - [https://melodiefabriek.com](https://melodiefabriek.com)
@@ -5753,7 +5921,7 @@ diversions.
  - [https://menstherapy.com](https://menstherapy.com)
  - date published: 2023-12-27T01:10:46.539076+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Mensur Duraković
  - [https://www.mensurdurakovic.com](https://www.mensurdurakovic.com)
@@ -5825,179 +5993,11 @@ diversions.
  - [https://meresha.com](https://meresha.com)
  - date published: 2023-12-30T22:22:49.884747+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Merlin Star's Website – My current skill set and where I blog about various things.
  - [https://merlinjstar.com](https://merlinjstar.com)
  - date published: 2024-01-06T21:27:07.525100+00:00
- - user: None
- - tags: []
-
-## Get The Magic of Music!
- - [https://www.merlinnsound.com](https://www.merlinnsound.com)
- - date published: 2023-12-23T19:28:27.312651+00:00
- - user: None
- - tags: []
-
-## Mermaid Chart - Create complex, visual diagrams with text. A smarter way of creating diagrams.
- - [https://www.mermaidchart.com](https://www.mermaidchart.com)
- - date published: 2023-10-25T16:01:35.538500+00:00
- - user: None
- - tags: []
-
-## Merriam-Webster: America's Most Trusted Dictionary
- - [https://www.merriam-webster.com](https://www.merriam-webster.com)
- - date published: 2023-10-25T09:28:48.521022+00:00
- - user: None
- - tags: []
-
-## merthurturk.com
- - [https://merthurturk.com](https://merthurturk.com)
- - date published: 2023-11-29T14:53:27.048847+00:00
- - user: None
- - tags: []
-
-## Meryll Dindin: Transhumanist & Entrepreneur Driving Future Innovation | Meryll Dindin
- - [https://merylldindin.com](https://merylldindin.com)
- - date published: 2023-10-25T16:01:36.604677+00:00
- - user: None
- - tags: []
-
-## Vente en ligne d'épices, condiments, épicerie fine, thés, infusions et ustensiles de cuisine - Mesepices.com
- - [https://www.mesepices.com](https://www.mesepices.com)
- - date published: 2023-12-13T15:19:30.543837+00:00
- - user: None
- - tags: []
-
-## The Meson Build system
- - [https://mesonbuild.com](https://mesonbuild.com)
- - date published: 2023-10-25T16:01:37.935464+00:00
- - user: None
- - tags: []
-
-## Messenger
- - [https://www.messenger.com](https://www.messenger.com)
- - date published: 2023-10-25T13:24:05.476740+00:00
- - user: None
- - tags: ['gatekeeper', 'social communicator']
-
-## Error
- - [https://ai.meta.com](https://ai.meta.com)
- - date published: 2023-12-05T18:26:53.355058+00:00
- - user: None
- - tags: []
-
-## Meta
- - [https://www.meta.com](https://www.meta.com)
- - date published: 2023-10-27T12:56:25+00:00
- - user: rumpel
- - tags: ['meta', 'company', 'facebook', 'gatekeeper']
-
-## μεταcole
- - [https://metacole.com](https://metacole.com)
- - date published: 2023-12-17T16:42:28.844399+00:00
- - user: None
- - tags: []
-
-## Movie Reviews, TV Reviews, Game Reviews, and Music Reviews
- - [https://www.metacritic.com](https://www.metacritic.com)
- - date published: 2023-10-24T20:20:31.185064+00:00
- - user: None
- - tags: ['ranking']
-
-## Metaculus
- - [https://www.metaculus.com](https://www.metaculus.com)
- - date published: 2023-10-25T16:01:40.572647+00:00
- - user: None
- - tags: []
-
-## DINOv2 by Meta AI
- - [https://dinov2.metademolab.com](https://dinov2.metademolab.com)
- - date published: 2023-10-25T16:01:40.973105+00:00
- - user: None
- - tags: []
-
-## Metadocs - First Strand Type Extenstion
- - [https://metadocs8.com](https://metadocs8.com)
- - date published: 2023-10-25T16:01:41.432105+00:00
- - user: None
- - tags: []
-
-## MetaGrrrl
- - [https://metagrrrl.com](https://metagrrrl.com)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - Encyclopaedia Metallum: The Metal Archives
- - [https://www.metal-archives.com](https://www.metal-archives.com)
- - date published: 2023-10-29T15:29:31.205442+00:00
- - user: None
- - tags: ['music']
-
-## Home - Metal Construction News
- - [https://www.metalconstructionnews.com](https://www.metalconstructionnews.com)
- - date published: 2023-11-02T09:15:50.607713+00:00
- - user: None
- - tags: []
-
-## Metal In Theory – Analyzing Heavy Metal Music
- - [https://metalintheory.com](https://metalintheory.com)
- - date published: 2023-10-25T16:01:44.480654+00:00
- - user: None
- - tags: []
-
-## Metallica.com
- - [https://www.metallica.com](https://www.metallica.com)
- - date published: 2023-10-30T15:38:28.721707+00:00
- - user: None
- - tags: ['music band']
-
-## MetalliCSS
- - [https://www.metallicss.com](https://www.metallicss.com)
- - date published: 2023-10-25T16:01:46.787639+00:00
- - user: None
- - tags: []
-
-## Metal Wellness
- - [https://www.metalwellness.com](https://www.metalwellness.com)
- - date published: 2023-12-01T10:47:40.491393+00:00
- - user: None
- - tags: []
-
-## metablog
- - [https://blog.metaobject.com](https://blog.metaobject.com)
- - date published: 2023-10-25T16:01:55.739270+00:00
- - user: None
- - tags: []
-
-## In the Cells of the Eggplant | Meta-rationality
- - [https://metarationality.com](https://metarationality.com)
- - date published: 2023-12-25T03:43:59.974297+00:00
- - user: None
- - tags: []
-
-## Metaroids The Singularity is coming
- - [https://metaroids.com](https://metaroids.com)
- - date published: 2023-10-25T16:02:02.144840+00:00
- - user: None
- - tags: []
-
-## Status and outages of Meta business products
- - [https://metastatus.com](https://metastatus.com)
- - date published: 2023-10-25T16:02:02.544702+00:00
- - user: None
- - tags: []
-
-## Metazooa
- - [https://metazooa.com](https://metazooa.com)
- - date published: 2023-10-25T16:02:03.276826+00:00
- - user: None
- - tags: []
-
-## Mete Balci
- - [https://metebalci.com](https://metebalci.com)
- - date published: 2023-12-04T15:32:44.461644+00:00
  - user: None
  - tags: []
 

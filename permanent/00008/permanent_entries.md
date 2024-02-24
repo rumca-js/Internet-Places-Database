@@ -1,3 +1,171 @@
+## Get The Magic of Music!
+ - [https://www.merlinnsound.com](https://www.merlinnsound.com)
+ - date published: 2023-12-23T19:28:27.312651+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mermaid Chart - Create complex, visual diagrams with text. A smarter way of creating diagrams.
+ - [https://www.mermaidchart.com](https://www.mermaidchart.com)
+ - date published: 2023-10-25T16:01:35.538500+00:00
+ - user: None
+ - tags: []
+
+## Merriam-Webster: America's Most Trusted Dictionary
+ - [https://www.merriam-webster.com](https://www.merriam-webster.com)
+ - date published: 2023-10-25T09:28:48.521022+00:00
+ - user: None
+ - tags: []
+
+## merthurturk.com
+ - [https://merthurturk.com](https://merthurturk.com)
+ - date published: 2023-11-29T14:53:27.048847+00:00
+ - user: None
+ - tags: ['personal']
+
+## Meryll Dindin: Transhumanist & Entrepreneur Driving Future Innovation | Meryll Dindin
+ - [https://merylldindin.com](https://merylldindin.com)
+ - date published: 2023-10-25T16:01:36.604677+00:00
+ - user: None
+ - tags: []
+
+## Vente en ligne d'épices, condiments, épicerie fine, thés, infusions et ustensiles de cuisine - Mesepices.com
+ - [https://www.mesepices.com](https://www.mesepices.com)
+ - date published: 2023-12-13T15:19:30.543837+00:00
+ - user: None
+ - tags: []
+
+## The Meson Build system
+ - [https://mesonbuild.com](https://mesonbuild.com)
+ - date published: 2023-10-25T16:01:37.935464+00:00
+ - user: None
+ - tags: []
+
+## Messenger
+ - [https://www.messenger.com](https://www.messenger.com)
+ - date published: 2023-10-25T13:24:05.476740+00:00
+ - user: None
+ - tags: ['gatekeeper', 'social communicator']
+
+## Error
+ - [https://ai.meta.com](https://ai.meta.com)
+ - date published: 2023-12-05T18:26:53.355058+00:00
+ - user: None
+ - tags: []
+
+## Meta
+ - [https://www.meta.com](https://www.meta.com)
+ - date published: 2023-10-27T12:56:25+00:00
+ - user: rumpel
+ - tags: ['meta', 'company', 'facebook', 'gatekeeper']
+
+## μεταcole
+ - [https://metacole.com](https://metacole.com)
+ - date published: 2023-12-17T16:42:28.844399+00:00
+ - user: None
+ - tags: ['personal']
+
+## Movie Reviews, TV Reviews, Game Reviews, and Music Reviews
+ - [https://www.metacritic.com](https://www.metacritic.com)
+ - date published: 2023-10-24T20:20:31.185064+00:00
+ - user: None
+ - tags: ['ranking']
+
+## Metaculus
+ - [https://www.metaculus.com](https://www.metaculus.com)
+ - date published: 2023-10-25T16:01:40.572647+00:00
+ - user: None
+ - tags: []
+
+## DINOv2 by Meta AI
+ - [https://dinov2.metademolab.com](https://dinov2.metademolab.com)
+ - date published: 2023-10-25T16:01:40.973105+00:00
+ - user: None
+ - tags: []
+
+## Metadocs - First Strand Type Extenstion
+ - [https://metadocs8.com](https://metadocs8.com)
+ - date published: 2023-10-25T16:01:41.432105+00:00
+ - user: None
+ - tags: []
+
+## MetaGrrrl
+ - [https://metagrrrl.com](https://metagrrrl.com)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Encyclopaedia Metallum: The Metal Archives
+ - [https://www.metal-archives.com](https://www.metal-archives.com)
+ - date published: 2023-10-29T15:29:31.205442+00:00
+ - user: None
+ - tags: ['music']
+
+## Home - Metal Construction News
+ - [https://www.metalconstructionnews.com](https://www.metalconstructionnews.com)
+ - date published: 2023-11-02T09:15:50.607713+00:00
+ - user: None
+ - tags: []
+
+## Metal In Theory – Analyzing Heavy Metal Music
+ - [https://metalintheory.com](https://metalintheory.com)
+ - date published: 2023-10-25T16:01:44.480654+00:00
+ - user: None
+ - tags: []
+
+## Metallica.com
+ - [https://www.metallica.com](https://www.metallica.com)
+ - date published: 2023-10-30T15:38:28.721707+00:00
+ - user: None
+ - tags: ['music band']
+
+## MetalliCSS
+ - [https://www.metallicss.com](https://www.metallicss.com)
+ - date published: 2023-10-25T16:01:46.787639+00:00
+ - user: None
+ - tags: []
+
+## Metal Wellness
+ - [https://www.metalwellness.com](https://www.metalwellness.com)
+ - date published: 2023-12-01T10:47:40.491393+00:00
+ - user: None
+ - tags: ['personal']
+
+## metablog
+ - [https://blog.metaobject.com](https://blog.metaobject.com)
+ - date published: 2023-10-25T16:01:55.739270+00:00
+ - user: None
+ - tags: []
+
+## In the Cells of the Eggplant | Meta-rationality
+ - [https://metarationality.com](https://metarationality.com)
+ - date published: 2023-12-25T03:43:59.974297+00:00
+ - user: None
+ - tags: []
+
+## Metaroids The Singularity is coming
+ - [https://metaroids.com](https://metaroids.com)
+ - date published: 2023-10-25T16:02:02.144840+00:00
+ - user: None
+ - tags: []
+
+## Status and outages of Meta business products
+ - [https://metastatus.com](https://metastatus.com)
+ - date published: 2023-10-25T16:02:02.544702+00:00
+ - user: None
+ - tags: []
+
+## Metazooa
+ - [https://metazooa.com](https://metazooa.com)
+ - date published: 2023-10-25T16:02:03.276826+00:00
+ - user: None
+ - tags: []
+
+## Mete Balci
+ - [https://metebalci.com](https://metebalci.com)
+ - date published: 2023-12-04T15:32:44.461644+00:00
+ - user: None
+ - tags: []
+
 ## Meteosource - The Global Weather API & Mapping Platform - current weather and forecast data
  - [https://www.meteosource.com](https://www.meteosource.com)
  - date published: 2023-10-25T16:02:04.837084+00:00
@@ -92,7 +260,7 @@
  - [https://www.miahopkinsauthor.com](https://www.miahopkinsauthor.com)
  - date published: 2023-12-29T03:11:52.770398+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Miami Breaking News, Sports, Crime & More | Miami Herald
  - [https://www.miamiherald.com](https://www.miamiherald.com)
@@ -128,7 +296,7 @@
  - [https://micamaradeportiva.com](https://micamaradeportiva.com)
  - date published: 2023-12-25T22:12:40.489547+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Michael Hudson
  - [https://michael-hudson.com](https://michael-hudson.com)
@@ -152,7 +320,7 @@
  - [https://michaelbalchan.com](https://michaelbalchan.com)
  - date published: 2024-01-15T08:34:35.765713+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Michael Bluejay - Official home page
  - [https://michaelbluejay.com](https://michaelbluejay.com)
@@ -164,25 +332,25 @@
  - [https://michaelboezi.com](https://michaelboezi.com)
  - date published: 2024-02-09T21:50:18.240552+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home Page V2
  - [https://www.michaelfrew.com](https://www.michaelfrew.com)
  - date published: 2023-11-29T16:20:25.573482+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Solution to a Contest Math Problem
  - [https://www.michaelhartl.com](https://www.michaelhartl.com)
  - date published: 2023-12-20T21:31:22.657887+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## michaelhoney.com
  - [https://michaelhoney.com](https://michaelhoney.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## None
  - [https://michaellabelle.com](https://michaellabelle.com)
@@ -212,7 +380,7 @@
  - [https://michaelrbock.com](https://michaelrbock.com)
  - date published: 2023-12-11T10:57:55.589456+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Michael Samsel Therapist Seattle
  - [https://www.michaelsamsel.com](https://www.michaelsamsel.com)
@@ -224,7 +392,7 @@
  - [https://michaelwelford.com](https://michaelwelford.com)
  - date published: 2024-02-09T22:00:20.282928+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Michele Coscia | Connecting Humanities
  - [https://www.michelecoscia.com](https://www.michelecoscia.com)
@@ -236,13 +404,13 @@
  - [https://michelfortin.com](https://michelfortin.com)
  - date published: 2023-11-29T17:16:25.427969+00:00
  - user: None
- - tags: ['seo']
+ - tags: ['personal', 'seo']
 
 ## Michel Griffin - [En]chanteur franglais
  - [https://www.michelgriffin.com](https://www.michelgriffin.com)
  - date published: 2023-11-29T17:09:14.174486+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Michigan Post | Today's Front Page, Breaking News, World, Politics
  - [https://michigan-post.com](https://michigan-post.com)
@@ -284,7 +452,7 @@
  - [https://microkhan.com](https://microkhan.com)
  - date published: 2024-02-08T21:16:04.718097+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## MicroMac Technology's Home Page for Macintosh Upgrades and Accelerators
  - [https://www.micromac.com](https://www.micromac.com)
@@ -507,7 +675,7 @@
  - [https://mikebifulco.com](https://mikebifulco.com)
  - date published: 2023-12-27T08:43:59.949594+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Mike Echlin Music - Mike Echlin
  - [https://www.mikeechlin.com](https://www.mikeechlin.com)
@@ -525,7 +693,7 @@
  - [https://mikekilcoyne.com](https://mikekilcoyne.com)
  - date published: 2023-11-29T16:19:57.698565+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Mike Lull Custom Guitars
  - [https://www.mikelull.com](https://www.mikelull.com)
@@ -549,7 +717,7 @@
  - [https://mikepaul.com](https://mikepaul.com)
  - date published: 2023-12-22T22:30:57.160444+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Mike Puchol – Medium
  - [https://mikepuchol.com](https://mikepuchol.com)
@@ -657,13 +825,13 @@
  - [https://minafi.com](https://minafi.com)
  - date published: 2023-11-29T14:41:50.950597+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home
  - [https://www.mindfulpolyglot.com](https://www.mindfulpolyglot.com)
  - date published: 2016-01-01T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Mindful tester | Sharing knowledge about testing and other things on my mind
  - [https://mindfultester.com](https://mindfultester.com)
@@ -789,7 +957,7 @@
  - [https://www.mirhamasala.com](https://www.mirhamasala.com)
  - date published: 2023-11-29T17:11:25.073563+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Miro | The Visual Workspace for Innovation
  - [https://miro.com](https://miro.com)
@@ -831,7 +999,7 @@
  - [https://mister-chad.com](https://mister-chad.com)
  - date published: 2023-12-18T01:35:14.727669+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Mistral 7B Free Chatbot online and zephyr-7b chatbot
  - [https://mistral-7b.com](https://mistral-7b.com)
@@ -891,7 +1059,7 @@
  - [https://mjwhansen.com](https://mjwhansen.com)
  - date published: 2024-02-13T18:10:01.467771+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## MKBHD
  - [https://mkbhd.com](https://mkbhd.com)
@@ -999,7 +1167,7 @@
  - [https://www.mobypixel.com](https://www.mobypixel.com)
  - date published: 2010-01-01T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Games and mods development for Windows, Linux and Mac - Mod DB
  - [https://www.moddb.com](https://www.moddb.com)
@@ -1131,7 +1299,7 @@
  - [https://momekh.com](https://momekh.com)
  - date published: 2023-12-03T15:55:30.572760+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home | Monadical Consulting
  - [https://monadical.com](https://monadical.com)
@@ -1155,7 +1323,7 @@
  - [https://www.monaharaty.com](https://www.monaharaty.com)
  - date published: 2023-12-17T20:59:14.047846+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## George Monbiot
  - [https://www.monbiot.com](https://www.monbiot.com)
@@ -1185,7 +1353,7 @@
  - [https://www.moneyhealthsolutions.com](https://www.moneyhealthsolutions.com)
  - date published: 2023-12-15T21:45:04.521840+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Money Inc - The Business of Money
  - [https://moneyinc.com](https://moneyinc.com)
@@ -1251,7 +1419,7 @@
  - [https://mihobu.monkeywalk.com](https://mihobu.monkeywalk.com)
  - date published: 2023-12-02T10:26:19.578888+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Monochrome Watches | An Online Magazine Dedicated To Fine Watches
  - [https://monochrome-watches.com](https://monochrome-watches.com)
@@ -1311,7 +1479,7 @@
  - [https://montyharper.com](https://montyharper.com)
  - date published: 2023-12-29T20:11:28.121829+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## https://www.montypython.com
  - [https://www.montypython.com](https://www.montypython.com)
@@ -1355,11 +1523,17 @@
  - user: None
  - tags: []
 
+## Email Marketing Automation Platform for Thriving Businesses
+ - [https://moosend.com](https://moosend.com)
+ - date published: 2024-02-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## moralestapia.com
  - [https://www.moralestapia.com](https://www.moralestapia.com)
  - date published: 2023-11-29T15:49:04.258610+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## More Pablo
  - [https://morepablo.com](https://morepablo.com)
@@ -1383,7 +1557,7 @@
  - [https://morganfeeney.com](https://morganfeeney.com)
  - date published: 2023-11-29T14:42:17.810644+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Morgan Hill Times | Morgan Hill, San Martin, CA | Home of the Morgan Hill Times
  - [https://morganhilltimes.com](https://morganhilltimes.com)
@@ -1419,7 +1593,7 @@
  - [https://www.morningtempo.com](https://www.morningtempo.com)
  - date published: 2023-12-21T03:33:32.560180+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Morocco World News - Morocco Now - Morocco Latest News
  - [https://www.moroccoworldnews.com](https://www.moroccoworldnews.com)
@@ -1496,6 +1670,12 @@
 ## Mother Turtle | Mother Turtle Music
  - [https://www.motherturtle.com](https://www.motherturtle.com)
  - date published: 2024-01-14T17:12:17.714596+00:00
+ - user: None
+ - tags: []
+
+## Ergonomic Standing Desks Canada - MotionGrey
+ - [https://motiongrey.com](https://motiongrey.com)
+ - date published: 2024-02-06T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1581,7 +1761,7 @@
  - [https://mozzillo.com](https://mozzillo.com)
  - date published: 2023-12-15T21:45:09.248038+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## None
  - [https://mp3-cutter-splitter.com](https://mp3-cutter-splitter.com)
@@ -1737,7 +1917,7 @@
  - [https://mufidu.com](https://mufidu.com)
  - date published: 2023-12-12T13:08:46.080906+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## The MUGEN ARCHIVE - Home
  - [https://mugenarchive.com](https://mugenarchive.com)
@@ -1767,7 +1947,7 @@
  - [https://www.muimedia.com](https://www.muimedia.com)
  - date published: 2023-12-14T06:54:07.566986+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Mule Design
  - [https://www.muledesign.com](https://www.muledesign.com)
@@ -1839,7 +2019,7 @@
  - [https://www.musicentrepreneurhq.com](https://www.musicentrepreneurhq.com)
  - date published: 2023-11-29T14:18:19.324945+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Music Industry | Record labels | Record Companies | Music Gateway
  - [https://www.musicgateway.com](https://www.musicgateway.com)
@@ -1905,13 +2085,13 @@
  - [https://muz4now.com](https://muz4now.com)
  - date published: 2023-12-30T22:23:47.478481+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Muzzug
  - [https://blog.muzzug.com](https://blog.muzzug.com)
  - date published: 2023-11-29T15:45:30.166689+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## | Mountain View Online |
  - [https://www.mv-voice.com](https://www.mv-voice.com)
@@ -1977,7 +2157,7 @@
  - [https://mydearsabrina.com](https://mydearsabrina.com)
  - date published: 2023-12-03T09:19:33.315226+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Columbus News, Weather, Sports, Breaking News | WTTE
  - [https://myfox28columbus.com](https://myfox28columbus.com)
@@ -1995,7 +2175,7 @@
  - [https://will.mylanders.com](https://will.mylanders.com)
  - date published: 2023-12-03T01:44:00.361357+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Mango Mail - Email Hosting
  - [https://mymangomail.com](https://mymangomail.com)
@@ -2043,7 +2223,7 @@
  - [https://myproactivelife.com](https://myproactivelife.com)
  - date published: 2024-01-09T02:44:35.810001+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## MySA: San Antonio News, Food, Sports, Entertainment and Travel
  - [https://www.mysanantonio.com](https://www.mysanantonio.com)
@@ -2091,13 +2271,13 @@
  - [https://mythicaltype.com](https://mythicaltype.com)
  - date published: 2023-11-29T17:11:37.801675+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## My Twenty Cents | Entrepreneuriat et Investissement
  - [https://mytwentycents.com](https://mytwentycents.com)
  - date published: 2023-12-19T09:59:06.167232+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Automation with n8n
  - [https://n8n-automation.com](https://n8n-automation.com)
@@ -2193,7 +2373,7 @@
  - [https://nanyasudhir.com](https://nanyasudhir.com)
  - date published: 2021-01-26T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## NAPALM RECORDS
  - [https://label.napalmrecords.com](https://label.napalmrecords.com)
@@ -2277,7 +2457,7 @@
  - [https://www.natemerrill.com](https://www.natemerrill.com)
  - date published: 2024-01-01T17:21:02.778781+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## nate's website
  - [https://www.nateranda.com](https://www.nateranda.com)
@@ -2289,7 +2469,7 @@
  - [https://nathanaelhaggard.com](https://nathanaelhaggard.com)
  - date published: 2023-12-20T00:58:45.930055+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Nathan Agin | Wearer of Many Hats
  - [https://nathanagin.com](https://nathanagin.com)
@@ -2307,7 +2487,7 @@
  - [https://www.nathanlustig.com](https://www.nathanlustig.com)
  - date published: 2023-12-13T06:04:31.022737+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Nathan Otterness' Page
  - [https://nathanotterness.com](https://nathanotterness.com)
@@ -2409,7 +2589,7 @@
  - [https://nativeneil.com](https://nativeneil.com)
  - date published: 2023-12-27T01:09:25.252474+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## NativePHP | Baking Delicious Native Apps
  - [https://nativephp.com](https://nativephp.com)
@@ -2499,7 +2679,7 @@
  - [https://nazavo.com](https://nazavo.com)
  - date published: 2023-12-14T06:55:11.795416+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## NBC Bay Area – Bay Area News, Local News, Weather, Traffic, Entertainment, Breaking News
  - [https://www.nbcbayarea.com](https://www.nbcbayarea.com)
@@ -2589,7 +2769,7 @@
  - [https://ndanes.com](https://ndanes.com)
  - date published: 2023-12-13T20:58:32.247509+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## NDC Conferences
  - [https://ndcconferences.com](https://ndcconferences.com)
@@ -2625,7 +2805,7 @@
  - [https://www.nealungerleider.com](https://www.nealungerleider.com)
  - date published: 2023-12-10T11:33:52.726783+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Necromunda: Dark Uprising | Games Workshop
  - [https://necromunda.com](https://necromunda.com)
@@ -2643,7 +2823,7 @@
  - [https://www.neerajsidhaye.com](https://www.neerajsidhaye.com)
  - date published: 2023-12-20T14:33:32.357596+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## neeto blog | Neeraj Singh | Substack
  - [https://blog.neeto.com](https://blog.neeto.com)
@@ -2697,7 +2877,7 @@
  - [https://nelsonjoyce.com](https://nelsonjoyce.com)
  - date published: 2023-11-29T19:26:28.622051+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Nenad Markuš
  - [https://nenadmarkus.com](https://nenadmarkus.com)
@@ -2853,7 +3033,7 @@
  - [https://thomasanderson.netlify.com](https://thomasanderson.netlify.com)
  - date published: 2024-02-10T21:32:49.871885+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Scale & Ship Faster with a Composable Web Architecture | Netlify
  - [https://www.netlify.com](https://www.netlify.com)
@@ -2937,13 +3117,13 @@
  - [https://nevan.com](https://nevan.com)
  - date published: 2023-12-24T08:14:35.823982+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## None
  - [https://neverendinglist.com](https://neverendinglist.com)
  - date published: 2023-12-30T05:21:55.315764+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home Page |The New Arab
  - [https://www.newarab.com](https://www.newarab.com)
@@ -3405,7 +3585,7 @@
  - [https://www.nicklatoof.com](https://www.nicklatoof.com)
  - date published: 2023-11-29T15:47:43.364763+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Nick Montfort’s site
  - [https://nickm.com](https://nickm.com)
@@ -3435,13 +3615,13 @@
  - [https://nicksweeney.com](https://nicksweeney.com)
  - date published: 2013-01-01T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Nick Vitucci
  - [https://nickvitucci.com](https://nickvitucci.com)
  - date published: 2023-12-12T23:22:51.342722+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Nick vs Networking | Telco Network Engineering
  - [https://nickvsnetworking.com](https://nickvsnetworking.com)
@@ -3453,7 +3633,7 @@
  - [https://nicolarushton.com](https://nicolarushton.com)
  - date published: 2024-01-09T02:44:58.408245+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Chronique d'Humeur de Nicolas Bermond 2005 – 2023 – Perspective
  - [https://nicolas-bermond.com](https://nicolas-bermond.com)
@@ -3507,7 +3687,7 @@
  - [http://nicperry.com](http://nicperry.com)
  - date published: 2023-11-29T14:24:08.326174+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## http://nielsenhayden.com
  - [http://nielsenhayden.com](http://nielsenhayden.com)
@@ -3525,7 +3705,7 @@
  - [https://nigelrankin.com](https://nigelrankin.com)
  - date published: 2023-12-02T10:26:29.150929+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## None
  - [https://www.nigerienne-automobile.com](https://www.nigerienne-automobile.com)
@@ -3555,7 +3735,7 @@
  - [https://nihars.com](https://nihars.com)
  - date published: 2023-11-29T13:53:47.500938+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Nihongo Lessons: Learn Japanese more efficiently than ever
  - [https://lessons.nihongo-app.com](https://lessons.nihongo-app.com)
@@ -3610,7 +3790,7 @@
  - [https://www.niklasbuehler.com](https://www.niklasbuehler.com)
  - date published: 2023-12-12T13:08:03.401175+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## niklasgoeke.com - Lessons from life outside the comfort zone
  - [https://niklasgoeke.com](https://niklasgoeke.com)
@@ -3634,7 +3814,7 @@
  - [https://www.nikolett.com](https://www.nikolett.com)
  - date published: 2023-12-13T20:59:14.600606+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Nikon’s Small World
  - [https://www.nikonsmallworld.com](https://www.nikonsmallworld.com)
@@ -3658,7 +3838,7 @@
  - [https://nimblecamper.com](https://nimblecamper.com)
  - date published: 2023-12-09T15:00:53.583968+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Krishna Sundarram
  - [https://blog.nindalf.com](https://blog.nindalf.com)
@@ -3670,7 +3850,7 @@
  - [https://www.nineoverfour.com](https://www.nineoverfour.com)
  - date published: 2023-11-29T14:23:52.460298+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Ninerito | Shopify Partner
  - [https://www.ninerito.com](https://www.ninerito.com)
@@ -3742,7 +3922,7 @@
  - [https://nitinkhanna.com](https://nitinkhanna.com)
  - date published: 2023-12-20T00:58:56.191240+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Nitin Passa
  - [https://nitinpassa.com](https://nitinpassa.com)
@@ -3790,7 +3970,7 @@
  - [https://www.nkantar.com](https://www.nkantar.com)
  - date published: 2023-11-29T15:45:20.884071+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Nick Loewen
  - [https://nloewen.com](https://nloewen.com)
@@ -3868,7 +4048,7 @@
  - [https://noeldemartin.com](https://noeldemartin.com)
  - date published: 2023-12-02T10:25:50.001999+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## NOEMA | Noema Magazine
  - [https://www.noemamag.com](https://www.noemamag.com)
@@ -3880,7 +4060,7 @@
  - [https://nohaberia.com](https://nohaberia.com)
  - date published: 2023-12-20T19:15:37.469488+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Free Dynamic DNS - Managed DNS - Managed Email - Domain Registration - No-IP
  - [https://www.noip.com](https://www.noip.com)
@@ -4054,7 +4234,7 @@
  - [https://northshorecrafts.com](https://northshorecrafts.com)
  - date published: 2023-12-10T17:00:05.797607+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## northstarmonthly.com | Established in 1807 - Re-established in 1989 - Good For the Whole Month!
  - [https://www.northstarmonthly.com](https://www.northstarmonthly.com)
@@ -4120,7 +4300,7 @@
  - [https://www.notesandphotos.com](https://www.notesandphotos.com)
  - date published: 2023-12-20T21:30:54.650783+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Notes by Lex
  - [https://notesbylex.com](https://notesbylex.com)
@@ -4186,7 +4366,7 @@
  - [https://www.notreble.com](https://www.notreble.com)
  - date published: 2023-12-10T16:59:55.716286+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## https://blog.notryan.com
  - [https://blog.notryan.com](https://blog.notryan.com)
@@ -4247,7 +4427,7 @@ Answering Machine Greetings!
  - [https://nownownow.com](https://nownownow.com)
  - date published: 2023-11-15T17:49:00.199075+00:00
  - user: None
- - tags: ['social platform', 'personal']
+ - tags: ['personal sites source', 'personal', 'social platform']
 
 ## 🚨🚨 That's a lot of YAML 🚨🚨
  - [https://noyaml.com](https://noyaml.com)
@@ -4277,7 +4457,7 @@ Answering Machine Greetings!
  - [https://www.npschmitt.com](https://www.npschmitt.com)
  - date published: 2023-12-28T18:49:47.229667+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## NRW
  - [https://nrwradio.com](https://nrwradio.com)
@@ -4490,7 +4670,7 @@ Answering Machine Greetings!
  - [https://nysc-cds.com](https://nysc-cds.com)
  - date published: 2000-01-01T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## NYS Music - New York State's Music News Source
  - [https://nysmusic.com](https://nysmusic.com)
@@ -4526,7 +4706,7 @@ Answering Machine Greetings!
  - [https://nyveldt.com](https://nyveldt.com)
  - date published: 2023-11-29T17:18:39.669722+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Tying African economic growth to potential tech growth
  - [https://www.oafrica.com](https://www.oafrica.com)
@@ -4544,13 +4724,13 @@ Answering Machine Greetings!
  - [https://obdude.com](https://obdude.com)
  - date published: 2023-11-29T14:19:17.322995+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Obie Fernandez
  - [http://obiefernandez.com](http://obiefernandez.com)
  - date published: 2023-12-24T18:31:20.883388+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Oblivious Investor — Low-Maintenance Investing with Index Funds and ETFs
  - [https://obliviousinvestor.com](https://obliviousinvestor.com)
@@ -4580,7 +4760,7 @@ Answering Machine Greetings!
  - [https://obriencommunications.com](https://obriencommunications.com)
  - date published: 2023-11-29T13:55:56.976233+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## OBSBOT - Connecting You to the Future [Official]
  - [https://www.obsbot.com](https://www.obsbot.com)
@@ -4688,7 +4868,7 @@ Answering Machine Greetings!
  - [https://odeliachan.com](https://odeliachan.com)
  - date published: 2023-12-26T19:09:53.729956+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Odessa Journal | Main
  - [https://odessa-journal.com](https://odessa-journal.com)
@@ -4742,7 +4922,7 @@ Answering Machine Greetings!
  - [https://officesuppliesincorporated.com](https://officesuppliesincorporated.com)
  - date published: 2023-12-26T06:31:36.997256+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Breaking News
  - [https://www.offthepress.com](https://www.offthepress.com)
@@ -4766,7 +4946,7 @@ Answering Machine Greetings!
  - [https://ohheybrian.com](https://ohheybrian.com)
  - date published: 2024-02-09T21:40:09.372815+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home - Ohio Capital Journal
  - [https://ohiocapitaljournal.com](https://ohiocapitaljournal.com)
@@ -4778,7 +4958,7 @@ Answering Machine Greetings!
  - [https://ohmightyhealth.com](https://ohmightyhealth.com)
  - date published: 2023-11-29T15:47:08.578315+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Crude Oil Prices Today | OilPrice.com
  - [https://oilprice.com](https://oilprice.com)
@@ -4880,7 +5060,7 @@ Answering Machine Greetings!
  - [https://oldpodcast.com](https://oldpodcast.com)
  - date published: 2023-12-14T01:27:02.081623+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Old School Alex
  - [https://oldschoolalex.com](https://oldschoolalex.com)
@@ -4922,7 +5102,7 @@ Answering Machine Greetings!
  - [https://omdventures.com](https://omdventures.com)
  - date published: 2023-12-12T07:04:29.761427+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Omegle
  - [https://omegle.com](https://omegle.com)
@@ -4952,7 +5132,7 @@ Answering Machine Greetings!
  - [https://www.omnifluxmusic.com](https://www.omnifluxmusic.com)
  - date published: 2023-11-29T20:44:08.484060+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Omniglot - the encyclopedia of writing systems and languages
  - [https://www.omniglot.com](https://www.omniglot.com)
@@ -4988,7 +5168,7 @@ Answering Machine Greetings!
  - [https://ondrakozak.com](https://ondrakozak.com)
  - date published: 2023-12-11T10:57:28.937161+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## ONE37pm | For the Curious
  - [https://www.one37pm.com](https://www.one37pm.com)
@@ -5006,7 +5186,7 @@ Answering Machine Greetings!
  - [https://www.onebrickaday.com](https://www.onebrickaday.com)
  - date published: 2023-12-20T19:15:43.341768+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## One Day You’ll Find Yourself
  - [https://www.onedayyoullfindyourself.com](https://www.onedayyoullfindyourself.com)
@@ -5024,7 +5204,7 @@ Answering Machine Greetings!
  - [https://www.oneforthecode.com](https://www.oneforthecode.com)
  - date published: 2023-12-21T08:23:46.436938+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## OneKeep
  - [https://onekeep.com](https://onekeep.com)
@@ -5054,7 +5234,7 @@ Answering Machine Greetings!
  - [https://oneshotfinance.com](https://oneshotfinance.com)
  - date published: 2023-12-23T07:30:57.175803+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Push Notification Software to Improve Customer Engagement - OneSignal
  - [https://onesignal.com](https://onesignal.com)
@@ -5288,7 +5468,7 @@ Answering Machine Greetings!
  - [https://www.openduck.com](https://www.openduck.com)
  - date published: 2024-02-14T11:11:48.040469+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home | OpenFaaS - Serverless Functions Made Simple
  - [https://www.openfaas.com](https://www.openfaas.com)
@@ -5338,11 +5518,17 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
-## 503 Backend fetch failed
+## Welcome - Open Subtitles Blog
  - [https://blog.opensubtitles.com](https://blog.opensubtitles.com)
  - date published: 2023-11-16T14:55:26.595310+00:00
  - user: None
  - tags: []
+
+## opensubtitles.com
+ - [https://opensubtitles.com](https://opensubtitles.com)
+ - date published: 2024-02-23T16:47:48+00:00
+ - user: rumpel
+ - tags: ['subtitles']
 
 ## OpenSX70
  - [https://opensx70.com](https://opensx70.com)
@@ -5558,7 +5744,7 @@ Answering Machine Greetings!
  - [https://www.oscarscampos.com](https://www.oscarscampos.com)
  - date published: 2023-12-25T04:55:51.274224+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## oschvr.com
  - [https://oschvr.com](https://oschvr.com)
@@ -5588,7 +5774,7 @@ Answering Machine Greetings!
  - [https://www.oskareggert.com](https://www.oskareggert.com)
  - date published: 2023-12-05T14:37:10.380947+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## OSnews  -  Exploring the Future of Computing
  - [https://www.osnews.com](https://www.osnews.com)
@@ -5625,7 +5811,7 @@ Answering Machine Greetings!
  - [https://otonolujan.com](https://otonolujan.com)
  - date published: 2023-12-08T09:38:41.735465+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Ottawa Citizen
  - [https://ottawacitizen.com](https://ottawacitizen.com)
@@ -5816,192 +6002,6 @@ Answering Machine Greetings!
 ## Overwolf | The guild of in-game creators
  - [https://www.overwolf.com](https://www.overwolf.com)
  - date published: 2023-12-13T16:02:25.163174+00:00
- - user: None
- - tags: []
-
-## OVHcloud
- - [https://www.ovhcloud.com](https://www.ovhcloud.com)
- - date published: 2023-10-25T08:26:40.799882+00:00
- - user: None
- - tags: ['hosting service']
-
-## owehrens.com
- - [https://owehrens.com](https://owehrens.com)
- - date published: 2023-12-13T15:53:28.406704+00:00
- - user: None
- - tags: []
-
-## Home - Owen Young's Story
- - [https://blog.owenyoung.com](https://blog.owenyoung.com)
- - date published: 2023-12-13T11:22:49.498288+00:00
- - user: None
- - tags: []
-
-## OBN | Hey, how are ya?
- - [https://www.owlbynight.com](https://www.owlbynight.com)
- - date published: 2023-10-25T16:28:44.701322+00:00
- - user: None
- - tags: []
-
-## Tutoring Services | Oxford Learning
- - [https://www.oxfordlearning.com](https://www.oxfordlearning.com)
- - date published: 2023-10-25T16:28:48.244897+00:00
- - user: None
- - tags: []
-
-## Home - Oxford Political Review
- - [https://oxfordpoliticalreview.com](https://oxfordpoliticalreview.com)
- - date published: 2023-10-25T16:28:52.447028+00:00
- - user: None
- - tags: []
-
-## Leaders in perovskite solar technology | Oxford PV
- - [https://www.oxfordpv.com](https://www.oxfordpv.com)
- - date published: 2024-01-31T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Oxford Student – The Oxford Student
- - [https://www.oxfordstudent.com](https://www.oxfordstudent.com)
- - date published: 2023-10-25T16:29:04.754563+00:00
- - user: None
- - tags: []
-
-## Oxygen Official Site
- - [https://www.oxygen.com](https://www.oxygen.com)
- - date published: 2023-10-28T17:36:52.135541+00:00
- - user: None
- - tags: []
-
-## http://www.oyonale.com
- - [http://www.oyonale.com](http://www.oyonale.com)
- - date published: 2023-10-25T16:29:06.302463+00:00
- - user: None
- - tags: []
-
-## Sergey Stadnik's blog
- - [https://ozmoroz.com](https://ozmoroz.com)
- - date published: 2023-12-17T16:42:45.433064+00:00
- - user: None
- - tags: []
-
-## Hi, I'm Janis Ozolins.
- - [https://ozolinsjanis.com](https://ozolinsjanis.com)
- - date published: 2024-01-05T01:03:25.780064+00:00
- - user: None
- - tags: []
-
-## Home - Oz Rhodes
- - [https://www.ozrhodes.com](https://www.ozrhodes.com)
- - date published: 2023-12-20T00:59:19.143915+00:00
- - user: None
- - tags: []
-
-## new
- - [https://p1k3.com](https://p1k3.com)
- - date published: 2024-01-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Unified In-game and On-Chain Analytics
- - [https://p2eanalytics.com](https://p2eanalytics.com)
- - date published: 2023-10-25T16:29:07.420465+00:00
- - user: None
- - tags: []
-
-## PA Ancestors
- - [https://www.paancestors.com](https://www.paancestors.com)
- - date published: 2023-12-28T22:26:07.134081+00:00
- - user: None
- - tags: []
-
-## Paavan — Digital Product Designer
- - [https://paavandesign.com](https://paavandesign.com)
- - date published: 2023-10-25T16:29:13.648161+00:00
- - user: None
- - tags: []
-
-## PabloZarate™. Product Design expert, strategist & consultant.
- - [https://pablozarate.com](https://pablozarate.com)
- - date published: 2024-02-02T14:27:52.296881+00:00
- - user: None
- - tags: []
-
-## Home Page | Pachyderm
- - [https://www.pachyderm.com](https://www.pachyderm.com)
- - date published: 2023-10-25T16:29:16.162733+00:00
- - user: None
- - tags: []
-
-## Graphing Calculator
- - [https://www.pacifict.com](https://www.pacifict.com)
- - date published: 2023-10-25T16:29:17.519350+00:00
- - user: None
- - tags: []
-
-## Packet Loss Test – Test Your Connection Quality
- - [https://packetlosstest.com](https://packetlosstest.com)
- - date published: 2023-11-16T09:49:00.669649+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://packratvhf.com](https://packratvhf.com)
- - date published: 2024-02-08T22:52:09.998162+00:00
- - user: None
- - tags: []
-
-## Packt | Programming Books, eBooks & Videos for Developers
- - [https://www.packtpub.com](https://www.packtpub.com)
- - date published: 2023-10-25T08:25:45.035269+00:00
- - user: None
- - tags: []
-
-## Home - PYOK
- - [https://www.paddleyourownkanoo.com](https://www.paddleyourownkanoo.com)
- - date published: 2023-10-25T16:29:23.750808+00:00
- - user: None
- - tags: []
-
-## Home - New - Pagely
- - [https://pagely.com](https://pagely.com)
- - date published: 2023-10-25T16:29:33.698142+00:00
- - user: None
- - tags: []
-
-## Link Building, SEO, Content Marketing | Page One Power
- - [https://www.pageonepower.com](https://www.pageonepower.com)
- - date published: 2023-10-25T16:29:36.991160+00:00
- - user: None
- - tags: ['company', 'seo']
-
-## The Church Law Firm
- - [https://www.pagepate.com](https://www.pagepate.com)
- - date published: 2022-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Page Six: Latest Celebrity News, Entertainment News & Gossip
- - [https://pagesix.com](https://pagesix.com)
- - date published: 2023-10-25T10:52:05.156137+00:00
- - user: None
- - tags: []
-
-## Cheap Books!
- - [https://www.pagesonpages.com](https://www.pagesonpages.com)
- - date published: 2023-10-25T16:29:38.022535+00:00
- - user: None
- - tags: []
-
-## pagetable.com – Some Assembly Required
- - [https://www.pagetable.com](https://www.pagetable.com)
- - date published: 2023-10-25T16:29:42.920014+00:00
- - user: None
- - tags: []
-
-## Home of the Pathfinder and Starfinder RPGs. The Golem’s Got It! | Paizo
- - [https://paizo.com](https://paizo.com)
- - date published: 2023-10-25T16:29:51.558859+00:00
  - user: None
  - tags: []
 

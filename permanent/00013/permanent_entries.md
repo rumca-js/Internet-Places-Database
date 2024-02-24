@@ -1,3 +1,315 @@
+## Portland News, Weather, Sports, Breaking News | WGME
+ - [https://wgme.com](https://wgme.com)
+ - date published: 2024-01-03T09:56:23.975437+00:00
+ - user: None
+ - tags: []
+
+## Access Restricted
+ - [https://wgntv.com](https://wgntv.com)
+ - date published: 2024-01-09T02:54:16.996136+00:00
+ - user: None
+ - tags: []
+
+## Access Denied
+ - [https://www.whas11.com](https://www.whas11.com)
+ - date published: 2023-10-25T18:03:10.464733+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Whataaabout.com – unique activity ideas for the holiday break
+ - [https://www.whataaabout.com](https://www.whataaabout.com)
+ - date published: 2023-12-26T15:13:08+00:00
+ - user: None
+ - tags: []
+
+## What does this code do?
+ - [https://whatdoesthiscodedo.com](https://whatdoesthiscodedo.com)
+ - date published: 2023-10-25T18:03:11.005084+00:00
+ - user: None
+ - tags: []
+
+## What Hi-Fi? | Tech news and reviews
+ - [https://www.whathifi.com](https://www.whathifi.com)
+ - date published: 2023-10-25T18:03:26.791247+00:00
+ - user: None
+ - tags: []
+
+## What Lisa Cooks
+ - [https://www.whatlisacooks.com](https://www.whatlisacooks.com)
+ - date published: 2023-10-25T18:03:33.421482+00:00
+ - user: None
+ - tags: []
+
+## Error
+ - [https://api.whatsapp.com](https://api.whatsapp.com)
+ - date published: 2023-12-11T19:06:07.082457+00:00
+ - user: None
+ - tags: []
+
+## Error
+ - [https://blog.whatsapp.com](https://blog.whatsapp.com)
+ - date published: 2023-10-25T18:03:33.987561+00:00
+ - user: None
+ - tags: []
+
+## Error
+ - [https://web.whatsapp.com](https://web.whatsapp.com)
+ - date published: 2023-10-25T18:03:35.151613+00:00
+ - user: None
+ - tags: []
+
+## Error
+ - [https://whatsapp.com](https://whatsapp.com)
+ - date published: 2023-11-01T09:36:41.682769+00:00
+ - user: None
+ - tags: ['social communicator']
+
+## Whatsapp
+ - [https://www.whatsapp.com](https://www.whatsapp.com)
+ - date published: 2023-10-25T13:24:38+00:00
+ - user: rumpel
+ - tags: ['gatekeeper', 'social communicator']
+
+## What's Brew
+ - [https://www.whatsbrew.com](https://www.whatsbrew.com)
+ - date published: 2024-01-05T10:38:53.421536+00:00
+ - user: None
+ - tags: []
+
+## Home - Boston News, Weather, Sports | WHDH 7News
+ - [https://whdh.com](https://whdh.com)
+ - date published: 2023-12-22T21:44:15.537640+00:00
+ - user: None
+ - tags: []
+
+## WHDownLoad
+ - [https://www.whdownload.com](https://www.whdownload.com)
+ - date published: 2023-10-27T14:30:25.747347+00:00
+ - user: None
+ - tags: ['emulation', 'amiga', 'roms']
+
+## Wheatdesign.com
+ - [https://wheatdesign.com](https://wheatdesign.com)
+ - date published: 2023-12-27T01:05:53.415461+00:00
+ - user: None
+ - tags: ['personal']
+
+## News10NBC
+ - [https://www.whec.com](https://www.whec.com)
+ - date published: 2023-11-12T18:45:25.297898+00:00
+ - user: None
+ - tags: []
+
+## Veteran Owned Strategic Marketing & SEO Consulting Firm Providing Training for Teams & Implementation
+ - [https://www.wheelerconsultingco.com](https://www.wheelerconsultingco.com)
+ - date published: 2023-12-08T09:38:21.228464+00:00
+ - user: None
+ - tags: ['personal']
+
+## When is the week end?
+ - [https://whenistheweekend.com](https://whenistheweekend.com)
+ - date published: 2023-11-29T19:50:25.506110+00:00
+ - user: None
+ - tags: []
+
+## https://wheybags.com
+ - [https://wheybags.com](https://wheybags.com)
+ - date published: 2024-01-09T02:54:23.170380+00:00
+ - user: None
+ - tags: []
+
+## Which Face Is Real?
+ - [https://www.whichfaceisreal.com](https://www.whichfaceisreal.com)
+ - date published: 2023-10-25T18:03:39.608286+00:00
+ - user: None
+ - tags: []
+
+## David J. Pearce
+ - [https://whileydave.com](https://whileydave.com)
+ - date published: 2023-10-25T18:03:41.534311+00:00
+ - user: None
+ - tags: []
+
+## Whimsy Soul - Find your everyday magic
+ - [https://whimsysoul.com](https://whimsysoul.com)
+ - date published: 2023-10-25T18:03:48.676684+00:00
+ - user: None
+ - tags: []
+
+## Whipsaw: Product Design and Experience Innovation
+ - [https://whipsaw.com](https://whipsaw.com)
+ - date published: 2023-10-25T18:04:05.026714+00:00
+ - user: None
+ - tags: []
+
+## Whiskeytown Marinas LLC • Whiskeytown Lake | Boat Rentals | Camping Rentals | Boat Slip Rentals
+ - [https://www.whiskeytownmarinas.com](https://www.whiskeytownmarinas.com)
+ - date published: 2024-02-08T22:01:47.809256+00:00
+ - user: None
+ - tags: []
+
+## Whisper Memos
+ - [https://whispermemos.com](https://whispermemos.com)
+ - date published: 2023-10-25T18:04:06.690848+00:00
+ - user: None
+ - tags: []
+
+## Home | White & Case LLP
+ - [https://www.whitecase.com](https://www.whitecase.com)
+ - date published: 2024-01-21T19:08:17.674305+00:00
+ - user: None
+ - tags: []
+
+## Closed Captioning Services - White Coat Captioning
+ - [https://whitecoatcaptioning.com](https://whitecoatcaptioning.com)
+ - date published: 2023-10-25T18:04:14.532374+00:00
+ - user: None
+ - tags: []
+
+## Blade Runner White Dragon Cut
+ - [https://whitedragoncut.com](https://whitedragoncut.com)
+ - date published: 2023-11-01T08:43:27.462487+00:00
+ - user: None
+ - tags: []
+
+## Salma Alam-Naylor — live streamer, software engineer and developer educator
+ - [https://whitep4nth3r.com](https://whitep4nth3r.com)
+ - date published: 2023-10-25T18:04:18.275962+00:00
+ - user: None
+ - tags: []
+
+## ✌️ I'm Zoe Chew, Product Builder.
+ - [https://whizzoe.com](https://whizzoe.com)
+ - date published: 2023-10-25T08:58:23.078811+00:00
+ - user: None
+ - tags: ['personal']
+
+## WhoFundsWho – WhoFundsWho instantly shows you who funds the experts, politicians, think tanks and other institutions you are reading about
+ - [https://whofundswho.com](https://whofundswho.com)
+ - date published: 2023-10-25T18:04:21.086464+00:00
+ - user: None
+ - tags: []
+
+## textual soda
+ - [https://whosaidsoda.com](https://whosaidsoda.com)
+ - date published: 2024-01-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## WhosChrisHughes.com – Who is Chris Hughes? Learn all about Digital Marketing Expert Chris Hughes.
+ - [https://whoschrishughes.com](https://whoschrishughes.com)
+ - date published: 2024-01-30T19:30:38.085474+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.whsv.com](https://www.whsv.com)
+ - date published: 2023-12-28T13:36:21.922652+00:00
+ - user: None
+ - tags: []
+
+## Why.com - Premium category defining domain names for sale, exact match domains
+ - [http://why.com](http://why.com)
+ - date published: 2023-11-12T05:59:10.336738+00:00
+ - user: None
+ - tags: []
+
+## Why Are Things Expensive?
+ - [https://www.why-expensive.com](https://www.why-expensive.com)
+ - date published: 2023-12-18T15:19:30+00:00
+ - user: None
+ - tags: []
+
+## Why Do We Interface?
+ - [https://whydoweinterface.com](https://whydoweinterface.com)
+ - date published: 2023-10-25T18:04:25.390477+00:00
+ - user: None
+ - tags: []
+
+## Why Evolution Is True – Why Evolution is True is a blog written by Jerry Coyne, centered on evolution and biology but also dealing with diverse topics like politics, culture, and cats.
+ - [https://whyevolutionistrue.com](https://whyevolutionistrue.com)
+ - date published: 2023-10-25T18:04:36.858105+00:00
+ - user: None
+ - tags: []
+
+## whygodwhy – idk! fine! whatever! who cares! shut up!
+ - [https://whygodwhy.com](https://whygodwhy.com)
+ - date published: 2024-02-13T17:35:37.102328+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Best Replacement Ear Pads On Earth - Wicked Cushions
+ - [https://wickedcushions.com](https://wickedcushions.com)
+ - date published: 2024-01-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## AWS Wickr | Protecting Communications with End-to-End Encryption
+ - [https://wickr.com](https://wickr.com)
+ - date published: 2023-10-25T18:04:40.910250+00:00
+ - user: None
+ - tags: []
+
+## widgets and shit
+ - [https://widgetsandshit.com](https://widgetsandshit.com)
+ - date published: 2024-01-09T02:54:23.940752+00:00
+ - user: None
+ - tags: []
+
+## Catatan Arif
+ - [https://arif.widianto.com](https://arif.widianto.com)
+ - date published: 2023-12-19T19:09:34.109892+00:00
+ - user: None
+ - tags: ['personal']
+
+## WiiLink
+ - [https://www.wiilink24.com](https://www.wiilink24.com)
+ - date published: 2023-10-25T18:04:45.747440+00:00
+ - user: None
+ - tags: []
+
+## Diablo Wiki
+ - [https://diablo.wikia.com](https://diablo.wikia.com)
+ - date published: 2023-12-13T16:08:52.838749+00:00
+ - user: None
+ - tags: []
+
+## Warhammer 40k Wiki
+ - [https://warhammer40k.wikia.com](https://warhammer40k.wikia.com)
+ - date published: 2023-12-13T15:38:55.295725+00:00
+ - user: None
+ - tags: []
+
+## WikiBinge: Discover how all things are vaguely connected.
+ - [https://www.wikibinge.com](https://www.wikibinge.com)
+ - date published: 2023-10-25T18:04:47.548936+00:00
+ - user: None
+ - tags: []
+
+## Wikipedia Speedruns!
+ - [https://wikispeedruns.com](https://wikispeedruns.com)
+ - date published: 2023-10-25T18:04:54.204112+00:00
+ - user: None
+ - tags: []
+
+## Billy Wilcosky
+ - [https://www.wilcosky.com](https://www.wilcosky.com)
+ - date published: 2023-10-25T18:05:03.137920+00:00
+ - user: None
+ - tags: []
+
+## Wildbit: Building a people-first business | Wildbit
+ - [https://wildbit.com](https://wildbit.com)
+ - date published: 2023-10-25T18:05:13.348290+00:00
+ - user: None
+ - tags: []
+
+## What is a Wildcard? | Robert Merki
+ - [https://wildcardpeople.com](https://wildcardpeople.com)
+ - date published: 2023-10-25T18:05:20.188372+00:00
+ - user: None
+ - tags: []
+
 ## Wildcliff Weddings & Events | MO | Premiere Outdoor Venue
  - [https://www.wildcliffevents.com](https://www.wildcliffevents.com)
  - date published: 2024-02-08T16:42:57.514678+00:00
@@ -176,13 +488,13 @@
  - [https://williamzeitler.com](https://williamzeitler.com)
  - date published: 2023-11-29T14:22:09.377285+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Website of artist, educator filmmaker and photographer Willie Robb
  - [https://www.willierobb.com](https://www.willierobb.com)
  - date published: 2023-12-20T00:59:47.184091+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Willis Stout
  - [https://www.willisstout.com](https://www.willisstout.com)
@@ -200,7 +512,7 @@
  - [https://willolovesyou.com](https://willolovesyou.com)
  - date published: 2023-12-07T17:38:00.495447+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Will Robots Take My Job?
  - [https://willrobotstakemyjob.com](https://willrobotstakemyjob.com)
@@ -374,7 +686,7 @@
  - [https://wisestacker.com](https://wisestacker.com)
  - date published: 2023-12-02T13:42:08.251986+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## WitcherHour: Bringing the latest Witcher news, guides, & more.
  - [https://witcherhour.com](https://witcherhour.com)
@@ -692,7 +1004,7 @@
  - [https://aarondornhair.wordpress.com](https://aarondornhair.wordpress.com)
  - date published: 2023-11-29T14:54:17.403200+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## A Deep Look by Dave Hook
  - [https://adeeplookbydavehook.wordpress.com](https://adeeplookbydavehook.wordpress.com)
@@ -806,7 +1118,7 @@
  - [https://barelyonmusic.wordpress.com](https://barelyonmusic.wordpress.com)
  - date published: 2023-11-29T18:20:30.794263+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## The Beat Patrol | Music and Beat literature-related blogsite
  - [https://beatpatrol.wordpress.com](https://beatpatrol.wordpress.com)
@@ -854,7 +1166,7 @@
  - [https://bufalojuan.wordpress.com](https://bufalojuan.wordpress.com)
  - date published: 2023-11-29T17:13:49.970436+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## blog :: Brent -> [String]
  - [https://byorgey.wordpress.com](https://byorgey.wordpress.com)
@@ -878,7 +1190,7 @@
  - [https://capecodtestkitchen.wordpress.com](https://capecodtestkitchen.wordpress.com)
  - date published: 2023-11-29T14:21:14.967486+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Casey Handmer's blog – Space, Travel, Technology, 3D Printing, Energy, Writing
  - [https://caseyhandmer.wordpress.com](https://caseyhandmer.wordpress.com)
@@ -890,7 +1202,7 @@
  - [https://cazzyalien.wordpress.com](https://cazzyalien.wordpress.com)
  - date published: 2023-11-29T15:45:44.563508+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Codemanship's Blog
  - [https://codemanship.wordpress.com](https://codemanship.wordpress.com)
@@ -938,13 +1250,13 @@
  - [https://curiousterran.wordpress.com](https://curiousterran.wordpress.com)
  - date published: 2023-11-29T14:22:05.627993+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## danscreativeoulet
  - [https://danscreativeoutlet.wordpress.com](https://danscreativeoutlet.wordpress.com)
  - date published: 2023-12-29T03:12:11.124326+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## daveavrandotcom
  - [https://daveavrandotcom.wordpress.com](https://daveavrandotcom.wordpress.com)
@@ -956,7 +1268,7 @@
  - [https://davidhayesblog.wordpress.com](https://davidhayesblog.wordpress.com)
  - date published: 2023-12-29T19:00:23.328671+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Dead Reckonings – Lost Art in the Mathematical Sciences
  - [https://deadreckonings.files.wordpress.com](https://deadreckonings.files.wordpress.com)
@@ -1094,7 +1406,7 @@
  - [https://garenmcmilliandotcom.wordpress.com](https://garenmcmilliandotcom.wordpress.com)
  - date published: 2023-12-18T22:40:13.835646+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Mara Waka – _________________________________
  - [https://geekstravelinjapan.wordpress.com](https://geekstravelinjapan.wordpress.com)
@@ -1214,7 +1526,7 @@
  - [https://kunjbio.wordpress.com](https://kunjbio.wordpress.com)
  - date published: 2023-12-30T22:23:29.699802+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Hidden History | Forgotten mysteries, oddities and unknown stories from history, nature and science.
  - [https://lflank.wordpress.com](https://lflank.wordpress.com)
@@ -1244,7 +1556,7 @@
  - [https://lwiclassic2.wordpress.com](https://lwiclassic2.wordpress.com)
  - date published: 2023-11-29T14:20:40.734275+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Malinowa Amiga
  - [https://malinowaamiga.files.wordpress.com](https://malinowaamiga.files.wordpress.com)
@@ -1268,7 +1580,7 @@
  - [https://markblasini.wordpress.com](https://markblasini.wordpress.com)
  - date published: 2023-12-20T14:32:56.865381+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## | monthly writings in and around mathematics by James Propp
  - [https://mathenchant.wordpress.com](https://mathenchant.wordpress.com)
@@ -1298,7 +1610,7 @@
  - [https://michalzuber.wordpress.com](https://michalzuber.wordpress.com)
  - date published: 2023-11-29T14:20:03.778766+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## MicroCore Labs – Ted Fried's Project Blog
  - [https://microcorelabs.wordpress.com](https://microcorelabs.wordpress.com)
@@ -1328,7 +1640,7 @@
  - [https://namitatawde.wordpress.com](https://namitatawde.wordpress.com)
  - date published: 2023-12-19T19:08:40.073169+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Naveen Arun's Blog
  - [https://naveenarun.wordpress.com](https://naveenarun.wordpress.com)
@@ -1340,7 +1652,7 @@
  - [https://nefelophagia.wordpress.com](https://nefelophagia.wordpress.com)
  - date published: 2023-12-08T08:32:06.571645+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Mr. Digital | All Things Digital
  - [https://nicisdigital.wordpress.com](https://nicisdigital.wordpress.com)
@@ -1532,7 +1844,7 @@
  - [https://rpihlgrenblog.wordpress.com](https://rpihlgrenblog.wordpress.com)
  - date published: 2023-11-29T15:46:56.730529+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Richard WM Jones | Virtualization, tools and tips
  - [https://rwmj.wordpress.com](https://rwmj.wordpress.com)
@@ -1562,7 +1874,7 @@
  - [https://scottsambucci.wordpress.com](https://scottsambucci.wordpress.com)
  - date published: 2023-12-11T10:57:08.269984+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## SOS – Shane O'Sullivan's technical blog… really ties the room together
  - [https://shaneosullivan.wordpress.com](https://shaneosullivan.wordpress.com)
@@ -1598,7 +1910,7 @@
  - [https://sourcetonuts.wordpress.com](https://sourcetonuts.wordpress.com)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Spaswell | When you don't know how to say what you mean
  - [https://spaswell.wordpress.com](https://spaswell.wordpress.com)
@@ -1718,7 +2030,7 @@
  - [https://thisfineplace.wordpress.com](https://thisfineplace.wordpress.com)
  - date published: 2023-11-29T17:18:49.482246+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Meandering in the Middle East
  - [https://thowesward.wordpress.com](https://thowesward.wordpress.com)
@@ -1826,7 +2138,7 @@
  - [https://workflowy.com](https://workflowy.com)
  - date published: 2023-12-13T11:22:54.148203+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Working Theorys | Anu Atluru | Substack
  - [https://www.workingtheorys.com](https://www.workingtheorys.com)
@@ -2126,7 +2438,7 @@
  - [https://wrightplacetv.com](https://wrightplacetv.com)
  - date published: 2023-12-19T19:08:46.085944+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Shift Print
  - [https://shiftprint.writeas.com](https://shiftprint.writeas.com)
@@ -2510,7 +2822,7 @@
  - [http://www.xxaxx.com](http://www.xxaxx.com)
  - date published: 2023-12-24T02:30:58.315008+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## XXIIVV — In Transit
  - [https://wiki.xxiivv.com](https://wiki.xxiivv.com)
@@ -2636,7 +2948,7 @@
  - [https://www.yashbanka.com](https://www.yashbanka.com)
  - date published: 2023-11-29T15:31:58.631795+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home — @ybouane
  - [https://ybouane.com](https://ybouane.com)
@@ -2702,7 +3014,7 @@
  - [https://yinsonlee.com](https://yinsonlee.com)
  - date published: 2023-12-30T15:37:35.027510+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Yisheng's blog – software engineering, poetry and short stories
  - [https://yishenggong.com](https://yishenggong.com)
@@ -3075,7 +3387,7 @@
  - [https://zachgallagher.com](https://zachgallagher.com)
  - date published: 2024-02-11T05:00:50.863806+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Zach Holman
  - [https://zachholman.com](https://zachholman.com)
@@ -3171,7 +3483,7 @@
  - [https://www.zeldman.com](https://www.zeldman.com)
  - date published: 2024-02-13T17:35:29.342852+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Lynn Haraldson, Author and Writing Mentor
  - [https://zenbaglady.com](https://zenbaglady.com)
@@ -3201,7 +3513,7 @@
  - [https://www.zenrants.com](https://www.zenrants.com)
  - date published: 2023-11-29T15:44:09.787517+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## https://www.zenrows.com
  - [https://www.zenrows.com](https://www.zenrows.com)
@@ -3273,7 +3585,7 @@
  - [https://zgware.com](https://zgware.com)
  - date published: 2023-12-30T09:53:23.848372+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Luyao Zhang
  - [https://zhangluyao.com](https://zhangluyao.com)
@@ -3321,7 +3633,7 @@
  - [https://blog.zioibi.com](https://blog.zioibi.com)
  - date published: 2024-02-09T00:22:03.767477+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home
  - [https://zipoapps.com](https://zipoapps.com)
@@ -3369,7 +3681,7 @@
  - [https://www.zoemckey.com](https://www.zoemckey.com)
  - date published: 2023-12-13T20:59:10.239216+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Online Word Processor | Create & Edit Documents Online - Writer
  - [https://writer.zohopublic.com](https://writer.zohopublic.com)
@@ -3651,7 +3963,7 @@
  - [https://thomas.cr](https://thomas.cr)
  - date published: 2023-12-02T21:17:20.516738+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Explore
  - [https://read.cv](https://read.cv)
@@ -3779,6 +4091,12 @@
  - user: None
  - tags: []
 
+## Jozef Mlích – Personal blog
+ - [https://blog.mlich.cz](https://blog.mlich.cz)
+ - date published: 2024-02-23T02:32:09.898834+00:00
+ - user: None
+ - tags: []
+
 ## MAXELL's HOME
  - [https://mxl.cz](https://mxl.cz)
  - date published: 2024-01-09T02:56:03.815327+00:00
@@ -3813,7 +4131,7 @@
  - [https://tomsik.cz](https://tomsik.cz)
  - date published: 2023-12-09T18:59:39.029990+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## UNISMINI
  - [https://www.unismini.cz](https://www.unismini.cz)
@@ -4047,7 +4365,7 @@
  - [https://www.ballettstudio-ost.de](https://www.ballettstudio-ost.de)
  - date published: 2023-11-29T14:43:02.887375+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Benchkram
  - [https://benchkram.de](https://benchkram.de)
@@ -4103,6 +4421,12 @@
  - user: None
  - tags: []
 
+## Deutscher Bundestag - Startseite
+ - [https://www.bundestag.de](https://www.bundestag.de)
+ - date published: 2024-02-23T17:03:51.767786+00:00
+ - user: None
+ - tags: []
+
 ## Bundestagsshop
  - [https://www.bundestagsshop.de](https://www.bundestagsshop.de)
  - date published: 2023-12-07T12:22:20.768351+00:00
@@ -4137,7 +4461,7 @@
  - [https://cbrueggenolte.de](https://cbrueggenolte.de)
  - date published: 2024-02-07T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## 37C3 Call For Participation
  - [https://content.events.ccc.de](https://content.events.ccc.de)
@@ -4192,7 +4516,7 @@ home
  - [https://christiantietze.de](https://christiantietze.de)
  - date published: 2023-12-09T14:59:41.845777+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Citroën PKW, Nutzfahrzeuge, Elektroautos | Citroën Deutschland
  - [https://www.citroen.de](https://www.citroen.de)
@@ -4313,7 +4637,7 @@ Heinsohn
  - [https://www.fabian-keller.de](https://www.fabian-keller.de)
  - date published: 2023-12-27T01:00:18.809608+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## FACTOR 5
  - [http://www.factor5.de](http://www.factor5.de)
@@ -4501,7 +4825,7 @@ Heinsohn
  - [https://hoschi-it.de](https://hoschi-it.de)
  - date published: 2023-11-29T17:09:32.526552+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## None
  - [https://people.f4.htw-berlin.de](https://people.f4.htw-berlin.de)
@@ -4579,13 +4903,13 @@ Heinsohn
  - [https://www.kairos-marketing.de](https://www.kairos-marketing.de)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Akshay Khobragade
  - [https://akshay.khobraga.de](https://akshay.khobraga.de)
  - date published: 2023-11-29T13:54:01.010194+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## https://www.kinder-hd-uni.de
  - [https://www.kinder-hd-uni.de](https://www.kinder-hd-uni.de)
@@ -4639,7 +4963,7 @@ Heinsohn
  - [https://lostfocus.de](https://lostfocus.de)
  - date published: 2023-12-20T21:30:15.642798+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## LSWW - Mach dein Online Business smarter!
  - [https://lsww.de](https://lsww.de)
@@ -4657,7 +4981,7 @@ Heinsohn
  - [https://lukefrancke.de](https://lukefrancke.de)
  - date published: 2023-12-27T00:59:44.995847+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## M5E's Blog
  - [https://blog.m5e.de](https://blog.m5e.de)
@@ -4669,13 +4993,13 @@ Heinsohn
  - [https://marcus-obst.de](https://marcus-obst.de)
  - date published: 2023-12-10T11:35:16.029787+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Marcus Burk - Digital. Marketing. Kommunikation.
  - [https://marcusburk.de](https://marcusburk.de)
  - date published: 2023-11-29T17:19:11.975227+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Tach auch! | Marek Maras • Webentwicklung aus'm Ruhrpott
  - [https://www.marek-maras.de](https://www.marek-maras.de)
@@ -4705,7 +5029,7 @@ Heinsohn
  - [https://maurice-renck.de](https://maurice-renck.de)
  - date published: 2023-11-29T15:45:27.713469+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Max Delbrück Center
  - [https://www.mdc-berlin.de](https://www.mdc-berlin.de)
@@ -4855,7 +5179,7 @@ Heinsohn
  - [https://nupita.de](https://nupita.de)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## OllyDbg v1.10
  - [https://www.ollydbg.de](https://www.ollydbg.de)
@@ -4897,7 +5221,7 @@ Heinsohn
  - [https://www.patrick-baumann.de](https://www.patrick-baumann.de)
  - date published: 2023-12-13T20:59:36.150037+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Patrick Breyer – Digitaler Freiheitskämpfer und Europaabgeordneter
  - [https://www.patrick-breyer.de](https://www.patrick-breyer.de)
@@ -5011,7 +5335,7 @@ Heinsohn
  - [https://www.sascha-theobald.de](https://www.sascha-theobald.de)
  - date published: 2023-12-23T07:29:45.118390+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Beyond the Frame
  - [https://schmud.de](https://schmud.de)
@@ -5041,7 +5365,7 @@ Heinsohn
  - [https://www.spark-innovation.de](https://www.spark-innovation.de)
  - date published: 2023-12-22T17:51:37.712266+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Tagebücher der Wissenschaft » SciLogs - Wissenschaftsblogs
  - [https://scilogs.spektrum.de](https://scilogs.spektrum.de)
@@ -5083,7 +5407,7 @@ Heinsohn
  - [https://www.stensitzki.de](https://www.stensitzki.de)
  - date published: 2024-01-03T01:12:18.386735+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Aktuelle Nachrichten und Kommentare - SZ.de
  - [https://www.sueddeutsche.de](https://www.sueddeutsche.de)
@@ -5425,7 +5749,7 @@ Heinsohn
  - [https://alessandro.desi](https://alessandro.desi)
  - date published: 2023-12-19T09:58:57.272282+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
  - [https://www.1984.design](https://www.1984.design)
@@ -5533,7 +5857,7 @@ Heinsohn
  - [https://rolle.design](https://rolle.design)
  - date published: 2023-12-19T02:59:27.788104+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Slack Design
  - [https://slack.design](https://slack.design)
@@ -5629,7 +5953,7 @@ Heinsohn
  - [https://amoenus.dev](https://amoenus.dev)
  - date published: 2023-12-07T17:36:20.416462+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## None
  - [https://www.amolas.dev](https://www.amolas.dev)
@@ -5641,7 +5965,7 @@ Heinsohn
  - [https://www.amrdiab.dev](https://www.amrdiab.dev)
  - date published: 2023-12-29T18:59:56.823678+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Show HN: Anchor – developer-friendly private CAs for internal TLS
  - [https://anchor.dev](https://anchor.dev)
@@ -5676,330 +6000,6 @@ Heinsohn
 ## API RANK | Benchmarks of public APIs, by Escape
  - [https://apirank.dev](https://apirank.dev)
  - date published: 2023-10-25T18:34:50.703389+00:00
- - user: None
- - tags: []
-
-## Envoy Playground
- - [https://envoy-playground.apoxy.dev](https://envoy-playground.apoxy.dev)
- - date published: 2023-10-25T18:34:51.661054+00:00
- - user: None
- - tags: []
-
-## Archsense | Architecture visualization
- - [https://www.archsense.dev](https://www.archsense.dev)
- - date published: 2023-10-25T18:34:53.556550+00:00
- - user: None
- - tags: []
-
-## Argbash: Bash argument parsing made easy
- - [https://argbash.dev](https://argbash.dev)
- - date published: 2023-10-25T18:34:54.594624+00:00
- - user: None
- - tags: []
-
-## Introducing Darwin: An Evolutionary App Framework
- - [https://evolutionary.arweave.dev](https://evolutionary.arweave.dev)
- - date published: 2023-10-25T18:34:55.983152+00:00
- - user: None
- - tags: []
-
-## Freelance software consultant - Asko Nõmm
- - [https://asko.dev](https://asko.dev)
- - date published: 2023-10-25T18:34:56.669192+00:00
- - user: None
- - tags: []
-
-## Auth.js
- - [https://authjs.dev](https://authjs.dev)
- - date published: 2023-10-25T18:34:57.550961+00:00
- - user: None
- - tags: []
-
-## Avestura's Blog
- - [https://avestura.dev](https://avestura.dev)
- - date published: 2023-10-25T18:34:58.986618+00:00
- - user: None
- - tags: []
-
-## The AWK Programming Language, Second Edition
- - [https://awk.dev](https://awk.dev)
- - date published: 2023-10-25T18:35:00.619087+00:00
- - user: None
- - tags: []
-
-## The AWK Programming Language, Second Edition
- - [https://www.awk.dev](https://www.awk.dev)
- - date published: 2023-10-27T11:56:59.977208+00:00
- - user: None
- - tags: []
-
-## Axflow
- - [https://axflow.dev](https://axflow.dev)
- - date published: 2024-01-08T19:27:16.030595+00:00
- - user: None
- - tags: []
-
-## axo blog - System dependencies are hard (so we made them easier)
- - [https://blog.axo.dev](https://blog.axo.dev)
- - date published: 2023-10-25T18:35:02.657023+00:00
- - user: None
- - tags: []
-
-## Paul Baecher
- - [https://baecher.dev](https://baecher.dev)
- - date published: 2023-12-25T20:32:27.875144+00:00
- - user: None
- - tags: []
-
-## Banner Blog
- - [https://bannerblog.dev](https://bannerblog.dev)
- - date published: 2023-12-11T10:34:13.452233+00:00
- - user: None
- - tags: ['blog platform']
-
-## Home
- - [https://www.batra.dev](https://www.batra.dev)
- - date published: 2024-01-02T10:19:19.331928+00:00
- - user: None
- - tags: []
-
-## Eduardo Bautista
- - [https://www.bautista.dev](https://www.bautista.dev)
- - date published: 2023-10-25T18:35:03.411669+00:00
- - user: None
- - tags: []
-
-## Barely Managing
- - [https://barely-managing.bearblog.dev](https://barely-managing.bearblog.dev)
- - date published: 2023-10-25T18:35:04.253109+00:00
- - user: None
- - tags: []
-
-## Blub's Blog
- - [https://blubsblog.bearblog.dev](https://blubsblog.bearblog.dev)
- - date published: 2023-10-25T18:35:05.034243+00:00
- - user: None
- - tags: []
-
-## a rickety bridge of impossible crossing
- - [https://bluelander.bearblog.dev](https://bluelander.bearblog.dev)
- - date published: 2023-10-25T18:35:09.913884+00:00
- - user: None
- - tags: []
-
-## 404
- - [https://but-her-flies.bearblog.dev](https://but-her-flies.bearblog.dev)
- - date published: 2024-01-09T02:56:50.328344+00:00
- - user: None
- - tags: []
-
-## Chatterhead Says
- - [https://chatterhead.bearblog.dev](https://chatterhead.bearblog.dev)
- - date published: 2023-10-25T18:35:10.696893+00:00
- - user: None
- - tags: []
-
-## ❀°。Deijin's Blog
- - [https://deijin.bearblog.dev](https://deijin.bearblog.dev)
- - date published: 2023-10-25T09:21:34.845060+00:00
- - user: None
- - tags: ['personal']
-
-## garden of eden
- - [https://eden.bearblog.dev](https://eden.bearblog.dev)
- - date published: 2023-10-25T18:35:11.866612+00:00
- - user: None
- - tags: []
-
-## The Shelf
- - [https://ganji.bearblog.dev](https://ganji.bearblog.dev)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Thoughts on Software
- - [https://gordonc.bearblog.dev](https://gordonc.bearblog.dev)
- - date published: 2023-10-25T18:35:17.641679+00:00
- - user: None
- - tags: []
-
-## ᕕ( ᐛ )ᕗ Herman's blog
- - [https://herman.bearblog.dev](https://herman.bearblog.dev)
- - date published: 2023-10-25T09:21:35.599140+00:00
- - user: None
- - tags: ['personal']
-
-## 404
- - [https://joshuamo876.bearblog.dev](https://joshuamo876.bearblog.dev)
- - date published: 2024-01-09T02:56:51.096941+00:00
- - user: None
- - tags: []
-
-## Thoughtless Acts
- - [https://klint.bearblog.dev](https://klint.bearblog.dev)
- - date published: 2023-10-25T18:35:18.290671+00:00
- - user: None
- - tags: []
-
-## Labskausleben
- - [https://labskausleben.bearblog.dev](https://labskausleben.bearblog.dev)
- - date published: 2023-10-25T18:35:19.024762+00:00
- - user: None
- - tags: []
-
-## (map #(discard %) opinions)
- - [https://lrios.bearblog.dev](https://lrios.bearblog.dev)
- - date published: 2023-10-25T18:35:20.262209+00:00
- - user: None
- - tags: []
-
-## Meadow
- - [https://meadow.bearblog.dev](https://meadow.bearblog.dev)
- - date published: 2024-01-15T21:40:18.730489+00:00
- - user: None
- - tags: []
-
-## Nicky's Blog
- - [https://nicky.bearblog.dev](https://nicky.bearblog.dev)
- - date published: 2023-10-25T09:21:36.275587+00:00
- - user: None
- - tags: ['personal']
-
-## 📚 Austin Merrick’s Blog
- - [https://onsclom.bearblog.dev](https://onsclom.bearblog.dev)
- - date published: 2023-10-25T09:21:36.944070+00:00
- - user: None
- - tags: ['personal']
-
-## Roger González Gutiérrez
- - [https://rogermexico.bearblog.dev](https://rogermexico.bearblog.dev)
- - date published: 2023-10-25T09:21:37.575707+00:00
- - user: None
- - tags: ['personal']
-
-## Rough Drafts
- - [https://sebastian.bearblog.dev](https://sebastian.bearblog.dev)
- - date published: 2023-10-25T18:35:21.788286+00:00
- - user: None
- - tags: []
-
-## 404
- - [https://thoughtsbyaashiq.bearblog.dev](https://thoughtsbyaashiq.bearblog.dev)
- - date published: 2024-01-09T02:56:51.899029+00:00
- - user: None
- - tags: []
-
-## yours, tiramisú
- - [https://tiramisu.bearblog.dev](https://tiramisu.bearblog.dev)
- - date published: 2023-10-25T18:35:24.282963+00:00
- - user: None
- - tags: []
-
-## Mellow Root
- - [https://tmp.bearblog.dev](https://tmp.bearblog.dev)
- - date published: 2023-10-25T18:35:27.261202+00:00
- - user: None
- - tags: []
-
-## <(^.^)> tsuki
- - [https://tsk.bearblog.dev](https://tsk.bearblog.dev)
- - date published: 2023-10-25T18:35:30.893321+00:00
- - user: None
- - tags: []
-
-## Vladar's Blog
- - [https://vladar.bearblog.dev](https://vladar.bearblog.dev)
- - date published: 2023-10-25T08:48:22.451942+00:00
- - user: None
- - tags: ['personal']
-
-## Ben Greenberg | Developer Advocate
- - [https://www.bengreenberg.dev](https://www.bengreenberg.dev)
- - date published: 2023-10-25T08:48:23.203398+00:00
- - user: None
- - tags: ['personal']
-
-## Benthos Studio
- - [https://studio.benthos.dev](https://studio.benthos.dev)
- - date published: 2023-10-25T18:35:33.542869+00:00
- - user: None
- - tags: []
-
-## Bernd Verst :: Tech Blog :: bernd.dev
- - [https://bernd.dev](https://bernd.dev)
- - date published: 2023-10-25T08:58:24.131675+00:00
- - user: None
- - tags: ['personal']
-
-## Biome
- - [https://biomejs.dev](https://biomejs.dev)
- - date published: 2024-01-22T15:38:41.550455+00:00
- - user: None
- - tags: []
-
-## 🏠 | Viacheslav Biriukov
- - [https://biriukov.dev](https://biriukov.dev)
- - date published: 2023-10-25T18:35:35.222794+00:00
- - user: None
- - tags: []
-
-## Bite code! | Substack
- - [https://www.bitecode.dev](https://www.bitecode.dev)
- - date published: 2023-10-25T18:35:39.112584+00:00
- - user: None
- - tags: []
-
-## Adrian's Blog
- - [https://blog.bithole.dev](https://blog.bithole.dev)
- - date published: 2023-10-25T09:21:38.855563+00:00
- - user: None
- - tags: ['personal']
-
-## bitsapien
- - [https://blog.bitsapien.dev](https://blog.bitsapien.dev)
- - date published: 2023-12-28T18:49:19.642977+00:00
- - user: None
- - tags: []
-
-## Brendan O'Leary
- - [https://blog.boleary.dev](https://blog.boleary.dev)
- - date published: 2023-10-25T08:48:25.484900+00:00
- - user: None
- - tags: ['personal']
-
-## Boot.dev Blog
- - [https://blog.boot.dev](https://blog.boot.dev)
- - date published: 2023-10-25T18:35:42.140501+00:00
- - user: None
- - tags: []
-
-## Bottlerocket
- - [https://bottlerocket.dev](https://bottlerocket.dev)
- - date published: 2023-10-25T08:31:56.153110+00:00
- - user: None
- - tags: []
-
-## Box of Cables
- - [https://boxofcables.dev](https://boxofcables.dev)
- - date published: 2023-10-25T18:35:44.718688+00:00
- - user: None
- - tags: []
-
-## Getting started
- - [https://brev.dev](https://brev.dev)
- - date published: 2023-10-25T18:35:47.063696+00:00
- - user: None
- - tags: []
-
-## Bulletproof PHP
- - [https://bulletproofphp.dev](https://bulletproofphp.dev)
- - date published: 2023-10-25T18:35:49.168688+00:00
- - user: None
- - tags: []
-
-## Kevin Burke | The golden age is before us, not behind us
- - [https://kevin.burke.dev](https://kevin.burke.dev)
- - date published: 2023-10-25T18:35:57.306361+00:00
  - user: None
  - tags: []
 

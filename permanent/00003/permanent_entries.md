@@ -1,3 +1,87 @@
+## Books & Books | Locally-owned, independent neighborhood bookstore
+ - [https://www.booksandbooks.com](https://www.booksandbooks.com)
+ - date published: 2024-01-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Buy Australian War Books & Military Books & DVDs for Sale Online
+ - [https://booksonwaraustralia.com](https://booksonwaraustralia.com)
+ - date published: 2024-02-08T22:10:04.124211+00:00
+ - user: None
+ - tags: []
+
+## BookStack
+ - [https://www.bookstackapp.com](https://www.bookstackapp.com)
+ - date published: 2023-10-25T13:08:17.169116+00:00
+ - user: None
+ - tags: []
+
+## Rare Books, First Editions, and Signed Books
+ - [https://www.bookstellyouwhy.com](https://www.bookstellyouwhy.com)
+ - date published: 2023-12-30T22:20:59.634067+00:00
+ - user: None
+ - tags: []
+
+## Boomerang | Productivity & wellness topics from the world's most-used email extension
+ - [https://blog.boomerangapp.com](https://blog.boomerangapp.com)
+ - date published: 2023-10-25T13:08:21.530945+00:00
+ - user: None
+ - tags: []
+
+## The Tudors
+ - [https://maxcdn.bootstrapcdn.com](https://maxcdn.bootstrapcdn.com)
+ - date published: 2023-12-12T09:13:07.298880+00:00
+ - user: None
+ - tags: []
+
+## The Tudors
+ - [https://stackpath.bootstrapcdn.com](https://stackpath.bootstrapcdn.com)
+ - date published: 2023-12-11T18:40:30.078218+00:00
+ - user: None
+ - tags: []
+
+## BOOX Shop
+        
+        
+
+        
+          –
+          The Official BOOX Store
+ - [https://shop.boox.com](https://shop.boox.com)
+ - date published: 2023-10-25T13:08:26.342566+00:00
+ - user: None
+ - tags: []
+
+## borb | Read, write, and edit PDF files with borb, a pure python library
+ - [https://borbpdf.com](https://borbpdf.com)
+ - date published: 2023-10-25T13:08:26.943607+00:00
+ - user: None
+ - tags: []
+
+## Bored Panda - The Only Magazine For Pandas
+ - [https://www.boredpanda.com](https://www.boredpanda.com)
+ - date published: 2023-10-25T13:08:32.094722+00:00
+ - user: None
+ - tags: []
+
+## Top Articles • BoredReading.com
+ - [https://boredreading.com](https://boredreading.com)
+ - date published: 2023-10-25T13:08:47.619008+00:00
+ - user: None
+ - tags: []
+
+## BorgBase System Status
+ - [https://status.borgbase.com](https://status.borgbase.com)
+ - date published: 2023-10-25T13:08:48.726711+00:00
+ - user: None
+ - tags: []
+
+## Star Trek: Borg – Remastered
+ - [https://borgremastered.com](https://borgremastered.com)
+ - date published: 2024-02-19T20:43:39+00:00
+ - user: None
+ - tags: []
+
 ## Boring Text Reviews – Boring Text Reviews without deceptive clickbait or intrusive ads
  - [https://boringtextreviews.com](https://boringtextreviews.com)
  - date published: 2023-10-25T13:08:54.735040+00:00
@@ -122,7 +206,7 @@
  - [https://bradonomics.com](https://bradonomics.com)
  - date published: 2023-12-01T10:46:55.428950+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Brad Revell
  - [https://www.bradrevell.com](https://www.bradrevell.com)
@@ -146,11 +230,17 @@
  - [https://brainbreakthroughcoach.com](https://brainbreakthroughcoach.com)
  - date published: 2023-12-10T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Brainfish Eat Fishbrain
  - [https://brainfisheatfishbrain.com](https://brainfisheatfishbrain.com)
  - date published: 2023-10-25T13:10:23.136076+00:00
+ - user: None
+ - tags: []
+
+## Brainwavz Audio
+ - [https://www.brainwavzaudio.com](https://www.brainwavzaudio.com)
+ - date published: 2024-02-23T23:22:24.933689+00:00
  - user: None
  - tags: []
 
@@ -302,13 +392,13 @@
  - [https://brendanhufford.com](https://brendanhufford.com)
  - date published: 2023-11-29T17:14:57.540838+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Brendan McAdams - Details
  - [https://brendanmcadams.com](https://brendanmcadams.com)
  - date published: 2023-11-29T15:50:46.410171+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Brenden Hyde Portfolio
  - [https://brendenhyde.com](https://brendenhyde.com)
@@ -362,13 +452,13 @@
  - [https://www.briancoords.com](https://www.briancoords.com)
  - date published: 2023-11-29T14:54:07.324875+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## My book is available on Amazon!
  - [https://briandavidhall.com](https://briandavidhall.com)
  - date published: 2023-11-29T14:44:26.659836+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Brian Gitt
  - [https://briangitt.com](https://briangitt.com)
@@ -380,7 +470,7 @@
  - [https://www.brianhertzog.com](https://www.brianhertzog.com)
  - date published: 2023-12-24T18:30:50.349253+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Brian Kitano
  - [https://blog.briankitano.com](https://blog.briankitano.com)
@@ -392,13 +482,13 @@
  - [https://www.briankleiber.com](https://www.briankleiber.com)
  - date published: 2023-12-30T22:23:37.854421+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## bkm
  - [https://www.briankm.com](https://www.briankm.com)
  - date published: 2000-01-01T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Brian Koberlein
  - [https://briankoberlein.com](https://briankoberlein.com)
@@ -416,7 +506,7 @@
  - [http://briankvagnini.com](http://briankvagnini.com)
  - date published: 2023-11-29T16:22:24.722622+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Open-Source Routing and Network Simulation |
  - [https://www.brianlinkletter.com](https://www.brianlinkletter.com)
@@ -434,7 +524,7 @@
  - [https://www.brianondrako.com](https://www.brianondrako.com)
  - date published: 2023-12-21T03:32:30.669252+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## None
  - [https://www.brianpritchard.com](https://www.brianpritchard.com)
@@ -446,13 +536,13 @@
  - [https://brianrollo.com](https://brianrollo.com)
  - date published: 2023-11-29T15:30:11.566898+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Brian Shoemaker | brianshoemaker.com
  - [https://brianshoemaker.com](https://brianshoemaker.com)
  - date published: 2023-12-28T18:50:36.959679+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## LEGO News, Set Reviews and latest VIP deals - Brick Fanatics
  - [https://www.brickfanatics.com](https://www.brickfanatics.com)
@@ -494,7 +584,7 @@
  - [https://bridgetgordon.com](https://bridgetgordon.com)
  - date published: 2024-01-09T08:54:11.942646+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Bridget Hunt
  - [https://bridgethunt.com](https://bridgethunt.com)
@@ -530,7 +620,7 @@
  - [https://www.brightspotcopywriting.com](https://www.brightspotcopywriting.com)
  - date published: 2023-12-18T22:38:58.109726+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Bright Wall/Dark Room
  - [https://www.brightwalldarkroom.com](https://www.brightwalldarkroom.com)
@@ -608,7 +698,7 @@
  - [https://www.brodyq.com](https://www.brodyq.com)
  - date published: 2023-12-10T11:34:31.953601+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Broken Bear  - a comforting AI Teddy Bear
  - [https://brokenbear.com](https://brokenbear.com)
@@ -650,13 +740,13 @@
  - [https://brunoarine.com](https://brunoarine.com)
  - date published: 2023-11-29T19:26:48.375792+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Simone Brunozzi
  - [http://brunozzi.com](http://brunozzi.com)
  - date published: 2023-12-25T04:55:39.491476+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## The Brussels Times
  - [https://www.brusselstimes.com](https://www.brusselstimes.com)
@@ -764,13 +854,13 @@
  - [https://www.buildmyonlinestore.com](https://www.buildmyonlinestore.com)
  - date published: 2023-11-29T15:48:43.191347+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Nick Chamberlain
  - [https://buildplease.com](https://buildplease.com)
  - date published: 2023-12-14T01:26:18.819291+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Build Redux | Gaming PCs Custom Built
  - [https://www.buildredux.com](https://www.buildredux.com)
@@ -800,7 +890,7 @@
  - [https://bujatt.com](https://bujatt.com)
  - date published: 2023-12-27T18:11:51.177552+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Military and defense news, analysis, research and data
  - [https://bulgarianmilitary.com](https://bulgarianmilitary.com)
@@ -848,7 +938,7 @@
  - [https://www.burnettmusic.com](https://www.burnettmusic.com)
  - date published: 2023-12-10T16:59:35.327673+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Business News, Finance News, India News, BSE/NSE News, Stock Markets News, Sensex NIFTY, Union Budget 2023
  - [https://www.business-standard.com](https://www.business-standard.com)
@@ -896,13 +986,13 @@
  - [https://www.businessownerssuccessclub.com](https://www.businessownerssuccessclub.com)
  - date published: 8211-01-01T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## The Business Philosopher | Anders Indset
  - [https://www.businessphilosopher.com](https://www.businessphilosopher.com)
  - date published: 2023-11-29T17:11:30.097386+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Business Travel News Europe | Business Travel News Europe
  - [https://www.businesstravelnewseurope.com](https://www.businesstravelnewseurope.com)
@@ -1142,7 +1232,7 @@
  - [https://caitgordon.com](https://caitgordon.com)
  - date published: 2023-12-07T17:36:50.956414+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Cal.com | Open Scheduling Infrastructure
  - [https://cal.com](https://cal.com)
@@ -1154,7 +1244,7 @@
  - [https://www.calazan.com](https://www.calazan.com)
  - date published: 2023-12-02T13:41:54.248002+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## CTech | Ctech
  - [https://www.calcalistech.com](https://www.calcalistech.com)
@@ -1202,7 +1292,7 @@
  - [https://calicogoodrich.com](https://calicogoodrich.com)
  - date published: 2024-01-07T22:19:51.485604+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## California18
  - [https://california18.com](https://california18.com)
@@ -1238,7 +1328,7 @@
  - [https://callumbirch.com](https://callumbirch.com)
  - date published: 2023-12-27T10:10:13.838098+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home | Callum Rafter
  - [https://callumr.com](https://callumr.com)
@@ -1304,7 +1394,7 @@
  - [https://camdez.com](https://camdez.com)
  - date published: 2023-12-12T07:04:51.833744+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Bilingual Creator
  - [https://www.camelliayang.com](https://www.camelliayang.com)
@@ -1316,7 +1406,7 @@
  - [https://www.cameronconaway.com](https://www.cameronconaway.com)
  - date published: 2023-12-03T01:44:15.857851+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Cameron MacLeod
  - [https://www.cameronmacleod.com](https://www.cameronmacleod.com)
@@ -1328,7 +1418,7 @@
  - [https://camilecarvalho.com](https://camilecarvalho.com)
  - date published: 2023-12-27T23:54:20.024200+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home
  - [https://camillamia.com](https://camillamia.com)
@@ -1340,7 +1430,7 @@
  - [https://www.camiloluna.com](https://www.camiloluna.com)
  - date published: 2023-12-19T10:00:30.216832+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Campus FM - stream college radio
  - [https://www.campus-fm.com](https://www.campus-fm.com)
@@ -1544,13 +1634,13 @@
  - [https://carlchute.com](https://carlchute.com)
  - date published: 2023-12-20T21:31:29.198127+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## carlescarrera.com
  - [https://www.carlescarrera.com](https://www.carlescarrera.com)
  - date published: 2024-02-09T22:00:36.979547+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Carlin Eng
  - [https://carlineng.com](https://carlineng.com)
@@ -1580,7 +1670,7 @@
  - [https://carlosgaldino.com](https://carlosgaldino.com)
  - date published: 2023-12-04T11:48:10.580075+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## carlos' site
  - [https://carloslagoa.com](https://carloslagoa.com)
@@ -1604,7 +1694,7 @@
  - [https://carolineishii.com](https://carolineishii.com)
  - date published: 2023-11-29T17:06:58.369780+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Caro C creative music > experimental music > electronic music blog > Manchester bands > electronic music artist, sound engineer & music facilitator
  - [https://carosnatch.com](https://carosnatch.com)
@@ -1688,7 +1778,7 @@
  - [https://caseystanton.com](https://caseystanton.com)
  - date published: 2023-12-24T02:30:34.017666+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Select your Location | CASIO
  - [https://gshock.casio.com](https://gshock.casio.com)
@@ -1712,7 +1802,7 @@
  - [https://cassmorriswrites.com](https://cassmorriswrites.com)
  - date published: 2023-11-29T14:18:59.639844+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Castagne Fighting Game Engine
  - [https://castagneengine.com](https://castagneengine.com)
@@ -1784,7 +1874,7 @@
  - [https://www.catherineliao.com](https://www.catherineliao.com)
  - date published: 2024-02-09T22:27:24.810825+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Catholic News Agency
  - [https://www.catholicnewsagency.com](https://www.catholicnewsagency.com)
@@ -1796,7 +1886,7 @@
  - [https://cathygrier.com](https://cathygrier.com)
  - date published: 2023-12-23T19:28:21.802355+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## 宁德时代·CATL
  - [https://www.catl.com](https://www.catl.com)
@@ -1904,7 +1994,7 @@
  - [https://cdevroe.com](https://cdevroe.com)
  - date published: 2023-12-28T13:02:55+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## https://cdnsciencepub.com
  - [https://cdnsciencepub.com](https://cdnsciencepub.com)
@@ -1994,7 +2084,7 @@
  - [https://censorine.com](https://censorine.com)
  - date published: 2023-12-11T23:17:34.594077+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## State College Breaking News & Sports | Centre Daily Times
  - [https://www.centredaily.com](https://www.centredaily.com)
@@ -2012,7 +2102,7 @@
  - [https://cerdenia.com](https://cerdenia.com)
  - date published: 2023-11-29T16:21:34.257033+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Open Brains
  - [https://cerebralab.com](https://cerebralab.com)
@@ -2078,7 +2168,7 @@
  - [https://chadbockius.com](https://chadbockius.com)
  - date published: 2024-02-14T08:19:19.491493+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## faq - Chad Nauseam Home
  - [https://chadnauseam.com](https://chadnauseam.com)
@@ -2090,13 +2180,13 @@
  - [https://chadriden.com](https://chadriden.com)
  - date published: 2024-01-09T11:06:48.763243+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Chad Wellington
  - [https://www.chadwellington.com](https://www.chadwellington.com)
  - date published: 2023-12-03T09:19:49.150434+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Open Path by Chad Whitacre
  - [https://openpath.chadwhitacre.com](https://openpath.chadwhitacre.com)
@@ -2174,7 +2264,7 @@
  - [https://www.charleneignites.com](https://www.charleneignites.com)
  - date published: 2023-11-29T17:15:02.416177+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Welcome to Charles Atlas LTD.
  - [https://www.charlesatlas.com](https://www.charlesatlas.com)
@@ -2216,7 +2306,7 @@
  - [https://charliepecoraro.com](https://charliepecoraro.com)
  - date published: 2024-01-12T22:14:30.496627+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Charlotte Eiffel Lilith Buff | Official Homepage
  - [https://charlottebuff.com](https://charlottebuff.com)
@@ -2234,7 +2324,7 @@
  - [https://www.charlotterogg.com](https://www.charlotterogg.com)
  - date published: 2023-11-29T14:22:50.814357+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Charmaine Lee
  - [https://www.charmaineklee.com](https://www.charmaineklee.com)
@@ -2264,7 +2354,7 @@
  - [https://chasewildly.com](https://chasewildly.com)
  - date published: 2023-11-29T17:06:09.031824+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## ChatBA: Generative AI for Slides ✨
  - [https://www.chatbcg.com](https://www.chatbcg.com)
@@ -2564,7 +2654,7 @@
  - [https://chrisglass.com](https://chrisglass.com)
  - date published: 2023-12-20T21:31:09.440697+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Measure latency
  - [https://ping.projects.chrisjeakle.com](https://ping.projects.chrisjeakle.com)
@@ -2576,7 +2666,7 @@
  - [https://chrisjstott.com](https://chrisjstott.com)
  - date published: 2024-01-24T08:01:05.864817+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home - Blogomatano
  - [https://chriskiehl.com](https://chriskiehl.com)
@@ -2594,7 +2684,7 @@
  - [https://www.chriskrycho.com](https://www.chriskrycho.com)
  - date published: 2023-11-29T16:20:22.936628+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Hi, I'm Chris Lakin: What I’m doing now, current interests and questions, the past two years, how we can connect
  - [https://chrislakin.com](https://chrislakin.com)
@@ -2612,19 +2702,19 @@
  - [https://www.chrisminnick.com](https://www.chrisminnick.com)
  - date published: 2023-12-12T23:23:33.691980+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Chris Barber Productivity and Self-Development as a Software Engineer
  - [https://chrispbarber.com](https://chrispbarber.com)
  - date published: 2023-11-29T14:42:03.804377+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Chris Peoples
  - [https://chrispeoples.com](https://chrispeoples.com)
  - date published: 2023-11-29T17:07:48.375815+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Chris Plough
  - [https://chrisplough.com](https://chrisplough.com)
@@ -2636,7 +2726,7 @@
  - [https://chrisspiegl.com](https://chrisspiegl.com)
  - date published: 2023-12-23T03:00:10.769279+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Chrissy Gillmore
  - [https://www.chrissygillmore.com](https://www.chrissygillmore.com)
@@ -2654,7 +2744,7 @@
  - [https://christianbalbach.com](https://christianbalbach.com)
  - date published: 2024-02-12T08:24:13.129090+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Christian News Headlines - Breaking and Trending Religion News
  - [https://www.christianheadlines.com](https://www.christianheadlines.com)
@@ -2708,7 +2798,7 @@
  - [https://christinchong.com](https://christinchong.com)
  - date published: 2023-12-28T22:26:31.547980+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Christine DeMerchant Site about Boats, boat plans, Boatbuilding, Cats, and other good stuff
  - [https://christinedemerchant.com](https://christinedemerchant.com)
@@ -2732,7 +2822,7 @@
  - [https://www.christopheducamp.com](https://www.christopheducamp.com)
  - date published: 2023-11-29T15:48:47.945198+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Denatured: the writings of Christopher Ketcham – freelance writer and investigative journalist
  - [https://www.christopherketcham.com](https://www.christopherketcham.com)
@@ -2744,13 +2834,13 @@
  - [https://christophersherrod.com](https://christophersherrod.com)
  - date published: 2023-11-29T15:49:40.947012+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Christoph Gruber
  - [https://www.christophgruber.com](https://www.christophgruber.com)
  - date published: 2024-01-17T04:43:22.299793+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Blog | Chris Warrick
  - [https://chriswarrick.com](https://chriswarrick.com)
@@ -2840,7 +2930,7 @@
  - [https://www.cindybrz.com](https://www.cindybrz.com)
  - date published: 2023-12-24T18:31:00.190284+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## The Latest Indian Movie News And Film Reviews | Cinema Express
  - [https://www.cinemaexpress.com](https://www.cinemaexpress.com)
@@ -2912,7 +3002,7 @@
  - [https://www.ciroduran.com](https://www.ciroduran.com)
  - date published: 2023-12-20T21:30:36.738957+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Cisco Blogs
  - [https://blogs.cisco.com](https://blogs.cisco.com)
@@ -3086,13 +3176,13 @@
  - [https://www.claritymind.com](https://www.claritymind.com)
  - date published: 2024-01-09T02:32:05.811513+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Before you continue to YouTube
  - [https://clarkecreatives.com](https://clarkecreatives.com)
  - date published: 2023-11-29T14:25:26.288888+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Clarkesworld Magazine - Science Fiction & Fantasy
  - [https://clarkesworldmagazine.com](https://clarkesworldmagazine.com)
@@ -3817,13 +3907,13 @@
  - [https://www.codymclain.com](https://www.codymclain.com)
  - date published: 2023-11-29T14:19:57.527804+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Cody See | Life & Marketing
  - [https://codysee.com](https://codysee.com)
  - date published: 2023-11-29T15:45:24.367920+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Coed Cherry - College Girls Porn Pics
  - [https://coedcherry.com](https://coedcherry.com)
@@ -3841,7 +3931,7 @@
  - [https://coffeeforthebrain.com](https://coffeeforthebrain.com)
  - date published: 2023-12-03T15:55:03.673637+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## CogDogBlog – Alan Levine barks about and plays with stuff here
  - [https://cogdogblog.com](https://cogdogblog.com)
@@ -4045,7 +4135,7 @@
  - [https://coltonhurst.com](https://coltonhurst.com)
  - date published: 2023-11-29T13:55:49.289519+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Show HN: Comflowy – A ComfyUI Tutorial for Beginners
  - [https://www.comflowy.com](https://www.comflowy.com)
@@ -4303,7 +4393,7 @@
  - [https://connexdigitalmarketing.com](https://connexdigitalmarketing.com)
  - date published: 2023-11-29T14:23:15.837100+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Connor Tumbleson
  - [https://connortumbleson.com](https://connortumbleson.com)
@@ -4321,7 +4411,7 @@
  - [https://conorneill.com](https://conorneill.com)
  - date published: 2023-12-28T22:26:17.147979+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## About Con’s Work - Con Slobodchikoff
  - [https://conslobodchikoff.com](https://conslobodchikoff.com)
@@ -4465,7 +4555,7 @@
  - [https://copperinsights.com](https://copperinsights.com)
  - date published: 2023-11-29T14:21:10.021304+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Emi's Feed
  - [https://coppolaemilio.com](https://coppolaemilio.com)
@@ -4477,7 +4567,7 @@
  - [https://www.copseworks.com](https://www.copseworks.com)
  - date published: 2023-11-29T16:20:28.988681+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## IT programming and software development tutorials - Copy Programming
  - [https://copyprogramming.com](https://copyprogramming.com)
@@ -4507,7 +4597,7 @@
  - [https://www.corbinbrands.com](https://www.corbinbrands.com)
  - date published: 2023-12-17T20:58:04.601039+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## | Cord Cutters News
  - [https://cordcuttersnews.com](https://cordcuttersnews.com)
@@ -4603,7 +4693,7 @@
  - [https://coryshaw.com](https://coryshaw.com)
  - date published: 2024-01-08T15:36:54.508225+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Cory Zue | Full-Stack Developer, Maker of Products, and Solopreneur
  - [https://www.coryzue.com](https://www.coryzue.com)
@@ -4638,6 +4728,12 @@
 ## Counterpoint - Technology Market Research & Industry Analysis Firm
  - [https://www.counterpointresearch.com](https://www.counterpointresearch.com)
  - date published: 2024-01-09T02:32:59.228942+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.countrycrock.com](https://www.countrycrock.com)
+ - date published: 2024-02-23T23:28:02.209553+00:00
  - user: None
  - tags: []
 
@@ -4777,7 +4873,7 @@
  - [https://craftbyzen.com](https://craftbyzen.com)
  - date published: 2023-12-01T10:46:52.645405+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Crafting Interpreters
  - [https://craftinginterpreters.com](https://craftinginterpreters.com)
@@ -4801,7 +4897,7 @@
  - [https://www.craighamill.com](https://www.craighamill.com)
  - date published: 2023-12-08T08:32:40.633348+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Craig Jamieson
  - [https://craigjamieson.com](https://craigjamieson.com)
@@ -4831,7 +4927,7 @@
  - [https://craigwickesser.com](https://craigwickesser.com)
  - date published: 2023-12-27T18:11:54.496669+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## https://www.crainsdetroit.com
  - [https://www.crainsdetroit.com](https://www.crainsdetroit.com)
@@ -4963,7 +5059,7 @@
  - [https://creatrixtiara.com](https://creatrixtiara.com)
  - date published: 2023-11-29T15:44:01.004610+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Credistick - science fiction, technology, community
  - [https://credistick.com](https://credistick.com)
@@ -5011,7 +5107,7 @@
  - [https://cristinechen.com](https://cristinechen.com)
  - date published: 2023-12-08T08:32:11.970323+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## renegat0x0 site
  - [https://bidder.criteo.com](https://bidder.criteo.com)
@@ -5348,7 +5444,7 @@
  - [https://curatella.com](https://curatella.com)
  - date published: 2023-12-21T03:31:32.846587+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Curbed | A site for city people
  - [https://www.curbed.com](https://www.curbed.com)
@@ -5444,13 +5540,13 @@
  - [https://cwinters.com](https://cwinters.com)
  - date published: 2000-01-01T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## About
  - [https://cwoodall.com](https://cwoodall.com)
  - date published: 2022-02-28T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## CY4GATE S.p.A. | Cyber Electronic Warfare & Intelligence
  - [https://www.cy4gate.com](https://www.cy4gate.com)
@@ -5618,7 +5714,7 @@
  - [https://dafacto.com](https://dafacto.com)
  - date published: 2023-12-12T08:08:43.622992+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Daft Punk
  - [https://www.daftpunk.com](https://www.daftpunk.com)
@@ -5756,7 +5852,7 @@
  - [https://www.daisipollard.com](https://www.daisipollard.com)
  - date published: 2023-12-21T18:49:29.630038+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## daisyUI — Tailwind CSS Components ( version 4 update is here )
  - [https://daisyui.com](https://daisyui.com)
@@ -5768,7 +5864,7 @@
  - [https://daizymaan.com](https://daizymaan.com)
  - date published: 2023-12-22T22:30:15.592525+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## DakkaDakka - Wargaming and Warhammer 40k Forums, Articles and Gallery - Homepage
  - [https://www.dakkadakka.com](https://www.dakkadakka.com)
@@ -5810,7 +5906,7 @@
  - [https://dammfine.com](https://dammfine.com)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Damn Interesting • Obscure true stories from science & history
  - [https://www.damninteresting.com](https://www.damninteresting.com)
@@ -5840,7 +5936,7 @@
  - [https://dancalle.com](https://dancalle.com)
  - date published: 2024-01-15T22:20:51.950009+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Dan Carlin
  - [https://www.dancarlin.com](https://www.dancarlin.com)
@@ -5870,7 +5966,7 @@
  - [https://www.daneclarkcollins.com](https://www.daneclarkcollins.com)
  - date published: 2023-12-02T21:17:25.329624+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Danheim | Official Page – Viking Music from the cold north
  - [https://danheimmusic.com](https://danheimmusic.com)
@@ -5911,96 +6007,6 @@
 ## Way Enough
  - [https://www.danielcorin.com](https://www.danielcorin.com)
  - date published: 2024-01-15T18:03:48.499971+00:00
- - user: None
- - tags: []
-
-## Daniel Hoang – Experienced management consultant x creative. Xennial bridging analog with digital at the intersection of humanity and machine. Scrappy, creative, and fast.
- - [https://danielhoang.com](https://danielhoang.com)
- - date published: 2023-12-12T09:24:31.582869+00:00
- - user: None
- - tags: []
-
-## Daniel Mangum
- - [https://danielmangum.com](https://danielmangum.com)
- - date published: 2023-10-25T13:42:49.607953+00:00
- - user: None
- - tags: []
-
-## (no title)
- - [https://danielprindii.com](https://danielprindii.com)
- - date published: 2024-01-09T16:33:56.780246+00:00
- - user: None
- - tags: []
-
-## daniel roelfs
- - [https://danielroelfs.com](https://danielroelfs.com)
- - date published: 2024-02-18T17:47:39.559780+00:00
- - user: None
- - tags: []
-
-## Daniel R. Sim
- - [https://www.danielrsim.com](https://www.danielrsim.com)
- - date published: 2023-10-25T13:42:56.848127+00:00
- - user: None
- - tags: []
-
-## Dan Sanchez – Your Audience Growth Guide – Learn how to turn your marketing department into a media production machine that can grow an audience.
- - [https://danielsanchez.com](https://danielsanchez.com)
- - date published: 2023-11-29T14:21:43.266780+00:00
- - user: None
- - tags: []
-
-## Daniel Snyders
- - [https://www.danielsnyders.com](https://www.danielsnyders.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Coaching and Marketing for Evidence-Based Advisors - Dan Solin
- - [https://danielsolin.com](https://danielsolin.com)
- - date published: 2023-07-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Daniel Southwell
- - [https://www.danielsouthwell.com](https://www.danielsouthwell.com)
- - date published: 2023-11-29T14:44:43.936182+00:00
- - user: None
- - tags: []
-
-## agora.danielwildt.com
- - [https://agora.danielwildt.com](https://agora.danielwildt.com)
- - date published: 2024-01-06T17:57:51.669161+00:00
- - user: None
- - tags: []
-
-## SEO Consultant « Dan Lacey
- - [https://www.danlacey.com](https://www.danlacey.com)
- - date published: 2023-12-19T02:59:42.157918+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://danleatherman.com](https://danleatherman.com)
- - date published: 2023-12-25T04:55:46.876570+00:00
- - user: None
- - tags: []
-
-## Daniel Lebrero Berna Blog
- - [https://danlebrero.com](https://danlebrero.com)
- - date published: 2023-10-25T13:42:59.369073+00:00
- - user: None
- - tags: []
-
-## danli's site
- - [https://danli-luo.com](https://danli-luo.com)
- - date published: 2024-02-20T16:42:50.881510+00:00
- - user: None
- - tags: []
-
-## https://danluu.com
- - [https://danluu.com](https://danluu.com)
- - date published: 2023-12-07T19:41:48.559063+00:00
  - user: None
  - tags: []
 

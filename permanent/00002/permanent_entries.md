@@ -1,3 +1,45 @@
+## Amiga In A Box
+ - [http://amigainabox.com](http://amigainabox.com)
+ - date published: 2023-12-11T18:35:35.560287+00:00
+ - user: None
+ - tags: []
+
+## Amiga In A Box
+ - [http://www.amigainabox.com](http://www.amigainabox.com)
+ - date published: 2023-11-02T10:45:02.104650+00:00
+ - user: None
+ - tags: ['personal', 'amiga']
+
+## Amiga Informatics Inspiring Innovation
+ - [https://amigainformatics.com](https://amigainformatics.com)
+ - date published: 2023-10-30T10:14:06.222948+00:00
+ - user: None
+ - tags: []
+
+## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
+ - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
+ - date published: 2024-01-09T02:29:24.245847+00:00
+ - user: None
+ - tags: []
+
+## Amiga Kit Amiga Store - the world's largest Amiga Store - we ship worldwide
+ - [https://www.amigakit.com](https://www.amigakit.com)
+ - date published: 2024-01-09T02:29:33.124801+00:00
+ - user: None
+ - tags: []
+
+## Home | Multiplayer Gaming Project
+ - [https://www.amigalive.com](https://www.amigalive.com)
+ - date published: 2023-10-27T13:09:17.716221+00:00
+ - user: None
+ - tags: []
+
+## Amigalove.com - AmigaLove
+ - [https://www.amigalove.com](https://www.amigalove.com)
+ - date published: 2023-10-27T14:32:56.652562+00:00
+ - user: None
+ - tags: []
+
 ## Amigamap.com - The global map of all known Amiga, MorphOS and AROS computers and their users
  - [https://amigamap.com](https://amigamap.com)
  - date published: 2023-11-02T10:47:07.922932+00:00
@@ -50,19 +92,19 @@
  - [https://amirghaffari.com](https://amirghaffari.com)
  - date published: 2023-12-21T03:31:24.500238+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## AMIR MOTLAGH /  MIRS / ANIMALS
  - [https://www.amirmotlagh.com](https://www.amirmotlagh.com)
  - date published: 2023-11-29T15:48:22.992098+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Excursions
  - [https://amitgawande.com](https://amitgawande.com)
  - date published: 2023-12-20T19:15:27.990550+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Amitopia - Amiga Magazine | MorphOS | AROS | Classic
  - [https://amitopia.com](https://amitopia.com)
@@ -104,7 +146,7 @@
  - [https://amongthestones.com](https://amongthestones.com)
  - date published: 2023-11-29T14:41:24.881263+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Amtrak Tickets, Schedules and Train Routes
  - [https://www.amtrak.com](https://www.amtrak.com)
@@ -128,7 +170,7 @@
  - [https://www.amyconleymusic.com](https://www.amyconleymusic.com)
  - date published: 2023-11-29T15:16:16.607018+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Amy Goodchild
  - [https://www.amygoodchild.com](https://www.amygoodchild.com)
@@ -146,7 +188,7 @@
  - [https://www.anacirujano.com](https://www.anacirujano.com)
  - date published: 2024-02-09T14:09:07.151779+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Anaël Verdier – Surfer d'imaginaires
  - [https://anaelverdier.com](https://anaelverdier.com)
@@ -176,7 +218,7 @@
  - [https://anandchowdhary.com](https://anandchowdhary.com)
  - date published: 2024-02-14T08:42:46.856636+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## AnandTech Forums: Technology, Hardware, Software, and Deals
  - [https://forums.anandtech.com](https://forums.anandtech.com)
@@ -212,7 +254,7 @@
  - [https://andersensilva.com](https://andersensilva.com)
  - date published: 2023-12-27T01:10:57.904709+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## ShunyaEkam.com
  - [https://andersentobias.com](https://andersentobias.com)
@@ -224,7 +266,7 @@
  - [https://andersun.com](https://andersun.com)
  - date published: 2023-11-29T15:31:50.418267+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## death and gravity
  - [https://death.andgravity.com](https://death.andgravity.com)
@@ -242,7 +284,7 @@
  - [https://andreafeucht.com](https://andreafeucht.com)
  - date published: 2024-01-29T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Andrea Leopardi
  - [https://andrealeopardi.com](https://andrealeopardi.com)
@@ -278,7 +320,7 @@
  - [https://andreiluca.com](https://andreiluca.com)
  - date published: 2023-12-14T01:19:48.419554+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Andrei Lyskov | Writing in Public
  - [https://www.andreilyskov.com](https://www.andreilyskov.com)
@@ -308,7 +350,7 @@
  - [https://andrewblikken.com](https://andrewblikken.com)
  - date published: 2022-11-07T19:47:59+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## andrewchen
  - [https://andrewchen.com](https://andrewchen.com)
@@ -326,7 +368,7 @@
  - [https://www.andrewdillonpoetry.com](https://www.andrewdillonpoetry.com)
  - date published: 2023-12-16T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Andrew Heiss
  - [https://www.andrewheiss.com](https://www.andrewheiss.com)
@@ -338,7 +380,7 @@
  - [https://www.andrewhitz.com](https://www.andrewhitz.com)
  - date published: 2023-11-29T15:50:04.319666+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## andrew | My writings, projects, and links
  - [https://andrewjudson.com](https://andrewjudson.com)
@@ -380,13 +422,13 @@
  - [https://andrewskotzko.com](https://andrewskotzko.com)
  - date published: 2023-12-25T04:56:46.972551+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## My Blog 👋 from Andrew Timberlake
  - [https://andrewtimberlake.com](https://andrewtimberlake.com)
  - date published: 2023-11-29T14:53:15.353862+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Andrew Zuo – Medium
  - [https://andrewzuo.com](https://andrewzuo.com)
@@ -397,6 +439,12 @@
 ## Andrey Butenko
  - [https://andreybutenko.com](https://andreybutenko.com)
  - date published: 2024-01-11T17:08:18.795523+00:00
+ - user: None
+ - tags: []
+
+## Android Open Source Project
+ - [https://source.android.com](https://source.android.com)
+ - date published: 2024-02-23T08:46:56.969007+00:00
  - user: None
  - tags: []
 
@@ -458,7 +506,7 @@
  - [https://andyfossett.com](https://andyfossett.com)
  - date published: 2023-12-20T14:33:51.442934+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Milwaukee Maven
  - [https://blog.andyglassman.com](https://blog.andyglassman.com)
@@ -470,7 +518,7 @@
  - [https://andyhartnett.com](https://andyhartnett.com)
  - date published: 2023-12-24T18:30:18.995194+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Andy Sylvester's Web – Software development, music, and the World Wide Web
  - [https://andysylvester.com](https://andysylvester.com)
@@ -500,7 +548,7 @@
  - [https://angeliqueweger.com](https://angeliqueweger.com)
  - date published: 2023-12-19T19:09:14.788158+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Anggriawan Sugianto
  - [https://blog.anggriawan.com](https://blog.anggriawan.com)
@@ -548,7 +596,7 @@
  - [https://www.anichexperience.com](https://www.anichexperience.com)
  - date published: 2023-11-29T16:22:28.621282+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Anil Dash
  - [https://www.anildash.com](https://www.anildash.com)
@@ -608,13 +656,13 @@
  - [https://www.anitayusun.com](https://www.anitayusun.com)
  - date published: 2023-12-25T17:18:04.011931+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## About
  - [https://ankeshbharti.com](https://ankeshbharti.com)
  - date published: 2023-12-20T14:34:47.609313+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Actor Puppeteer Facilitator | Anna Claire Walker
  - [https://www.annaclairewalker.com](https://www.annaclairewalker.com)
@@ -626,7 +674,7 @@
  - [https://annafilou.com](https://annafilou.com)
  - date published: 2023-11-29T14:19:05.513902+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Live | Annie Taylor
  - [https://www.annietaylorband.com](https://www.annietaylorband.com)
@@ -682,6 +730,12 @@
  - user: rumpel
  - tags: ['merchendise', 'youtuber']
 
+## Home - That Joe Scott
+ - [http://www.answerswithjoe.com](http://www.answerswithjoe.com)
+ - date published: 2024-02-23T01:16:31.865369+00:00
+ - user: None
+ - tags: []
+
 ## https://www.antennalaunchers.com
  - [https://www.antennalaunchers.com](https://www.antennalaunchers.com)
  - date published: 2024-01-09T02:29:42.133756+00:00
@@ -692,7 +746,7 @@
  - [https://www.anthodges.com](https://www.anthodges.com)
  - date published: 2023-12-21T18:50:16.379295+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Anthony Hobday—Product designer
  - [https://anthonyhobday.com](https://anthonyhobday.com)
@@ -788,13 +842,13 @@
  - [https://www.antonio-leutsch.com](https://www.antonio-leutsch.com)
  - date published: 2023-11-29T14:41:31.764665+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Anton Sten - Product Designer
  - [https://www.antonsten.com](https://www.antonsten.com)
  - date published: 2023-11-29T13:55:34.197883+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home - Anton Thomas Art
  - [https://www.antonthomasart.com](https://www.antonthomasart.com)
@@ -1184,7 +1238,7 @@
  - [https://arameventphotography.com](https://arameventphotography.com)
  - date published: 2023-12-12T04:54:20.640318+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Ultimate Scalable Graph Database: ArangoDB for Real-World Use Cases
  - [https://arangodb.com](https://arangodb.com)
@@ -1196,7 +1250,7 @@
  - [https://arantespp.com](https://arantespp.com)
  - date published: 2023-12-25T04:56:04.383111+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## آراز غلامی | Araz Gholami
  - [https://arazgholami.com](https://arazgholami.com)
@@ -1388,7 +1442,7 @@
  - [https://ariellephoenix.com](https://ariellephoenix.com)
  - date published: 2023-12-15T21:42:58.530437+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Balkanada Films – Film . Music Video . Dynamic Content Production
  - [https://arielnorling.com](https://arielnorling.com)
@@ -1400,13 +1454,13 @@
  - [https://arigoldfilms.com](https://arigoldfilms.com)
  - date published: 2023-12-02T21:17:07.140132+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Ari Koinuma
  - [https://arikoinuma.com](https://arikoinuma.com)
  - date published: 2024-01-11T07:52:35.164486+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Ariyh | Thomas McKinlay | Substack
  - [https://tips.ariyh.com](https://tips.ariyh.com)
@@ -1478,7 +1532,7 @@
  - [https://armyofminions.com](https://armyofminions.com)
  - date published: 2023-12-17T05:08:14.377241+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Defense News security global military army equipment technology industry - Army Recognition
  - [https://www.armyrecognition.com](https://www.armyrecognition.com)
@@ -1514,7 +1568,7 @@
  - [https://arora-aditya.com](https://arora-aditya.com)
  - date published: 2023-12-20T11:46:23.327903+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home - Meet John Rampton - Entrepreneur, Investor and Connector
  - [http://www.arrastheme.com](http://www.arrastheme.com)
@@ -1562,13 +1616,13 @@
  - [https://artisticoutlaw.com](https://artisticoutlaw.com)
  - date published: 2023-11-29T17:10:51.063902+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## ArtMusicWorks.com
  - [https://www.artmusicworks.com](https://www.artmusicworks.com)
  - date published: 2023-12-13T11:23:28.564516+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Photographer William Eggleston’s New Album Bottles His Serene Piano-Playing, With Special Guest Brian Eno on Bells
  - [https://news.artnet.com](https://news.artnet.com)
@@ -1658,7 +1712,7 @@
  - [https://www.asciidot.com](https://www.asciidot.com)
  - date published: 2024-01-29T02:20:25.875475+00:00
  - user: None
- - tags: ['interesting page design']
+ - tags: ['personal', 'interesting page design']
 
 ## ASCII FacePalm & Facepalm Emoticon
  - [https://www.asciifacepalm.com](https://www.asciifacepalm.com)
@@ -1712,7 +1766,7 @@
  - [https://www.ashleyidesign.com](https://www.ashleyidesign.com)
  - date published: 2023-11-29T13:54:15.010258+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Ash's Blog
  - [https://ashvardanian.com](https://ashvardanian.com)
@@ -1766,7 +1820,7 @@
  - [https://askdeepr.com](https://askdeepr.com)
  - date published: 2023-12-22T17:50:04.948259+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## AskThePilot.com » THE ULTIMATE RESOURCE SITE FOR EVERYONE WHO FLIES
  - [https://askthepilot.com](https://askthepilot.com)
@@ -2114,7 +2168,7 @@
  - [https://www.atulprd.com](https://www.atulprd.com)
  - date published: 2023-11-29T17:12:54.801078+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Atoms vs Bits
  - [https://www.atvbt.com](https://www.atvbt.com)
@@ -2194,6 +2248,12 @@
  - user: None
  - tags: ['music band']
 
+## auroraoss.com
+ - [https://auroraoss.com](https://auroraoss.com)
+ - date published: 2024-02-23T08:47:06.397327+00:00
+ - user: None
+ - tags: []
+
 ## The Particular Finest
  - [https://blog.aurynn.com](https://blog.aurynn.com)
  - date published: 2023-10-25T12:48:22.860754+00:00
@@ -2246,13 +2306,13 @@
  - [https://www.austinsaylor.com](https://www.austinsaylor.com)
  - date published: 2023-12-22T17:49:49.407617+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## AUTHENBLISSITY
  - [https://www.authenblissity.com](https://www.authenblissity.com)
  - date published: 2023-11-29T15:29:35.759984+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Authory - Save & Showcase Everything You've Written and Created
  - [https://authory.com](https://authory.com)
@@ -2330,7 +2390,7 @@
  - [https://www.avacarmel.com](https://www.avacarmel.com)
  - date published: 2023-12-21T03:32:02.568187+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Ava PLS: open-source application for running language models locally
  - [https://avapls.com](https://avapls.com)
@@ -2480,7 +2540,7 @@
  - [https://awhitelee.com](https://awhitelee.com)
  - date published: 2023-12-19T10:00:20.226120+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## SVG and PNG AWS icons | AWS Icons
  - [https://aws-icons.com](https://aws-icons.com)
@@ -2600,7 +2660,7 @@
  - [https://azsamadlessons.com](https://azsamadlessons.com)
  - date published: 2023-12-02T21:17:30.199443+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home
  - [https://www.azzamods.com](https://www.azzamods.com)
@@ -2896,6 +2956,12 @@
  - user: None
  - tags: []
 
+## Yalla Miku, by Yalla Miku
+ - [https://yallamiku.bandcamp.com](https://yallamiku.bandcamp.com)
+ - date published: 2024-02-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Yuni Wa
  - [https://yuniwa.bandcamp.com](https://yuniwa.bandcamp.com)
  - date published: 2023-12-11T15:48:32.967903+00:00
@@ -2948,7 +3014,7 @@
  - [https://www.barbarianmeetscoding.com](https://www.barbarianmeetscoding.com)
  - date published: 2023-12-29T03:12:20.530166+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Ben Barbersmith
  - [https://www.barbersmith.com](https://www.barbersmith.com)
@@ -3032,7 +3098,7 @@
  - [https://bartoszgorka.com](https://bartoszgorka.com)
  - date published: 2023-12-12T13:08:08.350025+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Bartosz Sypytkowski
  - [https://www.bartoszsypytkowski.com](https://www.bartoszsypytkowski.com)
@@ -3182,7 +3248,7 @@
  - [https://beable2.com](https://beable2.com)
  - date published: 2023-12-26T06:32:14.747261+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Beagle Security: Web Application & API Penetration Testing Tool
  - [https://beaglesecurity.com](https://beaglesecurity.com)
@@ -3194,7 +3260,7 @@
  - [https://bealers.com](https://bealers.com)
  - date published: 2023-12-19T02:59:22.260484+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## OnTableTop – Home of Beasts of War – A World of Tabletop Wargaming
  - [https://beastsofwar.com](https://beastsofwar.com)
@@ -3416,7 +3482,7 @@
  - [https://bemorewithless.com](https://bemorewithless.com)
  - date published: 2023-12-29T20:11:42.020820+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Be My Eyes - See the world together
  - [https://www.bemyeyes.com](https://www.bemyeyes.com)
@@ -3452,7 +3518,7 @@
  - [https://bendetalle.com](https://bendetalle.com)
  - date published: 2023-11-29T14:23:21.989583+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Ben Hoyt
  - [https://benhoyt.com](https://benhoyt.com)
@@ -3464,7 +3530,7 @@
  - [https://benjaminboman.com](https://benjaminboman.com)
  - date published: 2023-11-29T16:22:12.763525+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Brood Index || Brood Index
  - [https://benjaminbrood.com](https://benjaminbrood.com)
@@ -3512,7 +3578,7 @@
  - [https://bennettink.com](https://bennettink.com)
  - date published: 2023-12-01T10:47:49.434624+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Bennett Notes
  - [https://www.bennettnotes.com](https://www.bennettnotes.com)
@@ -3542,7 +3608,7 @@
  - [https://benschecter.com](https://benschecter.com)
  - date published: 2023-11-29T20:43:41.477651+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Music for Video Creators - Hear the Difference
  - [https://www.bensound.com](https://www.bensound.com)
@@ -3614,7 +3680,7 @@
  - [https://www.berndgoldschmidt.com](https://www.berndgoldschmidt.com)
  - date published: 2024-02-10T21:27:19.368568+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Max Bernstein
  - [https://bernsteinbear.com](https://bernsteinbear.com)
@@ -3680,7 +3746,7 @@
  - [https://www.betterleadersbetterschools.com](https://www.betterleadersbetterschools.com)
  - date published: 2023-12-27T18:11:37.780094+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Better Stack: Spot, Resolve, and Prevent Downtime.
  - [https://betterstack.com](https://betterstack.com)
@@ -3692,7 +3758,7 @@
  - [https://bettybrennan.com](https://bettybrennan.com)
  - date published: 2024-02-09T22:22:28.684639+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Be With Cassandra
  - [https://www.bewithcassandra.com](https://www.bewithcassandra.com)
@@ -3716,7 +3782,7 @@
  - [https://www.bfoliver.com](https://www.bfoliver.com)
  - date published: 2023-12-19T19:08:03.990555+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## BGR | Tech & Entertainment News, Reviews, & Deals
  - [https://bgr.com](https://bgr.com)
@@ -3729,6 +3795,12 @@
  - date published: 2023-11-27T16:13:54+00:00
  - user: rumpel
  - tags: ['virtual reality']
+
+## https://www.bhphotovideo.com
+ - [https://www.bhphotovideo.com](https://www.bhphotovideo.com)
+ - date published: 2024-02-23T22:51:31.570107+00:00
+ - user: None
+ - tags: []
 
 ## Purposeful Transformation - Bianca Welds (Creativity And Innovation Strategist & Coach)
  - [https://biancawelds.com](https://biancawelds.com)
@@ -3788,7 +3860,7 @@
  - [https://www.biglawinvestor.com](https://www.biglawinvestor.com)
  - date published: 2023-11-29T15:15:31.793331+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Big Mess o' Wires
  - [https://www.bigmessowires.com](https://www.bigmessowires.com)
@@ -3944,7 +4016,7 @@
  - [https://binnyva.com](https://binnyva.com)
  - date published: 2024-02-09T21:59:53.054088+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Biofabrik: The Planet's Company – Circular Economy
  - [https://biofabrik.com](https://biofabrik.com)
@@ -4220,7 +4292,7 @@
  - [https://bitsinflight.com](https://bitsinflight.com)
  - date published: 2023-12-21T03:31:11.484659+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## BITS OF WAR
  - [https://bitsofwar.com](https://bitsofwar.com)
@@ -4298,7 +4370,7 @@
  - [https://bjhess.com](https://bjhess.com)
  - date published: 2023-12-02T21:17:10.821976+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## BJ Malicoat
  - [https://www.bjmalicoat.com](https://www.bjmalicoat.com)
@@ -4412,7 +4484,7 @@
  - [https://www.blazenhoff.com](https://www.blazenhoff.com)
  - date published: 2023-12-13T11:22:05.958494+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## BLDGBLOG
  - [https://bldgblog.com](https://bldgblog.com)
@@ -4459,6 +4531,12 @@
 ## Naomi Blindeman Website Design | Naomi ♥ www
  - [https://blindemanwebsites.com](https://blindemanwebsites.com)
  - date published: 2023-11-29T15:15:35.948187+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://www.blinkist.com
+ - [https://www.blinkist.com](https://www.blinkist.com)
+ - date published: 2024-02-23T23:22:45.361939+00:00
  - user: None
  - tags: []
 
@@ -4568,7 +4646,7 @@
  - [https://blogofdrew.com](https://blogofdrew.com)
  - date published: 2023-12-17T05:08:07.684561+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## https://nwn.blogs.com
  - [https://nwn.blogs.com](https://nwn.blogs.com)
@@ -4700,7 +4778,7 @@
  - [https://bikewithjoe.blogspot.com](https://bikewithjoe.blogspot.com)
  - date published: 2024-02-09T22:19:11.889344+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Follow me down the optimization rabbit hole
  - [https://bitbanksoftware.blogspot.com](https://bitbanksoftware.blogspot.com)
@@ -5246,7 +5324,7 @@
  - [https://prophet-of-bloom.blogspot.com](https://prophet-of-bloom.blogspot.com)
  - date published: 2024-01-13T04:52:21.362582+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## pts.blog
  - [https://ptspts.blogspot.com](https://ptspts.blogspot.com)
@@ -5432,7 +5510,7 @@
  - [https://wirelesstechthoughts.blogspot.com](https://wirelesstechthoughts.blogspot.com)
  - date published: 2023-11-29T17:18:45.294394+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Wormwoodiana
  - [https://wormwoodiana.blogspot.com](https://wormwoodiana.blogspot.com)
@@ -5528,7 +5606,7 @@
  - [https://bloomsoup.com](https://bloomsoup.com)
  - date published: 2023-12-17T20:58:24.571252+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Unavailable for legal reasons
  - [https://bloxcms.com](https://bloxcms.com)
@@ -5696,13 +5774,13 @@
  - [https://bob-wagner.com](https://bob-wagner.com)
  - date published: 2023-12-03T23:30:46.221944+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Bob Bertsch
  - [https://bobbertsch.com](https://bobbertsch.com)
  - date published: 2023-12-19T10:00:09.271295+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Bobbie Chen
  - [https://bobbiechen.com](https://bobbiechen.com)
@@ -5872,7 +5950,7 @@
  - [https://boodaism.com](https://boodaism.com)
  - date published: 2023-12-13T06:05:24.808329+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## BookFilter
  - [https://www.book-filter.com](https://www.book-filter.com)
@@ -5921,88 +5999,4 @@
  - date published: 2023-10-25T13:08:14.644680+00:00
  - user: None
  - tags: ['book reviews', 'books']
-
-## Books & Books | Locally-owned, independent neighborhood bookstore
- - [https://www.booksandbooks.com](https://www.booksandbooks.com)
- - date published: 2024-01-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Buy Australian War Books & Military Books & DVDs for Sale Online
- - [https://booksonwaraustralia.com](https://booksonwaraustralia.com)
- - date published: 2024-02-08T22:10:04.124211+00:00
- - user: None
- - tags: []
-
-## BookStack
- - [https://www.bookstackapp.com](https://www.bookstackapp.com)
- - date published: 2023-10-25T13:08:17.169116+00:00
- - user: None
- - tags: []
-
-## Rare Books, First Editions, and Signed Books
- - [https://www.bookstellyouwhy.com](https://www.bookstellyouwhy.com)
- - date published: 2023-12-30T22:20:59.634067+00:00
- - user: None
- - tags: []
-
-## Boomerang | Productivity & wellness topics from the world's most-used email extension
- - [https://blog.boomerangapp.com](https://blog.boomerangapp.com)
- - date published: 2023-10-25T13:08:21.530945+00:00
- - user: None
- - tags: []
-
-## The Tudors
- - [https://maxcdn.bootstrapcdn.com](https://maxcdn.bootstrapcdn.com)
- - date published: 2023-12-12T09:13:07.298880+00:00
- - user: None
- - tags: []
-
-## The Tudors
- - [https://stackpath.bootstrapcdn.com](https://stackpath.bootstrapcdn.com)
- - date published: 2023-12-11T18:40:30.078218+00:00
- - user: None
- - tags: []
-
-## BOOX Shop
-        
-        
-
-        
-          –
-          The Official BOOX Store
- - [https://shop.boox.com](https://shop.boox.com)
- - date published: 2023-10-25T13:08:26.342566+00:00
- - user: None
- - tags: []
-
-## borb | Read, write, and edit PDF files with borb, a pure python library
- - [https://borbpdf.com](https://borbpdf.com)
- - date published: 2023-10-25T13:08:26.943607+00:00
- - user: None
- - tags: []
-
-## Bored Panda - The Only Magazine For Pandas
- - [https://www.boredpanda.com](https://www.boredpanda.com)
- - date published: 2023-10-25T13:08:32.094722+00:00
- - user: None
- - tags: []
-
-## Top Articles • BoredReading.com
- - [https://boredreading.com](https://boredreading.com)
- - date published: 2023-10-25T13:08:47.619008+00:00
- - user: None
- - tags: []
-
-## BorgBase System Status
- - [https://status.borgbase.com](https://status.borgbase.com)
- - date published: 2023-10-25T13:08:48.726711+00:00
- - user: None
- - tags: []
-
-## Star Trek: Borg – Remastered
- - [https://borgremastered.com](https://borgremastered.com)
- - date published: 2024-02-19T20:43:39+00:00
- - user: None
- - tags: []
 
