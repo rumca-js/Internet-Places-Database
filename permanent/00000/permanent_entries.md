@@ -1336,6 +1336,12 @@
  - user: None
  - tags: []
 
+## Spreadsheets are all you need: Understanding GPT2 and Transformers
+ - [https://spreadsheets-are-all-you-need.ai](https://spreadsheets-are-all-you-need.ai)
+ - date published: 2024-02-24T07:20:03+00:00
+ - user: None
+ - tags: []
+
 ## Squeaky | The privacy friendly analytics platform
  - [https://squeaky.ai](https://squeaky.ai)
  - date published: 2023-10-25T11:42:53.549367+00:00
@@ -1675,6 +1681,12 @@
 ## Angelfish • Private & Secure Personal Finance App For People Who Want Financial Freedom | Private & Secure Personal Finance App For People Who Want Financial Freedom!
  - [https://angelfish.app](https://angelfish.app)
  - date published: 2023-10-25T11:45:39.444875+00:00
+ - user: None
+ - tags: []
+
+## Device integrity monitoring
+ - [https://attestation.app](https://attestation.app)
+ - date published: 2024-02-24T10:01:24.175770+00:00
  - user: None
  - tags: []
 
@@ -2263,6 +2275,12 @@
 ## Show HN: Seedling – A Decentralised Medium
  - [https://seedling-d.app](https://seedling-d.app)
  - date published: 2024-01-05T22:54:58+00:00
+ - user: None
+ - tags: []
+
+## https://go.shop.app
+ - [https://go.shop.app](https://go.shop.app)
+ - date published: 2024-02-24T09:57:16.776865+00:00
  - user: None
  - tags: []
 
@@ -3676,6 +3694,12 @@
  - user: None
  - tags: []
 
+## Access expert technical guidance and AWS Knowledge Center
+ - [https://repost.aws](https://repost.aws)
+ - date published: 2024-02-24T09:55:38.974804+00:00
+ - user: None
+ - tags: []
+
 ## APA.AZ- Latest news from Azerbaijan and the world
  - [https://en.apa.az](https://en.apa.az)
  - date published: 2023-12-03T14:58:27.568836+00:00
@@ -3895,6 +3919,12 @@
 ## Usable systemd timers for mortals
  - [https://try.popho.be](https://try.popho.be)
  - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## regionaal mobiliteitsplan Antwerpen - Routeplan 2030
+ - [https://routeplan2030.be](https://routeplan2030.be)
+ - date published: 2024-01-09T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4246,6 +4276,12 @@
  - user: None
  - tags: ['personal']
 
+## Deep Cuts in a Lovecraftian Vein
+ - [https://deepcuts.blog](https://deepcuts.blog)
+ - date published: 2024-02-24T17:00:03.685307+00:00
+ - user: None
+ - tags: []
+
 ## https://default.blog
  - [https://default.blog](https://default.blog)
  - date published: 7931-01-01T00:00:00+00:00
@@ -4492,6 +4528,12 @@
  - date published: 2023-10-25T09:25:23.417879+00:00
  - user: None
  - tags: ['personal']
+
+## Museum of Health Care Blog
+ - [https://museumofhealthcare.blog](https://museumofhealthcare.blog)
+ - date published: 2024-02-24T18:08:23.471594+00:00
+ - user: None
+ - tags: []
 
 ## Neil Madden
  - [https://neilmadden.blog](https://neilmadden.blog)
@@ -4997,6 +5039,12 @@
  - user: None
  - tags: ['personal']
 
+## Belarus News | Belarusian news | Belarus today | news in Belarus | Minsk news | BELTA
+ - [https://eng.belta.by](https://eng.belta.by)
+ - date published: 2024-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## VEG.BY — VEG's Blog
  - [https://veg.by](https://veg.by)
  - date published: 2023-11-26T12:56:13.830280+00:00
@@ -5133,7 +5181,7 @@
  - [https://www.bestbuy.ca](https://www.bestbuy.ca)
  - date published: 2024-02-23T22:51:25.927722+00:00
  - user: None
- - tags: []
+ - tags: ['shop']
 
 ## Medieval Bestiary : Animals in the Middle Ages
  - [https://bestiary.ca](https://bestiary.ca)
@@ -5471,6 +5519,12 @@
  - user: None
  - tags: []
 
+## Eventbrite
+ - [https://www.eventbrite.ca](https://www.eventbrite.ca)
+ - date published: 2024-02-24T18:11:15.206135+00:00
+ - user: None
+ - tags: []
+
 ## ferd.ca
  - [https://ferd.ca](https://ferd.ca)
  - date published: 2023-10-25T12:04:53.238516+00:00
@@ -5711,6 +5765,12 @@
  - user: None
  - tags: []
 
+## Brighter World – Research focused on the health and well-being of all.
+ - [https://brighterworld.mcmaster.ca](https://brighterworld.mcmaster.ca)
+ - date published: 2024-02-24T18:06:26.440821+00:00
+ - user: None
+ - tags: []
+
 ## Department of Computing and Software – FACULTY OF ENGINEERING
  - [https://www.cas.mcmaster.ca](https://www.cas.mcmaster.ca)
  - date published: 2024-01-04T00:51:18.377090+00:00
@@ -5938,64 +5998,4 @@
  - date published: 2023-10-25T11:20:42.106068+00:00
  - user: None
  - tags: []
-
-## Computing Science
- - [https://www2.cs.sfu.ca](https://www2.cs.sfu.ca)
- - date published: 2023-11-05T04:50:03.089549+00:00
- - user: None
- - tags: []
-
-## New Book Releases, Bestsellers, Author Info and more at Simon &amp; Schuster Canada | Simon & Schuster Canada
- - [https://www.simonandschuster.ca](https://www.simonandschuster.ca)
- - date published: 2023-10-25T12:07:24.063919+00:00
- - user: None
- - tags: []
-
-## SkyNews | Canada’s astronomy & space news | Where Earth Meets Sky
- - [https://skynews.ca](https://skynews.ca)
- - date published: 2023-10-25T10:24:38.913027+00:00
- - user: None
- - tags: []
-
-## Tall, Snarky Canadian
- - [https://snarky.ca](https://snarky.ca)
- - date published: 2023-10-25T09:25:28.864660+00:00
- - user: None
- - tags: ['personal']
-
-## Emanote
- - [https://emanote.srid.ca](https://emanote.srid.ca)
- - date published: 2023-10-25T12:07:25.720455+00:00
- - user: None
- - tags: []
-
-## Adrian Unger — Staydecent
- - [https://staydecent.ca](https://staydecent.ca)
- - date published: 2023-11-29T14:42:31.811010+00:00
- - user: None
- - tags: ['personal']
-
-## Home | Subhadip Mukherjee
- - [https://subhadip.ca](https://subhadip.ca)
- - date published: 2023-10-25T12:07:28.405618+00:00
- - user: None
- - tags: []
-
-## Hiya, I'm Tan · TanHo.ca
- - [https://tanho.ca](https://tanho.ca)
- - date published: 2024-02-11T05:02:26.143775+00:00
- - user: None
- - tags: ['personal']
-
-## The Bridgehead | From the front lines of the culture wars.
- - [https://thebridgehead.ca](https://thebridgehead.ca)
- - date published: 2023-10-25T12:07:41.693718+00:00
- - user: None
- - tags: []
-
-## thecanadianpressnews.ca
- - [https://www.thecanadianpressnews.ca](https://www.thecanadianpressnews.ca)
- - date published: 2023-11-08T21:50:08.227809+00:00
- - user: None
- - tags: ['canada news']
 
