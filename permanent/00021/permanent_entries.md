@@ -1,3 +1,231 @@
+## XState - JavaScript State Machines and Statecharts
+ - [https://xstate.js.org](https://xstate.js.org)
+ - date published: 2023-10-25T21:35:18.263757+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://jskatas.org](https://jskatas.org)
+ - date published: 2023-12-13T14:53:11.009608+00:00
+ - user: None
+ - tags: ['personal', 'javascript']
+
+## JSON-LD - JSON for Linking Data
+ - [https://json-ld.org](https://json-ld.org)
+ - date published: 2023-10-25T21:35:20.538149+00:00
+ - user: None
+ - tags: []
+
+## Documentation for the JSON Lines text file format
+ - [https://jsonlines.org](https://jsonlines.org)
+ - date published: 2024-02-25T06:09:14+00:00
+ - user: None
+ - tags: []
+
+## Jsonnet - Jsonnet Configuration Language
+ - [https://jsonnet.org](https://jsonnet.org)
+ - date published: 2023-10-25T21:35:22.344537+00:00
+ - user: None
+ - tags: []
+
+## JSTOR Daily Homepage - JSTOR Daily
+ - [https://daily.jstor.org](https://daily.jstor.org)
+ - date published: 2023-10-25T21:35:29.037741+00:00
+ - user: None
+ - tags: []
+
+## JSTOR Home
+ - [https://www.jstor.org](https://www.jstor.org)
+ - date published: 2023-11-15T00:43:06.140214+00:00
+ - user: None
+ - tags: ['articles', 'digital library', 'ebooks']
+
+## http://jsx-mail.org
+ - [http://jsx-mail.org](http://jsx-mail.org)
+ - date published: 2023-10-25T21:35:35.101318+00:00
+ - user: None
+ - tags: []
+
+## Jewish Telegraphic Agency - The Global Jewish News Source
+ - [https://www.jta.org](https://www.jta.org)
+ - date published: 2023-11-21T01:59:22.551429+00:00
+ - user: None
+ - tags: ['israel']
+
+## Juggling Lab
+ - [https://jugglinglab.org](https://jugglinglab.org)
+ - date published: 2023-10-25T21:35:36.225777+00:00
+ - user: None
+ - tags: []
+
+## Julia Programming Language - A forum for users and developers
+ - [https://discourse.julialang.org](https://discourse.julialang.org)
+ - date published: 2023-10-25T21:35:40.545200+00:00
+ - user: None
+ - tags: []
+
+## https://docs.julialang.org
+ - [https://docs.julialang.org](https://docs.julialang.org)
+ - date published: 2023-12-27T18:36:15.980400+00:00
+ - user: None
+ - tags: []
+
+## The Julia Programming Language
+ - [https://julialang.org](https://julialang.org)
+ - date published: 2023-10-25T21:35:42.851009+00:00
+ - user: None
+ - tags: []
+
+## https://jumblejournal.org
+ - [https://jumblejournal.org](https://jumblejournal.org)
+ - date published: 2024-01-09T03:41:09.606051+00:00
+ - user: None
+ - tags: []
+
+## Stop irreversible damage to the Amazon
+ - [https://www.junglekeepers.org](https://www.junglekeepers.org)
+ - date published: 2023-10-25T21:35:45.246371+00:00
+ - user: None
+ - tags: []
+
+## Jupyter Blog
+ - [https://blog.jupyter.org](https://blog.jupyter.org)
+ - date published: 2023-10-25T08:31:26.996270+00:00
+ - user: None
+ - tags: []
+
+## Just Security - A Forum on Law, Rights, and U.S. National Security
+ - [https://www.justsecurity.org](https://www.justsecurity.org)
+ - date published: 2023-10-25T21:35:52.137435+00:00
+ - user: None
+ - tags: []
+
+## jwz.org
+ - [https://www.jwz.org](https://www.jwz.org)
+ - date published: 2022-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Kakoune - Official site
+ - [https://kakoune.org](https://kakoune.org)
+ - date published: 2023-10-25T21:35:52.995500+00:00
+ - user: None
+ - tags: []
+
+## سوبر مُجيب | سؤال وجواب
+ - [https://kal-el.org](https://kal-el.org)
+ - date published: 2024-02-08T16:32:04.706189+00:00
+ - user: None
+ - tags: []
+
+## Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution
+ - [https://www.kali.org](https://www.kali.org)
+ - date published: 2023-10-27T16:38:43.999429+00:00
+ - user: None
+ - tags: ['operating system']
+
+## Kalpataru
+ - [https://kalpatarurudra.org](https://kalpatarurudra.org)
+ - date published: 2023-11-02T03:25:41.929209+00:00
+ - user: None
+ - tags: []
+
+## Kamby Language
+ - [https://kamby.org](https://kamby.org)
+ - date published: 2023-10-25T21:35:58.399472+00:00
+ - user: None
+ - tags: []
+
+## Kanban Project Management Software - Kanboard
+ - [https://kanboard.org](https://kanboard.org)
+ - date published: 2023-10-25T21:35:59.351365+00:00
+ - user: None
+ - tags: []
+
+## KanColl: The Kansas Collection Welcome Page
+ - [https://www.kancoll.org](https://www.kancoll.org)
+ - date published: 2023-11-15T17:44:31.559724+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kart
+ - [https://kartproject.org](https://kartproject.org)
+ - date published: 2024-01-09T03:41:10.946630+00:00
+ - user: None
+ - tags: []
+
+## KaTeX – The fastest math typesetting library for the web
+ - [https://katex.org](https://katex.org)
+ - date published: 2023-10-25T21:36:00.014489+00:00
+ - user: None
+ - tags: []
+
+## KCUR | KCUR - Kansas City news and NPR
+ - [https://www.kcur.org](https://www.kcur.org)
+ - date published: 2023-11-04T18:28:47.889014+00:00
+ - user: None
+ - tags: []
+
+## KDE Bugtracking System Main Page
+ - [https://bugs.kde.org](https://bugs.kde.org)
+ - date published: 2024-02-01T21:35:21.710668+00:00
+ - user: None
+ - tags: []
+
+## KDE Discuss - KDE Community
+ - [https://discuss.kde.org](https://discuss.kde.org)
+ - date published: 2023-10-25T21:36:01.965434+00:00
+ - user: None
+ - tags: []
+
+## KDE Eco
+ - [https://eco.kde.org](https://eco.kde.org)
+ - date published: 2023-10-25T21:36:03.672195+00:00
+ - user: None
+ - tags: []
+
+## Explore groups · GitLab
+ - [https://invent.kde.org](https://invent.kde.org)
+ - date published: 2023-10-25T21:36:04.476762+00:00
+ - user: None
+ - tags: []
+
+## Home - KDE Community
+ - [https://kde.org](https://kde.org)
+ - date published: 2023-10-25T21:36:06.463462+00:00
+ - user: None
+ - tags: ['kde', 'linux', 'open source']
+
+## KDE Mailing Lists - KDE Community
+ - [https://mail.kde.org](https://mail.kde.org)
+ - date published: 2023-10-25T21:36:08.509574+00:00
+ - user: None
+ - tags: []
+
+## Browse  Latest | https://store.kde.org/browse/
+ - [https://store.kde.org](https://store.kde.org)
+ - date published: 2023-11-05T10:28:13.360219+00:00
+ - user: None
+ - tags: []
+
+## KeePassXC Password Manager
+ - [https://keepassxc.org](https://keepassxc.org)
+ - date published: 2023-10-25T21:36:09.258338+00:00
+ - user: None
+ - tags: []
+
+## Knowledge Ecology International - Attending and mending the knowledge ecosystem
+ - [https://www.keionline.org](https://www.keionline.org)
+ - date published: 2023-10-25T21:36:12.622310+00:00
+ - user: None
+ - tags: []
+
+## Kelake
+ - [https://kelake.org](https://kelake.org)
+ - date published: 2024-02-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## KFF - Home Page
  - [https://kellerfamilyfoundation.org](https://kellerfamilyfoundation.org)
  - date published: 2024-02-08T16:20:58.418318+00:00
@@ -2049,6 +2277,12 @@ Common Weakness Enumeration
  - date published: 2023-10-25T21:46:16.467517+00:00
  - user: None
  - tags: []
+
+## Show HN: Nekoweb – a retro static web hosting
+ - [https://nekoweb.org](https://nekoweb.org)
+ - date published: 2024-02-25T21:03:14+00:00
+ - user: None
+ - tags: ['personal sites source', 'web1']
 
 ## A.N. Lucas's Web Lounge
  - [https://anlucas.neocities.org](https://anlucas.neocities.org)
@@ -5768,240 +6002,6 @@ Common Weakness Enumeration
 ## Home of Open Source Free Forum Community Software
  - [https://www.simplemachines.org](https://www.simplemachines.org)
  - date published: 2024-01-09T03:42:35.429252+00:00
- - user: None
- - tags: []
-
-## SimplyDifferently.org: Home *
- - [https://simplydifferently.org](https://simplydifferently.org)
- - date published: 2023-10-25T22:08:42.916358+00:00
- - user: None
- - tags: []
-
-## Since Parkland
- - [https://sinceparkland.org](https://sinceparkland.org)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Sireum Logika
- - [https://logika.v3.sireum.org](https://logika.v3.sireum.org)
- - date published: 2023-12-24T20:58:28+00:00
- - user: None
- - tags: []
-
-## SIRUM - Saving Medicine : Saving Lives
- - [https://sirum.org](https://sirum.org)
- - date published: 2023-10-25T22:08:45.945829+00:00
- - user: None
- - tags: []
-
-## Site.js
- - [https://sitejs.org](https://sitejs.org)
- - date published: 2023-10-25T22:08:53.252429+00:00
- - user: None
- - tags: []
-
-## Derek Sivers
- - [https://sivers.org](https://sivers.org)
- - date published: 2024-01-05T21:37:13.610762+00:00
- - user: None
- - tags: []
-
-## DebianEdu - Debian Wiki
- - [https://people.skolelinux.org](https://people.skolelinux.org)
- - date published: 2023-10-25T22:08:55.375389+00:00
- - user: None
- - tags: []
-
-## BC Time-Slip – THE EMPIRE NEVER ENDED
- - [https://bctimeslip.skullcrackersuite.org](https://bctimeslip.skullcrackersuite.org)
- - date published: 2023-10-25T22:08:58.518054+00:00
- - user: None
- - tags: []
-
-## Sky & Telescope | Astronomy News, Tools & Resources - Sky & Telescope
- - [https://skyandtelescope.org](https://skyandtelescope.org)
- - date published: 2023-10-25T22:09:01.947604+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://apple.slashdot.org](https://apple.slashdot.org)
- - date published: 2024-02-09T21:47:38.471626+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://developers.slashdot.org](https://developers.slashdot.org)
- - date published: 2023-10-25T22:09:06.238735+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://entertainment.slashdot.org](https://entertainment.slashdot.org)
- - date published: 2024-02-09T21:48:05.444095+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://games.slashdot.org](https://games.slashdot.org)
- - date published: 2024-02-09T21:47:30.806966+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://hardware.slashdot.org](https://hardware.slashdot.org)
- - date published: 2024-02-10T21:53:58.516823+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://it.slashdot.org](https://it.slashdot.org)
- - date published: 2024-02-10T05:37:54.769968+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://linux.slashdot.org](https://linux.slashdot.org)
- - date published: 2023-11-08T09:45:30.976482+00:00
- - user: None
- - tags: []
-
-## Slashdot
- - [https://m.slashdot.org](https://m.slashdot.org)
- - date published: 2024-01-07T11:17:14.833993+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://mobile.slashdot.org](https://mobile.slashdot.org)
- - date published: 2024-02-19T22:08:25.184114+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://news.slashdot.org](https://news.slashdot.org)
- - date published: 2023-10-25T22:09:10.967180+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://politics.slashdot.org](https://politics.slashdot.org)
- - date published: 2024-02-09T21:47:49.219250+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://rss.slashdot.org](https://rss.slashdot.org)
- - date published: 2024-02-21T06:30:25.560724+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://science.slashdot.org](https://science.slashdot.org)
- - date published: 2023-10-25T22:09:13.734941+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://slashdot.org](https://slashdot.org)
- - date published: 2023-10-25T22:09:16.501527+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://tech.slashdot.org](https://tech.slashdot.org)
- - date published: 2023-10-25T22:09:19.469269+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://yro.slashdot.org](https://yro.slashdot.org)
- - date published: 2023-10-25T22:09:22.905117+00:00
- - user: None
- - tags: []
-
-## Slated | You can run, but you can't hide
- - [https://slated.org](https://slated.org)
- - date published: 2023-10-25T22:09:25.599578+00:00
- - user: None
- - tags: []
-
-## http://slesinsky.org
- - [http://slesinsky.org](http://slesinsky.org)
- - date published: 2023-10-25T22:09:31.010196+00:00
- - user: None
- - tags: []
-
-## Sri Lanka Guardian
- - [https://slguardian.org](https://slguardian.org)
- - date published: 2024-01-10T21:40:19.047783+00:00
- - user: None
- - tags: []
-
-## https://www.slitaz.org
- - [https://www.slitaz.org](https://www.slitaz.org)
- - date published: 2023-12-28T17:40:19.213848+00:00
- - user: None
- - tags: []
-
-## Web0 Manifesto
- - [https://web0.small-web.org](https://web0.small-web.org)
- - date published: 2024-01-06T20:33:37+00:00
- - user: None
- - tags: []
-
-## https://smarthistory.org
- - [https://smarthistory.org](https://smarthistory.org)
- - date published: 2023-10-25T22:09:34.986464+00:00
- - user: None
- - tags: []
-
-## Science Museum of Minnesota
- - [https://new.smm.org](https://new.smm.org)
- - date published: 2024-02-08T16:21:46.219652+00:00
- - user: None
- - tags: []
-
-## SMS Power!
- - [https://www.smspower.org](https://www.smspower.org)
- - date published: 2024-01-31T00:00:00+00:00
- - user: None
- - tags: []
-
-## snarfed.org | Ryan Barrett's blog
- - [https://snarfed.org](https://snarfed.org)
- - date published: 2023-10-25T22:09:37.831799+00:00
- - user: None
- - tags: []
-
-## Welcome to Shepherd's Oasis! - Shepherd's Oasis
- - [https://soasis.org](https://soasis.org)
- - date published: 2023-10-25T22:09:38.795718+00:00
- - user: None
- - tags: []
-
-## Quality News: Hacker News Rankings
- - [https://news.social-protocols.org](https://news.social-protocols.org)
- - date published: 2023-10-25T22:09:46.336197+00:00
- - user: None
- - tags: []
-
-## index — Quarrelsome
- - [https://sockpuppet.org](https://sockpuppet.org)
- - date published: 2023-10-25T22:09:48.555382+00:00
- - user: None
- - tags: []
-
-## Software Development Team: Welcome
- - [https://soft-dev.org](https://soft-dev.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Software Preservation Society
- - [http://www.softpres.org](http://www.softpres.org)
- - date published: 2023-12-11T18:33:05.002198+00:00
  - user: None
  - tags: []
 

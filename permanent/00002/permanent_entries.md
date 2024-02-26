@@ -1,3 +1,33 @@
+## BASE TTS: The largest text-to-speech model to-date
+ - [https://amazon-ltts-paper.com](https://amazon-ltts-paper.com)
+ - date published: 2024-02-14T19:09:29+00:00
+ - user: None
+ - tags: []
+
+## Cloud Object Storage - Amazon S3  - AWS
+ - [https://s3-eu-west-1.amazonaws.com](https://s3-eu-west-1.amazonaws.com)
+ - date published: 2024-01-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Amazon Digital and Device Forums - US
+ - [https://www.amazonforum.com](https://www.amazonforum.com)
+ - date published: 2023-10-25T12:39:47.954437+00:00
+ - user: None
+ - tags: []
+
+## Amber O’Hara – mature lady friend
+ - [http://amber-ohara.com](http://amber-ohara.com)
+ - date published: 2023-11-29T14:45:00.239369+00:00
+ - user: None
+ - tags: []
+
+## Amber Krowiarz / Now
+ - [https://amberkrowiarz.com](https://amberkrowiarz.com)
+ - date published: 2023-12-30T15:38:02.194396+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Home - Ambri
  - [https://ambri.com](https://ambri.com)
  - date published: 2023-10-25T12:39:52.439895+00:00
@@ -4042,6 +4072,12 @@
  - user: None
  - tags: ['personal']
 
+## Big Medium | This Is Big Design
+ - [https://bigmedium.com](https://bigmedium.com)
+ - date published: 2024-02-25T17:18:43.898612+00:00
+ - user: None
+ - tags: []
+
 ## Big Mess o' Wires
  - [https://www.bigmessowires.com](https://www.bigmessowires.com)
  - date published: 2023-10-25T12:59:26.339536+00:00
@@ -5959,42 +5995,6 @@
 ## Boating News & Information | BoatBlurb Blog & Newsletter
  - [https://www.boatblurb.com](https://www.boatblurb.com)
  - date published: 2023-10-25T13:07:26.985090+00:00
- - user: None
- - tags: []
-
-## Boat Docking - the book - Close Quarters Maneuvering for Small Craft - Home Page
- - [https://boatdocking.com](https://boatdocking.com)
- - date published: 1997-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.boattechmarine.com](https://www.boattechmarine.com)
- - date published: 2024-02-08T22:06:29.195362+00:00
- - user: None
- - tags: []
-
-## Bob Wagner - Trumpet
- - [https://bob-wagner.com](https://bob-wagner.com)
- - date published: 2023-12-03T23:30:46.221944+00:00
- - user: None
- - tags: ['personal']
-
-## Bob Bertsch
- - [https://bobbertsch.com](https://bobbertsch.com)
- - date published: 2023-12-19T10:00:09.271295+00:00
- - user: None
- - tags: ['personal']
-
-## Bobbie Chen
- - [https://bobbiechen.com](https://bobbiechen.com)
- - date published: 2023-10-25T13:07:34.345024+00:00
- - user: None
- - tags: []
-
-## Hey, I'm Bobby - Bobby W. Lindsey
- - [https://www.bobbywlindsey.com](https://www.bobbywlindsey.com)
- - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
 

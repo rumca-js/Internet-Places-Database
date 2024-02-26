@@ -3034,6 +3034,12 @@
  - user: None
  - tags: ['personal']
 
+## Latest breaking news headlines | 7NEWS.com.au
+ - [https://7news.com.au](https://7news.com.au)
+ - date published: 2024-02-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## 9News - Latest news and headlines from Australia and the world
  - [https://www.9news.com.au](https://www.9news.com.au)
  - date published: 2023-12-11T06:15:52.749163+00:00
@@ -5990,12 +5996,6 @@
 ## GrUVi - Home
  - [https://gruvi.cs.sfu.ca](https://gruvi.cs.sfu.ca)
  - date published: 2023-11-25T18:10:18.335704+00:00
- - user: None
- - tags: []
-
-## Simon Fraser University
- - [https://www.sfu.ca](https://www.sfu.ca)
- - date published: 2023-10-25T11:20:42.106068+00:00
  - user: None
  - tags: []
 

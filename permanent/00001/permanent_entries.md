@@ -1,3 +1,9 @@
+## Simon Fraser University
+ - [https://www.sfu.ca](https://www.sfu.ca)
+ - date published: 2023-10-25T11:20:42.106068+00:00
+ - user: None
+ - tags: []
+
 ## Computing Science
  - [https://www2.cs.sfu.ca](https://www2.cs.sfu.ca)
  - date published: 2023-11-05T04:50:03.089549+00:00
@@ -843,6 +849,12 @@
 ## https://claudioholanda.ch
  - [https://claudioholanda.ch](https://claudioholanda.ch)
  - date published: 2024-01-09T02:27:22.425891+00:00
+ - user: None
+ - tags: []
+
+## Docu + Design Daube
+ - [https://www.daube.ch](https://www.daube.ch)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4760,6 +4772,12 @@
  - user: None
  - tags: []
 
+## African History Extra | isaac Samuel | Substack
+ - [https://www.africanhistoryextra.com](https://www.africanhistoryextra.com)
+ - date published: 2024-02-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Afridigest | Ideas, analysis, & insight for business innovators across Africa & beyond.
  - [https://afridigest.com](https://afridigest.com)
  - date published: 2023-10-25T12:34:42.761602+00:00
@@ -5474,6 +5492,12 @@
  - user: None
  - tags: []
 
+## Alex Kutas blog
+ - [https://alexkutas.com](https://alexkutas.com)
+ - date published: 2024-02-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Alex Meub
  - [https://alexmeub.com](https://alexmeub.com)
  - date published: 2023-10-25T09:04:24.113928+00:00
@@ -5515,6 +5539,12 @@
  - date published: 2023-10-25T12:38:13.172045+00:00
  - user: None
  - tags: []
+
+## alexstonethinkingstrings.com
+ - [https://www.alexstonethinkingstrings.com](https://www.alexstonethinkingstrings.com)
+ - date published: 2024-02-25T03:40:28.185186+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Alex Strick van Linschoten
  - [https://www.alexstrick.com](https://www.alexstrick.com)
@@ -5971,34 +6001,4 @@
  - date published: 2023-10-24T20:20:03.290504+00:00
  - user: None
  - tags: ['company', 'gatekeeper', 'digital marketplace']
-
-## BASE TTS: The largest text-to-speech model to-date
- - [https://amazon-ltts-paper.com](https://amazon-ltts-paper.com)
- - date published: 2024-02-14T19:09:29+00:00
- - user: None
- - tags: []
-
-## Cloud Object Storage - Amazon S3  - AWS
- - [https://s3-eu-west-1.amazonaws.com](https://s3-eu-west-1.amazonaws.com)
- - date published: 2024-01-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## Amazon Digital and Device Forums - US
- - [https://www.amazonforum.com](https://www.amazonforum.com)
- - date published: 2023-10-25T12:39:47.954437+00:00
- - user: None
- - tags: []
-
-## Amber O’Hara – mature lady friend
- - [http://amber-ohara.com](http://amber-ohara.com)
- - date published: 2023-11-29T14:45:00.239369+00:00
- - user: None
- - tags: []
-
-## Amber Krowiarz / Now
- - [https://amberkrowiarz.com](https://amberkrowiarz.com)
- - date published: 2023-12-30T15:38:02.194396+00:00
- - user: None
- - tags: ['personal']
 

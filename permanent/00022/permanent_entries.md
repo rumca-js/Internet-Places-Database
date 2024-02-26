@@ -1,3 +1,237 @@
+## SimplyDifferently.org: Home *
+ - [https://simplydifferently.org](https://simplydifferently.org)
+ - date published: 2023-10-25T22:08:42.916358+00:00
+ - user: None
+ - tags: []
+
+## Since Parkland
+ - [https://sinceparkland.org](https://sinceparkland.org)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sireum Logika
+ - [https://logika.v3.sireum.org](https://logika.v3.sireum.org)
+ - date published: 2023-12-24T20:58:28+00:00
+ - user: None
+ - tags: []
+
+## SIRUM - Saving Medicine : Saving Lives
+ - [https://sirum.org](https://sirum.org)
+ - date published: 2023-10-25T22:08:45.945829+00:00
+ - user: None
+ - tags: []
+
+## Site.js
+ - [https://sitejs.org](https://sitejs.org)
+ - date published: 2023-10-25T22:08:53.252429+00:00
+ - user: None
+ - tags: []
+
+## Derek Sivers
+ - [https://sivers.org](https://sivers.org)
+ - date published: 2024-01-05T21:37:13.610762+00:00
+ - user: None
+ - tags: []
+
+## DebianEdu - Debian Wiki
+ - [https://people.skolelinux.org](https://people.skolelinux.org)
+ - date published: 2023-10-25T22:08:55.375389+00:00
+ - user: None
+ - tags: []
+
+## BC Time-Slip – THE EMPIRE NEVER ENDED
+ - [https://bctimeslip.skullcrackersuite.org](https://bctimeslip.skullcrackersuite.org)
+ - date published: 2023-10-25T22:08:58.518054+00:00
+ - user: None
+ - tags: []
+
+## Sky & Telescope | Astronomy News, Tools & Resources - Sky & Telescope
+ - [https://skyandtelescope.org](https://skyandtelescope.org)
+ - date published: 2023-10-25T22:09:01.947604+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://apple.slashdot.org](https://apple.slashdot.org)
+ - date published: 2024-02-09T21:47:38.471626+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://developers.slashdot.org](https://developers.slashdot.org)
+ - date published: 2023-10-25T22:09:06.238735+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://entertainment.slashdot.org](https://entertainment.slashdot.org)
+ - date published: 2024-02-09T21:48:05.444095+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://games.slashdot.org](https://games.slashdot.org)
+ - date published: 2024-02-09T21:47:30.806966+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://hardware.slashdot.org](https://hardware.slashdot.org)
+ - date published: 2024-02-10T21:53:58.516823+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://it.slashdot.org](https://it.slashdot.org)
+ - date published: 2024-02-10T05:37:54.769968+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://linux.slashdot.org](https://linux.slashdot.org)
+ - date published: 2023-11-08T09:45:30.976482+00:00
+ - user: None
+ - tags: []
+
+## Slashdot
+ - [https://m.slashdot.org](https://m.slashdot.org)
+ - date published: 2024-01-07T11:17:14.833993+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://mobile.slashdot.org](https://mobile.slashdot.org)
+ - date published: 2024-02-19T22:08:25.184114+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://news.slashdot.org](https://news.slashdot.org)
+ - date published: 2023-10-25T22:09:10.967180+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://politics.slashdot.org](https://politics.slashdot.org)
+ - date published: 2024-02-09T21:47:49.219250+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://rss.slashdot.org](https://rss.slashdot.org)
+ - date published: 2024-02-21T06:30:25.560724+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://science.slashdot.org](https://science.slashdot.org)
+ - date published: 2023-10-25T22:09:13.734941+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://slashdot.org](https://slashdot.org)
+ - date published: 2023-10-25T22:09:16.501527+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://tech.slashdot.org](https://tech.slashdot.org)
+ - date published: 2023-10-25T22:09:19.469269+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://yro.slashdot.org](https://yro.slashdot.org)
+ - date published: 2023-10-25T22:09:22.905117+00:00
+ - user: None
+ - tags: []
+
+## Slated | You can run, but you can't hide
+ - [https://slated.org](https://slated.org)
+ - date published: 2023-10-25T22:09:25.599578+00:00
+ - user: None
+ - tags: []
+
+## http://slesinsky.org
+ - [http://slesinsky.org](http://slesinsky.org)
+ - date published: 2023-10-25T22:09:31.010196+00:00
+ - user: None
+ - tags: []
+
+## Sri Lanka Guardian
+ - [https://slguardian.org](https://slguardian.org)
+ - date published: 2024-01-10T21:40:19.047783+00:00
+ - user: None
+ - tags: []
+
+## https://www.slitaz.org
+ - [https://www.slitaz.org](https://www.slitaz.org)
+ - date published: 2023-12-28T17:40:19.213848+00:00
+ - user: None
+ - tags: []
+
+## Web0 Manifesto
+ - [https://web0.small-web.org](https://web0.small-web.org)
+ - date published: 2024-01-06T20:33:37+00:00
+ - user: None
+ - tags: []
+
+## https://smarthistory.org
+ - [https://smarthistory.org](https://smarthistory.org)
+ - date published: 2023-10-25T22:09:34.986464+00:00
+ - user: None
+ - tags: []
+
+## Science Museum of Minnesota
+ - [https://new.smm.org](https://new.smm.org)
+ - date published: 2024-02-08T16:21:46.219652+00:00
+ - user: None
+ - tags: []
+
+## SMS Power!
+ - [https://www.smspower.org](https://www.smspower.org)
+ - date published: 2024-01-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## snarfed.org | Ryan Barrett's blog
+ - [https://snarfed.org](https://snarfed.org)
+ - date published: 2023-10-25T22:09:37.831799+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Shepherd's Oasis! - Shepherd's Oasis
+ - [https://soasis.org](https://soasis.org)
+ - date published: 2023-10-25T22:09:38.795718+00:00
+ - user: None
+ - tags: []
+
+## Quality News: Hacker News Rankings
+ - [https://news.social-protocols.org](https://news.social-protocols.org)
+ - date published: 2023-10-25T22:09:46.336197+00:00
+ - user: None
+ - tags: []
+
+## index — Quarrelsome
+ - [https://sockpuppet.org](https://sockpuppet.org)
+ - date published: 2023-10-25T22:09:48.555382+00:00
+ - user: None
+ - tags: []
+
+## Software Development Team: Welcome
+ - [https://soft-dev.org](https://soft-dev.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Software Preservation Society
+ - [http://www.softpres.org](http://www.softpres.org)
+ - date published: 2023-12-11T18:33:05.002198+00:00
+ - user: None
+ - tags: []
+
 ## Software Preservation Group
         —
         Software Preservation Group
@@ -5427,6 +5661,12 @@ is forbidden
  - user: None
  - tags: []
 
+## Psalmy Po Polsku – Księga Psalmów
+ - [https://www.psalmy.pl](https://www.psalmy.pl)
+ - date published: 2024-02-25T00:00:00+00:00
+ - user: rumpel
+ - tags: ['religion', 'catholic']
+
 ## PSI Polska Sp. z o.o. | Poznań | Innowacyjne oprogramowanie. Solidne wdrożenie.
  - [https://www.psi.pl](https://www.psi.pl)
  - date published: 2023-10-25T11:29:10.274203+00:00
@@ -5478,6 +5718,12 @@ is forbidden
 ## Katolicki Głos w Twoim domu
  - [https://www.radiomaryja.pl](https://www.radiomaryja.pl)
  - date published: 2023-12-16T15:46:51.676771+00:00
+ - user: None
+ - tags: []
+
+## Polskie Radio PiK
+ - [https://www.radiopik.pl](https://www.radiopik.pl)
+ - date published: 2024-02-25T21:16:37.744150+00:00
  - user: None
  - tags: []
 
@@ -5760,252 +6006,6 @@ is forbidden
 ## Bizblog Spider’s Web
  - [https://bizblog.spidersweb.pl](https://bizblog.spidersweb.pl)
  - date published: 2023-11-26T14:31:17.716532+00:00
- - user: None
- - tags: []
-
-## Spider’s Web
- - [https://spidersweb.pl](https://spidersweb.pl)
- - date published: 2023-10-25T10:40:53.865008+00:00
- - user: None
- - tags: []
-
-## Stare Wilki
- - [https://starewilki.pl](https://starewilki.pl)
- - date published: 2023-10-29T13:11:57.834681+00:00
- - user: None
- - tags: ['games']
-
-## Ogłoszenia motoryzacyjne. Ogłoszenia samochodowe, samochody używane, auto giełda
- - [https://startauto.pl](https://startauto.pl)
- - date published: 2019-10-17T08:43:11+00:00
- - user: None
- - tags: []
-
-## StrefaInwestorow.pl
- - [https://strefainwestorow.pl](https://strefainwestorow.pl)
- - date published: 2023-10-25T22:31:28.220248+00:00
- - user: None
- - tags: []
-
-## Sklep internetowy Strefa MTG
- - [https://strefamtg.pl](https://strefamtg.pl)
- - date published: 2023-11-01T19:26:18.754410+00:00
- - user: None
- - tags: ['magic the gathering', 'shop']
-
-## strefapsx.pl - Kolekcjonerzy | Gracze | PSX | Retro | PlayStation |
- - [https://strefapsx.pl](https://strefapsx.pl)
- - date published: 2023-10-27T13:47:44.718975+00:00
- - user: None
- - tags: ['game news', 'video games']
-
-## strefapsx.pl - Serwis i blog o PlayStation | PSX | Polska |
- - [https://www.strefapsx.pl](https://www.strefapsx.pl)
- - date published: 2023-12-13T15:12:36.834558+00:00
- - user: None
- - tags: ['video games']
-
-## Suppi by Patronite - zarabiaj na swojej pasji.
- - [https://suppi.pl](https://suppi.pl)
- - date published: 2023-12-11T16:53:54.160409+00:00
- - user: None
- - tags: []
-
-## Designing a system resistant to data disclosure
- - [https://www.swiat-owocow.pl](https://www.swiat-owocow.pl)
- - date published: 2023-12-13T15:11:39.344063+00:00
- - user: None
- - tags: []
-
-## Szczecin i region | Z ciekawszej strony
- - [https://szczeciner.pl](https://szczeciner.pl)
- - date published: 2022-09-21T06:05:50+00:00
- - user: None
- - tags: []
-
-## T2E.pl (Try2Emu) Try2emu -  emulacja na komputerach PC.
- - [https://www.t2e.pl](https://www.t2e.pl)
- - date published: 2023-11-02T09:44:42.088290+00:00
- - user: None
- - tags: ['atari', 'retro games', 'commodore', 'amiga', 'emulation']
-
-## Tabletowo.pl najlepsze źródło informacji o świecie mobilnym!
- - [https://www.tabletowo.pl](https://www.tabletowo.pl)
- - date published: 2023-10-25T09:38:21.697778+00:00
- - user: None
- - tags: []
-
-## TaniaKsiazka.pl | księgarnia internetowa | tanie książki
- - [https://www.taniaksiazka.pl](https://www.taniaksiazka.pl)
- - date published: 2023-10-24T20:19:10+00:00
- - user: rumpel
- - tags: ['books', 'ebook shop', 'ebooks']
-
-## Tanie księgarnie internetowe - porównaj ceny, kup książkę najtaniej!
- - [https://tanieksiegarnie.pl](https://tanieksiegarnie.pl)
- - date published: 2023-12-11T16:36:30.430217+00:00
- - user: None
- - tags: []
-
-## TeamQuest.pl - Rekrutacja IT - Kariera IT - Znajdź wymarzoną pracę!
- - [https://teamquest.pl](https://teamquest.pl)
- - date published: 2023-10-25T22:31:29.584677+00:00
- - user: None
- - tags: []
-
-## Informacje ze świata telekomunikacji - telefony, gadżety, wiadomości, testy - TELEPOLIS.PL
- - [https://www.telepolis.pl](https://www.telepolis.pl)
- - date published: 2023-10-25T22:31:33.968176+00:00
- - user: None
- - tags: []
-
-## Teologia Polityczna
- - [https://teologiapolityczna.pl](https://teologiapolityczna.pl)
- - date published: 2023-10-25T22:31:36.916394+00:00
- - user: None
- - tags: []
-
-## Teraz-Srodowisko : Wiadomości dnia
- - [https://www.teraz-srodowisko.pl](https://www.teraz-srodowisko.pl)
- - date published: 2024-01-30T02:02:50.023253+00:00
- - user: None
- - tags: []
-
-## Portal historyczny TerazHistoria.pl
- - [https://terazhistoria.pl](https://terazhistoria.pl)
- - date published: 2023-10-25T22:31:41.656299+00:00
- - user: None
- - tags: []
-
-## The Company Community Forum
- - [https://forum.thecompany.pl](https://forum.thecompany.pl)
- - date published: 2023-12-11T18:59:00.500248+00:00
- - user: None
- - tags: []
-
-## The Company - Classic Amiga Games
- - [https://thecompany.pl](https://thecompany.pl)
- - date published: 2023-10-30T10:13:12.992416+00:00
- - user: None
- - tags: []
-
-## Tickets.pl bilety lotnicze
- - [https://tickets.pl](https://tickets.pl)
- - date published: 2024-02-23T17:11:23+00:00
- - user: rumpel
- - tags: []
-
-## Tipply.pl • System płatności na Twoim streamie
- - [https://tipply.pl](https://tipply.pl)
- - date published: 2024-02-23T23:28:18.057042+00:00
- - user: None
- - tags: []
-
-## Wiadomo¶ci z kraju i ze ¶wiata - Portal Informacyjny - Tokfm.pl
- - [https://www.tokfm.pl](https://www.tokfm.pl)
- - date published: 2023-10-25T22:31:48.268222+00:00
- - user: None
- - tags: []
-
-## Portal topagrar - Wszystko o hodowli, uprawie i dopłatach
- - [https://www.topagrar.pl](https://www.topagrar.pl)
- - date published: 2024-02-24T00:16:09.609763+00:00
- - user: None
- - tags: []
-
-## To Tylko Teoria
- - [https://www.totylkoteoria.pl](https://www.totylkoteoria.pl)
- - date published: 2023-10-25T22:31:50.137858+00:00
- - user: None
- - tags: []
-
-## Traktor24 technika rolnicza
- - [https://traktor24.pl](https://traktor24.pl)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Biznes w Trójmieście (Gdańsk, Gdynia, Sopot) - biznes pomorski
- - [https://biznes.trojmiasto.pl](https://biznes.trojmiasto.pl)
- - date published: 2023-10-25T22:32:00.191090+00:00
- - user: None
- - tags: []
-
-## TrueStory - Piszemy dla Was, nie dla algorytmów
- - [https://truestory.pl](https://truestory.pl)
- - date published: 2023-10-25T22:32:08.653401+00:00
- - user: None
- - tags: []
-
-## Portal informacyjny Wodzisławia Śląskiego - www.tuWodzislaw.pl
- - [https://www.tuwodzislaw.pl](https://www.tuwodzislaw.pl)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Wiadomości, live streaming i wyniki - Eurosport
- - [https://eurosport.tvn24.pl](https://eurosport.tvn24.pl)
- - date published: 2023-10-25T10:33:11.405671+00:00
- - user: None
- - tags: []
-
-## Fakty, Fakty TVN - oficjalna strona Faktów. Warto wiedzieć więcej.
- - [https://fakty.tvn24.pl](https://fakty.tvn24.pl)
- - date published: 2023-10-25T10:33:15.760218+00:00
- - user: None
- - tags: []
-
-## TVN24 GO - najnowsze odcinki online, świeże materiały przez internet
- - [https://go.tvn24.pl](https://go.tvn24.pl)
- - date published: 2023-10-25T22:32:13.892689+00:00
- - user: None
- - tags: []
-
-## Konkret24 – weryfikacja fake news, fact-checking, analiza informacji z sieci - Konkret24
- - [https://konkret24.tvn24.pl](https://konkret24.tvn24.pl)
- - date published: 2023-10-25T10:33:26.147699+00:00
- - user: None
- - tags: []
-
-## Kontakt 24 - Serwis Reporterów 24 | Oglądaj i Współtwórz!
- - [https://kontakt24.tvn24.pl](https://kontakt24.tvn24.pl)
- - date published: 2023-10-25T22:32:17.183207+00:00
- - user: None
- - tags: []
-
-## Szkło Kontaktowe online - oficjalna strona magazynu TVN24 - TVN24
- - [https://szklokontaktowe.tvn24.pl](https://szklokontaktowe.tvn24.pl)
- - date published: 2023-10-25T22:32:26.069743+00:00
- - user: None
- - tags: []
-
-## Wiadomości z kraju i ze świata - najnowsze informacje w TVN24 - TVN24
- - [https://tvn24.pl](https://tvn24.pl)
- - date published: 2023-10-25T10:33:33.358909+00:00
- - user: None
- - tags: []
-
-## Strona główna - tvp.pl - Telewizja Polska S.A.
- - [https://tvp.pl](https://tvp.pl)
- - date published: 2023-12-20T11:26:30.796033+00:00
- - user: None
- - tags: []
-
-## None
- - [https://tvrepublika.pl](https://tvrepublika.pl)
- - date published: 2024-01-08T11:26:00.067096+00:00
- - user: None
- - tags: []
-
-## Tygodnik Poradnik Rolniczy - portal rolniczy. Rolnictwo i wieś
- - [https://www.tygodnik-rolniczy.pl](https://www.tygodnik-rolniczy.pl)
- - date published: 2024-02-23T16:29:58.042067+00:00
- - user: None
- - tags: ['farm news']
-
-## Tygodnik Solidarność | Wiadomości i polityka w Polsce
- - [https://www.tysol.pl](https://www.tysol.pl)
- - date published: 2023-10-27T13:11:42.088111+00:00
  - user: None
  - tags: []
 
