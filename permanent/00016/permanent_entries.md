@@ -1,3 +1,249 @@
+## https://www.osc.ny.gov
+ - [https://www.osc.ny.gov](https://www.osc.ny.gov)
+ - date published: 2023-12-19T17:57:44.445591+00:00
+ - user: None
+ - tags: []
+
+## Mayor's Office NYC
+ - [https://a002-oom03.nyc.gov](https://a002-oom03.nyc.gov)
+ - date published: 2023-10-25T19:24:56.465502+00:00
+ - user: None
+ - tags: []
+
+## The New York State Senate
+ - [https://www.nysenate.gov](https://www.nysenate.gov)
+ - date published: 2023-10-25T19:24:58.425689+00:00
+ - user: None
+ - tags: []
+
+## Strengthen science. Advance justice.
+ - [https://nij.ojp.gov](https://nij.ojp.gov)
+ - date published: 2024-02-24T18:06:29.327243+00:00
+ - user: None
+ - tags: []
+
+## Oklahoma.gov Home
+ - [https://oklahoma.gov](https://oklahoma.gov)
+ - date published: 2024-01-08T15:10:22.537667+00:00
+ - user: None
+ - tags: []
+
+## Oak Ridge National Laboratory: Solving the Big Problems | ORNL
+ - [https://www.ornl.gov](https://www.ornl.gov)
+ - date published: 2023-10-25T19:25:00.286836+00:00
+ - user: None
+ - tags: []
+
+## Regulations.gov
+ - [https://www.regulations.gov](https://www.regulations.gov)
+ - date published: 2023-10-25T19:25:01.549850+00:00
+ - user: None
+ - tags: []
+
+## SAM.gov | Home
+ - [https://sam.gov](https://sam.gov)
+ - date published: 2023-10-25T19:25:02.207175+00:00
+ - user: None
+ - tags: []
+
+## Sandia National Laboratories: News Releases
+ - [https://newsreleases.sandia.gov](https://newsreleases.sandia.gov)
+ - date published: 2023-10-25T19:25:05.661482+00:00
+ - user: None
+ - tags: []
+
+## SEC.gov | HOME
+ - [https://www.sec.gov](https://www.sec.gov)
+ - date published: 2023-10-25T19:25:07.736929+00:00
+ - user: None
+ - tags: []
+
+## U.S. Senate Committee on Commerce, Science, & Transportation
+ - [https://www.commerce.senate.gov](https://www.commerce.senate.gov)
+ - date published: 2023-10-25T19:25:10.798994+00:00
+ - user: None
+ - tags: []
+
+## Home | Senate Democratic Leadership
+ - [https://www.democrats.senate.gov](https://www.democrats.senate.gov)
+ - date published: 2024-01-01T01:29:16.688384+00:00
+ - user: None
+ - tags: []
+
+## Home | Senate Committee on Health, Education, Labor and Pensions
+ - [https://www.help.senate.gov](https://www.help.senate.gov)
+ - date published: 2023-10-25T19:25:12.573868+00:00
+ - user: None
+ - tags: []
+
+## Committee on Homeland Security & Governmental Affairs
+ - [https://www.hsgac.senate.gov](https://www.hsgac.senate.gov)
+ - date published: 2023-10-25T19:25:16.853062+00:00
+ - user: None
+ - tags: []
+
+## Home | United States Senate Committee on the Judiciary
+ - [https://www.judiciary.senate.gov](https://www.judiciary.senate.gov)
+ - date published: 2023-10-25T19:25:20.250645+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.klobuchar.senate.gov](https://www.klobuchar.senate.gov)
+ - date published: 2024-02-24T18:11:06.609059+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Senator Rubio
+ - [https://www.rubio.senate.gov](https://www.rubio.senate.gov)
+ - date published: 2023-10-25T19:25:23.279421+00:00
+ - user: None
+ - tags: []
+
+## U.S. Senate
+ - [https://www.senate.gov](https://www.senate.gov)
+ - date published: 2023-10-25T19:25:25.397474+00:00
+ - user: None
+ - tags: []
+
+## Home | U.S. Senator Elizabeth Warren of Massachusetts
+ - [https://www.warren.senate.gov](https://www.warren.senate.gov)
+ - date published: 2023-10-25T19:25:26.821293+00:00
+ - user: None
+ - tags: []
+
+## Home | U.S. Senator Ron Wyden of Oregon
+ - [https://www.wyden.senate.gov](https://www.wyden.senate.gov)
+ - date published: 2023-10-25T19:25:32.843708+00:00
+ - user: None
+ - tags: ['senator']
+
+## Homepage | NOAA / NWS Space Weather Prediction Center
+ - [https://www.spaceweather.gov](https://www.spaceweather.gov)
+ - date published: 2023-10-25T19:25:37.411659+00:00
+ - user: None
+ - tags: []
+
+## The United States Social Security Administration | SSA
+ - [https://www.ssa.gov](https://www.ssa.gov)
+ - date published: 2023-10-25T19:25:44.249873+00:00
+ - user: None
+ - tags: []
+
+## U.S. Department of State - United States Department of State
+ - [https://2017-2021.state.gov](https://2017-2021.state.gov)
+ - date published: 2023-10-25T19:25:50.695939+00:00
+ - user: None
+ - tags: []
+
+## Federal Student Aid
+ - [https://studentaid.gov](https://studentaid.gov)
+ - date published: 2023-10-25T19:25:51.614124+00:00
+ - user: None
+ - tags: []
+
+## Home - Supreme Court of the United States
+ - [https://www.supremecourt.gov](https://www.supremecourt.gov)
+ - date published: 2024-01-09T03:31:35.235119+00:00
+ - user: None
+ - tags: []
+
+## Texas Department of Criminal Justice
+ - [https://www.tdcj.texas.gov](https://www.tdcj.texas.gov)
+ - date published: 2024-01-09T03:31:36.838462+00:00
+ - user: None
+ - tags: []
+
+## Office of the Attorney General
+ - [https://www.texasattorneygeneral.gov](https://www.texasattorneygeneral.gov)
+ - date published: 2023-11-21T04:24:19.389027+00:00
+ - user: None
+ - tags: []
+
+## Front page | U.S. Department of the Treasury
+ - [https://home.treasury.gov](https://home.treasury.gov)
+ - date published: 2023-10-25T19:26:01.602069+00:00
+ - user: None
+ - tags: []
+
+## Transportation Security Administration | Transportation Security Administration
+ - [https://www.tsa.gov](https://www.tsa.gov)
+ - date published: 2023-10-25T19:26:03.310372+00:00
+ - user: None
+ - tags: []
+
+## The USAP Portal: Science and Support in Antarctica - Welcome to the United States Antarctic Program Portal
+ - [https://www.usap.gov](https://www.usap.gov)
+ - date published: 2023-10-25T19:26:06.918908+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.uscis.gov](https://www.uscis.gov)
+ - date published: 2024-01-31T00:36:18.599353+00:00
+ - user: None
+ - tags: []
+
+## United States Court of Appeals 2nd Circuit
+ - [https://www.ca2.uscourts.gov](https://www.ca2.uscourts.gov)
+ - date published: 2023-10-25T19:26:11.758897+00:00
+ - user: None
+ - tags: []
+
+## Fifth Circuit Court of Appeals
+ - [https://www.ca5.uscourts.gov](https://www.ca5.uscourts.gov)
+ - date published: 2023-10-25T19:26:14.905641+00:00
+ - user: None
+ - tags: []
+
+## District of Columbia | United States District Court
+ - [https://www.dcd.uscourts.gov](https://www.dcd.uscourts.gov)
+ - date published: 2023-10-25T19:26:18.152336+00:00
+ - user: None
+ - tags: []
+
+## Object not found!
+ - [https://www.txnd.uscourts.gov](https://www.txnd.uscourts.gov)
+ - date published: 2024-01-09T03:31:38.226546+00:00
+ - user: None
+ - tags: []
+
+## https://directives.sc.egov.usda.gov
+ - [https://directives.sc.egov.usda.gov](https://directives.sc.egov.usda.gov)
+ - date published: 2023-12-19T17:57:55.296864+00:00
+ - user: None
+ - tags: []
+
+## USDA ERS - Home
+ - [https://www.ers.usda.gov](https://www.ers.usda.gov)
+ - date published: 2023-11-01T05:24:12.673713+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://uk.usembassy.gov](https://uk.usembassy.gov)
+ - date published: 2024-01-24T20:56:16.257977+00:00
+ - user: None
+ - tags: []
+
+## Earthquake Hazards Program | U.S. Geological Survey
+ - [https://earthquake.usgs.gov](https://earthquake.usgs.gov)
+ - date published: 2023-10-25T19:26:27.821782+00:00
+ - user: None
+ - tags: []
+
+## U.S. Geological Survey Publications Warehouse
+ - [https://pubs.er.usgs.gov](https://pubs.er.usgs.gov)
+ - date published: 2023-10-25T19:26:29.739829+00:00
+ - user: None
+ - tags: []
+
+## USGS.gov | Science for a changing world
+ - [https://www.usgs.gov](https://www.usgs.gov)
+ - date published: 2023-10-25T19:26:34.516955+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://www.usmarshals.gov](https://www.usmarshals.gov)
  - date published: 2023-11-01T08:43:37.168607+00:00
@@ -5754,252 +6000,6 @@ through Composable Diffusion
 ## Nathan Rooy
  - [https://nathanrooy.github.io](https://nathanrooy.github.io)
  - date published: 2023-10-25T19:50:08.197904+00:00
- - user: None
- - tags: []
-
-## None
- - [https://nbittich.github.io](https://nbittich.github.io)
- - date published: 2024-02-10T16:00:05.776267+00:00
- - user: None
- - tags: []
-
-## The Neat Language — Neat  documentation
- - [https://neat-lang.github.io](https://neat-lang.github.io)
- - date published: 2023-10-25T19:50:11.219633+00:00
- - user: None
- - tags: []
-
-## Nebuchadnezzar | Practically-exploitable Cryptographic Vulnerabilities in Matrix
- - [https://nebuchadnezzar-megolm.github.io](https://nebuchadnezzar-megolm.github.io)
- - date published: 2023-10-25T19:50:12.879107+00:00
- - user: None
- - tags: []
-
-## 🏡 Neil's Place
- - [https://neilbostian.github.io](https://neilbostian.github.io)
- - date published: 2023-10-25T19:50:14.329695+00:00
- - user: None
- - tags: []
-
-## Netflix Open Source Software Center
- - [https://netflix.github.io](https://netflix.github.io)
- - date published: 2024-01-08T16:57:34.320975+00:00
- - user: None
- - tags: []
-
-## nfultz.github.io
- - [https://nfultz.github.io](https://nfultz.github.io)
- - date published: 2023-11-29T14:24:53.953723+00:00
- - user: None
- - tags: ['personal']
-
-## Eight million pixels and counting
- - [https://nical.github.io](https://nical.github.io)
- - date published: 2023-10-25T19:50:15.945525+00:00
- - user: None
- - tags: []
-
-## Nick Desaulniers
- - [https://nickdesaulniers.github.io](https://nickdesaulniers.github.io)
- - date published: 2023-10-25T19:50:17.713377+00:00
- - user: None
- - tags: []
-
-## Something Something Programming | Mostly thoughts about programming. Maybe other stuff too.
- - [https://nickdrozd.github.io](https://nickdrozd.github.io)
- - date published: 2023-10-25T19:50:19.845694+00:00
- - user: None
- - tags: []
-
-## Dyskryminacja mężczyzn i „dyskryminacja” kobiet w Polsce
- - [https://nieczekam107lat.github.io](https://nieczekam107lat.github.io)
- - date published: 2023-10-25T19:50:21.360497+00:00
- - user: None
- - tags: []
-
-## https://niespodd.github.io
- - [https://niespodd.github.io](https://niespodd.github.io)
- - date published: 2024-01-09T03:32:53.013438+00:00
- - user: None
- - tags: []
-
-## nigeltao.github.io
- - [https://nigeltao.github.io](https://nigeltao.github.io)
- - date published: 2023-10-25T19:50:29.342774+00:00
- - user: None
- - tags: []
-
-## Nilesh Suriyarachchi
- - [https://nileshsuri.github.io](https://nileshsuri.github.io)
- - date published: 2024-02-08T16:32:21.764550+00:00
- - user: None
- - tags: []
-
-## niplav
- - [https://niplav.github.io](https://niplav.github.io)
- - date published: 2024-01-01T17:21:29.307277+00:00
- - user: None
- - tags: []
-
-## Bits and Paradoxes
- - [https://nish1001.github.io](https://nish1001.github.io)
- - date published: 2023-12-11T23:18:51.580288+00:00
- - user: None
- - tags: ['personal']
-
-## Nicholas Nethercote | Be kind and be useful.
- - [https://nnethercote.github.io](https://nnethercote.github.io)
- - date published: 2023-10-25T19:50:30.882872+00:00
- - user: None
- - tags: []
-
-## Noise2Music
- - [https://noise2music.github.io](https://noise2music.github.io)
- - date published: 2023-10-25T19:50:32.288101+00:00
- - user: None
- - tags: []
-
-## https://not-just-memorization.github.io
- - [https://not-just-memorization.github.io](https://not-just-memorization.github.io)
- - date published: 2023-11-29T17:19:34.609423+00:00
- - user: None
- - tags: []
-
-## not-matthias
- - [https://not-matthias.github.io](https://not-matthias.github.io)
- - date published: 2023-10-25T19:50:33.780319+00:00
- - user: None
- - tags: []
-
-## All posts | Note's on software
- - [https://note89.github.io](https://note89.github.io)
- - date published: 2023-10-25T19:50:35.276107+00:00
- - user: None
- - tags: []
-
-## notgull – The world's \#1 source of notgull
- - [https://notgull.github.io](https://notgull.github.io)
- - date published: 2023-10-25T19:50:36.988312+00:00
- - user: None
- - tags: []
-
-## Redirecting to https://research.nvidia.com/labs/toronto-ai/
- - [https://nv-tlabs.github.io](https://nv-tlabs.github.io)
- - date published: 2023-10-25T19:50:38.683182+00:00
- - user: None
- - tags: []
-
-## john (@nyan_satan)
- - [https://nyansatan.github.io](https://nyansatan.github.io)
- - date published: 2023-10-25T19:50:39.873510+00:00
- - user: None
- - tags: []
-
-## Show HN: Oasis – A Repository of Project Ideas
- - [https://oasis-of-ideas.github.io](https://oasis-of-ideas.github.io)
- - date published: 2023-11-29T20:46:27+00:00
- - user: None
- - tags: []
-
-## Code Examples | The Oberon+ Programming Language
- - [https://oberon-lang.github.io](https://oberon-lang.github.io)
- - date published: 2023-10-25T19:50:41.397058+00:00
- - user: None
- - tags: []
-
-## Joel Arvidsson on GitHub
- - [https://oblador.github.io](https://oblador.github.io)
- - date published: 2023-10-25T19:50:42.692439+00:00
- - user: None
- - tags: []
-
-## OCamlPro's Resources on Github
- - [https://ocamlpro.github.io](https://ocamlpro.github.io)
- - date published: 2023-10-25T19:50:54.541806+00:00
- - user: None
- - tags: []
-
-## Tea and Bits
- - [https://ohadravid.github.io](https://ohadravid.github.io)
- - date published: 2023-10-25T19:50:55.937894+00:00
- - user: None
- - tags: []
-
-## Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere
- - [https://ok-robot.github.io](https://ok-robot.github.io)
- - date published: 2024-02-23T17:23:23+00:00
- - user: None
- - tags: []
-
-## https://open-journey.github.io
- - [https://open-journey.github.io](https://open-journey.github.io)
- - date published: 2024-01-09T03:32:53.564573+00:00
- - user: None
- - tags: []
-
-## Sotolf's Blog
- - [https://opsahl.github.io](https://opsahl.github.io)
- - date published: 2023-10-25T08:49:25.098637+00:00
- - user: None
- - tags: ['personal']
-
-## OS-Copilot: Towards Generalist Computer Agents with Self-Improvement
- - [https://os-copilot.github.io](https://os-copilot.github.io)
- - date published: 2024-02-17T20:26:18+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://osanseviero.github.io](https://osanseviero.github.io)
- - date published: 2024-01-03T21:23:24.597485+00:00
- - user: None
- - tags: []
-
-## Page Redirection
- - [https://ostreedev.github.io](https://ostreedev.github.io)
- - date published: 2023-10-25T19:51:03.196975+00:00
- - user: None
- - tags: []
-
-## Easily create apps for PC games on the Overwolf framework | Overwolf
- - [https://overwolf.github.io](https://overwolf.github.io)
- - date published: 2023-12-13T15:57:22.507855+00:00
- - user: None
- - tags: []
-
-## The JavaScript Oxidation Compiler
- - [https://oxc-project.github.io](https://oxc-project.github.io)
- - date published: 2023-12-16T20:21:13+00:00
- - user: None
- - tags: []
-
-## PaLM-E: An Embodied Multimodal Language Model
- - [https://palm-e.github.io](https://palm-e.github.io)
- - date published: 2023-10-25T19:51:04.713759+00:00
- - user: None
- - tags: []
-
-## https://patrickroxas.github.io
- - [https://patrickroxas.github.io](https://patrickroxas.github.io)
- - date published: 2024-01-04T03:33:46.508274+00:00
- - user: None
- - tags: []
-
-## https://paulsec.github.io
- - [https://paulsec.github.io](https://paulsec.github.io)
- - date published: 2023-10-25T19:51:06.414524+00:00
- - user: None
- - tags: []
-
-## Index – pcwalton – pcwalton's blog
- - [https://pcwalton.github.io](https://pcwalton.github.io)
- - date published: 2023-10-25T19:51:08.007982+00:00
- - user: None
- - tags: []
-
-## Pelayo Arbués
- - [https://pelayoarbues.github.io](https://pelayoarbues.github.io)
- - date published: 2024-01-13T09:36:59.010580+00:00
  - user: None
  - tags: []
 

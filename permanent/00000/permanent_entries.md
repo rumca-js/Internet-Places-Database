@@ -274,6 +274,12 @@
  - user: None
  - tags: []
 
+## Beacons
+ - [https://beacons.ai](https://beacons.ai)
+ - date published: 2024-02-26T18:38:26+00:00
+ - user: rumpel
+ - tags: ['social media reference']
+
 ## Table of contents | Better without AI
  - [https://betterwithout.ai](https://betterwithout.ai)
  - date published: 2023-10-25T11:35:01.519383+00:00
@@ -1285,6 +1291,12 @@
 ## SciML: Open Source Software for Scientific Machine Learning, Physics-Informed AI, and Differentiable Programming
  - [https://sciml.ai](https://sciml.ai)
  - date published: 2023-10-25T11:42:32.506316+00:00
+ - user: None
+ - tags: []
+
+## SciPhi - The fastest way to build retrieval for your AI
+ - [https://www.sciphi.ai](https://www.sciphi.ai)
+ - date published: 2024-02-26T15:43:02.531873+00:00
  - user: None
  - tags: []
 
@@ -3166,6 +3178,12 @@
  - user: None
  - tags: []
 
+## dronenr - drone and camera news, reviews, leaks
+ - [https://dronenr.com.au](https://dronenr.com.au)
+ - date published: 2024-02-26T04:10:57.862486+00:00
+ - user: None
+ - tags: []
+
 ## Environdata Weather Stations Home
  - [https://environdata.com.au](https://environdata.com.au)
  - date published: 1999-01-01T00:00:00+00:00
@@ -3715,6 +3733,12 @@
 ## AzerNews - News from Azerbaijan, Business, Energy, Analysis
  - [https://www.azernews.az](https://www.azernews.az)
  - date published: 2024-01-08T04:23:58.550484+00:00
+ - user: None
+ - tags: []
+
+## Report İnformasiya Agentliyi
+ - [https://report.az](https://report.az)
+ - date published: 2024-02-26T20:38:01.874181+00:00
  - user: None
  - tags: []
 
@@ -5974,28 +5998,4 @@
  - date published: 2023-10-25T09:02:45.716038+00:00
  - user: None
  - tags: ['personal']
-
-## Scott Redmond
- - [https://www.scottredmond.ca](https://www.scottredmond.ca)
- - date published: 2024-01-23T03:27:52.039443+00:00
- - user: None
- - tags: ['personal']
-
-## The Second Egress: Building a Code Change
- - [https://secondegress.ca](https://secondegress.ca)
- - date published: 2023-10-25T12:06:36.332747+00:00
- - user: None
- - tags: []
-
-## SEO Agency in Ottawa, Canada | SEO Services | SEO North
- - [https://seonorth.ca](https://seonorth.ca)
- - date published: 2023-10-25T12:06:42.751440+00:00
- - user: None
- - tags: ['company', 'seo']
-
-## GrUVi - Home
- - [https://gruvi.cs.sfu.ca](https://gruvi.cs.sfu.ca)
- - date published: 2023-11-25T18:10:18.335704+00:00
- - user: None
- - tags: []
 

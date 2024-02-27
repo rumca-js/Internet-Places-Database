@@ -1,3 +1,208 @@
+## vinylrecorder, vinyl recorder, dubplate, phono, analog, single,
+    maxi, record, recording, directmastering, pressing, pressung, schallplatten
+ - [https://www.vinylrecorder.com](https://www.vinylrecorder.com)
+ - date published: 2023-10-25T17:56:49.670180+00:00
+ - user: None
+ - tags: []
+
+## Violeta Nedkova - Self-Publish Your Book Your Way
+ - [https://violetanedkova.com](https://violetanedkova.com)
+ - date published: 2023-12-27T18:13:05.043655+00:00
+ - user: None
+ - tags: ['personal']
+
+## About Vipul Shekhawat
+ - [https://www.vipshek.com](https://www.vipshek.com)
+ - date published: 2023-10-25T17:56:50.234660+00:00
+ - user: None
+ - tags: []
+
+## Viraj Joshi – Designer, Technologist, Futurist
+ - [https://virajvjoshi.com](https://virajvjoshi.com)
+ - date published: 2024-01-07T04:15:13.535010+00:00
+ - user: None
+ - tags: []
+
+## viralinstruction
+ - [https://viralinstruction.com](https://viralinstruction.com)
+ - date published: 2023-10-25T17:56:50.835332+00:00
+ - user: None
+ - tags: []
+
+## https://www.virginiamercury.com
+ - [https://www.virginiamercury.com](https://www.virginiamercury.com)
+ - date published: 2023-11-04T03:07:08.777366+00:00
+ - user: None
+ - tags: []
+
+## Virtualization Howto - Virtualization Networking Cloud Enterprise
+ - [https://www.virtualizationhowto.com](https://www.virtualizationhowto.com)
+ - date published: 2023-10-25T17:56:54.921265+00:00
+ - user: None
+ - tags: []
+
+## https://virtuallyalibrarian.com
+ - [https://virtuallyalibrarian.com](https://virtuallyalibrarian.com)
+ - date published: 2024-02-08T16:34:18.041601+00:00
+ - user: None
+ - tags: []
+
+## Virtually Fun | Fun with Virtualization
+ - [https://virtuallyfun.com](https://virtuallyfun.com)
+ - date published: 2023-10-25T17:57:25.943395+00:00
+ - user: None
+ - tags: []
+
+## Patrick Sauerwein | @virtual_patrick
+ - [https://virtualpatrick.com](https://virtualpatrick.com)
+ - date published: 2024-02-09T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## Virtual Reality Oasis
+ - [https://virtualrealityoasis.com](https://virtualrealityoasis.com)
+ - date published: 2023-11-27T16:12:28+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
+
+## Virtual Uncle - VR, XR, AR Curated News & Releases
+ - [https://virtualuncle.com](https://virtualuncle.com)
+ - date published: 2023-10-25T17:57:29.714238+00:00
+ - user: None
+ - tags: ['tech news', 'virtual reality']
+
+## Vishnu Menon
+ - [https://vishnumenon.com](https://vishnumenon.com)
+ - date published: 2023-10-25T08:48:21.110375+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Visionary CTO | Matt Watson | Substack
+ - [https://blog.visionarycto.com](https://blog.visionarycto.com)
+ - date published: 2023-10-25T17:57:32.350119+00:00
+ - user: None
+ - tags: []
+
+## Sweden – a destination <br>of a different nature
+ - [https://visitsweden.com](https://visitsweden.com)
+ - date published: 2023-10-29T13:00:54.024158+00:00
+ - user: None
+ - tags: []
+
+## Visual Fonts – Type Good Pictures
+ - [https://visual-fonts.com](https://visual-fonts.com)
+ - date published: 2023-10-25T17:57:36.728693+00:00
+ - user: None
+ - tags: []
+
+## Visual Capitalist
+ - [https://www.visualcapitalist.com](https://www.visualcapitalist.com)
+ - date published: 2023-10-25T10:39:33.539082+00:00
+ - user: None
+ - tags: []
+
+## VisualPDE | Interactive live solutions of PDE systems, right on your device
+ - [https://visualpde.com](https://visualpde.com)
+ - date published: 2023-10-25T17:57:37.518948+00:00
+ - user: None
+ - tags: []
+
+## Visual Studio Code - Code Editing. Redefined
+ - [https://code.visualstudio.com](https://code.visualstudio.com)
+ - date published: 2023-10-25T17:57:39.109407+00:00
+ - user: None
+ - tags: ['ide', 'visual studio']
+
+## Developer Community
+ - [https://developercommunity.visualstudio.com](https://developercommunity.visualstudio.com)
+ - date published: 2023-10-25T17:57:41.357962+00:00
+ - user: None
+ - tags: []
+
+## Visual Studio Magazine Home -- Visual Studio Magazine
+ - [https://visualstudiomagazine.com](https://visualstudiomagazine.com)
+ - date published: 2023-10-25T17:57:48.493438+00:00
+ - user: None
+ - tags: []
+
+## Viswagyan -
+ - [https://viswagyan.com](https://viswagyan.com)
+ - date published: 2023-12-30T09:16:45.834804+00:00
+ - user: None
+ - tags: []
+
+## Vita Coco
+ - [https://vitacoco.com](https://vitacoco.com)
+ - date published: 2024-02-23T17:49:00.504180+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://now.vitalyobukhov.com](https://now.vitalyobukhov.com)
+ - date published: 2023-12-20T21:32:00.927597+00:00
+ - user: None
+ - tags: ['personal']
+
+## vite-plugin-ssr
+ - [https://vite-plugin-ssr.com](https://vite-plugin-ssr.com)
+ - date published: 2023-10-25T17:57:51.712020+00:00
+ - user: None
+ - tags: []
+
+## Vivaldi Browser | Powerful, Personal and Private web browser
+ - [https://vivaldi.com](https://vivaldi.com)
+ - date published: 2023-10-25T08:40:37.885818+00:00
+ - user: None
+ - tags: ['web browser']
+
+## Vivek Haldar
+ - [https://blog.vivekhaldar.com](https://blog.vivekhaldar.com)
+ - date published: 2023-10-25T17:57:53.859667+00:00
+ - user: None
+ - tags: []
+
+## Vivek Panyam
+ - [https://blog.vivekpanyam.com](https://blog.vivekpanyam.com)
+ - date published: 2023-12-29T22:49:51.039108+00:00
+ - user: None
+ - tags: []
+
+## Words of Wisdom
+ - [https://vivekwisdom.com](https://vivekwisdom.com)
+ - date published: 2024-01-09T21:37:26.210572+00:00
+ - user: None
+ - tags: []
+
+## Vivid Maps - Maps that explain the World
+ - [https://vividmaps.com](https://vividmaps.com)
+ - date published: 2023-10-25T17:57:56.121309+00:00
+ - user: None
+ - tags: []
+
+## Vivian Qu
+ - [https://vivqu.com](https://vivqu.com)
+ - date published: 2023-10-25T17:57:56.937671+00:00
+ - user: None
+ - tags: []
+
+## VIZ: The Best in Manga, Anime & Global Entertainment
+ - [https://www.viz.com](https://www.viz.com)
+ - date published: 2023-10-31T15:37:59.527773+00:00
+ - user: None
+ - tags: []
+
+## VK | Welcome!
+ - [https://vk.com](https://vk.com)
+ - date published: 2024-02-24T10:02:17.545756+00:00
+ - user: None
+ - tags: []
+
+## Summer Afternoon
+ - [https://summer-afternoon.vlucendo.com](https://summer-afternoon.vlucendo.com)
+ - date published: 2023-10-25T17:57:57.354906+00:00
+ - user: None
+ - tags: []
+
 ## VMware News & Stories
  - [https://news.vmware.com](https://news.vmware.com)
  - date published: 2023-12-12T22:18:12.429315+00:00
@@ -982,6 +1187,12 @@
  - user: None
  - tags: ['personal']
 
+## Wescott Design Services
+ - [https://www.wescottdesign.com](https://www.wescottdesign.com)
+ - date published: 2024-02-26T15:43:08.170695+00:00
+ - user: None
+ - tags: []
+
 ## Site Not Available
  - [https://www.wesh.com](https://www.wesh.com)
  - date published: 2024-01-09T02:53:53.104196+00:00
@@ -1153,6 +1364,12 @@
 ## What Lisa Cooks
  - [https://www.whatlisacooks.com](https://www.whatlisacooks.com)
  - date published: 2023-10-25T18:03:33.421482+00:00
+ - user: None
+ - tags: []
+
+## Whatnot: Buy, Sell & Go Live
+ - [https://whatnot.com](https://whatnot.com)
+ - date published: 2024-02-26T00:44:46.941624+00:00
  - user: None
  - tags: []
 
@@ -5243,6 +5460,12 @@
  - user: None
  - tags: []
 
+## Future landscapes | Future landscapes
+ - [https://www.futurelandscapes.cz](https://www.futurelandscapes.cz)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Školní nábytek | Gambero
  - [https://www.gambero.cz](https://www.gambero.cz)
  - date published: 2024-02-08T16:51:08.243523+00:00
@@ -5775,231 +5998,6 @@ home
 ## Datawrapper Blog
  - [https://blog.datawrapper.de](https://blog.datawrapper.de)
  - date published: 2023-10-25T18:29:23.861867+00:00
- - user: None
- - tags: []
-
-## Blogless — Writing Articles online without a Blog
- - [https://blogless.datenbrei.de](https://blogless.datenbrei.de)
- - date published: 2023-10-25T18:29:26.642822+00:00
- - user: None
- - tags: []
-
-## lists.denx.de Mailing Lists
- - [https://lists.denx.de](https://lists.denx.de)
- - date published: 2023-10-25T18:29:27.869041+00:00
- - user: None
- - tags: []
-
-## Deutschlands größtes Beschleunigerzentrum - Deutsches Elektronen-Synchrotron DESY
- - [https://www.desy.de](https://www.desy.de)
- - date published: 2023-10-25T18:29:33.914611+00:00
- - user: None
- - tags: []
-
-## Bücherantiquariat vor allem von Kinderbüchern von Christine und Detlef 
-Heinsohn
- - [https://www.detlef-heinsohn.de](https://www.detlef-heinsohn.de)
- - date published: 2024-02-08T22:04:05.568193+00:00
- - user: None
- - tags: []
-
-## deutschland.de - Your link to Germany
- - [https://www.deutschland.de](https://www.deutschland.de)
- - date published: 2023-10-25T18:29:41.108581+00:00
- - user: None
- - tags: []
-
-## :: DJ TOBANDER - Official Website ::
- - [https://dj-tobander.de](https://dj-tobander.de)
- - date published: 2024-01-12T02:34:43.341559+00:00
- - user: None
- - tags: []
-
-## German Cancer Research Center
- - [https://www.dkfz.de](https://www.dkfz.de)
- - date published: 2023-10-25T18:30:06.376806+00:00
- - user: None
- - tags: []
-
-## e-basteln
- - [https://www.e-basteln.de](https://www.e-basteln.de)
- - date published: 2023-10-25T18:30:07.534543+00:00
- - user: None
- - tags: []
-
-## Startseite - Econtribute
- - [https://www.econtribute.de](https://www.econtribute.de)
- - date published: 2023-10-25T18:30:10.727479+00:00
- - user: None
- - tags: []
-
-## Fabian Kleiser
- - [https://www.fabian-keller.de](https://www.fabian-keller.de)
- - date published: 2023-12-27T01:00:18.809608+00:00
- - user: None
- - tags: ['personal']
-
-## FACTOR 5
- - [http://www.factor5.de](http://www.factor5.de)
- - date published: 2023-11-02T10:55:33.784420+00:00
- - user: None
- - tags: ['amiga']
-
-## fantotal.de Onlineshop für Merchandise | CDs Vinyl | Gothic Metal Pun
- - [https://fantotal.de](https://fantotal.de)
- - date published: 2023-11-13T09:40:58.541752+00:00
- - user: None
- - tags: ['music', 'shop']
-
-## Lemmymap - a lemmy federation map
- - [https://lemmymap.feddit.de](https://lemmymap.feddit.de)
- - date published: 2023-10-25T18:30:11.155382+00:00
- - user: None
- - tags: []
-
-## felix fisgus | Felix Fisgus
- - [https://felixfisgus.de](https://felixfisgus.de)
- - date published: 2023-10-25T18:30:12.186826+00:00
- - user: None
- - tags: []
-
-## Felix Geisendörfer
- - [https://blog.felixge.de](https://blog.felixge.de)
- - date published: 2023-10-25T18:30:14.021327+00:00
- - user: None
- - tags: []
-
-## Fenix Magazin - Početna
- - [https://fenix-magazin.de](https://fenix-magazin.de)
- - date published: 2023-10-30T19:00:12.736074+00:00
- - user: None
- - tags: []
-
-## feststelltaste – About Legacy Systems, Software Analytics and the Fundamental Problems of Software Engineering
- - [https://www.feststelltaste.de](https://www.feststelltaste.de)
- - date published: 2023-10-25T18:30:19.967784+00:00
- - user: None
- - tags: []
-
-## Florian Heidenreich – Indie Software Developer from Dresden
- - [https://fheidenreich.de](https://fheidenreich.de)
- - date published: 2024-01-07T17:48:40.202500+00:00
- - user: None
- - tags: []
-
-## Finanz-Designerin: Finanziell frei in 5 Jahren.
- - [https://www.finanz-designerin.de](https://www.finanz-designerin.de)
- - date published: 2024-02-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Formfacade - 
-        
-        Customize Google Forms UI
- - [https://formfaca.de](https://formfaca.de)
- - date published: 2024-02-08T22:06:36.088214+00:00
- - user: None
- - tags: []
-
-## Nachrichten aus Deutschland und der Welt | Frankfurter Rundschau
- - [https://www.fr.de](https://www.fr.de)
- - date published: 2023-11-28T20:39:40+00:00
- - user: rumpel
- - tags: ['german news', 'politic news']
-
-## Franzi.Flows - Franzi.Flows
- - [https://franziflows.de](https://franziflows.de)
- - date published: 2024-01-11T20:48:30.425372+00:00
- - user: None
- - tags: []
-
-## Startseite Fraunhofer-Gesellschaft
- - [https://www.fraunhofer.de](https://www.fraunhofer.de)
- - date published: 2023-10-25T18:30:27.906517+00:00
- - user: None
- - tags: []
-
-## Fraunhofer IISB (English)
- - [https://www.iisb.fraunhofer.de](https://www.iisb.fraunhofer.de)
- - date published: 2023-10-25T18:30:29.853786+00:00
- - user: None
- - tags: []
-
-## Forschen für die Energiewende - Fraunhofer-Institut für Solare Energiesysteme ISE -  Fraunhofer ISE
- - [https://www.ise.fraunhofer.de](https://www.ise.fraunhofer.de)
- - date published: 2023-10-25T18:30:39.964840+00:00
- - user: None
- - tags: []
-
-## FRUNC – Schnall den Rucksack um, Ulf. Ich glaub, es geht los!
- - [https://frunc.de](https://frunc.de)
- - date published: 2023-10-25T18:30:43.652219+00:00
- - user: None
- - tags: []
-
-## Freie Universität Berlin
- - [https://www.fu-berlin.de](https://www.fu-berlin.de)
- - date published: 2023-12-09T18:18:33.454348+00:00
- - user: None
- - tags: []
-
-## Informatik
- - [https://www.inf.fu-berlin.de](https://www.inf.fu-berlin.de)
- - date published: 2024-02-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## John-F.-Kennedy-Institut: Startseite
- - [https://www.jfki.fu-berlin.de](https://www.jfki.fu-berlin.de)
- - date published: 2023-10-25T18:30:45.808648+00:00
- - user: None
- - tags: []
-
-## German Amiga Community :: Index
- - [https://www.german-amiga-community.de](https://www.german-amiga-community.de)
- - date published: 2024-01-09T02:56:14.964245+00:00
- - user: None
- - tags: []
-
-## GNU Pascal
- - [https://www.gnu-pascal.de](https://www.gnu-pascal.de)
- - date published: 2023-10-25T18:30:47.993234+00:00
- - user: None
- - tags: []
-
-## Gorilla Sun
- - [https://gorillasun.de](https://gorillasun.de)
- - date published: 2023-10-25T18:30:51.098785+00:00
- - user: None
- - tags: []
-
-## Beglaubigung OpenPGP-Schlüssel
- - [https://pgp.governikus.de](https://pgp.governikus.de)
- - date published: 2023-10-25T18:30:54.264820+00:00
- - user: None
- - tags: []
-
-## Grönauer Infos
- - [https://www.groenauer-infos.de](https://www.groenauer-infos.de)
- - date published: 2023-11-16T18:10:42.478283+00:00
- - user: None
- - tags: []
-
-## Personaldienstleister: IT, Engineering, Life Science
- - [https://www.gulp.de](https://www.gulp.de)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## H2FLY - Realizes hydrogen-powered zero-emission aviation.
- - [https://www.h2fly.de](https://www.h2fly.de)
- - date published: 2023-10-25T18:30:56.863209+00:00
- - user: None
- - tags: []
-
-## HanNet: Welcome to HanNet e.V.
- - [https://www.han.de](https://www.han.de)
- - date published: 2023-10-25T18:30:58.302906+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,27 @@
+## Scott Redmond
+ - [https://www.scottredmond.ca](https://www.scottredmond.ca)
+ - date published: 2024-01-23T03:27:52.039443+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Second Egress: Building a Code Change
+ - [https://secondegress.ca](https://secondegress.ca)
+ - date published: 2023-10-25T12:06:36.332747+00:00
+ - user: None
+ - tags: []
+
+## SEO Agency in Ottawa, Canada | SEO Services | SEO North
+ - [https://seonorth.ca](https://seonorth.ca)
+ - date published: 2023-10-25T12:06:42.751440+00:00
+ - user: None
+ - tags: ['company', 'seo']
+
+## GrUVi - Home
+ - [https://gruvi.cs.sfu.ca](https://gruvi.cs.sfu.ca)
+ - date published: 2023-11-25T18:10:18.335704+00:00
+ - user: None
+ - tags: []
+
 ## Simon Fraser University
  - [https://www.sfu.ca](https://www.sfu.ca)
  - date published: 2023-10-25T11:20:42.106068+00:00
@@ -915,6 +939,12 @@
 ## ETH Zürich - Homepage | ETH Zürich
  - [https://ethz.ch](https://ethz.ch)
  - date published: 2023-10-25T12:13:42.696984+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science
+ - [https://inf.ethz.ch](https://inf.ethz.ch)
+ - date published: 2024-02-21T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3222,6 +3252,12 @@
  - user: None
  - tags: []
 
+## 411MANIA | 411mania’s Comment Policy
+ - [https://411mania.com](https://411mania.com)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## 42nd Indiana Volunteer Infantry
  - [https://www.42ndindiana.com](https://www.42ndindiana.com)
  - date published: 2024-02-08T16:33:06.239796+00:00
@@ -4097,6 +4133,12 @@
  - date published: 2024-01-16T19:08:45+00:00
  - user: rumpel
  - tags: ['rss']
+
+## Show HN: AboutIdeasNow – search /about, /ideas, /now pages of 7k+ personal sites
+ - [https://aboutideasnow.com](https://aboutideasnow.com)
+ - date published: 2024-02-26T14:39:40+00:00
+ - user: None
+ - tags: []
 
 ## Home - Robinhood Newsroom
  - [https://newsroom.aboutrobinhood.com](https://newsroom.aboutrobinhood.com)
@@ -5959,46 +6001,4 @@
  - date published: 2024-01-09T02:29:15.441946+00:00
  - user: None
  - tags: []
-
-## Voyage Nature, Voyage sur-mesure en Europe et dans le monde - Amatera
- - [https://www.amatera-voyages.com](https://www.amatera-voyages.com)
- - date published: 2023-12-18T17:12:48.020264+00:00
- - user: None
- - tags: []
-
-## Amazing CTO | How to be amazing
- - [https://www.amazingcto.com](https://www.amazingcto.com)
- - date published: 2023-10-25T12:39:41.113441+00:00
- - user: None
- - tags: []
-
-## Cloud Computing Services - Amazon Web Services (AWS)
- - [https://aws.amazon.com](https://aws.amazon.com)
- - date published: 2023-10-25T08:26:20.778203+00:00
- - user: None
- - tags: []
-
-## https://docs.aws.amazon.com
- - [https://docs.aws.amazon.com](https://docs.aws.amazon.com)
- - date published: 2024-01-09T02:29:17.996634+00:00
- - user: None
- - tags: []
-
-## None
- - [https://music.amazon.com](https://music.amazon.com)
- - date published: 2024-02-24T00:18:04.538425+00:00
- - user: None
- - tags: []
-
-## Amazon Kindle: Your free personal library you can take anywhere
- - [https://read.amazon.com](https://read.amazon.com)
- - date published: 2023-11-01T08:41:30.861997+00:00
- - user: None
- - tags: []
-
-## Amazon.com. Spend less. Smile more.
- - [https://www.amazon.com](https://www.amazon.com)
- - date published: 2023-10-24T20:20:03.290504+00:00
- - user: None
- - tags: ['company', 'gatekeeper', 'digital marketplace']
 

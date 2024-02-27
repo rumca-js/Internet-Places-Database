@@ -1,3 +1,228 @@
+## Blogless — Writing Articles online without a Blog
+ - [https://blogless.datenbrei.de](https://blogless.datenbrei.de)
+ - date published: 2023-10-25T18:29:26.642822+00:00
+ - user: None
+ - tags: []
+
+## lists.denx.de Mailing Lists
+ - [https://lists.denx.de](https://lists.denx.de)
+ - date published: 2023-10-25T18:29:27.869041+00:00
+ - user: None
+ - tags: []
+
+## Deutschlands größtes Beschleunigerzentrum - Deutsches Elektronen-Synchrotron DESY
+ - [https://www.desy.de](https://www.desy.de)
+ - date published: 2023-10-25T18:29:33.914611+00:00
+ - user: None
+ - tags: []
+
+## Bücherantiquariat vor allem von Kinderbüchern von Christine und Detlef 
+Heinsohn
+ - [https://www.detlef-heinsohn.de](https://www.detlef-heinsohn.de)
+ - date published: 2024-02-08T22:04:05.568193+00:00
+ - user: None
+ - tags: []
+
+## deutschland.de - Your link to Germany
+ - [https://www.deutschland.de](https://www.deutschland.de)
+ - date published: 2023-10-25T18:29:41.108581+00:00
+ - user: None
+ - tags: []
+
+## :: DJ TOBANDER - Official Website ::
+ - [https://dj-tobander.de](https://dj-tobander.de)
+ - date published: 2024-01-12T02:34:43.341559+00:00
+ - user: None
+ - tags: []
+
+## German Cancer Research Center
+ - [https://www.dkfz.de](https://www.dkfz.de)
+ - date published: 2023-10-25T18:30:06.376806+00:00
+ - user: None
+ - tags: []
+
+## e-basteln
+ - [https://www.e-basteln.de](https://www.e-basteln.de)
+ - date published: 2023-10-25T18:30:07.534543+00:00
+ - user: None
+ - tags: []
+
+## Startseite - Econtribute
+ - [https://www.econtribute.de](https://www.econtribute.de)
+ - date published: 2023-10-25T18:30:10.727479+00:00
+ - user: None
+ - tags: []
+
+## Fabian Kleiser
+ - [https://www.fabian-keller.de](https://www.fabian-keller.de)
+ - date published: 2023-12-27T01:00:18.809608+00:00
+ - user: None
+ - tags: ['personal']
+
+## FACTOR 5
+ - [http://www.factor5.de](http://www.factor5.de)
+ - date published: 2023-11-02T10:55:33.784420+00:00
+ - user: None
+ - tags: ['amiga']
+
+## fantotal.de Onlineshop für Merchandise | CDs Vinyl | Gothic Metal Pun
+ - [https://fantotal.de](https://fantotal.de)
+ - date published: 2023-11-13T09:40:58.541752+00:00
+ - user: None
+ - tags: ['music', 'shop']
+
+## Lemmymap - a lemmy federation map
+ - [https://lemmymap.feddit.de](https://lemmymap.feddit.de)
+ - date published: 2023-10-25T18:30:11.155382+00:00
+ - user: None
+ - tags: []
+
+## felix fisgus | Felix Fisgus
+ - [https://felixfisgus.de](https://felixfisgus.de)
+ - date published: 2023-10-25T18:30:12.186826+00:00
+ - user: None
+ - tags: []
+
+## Felix Geisendörfer
+ - [https://blog.felixge.de](https://blog.felixge.de)
+ - date published: 2023-10-25T18:30:14.021327+00:00
+ - user: None
+ - tags: []
+
+## Fenix Magazin - Početna
+ - [https://fenix-magazin.de](https://fenix-magazin.de)
+ - date published: 2023-10-30T19:00:12.736074+00:00
+ - user: None
+ - tags: []
+
+## feststelltaste – About Legacy Systems, Software Analytics and the Fundamental Problems of Software Engineering
+ - [https://www.feststelltaste.de](https://www.feststelltaste.de)
+ - date published: 2023-10-25T18:30:19.967784+00:00
+ - user: None
+ - tags: []
+
+## Florian Heidenreich – Indie Software Developer from Dresden
+ - [https://fheidenreich.de](https://fheidenreich.de)
+ - date published: 2024-01-07T17:48:40.202500+00:00
+ - user: None
+ - tags: []
+
+## Finanz-Designerin: Finanziell frei in 5 Jahren.
+ - [https://www.finanz-designerin.de](https://www.finanz-designerin.de)
+ - date published: 2024-02-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Formfacade - 
+        
+        Customize Google Forms UI
+ - [https://formfaca.de](https://formfaca.de)
+ - date published: 2024-02-08T22:06:36.088214+00:00
+ - user: None
+ - tags: []
+
+## Nachrichten aus Deutschland und der Welt | Frankfurter Rundschau
+ - [https://www.fr.de](https://www.fr.de)
+ - date published: 2023-11-28T20:39:40+00:00
+ - user: rumpel
+ - tags: ['german news', 'politic news']
+
+## Franzi.Flows - Franzi.Flows
+ - [https://franziflows.de](https://franziflows.de)
+ - date published: 2024-01-11T20:48:30.425372+00:00
+ - user: None
+ - tags: []
+
+## Startseite Fraunhofer-Gesellschaft
+ - [https://www.fraunhofer.de](https://www.fraunhofer.de)
+ - date published: 2023-10-25T18:30:27.906517+00:00
+ - user: None
+ - tags: []
+
+## Fraunhofer IISB (English)
+ - [https://www.iisb.fraunhofer.de](https://www.iisb.fraunhofer.de)
+ - date published: 2023-10-25T18:30:29.853786+00:00
+ - user: None
+ - tags: []
+
+## Forschen für die Energiewende - Fraunhofer-Institut für Solare Energiesysteme ISE -  Fraunhofer ISE
+ - [https://www.ise.fraunhofer.de](https://www.ise.fraunhofer.de)
+ - date published: 2023-10-25T18:30:39.964840+00:00
+ - user: None
+ - tags: []
+
+## FRUNC – Schnall den Rucksack um, Ulf. Ich glaub, es geht los!
+ - [https://frunc.de](https://frunc.de)
+ - date published: 2023-10-25T18:30:43.652219+00:00
+ - user: None
+ - tags: []
+
+## Freie Universität Berlin
+ - [https://www.fu-berlin.de](https://www.fu-berlin.de)
+ - date published: 2023-12-09T18:18:33.454348+00:00
+ - user: None
+ - tags: []
+
+## Informatik
+ - [https://www.inf.fu-berlin.de](https://www.inf.fu-berlin.de)
+ - date published: 2024-02-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## John-F.-Kennedy-Institut: Startseite
+ - [https://www.jfki.fu-berlin.de](https://www.jfki.fu-berlin.de)
+ - date published: 2023-10-25T18:30:45.808648+00:00
+ - user: None
+ - tags: []
+
+## German Amiga Community :: Index
+ - [https://www.german-amiga-community.de](https://www.german-amiga-community.de)
+ - date published: 2024-01-09T02:56:14.964245+00:00
+ - user: None
+ - tags: []
+
+## GNU Pascal
+ - [https://www.gnu-pascal.de](https://www.gnu-pascal.de)
+ - date published: 2023-10-25T18:30:47.993234+00:00
+ - user: None
+ - tags: []
+
+## Gorilla Sun
+ - [https://gorillasun.de](https://gorillasun.de)
+ - date published: 2023-10-25T18:30:51.098785+00:00
+ - user: None
+ - tags: []
+
+## Beglaubigung OpenPGP-Schlüssel
+ - [https://pgp.governikus.de](https://pgp.governikus.de)
+ - date published: 2023-10-25T18:30:54.264820+00:00
+ - user: None
+ - tags: []
+
+## Grönauer Infos
+ - [https://www.groenauer-infos.de](https://www.groenauer-infos.de)
+ - date published: 2023-11-16T18:10:42.478283+00:00
+ - user: None
+ - tags: []
+
+## Personaldienstleister: IT, Engineering, Life Science
+ - [https://www.gulp.de](https://www.gulp.de)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## H2FLY - Realizes hydrogen-powered zero-emission aviation.
+ - [https://www.h2fly.de](https://www.h2fly.de)
+ - date published: 2023-10-25T18:30:56.863209+00:00
+ - user: None
+ - tags: []
+
+## HanNet: Welcome to HanNet e.V.
+ - [https://www.han.de](https://www.han.de)
+ - date published: 2023-10-25T18:30:58.302906+00:00
+ - user: None
+ - tags: []
+
 ## NetBSD server
  - [http://sun.hasenbraten.de](http://sun.hasenbraten.de)
  - date published: 2023-12-11T18:28:22.437329+00:00
@@ -1796,6 +2021,12 @@
 ## 404 - Not Found
  - [https://playlists.dags.dev](https://playlists.dags.dev)
  - date published: 2024-01-09T02:56:57.228309+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Darwin – Automate Your GitHub Project with AI
+ - [https://darwin-ai.dev](https://darwin-ai.dev)
+ - date published: 2024-02-26T17:33:06+00:00
  - user: None
  - tags: []
 
@@ -4070,6 +4301,12 @@
  - user: None
  - tags: ['demoscene']
 
+## Arnon Shimoni
+ - [https://arnon.dk](https://arnon.dk)
+ - date published: 2024-02-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Consent-O-Matic
  - [https://consentomatic.au.dk](https://consentomatic.au.dk)
  - date published: 2023-10-25T18:44:57.884515+00:00
@@ -5773,240 +6010,6 @@
 ## MIT Haystack Observatory - Radio science & technology research center
  - [https://www.haystack.mit.edu](https://www.haystack.mit.edu)
  - date published: 2023-10-25T18:55:07.021253+00:00
- - user: None
- - tags: []
-
-## Homepage | MIT Lincoln Laboratory
- - [https://www.ll.mit.edu](https://www.ll.mit.edu)
- - date published: 2023-10-25T18:55:14.624029+00:00
- - user: None
- - tags: []
-
-## News + Updates – MIT Media Lab
- - [https://www.media.mit.edu](https://www.media.mit.edu)
- - date published: 2024-01-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## More crop per drop | MIT - Massachusetts Institute of Technology
- - [https://www.mit.edu](https://www.mit.edu)
- - date published: 2023-10-25T18:55:16.546253+00:00
- - user: None
- - tags: []
-
-## Lens: Expert topical commentary, pioneering research - Monash University
- - [https://lens.monash.edu](https://lens.monash.edu)
- - date published: 2023-12-11T11:12:50.679402+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.monash.edu](https://www.monash.edu)
- - date published: 2023-10-31T10:59:13.130253+00:00
- - user: None
- - tags: []
-
-## https://clip.msu.edu
- - [https://clip.msu.edu](https://clip.msu.edu)
- - date published: 2024-02-08T17:44:08.623151+00:00
- - user: None
- - tags: []
-
-## homepage | Forest Akers Golf Courses
- - [https://golf.msu.edu](https://golf.msu.edu)
- - date published: 2024-01-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://msutoday.msu.edu
- - [https://msutoday.msu.edu](https://msutoday.msu.edu)
- - date published: 2023-12-23T11:36:25.043855+00:00
- - user: None
- - tags: []
-
-## Middle Tennessee State University | Middle Tennessee State University
- - [https://www.mtsu.edu](https://www.mtsu.edu)
- - date published: 2023-10-25T18:55:21.754876+00:00
- - user: None
- - tags: []
-
-## NC State News
- - [https://news.ncsu.edu](https://news.ncsu.edu)
- - date published: 2023-10-25T18:55:26.541930+00:00
- - user: None
- - tags: []
-
-## Notre Dame News | University of Notre Dame
- - [https://news.nd.edu](https://news.nd.edu)
- - date published: 2023-10-25T18:55:35.076777+00:00
- - user: None
- - tags: []
-
-## NDSU - North Dakota State University
- - [https://www.ndsu.edu](https://www.ndsu.edu)
- - date published: 2023-10-25T18:55:39.000458+00:00
- - user: None
- - tags: []
-
-## NJIT News
- - [https://news.njit.edu](https://news.njit.edu)
- - date published: 2023-12-24T14:21:23.481370+00:00
- - user: None
- - tags: []
-
-## Catron County Extension Office Home
- - [https://catronextension.nmsu.edu](https://catronextension.nmsu.edu)
- - date published: 2024-02-08T17:58:40.694600+00:00
- - user: None
- - tags: []
-
-## Welcome to Hobbes
- - [https://hobbes.nmsu.edu](https://hobbes.nmsu.edu)
- - date published: 2024-01-09T21:08:23.894605+00:00
- - user: None
- - tags: []
-
-## NOIRLab / NSF’s National Optical-IR Astronomy Research Laboratory
- - [https://noirlab.edu](https://noirlab.edu)
- - date published: 2024-01-09T02:59:27.072163+00:00
- - user: None
- - tags: []
-
-## Northeastern Global News - News, Discovery, and Analysis from Around the World
- - [https://news.northeastern.edu](https://news.northeastern.edu)
- - date published: 2023-10-25T18:55:44.990462+00:00
- - user: None
- - tags: []
-
-## Home - Programming Research Laboratory - Northeastern University
- - [https://prl.khoury.northeastern.edu](https://prl.khoury.northeastern.edu)
- - date published: 2023-10-25T18:55:46.864652+00:00
- - user: None
- - tags: []
-
-## Feinstein Institutes for Medical Research | Northwell Health
- - [https://feinstein.northwell.edu](https://feinstein.northwell.edu)
- - date published: 2023-10-25T18:55:49.028133+00:00
- - user: None
- - tags: []
-
-## None
- - [https://faculty.wcas.northwestern.edu](https://faculty.wcas.northwestern.edu)
- - date published: 2024-02-03T21:26:18.664044+00:00
- - user: None
- - tags: []
-
-## Main Home - News Center
- - [https://news.feinberg.northwestern.edu](https://news.feinberg.northwestern.edu)
- - date published: 2023-10-25T18:55:55.307920+00:00
- - user: None
- - tags: []
-
-## Northwestern Now News
- - [https://news.northwestern.edu](https://news.northwestern.edu)
- - date published: 2023-10-25T18:56:08.345374+00:00
- - user: None
- - tags: []
-
-## NRAO at AAS 243 New Orleans - January 2024 — Science Website
- - [https://science.nrao.edu](https://science.nrao.edu)
- - date published: 2024-01-15T01:25:31.960705+00:00
- - user: None
- - tags: []
-
-## OSIRIS Lab at NYU Tandon
- - [https://blog.osiris.cyber.nyu.edu](https://blog.osiris.cyber.nyu.edu)
- - date published: 2023-10-25T18:56:14.326050+00:00
- - user: None
- - tags: []
-
-## Institute | NYU Courant
- - [https://cims.nyu.edu](https://cims.nyu.edu)
- - date published: 2023-10-25T18:56:17.174439+00:00
- - user: None
- - tags: []
-
-## Welcome to Pages at the Stern School of Business, New York University
- - [https://pages.stern.nyu.edu](https://pages.stern.nyu.edu)
- - date published: 2024-01-09T03:27:46.632899+00:00
- - user: None
- - tags: []
-
-## https://physics.nyu.edu
- - [https://physics.nyu.edu](https://physics.nyu.edu)
- - date published: 2024-01-09T03:27:52.463967+00:00
- - user: None
- - tags: []
-
-## NYU
- - [https://www.nyu.edu](https://www.nyu.edu)
- - date published: 2023-10-25T18:56:19.949944+00:00
- - user: None
- - tags: []
-
-## https://bookstore.occc.edu
- - [https://bookstore.occc.edu](https://bookstore.occc.edu)
- - date published: 2024-02-08T21:52:39.432927+00:00
- - user: None
- - tags: []
-
-## Welcome to Ohio University
- - [https://www.ohio.edu](https://www.ohio.edu)
- - date published: 2023-10-25T18:56:22.621409+00:00
- - user: None
- - tags: ['university']
-
-## CSE
- - [https://web.cse.ohio-state.edu](https://web.cse.ohio-state.edu)
- - date published: 2023-10-25T18:56:24.315200+00:00
- - user: None
- - tags: []
-
-## Home | College of Arts and Sciences
- - [https://www.asc.ohio-state.edu](https://www.asc.ohio-state.edu)
- - date published: 2024-01-11T18:56:17.405128+00:00
- - user: None
- - tags: []
-
-## Home | OHSU News
- - [https://news.ohsu.edu](https://news.ohsu.edu)
- - date published: 2023-10-25T18:56:26.525047+00:00
- - user: None
- - tags: []
-
-## Distance Learning Courses and Adult Education - The Open University
- - [https://www.open.edu](https://www.open.edu)
- - date published: 2023-10-25T18:56:29.084298+00:00
- - user: None
- - tags: []
-
-## Dental Alumni Society
- - [https://das.alumni.osu.edu](https://das.alumni.osu.edu)
- - date published: 2024-02-08T17:42:16.788473+00:00
- - user: None
- - tags: []
-
-## Ohio State News
- - [https://news.osu.edu](https://news.osu.edu)
- - date published: 2023-10-25T18:56:36.422788+00:00
- - user: None
- - tags: []
-
-## PlantFacts · Welcome · PlantFacts.osu.edu
- - [https://plantfacts.osu.edu](https://plantfacts.osu.edu)
- - date published: 2024-02-08T22:53:17.623276+00:00
- - user: None
- - tags: []
-
-## Social Psychology Perspectives – Applying social psychology to the world around us
- - [https://socialpsych.blogs.pace.edu](https://socialpsych.blogs.pace.edu)
- - date published: 2023-10-25T18:56:44.098429+00:00
- - user: None
- - tags: []
-
-## Peninsula College presents a podcast honoring the work of the influential American poet and short story writer, Raymond Carver from the last town he called home: Port Angeles, Washington. You can listen here on our Episode page. You can also find us on Stitcher, Google Podcasts, Apple Podcasts, Spotify, and more. In each regular episode, | Raymond Carver Podcast
- - [https://raymondcarverpodcast.pencol.edu](https://raymondcarverpodcast.pencol.edu)
- - date published: 2023-10-31T19:57:35.429326+00:00
  - user: None
  - tags: []
 
