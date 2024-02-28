@@ -1,3 +1,219 @@
+## Lounge Ruminator
+ - [https://loungeruminator.net](https://loungeruminator.net)
+ - date published: 2023-12-26T06:32:03.438248+00:00
+ - user: None
+ - tags: ['personal']
+
+## Julien Guertault (Zavie)
+ - [https://lousodrome.net](https://lousodrome.net)
+ - date published: 2023-11-01T08:43:55.529677+00:00
+ - user: None
+ - tags: []
+
+## Lowering the Bar
+ - [https://www.loweringthebar.net](https://www.loweringthebar.net)
+ - date published: 2024-01-23T19:10:53.266729+00:00
+ - user: None
+ - tags: []
+
+## Lowyat.NET | Technology News Malaysia
+ - [https://www.lowyat.net](https://www.lowyat.net)
+ - date published: 2023-10-25T20:33:11.272378+00:00
+ - user: None
+ - tags: []
+
+## LUCIDBOX
+ - [https://lucidbox.net](https://lucidbox.net)
+ - date published: 2023-10-25T20:33:16.621214+00:00
+ - user: None
+ - tags: []
+
+## Lukas Rosenstock's Blog
+ - [https://lukasrosenstock.net](https://lukasrosenstock.net)
+ - date published: 2023-10-25T09:23:15.450577+00:00
+ - user: None
+ - tags: ['personal']
+
+## Łukasz Wójcik, Blog
+ - [https://blog.lukaszwojcik.net](https://blog.lukaszwojcik.net)
+ - date published: 2024-01-01T09:41:19.790752+00:00
+ - user: None
+ - tags: []
+
+## Łukasz Wójcik - software engineer
+ - [https://lukaszwojcik.net](https://lukaszwojcik.net)
+ - date published: 2023-12-14T01:20:17.921823+00:00
+ - user: None
+ - tags: ['personal']
+
+## Lutris - Open Gaming Platform
+ - [https://lutris.net](https://lutris.net)
+ - date published: 2023-10-25T08:35:41.232931+00:00
+ - user: None
+ - tags: []
+
+## Luxagraf: thoughts on ecology, culture, travel, photography, walking and other ephemera
+ - [https://luxagraf.net](https://luxagraf.net)
+ - date published: 2024-01-09T11:07:21.549562+00:00
+ - user: None
+ - tags: []
+
+## Welcome to LWN.net [LWN.net]
+ - [https://lwn.net](https://lwn.net)
+ - date published: 2023-10-25T20:33:18.171971+00:00
+ - user: None
+ - tags: []
+
+## Amiga Graphics Archive
+ - [https://amiga.lychesis.net](https://amiga.lychesis.net)
+ - date published: 2023-10-30T10:13:32.873579+00:00
+ - user: None
+ - tags: ['amiga', 'retro games']
+
+## Home - Lyonsden Blog
+ - [https://lyonsden.net](https://lyonsden.net)
+ - date published: 2023-10-25T11:19:07.342674+00:00
+ - user: None
+ - tags: []
+
+## Introducing Cheetah: A Lightweight Virtual Machine Manager for macOS | Cheetah
+ - [https://macspot.net](https://macspot.net)
+ - date published: 2023-10-25T20:33:19.344039+00:00
+ - user: None
+ - tags: []
+
+## Mad Camp! (coming 2024 stay tuned)
+ - [https://www.madcamp.net](https://www.madcamp.net)
+ - date published: 2023-12-20T09:12:49.749827+00:00
+ - user: None
+ - tags: []
+
+## MADEBYAL
+ - [https://www.madebyal.net](https://www.madebyal.net)
+ - date published: 2023-11-29T14:44:40.937041+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home
+ - [https://www.mannyvallarino.net](https://www.mannyvallarino.net)
+ - date published: 2023-12-14T01:27:54.207135+00:00
+ - user: None
+ - tags: ['personal']
+
+## Man Things
+ - [https://manthings.net](https://manthings.net)
+ - date published: 2024-01-04T03:32:56.183567+00:00
+ - user: None
+ - tags: []
+
+## The Map of the Universe
+ - [https://mapoftheuniverse.net](https://mapoftheuniverse.net)
+ - date published: 2023-10-25T08:25:19.111191+00:00
+ - user: None
+ - tags: []
+
+## N=1 (marcua’s blog) | I’m the Co-Founder and CTO of B12, where we’re building a better future of creative and analytical work. Before that, I was Director of Data at Locu, a startup that was acquired by GoDaddy. I went to grad school at MIT’s CSAIL. One time in Jerusalem I ate a whole tub of hummus on my own. I don’t regret that day.
+ - [https://blog.marcua.net](https://blog.marcua.net)
+ - date published: 2023-10-25T20:33:20.374918+00:00
+ - user: None
+ - tags: []
+
+## Marijuana Moment - All your cannabis news, in one place
+ - [https://www.marijuanamoment.net](https://www.marijuanamoment.net)
+ - date published: 2023-10-25T20:33:26.925572+00:00
+ - user: None
+ - tags: []
+
+## Mark Carrigan
+ - [https://markcarrigan.net](https://markcarrigan.net)
+ - date published: 2023-11-21T11:09:36.282019+00:00
+ - user: None
+ - tags: ['blog', 'personal']
+
+## Mark Smart
+ - [http://www.marksmart.net](http://www.marksmart.net)
+ - date published: 2023-11-15T17:40:13.256468+00:00
+ - user: None
+ - tags: ['personal']
+
+## The No-9to5-Guy Austria > Remote work and flexible lifestyle!
+ - [https://www.markusraab.net](https://www.markusraab.net)
+ - date published: 2023-11-29T14:41:21.924083+00:00
+ - user: None
+ - tags: ['personal']
+
+## Maryse's Book Blog - Following my heart, one book at a time...
+ - [https://www.maryse.net](https://www.maryse.net)
+ - date published: 2024-01-23T13:42:58+00:00
+ - user: rumpel
+ - tags: ['book reviews']
+
+## MathOverflow
+ - [https://mathoverflow.net](https://mathoverflow.net)
+ - date published: 2023-10-25T20:33:30.026920+00:00
+ - user: None
+ - tags: []
+
+## Recent Discussions - Matrix Fans Official Forum
+ - [https://forums.matrixfans.net](https://forums.matrixfans.net)
+ - date published: 2023-10-25T16:24:25.044961+00:00
+ - user: None
+ - tags: []
+
+## Matrix Fans - The Matrix Resurrections News, Trailers, Posters
+ - [https://www.matrixfans.net](https://www.matrixfans.net)
+ - date published: 2023-10-25T16:23:48.175925+00:00
+ - user: None
+ - tags: []
+
+## Matt Wynne
+ - [https://mattwynne.net](https://mattwynne.net)
+ - date published: 2023-10-25T08:53:05.442698+00:00
+ - user: None
+ - tags: ['personal']
+
+## Maze Generator
+ - [https://mazegenerator.net](https://mazegenerator.net)
+ - date published: 2023-12-22T09:11:08+00:00
+ - user: None
+ - tags: []
+
+## McQN.net
+ - [https://www.mcqn.net](https://www.mcqn.net)
+ - date published: 2003-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## McSweeney’s Internet Tendency
+ - [https://www.mcsweeneys.net](https://www.mcsweeneys.net)
+ - date published: 2023-10-25T20:33:32.469274+00:00
+ - user: None
+ - tags: []
+
+## MCToon
+ - [https://mctoon.net](https://mctoon.net)
+ - date published: 2023-10-25T20:33:39.743559+00:00
+ - user: None
+ - tags: ['flat earth']
+
+## Medievalists.net - Where the Middle Ages Begin
+ - [https://www.medievalists.net](https://www.medievalists.net)
+ - date published: 2023-10-25T20:33:42.220747+00:00
+ - user: None
+ - tags: []
+
+## Men Rights India - Fight against Legal Terrorism
+ - [https://menrightsindia.net](https://menrightsindia.net)
+ - date published: 2023-10-25T20:33:43.991054+00:00
+ - user: None
+ - tags: []
+
+## MenuetOS
+ - [https://menuetos.net](https://menuetos.net)
+ - date published: 2023-10-25T08:32:01.277687+00:00
+ - user: None
+ - tags: []
+
 ## MenuetOS
  - [https://www.menuetos.net](https://www.menuetos.net)
  - date published: 2023-10-29T22:06:17.393907+00:00
@@ -2261,6 +2477,12 @@
  - user: None
  - tags: []
 
+## Send Large Files - Free Secure File Transfer - TransferNow
+ - [https://www.transfernow.net](https://www.transfernow.net)
+ - date published: 2024-02-27T20:00:22+00:00
+ - user: rumpel
+ - tags: ['file sharing']
+
 ## Transputer.net
  - [https://transputer.net](https://transputer.net)
  - date published: 2024-01-07T14:41:29+00:00
@@ -2546,6 +2768,12 @@
 ## Watch The Watchers
  - [https://watchthewatchers.net](https://watchthewatchers.net)
  - date published: 2023-10-25T20:40:05.454416+00:00
+ - user: None
+ - tags: []
+
+## Wax: The Word Processor for the Web
+ - [https://waxjs.net](https://waxjs.net)
+ - date published: 2024-02-26T22:50:50+00:00
  - user: None
  - tags: []
 
@@ -5769,234 +5997,6 @@ marginalia.nu
 ## https://www.apacalifornia.org
  - [https://www.apacalifornia.org](https://www.apacalifornia.org)
  - date published: 2024-02-08T19:57:31.961208+00:00
- - user: None
- - tags: []
-
-## Welcome to The Apache Software Foundation!
- - [https://apache.org](https://apache.org)
- - date published: 2023-12-08T15:54:41+00:00
- - user: rumpel
- - tags: []
-
-## Apache APISIX® -- Cloud-Native API Gateway
- - [https://apisix.apache.org](https://apisix.apache.org)
- - date published: 2023-10-25T20:57:27.495040+00:00
- - user: None
- - tags: []
-
-## Apache Arrow | Apache Arrow
- - [https://arrow.apache.org](https://arrow.apache.org)
- - date published: 2023-10-25T20:57:33.670630+00:00
- - user: None
- - tags: []
-
-## Apache Baremaps - Apache Baremaps
- - [https://baremaps.apache.org](https://baremaps.apache.org)
- - date published: 2023-10-25T20:57:39.542922+00:00
- - user: None
- - tags: []
-
-## Blogs Archive | This is an archive of the Roller blogs that were previously hosted on blogs.apache.org
- - [https://blogs.apache.org](https://blogs.apache.org)
- - date published: 2023-10-25T20:58:07.343179+00:00
- - user: None
- - tags: []
-
-## Dashboard - Apache Software Foundation
- - [https://cwiki.apache.org](https://cwiki.apache.org)
- - date published: 2023-10-25T20:58:13.723236+00:00
- - user: None
- - tags: []
-
-## Apache Doris: Open-Source Real-Time Data Warehouse - Apache Doris
- - [https://doris.apache.org](https://doris.apache.org)
- - date published: 2023-10-25T20:58:16.050231+00:00
- - user: None
- - tags: []
-
-## Apache Hadoop
- - [https://hadoop.apache.org](https://hadoop.apache.org)
- - date published: 2023-06-23T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## Welcome! - The Apache HTTP Server Project
- - [https://httpd.apache.org](https://httpd.apache.org)
- - date published: 2023-10-25T08:35:23.292622+00:00
- - user: None
- - tags: []
-
-## Hello from Apache Hudi | Apache Hudi
- - [https://hudi.apache.org](https://hudi.apache.org)
- - date published: 2024-01-18T07:35:20+00:00
- - user: rumpel
- - tags: ['big data']
-
-## Apache Iceberg
- - [https://iceberg.apache.org](https://iceberg.apache.org)
- - date published: 2000-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['big data']
-
-## Apache Logging Services
- - [https://logging.apache.org](https://logging.apache.org)
- - date published: 2023-10-25T20:58:16.999501+00:00
- - user: None
- - tags: []
-
-## Welcome to Apache Lucene
- - [https://lucene.apache.org](https://lucene.apache.org)
- - date published: 2024-01-28T08:12:17+00:00
- - user: rumpel
- - tags: ['open source', 'search engine', 'self host']
-
-## Maven – Welcome to Apache Maven
- - [https://maven.apache.org](https://maven.apache.org)
- - date published: 2023-12-08T15:53:15+00:00
- - user: rumpel
- - tags: []
-
-## Netbeans
- - [https://netbeans.apache.org](https://netbeans.apache.org)
- - date published: 2023-12-02T09:10:29+00:00
- - user: rumpel
- - tags: ['ide']
-
-## The Apache Software Foundation Blog
- - [https://news.apache.org](https://news.apache.org)
- - date published: 2023-10-25T08:36:41.438322+00:00
- - user: None
- - tags: []
-
-## home.apache.org
- - [https://people.apache.org](https://people.apache.org)
- - date published: 2023-10-25T20:58:17.974296+00:00
- - user: None
- - tags: []
-
-## Apache Pinot™: Realtime distributed OLAP datastore | Apache Pinot™
- - [https://pinot.apache.org](https://pinot.apache.org)
- - date published: 2023-10-25T20:58:19.613396+00:00
- - user: None
- - tags: []
-
-## Welcome to Apache Solr - Apache Solr
- - [https://solr.apache.org](https://solr.apache.org)
- - date published: 2023-10-25T20:58:20.722292+00:00
- - user: None
- - tags: []
-
-## Apache Superset
- - [https://superset.apache.org](https://superset.apache.org)
- - date published: 2024-02-26T14:36:35+00:00
- - user: None
- - tags: []
-
-## Apartheid Museum
- - [https://www.apartheidmuseum.org](https://www.apartheidmuseum.org)
- - date published: 2023-11-13T13:41:16.309026+00:00
- - user: None
- - tags: ['museum']
-
-## The Internet Shutdown Game
- - [https://shutdowngame.apc.org](https://shutdowngame.apc.org)
- - date published: 2023-12-08T08:40:07+00:00
- - user: None
- - tags: []
-
-## Association for Progressive Communications | Internet for social justice and sustainable development
- - [https://www.apc.org](https://www.apc.org)
- - date published: 2023-12-08T12:42:22+00:00
- - user: rumpel
- - tags: ['social justice', 'human rights']
-
-## Special Projects from APM Reports
- - [https://features.apmreports.org](https://features.apmreports.org)
- - date published: 2023-10-25T20:58:27.503889+00:00
- - user: None
- - tags: []
-
-## Apollo in Real Time
- - [https://apolloinrealtime.org](https://apolloinrealtime.org)
- - date published: 2023-10-25T20:58:29.154906+00:00
- - user: None
- - tags: []
-
-## The App Fair Project | appfair.org
- - [https://appfair.org](https://appfair.org)
- - date published: 2023-10-25T20:58:30.062730+00:00
- - user: None
- - tags: []
-
-## Physical Review Journals
- - [https://journals.aps.org](https://journals.aps.org)
- - date published: 2023-10-25T20:58:32.037342+00:00
- - user: None
- - tags: []
-
-## Physics - spotlighting exceptional research
- - [https://physics.aps.org](https://physics.aps.org)
- - date published: 2023-10-25T20:58:34.154258+00:00
- - user: None
- - tags: []
-
-## APS Physics | American Physical Society
- - [https://www.aps.org](https://www.aps.org)
- - date published: 2023-10-25T20:58:37.121202+00:00
- - user: None
- - tags: []
-
-## APT Browse - Home
- - [https://www.apt-browse.org](https://www.apt-browse.org)
- - date published: 2023-10-25T20:58:43.373403+00:00
- - user: None
- - tags: []
-
-## Beijing Air Pollution: Real-time Air Quality Index
- - [https://aqicn.org](https://aqicn.org)
- - date published: 2023-10-25T20:58:48.998676+00:00
- - user: None
- - tags: []
-
-## Archaeology - Archaeology Magazine
- - [https://www.archaeology.org](https://www.archaeology.org)
- - date published: 2023-10-27T12:06:24.724348+00:00
- - user: None
- - tags: []
-
-## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
- - [https://archive.org](https://archive.org)
- - date published: 2023-10-25T09:29:04.093943+00:00
- - user: None
- - tags: ['internet archive']
-
-## Internet Archive: Secret service
- - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
- - date published: 2023-10-27T14:37:50+00:00
- - user: rumpel
- - tags: ['magazine', 'retro']
-
-## Internet Archive Blogs | A blog from the team at archive.org
- - [https://blog.archive.org](https://blog.archive.org)
- - date published: 2023-10-25T09:29:16.005203+00:00
- - user: None
- - tags: []
-
-## The Great 78 Project – Community Preservation, Research, Discovery of 78rpm Records
- - [https://great78.archive.org](https://great78.archive.org)
- - date published: 2023-10-27T12:06:31.660655+00:00
- - user: None
- - tags: []
-
-## Directory listing for ia600700.us.archive.org
- - [https://ia600700.us.archive.org](https://ia600700.us.archive.org)
- - date published: 2023-10-25T20:59:13.402630+00:00
- - user: None
- - tags: []
-
-## Directory listing for ia601406.us.archive.org
- - [https://ia601406.us.archive.org](https://ia601406.us.archive.org)
- - date published: 2023-10-25T20:59:19.795275+00:00
  - user: None
  - tags: []
 

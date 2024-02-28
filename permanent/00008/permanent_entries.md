@@ -1,3 +1,75 @@
+## Fredrick Brennan – Medium
+ - [https://fredrickbrennan.medium.com](https://fredrickbrennan.medium.com)
+ - date published: 2023-10-25T10:20:17.725128+00:00
+ - user: None
+ - tags: []
+
+## Sara, CTRC-A, IFS – Medium
+ - [https://fullcirclewellspring.medium.com](https://fullcirclewellspring.medium.com)
+ - date published: 2024-02-08T22:20:24.261282+00:00
+ - user: None
+ - tags: []
+
+## fwsGonzo – Medium
+ - [https://fwsgonzo.medium.com](https://fwsgonzo.medium.com)
+ - date published: 2023-10-25T10:20:24.721924+00:00
+ - user: None
+ - tags: []
+
+## Ayush Singh – Medium
+ - [https://g147.medium.com](https://g147.medium.com)
+ - date published: 2023-10-25T10:20:26.675224+00:00
+ - user: None
+ - tags: []
+
+## ＧΛËＬ ＤＵＶΛＬ – Medium
+ - [https://gael-duval.medium.com](https://gael-duval.medium.com)
+ - date published: 2023-10-25T10:20:28.861577+00:00
+ - user: None
+ - tags: []
+
+## Chris Parnin – Medium
+ - [https://gameweld.medium.com](https://gameweld.medium.com)
+ - date published: 2023-10-25T10:20:30.941220+00:00
+ - user: None
+ - tags: []
+
+## Gatha Varma, PhD – Medium
+ - [https://gatha-varma.medium.com](https://gatha-varma.medium.com)
+ - date published: 2024-02-08T16:42:18.208872+00:00
+ - user: None
+ - tags: []
+
+## Glauber Costa – Medium
+ - [https://glaubercosta-11125.medium.com](https://glaubercosta-11125.medium.com)
+ - date published: 2023-10-25T10:20:33.543522+00:00
+ - user: None
+ - tags: []
+
+## Guidione Machava – Medium
+ - [https://guidione-machava.medium.com](https://guidione-machava.medium.com)
+ - date published: 2024-02-08T18:45:20.489726+00:00
+ - user: None
+ - tags: []
+
+## Rez Harditya – Medium
+ - [https://harditya.medium.com](https://harditya.medium.com)
+ - date published: 2024-02-08T16:28:24.787394+00:00
+ - user: None
+ - tags: []
+
+## Henry Ward – Medium
+ - [https://henrysward.medium.com](https://henrysward.medium.com)
+ - date published: 2024-01-08T00:57:08.537094+00:00
+ - user: None
+ - tags: []
+
+## Grace Huang – Medium
+ - [https://imgracehuang.medium.com](https://imgracehuang.medium.com)
+ - date published: 2023-10-25T10:20:35.581391+00:00
+ - user: None
+ - tags: []
+
 ## Index
  - [https://index.medium.com](https://index.medium.com)
  - date published: 2023-10-25T10:20:38.107205+00:00
@@ -844,6 +916,12 @@
  - user: None
  - tags: ['personal']
 
+## MergeYourData.com | The Data Sidekicks for Manufacturing Marketers
+ - [https://www.mergeyourdata.com](https://www.mergeyourdata.com)
+ - date published: 2024-02-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Merlin Star's Website – My current skill set and where I blog about various things.
  - [https://merlinjstar.com](https://merlinjstar.com)
  - date published: 2024-01-06T21:27:07.525100+00:00
@@ -1203,6 +1281,12 @@
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: ['personal']
+
+## Michael Horowitz - Personal Web Site
+ - [https://www.michaelhorowitz.com](https://www.michaelhorowitz.com)
+ - date published: 2024-02-16T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## None
  - [https://michaellabelle.com](https://michaellabelle.com)
@@ -4247,6 +4331,18 @@
  - user: None
  - tags: []
 
+## NewssMex
+ - [http://www.newssmex.com](http://www.newssmex.com)
+ - date published: 2024-02-27T12:33:40.005835+00:00
+ - user: None
+ - tags: []
+
+## NewssMex
+ - [https://www.newssmex.com](https://www.newssmex.com)
+ - date published: 2024-02-27T12:34:22.767672+00:00
+ - user: None
+ - tags: []
+
 ## News Source Guyana
  - [https://newssourcegy.com](https://newssourcegy.com)
  - date published: 2023-12-07T14:53:10.302726+00:00
@@ -5905,102 +6001,6 @@ Answering Machine Greetings!
 ## Semiconductor Technology News & Analysis | The Ojo-Yoshida Report
  - [https://ojoyoshidareport.com](https://ojoyoshidareport.com)
  - date published: 2024-01-16T23:54:46.699985+00:00
- - user: None
- - tags: []
-
-## Okavango Delta - For a soulful luxury safari in Botswana
- - [https://www.okavango.com](https://www.okavango.com)
- - date published: 2024-02-08T16:59:10.989638+00:00
- - user: None
- - tags: []
-
-## Oklahoma City News, Weather, Sports, Breaking News | KOKH
- - [https://okcfox.com](https://okcfox.com)
- - date published: 2023-11-12T03:19:07.648289+00:00
- - user: None
- - tags: []
-
-## oklahoman.com: Local News, Politics & Sports in Oklahoma City, OK
- - [https://www.oklahoman.com](https://www.oklahoman.com)
- - date published: 2024-01-07T20:03:21.629277+00:00
- - user: None
- - tags: []
-
-## Home | Okta Developer
- - [https://developer.okta.com](https://developer.okta.com)
- - date published: 2023-10-25T16:25:11.442571+00:00
- - user: None
- - tags: []
-
-## Articles (Page 1 of 9) | Okta Security
- - [https://sec.okta.com](https://sec.okta.com)
- - date published: 2023-10-25T16:25:12.911081+00:00
- - user: None
- - tags: []
-
-## Okta Help Center (Lightning)
- - [https://support.okta.com](https://support.okta.com)
- - date published: 2023-10-25T16:25:15.663008+00:00
- - user: None
- - tags: []
-
-## Employee and Customer Identity Solutions | Okta
- - [https://www.okta.com](https://www.okta.com)
- - date published: 2023-10-25T16:25:18.525570+00:00
- - user: None
- - tags: []
-
-## Old'aVista
- - [https://oldavista.com](https://oldavista.com)
- - date published: 1988-01-01T00:00:00+00:00
- - user: None
- - tags: ['retro internet']
-
-## Old Bridge Music index page
- - [https://www.oldbridgemusic.com](https://www.oldbridgemusic.com)
- - date published: 2024-02-08T16:27:48.281396+00:00
- - user: None
- - tags: []
-
-## Old Capital Golf Club | Corydon Golf Courses | Corydon Public Golf
- - [https://oldcapitalgolf.com](https://oldcapitalgolf.com)
- - date published: 2024-02-08T22:08:24.159437+00:00
- - user: None
- - tags: []
-
-## Old Games Download - Abandonware and Retrogaming
- - [https://oldgamesdownload.com](https://oldgamesdownload.com)
- - date published: 2023-10-25T16:33:49.666375+00:00
- - user: None
- - tags: ['command and conquer', 'abandonware', 'game roms', 'red alert', 'amiga', 'atari']
-
-## The Old Operating Theatre
- - [https://oldoperatingtheatre.com](https://oldoperatingtheatre.com)
- - date published: 2023-10-25T16:25:23.309950+00:00
- - user: None
- - tags: []
-
-## Optimal Living Daily Podcasts - Home Page
- - [https://oldpodcast.com](https://oldpodcast.com)
- - date published: 2023-12-14T01:27:02.081623+00:00
- - user: None
- - tags: ['personal']
-
-## Old School Alex
- - [https://oldschoolalex.com](https://oldschoolalex.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Old School Game Blog
- - [https://oldschoolgameblog.com](https://oldschoolgameblog.com)
- - date published: 2023-10-27T14:21:42.288683+00:00
- - user: None
- - tags: ['amiga', 'demoscene', 'retro games']
-
-## Oliver Emberton
- - [https://oliveremberton.com](https://oliveremberton.com)
- - date published: 2023-10-25T16:25:26.557746+00:00
  - user: None
  - tags: []
 

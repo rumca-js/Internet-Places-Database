@@ -1,3 +1,51 @@
+## Discover Bluwr.
+ - [https://bluwr.com](https://bluwr.com)
+ - date published: 2023-11-27T13:41:29.738382+00:00
+ - user: None
+ - tags: []
+
+## Homepage | BJSM
+ - [https://bjsm.bmj.com](https://bjsm.bmj.com)
+ - date published: 2023-10-25T10:36:52.375517+00:00
+ - user: None
+ - tags: []
+
+## BMJ Blogs  BMJ Blogs - Insights and opinion on the latest news and research
+ - [https://blogs.bmj.com](https://blogs.bmj.com)
+ - date published: 2023-10-25T10:36:56.482885+00:00
+ - user: None
+ - tags: []
+
+## Homepage | BMJ Oncology
+ - [https://bmjoncology.bmj.com](https://bmjoncology.bmj.com)
+ - date published: 2023-10-25T13:07:13.553869+00:00
+ - user: None
+ - tags: []
+
+## Homepage | BMJ Open
+ - [https://bmjopen.bmj.com](https://bmjopen.bmj.com)
+ - date published: 2023-11-21T13:29:50.036206+00:00
+ - user: None
+ - tags: []
+
+## Homepage | General Psychiatry
+ - [https://gpsych.bmj.com](https://gpsych.bmj.com)
+ - date published: 2023-12-06T08:54:41.995826+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Gut
+ - [https://gut.bmj.com](https://gut.bmj.com)
+ - date published: 2023-12-27T03:06:16.958407+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Journal of Epidemiology and Community Health (JECH)
+ - [https://jech.bmj.com](https://jech.bmj.com)
+ - date published: 2023-11-02T01:27:19.579767+00:00
+ - user: None
+ - tags: []
+
 ## Homepage | Regional Anesthesia & Pain Medicine
  - [https://rapm.bmj.com](https://rapm.bmj.com)
  - date published: 2024-02-01T00:00:00+00:00
@@ -5963,52 +6011,4 @@
  - date published: 2014-01-01T00:00:00+00:00
  - user: rumpel
  - tags: ['spyware vendor']
-
-## Identity Security and Access Management Leader | CyberArk
- - [https://www.cyberark.com](https://www.cyberark.com)
- - date published: 2023-10-25T13:39:46.301517+00:00
- - user: None
- - tags: []
-
-## CyberITHub | Inspiring the Next Gen
- - [https://www.cyberithub.com](https://www.cyberithub.com)
- - date published: 2023-10-25T13:40:04.009553+00:00
- - user: None
- - tags: []
-
-## https://cybernews.com
- - [https://cybernews.com](https://cybernews.com)
- - date published: 2023-10-25T13:40:05.348254+00:00
- - user: None
- - tags: []
-
-## CyberScoop | Breaking Cybersecurity News, Public Sector Threats
- - [https://cyberscoop.com](https://cyberscoop.com)
- - date published: 2023-10-25T13:40:15.802236+00:00
- - user: None
- - tags: []
-
-## CyberScoop | Breaking Cybersecurity News, Public Sector Threats
- - [https://www.cyberscoop.com](https://www.cyberscoop.com)
- - date published: 2023-10-25T13:40:21.998052+00:00
- - user: None
- - tags: []
-
-## Cybersecurity News and Analysis | Cybersecurity Dive
- - [https://www.cybersecuritydive.com](https://www.cybersecuritydive.com)
- - date published: 2023-10-25T13:40:26.024155+00:00
- - user: None
- - tags: []
-
-## Cyber Security News - Latest Hacker and Security News Today
- - [https://cybersecuritynews.com](https://cybersecuritynews.com)
- - date published: 2023-10-25T13:40:33.886453+00:00
- - user: None
- - tags: []
-
-## CYBERTEC | PostgreSQL Services & Support
- - [https://www.cybertec-postgresql.com](https://www.cybertec-postgresql.com)
- - date published: 2023-10-25T13:40:39.530468+00:00
- - user: None
- - tags: []
 

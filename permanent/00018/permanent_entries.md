@@ -1,3 +1,213 @@
+## Posterity - Everyone needs a plan.
+ - [https://posterity.life](https://posterity.life)
+ - date published: 2023-10-25T20:18:20.839473+00:00
+ - user: None
+ - tags: []
+
+## proto.life: The Neobiological Frontier
+ - [https://proto.life](https://proto.life)
+ - date published: 2021-05-28T13:55:35+00:00
+ - user: None
+ - tags: []
+
+## RETURN | Substack
+ - [https://return.life](https://return.life)
+ - date published: 2023-10-25T20:18:24.096295+00:00
+ - user: None
+ - tags: []
+
+## Tushar's Blog
+ - [https://sadh.life](https://sadh.life)
+ - date published: 2023-10-25T08:59:28.425834+00:00
+ - user: None
+ - tags: ['personal']
+
+## SizeOf.Life
+ - [https://sizeof.life](https://sizeof.life)
+ - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Weeks of Your Life
+ - [https://www.weeksofyour.life](https://www.weeksofyour.life)
+ - date published: 2023-12-24T15:06:56+00:00
+ - user: None
+ - tags: []
+
+## yuke.life
+ - [https://yuke.life](https://yuke.life)
+ - date published: 2023-11-29T16:19:10.381713+00:00
+ - user: None
+ - tags: ['personal']
+
+## BlinderKitten
+ - [http://blinderkitten.lighting](http://blinderkitten.lighting)
+ - date published: 2023-10-25T20:18:25.187517+00:00
+ - user: None
+ - tags: []
+
+## Vitalik Buterin's website
+ - [https://vitalik.eth.limo](https://vitalik.eth.limo)
+ - date published: 2023-10-25T08:59:30.996681+00:00
+ - user: None
+ - tags: ['personal']
+
+## Believe - Serving independent artists and labels at each stage of their career and development
+ - [https://bfan.link](https://bfan.link)
+ - date published: 2023-12-11T15:49:06.226441+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://www.c-r.link](https://www.c-r.link)
+ - date published: 2024-02-24T14:39:38.678105+00:00
+ - user: None
+ - tags: []
+
+## CDM Create Digital Music - Create digital music, motion, and more.
+ - [https://cdm.link](https://cdm.link)
+ - date published: 2023-10-25T20:18:28.057200+00:00
+ - user: None
+ - tags: ['keygen', 'audio eqipment', 'audio news', 'chiptune']
+
+## Free Video Hosting Made Easy - Dubz Platform
+ - [https://dubz.link](https://dubz.link)
+ - date published: 2023-11-05T07:07:53.519389+00:00
+ - user: None
+ - tags: []
+
+## AnyBT
+ - [https://anybt.eth.link](https://anybt.eth.link)
+ - date published: 2024-01-09T03:34:06.616735+00:00
+ - user: None
+ - tags: []
+
+## gptoverflow | Questions
+ - [https://www.gptoverflow.link](https://www.gptoverflow.link)
+ - date published: 2023-10-25T20:18:36.976348+00:00
+ - user: None
+ - tags: []
+
+## Holy Grail
+ - [https://holygrail.link](https://holygrail.link)
+ - date published: 2023-12-13T16:05:24.251172+00:00
+ - user: None
+ - tags: []
+
+## JERAD HILL - DIGITAL MARKETER, YOUTUBER, CREATOR, HUSBAND, FATHER, PILOT, AMERICAN 🇺🇸
+ - [https://jerad.link](https://jerad.link)
+ - date published: 2024-01-09T00:12:39.762016+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://playwt.link](https://playwt.link)
+ - date published: 2024-02-27T03:24:23.282950+00:00
+ - user: None
+ - tags: []
+
+## pod.link | Share a Podcast
+ - [https://pod.link](https://pod.link)
+ - date published: 2024-01-09T03:34:12.465235+00:00
+ - user: None
+ - tags: []
+
+## Songlink/Odesli
+ - [https://song.link](https://song.link)
+ - date published: 2023-12-21T19:06:26+00:00
+ - user: rumpel
+ - tags: ['music', 'link service']
+
+## https://viralnation.link
+ - [https://viralnation.link](https://viralnation.link)
+ - date published: 2024-01-25T23:56:16.145438+00:00
+ - user: None
+ - tags: []
+
+## Ditto - Sync without internet
+ - [https://www.ditto.live](https://www.ditto.live)
+ - date published: 2023-10-25T20:18:43.975066+00:00
+ - user: None
+ - tags: []
+
+## Live Video Chat With Your Website Visitors · Joyyo
+ - [https://hibox.live](https://hibox.live)
+ - date published: 2023-10-25T20:18:45.413550+00:00
+ - user: None
+ - tags: []
+
+## Is Github IPV6 Ready Yet? NO
+ - [https://isgithubipv6.live](https://isgithubipv6.live)
+ - date published: 2024-02-06T09:17:59.487530+00:00
+ - user: None
+ - tags: []
+
+## jott - landing
+ - [https://jott.live](https://jott.live)
+ - date published: 2023-10-25T20:18:53.019754+00:00
+ - user: None
+ - tags: []
+
+## LiveView Native
+ - [https://native.live](https://native.live)
+ - date published: 2023-10-25T20:18:54.280137+00:00
+ - user: None
+ - tags: []
+
+## Neovim Conf 2022
+ - [https://www.neovimconf.live](https://www.neovimconf.live)
+ - date published: 2023-10-25T20:18:55.238673+00:00
+ - user: None
+ - tags: []
+
+## OpenArena Live
+ - [https://openarena.live](https://openarena.live)
+ - date published: 2023-10-27T13:49:27.327714+00:00
+ - user: None
+ - tags: ['quake']
+
+## Presently - intuitive  insights into your time commitments.
+ - [https://presently.live](https://presently.live)
+ - date published: 2024-01-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Intro
+ - [https://usegpu.live](https://usegpu.live)
+ - date published: 2023-10-25T20:18:56.873594+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.vvna.live](https://www.vvna.live)
+ - date published: 2024-01-07T08:44:46.606393+00:00
+ - user: None
+ - tags: []
+
+## Scribblings of an introvert
+ - [https://yadukrishnan.live](https://yadukrishnan.live)
+ - date published: 2023-10-25T08:59:32.300933+00:00
+ - user: None
+ - tags: ['personal']
+
+## Justine Tunney's Web Page
+ - [https://justine.lol](https://justine.lol)
+ - date published: 2023-10-25T08:59:33.852013+00:00
+ - user: None
+ - tags: ['personal']
+
+## Looo.lol – a binary math site
+ - [https://looo.lol](https://looo.lol)
+ - date published: 2024-01-05T22:17:15+00:00
+ - user: None
+ - tags: []
+
+## https://mastodon.lol
+ - [https://mastodon.lol](https://mastodon.lol)
+ - date published: 2024-01-09T03:34:13.121723+00:00
+ - user: None
+ - tags: []
+
 ## Noted - Self Hosted App and Product Reviews
  - [https://noted.lol](https://noted.lol)
  - date published: 2023-10-25T20:19:04.323466+00:00
@@ -1108,6 +1318,12 @@
  - date published: 2023-10-25T08:50:36.037865+00:00
  - user: None
  - tags: ['personal']
+
+## Management Coach & Trainer for the Tech Industry | Lara Hogan
+ - [https://larahogan.me](https://larahogan.me)
+ - date published: 2016-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Daniel Lemire's blog
  - [https://lemire.me](https://lemire.me)
@@ -5783,222 +5999,6 @@ Buildings in Saint Louis, Missouri
 ## Cypherpunk Cogitations
  - [https://blog.lopp.net](https://blog.lopp.net)
  - date published: 2023-11-01T08:43:54.638506+00:00
- - user: None
- - tags: []
-
-## Lounge Ruminator
- - [https://loungeruminator.net](https://loungeruminator.net)
- - date published: 2023-12-26T06:32:03.438248+00:00
- - user: None
- - tags: ['personal']
-
-## Julien Guertault (Zavie)
- - [https://lousodrome.net](https://lousodrome.net)
- - date published: 2023-11-01T08:43:55.529677+00:00
- - user: None
- - tags: []
-
-## Lowering the Bar
- - [https://www.loweringthebar.net](https://www.loweringthebar.net)
- - date published: 2024-01-23T19:10:53.266729+00:00
- - user: None
- - tags: []
-
-## Lowyat.NET | Technology News Malaysia
- - [https://www.lowyat.net](https://www.lowyat.net)
- - date published: 2023-10-25T20:33:11.272378+00:00
- - user: None
- - tags: []
-
-## LUCIDBOX
- - [https://lucidbox.net](https://lucidbox.net)
- - date published: 2023-10-25T20:33:16.621214+00:00
- - user: None
- - tags: []
-
-## Lukas Rosenstock's Blog
- - [https://lukasrosenstock.net](https://lukasrosenstock.net)
- - date published: 2023-10-25T09:23:15.450577+00:00
- - user: None
- - tags: ['personal']
-
-## Łukasz Wójcik, Blog
- - [https://blog.lukaszwojcik.net](https://blog.lukaszwojcik.net)
- - date published: 2024-01-01T09:41:19.790752+00:00
- - user: None
- - tags: []
-
-## Łukasz Wójcik - software engineer
- - [https://lukaszwojcik.net](https://lukaszwojcik.net)
- - date published: 2023-12-14T01:20:17.921823+00:00
- - user: None
- - tags: ['personal']
-
-## Lutris - Open Gaming Platform
- - [https://lutris.net](https://lutris.net)
- - date published: 2023-10-25T08:35:41.232931+00:00
- - user: None
- - tags: []
-
-## Luxagraf: thoughts on ecology, culture, travel, photography, walking and other ephemera
- - [https://luxagraf.net](https://luxagraf.net)
- - date published: 2024-01-09T11:07:21.549562+00:00
- - user: None
- - tags: []
-
-## Welcome to LWN.net [LWN.net]
- - [https://lwn.net](https://lwn.net)
- - date published: 2023-10-25T20:33:18.171971+00:00
- - user: None
- - tags: []
-
-## Amiga Graphics Archive
- - [https://amiga.lychesis.net](https://amiga.lychesis.net)
- - date published: 2023-10-30T10:13:32.873579+00:00
- - user: None
- - tags: ['amiga', 'retro games']
-
-## Home - Lyonsden Blog
- - [https://lyonsden.net](https://lyonsden.net)
- - date published: 2023-10-25T11:19:07.342674+00:00
- - user: None
- - tags: []
-
-## Introducing Cheetah: A Lightweight Virtual Machine Manager for macOS | Cheetah
- - [https://macspot.net](https://macspot.net)
- - date published: 2023-10-25T20:33:19.344039+00:00
- - user: None
- - tags: []
-
-## Mad Camp! (coming 2024 stay tuned)
- - [https://www.madcamp.net](https://www.madcamp.net)
- - date published: 2023-12-20T09:12:49.749827+00:00
- - user: None
- - tags: []
-
-## MADEBYAL
- - [https://www.madebyal.net](https://www.madebyal.net)
- - date published: 2023-11-29T14:44:40.937041+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://www.mannyvallarino.net](https://www.mannyvallarino.net)
- - date published: 2023-12-14T01:27:54.207135+00:00
- - user: None
- - tags: ['personal']
-
-## Man Things
- - [https://manthings.net](https://manthings.net)
- - date published: 2024-01-04T03:32:56.183567+00:00
- - user: None
- - tags: []
-
-## The Map of the Universe
- - [https://mapoftheuniverse.net](https://mapoftheuniverse.net)
- - date published: 2023-10-25T08:25:19.111191+00:00
- - user: None
- - tags: []
-
-## N=1 (marcua’s blog) | I’m the Co-Founder and CTO of B12, where we’re building a better future of creative and analytical work. Before that, I was Director of Data at Locu, a startup that was acquired by GoDaddy. I went to grad school at MIT’s CSAIL. One time in Jerusalem I ate a whole tub of hummus on my own. I don’t regret that day.
- - [https://blog.marcua.net](https://blog.marcua.net)
- - date published: 2023-10-25T20:33:20.374918+00:00
- - user: None
- - tags: []
-
-## Marijuana Moment - All your cannabis news, in one place
- - [https://www.marijuanamoment.net](https://www.marijuanamoment.net)
- - date published: 2023-10-25T20:33:26.925572+00:00
- - user: None
- - tags: []
-
-## Mark Carrigan
- - [https://markcarrigan.net](https://markcarrigan.net)
- - date published: 2023-11-21T11:09:36.282019+00:00
- - user: None
- - tags: ['blog', 'personal']
-
-## Mark Smart
- - [http://www.marksmart.net](http://www.marksmart.net)
- - date published: 2023-11-15T17:40:13.256468+00:00
- - user: None
- - tags: ['personal']
-
-## The No-9to5-Guy Austria > Remote work and flexible lifestyle!
- - [https://www.markusraab.net](https://www.markusraab.net)
- - date published: 2023-11-29T14:41:21.924083+00:00
- - user: None
- - tags: ['personal']
-
-## Maryse's Book Blog - Following my heart, one book at a time...
- - [https://www.maryse.net](https://www.maryse.net)
- - date published: 2024-01-23T13:42:58+00:00
- - user: rumpel
- - tags: ['book reviews']
-
-## MathOverflow
- - [https://mathoverflow.net](https://mathoverflow.net)
- - date published: 2023-10-25T20:33:30.026920+00:00
- - user: None
- - tags: []
-
-## Recent Discussions - Matrix Fans Official Forum
- - [https://forums.matrixfans.net](https://forums.matrixfans.net)
- - date published: 2023-10-25T16:24:25.044961+00:00
- - user: None
- - tags: []
-
-## Matrix Fans - The Matrix Resurrections News, Trailers, Posters
- - [https://www.matrixfans.net](https://www.matrixfans.net)
- - date published: 2023-10-25T16:23:48.175925+00:00
- - user: None
- - tags: []
-
-## Matt Wynne
- - [https://mattwynne.net](https://mattwynne.net)
- - date published: 2023-10-25T08:53:05.442698+00:00
- - user: None
- - tags: ['personal']
-
-## Maze Generator
- - [https://mazegenerator.net](https://mazegenerator.net)
- - date published: 2023-12-22T09:11:08+00:00
- - user: None
- - tags: []
-
-## McQN.net
- - [https://www.mcqn.net](https://www.mcqn.net)
- - date published: 2003-01-01T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## McSweeney’s Internet Tendency
- - [https://www.mcsweeneys.net](https://www.mcsweeneys.net)
- - date published: 2023-10-25T20:33:32.469274+00:00
- - user: None
- - tags: []
-
-## MCToon
- - [https://mctoon.net](https://mctoon.net)
- - date published: 2023-10-25T20:33:39.743559+00:00
- - user: None
- - tags: ['flat earth']
-
-## Medievalists.net - Where the Middle Ages Begin
- - [https://www.medievalists.net](https://www.medievalists.net)
- - date published: 2023-10-25T20:33:42.220747+00:00
- - user: None
- - tags: []
-
-## Men Rights India - Fight against Legal Terrorism
- - [https://menrightsindia.net](https://menrightsindia.net)
- - date published: 2023-10-25T20:33:43.991054+00:00
- - user: None
- - tags: []
-
-## MenuetOS
- - [https://menuetos.net](https://menuetos.net)
- - date published: 2023-10-25T08:32:01.277687+00:00
  - user: None
  - tags: []
 

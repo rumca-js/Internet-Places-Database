@@ -1,3 +1,231 @@
+## Welcome to The Apache Software Foundation!
+ - [https://apache.org](https://apache.org)
+ - date published: 2023-12-08T15:54:41+00:00
+ - user: rumpel
+ - tags: []
+
+## Apache APISIX® -- Cloud-Native API Gateway
+ - [https://apisix.apache.org](https://apisix.apache.org)
+ - date published: 2023-10-25T20:57:27.495040+00:00
+ - user: None
+ - tags: []
+
+## Apache Arrow | Apache Arrow
+ - [https://arrow.apache.org](https://arrow.apache.org)
+ - date published: 2023-10-25T20:57:33.670630+00:00
+ - user: None
+ - tags: []
+
+## Apache Baremaps - Apache Baremaps
+ - [https://baremaps.apache.org](https://baremaps.apache.org)
+ - date published: 2023-10-25T20:57:39.542922+00:00
+ - user: None
+ - tags: []
+
+## Blogs Archive | This is an archive of the Roller blogs that were previously hosted on blogs.apache.org
+ - [https://blogs.apache.org](https://blogs.apache.org)
+ - date published: 2023-10-25T20:58:07.343179+00:00
+ - user: None
+ - tags: []
+
+## Dashboard - Apache Software Foundation
+ - [https://cwiki.apache.org](https://cwiki.apache.org)
+ - date published: 2023-10-25T20:58:13.723236+00:00
+ - user: None
+ - tags: []
+
+## Apache Doris: Open-Source Real-Time Data Warehouse - Apache Doris
+ - [https://doris.apache.org](https://doris.apache.org)
+ - date published: 2023-10-25T20:58:16.050231+00:00
+ - user: None
+ - tags: []
+
+## Apache Hadoop
+ - [https://hadoop.apache.org](https://hadoop.apache.org)
+ - date published: 2023-06-23T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
+## Welcome! - The Apache HTTP Server Project
+ - [https://httpd.apache.org](https://httpd.apache.org)
+ - date published: 2023-10-25T08:35:23.292622+00:00
+ - user: None
+ - tags: []
+
+## Hello from Apache Hudi | Apache Hudi
+ - [https://hudi.apache.org](https://hudi.apache.org)
+ - date published: 2024-01-18T07:35:20+00:00
+ - user: rumpel
+ - tags: ['big data']
+
+## Apache Iceberg
+ - [https://iceberg.apache.org](https://iceberg.apache.org)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['big data']
+
+## Apache Logging Services
+ - [https://logging.apache.org](https://logging.apache.org)
+ - date published: 2023-10-25T20:58:16.999501+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Apache Lucene
+ - [https://lucene.apache.org](https://lucene.apache.org)
+ - date published: 2024-01-28T08:12:17+00:00
+ - user: rumpel
+ - tags: ['open source', 'search engine', 'self host']
+
+## Maven – Welcome to Apache Maven
+ - [https://maven.apache.org](https://maven.apache.org)
+ - date published: 2023-12-08T15:53:15+00:00
+ - user: rumpel
+ - tags: []
+
+## Netbeans
+ - [https://netbeans.apache.org](https://netbeans.apache.org)
+ - date published: 2023-12-02T09:10:29+00:00
+ - user: rumpel
+ - tags: ['ide']
+
+## The Apache Software Foundation Blog
+ - [https://news.apache.org](https://news.apache.org)
+ - date published: 2023-10-25T08:36:41.438322+00:00
+ - user: None
+ - tags: []
+
+## home.apache.org
+ - [https://people.apache.org](https://people.apache.org)
+ - date published: 2023-10-25T20:58:17.974296+00:00
+ - user: None
+ - tags: []
+
+## Apache Pinot™: Realtime distributed OLAP datastore | Apache Pinot™
+ - [https://pinot.apache.org](https://pinot.apache.org)
+ - date published: 2023-10-25T20:58:19.613396+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Apache Solr - Apache Solr
+ - [https://solr.apache.org](https://solr.apache.org)
+ - date published: 2023-10-25T20:58:20.722292+00:00
+ - user: None
+ - tags: []
+
+## Apache Superset
+ - [https://superset.apache.org](https://superset.apache.org)
+ - date published: 2024-02-26T14:36:35+00:00
+ - user: None
+ - tags: ['data visualisation', 'big data']
+
+## Apartheid Museum
+ - [https://www.apartheidmuseum.org](https://www.apartheidmuseum.org)
+ - date published: 2023-11-13T13:41:16.309026+00:00
+ - user: None
+ - tags: ['museum']
+
+## The Internet Shutdown Game
+ - [https://shutdowngame.apc.org](https://shutdowngame.apc.org)
+ - date published: 2023-12-08T08:40:07+00:00
+ - user: None
+ - tags: []
+
+## Association for Progressive Communications | Internet for social justice and sustainable development
+ - [https://www.apc.org](https://www.apc.org)
+ - date published: 2023-12-08T12:42:22+00:00
+ - user: rumpel
+ - tags: ['social justice', 'human rights']
+
+## Special Projects from APM Reports
+ - [https://features.apmreports.org](https://features.apmreports.org)
+ - date published: 2023-10-25T20:58:27.503889+00:00
+ - user: None
+ - tags: []
+
+## Apollo in Real Time
+ - [https://apolloinrealtime.org](https://apolloinrealtime.org)
+ - date published: 2023-10-25T20:58:29.154906+00:00
+ - user: None
+ - tags: []
+
+## The App Fair Project | appfair.org
+ - [https://appfair.org](https://appfair.org)
+ - date published: 2023-10-25T20:58:30.062730+00:00
+ - user: None
+ - tags: []
+
+## Physical Review Journals
+ - [https://journals.aps.org](https://journals.aps.org)
+ - date published: 2023-10-25T20:58:32.037342+00:00
+ - user: None
+ - tags: []
+
+## Physics - spotlighting exceptional research
+ - [https://physics.aps.org](https://physics.aps.org)
+ - date published: 2023-10-25T20:58:34.154258+00:00
+ - user: None
+ - tags: []
+
+## APS Physics | American Physical Society
+ - [https://www.aps.org](https://www.aps.org)
+ - date published: 2023-10-25T20:58:37.121202+00:00
+ - user: None
+ - tags: []
+
+## APT Browse - Home
+ - [https://www.apt-browse.org](https://www.apt-browse.org)
+ - date published: 2023-10-25T20:58:43.373403+00:00
+ - user: None
+ - tags: []
+
+## Beijing Air Pollution: Real-time Air Quality Index
+ - [https://aqicn.org](https://aqicn.org)
+ - date published: 2023-10-25T20:58:48.998676+00:00
+ - user: None
+ - tags: []
+
+## Archaeology - Archaeology Magazine
+ - [https://www.archaeology.org](https://www.archaeology.org)
+ - date published: 2023-10-27T12:06:24.724348+00:00
+ - user: None
+ - tags: []
+
+## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
+ - [https://archive.org](https://archive.org)
+ - date published: 2023-10-25T09:29:04.093943+00:00
+ - user: None
+ - tags: ['internet archive']
+
+## Internet Archive: Secret service
+ - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
+ - date published: 2023-10-27T14:37:50+00:00
+ - user: rumpel
+ - tags: ['magazine', 'retro']
+
+## Internet Archive Blogs | A blog from the team at archive.org
+ - [https://blog.archive.org](https://blog.archive.org)
+ - date published: 2023-10-25T09:29:16.005203+00:00
+ - user: None
+ - tags: []
+
+## The Great 78 Project – Community Preservation, Research, Discovery of 78rpm Records
+ - [https://great78.archive.org](https://great78.archive.org)
+ - date published: 2023-10-27T12:06:31.660655+00:00
+ - user: None
+ - tags: []
+
+## Directory listing for ia600700.us.archive.org
+ - [https://ia600700.us.archive.org](https://ia600700.us.archive.org)
+ - date published: 2023-10-25T20:59:13.402630+00:00
+ - user: None
+ - tags: []
+
+## Directory listing for ia601406.us.archive.org
+ - [https://ia601406.us.archive.org](https://ia601406.us.archive.org)
+ - date published: 2023-10-25T20:59:19.795275+00:00
+ - user: None
+ - tags: []
+
 ## Directory listing for ia601707.us.archive.org
  - [https://ia601707.us.archive.org](https://ia601707.us.archive.org)
  - date published: 2023-10-25T20:59:20.976004+00:00
@@ -681,6 +909,12 @@
 ## Blender Projects
  - [https://projects.blender.org](https://projects.blender.org)
  - date published: 2023-10-25T21:03:01.728947+00:00
+ - user: None
+ - tags: []
+
+## Blender Studio
+ - [https://studio.blender.org](https://studio.blender.org)
+ - date published: 2024-02-27T11:28:37.893684+00:00
  - user: None
  - tags: []
 
@@ -2655,6 +2889,12 @@
  - user: None
  - tags: []
 
+## DÃ©googlisons Internet - Accueil
+ - [https://degooglisons-internet.org](https://degooglisons-internet.org)
+ - date published: 2024-02-27T12:44:55+00:00
+ - user: rumpel
+ - tags: ['degoogle']
+
 ## Deja Vu: (re-)creating web history
  - [https://www.dejavu.org](https://www.dejavu.org)
  - date published: 2023-10-25T21:13:58.736177+00:00
@@ -2862,6 +3102,12 @@
 ## Resolve a DOI Name
  - [https://dx.doi.org](https://dx.doi.org)
  - date published: 2023-12-03T01:17:58.110575+00:00
+ - user: None
+ - tags: []
+
+## Resolve a DOI Name
+ - [http://dx.doi.org](http://dx.doi.org)
+ - date published: 2024-02-27T01:04:33.113692+00:00
  - user: None
  - tags: []
 
@@ -4045,7 +4291,7 @@
  - [https://www.foobar2000.org](https://www.foobar2000.org)
  - date published: 2023-11-01T08:41:06.699661+00:00
  - user: None
- - tags: []
+ - tags: ['program']
 
 ## Forensic Architecture
  - [https://forensic-architecture.org](https://forensic-architecture.org)
@@ -5764,252 +6010,6 @@
 ## http://incise.org
  - [http://incise.org](http://incise.org)
  - date published: 2023-10-25T21:31:25.476725+00:00
- - user: None
- - tags: []
-
-## IndieWeb
- - [https://indieweb.org](https://indieweb.org)
- - date published: 2023-10-25T11:34:51.031707+00:00
- - user: None
- - tags: []
-
-## Institute for New Economic Thinking | Institute for New Economic Thinking
- - [https://www.ineteconomics.org](https://www.ineteconomics.org)
- - date published: 2023-10-25T21:31:33.465007+00:00
- - user: None
- - tags: []
-
-## Infiltration
- - [http://www.infiltration.org](http://www.infiltration.org)
- - date published: 2023-10-25T21:31:35.594354+00:00
- - user: None
- - tags: []
-
-## Infinite Mac
- - [https://infinitemac.org](https://infinitemac.org)
- - date published: 2023-10-25T21:31:41.996518+00:00
- - user: None
- - tags: []
-
-## Home - InfluenceWatch - InfluenceWatch
- - [https://www.influencewatch.org](https://www.influencewatch.org)
- - date published: 2023-10-25T21:31:45.921130+00:00
- - user: None
- - tags: []
-
-## InfoCon.org
- - [https://infocon.org](https://infocon.org)
- - date published: 2024-02-05T00:00:00+00:00
- - user: rumpel
- - tags: ['tutorials', 'hacking']
-
-## https://pubsonline.informs.org
- - [https://pubsonline.informs.org](https://pubsonline.informs.org)
- - date published: 2023-11-17T13:27:50.735817+00:00
- - user: None
- - tags: []
-
-## IOL Home - INFORMS
- - [https://www.informs.org](https://www.informs.org)
- - date published: 2023-10-25T21:31:50.305378+00:00
- - user: None
- - tags: []
-
-## Infrequently Noted
- - [https://infrequently.org](https://infrequently.org)
- - date published: 2023-10-25T21:31:56.492851+00:00
- - user: None
- - tags: []
-
-## Inko Programming Language
- - [https://inko-lang.org](https://inko-lang.org)
- - date published: 2023-11-14T21:47:13+00:00
- - user: None
- - tags: []
-
-## Draw Freely | Inkscape
- - [https://inkscape.org](https://inkscape.org)
- - date published: 2023-10-25T21:31:59.892142+00:00
- - user: None
- - tags: []
-
-## Draw Freely | Inkscape
- - [https://www.inkscape.org](https://www.inkscape.org)
- - date published: 2023-12-12T09:13:16+00:00
- - user: rumpel
- - tags: ['vector graphics']
-
-## Ink/Stitch: An open-source machine embroidery design platform based on Inkscape
- - [https://inkstitch.org](https://inkstitch.org)
- - date published: 2024-02-17T20:45:04+00:00
- - user: None
- - tags: []
-
-## InnerSource Commons
- - [https://innersourcecommons.org](https://innersourcecommons.org)
- - date published: 2023-10-25T21:32:02.785880+00:00
- - user: None
- - tags: []
-
-## Innocence Project
- - [https://innocenceproject.org](https://innocenceproject.org)
- - date published: 2023-10-25T21:32:06.738613+00:00
- - user: None
- - tags: []
-
-## Home - Inside Climate News
- - [https://insideclimatenews.org](https://insideclimatenews.org)
- - date published: 2023-10-25T21:32:16.454142+00:00
- - user: None
- - tags: []
-
-## INT 10h
- - [https://int10h.org](https://int10h.org)
- - date published: 2023-10-25T21:32:20.037397+00:00
- - user: None
- - tags: ['personal', 'blog']
-
-## Integrity Institute
- - [https://integrityinstitute.org](https://integrityinstitute.org)
- - date published: 2023-10-25T21:32:23.954640+00:00
- - user: None
- - tags: []
-
-## Intellectual Takeout - Feeding Minds, Pursuing Truth
- - [https://intellectualtakeout.org](https://intellectualtakeout.org)
- - date published: 2023-10-25T21:32:30.723471+00:00
- - user: None
- - tags: []
-
-## Interactions.org - Particle physics, high energy physics, news and resources
- - [https://www.interactions.org](https://www.interactions.org)
- - date published: 2023-10-25T21:32:35.993247+00:00
- - user: None
- - tags: []
-
-## Matt Webb
- - [https://interconnected.org](https://interconnected.org)
- - date published: 2023-10-25T09:23:55.908411+00:00
- - user: None
- - tags: ['personal']
-
-## Interfaith Power and Light | Faith in action for a safe climate
- - [https://interfaithpowerandlight.org](https://interfaithpowerandlight.org)
- - date published: 2021-02-19T20:21:05+00:00
- - user: None
- - tags: []
-
-## https://interlisp.org
- - [https://interlisp.org](https://interlisp.org)
- - date published: 2023-10-25T21:32:37.569846+00:00
- - user: None
- - tags: []
-
-## Internet in a Box - Mandela's Library of Alexandria
- - [https://internet-in-a-box.org](https://internet-in-a-box.org)
- - date published: 2023-10-25T21:32:39.821895+00:00
- - user: None
- - tags: []
-
-## Build, Promote, and Defend the Internet - Internet Society
- - [https://www.internetsociety.org](https://www.internetsociety.org)
- - date published: 2023-10-25T21:32:43.991287+00:00
- - user: None
- - tags: []
-
-## Investigative Post - Jim Heaney Editor & Executive Director, Buffalo & WNY Investigative Reporting Center : Investigative Post
- - [https://www.investigativepost.org](https://www.investigativepost.org)
- - date published: 2023-10-25T21:32:47.866255+00:00
- - user: None
- - tags: []
-
-## IOPscience
- - [https://iopscience.iop.org](https://iopscience.iop.org)
- - date published: 2023-10-25T21:32:50.116824+00:00
- - user: None
- - tags: []
-
-## ioquake3
- - [https://ioquake3.org](https://ioquake3.org)
- - date published: 2023-10-27T13:49:15.050683+00:00
- - user: None
- - tags: ['open source', 'game']
-
-## Iowa Public Radio: Your Trusted Source Of News & Music From Iowa & NPR | Iowa Public Radio
- - [https://www.iowapublicradio.org](https://www.iowapublicradio.org)
- - date published: 2023-11-21T22:18:56.178391+00:00
- - user: None
- - tags: []
-
-## IPES food | Homepage
- - [https://ipes-food.org](https://ipes-food.org)
- - date published: 2024-02-24T09:58:29.304352+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.ippr.org](https://www.ippr.org)
- - date published: 2023-12-17T17:02:20.015051+00:00
- - user: None
- - tags: []
-
-## IPv6 Ready Logo Site | Home
- - [https://www.ipv6ready.org](https://www.ipv6ready.org)
- - date published: 2024-01-09T03:41:05.374759+00:00
- - user: None
- - tags: []
-
-## Inigo Quilez :: computer graphics, mathematics, shaders, fractals, demoscene and more
- - [https://iquilezles.org](https://iquilezles.org)
- - date published: 2023-10-25T21:32:51.784263+00:00
- - user: None
- - tags: []
-
-## Irreal.org
- - [https://irreal.org](https://irreal.org)
- - date published: 2023-10-25T21:32:53.835017+00:00
- - user: None
- - tags: []
-
-## Irrlicht3d blog
- - [https://irrlicht3d.org](https://irrlicht3d.org)
- - date published: 2024-02-10T17:55:19.744417+00:00
- - user: None
- - tags: []
-
-## ISC - ISC
- - [https://www.isc.org](https://www.isc.org)
- - date published: 2023-10-25T21:32:55.725838+00:00
- - user: None
- - tags: []
-
-## ISD - Powering solutions to extremism and polarisation
- - [https://www.isdglobal.org](https://www.isdglobal.org)
- - date published: 2024-01-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## ISGlobal - Instituto de Salud Global Barcelona - ISGLOBAL
- - [https://www.isglobal.org](https://www.isglobal.org)
- - date published: 2023-11-23T11:19:17.606986+00:00
- - user: None
- - tags: []
-
-## Island Press
- - [https://islandpress.org](https://islandpress.org)
- - date published: 2024-02-15T22:32:13.086292+00:00
- - user: None
- - tags: []
-
-## ismypackagereproducibleyet
- - [https://ismypackagereproducibleyet.org](https://ismypackagereproducibleyet.org)
- - date published: 2023-10-25T21:32:56.987958+00:00
- - user: None
- - tags: []
-
-## ISO - International Organization for Standardization
- - [https://www.iso.org](https://www.iso.org)
- - date published: 2024-01-09T03:41:06.464647+00:00
  - user: None
  - tags: []
 
