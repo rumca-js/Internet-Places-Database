@@ -1,3 +1,57 @@
+## Cracked.com - America's Only Humor Site | Cracked.com
+ - [https://www.cracked.com](https://www.cracked.com)
+ - date published: 2023-10-25T11:30:06.549087+00:00
+ - user: None
+ - tags: []
+
+## https://www.crackle.com/
+ - [https://www.crackle.com](https://www.crackle.com)
+ - date published: 2023-12-02T13:09:15+00:00
+ - user: rumpel
+ - tags: ['sony', 'video streaming']
+
+## Craft By Zen
+ - [https://craftbyzen.com](https://craftbyzen.com)
+ - date published: 2023-12-01T10:46:52.645405+00:00
+ - user: None
+ - tags: ['personal']
+
+## Crafting Interpreters
+ - [https://craftinginterpreters.com](https://craftinginterpreters.com)
+ - date published: 2023-10-25T13:35:46.078108+00:00
+ - user: None
+ - tags: []
+
+## Craftknights - Learn everything about making stuff!
+ - [https://craftknights.com](https://craftknights.com)
+ - date published: 2023-11-01T18:24:33.898439+00:00
+ - user: None
+ - tags: ['hobby', 'laser cutting', '3d printing', 'sculpting']
+
+## Home - The Miniature Engineering Craftsmanship Museum
+ - [https://craftsmanshipmuseum.com](https://craftsmanshipmuseum.com)
+ - date published: 2023-10-25T13:35:51.492729+00:00
+ - user: None
+ - tags: ['museum', 'miniatures']
+
+## About - Craig Hamill
+ - [https://www.craighamill.com](https://www.craighamill.com)
+ - date published: 2023-12-08T08:32:40.633348+00:00
+ - user: None
+ - tags: ['personal']
+
+## Craig Jamieson
+ - [https://craigjamieson.com](https://craigjamieson.com)
+ - date published: 2024-01-04T01:13:41.821076+00:00
+ - user: None
+ - tags: []
+
+## Craig Kerstiens - Craig Kerstiens
+ - [https://www.craigkerstiens.com](https://www.craigkerstiens.com)
+ - date published: 2023-10-25T13:35:55.760012+00:00
+ - user: None
+ - tags: []
+
 ## Craig Mod — Writer + Photographer
  - [https://craigmod.com](https://craigmod.com)
  - date published: 2023-10-25T13:35:58.813306+00:00
@@ -656,6 +710,12 @@
 ## CVE security vulnerability database. Security vulnerabilities, exploits, references and more
  - [https://www.cvedetails.com](https://www.cvedetails.com)
  - date published: 2023-12-03T20:18:31.906949+00:00
+ - user: None
+ - tags: ['cve']
+
+## None
+ - [https://www.cvs.com](https://www.cvs.com)
+ - date published: 2024-03-04T11:36:27.353048+00:00
  - user: None
  - tags: []
 
@@ -2255,6 +2315,12 @@
  - user: None
  - tags: []
 
+## Home
+ - [https://www.defensehere.com](https://www.defensehere.com)
+ - date published: 2022-01-12T15:32:07+00:00
+ - user: None
+ - tags: []
+
 ## Defense News, Covering the politics, business and technology of defense | Defense News
  - [https://www.defensenews.com](https://www.defensenews.com)
  - date published: 2023-10-31T05:18:09.856934+00:00
@@ -2375,15 +2441,21 @@
  - user: None
  - tags: []
 
-## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [http://democratherald.com](http://democratherald.com)
- - date published: 2024-02-26T00:00:00+00:00
+## Democracy Docket
+ - [https://www.democracydocket.com](https://www.democracydocket.com)
+ - date published: 2024-03-04T00:00:00+00:00
  - user: None
  - tags: []
 
 ## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
  - [https://democratherald.com](https://democratherald.com)
  - date published: 2023-11-04T05:50:19.542658+00:00
+ - user: None
+ - tags: []
+
+## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
+ - [http://democratherald.com](http://democratherald.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2488,6 +2560,12 @@
  - date published: 2023-12-17T06:21:25+00:00
  - user: None
  - tags: []
+
+## De Programmatica Ipsum – A magazine about programmers, code, and society. Written by humans since 2018.
+ - [https://deprogrammaticaipsum.com](https://deprogrammaticaipsum.com)
+ - date published: 2024-03-04T09:39:26.593720+00:00
+ - user: None
+ - tags: ['programming articles']
 
 ## Vintage Computing
  - [https://deramp.com](https://deramp.com)
@@ -3129,6 +3207,12 @@
  - [https://directlyapply.com](https://directlyapply.com)
  - date published: 2023-11-07T16:06:41.136104+00:00
  - user: None
+ - tags: []
+
+## DirectXTutorial.com
+ - [https://directxtutorial.com](https://directxtutorial.com)
+ - date published: 2024-03-04T11:08:56+00:00
+ - user: rumpel
  - tags: []
 
 ## Dirk Riehle's Industry and Research Publications – Research publications and comments on the software industry, open source, and inner source
@@ -4033,14 +4117,14 @@
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [http://drinkag1.com](http://drinkag1.com)
- - date published: 2024-01-21T19:15:07.982155+00:00
+ - [https://drinkag1.com](https://drinkag1.com)
+ - date published: 2024-02-24T09:55:07.922857+00:00
  - user: None
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [https://drinkag1.com](https://drinkag1.com)
- - date published: 2024-02-24T09:55:07.922857+00:00
+ - [http://drinkag1.com](http://drinkag1.com)
+ - date published: 2024-01-21T19:15:07.982155+00:00
  - user: None
  - tags: []
 
@@ -4854,6 +4938,12 @@
  - user: None
  - tags: []
 
+## Edward Loveall
+ - [https://blog.edwardloveall.com](https://blog.edwardloveall.com)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## eed3si9n
  - [https://eed3si9n.com](https://eed3si9n.com)
  - date published: 2023-10-25T14:03:53.417527+00:00
@@ -5479,14 +5569,14 @@
  - tags: []
 
 ## Supercharge your mobile apps | Emerge Tools
- - [http://www.emergetools.com](http://www.emergetools.com)
- - date published: 2024-02-25T20:03:45.981322+00:00
+ - [https://www.emergetools.com](https://www.emergetools.com)
+ - date published: 2023-10-25T14:06:59.391184+00:00
  - user: None
  - tags: []
 
 ## Supercharge your mobile apps | Emerge Tools
- - [https://www.emergetools.com](https://www.emergetools.com)
- - date published: 2023-10-25T14:06:59.391184+00:00
+ - [http://www.emergetools.com](http://www.emergetools.com)
+ - date published: 2024-02-25T20:03:45.981322+00:00
  - user: None
  - tags: []
 
@@ -5909,94 +5999,4 @@
  - date published: 2023-11-13T12:53:39.580748+00:00
  - user: None
  - tags: ['music band']
-
-## Eric Draken - Hard-Problem Solver
- - [https://ericdraken.com](https://ericdraken.com)
- - date published: 2023-10-25T09:20:26.173789+00:00
- - user: None
- - tags: ['personal']
-
-## Playing with AI
- - [https://erichartford.com](https://erichartford.com)
- - date published: 2023-10-25T14:24:35.793433+00:00
- - user: None
- - tags: []
-
-## Erich Grunewald's Blog
- - [https://www.erichgrunewald.com](https://www.erichgrunewald.com)
- - date published: 2023-10-25T09:20:27.355930+00:00
- - user: None
- - tags: ['personal']
-
-## Reich Report
- - [https://www.erichreich.com](https://www.erichreich.com)
- - date published: 2023-10-25T14:09:13.168201+00:00
- - user: None
- - tags: []
-
-## Title to Come | The ramblings of Eric J. Gruber
- - [https://ericjgruber.com](https://ericjgruber.com)
- - date published: 2023-11-29T20:44:37.414875+00:00
- - user: None
- - tags: ['personal']
-
-## https://www.erickarjaluoto.com
- - [https://www.erickarjaluoto.com](https://www.erickarjaluoto.com)
- - date published: 2023-12-12T09:16:42+00:00
- - user: rumpel
- - tags: ['personal']
-
-## Howdy – Eric Karjaluoto
- - [http://www.erickarjaluoto.com](http://www.erickarjaluoto.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Eric Jon Kassel - Designer, Director, Animator, Musician
- - [https://erickassel.com](https://erickassel.com)
- - date published: 2024-01-07T04:14:32.322306+00:00
- - user: None
- - tags: []
-
-## Fabulous adventures in coding | Eric Lippert's blog
- - [https://ericlippert.com](https://ericlippert.com)
- - date published: 2023-10-25T14:09:28.044867+00:00
- - user: None
- - tags: []
-
-## Eric Niebler
- - [https://ericniebler.com](https://ericniebler.com)
- - date published: 2024-02-06T12:41:26.842941+00:00
- - user: None
- - tags: []
-
-## eric-pierce.com
- - [https://eric-pierce.com](https://eric-pierce.com)
- - date published: 2022-12-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Free Non-Fiction Book Summaries - Eric Sandroni
- - [https://ericsandroni.com](https://ericsandroni.com)
- - date published: 2023-12-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Selected Blog Posts
- - [https://ericsink.com](https://ericsink.com)
- - date published: 2023-10-25T14:09:30.449517+00:00
- - user: None
- - tags: []
-
-## Eric Park
- - [https://ericswpark.com](https://ericswpark.com)
- - date published: 2023-10-25T08:45:31.050993+00:00
- - user: None
- - tags: ['personal']
-
-## About Erika Hammerschmidt
- - [https://www.erikahammerschmidt.com](https://www.erikahammerschmidt.com)
- - date published: 2023-11-03T00:47:50+00:00
- - user: rumpel
- - tags: []
 

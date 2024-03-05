@@ -1,3 +1,45 @@
+## Musings of Michael McThrow
+ - [https://mmcthrow-musings.blogspot.com](https://mmcthrow-musings.blogspot.com)
+ - date published: 2023-10-25T09:10:01.509820+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://mormanity.blogspot.com
+ - [https://mormanity.blogspot.com](https://mormanity.blogspot.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Mostly Cajun
+ - [https://mostlycajun.blogspot.com](https://mostlycajun.blogspot.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Push the Red Button
+ - [https://moyix.blogspot.com](https://moyix.blogspot.com)
+ - date published: 2023-10-25T09:10:03.220983+00:00
+ - user: None
+ - tags: ['personal']
+
+## Medieval Manuscripts Provenance
+ - [https://mssprovenance.blogspot.com](https://mssprovenance.blogspot.com)
+ - date published: 2023-10-25T09:10:06.865435+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Art is Long
+ - [https://multixden.blogspot.com](https://multixden.blogspot.com)
+ - date published: 2023-10-25T09:10:09.729418+00:00
+ - user: None
+ - tags: ['personal']
+
+## Metadata
+ - [https://muratbuffalo.blogspot.com](https://muratbuffalo.blogspot.com)
+ - date published: 2023-10-25T09:10:15.224216+00:00
+ - user: None
+ - tags: ['personal']
+
 ## The Mypy Blog
  - [https://mypy-lang.blogspot.com](https://mypy-lang.blogspot.com)
  - date published: 2023-10-25T13:05:59.664341+00:00
@@ -807,6 +849,12 @@
 ## Rare Books, First Editions, and Signed Books
  - [https://www.bookstellyouwhy.com](https://www.bookstellyouwhy.com)
  - date published: 2023-12-30T22:20:59.634067+00:00
+ - user: None
+ - tags: []
+
+## Online Bookstore | Buy Books Online | Read Books Online
+ - [https://www.bookswagon.com](https://www.bookswagon.com)
+ - date published: 2024-03-04T11:51:14.757407+00:00
  - user: None
  - tags: []
 
@@ -2509,14 +2557,14 @@
  - tags: ['site building']
 
 ## None
- - [https://www.caribpress.com](https://www.caribpress.com)
- - date published: 2024-01-09T02:31:43.727437+00:00
+ - [http://www.caribpress.com](http://www.caribpress.com)
+ - date published: 2024-02-25T15:38:05.095360+00:00
  - user: None
  - tags: []
 
 ## None
- - [http://www.caribpress.com](http://www.caribpress.com)
- - date published: 2024-02-25T15:38:05.095360+00:00
+ - [https://www.caribpress.com](https://www.caribpress.com)
+ - date published: 2024-01-09T02:31:43.727437+00:00
  - user: None
  - tags: []
 
@@ -4098,6 +4146,12 @@
  - user: None
  - tags: []
 
+## How dense is your city?
+ - [http://citydensity.com](http://citydensity.com)
+ - date published: 2024-03-03T16:12:54+00:00
+ - user: None
+ - tags: []
+
 ## Citymapper - The Ultimate Transport App
  - [https://content.citymapper.com](https://content.citymapper.com)
  - date published: 2023-10-25T13:25:14.582903+00:00
@@ -5393,15 +5447,15 @@
  - user: None
  - tags: []
 
-## IT news, careers, business technology, reviews | Computerworld
- - [https://www.computerworld.com](https://www.computerworld.com)
- - date published: 2023-10-25T09:32:24.152677+00:00
- - user: None
- - tags: []
-
 ## IT news, careers, business technology, reviews
  - [http://www.computerworld.com](http://www.computerworld.com)
  - date published: 2024-02-25T19:22:09.150165+00:00
+ - user: None
+ - tags: []
+
+## IT news, careers, business technology, reviews | Computerworld
+ - [https://www.computerworld.com](https://www.computerworld.com)
+ - date published: 2023-10-25T09:32:24.152677+00:00
  - user: None
  - tags: []
 
@@ -5954,60 +6008,6 @@
 ## Alexander Zhang | Portfolio
  - [https://cqcumbers.com](https://cqcumbers.com)
  - date published: 2023-10-25T13:35:44.639045+00:00
- - user: None
- - tags: []
-
-## Cracked.com - America's Only Humor Site | Cracked.com
- - [https://www.cracked.com](https://www.cracked.com)
- - date published: 2023-10-25T11:30:06.549087+00:00
- - user: None
- - tags: []
-
-## https://www.crackle.com/
- - [https://www.crackle.com](https://www.crackle.com)
- - date published: 2023-12-02T13:09:15+00:00
- - user: rumpel
- - tags: ['sony', 'video streaming']
-
-## Craft By Zen
- - [https://craftbyzen.com](https://craftbyzen.com)
- - date published: 2023-12-01T10:46:52.645405+00:00
- - user: None
- - tags: ['personal']
-
-## Crafting Interpreters
- - [https://craftinginterpreters.com](https://craftinginterpreters.com)
- - date published: 2023-10-25T13:35:46.078108+00:00
- - user: None
- - tags: []
-
-## Craftknights - Learn everything about making stuff!
- - [https://craftknights.com](https://craftknights.com)
- - date published: 2023-11-01T18:24:33.898439+00:00
- - user: None
- - tags: ['hobby', 'laser cutting', '3d printing', 'sculpting']
-
-## Home - The Miniature Engineering Craftsmanship Museum
- - [https://craftsmanshipmuseum.com](https://craftsmanshipmuseum.com)
- - date published: 2023-10-25T13:35:51.492729+00:00
- - user: None
- - tags: ['museum', 'miniatures']
-
-## About - Craig Hamill
- - [https://www.craighamill.com](https://www.craighamill.com)
- - date published: 2023-12-08T08:32:40.633348+00:00
- - user: None
- - tags: ['personal']
-
-## Craig Jamieson
- - [https://craigjamieson.com](https://craigjamieson.com)
- - date published: 2024-01-04T01:13:41.821076+00:00
- - user: None
- - tags: []
-
-## Craig Kerstiens - Craig Kerstiens
- - [https://www.craigkerstiens.com](https://www.craigkerstiens.com)
- - date published: 2023-10-25T13:35:55.760012+00:00
  - user: None
  - tags: []
 

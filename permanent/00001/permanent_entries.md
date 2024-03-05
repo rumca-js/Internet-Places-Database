@@ -1,3 +1,21 @@
+## James Hawley
+ - [https://jrhawley.ca](https://jrhawley.ca)
+ - date published: 2023-10-25T08:42:58.953735+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://justinjackson.ca
+ - [https://justinjackson.ca](https://justinjackson.ca)
+ - date published: 2023-10-25T09:02:24.126240+00:00
+ - user: None
+ - tags: ['personal']
+
+## Julia Evans
+ - [https://jvns.ca](https://jvns.ca)
+ - date published: 2023-10-25T09:02:41.915700+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Mastodon
  - [https://social.jvns.ca](https://social.jvns.ca)
  - date published: 2023-12-22T05:12:37.826236+00:00
@@ -171,6 +189,12 @@
  - date published: 2023-11-29T18:20:44.786867+00:00
  - user: None
  - tags: ['personal']
+
+## Home
+ - [https://oceana.ca](https://oceana.ca)
+ - date published: 2024-03-04T19:41:05.081232+00:00
+ - user: None
+ - tags: []
 
 ## The Boreal Beetle – Insect Ecology Lab @UNBC
  - [https://huber.opened.ca](https://huber.opened.ca)
@@ -795,7 +819,7 @@
  - [https://atom-editor.cc](https://atom-editor.cc)
  - date published: 2023-12-11T12:08:34+00:00
  - user: rumpel
- - tags: ['ide']
+ - tags: ['programming ide']
 
 ## Bash Stack Documentation
  - [https://bashsta.cc](https://bashsta.cc)
@@ -2398,7 +2422,7 @@
  - [https://huggingface.co](https://huggingface.co)
  - date published: 2023-10-25T12:19:04.902604+00:00
  - user: None
- - tags: []
+ - tags: ['artificial intelligence']
 
 ## Restoring Trust in Digital
  - [https://hu-manity.co](https://hu-manity.co)
@@ -2665,14 +2689,14 @@
  - tags: []
 
 ## Nabeel S. Qureshi
- - [https://nabeelqu.co](https://nabeelqu.co)
- - date published: 2024-01-20T19:20:52.169397+00:00
+ - [http://nabeelqu.co](http://nabeelqu.co)
+ - date published: 2024-02-26T09:20:32.283903+00:00
  - user: None
  - tags: []
 
 ## Nabeel S. Qureshi
- - [http://nabeelqu.co](http://nabeelqu.co)
- - date published: 2024-02-26T09:20:32.283903+00:00
+ - [https://nabeelqu.co](https://nabeelqu.co)
+ - date published: 2024-01-20T19:20:52.169397+00:00
  - user: None
  - tags: []
 
@@ -5804,6 +5828,12 @@
  - user: None
  - tags: ['music band']
 
+## AliExpress – kupuj online produkty najwyższej jakości w niskich cenach prosto z Chin - AliExpress
+ - [https://pl.aliexpress.com](https://pl.aliexpress.com)
+ - date published: 2024-03-04T01:33:09.487940+00:00
+ - user: None
+ - tags: []
+
 ## renegat0x0 site
  - [https://s.click.aliexpress.com](https://s.click.aliexpress.com)
  - date published: 2024-03-03T11:31:32.180603+00:00
@@ -5971,34 +6001,4 @@
  - date published: 2024-01-26T00:00:00+00:00
  - user: None
  - tags: []
-
-## AllMusic | Record Reviews, Streaming Songs, Genres & Bands
- - [http://www.allmusic.com](http://www.allmusic.com)
- - date published: 2024-01-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## allRGB
- - [https://allrgb.com](https://allrgb.com)
- - date published: 2024-01-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## AllSides | Balanced news and media bias ratings. Unbiased news doesn't exist.
- - [https://www.allsides.com](https://www.allsides.com)
- - date published: 2023-10-25T12:39:03.701620+00:00
- - user: None
- - tags: []
-
-## All That's Interesting, Something Interesting To Read Every Day
- - [https://allthatsinteresting.com](https://allthatsinteresting.com)
- - date published: 2023-10-25T12:39:04.776656+00:00
- - user: None
- - tags: []
-
-## Destinations in My Universe - All Things Andy
- - [https://www.allthingsandy.com](https://www.allthingsandy.com)
- - date published: 2023-11-29T13:54:06.596239+00:00
- - user: None
- - tags: ['personal']
 

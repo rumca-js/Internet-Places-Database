@@ -934,6 +934,12 @@
  - user: None
  - tags: []
 
+## boost user growth with  continuous copy testing
+ - [https://justwords.ai](https://justwords.ai)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Andrej Karpathy
  - [https://karpathy.ai](https://karpathy.ai)
  - date published: 2023-10-25T08:41:25.837395+00:00
@@ -1347,6 +1353,12 @@
  - date published: 2024-03-03T22:14:20.682628+00:00
  - user: None
  - tags: []
+
+## Pythagora
+ - [https://www.pythagora.ai](https://www.pythagora.ai)
+ - date published: 2024-03-02T00:00:00+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
 
 ## QMR – QMR
  - [https://www.qmr.ai](https://www.qmr.ai)
@@ -4612,6 +4624,12 @@
  - user: None
  - tags: []
 
+## Blog
+ - [https://developer-friendly.blog](https://developer-friendly.blog)
+ - date published: 2024-03-04T18:53:54.534773+00:00
+ - user: None
+ - tags: []
+
 ## Disconnect | Paris Marx | Substack
  - [https://www.disconnect.blog](https://www.disconnect.blog)
  - date published: 2023-10-25T09:39:08.037198+00:00
@@ -5980,22 +5998,4 @@
  - date published: 2023-10-25T12:05:18.268067+00:00
  - user: None
  - tags: []
-
-## James Hawley
- - [https://jrhawley.ca](https://jrhawley.ca)
- - date published: 2023-10-25T08:42:58.953735+00:00
- - user: None
- - tags: ['personal']
-
-## https://justinjackson.ca
- - [https://justinjackson.ca](https://justinjackson.ca)
- - date published: 2023-10-25T09:02:24.126240+00:00
- - user: None
- - tags: ['personal']
-
-## Julia Evans
- - [https://jvns.ca](https://jvns.ca)
- - date published: 2023-10-25T09:02:41.915700+00:00
- - user: None
- - tags: ['personal']
 
