@@ -1,3 +1,33 @@
+## Code rant
+ - [https://mikehadlow.blogspot.com](https://mikehadlow.blogspot.com)
+ - date published: 2023-10-25T09:09:48.126384+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mike Lynch Cartoons
+ - [https://mikelynchcartoons.blogspot.com](https://mikelynchcartoons.blogspot.com)
+ - date published: 2023-10-25T09:09:53.674589+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mikey Sklar
+ - [https://mikeysklar.blogspot.com](https://mikeysklar.blogspot.com)
+ - date published: 2024-02-08T22:18:56.447615+00:00
+ - user: None
+ - tags: []
+
+## Milwaukee Maven
+ - [https://milwaukeemaven.blogspot.com](https://milwaukeemaven.blogspot.com)
+ - date published: 2023-10-25T09:09:55.902718+00:00
+ - user: None
+ - tags: ['personal']
+
+## Minborg's Java Pot
+ - [https://minborgsjavapot.blogspot.com](https://minborgsjavapot.blogspot.com)
+ - date published: 2023-10-25T09:09:59.083948+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Musings of Michael McThrow
  - [https://mmcthrow-musings.blogspot.com](https://mmcthrow-musings.blogspot.com)
  - date published: 2023-10-25T09:10:01.509820+00:00
@@ -445,6 +475,12 @@
 ## Voodoo Entertainment
  - [https://www.bluevoodooblues.com](https://www.bluevoodooblues.com)
  - date published: 2017-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | Mike Blumenthal
+ - [https://blumenthals.com](https://blumenthals.com)
+ - date published: 2021-01-06T21:21:50+00:00
  - user: None
  - tags: []
 
@@ -2010,6 +2046,12 @@
  - user: None
  - tags: []
 
+## ByteSizeGo
+ - [https://www.bytesizego.com](https://www.bytesizego.com)
+ - date published: 2024-03-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Embedded Software Development & Electronic Systems Design Company
  - [https://www.bytesnap.com](https://www.bytesnap.com)
  - date published: 2023-10-25T13:16:08.349108+00:00
@@ -3117,6 +3159,12 @@
 ## Carlos Fenollosa
  - [https://cfenollosa.com](https://cfenollosa.com)
  - date published: 2023-10-25T13:20:11.729770+00:00
+ - user: None
+ - tags: []
+
+## CG Channel
+ - [https://www.cgchannel.com](https://www.cgchannel.com)
+ - date published: 2024-03-05T16:10:56.741246+00:00
  - user: None
  - tags: []
 
@@ -5111,6 +5159,12 @@
  - user: None
  - tags: []
 
+## Home
+ - [https://coinweek.com](https://coinweek.com)
+ - date published: 2024-03-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Coldplay - Official Site
  - [https://www.coldplay.com](https://www.coldplay.com)
  - date published: 2023-11-27T16:04:06+00:00
@@ -5628,14 +5682,14 @@
  - tags: []
 
 ## Cookin' With Coolio – It's Goin' On In The Kitchen
- - [https://cookinwithcoolio.com](https://cookinwithcoolio.com)
- - date published: 2023-11-15T01:22:37.164230+00:00
+ - [http://cookinwithcoolio.com](http://cookinwithcoolio.com)
+ - date published: 2024-02-25T19:25:46.878630+00:00
  - user: None
  - tags: []
 
 ## Cookin' With Coolio – It's Goin' On In The Kitchen
- - [http://cookinwithcoolio.com](http://cookinwithcoolio.com)
- - date published: 2024-02-25T19:25:46.878630+00:00
+ - [https://cookinwithcoolio.com](https://cookinwithcoolio.com)
+ - date published: 2023-11-15T01:22:37.164230+00:00
  - user: None
  - tags: []
 
@@ -5954,60 +6008,6 @@
 ## CP24 – Toronto, GTA, Ontario Breaking News Today
  - [https://www.cp24.com](https://www.cp24.com)
  - date published: 2023-11-03T20:13:08.626638+00:00
- - user: None
- - tags: []
-
-## Main Page - Algorithms for Competitive Programming
- - [https://cp-algorithms.com](https://cp-algorithms.com)
- - date published: 2023-10-25T13:35:24.323137+00:00
- - user: None
- - tags: []
-
-## Data Protection, Privacy and Cyber Security Leaders - CPO Magazine
- - [https://www.cpomagazine.com](https://www.cpomagazine.com)
- - date published: 2023-10-25T13:35:29.368739+00:00
- - user: None
- - tags: []
-
-## C++ By Example Code Examples with Simple Explanations
- - [https://cppbyexample.com](https://cppbyexample.com)
- - date published: 2023-10-25T13:35:32.874855+00:00
- - user: None
- - tags: []
-
-## Home : CppCast
- - [https://cppcast.com](https://cppcast.com)
- - date published: 2023-11-21T08:19:35+00:00
- - user: None
- - tags: ['cpp', 'programming', 'podcast', 'c++']
-
-## cppreference.com
- - [https://en.cppreference.com](https://en.cppreference.com)
- - date published: 2023-10-25T09:28:17.840229+00:00
- - user: None
- - tags: []
-
-## C++ Stories
- - [https://www.cppstories.com](https://www.cppstories.com)
- - date published: 2023-10-25T10:13:51.273697+00:00
- - user: None
- - tags: ['cpp', 'programming']
-
-## CPUID
- - [https://www.cpuid.com](https://www.cpuid.com)
- - date published: 2024-01-09T13:19:41+00:00
- - user: rumpel
- - tags: ['cpu-z']
-
-## The CPU Shack - History of Microprocessors & CPU Tech
- - [https://www.cpushack.com](https://www.cpushack.com)
- - date published: 2023-10-25T13:35:40.623858+00:00
- - user: None
- - tags: []
-
-## Alexander Zhang | Portfolio
- - [https://cqcumbers.com](https://cqcumbers.com)
- - date published: 2023-10-25T13:35:44.639045+00:00
  - user: None
  - tags: []
 

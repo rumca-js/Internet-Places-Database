@@ -2980,6 +2980,12 @@
  - user: None
  - tags: []
 
+## Chris Lovie-Tyler ‚Äì Learning to see
+ - [https://chrislt.art](https://chrislt.art)
+ - date published: 2024-03-05T10:22:07.285624+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Emilia Frias
  - [https://demilurii.art](https://demilurii.art)
  - date published: 2024-02-28T07:43:05.211230+00:00
@@ -3427,6 +3433,12 @@
 ## Environdata Weather Stations Home
  - [https://environdata.com.au](https://environdata.com.au)
  - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Extreme Learning
+ - [https://extremelearning.com.au](https://extremelearning.com.au)
+ - date published: 2024-02-04T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5489,6 +5501,12 @@
  - user: None
  - tags: []
 
+## Amazon.ca: Low Prices – Fast Shipping – Millions of Items
+ - [https://www.amazon.ca](https://www.amazon.ca)
+ - date published: 2024-02-28T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Alberta Machine Intelligence Institute | AI for good and for all
  - [https://www.amii.ca](https://www.amii.ca)
  - date published: 2023-10-25T12:03:17.667569+00:00
@@ -5980,22 +5998,4 @@
  - date published: 2023-12-20T19:14:23.669927+00:00
  - user: None
  - tags: ['personal']
-
-## Author Jenn Ashton
- - [http://jenniferashton.ca](http://jenniferashton.ca)
- - date published: 2023-12-25T04:56:31.047100+00:00
- - user: None
- - tags: ['personal']
-
-## John Smiley
- - [https://johnsmiley.ca](https://johnsmiley.ca)
- - date published: 2023-11-29T15:46:05.134496+00:00
- - user: None
- - tags: []
-
-## JonLuca’s Blog | JonLuca’s Blog - A blog about tech, programming, and finance
- - [https://blog.jonlu.ca](https://blog.jonlu.ca)
- - date published: 2023-10-25T12:05:18.268067+00:00
- - user: None
- - tags: []
 

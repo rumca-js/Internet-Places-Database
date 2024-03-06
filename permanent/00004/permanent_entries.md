@@ -1,3 +1,57 @@
+## Main Page - Algorithms for Competitive Programming
+ - [https://cp-algorithms.com](https://cp-algorithms.com)
+ - date published: 2023-10-25T13:35:24.323137+00:00
+ - user: None
+ - tags: []
+
+## Data Protection, Privacy and Cyber Security Leaders - CPO Magazine
+ - [https://www.cpomagazine.com](https://www.cpomagazine.com)
+ - date published: 2023-10-25T13:35:29.368739+00:00
+ - user: None
+ - tags: []
+
+## C++ By Example Code Examples with Simple Explanations
+ - [https://cppbyexample.com](https://cppbyexample.com)
+ - date published: 2023-10-25T13:35:32.874855+00:00
+ - user: None
+ - tags: []
+
+## Home : CppCast
+ - [https://cppcast.com](https://cppcast.com)
+ - date published: 2023-11-21T08:19:35+00:00
+ - user: None
+ - tags: ['cpp', 'programming', 'podcast', 'c++']
+
+## cppreference.com
+ - [https://en.cppreference.com](https://en.cppreference.com)
+ - date published: 2023-10-25T09:28:17.840229+00:00
+ - user: None
+ - tags: []
+
+## C++ Stories
+ - [https://www.cppstories.com](https://www.cppstories.com)
+ - date published: 2023-10-25T10:13:51.273697+00:00
+ - user: None
+ - tags: ['cpp', 'programming']
+
+## CPUID
+ - [https://www.cpuid.com](https://www.cpuid.com)
+ - date published: 2024-01-09T13:19:41+00:00
+ - user: rumpel
+ - tags: ['cpu-z']
+
+## The CPU Shack - History of Microprocessors & CPU Tech
+ - [https://www.cpushack.com](https://www.cpushack.com)
+ - date published: 2023-10-25T13:35:40.623858+00:00
+ - user: None
+ - tags: []
+
+## Alexander Zhang | Portfolio
+ - [https://cqcumbers.com](https://cqcumbers.com)
+ - date published: 2023-10-25T13:35:44.639045+00:00
+ - user: None
+ - tags: []
+
 ## Cracked.com - America's Only Humor Site | Cracked.com
  - [https://www.cracked.com](https://www.cracked.com)
  - date published: 2023-10-25T11:30:06.549087+00:00
@@ -2448,14 +2502,14 @@
  - tags: []
 
 ## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [https://democratherald.com](https://democratherald.com)
- - date published: 2023-11-04T05:50:19.542658+00:00
+ - [http://democratherald.com](http://democratherald.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
 ## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [http://democratherald.com](http://democratherald.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://democratherald.com](https://democratherald.com)
+ - date published: 2023-11-04T05:50:19.542658+00:00
  - user: None
  - tags: []
 
@@ -2468,6 +2522,12 @@
 ## DemoTime. Magic highlights after every demo!
  - [https://demotime.com](https://demotime.com)
  - date published: 2023-10-25T13:49:00.328092+00:00
+ - user: None
+ - tags: []
+
+## Larry Denenberg's Home Page
+ - [http://www.larry.denenberg.com](http://www.larry.denenberg.com)
+ - date published: 2003-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2813,15 +2873,15 @@
  - user: None
  - tags: []
 
-## introducing mazzle - a pipelines as code tool
- - [http://devops-pipeline.com](http://devops-pipeline.com)
- - date published: 2024-02-29T14:58:14.068438+00:00
- - user: None
- - tags: []
-
 ## Mazzle – A Pipelines as Code Tool
  - [https://devops-pipeline.com](https://devops-pipeline.com)
  - date published: 2023-12-31T11:15:08+00:00
+ - user: None
+ - tags: []
+
+## introducing mazzle - a pipelines as code tool
+ - [http://devops-pipeline.com](http://devops-pipeline.com)
+ - date published: 2024-02-29T14:58:14.068438+00:00
  - user: None
  - tags: []
 
@@ -2870,6 +2930,12 @@
 ## Vitamin D3 and the Great Biology Reset - FREE Ebook
  - [https://dgreatbiologyreset.com](https://dgreatbiologyreset.com)
  - date published: 2022-03-01T07:20:23+00:00
+ - user: None
+ - tags: []
+
+## Elias MÃ¥rtenson
+ - [https://blog.dhsdevelopments.com](https://blog.dhsdevelopments.com)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3906,6 +3972,12 @@
  - user: None
  - tags: []
 
+## Cierpliwości...
+ - [https://downdetector.com](https://downdetector.com)
+ - date published: 2024-03-05T16:10:59.451342+00:00
+ - user: None
+ - tags: []
+
 ## Show HN: I create a free website for download YouTube transcript, subtitle
  - [https://www.downloadyoutubesubtitle.com](https://www.downloadyoutubesubtitle.com)
  - date published: 2024-02-18T09:41:09+00:00
@@ -4117,14 +4189,14 @@
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [https://drinkag1.com](https://drinkag1.com)
- - date published: 2024-02-24T09:55:07.922857+00:00
+ - [http://drinkag1.com](http://drinkag1.com)
+ - date published: 2024-01-21T19:15:07.982155+00:00
  - user: None
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [http://drinkag1.com](http://drinkag1.com)
- - date published: 2024-01-21T19:15:07.982155+00:00
+ - [https://drinkag1.com](https://drinkag1.com)
+ - date published: 2024-02-24T09:55:07.922857+00:00
  - user: None
  - tags: []
 
@@ -5927,76 +5999,4 @@
  - date published: 2023-10-25T14:08:24.862895+00:00
  - user: None
  - tags: []
-
-## Epstein's black book
- - [https://epsteinsblackbook.com](https://epsteinsblackbook.com)
- - date published: 2023-10-25T11:07:59.051951+00:00
- - user: None
- - tags: []
-
-## EPSXE
- - [https://www.epsxe.com](https://www.epsxe.com)
- - date published: 2023-12-06T10:21:31+00:00
- - user: rumpel
- - tags: ['emulation', 'psx']
-
-## Equinox Fitness Club - It's Not Fitness. It's Life.
- - [https://www.equinox.com](https://www.equinox.com)
- - date published: 2024-02-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home - Eran Stiller
- - [https://eranstiller.com](https://eranstiller.com)
- - date published: 2023-10-25T14:08:34.288971+00:00
- - user: None
- - tags: []
-
-## Welcome to Ereads.com!
- - [https://www.ereads.com](https://www.ereads.com)
- - date published: 2023-10-25T11:19:14.702687+00:00
- - user: None
- - tags: []
-
-## Justin R. Erenkrantz
- - [https://www.erenkrantz.com](https://www.erenkrantz.com)
- - date published: 2023-10-25T08:45:30.519341+00:00
- - user: None
- - tags: ['personal']
-
-## Ergin Satır / Digital Creator – Dijital ve Girişimcilik Hakkında
- - [https://www.erginsatir.com](https://www.erginsatir.com)
- - date published: 2024-01-17T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Ergodicity economics – Formal economics without parallel universes
- - [https://ergodicityeconomics.com](https://ergodicityeconomics.com)
- - date published: 2023-10-25T14:08:50.581890+00:00
- - user: None
- - tags: []
-
-## ErgoDox EZ: An Incredible Mechanical Ergonomic Keyboard | ErgoDox EZ
- - [https://ergodox-ez.com](https://ergodox-ez.com)
- - date published: 2023-10-25T14:24:33.604368+00:00
- - user: None
- - tags: []
-
-## Home - Erica Drayton Writes
- - [https://ericadrayton.com](https://ericadrayton.com)
- - date published: 2023-11-29T15:16:23.716415+00:00
- - user: None
- - tags: ['personal']
-
-## The Official Website of Creative Entreprenuer Eric Beaty
- - [https://ericbeaty.com](https://ericbeaty.com)
- - date published: 2024-01-16T23:54:25.185150+00:00
- - user: None
- - tags: ['personal']
-
-## Eric Clapton
- - [https://ericclapton.com](https://ericclapton.com)
- - date published: 2023-11-13T12:53:39.580748+00:00
- - user: None
- - tags: ['music band']
 

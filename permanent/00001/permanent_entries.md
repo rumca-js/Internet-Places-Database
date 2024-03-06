@@ -1,3 +1,21 @@
+## Author Jenn Ashton
+ - [http://jenniferashton.ca](http://jenniferashton.ca)
+ - date published: 2023-12-25T04:56:31.047100+00:00
+ - user: None
+ - tags: ['personal']
+
+## John Smiley
+ - [https://johnsmiley.ca](https://johnsmiley.ca)
+ - date published: 2023-11-29T15:46:05.134496+00:00
+ - user: None
+ - tags: []
+
+## JonLuca’s Blog | JonLuca’s Blog - A blog about tech, programming, and finance
+ - [https://blog.jonlu.ca](https://blog.jonlu.ca)
+ - date published: 2023-10-25T12:05:18.268067+00:00
+ - user: None
+ - tags: []
+
 ## James Hawley
  - [https://jrhawley.ca](https://jrhawley.ca)
  - date published: 2023-10-25T08:42:58.953735+00:00
@@ -1809,6 +1827,12 @@
 ## No CSS Club
  - [https://nocss.club](https://nocss.club)
  - date published: 2023-10-25T12:15:57.723517+00:00
+ - user: None
+ - tags: []
+
+## Oku - the companion app for your bookshelf
+ - [https://oku.club](https://oku.club)
+ - date published: 2024-03-05T14:41:51.620233+00:00
  - user: None
  - tags: []
 
@@ -5975,30 +5999,6 @@
 ## Allen Pike, pixel crafter
  - [https://allenpike.com](https://allenpike.com)
  - date published: 2023-10-29T12:00:36.784378+00:00
- - user: None
- - tags: []
-
-## Allison Grayce Marshall – Co-founder & Designer at Notably
- - [https://www.allisongrayce.com](https://www.allisongrayce.com)
- - date published: 2023-10-25T09:04:25.699505+00:00
- - user: None
- - tags: ['personal']
-
-## Allison Seboldt
- - [https://allisonseboldt.com](https://allisonseboldt.com)
- - date published: 2023-10-25T08:44:20.992114+00:00
- - user: None
- - tags: ['personal']
-
-## Tracking news and events impacting Israel & the Middle East for the world’s 600 million Evangelicals
- - [https://allisrael.com](https://allisrael.com)
- - date published: 2023-11-02T16:07:28.733577+00:00
- - user: None
- - tags: []
-
-## AllMusic | Record Reviews, Streaming Songs, Genres & Bands
- - [https://www.allmusic.com](https://www.allmusic.com)
- - date published: 2024-01-26T00:00:00+00:00
  - user: None
  - tags: []
 
