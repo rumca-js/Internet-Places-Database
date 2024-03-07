@@ -1,3 +1,191 @@
+## Dmitry.GR: Projects
+ - [https://dmitry.gr](https://dmitry.gr)
+ - date published: 2023-10-25T19:27:25.347944+00:00
+ - user: None
+ - tags: []
+
+## Blog
+
+		🎤 Lexxman
+ - [https://www.lexx.gr](https://www.lexx.gr)
+ - date published: 2023-10-25T19:27:32.020037+00:00
+ - user: None
+ - tags: []
+
+## protothemanews.com | Protothema.gr news in english
+ - [https://en.protothema.gr](https://en.protothema.gr)
+ - date published: 2023-10-25T19:27:36.235371+00:00
+ - user: None
+ - tags: []
+
+## Skroutz Engineering
+ - [https://engineering.skroutz.gr](https://engineering.skroutz.gr)
+ - date published: 2023-10-25T19:27:37.896244+00:00
+ - user: None
+ - tags: []
+
+## Αρχική | Μουσείο Ακρόπολης | Επίσημος ιστοχώρος
+ - [https://www.theacropolismuseum.gr](https://www.theacropolismuseum.gr)
+ - date published: 2023-11-13T13:51:11.767913+00:00
+ - user: None
+ - tags: ['museum']
+
+## Τμήμα Επιστήμης Υπολογιστών - Πανεπιστήμιο Κρήτης
+ - [https://www.csd.uoc.gr](https://www.csd.uoc.gr)
+ - date published: 2023-10-25T19:27:39.747201+00:00
+ - user: None
+ - tags: []
+
+## Barbara
+ - [https://www.barbara.graphics](https://www.barbara.graphics)
+ - date published: 2023-10-25T19:27:40.717243+00:00
+ - user: None
+ - tags: []
+
+## Booklet
+ - [https://www.booklet.group](https://www.booklet.group)
+ - date published: 2023-10-25T19:27:41.800887+00:00
+ - user: None
+ - tags: []
+
+## Fortran Discourse - Fortran open source community
+ - [https://fortran-lang.discourse.group](https://fortran-lang.discourse.group)
+ - date published: 2023-10-25T19:27:46.377370+00:00
+ - user: None
+ - tags: []
+
+## Cyber Security solutions for Companies and Government
+ - [https://www.negg.group](https://www.negg.group)
+ - date published: 2024-02-06T11:06:38+00:00
+ - user: rumpel
+ - tags: ['spyware vendor']
+
+## Kim-Jong Cracks Social
+ - [https://nso.group](https://nso.group)
+ - date published: 2023-10-25T19:27:46.890969+00:00
+ - user: None
+ - tags: []
+
+## The Opsgroup Story – What we are about
+ - [https://ops.group](https://ops.group)
+ - date published: 2023-12-04T00:36:57.850661+00:00
+ - user: None
+ - tags: []
+
+## Juiced.GS - A quarterly Apple II magazine
+ - [https://juiced.gs](https://juiced.gs)
+ - date published: 2024-01-02T21:43:13.244766+00:00
+ - user: None
+ - tags: ['retro', 'apple ii']
+
+## A nice guy's view on life
+ - [https://jon.sprig.gs](https://jon.sprig.gs)
+ - date published: 2024-01-29T09:24:08.004263+00:00
+ - user: None
+ - tags: []
+
+## d2r.guide · Diablo II: Resurrected Cheat Sheet
+ - [https://d2r.guide](https://d2r.guide)
+ - date published: 2023-12-13T16:04:31.872838+00:00
+ - user: None
+ - tags: []
+
+## FFmpeg.guide - One stop solution to all things FFmpeg
+ - [https://ffmpeg.guide](https://ffmpeg.guide)
+ - date published: 2024-01-09T03:31:46.199295+00:00
+ - user: None
+ - tags: []
+
+## Show HN: IP Guide – info on IP addresses, Networks, and ASNs
+ - [https://ip.guide](https://ip.guide)
+ - date published: 2023-11-24T22:37:16+00:00
+ - user: None
+ - tags: []
+
+## Janet for Mortals
+ - [https://janet.guide](https://janet.guide)
+ - date published: 2023-10-25T19:27:47.704736+00:00
+ - user: None
+ - tags: []
+
+## Programming.Guide
+ - [https://programming.guide](https://programming.guide)
+ - date published: 2023-10-25T19:27:49.280845+00:00
+ - user: None
+ - tags: []
+
+## Introduction - The Marketplace Guide
+ - [https://themarketplace.guide](https://themarketplace.guide)
+ - date published: 2023-10-25T19:27:51.233231+00:00
+ - user: None
+ - tags: []
+
+## Guide to Web Authentication
+ - [https://webauthn.guide](https://webauthn.guide)
+ - date published: 2024-01-24T09:42:32+00:00
+ - user: rumpel
+ - tags: ['passkeys']
+
+## Hexagon's Blog
+ - [https://dev.hexagon.56k.guru](https://dev.hexagon.56k.guru)
+ - date published: 2023-10-25T09:21:56.086882+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nightcap Guru
+ - [https://www.nightcap.guru](https://www.nightcap.guru)
+ - date published: 2023-10-25T19:27:52.113533+00:00
+ - user: None
+ - tags: []
+
+## SuperMemo Guru - supermemo.guru
+ - [https://supermemo.guru](https://supermemo.guru)
+ - date published: 2024-01-09T03:31:47.346129+00:00
+ - user: None
+ - tags: []
+
+## Watcher Guru - Fastest Finance & Crypto News
+ - [https://watcher.guru](https://watcher.guru)
+ - date published: 2023-10-25T19:27:53.247909+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://app.y.gy](https://app.y.gy)
+ - date published: 2024-03-01T20:33:20.614440+00:00
+ - user: None
+ - tags: []
+
+## 404 Not Found
+ - [http://blog.deckc.hair](http://blog.deckc.hair)
+ - date published: 2023-10-25T19:27:53.491662+00:00
+ - user: None
+ - tags: []
+
+## Haihaus
+ - [https://www.hai.haus](https://www.hai.haus)
+ - date published: 2024-01-09T03:31:48.037056+00:00
+ - user: None
+ - tags: []
+
+## Radiant Chat | Your medical reference bot
+ - [https://chat.radiantai.health](https://chat.radiantai.health)
+ - date published: 2023-10-25T19:27:56.604094+00:00
+ - user: None
+ - tags: []
+
+## Turquoise Health Blog
+ - [https://blog.turquoise.health](https://blog.turquoise.health)
+ - date published: 2023-10-25T19:27:58.234456+00:00
+ - user: None
+ - tags: []
+
+## City University of Hong Kong
+ - [https://www.cityu.edu.hk](https://www.cityu.edu.hk)
+ - date published: 2023-11-12T14:24:15.942518+00:00
+ - user: None
+ - tags: []
+
 ## jon.hk
  - [https://jon.hk](https://jon.hk)
  - date published: 2023-10-25T19:28:01.121455+00:00
@@ -1332,14 +1520,14 @@
  - tags: []
 
 ## Erthalion
- - [https://erthalion.info](https://erthalion.info)
- - date published: 2023-10-25T19:33:09.948190+00:00
+ - [http://erthalion.info](http://erthalion.info)
+ - date published: 2024-02-25T15:21:46.039163+00:00
  - user: None
  - tags: []
 
 ## Erthalion
- - [http://erthalion.info](http://erthalion.info)
- - date published: 2024-02-25T15:21:46.039163+00:00
+ - [https://erthalion.info](https://erthalion.info)
+ - date published: 2023-10-25T19:33:09.948190+00:00
  - user: None
  - tags: []
 
@@ -1788,14 +1976,14 @@
  - tags: []
 
 ## TVP Info - najnowsze informacje z kraju i ze świata, wideo, transmisje on-line i relacje na żywo.
- - [http://www.tvp.info](http://www.tvp.info)
- - date published: 2024-02-26T13:23:41.448557+00:00
+ - [https://www.tvp.info](https://www.tvp.info)
+ - date published: 2023-10-25T19:35:11.469749+00:00
  - user: None
  - tags: []
 
 ## TVP Info - najnowsze informacje z kraju i ze świata, wideo, transmisje on-line i relacje na żywo.
- - [https://www.tvp.info](https://www.tvp.info)
- - date published: 2023-10-25T19:35:11.469749+00:00
+ - [http://www.tvp.info](http://www.tvp.info)
+ - date published: 2024-02-26T13:23:41.448557+00:00
  - user: None
  - tags: []
 
@@ -1860,14 +2048,14 @@
  - tags: []
 
 ## ∑ Xah Code
- - [http://xahlee.info](http://xahlee.info)
- - date published: 2023-10-25T19:35:40.088312+00:00
+ - [https://xahlee.info](https://xahlee.info)
+ - date published: 2024-01-29T11:11:38+00:00
  - user: rumpel
  - tags: []
 
 ## ∑ Xah Code
- - [https://xahlee.info](https://xahlee.info)
- - date published: 2024-01-29T11:11:38+00:00
+ - [http://xahlee.info](http://xahlee.info)
+ - date published: 2023-10-25T19:35:40.088312+00:00
  - user: rumpel
  - tags: []
 
@@ -2148,14 +2336,14 @@
  - tags: []
 
 ## American Express Technology
- - [https://americanexpress.io](https://americanexpress.io)
- - date published: 2023-10-25T19:37:33.148951+00:00
+ - [http://americanexpress.io](http://americanexpress.io)
+ - date published: 2024-02-25T14:44:25.925967+00:00
  - user: None
  - tags: []
 
 ## American Express Technology
- - [http://americanexpress.io](http://americanexpress.io)
- - date published: 2024-02-25T14:44:25.925967+00:00
+ - [https://americanexpress.io](https://americanexpress.io)
+ - date published: 2023-10-25T19:37:33.148951+00:00
  - user: None
  - tags: []
 
@@ -2451,7 +2639,7 @@
  - [https://bitmagnet.io](https://bitmagnet.io)
  - date published: 2023-10-25T19:38:40.683226+00:00
  - user: None
- - tags: []
+ - tags: ['p2p search engine']
 
 ## MindPop
  - [https://mindpop.blankenship.io](https://mindpop.blankenship.io)
@@ -5779,15 +5967,15 @@ through Composable Diffusion
  - user: None
  - tags: []
 
-## Show HN: Oasis – A Repository of Project Ideas
- - [https://oasis-of-ideas.github.io](https://oasis-of-ideas.github.io)
- - date published: 2023-11-29T20:46:27+00:00
- - user: None
- - tags: []
-
 ## Oasis | A Repository of Project Ideas
  - [http://oasis-of-ideas.github.io](http://oasis-of-ideas.github.io)
  - date published: 2024-02-29T14:58:25.399088+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Oasis – A Repository of Project Ideas
+ - [https://oasis-of-ideas.github.io](https://oasis-of-ideas.github.io)
+ - date published: 2023-11-29T20:46:27+00:00
  - user: None
  - tags: []
 
@@ -5812,192 +6000,6 @@ through Composable Diffusion
 ## Tea and Bits
  - [https://ohadravid.github.io](https://ohadravid.github.io)
  - date published: 2023-10-25T19:50:55.937894+00:00
- - user: None
- - tags: []
-
-## Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere
- - [https://ok-robot.github.io](https://ok-robot.github.io)
- - date published: 2024-02-23T17:23:23+00:00
- - user: None
- - tags: []
-
-## https://open-journey.github.io
- - [https://open-journey.github.io](https://open-journey.github.io)
- - date published: 2024-01-09T03:32:53.564573+00:00
- - user: None
- - tags: []
-
-## Sotolf's Blog
- - [https://opsahl.github.io](https://opsahl.github.io)
- - date published: 2023-10-25T08:49:25.098637+00:00
- - user: None
- - tags: ['personal']
-
-## Site not found · GitHub Pages
- - [https://osanseviero.github.io](https://osanseviero.github.io)
- - date published: 2024-01-03T21:23:24.597485+00:00
- - user: None
- - tags: []
-
-## OS-Copilot: Towards Generalist Computer Agents with Self-Improvement
- - [https://os-copilot.github.io](https://os-copilot.github.io)
- - date published: 2024-02-17T20:26:18+00:00
- - user: None
- - tags: []
-
-## Page Redirection
- - [https://ostreedev.github.io](https://ostreedev.github.io)
- - date published: 2023-10-25T19:51:03.196975+00:00
- - user: None
- - tags: []
-
-## Easily create apps for PC games on the Overwolf framework | Overwolf
- - [https://overwolf.github.io](https://overwolf.github.io)
- - date published: 2023-12-13T15:57:22.507855+00:00
- - user: None
- - tags: []
-
-## The JavaScript Oxidation Compiler
- - [https://oxc-project.github.io](https://oxc-project.github.io)
- - date published: 2023-12-16T20:21:13+00:00
- - user: None
- - tags: []
-
-## PaLM-E: An Embodied Multimodal Language Model
- - [https://palm-e.github.io](https://palm-e.github.io)
- - date published: 2023-10-25T19:51:04.713759+00:00
- - user: None
- - tags: []
-
-## https://patrickroxas.github.io
- - [https://patrickroxas.github.io](https://patrickroxas.github.io)
- - date published: 2024-01-04T03:33:46.508274+00:00
- - user: None
- - tags: []
-
-## https://paulsec.github.io
- - [https://paulsec.github.io](https://paulsec.github.io)
- - date published: 2023-10-25T19:51:06.414524+00:00
- - user: None
- - tags: []
-
-## None
- - [http://paulsec.github.io](http://paulsec.github.io)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Index – pcwalton – pcwalton's blog
- - [https://pcwalton.github.io](https://pcwalton.github.io)
- - date published: 2023-10-25T19:51:08.007982+00:00
- - user: None
- - tags: []
-
-## Pelayo Arbués
- - [https://pelayoarbues.github.io](https://pelayoarbues.github.io)
- - date published: 2024-01-13T09:36:59.010580+00:00
- - user: None
- - tags: []
-
-## Petr Lorenc
- - [https://petrlorenc.github.io](https://petrlorenc.github.io)
- - date published: 2024-01-22T03:52:33.980694+00:00
- - user: None
- - tags: []
-
-## PH3 Blog
- - [https://ph3at.github.io](https://ph3at.github.io)
- - date published: 2024-01-03T09:01:09.381646+00:00
- - user: None
- - tags: []
-
-## Phil Pearl's Blog
- - [https://philpearl.github.io](https://philpearl.github.io)
- - date published: 2023-10-25T08:59:13.014092+00:00
- - user: None
- - tags: ['personal']
-
-## My public GitHub repositories
- - [https://phiresky.github.io](https://phiresky.github.io)
- - date published: 2023-10-25T19:51:09.677043+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://pit-ray.github.io](https://pit-ray.github.io)
- - date published: 2023-11-12T04:00:37.739533+00:00
- - user: None
- - tags: []
-
-## Zero-shot Image-to-Image Translation
- - [https://pix2pixzero.github.io](https://pix2pixzero.github.io)
- - date published: 2023-10-25T19:51:11.300419+00:00
- - user: None
- - tags: []
-
-## Home | Piotr Kołaczkowski
- - [https://pkolaczk.github.io](https://pkolaczk.github.io)
- - date published: 2023-10-25T19:51:12.806431+00:00
- - user: None
- - tags: []
-
-## Parth Parikh
- - [https://pncnmnp.github.io](https://pncnmnp.github.io)
- - date published: 2023-10-25T19:51:14.101250+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://poignardazur.github.io](https://poignardazur.github.io)
- - date published: 2023-10-25T08:59:13.836226+00:00
- - user: None
- - tags: ['personal']
-
-## Polymer Legal Files
- - [https://polymer.github.io](https://polymer.github.io)
- - date published: 2024-01-09T03:32:54.098760+00:00
- - user: None
- - tags: []
-
-## Pomax.github.io
- - [https://pomax.github.io](https://pomax.github.io)
- - date published: 2023-10-25T19:51:15.362291+00:00
- - user: None
- - tags: []
-
-## Portavita Devblog
- - [https://portavita.github.io](https://portavita.github.io)
- - date published: 2023-10-29T06:20:24.653388+00:00
- - user: None
- - tags: []
-
-## Tom Hulton-Harrop | A programming blog
- - [https://pr0g.github.io](https://pr0g.github.io)
- - date published: 2023-10-25T19:51:17.054227+00:00
- - user: None
- - tags: []
-
-## Redirecting to https://humantorch.github.io/
- - [https://prayingmadness.github.io](https://prayingmadness.github.io)
- - date published: 2024-01-16T23:54:06.566120+00:00
- - user: None
- - tags: []
-
-## precondition
- - [https://precondition.github.io](https://precondition.github.io)
- - date published: 2023-12-03T17:58:27.872171+00:00
- - user: None
- - tags: []
-
-## 🏠 Home
- - [https://prirai.github.io](https://prirai.github.io)
- - date published: 2023-10-25T19:51:18.689447+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://probablykam.github.io](https://probablykam.github.io)
- - date published: 2024-01-11T02:25:21.330455+00:00
  - user: None
  - tags: []
 

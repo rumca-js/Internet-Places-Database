@@ -1,3 +1,111 @@
+## pointerpointer.com
+ - [https://pointerpointer.com](https://pointerpointer.com)
+ - date published: 2023-10-29T09:21:57.332118+00:00
+ - user: None
+ - tags: ['wtf']
+
+## Pointers Gone Wild | A blog about programming, technology and society.
+ - [https://pointersgonewild.com](https://pointersgonewild.com)
+ - date published: 2023-10-25T16:37:11.656783+00:00
+ - user: None
+ - tags: []
+
+## Adventures in Linux and KDE – Below is a brief look at recent changes in the KDE projects I work on and follow!
+ - [https://pointieststick.com](https://pointieststick.com)
+ - date published: 2023-10-25T16:37:22.842956+00:00
+ - user: None
+ - tags: []
+
+## Points 411: the best points and miles database on the internet!
+ - [https://www.points411.com](https://www.points411.com)
+ - date published: 2023-10-25T16:37:26.668361+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.pointsdevue.com](https://www.pointsdevue.com)
+ - date published: 2024-01-09T02:46:55.737339+00:00
+ - user: None
+ - tags: []
+
+## Poised: AI-Powered Communication Coach
+ - [https://www.poised.com](https://www.poised.com)
+ - date published: 2023-10-25T16:37:29.231064+00:00
+ - user: None
+ - tags: []
+
+## Poki - Free Online Games - Play Online Games!
+ - [https://poki.com](https://poki.com)
+ - date published: 2023-10-25T11:17:06.102313+00:00
+ - user: None
+ - tags: ['games']
+
+## pokolenieX
+ - [https://www.pokoleniex.com](https://www.pokoleniex.com)
+ - date published: 2023-10-25T10:38:07.920804+00:00
+ - user: None
+ - tags: []
+
+## polarbearscience
+ - [https://polarbearscience.com](https://polarbearscience.com)
+ - date published: 2024-01-12T20:42:25.996560+00:00
+ - user: None
+ - tags: []
+
+## Debug Daily. Optimize Always | Polar Signals
+ - [https://www.polarsignals.com](https://www.polarsignals.com)
+ - date published: 2023-10-25T16:37:30.186144+00:00
+ - user: None
+ - tags: []
+
+## Pole Clock
+ - [https://poleclock.com](https://poleclock.com)
+ - date published: 2023-10-25T16:37:30.634994+00:00
+ - user: None
+ - tags: []
+
+## Law Enforcement News - The Police Tribune
+ - [https://policetribune.com](https://policetribune.com)
+ - date published: 2023-10-25T16:37:32.523394+00:00
+ - user: None
+ - tags: []
+
+## De Angela L. Duff
+ - [https://www.polishedsolid.com](https://www.polishedsolid.com)
+ - date published: 2023-12-20T11:44:35.174499+00:00
+ - user: None
+ - tags: ['personal']
+
+## De Angela L. Duff
+ - [http://www.polishedsolid.com](http://www.polishedsolid.com)
+ - date published: 2023-12-23T02:59:58.572062+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://polishpixels.com
+ - [https://polishpixels.com](https://polishpixels.com)
+ - date published: 2023-10-25T11:17:06.597315+00:00
+ - user: None
+ - tags: []
+
+## Political Wire
+ - [https://politicalwire.com](https://politicalwire.com)
+ - date published: 2023-11-15T19:47:16.888313+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://rss.politico.com](https://rss.politico.com)
+ - date published: 2024-01-09T02:21:46.328215+00:00
+ - user: None
+ - tags: []
+
+## Politics, Policy, Political News - POLITICO
+ - [https://www.politico.com](https://www.politico.com)
+ - date published: 2023-10-25T10:28:21.996956+00:00
+ - user: None
+ - tags: []
+
 ## PolitiFact
  - [https://www.politifact.com](https://www.politifact.com)
  - date published: 2023-11-14T13:36:23.125783+00:00
@@ -17,13 +125,13 @@
  - tags: []
 
 ## Considerations on Codecrafting
- - [https://blog.polybdenum.com](https://blog.polybdenum.com)
+ - [http://blog.polybdenum.com](http://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Considerations on Codecrafting
- - [http://blog.polybdenum.com](http://blog.polybdenum.com)
+ - [https://blog.polybdenum.com](https://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
@@ -441,6 +549,12 @@
  - date published: 2024-02-08T22:10:37.837839+00:00
  - user: None
  - tags: []
+
+## Presearch
+ - [https://presearch.com](https://presearch.com)
+ - date published: 2024-03-06T13:27:12+00:00
+ - user: rumpel
+ - tags: ['search engine']
 
 ## Present&Correct – SUNDRIES FOR THE MODERN WORKSPACE
  - [http://blog.presentandcorrect.com](http://blog.presentandcorrect.com)
@@ -1712,17 +1826,17 @@
  - user: None
  - tags: []
 
-## None
- - [http://rachelwestbooks.com](http://rachelwestbooks.com)
- - date published: 2024-02-29T14:58:43.538321+00:00
- - user: None
- - tags: []
-
 ## http://rachelwestbooks.com
  - [https://rachelwestbooks.com](https://rachelwestbooks.com)
  - date published: 2024-02-09T00:19:01.129739+00:00
  - user: None
  - tags: ['poetry', 'book', 'personal']
+
+## None
+ - [http://rachelwestbooks.com](http://rachelwestbooks.com)
+ - date published: 2024-02-29T14:58:43.538321+00:00
+ - user: None
+ - tags: []
 
 ## Rachel Zampino | Website Wizard - Rachel Zampino
  - [https://rachelzampino.com](https://rachelzampino.com)
@@ -2134,16 +2248,16 @@ More!
  - tags: []
 
 ## Ravenfeast
- - [https://www.ravenfeast.com](https://www.ravenfeast.com)
- - date published: 2024-03-01T09:41:52+00:00
- - user: rumpel
- - tags: ['tabletop games', 'wargames']
-
-## Ravenfeast
  - [http://www.ravenfeast.com](http://www.ravenfeast.com)
  - date published: 2024-03-01T18:35:27.406553+00:00
  - user: None
  - tags: []
+
+## Ravenfeast
+ - [https://www.ravenfeast.com](https://www.ravenfeast.com)
+ - date published: 2024-03-01T09:41:52+00:00
+ - user: rumpel
+ - tags: ['tabletop games', 'wargames']
 
 ## https://www.ravensoft.com
  - [https://www.ravensoft.com](https://www.ravensoft.com)
@@ -2536,14 +2650,14 @@ More!
  - tags: []
 
 ## reddit
- - [https://www.reddit.com](https://www.reddit.com)
- - date published: 2023-10-24T20:16:46.235665+00:00
+ - [http://www.reddit.com](http://www.reddit.com)
+ - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
 
 ## reddit
- - [http://www.reddit.com](http://www.reddit.com)
- - date published: 2024-02-20T00:00:00+00:00
+ - [https://www.reddit.com](https://www.reddit.com)
+ - date published: 2023-10-24T20:16:46.235665+00:00
  - user: None
  - tags: []
 
@@ -2590,14 +2704,14 @@ More!
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [http://www.reddit-stream.com](http://www.reddit-stream.com)
- - date published: 2023-12-23T19:30:18.252561+00:00
+ - [https://www.reddit-stream.com](https://www.reddit-stream.com)
+ - date published: 2023-11-01T21:08:19.834690+00:00
  - user: None
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [https://www.reddit-stream.com](https://www.reddit-stream.com)
- - date published: 2023-11-01T21:08:19.834690+00:00
+ - [http://www.reddit-stream.com](http://www.reddit-stream.com)
+ - date published: 2023-12-23T19:30:18.252561+00:00
  - user: None
  - tags: []
 
@@ -4876,14 +4990,14 @@ More!
  - tags: []
 
 ## Home :: Sacha Chua
- - [https://sachachua.com](https://sachachua.com)
- - date published: 2024-01-06T02:24:05.322702+00:00
+ - [http://sachachua.com](http://sachachua.com)
+ - date published: 2024-01-05T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Home :: Sacha Chua
- - [http://sachachua.com](http://sachachua.com)
- - date published: 2024-01-05T00:00:00+00:00
+ - [https://sachachua.com](https://sachachua.com)
+ - date published: 2024-01-06T02:24:05.322702+00:00
  - user: None
  - tags: []
 
@@ -5176,14 +5290,14 @@ More!
  - tags: []
 
 ## Samsung Members Community
- - [https://r2.community.samsung.com](https://r2.community.samsung.com)
- - date published: 2024-01-20T05:57:49.133663+00:00
+ - [http://r2.community.samsung.com](http://r2.community.samsung.com)
+ - date published: 2024-02-26T14:44:02.734270+00:00
  - user: None
  - tags: []
 
 ## Samsung Members Community
- - [http://r2.community.samsung.com](http://r2.community.samsung.com)
- - date published: 2024-02-26T14:44:02.734270+00:00
+ - [https://r2.community.samsung.com](https://r2.community.samsung.com)
+ - date published: 2024-01-20T05:57:49.133663+00:00
  - user: None
  - tags: []
 
@@ -5350,16 +5464,16 @@ More!
  - tags: []
 
 ## - SarahMcCulloch.com | With Strength and Spirit
- - [http://www.sarahmcculloch.com](http://www.sarahmcculloch.com)
- - date published: 2023-12-24T08:15:55.915305+00:00
- - user: None
- - tags: ['personal']
-
-## - SarahMcCulloch.com | With Strength and Spirit
  - [https://www.sarahmcculloch.com](https://www.sarahmcculloch.com)
  - date published: 2024-02-25T18:59:28.441249+00:00
  - user: None
  - tags: []
+
+## - SarahMcCulloch.com | With Strength and Spirit
+ - [http://www.sarahmcculloch.com](http://www.sarahmcculloch.com)
+ - date published: 2023-12-24T08:15:55.915305+00:00
+ - user: None
+ - tags: ['personal']
 
 ## sara kingsley – YA :: FANTASY :: ROMANCE
  - [https://www.sarakingsley.com](https://www.sarakingsley.com)
@@ -5892,120 +6006,6 @@ More!
 ## Scott P. Scheper - Official Website
  - [https://www.scottscheper.com](https://www.scottscheper.com)
  - date published: 2023-10-25T16:59:54.583038+00:00
- - user: None
- - tags: []
-
-## The World According to Scott
- - [https://scottswezey.com](https://scottswezey.com)
- - date published: 2023-11-04T15:48:18.224107+00:00
- - user: None
- - tags: []
-
-## Scott Wyden Kivowitz | New Jersey Photographer & Educator
- - [https://scottwyden.com](https://scottwyden.com)
- - date published: 2023-11-29T16:19:48.777910+00:00
- - user: None
- - tags: ['personal']
-
-## SCOTUSblog - Independent News & Analysis on the U.S. Supreme Court
- - [https://www.scotusblog.com](https://www.scotusblog.com)
- - date published: 2023-12-05T14:10:03.185073+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.scrapehero.com](https://www.scrapehero.com)
- - date published: 2024-01-17T09:15:02+00:00
- - user: None
- - tags: ['web scraping']
-
-## ScrapingBee, the best web scraping API.
- - [https://www.scrapingbee.com](https://www.scrapingbee.com)
- - date published: 2023-10-25T16:59:56.121936+00:00
- - user: None
- - tags: []
-
-## ScratchDB
- - [https://scratchdb.com](https://scratchdb.com)
- - date published: 2023-10-25T16:59:56.874210+00:00
- - user: None
- - tags: []
-
-## Screen Idle - Funny Movie News for Groovy People
- - [https://www.screen-idle.com](https://www.screen-idle.com)
- - date published: 2023-10-25T16:59:58.854404+00:00
- - user: None
- - tags: []
-
-## Screenlace - How people started successful YouTube channels
- - [https://screenlace.com](https://screenlace.com)
- - date published: 2024-02-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Screenlace - How people started successful YouTube channels
- - [https://www.screenlace.com](https://www.screenlace.com)
- - date published: 2024-01-09T02:48:30.103493+00:00
- - user: None
- - tags: []
-
-## ScreenRant
- - [https://screenrant.com](https://screenrant.com)
- - date published: 2024-01-10T15:08:21+00:00
- - user: rumpel
- - tags: ['news', 'movie news']
-
-## screen-scraper: Data extraction software and services
- - [https://www.screen-scraper.com](https://www.screen-scraper.com)
- - date published: 2024-01-17T09:14:32+00:00
- - user: rumpel
- - tags: ['web scraping']
-
-## Screen Slate | Cinematic Excellence Est. 2011 | Upcoming Film Showtimes NYC
- - [https://www.screenslate.com](https://www.screenslate.com)
- - date published: 2023-10-25T17:00:00.067981+00:00
- - user: None
- - tags: []
-
-## Screenstab
- - [https://www.screenstab.com](https://www.screenstab.com)
- - date published: 2023-10-25T17:00:01.292835+00:00
- - user: None
- - tags: []
-
-## Scribble Diffusion
- - [https://scribblediffusion.com](https://scribblediffusion.com)
- - date published: 2023-10-25T17:00:06.661637+00:00
- - user: None
- - tags: []
-
-## Scribd: Ebooks, Audiobooks & More - Read Free for 30 Days
- - [https://www.scribd.com](https://www.scribd.com)
- - date published: 2023-10-25T11:19:26.409861+00:00
- - user: None
- - tags: []
-
-## Scripps News | U.S. News and Latest World Headlines
- - [https://scrippsnews.com](https://scrippsnews.com)
- - date published: 2023-10-25T17:00:14.765540+00:00
- - user: None
- - tags: []
-
-## Scripting News
- - [http://scripting.com](http://scripting.com)
- - date published: 2023-10-25T17:00:18.736315+00:00
- - user: None
- - tags: []
-
-## Script Kit: Shortcut to Everything
- - [https://www.scriptkit.com](https://www.scriptkit.com)
- - date published: 2023-10-25T17:00:20.833237+00:00
- - user: None
- - tags: []
-
-## Select product's range
- - [https://www.scsi4me.com](https://www.scsi4me.com)
- - date published: 2024-01-09T02:48:42.657158+00:00
  - user: None
  - tags: []
 

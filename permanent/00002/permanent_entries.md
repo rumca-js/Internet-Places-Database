@@ -1,3 +1,33 @@
+## Allegra Stein
+ - [https://www.allegrastein.com](https://www.allegrastein.com)
+ - date published: 2023-12-14T01:27:23.359016+00:00
+ - user: None
+ - tags: ['personal']
+
+## index | i’m so full of ideas
+ - [https://allenbrunson.com](https://allenbrunson.com)
+ - date published: 2023-10-25T12:38:58.401458+00:00
+ - user: None
+ - tags: []
+
+## Home - Allen Cheng
+ - [https://www.allencheng.com](https://www.allencheng.com)
+ - date published: 2023-10-25T08:44:11.625237+00:00
+ - user: None
+ - tags: ['personal']
+
+## Allen Downey
+ - [https://www.allendowney.com](https://www.allendowney.com)
+ - date published: 2023-10-25T08:44:16.793723+00:00
+ - user: None
+ - tags: ['personal']
+
+## Allen Pike, pixel crafter
+ - [https://allenpike.com](https://allenpike.com)
+ - date published: 2023-10-29T12:00:36.784378+00:00
+ - user: None
+ - tags: []
+
 ## Allison Grayce Marshall – Co-founder & Designer at Notably
  - [https://www.allisongrayce.com](https://www.allisongrayce.com)
  - date published: 2023-10-25T09:04:25.699505+00:00
@@ -719,14 +749,14 @@
  - tags: []
 
 ## AnandTech: Hardware News and Tech Reviews Since 1997
- - [http://www.anandtech.com](http://www.anandtech.com)
- - date published: 2024-02-25T14:47:04.684996+00:00
+ - [https://www.anandtech.com](https://www.anandtech.com)
+ - date published: 2023-10-25T10:36:40.104893+00:00
  - user: None
  - tags: []
 
 ## AnandTech: Hardware News and Tech Reviews Since 1997
- - [https://www.anandtech.com](https://www.anandtech.com)
- - date published: 2023-10-25T10:36:40.104893+00:00
+ - [http://www.anandtech.com](http://www.anandtech.com)
+ - date published: 2024-02-25T14:47:04.684996+00:00
  - user: None
  - tags: []
 
@@ -2175,6 +2205,12 @@
  - date published: 2023-12-11T19:08:52.118971+00:00
  - user: None
  - tags: []
+
+## Start | Arrowhead
+ - [https://www.arrowheadgamestudios.com](https://www.arrowheadgamestudios.com)
+ - date published: 2024-03-06T18:18:48.616136+00:00
+ - user: None
+ - tags: ['video game developer']
 
 ## Ars Technica
  - [https://arstechnica.com](https://arstechnica.com)
@@ -4486,6 +4522,12 @@
  - user: None
  - tags: ['personal']
 
+## bgdailynews.com | Southcentral Kentucky's No. 1 Source for News
+ - [https://www.bgdailynews.com](https://www.bgdailynews.com)
+ - date published: 2024-02-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## BGR | Tech & Entertainment News, Reviews, & Deals
  - [https://bgr.com](https://bgr.com)
  - date published: 2023-10-25T12:58:43.634023+00:00
@@ -5955,46 +5997,4 @@
  - date published: 2023-10-25T09:09:31.726360+00:00
  - user: None
  - tags: ['personal']
-
-## The Legasov Tapes
- - [https://legasovtapetranslation.blogspot.com](https://legasovtapetranslation.blogspot.com)
- - date published: 2023-10-25T09:09:33.364290+00:00
- - user: None
- - tags: ['personal']
-
-## Litherum
- - [https://litherum.blogspot.com](https://litherum.blogspot.com)
- - date published: 2023-10-25T13:05:24.030253+00:00
- - user: None
- - tags: []
-
-## Living Stingy
- - [https://livingstingy.blogspot.com](https://livingstingy.blogspot.com)
- - date published: 2023-10-25T13:05:32.372582+00:00
- - user: None
- - tags: []
-
-## Maddy's Ramblings
- - [https://maddy06.blogspot.com](https://maddy06.blogspot.com)
- - date published: 2023-10-25T09:09:39.571727+00:00
- - user: None
- - tags: ['personal']
-
-## main is usually a function
- - [https://mainisusuallyafunction.blogspot.com](https://mainisusuallyafunction.blogspot.com)
- - date published: 2023-10-25T09:09:43.541835+00:00
- - user: None
- - tags: ['personal']
-
-## Adventures in PC Emulation
- - [https://martypc.blogspot.com](https://martypc.blogspot.com)
- - date published: 2023-10-25T13:05:36.468742+00:00
- - user: None
- - tags: []
-
-## HellRideHellYeah
- - [https://mavoui.blogspot.com](https://mavoui.blogspot.com)
- - date published: 2024-02-08T16:50:27.150499+00:00
- - user: None
- - tags: []
 

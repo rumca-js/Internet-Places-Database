@@ -1,3 +1,33 @@
+## iter.ca
+ - [http://iter.ca](http://iter.ca)
+ - date published: 2024-01-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## iter.ca
+ - [https://iter.ca](https://iter.ca)
+ - date published: 2024-01-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ivan Reese
+ - [https://ivanish.ca](https://ivanish.ca)
+ - date published: 2023-10-25T08:42:57.754586+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jason Shew
+ - [https://jasonshew.ca](https://jasonshew.ca)
+ - date published: 2023-12-09T10:38:16.871758+00:00
+ - user: None
+ - tags: ['personal']
+
+## Author Jenn Ashton
+ - [https://jenniferashton.ca](https://jenniferashton.ca)
+ - date published: 2023-12-20T19:14:23.669927+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Author Jenn Ashton
  - [http://jenniferashton.ca](http://jenniferashton.ca)
  - date published: 2023-12-25T04:56:31.047100+00:00
@@ -5969,36 +5999,6 @@
 ## Allconnect.com: Find Internet Providers Near You | 844-845-3968
  - [https://www.allconnect.com](https://www.allconnect.com)
  - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Allegra Stein
- - [https://www.allegrastein.com](https://www.allegrastein.com)
- - date published: 2023-12-14T01:27:23.359016+00:00
- - user: None
- - tags: ['personal']
-
-## index | i’m so full of ideas
- - [https://allenbrunson.com](https://allenbrunson.com)
- - date published: 2023-10-25T12:38:58.401458+00:00
- - user: None
- - tags: []
-
-## Home - Allen Cheng
- - [https://www.allencheng.com](https://www.allencheng.com)
- - date published: 2023-10-25T08:44:11.625237+00:00
- - user: None
- - tags: ['personal']
-
-## Allen Downey
- - [https://www.allendowney.com](https://www.allendowney.com)
- - date published: 2023-10-25T08:44:16.793723+00:00
- - user: None
- - tags: ['personal']
-
-## Allen Pike, pixel crafter
- - [https://allenpike.com](https://allenpike.com)
- - date published: 2023-10-29T12:00:36.784378+00:00
  - user: None
  - tags: []
 

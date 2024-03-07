@@ -1,3 +1,45 @@
+## The Legasov Tapes
+ - [https://legasovtapetranslation.blogspot.com](https://legasovtapetranslation.blogspot.com)
+ - date published: 2023-10-25T09:09:33.364290+00:00
+ - user: None
+ - tags: ['personal']
+
+## Litherum
+ - [https://litherum.blogspot.com](https://litherum.blogspot.com)
+ - date published: 2023-10-25T13:05:24.030253+00:00
+ - user: None
+ - tags: []
+
+## Living Stingy
+ - [https://livingstingy.blogspot.com](https://livingstingy.blogspot.com)
+ - date published: 2023-10-25T13:05:32.372582+00:00
+ - user: None
+ - tags: []
+
+## Maddy's Ramblings
+ - [https://maddy06.blogspot.com](https://maddy06.blogspot.com)
+ - date published: 2023-10-25T09:09:39.571727+00:00
+ - user: None
+ - tags: ['personal']
+
+## main is usually a function
+ - [https://mainisusuallyafunction.blogspot.com](https://mainisusuallyafunction.blogspot.com)
+ - date published: 2023-10-25T09:09:43.541835+00:00
+ - user: None
+ - tags: ['personal']
+
+## Adventures in PC Emulation
+ - [https://martypc.blogspot.com](https://martypc.blogspot.com)
+ - date published: 2023-10-25T13:05:36.468742+00:00
+ - user: None
+ - tags: []
+
+## HellRideHellYeah
+ - [https://mavoui.blogspot.com](https://mavoui.blogspot.com)
+ - date published: 2024-02-08T16:50:27.150499+00:00
+ - user: None
+ - tags: []
+
 ## Code rant
  - [https://mikehadlow.blogspot.com](https://mikehadlow.blogspot.com)
  - date published: 2023-10-25T09:09:48.126384+00:00
@@ -847,14 +889,14 @@
  - tags: ['books']
 
 ## Bookreporter.com |
- - [https://www.bookreporter.com](https://www.bookreporter.com)
- - date published: 2023-11-07T16:06:19.097099+00:00
+ - [http://www.bookreporter.com](http://www.bookreporter.com)
+ - date published: 2024-03-01T19:06:27.394328+00:00
  - user: None
  - tags: []
 
 ## Bookreporter.com |
- - [http://www.bookreporter.com](http://www.bookreporter.com)
- - date published: 2024-03-01T19:06:27.394328+00:00
+ - [https://www.bookreporter.com](https://www.bookreporter.com)
+ - date published: 2023-11-07T16:06:19.097099+00:00
  - user: None
  - tags: []
 
@@ -5966,48 +6008,6 @@
 ## https://storage.courtlistener.com
  - [https://storage.courtlistener.com](https://storage.courtlistener.com)
  - date published: 2024-01-09T02:33:06.039037+00:00
- - user: None
- - tags: []
-
-## CourtListener
- - [https://www.courtlistener.com](https://www.courtlistener.com)
- - date published: 2023-10-25T08:29:39.927079+00:00
- - user: None
- - tags: []
-
-## Private Banking and Wealth Management | Coutts Bank
- - [https://www.coutts.com](https://www.coutts.com)
- - date published: 2023-10-25T13:34:52.836806+00:00
- - user: None
- - tags: []
-
-## Home - CovertAction Magazine
- - [https://covertactionmagazine.com](https://covertactionmagazine.com)
- - date published: 2023-10-25T13:35:05.525695+00:00
- - user: None
- - tags: []
-
-## Home | Covid-19 Data Science
- - [https://www.covid-datascience.com](https://www.covid-datascience.com)
- - date published: 2023-10-25T13:35:14.919081+00:00
- - user: None
- - tags: []
-
-## Your Wyoming News Source
- - [https://cowboystatedaily.com](https://cowboystatedaily.com)
- - date published: 2023-10-25T13:35:20.916354+00:00
- - user: None
- - tags: []
-
-## Cox communications
- - [https://www.cox.com](https://www.cox.com)
- - date published: 2024-02-22T07:52:09+00:00
- - user: rumpel
- - tags: []
-
-## CP24 – Toronto, GTA, Ontario Breaking News Today
- - [https://www.cp24.com](https://www.cp24.com)
- - date published: 2023-11-03T20:13:08.626638+00:00
  - user: None
  - tags: []
 

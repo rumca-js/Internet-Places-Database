@@ -1,3 +1,147 @@
+## westchestermortgage.com
+ - [https://www.westchestermortgage.com](https://www.westchestermortgage.com)
+ - date published: 2024-02-08T17:47:51.170926+00:00
+ - user: None
+ - tags: []
+
+## High-Performance SSDs, HDDs, USB Drives, &amp; Memory Cards | Western Digital
+ - [https://www.westerndigital.com](https://www.westerndigital.com)
+ - date published: 2023-11-01T08:43:25.034810+00:00
+ - user: None
+ - tags: []
+
+## Western Canada Business and Real Estate News
+ - [https://www.westerninvestor.com](https://www.westerninvestor.com)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://info.westinghousenuclear.com
+ - [https://info.westinghousenuclear.com](https://info.westinghousenuclear.com)
+ - date published: 2024-01-09T02:53:54.064429+00:00
+ - user: None
+ - tags: []
+
+## Shaping Tomorrow's Energy | Westinghouse Electric Company
+ - [https://www.westinghousenuclear.com](https://www.westinghousenuclear.com)
+ - date published: 2024-01-09T02:53:57.112918+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://westphaliantimes.com](https://westphaliantimes.com)
+ - date published: 2024-01-09T02:54:02.017579+00:00
+ - user: None
+ - tags: []
+
+## Your Page Title
+ - [https://www.wesworld.com](https://www.wesworld.com)
+ - date published: 2024-02-08T18:05:16.579452+00:00
+ - user: None
+ - tags: []
+
+## Wes Wyatt
+ - [https://www.weswyatt.com](https://www.weswyatt.com)
+ - date published: 2023-12-18T01:34:44.477408+00:00
+ - user: None
+ - tags: ['personal']
+
+## WeTransfer - Send Large Files & Share Photos Online - Up to 2GB Free
+ - [https://wetransfer.com](https://wetransfer.com)
+ - date published: 2024-01-25T18:59:28+00:00
+ - user: rumpel
+ - tags: ['file hosting', 'file sharing']
+
+## None
+ - [https://wevpn.com](https://wevpn.com)
+ - date published: 2024-01-09T02:54:13.120868+00:00
+ - user: None
+ - tags: []
+
+## Access Denied
+ - [https://www.wfaa.com](https://www.wfaa.com)
+ - date published: 2023-10-27T11:56:51.812151+00:00
+ - user: None
+ - tags: []
+
+## Access Restricted
+ - [https://www.wfla.com](https://www.wfla.com)
+ - date published: 2023-11-10T02:12:09.738510+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.wfmj.com](https://www.wfmj.com)
+ - date published: 2023-12-01T16:23:15.879267+00:00
+ - user: None
+ - tags: []
+
+## The WFMT Studs Terkel Radio Archive | A Living Celebration
+ - [https://studsterkel.wfmt.com](https://studsterkel.wfmt.com)
+ - date published: 2023-10-25T18:03:10.011308+00:00
+ - user: None
+ - tags: []
+
+## wfmz.com | Your Life, Your World, Your NEWS
+ - [https://www.wfmz.com](https://www.wfmz.com)
+ - date published: 2023-11-15T18:40:50.031661+00:00
+ - user: None
+ - tags: []
+
+## Orlando News, Weather, and Sports | WFTV – WFTV
+ - [https://www.wftv.com](https://www.wftv.com)
+ - date published: 2023-10-31T19:10:21.991353+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://track.wg-aff.com](https://track.wg-aff.com)
+ - date published: 2024-01-09T02:54:14.354613+00:00
+ - user: None
+ - tags: []
+
+## Portland News, Weather, Sports, Breaking News | WGME
+ - [https://wgme.com](https://wgme.com)
+ - date published: 2024-01-03T09:56:23.975437+00:00
+ - user: None
+ - tags: []
+
+## Access Restricted
+ - [https://wgntv.com](https://wgntv.com)
+ - date published: 2024-01-09T02:54:16.996136+00:00
+ - user: None
+ - tags: []
+
+## Access Denied
+ - [https://www.whas11.com](https://www.whas11.com)
+ - date published: 2023-10-25T18:03:10.464733+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Whataaabout.com – unique activity ideas for the holiday break
+ - [https://www.whataaabout.com](https://www.whataaabout.com)
+ - date published: 2023-12-26T15:13:08+00:00
+ - user: None
+ - tags: []
+
+## What does this code do?
+ - [https://whatdoesthiscodedo.com](https://whatdoesthiscodedo.com)
+ - date published: 2023-10-25T18:03:11.005084+00:00
+ - user: None
+ - tags: []
+
+## What Hi-Fi? | Tech news and reviews
+ - [https://www.whathifi.com](https://www.whathifi.com)
+ - date published: 2023-10-25T18:03:26.791247+00:00
+ - user: None
+ - tags: []
+
+## What is my IP
+ - [https://whatismyipaddress.com](https://whatismyipaddress.com)
+ - date published: 2024-03-06T11:11:17+00:00
+ - user: rumpel
+ - tags: ['online tool']
+
 ## What Lisa Cooks
  - [https://www.whatlisacooks.com](https://www.whatlisacooks.com)
  - date published: 2023-10-25T18:03:33.421482+00:00
@@ -635,14 +779,14 @@
  - tags: []
 
 ## WinWorld: Welcome
- - [http://winworldpc.com](http://winworldpc.com)
- - date published: 2024-02-26T08:40:39.467757+00:00
+ - [https://winworldpc.com](https://winworldpc.com)
+ - date published: 2024-01-01T19:17:47.205122+00:00
  - user: None
  - tags: []
 
 ## WinWorld: Welcome
- - [https://winworldpc.com](https://winworldpc.com)
- - date published: 2024-01-01T19:17:47.205122+00:00
+ - [http://winworldpc.com](http://winworldpc.com)
+ - date published: 2024-02-26T08:40:39.467757+00:00
  - user: None
  - tags: []
 
@@ -979,6 +1123,12 @@
 ## 404 - Not found or no permission to access
  - [https://know.wolterskluwerlr.com](https://know.wolterskluwerlr.com)
  - date published: 2024-02-08T16:46:39.249954+00:00
+ - user: None
+ - tags: []
+
+## Home - Women's Prize
+ - [https://womensprize.com](https://womensprize.com)
+ - date published: 2024-03-05T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2860,17 +3010,17 @@
  - user: None
  - tags: []
 
-## xkcd: Daylight Saving Choice
- - [https://xkcd.com](https://xkcd.com)
- - date published: 2023-10-25T18:21:57.309268+00:00
- - user: None
- - tags: ['memes', 'funny images', 'comics']
-
 ## Orbital Argument
  - [http://xkcd.com](http://xkcd.com)
  - date published: 2024-02-26T15:13:51.426193+00:00
  - user: None
  - tags: []
+
+## xkcd: Daylight Saving Choice
+ - [https://xkcd.com](https://xkcd.com)
+ - date published: 2023-10-25T18:21:57.309268+00:00
+ - user: None
+ - tags: ['memes', 'funny images', 'comics']
 
 ## x mod 2 | Kirk Thaker | Substack
  - [https://www.xmodtwo.com](https://www.xmodtwo.com)
@@ -3364,24 +3514,6 @@
  - user: None
  - tags: []
 
-## NewRetroWave YouTube Channel
- - [https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g](https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g)
- - date published: 2023-11-13T09:23:17+00:00
- - user: rumpel
- - tags: ['synthwave', 'new retro wave']
-
-## YouTube Channel hipoonios
- - [https://www.youtube.com/@hipoonios](https://www.youtube.com/@hipoonios)
- - date published: 2023-11-02T10:41:50+00:00
- - user: rumpel
- - tags: ['amiga']
-
-## Jeff Geerling YouTube Channel
- - [https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg)
- - date published: 2023-11-03T10:34:47+00:00
- - user: rumpel
- - tags: ['youtuber', 'single-board', 'raspberry']
-
 ## Eta Prime YouTube Channel
  - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
  - date published: 2023-11-03T10:35:46+00:00
@@ -3400,12 +3532,6 @@
  - user: rumpel
  - tags: ['warhammer', 'tabletop games']
 
-## Squidmar Miniatures
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g)
- - date published: 2023-11-08T09:58:45+00:00
- - user: rumpel
- - tags: ['warhammer', 'wargames', 'miniatures']
-
 ## Tabletop Minions
  - [https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ)
  - date published: 2023-11-08T09:59:26+00:00
@@ -3418,11 +3544,35 @@
  - user: rumpel
  - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
 
+## NewRetroWave YouTube Channel
+ - [https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g](https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g)
+ - date published: 2023-11-13T09:23:17+00:00
+ - user: rumpel
+ - tags: ['synthwave', 'new retro wave']
+
 ## YouTube
  - [http://www.youtube.com](http://www.youtube.com)
  - date published: 2024-03-06T00:00:00+00:00
  - user: None
  - tags: []
+
+## Squidmar Miniatures
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g)
+ - date published: 2023-11-08T09:58:45+00:00
+ - user: rumpel
+ - tags: ['warhammer', 'wargames', 'miniatures']
+
+## YouTube Channel hipoonios
+ - [https://www.youtube.com/@hipoonios](https://www.youtube.com/@hipoonios)
+ - date published: 2023-11-02T10:41:50+00:00
+ - user: rumpel
+ - tags: ['amiga']
+
+## Jeff Geerling YouTube Channel
+ - [https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg)
+ - date published: 2023-11-03T10:34:47+00:00
+ - user: rumpel
+ - tags: ['youtuber', 'single-board', 'raspberry']
 
 ## YouTube
  - [https://www.youtube.com](https://www.youtube.com)
@@ -3899,6 +4049,12 @@
  - user: None
  - tags: []
 
+## Mark Rosenfelder's Metaverse
+ - [https://www.zompist.com](https://www.zompist.com)
+ - date published: 2024-03-06T17:09:03.287783+00:00
+ - user: None
+ - tags: []
+
 ## Bourse: Cours, Cotations & Actualités - Zonebourse
  - [https://www.zonebourse.com](https://www.zonebourse.com)
  - date published: 2024-02-07T00:00:00+00:00
@@ -3990,14 +4146,14 @@
  - tags: ['wtf']
 
 ## None
- - [https://abcnews.go.comhttps](https://abcnews.go.comhttps)
- - date published: 2024-02-02T08:24:31.883332+00:00
+ - [abcnews.go.comhttps](abcnews.go.comhttps)
+ - date published: 2024-01-09T02:55:46.479176+00:00
  - user: None
  - tags: []
 
 ## None
- - [abcnews.go.comhttps](abcnews.go.comhttps)
- - date published: 2024-01-09T02:55:46.479176+00:00
+ - [https://abcnews.go.comhttps](https://abcnews.go.comhttps)
+ - date published: 2024-02-02T08:24:31.883332+00:00
  - user: None
  - tags: []
 
@@ -4050,14 +4206,14 @@
  - tags: []
 
 ## Writing by Bob Doto
- - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
- - date published: 2024-01-09T02:55:47.919867+00:00
+ - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
+ - date published: 2024-02-26T14:37:32.413264+00:00
  - user: None
  - tags: []
 
 ## Writing by Bob Doto
- - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
- - date published: 2024-02-26T14:37:32.413264+00:00
+ - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
+ - date published: 2024-01-09T02:55:47.919867+00:00
  - user: None
  - tags: []
 
@@ -4332,14 +4488,14 @@
  - tags: []
 
 ## MAXELL's HOME
- - [https://mxl.cz](https://mxl.cz)
- - date published: 2024-01-09T02:56:03.815327+00:00
+ - [http://mxl.cz](http://mxl.cz)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## MAXELL's HOME
- - [http://mxl.cz](http://mxl.cz)
- - date published: 1999-01-01T00:00:00+00:00
+ - [https://mxl.cz](https://mxl.cz)
+ - date published: 2024-01-09T02:56:03.815327+00:00
  - user: None
  - tags: []
 
@@ -4482,26 +4638,26 @@
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
- - [http://amiga-news.de](http://amiga-news.de)
- - date published: 2024-02-26T14:42:58.001349+00:00
- - user: None
- - tags: []
-
-## amiga-news.de - Amiga-News auf den Punkt gebracht
  - [https://amiga-news.de](https://amiga-news.de)
  - date published: 2023-10-25T11:01:48.109047+00:00
  - user: None
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
- - [https://www.amiga-news.de](https://www.amiga-news.de)
- - date published: 2024-01-09T02:56:04.543993+00:00
+ - [http://amiga-news.de](http://amiga-news.de)
+ - date published: 2024-02-26T14:42:58.001349+00:00
  - user: None
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
  - [http://www.amiga-news.de](http://www.amiga-news.de)
  - date published: 2024-02-26T14:42:59.175744+00:00
+ - user: None
+ - tags: []
+
+## amiga-news.de - Amiga-News auf den Punkt gebracht
+ - [https://www.amiga-news.de](https://www.amiga-news.de)
+ - date published: 2024-01-09T02:56:04.543993+00:00
  - user: None
  - tags: []
 
@@ -4697,13 +4853,6 @@
  - user: None
  - tags: []
 
-## media.ccc.de -
-home
- - [https://media.ccc.de](https://media.ccc.de)
- - date published: 2023-10-25T18:28:41.208202+00:00
- - user: None
- - tags: ['chaos computer club', 'hackers']
-
 ## home
 
 - media.ccc.de
@@ -4711,6 +4860,13 @@ home
  - date published: 2024-02-14T00:00:00+00:00
  - user: None
  - tags: []
+
+## media.ccc.de -
+home
+ - [https://media.ccc.de](https://media.ccc.de)
+ - date published: 2023-10-25T18:28:41.208202+00:00
+ - user: None
+ - tags: ['chaos computer club', 'hackers']
 
 ## See you soon … somewhere else! – C3VOC Streaming
  - [https://streaming.media.ccc.de](https://streaming.media.ccc.de)
@@ -5436,16 +5592,16 @@ Heinsohn
  - tags: []
 
 ## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
- - [https://nerdsandgeeks.de](https://nerdsandgeeks.de)
- - date published: 2024-02-15T22:13:44.143200+00:00
- - user: None
- - tags: ['demoscene']
-
-## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
  - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
  - date published: 2024-02-15T02:00:01.330586+00:00
  - user: None
  - tags: ['video game music']
+
+## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
+ - [https://nerdsandgeeks.de](https://nerdsandgeeks.de)
+ - date published: 2024-02-15T22:13:44.143200+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## NeuroNagel : Neuroregulation, Neurofeedback, Biofeedback, Mentalsysteme und Mindmachines
  - [https://www.neuronagel.de](https://www.neuronagel.de)
@@ -5848,160 +6004,4 @@ Heinsohn
  - date published: 2023-10-25T18:33:05.751862+00:00
  - user: None
  - tags: []
-
-## The Entrepreneurial University - TUM
- - [https://www.tum.de](https://www.tum.de)
- - date published: 2023-12-12T22:22:55.827588+00:00
- - user: None
- - tags: []
-
-## Tunkl.de  |  IT-Consulting – SEA, E-Commerce und Online Marketing Consulting
- - [https://tunkl.de](https://tunkl.de)
- - date published: 2024-01-01T03:39:24.415411+00:00
- - user: None
- - tags: []
-
-## Andreas Zwinkau
- - [https://beza1e1.tuxen.de](https://beza1e1.tuxen.de)
- - date published: 2023-10-25T18:33:06.452394+00:00
- - user: None
- - tags: []
-
-## Umweltbundesamt | Für Mensch und Umwelt
- - [https://www.umweltbundesamt.de](https://www.umweltbundesamt.de)
- - date published: 2023-10-25T18:33:10.971958+00:00
- - user: None
- - tags: []
-
-## https://jsxgraph.uni-bayreuth.de
- - [https://jsxgraph.uni-bayreuth.de](https://jsxgraph.uni-bayreuth.de)
- - date published: 2023-10-26T13:42:48.938099+00:00
- - user: None
- - tags: []
-
-## Faculty of Mathematics - Bielefeld University
- - [https://www.math.uni-bielefeld.de](https://www.math.uni-bielefeld.de)
- - date published: 2023-10-25T18:33:13.635873+00:00
- - user: None
- - tags: []
-
-## Digitale Sammlungen
- - [https://brema.suub.uni-bremen.de](https://brema.suub.uni-bremen.de)
- - date published: 2024-02-08T22:09:39.271857+00:00
- - user: None
- - tags: []
-
-## Universität Göttingen - Georg-August-Universität Göttingen
- - [https://www.uni-goettingen.de](https://www.uni-goettingen.de)
- - date published: 2023-12-13T10:23:08.198367+00:00
- - user: None
- - tags: []
-
-## Pressemitteilungen
- - [https://pressemitteilungen.pr.uni-halle.de](https://pressemitteilungen.pr.uni-halle.de)
- - date published: 2024-01-24T17:54:14.509249+00:00
- - user: None
- - tags: []
-
-## Heidelberg University EN
- - [https://www.uni-heidelberg.de](https://www.uni-heidelberg.de)
- - date published: 2023-10-25T11:22:07.189480+00:00
- - user: None
- - tags: []
-
-## Exzellenzwettbewerb | Forschen | Universität Konstanz
- - [https://www.exc.uni-konstanz.de](https://www.exc.uni-konstanz.de)
- - date published: 2023-11-25T11:44:21.122864+00:00
- - user: None
- - tags: []
-
-## Universität Münster
- - [https://www.uni-muenster.de](https://www.uni-muenster.de)
- - date published: 2023-10-25T18:33:14.981774+00:00
- - user: None
- - tags: []
-
-## Universität Stuttgart
- - [https://www.uni-stuttgart.de](https://www.uni-stuttgart.de)
- - date published: 2023-10-25T18:33:19.227772+00:00
- - user: None
- - tags: []
-
-## https://se.cs.uni-tuebingen.de
- - [https://se.cs.uni-tuebingen.de](https://se.cs.uni-tuebingen.de)
- - date published: 2024-01-09T02:56:23.916336+00:00
- - user: None
- - tags: []
-
-## Universität Würzburg - Universität Würzburg
- - [https://www.uni-wuerzburg.de](https://www.uni-wuerzburg.de)
- - date published: 2024-01-04T12:24:07.412643+00:00
- - user: None
- - tags: []
-
-## UTzone.de     -->>    [UT99 | UT2004 | UT3 | UT4 ] Feel the Emotions
- - [https://www.utzone.de](https://www.utzone.de)
- - date published: 2023-10-30T15:41:16.767039+00:00
- - user: None
- - tags: []
-
-## Valentin Pratz
- - [https://valentinpratz.de](https://valentinpratz.de)
- - date published: 2024-02-20T22:21:11.144277+00:00
- - user: None
- - tags: []
-
-## Valentin Bachem, Heidelberg | Mediation, Konfliktberatung, Fotografie, IT | Startseite
- - [https://www.vbachem.de](https://www.vbachem.de)
- - date published: 2024-01-17T04:43:24.571895+00:00
- - user: None
- - tags: []
-
-## Vesalia Online - The Amiga & Retrocomputing Store (Est. 1987)
- - [https://www.vesalia.de](https://www.vesalia.de)
- - date published: 2023-12-11T19:07:27.880695+00:00
- - user: None
- - tags: []
-
-## Viktor Garske
- - [https://ai.v-gar.de](https://ai.v-gar.de)
- - date published: 2023-10-25T18:33:20.746124+00:00
- - user: None
- - tags: []
-
-## VIVALINE Media Production – Online Agentur Halle (Saale)
- - [https://vivaline.de](https://vivaline.de)
- - date published: 2023-12-11T19:05:56.531832+00:00
- - user: None
- - tags: []
-
-## volzo · volzo.de
- - [https://volzo.de](https://volzo.de)
- - date published: 2023-10-25T18:33:21.403089+00:00
- - user: None
- - tags: []
-
-## Startseite
- - [https://www.von-antje.de](https://www.von-antje.de)
- - date published: 2024-02-07T02:42:52.807720+00:00
- - user: None
- - tags: []
-
-## vzbv
- - [https://www.vzbv.de](https://www.vzbv.de)
- - date published: 2023-10-31T08:58:05.940865+00:00
- - user: None
- - tags: []
-
-## Not Found
- - [https://downloads.webis.de](https://downloads.webis.de)
- - date published: 2024-01-16T17:22:29.443496+00:00
- - user: None
- - tags: []
-
-## WELT - Aktuelle Nachrichten, News, Hintergründe & Videos
- - [https://www.welt.de](https://www.welt.de)
- - date published: 2023-10-25T18:33:41+00:00
- - user: rumpel
- - tags: ['germany news']
 

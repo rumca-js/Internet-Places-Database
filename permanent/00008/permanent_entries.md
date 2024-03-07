@@ -1,3 +1,93 @@
+## Macmillan Teaching Learning Community
+ - [https://community.macmillanlearning.com](https://community.macmillanlearning.com)
+ - date published: 2023-10-25T15:53:25.295893+00:00
+ - user: None
+ - tags: []
+
+## home page | macmonta
+ - [https://macmonta.com](https://macmonta.com)
+ - date published: 2024-01-26T22:23:45.915149+00:00
+ - user: None
+ - tags: []
+
+## Macon Breaking News & Crime | Macon Telegraph
+ - [https://www.macon.com](https://www.macon.com)
+ - date published: 2023-10-25T15:53:29.296276+00:00
+ - user: None
+ - tags: []
+
+## macOS Automation
+ - [https://www.macosxautomation.com](https://www.macosxautomation.com)
+ - date published: 2023-10-25T15:53:32.819790+00:00
+ - user: None
+ - tags: []
+
+## Mac Pierce
+ - [https://www.macpierce.com](https://www.macpierce.com)
+ - date published: 2023-10-25T15:53:34.169750+00:00
+ - user: None
+ - tags: []
+
+## SIGPIPE 13
+ - [https://sigpipe.macromates.com](https://sigpipe.macromates.com)
+ - date published: 2023-10-25T15:53:36.166580+00:00
+ - user: None
+ - tags: []
+
+## MacRumors: Mac News and Rumors - All Stories
+ - [https://feeds.macrumors.com](https://feeds.macrumors.com)
+ - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MacRumors Forums
+ - [https://forums.macrumors.com](https://forums.macrumors.com)
+ - date published: 2023-10-25T15:53:41.865723+00:00
+ - user: None
+ - tags: []
+
+## MacRumors: Apple News and Rumors
+ - [https://www.macrumors.com](https://www.macrumors.com)
+ - date published: 2023-10-25T09:34:00.797658+00:00
+ - user: None
+ - tags: []
+
+## Macworld - News, Tips & Reviews from the Apple Experts
+ - [https://www.macworld.com](https://www.macworld.com)
+ - date published: 2023-10-25T09:34:02.695903+00:00
+ - user: None
+ - tags: []
+
+## macwright.com
+ - [https://macwright.com](https://macwright.com)
+ - date published: 2024-01-02T03:36:28.516471+00:00
+ - user: None
+ - tags: []
+
+## Maddyness - Le média pour comprendre l'économie de demain
+ - [https://www.maddyness.com](https://www.maddyness.com)
+ - date published: 2023-10-25T15:53:45.055388+00:00
+ - user: None
+ - tags: []
+
+## Made by Evan
+ - [https://madebyevan.com](https://madebyevan.com)
+ - date published: 2023-10-25T15:53:46.773357+00:00
+ - user: None
+ - tags: []
+
+## Mistâ€“a one-man studio
+ - [https://madebymist.com](https://madebymist.com)
+ - date published: 2024-02-09T22:27:38.363514+00:00
+ - user: None
+ - tags: ['personal']
+
+## Made By Nathan
+ - [https://madebynathan.com](https://madebynathan.com)
+ - date published: 2023-10-25T15:53:47.605821+00:00
+ - user: None
+ - tags: []
+
 ## madhadron
  - [https://madhadron.com](https://madhadron.com)
  - date published: 2023-10-25T15:53:47.981055+00:00
@@ -526,6 +616,12 @@
  - user: None
  - tags: []
 
+## Welcome to MARCHintosh
+ - [https://www.marchintosh.com](https://www.marchintosh.com)
+ - date published: 2024-03-06T08:40:14+00:00
+ - user: None
+ - tags: []
+
 ## Marc Hoffman | Composer | Vocalist | Pianist
  - [https://www.marchoffman.com](https://www.marchoffman.com)
  - date published: 2024-01-15T22:20:21.341302+00:00
@@ -942,14 +1038,14 @@
  - tags: ['disney', 'iron man', 'movie studio', 'captain america']
 
 ## vi360 photography/video/digital imaging
- - [http://www.marxdesign.com](http://www.marxdesign.com)
- - date published: 2023-12-22T21:24:02.738903+00:00
+ - [https://www.marxdesign.com](https://www.marxdesign.com)
+ - date published: 2023-12-22T00:41:17.350208+00:00
  - user: None
  - tags: []
 
 ## vi360 photography/video/digital imaging
- - [https://www.marxdesign.com](https://www.marxdesign.com)
- - date published: 2023-12-22T00:41:17.350208+00:00
+ - [http://www.marxdesign.com](http://www.marxdesign.com)
+ - date published: 2023-12-22T21:24:02.738903+00:00
  - user: None
  - tags: []
 
@@ -4414,7 +4510,7 @@
  - [https://www.mojeek.com](https://www.mojeek.com)
  - date published: 2023-10-25T09:07:25.783266+00:00
  - user: None
- - tags: []
+ - tags: ['search engine']
 
 ## Momekh.com - home of disciplined creativity - Momekh.com
  - [https://momekh.com](https://momekh.com)
@@ -5901,102 +5997,6 @@
 ## NBC Bay Area – Bay Area News, Local News, Weather, Traffic, Entertainment, Breaking News
  - [https://www.nbcbayarea.com](https://www.nbcbayarea.com)
  - date published: 2023-10-25T11:05:29.767118+00:00
- - user: None
- - tags: []
-
-## NBC Boston
- - [https://www.nbcboston.com](https://www.nbcboston.com)
- - date published: 2023-11-18T16:44:26.976480+00:00
- - user: None
- - tags: ['news']
-
-## NBC Chicago
- - [https://www.nbcchicago.com](https://www.nbcchicago.com)
- - date published: 2023-12-06T11:49:40.873102+00:00
- - user: None
- - tags: []
-
-## NBC Connecticut
- - [https://www.nbcconnecticut.com](https://www.nbcconnecticut.com)
- - date published: 2023-12-31T13:24:50.551838+00:00
- - user: None
- - tags: []
-
-## NBC 5 Dallas-Fort Worth
- - [https://www.nbcdfw.com](https://www.nbcdfw.com)
- - date published: 2023-11-17T07:14:58.587632+00:00
- - user: None
- - tags: []
-
-## NBC Los Angeles – Los Angeles News, Local News, Weather, Traffic, Entertainment, Breaking News
- - [https://www.nbclosangeles.com](https://www.nbclosangeles.com)
- - date published: 2023-10-25T11:05:35.602882+00:00
- - user: None
- - tags: []
-
-## NBC 6 South Florida – NBC 6 South Florida | NBC 6 South Florida – Local News, Weather, Traffic, Entertainment, Events, Breaking News
- - [https://www.nbcmiami.com](https://www.nbcmiami.com)
- - date published: 2023-10-25T10:18:24.865109+00:00
- - user: None
- - tags: []
-
-## https://feeds.nbcnews.com
- - [https://feeds.nbcnews.com](https://feeds.nbcnews.com)
- - date published: 2024-01-09T01:46:49.827916+00:00
- - user: None
- - tags: []
-
-## NBC News - Breaking News & Top Stories - Latest World, US & Local News | NBC News
- - [https://www.nbcnews.com](https://www.nbcnews.com)
- - date published: 2023-10-25T10:27:02.197696+00:00
- - user: None
- - tags: []
-
-## NBC New York – New York News, Local News, Weather, Traffic, Entertainment, Breaking News
- - [https://www.nbcnewyork.com](https://www.nbcnewyork.com)
- - date published: 2023-10-25T11:05:45.889334+00:00
- - user: None
- - tags: []
-
-## NBC10 Philadelphia – Philadelphia News, Local News, Weather, Traffic, Entertainment, and Breaking News
- - [https://www.nbcphiladelphia.com](https://www.nbcphiladelphia.com)
- - date published: 2023-10-25T11:05:51.814430+00:00
- - user: None
- - tags: []
-
-## NCC Group Research Blog | Making the world safer and more secure
- - [https://research.nccgroup.com](https://research.nccgroup.com)
- - date published: 2023-10-25T16:13:05.140594+00:00
- - user: None
- - tags: []
-
-## North Carolina Rabbit Hole | Jeremy Markovich | Substack
- - [https://www.ncrabbithole.com](https://www.ncrabbithole.com)
- - date published: 2023-10-25T16:13:08.969926+00:00
- - user: None
- - tags: []
-
-## NCZAS.COM | Najwyższy CZAS! Najnowsze informacje z Polski, Europy i Świata. Wolnościowe spojrzenie, bez poprawności politycznej
- - [https://nczas.com](https://nczas.com)
- - date published: 2023-10-25T10:14:32.674298+00:00
- - user: None
- - tags: []
-
-## Nicholas A. Danes, PhD · Nicholas A. Danes, PhD
- - [https://ndanes.com](https://ndanes.com)
- - date published: 2023-12-13T20:58:32.247509+00:00
- - user: None
- - tags: ['personal']
-
-## NDC Conferences
- - [https://ndcconferences.com](https://ndcconferences.com)
- - date published: 2024-01-20T09:05:28.470002+00:00
- - user: None
- - tags: []
-
-## NDC Porto 2024 | Conference for Software Developers
- - [https://ndcporto.com](https://ndcporto.com)
- - date published: 2024-01-20T09:05:35.144081+00:00
  - user: None
  - tags: []
 
