@@ -1,3 +1,129 @@
+## Home
+ - [https://www.lw.com](https://www.lw.com)
+ - date published: 2024-02-08T18:01:35.810777+00:00
+ - user: None
+ - tags: []
+
+## Lippincott Home
+ - [https://journals.lww.com](https://journals.lww.com)
+ - date published: 2023-12-10T04:54:11.039506+00:00
+ - user: None
+ - tags: []
+
+## Lyft Engineering
+ - [https://eng.lyft.com](https://eng.lyft.com)
+ - date published: 2023-10-25T15:52:56.040719+00:00
+ - user: None
+ - tags: []
+
+## Lyft: A ride whenever you need one
+ - [https://www.lyft.com](https://www.lyft.com)
+ - date published: 2023-10-25T15:53:08.852973+00:00
+ - user: None
+ - tags: []
+
+## Borys - Home
+ - [https://www.lykahb.com](https://www.lykahb.com)
+ - date published: 2023-10-25T15:53:09.438218+00:00
+ - user: None
+ - tags: []
+
+## Lý Minh Nhật
+ - [https://lyminhnhat.com](https://lyminhnhat.com)
+ - date published: 2024-01-22T10:09:57.842731+00:00
+ - user: None
+ - tags: []
+
+## Lyn Alden - Investment Strategy
+ - [https://www.lynalden.com](https://www.lynalden.com)
+ - date published: 2023-10-25T15:53:11.716855+00:00
+ - user: None
+ - tags: []
+
+## Psychic Reading | Phoenix | Lynda Diane Medium Intuitive
+ - [https://www.lyndadiane.com](https://www.lyndadiane.com)
+ - date published: 2024-02-08T16:28:09.952810+00:00
+ - user: None
+ - tags: []
+
+## Lyndon Hill
+ - [https://lyndonhill.com](https://lyndonhill.com)
+ - date published: 2024-02-14T08:48:56.833040+00:00
+ - user: None
+ - tags: ['personal']
+
+## M31 Coding - Computing & Education
+ - [https://www.m31coding.com](https://www.m31coding.com)
+ - date published: 2023-10-25T15:53:13.527545+00:00
+ - user: None
+ - tags: []
+
+## Maarten's Letters
+ - [https://maartensletters.com](https://maartensletters.com)
+ - date published: 2024-03-01T03:29:11.172418+00:00
+ - user: None
+ - tags: ['personal']
+
+## Clarity through writing · macapinlac.com
+ - [https://www.macapinlac.com](https://www.macapinlac.com)
+ - date published: 2024-01-10T14:29:44.031217+00:00
+ - user: None
+ - tags: []
+
+## Mac Chaffee
+ - [https://www.macchaffee.com](https://www.macchaffee.com)
+ - date published: 2023-10-25T15:53:14.050016+00:00
+ - user: None
+ - tags: []
+
+## Home - Mac DeMarco
+ - [https://www.macdemarco.com](https://www.macdemarco.com)
+ - date published: 2023-11-13T09:51:06.757247+00:00
+ - user: None
+ - tags: ['music band']
+
+## Moof!
+ - [https://basalgangster.macgui.com](https://basalgangster.macgui.com)
+ - date published: 2024-01-09T02:42:13.682575+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.machinedesign.com](https://www.machinedesign.com)
+ - date published: 2024-01-21T04:37:35.051015+00:00
+ - user: None
+ - tags: []
+
+## Machine Learning Mastery
+ - [https://machinelearningmastery.com](https://machinelearningmastery.com)
+ - date published: 2023-10-25T15:53:15.792931+00:00
+ - user: None
+ - tags: []
+
+## Store
+ - [https://edu.machinelearningplus.com](https://edu.machinelearningplus.com)
+ - date published: 2023-10-25T15:53:20.695196+00:00
+ - user: None
+ - tags: []
+
+## MacInTouch – timely, accurate info since 1985
+ - [https://www.macintouch.com](https://www.macintouch.com)
+ - date published: 2024-01-23T16:31:45.602470+00:00
+ - user: None
+ - tags: []
+
+## https://read.macmillan.com
+ - [https://read.macmillan.com](https://read.macmillan.com)
+ - date published: 2023-12-19T05:35:05.029547+00:00
+ - user: None
+ - tags: []
+
+## https://us.macmillan.com
+ - [https://us.macmillan.com](https://us.macmillan.com)
+ - date published: 2024-01-22T08:33:27.805103+00:00
+ - user: None
+ - tags: []
+
 ## Macmillan Teaching Learning Community
  - [https://community.macmillanlearning.com](https://community.macmillanlearning.com)
  - date published: 2023-10-25T15:53:25.295893+00:00
@@ -281,13 +407,13 @@
  - tags: []
 
 ## A blog by @makaroni4
- - [https://makaroni4.com](https://makaroni4.com)
+ - [http://makaroni4.com](http://makaroni4.com)
  - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## A blog by @makaroni4
- - [http://makaroni4.com](http://makaroni4.com)
+ - [https://makaroni4.com](https://makaroni4.com)
  - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -2090,6 +2216,12 @@
 ## Douglas Balmain – Medium
  - [https://douglasbalmain.medium.com](https://douglasbalmain.medium.com)
  - date published: 2024-02-08T17:34:58.599115+00:00
+ - user: None
+ - tags: []
+
+## Doug Shapiro – Medium
+ - [https://dougshapiro.medium.com](https://dougshapiro.medium.com)
+ - date published: 2024-02-19T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4122,6 +4254,12 @@
  - user: None
  - tags: []
 
+## Minuteman Missile
+ - [https://minutemanmissile.com](https://minutemanmissile.com)
+ - date published: 2024-03-07T08:02:17.914684+00:00
+ - user: None
+ - tags: []
+
 ## mIRC: Internet Relay Chat client
  - [https://www.mirc.com](https://www.mirc.com)
  - date published: 2023-10-25T08:36:59.140579+00:00
@@ -5859,144 +5997,6 @@
 ## National Grid
  - [https://www.nationalgrid.com](https://www.nationalgrid.com)
  - date published: 2023-12-29T17:09:33.416207+00:00
- - user: None
- - tags: []
-
-## National Journal
- - [https://www.nationaljournal.com](https://www.nationaljournal.com)
- - date published: 2023-11-10T19:58:41.389822+00:00
- - user: None
- - tags: []
-
-## Canada's National Observer: News & Analysis
- - [https://www.nationalobserver.com](https://www.nationalobserver.com)
- - date published: 2023-10-25T16:11:50.828726+00:00
- - user: None
- - tags: []
-
-## Home | The National Post Home Page | National Post
- - [https://nationalpost.com](https://nationalpost.com)
- - date published: 2023-10-25T16:12:03.903762+00:00
- - user: None
- - tags: ['news']
-
-## National Review: Conservative News, Opinion, Politics, Policy, & Current Events
- - [https://www.nationalreview.com](https://www.nationalreview.com)
- - date published: 2023-10-25T10:26:54.464697+00:00
- - user: None
- - tags: []
-
-## Nation World News | Get Latest Breaking News Update
- - [https://nationworldnews.com](https://nationworldnews.com)
- - date published: 2023-10-25T16:12:09.375654+00:00
- - user: None
- - tags: []
-
-## Native Neil
- - [https://nativeneil.com](https://nativeneil.com)
- - date published: 2023-12-27T01:09:25.252474+00:00
- - user: None
- - tags: ['personal']
-
-## NativePHP | Baking Delicious Native Apps
- - [https://nativephp.com](https://nativephp.com)
- - date published: 2023-10-25T16:12:10.571354+00:00
- - user: None
- - tags: []
-
-## Legal News & Business Law News | The National Law Review
- - [https://www.natlawreview.com](https://www.natlawreview.com)
- - date published: 2023-11-01T08:42:43.779371+00:00
- - user: None
- - tags: []
-
-## Natural Health News - Holistic Medicine - Homeopathic Remedies - Food Freedom
- - [https://www.naturalblaze.com](https://www.naturalblaze.com)
- - date published: 2023-10-25T16:12:15.256265+00:00
- - user: None
- - tags: []
-
-## Natural Language Playlist
- - [https://www.naturallanguageplaylist.com](https://www.naturallanguageplaylist.com)
- - date published: 2023-10-25T16:12:17.879048+00:00
- - user: None
- - tags: []
-
-## NaturalNews.com
- - [https://naturalnews.com](https://naturalnews.com)
- - date published: 2023-10-25T16:12:29.777505+00:00
- - user: None
- - tags: []
-
-## Nature
- - [https://nature.com](https://nature.com)
- - date published: 2024-02-10T06:10:34.846203+00:00
- - user: None
- - tags: []
-
-## Nature
- - [https://www.nature.com](https://www.nature.com)
- - date published: 2023-10-25T10:10:29.099676+00:00
- - user: None
- - tags: ['news', 'science']
-
-## The Nature of Code
- - [https://natureofcode.com](https://natureofcode.com)
- - date published: 2023-10-25T16:12:31.246360+00:00
- - user: None
- - tags: []
-
-## Naughty Dog
- - [https://www.naughtydog.com](https://www.naughtydog.com)
- - date published: 2023-10-30T18:27:44.301408+00:00
- - user: None
- - tags: ['video game developer', 'company']
-
-## Naval Technology | Naval Defence News & Views Updated Daily
- - [https://www.naval-technology.com](https://www.naval-technology.com)
- - date published: 2023-10-25T16:12:37.001678+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://tag.navdmp.com](https://tag.navdmp.com)
- - date published: 2024-01-09T02:44:42.639837+00:00
- - user: None
- - tags: []
-
-## 네이버 포스트
- - [https://m.post.naver.com](https://m.post.naver.com)
- - date published: 2023-10-25T16:12:48.876193+00:00
- - user: None
- - tags: []
-
-## DUSt3R: Geometric 3D Vision Made Easy
- - [https://dust3r.europe.naverlabs.com](https://dust3r.europe.naverlabs.com)
- - date published: 2024-03-03T14:33:19+00:00
- - user: None
- - tags: []
-
-## Navy Lookout
- - [https://www.navylookout.com](https://www.navylookout.com)
- - date published: 2023-12-16T12:57:58.995896+00:00
- - user: None
- - tags: []
-
-## Navy Times - Independent News For Sailors | Navy Times
- - [https://www.navytimes.com](https://www.navytimes.com)
- - date published: 2023-10-25T10:17:10.551232+00:00
- - user: None
- - tags: []
-
-## Naz Avó's Pit | Tech, nomadic lifestyle, and financial independence
- - [https://nazavo.com](https://nazavo.com)
- - date published: 2023-12-14T06:55:11.795416+00:00
- - user: None
- - tags: ['personal']
-
-## NBC Bay Area – Bay Area News, Local News, Weather, Traffic, Entertainment, Breaking News
- - [https://www.nbcbayarea.com](https://www.nbcbayarea.com)
- - date published: 2023-10-25T11:05:29.767118+00:00
  - user: None
  - tags: []
 

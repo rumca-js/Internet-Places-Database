@@ -1,3 +1,387 @@
+## Open Source Mobile Communications
+ - [https://projects.osmocom.org](https://projects.osmocom.org)
+ - date published: 2023-10-25T21:55:10.623342+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the Open Source Seed Initiative - Open Source Seed Initiative
+ - [https://osseeds.org](https://osseeds.org)
+ - date published: 2023-10-25T21:55:13.834590+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Open-source alternatives to tools You pay for
+ - [https://osssoftware.org](https://osssoftware.org)
+ - date published: 2023-12-09T01:14:37+00:00
+ - user: None
+ - tags: []
+
+## Our World in Data
+ - [https://ourworldindata.org](https://ourworldindata.org)
+ - date published: 2023-10-25T21:55:14.796544+00:00
+ - user: None
+ - tags: ['data', 'statistics']
+
+## Earth Overshoot Day home - #MoveTheDate
+ - [https://www.overshootday.org](https://www.overshootday.org)
+ - date published: 2023-10-25T21:55:21.472858+00:00
+ - user: None
+ - tags: []
+
+## https://overthewire.org
+ - [https://overthewire.org](https://overthewire.org)
+ - date published: 2024-01-09T03:41:57.489375+00:00
+ - user: None
+ - tags: []
+
+## Overture Maps Foundation – Linux Foundation Project
+ - [https://overturemaps.org](https://overturemaps.org)
+ - date published: 2023-10-25T21:55:23.960595+00:00
+ - user: None
+ - tags: []
+
+## OWASP Foundation, the Open Source Foundation for Application Security | OWASP Foundation
+ - [https://owasp.org](https://owasp.org)
+ - date published: 2023-10-25T21:55:25.406620+00:00
+ - user: None
+ - tags: []
+
+## Owl’s Portfolio
+ - [https://www.owlfolio.org](https://www.owlfolio.org)
+ - date published: 2023-10-25T21:55:28.509100+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.oxamyne.org](https://www.oxamyne.org)
+ - date published: 2023-12-11T16:12:55.572072+00:00
+ - user: None
+ - tags: []
+
+## Home - Oxfam Policy & Practice
+ - [https://policy-practice.oxfam.org](https://policy-practice.oxfam.org)
+ - date published: 2024-02-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The future is equal | Oxfam International
+ - [https://www.oxfam.org](https://www.oxfam.org)
+ - date published: 2023-10-25T21:55:30.733555+00:00
+ - user: None
+ - tags: []
+
+## Oxford American | Home
+ - [https://main.oxfordamerican.org](https://main.oxfordamerican.org)
+ - date published: 2023-10-25T21:55:33.395856+00:00
+ - user: None
+ - tags: []
+
+## Oxford American | Home
+ - [https://oxfordamerican.org](https://oxfordamerican.org)
+ - date published: 2023-10-25T21:55:35.228196+00:00
+ - user: None
+ - tags: []
+
+## Home | p2panda
+ - [https://p2panda.org](https://p2panda.org)
+ - date published: 2023-10-25T21:55:36.083870+00:00
+ - user: None
+ - tags: []
+
+## Hummus and Magnets
+ - [https://h14s.p5r.org](https://h14s.p5r.org)
+ - date published: 2023-10-25T21:55:43.963463+00:00
+ - user: None
+ - tags: []
+
+## pablotron.org
+ - [https://pablotron.org](https://pablotron.org)
+ - date published: 2023-10-25T21:55:47.144745+00:00
+ - user: None
+ - tags: []
+
+## PackagingCon 2023
+ - [https://packaging-con.org](https://packaging-con.org)
+ - date published: 2023-10-25T21:55:54.179386+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the Population Approach Group in Europe
+ - [https://www.page-meeting.org](https://www.page-meeting.org)
+ - date published: 2024-02-08T16:45:08.680893+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Pages CMS – A CMS for GitHub
+ - [https://pagescms.org](https://pagescms.org)
+ - date published: 2024-02-22T13:58:03+00:00
+ - user: None
+ - tags: []
+
+## The Palaeontological Association | Reg. Charity No. 1168330
+ - [https://www.palass.org](https://www.palass.org)
+ - date published: 2023-10-25T11:25:34.390632+00:00
+ - user: None
+ - tags: []
+
+## pamela fox's blog
+ - [https://blog.pamelafox.org](https://blog.pamelafox.org)
+ - date published: 2023-10-25T21:55:58.273502+00:00
+ - user: None
+ - tags: []
+
+## Pandemic Resilience Roadmap
+ - [https://www.pandemictesting.org](https://www.pandemictesting.org)
+ - date published: 2020-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Pandoc - index
+ - [https://pandoc.org](https://pandoc.org)
+ - date published: 2023-10-25T21:55:59.781435+00:00
+ - user: None
+ - tags: []
+
+## Strona główna | Fundacja Panoptykon
+ - [https://panoptykon.org](https://panoptykon.org)
+ - date published: 2023-10-25T21:56:01.636917+00:00
+ - user: None
+ - tags: []
+
+## Papers, Please! – The Identity Project
+ - [https://papersplease.org](https://papersplease.org)
+ - date published: 2023-10-25T21:56:07.417099+00:00
+ - user: None
+ - tags: []
+
+## paredit — parenthetical editing in Emacs
+ - [https://paredit.org](https://paredit.org)
+ - date published: 2023-10-25T21:56:08.422643+00:00
+ - user: None
+ - tags: []
+
+## Welcome!
+ - [https://parentheticallyspeaking.org](https://parentheticallyspeaking.org)
+ - date published: 2023-10-25T21:56:09.143442+00:00
+ - user: None
+ - tags: []
+
+## parsonsmatt.org
+ - [https://www.parsonsmatt.org](https://www.parsonsmatt.org)
+ - date published: 2023-10-25T21:56:09.832668+00:00
+ - user: None
+ - tags: []
+
+## PATL
+ - [https://patl.org](https://patl.org)
+ - date published: 2023-12-11T16:19:08.247036+00:00
+ - user: None
+ - tags: []
+
+## Patrick T. Brown, PhD | It’s easy to construct a persuasive argument, it’s much more difficult to figure out the truth…
+ - [https://patricktbrown.org](https://patricktbrown.org)
+ - date published: 2023-10-25T21:56:15.510577+00:00
+ - user: None
+ - tags: []
+
+## Paul Butler
+ - [https://paulbutler.org](https://paulbutler.org)
+ - date published: 2024-03-03T17:40:37.957621+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paul Miller – Don't panic
+ - [https://paulmiller.org](https://paulmiller.org)
+ - date published: 2024-02-12T16:24:57.717444+00:00
+ - user: None
+ - tags: ['personal']
+
+## Andrew Payne | payne.org
+ - [https://payne.org](https://payne.org)
+ - date published: 2023-10-25T21:56:16.509535+00:00
+ - user: None
+ - tags: []
+
+## Physically Based Rendering: From Theory to Implementation
+ - [https://pbr-book.org](https://pbr-book.org)
+ - date published: 2023-11-02T10:40:48.951509+00:00
+ - user: None
+ - tags: []
+
+## PBS: Public Broadcasting Service
+ - [https://www.pbs.org](https://www.pbs.org)
+ - date published: 2023-10-25T10:24:08.998645+00:00
+ - user: None
+ - tags: []
+
+## PBS North Carolina
+ - [https://www.pbsnc.org](https://www.pbsnc.org)
+ - date published: 2023-11-19T19:54:33.463328+00:00
+ - user: None
+ - tags: []
+
+## PCG, A Family of Better Random Number Generators | PCG, A Better Random Number Generator
+ - [https://www.pcg-random.org](https://www.pcg-random.org)
+ - date published: 2023-10-25T21:56:20.672047+00:00
+ - user: None
+ - tags: []
+
+## PCjs Machines
+ - [https://www.pcjs.org](https://www.pcjs.org)
+ - date published: 2023-10-25T21:56:26.849904+00:00
+ - user: None
+ - tags: []
+
+## PDF Association – Home of the worldwide PDF technical community
+ - [https://pdfa.org](https://pdfa.org)
+ - date published: 2024-02-26T09:45:19.418694+00:00
+ - user: None
+ - tags: []
+
+## PDF Association – Home of the worldwide PDF technical community
+ - [https://www.pdfa.org](https://www.pdfa.org)
+ - date published: 2023-10-25T21:56:35.310113+00:00
+ - user: None
+ - tags: []
+
+## pdfgrep
+ - [https://pdfgrep.org](https://pdfgrep.org)
+ - date published: 2023-10-25T21:56:36.063095+00:00
+ - user: None
+ - tags: []
+
+## PDFTool: secure and seamless online PDF modifications
+ - [https://www.pdftool.org](https://www.pdftool.org)
+ - date published: 2023-10-25T21:56:37.161684+00:00
+ - user: None
+ - tags: []
+
+## Public Domain Operating System
+ - [https://www.pdos.org](https://www.pdos.org)
+ - date published: 2023-10-25T21:56:39.058423+00:00
+ - user: None
+ - tags: []
+
+## Peergos
+ - [https://peergos.org](https://peergos.org)
+ - date published: 2023-11-13T14:19:22.688197+00:00
+ - user: None
+ - tags: []
+
+## Pellucidar: The Burroughs Website from the Earth's Core
+ - [https://www.pellucidar.org](https://www.pellucidar.org)
+ - date published: 2024-02-08T16:21:16.817109+00:00
+ - user: None
+ - tags: []
+
+## PEN America
+ - [https://pen.org](https://pen.org)
+ - date published: 2023-10-25T21:56:42.955186+00:00
+ - user: None
+ - tags: []
+
+## https://www.pennmedicine.org
+ - [https://www.pennmedicine.org](https://www.pennmedicine.org)
+ - date published: 2023-11-08T17:46:33.639957+00:00
+ - user: None
+ - tags: []
+
+## Social Care | The People's Care Watchdog
+ - [https://www.peoplescarewatchdog.org](https://www.peoplescarewatchdog.org)
+ - date published: 2024-02-24T14:23:59.980894+00:00
+ - user: None
+ - tags: []
+
+## People's World
+ - [https://peoplesworld.org](https://peoplesworld.org)
+ - date published: 2023-11-04T02:47:57.842267+00:00
+ - user: None
+ - tags: []
+
+## blogs.perl.org — blogging the onion
+ - [https://blogs.perl.org](https://blogs.perl.org)
+ - date published: 2023-10-25T21:56:44.273665+00:00
+ - user: None
+ - tags: []
+
+## Perl Documentation - Perldoc Browser
+ - [https://perldoc.perl.org](https://perldoc.perl.org)
+ - date published: 2023-10-25T21:56:51.003512+00:00
+ - user: None
+ - tags: []
+
+## The Perl Foundation News
+ - [https://news.perlfoundation.org](https://news.perlfoundation.org)
+ - date published: 2023-10-25T21:56:58.087141+00:00
+ - user: None
+ - tags: []
+
+## Discover plants, swap seeds, plan gardens, share knowledge
+ - [https://permapeople.org](https://permapeople.org)
+ - date published: 2023-11-10T20:31:47+00:00
+ - user: None
+ - tags: []
+
+## Aiding the Persecuted Church
+ - [https://www.persecution.org](https://www.persecution.org)
+ - date published: 2023-11-27T12:13:05+00:00
+ - user: rumpel
+ - tags: ['catholicism', 'religion', 'christianity', 'persecution']
+
+## Pessimists Archive Newsletter | Substack
+ - [https://newsletter.pessimistsarchive.org](https://newsletter.pessimistsarchive.org)
+ - date published: 2023-10-25T21:57:00.476125+00:00
+ - user: None
+ - tags: []
+
+## Pessimists Archive
+ - [https://pessimistsarchive.org](https://pessimistsarchive.org)
+ - date published: 2023-11-04T23:05:27+00:00
+ - user: None
+ - tags: []
+
+## Peter Krautzberger
+ - [https://www.peterkrautzberger.org](https://www.peterkrautzberger.org)
+ - date published: 2024-01-26T02:22:06.209671+00:00
+ - user: None
+ - tags: []
+
+## People for the Ethical Treatment of Reinforcement Learners
+ - [https://petrl.org](https://petrl.org)
+ - date published: 2024-01-09T03:41:58.419634+00:00
+ - user: None
+ - tags: []
+
+## Pew Research Center | Nonpartisan, nonadvocacy, public opinion polling and data-driven social science research | Pew Research Center
+ - [https://www.pewresearch.org](https://www.pewresearch.org)
+ - date published: 2023-10-25T21:57:05.064047+00:00
+ - user: None
+ - tags: []
+
+## Simon Peyton Jones - Simon Peyton Jones
+ - [https://simon.peytonjones.org](https://simon.peytonjones.org)
+ - date published: 2023-10-25T21:57:06.231617+00:00
+ - user: None
+ - tags: []
+
+## pgAdmin - PostgreSQL Tools
+ - [https://www.pgadmin.org](https://www.pgadmin.org)
+ - date published: 2023-11-29T10:39:05.596079+00:00
+ - user: None
+ - tags: []
+
+## Postgres Lock Conflicts
+ - [https://pglocks.org](https://pglocks.org)
+ - date published: 2023-10-25T21:57:06.888982+00:00
+ - user: None
+ - tags: []
+
+## Pharo - Welcome to Pharo!
+ - [https://pharo.org](https://pharo.org)
+ - date published: 2023-10-25T21:57:07.584972+00:00
+ - user: None
+ - tags: []
+
 ## Philanthropy News Digest
  - [https://philanthropynewsdigest.org](https://philanthropynewsdigest.org)
  - date published: 2023-10-25T21:57:14.951406+00:00
@@ -129,6 +513,12 @@
  - date published: 2022-01-01T00:00:00+00:00
  - user: rumpel
  - tags: ['open source', 'linux']
+
+## PipeWire
+ - [https://www.pipewire.org](https://www.pipewire.org)
+ - date published: 2022-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: []
 
 ## Home - PIRG
  - [https://pirg.org](https://pirg.org)
@@ -455,14 +845,14 @@
  - tags: ['personal']
 
 ## The Programming Journal
- - [http://programming-journal.org](http://programming-journal.org)
- - date published: 2024-06-01T00:00:00+00:00
+ - [https://programming-journal.org](https://programming-journal.org)
+ - date published: 2023-10-25T21:59:59.828174+00:00
  - user: None
  - tags: []
 
 ## The Programming Journal
- - [https://programming-journal.org](https://programming-journal.org)
- - date published: 2023-10-25T21:59:59.828174+00:00
+ - [http://programming-journal.org](http://programming-journal.org)
+ - date published: 2024-06-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1084,6 +1474,12 @@
  - user: None
  - tags: []
 
+## RenderDoc
+ - [https://renderdoc.org](https://renderdoc.org)
+ - date published: 2024-03-07T13:00:30.397273+00:00
+ - user: None
+ - tags: []
+
 ## The Repair Association
  - [https://www.repair.org](https://www.repair.org)
  - date published: 2023-11-03T10:39:08.955951+00:00
@@ -1120,15 +1516,15 @@
  - user: None
  - tags: []
 
-## Responsible Statecraft
- - [http://responsiblestatecraft.org](http://responsiblestatecraft.org)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Home - Responsible Statecraft
  - [https://responsiblestatecraft.org](https://responsiblestatecraft.org)
  - date published: 2023-10-25T22:03:17.450852+00:00
+ - user: None
+ - tags: []
+
+## Responsible Statecraft
+ - [http://responsiblestatecraft.org](http://responsiblestatecraft.org)
+ - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2533,16 +2929,16 @@
  - tags: []
 
 ## SQLite Home Page
- - [http://www.sqlite.org](http://www.sqlite.org)
- - date published: 2024-01-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## SQLite Home Page
  - [https://www.sqlite.org](https://www.sqlite.org)
  - date published: 2023-10-25T08:30:44.493063+00:00
  - user: None
  - tags: ['open source']
+
+## SQLite Home Page
+ - [http://www.sqlite.org](http://www.sqlite.org)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## sqlpkg - SQLite Package Manager and Registry
  - [https://sqlpkg.org](https://sqlpkg.org)
@@ -2911,14 +3307,14 @@
  - tags: ['taxes']
 
 ## tbray.org
- - [https://www.tbray.org](https://www.tbray.org)
- - date published: 2023-10-25T22:12:33.470881+00:00
+ - [http://www.tbray.org](http://www.tbray.org)
+ - date published: 2024-02-26T15:02:42.572365+00:00
  - user: None
  - tags: []
 
 ## tbray.org
- - [http://www.tbray.org](http://www.tbray.org)
- - date published: 2024-02-26T15:02:42.572365+00:00
+ - [https://www.tbray.org](https://www.tbray.org)
+ - date published: 2023-10-25T22:12:33.470881+00:00
  - user: None
  - tags: []
 
@@ -4958,14 +5354,14 @@
  - tags: ['open source', 'emulator']
 
 ## wingolog
- - [http://wingolog.org](http://wingolog.org)
- - date published: 2024-02-26T15:12:51.242858+00:00
+ - [https://wingolog.org](https://wingolog.org)
+ - date published: 2023-10-25T22:21:31.127284+00:00
  - user: None
  - tags: []
 
 ## wingolog
- - [https://wingolog.org](https://wingolog.org)
- - date published: 2023-10-25T22:21:31.127284+00:00
+ - [http://wingolog.org](http://wingolog.org)
+ - date published: 2024-02-26T15:12:51.242858+00:00
  - user: None
  - tags: []
 
@@ -5041,6 +5437,12 @@
  - user: None
  - tags: ['game']
 
+## The Wolfram Physics Project: Finding the Fundamental Theory of Physics
+ - [https://www.wolframphysics.org](https://www.wolframphysics.org)
+ - date published: 2024-03-07T08:59:02.586685+00:00
+ - user: None
+ - tags: []
+
 ## Woodcreek Property Owners Association.
  - [https://woodcreekmchenry.org](https://woodcreekmchenry.org)
  - date published: 1999-01-01T00:00:00+00:00
@@ -5072,16 +5474,16 @@
  - tags: []
 
 ## Blog Tool, Publishing Platform, and CMS - WordPress.org
- - [https://wordpress.org](https://wordpress.org)
- - date published: 2023-12-08T13:17:28+00:00
- - user: rumpel
- - tags: ['cms', 'wordpress']
-
-## Blog Tool, Publishing Platform, and CMS - WordPress.org
  - [http://wordpress.org](http://wordpress.org)
  - date published: 2024-02-26T14:34:42.711216+00:00
  - user: None
  - tags: []
+
+## Blog Tool, Publishing Platform, and CMS - WordPress.org
+ - [https://wordpress.org](https://wordpress.org)
+ - date published: 2023-12-08T13:17:28+00:00
+ - user: rumpel
+ - tags: ['cms', 'wordpress']
 
 ## Blog Tool, Publishing Platform, and CMS - WordPress.org
  - [https://www.wordpress.org](https://www.wordpress.org)
@@ -5408,14 +5810,14 @@
  - tags: []
 
 ## zephoria
- - [https://www.zephoria.org](https://www.zephoria.org)
- - date published: 2024-01-29T00:09:01.945068+00:00
+ - [http://www.zephoria.org](http://www.zephoria.org)
+ - date published: 2024-01-23T19:05:01.547444+00:00
  - user: None
  - tags: []
 
 ## zephoria
- - [http://www.zephoria.org](http://www.zephoria.org)
- - date published: 2024-01-23T19:05:01.547444+00:00
+ - [https://www.zephoria.org](https://www.zephoria.org)
+ - date published: 2024-01-29T00:09:01.945068+00:00
  - user: None
  - tags: []
 
@@ -5599,407 +6001,4 @@ Zig Programming Language
  - date published: 2024-02-23T00:00:00+00:00
  - user: rumpel
  - tags: ['personal', 'web1']
-
-## Recent Entries in the Journal
- - [https://blog.darylsun.page](https://blog.darylsun.page)
- - date published: 2024-01-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## David Tang - Your guide to navigating health challenges
- - [https://www.davidtang.page](https://www.davidtang.page)
- - date published: 2023-11-29T14:25:33.842704+00:00
- - user: None
- - tags: ['personal']
-
-## Downfall
- - [https://downfall.page](https://downfall.page)
- - date published: 2023-10-25T22:24:25.474487+00:00
- - user: None
- - tags: []
-
-## Fetcher
- - [https://www.fetcher.page](https://www.fetcher.page)
- - date published: 2023-10-25T22:24:26.273886+00:00
- - user: None
- - tags: []
-
-## Ignore This Page
- - [https://ignorethis.page](https://ignorethis.page)
- - date published: 2024-01-02T10:20:21.903538+00:00
- - user: None
- - tags: []
-
-## Ishan Das Sharma
- - [https://ishan.page](https://ishan.page)
- - date published: 2023-11-08T04:59:12.690853+00:00
- - user: None
- - tags: ['personal']
-
-## Juliette's Café – My lil blog
- - [https://juliette.page](https://juliette.page)
- - date published: 2024-01-09T03:43:21.081260+00:00
- - user: None
- - tags: []
-
-## Kaustubh Maske Patil
- - [https://kaustubh.page](https://kaustubh.page)
- - date published: 2023-12-20T05:39:13.757904+00:00
- - user: None
- - tags: ['personal']
-
-## paulo pinto dot page
- - [https://paulopinto.page](https://paulopinto.page)
- - date published: 2023-12-08T08:32:27.632081+00:00
- - user: None
- - tags: ['personal']
-
-## Nerve Signals
- - [https://nerve-signals.pika.page](https://nerve-signals.pika.page)
- - date published: 2024-02-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pika - Start Your Happy Blog
- - [https://pika.page](https://pika.page)
- - date published: 2024-02-06T21:45:59.502425+00:00
- - user: None
- - tags: []
-
-## Postcard
- - [https://postcard.page](https://postcard.page)
- - date published: 2023-10-25T22:24:37.222590+00:00
- - user: None
- - tags: []
-
-## Buffer
- - [https://buffer.start.page](https://buffer.start.page)
- - date published: 2023-11-19T15:19:04.082607+00:00
- - user: None
- - tags: []
-
-## Superfunctions - Ai Prompts as a service
- - [https://superfunctions.versoly.page](https://superfunctions.versoly.page)
- - date published: 2023-10-25T22:24:38.792551+00:00
- - user: None
- - tags: []
-
-## Z-Axis
- - [https://www.zaxis.page](https://www.zaxis.page)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## benoit.paris
- - [https://benoit.paris](https://benoit.paris)
- - date published: 2023-10-25T22:24:39.468739+00:00
- - user: None
- - tags: []
-
-## La tour Eiffel, Site OFFICIEL : billets, infos, actualité....
- - [https://www.toureiffel.paris](https://www.toureiffel.paris)
- - date published: 2023-10-25T22:24:41.407683+00:00
- - user: None
- - tags: []
-
-## Moxie Partners | A Creative Brand.
- - [https://www.mx.partners](https://www.mx.partners)
- - date published: 2024-02-26T09:16:21.567894+00:00
- - user: None
- - tags: []
-
-## Next Wave Partners | Venture Studio | Growth Accelerator | Innovation Lab
- - [https://nextwave.partners](https://nextwave.partners)
- - date published: 2023-10-25T22:24:43.531032+00:00
- - user: None
- - tags: []
-
-## Engine Simulator
- - [https://www.engine-sim.parts](https://www.engine-sim.parts)
- - date published: 2023-10-25T22:24:44.453129+00:00
- - user: None
- - tags: []
-
-## Human Chess - chess variant where playing the top engine move
-is forbidden
- - [https://humanchess.abcd.party](https://humanchess.abcd.party)
- - date published: 2023-10-25T22:24:44.942470+00:00
- - user: None
- - tags: []
-
-## Show HN: A Dalle-3 and GPT4-Vision feedback loop
- - [https://dalle.party](https://dalle.party)
- - date published: 2023-11-27T14:18:24+00:00
- - user: None
- - tags: []
-
-## Tiny Code Christmas
- - [https://tcc.lovebyte.party](https://tcc.lovebyte.party)
- - date published: 2023-10-25T22:24:45.776384+00:00
- - user: None
- - tags: []
-
-## Agencia Peruana de Noticias | ANDINA
- - [https://andina.pe](https://andina.pe)
- - date published: 2024-02-27T15:54:33.382153+00:00
- - user: None
- - tags: []
-
-## Matthew Pope
- - [https://mattpo.pe](https://mattpo.pe)
- - date published: 2023-10-25T22:24:47.280695+00:00
- - user: None
- - tags: []
-
-## BusinessMirror | BusinessMirror
- - [https://businessmirror.com.ph](https://businessmirror.com.ph)
- - date published: 2024-02-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Daily Tribune
- - [https://tribune.net.ph](https://tribune.net.ph)
- - date published: 2023-12-16T10:37:57.398069+00:00
- - user: None
- - tags: []
-
-## Internet Archive
- - [https://archive.ph](https://archive.ph)
- - date published: 2023-11-13T12:03:03+00:00
- - user: rumpel
- - tags: ['internet archive']
-
-## Telegraph
- - [https://telegra.ph](https://telegra.ph)
- - date published: 2023-10-25T22:24:48.190795+00:00
- - user: None
- - tags: []
-
-## https://ansel.photos/en/
- - [https://ansel.photos](https://ansel.photos)
- - date published: 2023-11-25T12:28:56.428069+00:00
- - user: None
- - tags: []
-
-## Generated Photos | Unique, worry-free model photos
- - [https://generated.photos](https://generated.photos)
- - date published: 2023-10-25T22:24:50.468939+00:00
- - user: None
- - tags: []
-
-## Show HN: AnyText AI – Multilingual text generation and editing tool
- - [https://anytext.pics](https://anytext.pics)
- - date published: 2024-01-07T15:38:08+00:00
- - user: None
- - tags: []
-
-## None
- - [https://commit.pizza](https://commit.pizza)
- - date published: 2024-01-09T03:43:23.556943+00:00
- - user: None
- - tags: []
-
-## Daniël van der Winden • Product Designer, Writer
- - [https://www.daniel.pizza](https://www.daniel.pizza)
- - date published: 2024-01-05T16:52:00.190425+00:00
- - user: None
- - tags: []
-
-## None
- - [https://ptv-news.com.pk](https://ptv-news.com.pk)
- - date published: 2024-01-09T03:43:33.649877+00:00
- - user: None
- - tags: []
-
-## The News International: Latest News Breaking, Pakistan News
- - [https://www.thenews.com.pk](https://www.thenews.com.pk)
- - date published: 2024-02-24T09:56:21.764672+00:00
- - user: None
- - tags: []
-
-## International News, Latest News, Breaking News  | The Express Tribune
- - [https://tribune.com.pk](https://tribune.com.pk)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Portal-Attendence
- - [https://cms.cust.edu.pk](https://cms.cust.edu.pk)
- - date published: 2024-02-08T22:15:51.370802+00:00
- - user: None
- - tags: []
-
-## Karachi School of Business and Leadership. KSBL - Karachi School of Business & Leadership
- - [https://www.ksbl.edu.pk](https://www.ksbl.edu.pk)
- - date published: 2024-02-08T22:09:44.147353+00:00
- - user: None
- - tags: []
-
-## Dept. of International Relations, University of Karachi
- - [https://www.kuird.edu.pk](https://www.kuird.edu.pk)
- - date published: 2024-02-08T22:01:02.935002+00:00
- - user: None
- - tags: []
-
-## https://www.khyberpakhtunkhwa.gov.pk
- - [https://www.khyberpakhtunkhwa.gov.pk](https://www.khyberpakhtunkhwa.gov.pk)
- - date published: 2024-02-08T19:57:30.454155+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.pta.gov.pk](https://www.pta.gov.pk)
- - date published: 2024-01-09T03:43:44.494290+00:00
- - user: None
- - tags: []
-
-## ANDROID.COM.PL - społeczność entuzjastów technologii
- - [https://android.com.pl](https://android.com.pl)
- - date published: 2023-10-25T22:24:55+00:00
- - user: rumpel
- - tags: ['tech news']
-
-## Testy sprzętu hi-fi, hi-end i kina domowego. Porady, opinie, wykaz sklepów i dystrybutorów audiofilskich marek
- - [https://audio.com.pl](https://audio.com.pl)
- - date published: 2023-12-13T14:59:46.327809+00:00
- - user: None
- - tags: ['audio news', 'audio equipment']
-
-## Sklep Elektroniczny Botland - Sklep z Elektroniką
- - [https://botland.com.pl](https://botland.com.pl)
- - date published: 2023-10-25T11:16:01.784913+00:00
- - user: None
- - tags: ['electronic parts']
-
-## BrandMe CEO
- - [https://brandmeceo.businessinsider.com.pl](https://brandmeceo.businessinsider.com.pl)
- - date published: 2023-10-25T22:24:57.674006+00:00
- - user: None
- - tags: []
-
-## Business Insider Polska
- - [https://businessinsider.com.pl](https://businessinsider.com.pl)
- - date published: 2023-10-25T10:58:26.656129+00:00
- - user: None
- - tags: []
-
-## Elektronika Praktyczna | Serwis specjalistyczny o elektronice i technice
- - [https://ep.com.pl](https://ep.com.pl)
- - date published: 2023-12-13T14:59:33.501229+00:00
- - user: None
- - tags: ['electronics']
-
-## https://www.euro.com.pl
- - [https://www.euro.com.pl](https://www.euro.com.pl)
- - date published: 2023-10-24T20:17:32.488635+00:00
- - user: None
- - tags: ['shop', 'electronics']
-
-## Flamberg - gry planszowe Katowice
- - [https://flamberg.com.pl](https://flamberg.com.pl)
- - date published: 2023-11-01T19:12:06.616555+00:00
- - user: None
- - tags: ['wargames', 'board games', 'shop', 'tabletop games']
-
-## Gandalf.com.pl - księgarnia i sklep internetowy z zabawkami, muzyką i perfumami
- - [https://www.gandalf.com.pl](https://www.gandalf.com.pl)
- - date published: 2023-10-24T20:18:08.254055+00:00
- - user: None
- - tags: ['ebook shop']
-
-## Jbzd.com.pl - najgorsze obrazki w internecie!
- - [https://jbzd.com.pl](https://jbzd.com.pl)
- - date published: 2023-10-27T11:55:01.917890+00:00
- - user: None
- - tags: ['memes', 'funny images']
-
-## https://www.lady-pank.com.pl
- - [https://www.lady-pank.com.pl](https://www.lady-pank.com.pl)
- - date published: 2023-12-12T09:20:53+00:00
- - user: rumpel
- - tags: ['music band']
-
-## PAN OD KULTURY
- - [https://panodkultury.com.pl](https://panodkultury.com.pl)
- - date published: 2023-10-27T13:12:52.295579+00:00
- - user: None
- - tags: []
-
-## FISZ EMADE - TWORZYWO
- - [https://tworzywo.com.pl](https://tworzywo.com.pl)
- - date published: 2024-01-09T03:43:48.551241+00:00
- - user: None
- - tags: []
-
-## Wilki - Oficjalna Strona Zespołu - Strona Główna
- - [https://www.wilki.com.pl](https://www.wilki.com.pl)
- - date published: 2024-01-09T03:43:49.893046+00:00
- - user: None
- - tags: []
-
-## Wolni i Solidarni – Wolni i Solidarni – Partia polityczna Kornela Morawieckiego. Koło Częstochowa. Dotyczy spraw politycznych ale także historii i przyszłości.
- - [https://www.wolniisolidarni.czest.pl](https://www.wolniisolidarni.czest.pl)
- - date published: 2023-10-25T22:25:00.119842+00:00
- - user: None
- - tags: []
-
-## Strona główna - Uniwersytet im. Adama Mickiewicza w Poznaniu
- - [https://amu.edu.pl](https://amu.edu.pl)
- - date published: 2023-10-27T13:02:57.267906+00:00
- - user: None
- - tags: ['university']
-
-## IWFM - It Works For Me!
- - [https://zeus27.cyf-kr.edu.pl](https://zeus27.cyf-kr.edu.pl)
- - date published: 2024-02-08T22:53:08.246112+00:00
- - user: None
- - tags: []
-
-## Serwis prasowy IFJ PAN
- - [https://press.ifj.edu.pl](https://press.ifj.edu.pl)
- - date published: 2023-10-25T22:25:01.663981+00:00
- - user: None
- - tags: []
-
-## WZ UW | Wydział Zarządzania UW
- - [https://wz.uw.edu.pl](https://wz.uw.edu.pl)
- - date published: 2024-02-08T17:01:22.194328+00:00
- - user: None
- - tags: []
-
-## Narodowy Fundusz Zdrowia (NFZ) – finansujemy zdrowie Polaków
- - [https://www.nfz.gov.pl](https://www.nfz.gov.pl)
- - date published: 2023-10-25T22:25:03.318274+00:00
- - user: None
- - tags: ['healthcare', 'government']
-
-## Najwyższa Izba Kontroli
- - [https://www.nik.gov.pl](https://www.nik.gov.pl)
- - date published: 2023-11-16T16:54:09.383687+00:00
- - user: None
- - tags: []
-
-## Sejm Rzeczypospolitej Polskiej
- - [https://sejm.gov.pl](https://sejm.gov.pl)
- - date published: 2023-12-01T20:34:13.194103+00:00
- - user: None
- - tags: []
-
-## Sejm Rzeczypospolitej Polskiej
- - [https://www.sejm.gov.pl](https://www.sejm.gov.pl)
- - date published: 2024-01-29T01:20:06.127333+00:00
- - user: None
- - tags: []
-
-## Główny Urząd Statystyczny
- - [https://stat.gov.pl](https://stat.gov.pl)
- - date published: 2024-01-05T10:54:42.258169+00:00
- - user: None
- - tags: []
-
-## Strona główna | Główny Inspektorat Weterynarii
- - [https://www.wetgiw.gov.pl](https://www.wetgiw.gov.pl)
- - date published: 2024-02-24T00:02:31.622833+00:00
- - user: None
- - tags: []
 

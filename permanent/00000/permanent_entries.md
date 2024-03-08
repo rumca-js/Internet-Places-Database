@@ -652,6 +652,12 @@
  - user: None
  - tags: []
 
+## The Pile is a 825 GiB diverse, open source language modelling data set
+ - [https://pile.eleuther.ai](https://pile.eleuther.ai)
+ - date published: 2024-03-07T17:14:51+00:00
+ - user: None
+ - tags: ['artificial intelligence data', 'database']
+
 ## EleutherAI
  - [https://www.eleuther.ai](https://www.eleuther.ai)
  - date published: 2024-02-12T00:00:00+00:00
@@ -3952,6 +3958,12 @@
  - user: None
  - tags: ['personal']
 
+## decryption.net.au
+ - [https://blog.decryption.net.au](https://blog.decryption.net.au)
+ - date published: 2024-03-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## keyboardninja
  - [https://kbni.net.au](https://kbni.net.au)
  - date published: 2024-01-14T08:12:23.595165+00:00
@@ -4073,16 +4085,16 @@
  - tags: ['music band']
 
 ## Home – Zvi Band | Zvi Band
- - [https://zvi.band](https://zvi.band)
- - date published: 2017-09-27T10:32:32+00:00
- - user: None
- - tags: []
-
-## Home – Zvi Band | Zvi Band
  - [http://zvi.band](http://zvi.band)
  - date published: 2023-12-22T22:31:24.610066+00:00
  - user: None
  - tags: ['personal']
+
+## Home – Zvi Band | Zvi Band
+ - [https://zvi.band](https://zvi.band)
+ - date published: 2017-09-27T10:32:32+00:00
+ - user: None
+ - tags: []
 
 ## https://saucecode.bar
  - [https://saucecode.bar](https://saucecode.bar)
@@ -4261,6 +4273,12 @@
 ## Usable systemd timers for mortals
  - [https://try.popho.be](https://try.popho.be)
  - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://rdcu.be](https://rdcu.be)
+ - date published: 2024-03-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5980,22 +5998,4 @@
  - date published: 2023-10-25T09:25:27.291271+00:00
  - user: None
  - tags: ['personal']
-
-## Ibraheem Ahmed
- - [https://ibraheem.ca](https://ibraheem.ca)
- - date published: 2023-10-25T08:42:56.661128+00:00
- - user: None
- - tags: ['personal']
-
-## Interrupt Labs
- - [https://interruptlabs.ca](https://interruptlabs.ca)
- - date published: 2023-10-25T12:05:15.572215+00:00
- - user: None
- - tags: []
-
-## Italian Recipes, Pasta, Pizza, Lasagna, Food, Cooking!
- - [https://www.italiancook.ca](https://www.italiancook.ca)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
 

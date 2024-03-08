@@ -1,3 +1,364 @@
+## GeoServer
+ - [https://geoserver.org](https://geoserver.org)
+ - date published: 2023-10-25T21:24:39.577688+00:00
+ - user: None
+ - tags: []
+
+## Get Construction Talking
+ - [https://www.getconstructiontalking.org](https://www.getconstructiontalking.org)
+ - date published: 2024-01-24T20:53:45.077098+00:00
+ - user: None
+ - tags: []
+
+## Doks – Build a Docs Site
+ - [https://getdoks.org](https://getdoks.org)
+ - date published: 2024-03-05T16:25:46+00:00
+ - user: None
+ - tags: []
+
+## Grav - A Modern Flat-File CMS | Grav CMS
+ - [https://getgrav.org](https://getgrav.org)
+ - date published: 2023-10-25T21:24:41.224513+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.getlazarus.org](https://www.getlazarus.org)
+ - date published: 2024-01-09T03:40:30.679697+00:00
+ - user: None
+ - tags: []
+
+## Home - gettalong's web home
+ - [https://gettalong.org](https://gettalong.org)
+ - date published: 2023-10-25T21:24:42.045117+00:00
+ - user: None
+ - tags: []
+
+## Ghidra
+ - [https://ghidra-sre.org](https://ghidra-sre.org)
+ - date published: 2023-10-25T21:24:42+00:00
+ - user: rumpel
+ - tags: []
+
+## Ghostarchive, a website archive
+ - [https://ghostarchive.org](https://ghostarchive.org)
+ - date published: 2024-01-04T15:22:03+00:00
+ - user: rumpel
+ - tags: ['internet archive']
+
+## GHSA | Governors Highway Safety Association
+ - [https://www.ghsa.org](https://www.ghsa.org)
+ - date published: 2023-10-25T21:24:45.901586+00:00
+ - user: None
+ - tags: []
+
+## Marek Gibney
+ - [https://www.gibney.org](https://www.gibney.org)
+ - date published: 2023-10-25T21:24:48.576733+00:00
+ - user: None
+ - tags: []
+
+## gifcities.org by Internet Archive – search for GIFs scraped off geocities sites
+ - [https://gifcities.org](https://gifcities.org)
+ - date published: 2024-02-26T00:46:08+00:00
+ - user: None
+ - tags: []
+
+## Global Investigative Journalism Network
+ - [https://gijn.org](https://gijn.org)
+ - date published: 2023-10-25T21:24:56.514394+00:00
+ - user: None
+ - tags: []
+
+## Giles Turnbull's website
+ - [https://gilest.org](https://gilest.org)
+ - date published: 2024-01-10T02:57:57.538118+00:00
+ - user: None
+ - tags: []
+
+## GIMP - GNU Image Manipulation Program
+ - [https://www.gimp.org](https://www.gimp.org)
+ - date published: 2023-10-25T21:24:57.942609+00:00
+ - user: None
+ - tags: ['open source', 'program']
+
+## gingerBill
+ - [https://www.gingerbill.org](https://www.gingerbill.org)
+ - date published: 2023-10-25T21:24:58.962507+00:00
+ - user: None
+ - tags: []
+
+## GitLab Foundation
+ - [https://www.gitlabfoundation.org](https://www.gitlabfoundation.org)
+ - date published: 2023-10-25T21:25:00.592742+00:00
+ - user: None
+ - tags: []
+
+## GiveDirectly – Send money directly to people who need it most
+ - [https://www.givedirectly.org](https://www.givedirectly.org)
+ - date published: 2023-12-03T18:55:24+00:00
+ - user: None
+ - tags: []
+
+## GiveWell
+ - [https://givewell.org](https://givewell.org)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## GiveWell
+ - [http://www.givewell.org](http://www.givewell.org)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://givingbirthwithconfidence.org
+ - [https://givingbirthwithconfidence.org](https://givingbirthwithconfidence.org)
+ - date published: 2024-02-08T22:08:41.766287+00:00
+ - user: None
+ - tags: []
+
+## glandium.org
+ - [https://glandium.org](https://glandium.org)
+ - date published: 2023-11-21T21:18:54.989187+00:00
+ - user: None
+ - tags: []
+
+## argmin gravitas
+ - [https://www.gleech.org](https://www.gleech.org)
+ - date published: 2024-02-22T09:50:12.772168+00:00
+ - user: None
+ - tags: []
+
+## Sorry, page cannot be found
+ - [https://www.gllamm.org](https://www.gllamm.org)
+ - date published: 2024-01-09T03:40:36.559675+00:00
+ - user: None
+ - tags: []
+
+## Global Chemistry
+ - [https://www.globalchemistry.org](https://www.globalchemistry.org)
+ - date published: 2023-10-25T21:25:13.879712+00:00
+ - user: None
+ - tags: []
+
+## Global Encryption Coalition – Global Encryption Coalition
+ - [https://www.globalencryption.org](https://www.globalencryption.org)
+ - date published: 2023-10-25T21:25:17.459696+00:00
+ - user: None
+ - tags: []
+
+## Transparency for a Sustainable Ocean | Global Fishing Watch
+ - [https://globalfishingwatch.org](https://globalfishingwatch.org)
+ - date published: 2024-01-04T14:33:24.610958+00:00
+ - user: None
+ - tags: []
+
+## Global Methane Initiative
+ - [https://globalmethane.org](https://globalmethane.org)
+ - date published: 2024-02-08T17:48:42.320376+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://globalmoneyweek.org](https://globalmoneyweek.org)
+ - date published: 2024-02-29T19:53:32.841039+00:00
+ - user: None
+ - tags: []
+
+## Archive - Global Policy Forum
+ - [https://archive.globalpolicy.org](https://archive.globalpolicy.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | GLOBSEC - A Global Think Tank: Ideas Shaping the World
+ - [https://www.globsec.org](https://www.globsec.org)
+ - date published: 2023-10-25T21:25:21.123333+00:00
+ - user: None
+ - tags: []
+
+## Welcome to GMPG
+ - [https://gmpg.org](https://gmpg.org)
+ - date published: 2023-12-11T15:48:25.754545+00:00
+ - user: None
+ - tags: []
+
+## Welcome to GMPG
+ - [http://gmpg.org](http://gmpg.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The GNU MP Bignum Library
+ - [https://gmplib.org](https://gmplib.org)
+ - date published: 2023-10-25T21:25:27.856241+00:00
+ - user: None
+ - tags: []
+
+## blog.gnoack.org
+ - [https://blog.gnoack.org](https://blog.gnoack.org)
+ - date published: 2024-02-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Discover the best Apps for GNOME – Apps for GNOME
+ - [https://apps.gnome.org](https://apps.gnome.org)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: rumpel
+ - tags: ['gnome']
+
+## GNOME Blogs – A blogging community for GNOME contributors
+ - [https://blogs.gnome.org](https://blogs.gnome.org)
+ - date published: 2023-10-25T21:25:31.296886+00:00
+ - user: None
+ - tags: []
+
+## The GNOME Foundation – Building a diverse and sustainable free software ecosystem
+ - [https://foundation.gnome.org](https://foundation.gnome.org)
+ - date published: 2023-10-25T21:25:34.346769+00:00
+ - user: None
+ - tags: []
+
+## Explore groups · GitLab
+ - [https://gitlab.gnome.org](https://gitlab.gnome.org)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['gnome']
+
+## This Week in GNOME
+ - [https://thisweek.gnome.org](https://thisweek.gnome.org)
+ - date published: 2023-10-25T21:25:35.832307+00:00
+ - user: None
+ - tags: []
+
+## GNOME – Simple, beautiful, elegant.
+ - [https://www.gnome.org](https://www.gnome.org)
+ - date published: 2023-11-21T07:49:47+00:00
+ - user: rumpel
+ - tags: ['open source', 'linux', 'gnome']
+
+## Overview
+ - [https://gnome-terminator.org](https://gnome-terminator.org)
+ - date published: 2023-10-30T14:12:47.646665+00:00
+ - user: None
+ - tags: ['terminal']
+
+## The Gnosis Archive
+ - [https://gnosis.org](https://gnosis.org)
+ - date published: 2024-01-09T03:40:40.030236+00:00
+ - user: None
+ - tags: []
+
+## Audio/Video - GNU Project - Free-Software Foundation
+ - [https://audio-video.gnu.org](https://audio-video.gnu.org)
+ - date published: 2023-10-25T21:25:39.128462+00:00
+ - user: None
+ - tags: []
+
+## Index of /
+ - [https://ftp.gnu.org](https://ftp.gnu.org)
+ - date published: 2023-10-25T21:25:41.505440+00:00
+ - user: None
+ - tags: []
+
+## GCC, the GNU Compiler Collection
+- GNU Project
+ - [https://gcc.gnu.org](https://gcc.gnu.org)
+ - date published: 2023-10-25T21:25:44.167805+00:00
+ - user: None
+ - tags: ['compiler']
+
+## GNU Guix transactional package manager and distribution — GNU Guix
+ - [https://guix.gnu.org](https://guix.gnu.org)
+ - date published: 2023-10-25T21:25:47.790129+00:00
+ - user: None
+ - tags: ['operating system']
+
+## lists.gnu.org
+ - [https://lists.gnu.org](https://lists.gnu.org)
+ - date published: 2023-10-25T21:25:51.009984+00:00
+ - user: None
+ - tags: []
+
+## Planet GNU
+ - [https://planet.gnu.org](https://planet.gnu.org)
+ - date published: 2024-02-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The GNU Operating System and the Free Software Movement
+ - [https://www.gnu.org](https://www.gnu.org)
+ - date published: 2023-10-25T11:25:37.259701+00:00
+ - user: None
+ - tags: ['open source']
+
+## GNUnet
+ - [https://www.gnunet.org](https://www.gnunet.org)
+ - date published: 2023-11-21T09:09:44.173185+00:00
+ - user: None
+ - tags: []
+
+## GNU Radio Events · GNU Radio Events (Indico)
+ - [https://events.gnuradio.org](https://events.gnuradio.org)
+ - date published: 2024-01-25T01:48:11.388883+00:00
+ - user: None
+ - tags: []
+
+## GoboLinux
+ - [https://www.gobolinux.org](https://www.gobolinux.org)
+ - date published: 2024-02-28T01:15:56+00:00
+ - user: None
+ - tags: ['operating system']
+
+## Compiler Explorer
+ - [https://godbolt.org](https://godbolt.org)
+ - date published: 2023-10-25T21:25:55.654816+00:00
+ - user: None
+ - tags: ['online tool', 'compiler']
+
+## Godot Docs – 4.1 branch — Godot Engine (stable) documentation in English
+ - [https://docs.godotengine.org](https://docs.godotengine.org)
+ - date published: 2023-10-25T21:26:38.077433+00:00
+ - user: None
+ - tags: []
+
+## Godot Development Fund
+ - [https://fund.godotengine.org](https://fund.godotengine.org)
+ - date published: 2023-10-25T08:39:29.413240+00:00
+ - user: None
+ - tags: []
+
+## Godot Engine - Free and open source 2D and 3D game engine
+ - [https://godotengine.org](https://godotengine.org)
+ - date published: 2023-10-25T08:33:45.047771+00:00
+ - user: None
+ - tags: ['open source', 'game engine']
+
+## Godot Forums
+ - [https://godotforums.org](https://godotforums.org)
+ - date published: 2023-10-25T21:26:41.786556+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://go-fed.org](https://go-fed.org)
+ - date published: 2024-01-09T03:40:41.785422+00:00
+ - user: None
+ - tags: []
+
+## Gokrazy – Go Appliances
+ - [https://gokrazy.org](https://gokrazy.org)
+ - date published: 2023-12-19T05:23:20+00:00
+ - user: None
+ - tags: []
+
+## Gold Price
+ - [https://goldprice.org](https://goldprice.org)
+ - date published: 2024-01-01T10:24:05.664763+00:00
+ - user: None
+ - tags: []
+
 ## Back in 5 mins | Ruby, loadsa bash, tweets and cats.
  - [https://jay.gooby.org](https://jay.gooby.org)
  - date published: 2023-10-25T21:26:49.689151+00:00
@@ -447,6 +808,12 @@
  - date published: 2023-11-28T07:45:56+00:00
  - user: None
  - tags: ['organization']
+
+## Heart Research Institute UK • Donate to heart disease research charity • Heart Research Institute
+ - [https://www.hriuk.org](https://www.hriuk.org)
+ - date published: 2024-03-07T18:28:30.997182+00:00
+ - user: None
+ - tags: []
 
 ## Human Rights Watch | Defending Human Rights Worldwide
  - [https://www.hrw.org](https://www.hrw.org)
@@ -917,16 +1284,16 @@
  - tags: []
 
 ## Draw Freely | Inkscape
- - [http://www.inkscape.org](http://www.inkscape.org)
- - date published: 2024-02-26T09:27:07.298333+00:00
- - user: None
- - tags: []
-
-## Draw Freely | Inkscape
  - [https://www.inkscape.org](https://www.inkscape.org)
  - date published: 2023-12-12T09:13:16+00:00
  - user: None
  - tags: ['vector graphics']
+
+## Draw Freely | Inkscape
+ - [http://www.inkscape.org](http://www.inkscape.org)
+ - date published: 2024-02-26T09:27:07.298333+00:00
+ - user: None
+ - tags: []
 
 ## Ink/Stitch: An open-source machine embroidery design platform based on Inkscape
  - [https://inkstitch.org](https://inkstitch.org)
@@ -2840,14 +3207,14 @@ Hosted by Panix.com.
  - tags: ['personal']
 
 ## MarTech
- - [http://martech.org](http://martech.org)
- - date published: 2024-02-26T08:57:00.132467+00:00
+ - [https://martech.org](https://martech.org)
+ - date published: 2024-01-09T05:07:40.902644+00:00
  - user: None
  - tags: []
 
 ## MarTech
- - [https://martech.org](https://martech.org)
- - date published: 2024-01-09T05:07:40.902644+00:00
+ - [http://martech.org](http://martech.org)
+ - date published: 2024-02-26T08:57:00.132467+00:00
  - user: None
  - tags: []
 
@@ -3390,16 +3757,16 @@ Common Weakness Enumeration
  - tags: []
 
 ## The Mod Archive v4.0b - A distinctive collection of modules
- - [http://modarchive.org](http://modarchive.org)
- - date published: 2024-02-15T01:59:58.310157+00:00
- - user: None
- - tags: []
-
-## The Mod Archive v4.0b - A distinctive collection of modules
  - [https://modarchive.org](https://modarchive.org)
  - date published: 2023-10-28T19:01:07.809021+00:00
  - user: None
  - tags: ['chiptune', 'keygen', 'demoscene']
+
+## The Mod Archive v4.0b - A distinctive collection of modules
+ - [http://modarchive.org](http://modarchive.org)
+ - date published: 2024-02-15T01:59:58.310157+00:00
+ - user: None
+ - tags: []
 
 ## mojo.js - JavaScript real-time web framework
  - [https://mojojs.org](https://mojojs.org)
@@ -3581,17 +3948,17 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
-## Internet for people, not profit — Mozilla (US)
- - [https://www.mozilla.org](https://www.mozilla.org)
- - date published: 2023-10-25T09:27:30.838308+00:00
- - user: None
- - tags: ['organization', 'company', 'web browser', 'firefox', 'thunderbird']
-
 ## Pocket | Discover, Capture and Savor Content That Fascinates You
  - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
  - date published: 2023-11-13T13:38:32+00:00
  - user: rumpel
  - tags: ['bookmark manager', 'link aggregation']
+
+## Internet for people, not profit — Mozilla (US)
+ - [https://www.mozilla.org](https://www.mozilla.org)
+ - date published: 2023-10-25T09:27:30.838308+00:00
+ - user: None
+ - tags: ['organization', 'company', 'web browser', 'firefox', 'thunderbird']
 
 ## Nextcloud
  - [https://nce.mpi-sp.org](https://nce.mpi-sp.org)
@@ -3857,6 +4224,12 @@ Common Weakness Enumeration
  - user: None
  - tags: ['personal']
 
+## nLab
+ - [https://ncatlab.org](https://ncatlab.org)
+ - date published: 2024-02-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## None
  - [https://www.ncset.org](https://www.ncset.org)
  - date published: 2024-02-08T17:36:05.398115+00:00
@@ -3866,6 +4239,12 @@ Common Weakness Enumeration
 ## Network and Distributed System Security (NDSS) Symposium
  - [https://www.ndss-symposium.org](https://www.ndss-symposium.org)
  - date published: 2023-10-25T21:46:15.238050+00:00
+ - user: None
+ - tags: []
+
+## National Education Association | NEA
+ - [https://www.nea.org](https://www.nea.org)
+ - date published: 2024-03-07T12:46:51.208925+00:00
  - user: None
  - tags: []
 
@@ -4625,6 +5004,12 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
+## National Marine Mammal Foundation
+ - [https://www.nmmf.org](https://www.nmmf.org)
+ - date published: 2024-03-07T16:29:44.336322+00:00
+ - user: None
+ - tags: []
+
 ## Nobel Peace Prize - Home
  - [https://www.nobelpeaceprize.org](https://www.nobelpeaceprize.org)
  - date published: 2023-10-25T21:48:57.442582+00:00
@@ -4833,7 +5218,7 @@ Common Weakness Enumeration
  - [https://o3de.org](https://o3de.org)
  - date published: 2023-11-01T08:44:29.705947+00:00
  - user: None
- - tags: []
+ - tags: ['game engine']
 
 ## Oakland Public Library
  - [https://oaklandlibrary.org](https://oaklandlibrary.org)
@@ -5621,388 +6006,4 @@ Common Weakness Enumeration
  - date published: 2023-12-24T08:15:03+00:00
  - user: rumpel
  - tags: ['service maps']
-
-## Open Source Mobile Communications
- - [https://projects.osmocom.org](https://projects.osmocom.org)
- - date published: 2023-10-25T21:55:10.623342+00:00
- - user: None
- - tags: []
-
-## Welcome to the Open Source Seed Initiative - Open Source Seed Initiative
- - [https://osseeds.org](https://osseeds.org)
- - date published: 2023-10-25T21:55:13.834590+00:00
- - user: None
- - tags: []
-
-## Show HN: Open-source alternatives to tools You pay for
- - [https://osssoftware.org](https://osssoftware.org)
- - date published: 2023-12-09T01:14:37+00:00
- - user: None
- - tags: []
-
-## Our World in Data
- - [https://ourworldindata.org](https://ourworldindata.org)
- - date published: 2023-10-25T21:55:14.796544+00:00
- - user: None
- - tags: ['data', 'statistics']
-
-## Earth Overshoot Day home - #MoveTheDate
- - [https://www.overshootday.org](https://www.overshootday.org)
- - date published: 2023-10-25T21:55:21.472858+00:00
- - user: None
- - tags: []
-
-## https://overthewire.org
- - [https://overthewire.org](https://overthewire.org)
- - date published: 2024-01-09T03:41:57.489375+00:00
- - user: None
- - tags: []
-
-## Overture Maps Foundation – Linux Foundation Project
- - [https://overturemaps.org](https://overturemaps.org)
- - date published: 2023-10-25T21:55:23.960595+00:00
- - user: None
- - tags: []
-
-## OWASP Foundation, the Open Source Foundation for Application Security | OWASP Foundation
- - [https://owasp.org](https://owasp.org)
- - date published: 2023-10-25T21:55:25.406620+00:00
- - user: None
- - tags: []
-
-## Owl’s Portfolio
- - [https://www.owlfolio.org](https://www.owlfolio.org)
- - date published: 2023-10-25T21:55:28.509100+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.oxamyne.org](https://www.oxamyne.org)
- - date published: 2023-12-11T16:12:55.572072+00:00
- - user: None
- - tags: []
-
-## Home - Oxfam Policy & Practice
- - [https://policy-practice.oxfam.org](https://policy-practice.oxfam.org)
- - date published: 2024-02-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## The future is equal | Oxfam International
- - [https://www.oxfam.org](https://www.oxfam.org)
- - date published: 2023-10-25T21:55:30.733555+00:00
- - user: None
- - tags: []
-
-## Oxford American | Home
- - [https://main.oxfordamerican.org](https://main.oxfordamerican.org)
- - date published: 2023-10-25T21:55:33.395856+00:00
- - user: None
- - tags: []
-
-## Oxford American | Home
- - [https://oxfordamerican.org](https://oxfordamerican.org)
- - date published: 2023-10-25T21:55:35.228196+00:00
- - user: None
- - tags: []
-
-## Home | p2panda
- - [https://p2panda.org](https://p2panda.org)
- - date published: 2023-10-25T21:55:36.083870+00:00
- - user: None
- - tags: []
-
-## Hummus and Magnets
- - [https://h14s.p5r.org](https://h14s.p5r.org)
- - date published: 2023-10-25T21:55:43.963463+00:00
- - user: None
- - tags: []
-
-## pablotron.org
- - [https://pablotron.org](https://pablotron.org)
- - date published: 2023-10-25T21:55:47.144745+00:00
- - user: None
- - tags: []
-
-## PackagingCon 2023
- - [https://packaging-con.org](https://packaging-con.org)
- - date published: 2023-10-25T21:55:54.179386+00:00
- - user: None
- - tags: []
-
-## Welcome to the Population Approach Group in Europe
- - [https://www.page-meeting.org](https://www.page-meeting.org)
- - date published: 2024-02-08T16:45:08.680893+00:00
- - user: None
- - tags: []
-
-## Show HN: Pages CMS – A CMS for GitHub
- - [https://pagescms.org](https://pagescms.org)
- - date published: 2024-02-22T13:58:03+00:00
- - user: None
- - tags: []
-
-## The Palaeontological Association | Reg. Charity No. 1168330
- - [https://www.palass.org](https://www.palass.org)
- - date published: 2023-10-25T11:25:34.390632+00:00
- - user: None
- - tags: []
-
-## pamela fox's blog
- - [https://blog.pamelafox.org](https://blog.pamelafox.org)
- - date published: 2023-10-25T21:55:58.273502+00:00
- - user: None
- - tags: []
-
-## Pandemic Resilience Roadmap
- - [https://www.pandemictesting.org](https://www.pandemictesting.org)
- - date published: 2020-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Pandoc - index
- - [https://pandoc.org](https://pandoc.org)
- - date published: 2023-10-25T21:55:59.781435+00:00
- - user: None
- - tags: []
-
-## Strona główna | Fundacja Panoptykon
- - [https://panoptykon.org](https://panoptykon.org)
- - date published: 2023-10-25T21:56:01.636917+00:00
- - user: None
- - tags: []
-
-## Papers, Please! – The Identity Project
- - [https://papersplease.org](https://papersplease.org)
- - date published: 2023-10-25T21:56:07.417099+00:00
- - user: None
- - tags: []
-
-## paredit — parenthetical editing in Emacs
- - [https://paredit.org](https://paredit.org)
- - date published: 2023-10-25T21:56:08.422643+00:00
- - user: None
- - tags: []
-
-## Welcome!
- - [https://parentheticallyspeaking.org](https://parentheticallyspeaking.org)
- - date published: 2023-10-25T21:56:09.143442+00:00
- - user: None
- - tags: []
-
-## parsonsmatt.org
- - [https://www.parsonsmatt.org](https://www.parsonsmatt.org)
- - date published: 2023-10-25T21:56:09.832668+00:00
- - user: None
- - tags: []
-
-## PATL
- - [https://patl.org](https://patl.org)
- - date published: 2023-12-11T16:19:08.247036+00:00
- - user: None
- - tags: []
-
-## Patrick T. Brown, PhD | It’s easy to construct a persuasive argument, it’s much more difficult to figure out the truth…
- - [https://patricktbrown.org](https://patricktbrown.org)
- - date published: 2023-10-25T21:56:15.510577+00:00
- - user: None
- - tags: []
-
-## Paul Butler
- - [https://paulbutler.org](https://paulbutler.org)
- - date published: 2024-03-03T17:40:37.957621+00:00
- - user: None
- - tags: ['personal']
-
-## Paul Miller – Don't panic
- - [https://paulmiller.org](https://paulmiller.org)
- - date published: 2024-02-12T16:24:57.717444+00:00
- - user: None
- - tags: ['personal']
-
-## Andrew Payne | payne.org
- - [https://payne.org](https://payne.org)
- - date published: 2023-10-25T21:56:16.509535+00:00
- - user: None
- - tags: []
-
-## Physically Based Rendering: From Theory to Implementation
- - [https://pbr-book.org](https://pbr-book.org)
- - date published: 2023-11-02T10:40:48.951509+00:00
- - user: None
- - tags: []
-
-## PBS: Public Broadcasting Service
- - [https://www.pbs.org](https://www.pbs.org)
- - date published: 2023-10-25T10:24:08.998645+00:00
- - user: None
- - tags: []
-
-## PBS North Carolina
- - [https://www.pbsnc.org](https://www.pbsnc.org)
- - date published: 2023-11-19T19:54:33.463328+00:00
- - user: None
- - tags: []
-
-## PCG, A Family of Better Random Number Generators | PCG, A Better Random Number Generator
- - [https://www.pcg-random.org](https://www.pcg-random.org)
- - date published: 2023-10-25T21:56:20.672047+00:00
- - user: None
- - tags: []
-
-## PCjs Machines
- - [https://www.pcjs.org](https://www.pcjs.org)
- - date published: 2023-10-25T21:56:26.849904+00:00
- - user: None
- - tags: []
-
-## PDF Association – Home of the worldwide PDF technical community
- - [https://pdfa.org](https://pdfa.org)
- - date published: 2024-02-26T09:45:19.418694+00:00
- - user: None
- - tags: []
-
-## PDF Association – Home of the worldwide PDF technical community
- - [https://www.pdfa.org](https://www.pdfa.org)
- - date published: 2023-10-25T21:56:35.310113+00:00
- - user: None
- - tags: []
-
-## pdfgrep
- - [https://pdfgrep.org](https://pdfgrep.org)
- - date published: 2023-10-25T21:56:36.063095+00:00
- - user: None
- - tags: []
-
-## PDFTool: secure and seamless online PDF modifications
- - [https://www.pdftool.org](https://www.pdftool.org)
- - date published: 2023-10-25T21:56:37.161684+00:00
- - user: None
- - tags: []
-
-## Public Domain Operating System
- - [https://www.pdos.org](https://www.pdos.org)
- - date published: 2023-10-25T21:56:39.058423+00:00
- - user: None
- - tags: []
-
-## Peergos
- - [https://peergos.org](https://peergos.org)
- - date published: 2023-11-13T14:19:22.688197+00:00
- - user: None
- - tags: []
-
-## Pellucidar: The Burroughs Website from the Earth's Core
- - [https://www.pellucidar.org](https://www.pellucidar.org)
- - date published: 2024-02-08T16:21:16.817109+00:00
- - user: None
- - tags: []
-
-## PEN America
- - [https://pen.org](https://pen.org)
- - date published: 2023-10-25T21:56:42.955186+00:00
- - user: None
- - tags: []
-
-## https://www.pennmedicine.org
- - [https://www.pennmedicine.org](https://www.pennmedicine.org)
- - date published: 2023-11-08T17:46:33.639957+00:00
- - user: None
- - tags: []
-
-## Social Care | The People's Care Watchdog
- - [https://www.peoplescarewatchdog.org](https://www.peoplescarewatchdog.org)
- - date published: 2024-02-24T14:23:59.980894+00:00
- - user: None
- - tags: []
-
-## People's World
- - [https://peoplesworld.org](https://peoplesworld.org)
- - date published: 2023-11-04T02:47:57.842267+00:00
- - user: None
- - tags: []
-
-## blogs.perl.org — blogging the onion
- - [https://blogs.perl.org](https://blogs.perl.org)
- - date published: 2023-10-25T21:56:44.273665+00:00
- - user: None
- - tags: []
-
-## Perl Documentation - Perldoc Browser
- - [https://perldoc.perl.org](https://perldoc.perl.org)
- - date published: 2023-10-25T21:56:51.003512+00:00
- - user: None
- - tags: []
-
-## The Perl Foundation News
- - [https://news.perlfoundation.org](https://news.perlfoundation.org)
- - date published: 2023-10-25T21:56:58.087141+00:00
- - user: None
- - tags: []
-
-## Discover plants, swap seeds, plan gardens, share knowledge
- - [https://permapeople.org](https://permapeople.org)
- - date published: 2023-11-10T20:31:47+00:00
- - user: None
- - tags: []
-
-## Aiding the Persecuted Church
- - [https://www.persecution.org](https://www.persecution.org)
- - date published: 2023-11-27T12:13:05+00:00
- - user: rumpel
- - tags: ['catholicism', 'religion', 'christianity', 'persecution']
-
-## Pessimists Archive Newsletter | Substack
- - [https://newsletter.pessimistsarchive.org](https://newsletter.pessimistsarchive.org)
- - date published: 2023-10-25T21:57:00.476125+00:00
- - user: None
- - tags: []
-
-## Pessimists Archive
- - [https://pessimistsarchive.org](https://pessimistsarchive.org)
- - date published: 2023-11-04T23:05:27+00:00
- - user: None
- - tags: []
-
-## Peter Krautzberger
- - [https://www.peterkrautzberger.org](https://www.peterkrautzberger.org)
- - date published: 2024-01-26T02:22:06.209671+00:00
- - user: None
- - tags: []
-
-## People for the Ethical Treatment of Reinforcement Learners
- - [https://petrl.org](https://petrl.org)
- - date published: 2024-01-09T03:41:58.419634+00:00
- - user: None
- - tags: []
-
-## Pew Research Center | Nonpartisan, nonadvocacy, public opinion polling and data-driven social science research | Pew Research Center
- - [https://www.pewresearch.org](https://www.pewresearch.org)
- - date published: 2023-10-25T21:57:05.064047+00:00
- - user: None
- - tags: []
-
-## Simon Peyton Jones - Simon Peyton Jones
- - [https://simon.peytonjones.org](https://simon.peytonjones.org)
- - date published: 2023-10-25T21:57:06.231617+00:00
- - user: None
- - tags: []
-
-## pgAdmin - PostgreSQL Tools
- - [https://www.pgadmin.org](https://www.pgadmin.org)
- - date published: 2023-11-29T10:39:05.596079+00:00
- - user: None
- - tags: []
-
-## Postgres Lock Conflicts
- - [https://pglocks.org](https://pglocks.org)
- - date published: 2023-10-25T21:57:06.888982+00:00
- - user: None
- - tags: []
-
-## Pharo - Welcome to Pharo!
- - [https://pharo.org](https://pharo.org)
- - date published: 2023-10-25T21:57:07.584972+00:00
- - user: None
- - tags: []
 

@@ -1,3 +1,105 @@
+## JEREMY DEPRISCO - JEREMY DEPRISCO
+ - [https://www.jeremydeprisco.com](https://www.jeremydeprisco.com)
+ - date published: 2023-11-17T10:12:35.173571+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeremy Howlett | Entrepreneur, Marketer, Philosopher, Husband and Dad
+ - [https://jeremyhowlett.com](https://jeremyhowlett.com)
+ - date published: 2023-11-29T17:16:32.441165+00:00
+ - user: None
+ - tags: ['personal']
+
+## JeremyJahns.com
+ - [http://www.jeremyjahns.com](http://www.jeremyjahns.com)
+ - date published: 2024-03-02T09:28:58+00:00
+ - user: rumpel
+ - tags: ['movies']
+
+## Jeremy Jeziorski
+ - [https://www.jeremyjeziorski.com](https://www.jeremyjeziorski.com)
+ - date published: 2023-12-23T19:27:02.724013+00:00
+ - user: None
+ - tags: ['personal']
+
+## Math ∩ Programming
+ - [https://jeremykun.com](https://jeremykun.com)
+ - date published: 2023-10-25T15:28:05.702522+00:00
+ - user: None
+ - tags: []
+
+## Jeremy Mikkola - Home
+ - [https://jeremymikkola.com](https://jeremymikkola.com)
+ - date published: 2023-10-25T09:20:59.043607+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeremy's Programming Blog
+ - [https://www.jeremymorgan.com](https://www.jeremymorgan.com)
+ - date published: 2023-10-25T15:28:07.381699+00:00
+ - user: None
+ - tags: []
+
+## Jeremy's Blog
+ - [https://www.jeremyong.com](https://www.jeremyong.com)
+ - date published: 2023-10-25T15:28:08.983378+00:00
+ - user: None
+ - tags: []
+
+## Jeremy W. Richter - Jeremy W. Richter
+ - [https://www.jeremywrichter.com](https://www.jeremywrichter.com)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Jer Lance (dot com)
+ - [https://jerlance.com](https://jerlance.com)
+ - date published: 2023-12-20T01:00:20.704273+00:00
+ - user: None
+ - tags: ['personal']
+
+## Juan Ernesto Blog
+ - [https://www.jernesto.com](https://www.jernesto.com)
+ - date published: 2023-10-25T15:28:10.434639+00:00
+ - user: None
+ - tags: []
+
+## Jerome Leroy | Composer
+ - [https://www.jeromeleroy.com](https://www.jeromeleroy.com)
+ - date published: 2023-10-25T08:46:34.625108+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jerry Michalski
+ - [https://www.jerrymichalski.com](https://www.jerrymichalski.com)
+ - date published: 2023-11-29T17:09:20.663681+00:00
+ - user: None
+ - tags: ['personal']
+
+## Blogger
+ - [https://www.jerrysha.com](https://www.jerrysha.com)
+ - date published: 2023-12-02T21:17:38.362551+00:00
+ - user: None
+ - tags: ['personal']
+
+## JESDA.COM | Cars, travel, etc.
+ - [https://jesda.com](https://jesda.com)
+ - date published: 2023-10-25T15:28:14.048562+00:00
+ - user: None
+ - tags: []
+
+## JESDA.COM | Cars, travel, etc.
+ - [http://jesda.com](http://jesda.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Jesper Bylund
+ - [https://jesperbylund.com](https://jesperbylund.com)
+ - date published: 2024-01-10T14:28:39.004546+00:00
+ - user: None
+ - tags: []
+
 ## Jesse Dorsey
  - [https://jessedorsey.com](https://jessedorsey.com)
  - date published: 2023-12-18T22:39:12.501976+00:00
@@ -653,16 +755,16 @@
  - tags: []
 
 ## Your Privacy is our Business
- - [http://joindeleteme.com](http://joindeleteme.com)
- - date published: 2022-12-23T16:20:20+00:00
- - user: None
- - tags: ['privacy']
-
-## Your Privacy is our Business
  - [https://joindeleteme.com](https://joindeleteme.com)
  - date published: 2022-12-23T16:20:20+00:00
  - user: None
  - tags: []
+
+## Your Privacy is our Business
+ - [http://joindeleteme.com](http://joindeleteme.com)
+ - date published: 2022-12-23T16:20:20+00:00
+ - user: None
+ - tags: ['privacy']
 
 ## Join me for the ride - Thoughts on how we live
  - [https://joinmefortheride.com](https://joinmefortheride.com)
@@ -813,6 +915,12 @@
  - date published: 2023-10-25T08:46:41.267780+00:00
  - user: None
  - tags: ['psychologist', 'personal']
+
+## About / Jordan Eldredge
+ - [https://jordaneldredge.com](https://jordaneldredge.com)
+ - date published: 2009-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Jorge Sancho Muñoz
  - [https://jorgesm.com](https://jorgesm.com)
@@ -1745,14 +1853,14 @@
  - tags: ['personal']
 
 ## All posts
- - [http://katelynsills.com](http://katelynsills.com)
- - date published: 2024-01-08T00:00:00+00:00
+ - [https://katelynsills.com](https://katelynsills.com)
+ - date published: 2024-01-03T23:56:16.792993+00:00
  - user: None
  - tags: []
 
 ## All posts
- - [https://katelynsills.com](https://katelynsills.com)
- - date published: 2024-01-03T23:56:16.792993+00:00
+ - [http://katelynsills.com](http://katelynsills.com)
+ - date published: 2024-01-08T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2004,8 +2112,8 @@
 
 ## Startup Win | Kelsus | Substack
  - [https://startupwin.kelsus.com](https://startupwin.kelsus.com)
- - date published: 2023-10-25T15:35:46.064869+00:00
- - user: None
+ - date published: 2023-10-25T15:35:46+00:00
+ - user: rumpel
  - tags: []
 
 ## /dev/lawyer
@@ -2621,6 +2729,12 @@
  - user: None
  - tags: []
 
+## Home page of Todd Klein, award winning comic book letterer
+ - [https://kleinletters.com](https://kleinletters.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Martin Kleppmann’s website
  - [https://martin.kleppmann.com](https://martin.kleppmann.com)
  - date published: 2023-10-25T15:38:09.134153+00:00
@@ -2686,6 +2800,12 @@
  - date published: 2023-11-26T16:48:52+00:00
  - user: rumpel
  - tags: ['bookmark manager']
+
+## Show HN: Known – Semi-smart plant labels
+ - [https://www.knownplants.com](https://www.knownplants.com)
+ - date published: 2024-03-06T22:49:43+00:00
+ - user: None
+ - tags: []
 
 ## Knowridge Science Report | Inspiring science news
  - [https://knowridge.com](https://knowridge.com)
@@ -4314,6 +4434,12 @@ Chamber Music, Symphony
  - user: None
  - tags: []
 
+## Letterboxd • Your life in film
+ - [https://letterboxd.com](https://letterboxd.com)
+ - date published: 2024-03-07T18:28:33.226968+00:00
+ - user: None
+ - tags: []
+
 ## Letters of Note | Shaun Usher | Substack
  - [https://news.lettersofnote.com](https://news.lettersofnote.com)
  - date published: 2023-10-25T15:45:42.174290+00:00
@@ -4738,7 +4864,7 @@ Chamber Music, Symphony
  - [https://www.linkedin-status.com](https://www.linkedin-status.com)
  - date published: 2024-03-06T21:06:38+00:00
  - user: None
- - tags: []
+ - tags: ['down detector']
 
 ## Oliver Wolf – Medium
  - [https://linkedrecords.com](https://linkedrecords.com)
@@ -5872,132 +5998,6 @@ diversions.
 ## LVSportsBiz
  - [https://lvsportsbiz.com](https://lvsportsbiz.com)
  - date published: 2024-01-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.lw.com](https://www.lw.com)
- - date published: 2024-02-08T18:01:35.810777+00:00
- - user: None
- - tags: []
-
-## Lippincott Home
- - [https://journals.lww.com](https://journals.lww.com)
- - date published: 2023-12-10T04:54:11.039506+00:00
- - user: None
- - tags: []
-
-## Lyft Engineering
- - [https://eng.lyft.com](https://eng.lyft.com)
- - date published: 2023-10-25T15:52:56.040719+00:00
- - user: None
- - tags: []
-
-## Lyft: A ride whenever you need one
- - [https://www.lyft.com](https://www.lyft.com)
- - date published: 2023-10-25T15:53:08.852973+00:00
- - user: None
- - tags: []
-
-## Borys - Home
- - [https://www.lykahb.com](https://www.lykahb.com)
- - date published: 2023-10-25T15:53:09.438218+00:00
- - user: None
- - tags: []
-
-## Lý Minh Nhật
- - [https://lyminhnhat.com](https://lyminhnhat.com)
- - date published: 2024-01-22T10:09:57.842731+00:00
- - user: None
- - tags: []
-
-## Lyn Alden - Investment Strategy
- - [https://www.lynalden.com](https://www.lynalden.com)
- - date published: 2023-10-25T15:53:11.716855+00:00
- - user: None
- - tags: []
-
-## Psychic Reading | Phoenix | Lynda Diane Medium Intuitive
- - [https://www.lyndadiane.com](https://www.lyndadiane.com)
- - date published: 2024-02-08T16:28:09.952810+00:00
- - user: None
- - tags: []
-
-## Lyndon Hill
- - [https://lyndonhill.com](https://lyndonhill.com)
- - date published: 2024-02-14T08:48:56.833040+00:00
- - user: None
- - tags: ['personal']
-
-## M31 Coding - Computing & Education
- - [https://www.m31coding.com](https://www.m31coding.com)
- - date published: 2023-10-25T15:53:13.527545+00:00
- - user: None
- - tags: []
-
-## Maarten's Letters
- - [https://maartensletters.com](https://maartensletters.com)
- - date published: 2024-03-01T03:29:11.172418+00:00
- - user: None
- - tags: ['personal']
-
-## Clarity through writing · macapinlac.com
- - [https://www.macapinlac.com](https://www.macapinlac.com)
- - date published: 2024-01-10T14:29:44.031217+00:00
- - user: None
- - tags: []
-
-## Mac Chaffee
- - [https://www.macchaffee.com](https://www.macchaffee.com)
- - date published: 2023-10-25T15:53:14.050016+00:00
- - user: None
- - tags: []
-
-## Home - Mac DeMarco
- - [https://www.macdemarco.com](https://www.macdemarco.com)
- - date published: 2023-11-13T09:51:06.757247+00:00
- - user: None
- - tags: ['music band']
-
-## Moof!
- - [https://basalgangster.macgui.com](https://basalgangster.macgui.com)
- - date published: 2024-01-09T02:42:13.682575+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.machinedesign.com](https://www.machinedesign.com)
- - date published: 2024-01-21T04:37:35.051015+00:00
- - user: None
- - tags: []
-
-## Machine Learning Mastery
- - [https://machinelearningmastery.com](https://machinelearningmastery.com)
- - date published: 2023-10-25T15:53:15.792931+00:00
- - user: None
- - tags: []
-
-## Store
- - [https://edu.machinelearningplus.com](https://edu.machinelearningplus.com)
- - date published: 2023-10-25T15:53:20.695196+00:00
- - user: None
- - tags: []
-
-## MacInTouch – timely, accurate info since 1985
- - [https://www.macintouch.com](https://www.macintouch.com)
- - date published: 2024-01-23T16:31:45.602470+00:00
- - user: None
- - tags: []
-
-## https://read.macmillan.com
- - [https://read.macmillan.com](https://read.macmillan.com)
- - date published: 2023-12-19T05:35:05.029547+00:00
- - user: None
- - tags: []
-
-## https://us.macmillan.com
- - [https://us.macmillan.com](https://us.macmillan.com)
- - date published: 2024-01-22T08:33:27.805103+00:00
  - user: None
  - tags: []
 

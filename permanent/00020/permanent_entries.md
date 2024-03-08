@@ -1,3 +1,351 @@
+## Tim Zöller
+ - [https://javahippie.net](https://javahippie.net)
+ - date published: 2023-10-25T08:52:46.073444+00:00
+ - user: None
+ - tags: ['personal']
+
+## Bernard Vander Beken
+ - [https://jawn.net](https://jawn.net)
+ - date published: 2024-01-18T16:43:46.246446+00:00
+ - user: None
+ - tags: []
+
+## Blog - Jay Carlson
+ - [https://jaycarlson.net](https://jaycarlson.net)
+ - date published: 2023-10-25T08:52:49.258835+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jayeless.net
+ - [https://www.jayeless.net](https://www.jayeless.net)
+ - date published: 2024-02-02T18:14:39.989294+00:00
+ - user: None
+ - tags: []
+
+## Jean Snow [.net] – Blogging since 1998
+ - [https://www.jeansnow.net](https://www.jeansnow.net)
+ - date published: 1998-02-02T18:14:36+00:00
+ - user: rumpel
+ - tags: ['blog', 'personal']
+
+## JTube
+ - [https://tube.jeena.net](https://tube.jeena.net)
+ - date published: 2023-12-05T14:09:28.323742+00:00
+ - user: None
+ - tags: []
+
+## 网络加速—雷神加速器
+ - [https://jeffalbritton.net](https://jeffalbritton.net)
+ - date published: 2023-11-29T17:06:43.572558+00:00
+ - user: None
+ - tags: []
+
+## Jeff Wise – science journalism
+ - [http://www.jeffwise.net](http://www.jeffwise.net)
+ - date published: 2024-02-25T18:50:47.946888+00:00
+ - user: None
+ - tags: []
+
+## Jeff Wise – science journalism
+ - [https://www.jeffwise.net](https://www.jeffwise.net)
+ - date published: 2024-01-11T04:04:31.223583+00:00
+ - user: None
+ - tags: []
+
+## Homepage of Jose E. Marchesi
+ - [https://jemarch.net](https://jemarch.net)
+ - date published: 2023-10-25T09:00:36.096519+00:00
+ - user: None
+ - tags: ['personal']
+
+## John Floren
+ - [https://jfloren.net](https://jfloren.net)
+ - date published: 2023-10-25T08:52:50.325125+00:00
+ - user: None
+ - tags: ['personal']
+
+## jgoin
+ - [https://jgoin.net](https://jgoin.net)
+ - date published: 2024-01-14T17:11:21.730907+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.jimpryor.net](https://www.jimpryor.net)
+ - date published: 2024-02-08T16:47:18.689148+00:00
+ - user: None
+ - tags: []
+
+## Jonathan Dowland
+ - [https://jmtd.net](https://jmtd.net)
+ - date published: 2023-10-25T08:52:51.054917+00:00
+ - user: None
+ - tags: ['personal']
+
+## JOFLA.NET
+ - [http://www.jofla.net](http://www.jofla.net)
+ - date published: 2023-10-25T09:00:42.556174+00:00
+ - user: None
+ - tags: ['personal']
+
+## John Hawks
+ - [https://johnhawks.net](https://johnhawks.net)
+ - date published: 2023-12-03T17:38:34.785581+00:00
+ - user: None
+ - tags: []
+
+## John MacFarlane - Home
+ - [https://johnmacfarlane.net](https://johnmacfarlane.net)
+ - date published: 2023-10-25T20:32:14.592861+00:00
+ - user: None
+ - tags: []
+
+## John Papa
+ - [https://johnpapa.net](https://johnpapa.net)
+ - date published: 2023-10-25T09:26:32.853254+00:00
+ - user: None
+ - tags: ['personal']
+
+## John Papa
+ - [https://www.johnpapa.net](https://www.johnpapa.net)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Join the fediverse!
+ - [https://jointhefediverse.net](https://jointhefediverse.net)
+ - date published: 2023-10-25T20:32:15.618583+00:00
+ - user: None
+ - tags: []
+
+## Jonas Lindgren – Online Marketing Simplified – Honest reviews of the latest internet marketing products
+ - [https://www.jonaslindgren.net](https://www.jonaslindgren.net)
+ - date published: 2023-12-23T03:00:24.862474+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jonathan Crowe – Map blogger. Piano maniac. Science fiction and fantasy critic and writer. Snake whisperer. Typewriter fiend.
+ - [https://www.jonathancrowe.net](https://www.jonathancrowe.net)
+ - date published: 2024-02-06T10:21:49.063642+00:00
+ - user: None
+ - tags: []
+
+## The Ravenna Ultra-Low-Altitude Vehicle: A Rocketship Treehouse
+ - [https://rocket.jonh.net](https://rocket.jonh.net)
+ - date published: 2024-01-09T03:35:45.290152+00:00
+ - user: None
+ - tags: []
+
+## jonhilton.net - Making sense of .NET
+ - [https://jonhilton.net](https://jonhilton.net)
+ - date published: 2023-10-25T09:00:43.605815+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jonhnny Weslley
+ - [https://jonhnnyweslley.net](https://jonhnnyweslley.net)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jon Udell – Strategies for Internet citizens
+ - [https://blog.jonudell.net](https://blog.jonudell.net)
+ - date published: 2023-10-25T20:32:25.142965+00:00
+ - user: None
+ - tags: []
+
+## Dolly Jørgensen – I study history to both understand how people were in the past and why we are the way we are now. This is the value of history.
+ - [https://dolly.jorgensenweb.net](https://dolly.jorgensenweb.net)
+ - date published: 2024-02-24T18:07:37.600108+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jorge Sanz
+ - [https://jorgesanz.net](https://jorgesanz.net)
+ - date published: 2024-01-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Joshua Wood
+ - [https://www.joshuawood.net](https://www.joshuawood.net)
+ - date published: 2024-01-07T17:49:09.381170+00:00
+ - user: None
+ - tags: []
+
+## Journal of Illusion
+ - [https://journalofillusion.net](https://journalofillusion.net)
+ - date published: 2023-12-15T21:46:51.165063+00:00
+ - user: None
+ - tags: []
+
+## Jan-Piet Mens
+ - [https://jpmens.net](https://jpmens.net)
+ - date published: 2023-10-25T09:00:45.582283+00:00
+ - user: None
+ - tags: ['personal']
+
+## jsDelivr - A free, fast, and reliable CDN for JS and Open Source
+ - [https://cdn.jsdelivr.net](https://cdn.jsdelivr.net)
+ - date published: 2023-12-11T18:34:08.254078+00:00
+ - user: None
+ - tags: []
+
+## JSFiddle - Code Playground
+ - [https://jsfiddle.net](https://jsfiddle.net)
+ - date published: 2023-12-11T12:23:12+00:00
+ - user: rumpel
+ - tags: ['online tool', 'code sandbox']
+
+## James Somers
+ - [https://jsomers.net](https://jsomers.net)
+ - date published: 2023-10-25T08:52:53.562320+00:00
+ - user: None
+ - tags: ['personal']
+
+## Otherwise
+ - [https://juliawise.net](https://juliawise.net)
+ - date published: 2024-02-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## • •
+ - [https://www.juligudehus.net](https://www.juligudehus.net)
+ - date published: 2023-11-29T14:53:46.231843+00:00
+ - user: None
+ - tags: ['personal']
+
+## Official Juniper Networks Blogs | Insights and expertise
+ - [https://blogs.juniper.net](https://blogs.juniper.net)
+ - date published: 2024-01-10T02:28:13.013599+00:00
+ - user: None
+ - tags: []
+
+## Junker HQ: Projects
+ - [https://junkerhq.net](https://junkerhq.net)
+ - date published: 2023-10-25T20:32:26.799389+00:00
+ - user: None
+ - tags: []
+
+## Justin Pombrio
+ - [https://justinpombrio.net](https://justinpombrio.net)
+ - date published: 2024-02-26T15:43:07.104229+00:00
+ - user: None
+ - tags: []
+
+## Justin Wheeler - An Englishman Abroad
+ - [https://www.justinwheeler.net](https://www.justinwheeler.net)
+ - date published: 2023-12-18T22:38:52.075044+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kalman Filter Tutorial
+ - [https://www.kalmanfilter.net](https://www.kalmanfilter.net)
+ - date published: 2023-10-25T20:32:28.311113+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Kanaries Docs – Kanaries
+ - [https://docs.kanaries.net](https://docs.kanaries.net)
+ - date published: 2023-10-25T20:32:35.579830+00:00
+ - user: None
+ - tags: []
+
+## Mike's Blog — Technologist at Large
+ - [https://blog.karliner.net](https://blog.karliner.net)
+ - date published: 2023-10-25T09:23:11.406124+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mike's Blog
+ - [http://blog.karliner.net](http://blog.karliner.net)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## I build websites, software products and electronic devices.
+ - [https://kaspars.net](https://kaspars.net)
+ - date published: 2023-12-27T01:09:43.442469+00:00
+ - user: None
+ - tags: ['personal']
+
+## kc8apf.net - Embedded Systems, Audio, Cars, Hacks
+ - [https://www.kc8apf.net](https://www.kc8apf.net)
+ - date published: 2023-10-25T20:32:36.639375+00:00
+ - user: None
+ - tags: []
+
+## KeeperFX - Dungeon Keeper Opensource Remake and Fan Expansion
+ - [https://keeperfx.net](https://keeperfx.net)
+ - date published: 2023-11-10T17:18:06.045909+00:00
+ - user: None
+ - tags: []
+
+## Kent Sanders
+ - [https://www.kentsanders.net](https://www.kentsanders.net)
+ - date published: 2024-01-04T19:56:42.335877+00:00
+ - user: None
+ - tags: []
+
+## This Is Just To Say
+ - [https://www.kevinlaurence.net](https://www.kevinlaurence.net)
+ - date published: 2024-01-13T21:35:41.925180+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://keygenmusic.net](http://keygenmusic.net)
+ - date published: 2024-02-05T09:58:39.648765+00:00
+ - user: None
+ - tags: []
+
+## https://www.kinguin.net
+ - [https://www.kinguin.net](https://www.kinguin.net)
+ - date published: 2023-10-29T11:07:49.299424+00:00
+ - user: None
+ - tags: ['piracy', 'keys']
+
+## Kitguru.net - Tech News | Hardware News | Hardware Reviews | IOS | Mobile | Gaming | Graphics Cards
+ - [https://www.kitguru.net](https://www.kitguru.net)
+ - date published: 2023-10-25T20:32:42.943722+00:00
+ - user: None
+ - tags: []
+
+## That blog I keep intending to update | Knowing.NET
+ - [https://knowing.net](https://knowing.net)
+ - date published: 2023-10-25T09:26:37.474273+00:00
+ - user: None
+ - tags: ['personal']
+
+## http://knowledgebottle.net
+ - [https://knowledgebottle.net](https://knowledgebottle.net)
+ - date published: 2024-01-27T06:34:46.775964+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://knowledgebottle.net](http://knowledgebottle.net)
+ - date published: 2024-02-29T12:14:03.250410+00:00
+ - user: None
+ - tags: []
+
+## Blog
+ - [https://www.kooslooijesteijn.net](https://www.kooslooijesteijn.net)
+ - date published: 2023-10-25T08:52:55.119175+00:00
+ - user: None
+ - tags: ['personal']
+
+## Current projects | Korban.net
+ - [https://korban.net](https://korban.net)
+ - date published: 2023-10-25T20:32:44.199557+00:00
+ - user: None
+ - tags: []
+
+## kovidgoyal.net
+ - [https://kovidgoyal.net](https://kovidgoyal.net)
+ - date published: 2023-12-07T17:43:01.210553+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Kovid's software projects
  - [https://sw.kovidgoyal.net](https://sw.kovidgoyal.net)
  - date published: 2023-12-07T17:36:06.903620+00:00
@@ -168,14 +516,14 @@
  - tags: []
 
 ## linusakesson.net
- - [https://www.linusakesson.net](https://www.linusakesson.net)
- - date published: 2023-10-25T20:33:01.198358+00:00
+ - [http://www.linusakesson.net](http://www.linusakesson.net)
+ - date published: 2024-02-26T15:13:06.998772+00:00
  - user: None
  - tags: []
 
 ## linusakesson.net
- - [http://www.linusakesson.net](http://www.linusakesson.net)
- - date published: 2024-02-26T15:13:06.998772+00:00
+ - [https://www.linusakesson.net](https://www.linusakesson.net)
+ - date published: 2023-10-25T20:33:01.198358+00:00
  - user: None
  - tags: []
 
@@ -192,16 +540,16 @@
  - tags: ['demoscene']
 
 ## [Liquid DooM]
- - [http://liquiddoom.net](http://liquiddoom.net)
- - date published: 2024-02-11T14:38:30.795082+00:00
- - user: None
- - tags: ['doom', 'video game music']
-
-## [Liquid DooM]
  - [https://liquiddoom.net](https://liquiddoom.net)
  - date published: 2024-02-15T22:13:28.553273+00:00
  - user: None
  - tags: ['demoscene']
+
+## [Liquid DooM]
+ - [http://liquiddoom.net](http://liquiddoom.net)
+ - date published: 2024-02-11T14:38:30.795082+00:00
+ - user: None
+ - tags: ['doom', 'video game music']
 
 ## Liquipedia
  - [https://liquipedia.net](https://liquipedia.net)
@@ -1909,14 +2257,14 @@
  - tags: []
 
 ## Russ Bishop
- - [https://russbishop.net](https://russbishop.net)
- - date published: 2024-01-09T03:36:09.716665+00:00
+ - [http://russbishop.net](http://russbishop.net)
+ - date published: 2024-02-26T12:47:27.767429+00:00
  - user: None
  - tags: []
 
 ## Russ Bishop
- - [http://russbishop.net](http://russbishop.net)
- - date published: 2024-02-26T12:47:27.767429+00:00
+ - [https://russbishop.net](https://russbishop.net)
+ - date published: 2024-01-09T03:36:09.716665+00:00
  - user: None
  - tags: []
 
@@ -2251,16 +2599,16 @@
  - tags: []
 
 ## Matthias Monroy
- - [https://digit.so36.net](https://digit.so36.net)
- - date published: 2023-10-25T08:54:06.996729+00:00
- - user: None
- - tags: ['personal']
-
-## Matthias Monroy
  - [http://digit.so36.net](http://digit.so36.net)
  - date published: 2024-02-25T19:37:06.416405+00:00
  - user: None
  - tags: []
+
+## Matthias Monroy
+ - [https://digit.so36.net](https://digit.so36.net)
+ - date published: 2023-10-25T08:54:06.996729+00:00
+ - user: None
+ - tags: ['personal']
 
 ## SoByte
  - [https://www.sobyte.net](https://www.sobyte.net)
@@ -2377,16 +2725,16 @@
  - tags: []
 
 ## Compare, Download & Develop Open Source & Business Software - SourceForge
- - [http://sourceforge.net](http://sourceforge.net)
- - date published: 2024-02-26T13:07:23.973035+00:00
- - user: None
- - tags: []
-
-## Compare, Download & Develop Open Source & Business Software - SourceForge
  - [https://sourceforge.net](https://sourceforge.net)
  - date published: 2023-10-25T08:41:02.286459+00:00
  - user: None
  - tags: ['app platform']
+
+## Compare, Download & Develop Open Source & Business Software - SourceForge
+ - [http://sourceforge.net](http://sourceforge.net)
+ - date published: 2024-02-26T13:07:23.973035+00:00
+ - user: None
+ - tags: []
 
 ## Thinking Forth
  - [https://thinking-forth.sourceforge.net](https://thinking-forth.sourceforge.net)
@@ -4123,16 +4471,16 @@
  - tags: []
 
 ## Chris Eidhof
- - [https://chris.eidhof.nl](https://chris.eidhof.nl)
- - date published: 2023-10-25T08:54:21.499298+00:00
- - user: None
- - tags: ['personal']
-
-## Chris Eidhof
  - [http://chris.eidhof.nl](http://chris.eidhof.nl)
  - date published: 2024-02-25T15:44:49.625453+00:00
  - user: None
  - tags: []
+
+## Chris Eidhof
+ - [https://chris.eidhof.nl](https://chris.eidhof.nl)
+ - date published: 2023-10-25T08:54:21.499298+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Besluiten waarmee je groeit in impact op mens en omgeving
  - [https://ernohannink.nl](https://ernohannink.nl)
@@ -5639,7 +5987,7 @@ marginalia.nu
  - [https://accu.org](https://accu.org)
  - date published: 2023-10-25T20:53:34.238905+00:00
  - user: None
- - tags: []
+ - tags: ['programming organisation', 'c++', 'python', 'java']
 
 ## Ackerman Institute for the Family
  - [https://www.ackerman.org](https://www.ackerman.org)
@@ -5650,354 +5998,6 @@ marginalia.nu
 ## ACL Anthology - ACL Anthology
  - [https://aclanthology.org](https://aclanthology.org)
  - date published: 2023-10-25T20:53:36.329517+00:00
- - user: None
- - tags: []
-
-## Home | American Civil Liberties Union
- - [https://www.aclu.org](https://www.aclu.org)
- - date published: 2023-10-25T20:53:44.491527+00:00
- - user: None
- - tags: []
-
-## ACLU of Indiana
- - [https://www.aclu-in.org](https://www.aclu-in.org)
- - date published: 2024-02-28T08:53:45.127075+00:00
- - user: None
- - tags: []
-
-## A.M. Turing Award
- - [https://amturing.acm.org](https://amturing.acm.org)
- - date published: 2023-10-25T20:53:46.979207+00:00
- - user: None
- - tags: []
-
-## Awards Home
- - [https://awards.acm.org](https://awards.acm.org)
- - date published: 2023-10-25T20:53:56.997751+00:00
- - user: None
- - tags: []
-
-## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
- - user: None
- - tags: []
-
-## ACM Digital Library
- - [https://dl.acm.org](https://dl.acm.org)
- - date published: 2023-10-25T20:54:07.913205+00:00
- - user: None
- - tags: []
-
-## ACM Code of Ethics and Professional Conduct
- - [https://ethics.acm.org](https://ethics.acm.org)
- - date published: 2023-10-25T20:54:10.467772+00:00
- - user: None
- - tags: []
-
-## ACM Learning Center
- - [https://learning.acm.org](https://learning.acm.org)
- - date published: 2023-10-25T20:54:19.348249+00:00
- - user: None
- - tags: []
-
-## ACMQ Site - ACM Queue
- - [https://queue.acm.org](https://queue.acm.org)
- - date published: 2023-10-25T20:54:22.401799+00:00
- - user: None
- - tags: []
-
-## Association for Computing Machinery
- - [https://www.acm.org](https://www.acm.org)
- - date published: 2023-10-25T20:54:27.074550+00:00
- - user: None
- - tags: []
-
-## the morning paper | a random walk through Computer Science research, by Adrian Colyer
- - [https://blog.acolyer.org](https://blog.acolyer.org)
- - date published: 2023-10-25T20:54:28.113947+00:00
- - user: None
- - tags: []
-
-## The Acorn Theatre
- - [https://acorntheatre.org](https://acorntheatre.org)
- - date published: 2024-02-08T21:50:17.846763+00:00
- - user: None
- - tags: []
-
-## Australian Acoustic Observatory | A20
- - [https://acousticobservatory.org](https://acousticobservatory.org)
- - date published: 2023-12-01T10:46:03.517245+00:00
- - user: None
- - tags: []
-
-## Show HN: Australian Acoustic Observatory Search
- - [https://search.acousticobservatory.org](https://search.acousticobservatory.org)
- - date published: 2023-12-01T05:57:47+00:00
- - user: None
- - tags: []
-
-## https://www.acpjournals.org
- - [https://www.acpjournals.org](https://www.acpjournals.org)
- - date published: 2023-10-25T20:54:28.582674+00:00
- - user: None
- - tags: []
-
-## Chemical & Engineering News
- - [https://cen.acs.org](https://cen.acs.org)
- - date published: 2023-12-09T04:59:11.663465+00:00
- - user: None
- - tags: ['chemical news', 'engineering news']
-
-## https://pubs.acs.org
- - [https://pubs.acs.org](https://pubs.acs.org)
- - date published: 2023-10-25T20:54:31.739169+00:00
- - user: None
- - tags: []
-
-## American Chemical Society
- - [https://www.acs.org](https://www.acs.org)
- - date published: 2023-10-25T20:54:33.698417+00:00
- - user: None
- - tags: []
-
-## American Council on Science and Health |
- - [https://www.acsh.org](https://www.acsh.org)
- - date published: 2023-10-25T20:54:38.389591+00:00
- - user: None
- - tags: []
-
-## Google
- - [https://www.actkm.org](https://www.actkm.org)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Actors' Equity Association
- - [https://www.actorsequity.org](https://www.actorsequity.org)
- - date published: 2024-02-24T18:23:35.424750+00:00
- - user: None
- - tags: []
-
-## Put Faculty Development at the Center of Student Success
- - [https://acue.org](https://acue.org)
- - date published: 2024-01-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## American Dermatological Association – Founded in 1876
- - [https://ada1.org](https://ada1.org)
- - date published: 2024-02-08T17:45:57.107537+00:00
- - user: None
- - tags: []
-
-## Adblock Plus | The world's #1 free ad blocker
- - [https://adblockplus.org](https://adblockplus.org)
- - date published: 2023-11-01T08:44:08.907697+00:00
- - user: None
- - tags: ['ad block']
-
-## Adblock Plus and (a little) more
- - [https://blog.adblockplus.org](https://blog.adblockplus.org)
- - date published: 2023-11-01T08:44:10.579602+00:00
- - user: None
- - tags: []
-
-## Adélie Linux | Welcome
- - [https://www.adelielinux.org](https://www.adelielinux.org)
- - date published: 2024-01-06T17:39:36.159238+00:00
- - user: None
- - tags: []
-
-## ADHD Evidence Project
- - [https://www.adhdevidence.org](https://www.adhdevidence.org)
- - date published: 2023-10-25T20:54:40.433717+00:00
- - user: None
- - tags: []
-
-## Homepage ORG | ADL
- - [https://www.adl.org](https://www.adl.org)
- - date published: 2023-10-25T11:25:00.786315+00:00
- - user: None
- - tags: []
-
-## Introduction
- - [https://adoptingerlang.org](https://adoptingerlang.org)
- - date published: 2024-02-19T17:36:28.445535+00:00
- - user: None
- - tags: []
-
-## American Economic Association
- - [https://www.aeaweb.org](https://www.aeaweb.org)
- - date published: 2023-10-25T20:54:42.266806+00:00
- - user: None
- - tags: []
-
-## American Enterprise Institute - AEI | The American Enterprise Institute, AEI, is a nonpartisan public policy research institute with a community of scholars and supporters committed to expanding liberty, increasing individual opportunity and strengthening free enterprise.
- - [https://www.aei.org](https://www.aei.org)
- - date published: 2023-10-25T20:54:50.144785+00:00
- - user: None
- - tags: []
-
-## aerc - a pretty good email client
- - [https://aerc-mail.org](https://aerc-mail.org)
- - date published: 2023-10-25T20:54:51.165477+00:00
- - user: None
- - tags: []
-
-## Home | The Aerospace Corporation
- - [https://aerospace.org](https://aerospace.org)
- - date published: 2023-10-25T20:54:52.323717+00:00
- - user: None
- - tags: []
-
-## Home | American Foundation for the Blind
- - [https://www.afb.org](https://www.afb.org)
- - date published: 2023-10-25T20:54:54.541993+00:00
- - user: None
- - tags: []
-
-## AFCEA International | AFCEA International
- - [https://www.afcea.org](https://www.afcea.org)
- - date published: 2023-10-25T20:54:58.723737+00:00
- - user: None
- - tags: []
-
-## American Friends Musées d'Orsay et de l'Orangerie
- - [https://aforsay.org](https://aforsay.org)
- - date published: 2023-11-13T13:48:20.528443+00:00
- - user: None
- - tags: ['museum']
-
-## Alliance Francaise of Greater Phoenix
- - [https://afphx.org](https://afphx.org)
- - date published: 2024-02-08T16:36:05.678130+00:00
- - user: None
- - tags: []
-
-## A Social Front Organization
- - [https://social.afront.org](https://social.afront.org)
- - date published: 2023-10-25T20:55:00.121595+00:00
- - user: None
- - tags: []
-
-## After the Plague: Health and History in Medieval England
- - [https://www.aftertheplague.org](https://www.aftertheplague.org)
- - date published: 2023-12-06T05:26:05+00:00
- - user: None
- - tags: []
-
-## Agentscript: agent based modeling in the browser
- - [https://agentscript.org](https://agentscript.org)
- - date published: 2023-10-25T20:55:01.985709+00:00
- - user: None
- - tags: []
-
-## Manifesto for Agile Software Development
- - [https://agilemanifesto.org](https://agilemanifesto.org)
- - date published: 2001-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://www.aginganddisease.org
- - [https://www.aginganddisease.org](https://www.aginganddisease.org)
- - date published: 2023-12-09T18:18:43.004630+00:00
- - user: None
- - tags: []
-
-## AGU Newsroom - AGU Newsroom
- - [https://news.agu.org](https://news.agu.org)
- - date published: 2023-10-25T20:55:04.762063+00:00
- - user: None
- - tags: []
-
-## https://www.ahajournals.org
- - [https://www.ahajournals.org](https://www.ahajournals.org)
- - date published: 2023-11-23T17:36:30.008809+00:00
- - user: None
- - tags: []
-
-## AIER | American Institute for Economic Research
- - [https://www.aier.org](https://www.aier.org)
- - date published: 2023-10-25T20:55:07.515677+00:00
- - user: None
- - tags: []
-
-## Eye on Design – AIGA Eye on Design
- - [https://eyeondesign.aiga.org](https://eyeondesign.aiga.org)
- - date published: 2023-10-25T20:55:10.704075+00:00
- - user: None
- - tags: []
-
-## Physical Science Publishing - AIP Publishing LLC
- - [https://publishing.aip.org](https://publishing.aip.org)
- - date published: 2023-10-25T20:55:13.345986+00:00
- - user: None
- - tags: []
-
-## AIP Publishing
- - [https://pubs.aip.org](https://pubs.aip.org)
- - date published: 2023-10-25T20:55:20.450014+00:00
- - user: None
- - tags: []
-
-## Airminded
- - [https://airminded.org](https://airminded.org)
- - date published: 2024-02-26T16:51:58.170183+00:00
- - user: None
- - tags: []
-
-## thinking out loud – works in progress and scattered thoughts, often about computers
- - [https://thinking.ajdecon.org](https://thinking.ajdecon.org)
- - date published: 2024-02-26T15:10:56.934550+00:00
- - user: None
- - tags: []
-
-## https://www.ajicjournal.org
- - [https://www.ajicjournal.org](https://www.ajicjournal.org)
- - date published: 2024-01-25T18:17:06.459124+00:00
- - user: None
- - tags: []
-
-## None
- - [https://akatz.org](https://akatz.org)
- - date published: 2024-02-25T14:47:45.205931+00:00
- - user: None
- - tags: []
-
-## https://blog.akatz.org
- - [https://blog.akatz.org](https://blog.akatz.org)
- - date published: 2023-10-25T20:55:21.266459+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://alaskapublic.org](https://alaskapublic.org)
- - date published: 2023-11-21T19:53:53.641325+00:00
- - user: None
- - tags: []
-
-## Aleteia Polska
- - [https://pl.aleteia.org](https://pl.aleteia.org)
- - date published: 2023-10-25T20:55:31.908312+00:00
- - user: None
- - tags: []
-
-## Alexandru Nedelcu - On programming and personal projects
- - [https://alexn.org](https://alexn.org)
- - date published: 2023-10-25T20:55:32.922079+00:00
- - user: None
- - tags: []
-
-## Algorithmica
- - [https://algorithmica.org](https://algorithmica.org)
- - date published: 2023-10-25T20:55:33.448638+00:00
  - user: None
  - tags: []
 

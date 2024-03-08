@@ -1,11 +1,29 @@
-## iter.ca
- - [http://iter.ca](http://iter.ca)
- - date published: 2024-01-21T00:00:00+00:00
+## Ibraheem Ahmed
+ - [https://ibraheem.ca](https://ibraheem.ca)
+ - date published: 2023-10-25T08:42:56.661128+00:00
+ - user: None
+ - tags: ['personal']
+
+## Interrupt Labs
+ - [https://interruptlabs.ca](https://interruptlabs.ca)
+ - date published: 2023-10-25T12:05:15.572215+00:00
+ - user: None
+ - tags: []
+
+## Italian Recipes, Pasta, Pizza, Lasagna, Food, Cooking!
+ - [https://www.italiancook.ca](https://www.italiancook.ca)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## iter.ca
  - [https://iter.ca](https://iter.ca)
+ - date published: 2024-01-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## iter.ca
+ - [http://iter.ca](http://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -23,14 +41,14 @@
  - tags: ['personal']
 
 ## Author Jenn Ashton
- - [https://jenniferashton.ca](https://jenniferashton.ca)
- - date published: 2023-12-20T19:14:23.669927+00:00
+ - [http://jenniferashton.ca](http://jenniferashton.ca)
+ - date published: 2023-12-25T04:56:31.047100+00:00
  - user: None
  - tags: ['personal']
 
 ## Author Jenn Ashton
- - [http://jenniferashton.ca](http://jenniferashton.ca)
- - date published: 2023-12-25T04:56:31.047100+00:00
+ - [https://jenniferashton.ca](https://jenniferashton.ca)
+ - date published: 2023-12-20T19:14:23.669927+00:00
  - user: None
  - tags: ['personal']
 
@@ -604,6 +622,12 @@
  - date published: 2023-10-25T11:21:50.526226+00:00
  - user: None
  - tags: ['university']
+
+## Home - University of Victoria - University of Victoria
+ - [https://www.uvic.ca](https://www.uvic.ca)
+ - date published: 2024-03-06T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## CSC - University of Waterloo
  - [https://csclub.uwaterloo.ca](https://csclub.uwaterloo.ca)
@@ -2743,14 +2767,14 @@
  - tags: []
 
 ## Nabeel S. Qureshi
- - [http://nabeelqu.co](http://nabeelqu.co)
- - date published: 2024-02-26T09:20:32.283903+00:00
+ - [https://nabeelqu.co](https://nabeelqu.co)
+ - date published: 2024-01-20T19:20:52.169397+00:00
  - user: None
  - tags: []
 
 ## Nabeel S. Qureshi
- - [https://nabeelqu.co](https://nabeelqu.co)
- - date published: 2024-01-20T19:20:52.169397+00:00
+ - [http://nabeelqu.co](http://nabeelqu.co)
+ - date published: 2024-02-26T09:20:32.283903+00:00
  - user: None
  - tags: []
 
@@ -3091,14 +3115,14 @@
  - tags: []
 
 ## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
- - [https://stateofthenation.co](https://stateofthenation.co)
- - date published: 2023-10-25T12:23:13.580451+00:00
+ - [http://stateofthenation.co](http://stateofthenation.co)
+ - date published: 2024-02-26T12:49:19.790593+00:00
  - user: None
  - tags: []
 
 ## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
- - [http://stateofthenation.co](http://stateofthenation.co)
- - date published: 2024-02-26T12:49:19.790593+00:00
+ - [https://stateofthenation.co](https://stateofthenation.co)
+ - date published: 2023-10-25T12:23:13.580451+00:00
  - user: None
  - tags: []
 
@@ -5975,30 +5999,6 @@
 ## All3DP.com
  - [https://all3dp.com](https://all3dp.com)
  - date published: 2024-03-01T18:22:43.255445+00:00
- - user: None
- - tags: []
-
-## All About Circuits - Electrical Engineering & Electronics Community
- - [https://www.allaboutcircuits.com](https://www.allaboutcircuits.com)
- - date published: 2023-10-25T12:38:51.091121+00:00
- - user: None
- - tags: []
-
-## All About Slots - Online Slot Machines Guide
- - [https://www.allaboutslots.com](https://www.allaboutslots.com)
- - date published: 2024-02-08T18:06:26.019345+00:00
- - user: None
- - tags: []
-
-## Home - allAfrica.com
- - [https://allafrica.com](https://allafrica.com)
- - date published: 2023-10-25T11:07:52.016297+00:00
- - user: None
- - tags: []
-
-## Allconnect.com: Find Internet Providers Near You | 844-845-3968
- - [https://www.allconnect.com](https://www.allconnect.com)
- - date published: 2024-02-23T00:00:00+00:00
  - user: None
  - tags: []
 
