@@ -1,3 +1,51 @@
+## Information Processing
+ - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
+ - date published: 2023-10-25T09:09:06.318517+00:00
+ - user: None
+ - tags: ['personal']
+
+## Development of the trilogy & IV
+ - [https://insiderockstarnorth.blogspot.com](https://insiderockstarnorth.blogspot.com)
+ - date published: 2023-11-21T23:34:01.400243+00:00
+ - user: None
+ - tags: []
+
+## Jan's Tech Talk
+ - [https://janstechtalk.blogspot.com](https://janstechtalk.blogspot.com)
+ - date published: 2023-10-25T08:45:14.097788+00:00
+ - user: None
+ - tags: ['personal']
+
+## JazzProfiles
+ - [https://jazzprofiles.blogspot.com](https://jazzprofiles.blogspot.com)
+ - date published: 2023-10-25T09:09:09.036174+00:00
+ - user: None
+ - tags: ['personal']
+
+## Digital Dao
+ - [https://jeffreycarr.blogspot.com](https://jeffreycarr.blogspot.com)
+ - date published: 2018-10-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Bottom Feeder
+ - [https://jeff-vogel.blogspot.com](https://jeff-vogel.blogspot.com)
+ - date published: 2024-01-27T14:14:51.745453+00:00
+ - user: None
+ - tags: []
+
+## JLOUIS Ramblings
+ - [http://jlouisramblings.blogspot.com](http://jlouisramblings.blogspot.com)
+ - date published: 2024-02-20T19:40:51.773282+00:00
+ - user: None
+ - tags: []
+
+## The Grumpy Economist
+ - [https://johnhcochrane.blogspot.com](https://johnhcochrane.blogspot.com)
+ - date published: 2023-10-25T09:09:15.482686+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Moneyness
  - [https://jpkoning.blogspot.com](https://jpkoning.blogspot.com)
  - date published: 2023-10-25T09:09:24.984611+00:00
@@ -1335,6 +1383,12 @@
 ## Love Your Attention, Build Better Habits - Break the Twitch
  - [https://www.breakthetwitch.com](https://www.breakthetwitch.com)
  - date published: 2024-01-12T08:14:46.270217+00:00
+ - user: None
+ - tags: []
+
+## CT – Breast Cancer – Virtual App Study
+ - [https://breastcancerappstudy.com](https://breastcancerappstudy.com)
+ - date published: 2024-03-04T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3318,6 +3372,12 @@
  - user: None
  - tags: []
 
+## ChaiScript - Easy to use scripting for C++.
+ - [https://chaiscript.com](https://chaiscript.com)
+ - date published: 2024-03-08T08:55:52+00:00
+ - user: rumpel
+ - tags: []
+
 ## Challonge
  - [https://challonge.com](https://challonge.com)
  - date published: 2023-11-12T22:06:34.634033+00:00
@@ -3798,17 +3858,17 @@
  - user: None
  - tags: []
 
-## None
- - [http://chrisjstott.com](http://chrisjstott.com)
- - date published: 2024-02-29T14:58:49.595292+00:00
- - user: None
- - tags: []
-
 ## http://chrisjstott.com
  - [https://chrisjstott.com](https://chrisjstott.com)
  - date published: 2024-01-24T08:01:05.864817+00:00
  - user: None
  - tags: ['personal']
+
+## None
+ - [http://chrisjstott.com](http://chrisjstott.com)
+ - date published: 2024-02-29T14:58:49.595292+00:00
+ - user: None
+ - tags: []
 
 ## Home - Blogomatano
  - [https://chriskiehl.com](https://chriskiehl.com)
@@ -5597,15 +5657,15 @@
  - user: None
  - tags: []
 
-## IT news, careers, business technology, reviews
- - [http://www.computerworld.com](http://www.computerworld.com)
- - date published: 2024-02-25T19:22:09.150165+00:00
- - user: None
- - tags: []
-
 ## IT news, careers, business technology, reviews | Computerworld
  - [https://www.computerworld.com](https://www.computerworld.com)
  - date published: 2023-10-25T09:32:24.152677+00:00
+ - user: None
+ - tags: []
+
+## IT news, careers, business technology, reviews
+ - [http://www.computerworld.com](http://www.computerworld.com)
+ - date published: 2024-02-25T19:22:09.150165+00:00
  - user: None
  - tags: []
 
@@ -5948,66 +6008,6 @@
 ## CorkJockey
  - [https://corkjockey.com](https://corkjockey.com)
  - date published: 2024-01-26T22:23:18.041119+00:00
- - user: None
- - tags: []
-
-## The Cornell Daily Sun - Independent Since 1880
- - [https://cornellsun.com](https://cornellsun.com)
- - date published: 2024-02-28T15:29:41.625531+00:00
- - user: None
- - tags: []
-
-## Coroot
- - [https://coroot.com](https://coroot.com)
- - date published: 2023-10-25T13:34:05.658233+00:00
- - user: None
- - tags: []
-
-## Corporal Frisk – Finnish blogger in reserve, defence and national security.
- - [https://corporalfrisk.com](https://corporalfrisk.com)
- - date published: 2023-10-25T14:22:54.565436+00:00
- - user: None
- - tags: []
-
-## Cortical Labs - DishBrain Intelligence
- - [https://corticallabs.com](https://corticallabs.com)
- - date published: 2023-11-01T08:41:52.617438+00:00
- - user: None
- - tags: []
-
-## Corvus Games Terrain : 3D printed sci-fi tabletop wargaming terrain
- - [https://corvusgamesterrain.com](https://corvusgamesterrain.com)
- - date published: 2024-03-01T18:35:32.870743+00:00
- - user: None
- - tags: ['tabletop terrain']
-
-## Cory Ames
- - [https://coryames.com](https://coryames.com)
- - date published: 2024-01-09T00:12:16.658377+00:00
- - user: None
- - tags: []
-
-## Cory Shaw | Cory Shaw
- - [https://coryshaw.com](https://coryshaw.com)
- - date published: 2024-01-08T15:36:54.508225+00:00
- - user: None
- - tags: ['personal']
-
-## Cory Zue | Full-Stack Developer, Maker of Products, and Solopreneur
- - [https://www.coryzue.com](https://www.coryzue.com)
- - date published: 2023-10-25T13:34:24.334483+00:00
- - user: None
- - tags: []
-
-## COSFONE - Networking, Computer, PBX, IT, DIY Solution
- - [https://www.cosfone.com](https://www.cosfone.com)
- - date published: 2023-10-25T13:34:32.250773+00:00
- - user: None
- - tags: []
-
-## Cosmos – Science News, Features, Podcasts, Video and Print Magazine
- - [https://cosmosmagazine.com](https://cosmosmagazine.com)
- - date published: 2023-10-25T10:10:04.251424+00:00
  - user: None
  - tags: []
 

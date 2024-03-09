@@ -1,3 +1,39 @@
+## A Little Blog of Books
+ - [https://alittleblogofbooks.com](https://alittleblogofbooks.com)
+ - date published: 2024-01-13T00:00:00+00:00
+ - user: None
+ - tags: ['book reviews']
+
+## Alive in the Fire, a yoga and healthy living blog
+ - [https://www.aliveinthefire.com](https://www.aliveinthefire.com)
+ - date published: 2023-12-10T16:59:11.114465+00:00
+ - user: None
+ - tags: ['personal']
+
+## ספר היידע של התקנים מכניים מופלאים – האתר מחזיר לחיים את ספרו של אל-ג'זרי, מהנדס חצר בדיארבקיר במאה ה-12
+ - [https://aljazaribook.com](https://aljazaribook.com)
+ - date published: 2023-10-25T12:38:46.479158+00:00
+ - user: None
+ - tags: []
+
+## Al Jazeera Interactives
+ - [https://remix.aljazeera.com](https://remix.aljazeera.com)
+ - date published: 2023-10-25T10:18:21.192555+00:00
+ - user: None
+ - tags: []
+
+## Breaking News, World News and Video from Al Jazeera
+ - [https://www.aljazeera.com](https://www.aljazeera.com)
+ - date published: 2023-10-25T10:24:42.377214+00:00
+ - user: None
+ - tags: ['news', 'middle east']
+
+## All3DP.com
+ - [https://all3dp.com](https://all3dp.com)
+ - date published: 2024-03-01T18:22:43.255445+00:00
+ - user: None
+ - tags: []
+
 ## All About Circuits - Electrical Engineering & Electronics Community
  - [https://www.allaboutcircuits.com](https://www.allaboutcircuits.com)
  - date published: 2023-10-25T12:38:51.091121+00:00
@@ -551,14 +587,14 @@
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
- - date published: 2024-01-09T02:29:24.245847+00:00
+ - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
+ - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
- - date published: 2018-01-01T00:00:00+00:00
+ - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
+ - date published: 2024-01-09T02:29:24.245847+00:00
  - user: None
  - tags: []
 
@@ -1258,6 +1294,12 @@
  - user: None
  - tags: ['personal']
 
+## Ann Hermes Photo & Video
+ - [https://www.annhermesphoto.com](https://www.annhermesphoto.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Live | Annie Taylor
  - [https://www.annietaylorband.com](https://www.annietaylorband.com)
  - date published: 2024-02-22T16:55:28.672045+00:00
@@ -1307,16 +1349,16 @@
  - tags: []
 
 ## Home - That Joe Scott
- - [https://www.answerswithjoe.com](https://www.answerswithjoe.com)
- - date published: 2024-02-22T16:48:46+00:00
- - user: rumpel
- - tags: ['youtuber', 'merchendise']
-
-## Home - That Joe Scott
  - [http://www.answerswithjoe.com](http://www.answerswithjoe.com)
  - date published: 2024-02-23T01:16:31.865369+00:00
  - user: None
  - tags: []
+
+## Home - That Joe Scott
+ - [https://www.answerswithjoe.com](https://www.answerswithjoe.com)
+ - date published: 2024-02-22T16:48:46+00:00
+ - user: rumpel
+ - tags: ['youtuber', 'merchendise']
 
 ## https://www.antennalaunchers.com
  - [https://www.antennalaunchers.com](https://www.antennalaunchers.com)
@@ -4120,6 +4162,12 @@
  - user: None
  - tags: []
 
+## Ironic Sans
+ - [https://ironicsans.beehiiv.com](https://ironicsans.beehiiv.com)
+ - date published: 2024-03-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## One Thing Better
  - [https://jasonfeifer.beehiiv.com](https://jasonfeifer.beehiiv.com)
  - date published: 2023-10-25T12:55:54.736691+00:00
@@ -5949,52 +5997,4 @@
  - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
-
-## Information Processing
- - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
- - date published: 2023-10-25T09:09:06.318517+00:00
- - user: None
- - tags: ['personal']
-
-## Development of the trilogy & IV
- - [https://insiderockstarnorth.blogspot.com](https://insiderockstarnorth.blogspot.com)
- - date published: 2023-11-21T23:34:01.400243+00:00
- - user: None
- - tags: []
-
-## Jan's Tech Talk
- - [https://janstechtalk.blogspot.com](https://janstechtalk.blogspot.com)
- - date published: 2023-10-25T08:45:14.097788+00:00
- - user: None
- - tags: ['personal']
-
-## JazzProfiles
- - [https://jazzprofiles.blogspot.com](https://jazzprofiles.blogspot.com)
- - date published: 2023-10-25T09:09:09.036174+00:00
- - user: None
- - tags: ['personal']
-
-## Digital Dao
- - [https://jeffreycarr.blogspot.com](https://jeffreycarr.blogspot.com)
- - date published: 2018-10-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Bottom Feeder
- - [https://jeff-vogel.blogspot.com](https://jeff-vogel.blogspot.com)
- - date published: 2024-01-27T14:14:51.745453+00:00
- - user: None
- - tags: []
-
-## JLOUIS Ramblings
- - [http://jlouisramblings.blogspot.com](http://jlouisramblings.blogspot.com)
- - date published: 2024-02-20T19:40:51.773282+00:00
- - user: None
- - tags: []
-
-## The Grumpy Economist
- - [https://johnhcochrane.blogspot.com](https://johnhcochrane.blogspot.com)
- - date published: 2023-10-25T09:09:15.482686+00:00
- - user: None
- - tags: ['personal']
 

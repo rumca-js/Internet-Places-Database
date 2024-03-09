@@ -1,3 +1,322 @@
+## Reflect Notes
+ - [https://reflect.site](https://reflect.site)
+ - date published: 2023-10-25T22:40:25.344272+00:00
+ - user: None
+ - tags: []
+
+## Shift Happens newsletter
+ - [https://newsletter.shifthappens.site](https://newsletter.shifthappens.site)
+ - date published: 2023-10-25T22:40:27.644529+00:00
+ - user: None
+ - tags: []
+
+## Shift Happens
+ - [https://shifthappens.site](https://shifthappens.site)
+ - date published: 2023-10-25T22:40:33.666065+00:00
+ - user: None
+ - tags: []
+
+## Heliotrope Pajamas
+ - [https://sforman.srht.site](https://sforman.srht.site)
+ - date published: 2023-11-29T17:12:24.360687+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://srasu.srht.site
+ - [https://srasu.srht.site](https://srasu.srht.site)
+ - date published: 2024-01-09T03:47:08.768935+00:00
+ - user: None
+ - tags: []
+
+## Jenny Chu
+ - [https://jenny-chu.super.site](https://jenny-chu.super.site)
+ - date published: 2024-01-22T03:53:22.127846+00:00
+ - user: None
+ - tags: []
+
+## timor's site
+ - [https://timor.site](https://timor.site)
+ - date published: 2023-10-25T09:24:39.424560+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Topos Lab
+ - [https://topos.site](https://topos.site)
+ - date published: 2023-10-25T22:40:37.112240+00:00
+ - user: None
+ - tags: []
+
+## Bounded-Error Log
+ - [https://blog.vero.site](https://blog.vero.site)
+ - date published: 2023-11-14T07:22:39.220127+00:00
+ - user: None
+ - tags: []
+
+## All posts
+ - [https://www.vietnguyen.site](https://www.vietnguyen.site)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Amiga on PC/Mac/Raspberry | AmiKit - Modern Retro Amiga
+ - [https://amikit.amiga.sk](https://amikit.amiga.sk)
+ - date published: 2024-01-09T03:47:10.780472+00:00
+ - user: None
+ - tags: []
+
+## AmiKit Support Forum
+ - [https://forum.amiga.sk](https://forum.amiga.sk)
+ - date published: 2024-01-09T03:47:12.690325+00:00
+ - user: None
+ - tags: []
+
+## Amiga on PC/Mac/Raspberry | AmiKit - Modern Retro Amiga
+ - [https://www.amikit.amiga.sk](https://www.amikit.amiga.sk)
+ - date published: 2023-11-02T10:51:09.860795+00:00
+ - user: None
+ - tags: ['amiga']
+
+## Michal's low level corner
+ - [https://migeel.sk](https://migeel.sk)
+ - date published: 2023-10-25T08:55:55.090139+00:00
+ - user: None
+ - tags: ['personal']
+
+## Staré Hry Na Stiahnutie :: DJ OldGames
+ - [https://www.oldgames.sk](https://www.oldgames.sk)
+ - date published: 2023-11-02T09:17:26.938750+00:00
+ - user: None
+ - tags: ['amiga', 'retro games', 'dos', 'abandonware', 'old games', 'commodore']
+
+## cgad.ski
+ - [https://cgad.ski](https://cgad.ski)
+ - date published: 2023-10-28T01:56:13.112964+00:00
+ - user: None
+ - tags: []
+
+## Bartosz Ciechanowski
+ - [https://ciechanow.ski](https://ciechanow.ski)
+ - date published: 2023-10-25T09:24:42.451995+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kornel's out-of-date homepage
+ - [https://kornel.ski](https://kornel.ski)
+ - date published: 2024-02-23T05:52:05.758182+00:00
+ - user: None
+ - tags: []
+
+## Skin's Blog
+ - [https://blog.djha.skin](https://blog.djha.skin)
+ - date published: 2023-10-25T09:24:43.363018+00:00
+ - user: None
+ - tags: ['personal']
+
+## Beautiful, Secure, Privacy-Respecting Devices - Purism
+ - [https://puri.sm](https://puri.sm)
+ - date published: 2023-10-25T08:37:55.771167+00:00
+ - user: None
+ - tags: []
+
+## Radio e Televisione della Repubblica di San Marino
+ - [https://www.sanmarinortv.sm](https://www.sanmarinortv.sm)
+ - date published: 2024-02-24T22:12:31.870695+00:00
+ - user: None
+ - tags: []
+
+## Musée des Civilisations noires
+ - [https://mcn.sn](https://mcn.sn)
+ - date published: 2024-02-26T08:51:34.376785+00:00
+ - user: None
+ - tags: []
+
+## MCN
+ - [https://www.mcn.sn](https://www.mcn.sn)
+ - date published: 2023-11-13T13:42:42.319137+00:00
+ - user: None
+ - tags: ['museum']
+
+## Overview - Blog
+ - [https://blog.artie.so](https://blog.artie.so)
+ - date published: 2023-11-15T22:31:41.943631+00:00
+ - user: None
+ - tags: []
+
+## Cohesive
+ - [https://www.cohesive.so](https://www.cohesive.so)
+ - date published: 2023-10-25T22:40:45.366113+00:00
+ - user: None
+ - tags: []
+
+## Creator Economy by Peter Yang | Substack
+ - [https://creatoreconomy.so](https://creatoreconomy.so)
+ - date published: 2023-10-25T10:08:47.677770+00:00
+ - user: None
+ - tags: ['substack']
+
+## Dendron
+ - [https://wiki.dendron.so](https://wiki.dendron.so)
+ - date published: 2023-10-25T22:40:48.362194+00:00
+ - user: None
+ - tags: []
+
+## Hydra - Fast Postgres Analytics ++
+ - [https://www.hydra.so](https://www.hydra.so)
+ - date published: 2023-10-25T08:34:30.335331+00:00
+ - user: None
+ - tags: []
+
+## Julian Christian Anderson
+ - [https://julian.so](https://julian.so)
+ - date published: 2022-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Service Suspended
+ - [https://mimosa.so](https://mimosa.so)
+ - date published: 2023-10-25T22:40:50.567686+00:00
+ - user: None
+ - tags: []
+
+## Notion Status
+ - [https://status.notion.so](https://status.notion.so)
+ - date published: 2023-10-25T22:40:58.174104+00:00
+ - user: None
+ - tags: []
+
+## Your connected workspace for wiki, docs & projects | Notion
+ - [https://www.notion.so](https://www.notion.so)
+ - date published: 2023-10-25T22:41:01.221665+00:00
+ - user: None
+ - tags: []
+
+## Plane - The open source project management tool
+ - [https://plane.so](https://plane.so)
+ - date published: 2023-10-25T22:41:04.981097+00:00
+ - user: None
+ - tags: ['project managment software', 'jira']
+
+## Relate: Full, Simple Sales CRM powered by AI
+ - [https://www.relate.so](https://www.relate.so)
+ - date published: 2023-10-25T22:41:11.464805+00:00
+ - user: None
+ - tags: []
+
+## Reza Saeedi
+ - [https://www.reza.so](https://www.reza.so)
+ - date published: 2023-11-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://beta.sayhello.so
+ - [https://beta.sayhello.so](https://beta.sayhello.so)
+ - date published: 2023-10-25T22:41:12.269082+00:00
+ - user: None
+ - tags: []
+
+## Scribbler: AI-powered Summaries
+ - [https://app.scribbler.so](https://app.scribbler.so)
+ - date published: 2023-10-25T22:41:13.999339+00:00
+ - user: None
+ - tags: []
+
+## Sensible - Document Automation for Developers
+ - [https://www.sensible.so](https://www.sensible.so)
+ - date published: 2023-12-04T07:14:03.924039+00:00
+ - user: None
+ - tags: []
+
+## Create Amazing Mockups
+ - [https://shots.so](https://shots.so)
+ - date published: 2024-01-19T19:42:08.728995+00:00
+ - user: None
+ - tags: []
+
+## Subset - A remarkably simple way to create a spreadsheet
+ - [https://about.subset.so](https://about.subset.so)
+ - date published: 2023-10-25T22:41:15.156625+00:00
+ - user: None
+ - tags: []
+
+## The Sequin Blog
+ - [https://blog.syncinc.so](https://blog.syncinc.so)
+ - date published: 2023-10-25T11:29:17.861449+00:00
+ - user: None
+ - tags: []
+
+## Free Online Form Builder | Tally
+ - [https://tally.so](https://tally.so)
+ - date published: 2023-10-25T22:41:21.758592+00:00
+ - user: None
+ - tags: []
+
+## Telematica | Universal API for EVs and energy devices
+ - [https://www.telematica.so](https://www.telematica.so)
+ - date published: 2023-10-25T22:41:23.982087+00:00
+ - user: None
+ - tags: []
+
+## Tidepool - Tidepool by Aquarium
+ - [https://www.tidepool.so](https://www.tidepool.so)
+ - date published: 2023-10-25T22:41:27.323642+00:00
+ - user: None
+ - tags: []
+
+## Tremor – The React library to build dashboards fast
+ - [https://www.tremor.so](https://www.tremor.so)
+ - date published: 2023-10-25T22:41:30.193965+00:00
+ - user: None
+ - tags: []
+
+## Tweek Calendar — Minimal To Do list and Weekly Task Planner App
+ - [https://tweek.so](https://tweek.so)
+ - date published: 2023-10-25T22:41:31.700370+00:00
+ - user: None
+ - tags: []
+
+## Vento - Stress-Free Screen Recording
+ - [https://vento.so](https://vento.so)
+ - date published: 2023-10-25T22:41:33.922119+00:00
+ - user: None
+ - tags: []
+
+## Vidya's Blog.
+ - [https://vidya.so](https://vidya.so)
+ - date published: 2024-01-05T10:36:51.533260+00:00
+ - user: None
+ - tags: []
+
+## https://abolish.social
+ - [https://abolish.social](https://abolish.social)
+ - date published: 2024-01-09T01:36:30.175981+00:00
+ - user: None
+ - tags: []
+
+## Aus.Social
+ - [https://aus.social](https://aus.social)
+ - date published: 2023-10-24T20:13:49.966651+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Bluesky
+ - [https://bsky.social](https://bsky.social)
+ - date published: 2024-02-06T16:01:07.096766+00:00
+ - user: None
+ - tags: ['social media']
+
+## chaos.social
+ - [https://chaos.social](https://chaos.social)
+ - date published: 2023-10-24T20:13:50.437577+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## The Gitea Community is asking Gitea Owners to correct
+conflicts of interest and restore Community Trust.
+ - [https://gitea-open-letter.coding.social](https://gitea-open-letter.coding.social)
+ - date published: 2023-10-24T20:13:51.584131+00:00
+ - user: None
+ - tags: ['mastodon']
+
 ## Cyberplace
  - [https://cyberplace.social](https://cyberplace.social)
  - date published: 2023-10-24T20:13:52.156249+00:00
@@ -5685,322 +6004,4 @@ Introduction
  - date published: 2024-02-03T08:24:24+00:00
  - user: rumpel
  - tags: ['youtuber merch']
-
-## https://cantsayanything.win
- - [https://cantsayanything.win](https://cantsayanything.win)
- - date published: 2024-01-09T03:48:48.150168+00:00
- - user: None
- - tags: []
-
-## Joe Winter Design
- - [https://www.joemoe.win](https://www.joemoe.win)
- - date published: 2023-12-15T21:42:17.937493+00:00
- - user: None
- - tags: ['personal']
-
-## Sebastian Neef - 0day.work
- - [https://0day.work](https://0day.work)
- - date published: 2023-10-25T23:01:17.513284+00:00
- - user: None
- - tags: []
-
-## Bailey Kursar
- - [https://bailey.work](https://bailey.work)
- - date published: 2024-01-14T08:13:12.363849+00:00
- - user: None
- - tags: []
-
-## Brain pls work
- - [https://brainpls.work](https://brainpls.work)
- - date published: 2024-01-09T03:48:48.682019+00:00
- - user: None
- - tags: []
-
-## Jobs | Bonsai
- - [https://bonsai.crew.work](https://bonsai.crew.work)
- - date published: 2023-10-25T23:01:29.802155+00:00
- - user: None
- - tags: []
-
-## fractional.work | Sanjay Saraf | Substack
- - [https://www.fractional.work](https://www.fractional.work)
- - date published: 2023-10-25T10:08:52.365132+00:00
- - user: None
- - tags: ['substack']
-
-## Framework Community - Discussion and support for Framework products
- - [https://community.frame.work](https://community.frame.work)
- - date published: 2023-10-25T23:01:33.003425+00:00
- - user: None
- - tags: []
-
-## Framework Laptop 16 pre-orders are now open
- - [https://frame.work](https://frame.work)
- - date published: 2023-10-25T08:38:20.129233+00:00
- - user: None
- - tags: []
-
-## kade killary
- - [https://kadekillary.work](https://kadekillary.work)
- - date published: 2023-10-25T09:25:00.374655+00:00
- - user: None
- - tags: ['personal']
-
-## LWIClassic.Com: Learn, Grow, & Change!
- - [https://lwiclassic.work](https://lwiclassic.work)
- - date published: 2024-02-26T08:38:23.092718+00:00
- - user: None
- - tags: []
-
-## Lawyer-Made HR Documents  | goHeather
- - [http://tally.work](http://tally.work)
- - date published: 2023-10-25T23:01:38.366632+00:00
- - user: None
- - tags: []
-
-## Hi, I'm kmille
- - [https://debugging.works](https://debugging.works)
- - date published: 2023-10-25T08:56:55.059280+00:00
- - user: None
- - tags: ['personal']
-
-## epicenter.works - epicenter.works
- - [https://epicenter.works](https://epicenter.works)
- - date published: 2023-11-08T07:36:01.480803+00:00
- - user: None
- - tags: []
-
-## Home | My name is Olek. I write about what matters to me.
- - [https://olek.works](https://olek.works)
- - date published: 2023-12-12T23:24:43.805393+00:00
- - user: None
- - tags: ['personal']
-
-## 3D Animation and Automated Rigging | Anything World
- - [https://anything.world](https://anything.world)
- - date published: 2023-10-25T23:01:41.604403+00:00
- - user: None
- - tags: []
-
-## From the New World | Brian Chau | Substack
- - [https://www.fromthenew.world](https://www.fromthenew.world)
- - date published: 2023-11-19T23:54:22.493481+00:00
- - user: None
- - tags: []
-
-## The Great Gender Divergence | Alice Evans | Substack
- - [https://www.ggd.world](https://www.ggd.world)
- - date published: 2024-03-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Lane's World! - the homepage of Lane Goldman
- - [https://lanes.world](https://lanes.world)
- - date published: 2019-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Mastodon.world Blog
- - [https://blog.mastodon.world](https://blog.mastodon.world)
- - date published: 2023-10-24T20:14:48.458879+00:00
- - user: None
- - tags: ['mastodon']
-
-## Mastodon
- - [https://mastodon.world](https://mastodon.world)
- - date published: 2023-10-24T20:14:49.692344+00:00
- - user: None
- - tags: ['mastodon']
-
-## Prashanth Sadasivan – The Chief Questions Officer 💻🍳☕️
- - [https://prashanth.world](https://prashanth.world)
- - date published: 2023-10-25T09:25:01.568735+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Reasons to be Cheerful
- - [https://reasonstobecheerful.world](https://reasonstobecheerful.world)
- - date published: 2023-10-25T23:01:47.023181+00:00
- - user: None
- - tags: []
-
-## Soundscape
- - [https://soundscape.world](https://soundscape.world)
- - date published: 2024-01-22T09:51:55+00:00
- - user: rumpel
- - tags: []
-
-## SPLACE. A World of Communities.
- - [https://www.splace.world](https://www.splace.world)
- - date published: 2023-12-11T15:48:59.406277+00:00
- - user: None
- - tags: []
-
-## The Dial
- - [https://www.thedial.world](https://www.thedial.world)
- - date published: 2023-10-25T23:01:53.554444+00:00
- - user: None
- - tags: []
-
-## NixOS & Flakes Book | Home Page
- - [https://nixos-and-flakes.thiscute.world](https://nixos-and-flakes.thiscute.world)
- - date published: 2023-10-25T23:01:55.768732+00:00
- - user: None
- - tags: []
-
-## Wikis World
- - [https://wikis.world](https://wikis.world)
- - date published: 2023-10-24T20:14:51.048903+00:00
- - user: None
- - tags: ['mastodon']
-
-## Wiwo World
- - [https://www.wiwo.world](https://www.wiwo.world)
- - date published: 2024-02-21T22:25:08.824882+00:00
- - user: None
- - tags: []
-
-## 2022 FIFA World Cup bracket and standings
- - [https://worldcup.cole.ws](https://worldcup.cole.ws)
- - date published: 2023-10-25T23:01:56.472219+00:00
- - user: None
- - tags: []
-
-## Crusty Windows Wiki
- - [https://crustywindo.ws](https://crustywindo.ws)
- - date published: 2023-10-25T23:01:57.735617+00:00
- - user: None
- - tags: []
-
-## .:: GEOCITIES.ws ::.
- - [https://geocities.ws](https://geocities.ws)
- - date published: 2024-01-25T06:33:46.312964+00:00
- - user: None
- - tags: []
-
-## justus.ws
- - [https://www.justus.ws](https://www.justus.ws)
- - date published: 2023-11-29T15:45:02.094794+00:00
- - user: None
- - tags: ['personal']
-
-## LORN
- - [https://www.lorn.ws](https://www.lorn.ws)
- - date published: 2023-11-13T09:48:10.746658+00:00
- - user: None
- - tags: ['music band']
-
-## OpenArena EX - オープンアリーナ
- - [https://openarena.ws](https://openarena.ws)
- - date published: 2023-10-27T13:51:31.986419+00:00
- - user: None
- - tags: ['quake']
-
-## World of Warships
- - [https://wo.ws](https://wo.ws)
- - date published: 2024-02-24T09:58:01.832887+00:00
- - user: None
- - tags: []
-
-## Yoav's blog thing
- - [https://blog.yoav.ws](https://blog.yoav.ws)
- - date published: 2023-10-25T23:01:59.005141+00:00
- - user: None
- - tags: []
-
-## charity.wtf – charity wtf's about technology, databases, startups, engineering management, and whiskey.
- - [https://charity.wtf](https://charity.wtf)
- - date published: 2023-10-25T23:02:09.605011+00:00
- - user: None
- - tags: []
-
-## Ellie's Notes
- - [https://ellie.wtf](https://ellie.wtf)
- - date published: 2023-10-25T09:25:02.764286+00:00
- - user: None
- - tags: ['personal']
-
-## fx – command-line tool for JSON
- - [https://fx.wtf](https://fx.wtf)
- - date published: 2023-10-25T08:34:35.904683+00:00
- - user: None
- - tags: []
-
-## Genders.WTF
- - [https://genders.wtf](https://genders.wtf)
- - date published: 2023-10-25T23:02:12.421357+00:00
- - user: None
- - tags: []
-
-## Will twitter outlast this lettuce?
- - [https://lettuce.wtf](https://lettuce.wtf)
- - date published: 2023-10-25T23:02:13.189906+00:00
- - user: None
- - tags: []
-
-## Dmitry Non
- - [https://nondv.wtf](https://nondv.wtf)
- - date published: 2023-11-08T22:10:31.500527+00:00
- - user: None
- - tags: ['devlog']
-
-## overkill.wtf | Steam Deck news, reviews and more
- - [https://overkill.wtf](https://overkill.wtf)
- - date published: 2023-10-25T23:02:15.238658+00:00
- - user: None
- - tags: []
-
-## VOLE.wtf 🐹⁉️ because internet is stupid
- - [https://vole.wtf](https://vole.wtf)
- - date published: 2023-10-27T13:08:52.494279+00:00
- - user: None
- - tags: ['wtf']
-
-## Volts | Fanfare
- - [https://transcripts.volts.wtf](https://transcripts.volts.wtf)
- - date published: 2023-10-25T23:02:22.636567+00:00
- - user: None
- - tags: []
-
-## Alphabet Investor Relations
- - [https://abc.xyz](https://abc.xyz)
- - date published: 2023-10-25T23:02:24.106484+00:00
- - user: None
- - tags: []
-
-## A flower woman by 1500+ artists
- - [https://gorgeous.adityashankar.xyz](https://gorgeous.adityashankar.xyz)
- - date published: 2023-10-25T23:02:25.831785+00:00
- - user: None
- - tags: []
-
-## https://adrw.xyz
- - [https://adrw.xyz](https://adrw.xyz)
- - date published: 2024-01-10T22:41:08.215186+00:00
- - user: None
- - tags: []
-
-## Age of Invention, by Anton Howes | Substack
- - [https://www.ageofinvention.xyz](https://www.ageofinvention.xyz)
- - date published: 2023-11-25T15:09:01.737458+00:00
- - user: None
- - tags: []
-
-## Ankaph
- - [https://ankaph.xyz](https://ankaph.xyz)
- - date published: 2023-11-17T09:50:30.848678+00:00
- - user: None
- - tags: []
-
-## the art of technology
- - [https://annasofia.xyz](https://annasofia.xyz)
- - date published: 2023-10-25T23:02:28.986043+00:00
- - user: None
- - tags: []
-
-## Alexander Smirnov
- - [https://asmirnov.xyz](https://asmirnov.xyz)
- - date published: 2023-11-27T17:46:34.896239+00:00
- - user: None
- - tags: ['personal']
 

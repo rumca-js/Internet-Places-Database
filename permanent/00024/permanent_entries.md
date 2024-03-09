@@ -1,3 +1,304 @@
+## XPRIZE Foundation
+ - [https://www.xprize.org](https://www.xprize.org)
+ - date published: 2023-10-25T22:23:16.519379+00:00
+ - user: None
+ - tags: []
+
+## Welcome
+ - [https://xteddy.org](https://xteddy.org)
+ - date published: 2023-10-25T22:23:17.710966+00:00
+ - user: None
+ - tags: []
+
+## Yale Climate Connections
+ - [https://yaleclimateconnections.org](https://yaleclimateconnections.org)
+ - date published: 2024-01-21T19:45:03.571967+00:00
+ - user: None
+ - tags: []
+
+## The Yale Law Journal - Home
+ - [https://www.yalelawjournal.org](https://www.yalelawjournal.org)
+ - date published: 2024-02-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Yale Review | Homepage
+ - [https://yalereview.org](https://yalereview.org)
+ - date published: 2023-10-25T22:23:27.461566+00:00
+ - user: None
+ - tags: []
+
+## YAMLScript.org
+ - [https://yamlscript.org](https://yamlscript.org)
+ - date published: 2023-12-21T23:22:49.234264+00:00
+ - user: None
+ - tags: []
+
+## The Yesterweb - Reclaiming the Internet
+ - [https://yesterweb.org](https://yesterweb.org)
+ - date published: 2024-01-09T13:30:22+00:00
+ - user: rumpel
+ - tags: ['social platform']
+
+## 印记 | 君子可内敛不可懦弱，面不公可起而论之
+ - [https://yinji.org](https://yinji.org)
+ - date published: 2024-01-11T13:28:39.670286+00:00
+ - user: None
+ - tags: []
+
+## Yoshua Bengio -
+ - [https://yoshuabengio.org](https://yoshuabengio.org)
+ - date published: 2023-10-25T22:23:34.654490+00:00
+ - user: None
+ - tags: []
+
+## Own Your Data
+ - [https://yourdigitalrights.org](https://yourdigitalrights.org)
+ - date published: 2023-10-25T22:23:40.557053+00:00
+ - user: None
+ - tags: []
+
+## https://youtube-dl.org
+ - [https://youtube-dl.org](https://youtube-dl.org)
+ - date published: 2023-11-27T13:33:54+00:00
+ - user: rumpel
+ - tags: ['youtube', 'open source']
+
+## YPR HOMEPAGE | YPR
+ - [https://www.ypradio.org](https://www.ypradio.org)
+ - date published: 2024-02-08T17:47:29.516258+00:00
+ - user: None
+ - tags: []
+
+## YunoHost • index
+ - [https://yunohost.org](https://yunohost.org)
+ - date published: 2023-10-25T22:23:41.314283+00:00
+ - user: None
+ - tags: []
+
+## https://yurichev.org
+ - [https://yurichev.org](https://yurichev.org)
+ - date published: 2024-01-09T03:43:18.842486+00:00
+ - user: None
+ - tags: []
+
+## yuzu - Nintendo Switch Emulator
+ - [https://yuzu-emu.org](https://yuzu-emu.org)
+ - date published: 2024-03-06T20:59:32.921293+00:00
+ - user: None
+ - tags: []
+
+## Zeal - Offline Documentation Browser
+ - [https://zealdocs.org](https://zealdocs.org)
+ - date published: 2023-10-25T22:23:51.672833+00:00
+ - user: None
+ - tags: []
+
+## Achim Zeileis
+ - [https://www.zeileis.org](https://www.zeileis.org)
+ - date published: 2023-10-25T22:23:53.311418+00:00
+ - user: None
+ - tags: []
+
+## Zenodo
+ - [https://zenodo.org](https://zenodo.org)
+ - date published: 2023-10-25T22:23:54.679571+00:00
+ - user: None
+ - tags: []
+
+## zephoria
+ - [http://www.zephoria.org](http://www.zephoria.org)
+ - date published: 2024-01-23T19:05:01.547444+00:00
+ - user: None
+ - tags: []
+
+## zephoria
+ - [https://www.zephoria.org](https://www.zephoria.org)
+ - date published: 2024-01-29T00:09:01.945068+00:00
+ - user: None
+ - tags: []
+
+## The Zephyr Project – A proven RTOS ecosystem, by developers, for developers.
+ - [https://zephyrproject.org](https://zephyrproject.org)
+ - date published: 2023-10-25T22:23:58.245265+00:00
+ - user: None
+ - tags: []
+
+## zerforschung
+ - [https://zerforschung.org](https://zerforschung.org)
+ - date published: 2023-10-25T22:23:59.564102+00:00
+ - user: None
+ - tags: []
+
+## ZeroMips
+ - [https://zeromips.org](https://zeromips.org)
+ - date published: 2023-11-24T22:14:21.714868+00:00
+ - user: None
+ - tags: []
+
+## Overview — ZFSBootMenu 2.2.2 documentation
+ - [https://docs.zfsbootmenu.org](https://docs.zfsbootmenu.org)
+ - date published: 2023-10-25T22:24:02.572482+00:00
+ - user: None
+ - tags: []
+
+## Overview — ZFSBootMenu 2.2.2 documentation
+ - [https://zfsbootmenu.org](https://zfsbootmenu.org)
+ - date published: 2023-10-25T22:24:04.932874+00:00
+ - user: None
+ - tags: []
+
+## Home ⚡
+Zig Programming Language
+ - [https://ziglang.org](https://ziglang.org)
+ - date published: 2023-10-25T22:24:05.920229+00:00
+ - user: None
+ - tags: []
+
+## Domain Seized
+ - [https://z-lib.org](https://z-lib.org)
+ - date published: 2024-01-09T03:43:19.533090+00:00
+ - user: None
+ - tags: []
+
+## Welcome to zoia.org
+ - [https://zoia.org](https://zoia.org)
+ - date published: 2023-11-29T14:24:23.817600+00:00
+ - user: None
+ - tags: ['personal']
+
+## Zoomquilt - The infinitely zooming image
+ - [https://zoomquilt.org](https://zoomquilt.org)
+ - date published: 2023-10-25T22:24:06.535031+00:00
+ - user: None
+ - tags: ['wtf']
+
+## âœ¦ Zoraster.org
+ - [https://www.zoraster.org](https://www.zoraster.org)
+ - date published: 2023-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Recent Discussions
+ - [https://forums.zotero.org](https://forums.zotero.org)
+ - date published: 2023-12-25T09:44:04.914656+00:00
+ - user: None
+ - tags: []
+
+## Zotero | Your personal research assistant
+ - [https://www.zotero.org](https://www.zotero.org)
+ - date published: 2023-11-26T16:42:13+00:00
+ - user: rumpel
+ - tags: ['bookmark manager']
+
+## The Internet of Things is Powered by Z-Wave - Z-Wave Alliance
+ - [https://z-wavealliance.org](https://z-wavealliance.org)
+ - date published: 2023-10-25T22:23:50.619440+00:00
+ - user: None
+ - tags: []
+
+## Mike's corner of the web
+ - [https://mike.zwobble.org](https://mike.zwobble.org)
+ - date published: 2023-10-25T08:57:19.563236+00:00
+ - user: None
+ - tags: ['personal']
+
+## Interdependent Thoughts – by Ton Zĳlstra
+ - [https://www.zylstra.org](https://www.zylstra.org)
+ - date published: 2023-10-25T22:24:12.190484+00:00
+ - user: None
+ - tags: []
+
+## Galaxy Simulation
+ - [https://galaxym.ovh](https://galaxym.ovh)
+ - date published: 2023-10-25T22:24:12.588967+00:00
+ - user: None
+ - tags: []
+
+## mcilloni's blog · A simple blog for rather complicated topics
+ - [https://mcilloni.ovh](https://mcilloni.ovh)
+ - date published: 2023-10-25T22:24:15.437330+00:00
+ - user: None
+ - tags: []
+
+## Neowutran
+ - [https://neowutran.ovh](https://neowutran.ovh)
+ - date published: 2023-12-18T13:57:19.767633+00:00
+ - user: None
+ - tags: ['personal']
+
+## ⌨️🤷🏻‍♂️📷
+ - [https://andys.page](https://andys.page)
+ - date published: 2023-10-25T22:24:16.171341+00:00
+ - user: None
+ - tags: []
+
+## Ben Borgers
+ - [http://ben.page](http://ben.page)
+ - date published: 2024-01-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ben Borgers
+ - [https://ben.page](https://ben.page)
+ - date published: 2024-01-09T17:04:04.047326+00:00
+ - user: None
+ - tags: []
+
+## Start writing
+ - [https://blank.page](https://blank.page)
+ - date published: 2024-02-20T13:43:39.246539+00:00
+ - user: None
+ - tags: []
+
+## Chris Lu
+ - [https://chrislu.page](https://chrislu.page)
+ - date published: 2023-10-25T22:24:17.652952+00:00
+ - user: None
+ - tags: []
+
+## Bonjour, je suis Anaël Verdier,
+ - [https://anael-verdier.ck.page](https://anael-verdier.ck.page)
+ - date published: 2023-12-11T16:24:10.764815+00:00
+ - user: None
+ - tags: []
+
+## Daudix
+ - [https://daudix.codeberg.page](https://daudix.codeberg.page)
+ - date published: 2024-02-19T16:27:09.697563+00:00
+ - user: None
+ - tags: []
+
+## Jean G3nie
+ - [https://jeang3nie.codeberg.page](https://jeang3nie.codeberg.page)
+ - date published: 2023-10-25T22:24:18.487570+00:00
+ - user: None
+ - tags: []
+
+## Lup Yuen LEE
+ - [https://lupyuen.codeberg.page](https://lupyuen.codeberg.page)
+ - date published: 2023-10-25T22:24:23.126536+00:00
+ - user: None
+ - tags: []
+
+## Lup Yuen LEE
+ - [http://lupyuen.codeberg.page](http://lupyuen.codeberg.page)
+ - date published: 2024-02-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Please don't upload my code on GitHub
+ - [https://nogithub.codeberg.page](https://nogithub.codeberg.page)
+ - date published: 2023-10-25T22:24:23.766571+00:00
+ - user: None
+ - tags: []
+
+## █▓▒░ Unlisted Retrograde Slacker
+ - [https://trackerninja.codeberg.page](https://trackerninja.codeberg.page)
+ - date published: 2024-02-23T00:00:00+00:00
+ - user: rumpel
+ - tags: ['personal', 'web1']
+
 ## Recent Entries in the Journal
  - [https://blog.darylsun.page](https://blog.darylsun.page)
  - date published: 2024-01-08T00:00:00+00:00
@@ -1266,14 +1567,14 @@ is forbidden
  - tags: []
 
 ## None
- - [https://rss.forsal.pl](https://rss.forsal.pl)
- - date published: 2024-01-09T03:44:12.545694+00:00
+ - [http://rss.forsal.pl](http://rss.forsal.pl)
+ - date published: 2024-02-25T20:20:10.985054+00:00
  - user: None
  - tags: []
 
 ## None
- - [http://rss.forsal.pl](http://rss.forsal.pl)
- - date published: 2024-02-25T20:20:10.985054+00:00
+ - [https://rss.forsal.pl](https://rss.forsal.pl)
+ - date published: 2024-01-09T03:44:12.545694+00:00
  - user: None
  - tags: []
 
@@ -2179,7 +2480,7 @@ is forbidden
  - user: None
  - tags: ['social platform', 'services']
 
-## 403 Forbidden
+## Najbezpieczniejsza konferencja w całym internecie – Oh My H@ck!
  - [https://omhconf.pl](https://omhconf.pl)
  - date published: 2024-02-02T08:24:55.084372+00:00
  - user: None
@@ -2828,6 +3129,12 @@ is forbidden
 ## sdomi's webpage
  - [https://sdomi.pl](https://sdomi.pl)
  - date published: 2024-03-02T19:34:03.750132+00:00
+ - user: None
+ - tags: []
+
+## Wiadomości, Polityka, Sport - Super Express
+ - [https://www.se.pl](https://www.se.pl)
+ - date published: 2024-03-08T11:04:46.628034+00:00
  - user: None
  - tags: []
 
@@ -4127,6 +4434,12 @@ is forbidden
  - user: None
  - tags: []
 
+## Rolldown: Rollup compatible bundler written in Rust
+ - [https://rolldown.rs](https://rolldown.rs)
+ - date published: 2024-03-08T10:19:09+00:00
+ - user: None
+ - tags: []
+
 ## RTS PLANETA
  - [https://rtsplaneta.rs](https://rtsplaneta.rs)
  - date published: 2017-06-07T00:00:00+00:00
@@ -4285,16 +4598,16 @@ is forbidden
  - tags: []
 
 ## Radiominor.ru - на волне хорошей музыки
- - [https://radiominor.ru](https://radiominor.ru)
- - date published: 2024-02-15T22:13:56.565784+00:00
- - user: None
- - tags: ['demoscene']
-
-## Radiominor.ru - на волне хорошей музыки
  - [http://radiominor.ru](http://radiominor.ru)
  - date published: 2024-02-15T02:01:34.442306+00:00
  - user: None
  - tags: []
+
+## Radiominor.ru - на волне хорошей музыки
+ - [https://radiominor.ru](https://radiominor.ru)
+ - date published: 2024-02-15T22:13:56.565784+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Рамблер/картинки
  - [https://images.rambler.ru](https://images.rambler.ru)
@@ -4390,6 +4703,12 @@ is forbidden
  - [https://gleam.run](https://gleam.run)
  - date published: 2023-11-07T21:53:29+00:00
  - user: None
+ - tags: []
+
+## Hatchet
+ - [https://hatchet.run](https://hatchet.run)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: rumpel
  - tags: []
 
 ## iNet
@@ -4873,14 +5192,14 @@ is forbidden
  - tags: []
 
 ## Positive Security - IT Security Research & Consulting
- - [http://positive.security](http://positive.security)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://positive.security](https://positive.security)
+ - date published: 2023-10-25T22:37:48.281104+00:00
  - user: None
  - tags: []
 
 ## Positive Security - IT Security Research & Consulting
- - [https://positive.security](https://positive.security)
- - date published: 2023-10-25T22:37:48.281104+00:00
+ - [http://positive.security](http://positive.security)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5081,14 +5400,14 @@ Art Product Supply
  - tags: []
 
 ## Jan Harasym on Svbtle
- - [https://blog.dijit.sh](https://blog.dijit.sh)
- - date published: 2024-01-09T03:46:50.814381+00:00
+ - [http://blog.dijit.sh](http://blog.dijit.sh)
+ - date published: 2024-02-26T08:21:06.878835+00:00
  - user: None
  - tags: []
 
 ## Jan Harasym on Svbtle
- - [http://blog.dijit.sh](http://blog.dijit.sh)
- - date published: 2024-02-26T08:21:06.878835+00:00
+ - [https://blog.dijit.sh](https://blog.dijit.sh)
+ - date published: 2024-01-09T03:46:50.814381+00:00
  - user: None
  - tags: []
 
@@ -5691,323 +6010,4 @@ Art Product Supply
  - date published: 2023-11-03T00:00:00+00:00
  - user: None
  - tags: []
-
-## Reflect Notes
- - [https://reflect.site](https://reflect.site)
- - date published: 2023-10-25T22:40:25.344272+00:00
- - user: None
- - tags: []
-
-## Shift Happens newsletter
- - [https://newsletter.shifthappens.site](https://newsletter.shifthappens.site)
- - date published: 2023-10-25T22:40:27.644529+00:00
- - user: None
- - tags: []
-
-## Shift Happens
- - [https://shifthappens.site](https://shifthappens.site)
- - date published: 2023-10-25T22:40:33.666065+00:00
- - user: None
- - tags: []
-
-## Heliotrope Pajamas
- - [https://sforman.srht.site](https://sforman.srht.site)
- - date published: 2023-11-29T17:12:24.360687+00:00
- - user: None
- - tags: ['personal']
-
-## https://srasu.srht.site
- - [https://srasu.srht.site](https://srasu.srht.site)
- - date published: 2024-01-09T03:47:08.768935+00:00
- - user: None
- - tags: []
-
-## Jenny Chu
- - [https://jenny-chu.super.site](https://jenny-chu.super.site)
- - date published: 2024-01-22T03:53:22.127846+00:00
- - user: None
- - tags: []
-
-## timor's site
- - [https://timor.site](https://timor.site)
- - date published: 2023-10-25T09:24:39.424560+00:00
- - user: None
- - tags: ['personal']
-
-## The Topos Lab
- - [https://topos.site](https://topos.site)
- - date published: 2023-10-25T22:40:37.112240+00:00
- - user: None
- - tags: []
-
-## Bounded-Error Log
- - [https://blog.vero.site](https://blog.vero.site)
- - date published: 2023-11-14T07:22:39.220127+00:00
- - user: None
- - tags: []
-
-## All posts
- - [https://www.vietnguyen.site](https://www.vietnguyen.site)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Amiga on PC/Mac/Raspberry | AmiKit - Modern Retro Amiga
- - [https://amikit.amiga.sk](https://amikit.amiga.sk)
- - date published: 2024-01-09T03:47:10.780472+00:00
- - user: None
- - tags: []
-
-## AmiKit Support Forum
- - [https://forum.amiga.sk](https://forum.amiga.sk)
- - date published: 2024-01-09T03:47:12.690325+00:00
- - user: None
- - tags: []
-
-## Amiga on PC/Mac/Raspberry | AmiKit - Modern Retro Amiga
- - [https://www.amikit.amiga.sk](https://www.amikit.amiga.sk)
- - date published: 2023-11-02T10:51:09.860795+00:00
- - user: None
- - tags: ['amiga']
-
-## Michal's low level corner
- - [https://migeel.sk](https://migeel.sk)
- - date published: 2023-10-25T08:55:55.090139+00:00
- - user: None
- - tags: ['personal']
-
-## Staré Hry Na Stiahnutie :: DJ OldGames
- - [https://www.oldgames.sk](https://www.oldgames.sk)
- - date published: 2023-11-02T09:17:26.938750+00:00
- - user: None
- - tags: ['amiga', 'retro games', 'dos', 'abandonware', 'old games', 'commodore']
-
-## cgad.ski
- - [https://cgad.ski](https://cgad.ski)
- - date published: 2023-10-28T01:56:13.112964+00:00
- - user: None
- - tags: []
-
-## Bartosz Ciechanowski
- - [https://ciechanow.ski](https://ciechanow.ski)
- - date published: 2023-10-25T09:24:42.451995+00:00
- - user: None
- - tags: ['personal']
-
-## Kornel's out-of-date homepage
- - [https://kornel.ski](https://kornel.ski)
- - date published: 2024-02-23T05:52:05.758182+00:00
- - user: None
- - tags: []
-
-## Skin's Blog
- - [https://blog.djha.skin](https://blog.djha.skin)
- - date published: 2023-10-25T09:24:43.363018+00:00
- - user: None
- - tags: ['personal']
-
-## Beautiful, Secure, Privacy-Respecting Devices - Purism
- - [https://puri.sm](https://puri.sm)
- - date published: 2023-10-25T08:37:55.771167+00:00
- - user: None
- - tags: []
-
-## Radio e Televisione della Repubblica di San Marino
- - [https://www.sanmarinortv.sm](https://www.sanmarinortv.sm)
- - date published: 2024-02-24T22:12:31.870695+00:00
- - user: None
- - tags: []
-
-## Musée des Civilisations noires
- - [https://mcn.sn](https://mcn.sn)
- - date published: 2024-02-26T08:51:34.376785+00:00
- - user: None
- - tags: []
-
-## MCN
- - [https://www.mcn.sn](https://www.mcn.sn)
- - date published: 2023-11-13T13:42:42.319137+00:00
- - user: None
- - tags: ['museum']
-
-## Overview - Blog
- - [https://blog.artie.so](https://blog.artie.so)
- - date published: 2023-11-15T22:31:41.943631+00:00
- - user: None
- - tags: []
-
-## Cohesive
- - [https://www.cohesive.so](https://www.cohesive.so)
- - date published: 2023-10-25T22:40:45.366113+00:00
- - user: None
- - tags: []
-
-## Creator Economy by Peter Yang | Substack
- - [https://creatoreconomy.so](https://creatoreconomy.so)
- - date published: 2023-10-25T10:08:47.677770+00:00
- - user: None
- - tags: ['substack']
-
-## Dendron
- - [https://wiki.dendron.so](https://wiki.dendron.so)
- - date published: 2023-10-25T22:40:48.362194+00:00
- - user: None
- - tags: []
-
-## Hydra - Fast Postgres Analytics ++
- - [https://www.hydra.so](https://www.hydra.so)
- - date published: 2023-10-25T08:34:30.335331+00:00
- - user: None
- - tags: []
-
-## Julian Christian Anderson
- - [https://julian.so](https://julian.so)
- - date published: 2022-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Service Suspended
- - [https://mimosa.so](https://mimosa.so)
- - date published: 2023-10-25T22:40:50.567686+00:00
- - user: None
- - tags: []
-
-## Notion Status
- - [https://status.notion.so](https://status.notion.so)
- - date published: 2023-10-25T22:40:58.174104+00:00
- - user: None
- - tags: []
-
-## Your connected workspace for wiki, docs & projects | Notion
- - [https://www.notion.so](https://www.notion.so)
- - date published: 2023-10-25T22:41:01.221665+00:00
- - user: None
- - tags: []
-
-## Plane - The open source project management tool
- - [https://plane.so](https://plane.so)
- - date published: 2023-10-25T22:41:04.981097+00:00
- - user: None
- - tags: ['project managment software', 'jira']
-
-## Relate: Full, Simple Sales CRM powered by AI
- - [https://www.relate.so](https://www.relate.so)
- - date published: 2023-10-25T22:41:11.464805+00:00
- - user: None
- - tags: []
-
-## Reza Saeedi
- - [https://www.reza.so](https://www.reza.so)
- - date published: 2023-11-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://beta.sayhello.so
- - [https://beta.sayhello.so](https://beta.sayhello.so)
- - date published: 2023-10-25T22:41:12.269082+00:00
- - user: None
- - tags: []
-
-## Scribbler: AI-powered Summaries
- - [https://app.scribbler.so](https://app.scribbler.so)
- - date published: 2023-10-25T22:41:13.999339+00:00
- - user: None
- - tags: []
-
-## Sensible - Document Automation for Developers
- - [https://www.sensible.so](https://www.sensible.so)
- - date published: 2023-12-04T07:14:03.924039+00:00
- - user: None
- - tags: []
-
-## Create Amazing Mockups
- - [https://shots.so](https://shots.so)
- - date published: 2024-01-19T19:42:08.728995+00:00
- - user: None
- - tags: []
-
-## Subset - A remarkably simple way to create a spreadsheet
- - [https://about.subset.so](https://about.subset.so)
- - date published: 2023-10-25T22:41:15.156625+00:00
- - user: None
- - tags: []
-
-## The Sequin Blog
- - [https://blog.syncinc.so](https://blog.syncinc.so)
- - date published: 2023-10-25T11:29:17.861449+00:00
- - user: None
- - tags: []
-
-## Free Online Form Builder | Tally
- - [https://tally.so](https://tally.so)
- - date published: 2023-10-25T22:41:21.758592+00:00
- - user: None
- - tags: []
-
-## Telematica | Universal API for EVs and energy devices
- - [https://www.telematica.so](https://www.telematica.so)
- - date published: 2023-10-25T22:41:23.982087+00:00
- - user: None
- - tags: []
-
-## Tidepool - Tidepool by Aquarium
- - [https://www.tidepool.so](https://www.tidepool.so)
- - date published: 2023-10-25T22:41:27.323642+00:00
- - user: None
- - tags: []
-
-## Tremor – The React library to build dashboards fast
- - [https://www.tremor.so](https://www.tremor.so)
- - date published: 2023-10-25T22:41:30.193965+00:00
- - user: None
- - tags: []
-
-## Tweek Calendar — Minimal To Do list and Weekly Task Planner App
- - [https://tweek.so](https://tweek.so)
- - date published: 2023-10-25T22:41:31.700370+00:00
- - user: None
- - tags: []
-
-## Vento - Stress-Free Screen Recording
- - [https://vento.so](https://vento.so)
- - date published: 2023-10-25T22:41:33.922119+00:00
- - user: None
- - tags: []
-
-## Vidya's Blog.
- - [https://vidya.so](https://vidya.so)
- - date published: 2024-01-05T10:36:51.533260+00:00
- - user: None
- - tags: []
-
-## https://abolish.social
- - [https://abolish.social](https://abolish.social)
- - date published: 2024-01-09T01:36:30.175981+00:00
- - user: None
- - tags: []
-
-## Aus.Social
- - [https://aus.social](https://aus.social)
- - date published: 2023-10-24T20:13:49.966651+00:00
- - user: None
- - tags: ['mastodon']
-
-## Bluesky
- - [https://bsky.social](https://bsky.social)
- - date published: 2024-02-06T16:01:07.096766+00:00
- - user: None
- - tags: ['social media']
-
-## chaos.social
- - [https://chaos.social](https://chaos.social)
- - date published: 2023-10-24T20:13:50.437577+00:00
- - user: None
- - tags: ['mastodon']
-
-## The Gitea Community is asking Gitea Owners to correct
-conflicts of interest and restore Community Trust.
- - [https://gitea-open-letter.coding.social](https://gitea-open-letter.coding.social)
- - date published: 2023-10-24T20:13:51.584131+00:00
- - user: None
- - tags: ['mastodon']
 

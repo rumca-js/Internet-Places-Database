@@ -794,7 +794,7 @@
  - [https://gab.ai](https://gab.ai)
  - date published: 2024-02-20T17:23:39+00:00
  - user: rumpel
- - tags: ['artificial intelligence']
+ - tags: ['artificial intelligence bot']
 
 ## Gentrace
  - [https://gentrace.ai](https://gentrace.ai)
@@ -902,7 +902,7 @@
  - [https://inflection.ai](https://inflection.ai)
  - date published: 2023-10-25T11:39:23.848682+00:00
  - user: None
- - tags: []
+ - tags: ['artificial intelligence bot']
 
 ## Interconnects | Nathan Lambert | Substack
  - [https://www.interconnects.ai](https://www.interconnects.ai)
@@ -1154,7 +1154,7 @@
  - [https://mistral.ai](https://mistral.ai)
  - date published: 2023-10-25T11:40:19.092823+00:00
  - user: None
- - tags: []
+ - tags: ['artificial intelligence model']
 
 ## MK-1
  - [https://mkone.ai](https://mkone.ai)
@@ -1316,11 +1316,23 @@
  - [https://www.perplexity.ai](https://www.perplexity.ai)
  - date published: 2023-10-25T12:44:02.078801+00:00
  - user: None
- - tags: ['search engine', 'artificial intelligence bot']
+ - tags: ['artificial intelligence bot']
 
 ## PetPic
  - [https://www.petpic.ai](https://www.petpic.ai)
  - date published: 2023-10-25T08:25:31.233721+00:00
+ - user: None
+ - tags: []
+
+## http://hello.pi.ai/
+ - [http://hello.pi.ai](http://hello.pi.ai)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## http://hello.pi.ai/
+ - [https://hello.pi.ai](https://hello.pi.ai)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1405,6 +1417,12 @@
 ## Regex.ai - Artificial Intelligence Regular Expression Generator
  - [https://regex.ai](https://regex.ai)
  - date published: 2023-10-25T11:42:08.349741+00:00
+ - user: None
+ - tags: []
+
+## Relari.ai
+ - [https://www.relari.ai](https://www.relari.ai)
+ - date published: 2024-03-08T15:45:20.667037+00:00
  - user: None
  - tags: []
 
@@ -5978,24 +5996,6 @@
 ## Paul Henman
  - [https://henman.ca](https://henman.ca)
  - date published: 2023-12-12T04:55:06.206081+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Highgo Software Inc.
- - [https://www.highgo.ca](https://www.highgo.ca)
- - date published: 2023-12-18T21:53:17.162282+00:00
- - user: None
- - tags: []
-
-## None
- - [https://hirad.ca](https://hirad.ca)
- - date published: 2023-12-27T18:12:30.676212+00:00
- - user: None
- - tags: ['personal']
-
-## hypatia dot ca – Leigh Honeywell's Blog
- - [https://hypatia.ca](https://hypatia.ca)
- - date published: 2023-10-25T09:25:27.291271+00:00
  - user: None
  - tags: ['personal']
 

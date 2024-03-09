@@ -1,3 +1,288 @@
+## FSFE - Free Software Foundation Europe
+ - [https://fsfe.org](https://fsfe.org)
+ - date published: 2023-10-25T21:23:19.235558+00:00
+ - user: None
+ - tags: []
+
+## Full Fact
+ - [https://fullfact.org](https://fullfact.org)
+ - date published: 2023-10-25T21:23:20.334750+00:00
+ - user: None
+ - tags: []
+
+## Pliant web site
+ - [https://www.fullpliant.org](https://www.fullpliant.org)
+ - date published: 2023-10-25T21:23:24.194863+00:00
+ - user: None
+ - tags: []
+
+## Funtoo
+ - [https://www.funtoo.org](https://www.funtoo.org)
+ - date published: 2023-10-25T21:23:26.324616+00:00
+ - user: None
+ - tags: []
+
+## furbo.org by Craig Hockenberry
+ - [https://furbo.org](https://furbo.org)
+ - date published: 2023-10-25T08:54:39.367362+00:00
+ - user: None
+ - tags: ['personal']
+
+## https://www.furyio.org
+ - [https://www.furyio.org](https://www.furyio.org)
+ - date published: 2024-01-09T03:40:24.165810+00:00
+ - user: None
+ - tags: []
+
+## FUSE-T
+ - [https://www.fuse-t.org](https://www.fuse-t.org)
+ - date published: 2023-10-25T21:23:27.287219+00:00
+ - user: None
+ - tags: []
+
+## Why Futhark?
+ - [https://futhark-lang.org](https://futhark-lang.org)
+ - date published: 2023-10-25T21:23:28.010255+00:00
+ - user: None
+ - tags: []
+
+## FUTO - Bringing control of computing back to the people
+ - [https://futo.org](https://futo.org)
+ - date published: 2023-10-25T11:34:21.566306+00:00
+ - user: None
+ - tags: []
+
+## Sign in · GitLab
+ - [https://gitlab.futo.org](https://gitlab.futo.org)
+ - date published: 2023-10-25T21:23:29.252807+00:00
+ - user: None
+ - tags: []
+
+## FutureMe: Write a Letter to your Future Self
+ - [https://www.futureme.org](https://www.futureme.org)
+ - date published: 2024-02-06T14:56:37.812916+00:00
+ - user: None
+ - tags: ['web application']
+
+## Home - Future of Life Institute
+ - [https://futureoflife.org](https://futureoflife.org)
+ - date published: 2023-10-25T21:23:32.572356+00:00
+ - user: None
+ - tags: []
+
+## Pause Giant Superconductor Experiments
+ - [https://futureofliff.org](https://futureofliff.org)
+ - date published: 2023-10-25T21:23:37.964754+00:00
+ - user: None
+ - tags: []
+
+## Futurity: Research News from Top Universities
+ - [https://www.futurity.org](https://www.futurity.org)
+ - date published: 2023-10-25T21:23:40.912905+00:00
+ - user: None
+ - tags: []
+
+## LVFS: Home
+ - [https://fwupd.org](https://fwupd.org)
+ - date published: 2023-10-25T21:23:45.839751+00:00
+ - user: None
+ - tags: []
+
+## Gabarro
+ - [https://gabarro.org](https://gabarro.org)
+ - date published: 2024-01-09T03:40:26.087667+00:00
+ - user: None
+ - tags: []
+
+## Gadgetbridge for android
+ - [https://gadgetbridge.org](https://gadgetbridge.org)
+ - date published: 2023-10-25T21:23:47.950756+00:00
+ - user: None
+ - tags: []
+
+## Galactica Demo
+ - [https://galactica.org](https://galactica.org)
+ - date published: 2023-10-25T21:23:49.587771+00:00
+ - user: None
+ - tags: []
+
+## Galactic Anthropology
+ - [https://galacticanthropology.org](https://galacticanthropology.org)
+ - date published: 2024-02-08T16:34:29.619962+00:00
+ - user: None
+ - tags: []
+
+## Galène videoconference server
+ - [https://galene.org](https://galene.org)
+ - date published: 2023-10-27T12:06:39.811505+00:00
+ - user: None
+ - tags: []
+
+## GameBrew - SWITCH PS4 PS5 PS3 VITA PSP WII DS 3DS XBOX - Latest Homebrews, Apps, Games, Emulators and More
+ - [https://www.gamebrew.org](https://www.gamebrew.org)
+ - date published: 2023-11-25T04:19:34.708741+00:00
+ - user: None
+ - tags: []
+
+## Home | Video Game History Foundation
+ - [https://gamehistory.org](https://gamehistory.org)
+ - date published: 2023-10-25T21:24:05.080231+00:00
+ - user: None
+ - tags: ['video games', 'digital library']
+
+## WWW.GAMERS.ORG
+ - [https://www.gamers.org](https://www.gamers.org)
+ - date published: 2023-10-25T21:24:07.317158+00:00
+ - user: None
+ - tags: []
+
+## Gamesboro Radio
+ - [http://radio.gamesboro.org](http://radio.gamesboro.org)
+ - date published: 2024-02-15T02:00:21.565467+00:00
+ - user: None
+ - tags: []
+
+## Gamesboro Radio
+ - [https://radio.gamesboro.org](https://radio.gamesboro.org)
+ - date published: 2024-02-15T22:13:54.975381+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Gamesboro Shoutcast
+ - [http://shoutcast.gamesboro.org](http://shoutcast.gamesboro.org)
+ - date published: 2024-02-15T05:08:18.936845+00:00
+ - user: None
+ - tags: ['video game music']
+
+## Gapminder
+ - [https://www.gapminder.org](https://www.gapminder.org)
+ - date published: 2023-12-26T17:42:30.187297+00:00
+ - user: None
+ - tags: []
+
+## Garamonpatrimoine (Graphê) : Sauver le patrimoine de l'Imprimerie
+  nationale
+ - [https://www.garamonpatrimoine.org](https://www.garamonpatrimoine.org)
+ - date published: 2024-02-08T21:48:45.538996+00:00
+ - user: None
+ - tags: []
+
+## This page has moved!
+ - [https://personal.garrettfuller.org](https://personal.garrettfuller.org)
+ - date published: 2023-10-25T21:24:13.310361+00:00
+ - user: None
+ - tags: []
+
+## Garuda Linux Official website
+ - [https://garudalinux.org](https://garudalinux.org)
+ - date published: 2023-11-06T10:07:20.126296+00:00
+ - user: None
+ - tags: ['operating system', 'linux']
+
+## Bill & Melinda Gates Foundation
+ - [https://www.gatesfoundation.org](https://www.gatesfoundation.org)
+ - date published: 2023-11-03T13:52:16.890501+00:00
+ - user: None
+ - tags: ['foundation']
+
+## The Gathering
+ - [https://www.gathering.org](https://www.gathering.org)
+ - date published: 2024-02-06T13:54:39.897585+00:00
+ - user: None
+ - tags: ['retro games', 'demoscene']
+
+## Gavi, the Vaccine Alliance
+ - [https://www.gavi.org](https://www.gavi.org)
+ - date published: 2023-10-25T21:24:19.083058+00:00
+ - user: None
+ - tags: []
+
+## The GDELT Project
+ - [https://blog.gdeltproject.org](https://blog.gdeltproject.org)
+ - date published: 2024-02-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ | Geany
+ - [https://geany.org](https://geany.org)
+ - date published: 2023-11-01T08:44:20.592858+00:00
+ - user: None
+ - tags: []
+
+## Home
+ | Geany
+ - [https://www.geany.org](https://www.geany.org)
+ - date published: 2023-10-27T13:13:54.781191+00:00
+ - user: None
+ - tags: ['programming ide']
+
+## genehack.org
+ - [https://genehack.org](https://genehack.org)
+ - date published: 2023-11-29T17:07:42.761149+00:00
+ - user: None
+ - tags: ['personal']
+
+## Genetic Literacy Project | Science Not Ideology
+ - [https://geneticliteracyproject.org](https://geneticliteracyproject.org)
+ - date published: 2023-10-25T21:24:26.578613+00:00
+ - user: None
+ - tags: []
+
+## Genode - Genode Operating System Framework
+ - [https://genode.org](https://genode.org)
+ - date published: 2023-10-29T22:06:15.188212+00:00
+ - user: None
+ - tags: []
+
+## Genodians.org - Stories around the Genode Operating System
+ - [https://genodians.org](https://genodians.org)
+ - date published: 2023-10-25T21:24:29.740509+00:00
+ - user: None
+ - tags: []
+
+## Gentoo Wiki
+ - [https://wiki.gentoo.org](https://wiki.gentoo.org)
+ - date published: 2023-10-25T21:24:31.672851+00:00
+ - user: None
+ - tags: []
+
+## Welcome – Gentoo Linux
+ - [https://www.gentoo.org](https://www.gentoo.org)
+ - date published: 2023-10-25T08:32:16.955736+00:00
+ - user: None
+ - tags: ['operating system']
+
+## Professor Peck
+ - [https://peck.geoengineer.org](https://peck.geoengineer.org)
+ - date published: 2023-10-25T21:24:33.960963+00:00
+ - user: None
+ - tags: []
+
+## Geoffrey Brown | Design & Innovation
+ - [https://www.geoffbrown.org](https://www.geoffbrown.org)
+ - date published: 2024-01-16T17:02:33.670436+00:00
+ - user: None
+ - tags: []
+
+## Hello! I’m George (a.k.a. eigenfoo) | George Ho
+ - [https://www.georgeho.org](https://www.georgeho.org)
+ - date published: 2023-10-25T21:24:36.198262+00:00
+ - user: None
+ - tags: []
+
+## George Orwell - Complete works, Biography, Quotes, Essays
+ - [https://www.george-orwell.org](https://www.george-orwell.org)
+ - date published: 2023-10-25T21:24:35.469965+00:00
+ - user: None
+ - tags: []
+
+## GeoScienceWorld
+ - [https://pubs.geoscienceworld.org](https://pubs.geoscienceworld.org)
+ - date published: 2023-10-25T21:24:38.489509+00:00
+ - user: None
+ - tags: []
+
 ## GeoServer
  - [https://geoserver.org](https://geoserver.org)
  - date published: 2023-10-25T21:24:39.577688+00:00
@@ -1284,16 +1569,16 @@
  - tags: []
 
 ## Draw Freely | Inkscape
- - [https://www.inkscape.org](https://www.inkscape.org)
- - date published: 2023-12-12T09:13:16+00:00
- - user: None
- - tags: ['vector graphics']
-
-## Draw Freely | Inkscape
  - [http://www.inkscape.org](http://www.inkscape.org)
  - date published: 2024-02-26T09:27:07.298333+00:00
  - user: None
  - tags: []
+
+## Draw Freely | Inkscape
+ - [https://www.inkscape.org](https://www.inkscape.org)
+ - date published: 2023-12-12T09:13:16+00:00
+ - user: None
+ - tags: ['vector graphics']
 
 ## Ink/Stitch: An open-source machine embroidery design platform based on Inkscape
  - [https://inkstitch.org](https://inkstitch.org)
@@ -1959,6 +2244,12 @@ Welcome
 ## jwz.org
  - [https://www.jwz.org](https://www.jwz.org)
  - date published: 2022-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Jyotirgamya
+ - [https://jyotirgamya.org](https://jyotirgamya.org)
+ - date published: 2024-03-08T16:31:42.318651+00:00
  - user: None
  - tags: []
 
@@ -3207,14 +3498,14 @@ Hosted by Panix.com.
  - tags: ['personal']
 
 ## MarTech
- - [https://martech.org](https://martech.org)
- - date published: 2024-01-09T05:07:40.902644+00:00
+ - [http://martech.org](http://martech.org)
+ - date published: 2024-02-26T08:57:00.132467+00:00
  - user: None
  - tags: []
 
 ## MarTech
- - [http://martech.org](http://martech.org)
- - date published: 2024-02-26T08:57:00.132467+00:00
+ - [https://martech.org](https://martech.org)
+ - date published: 2024-01-09T05:07:40.902644+00:00
  - user: None
  - tags: []
 
@@ -3948,17 +4239,17 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
-## Pocket | Discover, Capture and Savor Content That Fascinates You
- - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
- - date published: 2023-11-13T13:38:32+00:00
- - user: rumpel
- - tags: ['bookmark manager', 'link aggregation']
-
 ## Internet for people, not profit — Mozilla (US)
  - [https://www.mozilla.org](https://www.mozilla.org)
  - date published: 2023-10-25T09:27:30.838308+00:00
  - user: None
  - tags: ['organization', 'company', 'web browser', 'firefox', 'thunderbird']
+
+## Pocket | Discover, Capture and Savor Content That Fascinates You
+ - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
+ - date published: 2023-11-13T13:38:32+00:00
+ - user: rumpel
+ - tags: ['bookmark manager', 'link aggregation']
 
 ## Nextcloud
  - [https://nce.mpi-sp.org](https://nce.mpi-sp.org)
@@ -5717,293 +6008,4 @@ Common Weakness Enumeration
  - date published: 2024-02-26T09:41:50.635475+00:00
  - user: None
  - tags: []
-
-## A Grand Theft Auto III Re-Implementation
- - [https://openrw.org](https://openrw.org)
- - date published: 2023-10-31T19:53:00+00:00
- - user: rumpel
- - tags: ['grand theft auto', 'open source', 'game']
-
-## OpenSAFELY: Home
- - [https://www.opensafely.org](https://www.opensafely.org)
- - date published: 2023-10-25T21:53:15.561678+00:00
- - user: None
- - tags: []
-
-## Home - The Open Sanctuary Project
- - [https://opensanctuary.org](https://opensanctuary.org)
- - date published: 2023-10-25T21:53:20.102001+00:00
- - user: None
- - tags: []
-
-## OpenSCAD
- - [https://www.openscad.org](https://www.openscad.org)
- - date published: 2023-10-27T10:20:28.967315+00:00
- - user: None
- - tags: ['cad software', 'open source']
-
-## OpenSecrets
- - [http://opensecrets.org](http://opensecrets.org)
- - date published: 2024-02-26T09:42:51.857004+00:00
- - user: None
- - tags: []
-
-## OpenSecrets
- - [https://www.opensecrets.org](https://www.opensecrets.org)
- - date published: 2023-10-25T21:53:23.720431+00:00
- - user: None
- - tags: ['news', 'politics']
-
-## Scale your e-commerce operations by using multi-channel fulfillment | Openship
- - [https://openship.org](https://openship.org)
- - date published: 2023-10-25T21:53:32.292650+00:00
- - user: None
- - tags: []
-
-## Home - Voices of Open Source
- - [https://blog.opensource.org](https://blog.opensource.org)
- - date published: 2023-10-25T21:53:35.210044+00:00
- - user: None
- - tags: []
-
-## OSI Discuss
- - [https://discuss.opensource.org](https://discuss.opensource.org)
- - date published: 2024-01-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Open Source Initiative
- - [https://opensource.org](https://opensource.org)
- - date published: 2023-12-13T15:37:03.108899+00:00
- - user: None
- - tags: ['open source']
-
-## Open Source Research Institutue :: Main / HomePage
- - [https://opensourceresearchinstitute.org](https://opensourceresearchinstitute.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## OpenSSF Best Practices Working Group (WG)
- - [https://best.openssf.org](https://best.openssf.org)
- - date published: 2023-12-01T12:40:53.021877+00:00
- - user: None
- - tags: []
-
-## Home - Open Source Security Foundation
- - [https://openssf.org](https://openssf.org)
- - date published: 2023-10-25T21:53:38.058024+00:00
- - user: None
- - tags: []
-
-## https://mta.openssl.org
- - [https://mta.openssl.org](https://mta.openssl.org)
- - date published: 2024-01-09T03:41:54.854164+00:00
- - user: None
- - tags: []
-
-## /index.html
- - [https://www.openssl.org](https://www.openssl.org)
- - date published: 2023-10-25T21:53:40.757319+00:00
- - user: None
- - tags: []
-
-## Open Standards
- - [https://www.open-std.org](https://www.open-std.org)
- - date published: 2023-10-25T21:52:16.128054+00:00
- - user: None
- - tags: []
-
-## Home | Open Steno Project
- - [https://www.openstenoproject.org](https://www.openstenoproject.org)
- - date published: 2023-10-25T21:53:42.685049+00:00
- - user: None
- - tags: []
-
-## OpenStreetMap Blog | Supporting the OpenStreetMap project
- - [https://blog.openstreetmap.org](https://blog.openstreetmap.org)
- - date published: 2023-10-25T21:54:00.090175+00:00
- - user: None
- - tags: []
-
-## OpenStreetMap Wiki
- - [https://wiki.openstreetmap.org](https://wiki.openstreetmap.org)
- - date published: 2024-02-14T11:16:27.221847+00:00
- - user: None
- - tags: []
-
-## OpenStreetMap
- - [https://www.openstreetmap.org](https://www.openstreetmap.org)
- - date published: 2023-10-25T08:25:21.448647+00:00
- - user: None
- - tags: ['open street maps', 'service maps', 'open source', 'maps']
-
-## Subtitles - download movie and TV Series subtitles
- - [https://www.opensubtitles.org](https://www.opensubtitles.org)
- - date published: 2024-02-26T15:02:52.454348+00:00
- - user: None
- - tags: []
-
-## Get openSUSE
- - [https://get.opensuse.org](https://get.opensuse.org)
- - date published: 2023-10-25T21:54:02.204473+00:00
- - user: None
- - tags: []
-
-## openSUSE News
- - [https://news.opensuse.org](https://news.opensuse.org)
- - date published: 2023-10-25T21:54:11.240130+00:00
- - user: None
- - tags: []
-
-## https://opentf.org
- - [https://opentf.org](https://opentf.org)
- - date published: 2023-10-25T21:54:12.348282+00:00
- - user: None
- - tags: []
-
-## OpenTofu
- - [https://opentofu.org](https://opentofu.org)
- - date published: 2023-10-25T21:54:15.162985+00:00
- - user: None
- - tags: []
-
-## Opalstack: no site here.... yet!
- - [https://opentranscripts.org](https://opentranscripts.org)
- - date published: 2024-01-09T03:41:56.346236+00:00
- - user: None
- - tags: []
-
-## Open Transcripts
- - [http://opentranscripts.org](http://opentranscripts.org)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## OpenTTD | OpenTTD's Wiki
- - [https://wiki.openttd.org](https://wiki.openttd.org)
- - date published: 2023-10-25T21:54:22.399587+00:00
- - user: None
- - tags: []
-
-## OpenTTD | Home
- - [https://www.openttd.org](https://www.openttd.org)
- - date published: 2023-10-25T21:54:30.332521+00:00
- - user: None
- - tags: []
-
-## Open Web Advocacy
- - [https://open-web-advocacy.org](https://open-web-advocacy.org)
- - date published: 2024-03-06T00:00:00+00:00
- - user: None
- - tags: ['community', 'internet']
-
-## Open Web Docs
- - [https://openwebdocs.org](https://openwebdocs.org)
- - date published: 2023-10-25T21:54:33.151027+00:00
- - user: None
- - tags: []
-
-## OpenWrt Mailing Lists
- - [https://lists.openwrt.org](https://lists.openwrt.org)
- - date published: 2024-01-10T22:07:03.931154+00:00
- - user: None
- - tags: []
-
-## [OpenWrt Wiki] Welcome to the OpenWrt Project
- - [https://openwrt.org](https://openwrt.org)
- - date published: 2023-10-25T21:54:37.020038+00:00
- - user: None
- - tags: ['operating system', 'routers']
-
-## OPNsense® a true open source security platform and more - OPNsense® is a true open source firewall and more
- - [https://opnsense.org](https://opnsense.org)
- - date published: 2023-10-25T21:54:42.178862+00:00
- - user: None
- - tags: []
-
-## Optica Publishing Group
- - [https://opg.optica.org](https://opg.optica.org)
- - date published: 2023-10-25T21:54:45.913732+00:00
- - user: None
- - tags: []
-
-## Home | Optica
- - [https://www.optica.org](https://www.optica.org)
- - date published: 2023-10-25T21:54:49.744968+00:00
- - user: None
- - tags: []
-
-## Opus Codec
- - [https://opus-codec.org](https://opus-codec.org)
- - date published: 2024-03-04T18:53:51.122979+00:00
- - user: None
- - tags: []
-
-## Orange Pi - Orange Pi official website - Orange Pi development board, open source hardware, open source
-        software, open source chip, computer keyboard
- - [http://www.orangepi.org](http://www.orangepi.org)
- - date published: 2023-10-25T21:54:52.162979+00:00
- - user: None
- - tags: []
-
-## Organiser Weekly - Voice of the Nation
- - [https://organiser.org](https://organiser.org)
- - date published: 2023-11-25T22:29:38.591315+00:00
- - user: None
- - tags: []
-
-## Orion Magazine | Nature, Culture & Place
- - [https://orionmagazine.org](https://orionmagazine.org)
- - date published: 2023-10-25T21:54:59.353571+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.osborne-conant.org](https://www.osborne-conant.org)
- - date published: 2024-02-08T17:50:52.925851+00:00
- - user: None
- - tags: []
-
-## Orlando Science Center: A Hands-On Science Museum in Central Florida
- - [https://www.osc.org](https://www.osc.org)
- - date published: 2024-01-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Oscars.org | Academy of Motion Picture Arts and Sciences
- - [https://www.oscars.org](https://www.oscars.org)
- - date published: 2024-01-12T21:10:31+00:00
- - user: rumpel
- - tags: ['oscars']
-
-## Expanded Main Page - OSDev Wiki
- - [https://wiki.osdev.org](https://wiki.osdev.org)
- - date published: 2023-12-26T20:32:40.382941+00:00
- - user: None
- - tags: []
-
-## Rod's Slide Rules
- - [https://osgalleries.org](https://osgalleries.org)
- - date published: 2023-10-25T21:55:08.267829+00:00
- - user: None
- - tags: []
-
-## OS.js Web Desktop
- - [https://www.os-js.org](https://www.os-js.org)
- - date published: 2023-10-25T21:55:06.625725+00:00
- - user: None
- - tags: []
-
-## Osmapp – A Universal OpenStreetMap App
- - [https://osmapp.org](https://osmapp.org)
- - date published: 2023-12-28T17:05:25+00:00
- - user: None
- - tags: []
-
-## OSM Buildings
- - [https://osmbuildings.org](https://osmbuildings.org)
- - date published: 2023-12-24T08:15:03+00:00
- - user: rumpel
- - tags: ['service maps']
 

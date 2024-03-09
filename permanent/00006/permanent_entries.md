@@ -1,3 +1,69 @@
+## Android Developers Blog
+ - [https://android-developers.googleblog.com](https://android-developers.googleblog.com)
+ - date published: 2023-10-25T14:47:48.044830+00:00
+ - user: None
+ - tags: []
+
+## Chrome Releases
+ - [https://chromereleases.googleblog.com](https://chromereleases.googleblog.com)
+ - date published: 2023-10-25T08:40:21.923612+00:00
+ - user: None
+ - tags: []
+
+## Google for Developers Blog - News about Web, Mobile, AI and Cloud
+ - [https://developers.googleblog.com](https://developers.googleblog.com)
+ - date published: 2023-10-25T14:47:51.773508+00:00
+ - user: None
+ - tags: []
+
+## Google Open Source Blog
+ - [https://opensource.googleblog.com](https://opensource.googleblog.com)
+ - date published: 2023-10-25T14:47:58.744853+00:00
+ - user: None
+ - tags: []
+
+## Google Online Security Blog
+ - [https://security.googleblog.com](https://security.googleblog.com)
+ - date published: 2023-10-25T14:48:05.962532+00:00
+ - user: None
+ - tags: []
+
+## Google Testing Blog
+ - [https://testing.googleblog.com](https://testing.googleblog.com)
+ - date published: 2023-10-25T14:48:14.831580+00:00
+ - user: None
+ - tags: []
+
+## Google Workspace Updates
+ - [https://workspaceupdates.googleblog.com](https://workspaceupdates.googleblog.com)
+ - date published: 2023-10-25T14:48:23.843748+00:00
+ - user: None
+ - tags: []
+
+## Google Workspace Updates
+ - [http://workspaceupdates.googleblog.com](http://workspaceupdates.googleblog.com)
+ - date published: 2024-02-25T20:31:11.754780+00:00
+ - user: None
+ - tags: []
+
+## Latest News
+ - [https://www.googlecloudpresscorner.com](https://www.googlecloudpresscorner.com)
+ - date published: 2023-10-25T14:48:27.491701+00:00
+ - user: None
+ - tags: []
+
+## Error 404 (Not Found)!!1
+ - [https://allbloggertips.googlecode.com](https://allbloggertips.googlecode.com)
+ - date published: 2023-12-11T16:51:59.464647+00:00
+ - user: None
+ - tags: []
+
+## Home - Google Play Developer Antitrust Litigation
+ - [https://www.googleplaydevelopersettlement.com](https://www.googleplaydevelopersettlement.com)
+ - date published: 2023-10-25T14:48:29.645146+00:00
+ - user: None
+ - tags: []
+
 ## chromium Git repositories - Git at Google
  - [https://chromium.googlesource.com](https://chromium.googlesource.com)
  - date published: 2023-10-25T14:49:01.290226+00:00
@@ -1073,7 +1139,7 @@
  - [https://www.hackerrank.com](https://www.hackerrank.com)
  - date published: 2023-10-25T14:54:54.856781+00:00
  - user: None
- - tags: []
+ - tags: ['programming tutorials']
 
 ## Show HN: Build your startup or side project faster with these SaaS templates
  - [https://hackerstartup.com](https://hackerstartup.com)
@@ -1859,7 +1925,7 @@
  - [https://herbsutter.com](https://herbsutter.com)
  - date published: 2023-10-25T14:58:30.195792+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## HeritageDaily - Archaeology News | Latest archaeology news, archaeological discoveries from across the globe
  - [https://www.heritagedaily.com](https://www.heritagedaily.com)
@@ -3265,6 +3331,12 @@
  - user: None
  - tags: ['personal']
 
+## IAR
+ - [https://iar.com](https://iar.com)
+ - date published: 1983-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['embeded programming']
+
 ## Iowa State University Digital Press
  - [https://www.iastatedigitalpress.com](https://www.iastatedigitalpress.com)
  - date published: 2000-01-01T00:00:00+00:00
@@ -3667,6 +3739,12 @@
  - user: None
  - tags: []
 
+## iMore - Apple News, Reviews, Deals, & Help | Learn more. Be more.
+ - [https://www.imore.com](https://www.imore.com)
+ - date published: 2024-03-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Implications, by Scott Belsky | Substack
  - [https://www.implications.com](https://www.implications.com)
  - date published: 2023-11-01T08:42:20.362167+00:00
@@ -4008,6 +4086,12 @@
  - date published: 2023-12-24T15:28:57.928659+00:00
  - user: None
  - tags: []
+
+## InformIT: The Trusted Technology Source for IT Pros and Developers
+ - [https://www.informit.com](https://www.informit.com)
+ - date published: 2024-03-08T12:30:58+00:00
+ - user: rumpel
+ - tags: ['technology']
 
 ## None
  - [https://www.infostealers.com](https://www.infostealers.com)
@@ -5916,88 +6000,4 @@
  - date published: 2024-01-06T08:55:43.170901+00:00
  - user: None
  - tags: []
-
-## Jeff Kaufman
- - [https://www.jefftk.com](https://www.jefftk.com)
- - date published: 2023-10-25T09:20:58.479167+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://jefftriplett.com](https://jefftriplett.com)
- - date published: 2023-11-29T17:06:17.889307+00:00
- - user: None
- - tags: ['personal']
-
-## Holy Ghost Stories – Faith, technology, and everything in between.
- - [https://www.jeffwofford.com](https://www.jeffwofford.com)
- - date published: 2023-11-10T23:40:06.837839+00:00
- - user: None
- - tags: []
-
-## Jellylade
- - [https://app.jellylade.com](https://app.jellylade.com)
- - date published: 2023-10-25T15:27:58.907008+00:00
- - user: None
- - tags: []
-
-## Literature Clock
- - [https://literature-clock.jenevoldsen.com](https://literature-clock.jenevoldsen.com)
- - date published: 2023-10-25T15:27:59.485399+00:00
- - user: None
- - tags: []
-
-## Jen Kuo | Advisor. Consultant. Guide.
- - [https://jenkuo.com](https://jenkuo.com)
- - date published: 2024-01-18T16:42:20.541388+00:00
- - user: None
- - tags: []
-
-## Jenna Britton
- - [https://www.jennabritton.com](https://www.jennabritton.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Jennifer Pepper—Marketing & Brand Leader
- - [https://jennifer-pepper.com](https://jennifer-pepper.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://www.jenniferrossehamm.com
- - [https://www.jenniferrossehamm.com](https://www.jenniferrossehamm.com)
- - date published: 2024-01-10T22:40:55.887100+00:00
- - user: None
- - tags: ['personal']
-
-## JERAD HILL - DIGITAL MARKETER, YOUTUBER, CREATOR, HUSBAND, FATHER, PILOT, AMERICAN 🇺🇸
- - [https://jeradhill.com](https://jeradhill.com)
- - date published: 2023-08-15T17:30:54+00:00
- - user: None
- - tags: []
-
-## Jeremey DuVall — Customer-Focused Product Manager
- - [https://jeremeyduvall.com](https://jeremeyduvall.com)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Jeremiah Lee
- - [https://www.jeremiahlee.com](https://www.jeremiahlee.com)
- - date published: 2024-01-09T11:06:14.555745+00:00
- - user: None
- - tags: []
-
-## 👋🏻 - Jeremia on the internet
- - [https://www.jeremiak.com](https://www.jeremiak.com)
- - date published: 2023-10-25T15:28:00.104721+00:00
- - user: None
- - tags: []
-
-## WHY EDIFY
- - [https://www.jeremyajorgensen.com](https://www.jeremyajorgensen.com)
- - date published: 2023-11-29T15:48:09.478619+00:00
- - user: None
- - tags: ['personal']
 

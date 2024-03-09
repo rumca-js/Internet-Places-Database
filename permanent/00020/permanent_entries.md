@@ -1,3 +1,255 @@
+## [HOPE XV] Welcome to Hackers On Planet Earth!
+ - [https://www.hope.net](https://www.hope.net)
+ - date published: 2024-01-23T19:08:02.452152+00:00
+ - user: None
+ - tags: ['hacking', 'community event']
+
+## Howard Gray
+ - [https://howardgray.net](https://howardgray.net)
+ - date published: 2023-12-20T05:38:59.905716+00:00
+ - user: None
+ - tags: ['personal']
+
+## Howard Gray
+ - [https://www.howardgray.net](https://www.howardgray.net)
+ - date published: 2024-02-25T20:46:35.738578+00:00
+ - user: None
+ - tags: []
+
+## Show HN: How did YOUR computer reach my server?
+ - [https://how-did-i-get-here.net](https://how-did-i-get-here.net)
+ - date published: 2023-12-05T14:56:25+00:00
+ - user: None
+ - tags: []
+
+## https://www.hughrundle.net
+ - [https://www.hughrundle.net](https://www.hughrundle.net)
+ - date published: 2024-01-09T03:35:37.074436+00:00
+ - user: None
+ - tags: []
+
+## Welcome
+ - [https://huntertur.net](https://huntertur.net)
+ - date published: 2023-10-25T20:31:39.306377+00:00
+ - user: None
+ - tags: []
+
+## 500'000€ Prize for Compressing Human Knowledge
+ - [http://prize.hutter1.net](http://prize.hutter1.net)
+ - date published: 2023-10-25T20:31:40.973909+00:00
+ - user: None
+ - tags: []
+
+## Dead End
+ - [https://imp.i328067.net](https://imp.i328067.net)
+ - date published: 2023-11-26T05:00:50.816382+00:00
+ - user: None
+ - tags: []
+
+## iA - Home
+ - [http://ia.net](http://ia.net)
+ - date published: 2024-02-26T14:54:49.326176+00:00
+ - user: None
+ - tags: []
+
+## Home – iA
+ - [https://ia.net](https://ia.net)
+ - date published: 2023-10-25T20:31:41.939052+00:00
+ - user: None
+ - tags: []
+
+## The Blog of Ian Robinson
+ - [https://ianrobinson.net](https://ianrobinson.net)
+ - date published: 2023-12-24T02:31:15.416614+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ido Perlmuter
+ - [https://ido50.net](https://ido50.net)
+ - date published: 2023-10-25T20:31:42.586769+00:00
+ - user: None
+ - tags: []
+
+## ignore the code
+ - [https://ignorethecode.net](https://ignorethecode.net)
+ - date published: 2023-10-25T20:31:48.804771+00:00
+ - user: None
+ - tags: []
+
+## The Most Officialest SkiFree Home Page
+ - [https://ski.ihoc.net](https://ski.ihoc.net)
+ - date published: 2023-10-25T20:31:50.207165+00:00
+ - user: None
+ - tags: []
+
+## IHOC Quake
+ - [http://www.quake.ihoc.net](http://www.quake.ihoc.net)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DIY, hacks, experiments, machine learning, IoT and more - Ikkaro
+ - [https://www.ikkaro.net](https://www.ikkaro.net)
+ - date published: 2024-01-16T17:01:30.769145+00:00
+ - user: None
+ - tags: []
+
+## Report a Fireball
+ - [https://ams.imo.net](https://ams.imo.net)
+ - date published: 2023-10-25T20:31:51.974716+00:00
+ - user: None
+ - tags: []
+
+## Gergely Imreh
+ - [https://gergely.imreh.net](https://gergely.imreh.net)
+ - date published: 2023-12-22T22:28:32.040063+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rich Sutton's Home Page
+ - [http://incompleteideas.net](http://incompleteideas.net)
+ - date published: 2023-10-25T08:52:45.098056+00:00
+ - user: None
+ - tags: ['personal']
+
+## Indie Web Journal – Reclaim Your Computing
+ - [https://indiewebjournal.net](https://indiewebjournal.net)
+ - date published: 2024-01-11T12:21:42.752079+00:00
+ - user: None
+ - tags: []
+
+## blog dot information dash superhighway dot net
+ - [https://blog.information-superhighway.net](https://blog.information-superhighway.net)
+ - date published: 2023-10-25T20:31:53.286397+00:00
+ - user: None
+ - tags: []
+
+## Initial Charge
+ - [https://initialcharge.net](https://initialcharge.net)
+ - date published: 2023-12-25T17:18:40.551487+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mi vida en el Tíbet y los Himalayas
+ - [https://inocuo.net](https://inocuo.net)
+ - date published: 2023-11-29T15:50:23.707008+00:00
+ - user: None
+ - tags: ['personal']
+
+## InPics Solutions - Free computer tutorials
+ - [https://inpics.net](https://inpics.net)
+ - date published: 2024-02-25T20:50:49.985525+00:00
+ - user: None
+ - tags: []
+
+## Global News - Breaking International News And Headlines | Inquirer.net
+ - [https://globalnation.inquirer.net](https://globalnation.inquirer.net)
+ - date published: 2023-11-15T04:42:15.760501+00:00
+ - user: None
+ - tags: []
+
+## Philippines Top Stories: Politics, Environment, Education, Trending | Inquirer.net
+ - [https://newsinfo.inquirer.net](https://newsinfo.inquirer.net)
+ - date published: 2023-10-25T20:31:56.026133+00:00
+ - user: None
+ - tags: []
+
+## Inquirer Technology | Philippine News for Filipinos
+ - [https://technology.inquirer.net](https://technology.inquirer.net)
+ - date published: 2023-10-25T20:31:58.708336+00:00
+ - user: None
+ - tags: []
+
+## Eleanor on Everything | Eleanor Berger | Substack
+ - [https://everything.intellectronica.net](https://everything.intellectronica.net)
+ - date published: 2023-10-25T20:32:05.438974+00:00
+ - user: None
+ - tags: []
+
+## https://www.inverary.net
+ - [https://www.inverary.net](https://www.inverary.net)
+ - date published: 2024-01-09T03:35:38.792207+00:00
+ - user: None
+ - tags: []
+
+## Welcome - IRCv3
+ - [https://ircv3.net](https://ircv3.net)
+ - date published: 2023-10-25T20:32:06.852691+00:00
+ - user: None
+ - tags: []
+
+## Irene Posch |
+ - [https://ireneposch.net](https://ireneposch.net)
+ - date published: 2019-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Iron_Geek
+ - [https://irongeek.net](https://irongeek.net)
+ - date published: 2024-01-01T03:39:37.772704+00:00
+ - user: None
+ - tags: []
+
+## IronPython.net /
+ - [https://ironpython.net](https://ironpython.net)
+ - date published: 2023-11-27T11:35:31+00:00
+ - user: rumpel
+ - tags: []
+
+## None
+ - [https://blog.izissise.net](https://blog.izissise.net)
+ - date published: 2024-03-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Holy on Dev
+ - [https://blog.jakubholy.net](https://blog.jakubholy.net)
+ - date published: 2023-10-25T20:32:08.234661+00:00
+ - user: None
+ - tags: []
+
+## Links
+ - [https://jamesgarside.net](https://jamesgarside.net)
+ - date published: 2023-12-09T10:38:27.116119+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jami
+ - [https://jami.net](https://jami.net)
+ - date published: 2023-10-25T08:33:33.108947+00:00
+ - user: None
+ - tags: []
+
+## jasminek.net
+ - [https://jasminek.net](https://jasminek.net)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Jason Griffey
+ - [https://jasongriffey.net](https://jasongriffey.net)
+ - date published: 2024-03-05T13:54:25.556874+00:00
+ - user: None
+ - tags: []
+
+## 賴建順 Jason J. Lai
+ - [https://www.jasonjlai.net](https://www.jasonjlai.net)
+ - date published: 2024-01-12T10:32:27.978785+00:00
+ - user: None
+ - tags: []
+
+## Software Download | Oracle
+ - [https://download.java.net](https://download.java.net)
+ - date published: 2023-10-25T20:32:12.072850+00:00
+ - user: None
+ - tags: []
+
+## JDK Builds from Oracle
+ - [https://jdk.java.net](https://jdk.java.net)
+ - date published: 2023-10-25T20:32:13.251661+00:00
+ - user: None
+ - tags: []
+
 ## Tim Zöller
  - [https://javahippie.net](https://javahippie.net)
  - date published: 2023-10-25T08:52:46.073444+00:00
@@ -516,14 +768,14 @@
  - tags: []
 
 ## linusakesson.net
- - [http://www.linusakesson.net](http://www.linusakesson.net)
- - date published: 2024-02-26T15:13:06.998772+00:00
+ - [https://www.linusakesson.net](https://www.linusakesson.net)
+ - date published: 2023-10-25T20:33:01.198358+00:00
  - user: None
  - tags: []
 
 ## linusakesson.net
- - [https://www.linusakesson.net](https://www.linusakesson.net)
- - date published: 2023-10-25T20:33:01.198358+00:00
+ - [http://www.linusakesson.net](http://www.linusakesson.net)
+ - date published: 2024-02-26T15:13:06.998772+00:00
  - user: None
  - tags: []
 
@@ -540,16 +792,16 @@
  - tags: ['demoscene']
 
 ## [Liquid DooM]
- - [https://liquiddoom.net](https://liquiddoom.net)
- - date published: 2024-02-15T22:13:28.553273+00:00
- - user: None
- - tags: ['demoscene']
-
-## [Liquid DooM]
  - [http://liquiddoom.net](http://liquiddoom.net)
  - date published: 2024-02-11T14:38:30.795082+00:00
  - user: None
  - tags: ['doom', 'video game music']
+
+## [Liquid DooM]
+ - [https://liquiddoom.net](https://liquiddoom.net)
+ - date published: 2024-02-15T22:13:28.553273+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Liquipedia
  - [https://liquipedia.net](https://liquipedia.net)
@@ -1367,6 +1619,12 @@
  - user: None
  - tags: ['personal']
 
+## Noisy Pixel - Gaming, Etc.
+ - [https://noisypixel.net](https://noisypixel.net)
+ - date published: 2021-01-04T10:20:48+00:00
+ - user: None
+ - tags: []
+
 ## Home
  - [https://www.noodl.net](https://www.noodl.net)
  - date published: 2023-10-25T20:34:37.399098+00:00
@@ -1867,16 +2125,16 @@
  - tags: ['cory doctorow', 'internet forum']
 
 ## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
- - [http://pluralistic.net](http://pluralistic.net)
- - date published: 2024-02-24T18:22:24.558627+00:00
- - user: None
- - tags: []
-
-## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
  - [https://pluralistic.net](https://pluralistic.net)
  - date published: 2023-10-25T08:57:45.517375+00:00
  - user: None
  - tags: ['personal', 'blog']
+
+## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
+ - [http://pluralistic.net](http://pluralistic.net)
+ - date published: 2024-02-24T18:22:24.558627+00:00
+ - user: None
+ - tags: []
 
 ## Poc Network // Tech - Today's Tech News and Reviews
  - [https://www.pocnetwork.net](https://www.pocnetwork.net)
@@ -2257,14 +2515,14 @@
  - tags: []
 
 ## Russ Bishop
- - [http://russbishop.net](http://russbishop.net)
- - date published: 2024-02-26T12:47:27.767429+00:00
+ - [https://russbishop.net](https://russbishop.net)
+ - date published: 2024-01-09T03:36:09.716665+00:00
  - user: None
  - tags: []
 
 ## Russ Bishop
- - [https://russbishop.net](https://russbishop.net)
- - date published: 2024-01-09T03:36:09.716665+00:00
+ - [http://russbishop.net](http://russbishop.net)
+ - date published: 2024-02-26T12:47:27.767429+00:00
  - user: None
  - tags: []
 
@@ -2526,6 +2784,12 @@
  - user: None
  - tags: ['personal']
 
+## Mastodon
+ - [https://fedi.simonwillison.net](https://fedi.simonwillison.net)
+ - date published: 2024-03-08T22:47:20.591022+00:00
+ - user: None
+ - tags: []
+
 ## Simon Willison’s Weblog
  - [https://simonwillison.net](https://simonwillison.net)
  - date published: 2023-10-25T08:41:17.781731+00:00
@@ -2599,16 +2863,16 @@
  - tags: []
 
 ## Matthias Monroy
- - [http://digit.so36.net](http://digit.so36.net)
- - date published: 2024-02-25T19:37:06.416405+00:00
- - user: None
- - tags: []
-
-## Matthias Monroy
  - [https://digit.so36.net](https://digit.so36.net)
  - date published: 2023-10-25T08:54:06.996729+00:00
  - user: None
  - tags: ['personal']
+
+## Matthias Monroy
+ - [http://digit.so36.net](http://digit.so36.net)
+ - date published: 2024-02-25T19:37:06.416405+00:00
+ - user: None
+ - tags: []
 
 ## SoByte
  - [https://www.sobyte.net](https://www.sobyte.net)
@@ -2727,8 +2991,8 @@
 ## Compare, Download & Develop Open Source & Business Software - SourceForge
  - [https://sourceforge.net](https://sourceforge.net)
  - date published: 2023-10-25T08:41:02.286459+00:00
- - user: None
- - tags: ['app platform']
+ - user: rumpel
+ - tags: ['software platform', 'open source']
 
 ## Compare, Download & Develop Open Source & Business Software - SourceForge
  - [http://sourceforge.net](http://sourceforge.net)
@@ -3517,14 +3781,14 @@
  - tags: ['personal']
 
 ## Stefan Hajnoczi
- - [https://blog.vmsplice.net](https://blog.vmsplice.net)
- - date published: 2024-01-03T01:08:14.621014+00:00
+ - [http://blog.vmsplice.net](http://blog.vmsplice.net)
+ - date published: 2024-01-25T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Stefan Hajnoczi
- - [http://blog.vmsplice.net](http://blog.vmsplice.net)
- - date published: 2024-01-25T00:00:00+00:00
+ - [https://blog.vmsplice.net](https://blog.vmsplice.net)
+ - date published: 2024-01-03T01:08:14.621014+00:00
  - user: None
  - tags: []
 
@@ -5734,270 +5998,6 @@ marginalia.nu
 ## rebeccaÂ®
  - [https://becca.ooo](https://becca.ooo)
  - date published: 2024-02-21T07:38:24.158690+00:00
- - user: None
- - tags: []
-
-## Memo Garcia
- - [https://memooo.ooo](https://memooo.ooo)
- - date published: 2023-10-25T20:52:23.026355+00:00
- - user: None
- - tags: []
-
-## soso
- - [https://soso.ooo](https://soso.ooo)
- - date published: 2023-10-25T20:52:25.205752+00:00
- - user: None
- - tags: []
-
-## ZeroVer: 0-based Versioning — zer0ver
- - [https://0ver.org](https://0ver.org)
- - date published: 2023-10-25T20:52:28.963764+00:00
- - user: None
- - tags: []
-
-## 16-bits.org - home of 8bitbubsy
- - [https://16-bits.org](https://16-bits.org)
- - date published: 2024-01-24T14:39:46+00:00
- - user: rumpel
- - tags: ['demoscene', 'tracker music', 'chiptune', 'keygen']
-
-## The 19th News | An independent, nonprofit newsroom.
- - [https://19thnews.org](https://19thnews.org)
- - date published: 2023-10-25T20:52:35.003868+00:00
- - user: None
- - tags: []
-
-## 2009Scape - A free & open-source remake of 2009 era RuneScape
- - [https://2009scape.org](https://2009scape.org)
- - date published: 2023-10-25T20:52:36.474767+00:00
- - user: None
- - tags: []
-
-## 38 North - Informed analysis of events in and around North Korea
- - [https://www.38north.org](https://www.38north.org)
- - date published: 2023-10-25T20:52:39.281469+00:00
- - user: None
- - tags: ['north korea']
-
-## 3dbrew
- - [https://www.3dbrew.org](https://www.3dbrew.org)
- - date published: 2023-10-25T20:52:41.660191+00:00
- - user: None
- - tags: []
-
-## 3ders.org - 3D printer and 3D printing news
- - [https://www.3ders.org](https://www.3ders.org)
- - date published: 2023-10-27T10:33:25.336432+00:00
- - user: None
- - tags: ['tech news', '3d printing']
-
-## 3DS Roms For Citra - Download Nintendo 3DS Roms
- - [https://3dsroms.org](https://3dsroms.org)
- - date published: 2024-02-04T00:00:00+00:00
- - user: rumpel
- - tags: ['3ds', 'citra']
-
-## 3D-XplorMath Homepage
- - [https://3d-xplormath.org](https://3d-xplormath.org)
- - date published: 2024-02-08T16:50:21.252264+00:00
- - user: None
- - tags: []
-
-## https://4chan.org
- - [https://4chan.org](https://4chan.org)
- - date published: 2023-10-24T20:12:50.282981+00:00
- - user: None
- - tags: ['social platform']
-
-## https://www.4chan.org
- - [https://www.4chan.org](https://www.4chan.org)
- - date published: 2023-10-24T20:12:50.536524+00:00
- - user: None
- - tags: []
-
-## 4open
- - [https://www.4open-sciences.org](https://www.4open-sciences.org)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## 6502.org • Index page
- - [http://forum.6502.org](http://forum.6502.org)
- - date published: 2023-12-07T23:21:48.879898+00:00
- - user: None
- - tags: []
-
-## 6502.org: The 6502 Microprocessor Resource
- - [http://www.6502.org](http://www.6502.org)
- - date published: 2024-02-26T15:43:05.867715+00:00
- - user: None
- - tags: []
-
-## Fatih's Personal Blog
- - [https://blog.6nok.org](https://blog.6nok.org)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## 7-Zip
- - [https://7-zip.org](https://7-zip.org)
- - date published: 2023-10-25T20:52:43.015422+00:00
- - user: None
- - tags: []
-
-## 80,000 Hours: How to make a difference with your career
- - [https://80000hours.org](https://80000hours.org)
- - date published: 2023-10-25T20:52:46.868740+00:00
- - user: None
- - tags: []
-
-## 9/11 Realtime
- - [https://911realtime.org](https://911realtime.org)
- - date published: 2023-10-25T20:52:48.596512+00:00
- - user: None
- - tags: []
-
-## 99% Invisible
- - [https://99percentinvisible.org](https://99percentinvisible.org)
- - date published: 2023-10-25T20:52:52.176166+00:00
- - user: None
- - tags: []
-
-## 9FRONT.ORG THE PLAN FELL OFF
- - [https://9front.org](https://9front.org)
- - date published: 2023-10-25T20:52:59.435440+00:00
- - user: None
- - tags: []
-
-## 9FRONT FREQUENTLY QUESTIONED ANSWERS
- - [https://fqa.9front.org](https://fqa.9front.org)
- - date published: 2024-01-02T16:46:04.268065+00:00
- - user: None
- - tags: []
-
-## None
- - [https://9lab.org](https://9lab.org)
- - date published: 2024-01-02T19:08:29.997667+00:00
- - user: None
- - tags: []
-
-## AAAS Home | American Association for the Advancement of Science (AAAS)
- - [https://www.aaas.org](https://www.aaas.org)
- - date published: 2023-11-23T10:59:39.029974+00:00
- - user: None
- - tags: []
-
-## American Association for Cancer Research
- - [https://aacrjournals.org](https://aacrjournals.org)
- - date published: 2023-11-05T06:08:41.957585+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://www.aallnet.org](https://www.aallnet.org)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tomorrow's Doctors, Tomorrow's Cures
- - [https://www.aamc.org](https://www.aamc.org)
- - date published: 2024-02-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Astronomy & Astrophysics (A&A)
- - [https://www.aanda.org](https://www.aanda.org)
- - date published: 2023-12-20T21:57:54.410586+00:00
- - user: None
- - tags: []
-
-## American Academy of Pediatrics
- - [https://publications.aap.org](https://publications.aap.org)
- - date published: 2023-11-06T10:39:21.892891+00:00
- - user: None
- - tags: []
-
-## Aaron Simpson
- - [https://aaronsimpson.org](https://aaronsimpson.org)
- - date published: 2024-01-05T21:35:51.217748+00:00
- - user: None
- - tags: []
-
-## Home | Adam Aaronson
- - [https://aaronson.org](https://aaronson.org)
- - date published: 2023-10-25T20:53:01.643487+00:00
- - user: None
- - tags: []
-
-## Games
- - [https://games.aarp.org](https://games.aarp.org)
- - date published: 2023-10-30T11:59:48.224688+00:00
- - user: None
- - tags: ['games', 'atari']
-
-## AARP® Official Site - Join & Explore the Benefits
- - [https://www.aarp.org](https://www.aarp.org)
- - date published: 2023-10-25T20:53:09.275713+00:00
- - user: None
- - tags: []
-
-## Bulletin of the AAS
- - [https://baas.aas.org](https://baas.aas.org)
- - date published: 2024-02-24T18:05:46.247535+00:00
- - user: None
- - tags: []
-
-## Homepage - AAS Nova
- - [https://aasnova.org](https://aasnova.org)
- - date published: 2023-10-25T20:53:12.339589+00:00
- - user: None
- - tags: []
-
-## abelard public education website
- - [https://www.abelard.org](https://www.abelard.org)
- - date published: 2023-10-25T20:53:20.409245+00:00
- - user: None
- - tags: []
-
-## Asian Bureau of Finance and Economic Research | ABFER
- - [https://abfer.org](https://abfer.org)
- - date published: 2024-02-24T09:58:34.794824+00:00
- - user: None
- - tags: []
-
-## About Philippines – Philippines Life & Culture
- - [https://aboutphilippines.org](https://aboutphilippines.org)
- - date published: 2023-12-29T22:02:16.911318+00:00
- - user: None
- - tags: []
-
-## Home - American College of Cardiology
- - [https://www.acc.org](https://www.acc.org)
- - date published: 2023-10-25T20:53:25.158857+00:00
- - user: None
- - tags: []
-
-## Access to Insight
- - [https://www.accesstoinsight.org](https://www.accesstoinsight.org)
- - date published: 2023-10-25T20:53:32.094744+00:00
- - user: None
- - tags: []
-
-## ACCU
- - [https://accu.org](https://accu.org)
- - date published: 2023-10-25T20:53:34.238905+00:00
- - user: None
- - tags: ['programming organisation', 'c++', 'python', 'java']
-
-## Ackerman Institute for the Family
- - [https://www.ackerman.org](https://www.ackerman.org)
- - date published: 2024-01-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## ACL Anthology - ACL Anthology
- - [https://aclanthology.org](https://aclanthology.org)
- - date published: 2023-10-25T20:53:36.329517+00:00
  - user: None
  - tags: []
 

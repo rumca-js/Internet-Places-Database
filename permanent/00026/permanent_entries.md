@@ -1,3 +1,321 @@
+## https://cantsayanything.win
+ - [https://cantsayanything.win](https://cantsayanything.win)
+ - date published: 2024-01-09T03:48:48.150168+00:00
+ - user: None
+ - tags: []
+
+## Joe Winter Design
+ - [https://www.joemoe.win](https://www.joemoe.win)
+ - date published: 2023-12-15T21:42:17.937493+00:00
+ - user: None
+ - tags: ['personal']
+
+## Sebastian Neef - 0day.work
+ - [https://0day.work](https://0day.work)
+ - date published: 2023-10-25T23:01:17.513284+00:00
+ - user: None
+ - tags: []
+
+## Bailey Kursar
+ - [https://bailey.work](https://bailey.work)
+ - date published: 2024-01-14T08:13:12.363849+00:00
+ - user: None
+ - tags: []
+
+## Brain pls work
+ - [https://brainpls.work](https://brainpls.work)
+ - date published: 2024-01-09T03:48:48.682019+00:00
+ - user: None
+ - tags: []
+
+## Jobs | Bonsai
+ - [https://bonsai.crew.work](https://bonsai.crew.work)
+ - date published: 2023-10-25T23:01:29.802155+00:00
+ - user: None
+ - tags: []
+
+## fractional.work | Sanjay Saraf | Substack
+ - [https://www.fractional.work](https://www.fractional.work)
+ - date published: 2023-10-25T10:08:52.365132+00:00
+ - user: None
+ - tags: ['substack']
+
+## Framework Community - Discussion and support for Framework products
+ - [https://community.frame.work](https://community.frame.work)
+ - date published: 2023-10-25T23:01:33.003425+00:00
+ - user: None
+ - tags: []
+
+## Framework Laptop 16 pre-orders are now open
+ - [https://frame.work](https://frame.work)
+ - date published: 2023-10-25T08:38:20.129233+00:00
+ - user: None
+ - tags: []
+
+## kade killary
+ - [https://kadekillary.work](https://kadekillary.work)
+ - date published: 2023-10-25T09:25:00.374655+00:00
+ - user: None
+ - tags: ['personal']
+
+## LWIClassic.Com: Learn, Grow, & Change!
+ - [https://lwiclassic.work](https://lwiclassic.work)
+ - date published: 2024-02-26T08:38:23.092718+00:00
+ - user: None
+ - tags: []
+
+## Lawyer-Made HR Documents  | goHeather
+ - [http://tally.work](http://tally.work)
+ - date published: 2023-10-25T23:01:38.366632+00:00
+ - user: None
+ - tags: []
+
+## Hi, I'm kmille
+ - [https://debugging.works](https://debugging.works)
+ - date published: 2023-10-25T08:56:55.059280+00:00
+ - user: None
+ - tags: ['personal']
+
+## epicenter.works - epicenter.works
+ - [https://epicenter.works](https://epicenter.works)
+ - date published: 2023-11-08T07:36:01.480803+00:00
+ - user: None
+ - tags: []
+
+## Home | My name is Olek. I write about what matters to me.
+ - [https://olek.works](https://olek.works)
+ - date published: 2023-12-12T23:24:43.805393+00:00
+ - user: None
+ - tags: ['personal']
+
+## 3D Animation and Automated Rigging | Anything World
+ - [https://anything.world](https://anything.world)
+ - date published: 2023-10-25T23:01:41.604403+00:00
+ - user: None
+ - tags: []
+
+## From the New World | Brian Chau | Substack
+ - [https://www.fromthenew.world](https://www.fromthenew.world)
+ - date published: 2023-11-19T23:54:22.493481+00:00
+ - user: None
+ - tags: []
+
+## The Great Gender Divergence | Alice Evans | Substack
+ - [https://www.ggd.world](https://www.ggd.world)
+ - date published: 2024-03-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Lane's World! - the homepage of Lane Goldman
+ - [https://lanes.world](https://lanes.world)
+ - date published: 2019-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Mastodon.world Blog
+ - [https://blog.mastodon.world](https://blog.mastodon.world)
+ - date published: 2023-10-24T20:14:48.458879+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Mastodon
+ - [https://mastodon.world](https://mastodon.world)
+ - date published: 2023-10-24T20:14:49.692344+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Prashanth Sadasivan – The Chief Questions Officer 💻🍳☕️
+ - [https://prashanth.world](https://prashanth.world)
+ - date published: 2023-10-25T09:25:01.568735+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Reasons to be Cheerful
+ - [https://reasonstobecheerful.world](https://reasonstobecheerful.world)
+ - date published: 2023-10-25T23:01:47.023181+00:00
+ - user: None
+ - tags: []
+
+## Soundscape
+ - [https://soundscape.world](https://soundscape.world)
+ - date published: 2024-01-22T09:51:55+00:00
+ - user: rumpel
+ - tags: []
+
+## SPLACE. A World of Communities.
+ - [https://www.splace.world](https://www.splace.world)
+ - date published: 2023-12-11T15:48:59.406277+00:00
+ - user: None
+ - tags: []
+
+## The Dial
+ - [https://www.thedial.world](https://www.thedial.world)
+ - date published: 2023-10-25T23:01:53.554444+00:00
+ - user: None
+ - tags: []
+
+## NixOS & Flakes Book | Home Page
+ - [https://nixos-and-flakes.thiscute.world](https://nixos-and-flakes.thiscute.world)
+ - date published: 2023-10-25T23:01:55.768732+00:00
+ - user: None
+ - tags: []
+
+## Wikis World
+ - [https://wikis.world](https://wikis.world)
+ - date published: 2023-10-24T20:14:51.048903+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Wiwo World
+ - [https://www.wiwo.world](https://www.wiwo.world)
+ - date published: 2024-02-21T22:25:08.824882+00:00
+ - user: None
+ - tags: []
+
+## 2022 FIFA World Cup bracket and standings
+ - [https://worldcup.cole.ws](https://worldcup.cole.ws)
+ - date published: 2023-10-25T23:01:56.472219+00:00
+ - user: None
+ - tags: []
+
+## Crusty Windows Wiki
+ - [https://crustywindo.ws](https://crustywindo.ws)
+ - date published: 2023-10-25T23:01:57.735617+00:00
+ - user: None
+ - tags: []
+
+## .:: GEOCITIES.ws ::.
+ - [https://geocities.ws](https://geocities.ws)
+ - date published: 2024-01-25T06:33:46.312964+00:00
+ - user: None
+ - tags: []
+
+## justus.ws
+ - [https://www.justus.ws](https://www.justus.ws)
+ - date published: 2023-11-29T15:45:02.094794+00:00
+ - user: None
+ - tags: ['personal']
+
+## LORN
+ - [https://www.lorn.ws](https://www.lorn.ws)
+ - date published: 2023-11-13T09:48:10.746658+00:00
+ - user: None
+ - tags: ['music band']
+
+## OpenArena EX - オープンアリーナ
+ - [https://openarena.ws](https://openarena.ws)
+ - date published: 2023-10-27T13:51:31.986419+00:00
+ - user: None
+ - tags: ['quake']
+
+## World of Warships
+ - [https://wo.ws](https://wo.ws)
+ - date published: 2024-02-24T09:58:01.832887+00:00
+ - user: None
+ - tags: []
+
+## Yoav's blog thing
+ - [https://blog.yoav.ws](https://blog.yoav.ws)
+ - date published: 2023-10-25T23:01:59.005141+00:00
+ - user: None
+ - tags: []
+
+## charity.wtf – charity wtf's about technology, databases, startups, engineering management, and whiskey.
+ - [https://charity.wtf](https://charity.wtf)
+ - date published: 2023-10-25T23:02:09.605011+00:00
+ - user: None
+ - tags: []
+
+## Ellie's Notes
+ - [https://ellie.wtf](https://ellie.wtf)
+ - date published: 2023-10-25T09:25:02.764286+00:00
+ - user: None
+ - tags: ['personal']
+
+## fx – command-line tool for JSON
+ - [https://fx.wtf](https://fx.wtf)
+ - date published: 2023-10-25T08:34:35.904683+00:00
+ - user: None
+ - tags: []
+
+## Genders.WTF
+ - [https://genders.wtf](https://genders.wtf)
+ - date published: 2023-10-25T23:02:12.421357+00:00
+ - user: None
+ - tags: []
+
+## Will twitter outlast this lettuce?
+ - [https://lettuce.wtf](https://lettuce.wtf)
+ - date published: 2023-10-25T23:02:13.189906+00:00
+ - user: None
+ - tags: []
+
+## Dmitry Non
+ - [https://nondv.wtf](https://nondv.wtf)
+ - date published: 2023-11-08T22:10:31.500527+00:00
+ - user: None
+ - tags: ['devlog']
+
+## overkill.wtf | Steam Deck news, reviews and more
+ - [https://overkill.wtf](https://overkill.wtf)
+ - date published: 2023-10-25T23:02:15.238658+00:00
+ - user: None
+ - tags: []
+
+## VOLE.wtf 🐹⁉️ because internet is stupid
+ - [https://vole.wtf](https://vole.wtf)
+ - date published: 2023-10-27T13:08:52.494279+00:00
+ - user: None
+ - tags: ['wtf']
+
+## Volts | Fanfare
+ - [https://transcripts.volts.wtf](https://transcripts.volts.wtf)
+ - date published: 2023-10-25T23:02:22.636567+00:00
+ - user: None
+ - tags: []
+
+## Alphabet Investor Relations
+ - [https://abc.xyz](https://abc.xyz)
+ - date published: 2023-10-25T23:02:24.106484+00:00
+ - user: None
+ - tags: []
+
+## A flower woman by 1500+ artists
+ - [https://gorgeous.adityashankar.xyz](https://gorgeous.adityashankar.xyz)
+ - date published: 2023-10-25T23:02:25.831785+00:00
+ - user: None
+ - tags: []
+
+## https://adrw.xyz
+ - [https://adrw.xyz](https://adrw.xyz)
+ - date published: 2024-01-10T22:41:08.215186+00:00
+ - user: None
+ - tags: []
+
+## Age of Invention, by Anton Howes | Substack
+ - [https://www.ageofinvention.xyz](https://www.ageofinvention.xyz)
+ - date published: 2023-11-25T15:09:01.737458+00:00
+ - user: None
+ - tags: []
+
+## Ankaph
+ - [https://ankaph.xyz](https://ankaph.xyz)
+ - date published: 2023-11-17T09:50:30.848678+00:00
+ - user: None
+ - tags: []
+
+## the art of technology
+ - [https://annasofia.xyz](https://annasofia.xyz)
+ - date published: 2023-10-25T23:02:28.986043+00:00
+ - user: None
+ - tags: []
+
+## Alexander Smirnov
+ - [https://asmirnov.xyz](https://asmirnov.xyz)
+ - date published: 2023-11-27T17:46:34.896239+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Show HN: I made a GPU VRAM calculator for transformer-based models
  - [https://vram.asmirnov.xyz](https://vram.asmirnov.xyz)
  - date published: 2023-12-26T17:53:56+00:00
@@ -133,6 +451,12 @@
 ## DJMcG
  - [https://djmcg.xyz](https://djmcg.xyz)
  - date published: 2024-02-02T20:24:51.933760+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Cylinder HN – View Trending Hacker News and Search Everything
+ - [https://cylinder.doforce.xyz](https://cylinder.doforce.xyz)
+ - date published: 2024-03-08T07:24:01+00:00
  - user: None
  - tags: []
 
@@ -437,6 +761,12 @@
  - date published: 2023-12-11T23:18:36.164990+00:00
  - user: None
  - tags: ['personal']
+
+## Plasticity: CAD for Artists
+ - [https://www.plasticity.xyz](https://www.plasticity.xyz)
+ - date published: 2024-03-08T11:03:39+00:00
+ - user: None
+ - tags: []
 
 ## playlaser.xyz • Play Laser Online
  - [https://playlaser.xyz](https://playlaser.xyz)
@@ -889,14 +1219,14 @@
  - tags: ['mastodon']
 
 ## The Zimbabwe Sphere
- - [https://www.zimsphere.co.zw](https://www.zimsphere.co.zw)
- - date published: 2024-01-09T03:49:05.321457+00:00
+ - [http://www.zimsphere.co.zw](http://www.zimsphere.co.zw)
+ - date published: 2024-02-26T14:04:23.431504+00:00
  - user: None
  - tags: []
 
 ## The Zimbabwe Sphere
- - [http://www.zimsphere.co.zw](http://www.zimsphere.co.zw)
- - date published: 2024-02-26T14:04:23.431504+00:00
+ - [https://www.zimsphere.co.zw](https://www.zimsphere.co.zw)
+ - date published: 2024-01-09T03:49:05.321457+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,183 @@
+## Climate Prediction Center
+ - [https://www.cpc.ncep.noaa.gov](https://www.cpc.ncep.noaa.gov)
+ - date published: 2023-10-25T19:24:13.204472+00:00
+ - user: None
+ - tags: []
+
+## Welcome to NOAA | NOAA Fisheries
+ - [https://www.fisheries.noaa.gov](https://www.fisheries.noaa.gov)
+ - date published: 2023-10-25T19:24:18.167307+00:00
+ - user: None
+ - tags: []
+
+## National Centers for Environmental Information (NCEI)
+ - [https://www.ncei.noaa.gov](https://www.ncei.noaa.gov)
+ - date published: 2023-10-25T19:24:22.011014+00:00
+ - user: None
+ - tags: []
+
+## NCEP Central Operations
+ - [https://www.nco.ncep.noaa.gov](https://www.nco.ncep.noaa.gov)
+ - date published: 2023-10-25T19:24:25.360125+00:00
+ - user: None
+ - tags: []
+
+## National Oceanic and Atmospheric Administration
+ - [https://www.noaa.gov](https://www.noaa.gov)
+ - date published: 2023-10-25T19:24:27.385106+00:00
+ - user: None
+ - tags: []
+
+## STAR - NOAA / NESDIS / Center for Satellite Applications and Research
+ - [https://www.star.nesdis.noaa.gov](https://www.star.nesdis.noaa.gov)
+ - date published: 2023-10-25T19:24:30.758583+00:00
+ - user: None
+ - tags: []
+
+## Homepage | NOAA / NWS Space Weather Prediction Center
+ - [https://www.swpc.noaa.gov](https://www.swpc.noaa.gov)
+ - date published: 2023-10-25T19:24:35.156999+00:00
+ - user: None
+ - tags: []
+
+## NPS.gov Homepage (U.S. National Park Service)
+ - [https://www.nps.gov](https://www.nps.gov)
+ - date published: 2023-10-25T11:20:15.724610+00:00
+ - user: None
+ - tags: []
+
+## home
+ - [https://www.nrc.gov](https://www.nrc.gov)
+ - date published: 2024-01-09T03:31:30.889825+00:00
+ - user: None
+ - tags: []
+
+## National Renewable Energy Laboratory (NREL) Home Page | NREL
+ - [https://www.nrel.gov](https://www.nrel.gov)
+ - date published: 2023-10-25T19:24:44.925788+00:00
+ - user: None
+ - tags: []
+
+## National Security Agency | Central Security Service
+ - [https://www.nsa.gov](https://www.nsa.gov)
+ - date published: 2023-10-25T19:24:48.246865+00:00
+ - user: None
+ - tags: ['usa security intelligence', 'government', 'espionage', 'security intelligence']
+
+## NSF - National Science Foundation
+ - [https://new.nsf.gov](https://new.nsf.gov)
+ - date published: 2023-12-20T18:03:43.696281+00:00
+ - user: None
+ - tags: []
+
+## NSF Public Access
+ - [https://par.nsf.gov](https://par.nsf.gov)
+ - date published: 2023-10-25T19:24:50.680036+00:00
+ - user: None
+ - tags: []
+
+## https://ntrl.ntis.gov
+ - [https://ntrl.ntis.gov](https://ntrl.ntis.gov)
+ - date published: 2024-01-09T03:31:33.773574+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.ntsb.gov](https://www.ntsb.gov)
+ - date published: 2023-10-25T19:24:54.011991+00:00
+ - user: None
+ - tags: []
+
+## Home | New York State Attorney General
+ - [https://ag.ny.gov](https://ag.ny.gov)
+ - date published: 2023-10-25T19:24:55.587930+00:00
+ - user: None
+ - tags: []
+
+## https://www.osc.ny.gov
+ - [https://www.osc.ny.gov](https://www.osc.ny.gov)
+ - date published: 2023-12-19T17:57:44.445591+00:00
+ - user: None
+ - tags: []
+
+## Mayor's Office NYC
+ - [https://a002-oom03.nyc.gov](https://a002-oom03.nyc.gov)
+ - date published: 2023-10-25T19:24:56.465502+00:00
+ - user: None
+ - tags: []
+
+## The New York State Senate
+ - [https://www.nysenate.gov](https://www.nysenate.gov)
+ - date published: 2023-10-25T19:24:58.425689+00:00
+ - user: None
+ - tags: []
+
+## Strengthen science. Advance justice.
+ - [https://nij.ojp.gov](https://nij.ojp.gov)
+ - date published: 2024-02-24T18:06:29.327243+00:00
+ - user: None
+ - tags: []
+
+## Oklahoma.gov Home
+ - [https://oklahoma.gov](https://oklahoma.gov)
+ - date published: 2024-01-08T15:10:22.537667+00:00
+ - user: None
+ - tags: []
+
+## Oak Ridge National Laboratory: Solving the Big Problems | ORNL
+ - [https://www.ornl.gov](https://www.ornl.gov)
+ - date published: 2023-10-25T19:25:00.286836+00:00
+ - user: None
+ - tags: []
+
+## Home | U.S. DOE Office of Science (SC)
+ - [https://science.osti.gov](https://science.osti.gov)
+ - date published: 2011-02-08T09:19:00+00:00
+ - user: None
+ - tags: []
+
+## Regulations.gov
+ - [https://www.regulations.gov](https://www.regulations.gov)
+ - date published: 2023-10-25T19:25:01.549850+00:00
+ - user: None
+ - tags: []
+
+## SAM.gov | Home
+ - [https://sam.gov](https://sam.gov)
+ - date published: 2023-10-25T19:25:02.207175+00:00
+ - user: None
+ - tags: []
+
+## Sandia National Laboratories: News Releases
+ - [https://newsreleases.sandia.gov](https://newsreleases.sandia.gov)
+ - date published: 2023-10-25T19:25:05.661482+00:00
+ - user: None
+ - tags: []
+
+## SEC.gov | HOME
+ - [https://www.sec.gov](https://www.sec.gov)
+ - date published: 2023-10-25T19:25:07.736929+00:00
+ - user: None
+ - tags: []
+
+## U.S. Senate Committee on Commerce, Science, & Transportation
+ - [https://www.commerce.senate.gov](https://www.commerce.senate.gov)
+ - date published: 2023-10-25T19:25:10.798994+00:00
+ - user: None
+ - tags: []
+
+## Home | Senate Democratic Leadership
+ - [https://www.democrats.senate.gov](https://www.democrats.senate.gov)
+ - date published: 2024-01-01T01:29:16.688384+00:00
+ - user: None
+ - tags: []
+
+## Home | Senate Committee on Health, Education, Labor and Pensions
+ - [https://www.help.senate.gov](https://www.help.senate.gov)
+ - date published: 2023-10-25T19:25:12.573868+00:00
+ - user: None
+ - tags: []
+
 ## Committee on Homeland Security & Governmental Affairs
  - [https://www.hsgac.senate.gov](https://www.hsgac.senate.gov)
  - date published: 2023-10-25T19:25:16.853062+00:00
@@ -1820,14 +2000,14 @@
  - tags: []
 
 ## Erthalion
- - [http://erthalion.info](http://erthalion.info)
- - date published: 2024-02-25T15:21:46.039163+00:00
+ - [https://erthalion.info](https://erthalion.info)
+ - date published: 2023-10-25T19:33:09.948190+00:00
  - user: None
  - tags: []
 
 ## Erthalion
- - [https://erthalion.info](https://erthalion.info)
- - date published: 2023-10-25T19:33:09.948190+00:00
+ - [http://erthalion.info](http://erthalion.info)
+ - date published: 2024-02-25T15:21:46.039163+00:00
  - user: None
  - tags: []
 
@@ -2153,6 +2333,12 @@
  - [https://blog.rongarret.info](https://blog.rongarret.info)
  - date published: 2023-10-25T19:34:32.423814+00:00
  - user: None
+ - tags: []
+
+## ROSALIND | Problems | Locations
+ - [https://rosalind.info](https://rosalind.info)
+ - date published: 2024-03-08T12:33:25+00:00
+ - user: rumpel
  - tags: []
 
 ## RubyDoc.info: Documenting RubyGems, Stdlib, and GitHub Projects
@@ -3349,6 +3535,12 @@
  - user: None
  - tags: []
 
+## Datasette documentation
+ - [https://docs.datasette.io](https://docs.datasette.io)
+ - date published: 2022-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## ScotRail announcements: scotrail
  - [https://scotrail.datasette.io](https://scotrail.datasette.io)
  - date published: 2023-10-25T19:40:52.060224+00:00
@@ -3703,6 +3895,12 @@
  - user: None
  - tags: []
 
+## Exercism
+ - [https://exercism.io](https://exercism.io)
+ - date published: 2024-03-08T12:32:16+00:00
+ - user: rumpel
+ - tags: ['programming courses']
+
 ## Failing Fast
  - [https://failingfast.io](https://failingfast.io)
  - date published: 2023-10-25T19:42:20.010109+00:00
@@ -3928,6 +4126,12 @@
 ## GitHub: Let’s build from here
  - [https://gh.io](https://gh.io)
  - date published: 2024-01-20T12:00:38.408924+00:00
+ - user: None
+ - tags: []
+
+## FOREVER WARS
+ - [https://foreverwars.ghost.io](https://foreverwars.ghost.io)
+ - date published: 2024-03-08T22:47:25.357059+00:00
  - user: None
  - tags: []
 
@@ -5727,6 +5931,12 @@ through Composable Diffusion
  - user: None
  - tags: []
 
+## lisyarus.github.io
+ - [https://lisyarus.github.io](https://lisyarus.github.io)
+ - date published: 2024-03-08T04:09:58.027558+00:00
+ - user: None
+ - tags: []
+
 ## Index | Blog of Litchi Pi
  - [https://litchipi.github.io](https://litchipi.github.io)
  - date published: 2023-10-25T19:48:29.176535+00:00
@@ -5790,216 +6000,6 @@ through Composable Diffusion
 ## Luke Salamone's Blog
  - [https://lukesalamone.github.io](https://lukesalamone.github.io)
  - date published: 2023-10-25T19:48:48.519413+00:00
- - user: None
- - tags: []
-
-## Lumiere - Google Research
- - [https://lumiere-video.github.io](https://lumiere-video.github.io)
- - date published: 2024-01-24T09:11:07.776816+00:00
- - user: None
- - tags: []
-
-## Lup Yuen LEE
- - [https://lupyuen.github.io](https://lupyuen.github.io)
- - date published: 2023-10-25T19:49:05.483685+00:00
- - user: None
- - tags: []
-
-## https://lutzroeder.github.io
- - [https://lutzroeder.github.io](https://lutzroeder.github.io)
- - date published: 2024-01-09T03:32:51.896314+00:00
- - user: None
- - tags: []
-
-## LWSS Blog – Basement Dweller
- - [https://lwss.github.io](https://lwss.github.io)
- - date published: 2023-10-25T19:49:06.795269+00:00
- - user: None
- - tags: []
-
-## Lychee — Self-hosted photo-management done right
- - [https://lycheeorg.github.io](https://lycheeorg.github.io)
- - date published: 2023-10-25T19:49:07.538122+00:00
- - user: None
- - tags: []
-
-## Redirecting…
- - [https://m680x0.github.io](https://m680x0.github.io)
- - date published: 2023-10-25T19:49:07.954208+00:00
- - user: None
- - tags: []
-
-## Machines Reading Maps | Unlocking unique information from large collections of historical maps using AI
- - [https://machines-reading-maps.github.io](https://machines-reading-maps.github.io)
- - date published: 2023-10-25T19:49:08.905340+00:00
- - user: None
- - tags: []
-
-## Articles | Madaidan's Insecurities
- - [https://madaidans-insecurities.github.io](https://madaidans-insecurities.github.io)
- - date published: 2023-10-25T19:49:09.552990+00:00
- - user: None
- - tags: []
-
-## MADICES 2024
- - [https://madices.github.io](https://madices.github.io)
- - date published: 2024-02-08T17:01:55.216107+00:00
- - user: None
- - tags: []
-
-## MagicEdit: High-Fidelity Temporally Coherent Video Editing
- - [https://magic-edit.github.io](https://magic-edit.github.io)
- - date published: 2023-10-25T19:49:15.486474+00:00
- - user: None
- - tags: []
-
-## MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation
- - [https://magicvideov2.github.io](https://magicvideov2.github.io)
- - date published: 2024-01-12T07:51:20.397106+00:00
- - user: None
- - tags: []
-
-## Maik Klein
- - [https://maikklein.github.io](https://maikklein.github.io)
- - date published: 2023-10-25T19:49:16.084796+00:00
- - user: None
- - tags: []
-
-## Text-To-4D Dynamic Scene Generation
- - [https://make-a-video3d.github.io](https://make-a-video3d.github.io)
- - date published: 2023-10-25T19:49:16.845049+00:00
- - user: None
- - tags: []
-
-## https://makelinux.github.io
- - [https://makelinux.github.io](https://makelinux.github.io)
- - date published: 2023-10-25T19:49:17.988414+00:00
- - user: None
- - tags: []
-
-## Make Pixels Dance: High-Dynamic Video Generation
- - [https://makepixelsdance.github.io](https://makepixelsdance.github.io)
- - date published: 2023-11-21T11:32:18+00:00
- - user: None
- - tags: []
-
-## Make Source Not Code!
- - [https://makesourcenotcode.github.io](https://makesourcenotcode.github.io)
- - date published: 2023-10-25T19:49:19.134099+00:00
- - user: None
- - tags: []
-
-## Marc Khoury
- - [https://marckhoury.github.io](https://marckhoury.github.io)
- - date published: 2023-10-25T19:49:20.531403+00:00
- - user: None
- - tags: []
-
-## Clearly Erroneous
- - [https://martinapugliese.github.io](https://martinapugliese.github.io)
- - date published: 2024-01-13T09:37:18.480108+00:00
- - user: None
- - tags: []
-
-## matklad
- - [https://matklad.github.io](https://matklad.github.io)
- - date published: 2023-10-25T08:59:11.538366+00:00
- - user: None
- - tags: ['personal']
-
-## max-bittker
- - [https://maxbittker.github.io](https://maxbittker.github.io)
- - date published: 2023-10-25T19:49:22.435813+00:00
- - user: None
- - tags: []
-
-## Max Halford
- - [https://maxhalford.github.io](https://maxhalford.github.io)
- - date published: 2023-10-25T19:49:24.332431+00:00
- - user: None
- - tags: []
-
-## TL;DR
- - [https://mazzzystar.github.io](https://mazzzystar.github.io)
- - date published: 2023-10-25T19:49:26.116164+00:00
- - user: None
- - tags: []
-
-## Michael Chang
- - [https://mbchang.github.io](https://mbchang.github.io)
- - date published: 2007-02-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## About me - Matthew N. Bernstein
- - [https://mbernste.github.io](https://mbernste.github.io)
- - date published: 2023-10-25T19:49:29.242200+00:00
- - user: None
- - tags: []
-
-## Main Page | mcraiha.github.io
- - [https://mcraiha.github.io](https://mcraiha.github.io)
- - date published: 2023-10-25T19:49:31.004901+00:00
- - user: None
- - tags: []
-
-## Materials Design and Informatics Group
- - [https://mdi-group.github.io](https://mdi-group.github.io)
- - date published: 2024-02-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## memN0ps | Home
- - [https://memn0ps.github.io](https://memn0ps.github.io)
- - date published: 2023-10-25T19:49:32.657873+00:00
- - user: None
- - tags: []
-
-## Faizan Muhammad
- - [https://mfaizan.github.io](https://mfaizan.github.io)
- - date published: 2023-10-25T19:49:34.141989+00:00
- - user: None
- - tags: []
-
-## mfkl
- - [https://mfkl.github.io](https://mfkl.github.io)
- - date published: 2024-01-12T07:51:25.057588+00:00
- - user: None
- - tags: []
-
-## Micro - Home
- - [https://micro-editor.github.io](https://micro-editor.github.io)
- - date published: 2023-10-25T19:49:35.768499+00:00
- - user: None
- - tags: []
-
-## Microsoft on GitHub
- - [https://microsoft.github.io](https://microsoft.github.io)
- - date published: 2023-10-25T19:49:36.893262+00:00
- - user: None
- - tags: []
-
-## Åsbjørnsson-Stensland
- - [https://mikaei.github.io](https://mikaei.github.io)
- - date published: 2023-10-25T08:59:12.188442+00:00
- - user: None
- - tags: ['personal']
-
-## Mindustry: Open-source automation tower defense game
- - [https://mindustrygame.github.io](https://mindustrygame.github.io)
- - date published: 2023-12-22T09:32:07+00:00
- - user: None
- - tags: []
-
-## MinD-Vis
- - [https://mind-vis.github.io](https://mind-vis.github.io)
- - date published: 2023-10-25T19:49:38.256010+00:00
- - user: None
- - tags: []
-
-## Minigpt-4
- - [https://minigpt-4.github.io](https://minigpt-4.github.io)
- - date published: 2023-10-25T19:49:44.882724+00:00
  - user: None
  - tags: []
 

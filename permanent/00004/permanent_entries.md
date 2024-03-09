@@ -1,3 +1,63 @@
+## The Cornell Daily Sun - Independent Since 1880
+ - [https://cornellsun.com](https://cornellsun.com)
+ - date published: 2024-02-28T15:29:41.625531+00:00
+ - user: None
+ - tags: []
+
+## Coroot
+ - [https://coroot.com](https://coroot.com)
+ - date published: 2023-10-25T13:34:05.658233+00:00
+ - user: None
+ - tags: []
+
+## Corporal Frisk – Finnish blogger in reserve, defence and national security.
+ - [https://corporalfrisk.com](https://corporalfrisk.com)
+ - date published: 2023-10-25T14:22:54.565436+00:00
+ - user: None
+ - tags: []
+
+## Cortical Labs - DishBrain Intelligence
+ - [https://corticallabs.com](https://corticallabs.com)
+ - date published: 2023-11-01T08:41:52.617438+00:00
+ - user: None
+ - tags: []
+
+## Corvus Games Terrain : 3D printed sci-fi tabletop wargaming terrain
+ - [https://corvusgamesterrain.com](https://corvusgamesterrain.com)
+ - date published: 2024-03-01T18:35:32.870743+00:00
+ - user: None
+ - tags: ['tabletop terrain']
+
+## Cory Ames
+ - [https://coryames.com](https://coryames.com)
+ - date published: 2024-01-09T00:12:16.658377+00:00
+ - user: None
+ - tags: []
+
+## Cory Shaw | Cory Shaw
+ - [https://coryshaw.com](https://coryshaw.com)
+ - date published: 2024-01-08T15:36:54.508225+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cory Zue | Full-Stack Developer, Maker of Products, and Solopreneur
+ - [https://www.coryzue.com](https://www.coryzue.com)
+ - date published: 2023-10-25T13:34:24.334483+00:00
+ - user: None
+ - tags: []
+
+## COSFONE - Networking, Computer, PBX, IT, DIY Solution
+ - [https://www.cosfone.com](https://www.cosfone.com)
+ - date published: 2023-10-25T13:34:32.250773+00:00
+ - user: None
+ - tags: []
+
+## Cosmos – Science News, Features, Podcasts, Video and Print Magazine
+ - [https://cosmosmagazine.com](https://cosmosmagazine.com)
+ - date published: 2023-10-25T10:10:04.251424+00:00
+ - user: None
+ - tags: []
+
 ## Count Bayesie - A Probability Blog
  - [https://www.countbayesie.com](https://www.countbayesie.com)
  - date published: 2023-10-25T09:19:52.258192+00:00
@@ -2981,15 +3041,15 @@
  - user: None
  - tags: []
 
-## Mazzle – A Pipelines as Code Tool
- - [https://devops-pipeline.com](https://devops-pipeline.com)
- - date published: 2023-12-31T11:15:08+00:00
- - user: None
- - tags: []
-
 ## introducing mazzle - a pipelines as code tool
  - [http://devops-pipeline.com](http://devops-pipeline.com)
  - date published: 2024-02-29T14:58:14.068438+00:00
+ - user: None
+ - tags: []
+
+## Mazzle – A Pipelines as Code Tool
+ - [https://devops-pipeline.com](https://devops-pipeline.com)
+ - date published: 2023-12-31T11:15:08+00:00
  - user: None
  - tags: []
 
@@ -5880,6 +5940,12 @@
  - user: None
  - tags: []
 
+## endatabas | SQL Document Database with Full History
+ - [https://www.endatabas.com](https://www.endatabas.com)
+ - date published: 2024-02-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## https://endgamebusiness.com
  - [https://endgamebusiness.com](https://endgamebusiness.com)
  - date published: 2023-12-29T03:12:29.220958+00:00
@@ -5933,70 +5999,4 @@
  - date published: 2024-02-08T18:03:45.158713+00:00
  - user: None
  - tags: []
-
-## Engineering Book Club - Online community for reading books
- - [https://www.engineeringbookclub.com](https://www.engineeringbookclub.com)
- - date published: 2023-10-25T14:07:27.340540+00:00
- - user: None
- - tags: []
-
-## Engineering Calm | Sofia Quintero | Substack
- - [https://www.engineeringcalm.com](https://www.engineeringcalm.com)
- - date published: 2023-10-25T14:07:29.366579+00:00
- - user: None
- - tags: []
-
-## Engineering Media
- - [https://engineeringmedia.com](https://engineeringmedia.com)
- - date published: 2023-10-25T14:07:31.330325+00:00
- - user: None
- - tags: []
-
-## Engineer’s Codex | Substack
- - [https://read.engineerscodex.com](https://read.engineerscodex.com)
- - date published: 2023-12-15T21:45:21.439801+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.engineersgarage.com](https://www.engineersgarage.com)
- - date published: 2023-10-28T20:16:59.244728+00:00
- - user: None
- - tags: ['tech news', 'electricity']
-
-## Engineers Need Art
- - [https://www.engineersneedart.com](https://www.engineersneedart.com)
- - date published: 2023-10-25T14:07:39.626483+00:00
- - user: None
- - tags: []
-
-## Home • Engineers who Van Life
- - [https://engineerswhovanlife.com](https://engineerswhovanlife.com)
- - date published: 2023-10-25T14:07:42.230187+00:00
- - user: None
- - tags: []
-
-## Home - EngineLabs
- - [https://www.enginelabs.com](https://www.enginelabs.com)
- - date published: 2023-10-25T14:07:54.382666+00:00
- - user: None
- - tags: []
-
-## Engines Database
- - [https://enginesdatabase.com](https://enginesdatabase.com)
- - date published: 2023-10-25T08:32:52.339937+00:00
- - user: None
- - tags: []
-
-## The Engravers Journal
- - [https://www.engraversjournal.com](https://www.engraversjournal.com)
- - date published: 2024-02-08T17:31:39.531257+00:00
- - user: None
- - tags: []
-
-## The Fall Of A Rebel Angel | Enigma - Official Website
- - [https://www.enigmaspace.com](https://www.enigmaspace.com)
- - date published: 2023-11-13T10:40:32.859077+00:00
- - user: None
- - tags: ['music band']
 
