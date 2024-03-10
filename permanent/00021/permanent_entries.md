@@ -1,3 +1,189 @@
+## Flipper Blog
+ - [https://blog.flipperzero.one](https://blog.flipperzero.one)
+ - date published: 2023-10-25T20:51:58.988894+00:00
+ - user: None
+ - tags: []
+
+## Flipper Zero — Portable Multi-tool Device for Geeks
+ - [https://flipperzero.one](https://flipperzero.one)
+ - date published: 2023-11-22T17:23:10+00:00
+ - user: rumpel
+ - tags: ['hardware', 'hardware hacking', 'hacking']
+
+## Flipper Zero Shop
+ - [https://shop.flipperzero.one](https://shop.flipperzero.one)
+ - date published: 2024-02-21T06:33:11.339651+00:00
+ - user: None
+ - tags: []
+
+## Installati.one
+ - [https://installati.one](https://installati.one)
+ - date published: 2023-11-19T12:07:10+00:00
+ - user: rumpel
+ - tags: ['tutorial', 'guide']
+
+## Market Map
+ - [https://marketmap.one](https://marketmap.one)
+ - date published: 2023-10-25T20:52:00.513890+00:00
+ - user: None
+ - tags: []
+
+## Best websites design inspiration feed • MaxiBestOf
+ - [https://maxibestof.one](https://maxibestof.one)
+ - date published: 2023-10-25T20:52:03.198688+00:00
+ - user: None
+ - tags: []
+
+## https://www.octobrain.one
+ - [https://www.octobrain.one](https://www.octobrain.one)
+ - date published: 2024-01-09T03:38:03.153362+00:00
+ - user: None
+ - tags: []
+
+## plei.one - Blog
+ - [https://plei.one](https://plei.one)
+ - date published: 2023-10-25T20:52:06.193322+00:00
+ - user: None
+ - tags: []
+
+## Taylor Robinson
+ - [https://robins.one](https://robins.one)
+ - date published: 2023-10-25T08:54:27.100131+00:00
+ - user: None
+ - tags: ['personal']
+
+## South One News, News From South India, Analysis of South India
+ - [https://south.one](https://south.one)
+ - date published: 2023-12-06T16:23:04.756025+00:00
+ - user: None
+ - tags: []
+
+## The Pulse | Substack
+ - [https://thepulse.one](https://thepulse.one)
+ - date published: 2023-10-25T20:52:09.853895+00:00
+ - user: None
+ - tags: []
+
+## WordPress-Seite – Just another WordPress site
+ - [http://proxy.vulpes.one](http://proxy.vulpes.one)
+ - date published: 2023-10-25T20:52:12.936578+00:00
+ - user: None
+ - tags: []
+
+## Obl.ong
+ - [https://obl.ong](https://obl.ong)
+ - date published: 2023-10-25T20:52:14.964448+00:00
+ - user: None
+ - tags: []
+
+## Andrew Marble
+ - [https://marble.onl](https://marble.onl)
+ - date published: 2024-01-09T01:37:39.440161+00:00
+ - user: None
+ - tags: []
+
+## Adam Nelson
+ - [https://adam.nels.onl](https://adam.nels.onl)
+ - date published: 2024-02-14T11:11:41.408469+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rik Lewis
+ - [https://www.rik.onl](https://www.rik.onl)
+ - date published: 2023-12-03T23:31:31.330248+00:00
+ - user: None
+ - tags: ['personal']
+
+## Rebecca Owen
+ - [https://beccais.online](https://beccais.online)
+ - date published: 2023-12-25T17:17:34.309163+00:00
+ - user: None
+ - tags: ['personal']
+
+## Commonplace
+ - [https://commonplace.online](https://commonplace.online)
+ - date published: 2023-10-28T19:11:46.865259+00:00
+ - user: None
+ - tags: []
+
+## In Solidarity with Library Genesis and Sci-hub
+ - [https://custodians.online](https://custodians.online)
+ - date published: 2023-10-25T20:52:16.578477+00:00
+ - user: None
+ - tags: []
+
+## Data Engineering Design Patterns (DEDP)
+ - [https://www.dedp.online](https://www.dedp.online)
+ - date published: 2023-12-07T15:51:49+00:00
+ - user: None
+ - tags: []
+
+## Easylang
+ - [https://easylang.online](https://easylang.online)
+ - date published: 2023-10-25T20:52:17.584984+00:00
+ - user: None
+ - tags: []
+
+## LOF home
+ - [https://lof.flounder.online](https://lof.flounder.online)
+ - date published: 2023-10-25T20:52:19.126166+00:00
+ - user: None
+ - tags: []
+
+## Fabian's public notepad
+ - [https://holzer.online](https://holzer.online)
+ - date published: 2023-12-16T07:29:03.990666+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kylie Czajkowski · software engineer, speaker, creator
+ - [https://kylieis.online](https://kylieis.online)
+ - date published: 2023-12-23T07:29:53.816003+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mastodon
+ - [https://mastodon.online](https://mastodon.online)
+ - date published: 2023-10-24T20:13:29.617793+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## sunfishcode's blog · A blog by sunfishcode
+ - [https://blog.sunfishcode.online](https://blog.sunfishcode.online)
+ - date published: 2023-10-25T20:52:20.694186+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Suricrasia Online!
+ - [https://suricrasia.online](https://suricrasia.online)
+ - date published: 2023-10-25T20:52:21.735662+00:00
+ - user: None
+ - tags: []
+
+## Words and buttons online
+ - [https://wordsandbuttons.online](https://wordsandbuttons.online)
+ - date published: 2023-10-25T09:27:52.515926+00:00
+ - user: None
+ - tags: []
+
+## Zachwyceni.online - Sklep Fundacji inCanto
+ - [https://zachwyceni.online](https://zachwyceni.online)
+ - date published: 2023-12-04T17:44:21+00:00
+ - user: None
+ - tags: ['catholic merch', 'shop']
+
+## Tommy Acierno | Personal Site
+ - [https://aciern.ooo](https://aciern.ooo)
+ - date published: 2023-12-24T02:30:43.754056+00:00
+ - user: None
+ - tags: ['personal']
+
+## rebeccaÂ®
+ - [https://becca.ooo](https://becca.ooo)
+ - date published: 2024-02-21T07:38:24.158690+00:00
+ - user: None
+ - tags: []
+
 ## Memo Garcia
  - [https://memooo.ooo](https://memooo.ooo)
  - date published: 2023-10-25T20:52:23.026355+00:00
@@ -293,14 +479,14 @@
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2725,14 +2911,14 @@
  - tags: []
 
 ## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [https://blog.cerowrt.org](https://blog.cerowrt.org)
- - date published: 2023-10-25T21:06:57.314728+00:00
+ - [http://blog.cerowrt.org](http://blog.cerowrt.org)
+ - date published: 2024-02-25T15:50:51.524978+00:00
  - user: None
  - tags: []
 
 ## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [http://blog.cerowrt.org](http://blog.cerowrt.org)
- - date published: 2024-02-25T15:50:51.524978+00:00
+ - [https://blog.cerowrt.org](https://blog.cerowrt.org)
+ - date published: 2023-10-25T21:06:57.314728+00:00
  - user: None
  - tags: []
 
@@ -3741,16 +3927,16 @@
  - tags: []
 
 ## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
- - [http://cvsgui.org](http://cvsgui.org)
- - date published: 2024-03-05T00:16:31.622060+00:00
- - user: None
- - tags: []
-
-## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
  - [https://cvsgui.org](https://cvsgui.org)
  - date published: 2024-03-04T12:06:02+00:00
  - user: rumpel
  - tags: ['control version system', 'program', 'open source']
+
+## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
+ - [http://cvsgui.org](http://cvsgui.org)
+ - date published: 2024-03-05T00:16:31.622060+00:00
+ - user: None
+ - tags: []
 
 ## California Water Environment Association | Champions of Wastewater
  - [https://www.cwea.org](https://www.cwea.org)
@@ -4372,14 +4558,14 @@
  - tags: []
 
 ## Resolve a DOI Name
- - [https://dx.doi.org](https://dx.doi.org)
- - date published: 2023-12-03T01:17:58.110575+00:00
+ - [http://dx.doi.org](http://dx.doi.org)
+ - date published: 2024-02-27T01:04:33.113692+00:00
  - user: None
  - tags: []
 
 ## Resolve a DOI Name
- - [http://dx.doi.org](http://dx.doi.org)
- - date published: 2024-02-27T01:04:33.113692+00:00
+ - [https://dx.doi.org](https://dx.doi.org)
+ - date published: 2023-12-03T01:17:58.110575+00:00
  - user: None
  - tags: []
 
@@ -4528,16 +4714,16 @@
  - tags: []
 
 ## Kohina Web Player
- - [https://kohina.duckdns.org](https://kohina.duckdns.org)
- - date published: 2024-02-15T22:13:24.519956+00:00
- - user: None
- - tags: ['demoscene']
-
-## Kohina Web Player
  - [http://kohina.duckdns.org](http://kohina.duckdns.org)
  - date published: 2024-02-11T14:38:28.495727+00:00
  - user: None
  - tags: []
+
+## Kohina Web Player
+ - [https://kohina.duckdns.org](https://kohina.duckdns.org)
+ - date published: 2024-02-15T22:13:24.519956+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Duck DNS
  - [https://www.duckdns.org](https://www.duckdns.org)
@@ -5820,192 +6006,6 @@
 ## Welcome to the FreeBSD mailing list archive
  - [https://mail-archive.freebsd.org](https://mail-archive.freebsd.org)
  - date published: 2024-01-21T19:44:58.536359+00:00
- - user: None
- - tags: []
-
-## FreeBSD Homepages - redirect
- - [https://people.freebsd.org](https://people.freebsd.org)
- - date published: 2023-10-25T21:22:32.400113+00:00
- - user: None
- - tags: []
-
-## The FreeBSD Project
- - [https://www.freebsd.org](https://www.freebsd.org)
- - date published: 2023-10-25T21:22:33.812166+00:00
- - user: None
- - tags: ['operating system', 'linux']
-
-## None
- - [https://issue.freebsdfoundation.org](https://issue.freebsdfoundation.org)
- - date published: 2024-01-09T03:39:45.663594+00:00
- - user: None
- - tags: []
-
-## FreeCAD Forum - FreeCAD forum
- - [https://forum.freecad.org](https://forum.freecad.org)
- - date published: 2023-10-25T21:22:34.862514+00:00
- - user: None
- - tags: []
-
-## Freeciv.org - open source empire-building strategy game.
- - [https://freeciv.org](https://freeciv.org)
- - date published: 2024-01-09T03:39:56.984328+00:00
- - user: None
- - tags: []
-
-## https://www.freecodecamp.org
- - [https://www.freecodecamp.org](https://www.freecodecamp.org)
- - date published: 2023-12-11T12:20:17+00:00
- - user: rumpel
- - tags: ['tutorials', 'courses']
-
-## Free Code Tools - Build better and faster
- - [https://freecodetools.org](https://freecodetools.org)
- - date published: 2023-10-25T21:22:36.834803+00:00
- - user: None
- - tags: []
-
-## freedesktop.org git repository browser
- - [https://cgit.freedesktop.org](https://cgit.freedesktop.org)
- - date published: 2024-01-09T03:40:11.555074+00:00
- - user: None
- - tags: []
-
-## www
- - [https://freedesktop.org](https://freedesktop.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['software platform']
-
-## Explore groups · GitLab
- - [https://gitlab.freedesktop.org](https://gitlab.freedesktop.org)
- - date published: 2023-10-25T21:22:53.665835+00:00
- - user: None
- - tags: []
-
-## lists.freedesktop.org Mailing Lists
- - [https://lists.freedesktop.org](https://lists.freedesktop.org)
- - date published: 2024-03-07T21:42:44.490922+00:00
- - user: None
- - tags: []
-
-## Poppler
- - [https://poppler.freedesktop.org](https://poppler.freedesktop.org)
- - date published: 2023-10-25T21:22:54.773695+00:00
- - user: None
- - tags: []
-
-## Wayland
- - [https://wayland.freedesktop.org](https://wayland.freedesktop.org)
- - date published: 2023-10-30T14:01:41.938140+00:00
- - user: None
- - tags: ['open source', 'wayland']
-
-## FreeLists
- - [https://www.freelists.org](https://www.freelists.org)
- - date published: 2023-10-25T21:22:55.668408+00:00
- - user: None
- - tags: []
-
-## FreeNAS Community
- - [https://forum.freenas-community.org](https://forum.freenas-community.org)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Freenet
- - [https://freenet.org](https://freenet.org)
- - date published: 2023-10-25T21:22:56.444630+00:00
- - user: None
- - tags: []
-
-## Hyphanet
- - [https://freenetproject.org](https://freenetproject.org)
- - date published: 2023-10-25T21:22:57.618651+00:00
- - user: None
- - tags: []
-
-## nginx news
- - [https://freenginx.org](https://freenginx.org)
- - date published: 2024-02-20T20:58:45.327219+00:00
- - user: None
- - tags: []
-
-## THE OFFICIAL WEBSITE FOR ROSS ULBRICHT | FreeRoss.org
- - [https://freeross.org](https://freeross.org)
- - date published: 2023-10-25T21:23:00.806197+00:00
- - user: None
- - tags: []
-
-## SDF Public Access UNIX System - Free Shell Account and Shell Access
- - [https://brianb.freeshell.org](https://brianb.freeshell.org)
- - date published: 2024-01-09T03:40:21.225501+00:00
- - user: None
- - tags: []
-
-## The FreeType Project
- - [https://www.freetype.org](https://www.freetype.org)
- - date published: 2023-12-11T18:29:58.837138+00:00
- - user: None
- - tags: []
-
-## Frente Patriota Federal
- - [https://frentepatriota.org](https://frentepatriota.org)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## FreshRSS, a free, self-hostable feeds aggregator
- - [https://freshrss.org](https://freshrss.org)
- - date published: 2023-10-25T08:33:42.668110+00:00
- - user: None
- - tags: ['rss reader']
-
-## FreshRSS, a free, self-hostable feeds aggregator
- - [https://www.freshrss.org](https://www.freshrss.org)
- - date published: 2023-10-25T08:30:53.379132+00:00
- - user: None
- - tags: []
-
-## Frink
- - [https://frinklang.org](https://frinklang.org)
- - date published: 2023-11-03T15:33:16.841160+00:00
- - user: None
- - tags: []
-
-## FROG PEAK MUSIC (a composers\' collective)
- - [http://www.frogpeak.org](http://www.frogpeak.org)
- - date published: 2023-10-25T21:23:03.243812+00:00
- - user: None
- - tags: []
-
-## Home - Science & research news | Frontiers
- - [https://blog.frontiersin.org](https://blog.frontiersin.org)
- - date published: 2023-10-25T21:23:07.967640+00:00
- - user: None
- - tags: []
-
-## Frontiers for Young Minds: Science for kids, edited by kids
- - [https://kids.frontiersin.org](https://kids.frontiersin.org)
- - date published: 2023-10-25T21:23:11.244829+00:00
- - user: None
- - tags: []
-
-## Frontiers | Publisher of peer-reviewed articles in open access journals
- - [https://www.frontiersin.org](https://www.frontiersin.org)
- - date published: 2023-10-25T21:23:13.104896+00:00
- - user: None
- - tags: ['science', 'articles']
-
-## None
- - [https://static.fsf.org](https://static.fsf.org)
- - date published: 2024-02-25T20:15:02.301334+00:00
- - user: None
- - tags: []
-
-## Front Page — Free Software Foundation — working together for free software
- - [https://www.fsf.org](https://www.fsf.org)
- - date published: 2023-10-25T11:34:35.490281+00:00
  - user: None
  - tags: []
 

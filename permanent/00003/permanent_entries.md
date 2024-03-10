@@ -1,4 +1,10 @@
 ## Information Processing
+ - [http://infoproc.blogspot.com](http://infoproc.blogspot.com)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Information Processing
  - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
  - date published: 2023-10-25T09:09:06.318517+00:00
  - user: None
@@ -1901,6 +1907,12 @@
  - date published: 2023-12-09T23:08:19.504764+00:00
  - user: None
  - tags: ['buenos aires']
+
+## Buffer: All-you-need social media toolkit for small businesses
+ - [https://buffer.com](https://buffer.com)
+ - date published: 2024-03-09T12:08:30+00:00
+ - user: rumpel
+ - tags: ['social media company']
 
 ## BUGFIX-66
  - [https://bugfix-66.com](https://bugfix-66.com)
@@ -4350,6 +4362,12 @@
  - user: None
  - tags: []
 
+## CityQ.com
+ - [https://www.cityq.com](https://www.cityq.com)
+ - date published: 2024-03-09T18:46:33+00:00
+ - user: rumpel
+ - tags: ['electric bike']
+
 ## City Telegraph : Telegraph Online, Daily Telegraph, Sunday Telegraph
  - [https://citytelegraph.com](https://citytelegraph.com)
  - date published: 2023-12-15T11:08:41.428037+00:00
@@ -5992,22 +6010,4 @@
  - date published: 2023-10-27T11:05:03.317068+00:00
  - user: None
  - tags: ['wtf']
-
-## Corina Burri.
- - [https://corinaburri.com](https://corinaburri.com)
- - date published: 2023-12-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## Corina Burri.
- - [https://www.corinaburri.com](https://www.corinaburri.com)
- - date published: 2024-01-10T18:10:02.887785+00:00
- - user: None
- - tags: []
-
-## CorkJockey
- - [https://corkjockey.com](https://corkjockey.com)
- - date published: 2024-01-26T22:23:18.041119+00:00
- - user: None
- - tags: []
 

@@ -1,3 +1,21 @@
+## Corina Burri.
+ - [https://corinaburri.com](https://corinaburri.com)
+ - date published: 2023-12-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Corina Burri.
+ - [https://www.corinaburri.com](https://www.corinaburri.com)
+ - date published: 2024-01-10T18:10:02.887785+00:00
+ - user: None
+ - tags: []
+
+## CorkJockey
+ - [https://corkjockey.com](https://corkjockey.com)
+ - date published: 2024-01-26T22:23:18.041119+00:00
+ - user: None
+ - tags: []
+
 ## The Cornell Daily Sun - Independent Since 1880
  - [https://cornellsun.com](https://cornellsun.com)
  - date published: 2024-02-28T15:29:41.625531+00:00
@@ -2279,6 +2297,12 @@
  - user: None
  - tags: []
 
+## Gallery of Simple Websites
+ - [https://deadsimplesites.com](https://deadsimplesites.com)
+ - date published: 2024-03-09T14:07:33+00:00
+ - user: None
+ - tags: ['web1']
+
 ## Deadville
  - [https://www.deadville.com](https://www.deadville.com)
  - date published: 2023-12-25T17:18:21.336759+00:00
@@ -2664,14 +2688,14 @@
  - tags: []
 
 ## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [http://democratherald.com](http://democratherald.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://democratherald.com](https://democratherald.com)
+ - date published: 2023-11-04T05:50:19.542658+00:00
  - user: None
  - tags: []
 
 ## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [https://democratherald.com](https://democratherald.com)
- - date published: 2023-11-04T05:50:19.542658+00:00
+ - [http://democratherald.com](http://democratherald.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4369,14 +4393,14 @@
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [https://drinkag1.com](https://drinkag1.com)
- - date published: 2024-02-24T09:55:07.922857+00:00
+ - [http://drinkag1.com](http://drinkag1.com)
+ - date published: 2024-01-21T19:15:07.982155+00:00
  - user: None
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [http://drinkag1.com](http://drinkag1.com)
- - date published: 2024-01-21T19:15:07.982155+00:00
+ - [https://drinkag1.com](https://drinkag1.com)
+ - date published: 2024-02-24T09:55:07.922857+00:00
  - user: None
  - tags: []
 
@@ -5712,6 +5736,12 @@
  - user: None
  - tags: []
 
+## elpasoinc.com | El Paso Owned and Proud
+ - [https://www.elpasoinc.com](https://www.elpasoinc.com)
+ - date published: 2024-01-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## El Paso Breaking News Sports Entertainment Lifestyle Opinion - El Paso Times
  - [https://www.elpasotimes.com](https://www.elpasotimes.com)
  - date published: 2023-12-09T15:58:18.353131+00:00
@@ -5967,36 +5997,6 @@
 ## Portal o energetyce | Energetyka24
  - [https://energetyka24.com](https://energetyka24.com)
  - date published: 2023-10-25T14:07:11.459555+00:00
- - user: None
- - tags: []
-
-## Energy Capital & Power
- - [https://energycapitalpower.com](https://energycapitalpower.com)
- - date published: 2023-11-25T06:54:41.624265+00:00
- - user: None
- - tags: []
-
-## Engadget is part of the Yahoo family of brands
- - [https://www.engadget.com](https://www.engadget.com)
- - date published: 2024-02-06T12:59:41.035958+00:00
- - user: None
- - tags: ['tech news']
-
-## Home - Engaging Data
- - [https://engaging-data.com](https://engaging-data.com)
- - date published: 2023-10-25T14:07:23.332596+00:00
- - user: None
- - tags: []
-
-## The Software Engineer's Guidebook
- - [https://www.engguidebook.com](https://www.engguidebook.com)
- - date published: 2023-11-08T00:46:17+00:00
- - user: None
- - tags: []
-
-## ENGIE North America enables the carbon-neutral economy  - ENGIE North America
- - [https://www.engie-na.com](https://www.engie-na.com)
- - date published: 2024-02-08T18:03:45.158713+00:00
  - user: None
  - tags: []
 

@@ -4366,6 +4366,12 @@
  - user: None
  - tags: ['youtube']
 
+## Morgan Wattiez ‚Äì Quality is always right
+ - [https://morgan.zoemp.be](https://morgan.zoemp.be)
+ - date published: 2024-03-09T15:57:22.261140+00:00
+ - user: None
+ - tags: ['personal']
+
 ## FaceSwap.Beauty - Online Face Swapping Tool | Deep Swap
  - [https://www.faceswap.beauty](https://www.faceswap.beauty)
  - date published: 2024-01-20T10:20:41.362758+00:00
@@ -5992,10 +5998,4 @@
  - date published: 2023-12-04T09:28:03.340314+00:00
  - user: None
  - tags: []
-
-## Paul Henman
- - [https://henman.ca](https://henman.ca)
- - date published: 2023-12-12T04:55:06.206081+00:00
- - user: None
- - tags: ['personal']
 

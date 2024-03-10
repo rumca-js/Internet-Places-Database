@@ -1,3 +1,9 @@
+## A Little Adrift — 10+ Years of Stories From Around the World
+ - [https://alittleadrift.com](https://alittleadrift.com)
+ - date published: 2023-12-24T08:15:27.031098+00:00
+ - user: None
+ - tags: ['personal']
+
 ## A Little Blog of Books
  - [https://alittleblogofbooks.com](https://alittleblogofbooks.com)
  - date published: 2024-01-13T00:00:00+00:00
@@ -1871,14 +1877,14 @@
  - tags: []
 
 ## * arachnoid.com
- - [http://arachnoid.com](http://arachnoid.com)
- - date published: 2006-10-19T00:00:00+00:00
+ - [https://arachnoid.com](https://arachnoid.com)
+ - date published: 2023-10-25T12:43:42.377144+00:00
  - user: None
  - tags: []
 
 ## * arachnoid.com
- - [https://arachnoid.com](https://arachnoid.com)
- - date published: 2023-10-25T12:43:42.377144+00:00
+ - [http://arachnoid.com](http://arachnoid.com)
+ - date published: 2006-10-19T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5989,12 +5995,6 @@
 ## Nie znaleziono bloga
  - [https://heyjudyitsnoonsomewhere.blogspot.com](https://heyjudyitsnoonsomewhere.blogspot.com)
  - date published: 2024-02-08T22:25:30.501122+00:00
- - user: None
- - tags: []
-
-## Information Processing
- - [http://infoproc.blogspot.com](http://infoproc.blogspot.com)
- - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 

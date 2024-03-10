@@ -1,3 +1,33 @@
+## Energy Capital & Power
+ - [https://energycapitalpower.com](https://energycapitalpower.com)
+ - date published: 2023-11-25T06:54:41.624265+00:00
+ - user: None
+ - tags: []
+
+## Engadget is part of the Yahoo family of brands
+ - [https://www.engadget.com](https://www.engadget.com)
+ - date published: 2024-02-06T12:59:41.035958+00:00
+ - user: None
+ - tags: ['tech news']
+
+## Home - Engaging Data
+ - [https://engaging-data.com](https://engaging-data.com)
+ - date published: 2023-10-25T14:07:23.332596+00:00
+ - user: None
+ - tags: []
+
+## The Software Engineer's Guidebook
+ - [https://www.engguidebook.com](https://www.engguidebook.com)
+ - date published: 2023-11-08T00:46:17+00:00
+ - user: None
+ - tags: []
+
+## ENGIE North America enables the carbon-neutral economy  - ENGIE North America
+ - [https://www.engie-na.com](https://www.engie-na.com)
+ - date published: 2024-02-08T18:03:45.158713+00:00
+ - user: None
+ - tags: []
+
 ## Engineering Book Club - Online community for reading books
  - [https://www.engineeringbookclub.com](https://www.engineeringbookclub.com)
  - date published: 2023-10-25T14:07:27.340540+00:00
@@ -1253,14 +1283,14 @@
  - tags: []
 
 ## Log in or sign up to view
- - [http://facebook.com](http://facebook.com)
- - date published: 2024-02-24T09:56:45.941514+00:00
+ - [https://facebook.com](https://facebook.com)
+ - date published: 2023-12-11T16:53:43.180916+00:00
  - user: None
  - tags: []
 
 ## Log in or sign up to view
- - [https://facebook.com](https://facebook.com)
- - date published: 2023-12-11T16:53:43.180916+00:00
+ - [http://facebook.com](http://facebook.com)
+ - date published: 2024-02-24T09:56:45.941514+00:00
  - user: None
  - tags: []
 
@@ -5190,17 +5220,17 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: ['code sandbox']
 
-## Grimoire: Open-Source bookmark manager with extra features
- - [https://github.com/goniszewski/grimoire](https://github.com/goniszewski/grimoire)
- - date published: 2023-11-26T08:04:54+00:00
- - user: rumpel
- - tags: ['bookmark manager', 'open source']
-
 ## GitHub: Let’s build from here · GitHub
  - [https://github.com](https://github.com)
  - date published: 2023-10-25T14:42:43.938249+00:00
  - user: None
  - tags: ['gatekeeper', 'software platform']
+
+## Grimoire: Open-Source bookmark manager with extra features
+ - [https://github.com/goniszewski/grimoire](https://github.com/goniszewski/grimoire)
+ - date published: 2023-11-26T08:04:54+00:00
+ - user: rumpel
+ - tags: ['bookmark manager', 'open source']
 
 ## GitHub Pages
  - [https://pages.github.com](https://pages.github.com)
@@ -5969,34 +5999,4 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-10-25T08:28:06.744876+00:00
  - user: None
  - tags: ['gatekeeper', 'search engine']
-
-## Hosted Libraries  |  Google for Developers
- - [https://ajax.googleapis.com](https://ajax.googleapis.com)
- - date published: 2023-12-11T16:52:24.286615+00:00
- - user: None
- - tags: []
-
-## Error 404 (Not Found)!!1
- - [https://fonts.googleapis.com](https://fonts.googleapis.com)
- - date published: 2023-12-11T16:10:31.937427+00:00
- - user: None
- - tags: []
-
-## Google Maps Platform  |  Google for Developers
- - [https://maps.googleapis.com](https://maps.googleapis.com)
- - date published: 2023-12-11T16:56:21.677508+00:00
- - user: None
- - tags: []
-
-## https://storage.googleapis.com
- - [https://storage.googleapis.com](https://storage.googleapis.com)
- - date published: 2024-01-09T02:37:43.017616+00:00
- - user: None
- - tags: []
-
-## Google Research Blog
- - [https://ai.googleblog.com](https://ai.googleblog.com)
- - date published: 2023-10-25T14:47:46.285153+00:00
- - user: None
- - tags: []
 

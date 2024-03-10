@@ -1,3 +1,45 @@
+## Jeff MacKinnon's Homepage
+ - [https://jeffmackinnon.com](https://jeffmackinnon.com)
+ - date published: 2024-02-05T20:57:27.042068+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeff McNeill Resume
+ - [https://jeffmcneill.com](https://jeffmcneill.com)
+ - date published: 2024-02-03T14:51:48.458143+00:00
+ - user: None
+ - tags: []
+
+## Home | Jeff Nobbs
+ - [https://www.jeffnobbs.com](https://www.jeffnobbs.com)
+ - date published: 2023-10-25T08:46:33.428500+00:00
+ - user: None
+ - tags: ['personal']
+
+## Work | jeff-parker-cooks
+ - [https://www.jeffparkercooks.com](https://www.jeffparkercooks.com)
+ - date published: 2023-11-29T15:44:34.183948+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jeff Sandquist
+ - [https://jeffsandquist.com](https://jeffsandquist.com)
+ - date published: 2024-02-26T08:21:51.260717+00:00
+ - user: None
+ - tags: []
+
+## Jeff Sandquist – Just a farmer.
+ - [https://www.jeffsandquist.com](https://www.jeffsandquist.com)
+ - date published: 2023-10-25T09:20:57.411695+00:00
+ - user: None
+ - tags: ['personal']
+
+## 仿生猫不会梦见电子猫粮 — To make each day count.
+ - [https://jefftay.com](https://jefftay.com)
+ - date published: 2024-01-06T08:55:43.170901+00:00
+ - user: None
+ - tags: []
+
 ## Jeff Kaufman
  - [https://www.jefftk.com](https://www.jefftk.com)
  - date published: 2023-10-25T09:20:58.479167+00:00
@@ -3569,6 +3611,12 @@
  - user: None
  - tags: []
 
+## La Femme | Official Website
+ - [https://www.lafemmemusic.com](https://www.lafemmemusic.com)
+ - date published: 2024-01-19T00:00:00+00:00
+ - user: rumpel
+ - tags: ['music band']
+
 ## Lagged - Free Online Games on Lagged.com
  - [https://lagged.com](https://lagged.com)
  - date published: 2023-10-25T11:16:36.744329+00:00
@@ -5910,17 +5958,17 @@ Chamber Music, Symphony
  - user: None
  - tags: []
 
-## Linus Tech Tips Store
- - [https://www.lttstore.com](https://www.lttstore.com)
- - date published: 2023-12-21T17:45:27+00:00
- - user: rumpel
- - tags: ['merchendise', 'tech']
-
 ## LTTStore
  - [http://www.lttstore.com](http://www.lttstore.com)
  - date published: 2024-02-03T00:00:00+00:00
  - user: None
  - tags: []
+
+## Linus Tech Tips Store
+ - [https://www.lttstore.com](https://www.lttstore.com)
+ - date published: 2023-12-21T17:45:27+00:00
+ - user: rumpel
+ - tags: ['merchendise', 'tech']
 
 ## Whale LAN
  - [https://www.ltxexpo.com](https://www.ltxexpo.com)
@@ -5949,54 +5997,6 @@ Chamber Music, Symphony
 ## Lucas' Blog
  - [https://lucaspauker.com](https://lucaspauker.com)
  - date published: 2023-10-25T15:51:59.452646+00:00
- - user: None
- - tags: []
-
-## Lucas Schiavini | ルスキラ
- - [https://lucas-schiavini.com](https://lucas-schiavini.com)
- - date published: 2023-12-12T04:53:17.195643+00:00
- - user: None
- - tags: ['personal']
-
-## https://blog.luccasiau.com
- - [https://blog.luccasiau.com](https://blog.luccasiau.com)
- - date published: 2024-01-20T22:40:46.364035+00:00
- - user: None
- - tags: []
-
-## Lucidity
- - [https://luciditysystems.com](https://luciditysystems.com)
- - date published: 2023-10-25T15:52:03.701234+00:00
- - user: None
- - tags: []
-
-## Investor Relations | Lucid Group, Inc.
- - [https://ir.lucidmotors.com](https://ir.lucidmotors.com)
- - date published: 2023-10-25T15:52:13.846409+00:00
- - user: None
- - tags: []
-
-## Ahoy!
- - [https://lucybellwood.com](https://lucybellwood.com)
- - date published: 2016-10-07T21:54:11+00:00
- - user: None
- - tags: []
-
-## Nicholas Fraser
- - [https://ludocode.com](https://ludocode.com)
- - date published: 2023-10-25T15:52:14.415437+00:00
- - user: None
- - tags: []
-
-## Luísa Baltazar
- - [https://luisabaltazar.com](https://luisabaltazar.com)
- - date published: 2023-08-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Lujendra Ojha
- - [https://www.lujendraojha.com](https://www.lujendraojha.com)
- - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 

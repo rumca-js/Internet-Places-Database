@@ -1,3 +1,87 @@
+## ScarletGirl
+ - [https://www.scarletgirl.com](https://www.scarletgirl.com)
+ - date published: 2024-02-08T16:58:16.074310+00:00
+ - user: None
+ - tags: []
+
+## https://www.scarletink.com
+ - [https://www.scarletink.com](https://www.scarletink.com)
+ - date published: 2023-12-07T08:41:07.140775+00:00
+ - user: None
+ - tags: []
+
+## Scary Pockets
+ - [https://www.scarypocketsfunk.com](https://www.scarypocketsfunk.com)
+ - date published: 2023-10-30T13:30:50.613174+00:00
+ - user: None
+ - tags: ['music band']
+
+## Apache2 Ubuntu Default Page: It works
+ - [http://marmalade.scenesat.com](http://marmalade.scenesat.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome | SceneSat
+ - [https://scenesat.com](https://scenesat.com)
+ - date published: 2024-02-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://sc.scenesat.com](http://sc.scenesat.com)
+ - date published: 2024-02-15T05:07:24.445723+00:00
+ - user: None
+ - tags: []
+
+## #1 GPS Car Tracking Kenya from 4,500/- | Scepture Empire
+ - [https://scepturempire.com](https://scepturempire.com)
+ - date published: 2023-12-12T04:53:34.071795+00:00
+ - user: None
+ - tags: ['personal']
+
+## Franklin Schargel Consulting | Developing World Class Schools and Graduates
+ - [https://schargel.com](https://schargel.com)
+ - date published: 2024-02-24T09:59:48.824286+00:00
+ - user: None
+ - tags: []
+
+## Sched CDN
+ - [https://static.sched.com](https://static.sched.com)
+ - date published: 2023-10-25T16:58:32.047651+00:00
+ - user: None
+ - tags: []
+
+## Schemescape
+ - [https://log.schemescape.com](https://log.schemescape.com)
+ - date published: 2023-10-25T16:58:33.610205+00:00
+ - user: None
+ - tags: []
+
+## Europe Travel Entry and Visa Requirements
+ - [https://www.schengenvisainfo.com](https://www.schengenvisainfo.com)
+ - date published: 2024-01-03T21:32:38.569064+00:00
+ - user: None
+ - tags: []
+
+## Entry Door Knobs, Door Locks & Hardware for Doors | Schlage
+ - [https://www.schlage.com](https://www.schlage.com)
+ - date published: 2024-03-05T16:08:03.576342+00:00
+ - user: None
+ - tags: []
+
+## You are being redirected...
+ - [https://ordering.schlotzskys.com](https://ordering.schlotzskys.com)
+ - date published: 2024-02-08T18:20:45.081717+00:00
+ - user: None
+ - tags: []
+
+## schmatzberger.com – Die Website von Günter Schmatzberger
+ - [https://www.schmatzberger.com](https://www.schmatzberger.com)
+ - date published: 2023-12-03T09:19:10.285708+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Homepage - Schmidt Futures
  - [https://www.schmidtfutures.com](https://www.schmidtfutures.com)
  - date published: 2023-10-25T16:58:36.285547+00:00
@@ -69,6 +153,12 @@
  - date published: 2023-10-25T16:58:58.341469+00:00
  - user: None
  - tags: []
+
+## ScienceBlog
+ - [https://scienceblog.com](https://scienceblog.com)
+ - date published: 2024-03-09T20:33:04+00:00
+ - user: rumpel
+ - tags: ['science']
 
 ## ScienceBlogs - Where the world discusses science.
  - [https://scienceblogs.com](https://scienceblogs.com)
@@ -787,6 +877,12 @@
 ## Continuous Integration & Delivery - Semaphore
  - [https://semaphoreci.com](https://semaphoreci.com)
  - date published: 2023-10-25T17:01:46.828627+00:00
+ - user: None
+ - tags: []
+
+## Semantic Designs
+ - [http://www.semdesigns.com](http://www.semdesigns.com)
+ - date published: 2024-03-09T21:42:32.849054+00:00
  - user: None
  - tags: []
 
@@ -2388,16 +2484,16 @@
  - tags: ['assets audio']
 
 ## Snarling Badger Studios
- - [https://www.snarlingbadger.com](https://www.snarlingbadger.com)
- - date published: 2023-11-10T10:42:34.914133+00:00
- - user: None
- - tags: ['magazine', 'tabletop games', 'warhammer', 'wargames', 'zine']
-
-## Snarling Badger Studios
  - [http://www.snarlingbadger.com](http://www.snarlingbadger.com)
  - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## Snarling Badger Studios
+ - [https://www.snarlingbadger.com](https://www.snarlingbadger.com)
+ - date published: 2023-11-10T10:42:34.914133+00:00
+ - user: None
+ - tags: ['magazine', 'tabletop games', 'warhammer', 'wargames', 'zine']
 
 ## Serge Nevsky
  - [https://snevsky.com](https://snevsky.com)
@@ -2480,6 +2576,12 @@
 ## The Sofia Globe – Bulgaria’s independent English-language news and features website.
  - [https://sofiaglobe.com](https://sofiaglobe.com)
  - date published: 2023-10-25T17:07:35.226802+00:00
+ - user: None
+ - tags: []
+
+## SOFREP | Military Culture, Foreign Policy & Defense News
+ - [https://sofrep.com](https://sofrep.com)
+ - date published: 2024-03-09T21:43:09.861417+00:00
  - user: None
  - tags: []
 
@@ -3590,14 +3692,14 @@
  - tags: []
 
 ## Biology Stack Exchange
- - [http://biology.stackexchange.com](http://biology.stackexchange.com)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://biology.stackexchange.com](https://biology.stackexchange.com)
+ - date published: 2024-01-10T09:05:16.771549+00:00
  - user: None
  - tags: []
 
 ## Biology Stack Exchange
- - [https://biology.stackexchange.com](https://biology.stackexchange.com)
- - date published: 2024-01-10T09:05:16.771549+00:00
+ - [http://biology.stackexchange.com](http://biology.stackexchange.com)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3728,14 +3830,14 @@
  - tags: []
 
 ## Physics Stack Exchange
- - [http://physics.stackexchange.com](http://physics.stackexchange.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://physics.stackexchange.com](https://physics.stackexchange.com)
+ - date published: 2023-10-25T17:13:56.651090+00:00
  - user: None
  - tags: []
 
 ## Physics Stack Exchange
- - [https://physics.stackexchange.com](https://physics.stackexchange.com)
- - date published: 2023-10-25T17:13:56.651090+00:00
+ - [http://physics.stackexchange.com](http://physics.stackexchange.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3824,14 +3926,14 @@
  - tags: []
 
 ## Unix & Linux Stack Exchange
- - [http://unix.stackexchange.com](http://unix.stackexchange.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://unix.stackexchange.com](https://unix.stackexchange.com)
+ - date published: 2023-10-25T17:14:39.830149+00:00
  - user: None
  - tags: []
 
 ## Unix & Linux Stack Exchange
- - [https://unix.stackexchange.com](https://unix.stackexchange.com)
- - date published: 2023-10-25T17:14:39.830149+00:00
+ - [http://unix.stackexchange.com](http://unix.stackexchange.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4465,15 +4567,15 @@
  - user: None
  - tags: []
 
-## stltoday.com | Read St. Louis, MO and Missouri breaking news. Get latest news, events and information on Missouri sports, weather, entertainment and lifestyles.
- - [http://www.stltoday.com](http://www.stltoday.com)
- - date published: 2024-01-29T00:00:00+00:00
- - user: None
- - tags: []
-
 ## St. Louis Post-Dispatch | Breaking News | | Read St. Louis, MO and Missouri breaking news. Get latest news, events and information on Missouri sports, weather, entertainment and lifestyles.
  - [https://www.stltoday.com](https://www.stltoday.com)
  - date published: 2023-10-25T17:17:29.361272+00:00
+ - user: None
+ - tags: []
+
+## stltoday.com | Read St. Louis, MO and Missouri breaking news. Get latest news, events and information on Missouri sports, weather, entertainment and lifestyles.
+ - [http://www.stltoday.com](http://www.stltoday.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4622,16 +4724,22 @@
  - tags: []
 
 ## Upload Video Online - Free Video Hosting - Streamable
+ - [https://streamable.com](https://streamable.com)
+ - date published: 2023-10-25T11:44:38.857649+00:00
+ - user: None
+ - tags: ['video streaming']
+
+## Upload Video Online - Free Video Hosting - Streamable
  - [http://streamable.com](http://streamable.com)
  - date published: 2023-12-25T10:44:57.433810+00:00
  - user: None
  - tags: []
 
-## Upload Video Online - Free Video Hosting - Streamable
- - [https://streamable.com](https://streamable.com)
- - date published: 2023-10-25T11:44:38.857649+00:00
+## Coming soon | StreamBeats
+ - [https://www.streambeats.com](https://www.streambeats.com)
+ - date published: 2024-03-09T09:00:19.571929+00:00
  - user: None
- - tags: ['video streaming']
+ - tags: []
 
 ## Streamdal Console
  - [https://demo.streamdal.com](https://demo.streamdal.com)
@@ -4808,14 +4916,14 @@
  - tags: []
 
 ## stylewarning's screed
- - [http://www.stylewarning.com](http://www.stylewarning.com)
- - date published: 2023-07-16T00:00:00+00:00
+ - [https://www.stylewarning.com](https://www.stylewarning.com)
+ - date published: 2023-10-25T17:18:48.645431+00:00
  - user: None
  - tags: []
 
 ## stylewarning's screed
- - [https://www.stylewarning.com](https://www.stylewarning.com)
- - date published: 2023-10-25T17:18:48.645431+00:00
+ - [http://www.stylewarning.com](http://www.stylewarning.com)
+ - date published: 2023-07-16T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5186,14 +5294,14 @@
  - tags: ['substack']
 
 ## atomic14 | Chris Greening | Substack
- - [http://atomic14.substack.com](http://atomic14.substack.com)
- - date published: 2024-01-05T00:00:00+00:00
+ - [https://atomic14.substack.com](https://atomic14.substack.com)
+ - date published: 2023-11-04T18:28:36.332399+00:00
  - user: None
  - tags: []
 
 ## atomic14 | Chris Greening | Substack
- - [https://atomic14.substack.com](https://atomic14.substack.com)
- - date published: 2023-11-04T18:28:36.332399+00:00
+ - [http://atomic14.substack.com](http://atomic14.substack.com)
+ - date published: 2024-01-05T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5221,15 +5329,15 @@
  - user: None
  - tags: ['substack']
 
-## https://badnewsletter.substack.com
- - [https://badnewsletter.substack.com](https://badnewsletter.substack.com)
- - date published: 2024-01-21T18:29:58.388675+00:00
- - user: None
- - tags: []
-
 ## The Bad News Letter | Josh Drummond | Substack
  - [http://badnewsletter.substack.com](http://badnewsletter.substack.com)
  - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://badnewsletter.substack.com
+ - [https://badnewsletter.substack.com](https://badnewsletter.substack.com)
+ - date published: 2024-01-21T18:29:58.388675+00:00
  - user: None
  - tags: []
 
@@ -5280,6 +5388,12 @@
  - date published: 2023-10-25T09:43:46.375111+00:00
  - user: None
  - tags: ['substack']
+
+## Bibliopunk | Luis Senna | Substack
+ - [https://bibliopunk.substack.com](https://bibliopunk.substack.com)
+ - date published: 2024-03-09T06:48:27.036350+00:00
+ - user: None
+ - tags: []
 
 ## The Biblioracle Recommends | John Warner | Substack
  - [https://biblioracle.substack.com](https://biblioracle.substack.com)
@@ -5366,16 +5480,16 @@
  - tags: ['substack']
 
 ## Altered States of Monetary Consciousness | Brett Scott | Substack
- - [https://brettscott.substack.com](https://brettscott.substack.com)
- - date published: 2023-10-25T09:44:25.834898+00:00
- - user: None
- - tags: ['substack']
-
-## Altered States of Monetary Consciousness | Brett Scott | Substack
  - [http://brettscott.substack.com](http://brettscott.substack.com)
  - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
+
+## Altered States of Monetary Consciousness | Brett Scott | Substack
+ - [https://brettscott.substack.com](https://brettscott.substack.com)
+ - date published: 2023-10-25T09:44:25.834898+00:00
+ - user: None
+ - tags: ['substack']
 
 ## Build In Public Newsletter | KP | Substack
  - [https://buildinpublichub.substack.com](https://buildinpublichub.substack.com)
@@ -5414,14 +5528,14 @@
  - tags: ['substack']
 
 ## Welcome to Garbagetown | Catherynne M. Valente | Substack
- - [https://catvalente.substack.com](https://catvalente.substack.com)
- - date published: 2024-01-09T01:38:23.568122+00:00
+ - [http://catvalente.substack.com](http://catvalente.substack.com)
+ - date published: 2024-02-26T14:31:30.283238+00:00
  - user: None
  - tags: []
 
 ## Welcome to Garbagetown | Catherynne M. Valente | Substack
- - [http://catvalente.substack.com](http://catvalente.substack.com)
- - date published: 2024-02-26T14:31:30.283238+00:00
+ - [https://catvalente.substack.com](https://catvalente.substack.com)
+ - date published: 2024-01-09T01:38:23.568122+00:00
  - user: None
  - tags: []
 
@@ -5570,26 +5684,26 @@
  - tags: ['substack']
 
 ## Colin Meloy's Machine Shop | Substack
- - [https://colinmeloy.substack.com](https://colinmeloy.substack.com)
- - date published: 2024-01-09T01:38:49.317767+00:00
- - user: None
- - tags: []
-
-## Colin Meloy's Machine Shop | Substack
  - [http://colinmeloy.substack.com](http://colinmeloy.substack.com)
  - date published: 2024-02-25T18:35:11.550183+00:00
  - user: None
  - tags: []
 
-## Computer Ads from the Past | John Paul Wohlscheid | Substack
- - [http://computeradsfromthepast.substack.com](http://computeradsfromthepast.substack.com)
- - date published: 2024-02-25T19:21:33.362881+00:00
+## Colin Meloy's Machine Shop | Substack
+ - [https://colinmeloy.substack.com](https://colinmeloy.substack.com)
+ - date published: 2024-01-09T01:38:49.317767+00:00
  - user: None
  - tags: []
 
 ## Computer Ads from the Past | John Paul Wohlscheid | Substack
  - [https://computeradsfromthepast.substack.com](https://computeradsfromthepast.substack.com)
  - date published: 2024-01-09T01:38:51.718499+00:00
+ - user: None
+ - tags: []
+
+## Computer Ads from the Past | John Paul Wohlscheid | Substack
+ - [http://computeradsfromthepast.substack.com](http://computeradsfromthepast.substack.com)
+ - date published: 2024-02-25T19:21:33.362881+00:00
  - user: None
  - tags: []
 
@@ -5642,14 +5756,14 @@
  - tags: []
 
 ## Chris’s Substack | Chris Walker | Substack
- - [http://cpwalker.substack.com](http://cpwalker.substack.com)
- - date published: 2024-02-25T15:45:33.395973+00:00
+ - [https://cpwalker.substack.com](https://cpwalker.substack.com)
+ - date published: 2024-01-09T01:38:53.764125+00:00
  - user: None
  - tags: []
 
 ## Chris’s Substack | Chris Walker | Substack
- - [https://cpwalker.substack.com](https://cpwalker.substack.com)
- - date published: 2024-01-09T01:38:53.764125+00:00
+ - [http://cpwalker.substack.com](http://cpwalker.substack.com)
+ - date published: 2024-02-25T15:45:33.395973+00:00
  - user: None
  - tags: []
 
@@ -5678,14 +5792,14 @@
  - tags: ['substack']
 
 ## Cybersect | Robert Graham | Substack
- - [https://cybersect.substack.com](https://cybersect.substack.com)
- - date published: 2024-01-09T01:39:00.195911+00:00
+ - [http://cybersect.substack.com](http://cybersect.substack.com)
+ - date published: 2024-02-25T19:30:39.134526+00:00
  - user: None
  - tags: []
 
 ## Cybersect | Robert Graham | Substack
- - [http://cybersect.substack.com](http://cybersect.substack.com)
- - date published: 2024-02-25T19:30:39.134526+00:00
+ - [https://cybersect.substack.com](https://cybersect.substack.com)
+ - date published: 2024-01-09T01:39:00.195911+00:00
  - user: None
  - tags: []
 
@@ -5750,14 +5864,14 @@
  - tags: []
 
 ## DARK FUTURA | Simplicius The Thinker | Substack
- - [http://darkfutura.substack.com](http://darkfutura.substack.com)
- - date published: 2024-02-02T00:00:00+00:00
+ - [https://darkfutura.substack.com](https://darkfutura.substack.com)
+ - date published: 2024-01-09T01:39:16.386583+00:00
  - user: None
  - tags: []
 
 ## DARK FUTURA | Simplicius The Thinker | Substack
- - [https://darkfutura.substack.com](https://darkfutura.substack.com)
- - date published: 2024-01-09T01:39:16.386583+00:00
+ - [http://darkfutura.substack.com](http://darkfutura.substack.com)
+ - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5828,14 +5942,14 @@
  - tags: []
 
 ## decodebytes  | Luke Hinds | Substack
- - [https://decodebytes.substack.com](https://decodebytes.substack.com)
- - date published: 2024-01-09T01:39:28.344134+00:00
+ - [http://decodebytes.substack.com](http://decodebytes.substack.com)
+ - date published: 2024-02-26T14:50:48.651087+00:00
  - user: None
  - tags: []
 
 ## decodebytes  | Luke Hinds | Substack
- - [http://decodebytes.substack.com](http://decodebytes.substack.com)
- - date published: 2024-02-26T14:50:48.651087+00:00
+ - [https://decodebytes.substack.com](https://decodebytes.substack.com)
+ - date published: 2024-01-09T01:39:28.344134+00:00
  - user: None
  - tags: []
 
@@ -5852,26 +5966,26 @@
  - tags: []
 
 ## The Great Reset Diary 2022-  | Yun-Fang Juan | Substack
- - [http://depression2022.substack.com](http://depression2022.substack.com)
- - date published: 2022-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Great Reset Diary 2022-  | Yun-Fang Juan | Substack
  - [https://depression2022.substack.com](https://depression2022.substack.com)
  - date published: 2024-01-09T01:39:30.436174+00:00
  - user: None
  - tags: []
 
-## Derw | Substack
- - [http://derw.substack.com](http://derw.substack.com)
- - date published: 2024-02-25T19:44:58.066101+00:00
+## The Great Reset Diary 2022-  | Yun-Fang Juan | Substack
+ - [http://depression2022.substack.com](http://depression2022.substack.com)
+ - date published: 2022-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Derw | Substack
  - [https://derw.substack.com](https://derw.substack.com)
  - date published: 2024-01-09T01:39:32.524288+00:00
+ - user: None
+ - tags: []
+
+## Derw | Substack
+ - [http://derw.substack.com](http://derw.substack.com)
+ - date published: 2024-02-25T19:44:58.066101+00:00
  - user: None
  - tags: []
 
@@ -5884,120 +5998,6 @@
 ## The Diff | Byrne Hobart | Substack
  - [https://diff.substack.com](https://diff.substack.com)
  - date published: 2024-02-29T14:58:18.864850+00:00
- - user: None
- - tags: []
-
-## Dirty Bubble Media | Substack
- - [https://dirtybubblemedia.substack.com](https://dirtybubblemedia.substack.com)
- - date published: 2024-01-09T01:39:35.443461+00:00
- - user: None
- - tags: []
-
-## The DisInformation Chronicle | Paul D. Thacker | Substack
- - [https://disinformationchronicle.substack.com](https://disinformationchronicle.substack.com)
- - date published: 2023-10-25T09:48:18.190366+00:00
- - user: None
- - tags: ['substack']
-
-## Dissentient | Diana Fleischman | Substack
- - [http://dissentient.substack.com](http://dissentient.substack.com)
- - date published: 2024-02-25T19:50:48.661192+00:00
- - user: None
- - tags: []
-
-## Dissentient | Diana Fleischman | Substack
- - [https://dissentient.substack.com](https://dissentient.substack.com)
- - date published: 2024-01-09T01:39:39.120752+00:00
- - user: None
- - tags: []
-
-## The Dossier | Jordan Schachtel | Substack
- - [https://dossier.substack.com](https://dossier.substack.com)
- - date published: 2023-10-25T09:48:27.561303+00:00
- - user: None
- - tags: ['substack']
-
-## Dougald Lamont’s Substack | Substack
- - [https://dougaldlamont.substack.com](https://dougaldlamont.substack.com)
- - date published: 2023-11-14T18:21:47.758730+00:00
- - user: None
- - tags: []
-
-## Dr Clare Craig | Substack
- - [https://drclarecraig.substack.com](https://drclarecraig.substack.com)
- - date published: 2024-02-23T14:10:10.657702+00:00
- - user: None
- - tags: []
-
-## Dr. Eric Ding’s Journal | Eric Feigl-Ding | Substack
- - [https://drericding.substack.com](https://drericding.substack.com)
- - date published: 2023-10-25T09:48:29.176011+00:00
- - user: None
- - tags: ['substack']
-
-## Dr. Pippa's Pen & Podcast | Dr Pippa | Substack
- - [https://drpippa.substack.com](https://drpippa.substack.com)
- - date published: 2023-10-25T09:48:32.670348+00:00
- - user: None
- - tags: ['substack']
-
-## The Dose | Dr. Samantha Boardman | Substack
- - [https://drsamanthaboardman.substack.com](https://drsamanthaboardman.substack.com)
- - date published: 2023-10-25T09:48:36.554284+00:00
- - user: None
- - tags: ['substack']
-
-## DYNOMIGHT INTERNET NEWSLETTER | Substack
- - [https://dynomight.substack.com](https://dynomight.substack.com)
- - date published: 2023-10-25T09:48:40.730454+00:00
- - user: None
- - tags: ['substack']
-
-## Material World | Ed Conway | Substack
- - [https://edconway.substack.com](https://edconway.substack.com)
- - date published: 2024-01-09T01:39:40.579563+00:00
- - user: None
- - tags: []
-
-## Material World | Ed Conway | Substack
- - [http://edconway.substack.com](http://edconway.substack.com)
- - date published: 2024-02-26T08:59:30.166703+00:00
- - user: None
- - tags: []
-
-## Ednevsky Blog | Alexander Nevedovsky | Substack
- - [https://ednevsky.substack.com](https://ednevsky.substack.com)
- - date published: 2024-01-09T01:39:43.394040+00:00
- - user: None
- - tags: []
-
-## Edward Slavsquat | Substack
- - [http://edwardslavsquat.substack.com](http://edwardslavsquat.substack.com)
- - date published: 2024-02-25T20:00:50.659509+00:00
- - user: None
- - tags: []
-
-## Edward Slavsquat | Substack
- - [https://edwardslavsquat.substack.com](https://edwardslavsquat.substack.com)
- - date published: 2024-01-09T01:39:52.342623+00:00
- - user: None
- - tags: []
-
-## Continuing Ed  — with Edward Snowden | Substack
- - [https://edwardsnowden.substack.com](https://edwardsnowden.substack.com)
- - date published: 2023-10-25T09:49:04.557546+00:00
- - user: None
- - tags: ['substack']
-
-## The Power of Teamwork | Andrew Makhovskyi | Substack
- - [https://effyai.substack.com](https://effyai.substack.com)
- - date published: 2023-10-25T09:49:13.799085+00:00
- - user: None
- - tags: ['substack']
-
-## eigenrobot,s Blog | Substack
- - [https://eigenrobot.substack.com](https://eigenrobot.substack.com)
- - date published: 2024-01-09T01:39:54.987097+00:00
  - user: None
  - tags: []
 

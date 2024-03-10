@@ -1,3 +1,141 @@
+## mh-nexus
+ - [https://mh-nexus.de](https://mh-nexus.de)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://michaelbach.de](https://michaelbach.de)
+ - date published: 2023-10-25T18:32:09.114872+00:00
+ - user: None
+ - tags: []
+
+## midzers Flimmerkiste
+ - [https://midzer.de](https://midzer.de)
+ - date published: 2023-11-25T18:10:15.516048+00:00
+ - user: None
+ - tags: ['personal']
+
+## minus' blog
+ - [https://blog.mnus.de](https://blog.mnus.de)
+ - date published: 2023-10-25T18:32:10.479952+00:00
+ - user: None
+ - tags: []
+
+## MorphOS - Welcome
+ - [http://www.morphos.de](http://www.morphos.de)
+ - date published: 2023-12-11T18:29:42.946245+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [https://www.morphos-forum.de](https://www.morphos-forum.de)
+ - date published: 2023-12-11T18:28:30.249745+00:00
+ - user: None
+ - tags: []
+
+## Mostly nerdless | Texts on profiling and more of a part-time nerd
+ - [https://mostlynerdless.de](https://mostlynerdless.de)
+ - date published: 2023-11-28T09:56:07.321995+00:00
+ - user: None
+ - tags: []
+
+## lingweb.eva.mpg.de
+ - [https://lingweb.eva.mpg.de](https://lingweb.eva.mpg.de)
+ - date published: 2023-10-25T18:32:10.923468+00:00
+ - user: None
+ - tags: []
+
+## Max-Planck-Institut für Meteorologie: Startseite
+ - [https://mpimet.mpg.de](https://mpimet.mpg.de)
+ - date published: 2023-10-25T18:32:13.317317+00:00
+ - user: None
+ - tags: []
+
+## Welcome
+ - [https://nld-intern.ds.mpg.de](https://nld-intern.ds.mpg.de)
+ - date published: 2024-01-09T02:56:22.028252+00:00
+ - user: None
+ - tags: []
+
+## https://resources.mpi-inf.mpg.de
+ - [https://resources.mpi-inf.mpg.de](https://resources.mpi-inf.mpg.de)
+ - date published: 2024-01-09T02:56:22.776771+00:00
+ - user: None
+ - tags: []
+
+## Visual Computing and Artificial Intelligence
+ - [https://vcai.mpi-inf.mpg.de](https://vcai.mpi-inf.mpg.de)
+ - date published: 2023-10-25T18:32:16.725149+00:00
+ - user: None
+ - tags: []
+
+## Startseite | Max-Planck-Institut für Plasmaphysik
+ - [https://www.ipp.mpg.de](https://www.ipp.mpg.de)
+ - date published: 2023-10-25T18:32:19.987824+00:00
+ - user: None
+ - tags: []
+
+## Startseite - Max-Planck-Gesellschaft
+ - [https://www.mpg.de](https://www.mpg.de)
+ - date published: 2024-01-06T06:05:42.465870+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.mpifr-bonn.mpg.de](https://www.mpifr-bonn.mpg.de)
+ - date published: 2024-01-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Startseite
+ - [https://www.mpip-mainz.mpg.de](https://www.mpip-mainz.mpg.de)
+ - date published: 2023-10-27T13:11:14.983477+00:00
+ - user: None
+ - tags: []
+
+## mprove ideas + interaction + design @mprove
+ - [https://mprove.de](https://mprove.de)
+ - date published: 2023-10-25T18:32:22.617521+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://bu18wb8w.myraidbox.de](https://bu18wb8w.myraidbox.de)
+ - date published: 2024-02-26T14:34:44.861196+00:00
+ - user: None
+ - tags: []
+
+## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
+ - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
+ - date published: 2024-02-15T02:00:01.330586+00:00
+ - user: None
+ - tags: ['video game music']
+
+## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
+ - [https://nerdsandgeeks.de](https://nerdsandgeeks.de)
+ - date published: 2024-02-15T22:13:44.143200+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## NeuroNagel : Neuroregulation, Neurofeedback, Biofeedback, Mentalsysteme und Mindmachines
+ - [https://www.neuronagel.de](https://www.neuronagel.de)
+ - date published: 2024-02-08T16:35:33.453957+00:00
+ - user: None
+ - tags: []
+
+## Neuters - Reuters Proxy
+ - [https://neuters.de](https://neuters.de)
+ - date published: 2023-10-25T18:32:23.062741+00:00
+ - user: None
+ - tags: []
+
+## neveragain.de teletype | A blog about IT infrastructure and AWS
+ - [https://tty.neveragain.de](https://tty.neveragain.de)
+ - date published: 2023-10-25T18:32:23.770704+00:00
+ - user: None
+ - tags: []
+
 ## Nina Klose – Marketing | Texte | Online-Business
  - [https://ninaklose.de](https://ninaklose.de)
  - date published: 2024-01-11T02:12:35.947114+00:00
@@ -1084,6 +1222,12 @@
  - user: None
  - tags: []
 
+## maybecoding
+ - [https://maybecoding.bearblog.dev](https://maybecoding.bearblog.dev)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Meadow
  - [https://meadow.bearblog.dev](https://meadow.bearblog.dev)
  - date published: 2024-01-15T21:40:18.730489+00:00
@@ -1583,6 +1727,12 @@
  - user: None
  - tags: []
 
+## Differential: Type safe RPC that feels like local functions
+ - [https://www.differential.dev](https://www.differential.dev)
+ - date published: 2024-03-09T03:15:16+00:00
+ - user: None
+ - tags: []
+
 ## Digger.dev
  - [https://blog.digger.dev](https://blog.digger.dev)
  - date published: 2024-01-04T16:43:27.471043+00:00
@@ -2065,14 +2215,14 @@
  - tags: ['personal']
 
 ## Jakob Serlier's Personal Site
- - [https://jakobs.dev](https://jakobs.dev)
- - date published: 2024-01-09T01:37:20.973191+00:00
+ - [http://jakobs.dev](http://jakobs.dev)
+ - date published: 2024-01-15T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Jakob Serlier's Personal Site
- - [http://jakobs.dev](http://jakobs.dev)
- - date published: 2024-01-15T00:00:00+00:00
+ - [https://jakobs.dev](https://jakobs.dev)
+ - date published: 2024-01-09T01:37:20.973191+00:00
  - user: None
  - tags: []
 
@@ -3345,14 +3495,14 @@
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [http://socket.dev](http://socket.dev)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://socket.dev](https://socket.dev)
+ - date published: 2023-10-25T18:42:09.401241+00:00
  - user: None
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date published: 2023-10-25T18:42:09.401241+00:00
+ - [http://socket.dev](http://socket.dev)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5680,6 +5830,12 @@
  - user: None
  - tags: []
 
+## Self-Assembly Lab
+ - [https://selfassemblylab.mit.edu](https://selfassemblylab.mit.edu)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## MIT Senseable City Lab
  - [https://senseable.mit.edu](https://senseable.mit.edu)
  - date published: 2024-01-09T02:59:24.170978+00:00
@@ -5851,162 +6007,6 @@
 ## Home - Programming Research Laboratory - Northeastern University
  - [https://prl.khoury.northeastern.edu](https://prl.khoury.northeastern.edu)
  - date published: 2023-10-25T18:55:46.864652+00:00
- - user: None
- - tags: []
-
-## Feinstein Institutes for Medical Research | Northwell Health
- - [https://feinstein.northwell.edu](https://feinstein.northwell.edu)
- - date published: 2023-10-25T18:55:49.028133+00:00
- - user: None
- - tags: []
-
-## None
- - [https://faculty.wcas.northwestern.edu](https://faculty.wcas.northwestern.edu)
- - date published: 2024-02-03T21:26:18.664044+00:00
- - user: None
- - tags: []
-
-## Main Home - News Center
- - [https://news.feinberg.northwestern.edu](https://news.feinberg.northwestern.edu)
- - date published: 2023-10-25T18:55:55.307920+00:00
- - user: None
- - tags: []
-
-## Northwestern Now News
- - [https://news.northwestern.edu](https://news.northwestern.edu)
- - date published: 2023-10-25T18:56:08.345374+00:00
- - user: None
- - tags: []
-
-## NRAO at AAS 243 New Orleans - January 2024 — Science Website
- - [https://science.nrao.edu](https://science.nrao.edu)
- - date published: 2024-01-15T01:25:31.960705+00:00
- - user: None
- - tags: []
-
-## OSIRIS Lab at NYU Tandon
- - [https://blog.osiris.cyber.nyu.edu](https://blog.osiris.cyber.nyu.edu)
- - date published: 2023-10-25T18:56:14.326050+00:00
- - user: None
- - tags: []
-
-## Institute | NYU Courant
- - [https://cims.nyu.edu](https://cims.nyu.edu)
- - date published: 2023-10-25T18:56:17.174439+00:00
- - user: None
- - tags: []
-
-## Welcome to Pages at the Stern School of Business, New York University
- - [https://pages.stern.nyu.edu](https://pages.stern.nyu.edu)
- - date published: 2024-01-09T03:27:46.632899+00:00
- - user: None
- - tags: []
-
-## https://physics.nyu.edu
- - [https://physics.nyu.edu](https://physics.nyu.edu)
- - date published: 2024-01-09T03:27:52.463967+00:00
- - user: None
- - tags: []
-
-## NYU
- - [https://www.nyu.edu](https://www.nyu.edu)
- - date published: 2023-10-25T18:56:19.949944+00:00
- - user: None
- - tags: []
-
-## https://bookstore.occc.edu
- - [https://bookstore.occc.edu](https://bookstore.occc.edu)
- - date published: 2024-02-08T21:52:39.432927+00:00
- - user: None
- - tags: []
-
-## Welcome to Ohio University
- - [https://www.ohio.edu](https://www.ohio.edu)
- - date published: 2023-10-25T18:56:22.621409+00:00
- - user: None
- - tags: ['university']
-
-## CSE
- - [https://web.cse.ohio-state.edu](https://web.cse.ohio-state.edu)
- - date published: 2023-10-25T18:56:24.315200+00:00
- - user: None
- - tags: []
-
-## Home | College of Arts and Sciences
- - [https://www.asc.ohio-state.edu](https://www.asc.ohio-state.edu)
- - date published: 2024-01-11T18:56:17.405128+00:00
- - user: None
- - tags: []
-
-## Home | OHSU News
- - [https://news.ohsu.edu](https://news.ohsu.edu)
- - date published: 2023-10-25T18:56:26.525047+00:00
- - user: None
- - tags: []
-
-## Distance Learning Courses and Adult Education - The Open University
- - [https://www.open.edu](https://www.open.edu)
- - date published: 2023-10-25T18:56:29.084298+00:00
- - user: None
- - tags: []
-
-## Dental Alumni Society
- - [https://das.alumni.osu.edu](https://das.alumni.osu.edu)
- - date published: 2024-02-08T17:42:16.788473+00:00
- - user: None
- - tags: []
-
-## Ohio State News
- - [https://news.osu.edu](https://news.osu.edu)
- - date published: 2023-10-25T18:56:36.422788+00:00
- - user: None
- - tags: []
-
-## PlantFacts · Welcome · PlantFacts.osu.edu
- - [https://plantfacts.osu.edu](https://plantfacts.osu.edu)
- - date published: 2024-02-08T22:53:17.623276+00:00
- - user: None
- - tags: []
-
-## Social Psychology Perspectives – Applying social psychology to the world around us
- - [https://socialpsych.blogs.pace.edu](https://socialpsych.blogs.pace.edu)
- - date published: 2023-10-25T18:56:44.098429+00:00
- - user: None
- - tags: []
-
-## Peninsula College presents a podcast honoring the work of the influential American poet and short story writer, Raymond Carver from the last town he called home: Port Angeles, Washington. You can listen here on our Episode page. You can also find us on Stitcher, Google Podcasts, Apple Podcasts, Spotify, and more. In each regular episode, | Raymond Carver Podcast
- - [https://raymondcarverpodcast.pencol.edu](https://raymondcarverpodcast.pencol.edu)
- - date published: 2023-10-31T19:57:35.429326+00:00
- - user: None
- - tags: []
-
-## University of Pittsburgh: Error HTTP 403 - Forbidden
- - [https://sites.pitt.edu](https://sites.pitt.edu)
- - date published: 2023-10-25T18:56:45.029939+00:00
- - user: None
- - tags: []
-
-## Home | CONCEPT Research Lab
- - [https://www.conceptlab.pitt.edu](https://www.conceptlab.pitt.edu)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## LinkedIn Learning at Princeton University
- - [https://linkedinlearning.princeton.edu](https://linkedinlearning.princeton.edu)
- - date published: 2024-02-08T17:49:23.647919+00:00
- - user: None
- - tags: []
-
-## Nuclear Princeton
- - [https://nuclearprinceton.princeton.edu](https://nuclearprinceton.princeton.edu)
- - date published: 2023-10-25T18:56:47.383073+00:00
- - user: None
- - tags: []
-
-## Against Predictive Optimization
- - [https://predictive-optimization.cs.princeton.edu](https://predictive-optimization.cs.princeton.edu)
- - date published: 2023-10-25T18:56:49.990374+00:00
  - user: None
  - tags: []
 

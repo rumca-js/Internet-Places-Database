@@ -1,3 +1,195 @@
+## openHAB
+ - [https://www.openhab.org](https://www.openhab.org)
+ - date published: 2024-02-06T08:30:21+00:00
+ - user: rumpel
+ - tags: ['smart home']
+
+## OpenIndiana Illumos Distro
+ - [https://www.openindiana.org](https://www.openindiana.org)
+ - date published: 2024-01-02T21:51:54+00:00
+ - user: None
+ - tags: []
+
+## Open Infrastructure Map
+ - [https://openinframap.org](https://openinframap.org)
+ - date published: 2024-01-23T21:20:39.960285+00:00
+ - user: None
+ - tags: []
+
+## OpenIPC is an alternative open firmware for your IP camera
+ - [https://openipc.org](https://openipc.org)
+ - date published: 2024-03-02T08:28:40+00:00
+ - user: None
+ - tags: []
+
+## System Dashboard - Java Bug System
+ - [https://bugs.openjdk.org](https://bugs.openjdk.org)
+ - date published: 2023-10-25T21:52:29.217064+00:00
+ - user: None
+ - tags: []
+
+## cr.openjdk.org Server
+ - [https://cr.openjdk.org](https://cr.openjdk.org)
+ - date published: 2023-10-25T21:52:36.509765+00:00
+ - user: None
+ - tags: []
+
+## mail.openjdk.org Mailing Lists
+ - [https://mail.openjdk.org](https://mail.openjdk.org)
+ - date published: 2023-10-25T21:52:40.582021+00:00
+ - user: None
+ - tags: []
+
+## OpenJDK
+ - [https://openjdk.org](https://openjdk.org)
+ - date published: 2023-10-25T08:36:58.066021+00:00
+ - user: None
+ - tags: ['java', 'open source']
+
+## OpenKnit | open source digital knitting
+ - [http://openknit.org](http://openknit.org)
+ - date published: 2014-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Open Library | Open Library
+ - [https://openlibrary.org](https://openlibrary.org)
+ - date published: 2023-10-25T09:29:24.655304+00:00
+ - user: None
+ - tags: []
+
+## openllm-europe.org
+ - [http://openllm-europe.org](http://openllm-europe.org)
+ - date published: 2024-03-02T19:18:52.133699+00:00
+ - user: None
+ - tags: []
+
+## AI Ethics and Trustworthy Language Modeling - OpenLSR
+ - [https://openlsr.org](https://openlsr.org)
+ - date published: 2023-10-25T21:52:42.100852+00:00
+ - user: None
+ - tags: []
+
+## Home - Open Mainframe Project
+ - [https://openmainframeproject.org](https://openmainframeproject.org)
+ - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Open Mainframe Project
+ - [https://www.openmainframeproject.org](https://www.openmainframeproject.org)
+ - date published: 2023-10-25T21:52:55.287205+00:00
+ - user: None
+ - tags: []
+
+## Open Markets Institute
+ - [https://www.openmarketsinstitute.org](https://www.openmarketsinstitute.org)
+ - date published: 2024-01-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## openmediavault - The open network attached storage solution
+ - [https://www.openmediavault.org](https://www.openmediavault.org)
+ - date published: 2023-10-25T08:35:04.416698+00:00
+ - user: None
+ - tags: ['application']
+
+## Home - Open MKT
+ - [https://openmkt.org](https://openmkt.org)
+ - date published: 2023-10-25T21:52:57.063348+00:00
+ - user: None
+ - tags: []
+
+## MoonRay Production Renderer
+ - [https://openmoonray.org](https://openmoonray.org)
+ - date published: 2023-10-25T21:52:57.993654+00:00
+ - user: None
+ - tags: []
+
+## OpenMPT - Discover the music inside... | OpenMPT - Open ModPlug Tracker
+ - [https://openmpt.org](https://openmpt.org)
+ - date published: 2023-10-25T21:52:59.935278+00:00
+ - user: None
+ - tags: ['open source', 'music tracker']
+
+## OpenMW
+ - [https://openmw.org](https://openmw.org)
+ - date published: 2023-10-29T10:00:57.928021+00:00
+ - user: None
+ - tags: ['the elder scrolls', 'open source', 'morrowind']
+
+## Home | Open Philanthropy
+ - [https://www.openphilanthropy.org](https://www.openphilanthropy.org)
+ - date published: 2024-01-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## OpenProcessing - Creative Coding for the Curious Mind
+ - [https://openprocessing.org](https://openprocessing.org)
+ - date published: 2023-10-25T21:53:01.379367+00:00
+ - user: None
+ - tags: []
+
+## OpenRailwayMap
+ - [https://blog.openrailwaymap.org](https://blog.openrailwaymap.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## OpenRailwayMap
+ - [https://www.openrailwaymap.org](https://www.openrailwaymap.org)
+ - date published: 2023-10-25T08:25:20.516625+00:00
+ - user: None
+ - tags: []
+
+## OpenRCT2 project
+ - [https://openrct2.org](https://openrct2.org)
+ - date published: 2023-10-25T21:53:01.909495+00:00
+ - user: None
+ - tags: []
+
+## OpenRefine
+ - [https://openrefine.org](https://openrefine.org)
+ - date published: 2023-11-01T08:44:36.756515+00:00
+ - user: None
+ - tags: []
+
+## OpenRetro Game Database
+ - [https://openretro.org](https://openretro.org)
+ - date published: 2023-10-25T11:18:22.724488+00:00
+ - user: None
+ - tags: []
+
+## OpenRGB
+ - [https://openrgb.org](https://openrgb.org)
+ - date published: 2022-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | Open Rights Group
+ - [https://www.openrightsgroup.org](https://www.openrightsgroup.org)
+ - date published: 2023-10-25T21:53:03.331761+00:00
+ - user: None
+ - tags: []
+
+## Open Robotics
+ - [https://www.openrobotics.org](https://www.openrobotics.org)
+ - date published: 2023-10-25T21:53:09.705140+00:00
+ - user: None
+ - tags: []
+
+## Open RSS
+ - [https://openrss.org](https://openrss.org)
+ - date published: 2024-01-16T00:45:10.574589+00:00
+ - user: None
+ - tags: ['rss']
+
+## Open RSS
+ - [http://openrss.org](http://openrss.org)
+ - date published: 2024-02-26T09:41:50.635475+00:00
+ - user: None
+ - tags: []
+
 ## A Grand Theft Auto III Re-Implementation
  - [https://openrw.org](https://openrw.org)
  - date published: 2023-10-31T19:53:00+00:00
@@ -1134,14 +1326,14 @@
  - tags: ['personal']
 
 ## The Programming Journal
- - [http://programming-journal.org](http://programming-journal.org)
- - date published: 2024-06-01T00:00:00+00:00
+ - [https://programming-journal.org](https://programming-journal.org)
+ - date published: 2023-10-25T21:59:59.828174+00:00
  - user: None
  - tags: []
 
 ## The Programming Journal
- - [https://programming-journal.org](https://programming-journal.org)
- - date published: 2023-10-25T21:59:59.828174+00:00
+ - [http://programming-journal.org](http://programming-journal.org)
+ - date published: 2024-06-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1268,6 +1460,12 @@
 ## Home
  - [https://www.psychiatry.org](https://www.psychiatry.org)
  - date published: 2023-12-11T08:49:29.766882+00:00
+ - user: None
+ - tags: []
+
+## American Journal of Psychiatry
+ - [https://ajp.psychiatryonline.org](https://ajp.psychiatryonline.org)
+ - date published: 2024-03-09T09:00:43.519916+00:00
  - user: None
  - tags: []
 
@@ -3024,14 +3222,14 @@
  - tags: []
 
 ## Sri Lanka Guardian
- - [https://slguardian.org](https://slguardian.org)
- - date published: 2024-01-10T21:40:19.047783+00:00
+ - [http://slguardian.org](http://slguardian.org)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Sri Lanka Guardian
- - [http://slguardian.org](http://slguardian.org)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://slguardian.org](https://slguardian.org)
+ - date published: 2024-01-10T21:40:19.047783+00:00
  - user: None
  - tags: []
 
@@ -3212,13 +3410,19 @@
  - tags: []
 
 ## SQLite Home Page
+ - [http://sqlite.org](http://sqlite.org)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## SQLite Home Page
  - [https://sqlite.org](https://sqlite.org)
  - date published: 2023-10-25T08:34:11.917438+00:00
  - user: None
  - tags: []
 
 ## SQLite Home Page
- - [http://sqlite.org](http://sqlite.org)
+ - [http://www.sqlite.org](http://www.sqlite.org)
  - date published: 2024-01-30T00:00:00+00:00
  - user: None
  - tags: []
@@ -3228,12 +3432,6 @@
  - date published: 2023-10-25T08:30:44.493063+00:00
  - user: None
  - tags: ['open source']
-
-## SQLite Home Page
- - [http://www.sqlite.org](http://www.sqlite.org)
- - date published: 2024-01-30T00:00:00+00:00
- - user: None
- - tags: []
 
 ## sqlpkg - SQLite Package Manager and Registry
  - [https://sqlpkg.org](https://sqlpkg.org)
@@ -3602,14 +3800,14 @@
  - tags: ['taxes']
 
 ## tbray.org
- - [http://www.tbray.org](http://www.tbray.org)
- - date published: 2024-02-26T15:02:42.572365+00:00
+ - [https://www.tbray.org](https://www.tbray.org)
+ - date published: 2023-10-25T22:12:33.470881+00:00
  - user: None
  - tags: []
 
 ## tbray.org
- - [https://www.tbray.org](https://www.tbray.org)
- - date published: 2023-10-25T22:12:33.470881+00:00
+ - [http://www.tbray.org](http://www.tbray.org)
+ - date published: 2024-02-26T15:02:42.572365+00:00
  - user: None
  - tags: []
 
@@ -5043,14 +5241,14 @@
  - tags: ['music band']
 
 ## viXra.org open e-Print archive
- - [https://vixra.org](https://vixra.org)
- - date published: 2023-10-25T22:17:44.457600+00:00
+ - [http://vixra.org](http://vixra.org)
+ - date published: 2019-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## viXra.org open e-Print archive
- - [http://vixra.org](http://vixra.org)
- - date published: 2019-01-01T00:00:00+00:00
+ - [https://vixra.org](https://vixra.org)
+ - date published: 2023-10-25T22:17:44.457600+00:00
  - user: None
  - tags: []
 
@@ -5553,16 +5751,16 @@
  - tags: []
 
 ## Wikipedia, the free encyclopedia
- - [http://en.wikipedia.org](http://en.wikipedia.org)
- - date published: 2024-02-26T14:33:11.388403+00:00
- - user: None
- - tags: []
-
-## Wikipedia, the free encyclopedia
  - [https://en.wikipedia.org](https://en.wikipedia.org)
  - date published: 2023-10-25T09:28:43.251880+00:00
  - user: None
  - tags: ['demoscene']
+
+## Wikipedia, the free encyclopedia
+ - [http://en.wikipedia.org](http://en.wikipedia.org)
+ - date published: 2024-02-26T14:33:11.388403+00:00
+ - user: None
+ - tags: []
 
 ## Wikipédia, l'encyclopédie libre
  - [https://fr.wikipedia.org](https://fr.wikipedia.org)
@@ -5655,14 +5853,14 @@
  - tags: ['open source', 'emulator']
 
 ## wingolog
- - [http://wingolog.org](http://wingolog.org)
- - date published: 2024-02-26T15:12:51.242858+00:00
+ - [https://wingolog.org](https://wingolog.org)
+ - date published: 2023-10-25T22:21:31.127284+00:00
  - user: None
  - tags: []
 
 ## wingolog
- - [https://wingolog.org](https://wingolog.org)
- - date published: 2023-10-25T22:21:31.127284+00:00
+ - [http://wingolog.org](http://wingolog.org)
+ - date published: 2024-02-26T15:12:51.242858+00:00
  - user: None
  - tags: []
 
@@ -5801,204 +5999,6 @@
 ## World Bank Group - International Development, Poverty, & Sustainability
  - [https://www.worldbank.org](https://www.worldbank.org)
  - date published: 2023-10-25T22:22:01.340001+00:00
- - user: None
- - tags: []
-
-## World BEYOND War - World BEYOND War
- - [https://worldbeyondwar.org](https://worldbeyondwar.org)
- - date published: 2023-10-25T22:22:10.341829+00:00
- - user: None
- - tags: []
-
-## For every human
- - [https://worldcoin.org](https://worldcoin.org)
- - date published: 2023-10-25T22:22:11.918693+00:00
- - user: None
- - tags: []
-
-## Worldcon
- - [https://www.worldcon.org](https://www.worldcon.org)
- - date published: 2024-01-23T15:48:44+00:00
- - user: None
- - tags: ['fantasy', 'science-fiction']
-
-## World Government Summit - Home
- - [https://www.worldgovernmentsummit.org](https://www.worldgovernmentsummit.org)
- - date published: 2024-02-15T08:57:36+00:00
- - user: rumpel
- - tags: ['new world order']
-
-## World History Encyclopedia
- - [https://www.worldhistory.org](https://www.worldhistory.org)
- - date published: 2023-10-25T22:22:14.640193+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.worldmosquitoprogram.org](https://www.worldmosquitoprogram.org)
- - date published: 2024-02-20T16:42:47.804993+00:00
- - user: None
- - tags: []
-
-## Homepage - World Nuclear News
- - [https://www.world-nuclear-news.org](https://www.world-nuclear-news.org)
- - date published: 2023-10-25T22:21:56.036925+00:00
- - user: None
- - tags: []
-
-## World of Paleoanthropology – Join us on a Journey through Deep Human Time…
- - [https://worldofpaleoanthropology.org](https://worldofpaleoanthropology.org)
- - date published: 2023-10-25T22:22:16.776641+00:00
- - user: None
- - tags: []
-
-## World of Spectrum
- - [https://www.worldofspectrum.org](https://www.worldofspectrum.org)
- - date published: 2024-01-09T03:43:17.518087+00:00
- - user: None
- - tags: []
-
-## Home page
- - [https://worldsteel.org](https://worldsteel.org)
- - date published: 2024-01-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## WOSU News | WOSU News
- - [https://news.wosu.org](https://news.wosu.org)
- - date published: 2023-12-22T19:25:47.692968+00:00
- - user: None
- - tags: []
-
-## Wisconsin Public Radio
- - [https://www.wpr.org](https://www.wpr.org)
- - date published: 2023-11-25T18:29:48.496756+00:00
- - user: None
- - tags: []
-
-## Winter Park Sidewalk Art Festival
- - [https://www.wpsaf.org](https://www.wpsaf.org)
- - date published: 2024-02-08T17:42:21.876866+00:00
- - user: None
- - tags: []
-
-## WriteFreely
- - [https://writefreely.org](https://writefreely.org)
- - date published: 2023-10-25T22:22:17.991561+00:00
- - user: None
- - tags: []
-
-## Write Free Software
- - [https://writefreesoftware.org](https://writefreesoftware.org)
- - date published: 2023-10-25T22:22:24.018433+00:00
- - user: None
- - tags: []
-
-## World Socialist Web Site - Marxist analysis, international working class struggles & the fight for socialism
- - [https://www.wsws.org](https://www.wsws.org)
- - date published: 2023-10-25T22:22:35.983932+00:00
- - user: None
- - tags: []
-
-## The Windows Ubuntu Operating System
- - [https://www.wubuntu.org](https://www.wubuntu.org)
- - date published: 2024-02-23T07:02:44+00:00
- - user: None
- - tags: []
-
-## Wyoming Public Media | Inspires, Educates and Connects Wyoming  | Wyoming Public Media
- - [https://www.wyomingpublicmedia.org](https://www.wyomingpublicmedia.org)
- - date published: 2023-11-14T12:55:09.440375+00:00
- - user: None
- - tags: []
-
-## WYSO Public Radio | WYSO
- - [https://www.wyso.org](https://www.wyso.org)
- - date published: 2024-11-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## lists.x.org Mailing Lists
- - [https://lists.x.org](https://lists.x.org)
- - date published: 2023-10-25T22:22:42.517159+00:00
- - user: None
- - tags: []
-
-## X.Org
- - [https://www.x.org](https://www.x.org)
- - date published: 2023-10-25T22:22:44.175728+00:00
- - user: None
- - tags: ['x.org', 'open source']
-
-## The X11 Conservancy Project | Home
- - [https://x11cp.org](https://x11cp.org)
- - date published: 2023-10-25T22:22:44.911678+00:00
- - user: None
- - tags: []
-
-## The Animated Elliptic Curve
- - [https://curves.xargs.org](https://curves.xargs.org)
- - date published: 2023-10-25T22:22:46.560899+00:00
- - user: None
- - tags: []
-
-## xBrowserSync - Browser syncing as it should be: secure, anonymous and free!
- - [https://www.xbrowsersync.org](https://www.xbrowsersync.org)
- - date published: 2023-10-25T22:22:47.617487+00:00
- - user: None
- - tags: []
-
-## XEmacs: The next generation of Emacs
- - [https://www.xemacs.org](https://www.xemacs.org)
- - date published: 2023-10-25T22:22:53.892766+00:00
- - user: None
- - tags: []
-
-## Middle-earth & J.R.R. Tolkien Blog – by Michael Martinez
- - [https://middle-earth.xenite.org](https://middle-earth.xenite.org)
- - date published: 2023-10-25T22:22:59.286432+00:00
- - user: None
- - tags: []
-
-## Xenocara
- - [https://xenocara.org](https://xenocara.org)
- - date published: 2023-10-25T22:23:00.216944+00:00
- - user: None
- - tags: []
-
-## start [Xfce Wiki]
- - [https://wiki.xfce.org](https://wiki.xfce.org)
- - date published: 2023-10-25T22:23:07.349440+00:00
- - user: None
- - tags: []
-
-## Xiph Directory (BETA) — Index
- - [https://dir.xiph.org](https://dir.xiph.org)
- - date published: 2024-02-15T22:12:45.147263+00:00
- - user: None
- - tags: ['demoscene']
-
-## Xiph.org
- - [https://xiph.org](https://xiph.org)
- - date published: 2023-10-25T22:23:09.030980+00:00
- - user: None
- - tags: []
-
-## XMPP | The universal messaging standard
- - [https://xmpp.org](https://xmpp.org)
- - date published: 2023-10-25T22:23:10.869081+00:00
- - user: None
- - tags: []
-
-## XOOPS Web Application System - Powered by You!
- - [https://www.xoops.org](https://www.xoops.org)
- - date published: 2023-12-11T18:56:18.533855+00:00
- - user: None
- - tags: []
-
-## GitHub - Xpra-org/xpra: Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
- - [https://xpra.org](https://xpra.org)
- - date published: 2023-10-25T22:23:15.099636+00:00
  - user: None
  - tags: []
 
