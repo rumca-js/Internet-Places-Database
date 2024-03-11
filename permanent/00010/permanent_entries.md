@@ -1,3 +1,99 @@
+## Howdy, 👋 I'm Artur. - Artur Piszek
+ - [https://piszek.com](https://piszek.com)
+ - date published: 2024-01-13T18:25:47.745319+00:00
+ - user: None
+ - tags: []
+
+## Deliberate Internet | Artur Piszek | Substack
+ - [https://substack.piszek.com](https://substack.piszek.com)
+ - date published: 2023-10-25T09:40:36.995406+00:00
+ - user: None
+ - tags: ['substack']
+
+## https://pitchbook.com
+ - [https://pitchbook.com](https://pitchbook.com)
+ - date published: 2023-12-21T11:30:09.495450+00:00
+ - user: None
+ - tags: []
+
+## Pitchfork | The Most Trusted Voice in Music. | Pitchfork
+ - [https://pitchfork.com](https://pitchfork.com)
+ - date published: 2023-10-25T16:35:30.986705+00:00
+ - user: None
+ - tags: []
+
+## Home - PiunikaWeb
+ - [https://piunikaweb.com](https://piunikaweb.com)
+ - date published: 2023-10-25T16:35:36.299294+00:00
+ - user: None
+ - tags: []
+
+## Access Restricted
+ - [https://pix11.com](https://pix11.com)
+ - date published: 2023-11-17T21:44:28.337836+00:00
+ - user: None
+ - tags: []
+
+## https://pixabay.com
+ - [https://pixabay.com](https://pixabay.com)
+ - date published: 2023-10-25T11:35:36.504703+00:00
+ - user: None
+ - tags: ['assets images']
+
+## Pixar Animation Studios
+ - [https://www.pixar.com](https://www.pixar.com)
+ - date published: 2023-11-01T09:04:42.688240+00:00
+ - user: None
+ - tags: ['movie studio', 'company']
+
+## Pixel Empire - Where Pop Culture & Design Unite!
+ - [https://www.pixelempire.com](https://www.pixelempire.com)
+ - date published: 2023-12-01T11:39:33+00:00
+ - user: rumpel
+ - tags: ['artists', 'designers', 'merch']
+
+## Pixelmator Pro
+ - [https://www.pixelmator.com](https://www.pixelmator.com)
+ - date published: 2023-10-25T16:35:38.965595+00:00
+ - user: None
+ - tags: []
+
+## Pixel Parmesan
+ - [https://pixelparmesan.com](https://pixelparmesan.com)
+ - date published: 2023-10-25T16:35:39.844868+00:00
+ - user: None
+ - tags: []
+
+## Pixelthumb
+ - [https://www.pixelthumb.com](https://www.pixelthumb.com)
+ - date published: 2024-02-08T18:06:43.240079+00:00
+ - user: None
+ - tags: []
+
+## PixieBrix: Rapidly create custom browser mods
+ - [https://www.pixiebrix.com](https://www.pixiebrix.com)
+ - date published: 2024-01-09T02:46:35.335874+00:00
+ - user: None
+ - tags: []
+
+## Pixletters - Word Guessing Game
+ - [https://pixletters.com](https://pixletters.com)
+ - date published: 2023-10-25T16:35:51.500364+00:00
+ - user: None
+ - tags: []
+
+## Latest global news covering life, work, business, politics, analysis
+ - [https://pixlnews.com](https://pixlnews.com)
+ - date published: 2024-01-07T18:26:18.452458+00:00
+ - user: None
+ - tags: []
+
+## PixSylated
+ - [https://pixsylated.com](https://pixsylated.com)
+ - date published: 2024-02-08T22:51:20.992345+00:00
+ - user: None
+ - tags: []
+
 ## Paul Jarvis, author, designer and co-founder of Fathom Analytics
  - [https://pjrvs.com](https://pjrvs.com)
  - date published: 2023-11-29T15:46:11.345469+00:00
@@ -401,14 +497,14 @@
  - tags: []
 
 ## De Angela L. Duff
- - [http://www.polishedsolid.com](http://www.polishedsolid.com)
- - date published: 2023-12-23T02:59:58.572062+00:00
+ - [https://www.polishedsolid.com](https://www.polishedsolid.com)
+ - date published: 2023-12-20T11:44:35.174499+00:00
  - user: None
  - tags: ['personal']
 
 ## De Angela L. Duff
- - [https://www.polishedsolid.com](https://www.polishedsolid.com)
- - date published: 2023-12-20T11:44:35.174499+00:00
+ - [http://www.polishedsolid.com](http://www.polishedsolid.com)
+ - date published: 2023-12-23T02:59:58.572062+00:00
  - user: None
  - tags: ['personal']
 
@@ -455,13 +551,13 @@
  - tags: []
 
 ## Considerations on Codecrafting
- - [https://blog.polybdenum.com](https://blog.polybdenum.com)
+ - [http://blog.polybdenum.com](http://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Considerations on Codecrafting
- - [http://blog.polybdenum.com](http://blog.polybdenum.com)
+ - [https://blog.polybdenum.com](https://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
@@ -647,14 +743,14 @@
  - tags: []
 
 ## PostHog - The open source Product OS
- - [http://posthog.com](http://posthog.com)
- - date published: 2024-02-26T09:54:45.800568+00:00
+ - [https://posthog.com](https://posthog.com)
+ - date published: 2023-10-25T16:38:22.584209+00:00
  - user: None
  - tags: []
 
 ## PostHog - The open source Product OS
- - [https://posthog.com](https://posthog.com)
- - date published: 2023-10-25T16:38:22.584209+00:00
+ - [http://posthog.com](http://posthog.com)
+ - date published: 2024-02-26T09:54:45.800568+00:00
  - user: None
  - tags: []
 
@@ -2174,17 +2270,17 @@
  - user: None
  - tags: []
 
-## http://rachelwestbooks.com
- - [https://rachelwestbooks.com](https://rachelwestbooks.com)
- - date published: 2024-02-09T00:19:01.129739+00:00
- - user: None
- - tags: ['poetry', 'book', 'personal']
-
 ## None
  - [http://rachelwestbooks.com](http://rachelwestbooks.com)
  - date published: 2024-02-29T14:58:43.538321+00:00
  - user: None
  - tags: []
+
+## http://rachelwestbooks.com
+ - [https://rachelwestbooks.com](https://rachelwestbooks.com)
+ - date published: 2024-02-09T00:19:01.129739+00:00
+ - user: None
+ - tags: ['poetry', 'book', 'personal']
 
 ## Rachel Zampino | Website Wizard - Rachel Zampino
  - [https://rachelzampino.com](https://rachelzampino.com)
@@ -2301,14 +2397,14 @@
  - tags: ['personal']
 
 ## Reginald Braithwaite
- - [http://raganwald.com](http://raganwald.com)
- - date published: 2016-01-01T00:00:00+00:00
+ - [https://raganwald.com](https://raganwald.com)
+ - date published: 2023-10-25T16:45:15.488174+00:00
  - user: None
  - tags: []
 
 ## Reginald Braithwaite
- - [https://raganwald.com](https://raganwald.com)
- - date published: 2023-10-25T16:45:15.488174+00:00
+ - [http://raganwald.com](http://raganwald.com)
+ - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4036,16 +4132,16 @@ More!
  - tags: []
 
 ## Ken Shirriff's blog
- - [http://www.righto.com](http://www.righto.com)
- - date published: 2024-02-25T00:44:48.796985+00:00
- - user: None
- - tags: []
-
-## Ken Shirriff's blog
  - [https://www.righto.com](https://www.righto.com)
  - date published: 2023-10-25T16:51:33.313104+00:00
  - user: None
  - tags: ['blog', 'personal']
+
+## Ken Shirriff's blog
+ - [http://www.righto.com](http://www.righto.com)
+ - date published: 2024-02-25T00:44:48.796985+00:00
+ - user: None
+ - tags: []
 
 ## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
  - [https://www.rigzone.com](https://www.rigzone.com)
@@ -5662,14 +5758,14 @@ More!
  - tags: []
 
 ## Samsung Members Community
- - [https://r2.community.samsung.com](https://r2.community.samsung.com)
- - date published: 2024-01-20T05:57:49.133663+00:00
+ - [http://r2.community.samsung.com](http://r2.community.samsung.com)
+ - date published: 2024-02-26T14:44:02.734270+00:00
  - user: None
  - tags: []
 
 ## Samsung Members Community
- - [http://r2.community.samsung.com](http://r2.community.samsung.com)
- - date published: 2024-02-26T14:44:02.734270+00:00
+ - [https://r2.community.samsung.com](https://r2.community.samsung.com)
+ - date published: 2024-01-20T05:57:49.133663+00:00
  - user: None
  - tags: []
 
@@ -5910,102 +6006,6 @@ More!
 ## Savage Chickens - Cartoons on Sticky Notes by Doug Savage
  - [https://www.savagechickens.com](https://www.savagechickens.com)
  - date published: 2023-10-25T16:57:50.887747+00:00
- - user: None
- - tags: []
-
-## Savaria Dance Studio
- - [https://www.savariadance.com](https://www.savariadance.com)
- - date published: 2024-02-08T22:52:14.864745+00:00
- - user: None
- - tags: []
-
-## Save The Fans
- - [https://www.savethefans.com](https://www.savethefans.com)
- - date published: 2024-01-18T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tech Savvy Teachers
- - [https://tech.savvyteachers.com](https://tech.savvyteachers.com)
- - date published: 2024-02-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tech Savvy Teachers
- - [https://www.tech.savvyteachers.com](https://www.tech.savvyteachers.com)
- - date published: 2024-01-13T22:54:39.494806+00:00
- - user: None
- - tags: []
-
-## Say I do in the garden
- - [https://www.sayidointhegarden.com](https://www.sayidointhegarden.com)
- - date published: 2024-02-08T22:09:28.028351+00:00
- - user: None
- - tags: []
-
-## sbensu
- - [https://blog.sbensu.com](https://blog.sbensu.com)
- - date published: 2023-10-25T16:57:52.408325+00:00
- - user: None
- - tags: []
-
-## SBF goes to prison – Is SBF going to prison?
- - [https://sbfgoestoprison.com](https://sbfgoestoprison.com)
- - date published: 2023-10-25T16:57:55.553085+00:00
- - user: None
- - tags: []
-
-## SBNation.com | Sports news, video, live coverage, community
- - [https://www.sbnation.com](https://www.sbnation.com)
- - date published: 2023-10-25T16:58:10.437360+00:00
- - user: None
- - tags: []
-
-## The Statesman – Informing Stony Brook University For More Than 60 Years – The Statesman
- - [https://www.sbstatesman.com](https://www.sbstatesman.com)
- - date published: 2023-10-25T16:58:13.749647+00:00
- - user: None
- - tags: []
-
-## SC2Mapster Wiki
- - [https://wiki.sc2mapster.com](https://wiki.sc2mapster.com)
- - date published: 2023-12-13T16:02:20.408615+00:00
- - user: None
- - tags: []
-
-## SC2Mapster
- - [https://www.sc2mapster.com](https://www.sc2mapster.com)
- - date published: 2023-10-29T10:39:10.600746+00:00
- - user: None
- - tags: ['warcraft', 'starcraft']
-
-## Accelerate the Development of AI Applications | Scale AI
- - [https://scale.com](https://scale.com)
- - date published: 2023-10-25T16:58:17.398784+00:00
- - user: None
- - tags: []
-
-## Whatever | FURIOUSLY REASONABLE
- - [https://whatever.scalzi.com](https://whatever.scalzi.com)
- - date published: 2023-10-25T16:58:26.532841+00:00
- - user: None
- - tags: []
-
-## The Chosen
- - [https://www.scambusters.com](https://www.scambusters.com)
- - date published: 2024-02-08T17:48:13.688910+00:00
- - user: None
- - tags: []
-
-## Scandinavian MIND
- - [https://scandinavianmind.com](https://scandinavianmind.com)
- - date published: 2023-10-25T16:58:30.296776+00:00
- - user: None
- - tags: []
-
-## Scan of the Month—you've never seen anything like this.
- - [https://www.scanofthemonth.com](https://www.scanofthemonth.com)
- - date published: 2023-10-25T16:58:31.237252+00:00
  - user: None
  - tags: []
 

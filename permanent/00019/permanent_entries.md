@@ -1,3 +1,159 @@
+## Software You Can love
+ - [https://sycl.it](https://sycl.it)
+ - date published: 2024-01-27T11:15:37.435380+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://tedd.it](https://tedd.it)
+ - date published: 2024-01-09T03:33:45.616994+00:00
+ - user: None
+ - tags: []
+
+## The Local - Italy's news in English
+ - [https://www.thelocal.it](https://www.thelocal.it)
+ - date published: 2023-10-25T20:15:26.536494+00:00
+ - user: None
+ - tags: []
+
+## Branża IT bez tajemnic. Odwiedź blog IT od the:protocol!
+ - [https://blog.theprotocol.it](https://blog.theprotocol.it)
+ - date published: 2023-12-13T14:57:12.580020+00:00
+ - user: None
+ - tags: ['tech news']
+
+## The Split | Turner Novak | Substack
+ - [https://www.thespl.it](https://www.thespl.it)
+ - date published: 2023-10-25T20:15:30.056480+00:00
+ - user: None
+ - tags: []
+
+## TransitiveBullsh.it
+ - [https://transitivebullsh.it](https://transitivebullsh.it)
+ - date published: 2023-10-25T20:15:34.091849+00:00
+ - user: None
+ - tags: []
+
+## Unclutter — Reader Mode for Chrome & Firefox
+ - [https://unclutter.it](https://unclutter.it)
+ - date published: 2023-10-25T20:15:40.192858+00:00
+ - user: None
+ - tags: []
+
+## L'Unione Sarda.it
+ - [https://www.unionesarda.it](https://www.unionesarda.it)
+ - date published: 2023-11-06T02:35:24.227351+00:00
+ - user: None
+ - tags: []
+
+## Home - Dipartimento di Informatica
+ - [http://groups.di.unipi.it](http://groups.di.unipi.it)
+ - date published: 2023-10-25T20:15:43.305470+00:00
+ - user: None
+ - tags: []
+
+## upbeat.it - upbeat.it
+ - [https://www.upbeat.it](https://www.upbeat.it)
+ - date published: 2023-12-03T15:55:21.887131+00:00
+ - user: None
+ - tags: ['personal']
+
+## vexl – Medium
+ - [https://blog.vexl.it](https://blog.vexl.it)
+ - date published: 2023-10-25T20:15:45.707451+00:00
+ - user: None
+ - tags: []
+
+## Inside.java
+ - [https://inside.java](https://inside.java)
+ - date published: 2023-10-25T20:15:47.805588+00:00
+ - user: None
+ - tags: []
+
+## Linus's blog - Home
+ - [https://linus.schreibt.jetzt](https://linus.schreibt.jetzt)
+ - date published: 2023-10-25T20:15:48.629425+00:00
+ - user: None
+ - tags: []
+
+## https://www.mof.gov.jo
+ - [https://www.mof.gov.jo](https://www.mof.gov.jo)
+ - date published: 2024-02-08T17:36:22.727790+00:00
+ - user: None
+ - tags: []
+
+## Home Page - Jordan News | Latest News from Jordan, MENA
+ - [https://www.jordannews.jo](https://www.jordannews.jo)
+ - date published: 2023-11-06T01:35:39.245161+00:00
+ - user: None
+ - tags: []
+
+## wellfound.com
+ - [https://padlet.jobs](https://padlet.jobs)
+ - date published: 2023-10-25T20:15:54.132403+00:00
+ - user: None
+ - tags: []
+
+## 国立大学法人 神戸大学 (Kobe University)
+ - [https://www.kobe-u.ac.jp](https://www.kobe-u.ac.jp)
+ - date published: 2023-12-21T22:37:59.390250+00:00
+ - user: None
+ - tags: []
+
+## ASHBi Institute for the Advanced Study of Human Biology
+ - [https://ashbi.kyoto-u.ac.jp](https://ashbi.kyoto-u.ac.jp)
+ - date published: 2023-12-28T17:06:21.539329+00:00
+ - user: None
+ - tags: []
+
+## 京都大学
+ - [https://www.kyoto-u.ac.jp](https://www.kyoto-u.ac.jp)
+ - date published: 2024-01-02T16:45:34.615971+00:00
+ - user: None
+ - tags: ['university']
+
+## 名古屋大学
+ - [https://www.nagoya-u.ac.jp](https://www.nagoya-u.ac.jp)
+ - date published: 2023-10-25T20:15:58.916788+00:00
+ - user: None
+ - tags: []
+
+## 大阪大学発の研究を。
+ - [https://resou.osaka-u.ac.jp](https://resou.osaka-u.ac.jp)
+ - date published: 2024-01-06T12:19:38.103646+00:00
+ - user: None
+ - tags: []
+
+## 立命館大学
+ - [https://www.ritsumei.ac.jp](https://www.ritsumei.ac.jp)
+ - date published: 2023-10-25T20:16:04.028920+00:00
+ - user: None
+ - tags: []
+
+## Tohoku University
+ - [https://www.tohoku.ac.jp](https://www.tohoku.ac.jp)
+ - date published: 2023-12-05T10:47:34.290298+00:00
+ - user: None
+ - tags: []
+
+## 筑波大学
+ - [https://www.tsukuba.ac.jp](https://www.tsukuba.ac.jp)
+ - date published: 2023-10-25T20:16:10.773573+00:00
+ - user: None
+ - tags: []
+
+## Tokyo University of Science | 東京理科大学
+ - [https://www.tus.ac.jp](https://www.tus.ac.jp)
+ - date published: 2023-11-18T21:00:20.695704+00:00
+ - user: None
+ - tags: []
+
+## 東京大学 大澤 研究室
+ - [https://www.panda.sys.t.u-tokyo.ac.jp](https://www.panda.sys.t.u-tokyo.ac.jp)
+ - date published: 2023-10-25T20:16:13.506038+00:00
+ - user: None
+ - tags: []
+
 ## 東京大学宇宙線研究所付属神岡宇宙素粒子研究施設
  - [https://www-sk.icrr.u-tokyo.ac.jp](https://www-sk.icrr.u-tokyo.ac.jp)
  - date published: 2024-02-28T12:13:33.969690+00:00
@@ -2441,17 +2597,17 @@
  - user: None
  - tags: ['personal']
 
-## Proton — Privacy by default
- - [https://proton.me](https://proton.me)
- - date published: 2023-10-25T08:25:39.070341+00:00
- - user: None
- - tags: ['email server', 'vpn', 'privacy']
-
 ## Proton: Privacy by default
  - [http://proton.me](http://proton.me)
  - date published: 2024-02-26T13:55:55.575306+00:00
  - user: None
  - tags: []
+
+## Proton — Privacy by default
+ - [https://proton.me](https://proton.me)
+ - date published: 2023-10-25T08:25:39.070341+00:00
+ - user: None
+ - tags: ['email server', 'vpn', 'privacy']
 
 ## Rauno Freiberg
  - [https://rauno.me](https://rauno.me)
@@ -3281,6 +3437,12 @@
  - user: None
  - tags: ['museum']
 
+## BajaNews Mx | Noticias reales en tiempos reales
+ - [https://bajanews.mx](https://bajanews.mx)
+ - date published: 2024-03-10T19:37:12.556503+00:00
+ - user: None
+ - tags: []
+
 ## Memo Garcia
  - [https://memo.mx](https://memo.mx)
  - date published: 2023-10-25T09:00:06.908227+00:00
@@ -3378,14 +3540,14 @@
  - tags: ['personal']
 
 ## Nathan Ho
- - [http://nathan.ho.name](http://nathan.ho.name)
- - date published: 2024-02-26T09:21:39.752260+00:00
+ - [https://nathan.ho.name](https://nathan.ho.name)
+ - date published: 2023-12-20T22:45:42.744081+00:00
  - user: None
  - tags: []
 
 ## Nathan Ho
- - [https://nathan.ho.name](https://nathan.ho.name)
- - date published: 2023-12-20T22:45:42.744081+00:00
+ - [http://nathan.ho.name](http://nathan.ho.name)
+ - date published: 2024-02-26T09:21:39.752260+00:00
  - user: None
  - tags: []
 
@@ -3858,16 +4020,16 @@
  - tags: []
 
 ## AmigaBlogs
- - [http://www.amigablogs.net](http://www.amigablogs.net)
- - date published: 2024-02-25T14:45:17.017489+00:00
- - user: None
- - tags: []
-
-## AmigaBlogs
  - [https://www.amigablogs.net](https://www.amigablogs.net)
  - date published: 2023-10-27T14:35:20.367351+00:00
  - user: None
  - tags: ['amiga']
+
+## AmigaBlogs
+ - [http://www.amigablogs.net](http://www.amigablogs.net)
+ - date published: 2024-02-25T14:45:17.017489+00:00
+ - user: None
+ - tags: []
 
 ## Amiga Boing Blog – Where the world bounces around backwards.. – On my way to building the largest Public Domain / Shareware / Freeware Amiga Collection Ever! – Come join me on this Epic Journey
  - [https://amigaboing.net](https://amigaboing.net)
@@ -3960,14 +4122,14 @@
  - tags: []
 
 ## Amigaworld.net - The Amiga Computer Community Portal Website
- - [https://www.amigaworld.net](https://www.amigaworld.net)
- - date published: 2024-01-09T03:34:56.633393+00:00
+ - [http://www.amigaworld.net](http://www.amigaworld.net)
+ - date published: 2024-02-25T14:45:35.125644+00:00
  - user: None
  - tags: []
 
 ## Amigaworld.net - The Amiga Computer Community Portal Website
- - [http://www.amigaworld.net](http://www.amigaworld.net)
- - date published: 2024-02-25T14:45:35.125644+00:00
+ - [https://www.amigaworld.net](https://www.amigaworld.net)
+ - date published: 2024-01-09T03:34:56.633393+00:00
  - user: None
  - tags: []
 
@@ -4080,14 +4242,14 @@
  - tags: ['personal']
 
 ## andreinc
- - [http://www.andreinc.net](http://www.andreinc.net)
- - date published: 2024-02-26T14:43:20.222033+00:00
+ - [https://www.andreinc.net](https://www.andreinc.net)
+ - date published: 2023-10-25T20:24:41.741120+00:00
  - user: None
  - tags: []
 
 ## andreinc
- - [https://www.andreinc.net](https://www.andreinc.net)
- - date published: 2023-10-25T20:24:41.741120+00:00
+ - [http://www.andreinc.net](http://www.andreinc.net)
+ - date published: 2024-02-26T14:43:20.222033+00:00
  - user: None
  - tags: []
 
@@ -5066,14 +5228,14 @@ Buildings in Saint Louis, Missouri
  - tags: []
 
 ## daemonology.net
- - [https://www.daemonology.net](https://www.daemonology.net)
- - date published: 2023-10-25T20:28:33.979177+00:00
+ - [http://www.daemonology.net](http://www.daemonology.net)
+ - date published: 2024-02-25T19:34:32.110343+00:00
  - user: None
  - tags: []
 
 ## daemonology.net
- - [http://www.daemonology.net](http://www.daemonology.net)
- - date published: 2024-02-25T19:34:32.110343+00:00
+ - [https://www.daemonology.net](https://www.daemonology.net)
+ - date published: 2023-10-25T20:28:33.979177+00:00
  - user: None
  - tags: []
 
@@ -5191,26 +5353,26 @@ Buildings in Saint Louis, Missouri
  - user: None
  - tags: []
 
-## renegat0x0 site
- - [https://renegat0x0.ddns.net](https://renegat0x0.ddns.net)
- - date published: 2023-10-25T08:52:16.878263+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [https://renegat0x0.ddns.net/apps/places/sources-json](https://renegat0x0.ddns.net/apps/places/sources-json)
  - date published: 2024-02-24T21:12:17.050206+00:00
  - user: None
  - tags: []
 
+## renegat0x0 site
+ - [https://renegat0x0.ddns.net](https://renegat0x0.ddns.net)
+ - date published: 2023-10-25T08:52:16.878263+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Telnet BBS
- - [https://shsbbs.ddns.net](https://shsbbs.ddns.net)
+ - [http://shsbbs.ddns.net](http://shsbbs.ddns.net)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Telnet BBS
- - [http://shsbbs.ddns.net](http://shsbbs.ddns.net)
+ - [https://shsbbs.ddns.net](https://shsbbs.ddns.net)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -5384,14 +5546,14 @@ Buildings in Saint Louis, Missouri
  - tags: []
 
 ## Łona i Webber / Dobrzewiesz Nagrania
- - [https://dobrzewiesz.net](https://dobrzewiesz.net)
- - date published: 2024-01-09T03:35:23.233699+00:00
+ - [http://dobrzewiesz.net](http://dobrzewiesz.net)
+ - date published: 2024-02-26T15:15:04.444335+00:00
  - user: None
  - tags: []
 
 ## Łona i Webber / Dobrzewiesz Nagrania
- - [http://dobrzewiesz.net](http://dobrzewiesz.net)
- - date published: 2024-02-26T15:15:04.444335+00:00
+ - [https://dobrzewiesz.net](https://dobrzewiesz.net)
+ - date published: 2024-01-09T03:35:23.233699+00:00
  - user: None
  - tags: []
 
@@ -5838,166 +6000,4 @@ Buildings in Saint Louis, Missouri
  - date published: 2024-02-25T19:30:53.161598+00:00
  - user: None
  - tags: []
-
-## g1a55er::blog
- - [https://www.g1a55er.net](https://www.g1a55er.net)
- - date published: 2023-10-25T08:52:28.778544+00:00
- - user: None
- - tags: ['personal']
-
-## GBR gamebytesradio
- - [https://gamebytesradio.net](https://gamebytesradio.net)
- - date published: 2024-02-15T22:14:50.669241+00:00
- - user: None
- - tags: ['demoscene']
-
-## NeHe Productions - Everything OpenGL
- - [https://nehe.gamedev.net](https://nehe.gamedev.net)
- - date published: 1999-01-01T00:00:00+00:00
- - user: rumpel
- - tags: ['opengl']
-
-## Game-icons.net: Free icons for your games
- - [https://game-icons.net](https://game-icons.net)
- - date published: 2023-12-28T00:28:21+00:00
- - user: None
- - tags: []
-
-## Homepage, Most Recent | GamersNexus
- - [https://gamersnexus.net](https://gamersnexus.net)
- - date published: 2023-11-04T22:47:35.444560+00:00
- - user: None
- - tags: []
-
-## Homepage, Most Recent | GamersNexus
- - [http://gamersnexus.net](http://gamersnexus.net)
- - date published: 2024-02-25T20:26:49.736576+00:00
- - user: None
- - tags: []
-
-## Gandi.net news
- - [https://news.gandi.net](https://news.gandi.net)
- - date published: 2023-10-25T20:30:32.130954+00:00
- - user: None
- - tags: []
-
-## Ganesha games |Fast and Fun Tabletop games|Song of Blades and Heroes
- - [https://www.ganeshagames.net](https://www.ganeshagames.net)
- - date published: 2024-03-01T09:40:53+00:00
- - user: rumpel
- - tags: ['tabletop games', 'wargames']
-
-## garry.net
- - [https://garry.net](https://garry.net)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## GBAtemp.net - The Independent Video Game Community
- - [https://gbatemp.net](https://gbatemp.net)
- - date published: 2023-10-25T20:30:39.036962+00:00
- - user: None
- - tags: ['video game news', 'nintendo']
-
-## Geeks are Sexy Technology NewsGeeks are Sexy Technology News | Tech, science, cosplay and news by geeks, for geeks! We make technology sexy!
- - [https://www.geeksaresexy.net](https://www.geeksaresexy.net)
- - date published: 2023-10-25T09:37:05.301473+00:00
- - user: None
- - tags: []
-
-## Easy HTTPS for your private networks
- - [https://www.getlocalcert.net](https://www.getlocalcert.net)
- - date published: 2023-10-25T20:30:41.478985+00:00
- - user: None
- - tags: []
-
-## Homepage | gHacks Technology News
- - [https://www.ghacks.net](https://www.ghacks.net)
- - date published: 2023-10-25T20:30:52.938103+00:00
- - user: None
- - tags: []
-
-## Ghoztcraft [Gaming Made Easy]
- - [https://www.ghoztcraft.net](https://www.ghoztcraft.net)
- - date published: 2023-10-30T15:24:11.219427+00:00
- - user: None
- - tags: ['starcraft', 'diablo']
-
-## GIGAZINE（ギガジン） - 効果なしと論じられたフェニレフリンを含む風邪薬をドラッグストア大手が棚から自主撤去
- - [https://gigazine.net](https://gigazine.net)
- - date published: 2023-10-25T10:58:35.725805+00:00
- - user: None
- - tags: []
-
-## Taras' Blog on AI, Perf, Hacks
- - [https://taras.glek.net](https://taras.glek.net)
- - date published: 2023-10-25T09:00:35.505591+00:00
- - user: None
- - tags: ['personal']
-
-## Globo Pre Order - Globo Software Solution
- - [https://preorder.globosoftware.net](https://preorder.globosoftware.net)
- - date published: 2023-12-13T15:36:22.501096+00:00
- - user: None
- - tags: []
-
-## GoDaddy Inc. - Home
- - [https://aboutus.godaddy.net](https://aboutus.godaddy.net)
- - date published: 2023-10-25T20:30:54.623084+00:00
- - user: None
- - tags: []
-
-## gofoss.net - Digital freedom for all
- - [https://gofoss.net](https://gofoss.net)
- - date published: 2023-10-25T20:30:55.230223+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://s.go-mpulse.net](https://s.go-mpulse.net)
- - date published: 2024-01-09T03:35:34.035829+00:00
- - user: None
- - tags: []
-
-## Goomics
- - [https://goomics.net](https://goomics.net)
- - date published: 2023-10-25T20:31:00.865503+00:00
- - user: None
- - tags: []
-
-## What We Do - GoSecure
- - [https://www.gosecure.net](https://www.gosecure.net)
- - date published: 2023-10-25T20:31:05.944265+00:00
- - user: None
- - tags: []
-
-## Gosha Tcherednitchenko
- - [https://gosha.net](https://gosha.net)
- - date published: 2024-01-20T13:00:32.460220+00:00
- - user: None
- - tags: []
-
-## Grafana
- - [https://decentim.grafana.net](https://decentim.grafana.net)
- - date published: 2023-11-01T08:43:53.028925+00:00
- - user: None
- - tags: []
-
-## Good Love - Out Now!
- - [https://www.gramatik.net](https://www.gramatik.net)
- - date published: 2023-11-13T09:58:11.681094+00:00
- - user: None
- - tags: ['music band']
-
-## Dr. Vadim Zaytsev
- - [https://www.grammarware.net](https://www.grammarware.net)
- - date published: 2023-10-25T08:52:31.014636+00:00
- - user: None
- - tags: ['personal']
-
-## Greg Egan’s Home Page
- - [https://www.gregegan.net](https://www.gregegan.net)
- - date published: 2023-10-25T08:52:34.982040+00:00
- - user: None
- - tags: ['personal']
 

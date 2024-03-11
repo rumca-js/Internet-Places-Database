@@ -1,3 +1,51 @@
+## Google Cloud Service Health
+ - [https://status.cloud.google.com](https://status.cloud.google.com)
+ - date published: 2023-10-25T11:31:27.950150+00:00
+ - user: None
+ - tags: []
+
+## Google Help
+ - [https://support.google.com](https://support.google.com)
+ - date published: 2023-10-25T11:31:32.624882+00:00
+ - user: None
+ - tags: []
+
+## Google Chrome - The Fast & Secure Web Browser Built to be Yours
+ - [https://tools.google.com](https://tools.google.com)
+ - date published: 2023-10-25T11:30:29.194219+00:00
+ - user: None
+ - tags: []
+
+## Google Translate
+ - [https://translate.google.com](https://translate.google.com)
+ - date published: 2023-10-25T09:27:58+00:00
+ - user: rumpel
+ - tags: ['translate', 'dictionary']
+
+## Google Transparency Report
+ - [https://transparencyreport.google.com](https://transparencyreport.google.com)
+ - date published: 2023-10-25T11:31:33.783605+00:00
+ - user: None
+ - tags: []
+
+## Aplikacje biznesowe i narzędzia do współpracy | Google Workspace
+ - [https://workspace.google.com](https://workspace.google.com)
+ - date published: 2023-10-25T11:31:36.960984+00:00
+ - user: None
+ - tags: []
+
+## Google
+ - [https://www.google.com](https://www.google.com)
+ - date published: 2023-10-25T08:28:06.744876+00:00
+ - user: None
+ - tags: ['gatekeeper', 'search engine']
+
+## Google flights
+ - [https://www.google.com/travel/flights](https://www.google.com/travel/flights)
+ - date published: 2024-01-02T07:35:30+00:00
+ - user: rumpel
+ - tags: []
+
 ## Hosted Libraries  |  Google for Developers
  - [https://ajax.googleapis.com](https://ajax.googleapis.com)
  - date published: 2023-12-11T16:52:24.286615+00:00
@@ -5950,54 +5998,6 @@
 ## Jediah Porter
  - [https://www.jediahporter.com](https://www.jediahporter.com)
  - date published: 2023-12-24T08:15:08.398647+00:00
- - user: None
- - tags: ['personal']
-
-## Jedi Mind Tricks - Vinnie Paz x Stoupe x Jus Allah
- - [https://jedi-mind-tricks.com](https://jedi-mind-tricks.com)
- - date published: 2023-11-13T10:31:15.448394+00:00
- - user: None
- - tags: ['music band']
-
-## Jedi Wright
- - [https://www.jediwright.com](https://www.jediwright.com)
- - date published: 2023-12-14T06:54:12.717805+00:00
- - user: None
- - tags: ['personal']
-
-## Jeff Ammons
- - [https://jeffammons.com](https://jeffammons.com)
- - date published: 2023-10-25T08:46:29.891059+00:00
- - user: None
- - tags: ['personal']
-
-## Jeff Geerling - Author and Software Developer in St. Louis, MO
- - [https://www.jeffgeerling.com](https://www.jeffgeerling.com)
- - date published: 2024-01-22T09:22:43.071064+00:00
- - user: None
- - tags: ['youtuber', 'personal']
-
-## Jeff Gothelf - coaching, consulting, training & keynotes
- - [https://jeffgothelf.com](https://jeffgothelf.com)
- - date published: 2023-12-11T16:24:47.478969+00:00
- - user: None
- - tags: []
-
-## Jeff Huang · Computer Science at Brown University
- - [https://jeffhuang.com](https://jeffhuang.com)
- - date published: 2023-10-25T15:27:58.164772+00:00
- - user: None
- - tags: []
-
-## Home - Jeffikus
- - [https://jeffikus.com](https://jeffikus.com)
- - date published: 2024-01-27T18:00:01.443689+00:00
- - user: None
- - tags: []
-
-## Jeff Ryan
- - [https://jeffjryan.com](https://jeffjryan.com)
- - date published: 2023-12-12T04:53:22.246788+00:00
  - user: None
  - tags: ['personal']
 

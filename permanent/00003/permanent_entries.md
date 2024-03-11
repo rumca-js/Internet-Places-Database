@@ -1,3 +1,9 @@
+## Nie znaleziono bloga
+ - [https://heyjudyitsnoonsomewhere.blogspot.com](https://heyjudyitsnoonsomewhere.blogspot.com)
+ - date published: 2024-02-08T22:25:30.501122+00:00
+ - user: None
+ - tags: []
+
 ## Information Processing
  - [http://infoproc.blogspot.com](http://infoproc.blogspot.com)
  - date published: 2024-02-22T00:00:00+00:00
@@ -5057,6 +5063,12 @@
  - user: None
  - tags: []
 
+## Code Deep Dives
+ - [https://codedeepdives.com](https://codedeepdives.com)
+ - date published: 2024-03-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Codeforces
  - [https://codeforces.com](https://codeforces.com)
  - date published: 2023-10-25T13:28:14.373320+00:00
@@ -5373,7 +5385,7 @@
  - [https://www.collabora.com](https://www.collabora.com)
  - date published: 2023-10-25T13:30:29.607246+00:00
  - user: None
- - tags: []
+ - tags: ['open source', 'consultancy company']
 
 ## Collapse Musings
  - [https://www.collapsemusings.com](https://www.collapsemusings.com)
@@ -5998,16 +6010,4 @@
  - date published: 2024-01-13T22:52:56.893553+00:00
  - user: None
  - tags: []
-
-## Corey's Digs Investigative Journalism: Reporting Truth
- - [https://www.coreysdigs.com](https://www.coreysdigs.com)
- - date published: 2023-10-25T13:33:56.670950+00:00
- - user: None
- - tags: []
-
-## CORGI ORGY
- - [https://corgiorgy.com](https://corgiorgy.com)
- - date published: 2023-10-27T11:05:03.317068+00:00
- - user: None
- - tags: ['wtf']
 

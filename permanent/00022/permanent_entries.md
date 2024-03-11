@@ -1,3 +1,177 @@
+## ForgeFed
+ - [https://forgefed.org](https://forgefed.org)
+ - date published: 2023-10-25T21:21:36.586257+00:00
+ - user: None
+ - tags: []
+
+## Forgejo – Beyond coding. We forge.
+ - [https://forgejo.org](https://forgejo.org)
+ - date published: 2023-10-25T21:21:37.400053+00:00
+ - user: None
+ - tags: []
+
+## Software Forge Performance Index
+ - [https://forgeperf.org](https://forgeperf.org)
+ - date published: 2023-10-25T21:21:47.839606+00:00
+ - user: None
+ - tags: []
+
+## Home - Forsyth
+ - [https://forsyth.org](https://forsyth.org)
+ - date published: 2023-12-04T09:13:10.640249+00:00
+ - user: None
+ - tags: []
+
+## Forth Interest Group Home Page
+ - [http://www.forth.org](http://www.forth.org)
+ - date published: 2023-10-25T21:21:50.066557+00:00
+ - user: None
+ - tags: []
+
+## for Tomorrow | A long-term, multifaceted commitment to building a more sustainable world
+ - [https://fortomorrow.org](https://fortomorrow.org)
+ - date published: 2023-10-25T21:21:57.633900+00:00
+ - user: None
+ - tags: []
+
+## The Fortran Programming Language — Fortran Programming Language
+ - [https://fortran-lang.org](https://fortran-lang.org)
+ - date published: 2023-10-25T21:21:58.660647+00:00
+ - user: None
+ - tags: []
+
+## FOSDEM24 - Previous FOSDEM Editions
+ - [https://archive.fosdem.org](https://archive.fosdem.org)
+ - date published: 2023-10-25T21:22:00.131913+00:00
+ - user: None
+ - tags: []
+
+## FOSDEM24 - Home
+ - [https://fosdem.org](https://fosdem.org)
+ - date published: 2023-10-25T21:22:01.486923+00:00
+ - user: None
+ - tags: ['open source', 'community event']
+
+## FOSS and Crafts
+ - [https://fossandcrafts.org](https://fossandcrafts.org)
+ - date published: 2023-10-25T21:22:03.037482+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://fosshost.org](https://fosshost.org)
+ - date published: 2024-01-09T03:39:31.584866+00:00
+ - user: None
+ - tags: []
+
+## Fossify GitHub Page
+ - [https://www.fossify.org](https://www.fossify.org)
+ - date published: 2024-01-15T18:29:40+00:00
+ - user: rumpel
+ - tags: []
+
+## Fossil: A Coherent Software Configuration Management System
+ - [https://fossil-scm.org](https://fossil-scm.org)
+ - date published: 2024-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Fossil: Home
+ - [https://www.fossil-scm.org](https://www.fossil-scm.org)
+ - date published: 2023-10-25T21:22:05.638420+00:00
+ - user: None
+ - tags: []
+
+## | FOSSlife
+ - [https://www.fosslife.org](https://www.fosslife.org)
+ - date published: 2024-01-09T03:39:33.696357+00:00
+ - user: None
+ - tags: []
+
+## Fosstodon
+ - [https://fosstodon.org](https://fosstodon.org)
+ - date published: 2023-10-24T20:13:36.118898+00:00
+ - user: None
+ - tags: ['mastodon', 'open source']
+
+## Fosstodon Hub
+ - [https://hub.fosstodon.org](https://hub.fosstodon.org)
+ - date published: 2023-10-25T21:22:06.810545+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Ellenberger Architecture | Architectural practice in the California Bay Area, with experience in commercial, civic, healthcare, education, and residential projects.
+ - [https://www.fotuva.org](https://www.fotuva.org)
+ - date published: 2024-01-09T03:39:38.501537+00:00
+ - user: None
+ - tags: []
+
+## FoundSF
+ - [https://www.foundsf.org](https://www.foundsf.org)
+ - date published: 2023-10-25T21:22:16.106715+00:00
+ - user: None
+ - tags: []
+
+## The History of FoxPro
+ - [http://www.foxprohistory.org](http://www.foxprohistory.org)
+ - date published: 2023-10-25T21:22:16.878309+00:00
+ - user: None
+ - tags: []
+
+## Foreign Policy Research Institute - International Policy Think Tank
+ - [https://www.fpri.org](https://www.fpri.org)
+ - date published: 2024-02-24T18:07:47.400683+00:00
+ - user: None
+ - tags: []
+
+## Framablog – La route est longue mais la voie est libre…
+ - [https://framablog.org](https://framablog.org)
+ - date published: 2023-10-25T21:22:21.674069+00:00
+ - user: None
+ - tags: []
+
+## Franck Goddio: Homepage
+ - [https://www.franckgoddio.org](https://www.franckgoddio.org)
+ - date published: 2023-10-25T21:22:23.863582+00:00
+ - user: None
+ - tags: []
+
+## Fraser Institute
+ - [https://fraserinstitute.org](https://fraserinstitute.org)
+ - date published: 2023-10-25T21:22:27.402641+00:00
+ - user: None
+ - tags: []
+
+## Federal Reserve Bank of San Francisco
+ - [https://www.frbsf.org](https://www.frbsf.org)
+ - date published: 2024-01-17T15:40:24.538988+00:00
+ - user: None
+ - tags: []
+
+## FreeBSD Git repositories
+ - [https://cgit.freebsd.org](https://cgit.freebsd.org)
+ - date published: 2023-10-25T21:22:28.105203+00:00
+ - user: None
+ - tags: []
+
+## https://docs.freebsd.org/en/
+ - [https://docs.freebsd.org](https://docs.freebsd.org)
+ - date published: 2023-10-25T21:22:28.573567+00:00
+ - user: None
+ - tags: []
+
+## FreeBSD Mailing lists
+ - [https://lists.freebsd.org](https://lists.freebsd.org)
+ - date published: 2023-10-25T21:22:31.820209+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the FreeBSD mailing list archive
+ - [https://mail-archive.freebsd.org](https://mail-archive.freebsd.org)
+ - date published: 2024-01-21T19:44:58.536359+00:00
+ - user: None
+ - tags: []
+
 ## FreeBSD Homepages - redirect
  - [https://people.freebsd.org](https://people.freebsd.org)
  - date published: 2023-10-25T21:22:32.400113+00:00
@@ -56,7 +230,7 @@
  - [https://gitlab.freedesktop.org](https://gitlab.freedesktop.org)
  - date published: 2023-10-25T21:22:53.665835+00:00
  - user: None
- - tags: []
+ - tags: ['linux', 'graphic stack', 'open source']
 
 ## lists.freedesktop.org Mailing Lists
  - [https://lists.freedesktop.org](https://lists.freedesktop.org)
@@ -323,16 +497,16 @@
  - tags: []
 
 ## Gamesboro Radio
- - [https://radio.gamesboro.org](https://radio.gamesboro.org)
- - date published: 2024-02-15T22:13:54.975381+00:00
- - user: None
- - tags: ['demoscene']
-
-## Gamesboro Radio
  - [http://radio.gamesboro.org](http://radio.gamesboro.org)
  - date published: 2024-02-15T02:00:21.565467+00:00
  - user: None
  - tags: []
+
+## Gamesboro Radio
+ - [https://radio.gamesboro.org](https://radio.gamesboro.org)
+ - date published: 2024-02-15T22:13:54.975381+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Gamesboro Shoutcast
  - [http://shoutcast.gamesboro.org](http://shoutcast.gamesboro.org)
@@ -1521,14 +1695,14 @@
  - tags: []
 
 ## IEEE Spectrum
- - [http://spectrum.ieee.org](http://spectrum.ieee.org)
- - date published: 2024-02-25T20:49:03.401404+00:00
+ - [https://spectrum.ieee.org](https://spectrum.ieee.org)
+ - date published: 2023-10-25T09:37:30.327947+00:00
  - user: None
  - tags: []
 
 ## IEEE Spectrum
- - [https://spectrum.ieee.org](https://spectrum.ieee.org)
- - date published: 2023-10-25T09:37:30.327947+00:00
+ - [http://spectrum.ieee.org](http://spectrum.ieee.org)
+ - date published: 2024-02-25T20:49:03.401404+00:00
  - user: None
  - tags: []
 
@@ -3684,14 +3858,14 @@ Hosted by Panix.com.
  - tags: ['personal']
 
 ## MarTech
- - [https://martech.org](https://martech.org)
- - date published: 2024-01-09T05:07:40.902644+00:00
+ - [http://martech.org](http://martech.org)
+ - date published: 2024-02-26T08:57:00.132467+00:00
  - user: None
  - tags: []
 
 ## MarTech
- - [http://martech.org](http://martech.org)
- - date published: 2024-02-26T08:57:00.132467+00:00
+ - [https://martech.org](https://martech.org)
+ - date published: 2024-01-09T05:07:40.902644+00:00
  - user: None
  - tags: []
 
@@ -3933,7 +4107,13 @@ Hosted by Panix.com.
  - [https://docs.mesa3d.org](https://docs.mesa3d.org)
  - date published: 2023-10-25T21:41:37.809868+00:00
  - user: None
- - tags: []
+ - tags: ['opengl', 'open source']
+
+## Home — The Mesa 3D Graphics Library
+ - [https://mesa3d.org](https://mesa3d.org)
+ - date published: 2024-02-28T00:00:00+00:00
+ - user: rumpel
+ - tags: ['opengl', 'open source']
 
 ## Meshtastic: An open source, off-grid, decentralized, mesh network
  - [https://meshtastic.org](https://meshtastic.org)
@@ -4234,16 +4414,16 @@ Common Weakness Enumeration
  - tags: []
 
 ## The Mod Archive v4.0b - A distinctive collection of modules
- - [https://modarchive.org](https://modarchive.org)
- - date published: 2023-10-28T19:01:07.809021+00:00
- - user: None
- - tags: ['chiptune', 'keygen', 'demoscene']
-
-## The Mod Archive v4.0b - A distinctive collection of modules
  - [http://modarchive.org](http://modarchive.org)
  - date published: 2024-02-15T01:59:58.310157+00:00
  - user: None
  - tags: []
+
+## The Mod Archive v4.0b - A distinctive collection of modules
+ - [https://modarchive.org](https://modarchive.org)
+ - date published: 2023-10-28T19:01:07.809021+00:00
+ - user: None
+ - tags: ['chiptune', 'keygen', 'demoscene']
 
 ## mojo.js - JavaScript real-time web framework
  - [https://mojojs.org](https://mojojs.org)
@@ -5826,186 +6006,6 @@ Common Weakness Enumeration
 ## OGRE - Open Source 3D Graphics Engine
  - [https://www.ogre3d.org](https://www.ogre3d.org)
  - date published: 2023-11-01T08:44:36.360088+00:00
- - user: None
- - tags: []
-
-## https://www.ohchr.org
- - [https://www.ohchr.org](https://www.ohchr.org)
- - date published: 2023-10-25T21:51:29.728838+00:00
- - user: None
- - tags: []
-
-## Welcome · Open Hardware Repository
- - [https://ohwr.org](https://ohwr.org)
- - date published: 2023-10-25T21:51:32.457993+00:00
- - user: None
- - tags: []
-
-## Oils
- - [https://www.oilshell.org](https://www.oilshell.org)
- - date published: 2023-10-25T21:51:34.355660+00:00
- - user: None
- - tags: []
-
-## Oldlinux.org -- Linux plinux - Early Linux Kernel Analysis and Comments
- - [http://www.oldlinux.org](http://www.oldlinux.org)
- - date published: 2023-10-25T21:51:37.339430+00:00
- - user: None
- - tags: []
-
-## kevin olega
- - [https://olega.org](https://olega.org)
- - date published: 2023-11-29T14:42:57.758400+00:00
- - user: None
- - tags: ['personal']
-
-## OLF Conference 2023 - Free and Open Software Conference and Expo
- - [https://olfconference.org](https://olfconference.org)
- - date published: 2023-10-25T21:51:41.610121+00:00
- - user: None
- - tags: []
-
-## Om: Main Page
- - [https://www.om-language.org](https://www.om-language.org)
- - date published: 2023-10-25T21:51:44.378412+00:00
- - user: None
- - tags: []
-
-## Together, we can solve the climate crisis | One Earth
- - [https://oneearth.org](https://oneearth.org)
- - date published: 2024-02-26T09:40:15.170585+00:00
- - user: None
- - tags: []
-
-## Together, we can solve the climate crisis | One Earth
- - [https://www.oneearth.org](https://www.oneearth.org)
- - date published: 2023-10-25T21:51:52.977152+00:00
- - user: None
- - tags: []
-
-## One Useful Thing | Ethan Mollick | Substack
- - [https://www.oneusefulthing.org](https://www.oneusefulthing.org)
- - date published: 2023-10-25T21:51:56.259603+00:00
- - user: None
- - tags: []
-
-## OnionShare
- - [https://onionshare.org](https://onionshare.org)
- - date published: 2024-02-23T08:47:09.208565+00:00
- - user: None
- - tags: []
-
-## Forums
- - [https://forums.onlinebookclub.org](https://forums.onlinebookclub.org)
- - date published: 2024-02-27T00:00:00+00:00
- - user: None
- - tags: []
-
-## On the public record | a would-be mouthpiece for big corporate enviros, neopagans and totalitarian leftists.
- - [https://onthepublicrecord.org](https://onthepublicrecord.org)
- - date published: 2023-10-25T21:52:02.318093+00:00
- - user: None
- - tags: []
-
-## Open Observatory of Network Interference
- - [https://ooni.org](https://ooni.org)
- - date published: 2023-11-08T18:30:10+00:00
- - user: None
- - tags: []
-
-## Oregon Public Broadcasting - OPB
- - [https://www.opb.org](https://www.opb.org)
- - date published: 2023-10-25T21:52:14.305899+00:00
- - user: None
- - tags: []
-
-## https://open5gs.org
- - [https://open5gs.org](https://open5gs.org)
- - date published: 2024-01-09T03:41:52.757713+00:00
- - user: None
- - tags: []
-
-## Open Access Government | Government | Health & Social Care | Research
- - [https://www.openaccessgovernment.org](https://www.openaccessgovernment.org)
- - date published: 2023-10-25T21:52:23.443094+00:00
- - user: None
- - tags: []
-
-## https://openairportmap.org
- - [https://openairportmap.org](https://openairportmap.org)
- - date published: 2024-01-09T01:36:33.820775+00:00
- - user: None
- - tags: []
-
-## Open Amiga - Projects
- - [http://openamiga.org](http://openamiga.org)
- - date published: 2023-12-11T17:26:39.841158+00:00
- - user: None
- - tags: []
-
-## https://code.openark.org
- - [https://code.openark.org](https://code.openark.org)
- - date published: 2024-01-09T03:41:53.810750+00:00
- - user: None
- - tags: []
-
-## OpenBSD
- - [https://www.openbsd.org](https://www.openbsd.org)
- - date published: 2023-10-25T21:52:26.569830+00:00
- - user: None
- - tags: []
-
-## Open Campus
- - [https://www.opencampusmedia.org](https://www.opencampusmedia.org)
- - date published: 2024-03-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Open Compute Project
- - [https://www.opencompute.org](https://www.opencompute.org)
- - date published: 2023-10-27T12:06:56.023487+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://opencv.org](https://opencv.org)
- - date published: 2023-11-27T11:43:39.740043+00:00
- - user: None
- - tags: ['machine learning', 'computer vision', 'artificial intelligence', 'facial recognition']
-
-## OpenDev: Free Software Needs Free Tools
- - [https://opendev.org](https://opendev.org)
- - date published: 2024-01-09T18:46:37.291647+00:00
- - user: None
- - tags: []
-
-## Open Doors International
- - [https://www.opendoors.org](https://www.opendoors.org)
- - date published: 2024-01-21T18:23:21+00:00
- - user: rumpel
- - tags: ['percecution', 'christioanophobia']
-
-## Home | OpenEnergyMonitor
- - [https://openenergymonitor.org](https://openenergymonitor.org)
- - date published: 2023-10-25T21:52:27.669344+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.opengl-tutorial.org](https://www.opengl-tutorial.org)
- - date published: 2000-01-01T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## Open Graph protocol
- - [http://opengraphprotocol.org](http://opengraphprotocol.org)
- - date published: 1996-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Open Graph protocol
- - [https://opengraphprotocol.org](https://opengraphprotocol.org)
- - date published: 2023-12-18T17:10:32.441946+00:00
  - user: None
  - tags: []
 

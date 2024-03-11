@@ -1,3 +1,111 @@
+## Startseite - LMU München
+ - [https://www.lmu.de](https://www.lmu.de)
+ - date published: 2023-11-26T11:11:04.642177+00:00
+ - user: None
+ - tags: ['university']
+
+## LMU Munich - Media Informatics
+ - [https://www.medien.ifi.lmu.de](https://www.medien.ifi.lmu.de)
+ - date published: 2023-10-25T18:31:46.269292+00:00
+ - user: None
+ - tags: []
+
+## LostFocus
+ - [https://lostfocus.de](https://lostfocus.de)
+ - date published: 2023-12-20T21:30:15.642798+00:00
+ - user: None
+ - tags: ['personal']
+
+## LSWW - Mach dein Online Business smarter!
+ - [https://lsww.de](https://lsww.de)
+ - date published: 2023-10-25T18:31:53.223152+00:00
+ - user: None
+ - tags: []
+
+## Lukas Schwarz
+ - [https://lukasschwarz.de](https://lukasschwarz.de)
+ - date published: 2023-10-25T18:31:56.457029+00:00
+ - user: None
+ - tags: []
+
+## Luke Francke
+ - [https://lukefrancke.de](https://lukefrancke.de)
+ - date published: 2023-12-27T00:59:44.995847+00:00
+ - user: None
+ - tags: ['personal']
+
+## M5E's Blog
+ - [https://blog.m5e.de](https://blog.m5e.de)
+ - date published: 2023-10-25T18:31:59.192949+00:00
+ - user: None
+ - tags: []
+
+## Marcus Burk - Digital. Marketing. Kommunikation.
+ - [https://marcusburk.de](https://marcusburk.de)
+ - date published: 2023-11-29T17:19:11.975227+00:00
+ - user: None
+ - tags: ['personal']
+
+## Marcus Obst 🍋 Webanwendungen und Digitale Lösungen | Marcus Obst
+ - [https://marcus-obst.de](https://marcus-obst.de)
+ - date published: 2023-12-10T11:35:16.029787+00:00
+ - user: None
+ - tags: ['personal']
+
+## Tach auch! | Marek Maras • Webentwicklung aus'm Ruhrpott
+ - [https://www.marek-maras.de](https://www.marek-maras.de)
+ - date published: 2024-01-16T03:18:50.121445+00:00
+ - user: None
+ - tags: []
+
+## Home | Mario Keipert: textwärts
+ - [https://mariokeipert.de](https://mariokeipert.de)
+ - date published: 2024-01-07T11:04:04.914461+00:00
+ - user: None
+ - tags: []
+
+## martinc.de
+ - [https://martinc.de](https://martinc.de)
+ - date published: 2023-12-31T21:19:53.764563+00:00
+ - user: None
+ - tags: []
+
+## MastodonDE
+ - [https://mastodon.de](https://mastodon.de)
+ - date published: 1920-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Maurice Renck ist Blogger, Podcaster & Webentwickler
+ - [https://maurice-renck.de](https://maurice-renck.de)
+ - date published: 2023-11-29T15:45:27.713469+00:00
+ - user: None
+ - tags: ['personal']
+
+## Max Delbrück Center
+ - [https://www.mdc-berlin.de](https://www.mdc-berlin.de)
+ - date published: 2023-10-25T18:32:02.264905+00:00
+ - user: None
+ - tags: []
+
+## Elektronik, Trends & Technik kaufen im Onlineshop
+ - [https://www.mediamarkt.de](https://www.mediamarkt.de)
+ - date published: 2023-11-01T08:41:24.416647+00:00
+ - user: None
+ - tags: []
+
+## Metal Hammer
+ - [https://www.metal-hammer.de](https://www.metal-hammer.de)
+ - date published: 2023-11-02T09:15:35.360663+00:00
+ - user: None
+ - tags: []
+
+## Institute for Digital Medicine -  Fraunhofer MEVIS
+ - [http://www.mevis-research.de](http://www.mevis-research.de)
+ - date published: 2023-10-25T18:32:07.302710+00:00
+ - user: None
+ - tags: []
+
 ## mh-nexus
  - [https://mh-nexus.de](https://mh-nexus.de)
  - date published: 1999-01-01T00:00:00+00:00
@@ -107,16 +215,16 @@
  - tags: []
 
 ## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
- - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
- - date published: 2024-02-15T02:00:01.330586+00:00
- - user: None
- - tags: ['video game music']
-
-## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
  - [https://nerdsandgeeks.de](https://nerdsandgeeks.de)
  - date published: 2024-02-15T22:13:44.143200+00:00
  - user: None
  - tags: ['demoscene']
+
+## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
+ - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
+ - date published: 2024-02-15T02:00:01.330586+00:00
+ - user: None
+ - tags: ['video game music']
 
 ## NeuroNagel : Neuroregulation, Neurofeedback, Biofeedback, Mentalsysteme und Mindmachines
  - [https://www.neuronagel.de](https://www.neuronagel.de)
@@ -139,6 +247,12 @@
 ## Nina Klose – Marketing | Texte | Online-Business
  - [https://ninaklose.de](https://ninaklose.de)
  - date published: 2024-01-11T02:12:35.947114+00:00
+ - user: None
+ - tags: []
+
+## Nordic Names
+ - [https://www.nordicnames.de](https://www.nordicnames.de)
+ - date published: 2023-02-19T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2215,14 +2329,14 @@
  - tags: ['personal']
 
 ## Jakob Serlier's Personal Site
- - [http://jakobs.dev](http://jakobs.dev)
- - date published: 2024-01-15T00:00:00+00:00
+ - [https://jakobs.dev](https://jakobs.dev)
+ - date published: 2024-01-09T01:37:20.973191+00:00
  - user: None
  - tags: []
 
 ## Jakob Serlier's Personal Site
- - [https://jakobs.dev](https://jakobs.dev)
- - date published: 2024-01-09T01:37:20.973191+00:00
+ - [http://jakobs.dev](http://jakobs.dev)
+ - date published: 2024-01-15T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2995,14 +3109,14 @@
  - tags: []
 
 ## Passkey Developer Resources
- - [https://passkeys.dev](https://passkeys.dev)
- - date published: 2023-01-31T00:00:00+00:00
+ - [http://passkeys.dev](http://passkeys.dev)
+ - date published: 2024-02-25T19:46:12.112766+00:00
  - user: None
  - tags: []
 
 ## Passkey Developer Resources
- - [http://passkeys.dev](http://passkeys.dev)
- - date published: 2024-02-25T19:46:12.112766+00:00
+ - [https://passkeys.dev](https://passkeys.dev)
+ - date published: 2023-01-31T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3495,14 +3609,14 @@
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date published: 2023-10-25T18:42:09.401241+00:00
+ - [http://socket.dev](http://socket.dev)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [http://socket.dev](http://socket.dev)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://socket.dev](https://socket.dev)
+ - date published: 2023-10-25T18:42:09.401241+00:00
  - user: None
  - tags: []
 
@@ -3547,6 +3661,12 @@
  - date published: 2023-10-25T18:42:23.561265+00:00
  - user: None
  - tags: ['personal']
+
+## Suyu: A Nintendo Switch emulator for hardware preservation and research
+ - [https://suyu.dev](https://suyu.dev)
+ - date published: 2024-03-10T07:08:46+00:00
+ - user: None
+ - tags: []
 
 ## Svelte • Cybernetically enhanced web apps
  - [https://svelte.dev](https://svelte.dev)
@@ -3679,6 +3799,12 @@
  - date published: 2023-10-25T08:58:54.572602+00:00
  - user: None
  - tags: ['personal']
+
+## Show HN: Timelock.dev – Send a secret into the future using timelock encryption
+ - [https://timelock.dev](https://timelock.dev)
+ - date published: 2024-03-10T18:46:19+00:00
+ - user: None
+ - tags: []
 
 ## Tailwind CSS 11-color Palette Generator and API
  - [https://www.tints.dev](https://www.tints.dev)
@@ -5881,132 +6007,6 @@
 ## More crop per drop | MIT - Massachusetts Institute of Technology
  - [https://web.mit.edu](https://web.mit.edu)
  - date published: 2023-10-25T11:22:48.078614+00:00
- - user: None
- - tags: []
-
-## Home Page | MIT CSAIL
- - [https://www.csail.mit.edu](https://www.csail.mit.edu)
- - date published: 2023-10-25T18:55:00.580862+00:00
- - user: None
- - tags: []
-
-## MIT FUTURE OF AI
- - [https://www.futureofai.mit.edu](https://www.futureofai.mit.edu)
- - date published: 2023-10-25T18:55:02.414323+00:00
- - user: None
- - tags: []
-
-## MIT Haystack Observatory - Radio science & technology research center
- - [https://www.haystack.mit.edu](https://www.haystack.mit.edu)
- - date published: 2023-10-25T18:55:07.021253+00:00
- - user: None
- - tags: []
-
-## Homepage | MIT Lincoln Laboratory
- - [https://www.ll.mit.edu](https://www.ll.mit.edu)
- - date published: 2023-10-25T18:55:14.624029+00:00
- - user: None
- - tags: []
-
-## News + Updates – MIT Media Lab
- - [https://www.media.mit.edu](https://www.media.mit.edu)
- - date published: 2024-01-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## More crop per drop | MIT - Massachusetts Institute of Technology
- - [https://www.mit.edu](https://www.mit.edu)
- - date published: 2023-10-25T18:55:16.546253+00:00
- - user: None
- - tags: []
-
-## Lens: Expert topical commentary, pioneering research - Monash University
- - [https://lens.monash.edu](https://lens.monash.edu)
- - date published: 2023-12-11T11:12:50.679402+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.monash.edu](https://www.monash.edu)
- - date published: 2023-10-31T10:59:13.130253+00:00
- - user: None
- - tags: []
-
-## https://clip.msu.edu
- - [https://clip.msu.edu](https://clip.msu.edu)
- - date published: 2024-02-08T17:44:08.623151+00:00
- - user: None
- - tags: []
-
-## homepage | Forest Akers Golf Courses
- - [https://golf.msu.edu](https://golf.msu.edu)
- - date published: 2024-01-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://msutoday.msu.edu
- - [https://msutoday.msu.edu](https://msutoday.msu.edu)
- - date published: 2023-12-23T11:36:25.043855+00:00
- - user: None
- - tags: []
-
-## Middle Tennessee State University | Middle Tennessee State University
- - [https://www.mtsu.edu](https://www.mtsu.edu)
- - date published: 2023-10-25T18:55:21.754876+00:00
- - user: None
- - tags: []
-
-## NC State News
- - [https://news.ncsu.edu](https://news.ncsu.edu)
- - date published: 2023-10-25T18:55:26.541930+00:00
- - user: None
- - tags: []
-
-## Notre Dame News | University of Notre Dame
- - [https://news.nd.edu](https://news.nd.edu)
- - date published: 2023-10-25T18:55:35.076777+00:00
- - user: None
- - tags: []
-
-## NDSU - North Dakota State University
- - [https://www.ndsu.edu](https://www.ndsu.edu)
- - date published: 2023-10-25T18:55:39.000458+00:00
- - user: None
- - tags: []
-
-## NJIT News
- - [https://news.njit.edu](https://news.njit.edu)
- - date published: 2023-12-24T14:21:23.481370+00:00
- - user: None
- - tags: []
-
-## Catron County Extension Office Home
- - [https://catronextension.nmsu.edu](https://catronextension.nmsu.edu)
- - date published: 2024-02-08T17:58:40.694600+00:00
- - user: None
- - tags: []
-
-## Welcome to Hobbes
- - [https://hobbes.nmsu.edu](https://hobbes.nmsu.edu)
- - date published: 2024-01-09T21:08:23.894605+00:00
- - user: None
- - tags: []
-
-## NOIRLab / NSF’s National Optical-IR Astronomy Research Laboratory
- - [https://noirlab.edu](https://noirlab.edu)
- - date published: 2024-01-09T02:59:27.072163+00:00
- - user: None
- - tags: []
-
-## Northeastern Global News - News, Discovery, and Analysis from Around the World
- - [https://news.northeastern.edu](https://news.northeastern.edu)
- - date published: 2023-10-25T18:55:44.990462+00:00
- - user: None
- - tags: []
-
-## Home - Programming Research Laboratory - Northeastern University
- - [https://prl.khoury.northeastern.edu](https://prl.khoury.northeastern.edu)
- - date published: 2023-10-25T18:55:46.864652+00:00
  - user: None
  - tags: []
 

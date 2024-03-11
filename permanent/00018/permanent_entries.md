@@ -1,3 +1,159 @@
+## Redirecting to Jason's Homepage
+ - [https://jxnl.github.io](https://jxnl.github.io)
+ - date published: 2023-10-27T17:34:00.191208+00:00
+ - user: None
+ - tags: []
+
+## Ben's Engineering Blog
+ - [https://kaleidawave.github.io](https://kaleidawave.github.io)
+ - date published: 2023-10-25T19:47:30.463999+00:00
+ - user: None
+ - tags: []
+
+## Andrej Karpathy blog
+ - [https://karpathy.github.io](https://karpathy.github.io)
+ - date published: 2023-10-25T19:47:36.949565+00:00
+ - user: None
+ - tags: []
+
+## Konstantinos Chousos
+ - [https://kchousos.github.io](https://kchousos.github.io)
+ - date published: 2023-06-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Kenny Tilton on GitHub
+ - [https://kennytilton.github.io](https://kennytilton.github.io)
+ - date published: 2023-11-01T15:43:47.752865+00:00
+ - user: None
+ - tags: []
+
+## Home | Dr. Ken Tindell
+ - [https://kentindell.github.io](https://kentindell.github.io)
+ - date published: 2023-10-25T19:47:44.676046+00:00
+ - user: None
+ - tags: []
+
+## Kevin Zakka's Blog
+ - [https://kevinzakka.github.io](https://kevinzakka.github.io)
+ - date published: 2023-10-25T19:47:46.098985+00:00
+ - user: None
+ - tags: []
+
+## KilledByAPixel.github.io
+ - [https://killedbyapixel.github.io](https://killedbyapixel.github.io)
+ - date published: 2024-02-12T07:50:18.356252+00:00
+ - user: None
+ - tags: []
+
+## kimono koans' blog!
+ - [https://kimono-koans.github.io](https://kimono-koans.github.io)
+ - date published: 2023-10-25T19:47:47.466658+00:00
+ - user: None
+ - tags: []
+
+## Kobzol’s blog
+ - [https://kobzol.github.io](https://kobzol.github.io)
+ - date published: 2023-10-25T08:59:09.790395+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://kognise.github.io](https://kognise.github.io)
+ - date published: 2024-02-08T22:20:36.027462+00:00
+ - user: None
+ - tags: []
+
+## Pages | kohlschuetter.github.io
+ - [https://kohlschuetter.github.io](https://kohlschuetter.github.io)
+ - date published: 2023-10-25T19:47:48.664878+00:00
+ - user: None
+ - tags: []
+
+## Koka Redirect
+ - [https://koka-lang.github.io](https://koka-lang.github.io)
+ - date published: 2023-12-29T22:49:36.688274+00:00
+ - user: None
+ - tags: []
+
+## main :: Kowainik
+ - [https://kowainik.github.io](https://kowainik.github.io)
+ - date published: 2023-10-25T11:34:32.199909+00:00
+ - user: None
+ - tags: []
+
+## Kai Kaufman's tech blog
+ - [https://ktkaufman03.github.io](https://ktkaufman03.github.io)
+ - date published: 2023-10-25T19:47:50.449626+00:00
+ - user: None
+ - tags: []
+
+## ktye
+ - [https://ktye.github.io](https://ktye.github.io)
+ - date published: 2024-01-08T15:10:04.032735+00:00
+ - user: None
+ - tags: []
+
+## Home - KuaiCV
+ - [https://kuai-lab.github.io](https://kuai-lab.github.io)
+ - date published: 2023-10-25T19:47:52.032344+00:00
+ - user: None
+ - tags: []
+
+## Kaixiong Gong
+ - [https://kxgong.github.io](https://kxgong.github.io)
+ - date published: 2023-10-25T19:47:53.713010+00:00
+ - user: None
+ - tags: []
+
+## Kyle Hovey
+ - [https://kylehovey.github.io](https://kylehovey.github.io)
+ - date published: 2023-10-25T19:47:55.467384+00:00
+ - user: None
+ - tags: []
+
+## Basit Ayantunde's Portfolio
+ - [https://lamarrr.github.io](https://lamarrr.github.io)
+ - date published: 2023-10-25T19:47:57.197010+00:00
+ - user: None
+ - tags: []
+
+## Large World Models
+ - [https://largeworldmodel.github.io](https://largeworldmodel.github.io)
+ - date published: 2024-02-14T08:02:51.696172+00:00
+ - user: None
+ - tags: []
+
+## Site not found · GitHub Pages
+ - [https://lassebomh.github.io](https://lassebomh.github.io)
+ - date published: 2024-01-08T01:43:21.865269+00:00
+ - user: None
+ - tags: []
+
+## Machine Logic
+ - [https://lawrencecpaulson.github.io](https://lawrencecpaulson.github.io)
+ - date published: 2023-10-25T19:48:01.142497+00:00
+ - user: None
+ - tags: []
+
+## 🚀 Getting Started | LazyVim
+ - [https://lazyvim.github.io](https://lazyvim.github.io)
+ - date published: 2023-10-30T13:51:55.887972+00:00
+ - user: None
+ - tags: ['vim', 'open source', 'program', 'programming ide']
+
+## Lean
+ - [https://leanprover.github.io](https://leanprover.github.io)
+ - date published: 2023-10-25T19:48:02.846447+00:00
+ - user: None
+ - tags: []
+
+## learnbyexample
+ - [https://learnbyexample.github.io](https://learnbyexample.github.io)
+ - date published: 2023-10-25T19:48:04.400530+00:00
+ - user: None
+ - tags: []
+
 ## Greek geek
  - [https://lecromee.github.io](https://lecromee.github.io)
  - date published: 2023-10-25T19:48:05.636512+00:00
@@ -3217,16 +3373,16 @@
  - tags: []
 
 ## NCS (NoCopyrightSounds) - Free Music for Creators
- - [http://ncs.io](http://ncs.io)
- - date published: 2024-02-24T09:55:13.681583+00:00
- - user: None
- - tags: []
-
-## NCS (NoCopyrightSounds) - Free Music for Creators
  - [https://ncs.io](https://ncs.io)
  - date published: 2023-11-13T13:39:14.863107+00:00
  - user: None
  - tags: ['music', 'assets audio']
+
+## NCS (NoCopyrightSounds) - Free Music for Creators
+ - [http://ncs.io](http://ncs.io)
+ - date published: 2024-02-24T09:55:13.681583+00:00
+ - user: None
+ - tags: []
 
 ## Daniel Nechtan
  - [https://nechtan.io](https://nechtan.io)
@@ -4123,15 +4279,15 @@
  - user: None
  - tags: []
 
-## None
- - [http://www.sensibledefaults.io](http://www.sensibledefaults.io)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
 ## https://www.sensibledefaults.io
  - [https://www.sensibledefaults.io](https://www.sensibledefaults.io)
  - date published: 2024-01-09T03:33:23.580817+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://www.sensibledefaults.io](http://www.sensibledefaults.io)
+ - date published: 2000-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4845,15 +5001,15 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: []
 
-## Software Innovation Lab - Tweag
- - [https://www.tweag.io](https://www.tweag.io)
- - date published: 2023-10-25T20:12:02.408852+00:00
- - user: None
- - tags: []
-
 ## Software Innovation Lab
  - [http://www.tweag.io](http://www.tweag.io)
  - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Software Innovation Lab - Tweag
+ - [https://www.tweag.io](https://www.tweag.io)
+ - date published: 2023-10-25T20:12:02.408852+00:00
  - user: None
  - tags: []
 
@@ -5244,14 +5400,14 @@ End-to-end typesafe APIs made easy. | tRPC
  - tags: []
 
 ## LITCAVE
- - [http://litcave.rudi.ir](http://litcave.rudi.ir)
- - date published: 2024-01-20T22:40:49.049038+00:00
+ - [https://litcave.rudi.ir](https://litcave.rudi.ir)
+ - date published: 2024-01-20T22:40:50.165298+00:00
  - user: None
  - tags: []
 
 ## LITCAVE
- - [https://litcave.rudi.ir](https://litcave.rudi.ir)
- - date published: 2024-01-20T22:40:50.165298+00:00
+ - [http://litcave.rudi.ir](http://litcave.rudi.ir)
+ - date published: 2024-01-20T22:40:49.049038+00:00
  - user: None
  - tags: []
 
@@ -5292,14 +5448,14 @@ End-to-end typesafe APIs made easy. | tRPC
  - tags: []
 
 ## Arun Venkatesan
- - [https://arun.is](https://arun.is)
- - date published: 2023-10-25T20:14:01.882609+00:00
+ - [http://arun.is](http://arun.is)
+ - date published: 2024-01-25T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Arun Venkatesan
- - [http://arun.is](http://arun.is)
- - date published: 2024-01-25T00:00:00+00:00
+ - [https://arun.is](https://arun.is)
+ - date published: 2023-10-25T20:14:01.882609+00:00
  - user: None
  - tags: []
 
@@ -5846,162 +6002,6 @@ End-to-end typesafe APIs made easy. | tRPC
 ## Summate.it - Quickly summarize web articles
  - [https://summate.it](https://summate.it)
  - date published: 2023-10-25T20:15:23.804588+00:00
- - user: None
- - tags: []
-
-## Software You Can love
- - [https://sycl.it](https://sycl.it)
- - date published: 2024-01-27T11:15:37.435380+00:00
- - user: None
- - tags: []
-
-## None
- - [https://tedd.it](https://tedd.it)
- - date published: 2024-01-09T03:33:45.616994+00:00
- - user: None
- - tags: []
-
-## The Local - Italy's news in English
- - [https://www.thelocal.it](https://www.thelocal.it)
- - date published: 2023-10-25T20:15:26.536494+00:00
- - user: None
- - tags: []
-
-## Branża IT bez tajemnic. Odwiedź blog IT od the:protocol!
- - [https://blog.theprotocol.it](https://blog.theprotocol.it)
- - date published: 2023-12-13T14:57:12.580020+00:00
- - user: None
- - tags: ['tech news']
-
-## The Split | Turner Novak | Substack
- - [https://www.thespl.it](https://www.thespl.it)
- - date published: 2023-10-25T20:15:30.056480+00:00
- - user: None
- - tags: []
-
-## TransitiveBullsh.it
- - [https://transitivebullsh.it](https://transitivebullsh.it)
- - date published: 2023-10-25T20:15:34.091849+00:00
- - user: None
- - tags: []
-
-## Unclutter — Reader Mode for Chrome & Firefox
- - [https://unclutter.it](https://unclutter.it)
- - date published: 2023-10-25T20:15:40.192858+00:00
- - user: None
- - tags: []
-
-## L'Unione Sarda.it
- - [https://www.unionesarda.it](https://www.unionesarda.it)
- - date published: 2023-11-06T02:35:24.227351+00:00
- - user: None
- - tags: []
-
-## Home - Dipartimento di Informatica
- - [http://groups.di.unipi.it](http://groups.di.unipi.it)
- - date published: 2023-10-25T20:15:43.305470+00:00
- - user: None
- - tags: []
-
-## upbeat.it - upbeat.it
- - [https://www.upbeat.it](https://www.upbeat.it)
- - date published: 2023-12-03T15:55:21.887131+00:00
- - user: None
- - tags: ['personal']
-
-## vexl – Medium
- - [https://blog.vexl.it](https://blog.vexl.it)
- - date published: 2023-10-25T20:15:45.707451+00:00
- - user: None
- - tags: []
-
-## Inside.java
- - [https://inside.java](https://inside.java)
- - date published: 2023-10-25T20:15:47.805588+00:00
- - user: None
- - tags: []
-
-## Linus's blog - Home
- - [https://linus.schreibt.jetzt](https://linus.schreibt.jetzt)
- - date published: 2023-10-25T20:15:48.629425+00:00
- - user: None
- - tags: []
-
-## https://www.mof.gov.jo
- - [https://www.mof.gov.jo](https://www.mof.gov.jo)
- - date published: 2024-02-08T17:36:22.727790+00:00
- - user: None
- - tags: []
-
-## Home Page - Jordan News | Latest News from Jordan, MENA
- - [https://www.jordannews.jo](https://www.jordannews.jo)
- - date published: 2023-11-06T01:35:39.245161+00:00
- - user: None
- - tags: []
-
-## wellfound.com
- - [https://padlet.jobs](https://padlet.jobs)
- - date published: 2023-10-25T20:15:54.132403+00:00
- - user: None
- - tags: []
-
-## 国立大学法人 神戸大学 (Kobe University)
- - [https://www.kobe-u.ac.jp](https://www.kobe-u.ac.jp)
- - date published: 2023-12-21T22:37:59.390250+00:00
- - user: None
- - tags: []
-
-## ASHBi Institute for the Advanced Study of Human Biology
- - [https://ashbi.kyoto-u.ac.jp](https://ashbi.kyoto-u.ac.jp)
- - date published: 2023-12-28T17:06:21.539329+00:00
- - user: None
- - tags: []
-
-## 京都大学
- - [https://www.kyoto-u.ac.jp](https://www.kyoto-u.ac.jp)
- - date published: 2024-01-02T16:45:34.615971+00:00
- - user: None
- - tags: ['university']
-
-## 名古屋大学
- - [https://www.nagoya-u.ac.jp](https://www.nagoya-u.ac.jp)
- - date published: 2023-10-25T20:15:58.916788+00:00
- - user: None
- - tags: []
-
-## 大阪大学発の研究を。
- - [https://resou.osaka-u.ac.jp](https://resou.osaka-u.ac.jp)
- - date published: 2024-01-06T12:19:38.103646+00:00
- - user: None
- - tags: []
-
-## 立命館大学
- - [https://www.ritsumei.ac.jp](https://www.ritsumei.ac.jp)
- - date published: 2023-10-25T20:16:04.028920+00:00
- - user: None
- - tags: []
-
-## Tohoku University
- - [https://www.tohoku.ac.jp](https://www.tohoku.ac.jp)
- - date published: 2023-12-05T10:47:34.290298+00:00
- - user: None
- - tags: []
-
-## 筑波大学
- - [https://www.tsukuba.ac.jp](https://www.tsukuba.ac.jp)
- - date published: 2023-10-25T20:16:10.773573+00:00
- - user: None
- - tags: []
-
-## Tokyo University of Science | 東京理科大学
- - [https://www.tus.ac.jp](https://www.tus.ac.jp)
- - date published: 2023-11-18T21:00:20.695704+00:00
- - user: None
- - tags: []
-
-## 東京大学 大澤 研究室
- - [https://www.panda.sys.t.u-tokyo.ac.jp](https://www.panda.sys.t.u-tokyo.ac.jp)
- - date published: 2023-10-25T20:16:13.506038+00:00
  - user: None
  - tags: []
 

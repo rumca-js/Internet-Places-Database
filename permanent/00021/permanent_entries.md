@@ -1,3 +1,171 @@
+## Maori Geek
+ - [https://maori.geek.nz](https://maori.geek.nz)
+ - date published: 2023-10-25T20:50:54.301684+00:00
+ - user: None
+ - tags: []
+
+## Arabesque | Systems, Tools, and Terminal Science
+ - [https://blog.sanctum.geek.nz](https://blog.sanctum.geek.nz)
+ - date published: 2023-10-25T20:51:00.552568+00:00
+ - user: None
+ - tags: []
+
+## SmartView Christchurch
+ - [https://smartview.ccc.govt.nz](https://smartview.ccc.govt.nz)
+ - date published: 2023-10-25T20:51:03.510470+00:00
+ - user: None
+ - tags: []
+
+## http://www.nzsis.govt.nz
+ - [http://www.nzsis.govt.nz](http://www.nzsis.govt.nz)
+ - date published: 2024-02-07T15:33:41+00:00
+ - user: rumpel
+ - tags: ['new zealand security intelligence', 'security intelligence']
+
+## Te Ara Encyclopedia of New Zealand – Te Ara Encyclopedia of New Zealand
+ - [https://teara.govt.nz](https://teara.govt.nz)
+ - date published: 2023-10-25T20:51:07.098533+00:00
+ - user: None
+ - tags: []
+
+## home
+ - [https://www.tepapa.govt.nz](https://www.tepapa.govt.nz)
+ - date published: 2023-11-13T13:55:09.677844+00:00
+ - user: None
+ - tags: ['museum']
+
+## Cloud Island
+ - [https://cloudisland.nz](https://cloudisland.nz)
+ - date published: 2023-10-25T20:51:13.906554+00:00
+ - user: None
+ - tags: []
+
+## Home » InternetNZ
+ - [https://internetnz.nz](https://internetnz.nz)
+ - date published: 2023-10-25T20:51:16.741237+00:00
+ - user: None
+ - tags: []
+
+## InternetNZ Status
+ - [https://status.internetnz.nz](https://status.internetnz.nz)
+ - date published: 2023-10-25T20:51:22.956753+00:00
+ - user: None
+ - tags: []
+
+## is this it?
+ - [https://isthisit.nz](https://isthisit.nz)
+ - date published: 2023-10-25T20:51:24.181241+00:00
+ - user: None
+ - tags: []
+
+## Jeremy Baker
+ - [https://www.jeremybaker.nz](https://www.jeremybaker.nz)
+ - date published: 2024-02-02T18:14:31.907184+00:00
+ - user: None
+ - tags: []
+
+## Welcome! - Matt Brown
+ - [https://www.mattb.nz](https://www.mattb.nz)
+ - date published: 2023-10-25T20:51:25.148571+00:00
+ - user: None
+ - tags: []
+
+## Tim McNamara (@timClicks)
+ - [https://tim.mcnamara.nz](https://tim.mcnamara.nz)
+ - date published: 2023-10-25T20:51:26.754354+00:00
+ - user: None
+ - tags: []
+
+## MEGA
+ - [https://mega.nz](https://mega.nz)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['file hosting', 'file sharing', 'free cloud storage']
+
+## Constant Meiring
+ - [https://constant.meiring.nz](https://constant.meiring.nz)
+ - date published: 2023-10-25T20:51:27.602839+00:00
+ - user: None
+ - tags: []
+
+## Mobile made for you. One NZ.
+ - [https://one.nz](https://one.nz)
+ - date published: 2023-10-27T12:06:21.792668+00:00
+ - user: None
+ - tags: []
+
+## Scuttlebutt social network: a decentralised platform
+ - [https://scuttlebutt.nz](https://scuttlebutt.nz)
+ - date published: 2024-02-23T19:14:18+00:00
+ - user: None
+ - tags: []
+
+## Serena Chen
+ - [https://serena.nz](https://serena.nz)
+ - date published: 2024-01-11T12:23:11.834075+00:00
+ - user: None
+ - tags: []
+
+## Te Awamutu Space Centre
+ - [https://www.spacecentre.nz](https://www.spacecentre.nz)
+ - date published: 2023-10-25T20:51:43.027687+00:00
+ - user: None
+ - tags: []
+
+## WEBSAM.NZ |
+ - [https://websam.nz](https://websam.nz)
+ - date published: 2024-02-14T08:43:34.578551+00:00
+ - user: None
+ - tags: ['personal']
+
+## Asia Media Centre | Helping New Zealand media cover Asia
+ - [https://www.asiamediacentre.org.nz](https://www.asiamediacentre.org.nz)
+ - date published: 2023-10-25T20:51:53.621097+00:00
+ - user: None
+ - tags: []
+
+## Christ Church Cathedral Rebuild | Reinstatement Project
+ - [https://christchurchcathedral.org.nz](https://christchurchcathedral.org.nz)
+ - date published: 2021-08-20T01:27:26+00:00
+ - user: None
+ - tags: []
+
+## My Playlist
+ - [https://www.circuit.org.nz](https://www.circuit.org.nz)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://www.privacy.org.nz
+ - [https://www.privacy.org.nz](https://www.privacy.org.nz)
+ - date published: 2024-01-09T03:38:02.730564+00:00
+ - user: None
+ - tags: []
+
+## WasteNet Southland
+ - [https://www.wastenet.org.nz](https://www.wastenet.org.nz)
+ - date published: 2024-02-08T17:46:48.890625+00:00
+ - user: None
+ - tags: []
+
+## Ian's blog | entropy.observer
+ - [https://blog.entropy.observer](https://blog.entropy.observer)
+ - date published: 2023-10-25T20:51:56.441202+00:00
+ - user: None
+ - tags: []
+
+## ambiphone. ambient music + sounds for work, study and relaxation.
+ - [https://ambiph.one](https://ambiph.one)
+ - date published: 2024-01-03T18:03:56.464502+00:00
+ - user: None
+ - tags: []
+
+## Deadstar.one
+ - [https://deadstar.one](https://deadstar.one)
+ - date published: 2022-07-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Flipper Blog
  - [https://blog.flipperzero.one](https://blog.flipperzero.one)
  - date published: 2023-10-25T20:51:58.988894+00:00
@@ -479,14 +647,14 @@
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
@@ -1579,14 +1747,14 @@
  - tags: []
 
 ## Archiveteam
- - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
- - date published: 2023-11-25T06:19:37.367056+00:00
+ - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Archiveteam
- - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
+ - date published: 2023-11-25T06:19:37.367056+00:00
  - user: None
  - tags: []
 
@@ -2517,6 +2685,12 @@
 ## BRL-CAD: Open Source Solid Modeling
  - [https://brlcad.org](https://brlcad.org)
  - date published: 2024-01-09T03:38:28.134996+00:00
+ - user: None
+ - tags: []
+
+## Broad Institute
+ - [https://www.broadinstitute.org](https://www.broadinstitute.org)
+ - date published: 2022-01-31T09:46:54+00:00
  - user: None
  - tags: []
 
@@ -5832,180 +6006,6 @@
 ## Forensic Architecture
  - [https://forensic-architecture.org](https://forensic-architecture.org)
  - date published: 2024-01-24T09:11:40.343367+00:00
- - user: None
- - tags: []
-
-## ForgeFed
- - [https://forgefed.org](https://forgefed.org)
- - date published: 2023-10-25T21:21:36.586257+00:00
- - user: None
- - tags: []
-
-## Forgejo – Beyond coding. We forge.
- - [https://forgejo.org](https://forgejo.org)
- - date published: 2023-10-25T21:21:37.400053+00:00
- - user: None
- - tags: []
-
-## Software Forge Performance Index
- - [https://forgeperf.org](https://forgeperf.org)
- - date published: 2023-10-25T21:21:47.839606+00:00
- - user: None
- - tags: []
-
-## Home - Forsyth
- - [https://forsyth.org](https://forsyth.org)
- - date published: 2023-12-04T09:13:10.640249+00:00
- - user: None
- - tags: []
-
-## Forth Interest Group Home Page
- - [http://www.forth.org](http://www.forth.org)
- - date published: 2023-10-25T21:21:50.066557+00:00
- - user: None
- - tags: []
-
-## for Tomorrow | A long-term, multifaceted commitment to building a more sustainable world
- - [https://fortomorrow.org](https://fortomorrow.org)
- - date published: 2023-10-25T21:21:57.633900+00:00
- - user: None
- - tags: []
-
-## The Fortran Programming Language — Fortran Programming Language
- - [https://fortran-lang.org](https://fortran-lang.org)
- - date published: 2023-10-25T21:21:58.660647+00:00
- - user: None
- - tags: []
-
-## FOSDEM24 - Previous FOSDEM Editions
- - [https://archive.fosdem.org](https://archive.fosdem.org)
- - date published: 2023-10-25T21:22:00.131913+00:00
- - user: None
- - tags: []
-
-## FOSDEM24 - Home
- - [https://fosdem.org](https://fosdem.org)
- - date published: 2023-10-25T21:22:01.486923+00:00
- - user: None
- - tags: ['open source', 'community event']
-
-## FOSS and Crafts
- - [https://fossandcrafts.org](https://fossandcrafts.org)
- - date published: 2023-10-25T21:22:03.037482+00:00
- - user: None
- - tags: []
-
-## None
- - [https://fosshost.org](https://fosshost.org)
- - date published: 2024-01-09T03:39:31.584866+00:00
- - user: None
- - tags: []
-
-## Fossify GitHub Page
- - [https://www.fossify.org](https://www.fossify.org)
- - date published: 2024-01-15T18:29:40+00:00
- - user: rumpel
- - tags: []
-
-## Fossil: A Coherent Software Configuration Management System
- - [https://fossil-scm.org](https://fossil-scm.org)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Fossil: Home
- - [https://www.fossil-scm.org](https://www.fossil-scm.org)
- - date published: 2023-10-25T21:22:05.638420+00:00
- - user: None
- - tags: []
-
-## | FOSSlife
- - [https://www.fosslife.org](https://www.fosslife.org)
- - date published: 2024-01-09T03:39:33.696357+00:00
- - user: None
- - tags: []
-
-## Fosstodon
- - [https://fosstodon.org](https://fosstodon.org)
- - date published: 2023-10-24T20:13:36.118898+00:00
- - user: None
- - tags: ['mastodon', 'open source']
-
-## Fosstodon Hub
- - [https://hub.fosstodon.org](https://hub.fosstodon.org)
- - date published: 2023-10-25T21:22:06.810545+00:00
- - user: None
- - tags: ['mastodon']
-
-## Ellenberger Architecture | Architectural practice in the California Bay Area, with experience in commercial, civic, healthcare, education, and residential projects.
- - [https://www.fotuva.org](https://www.fotuva.org)
- - date published: 2024-01-09T03:39:38.501537+00:00
- - user: None
- - tags: []
-
-## FoundSF
- - [https://www.foundsf.org](https://www.foundsf.org)
- - date published: 2023-10-25T21:22:16.106715+00:00
- - user: None
- - tags: []
-
-## The History of FoxPro
- - [http://www.foxprohistory.org](http://www.foxprohistory.org)
- - date published: 2023-10-25T21:22:16.878309+00:00
- - user: None
- - tags: []
-
-## Foreign Policy Research Institute - International Policy Think Tank
- - [https://www.fpri.org](https://www.fpri.org)
- - date published: 2024-02-24T18:07:47.400683+00:00
- - user: None
- - tags: []
-
-## Framablog – La route est longue mais la voie est libre…
- - [https://framablog.org](https://framablog.org)
- - date published: 2023-10-25T21:22:21.674069+00:00
- - user: None
- - tags: []
-
-## Franck Goddio: Homepage
- - [https://www.franckgoddio.org](https://www.franckgoddio.org)
- - date published: 2023-10-25T21:22:23.863582+00:00
- - user: None
- - tags: []
-
-## Fraser Institute
- - [https://fraserinstitute.org](https://fraserinstitute.org)
- - date published: 2023-10-25T21:22:27.402641+00:00
- - user: None
- - tags: []
-
-## Federal Reserve Bank of San Francisco
- - [https://www.frbsf.org](https://www.frbsf.org)
- - date published: 2024-01-17T15:40:24.538988+00:00
- - user: None
- - tags: []
-
-## FreeBSD Git repositories
- - [https://cgit.freebsd.org](https://cgit.freebsd.org)
- - date published: 2023-10-25T21:22:28.105203+00:00
- - user: None
- - tags: []
-
-## https://docs.freebsd.org/en/
- - [https://docs.freebsd.org](https://docs.freebsd.org)
- - date published: 2023-10-25T21:22:28.573567+00:00
- - user: None
- - tags: []
-
-## FreeBSD Mailing lists
- - [https://lists.freebsd.org](https://lists.freebsd.org)
- - date published: 2023-10-25T21:22:31.820209+00:00
- - user: None
- - tags: []
-
-## Welcome to the FreeBSD mailing list archive
- - [https://mail-archive.freebsd.org](https://mail-archive.freebsd.org)
- - date published: 2024-01-21T19:44:58.536359+00:00
  - user: None
  - tags: []
 

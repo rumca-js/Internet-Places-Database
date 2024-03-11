@@ -1877,14 +1877,14 @@
  - tags: []
 
 ## * arachnoid.com
- - [https://arachnoid.com](https://arachnoid.com)
- - date published: 2023-10-25T12:43:42.377144+00:00
+ - [http://arachnoid.com](http://arachnoid.com)
+ - date published: 2006-10-19T00:00:00+00:00
  - user: None
  - tags: []
 
 ## * arachnoid.com
- - [http://arachnoid.com](http://arachnoid.com)
- - date published: 2006-10-19T00:00:00+00:00
+ - [https://arachnoid.com](https://arachnoid.com)
+ - date published: 2023-10-25T12:43:42.377144+00:00
  - user: None
  - tags: []
 
@@ -2167,6 +2167,12 @@
 ## Domain error
  - [https://www.arjmahadevan.com](https://www.arjmahadevan.com)
  - date published: 2024-01-12T02:35:16.551632+00:00
+ - user: None
+ - tags: []
+
+## Arkadiy Tetelman | A security blog
+ - [https://arkadiyt.com](https://arkadiyt.com)
+ - date published: 2024-03-10T01:12:05.593485+00:00
  - user: None
  - tags: []
 
@@ -5991,10 +5997,4 @@
  - date published: 2023-10-25T09:08:53.609378+00:00
  - user: None
  - tags: ['personal']
-
-## Nie znaleziono bloga
- - [https://heyjudyitsnoonsomewhere.blogspot.com](https://heyjudyitsnoonsomewhere.blogspot.com)
- - date published: 2024-02-08T22:25:30.501122+00:00
- - user: None
- - tags: []
 

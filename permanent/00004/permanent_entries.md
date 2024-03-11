@@ -1,3 +1,15 @@
+## Corey's Digs Investigative Journalism: Reporting Truth
+ - [https://www.coreysdigs.com](https://www.coreysdigs.com)
+ - date published: 2023-10-25T13:33:56.670950+00:00
+ - user: None
+ - tags: []
+
+## CORGI ORGY
+ - [https://corgiorgy.com](https://corgiorgy.com)
+ - date published: 2023-10-27T11:05:03.317068+00:00
+ - user: None
+ - tags: ['wtf']
+
 ## Corina Burri.
  - [https://corinaburri.com](https://corinaburri.com)
  - date published: 2023-12-14T00:00:00+00:00
@@ -3401,6 +3413,12 @@
  - user: None
  - tags: ['entertainment news']
 
+## Show HN: Digital Superpowers, a free book highlighting various FOSS tools
+ - [https://digitalsuperpowers.com](https://digitalsuperpowers.com)
+ - date published: 2024-03-09T18:16:18+00:00
+ - user: None
+ - tags: []
+
 ## Digital Trends | Tech News, Reviews, Deals, and How-To's
  - [https://www.digitaltrends.com](https://www.digitaltrends.com)
  - date published: 2024-02-06T13:44:04.524126+00:00
@@ -4393,14 +4411,14 @@
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [http://drinkag1.com](http://drinkag1.com)
- - date published: 2024-01-21T19:15:07.982155+00:00
+ - [https://drinkag1.com](https://drinkag1.com)
+ - date published: 2024-02-24T09:55:07.922857+00:00
  - user: None
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [https://drinkag1.com](https://drinkag1.com)
- - date published: 2024-02-24T09:55:07.922857+00:00
+ - [http://drinkag1.com](http://drinkag1.com)
+ - date published: 2024-01-21T19:15:07.982155+00:00
  - user: None
  - tags: []
 
@@ -5981,22 +5999,4 @@
  - date published: 2023-12-29T03:12:29.220958+00:00
  - user: None
  - tags: ['personal']
-
-## The Endless Doomscroller
- - [https://endlessdoomscroller.com](https://endlessdoomscroller.com)
- - date published: 2023-10-25T14:07:05.150878+00:00
- - user: None
- - tags: []
-
-## Endpoints News – Biotech, drug, pharma and health news for business and professional readers
- - [https://endpts.com](https://endpts.com)
- - date published: 2023-10-25T10:45:49.631839+00:00
- - user: None
- - tags: []
-
-## Portal o energetyce | Energetyka24
- - [https://energetyka24.com](https://energetyka24.com)
- - date published: 2023-10-25T14:07:11.459555+00:00
- - user: None
- - tags: []
 
