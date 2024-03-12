@@ -682,6 +682,12 @@
  - user: None
  - tags: []
 
+## Extropic | A new paradigm for computing
+ - [https://www.extropic.ai](https://www.extropic.ai)
+ - date published: 2024-03-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Factiverse AI Editor
  - [https://editor.factiverse.ai](https://editor.factiverse.ai)
  - date published: 2023-10-25T11:38:29.189794+00:00
@@ -3145,6 +3151,12 @@
 ## Asia Public Holidays - PublicHolidays.asia
  - [https://publicholidays.asia](https://publicholidays.asia)
  - date published: 2023-12-06T12:19:57.859246+00:00
+ - user: None
+ - tags: []
+
+## Home | MedUni Wien
+ - [https://www.meduniwien.ac.at](https://www.meduniwien.ac.at)
+ - date published: 2024-03-11T10:36:49.879554+00:00
  - user: None
  - tags: []
 
@@ -5984,18 +5996,6 @@
 ## renegat0x0 site
  - [https://adservice.google.ca](https://adservice.google.ca)
  - date published: 2024-01-09T02:27:16.799302+00:00
- - user: None
- - tags: []
-
-## GotW.ca Home Page
- - [http://www.gotw.ca](http://www.gotw.ca)
- - date published: 2023-10-25T08:42:56.028814+00:00
- - user: None
- - tags: ['personal']
-
-## cat /dev/brain
- - [https://www.gybe.ca](https://www.gybe.ca)
- - date published: 2023-12-04T09:28:03.340314+00:00
  - user: None
  - tags: []
 

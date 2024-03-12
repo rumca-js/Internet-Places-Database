@@ -1,3 +1,244 @@
+## Universitetet i Bergen
+ - [https://www.uib.no](https://www.uib.no)
+ - date published: 2023-11-19T10:39:06.443673+00:00
+ - user: None
+ - tags: []
+
+## ulriken.no
+ - [https://www.ulriken.no](https://www.ulriken.no)
+ - date published: 2024-02-08T16:46:41.150976+00:00
+ - user: None
+ - tags: []
+
+## DINESHDB
+ - [https://dbhattarai.info.np](https://dbhattarai.info.np)
+ - date published: 2023-12-26T06:31:54.283704+00:00
+ - user: None
+ - tags: ['personal']
+
+## Henrik Svensson – production designer – Henrik Svensson – production designer
+ - [https://www.henriksvensson.nu](https://www.henriksvensson.nu)
+ - date published: 2023-12-23T03:00:13.904277+00:00
+ - user: None
+ - tags: ['personal']
+
+## Manu Cornet's website
+ - [https://ma.nu](https://ma.nu)
+ - date published: 2023-10-25T20:48:57.839136+00:00
+ - user: None
+ - tags: []
+
+## Start
+ - [https://www.malarna.nu](https://www.malarna.nu)
+ - date published: 2023-11-10T14:03:58.337435+00:00
+ - user: None
+ - tags: []
+
+## Marginalia Downloads
+ - [https://downloads.marginalia.nu](https://downloads.marginalia.nu)
+ - date published: 2023-10-25T08:29:33.050968+00:00
+ - user: None
+ - tags: []
+
+## Marginalia Similar Website Finder
+ - [https://explore2.marginalia.nu](https://explore2.marginalia.nu)
+ - date published: 2023-12-03T08:39:07+00:00
+ - user: rumpel
+ - tags: ['seo', 'algorithms']
+
+## www.marginalia.nu @
+marginalia.nu
+ - [https://memex.marginalia.nu](https://memex.marginalia.nu)
+ - date published: 2023-10-25T20:48:59.430464+00:00
+ - user: None
+ - tags: []
+
+## Marginalia Search
+ - [https://search.marginalia.nu](https://search.marginalia.nu)
+ - date published: 2023-10-25T13:51:19.392203+00:00
+ - user: None
+ - tags: ['search engine', 'personal sites source']
+
+## www.marginalia.nu
+ - [https://www.marginalia.nu](https://www.marginalia.nu)
+ - date published: 2023-10-25T08:29:34.569325+00:00
+ - user: None
+ - tags: ['search engine']
+
+## QuakeWorld.nu
+ - [https://www.quakeworld.nu](https://www.quakeworld.nu)
+ - date published: 2023-10-28T20:28:45.927247+00:00
+ - user: None
+ - tags: []
+
+## Shantnu's Silent Site
+ - [https://shant.nu](https://shant.nu)
+ - date published: 2023-10-25T20:49:02.194922+00:00
+ - user: None
+ - tags: []
+
+## The Voynich Manuscript
+ - [https://voynich.nu](https://voynich.nu)
+ - date published: 2023-11-15T17:43:27.049719+00:00
+ - user: None
+ - tags: ['personal']
+
+## Kwon.nyc
+ - [https://kwon.nyc](https://kwon.nyc)
+ - date published: 2023-12-03T23:30:52.823072+00:00
+ - user: None
+ - tags: ['personal']
+
+## projects.kwon.nyc
+ - [https://projects.kwon.nyc](https://projects.kwon.nyc)
+ - date published: 2024-02-12T15:27:28.692313+00:00
+ - user: None
+ - tags: []
+
+## Lily Ray: NYC Based SEO Professional, DJ, & Drummer 😏
+ - [https://lilyray.nyc](https://lilyray.nyc)
+ - date published: 2023-11-02T09:00:26.721068+00:00
+ - user: None
+ - tags: ['seo']
+
+## THE CITY - NYC News
+ - [https://www.thecity.nyc](https://www.thecity.nyc)
+ - date published: 2023-10-25T20:49:08.995182+00:00
+ - user: None
+ - tags: []
+
+## Welcome - The University of Auckland
+ - [https://www.auckland.ac.nz](https://www.auckland.ac.nz)
+ - date published: 2023-10-30T07:13:26.243060+00:00
+ - user: None
+ - tags: []
+
+## University of Otago
+ - [https://www.otago.ac.nz](https://www.otago.ac.nz)
+ - date published: 2023-10-30T21:58:29.556224+00:00
+ - user: None
+ - tags: []
+
+## Alpha Rail - Rail Design, Consultancy, Construction and Plant
+ - [https://www.alpharail.co.nz](https://www.alpharail.co.nz)
+ - date published: 2023-10-25T20:49:14.642345+00:00
+ - user: None
+ - tags: []
+
+## Belmont Ammunition | Belmont Ammunition
+ - [https://belmontammo.co.nz](https://belmontammo.co.nz)
+ - date published: 2024-02-25T15:15:41.377210+00:00
+ - user: None
+ - tags: []
+
+## Unofficial CD32 Ports
+ - [https://unofficial-cd32-ports.blogspot.co.nz](https://unofficial-cd32-ports.blogspot.co.nz)
+ - date published: 2023-11-02T09:51:01.000200+00:00
+ - user: None
+ - tags: ['amiga']
+
+## New Cars and SUVs and Servicing | Automotive |  Citroën NZ
+ - [https://www.citroen.co.nz](https://www.citroen.co.nz)
+ - date published: 2023-12-11T16:00:33.638425+00:00
+ - user: None
+ - tags: []
+
+## New Zealand Cyber Security Blog | CyberCX
+ - [https://blog.cybercx.co.nz](https://blog.cybercx.co.nz)
+ - date published: 2023-10-25T20:49:21.245581+00:00
+ - user: None
+ - tags: []
+
+## Discombobulated
+ - [https://discombobulated.co.nz](https://discombobulated.co.nz)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Google
+ - [https://www.google.co.nz](https://www.google.co.nz)
+ - date published: 2023-10-25T20:49:22.482071+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://menuaid.co.nz](https://menuaid.co.nz)
+ - date published: 2024-02-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Niche Software - Niche Software
+ - [https://www.nichesoftware.co.nz](https://www.nichesoftware.co.nz)
+ - date published: 2023-10-25T20:49:26.344940+00:00
+ - user: None
+ - tags: []
+
+## NZ Herald: Latest NZ news, plus World, Sport, Business and more - NZ Herald
+ - [https://www.nzherald.co.nz](https://www.nzherald.co.nz)
+ - date published: 2023-10-25T20:50:14.328097+00:00
+ - user: None
+ - tags: []
+
+## Open to Grow
+ - [https://opentogrow.co.nz](https://opentogrow.co.nz)
+ - date published: 2024-01-01T03:40:17.027386+00:00
+ - user: None
+ - tags: ['personal']
+
+## Pulse Security
+ - [https://pulsesecurity.co.nz](https://pulsesecurity.co.nz)
+ - date published: 2023-10-25T20:50:15.343196+00:00
+ - user: None
+ - tags: []
+
+## Reseller News - The voice of the New Zealand IT channel
+ - [https://www.reseller.co.nz](https://www.reseller.co.nz)
+ - date published: 2023-10-25T20:50:24.511375+00:00
+ - user: None
+ - tags: []
+
+## RNZ - NZ News, Current Affairs, Audio On Demand
+ - [https://www.rnz.co.nz](https://www.rnz.co.nz)
+ - date published: 2023-10-25T20:50:30.480752+00:00
+ - user: None
+ - tags: []
+
+## Shop New Zealand
+ - [https://www.shopnewzealand.co.nz](https://www.shopnewzealand.co.nz)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## NZ's Best Small Business Email Marketing Experts
+ - [https://spike.co.nz](https://spike.co.nz)
+ - date published: 2024-01-05T16:45:11.951213+00:00
+ - user: None
+ - tags: []
+
+## Latest breaking news NZ | Stuff.co.nz | New Zealand
+ - [https://www.stuff.co.nz](https://www.stuff.co.nz)
+ - date published: 2023-10-25T20:50:45.473515+00:00
+ - user: None
+ - tags: []
+
+## The Daily Examiner
+ - [https://www.thedailyexaminer.co.nz](https://www.thedailyexaminer.co.nz)
+ - date published: 2024-01-06T21:17:49.898981+00:00
+ - user: None
+ - tags: []
+
+## The Post
+ - [https://www.thepost.co.nz](https://www.thepost.co.nz)
+ - date published: 2023-11-27T08:54:31.962811+00:00
+ - user: None
+ - tags: []
+
+## Tidy Life Solutions: Home Organising and Decluttering Service Wellington
+ - [https://www.tidylifesolutions.co.nz](https://www.tidylifesolutions.co.nz)
+ - date published: 2024-01-11T17:08:10.216210+00:00
+ - user: None
+ - tags: []
+
 ## Maori Geek
  - [https://maori.geek.nz](https://maori.geek.nz)
  - date published: 2023-10-25T20:50:54.301684+00:00
@@ -647,14 +888,14 @@
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -961,6 +1202,12 @@
 ## Alexandru Nedelcu - On programming and personal projects
  - [https://alexn.org](https://alexn.org)
  - date published: 2023-10-25T20:55:32.922079+00:00
+ - user: None
+ - tags: []
+
+## Home - Alfie Kohn
+ - [https://www.alfiekohn.org](https://www.alfiekohn.org)
+ - date published: 2024-03-04T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1636,17 +1883,17 @@
  - user: None
  - tags: []
 
-## Internet Archive: Secret service
- - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
- - date published: 2023-10-27T14:37:50+00:00
- - user: rumpel
- - tags: ['retro', 'magazine']
-
 ## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
  - [https://archive.org](https://archive.org)
  - date published: 2023-10-25T09:29:04.093943+00:00
  - user: None
  - tags: ['internet archive']
+
+## Internet Archive: Secret service
+ - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
+ - date published: 2023-10-27T14:37:50+00:00
+ - user: rumpel
+ - tags: ['retro', 'magazine']
 
 ## Internet Archive Blogs | A blog from the team at archive.org
  - [https://blog.archive.org](https://blog.archive.org)
@@ -2280,6 +2527,12 @@
  - user: None
  - tags: []
 
+## Biblical Archaeology Society
+ - [https://www.biblicalarchaeology.org](https://www.biblicalarchaeology.org)
+ - date published: 2024-03-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## https://mark.biek.org
  - [https://mark.biek.org](https://mark.biek.org)
  - date published: 2024-01-04T01:13:10.818210+00:00
@@ -2705,6 +2958,12 @@
  - date published: 2024-02-06T12:49:58+00:00
  - user: rumpel
  - tags: ['web browser']
+
+## BrowserBench.org — Browser Benchmarks
+ - [https://browserbench.org](https://browserbench.org)
+ - date published: 2024-03-11T20:57:26.780119+00:00
+ - user: None
+ - tags: []
 
 ## Bruegel
  - [https://www.bruegel.org](https://www.bruegel.org)
@@ -3641,6 +3900,12 @@
 ## Commonweal Magazine | Religion, Politics, Culture
  - [https://www.commonwealmagazine.org](https://www.commonwealmagazine.org)
  - date published: 2023-10-25T21:08:58.637923+00:00
+ - user: None
+ - tags: []
+
+## COMMUNIA Association
+ - [https://communia-association.org](https://communia-association.org)
+ - date published: 2024-03-11T20:55:22.730086+00:00
  - user: None
  - tags: []
 
@@ -5742,270 +6007,6 @@
 ## Feet First Philly
  - [https://feetfirstphilly.org](https://feetfirstphilly.org)
  - date published: 2024-02-08T16:50:23.733268+00:00
- - user: None
- - tags: []
-
-## Fe - A next generation, statically typed, future-proof smart contract language for the Ethereum Virtual Machine
- - [https://fe-lang.org](https://fe-lang.org)
- - date published: 2023-10-25T21:20:12.316273+00:00
- - user: None
- - tags: []
-
-## feldspaten
- - [https://feldspaten.org](https://feldspaten.org)
- - date published: 2023-10-25T21:20:28.648981+00:00
- - user: None
- - tags: []
-
-## Home of Feross Aboukhadijeh » Feross.org
- - [https://feross.org](https://feross.org)
- - date published: 2023-12-21T18:22:00.287890+00:00
- - user: None
- - tags: ['personal']
-
-## F.F.A.M. – Fire Fighters Association of Missouri
- - [https://www.ffam.org](https://www.ffam.org)
- - date published: 2024-03-06T16:18:52.729627+00:00
- - user: None
- - tags: []
-
-## www.ffept.org / Fédération Francophone pour l'Elevage et la Protection de la Tortue
- - [https://www.ffept.org](https://www.ffept.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## FFII | Foundation for a Free Information Infrastructure information on software patents, enforcement of IP, trade agreements
- - [https://ffii.org](https://ffii.org)
- - date published: 2023-10-25T21:20:31.744673+00:00
- - user: None
- - tags: []
-
-## FFmpeg
- - [https://ffmpeg.org](https://ffmpeg.org)
- - date published: 2023-10-25T21:20:33.094820+00:00
- - user: None
- - tags: []
-
-## FFmpeg
- - [https://www.ffmpeg.org](https://www.ffmpeg.org)
- - date published: 2023-10-25T21:20:34.755297+00:00
- - user: None
- - tags: []
-
-## FIDO Alliance
- - [https://fidoalliance.org](https://fidoalliance.org)
- - date published: 2024-01-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Fifth Estate - Radical publishing since 1965
- - [https://www.fifthestate.org](https://www.fifthestate.org)
- - date published: 2023-10-25T21:20:45.587600+00:00
- - user: None
- - tags: []
-
-## Baraboo WI Lawyers | Sauk County Attorneys Practicing Criminal Defense, Divorce and Family Law, Civil Litigation | Wisconsin Dells Lake Delton Office | Adams, Juneau, and Columbia County, WI | Englund & Associates Law Office LLC
- - [https://www.fiftythree.org](https://www.fiftythree.org)
- - date published: 2024-01-09T03:39:29.033483+00:00
- - user: None
- - tags: []
-
-## Filecoin Foundation
- - [https://fil.org](https://fil.org)
- - date published: 2024-01-16T14:56:41.881668+00:00
- - user: None
- - tags: []
-
-## Tell HN: "Default" FileZilla download bundled with adware
- - [https://filezilla-project.org](https://filezilla-project.org)
- - date published: 2024-03-06T08:53:09+00:00
- - user: None
- - tags: ['ftp']
-
-## Religious Teachers Filippini - Home
- - [https://www.filippiniusa.org](https://www.filippiniusa.org)
- - date published: 2024-02-08T17:06:24.614509+00:00
- - user: None
- - tags: []
-
-## Greatest Films - The Best Movies in Cinematic History
- - [https://www.filmsite.org](https://www.filmsite.org)
- - date published: 2023-10-27T14:19:55.460312+00:00
- - user: None
- - tags: ['movies']
-
-## Filmulator
- - [https://filmulator.org](https://filmulator.org)
- - date published: 2023-10-25T21:20:50.979098+00:00
- - user: None
- - tags: []
-
-## Filter - Harm reduction journalism from a dedicated nonprofit
- - [https://filtermag.org](https://filtermag.org)
- - date published: 2023-10-25T21:20:54.669237+00:00
- - user: None
- - tags: []
-
-## Perspective | Perspective
- - [https://perspective.finos.org](https://perspective.finos.org)
- - date published: 2023-10-25T21:20:56.182673+00:00
- - user: None
- - tags: []
-
-## Firefly III: A free and open source personal finance manager
- - [https://www.firefly-iii.org](https://www.firefly-iii.org)
- - date published: 2024-02-16T02:34:03+00:00
- - user: None
- - tags: []
-
-## FIRST - Improving Security Together
- - [https://www.first.org](https://www.first.org)
- - date published: 2024-02-28T11:30:22+00:00
- - user: rumpel
- - tags: ['cybersecurity']
-
-## First Monday
- - [https://firstmonday.org](https://firstmonday.org)
- - date published: 2023-10-25T10:40:03.231308+00:00
- - user: None
- - tags: []
-
-## Home - First Street Foundation
- - [https://firststreet.org](https://firststreet.org)
- - date published: 2023-10-25T21:21:02.002987+00:00
- - user: None
- - tags: []
-
-## www.fitzsim.org - Home
- - [https://www.fitzsim.org](https://www.fitzsim.org)
- - date published: 2023-10-25T21:21:04.082460+00:00
- - user: None
- - tags: []
-
-## FixScript
- - [https://www.fixscript.org](https://www.fixscript.org)
- - date published: 2024-01-09T03:39:30.640174+00:00
- - user: None
- - tags: []
-
-## FlashMuseum - Flash Games & Animations
- - [https://flashmuseum.org](https://flashmuseum.org)
- - date published: 2023-10-25T21:21:09.908752+00:00
- - user: None
- - tags: []
-
-## Flashpoint Archive
- - [https://flashpointarchive.org](https://flashpointarchive.org)
- - date published: 2024-01-25T08:02:38+00:00
- - user: rumpel
- - tags: ['flash animations', 'internet archive', 'flash games']
-
-## Flatcar Container Linux | Flatcar Container Linux
- - [https://www.flatcar.org](https://www.flatcar.org)
- - date published: 2023-10-25T21:21:16.338373+00:00
- - user: None
- - tags: []
-
-## Welcome | Flathub Documentation
- - [https://docs.flathub.org](https://docs.flathub.org)
- - date published: 2024-01-19T09:58:43+00:00
- - user: None
- - tags: []
-
-## Home | Flathub
- - [https://flathub.org](https://flathub.org)
- - date published: 2023-10-24T20:10:54.843465+00:00
- - user: None
- - tags: ['app store']
-
-## Florida Center for Government Accountability (FLCGA)
- - [https://flcga.org](https://flcga.org)
- - date published: 2023-12-23T15:54:53.009825+00:00
- - user: None
- - tags: []
-
-## François Fleuret's Homepage
- - [https://fleuret.org](https://fleuret.org)
- - date published: 2023-10-25T21:21:18.004916+00:00
- - user: None
- - tags: []
-
-## Home - Flickr Foundation
- - [https://www.flickr.org](https://www.flickr.org)
- - date published: 2023-10-25T21:21:20.421034+00:00
- - user: None
- - tags: []
-
-## floverfelt.org | Thoughts, notes, etc.
- - [https://floverfelt.org](https://floverfelt.org)
- - date published: 2023-10-25T21:21:21.603835+00:00
- - user: None
- - tags: []
-
-## Flow – The officially worst software development methodology in history
- - [https://flowmanifest.org](https://flowmanifest.org)
- - date published: 2023-10-25T21:21:23.100842+00:00
- - user: None
- - tags: []
-
-## Fluoride Action Network
- - [https://fluoridealert.org](https://fluoridealert.org)
- - date published: 2023-12-21T05:55:08.977188+00:00
- - user: None
- - tags: []
-
-## Fluxus Portal
- - [https://fluxus.org](https://fluxus.org)
- - date published: 2023-10-25T21:21:25.292968+00:00
- - user: None
- - tags: []
-
-## Build production-grade data and ML workflows, hassle-free with Flyte
- - [https://flyte.org](https://flyte.org)
- - date published: 2023-10-25T21:21:33.769405+00:00
- - user: None
- - tags: []
-
-## Evan Hanson
- - [https://www.foldling.org](https://www.foldling.org)
- - date published: 2024-02-08T22:09:37.077953+00:00
- - user: None
- - tags: []
-
-## https://folklore.org
- - [https://folklore.org](https://folklore.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Folklore.org: The Original Macintosh
- - [https://www.folklore.org](https://www.folklore.org)
- - date published: 2023-10-25T21:21:35.138546+00:00
- - user: None
- - tags: []
-
-## None
- - [http://www.folklore.org](http://www.folklore.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## FontForge
- - [https://fontforge.org](https://fontforge.org)
- - date published: 2023-11-26T20:46:23+00:00
- - user: None
- - tags: []
-
-## foobar2000
- - [https://www.foobar2000.org](https://www.foobar2000.org)
- - date published: 2023-11-01T08:41:06.699661+00:00
- - user: None
- - tags: ['program']
-
-## Forensic Architecture
- - [https://forensic-architecture.org](https://forensic-architecture.org)
- - date published: 2024-01-24T09:11:40.343367+00:00
  - user: None
  - tags: []
 

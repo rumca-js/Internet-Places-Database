@@ -1,3 +1,33 @@
+## Alin Panaitiu - Personal website
+ - [https://alinpanaitiu.com](https://alinpanaitiu.com)
+ - date published: 2023-10-25T12:38:29.860110+00:00
+ - user: None
+ - tags: []
+
+## Notes and ramblings — Alin Panaitiu
+ - [https://notes.alinpanaitiu.com](https://notes.alinpanaitiu.com)
+ - date published: 2023-10-25T12:38:38.027163+00:00
+ - user: None
+ - tags: []
+
+## Ali Reza Hayati
+ - [https://alirezahayati.com](https://alirezahayati.com)
+ - date published: 2024-01-12T18:46:45.669130+00:00
+ - user: None
+ - tags: []
+
+## https://www.alisonbergblomjohnson.com
+ - [https://www.alisonbergblomjohnson.com](https://www.alisonbergblomjohnson.com)
+ - date published: 2023-11-29T17:13:35.055912+00:00
+ - user: None
+ - tags: ['personal']
+
+## A List Apart – For people who make websites
+ - [https://alistapart.com](https://alistapart.com)
+ - date published: 2023-10-25T12:38:39.923436+00:00
+ - user: None
+ - tags: []
+
 ## A Little Adrift — 10+ Years of Stories From Around the World
  - [https://alittleadrift.com](https://alittleadrift.com)
  - date published: 2023-12-24T08:15:27.031098+00:00
@@ -593,14 +623,14 @@
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
- - date published: 2018-01-01T00:00:00+00:00
+ - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
+ - date published: 2024-01-09T02:29:24.245847+00:00
  - user: None
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
- - date published: 2024-01-09T02:29:24.245847+00:00
+ - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
+ - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4432,6 +4462,12 @@
  - user: None
  - tags: []
 
+## blog.benwinding
+ - [https://blog.benwinding.com](https://blog.benwinding.com)
+ - date published: 2024-03-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## None
  - [http://feeds.benzinga.com](http://feeds.benzinga.com)
  - date published: 2024-02-25T15:16:37.815823+00:00
@@ -5908,6 +5944,12 @@
  - user: None
  - tags: ['personal']
 
+## Everquest Daily Grind: MMORPG Infinity (no beyond)
+ - [https://eqdailygrind.blogspot.com](https://eqdailygrind.blogspot.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## ever green knits
  - [https://evergreenknits.blogspot.com](https://evergreenknits.blogspot.com)
  - date published: 2024-02-08T17:48:05.113512+00:00
@@ -5955,46 +5997,4 @@
  - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
-
-## Project Zero
- - [https://googleprojectzero.blogspot.com](https://googleprojectzero.blogspot.com)
- - date published: 2023-10-25T09:08:43.856862+00:00
- - user: None
- - tags: ['personal']
-
-## do not look into laser with remaining eye
- - [https://graphthinking.blogspot.com](https://graphthinking.blogspot.com)
- - date published: 2023-12-18T06:08:16.757554+00:00
- - user: None
- - tags: []
-
-## GROGNARDIA
- - [https://grognardia.blogspot.com](https://grognardia.blogspot.com)
- - date published: 2024-01-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## HaggardHawks
- - [https://haggardhawksblog.blogspot.com](https://haggardhawksblog.blogspot.com)
- - date published: 2023-10-25T09:08:48.506429+00:00
- - user: None
- - tags: ['personal']
-
-## Harman How to Listen
- - [https://harmanhowtolisten.blogspot.com](https://harmanhowtolisten.blogspot.com)
- - date published: 2023-10-25T09:08:50.306562+00:00
- - user: None
- - tags: ['personal']
-
-## Bits and Pieces
- - [https://harry-lewis.blogspot.com](https://harry-lewis.blogspot.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Heron's Perch
- - [https://heronsperch.blogspot.com](https://heronsperch.blogspot.com)
- - date published: 2023-10-25T09:08:53.609378+00:00
- - user: None
- - tags: ['personal']
 

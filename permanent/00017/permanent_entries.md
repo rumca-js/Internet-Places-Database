@@ -1,3 +1,215 @@
+## U.S. Food and Drug Administration
+ - [https://www.fda.gov](https://www.fda.gov)
+ - date published: 2023-10-25T19:21:05.422596+00:00
+ - user: None
+ - tags: []
+
+## FDIC: Federal Deposit Insurance Corporation
+ - [https://www.fdic.gov](https://www.fdic.gov)
+ - date published: 2023-10-25T19:21:19.392966+00:00
+ - user: None
+ - tags: []
+
+## Federal Register
+       :: 
+      Home - Wednesday, October 25th
+ - [https://www.federalregister.gov](https://www.federalregister.gov)
+ - date published: 2023-10-25T19:21:22.351422+00:00
+ - user: None
+ - tags: ['federal documents']
+
+## Federal Reserve Board - Home
+ - [https://www.federalreserve.gov](https://www.federalreserve.gov)
+ - date published: 2023-10-25T19:21:25.826382+00:00
+ - user: None
+ - tags: []
+
+## FEMA.gov
+ - [https://www.fema.gov](https://www.fema.gov)
+ - date published: 2023-10-25T19:21:33.460504+00:00
+ - user: None
+ - tags: []
+
+## United States Department of the Treasury Financial Crimes Enforcement Network | FinCEN.gov
+ - [https://www.fincen.gov](https://www.fincen.gov)
+ - date published: 2023-10-25T19:21:37.717717+00:00
+ - user: None
+ - tags: []
+
+## Florida Department of Health
+ - [https://www.floridahealth.gov](https://www.floridahealth.gov)
+ - date published: 2023-10-25T19:21:43.397423+00:00
+ - user: None
+ - tags: []
+
+## Newsroom
+ - [https://news.fnal.gov](https://news.fnal.gov)
+ - date published: 2023-10-25T19:21:48.635515+00:00
+ - user: None
+ - tags: []
+
+## FOIAonline :: Decommissioned
+ - [https://foiaonline.gov](https://foiaonline.gov)
+ - date published: 2023-10-25T19:21:50.776367+00:00
+ - user: None
+ - tags: []
+
+## Federal Trade Commission | Protecting America's Consumers
+ - [https://www.ftc.gov](https://www.ftc.gov)
+ - date published: 2023-10-25T19:21:54.571295+00:00
+ - user: None
+ - tags: []
+
+## U.S. Government Accountability Office (U.S. GAO)
+ - [https://www.gao.gov](https://www.gao.gov)
+ - date published: 2023-11-27T15:17:10+00:00
+ - user: rumpel
+ - tags: []
+
+## GPS: The Global Positioning System
+ - [https://www.gps.gov](https://www.gps.gov)
+ - date published: 2023-10-25T19:21:57.216221+00:00
+ - user: None
+ - tags: []
+
+## Real Property Disposition
+ - [https://disposal.gsa.gov](https://disposal.gsa.gov)
+ - date published: 2023-10-25T19:22:04.790414+00:00
+ - user: None
+ - tags: []
+
+## Home | GSA
+ - [https://www.gsa.gov](https://www.gsa.gov)
+ - date published: 2023-10-25T19:22:12.181356+00:00
+ - user: None
+ - tags: []
+
+## ASPR | Homepage
+ - [https://aspr.hhs.gov](https://aspr.hhs.gov)
+ - date published: 2023-10-25T19:22:17.545788+00:00
+ - user: None
+ - tags: []
+
+## HIV and AIDS Resources | HIV.gov
+ - [https://www.hiv.gov](https://www.hiv.gov)
+ - date published: 2023-10-25T19:22:20.398924+00:00
+ - user: None
+ - tags: []
+
+## House Judiciary Committee Republicans |
+ - [https://judiciary.house.gov](https://judiciary.house.gov)
+ - date published: 2023-10-25T19:22:23.234554+00:00
+ - user: None
+ - tags: []
+
+## Congressman Ro Khanna |
+ - [https://khanna.house.gov](https://khanna.house.gov)
+ - date published: 2023-10-25T19:22:25.514559+00:00
+ - user: None
+ - tags: []
+
+## House Committee on Oversight and Reform
+ - [https://oversightdemocrats.house.gov](https://oversightdemocrats.house.gov)
+ - date published: 2023-11-28T18:21:20.465630+00:00
+ - user: None
+ - tags: []
+
+## United States House Committee on Oversight and Accountability -
+ - [https://oversight.house.gov](https://oversight.house.gov)
+ - date published: 2023-10-25T19:22:27.238039+00:00
+ - user: None
+ - tags: []
+
+## House of Representatives Committee on Rules
+ - [https://rules.house.gov](https://rules.house.gov)
+ - date published: 2023-11-14T19:59:35.907324+00:00
+ - user: None
+ - tags: []
+
+## Select Committee on the CCP
+ - [https://selectcommitteeontheccp.house.gov](https://selectcommitteeontheccp.house.gov)
+ - date published: 2023-11-27T12:22:06+00:00
+ - user: rumpel
+ - tags: ['america', 'china']
+
+## Internet Crime Complaint Center(IC3) | Home Page
+ - [https://www.ic3.gov](https://www.ic3.gov)
+ - date published: 2023-10-25T11:20:35.175486+00:00
+ - user: None
+ - tags: ['internet crime complaint', 'fbi']
+
+## None
+ - [https://ilga.gov](https://ilga.gov)
+ - date published: 2024-01-09T03:30:40.556731+00:00
+ - user: None
+ - tags: []
+
+## Attention Required! | Cloudflare
+ - [https://events.in.gov](https://events.in.gov)
+ - date published: 2023-10-25T19:22:27.576944+00:00
+ - user: None
+ - tags: []
+
+## Internal Revenue Service | An official website of the United States government
+ - [https://www.irs.gov](https://www.irs.gov)
+ - date published: 2023-10-25T19:22:30.651654+00:00
+ - user: None
+ - tags: []
+
+## ERROR: The request could not be satisfied
+ - [https://www.jobcorps.gov](https://www.jobcorps.gov)
+ - date published: 2023-10-25T19:22:31.466539+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://oig.justice.gov](https://oig.justice.gov)
+ - date published: 2024-01-09T03:30:58.690663+00:00
+ - user: None
+ - tags: []
+
+## Department of Justice |  Homepage | United States Department of Justice
+ - [https://www.justice.gov](https://www.justice.gov)
+ - date published: 2023-10-25T19:22:33.543403+00:00
+ - user: None
+ - tags: []
+
+## Kansas Department of Commerce
+ - [https://www.kansascommerce.gov](https://www.kansascommerce.gov)
+ - date published: 2023-10-25T19:22:38.214597+00:00
+ - user: None
+ - tags: []
+
+## Los Angeles County District Attorney's Office
+ - [https://da.lacounty.gov](https://da.lacounty.gov)
+ - date published: 2023-10-25T19:22:42.028055+00:00
+ - user: None
+ - tags: []
+
+## Home Page
+ - [https://locator.lacounty.gov](https://locator.lacounty.gov)
+ - date published: 2024-02-08T22:53:06.181643+00:00
+ - user: None
+ - tags: []
+
+## LANL Research Library
+ - [https://lib-www.lanl.gov](https://lib-www.lanl.gov)
+ - date published: 2023-10-25T19:22:43.331654+00:00
+ - user: None
+ - tags: []
+
+## Off-Site Source Recovery Program (OSRP) | Sealed Sources Recovery | Los Alamos National Lab |
+ - [https://osrp.lanl.gov](https://osrp.lanl.gov)
+ - date published: 2023-10-25T19:22:45.215778+00:00
+ - user: None
+ - tags: []
+
+## ALS - Advanced Light Source
+ - [https://als.lbl.gov](https://als.lbl.gov)
+ - date published: 2023-10-25T19:22:49.152965+00:00
+ - user: None
+ - tags: []
+
 ## Home – Berkeley Lab News Center
  - [https://newscenter.lbl.gov](https://newscenter.lbl.gov)
  - date published: 2023-10-25T19:22:51.346360+00:00
@@ -2306,14 +2518,14 @@
  - tags: []
 
 ## Erthalion
- - [http://erthalion.info](http://erthalion.info)
- - date published: 2024-02-25T15:21:46.039163+00:00
+ - [https://erthalion.info](https://erthalion.info)
+ - date published: 2023-10-25T19:33:09.948190+00:00
  - user: None
  - tags: []
 
 ## Erthalion
- - [https://erthalion.info](https://erthalion.info)
- - date published: 2023-10-25T19:33:09.948190+00:00
+ - [http://erthalion.info](http://erthalion.info)
+ - date published: 2024-02-25T15:21:46.039163+00:00
  - user: None
  - tags: []
 
@@ -2840,14 +3052,14 @@
  - tags: []
 
 ## ∑ Xah Code
- - [http://xahlee.info](http://xahlee.info)
- - date published: 2023-10-25T19:35:40.088312+00:00
+ - [https://xahlee.info](https://xahlee.info)
+ - date published: 2024-01-29T11:11:38+00:00
  - user: rumpel
  - tags: []
 
 ## ∑ Xah Code
- - [https://xahlee.info](https://xahlee.info)
- - date published: 2024-01-29T11:11:38+00:00
+ - [http://xahlee.info](http://xahlee.info)
+ - date published: 2023-10-25T19:35:40.088312+00:00
  - user: rumpel
  - tags: []
 
@@ -3128,14 +3340,14 @@
  - tags: []
 
 ## American Express Technology
- - [http://americanexpress.io](http://americanexpress.io)
- - date published: 2024-02-25T14:44:25.925967+00:00
+ - [https://americanexpress.io](https://americanexpress.io)
+ - date published: 2023-10-25T19:37:33.148951+00:00
  - user: None
  - tags: []
 
 ## American Express Technology
- - [https://americanexpress.io](https://americanexpress.io)
- - date published: 2023-10-25T19:37:33.148951+00:00
+ - [http://americanexpress.io](http://americanexpress.io)
+ - date published: 2024-02-25T14:44:25.925967+00:00
  - user: None
  - tags: []
 
@@ -3875,7 +4087,7 @@
  - [https://dbeaver.io](https://dbeaver.io)
  - date published: 2024-03-10T21:09:55+00:00
  - user: rumpel
- - tags: ['database program']
+ - tags: ['database program', 'sql']
 
 ## DB Pilot - Database GUI With a Twist.
  - [https://www.dbpilot.io](https://www.dbpilot.io)
@@ -5790,216 +6002,6 @@ through Composable Diffusion
 ## THE 25TH INTERNATIONAL CONFERENCE ON ENGINEERING OF COMPLEX COMPUTER SYSTEMS
  - [https://iceccs25th.github.io](https://iceccs25th.github.io)
  - date published: 2020-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## I❤️LA: Compilable Markdown for Linear Algebra
- - [https://iheartla.github.io](https://iheartla.github.io)
- - date published: 2023-10-25T19:46:34.877245+00:00
- - user: None
- - tags: []
-
-## Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions
- - [https://instruct-nerf2nerf.github.io](https://instruct-nerf2nerf.github.io)
- - date published: 2023-10-25T19:46:36.357698+00:00
- - user: None
- - tags: []
-
-## Redirecting…
- - [https://intel.github.io](https://intel.github.io)
- - date published: 2023-10-25T19:46:42.447401+00:00
- - user: None
- - tags: []
-
-## Generative Models: What do they know? Do they know things? Let's find out
- - [https://intrinsic-lora.github.io](https://intrinsic-lora.github.io)
- - date published: 2024-02-23T22:46:46+00:00
- - user: None
- - tags: []
-
-## irhum.github.io - Irhum’s Notes
- - [https://irhum.github.io](https://irhum.github.io)
- - date published: 2023-10-25T19:46:45.198835+00:00
- - user: None
- - tags: []
-
-## MR IXNS | A simple blog where I dive into curious topics.
- - [https://ixns.github.io](https://ixns.github.io)
- - date published: 2023-10-25T19:46:52.088202+00:00
- - user: None
- - tags: []
-
-## Jack's Blog
- - [https://jackevansevo.github.io](https://jackevansevo.github.io)
- - date published: 2023-10-25T08:49:16.778527+00:00
- - user: None
- - tags: ['personal']
-
-## https://jacklance.github.io
- - [https://jacklance.github.io](https://jacklance.github.io)
- - date published: 2023-12-23T06:44:05.457224+00:00
- - user: None
- - tags: []
-
-## Clojure Cheatsheets
- - [https://jafingerhut.github.io](https://jafingerhut.github.io)
- - date published: 2023-10-25T19:47:00.700654+00:00
- - user: None
- - tags: []
-
-## Jay Alammar – Visualizing machine learning one concept at a time.
- - [https://jalammar.github.io](https://jalammar.github.io)
- - date published: 2023-10-25T19:47:09.126685+00:00
- - user: None
- - tags: []
-
-## https://janbruedigam.github.io
- - [https://janbruedigam.github.io](https://janbruedigam.github.io)
- - date published: 2024-02-08T22:09:04.217810+00:00
- - user: None
- - tags: []
-
-## Jason Eckert's Website and Blog
- - [https://jasoneckert.github.io](https://jasoneckert.github.io)
- - date published: 2023-10-25T19:47:12.079736+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://jekyll.github.io](https://jekyll.github.io)
- - date published: 2024-01-09T03:32:50.186997+00:00
- - user: None
- - tags: []
-
-## Jens Rantil
- - [https://jensrantil.github.io](https://jensrantil.github.io)
- - date published: 2023-10-25T08:49:17.368257+00:00
- - user: None
- - tags: ['personal']
-
-## About
- - [https://jessesquires.github.io](https://jessesquires.github.io)
- - date published: 2020-12-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Jingye Chen - Homepage
- - [https://jingyechen.github.io](https://jingyechen.github.io)
- - date published: 2023-12-22T11:55:36.584168+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://jliljebl.github.io](https://jliljebl.github.io)
- - date published: 2024-01-17T06:24:28.380505+00:00
- - user: None
- - tags: []
-
-## Joe Antonakakis
- - [https://jma353.github.io](https://jma353.github.io)
- - date published: 2022-09-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Blog · Joanita Dsouza
- - [https://joanitad.github.io](https://joanitad.github.io)
- - date published: 2023-12-05T14:37:48.143125+00:00
- - user: None
- - tags: ['personal']
-
-## Joe's Blog — a non-linear personal web notebook
- - [https://joearms.github.io](https://joearms.github.io)
- - date published: 2023-10-25T08:49:22.757881+00:00
- - user: None
- - tags: ['personal']
-
-## The Good Minima | A blog about implicit biases in deep learning.
- - [https://johanwind.github.io](https://johanwind.github.io)
- - date published: 2023-10-25T19:47:12.897658+00:00
- - user: None
- - tags: []
-
-## John Azariah’s Blog | Ruminations of a partially-applied functional programmer…
- - [https://johnazariah.github.io](https://johnazariah.github.io)
- - date published: 2023-10-25T19:47:14.168402+00:00
- - user: None
- - tags: []
-
-## https://johnhw.github.io
- - [https://johnhw.github.io](https://johnhw.github.io)
- - date published: 2024-01-09T03:32:50.790440+00:00
- - user: None
- - tags: []
-
-## Happy Coding @ https://jojozhuang.github.io
- - [https://jojozhuang.github.io](https://jojozhuang.github.io)
- - date published: 2023-10-25T19:47:19.145221+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://jonatron.github.io](https://jonatron.github.io)
- - date published: 2023-12-22T19:25:32.107205+00:00
- - user: None
- - tags: []
-
-## Jorengarenar
- - [https://jorengarenar.github.io](https://jorengarenar.github.io)
- - date published: 2023-10-25T19:47:20.537819+00:00
- - user: None
- - tags: []
-
-## jorzel – Backend developer with special interest in software design, architecture and system modelling. Trying to stay in a continuous learning mindset. Like refactoring, clean code, DDD and TDD
- - [https://jorzel.github.io](https://jorzel.github.io)
- - date published: 2023-10-25T19:47:23.799378+00:00
- - user: None
- - tags: []
-
-## Josef Bacik’s Blog | Musings about current development work.
- - [https://josefbacik.github.io](https://josefbacik.github.io)
- - date published: 2023-10-25T19:47:25.330613+00:00
- - user: None
- - tags: []
-
-## Josep Rubió Piqué
- - [https://joseprupi.github.io](https://joseprupi.github.io)
- - date published: 2023-10-25T08:49:23.310348+00:00
- - user: None
- - tags: ['personal']
-
-## None
- - [https://josh-project.github.io](https://josh-project.github.io)
- - date published: 2024-02-19T08:21:43.237493+00:00
- - user: None
- - tags: []
-
-## Josh Talk
- - [https://joshumax.github.io](https://joshumax.github.io)
- - date published: 2023-10-25T19:47:27.262601+00:00
- - user: None
- - tags: []
-
-## Jose Maria Perez-Macias - Tampere University of Technology(TUT)/Tampere University Hospital (TAYS)
- - [https://jperezmacias.github.io](https://jperezmacias.github.io)
- - date published: 2023-12-25T17:18:36.264210+00:00
- - user: None
- - tags: ['personal']
-
-## jSCADA - Open source SCADA system written in Java
- - [https://jscada.github.io](https://jscada.github.io)
- - date published: 2023-10-30T13:48:57.641903+00:00
- - user: None
- - tags: ['java', 'scada']
-
-## Juniper Open Source
- - [https://juniper.github.io](https://juniper.github.io)
- - date published: 2023-10-25T19:47:28.706476+00:00
- - user: None
- - tags: []
-
-## None
- - [https://junzhan2000.github.io](https://junzhan2000.github.io)
- - date published: 2024-02-21T14:21:14.419584+00:00
  - user: None
  - tags: []
 

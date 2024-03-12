@@ -1,3 +1,45 @@
+## New community features for Google Chat and an update on Currents
+ - [https://plus.google.com](https://plus.google.com)
+ - date published: 2023-12-11T19:33:32.723745+00:00
+ - user: None
+ - tags: []
+
+## Google Podcasts
+ - [https://podcasts.google.com](https://podcasts.google.com)
+ - date published: 2023-10-25T11:31:17.486510+00:00
+ - user: None
+ - tags: []
+
+## Privacy & Terms – Google
+ - [https://policies.google.com](https://policies.google.com)
+ - date published: 2024-02-24T09:58:53.252783+00:00
+ - user: None
+ - tags: []
+
+## Google Scholar
+ - [https://scholar.google.com](https://scholar.google.com)
+ - date published: 2023-10-25T11:31:18.931237+00:00
+ - user: None
+ - tags: []
+
+## Google
+ - [https://search.google.com](https://search.google.com)
+ - date published: 2023-12-06T08:08:53+00:00
+ - user: rumpel
+ - tags: ['google', 'search engine']
+
+## Google Sites: Sign-in
+ - [https://sites.google.com](https://sites.google.com)
+ - date published: 2023-10-25T11:31:20.231134+00:00
+ - user: None
+ - tags: []
+
+## Stadia
+ - [https://stadia.google.com](https://stadia.google.com)
+ - date published: 2023-10-25T11:31:25.844268+00:00
+ - user: None
+ - tags: ['abandonware']
+
 ## Google Cloud Service Health
  - [https://status.cloud.google.com](https://status.cloud.google.com)
  - date published: 2023-10-25T11:31:27.950150+00:00
@@ -211,6 +253,12 @@
 ## AI Advances
  - [https://ai.gopubby.com](https://ai.gopubby.com)
  - date published: 2023-12-03T17:38:26.939881+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Goqite, a persistent message queue Go library built on SQLite
+ - [https://www.goqite.com](https://www.goqite.com)
+ - date published: 2024-03-11T10:39:36+00:00
  - user: None
  - tags: []
 
@@ -1519,6 +1567,12 @@
  - user: None
  - tags: []
 
+## Hardlimit
+ - [https://video.hardlimit.com](https://video.hardlimit.com)
+ - date published: 2024-03-11T00:26:12.346622+00:00
+ - user: None
+ - tags: []
+
 ## HardwareTeams.com - The #1 job board and blog for electrical and computer engineers.
  - [https://hardwareteams.com](https://hardwareteams.com)
  - date published: 2024-02-25T20:37:58.224668+00:00
@@ -2344,6 +2398,12 @@
 ## Historicaleve -
  - [https://historicaleve.com](https://historicaleve.com)
  - date published: 2023-12-30T09:40:53.850742+00:00
+ - user: None
+ - tags: []
+
+## Historic Mysteries
+ - [https://www.historicmysteries.com](https://www.historicmysteries.com)
+ - date published: 2024-03-11T21:08:51.782166+00:00
  - user: None
  - tags: []
 
@@ -3608,14 +3668,14 @@
  - tags: []
 
 ## If This Be Treason
- - [https://ifthisbetreason.com](https://ifthisbetreason.com)
- - date published: 2024-01-09T02:39:21.575222+00:00
+ - [http://ifthisbetreason.com](http://ifthisbetreason.com)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
 ## If This Be Treason
- - [http://ifthisbetreason.com](http://ifthisbetreason.com)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://ifthisbetreason.com](https://ifthisbetreason.com)
+ - date published: 2024-01-09T02:39:21.575222+00:00
  - user: None
  - tags: []
 
@@ -5761,6 +5821,12 @@
  - user: None
  - tags: ['personal']
 
+## Jason Roberts
+ - [https://jasonrobertsonline.com](https://jasonrobertsonline.com)
+ - date published: 2024-03-11T21:08:43.246978+00:00
+ - user: None
+ - tags: []
+
 ## Jason’s Big Adventure
  - [https://jasonsbigadventure.com](https://jasonsbigadventure.com)
  - date published: 2023-12-12T13:08:50.689435+00:00
@@ -5894,16 +5960,16 @@
  - tags: []
 
 ## Juraj's Blog
- - [http://jborza.com](http://jborza.com)
- - date published: 2024-02-26T08:26:59.359158+00:00
- - user: None
- - tags: []
-
-## Juraj's Blog
  - [https://jborza.com](https://jborza.com)
  - date published: 2023-10-25T08:58:08.654807+00:00
  - user: None
  - tags: ['personal']
+
+## Juraj's Blog
+ - [http://jborza.com](http://jborza.com)
+ - date published: 2024-02-26T08:26:59.359158+00:00
+ - user: None
+ - tags: []
 
 ## J. Brown Yoga
  - [https://www.jbrownyoga.com](https://www.jbrownyoga.com)
@@ -5934,70 +6000,4 @@
  - date published: 2023-10-25T15:27:34.864299+00:00
  - user: None
  - tags: []
-
-## https://www.jclinepi.com
- - [https://www.jclinepi.com](https://www.jclinepi.com)
- - date published: 2023-10-25T15:27:36.093054+00:00
- - user: None
- - tags: []
-
-## The If Works – The If Works
- - [https://blog.jcoglan.com](https://blog.jcoglan.com)
- - date published: 2023-10-25T15:27:36.894719+00:00
- - user: None
- - tags: []
-
-## Financial Markets and Electoral Systems
- - [https://www.jdawiseman.com](https://www.jdawiseman.com)
- - date published: 2023-10-25T15:27:40.087215+00:00
- - user: None
- - tags: []
-
-## JDG Sport | Digital sports consultant & journalist
- - [https://jdgsport.com](https://jdgsport.com)
- - date published: 2023-12-02T13:42:03.884403+00:00
- - user: None
- - tags: ['personal']
-
-## Joe Di Lillo
- - [https://jdilillo.com](https://jdilillo.com)
- - date published: 2024-02-26T09:17:51.063140+00:00
- - user: None
- - tags: []
-
-## My WordPress
- - [https://www.jdilillo.com](https://www.jdilillo.com)
- - date published: 2024-01-15T06:17:35.348803+00:00
- - user: None
- - tags: []
-
-## JD Meier | High Performance. Innovation. Strategy.
- - [https://jdmeier.com](https://jdmeier.com)
- - date published: 2023-10-25T15:27:42.784067+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://www.jdoqocy.com](https://www.jdoqocy.com)
- - date published: 2024-02-23T23:22:01.905596+00:00
- - user: None
- - tags: []
-
-## Need-to-Know News, Insights, & Intelligence for Business Leaders | JD Supra
- - [https://www.jdsupra.com](https://www.jdsupra.com)
- - date published: 2023-10-25T15:27:52.591885+00:00
- - user: None
- - tags: []
-
-## Jeannen  – Cool and dumb stuff, mainly about AI
- - [https://jeannen.com](https://jeannen.com)
- - date published: 2023-10-25T15:27:54.634589+00:00
- - user: None
- - tags: []
-
-## Jediah Porter
- - [https://www.jediahporter.com](https://www.jediahporter.com)
- - date published: 2023-12-24T08:15:08.398647+00:00
- - user: None
- - tags: ['personal']
 
