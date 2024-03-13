@@ -1,3 +1,165 @@
+## VPNOverview.com | News and Reviews, Privacy and Anonymity
+ - [https://vpnoverview.com](https://vpnoverview.com)
+ - date published: 2023-10-25T17:58:41.057138+00:00
+ - user: None
+ - tags: []
+
+## https://vpnpro.com
+ - [https://vpnpro.com](https://vpnpro.com)
+ - date published: 2024-02-24T18:08:35.738196+00:00
+ - user: None
+ - tags: []
+
+## The Best VPN Service of 2024: 160+ VPNs Tested
+ - [https://www.vpnranks.com](https://www.vpnranks.com)
+ - date published: 2024-01-09T02:53:25.989758+00:00
+ - user: None
+ - tags: []
+
+## VRChat
+ - [https://hello.vrchat.com](https://hello.vrchat.com)
+ - date published: 2023-12-06T10:35:33+00:00
+ - user: rumpel
+ - tags: ['social platform', 'virtual reality']
+
+## Virtual Reality - Virtual Realities | Virtual Reality Products and Services
+ - [https://www.vrealities.com](https://www.vrealities.com)
+ - date published: 2023-11-27T16:24:43+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
+
+## VSCodium - Open Source Binaries of VSCode
+ - [https://vscodium.com](https://vscodium.com)
+ - date published: 2023-10-25T17:58:41.892210+00:00
+ - user: None
+ - tags: []
+
+## Vudu is not available in your region.
+ - [https://www.vudu.com](https://www.vudu.com)
+ - date published: 2023-12-02T13:12:44+00:00
+ - user: rumpel
+ - tags: []
+
+## VulnCheck - Outpace Adversaries
+ - [https://vulncheck.com](https://vulncheck.com)
+ - date published: 2024-01-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Vulture - Entertainment News - TV, Movies, Music, Books, Theater, Art
+ - [https://www.vulture.com](https://www.vulture.com)
+ - date published: 2023-10-25T10:24:00.700690+00:00
+ - user: None
+ - tags: ['movies', 'entertainment news']
+
+## VW.com | Official Home of Volkswagen Cars & SUVs
+ - [https://www.vw.com](https://www.vw.com)
+ - date published: 2023-10-25T18:10:11.961099+00:00
+ - user: None
+ - tags: ['car producer', 'company']
+
+## GitHub - dylanpdx/BetterTwitFix: Fix Twitter video embeds in Discord (and Telegram!)
+ - [https://vxtwitter.com](https://vxtwitter.com)
+ - date published: 2024-01-06T02:26:04.304605+00:00
+ - user: None
+ - tags: []
+
+## Effektiv drift och förvaltning | Vyer Technologies AB | Sweden
+ - [https://www.vyer.com](https://www.vyer.com)
+ - date published: 2023-11-29T14:19:39.041120+00:00
+ - user: None
+ - tags: []
+
+## W3Champions
+ - [https://www.w3champions.com](https://www.w3champions.com)
+ - date published: 2024-01-27T09:39:53+00:00
+ - user: rumpel
+ - tags: ['warcraft 3']
+
+## Warcraft 3: Reforged - Map database
+ - [https://maps.w3reforged.com](https://maps.w3reforged.com)
+ - date published: 2023-10-29T10:35:07.109924+00:00
+ - user: None
+ - tags: []
+
+## W3Schools Online Web Tutorials
+ - [https://www.w3schools.com](https://www.w3schools.com)
+ - date published: 2023-10-25T17:25:37.350967+00:00
+ - user: None
+ - tags: ['javascript', 'html', 'standards', 'css']
+
+## W4 Games – Home
+ - [https://w4games.com](https://w4games.com)
+ - date published: 2023-10-25T17:58:48.483188+00:00
+ - user: None
+ - tags: ['video game developer', 'godot']
+
+## Welcome to the Ham Shack of W5JGV
+ - [https://w5jgv.com](https://w5jgv.com)
+ - date published: 2013-05-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wacom | Interactive pen displays , pen tablets and stylus products.
+ - [https://www.wacom.com](https://www.wacom.com)
+ - date published: 2023-10-27T13:57:25.561009+00:00
+ - user: None
+ - tags: ['hardware', 'drawing']
+
+## WAD Commander
+ - [https://wadcmd.com](https://wadcmd.com)
+ - date published: 2023-10-25T17:58:50.087656+00:00
+ - user: None
+ - tags: []
+
+## WAFF 48 News Huntsville | First Alert Weather | Alabama Sports
+ - [https://www.waff.com](https://www.waff.com)
+ - date published: 2024-02-24T10:08:34.221376+00:00
+ - user: None
+ - tags: []
+
+## WAGO Polska | Twój Partner w automatyce i połączeniach elektrycznych
+ - [https://www.wago.com](https://www.wago.com)
+ - date published: 2023-11-26T10:10:06+00:00
+ - user: rumpel
+ - tags: ['electronic']
+
+## Wait But Why
+ - [https://waitbutwhy.com](https://waitbutwhy.com)
+ - date published: 2024-01-01T18:11:58.847026+00:00
+ - user: None
+ - tags: []
+
+## WakaTime - Dashboards for developers
+ - [https://wakatime.com](https://wakatime.com)
+ - date published: 2023-10-25T17:59:03.808055+00:00
+ - user: None
+ - tags: []
+
+## Wakelet - Save, organize and share content
+ - [https://wakelet.com](https://wakelet.com)
+ - date published: 2023-11-26T16:49:19+00:00
+ - user: rumpel
+ - tags: ['bookmark manager']
+
+## Software etc.
+ - [https://blog.waleson.com](https://blog.waleson.com)
+ - date published: 2024-03-03T13:20:39.519294+00:00
+ - user: None
+ - tags: []
+
+## قدم زدن در باغ عدن
+ - [https://walkineden.com](https://walkineden.com)
+ - date published: 2023-12-15T21:44:25.009160+00:00
+ - user: None
+ - tags: ['personal']
+
+## Best Wallet Hacks - Strategies & tactics for getting ahead financially and in life
+ - [https://wallethacks.com](https://wallethacks.com)
+ - date published: 2023-11-29T16:21:56.754241+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Wallpapers.com | 1,500,000+ Free HD Wallpapers for Desktop, Mobiles & Tablets
  - [https://wallpapers.com](https://wallpapers.com)
  - date published: 2023-10-25T16:30:58.046543+00:00
@@ -1559,14 +1721,14 @@
  - tags: []
 
 ## WinWorld: Welcome
- - [http://winworldpc.com](http://winworldpc.com)
- - date published: 2024-02-26T08:40:39.467757+00:00
+ - [https://winworldpc.com](https://winworldpc.com)
+ - date published: 2024-01-01T19:17:47.205122+00:00
  - user: None
  - tags: []
 
 ## WinWorld: Welcome
- - [https://winworldpc.com](https://winworldpc.com)
- - date published: 2024-01-01T19:17:47.205122+00:00
+ - [http://winworldpc.com](http://winworldpc.com)
+ - date published: 2024-02-26T08:40:39.467757+00:00
  - user: None
  - tags: []
 
@@ -3808,17 +3970,17 @@
  - user: None
  - tags: []
 
-## xkcd: Daylight Saving Choice
- - [https://xkcd.com](https://xkcd.com)
- - date published: 2023-10-25T18:21:57.309268+00:00
- - user: None
- - tags: ['memes', 'funny images', 'comics']
-
 ## Orbital Argument
  - [http://xkcd.com](http://xkcd.com)
  - date published: 2024-02-26T15:13:51.426193+00:00
  - user: None
  - tags: []
+
+## xkcd: Daylight Saving Choice
+ - [https://xkcd.com](https://xkcd.com)
+ - date published: 2023-10-25T18:21:57.309268+00:00
+ - user: None
+ - tags: ['memes', 'funny images', 'comics']
 
 ## x mod 2 | Kirk Thaker | Substack
  - [https://www.xmodtwo.com](https://www.xmodtwo.com)
@@ -4318,11 +4480,11 @@
  - user: None
  - tags: []
 
-## Louis Rossmann YouTube Channel
- - [https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w](https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w)
- - date published: 2023-11-03T10:37:58+00:00
+## Luetin09 YouTube Channel
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ)
+ - date published: 2023-11-08T09:33:03+00:00
  - user: rumpel
- - tags: ['right to repair']
+ - tags: ['warhammer', 'tabletop games']
 
 ## YouTube Channel hipoonios
  - [https://www.youtube.com/@hipoonios](https://www.youtube.com/@hipoonios)
@@ -4330,41 +4492,29 @@
  - user: rumpel
  - tags: ['amiga']
 
-## Eta Prime YouTube Channel
- - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
- - date published: 2023-11-03T10:35:46+00:00
- - user: rumpel
- - tags: ['youtuber', 'single-board', 'raspberry']
-
 ## Jeff Geerling YouTube Channel
  - [https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg)
  - date published: 2023-11-03T10:34:47+00:00
  - user: rumpel
  - tags: ['youtuber', 'single-board', 'raspberry']
 
-## YouTube
- - [https://www.youtube.com](https://www.youtube.com)
- - date published: 2023-10-24T20:05:58.291792+00:00
- - user: None
- - tags: ['google', 'gatekeeper', 'video streaming']
-
-## YouTube
- - [http://www.youtube.com](http://www.youtube.com)
- - date published: 2024-03-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## NewRetroWave YouTube Channel
- - [https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g](https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g)
- - date published: 2023-11-13T09:23:17+00:00
+## Eta Prime YouTube Channel
+ - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
+ - date published: 2023-11-03T10:35:46+00:00
  - user: rumpel
- - tags: ['synthwave', 'new retro wave']
+ - tags: ['youtuber', 'single-board', 'raspberry']
 
 ## LukHash YouTube Channel
  - [https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw](https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw)
  - date published: 2023-11-03T14:42:18+00:00
  - user: rumpel
  - tags: []
+
+## Squidmar Miniatures
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g)
+ - date published: 2023-11-08T09:58:45+00:00
+ - user: rumpel
+ - tags: ['warhammer', 'wargames', 'miniatures']
 
 ## Tabletop Minions
  - [https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ)
@@ -4378,27 +4528,39 @@
  - user: rumpel
  - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
 
-## Squidmar Miniatures
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g)
- - date published: 2023-11-08T09:58:45+00:00
+## NewRetroWave YouTube Channel
+ - [https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g](https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g)
+ - date published: 2023-11-13T09:23:17+00:00
  - user: rumpel
- - tags: ['warhammer', 'wargames', 'miniatures']
-
-## Luetin09 YouTube Channel
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ)
- - date published: 2023-11-08T09:33:03+00:00
- - user: rumpel
- - tags: ['warhammer', 'tabletop games']
+ - tags: ['synthwave', 'new retro wave']
 
 ## YouTube
- - [http://youtube.com](http://youtube.com)
+ - [http://www.youtube.com](http://www.youtube.com)
  - date published: 2024-03-06T00:00:00+00:00
  - user: None
  - tags: []
 
 ## YouTube
+ - [https://www.youtube.com](https://www.youtube.com)
+ - date published: 2023-10-24T20:05:58.291792+00:00
+ - user: None
+ - tags: ['google', 'gatekeeper', 'video streaming']
+
+## Louis Rossmann YouTube Channel
+ - [https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w](https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w)
+ - date published: 2023-11-03T10:37:58+00:00
+ - user: rumpel
+ - tags: ['right to repair']
+
+## YouTube
  - [https://youtube.com](https://youtube.com)
  - date published: 2023-11-14T01:45:17.978988+00:00
+ - user: None
+ - tags: []
+
+## YouTube
+ - [http://youtube.com](http://youtube.com)
+ - date published: 2024-03-06T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5292,14 +5454,14 @@
  - tags: []
 
 ## MAXELL's HOME
- - [https://mxl.cz](https://mxl.cz)
- - date published: 2024-01-09T02:56:03.815327+00:00
+ - [http://mxl.cz](http://mxl.cz)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## MAXELL's HOME
- - [http://mxl.cz](http://mxl.cz)
- - date published: 1999-01-01T00:00:00+00:00
+ - [https://mxl.cz](https://mxl.cz)
+ - date published: 2024-01-09T02:56:03.815327+00:00
  - user: None
  - tags: []
 
@@ -5454,14 +5616,14 @@
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
- - [http://www.amiga-news.de](http://www.amiga-news.de)
- - date published: 2024-02-26T14:42:59.175744+00:00
+ - [https://www.amiga-news.de](https://www.amiga-news.de)
+ - date published: 2024-01-09T02:56:04.543993+00:00
  - user: None
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
- - [https://www.amiga-news.de](https://www.amiga-news.de)
- - date published: 2024-01-09T02:56:04.543993+00:00
+ - [http://www.amiga-news.de](http://www.amiga-news.de)
+ - date published: 2024-02-26T14:42:59.175744+00:00
  - user: None
  - tags: []
 
@@ -5715,13 +5877,13 @@ home
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [http://www.classic-videogames.de](http://www.classic-videogames.de)
+ - [https://www.classic-videogames.de](https://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [https://www.classic-videogames.de](https://www.classic-videogames.de)
+ - [http://www.classic-videogames.de](http://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
@@ -5840,168 +6002,4 @@ Heinsohn
  - date published: 2023-12-27T01:00:18.809608+00:00
  - user: None
  - tags: ['personal']
-
-## Fabian Kleiser
- - [https://www.fabian-kleiser.de](https://www.fabian-kleiser.de)
- - date published: 2023-08-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## FACTOR 5
- - [http://www.factor5.de](http://www.factor5.de)
- - date published: 2023-11-02T10:55:33.784420+00:00
- - user: None
- - tags: ['amiga']
-
-## fantotal.de Onlineshop für Merchandise | CDs Vinyl | Gothic Metal Pun
- - [https://fantotal.de](https://fantotal.de)
- - date published: 2023-11-13T09:40:58.541752+00:00
- - user: None
- - tags: ['shop', 'music']
-
-## Lemmymap - a lemmy federation map
- - [https://lemmymap.feddit.de](https://lemmymap.feddit.de)
- - date published: 2023-10-25T18:30:11.155382+00:00
- - user: None
- - tags: []
-
-## felix fisgus | Felix Fisgus
- - [https://felixfisgus.de](https://felixfisgus.de)
- - date published: 2023-10-25T18:30:12.186826+00:00
- - user: None
- - tags: []
-
-## Felix Geisendörfer
- - [https://blog.felixge.de](https://blog.felixge.de)
- - date published: 2023-10-25T18:30:14.021327+00:00
- - user: None
- - tags: []
-
-## Fenix Magazin - Početna
- - [https://fenix-magazin.de](https://fenix-magazin.de)
- - date published: 2023-10-30T19:00:12.736074+00:00
- - user: None
- - tags: []
-
-## feststelltaste – About Legacy Systems, Software Analytics and the Fundamental Problems of Software Engineering
- - [https://www.feststelltaste.de](https://www.feststelltaste.de)
- - date published: 2023-10-25T18:30:19.967784+00:00
- - user: None
- - tags: []
-
-## Florian Heidenreich – Indie Software Developer from Dresden
- - [https://fheidenreich.de](https://fheidenreich.de)
- - date published: 2024-01-07T17:48:40.202500+00:00
- - user: None
- - tags: []
-
-## Finanz-Designerin: Finanziell frei in 5 Jahren.
- - [https://www.finanz-designerin.de](https://www.finanz-designerin.de)
- - date published: 2024-02-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## Formfacade - 
-        
-        Customize Google Forms UI
- - [https://formfaca.de](https://formfaca.de)
- - date published: 2024-02-08T22:06:36.088214+00:00
- - user: None
- - tags: []
-
-## Nachrichten aus Deutschland und der Welt | Frankfurter Rundschau
- - [https://www.fr.de](https://www.fr.de)
- - date published: 2023-11-28T20:39:40+00:00
- - user: rumpel
- - tags: ['politic news', 'german news']
-
-## Franzi.Flows - Franzi.Flows
- - [https://franziflows.de](https://franziflows.de)
- - date published: 2024-01-11T20:48:30.425372+00:00
- - user: None
- - tags: []
-
-## Institute for Digital Medicine -  Fraunhofer MEVIS
- - [https://mevis.fraunhofer.de](https://mevis.fraunhofer.de)
- - date published: 2024-02-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Startseite Fraunhofer-Gesellschaft
- - [https://www.fraunhofer.de](https://www.fraunhofer.de)
- - date published: 2023-10-25T18:30:27.906517+00:00
- - user: None
- - tags: []
-
-## Fraunhofer IISB (English)
- - [https://www.iisb.fraunhofer.de](https://www.iisb.fraunhofer.de)
- - date published: 2023-10-25T18:30:29.853786+00:00
- - user: None
- - tags: []
-
-## Forschen für die Energiewende - Fraunhofer-Institut für Solare Energiesysteme ISE -  Fraunhofer ISE
- - [https://www.ise.fraunhofer.de](https://www.ise.fraunhofer.de)
- - date published: 2023-10-25T18:30:39.964840+00:00
- - user: None
- - tags: []
-
-## FRUNC – Schnall den Rucksack um, Ulf. Ich glaub, es geht los!
- - [https://frunc.de](https://frunc.de)
- - date published: 2023-10-25T18:30:43.652219+00:00
- - user: None
- - tags: []
-
-## Freie Universität Berlin
- - [https://www.fu-berlin.de](https://www.fu-berlin.de)
- - date published: 2023-12-09T18:18:33.454348+00:00
- - user: None
- - tags: []
-
-## Informatik
- - [https://www.inf.fu-berlin.de](https://www.inf.fu-berlin.de)
- - date published: 2024-02-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## John-F.-Kennedy-Institut: Startseite
- - [https://www.jfki.fu-berlin.de](https://www.jfki.fu-berlin.de)
- - date published: 2023-10-25T18:30:45.808648+00:00
- - user: None
- - tags: []
-
-## German Amiga Community :: Index
- - [https://www.german-amiga-community.de](https://www.german-amiga-community.de)
- - date published: 2024-01-09T02:56:14.964245+00:00
- - user: None
- - tags: []
-
-## GNU Pascal
- - [https://www.gnu-pascal.de](https://www.gnu-pascal.de)
- - date published: 2023-10-25T18:30:47.993234+00:00
- - user: None
- - tags: []
-
-## Gorilla Sun
- - [https://gorillasun.de](https://gorillasun.de)
- - date published: 2023-10-25T18:30:51.098785+00:00
- - user: None
- - tags: []
-
-## Gorilla Sun
- - [https://www.gorillasun.de](https://www.gorillasun.de)
- - date published: 2024-02-25T20:31:33.144384+00:00
- - user: None
- - tags: []
-
-## Beglaubigung OpenPGP-Schlüssel
- - [https://pgp.governikus.de](https://pgp.governikus.de)
- - date published: 2023-10-25T18:30:54.264820+00:00
- - user: None
- - tags: []
-
-## Grönauer Infos
- - [https://www.groenauer-infos.de](https://www.groenauer-infos.de)
- - date published: 2023-11-16T18:10:42.478283+00:00
- - user: None
- - tags: []
 

@@ -1,3 +1,45 @@
+## Anecdotal Evidence
+ - [https://evidenceanecdotal.blogspot.com](https://evidenceanecdotal.blogspot.com)
+ - date published: 2023-10-25T09:08:32.163200+00:00
+ - user: None
+ - tags: ['personal']
+
+## Far Away Times
+ - [https://farawaytimes.blogspot.com](https://farawaytimes.blogspot.com)
+ - date published: 2023-10-25T09:08:37.053310+00:00
+ - user: None
+ - tags: ['personal']
+
+## FXRant
+ - [https://fxrant.blogspot.com](https://fxrant.blogspot.com)
+ - date published: 2023-11-20T09:24:52.399558+00:00
+ - user: None
+ - tags: []
+
+## Gary's hacking stuff
+ - [https://garyodernichts.blogspot.com](https://garyodernichts.blogspot.com)
+ - date published: 2023-10-29T08:40:47.881044+00:00
+ - user: None
+ - tags: []
+
+## Room 101
+ - [https://gbracha.blogspot.com](https://gbracha.blogspot.com)
+ - date published: 2023-10-25T09:08:39.659561+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Keyword | Google Product and Technology News and Stories
+ - [https://googleblog.blogspot.com](https://googleblog.blogspot.com)
+ - date published: 2023-10-25T11:32:26.628290+00:00
+ - user: None
+ - tags: []
+
+## Maps Mania
+ - [https://googlemapsmania.blogspot.com](https://googlemapsmania.blogspot.com)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Project Zero
  - [https://googleprojectzero.blogspot.com](https://googleprojectzero.blogspot.com)
  - date published: 2023-10-25T09:08:43.856862+00:00
@@ -1033,14 +1075,14 @@
  - tags: ['books']
 
 ## Bookreporter.com |
- - [https://www.bookreporter.com](https://www.bookreporter.com)
- - date published: 2023-11-07T16:06:19.097099+00:00
+ - [http://www.bookreporter.com](http://www.bookreporter.com)
+ - date published: 2024-03-01T19:06:27.394328+00:00
  - user: None
  - tags: []
 
 ## Bookreporter.com |
- - [http://www.bookreporter.com](http://www.bookreporter.com)
- - date published: 2024-03-01T19:06:27.394328+00:00
+ - [https://www.bookreporter.com](https://www.bookreporter.com)
+ - date published: 2023-11-07T16:06:19.097099+00:00
  - user: None
  - tags: []
 
@@ -3750,6 +3792,12 @@
  - user: None
  - tags: []
 
+## Chicago Public Square
+ - [https://www.chicagopublicsquare.com](https://www.chicagopublicsquare.com)
+ - date published: 2024-03-12T17:41:37.700789+00:00
+ - user: None
+ - tags: []
+
 ## Chicago Reader
  - [https://chicagoreader.com](https://chicagoreader.com)
  - date published: 2023-10-25T13:22:02.366112+00:00
@@ -3918,17 +3966,17 @@
  - user: None
  - tags: []
 
-## None
- - [http://chrisjstott.com](http://chrisjstott.com)
- - date published: 2024-02-29T14:58:49.595292+00:00
- - user: None
- - tags: []
-
 ## http://chrisjstott.com
  - [https://chrisjstott.com](https://chrisjstott.com)
  - date published: 2024-01-24T08:01:05.864817+00:00
  - user: None
  - tags: ['personal']
+
+## None
+ - [http://chrisjstott.com](http://chrisjstott.com)
+ - date published: 2024-02-29T14:58:49.595292+00:00
+ - user: None
+ - tags: []
 
 ## Home - Blogomatano
  - [https://chriskiehl.com](https://chriskiehl.com)
@@ -4230,6 +4278,12 @@
  - user: None
  - tags: []
 
+## Cinema Sojourns
+ - [https://cinemasojourns.com](https://cinemasojourns.com)
+ - date published: 2024-03-12T21:03:09.440431+00:00
+ - user: None
+ - tags: []
+
 ## Cinematography.com - Community, Education, News and Resources - Cinematography.com
  - [https://cinematography.com](https://cinematography.com)
  - date published: 2023-10-25T13:23:20.039978+00:00
@@ -4449,6 +4503,12 @@
 ## Clagnut by Richard Rutter
  - [https://clagnut.com](https://clagnut.com)
  - date published: 2023-10-25T13:25:19.677369+00:00
+ - user: None
+ - tags: []
+
+## Claim Depot - Claim Your Lawsuit Funds Today
+ - [https://www.claimdepot.com](https://www.claimdepot.com)
+ - date published: 2024-03-11T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5297,6 +5357,12 @@
  - user: None
  - tags: []
 
+## Cognition
+ - [https://www.cognition-labs.com](https://www.cognition-labs.com)
+ - date published: 2024-03-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Cognitive Medium
  - [https://cognitivemedium.com](https://cognitivemedium.com)
  - date published: 2023-10-25T13:29:27.971125+00:00
@@ -5942,72 +6008,6 @@
 ## Hover Status
  - [https://coons.com](https://coons.com)
  - date published: 2024-01-09T02:32:48.820228+00:00
- - user: None
- - tags: []
-
-## Jim Cowie
- - [https://content.cooperate.com](https://content.cooperate.com)
- - date published: 2023-12-30T20:35:59.465653+00:00
- - user: None
- - tags: []
-
-## CooperatorNews New York, The Co-op & Condo Monthly
- - [https://cooperatornews.com](https://cooperatornews.com)
- - date published: 2024-01-24T20:55:42.358349+00:00
- - user: None
- - tags: []
-
-## Organically Find More Customers
- - [https://copperinsights.com](https://copperinsights.com)
- - date published: 2023-11-29T14:21:10.021304+00:00
- - user: None
- - tags: ['personal']
-
-## Emi's Feed
- - [https://coppolaemilio.com](https://coppolaemilio.com)
- - date published: 2023-11-11T01:28:20.213648+00:00
- - user: None
- - tags: []
-
-## Copse Works
- - [https://www.copseworks.com](https://www.copseworks.com)
- - date published: 2023-11-29T16:20:28.988681+00:00
- - user: None
- - tags: ['personal']
-
-## IT programming and software development tutorials - Copy Programming
- - [https://copyprogramming.com](https://copyprogramming.com)
- - date published: 2023-11-02T09:40:02.045986+00:00
- - user: None
- - tags: ['java', 'php']
-
-## Copyright Lately | Creative Law For Curious People
- - [https://copyrightlately.com](https://copyrightlately.com)
- - date published: 2023-10-25T13:33:29.787662+00:00
- - user: None
- - tags: []
-
-## Cora Buhlert
- - [https://corabuhlert.com](https://corabuhlert.com)
- - date published: 2024-01-23T15:50:28+00:00
- - user: None
- - tags: ['personal']
-
-## Corbado - We help you bring passkeys to your customers
- - [https://www.corbado.com](https://www.corbado.com)
- - date published: 2023-10-25T13:33:33.485982+00:00
- - user: None
- - tags: []
-
-## Corbin Brands
- - [https://www.corbinbrands.com](https://www.corbinbrands.com)
- - date published: 2023-12-17T20:58:04.601039+00:00
- - user: None
- - tags: ['personal']
-
-## | Cord Cutters News
- - [https://cordcuttersnews.com](https://cordcuttersnews.com)
- - date published: 2023-10-25T13:33:38.231159+00:00
  - user: None
  - tags: []
 

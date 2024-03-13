@@ -1,3 +1,177 @@
+## https://cde.ucr.cjis.gov
+ - [https://cde.ucr.cjis.gov](https://cde.ucr.cjis.gov)
+ - date published: 2023-11-12T13:04:34.470969+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://www.commerce.gov](https://www.commerce.gov)
+ - date published: 2023-11-01T19:47:55.173039+00:00
+ - user: None
+ - tags: []
+
+## Congress.gov API
+ - [https://api.congress.gov](https://api.congress.gov)
+ - date published: 2023-10-25T19:19:12.540417+00:00
+ - user: None
+ - tags: []
+
+## https://www.congress.gov
+ - [https://www.congress.gov](https://www.congress.gov)
+ - date published: 2023-10-25T19:19:13.544364+00:00
+ - user: None
+ - tags: []
+
+## Consumer Financial Protection Bureau
+ - [https://www.consumerfinance.gov](https://www.consumerfinance.gov)
+ - date published: 2023-10-25T19:19:22.686885+00:00
+ - user: None
+ - tags: []
+
+## U.S. Copyright Office | U.S. Copyright Office
+ - [https://www.copyright.gov](https://www.copyright.gov)
+ - date published: 2023-11-01T08:43:34.224069+00:00
+ - user: None
+ - tags: []
+
+## CPSC.gov
+ - [https://www.cpsc.gov](https://www.cpsc.gov)
+ - date published: 2023-10-25T19:19:28.555283+00:00
+ - user: None
+ - tags: []
+
+## Chief Information Officer - U.S. Department of Defense
+ - [https://dodcio.defense.gov](https://dodcio.defense.gov)
+ - date published: 2024-01-09T03:30:24.563437+00:00
+ - user: None
+ - tags: []
+
+## U.S. Department of Defense
+ - [https://media.defense.gov](https://media.defense.gov)
+ - date published: 2023-10-25T19:19:33.802662+00:00
+ - user: None
+ - tags: []
+
+## U.S. Department of Defense
+ - [https://www.defense.gov](https://www.defense.gov)
+ - date published: 2023-10-25T19:19:38.874037+00:00
+ - user: None
+ - tags: ['military', 'security intelligence']
+
+## Home - Delaware General Assembly
+ - [https://legis.delaware.gov](https://legis.delaware.gov)
+ - date published: 2023-10-25T19:19:49.711045+00:00
+ - user: None
+ - tags: []
+
+## Delta County
+ - [https://deltacountymi.gov](https://deltacountymi.gov)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home | Homeland Security
+ - [https://www.dhs.gov](https://www.dhs.gov)
+ - date published: 2023-10-25T19:19:55.186821+00:00
+ - user: None
+ - tags: []
+
+## USWDS: The United States Web Design System | U.S. Web Design System (USWDS)
+ - [https://designsystem.digital.gov](https://designsystem.digital.gov)
+ - date published: 2023-10-25T19:20:02.198655+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.dni.gov](https://www.dni.gov)
+ - date published: 2023-10-25T19:20:05.412646+00:00
+ - user: None
+ - tags: []
+
+## BIS Website
+ - [https://www.bis.doc.gov](https://www.bis.doc.gov)
+ - date published: 2023-10-25T19:20:19.432638+00:00
+ - user: None
+ - tags: []
+
+## Home | U.S. Department of Labor
+ - [https://www.dol.gov](https://www.dol.gov)
+ - date published: 2023-10-25T19:20:24.712207+00:00
+ - user: None
+ - tags: []
+
+## Federal Highway Administration
+ - [https://highways.dot.gov](https://highways.dot.gov)
+ - date published: 2023-10-25T19:20:28.006537+00:00
+ - user: None
+ - tags: []
+
+## ERIC - Education Resources Information Center
+ - [https://files.eric.ed.gov](https://files.eric.ed.gov)
+ - date published: 2023-10-25T19:20:29.057582+00:00
+ - user: None
+ - tags: []
+
+## Homepage - U.S. Energy Information Administration (EIA)
+ - [https://www.eia.gov](https://www.eia.gov)
+ - date published: 2023-10-25T19:20:38.108192+00:00
+ - user: None
+ - tags: []
+
+## Department of Energy
+ - [https://www.energy.gov](https://www.energy.gov)
+ - date published: 2023-10-25T19:20:40.502538+00:00
+ - user: None
+ - tags: []
+
+## U.S. Environmental Protection Agency | US EPA
+ - [https://www.epa.gov](https://www.epa.gov)
+ - date published: 2023-10-25T19:20:46.144373+00:00
+ - user: None
+ - tags: []
+
+## Federal Aviation Administration
+ - [https://www.faa.gov](https://www.faa.gov)
+ - date published: 2023-10-25T11:20:33.122723+00:00
+ - user: None
+ - tags: ['aviation', 'avionics', 'do-178c', 'aerospace', 'do-178b']
+
+## https://www.fly.faa.gov
+ - [https://www.fly.faa.gov](https://www.fly.faa.gov)
+ - date published: 2024-01-09T03:30:25.266620+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://fatherhood.gov](https://fatherhood.gov)
+ - date published: 2023-12-29T00:50:12.445423+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the LEB website — LEB
+ - [https://leb.fbi.gov](https://leb.fbi.gov)
+ - date published: 2023-10-25T10:47:03.596512+00:00
+ - user: None
+ - tags: []
+
+## Welcome to fbi.gov — FBI
+ - [https://www.fbi.gov](https://www.fbi.gov)
+ - date published: 2023-10-25T19:20:52.514388+00:00
+ - user: None
+ - tags: ['fbi', 'government', 'crime']
+
+## 403 Forbidden
+ - [https://docs.fcc.gov](https://docs.fcc.gov)
+ - date published: 2023-10-25T19:20:53.694947+00:00
+ - user: None
+ - tags: []
+
+## Federal Communications Commission | The United States of America
+ - [https://www.fcc.gov](https://www.fcc.gov)
+ - date published: 2023-10-25T19:21:01.719932+00:00
+ - user: None
+ - tags: []
+
 ## U.S. Food and Drug Administration
  - [https://www.fda.gov](https://www.fda.gov)
  - date published: 2023-10-25T19:21:05.422596+00:00
@@ -2007,6 +2181,12 @@
  - user: None
  - tags: []
 
+## Vasudev Kamath - Random Ramblings
+ - [https://copyninja.in](https://copyninja.in)
+ - date published: 2024-03-12T07:16:44.822138+00:00
+ - user: None
+ - tags: []
+
 ## Deepak’s Views
  - [https://deepak365.in](https://deepak365.in)
  - date published: 2023-12-02T21:17:15.760832+00:00
@@ -2064,6 +2244,12 @@
 ## Latest News, Breaking News Today - Entertainment, Cricket, Business, Politics - IndiaToday
  - [https://www.indiatoday.in](https://www.indiatoday.in)
  - date published: 2023-12-22T16:22:59.946435+00:00
+ - user: None
+ - tags: []
+
+## InJuly – Home
+ - [https://injuly.in](https://injuly.in)
+ - date published: 2024-03-12T11:56:50.817845+00:00
  - user: None
  - tags: []
 
@@ -3052,14 +3238,14 @@
  - tags: []
 
 ## ∑ Xah Code
- - [https://xahlee.info](https://xahlee.info)
- - date published: 2024-01-29T11:11:38+00:00
+ - [http://xahlee.info](http://xahlee.info)
+ - date published: 2023-10-25T19:35:40.088312+00:00
  - user: rumpel
  - tags: []
 
 ## ∑ Xah Code
- - [http://xahlee.info](http://xahlee.info)
- - date published: 2023-10-25T19:35:40.088312+00:00
+ - [https://xahlee.info](https://xahlee.info)
+ - date published: 2024-01-29T11:11:38+00:00
  - user: rumpel
  - tags: []
 
@@ -3340,14 +3526,14 @@
  - tags: []
 
 ## American Express Technology
- - [https://americanexpress.io](https://americanexpress.io)
- - date published: 2023-10-25T19:37:33.148951+00:00
+ - [http://americanexpress.io](http://americanexpress.io)
+ - date published: 2024-02-25T14:44:25.925967+00:00
  - user: None
  - tags: []
 
 ## American Express Technology
- - [http://americanexpress.io](http://americanexpress.io)
- - date published: 2024-02-25T14:44:25.925967+00:00
+ - [https://americanexpress.io](https://americanexpress.io)
+ - date published: 2023-10-25T19:37:33.148951+00:00
  - user: None
  - tags: []
 
@@ -4876,14 +5062,14 @@
  - tags: []
 
 ## Alex Anderson
- - [https://alexanderganderson.github.io](https://alexanderganderson.github.io)
- - date published: 2023-10-25T19:43:55.830822+00:00
+ - [http://alexanderganderson.github.io](http://alexanderganderson.github.io)
+ - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Alex Anderson
- - [http://alexanderganderson.github.io](http://alexanderganderson.github.io)
- - date published: 2016-01-01T00:00:00+00:00
+ - [https://alexanderganderson.github.io](https://alexanderganderson.github.io)
+ - date published: 2023-10-25T19:43:55.830822+00:00
  - user: None
  - tags: []
 
@@ -5815,193 +6001,6 @@ through Composable Diffusion
 ## Generative Image Dynamics
  - [https://generative-dynamics.github.io](https://generative-dynamics.github.io)
  - date published: 2023-10-25T19:45:45.988886+00:00
- - user: None
- - tags: []
-
-## Gimel Studio – Open source, non-destructive 2D image graphics editor
- - [https://gimelstudio.github.io](https://gimelstudio.github.io)
- - date published: 2023-10-25T19:45:52.208036+00:00
- - user: None
- - tags: []
-
-## Goodness’s blog
- - [https://goodyduru.github.io](https://goodyduru.github.io)
- - date published: 2023-10-25T08:59:09.136861+00:00
- - user: None
- - tags: ['personal']
-
-## Redirecting to https://github.com/google
- - [https://google.github.io](https://google.github.io)
- - date published: 2023-10-25T19:45:53.263770+00:00
- - user: None
- - tags: []
-
-## gPodder:
-      Media aggregator and podcast client
- - [https://gpodder.github.io](https://gpodder.github.io)
- - date published: 2023-10-25T19:45:54.620928+00:00
- - user: None
- - tags: []
-
-## grantsh | Main
- - [https://grantshandy.github.io](https://grantshandy.github.io)
- - date published: 2023-10-25T19:45:55.822501+00:00
- - user: None
- - tags: []
-
-## Grazfather
- - [https://grazfather.github.io](https://grazfather.github.io)
- - date published: 2023-10-25T19:45:58.510433+00:00
- - user: None
- - tags: []
-
-## Prompt Injections are bad, mkay?
- - [https://greshake.github.io](https://greshake.github.io)
- - date published: 2023-10-25T19:46:02.223136+00:00
- - user: None
- - tags: []
-
-## Natural Intelligence
- - [https://greydanus.github.io](https://greydanus.github.io)
- - date published: 2023-10-25T19:46:04.585065+00:00
- - user: None
- - tags: []
-
-## grondilu's web experiments
- - [https://grondilu.github.io](https://grondilu.github.io)
- - date published: 2024-03-10T19:37:13.766060+00:00
- - user: None
- - tags: []
-
-## Hacker OPSEC
- - [https://grugq.github.io](https://grugq.github.io)
- - date published: 2023-10-25T19:46:06.910969+00:00
- - user: None
- - tags: []
-
-## GTFOBins
- - [https://gtfobins.github.io](https://gtfobins.github.io)
- - date published: 2023-10-25T19:46:18.630004+00:00
- - user: None
- - tags: []
-
-## Jure Šorn
- - [https://gto76.github.io](https://gto76.github.io)
- - date published: 2023-10-25T19:46:20.114469+00:00
- - user: None
- - tags: []
-
-## Guanjun Wu (吴官骏)'s Homepage
- - [https://guanjunwu.github.io](https://guanjunwu.github.io)
- - date published: 2023-10-25T19:46:21.642985+00:00
- - user: None
- - tags: []
-
-## Guocheng Qian
- - [https://guochengqian.github.io](https://guochengqian.github.io)
- - date published: 2023-10-25T19:46:23.779318+00:00
- - user: None
- - tags: []
-
-## Guy Tevet
- - [https://guytevet.github.io](https://guytevet.github.io)
- - date published: 2023-10-25T19:46:25.309837+00:00
- - user: None
- - tags: []
-
-## None
- - [https://gvwilson.github.io](https://gvwilson.github.io)
- - date published: 2024-02-06T22:57:07.442209+00:00
- - user: None
- - tags: []
-
-## Hamed Haddadi – Imperial College London & Brave Software
- - [https://haddadi.github.io](https://haddadi.github.io)
- - date published: 2023-10-25T19:46:27.415612+00:00
- - user: None
- - tags: []
-
-## David Wakeham – QML researcher
- - [https://hapax.github.io](https://hapax.github.io)
- - date published: 2024-01-07T01:27:17.326366+00:00
- - user: None
- - tags: []
-
-## Comfortably Numbered
- - [https://hardmath123.github.io](https://hardmath123.github.io)
- - date published: 2023-12-28T13:09:27.683625+00:00
- - user: None
- - tags: []
-
-## The Hardware Lottery
- - [https://hardwarelottery.github.io](https://hardwarelottery.github.io)
- - date published: 2023-11-22T10:06:06+00:00
- - user: None
- - tags: []
-
-## Heitor's log
- - [https://heitorpb.github.io](https://heitorpb.github.io)
- - date published: 2023-11-13T11:19:01.522710+00:00
- - user: None
- - tags: []
-
-## helloSystem
- - [https://hellosystem.github.io](https://hellosystem.github.io)
- - date published: 2023-10-25T19:46:28.515239+00:00
- - user: None
- - tags: []
-
-## Hirrolot's Blog
- - [https://hirrolot.github.io](https://hirrolot.github.io)
- - date published: 2023-10-25T19:46:29.955891+00:00
- - user: None
- - tags: []
-
-## Hacker News RSS
- - [https://hnrss.github.io](https://hnrss.github.io)
- - date published: 2020-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Redirecting
- - [https://hse-project.github.io](https://hse-project.github.io)
- - date published: 2023-10-25T19:46:30.418811+00:00
- - user: None
- - tags: []
-
-## GitHub & BitBucket HTML Preview
- - [https://htmlpreview.github.io](https://htmlpreview.github.io)
- - date published: 2023-10-25T19:46:30.908755+00:00
- - user: None
- - tags: []
-
-## https://hughjonesd.github.io
- - [https://hughjonesd.github.io](https://hughjonesd.github.io)
- - date published: 2023-12-30T08:30:49.707192+00:00
- - user: None
- - tags: []
-
-## scott kosman
- - [https://humantorch.github.io](https://humantorch.github.io)
- - date published: 2024-01-16T23:54:10.645629+00:00
- - user: None
- - tags: []
-
-## Huon on the internet
- - [https://huonw.github.io](https://huonw.github.io)
- - date published: 2023-12-30T02:39:56.436386+00:00
- - user: None
- - tags: []
-
-## Krut's Blog
- - [https://iamkroot.github.io](https://iamkroot.github.io)
- - date published: 2023-10-25T19:46:33.488191+00:00
- - user: None
- - tags: []
-
-## THE 25TH INTERNATIONAL CONFERENCE ON ENGINEERING OF COMPLEX COMPUTER SYSTEMS
- - [https://iceccs25th.github.io](https://iceccs25th.github.io)
- - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
 

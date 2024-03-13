@@ -3598,6 +3598,12 @@
  - user: None
  - tags: []
 
+## Newcastle news, sport and weather | Newcastle Herald | Newcastle, NSW
+ - [https://www.newcastleherald.com.au](https://www.newcastleherald.com.au)
+ - date published: 2024-03-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## news.com.au — Australia’s leading news site
  - [https://www.news.com.au](https://www.news.com.au)
  - date published: 2023-12-04T17:36:45.340493+00:00
@@ -3970,6 +3976,12 @@
  - user: None
  - tags: ['personal']
 
+## ABC (Australian Broadcasting Corporation)
+ - [https://abc.net.au](https://abc.net.au)
+ - date published: 2024-03-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## We've got some trouble | 404 - Resource not found
  - [https://amp.abc.net.au](https://amp.abc.net.au)
  - date published: 2000-01-01T00:00:00+00:00
@@ -4115,16 +4127,16 @@
  - tags: ['music band']
 
 ## Home – Zvi Band | Zvi Band
- - [http://zvi.band](http://zvi.band)
- - date published: 2023-12-22T22:31:24.610066+00:00
- - user: None
- - tags: ['personal']
-
-## Home – Zvi Band | Zvi Band
  - [https://zvi.band](https://zvi.band)
  - date published: 2017-09-27T10:32:32+00:00
  - user: None
  - tags: []
+
+## Home – Zvi Band | Zvi Band
+ - [http://zvi.band](http://zvi.band)
+ - date published: 2023-12-22T22:31:24.610066+00:00
+ - user: None
+ - tags: ['personal']
 
 ## https://saucecode.bar
  - [https://saucecode.bar](https://saucecode.bar)
@@ -5984,18 +5996,6 @@
 ## Global News | Breaking, Latest News and Video for Canada
  - [https://globalnews.ca](https://globalnews.ca)
  - date published: 2023-10-25T10:36:35.873873+00:00
- - user: None
- - tags: []
-
-## Home - Global ResearchGlobal Research - Centre for Research on Globalization
- - [https://www.globalresearch.ca](https://www.globalresearch.ca)
- - date published: 2023-10-25T12:05:13.017051+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://adservice.google.ca](https://adservice.google.ca)
- - date published: 2024-01-09T02:27:16.799302+00:00
  - user: None
  - tags: []
 

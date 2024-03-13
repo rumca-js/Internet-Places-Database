@@ -1,3 +1,167 @@
+## Fabian Kleiser
+ - [https://www.fabian-kleiser.de](https://www.fabian-kleiser.de)
+ - date published: 2023-08-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## FACTOR 5
+ - [http://www.factor5.de](http://www.factor5.de)
+ - date published: 2023-11-02T10:55:33.784420+00:00
+ - user: None
+ - tags: ['amiga']
+
+## fantotal.de Onlineshop für Merchandise | CDs Vinyl | Gothic Metal Pun
+ - [https://fantotal.de](https://fantotal.de)
+ - date published: 2023-11-13T09:40:58.541752+00:00
+ - user: None
+ - tags: ['shop', 'music']
+
+## Lemmymap - a lemmy federation map
+ - [https://lemmymap.feddit.de](https://lemmymap.feddit.de)
+ - date published: 2023-10-25T18:30:11.155382+00:00
+ - user: None
+ - tags: []
+
+## felix fisgus | Felix Fisgus
+ - [https://felixfisgus.de](https://felixfisgus.de)
+ - date published: 2023-10-25T18:30:12.186826+00:00
+ - user: None
+ - tags: []
+
+## Felix Geisendörfer
+ - [https://blog.felixge.de](https://blog.felixge.de)
+ - date published: 2023-10-25T18:30:14.021327+00:00
+ - user: None
+ - tags: []
+
+## Fenix Magazin - Početna
+ - [https://fenix-magazin.de](https://fenix-magazin.de)
+ - date published: 2023-10-30T19:00:12.736074+00:00
+ - user: None
+ - tags: []
+
+## feststelltaste – About Legacy Systems, Software Analytics and the Fundamental Problems of Software Engineering
+ - [https://www.feststelltaste.de](https://www.feststelltaste.de)
+ - date published: 2023-10-25T18:30:19.967784+00:00
+ - user: None
+ - tags: []
+
+## Florian Heidenreich – Indie Software Developer from Dresden
+ - [https://fheidenreich.de](https://fheidenreich.de)
+ - date published: 2024-01-07T17:48:40.202500+00:00
+ - user: None
+ - tags: []
+
+## Finanz-Designerin: Finanziell frei in 5 Jahren.
+ - [https://www.finanz-designerin.de](https://www.finanz-designerin.de)
+ - date published: 2024-02-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Formfacade - 
+        
+        Customize Google Forms UI
+ - [https://formfaca.de](https://formfaca.de)
+ - date published: 2024-02-08T22:06:36.088214+00:00
+ - user: None
+ - tags: []
+
+## Nachrichten aus Deutschland und der Welt | Frankfurter Rundschau
+ - [https://www.fr.de](https://www.fr.de)
+ - date published: 2023-11-28T20:39:40+00:00
+ - user: rumpel
+ - tags: ['politic news', 'german news']
+
+## Franzi.Flows - Franzi.Flows
+ - [https://franziflows.de](https://franziflows.de)
+ - date published: 2024-01-11T20:48:30.425372+00:00
+ - user: None
+ - tags: []
+
+## Institute for Digital Medicine -  Fraunhofer MEVIS
+ - [https://mevis.fraunhofer.de](https://mevis.fraunhofer.de)
+ - date published: 2024-02-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Startseite Fraunhofer-Gesellschaft
+ - [https://www.fraunhofer.de](https://www.fraunhofer.de)
+ - date published: 2023-10-25T18:30:27.906517+00:00
+ - user: None
+ - tags: []
+
+## Fraunhofer IISB (English)
+ - [https://www.iisb.fraunhofer.de](https://www.iisb.fraunhofer.de)
+ - date published: 2023-10-25T18:30:29.853786+00:00
+ - user: None
+ - tags: []
+
+## Forschen für die Energiewende - Fraunhofer-Institut für Solare Energiesysteme ISE -  Fraunhofer ISE
+ - [https://www.ise.fraunhofer.de](https://www.ise.fraunhofer.de)
+ - date published: 2023-10-25T18:30:39.964840+00:00
+ - user: None
+ - tags: []
+
+## FRUNC – Schnall den Rucksack um, Ulf. Ich glaub, es geht los!
+ - [https://frunc.de](https://frunc.de)
+ - date published: 2023-10-25T18:30:43.652219+00:00
+ - user: None
+ - tags: []
+
+## Freie Universität Berlin
+ - [https://www.fu-berlin.de](https://www.fu-berlin.de)
+ - date published: 2023-12-09T18:18:33.454348+00:00
+ - user: None
+ - tags: []
+
+## Informatik
+ - [https://www.inf.fu-berlin.de](https://www.inf.fu-berlin.de)
+ - date published: 2024-02-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## John-F.-Kennedy-Institut: Startseite
+ - [https://www.jfki.fu-berlin.de](https://www.jfki.fu-berlin.de)
+ - date published: 2023-10-25T18:30:45.808648+00:00
+ - user: None
+ - tags: []
+
+## German Amiga Community :: Index
+ - [https://www.german-amiga-community.de](https://www.german-amiga-community.de)
+ - date published: 2024-01-09T02:56:14.964245+00:00
+ - user: None
+ - tags: []
+
+## GNU Pascal
+ - [https://www.gnu-pascal.de](https://www.gnu-pascal.de)
+ - date published: 2023-10-25T18:30:47.993234+00:00
+ - user: None
+ - tags: []
+
+## Gorilla Sun
+ - [https://gorillasun.de](https://gorillasun.de)
+ - date published: 2023-10-25T18:30:51.098785+00:00
+ - user: None
+ - tags: []
+
+## Gorilla Sun
+ - [https://www.gorillasun.de](https://www.gorillasun.de)
+ - date published: 2024-02-25T20:31:33.144384+00:00
+ - user: None
+ - tags: []
+
+## Beglaubigung OpenPGP-Schlüssel
+ - [https://pgp.governikus.de](https://pgp.governikus.de)
+ - date published: 2023-10-25T18:30:54.264820+00:00
+ - user: None
+ - tags: []
+
+## Grönauer Infos
+ - [https://www.groenauer-infos.de](https://www.groenauer-infos.de)
+ - date published: 2023-11-16T18:10:42.478283+00:00
+ - user: None
+ - tags: []
+
 ## Personaldienstleister: IT, Engineering, Life Science
  - [https://www.gulp.de](https://www.gulp.de)
  - date published: 2000-01-01T00:00:00+00:00
@@ -389,16 +553,16 @@
  - tags: []
 
 ## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
- - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
- - date published: 2024-02-15T02:00:01.330586+00:00
- - user: None
- - tags: ['video game music']
-
-## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
  - [https://nerdsandgeeks.de](https://nerdsandgeeks.de)
  - date published: 2024-02-15T22:13:44.143200+00:00
  - user: None
  - tags: ['demoscene']
+
+## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
+ - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
+ - date published: 2024-02-15T02:00:01.330586+00:00
+ - user: None
+ - tags: ['video game music']
 
 ## NeuroNagel : Neuroregulation, Neurofeedback, Biofeedback, Mentalsysteme und Mindmachines
  - [https://www.neuronagel.de](https://www.neuronagel.de)
@@ -983,16 +1147,16 @@
  - tags: []
 
 ## WHDLoad
- - [https://www.whdload.de](https://www.whdload.de)
- - date published: 2024-01-23T00:00:00+00:00
- - user: None
- - tags: ['amiga']
-
-## WHDLoad
  - [http://www.whdload.de](http://www.whdload.de)
  - date published: 2024-02-23T00:00:00+00:00
  - user: None
  - tags: []
+
+## WHDLoad
+ - [https://www.whdload.de](https://www.whdload.de)
+ - date published: 2024-01-23T00:00:00+00:00
+ - user: None
+ - tags: ['amiga']
 
 ## Serialized Gedanken
  - [https://valentin.willscher.de](https://valentin.willscher.de)
@@ -2107,14 +2271,14 @@
  - tags: []
 
 ## endtimes.dev
- - [http://endtimes.dev](http://endtimes.dev)
- - date published: 2024-02-26T14:52:45.275010+00:00
+ - [https://endtimes.dev](https://endtimes.dev)
+ - date published: 2023-10-25T18:37:42.008452+00:00
  - user: None
  - tags: []
 
 ## endtimes.dev
- - [https://endtimes.dev](https://endtimes.dev)
- - date published: 2023-10-25T18:37:42.008452+00:00
+ - [http://endtimes.dev](http://endtimes.dev)
+ - date published: 2024-02-26T14:52:45.275010+00:00
  - user: None
  - tags: []
 
@@ -2503,14 +2667,14 @@
  - tags: ['personal']
 
 ## Jakob Serlier's Personal Site
- - [http://jakobs.dev](http://jakobs.dev)
- - date published: 2024-01-15T00:00:00+00:00
+ - [https://jakobs.dev](https://jakobs.dev)
+ - date published: 2024-01-09T01:37:20.973191+00:00
  - user: None
  - tags: []
 
 ## Jakob Serlier's Personal Site
- - [https://jakobs.dev](https://jakobs.dev)
- - date published: 2024-01-09T01:37:20.973191+00:00
+ - [http://jakobs.dev](http://jakobs.dev)
+ - date published: 2024-01-15T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3283,14 +3447,14 @@
  - tags: []
 
 ## Passkey Developer Resources
- - [https://passkeys.dev](https://passkeys.dev)
- - date published: 2023-01-31T00:00:00+00:00
+ - [http://passkeys.dev](http://passkeys.dev)
+ - date published: 2024-02-25T19:46:12.112766+00:00
  - user: None
  - tags: []
 
 ## Passkey Developer Resources
- - [http://passkeys.dev](http://passkeys.dev)
- - date published: 2024-02-25T19:46:12.112766+00:00
+ - [https://passkeys.dev](https://passkeys.dev)
+ - date published: 2023-01-31T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5845,168 +6009,6 @@
 ## Homepage | Hopkins Press
  - [https://press.jhu.edu](https://press.jhu.edu)
  - date published: 2024-02-24T18:07:40.925099+00:00
- - user: None
- - tags: []
-
-## Homepage | Hopkins Press
- - [https://www.press.jhu.edu](https://www.press.jhu.edu)
- - date published: 2023-10-25T18:53:23.816743+00:00
- - user: None
- - tags: []
-
-## Home | SKCTC
- - [https://southeast.kctcs.edu](https://southeast.kctcs.edu)
- - date published: 2024-02-08T16:51:39.792081+00:00
- - user: None
- - tags: []
-
-## Kent Campus | Kent State University Kent State, one of Ohio’s leading public universities
- - [https://www.kent.edu](https://www.kent.edu)
- - date published: 2023-10-25T11:22:42.294245+00:00
- - user: None
- - tags: []
-
-## People
- - [https://people.cs.ksu.edu](https://people.cs.ksu.edu)
- - date published: 2023-10-25T18:53:27.215934+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://en.ktu.edu](https://en.ktu.edu)
- - date published: 2023-12-25T16:53:53.461151+00:00
- - user: None
- - tags: []
-
-## Journals@KU
- - [https://journals.ku.edu](https://journals.ku.edu)
- - date published: 2024-02-17T15:56:43.422549+00:00
- - user: None
- - tags: []
-
-## Featured news and headlines | KU News
- - [https://news.ku.edu](https://news.ku.edu)
- - date published: 2024-02-24T10:01:56.501520+00:00
- - user: None
- - tags: []
-
-## KU Today | The University of Kansas
- - [https://today.ku.edu](https://today.ku.edu)
- - date published: 2023-10-25T18:53:30.550703+00:00
- - user: None
- - tags: []
-
-## Commencement –  | Kalamazoo College
- - [https://commencement.kzoo.edu](https://commencement.kzoo.edu)
- - date published: 2024-02-08T17:31:34.676457+00:00
- - user: None
- - tags: []
-
-## None
- - [https://idioms.languagesystems.edu](https://idioms.languagesystems.edu)
- - date published: 2024-02-08T17:32:14.922710+00:00
- - user: None
- - tags: []
-
-## WeBWorK
- - [https://webwork.latech.edu](https://webwork.latech.edu)
- - date published: 2024-02-08T16:50:39.557450+00:00
- - user: None
- - tags: []
-
-## https://cs.lmu.edu
- - [https://cs.lmu.edu](https://cs.lmu.edu)
- - date published: 2024-01-09T02:59:22.375629+00:00
- - user: None
- - tags: []
-
-## Online Tech Bootcamps | Louisiana State University
- - [https://bootcamp.online.lsu.edu](https://bootcamp.online.lsu.edu)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Electrical & Computer Engineering, Division of
- - [https://www.ece.lsu.edu](https://www.ece.lsu.edu)
- - date published: 2023-10-25T11:24:20.932943+00:00
- - user: None
- - tags: []
-
-## An Introduction to Computer Networks
- - [https://intronetworks.cs.luc.edu](https://intronetworks.cs.luc.edu)
- - date published: 2023-10-25T18:53:42.818300+00:00
- - user: None
- - tags: []
-
-## Mayo Clinic QHS Apps Home Page
- - [https://rtools.mayo.edu](https://rtools.mayo.edu)
- - date published: 2024-02-08T17:32:56.480098+00:00
- - user: None
- - tags: []
-
-## Official Miami Dade College Homepage
- - [https://www.mdc.edu](https://www.mdc.edu)
- - date published: 2023-10-25T11:22:46.236242+00:00
- - user: None
- - tags: []
-
-## Home / EMS
- - [https://minnstate.bookitadmin.minnstate.edu](https://minnstate.bookitadmin.minnstate.edu)
- - date published: 2024-02-08T16:36:57.109155+00:00
- - user: None
- - tags: []
-
-## Show Me Mizzou // University of Missouri
- - [https://showme.missouri.edu](https://showme.missouri.edu)
- - date published: 2024-02-08T18:02:26.036563+00:00
- - user: None
- - tags: []
-
-## aera
- - [https://aera.mit.edu](https://aera.mit.edu)
- - date published: 2023-10-25T18:53:43.612659+00:00
- - user: None
- - tags: []
-
-## MIT MAS.S68 | Generative AI for Constructive Communication
- - [https://ai4comm.media.mit.edu](https://ai4comm.media.mit.edu)
- - date published: 2023-10-25T18:53:45.427456+00:00
- - user: None
- - tags: []
-
-## Home | Architecture
- - [https://architecture.mit.edu](https://architecture.mit.edu)
- - date published: 2024-02-08T22:04:29.437169+00:00
- - user: None
- - tags: []
-
-## Yuan Cao's Homepage
- - [https://caoyuan.scripts.mit.edu](https://caoyuan.scripts.mit.edu)
- - date published: 2024-01-09T01:37:28.741983+00:00
- - user: None
- - tags: []
-
-## Home | MIT Climate Portal
- - [https://climate.mit.edu](https://climate.mit.edu)
- - date published: 2023-10-25T18:53:47.317024+00:00
- - user: None
- - tags: []
-
-## courses.csail.mit.edu
- - [https://courses.csail.mit.edu](https://courses.csail.mit.edu)
- - date published: 2023-10-25T18:53:48.768679+00:00
- - user: None
- - tags: []
-
-## Introduction to Data-Centric AI
- - [https://dcai.csail.mit.edu](https://dcai.csail.mit.edu)
- - date published: 2023-10-25T18:53:49.969803+00:00
- - user: None
- - tags: []
-
-## MIT Press
- - [https://direct.mit.edu](https://direct.mit.edu)
- - date published: 2023-10-25T18:53:52.060229+00:00
  - user: None
  - tags: []
 

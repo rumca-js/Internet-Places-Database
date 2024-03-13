@@ -1,3 +1,165 @@
+## Homepage | Hopkins Press
+ - [https://www.press.jhu.edu](https://www.press.jhu.edu)
+ - date published: 2023-10-25T18:53:23.816743+00:00
+ - user: None
+ - tags: []
+
+## Home | SKCTC
+ - [https://southeast.kctcs.edu](https://southeast.kctcs.edu)
+ - date published: 2024-02-08T16:51:39.792081+00:00
+ - user: None
+ - tags: []
+
+## Kent Campus | Kent State University Kent State, one of Ohio’s leading public universities
+ - [https://www.kent.edu](https://www.kent.edu)
+ - date published: 2023-10-25T11:22:42.294245+00:00
+ - user: None
+ - tags: []
+
+## People
+ - [https://people.cs.ksu.edu](https://people.cs.ksu.edu)
+ - date published: 2023-10-25T18:53:27.215934+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://en.ktu.edu](https://en.ktu.edu)
+ - date published: 2023-12-25T16:53:53.461151+00:00
+ - user: None
+ - tags: []
+
+## Journals@KU
+ - [https://journals.ku.edu](https://journals.ku.edu)
+ - date published: 2024-02-17T15:56:43.422549+00:00
+ - user: None
+ - tags: []
+
+## Featured news and headlines | KU News
+ - [https://news.ku.edu](https://news.ku.edu)
+ - date published: 2024-02-24T10:01:56.501520+00:00
+ - user: None
+ - tags: []
+
+## KU Today | The University of Kansas
+ - [https://today.ku.edu](https://today.ku.edu)
+ - date published: 2023-10-25T18:53:30.550703+00:00
+ - user: None
+ - tags: []
+
+## Commencement –  | Kalamazoo College
+ - [https://commencement.kzoo.edu](https://commencement.kzoo.edu)
+ - date published: 2024-02-08T17:31:34.676457+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://idioms.languagesystems.edu](https://idioms.languagesystems.edu)
+ - date published: 2024-02-08T17:32:14.922710+00:00
+ - user: None
+ - tags: []
+
+## WeBWorK
+ - [https://webwork.latech.edu](https://webwork.latech.edu)
+ - date published: 2024-02-08T16:50:39.557450+00:00
+ - user: None
+ - tags: []
+
+## https://cs.lmu.edu
+ - [https://cs.lmu.edu](https://cs.lmu.edu)
+ - date published: 2024-01-09T02:59:22.375629+00:00
+ - user: None
+ - tags: []
+
+## Online Tech Bootcamps | Louisiana State University
+ - [https://bootcamp.online.lsu.edu](https://bootcamp.online.lsu.edu)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Electrical & Computer Engineering, Division of
+ - [https://www.ece.lsu.edu](https://www.ece.lsu.edu)
+ - date published: 2023-10-25T11:24:20.932943+00:00
+ - user: None
+ - tags: []
+
+## An Introduction to Computer Networks
+ - [https://intronetworks.cs.luc.edu](https://intronetworks.cs.luc.edu)
+ - date published: 2023-10-25T18:53:42.818300+00:00
+ - user: None
+ - tags: []
+
+## Mayo Clinic QHS Apps Home Page
+ - [https://rtools.mayo.edu](https://rtools.mayo.edu)
+ - date published: 2024-02-08T17:32:56.480098+00:00
+ - user: None
+ - tags: []
+
+## Official Miami Dade College Homepage
+ - [https://www.mdc.edu](https://www.mdc.edu)
+ - date published: 2023-10-25T11:22:46.236242+00:00
+ - user: None
+ - tags: []
+
+## Home / EMS
+ - [https://minnstate.bookitadmin.minnstate.edu](https://minnstate.bookitadmin.minnstate.edu)
+ - date published: 2024-02-08T16:36:57.109155+00:00
+ - user: None
+ - tags: []
+
+## Show Me Mizzou // University of Missouri
+ - [https://showme.missouri.edu](https://showme.missouri.edu)
+ - date published: 2024-02-08T18:02:26.036563+00:00
+ - user: None
+ - tags: []
+
+## aera
+ - [https://aera.mit.edu](https://aera.mit.edu)
+ - date published: 2023-10-25T18:53:43.612659+00:00
+ - user: None
+ - tags: []
+
+## MIT MAS.S68 | Generative AI for Constructive Communication
+ - [https://ai4comm.media.mit.edu](https://ai4comm.media.mit.edu)
+ - date published: 2023-10-25T18:53:45.427456+00:00
+ - user: None
+ - tags: []
+
+## Home | Architecture
+ - [https://architecture.mit.edu](https://architecture.mit.edu)
+ - date published: 2024-02-08T22:04:29.437169+00:00
+ - user: None
+ - tags: []
+
+## Yuan Cao's Homepage
+ - [https://caoyuan.scripts.mit.edu](https://caoyuan.scripts.mit.edu)
+ - date published: 2024-01-09T01:37:28.741983+00:00
+ - user: None
+ - tags: []
+
+## Home | MIT Climate Portal
+ - [https://climate.mit.edu](https://climate.mit.edu)
+ - date published: 2023-10-25T18:53:47.317024+00:00
+ - user: None
+ - tags: []
+
+## courses.csail.mit.edu
+ - [https://courses.csail.mit.edu](https://courses.csail.mit.edu)
+ - date published: 2023-10-25T18:53:48.768679+00:00
+ - user: None
+ - tags: []
+
+## Introduction to Data-Centric AI
+ - [https://dcai.csail.mit.edu](https://dcai.csail.mit.edu)
+ - date published: 2023-10-25T18:53:49.969803+00:00
+ - user: None
+ - tags: []
+
+## MIT Press
+ - [https://direct.mit.edu](https://direct.mit.edu)
+ - date published: 2023-10-25T18:53:52.060229+00:00
+ - user: None
+ - tags: []
+
 ## DSpace@MIT Home
  - [https://dspace.mit.edu](https://dspace.mit.edu)
  - date published: 2023-10-25T18:53:53.742765+00:00
@@ -749,14 +911,14 @@
  - tags: []
 
 ## Stanford Artificial Intelligence Laboratory
- - [https://ai.stanford.edu](https://ai.stanford.edu)
- - date published: 2023-10-25T18:58:06.440600+00:00
+ - [http://ai.stanford.edu](http://ai.stanford.edu)
+ - date published: 2024-02-26T14:41:27.710205+00:00
  - user: None
  - tags: []
 
 ## Stanford Artificial Intelligence Laboratory
- - [http://ai.stanford.edu](http://ai.stanford.edu)
- - date published: 2024-02-26T14:41:27.710205+00:00
+ - [https://ai.stanford.edu](https://ai.stanford.edu)
+ - date published: 2023-10-25T18:58:06.440600+00:00
  - user: None
  - tags: []
 
@@ -1201,6 +1363,12 @@
 ## Accessibility Research Collective
  - [https://accessibility.ics.uci.edu](https://accessibility.ics.uci.edu)
  - date published: 2022-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://news.uci.edu](https://news.uci.edu)
+ - date published: 2024-03-12T20:01:51.680591+00:00
  - user: None
  - tags: []
 
@@ -2587,14 +2755,14 @@
  - tags: []
 
 ## Buttondown
- - [https://buttondown.email](https://buttondown.email)
- - date published: 2023-10-25T19:07:12.851726+00:00
+ - [http://buttondown.email](http://buttondown.email)
+ - date published: 2024-01-23T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Buttondown
- - [http://buttondown.email](http://buttondown.email)
- - date published: 2024-01-23T00:00:00+00:00
+ - [https://buttondown.email](https://buttondown.email)
+ - date published: 2023-10-25T19:07:12.851726+00:00
  - user: None
  - tags: []
 
@@ -3852,17 +4020,17 @@
  - user: None
  - tags: ['personal']
 
-## https://jope.fi
- - [https://jope.fi](https://jope.fi)
- - date published: 2024-01-11T00:42:53.136432+00:00
- - user: None
- - tags: []
-
 ## The X-Copy Shrine
  - [http://jope.fi/xcopy/index.html](http://jope.fi/xcopy/index.html)
  - date published: 2024-02-06T13:38:25.181349+00:00
  - user: rumpel
  - tags: ['amiga', 'x-copy']
+
+## https://jope.fi
+ - [https://jope.fi](https://jope.fi)
+ - date published: 2024-01-11T00:42:53.136432+00:00
+ - user: None
+ - tags: []
 
 ## Ville Jouppi
  - [http://jope.fi](http://jope.fi)
@@ -3877,13 +4045,13 @@
  - tags: []
 
 ## None
- - [http://kaaosradio.fi](http://kaaosradio.fi)
+ - [https://kaaosradio.fi](https://kaaosradio.fi)
  - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://kaaosradio.fi](https://kaaosradio.fi)
+ - [http://kaaosradio.fi](http://kaaosradio.fi)
  - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -3897,6 +4065,12 @@
 ## blog.liw.fi
  - [https://blog.liw.fi](https://blog.liw.fi)
  - date published: 2023-10-25T19:13:29.587685+00:00
+ - user: None
+ - tags: []
+
+## Lars Wirzenius
+ - [https://liw.fi](https://liw.fi)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3919,14 +4093,14 @@
  - tags: []
 
 ## Spotify - Web Player: Music for everyone
- - [http://spoti.fi](http://spoti.fi)
- - date published: 2024-01-21T19:14:58.231822+00:00
+ - [https://spoti.fi](https://spoti.fi)
+ - date published: 2024-01-22T07:43:20.742120+00:00
  - user: None
  - tags: []
 
 ## Spotify - Web Player: Music for everyone
- - [https://spoti.fi](https://spoti.fi)
- - date published: 2024-01-22T07:43:20.742120+00:00
+ - [http://spoti.fi](http://spoti.fi)
+ - date published: 2024-01-21T19:14:58.231822+00:00
  - user: None
  - tags: []
 
@@ -4887,16 +5061,16 @@
  - tags: []
 
 ## Radio Admin
- - [http://manager8.streamradio.fr](http://manager8.streamradio.fr)
- - date published: 2024-02-15T01:59:51.771043+00:00
- - user: None
- - tags: []
-
-## Radio Admin
  - [https://manager8.streamradio.fr](https://manager8.streamradio.fr)
  - date published: 2024-02-15T22:13:33.848738+00:00
  - user: None
  - tags: ['demoscene']
+
+## Radio Admin
+ - [http://manager8.streamradio.fr](http://manager8.streamradio.fr)
+ - date published: 2024-02-15T01:59:51.771043+00:00
+ - user: None
+ - tags: []
 
 ## SunEstra
  - [https://sunestra.fr](https://sunestra.fr)
@@ -5079,14 +5253,14 @@
  - tags: []
 
 ## jade's www site
- - [http://jade.fyi](http://jade.fyi)
- - date published: 2024-01-27T00:00:00+00:00
+ - [https://jade.fyi](https://jade.fyi)
+ - date published: 2024-01-09T18:46:42.354724+00:00
  - user: None
  - tags: []
 
 ## jade's www site
- - [https://jade.fyi](https://jade.fyi)
- - date published: 2024-01-09T18:46:42.354724+00:00
+ - [http://jade.fyi](http://jade.fyi)
+ - date published: 2024-01-27T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5618,15 +5792,15 @@
  - user: None
  - tags: []
 
-## The Keyword | Google Product and Technology News and Stories
- - [https://blog.google](https://blog.google)
- - date published: 2023-10-25T11:29:32.894232+00:00
- - user: None
- - tags: []
-
 ## The Keyword
  - [http://blog.google](http://blog.google)
  - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Keyword | Google Product and Technology News and Stories
+ - [https://blog.google](https://blog.google)
+ - date published: 2023-10-25T11:29:32.894232+00:00
  - user: None
  - tags: []
 
@@ -5637,16 +5811,16 @@
  - tags: []
 
 ## Google DeepMind
- - [http://deepmind.google](http://deepmind.google)
- - date published: 2024-02-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Google DeepMind
  - [https://deepmind.google](https://deepmind.google)
  - date published: 2023-11-14T16:38:56.541975+00:00
  - user: None
  - tags: ['artificial intelligence']
+
+## Google DeepMind
+ - [http://deepmind.google](http://deepmind.google)
+ - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Google Domains | Official Site – Google Domains
  - [https://domains.google](https://domains.google)
@@ -5833,178 +6007,4 @@
  - date published: 2023-10-25T19:18:41.700248+00:00
  - user: None
  - tags: ['cyber defender agency', 'cybersecurity']
-
-## https://cde.ucr.cjis.gov
- - [https://cde.ucr.cjis.gov](https://cde.ucr.cjis.gov)
- - date published: 2023-11-12T13:04:34.470969+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://www.commerce.gov](https://www.commerce.gov)
- - date published: 2023-11-01T19:47:55.173039+00:00
- - user: None
- - tags: []
-
-## Congress.gov API
- - [https://api.congress.gov](https://api.congress.gov)
- - date published: 2023-10-25T19:19:12.540417+00:00
- - user: None
- - tags: []
-
-## https://www.congress.gov
- - [https://www.congress.gov](https://www.congress.gov)
- - date published: 2023-10-25T19:19:13.544364+00:00
- - user: None
- - tags: []
-
-## Consumer Financial Protection Bureau
- - [https://www.consumerfinance.gov](https://www.consumerfinance.gov)
- - date published: 2023-10-25T19:19:22.686885+00:00
- - user: None
- - tags: []
-
-## U.S. Copyright Office | U.S. Copyright Office
- - [https://www.copyright.gov](https://www.copyright.gov)
- - date published: 2023-11-01T08:43:34.224069+00:00
- - user: None
- - tags: []
-
-## CPSC.gov
- - [https://www.cpsc.gov](https://www.cpsc.gov)
- - date published: 2023-10-25T19:19:28.555283+00:00
- - user: None
- - tags: []
-
-## Chief Information Officer - U.S. Department of Defense
- - [https://dodcio.defense.gov](https://dodcio.defense.gov)
- - date published: 2024-01-09T03:30:24.563437+00:00
- - user: None
- - tags: []
-
-## U.S. Department of Defense
- - [https://media.defense.gov](https://media.defense.gov)
- - date published: 2023-10-25T19:19:33.802662+00:00
- - user: None
- - tags: []
-
-## U.S. Department of Defense
- - [https://www.defense.gov](https://www.defense.gov)
- - date published: 2023-10-25T19:19:38.874037+00:00
- - user: None
- - tags: ['military', 'security intelligence']
-
-## Home - Delaware General Assembly
- - [https://legis.delaware.gov](https://legis.delaware.gov)
- - date published: 2023-10-25T19:19:49.711045+00:00
- - user: None
- - tags: []
-
-## Delta County
- - [https://deltacountymi.gov](https://deltacountymi.gov)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home | Homeland Security
- - [https://www.dhs.gov](https://www.dhs.gov)
- - date published: 2023-10-25T19:19:55.186821+00:00
- - user: None
- - tags: []
-
-## USWDS: The United States Web Design System | U.S. Web Design System (USWDS)
- - [https://designsystem.digital.gov](https://designsystem.digital.gov)
- - date published: 2023-10-25T19:20:02.198655+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.dni.gov](https://www.dni.gov)
- - date published: 2023-10-25T19:20:05.412646+00:00
- - user: None
- - tags: []
-
-## BIS Website
- - [https://www.bis.doc.gov](https://www.bis.doc.gov)
- - date published: 2023-10-25T19:20:19.432638+00:00
- - user: None
- - tags: []
-
-## Home | U.S. Department of Labor
- - [https://www.dol.gov](https://www.dol.gov)
- - date published: 2023-10-25T19:20:24.712207+00:00
- - user: None
- - tags: []
-
-## Federal Highway Administration
- - [https://highways.dot.gov](https://highways.dot.gov)
- - date published: 2023-10-25T19:20:28.006537+00:00
- - user: None
- - tags: []
-
-## ERIC - Education Resources Information Center
- - [https://files.eric.ed.gov](https://files.eric.ed.gov)
- - date published: 2023-10-25T19:20:29.057582+00:00
- - user: None
- - tags: []
-
-## Homepage - U.S. Energy Information Administration (EIA)
- - [https://www.eia.gov](https://www.eia.gov)
- - date published: 2023-10-25T19:20:38.108192+00:00
- - user: None
- - tags: []
-
-## Department of Energy
- - [https://www.energy.gov](https://www.energy.gov)
- - date published: 2023-10-25T19:20:40.502538+00:00
- - user: None
- - tags: []
-
-## U.S. Environmental Protection Agency | US EPA
- - [https://www.epa.gov](https://www.epa.gov)
- - date published: 2023-10-25T19:20:46.144373+00:00
- - user: None
- - tags: []
-
-## Federal Aviation Administration
- - [https://www.faa.gov](https://www.faa.gov)
- - date published: 2023-10-25T11:20:33.122723+00:00
- - user: None
- - tags: ['aviation', 'avionics', 'do-178c', 'aerospace', 'do-178b']
-
-## https://www.fly.faa.gov
- - [https://www.fly.faa.gov](https://www.fly.faa.gov)
- - date published: 2024-01-09T03:30:25.266620+00:00
- - user: None
- - tags: []
-
-## None
- - [https://fatherhood.gov](https://fatherhood.gov)
- - date published: 2023-12-29T00:50:12.445423+00:00
- - user: None
- - tags: []
-
-## Welcome to the LEB website — LEB
- - [https://leb.fbi.gov](https://leb.fbi.gov)
- - date published: 2023-10-25T10:47:03.596512+00:00
- - user: None
- - tags: []
-
-## Welcome to fbi.gov — FBI
- - [https://www.fbi.gov](https://www.fbi.gov)
- - date published: 2023-10-25T19:20:52.514388+00:00
- - user: None
- - tags: ['fbi', 'government', 'crime']
-
-## 403 Forbidden
- - [https://docs.fcc.gov](https://docs.fcc.gov)
- - date published: 2023-10-25T19:20:53.694947+00:00
- - user: None
- - tags: []
-
-## Federal Communications Commission | The United States of America
- - [https://www.fcc.gov](https://www.fcc.gov)
- - date published: 2023-10-25T19:21:01.719932+00:00
- - user: None
- - tags: []
 

@@ -1,3 +1,267 @@
+## viXra.org open e-Print archive
+ - [https://vixra.org](https://vixra.org)
+ - date published: 2023-10-25T22:17:44.457600+00:00
+ - user: None
+ - tags: []
+
+## viXra.org open e-Print archive
+ - [http://vixra.org](http://vixra.org)
+ - date published: 2019-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## VLDB Endowment Inc.
+ - [https://vldb.org](https://vldb.org)
+ - date published: 2023-10-25T22:17:46.407190+00:00
+ - user: None
+ - tags: []
+
+## VOGONS
+ - [https://www.vogons.org](https://www.vogons.org)
+ - date published: 2023-10-25T22:17:48.197911+00:00
+ - user: None
+ - tags: ['internet forum', 'retro games']
+
+## Nathaniel J. Smith: Academic homepage
+ - [https://vorpus.org](https://vorpus.org)
+ - date published: 2023-10-25T22:17:48.895824+00:00
+ - user: None
+ - tags: []
+
+## The VPSNode Blog
+ - [https://blog.vpsnode.org](https://blog.vpsnode.org)
+ - date published: 2024-02-26T14:22:38.494981+00:00
+ - user: None
+ - tags: []
+
+## VQR Online | A National Journal of Literature & Discussion
+ - [https://www.vqronline.org](https://www.vqronline.org)
+ - date published: 2023-10-25T22:17:51.725128+00:00
+ - user: None
+ - tags: []
+
+## Home page - VSQUARE.ORG
+ - [https://vsquare.org](https://vsquare.org)
+ - date published: 2023-10-25T22:17:54.062301+00:00
+ - user: None
+ - tags: []
+
+## The Vintage Technology Digital Archive
+ - [https://vtda.org](https://vtda.org)
+ - date published: 2023-10-25T22:17:59.666651+00:00
+ - user: None
+ - tags: []
+
+## VTDigger - News in pursuit of truth
+ - [https://vtdigger.org](https://vtdigger.org)
+ - date published: 2024-01-02T09:03:37.832643+00:00
+ - user: None
+ - tags: []
+
+## Redirect Notice
+ - [https://docs.vulkan.org](https://docs.vulkan.org)
+ - date published: 2023-10-25T22:18:00.222735+00:00
+ - user: None
+ - tags: []
+
+## Home | Vulkan | Cross platform 3D Graphics
+ - [https://www.vulkan.org](https://www.vulkan.org)
+ - date published: 2024-02-26T16:08:59+00:00
+ - user: rumpel
+ - tags: ['video graphic library', 'opengl']
+
+## VUMC Reporter
+ - [https://news.vumc.org](https://news.vumc.org)
+ - date published: 2023-12-09T12:38:26.245882+00:00
+ - user: None
+ - tags: []
+
+## vuxu.org: Welcome to vuxu.org
+ - [https://vuxu.org](https://vuxu.org)
+ - date published: 2010-01-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## REST API Handbook | WordPress Developer Resources
+ - [https://api.w.org](https://api.w.org)
+ - date published: 2023-12-11T15:38:03.840242+00:00
+ - user: None
+ - tags: ['wordpress']
+
+## Blog Tool, Publishing Platform, and CMS - WordPress.org
+ - [https://s.w.org](https://s.w.org)
+ - date published: 2023-12-13T15:40:25.310964+00:00
+ - user: None
+ - tags: ['wordpress']
+
+## Blog Tool, Publishing Platform, and CMS - WordPress.org
+ - [https://w.org](https://w.org)
+ - date published: 2023-12-08T13:22:13+00:00
+ - user: rumpel
+ - tags: []
+
+## W3C
+ - [https://beta.w3.org](https://beta.w3.org)
+ - date published: 2023-10-25T22:18:02.678538+00:00
+ - user: None
+ - tags: ['html', 'standards', 'css']
+
+## Jigsaw Overview
+ - [https://jigsaw.w3.org](https://jigsaw.w3.org)
+ - date published: 2023-12-11T18:58:53.178352+00:00
+ - user: None
+ - tags: []
+
+## W3C Public mailing list archives
+ - [https://lists.w3.org](https://lists.w3.org)
+ - date published: 2023-10-25T22:18:33.690977+00:00
+ - user: None
+ - tags: []
+
+## The W3C Markup Validation Service
+ - [https://validator.w3.org](https://validator.w3.org)
+ - date published: 2023-12-06T09:55:45+00:00
+ - user: rumpel
+ - tags: ['standards', 'html', 'online validation', 'online tool']
+
+## W3C
+ - [https://www.w3.org](https://www.w3.org)
+ - date published: 2023-10-25T22:18:35.833687+00:00
+ - user: None
+ - tags: ['html', 'standards', 'css']
+
+## None
+ - [https://www.w3c.org](https://www.w3c.org)
+ - date published: 2024-01-09T03:43:02.582200+00:00
+ - user: None
+ - tags: []
+
+## Home - WABE
+ - [https://www.wabe.org](https://www.wabe.org)
+ - date published: 2024-03-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Wait Until 8th
+ - [https://www.waituntil8th.org](https://www.waituntil8th.org)
+ - date published: 2023-10-25T22:18:38.042000+00:00
+ - user: None
+ - tags: []
+
+## Start
+ - [https://warsawsecurityforum.org](https://warsawsecurityforum.org)
+ - date published: 2024-01-30T02:05:18.103947+00:00
+ - user: None
+ - tags: []
+
+## WASM-4
+ - [https://wasm4.org](https://wasm4.org)
+ - date published: 2023-10-25T22:18:39.853991+00:00
+ - user: None
+ - tags: []
+
+## WasmEdge
+ - [https://wasmedge.org](https://wasmedge.org)
+ - date published: 2023-10-25T22:18:41.772980+00:00
+ - user: None
+ - tags: []
+
+## WaterwayMap.org | OSM River Basins
+ - [https://waterwaymap.org](https://waterwaymap.org)
+ - date published: 2023-04-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Waxy.org - Andy Baio lives here
+ - [https://waxy.org](https://waxy.org)
+ - date published: 2023-10-25T22:18:46.328432+00:00
+ - user: None
+ - tags: []
+
+## Wayfire
+ - [https://wayfire.org](https://wayfire.org)
+ - date published: 2023-10-25T22:18:47.793906+00:00
+ - user: None
+ - tags: []
+
+## WBAI Radio 99.5FM NYC
+ - [https://wbai.org](https://wbai.org)
+ - date published: 2024-01-22T00:00:00+00:00
+ - user: rumpel
+ - tags: ['free speech radio']
+
+## WBEZ | Chicago's NPR News Source
+ - [https://www.wbez.org](https://www.wbez.org)
+ - date published: 2023-12-23T15:29:48.836182+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://rss.wbur.org](https://rss.wbur.org)
+ - date published: 2024-02-25T20:40:25.389624+00:00
+ - user: None
+ - tags: []
+
+## WBUR
+ - [https://www.wbur.org](https://www.wbur.org)
+ - date published: 2023-10-25T22:19:31.902189+00:00
+ - user: None
+ - tags: []
+
+## Webamp · Winamp 2 in your browser
+ - [https://webamp.org](https://webamp.org)
+ - date published: 2023-10-25T22:19:32.574660+00:00
+ - user: None
+ - tags: []
+
+## Webb Home
+ - [https://webbtelescope.org](https://webbtelescope.org)
+ - date published: 2023-10-25T22:19:34.651102+00:00
+ - user: None
+ - tags: []
+
+## WebGL2 Fundamentals
+ - [https://webgl2fundamentals.org](https://webgl2fundamentals.org)
+ - date published: 2023-10-25T22:19:36.392646+00:00
+ - user: None
+ - tags: []
+
+## web-goddess
+ - [https://www.web-goddess.org](https://www.web-goddess.org)
+ - date published: 2024-01-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## WebGPU Fundamentals
+ - [https://webgpufundamentals.org](https://webgpufundamentals.org)
+ - date published: 2023-10-25T22:19:37.466580+00:00
+ - user: None
+ - tags: []
+
+## The World Wide Web History Project
+ - [http://1997.webhistory.org](http://1997.webhistory.org)
+ - date published: 2023-10-25T22:19:38.470554+00:00
+ - user: None
+ - tags: []
+
+## Bugzilla Main Page
+ - [https://bugs.webkit.org](https://bugs.webkit.org)
+ - date published: 2023-10-25T22:19:39.612366+00:00
+ - user: None
+ - tags: []
+
+## WebKit
+ - [https://webkit.org](https://webkit.org)
+ - date published: 2023-10-25T22:19:41.698798+00:00
+ - user: None
+ - tags: ['open source']
+
+## Web Monetization
+ - [https://webmonetization.org](https://webmonetization.org)
+ - date published: 2023-10-25T22:19:42.833645+00:00
+ - user: None
+ - tags: []
+
 ## WebPageTest Blog
  - [https://blog.webpagetest.org](https://blog.webpagetest.org)
  - date published: 2023-10-25T22:19:43.863277+00:00
@@ -251,16 +515,16 @@
  - tags: []
 
 ## Wikipedia, the free encyclopedia
- - [https://en.wikipedia.org](https://en.wikipedia.org)
- - date published: 2023-10-25T09:28:43.251880+00:00
- - user: None
- - tags: ['demoscene']
-
-## Wikipedia, the free encyclopedia
  - [http://en.wikipedia.org](http://en.wikipedia.org)
  - date published: 2024-02-26T14:33:11.388403+00:00
  - user: None
  - tags: []
+
+## Wikipedia, the free encyclopedia
+ - [https://en.wikipedia.org](https://en.wikipedia.org)
+ - date published: 2023-10-25T09:28:43.251880+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Wikipédia, l'encyclopédie libre
  - [https://fr.wikipedia.org](https://fr.wikipedia.org)
@@ -380,7 +644,7 @@
  - [https://winmerge.org](https://winmerge.org)
  - date published: 2024-03-02T11:27:31+00:00
  - user: rumpel
- - tags: ['program', 'file compare']
+ - tags: ['program', 'open source', 'file compare']
 
 ## EFNet #Winprog
  - [http://www.winprog.org](http://www.winprog.org)
@@ -809,14 +1073,14 @@
  - tags: []
 
 ## zephoria
- - [https://www.zephoria.org](https://www.zephoria.org)
- - date published: 2024-01-29T00:09:01.945068+00:00
+ - [http://www.zephoria.org](http://www.zephoria.org)
+ - date published: 2024-01-23T19:05:01.547444+00:00
  - user: None
  - tags: []
 
 ## zephoria
- - [http://www.zephoria.org](http://www.zephoria.org)
- - date published: 2024-01-23T19:05:01.547444+00:00
+ - [https://www.zephoria.org](https://www.zephoria.org)
+ - date published: 2024-01-29T00:09:01.945068+00:00
  - user: None
  - tags: []
 
@@ -936,14 +1200,14 @@ Zig Programming Language
  - tags: []
 
 ## Ben Borgers
- - [https://ben.page](https://ben.page)
- - date published: 2024-01-09T17:04:04.047326+00:00
+ - [http://ben.page](http://ben.page)
+ - date published: 2024-01-09T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Ben Borgers
- - [http://ben.page](http://ben.page)
- - date published: 2024-01-09T00:00:00+00:00
+ - [https://ben.page](https://ben.page)
+ - date published: 2024-01-09T17:04:04.047326+00:00
  - user: None
  - tags: []
 
@@ -978,14 +1242,14 @@ Zig Programming Language
  - tags: []
 
 ## Lup Yuen LEE
- - [http://lupyuen.codeberg.page](http://lupyuen.codeberg.page)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://lupyuen.codeberg.page](https://lupyuen.codeberg.page)
+ - date published: 2023-10-25T22:24:23.126536+00:00
  - user: None
  - tags: []
 
 ## Lup Yuen LEE
- - [https://lupyuen.codeberg.page](https://lupyuen.codeberg.page)
- - date published: 2023-10-25T22:24:23.126536+00:00
+ - [http://lupyuen.codeberg.page](http://lupyuen.codeberg.page)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3984,15 +4248,15 @@ is forbidden
  - user: None
  - tags: []
 
-## NetDrive: another storage option for retro computing
- - [http://www.swiat-owocow.pl](http://www.swiat-owocow.pl)
- - date published: 2024-02-26T15:15:10.395247+00:00
- - user: None
- - tags: []
-
 ## Designing a system resistant to data disclosure
  - [https://www.swiat-owocow.pl](https://www.swiat-owocow.pl)
  - date published: 2023-12-13T15:11:39.344063+00:00
+ - user: None
+ - tags: []
+
+## NetDrive: another storage option for retro computing
+ - [http://www.swiat-owocow.pl](http://www.swiat-owocow.pl)
+ - date published: 2024-02-26T15:15:10.395247+00:00
  - user: None
  - tags: []
 
@@ -5336,16 +5600,16 @@ is forbidden
  - tags: []
 
 ## Radiominor.ru - на волне хорошей музыки
- - [https://radiominor.ru](https://radiominor.ru)
- - date published: 2024-02-15T22:13:56.565784+00:00
- - user: None
- - tags: ['demoscene']
-
-## Radiominor.ru - на волне хорошей музыки
  - [http://radiominor.ru](http://radiominor.ru)
  - date published: 2024-02-15T02:01:34.442306+00:00
  - user: None
  - tags: []
+
+## Radiominor.ru - на волне хорошей музыки
+ - [https://radiominor.ru](https://radiominor.ru)
+ - date published: 2024-02-15T22:13:56.565784+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Рамблер/картинки
  - [https://images.rambler.ru](https://images.rambler.ru)
@@ -5518,6 +5782,12 @@ is forbidden
 ## https://m.sc
  - [https://m.sc](https://m.sc)
  - date published: 2024-02-08T16:51:58.865083+00:00
+ - user: None
+ - tags: []
+
+## Lightshot — screenshot tool for Mac & Win
+ - [https://prnt.sc](https://prnt.sc)
+ - date published: 2024-03-12T07:16:44.418562+00:00
  - user: None
  - tags: []
 
@@ -5734,280 +6004,6 @@ is forbidden
 ## Linköpings universitet
  - [https://liu.se](https://liu.se)
  - date published: 2023-12-11T08:49:42.906106+00:00
- - user: None
- - tags: []
-
-## Lysator
- - [https://www.lysator.liu.se](https://www.lysator.liu.se)
- - date published: 2024-01-05T22:34:01.576430+00:00
- - user: None
- - tags: []
-
-## Olle Kjellqvist
- - [https://www.ollekjellqvist.se](https://www.ollekjellqvist.se)
- - date published: 2024-01-05T16:51:55.505500+00:00
- - user: None
- - tags: ['personal']
-
-## Omegapoint Security Blog
- - [https://securityblog.omegapoint.se](https://securityblog.omegapoint.se)
- - date published: 2024-01-12T14:14:26.065809+00:00
- - user: None
- - tags: []
-
-## Omni – Alla nyheter. Alla perspektiv.
- - [https://omni.se](https://omni.se)
- - date published: 2023-11-27T14:36:44.798009+00:00
- - user: None
- - tags: []
-
-## Philips - Sverige
- - [https://www.philips.se](https://www.philips.se)
- - date published: 2024-02-08T22:19:52.825885+00:00
- - user: None
- - tags: []
-
-## Erik Rigtorp
- - [https://rigtorp.se](https://rigtorp.se)
- - date published: 2023-10-25T08:57:21.036403+00:00
- - user: None
- - tags: ['personal']
-
-## Startsida
- - [https://www.riksbank.se](https://www.riksbank.se)
- - date published: 2023-12-21T16:25:20.244506+00:00
- - user: None
- - tags: []
-
-## Roxette
- - [https://roxette.se](https://roxette.se)
- - date published: 2023-11-13T10:41:31.975263+00:00
- - user: None
- - tags: ['music band']
-
-## Startsida - Saabklubben
- - [https://saabklubben.se](https://saabklubben.se)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://moscow.sci-hub.se
- - [https://moscow.sci-hub.se](https://moscow.sci-hub.se)
- - date published: 2024-01-09T03:46:46.179878+00:00
- - user: None
- - tags: []
-
-## Sci-Hub: emancipation and democratisation of knowledge
- - [https://sci-hub.se](https://sci-hub.se)
- - date published: 2023-10-25T22:37:28.340599+00:00
- - user: None
- - tags: ['digital library']
-
-## En frilansskribent utöver det vanliga! - Sebastian LIljegren ✍️
- - [https://www.sebastianliljegren.se](https://www.sebastianliljegren.se)
- - date published: 2023-12-27T01:00:25.954543+00:00
- - user: None
- - tags: ['personal']
-
-## Välkommen till Seko
- - [https://www.seko.se](https://www.seko.se)
- - date published: 2023-11-08T15:56:06.434735+00:00
- - user: None
- - tags: []
-
-## Inte så lagom
- - [https://tomscii.sig7.se](https://tomscii.sig7.se)
- - date published: 2023-10-25T22:37:29.269135+00:00
- - user: None
- - tags: []
-
-## Grön Radio
- - [https://gronradio.sm7dlf.se](https://gronradio.sm7dlf.se)
- - date published: 2021-07-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Spelpappan Jimmy Wilhelmsson – Grävande artiklar om datorspel, rollspel, brädspel, nördböcker och serier.
- - [https://spelpappan.se](https://spelpappan.se)
- - date published: 2023-10-25T22:37:31.118951+00:00
- - user: None
- - tags: []
-
-## Stockholms universitet
- - [https://www.su.se](https://www.su.se)
- - date published: 2023-10-25T11:23:47.766606+00:00
- - user: None
- - tags: []
-
-## Sveriges Radio - lokala och rikstäckande radiokanaler
- - [https://sverigesradio.se](https://sverigesradio.se)
- - date published: 2023-10-25T22:37:32.906094+00:00
- - user: None
- - tags: []
-
-## SVT Nyheter
- - [https://www.svt.se](https://www.svt.se)
- - date published: 2023-11-28T17:41:44.561880+00:00
- - user: None
- - tags: []
-
-## SVT Play
- - [https://www.svtplay.se](https://www.svtplay.se)
- - date published: 2024-03-09T20:33:02.211211+00:00
- - user: None
- - tags: []
-
-## Start | Sweden
- - [https://identity.sweden.se](https://identity.sweden.se)
- - date published: 2023-10-25T22:37:34.022899+00:00
- - user: None
- - tags: []
-
-## The Local - Sweden's news in English
- - [https://www.thelocal.se](https://www.thelocal.se)
- - date published: 2023-10-25T22:37:36.940875+00:00
- - user: None
- - tags: []
-
-## Therion | therion
- - [https://www.therion.se](https://www.therion.se)
- - date published: 2023-11-13T09:39:42.327749+00:00
- - user: None
- - tags: ['music band']
-
-## the Swedish Times
- - [https://theswedishtimes.se](https://theswedishtimes.se)
- - date published: 2024-01-09T03:46:48.677501+00:00
- - user: None
- - tags: []
-
-## Tillitis TKey Developer Handbook
- - [https://dev.tillitis.se](https://dev.tillitis.se)
- - date published: 2023-12-25T18:51:42.187765+00:00
- - user: None
- - tags: []
-
-## Tillitis – Tillitis – The creator of TKey, the open source USB security key alternative.
- - [https://www.tillitis.se](https://www.tillitis.se)
- - date published: 2023-10-25T22:37:38.676725+00:00
- - user: None
- - tags: []
-
-## under orion | under orion
- - [https://underorion.se](https://underorion.se)
- - date published: 2023-10-25T22:37:39.888127+00:00
- - user: None
- - tags: []
-
-## Vasamuseet
- - [https://www.vasamuseet.se](https://www.vasamuseet.se)
- - date published: 2023-11-13T13:50:44.430060+00:00
- - user: None
- - tags: ['museum']
-
-## Biltester, bilnyheter, bilforum och test av rostskydd, däck, billjus och andra produkter. | Vi Bilägare
- - [https://www.vibilagare.se](https://www.vibilagare.se)
- - date published: 2023-10-25T22:37:43.874042+00:00
- - user: None
- - tags: []
-
-## VoF – Vetenskap och Folkbildning
- - [https://www.vof.se](https://www.vof.se)
- - date published: 2023-12-23T14:02:33.444509+00:00
- - user: None
- - tags: []
-
-## WebP Cloud Services Blog
- - [https://blog.webp.se](https://blog.webp.se)
- - date published: 2023-10-25T22:37:45.007507+00:00
- - user: None
- - tags: []
-
-## Yingyu’s Blog
- - [https://wingu.se](https://wingu.se)
- - date published: 2023-12-21T14:45:10.691382+00:00
- - user: None
- - tags: []
-
-## DSPM: Data Security at the Speed of Cloud | Dig Security
- - [https://www.dig.security](https://www.dig.security)
- - date published: 2023-10-25T22:37:47.275606+00:00
- - user: None
- - tags: []
-
-## Positive Security - IT Security Research & Consulting
- - [https://positive.security](https://positive.security)
- - date published: 2023-10-25T22:37:48.281104+00:00
- - user: None
- - tags: []
-
-## Positive Security - IT Security Research & Consulting
- - [http://positive.security](http://positive.security)
- - date published: 2024-01-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## A cloud platform to enrich services made with Ergo Framework.
- - [https://cloud.ergo.services](https://cloud.ergo.services)
- - date published: 2023-10-25T22:37:54.772238+00:00
- - user: None
- - tags: []
-
-## Kofi Gumbs
- - [https://kofi.sexy](https://kofi.sexy)
- - date published: 2023-10-25T22:37:55.939601+00:00
- - user: None
- - tags: []
-
-## https://www.businesstimes.com.sg
- - [https://www.businesstimes.com.sg](https://www.businesstimes.com.sg)
- - date published: 2023-10-25T22:37:56.906260+00:00
- - user: None
- - tags: []
-
-## CITROËN Singapore : Passenger Cars and Commercial Vehicles
- - [https://www.citroen.com.sg](https://www.citroen.com.sg)
- - date published: 2023-12-11T16:01:42.984836+00:00
- - user: None
- - tags: []
-
-## Artist,
-Designer And Teacher, Garie Sims', Architectural, Interior Design,
-Polymer Clay classes, clay Miniature, Clay Animation, Art Drawing,
-Cartoon, Illustration, kid's Play Clay workshop, Music And Clay tool
-Art Product Supply
- - [https://www.garieinternational.com.sg](https://www.garieinternational.com.sg)
- - date published: 1998-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Female Gynaecologist & Obstetrician | GynaeMD Women's Clinic Clementi
- - [https://www.gynaemdclementi.com.sg](https://www.gynaemdclementi.com.sg)
- - date published: 2024-02-08T16:45:20.302134+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.ntu.edu.sg](https://www.ntu.edu.sg)
- - date published: 2023-11-18T13:29:25.952064+00:00
- - user: None
- - tags: []
-
-## https://medicine.nus.edu.sg
- - [https://medicine.nus.edu.sg](https://medicine.nus.edu.sg)
- - date published: 2023-11-16T13:52:13.001107+00:00
- - user: None
- - tags: []
-
-## BiblioAsia
- - [https://biblioasia.nlb.gov.sg](https://biblioasia.nlb.gov.sg)
- - date published: 2023-10-25T22:38:00.760584+00:00
- - user: None
- - tags: []
-
-## International News, Analysis, Politics, Business, Technology, Entertainment - IB Times SG Edition
- - [https://www.ibtimes.sg](https://www.ibtimes.sg)
- - date published: 2023-12-04T09:13:30.199869+00:00
  - user: None
  - tags: []
 

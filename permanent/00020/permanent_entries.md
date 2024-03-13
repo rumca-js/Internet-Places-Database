@@ -1,3 +1,219 @@
+## Mikhail Gusarov
+ - [https://dottedmag.net](https://dottedmag.net)
+ - date published: 2023-10-25T09:00:34.520480+00:00
+ - user: None
+ - tags: ['personal']
+
+## doubleagent.net
+ - [https://doubleagent.net](https://doubleagent.net)
+ - date published: 2023-10-25T20:29:18.710543+00:00
+ - user: None
+ - tags: []
+
+## DownloadHelper - Video download browser extension
+ - [https://www.downloadhelper.net](https://www.downloadhelper.net)
+ - date published: 2023-12-26T20:04:49+00:00
+ - user: rumpel
+ - tags: ['browser extension']
+
+## IT Notes
+ - [https://it-notes.dragas.net](https://it-notes.dragas.net)
+ - date published: 2023-10-25T20:29:24.860280+00:00
+ - user: None
+ - tags: []
+
+## duncan­lock­.net
+ - [https://duncanlock.net](https://duncanlock.net)
+ - date published: 2023-10-25T08:57:06.125112+00:00
+ - user: None
+ - tags: ['personal']
+
+## Duncan Mackenzie
+ - [https://www.duncanmackenzie.net](https://www.duncanmackenzie.net)
+ - date published: 2023-10-25T09:26:31.408589+00:00
+ - user: None
+ - tags: ['personal']
+
+## Naming is hard
+ - [https://blog.dureuill.net](https://blog.dureuill.net)
+ - date published: 2024-02-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## TÃ´i lÃ  Duyá»‡t
+ - [https://blog.duyet.net](https://blog.duyet.net)
+ - date published: 2024-02-09T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## Dylan Fitzgerald
+ - [https://dylanfitzgerald.net](https://dylanfitzgerald.net)
+ - date published: 2023-11-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Dylan Foster
+ - [https://dylanfoster.net](https://dylanfoster.net)
+ - date published: 2024-02-08T16:44:43.722208+00:00
+ - user: None
+ - tags: []
+
+## DYNOMIGHT INTERNET WEBSITE
+ - [https://dynomight.net](https://dynomight.net)
+ - date published: 2023-10-25T10:08:18.133719+00:00
+ - user: None
+ - tags: ['substack']
+
+## EarthCam: Construction Camera Solutions, Time-Lapse, Webcams
+ - [https://www.earthcam.net](https://www.earthcam.net)
+ - date published: 2023-10-25T20:29:27.847020+00:00
+ - user: None
+ - tags: []
+
+## Ben Eater
+ - [https://eater.net](https://eater.net)
+ - date published: 2023-10-27T21:33:15.902295+00:00
+ - user: None
+ - tags: []
+
+## edge|emulation | your source for roms
+ - [https://edgeemu.net](https://edgeemu.net)
+ - date published: 2023-10-25T14:21:14.160241+00:00
+ - user: None
+ - tags: ['emulation', 'commodore', 'nintendo', 'sega', 'atari', 'game roms', 'emulator', 'amiga']
+
+## Edward Nevard's Blog
+ - [https://blog.edned.net](https://blog.edned.net)
+ - date published: 2023-10-25T20:29:28.757804+00:00
+ - user: None
+ - tags: []
+
+## Eggspensive
+ - [https://eggspensive.net](https://eggspensive.net)
+ - date published: 2023-10-25T20:29:30.169998+00:00
+ - user: None
+ - tags: []
+
+## e-gry.net
+ - [https://e-gry.net](https://e-gry.net)
+ - date published: 2023-12-13T15:07:10.954747+00:00
+ - user: None
+ - tags: ['video games']
+
+## Świetne Gry Online do pobrania za Darmo na PC
+ - [https://gierki.e-gry.net](https://gierki.e-gry.net)
+ - date published: 2023-12-13T15:07:20.901994+00:00
+ - user: None
+ - tags: []
+
+## Stare gry - stare.e-gry.net
+ - [https://stare.e-gry.net](https://stare.e-gry.net)
+ - date published: 2023-10-29T13:17:57.644528+00:00
+ - user: None
+ - tags: ['games', 'amiga', 'roms', 'commodore', 'retro games']
+
+## Hyperfiddle
+ - [https://dustingetz.electricfiddle.net](https://dustingetz.electricfiddle.net)
+ - date published: 2023-10-25T20:29:30.936289+00:00
+ - user: None
+ - tags: []
+
+## Electrospaces.net
+ - [https://www.electrospaces.net](https://www.electrospaces.net)
+ - date published: 2023-10-25T20:29:39.719378+00:00
+ - user: None
+ - tags: []
+
+## https://elonjet.net
+ - [https://elonjet.net](https://elonjet.net)
+ - date published: 2024-01-09T03:35:24.882684+00:00
+ - user: None
+ - tags: []
+
+## Eloquent JavaScript
+ - [https://eloquentjavascript.net](https://eloquentjavascript.net)
+ - date published: 2023-12-11T12:22:20+00:00
+ - user: rumpel
+ - tags: ['javascript']
+
+## J David Smith | emallson.net
+ - [http://emallson.net](http://emallson.net)
+ - date published: 2024-02-26T14:52:41.699985+00:00
+ - user: None
+ - tags: []
+
+## J David Smith | emallson.net
+ - [https://emallson.net](https://emallson.net)
+ - date published: 2024-01-06T14:44:40.109071+00:00
+ - user: None
+ - tags: []
+
+## Emulator Games - Download Game ROMs
+ - [https://www.emulatorgames.net](https://www.emulatorgames.net)
+ - date published: 2023-10-25T11:10:21.560069+00:00
+ - user: None
+ - tags: ['roms', 'emulation']
+
+## E-Planning
+ - [https://us.img.e-planning.net](https://us.img.e-planning.net)
+ - date published: 2023-12-12T08:11:56.418101+00:00
+ - user: None
+ - tags: []
+
+## https://www.equitrends.net
+ - [https://www.equitrends.net](https://www.equitrends.net)
+ - date published: 2024-02-08T22:06:12.292689+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://ernietheattorney.net](https://ernietheattorney.net)
+ - date published: 2023-11-29T15:29:32.320291+00:00
+ - user: None
+ - tags: ['personal']
+
+## Nectarine Search
+ - [http://nectarine.ers35.net](http://nectarine.ers35.net)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://ersei.net](https://ersei.net)
+ - date published: 2023-10-25T08:52:19.054303+00:00
+ - user: None
+ - tags: ['personal']
+
+## Amiga hry - HOBRing - HWA
+ - [http://hobring.esero.net](http://hobring.esero.net)
+ - date published: 2023-11-02T10:53:22.764084+00:00
+ - user: None
+ - tags: ['amiga']
+
+## Eurogamer.net
+ - [https://www.eurogamer.net](https://www.eurogamer.net)
+ - date published: 1999-10-25T10:50:22+00:00
+ - user: None
+ - tags: ['video game news']
+
+## Eve Silver - Bio, Contact, and More
+ - [https://www.evesilver.net](https://www.evesilver.net)
+ - date published: 2024-02-08T17:36:28.534209+00:00
+ - user: None
+ - tags: []
+
+## Fabien Sanglard's Website
+ - [http://fabiensanglard.net](http://fabiensanglard.net)
+ - date published: 2024-02-25T20:15:26.239827+00:00
+ - user: None
+ - tags: []
+
+## Fabien Sanglard's Website
+ - [https://fabiensanglard.net](https://fabiensanglard.net)
+ - date published: 2023-10-25T09:23:07.412311+00:00
+ - user: None
+ - tags: ['diablo', 'street figher', 'doom', 'quake', 'personal']
+
 ## Log in or sign up to view
  - [https://connect.facebook.net](https://connect.facebook.net)
  - date published: 2023-12-11T16:35:58.837692+00:00
@@ -515,14 +731,14 @@
  - tags: []
 
 ## HEXUS.net - Definitive Technology News and Reviews
- - [https://hexus.net](https://hexus.net)
- - date published: 2023-10-25T20:31:28.683808+00:00
+ - [http://hexus.net](http://hexus.net)
+ - date published: 2024-02-25T20:35:33.294351+00:00
  - user: None
  - tags: []
 
 ## HEXUS.net - Definitive Technology News and Reviews
- - [http://hexus.net](http://hexus.net)
- - date published: 2024-02-25T20:35:33.294351+00:00
+ - [https://hexus.net](https://hexus.net)
+ - date published: 2023-10-25T20:31:28.683808+00:00
  - user: None
  - tags: []
 
@@ -869,14 +1085,14 @@
  - tags: []
 
 ## Jeff Wise – science journalism
- - [http://www.jeffwise.net](http://www.jeffwise.net)
- - date published: 2024-02-25T18:50:47.946888+00:00
+ - [https://www.jeffwise.net](https://www.jeffwise.net)
+ - date published: 2024-01-11T04:04:31.223583+00:00
  - user: None
  - tags: []
 
 ## Jeff Wise – science journalism
- - [https://www.jeffwise.net](https://www.jeffwise.net)
- - date published: 2024-01-11T04:04:31.223583+00:00
+ - [http://www.jeffwise.net](http://www.jeffwise.net)
+ - date published: 2024-02-25T18:50:47.946888+00:00
  - user: None
  - tags: []
 
@@ -1344,14 +1560,14 @@
  - tags: []
 
 ## linusakesson.net
- - [https://www.linusakesson.net](https://www.linusakesson.net)
- - date published: 2023-10-25T20:33:01.198358+00:00
+ - [http://www.linusakesson.net](http://www.linusakesson.net)
+ - date published: 2024-02-26T15:13:06.998772+00:00
  - user: None
  - tags: []
 
 ## linusakesson.net
- - [http://www.linusakesson.net](http://www.linusakesson.net)
- - date published: 2024-02-26T15:13:06.998772+00:00
+ - [https://www.linusakesson.net](https://www.linusakesson.net)
+ - date published: 2023-10-25T20:33:01.198358+00:00
  - user: None
  - tags: []
 
@@ -1368,28 +1584,28 @@
  - tags: ['demoscene']
 
 ## [Liquid DooM]
- - [https://liquiddoom.net](https://liquiddoom.net)
- - date published: 2024-02-15T22:13:28.553273+00:00
- - user: None
- - tags: ['demoscene']
-
-## [Liquid DooM]
  - [http://liquiddoom.net](http://liquiddoom.net)
  - date published: 2024-02-11T14:38:30.795082+00:00
  - user: None
  - tags: ['doom', 'video game music']
 
-## Liquipedia
- - [http://liquipedia.net](http://liquipedia.net)
- - date published: 2024-03-04T03:54:24.553156+00:00
+## [Liquid DooM]
+ - [https://liquiddoom.net](https://liquiddoom.net)
+ - date published: 2024-02-15T22:13:28.553273+00:00
  - user: None
- - tags: ['esport']
+ - tags: ['demoscene']
 
 ## Liquipedia
  - [https://liquipedia.net](https://liquipedia.net)
  - date published: 2023-10-25T11:48:20.723694+00:00
  - user: None
  - tags: []
+
+## Liquipedia
+ - [http://liquipedia.net](http://liquipedia.net)
+ - date published: 2024-03-04T03:54:24.553156+00:00
+ - user: None
+ - tags: ['esport']
 
 ## KeepCoding | KeepCoding
  - [https://en.liujiacai.net](https://en.liujiacai.net)
@@ -1497,7 +1713,7 @@
  - [https://lutris.net](https://lutris.net)
  - date published: 2023-10-25T08:35:41.232931+00:00
  - user: None
- - tags: []
+ - tags: ['open source']
 
 ## Luxagraf: thoughts on ecology, culture, travel, photography, walking and other ephemera
  - [https://luxagraf.net](https://luxagraf.net)
@@ -2713,16 +2929,16 @@
  - tags: ['cory doctorow', 'internet forum']
 
 ## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
- - [https://pluralistic.net](https://pluralistic.net)
- - date published: 2023-10-25T08:57:45.517375+00:00
- - user: None
- - tags: ['personal', 'blog']
-
-## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
  - [http://pluralistic.net](http://pluralistic.net)
  - date published: 2024-02-24T18:22:24.558627+00:00
  - user: None
  - tags: []
+
+## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
+ - [https://pluralistic.net](https://pluralistic.net)
+ - date published: 2023-10-25T08:57:45.517375+00:00
+ - user: None
+ - tags: ['personal', 'blog']
 
 ## Poc Network // Tech - Today's Tech News and Reviews
  - [https://www.pocnetwork.net](https://www.pocnetwork.net)
@@ -3700,7 +3916,7 @@
  - [https://www.stride3d.net](https://www.stride3d.net)
  - date published: 2023-10-25T08:35:44.211697+00:00
  - user: None
- - tags: []
+ - tags: ['open source', 'video game engine']
 
 ## Strugglers
  - [https://strugglers.net](https://strugglers.net)
@@ -4110,15 +4326,15 @@
  - user: rumpel
  - tags: ['file sharing']
 
-## Transputer.net
- - [https://transputer.net](https://transputer.net)
- - date published: 2024-01-07T14:41:29+00:00
- - user: None
- - tags: []
-
 ## Welcome to transputer.net
  - [http://transputer.net](http://transputer.net)
  - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Transputer.net
+ - [https://transputer.net](https://transputer.net)
+ - date published: 2024-01-07T14:41:29+00:00
  - user: None
  - tags: []
 
@@ -4150,7 +4366,7 @@
  - [https://tremulous.net](https://tremulous.net)
  - date published: 2023-10-30T15:17:08.512261+00:00
  - user: None
- - tags: ['open source', 'game']
+ - tags: ['open source', 'video game']
 
 ## Show HN: I made a simple daily word puzzle
  - [https://triword.net](https://triword.net)
@@ -4369,14 +4585,14 @@
  - tags: ['personal']
 
 ## Stefan Hajnoczi
- - [https://blog.vmsplice.net](https://blog.vmsplice.net)
- - date published: 2024-01-03T01:08:14.621014+00:00
+ - [http://blog.vmsplice.net](http://blog.vmsplice.net)
+ - date published: 2024-01-25T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Stefan Hajnoczi
- - [http://blog.vmsplice.net](http://blog.vmsplice.net)
- - date published: 2024-01-25T00:00:00+00:00
+ - [https://blog.vmsplice.net](https://blog.vmsplice.net)
+ - date published: 2024-01-03T01:08:14.621014+00:00
  - user: None
  - tags: []
 
@@ -5781,222 +5997,6 @@
 ## https://jmvdveer.home.xs4all.nl
  - [https://jmvdveer.home.xs4all.nl](https://jmvdveer.home.xs4all.nl)
  - date published: 2023-10-25T20:46:57.644321+00:00
- - user: None
- - tags: []
-
-## De website van Tim Krabbé
- - [https://timkr.home.xs4all.nl](https://timkr.home.xs4all.nl)
- - date published: 2023-10-25T20:46:58.156978+00:00
- - user: None
- - tags: []
-
-## The ZIRA-home-page
- - [https://zira.home.xs4all.nl](https://zira.home.xs4all.nl)
- - date published: 2024-01-09T18:30:45.203905+00:00
- - user: None
- - tags: []
-
-## Yorhel’s Projects
- - [https://dev.yorhel.nl](https://dev.yorhel.nl)
- - date published: 2023-10-25T20:46:59.716950+00:00
- - user: None
- - tags: []
-
-## Home | The Abel Prize
- - [https://abelprize.no](https://abelprize.no)
- - date published: 2023-10-25T20:47:04.345152+00:00
- - user: None
- - tags: []
-
-## Epsilon's Amiga Blog
- - [https://amigax1000.blogspot.no](https://amigax1000.blogspot.no)
- - date published: 2023-10-27T14:40:11.976750+00:00
- - user: None
- - tags: ['amiga']
-
-## chiru.no
- - [https://chiru.no](https://chiru.no)
- - date published: 2024-02-15T22:14:45.216586+00:00
- - user: None
- - tags: ['demoscene']
-
-## Citroën Norge | Nye biler, suv, elbiler
- - [https://www.citroen.no](https://www.citroen.no)
- - date published: 2023-12-11T16:03:37.113883+00:00
- - user: None
- - tags: []
-
-## Datatilsynet - personvern og informasjonssikkerhet | Datatilsynet
- - [https://www.datatilsynet.no](https://www.datatilsynet.no)
- - date published: 2023-10-25T20:47:08.963435+00:00
- - user: None
- - tags: []
-
-## E24
- - [https://e24.no](https://e24.no)
- - date published: 2023-12-22T18:50:46.838939+00:00
- - user: None
- - tags: []
-
-## Erik Johannes Husom
- - [https://erikjohannes.no](https://erikjohannes.no)
- - date published: 2023-10-25T20:47:15.302816+00:00
- - user: None
- - tags: []
-
-## FINN.no - mulighetenes marked
- - [https://www.finn.no](https://www.finn.no)
- - date published: 2024-02-08T18:16:59.081064+00:00
- - user: None
- - tags: []
-
-## Hjem - Geoforskning.no
- - [https://geoforskning.no](https://geoforskning.no)
- - date published: 2024-01-09T03:37:37.129948+00:00
- - user: None
- - tags: []
-
-## None
- - [https://gexp.no](https://gexp.no)
- - date published: 2024-01-09T03:37:52.307190+00:00
- - user: None
- - tags: []
-
-## INEVO: Eksperter på e-handel og digital markedsføring
- - [https://www.inevo.no](https://www.inevo.no)
- - date published: 2023-11-29T14:22:21.036592+00:00
- - user: None
- - tags: ['personal']
-
-## Random Thoughts – The Sky Won't Fall?
- - [https://lars.ingebrigtsen.no](https://lars.ingebrigtsen.no)
- - date published: 2023-10-25T20:47:30.892486+00:00
- - user: None
- - tags: []
-
-## Erik I
- - [https://erik.itland.no](https://erik.itland.no)
- - date published: 2023-10-25T20:47:33.136459+00:00
- - user: None
- - tags: []
-
-## Keysmash!
- - [https://keysmash.no](https://keysmash.no)
- - date published: 2024-01-05T13:55:54+00:00
- - user: None
- - tags: []
-
-## Kristiania
- - [https://kristiania.no](https://kristiania.no)
- - date published: 2024-01-15T16:27:41+00:00
- - user: rumpel
- - tags: ['personal']
-
-## mifi.no | mifi.no
- - [https://mifi.no](https://mifi.no)
- - date published: 2023-10-25T20:47:35.059930+00:00
- - user: None
- - tags: []
-
-## myme.no - Home
- - [https://myme.no](https://myme.no)
- - date published: 2023-10-25T09:26:39.160690+00:00
- - user: None
- - tags: ['personal']
-
-## Norge i Bilder
- - [https://norgeibilder.no](https://norgeibilder.no)
- - date published: 2024-02-08T16:47:28.312626+00:00
- - user: None
- - tags: []
-
-## NRK.no – nyheter, tv og radio fra Norge og hele verden
- - [https://www.nrk.no](https://www.nrk.no)
- - date published: 2023-10-27T12:06:00.384332+00:00
- - user: None
- - tags: []
-
-## NRKbeta
- - [https://nrkbeta.no](https://nrkbeta.no)
- - date published: 2023-10-27T12:06:09.586789+00:00
- - user: None
- - tags: []
-
-## bsdly.net - Reliable Networking With Free Software
- - [https://nxdomain.no](https://nxdomain.no)
- - date published: 2023-10-27T12:06:10.297276+00:00
- - user: None
- - tags: []
-
-## Velkommen til O'Briens Retro & Vintage - O'Briens Retro & Vintage
- - [https://obriens.no](https://obriens.no)
- - date published: 2023-12-11T17:45:26.757944+00:00
- - user: None
- - tags: []
-
-## Home | Patricia Aas - Programmer
- - [https://patricia.no](https://patricia.no)
- - date published: 2023-10-27T12:06:11.527326+00:00
- - user: None
- - tags: []
-
-## Ragnarok Film
- - [https://www.ragnarokfilm.no](https://www.ragnarokfilm.no)
- - date published: 2024-01-18T12:22:33+00:00
- - user: rumpel
- - tags: []
-
-## regjeringen.no
- - [https://www.regjeringen.no](https://www.regjeringen.no)
- - date published: 2024-01-01T22:56:55.799316+00:00
- - user: None
- - tags: []
-
-## Sciencenorway - Science News from Norway
- - [https://sciencenorway.no](https://sciencenorway.no)
- - date published: 2023-10-25T10:11:59.195592+00:00
- - user: None
- - tags: []
-
-## SECRET GARDEN
- - [https://www.secretgarden.no](https://www.secretgarden.no)
- - date published: 2023-11-13T11:05:43.854609+00:00
- - user: None
- - tags: ['music band']
-
-## Person - Skatteetaten
- - [https://www.skatteetaten.no](https://www.skatteetaten.no)
- - date published: 2023-10-27T12:06:13.607518+00:00
- - user: None
- - tags: []
-
-## Et ledende miljø i norsk romindustri | Space Norway
- - [https://spacenorway.no](https://spacenorway.no)
- - date published: 2023-11-10T16:04:50.344777+00:00
- - user: None
- - tags: []
-
-## Grunnlaget for suksess på nett | Stammen
- - [https://stammen.no](https://stammen.no)
- - date published: 2017-10-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Sysselmesteren på Svalbard
- - [https://www.sysselmesteren.no](https://www.sysselmesteren.no)
- - date published: 2023-10-27T12:06:14.747150+00:00
- - user: None
- - tags: []
-
-## Homepage | Telia Engineering
- - [https://engineering.telia.no](https://engineering.telia.no)
- - date published: 2023-10-27T12:06:15.995309+00:00
- - user: None
- - tags: []
-
-## Tim Hårek
- - [https://timharek.no](https://timharek.no)
- - date published: 2023-10-25T20:48:55.149316+00:00
  - user: None
  - tags: []
 
