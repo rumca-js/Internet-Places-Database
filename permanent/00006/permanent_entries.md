@@ -1,3 +1,105 @@
+## Sign in - Google Accounts
+ - [https://accounts.google.com](https://accounts.google.com)
+ - date published: 2023-12-13T16:04:41.466509+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://ads.google.com](https://ads.google.com)
+ - date published: 2024-01-09T02:37:37.140211+00:00
+ - user: None
+ - tags: []
+
+## Google for Developers - from AI and Cloud to Mobile and Web
+ - [https://apis.google.com](https://apis.google.com)
+ - date published: 2023-12-11T16:51:37.859216+00:00
+ - user: None
+ - tags: []
+
+## Google Arts & Culture
+ - [https://artsandculture.google.com](https://artsandculture.google.com)
+ - date published: 2023-10-25T14:47:24.929387+00:00
+ - user: None
+ - tags: []
+
+## ‎Bard - Chat Based AI Tool from Google, Powered by PaLM 2
+ - [https://bard.google.com](https://bard.google.com)
+ - date published: 2023-10-25T14:47:31.201724+00:00
+ - user: None
+ - tags: ['artificial intelligence bot']
+
+## Google Bug Hunters
+ - [https://bughunters.google.com](https://bughunters.google.com)
+ - date published: 2023-12-14T04:38:33.745395+00:00
+ - user: None
+ - tags: []
+
+## Shareable Online Calendar and Scheduling - Google Calendar
+ - [https://calendar.google.com](https://calendar.google.com)
+ - date published: 2024-01-06T11:15:34.786443+00:00
+ - user: None
+ - tags: []
+
+## Google Chrome - The Fast & Secure Web Browser Built to be Yours
+ - [https://chrome.google.com](https://chrome.google.com)
+ - date published: 2023-10-25T08:40:34.195093+00:00
+ - user: None
+ - tags: ['web browser', 'gatekeeper']
+
+## Chrome Web Store
+ - [https://chromewebstore.google.com](https://chromewebstore.google.com)
+ - date published: 2023-11-19T01:48:44.969811+00:00
+ - user: None
+ - tags: ['browser addons']
+
+## https://cloud.google.com
+ - [https://cloud.google.com](https://cloud.google.com)
+ - date published: 2023-10-25T14:47:43.318651+00:00
+ - user: None
+ - tags: []
+
+## Google Colab
+ - [https://colab.research.google.com](https://colab.research.google.com)
+ - date published: 2023-10-25T14:47:44.134292+00:00
+ - user: None
+ - tags: []
+
+## Google Cloud Platform
+ - [https://console.cloud.google.com](https://console.cloud.google.com)
+ - date published: 2023-12-20T18:54:01.264450+00:00
+ - user: None
+ - tags: []
+
+## Programmable Search Engine by Google
+ - [https://cse.google.com](https://cse.google.com)
+ - date published: 2023-12-13T14:58:49.890684+00:00
+ - user: None
+ - tags: ['search engine']
+
+## Google for Developers - from AI and Cloud to Mobile and Web
+ - [https://developers.google.com](https://developers.google.com)
+ - date published: 2023-12-11T19:07:49.858032+00:00
+ - user: None
+ - tags: []
+
+## Google Docs
+ - [https://docs.google.com](https://docs.google.com)
+ - date published: 2023-10-25T11:31:05+00:00
+ - user: rumpel
+ - tags: []
+
+## Personal Cloud Storage & File Sharing Platform - Google
+ - [https://drive.google.com](https://drive.google.com)
+ - date published: 2023-10-25T08:25:55.109146+00:00
+ - user: None
+ - tags: ['cloud drive']
+
+## https://earth.google.com
+ - [https://earth.google.com](https://earth.google.com)
+ - date published: 2023-12-24T08:13:28+00:00
+ - user: rumpel
+ - tags: ['service maps']
+
 ## Browse Fonts - Google Fonts
  - [https://fonts.google.com](https://fonts.google.com)
  - date published: 2023-10-25T11:31:06.266545+00:00
@@ -806,14 +908,14 @@
  - tags: []
 
 ## Mike Cardwell - Grepular
- - [https://www.grepular.com](https://www.grepular.com)
- - date published: 2024-01-14T20:30:07.543187+00:00
+ - [http://www.grepular.com](http://www.grepular.com)
+ - date published: 2024-02-25T20:34:46.182983+00:00
  - user: None
  - tags: []
 
 ## Mike Cardwell - Grepular
- - [http://www.grepular.com](http://www.grepular.com)
- - date published: 2024-02-25T20:34:46.182983+00:00
+ - [https://www.grepular.com](https://www.grepular.com)
+ - date published: 2024-01-14T20:30:07.543187+00:00
  - user: None
  - tags: []
 
@@ -4328,16 +4430,16 @@
  - tags: ['information company', 'india']
 
 ## InfoWorld - Technology insight for the enterprise
- - [http://www.infoworld.com](http://www.infoworld.com)
- - date published: 2024-02-25T20:55:36.520873+00:00
- - user: None
- - tags: []
-
-## InfoWorld - Technology insight for the enterprise
  - [https://www.infoworld.com](https://www.infoworld.com)
  - date published: 2023-10-25T09:33:30.464349+00:00
  - user: None
  - tags: ['tech news']
+
+## InfoWorld - Technology insight for the enterprise
+ - [http://www.infoworld.com](http://www.infoworld.com)
+ - date published: 2024-02-25T20:55:36.520873+00:00
+ - user: None
+ - tags: []
 
 ## Infrastructure as Code
  - [https://infrastructure-as-code.com](https://infrastructure-as-code.com)
@@ -4526,14 +4628,14 @@
  - tags: []
 
 ## Instagram
- - [https://instagram.com](https://instagram.com)
- - date published: 2023-12-11T17:25:16.403261+00:00
+ - [http://instagram.com](http://instagram.com)
+ - date published: 2024-02-24T09:56:41.123503+00:00
  - user: None
  - tags: []
 
 ## Instagram
- - [http://instagram.com](http://instagram.com)
- - date published: 2024-02-24T09:56:41.123503+00:00
+ - [https://instagram.com](https://instagram.com)
+ - date published: 2023-12-11T17:25:16.403261+00:00
  - user: None
  - tags: []
 
@@ -4954,6 +5056,12 @@
 ## Irish News
  - [https://www.irishnews.com](https://www.irishnews.com)
  - date published: 2023-10-25T10:43:13.661606+00:00
+ - user: None
+ - tags: []
+
+## Irish Star - The Voice of Irish America
+ - [https://www.irishstar.com](https://www.irishstar.com)
+ - date published: 2024-03-13T21:06:04.157151+00:00
  - user: None
  - tags: []
 
@@ -5767,6 +5875,12 @@
  - user: None
  - tags: []
 
+## JanitorAI - Wow such bots
+ - [https://janitorai.com](https://janitorai.com)
+ - date published: 2024-03-13T11:48:13+00:00
+ - user: rumpel
+ - tags: ['chatbot', 'nsfw']
+
 ## Home |
  - [https://jannestimm.com](https://jannestimm.com)
  - date published: 2024-01-13T09:32:25.456743+00:00
@@ -5884,120 +5998,6 @@
 ## Jason Markow
  - [https://www.jasonmarkow.com](https://www.jasonmarkow.com)
  - date published: 2023-11-29T14:22:42.135828+00:00
- - user: None
- - tags: ['personal']
-
-## Jason Quintin | Product Designer
- - [https://v15.jasonquintin.com](https://v15.jasonquintin.com)
- - date published: 2023-12-22T17:49:37.580394+00:00
- - user: None
- - tags: ['personal']
-
-## Jason Roberts
- - [https://jasonrobertsonline.com](https://jasonrobertsonline.com)
- - date published: 2024-03-11T21:08:43.246978+00:00
- - user: None
- - tags: []
-
-## Jason’s Big Adventure
- - [https://jasonsbigadventure.com](https://jasonsbigadventure.com)
- - date published: 2023-12-12T13:08:50.689435+00:00
- - user: None
- - tags: ['personal']
-
-## Jason Shen | Cultivating Resilience
- - [https://www.jasonshen.com](https://www.jasonshen.com)
- - date published: 2023-10-25T08:46:15.822607+00:00
- - user: None
- - tags: ['personal']
-
-## Jason Shulman
- - [https://www.jasonshulmanstudio.com](https://www.jasonshulmanstudio.com)
- - date published: 2023-10-25T08:46:16.648529+00:00
- - user: None
- - tags: ['personal']
-
-## Jason Vincion
- - [https://www.jasonvincion.com](https://www.jasonvincion.com)
- - date published: 2024-01-12T22:14:28.431705+00:00
- - user: None
- - tags: []
-
-## Jason Zweig | A safe haven for investors by Jason Zweig of The Wall Street Journal.
- - [https://jasonzweig.com](https://jasonzweig.com)
- - date published: 2023-10-25T15:27:17.416854+00:00
- - user: None
- - tags: []
-
-## https://lib.jasperplayer.com
- - [https://lib.jasperplayer.com](https://lib.jasperplayer.com)
- - date published: 2023-12-12T08:41:31.534121+00:00
- - user: None
- - tags: []
-
-## https://www.java.com
- - [https://www.java.com](https://www.java.com)
- - date published: 2023-11-01T08:42:20.753072+00:00
- - user: None
- - tags: []
-
-## Welcome To The Java Advent Calendar - JVM Advent
- - [https://www.javaadvent.com](https://www.javaadvent.com)
- - date published: 2023-10-25T15:27:22.352791+00:00
- - user: None
- - tags: []
-
-## Java Playground
- - [https://java-playground.com](https://java-playground.com)
- - date published: 2023-10-25T15:27:20.226781+00:00
- - user: None
- - tags: ['online tool']
-
-## Learn JavaScript Online - Courses for Beginners - javascript.com
- - [https://www.javascript.com](https://www.javascript.com)
- - date published: 2023-11-01T08:42:21.170598+00:00
- - user: None
- - tags: ['tutorials', 'javascript']
-
-## Home - Javier Velilla - Diseño y mantenimiento web WordPress
- - [https://javivelilla.com](https://javivelilla.com)
- - date published: 2023-11-29T14:19:54.967099+00:00
- - user: None
- - tags: ['personal']
-
-## Jay Acunzo | Author, Speaker, Showrunner
- - [https://jayacunzo.com](https://jayacunzo.com)
- - date published: 2023-10-25T08:46:19.898867+00:00
- - user: None
- - tags: ['personal']
-
-## Goroutines: the concurrency model we wanted all along — jayconrod.com
- - [https://jayconrod.com](https://jayconrod.com)
- - date published: 2023-10-25T15:27:26.026976+00:00
- - user: None
- - tags: []
-
-## Jaydan Urwin
- - [https://jaydanurwin.com](https://jaydanurwin.com)
- - date published: 2024-01-13T04:53:12.413003+00:00
- - user: None
- - tags: []
-
-## jaydinitto.com | I write stories about otherworldly wonders.
- - [https://www.jaydinitto.com](https://www.jaydinitto.com)
- - date published: 2023-11-29T15:45:37.063935+00:00
- - user: None
- - tags: ['personal']
-
-## Jay Mody
- - [https://jaykmody.com](https://jaykmody.com)
- - date published: 2023-10-25T09:20:55.650339+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://jaylittle.com](https://jaylittle.com)
- - date published: 2023-10-25T08:46:22.108869+00:00
  - user: None
  - tags: ['personal']
 

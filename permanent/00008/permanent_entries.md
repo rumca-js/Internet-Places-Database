@@ -1,3 +1,123 @@
+## LogoPicture AI - Redesign your logo with AI
+ - [https://logopictureai.com](https://logopictureai.com)
+ - date published: 2024-01-09T02:42:11.834827+00:00
+ - user: None
+ - tags: []
+
+## LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences
+ - [https://blog.logrocket.com](https://blog.logrocket.com)
+ - date published: 2023-10-25T15:49:56.805966+00:00
+ - user: None
+ - tags: []
+
+## Logseq: A privacy-first, open-source knowledge base
+ - [https://logseq.com](https://logseq.com)
+ - date published: 2023-10-25T15:49:58.265105+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.lohud.com](https://www.lohud.com)
+ - date published: 2023-12-13T21:01:52.763910+00:00
+ - user: None
+ - tags: []
+
+## Loïc's Blog
+ - [https://loichovon.com](https://loichovon.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## League of Legends Analytics • LoLalytics • Patch 13.22
+ - [https://lolalytics.com](https://lolalytics.com)
+ - date published: 2023-11-12T07:39:05.031481+00:00
+ - user: None
+ - tags: []
+
+## LoL Esports
+ - [https://lolesports.com](https://lolesports.com)
+ - date published: 2023-11-05T08:48:28.445714+00:00
+ - user: None
+ - tags: []
+
+## LoL Esports
+ - [https://watch.lolesports.com](https://watch.lolesports.com)
+ - date published: 2023-11-02T10:41:03.461742+00:00
+ - user: None
+ - tags: []
+
+## Holiday home A...Fior Di Abbadia Lariana, Italy - book now, 2024 prices
+ - [https://afior-di-lago-holiday-home.lombardytophotels.com](https://afior-di-lago-holiday-home.lombardytophotels.com)
+ - date published: 2024-02-08T16:43:18.075157+00:00
+ - user: None
+ - tags: []
+
+## Londonist - Things to see and do in London
+ - [https://londonist.com](https://londonist.com)
+ - date published: 2023-10-25T15:50:00.489659+00:00
+ - user: None
+ - tags: []
+
+## Londonist - Things to see and do in London
+ - [http://londonist.com](http://londonist.com)
+ - date published: 2024-02-24T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://londonlovesbusiness.com](https://londonlovesbusiness.com)
+ - date published: 2023-11-24T09:54:09.661209+00:00
+ - user: None
+ - tags: []
+
+## Home - London Reconnections
+ - [https://www.londonreconnections.com](https://www.londonreconnections.com)
+ - date published: 2023-10-25T15:50:10.542635+00:00
+ - user: None
+ - tags: []
+
+## LoneBullet: mods | patches | cheats | trainers | maps
+ - [https://www.lonebullet.com](https://www.lonebullet.com)
+ - date published: 2023-10-27T13:45:11.526040+00:00
+ - user: None
+ - tags: ['game mods']
+
+## Texas Local News, Breaking News, Weather and More
+ - [https://www.lonestarlive.com](https://www.lonestarlive.com)
+ - date published: 2023-12-08T08:35:33.198688+00:00
+ - user: None
+ - tags: []
+
+## Long Island New York Guide to Hotels, Events, Restaurants, News and more
+ - [https://www.longisland.com](https://www.longisland.com)
+ - date published: 2023-10-25T15:50:17.627657+00:00
+ - user: None
+ - tags: []
+
+## Professional repair service for test indicators, micrometers and other precision gages and small hand tools
+ - [http://www.longislandindicator.com](http://www.longislandindicator.com)
+ - date published: 2023-10-25T15:50:20.401887+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Longreads
+ - [https://longreads.com](https://longreads.com)
+ - date published: 2023-10-25T15:50:23.835382+00:00
+ - user: None
+ - tags: []
+
+## Free screen recorder for Mac and PC | Loom
+ - [https://www.loom.com](https://www.loom.com)
+ - date published: 2023-10-25T15:50:26.292241+00:00
+ - user: None
+ - tags: []
+
+## Loom Communications
+ - [https://loomcom.com](https://loomcom.com)
+ - date published: 2024-03-13T21:06:06.848682+00:00
+ - user: None
+ - tags: []
+
 ## Looney Labs - Shop
  - [https://www.looneylabs.com](https://www.looneylabs.com)
  - date published: 2023-10-25T15:50:28.837760+00:00
@@ -208,17 +328,17 @@
  - user: None
  - tags: []
 
-## LTTStore
- - [http://www.lttstore.com](http://www.lttstore.com)
- - date published: 2024-02-03T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Linus Tech Tips Store
  - [https://www.lttstore.com](https://www.lttstore.com)
  - date published: 2023-12-21T17:45:27+00:00
  - user: rumpel
  - tags: ['merchendise', 'tech']
+
+## LTTStore
+ - [http://www.lttstore.com](http://www.lttstore.com)
+ - date published: 2024-02-03T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Whale LAN
  - [https://www.ltxexpo.com](https://www.ltxexpo.com)
@@ -442,6 +562,12 @@ diversions.
  - date published: 2024-02-14T08:48:56.833040+00:00
  - user: None
  - tags: ['personal']
+
+## Lyons Tea Exchange
+ - [https://lyonsteaexchange.com](https://lyonsteaexchange.com)
+ - date published: 2024-03-13T18:48:48+00:00
+ - user: rumpel
+ - tags: []
 
 ## M31 Coding - Computing & Education
  - [https://www.m31coding.com](https://www.m31coding.com)
@@ -678,16 +804,16 @@ diversions.
  - tags: []
 
 ## Maggie Appleton
- - [http://maggieappleton.com](http://maggieappleton.com)
- - date published: 2024-02-26T08:55:27.731076+00:00
- - user: None
- - tags: []
-
-## Maggie Appleton
  - [https://maggieappleton.com](https://maggieappleton.com)
  - date published: 2023-10-25T08:47:09.508828+00:00
  - user: None
  - tags: ['personal']
+
+## Maggie Appleton
+ - [http://maggieappleton.com](http://maggieappleton.com)
+ - date published: 2024-02-26T08:55:27.731076+00:00
+ - user: None
+ - tags: []
 
 ## Magic Earth - Free Navigation & Maps App for Android and iPhone
  - [https://www.magicearth.com](https://www.magicearth.com)
@@ -810,13 +936,13 @@ diversions.
  - tags: []
 
 ## A blog by @makaroni4
- - [https://makaroni4.com](https://makaroni4.com)
+ - [http://makaroni4.com](http://makaroni4.com)
  - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## A blog by @makaroni4
- - [http://makaroni4.com](http://makaroni4.com)
+ - [https://makaroni4.com](https://makaroni4.com)
  - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -1567,14 +1693,14 @@ diversions.
  - tags: ['disney', 'iron man', 'movie studio', 'captain america']
 
 ## vi360 photography/video/digital imaging
- - [https://www.marxdesign.com](https://www.marxdesign.com)
- - date published: 2023-12-22T00:41:17.350208+00:00
+ - [http://www.marxdesign.com](http://www.marxdesign.com)
+ - date published: 2023-12-22T21:24:02.738903+00:00
  - user: None
  - tags: []
 
 ## vi360 photography/video/digital imaging
- - [http://www.marxdesign.com](http://www.marxdesign.com)
- - date published: 2023-12-22T21:24:02.738903+00:00
+ - [https://www.marxdesign.com](https://www.marxdesign.com)
+ - date published: 2023-12-22T00:41:17.350208+00:00
  - user: None
  - tags: []
 
@@ -3504,6 +3630,12 @@ diversions.
  - user: None
  - tags: ['game trainer']
 
+## MeidasTouch Network
+ - [https://www.meidastouch.com](https://www.meidastouch.com)
+ - date published: 2024-03-13T12:03:17.371989+00:00
+ - user: None
+ - tags: []
+
 ## Meilisearch Blog
  - [https://blog.meilisearch.com](https://blog.meilisearch.com)
  - date published: 2023-10-25T16:01:07.153377+00:00
@@ -4566,6 +4698,12 @@ diversions.
  - date published: 2023-11-29T14:41:50.950597+00:00
  - user: None
  - tags: ['personal']
+
+## Mindders - Where Your Mind Meets Infotainment
+ - [https://www.mindders.com](https://www.mindders.com)
+ - date published: 2024-03-13T21:06:22.229682+00:00
+ - user: None
+ - tags: []
 
 ## Home
  - [https://www.mindfulpolyglot.com](https://www.mindfulpolyglot.com)
@@ -5860,144 +5998,6 @@ diversions.
 ## Musico - AI generative music
  - [https://www.musi-co.com](https://www.musi-co.com)
  - date published: 2023-10-25T16:08:56.804634+00:00
- - user: None
- - tags: []
-
-## Music Player Network
- - [https://forums.musicplayer.com](https://forums.musicplayer.com)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Music Gear, Equipment, News, Tutorials & Reviews | MusicRadar
- - [https://www.musicradar.com](https://www.musicradar.com)
- - date published: 2023-10-25T11:13:46.875557+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://musictech.com](https://musictech.com)
- - date published: 2023-10-28T18:49:40.424751+00:00
- - user: None
- - tags: []
-
-## MusicXML
- - [https://www.musicxml.com](https://www.musicxml.com)
- - date published: 2023-11-29T13:13:49+00:00
- - user: None
- - tags: []
-
-## The Internet's video infrastructure | Mux
- - [https://mux.com](https://mux.com)
- - date published: 2023-10-25T16:09:05.771772+00:00
- - user: None
- - tags: []
-
-## The Internet's video infrastructure | Mux
- - [https://www.mux.com](https://www.mux.com)
- - date published: 2023-10-25T16:09:22.904159+00:00
- - user: None
- - tags: []
-
-## Muxup - Adventures in collaborative open source development
- - [https://muxup.com](https://muxup.com)
- - date published: 2023-10-25T16:09:26.038159+00:00
- - user: None
- - tags: []
-
-## Stan Stewart - aka @muz4now - the muse is present
- - [https://muz4now.com](https://muz4now.com)
- - date published: 2023-12-30T22:23:47.478481+00:00
- - user: None
- - tags: ['personal']
-
-## Muzzug
- - [https://blog.muzzug.com](https://blog.muzzug.com)
- - date published: 2023-11-29T15:45:30.166689+00:00
- - user: None
- - tags: ['personal']
-
-## Mountain View Voice
- - [https://mv-voice.com](https://mv-voice.com)
- - date published: 2024-01-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## | Mountain View Online |
- - [https://www.mv-voice.com](https://www.mv-voice.com)
- - date published: 2023-10-25T16:09:34.714338+00:00
- - user: None
- - tags: []
-
-## Blog · Max Gorin
- - [https://mxgrn.com](https://mxgrn.com)
- - date published: 2023-10-25T16:09:39.374278+00:00
- - user: None
- - tags: []
-
-## My 90's TV!
- - [https://my90stv.com](https://my90stv.com)
- - date published: 2023-10-25T16:09:42.269232+00:00
- - user: None
- - tags: []
-
-## My Abandonware - Download Old Video Games
- - [https://www.myabandonware.com](https://www.myabandonware.com)
- - date published: 2023-10-25T16:35:49.568489+00:00
- - user: None
- - tags: []
-
-## GameLinked Portal » dbrand
- - [https://mybossisveryshort.com](https://mybossisveryshort.com)
- - date published: 2024-02-16T07:52:35+00:00
- - user: rumpel
- - tags: []
-
-## My Brightest Diamond
- - [https://www.mybrightestdiamond.com](https://www.mybrightestdiamond.com)
- - date published: 2024-02-08T22:10:41.696866+00:00
- - user: None
- - tags: []
-
-## Motion Twin
- - [https://sergeant-cid.mybrute.com](https://sergeant-cid.mybrute.com)
- - date published: 2024-02-08T17:32:34.935917+00:00
- - user: None
- - tags: []
-
-## https://status.mycloud.com
- - [https://status.mycloud.com](https://status.mycloud.com)
- - date published: 2024-01-09T02:44:32.133560+00:00
- - user: None
- - tags: []
-
-## Mycroft
- - [https://mycroftproject.com](https://mycroftproject.com)
- - date published: 2023-12-05T19:53:37+00:00
- - user: None
- - tags: []
-
-## Mydbops: Expert Open Source Database Solutions
- - [https://www.mydbops.com](https://www.mydbops.com)
- - date published: 2024-02-18T16:02:31.501074+00:00
- - user: None
- - tags: []
-
-## Dear Sabrina
- - [https://mydearsabrina.com](https://mydearsabrina.com)
- - date published: 2023-12-03T09:19:33.315226+00:00
- - user: None
- - tags: ['personal']
-
-## Columbus News, Weather, Sports, Breaking News | WTTE
- - [https://myfox28columbus.com](https://myfox28columbus.com)
- - date published: 2023-12-22T15:48:21.919825+00:00
- - user: None
- - tags: []
-
-## Japanese Green Tea
- - [https://www.myjapanesegreentea.com](https://www.myjapanesegreentea.com)
- - date published: 2023-10-25T16:09:48.957754+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,45 @@
+## About - Alfred Megally
+ - [https://alfredmegally.com](https://alfredmegally.com)
+ - date published: 2024-01-09T08:53:49.175773+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Algemeiner.com
+ - [https://www.algemeiner.com](https://www.algemeiner.com)
+ - date published: 2023-11-02T18:22:20.943073+00:00
+ - user: None
+ - tags: []
+
+## Algiers - Shook
+ - [https://algierstheband.com](https://algierstheband.com)
+ - date published: 2024-02-08T17:42:26.570971+00:00
+ - user: None
+ - tags: []
+
+## HN Search powered by Algolia
+ - [https://hn.algolia.com](https://hn.algolia.com)
+ - date published: 2023-10-25T08:27:21.164795+00:00
+ - user: None
+ - tags: []
+
+## Site Search & Discovery powered by AI
+ - [https://www.algolia.com](https://www.algolia.com)
+ - date published: 2023-10-25T08:37:14.759838+00:00
+ - user: None
+ - tags: []
+
+## Life & Computing Science
+ - [https://alhassy.com](https://alhassy.com)
+ - date published: 2023-10-25T12:38:28.825548+00:00
+ - user: None
+ - tags: []
+
+## Alial Travel Gal - How to Travel Forever
+ - [https://alialtravelgal.com](https://alialtravelgal.com)
+ - date published: 2024-01-04T22:43:25.729675+00:00
+ - user: None
+ - tags: []
+
 ## Alice In Chains | Official Website
  - [https://aliceinchains.com](https://aliceinchains.com)
  - date published: 2023-11-13T09:56:55.913912+00:00
@@ -2060,6 +2102,12 @@
  - [https://www.archdaily.com](https://www.archdaily.com)
  - date published: 2023-10-25T12:44:15.008885+00:00
  - user: None
+ - tags: []
+
+## Archer
+ - [https://www.archer.com](https://www.archer.com)
+ - date published: 2024-02-10T00:00:00+00:00
+ - user: rumpel
  - tags: []
 
 ## ArchEyes | Architecture and Design Magazine
@@ -5824,6 +5872,12 @@
  - user: None
  - tags: []
 
+## My Sculpture Blog
+ - [https://chrisbathgate.blogspot.com](https://chrisbathgate.blogspot.com)
+ - date published: 2024-03-13T15:24:19.127608+00:00
+ - user: None
+ - tags: []
+
 ## ClubOrlov
  - [https://cluborlov.blogspot.com](https://cluborlov.blogspot.com)
  - date published: 2024-02-24T18:23:30.664125+00:00
@@ -5941,60 +5995,6 @@
 ## Disagreeable Me
  - [https://disagreeableme.blogspot.com](https://disagreeableme.blogspot.com)
  - date published: 2023-10-25T13:05:14.763793+00:00
- - user: None
- - tags: []
-
-## Diary of a Devman
- - [https://doadm-notes.blogspot.com](https://doadm-notes.blogspot.com)
- - date published: 2023-10-25T13:05:19.829141+00:00
- - user: None
- - tags: []
-
-## Donald Clark       Plan B
- - [https://donaldclarkplanb.blogspot.com](https://donaldclarkplanb.blogspot.com)
- - date published: 2024-02-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Eco-Evo Evo-Eco
- - [https://ecoevoevoeco.blogspot.com](https://ecoevoevoeco.blogspot.com)
- - date published: 2024-02-08T22:01:28.117782+00:00
- - user: None
- - tags: []
-
-## Education and Statistics
- - [https://educationandstatistics.blogspot.com](https://educationandstatistics.blogspot.com)
- - date published: 2023-10-25T09:08:22.410886+00:00
- - user: None
- - tags: ['personal']
-
-## Egyptian Chronicles
- - [https://egyptianchronicles.blogspot.com](https://egyptianchronicles.blogspot.com)
- - date published: 2023-10-25T09:08:26.568446+00:00
- - user: None
- - tags: ['personal']
-
-## Epeus' epigone
- - [https://epeus.blogspot.com](https://epeus.blogspot.com)
- - date published: 2023-10-31T19:57:41.846195+00:00
- - user: None
- - tags: []
-
-## Epic & Monic is not Iso!
- - [https://epicandmonicisnotiso.blogspot.com](https://epicandmonicisnotiso.blogspot.com)
- - date published: 2023-10-25T09:08:27.957242+00:00
- - user: None
- - tags: ['personal']
-
-## Everquest Daily Grind: MMORPG Infinity (no beyond)
- - [https://eqdailygrind.blogspot.com](https://eqdailygrind.blogspot.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## ever green knits
- - [https://evergreenknits.blogspot.com](https://evergreenknits.blogspot.com)
- - date published: 2024-02-08T17:48:05.113512+00:00
  - user: None
  - tags: []
 

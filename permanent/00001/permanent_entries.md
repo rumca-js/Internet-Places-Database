@@ -1,3 +1,33 @@
+## Colin Woodbury - About
+ - [https://www.fosskers.ca](https://www.fosskers.ca)
+ - date published: 2024-01-29T23:02:20.819692+00:00
+ - user: None
+ - tags: []
+
+## froghat.ca
+ - [https://froghat.ca](https://froghat.ca)
+ - date published: 2023-10-25T09:02:17.770370+00:00
+ - user: None
+ - tags: ['personal']
+
+## Tim Gadanidis - Home
+ - [https://gadanidis.ca](https://gadanidis.ca)
+ - date published: 2023-10-25T08:42:54.581662+00:00
+ - user: None
+ - tags: ['personal']
+
+## National Gallery of Canada
+ - [https://www.gallery.ca](https://www.gallery.ca)
+ - date published: 2023-11-13T13:45:23.318113+00:00
+ - user: None
+ - tags: ['museum']
+
+## Global News | Breaking, Latest News and Video for Canada
+ - [https://globalnews.ca](https://globalnews.ca)
+ - date published: 2023-10-25T10:36:35.873873+00:00
+ - user: None
+ - tags: []
+
 ## Home - Global ResearchGlobal Research - Centre for Research on Globalization
  - [https://www.globalresearch.ca](https://www.globalresearch.ca)
  - date published: 2023-10-25T12:05:13.017051+00:00
@@ -89,14 +119,14 @@
  - tags: ['personal']
 
 ## Author Jenn Ashton
- - [https://jenniferashton.ca](https://jenniferashton.ca)
- - date published: 2023-12-20T19:14:23.669927+00:00
+ - [http://jenniferashton.ca](http://jenniferashton.ca)
+ - date published: 2023-12-25T04:56:31.047100+00:00
  - user: None
  - tags: ['personal']
 
 ## Author Jenn Ashton
- - [http://jenniferashton.ca](http://jenniferashton.ca)
- - date published: 2023-12-25T04:56:31.047100+00:00
+ - [https://jenniferashton.ca](https://jenniferashton.ca)
+ - date published: 2023-12-20T19:14:23.669927+00:00
  - user: None
  - tags: ['personal']
 
@@ -2397,6 +2427,12 @@
 ## DocuSeal – Open-source Document Signing
  - [https://www.docuseal.co](https://www.docuseal.co)
  - date published: 2023-12-21T07:48:10+00:00
+ - user: None
+ - tags: []
+
+## Frederik Dudzik
+ - [https://dudzik.co](https://dudzik.co)
+ - date published: 2024-03-13T16:29:43.170418+00:00
  - user: None
  - tags: []
 
@@ -4758,6 +4794,12 @@
  - user: None
  - tags: ['personal']
 
+## Adam Levin - Cybersecurity News, Opinions, and Analysis from Leading Experts AdamLevin
+ - [https://adamlevin.com](https://adamlevin.com)
+ - date published: 2024-03-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Adam Mattis - Technology & Operations Exec
  - [https://www.adammattis.com](https://www.adammattis.com)
  - date published: 2024-01-19T13:01:04.477003+00:00
@@ -5957,48 +5999,6 @@
 ## Alex Vermeer — Life-Hacking. Climbing. Striving for awesome. Coffee.
  - [https://alexvermeer.com](https://alexvermeer.com)
  - date published: 2023-10-25T12:38:14.741434+00:00
- - user: None
- - tags: []
-
-## About - Alfred Megally
- - [https://alfredmegally.com](https://alfredmegally.com)
- - date published: 2024-01-09T08:53:49.175773+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Algemeiner.com
- - [https://www.algemeiner.com](https://www.algemeiner.com)
- - date published: 2023-11-02T18:22:20.943073+00:00
- - user: None
- - tags: []
-
-## Algiers - Shook
- - [https://algierstheband.com](https://algierstheband.com)
- - date published: 2024-02-08T17:42:26.570971+00:00
- - user: None
- - tags: []
-
-## HN Search powered by Algolia
- - [https://hn.algolia.com](https://hn.algolia.com)
- - date published: 2023-10-25T08:27:21.164795+00:00
- - user: None
- - tags: []
-
-## Site Search & Discovery powered by AI
- - [https://www.algolia.com](https://www.algolia.com)
- - date published: 2023-10-25T08:37:14.759838+00:00
- - user: None
- - tags: []
-
-## Life & Computing Science
- - [https://alhassy.com](https://alhassy.com)
- - date published: 2023-10-25T12:38:28.825548+00:00
- - user: None
- - tags: []
-
-## Alial Travel Gal - How to Travel Forever
- - [https://alialtravelgal.com](https://alialtravelgal.com)
- - date published: 2024-01-04T22:43:25.729675+00:00
  - user: None
  - tags: []
 
