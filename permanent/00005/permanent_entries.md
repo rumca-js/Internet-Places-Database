@@ -1,3 +1,39 @@
+## Elsevier | An Information Analytics Business
+ - [https://www.elsevier.com](https://www.elsevier.com)
+ - date published: 2023-11-09T12:46:24.027751+00:00
+ - user: None
+ - tags: []
+
+## https://www.elvisdigital.com
+ - [https://www.elvisdigital.com](https://www.elvisdigital.com)
+ - date published: 2024-01-07T04:14:20.741356+00:00
+ - user: None
+ - tags: []
+
+## https://www.elvistrooper.com
+ - [https://www.elvistrooper.com](https://www.elvistrooper.com)
+ - date published: 2024-02-08T22:06:52.175158+00:00
+ - user: None
+ - tags: []
+
+## Music by Elwood & Magellanic Milk
+ - [https://www.elwoodproductions.com](https://www.elwoodproductions.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['keygen', 'retro music', 'chiptune', 'demoscene']
+
+## Home | Ely Echo
+ - [https://www.elyecho.com](https://www.elyecho.com)
+ - date published: 2023-12-11T17:20:17.281571+00:00
+ - user: None
+ - tags: []
+
+## Emmanuel Maggiori – Freelance software engineer
+ - [https://emaggiori.com](https://emaggiori.com)
+ - date published: 2023-10-25T14:06:10.029962+00:00
+ - user: None
+ - tags: []
+
 ## EmailTriager · Email on autopilot.
  - [https://www.emailtriager.com](https://www.emailtriager.com)
  - date published: 2023-10-25T14:06:11.687117+00:00
@@ -1457,14 +1493,14 @@
  - tags: []
 
 ## ezyang’s blog
- - [https://blog.ezyang.com](https://blog.ezyang.com)
- - date published: 2024-01-09T01:37:06.985730+00:00
+ - [http://blog.ezyang.com](http://blog.ezyang.com)
+ - date published: 2024-02-26T14:52:50.963348+00:00
  - user: None
  - tags: []
 
 ## ezyang’s blog
- - [http://blog.ezyang.com](http://blog.ezyang.com)
- - date published: 2024-02-26T14:52:50.963348+00:00
+ - [https://blog.ezyang.com](https://blog.ezyang.com)
+ - date published: 2024-01-09T01:37:06.985730+00:00
  - user: None
  - tags: []
 
@@ -1540,17 +1576,17 @@
  - user: rumpel
  - tags: ['facebook']
 
-## Log in or sign up to view
- - [http://www.facebook.com](http://www.facebook.com)
- - date published: 2024-02-24T09:54:20.558477+00:00
- - user: None
- - tags: []
-
 ## Facebook
  - [https://www.facebook.com](https://www.facebook.com)
  - date published: 2023-10-24T20:15:12+00:00
  - user: rumpel
  - tags: ['gatekeeper', 'social platform']
+
+## Log in or sign up to view
+ - [http://www.facebook.com](http://www.facebook.com)
+ - date published: 2024-02-24T09:54:20.558477+00:00
+ - user: None
+ - tags: []
 
 ## In re: Facebook, Inc. Consumer Privacy User Profile Litigation
  - [https://www.facebookuserprivacysettlement.com](https://www.facebookuserprivacysettlement.com)
@@ -1901,14 +1937,14 @@
  - tags: []
 
 ## Fang-Pen's coding note
- - [https://fangpenlin.com](https://fangpenlin.com)
- - date published: 2024-01-15T18:30:18.650651+00:00
+ - [http://fangpenlin.com](http://fangpenlin.com)
+ - date published: 2024-01-14T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Fang-Pen's coding note
- - [http://fangpenlin.com](http://fangpenlin.com)
- - date published: 2024-01-14T00:00:00+00:00
+ - [https://fangpenlin.com](https://fangpenlin.com)
+ - date published: 2024-01-15T18:30:18.650651+00:00
  - user: None
  - tags: []
 
@@ -2212,15 +2248,15 @@
  - user: None
  - tags: []
 
-## None
- - [http://feeds.feedburner.com](http://feeds.feedburner.com)
- - date published: 2024-02-25T14:03:04.041505+00:00
- - user: None
- - tags: []
-
 ## Error 404 (Not Found)!!1
  - [https://feeds.feedburner.com](https://feeds.feedburner.com)
  - date published: 2024-01-09T02:36:30.505752+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://feeds.feedburner.com](http://feeds.feedburner.com)
+ - date published: 2024-02-25T14:03:04.041505+00:00
  - user: None
  - tags: []
 
@@ -2824,7 +2860,7 @@
  - user: None
  - tags: []
 
-## None
+## Flipboard: Your Social Magazine
  - [https://flipboard.com](https://flipboard.com)
  - date published: 2023-12-11T19:33:15.316023+00:00
  - user: None
@@ -3143,14 +3179,14 @@
  - tags: []
 
 ## None
- - [https://forbiddenplanet.com](https://forbiddenplanet.com)
- - date published: 2024-02-25T20:19:58.237177+00:00
+ - [http://forbiddenplanet.com](http://forbiddenplanet.com)
+ - date published: 2024-02-25T20:20:06.293093+00:00
  - user: None
  - tags: []
 
 ## None
- - [http://forbiddenplanet.com](http://forbiddenplanet.com)
- - date published: 2024-02-25T20:20:06.293093+00:00
+ - [https://forbiddenplanet.com](https://forbiddenplanet.com)
+ - date published: 2024-02-25T20:19:58.237177+00:00
  - user: None
  - tags: []
 
@@ -5478,17 +5514,17 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: ['code sandbox']
 
-## GitHub: Let’s build from here · GitHub
- - [https://github.com](https://github.com)
- - date published: 2023-10-25T14:42:43.938249+00:00
- - user: None
- - tags: ['gatekeeper', 'software platform']
-
 ## Grimoire: Open-Source bookmark manager with extra features
  - [https://github.com/goniszewski/grimoire](https://github.com/goniszewski/grimoire)
  - date published: 2023-11-26T08:04:54+00:00
  - user: rumpel
  - tags: ['bookmark manager', 'open source']
+
+## GitHub: Let’s build from here · GitHub
+ - [https://github.com](https://github.com)
+ - date published: 2023-10-25T14:42:43.938249+00:00
+ - user: None
+ - tags: ['gatekeeper', 'software platform']
 
 ## GitHub Pages
  - [https://pages.github.com](https://pages.github.com)
@@ -5669,6 +5705,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-11-01T18:27:48.715499+00:00
  - user: None
  - tags: ['polymer clay', 'sculpting']
+
+## Security | Glassdoor
+ - [https://www.glassdoor.com](https://www.glassdoor.com)
+ - date published: 2024-03-14T17:44:11+00:00
+ - user: rumpel
+ - tags: ['social platform', 'job platform', 'work platform']
 
 ## Gliglish · Your AI Language Teacher | Practice speaking & listening
  - [https://gliglish.com](https://gliglish.com)
@@ -5957,46 +5999,4 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2024-01-30T00:00:00+00:00
  - user: None
  - tags: []
-
-## Hey, I'm Gonz
- - [https://gonsanchezs.com](https://gonsanchezs.com)
- - date published: 2023-11-29T15:16:11.940294+00:00
- - user: None
- - tags: ['personal']
-
-## Build a Free Website - Network Solutions
- - [https://gonzalomurillo.com](https://gonzalomurillo.com)
- - date published: 2023-10-10T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## GonzoKnows - A minimal, responsive, and powerful personal website designed to educate others.
- - [https://gonzoknows.com](https://gonzoknows.com)
- - date published: 2023-10-25T14:47:06.140156+00:00
- - user: None
- - tags: []
-
-## Good e-Reader - E-Reader News and Reviews
- - [https://goodereader.com](https://goodereader.com)
- - date published: 2023-10-25T11:19:00.115619+00:00
- - user: None
- - tags: []
-
-## Recipe Ideas, Product Reviews, Home Decor Inspiration, and  Beauty Tips - Good Housekeeping
- - [https://www.goodhousekeeping.com](https://www.goodhousekeeping.com)
- - date published: 2024-03-06T11:56:20.994202+00:00
- - user: None
- - tags: []
-
-## GMA - Good Morning America
- - [https://www.goodmorningamerica.com](https://www.goodmorningamerica.com)
- - date published: 2023-10-25T14:47:14.656778+00:00
- - user: None
- - tags: []
-
-## Goodreads
- - [https://www.goodreads.com](https://www.goodreads.com)
- - date published: 2023-10-29T14:35:04.185228+00:00
- - user: None
- - tags: ['books']
 

@@ -1138,6 +1138,12 @@
  - user: None
  - tags: []
 
+## Meticulate App
+ - [https://meticulate.ai](https://meticulate.ai)
+ - date published: 2024-03-14T17:29:48.537561+00:00
+ - user: None
+ - tags: []
+
 ## Mid Journey AI
  - [https://mid-journey.ai](https://mid-journey.ai)
  - date published: 2023-12-22T14:57:29.032690+00:00
@@ -5992,10 +5998,4 @@
  - date published: 2023-10-25T12:04:53.238516+00:00
  - user: None
  - tags: []
-
-## Finbarr Timbers
- - [https://finbarr.ca](https://finbarr.ca)
- - date published: 2023-10-25T08:42:53.636850+00:00
- - user: None
- - tags: ['personal']
 

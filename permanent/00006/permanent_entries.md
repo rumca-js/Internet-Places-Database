@@ -1,3 +1,45 @@
+## Hey, I'm Gonz
+ - [https://gonsanchezs.com](https://gonsanchezs.com)
+ - date published: 2023-11-29T15:16:11.940294+00:00
+ - user: None
+ - tags: ['personal']
+
+## Build a Free Website - Network Solutions
+ - [https://gonzalomurillo.com](https://gonzalomurillo.com)
+ - date published: 2023-10-10T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## GonzoKnows - A minimal, responsive, and powerful personal website designed to educate others.
+ - [https://gonzoknows.com](https://gonzoknows.com)
+ - date published: 2023-10-25T14:47:06.140156+00:00
+ - user: None
+ - tags: []
+
+## Good e-Reader - E-Reader News and Reviews
+ - [https://goodereader.com](https://goodereader.com)
+ - date published: 2023-10-25T11:19:00.115619+00:00
+ - user: None
+ - tags: []
+
+## Recipe Ideas, Product Reviews, Home Decor Inspiration, and  Beauty Tips - Good Housekeeping
+ - [https://www.goodhousekeeping.com](https://www.goodhousekeeping.com)
+ - date published: 2024-03-06T11:56:20.994202+00:00
+ - user: None
+ - tags: []
+
+## GMA - Good Morning America
+ - [https://www.goodmorningamerica.com](https://www.goodmorningamerica.com)
+ - date published: 2023-10-25T14:47:14.656778+00:00
+ - user: None
+ - tags: []
+
+## Goodreads
+ - [https://www.goodreads.com](https://www.goodreads.com)
+ - date published: 2023-10-29T14:35:04.185228+00:00
+ - user: None
+ - tags: ['books']
+
 ## Sign in - Google Accounts
  - [https://accounts.google.com](https://accounts.google.com)
  - date published: 2023-12-13T16:04:41.466509+00:00
@@ -250,17 +292,17 @@
  - user: None
  - tags: []
 
-## Google
- - [https://www.google.com](https://www.google.com)
- - date published: 2023-10-25T08:28:06.744876+00:00
- - user: None
- - tags: ['gatekeeper', 'search engine']
-
 ## Google flights
  - [https://www.google.com/travel/flights](https://www.google.com/travel/flights)
  - date published: 2024-01-02T07:35:30+00:00
  - user: rumpel
  - tags: []
+
+## Google
+ - [https://www.google.com](https://www.google.com)
+ - date published: 2023-10-25T08:28:06.744876+00:00
+ - user: None
+ - tags: ['gatekeeper', 'search engine']
 
 ## Hosted Libraries  |  Google for Developers
  - [https://ajax.googleapis.com](https://ajax.googleapis.com)
@@ -908,14 +950,14 @@
  - tags: []
 
 ## Mike Cardwell - Grepular
- - [http://www.grepular.com](http://www.grepular.com)
- - date published: 2024-02-25T20:34:46.182983+00:00
+ - [https://www.grepular.com](https://www.grepular.com)
+ - date published: 2024-01-14T20:30:07.543187+00:00
  - user: None
  - tags: []
 
 ## Mike Cardwell - Grepular
- - [https://www.grepular.com](https://www.grepular.com)
- - date published: 2024-01-14T20:30:07.543187+00:00
+ - [http://www.grepular.com](http://www.grepular.com)
+ - date published: 2024-02-25T20:34:46.182983+00:00
  - user: None
  - tags: []
 
@@ -4430,16 +4472,16 @@
  - tags: ['information company', 'india']
 
 ## InfoWorld - Technology insight for the enterprise
- - [https://www.infoworld.com](https://www.infoworld.com)
- - date published: 2023-10-25T09:33:30.464349+00:00
- - user: None
- - tags: ['tech news']
-
-## InfoWorld - Technology insight for the enterprise
  - [http://www.infoworld.com](http://www.infoworld.com)
  - date published: 2024-02-25T20:55:36.520873+00:00
  - user: None
  - tags: []
+
+## InfoWorld - Technology insight for the enterprise
+ - [https://www.infoworld.com](https://www.infoworld.com)
+ - date published: 2023-10-25T09:33:30.464349+00:00
+ - user: None
+ - tags: ['tech news']
 
 ## Infrastructure as Code
  - [https://infrastructure-as-code.com](https://infrastructure-as-code.com)
@@ -5749,6 +5791,12 @@
  - user: None
  - tags: []
 
+## Jim Fisher
+ - [https://jameshfisher.com](https://jameshfisher.com)
+ - date published: 2024-03-14T08:58:11.334590+00:00
+ - user: None
+ - tags: ['personal']
+
 ## James Huntingford | Piano — Fortepiano — Harpsichord
  - [https://jameshuntingford.com](https://jameshuntingford.com)
  - date published: 2024-02-08T22:17:40.431825+00:00
@@ -5950,54 +5998,6 @@
 ## Yarve Main
  - [https://jaroslavplotnikov.com](https://jaroslavplotnikov.com)
  - date published: 2023-12-07T17:38:14.106465+00:00
- - user: None
- - tags: ['personal']
-
-## Derek Jarvis' Blog
- - [https://jarvispowered.com](https://jarvispowered.com)
- - date published: 2023-10-25T09:20:50.084354+00:00
- - user: None
- - tags: ['personal']
-
-## Almost looks like work
- - [https://jasmcole.com](https://jasmcole.com)
- - date published: 2023-10-25T15:26:56.478165+00:00
- - user: None
- - tags: []
-
-## JASMINE LOW – creative journeys of a writer, producer & director
- - [https://www.jasminelow.com](https://www.jasminelow.com)
- - date published: 2024-01-27T17:52:43.428577+00:00
- - user: None
- - tags: []
-
-## Jason Charnes: A Ruby Developer in Memphis
- - [https://jasoncharnes.com](https://jasoncharnes.com)
- - date published: 2024-01-09T08:54:40.830143+00:00
- - user: None
- - tags: []
-
-## JASON COLAVITO - Home
- - [https://www.jasoncolavito.com](https://www.jasoncolavito.com)
- - date published: 2023-10-25T15:27:13.210438+00:00
- - user: None
- - tags: []
-
-## Jason Davies - Freelance Data Visualisation
- - [https://www.jasondavies.com](https://www.jasondavies.com)
- - date published: 2023-10-25T08:31:16.657113+00:00
- - user: None
- - tags: []
-
-## Simply Confusing
- - [https://jasonfantl.com](https://jasonfantl.com)
- - date published: 2023-10-25T15:27:14.283439+00:00
- - user: None
- - tags: []
-
-## Jason Markow
- - [https://www.jasonmarkow.com](https://www.jasonmarkow.com)
- - date published: 2023-11-29T14:22:42.135828+00:00
  - user: None
  - tags: ['personal']
 

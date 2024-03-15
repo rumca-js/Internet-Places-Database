@@ -1,3 +1,33 @@
+## Twin methods in OpenMx
+ - [http://dbtemp.blogspot.com](http://dbtemp.blogspot.com)
+ - date published: 2024-02-25T15:50:25.877373+00:00
+ - user: None
+ - tags: []
+
+## BishopBlog
+ - [https://deevybee.blogspot.com](https://deevybee.blogspot.com)
+ - date published: 2023-11-19T21:54:20.334258+00:00
+ - user: None
+ - tags: []
+
+## BishopBlog
+ - [http://deevybee.blogspot.com](http://deevybee.blogspot.com)
+ - date published: 2024-02-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## diamond geezer
+ - [https://diamondgeezer.blogspot.com](https://diamondgeezer.blogspot.com)
+ - date published: 2023-10-25T09:08:20.616641+00:00
+ - user: None
+ - tags: ['personal']
+
+## Disagreeable Me
+ - [https://disagreeableme.blogspot.com](https://disagreeableme.blogspot.com)
+ - date published: 2023-10-25T13:05:14.763793+00:00
+ - user: None
+ - tags: []
+
 ## Diary of a Devman
  - [https://doadm-notes.blogspot.com](https://doadm-notes.blogspot.com)
  - date published: 2023-10-25T13:05:19.829141+00:00
@@ -209,14 +239,14 @@
  - tags: []
 
 ## Kiwi Hellenist
- - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
+ - date published: 2023-11-28T20:46:36.488371+00:00
  - user: None
  - tags: []
 
 ## Kiwi Hellenist
- - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
- - date published: 2023-11-28T20:46:36.488371+00:00
+ - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2200,7 +2230,7 @@
  - [https://www.businessinsider.com](https://www.businessinsider.com)
  - date published: 2023-10-25T10:25:10.457971+00:00
  - user: None
- - tags: []
+ - tags: ['business news']
 
 ## Business Insurance | News for Insurance Professionals
  - [https://www.businessinsurance.com](https://www.businessinsurance.com)
@@ -4038,17 +4068,17 @@
  - user: None
  - tags: []
 
-## None
- - [http://chrisjstott.com](http://chrisjstott.com)
- - date published: 2024-02-29T14:58:49.595292+00:00
- - user: None
- - tags: []
-
 ## http://chrisjstott.com
  - [https://chrisjstott.com](https://chrisjstott.com)
  - date published: 2024-01-24T08:01:05.864817+00:00
  - user: None
  - tags: ['personal']
+
+## None
+ - [http://chrisjstott.com](http://chrisjstott.com)
+ - date published: 2024-02-29T14:58:49.595292+00:00
+ - user: None
+ - tags: []
 
 ## Home - Blogomatano
  - [https://chriskiehl.com](https://chriskiehl.com)
@@ -5867,15 +5897,15 @@
  - user: None
  - tags: []
 
-## IT news, careers, business technology, reviews | Computerworld
- - [https://www.computerworld.com](https://www.computerworld.com)
- - date published: 2023-10-25T09:32:24.152677+00:00
- - user: None
- - tags: []
-
 ## IT news, careers, business technology, reviews
  - [http://www.computerworld.com](http://www.computerworld.com)
  - date published: 2024-02-25T19:22:09.150165+00:00
+ - user: None
+ - tags: []
+
+## IT news, careers, business technology, reviews | Computerworld
+ - [https://www.computerworld.com](https://www.computerworld.com)
+ - date published: 2023-10-25T09:32:24.152677+00:00
  - user: None
  - tags: []
 
@@ -5978,36 +6008,6 @@
 ## https://eu2.contabostorage.com
  - [https://eu2.contabostorage.com](https://eu2.contabostorage.com)
  - date published: 2023-12-11T16:35:56.582138+00:00
- - user: None
- - tags: []
-
-## Show HN: I built ContainerCVE – a web tool to scan public Docker images
- - [https://containercve.com](https://containercve.com)
- - date published: 2023-12-30T02:16:21+00:00
- - user: None
- - tags: []
-
-## Best Free AI Copywriting & SEO Content Generation Tool | ContentEdge
- - [https://www.contentedge.com](https://www.contentedge.com)
- - date published: 2023-10-25T13:33:16.108871+00:00
- - user: None
- - tags: ['seo', 'content farm']
-
-## Sequentum | Low Code Web Data Pipelines at Enterprise Scale
- - [https://contentgrabber.com](https://contentgrabber.com)
- - date published: 2024-01-17T09:10:05+00:00
- - user: rumpel
- - tags: ['web scraping']
-
-## 403 Forbidden
- - [https://wasm.continuation-labs.com](https://wasm.continuation-labs.com)
- - date published: 2024-01-09T02:32:43.316186+00:00
- - user: None
- - tags: []
-
-## Contrast Rebellion - to hell with unreadable, low-contrast texts!
- - [https://contrastrebellion.com](https://contrastrebellion.com)
- - date published: 2023-10-25T13:33:18.047922+00:00
  - user: None
  - tags: []
 

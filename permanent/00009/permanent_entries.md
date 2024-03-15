@@ -1,3 +1,69 @@
+## Museum of Failure Main - Museum of Failure
+ - [https://museumoffailure.com](https://museumoffailure.com)
+ - date published: 2023-10-25T16:08:49.578439+00:00
+ - user: None
+ - tags: []
+
+## MWF2014: Museums and the Web Florence 2014 | February 18-21, 2014 | Florence, Italy
+ - [https://mwf2014.museumsandtheweb.com](https://mwf2014.museumsandtheweb.com)
+ - date published: 2014-04-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home Page
+ - [https://www.musicconnection.com](https://www.musicconnection.com)
+ - date published: 2024-02-24T18:23:08.787461+00:00
+ - user: None
+ - tags: []
+
+## Music Entrepreneur HQ: Music Business Training and Music Marketing Strategies
+ - [https://www.musicentrepreneurhq.com](https://www.musicentrepreneurhq.com)
+ - date published: 2023-11-29T14:18:19.324945+00:00
+ - user: None
+ - tags: ['personal']
+
+## Music Industry | Record labels | Record Companies | Music Gateway
+ - [https://www.musicgateway.com](https://www.musicgateway.com)
+ - date published: 2023-10-28T20:09:12.896749+00:00
+ - user: None
+ - tags: []
+
+## Musician Wave | The Ultimate Resource for Music Makers
+ - [https://www.musicianwave.com](https://www.musicianwave.com)
+ - date published: 2023-10-25T11:13:38.064016+00:00
+ - user: None
+ - tags: []
+
+## The Music Photography of Ed Perlstein
+ - [https://www.musicimages.com](https://www.musicimages.com)
+ - date published: 2024-02-08T22:07:46.688222+00:00
+ - user: None
+ - tags: []
+
+## Music-Map – Find Similar Music
+ - [https://www.music-map.com](https://www.music-map.com)
+ - date published: 2023-12-01T00:44:21+00:00
+ - user: None
+ - tags: []
+
+## musicnotes.com
+ - [https://www.musicnotes.com](https://www.musicnotes.com)
+ - date published: 2023-11-13T12:45:38.213438+00:00
+ - user: None
+ - tags: ['music notes', 'database']
+
+## Musico - AI generative music
+ - [https://musi-co.com](https://musi-co.com)
+ - date published: 2024-01-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Musico - AI generative music
+ - [https://www.musi-co.com](https://www.musi-co.com)
+ - date published: 2023-10-25T16:08:56.804634+00:00
+ - user: None
+ - tags: []
+
 ## Music Player Network
  - [https://forums.musicplayer.com](https://forums.musicplayer.com)
  - date published: 2024-02-24T00:00:00+00:00
@@ -332,6 +398,12 @@
  - [https://nanoporetech.com](https://nanoporetech.com)
  - date published: 2023-11-28T06:40:57.895158+00:00
  - user: None
+ - tags: []
+
+## Kleindiek Nanotechnik: Home
+ - [https://nanotechnik.com](https://nanotechnik.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: rumpel
  - tags: []
 
 ## NanoVMs
@@ -4054,14 +4126,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## The OS/2 Museum
- - [https://www.os2museum.com](https://www.os2museum.com)
- - date published: 2023-10-25T16:27:40.415903+00:00
+ - [http://www.os2museum.com](http://www.os2museum.com)
+ - date published: 2024-02-25T18:55:49.882025+00:00
  - user: None
  - tags: []
 
 ## The OS/2 Museum
- - [http://www.os2museum.com](http://www.os2museum.com)
- - date published: 2024-02-25T18:55:49.882025+00:00
+ - [https://www.os2museum.com](https://www.os2museum.com)
+ - date published: 2023-10-25T16:27:40.415903+00:00
  - user: None
  - tags: []
 
@@ -4234,7 +4306,7 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
-## None
+## renegat0x0 site
  - [https://widgets.outbrain.com](https://widgets.outbrain.com)
  - date published: 2023-12-11T16:36:52.135525+00:00
  - user: None
@@ -4757,16 +4829,16 @@ Answering Machine Greetings!
  - tags: []
 
 ## Paperlike | Official Online Store
- - [http://paperlike.com](http://paperlike.com)
- - date published: 2024-02-24T09:57:05.617898+00:00
- - user: None
- - tags: ['screen protector']
-
-## Paperlike | Official Online Store
  - [https://paperlike.com](https://paperlike.com)
  - date published: 2024-03-07T19:36:45.060837+00:00
  - user: None
  - tags: []
+
+## Paperlike | Official Online Store
+ - [http://paperlike.com](http://paperlike.com)
+ - date published: 2024-02-24T09:57:05.617898+00:00
+ - user: None
+ - tags: ['screen protector']
 
 ## Paperpile Reference Manager
  - [https://paperpile.com](https://paperpile.com)
@@ -5266,15 +5338,15 @@ Answering Machine Greetings!
  - user: None
  - tags: ['personal']
 
-## PCMag.com - Technology Product Reviews, News, Prices & Tips
- - [https://uk.pcmag.com](https://uk.pcmag.com)
- - date published: 2023-10-25T09:34:32.882984+00:00
- - user: None
- - tags: []
-
 ## PCMag UK
  - [http://uk.pcmag.com](http://uk.pcmag.com)
  - date published: 2024-02-26T09:45:15.403718+00:00
+ - user: None
+ - tags: []
+
+## PCMag.com - Technology Product Reviews, News, Prices & Tips
+ - [https://uk.pcmag.com](https://uk.pcmag.com)
+ - date published: 2023-10-25T09:34:32.882984+00:00
  - user: None
  - tags: []
 
@@ -5495,14 +5567,14 @@ Answering Machine Greetings!
  - tags: ['personal']
 
 ## Perfection Kills
- - [http://perfectionkills.com](http://perfectionkills.com)
- - date published: 2015-11-04T00:00:00+00:00
+ - [https://perfectionkills.com](https://perfectionkills.com)
+ - date published: 2024-01-09T02:46:05.195684+00:00
  - user: None
  - tags: []
 
 ## Perfection Kills
- - [https://perfectionkills.com](https://perfectionkills.com)
- - date published: 2024-01-09T02:46:05.195684+00:00
+ - [http://perfectionkills.com](http://perfectionkills.com)
+ - date published: 2015-11-04T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5867,13 +5939,13 @@ Answering Machine Greetings!
  - tags: []
 
 ## Paul's Dev Notes
- - [https://www.pfrazee.com](https://www.pfrazee.com)
+ - [http://www.pfrazee.com](http://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Paul's Dev Notes
- - [http://www.pfrazee.com](http://www.pfrazee.com)
+ - [https://www.pfrazee.com](https://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -5931,76 +6003,4 @@ Answering Machine Greetings!
  - date published: 2024-02-06T12:41:49+00:00
  - user: rumpel
  - tags: ['fan page']
-
-## Philip Joubert
- - [https://philipjoubert.com](https://philipjoubert.com)
- - date published: 2023-10-25T16:33:37.806303+00:00
- - user: None
- - tags: []
-
-## Vallified | Philip O'Toole
- - [https://www.philipotoole.com](https://www.philipotoole.com)
- - date published: 2023-10-25T16:33:43.745965+00:00
- - user: None
- - tags: []
-
-## Philipp Schmitt
- - [https://philippschmitt.com](https://philippschmitt.com)
- - date published: 2023-10-25T16:33:53.542014+00:00
- - user: None
- - tags: []
-
-## Hey There Buddo!
- - [https://www.philipzucker.com](https://www.philipzucker.com)
- - date published: 2024-01-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Musician, Web Developer, Entrepreneur - Phillip Harrington
- - [https://phillipharrington.com](https://phillipharrington.com)
- - date published: 2023-11-16T20:40:41.297992+00:00
- - user: None
- - tags: ['personal']
-
-## Philly Flight List - Cheap Flights from Philadelphia
- - [https://phillyflightlist.com](https://phillyflightlist.com)
- - date published: 2023-10-25T16:33:56.033848+00:00
- - user: None
- - tags: []
-
-## Philadelphia Magazine | News, Restaurants, Best of Philly
- - [https://www.phillymag.com](https://www.phillymag.com)
- - date published: 2023-10-25T16:34:02.217335+00:00
- - user: None
- - tags: []
-
-## Philadelphia Sports Acupuncture
- - [https://www.phillysportsacupuncture.com](https://www.phillysportsacupuncture.com)
- - date published: 2024-01-03T04:06:18.834325+00:00
- - user: None
- - tags: []
-
-## Dr. Phil Maffetone - founder of the 180 formula and MAF test
- - [https://philmaffetone.com](https://philmaffetone.com)
- - date published: 2023-11-18T07:33:39.194122+00:00
- - user: None
- - tags: []
-
-## Philoinvestor | Substack
- - [https://www.philoinvestor.com](https://www.philoinvestor.com)
- - date published: 2024-01-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.philonomist.com](https://www.philonomist.com)
- - date published: 2024-01-29T16:57:47.405435+00:00
- - user: None
- - tags: []
-
-## Reversing entropy, locally
- - [https://philoserf.com](https://philoserf.com)
- - date published: 2023-12-03T01:43:34.806253+00:00
- - user: None
- - tags: ['personal']
 

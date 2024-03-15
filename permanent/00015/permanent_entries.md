@@ -1,3 +1,129 @@
+## Ascii Art Dictionary (Andreas Freise)
+ - [https://www.ascii-art.de](https://www.ascii-art.de)
+ - date published: 2024-01-09T02:56:13.535941+00:00
+ - user: None
+ - tags: []
+
+## Новости Германии: последние события на русском языке
+ - [https://aussiedlerbote.de](https://aussiedlerbote.de)
+ - date published: 2023-11-28T21:06:27.794315+00:00
+ - user: None
+ - tags: []
+
+## Auto News, Automarken und Testberichte - autozeitung.de
+ - [https://www.autozeitung.de](https://www.autozeitung.de)
+ - date published: 2023-12-06T11:50:31+00:00
+ - user: rumpel
+ - tags: ['vehicle news']
+
+## AWS Works Council Germany
+ - [https://www.aws-works-council-initiative.de](https://www.aws-works-council-initiative.de)
+ - date published: 2023-10-25T18:27:47.880406+00:00
+ - user: None
+ - tags: []
+
+## Baker Tilly. 4 Perspektiven. Eine Lösung. Weltweit.
+ - [https://www.bakertilly.de](https://www.bakertilly.de)
+ - date published: 2023-10-25T18:27:57.686783+00:00
+ - user: None
+ - tags: []
+
+## Ballettschule Frankfurt Ostend - Ballett für Kinder und Erwachsene
+ - [https://www.ballettstudio-ost.de](https://www.ballettstudio-ost.de)
+ - date published: 2023-11-29T14:43:02.887375+00:00
+ - user: None
+ - tags: ['personal']
+
+## Benchkram
+ - [https://benchkram.de](https://benchkram.de)
+ - date published: 2023-10-25T18:27:59.151379+00:00
+ - user: None
+ - tags: []
+
+## Bernd Paysan
+ - [https://bernd-paysan.de](https://bernd-paysan.de)
+ - date published: 2024-01-08T13:27:29.644413+00:00
+ - user: None
+ - tags: []
+
+## BfS  -  Startseite
+ - [https://www.bfs.de](https://www.bfs.de)
+ - date published: 2023-10-25T18:28:14.718430+00:00
+ - user: None
+ - tags: []
+
+## Aktuelle Nachrichten | BILD.de
+ - [https://bild.de](https://bild.de)
+ - date published: 2023-10-29T18:16:15.369094+00:00
+ - user: rumpel
+ - tags: ['germany news']
+
+## Aktuelle Nachrichten | BILD.de
+ - [https://m.bild.de](https://m.bild.de)
+ - date published: 2023-10-29T18:15:30.206767+00:00
+ - user: None
+ - tags: ['news']
+
+## Aktuelle Nachrichten | BILD.de
+ - [https://www.bild.de](https://www.bild.de)
+ - date published: 2023-10-25T18:28:30.805665+00:00
+ - user: None
+ - tags: []
+
+## Welcome - BioWissKomm
+ - [https://www.biowisskomm.de](https://www.biowisskomm.de)
+ - date published: 2024-01-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## BRouter: Advanced OSM Routing
+ - [https://www.brouter.de](https://www.brouter.de)
+ - date published: 2024-01-09T02:56:14.180424+00:00
+ - user: None
+ - tags: []
+
+## social.bund.de
+ - [https://social.bund.de](https://social.bund.de)
+ - date published: 2023-10-25T18:28:31.356395+00:00
+ - user: None
+ - tags: []
+
+## Deutscher Bundestag - Startseite
+ - [https://www.bundestag.de](https://www.bundestag.de)
+ - date published: 2024-02-23T17:03:51.767786+00:00
+ - user: None
+ - tags: []
+
+## Bundestagsshop
+ - [https://www.bundestagsshop.de](https://www.bundestagsshop.de)
+ - date published: 2023-12-07T12:22:20.768351+00:00
+ - user: None
+ - tags: []
+
+## Bundesverfassungsgericht  -  Startseite
+ - [https://www.bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de)
+ - date published: 2023-10-25T18:28:33.150667+00:00
+ - user: None
+ - tags: []
+
+## Default Parallels Plesk Page
+ - [https://www.carbon-power.de](https://www.carbon-power.de)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Carmen Radeck – thoughts and collages
+ - [https://carmen-radeck.de](https://carmen-radeck.de)
+ - date published: 2024-02-25T15:38:10.705953+00:00
+ - user: None
+ - tags: []
+
+## Carmen Radeck – thoughts and stuff
+ - [https://carmenradeck.de](https://carmenradeck.de)
+ - date published: 2024-01-08T15:37:43.540623+00:00
+ - user: None
+ - tags: []
+
 ## Caspar’s Website | Caspar von Wrede
  - [https://casparwre.de](https://casparwre.de)
  - date published: 2023-10-25T18:28:35.732274+00:00
@@ -205,6 +331,12 @@ Heinsohn
  - date published: 2023-10-25T18:30:10.727479+00:00
  - user: None
  - tags: []
+
+## Except software AG
+ - [https://www.exept.de](https://www.exept.de)
+ - date published: 2024-03-14T15:24:26+00:00
+ - user: rumpel
+ - tags: ['expecco']
 
 ## Fabian Kleiser
  - [https://www.fabian-keller.de](https://www.fabian-keller.de)
@@ -767,16 +899,16 @@ Heinsohn
  - tags: []
 
 ## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
- - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
- - date published: 2024-02-15T02:00:01.330586+00:00
- - user: None
- - tags: ['video game music']
-
-## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
  - [https://nerdsandgeeks.de](https://nerdsandgeeks.de)
  - date published: 2024-02-15T22:13:44.143200+00:00
  - user: None
  - tags: ['demoscene']
+
+## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
+ - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
+ - date published: 2024-02-15T02:00:01.330586+00:00
+ - user: None
+ - tags: ['video game music']
 
 ## NeuroNagel : Neuroregulation, Neurofeedback, Biofeedback, Mentalsysteme und Mindmachines
  - [https://www.neuronagel.de](https://www.neuronagel.de)
@@ -1005,6 +1137,12 @@ Heinsohn
  - date published: 2023-10-25T18:32:34.240038+00:00
  - user: None
  - tags: []
+
+## Seedbox Guide: Seedbox Providers Comparison
+ - [https://seedboxgui.de](https://seedboxgui.de)
+ - date published: 2024-03-14T21:17:04+00:00
+ - user: rumpel
+ - tags: ['piracy', 'seedbox', 'file hosting']
 
 ## SID-Spieler
  - [http://www.sidspieler.de](http://www.sidspieler.de)
@@ -2485,14 +2623,14 @@ Heinsohn
  - tags: []
 
 ## endtimes.dev
- - [https://endtimes.dev](https://endtimes.dev)
- - date published: 2023-10-25T18:37:42.008452+00:00
+ - [http://endtimes.dev](http://endtimes.dev)
+ - date published: 2024-02-26T14:52:45.275010+00:00
  - user: None
  - tags: []
 
 ## endtimes.dev
- - [http://endtimes.dev](http://endtimes.dev)
- - date published: 2024-02-26T14:52:45.275010+00:00
+ - [https://endtimes.dev](https://endtimes.dev)
+ - date published: 2023-10-25T18:37:42.008452+00:00
  - user: None
  - tags: []
 
@@ -2881,14 +3019,14 @@ Heinsohn
  - tags: ['personal']
 
 ## Jakob Serlier's Personal Site
- - [https://jakobs.dev](https://jakobs.dev)
- - date published: 2024-01-09T01:37:20.973191+00:00
+ - [http://jakobs.dev](http://jakobs.dev)
+ - date published: 2024-01-15T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Jakob Serlier's Personal Site
- - [http://jakobs.dev](http://jakobs.dev)
- - date published: 2024-01-15T00:00:00+00:00
+ - [https://jakobs.dev](https://jakobs.dev)
+ - date published: 2024-01-09T01:37:20.973191+00:00
  - user: None
  - tags: []
 
@@ -2988,15 +3126,15 @@ Heinsohn
  - user: None
  - tags: []
 
-## The website of jyn
- - [https://jyn.dev](https://jyn.dev)
- - date published: 2023-10-25T18:38:50.121076+00:00
- - user: None
- - tags: []
-
 ## the website of jyn
  - [http://jyn.dev](http://jyn.dev)
  - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The website of jyn
+ - [https://jyn.dev](https://jyn.dev)
+ - date published: 2023-10-25T18:38:50.121076+00:00
  - user: None
  - tags: []
 
@@ -3051,6 +3189,12 @@ Heinsohn
 ## The Twenty Percent
  - [https://kuenzi.dev](https://kuenzi.dev)
  - date published: 2023-10-25T18:39:00.164249+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://kviklet.dev](https://kviklet.dev)
+ - date published: 2024-03-14T18:39:44.028892+00:00
  - user: None
  - tags: []
 
@@ -3673,14 +3817,14 @@ Heinsohn
  - tags: []
 
 ## Passkey Developer Resources
- - [https://passkeys.dev](https://passkeys.dev)
- - date published: 2023-01-31T00:00:00+00:00
+ - [http://passkeys.dev](http://passkeys.dev)
+ - date published: 2024-02-25T19:46:12.112766+00:00
  - user: None
  - tags: []
 
 ## Passkey Developer Resources
- - [http://passkeys.dev](http://passkeys.dev)
- - date published: 2024-02-25T19:46:12.112766+00:00
+ - [https://passkeys.dev](https://passkeys.dev)
+ - date published: 2023-01-31T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3729,6 +3873,12 @@ Heinsohn
 ## pkg-size | Find the true size of a npm package
  - [https://pkg-size.dev](https://pkg-size.dev)
  - date published: 2023-10-25T18:40:47.132424+00:00
+ - user: None
+ - tags: []
+
+## Fast and reliable end-to-end testing for modern web apps | Playwright
+ - [https://playwright.dev](https://playwright.dev)
+ - date published: 2024-03-14T15:14:49.454739+00:00
  - user: None
  - tags: []
 
@@ -4173,14 +4323,14 @@ Heinsohn
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date published: 2023-10-25T18:42:09.401241+00:00
+ - [http://socket.dev](http://socket.dev)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [http://socket.dev](http://socket.dev)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://socket.dev](https://socket.dev)
+ - date published: 2023-10-25T18:42:09.401241+00:00
  - user: None
  - tags: []
 
@@ -5647,6 +5797,12 @@ Heinsohn
  - user: None
  - tags: []
 
+## Columbia University in the City of New York
+ - [http://www.columbia.edu](http://www.columbia.edu)
+ - date published: 2024-03-14T05:31:04.195743+00:00
+ - user: None
+ - tags: []
+
 ## Department of Computer Science, Columbia University
  - [https://www.cs.columbia.edu](https://www.cs.columbia.edu)
  - date published: 2023-10-25T18:50:17.823882+00:00
@@ -5854,163 +6010,6 @@ Heinsohn
 ## Duke Today | Duke Today
  - [https://today.duke.edu](https://today.duke.edu)
  - date published: 2023-10-25T18:51:07.229842+00:00
- - user: None
- - tags: []
-
-## Duke University School of Law
- - [https://web.law.duke.edu](https://web.law.duke.edu)
- - date published: 2023-10-25T11:22:18.328920+00:00
- - user: None
- - tags: []
-
-## Duke University Press
- - [https://read.dukeupress.edu](https://read.dukeupress.edu)
- - date published: 2023-10-25T18:51:09.503912+00:00
- - user: None
- - tags: []
-
-## Florida Atlantic University
- - [https://www.fau.edu](https://www.fau.edu)
- - date published: 2024-01-09T02:59:07.976768+00:00
- - user: None
- - tags: []
-
-## Kendall College of Art and Design Grand Rapids Michigan
- - [https://kcad.ferris.edu](https://kcad.ferris.edu)
- - date published: 2024-02-08T17:43:57.760533+00:00
- - user: None
- - tags: []
-
-## FIU News - Florida International University
- - [https://news.fiu.edu](https://news.fiu.edu)
- - date published: 2023-10-30T12:42:14.738633+00:00
- - user: None
- - tags: []
-
-## Florida State University
- - [https://fsu.edu](https://fsu.edu)
- - date published: 2023-10-27T12:59:00.241454+00:00
- - user: None
- - tags: ['university']
-
-## Home - Florida State University News
- - [https://news.fsu.edu](https://news.fsu.edu)
- - date published: 2023-10-25T11:22:28.015942+00:00
- - user: None
- - tags: []
-
-## CSUF Psychology Department Research and Teaching Materials
- - [https://psych.fullerton.edu](https://psych.fullerton.edu)
- - date published: 2023-10-25T18:51:10.992214+00:00
- - user: None
- - tags: []
-
-## ContactDB
- - [https://contactdb.cc.gatech.edu](https://contactdb.cc.gatech.edu)
- - date published: 2019-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://faculty.cc.gatech.edu
- - [https://faculty.cc.gatech.edu](https://faculty.cc.gatech.edu)
- - date published: 2023-10-25T18:51:12.075741+00:00
- - user: None
- - tags: []
-
-## Georgia Tech Top Research University | Research
- - [https://research.gatech.edu](https://research.gatech.edu)
- - date published: 2024-01-05T15:16:26.801994+00:00
- - user: None
- - tags: []
-
-## College of Computing | Involvement, Innovation and Impact
- - [https://www.cc.gatech.edu](https://www.cc.gatech.edu)
- - date published: 2023-11-26T01:05:44.391396+00:00
- - user: None
- - tags: []
-
-## Goldey-Beacom College
- - [https://www.gbc.edu](https://www.gbc.edu)
- - date published: 2024-01-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Getty: Resources for Visual Art and Cultural Heritage
- - [https://getty.edu](https://getty.edu)
- - date published: 2024-01-09T02:59:10.633338+00:00
- - user: None
- - tags: []
-
-## Getty: Resources for Visual Art and Cultural Heritage
- - [https://www.getty.edu](https://www.getty.edu)
- - date published: 2023-10-25T18:51:15.051347+00:00
- - user: None
- - tags: []
-
-## Home |
-             George Mason Department of Computer Science
- - [https://cs.gmu.edu](https://cs.gmu.edu)
- - date published: 2024-01-09T02:59:13.641642+00:00
- - user: None
- - tags: []
-
-## Fiscal Services – George Mason University
- - [https://fiscal.gmu.edu](https://fiscal.gmu.edu)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## History Matters: The U.S. Survey Course on the Web
- - [https://historymatters.gmu.edu](https://historymatters.gmu.edu)
- - date published: 2023-11-28T07:44:03+00:00
- - user: rumpel
- - tags: ['university', 'george mason']
-
-## Home
- - [https://publichealth.gmu.edu](https://publichealth.gmu.edu)
- - date published: 2023-12-26T11:35:15.712104+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.gmu.edu](https://www.gmu.edu)
- - date published: 2023-11-28T07:45:16+00:00
- - user: rumpel
- - tags: ['university', 'george mason']
-
-## Georgia State University - Georgia State News Hub
- - [https://news.gsu.edu](https://news.gsu.edu)
- - date published: 2023-12-05T19:07:31.936621+00:00
- - user: None
- - tags: []
-
-## GW Today | The George Washington University
- - [https://gwtoday.gwu.edu](https://gwtoday.gwu.edu)
- - date published: 2024-01-24T17:54:22.593864+00:00
- - user: None
- - tags: []
-
-## Home | National Security Archive
- - [https://nsarchive.gwu.edu](https://nsarchive.gwu.edu)
- - date published: 2023-10-25T18:51:17.562894+00:00
- - user: None
- - tags: []
-
-## School of Engineering & Applied Science | The George Washington University
- - [https://www2.seas.gwu.edu](https://www2.seas.gwu.edu)
- - date published: 2023-10-25T18:51:22.184962+00:00
- - user: None
- - tags: []
-
-## A Top Liberal Arts College - homepage - Hamilton College
- - [https://www.hamilton.edu](https://www.hamilton.edu)
- - date published: 2023-10-25T18:51:24.815538+00:00
- - user: None
- - tags: []
-
-## Faculty | Hampshire College
- - [https://faculty.hampshire.edu](https://faculty.hampshire.edu)
- - date published: 2023-10-25T18:51:31.521956+00:00
  - user: None
  - tags: []
 

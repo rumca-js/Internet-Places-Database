@@ -1,3 +1,160 @@
+## Duke University School of Law
+ - [https://web.law.duke.edu](https://web.law.duke.edu)
+ - date published: 2023-10-25T11:22:18.328920+00:00
+ - user: None
+ - tags: []
+
+## Duke University Press
+ - [https://read.dukeupress.edu](https://read.dukeupress.edu)
+ - date published: 2023-10-25T18:51:09.503912+00:00
+ - user: None
+ - tags: []
+
+## Florida Atlantic University
+ - [https://www.fau.edu](https://www.fau.edu)
+ - date published: 2024-01-09T02:59:07.976768+00:00
+ - user: None
+ - tags: []
+
+## Kendall College of Art and Design Grand Rapids Michigan
+ - [https://kcad.ferris.edu](https://kcad.ferris.edu)
+ - date published: 2024-02-08T17:43:57.760533+00:00
+ - user: None
+ - tags: []
+
+## FIU News - Florida International University
+ - [https://news.fiu.edu](https://news.fiu.edu)
+ - date published: 2023-10-30T12:42:14.738633+00:00
+ - user: None
+ - tags: []
+
+## Florida State University
+ - [https://fsu.edu](https://fsu.edu)
+ - date published: 2023-10-27T12:59:00.241454+00:00
+ - user: None
+ - tags: ['university']
+
+## Home - Florida State University News
+ - [https://news.fsu.edu](https://news.fsu.edu)
+ - date published: 2023-10-25T11:22:28.015942+00:00
+ - user: None
+ - tags: []
+
+## CSUF Psychology Department Research and Teaching Materials
+ - [https://psych.fullerton.edu](https://psych.fullerton.edu)
+ - date published: 2023-10-25T18:51:10.992214+00:00
+ - user: None
+ - tags: []
+
+## ContactDB
+ - [https://contactdb.cc.gatech.edu](https://contactdb.cc.gatech.edu)
+ - date published: 2019-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://faculty.cc.gatech.edu
+ - [https://faculty.cc.gatech.edu](https://faculty.cc.gatech.edu)
+ - date published: 2023-10-25T18:51:12.075741+00:00
+ - user: None
+ - tags: []
+
+## Georgia Tech Top Research University | Research
+ - [https://research.gatech.edu](https://research.gatech.edu)
+ - date published: 2024-01-05T15:16:26.801994+00:00
+ - user: None
+ - tags: []
+
+## College of Computing | Involvement, Innovation and Impact
+ - [https://www.cc.gatech.edu](https://www.cc.gatech.edu)
+ - date published: 2023-11-26T01:05:44.391396+00:00
+ - user: None
+ - tags: []
+
+## Goldey-Beacom College
+ - [https://www.gbc.edu](https://www.gbc.edu)
+ - date published: 2024-01-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Getty: Resources for Visual Art and Cultural Heritage
+ - [https://getty.edu](https://getty.edu)
+ - date published: 2024-01-09T02:59:10.633338+00:00
+ - user: None
+ - tags: []
+
+## Getty: Resources for Visual Art and Cultural Heritage
+ - [https://www.getty.edu](https://www.getty.edu)
+ - date published: 2023-10-25T18:51:15.051347+00:00
+ - user: None
+ - tags: []
+
+## Home |
+             George Mason Department of Computer Science
+ - [https://cs.gmu.edu](https://cs.gmu.edu)
+ - date published: 2024-01-09T02:59:13.641642+00:00
+ - user: None
+ - tags: []
+
+## Fiscal Services – George Mason University
+ - [https://fiscal.gmu.edu](https://fiscal.gmu.edu)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## History Matters: The U.S. Survey Course on the Web
+ - [https://historymatters.gmu.edu](https://historymatters.gmu.edu)
+ - date published: 2023-11-28T07:44:03+00:00
+ - user: rumpel
+ - tags: ['university', 'george mason']
+
+## Home
+ - [https://publichealth.gmu.edu](https://publichealth.gmu.edu)
+ - date published: 2023-12-26T11:35:15.712104+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.gmu.edu](https://www.gmu.edu)
+ - date published: 2023-11-28T07:45:16+00:00
+ - user: rumpel
+ - tags: ['university', 'george mason']
+
+## Georgia State University - Georgia State News Hub
+ - [https://news.gsu.edu](https://news.gsu.edu)
+ - date published: 2023-12-05T19:07:31.936621+00:00
+ - user: None
+ - tags: []
+
+## GW Today | The George Washington University
+ - [https://gwtoday.gwu.edu](https://gwtoday.gwu.edu)
+ - date published: 2024-01-24T17:54:22.593864+00:00
+ - user: None
+ - tags: []
+
+## Home | National Security Archive
+ - [https://nsarchive.gwu.edu](https://nsarchive.gwu.edu)
+ - date published: 2023-10-25T18:51:17.562894+00:00
+ - user: None
+ - tags: []
+
+## School of Engineering & Applied Science | The George Washington University
+ - [https://www2.seas.gwu.edu](https://www2.seas.gwu.edu)
+ - date published: 2023-10-25T18:51:22.184962+00:00
+ - user: None
+ - tags: []
+
+## A Top Liberal Arts College - homepage - Hamilton College
+ - [https://www.hamilton.edu](https://www.hamilton.edu)
+ - date published: 2023-10-25T18:51:24.815538+00:00
+ - user: None
+ - tags: []
+
+## Faculty | Hampshire College
+ - [https://faculty.hampshire.edu](https://faculty.hampshire.edu)
+ - date published: 2023-10-25T18:51:31.521956+00:00
+ - user: None
+ - tags: []
+
 ## Weblogs at Harvard
  - [https://blogs.harvard.edu](https://blogs.harvard.edu)
  - date published: 2023-10-25T18:51:34.410192+00:00
@@ -3831,14 +3988,14 @@
  - tags: []
 
 ## NOYB enforces your right to privacy everyday
- - [https://noyb.eu](https://noyb.eu)
- - date published: 2023-10-25T11:24:53.335930+00:00
+ - [http://noyb.eu](http://noyb.eu)
+ - date published: 2024-02-26T15:02:23.923642+00:00
  - user: None
  - tags: []
 
 ## NOYB enforces your right to privacy everyday
- - [http://noyb.eu](http://noyb.eu)
- - date published: 2024-02-26T15:02:23.923642+00:00
+ - [https://noyb.eu](https://noyb.eu)
+ - date published: 2023-10-25T11:24:53.335930+00:00
  - user: None
  - tags: []
 
@@ -4095,16 +4252,16 @@
  - tags: []
 
 ## Nicole Express
- - [https://nicole.express](https://nicole.express)
- - date published: 2023-10-25T19:12:14.620553+00:00
- - user: None
- - tags: ['personal']
-
-## Nicole Express
  - [http://nicole.express](http://nicole.express)
  - date published: 2024-02-18T00:00:00+00:00
  - user: None
  - tags: []
+
+## Nicole Express
+ - [https://nicole.express](https://nicole.express)
+ - date published: 2023-10-25T19:12:14.620553+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Abort Retry Fail | Bradford Morgan White | Substack
  - [https://www.abortretry.fail](https://www.abortretry.fail)
@@ -4281,13 +4438,13 @@
  - tags: []
 
 ## None
- - [http://kaaosradio.fi](http://kaaosradio.fi)
+ - [https://kaaosradio.fi](https://kaaosradio.fi)
  - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://kaaosradio.fi](https://kaaosradio.fi)
+ - [http://kaaosradio.fi](http://kaaosradio.fi)
  - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -4329,14 +4486,20 @@
  - tags: []
 
 ## Spotify - Web Player: Music for everyone
+ - [https://spoti.fi](https://spoti.fi)
+ - date published: 2024-01-22T07:43:20.742120+00:00
+ - user: None
+ - tags: []
+
+## Spotify - Web Player: Music for everyone
  - [http://spoti.fi](http://spoti.fi)
  - date published: 2024-01-21T19:14:58.231822+00:00
  - user: None
  - tags: []
 
-## Spotify - Web Player: Music for everyone
- - [https://spoti.fi](https://spoti.fi)
- - date published: 2024-01-22T07:43:20.742120+00:00
+## Henkilöasiakkaat - etusivu -         Tulli
+ - [https://tulli.fi](https://tulli.fi)
+ - date published: 2024-03-14T12:26:25.223228+00:00
  - user: None
  - tags: []
 
@@ -5297,16 +5460,16 @@
  - tags: []
 
 ## Radio Admin
- - [https://manager8.streamradio.fr](https://manager8.streamradio.fr)
- - date published: 2024-02-15T22:13:33.848738+00:00
- - user: None
- - tags: ['demoscene']
-
-## Radio Admin
  - [http://manager8.streamradio.fr](http://manager8.streamradio.fr)
  - date published: 2024-02-15T01:59:51.771043+00:00
  - user: None
  - tags: []
+
+## Radio Admin
+ - [https://manager8.streamradio.fr](https://manager8.streamradio.fr)
+ - date published: 2024-02-15T22:13:33.848738+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## SunEstra
  - [https://sunestra.fr](https://sunestra.fr)
@@ -5435,14 +5598,14 @@
  - tags: []
 
 ## brr
- - [http://brr.fyi](http://brr.fyi)
- - date published: 2024-01-18T00:00:00+00:00
+ - [https://brr.fyi](https://brr.fyi)
+ - date published: 2023-10-25T19:15:50.754055+00:00
  - user: None
  - tags: []
 
 ## brr
- - [https://brr.fyi](https://brr.fyi)
- - date published: 2023-10-25T19:15:50.754055+00:00
+ - [http://brr.fyi](http://brr.fyi)
+ - date published: 2024-01-18T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5489,14 +5652,14 @@
  - tags: []
 
 ## jade's www site
- - [http://jade.fyi](http://jade.fyi)
- - date published: 2024-01-27T00:00:00+00:00
+ - [https://jade.fyi](https://jade.fyi)
+ - date published: 2024-01-09T18:46:42.354724+00:00
  - user: None
  - tags: []
 
 ## jade's www site
- - [https://jade.fyi](https://jade.fyi)
- - date published: 2024-01-09T18:46:42.354724+00:00
+ - [http://jade.fyi](http://jade.fyi)
+ - date published: 2024-01-27T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5845,168 +6008,6 @@
 ## The Leader in Gaming Energy & Nutrition; Waifu Cups/Gaming Supplements
  - [https://gamersupps.gg](https://gamersupps.gg)
  - date published: 2024-02-24T09:57:57.313307+00:00
- - user: None
- - tags: []
-
-## Gen.G Esports
- - [https://geng.gg](https://geng.gg)
- - date published: 2023-11-03T12:50:54.357347+00:00
- - user: None
- - tags: []
-
-## Jawa.gg: Buy and Sell Your Gaming Gear
- - [https://www.jawa.gg](https://www.jawa.gg)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Lexicon Gaming - Gaming Network
- - [https://lexicon.gg](https://lexicon.gg)
- - date published: 2023-12-13T16:17:28.599712+00:00
- - user: None
- - tags: []
-
-## Maxroll
- - [https://maxroll.gg](https://maxroll.gg)
- - date published: 2023-12-13T16:18:25.175632+00:00
- - user: None
- - tags: []
-
-## NRG Esports | Home
- - [https://www.nrg.gg](https://www.nrg.gg)
- - date published: 2023-11-02T10:40:58.258689+00:00
- - user: None
- - tags: []
-
-## Opera GX | Gaming Browser | Opera
- - [https://operagx.gg](https://operagx.gg)
- - date published: 2024-03-04T18:07:07.592343+00:00
- - user: None
- - tags: []
-
-## Find and Share the Best Warframe Builds - Overframe
- - [https://overframe.gg](https://overframe.gg)
- - date published: 2023-12-13T16:20:00.589994+00:00
- - user: None
- - tags: []
-
-## Riot Games Official News, Patch Notes & More - RiotWatch
- - [https://riotwatch.gg](https://riotwatch.gg)
- - date published: 2023-12-13T16:15:50.241910+00:00
- - user: None
- - tags: []
-
-## Show HN: Scorecard.gg – minimalist scoring tool for your favorite board games
- - [https://scorecard.gg](https://scorecard.gg)
- - date published: 2023-11-07T14:33:53+00:00
- - user: None
- - tags: []
-
-## Empowering the world to develop technology through collective knowledge - Stack Overflow
- - [https://stackoverflow.gg](https://stackoverflow.gg)
- - date published: 2024-01-09T03:30:14.198223+00:00
- - user: None
- - tags: []
-
-## Sunny Golovine
- - [https://sunny.gg](https://sunny.gg)
- - date published: 2023-10-25T19:17:12.779363+00:00
- - user: None
- - tags: []
-
-## T1
- - [https://t1.gg](https://t1.gg)
- - date published: 2023-11-19T11:19:04.284643+00:00
- - user: None
- - tags: []
-
-## Home - TGS Esports
- - [https://www.tgsesports.gg](https://www.tgsesports.gg)
- - date published: 2023-10-25T11:26:26.268549+00:00
- - user: None
- - tags: []
-
-## Samuel Vilz
- - [https://vilz.gg](https://vilz.gg)
- - date published: 2023-12-28T18:50:12.689760+00:00
- - user: None
- - tags: ['personal']
-
-## Team Vitality | Equipe esport leader d'Europe
- - [https://vitality.gg](https://vitality.gg)
- - date published: 2024-03-09T18:15:18.157130+00:00
- - user: None
- - tags: []
-
-## Waku website
- - [https://waku.gg](https://waku.gg)
- - date published: 2023-10-25T19:17:13.554606+00:00
- - user: None
- - tags: []
-
-## Wayde Gilliam
- - [https://wayde.gg](https://wayde.gg)
- - date published: 2023-08-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## WIN.gg - Your competitive edge in gaming and esports
- - [https://win.gg](https://win.gg)
- - date published: 2023-10-25T19:17:15.045264+00:00
- - user: None
- - tags: []
-
-## Google for Developers Blog - News about Web, Mobile, AI and Cloud
- - [https://goo.gl](https://goo.gl)
- - date published: 2024-01-13T01:37:27.849278+00:00
- - user: None
- - tags: []
-
-## OpenGL - Introduction
- - [https://open.gl](https://open.gl)
- - date published: 2024-03-04T10:50:12+00:00
- - user: rumpel
- - tags: []
-
-## Google forms
- - [https://forms.gle](https://forms.gle)
- - date published: 2023-12-05T02:33:59+00:00
- - user: rumpel
- - tags: []
-
-## Climate Justice Global
- - [https://climatejustice.global](https://climatejustice.global)
- - date published: 2022-03-28T00:00:00+00:00
- - user: None
- - tags: []
-
-## Homepage | Toyota Research Institute
- - [https://www.tri.global](https://www.tri.global)
- - date published: 2023-10-25T19:17:16.769072+00:00
- - user: None
- - tags: []
-
-## Hokkaido 401 Lüftungssystem
- - [https://passiv-energie.gmbh](https://passiv-energie.gmbh)
- - date published: 2024-03-03T11:31:31.547897+00:00
- - user: None
- - tags: []
-
-## Google Translate
- - [https://nyadagbladet-se.translate.goog](https://nyadagbladet-se.translate.goog)
- - date published: 2024-01-09T03:30:15.623588+00:00
- - user: None
- - tags: []
-
-## Google Translate
- - [https://www-bild-de.translate.goog](https://www-bild-de.translate.goog)
- - date published: 2023-11-06T18:03:15.833718+00:00
- - user: None
- - tags: []
-
-## Google Translate
- - [https://www-heise-de.translate.goog](https://www-heise-de.translate.goog)
- - date published: 2023-11-10T07:08:49.465512+00:00
  - user: None
  - tags: []
 

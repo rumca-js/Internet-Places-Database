@@ -1,3 +1,201 @@
+## Amsterdam Tourist Information - The no-nonsense travel guide to Amsterdam, Holland
+ - [https://www.dutchamsterdam.nl](https://www.dutchamsterdam.nl)
+ - date published: 2023-10-25T20:44:27.660139+00:00
+ - user: None
+ - tags: []
+
+## DutchNews.nl
+ - [https://www.dutchnews.nl](https://www.dutchnews.nl)
+ - date published: 2024-01-08T11:55:17.835072+00:00
+ - user: None
+ - tags: []
+
+## Ebony Vrouwen | Zwarte amateurs daten
+ - [https://www.ebonyvrouwen.nl](https://www.ebonyvrouwen.nl)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## SURF Mastodon Pilot
+ - [https://social.edu.nl](https://social.edu.nl)
+ - date published: 2023-10-24T20:13:22.892168+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Hoofdpagina - Eftepedia - alles over de Efteling
+ - [https://www.eftepedia.nl](https://www.eftepedia.nl)
+ - date published: 2024-02-02T08:47:55.368283+00:00
+ - user: None
+ - tags: []
+
+## Chris Eidhof
+ - [https://chris.eidhof.nl](https://chris.eidhof.nl)
+ - date published: 2023-10-25T08:54:21.499298+00:00
+ - user: None
+ - tags: ['personal']
+
+## Chris Eidhof
+ - [http://chris.eidhof.nl](http://chris.eidhof.nl)
+ - date published: 2024-02-25T15:44:49.625453+00:00
+ - user: None
+ - tags: []
+
+## Besluiten waarmee je groeit in impact op mens en omgeving
+ - [https://ernohannink.nl](https://ernohannink.nl)
+ - date published: 2023-12-31T21:20:23.800264+00:00
+ - user: None
+ - tags: []
+
+## fanfare
+ - [https://fanfarefanfare.nl](https://fanfarefanfare.nl)
+ - date published: 2024-02-08T22:19:27.687231+00:00
+ - user: None
+ - tags: []
+
+## Home | FIOD
+ - [https://www.fiod.nl](https://www.fiod.nl)
+ - date published: 2023-10-25T20:44:30.078359+00:00
+ - user: None
+ - tags: []
+
+## Secured Home of francineoomen.nl
+ - [https://www.francineoomen.nl](https://www.francineoomen.nl)
+ - date published: 2024-02-08T16:58:10.008746+00:00
+ - user: None
+ - tags: []
+
+## Gijs van Dam
+ - [https://www.gijsvandam.nl](https://www.gijsvandam.nl)
+ - date published: 2023-12-10T11:34:08.274230+00:00
+ - user: None
+ - tags: ['personal']
+
+## Harrie Pieters - Personal Website
+ - [https://harriepieters.nl](https://harriepieters.nl)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Work » Hay Kranen
+ - [https://projects.haykranen.nl](https://projects.haykranen.nl)
+ - date published: 2023-10-25T20:44:34.584210+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://www.haykranen.nl](https://www.haykranen.nl)
+ - date published: 2023-12-02T13:41:21.468477+00:00
+ - user: None
+ - tags: ['personal']
+
+## IBM System/3 Dedicated Website
+ - [https://www.ibmsystem3.nl](https://www.ibmsystem3.nl)
+ - date published: 2024-01-09T03:37:31.675379+00:00
+ - user: None
+ - tags: []
+
+## InspireMari.nl - Old school blog about life, cats and everything kawaii.
+ - [https://inspiremari.nl](https://inspiremari.nl)
+ - date published: 2023-12-31T19:01:54.757980+00:00
+ - user: None
+ - tags: []
+
+## I write, therefore I am
+ - [https://www.iwriteiam.nl](https://www.iwriteiam.nl)
+ - date published: 2023-10-25T09:23:45.008368+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hi there! I'm Joran
+ - [https://www.joranquinten.nl](https://www.joranquinten.nl)
+ - date published: 2023-11-29T17:18:51.995503+00:00
+ - user: None
+ - tags: ['personal']
+
+## kempenfoto.nl – Uw fotograaf in de Kempen
+ - [https://www.kempenfoto.nl](https://www.kempenfoto.nl)
+ - date published: 2024-02-08T17:45:38.231992+00:00
+ - user: None
+ - tags: []
+
+## Kevin Anderson - I 🖤 Experiments
+ - [https://kevinanderson.nl](https://kevinanderson.nl)
+ - date published: 2023-11-29T14:21:05.592570+00:00
+ - user: None
+ - tags: ['personal']
+
+## Koen van Gilst - TypeScript Developer
+ - [https://koenvangilst.nl](https://koenvangilst.nl)
+ - date published: 2023-12-16T15:36:29.715273+00:00
+ - user: None
+ - tags: []
+
+## Pong wars | Koen van Gilst
+ - [https://pong-wars.koenvangilst.nl](https://pong-wars.koenvangilst.nl)
+ - date published: 2024-01-27T22:04:57.961545+00:00
+ - user: None
+ - tags: ['animation', 'app page', 'demo page']
+
+## Leiden Medievalists Blog
+ - [https://www.leidenmedievalistsblog.nl](https://www.leidenmedievalistsblog.nl)
+ - date published: 2023-10-25T20:44:39.175416+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Maastricht University
+ - [https://www.maastrichtuniversity.nl](https://www.maastrichtuniversity.nl)
+ - date published: 2023-12-08T12:57:21.856371+00:00
+ - user: None
+ - tags: []
+
+## Mark Storm | Executive Coaching & Leiderschapsontwikkeling
+ - [https://www.markstorm.nl](https://www.markstorm.nl)
+ - date published: 2024-01-15T06:17:54.545100+00:00
+ - user: None
+ - tags: []
+
+## Ontdek een timemanagement coachingssessie die bij jou past
+ - [https://www.martijnverheij.nl](https://www.martijnverheij.nl)
+ - date published: 2024-01-15T14:06:13.682916+00:00
+ - user: None
+ - tags: []
+
+## Mastodon.nl
+ - [https://mastodon.nl](https://mastodon.nl)
+ - date published: 2023-10-24T20:13:23.358571+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Het Mauritshuis: het mooiste museum van Den Haag
+ - [https://www.mauritshuis.nl](https://www.mauritshuis.nl)
+ - date published: 2023-11-13T13:46:17.945158+00:00
+ - user: None
+ - tags: ['museum']
+
+## Home - MEZRAB | The House of Stories
+ - [https://mezrab.nl](https://mezrab.nl)
+ - date published: 2024-02-02T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Dear Stack Overflow, Inc.
+ - [https://openletter.mousetail.nl](https://openletter.mousetail.nl)
+ - date published: 2023-10-25T20:45:04.778845+00:00
+ - user: None
+ - tags: []
+
+## Muco de best bereikbare grote modelbouw en elektronica speciaalzaak
+ - [https://www.muco.nl](https://www.muco.nl)
+ - date published: 2024-02-08T22:51:24.501033+00:00
+ - user: None
+ - tags: []
+
+## Naturalis Biodiversity Center | Museum en onderzoek in Leiden
+ - [https://www.naturalis.nl](https://www.naturalis.nl)
+ - date published: 2023-10-25T20:45:06.816104+00:00
+ - user: None
+ - tags: []
+
 ## Nederlands Instituut voor Navigatie
  - [https://www.navnin.nl](https://www.navnin.nl)
  - date published: 2024-02-24T10:02:26.690442+00:00
@@ -1398,14 +1596,14 @@ marginalia.nu
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2393,17 +2591,17 @@ marginalia.nu
  - user: None
  - tags: []
 
-## Internet Archive: Secret service
- - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
- - date published: 2023-10-27T14:37:50+00:00
- - user: rumpel
- - tags: ['retro', 'magazine']
-
 ## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
  - [https://archive.org](https://archive.org)
  - date published: 2023-10-25T09:29:04.093943+00:00
  - user: None
  - tags: ['internet archive']
+
+## Internet Archive: Secret service
+ - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
+ - date published: 2023-10-27T14:37:50+00:00
+ - user: rumpel
+ - tags: ['retro', 'magazine']
 
 ## Internet Archive Blogs | A blog from the team at archive.org
  - [https://blog.archive.org](https://blog.archive.org)
@@ -2477,17 +2675,17 @@ marginalia.nu
  - user: None
  - tags: []
 
-## Back2Roots
- - [https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl](https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl)
- - date published: 2023-11-02T10:36:12+00:00
- - user: rumpel
- - tags: []
-
 ## Wayback Machine
  - [https://web.archive.org](https://web.archive.org)
  - date published: 2023-10-25T09:29:18.969501+00:00
  - user: None
  - tags: ['internet archive']
+
+## Back2Roots
+ - [https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl](https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl)
+ - date published: 2023-11-02T10:36:12+00:00
+ - user: rumpel
+ - tags: []
 
 ## Archive-It - 
   
@@ -3031,6 +3229,12 @@ marginalia.nu
  - user: None
  - tags: []
 
+## Locus Science Fiction Foundation on BetterWorld
+ - [https://locus.betterworld.org](https://locus.betterworld.org)
+ - date published: 2024-03-14T16:24:00.790702+00:00
+ - user: None
+ - tags: []
+
 ## Bevy Engine
  - [https://bevyengine.org](https://bevyengine.org)
  - date published: 2023-10-25T21:02:14.400715+00:00
@@ -3192,6 +3396,12 @@ marginalia.nu
  - date published: 2023-10-25T21:03:06.210208+00:00
  - user: None
  - tags: ['program', '3d printing', 'open source', '3d']
+
+## BlenderBIM – add-on for beautiful, detailed, and data-rich OpenBIM with Blender
+ - [https://blenderbim.org](https://blenderbim.org)
+ - date published: 2024-03-14T03:54:58+00:00
+ - user: None
+ - tags: []
 
 ## Reading QR codes without a computer!
  - [https://qr.blinry.org](https://qr.blinry.org)
@@ -3655,6 +3865,12 @@ marginalia.nu
  - user: None
  - tags: []
 
+## Home - Cancer Research UK - Cancer News
+ - [https://news.cancerresearchuk.org](https://news.cancerresearchuk.org)
+ - date published: 2024-03-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## https://canonical.org
  - [https://canonical.org](https://canonical.org)
  - date published: 2024-01-09T02:23:09.369067+00:00
@@ -3866,14 +4082,14 @@ marginalia.nu
  - tags: []
 
 ## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [https://blog.cerowrt.org](https://blog.cerowrt.org)
- - date published: 2023-10-25T21:06:57.314728+00:00
+ - [http://blog.cerowrt.org](http://blog.cerowrt.org)
+ - date published: 2024-02-25T15:50:51.524978+00:00
  - user: None
  - tags: []
 
 ## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [http://blog.cerowrt.org](http://blog.cerowrt.org)
- - date published: 2024-02-25T15:50:51.524978+00:00
+ - [https://blog.cerowrt.org](https://blog.cerowrt.org)
+ - date published: 2023-10-25T21:06:57.314728+00:00
  - user: None
  - tags: []
 
@@ -5525,14 +5741,14 @@ marginalia.nu
  - tags: []
 
 ## Resolve a DOI Name
- - [https://dx.doi.org](https://dx.doi.org)
- - date published: 2023-12-03T01:17:58.110575+00:00
+ - [http://dx.doi.org](http://dx.doi.org)
+ - date published: 2024-02-27T01:04:33.113692+00:00
  - user: None
  - tags: []
 
 ## Resolve a DOI Name
- - [http://dx.doi.org](http://dx.doi.org)
- - date published: 2024-02-27T01:04:33.113692+00:00
+ - [https://dx.doi.org](https://dx.doi.org)
+ - date published: 2023-12-03T01:17:58.110575+00:00
  - user: None
  - tags: []
 
@@ -5599,6 +5815,12 @@ marginalia.nu
 ## D.R.A.S.T.I.C. Research – D.R.A.S.T.I.C. Research
  - [https://drasticresearch.org](https://drasticresearch.org)
  - date published: 2023-10-25T21:15:25.874666+00:00
+ - user: None
+ - tags: []
+
+## cellio | Recent Entries
+ - [https://cellio.dreamwidth.org](https://cellio.dreamwidth.org)
+ - date published: 2024-03-14T17:29:57.709889+00:00
  - user: None
  - tags: []
 
@@ -5787,226 +6009,4 @@ marginalia.nu
  - date published: 2023-11-15T17:30:57.242683+00:00
  - user: None
  - tags: ['personal']
-
-## Latest Resources - ecancer
- - [https://ecancer.org](https://ecancer.org)
- - date published: 2023-11-13T10:20:44.453606+00:00
- - user: None
- - tags: []
-
-## projects.eclipse.org
- - [https://projects.eclipse.org](https://projects.eclipse.org)
- - date published: 2023-11-13T00:40:40.685327+00:00
- - user: None
- - tags: []
-
-## The Community for Open Collaboration and Innovation  | The Eclipse Foundation
- - [https://www.eclipse.org](https://www.eclipse.org)
- - date published: 2023-12-11T12:00:23+00:00
- - user: rumpel
- - tags: ['programming ide']
-
-## ecoartspace - Home
- - [https://ecoartspace.org](https://ecoartspace.org)
- - date published: 2024-02-08T16:33:14.117477+00:00
- - user: None
- - tags: []
-
-## Econlib - The Library of Economics and Liberty
- - [https://www.econlib.org](https://www.econlib.org)
- - date published: 2023-10-25T21:16:15.326410+00:00
- - user: None
- - tags: []
-
-## Econofact
- - [https://econofact.org](https://econofact.org)
- - date published: 2023-10-25T21:16:17.972710+00:00
- - user: None
- - tags: []
-
-## https://simplecast.econtalk.org
- - [https://simplecast.econtalk.org](https://simplecast.econtalk.org)
- - date published: 2024-01-09T03:39:26.620734+00:00
- - user: None
- - tags: []
-
-## EcoRenovator.org — Diy, Green, Home Improvements, Energy Efficiency
- - [https://ecorenovator.org](https://ecorenovator.org)
- - date published: 2023-10-25T21:16:25.962788+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [https://www.ecosia.org](https://www.ecosia.org)
- - date published: 2024-03-06T15:11:15+00:00
- - user: rumpel
- - tags: ['search engine']
-
-## Ecstatic Integration | Jules Evans | Substack
- - [https://www.ecstaticintegration.org](https://www.ecstaticintegration.org)
- - date published: 2023-10-25T21:16:29.105749+00:00
- - user: None
- - tags: []
-
-## EDE - light and fast desktop environment
- - [https://edeproject.org](https://edeproject.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Edge.org
- - [https://www.edge.org](https://www.edge.org)
- - date published: 2023-10-25T21:16:31.469598+00:00
- - user: None
- - tags: []
-
-## European Digital Rights (EDRi)
- - [https://edri.org](https://edri.org)
- - date published: 2023-10-25T21:16:34.020264+00:00
- - user: None
- - tags: []
-
-## Covering education in California and beyond | EdSource
- - [https://edsource.org](https://edsource.org)
- - date published: 2023-10-25T21:16:39.216605+00:00
- - user: None
- - tags: []
-
-## Ed's Nike Missile Web Site
- - [https://ed-thelen.org](https://ed-thelen.org)
- - date published: 2023-12-03T06:18:05.806409+00:00
- - user: None
- - tags: []
-
-## Ed's Nike Missile Web Site
- - [https://www.ed-thelen.org](https://www.ed-thelen.org)
- - date published: 2023-12-03T05:38:04.247574+00:00
- - user: None
- - tags: []
-
-## Educated Guesswork
- - [https://educatedguesswork.org](https://educatedguesswork.org)
- - date published: 2023-10-25T21:16:41.328615+00:00
- - user: None
- - tags: []
-
-## Education Next - A Journal of Opinion and Research About Education Policy
- - [https://www.educationnext.org](https://www.educationnext.org)
- - date published: 2023-10-25T21:16:46.987080+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.edutopia.org](https://www.edutopia.org)
- - date published: 2023-11-13T12:55:19.508453+00:00
- - user: None
- - tags: []
-
-## Test browser for web tracking – EFF
- - [https://coveryourtracks.eff.org](https://coveryourtracks.eff.org)
- - date published: 2023-11-05T20:31:06+00:00
- - user: None
- - tags: []
-
-## Fix It Already
- - [https://fixitalready.eff.org](https://fixitalready.eff.org)
- - date published: 2019-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Surveillance Self-Defense
- - [https://ssd.eff.org](https://ssd.eff.org)
- - date published: 2024-03-03T17:35:08.450742+00:00
- - user: None
- - tags: []
-
-## Electronic Frontier Foundation | Defending your rights in the digital world
- - [https://www.eff.org](https://www.eff.org)
- - date published: 2023-10-25T09:27:01.838372+00:00
- - user: None
- - tags: ['civil liberties', 'free speech', 'digital rights']
-
-## Effective Altruism Forum
- - [https://forum.effectivealtruism.org](https://forum.effectivealtruism.org)
- - date published: 2023-10-25T21:16:59.215662+00:00
- - user: None
- - tags: []
-
-## The Egison Programming Language
- - [https://www.egison.org](https://www.egison.org)
- - date published: 2023-10-25T21:17:02.744731+00:00
- - user: None
- - tags: []
-
-## EHN
- - [https://www.ehn.org](https://www.ehn.org)
- - date published: 2023-11-04T15:28:12.775152+00:00
- - user: None
- - tags: []
-
-## EHTML
- - [https://e-html.org](https://e-html.org)
- - date published: 2023-12-05T04:11:42.720580+00:00
- - user: None
- - tags: ['html']
-
-## Homepage | European Investment Bank
- - [https://www.eib.org](https://www.eib.org)
- - date published: 2024-02-24T10:09:13.726000+00:00
- - user: None
- - tags: []
-
-## EU proposes to take control of web browser root certificates (open letter)
- - [https://eidas-open-letter.org](https://eidas-open-letter.org)
- - date published: 2023-11-03T11:08:42+00:00
- - user: None
- - tags: []
-
-## Home - Economic Innovation Group
- - [https://eig.org](https://eig.org)
- - date published: 2023-10-25T21:17:07.746023+00:00
- - user: None
- - tags: []
-
-## Main Index (eighty-twenty news)
- - [https://eighty-twenty.org](https://eighty-twenty.org)
- - date published: 2023-10-25T21:17:10.228233+00:00
- - user: None
- - tags: []
-
-## Peter Eisentraut | Peter Eisentraut’s blog
- - [https://peter.eisentraut.org](https://peter.eisentraut.org)
- - date published: 2023-10-25T21:17:12.533774+00:00
- - user: None
- - tags: []
-
-## Equal Justice Initiative
- - [https://eji.org](https://eji.org)
- - date published: 2024-02-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://eklitzke.org
- - [https://eklitzke.org](https://eklitzke.org)
- - date published: 2023-10-25T21:17:15.981137+00:00
- - user: None
- - tags: []
-
-## Title | There is so much pleasure to be gained from useless knowledge !  B. Russell
- - [https://www.elbruz.org](https://www.elbruz.org)
- - date published: 2023-10-25T21:17:18.766800+00:00
- - user: None
- - tags: []
-
-## Latest research | eLife
- - [https://elifesciences.org](https://elifesciences.org)
- - date published: 2023-10-25T21:17:23.164782+00:00
- - user: None
- - tags: []
-
-## eLinux.org
- - [https://elinux.org](https://elinux.org)
- - date published: 2023-10-25T21:17:26.630312+00:00
- - user: None
- - tags: []
 
