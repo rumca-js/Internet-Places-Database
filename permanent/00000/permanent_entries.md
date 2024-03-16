@@ -1355,13 +1355,13 @@
  - tags: []
 
 ## http://hello.pi.ai/
- - [http://hello.pi.ai](http://hello.pi.ai)
+ - [https://hello.pi.ai](https://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## http://hello.pi.ai/
- - [https://hello.pi.ai](https://hello.pi.ai)
+ - [http://hello.pi.ai](http://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -4745,16 +4745,16 @@
  - tags: ['personal']
 
 ## Dagan.Blog – Education Futurist
- - [http://dagan.blog](http://dagan.blog)
- - date published: 2024-02-25T19:34:43.972971+00:00
- - user: None
- - tags: []
-
-## Dagan.Blog – Education Futurist
  - [https://dagan.blog](https://dagan.blog)
  - date published: 2024-01-09T02:26:37.338771+00:00
  - user: None
  - tags: ['personal']
+
+## Dagan.Blog – Education Futurist
+ - [http://dagan.blog](http://dagan.blog)
+ - date published: 2024-02-25T19:34:43.972971+00:00
+ - user: None
+ - tags: []
 
 ## Deep Cuts in a Lovecraftian Vein
  - [https://deepcuts.blog](https://deepcuts.blog)
@@ -4910,6 +4910,12 @@
 ## Hoppla!
  - [https://hopplaausrufezeichen.blog](https://hopplaausrufezeichen.blog)
  - date published: 2023-11-29T14:18:55.206080+00:00
+ - user: None
+ - tags: ['personal']
+
+## Hugo's Blog
+ - [https://hugo.blog](https://hugo.blog)
+ - date published: 2024-03-15T15:03:02.371297+00:00
  - user: None
  - tags: ['personal']
 
@@ -5550,14 +5556,14 @@
  - tags: []
 
 ## Svarichevsky Mikhail
- - [https://3.14.by](https://3.14.by)
- - date published: 2024-01-16T06:21:34.423774+00:00
+ - [http://3.14.by](http://3.14.by)
+ - date published: 2024-02-26T13:20:29.028020+00:00
  - user: None
  - tags: []
 
 ## Svarichevsky Mikhail
- - [http://3.14.by](http://3.14.by)
- - date published: 2024-02-26T13:20:29.028020+00:00
+ - [https://3.14.by](https://3.14.by)
+ - date published: 2024-01-16T06:21:34.423774+00:00
  - user: None
  - tags: []
 
@@ -5990,12 +5996,6 @@
 ## Eventbrite
  - [https://www.eventbrite.ca](https://www.eventbrite.ca)
  - date published: 2024-02-24T18:11:15.206135+00:00
- - user: None
- - tags: []
-
-## ferd.ca
- - [https://ferd.ca](https://ferd.ca)
- - date published: 2023-10-25T12:04:53.238516+00:00
  - user: None
  - tags: []
 

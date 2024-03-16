@@ -1,3 +1,21 @@
+## Agile & Coding
+ - [https://davidvujic.blogspot.com](https://davidvujic.blogspot.com)
+ - date published: 2023-12-03T12:58:17.652706+00:00
+ - user: None
+ - tags: []
+
+## DBMS Musings
+ - [https://dbmsmusings.blogspot.com](https://dbmsmusings.blogspot.com)
+ - date published: 2023-10-25T09:08:13.440905+00:00
+ - user: None
+ - tags: ['personal']
+
+## Twin methods in OpenMx
+ - [https://dbtemp.blogspot.com](https://dbtemp.blogspot.com)
+ - date published: 2023-11-19T21:54:21.568274+00:00
+ - user: None
+ - tags: []
+
 ## Twin methods in OpenMx
  - [http://dbtemp.blogspot.com](http://dbtemp.blogspot.com)
  - date published: 2024-02-25T15:50:25.877373+00:00
@@ -509,14 +527,14 @@
  - tags: ['personal']
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
- - date published: 2024-01-04T00:00:00+00:00
+ - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
+ - date published: 2024-01-03T20:38:22.927557+00:00
  - user: None
  - tags: []
 
 ## Shed Skin - A (restricted) Python-to-C++ Compiler
- - [https://shed-skin.blogspot.com](https://shed-skin.blogspot.com)
- - date published: 2024-01-03T20:38:22.927557+00:00
+ - [http://shed-skin.blogspot.com](http://shed-skin.blogspot.com)
+ - date published: 2024-01-04T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2070,6 +2088,12 @@
  - user: None
  - tags: []
 
+## Home
+ - [https://buckscountybeacon.com](https://buckscountybeacon.com)
+ - date published: 2021-02-23T23:15:09+00:00
+ - user: None
+ - tags: []
+
 ## Home - The Bucks County Herald
  - [https://buckscountyherald.com](https://buckscountyherald.com)
  - date published: 2023-11-14T23:58:04.625845+00:00
@@ -2571,6 +2595,12 @@
 ## Calgary Herald
  - [https://calgaryherald.com](https://calgaryherald.com)
  - date published: 2023-11-15T21:24:51.402505+00:00
+ - user: None
+ - tags: []
+
+## Calgary Sun
+ - [https://calgarysun.com](https://calgarysun.com)
+ - date published: 2024-03-15T20:42:12.104903+00:00
  - user: None
  - tags: []
 
@@ -5231,14 +5261,14 @@
  - tags: []
 
 ## Blog · Codeanywhere
- - [https://blog.codeanywhere.com](https://blog.codeanywhere.com)
- - date published: 2023-10-25T13:27:59.137947+00:00
+ - [http://blog.codeanywhere.com](http://blog.codeanywhere.com)
+ - date published: 2024-01-11T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Blog · Codeanywhere
- - [http://blog.codeanywhere.com](http://blog.codeanywhere.com)
- - date published: 2024-01-11T00:00:00+00:00
+ - [https://blog.codeanywhere.com](https://blog.codeanywhere.com)
+ - date published: 2023-10-25T13:27:59.137947+00:00
  - user: None
  - tags: []
 
@@ -5897,15 +5927,15 @@
  - user: None
  - tags: []
 
-## IT news, careers, business technology, reviews
- - [http://www.computerworld.com](http://www.computerworld.com)
- - date published: 2024-02-25T19:22:09.150165+00:00
- - user: None
- - tags: []
-
 ## IT news, careers, business technology, reviews | Computerworld
  - [https://www.computerworld.com](https://www.computerworld.com)
  - date published: 2023-10-25T09:32:24.152677+00:00
+ - user: None
+ - tags: []
+
+## IT news, careers, business technology, reviews
+ - [http://www.computerworld.com](http://www.computerworld.com)
+ - date published: 2024-02-25T19:22:09.150165+00:00
  - user: None
  - tags: []
 
@@ -5980,34 +6010,4 @@
  - date published: 2023-12-28T22:26:17.147979+00:00
  - user: None
  - tags: ['personal']
-
-## About Con’s Work - Con Slobodchikoff
- - [https://conslobodchikoff.com](https://conslobodchikoff.com)
- - date published: 2016-01-20T15:11:34+00:00
- - user: None
- - tags: []
-
-## Download Free ROMs & Emulators for GBA, SNES, NDS, GBC, GB, N64, NES, PS, MAME - ConsoleRoms
- - [https://www.consoleroms.com](https://www.consoleroms.com)
- - date published: 2023-10-25T11:08:29.694304+00:00
- - user: None
- - tags: ['game roms', 'emulator', 'emulation']
-
-## Construction Physics | Brian Potter | Substack
- - [https://www.construction-physics.com](https://www.construction-physics.com)
- - date published: 2023-10-25T09:40:04.890162+00:00
- - user: None
- - tags: ['substack']
-
-## constructionweekonline.com
- - [https://www.constructionweekonline.com](https://www.constructionweekonline.com)
- - date published: 2023-10-25T13:33:14.015936+00:00
- - user: None
- - tags: []
-
-## https://eu2.contabostorage.com
- - [https://eu2.contabostorage.com](https://eu2.contabostorage.com)
- - date published: 2023-12-11T16:35:56.582138+00:00
- - user: None
- - tags: []
 

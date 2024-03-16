@@ -1,3 +1,171 @@
+## Dave Cheney | The acme of foolishness
+ - [https://dave.cheney.net](https://dave.cheney.net)
+ - date published: 2023-11-05T13:31:03.029366+00:00
+ - user: None
+ - tags: []
+
+## Chiara Girardelli | Full stack developer and consultant
+ - [https://www.chiaragirardelli.net](https://www.chiaragirardelli.net)
+ - date published: 2024-01-09T03:35:16.952482+00:00
+ - user: None
+ - tags: []
+
+## Chiara Pasquini
+ - [https://chiarapasquini.net](https://chiarapasquini.net)
+ - date published: 2023-11-29T16:21:37.244497+00:00
+ - user: None
+ - tags: ['personal']
+
+## China Dialogue | China environment and climate news
+ - [https://chinadialogue.net](https://chinadialogue.net)
+ - date published: 2023-10-25T10:55:40.772242+00:00
+ - user: None
+ - tags: []
+
+## Adam Chlipala
+ - [http://adam.chlipala.net](http://adam.chlipala.net)
+ - date published: 2023-10-25T20:27:36.669215+00:00
+ - user: None
+ - tags: []
+
+## Chris Coyier – Web craftsman, blogger, author, speaker.
+ - [https://chriscoyier.net](https://chriscoyier.net)
+ - date published: 2023-10-25T20:27:38.910964+00:00
+ - user: None
+ - tags: []
+
+## Christopher Nolan Fans - What Can We Learn from Him
+ - [https://www.christophernolan.net](https://www.christophernolan.net)
+ - date published: 2023-11-13T12:51:35.108400+00:00
+ - user: None
+ - tags: ['movies']
+
+## Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite
+ - [https://chyrplite.net](https://chyrplite.net)
+ - date published: 2024-03-12T20:36:36+00:00
+ - user: None
+ - tags: []
+
+## Clawhammer
+ - [https://social.clawhammer.net](https://social.clawhammer.net)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## CLiki: the common lisp wiki
+ - [https://www.cliki.net](https://www.cliki.net)
+ - date published: 2023-10-25T20:27:45.899688+00:00
+ - user: None
+ - tags: []
+
+## Watching the World Go Bye – Eliot Jacobson's Collapse of Everything Blog
+ - [https://climatecasino.net](https://climatecasino.net)
+ - date published: 2023-10-25T20:27:48.329723+00:00
+ - user: None
+ - tags: []
+
+## climateprediction.net | The world's largest climate modelling experiment for the 21st century
+ - [https://www.climateprediction.net](https://www.climateprediction.net)
+ - date published: 2023-10-25T20:27:56.776773+00:00
+ - user: None
+ - tags: []
+
+## cmyr.net
+ - [https://www.cmyr.net](https://www.cmyr.net)
+ - date published: 2023-10-25T20:27:57.868244+00:00
+ - user: None
+ - tags: []
+
+## cmyr.net
+ - [http://www.cmyr.net](http://www.cmyr.net)
+ - date published: 2024-02-26T14:49:26.885827+00:00
+ - user: None
+ - tags: []
+
+## Home - Colin McGinn
+ - [https://www.colinmcginn.net](https://www.colinmcginn.net)
+ - date published: 2023-12-09T06:19:16.060955+00:00
+ - user: None
+ - tags: []
+
+## Colin McLear
+ - [https://www.colinmclear.net](https://www.colinmclear.net)
+ - date published: 2023-10-25T08:52:10.955172+00:00
+ - user: None
+ - tags: ['personal']
+
+## Bienvenue – colin@colino.net
+ - [https://www.colino.net](https://www.colino.net)
+ - date published: 2023-10-25T20:27:59.680602+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Common-Lisp.net!
+ - [https://common-lisp.net](https://common-lisp.net)
+ - date published: 2022-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## WWW.COMMORADIO.NET - Authentic sound of Commodore 64 and Commodore Amiga
+ - [https://www.commoradio.net](https://www.commoradio.net)
+ - date published: 2024-02-15T22:15:06.873499+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Conal Elliott's home page
+ - [http://conal.net](http://conal.net)
+ - date published: 2023-10-25T20:28:06.492345+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://cdn.confiant-integrations.net](https://cdn.confiant-integrations.net)
+ - date published: 2024-01-09T03:35:17.410844+00:00
+ - user: None
+ - tags: []
+
+## All posts
+ - [https://conorbroderick.net](https://conorbroderick.net)
+ - date published: 2023-10-25T09:00:18.327557+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cross Dominant
+ - [https://conoroneill.net](https://conoroneill.net)
+ - date published: 2023-10-25T20:28:07.428440+00:00
+ - user: None
+ - tags: []
+
+## Consequence | Music, Movie, TV and Pop Culture News for the Mainstream and Underground
+ - [https://consequence.net](https://consequence.net)
+ - date published: 2023-10-25T20:28:21.867756+00:00
+ - user: None
+ - tags: []
+
+## Game Making Software - Construct 3
+ - [https://www.construct.net](https://www.construct.net)
+ - date published: 2023-10-25T20:28:25.720527+00:00
+ - user: None
+ - tags: []
+
+## Advisory Page
+ - [https://www.convert2mp3.net](https://www.convert2mp3.net)
+ - date published: 2024-02-08T17:31:46.307138+00:00
+ - user: None
+ - tags: []
+
+## Business & Technology Marketing Company | Chicago IL | FH Cooper
+ - [https://cooperllc.net](https://cooperllc.net)
+ - date published: 2021-12-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Correct Horse Battery Staple | Generate Secure Memorable Passwords
+ - [https://www.correcthorsebatterystaple.net](https://www.correcthorsebatterystaple.net)
+ - date published: 2023-10-25T20:28:27.538156+00:00
+ - user: None
+ - tags: []
+
 ## CounterStats :: Counter picking stats for League of Legends champion select
  - [https://www.counterstats.net](https://www.counterstats.net)
  - date published: 2023-12-13T16:20:17.814607+00:00
@@ -89,14 +257,14 @@
  - tags: []
 
 ## Welcome - CVGM.net - Chiptune, Retro & Video Game Music
- - [http://radio.cvgm.net](http://radio.cvgm.net)
- - date published: 2024-02-15T02:00:20.008732+00:00
+ - [https://radio.cvgm.net](https://radio.cvgm.net)
+ - date published: 2023-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Welcome - CVGM.net - Chiptune, Retro & Video Game Music
- - [https://radio.cvgm.net](https://radio.cvgm.net)
- - date published: 2023-01-01T00:00:00+00:00
+ - [http://radio.cvgm.net](http://radio.cvgm.net)
+ - date published: 2024-02-15T02:00:20.008732+00:00
  - user: None
  - tags: []
 
@@ -131,14 +299,14 @@
  - tags: []
 
 ## daemonology.net
- - [http://www.daemonology.net](http://www.daemonology.net)
- - date published: 2024-02-25T19:34:32.110343+00:00
+ - [https://www.daemonology.net](https://www.daemonology.net)
+ - date published: 2023-10-25T20:28:33.979177+00:00
  - user: None
  - tags: []
 
 ## daemonology.net
- - [https://www.daemonology.net](https://www.daemonology.net)
- - date published: 2023-10-25T20:28:33.979177+00:00
+ - [http://www.daemonology.net](http://www.daemonology.net)
+ - date published: 2024-02-25T19:34:32.110343+00:00
  - user: None
  - tags: []
 
@@ -671,16 +839,16 @@
  - tags: []
 
 ## Fabien Sanglard's Website
- - [https://fabiensanglard.net](https://fabiensanglard.net)
- - date published: 2023-10-25T09:23:07.412311+00:00
- - user: None
- - tags: ['diablo', 'street figher', 'doom', 'quake', 'personal']
-
-## Fabien Sanglard's Website
  - [http://fabiensanglard.net](http://fabiensanglard.net)
  - date published: 2024-02-25T20:15:26.239827+00:00
  - user: None
  - tags: []
+
+## Fabien Sanglard's Website
+ - [https://fabiensanglard.net](https://fabiensanglard.net)
+ - date published: 2023-10-25T09:23:07.412311+00:00
+ - user: None
+ - tags: ['diablo', 'street figher', 'doom', 'quake', 'personal']
 
 ## Log in or sign up to view
  - [https://connect.facebook.net](https://connect.facebook.net)
@@ -3456,6 +3624,12 @@
  - user: None
  - tags: []
 
+## PRESSBEE : PRESSBEE
+ - [https://en.pressbee.net](https://en.pressbee.net)
+ - date published: 2024-03-15T12:47:32.995560+00:00
+ - user: None
+ - tags: []
+
 ## None
  - [https://app.pressnt.net](https://app.pressnt.net)
  - date published: 2024-01-09T03:36:08.723504+00:00
@@ -3793,14 +3967,14 @@
  - tags: []
 
 ## Russ Bishop
- - [https://russbishop.net](https://russbishop.net)
- - date published: 2024-01-09T03:36:09.716665+00:00
+ - [http://russbishop.net](http://russbishop.net)
+ - date published: 2024-02-26T12:47:27.767429+00:00
  - user: None
  - tags: []
 
 ## Russ Bishop
- - [http://russbishop.net](http://russbishop.net)
- - date published: 2024-02-26T12:47:27.767429+00:00
+ - [https://russbishop.net](https://russbishop.net)
+ - date published: 2024-01-09T03:36:09.716665+00:00
  - user: None
  - tags: []
 
@@ -4141,16 +4315,16 @@
  - tags: []
 
 ## Matthias Monroy
- - [http://digit.so36.net](http://digit.so36.net)
- - date published: 2024-02-25T19:37:06.416405+00:00
- - user: None
- - tags: []
-
-## Matthias Monroy
  - [https://digit.so36.net](https://digit.so36.net)
  - date published: 2023-10-25T08:54:06.996729+00:00
  - user: None
  - tags: ['personal']
+
+## Matthias Monroy
+ - [http://digit.so36.net](http://digit.so36.net)
+ - date published: 2024-02-25T19:37:06.416405+00:00
+ - user: None
+ - tags: []
 
 ## SoByte
  - [https://www.sobyte.net](https://www.sobyte.net)
@@ -4267,16 +4441,16 @@
  - tags: []
 
 ## Compare, Download & Develop Open Source & Business Software - SourceForge
- - [http://sourceforge.net](http://sourceforge.net)
- - date published: 2024-02-26T13:07:23.973035+00:00
- - user: None
- - tags: []
-
-## Compare, Download & Develop Open Source & Business Software - SourceForge
  - [https://sourceforge.net](https://sourceforge.net)
  - date published: 2023-10-25T08:41:02.286459+00:00
  - user: rumpel
  - tags: ['software platform', 'open source']
+
+## Compare, Download & Develop Open Source & Business Software - SourceForge
+ - [http://sourceforge.net](http://sourceforge.net)
+ - date published: 2024-02-26T13:07:23.973035+00:00
+ - user: None
+ - tags: []
 
 ## Thinking Forth
  - [https://thinking-forth.sourceforge.net](https://thinking-forth.sourceforge.net)
@@ -4812,15 +4986,15 @@
  - user: rumpel
  - tags: ['file sharing']
 
-## Transputer.net
- - [https://transputer.net](https://transputer.net)
- - date published: 2024-01-07T14:41:29+00:00
- - user: None
- - tags: []
-
 ## Welcome to transputer.net
  - [http://transputer.net](http://transputer.net)
  - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Transputer.net
+ - [https://transputer.net](https://transputer.net)
+ - date published: 2024-01-07T14:41:29+00:00
  - user: None
  - tags: []
 
@@ -5071,14 +5245,14 @@
  - tags: ['personal']
 
 ## Stefan Hajnoczi
- - [http://blog.vmsplice.net](http://blog.vmsplice.net)
- - date published: 2024-01-25T00:00:00+00:00
+ - [https://blog.vmsplice.net](https://blog.vmsplice.net)
+ - date published: 2024-01-03T01:08:14.621014+00:00
  - user: None
  - tags: []
 
 ## Stefan Hajnoczi
- - [https://blog.vmsplice.net](https://blog.vmsplice.net)
- - date published: 2024-01-03T01:08:14.621014+00:00
+ - [http://blog.vmsplice.net](http://blog.vmsplice.net)
+ - date published: 2024-01-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5097,6 +5271,12 @@
 ## About VUSec - vusec
  - [https://download.vusec.net](https://download.vusec.net)
  - date published: 2023-10-25T20:40:04.401939+00:00
+ - user: None
+ - tags: []
+
+## About VUSec - vusec
+ - [https://www.vusec.net](https://www.vusec.net)
+ - date published: 2024-03-15T21:51:48.973747+00:00
  - user: None
  - tags: []
 
@@ -5817,186 +5997,6 @@
 ## Anchor | JUPEB-REGISTER
  - [https://jupeb.aul.edu.ng](https://jupeb.aul.edu.ng)
  - date published: 2024-02-08T18:02:41.371594+00:00
- - user: None
- - tags: []
-
-## Home | EMC
- - [https://emc.ui.edu.ng](https://emc.ui.edu.ng)
- - date published: 2024-02-08T16:47:24.793762+00:00
- - user: None
- - tags: []
-
-## Welcome - University Advancement Centre
- - [https://uac.unn.edu.ng](https://uac.unn.edu.ng)
- - date published: 2023-12-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Welcome to my digital space — Phuoc Nguyen
- - [https://phuoc.ng](https://phuoc.ng)
- - date published: 2023-11-06T14:12:19.315700+00:00
- - user: None
- - tags: []
-
-## Home | TheCable
- - [https://www.thecable.ng](https://www.thecable.ng)
- - date published: 2023-11-04T18:28:54.971018+00:00
- - user: None
- - tags: []
-
-## Home - 『混沌とした 忍者』
- - [https://chaotic.ninja](https://chaotic.ninja)
- - date published: 2023-10-26T06:39:30.397007+00:00
- - user: None
- - tags: []
-
-## hypr.ninja
- - [https://hypr.ninja](https://hypr.ninja)
- - date published: 2024-01-14T10:24:23.057410+00:00
- - user: None
- - tags: []
-
-## Krypton
- - [https://krypton.ninja](https://krypton.ninja)
- - date published: 2023-12-22T17:49:55.486967+00:00
- - user: None
- - tags: ['personal']
-
-## Marco's Blog
- - [https://blog.marco.ninja](https://blog.marco.ninja)
- - date published: 2024-01-12T07:29:19.691096+00:00
- - user: None
- - tags: []
-
-## Welcome to ax3l's Webserver
- - [https://plasma.ninja](https://plasma.ninja)
- - date published: 2024-02-08T16:59:24.602613+00:00
- - user: None
- - tags: []
-
-## Official Merchandise Collection from LukHash
- - [https://synthwave.ninja](https://synthwave.ninja)
- - date published: 2023-12-11T17:55:03.562457+00:00
- - user: None
- - tags: ['merch store']
-
-## UNICORN RIOT - Your Alternative Media
- - [https://unicornriot.ninja](https://unicornriot.ninja)
- - date published: 2023-10-25T20:43:47.381363+00:00
- - user: None
- - tags: []
-
-## Mianzhi Wang
- - [https://research.wmz.ninja](https://research.wmz.ninja)
- - date published: 2023-10-25T20:43:49.197052+00:00
- - user: None
- - tags: []
-
-## A Day In The Life Of...
- - [https://adayinthelifeof.nl](https://adayinthelifeof.nl)
- - date published: 2023-10-25T20:44:04.291967+00:00
- - user: None
- - tags: []
-
-## Me, myself and I · And nothing else
- - [https://www.ahles.nl](https://www.ahles.nl)
- - date published: 2023-11-29T17:18:42.263892+00:00
- - user: None
- - tags: ['personal']
-
-## Designer
- - [https://aljanscholtens.nl](https://aljanscholtens.nl)
- - date published: 2023-11-29T15:51:31.773471+00:00
- - user: None
- - tags: ['personal']
-
-## Amphion Cultuurbedrijf | Amphion
- - [https://www.amphion.nl](https://www.amphion.nl)
- - date published: 2024-02-08T22:06:18.354747+00:00
- - user: None
- - tags: []
-
-## Annemieke Verhoeff
- - [https://www.annemiekeverhoeff.nl](https://www.annemiekeverhoeff.nl)
- - date published: 2023-11-29T14:53:33.579053+00:00
- - user: None
- - tags: ['personal']
-
-## Barbara Wesselingh
- - [https://www.barbarawesselingh.nl](https://www.barbarawesselingh.nl)
- - date published: 2024-01-15T08:35:00.502722+00:00
- - user: None
- - tags: []
-
-## Welkom
- - [https://basvogel.nl](https://basvogel.nl)
- - date published: 2024-01-14T17:12:11.567826+00:00
- - user: None
- - tags: []
-
-## Bits&Chips
- - [https://bits-chips.nl](https://bits-chips.nl)
- - date published: 2023-10-25T20:44:12.182832+00:00
- - user: None
- - tags: []
-
-## Bjorn Franke - Het leukste dat je kunt worden is jezelf
- - [https://www.bjornfranke.nl](https://www.bjornfranke.nl)
- - date published: 2024-01-05T01:05:09.979594+00:00
- - user: None
- - tags: []
-
-## Bram Willemse - Product owner (ad interim)
- - [https://bramwillemse.nl](https://bramwillemse.nl)
- - date published: 2024-02-09T14:07:02.684664+00:00
- - user: None
- - tags: ['personal']
-
-## BrixIT Blog
- - [https://blog.brixit.nl](https://blog.brixit.nl)
- - date published: 2023-10-25T20:44:19.211483+00:00
- - user: None
- - tags: []
-
-## Business Insider Nederland
- - [https://www.businessinsider.nl](https://www.businessinsider.nl)
- - date published: 2023-10-25T20:44:24.300905+00:00
- - user: None
- - tags: []
-
-## Personenauto's en bedrijfswagens van Citroën | Citroën NL
- - [https://www.citroen.nl](https://www.citroen.nl)
- - date published: 2023-12-11T15:58:27.782079+00:00
- - user: None
- - tags: []
-
-## Enabling the execution of formulas stored in database fields.
- - [https://www.colbert.nl](https://www.colbert.nl)
- - date published: 2024-03-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## Ministerie van Defensie | Defensie.nl
- - [https://www.defensie.nl](https://www.defensie.nl)
- - date published: 2024-01-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## Digiater.nl
- - [https://www.digiater.nl](https://www.digiater.nl)
- - date published: 2023-12-24T20:29:17.576541+00:00
- - user: None
- - tags: []
-
-## djcbsoftware
- - [https://www.djcbsoftware.nl](https://www.djcbsoftware.nl)
- - date published: 2023-12-26T03:27:26.121552+00:00
- - user: None
- - tags: []
-
-## https://myprivacy.dpgmedia.nl
- - [https://myprivacy.dpgmedia.nl](https://myprivacy.dpgmedia.nl)
- - date published: 2024-01-09T03:37:31.001724+00:00
  - user: None
  - tags: []
 

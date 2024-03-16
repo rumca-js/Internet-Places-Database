@@ -1,3 +1,183 @@
+## Home | EMC
+ - [https://emc.ui.edu.ng](https://emc.ui.edu.ng)
+ - date published: 2024-02-08T16:47:24.793762+00:00
+ - user: None
+ - tags: []
+
+## Welcome - University Advancement Centre
+ - [https://uac.unn.edu.ng](https://uac.unn.edu.ng)
+ - date published: 2023-12-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome to my digital space — Phuoc Nguyen
+ - [https://phuoc.ng](https://phuoc.ng)
+ - date published: 2023-11-06T14:12:19.315700+00:00
+ - user: None
+ - tags: []
+
+## Home | TheCable
+ - [https://www.thecable.ng](https://www.thecable.ng)
+ - date published: 2023-11-04T18:28:54.971018+00:00
+ - user: None
+ - tags: []
+
+## Home - 『混沌とした 忍者』
+ - [https://chaotic.ninja](https://chaotic.ninja)
+ - date published: 2023-10-26T06:39:30.397007+00:00
+ - user: None
+ - tags: []
+
+## hypr.ninja
+ - [https://hypr.ninja](https://hypr.ninja)
+ - date published: 2024-01-14T10:24:23.057410+00:00
+ - user: None
+ - tags: []
+
+## Krypton
+ - [https://krypton.ninja](https://krypton.ninja)
+ - date published: 2023-12-22T17:49:55.486967+00:00
+ - user: None
+ - tags: ['personal']
+
+## Marco's Blog
+ - [https://blog.marco.ninja](https://blog.marco.ninja)
+ - date published: 2024-01-12T07:29:19.691096+00:00
+ - user: None
+ - tags: []
+
+## Welcome to ax3l's Webserver
+ - [https://plasma.ninja](https://plasma.ninja)
+ - date published: 2024-02-08T16:59:24.602613+00:00
+ - user: None
+ - tags: []
+
+## Official Merchandise Collection from LukHash
+ - [https://synthwave.ninja](https://synthwave.ninja)
+ - date published: 2023-12-11T17:55:03.562457+00:00
+ - user: None
+ - tags: ['merch store']
+
+## UNICORN RIOT - Your Alternative Media
+ - [https://unicornriot.ninja](https://unicornriot.ninja)
+ - date published: 2023-10-25T20:43:47.381363+00:00
+ - user: None
+ - tags: []
+
+## Mianzhi Wang
+ - [https://research.wmz.ninja](https://research.wmz.ninja)
+ - date published: 2023-10-25T20:43:49.197052+00:00
+ - user: None
+ - tags: []
+
+## A Day In The Life Of...
+ - [https://adayinthelifeof.nl](https://adayinthelifeof.nl)
+ - date published: 2023-10-25T20:44:04.291967+00:00
+ - user: None
+ - tags: []
+
+## Me, myself and I · And nothing else
+ - [https://www.ahles.nl](https://www.ahles.nl)
+ - date published: 2023-11-29T17:18:42.263892+00:00
+ - user: None
+ - tags: ['personal']
+
+## Designer
+ - [https://aljanscholtens.nl](https://aljanscholtens.nl)
+ - date published: 2023-11-29T15:51:31.773471+00:00
+ - user: None
+ - tags: ['personal']
+
+## Amphion Cultuurbedrijf | Amphion
+ - [https://www.amphion.nl](https://www.amphion.nl)
+ - date published: 2024-02-08T22:06:18.354747+00:00
+ - user: None
+ - tags: []
+
+## Annemieke Verhoeff
+ - [https://www.annemiekeverhoeff.nl](https://www.annemiekeverhoeff.nl)
+ - date published: 2023-11-29T14:53:33.579053+00:00
+ - user: None
+ - tags: ['personal']
+
+## Barbara Wesselingh
+ - [https://www.barbarawesselingh.nl](https://www.barbarawesselingh.nl)
+ - date published: 2024-01-15T08:35:00.502722+00:00
+ - user: None
+ - tags: []
+
+## Welkom
+ - [https://basvogel.nl](https://basvogel.nl)
+ - date published: 2024-01-14T17:12:11.567826+00:00
+ - user: None
+ - tags: []
+
+## Bits&Chips
+ - [https://bits-chips.nl](https://bits-chips.nl)
+ - date published: 2023-10-25T20:44:12.182832+00:00
+ - user: None
+ - tags: []
+
+## Bjorn Franke - Het leukste dat je kunt worden is jezelf
+ - [https://www.bjornfranke.nl](https://www.bjornfranke.nl)
+ - date published: 2024-01-05T01:05:09.979594+00:00
+ - user: None
+ - tags: []
+
+## Bram Willemse - Product owner (ad interim)
+ - [https://bramwillemse.nl](https://bramwillemse.nl)
+ - date published: 2024-02-09T14:07:02.684664+00:00
+ - user: None
+ - tags: ['personal']
+
+## BrixIT Blog
+ - [https://blog.brixit.nl](https://blog.brixit.nl)
+ - date published: 2023-10-25T20:44:19.211483+00:00
+ - user: None
+ - tags: []
+
+## Business Insider Nederland
+ - [https://www.businessinsider.nl](https://www.businessinsider.nl)
+ - date published: 2023-10-25T20:44:24.300905+00:00
+ - user: None
+ - tags: []
+
+## Personenauto's en bedrijfswagens van Citroën | Citroën NL
+ - [https://www.citroen.nl](https://www.citroen.nl)
+ - date published: 2023-12-11T15:58:27.782079+00:00
+ - user: None
+ - tags: []
+
+## Enabling the execution of formulas stored in database fields.
+ - [https://www.colbert.nl](https://www.colbert.nl)
+ - date published: 2024-03-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Ministerie van Defensie | Defensie.nl
+ - [https://www.defensie.nl](https://www.defensie.nl)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Digiater.nl
+ - [https://www.digiater.nl](https://www.digiater.nl)
+ - date published: 2023-12-24T20:29:17.576541+00:00
+ - user: None
+ - tags: []
+
+## djcbsoftware
+ - [https://www.djcbsoftware.nl](https://www.djcbsoftware.nl)
+ - date published: 2023-12-26T03:27:26.121552+00:00
+ - user: None
+ - tags: []
+
+## https://myprivacy.dpgmedia.nl
+ - [https://myprivacy.dpgmedia.nl](https://myprivacy.dpgmedia.nl)
+ - date published: 2024-01-09T03:37:31.001724+00:00
+ - user: None
+ - tags: []
+
 ## Amsterdam Tourist Information - The no-nonsense travel guide to Amsterdam, Holland
  - [https://www.dutchamsterdam.nl](https://www.dutchamsterdam.nl)
  - date published: 2023-10-25T20:44:27.660139+00:00
@@ -29,16 +209,16 @@
  - tags: []
 
 ## Chris Eidhof
- - [https://chris.eidhof.nl](https://chris.eidhof.nl)
- - date published: 2023-10-25T08:54:21.499298+00:00
- - user: None
- - tags: ['personal']
-
-## Chris Eidhof
  - [http://chris.eidhof.nl](http://chris.eidhof.nl)
  - date published: 2024-02-25T15:44:49.625453+00:00
  - user: None
  - tags: []
+
+## Chris Eidhof
+ - [https://chris.eidhof.nl](https://chris.eidhof.nl)
+ - date published: 2023-10-25T08:54:21.499298+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Besluiten waarmee je groeit in impact op mens en omgeving
  - [https://ernohannink.nl](https://ernohannink.nl)
@@ -1733,6 +1913,12 @@ marginalia.nu
  - user: None
  - tags: []
 
+## AdeptiCon – March 20th – 24th, 2024
+ - [https://www.adepticon.org](https://www.adepticon.org)
+ - date published: 2024-03-15T09:28:07+00:00
+ - user: rumpel
+ - tags: ['wargames', 'tabletop games', 'warhammer', 'community event']
+
 ## ADHD Evidence Project
  - [https://www.adhdevidence.org](https://www.adhdevidence.org)
  - date published: 2023-10-25T20:54:40.433717+00:00
@@ -2213,6 +2399,12 @@ marginalia.nu
  - user: None
  - tags: []
 
+## Anarchivism
+ - [https://anarchivism.org](https://anarchivism.org)
+ - date published: 1960-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Anash.org - Good News
  - [https://anash.org](https://anash.org)
  - date published: 2023-12-21T15:47:22.735810+00:00
@@ -2591,17 +2783,17 @@ marginalia.nu
  - user: None
  - tags: []
 
-## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
- - [https://archive.org](https://archive.org)
- - date published: 2023-10-25T09:29:04.093943+00:00
- - user: None
- - tags: ['internet archive']
-
 ## Internet Archive: Secret service
  - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
  - date published: 2023-10-27T14:37:50+00:00
  - user: rumpel
  - tags: ['retro', 'magazine']
+
+## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
+ - [https://archive.org](https://archive.org)
+ - date published: 2023-10-25T09:29:04.093943+00:00
+ - user: None
+ - tags: ['internet archive']
 
 ## Internet Archive Blogs | A blog from the team at archive.org
  - [https://blog.archive.org](https://blog.archive.org)
@@ -2675,17 +2867,17 @@ marginalia.nu
  - user: None
  - tags: []
 
-## Wayback Machine
- - [https://web.archive.org](https://web.archive.org)
- - date published: 2023-10-25T09:29:18.969501+00:00
- - user: None
- - tags: ['internet archive']
-
 ## Back2Roots
  - [https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl](https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl)
  - date published: 2023-11-02T10:36:12+00:00
  - user: rumpel
  - tags: []
+
+## Wayback Machine
+ - [https://web.archive.org](https://web.archive.org)
+ - date published: 2023-10-25T09:29:18.969501+00:00
+ - user: None
+ - tags: ['internet archive']
 
 ## Archive-It - 
   
@@ -2702,14 +2894,14 @@ marginalia.nu
  - tags: []
 
 ## Archiveteam
- - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
- - date published: 2023-11-25T06:19:37.367056+00:00
+ - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Archiveteam
- - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
+ - date published: 2023-11-25T06:19:37.367056+00:00
  - user: None
  - tags: []
 
@@ -4082,14 +4274,14 @@ marginalia.nu
  - tags: []
 
 ## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [http://blog.cerowrt.org](http://blog.cerowrt.org)
- - date published: 2024-02-25T15:50:51.524978+00:00
+ - [https://blog.cerowrt.org](https://blog.cerowrt.org)
+ - date published: 2023-10-25T21:06:57.314728+00:00
  - user: None
  - tags: []
 
 ## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [https://blog.cerowrt.org](https://blog.cerowrt.org)
- - date published: 2023-10-25T21:06:57.314728+00:00
+ - [http://blog.cerowrt.org](http://blog.cerowrt.org)
+ - date published: 2024-02-25T15:50:51.524978+00:00
  - user: None
  - tags: []
 
@@ -5110,16 +5302,16 @@ marginalia.nu
  - tags: []
 
 ## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
- - [http://cvsgui.org](http://cvsgui.org)
- - date published: 2024-03-05T00:16:31.622060+00:00
- - user: None
- - tags: []
-
-## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
  - [https://cvsgui.org](https://cvsgui.org)
  - date published: 2024-03-04T12:06:02+00:00
  - user: rumpel
  - tags: ['control version system', 'program', 'open source']
+
+## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
+ - [http://cvsgui.org](http://cvsgui.org)
+ - date published: 2024-03-05T00:16:31.622060+00:00
+ - user: None
+ - tags: []
 
 ## California Water Environment Association | Champions of Wastewater
  - [https://www.cwea.org](https://www.cwea.org)
@@ -5817,196 +6009,4 @@ marginalia.nu
  - date published: 2023-10-25T21:15:25.874666+00:00
  - user: None
  - tags: []
-
-## cellio | Recent Entries
- - [https://cellio.dreamwidth.org](https://cellio.dreamwidth.org)
- - date published: 2024-03-14T17:29:57.709889+00:00
- - user: None
- - tags: []
-
-## diziet | Recent Entries
- - [https://diziet.dreamwidth.org](https://diziet.dreamwidth.org)
- - date published: 2023-10-25T21:15:30.379033+00:00
- - user: None
- - tags: []
-
-## graydon2 | Recent Entries
- - [https://graydon2.dreamwidth.org](https://graydon2.dreamwidth.org)
- - date published: 2023-10-25T21:15:34.097894+00:00
- - user: None
- - tags: []
-
-## liam_on_linux | Recent Entries
- - [https://liam-on-linux.dreamwidth.org](https://liam-on-linux.dreamwidth.org)
- - date published: 2023-10-25T21:15:39.084907+00:00
- - user: None
- - tags: ['personal', 'open source']
-
-## mjg59 | Recent Entries
- - [https://mjg59.dreamwidth.org](https://mjg59.dreamwidth.org)
- - date published: 2023-10-25T21:15:42.543885+00:00
- - user: None
- - tags: []
-
-## roadrunnertwice | Recent Entries
- - [https://roadrunnertwice.dreamwidth.org](https://roadrunnertwice.dreamwidth.org)
- - date published: 2023-10-25T21:15:47.028918+00:00
- - user: None
- - tags: []
-
-## siderea | Recent Entries
- - [https://siderea.dreamwidth.org](https://siderea.dreamwidth.org)
- - date published: 2023-10-25T21:15:50.428581+00:00
- - user: None
- - tags: []
-
-## spindas | Recent Entries
- - [https://spindas.dreamwidth.org](https://spindas.dreamwidth.org)
- - date published: 2023-10-25T21:15:54.073987+00:00
- - user: None
- - tags: []
-
-## The Blog of Dr. Moron
- - [https://www.drmoron.org](https://www.drmoron.org)
- - date published: 2024-01-11T13:43:51.813117+00:00
- - user: None
- - tags: []
-
-## Drupal - Open Source CMS
- - [http://drupal.org](http://drupal.org)
- - date published: 2018-04-05T19:09:44+00:00
- - user: None
- - tags: []
-
-## Drupal - Open Source CMS | Drupal.org
- - [https://www.drupal.org](https://www.drupal.org)
- - date published: 2023-10-25T21:15:56.363748+00:00
- - user: None
- - tags: []
-
-## DSLinux - Linux for the Nintendo DS
- - [https://www.dslinux.org](https://www.dslinux.org)
- - date published: 2023-10-25T08:32:08.225858+00:00
- - user: None
- - tags: []
-
-## dtrace.org
- - [https://dtrace.org](https://dtrace.org)
- - date published: 2024-01-09T03:38:59.443261+00:00
- - user: None
- - tags: []
-
-## DuckDB - An in-process SQL OLAP database management system
- - [https://duckdb.org](https://duckdb.org)
- - date published: 2023-10-25T21:16:01.562376+00:00
- - user: None
- - tags: []
-
-## Kohina Web Player
- - [https://kohina.duckdns.org](https://kohina.duckdns.org)
- - date published: 2024-02-15T22:13:24.519956+00:00
- - user: None
- - tags: ['demoscene']
-
-## Kohina Web Player
- - [http://kohina.duckdns.org](http://kohina.duckdns.org)
- - date published: 2024-02-11T14:38:28.495727+00:00
- - user: None
- - tags: []
-
-## Duck DNS
- - [https://www.duckdns.org](https://www.duckdns.org)
- - date published: 2023-10-25T21:16:02.876094+00:00
- - user: None
- - tags: ['dns']
-
-## Duck Dodge Home | Lake Union, Seattle Summer Sailing Races
- - [https://www.duckdodge.org](https://www.duckdodge.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## DuckStation: Fast PS1 Emulator
- - [https://www.duckstation.org](https://www.duckstation.org)
- - date published: 2023-10-25T11:18:17.981573+00:00
- - user: None
- - tags: []
-
-## Home | Duke Health
- - [https://corporate.dukehealth.org](https://corporate.dukehealth.org)
- - date published: 2023-11-18T13:29:15.830491+00:00
- - user: None
- - tags: []
-
-## Investigative journalist and forensic expert | DuncanCampbell.org
- - [https://www.duncancampbell.org](https://www.duncancampbell.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dune 3D
- - [https://dune3d.org](https://dune3d.org)
- - date published: 2023-11-01T08:44:19.648377+00:00
- - user: None
- - tags: []
-
-## dungeoncrawlers.org - Keep calm and crawl dungeons.
- - [https://www.dungeoncrawlers.org](https://www.dungeoncrawlers.org)
- - date published: 2023-12-11T16:52:40.401217+00:00
- - user: None
- - tags: []
-
-## None
- - [https://duskos.org](https://duskos.org)
- - date published: 2024-01-09T03:39:14.973427+00:00
- - user: None
- - tags: []
-
-## Artificial truth
- - [https://dustri.org](https://dustri.org)
- - date published: 2024-01-09T03:39:25.664057+00:00
- - user: None
- - tags: []
-
-## Earth.Org
- - [https://earth.org](https://earth.org)
- - date published: 2024-02-24T18:06:37.687710+00:00
- - user: None
- - tags: ['environment news']
-
-## Earthjustice: Because the earth needs a good lawyer
- - [https://earthjustice.org](https://earthjustice.org)
- - date published: 2023-10-25T09:27:32.950598+00:00
- - user: None
- - tags: []
-
-## EarthScope Consortium | Powering Geophysics
- - [https://www.earthscope.org](https://www.earthscope.org)
- - date published: 2024-03-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## EarthSky | Earth, Space, Sun, Human, Tonight
- - [https://earthsky.org](https://earthsky.org)
- - date published: 2023-12-24T15:29:19.919616+00:00
- - user: None
- - tags: ['science', 'space']
-
-## Earth Species Project
- - [https://www.earthspecies.org](https://www.earthspecies.org)
- - date published: 2024-01-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## EasyGenie Genealogy Store: genealogy charts, genealogy gifts, and PDFs
- - [https://easygenie.org](https://easygenie.org)
- - date published: 2024-01-14T19:40:06.780717+00:00
- - user: None
- - tags: []
-
-## ebb.org
- - [https://ebb.org](https://ebb.org)
- - date published: 2023-11-15T17:30:57.242683+00:00
- - user: None
- - tags: ['personal']
 

@@ -1,3 +1,69 @@
+## Lockval Engine
+ - [https://lockval.com](https://lockval.com)
+ - date published: 2023-10-25T15:49:15.169836+00:00
+ - user: None
+ - tags: []
+
+## Locus Online – The Magazine of the Science Fiction and Fantasy Field
+ - [https://locusmag.com](https://locusmag.com)
+ - date published: 2023-10-25T15:49:23.976381+00:00
+ - user: None
+ - tags: ['fantasy', 'science-fiction', 'books']
+
+## Locus Online
+ - [https://www.locusmag.com](https://www.locusmag.com)
+ - date published: 2024-03-03T17:35:04.901007+00:00
+ - user: None
+ - tags: ['science fiction', 'fantasy']
+
+## Lode Runner Web Game (online game)
+ - [https://loderunnerwebgame.com](https://loderunnerwebgame.com)
+ - date published: 2023-12-28T13:09:20.428585+00:00
+ - user: None
+ - tags: []
+
+## Wil je ook het maximale uit je leven halen?
+ - [https://lodiplanting.com](https://lodiplanting.com)
+ - date published: 2024-01-12T21:01:38.384822+00:00
+ - user: None
+ - tags: []
+
+## Double Talk with Hannah and Cailin Loesch
+ - [https://loeschtwins.com](https://loeschtwins.com)
+ - date published: 2023-11-22T14:55:22.397602+00:00
+ - user: None
+ - tags: []
+
+## lofi air traffic control
+ - [https://www.lofiatc.com](https://www.lofiatc.com)
+ - date published: 2023-10-25T15:49:34.669790+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.loganherr.com](https://www.loganherr.com)
+ - date published: 2023-12-29T18:59:41.808733+00:00
+ - user: None
+ - tags: ['personal']
+
+## Logan Lenz | Ushering in Generational Transformation
+ - [https://loganlenz.com](https://loganlenz.com)
+ - date published: 2024-02-26T08:49:41.320293+00:00
+ - user: None
+ - tags: []
+
+## Logan Lenz | Serial Entrepreneur | CEO of Nucleus
+ - [https://www.loganlenz.com](https://www.loganlenz.com)
+ - date published: 2023-12-29T18:59:46.123636+00:00
+ - user: None
+ - tags: ['personal']
+
+## Logan Marchione
+ - [https://loganmarchione.com](https://loganmarchione.com)
+ - date published: 2023-10-25T15:49:35.825357+00:00
+ - user: None
+ - tags: []
+
 ## Logitech Support + Download
  - [https://support.logi.com](https://support.logi.com)
  - date published: 2021-01-01T00:00:00+00:00
@@ -996,13 +1062,13 @@ diversions.
  - tags: []
 
 ## A blog by @makaroni4
- - [http://makaroni4.com](http://makaroni4.com)
+ - [https://makaroni4.com](https://makaroni4.com)
  - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## A blog by @makaroni4
- - [https://makaroni4.com](https://makaroni4.com)
+ - [http://makaroni4.com](http://makaroni4.com)
  - date published: 2020-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -1185,7 +1251,7 @@ diversions.
  - [https://www.mandiant.com](https://www.mandiant.com)
  - date published: 2023-10-25T15:55:12.774419+00:00
  - user: None
- - tags: []
+ - tags: ['cybersecurity']
 
 ## Måneskin - Official Website
  - [https://maneskin.com](https://maneskin.com)
@@ -1228,6 +1294,18 @@ diversions.
  - date published: 2024-02-24T09:54:44.689214+00:00
  - user: None
  - tags: []
+
+## Mantic Companion
+ - [https://companion.manticgames.com](https://companion.manticgames.com)
+ - date published: 2024-03-15T09:23:24+00:00
+ - user: rumpel
+ - tags: ['army list builder', 'kings of war', 'firefight', 'armada', 'deadzone']
+
+## Home
+ - [https://manticgames.com](https://manticgames.com)
+ - date published: 2024-03-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['wargames', 'tabletop games producer', 'kings of war', 'firefight', 'armada', 'deadzone']
 
 ## Mantic Games
  - [https://www.manticgames.com](https://www.manticgames.com)
@@ -1753,14 +1831,14 @@ diversions.
  - tags: ['disney', 'iron man', 'movie studio', 'captain america']
 
 ## vi360 photography/video/digital imaging
- - [http://www.marxdesign.com](http://www.marxdesign.com)
- - date published: 2023-12-22T21:24:02.738903+00:00
+ - [https://www.marxdesign.com](https://www.marxdesign.com)
+ - date published: 2023-12-22T00:41:17.350208+00:00
  - user: None
  - tags: []
 
 ## vi360 photography/video/digital imaging
- - [https://www.marxdesign.com](https://www.marxdesign.com)
- - date published: 2023-12-22T00:41:17.350208+00:00
+ - [http://www.marxdesign.com](http://www.marxdesign.com)
+ - date published: 2023-12-22T21:24:02.738903+00:00
  - user: None
  - tags: []
 
@@ -2301,6 +2379,12 @@ diversions.
 ## Free open source IoT OS and development tools from Arm | Mbed
  - [https://os.mbed.com](https://os.mbed.com)
  - date published: 2023-10-25T15:59:22.747695+00:00
+ - user: None
+ - tags: []
+
+## Marcus' Blog
+ - [https://mbuffett.com](https://mbuffett.com)
+ - date published: 2024-03-15T17:17:33.234847+00:00
  - user: None
  - tags: []
 
@@ -2907,6 +2991,12 @@ diversions.
 ## Francisco Trindade – Medium
  - [https://franciscomt.medium.com](https://franciscomt.medium.com)
  - date published: 2023-10-25T10:20:15.354599+00:00
+ - user: None
+ - tags: []
+
+## fred benenson – Medium
+ - [https://fredbenenson.medium.com](https://fredbenenson.medium.com)
+ - date published: 2024-03-15T16:04:45.638100+00:00
  - user: None
  - tags: []
 
@@ -5204,14 +5294,14 @@ diversions.
  - tags: []
 
 ## Modernizr: the feature detection library for HTML5/CSS3
- - [https://modernizr.com](https://modernizr.com)
- - date published: 2024-01-09T02:44:07.641831+00:00
+ - [http://modernizr.com](http://modernizr.com)
+ - date published: 2024-02-26T09:38:41.875406+00:00
  - user: None
  - tags: []
 
 ## Modernizr: the feature detection library for HTML5/CSS3
- - [http://modernizr.com](http://modernizr.com)
- - date published: 2024-02-26T09:38:41.875406+00:00
+ - [https://modernizr.com](https://modernizr.com)
+ - date published: 2024-01-09T02:44:07.641831+00:00
  - user: None
  - tags: []
 
@@ -5910,94 +6000,4 @@ diversions.
  - date published: 2023-11-13T12:46:47.451838+00:00
  - user: None
  - tags: ['video streaming']
-
-## Illuminez Votre Maison
- - [https://www.mueller-solartechnik.com](https://www.mueller-solartechnik.com)
- - date published: 2024-02-08T17:33:26.643641+00:00
- - user: None
- - tags: []
-
-## brain dump
- - [https://mufidu.com](https://mufidu.com)
- - date published: 2023-12-12T13:08:46.080906+00:00
- - user: None
- - tags: ['personal']
-
-## The MUGEN ARCHIVE - Home
- - [https://mugenarchive.com](https://mugenarchive.com)
- - date published: 2023-10-29T09:58:23.978741+00:00
- - user: None
- - tags: []
-
-## MUGEN CHARACTERS: Download Chars, Games, Stages
- - [https://www.mugendb.com](https://www.mugendb.com)
- - date published: 2023-10-30T16:29:57.817187+00:00
- - user: None
- - tags: []
-
-## Mugen Free For All
- - [https://mugenfreeforall.com](https://mugenfreeforall.com)
- - date published: 2023-10-29T09:56:20.071922+00:00
- - user: None
- - tags: []
-
-## MuggleNet - The #1 Wizarding World Resource Since 1999
- - [https://www.mugglenet.com](https://www.mugglenet.com)
- - date published: 1999-10-25T14:08:36+00:00
- - user: None
- - tags: []
-
-## Mui Media | Mui Media
- - [https://www.muimedia.com](https://www.muimedia.com)
- - date published: 2023-12-14T06:54:07.566986+00:00
- - user: None
- - tags: ['personal']
-
-## Mule Design
- - [https://www.muledesign.com](https://www.muledesign.com)
- - date published: 2023-10-25T16:08:34.253814+00:00
- - user: None
- - tags: []
-
-## Mumsnet | The UK’s most popular website for parents | Mumsnet
- - [https://www.mumsnet.com](https://www.mumsnet.com)
- - date published: 2023-10-25T16:08:38.624280+00:00
- - user: None
- - tags: []
-
-## Welcome to Muppetlabs
- - [https://www.muppetlabs.com](https://www.muppetlabs.com)
- - date published: 2023-10-25T16:08:39.656420+00:00
- - user: None
- - tags: []
-
-## Muriel Anderson
- - [https://murielanderson.com](https://murielanderson.com)
- - date published: 2024-02-13T00:00:00+00:00
- - user: None
- - tags: ['music artist', 'personal']
-
-## Muscle Cars and Trucks - Your Single Source For Automotive Americana
- - [https://www.musclecarsandtrucks.com](https://www.musclecarsandtrucks.com)
- - date published: 2023-10-25T16:08:45.559609+00:00
- - user: None
- - tags: []
-
-## MuscleWiki - Simplify your workout
- - [https://musclewiki.com](https://musclewiki.com)
- - date published: 2023-10-25T16:08:46.078982+00:00
- - user: None
- - tags: []
-
-## Muse — dive into big ideas
- - [https://museapp.com](https://museapp.com)
- - date published: 2023-10-25T16:08:46.848223+00:00
- - user: None
- - tags: []
-
-## Virtual tour of Museum of Failure
- - [https://collection.museumoffailure.com](https://collection.museumoffailure.com)
- - date published: 2024-01-18T23:12:25.261252+00:00
- - user: None
- - tags: []
 

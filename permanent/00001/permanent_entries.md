@@ -1,3 +1,9 @@
+## ferd.ca
+ - [https://ferd.ca](https://ferd.ca)
+ - date published: 2023-10-25T12:04:53.238516+00:00
+ - user: None
+ - tags: []
+
 ## Finbarr Timbers
  - [https://finbarr.ca](https://finbarr.ca)
  - date published: 2023-10-25T08:42:53.636850+00:00
@@ -101,13 +107,13 @@
  - tags: []
 
 ## iter.ca
- - [https://iter.ca](https://iter.ca)
+ - [http://iter.ca](http://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## iter.ca
- - [http://iter.ca](http://iter.ca)
+ - [https://iter.ca](https://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -499,6 +505,12 @@
 ## Simon Fraser University
  - [https://www.sfu.ca](https://www.sfu.ca)
  - date published: 2023-10-25T11:20:42.106068+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://simonandrews.ca](https://simonandrews.ca)
+ - date published: 2000-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3157,16 +3169,16 @@
  - tags: []
 
 ## Home
- - [https://shubhamjain.co](https://shubhamjain.co)
- - date published: 2023-10-25T09:07:56.781772+00:00
- - user: None
- - tags: ['personal']
-
-## Home
  - [http://shubhamjain.co](http://shubhamjain.co)
  - date published: 2024-02-26T12:57:53.139033+00:00
  - user: None
  - tags: []
+
+## Home
+ - [https://shubhamjain.co](https://shubhamjain.co)
+ - date published: 2023-10-25T09:07:56.781772+00:00
+ - user: None
+ - tags: ['personal']
 
 ## SCIENTIA
  - [https://skientia.co](https://skientia.co)
@@ -3247,14 +3259,14 @@
  - tags: []
 
 ## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
- - [https://stateofthenation.co](https://stateofthenation.co)
- - date published: 2023-10-25T12:23:13.580451+00:00
+ - [http://stateofthenation.co](http://stateofthenation.co)
+ - date published: 2024-02-26T12:49:19.790593+00:00
  - user: None
  - tags: []
 
 ## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
- - [http://stateofthenation.co](http://stateofthenation.co)
- - date published: 2024-02-26T12:49:19.790593+00:00
+ - [https://stateofthenation.co](https://stateofthenation.co)
+ - date published: 2023-10-25T12:23:13.580451+00:00
  - user: None
  - tags: []
 
@@ -3898,7 +3910,7 @@
  - [https://28-mag.com](https://28-mag.com)
  - date published: 2023-10-25T12:40:45.441256+00:00
  - user: None
- - tags: ['warhammer', 'magazine', 'tabletop games']
+ - tags: ['wargames', 'tabletop games', 'magazine', 'warhammer']
 
 ## 2ality – JavaScript and more
  - [https://2ality.com](https://2ality.com)
@@ -5286,7 +5298,7 @@
  - [https://ageofsigmar.com](https://ageofsigmar.com)
  - date published: 2023-10-27T12:08:05.552673+00:00
  - user: None
- - tags: ['warhammer', 'tabletop games']
+ - tags: ['wargames', 'tabletop games', 'warhammer']
 
 ## AFN (Europe) - FoodTech, AgTech, Startups, Venture Capital
  - [https://agfundernews.com](https://agfundernews.com)
@@ -5768,6 +5780,12 @@
  - user: None
  - tags: []
 
+## Alan Arnette
+ - [https://www.alanarnette.com](https://www.alanarnette.com)
+ - date published: 2024-03-15T09:22:12.136869+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Welcome
  - [https://www.alasdairb.com](https://www.alasdairb.com)
  - date published: 2023-10-25T12:37:20.783455+00:00
@@ -5981,24 +5999,6 @@
 ## Web and mobile developer | Alex Plescan
  - [https://alexplescan.com](https://alexplescan.com)
  - date published: 2023-10-25T12:38:04.232631+00:00
- - user: None
- - tags: []
-
-## Alex Eaton - Writer & Photographer
- - [https://www.alexreaton.com](https://www.alexreaton.com)
- - date published: 2024-02-09T00:12:37.874010+00:00
- - user: None
- - tags: ['personal']
-
-## alexsci.com
- - [https://alexsci.com](https://alexsci.com)
- - date published: 2023-10-25T12:38:05.842613+00:00
- - user: None
- - tags: []
-
-## Home | Alex Sidorenko
- - [https://alexsidorenko.com](https://alexsidorenko.com)
- - date published: 2023-10-25T12:38:06.569578+00:00
  - user: None
  - tags: []
 

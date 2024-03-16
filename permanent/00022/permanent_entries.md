@@ -1,3 +1,195 @@
+## cellio | Recent Entries
+ - [https://cellio.dreamwidth.org](https://cellio.dreamwidth.org)
+ - date published: 2024-03-14T17:29:57.709889+00:00
+ - user: None
+ - tags: []
+
+## diziet | Recent Entries
+ - [https://diziet.dreamwidth.org](https://diziet.dreamwidth.org)
+ - date published: 2023-10-25T21:15:30.379033+00:00
+ - user: None
+ - tags: []
+
+## graydon2 | Recent Entries
+ - [https://graydon2.dreamwidth.org](https://graydon2.dreamwidth.org)
+ - date published: 2023-10-25T21:15:34.097894+00:00
+ - user: None
+ - tags: []
+
+## liam_on_linux | Recent Entries
+ - [https://liam-on-linux.dreamwidth.org](https://liam-on-linux.dreamwidth.org)
+ - date published: 2023-10-25T21:15:39.084907+00:00
+ - user: None
+ - tags: ['personal', 'open source']
+
+## mjg59 | Recent Entries
+ - [https://mjg59.dreamwidth.org](https://mjg59.dreamwidth.org)
+ - date published: 2023-10-25T21:15:42.543885+00:00
+ - user: None
+ - tags: []
+
+## roadrunnertwice | Recent Entries
+ - [https://roadrunnertwice.dreamwidth.org](https://roadrunnertwice.dreamwidth.org)
+ - date published: 2023-10-25T21:15:47.028918+00:00
+ - user: None
+ - tags: []
+
+## siderea | Recent Entries
+ - [https://siderea.dreamwidth.org](https://siderea.dreamwidth.org)
+ - date published: 2023-10-25T21:15:50.428581+00:00
+ - user: None
+ - tags: []
+
+## spindas | Recent Entries
+ - [https://spindas.dreamwidth.org](https://spindas.dreamwidth.org)
+ - date published: 2023-10-25T21:15:54.073987+00:00
+ - user: None
+ - tags: []
+
+## The Blog of Dr. Moron
+ - [https://www.drmoron.org](https://www.drmoron.org)
+ - date published: 2024-01-11T13:43:51.813117+00:00
+ - user: None
+ - tags: []
+
+## Drupal - Open Source CMS
+ - [http://drupal.org](http://drupal.org)
+ - date published: 2018-04-05T19:09:44+00:00
+ - user: None
+ - tags: []
+
+## Drupal - Open Source CMS | Drupal.org
+ - [https://www.drupal.org](https://www.drupal.org)
+ - date published: 2023-10-25T21:15:56.363748+00:00
+ - user: None
+ - tags: []
+
+## DSLinux - Linux for the Nintendo DS
+ - [https://www.dslinux.org](https://www.dslinux.org)
+ - date published: 2023-10-25T08:32:08.225858+00:00
+ - user: None
+ - tags: []
+
+## dtrace.org
+ - [https://dtrace.org](https://dtrace.org)
+ - date published: 2024-01-09T03:38:59.443261+00:00
+ - user: None
+ - tags: []
+
+## DuckDB - An in-process SQL OLAP database management system
+ - [https://duckdb.org](https://duckdb.org)
+ - date published: 2023-10-25T21:16:01.562376+00:00
+ - user: None
+ - tags: []
+
+## Kohina Web Player
+ - [http://kohina.duckdns.org](http://kohina.duckdns.org)
+ - date published: 2024-02-11T14:38:28.495727+00:00
+ - user: None
+ - tags: []
+
+## Kohina Web Player
+ - [https://kohina.duckdns.org](https://kohina.duckdns.org)
+ - date published: 2024-02-15T22:13:24.519956+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Duck DNS
+ - [https://www.duckdns.org](https://www.duckdns.org)
+ - date published: 2023-10-25T21:16:02.876094+00:00
+ - user: None
+ - tags: ['dns']
+
+## Duck Dodge Home | Lake Union, Seattle Summer Sailing Races
+ - [https://www.duckdodge.org](https://www.duckdodge.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DuckStation: Fast PS1 Emulator
+ - [https://www.duckstation.org](https://www.duckstation.org)
+ - date published: 2023-10-25T11:18:17.981573+00:00
+ - user: None
+ - tags: []
+
+## Home | Duke Health
+ - [https://corporate.dukehealth.org](https://corporate.dukehealth.org)
+ - date published: 2023-11-18T13:29:15.830491+00:00
+ - user: None
+ - tags: []
+
+## Investigative journalist and forensic expert | DuncanCampbell.org
+ - [https://www.duncancampbell.org](https://www.duncancampbell.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Dune 3D
+ - [https://dune3d.org](https://dune3d.org)
+ - date published: 2023-11-01T08:44:19.648377+00:00
+ - user: None
+ - tags: []
+
+## dungeoncrawlers.org - Keep calm and crawl dungeons.
+ - [https://www.dungeoncrawlers.org](https://www.dungeoncrawlers.org)
+ - date published: 2023-12-11T16:52:40.401217+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://duskos.org](https://duskos.org)
+ - date published: 2024-01-09T03:39:14.973427+00:00
+ - user: None
+ - tags: []
+
+## Artificial truth
+ - [https://dustri.org](https://dustri.org)
+ - date published: 2024-01-09T03:39:25.664057+00:00
+ - user: None
+ - tags: []
+
+## Earth.Org
+ - [https://earth.org](https://earth.org)
+ - date published: 2024-02-24T18:06:37.687710+00:00
+ - user: None
+ - tags: ['environment news']
+
+## Earthjustice: Because the earth needs a good lawyer
+ - [https://earthjustice.org](https://earthjustice.org)
+ - date published: 2023-10-25T09:27:32.950598+00:00
+ - user: None
+ - tags: []
+
+## EarthScope Consortium | Powering Geophysics
+ - [https://www.earthscope.org](https://www.earthscope.org)
+ - date published: 2024-03-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## EarthSky | Earth, Space, Sun, Human, Tonight
+ - [https://earthsky.org](https://earthsky.org)
+ - date published: 2023-12-24T15:29:19.919616+00:00
+ - user: None
+ - tags: ['science', 'space']
+
+## Earth Species Project
+ - [https://www.earthspecies.org](https://www.earthspecies.org)
+ - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## EasyGenie Genealogy Store: genealogy charts, genealogy gifts, and PDFs
+ - [https://easygenie.org](https://easygenie.org)
+ - date published: 2024-01-14T19:40:06.780717+00:00
+ - user: None
+ - tags: []
+
+## ebb.org
+ - [https://ebb.org](https://ebb.org)
+ - date published: 2023-11-15T17:30:57.242683+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Latest Resources - ecancer
  - [https://ecancer.org](https://ecancer.org)
  - date published: 2023-11-13T10:20:44.453606+00:00
@@ -2810,6 +3002,12 @@
  - user: rumpel
  - tags: ['internet database']
 
+## Institute for the Future of Work
+ - [https://www.ifow.org](https://www.ifow.org)
+ - date published: 2024-03-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Strong Families. Sustainable Societies. | Institute for Family Studies
  - [https://ifstudies.org](https://ifstudies.org)
  - date published: 2023-10-25T21:30:52.138173+00:00
@@ -2979,16 +3177,16 @@
  - tags: []
 
 ## Draw Freely | Inkscape
- - [https://www.inkscape.org](https://www.inkscape.org)
- - date published: 2023-12-12T09:13:16+00:00
- - user: None
- - tags: ['vector graphics']
-
-## Draw Freely | Inkscape
  - [http://www.inkscape.org](http://www.inkscape.org)
  - date published: 2024-02-26T09:27:07.298333+00:00
  - user: None
  - tags: []
+
+## Draw Freely | Inkscape
+ - [https://www.inkscape.org](https://www.inkscape.org)
+ - date published: 2023-12-12T09:13:16+00:00
+ - user: None
+ - tags: ['vector graphics']
 
 ## Ink/Stitch: An open-source machine embroidery design platform based on Inkscape
  - [https://inkstitch.org](https://inkstitch.org)
@@ -4944,14 +5142,14 @@ Hosted by Panix.com.
  - tags: ['personal']
 
 ## MarTech
- - [https://martech.org](https://martech.org)
- - date published: 2024-01-09T05:07:40.902644+00:00
+ - [http://martech.org](http://martech.org)
+ - date published: 2024-02-26T08:57:00.132467+00:00
  - user: None
  - tags: []
 
 ## MarTech
- - [http://martech.org](http://martech.org)
- - date published: 2024-02-26T08:57:00.132467+00:00
+ - [https://martech.org](https://martech.org)
+ - date published: 2024-01-09T05:07:40.902644+00:00
  - user: None
  - tags: []
 
@@ -5691,17 +5889,17 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
-## Pocket | Discover, Capture and Savor Content That Fascinates You
- - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
- - date published: 2023-11-13T13:38:32+00:00
- - user: rumpel
- - tags: ['bookmark manager', 'link aggregation']
-
 ## Internet for people, not profit — Mozilla (US)
  - [https://www.mozilla.org](https://www.mozilla.org)
  - date published: 2023-10-25T09:27:30.838308+00:00
  - user: None
  - tags: ['organization', 'company', 'web browser', 'firefox', 'thunderbird']
+
+## Pocket | Discover, Capture and Savor Content That Fascinates You
+ - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
+ - date published: 2023-11-13T13:38:32+00:00
+ - user: rumpel
+ - tags: ['bookmark manager', 'link aggregation']
 
 ## Nextcloud
  - [https://nce.mpi-sp.org](https://nce.mpi-sp.org)
@@ -5810,202 +6008,4 @@ Common Weakness Enumeration
  - date published: 2023-12-23T17:08:48.710959+00:00
  - user: None
  - tags: []
-
-## MWMBL - Search
- - [https://mwmbl.org](https://mwmbl.org)
- - date published: 2023-10-25T09:07:24.154196+00:00
- - user: None
- - tags: ['search engine']
-
-## MX Linux – Midweight Simple Stable Desktop OS
- - [https://mxlinux.org](https://mxlinux.org)
- - date published: 2023-11-06T10:13:11.934073+00:00
- - user: None
- - tags: ['operating system', 'linux']
-
-## MyApnea
- - [https://www.myapnea.org](https://www.myapnea.org)
- - date published: 2024-02-08T21:47:25.437123+00:00
- - user: None
- - tags: []
-
-## mycophobia's web site
- - [https://mycophobia.org](https://mycophobia.org)
- - date published: 2023-10-25T09:24:06.461885+00:00
- - user: None
- - tags: ['personal']
-
-## MyNOR - The yet minor computer. No CPU, no ALU, one NOR-gate is enough.
- - [http://mynor.org](http://mynor.org)
- - date published: 2023-10-25T21:45:34.676973+00:00
- - user: None
- - tags: []
-
-## mySociety
- - [https://www.mysociety.org](https://www.mysociety.org)
- - date published: 2024-01-23T19:06:24.662861+00:00
- - user: None
- - tags: []
-
-## Naev – open-source game about space exploration, trade and combat
- - [https://naev.org](https://naev.org)
- - date published: 2023-11-26T00:53:51+00:00
- - user: None
- - tags: []
-
-## From Nand to Tetris: Building a Modern Computer from First Principles
- - [https://www.nand2tetris.org](https://www.nand2tetris.org)
- - date published: 2023-12-22T15:31:59+00:00
- - user: None
- - tags: []
-
-## Chess programs, 8080 emulator, and retrogaming
- - [https://nanochess.org](https://nanochess.org)
- - date published: 2023-10-25T11:18:21.353496+00:00
- - user: None
- - tags: []
-
-## https://mailman.nanog.org
- - [https://mailman.nanog.org](https://mailman.nanog.org)
- - date published: 2024-01-09T03:41:50.465816+00:00
- - user: None
- - tags: []
-
-## NANOG Home Page
- - [https://www.nanog.org](https://www.nanog.org)
- - date published: 2023-10-25T21:45:45.101391+00:00
- - user: None
- - tags: []
-
-## Nanos – A Unikernel
- - [https://nanos.org](https://nanos.org)
- - date published: 2024-03-13T23:43:32+00:00
- - user: None
- - tags: []
-
-## NaNoWriMo: National Novel Writing Month
- - [https://nanowrimo.org](https://nanowrimo.org)
- - date published: 2023-11-13T18:17:22+00:00
- - user: None
- - tags: []
-
-## Nat Friedman
- - [https://nat.org](https://nat.org)
- - date published: 2023-10-25T21:45:46.502795+00:00
- - user: None
- - tags: []
-
-## The National Academies Press
- - [https://nap.nationalacademies.org](https://nap.nationalacademies.org)
- - date published: 2024-01-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Education | National Geographic Society
- - [https://education.nationalgeographic.org](https://education.nationalgeographic.org)
- - date published: 2023-10-25T21:45:48.804890+00:00
- - user: None
- - tags: []
-
-## Homepage | National Humanities Center
- - [https://www.nationalhumanitiescenter.org](https://www.nationalhumanitiescenter.org)
- - date published: 2023-11-27T12:10:12+00:00
- - user: rumpel
- - tags: []
-
-## The National Interest: Defense, National Security, Politics and More
- - [https://nationalinterest.org](https://nationalinterest.org)
- - date published: 2023-10-25T21:45:52.331901+00:00
- - user: None
- - tags: []
-
-## National Parks Traveler | Essential coverage of essential places
- - [https://www.nationalparkstraveler.org](https://www.nationalparkstraveler.org)
- - date published: 2023-10-25T21:45:57.282234+00:00
- - user: None
- - tags: []
-
-## National Peanut Board
- - [https://nationalpeanutboard.org](https://nationalpeanutboard.org)
- - date published: 2023-12-31T13:20:00.946983+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://www.nationalww2museum.org](https://www.nationalww2museum.org)
- - date published: 2023-11-13T13:52:27.876908+00:00
- - user: None
- - tags: ['museum']
-
-## The Nature Conservancy: A World Where People & Nature Thrive
- - [https://www.nature.org](https://www.nature.org)
- - date published: 2023-10-25T21:46:02.089333+00:00
- - user: None
- - tags: []
-
-## Nature Programming Language | Nature Programming Language
- - [https://nature-lang.org](https://nature-lang.org)
- - date published: 2023-10-25T21:46:04.159471+00:00
- - user: None
- - tags: []
-
-## Memex 1.1 | John Naughton's online diary
- - [https://memex.naughtons.org](https://memex.naughtons.org)
- - date published: 2024-02-08T18:44:50.659182+00:00
- - user: None
- - tags: []
-
-## Beetle Space
- - [https://blog.nawaz.org](https://blog.nawaz.org)
- - date published: 2023-10-25T21:46:08.068352+00:00
- - user: None
- - tags: []
-
-## National Bureau of Economic Research | NBER
- - [https://www.nber.org](https://www.nber.org)
- - date published: 2023-10-25T21:46:12.704252+00:00
- - user: None
- - tags: []
-
-## Nicholas Cameron
- - [https://www.ncameron.org](https://www.ncameron.org)
- - date published: 2023-10-25T08:55:05.858077+00:00
- - user: None
- - tags: ['personal']
-
-## nLab
- - [https://ncatlab.org](https://ncatlab.org)
- - date published: 2024-02-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.ncset.org](https://www.ncset.org)
- - date published: 2024-02-08T17:36:05.398115+00:00
- - user: None
- - tags: []
-
-## Network and Distributed System Security (NDSS) Symposium
- - [https://www.ndss-symposium.org](https://www.ndss-symposium.org)
- - date published: 2023-10-25T21:46:15.238050+00:00
- - user: None
- - tags: []
-
-## National Education Association | NEA
- - [https://www.nea.org](https://www.nea.org)
- - date published: 2024-03-07T12:46:51.208925+00:00
- - user: None
- - tags: []
-
-## Nebula Genomics - 30x Whole Genome Sequencing - DNA Testing
- - [https://nebula.org](https://nebula.org)
- - date published: 2023-12-09T06:39:15.828779+00:00
- - user: None
- - tags: []
-
-## https://neelc.org
- - [https://neelc.org](https://neelc.org)
- - date published: 2023-10-25T09:24:12.492485+00:00
- - user: None
- - tags: ['personal']
 

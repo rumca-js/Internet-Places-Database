@@ -1,3 +1,63 @@
+## Business and Self-Development Concepts - Build Your Base For Success
+ - [https://janwillemverstraten.com](https://janwillemverstraten.com)
+ - date published: 2023-11-16T21:08:15.834187+00:00
+ - user: None
+ - tags: ['personal', 'blog']
+
+## Learn Japanese Online. Get started for free with the swiftest and most efficient system ever devised.
+ - [https://japanesecomplete.com](https://japanesecomplete.com)
+ - date published: 2023-10-25T15:26:50.459751+00:00
+ - user: None
+ - tags: []
+
+## Japan Today
+ - [https://japantoday.com](https://japantoday.com)
+ - date published: 2023-10-25T10:41:08.020128+00:00
+ - user: None
+ - tags: []
+
+## Jorge Arango
+ - [https://jarango.com](https://jarango.com)
+ - date published: 2023-12-15T23:48:09.743877+00:00
+ - user: None
+ - tags: []
+
+## Jared Dees: Inspiring Stories for Kids
+ - [https://jareddees.com](https://jareddees.com)
+ - date published: 2023-11-29T18:21:31.197656+00:00
+ - user: None
+ - tags: ['personal']
+
+## JaredEast.com | Hu+ The Human Element. Complex Systems.
+ - [https://jaredeast.com](https://jaredeast.com)
+ - date published: 2024-02-09T14:07:11.266094+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jared Forsyth.com | Jared Forsyth.com
+ - [https://jaredforsyth.com](https://jaredforsyth.com)
+ - date published: 2023-10-25T15:26:52.976715+00:00
+ - user: None
+ - tags: []
+
+## Jaredigms
+ - [https://jaredigms.com](https://jaredigms.com)
+ - date published: 2024-02-09T22:23:13.032097+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jared Ramsey
+ - [https://jaredramsey.com](https://jaredramsey.com)
+ - date published: 2023-10-25T09:20:49.239478+00:00
+ - user: None
+ - tags: ['personal']
+
+## Yarve Main
+ - [https://jaroslavplotnikov.com](https://jaroslavplotnikov.com)
+ - date published: 2023-12-07T17:38:14.106465+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Derek Jarvis' Blog
  - [https://jarvispowered.com](https://jarvispowered.com)
  - date published: 2023-10-25T09:20:50.084354+00:00
@@ -1235,16 +1295,16 @@
  - tags: []
 
 ## Your Privacy is our Business
- - [http://joindeleteme.com](http://joindeleteme.com)
- - date published: 2022-12-23T16:20:20+00:00
- - user: None
- - tags: ['privacy']
-
-## Your Privacy is our Business
  - [https://joindeleteme.com](https://joindeleteme.com)
  - date published: 2022-12-23T16:20:20+00:00
  - user: None
  - tags: []
+
+## Your Privacy is our Business
+ - [http://joindeleteme.com](http://joindeleteme.com)
+ - date published: 2022-12-23T16:20:20+00:00
+ - user: None
+ - tags: ['privacy']
 
 ## Join me for the ride - Thoughts on how we live
  - [https://joinmefortheride.com](https://joinmefortheride.com)
@@ -2072,7 +2132,7 @@
  - [https://jweekly.com](https://jweekly.com)
  - date published: 2024-03-14T22:07:04.370256+00:00
  - user: None
- - tags: []
+ - tags: ['israel news']
 
 ## jwjacobs.com | Front-End Web Designer
  - [https://jwjacobs.com](https://jwjacobs.com)
@@ -2121,6 +2181,12 @@
  - date published: 2023-10-25T15:34:06.211044+00:00
  - user: None
  - tags: []
+
+## Kaggle: Your Machine Learning and Data Science Community
+ - [https://www.kaggle.com](https://www.kaggle.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['software platform']
 
 ## Kagi Blog
  - [https://blog.kagi.com](https://blog.kagi.com)
@@ -5933,70 +5999,4 @@ Chamber Music, Symphony
  - date published: 2023-11-08T11:24:51.674356+00:00
  - user: None
  - tags: ['lockheed martin', 'aerospace', 'avionics']
-
-## Lockval Engine
- - [https://lockval.com](https://lockval.com)
- - date published: 2023-10-25T15:49:15.169836+00:00
- - user: None
- - tags: []
-
-## Locus Online – The Magazine of the Science Fiction and Fantasy Field
- - [https://locusmag.com](https://locusmag.com)
- - date published: 2023-10-25T15:49:23.976381+00:00
- - user: None
- - tags: ['fantasy', 'science-fiction', 'books']
-
-## Locus Online
- - [https://www.locusmag.com](https://www.locusmag.com)
- - date published: 2024-03-03T17:35:04.901007+00:00
- - user: None
- - tags: ['science fiction', 'fantasy']
-
-## Lode Runner Web Game (online game)
- - [https://loderunnerwebgame.com](https://loderunnerwebgame.com)
- - date published: 2023-12-28T13:09:20.428585+00:00
- - user: None
- - tags: []
-
-## Wil je ook het maximale uit je leven halen?
- - [https://lodiplanting.com](https://lodiplanting.com)
- - date published: 2024-01-12T21:01:38.384822+00:00
- - user: None
- - tags: []
-
-## Double Talk with Hannah and Cailin Loesch
- - [https://loeschtwins.com](https://loeschtwins.com)
- - date published: 2023-11-22T14:55:22.397602+00:00
- - user: None
- - tags: []
-
-## lofi air traffic control
- - [https://www.lofiatc.com](https://www.lofiatc.com)
- - date published: 2023-10-25T15:49:34.669790+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.loganherr.com](https://www.loganherr.com)
- - date published: 2023-12-29T18:59:41.808733+00:00
- - user: None
- - tags: ['personal']
-
-## Logan Lenz | Ushering in Generational Transformation
- - [https://loganlenz.com](https://loganlenz.com)
- - date published: 2024-02-26T08:49:41.320293+00:00
- - user: None
- - tags: []
-
-## Logan Lenz | Serial Entrepreneur | CEO of Nucleus
- - [https://www.loganlenz.com](https://www.loganlenz.com)
- - date published: 2023-12-29T18:59:46.123636+00:00
- - user: None
- - tags: ['personal']
-
-## Logan Marchione
- - [https://loganmarchione.com](https://loganmarchione.com)
- - date published: 2023-10-25T15:49:35.825357+00:00
- - user: None
- - tags: []
 

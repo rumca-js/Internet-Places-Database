@@ -1,3 +1,21 @@
+## Alex Eaton - Writer & Photographer
+ - [https://www.alexreaton.com](https://www.alexreaton.com)
+ - date published: 2024-02-09T00:12:37.874010+00:00
+ - user: None
+ - tags: ['personal']
+
+## alexsci.com
+ - [https://alexsci.com](https://alexsci.com)
+ - date published: 2023-10-25T12:38:05.842613+00:00
+ - user: None
+ - tags: []
+
+## Home | Alex Sidorenko
+ - [https://alexsidorenko.com](https://alexsidorenko.com)
+ - date published: 2023-10-25T12:38:06.569578+00:00
+ - user: None
+ - tags: []
+
 ## Alexskra | Web developer from Norway
  - [https://alexskra.com](https://alexskra.com)
  - date published: 2023-10-25T12:38:13.172045+00:00
@@ -719,14 +737,14 @@
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
- - date published: 2018-01-01T00:00:00+00:00
+ - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
+ - date published: 2024-01-09T02:29:24.245847+00:00
  - user: None
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
- - date published: 2024-01-09T02:29:24.245847+00:00
+ - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
+ - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -947,14 +965,14 @@
  - tags: []
 
 ## AnandTech: Hardware News and Tech Reviews Since 1997
- - [http://www.anandtech.com](http://www.anandtech.com)
- - date published: 2024-02-25T14:47:04.684996+00:00
+ - [https://www.anandtech.com](https://www.anandtech.com)
+ - date published: 2023-10-25T10:36:40.104893+00:00
  - user: None
  - tags: []
 
 ## AnandTech: Hardware News and Tech Reviews Since 1997
- - [https://www.anandtech.com](https://www.anandtech.com)
- - date published: 2023-10-25T10:36:40.104893+00:00
+ - [http://www.anandtech.com](http://www.anandtech.com)
+ - date published: 2024-02-25T14:47:04.684996+00:00
  - user: None
  - tags: []
 
@@ -1487,16 +1505,16 @@
  - tags: []
 
 ## Home - That Joe Scott
- - [https://www.answerswithjoe.com](https://www.answerswithjoe.com)
- - date published: 2024-02-22T16:48:46+00:00
- - user: rumpel
- - tags: ['youtuber', 'merchendise']
-
-## Home - That Joe Scott
  - [http://www.answerswithjoe.com](http://www.answerswithjoe.com)
  - date published: 2024-02-23T01:16:31.865369+00:00
  - user: None
  - tags: []
+
+## Home - That Joe Scott
+ - [https://www.answerswithjoe.com](https://www.answerswithjoe.com)
+ - date published: 2024-02-22T16:48:46+00:00
+ - user: rumpel
+ - tags: ['youtuber', 'merchendise']
 
 ## https://www.antennalaunchers.com
  - [https://www.antennalaunchers.com](https://www.antennalaunchers.com)
@@ -1564,15 +1582,15 @@
  - user: None
  - tags: []
 
-## None
- - [https://antirez.com](https://antirez.com)
- - date published: 2024-01-02T12:33:10.039907+00:00
- - user: None
- - tags: []
-
 ## List of posts - <antirez>
  - [http://antirez.com](http://antirez.com)
  - date published: 2024-02-25T14:05:17.604190+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://antirez.com](https://antirez.com)
+ - date published: 2024-01-02T12:33:10.039907+00:00
  - user: None
  - tags: []
 
@@ -4955,14 +4973,14 @@
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [https://billingsgazette.com](https://billingsgazette.com)
- - date published: 2023-12-17T18:30:53.119094+00:00
+ - [http://billingsgazette.com](http://billingsgazette.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [http://billingsgazette.com](http://billingsgazette.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://billingsgazette.com](https://billingsgazette.com)
+ - date published: 2023-12-17T18:30:53.119094+00:00
  - user: None
  - tags: []
 
@@ -5813,13 +5831,13 @@
  - tags: ['personal']
 
 ## The Axis of Eval
- - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
+ - [http://axisofeval.blogspot.com](http://axisofeval.blogspot.com)
  - date published: 2024-01-07T00:00:00+00:00
  - user: None
  - tags: []
 
 ## The Axis of Eval
- - [http://axisofeval.blogspot.com](http://axisofeval.blogspot.com)
+ - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
  - date published: 2024-01-07T00:00:00+00:00
  - user: None
  - tags: []
@@ -5977,24 +5995,6 @@
 ## DCblog
  - [https://david-crystal.blogspot.com](https://david-crystal.blogspot.com)
  - date published: 2004-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Agile & Coding
- - [https://davidvujic.blogspot.com](https://davidvujic.blogspot.com)
- - date published: 2023-12-03T12:58:17.652706+00:00
- - user: None
- - tags: []
-
-## DBMS Musings
- - [https://dbmsmusings.blogspot.com](https://dbmsmusings.blogspot.com)
- - date published: 2023-10-25T09:08:13.440905+00:00
- - user: None
- - tags: ['personal']
-
-## Twin methods in OpenMx
- - [https://dbtemp.blogspot.com](https://dbtemp.blogspot.com)
- - date published: 2023-11-19T21:54:21.568274+00:00
  - user: None
  - tags: []
 
