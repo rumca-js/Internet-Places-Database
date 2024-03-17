@@ -1,3 +1,21 @@
+## Database Architects
+ - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
+ - date published: 2024-02-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Data Finnovation
+ - [https://datafinnovation.blogspot.com](https://datafinnovation.blogspot.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DCblog
+ - [https://david-crystal.blogspot.com](https://david-crystal.blogspot.com)
+ - date published: 2004-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Agile & Coding
  - [https://davidvujic.blogspot.com](https://davidvujic.blogspot.com)
  - date published: 2023-12-03T12:58:17.652706+00:00
@@ -190,17 +208,23 @@
  - user: None
  - tags: []
 
-## Information Processing
- - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
- - date published: 2023-10-25T09:09:06.318517+00:00
+## Irish Broadcasting History & Hall of Fame
+ - [https://ibhof.blogspot.com](https://ibhof.blogspot.com)
+ - date published: 2024-01-06T00:00:00+00:00
  - user: None
- - tags: ['personal']
+ - tags: []
 
 ## Information Processing
  - [http://infoproc.blogspot.com](http://infoproc.blogspot.com)
  - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
+
+## Information Processing
+ - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
+ - date published: 2023-10-25T09:09:06.318517+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Development of the trilogy & IV
  - [https://insiderockstarnorth.blogspot.com](https://insiderockstarnorth.blogspot.com)
@@ -5986,28 +6010,4 @@
  - date published: 2023-10-25T13:33:10.255539+00:00
  - user: None
  - tags: []
-
-## Connex Digital Automation Workflow Experts
- - [https://connexdigitalmarketing.com](https://connexdigitalmarketing.com)
- - date published: 2023-11-29T14:23:15.837100+00:00
- - user: None
- - tags: ['personal']
-
-## Connor Tumbleson
- - [https://connortumbleson.com](https://connortumbleson.com)
- - date published: 2023-10-25T13:33:12.107835+00:00
- - user: None
- - tags: []
-
-## Parhelia | Conor Barnes | Substack
- - [https://parhelia.conorbarnes.com](https://parhelia.conorbarnes.com)
- - date published: 2023-12-03T22:18:35.684888+00:00
- - user: None
- - tags: []
-
-## Conor Neill - Moving People to Action
- - [https://conorneill.com](https://conorneill.com)
- - date published: 2023-12-28T22:26:17.147979+00:00
- - user: None
- - tags: ['personal']
 

@@ -1,3 +1,135 @@
+## Calculator.net: Free Online Calculators - Math, Fitness, Finance, Science
+ - [https://www.calculator.net](https://www.calculator.net)
+ - date published: 2023-10-25T20:27:00.626161+00:00
+ - user: None
+ - tags: []
+
+## Frederic Cambus | Cambus.net
+ - [https://www.cambus.net](https://www.cambus.net)
+ - date published: 2023-10-25T20:27:01.554726+00:00
+ - user: None
+ - tags: []
+
+## Cara Bradley | Body-Mind Teacher | Author
+ - [https://www.carabradley.net](https://www.carabradley.net)
+ - date published: 2023-11-29T15:15:28.569781+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jason F. McBrayer
+ - [https://jfm.carcosa.net](https://jfm.carcosa.net)
+ - date published: 2023-10-25T08:52:09.039015+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Ethically-Trained Programmer
+ - [https://blog.carlana.net](https://blog.carlana.net)
+ - date published: 2023-12-22T07:17:32.415179+00:00
+ - user: None
+ - tags: []
+
+## The Ethically-Trained Programmer
+ - [https://blog.carlmjohnson.net](https://blog.carlmjohnson.net)
+ - date published: 2023-10-25T09:22:48.829332+00:00
+ - user: None
+ - tags: ['personal']
+
+## Carl Griffith 1847 Oregon Trail Sourdough Page
+ - [https://carlsfriends.net](https://carlsfriends.net)
+ - date published: 2024-02-10T06:10:41.441028+00:00
+ - user: None
+ - tags: []
+
+## Castanet.net - Kelowna's Homepage
+ - [https://www.castanet.net](https://www.castanet.net)
+ - date published: 2023-11-27T18:45:36.897675+00:00
+ - user: None
+ - tags: []
+
+## Caterina.net
+ - [https://caterina.net](https://caterina.net)
+ - date published: 2023-10-25T20:27:05.679285+00:00
+ - user: None
+ - tags: []
+
+## catonmat.net
+ - [https://catonmat.net](https://catonmat.net)
+ - date published: 2023-10-25T20:27:08.496220+00:00
+ - user: None
+ - tags: []
+
+## catskull.net
+ - [https://catskull.net](https://catskull.net)
+ - date published: 2023-10-25T09:26:30.776561+00:00
+ - user: None
+ - tags: ['personal']
+
+## cdahmedeh (Ahmed El-Hajjar)
+ - [https://www.cdahmedeh.net](https://www.cdahmedeh.net)
+ - date published: 2023-10-25T09:22:53.813562+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Official SheepShaver Home Page
+ - [https://sheepshaver.cebix.net](https://sheepshaver.cebix.net)
+ - date published: 2023-10-25T20:27:09.182577+00:00
+ - user: None
+ - tags: []
+
+## celephais.net
+ - [http://www.celephais.net](http://www.celephais.net)
+ - date published: 2024-02-06T15:24:57.022122+00:00
+ - user: None
+ - tags: ['fitzquake']
+
+## Новини України | Цензор.НЕТ - останні новини дня | Свіжі головні новини України та світу | Цензор.НЕТ
+ - [https://censor.net](https://censor.net)
+ - date published: 2023-10-25T20:27:17.098824+00:00
+ - user: None
+ - tags: []
+
+## Цензор.НЕТ – Останні новини України та світу – читати свіжі новини дня онлайн | Цензор.НЕТ
+ - [https://static.censor.net](https://static.censor.net)
+ - date published: 2024-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Center for Economic and Policy Research -
+ - [https://cepr.net](https://cepr.net)
+ - date published: 2023-10-25T20:27:25.290529+00:00
+ - user: None
+ - tags: []
+
+## Homepage | Cerebras
+ - [https://www.cerebras.net](https://www.cerebras.net)
+ - date published: 2023-10-25T20:27:33.645111+00:00
+ - user: None
+ - tags: []
+
+## The cfarm compile farm project
+ - [https://portal.cfarm.net](https://portal.cfarm.net)
+ - date published: 2023-12-10T19:31:41+00:00
+ - user: None
+ - tags: []
+
+## Gaurav Chandrashekar
+ - [https://cggaurav.net](https://cggaurav.net)
+ - date published: 2023-12-20T00:58:27.977592+00:00
+ - user: None
+ - tags: ['personal']
+
+## chair6.net
+ - [https://chair6.net](https://chair6.net)
+ - date published: 2023-10-25T20:27:34.720205+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Checkmate Champ – a training tool for chess tactics
+ - [https://www.checkmatechamp.net](https://www.checkmatechamp.net)
+ - date published: 2024-01-20T20:41:59+00:00
+ - user: None
+ - tags: []
+
 ## Dave Cheney | The acme of foolishness
  - [https://dave.cheney.net](https://dave.cheney.net)
  - date published: 2023-11-05T13:31:03.029366+00:00
@@ -424,17 +556,17 @@
  - user: None
  - tags: []
 
-## None
- - [https://renegat0x0.ddns.net/apps/places/sources-json](https://renegat0x0.ddns.net/apps/places/sources-json)
- - date published: 2024-02-24T21:12:17.050206+00:00
- - user: None
- - tags: []
-
 ## renegat0x0 site
  - [https://renegat0x0.ddns.net](https://renegat0x0.ddns.net)
  - date published: 2023-10-25T08:52:16.878263+00:00
  - user: None
  - tags: ['personal']
+
+## None
+ - [https://renegat0x0.ddns.net/apps/places/sources-json](https://renegat0x0.ddns.net/apps/places/sources-json)
+ - date published: 2024-02-24T21:12:17.050206+00:00
+ - user: None
+ - tags: []
 
 ## Telnet BBS
  - [https://shsbbs.ddns.net](https://shsbbs.ddns.net)
@@ -617,14 +749,14 @@
  - tags: []
 
 ## Łona i Webber / Dobrzewiesz Nagrania
- - [http://dobrzewiesz.net](http://dobrzewiesz.net)
- - date published: 2024-02-26T15:15:04.444335+00:00
+ - [https://dobrzewiesz.net](https://dobrzewiesz.net)
+ - date published: 2024-01-09T03:35:23.233699+00:00
  - user: None
  - tags: []
 
 ## Łona i Webber / Dobrzewiesz Nagrania
- - [https://dobrzewiesz.net](https://dobrzewiesz.net)
- - date published: 2024-01-09T03:35:23.233699+00:00
+ - [http://dobrzewiesz.net](http://dobrzewiesz.net)
+ - date published: 2024-02-26T15:15:04.444335+00:00
  - user: None
  - tags: []
 
@@ -773,14 +905,14 @@
  - tags: ['javascript']
 
 ## J David Smith | emallson.net
- - [http://emallson.net](http://emallson.net)
- - date published: 2024-02-26T14:52:41.699985+00:00
+ - [https://emallson.net](https://emallson.net)
+ - date published: 2024-01-06T14:44:40.109071+00:00
  - user: None
  - tags: []
 
 ## J David Smith | emallson.net
- - [https://emallson.net](https://emallson.net)
- - date published: 2024-01-06T14:44:40.109071+00:00
+ - [http://emallson.net](http://emallson.net)
+ - date published: 2024-02-26T14:52:41.699985+00:00
  - user: None
  - tags: []
 
@@ -1474,15 +1606,15 @@
  - user: None
  - tags: []
 
-## Home – iA
- - [https://ia.net](https://ia.net)
- - date published: 2023-10-25T20:31:41.939052+00:00
- - user: None
- - tags: []
-
 ## iA - Home
  - [http://ia.net](http://ia.net)
  - date published: 2024-02-26T14:54:49.326176+00:00
+ - user: None
+ - tags: []
+
+## Home – iA
+ - [https://ia.net](https://ia.net)
+ - date published: 2023-10-25T20:31:41.939052+00:00
  - user: None
  - tags: []
 
@@ -2196,14 +2328,14 @@
  - tags: []
 
 ## linusakesson.net
- - [http://www.linusakesson.net](http://www.linusakesson.net)
- - date published: 2024-02-26T15:13:06.998772+00:00
+ - [https://www.linusakesson.net](https://www.linusakesson.net)
+ - date published: 2023-10-25T20:33:01.198358+00:00
  - user: None
  - tags: []
 
 ## linusakesson.net
- - [https://www.linusakesson.net](https://www.linusakesson.net)
- - date published: 2023-10-25T20:33:01.198358+00:00
+ - [http://www.linusakesson.net](http://www.linusakesson.net)
+ - date published: 2024-02-26T15:13:06.998772+00:00
  - user: None
  - tags: []
 
@@ -2220,16 +2352,16 @@
  - tags: ['demoscene']
 
 ## [Liquid DooM]
- - [https://liquiddoom.net](https://liquiddoom.net)
- - date published: 2024-02-15T22:13:28.553273+00:00
- - user: None
- - tags: ['demoscene']
-
-## [Liquid DooM]
  - [http://liquiddoom.net](http://liquiddoom.net)
  - date published: 2024-02-11T14:38:30.795082+00:00
  - user: None
  - tags: ['doom', 'video game music']
+
+## [Liquid DooM]
+ - [https://liquiddoom.net](https://liquiddoom.net)
+ - date published: 2024-02-15T22:13:28.553273+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Liquipedia
  - [https://liquipedia.net](https://liquipedia.net)
@@ -3565,16 +3697,16 @@
  - tags: ['cory doctorow', 'internet forum']
 
 ## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
- - [https://pluralistic.net](https://pluralistic.net)
- - date published: 2023-10-25T08:57:45.517375+00:00
- - user: None
- - tags: ['personal', 'blog']
-
-## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
  - [http://pluralistic.net](http://pluralistic.net)
  - date published: 2024-02-24T18:22:24.558627+00:00
  - user: None
  - tags: []
+
+## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
+ - [https://pluralistic.net](https://pluralistic.net)
+ - date published: 2023-10-25T08:57:45.517375+00:00
+ - user: None
+ - tags: ['personal', 'blog']
 
 ## Poc Network // Tech - Today's Tech News and Reviews
  - [https://www.pocnetwork.net](https://www.pocnetwork.net)
@@ -3967,14 +4099,14 @@
  - tags: []
 
 ## Russ Bishop
- - [http://russbishop.net](http://russbishop.net)
- - date published: 2024-02-26T12:47:27.767429+00:00
+ - [https://russbishop.net](https://russbishop.net)
+ - date published: 2024-01-09T03:36:09.716665+00:00
  - user: None
  - tags: []
 
 ## Russ Bishop
- - [https://russbishop.net](https://russbishop.net)
- - date published: 2024-01-09T03:36:09.716665+00:00
+ - [http://russbishop.net](http://russbishop.net)
+ - date published: 2024-02-26T12:47:27.767429+00:00
  - user: None
  - tags: []
 
@@ -4441,16 +4573,16 @@
  - tags: []
 
 ## Compare, Download & Develop Open Source & Business Software - SourceForge
- - [https://sourceforge.net](https://sourceforge.net)
- - date published: 2023-10-25T08:41:02.286459+00:00
- - user: rumpel
- - tags: ['software platform', 'open source']
-
-## Compare, Download & Develop Open Source & Business Software - SourceForge
  - [http://sourceforge.net](http://sourceforge.net)
  - date published: 2024-02-26T13:07:23.973035+00:00
  - user: None
  - tags: []
+
+## Compare, Download & Develop Open Source & Business Software - SourceForge
+ - [https://sourceforge.net](https://sourceforge.net)
+ - date published: 2023-10-25T08:41:02.286459+00:00
+ - user: rumpel
+ - tags: ['software platform', 'open source']
 
 ## Thinking Forth
  - [https://thinking-forth.sourceforge.net](https://thinking-forth.sourceforge.net)
@@ -4986,15 +5118,15 @@
  - user: rumpel
  - tags: ['file sharing']
 
-## Welcome to transputer.net
- - [http://transputer.net](http://transputer.net)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Transputer.net
  - [https://transputer.net](https://transputer.net)
  - date published: 2024-01-07T14:41:29+00:00
+ - user: None
+ - tags: []
+
+## Welcome to transputer.net
+ - [http://transputer.net](http://transputer.net)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5865,138 +5997,6 @@
 ## The Omg Lol Times · St. Jude Fundraiser Report
  - [https://omglol.news](https://omglol.news)
  - date published: 2023-10-25T20:42:48.905677+00:00
- - user: None
- - tags: []
-
-## Platformer | Casey Newton | Substack
- - [https://www.platformer.news](https://www.platformer.news)
- - date published: 2023-10-25T20:42:52.117652+00:00
- - user: None
- - tags: []
-
-## Positive News | Good journalism about good things - Positive News
- - [https://www.positive.news](https://www.positive.news)
- - date published: 2023-10-25T20:42:54.838847+00:00
- - user: None
- - tags: []
-
-## Post
- - [https://post.news](https://post.news)
- - date published: 2023-10-25T20:43:00.854072+00:00
- - user: None
- - tags: []
-
-## Racket News | Matt Taibbi | Substack
- - [https://www.racket.news](https://www.racket.news)
- - date published: 2023-10-25T20:43:04.969237+00:00
- - user: None
- - tags: []
-
-## Rekt - Home
- - [https://rekt.news](https://rekt.news)
- - date published: 2023-10-25T20:43:07.706883+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://rmx.news](https://rmx.news)
- - date published: 2023-10-25T10:39:52.865910+00:00
- - user: None
- - tags: []
-
-## Sci.News: Breaking Science News
- - [https://www.sci.news](https://www.sci.news)
- - date published: 2023-10-25T10:11:45.286879+00:00
- - user: None
- - tags: []
-
-## Home - Stonks News
- - [https://stonks.news](https://stonks.news)
- - date published: 2023-10-25T20:43:11.649456+00:00
- - user: None
- - tags: []
-
-## Summit News - News From The Summit
- - [https://summit.news](https://summit.news)
- - date published: 2023-10-25T10:39:55.843611+00:00
- - user: None
- - tags: []
-
-## Supervised | Matthew Lynley | Substack
- - [https://www.supervised.news](https://www.supervised.news)
- - date published: 2023-10-25T10:08:38.358107+00:00
- - user: None
- - tags: ['substack']
-
-## Technocracy News & Trends
- - [https://www.technocracy.news](https://www.technocracy.news)
- - date published: 2023-10-25T09:37:25.423842+00:00
- - user: None
- - tags: []
-
-## The Bureau | Sam Cooper | Substack
- - [https://www.thebureau.news](https://www.thebureau.news)
- - date published: 2024-02-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Gauntlet | Julia Doubleday | Substack
- - [https://www.thegauntlet.news](https://www.thegauntlet.news)
- - date published: 2024-02-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## tilde news
- - [https://tilde.news](https://tilde.news)
- - date published: 2023-10-25T20:43:14.869847+00:00
- - user: None
- - tags: []
-
-## True North | Breaking Canadian News and Opinion
- - [https://tnc.news](https://tnc.news)
- - date published: 2023-10-25T20:43:19.101154+00:00
- - user: None
- - tags: []
-
-## Web Platform News
- - [https://webplatform.news](https://webplatform.news)
- - date published: 2023-10-25T20:43:23.872213+00:00
- - user: None
- - tags: []
-
-## westernstandard.news | The independent voice of the New West
- - [https://www.westernstandard.news](https://www.westernstandard.news)
- - date published: 2023-12-04T22:07:35+00:00
- - user: rumpel
- - tags: ['news']
-
-## WorkLife — Authority on how modern work is changing people’s lives
- - [https://www.worklife.news](https://www.worklife.news)
- - date published: 2023-10-25T20:43:26.647990+00:00
- - user: None
- - tags: []
-
-## The Works in Progress Newsletter | Substack
- - [https://www.worksinprogress.news](https://www.worksinprogress.news)
- - date published: 2023-10-25T20:43:29.879565+00:00
- - user: None
- - tags: []
-
-## Zig NEWS
- - [https://zig.news](https://zig.news)
- - date published: 2023-10-25T20:43:39.498351+00:00
- - user: None
- - tags: []
-
-## The Times Nigeria Newspaper | TheTimes.com.ng
- - [https://www.thetimes.com.ng](https://www.thetimes.com.ng)
- - date published: 2023-10-25T20:43:43.215777+00:00
- - user: None
- - tags: []
-
-## Anchor | JUPEB-REGISTER
- - [https://jupeb.aul.edu.ng](https://jupeb.aul.edu.ng)
- - date published: 2024-02-08T18:02:41.371594+00:00
  - user: None
  - tags: []
 

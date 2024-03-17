@@ -1,3 +1,147 @@
+## Index - D Programming Language Discussion Forum
+ - [https://forum.dlang.org](https://forum.dlang.org)
+ - date published: 2023-10-25T21:14:51.989473+00:00
+ - user: None
+ - tags: []
+
+## Deep Learning Systems
+ - [https://dlsyscourse.org](https://dlsyscourse.org)
+ - date published: 2023-10-25T21:14:57.710621+00:00
+ - user: None
+ - tags: []
+
+## https://dmoz.org
+ - [https://dmoz.org](https://dmoz.org)
+ - date published: 2024-02-05T17:23:42.498509+00:00
+ - user: None
+ - tags: []
+
+## Gudang Slot88: Situs Slot Gacor Hari Ini dan Slot88 Terpercaya
+ - [https://dnipogo.org](https://dnipogo.org)
+ - date published: 2024-01-09T03:38:57.166834+00:00
+ - user: None
+ - tags: []
+
+## Home | Doctors Without Borders - USA
+ - [https://www.doctorswithoutborders.org](https://www.doctorswithoutborders.org)
+ - date published: 2023-11-11T16:04:52.293520+00:00
+ - user: None
+ - tags: []
+
+## DocumentCloud
+ - [https://www.documentcloud.org](https://www.documentcloud.org)
+ - date published: 2023-10-25T21:14:58.036496+00:00
+ - user: None
+ - tags: []
+
+## The Document Foundation Blog - The home of LibreOffice
+ - [https://blog.documentfoundation.org](https://blog.documentfoundation.org)
+ - date published: 2023-10-25T21:14:59.845814+00:00
+ - user: None
+ - tags: []
+
+## LibreOffice Development Blog - Blog for the LibreOffice Developers Community; Tutorials, tips and tricks for working with the LibreOffice code
+ - [https://dev.blog.documentfoundation.org](https://dev.blog.documentfoundation.org)
+ - date published: 2023-10-25T21:15:02.330486+00:00
+ - user: None
+ - tags: []
+
+## Welcome to The Document Foundation’s wiki - The Document Foundation Wiki
+ - [https://wiki.documentfoundation.org](https://wiki.documentfoundation.org)
+ - date published: 2023-10-25T21:15:04.376783+00:00
+ - user: None
+ - tags: []
+
+## Dogbolt Decompiler Explorer
+ - [https://dogbolt.org](https://dogbolt.org)
+ - date published: 2023-12-04T17:52:55+00:00
+ - user: None
+ - tags: []
+
+## Home Page
+ - [https://doi.org](https://doi.org)
+ - date published: 2023-10-25T21:15:05.945582+00:00
+ - user: None
+ - tags: []
+
+## Resolve a DOI Name
+ - [http://dx.doi.org](http://dx.doi.org)
+ - date published: 2024-02-27T01:04:33.113692+00:00
+ - user: None
+ - tags: []
+
+## Resolve a DOI Name
+ - [https://dx.doi.org](https://dx.doi.org)
+ - date published: 2023-12-03T01:17:58.110575+00:00
+ - user: None
+ - tags: []
+
+## Dolphin Emulator - GameCube/Wii games on PC
+ - [https://dolphin-emu.org](https://dolphin-emu.org)
+ - date published: 2023-10-25T08:36:22.762291+00:00
+ - user: None
+ - tags: ['emulator']
+
+## Domain Verification Protocol
+ - [https://domainverification.org](https://domainverification.org)
+ - date published: 2023-10-25T21:15:06.523985+00:00
+ - user: None
+ - tags: []
+
+## Domain Verification Protocol
+ - [https://www.domainverification.org](https://www.domainverification.org)
+ - date published: 2023-10-25T21:15:07.191275+00:00
+ - user: None
+ - tags: []
+
+## Domestika
+ - [https://www.domestika.org](https://www.domestika.org)
+ - date published: 2023-10-24T20:19:43.752630+00:00
+ - user: None
+ - tags: ['courses', 'writing', 'tutorials', 'drawing']
+
+## None
+ - [https://donellameadows.org](https://donellameadows.org)
+ - date published: 2023-12-24T03:19:42.866506+00:00
+ - user: None
+ - tags: []
+
+## Free Donate Button - Donorbox Nonprofit Fundraising Software
+ - [https://donorbox.org](https://donorbox.org)
+ - date published: 2024-01-18T21:57:11.297764+00:00
+ - user: None
+ - tags: []
+
+## The Doom Wiki at DoomWiki.org - Doom, Heretic, Hexen, Strife, and more
+ - [https://doomwiki.org](https://doomwiki.org)
+ - date published: 2023-10-25T21:15:10.502720+00:00
+ - user: None
+ - tags: []
+
+## .NET Foundation | .NET Foundation
+ - [https://dotnetfoundation.org](https://dotnetfoundation.org)
+ - date published: 2023-10-25T21:15:11.977111+00:00
+ - user: None
+ - tags: []
+
+## Welcome - Doug Engelbart Institute
+ - [https://www.dougengelbart.org](https://www.dougengelbart.org)
+ - date published: 2023-10-25T21:15:15.673050+00:00
+ - user: None
+ - tags: []
+
+## DragonFlyBSD: DragonFly BSD
+ - [https://www.dragonflybsd.org](https://www.dragonflybsd.org)
+ - date published: 2023-10-25T21:15:22.406789+00:00
+ - user: None
+ - tags: []
+
+## D.R.A.S.T.I.C. Research – D.R.A.S.T.I.C. Research
+ - [https://drasticresearch.org](https://drasticresearch.org)
+ - date published: 2023-10-25T21:15:25.874666+00:00
+ - user: None
+ - tags: []
+
 ## cellio | Recent Entries
  - [https://cellio.dreamwidth.org](https://cellio.dreamwidth.org)
  - date published: 2024-03-14T17:29:57.709889+00:00
@@ -574,15 +718,15 @@
  - user: None
  - tags: []
 
-## Ergaster
- - [http://ergaster.org](http://ergaster.org)
- - date published: 2024-02-26T14:07:11.647181+00:00
- - user: None
- - tags: []
-
 ## Thib's Home
  - [https://ergaster.org](https://ergaster.org)
  - date published: 2023-10-25T21:18:23.232043+00:00
+ - user: None
+ - tags: []
+
+## Ergaster
+ - [http://ergaster.org](http://ergaster.org)
+ - date published: 2024-02-26T14:07:11.647181+00:00
  - user: None
  - tags: []
 
@@ -2937,14 +3081,14 @@
  - tags: []
 
 ## IEEE Spectrum
- - [http://spectrum.ieee.org](http://spectrum.ieee.org)
- - date published: 2024-02-25T20:49:03.401404+00:00
+ - [https://spectrum.ieee.org](https://spectrum.ieee.org)
+ - date published: 2023-10-25T09:37:30.327947+00:00
  - user: None
  - tags: []
 
 ## IEEE Spectrum
- - [https://spectrum.ieee.org](https://spectrum.ieee.org)
- - date published: 2023-10-25T09:37:30.327947+00:00
+ - [http://spectrum.ieee.org](http://spectrum.ieee.org)
+ - date published: 2024-02-25T20:49:03.401404+00:00
  - user: None
  - tags: []
 
@@ -3326,6 +3470,12 @@
  - user: None
  - tags: []
 
+## IRE & NICAR conference schedules
+ - [https://schedules.ire.org](https://schedules.ire.org)
+ - date published: 2024-03-16T19:43:52.353937+00:00
+ - user: None
+ - tags: []
+
 ## Investigative Reporters & Editors - Investigative Reporters & Editors
  - [https://www.ire.org](https://www.ire.org)
  - date published: 2024-02-19T00:00:00+00:00
@@ -3467,6 +3617,12 @@
 ## Międzynarodowy konkurs projektowania | Nagroda Jamesa Dysona
  - [https://www.jamesdysonaward.org](https://www.jamesdysonaward.org)
  - date published: 2023-10-25T21:33:26.040445+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://jamestown.org](https://jamestown.org)
+ - date published: 2024-03-15T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5850,162 +6006,6 @@ Common Weakness Enumeration
 ## Home - Mozilla Hacks - the Web developer blog
  - [https://hacks.mozilla.org](https://hacks.mozilla.org)
  - date published: 2023-10-25T09:27:22.380438+00:00
- - user: None
- - tags: []
-
-## Joint Statement on AI Safety and Openness
- - [https://open.mozilla.org](https://open.mozilla.org)
- - date published: 2023-11-02T18:21:50.124595+00:00
- - user: None
- - tags: []
-
-## Papers & Publications - Mozilla Research
- - [https://research.mozilla.org](https://research.mozilla.org)
- - date published: 2023-10-25T09:27:25.209201+00:00
- - user: None
- - tags: []
-
-## The State of Mozilla: 2022 — 2023 Annual Report — Mozilla
- - [https://stateof.mozilla.org](https://stateof.mozilla.org)
- - date published: 2023-12-05T14:09:52.283936+00:00
- - user: None
- - tags: []
-
-## Mozilla Support
- - [https://support.mozilla.org](https://support.mozilla.org)
- - date published: 2023-10-25T11:32:03.980205+00:00
- - user: None
- - tags: []
-
-## Treeherder
- - [https://treeherder.mozilla.org](https://treeherder.mozilla.org)
- - date published: 2023-10-25T09:27:25.901270+00:00
- - user: None
- - tags: []
-
-## MozillaWiki
- - [https://wiki.mozilla.org](https://wiki.mozilla.org)
- - date published: 2023-10-25T09:27:28.058443+00:00
- - user: None
- - tags: []
-
-## Internet for people, not profit — Mozilla (US)
- - [https://www.mozilla.org](https://www.mozilla.org)
- - date published: 2023-10-25T09:27:30.838308+00:00
- - user: None
- - tags: ['organization', 'company', 'web browser', 'firefox', 'thunderbird']
-
-## Pocket | Discover, Capture and Savor Content That Fascinates You
- - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
- - date published: 2023-11-13T13:38:32+00:00
- - user: rumpel
- - tags: ['bookmark manager', 'link aggregation']
-
-## Nextcloud
- - [https://nce.mpi-sp.org](https://nce.mpi-sp.org)
- - date published: 2023-11-06T14:35:47.552163+00:00
- - user: None
- - tags: []
-
-## MPR News
- - [https://www.mprnews.org](https://www.mprnews.org)
- - date published: 2023-10-25T11:07:25.515521+00:00
- - user: None
- - tags: []
-
-## MR Online
- - [https://mronline.org](https://mronline.org)
- - date published: 2023-10-25T21:45:02.065470+00:00
- - user: None
- - tags: []
-
-## mruby
- - [https://mruby.org](https://mruby.org)
- - date published: 2023-10-25T21:45:04.103594+00:00
- - user: None
- - tags: []
-
-## MSX Resource Center
- - [https://www.msx.org](https://www.msx.org)
- - date published: 2023-10-28T18:52:39.028551+00:00
- - user: None
- - tags: ['internet forum']
-
-## Montana Public Radio | Montana Public Radio
- - [https://www.mtpr.org](https://www.mtpr.org)
- - date published: 2023-10-25T21:45:11.677857+00:00
- - user: None
- - tags: []
-
-## Mudlet – A cross-platform, open source, and super fast MUD client with scripting in Lua
- - [https://www.mudlet.org](https://www.mudlet.org)
- - date published: 2023-10-27T13:35:28.124871+00:00
- - user: None
- - tags: ['mud']
-
-## Mugen Games
- - [https://mugengames.org](https://mugengames.org)
- - date published: 2023-10-30T16:29:32.202260+00:00
- - user: None
- - tags: []
-
-## Multics
- - [https://multicians.org](https://multicians.org)
- - date published: 2023-10-25T21:45:15.492870+00:00
- - user: None
- - tags: []
-
-## Multics
- - [https://www.multicians.org](https://www.multicians.org)
- - date published: 2023-10-25T21:45:18.889786+00:00
- - user: None
- - tags: []
-
-## MultiPath TCP - Linux Kernel implementation : Main - Home Page browse
- - [https://www.multipath-tcp.org](https://www.multipath-tcp.org)
- - date published: 2023-10-25T21:45:21.667260+00:00
- - user: None
- - tags: []
-
-## mupuf.org
- - [https://www.mupuf.org](https://www.mupuf.org)
- - date published: 2023-10-25T21:45:24.514993+00:00
- - user: None
- - tags: []
-
-## Digital Giza | Educational Resources
- - [https://giza.mused.org](https://giza.mused.org)
- - date published: 2023-10-25T08:35:37.841688+00:00
- - user: None
- - tags: []
-
-## Museo Larco
- - [https://www.museolarco.org](https://www.museolarco.org)
- - date published: 2023-11-13T13:48:51.556742+00:00
- - user: None
- - tags: ['museum']
-
-## Free music composition and notation software | MuseScore
- - [https://musescore.org](https://musescore.org)
- - date published: 2023-10-25T21:45:30.331302+00:00
- - user: None
- - tags: []
-
-## Museum Crush – from Culture24
- - [https://museumcrush.org](https://museumcrush.org)
- - date published: 2023-10-25T21:45:32.572221+00:00
- - user: None
- - tags: []
-
-## Free Sheet Music, Royalty Free & Public Domain Music | Musopen
- - [https://musopen.org](https://musopen.org)
- - date published: 2023-10-25T11:35:30.710422+00:00
- - user: None
- - tags: ['assets audio']
-
-## mwmbl blog
- - [https://blog.mwmbl.org](https://blog.mwmbl.org)
- - date published: 2023-12-23T17:08:48.710959+00:00
  - user: None
  - tags: []
 

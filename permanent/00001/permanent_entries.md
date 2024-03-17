@@ -107,13 +107,13 @@
  - tags: []
 
 ## iter.ca
- - [http://iter.ca](http://iter.ca)
+ - [https://iter.ca](https://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## iter.ca
- - [https://iter.ca](https://iter.ca)
+ - [http://iter.ca](http://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -1671,6 +1671,12 @@
 ## The Market – Analysen und Hintergründe aus der Wirtschaft
  - [https://themarket.ch](https://themarket.ch)
  - date published: 2023-10-25T12:14:47.125200+00:00
+ - user: None
+ - tags: []
+
+## Tyler Kennedy
+ - [https://tkte.ch](https://tkte.ch)
+ - date published: 2024-03-15T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3533,6 +3539,12 @@
  - date published: 2023-12-17T05:07:17.833775+00:00
  - user: None
  - tags: ['personal']
+
+## andrei gheorghe, developer
+ - [https://andrei.codes](https://andrei.codes)
+ - date published: 2024-03-16T13:56:49.052921+00:00
+ - user: None
+ - tags: []
 
 ## Avdi Grimm, Code Cleric
  - [https://avdi.codes](https://avdi.codes)
@@ -5989,16 +6001,4 @@
  - date published: 2023-10-25T09:04:24.113928+00:00
  - user: None
  - tags: ['personal']
-
-## Alex Molas
- - [https://www.alexmolas.com](https://www.alexmolas.com)
- - date published: 2023-10-25T09:04:24.675550+00:00
- - user: None
- - tags: ['personal']
-
-## Web and mobile developer | Alex Plescan
- - [https://alexplescan.com](https://alexplescan.com)
- - date published: 2023-10-25T12:38:04.232631+00:00
- - user: None
- - tags: []
 

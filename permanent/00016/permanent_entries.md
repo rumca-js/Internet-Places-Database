@@ -1,3 +1,105 @@
+## Columbia University School of Professional Studies Virtual Tour
+ - [https://tour.sps.columbia.edu](https://tour.sps.columbia.edu)
+ - date published: 2024-02-08T17:34:08.015883+00:00
+ - user: None
+ - tags: []
+
+## ViperGPT: Visual Inference via Python Execution for Reasoning
+ - [https://viper.cs.columbia.edu](https://viper.cs.columbia.edu)
+ - date published: 2023-10-25T18:50:05.789837+00:00
+ - user: None
+ - tags: []
+
+## Herbert Irving Comprehensive Cancer Center (HICCC) - New York
+ - [https://www.cancer.columbia.edu](https://www.cancer.columbia.edu)
+ - date published: 2023-10-25T18:50:13.811298+00:00
+ - user: None
+ - tags: []
+
+## Columbia University in the City of New York
+ - [https://www.columbia.edu](https://www.columbia.edu)
+ - date published: 2024-02-28T15:39:28.832261+00:00
+ - user: None
+ - tags: []
+
+## Columbia University in the City of New York
+ - [http://www.columbia.edu](http://www.columbia.edu)
+ - date published: 2024-03-14T05:31:04.195743+00:00
+ - user: None
+ - tags: []
+
+## Department of Computer Science, Columbia University
+ - [https://www.cs.columbia.edu](https://www.cs.columbia.edu)
+ - date published: 2023-10-25T18:50:17.823882+00:00
+ - user: None
+ - tags: []
+
+## Columbia University Irving Medical Center
+ - [https://www.cuimc.columbia.edu](https://www.cuimc.columbia.edu)
+ - date published: 2023-10-25T18:50:21.143055+00:00
+ - user: None
+ - tags: []
+
+## Columbia Engineering Schools | Innovative Programs for Students
+ - [https://www.engineering.columbia.edu](https://www.engineering.columbia.edu)
+ - date published: 2016-09-09T19:10:05+00:00
+ - user: None
+ - tags: []
+
+## Department of Mathematics at Columbia University - Welcome
+ - [https://www.math.columbia.edu](https://www.math.columbia.edu)
+ - date published: 2023-10-25T18:50:23.763635+00:00
+ - user: None
+ - tags: []
+
+## Columbia University Mailman School of Public Health
+ - [https://www.publichealth.columbia.edu](https://www.publichealth.columbia.edu)
+ - date published: 2024-03-02T19:19:41.405171+00:00
+ - user: None
+ - tags: []
+
+## Apache HTTP Server Test Page powered by CentOS
+ - [https://www.stat.columbia.edu](https://www.stat.columbia.edu)
+ - date published: 2024-01-09T02:58:36.122416+00:00
+ - user: None
+ - tags: []
+
+## Zero-1-to-3: Zero-shot One Image to 3D Object
+ - [https://zero123.cs.columbia.edu](https://zero123.cs.columbia.edu)
+ - date published: 2023-10-25T18:50:29.530822+00:00
+ - user: None
+ - tags: []
+
+## Columbia | Zuckerman Institute
+ - [https://zuckermaninstitute.columbia.edu](https://zuckermaninstitute.columbia.edu)
+ - date published: 2023-10-25T18:50:31.676775+00:00
+ - user: None
+ - tags: []
+
+## Welcome to the Cornell Academic Materials Program | Cornell U.
+ - [https://academicmaterials.cornell.edu](https://academicmaterials.cornell.edu)
+ - date published: 2024-02-08T18:00:56.538608+00:00
+ - user: None
+ - tags: []
+
+## Cornell Virtual Workshop
+ - [https://cvw.cac.cornell.edu](https://cvw.cac.cornell.edu)
+ - date published: 2023-10-25T18:50:32.946582+00:00
+ - user: None
+ - tags: []
+
+## https://join.birds.cornell.edu
+ - [https://join.birds.cornell.edu](https://join.birds.cornell.edu)
+ - date published: 2024-02-08T17:31:30.142350+00:00
+ - user: None
+ - tags: []
+
+## LISC: Laboratory for Intelligent Systems and Controls
+ - [https://lisc.mae.cornell.edu](https://lisc.mae.cornell.edu)
+ - date published: 2024-01-09T02:58:39.276898+00:00
+ - user: None
+ - tags: []
+
 ## Learning Strategies Center – Academic Support at Cornell University
  - [https://lsc.cornell.edu](https://lsc.cornell.edu)
  - date published: 2023-10-25T18:50:35.715625+00:00
@@ -211,6 +313,12 @@
 ## Goldey-Beacom College
  - [https://www.gbc.edu](https://www.gbc.edu)
  - date published: 2024-01-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home Page - Georgetown University Medical Center
+ - [https://gumc.georgetown.edu](https://gumc.georgetown.edu)
+ - date published: 2024-03-05T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3232,16 +3340,16 @@
  - tags: []
 
 ## Linktree: Link everything you are
- - [http://linktr.ee](http://linktr.ee)
- - date published: 2024-02-29T14:58:08.693207+00:00
- - user: None
- - tags: []
-
-## Linktree: Link everything you are
  - [https://linktr.ee](https://linktr.ee)
  - date published: 2023-10-31T16:18:01.056130+00:00
  - user: None
  - tags: ['social media reference', 'link service']
+
+## Linktree: Link everything you are
+ - [http://linktr.ee](http://linktr.ee)
+ - date published: 2024-02-29T14:58:08.693207+00:00
+ - user: None
+ - tags: []
 
 ## Mairedesign masinkudumise koolitus
  - [https://www.masinkudumine.ee](https://www.masinkudumine.ee)
@@ -4396,16 +4504,16 @@
  - tags: []
 
 ## Nicole Express
- - [https://nicole.express](https://nicole.express)
- - date published: 2023-10-25T19:12:14.620553+00:00
- - user: None
- - tags: ['personal']
-
-## Nicole Express
  - [http://nicole.express](http://nicole.express)
  - date published: 2024-02-18T00:00:00+00:00
  - user: None
  - tags: []
+
+## Nicole Express
+ - [https://nicole.express](https://nicole.express)
+ - date published: 2023-10-25T19:12:14.620553+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Abort Retry Fail | Bradford Morgan White | Substack
  - [https://www.abortretry.fail](https://www.abortretry.fail)
@@ -4557,17 +4665,17 @@
  - user: None
  - tags: ['personal']
 
-## https://jope.fi
- - [https://jope.fi](https://jope.fi)
- - date published: 2024-01-11T00:42:53.136432+00:00
- - user: None
- - tags: []
-
 ## The X-Copy Shrine
  - [http://jope.fi/xcopy/index.html](http://jope.fi/xcopy/index.html)
  - date published: 2024-02-06T13:38:25.181349+00:00
  - user: rumpel
  - tags: ['amiga', 'x-copy']
+
+## https://jope.fi
+ - [https://jope.fi](https://jope.fi)
+ - date published: 2024-01-11T00:42:53.136432+00:00
+ - user: None
+ - tags: []
 
 ## Ville Jouppi
  - [http://jope.fi](http://jope.fi)
@@ -4582,13 +4690,13 @@
  - tags: []
 
 ## None
- - [http://kaaosradio.fi](http://kaaosradio.fi)
+ - [https://kaaosradio.fi](https://kaaosradio.fi)
  - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://kaaosradio.fi](https://kaaosradio.fi)
+ - [http://kaaosradio.fi](http://kaaosradio.fi)
  - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -4630,14 +4738,14 @@
  - tags: []
 
 ## Spotify - Web Player: Music for everyone
- - [http://spoti.fi](http://spoti.fi)
- - date published: 2024-01-21T19:14:58.231822+00:00
+ - [https://spoti.fi](https://spoti.fi)
+ - date published: 2024-01-22T07:43:20.742120+00:00
  - user: None
  - tags: []
 
 ## Spotify - Web Player: Music for everyone
- - [https://spoti.fi](https://spoti.fi)
- - date published: 2024-01-22T07:43:20.742120+00:00
+ - [http://spoti.fi](http://spoti.fi)
+ - date published: 2024-01-21T19:14:58.231822+00:00
  - user: None
  - tags: []
 
@@ -5616,16 +5724,16 @@
  - tags: []
 
 ## Radio Admin
- - [https://manager8.streamradio.fr](https://manager8.streamradio.fr)
- - date published: 2024-02-15T22:13:33.848738+00:00
- - user: None
- - tags: ['demoscene']
-
-## Radio Admin
  - [http://manager8.streamradio.fr](http://manager8.streamradio.fr)
  - date published: 2024-02-15T01:59:51.771043+00:00
  - user: None
  - tags: []
+
+## Radio Admin
+ - [https://manager8.streamradio.fr](https://manager8.streamradio.fr)
+ - date published: 2024-02-15T22:13:33.848738+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## SunEstra
  - [https://sunestra.fr](https://sunestra.fr)
@@ -5754,14 +5862,14 @@
  - tags: []
 
 ## brr
- - [https://brr.fyi](https://brr.fyi)
- - date published: 2023-10-25T19:15:50.754055+00:00
+ - [http://brr.fyi](http://brr.fyi)
+ - date published: 2024-01-18T00:00:00+00:00
  - user: None
  - tags: []
 
 ## brr
- - [http://brr.fyi](http://brr.fyi)
- - date published: 2024-01-18T00:00:00+00:00
+ - [https://brr.fyi](https://brr.fyi)
+ - date published: 2023-10-25T19:15:50.754055+00:00
  - user: None
  - tags: []
 
@@ -5900,114 +6008,6 @@
 ## Show HN: Trains.fyi – a live map of passenger trains in the US and Canada
  - [https://trains.fyi](https://trains.fyi)
  - date published: 2023-11-27T16:47:19+00:00
- - user: None
- - tags: []
-
-## The ideal viewport doesn’t exist
- - [https://viewports.fyi](https://viewports.fyi)
- - date published: 2023-10-25T19:16:21.804980+00:00
- - user: None
- - tags: []
-
-## Vizly - Data to insights in seconds
- - [https://www.vizly.fyi](https://www.vizly.fyi)
- - date published: 2023-10-25T19:16:23.095453+00:00
- - user: None
- - tags: []
-
-## William Edmisten
- - [https://wcedmisten.fyi](https://wcedmisten.fyi)
- - date published: 2023-10-25T19:16:24.081987+00:00
- - user: None
- - tags: []
-
-## Jack Wrenn
- - [https://jack.wrenn.fyi](https://jack.wrenn.fyi)
- - date published: 2023-10-25T19:16:25.606719+00:00
- - user: None
- - tags: []
-
-## Are the Americans Awake?
- - [https://are-the-americans-awake.yusuf.fyi](https://are-the-americans-awake.yusuf.fyi)
- - date published: 2023-10-25T19:16:26.673031+00:00
- - user: None
- - tags: []
-
-## None
- - [https://blog.joren.ga](https://blog.joren.ga)
- - date published: 2024-01-09T03:30:11.532362+00:00
- - user: None
- - tags: []
-
-## Minimal Gallery – Website inspiration
- - [https://minimal.gallery](https://minimal.gallery)
- - date published: 2023-10-25T19:16:29.833681+00:00
- - user: None
- - tags: []
-
-## Nyx.gallery - AI-generated photography
- - [https://nyx.gallery](https://nyx.gallery)
- - date published: 2023-10-25T19:16:35.991453+00:00
- - user: None
- - tags: []
-
-## Baldur's Gate 3
- - [https://baldursgate3.game](https://baldursgate3.game)
- - date published: 2023-10-25T19:16:37.135932+00:00
- - user: None
- - tags: []
-
-## Nour: Play With Your Food
- - [https://food.game](https://food.game)
- - date published: 2023-10-25T19:16:38.689460+00:00
- - user: None
- - tags: []
-
-## GuessTheGame - Your daily video game guessing puzzle!
- - [https://guessthe.game](https://guessthe.game)
- - date published: 2023-10-25T19:16:39.291433+00:00
- - user: None
- - tags: []
-
-## Turing Complete
- - [https://turingcomplete.game](https://turingcomplete.game)
- - date published: 2024-01-09T13:01:57.374797+00:00
- - user: None
- - tags: []
-
-## games
- - [https://eieio.games](https://eieio.games)
- - date published: 2023-10-25T08:49:11.104677+00:00
- - user: None
- - tags: ['personal']
-
-## Imperial Games
- - [https://imperial.games](https://imperial.games)
- - date published: 2023-10-27T08:01:51.543359+00:00
- - user: None
- - tags: []
-
-## IPv4 Turf War
- - [https://ipv4.games](https://ipv4.games)
- - date published: 2023-10-25T19:16:40.305776+00:00
- - user: None
- - tags: []
-
-## Moai in Video Games
- - [https://moai.games](https://moai.games)
- - date published: 2024-01-09T15:06:59.932481+00:00
- - user: None
- - tags: []
-
-## #OpenDND
- - [https://www.opendnd.games](https://www.opendnd.games)
- - date published: 2023-10-25T19:16:41.427149+00:00
- - user: None
- - tags: []
-
-## Pixel Puzzler
- - [https://pixel-puzzler.playcurious.games](https://pixel-puzzler.playcurious.games)
- - date published: 2023-10-25T19:16:41.899108+00:00
  - user: None
  - tags: []
 

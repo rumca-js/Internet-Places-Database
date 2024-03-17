@@ -1,3 +1,27 @@
+## Connex Digital Automation Workflow Experts
+ - [https://connexdigitalmarketing.com](https://connexdigitalmarketing.com)
+ - date published: 2023-11-29T14:23:15.837100+00:00
+ - user: None
+ - tags: ['personal']
+
+## Connor Tumbleson
+ - [https://connortumbleson.com](https://connortumbleson.com)
+ - date published: 2023-10-25T13:33:12.107835+00:00
+ - user: None
+ - tags: []
+
+## Parhelia | Conor Barnes | Substack
+ - [https://parhelia.conorbarnes.com](https://parhelia.conorbarnes.com)
+ - date published: 2023-12-03T22:18:35.684888+00:00
+ - user: None
+ - tags: []
+
+## Conor Neill - Moving People to Action
+ - [https://conorneill.com](https://conorneill.com)
+ - date published: 2023-12-28T22:26:17.147979+00:00
+ - user: None
+ - tags: ['personal']
+
 ## About Con’s Work - Con Slobodchikoff
  - [https://conslobodchikoff.com](https://conslobodchikoff.com)
  - date published: 2016-01-20T15:11:34+00:00
@@ -712,6 +736,12 @@
  - user: None
  - tags: []
 
+## Poland
+ - [https://www.credit-suisse.com](https://www.credit-suisse.com)
+ - date published: 2024-03-16T18:26:55.762222+00:00
+ - user: None
+ - tags: []
+
 ## Creed - Official Website
  - [https://creed.com](https://creed.com)
  - date published: 2023-11-13T10:35:50.547381+00:00
@@ -1277,11 +1307,11 @@
  - user: None
  - tags: []
 
-## https://cybernews.com
+## Cyber News
  - [https://cybernews.com](https://cybernews.com)
- - date published: 2023-10-25T13:40:05.348254+00:00
- - user: None
- - tags: []
+ - date published: 2023-10-25T13:40:05+00:00
+ - user: rumpel
+ - tags: ['news', 'cybersecurity']
 
 ## CyberScoop | Breaking Cybersecurity News, Public Sector Threats
  - [https://cyberscoop.com](https://cyberscoop.com)
@@ -1853,15 +1883,15 @@
  - user: None
  - tags: []
 
-## https://danluu.com
- - [https://danluu.com](https://danluu.com)
- - date published: 2023-12-07T19:41:48.559063+00:00
- - user: None
- - tags: []
-
 ## None
  - [http://danluu.com](http://danluu.com)
  - date published: 1979-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://danluu.com
+ - [https://danluu.com](https://danluu.com)
+ - date published: 2023-12-07T19:41:48.559063+00:00
  - user: None
  - tags: []
 
@@ -2988,14 +3018,14 @@
  - tags: []
 
 ## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [http://democratherald.com](http://democratherald.com)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://democratherald.com](https://democratherald.com)
+ - date published: 2023-11-04T05:50:19.542658+00:00
  - user: None
  - tags: []
 
 ## democratherald.com | Read Albany, OR and Oregon breaking news. Get latest news, events and information on Oregon sports, weather, entertainment and lifestyles.
- - [https://democratherald.com](https://democratherald.com)
- - date published: 2023-11-04T05:50:19.542658+00:00
+ - [http://democratherald.com](http://democratherald.com)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3365,15 +3395,15 @@
  - user: None
  - tags: []
 
-## introducing mazzle - a pipelines as code tool
- - [http://devops-pipeline.com](http://devops-pipeline.com)
- - date published: 2024-02-29T14:58:14.068438+00:00
- - user: None
- - tags: []
-
 ## Mazzle – A Pipelines as Code Tool
  - [https://devops-pipeline.com](https://devops-pipeline.com)
  - date published: 2023-12-31T11:15:08+00:00
+ - user: None
+ - tags: []
+
+## introducing mazzle - a pipelines as code tool
+ - [http://devops-pipeline.com](http://devops-pipeline.com)
+ - date published: 2024-02-29T14:58:14.068438+00:00
  - user: None
  - tags: []
 
@@ -5967,36 +5997,6 @@
 ## ELLIE GOULDING
  - [https://www.elliegoulding.com](https://www.elliegoulding.com)
  - date published: 2024-04-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Elliot
- - [https://elliotali.com](https://elliotali.com)
- - date published: 2023-12-17T16:42:36.008370+00:00
- - user: None
- - tags: ['personal']
-
-## Elliot Alker
- - [https://www.elliotalker.com](https://www.elliotalker.com)
- - date published: 2024-01-16T03:18:22.405461+00:00
- - user: None
- - tags: []
-
-## elliotec
- - [https://elliotec.com](https://elliotec.com)
- - date published: 2023-12-09T10:39:22.766801+00:00
- - user: None
- - tags: ['personal']
-
-## Elliott Aleksander LLC
- - [https://www.elliottaleksander.com](https://www.elliottaleksander.com)
- - date published: 2023-11-29T15:15:44.788715+00:00
- - user: None
- - tags: ['personal']
-
-## Elliott Slaughter's Home Page
- - [https://elliottslaughter.com](https://elliottslaughter.com)
- - date published: 2023-10-25T14:05:33.457928+00:00
  - user: None
  - tags: []
 

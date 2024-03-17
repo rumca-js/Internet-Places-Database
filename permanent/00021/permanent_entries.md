@@ -1,3 +1,135 @@
+## Platformer | Casey Newton | Substack
+ - [https://www.platformer.news](https://www.platformer.news)
+ - date published: 2023-10-25T20:42:52.117652+00:00
+ - user: None
+ - tags: []
+
+## Positive News | Good journalism about good things - Positive News
+ - [https://www.positive.news](https://www.positive.news)
+ - date published: 2023-10-25T20:42:54.838847+00:00
+ - user: None
+ - tags: []
+
+## Post
+ - [https://post.news](https://post.news)
+ - date published: 2023-10-25T20:43:00.854072+00:00
+ - user: None
+ - tags: []
+
+## Racket News | Matt Taibbi | Substack
+ - [https://www.racket.news](https://www.racket.news)
+ - date published: 2023-10-25T20:43:04.969237+00:00
+ - user: None
+ - tags: []
+
+## Rekt - Home
+ - [https://rekt.news](https://rekt.news)
+ - date published: 2023-10-25T20:43:07.706883+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://rmx.news](https://rmx.news)
+ - date published: 2023-10-25T10:39:52.865910+00:00
+ - user: None
+ - tags: []
+
+## Sci.News: Breaking Science News
+ - [https://www.sci.news](https://www.sci.news)
+ - date published: 2023-10-25T10:11:45.286879+00:00
+ - user: None
+ - tags: []
+
+## Home - Stonks News
+ - [https://stonks.news](https://stonks.news)
+ - date published: 2023-10-25T20:43:11.649456+00:00
+ - user: None
+ - tags: []
+
+## Summit News - News From The Summit
+ - [https://summit.news](https://summit.news)
+ - date published: 2023-10-25T10:39:55.843611+00:00
+ - user: None
+ - tags: []
+
+## Supervised | Matthew Lynley | Substack
+ - [https://www.supervised.news](https://www.supervised.news)
+ - date published: 2023-10-25T10:08:38.358107+00:00
+ - user: None
+ - tags: ['substack']
+
+## Technocracy News & Trends
+ - [https://www.technocracy.news](https://www.technocracy.news)
+ - date published: 2023-10-25T09:37:25.423842+00:00
+ - user: None
+ - tags: []
+
+## The Bureau | Sam Cooper | Substack
+ - [https://www.thebureau.news](https://www.thebureau.news)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Gauntlet | Julia Doubleday | Substack
+ - [https://www.thegauntlet.news](https://www.thegauntlet.news)
+ - date published: 2024-02-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## tilde news
+ - [https://tilde.news](https://tilde.news)
+ - date published: 2023-10-25T20:43:14.869847+00:00
+ - user: None
+ - tags: []
+
+## True North | Breaking Canadian News and Opinion
+ - [https://tnc.news](https://tnc.news)
+ - date published: 2023-10-25T20:43:19.101154+00:00
+ - user: None
+ - tags: []
+
+## Web Platform News
+ - [https://webplatform.news](https://webplatform.news)
+ - date published: 2023-10-25T20:43:23.872213+00:00
+ - user: None
+ - tags: []
+
+## westernstandard.news | The independent voice of the New West
+ - [https://www.westernstandard.news](https://www.westernstandard.news)
+ - date published: 2023-12-04T22:07:35+00:00
+ - user: rumpel
+ - tags: ['news']
+
+## WorkLife — Authority on how modern work is changing people’s lives
+ - [https://www.worklife.news](https://www.worklife.news)
+ - date published: 2023-10-25T20:43:26.647990+00:00
+ - user: None
+ - tags: []
+
+## The Works in Progress Newsletter | Substack
+ - [https://www.worksinprogress.news](https://www.worksinprogress.news)
+ - date published: 2023-10-25T20:43:29.879565+00:00
+ - user: None
+ - tags: []
+
+## Zig NEWS
+ - [https://zig.news](https://zig.news)
+ - date published: 2023-10-25T20:43:39.498351+00:00
+ - user: None
+ - tags: []
+
+## The Times Nigeria Newspaper | TheTimes.com.ng
+ - [https://www.thetimes.com.ng](https://www.thetimes.com.ng)
+ - date published: 2023-10-25T20:43:43.215777+00:00
+ - user: None
+ - tags: []
+
+## Anchor | JUPEB-REGISTER
+ - [https://jupeb.aul.edu.ng](https://jupeb.aul.edu.ng)
+ - date published: 2024-02-08T18:02:41.371594+00:00
+ - user: None
+ - tags: []
+
 ## Home | EMC
  - [https://emc.ui.edu.ng](https://emc.ui.edu.ng)
  - date published: 2024-02-08T16:47:24.793762+00:00
@@ -209,16 +341,16 @@
  - tags: []
 
 ## Chris Eidhof
- - [http://chris.eidhof.nl](http://chris.eidhof.nl)
- - date published: 2024-02-25T15:44:49.625453+00:00
- - user: None
- - tags: []
-
-## Chris Eidhof
  - [https://chris.eidhof.nl](https://chris.eidhof.nl)
  - date published: 2023-10-25T08:54:21.499298+00:00
  - user: None
  - tags: ['personal']
+
+## Chris Eidhof
+ - [http://chris.eidhof.nl](http://chris.eidhof.nl)
+ - date published: 2024-02-25T15:44:49.625453+00:00
+ - user: None
+ - tags: []
 
 ## Besluiten waarmee je groeit in impact op mens en omgeving
  - [https://ernohannink.nl](https://ernohannink.nl)
@@ -1776,14 +1908,14 @@ marginalia.nu
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
@@ -2783,17 +2915,17 @@ marginalia.nu
  - user: None
  - tags: []
 
-## Internet Archive: Secret service
- - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
- - date published: 2023-10-27T14:37:50+00:00
- - user: rumpel
- - tags: ['retro', 'magazine']
-
 ## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
  - [https://archive.org](https://archive.org)
  - date published: 2023-10-25T09:29:04.093943+00:00
  - user: None
  - tags: ['internet archive']
+
+## Internet Archive: Secret service
+ - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
+ - date published: 2023-10-27T14:37:50+00:00
+ - user: rumpel
+ - tags: ['retro', 'magazine']
 
 ## Internet Archive Blogs | A blog from the team at archive.org
  - [https://blog.archive.org](https://blog.archive.org)
@@ -2867,17 +2999,17 @@ marginalia.nu
  - user: None
  - tags: []
 
-## Back2Roots
- - [https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl](https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl)
- - date published: 2023-11-02T10:36:12+00:00
- - user: rumpel
- - tags: []
-
 ## Wayback Machine
  - [https://web.archive.org](https://web.archive.org)
  - date published: 2023-10-25T09:29:18.969501+00:00
  - user: None
  - tags: ['internet archive']
+
+## Back2Roots
+ - [https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl](https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl)
+ - date published: 2023-11-02T10:36:12+00:00
+ - user: rumpel
+ - tags: []
 
 ## Archive-It - 
   
@@ -3631,6 +3763,12 @@ marginalia.nu
  - user: None
  - tags: []
 
+## Evan Boehs
+ - [https://boehs.org](https://boehs.org)
+ - date published: 2024-03-16T05:58:39.084213+00:00
+ - user: None
+ - tags: []
+
 ## Bogleheads Investing Advice and Info
  - [https://www.bogleheads.org](https://www.bogleheads.org)
  - date published: 2023-10-25T21:03:13.569250+00:00
@@ -3784,6 +3922,12 @@ marginalia.nu
 ## Breezy Version Control System
  - [https://www.breezy-vcs.org](https://www.breezy-vcs.org)
  - date published: 2023-11-25T17:14:27+00:00
+ - user: None
+ - tags: []
+
+## Brennan Center for Justice | Home
+ - [https://www.brennancenter.org](https://www.brennancenter.org)
+ - date published: 2024-03-16T21:52:07.571069+00:00
  - user: None
  - tags: []
 
@@ -5863,150 +6007,6 @@ marginalia.nu
 ## Home - D Programming Language
  - [https://dlang.org](https://dlang.org)
  - date published: 2023-10-25T21:14:45.334948+00:00
- - user: None
- - tags: []
-
-## Index - D Programming Language Discussion Forum
- - [https://forum.dlang.org](https://forum.dlang.org)
- - date published: 2023-10-25T21:14:51.989473+00:00
- - user: None
- - tags: []
-
-## Deep Learning Systems
- - [https://dlsyscourse.org](https://dlsyscourse.org)
- - date published: 2023-10-25T21:14:57.710621+00:00
- - user: None
- - tags: []
-
-## https://dmoz.org
- - [https://dmoz.org](https://dmoz.org)
- - date published: 2024-02-05T17:23:42.498509+00:00
- - user: None
- - tags: []
-
-## Gudang Slot88: Situs Slot Gacor Hari Ini dan Slot88 Terpercaya
- - [https://dnipogo.org](https://dnipogo.org)
- - date published: 2024-01-09T03:38:57.166834+00:00
- - user: None
- - tags: []
-
-## Home | Doctors Without Borders - USA
- - [https://www.doctorswithoutborders.org](https://www.doctorswithoutborders.org)
- - date published: 2023-11-11T16:04:52.293520+00:00
- - user: None
- - tags: []
-
-## DocumentCloud
- - [https://www.documentcloud.org](https://www.documentcloud.org)
- - date published: 2023-10-25T21:14:58.036496+00:00
- - user: None
- - tags: []
-
-## The Document Foundation Blog - The home of LibreOffice
- - [https://blog.documentfoundation.org](https://blog.documentfoundation.org)
- - date published: 2023-10-25T21:14:59.845814+00:00
- - user: None
- - tags: []
-
-## LibreOffice Development Blog - Blog for the LibreOffice Developers Community; Tutorials, tips and tricks for working with the LibreOffice code
- - [https://dev.blog.documentfoundation.org](https://dev.blog.documentfoundation.org)
- - date published: 2023-10-25T21:15:02.330486+00:00
- - user: None
- - tags: []
-
-## Welcome to The Document Foundation’s wiki - The Document Foundation Wiki
- - [https://wiki.documentfoundation.org](https://wiki.documentfoundation.org)
- - date published: 2023-10-25T21:15:04.376783+00:00
- - user: None
- - tags: []
-
-## Dogbolt Decompiler Explorer
- - [https://dogbolt.org](https://dogbolt.org)
- - date published: 2023-12-04T17:52:55+00:00
- - user: None
- - tags: []
-
-## Home Page
- - [https://doi.org](https://doi.org)
- - date published: 2023-10-25T21:15:05.945582+00:00
- - user: None
- - tags: []
-
-## Resolve a DOI Name
- - [http://dx.doi.org](http://dx.doi.org)
- - date published: 2024-02-27T01:04:33.113692+00:00
- - user: None
- - tags: []
-
-## Resolve a DOI Name
- - [https://dx.doi.org](https://dx.doi.org)
- - date published: 2023-12-03T01:17:58.110575+00:00
- - user: None
- - tags: []
-
-## Dolphin Emulator - GameCube/Wii games on PC
- - [https://dolphin-emu.org](https://dolphin-emu.org)
- - date published: 2023-10-25T08:36:22.762291+00:00
- - user: None
- - tags: ['emulator']
-
-## Domain Verification Protocol
- - [https://domainverification.org](https://domainverification.org)
- - date published: 2023-10-25T21:15:06.523985+00:00
- - user: None
- - tags: []
-
-## Domain Verification Protocol
- - [https://www.domainverification.org](https://www.domainverification.org)
- - date published: 2023-10-25T21:15:07.191275+00:00
- - user: None
- - tags: []
-
-## Domestika
- - [https://www.domestika.org](https://www.domestika.org)
- - date published: 2023-10-24T20:19:43.752630+00:00
- - user: None
- - tags: ['courses', 'writing', 'tutorials', 'drawing']
-
-## None
- - [https://donellameadows.org](https://donellameadows.org)
- - date published: 2023-12-24T03:19:42.866506+00:00
- - user: None
- - tags: []
-
-## Free Donate Button - Donorbox Nonprofit Fundraising Software
- - [https://donorbox.org](https://donorbox.org)
- - date published: 2024-01-18T21:57:11.297764+00:00
- - user: None
- - tags: []
-
-## The Doom Wiki at DoomWiki.org - Doom, Heretic, Hexen, Strife, and more
- - [https://doomwiki.org](https://doomwiki.org)
- - date published: 2023-10-25T21:15:10.502720+00:00
- - user: None
- - tags: []
-
-## .NET Foundation | .NET Foundation
- - [https://dotnetfoundation.org](https://dotnetfoundation.org)
- - date published: 2023-10-25T21:15:11.977111+00:00
- - user: None
- - tags: []
-
-## Welcome - Doug Engelbart Institute
- - [https://www.dougengelbart.org](https://www.dougengelbart.org)
- - date published: 2023-10-25T21:15:15.673050+00:00
- - user: None
- - tags: []
-
-## DragonFlyBSD: DragonFly BSD
- - [https://www.dragonflybsd.org](https://www.dragonflybsd.org)
- - date published: 2023-10-25T21:15:22.406789+00:00
- - user: None
- - tags: []
-
-## D.R.A.S.T.I.C. Research – D.R.A.S.T.I.C. Research
- - [https://drasticresearch.org](https://drasticresearch.org)
- - date published: 2023-10-25T21:15:25.874666+00:00
  - user: None
  - tags: []
 

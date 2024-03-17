@@ -1,3 +1,15 @@
+## Alex Molas
+ - [https://www.alexmolas.com](https://www.alexmolas.com)
+ - date published: 2023-10-25T09:04:24.675550+00:00
+ - user: None
+ - tags: ['personal']
+
+## Web and mobile developer | Alex Plescan
+ - [https://alexplescan.com](https://alexplescan.com)
+ - date published: 2023-10-25T12:38:04.232631+00:00
+ - user: None
+ - tags: []
+
 ## Alex Eaton - Writer & Photographer
  - [https://www.alexreaton.com](https://www.alexreaton.com)
  - date published: 2024-02-09T00:12:37.874010+00:00
@@ -2027,14 +2039,14 @@
  - tags: []
 
 ## * arachnoid.com
- - [http://arachnoid.com](http://arachnoid.com)
- - date published: 2006-10-19T00:00:00+00:00
+ - [https://arachnoid.com](https://arachnoid.com)
+ - date published: 2023-10-25T12:43:42.377144+00:00
  - user: None
  - tags: []
 
 ## * arachnoid.com
- - [https://arachnoid.com](https://arachnoid.com)
- - date published: 2023-10-25T12:43:42.377144+00:00
+ - [http://arachnoid.com](http://arachnoid.com)
+ - date published: 2006-10-19T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4756,6 +4768,12 @@
  - user: None
  - tags: ['personal']
 
+## Show HN: BewCloud is a simpler alternative to Nextcloud written in TypeScript
+ - [https://bewcloud.com](https://bewcloud.com)
+ - date published: 2024-03-16T14:20:33+00:00
+ - user: None
+ - tags: []
+
 ## Be With Cassandra
  - [https://www.bewithcassandra.com](https://www.bewithcassandra.com)
  - date published: 2023-12-31T16:47:15.106831+00:00
@@ -5979,22 +5997,4 @@
  - date published: 2023-10-25T09:08:09.774302+00:00
  - user: None
  - tags: ['personal']
-
-## Database Architects
- - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
- - date published: 2024-02-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Data Finnovation
- - [https://datafinnovation.blogspot.com](https://datafinnovation.blogspot.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## DCblog
- - [https://david-crystal.blogspot.com](https://david-crystal.blogspot.com)
- - date published: 2004-02-26T00:00:00+00:00
- - user: None
- - tags: []
 

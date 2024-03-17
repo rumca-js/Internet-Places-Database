@@ -1,3 +1,159 @@
+## Joint Statement on AI Safety and Openness
+ - [https://open.mozilla.org](https://open.mozilla.org)
+ - date published: 2023-11-02T18:21:50.124595+00:00
+ - user: None
+ - tags: []
+
+## Papers & Publications - Mozilla Research
+ - [https://research.mozilla.org](https://research.mozilla.org)
+ - date published: 2023-10-25T09:27:25.209201+00:00
+ - user: None
+ - tags: []
+
+## The State of Mozilla: 2022 — 2023 Annual Report — Mozilla
+ - [https://stateof.mozilla.org](https://stateof.mozilla.org)
+ - date published: 2023-12-05T14:09:52.283936+00:00
+ - user: None
+ - tags: []
+
+## Mozilla Support
+ - [https://support.mozilla.org](https://support.mozilla.org)
+ - date published: 2023-10-25T11:32:03.980205+00:00
+ - user: None
+ - tags: []
+
+## Treeherder
+ - [https://treeherder.mozilla.org](https://treeherder.mozilla.org)
+ - date published: 2023-10-25T09:27:25.901270+00:00
+ - user: None
+ - tags: []
+
+## MozillaWiki
+ - [https://wiki.mozilla.org](https://wiki.mozilla.org)
+ - date published: 2023-10-25T09:27:28.058443+00:00
+ - user: None
+ - tags: []
+
+## Internet for people, not profit — Mozilla (US)
+ - [https://www.mozilla.org](https://www.mozilla.org)
+ - date published: 2023-10-25T09:27:30.838308+00:00
+ - user: None
+ - tags: ['organization', 'company', 'web browser', 'firefox', 'thunderbird']
+
+## Pocket | Discover, Capture and Savor Content That Fascinates You
+ - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
+ - date published: 2023-11-13T13:38:32+00:00
+ - user: rumpel
+ - tags: ['bookmark manager', 'link aggregation']
+
+## Nextcloud
+ - [https://nce.mpi-sp.org](https://nce.mpi-sp.org)
+ - date published: 2023-11-06T14:35:47.552163+00:00
+ - user: None
+ - tags: []
+
+## MPR News
+ - [https://www.mprnews.org](https://www.mprnews.org)
+ - date published: 2023-10-25T11:07:25.515521+00:00
+ - user: None
+ - tags: []
+
+## MR Online
+ - [https://mronline.org](https://mronline.org)
+ - date published: 2023-10-25T21:45:02.065470+00:00
+ - user: None
+ - tags: []
+
+## mruby
+ - [https://mruby.org](https://mruby.org)
+ - date published: 2023-10-25T21:45:04.103594+00:00
+ - user: None
+ - tags: []
+
+## MSX Resource Center
+ - [https://www.msx.org](https://www.msx.org)
+ - date published: 2023-10-28T18:52:39.028551+00:00
+ - user: None
+ - tags: ['internet forum']
+
+## Montana Public Radio | Montana Public Radio
+ - [https://www.mtpr.org](https://www.mtpr.org)
+ - date published: 2023-10-25T21:45:11.677857+00:00
+ - user: None
+ - tags: []
+
+## Mudlet – A cross-platform, open source, and super fast MUD client with scripting in Lua
+ - [https://www.mudlet.org](https://www.mudlet.org)
+ - date published: 2023-10-27T13:35:28.124871+00:00
+ - user: None
+ - tags: ['mud']
+
+## Mugen Games
+ - [https://mugengames.org](https://mugengames.org)
+ - date published: 2023-10-30T16:29:32.202260+00:00
+ - user: None
+ - tags: []
+
+## Multics
+ - [https://multicians.org](https://multicians.org)
+ - date published: 2023-10-25T21:45:15.492870+00:00
+ - user: None
+ - tags: []
+
+## Multics
+ - [https://www.multicians.org](https://www.multicians.org)
+ - date published: 2023-10-25T21:45:18.889786+00:00
+ - user: None
+ - tags: []
+
+## MultiPath TCP - Linux Kernel implementation : Main - Home Page browse
+ - [https://www.multipath-tcp.org](https://www.multipath-tcp.org)
+ - date published: 2023-10-25T21:45:21.667260+00:00
+ - user: None
+ - tags: []
+
+## mupuf.org
+ - [https://www.mupuf.org](https://www.mupuf.org)
+ - date published: 2023-10-25T21:45:24.514993+00:00
+ - user: None
+ - tags: []
+
+## Digital Giza | Educational Resources
+ - [https://giza.mused.org](https://giza.mused.org)
+ - date published: 2023-10-25T08:35:37.841688+00:00
+ - user: None
+ - tags: []
+
+## Museo Larco
+ - [https://www.museolarco.org](https://www.museolarco.org)
+ - date published: 2023-11-13T13:48:51.556742+00:00
+ - user: None
+ - tags: ['museum']
+
+## Free music composition and notation software | MuseScore
+ - [https://musescore.org](https://musescore.org)
+ - date published: 2023-10-25T21:45:30.331302+00:00
+ - user: None
+ - tags: []
+
+## Museum Crush – from Culture24
+ - [https://museumcrush.org](https://museumcrush.org)
+ - date published: 2023-10-25T21:45:32.572221+00:00
+ - user: None
+ - tags: []
+
+## Free Sheet Music, Royalty Free & Public Domain Music | Musopen
+ - [https://musopen.org](https://musopen.org)
+ - date published: 2023-10-25T11:35:30.710422+00:00
+ - user: None
+ - tags: ['assets audio']
+
+## mwmbl blog
+ - [https://blog.mwmbl.org](https://blog.mwmbl.org)
+ - date published: 2023-12-23T17:08:48.710959+00:00
+ - user: None
+ - tags: []
+
 ## MWMBL - Search
  - [https://mwmbl.org](https://mwmbl.org)
  - date published: 2023-10-25T09:07:24.154196+00:00
@@ -1667,16 +1823,16 @@
  - tags: []
 
 ## Open RSS
- - [http://openrss.org](http://openrss.org)
- - date published: 2024-02-26T09:41:50.635475+00:00
- - user: None
- - tags: []
-
-## Open RSS
  - [https://openrss.org](https://openrss.org)
  - date published: 2024-01-16T00:45:10.574589+00:00
  - user: None
  - tags: ['rss']
+
+## Open RSS
+ - [http://openrss.org](http://openrss.org)
+ - date published: 2024-02-26T09:41:50.635475+00:00
+ - user: None
+ - tags: []
 
 ## A Grand Theft Auto III Re-Implementation
  - [https://openrw.org](https://openrw.org)
@@ -2111,11 +2267,17 @@
  - user: None
  - tags: []
 
+## Home | Panoptykon Foundation
+ - [https://en.panoptykon.org](https://en.panoptykon.org)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['surveillance']
+
 ## Strona główna | Fundacja Panoptykon
  - [https://panoptykon.org](https://panoptykon.org)
  - date published: 2023-10-25T21:56:01.636917+00:00
  - user: None
- - tags: []
+ - tags: ['surveillance']
 
 ## Papers, Please! – The Identity Project
  - [https://papersplease.org](https://papersplease.org)
@@ -2460,14 +2622,14 @@
  - tags: []
 
 ## Pikchr: Documentation
- - [https://pikchr.org](https://pikchr.org)
- - date published: 2023-10-25T21:57:44.338166+00:00
+ - [http://pikchr.org](http://pikchr.org)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Pikchr: Documentation
- - [http://pikchr.org](http://pikchr.org)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://pikchr.org](https://pikchr.org)
+ - date published: 2023-10-25T21:57:44.338166+00:00
  - user: None
  - tags: []
 
@@ -3503,15 +3665,15 @@
  - user: None
  - tags: []
 
-## Home - Responsible Statecraft
- - [https://responsiblestatecraft.org](https://responsiblestatecraft.org)
- - date published: 2023-10-25T22:03:17.450852+00:00
- - user: None
- - tags: []
-
 ## Responsible Statecraft
  - [http://responsiblestatecraft.org](http://responsiblestatecraft.org)
  - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Responsible Statecraft
+ - [https://responsiblestatecraft.org](https://responsiblestatecraft.org)
+ - date published: 2023-10-25T22:03:17.450852+00:00
  - user: None
  - tags: []
 
@@ -4740,14 +4902,14 @@
  - tags: []
 
 ## Sri Lanka Guardian
- - [http://slguardian.org](http://slguardian.org)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://slguardian.org](https://slguardian.org)
+ - date published: 2024-01-10T21:40:19.047783+00:00
  - user: None
  - tags: []
 
 ## Sri Lanka Guardian
- - [https://slguardian.org](https://slguardian.org)
- - date published: 2024-01-10T21:40:19.047783+00:00
+ - [http://slguardian.org](http://slguardian.org)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4928,13 +5090,19 @@
  - tags: []
 
 ## SQLite Home Page
+ - [http://sqlite.org](http://sqlite.org)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## SQLite Home Page
  - [https://sqlite.org](https://sqlite.org)
  - date published: 2023-10-25T08:34:11.917438+00:00
  - user: None
  - tags: []
 
 ## SQLite Home Page
- - [http://sqlite.org](http://sqlite.org)
+ - [http://www.sqlite.org](http://www.sqlite.org)
  - date published: 2024-01-30T00:00:00+00:00
  - user: None
  - tags: []
@@ -4944,12 +5112,6 @@
  - date published: 2023-10-25T08:30:44.493063+00:00
  - user: None
  - tags: ['open source']
-
-## SQLite Home Page
- - [http://www.sqlite.org](http://www.sqlite.org)
- - date published: 2024-01-30T00:00:00+00:00
- - user: None
- - tags: []
 
 ## sqlpkg - SQLite Package Manager and Registry
  - [https://sqlpkg.org](https://sqlpkg.org)
@@ -5672,14 +5834,14 @@
  - tags: []
 
 ## The Motte
- - [https://www.themotte.org](https://www.themotte.org)
- - date published: 2024-01-15T10:02:38.428422+00:00
+ - [http://www.themotte.org](http://www.themotte.org)
+ - date published: 2024-02-26T00:00:00+00:00
  - user: None
  - tags: []
 
 ## The Motte
- - [http://www.themotte.org](http://www.themotte.org)
- - date published: 2024-02-26T00:00:00+00:00
+ - [https://www.themotte.org](https://www.themotte.org)
+ - date published: 2024-01-15T10:02:38.428422+00:00
  - user: None
  - tags: []
 
@@ -5836,168 +5998,6 @@
 ## Journal of Threatened Taxa
  - [https://threatenedtaxa.org](https://threatenedtaxa.org)
  - date published: 2024-03-12T14:17:03.053455+00:00
- - user: None
- - tags: []
-
-## Threat Modeling Manifesto
- - [https://www.threatmodelingmanifesto.org](https://www.threatmodelingmanifesto.org)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Thoreau Institute
- - [https://ti.org](https://ti.org)
- - date published: 2023-10-25T22:14:46.754363+00:00
- - user: None
- - tags: []
-
-## Timac
- - [https://blog.timac.org](https://blog.timac.org)
- - date published: 2023-10-25T22:14:47.546975+00:00
- - user: None
- - tags: []
-
-## Time and a Half Band
- - [https://www.timeandahalf.org](https://www.timeandahalf.org)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Tim Hofmann
- - [https://timhofmann.org](https://timhofmann.org)
- - date published: 2023-11-29T15:50:37.598688+00:00
- - user: None
- - tags: ['personal']
-
-## My Point of View
- - [https://mpov.timmorgan.org](https://mpov.timmorgan.org)
- - date published: 2023-10-25T22:14:48.078083+00:00
- - user: None
- - tags: []
-
-## Timothy Rice
- - [https://www.timothyrice.org](https://www.timothyrice.org)
- - date published: 2023-10-25T22:14:49.049934+00:00
- - user: None
- - tags: []
-
-## tinc
- - [https://www.tinc-vpn.org](https://www.tinc-vpn.org)
- - date published: 2023-10-25T22:14:49.848736+00:00
- - user: None
- - tags: []
-
-## tinyapps.org
- - [https://tinyapps.org](https://tinyapps.org)
- - date published: 2023-10-25T22:14:50.630713+00:00
- - user: None
- - tags: []
-
-## TinyBase
- - [https://tinybase.org](https://tinybase.org)
- - date published: 2023-10-25T22:14:53.370881+00:00
- - user: None
- - tags: []
-
-## Ryan Dahl
- - [https://tinyclouds.org](https://tinyclouds.org)
- - date published: 2023-10-25T09:24:20.208297+00:00
- - user: None
- - tags: ['personal']
-
-## tinygrad: A simple and powerful neural network framework
- - [https://tinygrad.org](https://tinygrad.org)
- - date published: 2023-10-25T22:14:54.100856+00:00
- - user: None
- - tags: []
-
-## https://www.tinysa.org
- - [https://www.tinysa.org](https://www.tinysa.org)
- - date published: 2016-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://tirania.org
- - [https://tirania.org](https://tirania.org)
- - date published: 2024-01-09T01:38:18.650964+00:00
- - user: None
- - tags: []
-
-## https://exple.tive.org
- - [https://exple.tive.org](https://exple.tive.org)
- - date published: 2024-01-09T03:42:43.600420+00:00
- - user: None
- - tags: []
-
-## Gerrit Code Review
- - [https://review.tizen.org](https://review.tizen.org)
- - date published: 2024-02-08T22:04:57.286707+00:00
- - user: None
- - tags: []
-
-## The Linux Documentation Project
- - [https://tldp.org](https://tldp.org)
- - date published: 2023-10-25T22:14:58.578899+00:00
- - user: None
- - tags: []
-
-## IllustrisTNG - Main
- - [https://www.tng-project.org](https://www.tng-project.org)
- - date published: 2023-11-13T18:48:08.058674+00:00
- - user: None
- - tags: []
-
-## TN History For Kids - Home
- - [https://www.tnhistoryforkids.org](https://www.tnhistoryforkids.org)
- - date published: 2024-02-08T22:08:34.236550+00:00
- - user: None
- - tags: []
-
-## The National Museum of Computing
- - [https://www.tnmoc.org](https://www.tnmoc.org)
- - date published: 2023-10-27T10:22:09.468148+00:00
- - user: None
- - tags: ['museum']
-
-## Home - Texas National Security Review
- - [https://tnsr.org](https://tnsr.org)
- - date published: 2023-10-25T22:15:00.554967+00:00
- - user: None
- - tags: []
-
-## https://dk.toastednet.org
- - [https://dk.toastednet.org](https://dk.toastednet.org)
- - date published: 2024-02-08T21:56:16.706661+00:00
- - user: None
- - tags: []
-
-## The Tolkien Society
- - [https://www.tolkiensociety.org](https://www.tolkiensociety.org)
- - date published: 2024-01-23T10:56:57+00:00
- - user: rumpel
- - tags: ['tolkien']
-
-## Tom Murphy 7's Invincible Web Page
- - [http://tom7.org](http://tom7.org)
- - date published: 2023-10-25T22:15:02.094981+00:00
- - user: None
- - tags: []
-
-## FontCDN: Search and Proxy for Google web fonts
- - [https://fontcdn.toolforge.org](https://fontcdn.toolforge.org)
- - date published: 2023-10-25T22:15:02.996428+00:00
- - user: None
- - tags: []
-
-## Flavio Tordini
- - [https://flavio.tordini.org](https://flavio.tordini.org)
- - date published: 2023-11-27T13:35:29+00:00
- - user: None
- - tags: ['personal', 'minitube', 'youtube']
-
-## Tor Blog | The Tor Project
- - [https://blog.torproject.org](https://blog.torproject.org)
- - date published: 2023-10-25T22:15:09.398883+00:00
  - user: None
  - tags: []
 
