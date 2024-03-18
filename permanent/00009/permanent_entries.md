@@ -1,3 +1,105 @@
+## Mozilla Lifeboat
+ - [https://mozillalifeboat.com](https://mozillalifeboat.com)
+ - date published: 2023-10-25T16:08:00.354945+00:00
+ - user: None
+ - tags: []
+
+## Luigi Mozzillo
+ - [https://mozzillo.com](https://mozzillo.com)
+ - date published: 2023-12-15T21:45:09.248038+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://mp3-cutter-splitter.com](https://mp3-cutter-splitter.com)
+ - date published: 2024-02-08T18:02:36.448246+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://identity.mparticle.com](https://identity.mparticle.com)
+ - date published: 2024-01-09T02:44:16.498780+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://jssdkcdns.mparticle.com](https://jssdkcdns.mparticle.com)
+ - date published: 2024-01-09T02:44:17.469937+00:00
+ - user: None
+ - tags: []
+
+## Mobile Relay Associates - Radio Communications - Los Angeles California
+ - [https://mra-raycom.com](https://mra-raycom.com)
+ - date published: 2023-10-25T16:08:05.955413+00:00
+ - user: None
+ - tags: []
+
+## Mr Ash Co
+ - [https://mrashleyball.com](https://mrashleyball.com)
+ - date published: 2024-01-16T03:20:08.257975+00:00
+ - user: None
+ - tags: []
+
+## MrBeast Jobs
+ - [https://www.mrbeastjobs.com](https://www.mrbeastjobs.com)
+ - date published: 2024-02-09T13:34:25.421249+00:00
+ - user: None
+ - tags: []
+
+## MrBruh's Epic Blog
+ - [https://mrbruh.com](https://mrbruh.com)
+ - date published: 2024-01-09T02:44:19.456554+00:00
+ - user: None
+ - tags: []
+
+## Home - MrCrayfish
+ - [https://mrcrayfish.com](https://mrcrayfish.com)
+ - date published: 2023-10-25T11:16:52.437350+00:00
+ - user: None
+ - tags: []
+
+## Daniel Bourke
+ - [https://www.mrdbourke.com](https://www.mrdbourke.com)
+ - date published: 2023-10-25T16:08:10.310346+00:00
+ - user: None
+ - tags: []
+
+## -= MrElusive.com =-
+ - [https://mrelusive.com](https://mrelusive.com)
+ - date published: 2023-10-25T08:47:18.136526+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | Mr James Bell
+ - [https://mrjamesbell.com](https://mrjamesbell.com)
+ - date published: 2023-10-25T16:08:12.987041+00:00
+ - user: None
+ - tags: []
+
+## Mr Paralys
+ - [https://www.mrparalys.com](https://www.mrparalys.com)
+ - date published: 2024-01-02T19:20:01.793918+00:00
+ - user: None
+ - tags: []
+
+## MrPetovan.com – The online home of Hypolite Petovan
+ - [https://blog.mrpetovan.com](https://blog.mrpetovan.com)
+ - date published: 2024-01-31T16:33:34.604861+00:00
+ - user: None
+ - tags: []
+
+## MrScraper, a visual and dead-simple web scraper.
+ - [https://mrscraper.com](https://mrscraper.com)
+ - date published: 2023-10-25T16:08:15.862672+00:00
+ - user: None
+ - tags: []
+
+## – Things I wish I knew when I started (mrsteinberg.com/)
+ - [https://mrsteinberg.com](https://mrsteinberg.com)
+ - date published: 2023-10-25T16:08:17.444015+00:00
+ - user: None
+ - tags: []
+
 ## MSN
  - [https://www.msn.com](https://www.msn.com)
  - date published: 2023-10-25T10:26:37.266048+00:00
@@ -326,6 +428,18 @@
  - [https://status.mycloud.com](https://status.mycloud.com)
  - date published: 2024-01-09T02:44:32.133560+00:00
  - user: None
+ - tags: []
+
+## CoPilot
+ - [https://go.mycopilot.com](https://go.mycopilot.com)
+ - date published: 2024-03-17T18:21:08.037560+00:00
+ - user: None
+ - tags: []
+
+## CoPilot Fitness | Step-by-step workouts tailored to you by an expert coach
+ - [https://mycopilot.com](https://mycopilot.com)
+ - date published: 2024-03-15T00:00:00+00:00
+ - user: rumpel
  - tags: []
 
 ## Mycroft
@@ -1655,14 +1769,14 @@
  - tags: []
 
 ## NewssMex
- - [https://www.newssmex.com](https://www.newssmex.com)
- - date published: 2024-02-27T12:34:22.767672+00:00
+ - [http://www.newssmex.com](http://www.newssmex.com)
+ - date published: 2024-02-27T12:33:40.005835+00:00
  - user: None
  - tags: []
 
 ## NewssMex
- - [http://www.newssmex.com](http://www.newssmex.com)
- - date published: 2024-02-27T12:33:40.005835+00:00
+ - [https://www.newssmex.com](https://www.newssmex.com)
+ - date published: 2024-02-27T12:34:22.767672+00:00
  - user: None
  - tags: []
 
@@ -2664,13 +2778,13 @@
  - tags: []
 
 ## Peter Norvig
- - [http://www.norvig.com](http://www.norvig.com)
+ - [https://www.norvig.com](https://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Peter Norvig
- - [https://www.norvig.com](https://www.norvig.com)
+ - [http://www.norvig.com](http://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -4209,15 +4323,15 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
-## O'Reilly Media - Technology and Business Training
- - [https://radar.oreilly.com](https://radar.oreilly.com)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Radar - O’Reilly
  - [http://radar.oreilly.com](http://radar.oreilly.com)
  - date published: 2024-03-11T20:56:21.645465+00:00
+ - user: None
+ - tags: []
+
+## O'Reilly Media - Technology and Business Training
+ - [https://radar.oreilly.com](https://radar.oreilly.com)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4288,14 +4402,14 @@ Answering Machine Greetings!
  - tags: []
 
 ## The OS/2 Museum
- - [http://www.os2museum.com](http://www.os2museum.com)
- - date published: 2024-02-25T18:55:49.882025+00:00
+ - [https://www.os2museum.com](https://www.os2museum.com)
+ - date published: 2023-10-25T16:27:40.415903+00:00
  - user: None
  - tags: []
 
 ## The OS/2 Museum
- - [https://www.os2museum.com](https://www.os2museum.com)
- - date published: 2023-10-25T16:27:40.415903+00:00
+ - [http://www.os2museum.com](http://www.os2museum.com)
+ - date published: 2024-02-25T18:55:49.882025+00:00
  - user: None
  - tags: []
 
@@ -5500,15 +5614,15 @@ Answering Machine Greetings!
  - user: None
  - tags: ['personal']
 
-## PCMag UK
- - [http://uk.pcmag.com](http://uk.pcmag.com)
- - date published: 2024-02-26T09:45:15.403718+00:00
- - user: None
- - tags: []
-
 ## PCMag.com - Technology Product Reviews, News, Prices & Tips
  - [https://uk.pcmag.com](https://uk.pcmag.com)
  - date published: 2023-10-25T09:34:32.882984+00:00
+ - user: None
+ - tags: []
+
+## PCMag UK
+ - [http://uk.pcmag.com](http://uk.pcmag.com)
+ - date published: 2024-02-26T09:45:15.403718+00:00
  - user: None
  - tags: []
 
@@ -5729,14 +5843,14 @@ Answering Machine Greetings!
  - tags: ['personal']
 
 ## Perfection Kills
- - [http://perfectionkills.com](http://perfectionkills.com)
- - date published: 2015-11-04T00:00:00+00:00
+ - [https://perfectionkills.com](https://perfectionkills.com)
+ - date published: 2024-01-09T02:46:05.195684+00:00
  - user: None
  - tags: []
 
 ## Perfection Kills
- - [https://perfectionkills.com](https://perfectionkills.com)
- - date published: 2024-01-09T02:46:05.195684+00:00
+ - [http://perfectionkills.com](http://perfectionkills.com)
+ - date published: 2015-11-04T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5889,118 +6003,4 @@ Answering Machine Greetings!
  - date published: 2023-11-27T12:15:11+00:00
  - user: rumpel
  - tags: ['persecution', 'religion', 'christianity']
-
-## Jobs at Bloop AI Limited
- - [https://bloop.jobs.personio.com](https://bloop.jobs.personio.com)
- - date published: 2024-02-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## PerThirtySix
- - [https://perthirtysix.com](https://perthirtysix.com)
- - date published: 2023-10-25T16:33:09.219386+00:00
- - user: None
- - tags: []
-
-## PerThirtySix
- - [https://www.perthirtysix.com](https://www.perthirtysix.com)
- - date published: 2023-10-25T16:33:11.230738+00:00
- - user: None
- - tags: []
-
-## Home - PESTEC Germany
- - [https://www.pes-tec.com](https://www.pes-tec.com)
- - date published: 1981-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## PESTE
- - [https://www.pestemag.com](https://www.pestemag.com)
- - date published: 2023-10-25T16:33:12.996870+00:00
- - user: None
- - tags: []
-
-## PetaPixel | Photography and Camera News, Reviews, and Inspiration
- - [https://petapixel.com](https://petapixel.com)
- - date published: 2023-10-25T10:14:49.031072+00:00
- - user: None
- - tags: []
-
-## Petar Bojinov
- - [https://petarbojinov.com](https://petarbojinov.com)
- - date published: 2023-11-29T14:41:28.119293+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://petargyurov.com](https://petargyurov.com)
- - date published: 2024-01-14T13:41:13.321383+00:00
- - user: None
- - tags: []
-
-## Pete Ashton's website
- - [https://peteashton.com](https://peteashton.com)
- - date published: 2020-01-01T00:00:00+00:00
- - user: None
- - tags: ['personal']
-
-## Pete Freitag - ColdFusion, Java & Web Blog
- - [https://www.petefreitag.com](https://www.petefreitag.com)
- - date published: 2023-11-12T00:21:12.930083+00:00
- - user: None
- - tags: []
-
-## Pete Millspaugh
- - [https://www.petemillspaugh.com](https://www.petemillspaugh.com)
- - date published: 2023-11-04T01:47:29.221107+00:00
- - user: None
- - tags: []
-
-## Home - Peter Attia
- - [https://peterattiamd.com](https://peterattiamd.com)
- - date published: 2023-10-25T16:33:17.835551+00:00
- - user: None
- - tags: []
-
-## Peterbe.com - Stuff in Peter's head
- - [https://www.peterbe.com](https://www.peterbe.com)
- - date published: 2023-10-25T16:33:20.306318+00:00
- - user: None
- - tags: []
-
-## Peter Cai
- - [https://www.petercai.com](https://www.petercai.com)
- - date published: 2023-10-25T16:33:21.176624+00:00
- - user: None
- - tags: []
-
-## Home - Peter David Smith
- - [https://www.peterdavidsmith.com](https://www.peterdavidsmith.com)
- - date published: 2023-12-18T22:39:41.005653+00:00
- - user: None
- - tags: ['personal']
-
-## News - PeterGabriel.com
- - [https://petergabriel.com](https://petergabriel.com)
- - date published: 2023-10-25T08:47:30.180606+00:00
- - user: None
- - tags: ['personal']
-
-## Peter Hajas /
- - [http://peterhajas.com](http://peterhajas.com)
- - date published: 2023-11-29T18:51:25.585587+00:00
- - user: None
- - tags: []
-
-## Peter Is Pedaling
- - [https://www.peterispedaling.com](https://www.peterispedaling.com)
- - date published: 2023-10-25T16:33:22.254907+00:00
- - user: None
- - tags: []
-
-## Peter Loerincs – Peter Loerincs
- - [https://peterloerincs.com](https://peterloerincs.com)
- - date published: 2024-02-09T22:21:35.157550+00:00
- - user: None
- - tags: ['personal']
 

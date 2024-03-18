@@ -1,3 +1,237 @@
+## zlib Home Site
+ - [https://zlib.net](https://zlib.net)
+ - date published: 2023-10-25T20:41:39.094360+00:00
+ - user: None
+ - tags: []
+
+## Zophar's Domain
+ - [https://www.zophar.net](https://www.zophar.net)
+ - date published: 2024-02-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## 2600.network Dialup Service
+ - [https://2600.network](https://2600.network)
+ - date published: 2024-03-17T19:47:14+00:00
+ - user: None
+ - tags: []
+
+## Asia News Network - Bringing Asia CloserAsia News Network – Bringing Asia Closer
+ - [https://asianews.network](https://asianews.network)
+ - date published: 2023-10-25T20:41:56.157112+00:00
+ - user: None
+ - tags: []
+
+## BNN Breaking - Headlines, World News
+ - [https://bnn.network](https://bnn.network)
+ - date published: 2023-11-06T17:00:05.252506+00:00
+ - user: None
+ - tags: []
+
+## EIC
+ - [https://eic.network](https://eic.network)
+ - date published: 2024-02-11T19:06:27+00:00
+ - user: rumpel
+ - tags: []
+
+## Pavel's blog about underlying Internet technologies
+ - [https://pavel.network](https://pavel.network)
+ - date published: 2023-10-25T20:41:58.656186+00:00
+ - user: None
+ - tags: []
+
+## Pretendo Network
+ - [https://pretendo.network](https://pretendo.network)
+ - date published: 2023-10-25T20:42:02.363661+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://a.pub.network](https://a.pub.network)
+ - date published: 2024-01-09T03:37:28.087712+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://d.pub.network](https://d.pub.network)
+ - date published: 2024-01-09T03:37:28.666003+00:00
+ - user: None
+ - tags: []
+
+## Cyberpunk Radio - Free 24/7 Live Streaming | Rekt FM
+ - [https://rekt.network](https://rekt.network)
+ - date published: 2023-10-25T20:42:05.141539+00:00
+ - user: None
+ - tags: ['audio streaming', 'radio']
+
+## marimo | a next-generation Python notebook
+ - [https://marimo.new](https://marimo.new)
+ - date published: 2024-02-29T18:41:05.652368+00:00
+ - user: None
+ - tags: []
+
+## 68k.news: Headlines From the Future
+ - [https://68k.news](https://68k.news)
+ - date published: 2024-01-09T03:37:29.968899+00:00
+ - user: None
+ - tags: []
+
+## AI PANIC  | Nirit Weiss-Blatt | Substack
+ - [https://www.aipanic.news](https://www.aipanic.news)
+ - date published: 2023-11-18T01:49:17.235532+00:00
+ - user: None
+ - tags: ['substack', 'artificial intelligence']
+
+## From the Desk of Alicia Kennedy | Substack
+ - [https://www.aliciakennedy.news](https://www.aliciakennedy.news)
+ - date published: 2023-10-25T20:42:12.893955+00:00
+ - user: None
+ - tags: []
+
+## alnasr.news
+ - [https://en.alnasr.news](https://en.alnasr.news)
+ - date published: 2024-01-01T05:28:42.256100+00:00
+ - user: None
+ - tags: []
+
+## Boulder Beat - Covering City Council and Sundry, with flair
+ - [https://boulderbeat.news](https://boulderbeat.news)
+ - date published: 2023-10-25T20:42:22.165490+00:00
+ - user: None
+ - tags: []
+
+## Brief
+ - [https://www.brief.news](https://www.brief.news)
+ - date published: 2023-11-03T16:52:58.968294+00:00
+ - user: None
+ - tags: []
+
+## Citation Needed
+ - [https://citationneeded.news](https://citationneeded.news)
+ - date published: 2024-01-17T02:36:13.021258+00:00
+ - user: None
+ - tags: []
+
+## Citation Needed
+ - [https://www.citationneeded.news](https://www.citationneeded.news)
+ - date published: 2024-02-24T18:23:33.009331+00:00
+ - user: None
+ - tags: []
+
+## CNE.news
+ - [https://cne.news](https://cne.news)
+ - date published: 2023-10-25T10:13:15.031338+00:00
+ - user: None
+ - tags: []
+
+## The Free Press
+ - [https://www.commonsense.news](https://www.commonsense.news)
+ - date published: 2023-10-25T20:42:27.993523+00:00
+ - user: None
+ - tags: []
+
+## Crypto News - Latest Cryptocurrency News
+ - [https://crypto.news](https://crypto.news)
+ - date published: 2023-10-25T10:53:40.383937+00:00
+ - user: None
+ - tags: []
+
+## Newsroom | DoorDash
+ - [https://doordash.news](https://doordash.news)
+ - date published: 2023-10-25T20:42:33.072348+00:00
+ - user: None
+ - tags: []
+
+## Global news, analysis and opinion on energy storage innovation and technologies - Energy-Storage.News
+ - [https://www.energy-storage.news](https://www.energy-storage.news)
+ - date published: 2023-10-25T20:42:39.410552+00:00
+ - user: None
+ - tags: []
+
+## https://www.forth.news
+ - [https://www.forth.news](https://www.forth.news)
+ - date published: 2023-10-25T20:42:40.486870+00:00
+ - user: None
+ - tags: []
+
+## Your Source for Trusted and Unbiased News - The Messenger
+ - [https://www.grid.news](https://www.grid.news)
+ - date published: 2023-10-25T20:42:43.995084+00:00
+ - user: None
+ - tags: []
+
+## Ground News
+ - [https://ground.news](https://ground.news)
+ - date published: 2024-02-17T00:00:00+00:00
+ - user: rumpel
+ - tags: ['news']
+
+## Haskell Weekly
+ - [https://haskellweekly.news](https://haskellweekly.news)
+ - date published: 2023-10-25T20:42:45.054681+00:00
+ - user: None
+ - tags: []
+
+## Heatmap News
+ - [https://heatmap.news](https://heatmap.news)
+ - date published: 2023-10-25T10:54:47.126489+00:00
+ - user: None
+ - tags: []
+
+## 500 Server Error
+ - [https://here.news](https://here.news)
+ - date published: 2023-10-25T10:16:53.490443+00:00
+ - user: None
+ - tags: []
+
+## Hyundai Europe
+ - [https://www.hyundai.news](https://www.hyundai.news)
+ - date published: 2023-12-12T14:08:13.098131+00:00
+ - user: None
+ - tags: []
+
+## Johnnys.News
+ - [https://johnnys.news](https://johnnys.news)
+ - date published: 2023-10-25T20:42:45.586603+00:00
+ - user: None
+ - tags: []
+
+## Kanekoa News | Substack
+ - [https://www.kanekoa.news](https://www.kanekoa.news)
+ - date published: 2024-02-26T08:29:39.596243+00:00
+ - user: None
+ - tags: []
+
+## Keyboard Builders' Digest
+ - [https://kbd.news](https://kbd.news)
+ - date published: 2023-12-30T01:36:51+00:00
+ - user: None
+ - tags: []
+
+## Local News Today - Breaking News & Top Stories
+ - [https://localtoday.news](https://localtoday.news)
+ - date published: 2023-10-25T11:07:16.883371+00:00
+ - user: None
+ - tags: []
+
+## modernity
+ - [https://modernity.news](https://modernity.news)
+ - date published: 2024-02-20T21:06:22+00:00
+ - user: rumpel
+ - tags: ['the right wing']
+
+## Not Yet News
+ - [https://www.notyet.news](https://www.notyet.news)
+ - date published: 2023-10-25T20:42:46.888810+00:00
+ - user: None
+ - tags: []
+
+## The Omg Lol Times · St. Jude Fundraiser Report
+ - [https://omglol.news](https://omglol.news)
+ - date published: 2023-10-25T20:42:48.905677+00:00
+ - user: None
+ - tags: []
+
 ## Platformer | Casey Newton | Substack
  - [https://www.platformer.news](https://www.platformer.news)
  - date published: 2023-10-25T20:42:52.117652+00:00
@@ -341,16 +575,16 @@
  - tags: []
 
 ## Chris Eidhof
- - [https://chris.eidhof.nl](https://chris.eidhof.nl)
- - date published: 2023-10-25T08:54:21.499298+00:00
- - user: None
- - tags: ['personal']
-
-## Chris Eidhof
  - [http://chris.eidhof.nl](http://chris.eidhof.nl)
  - date published: 2024-02-25T15:44:49.625453+00:00
  - user: None
  - tags: []
+
+## Chris Eidhof
+ - [https://chris.eidhof.nl](https://chris.eidhof.nl)
+ - date published: 2023-10-25T08:54:21.499298+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Besluiten waarmee je groeit in impact op mens en omgeving
  - [https://ernohannink.nl](https://ernohannink.nl)
@@ -1908,14 +2142,14 @@ marginalia.nu
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2915,17 +3149,17 @@ marginalia.nu
  - user: None
  - tags: []
 
-## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
- - [https://archive.org](https://archive.org)
- - date published: 2023-10-25T09:29:04.093943+00:00
- - user: None
- - tags: ['internet archive']
-
 ## Internet Archive: Secret service
  - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
  - date published: 2023-10-27T14:37:50+00:00
  - user: rumpel
  - tags: ['retro', 'magazine']
+
+## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
+ - [https://archive.org](https://archive.org)
+ - date published: 2023-10-25T09:29:04.093943+00:00
+ - user: None
+ - tags: ['internet archive']
 
 ## Internet Archive Blogs | A blog from the team at archive.org
  - [https://blog.archive.org](https://blog.archive.org)
@@ -2999,17 +3233,17 @@ marginalia.nu
  - user: None
  - tags: []
 
-## Wayback Machine
- - [https://web.archive.org](https://web.archive.org)
- - date published: 2023-10-25T09:29:18.969501+00:00
- - user: None
- - tags: ['internet archive']
-
 ## Back2Roots
  - [https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl](https://web.archive.org/web/20130817184105/http://www.back2roots.org/News/#from-www.t2e.pl)
  - date published: 2023-11-02T10:36:12+00:00
  - user: rumpel
  - tags: []
+
+## Wayback Machine
+ - [https://web.archive.org](https://web.archive.org)
+ - date published: 2023-10-25T09:29:18.969501+00:00
+ - user: None
+ - tags: ['internet archive']
 
 ## Archive-It - 
   
@@ -3026,14 +3260,14 @@ marginalia.nu
  - tags: []
 
 ## Archiveteam
- - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
+ - date published: 2023-11-25T06:19:37.367056+00:00
  - user: None
  - tags: []
 
 ## Archiveteam
- - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
- - date published: 2023-11-25T06:19:37.367056+00:00
+ - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3724,6 +3958,12 @@ marginalia.nu
 ## BlenderBIM – add-on for beautiful, detailed, and data-rich OpenBIM with Blender
  - [https://blenderbim.org](https://blenderbim.org)
  - date published: 2024-03-14T03:54:58+00:00
+ - user: None
+ - tags: []
+
+## blinry's homepage
+ - [https://blinry.org](https://blinry.org)
+ - date published: 2024-03-17T09:25:45.343858+00:00
  - user: None
  - tags: []
 
@@ -5767,246 +6007,6 @@ marginalia.nu
 ## Allconnect.com: Find Internet Providers Near You | 844-845-3968
  - [https://decisiondata.org](https://decisiondata.org)
  - date published: 2023-10-25T21:13:30.075023+00:00
- - user: None
- - tags: []
-
-## Declassified Australia
- - [https://declassifiedaus.org](https://declassifiedaus.org)
- - date published: 2023-10-25T21:13:35.111668+00:00
- - user: None
- - tags: []
-
-## Declassified UK
- - [https://www.declassifieduk.org](https://www.declassifieduk.org)
- - date published: 2024-01-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## DECRUNCH 2024 demoparty. May 17th-19th, 2023. Czasoprzestrzeń, Tramwajowa 1-3, Wroclaw
- - [https://decrunch.org](https://decrunch.org)
- - date published: 2023-12-11T17:38:11.237785+00:00
- - user: None
- - tags: []
-
-## DECUServe on-line
- - [https://eisner.decus.org](https://eisner.decus.org)
- - date published: 2023-11-18T11:29:46.509000+00:00
- - user: None
- - tags: []
-
-## De-Dollarization Facts: Up-To-Date Facts About The U.S. Dollar In The World
- - [https://www.de-dollarization.org](https://www.de-dollarization.org)
- - date published: 2023-10-25T21:13:07.530962+00:00
- - user: None
- - tags: []
-
-## deepin  - 基于Linux的开源国产操作系统
- - [https://www.deepin.org](https://www.deepin.org)
- - date published: 2023-11-06T10:10:58.272990+00:00
- - user: None
- - tags: ['operating system', 'linux']
-
-## Welcome to the Deep State Blog
- - [https://www.deepstateblog.org](https://www.deepstateblog.org)
- - date published: 2023-10-25T21:13:44.064425+00:00
- - user: None
- - tags: []
-
-## Deep Synoptic Array (DSA)
- - [https://www.deepsynoptic.org](https://www.deepsynoptic.org)
- - date published: 2023-10-25T21:13:47.752146+00:00
- - user: None
- - tags: []
-
-## DEF CON Hacking Conference Home
- - [https://defcon.org](https://defcon.org)
- - date published: 2024-02-05T09:21:34+00:00
- - user: rumpel
- - tags: ['hacking', 'conference', 'community event']
-
-## forum.defcon.org
- - [https://forum.defcon.org](https://forum.defcon.org)
- - date published: 2024-02-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## The DEF CON® Media Server - Archives of the conferences
- - [https://media.defcon.org](https://media.defcon.org)
- - date published: 2024-02-05T19:19:52.136849+00:00
- - user: None
- - tags: ['hacking']
-
-## DEF CON merchandise shop
- - [https://shop.defcon.org](https://shop.defcon.org)
- - date published: 2024-02-05T17:23:18.325780+00:00
- - user: None
- - tags: []
-
-## DEF CON Security Training
- - [https://training.defcon.org](https://training.defcon.org)
- - date published: 2024-02-05T17:23:16.947188+00:00
- - user: None
- - tags: []
-
-## forum.defcon.org
- - [https://defcongroups.org](https://defcongroups.org)
- - date published: 2024-02-05T00:00:00+00:00
- - user: None
- - tags: []
-
-## DÃ©googlisons Internet - Accueil
- - [https://degooglisons-internet.org](https://degooglisons-internet.org)
- - date published: 2024-02-27T12:44:55+00:00
- - user: rumpel
- - tags: ['degoogle']
-
-## Deja Vu: (re-)creating web history
- - [https://www.dejavu.org](https://www.dejavu.org)
- - date published: 2023-10-25T21:13:58.736177+00:00
- - user: None
- - tags: ['web1', 'classic web']
-
-## None
- - [http://www.deliancourt.org](http://www.deliancourt.org)
- - date published: 2024-02-15T22:11:45.333828+00:00
- - user: None
- - tags: ['demoscene']
-
-## Democracy Now! | Democracy Now!
- - [https://www.democracynow.org](https://www.democracynow.org)
- - date published: 2023-10-25T21:14:03.352030+00:00
- - user: None
- - tags: []
-
-## We are the Democratic Party - Democrats
- - [https://democrats.org](https://democrats.org)
- - date published: 2023-12-19T13:57:50.412077+00:00
- - user: None
- - tags: []
-
-## The blog at the bottom of the sea « Programming, Graphics, Gamedev, Exotic Computation, Audio Synthesis
- - [https://blog.demofox.org](https://blog.demofox.org)
- - date published: 2023-10-25T21:14:10.363138+00:00
- - user: None
- - tags: []
-
-## Demozoo
- - [https://demozoo.org](https://demozoo.org)
- - date published: 2023-10-27T14:46:20.722956+00:00
- - user: None
- - tags: ['demoscene']
-
-## design manifestos .org
- - [https://designmanifestos.org](https://designmanifestos.org)
- - date published: 2024-01-09T13:36:18+00:00
- - user: rumpel
- - tags: ['manifesto', 'desgin']
-
-## Policy Experts Advocating for Developers | Developers Alliance
- - [https://developersalliance.org](https://developersalliance.org)
- - date published: 2023-12-29T18:50:24.565985+00:00
- - user: None
- - tags: []
-
-## None
- - [https://luc.devroye.org](https://luc.devroye.org)
- - date published: 2023-12-29T00:51:34.131174+00:00
- - user: None
- - tags: []
-
-## DevTools Tips
- - [https://devtoolstips.org](https://devtoolstips.org)
- - date published: 2023-10-25T21:14:12.309236+00:00
- - user: None
- - tags: []
-
-## DFRLab - DFRLab
- - [https://dfrlab.org](https://dfrlab.org)
- - date published: 2023-10-25T21:14:16.103433+00:00
- - user: None
- - tags: []
-
-## Home - The DiaMon Workgroup
- - [https://diamon.org](https://diamon.org)
- - date published: 2019-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## DIEGO  VERA
- - [https://www.diegovera.org](https://www.diegovera.org)
- - date published: 2023-10-25T21:14:18.082525+00:00
- - user: None
- - tags: []
-
-## diffoscope: in-depth comparison of files, archives, and directories
- - [https://diffoscope.org](https://diffoscope.org)
- - date published: 2023-10-25T21:14:19.698212+00:00
- - user: None
- - tags: []
-
-## Digitopoly
- - [https://digitopoly.org](https://digitopoly.org)
- - date published: 2024-03-08T07:39:42.709408+00:00
- - user: None
- - tags: []
-
-## Dinosaur Images & Facts - The Online Database
- - [https://dinosaurpictures.org](https://dinosaurpictures.org)
- - date published: 2023-10-25T21:14:21.679378+00:00
- - user: None
- - tags: []
-
-## https://dirtyprosecutor.org
- - [https://dirtyprosecutor.org](https://dirtyprosecutor.org)
- - date published: 2024-01-09T03:38:55.288541+00:00
- - user: None
- - tags: []
-
-## Discourse is the place to build civilized communities | Discourse - Civilized Discussion
- - [https://discourse.org](https://discourse.org)
- - date published: 2023-10-25T21:14:25.105642+00:00
- - user: None
- - tags: []
-
-## distcc: a fast, free distributed C/C++ compiler
- - [https://www.distcc.org](https://www.distcc.org)
- - date published: 2023-10-25T21:14:26.079192+00:00
- - user: None
- - tags: []
-
-## Simple search
- - [https://sh.diva-portal.org](https://sh.diva-portal.org)
- - date published: 2023-10-25T21:14:32.161650+00:00
- - user: None
- - tags: []
-
-## Simple search
- - [https://uu.diva-portal.org](https://uu.diva-portal.org)
- - date published: 2023-10-25T21:14:33.208064+00:00
- - user: None
- - tags: []
-
-## Home - DivestOS Mobile
- - [https://divestos.org](https://divestos.org)
- - date published: 2023-10-25T21:14:34.497389+00:00
- - user: None
- - tags: []
-
-## Django Packages : Reusable apps, sites and tools directory for Django
- - [https://djangopackages.org](https://djangopackages.org)
- - date published: 2023-10-25T21:14:37.143169+00:00
- - user: None
- - tags: []
-
-## DJ Food | An online scrapbook by Strictly Kev aka DJ Food & Openmind.
- - [https://www.djfood.org](https://www.djfood.org)
- - date published: 2023-10-25T21:14:43.286931+00:00
- - user: None
- - tags: []
-
-## Home - D Programming Language
- - [https://dlang.org](https://dlang.org)
- - date published: 2023-10-25T21:14:45.334948+00:00
  - user: None
  - tags: []
 

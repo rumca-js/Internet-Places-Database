@@ -1,3 +1,39 @@
+## None
+ - [https://concurrencyfreaks.blogspot.com](https://concurrencyfreaks.blogspot.com)
+ - date published: 2024-01-09T02:30:50.690047+00:00
+ - user: None
+ - tags: []
+
+## croucher
+ - [https://croucher.blogspot.com](https://croucher.blogspot.com)
+ - date published: 2024-02-08T22:04:00.208128+00:00
+ - user: None
+ - tags: []
+
+## The CRPG Addict
+ - [https://crpgaddict.blogspot.com](https://crpgaddict.blogspot.com)
+ - date published: 2023-11-03T07:09:22.088870+00:00
+ - user: None
+ - tags: []
+
+## Cubic
+ - [https://cubicspot.blogspot.com](https://cubicspot.blogspot.com)
+ - date published: 2023-10-25T09:08:04.589544+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cypher Phunk
+ - [https://cypherphunk.blogspot.com](https://cypherphunk.blogspot.com)
+ - date published: 2023-10-25T09:08:06.752061+00:00
+ - user: None
+ - tags: ['personal']
+
+## Database Architects
+ - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
+ - date published: 2023-10-25T09:08:09.774302+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Database Architects
  - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
  - date published: 2024-02-19T00:00:00+00:00
@@ -215,16 +251,16 @@
  - tags: []
 
 ## Information Processing
- - [http://infoproc.blogspot.com](http://infoproc.blogspot.com)
- - date published: 2024-02-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## Information Processing
  - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
  - date published: 2023-10-25T09:09:06.318517+00:00
  - user: None
  - tags: ['personal']
+
+## Information Processing
+ - [http://infoproc.blogspot.com](http://infoproc.blogspot.com)
+ - date published: 2024-02-22T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Development of the trilogy & IV
  - [https://insiderockstarnorth.blogspot.com](https://insiderockstarnorth.blogspot.com)
@@ -1207,14 +1243,14 @@
  - tags: ['books']
 
 ## Bookreporter.com |
- - [http://www.bookreporter.com](http://www.bookreporter.com)
- - date published: 2024-03-01T19:06:27.394328+00:00
+ - [https://www.bookreporter.com](https://www.bookreporter.com)
+ - date published: 2023-11-07T16:06:19.097099+00:00
  - user: None
  - tags: []
 
 ## Bookreporter.com |
- - [https://www.bookreporter.com](https://www.bookreporter.com)
- - date published: 2023-11-07T16:06:19.097099+00:00
+ - [http://www.bookreporter.com](http://www.bookreporter.com)
+ - date published: 2024-03-01T19:06:27.394328+00:00
  - user: None
  - tags: []
 
@@ -2800,7 +2836,7 @@
  - [https://www.canarymedia.com](https://www.canarymedia.com)
  - date published: 2023-10-25T10:54:13.458447+00:00
  - user: None
- - tags: []
+ - tags: ['climate change']
 
 ## Candice Poon
  - [https://www.candicepoon.com](https://www.candicepoon.com)
@@ -4548,6 +4584,12 @@
  - user: None
  - tags: []
 
+## CitizenX: Invest in Citizenship
+ - [https://citizenx.com](https://citizenx.com)
+ - date published: 2024-03-17T01:45:19+00:00
+ - user: None
+ - tags: []
+
 ## Snowflake Observability Software | Cito Data
  - [https://www.citodata.com](https://www.citodata.com)
  - date published: 2023-10-25T13:25:04.311443+00:00
@@ -4719,6 +4761,12 @@
 ## Help for Individual and Organization Job Related Burnout
  - [https://www.clarkgaither.com](https://www.clarkgaither.com)
  - date published: 2024-01-19T13:01:43.978500+00:00
+ - user: None
+ - tags: []
+
+## Audio Visual Rental for Conferences, Meetings and Events
+ - [https://clarksav.com](https://clarksav.com)
+ - date published: 2008-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5960,54 +6008,6 @@
 ## IT news, careers, business technology, reviews
  - [http://www.computerworld.com](http://www.computerworld.com)
  - date published: 2024-02-25T19:22:09.150165+00:00
- - user: None
- - tags: []
-
-## Home | Concerning Quality
- - [https://concerningquality.com](https://concerningquality.com)
- - date published: 2024-01-04T17:44:04.642304+00:00
- - user: None
- - tags: []
-
-## https://www.concordmonitor.com
- - [https://www.concordmonitor.com](https://www.concordmonitor.com)
- - date published: 2023-10-25T13:32:50.154763+00:00
- - user: None
- - tags: []
-
-## The Condiment Packet Gallery
- - [https://www.condimentpacket.com](https://www.condimentpacket.com)
- - date published: 2023-10-25T13:32:52.059539+00:00
- - user: None
- - tags: []
-
-## Conf42: online tech events
- - [https://www.conf42.com](https://www.conf42.com)
- - date published: 2023-10-25T13:32:57.935406+00:00
- - user: None
- - tags: []
-
-## None
- - [https://aaas.confex.com](https://aaas.confex.com)
- - date published: 2024-02-24T18:22:26.397111+00:00
- - user: None
- - tags: []
-
-## Confiant | The First & Leading Ad Security & Quality Platform
- - [https://www.confiant.com](https://www.confiant.com)
- - date published: 2023-10-25T13:32:59.560606+00:00
- - user: None
- - tags: []
-
-## Coach
- - [https://confidecoaching.com](https://confidecoaching.com)
- - date published: 2024-01-10T18:11:11.126608+00:00
- - user: None
- - tags: []
-
-## DeepEval
- - [https://docs.confident-ai.com](https://docs.confident-ai.com)
- - date published: 2023-10-25T13:33:10.255539+00:00
  - user: None
  - tags: []
 

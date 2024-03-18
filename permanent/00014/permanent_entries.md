@@ -1,3 +1,159 @@
+## Vertical Mag - The pulse of the helicopter industry
+ - [https://verticalmag.com](https://verticalmag.com)
+ - date published: 2023-10-25T17:55:56.776993+00:00
+ - user: None
+ - tags: []
+
+## Verywell Mind - Know More. Live Brighter.
+ - [https://www.verywellmind.com](https://www.verywellmind.com)
+ - date published: 2023-10-25T17:56:04.001477+00:00
+ - user: None
+ - tags: []
+
+## SEO Growth Freelancer Berlin - Ves Ivanov
+ - [https://vesivanov.com](https://vesivanov.com)
+ - date published: 2024-01-10T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Vesko Iliev
+ - [https://veskoiliev.com](https://veskoiliev.com)
+ - date published: 2024-02-25T19:09:02.543931+00:00
+ - user: None
+ - tags: []
+
+## Vesko Iliev
+ - [https://www.veskoiliev.com](https://www.veskoiliev.com)
+ - date published: 2023-12-18T22:38:34.003079+00:00
+ - user: None
+ - tags: ['personal']
+
+## Vessi | The World's First Waterproof Shoes
+ - [https://vessi.com](https://vessi.com)
+ - date published: 2024-01-27T04:08:30.911752+00:00
+ - user: None
+ - tags: []
+
+## Vessi: Waterproof Shoes in Everyday and Seasonal Styles
+ - [http://vessi.com](http://vessi.com)
+ - date published: 2024-02-24T09:54:58.605913+00:00
+ - user: None
+ - tags: []
+
+## Global Leader in Sustainable Energy | Vestas
+ - [https://www.vestas.com](https://www.vestas.com)
+ - date published: 2023-10-25T17:56:06.586790+00:00
+ - user: None
+ - tags: []
+
+## Veterinary daily
+ - [https://www.veterinarydaily.com](https://www.veterinarydaily.com)
+ - date published: 2023-10-25T17:56:08.813506+00:00
+ - user: None
+ - tags: []
+
+## VG247
+ - [https://www.vg247.com](https://www.vg247.com)
+ - date published: 2023-11-28T13:23:37.145498+00:00
+ - user: None
+ - tags: []
+
+## Videogame Questions and Answers
+ - [https://www.vgassist.com](https://www.vgassist.com)
+ - date published: 2023-12-13T16:15:17.027932+00:00
+ - user: None
+ - tags: []
+
+## Centova Cast
+ - [http://radio.vgmradio.com](http://radio.vgmradio.com)
+ - date published: 2006-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## VGM Radio
+ - [https://vgmradio.com](https://vgmradio.com)
+ - date published: 2012-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Viam | Bring Any Smart Machine Project to Life
+ - [https://www.viam.com](https://www.viam.com)
+ - date published: 2023-10-25T17:56:12.612670+00:00
+ - user: None
+ - tags: []
+
+## VIBE.com
+ - [https://www.vibe.com](https://www.vibe.com)
+ - date published: 2023-11-22T23:43:52.120847+00:00
+ - user: None
+ - tags: []
+
+## viborc.com • Data-driven stories for bright minds
+ - [https://viborc.com](https://viborc.com)
+ - date published: 2023-10-25T17:56:14.934252+00:00
+ - user: None
+ - tags: []
+
+## VICE - VICE is the definitive guide to enlightening information.
+ - [https://www.vice.com](https://www.vice.com)
+ - date published: 2023-10-25T10:29:22.678604+00:00
+ - user: None
+ - tags: []
+
+## Tech Blog | ★❤✰ Vicki Boykis ★❤✰
+ - [https://vickiboykis.com](https://vickiboykis.com)
+ - date published: 2023-10-25T17:56:16.247870+00:00
+ - user: None
+ - tags: ['blog', 'personal']
+
+## Welcome to the Victoria News
+ - [https://www.vicnews.com](https://www.vicnews.com)
+ - date published: 2023-11-05T01:47:17.761566+00:00
+ - user: None
+ - tags: []
+
+## Home | Victor Brandalise
+ - [https://victorbrandalise.com](https://victorbrandalise.com)
+ - date published: 2023-10-25T17:56:19.318141+00:00
+ - user: None
+ - tags: []
+
+## Victoria Erickson
+ - [https://www.victoriaerickson.com](https://www.victoriaerickson.com)
+ - date published: 2024-01-09T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## VictoriaMetrics: Simple & Reliable Monitoring for Everyone
+ - [https://victoriametrics.com](https://victoriametrics.com)
+ - date published: 2023-10-25T17:56:20.471667+00:00
+ - user: None
+ - tags: []
+
+## A fine set of rules, designed to ensure that all who post there may do so with the assurance that their comments will be met with approbation by those of a similar persuasion
+ - [https://victorianhackernews.com](https://victorianhackernews.com)
+ - date published: 2023-10-25T17:56:21.528971+00:00
+ - user: None
+ - tags: []
+
+## VictoriaNow | Victoria news and the stuff that matters
+ - [https://www.victorianow.com](https://www.victorianow.com)
+ - date published: 2023-11-16T08:28:10.924553+00:00
+ - user: None
+ - tags: []
+
+## https://www.victoryofmesa.com
+ - [https://www.victoryofmesa.com](https://www.victoryofmesa.com)
+ - date published: 2024-02-08T16:27:24.117189+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://mrbeast.victra.com](https://mrbeast.victra.com)
+ - date published: 2017-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Nader Ouerdiane - Software Engineer
  - [https://www.vicyyn.com](https://www.vicyyn.com)
  - date published: 2023-11-13T00:40:41.668000+00:00
@@ -498,14 +654,14 @@
  - tags: []
 
 ## Vox - Our world, explained
- - [https://www.vox.com](https://www.vox.com)
- - date published: 2023-10-25T10:39:39.512845+00:00
+ - [http://www.vox.com](http://www.vox.com)
+ - date published: 2024-02-26T14:26:24.139528+00:00
  - user: None
  - tags: []
 
 ## Vox - Our world, explained
- - [http://www.vox.com](http://www.vox.com)
- - date published: 2024-02-26T14:26:24.139528+00:00
+ - [https://www.vox.com](https://www.vox.com)
+ - date published: 2023-10-25T10:39:39.512845+00:00
  - user: None
  - tags: []
 
@@ -1709,15 +1865,15 @@
  - user: None
  - tags: []
 
-## None
- - [http://wheybags.com](http://wheybags.com)
- - date published: 2024-02-26T15:12:36.370939+00:00
- - user: None
- - tags: []
-
 ## https://wheybags.com
  - [https://wheybags.com](https://wheybags.com)
  - date published: 2024-01-09T02:54:23.170380+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://wheybags.com](http://wheybags.com)
+ - date published: 2024-02-26T15:12:36.370939+00:00
  - user: None
  - tags: []
 
@@ -2268,14 +2424,14 @@
  - tags: []
 
 ## WinWorld: Welcome
- - [http://winworldpc.com](http://winworldpc.com)
- - date published: 2024-02-26T08:40:39.467757+00:00
+ - [https://winworldpc.com](https://winworldpc.com)
+ - date published: 2024-01-01T19:17:47.205122+00:00
  - user: None
  - tags: []
 
 ## WinWorld: Welcome
- - [https://winworldpc.com](https://winworldpc.com)
- - date published: 2024-01-01T19:17:47.205122+00:00
+ - [http://winworldpc.com](http://winworldpc.com)
+ - date published: 2024-02-26T08:40:39.467757+00:00
  - user: None
  - tags: []
 
@@ -4271,6 +4427,12 @@
  - user: None
  - tags: []
 
+## The Official Home of the Women's Tennis Association | WTA Tennis
+ - [https://www.wtatennis.com](https://www.wtatennis.com)
+ - date published: 2024-03-17T19:26:11.452083+00:00
+ - user: None
+ - tags: []
+
 ## wthitv.com | Coverage You Can Count On
  - [https://www.wthitv.com](https://www.wthitv.com)
  - date published: 2024-03-08T20:10:39.632926+00:00
@@ -4535,17 +4697,17 @@
  - user: None
  - tags: []
 
-## xkcd: Daylight Saving Choice
- - [https://xkcd.com](https://xkcd.com)
- - date published: 2023-10-25T18:21:57.309268+00:00
- - user: None
- - tags: ['memes', 'funny images', 'comics']
-
 ## Orbital Argument
  - [http://xkcd.com](http://xkcd.com)
  - date published: 2024-02-26T15:13:51.426193+00:00
  - user: None
  - tags: []
+
+## xkcd: Daylight Saving Choice
+ - [https://xkcd.com](https://xkcd.com)
+ - date published: 2023-10-25T18:21:57.309268+00:00
+ - user: None
+ - tags: ['memes', 'funny images', 'comics']
 
 ## x mod 2 | Kirk Thaker | Substack
  - [https://www.xmodtwo.com](https://www.xmodtwo.com)
@@ -5045,35 +5207,11 @@
  - user: None
  - tags: []
 
-## YouTube Channel hipoonios
- - [https://www.youtube.com/@hipoonios](https://www.youtube.com/@hipoonios)
- - date published: 2023-11-02T10:41:50+00:00
- - user: rumpel
- - tags: ['amiga']
-
-## Jeff Geerling YouTube Channel
- - [https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg)
- - date published: 2023-11-03T10:34:47+00:00
- - user: rumpel
- - tags: ['youtuber', 'single-board', 'raspberry']
-
 ## Eta Prime YouTube Channel
  - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
  - date published: 2023-11-03T10:35:46+00:00
  - user: rumpel
  - tags: ['youtuber', 'single-board', 'raspberry']
-
-## YouTube
- - [https://www.youtube.com](https://www.youtube.com)
- - date published: 2023-10-24T20:05:58.291792+00:00
- - user: None
- - tags: ['google', 'gatekeeper', 'video streaming']
-
-## Tabletop Minions
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ)
- - date published: 2023-11-08T09:59:26+00:00
- - user: rumpel
- - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
 
 ## Squidmar Miniatures
  - [https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g)
@@ -5081,23 +5219,11 @@
  - user: rumpel
  - tags: ['warhammer', 'wargames', 'miniatures']
 
-## Luetin09 YouTube Channel
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ)
- - date published: 2023-11-08T09:33:03+00:00
+## LukHash YouTube Channel
+ - [https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw](https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw)
+ - date published: 2023-11-03T14:42:18+00:00
  - user: rumpel
- - tags: ['wargames', 'tabletop games', 'warhammer']
-
-## Miniac
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g)
- - date published: 2023-11-08T10:01:11+00:00
- - user: rumpel
- - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
-
-## NewRetroWave YouTube Channel
- - [https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g](https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g)
- - date published: 2023-11-13T09:23:17+00:00
- - user: rumpel
- - tags: ['synthwave', 'new retro wave']
+ - tags: []
 
 ## YouTube
  - [http://www.youtube.com](http://www.youtube.com)
@@ -5105,11 +5231,47 @@
  - user: None
  - tags: []
 
-## LukHash YouTube Channel
- - [https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw](https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw)
- - date published: 2023-11-03T14:42:18+00:00
+## NewRetroWave YouTube Channel
+ - [https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g](https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g)
+ - date published: 2023-11-13T09:23:17+00:00
  - user: rumpel
- - tags: []
+ - tags: ['synthwave', 'new retro wave']
+
+## Luetin09 YouTube Channel
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ)
+ - date published: 2023-11-08T09:33:03+00:00
+ - user: rumpel
+ - tags: ['wargames', 'tabletop games', 'warhammer']
+
+## Tabletop Minions
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ)
+ - date published: 2023-11-08T09:59:26+00:00
+ - user: rumpel
+ - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
+
+## Miniac
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g)
+ - date published: 2023-11-08T10:01:11+00:00
+ - user: rumpel
+ - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
+
+## Jeff Geerling YouTube Channel
+ - [https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg)
+ - date published: 2023-11-03T10:34:47+00:00
+ - user: rumpel
+ - tags: ['youtuber', 'single-board', 'raspberry']
+
+## YouTube Channel hipoonios
+ - [https://www.youtube.com/@hipoonios](https://www.youtube.com/@hipoonios)
+ - date published: 2023-11-02T10:41:50+00:00
+ - user: rumpel
+ - tags: ['amiga']
+
+## YouTube
+ - [https://www.youtube.com](https://www.youtube.com)
+ - date published: 2023-10-24T20:05:58.291792+00:00
+ - user: None
+ - tags: ['google', 'gatekeeper', 'video streaming']
 
 ## Louis Rossmann YouTube Channel
  - [https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w](https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w)
@@ -5118,14 +5280,14 @@
  - tags: ['right to repair']
 
 ## YouTube
- - [http://youtube.com](http://youtube.com)
- - date published: 2024-03-06T00:00:00+00:00
+ - [https://youtube.com](https://youtube.com)
+ - date published: 2023-11-14T01:45:17.978988+00:00
  - user: None
  - tags: []
 
 ## YouTube
- - [https://youtube.com](https://youtube.com)
- - date published: 2023-11-14T01:45:17.978988+00:00
+ - [http://youtube.com](http://youtube.com)
+ - date published: 2024-03-06T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5677,14 +5839,14 @@
  - tags: ['wtf']
 
 ## None
- - [abcnews.go.comhttps](abcnews.go.comhttps)
- - date published: 2024-01-09T02:55:46.479176+00:00
+ - [https://abcnews.go.comhttps](https://abcnews.go.comhttps)
+ - date published: 2024-02-02T08:24:31.883332+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://abcnews.go.comhttps](https://abcnews.go.comhttps)
- - date published: 2024-02-02T08:24:31.883332+00:00
+ - [abcnews.go.comhttps](abcnews.go.comhttps)
+ - date published: 2024-01-09T02:55:46.479176+00:00
  - user: None
  - tags: []
 
@@ -5737,14 +5899,14 @@
  - tags: []
 
 ## Writing by Bob Doto
- - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
- - date published: 2024-01-09T02:55:47.919867+00:00
+ - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
+ - date published: 2024-02-26T14:37:32.413264+00:00
  - user: None
  - tags: []
 
 ## Writing by Bob Doto
- - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
- - date published: 2024-02-26T14:37:32.413264+00:00
+ - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
+ - date published: 2024-01-09T02:55:47.919867+00:00
  - user: None
  - tags: []
 
@@ -5835,168 +5997,6 @@
 ## Now & About – Damien Aresta
  - [https://damien.cool](https://damien.cool)
  - date published: 2023-03-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dan's Site
- - [https://www.mayer.cool](https://www.mayer.cool)
- - date published: 2023-10-25T18:26:46.688031+00:00
- - user: None
- - tags: []
-
-## Home of Val Packett
- - [https://val.packett.cool](https://val.packett.cool)
- - date published: 2023-10-25T18:26:48.292933+00:00
- - user: None
- - tags: []
-
-## The Pudding
- - [https://pudding.cool](https://pudding.cool)
- - date published: 2023-10-25T18:26:52.831116+00:00
- - user: None
- - tags: []
-
-## Webhook.Cool - Online Webhook Tester
- - [https://webhook.cool](https://webhook.cool)
- - date published: 2024-01-08T18:35:40.117613+00:00
- - user: None
- - tags: []
-
-## Hellō
- - [https://www.hello.coop](https://www.hello.coop)
- - date published: 2023-10-25T18:26:53.905223+00:00
- - user: None
- - tags: []
-
-## THOMAS SCHINDLER
- - [https://thomas.cr](https://thomas.cr)
- - date published: 2023-12-02T21:17:20.516738+00:00
- - user: None
- - tags: ['personal']
-
-## Explore
- - [https://read.cv](https://read.cv)
- - date published: 2023-12-11T16:12:03.063746+00:00
- - user: None
- - tags: []
-
-## [lcamtuf.coredump.cx]
- - [https://lcamtuf.coredump.cx](https://lcamtuf.coredump.cx)
- - date published: 2023-10-25T18:26:54.648487+00:00
- - user: None
- - tags: []
-
-## Kostya's Boring Codec World
- - [https://codecs.multimedia.cx](https://codecs.multimedia.cx)
- - date published: 2023-10-25T18:27:06.338688+00:00
- - user: None
- - tags: []
-
-## REcon - Home
- - [https://www.recon.cx](https://www.recon.cx)
- - date published: 2023-10-25T18:27:08.079660+00:00
- - user: None
- - tags: []
-
-## Amiga Hardware Database
- - [https://amiga.resource.cx](https://amiga.resource.cx)
- - date published: 2023-11-02T10:38:55.509567+00:00
- - user: None
- - tags: []
-
-## Wonderland – Platform for European Architecture
- - [https://wonderland.cx](https://wonderland.cx)
- - date published: 2024-02-08T21:53:12.921280+00:00
- - user: None
- - tags: []
-
-## Amiga.cz – Czech Amiga Web |
- - [http://amiga.cz](http://amiga.cz)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Amiga.cz – Czech Amiga Web |
- - [http://www.amiga.cz](http://www.amiga.cz)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://www.amiga.cz
- - [https://www.amiga.cz](https://www.amiga.cz)
- - date published: 2024-01-09T02:55:51.231423+00:00
- - user: None
- - tags: []
-
-## Akademie věd České republiky - Akademie věd České republiky
- - [https://www.avcr.cz](https://www.avcr.cz)
- - date published: 2024-01-09T02:55:56.941147+00:00
- - user: None
- - tags: []
-
-## Vít Baisa
- - [https://vit.baisa.cz](https://vit.baisa.cz)
- - date published: 2024-01-05T16:52:12.245958+00:00
- - user: None
- - tags: []
-
-## Česká televize
- - [https://www.ceskatelevize.cz](https://www.ceskatelevize.cz)
- - date published: 2023-12-09T12:19:22.067454+00:00
- - user: None
- - tags: []
-
-## Nákup nových a ojetých vozů | Automobil | CITROËN Česká republika
- - [https://www.citroen.cz](https://www.citroen.cz)
- - date published: 2023-12-11T16:03:45.511374+00:00
- - user: None
- - tags: []
-
-## Department of Distributed and Dependable Systems | D3S
- - [https://d3s.mff.cuni.cz](https://d3s.mff.cuni.cz)
- - date published: 2023-11-03T00:27:03.410640+00:00
- - user: None
- - tags: []
-
-## Expats.cz - The Czech Republic's leading English language website
- - [https://www.expats.cz](https://www.expats.cz)
- - date published: 2023-11-08T11:51:18.565360+00:00
- - user: None
- - tags: []
-
-## Future landscapes | Future landscapes
- - [https://www.futurelandscapes.cz](https://www.futurelandscapes.cz)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Školní nábytek | Gambero
- - [https://www.gambero.cz](https://www.gambero.cz)
- - date published: 2024-02-08T16:51:08.243523+00:00
- - user: None
- - tags: []
-
-## .:: WWW.JCSOFT.CZ ::.
- - [https://www.jcsoft.cz](https://www.jcsoft.cz)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Jiri Stepanovsky
- - [https://www.jiristepanovsky.cz](https://www.jiristepanovsky.cz)
- - date published: 2023-10-25T18:27:15.846550+00:00
- - user: None
- - tags: []
-
-## Homepage - Konec IPv4
- - [https://konecipv4.cz](https://konecipv4.cz)
- - date published: 2024-01-23T00:59:29.294676+00:00
- - user: None
- - tags: ['internet', 'web20']
-
-## Elektronika, bastlení, návody
- - [http://elektronika.kvalitne.cz](http://elektronika.kvalitne.cz)
- - date published: 2024-01-28T06:36:28.028381+00:00
  - user: None
  - tags: []
 

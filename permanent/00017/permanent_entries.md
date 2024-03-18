@@ -1,3 +1,189 @@
+## A Netflix for fake TV shows and movies
+ - [https://nestflix.fun](https://nestflix.fun)
+ - date published: 2024-01-04T19:41:51+00:00
+ - user: None
+ - tags: []
+
+## Orthic Shorthand
+ - [https://orthic.shorthand.fun](https://orthic.shorthand.fun)
+ - date published: 2024-01-19T05:42:09.555455+00:00
+ - user: None
+ - tags: []
+
+## https://app.vnote.fun
+ - [https://app.vnote.fun](https://app.vnote.fun)
+ - date published: 2024-01-20T08:05:26.303097+00:00
+ - user: None
+ - tags: []
+
+## The Autopilot Fund
+ - [https://blog.autopilot.fund](https://blog.autopilot.fund)
+ - date published: 2023-10-25T19:15:50.122692+00:00
+ - user: None
+ - tags: []
+
+## Adriano Caloiaro's personal blog
+ - [https://adriano.fyi](https://adriano.fyi)
+ - date published: 2023-10-25T08:59:03.095518+00:00
+ - user: None
+ - tags: ['personal']
+
+## Brody Smith • Information Design
+ - [https://brody.fyi](https://brody.fyi)
+ - date published: 2024-01-04T08:11:51.602420+00:00
+ - user: None
+ - tags: []
+
+## brr
+ - [https://brr.fyi](https://brr.fyi)
+ - date published: 2023-10-25T19:15:50.754055+00:00
+ - user: None
+ - tags: []
+
+## brr
+ - [http://brr.fyi](http://brr.fyi)
+ - date published: 2024-01-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## CDR.fyi
+ - [https://www.cdr.fyi](https://www.cdr.fyi)
+ - date published: 2024-01-09T03:30:10.035205+00:00
+ - user: None
+ - tags: []
+
+## Freelance rates by contractrates.fyi
+ - [https://www.contractrates.fyi](https://www.contractrates.fyi)
+ - date published: 2023-10-25T19:15:52.506601+00:00
+ - user: None
+ - tags: []
+
+## DevBase - Product Gallery for Developers
+ - [https://devbase.fyi](https://devbase.fyi)
+ - date published: 2023-10-25T19:15:55.735011+00:00
+ - user: None
+ - tags: []
+
+## Digital culture and entertainment insights daily: Digital culture and entertainment insights daily
+ - [https://dirt.fyi](https://dirt.fyi)
+ - date published: 2023-10-25T19:15:57.266413+00:00
+ - user: None
+ - tags: []
+
+## Tim and Jeni
+ - [https://ellis.fyi](https://ellis.fyi)
+ - date published: 2024-03-05T16:08:01.801164+00:00
+ - user: None
+ - tags: []
+
+## ESPP.fyi - ESPP Calculator
+ - [https://espp.fyi](https://espp.fyi)
+ - date published: 2023-10-25T19:15:58.160226+00:00
+ - user: None
+ - tags: []
+
+## iliana.fyi
+ - [https://iliana.fyi](https://iliana.fyi)
+ - date published: 2023-10-25T19:15:59.645382+00:00
+ - user: None
+ - tags: []
+
+## jade's www site
+ - [http://jade.fyi](http://jade.fyi)
+ - date published: 2024-01-27T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## jade's www site
+ - [https://jade.fyi](https://jade.fyi)
+ - date published: 2024-01-09T18:46:42.354724+00:00
+ - user: None
+ - tags: []
+
+## Ken Zinser
+ - [https://ken.fyi](https://ken.fyi)
+ - date published: 2024-02-12T08:32:03.708550+00:00
+ - user: None
+ - tags: ['personal']
+
+## Layoffs.fyi - Tech Layoff Tracker and Startup Layoff Lists
+ - [https://layoffs.fyi](https://layoffs.fyi)
+ - date published: 2023-10-25T19:16:02.675285+00:00
+ - user: None
+ - tags: []
+
+## Levels.fyi | Salaries & Tools to Level Up Your Career
+ - [https://www.levels.fyi](https://www.levels.fyi)
+ - date published: 2023-10-25T19:16:09.416624+00:00
+ - user: None
+ - tags: []
+
+## Not a Number
+ - [https://www.nan.fyi](https://www.nan.fyi)
+ - date published: 2023-10-25T19:16:10.047779+00:00
+ - user: None
+ - tags: []
+
+## Not By AI — Add the Badge to Your Human-Created Content
+ - [https://notbyai.fyi](https://notbyai.fyi)
+ - date published: 2023-10-25T19:16:11.639093+00:00
+ - user: None
+ - tags: []
+
+## 2 Weeks Notice/Layoff Checklist
+ - [https://notice.fyi](https://notice.fyi)
+ - date published: 2023-10-25T19:16:13.369510+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://nudges.fyi](https://nudges.fyi)
+ - date published: 2024-01-09T03:30:11.356804+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Onsites.fyi - Curated Big Tech Interview Experiences
+ - [https://www.onsites.fyi](https://www.onsites.fyi)
+ - date published: 2023-12-03T13:29:53+00:00
+ - user: None
+ - tags: []
+
+## Paisa
+ - [https://paisa.fyi](https://paisa.fyi)
+ - date published: 2023-10-25T19:16:14.401445+00:00
+ - user: None
+ - tags: []
+
+## physician.fyi
+ - [https://www.physician.fyi](https://www.physician.fyi)
+ - date published: 2023-10-25T19:16:19.520735+00:00
+ - user: None
+ - tags: []
+
+## rustjobs.fyi
+ - [https://www.rustjobs.fyi](https://www.rustjobs.fyi)
+ - date published: 2023-10-25T19:16:20.460320+00:00
+ - user: None
+ - tags: []
+
+## https://south.fyi
+ - [https://south.fyi](https://south.fyi)
+ - date published: 2023-12-20T14:34:44.308769+00:00
+ - user: None
+ - tags: ['personal']
+
+## time.fyi - All the time related tools
+ - [https://time.fyi](https://time.fyi)
+ - date published: 2024-01-06T09:13:14.048827+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Trains.fyi – a live map of passenger trains in the US and Canada
+ - [https://trains.fyi](https://trains.fyi)
+ - date published: 2023-11-27T16:47:19+00:00
+ - user: None
+ - tags: []
+
 ## The ideal viewport doesn’t exist
  - [https://viewports.fyi](https://viewports.fyi)
  - date published: 2023-10-25T19:16:21.804980+00:00
@@ -121,6 +307,12 @@
 ## Show HN: An Algorithmic Audio Landscape
  - [https://ambient.garden](https://ambient.garden)
  - date published: 2024-03-02T16:16:16+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://application.garden](https://application.garden)
+ - date published: 2024-03-17T02:25:50.362646+00:00
  - user: None
  - tags: []
 
@@ -461,16 +653,16 @@
  - tags: []
 
 ## Google DeepMind
- - [http://deepmind.google](http://deepmind.google)
- - date published: 2024-02-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Google DeepMind
  - [https://deepmind.google](https://deepmind.google)
  - date published: 2023-11-14T16:38:56.541975+00:00
  - user: None
  - tags: ['artificial intelligence']
+
+## Google DeepMind
+ - [http://deepmind.google](http://deepmind.google)
+ - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Google Domains | Official Site – Google Domains
  - [https://domains.google](https://domains.google)
@@ -2312,6 +2504,12 @@
  - user: None
  - tags: []
 
+## Snippets
+ - [https://snippets.icu](https://snippets.icu)
+ - date published: 2024-03-17T14:52:53.279122+00:00
+ - user: None
+ - tags: ['personal']
+
 ## TheSauna
  - [https://the-sauna.icu](https://the-sauna.icu)
  - date published: 2023-12-19T10:05:35.430811+00:00
@@ -3850,14 +4048,14 @@
  - tags: []
 
 ## TVP Info - najnowsze informacje z kraju i ze świata, wideo, transmisje on-line i relacje na żywo.
- - [https://www.tvp.info](https://www.tvp.info)
- - date published: 2023-10-25T19:35:11.469749+00:00
+ - [http://www.tvp.info](http://www.tvp.info)
+ - date published: 2024-02-26T13:23:41.448557+00:00
  - user: None
  - tags: []
 
 ## TVP Info - najnowsze informacje z kraju i ze świata, wideo, transmisje on-line i relacje na żywo.
- - [http://www.tvp.info](http://www.tvp.info)
- - date published: 2024-02-26T13:23:41.448557+00:00
+ - [https://www.tvp.info](https://www.tvp.info)
+ - date published: 2023-10-25T19:35:11.469749+00:00
  - user: None
  - tags: []
 
@@ -5802,204 +6000,6 @@
 ## Algoritmos III | Sitio web del curso Leveroni de Algoritmos y Programación 3 (7507/9502)
  - [https://algoritmos-iii.github.io](https://algoritmos-iii.github.io)
  - date published: 2023-10-25T19:43:58.417680+00:00
- - user: None
- - tags: []
-
-## Ali Ghazal
- - [https://alighazal.github.io](https://alighazal.github.io)
- - date published: 2022-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## None
- - [https://allendowney.github.io](https://allendowney.github.io)
- - date published: 2024-02-16T05:20:49.161617+00:00
- - user: None
- - tags: []
-
-## Every Man a Debtor
- - [https://alok.github.io](https://alok.github.io)
- - date published: 2023-10-25T19:43:59.118164+00:00
- - user: None
- - tags: []
-
-## Vega-Altair: Declarative Visualization in Python — Vega-Altair 5.2.0 documentation
- - [https://altair-viz.github.io](https://altair-viz.github.io)
- - date published: 2024-02-25T21:17:59.011743+00:00
- - user: None
- - tags: []
-
-## Romes' Musings
- - [https://alt-romes.github.io](https://alt-romes.github.io)
- - date published: 2023-10-25T19:43:59.879415+00:00
- - user: None
- - tags: []
-
-## ambiso's blog
- - [https://ambiso.github.io](https://ambiso.github.io)
- - date published: 2023-10-25T19:44:00.528497+00:00
- - user: None
- - tags: []
-
-## Blabbin’
- - [https://andreasjhkarlsson.github.io](https://andreasjhkarlsson.github.io)
- - date published: 2023-12-28T06:36:18.226260+00:00
- - user: None
- - tags: []
-
-## Crash Lime Home
- - [https://animaomnium.github.io](https://animaomnium.github.io)
- - date published: 2023-10-25T19:44:01.370346+00:00
- - user: None
- - tags: []
-
-## The cake is a lie...
- - [https://anrei0000.github.io](https://anrei0000.github.io)
- - date published: 2023-12-03T09:19:08.479019+00:00
- - user: None
- - tags: ['personal']
-
-## Antonio Loquercio personal Website
- - [https://antonilo.github.io](https://antonilo.github.io)
- - date published: 2023-10-25T19:44:02.367860+00:00
- - user: None
- - tags: []
-
-## ~/ Anurag Peshne
- - [https://anuragpeshne.github.io](https://anuragpeshne.github.io)
- - date published: 2023-12-12T07:04:48.534236+00:00
- - user: None
- - tags: ['personal']
-
-## Home - AOLserver
- - [https://aolserver.github.io](https://aolserver.github.io)
- - date published: 2023-10-25T19:44:03.089532+00:00
- - user: None
- - tags: []
-
-## index.html
- - [https://appimage.github.io](https://appimage.github.io)
- - date published: 2023-10-24T20:10:38.543038+00:00
- - user: None
- - tags: ['app store']
-
-## Aref Malek
- - [https://arefmalek.github.io](https://arefmalek.github.io)
- - date published: 2023-12-15T11:11:35.993710+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://argoproj.github.io](https://argoproj.github.io)
- - date published: 2024-03-04T11:35:55.648130+00:00
- - user: None
- - tags: []
-
-## Ariel Miculas – Software Engineer at Cisco
- - [https://ariel-miculas.github.io](https://ariel-miculas.github.io)
- - date published: 2023-10-25T08:59:07.299630+00:00
- - user: None
- - tags: ['personal']
-
-## Arman's (Wild) Digital Garden
- - [https://armanjindal.github.io](https://armanjindal.github.io)
- - date published: 2023-12-20T19:15:57.276153+00:00
- - user: None
- - tags: ['personal']
-
-## Austin Mueller
- - [http://armueller.github.io](http://armueller.github.io)
- - date published: 2023-12-23T02:59:32.933589+00:00
- - user: None
- - tags: ['personal']
-
-## CPU Cycles Maniac
- - [https://arnaud-carre.github.io](https://arnaud-carre.github.io)
- - date published: 2023-10-25T19:44:03.770701+00:00
- - user: None
- - tags: []
-
-## Brilliantly wrong (blog by Alex Rogozhnikov)
- - [https://arogozhnikov.github.io](https://arogozhnikov.github.io)
- - date published: 2023-10-25T19:44:05.292498+00:00
- - user: None
- - tags: []
-
-## Artsy Engineering
- - [https://artsy.github.io](https://artsy.github.io)
- - date published: 2023-10-25T19:44:06.376349+00:00
- - user: None
- - tags: []
-
-## ajkprojects
- - [https://asnewman.github.io](https://asnewman.github.io)
- - date published: 2023-10-25T19:44:17.841483+00:00
- - user: None
- - tags: []
-
-## ASSET Research Group: Home
- - [https://asset-group.github.io](https://asset-group.github.io)
- - date published: 2023-12-08T12:56:42.399728+00:00
- - user: None
- - tags: []
-
-## Redirecting to https://example.com/
- - [https://a-sumo.github.io](https://a-sumo.github.io)
- - date published: 2023-10-25T19:43:41.602280+00:00
- - user: None
- - tags: []
-
-## Unrivaled Rōnin
- - [https://aungthurhahein.github.io](https://aungthurhahein.github.io)
- - date published: 2023-11-29T14:22:16.213145+00:00
- - user: None
- - tags: ['personal']
-
-## Awais
- - [https://awaisrauf.github.io](https://awaisrauf.github.io)
- - date published: 2024-01-13T03:12:47.936826+00:00
- - user: None
- - tags: []
-
-## Andreas Kling – I like computers!
- - [https://awesomekling.github.io](https://awesomekling.github.io)
- - date published: 2023-10-25T19:44:19.293206+00:00
- - user: None
- - tags: []
-
-## Brendan's Website · Interesting articles about interesting things
- - [https://b13rg.github.io](https://b13rg.github.io)
- - date published: 2023-10-25T19:44:23.184594+00:00
- - user: None
- - tags: []
-
-## Site not found · GitHub Pages
- - [https://baaivision.github.io](https://baaivision.github.io)
- - date published: 2023-12-22T03:57:31.230083+00:00
- - user: None
- - tags: []
-
-## An opinionated view
- - [https://baks.github.io](https://baks.github.io)
- - date published: 2016-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## bbenchoff.github.io by bbenchoff
- - [https://bbenchoff.github.io](https://bbenchoff.github.io)
- - date published: 2023-10-25T19:44:25.478476+00:00
- - user: None
- - tags: []
-
-## Gradient Descent into Madness - Posts
- - [https://bclarkson-code.github.io](https://bclarkson-code.github.io)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## belkarx
- - [https://belkarx.github.io](https://belkarx.github.io)
- - date published: 2023-10-25T19:44:26.810910+00:00
  - user: None
  - tags: []
 

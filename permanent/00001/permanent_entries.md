@@ -1362,6 +1362,12 @@
  - user: None
  - tags: []
 
+## White Rabbit Official CERN website
+ - [https://white-rabbit.web.cern.ch](https://white-rabbit.web.cern.ch)
+ - date published: 2024-03-17T14:55:48.451771+00:00
+ - user: None
+ - tags: []
+
 ## CERN 2019 WorldWideWeb Rebuild
  - [https://worldwideweb.cern.ch](https://worldwideweb.cern.ch)
  - date published: 2023-10-25T12:13:10.879188+00:00
@@ -1767,6 +1773,12 @@
 ## Libera Chat
  - [https://libera.chat](https://libera.chat)
  - date published: 2023-10-25T08:32:43.884000+00:00
+ - user: None
+ - tags: []
+
+## Kiwi IRC
+ - [https://web.libera.chat](https://web.libera.chat)
+ - date published: 2024-03-17T19:26:18.447690+00:00
  - user: None
  - tags: []
 
@@ -2220,6 +2232,12 @@
  - user: None
  - tags: []
 
+## Altered States of Monetary Consciousness | Brett Scott | Substack
+ - [https://www.asomo.co](https://www.asomo.co)
+ - date published: 2024-03-17T18:21:00.474000+00:00
+ - user: None
+ - tags: []
+
 ## Atlas: GIS & Maps in the Browser
  - [https://atlas.co](https://atlas.co)
  - date published: 2024-01-09T00:00:00+00:00
@@ -2242,7 +2260,7 @@
  - [https://badegg.co](https://badegg.co)
  - date published: 2024-02-08T21:38:49.262045+00:00
  - user: None
- - tags: []
+ - tags: ['comics publisher']
 
 ## ChatLLaMA – A ChatGPT style chatbot for Facebook's LLaMA
  - [https://chatllama.baseten.co](https://chatllama.baseten.co)
@@ -5983,22 +6001,4 @@
  - date published: 2024-01-12T16:07:48.804677+00:00
  - user: None
  - tags: []
-
-## Alex Panagis | Entrepreneur, SaaS Operator & Investor
- - [https://alexjpanagis.com](https://alexjpanagis.com)
- - date published: 2024-01-13T18:26:31.067280+00:00
- - user: None
- - tags: []
-
-## Alex Kutas blog
- - [https://alexkutas.com](https://alexkutas.com)
- - date published: 2024-02-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Alex Meub
- - [https://alexmeub.com](https://alexmeub.com)
- - date published: 2023-10-25T09:04:24.113928+00:00
- - user: None
- - tags: ['personal']
 

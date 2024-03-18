@@ -1,3 +1,81 @@
+## James Shore: The Art of Agile
+ - [https://www.jamesshore.com](https://www.jamesshore.com)
+ - date published: 2023-10-25T15:26:33.238659+00:00
+ - user: None
+ - tags: []
+
+## James Stuber
+ - [https://jamesstuber.com](https://jamesstuber.com)
+ - date published: 2023-11-29T17:14:55.177871+00:00
+ - user: None
+ - tags: ['personal']
+
+## JT Green
+ - [https://www.jamestgreen.com](https://www.jamestgreen.com)
+ - date published: 2023-12-11T10:58:08.109389+00:00
+ - user: None
+ - tags: ['personal']
+
+## James Webb Discovery
+ - [https://www.jameswebbdiscovery.com](https://www.jameswebbdiscovery.com)
+ - date published: 2023-10-25T15:26:43.819893+00:00
+ - user: None
+ - tags: []
+
+## jameswwhite.com
+ - [https://jameswwhite.com](https://jameswwhite.com)
+ - date published: 2024-01-16T23:47:32.314421+00:00
+ - user: None
+ - tags: []
+
+## Personal website | Jamie McHale
+ - [https://jamiemchale.com](https://jamiemchale.com)
+ - date published: 2024-01-24T19:38:04.060312+00:00
+ - user: None
+ - tags: []
+
+## New Home | Marketing and Technology for Coaches, Consultants and Experts | Jamie McKean
+ - [https://jamiemckean.com](https://jamiemckean.com)
+ - date published: 2023-11-29T15:46:24.695168+00:00
+ - user: None
+ - tags: ['personal']
+
+## HOME | jamie-notarthomas
+ - [https://www.jamienotarthomas.com](https://www.jamienotarthomas.com)
+ - date published: 2024-02-08T22:24:29.890187+00:00
+ - user: None
+ - tags: []
+
+## Jamiroquai | Official Website
+ - [https://www.jamiroquai.com](https://www.jamiroquai.com)
+ - date published: 2023-11-13T10:36:27.517504+00:00
+ - user: None
+ - tags: ['music band']
+
+## Jamon Holmgren's Personal Website
+ - [https://jamonholmgren.com](https://jamonholmgren.com)
+ - date published: 2023-11-29T19:26:51.788492+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jamsheed Master
+ - [https://jamsheedmaster.com](https://jamsheedmaster.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['personal']
+
+## Jamsocket
+ - [https://jamsocket.com](https://jamsocket.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Jane Friedman | Reporting on the Publishing Industry
+ - [https://janefriedman.com](https://janefriedman.com)
+ - date published: 2023-10-25T15:26:46.348517+00:00
+ - user: None
+ - tags: []
+
 ## Janelle Holden
  - [https://www.janelleholden.com](https://www.janelleholden.com)
  - date published: 2024-01-04T22:43:13.537350+00:00
@@ -2181,6 +2259,12 @@
  - date published: 2024-03-14T22:07:04.370256+00:00
  - user: None
  - tags: ['israel news']
+
+## Home - J Wolfgang Goerlich
+ - [https://jwgoerlich.com](https://jwgoerlich.com)
+ - date published: 2024-03-17T07:05:42.106657+00:00
+ - user: None
+ - tags: []
 
 ## jwjacobs.com | Front-End Web Designer
  - [https://jwjacobs.com](https://jwjacobs.com)
@@ -5915,88 +5999,4 @@ Chamber Music, Symphony
  - date published: 2023-10-25T10:10:25.617283+00:00
  - user: None
  - tags: []
-
-## Live Soccer TV - Online Streaming and TV Listings, Live Football Scores, Fixtures, Tables, Results, News, Pubs and Video Highlights
- - [https://www.livesoccertv.com](https://www.livesoccertv.com)
- - date published: 2024-03-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Livetraker - The Best Software for Live Bands
- - [https://livetraker.com](https://livetraker.com)
- - date published: 2023-10-28T18:51:58.277300+00:00
- - user: None
- - tags: ['tracker music']
-
-## LiveTyper
- - [https://livetyper.com](https://livetyper.com)
- - date published: 2023-10-25T15:48:53.001215+00:00
- - user: None
- - tags: []
-
-## Private Site
- - [https://lizakateboisineau.com](https://lizakateboisineau.com)
- - date published: 2023-11-29T14:41:18.211485+00:00
- - user: None
- - tags: ['personal']
-
-## Home - Lizardcube
- - [https://www.lizardcube.com](https://www.lizardcube.com)
- - date published: 2024-01-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## unknown8bit
- - [http://lizdizon.com](http://lizdizon.com)
- - date published: 2023-12-11T18:35:10.614125+00:00
- - user: None
- - tags: []
-
-## Liz Foreman, Digital Content Manager - Personal website
- - [https://lizforeman.com](https://lizforeman.com)
- - date published: 2024-01-10T18:10:52.751002+00:00
- - user: None
- - tags: []
-
-## News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, Kansas
- - [https://www2.ljworld.com](https://www2.ljworld.com)
- - date published: 2023-10-25T15:48:55.622762+00:00
- - user: None
- - tags: []
-
-## LLMonitor Benchmarks
- - [https://benchmarks.llmonitor.com](https://benchmarks.llmonitor.com)
- - date published: 2023-10-25T15:48:57.001391+00:00
- - user: None
- - tags: []
-
-## LoaderShip
- - [https://www.loadership.com](https://www.loadership.com)
- - date published: 2024-01-19T08:47:14.424793+00:00
- - user: None
- - tags: []
-
-## WPLG Local 10 | Miami News, Fort Lauderdale News, Weather | Local10.com
- - [https://www.local10.com](https://www.local10.com)
- - date published: 2023-10-25T15:49:04.332840+00:00
- - user: None
- - tags: []
-
-## Find the Best Offer - LocalBitcoins
- - [https://localbitcoins.com](https://localbitcoins.com)
- - date published: 2023-10-25T15:49:07.190897+00:00
- - user: None
- - tags: []
-
-## LocalCan™ - HTTPS domains for localhost and wi-fi network
- - [https://www.localcan.com](https://www.localcan.com)
- - date published: 2023-10-25T15:49:08.332866+00:00
- - user: None
- - tags: []
-
-## Local Fit Seattle | Capitol Hill Personal Trainers & Fitness Classes
- - [https://www.localfitseattle.com](https://www.localfitseattle.com)
- - date published: 2023-12-11T10:57:02.607825+00:00
- - user: None
- - tags: ['personal']
 

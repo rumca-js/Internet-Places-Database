@@ -1,3 +1,249 @@
+## Declassified Australia
+ - [https://declassifiedaus.org](https://declassifiedaus.org)
+ - date published: 2023-10-25T21:13:35.111668+00:00
+ - user: None
+ - tags: []
+
+## Declassified UK
+ - [https://www.declassifieduk.org](https://www.declassifieduk.org)
+ - date published: 2024-01-15T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DECRUNCH 2024 demoparty. May 17th-19th, 2023. Czasoprzestrzeń, Tramwajowa 1-3, Wroclaw
+ - [https://decrunch.org](https://decrunch.org)
+ - date published: 2023-12-11T17:38:11.237785+00:00
+ - user: None
+ - tags: []
+
+## DECUServe on-line
+ - [https://eisner.decus.org](https://eisner.decus.org)
+ - date published: 2023-11-18T11:29:46.509000+00:00
+ - user: None
+ - tags: []
+
+## De-Dollarization Facts: Up-To-Date Facts About The U.S. Dollar In The World
+ - [https://www.de-dollarization.org](https://www.de-dollarization.org)
+ - date published: 2023-10-25T21:13:07.530962+00:00
+ - user: None
+ - tags: []
+
+## deepin  - 基于Linux的开源国产操作系统
+ - [https://www.deepin.org](https://www.deepin.org)
+ - date published: 2023-11-06T10:10:58.272990+00:00
+ - user: None
+ - tags: ['operating system', 'linux']
+
+## Welcome to the Deep State Blog
+ - [https://www.deepstateblog.org](https://www.deepstateblog.org)
+ - date published: 2023-10-25T21:13:44.064425+00:00
+ - user: None
+ - tags: []
+
+## Deep Synoptic Array (DSA)
+ - [https://www.deepsynoptic.org](https://www.deepsynoptic.org)
+ - date published: 2023-10-25T21:13:47.752146+00:00
+ - user: None
+ - tags: []
+
+## DEF CON Hacking Conference Home
+ - [https://defcon.org](https://defcon.org)
+ - date published: 2024-02-05T09:21:34+00:00
+ - user: rumpel
+ - tags: ['hacking', 'conference', 'community event']
+
+## forum.defcon.org
+ - [https://forum.defcon.org](https://forum.defcon.org)
+ - date published: 2024-02-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The DEF CON® Media Server - Archives of the conferences
+ - [https://media.defcon.org](https://media.defcon.org)
+ - date published: 2024-02-05T19:19:52.136849+00:00
+ - user: None
+ - tags: ['hacking']
+
+## DEF CON merchandise shop
+ - [https://shop.defcon.org](https://shop.defcon.org)
+ - date published: 2024-02-05T17:23:18.325780+00:00
+ - user: None
+ - tags: []
+
+## DEF CON Security Training
+ - [https://training.defcon.org](https://training.defcon.org)
+ - date published: 2024-02-05T17:23:16.947188+00:00
+ - user: None
+ - tags: []
+
+## forum.defcon.org
+ - [https://defcongroups.org](https://defcongroups.org)
+ - date published: 2024-02-05T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DÃ©googlisons Internet - Accueil
+ - [https://degooglisons-internet.org](https://degooglisons-internet.org)
+ - date published: 2024-02-27T12:44:55+00:00
+ - user: rumpel
+ - tags: ['degoogle']
+
+## Deja Vu: (re-)creating web history
+ - [https://www.dejavu.org](https://www.dejavu.org)
+ - date published: 2023-10-25T21:13:58.736177+00:00
+ - user: None
+ - tags: ['web1', 'classic web']
+
+## None
+ - [http://www.deliancourt.org](http://www.deliancourt.org)
+ - date published: 2024-02-15T22:11:45.333828+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Democracy Now! | Democracy Now!
+ - [https://www.democracynow.org](https://www.democracynow.org)
+ - date published: 2023-10-25T21:14:03.352030+00:00
+ - user: None
+ - tags: []
+
+## We are the Democratic Party - Democrats
+ - [https://democrats.org](https://democrats.org)
+ - date published: 2023-12-19T13:57:50.412077+00:00
+ - user: None
+ - tags: []
+
+## The blog at the bottom of the sea « Programming, Graphics, Gamedev, Exotic Computation, Audio Synthesis
+ - [https://blog.demofox.org](https://blog.demofox.org)
+ - date published: 2023-10-25T21:14:10.363138+00:00
+ - user: None
+ - tags: []
+
+## Demozoo
+ - [https://demozoo.org](https://demozoo.org)
+ - date published: 2023-10-27T14:46:20.722956+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## design manifestos .org
+ - [https://designmanifestos.org](https://designmanifestos.org)
+ - date published: 2024-01-09T13:36:18+00:00
+ - user: rumpel
+ - tags: ['manifesto', 'desgin']
+
+## Policy Experts Advocating for Developers | Developers Alliance
+ - [https://developersalliance.org](https://developersalliance.org)
+ - date published: 2023-12-29T18:50:24.565985+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://luc.devroye.org](https://luc.devroye.org)
+ - date published: 2023-12-29T00:51:34.131174+00:00
+ - user: None
+ - tags: []
+
+## DevTools Tips
+ - [https://devtoolstips.org](https://devtoolstips.org)
+ - date published: 2023-10-25T21:14:12.309236+00:00
+ - user: None
+ - tags: []
+
+## DFRLab - DFRLab
+ - [https://dfrlab.org](https://dfrlab.org)
+ - date published: 2023-10-25T21:14:16.103433+00:00
+ - user: None
+ - tags: []
+
+## Home - The DiaMon Workgroup
+ - [https://diamon.org](https://diamon.org)
+ - date published: 2019-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DIEGO  VERA
+ - [https://www.diegovera.org](https://www.diegovera.org)
+ - date published: 2023-10-25T21:14:18.082525+00:00
+ - user: None
+ - tags: []
+
+## diffoscope: in-depth comparison of files, archives, and directories
+ - [https://diffoscope.org](https://diffoscope.org)
+ - date published: 2023-10-25T21:14:19.698212+00:00
+ - user: None
+ - tags: []
+
+## Digitopoly
+ - [https://digitopoly.org](https://digitopoly.org)
+ - date published: 2024-03-08T07:39:42.709408+00:00
+ - user: None
+ - tags: []
+
+## Dinosaur Images & Facts - The Online Database
+ - [https://dinosaurpictures.org](https://dinosaurpictures.org)
+ - date published: 2023-10-25T21:14:21.679378+00:00
+ - user: None
+ - tags: []
+
+## https://dirtyprosecutor.org
+ - [https://dirtyprosecutor.org](https://dirtyprosecutor.org)
+ - date published: 2024-01-09T03:38:55.288541+00:00
+ - user: None
+ - tags: []
+
+## Discourse is the place to build civilized communities | Discourse - Civilized Discussion
+ - [https://discourse.org](https://discourse.org)
+ - date published: 2023-10-25T21:14:25.105642+00:00
+ - user: None
+ - tags: []
+
+## distcc: a fast, free distributed C/C++ compiler
+ - [https://www.distcc.org](https://www.distcc.org)
+ - date published: 2023-10-25T21:14:26.079192+00:00
+ - user: None
+ - tags: []
+
+## Simple search
+ - [https://sh.diva-portal.org](https://sh.diva-portal.org)
+ - date published: 2023-10-25T21:14:32.161650+00:00
+ - user: None
+ - tags: []
+
+## Simple search
+ - [https://uu.diva-portal.org](https://uu.diva-portal.org)
+ - date published: 2023-10-25T21:14:33.208064+00:00
+ - user: None
+ - tags: []
+
+## Home - DivestOS Mobile
+ - [https://divestos.org](https://divestos.org)
+ - date published: 2023-10-25T21:14:34.497389+00:00
+ - user: None
+ - tags: []
+
+## Django Packages : Reusable apps, sites and tools directory for Django
+ - [https://djangopackages.org](https://djangopackages.org)
+ - date published: 2023-10-25T21:14:37.143169+00:00
+ - user: None
+ - tags: []
+
+## Home - Django REST framework
+ - [https://www.django-rest-framework.org](https://www.django-rest-framework.org)
+ - date published: 2024-03-17T09:25:42.979012+00:00
+ - user: None
+ - tags: []
+
+## DJ Food | An online scrapbook by Strictly Kev aka DJ Food & Openmind.
+ - [https://www.djfood.org](https://www.djfood.org)
+ - date published: 2023-10-25T21:14:43.286931+00:00
+ - user: None
+ - tags: []
+
+## Home - D Programming Language
+ - [https://dlang.org](https://dlang.org)
+ - date published: 2023-10-25T21:14:45.334948+00:00
+ - user: None
+ - tags: []
+
 ## Index - D Programming Language Discussion Forum
  - [https://forum.dlang.org](https://forum.dlang.org)
  - date published: 2023-10-25T21:14:51.989473+00:00
@@ -227,16 +473,16 @@
  - tags: []
 
 ## Kohina Web Player
- - [http://kohina.duckdns.org](http://kohina.duckdns.org)
- - date published: 2024-02-11T14:38:28.495727+00:00
- - user: None
- - tags: []
-
-## Kohina Web Player
  - [https://kohina.duckdns.org](https://kohina.duckdns.org)
  - date published: 2024-02-15T22:13:24.519956+00:00
  - user: None
  - tags: ['demoscene']
+
+## Kohina Web Player
+ - [http://kohina.duckdns.org](http://kohina.duckdns.org)
+ - date published: 2024-02-11T14:38:28.495727+00:00
+ - user: None
+ - tags: []
 
 ## Duck DNS
  - [https://www.duckdns.org](https://www.duckdns.org)
@@ -718,15 +964,15 @@
  - user: None
  - tags: []
 
-## Thib's Home
- - [https://ergaster.org](https://ergaster.org)
- - date published: 2023-10-25T21:18:23.232043+00:00
- - user: None
- - tags: []
-
 ## Ergaster
  - [http://ergaster.org](http://ergaster.org)
  - date published: 2024-02-26T14:07:11.647181+00:00
+ - user: None
+ - tags: []
+
+## Thib's Home
+ - [https://ergaster.org](https://ergaster.org)
+ - date published: 2023-10-25T21:18:23.232043+00:00
  - user: None
  - tags: []
 
@@ -1877,16 +2123,16 @@
  - tags: []
 
 ## Gamesboro Radio
- - [https://radio.gamesboro.org](https://radio.gamesboro.org)
- - date published: 2024-02-15T22:13:54.975381+00:00
- - user: None
- - tags: ['demoscene']
-
-## Gamesboro Radio
  - [http://radio.gamesboro.org](http://radio.gamesboro.org)
  - date published: 2024-02-15T02:00:21.565467+00:00
  - user: None
  - tags: []
+
+## Gamesboro Radio
+ - [https://radio.gamesboro.org](https://radio.gamesboro.org)
+ - date published: 2024-02-15T22:13:54.975381+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Gamesboro Shoutcast
  - [http://shoutcast.gamesboro.org](http://shoutcast.gamesboro.org)
@@ -3302,6 +3548,12 @@
  - user: None
  - tags: []
 
+## WSC Archive
+ - [https://www.informs-sim.org](https://www.informs-sim.org)
+ - date published: 2023-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Infrequently Noted
  - [https://infrequently.org](https://infrequently.org)
  - date published: 2023-10-25T21:31:56.492851+00:00
@@ -3321,16 +3573,16 @@
  - tags: []
 
 ## Draw Freely | Inkscape
- - [http://www.inkscape.org](http://www.inkscape.org)
- - date published: 2024-02-26T09:27:07.298333+00:00
- - user: None
- - tags: []
-
-## Draw Freely | Inkscape
  - [https://www.inkscape.org](https://www.inkscape.org)
  - date published: 2023-12-12T09:13:16+00:00
  - user: None
  - tags: ['vector graphics']
+
+## Draw Freely | Inkscape
+ - [http://www.inkscape.org](http://www.inkscape.org)
+ - date published: 2024-02-26T09:27:07.298333+00:00
+ - user: None
+ - tags: []
 
 ## Ink/Stitch: An open-source machine embroidery design platform based on Inkscape
  - [https://inkstitch.org](https://inkstitch.org)
@@ -4260,16 +4512,16 @@ Hosted by Panix.com.
  - tags: []
 
 ## KEXP 90.3 FM - Where the Music Matters
- - [https://kexp.org](https://kexp.org)
- - date published: 2024-01-22T12:40:00+00:00
- - user: rumpel
- - tags: ['radio', 'music']
-
-## KEXP 90.3 FM - Where the Music Matters
  - [http://kexp.org](http://kexp.org)
  - date published: 2024-02-22T16:55:15.353701+00:00
  - user: None
  - tags: []
+
+## KEXP 90.3 FM - Where the Music Matters
+ - [https://kexp.org](https://kexp.org)
+ - date published: 2024-01-22T12:40:00+00:00
+ - user: rumpel
+ - tags: ['radio', 'music']
 
 ## Key to Harmony Online Al-Anon Meeting
  - [https://www.keytoharmony.org](https://www.keytoharmony.org)
@@ -5751,261 +6003,6 @@ Hosted by Panix.com.
 ## Manifesto for Minimalist Software Engineers
  - [https://minifesto.org](https://minifesto.org)
  - date published: 2024-01-09T03:41:45.036036+00:00
- - user: None
- - tags: []
-
-## Minifree Ltd – GNU+Linux laptops with Libreboot preinstalled, based on coreboot
- - [https://minifree.org](https://minifree.org)
- - date published: 2023-10-25T21:43:09.325144+00:00
- - user: None
- - tags: []
-
-## We champion the writer in every child - Ministry of Stories
- - [https://ministryofstories.org](https://ministryofstories.org)
- - date published: 2023-10-30T10:55:17.609587+00:00
- - user: None
- - tags: ['community']
-
-## git.minix3.org Git
- - [https://git.minix3.org](https://git.minix3.org)
- - date published: 2023-10-25T21:43:12.370760+00:00
- - user: None
- - tags: []
-
-## MiniZinc
- - [https://www.minizinc.org](https://www.minizinc.org)
- - date published: 2023-10-25T21:43:16.189696+00:00
- - user: None
- - tags: []
-
-## 100% free, ad-free wikis, request yours today! - Miraheze
- - [https://meta.miraheze.org](https://meta.miraheze.org)
- - date published: 2023-10-25T21:43:20.077625+00:00
- - user: None
- - tags: []
-
-## Mission Local: local news for a global city | San Francisco, CA
- - [https://missionlocal.org](https://missionlocal.org)
- - date published: 2023-10-25T21:43:31.496412+00:00
- - user: None
- - tags: []
-
-## Mississippi Free Press - Solutions Journalism - Beyond Partisanship
- - [https://www.mississippifreepress.org](https://www.mississippifreepress.org)
- - date published: 2023-12-13T01:19:16.375937+00:00
- - user: None
- - tags: []
-
-## MIT Admissions
- - [https://mitadmissions.org](https://mitadmissions.org)
- - date published: 2023-10-25T21:43:35.721118+00:00
- - user: None
- - tags: []
-
-## mitmproxy - an interactive HTTPS proxy
- - [https://mitmproxy.org](https://mitmproxy.org)
- - date published: 2023-10-25T21:43:42.450770+00:00
- - user: None
- - tags: []
-
-## CVE -
-
-CVE
- - [https://cve.mitre.org](https://cve.mitre.org)
- - date published: 2023-10-25T21:43:44.813392+00:00
- - user: None
- - tags: []
-
-## CWE - 
-Common Weakness Enumeration
- - [https://cwe.mitre.org](https://cwe.mitre.org)
- - date published: 2023-10-25T21:43:47.269871+00:00
- - user: None
- - tags: []
-
-## Maine Indian Tribal-State Commission
- - [https://www.mitsc.org](https://www.mitsc.org)
- - date published: 2023-11-07T15:22:54.544635+00:00
- - user: None
- - tags: []
-
-## Welcome to MkLinux.org
- - [https://mklinux.org](https://mklinux.org)
- - date published: 2024-01-09T03:41:47.847919+00:00
- - user: None
- - tags: []
-
-## Blog | Minglemangle Of Mymind
- - [https://www.mmomm.org](https://www.mmomm.org)
- - date published: 2023-12-20T14:33:01.924588+00:00
- - user: None
- - tags: ['personal']
-
-## Tom's Home Page
- - [http://cholla.mmto.org](http://cholla.mmto.org)
- - date published: 2023-10-27T12:06:43.535423+00:00
- - user: None
- - tags: []
-
-## Mobian's Blog
- - [https://blog.mobian.org](https://blog.mobian.org)
- - date published: 2023-10-25T21:44:05.166649+00:00
- - user: None
- - tags: []
-
-## The Mod Archive v4.0b - A distinctive collection of modules
- - [http://modarchive.org](http://modarchive.org)
- - date published: 2024-02-15T01:59:58.310157+00:00
- - user: None
- - tags: []
-
-## The Mod Archive v4.0b - A distinctive collection of modules
- - [https://modarchive.org](https://modarchive.org)
- - date published: 2023-10-28T19:01:07.809021+00:00
- - user: None
- - tags: ['chiptune', 'keygen', 'demoscene']
-
-## mojo.js - JavaScript real-time web framework
- - [https://mojojs.org](https://mojojs.org)
- - date published: 2023-10-25T21:44:11.865057+00:00
- - user: None
- - tags: []
-
-## https://www.moma.org
- - [https://www.moma.org](https://www.moma.org)
- - date published: 2023-10-25T21:44:12.528195+00:00
- - user: None
- - tags: []
-
-## Monkeynoodle.Org – A Scientific Venture!
- - [https://monkeynoodle.org](https://monkeynoodle.org)
- - date published: 2023-10-25T21:44:16.728817+00:00
- - user: None
- - tags: []
-
-## Monoskop
- - [https://monoskop.org](https://monoskop.org)
- - date published: 2023-11-07T15:23:03.904739+00:00
- - user: None
- - tags: []
-
-## Monthly Review | An Independent Socialist Magazine
- - [https://monthlyreview.org](https://monthlyreview.org)
- - date published: 2023-10-25T21:44:28.453577+00:00
- - user: None
- - tags: []
-
-## Home | Moodle.org
- - [https://moodle.org](https://moodle.org)
- - date published: 2023-10-25T21:44:33.671005+00:00
- - user: None
- - tags: []
-
-## In Event of Moon Disaster
- - [https://moondisaster.org](https://moondisaster.org)
- - date published: 2023-10-25T21:44:36.544360+00:00
- - user: None
- - tags: []
-
-## Home - Gordon and Betty Moore Foundation
- - [https://www.moore.org](https://www.moore.org)
- - date published: 2023-10-25T21:44:45.883763+00:00
- - user: None
- - tags: []
-
-## Morgan Holland's Blog
- - [https://morgz.org](https://morgz.org)
- - date published: 2024-01-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Mosh: the mobile shell
- - [https://mosh.org](https://mosh.org)
- - date published: 2023-10-25T21:44:49.078711+00:00
- - user: None
- - tags: []
-
-## Mount Sinai Health System - New York City |  Mount Sinai - New York
- - [https://www.mountsinai.org](https://www.mountsinai.org)
- - date published: 2023-12-22T14:34:57.308807+00:00
- - user: None
- - tags: []
-
-## Mount Washington Observatory - Mount Washington Observatory
- - [https://mountwashington.org](https://mountwashington.org)
- - date published: 2024-01-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Mount Washington Observatory - Mount Washington Observatory
- - [https://www.mountwashington.org](https://www.mountwashington.org)
- - date published: 2023-10-25T21:44:53.270678+00:00
- - user: None
- - tags: []
-
-## None
- - [https://mikhailian.mova.org](https://mikhailian.mova.org)
- - date published: 2023-12-29T09:45:44.954442+00:00
- - user: None
- - tags: []
-
-## Movetodon: Find your Twitter Friends on Mastodon
- - [https://movetodon.org](https://movetodon.org)
- - date published: 2023-10-25T21:44:54.599883+00:00
- - user: None
- - tags: []
-
-## Moxie Marlinspike >> About
- - [https://moxie.org](https://moxie.org)
- - date published: 2023-10-25T21:44:56.078354+00:00
- - user: None
- - tags: []
-
-## Add-ons for Firefox (en-US)
- - [https://addons.mozilla.org](https://addons.mozilla.org)
- - date published: 2023-10-25T09:27:04.184973+00:00
- - user: None
- - tags: ['browser addons', 'browser extensions']
-
-## Home - The Mozilla Blog
- - [https://blog.mozilla.org](https://blog.mozilla.org)
- - date published: 2023-10-25T09:27:06.601346+00:00
- - user: None
- - tags: []
-
-## Bugzilla Main Page
- - [https://bugzilla.mozilla.org](https://bugzilla.mozilla.org)
- - date published: 2023-10-25T09:27:16.128502+00:00
- - user: None
- - tags: []
-
-## Mozilla Common Voice
- - [https://commonvoice.mozilla.org](https://commonvoice.mozilla.org)
- - date published: 2023-12-05T17:06:55.184819+00:00
- - user: None
- - tags: []
-
-## MDN Web Docs
- - [https://developer.mozilla.org](https://developer.mozilla.org)
- - date published: 2023-10-25T09:27:17.722718+00:00
- - user: None
- - tags: []
-
-## Mozilla Foundation - Homepage
- - [https://foundation.mozilla.org](https://foundation.mozilla.org)
- - date published: 2023-10-25T09:27:19.580881+00:00
- - user: None
- - tags: []
-
-## Innovations
- - [https://future.mozilla.org](https://future.mozilla.org)
- - date published: 2023-10-25T09:27:20.433592+00:00
- - user: None
- - tags: []
-
-## Home - Mozilla Hacks - the Web developer blog
- - [https://hacks.mozilla.org](https://hacks.mozilla.org)
- - date published: 2023-10-25T09:27:22.380438+00:00
  - user: None
  - tags: []
 
