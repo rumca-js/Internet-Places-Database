@@ -1,3 +1,39 @@
+## Alex Ewerlöf Notes | Substack
+ - [https://blog.alexewerlof.com](https://blog.alexewerlof.com)
+ - date published: 2023-10-25T12:37:57.734921+00:00
+ - user: None
+ - tags: []
+
+## Alexey needs a Web Presence
+ - [https://alexeymk.com](https://alexeymk.com)
+ - date published: 2023-10-25T12:38:00.320646+00:00
+ - user: None
+ - tags: []
+
+## Alexandru Golovatenco
+ - [https://alexglv.com](https://alexglv.com)
+ - date published: 2023-12-03T09:19:15.087581+00:00
+ - user: None
+ - tags: ['personal']
+
+## Personal website | Alex Harri Jónsson
+ - [https://alexharri.com](https://alexharri.com)
+ - date published: 2023-10-25T12:38:01.183324+00:00
+ - user: None
+ - tags: []
+
+## Alex Hyett | Software Developer | YouTuber | Writer
+ - [https://www.alexhyett.com](https://www.alexhyett.com)
+ - date published: 2023-10-25T12:38:02.282023+00:00
+ - user: None
+ - tags: []
+
+## Sorta Insightful
+ - [https://www.alexirpan.com](https://www.alexirpan.com)
+ - date published: 2024-01-12T16:07:48.804677+00:00
+ - user: None
+ - tags: []
+
 ## Alex Panagis | Entrepreneur, SaaS Operator & Investor
  - [https://alexjpanagis.com](https://alexjpanagis.com)
  - date published: 2024-01-13T18:26:31.067280+00:00
@@ -1612,15 +1648,15 @@
  - user: None
  - tags: []
 
-## List of posts - <antirez>
- - [http://antirez.com](http://antirez.com)
- - date published: 2024-02-25T14:05:17.604190+00:00
- - user: None
- - tags: []
-
 ## None
  - [https://antirez.com](https://antirez.com)
  - date published: 2024-01-02T12:33:10.039907+00:00
+ - user: None
+ - tags: []
+
+## List of posts - <antirez>
+ - [http://antirez.com](http://antirez.com)
+ - date published: 2024-02-25T14:05:17.604190+00:00
  - user: None
  - tags: []
 
@@ -2057,14 +2093,14 @@
  - tags: []
 
 ## * arachnoid.com
- - [http://arachnoid.com](http://arachnoid.com)
- - date published: 2006-10-19T00:00:00+00:00
+ - [https://arachnoid.com](https://arachnoid.com)
+ - date published: 2023-10-25T12:43:42.377144+00:00
  - user: None
  - tags: []
 
 ## * arachnoid.com
- - [https://arachnoid.com](https://arachnoid.com)
- - date published: 2023-10-25T12:43:42.377144+00:00
+ - [http://arachnoid.com](http://arachnoid.com)
+ - date published: 2006-10-19T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5961,40 +5997,4 @@
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
-
-## Cererean Scratchpad
- - [https://cerereanscratchpad.blogspot.com](https://cerereanscratchpad.blogspot.com)
- - date published: 2023-10-25T13:05:07.172479+00:00
- - user: None
- - tags: []
-
-## Chez Robert Giron
- - [https://chezrobertgiron.blogspot.com](https://chezrobertgiron.blogspot.com)
- - date published: 2024-02-08T18:16:53.876372+00:00
- - user: None
- - tags: []
-
-## My Sculpture Blog
- - [https://chrisbathgate.blogspot.com](https://chrisbathgate.blogspot.com)
- - date published: 2024-03-13T15:24:19.127608+00:00
- - user: None
- - tags: []
-
-## ClubOrlov
- - [https://cluborlov.blogspot.com](https://cluborlov.blogspot.com)
- - date published: 2024-02-24T18:23:30.664125+00:00
- - user: None
- - tags: []
-
-## Coding And Computers
- - [https://coding-and-computers.blogspot.com](https://coding-and-computers.blogspot.com)
- - date published: 2023-10-25T09:06:35.597530+00:00
- - user: None
- - tags: ['personal']
-
-## command center
- - [https://commandcenter.blogspot.com](https://commandcenter.blogspot.com)
- - date published: 2023-10-25T09:06:37.426358+00:00
- - user: None
- - tags: ['personal']
 

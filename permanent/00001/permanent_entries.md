@@ -1,3 +1,33 @@
+## Daniel P. Gross
+ - [https://dgross.ca](https://dgross.ca)
+ - date published: 2023-10-25T09:02:15.935166+00:00
+ - user: None
+ - tags: ['personal']
+
+## Driving
+ - [https://driving.ca](https://driving.ca)
+ - date published: 2023-11-02T22:48:04.515862+00:00
+ - user: None
+ - tags: []
+
+## eContact!
+ - [https://econtact.ca](https://econtact.ca)
+ - date published: 2023-10-25T12:09:30.076113+00:00
+ - user: None
+ - tags: []
+
+## Evan Jones - Software Engineer | Computer Scientist
+ - [https://www.evanjones.ca](https://www.evanjones.ca)
+ - date published: 2023-10-25T12:04:49.962005+00:00
+ - user: None
+ - tags: []
+
+## Eventbrite
+ - [https://www.eventbrite.ca](https://www.eventbrite.ca)
+ - date published: 2024-02-24T18:11:15.206135+00:00
+ - user: None
+ - tags: []
+
 ## ferd.ca
  - [https://ferd.ca](https://ferd.ca)
  - date published: 2023-10-25T12:04:53.238516+00:00
@@ -107,13 +137,13 @@
  - tags: []
 
 ## iter.ca
- - [https://iter.ca](https://iter.ca)
+ - [http://iter.ca](http://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## iter.ca
- - [http://iter.ca](http://iter.ca)
+ - [https://iter.ca](https://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -3390,6 +3420,12 @@
  - user: None
  - tags: []
 
+## Tom Hipwell | Tom Hipwell
+ - [https://tomhipwell.co](https://tomhipwell.co)
+ - date published: 2024-03-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Touchlab: The KMP Industry Leader
  - [https://touchlab.co](https://touchlab.co)
  - date published: 2023-10-25T11:26:55.275117+00:00
@@ -5963,42 +5999,6 @@
 ## Alex DeCapri – Human Being
  - [https://alexdecapri.com](https://alexdecapri.com)
  - date published: 2024-01-17T04:44:04.090106+00:00
- - user: None
- - tags: []
-
-## Alex Ewerlöf Notes | Substack
- - [https://blog.alexewerlof.com](https://blog.alexewerlof.com)
- - date published: 2023-10-25T12:37:57.734921+00:00
- - user: None
- - tags: []
-
-## Alexey needs a Web Presence
- - [https://alexeymk.com](https://alexeymk.com)
- - date published: 2023-10-25T12:38:00.320646+00:00
- - user: None
- - tags: []
-
-## Alexandru Golovatenco
- - [https://alexglv.com](https://alexglv.com)
- - date published: 2023-12-03T09:19:15.087581+00:00
- - user: None
- - tags: ['personal']
-
-## Personal website | Alex Harri Jónsson
- - [https://alexharri.com](https://alexharri.com)
- - date published: 2023-10-25T12:38:01.183324+00:00
- - user: None
- - tags: []
-
-## Alex Hyett | Software Developer | YouTuber | Writer
- - [https://www.alexhyett.com](https://www.alexhyett.com)
- - date published: 2023-10-25T12:38:02.282023+00:00
- - user: None
- - tags: []
-
-## Sorta Insightful
- - [https://www.alexirpan.com](https://www.alexirpan.com)
- - date published: 2024-01-12T16:07:48.804677+00:00
  - user: None
  - tags: []
 

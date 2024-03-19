@@ -1,3 +1,39 @@
+## Cererean Scratchpad
+ - [https://cerereanscratchpad.blogspot.com](https://cerereanscratchpad.blogspot.com)
+ - date published: 2023-10-25T13:05:07.172479+00:00
+ - user: None
+ - tags: []
+
+## Chez Robert Giron
+ - [https://chezrobertgiron.blogspot.com](https://chezrobertgiron.blogspot.com)
+ - date published: 2024-02-08T18:16:53.876372+00:00
+ - user: None
+ - tags: []
+
+## My Sculpture Blog
+ - [https://chrisbathgate.blogspot.com](https://chrisbathgate.blogspot.com)
+ - date published: 2024-03-13T15:24:19.127608+00:00
+ - user: None
+ - tags: []
+
+## ClubOrlov
+ - [https://cluborlov.blogspot.com](https://cluborlov.blogspot.com)
+ - date published: 2024-02-24T18:23:30.664125+00:00
+ - user: None
+ - tags: []
+
+## Coding And Computers
+ - [https://coding-and-computers.blogspot.com](https://coding-and-computers.blogspot.com)
+ - date published: 2023-10-25T09:06:35.597530+00:00
+ - user: None
+ - tags: ['personal']
+
+## command center
+ - [https://commandcenter.blogspot.com](https://commandcenter.blogspot.com)
+ - date published: 2023-10-25T09:06:37.426358+00:00
+ - user: None
+ - tags: ['personal']
+
 ## None
  - [https://concurrencyfreaks.blogspot.com](https://concurrencyfreaks.blogspot.com)
  - date published: 2024-01-09T02:30:50.690047+00:00
@@ -317,14 +353,14 @@
  - tags: []
 
 ## Kiwi Hellenist
- - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
- - date published: 2023-11-28T20:46:36.488371+00:00
+ - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Kiwi Hellenist
- - [http://kiwihellenist.blogspot.com](http://kiwihellenist.blogspot.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://kiwihellenist.blogspot.com](https://kiwihellenist.blogspot.com)
+ - date published: 2023-11-28T20:46:36.488371+00:00
  - user: None
  - tags: []
 
@@ -1243,14 +1279,14 @@
  - tags: ['books']
 
 ## Bookreporter.com |
- - [https://www.bookreporter.com](https://www.bookreporter.com)
- - date published: 2023-11-07T16:06:19.097099+00:00
+ - [http://www.bookreporter.com](http://www.bookreporter.com)
+ - date published: 2024-03-01T19:06:27.394328+00:00
  - user: None
  - tags: []
 
 ## Bookreporter.com |
- - [http://www.bookreporter.com](http://www.bookreporter.com)
- - date published: 2024-03-01T19:06:27.394328+00:00
+ - [https://www.bookreporter.com](https://www.bookreporter.com)
+ - date published: 2023-11-07T16:06:19.097099+00:00
  - user: None
  - tags: []
 
@@ -2668,7 +2704,7 @@
  - [https://calicogoodrich.com](https://calicogoodrich.com)
  - date published: 2024-01-07T22:19:51+00:00
  - user: rumpel
- - tags: ['personal']
+ - tags: []
 
 ## California18
  - [https://california18.com](https://california18.com)
@@ -5972,42 +6008,6 @@
 ## AOL is part of the Yahoo family of brands
  - [https://www.compuserve.com](https://www.compuserve.com)
  - date published: 2023-10-25T13:32:28.259728+00:00
- - user: None
- - tags: []
-
-## Computational Audiology Computational Audiology - Computational Audiology
- - [https://computationalaudiology.com](https://computationalaudiology.com)
- - date published: 2023-10-25T13:32:34.981402+00:00
- - user: None
- - tags: []
-
-## 504 Gateway Time-out
- - [https://computerengineeringforbabies.com](https://computerengineeringforbabies.com)
- - date published: 2024-01-18T00:14:10.718483+00:00
- - user: None
- - tags: []
-
-## Computer, Enhance! | Casey Muratori | Substack
- - [https://www.computerenhance.com](https://www.computerenhance.com)
- - date published: 2023-10-25T13:32:39.542030+00:00
- - user: None
- - tags: []
-
-## Computer Weekly | Information Technology (IT) News, UK IT Jobs, Industry News
- - [https://www.computerweekly.com](https://www.computerweekly.com)
- - date published: 2023-10-25T13:32:49.374619+00:00
- - user: None
- - tags: []
-
-## IT news, careers, business technology, reviews | Computerworld
- - [https://www.computerworld.com](https://www.computerworld.com)
- - date published: 2023-10-25T09:32:24.152677+00:00
- - user: None
- - tags: []
-
-## IT news, careers, business technology, reviews
- - [http://www.computerworld.com](http://www.computerworld.com)
- - date published: 2024-02-25T19:22:09.150165+00:00
  - user: None
  - tags: []
 

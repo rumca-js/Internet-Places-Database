@@ -1,3 +1,39 @@
+## Computational Audiology Computational Audiology - Computational Audiology
+ - [https://computationalaudiology.com](https://computationalaudiology.com)
+ - date published: 2023-10-25T13:32:34.981402+00:00
+ - user: None
+ - tags: []
+
+## 504 Gateway Time-out
+ - [https://computerengineeringforbabies.com](https://computerengineeringforbabies.com)
+ - date published: 2024-01-18T00:14:10.718483+00:00
+ - user: None
+ - tags: []
+
+## Computer, Enhance! | Casey Muratori | Substack
+ - [https://www.computerenhance.com](https://www.computerenhance.com)
+ - date published: 2023-10-25T13:32:39.542030+00:00
+ - user: None
+ - tags: []
+
+## Computer Weekly | Information Technology (IT) News, UK IT Jobs, Industry News
+ - [https://www.computerweekly.com](https://www.computerweekly.com)
+ - date published: 2023-10-25T13:32:49.374619+00:00
+ - user: None
+ - tags: []
+
+## IT news, careers, business technology, reviews | Computerworld
+ - [https://www.computerworld.com](https://www.computerworld.com)
+ - date published: 2023-10-25T09:32:24.152677+00:00
+ - user: None
+ - tags: []
+
+## IT news, careers, business technology, reviews
+ - [http://www.computerworld.com](http://www.computerworld.com)
+ - date published: 2024-02-25T19:22:09.150165+00:00
+ - user: None
+ - tags: []
+
 ## Home | Concerning Quality
  - [https://concerningquality.com](https://concerningquality.com)
  - date published: 2024-01-04T17:44:04.642304+00:00
@@ -653,14 +689,14 @@
  - tags: []
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [http://craphound.com](http://craphound.com)
- - date published: 2024-02-25T19:26:24.229621+00:00
+ - [https://craphound.com](https://craphound.com)
+ - date published: 2023-11-28T07:36:32+00:00
  - user: None
  - tags: []
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [https://craphound.com](https://craphound.com)
- - date published: 2023-11-28T07:36:32+00:00
+ - [http://craphound.com](http://craphound.com)
+ - date published: 2024-02-25T19:26:24.229621+00:00
  - user: None
  - tags: []
 
@@ -2849,6 +2885,12 @@
  - user: None
  - tags: []
 
+## DeepDyve - Instant access to the journals you need.
+ - [https://www.deepdyve.com](https://www.deepdyve.com)
+ - date published: 2024-03-18T13:47:49+00:00
+ - user: rumpel
+ - tags: ['journals']
+
 ## Resources and Tools Created to Inspire | Deepgram
  - [https://blog.deepgram.com](https://blog.deepgram.com)
  - date published: 2023-10-25T13:47:45.305982+00:00
@@ -3344,6 +3386,12 @@
 ## Detroit News - Home
  - [https://www.detroitnews.com](https://www.detroitnews.com)
  - date published: 2023-10-25T13:50:38.587182+00:00
+ - user: None
+ - tags: []
+
+## Evidence-based medicine | Deva Boone, MD
+ - [https://www.devaboone.com](https://www.devaboone.com)
+ - date published: 2024-03-18T16:03:48.224318+00:00
  - user: None
  - tags: []
 
@@ -4777,14 +4825,14 @@
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [http://drinkag1.com](http://drinkag1.com)
- - date published: 2024-01-21T19:15:07.982155+00:00
+ - [https://drinkag1.com](https://drinkag1.com)
+ - date published: 2024-02-24T09:55:07.922857+00:00
  - user: None
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [https://drinkag1.com](https://drinkag1.com)
- - date published: 2024-02-24T09:55:07.922857+00:00
+ - [http://drinkag1.com](http://drinkag1.com)
+ - date published: 2024-01-21T19:15:07.982155+00:00
  - user: None
  - tags: []
 
@@ -5166,11 +5214,11 @@
  - user: None
  - tags: []
 
-## https://www.dw.com
+## Deutsche Welle
  - [https://www.dw.com](https://www.dw.com)
- - date published: 2023-10-25T10:26:00.082237+00:00
- - user: None
- - tags: []
+ - date published: 2023-10-25T10:26:00+00:00
+ - user: rumpel
+ - tags: ['german news']
 
 ## Dwarkesh Podcast | Dwarkesh Patel | Substack
  - [https://www.dwarkeshpatel.com](https://www.dwarkeshpatel.com)
@@ -5949,54 +5997,6 @@
 ## Eli Grey
  - [https://eligrey.com](https://eligrey.com)
  - date published: 2024-01-09T08:02:37.232012+00:00
- - user: None
- - tags: []
-
-## https://elihorne.com
- - [https://elihorne.com](https://elihorne.com)
- - date published: 2017-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Welcome - EliminateHQ
- - [https://eliminatehq.com](https://eliminatehq.com)
- - date published: 2024-02-29T22:04:20+00:00
- - user: rumpel
- - tags: ['music artist', 'youtuber']
-
-## COVID in Pixels
- - [https://covid-in-pixels.eliothertenstein.com](https://covid-in-pixels.eliothertenstein.com)
- - date published: 2023-10-25T14:05:25.704625+00:00
- - user: None
- - tags: []
-
-## Elisa Doucette
- - [https://www.elisadoucette.com](https://www.elisadoucette.com)
- - date published: 2023-12-20T00:58:34.049564+00:00
- - user: None
- - tags: ['personal']
-
-## Index
- - [https://eliseshaffer.com](https://eliseshaffer.com)
- - date published: 2023-12-18T22:13:17.426346+00:00
- - user: None
- - tags: []
-
-## Home · Elixir School
- - [https://elixirschool.com](https://elixirschool.com)
- - date published: 2023-12-11T12:32:14+00:00
- - user: rumpel
- - tags: ['tutorials', 'programming', 'courses']
-
-## Elizabeth B. Martin, Author/Illustrator
- - [https://elizabethbmartin.com](https://elizabethbmartin.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Elizabeth Hummel
- - [https://elizabethhummel.com](https://elizabethhummel.com)
- - date published: 2024-01-11T17:10:19.476431+00:00
  - user: None
  - tags: []
 

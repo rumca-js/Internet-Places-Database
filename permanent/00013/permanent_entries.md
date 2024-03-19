@@ -1,3 +1,177 @@
+## T E X T F I L E S D O T C O M
+ - [http://www.textfiles.com](http://www.textfiles.com)
+ - date published: 2023-10-25T17:27:38.764706+00:00
+ - user: None
+ - tags: []
+
+## TextMine: AI powered knowledge base for your business critical documents
+ - [https://textmine.com](https://textmine.com)
+ - date published: 2024-03-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## textshader
+ - [https://textshader.com](https://textshader.com)
+ - date published: 2023-10-25T17:27:39.371628+00:00
+ - user: None
+ - tags: []
+
+## text/plain – ericlaw talks about security, the web, and software in general
+ - [https://textslashplain.com](https://textslashplain.com)
+ - date published: 2023-10-25T17:27:44.879677+00:00
+ - user: None
+ - tags: []
+
+## Text to diagram
+ - [https://text-to-diagram.com](https://text-to-diagram.com)
+ - date published: 2023-10-25T17:27:30.474856+00:00
+ - user: None
+ - tags: []
+
+## Team Fortress 2 Classic
+ - [https://tf2classic.com](https://tf2classic.com)
+ - date published: 2023-10-30T15:18:47.971437+00:00
+ - user: None
+ - tags: ['game mod']
+
+## 502 Bad Gateway
+ - [https://tgrcode.com](https://tgrcode.com)
+ - date published: 2024-01-08T18:34:55.395652+00:00
+ - user: None
+ - tags: []
+
+## Thai PBS World
+ - [https://www.thaipbsworld.com](https://www.thaipbsworld.com)
+ - date published: 2023-11-04T20:48:18.797299+00:00
+ - user: None
+ - tags: []
+
+## Thai Train Guide – The Railways of Thailand by Richard Barrow
+ - [https://www.thaitrainguide.com](https://www.thaitrainguide.com)
+ - date published: 2023-10-25T17:27:49.470333+00:00
+ - user: None
+ - tags: []
+
+## Thales - Building a future we can all trust
+ - [https://www.thalesgroup.com](https://www.thalesgroup.com)
+ - date published: 2023-10-25T17:27:51.414954+00:00
+ - user: None
+ - tags: []
+
+## 3D model community. Search & download free 3D models. Share 3D models
+ - [https://thangs.com](https://thangs.com)
+ - date published: 2023-10-27T10:25:36.186824+00:00
+ - user: None
+ - tags: ['3d printing', 'assets models']
+
+## That Artsy Reader Girl
+ - [https://www.thatartsyreadergirl.com](https://www.thatartsyreadergirl.com)
+ - date published: 2024-01-23T13:37:11+00:00
+ - user: rumpel
+ - tags: ['book reviews']
+
+## Home | That Helpful Dad
+ - [https://thathelpfuldad.com](https://thathelpfuldad.com)
+ - date published: 2023-12-25T17:17:28.701928+00:00
+ - user: None
+ - tags: ['personal']
+
+## The finger, deal with it.
+ - [https://thatsthefinger.com](https://thatsthefinger.com)
+ - date published: 2023-10-27T10:40:28.736495+00:00
+ - user: None
+ - tags: ['wtf']
+
+## Sub Urban
+ - [https://www.thatsuburban.com](https://www.thatsuburban.com)
+ - date published: 2024-02-02T08:37:52+00:00
+ - user: rumpel
+ - tags: ['music band']
+
+## 961
+ - [https://www.the961.com](https://www.the961.com)
+ - date published: 2024-02-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Adam Thomas | Product Management Expert
+ - [https://theadamthomas.com](https://theadamthomas.com)
+ - date published: 2024-02-25T14:27:16.244372+00:00
+ - user: None
+ - tags: []
+
+## Adam Thomas | Product Strategy Consultant
+ - [https://www.theadamthomas.com](https://www.theadamthomas.com)
+ - date published: 2023-12-27T01:09:49.931460+00:00
+ - user: None
+ - tags: ['personal']
+
+## AI Bot Summarizer for your articles and PDFs
+ - [https://theaialfred.com](https://theaialfred.com)
+ - date published: 2024-01-09T02:50:42.682109+00:00
+ - user: None
+ - tags: []
+
+## The Air Current
+ - [https://theaircurrent.com](https://theaircurrent.com)
+ - date published: 2023-10-25T17:28:30.305578+00:00
+ - user: None
+ - tags: []
+
+## The Algorithms
+ - [https://the-algorithms.com](https://the-algorithms.com)
+ - date published: 2023-10-25T17:27:53.195977+00:00
+ - user: None
+ - tags: []
+
+## Home - The American Conservative
+ - [https://www.theamericanconservative.com](https://www.theamericanconservative.com)
+ - date published: 2023-10-25T17:28:33.109644+00:00
+ - user: None
+ - tags: []
+
+## 29% off 29 Days to France or BOGO with the new New Zealand Book - The American in Paris
+ - [https://theamericaninparis.com](https://theamericaninparis.com)
+ - date published: 2023-12-31T13:22:07.901135+00:00
+ - user: None
+ - tags: []
+
+## The Amiga Museum
+ - [https://theamigamuseum.com](https://theamigamuseum.com)
+ - date published: 2023-11-02T09:36:38.476435+00:00
+ - user: None
+ - tags: ['amiga']
+
+## The Ampersand Fairy
+ - [https://theampersandfairy.com](https://theampersandfairy.com)
+ - date published: 2023-11-29T17:13:45.809441+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Amp Hour Electronics Podcast
+ - [https://theamphour.com](https://theamphour.com)
+ - date published: 2024-03-03T11:37:40.160246+00:00
+ - user: None
+ - tags: []
+
+## Anthony Warner
+ - [https://www.the-angry-chef.com](https://www.the-angry-chef.com)
+ - date published: 2023-10-25T17:27:54.586096+00:00
+ - user: None
+ - tags: []
+
+## The Ankler. | Richard Rushfield | Substack
+ - [https://theankler.com](https://theankler.com)
+ - date published: 2023-10-25T17:28:36.485877+00:00
+ - user: None
+ - tags: []
+
+## TheArticle. Every Angle.
+ - [https://www.thearticle.com](https://www.thearticle.com)
+ - date published: 2023-10-25T17:28:38.047382+00:00
+ - user: None
+ - tags: []
+
 ## The Art Newspaper - International art news and events
  - [https://www.theartnewspaper.com](https://www.theartnewspaper.com)
  - date published: 2023-10-25T17:28:41.293190+00:00
@@ -35,14 +209,14 @@
  - tags: []
 
 ## World Edition - The Atlantic
- - [http://www.theatlantic.com](http://www.theatlantic.com)
- - date published: 2024-02-25T15:17:02.964527+00:00
+ - [https://www.theatlantic.com](https://www.theatlantic.com)
+ - date published: 2023-10-25T10:28:51.647818+00:00
  - user: None
  - tags: []
 
 ## World Edition - The Atlantic
- - [https://www.theatlantic.com](https://www.theatlantic.com)
- - date published: 2023-10-25T10:28:51.647818+00:00
+ - [http://www.theatlantic.com](http://www.theatlantic.com)
+ - date published: 2024-02-25T15:17:02.964527+00:00
  - user: None
  - tags: []
 
@@ -145,6 +319,12 @@
 ## Blaze Media
  - [https://www.theblaze.com](https://www.theblaze.com)
  - date published: 2023-10-25T17:30:01.051201+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [http://www.theblessedepic.com](http://www.theblessedepic.com)
+ - date published: 2024-03-18T20:28:56.338526+00:00
  - user: None
  - tags: []
 
@@ -673,14 +853,14 @@
  - tags: []
 
 ## Dictionary, Encyclopedia and Thesaurus - The Free Dictionary
- - [https://www.thefreedictionary.com](https://www.thefreedictionary.com)
- - date published: 2023-10-25T09:28:50.951090+00:00
+ - [http://www.thefreedictionary.com](http://www.thefreedictionary.com)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Dictionary, Encyclopedia and Thesaurus - The Free Dictionary
- - [http://www.thefreedictionary.com](http://www.thefreedictionary.com)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://www.thefreedictionary.com](https://www.thefreedictionary.com)
+ - date published: 2023-10-25T09:28:50.951090+00:00
  - user: None
  - tags: []
 
@@ -862,7 +1042,7 @@
  - [https://www.thehindu.com](https://www.thehindu.com)
  - date published: 2023-10-25T10:45:05.654304+00:00
  - user: None
- - tags: []
+ - tags: ['indian news']
 
 ## Business Financial, Economy, Market, Stock - News & Updates | The Hindu BusinessLine
  - [https://www.thehindubusinessline.com](https://www.thehindubusinessline.com)
@@ -945,6 +1125,12 @@
 ## The investing desk
  - [https://www.the-investing-desk.com](https://www.the-investing-desk.com)
  - date published: 2023-10-25T17:28:05.105433+00:00
+ - user: None
+ - tags: []
+
+## The Jakarta Post  - Still bold, fiercely independent
+ - [https://www.thejakartapost.com](https://www.thejakartapost.com)
+ - date published: 2024-03-18T12:33:47.343175+00:00
  - user: None
  - tags: []
 
@@ -1482,15 +1668,15 @@
  - user: None
  - tags: []
 
-## Enterprise Technology News and Analysis
- - [http://www.theregister.com](http://www.theregister.com)
- - date published: 2024-02-26T13:56:43.064822+00:00
- - user: None
- - tags: []
-
 ## The Register: Enterprise Technology News and Analysis
  - [https://www.theregister.com](https://www.theregister.com)
  - date published: 2023-10-25T10:29:03.269877+00:00
+ - user: None
+ - tags: []
+
+## Enterprise Technology News and Analysis
+ - [http://www.theregister.com](http://www.theregister.com)
+ - date published: 2024-02-26T13:56:43.064822+00:00
  - user: None
  - tags: []
 
@@ -2252,16 +2438,16 @@
  - tags: ['personal']
 
 ## Thought Of Art
- - [https://www.thoughtofart.com](https://www.thoughtofart.com)
- - date published: 2023-12-03T01:43:10.562711+00:00
- - user: None
- - tags: []
-
-## Thought Of Art
  - [http://www.thoughtofart.com](http://www.thoughtofart.com)
  - date published: 2023-12-23T19:26:51.192455+00:00
  - user: None
  - tags: ['personal']
+
+## Thought Of Art
+ - [https://www.thoughtofart.com](https://www.thoughtofart.com)
+ - date published: 2023-12-03T01:43:10.562711+00:00
+ - user: None
+ - tags: []
 
 ## Digital Experience Monitoring | ThousandEyes
  - [https://www.thousandeyes.com](https://www.thousandeyes.com)
@@ -2548,14 +2734,14 @@
  - tags: ['personal']
 
 ## TimDbg
- - [http://www.timdbg.com](http://www.timdbg.com)
- - date published: 2024-01-18T00:00:00+00:00
+ - [https://www.timdbg.com](https://www.timdbg.com)
+ - date published: 2023-10-25T17:42:00.344194+00:00
  - user: None
  - tags: []
 
 ## TimDbg
- - [https://www.timdbg.com](https://www.timdbg.com)
- - date published: 2023-10-25T17:42:00.344194+00:00
+ - [http://www.timdbg.com](http://www.timdbg.com)
+ - date published: 2024-01-18T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2970,6 +3156,12 @@
 ## Tokyo Weekender | Japan's No.1 English Lifestyle Magazine
  - [https://www.tokyoweekender.com](https://www.tokyoweekender.com)
  - date published: 2023-10-25T10:41:20.902583+00:00
+ - user: None
+ - tags: []
+
+## TOLOnews
+ - [https://tolonews.com](https://tolonews.com)
+ - date published: 2024-02-27T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3809,6 +4001,12 @@
  - user: None
  - tags: []
 
+## Richard J Kinch, PhD
+ - [https://www.truetex.com](https://www.truetex.com)
+ - date published: 1995-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Join Our Team! - TrueVault
  - [https://careers.truevault.com](https://careers.truevault.com)
  - date published: 2023-11-03T12:10:44.679011+00:00
@@ -3842,6 +4040,12 @@
 ## TrustedSite Certification | Build trust and boost sales.
  - [https://www.trustedsite.com](https://www.trustedsite.com)
  - date published: 2023-12-13T16:17:59.154518+00:00
+ - user: None
+ - tags: []
+
+## Finta
+ - [https://www.trustfinta.com](https://www.trustfinta.com)
+ - date published: 2024-03-12T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5394,14 +5598,14 @@
  - tags: []
 
 ## Product Reviews, Features, and Deals - Reviewed
- - [https://reviewed.usatoday.com](https://reviewed.usatoday.com)
- - date published: 2024-01-18T23:12:12.429216+00:00
+ - [http://reviewed.usatoday.com](http://reviewed.usatoday.com)
+ - date published: 2024-02-26T12:41:26.519684+00:00
  - user: None
  - tags: []
 
 ## Product Reviews, Features, and Deals - Reviewed
- - [http://reviewed.usatoday.com](http://reviewed.usatoday.com)
- - date published: 2024-02-26T12:41:26.519684+00:00
+ - [https://reviewed.usatoday.com](https://reviewed.usatoday.com)
+ - date published: 2024-01-18T23:12:12.429216+00:00
  - user: None
  - tags: []
 
@@ -5799,210 +6003,6 @@
 ## varia Pulse
  - [https://variapulse.com](https://variapulse.com)
  - date published: 2024-01-08T00:13:21.167973+00:00
- - user: None
- - tags: []
-
-## Variety
- - [https://variety.com](https://variety.com)
- - date published: 2023-10-25T10:17:55.128799+00:00
- - user: None
- - tags: []
-
-## Brian Whitman
- - [https://notes.variogram.com](https://notes.variogram.com)
- - date published: 2023-10-25T17:55:33.688023+00:00
- - user: None
- - tags: []
-
-## Home page EMEA
- - [https://www.varnish-software.com](https://www.varnish-software.com)
- - date published: 2024-02-07T17:14:55+00:00
- - user: None
- - tags: []
-
-## Fossil freedom - Vattenfall
- - [https://group.vattenfall.com](https://group.vattenfall.com)
- - date published: 2023-10-25T17:55:35.303824+00:00
- - user: None
- - tags: []
-
-## Zack Apiratitham
- - [https://vatthikorn.com](https://vatthikorn.com)
- - date published: 2024-01-15T22:19:59.451762+00:00
- - user: None
- - tags: []
-
-## VAZGRIZ
- - [https://vazgriz.com](https://vazgriz.com)
- - date published: 2024-01-16T13:41:49.604652+00:00
- - user: None
- - tags: []
-
-## UX/UI Designer. Author. Speaker. | Estelle Van de Velde
- - [https://vdvestelle.com](https://vdvestelle.com)
- - date published: 2024-01-04T08:23:18.936542+00:00
- - user: None
- - tags: []
-
-## The Trusted GenAI Product Platform for Product Builders
- - [https://vectara.com](https://vectara.com)
- - date published: 2023-10-25T17:55:37.945868+00:00
- - user: None
- - tags: []
-
-## Vectary - Build interactive 3D and AR solutions online
- - [https://www.vectary.com](https://www.vectary.com)
- - date published: 2023-10-27T10:19:22.992988+00:00
- - user: None
- - tags: ['augmented reality', '3d printing', 'virtual reality']
-
-## Vectis IP Ltd - Building IP Solutions  for the Future
- - [https://www.vectis.com](https://www.vectis.com)
- - date published: 2023-10-25T17:55:40.842745+00:00
- - user: None
- - tags: []
-
-## VectorDB: Vector Database Built by Kagi Search
- - [https://vectordb.com](https://vectordb.com)
- - date published: 2023-11-26T10:21:55+00:00
- - user: None
- - tags: []
-
-## VectorLogic
- - [https://www.vector-logic.com](https://www.vector-logic.com)
- - date published: 2023-10-25T17:55:41.709495+00:00
- - user: None
- - tags: []
-
-## Vectro
- - [https://www.vectrotype.com](https://www.vectrotype.com)
- - date published: 2021-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## >mv_
- - [https://mv.vegancambodia.com](https://mv.vegancambodia.com)
- - date published: 2024-01-10T18:09:42.179174+00:00
- - user: None
- - tags: []
-
-## Latest News - vegconomist - the vegan business magazine
- - [https://vegconomist.com](https://vegconomist.com)
- - date published: 2023-10-25T17:55:45.760592+00:00
- - user: None
- - tags: []
-
-## Veilid
- - [https://veilid.com](https://veilid.com)
- - date published: 2023-10-25T17:55:46.235167+00:00
- - user: None
- - tags: []
-
-## VELCRO® Brand Fastening Solutions | Velcro Companies
- - [https://www.velcro.com](https://www.velcro.com)
- - date published: 2023-12-29T14:19:33.593603+00:00
- - user: None
- - tags: []
-
-## Vendr: The Software Procurement & SaaS Management Platform
- - [https://www.vendr.com](https://www.vendr.com)
- - date published: 2023-10-25T17:55:48.039196+00:00
- - user: None
- - tags: []
-
-## VentureBeat | Transformative tech coverage that matters
- - [https://venturebeat.com](https://venturebeat.com)
- - date published: 2023-10-25T09:36:34.376824+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.veonid.com](https://www.veonid.com)
- - date published: 2024-01-09T02:53:10.869607+00:00
- - user: None
- - tags: []
-
-## Veranda Vikings
- - [https://www.verandavikings.com](https://www.verandavikings.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Veranda Vikings
- - [http://www.verandavikings.com](http://www.verandavikings.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Vera Ruel-Wunsch
- - [https://veraveravera.com](https://veraveravera.com)
- - date published: 2023-11-26T10:11:12.588555+00:00
- - user: None
- - tags: ['personal']
-
-## VERA Version Control Systems
- - [https://vcs.vera-visions.com](https://vcs.vera-visions.com)
- - date published: 2023-11-12T12:21:17.875383+00:00
- - user: None
- - tags: []
-
-## Martijn Verbove
- - [https://verbove.com](https://verbove.com)
- - date published: 2024-02-23T20:48:13.210763+00:00
- - user: None
- - tags: []
-
-## Vercel: Build and deploy the best Web experiences with The Frontend Cloud
- - [https://vercel.com](https://vercel.com)
- - date published: 2023-10-25T17:55:50.277514+00:00
- - user: None
- - tags: []
-
-## Mighil | Generalist in Chengdu
- - [https://verfasor.com](https://verfasor.com)
- - date published: 2023-12-13T06:04:43.812181+00:00
- - user: None
- - tags: ['personal']
-
-## Verily Public Health
- - [https://publichealth.verily.com](https://publichealth.verily.com)
- - date published: 2023-10-25T17:55:51.105963+00:00
- - user: None
- - tags: []
-
-## Verily | Research, Care and Health Financing | Alphabet Precision Health Company
- - [https://verily.com](https://verily.com)
- - date published: 2023-10-25T17:55:52.204653+00:00
- - user: None
- - tags: []
-
-## Verizon: Wireless, Internet, TV and Phone Services | Official Site
- - [https://verizon.com](https://verizon.com)
- - date published: 2024-03-08T12:40:43+00:00
- - user: rumpel
- - tags: ['telecommunication']
-
-## Verocel
- - [https://verocel.com](https://verocel.com)
- - date published: 2023-10-25T11:28:53.666720+00:00
- - user: None
- - tags: ['aviation', 'aerospace', 'avionics']
-
-## Veronika Adams
- - [https://www.veronikaadams.com](https://www.veronikaadams.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Madison Wisconsin Web Design and Development with Craft CMS and ExpressionEngine CMS
- - [https://versastudio.com](https://versastudio.com)
- - date published: 2023-12-03T23:31:28.129334+00:00
- - user: None
- - tags: ['personal']
-
-## Verso Books | Books, Blog, and Book Club
- - [https://www.versobooks.com](https://www.versobooks.com)
- - date published: 2024-03-06T14:47:00.378803+00:00
  - user: None
  - tags: []
 

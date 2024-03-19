@@ -1,3 +1,141 @@
+## PerfectRec: Personalized Product Recommendations
+ - [https://www.perfectrec.com](https://www.perfectrec.com)
+ - date published: 2023-10-25T16:32:57.052562+00:00
+ - user: None
+ - tags: []
+
+## Caras
+ - [https://caras.perfil.com](https://caras.perfil.com)
+ - date published: 2023-12-12T08:12:00.628623+00:00
+ - user: None
+ - tags: []
+
+## Fortuna
+ - [https://fortuna.perfil.com](https://fortuna.perfil.com)
+ - date published: 2023-12-12T08:13:20.618148+00:00
+ - user: None
+ - tags: []
+
+## https://fotos.perfil.com
+ - [https://fotos.perfil.com](https://fotos.perfil.com)
+ - date published: 2023-12-12T08:12:06.680313+00:00
+ - user: None
+ - tags: []
+
+## Hombre | Home
+ - [https://hombre.perfil.com](https://hombre.perfil.com)
+ - date published: 2024-01-09T02:46:08.677075+00:00
+ - user: None
+ - tags: []
+
+## https://look.perfil.com
+ - [https://look.perfil.com](https://look.perfil.com)
+ - date published: 2024-01-09T02:46:16.189403+00:00
+ - user: None
+ - tags: []
+
+## Luz | Revista Luz | Perfil
+ - [https://luz.perfil.com](https://luz.perfil.com)
+ - date published: 2024-01-09T02:46:17.954080+00:00
+ - user: None
+ - tags: []
+
+## Home | Marie Claire
+ - [https://marieclaire.perfil.com](https://marieclaire.perfil.com)
+ - date published: 2023-12-12T08:11:47.328348+00:00
+ - user: None
+ - tags: []
+
+## Home | Mia
+ - [https://mia.perfil.com](https://mia.perfil.com)
+ - date published: 2024-01-09T02:46:21.202546+00:00
+ - user: None
+ - tags: []
+
+## Entender cambia la vida | Noticias
+ - [https://noticias.perfil.com](https://noticias.perfil.com)
+ - date published: 2023-12-12T08:11:22.772537+00:00
+ - user: None
+ - tags: []
+
+## Home | Parabrisas
+ - [https://parabrisas.perfil.com](https://parabrisas.perfil.com)
+ - date published: 2024-01-09T02:46:25.615174+00:00
+ - user: None
+ - tags: []
+
+## Supercampo | Perfil.com
+ - [https://supercampo.perfil.com](https://supercampo.perfil.com)
+ - date published: 2024-01-09T02:46:30.075147+00:00
+ - user: None
+ - tags: []
+
+## Home | Weekend
+ - [https://weekend.perfil.com](https://weekend.perfil.com)
+ - date published: 2023-12-12T08:13:14.768938+00:00
+ - user: None
+ - tags: []
+
+## Perfil | Ultimas noticias de Argentina y el mundo
+ - [https://www.perfil.com](https://www.perfil.com)
+ - date published: 2023-12-12T08:11:12.321772+00:00
+ - user: None
+ - tags: ['argentina news']
+
+## https://player.performgroup.com
+ - [https://player.performgroup.com](https://player.performgroup.com)
+ - date published: 2023-12-12T08:11:33.040293+00:00
+ - user: None
+ - tags: []
+
+## Web Performance Calendar » 2022
+ - [https://calendar.perfplanet.com](https://calendar.perfplanet.com)
+ - date published: 2023-10-25T16:33:00.123109+00:00
+ - user: None
+ - tags: []
+
+## Periodic Table of Tools
+ - [https://periodictableoftools.com](https://periodictableoftools.com)
+ - date published: 2023-11-26T13:56:09.113605+00:00
+ - user: None
+ - tags: []
+
+## React App
+ - [https://info.perjesi.com](https://info.perjesi.com)
+ - date published: 2024-01-19T17:20:09.592216+00:00
+ - user: None
+ - tags: []
+
+## Permission Slip by CR
+ - [https://permissionslipcr.com](https://permissionslipcr.com)
+ - date published: 2023-10-25T16:33:04.167505+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://cdn.permutive.com](https://cdn.permutive.com)
+ - date published: 2024-01-09T02:46:30.830674+00:00
+ - user: None
+ - tags: []
+
+## Perrett Laver: Vacancies
+ - [https://candidates.perrettlaver.com](https://candidates.perrettlaver.com)
+ - date published: 2023-10-25T16:33:07.284281+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://blog.perrysun.com](https://blog.perrysun.com)
+ - date published: 2024-01-09T02:46:32.016185+00:00
+ - user: None
+ - tags: []
+
+## The Voice of the Martyrs
+ - [https://www.persecution.com](https://www.persecution.com)
+ - date published: 2023-11-27T12:15:11+00:00
+ - user: rumpel
+ - tags: ['persecution', 'religion', 'christianity']
+
 ## Jobs at Bloop AI Limited
  - [https://bloop.jobs.personio.com](https://bloop.jobs.personio.com)
  - date published: 2024-02-01T00:00:00+00:00
@@ -913,6 +1051,12 @@
  - user: None
  - tags: ['personal']
 
+## Plarium: Enter a World of Cross-Platform Gaming!
+ - [https://plarium.com](https://plarium.com)
+ - date published: 2024-03-18T13:55:57.808176+00:00
+ - user: None
+ - tags: []
+
 ## Platformonomics
  - [https://www.platformonomics.com](https://www.platformonomics.com)
  - date published: 2023-10-25T16:36:16.836857+00:00
@@ -1081,15 +1225,15 @@
  - user: None
  - tags: []
 
-## 無効なURLです
- - [https://plumshell.com](https://plumshell.com)
- - date published: 2024-01-09T02:46:44.613598+00:00
- - user: None
- - tags: []
-
 ## plumshell
  - [http://plumshell.com](http://plumshell.com)
  - date published: 2024-02-26T15:04:17.373885+00:00
+ - user: None
+ - tags: []
+
+## 無効なURLです
+ - [https://plumshell.com](https://plumshell.com)
+ - date published: 2024-01-09T02:46:44.613598+00:00
  - user: None
  - tags: []
 
@@ -1496,14 +1640,14 @@
  - tags: []
 
 ## PostHog - The open source Product OS
- - [https://posthog.com](https://posthog.com)
- - date published: 2023-10-25T16:38:22.584209+00:00
+ - [http://posthog.com](http://posthog.com)
+ - date published: 2024-02-26T09:54:45.800568+00:00
  - user: None
  - tags: []
 
 ## PostHog - The open source Product OS
- - [http://posthog.com](http://posthog.com)
- - date published: 2024-02-26T09:54:45.800568+00:00
+ - [https://posthog.com](https://posthog.com)
+ - date published: 2023-10-25T16:38:22.584209+00:00
  - user: None
  - tags: []
 
@@ -1591,6 +1735,12 @@
  - user: rumpel
  - tags: ['big data', 'data visualisation']
 
+## Home | PSMC
+ - [https://www.powerchip.com](https://www.powerchip.com)
+ - date published: 2024-03-18T13:43:35.678252+00:00
+ - user: None
+ - tags: []
+
 ## mailman.powerdns.com Mailing Lists
  - [https://mailman.powerdns.com](https://mailman.powerdns.com)
  - date published: 2023-11-01T08:42:56.060079+00:00
@@ -1618,6 +1768,12 @@
 ## Power Moby-Dick, the Online Annotation
  - [https://www.powermobydick.com](https://www.powermobydick.com)
  - date published: 2024-01-06T15:25:09.104106+00:00
+ - user: None
+ - tags: []
+
+## PowerNation TV
+ - [https://www.powernationtv.com](https://www.powernationtv.com)
+ - date published: 2024-03-06T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2014,6 +2170,12 @@
 ## Programmer Hat | Programmer Hat Blog
  - [https://www.programmerhat.com](https://www.programmerhat.com)
  - date published: 2023-10-25T16:40:49.077500+00:00
+ - user: None
+ - tags: []
+
+## Karolina Bryndza
+ - [https://programmingattack.com](https://programmingattack.com)
+ - date published: 2024-03-13T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2462,14 +2624,14 @@
  - tags: []
 
 ## Pushbullet Blog
- - [https://blog.pushbullet.com](https://blog.pushbullet.com)
- - date published: 2023-10-25T16:42:28.991402+00:00
+ - [http://blog.pushbullet.com](http://blog.pushbullet.com)
+ - date published: 2022-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Pushbullet Blog
- - [http://blog.pushbullet.com](http://blog.pushbullet.com)
- - date published: 2022-01-01T00:00:00+00:00
+ - [https://blog.pushbullet.com](https://blog.pushbullet.com)
+ - date published: 2023-10-25T16:42:28.991402+00:00
  - user: None
  - tags: []
 
@@ -3469,16 +3631,16 @@ More!
  - tags: []
 
 ## Ravenfeast
- - [http://www.ravenfeast.com](http://www.ravenfeast.com)
- - date published: 2024-03-01T18:35:27.406553+00:00
- - user: None
- - tags: []
-
-## Ravenfeast
  - [https://www.ravenfeast.com](https://www.ravenfeast.com)
  - date published: 2024-03-01T09:41:52+00:00
  - user: rumpel
  - tags: ['tabletop games', 'wargames']
+
+## Ravenfeast
+ - [http://www.ravenfeast.com](http://www.ravenfeast.com)
+ - date published: 2024-03-01T18:35:27.406553+00:00
+ - user: None
+ - tags: []
 
 ## https://www.ravensoft.com
  - [https://www.ravensoft.com](https://www.ravensoft.com)
@@ -3895,14 +4057,14 @@ More!
  - tags: []
 
 ## reddit
- - [http://www.reddit.com](http://www.reddit.com)
- - date published: 2024-02-20T00:00:00+00:00
+ - [https://www.reddit.com](https://www.reddit.com)
+ - date published: 2023-10-24T20:16:46.235665+00:00
  - user: None
  - tags: []
 
 ## reddit
- - [https://www.reddit.com](https://www.reddit.com)
- - date published: 2023-10-24T20:16:46.235665+00:00
+ - [http://www.reddit.com](http://www.reddit.com)
+ - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4644,6 +4806,12 @@ More!
  - user: None
  - tags: ['tolkien']
 
+## Return To Office Mandates
+ - [https://returntoofficemandate.com](https://returntoofficemandate.com)
+ - date published: 2024-03-18T15:01:05+00:00
+ - user: rumpel
+ - tags: ['work']
+
 ## Reuters | Breaking International News & Views
  - [https://www.reuters.com](https://www.reuters.com)
  - date published: 2023-10-25T10:38:41.639140+00:00
@@ -4939,16 +5107,16 @@ More!
  - tags: []
 
 ## Ken Shirriff's blog
- - [http://www.righto.com](http://www.righto.com)
- - date published: 2024-02-25T00:44:48.796985+00:00
- - user: None
- - tags: []
-
-## Ken Shirriff's blog
  - [https://www.righto.com](https://www.righto.com)
  - date published: 2023-10-25T16:51:33.313104+00:00
  - user: None
  - tags: ['blog', 'personal']
+
+## Ken Shirriff's blog
+ - [http://www.righto.com](http://www.righto.com)
+ - date published: 2024-02-25T00:44:48.796985+00:00
+ - user: None
+ - tags: []
 
 ## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
  - [https://www.rigzone.com](https://www.rigzone.com)
@@ -5837,172 +6005,4 @@ More!
  - date published: 2023-12-22T08:06:23+00:00
  - user: None
  - tags: []
-
-## ROUGH TYPE | Nicholas Carr's blog
- - [https://www.roughtype.com](https://www.roughtype.com)
- - date published: 2023-10-25T16:54:46.815167+00:00
- - user: None
- - tags: []
-
-## Routledge - Publisher of Professional & Academic Books
- - [https://www.routledge.com](https://www.routledge.com)
- - date published: 2023-10-25T16:54:48.988309+00:00
- - user: None
- - tags: []
-
-## Rowan Zellers' Homepage
- - [https://rowanzellers.com](https://rowanzellers.com)
- - date published: 2023-10-25T16:54:51.440050+00:00
- - user: None
- - tags: []
-
-## Rowena Morais - Helping you build more influence
- - [https://rowenamorais.com](https://rowenamorais.com)
- - date published: 2024-01-04T01:14:16.801526+00:00
- - user: None
- - tags: []
-
-## Rows
- - [https://rows.com](https://rows.com)
- - date published: 2023-10-25T16:54:52.043447+00:00
- - user: None
- - tags: []
-
-## Roxine Kee
- - [https://www.roxinekee.com](https://www.roxinekee.com)
- - date published: 2023-12-13T06:03:32.244926+00:00
- - user: None
- - tags: ['personal']
-
-## | ROXLU
- - [https://www.roxlu.com](https://www.roxlu.com)
- - date published: 2023-10-25T16:54:53.567514+00:00
- - user: None
- - tags: []
-
-## Royal Blood
- - [https://www.royalbloodband.com](https://www.royalbloodband.com)
- - date published: 2023-11-13T09:58:37.856076+00:00
- - user: None
- - tags: []
-
-## Royal Mail Shop
- - [https://shop.royalmail.com](https://shop.royalmail.com)
- - date published: 2023-10-25T16:54:56.812431+00:00
- - user: None
- - tags: []
-
-## Royal Mail | Royal Mail Group Ltd
- - [https://www.royalmail.com](https://www.royalmail.com)
- - date published: 2023-10-25T16:55:04.193019+00:00
- - user: None
- - tags: []
-
-## - ROYALTY FREE MUSIC
- - [https://www.royaltyfree-music.com](https://www.royaltyfree-music.com)
- - date published: 2023-10-25T11:35:25.743817+00:00
- - user: None
- - tags: ['assets audio']
-
-## roycifer
- - [https://roycifer.com](https://roycifer.com)
- - date published: 2023-12-20T11:45:49.231303+00:00
- - user: None
- - tags: ['personal']
-
-## Profound Mysteries
- - [https://royksopp.com](https://royksopp.com)
- - date published: 2023-11-13T09:28:05.167168+00:00
- - user: None
- - tags: ['music band']
-
-## Roy Tanck
- - [https://roytanck.com](https://roytanck.com)
- - date published: 2023-12-29T16:24:36.355595+00:00
- - user: None
- - tags: []
-
-## The Homepage of Ryan P. Flynn
- - [https://rpflynn.com](https://rpflynn.com)
- - date published: 2023-12-17T20:59:36.992817+00:00
- - user: None
- - tags: ['personal']
-
-## Home | RPG in a Box
- - [https://www.rpginabox.com](https://www.rpginabox.com)
- - date published: 2023-10-25T16:55:06.758154+00:00
- - user: None
- - tags: []
-
-## Buy D2R Items and Runes, OSRS Gold, POE Orbs - RPGStash
- - [https://www.rpgstash.com](https://www.rpgstash.com)
- - date published: 2023-10-25T11:10:04.692031+00:00
- - user: None
- - tags: []
-
-## Rajath Ramakrishna
- - [https://rrajath.com](https://rrajath.com)
- - date published: 2023-11-29T17:13:31.375439+00:00
- - user: None
- - tags: ['personal']
-
-## RR Auction
- - [https://www.rrauction.com](https://www.rrauction.com)
- - date published: 2023-10-25T16:55:10.247515+00:00
- - user: None
- - tags: []
-
-## RSS Brain - A Modern RSS Reader
- - [https://www.rssbrain.com](https://www.rssbrain.com)
- - date published: 2023-10-25T08:38:16.407947+00:00
- - user: None
- - tags: ['rss reader']
-
-## RSS Feed Extractor
- - [https://rssfeedasap.com](https://rssfeedasap.com)
- - date published: 2023-10-25T08:30:46.933111+00:00
- - user: None
- - tags: []
-
-## RSS Search Engine and RSS Feed Reader
- - [https://www.rsssearchhub.com](https://www.rsssearchhub.com)
- - date published: 2024-01-30T08:00:10+00:00
- - user: rumpel
- - tags: []
-
-## RT - Breaking News, Russia News, World News and Video
- - [https://www.rt.com](https://www.rt.com)
- - date published: 2023-10-25T10:12:55.826509+00:00
- - user: None
- - tags: []
-
-## R. Talsorian Games - We create worlds you can only imagine.
- - [https://rtalsoriangames.com](https://rtalsoriangames.com)
- - date published: 2023-11-01T19:34:54.050124+00:00
- - user: None
- - tags: ['role playing games', 'cyberpunk']
-
-## https://www.rtl-sdr.com
- - [https://www.rtl-sdr.com](https://www.rtl-sdr.com)
- - date published: 2024-01-09T02:48:22.088471+00:00
- - user: None
- - tags: []
-
-## Rubenerd
- - [https://rubenerd.com](https://rubenerd.com)
- - date published: 2023-10-25T16:55:20.911142+00:00
- - user: None
- - tags: []
-
-## rubenwardy's blog
- - [https://blog.rubenwardy.com](https://blog.rubenwardy.com)
- - date published: 2023-11-18T18:28:01.582764+00:00
- - user: None
- - tags: ['personal']
-
-## Jade Rubick - Rubick.com
- - [https://www.rubick.com](https://www.rubick.com)
- - date published: 2023-10-25T08:47:51.358817+00:00
- - user: None
- - tags: ['personal']
 
