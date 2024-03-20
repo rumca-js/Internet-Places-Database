@@ -1,146 +1,14 @@
-## None
- - [https://vitalik.ca.](https://vitalik.ca.)
- - date published: 2024-02-26T14:25:37.800176+00:00
- - user: None
- - tags: []
-
-## Ivan Malopinsky
- - [https://imsky.co.](https://imsky.co.)
- - date published: 2024-02-26T08:18:22.401070+00:00
- - user: None
- - tags: []
-
-## Andrea Bergia's Website
- - [https://andreabergia.com.](https://andreabergia.com.)
- - date published: 2024-02-16T00:00:00+00:00
- - user: None
- - tags: []
-
-## Sergey Stadnik's blog
- - [https://ozmoroz.com.](https://ozmoroz.com.)
- - date published: 2020-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Robert Pearce
- - [https://robertwpearce.com.](https://robertwpearce.com.)
- - date published: 2024-01-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## マリウス
- - [https://xn--gckvb8fzb.com.](https://xn--gckvb8fzb.com.)
- - date published: 2024-04-12T00:00:00+00:00
- - user: None
- - tags: []
-
-## Blog
- - [https://bergie.iki.fi.](https://bergie.iki.fi.)
- - date published: 2017-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Smaller Fish
- - [https://smaller.fish.](https://smaller.fish.)
- - date published: 2023-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## üè°
- - [https://rnjn.in.](https://rnjn.in.)
- - date published: 2023-04-10T00:00:00+00:00
- - user: None
- - tags: []
-
-## American Express Technology
- - [https://americanexpress.io.](https://americanexpress.io.)
- - date published: 2024-02-25T14:44:24.130812+00:00
- - user: None
- - tags: []
-
-## home
- - [https://trofi.github.io.](https://trofi.github.io.)
- - date published: 2024-02-26T15:11:18.018604+00:00
- - user: None
- - tags: []
-
-## sunshowers
- - [https://sunshowers.io.](https://sunshowers.io.)
- - date published: 2024-02-26T15:08:47.204878+00:00
- - user: None
- - tags: []
-
-## Zenoh - The Zero Overhead, Pub/Sub, Store, Query, and Compute Protocol.
- - [https://zenoh.io.](https://zenoh.io.)
- - date published: 2024-01-31T00:00:00+00:00
- - user: None
- - tags: []
-
-## Francesco Mazzoli
- - [https://mazzo.li.](https://mazzo.li.)
- - date published: 2024-02-26T14:45:26.799355+00:00
- - user: None
- - tags: []
-
-## Vitalik Buterin's website
- - [https://vitalik.eth.limo.](https://vitalik.eth.limo.)
- - date published: 2024-02-09T00:00:00+00:00
- - user: None
- - tags: []
-
-## Dittytoy
- - [https://dittytoy.net.](https://dittytoy.net.)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## osa1 - index
- - [https://osa1.net.](https://osa1.net.)
- - date published: 2023-04-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Susam Pal
- - [https://susam.net.](https://susam.net.)
- - date published: 2024-01-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## myme.no - Home
- - [https://myme.no.](https://myme.no.)
- - date published: 2024-01-21T00:00:00+00:00
- - user: None
- - tags: []
-
-## Genode - Genode Operating System Framework
- - [https://genode.org.](https://genode.org.)
- - date published: 2024-02-25T20:28:30.437259+00:00
- - user: None
- - tags: []
-
-## Genodians.org - Stories around the Genode Operating System
- - [https://genodians.org.](https://genodians.org.)
- - date published: 2024-02-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Welcome to zoia.org
- - [https://zoia.org.](https://zoia.org.)
- - date published: 2024-02-26T14:31:46.276958+00:00
- - user: None
- - tags: []
-
-## Welcome to GFW.Report
- - [https://gfw.report.](https://gfw.report.)
- - date published: 2024-02-25T20:32:15.648623+00:00
- - user: None
- - tags: []
-
 ## Kern Type
  - [https://type.method.ac](https://type.method.ac)
  - date published: 2023-10-25T08:31:02.163535+00:00
  - user: None
  - tags: []
+
+## About · Game Hacking Academy
+ - [https://gamehacking.academy](https://gamehacking.academy)
+ - date published: 2024-02-12T00:00:00+00:00
+ - user: rumpel
+ - tags: ['game hacking']
 
 ## The Generalist Academy – Learn widely
  - [https://generalist.academy](https://generalist.academy)
@@ -230,7 +98,7 @@
  - [https://paul.af](https://paul.af)
  - date published: 2024-01-15T06:16:49.509268+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## Home | MRRD
  - [https://www.mrrd.gov.af](https://www.mrrd.gov.af)
@@ -1999,6 +1867,12 @@
 ## Cash App - Do more with your money
  - [https://cash.app](https://cash.app)
  - date published: 1907-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Causal 2.0 – Modern Financial Planning for Startups
+ - [https://causal.app](https://causal.app)
+ - date published: 2024-03-19T14:06:25+00:00
  - user: None
  - tags: []
 
@@ -4769,16 +4643,16 @@
  - tags: ['personal']
 
 ## Dagan.Blog – Education Futurist
- - [https://dagan.blog](https://dagan.blog)
- - date published: 2024-01-09T02:26:37.338771+00:00
- - user: None
- - tags: ['personal']
-
-## Dagan.Blog – Education Futurist
  - [http://dagan.blog](http://dagan.blog)
  - date published: 2024-02-25T19:34:43.972971+00:00
  - user: None
  - tags: []
+
+## Dagan.Blog – Education Futurist
+ - [https://dagan.blog](https://dagan.blog)
+ - date published: 2024-01-09T02:26:37.338771+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Deep Cuts in a Lovecraftian Vein
  - [https://deepcuts.blog](https://deepcuts.blog)
@@ -5998,4 +5872,130 @@
  - date published: 2023-10-25T12:09:24.220580+00:00
  - user: None
  - tags: []
+
+## Daniel P. Gross
+ - [https://dgross.ca](https://dgross.ca)
+ - date published: 2023-10-25T09:02:15.935166+00:00
+ - user: None
+ - tags: ['personal']
+
+## Driving
+ - [https://driving.ca](https://driving.ca)
+ - date published: 2023-11-02T22:48:04.515862+00:00
+ - user: None
+ - tags: []
+
+## eContact!
+ - [https://econtact.ca](https://econtact.ca)
+ - date published: 2023-10-25T12:09:30.076113+00:00
+ - user: None
+ - tags: []
+
+## Evan Jones - Software Engineer | Computer Scientist
+ - [https://www.evanjones.ca](https://www.evanjones.ca)
+ - date published: 2023-10-25T12:04:49.962005+00:00
+ - user: None
+ - tags: []
+
+## Eventbrite
+ - [https://www.eventbrite.ca](https://www.eventbrite.ca)
+ - date published: 2024-02-24T18:11:15.206135+00:00
+ - user: None
+ - tags: []
+
+## ferd.ca
+ - [https://ferd.ca](https://ferd.ca)
+ - date published: 2023-10-25T12:04:53.238516+00:00
+ - user: None
+ - tags: []
+
+## Finbarr Timbers
+ - [https://finbarr.ca](https://finbarr.ca)
+ - date published: 2023-10-25T08:42:53.636850+00:00
+ - user: None
+ - tags: ['personal']
+
+## Colin Woodbury - About
+ - [https://www.fosskers.ca](https://www.fosskers.ca)
+ - date published: 2024-01-29T23:02:20.819692+00:00
+ - user: None
+ - tags: []
+
+## froghat.ca
+ - [https://froghat.ca](https://froghat.ca)
+ - date published: 2023-10-25T09:02:17.770370+00:00
+ - user: None
+ - tags: ['personal']
+
+## Tim Gadanidis - Home
+ - [https://gadanidis.ca](https://gadanidis.ca)
+ - date published: 2023-10-25T08:42:54.581662+00:00
+ - user: None
+ - tags: ['personal']
+
+## National Gallery of Canada
+ - [https://www.gallery.ca](https://www.gallery.ca)
+ - date published: 2023-11-13T13:45:23.318113+00:00
+ - user: None
+ - tags: ['museum']
+
+## Global News | Breaking, Latest News and Video for Canada
+ - [https://globalnews.ca](https://globalnews.ca)
+ - date published: 2023-10-25T10:36:35.873873+00:00
+ - user: None
+ - tags: []
+
+## Home - Global ResearchGlobal Research - Centre for Research on Globalization
+ - [https://www.globalresearch.ca](https://www.globalresearch.ca)
+ - date published: 2023-10-25T12:05:13.017051+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://adservice.google.ca](https://adservice.google.ca)
+ - date published: 2024-01-09T02:27:16.799302+00:00
+ - user: None
+ - tags: []
+
+## GotW.ca Home Page
+ - [http://www.gotw.ca](http://www.gotw.ca)
+ - date published: 2023-10-25T08:42:56.028814+00:00
+ - user: None
+ - tags: ['personal']
+
+## cat /dev/brain
+ - [https://www.gybe.ca](https://www.gybe.ca)
+ - date published: 2023-12-04T09:28:03.340314+00:00
+ - user: None
+ - tags: []
+
+## Paul Henman
+ - [https://henman.ca](https://henman.ca)
+ - date published: 2023-12-12T04:55:06.206081+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Highgo Software Inc.
+ - [https://www.highgo.ca](https://www.highgo.ca)
+ - date published: 2023-12-18T21:53:17.162282+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://hirad.ca](https://hirad.ca)
+ - date published: 2023-12-27T18:12:30.676212+00:00
+ - user: None
+ - tags: ['personal']
+
+## hypatia dot ca – Leigh Honeywell's Blog
+ - [https://hypatia.ca](https://hypatia.ca)
+ - date published: 2023-10-25T09:25:27.291271+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ibraheem Ahmed
+ - [https://ibraheem.ca](https://ibraheem.ca)
+ - date published: 2023-10-25T08:42:56.661128+00:00
+ - user: None
+ - tags: ['personal']
 

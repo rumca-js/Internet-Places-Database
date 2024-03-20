@@ -1,117 +1,3 @@
-## Alex Ewerlöf Notes | Substack
- - [https://blog.alexewerlof.com](https://blog.alexewerlof.com)
- - date published: 2023-10-25T12:37:57.734921+00:00
- - user: None
- - tags: []
-
-## Alexey needs a Web Presence
- - [https://alexeymk.com](https://alexeymk.com)
- - date published: 2023-10-25T12:38:00.320646+00:00
- - user: None
- - tags: []
-
-## Alexandru Golovatenco
- - [https://alexglv.com](https://alexglv.com)
- - date published: 2023-12-03T09:19:15.087581+00:00
- - user: None
- - tags: ['personal']
-
-## Personal website | Alex Harri Jónsson
- - [https://alexharri.com](https://alexharri.com)
- - date published: 2023-10-25T12:38:01.183324+00:00
- - user: None
- - tags: []
-
-## Alex Hyett | Software Developer | YouTuber | Writer
- - [https://www.alexhyett.com](https://www.alexhyett.com)
- - date published: 2023-10-25T12:38:02.282023+00:00
- - user: None
- - tags: []
-
-## Sorta Insightful
- - [https://www.alexirpan.com](https://www.alexirpan.com)
- - date published: 2024-01-12T16:07:48.804677+00:00
- - user: None
- - tags: []
-
-## Alex Panagis | Entrepreneur, SaaS Operator & Investor
- - [https://alexjpanagis.com](https://alexjpanagis.com)
- - date published: 2024-01-13T18:26:31.067280+00:00
- - user: None
- - tags: []
-
-## Alex Kutas blog
- - [https://alexkutas.com](https://alexkutas.com)
- - date published: 2024-02-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Alex Meub
- - [https://alexmeub.com](https://alexmeub.com)
- - date published: 2023-10-25T09:04:24.113928+00:00
- - user: None
- - tags: ['personal']
-
-## Alex Molas
- - [https://www.alexmolas.com](https://www.alexmolas.com)
- - date published: 2023-10-25T09:04:24.675550+00:00
- - user: None
- - tags: ['personal']
-
-## Web and mobile developer | Alex Plescan
- - [https://alexplescan.com](https://alexplescan.com)
- - date published: 2023-10-25T12:38:04.232631+00:00
- - user: None
- - tags: []
-
-## Alex Eaton - Writer & Photographer
- - [https://www.alexreaton.com](https://www.alexreaton.com)
- - date published: 2024-02-09T00:12:37.874010+00:00
- - user: None
- - tags: ['personal']
-
-## alexsci.com
- - [https://alexsci.com](https://alexsci.com)
- - date published: 2023-10-25T12:38:05.842613+00:00
- - user: None
- - tags: []
-
-## Home | Alex Sidorenko
- - [https://alexsidorenko.com](https://alexsidorenko.com)
- - date published: 2023-10-25T12:38:06.569578+00:00
- - user: None
- - tags: []
-
-## Alexskra | Web developer from Norway
- - [https://alexskra.com](https://alexskra.com)
- - date published: 2023-10-25T12:38:13.172045+00:00
- - user: None
- - tags: []
-
-## alexstonethinkingstrings.com
- - [https://www.alexstonethinkingstrings.com](https://www.alexstonethinkingstrings.com)
- - date published: 2024-02-25T03:40:28.185186+00:00
- - user: None
- - tags: ['personal']
-
-## Alex Strick van Linschoten
- - [https://www.alexstrick.com](https://www.alexstrick.com)
- - date published: 2023-12-21T18:50:00.122995+00:00
- - user: None
- - tags: ['personal']
-
-## Alex Vermeer — Life-Hacking. Climbing. Striving for awesome. Coffee.
- - [https://alexvermeer.com](https://alexvermeer.com)
- - date published: 2023-10-25T12:38:14.741434+00:00
- - user: None
- - tags: []
-
-## About - Alfred Megally
- - [https://alfredmegally.com](https://alfredmegally.com)
- - date published: 2024-01-09T08:53:49.175773+00:00
- - user: None
- - tags: ['personal']
-
 ## Home - Algemeiner.com
  - [https://www.algemeiner.com](https://www.algemeiner.com)
  - date published: 2023-11-02T18:22:20.943073+00:00
@@ -869,16 +755,16 @@
  - tags: ['amiga']
 
 ## The biggest repository for remixes of old Amiga tracks from games and demos.
- - [https://www.amigaremix.com](https://www.amigaremix.com)
- - date published: 2024-02-13T00:00:00+00:00
- - user: None
- - tags: ['keygen', 'demoscene', 'amiga', 'chiptune']
-
-## The biggest repository for remixes of old Amiga tracks from games and demos.
  - [http://www.amigaremix.com](http://www.amigaremix.com)
  - date published: 2024-02-13T00:00:00+00:00
  - user: None
  - tags: []
+
+## The biggest repository for remixes of old Amiga tracks from games and demos.
+ - [https://www.amigaremix.com](https://www.amigaremix.com)
+ - date published: 2024-02-13T00:00:00+00:00
+ - user: None
+ - tags: ['keygen', 'demoscene', 'amiga', 'chiptune']
 
 ## A Mighty Girl: Home | A Mighty Girl
  - [https://www.amightygirl.com](https://www.amightygirl.com)
@@ -1571,16 +1457,16 @@
  - tags: []
 
 ## Home - That Joe Scott
- - [http://www.answerswithjoe.com](http://www.answerswithjoe.com)
- - date published: 2024-02-23T01:16:31.865369+00:00
- - user: None
- - tags: []
-
-## Home - That Joe Scott
  - [https://www.answerswithjoe.com](https://www.answerswithjoe.com)
  - date published: 2024-02-22T16:48:46+00:00
  - user: rumpel
  - tags: ['youtuber', 'merchendise']
+
+## Home - That Joe Scott
+ - [http://www.answerswithjoe.com](http://www.answerswithjoe.com)
+ - date published: 2024-02-23T01:16:31.865369+00:00
+ - user: None
+ - tags: []
 
 ## https://www.antennalaunchers.com
  - [https://www.antennalaunchers.com](https://www.antennalaunchers.com)
@@ -1648,15 +1534,15 @@
  - user: None
  - tags: []
 
-## None
- - [https://antirez.com](https://antirez.com)
- - date published: 2024-01-02T12:33:10.039907+00:00
- - user: None
- - tags: []
-
 ## List of posts - <antirez>
  - [http://antirez.com](http://antirez.com)
  - date published: 2024-02-25T14:05:17.604190+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://antirez.com](https://antirez.com)
+ - date published: 2024-01-02T12:33:10.039907+00:00
  - user: None
  - tags: []
 
@@ -1846,6 +1732,12 @@
  - user: None
  - tags: []
 
+## Unified Mobile App Defense, All Android & iOS Apps - Appdome
+ - [https://www.appdome.com](https://www.appdome.com)
+ - date published: 2024-03-14T00:00:00+00:00
+ - user: rumpel
+ - tags: ['mobile app security']
+
 ## www.appimagehub.com
  - [https://www.appimagehub.com](https://www.appimagehub.com)
  - date published: 2023-10-24T20:06:25.658090+00:00
@@ -1954,15 +1846,15 @@
  - user: None
  - tags: []
 
-## apple-history.com / specs for every apple computer, established 1996
- - [https://apple-history.com](https://apple-history.com)
- - date published: 2024-01-09T02:29:45.944627+00:00
- - user: None
- - tags: []
-
 ## apple-history.com
  - [http://apple-history.com](http://apple-history.com)
  - date published: 2024-02-26T14:43:28.639176+00:00
+ - user: None
+ - tags: []
+
+## apple-history.com / specs for every apple computer, established 1996
+ - [https://apple-history.com](https://apple-history.com)
+ - date published: 2024-01-09T02:29:45.944627+00:00
  - user: None
  - tags: []
 
@@ -2093,14 +1985,14 @@
  - tags: []
 
 ## * arachnoid.com
- - [https://arachnoid.com](https://arachnoid.com)
- - date published: 2023-10-25T12:43:42.377144+00:00
+ - [http://arachnoid.com](http://arachnoid.com)
+ - date published: 2006-10-19T00:00:00+00:00
  - user: None
  - tags: []
 
 ## * arachnoid.com
- - [http://arachnoid.com](http://arachnoid.com)
- - date published: 2006-10-19T00:00:00+00:00
+ - [https://arachnoid.com](https://arachnoid.com)
+ - date published: 2023-10-25T12:43:42.377144+00:00
  - user: None
  - tags: []
 
@@ -2578,11 +2470,11 @@
  - user: None
  - tags: []
 
-## ARTnews.com – The Leading Source for Art News & Art Event Coverage
+## ARTnews.com
  - [https://www.artnews.com](https://www.artnews.com)
- - date published: 2023-10-25T11:01:07.928053+00:00
- - user: None
- - tags: []
+ - date published: 2024-03-19T18:43:11+00:00
+ - user: rumpel
+ - tags: ['art news']
 
 ## Iconify Design: All popular icon sets, one framework.
  - [https://www.artodia.com](https://www.artodia.com)
@@ -3316,11 +3208,23 @@
  - user: None
  - tags: []
 
+## AutoCheck.com
+ - [https://www.autocheck.com](https://www.autocheck.com)
+ - date published: 2024-03-19T11:57:40+00:00
+ - user: rumpel
+ - tags: ['vin', 'vehicles', 'online tool']
+
 ## Autodesk | 3D Design, Engineering & Construction Software
  - [https://www.autodesk.com](https://www.autodesk.com)
  - date published: 2023-10-25T11:27:24.915402+00:00
  - user: None
  - tags: []
+
+## Free VIN lookup with autoDNA
+ - [https://www.autodna.com](https://www.autodna.com)
+ - date published: 2024-03-19T11:58:46+00:00
+ - user: rumpel
+ - tags: ['vehicles', 'online tool']
 
 ## autoevolution: cars & moto news and vehicle specifications
  - [https://www.autoevolution.com](https://www.autoevolution.com)
@@ -3655,6 +3559,12 @@
 ## AzireVPN Blog
  - [https://blog.azirevpn.com](https://blog.azirevpn.com)
  - date published: 2023-10-25T12:51:30.283413+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://azomnium.com](https://azomnium.com)
+ - date published: 2024-03-19T09:04:02.154139+00:00
  - user: None
  - tags: []
 
@@ -5063,14 +4973,14 @@
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [http://billingsgazette.com](http://billingsgazette.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://billingsgazette.com](https://billingsgazette.com)
+ - date published: 2023-12-17T18:30:53.119094+00:00
  - user: None
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [https://billingsgazette.com](https://billingsgazette.com)
- - date published: 2023-12-17T18:30:53.119094+00:00
+ - [http://billingsgazette.com](http://billingsgazette.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5921,13 +5831,13 @@
  - tags: ['personal']
 
 ## The Axis of Eval
- - [http://axisofeval.blogspot.com](http://axisofeval.blogspot.com)
+ - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
  - date published: 2024-01-07T00:00:00+00:00
  - user: None
  - tags: []
 
 ## The Axis of Eval
- - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
+ - [http://axisofeval.blogspot.com](http://axisofeval.blogspot.com)
  - date published: 2024-01-07T00:00:00+00:00
  - user: None
  - tags: []
@@ -5995,6 +5905,96 @@
 ## Plants, Flowers, Oils and whimsy
  - [https://carriescharf.blogspot.com](https://carriescharf.blogspot.com)
  - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Cererean Scratchpad
+ - [https://cerereanscratchpad.blogspot.com](https://cerereanscratchpad.blogspot.com)
+ - date published: 2023-10-25T13:05:07.172479+00:00
+ - user: None
+ - tags: []
+
+## Chez Robert Giron
+ - [https://chezrobertgiron.blogspot.com](https://chezrobertgiron.blogspot.com)
+ - date published: 2024-02-08T18:16:53.876372+00:00
+ - user: None
+ - tags: []
+
+## My Sculpture Blog
+ - [https://chrisbathgate.blogspot.com](https://chrisbathgate.blogspot.com)
+ - date published: 2024-03-13T15:24:19.127608+00:00
+ - user: None
+ - tags: []
+
+## ClubOrlov
+ - [https://cluborlov.blogspot.com](https://cluborlov.blogspot.com)
+ - date published: 2024-02-24T18:23:30.664125+00:00
+ - user: None
+ - tags: []
+
+## Coding And Computers
+ - [https://coding-and-computers.blogspot.com](https://coding-and-computers.blogspot.com)
+ - date published: 2023-10-25T09:06:35.597530+00:00
+ - user: None
+ - tags: ['personal']
+
+## command center
+ - [https://commandcenter.blogspot.com](https://commandcenter.blogspot.com)
+ - date published: 2023-10-25T09:06:37.426358+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://concurrencyfreaks.blogspot.com](https://concurrencyfreaks.blogspot.com)
+ - date published: 2024-01-09T02:30:50.690047+00:00
+ - user: None
+ - tags: []
+
+## croucher
+ - [https://croucher.blogspot.com](https://croucher.blogspot.com)
+ - date published: 2024-02-08T22:04:00.208128+00:00
+ - user: None
+ - tags: []
+
+## The CRPG Addict
+ - [https://crpgaddict.blogspot.com](https://crpgaddict.blogspot.com)
+ - date published: 2023-11-03T07:09:22.088870+00:00
+ - user: None
+ - tags: []
+
+## Cubic
+ - [https://cubicspot.blogspot.com](https://cubicspot.blogspot.com)
+ - date published: 2023-10-25T09:08:04.589544+00:00
+ - user: None
+ - tags: ['personal']
+
+## Cypher Phunk
+ - [https://cypherphunk.blogspot.com](https://cypherphunk.blogspot.com)
+ - date published: 2023-10-25T09:08:06.752061+00:00
+ - user: None
+ - tags: ['personal']
+
+## Database Architects
+ - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
+ - date published: 2024-02-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Database Architects
+ - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
+ - date published: 2023-10-25T09:08:09.774302+00:00
+ - user: None
+ - tags: ['personal']
+
+## Data Finnovation
+ - [https://datafinnovation.blogspot.com](https://datafinnovation.blogspot.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DCblog
+ - [https://david-crystal.blogspot.com](https://david-crystal.blogspot.com)
+ - date published: 2004-02-26T00:00:00+00:00
  - user: None
  - tags: []
 

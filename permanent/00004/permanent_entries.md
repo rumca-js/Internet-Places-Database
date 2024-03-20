@@ -1,69 +1,3 @@
-## Computational Audiology Computational Audiology - Computational Audiology
- - [https://computationalaudiology.com](https://computationalaudiology.com)
- - date published: 2023-10-25T13:32:34.981402+00:00
- - user: None
- - tags: []
-
-## 504 Gateway Time-out
- - [https://computerengineeringforbabies.com](https://computerengineeringforbabies.com)
- - date published: 2024-01-18T00:14:10.718483+00:00
- - user: None
- - tags: []
-
-## Computer, Enhance! | Casey Muratori | Substack
- - [https://www.computerenhance.com](https://www.computerenhance.com)
- - date published: 2023-10-25T13:32:39.542030+00:00
- - user: None
- - tags: []
-
-## Computer Weekly | Information Technology (IT) News, UK IT Jobs, Industry News
- - [https://www.computerweekly.com](https://www.computerweekly.com)
- - date published: 2023-10-25T13:32:49.374619+00:00
- - user: None
- - tags: []
-
-## IT news, careers, business technology, reviews | Computerworld
- - [https://www.computerworld.com](https://www.computerworld.com)
- - date published: 2023-10-25T09:32:24.152677+00:00
- - user: None
- - tags: []
-
-## IT news, careers, business technology, reviews
- - [http://www.computerworld.com](http://www.computerworld.com)
- - date published: 2024-02-25T19:22:09.150165+00:00
- - user: None
- - tags: []
-
-## Home | Concerning Quality
- - [https://concerningquality.com](https://concerningquality.com)
- - date published: 2024-01-04T17:44:04.642304+00:00
- - user: None
- - tags: []
-
-## https://www.concordmonitor.com
- - [https://www.concordmonitor.com](https://www.concordmonitor.com)
- - date published: 2023-10-25T13:32:50.154763+00:00
- - user: None
- - tags: []
-
-## The Condiment Packet Gallery
- - [https://www.condimentpacket.com](https://www.condimentpacket.com)
- - date published: 2023-10-25T13:32:52.059539+00:00
- - user: None
- - tags: []
-
-## Conf42: online tech events
- - [https://www.conf42.com](https://www.conf42.com)
- - date published: 2023-10-25T13:32:57.935406+00:00
- - user: None
- - tags: []
-
-## None
- - [https://aaas.confex.com](https://aaas.confex.com)
- - date published: 2024-02-24T18:22:26.397111+00:00
- - user: None
- - tags: []
-
 ## Confiant | The First & Leading Ad Security & Quality Platform
  - [https://www.confiant.com](https://www.confiant.com)
  - date published: 2023-10-25T13:32:59.560606+00:00
@@ -689,14 +623,14 @@
  - tags: []
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [https://craphound.com](https://craphound.com)
- - date published: 2023-11-28T07:36:32+00:00
+ - [http://craphound.com](http://craphound.com)
+ - date published: 2024-02-25T19:26:24.229621+00:00
  - user: None
  - tags: []
 
 ## Cory Doctorow's craphound.com | Cory Doctorow's Literary Works
- - [http://craphound.com](http://craphound.com)
- - date published: 2024-02-25T19:26:24.229621+00:00
+ - [https://craphound.com](https://craphound.com)
+ - date published: 2023-11-28T07:36:32+00:00
  - user: None
  - tags: []
 
@@ -789,6 +723,12 @@
  - date published: 2024-02-01T16:08:45+00:00
  - user: rumpel
  - tags: ['creator platform']
+
+## None
+ - [https://peass.creator-spring.com](https://peass.creator-spring.com)
+ - date published: 2024-03-19T14:36:38.302363+00:00
+ - user: None
+ - tags: []
 
 ## https://tabletopminions.creator-spring.com
  - [https://tabletopminions.creator-spring.com](https://tabletopminions.creator-spring.com)
@@ -3491,15 +3431,15 @@
  - user: None
  - tags: []
 
-## introducing mazzle - a pipelines as code tool
- - [http://devops-pipeline.com](http://devops-pipeline.com)
- - date published: 2024-02-29T14:58:14.068438+00:00
- - user: None
- - tags: []
-
 ## Mazzle – A Pipelines as Code Tool
  - [https://devops-pipeline.com](https://devops-pipeline.com)
  - date published: 2023-12-31T11:15:08+00:00
+ - user: None
+ - tags: []
+
+## introducing mazzle - a pipelines as code tool
+ - [http://devops-pipeline.com](http://devops-pipeline.com)
+ - date published: 2024-02-29T14:58:14.068438+00:00
  - user: None
  - tags: []
 
@@ -4825,14 +4765,14 @@
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [https://drinkag1.com](https://drinkag1.com)
- - date published: 2024-02-24T09:55:07.922857+00:00
+ - [http://drinkag1.com](http://drinkag1.com)
+ - date published: 2024-01-21T19:15:07.982155+00:00
  - user: None
  - tags: []
 
 ## AG1 by Athletic Greens®
- - [http://drinkag1.com](http://drinkag1.com)
- - date published: 2024-01-21T19:15:07.982155+00:00
+ - [https://drinkag1.com](https://drinkag1.com)
+ - date published: 2024-02-24T09:55:07.922857+00:00
  - user: None
  - tags: []
 
@@ -5997,6 +5937,66 @@
 ## Eli Grey
  - [https://eligrey.com](https://eligrey.com)
  - date published: 2024-01-09T08:02:37.232012+00:00
+ - user: None
+ - tags: []
+
+## https://elihorne.com
+ - [https://elihorne.com](https://elihorne.com)
+ - date published: 2017-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Welcome - EliminateHQ
+ - [https://eliminatehq.com](https://eliminatehq.com)
+ - date published: 2024-02-29T22:04:20+00:00
+ - user: rumpel
+ - tags: ['music artist', 'youtuber']
+
+## COVID in Pixels
+ - [https://covid-in-pixels.eliothertenstein.com](https://covid-in-pixels.eliothertenstein.com)
+ - date published: 2023-10-25T14:05:25.704625+00:00
+ - user: None
+ - tags: []
+
+## Elisa Doucette
+ - [https://www.elisadoucette.com](https://www.elisadoucette.com)
+ - date published: 2023-12-20T00:58:34.049564+00:00
+ - user: None
+ - tags: ['personal']
+
+## Index
+ - [https://eliseshaffer.com](https://eliseshaffer.com)
+ - date published: 2023-12-18T22:13:17.426346+00:00
+ - user: None
+ - tags: []
+
+## Home · Elixir School
+ - [https://elixirschool.com](https://elixirschool.com)
+ - date published: 2023-12-11T12:32:14+00:00
+ - user: rumpel
+ - tags: ['tutorials', 'programming', 'courses']
+
+## Elizabeth B. Martin, Author/Illustrator
+ - [https://elizabethbmartin.com](https://elizabethbmartin.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Elizabeth Hummel
+ - [https://elizabethhummel.com](https://elizabethhummel.com)
+ - date published: 2024-01-11T17:10:19.476431+00:00
+ - user: None
+ - tags: []
+
+## Elizabeth Tai
+ - [https://elizabethtai.com](https://elizabethtai.com)
+ - date published: 2024-02-25T18:43:10.058322+00:00
+ - user: None
+ - tags: []
+
+## Elizabeth Tai
+ - [https://www.elizabethtai.com](https://www.elizabethtai.com)
+ - date published: 2024-01-15T08:35:15.539801+00:00
  - user: None
  - tags: []
 

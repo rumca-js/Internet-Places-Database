@@ -1,3 +1,117 @@
+## Tom Francis
+ - [https://www.pentadact.com](https://www.pentadact.com)
+ - date published: 2023-10-25T09:21:08.810960+00:00
+ - user: None
+ - tags: ['personal']
+
+## CyberSecurity Developer (API) Portal - PENTESTON - Stay secure
+ - [https://developer.penteston.com](https://developer.penteston.com)
+ - date published: 2024-01-09T02:46:02.810283+00:00
+ - user: None
+ - tags: []
+
+## Penetration testing toolkit, ready to use
+ - [https://pentest-tools.com](https://pentest-tools.com)
+ - date published: 2024-03-19T14:36:57.361231+00:00
+ - user: None
+ - tags: []
+
+## People.com | Celebrity News, Exclusives, Photos and Videos
+ - [https://people.com](https://people.com)
+ - date published: 2023-10-25T10:52:09.683787+00:00
+ - user: None
+ - tags: []
+
+## https://people2people.com
+ - [https://people2people.com](https://people2people.com)
+ - date published: 2024-02-08T16:31:07.870510+00:00
+ - user: None
+ - tags: []
+
+## People and Blogs
+ - [https://peopleandblogs.com](https://peopleandblogs.com)
+ - date published: 2023-10-25T16:32:21.821382+00:00
+ - user: None
+ - tags: []
+
+## Join Flourish! A newsletter to navigate business and life
+ - [https://peopleloveprojects.com](https://peopleloveprojects.com)
+ - date published: 2023-11-29T13:54:27.816636+00:00
+ - user: None
+ - tags: ['personal']
+
+## POCIT. Telling the stories and thoughts of people of color in tech.
+ - [https://peopleofcolorintech.com](https://peopleofcolorintech.com)
+ - date published: 2023-10-25T16:32:25.934361+00:00
+ - user: None
+ - tags: []
+
+## Home - Pepperidge Farm
+ - [https://www.pepperidgefarm.com](https://www.pepperidgefarm.com)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Samuel Pepys: Diary, Letters, Family Tree, Maps, Encyclopedia, Discussion and more
+ - [https://www.pepysdiary.com](https://www.pepysdiary.com)
+ - date published: 2023-10-25T16:32:28.890530+00:00
+ - user: None
+ - tags: []
+
+## Pera Barrett - Dad, Shoebox Christmas founder, author, musician, doer.
+ - [https://www.perabarrett.com](https://www.perabarrett.com)
+ - date published: 2024-01-12T22:14:14.873814+00:00
+ - user: None
+ - tags: ['personal']
+
+## Open Source Database Software Support & Services | Percona
+ - [https://www.percona.com](https://www.percona.com)
+ - date published: 2023-10-25T16:32:31.939924+00:00
+ - user: None
+ - tags: []
+
+## Hi, I'm David Perell.
+ - [https://perell.com](https://perell.com)
+ - date published: 2023-10-25T16:32:35.600204+00:00
+ - user: None
+ - tags: []
+
+## Music Technology & Synthesizers - Perfect Circuit
+ - [https://www.perfectcircuit.com](https://www.perfectcircuit.com)
+ - date published: 2023-12-24T20:04:00.092369+00:00
+ - user: None
+ - tags: []
+
+## https://perfectdarkmode.com
+ - [https://perfectdarkmode.com](https://perfectdarkmode.com)
+ - date published: 2023-12-12T08:09:19.439269+00:00
+ - user: None
+ - tags: ['personal']
+
+## Perfection Kills
+ - [https://perfectionkills.com](https://perfectionkills.com)
+ - date published: 2024-01-09T02:46:05.195684+00:00
+ - user: None
+ - tags: []
+
+## Perfection Kills
+ - [http://perfectionkills.com](http://perfectionkills.com)
+ - date published: 2015-11-04T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## perfectpacman.com – Under new management
+ - [https://perfectpacman.com](https://perfectpacman.com)
+ - date published: 2023-10-25T16:32:46.875034+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game
+ - [https://www.perfectpitchpuzzle.com](https://www.perfectpitchpuzzle.com)
+ - date published: 2023-11-24T20:54:17+00:00
+ - user: None
+ - tags: []
+
 ## PerfectRec: Personalized Product Recommendations
  - [https://www.perfectrec.com](https://www.perfectrec.com)
  - date published: 2023-10-25T16:32:57.052562+00:00
@@ -322,11 +436,11 @@
  - user: None
  - tags: []
 
-## https://www.pexels.com
+## Cierpliwości...
  - [https://www.pexels.com](https://www.pexels.com)
  - date published: 2023-10-27T10:12:59.070431+00:00
  - user: None
- - tags: ['assets images']
+ - tags: ['assets images', 'wallpapers']
 
 ## PFAFF Home English (United States)
  - [https://www.pfaff.com](https://www.pfaff.com)
@@ -1442,13 +1556,13 @@
  - tags: []
 
 ## Considerations on Codecrafting
- - [http://blog.polybdenum.com](http://blog.polybdenum.com)
+ - [https://blog.polybdenum.com](https://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Considerations on Codecrafting
- - [https://blog.polybdenum.com](https://blog.polybdenum.com)
+ - [http://blog.polybdenum.com](http://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
@@ -2527,6 +2641,12 @@
  - user: None
  - tags: []
 
+## Publuu | Interactive Online Flipbooks
+ - [https://publuu.com](https://publuu.com)
+ - date published: 2024-03-19T11:09:20+00:00
+ - user: rumpel
+ - tags: ['online tool']
+
 ## PUFFBUNNY STUDIO
  - [https://www.puffbunnystudio.com](https://www.puffbunnystudio.com)
  - date published: 2023-11-08T04:36:44.784840+00:00
@@ -3197,17 +3317,17 @@
  - user: None
  - tags: []
 
-## http://rachelwestbooks.com
- - [https://rachelwestbooks.com](https://rachelwestbooks.com)
- - date published: 2024-02-09T00:19:01.129739+00:00
- - user: None
- - tags: ['poetry', 'book', 'personal']
-
 ## None
  - [http://rachelwestbooks.com](http://rachelwestbooks.com)
  - date published: 2024-02-29T14:58:43.538321+00:00
  - user: None
  - tags: []
+
+## http://rachelwestbooks.com
+ - [https://rachelwestbooks.com](https://rachelwestbooks.com)
+ - date published: 2024-02-09T00:19:01.129739+00:00
+ - user: None
+ - tags: ['poetry', 'book', 'personal']
 
 ## Rachel Zampino | Website Wizard - Rachel Zampino
  - [https://rachelzampino.com](https://rachelzampino.com)
@@ -3330,14 +3450,14 @@
  - tags: ['personal']
 
 ## Reginald Braithwaite
- - [https://raganwald.com](https://raganwald.com)
- - date published: 2023-10-25T16:45:15.488174+00:00
+ - [http://raganwald.com](http://raganwald.com)
+ - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Reginald Braithwaite
- - [http://raganwald.com](http://raganwald.com)
- - date published: 2016-01-01T00:00:00+00:00
+ - [https://raganwald.com](https://raganwald.com)
+ - date published: 2023-10-25T16:45:15.488174+00:00
  - user: None
  - tags: []
 
@@ -4300,7 +4420,7 @@ More!
  - [https://reedsy.com](https://reedsy.com)
  - date published: 2023-10-25T16:48:54.640395+00:00
  - user: None
- - tags: []
+ - tags: ['social platform']
 
 ## Reel Inequality: Charting the Vanishing Middle Class of Movies
  - [https://www.reelinequality.com](https://www.reelinequality.com)
@@ -4762,7 +4882,7 @@ More!
  - [https://www.retroreversing.com](https://www.retroreversing.com)
  - date published: 2023-10-25T16:50:34.097785+00:00
  - user: None
- - tags: []
+ - tags: ['reverse engineering']
 
 ## RetroRGB |
  - [https://www.retrorgb.com](https://www.retrorgb.com)
@@ -5885,124 +6005,4 @@ More!
  - date published: 2023-10-25T16:18:12.778211+00:00
  - user: None
  - tags: ['music news', 'political news']
-
-## Roll Or Don't
- - [https://www.rollordont.com](https://www.rollordont.com)
- - date published: 2023-10-25T16:54:28.108990+00:00
- - user: None
- - tags: []
-
-## 2omain 3030Ξ
- - [https://www.romainboboe.com](https://www.romainboboe.com)
- - date published: 2023-12-12T13:08:31.619524+00:00
- - user: None
- - tags: ['personal']
-
-## ROMS Pack - ROM Sets - All Emulator's ROM Packs
- - [https://www.romspack.com](https://www.romspack.com)
- - date published: 2023-10-25T11:10:00.994137+00:00
- - user: None
- - tags: ['emulation']
-
-## Ronak Ganatra
- - [https://ronakganatra.com](https://ronakganatra.com)
- - date published: 2023-10-25T16:54:28.835966+00:00
- - user: None
- - tags: []
-
-## Ron Bronson
- - [https://work.ronbronson.com](https://work.ronbronson.com)
- - date published: 2023-11-29T15:53:20.777849+00:00
- - user: None
- - tags: ['personal']
-
-## Electronic Music | Rone
- - [https://www.rone-music.com](https://www.rone-music.com)
- - date published: 2023-11-13T10:26:39.229989+00:00
- - user: None
- - tags: ['music band']
-
-## RongenRobles.com
- - [https://rongenrobles.com](https://rongenrobles.com)
- - date published: 2024-01-13T22:53:21.904627+00:00
- - user: None
- - tags: []
-
-## Jet Beetle
- - [https://www.ronpatrickstuff.com](https://www.ronpatrickstuff.com)
- - date published: 2023-10-25T08:47:50.285670+00:00
- - user: None
- - tags: ['personal']
-
-## https://aiquiz.ronsor.com
- - [https://aiquiz.ronsor.com](https://aiquiz.ronsor.com)
- - date published: 2024-01-09T02:48:16.377059+00:00
- - user: None
- - tags: []
-
-## About | Undeleted Files
- - [https://undeleted.ronsor.com](https://undeleted.ronsor.com)
- - date published: 2023-10-25T16:54:29.700415+00:00
- - user: None
- - tags: []
-
-## http://timothywasike.ronzag.com
- - [http://timothywasike.ronzag.com](http://timothywasike.ronzag.com)
- - date published: 2023-12-10T16:59:19.722167+00:00
- - user: None
- - tags: ['personal']
-
-## my blog
- - [https://ronzhyn.com](https://ronzhyn.com)
- - date published: 2023-12-03T01:43:15.181104+00:00
- - user: None
- - tags: ['personal']
-
-## RorVsWild - All-in-one server monitoring for Ruby on Rails applications
- - [https://www.rorvswild.com](https://www.rorvswild.com)
- - date published: 2023-12-07T14:48:44.621698+00:00
- - user: None
- - tags: []
-
-## MacBook Repair Austin | (347) 552-2258 | Rossmann Repair Group
- - [https://www.rossmanngroup.com](https://www.rossmanngroup.com)
- - date published: 2023-11-03T10:37:01.928688+00:00
- - user: None
- - tags: ['louis rossmann']
-
-## Ross Zeiger - Software, Video, Business, Life Abroad
- - [https://rosszeiger.com](https://rosszeiger.com)
- - date published: 2023-11-29T17:18:54.650056+00:00
- - user: None
- - tags: ['personal']
-
-## Rotaboxes - the daily photo puzzle game
- - [https://rotaboxes.com](https://rotaboxes.com)
- - date published: 2023-10-25T16:54:35.233146+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.rotarywoofer.com](https://www.rotarywoofer.com)
- - date published: 2024-01-09T02:48:20.061558+00:00
- - user: None
- - tags: []
-
-## Rotating Sandwiches – that's it
- - [https://rotatingsandwiches.com](https://rotatingsandwiches.com)
- - date published: 2023-10-25T16:54:37.119990+00:00
- - user: None
- - tags: []
-
-## Rotten Tomatoes: Movies | TV Shows | Movie Trailers | Reviews - Rotten Tomatoes
- - [https://www.rottentomatoes.com](https://www.rottentomatoes.com)
- - date published: 2023-10-25T16:43:03.779236+00:00
- - user: None
- - tags: ['movies', 'ranking']
-
-## Rough.js: Create graphics with a hand-drawn, sketchy, appearance
- - [https://roughjs.com](https://roughjs.com)
- - date published: 2023-12-22T08:06:23+00:00
- - user: None
- - tags: []
 

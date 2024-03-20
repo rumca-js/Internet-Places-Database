@@ -1,3 +1,9 @@
+## Digital Certificates - PKI - SSL/TLS  GlobalSign GMO
+ - [https://www.globalsign.com](https://www.globalsign.com)
+ - date published: 2023-10-25T14:45:57.049966+00:00
+ - user: None
+ - tags: []
+
 ## https://electronics360.globalspec.com
  - [https://electronics360.globalspec.com](https://electronics360.globalspec.com)
  - date published: 2023-10-25T14:45:57.332220+00:00
@@ -123,6 +129,12 @@
  - date published: 2023-12-13T15:35:40+00:00
  - user: rumpel
  - tags: ['internet', 'funny', 'wtf']
+
+## Show HN: Godspeed is a fast, 100% keyboard oriented todo app for Mac
+ - [https://godspeedapp.com](https://godspeedapp.com)
+ - date published: 2024-03-19T14:53:51+00:00
+ - user: None
+ - tags: []
 
 ## GoFundMe: #1 Fundraising Platform for Crowdfunding
  - [https://www.gofundme.com](https://www.gofundme.com)
@@ -266,7 +278,7 @@
  - [https://www.goodreads.com](https://www.goodreads.com)
  - date published: 2023-10-29T14:35:04.185228+00:00
  - user: None
- - tags: ['books']
+ - tags: ['books', 'book reviews']
 
 ## Sign in - Google Accounts
  - [https://accounts.google.com](https://accounts.google.com)
@@ -526,17 +538,17 @@
  - user: None
  - tags: []
 
-## Google flights
- - [https://www.google.com/travel/flights](https://www.google.com/travel/flights)
- - date published: 2024-01-02T07:35:30+00:00
- - user: rumpel
- - tags: []
-
 ## Google
  - [https://www.google.com](https://www.google.com)
  - date published: 2023-10-25T08:28:06.744876+00:00
  - user: None
  - tags: ['gatekeeper', 'search engine']
+
+## Google flights
+ - [https://www.google.com/travel/flights](https://www.google.com/travel/flights)
+ - date published: 2024-01-02T07:35:30+00:00
+ - user: rumpel
+ - tags: []
 
 ## Hosted Libraries  |  Google for Developers
  - [https://ajax.googleapis.com](https://ajax.googleapis.com)
@@ -1387,6 +1399,12 @@
  - user: None
  - tags: []
 
+## GTrainers - Game Trainers, Cheats and Savegames
+ - [https://gtrainers.com](https://gtrainers.com)
+ - date published: 2024-03-19T16:01:23+00:00
+ - user: rumpel
+ - tags: ['game trainers']
+
 ## Game That Tune Radio
  - [https://gttradio.com](https://gttradio.com)
  - date published: 2024-02-15T00:00:00+00:00
@@ -1410,6 +1428,12 @@
  - date published: 2023-10-25T14:52:45.193590+00:00
  - user: None
  - tags: []
+
+## GuidedHacking - Learn Reverse Engineering & Game Hacking
+ - [https://guidedhacking.com](https://guidedhacking.com)
+ - date published: 2024-03-19T14:36:25+00:00
+ - user: rumpel
+ - tags: ['game hacking']
 
 ## Guide Fari
  - [https://www.guidefari.com](https://www.guidefari.com)
@@ -1752,6 +1776,12 @@
  - date published: 2023-10-25T14:55:13.491770+00:00
  - user: None
  - tags: []
+
+## HackMag – Security, malware, coding, devops
+ - [https://hackmag.com](https://hackmag.com)
+ - date published: 2024-03-19T15:12:10+00:00
+ - user: rumpel
+ - tags: ['tech news', 'hacking news', 'cybersecurity news']
 
 ## - Hackread - Latest Cybersecurity News, Press Releases & Technology Today
  - [https://hackread.com](https://hackread.com)
@@ -2990,14 +3020,14 @@
  - tags: ['personal']
 
 ## Hodinkee
- - [http://www.hodinkee.com](http://www.hodinkee.com)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://www.hodinkee.com](https://www.hodinkee.com)
+ - date published: 2023-10-25T15:00:20.442749+00:00
  - user: None
  - tags: []
 
 ## Hodinkee
- - [https://www.hodinkee.com](https://www.hodinkee.com)
- - date published: 2023-10-25T15:00:20.442749+00:00
+ - [http://www.hodinkee.com](http://www.hodinkee.com)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4729,6 +4759,18 @@
  - user: rumpel
  - tags: ['technology']
 
+## InfoSec Write-ups
+ - [https://infosecwriteups.com](https://infosecwriteups.com)
+ - date published: 2024-03-18T00:00:00+00:00
+ - user: rumpel
+ - tags: ['cybersecurity news']
+
+## The Infosec Newsletter
+ - [https://weekly.infosecwriteups.com](https://weekly.infosecwriteups.com)
+ - date published: 2024-03-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## None
  - [https://www.infostealers.com](https://www.infostealers.com)
  - date published: 2023-12-30T19:51:04.567173+00:00
@@ -4742,16 +4784,16 @@
  - tags: ['information company', 'india']
 
 ## InfoWorld - Technology insight for the enterprise
- - [https://www.infoworld.com](https://www.infoworld.com)
- - date published: 2023-10-25T09:33:30.464349+00:00
- - user: None
- - tags: ['tech news']
-
-## InfoWorld - Technology insight for the enterprise
  - [http://www.infoworld.com](http://www.infoworld.com)
  - date published: 2024-02-25T20:55:36.520873+00:00
  - user: None
  - tags: []
+
+## InfoWorld - Technology insight for the enterprise
+ - [https://www.infoworld.com](https://www.infoworld.com)
+ - date published: 2023-10-25T09:33:30.464349+00:00
+ - user: None
+ - tags: ['tech news']
 
 ## Infrastructure as Code
  - [https://infrastructure-as-code.com](https://infrastructure-as-code.com)
@@ -5155,6 +5197,18 @@
  - user: None
  - tags: []
 
+## Intigriti - Bug Bounty & Agile Pentesting Platform
+ - [https://go.intigriti.com](https://go.intigriti.com)
+ - date published: 2024-03-18T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Intigriti - Bug Bounty & Agile Pentesting Platform
+ - [https://www.intigriti.com](https://www.intigriti.com)
+ - date published: 2024-03-18T00:00:00+00:00
+ - user: None
+ - tags: ['hacking', 'cybersecurity']
+
 ## Into Far Lands | Explore and Experience through Stories
  - [https://www.intofarlands.com](https://www.intofarlands.com)
  - date published: 2023-10-25T15:22:27.653615+00:00
@@ -5287,11 +5341,11 @@
  - user: None
  - tags: []
 
-## Cierpliwości...
+## IOT world today
  - [https://www.iotworldtoday.com](https://www.iotworldtoday.com)
- - date published: 2024-03-18T22:26:34.461705+00:00
- - user: None
- - tags: []
+ - date published: 2024-03-18T22:26:34+00:00
+ - user: rumpel
+ - tags: ['tech news', 'iot news']
 
 ## HOME - PAMELA FERNUIK
  - [https://www.ipaintiwrite.com](https://www.ipaintiwrite.com)
@@ -5399,7 +5453,7 @@
  - [https://www.irishtimes.com](https://www.irishtimes.com)
  - date published: 2023-10-25T10:43:28.313212+00:00
  - user: None
- - tags: []
+ - tags: ['news']
 
 ## Iris van Rooij
  - [https://irisvanrooijcogsci.com](https://irisvanrooijcogsci.com)
@@ -5509,6 +5563,12 @@
  - user: None
  - tags: ['personal']
 
+## Ismael Celis
+ - [https://ismaelcelis.com](https://ismaelcelis.com)
+ - date published: 2024-03-17T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## None
  - [https://www.ismailzai.com](https://www.ismailzai.com)
  - date published: 2024-01-09T09:17:26.042306+00:00
@@ -5580,6 +5640,12 @@
  - date published: 2023-10-25T15:24:08.139470+00:00
  - user: None
  - tags: []
+
+## Issuu | Create Interactive Flipbooks on our Digital Publishing Platform
+ - [https://issuu.com](https://issuu.com)
+ - date published: 2024-03-19T11:05:36+00:00
+ - user: rumpel
+ - tags: ['online tool']
 
 ## Status Overview • Is The Service Down?
  - [https://istheservicedown.com](https://istheservicedown.com)
@@ -5932,72 +5998,6 @@
 ## Helping Creative CEOs & Founders Scale Without Burnout
  - [https://jadahsellner.com](https://jadahsellner.com)
  - date published: 2024-02-11T05:02:38.252354+00:00
- - user: None
- - tags: ['personal']
-
-## Jagran Josh: Education News, Complete Career Guide for Board Exams, Colleges and Jobs
- - [https://www.jagranjosh.com](https://www.jagranjosh.com)
- - date published: 2024-01-21T19:07:43.010542+00:00
- - user: None
- - tags: []
-
-## Jailbreak Chat
- - [https://www.jailbreakchat.com](https://www.jailbreakchat.com)
- - date published: 2023-10-25T15:25:49.907916+00:00
- - user: None
- - tags: []
-
-## Jaime Bermejo ¿Quién soy? - 🚀 JAIME BERMEJO 🚀
- - [https://www.jaimebermejo.com](https://www.jaimebermejo.com)
- - date published: 2023-12-11T23:18:00.179044+00:00
- - user: None
- - tags: ['personal']
-
-## Jain | The Fool | Official Website
- - [https://www.jain-music.com](https://www.jain-music.com)
- - date published: 2023-11-13T09:51:26.066975+00:00
- - user: None
- - tags: ['music band']
-
-## Blog - JakeArchibald.com
- - [https://jakearchibald.com](https://jakearchibald.com)
- - date published: 2023-10-25T15:25:50.778011+00:00
- - user: None
- - tags: []
-
-## Jake Coppinger
- - [https://jakecoppinger.com](https://jakecoppinger.com)
- - date published: 2023-10-25T15:25:55.918940+00:00
- - user: None
- - tags: []
-
-## Athlete | JFP Sailing | England
- - [https://www.jakefarrenprice.com](https://www.jakefarrenprice.com)
- - date published: 2023-11-29T14:53:18.199392+00:00
- - user: None
- - tags: ['personal']
-
-## Web, mobile app development, and other stuff too
- - [https://www.jakekorth.com](https://www.jakekorth.com)
- - date published: 2023-12-27T10:11:14.489363+00:00
- - user: None
- - tags: ['personal']
-
-## jakelazaroff.com
- - [https://jakelazaroff.com](https://jakelazaroff.com)
- - date published: 2023-10-25T08:46:14.704303+00:00
- - user: None
- - tags: ['personal']
-
-## The Story's Story
- - [https://jakeseliger.com](https://jakeseliger.com)
- - date published: 2023-10-25T15:26:08.119306+00:00
- - user: None
- - tags: []
-
-## Jake Walker
- - [https://jakewalker.com](https://jakewalker.com)
- - date published: 2023-11-29T14:42:08.821311+00:00
  - user: None
  - tags: ['personal']
 

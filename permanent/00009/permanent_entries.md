@@ -1,3 +1,87 @@
+## More Than Coding
+ - [https://morethancoding.com](https://morethancoding.com)
+ - date published: 2024-02-16T17:08:08.687324+00:00
+ - user: None
+ - tags: ['personal']
+
+## More To That
+ - [https://moretothat.com](https://moretothat.com)
+ - date published: 2023-10-25T16:06:52.787774+00:00
+ - user: None
+ - tags: []
+
+## Freelance web developer & designer
+ - [https://morganfeeney.com](https://morganfeeney.com)
+ - date published: 2023-11-29T14:42:17.810644+00:00
+ - user: None
+ - tags: ['personal']
+
+## Morgan Hill Times | Morgan Hill, San Martin, CA | Home of the Morgan Hill Times
+ - [https://morganhilltimes.com](https://morganhilltimes.com)
+ - date published: 2023-10-25T16:06:57.200736+00:00
+ - user: None
+ - tags: []
+
+## MÖRK BORG
+ - [https://morkborg.com](https://morkborg.com)
+ - date published: 2024-01-26T15:17:50+00:00
+ - user: rumpel
+ - tags: ['role playing game']
+
+## welcome to mormoroi
+ - [https://mormoroi.com](https://mormoroi.com)
+ - date published: 2024-01-21T12:29:18.131870+00:00
+ - user: None
+ - tags: []
+
+## MorningChores - Build Your Self-Sufficient Life
+ - [https://morningchores.com](https://morningchores.com)
+ - date published: 2023-10-28T17:39:06.396407+00:00
+ - user: None
+ - tags: ['homesteading']
+
+## Morningstar | Empowering Investor Success
+ - [https://www.morningstar.com](https://www.morningstar.com)
+ - date published: 2023-10-25T16:07:11.198196+00:00
+ - user: None
+ - tags: []
+
+## Web Design • Tech Support • Podcasts
+ - [https://www.morningtempo.com](https://www.morningtempo.com)
+ - date published: 2023-12-21T03:33:32.560180+00:00
+ - user: None
+ - tags: ['personal']
+
+## Morocco World News - Morocco Now - Morocco Latest News
+ - [https://www.moroccoworldnews.com](https://www.moroccoworldnews.com)
+ - date published: 2023-10-25T16:07:11.896750+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.morphosppc.com](https://www.morphosppc.com)
+ - date published: 2024-01-09T02:44:14.805757+00:00
+ - user: None
+ - tags: []
+
+## Mortal Kombat 11 Ultimate
+ - [https://mk11.mortalkombat.com](https://mk11.mortalkombat.com)
+ - date published: 2023-11-01T08:42:40.063578+00:00
+ - user: None
+ - tags: []
+
+## 1
+ - [https://www.mortalkombat.com](https://www.mortalkombat.com)
+ - date published: 2023-11-01T08:42:41.715550+00:00
+ - user: None
+ - tags: []
+
+## Morten Vistisen | Ramblings about Tech and making Internet Money
+ - [https://mortenvistisen.com](https://mortenvistisen.com)
+ - date published: 2023-10-25T16:07:12.653400+00:00
+ - user: None
+ - tags: []
+
 ## None
  - [https://mosaicmagazine.com](https://mosaicmagazine.com)
  - date published: 2023-10-27T12:49:31.579848+00:00
@@ -275,14 +359,14 @@
  - tags: []
 
 ## mtstandard.com | Read Butte, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles
- - [http://mtstandard.com](http://mtstandard.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://mtstandard.com](https://mtstandard.com)
+ - date published: 2023-11-27T17:10:46.469072+00:00
  - user: None
  - tags: []
 
 ## mtstandard.com | Read Butte, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles
- - [https://mtstandard.com](https://mtstandard.com)
- - date published: 2023-11-27T17:10:46.469072+00:00
+ - [http://mtstandard.com](http://mtstandard.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1901,14 +1985,14 @@
  - tags: []
 
 ## NewssMex
- - [http://www.newssmex.com](http://www.newssmex.com)
- - date published: 2024-02-27T12:33:40.005835+00:00
+ - [https://www.newssmex.com](https://www.newssmex.com)
+ - date published: 2024-02-27T12:34:22.767672+00:00
  - user: None
  - tags: []
 
 ## NewssMex
- - [https://www.newssmex.com](https://www.newssmex.com)
- - date published: 2024-02-27T12:34:22.767672+00:00
+ - [http://www.newssmex.com](http://www.newssmex.com)
+ - date published: 2024-02-27T12:33:40.005835+00:00
  - user: None
  - tags: []
 
@@ -2042,7 +2126,7 @@
  - [https://www.nextron-systems.com](https://www.nextron-systems.com)
  - date published: 2024-02-07T00:00:00+00:00
  - user: rumpel
- - tags: ['cybersecurity']
+ - tags: ['asgard', 'cybersecurity']
 
 ## NextShark.com - Asian American News
  - [https://nextshark.com](https://nextshark.com)
@@ -2513,15 +2597,15 @@
  - user: None
  - tags: ['music band']
 
-## [NFC: The Internet Nirvana Fan Club]
- - [https://www.nirvanaclub.com](https://www.nirvanaclub.com)
- - date published: 2023-10-25T14:19:53.039695+00:00
- - user: None
- - tags: []
-
 ## The Internet Nirvana Fan Club
  - [http://www.nirvanaclub.com](http://www.nirvanaclub.com)
  - date published: 2024-02-26T09:19:36.552314+00:00
+ - user: None
+ - tags: []
+
+## [NFC: The Internet Nirvana Fan Club]
+ - [https://www.nirvanaclub.com](https://www.nirvanaclub.com)
+ - date published: 2023-10-25T14:19:53.039695+00:00
  - user: None
  - tags: []
 
@@ -2910,13 +2994,13 @@
  - tags: []
 
 ## Peter Norvig
- - [https://www.norvig.com](https://www.norvig.com)
+ - [http://www.norvig.com](http://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Peter Norvig
- - [http://www.norvig.com](http://www.norvig.com)
+ - [https://www.norvig.com](https://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -3141,6 +3225,12 @@ Answering Machine Greetings!
 ## No Stinking Loops
  - [https://www.nsl.com](https://www.nsl.com)
  - date published: 2023-12-16T11:59:06+00:00
+ - user: None
+ - tags: []
+
+## North Shore Local News
+ - [https://www.nsnews.com](https://www.nsnews.com)
+ - date published: 2024-03-19T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3684,6 +3774,18 @@ Answering Machine Greetings!
 ## Semiconductor Technology News & Analysis | The Ojo-Yoshida Report
  - [https://ojoyoshidareport.com](https://ojoyoshidareport.com)
  - date published: 2024-01-16T23:54:46.699985+00:00
+ - user: None
+ - tags: []
+
+## Title
+ - [https://app.okapicrm.com](https://app.okapicrm.com)
+ - date published: 2024-03-19T15:59:10.325190+00:00
+ - user: None
+ - tags: []
+
+## Okapi
+ - [https://okapicrm.com](https://okapicrm.com)
+ - date published: 2024-03-11T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5752,15 +5854,15 @@ Answering Machine Greetings!
  - user: None
  - tags: ['personal']
 
-## PCMag UK
- - [http://uk.pcmag.com](http://uk.pcmag.com)
- - date published: 2024-02-26T09:45:15.403718+00:00
- - user: None
- - tags: []
-
 ## PCMag.com - Technology Product Reviews, News, Prices & Tips
  - [https://uk.pcmag.com](https://uk.pcmag.com)
  - date published: 2023-10-25T09:34:32.882984+00:00
+ - user: None
+ - tags: []
+
+## PCMag UK
+ - [http://uk.pcmag.com](http://uk.pcmag.com)
+ - date published: 2024-02-26T09:45:15.403718+00:00
  - user: None
  - tags: []
 
@@ -5854,6 +5956,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## PELock Software Protection & Software License Key System
+ - [https://www.pelock.com](https://www.pelock.com)
+ - date published: 2024-03-19T15:09:07+00:00
+ - user: rumpel
+ - tags: ['reverse engineering']
+
 ## PelotonCal
  - [https://pelotoncal.com](https://pelotoncal.com)
  - date published: 2023-10-25T16:32:06.386585+00:00
@@ -5893,114 +6001,6 @@ Answering Machine Greetings!
 ## Central PA Local News, Breaking News, Sports & Weather
  - [https://www.pennlive.com](https://www.pennlive.com)
  - date published: 2023-11-04T15:48:22.366123+00:00
- - user: None
- - tags: []
-
-## Tom Francis
- - [https://www.pentadact.com](https://www.pentadact.com)
- - date published: 2023-10-25T09:21:08.810960+00:00
- - user: None
- - tags: ['personal']
-
-## CyberSecurity Developer (API) Portal - PENTESTON - Stay secure
- - [https://developer.penteston.com](https://developer.penteston.com)
- - date published: 2024-01-09T02:46:02.810283+00:00
- - user: None
- - tags: []
-
-## People.com | Celebrity News, Exclusives, Photos and Videos
- - [https://people.com](https://people.com)
- - date published: 2023-10-25T10:52:09.683787+00:00
- - user: None
- - tags: []
-
-## https://people2people.com
- - [https://people2people.com](https://people2people.com)
- - date published: 2024-02-08T16:31:07.870510+00:00
- - user: None
- - tags: []
-
-## People and Blogs
- - [https://peopleandblogs.com](https://peopleandblogs.com)
- - date published: 2023-10-25T16:32:21.821382+00:00
- - user: None
- - tags: []
-
-## Join Flourish! A newsletter to navigate business and life
- - [https://peopleloveprojects.com](https://peopleloveprojects.com)
- - date published: 2023-11-29T13:54:27.816636+00:00
- - user: None
- - tags: ['personal']
-
-## POCIT. Telling the stories and thoughts of people of color in tech.
- - [https://peopleofcolorintech.com](https://peopleofcolorintech.com)
- - date published: 2023-10-25T16:32:25.934361+00:00
- - user: None
- - tags: []
-
-## Home - Pepperidge Farm
- - [https://www.pepperidgefarm.com](https://www.pepperidgefarm.com)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Samuel Pepys: Diary, Letters, Family Tree, Maps, Encyclopedia, Discussion and more
- - [https://www.pepysdiary.com](https://www.pepysdiary.com)
- - date published: 2023-10-25T16:32:28.890530+00:00
- - user: None
- - tags: []
-
-## Pera Barrett - Dad, Shoebox Christmas founder, author, musician, doer.
- - [https://www.perabarrett.com](https://www.perabarrett.com)
- - date published: 2024-01-12T22:14:14.873814+00:00
- - user: None
- - tags: ['personal']
-
-## Open Source Database Software Support & Services | Percona
- - [https://www.percona.com](https://www.percona.com)
- - date published: 2023-10-25T16:32:31.939924+00:00
- - user: None
- - tags: []
-
-## Hi, I'm David Perell.
- - [https://perell.com](https://perell.com)
- - date published: 2023-10-25T16:32:35.600204+00:00
- - user: None
- - tags: []
-
-## Music Technology & Synthesizers - Perfect Circuit
- - [https://www.perfectcircuit.com](https://www.perfectcircuit.com)
- - date published: 2023-12-24T20:04:00.092369+00:00
- - user: None
- - tags: []
-
-## https://perfectdarkmode.com
- - [https://perfectdarkmode.com](https://perfectdarkmode.com)
- - date published: 2023-12-12T08:09:19.439269+00:00
- - user: None
- - tags: ['personal']
-
-## Perfection Kills
- - [https://perfectionkills.com](https://perfectionkills.com)
- - date published: 2024-01-09T02:46:05.195684+00:00
- - user: None
- - tags: []
-
-## Perfection Kills
- - [http://perfectionkills.com](http://perfectionkills.com)
- - date published: 2015-11-04T00:00:00+00:00
- - user: None
- - tags: []
-
-## perfectpacman.com – Under new management
- - [https://perfectpacman.com](https://perfectpacman.com)
- - date published: 2023-10-25T16:32:46.875034+00:00
- - user: None
- - tags: []
-
-## Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game
- - [https://www.perfectpitchpuzzle.com](https://www.perfectpitchpuzzle.com)
- - date published: 2023-11-24T20:54:17+00:00
  - user: None
  - tags: []
 
