@@ -1,3 +1,249 @@
+## LineageOS – LineageOS Android Distribution
+ - [https://lineageos.org](https://lineageos.org)
+ - date published: 2023-10-25T08:32:27.769540+00:00
+ - user: None
+ - tags: ['android', 'lineageos', 'operating system']
+
+## Linear Book Scanner - The open-source automatic book scanner
+ - [https://linearbookscanner.org](https://linearbookscanner.org)
+ - date published: 2023-10-25T08:36:34.572791+00:00
+ - user: None
+ - tags: []
+
+## Linebender
+ - [https://linebender.org](https://linebender.org)
+ - date published: 2023-04-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The Linux Information Project (LINFO) Home Page
+ - [https://www.linfo.org](https://www.linfo.org)
+ - date published: 2023-10-25T21:38:55.368279+00:00
+ - user: None
+ - tags: []
+
+## Linux.org
+ - [https://www.linux.org](https://www.linux.org)
+ - date published: 2023-10-25T21:38:58.347661+00:00
+ - user: None
+ - tags: []
+
+## Linux Containers Forum
+ - [https://discuss.linuxcontainers.org](https://discuss.linuxcontainers.org)
+ - date published: 2023-10-25T21:39:03.769630+00:00
+ - user: None
+ - tags: []
+
+## Linux Containers - Image server
+ - [https://images.linuxcontainers.org](https://images.linuxcontainers.org)
+ - date published: 2024-03-03T11:36:27.306794+00:00
+ - user: None
+ - tags: []
+
+## Linux Containers
+ - [https://linuxcontainers.org](https://linuxcontainers.org)
+ - date published: 2023-10-25T21:39:05.617056+00:00
+ - user: None
+ - tags: []
+
+## Show HN: LinuxDAW – Quality audio software for Linux
+ - [https://linuxdaw.org](https://linuxdaw.org)
+ - date published: 2023-12-30T15:21:12+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Linux From Scratch!
+ - [https://www.linuxfromscratch.org](https://www.linuxfromscratch.org)
+ - date published: 2023-10-25T21:39:07.168165+00:00
+ - user: None
+ - tags: ['operating system']
+
+## KVM
+ - [https://www.linux-kvm.org](https://www.linux-kvm.org)
+ - date published: 2023-10-25T21:39:00.493933+00:00
+ - user: None
+ - tags: []
+
+## LISEP Ludwig Institute for Shared Economic Prosperity
+ - [https://www.lisep.org](https://www.lisep.org)
+ - date published: 2024-02-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## LiteDB :: A .NET embedded NoSQL database
+ - [https://www.litedb.org](https://www.litedb.org)
+ - date published: 2023-10-25T21:39:07.941318+00:00
+ - user: None
+ - tags: []
+
+## Take a Book. Share a Book. - Little Free Library
+ - [https://littlefreelibrary.org](https://littlefreelibrary.org)
+ - date published: 2023-10-25T21:39:11.222918+00:00
+ - user: None
+ - tags: []
+
+## Live Action |  Pro-Life Advocacy for Dignity and Human Rights
+ - [https://www.liveaction.org](https://www.liveaction.org)
+ - date published: 2023-10-25T21:39:14.444748+00:00
+ - user: None
+ - tags: []
+
+## Living Code
+ - [https://livingcode.org](https://livingcode.org)
+ - date published: 2020-07-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Living New Deal | Living New Deal
+ - [https://livingnewdeal.org](https://livingnewdeal.org)
+ - date published: 2024-01-03T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## LKML.ORG - the Linux Kernel Mailing List Archive
+ - [https://lkml.org](https://lkml.org)
+ - date published: 2023-11-13T12:04:53.320666+00:00
+ - user: None
+ - tags: []
+
+## Universal and Transferable Attacks on Aligned Language Models
+ - [https://llm-attacks.org](https://llm-attacks.org)
+ - date published: 2023-10-25T21:39:17.051556+00:00
+ - user: None
+ - tags: []
+
+## GPU Utils ⚡️
+ - [https://gpus.llm-utils.org](https://gpus.llm-utils.org)
+ - date published: 2023-10-25T21:39:18.562208+00:00
+ - user: None
+ - tags: []
+
+## Home - LLM Utils
+ - [https://llm-utils.org](https://llm-utils.org)
+ - date published: 2023-10-25T21:39:20.535334+00:00
+ - user: None
+ - tags: []
+
+## The LLVM Project Blog
+ - [https://blog.llvm.org](https://blog.llvm.org)
+ - date published: 2023-12-12T23:37:43.090695+00:00
+ - user: None
+ - tags: []
+
+## LLVM Discussion Forums - Our community includes both users and developers of various compiler technologies within the LLVM project.
+ - [https://discourse.llvm.org](https://discourse.llvm.org)
+ - date published: 2023-10-25T21:39:24.567913+00:00
+ - user: None
+ - tags: []
+
+## The LLVM Compiler Infrastructure Project
+ - [https://llvm.org](https://llvm.org)
+ - date published: 2023-10-25T21:39:28.896311+00:00
+ - user: None
+ - tags: ['compiler']
+
+## Download LLVM releases
+ - [https://releases.llvm.org](https://releases.llvm.org)
+ - date published: 2023-10-25T21:39:30.474866+00:00
+ - user: None
+ - tags: []
+
+## Loża-Matka "Kopernik"
+ - [https://lmkopernik.org](https://lmkopernik.org)
+ - date published: 2023-12-05T15:16:55+00:00
+ - user: None
+ - tags: ['freemasonry']
+
+## Mistral AI launches Mixtral-Next
+ - [https://chat.lmsys.org](https://chat.lmsys.org)
+ - date published: 2024-02-17T03:46:24+00:00
+ - user: None
+ - tags: []
+
+## LMSYS Org
+ - [https://lmsys.org](https://lmsys.org)
+ - date published: 2023-10-25T21:39:31.970567+00:00
+ - user: None
+ - tags: []
+
+## Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality | LMSYS Org
+ - [https://vicuna.lmsys.org](https://vicuna.lmsys.org)
+ - date published: 2023-10-25T21:39:33.956719+00:00
+ - user: None
+ - tags: []
+
+## Home - Library of America
+ - [https://www.loa.org](https://www.loa.org)
+ - date published: 2024-02-06T12:42:50+00:00
+ - user: rumpel
+ - tags: ['books', 'reading']
+
+## LocalSend: Open-source, cross-platform file sharing to nearby devices
+ - [https://localsend.org](https://localsend.org)
+ - date published: 2024-03-10T21:38:06+00:00
+ - user: None
+ - tags: ['file sharing', 'open source']
+
+## Opening the target...
+ - [https://mw.lojban.org](https://mw.lojban.org)
+ - date published: 2023-10-25T21:39:36.643198+00:00
+ - user: None
+ - tags: []
+
+## LONG NOW — fostering long term thinking
+ - [https://longnow.org](https://longnow.org)
+ - date published: 2023-10-25T21:39:39.438749+00:00
+ - user: None
+ - tags: []
+
+## FDD's Long War Journal
+ - [https://www.longwarjournal.org](https://www.longwarjournal.org)
+ - date published: 2023-11-10T03:51:21.976358+00:00
+ - user: None
+ - tags: []
+
+## The Lost Cause | Cory Doctorow's craphound.com
+ - [http://lost-cause.org](http://lost-cause.org)
+ - date published: 2024-01-27T15:33:20.962470+00:00
+ - user: None
+ - tags: []
+
+## LÖVE - Free 2D Game Engine
+ - [https://love2d.org](https://love2d.org)
+ - date published: 2023-10-25T08:35:50.630389+00:00
+ - user: None
+ - tags: []
+
+## The Law and Political Economy Project
+ - [https://lpeproject.org](https://lpeproject.org)
+ - date published: 2024-02-24T18:19:33.317225+00:00
+ - user: None
+ - tags: []
+
+## Homepage
+ - [https://www.lpi.org](https://www.lpi.org)
+ - date published: 2024-01-09T03:41:18.717606+00:00
+ - user: None
+ - tags: []
+
+## Louisville Public Media
+ - [https://www.lpm.org](https://www.lpm.org)
+ - date published: 2023-11-06T14:35:50.495843+00:00
+ - user: None
+ - tags: []
+
+## https://lpython.org
+ - [https://lpython.org](https://lpython.org)
+ - date published: 2023-10-25T21:39:41.946449+00:00
+ - user: None
+ - tags: []
+
+## The Long Riders Guild Academic Foundation
+ - [https://www.lrgaf.org](https://www.lrgaf.org)
+ - date published: 2024-01-09T03:41:28.231971+00:00
+ - user: None
+ - tags: []
+
 ## The L-Space Web - A Terry Pratchett / Discworld Web® Site
  - [https://www.lspace.org](https://www.lspace.org)
  - date published: 2023-11-16T07:01:44.475059+00:00
@@ -245,14 +491,14 @@
  - tags: ['personal']
 
 ## MarTech
- - [https://martech.org](https://martech.org)
- - date published: 2024-01-09T05:07:40.902644+00:00
+ - [http://martech.org](http://martech.org)
+ - date published: 2024-02-26T08:57:00.132467+00:00
  - user: None
  - tags: []
 
 ## MarTech
- - [http://martech.org](http://martech.org)
- - date published: 2024-02-26T08:57:00.132467+00:00
+ - [https://martech.org](https://martech.org)
+ - date published: 2024-01-09T05:07:40.902644+00:00
  - user: None
  - tags: []
 
@@ -998,17 +1244,17 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
-## Internet for people, not profit — Mozilla (US)
- - [https://www.mozilla.org](https://www.mozilla.org)
- - date published: 2023-10-25T09:27:30.838308+00:00
- - user: None
- - tags: ['organization', 'company', 'web browser', 'firefox', 'thunderbird']
-
 ## Pocket | Discover, Capture and Savor Content That Fascinates You
  - [https://www.mozilla.org/en-US/firefox/pocket](https://www.mozilla.org/en-US/firefox/pocket)
  - date published: 2023-11-13T13:38:32+00:00
  - user: rumpel
  - tags: ['bookmark manager', 'link aggregation']
+
+## Internet for people, not profit — Mozilla (US)
+ - [https://www.mozilla.org](https://www.mozilla.org)
+ - date published: 2023-10-25T09:27:30.838308+00:00
+ - user: None
+ - tags: ['organization', 'company', 'web browser', 'firefox', 'thunderbird']
 
 ## Nextcloud
  - [https://nce.mpi-sp.org](https://nce.mpi-sp.org)
@@ -3610,14 +3856,14 @@ Common Weakness Enumeration
  - tags: []
 
 ## Pikchr: Documentation
- - [http://pikchr.org](http://pikchr.org)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://pikchr.org](https://pikchr.org)
+ - date published: 2023-10-25T21:57:44.338166+00:00
  - user: None
  - tags: []
 
 ## Pikchr: Documentation
- - [https://pikchr.org](https://pikchr.org)
- - date published: 2023-10-25T21:57:44.338166+00:00
+ - [http://pikchr.org](http://pikchr.org)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3976,14 +4222,14 @@ Common Weakness Enumeration
  - tags: ['personal']
 
 ## The Programming Journal
- - [http://programming-journal.org](http://programming-journal.org)
- - date published: 2024-06-01T00:00:00+00:00
+ - [https://programming-journal.org](https://programming-journal.org)
+ - date published: 2023-10-25T21:59:59.828174+00:00
  - user: None
  - tags: []
 
 ## The Programming Journal
- - [https://programming-journal.org](https://programming-journal.org)
- - date published: 2023-10-25T21:59:59.828174+00:00
+ - [http://programming-journal.org](http://programming-journal.org)
+ - date published: 2024-06-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4659,15 +4905,15 @@ Common Weakness Enumeration
  - user: None
  - tags: []
 
-## Responsible Statecraft
- - [http://responsiblestatecraft.org](http://responsiblestatecraft.org)
- - date published: 2024-02-20T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Home - Responsible Statecraft
  - [https://responsiblestatecraft.org](https://responsiblestatecraft.org)
  - date published: 2023-10-25T22:03:17.450852+00:00
+ - user: None
+ - tags: []
+
+## Responsible Statecraft
+ - [http://responsiblestatecraft.org](http://responsiblestatecraft.org)
+ - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5754,254 +6000,6 @@ Common Weakness Enumeration
 ## Derek Sivers
  - [https://sivers.org](https://sivers.org)
  - date published: 2024-01-05T21:37:13.610762+00:00
- - user: None
- - tags: []
-
-## DebianEdu - Debian Wiki
- - [https://people.skolelinux.org](https://people.skolelinux.org)
- - date published: 2023-10-25T22:08:55.375389+00:00
- - user: None
- - tags: []
-
-## BC Time-Slip – THE EMPIRE NEVER ENDED
- - [https://bctimeslip.skullcrackersuite.org](https://bctimeslip.skullcrackersuite.org)
- - date published: 2023-10-25T22:08:58.518054+00:00
- - user: None
- - tags: []
-
-## Sky & Telescope | Astronomy News, Tools & Resources - Sky & Telescope
- - [https://skyandtelescope.org](https://skyandtelescope.org)
- - date published: 2023-10-25T22:09:01.947604+00:00
- - user: None
- - tags: ['cosmos']
-
-## Slashdot: News for nerds, stuff that matters
- - [https://apple.slashdot.org](https://apple.slashdot.org)
- - date published: 2024-02-09T21:47:38.471626+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://developers.slashdot.org](https://developers.slashdot.org)
- - date published: 2023-10-25T22:09:06.238735+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://entertainment.slashdot.org](https://entertainment.slashdot.org)
- - date published: 2024-02-09T21:48:05.444095+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://games.slashdot.org](https://games.slashdot.org)
- - date published: 2024-02-09T21:47:30.806966+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://hardware.slashdot.org](https://hardware.slashdot.org)
- - date published: 2024-02-10T21:53:58.516823+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://it.slashdot.org](https://it.slashdot.org)
- - date published: 2024-02-10T05:37:54.769968+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://linux.slashdot.org](https://linux.slashdot.org)
- - date published: 2023-11-08T09:45:30.976482+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://meta.slashdot.org](https://meta.slashdot.org)
- - date published: 2024-02-27T15:27:04.116177+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://mobile.slashdot.org](https://mobile.slashdot.org)
- - date published: 2024-02-19T22:08:25.184114+00:00
- - user: None
- - tags: []
-
-## Slashdot
- - [https://m.slashdot.org](https://m.slashdot.org)
- - date published: 2024-01-07T11:17:14.833993+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://news.slashdot.org](https://news.slashdot.org)
- - date published: 2023-10-25T22:09:10.967180+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://politics.slashdot.org](https://politics.slashdot.org)
- - date published: 2024-02-09T21:47:49.219250+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://rss.slashdot.org](https://rss.slashdot.org)
- - date published: 2024-02-21T06:30:25.560724+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://science.slashdot.org](https://science.slashdot.org)
- - date published: 2023-10-25T22:09:13.734941+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://slashdot.org](https://slashdot.org)
- - date published: 2023-10-25T22:09:16.501527+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://tech.slashdot.org](https://tech.slashdot.org)
- - date published: 2023-10-25T22:09:19.469269+00:00
- - user: None
- - tags: []
-
-## Slashdot: News for nerds, stuff that matters
- - [https://yro.slashdot.org](https://yro.slashdot.org)
- - date published: 2023-10-25T22:09:22.905117+00:00
- - user: None
- - tags: []
-
-## Slated | You can run, but you can't hide
- - [https://slated.org](https://slated.org)
- - date published: 2023-10-25T22:09:25.599578+00:00
- - user: None
- - tags: []
-
-## :: SLAY Radio ::
- - [https://www.slayradio.org](https://www.slayradio.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## http://slesinsky.org
- - [http://slesinsky.org](http://slesinsky.org)
- - date published: 2023-10-25T22:09:31.010196+00:00
- - user: None
- - tags: []
-
-## Sri Lanka Guardian
- - [http://slguardian.org](http://slguardian.org)
- - date published: 2024-02-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Sri Lanka Guardian
- - [https://slguardian.org](https://slguardian.org)
- - date published: 2024-01-10T21:40:19.047783+00:00
- - user: None
- - tags: []
-
-## https://www.slitaz.org
- - [https://www.slitaz.org](https://www.slitaz.org)
- - date published: 2023-12-28T17:40:19.213848+00:00
- - user: None
- - tags: []
-
-## Web0 Manifesto
- - [https://web0.small-web.org](https://web0.small-web.org)
- - date published: 2024-01-06T20:33:37+00:00
- - user: None
- - tags: []
-
-## https://smarthistory.org
- - [https://smarthistory.org](https://smarthistory.org)
- - date published: 2023-10-25T22:09:34.986464+00:00
- - user: None
- - tags: []
-
-## Science Museum of Minnesota
- - [https://new.smm.org](https://new.smm.org)
- - date published: 2024-02-08T16:21:46.219652+00:00
- - user: None
- - tags: []
-
-## SMS Power!
- - [https://www.smspower.org](https://www.smspower.org)
- - date published: 2024-01-31T00:00:00+00:00
- - user: None
- - tags: []
-
-## snarfed.org | Ryan Barrett's blog
- - [https://snarfed.org](https://snarfed.org)
- - date published: 2023-10-25T22:09:37.831799+00:00
- - user: None
- - tags: []
-
-## Welcome to Shepherd's Oasis! - Shepherd's Oasis
- - [https://soasis.org](https://soasis.org)
- - date published: 2023-10-25T22:09:38.795718+00:00
- - user: None
- - tags: []
-
-## Quality News: Hacker News Rankings
- - [https://news.social-protocols.org](https://news.social-protocols.org)
- - date published: 2023-10-25T22:09:46.336197+00:00
- - user: None
- - tags: []
-
-## index — Quarrelsome
- - [https://sockpuppet.org](https://sockpuppet.org)
- - date published: 2023-10-25T22:09:48.555382+00:00
- - user: None
- - tags: []
-
-## Software Development Team: Welcome
- - [https://soft-dev.org](https://soft-dev.org)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Software Preservation Society
- - [http://www.softpres.org](http://www.softpres.org)
- - date published: 2023-12-11T18:33:05.002198+00:00
- - user: None
- - tags: []
-
-## Software Preservation Group
-        —
-        Software Preservation Group
- - [https://www.softwarepreservation.org](https://www.softwarepreservation.org)
- - date published: 2023-10-25T22:09:52.170128+00:00
- - user: None
- - tags: []
-
-## Sol-1 74 Series Logic Homebrew CPU - 2.5MHz
- - [http://www.sol-1.org](http://www.sol-1.org)
- - date published: 2023-12-08T08:31:20.931639+00:00
- - user: None
- - tags: []
-
-## Solar Cooking
- - [http://solarcooking.org](http://solarcooking.org)
- - date published: 2024-03-03T23:24:50.152750+00:00
- - user: None
- - tags: []
-
-## SolarPACES - International CSP research
- - [https://www.solarpaces.org](https://www.solarpaces.org)
- - date published: 2023-10-25T22:09:59.992144+00:00
- - user: None
- - tags: []
-
-## Home · Solid
- - [https://solidproject.org](https://solidproject.org)
- - date published: 2023-10-25T22:10:03.110937+00:00
  - user: None
  - tags: []
 

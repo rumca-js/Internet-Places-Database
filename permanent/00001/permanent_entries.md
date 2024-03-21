@@ -1,3 +1,15 @@
+## hypatia dot ca – Leigh Honeywell's Blog
+ - [https://hypatia.ca](https://hypatia.ca)
+ - date published: 2023-10-25T09:25:27.291271+00:00
+ - user: None
+ - tags: ['personal']
+
+## Ibraheem Ahmed
+ - [https://ibraheem.ca](https://ibraheem.ca)
+ - date published: 2023-10-25T08:42:56.661128+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Interrupt Labs
  - [https://interruptlabs.ca](https://interruptlabs.ca)
  - date published: 2023-10-25T12:05:15.572215+00:00
@@ -11,13 +23,13 @@
  - tags: []
 
 ## iter.ca
- - [https://iter.ca](https://iter.ca)
+ - [http://iter.ca](http://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## iter.ca
- - [http://iter.ca](http://iter.ca)
+ - [https://iter.ca](https://iter.ca)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -35,14 +47,14 @@
  - tags: ['personal']
 
 ## Author Jenn Ashton
- - [http://jenniferashton.ca](http://jenniferashton.ca)
- - date published: 2023-12-25T04:56:31.047100+00:00
+ - [https://jenniferashton.ca](https://jenniferashton.ca)
+ - date published: 2023-12-20T19:14:23.669927+00:00
  - user: None
  - tags: ['personal']
 
 ## Author Jenn Ashton
- - [https://jenniferashton.ca](https://jenniferashton.ca)
- - date published: 2023-12-20T19:14:23.669927+00:00
+ - [http://jenniferashton.ca](http://jenniferashton.ca)
+ - date published: 2023-12-25T04:56:31.047100+00:00
  - user: None
  - tags: ['personal']
 
@@ -221,14 +233,14 @@
  - tags: []
 
 ## National Film Board of Canada
- - [http://www.nfb.ca](http://www.nfb.ca)
- - date published: 2024-02-26T12:35:45.332677+00:00
+ - [https://www.nfb.ca](https://www.nfb.ca)
+ - date published: 2023-10-25T12:06:29.183270+00:00
  - user: None
  - tags: []
 
 ## National Film Board of Canada
- - [https://www.nfb.ca](https://www.nfb.ca)
- - date published: 2023-10-25T12:06:29.183270+00:00
+ - [http://www.nfb.ca](http://www.nfb.ca)
+ - date published: 2024-02-26T12:35:45.332677+00:00
  - user: None
  - tags: []
 
@@ -766,6 +778,12 @@
  - date published: 2024-01-09T02:27:20.257524+00:00
  - user: None
  - tags: []
+
+## Omada
+ - [https://omada.cafe](https://omada.cafe)
+ - date published: 2024-03-20T21:29:27.487824+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Home
  - [https://owen.cafe](https://owen.cafe)
@@ -2833,14 +2851,14 @@
  - tags: []
 
 ## Nabeel S. Qureshi
- - [https://nabeelqu.co](https://nabeelqu.co)
- - date published: 2024-01-20T19:20:52.169397+00:00
+ - [http://nabeelqu.co](http://nabeelqu.co)
+ - date published: 2024-02-26T09:20:32.283903+00:00
  - user: None
  - tags: []
 
 ## Nabeel S. Qureshi
- - [http://nabeelqu.co](http://nabeelqu.co)
- - date published: 2024-02-26T09:20:32.283903+00:00
+ - [https://nabeelqu.co](https://nabeelqu.co)
+ - date published: 2024-01-20T19:20:52.169397+00:00
  - user: None
  - tags: []
 
@@ -3097,16 +3115,16 @@
  - tags: []
 
 ## Home
- - [http://shubhamjain.co](http://shubhamjain.co)
- - date published: 2024-02-26T12:57:53.139033+00:00
- - user: None
- - tags: []
-
-## Home
  - [https://shubhamjain.co](https://shubhamjain.co)
  - date published: 2023-10-25T09:07:56.781772+00:00
  - user: None
  - tags: ['personal']
+
+## Home
+ - [http://shubhamjain.co](http://shubhamjain.co)
+ - date published: 2024-02-26T12:57:53.139033+00:00
+ - user: None
+ - tags: []
 
 ## SCIENTIA
  - [https://skientia.co](https://skientia.co)
@@ -3187,14 +3205,14 @@
  - tags: []
 
 ## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
- - [https://stateofthenation.co](https://stateofthenation.co)
- - date published: 2023-10-25T12:23:13.580451+00:00
+ - [http://stateofthenation.co](http://stateofthenation.co)
+ - date published: 2024-02-26T12:49:19.790593+00:00
  - user: None
  - tags: []
 
 ## SOTN: Alternative News, Analysis & Commentary | Revealing the True State of the Nation
- - [http://stateofthenation.co](http://stateofthenation.co)
- - date published: 2024-02-26T12:49:19.790593+00:00
+ - [https://stateofthenation.co](https://stateofthenation.co)
+ - date published: 2023-10-25T12:23:13.580451+00:00
  - user: None
  - tags: []
 
@@ -3996,6 +4014,12 @@
  - user: None
  - tags: []
 
+## 6sqft | NYC local news, events, and apartments
+ - [https://www.6sqft.com](https://www.6sqft.com)
+ - date published: 2024-03-20T12:24:06.423316+00:00
+ - user: None
+ - tags: ['news']
+
 ## Martín Villalba's personal homepage
  - [https://7c0h.com](https://7c0h.com)
  - date published: 2023-10-25T12:27:51.693393+00:00
@@ -4212,15 +4236,15 @@
  - user: None
  - tags: ['personal']
 
-## None
- - [https://www.aaronsw.com](https://www.aaronsw.com)
- - date published: 2024-01-09T01:38:10.984994+00:00
- - user: None
- - tags: []
-
 ## Aaron Swartz
  - [http://www.aaronsw.com](http://www.aaronsw.com)
  - date published: 2009-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.aaronsw.com](https://www.aaronsw.com)
+ - date published: 2024-01-09T01:38:10.984994+00:00
  - user: None
  - tags: []
 
@@ -5977,28 +6001,4 @@
  - date published: 2023-10-25T12:38:13.172045+00:00
  - user: None
  - tags: []
-
-## alexstonethinkingstrings.com
- - [https://www.alexstonethinkingstrings.com](https://www.alexstonethinkingstrings.com)
- - date published: 2024-02-25T03:40:28.185186+00:00
- - user: None
- - tags: ['personal']
-
-## Alex Strick van Linschoten
- - [https://www.alexstrick.com](https://www.alexstrick.com)
- - date published: 2023-12-21T18:50:00.122995+00:00
- - user: None
- - tags: ['personal']
-
-## Alex Vermeer — Life-Hacking. Climbing. Striving for awesome. Coffee.
- - [https://alexvermeer.com](https://alexvermeer.com)
- - date published: 2023-10-25T12:38:14.741434+00:00
- - user: None
- - tags: []
-
-## About - Alfred Megally
- - [https://alfredmegally.com](https://alfredmegally.com)
- - date published: 2024-01-09T08:53:49.175773+00:00
- - user: None
- - tags: ['personal']
 

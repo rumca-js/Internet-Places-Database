@@ -1,3 +1,251 @@
+## DebianEdu - Debian Wiki
+ - [https://people.skolelinux.org](https://people.skolelinux.org)
+ - date published: 2023-10-25T22:08:55.375389+00:00
+ - user: None
+ - tags: []
+
+## BC Time-Slip – THE EMPIRE NEVER ENDED
+ - [https://bctimeslip.skullcrackersuite.org](https://bctimeslip.skullcrackersuite.org)
+ - date published: 2023-10-25T22:08:58.518054+00:00
+ - user: None
+ - tags: []
+
+## Sky & Telescope | Astronomy News, Tools & Resources - Sky & Telescope
+ - [https://skyandtelescope.org](https://skyandtelescope.org)
+ - date published: 2023-10-25T22:09:01.947604+00:00
+ - user: None
+ - tags: ['cosmos']
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://apple.slashdot.org](https://apple.slashdot.org)
+ - date published: 2024-02-09T21:47:38.471626+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://developers.slashdot.org](https://developers.slashdot.org)
+ - date published: 2023-10-25T22:09:06.238735+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://entertainment.slashdot.org](https://entertainment.slashdot.org)
+ - date published: 2024-02-09T21:48:05.444095+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://games.slashdot.org](https://games.slashdot.org)
+ - date published: 2024-02-09T21:47:30.806966+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://hardware.slashdot.org](https://hardware.slashdot.org)
+ - date published: 2024-02-10T21:53:58.516823+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://it.slashdot.org](https://it.slashdot.org)
+ - date published: 2024-02-10T05:37:54.769968+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://linux.slashdot.org](https://linux.slashdot.org)
+ - date published: 2023-11-08T09:45:30.976482+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://meta.slashdot.org](https://meta.slashdot.org)
+ - date published: 2024-02-27T15:27:04.116177+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://mobile.slashdot.org](https://mobile.slashdot.org)
+ - date published: 2024-02-19T22:08:25.184114+00:00
+ - user: None
+ - tags: []
+
+## Slashdot
+ - [https://m.slashdot.org](https://m.slashdot.org)
+ - date published: 2024-01-07T11:17:14.833993+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://news.slashdot.org](https://news.slashdot.org)
+ - date published: 2023-10-25T22:09:10.967180+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://politics.slashdot.org](https://politics.slashdot.org)
+ - date published: 2024-02-09T21:47:49.219250+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://rss.slashdot.org](https://rss.slashdot.org)
+ - date published: 2024-02-21T06:30:25.560724+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://science.slashdot.org](https://science.slashdot.org)
+ - date published: 2023-10-25T22:09:13.734941+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://slashdot.org](https://slashdot.org)
+ - date published: 2023-10-25T22:09:16.501527+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://tech.slashdot.org](https://tech.slashdot.org)
+ - date published: 2023-10-25T22:09:19.469269+00:00
+ - user: None
+ - tags: []
+
+## Slashdot: News for nerds, stuff that matters
+ - [https://yro.slashdot.org](https://yro.slashdot.org)
+ - date published: 2023-10-25T22:09:22.905117+00:00
+ - user: None
+ - tags: []
+
+## Slated | You can run, but you can't hide
+ - [https://slated.org](https://slated.org)
+ - date published: 2023-10-25T22:09:25.599578+00:00
+ - user: None
+ - tags: []
+
+## :: SLAY Radio ::
+ - [https://www.slayradio.org](https://www.slayradio.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## http://slesinsky.org
+ - [http://slesinsky.org](http://slesinsky.org)
+ - date published: 2023-10-25T22:09:31.010196+00:00
+ - user: None
+ - tags: []
+
+## Sri Lanka Guardian
+ - [http://slguardian.org](http://slguardian.org)
+ - date published: 2024-02-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Sri Lanka Guardian
+ - [https://slguardian.org](https://slguardian.org)
+ - date published: 2024-01-10T21:40:19.047783+00:00
+ - user: None
+ - tags: []
+
+## https://www.slitaz.org
+ - [https://www.slitaz.org](https://www.slitaz.org)
+ - date published: 2023-12-28T17:40:19.213848+00:00
+ - user: None
+ - tags: []
+
+## Web0 Manifesto
+ - [https://web0.small-web.org](https://web0.small-web.org)
+ - date published: 2024-01-06T20:33:37+00:00
+ - user: None
+ - tags: []
+
+## https://smarthistory.org
+ - [https://smarthistory.org](https://smarthistory.org)
+ - date published: 2023-10-25T22:09:34.986464+00:00
+ - user: None
+ - tags: []
+
+## Science Museum of Minnesota
+ - [https://new.smm.org](https://new.smm.org)
+ - date published: 2024-02-08T16:21:46.219652+00:00
+ - user: None
+ - tags: []
+
+## SMS Power!
+ - [https://www.smspower.org](https://www.smspower.org)
+ - date published: 2024-01-31T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## snarfed.org | Ryan Barrett's blog
+ - [https://snarfed.org](https://snarfed.org)
+ - date published: 2023-10-25T22:09:37.831799+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Shepherd's Oasis! - Shepherd's Oasis
+ - [https://soasis.org](https://soasis.org)
+ - date published: 2023-10-25T22:09:38.795718+00:00
+ - user: None
+ - tags: []
+
+## Quality News: Hacker News Rankings
+ - [https://news.social-protocols.org](https://news.social-protocols.org)
+ - date published: 2023-10-25T22:09:46.336197+00:00
+ - user: None
+ - tags: []
+
+## index — Quarrelsome
+ - [https://sockpuppet.org](https://sockpuppet.org)
+ - date published: 2023-10-25T22:09:48.555382+00:00
+ - user: None
+ - tags: []
+
+## Software Development Team: Welcome
+ - [https://soft-dev.org](https://soft-dev.org)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Software Preservation Society
+ - [http://www.softpres.org](http://www.softpres.org)
+ - date published: 2023-12-11T18:33:05.002198+00:00
+ - user: None
+ - tags: []
+
+## Software Preservation Group
+        —
+        Software Preservation Group
+ - [https://www.softwarepreservation.org](https://www.softwarepreservation.org)
+ - date published: 2023-10-25T22:09:52.170128+00:00
+ - user: None
+ - tags: []
+
+## Sol-1 74 Series Logic Homebrew CPU - 2.5MHz
+ - [http://www.sol-1.org](http://www.sol-1.org)
+ - date published: 2023-12-08T08:31:20.931639+00:00
+ - user: None
+ - tags: []
+
+## Solar Cooking
+ - [http://solarcooking.org](http://solarcooking.org)
+ - date published: 2024-03-03T23:24:50.152750+00:00
+ - user: None
+ - tags: []
+
+## SolarPACES - International CSP research
+ - [https://www.solarpaces.org](https://www.solarpaces.org)
+ - date published: 2023-10-25T22:09:59.992144+00:00
+ - user: None
+ - tags: []
+
+## Home · Solid
+ - [https://solidproject.org](https://solidproject.org)
+ - date published: 2023-10-25T22:10:03.110937+00:00
+ - user: None
+ - tags: []
+
 ## Source Academy
  - [https://sourceacademy.org](https://sourceacademy.org)
  - date published: 2023-10-25T22:10:04.254495+00:00
@@ -83,19 +331,13 @@
  - tags: []
 
 ## SQLite Home Page
- - [http://sqlite.org](http://sqlite.org)
- - date published: 2024-01-30T00:00:00+00:00
- - user: None
- - tags: []
-
-## SQLite Home Page
  - [https://sqlite.org](https://sqlite.org)
  - date published: 2023-10-25T08:34:11.917438+00:00
  - user: None
  - tags: []
 
 ## SQLite Home Page
- - [http://www.sqlite.org](http://www.sqlite.org)
+ - [http://sqlite.org](http://sqlite.org)
  - date published: 2024-01-30T00:00:00+00:00
  - user: None
  - tags: []
@@ -105,6 +347,12 @@
  - date published: 2023-10-25T08:30:44.493063+00:00
  - user: None
  - tags: ['open source']
+
+## SQLite Home Page
+ - [http://www.sqlite.org](http://www.sqlite.org)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## sqlpkg - SQLite Package Manager and Registry
  - [https://sqlpkg.org](https://sqlpkg.org)
@@ -1902,14 +2150,14 @@
  - tags: []
 
 ## The Viridian Design Movement
- - [https://www.viridiandesign.org](https://www.viridiandesign.org)
- - date published: 2023-10-25T22:17:40.101109+00:00
+ - [http://www.viridiandesign.org](http://www.viridiandesign.org)
+ - date published: 2024-02-26T14:25:06.301684+00:00
  - user: None
  - tags: []
 
 ## The Viridian Design Movement
- - [http://www.viridiandesign.org](http://www.viridiandesign.org)
- - date published: 2024-02-26T14:25:06.301684+00:00
+ - [https://www.viridiandesign.org](https://www.viridiandesign.org)
+ - date published: 2023-10-25T22:17:40.101109+00:00
  - user: None
  - tags: []
 
@@ -2688,16 +2936,16 @@
  - tags: []
 
 ## Blog Tool, Publishing Platform, and CMS - WordPress.org
- - [http://wordpress.org](http://wordpress.org)
- - date published: 2024-02-26T14:34:42.711216+00:00
- - user: None
- - tags: []
-
-## Blog Tool, Publishing Platform, and CMS - WordPress.org
  - [https://wordpress.org](https://wordpress.org)
  - date published: 2023-12-08T13:17:28+00:00
  - user: rumpel
  - tags: ['cms', 'wordpress']
+
+## Blog Tool, Publishing Platform, and CMS - WordPress.org
+ - [http://wordpress.org](http://wordpress.org)
+ - date published: 2024-02-26T14:34:42.711216+00:00
+ - user: None
+ - tags: []
 
 ## Blog Tool, Publishing Platform, and CMS - WordPress.org
  - [https://www.wordpress.org](https://www.wordpress.org)
@@ -3175,14 +3423,14 @@ Zig Programming Language
  - tags: []
 
 ## Ben Borgers
- - [http://ben.page](http://ben.page)
- - date published: 2024-01-09T00:00:00+00:00
+ - [https://ben.page](https://ben.page)
+ - date published: 2024-01-09T17:04:04.047326+00:00
  - user: None
  - tags: []
 
 ## Ben Borgers
- - [https://ben.page](https://ben.page)
- - date published: 2024-01-09T17:04:04.047326+00:00
+ - [http://ben.page](http://ben.page)
+ - date published: 2024-01-09T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3217,14 +3465,14 @@ Zig Programming Language
  - tags: []
 
 ## Lup Yuen LEE
- - [https://lupyuen.codeberg.page](https://lupyuen.codeberg.page)
- - date published: 2023-10-25T22:24:23.126536+00:00
+ - [http://lupyuen.codeberg.page](http://lupyuen.codeberg.page)
+ - date published: 2024-02-25T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Lup Yuen LEE
- - [http://lupyuen.codeberg.page](http://lupyuen.codeberg.page)
- - date published: 2024-02-25T00:00:00+00:00
+ - [https://lupyuen.codeberg.page](https://lupyuen.codeberg.page)
+ - date published: 2023-10-25T22:24:23.126536+00:00
  - user: None
  - tags: []
 
@@ -3973,15 +4221,15 @@ is forbidden
  - user: None
  - tags: []
 
-## Shared IP
- - [https://blog.asobczak.pl](https://blog.asobczak.pl)
- - date published: 2024-01-09T03:44:03.097833+00:00
- - user: None
- - tags: []
-
 ## Caesar's blog – Raspberry Pi, Domoticz, Smart home, Retro Gaming
  - [http://blog.asobczak.pl](http://blog.asobczak.pl)
  - date published: 2024-02-25T15:35:57.090493+00:00
+ - user: None
+ - tags: []
+
+## Shared IP
+ - [https://blog.asobczak.pl](https://blog.asobczak.pl)
+ - date published: 2024-01-09T03:44:03.097833+00:00
  - user: None
  - tags: []
 
@@ -4544,14 +4792,14 @@ is forbidden
  - tags: []
 
 ## None
- - [http://rss.forsal.pl](http://rss.forsal.pl)
- - date published: 2024-02-25T20:20:10.985054+00:00
+ - [https://rss.forsal.pl](https://rss.forsal.pl)
+ - date published: 2024-01-09T03:44:12.545694+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://rss.forsal.pl](https://rss.forsal.pl)
- - date published: 2024-01-09T03:44:12.545694+00:00
+ - [http://rss.forsal.pl](http://rss.forsal.pl)
+ - date published: 2024-02-25T20:20:10.985054+00:00
  - user: None
  - tags: []
 
@@ -5758,252 +6006,6 @@ is forbidden
 ## Amiga Friendship
  - [https://amigafriendship.ppa.pl](https://amigafriendship.ppa.pl)
  - date published: 2023-12-11T17:30:24.154544+00:00
- - user: None
- - tags: []
-
-## https://ppa.pl
- - [https://ppa.pl](https://ppa.pl)
- - date published: 2024-02-06T13:54:36.437763+00:00
- - user: None
- - tags: []
-
-## SCENA.ppa.pl
- - [https://scena.ppa.pl](https://scena.ppa.pl)
- - date published: 2023-12-11T17:37:50.808401+00:00
- - user: None
- - tags: []
-
-## SCENA.ppa.pl
- - [http://scena.ppa.pl](http://scena.ppa.pl)
- - date published: 2024-02-26T12:48:30.023284+00:00
- - user: None
- - tags: []
-
-## 500 Internal Server Error
- - [https://static1.ppa.pl](https://static1.ppa.pl)
- - date published: 2023-12-11T17:30:49.004553+00:00
- - user: None
- - tags: []
-
-## Amiga - Polski Portal Amigowy: AmigaOS, MorphOS, AROS, AmigaOne, gry, programy - [ 30.10.2023 ]
- - [https://www.ppa.pl](https://www.ppa.pl)
- - date published: 2024-02-06T13:36:34.087436+00:00
- - user: None
- - tags: ['morphos', 'amiga']
-
-## Amiga - Polski Portal Amigowy: AmigaOS, MorphOS, AROS, AmigaOne, gry, programy - [ 26.02.2024 ]
- - [http://www.ppa.pl](http://www.ppa.pl)
- - date published: 2024-02-26T09:53:30.836292+00:00
- - user: None
- - tags: []
-
-## PPE.pl
- - [https://www.ppe.pl](https://www.ppe.pl)
- - date published: 2023-10-29T13:13:02.505571+00:00
- - user: None
- - tags: []
-
-## Oferty pracy - Pracuj.pl
- - [https://www.pracuj.pl](https://www.pracuj.pl)
- - date published: 2023-12-13T14:57:30.233561+00:00
- - user: None
- - tags: ['job market', 'social platform']
-
-## Oficjalne testy na prawo jazdy. Kurs teorii na prawo jazdy.
- - [https://prawko.pl](https://prawko.pl)
- - date published: 2024-02-20T00:00:00+00:00
- - user: rumpel
- - tags: []
-
-## Prawo.pl
- - [https://www.prawo.pl](https://www.prawo.pl)
- - date published: 2023-10-27T12:07:19.387485+00:00
- - user: None
- - tags: []
-
-## Magazyn Programista
- - [https://programistamag.pl](https://programistamag.pl)
- - date published: 2023-12-11T12:31:00+00:00
- - user: rumpel
- - tags: ['programming news']
-
-## Projekt FILM – Najbardziej kompleksowy kurs filmowy na rynku. Kurs filmowania i montażu. Adam Chill, Busem Przez Świat, Marcin Mosak, Vryga, Alina Kondrat
- - [https://projektfilm.pl](https://projektfilm.pl)
- - date published: 2024-03-04T18:23:54+00:00
- - user: rumpel
- - tags: []
-
-## Polityka, gospodarka, historia - to, co ważne dla wolności - Prokapitalizm, gospodarka, polityka, historia
- - [https://www.prokapitalizm.pl](https://www.prokapitalizm.pl)
- - date published: 2023-10-27T12:07:22.884336+00:00
- - user: None
- - tags: []
-
-## Sklep Komputerowy ProLine.pl
- - [https://proline.pl](https://proline.pl)
- - date published: 2023-10-24T20:17:42.060505+00:00
- - user: None
- - tags: []
-
-## Prószyński Media - Wydawnictwo
- - [https://www.proszynski.pl](https://www.proszynski.pl)
- - date published: 2024-01-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Manifest Teda Kaczynskiego
- - [https://ted-manifesto.prv.pl](https://ted-manifesto.prv.pl)
- - date published: 2023-10-27T12:07:23.416270+00:00
- - user: None
- - tags: ['unabomber', 'ted kaczynski']
-
-## Przeczywistość
- - [http://przeczywistosc.pl](http://przeczywistosc.pl)
- - date published: 2099-12-31T00:00:00+00:00
- - user: None
- - tags: []
-
-## Przeczywistość
- - [https://przeczywistosc.pl](https://przeczywistosc.pl)
- - date published: 2024-01-09T03:44:47.407291+00:00
- - user: None
- - tags: []
-
-## Psalmy Po Polsku – Księga Psalmów
- - [https://www.psalmy.pl](https://www.psalmy.pl)
- - date published: 2024-02-25T00:00:00+00:00
- - user: rumpel
- - tags: ['catholic', 'religion']
-
-## PSI Polska Sp. z o.o. | Poznań | Innowacyjne oprogramowanie. Solidne wdrożenie.
- - [https://www.psi.pl](https://www.psi.pl)
- - date published: 2023-10-25T11:29:10.274203+00:00
- - user: None
- - tags: []
-
-## Polskie Towarzystwo Turystyczno-Krajoznawcze | PTTK
- - [https://pttk.pl](https://pttk.pl)
- - date published: 2023-11-01T18:06:26.432164+00:00
- - user: None
- - tags: ['mountains', 'travel']
-
-## Ebooki, Audiobooki, Eprasa, Kindle Ebook | Darmowe, nowości, bestsellery (książki epub, kindle mobi, PDF, MP3) - Publio.pl
- - [https://www.publio.pl](https://www.publio.pl)
- - date published: 2023-10-24T20:18:58.510354+00:00
- - user: None
- - tags: []
-
-## Piwo - Pub Szyszka Chmielu Ursynów
- - [http://www.pubszyszkachmielu.pl](http://www.pubszyszkachmielu.pl)
- - date published: 2014-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Puls Medycyny - portal medyczny  - wiadomości, lekarze, szpitale, opieka medyczna
- - [https://pulsmedycyny.pl](https://pulsmedycyny.pl)
- - date published: 2023-10-27T12:07:33.165592+00:00
- - user: None
- - tags: []
-
-## PurePC - wiemy, co się kręci!
- - [https://www.purepc.pl](https://www.purepc.pl)
- - date published: 2023-10-30T10:12:11.129017+00:00
- - user: None
- - tags: []
-
-## Strona Główna
- - [https://pyrkon.pl](https://pyrkon.pl)
- - date published: 2023-10-29T15:10:10.114957+00:00
- - user: None
- - tags: ['pyrkon', 'fantasy', 'community event']
-
-## Rachit Nigam | PhD Candidate, Cornell University
- - [https://rachit.pl](https://rachit.pl)
- - date published: 2023-10-27T12:07:34.246036+00:00
- - user: None
- - tags: []
-
-## Katolicki Głos w Twoim domu
- - [https://www.radiomaryja.pl](https://www.radiomaryja.pl)
- - date published: 2023-12-16T15:46:51.676771+00:00
- - user: None
- - tags: []
-
-## Polskie Radio PiK
- - [https://www.radiopik.pl](https://www.radiopik.pl)
- - date published: 2024-02-25T21:16:37.744150+00:00
- - user: None
- - tags: []
-
-## Wiadomości - najnowsze informacje z Polski i Świata
- - [https://wiadomosci.radiozet.pl](https://wiadomosci.radiozet.pl)
- - date published: 2023-10-27T12:07:45.470666+00:00
- - user: None
- - tags: []
-
-## Zdrowie: choroby, objawy, badania, leczenie, diety, koronawirus | Zdrowie Radio ZET
- - [https://zdrowie.radiozet.pl](https://zdrowie.radiozet.pl)
- - date published: 2023-10-25T10:40:17.701787+00:00
- - user: None
- - tags: []
-
-## rcwz.pl
- - [https://rcwz.pl](https://rcwz.pl)
- - date published: 2023-10-27T12:07:45.928784+00:00
- - user: None
- - tags: []
-
-## rebel.pl - największy w Polsce sklep z grami planszowymi
- - [https://www.rebel.pl](https://www.rebel.pl)
- - date published: 2023-10-25T11:12:58.256769+00:00
- - user: None
- - tags: []
-
-## Recenzex – Zrecenzujemy wszystko, nawet twoją starą.
- - [https://recenzex.pl](https://recenzex.pl)
- - date published: 2023-12-08T10:35:45+00:00
- - user: None
- - tags: ['vehicles', 'old vehicles']
-
-## RetroCity.pl - 100% Retrokultury
- - [https://www.retrocity.pl](https://www.retrocity.pl)
- - date published: 2023-11-17T21:41:34+00:00
- - user: None
- - tags: ['game news']
-
-## RetroFun.PL – 8-bit tech strikes back!
- - [https://retrofun.pl](https://retrofun.pl)
- - date published: 2023-12-23T11:33:30.598321+00:00
- - user: None
- - tags: []
-
-## Retro Maniek wita na swoim blogu!
- - [https://www.retromaniek.pl](https://www.retromaniek.pl)
- - date published: 2023-11-02T09:41:07.935535+00:00
- - user: None
- - tags: ['personal', 'retro games', 'blog', 'amiga']
-
-## Retronauta
- - [https://www.retronauta.pl](https://www.retronauta.pl)
- - date published: 2024-01-09T01:46:48.522604+00:00
- - user: None
- - tags: []
-
-## RMF24 - Najbliżej faktów - Wydarzenia z Polski i Świata
- - [https://www.rmf24.pl](https://www.rmf24.pl)
- - date published: 2023-10-25T22:31:19.469054+00:00
- - user: None
- - tags: []
-
-## Radio internetowe RMF ON - słuchaj radia online
- - [https://www.rmfon.pl](https://www.rmfon.pl)
- - date published: 2024-02-24T00:00:00+00:00
- - user: None
- - tags: []
-
-## Roche Polska
- - [https://www.roche.pl](https://www.roche.pl)
- - date published: 2023-10-25T11:29:11.118955+00:00
  - user: None
  - tags: []
 

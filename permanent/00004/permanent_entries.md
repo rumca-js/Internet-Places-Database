@@ -1,3 +1,51 @@
+## Computer Weekly | Information Technology (IT) News, UK IT Jobs, Industry News
+ - [https://www.computerweekly.com](https://www.computerweekly.com)
+ - date published: 2023-10-25T13:32:49.374619+00:00
+ - user: None
+ - tags: []
+
+## IT news, careers, business technology, reviews
+ - [http://www.computerworld.com](http://www.computerworld.com)
+ - date published: 2024-02-25T19:22:09.150165+00:00
+ - user: None
+ - tags: []
+
+## IT news, careers, business technology, reviews | Computerworld
+ - [https://www.computerworld.com](https://www.computerworld.com)
+ - date published: 2023-10-25T09:32:24.152677+00:00
+ - user: None
+ - tags: []
+
+## Home | Concerning Quality
+ - [https://concerningquality.com](https://concerningquality.com)
+ - date published: 2024-01-04T17:44:04.642304+00:00
+ - user: None
+ - tags: []
+
+## https://www.concordmonitor.com
+ - [https://www.concordmonitor.com](https://www.concordmonitor.com)
+ - date published: 2023-10-25T13:32:50.154763+00:00
+ - user: None
+ - tags: []
+
+## The Condiment Packet Gallery
+ - [https://www.condimentpacket.com](https://www.condimentpacket.com)
+ - date published: 2023-10-25T13:32:52.059539+00:00
+ - user: None
+ - tags: []
+
+## Conf42: online tech events
+ - [https://www.conf42.com](https://www.conf42.com)
+ - date published: 2023-10-25T13:32:57.935406+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://aaas.confex.com](https://aaas.confex.com)
+ - date published: 2024-02-24T18:22:26.397111+00:00
+ - user: None
+ - tags: []
+
 ## Confiant | The First & Leading Ad Security & Quality Platform
  - [https://www.confiant.com](https://www.confiant.com)
  - date published: 2023-10-25T13:32:59.560606+00:00
@@ -1518,14 +1566,14 @@
  - tags: []
 
 ## The Daily Caller
- - [http://dailycaller.com](http://dailycaller.com)
- - date published: 2024-02-26T13:39:38.331957+00:00
+ - [https://dailycaller.com](https://dailycaller.com)
+ - date published: 2023-10-25T13:41:19.635856+00:00
  - user: None
  - tags: []
 
 ## The Daily Caller
- - [https://dailycaller.com](https://dailycaller.com)
- - date published: 2023-10-25T13:41:19.635856+00:00
+ - [http://dailycaller.com](http://dailycaller.com)
+ - date published: 2024-02-26T13:39:38.331957+00:00
  - user: None
  - tags: []
 
@@ -1907,17 +1955,17 @@
  - user: None
  - tags: []
 
-## https://danluu.com
- - [https://danluu.com](https://danluu.com)
- - date published: 2023-12-07T19:41:48.559063+00:00
- - user: None
- - tags: []
-
 ## None
  - [http://danluu.com](http://danluu.com)
  - date published: 1979-01-01T00:00:00+00:00
  - user: None
  - tags: []
+
+## https://danluu.com
+ - [https://danluu.com](https://danluu.com)
+ - date published: 2023-12-07T19:41:48.559063+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Dannarchy
  - [https://dannarchy.com](https://dannarchy.com)
@@ -3431,15 +3479,15 @@
  - user: None
  - tags: []
 
-## Mazzle – A Pipelines as Code Tool
- - [https://devops-pipeline.com](https://devops-pipeline.com)
- - date published: 2023-12-31T11:15:08+00:00
- - user: None
- - tags: []
-
 ## introducing mazzle - a pipelines as code tool
  - [http://devops-pipeline.com](http://devops-pipeline.com)
  - date published: 2024-02-29T14:58:14.068438+00:00
+ - user: None
+ - tags: []
+
+## Mazzle – A Pipelines as Code Tool
+ - [https://devops-pipeline.com](https://devops-pipeline.com)
+ - date published: 2023-12-31T11:15:08+00:00
  - user: None
  - tags: []
 
@@ -5464,7 +5512,7 @@
  - [https://www.ecowatch.com](https://www.ecowatch.com)
  - date published: 2023-11-14T16:19:51.776883+00:00
  - user: None
- - tags: []
+ - tags: ['climate news', 'environment news']
 
 ## https://app.ecwid.com
  - [https://app.ecwid.com](https://app.ecwid.com)
@@ -5951,52 +5999,4 @@
  - date published: 2024-02-29T22:04:20+00:00
  - user: rumpel
  - tags: ['music artist', 'youtuber']
-
-## COVID in Pixels
- - [https://covid-in-pixels.eliothertenstein.com](https://covid-in-pixels.eliothertenstein.com)
- - date published: 2023-10-25T14:05:25.704625+00:00
- - user: None
- - tags: []
-
-## Elisa Doucette
- - [https://www.elisadoucette.com](https://www.elisadoucette.com)
- - date published: 2023-12-20T00:58:34.049564+00:00
- - user: None
- - tags: ['personal']
-
-## Index
- - [https://eliseshaffer.com](https://eliseshaffer.com)
- - date published: 2023-12-18T22:13:17.426346+00:00
- - user: None
- - tags: []
-
-## Home · Elixir School
- - [https://elixirschool.com](https://elixirschool.com)
- - date published: 2023-12-11T12:32:14+00:00
- - user: rumpel
- - tags: ['tutorials', 'programming', 'courses']
-
-## Elizabeth B. Martin, Author/Illustrator
- - [https://elizabethbmartin.com](https://elizabethbmartin.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Elizabeth Hummel
- - [https://elizabethhummel.com](https://elizabethhummel.com)
- - date published: 2024-01-11T17:10:19.476431+00:00
- - user: None
- - tags: []
-
-## Elizabeth Tai
- - [https://elizabethtai.com](https://elizabethtai.com)
- - date published: 2024-02-25T18:43:10.058322+00:00
- - user: None
- - tags: []
-
-## Elizabeth Tai
- - [https://www.elizabethtai.com](https://www.elizabethtai.com)
- - date published: 2024-01-15T08:35:15.539801+00:00
- - user: None
- - tags: []
 

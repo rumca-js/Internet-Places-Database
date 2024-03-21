@@ -1,3 +1,166 @@
+## Z505.COM
+ - [https://z505.com](https://z505.com)
+ - date published: 2023-10-25T18:23:39.778540+00:00
+ - user: None
+ - tags: []
+
+## Zachary Cohn – Zachary Cohn's Blog
+ - [https://blog.zaccohn.com](https://blog.zaccohn.com)
+ - date published: 2023-10-25T18:23:42.509673+00:00
+ - user: None
+ - tags: []
+
+## 👋 Hello
+ - [https://zacdenham.com](https://zacdenham.com)
+ - date published: 2023-10-25T18:23:44.548994+00:00
+ - user: None
+ - tags: []
+
+## ZacharyShahan.com
+ - [https://zacharyshahan.com](https://zacharyshahan.com)
+ - date published: 2024-01-20T05:27:08.408690+00:00
+ - user: None
+ - tags: []
+
+## Zach Barocas / Brooklyn Diasporist
+		- Zach Barocas / Brooklyn Diasporist
+ - [https://zachbarocas.com](https://zachbarocas.com)
+ - date published: 2024-01-25T16:12:22.188164+00:00
+ - user: None
+ - tags: []
+
+## Zach Gallagher
+ - [https://zachgallagher.com](https://zachgallagher.com)
+ - date published: 2024-02-11T05:00:50.863806+00:00
+ - user: None
+ - tags: ['personal']
+
+## Zach Holman
+ - [https://zachholman.com](https://zachholman.com)
+ - date published: 2024-01-25T08:53:46.260244+00:00
+ - user: None
+ - tags: ['personal']
+
+## Currently - Zach Klein
+ - [https://zachklein.com](https://zachklein.com)
+ - date published: 2023-10-25T18:23:46.449837+00:00
+ - user: None
+ - tags: []
+
+## zachleat.com
+ - [https://www.zachleat.com](https://www.zachleat.com)
+ - date published: 2023-10-25T18:23:48.541850+00:00
+ - user: None
+ - tags: []
+
+## Zack Hargett | Substack
+ - [https://zackhargett.com](https://zackhargett.com)
+ - date published: 2024-02-20T23:30:51.612417+00:00
+ - user: None
+ - tags: []
+
+## Zachary Proser's portfolio site
+ - [https://www.zackproser.com](https://www.zackproser.com)
+ - date published: 2023-10-27T11:56:53.160498+00:00
+ - user: None
+ - tags: []
+
+## Zachary Proser's portfolio site
+ - [https://zackproser.com](https://zackproser.com)
+ - date published: 2023-10-27T11:56:54.574142+00:00
+ - user: None
+ - tags: []
+
+## zannzen
+ - [https://www.zannzen.com](https://www.zannzen.com)
+ - date published: 2024-01-09T02:55:43.214044+00:00
+ - user: None
+ - tags: []
+
+## Zapier | Automation that moves you forward
+ - [https://zapier.com](https://zapier.com)
+ - date published: 2023-10-25T18:24:27.455409+00:00
+ - user: None
+ - tags: []
+
+## Lukáš Zapletal - lzap
+ - [https://lukas.zapletalovi.com](https://lukas.zapletalovi.com)
+ - date published: 2023-10-25T18:24:29.105564+00:00
+ - user: None
+ - tags: []
+
+## Zarf Updates
+ - [https://blog.zarfhome.com](https://blog.zarfhome.com)
+ - date published: 2023-10-25T18:24:37.052916+00:00
+ - user: None
+ - tags: []
+
+## zarkzork.com
+ - [https://zarkzork.com](https://zarkzork.com)
+ - date published: 2023-10-25T18:24:38.695430+00:00
+ - user: None
+ - tags: []
+
+## Zazzle | Personalized Custom Gifts & Instant Downloads
+ - [https://www.zazzle.com](https://www.zazzle.com)
+ - date published: 2024-03-03T18:02:45.558807+00:00
+ - user: None
+ - tags: []
+
+## News and Advice on the World's Latest Innovations | ZDNET
+ - [https://www.zdnet.com](https://www.zdnet.com)
+ - date published: 2023-10-25T09:36:51.823960+00:00
+ - user: None
+ - tags: []
+
+## Zdziarski – DFIR, security, reverse engineering, photography, theology, funky bass guitar. All opinions are my own.
+ - [https://www.zdziarski.com](https://www.zdziarski.com)
+ - date published: 2023-10-25T18:24:42.534877+00:00
+ - user: None
+ - tags: []
+
+## Show HN: Zebrapuzzles.com – Daily Logic Puzzles
+ - [https://www.zebrapuzzles.com](https://www.zebrapuzzles.com)
+ - date published: 2024-03-20T12:31:54+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Zeihan on Geopolitics
+ - [https://zeihan.com](https://zeihan.com)
+ - date published: 2023-10-25T18:24:46.179893+00:00
+ - user: None
+ - tags: []
+
+## The official home for The Legend of Zelda - Home
+ - [https://www.zelda.com](https://www.zelda.com)
+ - date published: 2023-10-25T18:24:52.923632+00:00
+ - user: None
+ - tags: []
+
+## Zelda Xtreme
+ - [https://www.zeldaxtreme.com](https://www.zeldaxtreme.com)
+ - date published: 2024-02-15T22:31:49.860210+00:00
+ - user: None
+ - tags: ['demoscene']
+
+## Zeldman on Web and Interaction Design
+ - [https://www.zeldman.com](https://www.zeldman.com)
+ - date published: 2024-02-13T17:35:29.342852+00:00
+ - user: None
+ - tags: ['personal']
+
+## Lynn Haraldson, Author and Writing Mentor
+ - [https://zenbaglady.com](https://zenbaglady.com)
+ - date published: 2024-02-07T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://theathletic.zendesk.com
+ - [https://theathletic.zendesk.com](https://theathletic.zendesk.com)
+ - date published: 2023-11-04T23:17:18.597491+00:00
+ - user: None
+ - tags: []
+
 ## Zenfetch Personal AI
  - [https://www.zenfetch.com](https://www.zenfetch.com)
  - date published: 2024-01-31T00:00:00+00:00
@@ -359,14 +522,14 @@
  - tags: []
 
 ## Writing by Bob Doto
- - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
- - date published: 2024-01-09T02:55:47.919867+00:00
+ - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
+ - date published: 2024-02-26T14:37:32.413264+00:00
  - user: None
  - tags: []
 
 ## Writing by Bob Doto
- - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
- - date published: 2024-02-26T14:37:32.413264+00:00
+ - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
+ - date published: 2024-01-09T02:55:47.919867+00:00
  - user: None
  - tags: []
 
@@ -791,26 +954,26 @@
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
- - [https://amiga-news.de](https://amiga-news.de)
- - date published: 2023-10-25T11:01:48.109047+00:00
- - user: None
- - tags: []
-
-## amiga-news.de - Amiga-News auf den Punkt gebracht
  - [http://amiga-news.de](http://amiga-news.de)
  - date published: 2024-02-26T14:42:58.001349+00:00
  - user: None
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
- - [https://www.amiga-news.de](https://www.amiga-news.de)
- - date published: 2024-01-09T02:56:04.543993+00:00
+ - [https://amiga-news.de](https://amiga-news.de)
+ - date published: 2023-10-25T11:01:48.109047+00:00
  - user: None
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
  - [http://www.amiga-news.de](http://www.amiga-news.de)
  - date published: 2024-02-26T14:42:59.175744+00:00
+ - user: None
+ - tags: []
+
+## amiga-news.de - Amiga-News auf den Punkt gebracht
+ - [https://www.amiga-news.de](https://www.amiga-news.de)
+ - date published: 2024-01-09T02:56:04.543993+00:00
  - user: None
  - tags: []
 
@@ -1763,16 +1926,16 @@ Heinsohn
  - tags: []
 
 ## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
- - [https://nerdsandgeeks.de](https://nerdsandgeeks.de)
- - date published: 2024-02-15T22:13:44.143200+00:00
- - user: None
- - tags: ['demoscene']
-
-## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
  - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
  - date published: 2024-02-15T02:00:01.330586+00:00
  - user: None
  - tags: ['video game music']
+
+## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
+ - [https://nerdsandgeeks.de](https://nerdsandgeeks.de)
+ - date published: 2024-02-15T22:13:44.143200+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## NeuroNagel : Neuroregulation, Neurofeedback, Biofeedback, Mentalsysteme und Mindmachines
  - [https://www.neuronagel.de](https://www.neuronagel.de)
@@ -1913,14 +2076,14 @@ Heinsohn
  - tags: ['video game music']
 
 ## Radio PARALAX
- - [http://www.radio-paralax.de](http://www.radio-paralax.de)
- - date published: 2024-02-15T22:12:22.414790+00:00
+ - [https://www.radio-paralax.de](https://www.radio-paralax.de)
+ - date published: 2024-02-15T22:31:37.332329+00:00
  - user: None
  - tags: ['demoscene']
 
 ## Radio PARALAX
- - [https://www.radio-paralax.de](https://www.radio-paralax.de)
- - date published: 2024-02-15T22:31:37.332329+00:00
+ - [http://www.radio-paralax.de](http://www.radio-paralax.de)
+ - date published: 2024-02-15T22:12:22.414790+00:00
  - user: None
  - tags: ['demoscene']
 
@@ -2206,6 +2369,12 @@ Heinsohn
  - user: None
  - tags: []
 
+## Home - Helmholtz-Centre for Environmental Research
+ - [https://www.ufz.de](https://www.ufz.de)
+ - date published: 2024-03-20T19:12:24.334536+00:00
+ - user: None
+ - tags: ['environment', 'climate change']
+
 ## Umweltbundesamt | Für Mensch und Umwelt
  - [https://www.umweltbundesamt.de](https://www.umweltbundesamt.de)
  - date published: 2023-10-25T18:33:10.971958+00:00
@@ -2363,16 +2532,16 @@ Heinsohn
  - tags: []
 
 ## WHDLoad
- - [http://www.whdload.de](http://www.whdload.de)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## WHDLoad
  - [https://www.whdload.de](https://www.whdload.de)
  - date published: 2024-01-23T00:00:00+00:00
  - user: None
  - tags: ['amiga']
+
+## WHDLoad
+ - [http://www.whdload.de](http://www.whdload.de)
+ - date published: 2024-02-23T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Serialized Gedanken
  - [https://valentin.willscher.de](https://valentin.willscher.de)
@@ -3901,14 +4070,14 @@ Heinsohn
  - tags: ['personal']
 
 ## Jakob Serlier's Personal Site
- - [http://jakobs.dev](http://jakobs.dev)
- - date published: 2024-01-15T00:00:00+00:00
+ - [https://jakobs.dev](https://jakobs.dev)
+ - date published: 2024-01-09T01:37:20.973191+00:00
  - user: None
  - tags: []
 
 ## Jakob Serlier's Personal Site
- - [https://jakobs.dev](https://jakobs.dev)
- - date published: 2024-01-09T01:37:20.973191+00:00
+ - [http://jakobs.dev](http://jakobs.dev)
+ - date published: 2024-01-15T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5837,174 +6006,6 @@ Heinsohn
 ## Consent-O-Matic
  - [https://consentomatic.au.dk](https://consentomatic.au.dk)
  - date published: 2023-10-25T18:44:57.884515+00:00
- - user: None
- - tags: []
-
-## Health
- - [https://health.au.dk](https://health.au.dk)
- - date published: 2023-12-31T13:28:23.869975+00:00
- - user: None
- - tags: []
-
-## The Interdisciplinary Nanoscience Center at Aarhus University: inano.au.dk
- - [https://inano.au.dk](https://inano.au.dk)
- - date published: 2023-11-21T16:46:11.636457+00:00
- - user: None
- - tags: []
-
-## Faculty of Natural Sciences - Fakultet ved Aarhus Universitet
- - [https://nat.au.dk](https://nat.au.dk)
- - date published: 2023-12-07T14:50:55.311344+00:00
- - user: None
- - tags: []
-
-## Bitmand
- - [https://bitmand.dk](https://bitmand.dk)
- - date published: 2024-03-07T16:51:22.510287+00:00
- - user: None
- - tags: ['personal']
-
-## bret.dk - Explore the latest single-board computers (SBCs), including reviews and benchmarks for Raspberry Pi.
- - [https://bret.dk](https://bret.dk)
- - date published: 2023-10-25T18:45:00.174502+00:00
- - user: None
- - tags: []
-
-## Kohina Web Player
- - [https://kohina.brona.dk](https://kohina.brona.dk)
- - date published: 2024-02-15T22:13:22.214332+00:00
- - user: None
- - tags: ['demoscene']
-
-## Creative Time Studio
- - [https://creativetime.dk](https://creativetime.dk)
- - date published: 2023-11-29T17:10:54.198669+00:00
- - user: None
- - tags: ['personal']
-
-## [CSDb] - The Commodore 64 Scene Database
- - [https://csdb.dk](https://csdb.dk)
- - date published: 2023-10-25T11:17:26.783143+00:00
- - user: None
- - tags: ['demoscene', 'commodore', 'social forum']
-
-## Forside - Sammenslutningen af Danske Småøer
- - [https://danske-smaaoer.dk](https://danske-smaaoer.dk)
- - date published: 2024-02-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Datatilsynet
- - [https://www.datatilsynet.dk](https://www.datatilsynet.dk)
- - date published: 2023-10-25T18:45:02.198094+00:00
- - user: None
- - tags: []
-
-## Datavirke
- - [https://datavirke.dk](https://datavirke.dk)
- - date published: 2023-10-25T18:45:02.904442+00:00
- - user: None
- - tags: []
-
-## Danmarks Tekniske Universitet - DTU
- - [https://www.dtu.dk](https://www.dtu.dk)
- - date published: 2023-10-25T18:45:05.300599+00:00
- - user: None
- - tags: []
-
-## DusteDs home in cyberspace
- - [https://dusted.dk](https://dusted.dk)
- - date published: 2023-10-25T18:45:11.349563+00:00
- - user: None
- - tags: []
-
-## Forsvaret
- - [https://www.forsvaret.dk](https://www.forsvaret.dk)
- - date published: 2023-10-25T18:45:14.938720+00:00
- - user: None
- - tags: []
-
-## Become a Go cloud developer
- - [https://www.golang.dk](https://www.golang.dk)
- - date published: 2023-10-25T18:45:15.795948+00:00
- - user: None
- - tags: []
-
-## IO Interactive - Homepage
- - [https://www.ioi.dk](https://www.ioi.dk)
- - date published: 2023-10-25T18:45:23.268649+00:00
- - user: None
- - tags: []
-
-## Git repository browser
- - [https://git.kernel.dk](https://git.kernel.dk)
- - date published: 2024-01-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Git repository browser
- - [https://kernel.dk](https://kernel.dk)
- - date published: 2023-10-25T18:45:26.253226+00:00
- - user: None
- - tags: []
-
-## None
- - [https://klassikeren.dk](https://klassikeren.dk)
- - date published: 2024-02-08T22:09:11.281885+00:00
- - user: None
- - tags: []
-
-## Faculty of Health and Medical Sciences – University of Copenhagen
- - [https://healthsciences.ku.dk](https://healthsciences.ku.dk)
- - date published: 2023-11-14T09:26:10.548804+00:00
- - user: None
- - tags: []
-
-## News – University of Copenhagen
- - [https://news.ku.dk](https://news.ku.dk)
- - date published: 2023-10-25T11:22:10.749501+00:00
- - user: None
- - tags: []
-
-## SCIENCE – Københavns Universitet
- - [https://science.ku.dk](https://science.ku.dk)
- - date published: 2023-10-25T18:45:30.552340+00:00
- - user: None
- - tags: []
-
-## Frontpage
- - [https://louisiana.dk](https://louisiana.dk)
- - date published: 2023-11-13T13:41:52.770181+00:00
- - user: None
- - tags: ['museum']
-
-## Mark Wrobel
- - [https://www.markwrobel.dk](https://www.markwrobel.dk)
- - date published: 2023-11-02T10:46:34.460851+00:00
- - user: None
- - tags: ['amiga', 'personal']
-
-## Frontpage - Novo Nordisk Fonden
- - [https://novonordiskfonden.dk](https://novonordiskfonden.dk)
- - date published: 2024-03-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## ploeh blog
- - [https://blog.ploeh.dk](https://blog.ploeh.dk)
- - date published: 2023-10-25T18:45:40.993665+00:00
- - user: None
- - tags: []
-
-## Politiken: Forsiden
- - [https://politiken.dk](https://politiken.dk)
- - date published: 2024-01-05T21:26:06.537360+00:00
- - user: None
- - tags: []
-
-## Syddansk Universitet
- - [https://www.sdu.dk](https://www.sdu.dk)
- - date published: 2024-01-05T15:18:32.819279+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,63 @@
+## Security | Glassdoor
+ - [https://www.glassdoor.com](https://www.glassdoor.com)
+ - date published: 2024-03-14T17:44:11+00:00
+ - user: rumpel
+ - tags: ['social platform', 'job platform', 'work platform']
+
+## Gliglish · Your AI Language Teacher | Practice speaking & listening
+ - [https://gliglish.com](https://gliglish.com)
+ - date published: 2023-10-25T14:45:28.936207+00:00
+ - user: None
+ - tags: []
+
+## 404: Not Found
+ - [https://pastes.glitchwrks.com](https://pastes.glitchwrks.com)
+ - date published: 2024-01-09T02:37:34.189755+00:00
+ - user: None
+ - tags: []
+
+## Home - Global Construction Review
+ - [https://www.globalconstructionreview.com](https://www.globalconstructionreview.com)
+ - date published: 2024-02-24T10:09:18.292494+00:00
+ - user: None
+ - tags: []
+
+## Global Fleet - The Executive Network
+ - [https://www.globalfleet.com](https://www.globalfleet.com)
+ - date published: 2023-10-25T14:45:33.013417+00:00
+ - user: None
+ - tags: []
+
+## Global Ground Support - An AirT Company
+ - [https://globalgroundsupport.com](https://globalgroundsupport.com)
+ - date published: 2023-10-25T14:45:38.412506+00:00
+ - user: None
+ - tags: []
+
+## Global Mapper Forum
+ - [https://www.globalmapperforum.com](https://www.globalmapperforum.com)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Global Nerdy
+ - [https://www.globalnerdy.com](https://www.globalnerdy.com)
+ - date published: 2024-02-23T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Global Player | Radio, Podcasts, Playlists and Videos
+ - [https://www.globalplayer.com](https://www.globalplayer.com)
+ - date published: 2023-11-13T09:32:46.982591+00:00
+ - user: None
+ - tags: ['radio', 'podcasts']
+
+## Home | Global Policy Journal
+ - [https://www.globalpolicyjournal.com](https://www.globalpolicyjournal.com)
+ - date published: 2023-10-25T14:45:49.399382+00:00
+ - user: None
+ - tags: []
+
 ## Digital Certificates - PKI - SSL/TLS  GlobalSign GMO
  - [https://www.globalsign.com](https://www.globalsign.com)
  - date published: 2023-10-25T14:45:57.049966+00:00
@@ -538,17 +598,17 @@
  - user: None
  - tags: []
 
-## Google
- - [https://www.google.com](https://www.google.com)
- - date published: 2023-10-25T08:28:06.744876+00:00
- - user: None
- - tags: ['gatekeeper', 'search engine']
-
 ## Google flights
  - [https://www.google.com/travel/flights](https://www.google.com/travel/flights)
  - date published: 2024-01-02T07:35:30+00:00
  - user: rumpel
  - tags: []
+
+## Google
+ - [https://www.google.com](https://www.google.com)
+ - date published: 2023-10-25T08:28:06.744876+00:00
+ - user: None
+ - tags: ['gatekeeper', 'search engine']
 
 ## Hosted Libraries  |  Google for Developers
  - [https://ajax.googleapis.com](https://ajax.googleapis.com)
@@ -601,6 +661,12 @@
 ## Google Open Source Blog
  - [https://opensource.googleblog.com](https://opensource.googleblog.com)
  - date published: 2023-10-25T14:47:58.744853+00:00
+ - user: None
+ - tags: []
+
+## Google Scholar Blog
+ - [https://scholar.googleblog.com](https://scholar.googleblog.com)
+ - date published: 2024-03-20T18:08:26.467127+00:00
  - user: None
  - tags: []
 
@@ -3415,6 +3481,12 @@
  - user: rumpel
  - tags: ['emulator', 'retro games']
 
+## None
+ - [https://upload-os-bbs.hoyolab.com](https://upload-os-bbs.hoyolab.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## HoYoLAB - Official Community
  - [https://www.hoyolab.com](https://www.hoyolab.com)
  - date published: 2024-03-01T13:56:05.542105+00:00
@@ -4784,16 +4856,16 @@
  - tags: ['information company', 'india']
 
 ## InfoWorld - Technology insight for the enterprise
- - [http://www.infoworld.com](http://www.infoworld.com)
- - date published: 2024-02-25T20:55:36.520873+00:00
- - user: None
- - tags: []
-
-## InfoWorld - Technology insight for the enterprise
  - [https://www.infoworld.com](https://www.infoworld.com)
  - date published: 2023-10-25T09:33:30.464349+00:00
  - user: None
  - tags: ['tech news']
+
+## InfoWorld - Technology insight for the enterprise
+ - [http://www.infoworld.com](http://www.infoworld.com)
+ - date published: 2024-02-25T20:55:36.520873+00:00
+ - user: None
+ - tags: []
 
 ## Infrastructure as Code
  - [https://infrastructure-as-code.com](https://infrastructure-as-code.com)
@@ -5926,78 +5998,6 @@
 ## Jacob Does Code
  - [https://jacobdoescode.com](https://jacobdoescode.com)
  - date published: 2023-10-25T08:46:14.075308+00:00
- - user: None
- - tags: ['personal']
-
-## Jacob Elder
- - [https://www.jacobelder.com](https://www.jacobelder.com)
- - date published: 2024-01-17T00:00:00+00:00
- - user: None
- - tags: []
-
-## Jacob Elder
- - [http://www.jacobelder.com](http://www.jacobelder.com)
- - date published: 2024-01-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Jacob Filipp
- - [https://jacobfilipp.com](https://jacobfilipp.com)
- - date published: 2024-01-26T11:43:32.478627+00:00
- - user: None
- - tags: []
-
-## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://jacobhrussell.com](https://jacobhrussell.com)
- - date published: 2023-11-29T17:19:03.891976+00:00
- - user: None
- - tags: ['personal']
-
-## Jacobin
- - [https://jacobin.com](https://jacobin.com)
- - date published: 2023-10-25T15:25:36.036572+00:00
- - user: None
- - tags: []
-
-## Jacob Jackson
- - [https://jacobjackson.com](https://jacobjackson.com)
- - date published: 2024-02-28T22:17:54.967249+00:00
- - user: None
- - tags: []
-
-## Jacob Martin
- - [https://jacobmartins.com](https://jacobmartins.com)
- - date published: 2023-10-25T15:25:38.116032+00:00
- - user: None
- - tags: []
-
-## jacobsalmela (Jacob Salmela) · GitHub
- - [https://jacobsalmela.com](https://jacobsalmela.com)
- - date published: 2023-10-25T15:25:42.767357+00:00
- - user: None
- - tags: []
-
-## Stoecken Fitness — Coming Soon
- - [https://jacobstoecken.com](https://jacobstoecken.com)
- - date published: 2024-01-07T17:47:43.887829+00:00
- - user: None
- - tags: []
-
-## Jacob Stoner
- - [https://blog.jacobstoner.com](https://blog.jacobstoner.com)
- - date published: 2023-10-25T15:25:43.930450+00:00
- - user: None
- - tags: []
-
-## Jacques Mattheij
- - [https://jacquesmattheij.com](https://jacquesmattheij.com)
- - date published: 2023-10-25T15:25:49.543836+00:00
- - user: None
- - tags: []
-
-## Helping Creative CEOs & Founders Scale Without Burnout
- - [https://jadahsellner.com](https://jadahsellner.com)
- - date published: 2024-02-11T05:02:38.252354+00:00
  - user: None
  - tags: ['personal']
 

@@ -1,3 +1,123 @@
+## PDF Differ — Compare the differences between two pdfs
+ - [https://pdfdiffer.com](https://pdfdiffer.com)
+ - date published: 2023-10-25T16:31:51.020705+00:00
+ - user: None
+ - tags: []
+
+## Easy to use free PDF tools online - pdfux
+ - [https://pdfux.com](https://pdfux.com)
+ - date published: 2023-10-25T16:31:51.991250+00:00
+ - user: None
+ - tags: []
+
+## Unavailable In Your Region
+ - [https://www.peacocktv.com](https://www.peacocktv.com)
+ - date published: 2023-11-03T17:34:06.995031+00:00
+ - user: None
+ - tags: []
+
+## Home 2021
+ - [https://pearceonearth.com](https://pearceonearth.com)
+ - date published: 2023-11-29T17:13:01.550218+00:00
+ - user: None
+ - tags: ['personal']
+
+## PEARL, Inc. Homepage
+ - [https://www.pearl-hifi.com](https://www.pearl-hifi.com)
+ - date published: 2023-10-25T16:31:53.681955+00:00
+ - user: None
+ - tags: []
+
+## Pearl Jam - Home
+ - [https://pearljam.com](https://pearljam.com)
+ - date published: 2023-11-13T11:08:31.956919+00:00
+ - user: None
+ - tags: ['music band']
+
+## Pears | Unleash the Power of P2P
+ - [https://pears.com](https://pears.com)
+ - date published: 2024-02-14T21:17:06.928870+00:00
+ - user: None
+ - tags: []
+
+## Pearson | The World’s Leading Education Provider
+ - [https://www.pearson.com](https://www.pearson.com)
+ - date published: 2023-10-25T16:31:59.807682+00:00
+ - user: None
+ - tags: []
+
+## Pedestrian Observations
+ - [https://pedestrianobservations.com](https://pedestrianobservations.com)
+ - date published: 2024-01-09T02:45:49.923910+00:00
+ - user: None
+ - tags: []
+
+## PeerJ
+ - [https://peerj.com](https://peerj.com)
+ - date published: 2023-11-02T17:53:38.956577+00:00
+ - user: None
+ - tags: []
+
+## Book update.  Now includes recent work on best fit solutions. - Peeter Joot's Blog
+ - [https://peeterjoot.com](https://peeterjoot.com)
+ - date published: 2023-10-25T08:57:37.286572+00:00
+ - user: None
+ - tags: ['personal']
+
+## Pegasus Games
+ - [https://pegasusgames.com](https://pegasusgames.com)
+ - date published: 2023-10-30T12:01:37.114574+00:00
+ - user: None
+ - tags: []
+
+## PELock Software Protection & Software License Key System
+ - [https://www.pelock.com](https://www.pelock.com)
+ - date published: 2024-03-19T15:09:07+00:00
+ - user: rumpel
+ - tags: ['reverse engineering']
+
+## PelotonCal
+ - [https://pelotoncal.com](https://pelotoncal.com)
+ - date published: 2023-10-25T16:32:06.386585+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://peltarion.com](https://peltarion.com)
+ - date published: 2024-01-09T02:45:52.860446+00:00
+ - user: None
+ - tags: []
+
+## PENDULUM - Official Website
+ - [https://pendulum.com](https://pendulum.com)
+ - date published: 2023-11-13T10:44:23.595750+00:00
+ - user: None
+ - tags: ['music band']
+
+## Penguinjaa
+ - [https://www.penguinjaa.com](https://www.penguinjaa.com)
+ - date published: 2024-01-09T02:45:54.096725+00:00
+ - user: None
+ - tags: []
+
+## Penguin Random House
+ - [https://www.penguinrandomhouse.com](https://www.penguinrandomhouse.com)
+ - date published: 2024-02-15T22:32:33.341645+00:00
+ - user: None
+ - tags: []
+
+## Penmachine - Derek K. Miller
+ - [https://www.penmachine.com](https://www.penmachine.com)
+ - date published: 2023-10-25T16:32:10.562369+00:00
+ - user: None
+ - tags: []
+
+## Central PA Local News, Breaking News, Sports & Weather
+ - [https://www.pennlive.com](https://www.pennlive.com)
+ - date published: 2023-11-04T15:48:22.366123+00:00
+ - user: None
+ - tags: []
+
 ## Tom Francis
  - [https://www.pentadact.com](https://www.pentadact.com)
  - date published: 2023-10-25T09:21:08.810960+00:00
@@ -461,13 +581,13 @@
  - tags: []
 
 ## Paul's Dev Notes
- - [https://www.pfrazee.com](https://www.pfrazee.com)
+ - [http://www.pfrazee.com](http://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Paul's Dev Notes
- - [http://www.pfrazee.com](http://www.pfrazee.com)
+ - [https://www.pfrazee.com](https://www.pfrazee.com)
  - date published: 2024-01-21T00:00:00+00:00
  - user: None
  - tags: []
@@ -742,6 +862,12 @@
 ## Homepage | Physics-Astronomy
  - [https://www.physics-astronomy.com](https://www.physics-astronomy.com)
  - date published: 2024-01-01T22:21:48.330748+00:00
+ - user: None
+ - tags: []
+
+## Home – Physics World
+ - [https://physicsworld.com](https://physicsworld.com)
+ - date published: 2024-03-20T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1261,6 +1387,12 @@
  - user: None
  - tags: []
 
+## Playtronica Shop
+ - [https://playtronica.com](https://playtronica.com)
+ - date published: 2024-03-20T07:30:08+00:00
+ - user: rumpel
+ - tags: ['audio hardware']
+
 ## Pier-Luc Brault - Site personnel
  - [https://plbrault.com](https://plbrault.com)
  - date published: 2023-10-25T16:36:30.389683+00:00
@@ -1502,14 +1634,14 @@
  - tags: []
 
 ## De Angela L. Duff
- - [http://www.polishedsolid.com](http://www.polishedsolid.com)
- - date published: 2023-12-23T02:59:58.572062+00:00
+ - [https://www.polishedsolid.com](https://www.polishedsolid.com)
+ - date published: 2023-12-20T11:44:35.174499+00:00
  - user: None
  - tags: ['personal']
 
 ## De Angela L. Duff
- - [https://www.polishedsolid.com](https://www.polishedsolid.com)
- - date published: 2023-12-20T11:44:35.174499+00:00
+ - [http://www.polishedsolid.com](http://www.polishedsolid.com)
+ - date published: 2023-12-23T02:59:58.572062+00:00
  - user: None
  - tags: ['personal']
 
@@ -2744,14 +2876,14 @@
  - tags: []
 
 ## Pushbullet Blog
- - [http://blog.pushbullet.com](http://blog.pushbullet.com)
- - date published: 2022-01-01T00:00:00+00:00
+ - [https://blog.pushbullet.com](https://blog.pushbullet.com)
+ - date published: 2023-10-25T16:42:28.991402+00:00
  - user: None
  - tags: []
 
 ## Pushbullet Blog
- - [https://blog.pushbullet.com](https://blog.pushbullet.com)
- - date published: 2023-10-25T16:42:28.991402+00:00
+ - [http://blog.pushbullet.com](http://blog.pushbullet.com)
+ - date published: 2022-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -2845,6 +2977,12 @@
  - user: None
  - tags: []
 
+## Python Morsels: write better Python code
+ - [https://www.pythonmorsels.com](https://www.pythonmorsels.com)
+ - date published: 2024-03-20T04:10:12.122914+00:00
+ - user: None
+ - tags: []
+
 ## Write faster Python code, and ship your code faster
  - [https://pythonspeed.com](https://pythonspeed.com)
  - date published: 2023-10-25T16:42:59.186784+00:00
@@ -2896,6 +3034,12 @@
 ## Attention Required! | Cloudflare
  - [https://johnwiley2020news.q4web.com](https://johnwiley2020news.q4web.com)
  - date published: 2024-02-26T18:18:20.325972+00:00
+ - user: None
+ - tags: []
+
+## Qamcom - Unity of Technology Experts
+ - [https://www.qamcom.com](https://www.qamcom.com)
+ - date published: 2024-03-20T20:23:12.190601+00:00
  - user: None
  - tags: []
 
@@ -3450,14 +3594,14 @@
  - tags: ['personal']
 
 ## Reginald Braithwaite
- - [http://raganwald.com](http://raganwald.com)
- - date published: 2016-01-01T00:00:00+00:00
+ - [https://raganwald.com](https://raganwald.com)
+ - date published: 2023-10-25T16:45:15.488174+00:00
  - user: None
  - tags: []
 
 ## Reginald Braithwaite
- - [https://raganwald.com](https://raganwald.com)
- - date published: 2023-10-25T16:45:15.488174+00:00
+ - [http://raganwald.com](http://raganwald.com)
+ - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4231,14 +4375,14 @@ More!
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [http://www.reddit-stream.com](http://www.reddit-stream.com)
- - date published: 2023-12-23T19:30:18.252561+00:00
+ - [https://www.reddit-stream.com](https://www.reddit-stream.com)
+ - date published: 2023-11-01T21:08:19.834690+00:00
  - user: None
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [https://www.reddit-stream.com](https://www.reddit-stream.com)
- - date published: 2023-11-01T21:08:19.834690+00:00
+ - [http://www.reddit-stream.com](http://www.reddit-stream.com)
+ - date published: 2023-12-23T19:30:18.252561+00:00
  - user: None
  - tags: []
 
@@ -5227,16 +5371,16 @@ More!
  - tags: []
 
 ## Ken Shirriff's blog
- - [https://www.righto.com](https://www.righto.com)
- - date published: 2023-10-25T16:51:33.313104+00:00
- - user: None
- - tags: ['blog', 'personal']
-
-## Ken Shirriff's blog
  - [http://www.righto.com](http://www.righto.com)
  - date published: 2024-02-25T00:44:48.796985+00:00
  - user: None
  - tags: []
+
+## Ken Shirriff's blog
+ - [https://www.righto.com](https://www.righto.com)
+ - date published: 2023-10-25T16:51:33.313104+00:00
+ - user: None
+ - tags: ['blog', 'personal']
 
 ## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
  - [https://www.rigzone.com](https://www.rigzone.com)
@@ -5861,148 +6005,4 @@ More!
  - date published: 2024-01-05T15:17:03.373517+00:00
  - user: None
  - tags: []
-
-## Movie reviews and ratings by Film Critic Roger Ebert | Roger Ebert
- - [https://www.rogerebert.com](https://www.rogerebert.com)
- - date published: 2023-10-27T14:18:10.449564+00:00
- - user: None
- - tags: ['movies']
-
-## Roger Schank
- - [https://www.rogerschank.com](https://www.rogerschank.com)
- - date published: 2023-10-25T16:53:33.728783+00:00
- - user: None
- - tags: []
-
-## Personal site of Roger Stringer | Roger Stringer
- - [https://rogerstringer.com](https://rogerstringer.com)
- - date published: 2024-01-15T14:06:35.096845+00:00
- - user: None
- - tags: []
-
-## Digital product innovation in charities | Roger Swannell
- - [https://rogerswannell.com](https://rogerswannell.com)
- - date published: 2023-12-31T21:21:28.894147+00:00
- - user: None
- - tags: []
-
-## Rogue Amoeba - Under the Microscope
- - [https://weblog.rogueamoeba.com](https://weblog.rogueamoeba.com)
- - date published: 2023-10-25T16:53:36.308176+00:00
- - user: None
- - tags: []
-
-## RogueBasin
- - [https://www.roguebasin.com](https://www.roguebasin.com)
- - date published: 2023-10-25T16:53:39.345258+00:00
- - user: None
- - tags: []
-
-## Temple of The Roguelike
- - [https://blog.roguetemple.com](https://blog.roguetemple.com)
- - date published: 2024-02-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## Temple of The Roguelike – Preserving the spirit of classic roguelikes
- - [https://roguetemple.com](https://roguetemple.com)
- - date published: 2023-10-25T16:53:45.225348+00:00
- - user: None
- - tags: []
-
-## Rogue VHS
- - [https://roguevhs.com](https://roguevhs.com)
- - date published: 2024-02-12T13:43:40+00:00
- - user: rumpel
- - tags: ['music artist', 'synthwave']
-
-## Rogule - a dungeon a day keeps the Balrog away
- - [https://rogule.com](https://rogule.com)
- - date published: 2023-10-25T16:53:50.312363+00:00
- - user: None
- - tags: []
-
-## Rohdesign
- - [https://rohdesign.com](https://rohdesign.com)
- - date published: 2023-12-09T14:59:37.930775+00:00
- - user: None
- - tags: ['personal']
-
-## Rohit Farmer's Personal Website
- - [https://rohitfarmer.com](https://rohitfarmer.com)
- - date published: 2024-02-01T03:07:26.250335+00:00
- - user: None
- - tags: []
-
-## About
- - [https://rohitpaulk.com](https://rohitpaulk.com)
- - date published: 2023-11-29T16:18:54.093413+00:00
- - user: None
- - tags: ['personal']
-
-## 403 Forbidden
- - [https://www.roi-nj.com](https://www.roi-nj.com)
- - date published: 2023-12-10T00:14:16.296424+00:00
- - user: None
- - tags: []
-
-## Roku Community Support | Fast Responses | Roku Community
- - [https://community.roku.com](https://community.roku.com)
- - date published: 2023-10-25T16:54:01.511231+00:00
- - user: None
- - tags: []
-
-## Roku
- - [https://docs.roku.com](https://docs.roku.com)
- - date published: 2024-02-25T21:17:55.796599+00:00
- - user: None
- - tags: []
-
-## Roku
- - [https://www.roku.com](https://www.roku.com)
- - date published: 2023-10-24T20:19:37.202078+00:00
- - user: None
- - tags: []
-
-## Roland Articles | Home
- - [https://articles.roland.com](https://articles.roland.com)
- - date published: 2023-10-25T16:54:06.876407+00:00
- - user: None
- - tags: []
-
-## https://static.roland.com
- - [https://static.roland.com](https://static.roland.com)
- - date published: 2024-01-09T02:48:11.992808+00:00
- - user: None
- - tags: []
-
-## Roland - Global
- - [https://www.roland.com](https://www.roland.com)
- - date published: 2023-11-06T09:56:02.793816+00:00
- - user: None
- - tags: ['audio equipment']
-
-## Notes
- - [https://notes.rolandcrosby.com](https://notes.rolandcrosby.com)
- - date published: 2024-02-22T03:55:09.090463+00:00
- - user: None
- - tags: []
-
-## Rolepad - Take the work out of the job search
- - [https://rolepad.com](https://rolepad.com)
- - date published: 2023-10-25T16:54:13.237013+00:00
- - user: None
- - tags: []
-
-## Roll Call - Covering Capitol Hill Since 1955
- - [https://rollcall.com](https://rollcall.com)
- - date published: 2023-10-25T16:54:16.275639+00:00
- - user: None
- - tags: []
-
-## Rolling Stone – Music, Film, TV and Political News Coverage
- - [https://www.rollingstone.com](https://www.rollingstone.com)
- - date published: 2023-10-25T16:18:12.778211+00:00
- - user: None
- - tags: ['music news', 'political news']
 

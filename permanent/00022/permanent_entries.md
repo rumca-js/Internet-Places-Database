@@ -1,3 +1,225 @@
+## codapi: Embeddable code playgrounds
+ - [https://codapi.org](https://codapi.org)
+ - date published: 2023-12-16T18:16:43.112708+00:00
+ - user: None
+ - tags: []
+
+## Codeberg News
+ - [https://blog.codeberg.org](https://blog.codeberg.org)
+ - date published: 2023-10-25T21:08:17.151581+00:00
+ - user: None
+ - tags: []
+
+## Codeberg.org
+ - [https://codeberg.org](https://codeberg.org)
+ - date published: 2023-10-25T21:08:17.885638+00:00
+ - user: None
+ - tags: []
+
+## CodeBuy
+ - [https://codebuy.org](https://codebuy.org)
+ - date published: 2024-01-09T03:38:38.042950+00:00
+ - user: None
+ - tags: []
+
+## CodeLite • A free, Open Source, Cross Platform C,C++,PHP and Node.js IDE
+ - [https://codelite.org](https://codelite.org)
+ - date published: 2023-10-25T08:33:37.426532+00:00
+ - user: None
+ - tags: ['programming ide']
+
+## CoffeeScript
+ - [https://coffeescript.org](https://coffeescript.org)
+ - date published: 2023-10-30T13:47:40.656535+00:00
+ - user: None
+ - tags: ['javascript']
+
+## cohost!
+ - [https://cohost.org](https://cohost.org)
+ - date published: 2023-10-25T21:08:19.011517+00:00
+ - user: None
+ - tags: []
+
+## News and Press Releases - Newsroom | College Board
+ - [https://newsroom.collegeboard.org](https://newsroom.collegeboard.org)
+ - date published: 2023-10-25T21:08:21.056798+00:00
+ - user: None
+ - tags: []
+
+## https://histmed.collegeofphysicians.org
+ - [https://histmed.collegeofphysicians.org](https://histmed.collegeofphysicians.org)
+ - date published: 2023-10-25T21:08:24.028256+00:00
+ - user: None
+ - tags: []
+
+## Columbia Law Review -
+ - [https://columbialawreview.org](https://columbialawreview.org)
+ - date published: 2023-10-25T21:08:25.935513+00:00
+ - user: None
+ - tags: []
+
+## Columbia Department of Radiology
+ - [https://www.columbiaradiology.org](https://www.columbiaradiology.org)
+ - date published: 2023-12-03T16:18:33.647399+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Comic-Con International
+ - [https://www.comic-con.org](https://www.comic-con.org)
+ - date published: 2024-02-20T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Home - Comment Magazine
+ - [https://comment.org](https://comment.org)
+ - date published: 2023-10-25T21:08:30.947601+00:00
+ - user: None
+ - tags: []
+
+## Commentary Magazine - conservative Jewish thought & opinion
+ - [https://www.commentary.org](https://www.commentary.org)
+ - date published: 2023-10-25T21:08:33.471629+00:00
+ - user: None
+ - tags: ['america', 'israel', 'news', 'jewish']
+
+## Home - Fairplay
+ - [https://commercialfreechildhood.org](https://commercialfreechildhood.org)
+ - date published: 2023-10-25T21:08:43.347861+00:00
+ - user: None
+ - tags: []
+
+## Common Crawl - Open Repository of Web Crawl Data
+ - [https://commoncrawl.org](https://commoncrawl.org)
+ - date published: 2024-01-17T09:08:05+00:00
+ - user: rumpel
+ - tags: ['web scraping', 'internet archive']
+
+## Breaking News & Views for the Progressive Community | Common Dreams
+ - [https://www.commondreams.org](https://www.commondreams.org)
+ - date published: 2023-10-25T10:39:59.954835+00:00
+ - user: None
+ - tags: []
+
+## Common Edge
+ - [https://commonedge.org](https://commonedge.org)
+ - date published: 2023-10-25T11:25:25.464212+00:00
+ - user: None
+ - tags: []
+
+## CommonMark
+ - [https://commonmark.org](https://commonmark.org)
+ - date published: 2023-10-25T21:08:49.047103+00:00
+ - user: None
+ - tags: []
+
+## Commonweal Magazine | Religion, Politics, Culture
+ - [https://www.commonwealmagazine.org](https://www.commonwealmagazine.org)
+ - date published: 2023-10-25T21:08:58.637923+00:00
+ - user: None
+ - tags: []
+
+## COMMUNIA Association
+ - [https://communia-association.org](https://communia-association.org)
+ - date published: 2024-03-11T20:55:22.730086+00:00
+ - user: None
+ - tags: []
+
+## CommunityWiki: Front Page
+ - [https://communitywiki.org](https://communitywiki.org)
+ - date published: 2023-10-25T21:09:04.403232+00:00
+ - user: None
+ - tags: []
+
+## Compassion & Choices | End-of-Life Resources
+ - [https://www.compassionandchoices.org](https://www.compassionandchoices.org)
+ - date published: 2023-10-25T21:09:12.683102+00:00
+ - user: None
+ - tags: []
+
+## The Changelog | Comments on family, technology, and society
+ - [https://changelog.complete.org](https://changelog.complete.org)
+ - date published: 2023-10-25T21:09:18.866235+00:00
+ - user: None
+ - tags: []
+
+## www.complete.org
+ - [https://www.complete.org](https://www.complete.org)
+ - date published: 2023-10-25T21:09:19.979371+00:00
+ - user: None
+ - tags: []
+
+## Compoze
+ - [https://www.compoze.org](https://www.compoze.org)
+ - date published: 2023-10-25T21:09:21.237236+00:00
+ - user: None
+ - tags: []
+
+## Computational Complexity
+ - [https://blog.computationalcomplexity.org](https://blog.computationalcomplexity.org)
+ - date published: 2023-10-25T21:09:31.458721+00:00
+ - user: None
+ - tags: []
+
+## IEEE Computer Society
+ - [https://www.computer.org](https://www.computer.org)
+ - date published: 2023-10-25T21:09:38.026804+00:00
+ - user: None
+ - tags: []
+
+## Home - CHM
+ - [https://computerhistory.org](https://computerhistory.org)
+ - date published: 2023-10-25T21:09:43.375622+00:00
+ - user: None
+ - tags: []
+
+## facebook-f icon
+ - [https://info.computerhistory.org](https://info.computerhistory.org)
+ - date published: 2023-10-25T21:09:49.791311+00:00
+ - user: None
+ - tags: []
+
+## https://s3data.computerhistory.org
+ - [https://s3data.computerhistory.org](https://s3data.computerhistory.org)
+ - date published: 2024-01-09T03:38:41.051342+00:00
+ - user: None
+ - tags: []
+
+## Home - CHM
+ - [https://www.computerhistory.org](https://www.computerhistory.org)
+ - date published: 2023-10-25T21:09:57.418860+00:00
+ - user: None
+ - tags: []
+
+## I'm getting some serious “Darmok and Jalad at Tanagra” vibes from this card magic book - The Boston Diaries - Captain Napalm
+ - [https://boston.conman.org](https://boston.conman.org)
+ - date published: 2023-10-25T21:10:01.402711+00:00
+ - user: None
+ - tags: ['personal']
+
+## Conservative Institute
+ - [https://conservativeinstitute.org](https://conservativeinstitute.org)
+ - date published: 2023-10-25T21:10:09.601436+00:00
+ - user: None
+ - tags: []
+
+## The National Constitution Center
+ - [https://constitutioncenter.org](https://constitutioncenter.org)
+ - date published: 2023-10-25T21:10:11.326457+00:00
+ - user: None
+ - tags: []
+
+## Innovation at Consumer Reports
+ - [https://digital-lab.consumerreports.org](https://digital-lab.consumerreports.org)
+ - date published: 2023-10-25T21:10:14.257493+00:00
+ - user: None
+ - tags: []
+
+## Product Reviews and Ratings - Consumer Reports
+ - [https://www.consumerreports.org](https://www.consumerreports.org)
+ - date published: 2023-10-25T10:13:05.232572+00:00
+ - user: None
+ - tags: []
+
 ## Home - Contemporary Psychotherapy
  - [https://www.contemporarypsychotherapy.org](https://www.contemporarypsychotherapy.org)
  - date published: 2023-10-25T21:10:16.379674+00:00
@@ -359,16 +581,16 @@
  - tags: []
 
 ## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
- - [https://cvsgui.org](https://cvsgui.org)
- - date published: 2024-03-04T12:06:02+00:00
- - user: rumpel
- - tags: ['control version system', 'program', 'open source']
-
-## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
  - [http://cvsgui.org](http://cvsgui.org)
  - date published: 2024-03-05T00:16:31.622060+00:00
  - user: None
  - tags: []
+
+## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
+ - [https://cvsgui.org](https://cvsgui.org)
+ - date published: 2024-03-04T12:06:02+00:00
+ - user: rumpel
+ - tags: ['control version system', 'program', 'open source']
 
 ## California Water Environment Association | Champions of Wastewater
  - [https://www.cwea.org](https://www.cwea.org)
@@ -953,6 +1175,12 @@
  - user: None
  - tags: []
 
+## DNS Service Discovery (DNS-SD)
+ - [http://www.dns-sd.org](http://www.dns-sd.org)
+ - date published: 1998-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Home | Doctors Without Borders - USA
  - [https://www.doctorswithoutborders.org](https://www.doctorswithoutborders.org)
  - date published: 2023-11-11T16:04:52.293520+00:00
@@ -996,14 +1224,14 @@
  - tags: []
 
 ## Resolve a DOI Name
- - [https://dx.doi.org](https://dx.doi.org)
- - date published: 2023-12-03T01:17:58.110575+00:00
+ - [http://dx.doi.org](http://dx.doi.org)
+ - date published: 2024-02-27T01:04:33.113692+00:00
  - user: None
  - tags: []
 
 ## Resolve a DOI Name
- - [http://dx.doi.org](http://dx.doi.org)
- - date published: 2024-02-27T01:04:33.113692+00:00
+ - [https://dx.doi.org](https://dx.doi.org)
+ - date published: 2023-12-03T01:17:58.110575+00:00
  - user: None
  - tags: []
 
@@ -1379,6 +1607,12 @@
  - user: None
  - tags: []
 
+## EFF Action Center
+ - [https://act.eff.org](https://act.eff.org)
+ - date published: 2024-03-20T07:42:47.065649+00:00
+ - user: None
+ - tags: []
+
 ## Test browser for web tracking – EFF
  - [https://coveryourtracks.eff.org](https://coveryourtracks.eff.org)
  - date published: 2023-11-05T20:31:06+00:00
@@ -1649,15 +1883,15 @@
  - user: None
  - tags: []
 
-## Thib's Home
- - [https://ergaster.org](https://ergaster.org)
- - date published: 2023-10-25T21:18:23.232043+00:00
- - user: None
- - tags: []
-
 ## Ergaster
  - [http://ergaster.org](http://ergaster.org)
  - date published: 2024-02-26T14:07:11.647181+00:00
+ - user: None
+ - tags: []
+
+## Thib's Home
+ - [https://ergaster.org](https://ergaster.org)
+ - date published: 2023-10-25T21:18:23.232043+00:00
  - user: None
  - tags: []
 
@@ -1694,6 +1928,12 @@
 ## European Society of Cardiology
  - [https://www.escardio.org](https://www.escardio.org)
  - date published: 2023-10-25T21:18:40.217871+00:00
+ - user: None
+ - tags: []
+
+## ESCMID: ESCMID - Home
+ - [https://www.escmid.org](https://www.escmid.org)
+ - date published: 2024-03-20T01:54:58.665054+00:00
  - user: None
  - tags: []
 
@@ -3188,6 +3428,12 @@
  - user: rumpel
  - tags: ['gnome']
 
+## GNOME Release Notes
+ - [https://release.gnome.org](https://release.gnome.org)
+ - date published: 2024-03-20T18:08:17.213656+00:00
+ - user: None
+ - tags: []
+
 ## This Week in GNOME
  - [https://thisweek.gnome.org](https://thisweek.gnome.org)
  - date published: 2023-10-25T21:25:35.832307+00:00
@@ -4018,14 +4264,14 @@
  - tags: []
 
 ## IEEE Spectrum
- - [http://spectrum.ieee.org](http://spectrum.ieee.org)
- - date published: 2024-02-25T20:49:03.401404+00:00
+ - [https://spectrum.ieee.org](https://spectrum.ieee.org)
+ - date published: 2023-10-25T09:37:30.327947+00:00
  - user: None
  - tags: []
 
 ## IEEE Spectrum
- - [https://spectrum.ieee.org](https://spectrum.ieee.org)
- - date published: 2023-10-25T09:37:30.327947+00:00
+ - [http://spectrum.ieee.org](http://spectrum.ieee.org)
+ - date published: 2024-02-25T20:49:03.401404+00:00
  - user: None
  - tags: []
 
@@ -4264,16 +4510,16 @@
  - tags: []
 
 ## Draw Freely | Inkscape
- - [https://www.inkscape.org](https://www.inkscape.org)
- - date published: 2023-12-12T09:13:16+00:00
- - user: None
- - tags: ['vector graphics']
-
-## Draw Freely | Inkscape
  - [http://www.inkscape.org](http://www.inkscape.org)
  - date published: 2024-02-26T09:27:07.298333+00:00
  - user: None
  - tags: []
+
+## Draw Freely | Inkscape
+ - [https://www.inkscape.org](https://www.inkscape.org)
+ - date published: 2023-12-12T09:13:16+00:00
+ - user: None
+ - tags: ['vector graphics']
 
 ## Ink/Stitch: An open-source machine embroidery design platform based on Inkscape
  - [https://inkstitch.org](https://inkstitch.org)
@@ -5203,16 +5449,16 @@ Hosted by Panix.com.
  - tags: []
 
 ## KEXP 90.3 FM - Where the Music Matters
- - [https://kexp.org](https://kexp.org)
- - date published: 2024-01-22T12:40:00+00:00
- - user: rumpel
- - tags: ['radio', 'music']
-
-## KEXP 90.3 FM - Where the Music Matters
  - [http://kexp.org](http://kexp.org)
  - date published: 2024-02-22T16:55:15.353701+00:00
  - user: None
  - tags: []
+
+## KEXP 90.3 FM - Where the Music Matters
+ - [https://kexp.org](https://kexp.org)
+ - date published: 2024-01-22T12:40:00+00:00
+ - user: rumpel
+ - tags: ['radio', 'music']
 
 ## Key to Harmony Online Al-Anon Meeting
  - [https://www.keytoharmony.org](https://www.keytoharmony.org)
@@ -5757,252 +6003,6 @@ Hosted by Panix.com.
 ## 5GhOSTS: 5th GeneratiOn Security for Telecom Services
  - [https://www.old.linddun.org](https://www.old.linddun.org)
  - date published: 2021-10-26T00:00:00+00:00
- - user: None
- - tags: []
-
-## LineageOS – LineageOS Android Distribution
- - [https://lineageos.org](https://lineageos.org)
- - date published: 2023-10-25T08:32:27.769540+00:00
- - user: None
- - tags: ['android', 'lineageos', 'operating system']
-
-## Linear Book Scanner - The open-source automatic book scanner
- - [https://linearbookscanner.org](https://linearbookscanner.org)
- - date published: 2023-10-25T08:36:34.572791+00:00
- - user: None
- - tags: []
-
-## Linebender
- - [https://linebender.org](https://linebender.org)
- - date published: 2023-04-22T00:00:00+00:00
- - user: None
- - tags: []
-
-## The Linux Information Project (LINFO) Home Page
- - [https://www.linfo.org](https://www.linfo.org)
- - date published: 2023-10-25T21:38:55.368279+00:00
- - user: None
- - tags: []
-
-## Linux.org
- - [https://www.linux.org](https://www.linux.org)
- - date published: 2023-10-25T21:38:58.347661+00:00
- - user: None
- - tags: []
-
-## Linux Containers Forum
- - [https://discuss.linuxcontainers.org](https://discuss.linuxcontainers.org)
- - date published: 2023-10-25T21:39:03.769630+00:00
- - user: None
- - tags: []
-
-## Linux Containers - Image server
- - [https://images.linuxcontainers.org](https://images.linuxcontainers.org)
- - date published: 2024-03-03T11:36:27.306794+00:00
- - user: None
- - tags: []
-
-## Linux Containers
- - [https://linuxcontainers.org](https://linuxcontainers.org)
- - date published: 2023-10-25T21:39:05.617056+00:00
- - user: None
- - tags: []
-
-## Show HN: LinuxDAW – Quality audio software for Linux
- - [https://linuxdaw.org](https://linuxdaw.org)
- - date published: 2023-12-30T15:21:12+00:00
- - user: None
- - tags: []
-
-## Welcome to Linux From Scratch!
- - [https://www.linuxfromscratch.org](https://www.linuxfromscratch.org)
- - date published: 2023-10-25T21:39:07.168165+00:00
- - user: None
- - tags: ['operating system']
-
-## KVM
- - [https://www.linux-kvm.org](https://www.linux-kvm.org)
- - date published: 2023-10-25T21:39:00.493933+00:00
- - user: None
- - tags: []
-
-## LISEP Ludwig Institute for Shared Economic Prosperity
- - [https://www.lisep.org](https://www.lisep.org)
- - date published: 2024-02-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## LiteDB :: A .NET embedded NoSQL database
- - [https://www.litedb.org](https://www.litedb.org)
- - date published: 2023-10-25T21:39:07.941318+00:00
- - user: None
- - tags: []
-
-## Take a Book. Share a Book. - Little Free Library
- - [https://littlefreelibrary.org](https://littlefreelibrary.org)
- - date published: 2023-10-25T21:39:11.222918+00:00
- - user: None
- - tags: []
-
-## Live Action |  Pro-Life Advocacy for Dignity and Human Rights
- - [https://www.liveaction.org](https://www.liveaction.org)
- - date published: 2023-10-25T21:39:14.444748+00:00
- - user: None
- - tags: []
-
-## Living Code
- - [https://livingcode.org](https://livingcode.org)
- - date published: 2020-07-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Living New Deal | Living New Deal
- - [https://livingnewdeal.org](https://livingnewdeal.org)
- - date published: 2024-01-03T00:00:00+00:00
- - user: None
- - tags: []
-
-## LKML.ORG - the Linux Kernel Mailing List Archive
- - [https://lkml.org](https://lkml.org)
- - date published: 2023-11-13T12:04:53.320666+00:00
- - user: None
- - tags: []
-
-## Universal and Transferable Attacks on Aligned Language Models
- - [https://llm-attacks.org](https://llm-attacks.org)
- - date published: 2023-10-25T21:39:17.051556+00:00
- - user: None
- - tags: []
-
-## GPU Utils ⚡️
- - [https://gpus.llm-utils.org](https://gpus.llm-utils.org)
- - date published: 2023-10-25T21:39:18.562208+00:00
- - user: None
- - tags: []
-
-## Home - LLM Utils
- - [https://llm-utils.org](https://llm-utils.org)
- - date published: 2023-10-25T21:39:20.535334+00:00
- - user: None
- - tags: []
-
-## The LLVM Project Blog
- - [https://blog.llvm.org](https://blog.llvm.org)
- - date published: 2023-12-12T23:37:43.090695+00:00
- - user: None
- - tags: []
-
-## LLVM Discussion Forums - Our community includes both users and developers of various compiler technologies within the LLVM project.
- - [https://discourse.llvm.org](https://discourse.llvm.org)
- - date published: 2023-10-25T21:39:24.567913+00:00
- - user: None
- - tags: []
-
-## The LLVM Compiler Infrastructure Project
- - [https://llvm.org](https://llvm.org)
- - date published: 2023-10-25T21:39:28.896311+00:00
- - user: None
- - tags: ['compiler']
-
-## Download LLVM releases
- - [https://releases.llvm.org](https://releases.llvm.org)
- - date published: 2023-10-25T21:39:30.474866+00:00
- - user: None
- - tags: []
-
-## Loża-Matka "Kopernik"
- - [https://lmkopernik.org](https://lmkopernik.org)
- - date published: 2023-12-05T15:16:55+00:00
- - user: None
- - tags: ['freemasonry']
-
-## Mistral AI launches Mixtral-Next
- - [https://chat.lmsys.org](https://chat.lmsys.org)
- - date published: 2024-02-17T03:46:24+00:00
- - user: None
- - tags: []
-
-## LMSYS Org
- - [https://lmsys.org](https://lmsys.org)
- - date published: 2023-10-25T21:39:31.970567+00:00
- - user: None
- - tags: []
-
-## Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality | LMSYS Org
- - [https://vicuna.lmsys.org](https://vicuna.lmsys.org)
- - date published: 2023-10-25T21:39:33.956719+00:00
- - user: None
- - tags: []
-
-## Home - Library of America
- - [https://www.loa.org](https://www.loa.org)
- - date published: 2024-02-06T12:42:50+00:00
- - user: rumpel
- - tags: ['books', 'reading']
-
-## LocalSend: Open-source, cross-platform file sharing to nearby devices
- - [https://localsend.org](https://localsend.org)
- - date published: 2024-03-10T21:38:06+00:00
- - user: None
- - tags: ['file sharing', 'open source']
-
-## Opening the target...
- - [https://mw.lojban.org](https://mw.lojban.org)
- - date published: 2023-10-25T21:39:36.643198+00:00
- - user: None
- - tags: []
-
-## LONG NOW — fostering long term thinking
- - [https://longnow.org](https://longnow.org)
- - date published: 2023-10-25T21:39:39.438749+00:00
- - user: None
- - tags: []
-
-## FDD's Long War Journal
- - [https://www.longwarjournal.org](https://www.longwarjournal.org)
- - date published: 2023-11-10T03:51:21.976358+00:00
- - user: None
- - tags: []
-
-## The Lost Cause | Cory Doctorow's craphound.com
- - [http://lost-cause.org](http://lost-cause.org)
- - date published: 2024-01-27T15:33:20.962470+00:00
- - user: None
- - tags: []
-
-## LÖVE - Free 2D Game Engine
- - [https://love2d.org](https://love2d.org)
- - date published: 2023-10-25T08:35:50.630389+00:00
- - user: None
- - tags: []
-
-## The Law and Political Economy Project
- - [https://lpeproject.org](https://lpeproject.org)
- - date published: 2024-02-24T18:19:33.317225+00:00
- - user: None
- - tags: []
-
-## Homepage
- - [https://www.lpi.org](https://www.lpi.org)
- - date published: 2024-01-09T03:41:18.717606+00:00
- - user: None
- - tags: []
-
-## Louisville Public Media
- - [https://www.lpm.org](https://www.lpm.org)
- - date published: 2023-11-06T14:35:50.495843+00:00
- - user: None
- - tags: []
-
-## https://lpython.org
- - [https://lpython.org](https://lpython.org)
- - date published: 2023-10-25T21:39:41.946449+00:00
- - user: None
- - tags: []
-
-## The Long Riders Guild Academic Foundation
- - [https://www.lrgaf.org](https://www.lrgaf.org)
- - date published: 2024-01-09T03:41:28.231971+00:00
  - user: None
  - tags: []
 

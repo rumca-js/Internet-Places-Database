@@ -1,3 +1,33 @@
+## Cypher Phunk
+ - [https://cypherphunk.blogspot.com](https://cypherphunk.blogspot.com)
+ - date published: 2023-10-25T09:08:06.752061+00:00
+ - user: None
+ - tags: ['personal']
+
+## Database Architects
+ - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
+ - date published: 2024-02-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Database Architects
+ - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
+ - date published: 2023-10-25T09:08:09.774302+00:00
+ - user: None
+ - tags: ['personal']
+
+## Data Finnovation
+ - [https://datafinnovation.blogspot.com](https://datafinnovation.blogspot.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## DCblog
+ - [https://david-crystal.blogspot.com](https://david-crystal.blogspot.com)
+ - date published: 2004-02-26T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Agile & Coding
  - [https://davidvujic.blogspot.com](https://davidvujic.blogspot.com)
  - date published: 2023-12-03T12:58:17.652706+00:00
@@ -1019,14 +1049,14 @@
  - tags: ['aviation', 'aerospace', 'avionics']
 
 ## Chris Aldrich | BoffoSocko
- - [http://boffosocko.com](http://boffosocko.com)
- - date published: 2024-02-26T14:52:14.236002+00:00
+ - [https://boffosocko.com](https://boffosocko.com)
+ - date published: 2024-01-02T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Chris Aldrich | BoffoSocko
- - [https://boffosocko.com](https://boffosocko.com)
- - date published: 2024-01-02T00:00:00+00:00
+ - [http://boffosocko.com](http://boffosocko.com)
+ - date published: 2024-02-26T14:52:14.236002+00:00
  - user: None
  - tags: []
 
@@ -1822,7 +1852,7 @@
  - [https://www.brickfanatics.com](https://www.brickfanatics.com)
  - date published: 2023-10-25T11:10:37.106187+00:00
  - user: None
- - tags: []
+ - tags: ['news', 'lego']
 
 ## Field of Greens
  - [http://www.brickhouserussell.com](http://www.brickhouserussell.com)
@@ -1834,13 +1864,13 @@
  - [https://brickinsights.com](https://brickinsights.com)
  - date published: 2024-03-19T22:23:03.948884+00:00
  - user: None
- - tags: []
+ - tags: ['lego']
 
 ## BrickNerd - All things LEGO and the LEGO fan community
  - [https://bricknerd.com](https://bricknerd.com)
  - date published: 2023-10-25T11:10:40.219577+00:00
  - user: None
- - tags: []
+ - tags: ['lego']
 
 ## Home | Brickset
  - [https://brickset.com](https://brickset.com)
@@ -2754,6 +2784,24 @@
  - user: None
  - tags: []
 
+## camelQA
+ - [https://camelqa.com](https://camelqa.com)
+ - date published: 2024-03-20T18:08:13.144781+00:00
+ - user: None
+ - tags: []
+
+## Log in | camelQA
+ - [https://dash.camelqa.com](https://dash.camelqa.com)
+ - date published: 2024-03-20T18:08:16.229793+00:00
+ - user: None
+ - tags: []
+
+## camelQA demo
+ - [https://demo.camelqa.com](https://demo.camelqa.com)
+ - date published: 2024-03-20T18:08:13.864131+00:00
+ - user: None
+ - tags: []
+
 ## Cameron Conaway: Professor and Feedback Fanatic
  - [https://www.cameronconaway.com](https://www.cameronconaway.com)
  - date published: 2023-12-03T01:44:15.857851+00:00
@@ -2995,14 +3043,14 @@
  - tags: ['site building']
 
 ## None
- - [https://www.caribpress.com](https://www.caribpress.com)
- - date published: 2024-01-09T02:31:43.727437+00:00
+ - [http://www.caribpress.com](http://www.caribpress.com)
+ - date published: 2024-02-25T15:38:05.095360+00:00
  - user: None
  - tags: []
 
 ## None
- - [http://www.caribpress.com](http://www.caribpress.com)
- - date published: 2024-02-25T15:38:05.095360+00:00
+ - [https://www.caribpress.com](https://www.caribpress.com)
+ - date published: 2024-01-09T02:31:43.727437+00:00
  - user: None
  - tags: []
 
@@ -4128,17 +4176,17 @@
  - user: None
  - tags: []
 
-## None
- - [http://chrisjstott.com](http://chrisjstott.com)
- - date published: 2024-02-29T14:58:49.595292+00:00
- - user: None
- - tags: []
-
 ## http://chrisjstott.com
  - [https://chrisjstott.com](https://chrisjstott.com)
  - date published: 2024-01-24T08:01:05.864817+00:00
  - user: None
  - tags: ['personal']
+
+## None
+ - [http://chrisjstott.com](http://chrisjstott.com)
+ - date published: 2024-02-29T14:58:49.595292+00:00
+ - user: None
+ - tags: []
 
 ## Home - Blogomatano
  - [https://chriskiehl.com](https://chriskiehl.com)
@@ -5303,14 +5351,14 @@
  - tags: []
 
 ## Blog · Codeanywhere
- - [https://blog.codeanywhere.com](https://blog.codeanywhere.com)
- - date published: 2023-10-25T13:27:59.137947+00:00
+ - [http://blog.codeanywhere.com](http://blog.codeanywhere.com)
+ - date published: 2024-01-11T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Blog · Codeanywhere
- - [http://blog.codeanywhere.com](http://blog.codeanywhere.com)
- - date published: 2024-01-11T00:00:00+00:00
+ - [https://blog.codeanywhere.com](https://blog.codeanywhere.com)
+ - date published: 2023-10-25T13:27:59.137947+00:00
  - user: None
  - tags: []
 
@@ -5960,54 +6008,6 @@
 ## Computer, Enhance! | Casey Muratori | Substack
  - [https://www.computerenhance.com](https://www.computerenhance.com)
  - date published: 2023-10-25T13:32:39.542030+00:00
- - user: None
- - tags: []
-
-## Computer Weekly | Information Technology (IT) News, UK IT Jobs, Industry News
- - [https://www.computerweekly.com](https://www.computerweekly.com)
- - date published: 2023-10-25T13:32:49.374619+00:00
- - user: None
- - tags: []
-
-## IT news, careers, business technology, reviews
- - [http://www.computerworld.com](http://www.computerworld.com)
- - date published: 2024-02-25T19:22:09.150165+00:00
- - user: None
- - tags: []
-
-## IT news, careers, business technology, reviews | Computerworld
- - [https://www.computerworld.com](https://www.computerworld.com)
- - date published: 2023-10-25T09:32:24.152677+00:00
- - user: None
- - tags: []
-
-## Home | Concerning Quality
- - [https://concerningquality.com](https://concerningquality.com)
- - date published: 2024-01-04T17:44:04.642304+00:00
- - user: None
- - tags: []
-
-## https://www.concordmonitor.com
- - [https://www.concordmonitor.com](https://www.concordmonitor.com)
- - date published: 2023-10-25T13:32:50.154763+00:00
- - user: None
- - tags: []
-
-## The Condiment Packet Gallery
- - [https://www.condimentpacket.com](https://www.condimentpacket.com)
- - date published: 2023-10-25T13:32:52.059539+00:00
- - user: None
- - tags: []
-
-## Conf42: online tech events
- - [https://www.conf42.com](https://www.conf42.com)
- - date published: 2023-10-25T13:32:57.935406+00:00
- - user: None
- - tags: []
-
-## None
- - [https://aaas.confex.com](https://aaas.confex.com)
- - date published: 2024-02-24T18:22:26.397111+00:00
  - user: None
  - tags: []
 

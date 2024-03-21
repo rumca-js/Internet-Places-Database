@@ -1229,13 +1229,13 @@
  - tags: []
 
 ## http://hello.pi.ai/
- - [https://hello.pi.ai](https://hello.pi.ai)
+ - [http://hello.pi.ai](http://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## http://hello.pi.ai/
- - [http://hello.pi.ai](http://hello.pi.ai)
+ - [https://hello.pi.ai](https://hello.pi.ai)
  - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -2224,6 +2224,12 @@
  - user: None
  - tags: []
 
+## MoBoard,Text-based video editor for animated presentation
+ - [https://moboard.netlify.app](https://moboard.netlify.app)
+ - date published: 2024-03-20T06:54:45+00:00
+ - user: None
+ - tags: []
+
 ## Introduction to Modern Statistics (2nd Ed)
  - [https://openintro-ims2.netlify.app](https://openintro-ims2.netlify.app)
  - date published: 2023-10-25T11:47:41.166682+00:00
@@ -2431,6 +2437,12 @@
 ## Reproof | The collaborate writing app for creativity.
  - [https://www.reproof.app](https://www.reproof.app)
  - date published: 2023-10-25T11:48:57.280169+00:00
+ - user: None
+ - tags: []
+
+## Rive - Build interactive motion graphics that run anywhere
+ - [https://rive.app](https://rive.app)
+ - date published: 2024-03-19T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5984,18 +5996,6 @@
 ## None
  - [https://hirad.ca](https://hirad.ca)
  - date published: 2023-12-27T18:12:30.676212+00:00
- - user: None
- - tags: ['personal']
-
-## hypatia dot ca – Leigh Honeywell's Blog
- - [https://hypatia.ca](https://hypatia.ca)
- - date published: 2023-10-25T09:25:27.291271+00:00
- - user: None
- - tags: ['personal']
-
-## Ibraheem Ahmed
- - [https://ibraheem.ca](https://ibraheem.ca)
- - date published: 2023-10-25T08:42:56.661128+00:00
  - user: None
  - tags: ['personal']
 

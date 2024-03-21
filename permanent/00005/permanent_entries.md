@@ -1,3 +1,51 @@
+## COVID in Pixels
+ - [https://covid-in-pixels.eliothertenstein.com](https://covid-in-pixels.eliothertenstein.com)
+ - date published: 2023-10-25T14:05:25.704625+00:00
+ - user: None
+ - tags: []
+
+## Elisa Doucette
+ - [https://www.elisadoucette.com](https://www.elisadoucette.com)
+ - date published: 2023-12-20T00:58:34.049564+00:00
+ - user: None
+ - tags: ['personal']
+
+## Index
+ - [https://eliseshaffer.com](https://eliseshaffer.com)
+ - date published: 2023-12-18T22:13:17.426346+00:00
+ - user: None
+ - tags: []
+
+## Home · Elixir School
+ - [https://elixirschool.com](https://elixirschool.com)
+ - date published: 2023-12-11T12:32:14+00:00
+ - user: rumpel
+ - tags: ['tutorials', 'programming', 'courses']
+
+## Elizabeth B. Martin, Author/Illustrator
+ - [https://elizabethbmartin.com](https://elizabethbmartin.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Elizabeth Hummel
+ - [https://elizabethhummel.com](https://elizabethhummel.com)
+ - date published: 2024-01-11T17:10:19.476431+00:00
+ - user: None
+ - tags: []
+
+## Elizabeth Tai
+ - [https://elizabethtai.com](https://elizabethtai.com)
+ - date published: 2024-02-25T18:43:10.058322+00:00
+ - user: None
+ - tags: []
+
+## Elizabeth Tai
+ - [https://www.elizabethtai.com](https://www.elizabethtai.com)
+ - date published: 2024-01-15T08:35:15.539801+00:00
+ - user: None
+ - tags: []
+
 ## Home - Elk Mountain
  - [https://www.elkskier.com](https://www.elkskier.com)
  - date published: 2024-02-08T00:00:00+00:00
@@ -887,14 +935,14 @@
  - tags: []
 
 ## ESPN - Serving Sports Fans. Anytime. Anywhere.
- - [https://www.espn.com](https://www.espn.com)
- - date published: 2023-10-25T10:09:24.738987+00:00
+ - [http://www.espn.com](http://www.espn.com)
+ - date published: 2024-02-25T16:13:57.477675+00:00
  - user: None
  - tags: []
 
 ## ESPN - Serving Sports Fans. Anytime. Anywhere.
- - [http://www.espn.com](http://www.espn.com)
- - date published: 2024-02-25T16:13:57.477675+00:00
+ - [https://www.espn.com](https://www.espn.com)
+ - date published: 2023-10-25T10:09:24.738987+00:00
  - user: None
  - tags: []
 
@@ -939,6 +987,12 @@
  - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
+
+## Black Women’s Lifestyle Guide, Black Love & Beauty Trends | Essence
+ - [https://www.essence.com](https://www.essence.com)
+ - date published: 2024-03-20T15:47:58.081981+00:00
+ - user: None
+ - tags: ['racism', 'racist']
 
 ## Estes Rockets
  - [https://estesrockets.com](https://estesrockets.com)
@@ -1631,14 +1685,14 @@
  - tags: []
 
 ## ezyang’s blog
- - [https://blog.ezyang.com](https://blog.ezyang.com)
- - date published: 2024-01-09T01:37:06.985730+00:00
+ - [http://blog.ezyang.com](http://blog.ezyang.com)
+ - date published: 2024-02-26T14:52:50.963348+00:00
  - user: None
  - tags: []
 
 ## ezyang’s blog
- - [http://blog.ezyang.com](http://blog.ezyang.com)
- - date published: 2024-02-26T14:52:50.963348+00:00
+ - [https://blog.ezyang.com](https://blog.ezyang.com)
+ - date published: 2024-01-09T01:37:06.985730+00:00
  - user: None
  - tags: []
 
@@ -1685,14 +1739,14 @@
  - tags: []
 
 ## Log in or sign up to view
- - [https://facebook.com](https://facebook.com)
- - date published: 2023-12-11T16:53:43.180916+00:00
+ - [http://facebook.com](http://facebook.com)
+ - date published: 2024-02-24T09:56:45.941514+00:00
  - user: None
  - tags: []
 
 ## Log in or sign up to view
- - [http://facebook.com](http://facebook.com)
- - date published: 2024-02-24T09:56:45.941514+00:00
+ - [https://facebook.com](https://facebook.com)
+ - date published: 2023-12-11T16:53:43.180916+00:00
  - user: None
  - tags: []
 
@@ -1714,17 +1768,17 @@
  - user: rumpel
  - tags: ['facebook']
 
-## Facebook
- - [https://www.facebook.com](https://www.facebook.com)
- - date published: 2023-10-24T20:15:12+00:00
- - user: rumpel
- - tags: ['gatekeeper', 'social platform']
-
 ## Log in or sign up to view
  - [http://www.facebook.com](http://www.facebook.com)
  - date published: 2024-02-24T09:54:20.558477+00:00
  - user: None
  - tags: []
+
+## Facebook
+ - [https://www.facebook.com](https://www.facebook.com)
+ - date published: 2023-10-24T20:15:12+00:00
+ - user: rumpel
+ - tags: ['gatekeeper', 'social platform']
 
 ## In re: Facebook, Inc. Consumer Privacy User Profile Litigation
  - [https://www.facebookuserprivacysettlement.com](https://www.facebookuserprivacysettlement.com)
@@ -2813,16 +2867,16 @@
  - tags: []
 
 ## Nick Fitzgerald
- - [https://fitzgeraldnick.com](https://fitzgeraldnick.com)
- - date published: 2023-10-25T09:20:31.002593+00:00
- - user: None
- - tags: ['personal']
-
-## Nick Fitzgerald
  - [http://fitzgeraldnick.com](http://fitzgeraldnick.com)
  - date published: 2024-02-06T00:00:00+00:00
  - user: None
  - tags: []
+
+## Nick Fitzgerald
+ - [https://fitzgeraldnick.com](https://fitzgeraldnick.com)
+ - date published: 2023-10-25T09:20:31.002593+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Five Books - The Best Books Recommended by Experts
  - [https://fivebooks.com](https://fivebooks.com)
@@ -3353,14 +3407,14 @@
  - tags: []
 
 ## None
- - [https://forbiddenplanet.com](https://forbiddenplanet.com)
- - date published: 2024-02-25T20:19:58.237177+00:00
+ - [http://forbiddenplanet.com](http://forbiddenplanet.com)
+ - date published: 2024-02-25T20:20:06.293093+00:00
  - user: None
  - tags: []
 
 ## None
- - [http://forbiddenplanet.com](http://forbiddenplanet.com)
- - date published: 2024-02-25T20:20:06.293093+00:00
+ - [https://forbiddenplanet.com](https://forbiddenplanet.com)
+ - date published: 2024-02-25T20:19:58.237177+00:00
  - user: None
  - tags: []
 
@@ -3995,14 +4049,14 @@
  - tags: []
 
 ## FreeRDP
- - [http://www.freerdp.com](http://www.freerdp.com)
- - date published: 2024-02-25T20:21:51.447114+00:00
+ - [https://www.freerdp.com](https://www.freerdp.com)
+ - date published: 2023-10-25T14:37:51.172396+00:00
  - user: None
  - tags: []
 
 ## FreeRDP
- - [https://www.freerdp.com](https://www.freerdp.com)
- - date published: 2023-10-25T14:37:51.172396+00:00
+ - [http://www.freerdp.com](http://www.freerdp.com)
+ - date published: 2024-02-25T20:21:51.447114+00:00
  - user: None
  - tags: []
 
@@ -5604,6 +5658,12 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
+## BibBase giner, l
+ - [https://ginerlukas.com](https://ginerlukas.com)
+ - date published: 2024-03-20T06:32:50.207448+00:00
+ - user: None
+ - tags: []
+
 ## ⌘I  Get Info
  - [https://blog.gingerbeardman.com](https://blog.gingerbeardman.com)
  - date published: 2023-10-25T14:44:12.754868+00:00
@@ -5748,17 +5808,17 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: ['code sandbox']
 
-## Grimoire: Open-Source bookmark manager with extra features
- - [https://github.com/goniszewski/grimoire](https://github.com/goniszewski/grimoire)
- - date published: 2023-11-26T08:04:54+00:00
- - user: rumpel
- - tags: ['bookmark manager', 'open source']
-
 ## GitHub: Let’s build from here · GitHub
  - [https://github.com](https://github.com)
  - date published: 2023-10-25T14:42:43.938249+00:00
  - user: None
  - tags: ['gatekeeper', 'software platform']
+
+## Grimoire: Open-Source bookmark manager with extra features
+ - [https://github.com/goniszewski/grimoire](https://github.com/goniszewski/grimoire)
+ - date published: 2023-11-26T08:04:54+00:00
+ - user: rumpel
+ - tags: ['bookmark manager', 'open source']
 
 ## GitHub Pages
  - [https://pages.github.com](https://pages.github.com)
@@ -5850,17 +5910,17 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - user: None
  - tags: []
 
-## The DevSecOps Platform | GitLab
- - [https://gitlab.com](https://gitlab.com)
- - date published: 2023-10-25T14:45:19.469977+00:00
- - user: None
- - tags: ['code repository']
-
 ## The DevSecOps Platform
  - [http://gitlab.com](http://gitlab.com)
  - date published: 2024-02-26T15:11:59.290515+00:00
  - user: None
  - tags: []
+
+## The DevSecOps Platform | GitLab
+ - [https://gitlab.com](https://gitlab.com)
+ - date published: 2023-10-25T14:45:19.469977+00:00
+ - user: None
+ - tags: ['code repository']
 
 ## GitLab System Status
  - [https://status.gitlab.com](https://status.gitlab.com)
@@ -5939,64 +5999,4 @@ Compilers, IDE tools, Debuggers - Green Hills Software
  - date published: 2023-11-01T18:27:48.715499+00:00
  - user: None
  - tags: ['polymer clay', 'sculpting']
-
-## Security | Glassdoor
- - [https://www.glassdoor.com](https://www.glassdoor.com)
- - date published: 2024-03-14T17:44:11+00:00
- - user: rumpel
- - tags: ['social platform', 'job platform', 'work platform']
-
-## Gliglish · Your AI Language Teacher | Practice speaking & listening
- - [https://gliglish.com](https://gliglish.com)
- - date published: 2023-10-25T14:45:28.936207+00:00
- - user: None
- - tags: []
-
-## 404: Not Found
- - [https://pastes.glitchwrks.com](https://pastes.glitchwrks.com)
- - date published: 2024-01-09T02:37:34.189755+00:00
- - user: None
- - tags: []
-
-## Home - Global Construction Review
- - [https://www.globalconstructionreview.com](https://www.globalconstructionreview.com)
- - date published: 2024-02-24T10:09:18.292494+00:00
- - user: None
- - tags: []
-
-## Global Fleet - The Executive Network
- - [https://www.globalfleet.com](https://www.globalfleet.com)
- - date published: 2023-10-25T14:45:33.013417+00:00
- - user: None
- - tags: []
-
-## Global Ground Support - An AirT Company
- - [https://globalgroundsupport.com](https://globalgroundsupport.com)
- - date published: 2023-10-25T14:45:38.412506+00:00
- - user: None
- - tags: []
-
-## Global Mapper Forum
- - [https://www.globalmapperforum.com](https://www.globalmapperforum.com)
- - date published: 2024-02-08T00:00:00+00:00
- - user: None
- - tags: []
-
-## Global Nerdy
- - [https://www.globalnerdy.com](https://www.globalnerdy.com)
- - date published: 2024-02-23T00:00:00+00:00
- - user: None
- - tags: []
-
-## Global Player | Radio, Podcasts, Playlists and Videos
- - [https://www.globalplayer.com](https://www.globalplayer.com)
- - date published: 2023-11-13T09:32:46.982591+00:00
- - user: None
- - tags: ['radio', 'podcasts']
-
-## Home | Global Policy Journal
- - [https://www.globalpolicyjournal.com](https://www.globalpolicyjournal.com)
- - date published: 2023-10-25T14:45:49.399382+00:00
- - user: None
- - tags: []
 

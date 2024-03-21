@@ -1,3 +1,27 @@
+## alexstonethinkingstrings.com
+ - [https://www.alexstonethinkingstrings.com](https://www.alexstonethinkingstrings.com)
+ - date published: 2024-02-25T03:40:28.185186+00:00
+ - user: None
+ - tags: ['personal']
+
+## Alex Strick van Linschoten
+ - [https://www.alexstrick.com](https://www.alexstrick.com)
+ - date published: 2023-12-21T18:50:00.122995+00:00
+ - user: None
+ - tags: ['personal']
+
+## Alex Vermeer — Life-Hacking. Climbing. Striving for awesome. Coffee.
+ - [https://alexvermeer.com](https://alexvermeer.com)
+ - date published: 2023-10-25T12:38:14.741434+00:00
+ - user: None
+ - tags: []
+
+## About - Alfred Megally
+ - [https://alfredmegally.com](https://alfredmegally.com)
+ - date published: 2024-01-09T08:53:49.175773+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Home - Algemeiner.com
  - [https://www.algemeiner.com](https://www.algemeiner.com)
  - date published: 2023-11-02T18:22:20.943073+00:00
@@ -689,14 +713,14 @@
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
- - date published: 2024-01-09T02:29:24.245847+00:00
+ - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
+ - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
- - date published: 2018-01-01T00:00:00+00:00
+ - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
+ - date published: 2024-01-09T02:29:24.245847+00:00
  - user: None
  - tags: []
 
@@ -755,16 +779,16 @@
  - tags: ['amiga']
 
 ## The biggest repository for remixes of old Amiga tracks from games and demos.
- - [http://www.amigaremix.com](http://www.amigaremix.com)
- - date published: 2024-02-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## The biggest repository for remixes of old Amiga tracks from games and demos.
  - [https://www.amigaremix.com](https://www.amigaremix.com)
  - date published: 2024-02-13T00:00:00+00:00
  - user: None
  - tags: ['keygen', 'demoscene', 'amiga', 'chiptune']
+
+## The biggest repository for remixes of old Amiga tracks from games and demos.
+ - [http://www.amigaremix.com](http://www.amigaremix.com)
+ - date published: 2024-02-13T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## A Mighty Girl: Home | A Mighty Girl
  - [https://www.amightygirl.com](https://www.amightygirl.com)
@@ -1985,14 +2009,14 @@
  - tags: []
 
 ## * arachnoid.com
- - [http://arachnoid.com](http://arachnoid.com)
- - date published: 2006-10-19T00:00:00+00:00
+ - [https://arachnoid.com](https://arachnoid.com)
+ - date published: 2023-10-25T12:43:42.377144+00:00
  - user: None
  - tags: []
 
 ## * arachnoid.com
- - [https://arachnoid.com](https://arachnoid.com)
- - date published: 2023-10-25T12:43:42.377144+00:00
+ - [http://arachnoid.com](http://arachnoid.com)
+ - date published: 2006-10-19T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -4894,6 +4918,12 @@
  - user: None
  - tags: []
 
+## Big News Network.com - Breaking News Around the World, Latest News
+ - [https://www.bignewsnetwork.com](https://www.bignewsnetwork.com)
+ - date published: 2024-03-20T00:42:49.435248+00:00
+ - user: None
+ - tags: []
+
 ## https://www.bigscreenvr.com
  - [https://www.bigscreenvr.com](https://www.bigscreenvr.com)
  - date published: 2023-12-19T22:02:45+00:00
@@ -4973,14 +5003,14 @@
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [https://billingsgazette.com](https://billingsgazette.com)
- - date published: 2023-12-17T18:30:53.119094+00:00
+ - [http://billingsgazette.com](http://billingsgazette.com)
+ - date published: 2024-01-29T00:00:00+00:00
  - user: None
  - tags: []
 
 ## billingsgazette.com | Read Billings, MT and Montana breaking news. Get latest news, events and information on Montana sports, weather, entertainment and lifestyles.
- - [http://billingsgazette.com](http://billingsgazette.com)
- - date published: 2024-01-29T00:00:00+00:00
+ - [https://billingsgazette.com](https://billingsgazette.com)
+ - date published: 2023-12-17T18:30:53.119094+00:00
  - user: None
  - tags: []
 
@@ -5967,34 +5997,4 @@
  - date published: 2023-10-25T09:08:04.589544+00:00
  - user: None
  - tags: ['personal']
-
-## Cypher Phunk
- - [https://cypherphunk.blogspot.com](https://cypherphunk.blogspot.com)
- - date published: 2023-10-25T09:08:06.752061+00:00
- - user: None
- - tags: ['personal']
-
-## Database Architects
- - [http://databasearchitects.blogspot.com](http://databasearchitects.blogspot.com)
- - date published: 2024-02-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Database Architects
- - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
- - date published: 2023-10-25T09:08:09.774302+00:00
- - user: None
- - tags: ['personal']
-
-## Data Finnovation
- - [https://datafinnovation.blogspot.com](https://datafinnovation.blogspot.com)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## DCblog
- - [https://david-crystal.blogspot.com](https://david-crystal.blogspot.com)
- - date published: 2004-02-26T00:00:00+00:00
- - user: None
- - tags: []
 
