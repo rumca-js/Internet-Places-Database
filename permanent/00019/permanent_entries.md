@@ -1,3 +1,219 @@
+## Passkeys.io - The passkey demo and info page by Hanko.io
+ - [https://www.passkeys.io](https://www.passkeys.io)
+ - date published: 2023-10-25T20:03:21.667138+00:00
+ - user: None
+ - tags: []
+
+## pboyd.io
+ - [https://pboyd.io](https://pboyd.io)
+ - date published: 2023-10-25T20:03:22.972100+00:00
+ - user: None
+ - tags: []
+
+## 403 Forbidden
+ - [https://ss.pcj.io](https://ss.pcj.io)
+ - date published: 2023-12-09T22:43:54.273209+00:00
+ - user: None
+ - tags: []
+
+## PeerDB Blog
+ - [https://blog.peerdb.io](https://blog.peerdb.io)
+ - date published: 2023-11-06T20:41:48.742787+00:00
+ - user: None
+ - tags: []
+
+## People Who Code
+ - [https://www.peoplewhocode.io](https://www.peoplewhocode.io)
+ - date published: 2023-11-04T00:46:38.201829+00:00
+ - user: None
+ - tags: []
+
+## Perception Point: Advanced Threat Protection
+ - [https://perception-point.io](https://perception-point.io)
+ - date published: 2024-03-19T06:45:58+00:00
+ - user: rumpel
+ - tags: ['cybersecurity']
+
+## Never Build Permissions Again | Permit.io
+ - [https://www.permit.io](https://www.permit.io)
+ - date published: 2023-10-25T20:03:24.839582+00:00
+ - user: None
+ - tags: []
+
+## Pete Codes - founder, developer and Twitter ghost writer
+ - [https://www.petecodes.io](https://www.petecodes.io)
+ - date published: 2023-10-25T20:03:25.835529+00:00
+ - user: None
+ - tags: []
+
+## Formation °
+ - [https://formation.phobon.io](https://formation.phobon.io)
+ - date published: 2023-11-26T11:07:00+00:00
+ - user: None
+ - tags: []
+
+## Phylum | Research Blog
+ - [https://blog.phylum.io](https://blog.phylum.io)
+ - date published: 2023-10-25T20:03:31.720870+00:00
+ - user: None
+ - tags: []
+
+## Loading...
+ - [https://app.pickcode.io](https://app.pickcode.io)
+ - date published: 2023-10-25T20:03:32.494754+00:00
+ - user: None
+ - tags: []
+
+## Show HN: New visual language for teaching kids to code
+ - [https://pickcode.io](https://pickcode.io)
+ - date published: 2023-11-21T16:16:38+00:00
+ - user: None
+ - tags: []
+
+## Pigsty
+ - [https://pigsty.io](https://pigsty.io)
+ - date published: 2024-03-19T20:29:08.482033+00:00
+ - user: None
+ - tags: []
+
+## Vector Database for Vector Search | Pinecone
+ - [https://www.pinecone.io](https://www.pinecone.io)
+ - date published: 2023-10-25T20:03:33.943883+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://androidblog.a.pinggy.io](https://androidblog.a.pinggy.io)
+ - date published: 2024-01-09T03:33:22.344023+00:00
+ - user: None
+ - tags: []
+
+## Pinggy - Simple Localhost Tunnels
+ - [https://pinggy.io](https://pinggy.io)
+ - date published: 2023-10-25T20:03:35.145373+00:00
+ - user: None
+ - tags: []
+
+## Next-gen banking and cards technology | Pismo
+ - [https://www.pismo.io](https://www.pismo.io)
+ - date published: 2023-10-25T20:03:39.023569+00:00
+ - user: None
+ - tags: []
+
+## SOD - An Embedded, Modern Computer Vision and Machine Learning Library
+ - [https://sod.pixlab.io](https://sod.pixlab.io)
+ - date published: 2023-10-25T20:03:41.510835+00:00
+ - user: None
+ - tags: []
+
+## Plato — Build flexible internal tools
+ - [https://www.plato.io](https://www.plato.io)
+ - date published: 2023-10-25T20:03:42.780392+00:00
+ - user: None
+ - tags: []
+
+## Plausible Analytics | Simple, privacy-friendly Google Analytics alternative
+ - [https://plausible.io](https://plausible.io)
+ - date published: 2023-10-25T20:03:43.751068+00:00
+ - user: None
+ - tags: []
+
+## Ploomber
+ - [https://ploomber.io](https://ploomber.io)
+ - date published: 2023-10-25T20:03:45.681664+00:00
+ - user: None
+ - tags: []
+
+## Fast, disk space efficient package manager | pnpm
+ - [https://pnpm.io](https://pnpm.io)
+ - date published: 2023-10-25T20:03:46.671519+00:00
+ - user: None
+ - tags: []
+
+## Pocketbase: Open-source back end in one file
+ - [https://pocketbase.io](https://pocketbase.io)
+ - date published: 2024-01-07T06:08:56+00:00
+ - user: None
+ - tags: []
+
+## Der INNOQ Podcast
+ - [https://innoq.podigee.io](https://innoq.podigee.io)
+ - date published: 2024-02-25T20:49:08.634490+00:00
+ - user: None
+ - tags: []
+
+## This is Artificial Intelligence by Thales
+ - [https://thalesgroup.podigee.io](https://thalesgroup.podigee.io)
+ - date published: 2024-02-26T14:07:32.925507+00:00
+ - user: None
+ - tags: []
+
+## https://blog.podman.io
+ - [https://blog.podman.io](https://blog.podman.io)
+ - date published: 2023-10-25T20:03:48.916968+00:00
+ - user: None
+ - tags: []
+
+## Podman Desktop - Containers and Kubernetes | Podman Desktop
+ - [https://podman-desktop.io](https://podman-desktop.io)
+ - date published: 2023-10-25T20:03:50.143321+00:00
+ - user: None
+ - tags: []
+
+## Polyfill.io
+ - [https://polyfill.io](https://polyfill.io)
+ - date published: 2023-12-11T17:24:55.365553+00:00
+ - user: None
+ - tags: []
+
+## Polygon.io - Stock Market API
+ - [https://polygon.io](https://polygon.io)
+ - date published: 2023-10-25T20:03:56.042539+00:00
+ - user: None
+ - tags: []
+
+## Pomodoro Timer Online - Pomofocus
+ - [https://pomofocus.io](https://pomofocus.io)
+ - date published: 2023-10-25T20:04:01.694532+00:00
+ - user: None
+ - tags: []
+
+## Population.io
+ - [https://mobile.population.io](https://mobile.population.io)
+ - date published: 2023-10-25T20:04:02.367298+00:00
+ - user: None
+ - tags: []
+
+## Portainer: Container Management Software for Kubernetes and Docker
+ - [https://www.portainer.io](https://www.portainer.io)
+ - date published: 2023-10-25T20:04:06.866855+00:00
+ - user: None
+ - tags: []
+
+## Poste.io ~ complete mail server
+ - [https://poste.io](https://poste.io)
+ - date published: 2023-10-25T20:04:07.655712+00:00
+ - user: None
+ - tags: []
+
+## Prettier · Opinionated Code Formatter
+ - [https://prettier.io](https://prettier.io)
+ - date published: 2023-11-27T17:10:32.200743+00:00
+ - user: None
+ - tags: []
+
+## Prisma | Next-generation ORM for Node.js & TypeScript
+ - [https://www.prisma.io](https://www.prisma.io)
+ - date published: 2023-10-25T20:04:09.781971+00:00
+ - user: None
+ - tags: []
+
+## Prodvana
+ - [https://www.prodvana.io](https://www.prodvana.io)
+ - date published: 2023-10-25T20:04:13.832046+00:00
+ - user: None
+ - tags: []
+
 ## Bluefin
  - [https://projectbluefin.io](https://projectbluefin.io)
  - date published: 2024-01-09T03:33:22.907630+00:00
@@ -44,7 +260,7 @@
  - [https://www.qt.io](https://www.qt.io)
  - date published: 2023-10-25T20:04:38.723901+00:00
  - user: None
- - tags: ['qt', 'programming framework']
+ - tags: ['programming framework', 'graphic framework', 'qt']
 
 ## play
  - [https://play.questdb.io](https://play.questdb.io)
@@ -61,6 +277,12 @@
 ## Search more with less | Quickwit
  - [https://quickwit.io](https://quickwit.io)
  - date published: 2023-10-25T20:04:43.380239+00:00
+ - user: None
+ - tags: []
+
+## Introduction | Ragas
+ - [https://docs.ragas.io](https://docs.ragas.io)
+ - date published: 2000-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -100,7 +322,7 @@
  - user: None
  - tags: []
 
-## Django documentation — Django 4.2.7 documentation
+## Django documentation — Django 5.0.3 documentation
  - [https://django.readthedocs.io](https://django.readthedocs.io)
  - date published: 2023-11-01T08:43:47.341783+00:00
  - user: None
@@ -231,6 +453,12 @@
  - date published: 2023-10-25T20:05:22.071448+00:00
  - user: None
  - tags: []
+
+## Redis
+ - [https://redis.io](https://redis.io)
+ - date published: 2024-03-21T08:56:20+00:00
+ - user: rumpel
+ - tags: ['programming']
 
 ## Show HN: Refractify – Optical software against myopia
  - [https://refractify.io](https://refractify.io)
@@ -2097,6 +2325,12 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: rumpel
  - tags: []
 
+## RaiPlay, Molto più di quanto immagini
+ - [https://www.raiplay.it](https://www.raiplay.it)
+ - date published: 2024-03-21T02:07:55.436329+00:00
+ - user: None
+ - tags: []
+
 ## Home | RCS
  - [https://rcslab.it](https://rcslab.it)
  - date published: 2000-01-01T00:00:00+00:00
@@ -2346,6 +2580,12 @@ End-to-end typesafe APIs made easy. | tRPC
 ## 廃プラスチック・油化装置の企画・開発・販売｜マイクロエンジニア株式会社
  - [https://blest.co.jp](https://blest.co.jp)
  - date published: 2023-10-25T20:16:22.294092+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://fod.fujitv.co.jp](https://fod.fujitv.co.jp)
+ - date published: 2024-03-21T02:07:47.514997+00:00
  - user: None
  - tags: []
 
@@ -2610,6 +2850,12 @@ End-to-end typesafe APIs made easy. | tRPC
 ## https://www.koreatimes.co.kr
  - [https://www.koreatimes.co.kr](https://www.koreatimes.co.kr)
  - date published: 2023-12-16T11:18:52.429235+00:00
+ - user: None
+ - tags: []
+
+## SBS
+ - [https://www.sbs.co.kr](https://www.sbs.co.kr)
+ - date published: 2024-03-21T02:07:45.468625+00:00
  - user: None
  - tags: []
 
@@ -3931,7 +4177,7 @@ End-to-end typesafe APIs made easy. | tRPC
  - [https://datapythonista.me](https://datapythonista.me)
  - date published: 2023-10-25T20:19:53.271359+00:00
  - user: None
- - tags: []
+ - tags: ['personal']
 
 ## David Chang
  - [https://www.davidchang.me](https://www.davidchang.me)
@@ -3976,16 +4222,16 @@ End-to-end typesafe APIs made easy. | tRPC
  - tags: ['search engine']
 
 ## dlaa.me - David Anson
- - [http://dlaa.me](http://dlaa.me)
- - date published: 2024-02-26T14:05:55.252261+00:00
- - user: None
- - tags: []
-
-## dlaa.me - David Anson
  - [https://dlaa.me](https://dlaa.me)
  - date published: 2023-10-25T09:22:08.811953+00:00
  - user: None
  - tags: ['personal']
+
+## dlaa.me - David Anson
+ - [http://dlaa.me](http://dlaa.me)
+ - date published: 2024-02-26T14:05:55.252261+00:00
+ - user: None
+ - tags: []
 
 ## Doumer's Blog
  - [https://doumer.me](https://doumer.me)
@@ -4078,14 +4324,14 @@ End-to-end typesafe APIs made easy. | tRPC
  - tags: []
 
 ## FeedPress
- - [https://feedpress.me](https://feedpress.me)
- - date published: 2024-02-25T20:19:45.730277+00:00
+ - [http://feedpress.me](http://feedpress.me)
+ - date published: 2024-02-26T13:00:22.007137+00:00
  - user: None
  - tags: []
 
 ## FeedPress
- - [http://feedpress.me](http://feedpress.me)
- - date published: 2024-02-26T13:00:22.007137+00:00
+ - [https://feedpress.me](https://feedpress.me)
+ - date published: 2024-02-25T20:19:45.730277+00:00
  - user: None
  - tags: []
 
@@ -4469,16 +4715,16 @@ End-to-end typesafe APIs made easy. | tRPC
  - tags: ['personal']
 
 ## Mes productions de podcast et participations - maune.me
- - [https://www.maune.me](https://www.maune.me)
- - date published: 2024-01-15T00:00:00+00:00
- - user: None
- - tags: []
-
-## Mes productions de podcast et participations - maune.me
  - [http://www.maune.me](http://www.maune.me)
  - date published: 2023-12-22T22:30:51.890778+00:00
  - user: None
  - tags: ['personal']
+
+## Mes productions de podcast et participations - maune.me
+ - [https://www.maune.me](https://www.maune.me)
+ - date published: 2024-01-15T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Max Greenwald
  - [https://maxgreenwald.me](https://maxgreenwald.me)
@@ -4810,17 +5056,17 @@ End-to-end typesafe APIs made easy. | tRPC
  - user: None
  - tags: ['personal']
 
-## Proton — Privacy by default
- - [https://proton.me](https://proton.me)
- - date published: 2023-10-25T08:25:39.070341+00:00
- - user: None
- - tags: ['email server', 'vpn', 'privacy']
-
 ## Proton: Privacy by default
  - [http://proton.me](http://proton.me)
  - date published: 2024-02-26T13:55:55.575306+00:00
  - user: None
  - tags: []
+
+## Proton — Privacy by default
+ - [https://proton.me](https://proton.me)
+ - date published: 2023-10-25T08:25:39.070341+00:00
+ - user: None
+ - tags: ['email server', 'vpn', 'privacy']
 
 ## Rauno Freiberg
  - [https://rauno.me](https://rauno.me)
@@ -5755,252 +6001,6 @@ End-to-end typesafe APIs made easy. | tRPC
 ## David Anguita. Independent software consultant. Freelancer. Ruby, Rails, Elixir, JavaScript.
  - [https://davidanguita.name](https://davidanguita.name)
  - date published: 2024-01-11T20:49:00.100772+00:00
- - user: None
- - tags: []
-
-## David Walsh Blog
- - [https://davidwalsh.name](https://davidwalsh.name)
- - date published: 2024-02-06T00:00:00+00:00
- - user: None
- - tags: ['blog', 'personal']
-
-## Neil Fraser
- - [https://neil.fraser.name](https://neil.fraser.name)
- - date published: 2023-10-25T08:51:49.598464+00:00
- - user: None
- - tags: ['personal']
-
-## Nathan Ho
- - [https://nathan.ho.name](https://nathan.ho.name)
- - date published: 2023-12-20T22:45:42.744081+00:00
- - user: None
- - tags: []
-
-## Nathan Ho
- - [http://nathan.ho.name](http://nathan.ho.name)
- - date published: 2024-02-26T09:21:39.752260+00:00
- - user: None
- - tags: []
-
-## Joey Hess
- - [https://joeyh.name](https://joeyh.name)
- - date published: 2023-10-25T20:23:09.769836+00:00
- - user: None
- - tags: []
-
-## Victor Kropp
- - [https://victor.kropp.name](https://victor.kropp.name)
- - date published: 2024-01-13T18:25:27.123934+00:00
- - user: None
- - tags: []
-
-## http://lucacardelli.name
- - [http://lucacardelli.name](http://lucacardelli.name)
- - date published: 2023-10-25T20:23:13.013388+00:00
- - user: None
- - tags: []
-
-## mapname - Name Your Way
- - [https://map.name](https://map.name)
- - date published: 2024-01-09T03:34:34.207438+00:00
- - user: None
- - tags: []
-
-## Matthew Miner's Website
- - [https://matthewminer.name](https://matthewminer.name)
- - date published: 2023-10-25T20:23:19.356965+00:00
- - user: None
- - tags: []
-
-## Mackenzie Morgan
- - [https://mackenzie.morgan.name](https://mackenzie.morgan.name)
- - date published: 2023-11-29T17:07:05.410622+00:00
- - user: None
- - tags: ['personal']
-
-## Paul Mucur
- - [https://mudge.name](https://mudge.name)
- - date published: 2023-11-20T00:00:00+00:00
- - user: None
- - tags: []
-
-## Nick Morris
- - [https://nickmorris.name](https://nickmorris.name)
- - date published: 2024-02-02T14:27:11.007543+00:00
- - user: None
- - tags: []
-
-## Geek Blight - Home
- - [https://rg3.name](https://rg3.name)
- - date published: 2023-10-25T20:23:20.284813+00:00
- - user: None
- - tags: []
-
-## Steno & PL
- - [https://blog.waleedkhan.name](https://blog.waleedkhan.name)
- - date published: 2023-10-25T20:23:22.026256+00:00
- - user: None
- - tags: []
-
-## Will Thompson
- - [https://willthompson.name](https://willthompson.name)
- - date published: 2023-10-25T08:51:51.530724+00:00
- - user: None
- - tags: ['personal']
-
-## Voiture neuve Citroën - Citroën Nouvelle Calédonie
- - [https://www.citroen.nc](https://www.citroen.nc)
- - date published: 2023-12-11T15:50:14.378552+00:00
- - user: None
- - tags: []
-
-## Get priority access
- - [https://hu.ma.ne](https://hu.ma.ne)
- - date published: 2023-10-25T20:23:28.686863+00:00
- - user: None
- - tags: []
-
-## Home |  Frank DENIS random thoughts.
- - [https://00f.net](https://00f.net)
- - date published: 2023-12-11T18:19:27.201497+00:00
- - user: None
- - tags: []
-
-## http://0pointer.net/
- - [https://0pointer.net](https://0pointer.net)
- - date published: 2023-10-25T20:23:29.773158+00:00
- - user: None
- - tags: []
-
-## Filip Borkiewicz
- - [https://0x46.net](https://0x46.net)
- - date published: 2023-10-25T09:00:07.431158+00:00
- - user: None
- - tags: ['personal']
-
-## 10xJobs.net, High paying tech jobs
- - [https://10xjobs.net](https://10xjobs.net)
- - date published: 2023-10-25T20:23:31.562851+00:00
- - user: None
- - tags: []
-
-## The Twelve-Factor App
- - [https://12factor.net](https://12factor.net)
- - date published: 2023-10-25T20:23:33.057071+00:00
- - user: None
- - tags: []
-
-## Amigan Software: Site Map
- - [https://amigan.1emu.net](https://amigan.1emu.net)
- - date published: 2024-01-09T03:34:35.504778+00:00
- - user: None
- - tags: []
-
-## 1NT3R.NET
- - [https://1nt3r.net](https://1nt3r.net)
- - date published: 2023-10-25T20:23:34.374364+00:00
- - user: None
- - tags: []
-
-## Computer Graphics & Programming with Pekka Väänänen - 30fps.net
- - [https://30fps.net](https://30fps.net)
- - date published: 2023-10-25T20:23:35.503700+00:00
- - user: None
- - tags: []
-
-## Stock 360° Panoramic Images and Videos for VR and More | 360Cities
- - [https://www.360cities.net](https://www.360cities.net)
- - date published: 2024-01-23T19:06:18.316203+00:00
- - user: None
- - tags: ['virtual reality']
-
-## Online 3D Viewer
- - [https://3dviewer.net](https://3dviewer.net)
- - date published: 2023-10-25T20:23:36.608327+00:00
- - user: None
- - tags: []
-
-## Domain Seized
- - [https://3lib.net](https://3lib.net)
- - date published: 2024-01-09T03:34:36.962873+00:00
- - user: None
- - tags: []
-
-## Programowanie: serwis dla programistów
- - [https://4programmers.net](https://4programmers.net)
- - date published: 2023-11-01T08:43:51.447999+00:00
- - user: None
- - tags: ['cpp', 'programming', 'c#', 'java', 'c++']
-
-## 512 Pixels
- - [https://512pixels.net](https://512pixels.net)
- - date published: 2023-10-25T20:23:40.952223+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.69find.net](https://www.69find.net)
- - date published: 2024-02-08T16:45:07.077935+00:00
- - user: None
- - tags: []
-
-## renegat0x0 site
- - [https://bestbuy.7tiv.net](https://bestbuy.7tiv.net)
- - date published: 2024-02-23T22:51:24.092595+00:00
- - user: None
- - tags: []
-
-## 80/20 Aluminum T-slot Building Systems | 80/20 Aluminum Extrusions
- - [https://8020.net](https://8020.net)
- - date published: 2023-10-25T20:23:45.365100+00:00
- - user: None
- - tags: []
-
-## Emulator of retro x86-based machines
- - [https://86box.net](https://86box.net)
- - date published: 2023-10-25T08:36:11.618732+00:00
- - user: None
- - tags: []
-
-## Andy Sloane's site
- - [https://www.a1k0n.net](https://www.a1k0n.net)
- - date published: 2023-10-25T09:00:08.655486+00:00
- - user: None
- - tags: ['personal']
-
-## AAPLinvestors
- - [https://aaplinvestors.net](https://aaplinvestors.net)
- - date published: 2023-10-25T20:23:48.550785+00:00
- - user: None
- - tags: []
-
-## Abandonware Games - Download old video games
- - [https://abandonwaregames.net](https://abandonwaregames.net)
- - date published: 2023-10-25T16:36:32.440847+00:00
- - user: None
- - tags: []
-
-## Befriend Your Body Guide
- - [https://www.abbyhouston.net](https://www.abbyhouston.net)
- - date published: 2023-11-29T13:53:57.050891+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://abhinavsarkar.net](https://abhinavsarkar.net)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Hall Of Light - The database of Amiga games
- - [https://abime.net](https://abime.net)
- - date published: 2023-11-02T09:50:39.300225+00:00
- - user: None
- - tags: []
-
-## Amiga Game Factory - new games for your amiga
- - [https://agf.abime.net](https://agf.abime.net)
- - date published: 2024-01-09T03:34:37.819322+00:00
  - user: None
  - tags: []
 

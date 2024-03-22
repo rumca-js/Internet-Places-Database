@@ -1,3 +1,153 @@
+## https://www.windmill.dev
+ - [https://www.windmill.dev](https://www.windmill.dev)
+ - date published: 2024-01-09T02:57:38.660705+00:00
+ - user: None
+ - tags: []
+
+## A corner of the internet for people who love building digital products.
+ - [https://www.wking.dev](https://www.wking.dev)
+ - date published: 2023-11-06T19:19:56.497567+00:00
+ - user: None
+ - tags: []
+
+## https://readable_techcrunch.mvlab.workers.dev
+ - [https://readable_techcrunch.mvlab.workers.dev](https://readable_techcrunch.mvlab.workers.dev)
+ - date published: 2024-01-09T02:57:39.772632+00:00
+ - user: None
+ - tags: []
+
+## Thoughts for CTOs, Tech Leads and Software Architects
+ - [https://www.workingsoftware.dev](https://www.workingsoftware.dev)
+ - date published: 2023-10-25T18:44:29.024808+00:00
+ - user: None
+ - tags: []
+
+## WSCP's blog
+ - [https://wscp.dev](https://wscp.dev)
+ - date published: 2024-01-09T01:38:06.059471+00:00
+ - user: None
+ - tags: []
+
+## dotMorten | .NET Ramblings, XAML hacking and some GIS endeavors
+ - [https://xaml.dev](https://xaml.dev)
+ - date published: 2023-10-25T08:59:01.383042+00:00
+ - user: None
+ - tags: ['personal']
+
+## XINF
+ - [https://xinf.dev](https://xinf.dev)
+ - date published: 2023-10-25T18:44:30.785844+00:00
+ - user: None
+ - tags: []
+
+## xy2
+ - [https://xy2.dev](https://xy2.dev)
+ - date published: 2023-10-25T18:44:33.489903+00:00
+ - user: None
+ - tags: []
+
+## Yaky's
+ - [https://yaky.dev](https://yaky.dev)
+ - date published: 2024-01-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://yobulk.dev](https://yobulk.dev)
+ - date published: 2024-01-09T02:57:40.846844+00:00
+ - user: None
+ - tags: []
+
+## You don't need a modal window
+ - [https://youdontneedamodalwindow.dev](https://youdontneedamodalwindow.dev)
+ - date published: 2023-10-25T18:44:35.045129+00:00
+ - user: None
+ - tags: []
+
+## yuanchuan
+ - [https://yuanchuan.dev](https://yuanchuan.dev)
+ - date published: 2023-10-25T18:44:37.242773+00:00
+ - user: None
+ - tags: []
+
+## zackoverflow
+ - [https://zackoverflow.dev](https://zackoverflow.dev)
+ - date published: 2023-10-25T18:44:39.698343+00:00
+ - user: None
+ - tags: []
+
+## Welcome
+ - [https://www.zarl.dev](https://www.zarl.dev)
+ - date published: 2024-03-01T19:15:36.177869+00:00
+ - user: None
+ - tags: ['personal']
+
+## Zed - Code at the speed of thought
+ - [https://zed.dev](https://zed.dev)
+ - date published: 2023-10-25T18:44:46.883335+00:00
+ - user: None
+ - tags: []
+
+## Zellij
+ - [https://zellij.dev](https://zellij.dev)
+ - date published: 2023-10-25T18:44:48.356849+00:00
+ - user: None
+ - tags: []
+
+## Zoo: Home
+ - [https://zoo.dev](https://zoo.dev)
+ - date published: 2023-12-20T23:10:16.596825+00:00
+ - user: None
+ - tags: []
+
+## AI, automation and integrations as easy as pressing a button. | Connex Digital
+ - [https://connex.digital](https://connex.digital)
+ - date published: 2024-02-25T19:23:33.401138+00:00
+ - user: None
+ - tags: []
+
+## julian.digital
+ - [https://julian.digital](https://julian.digital)
+ - date published: 2023-10-25T18:44:50.401929+00:00
+ - user: None
+ - tags: []
+
+## RDTR01
+ - [https://rdtr01.xl.digital](https://rdtr01.xl.digital)
+ - date published: 2023-10-25T18:44:52.509130+00:00
+ - user: None
+ - tags: []
+
+## ooh.directory: a place to find good blogs that interest you
+ - [https://ooh.directory](https://ooh.directory)
+ - date published: 2023-10-25T18:44:56.352626+00:00
+ - user: None
+ - tags: ['blogs', 'personal', 'personal sites source']
+
+## Passkeys.directory
+ - [https://passkeys.directory](https://passkeys.directory)
+ - date published: 2024-01-29T22:50:04.643974+00:00
+ - user: None
+ - tags: []
+
+## The Productivity Blog
+ - [https://blog.productivity.directory](https://blog.productivity.directory)
+ - date published: 2024-03-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Arnon Shimoni
+ - [https://arnon.dk](https://arnon.dk)
+ - date published: 2024-02-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Consent-O-Matic
+ - [https://consentomatic.au.dk](https://consentomatic.au.dk)
+ - date published: 2023-10-25T18:44:57.884515+00:00
+ - user: None
+ - tags: []
+
 ## Health
  - [https://health.au.dk](https://health.au.dk)
  - date published: 2023-12-31T13:28:23.869975+00:00
@@ -996,6 +1146,12 @@
 ## Home | Department of Computer Science
  - [https://www.cs.cornell.edu](https://www.cs.cornell.edu)
  - date published: 2023-10-25T18:50:50.915149+00:00
+ - user: None
+ - tags: []
+
+## Alumni and Friends
+ - [https://alumni.creighton.edu](https://alumni.creighton.edu)
+ - date published: 2024-03-21T13:48:27.589991+00:00
  - user: None
  - tags: []
 
@@ -2187,6 +2343,12 @@
 ## Sites at Penn State | Create websites easily with WordPress
  - [https://sites.psu.edu](https://sites.psu.edu)
  - date published: 2023-10-25T18:57:08.218702+00:00
+ - user: None
+ - tags: []
+
+## Penn State College of Earth and Mineral Sciences
+ - [https://www.ems.psu.edu](https://www.ems.psu.edu)
+ - date published: 2024-03-21T17:17:43.722779+00:00
  - user: None
  - tags: []
 
@@ -4227,22 +4389,28 @@
  - tags: []
 
 ## Linktree: Link everything you are
- - [http://linktr.ee](http://linktr.ee)
- - date published: 2024-02-29T14:58:08.693207+00:00
- - user: None
- - tags: []
-
-## Linktree: Link everything you are
  - [https://linktr.ee](https://linktr.ee)
  - date published: 2023-10-31T16:18:01.056130+00:00
  - user: None
  - tags: ['social media reference', 'link service']
+
+## Linktree: Link everything you are
+ - [http://linktr.ee](http://linktr.ee)
+ - date published: 2024-02-29T14:58:08.693207+00:00
+ - user: None
+ - tags: []
 
 ## Mairedesign masinkudumise koolitus
  - [https://www.masinkudumine.ee](https://www.masinkudumine.ee)
  - date published: 2023-11-18T18:28:01.582875+00:00
  - user: None
  - tags: ['personal']
+
+## Vanim eraleht
+ - [https://www.nelli.ee](https://www.nelli.ee)
+ - date published: 2024-03-21T16:07:34+00:00
+ - user: rumpel
+ - tags: []
 
 ## OmniFish – Jakarta EE Consulting & Support
  - [https://omnifish.ee](https://omnifish.ee)
@@ -4501,6 +4669,12 @@
  - date published: 2024-03-06T00:00:00+00:00
  - user: None
  - tags: []
+
+## Felipe Borges – Felipe Borges' blog about GNOME
+ - [https://feborg.es](https://feborg.es)
+ - date published: 2024-03-21T07:44:26.625130+00:00
+ - user: None
+ - tags: ['personal']
 
 ## 50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs
  - [https://golang50shad.es](https://golang50shad.es)
@@ -5438,6 +5612,12 @@
  - user: None
  - tags: ['blog', 'personal']
 
+## GoFetch: New side-channel attack using data memory-dependent prefetchers
+ - [https://gofetch.fail](https://gofetch.fail)
+ - date published: 2024-03-21T14:51:18+00:00
+ - user: None
+ - tags: []
+
 ## SGX.Fail
  - [https://sgx.fail](https://sgx.fail)
  - date published: 2023-10-25T19:12:32.595021+00:00
@@ -5589,13 +5769,13 @@
  - tags: []
 
 ## None
- - [https://kaaosradio.fi](https://kaaosradio.fi)
+ - [http://kaaosradio.fi](http://kaaosradio.fi)
  - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## None
- - [http://kaaosradio.fi](http://kaaosradio.fi)
+ - [https://kaaosradio.fi](https://kaaosradio.fi)
  - date published: 2021-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -5637,14 +5817,14 @@
  - tags: []
 
 ## Spotify - Web Player: Music for everyone
- - [http://spoti.fi](http://spoti.fi)
- - date published: 2024-01-21T19:14:58.231822+00:00
+ - [https://spoti.fi](https://spoti.fi)
+ - date published: 2024-01-22T07:43:20.742120+00:00
  - user: None
  - tags: []
 
 ## Spotify - Web Player: Music for everyone
- - [https://spoti.fi](https://spoti.fi)
- - date published: 2024-01-22T07:43:20.742120+00:00
+ - [http://spoti.fi](http://spoti.fi)
+ - date published: 2024-01-21T19:14:58.231822+00:00
  - user: None
  - tags: []
 
@@ -5669,6 +5849,12 @@
 ## Turun yliopisto
  - [https://www.utu.fi](https://www.utu.fi)
  - date published: 2023-10-25T19:13:40.412360+00:00
+ - user: None
+ - tags: []
+
+## Yle Areena – Enemmän kuin ehdit katsoa ja kuunnella
+ - [https://areena.yle.fi](https://areena.yle.fi)
+ - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5825,192 +6011,6 @@
 ## The REWORK podcast
  - [https://www.rework.fm](https://www.rework.fm)
  - date published: 2023-10-25T19:14:00.060458+00:00
- - user: None
- - tags: []
-
-## stephen.fm
- - [https://stephen.fm](https://stephen.fm)
- - date published: 2023-10-25T08:49:10.105327+00:00
- - user: None
- - tags: ['personal']
-
-## None
- - [https://feeds.transistor.fm](https://feeds.transistor.fm)
- - date published: 2024-02-26T08:37:01.887941+00:00
- - user: None
- - tags: []
-
-## hx-pod
- - [https://hx-pod.transistor.fm](https://hx-pod.transistor.fm)
- - date published: 2024-02-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Kube Cuddle
- - [https://kubecuddle.transistor.fm](https://kubecuddle.transistor.fm)
- - date published: 2023-10-25T19:14:07.098237+00:00
- - user: None
- - tags: []
-
-## tree.fm – Tune Into Forests From Around The World 🌳🔈
- - [https://www.tree.fm](https://www.tree.fm)
- - date published: 2024-01-12T01:41:33.894199+00:00
- - user: None
- - tags: []
-
-## 90.5 WESA – Pittsburgh's NPR station
- - [https://www.wesa.fm](https://www.wesa.fm)
- - date published: 2023-11-15T22:04:18.302598+00:00
- - user: None
- - tags: []
-
-## ⊙
- - [https://writing.fm](https://writing.fm)
- - date published: 2023-10-25T19:14:07.984597+00:00
- - user: None
- - tags: []
-
-## None
- - [https://stream.zeno.fm](https://stream.zeno.fm)
- - date published: 2024-02-15T22:14:13.811680+00:00
- - user: None
- - tags: ['demoscene']
-
-## Zeno.FM | Free streaming and listening to your favorite radio stations from around the world. Sport, News, Talk, Politics and Music.
- - [https://zeno.fm](https://zeno.fm)
- - date published: 2024-02-15T22:14:42.031318+00:00
- - user: None
- - tags: ['demoscene']
-
-## Nomad
- - [https://nomad.foo](https://nomad.foo)
- - date published: 2023-10-25T19:14:08.549233+00:00
- - user: None
- - tags: []
-
-## Unix Foo Essays - unix.foo
- - [https://unix.foo](https://unix.foo)
- - date published: 2023-10-25T19:14:09.766393+00:00
- - user: None
- - tags: []
-
-## e Foundation - deGoogled unGoogled smartphone operating systems and online services - your data is your data
- - [https://e.foundation](https://e.foundation)
- - date published: 2023-10-25T08:31:59.915876+00:00
- - user: None
- - tags: ['operating system', 'android', 'open source']
-
-## Haskell Foundation
- - [https://haskell.foundation](https://haskell.foundation)
- - date published: 2023-10-25T19:14:11.510664+00:00
- - user: None
- - tags: []
-
-## Open Collective Foundation Dissolution - Open Collective Foundation
- - [https://docs.opencollective.foundation](https://docs.opencollective.foundation)
- - date published: 2024-03-11T20:57:37.818276+00:00
- - user: None
- - tags: []
-
-## Volta Foundation - World's Largest Battery Community
- - [https://www.volta.foundation](https://www.volta.foundation)
- - date published: 2023-10-25T19:14:14.835516+00:00
- - user: None
- - tags: []
-
-## Afnic, solution de Registre Internet des noms de domaine Accueil - Afnic
- - [https://www.afnic.fr](https://www.afnic.fr)
- - date published: 2023-10-25T19:14:19.014743+00:00
- - user: None
- - tags: []
-
-## Arnaud Gélébart : consultant SEO à Mulhouse en Alsace
- - [https://www.agelebart.fr](https://www.agelebart.fr)
- - date published: 2024-01-09T11:05:51.435930+00:00
- - user: None
- - tags: []
-
-## ANFR-Accueil
- - [https://www.anfr.fr](https://www.anfr.fr)
- - date published: 2023-10-25T09:36:54.938413+00:00
- - user: None
- - tags: []
-
-## Anicet Nougaret's portfolio & blog.
- - [https://anicetnougaret.fr](https://anicetnougaret.fr)
- - date published: 2023-10-25T19:14:22.734164+00:00
- - user: None
- - tags: []
-
-## AnimeLand
- - [https://animeland.fr](https://animeland.fr)
- - date published: 2024-01-22T07:44:28.784460+00:00
- - user: None
- - tags: []
-
-## Benjamin Bellamy
- - [https://benjaminbellamy.fr](https://benjaminbellamy.fr)
- - date published: 2024-02-08T16:21:11.300483+00:00
- - user: None
- - tags: []
-
-## ISfinder
- - [https://www-is.biotoul.fr](https://www-is.biotoul.fr)
- - date published: 2024-01-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Cadremploi : Offres d'emploi cadre | Conseils  | Actualité
- - [https://www.cadremploi.fr](https://www.cadremploi.fr)
- - date published: 2023-12-18T17:17:09.872058+00:00
- - user: None
- - tags: []
-
-## C'éclair! | L'efficacité au quotidien
- - [https://ceclair.fr](https://ceclair.fr)
- - date published: 2024-01-01T03:40:10.017494+00:00
- - user: None
- - tags: []
-
-## Voitures neuves | Constructeur automobile | Citroën
- - [https://www.citroen.fr](https://www.citroen.fr)
- - date published: 2023-12-11T15:58:10.565694+00:00
- - user: None
- - tags: []
-
-## Homepage | Citroën Origins
- - [https://www.citroenorigins.fr](https://www.citroenorigins.fr)
- - date published: 2023-12-11T15:49:24.413078+00:00
- - user: None
- - tags: []
-
-## Particulier | CNIL
- - [https://www.cnil.fr](https://www.cnil.fr)
- - date published: 2023-10-25T19:14:33.796480+00:00
- - user: None
- - tags: []
-
-## CNRS News | Making sense of science
- - [https://news.cnrs.fr](https://news.cnrs.fr)
- - date published: 2023-10-25T19:14:35.947342+00:00
- - user: None
- - tags: []
-
-## Conservatoire de Rennes
- - [https://conservatoire-rennes.fr](https://conservatoire-rennes.fr)
- - date published: 2024-02-22T16:55:10.461902+00:00
- - user: None
- - tags: []
-
-## Ctrl-Alt-Test - A French Demoscene Group, since 2009
- - [https://www.ctrl-alt-test.fr](https://www.ctrl-alt-test.fr)
- - date published: 2023-10-25T19:14:41.705580+00:00
- - user: None
- - tags: []
-
-## All posts
- - [https://dambron.fr](https://dambron.fr)
- - date published: 2024-01-11T13:29:21.444707+00:00
  - user: None
  - tags: []
 

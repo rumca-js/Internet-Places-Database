@@ -1,3 +1,39 @@
+## Coding And Computers
+ - [https://coding-and-computers.blogspot.com](https://coding-and-computers.blogspot.com)
+ - date published: 2023-10-25T09:06:35.597530+00:00
+ - user: None
+ - tags: ['personal']
+
+## command center
+ - [https://commandcenter.blogspot.com](https://commandcenter.blogspot.com)
+ - date published: 2023-10-25T09:06:37.426358+00:00
+ - user: None
+ - tags: ['personal']
+
+## None
+ - [https://concurrencyfreaks.blogspot.com](https://concurrencyfreaks.blogspot.com)
+ - date published: 2024-01-09T02:30:50.690047+00:00
+ - user: None
+ - tags: []
+
+## croucher
+ - [https://croucher.blogspot.com](https://croucher.blogspot.com)
+ - date published: 2024-02-08T22:04:00.208128+00:00
+ - user: None
+ - tags: []
+
+## The CRPG Addict
+ - [https://crpgaddict.blogspot.com](https://crpgaddict.blogspot.com)
+ - date published: 2023-11-03T07:09:22.088870+00:00
+ - user: None
+ - tags: []
+
+## Cubic
+ - [https://cubicspot.blogspot.com](https://cubicspot.blogspot.com)
+ - date published: 2023-10-25T09:08:04.589544+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Cypher Phunk
  - [https://cypherphunk.blogspot.com](https://cypherphunk.blogspot.com)
  - date published: 2023-10-25T09:08:06.752061+00:00
@@ -141,6 +177,12 @@
  - date published: 2023-10-25T09:08:37.053310+00:00
  - user: None
  - tags: ['personal']
+
+## Flogging Babel
+ - [https://floggingbabel.blogspot.com](https://floggingbabel.blogspot.com)
+ - date published: 2024-03-21T18:19:54.708441+00:00
+ - user: None
+ - tags: []
 
 ## FXRant
  - [https://fxrant.blogspot.com](https://fxrant.blogspot.com)
@@ -1210,7 +1252,7 @@
  - [https://booking.com](https://booking.com)
  - date published: 2023-12-04T18:26:14+00:00
  - user: rumpel
- - tags: ['rentals', 'booking']
+ - tags: ['rentals', 'travel', 'booking']
 
 ## Booklover Book Reviews: Find the best books to read today
  - [https://www.bookloverbookreviews.com](https://www.bookloverbookreviews.com)
@@ -2902,7 +2944,7 @@
  - [https://cansecwest.com](https://cansecwest.com)
  - date published: 2024-03-20T00:00:00+00:00
  - user: rumpel
- - tags: ['hacking event', 'pwn2own', 'security']
+ - tags: ['security', 'community event', 'hacking', 'pwn2own']
 
 ## Cansurround
  - [https://cscaz.cansurround.com](https://cscaz.cansurround.com)
@@ -3043,14 +3085,14 @@
  - tags: ['site building']
 
 ## None
- - [http://www.caribpress.com](http://www.caribpress.com)
- - date published: 2024-02-25T15:38:05.095360+00:00
+ - [https://www.caribpress.com](https://www.caribpress.com)
+ - date published: 2024-01-09T02:31:43.727437+00:00
  - user: None
  - tags: []
 
 ## None
- - [https://www.caribpress.com](https://www.caribpress.com)
- - date published: 2024-01-09T02:31:43.727437+00:00
+ - [http://www.caribpress.com](http://www.caribpress.com)
+ - date published: 2024-02-25T15:38:05.095360+00:00
  - user: None
  - tags: []
 
@@ -3441,6 +3483,12 @@
 ## 体育_央视网(cctv.com)
  - [https://sports.cctv.com](https://sports.cctv.com)
  - date published: 2023-12-09T12:18:44.730556+00:00
+ - user: None
+ - tags: []
+
+## 体育_央视网(cctv.com)
+ - [http://sports.cctv.com](http://sports.cctv.com)
+ - date published: 2024-03-21T02:07:49.559014+00:00
  - user: None
  - tags: []
 
@@ -4176,17 +4224,17 @@
  - user: None
  - tags: []
 
-## http://chrisjstott.com
- - [https://chrisjstott.com](https://chrisjstott.com)
- - date published: 2024-01-24T08:01:05.864817+00:00
- - user: None
- - tags: ['personal']
-
 ## None
  - [http://chrisjstott.com](http://chrisjstott.com)
  - date published: 2024-02-29T14:58:49.595292+00:00
  - user: None
  - tags: []
+
+## http://chrisjstott.com
+ - [https://chrisjstott.com](https://chrisjstott.com)
+ - date published: 2024-01-24T08:01:05.864817+00:00
+ - user: None
+ - tags: ['personal']
 
 ## Home - Blogomatano
  - [https://chriskiehl.com](https://chriskiehl.com)
@@ -4969,14 +5017,14 @@
  - tags: []
 
 ## Cliffle
- - [https://cliffle.com](https://cliffle.com)
- - date published: 2023-10-25T13:26:33.249479+00:00
+ - [http://cliffle.com](http://cliffle.com)
+ - date published: 2024-02-25T18:23:52.604762+00:00
  - user: None
  - tags: []
 
 ## Cliffle
- - [http://cliffle.com](http://cliffle.com)
- - date published: 2024-02-25T18:23:52.604762+00:00
+ - [https://cliffle.com](https://cliffle.com)
+ - date published: 2023-10-25T13:26:33.249479+00:00
  - user: None
  - tags: []
 
@@ -5960,54 +6008,6 @@
 ## Compelling Science Fiction Newsletter
  - [https://compellingsciencefiction.com](https://compellingsciencefiction.com)
  - date published: 2023-10-25T13:32:16.715575+00:00
- - user: None
- - tags: []
-
-## Abdur-Rahmaan Janhangeer
- - [https://www.compileralchemy.com](https://www.compileralchemy.com)
- - date published: 2023-10-25T13:32:19.285480+00:00
- - user: None
- - tags: []
-
-## Complete Music Update: the music business explained
- - [https://completemusicupdate.com](https://completemusicupdate.com)
- - date published: 2023-10-25T10:17:15.256759+00:00
- - user: None
- - tags: []
-
-## Complete Python
- - [https://www.completepython.com](https://www.completepython.com)
- - date published: 2024-01-23T22:27:01.354667+00:00
- - user: None
- - tags: []
-
-## Compliance Week | News, Events & Thought Leadership for the Chief Compliance Officer
- - [https://www.complianceweek.com](https://www.complianceweek.com)
- - date published: 2023-10-25T13:32:26.382565+00:00
- - user: None
- - tags: []
-
-## AOL is part of the Yahoo family of brands
- - [https://www.compuserve.com](https://www.compuserve.com)
- - date published: 2023-10-25T13:32:28.259728+00:00
- - user: None
- - tags: []
-
-## Computational Audiology Computational Audiology - Computational Audiology
- - [https://computationalaudiology.com](https://computationalaudiology.com)
- - date published: 2023-10-25T13:32:34.981402+00:00
- - user: None
- - tags: []
-
-## 504 Gateway Time-out
- - [https://computerengineeringforbabies.com](https://computerengineeringforbabies.com)
- - date published: 2024-01-18T00:14:10.718483+00:00
- - user: None
- - tags: []
-
-## Computer, Enhance! | Casey Muratori | Substack
- - [https://www.computerenhance.com](https://www.computerenhance.com)
- - date published: 2023-10-25T13:32:39.542030+00:00
  - user: None
  - tags: []
 

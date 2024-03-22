@@ -1,3 +1,141 @@
+## Jeff Geerling YouTube Channel
+ - [https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg)
+ - date published: 2023-11-03T10:34:47+00:00
+ - user: rumpel
+ - tags: ['youtuber', 'single-board', 'raspberry']
+
+## YouTube Channel hipoonios
+ - [https://www.youtube.com/@hipoonios](https://www.youtube.com/@hipoonios)
+ - date published: 2023-11-02T10:41:50+00:00
+ - user: rumpel
+ - tags: ['amiga']
+
+## Squidmar Miniatures
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g)
+ - date published: 2023-11-08T09:58:45+00:00
+ - user: rumpel
+ - tags: ['warhammer', 'wargames', 'miniatures']
+
+## YouTube
+ - [https://www.youtube.com](https://www.youtube.com)
+ - date published: 2023-10-24T20:05:58.291792+00:00
+ - user: None
+ - tags: ['google', 'gatekeeper', 'video streaming']
+
+## Louis Rossmann YouTube Channel
+ - [https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w](https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w)
+ - date published: 2023-11-03T10:37:58+00:00
+ - user: rumpel
+ - tags: ['right to repair']
+
+## YouTube
+ - [https://youtube.com](https://youtube.com)
+ - date published: 2023-11-14T01:45:17.978988+00:00
+ - user: None
+ - tags: []
+
+## YouTube
+ - [http://youtube.com](http://youtube.com)
+ - date published: 2024-03-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://youtubedecade.com
+ - [https://youtubedecade.com](https://youtubedecade.com)
+ - date published: 2024-02-08T18:45:07.510130+00:00
+ - user: None
+ - tags: []
+
+## YouTube Transcript - read YouTube videos
+ - [https://youtubetranscript.com](https://youtubetranscript.com)
+ - date published: 2023-10-24T20:19:28.976903+00:00
+ - user: None
+ - tags: []
+
+## Jorge Castro
+ - [https://www.ypsidanger.com](https://www.ypsidanger.com)
+ - date published: 2023-10-25T18:23:17.156239+00:00
+ - user: None
+ - tags: []
+
+## https://i.ytimg.com
+ - [https://i.ytimg.com](https://i.ytimg.com)
+ - date published: 2023-12-11T16:53:58.306159+00:00
+ - user: None
+ - tags: []
+
+## All yellow? Or flecked with brown man?
+ - [https://allyelloworfleckedwithbrownman.ytmnd.com](https://allyelloworfleckedwithbrownman.ytmnd.com)
+ - date published: 2011-01-01T00:00:00+00:00
+ - user: None
+ - tags: ['wtf', 'funny']
+
+## Youtube Pictures Downloader
+ - [https://www.ytpics.com](https://www.ytpics.com)
+ - date published: 2024-02-07T11:53:34.711574+00:00
+ - user: None
+ - tags: ['web application']
+
+## Yubico Developers
+ - [https://developers.yubico.com](https://developers.yubico.com)
+ - date published: 2023-10-25T18:23:18.968885+00:00
+ - user: None
+ - tags: []
+
+## Yubico | YubiKey Strong Two Factor Authentication
+ - [https://www.yubico.com](https://www.yubico.com)
+ - date published: 2023-10-25T18:23:27.582497+00:00
+ - user: None
+ - tags: []
+
+## YugabyteDB—The Distributed SQL Database for Mission-Critical Applications
+ - [https://www.yugabyte.com](https://www.yugabyte.com)
+ - date published: 2023-10-25T18:23:30.790573+00:00
+ - user: None
+ - tags: []
+
+## Yuling Yao
+ - [https://www.yulingyao.com](https://www.yulingyao.com)
+ - date published: 2023-10-25T18:23:33.318865+00:00
+ - user: None
+ - tags: []
+
+## Yummy Melon Software. Hello!
+ - [http://yummymelon.com](http://yummymelon.com)
+ - date published: 2023-11-28T03:40:51.941853+00:00
+ - user: None
+ - tags: []
+
+## Home | Yuni Wa Music Producer
+ - [http://www.yuniwamusic.com](http://www.yuniwamusic.com)
+ - date published: 2024-02-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Yuriy Biley
+ - [https://yuriy-biley.com](https://yuriy-biley.com)
+ - date published: 2024-01-30T01:59:24.535081+00:00
+ - user: None
+ - tags: []
+
+## Yutong Bai
+ - [https://yutongbai.com](https://yutongbai.com)
+ - date published: 2023-12-05T15:30:15.106218+00:00
+ - user: None
+ - tags: []
+
+## yyzkevin | Just another WordPress site
+ - [https://www.yyzkevin.com](https://www.yyzkevin.com)
+ - date published: 2023-10-25T18:23:38.141863+00:00
+ - user: None
+ - tags: []
+
+## Yzena, LLC
+ - [https://yzena.com](https://yzena.com)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Z505.COM
  - [https://z505.com](https://z505.com)
  - date published: 2023-10-25T18:23:39.778540+00:00
@@ -522,14 +660,14 @@
  - tags: []
 
 ## Writing by Bob Doto
- - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
- - date published: 2024-02-26T14:37:32.413264+00:00
+ - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
+ - date published: 2024-01-09T02:55:47.919867+00:00
  - user: None
  - tags: []
 
 ## Writing by Bob Doto
- - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
- - date published: 2024-01-09T02:55:47.919867+00:00
+ - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
+ - date published: 2024-02-26T14:37:32.413264+00:00
  - user: None
  - tags: []
 
@@ -803,15 +941,21 @@
  - user: None
  - tags: []
 
-## MAXELL's HOME
- - [https://mxl.cz](https://mxl.cz)
- - date published: 2024-01-09T02:56:03.815327+00:00
+## Časopisy Masarykovy univerzity
+ - [https://journals.muni.cz](https://journals.muni.cz)
+ - date published: 2000-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## MAXELL's HOME
  - [http://mxl.cz](http://mxl.cz)
  - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## MAXELL's HOME
+ - [https://mxl.cz](https://mxl.cz)
+ - date published: 2024-01-09T02:56:03.815327+00:00
  - user: None
  - tags: []
 
@@ -954,26 +1098,26 @@
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
- - [http://amiga-news.de](http://amiga-news.de)
- - date published: 2024-02-26T14:42:58.001349+00:00
- - user: None
- - tags: []
-
-## amiga-news.de - Amiga-News auf den Punkt gebracht
  - [https://amiga-news.de](https://amiga-news.de)
  - date published: 2023-10-25T11:01:48.109047+00:00
  - user: None
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
- - [http://www.amiga-news.de](http://www.amiga-news.de)
- - date published: 2024-02-26T14:42:59.175744+00:00
+ - [http://amiga-news.de](http://amiga-news.de)
+ - date published: 2024-02-26T14:42:58.001349+00:00
  - user: None
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
  - [https://www.amiga-news.de](https://www.amiga-news.de)
  - date published: 2024-01-09T02:56:04.543993+00:00
+ - user: None
+ - tags: []
+
+## amiga-news.de - Amiga-News auf den Punkt gebracht
+ - [http://www.amiga-news.de](http://www.amiga-news.de)
+ - date published: 2024-02-26T14:42:59.175744+00:00
  - user: None
  - tags: []
 
@@ -1227,13 +1371,13 @@ home
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [https://www.classic-videogames.de](https://www.classic-videogames.de)
+ - [http://www.classic-videogames.de](http://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [http://www.classic-videogames.de](http://www.classic-videogames.de)
+ - [https://www.classic-videogames.de](https://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
@@ -1926,16 +2070,16 @@ Heinsohn
  - tags: []
 
 ## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
- - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
- - date published: 2024-02-15T02:00:01.330586+00:00
- - user: None
- - tags: ['video game music']
-
-## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
  - [https://nerdsandgeeks.de](https://nerdsandgeeks.de)
  - date published: 2024-02-15T22:13:44.143200+00:00
  - user: None
  - tags: ['demoscene']
+
+## NAG: Nerds and Geeks · VON RETRO BIS HEUTE
+ - [http://nerdsandgeeks.de](http://nerdsandgeeks.de)
+ - date published: 2024-02-15T02:00:01.330586+00:00
+ - user: None
+ - tags: ['video game music']
 
 ## NeuroNagel : Neuroregulation, Neurofeedback, Biofeedback, Mentalsysteme und Mindmachines
  - [https://www.neuronagel.de](https://www.neuronagel.de)
@@ -2076,14 +2220,14 @@ Heinsohn
  - tags: ['video game music']
 
 ## Radio PARALAX
- - [https://www.radio-paralax.de](https://www.radio-paralax.de)
- - date published: 2024-02-15T22:31:37.332329+00:00
+ - [http://www.radio-paralax.de](http://www.radio-paralax.de)
+ - date published: 2024-02-15T22:12:22.414790+00:00
  - user: None
  - tags: ['demoscene']
 
 ## Radio PARALAX
- - [http://www.radio-paralax.de](http://www.radio-paralax.de)
- - date published: 2024-02-15T22:12:22.414790+00:00
+ - [https://www.radio-paralax.de](https://www.radio-paralax.de)
+ - date published: 2024-02-15T22:31:37.332329+00:00
  - user: None
  - tags: ['demoscene']
 
@@ -2210,6 +2354,12 @@ Heinsohn
 ## Spiegelburg Onlineshop | Ungewöhnlich anders & voller Überraschungen
  - [https://www.spiegelburg-shop.de](https://www.spiegelburg-shop.de)
  - date published: 2023-12-28T11:09:44.236543+00:00
+ - user: None
+ - tags: []
+
+## Sportschau - Sport-News, Live-Ticker, Videos, Ergebnisse und Tabellen
+ - [https://www.sportschau.de](https://www.sportschau.de)
+ - date published: 2024-03-20T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3662,14 +3812,14 @@ Heinsohn
  - tags: []
 
 ## endtimes.dev
- - [https://endtimes.dev](https://endtimes.dev)
- - date published: 2023-10-25T18:37:42.008452+00:00
+ - [http://endtimes.dev](http://endtimes.dev)
+ - date published: 2024-02-26T14:52:45.275010+00:00
  - user: None
  - tags: []
 
 ## endtimes.dev
- - [http://endtimes.dev](http://endtimes.dev)
- - date published: 2024-02-26T14:52:45.275010+00:00
+ - [https://endtimes.dev](https://endtimes.dev)
+ - date published: 2023-10-25T18:37:42.008452+00:00
  - user: None
  - tags: []
 
@@ -4070,14 +4220,14 @@ Heinsohn
  - tags: ['personal']
 
 ## Jakob Serlier's Personal Site
- - [https://jakobs.dev](https://jakobs.dev)
- - date published: 2024-01-09T01:37:20.973191+00:00
+ - [http://jakobs.dev](http://jakobs.dev)
+ - date published: 2024-01-15T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Jakob Serlier's Personal Site
- - [http://jakobs.dev](http://jakobs.dev)
- - date published: 2024-01-15T00:00:00+00:00
+ - [https://jakobs.dev](https://jakobs.dev)
+ - date published: 2024-01-09T01:37:20.973191+00:00
  - user: None
  - tags: []
 
@@ -4177,15 +4327,15 @@ Heinsohn
  - user: None
  - tags: []
 
-## The website of jyn
- - [https://jyn.dev](https://jyn.dev)
- - date published: 2023-10-25T18:38:50.121076+00:00
- - user: None
- - tags: []
-
 ## the website of jyn
  - [http://jyn.dev](http://jyn.dev)
  - date published: 2024-01-16T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## The website of jyn
+ - [https://jyn.dev](https://jyn.dev)
+ - date published: 2023-10-25T18:38:50.121076+00:00
  - user: None
  - tags: []
 
@@ -4880,14 +5030,14 @@ Heinsohn
  - tags: []
 
 ## Passkey Developer Resources
- - [https://passkeys.dev](https://passkeys.dev)
- - date published: 2023-01-31T00:00:00+00:00
+ - [http://passkeys.dev](http://passkeys.dev)
+ - date published: 2024-02-25T19:46:12.112766+00:00
  - user: None
  - tags: []
 
 ## Passkey Developer Resources
- - [http://passkeys.dev](http://passkeys.dev)
- - date published: 2024-02-25T19:46:12.112766+00:00
+ - [https://passkeys.dev](https://passkeys.dev)
+ - date published: 2023-01-31T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5386,14 +5536,14 @@ Heinsohn
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [http://socket.dev](http://socket.dev)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://socket.dev](https://socket.dev)
+ - date published: 2023-10-25T18:42:09.401241+00:00
  - user: None
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date published: 2023-10-25T18:42:09.401241+00:00
+ - [http://socket.dev](http://socket.dev)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5856,156 +6006,6 @@ Heinsohn
 ## Boost your Go/Golang skills. One article at a time.
  - [https://www.willem.dev](https://www.willem.dev)
  - date published: 2024-01-06T17:32:27.814127+00:00
- - user: None
- - tags: []
-
-## https://www.windmill.dev
- - [https://www.windmill.dev](https://www.windmill.dev)
- - date published: 2024-01-09T02:57:38.660705+00:00
- - user: None
- - tags: []
-
-## A corner of the internet for people who love building digital products.
- - [https://www.wking.dev](https://www.wking.dev)
- - date published: 2023-11-06T19:19:56.497567+00:00
- - user: None
- - tags: []
-
-## https://readable_techcrunch.mvlab.workers.dev
- - [https://readable_techcrunch.mvlab.workers.dev](https://readable_techcrunch.mvlab.workers.dev)
- - date published: 2024-01-09T02:57:39.772632+00:00
- - user: None
- - tags: []
-
-## Thoughts for CTOs, Tech Leads and Software Architects
- - [https://www.workingsoftware.dev](https://www.workingsoftware.dev)
- - date published: 2023-10-25T18:44:29.024808+00:00
- - user: None
- - tags: []
-
-## WSCP's blog
- - [https://wscp.dev](https://wscp.dev)
- - date published: 2024-01-09T01:38:06.059471+00:00
- - user: None
- - tags: []
-
-## dotMorten | .NET Ramblings, XAML hacking and some GIS endeavors
- - [https://xaml.dev](https://xaml.dev)
- - date published: 2023-10-25T08:59:01.383042+00:00
- - user: None
- - tags: ['personal']
-
-## XINF
- - [https://xinf.dev](https://xinf.dev)
- - date published: 2023-10-25T18:44:30.785844+00:00
- - user: None
- - tags: []
-
-## xy2
- - [https://xy2.dev](https://xy2.dev)
- - date published: 2023-10-25T18:44:33.489903+00:00
- - user: None
- - tags: []
-
-## Yaky's
- - [https://yaky.dev](https://yaky.dev)
- - date published: 2024-01-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## None
- - [https://yobulk.dev](https://yobulk.dev)
- - date published: 2024-01-09T02:57:40.846844+00:00
- - user: None
- - tags: []
-
-## You don't need a modal window
- - [https://youdontneedamodalwindow.dev](https://youdontneedamodalwindow.dev)
- - date published: 2023-10-25T18:44:35.045129+00:00
- - user: None
- - tags: []
-
-## yuanchuan
- - [https://yuanchuan.dev](https://yuanchuan.dev)
- - date published: 2023-10-25T18:44:37.242773+00:00
- - user: None
- - tags: []
-
-## zackoverflow
- - [https://zackoverflow.dev](https://zackoverflow.dev)
- - date published: 2023-10-25T18:44:39.698343+00:00
- - user: None
- - tags: []
-
-## Welcome
- - [https://www.zarl.dev](https://www.zarl.dev)
- - date published: 2024-03-01T19:15:36.177869+00:00
- - user: None
- - tags: ['personal']
-
-## Zed - Code at the speed of thought
- - [https://zed.dev](https://zed.dev)
- - date published: 2023-10-25T18:44:46.883335+00:00
- - user: None
- - tags: []
-
-## Zellij
- - [https://zellij.dev](https://zellij.dev)
- - date published: 2023-10-25T18:44:48.356849+00:00
- - user: None
- - tags: []
-
-## Zoo: Home
- - [https://zoo.dev](https://zoo.dev)
- - date published: 2023-12-20T23:10:16.596825+00:00
- - user: None
- - tags: []
-
-## AI, automation and integrations as easy as pressing a button. | Connex Digital
- - [https://connex.digital](https://connex.digital)
- - date published: 2024-02-25T19:23:33.401138+00:00
- - user: None
- - tags: []
-
-## julian.digital
- - [https://julian.digital](https://julian.digital)
- - date published: 2023-10-25T18:44:50.401929+00:00
- - user: None
- - tags: []
-
-## RDTR01
- - [https://rdtr01.xl.digital](https://rdtr01.xl.digital)
- - date published: 2023-10-25T18:44:52.509130+00:00
- - user: None
- - tags: []
-
-## ooh.directory: a place to find good blogs that interest you
- - [https://ooh.directory](https://ooh.directory)
- - date published: 2023-10-25T18:44:56.352626+00:00
- - user: None
- - tags: ['blogs', 'personal', 'personal sites source']
-
-## Passkeys.directory
- - [https://passkeys.directory](https://passkeys.directory)
- - date published: 2024-01-29T22:50:04.643974+00:00
- - user: None
- - tags: []
-
-## The Productivity Blog
- - [https://blog.productivity.directory](https://blog.productivity.directory)
- - date published: 2024-03-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Arnon Shimoni
- - [https://arnon.dk](https://arnon.dk)
- - date published: 2024-02-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Consent-O-Matic
- - [https://consentomatic.au.dk](https://consentomatic.au.dk)
- - date published: 2023-10-25T18:44:57.884515+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,21 @@
+## Paul Henman
+ - [https://henman.ca](https://henman.ca)
+ - date published: 2023-12-12T04:55:06.206081+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home - Highgo Software Inc.
+ - [https://www.highgo.ca](https://www.highgo.ca)
+ - date published: 2023-12-18T21:53:17.162282+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://hirad.ca](https://hirad.ca)
+ - date published: 2023-12-27T18:12:30.676212+00:00
+ - user: None
+ - tags: ['personal']
+
 ## hypatia dot ca – Leigh Honeywell's Blog
  - [https://hypatia.ca](https://hypatia.ca)
  - date published: 2023-10-25T09:25:27.291271+00:00
@@ -2452,7 +2470,7 @@
  - [https://electrek.co](https://electrek.co)
  - date published: 2023-10-25T09:30:46.470276+00:00
  - user: None
- - tags: []
+ - tags: ['electric vehicles news']
 
 ## Blockchain Analytics & Crypto Compliance Solutions | Elliptic
  - [https://www.elliptic.co](https://www.elliptic.co)
@@ -5983,22 +6001,4 @@
  - date published: 2024-02-09T00:12:37.874010+00:00
  - user: None
  - tags: ['personal']
-
-## alexsci.com
- - [https://alexsci.com](https://alexsci.com)
- - date published: 2023-10-25T12:38:05.842613+00:00
- - user: None
- - tags: []
-
-## Home | Alex Sidorenko
- - [https://alexsidorenko.com](https://alexsidorenko.com)
- - date published: 2023-10-25T12:38:06.569578+00:00
- - user: None
- - tags: []
-
-## Alexskra | Web developer from Norway
- - [https://alexskra.com](https://alexskra.com)
- - date published: 2023-10-25T12:38:13.172045+00:00
- - user: None
- - tags: []
 

@@ -1,3 +1,69 @@
+## MoneyWeek | Investment advice, analysis, finance news
+ - [https://moneyweek.com](https://moneyweek.com)
+ - date published: 2023-10-25T16:06:15.176047+00:00
+ - user: None
+ - tags: []
+
+## https://moneywise.com
+ - [https://moneywise.com](https://moneywise.com)
+ - date published: 2023-10-25T16:06:15.474941+00:00
+ - user: None
+ - tags: []
+
+## Conservation news - Environmental science and conservation news
+ - [https://news.mongabay.com](https://news.mongabay.com)
+ - date published: 2023-10-25T16:06:20.302376+00:00
+ - user: None
+ - tags: []
+
+## MongoDB: The Developer Data Platform
+ - [https://www.mongodb.com](https://www.mongodb.com)
+ - date published: 2023-12-16T21:26:37.350495+00:00
+ - user: None
+ - tags: []
+
+## Personal CRM done right - Monica
+ - [https://www.monicahq.com](https://www.monicahq.com)
+ - date published: 2023-10-25T16:06:21.691787+00:00
+ - user: None
+ - tags: []
+
+## Monica Lent's Website
+ - [https://monicalent.com](https://monicalent.com)
+ - date published: 2023-10-25T16:06:22.675426+00:00
+ - user: None
+ - tags: []
+
+## Michael Burkhardt’s Weblog
+ - [https://mihobu.monkeywalk.com](https://mihobu.monkeywalk.com)
+ - date published: 2023-12-02T10:26:19.578888+00:00
+ - user: None
+ - tags: ['personal']
+
+## Monochrome Watches | An Online Magazine Dedicated To Fine Watches
+ - [https://monochrome-watches.com](https://monochrome-watches.com)
+ - date published: 2023-10-25T16:06:25.829565+00:00
+ - user: None
+ - tags: []
+
+## MonoDevelop | MonoDevelop
+ - [https://www.monodevelop.com](https://www.monodevelop.com)
+ - date published: 2023-10-25T16:06:27.432727+00:00
+ - user: None
+ - tags: []
+
+## MOnSter 6502
+ - [https://monster6502.com](https://monster6502.com)
+ - date published: 2023-10-25T16:06:28.942526+00:00
+ - user: None
+ - tags: []
+
+## Monstercat
+ - [https://www.monstercat.com](https://www.monstercat.com)
+ - date published: 2024-01-29T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## MonsterInsights - The Best Google Analytics Plugin for WordPress
  - [https://www.monsterinsights.com](https://www.monsterinsights.com)
  - date published: 2023-12-11T19:04:53.468599+00:00
@@ -3102,13 +3168,13 @@
  - tags: []
 
 ## Peter Norvig
- - [https://www.norvig.com](https://www.norvig.com)
+ - [http://www.norvig.com](http://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Peter Norvig
- - [http://www.norvig.com](http://www.norvig.com)
+ - [https://www.norvig.com](https://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -3564,6 +3630,12 @@ Answering Machine Greetings!
 ## The New York Times Web Archive
  - [https://archive.nytimes.com](https://archive.nytimes.com)
  - date published: 2023-10-25T16:23:44.901744+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://messaging-custom-newsletters.nytimes.com](https://messaging-custom-newsletters.nytimes.com)
+ - date published: 2024-03-21T21:51:51.570253+00:00
  - user: None
  - tags: []
 
@@ -5465,16 +5537,16 @@ Answering Machine Greetings!
  - tags: []
 
 ## Paperlike | Official Online Store
- - [http://paperlike.com](http://paperlike.com)
- - date published: 2024-02-24T09:57:05.617898+00:00
- - user: None
- - tags: ['screen protector']
-
-## Paperlike | Official Online Store
  - [https://paperlike.com](https://paperlike.com)
  - date published: 2024-03-07T19:36:45.060837+00:00
  - user: None
  - tags: []
+
+## Paperlike | Official Online Store
+ - [http://paperlike.com](http://paperlike.com)
+ - date published: 2024-02-24T09:57:05.617898+00:00
+ - user: None
+ - tags: ['screen protector']
 
 ## Paperpile Reference Manager
  - [https://paperpile.com](https://paperpile.com)
@@ -5716,17 +5788,17 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
-## Max  FitzGerald  | Patreon
- - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
- - date published: 2023-10-27T15:07:52+00:00
- - user: rumpel
- - tags: ['turnip28', 'tabletop games']
-
 ## Home — Patreon
  - [http://www.patreon.com](http://www.patreon.com)
  - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
+
+## Max  FitzGerald  | Patreon
+ - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
+ - date published: 2023-10-27T15:07:52+00:00
+ - user: rumpel
+ - tags: ['turnip28', 'tabletop games']
 
 ## Home — Patreon
  - [https://www.patreon.com](https://www.patreon.com)
@@ -5931,76 +6003,4 @@ Answering Machine Greetings!
  - date published: 2023-10-25T08:26:52.063948+00:00
  - user: None
  - tags: ['banking']
-
-## 403
- - [https://www.paypalobjects.com](https://www.paypalobjects.com)
- - date published: 2023-10-25T16:31:48.214530+00:00
- - user: None
- - tags: []
-
-## PayPal Status Page
- - [https://www.paypal-status.com](https://www.paypal-status.com)
- - date published: 2023-10-25T08:26:54.739488+00:00
- - user: None
- - tags: []
-
-## Paul Kafasis
- - [https://pbones.com](https://pbones.com)
- - date published: 2023-12-23T07:30:37.057666+00:00
- - user: None
- - tags: ['personal']
-
-## PC Builder AI
- - [https://www.pcbuilderai.com](https://www.pcbuilderai.com)
- - date published: 2023-10-25T16:31:48.907547+00:00
- - user: None
- - tags: []
-
-## PC Gamer
- - [https://www.pcgamer.com](https://www.pcgamer.com)
- - date published: 2023-10-25T10:49:45.933777+00:00
- - user: None
- - tags: ['video game news']
-
-## PCGamesN | PC gaming news, reviews, and guides
- - [https://www.pcgamesn.com](https://www.pcgamesn.com)
- - date published: 2023-10-25T10:49:52.311261+00:00
- - user: None
- - tags: ['game news']
-
-## Intro: P.C. Maffey
- - [https://pcmaffey.com](https://pcmaffey.com)
- - date published: 2023-10-25T08:47:24.013987+00:00
- - user: None
- - tags: ['personal']
-
-## PCMag UK
- - [http://uk.pcmag.com](http://uk.pcmag.com)
- - date published: 2024-02-26T09:45:15.403718+00:00
- - user: None
- - tags: []
-
-## PCMag.com - Technology Product Reviews, News, Prices & Tips
- - [https://uk.pcmag.com](https://uk.pcmag.com)
- - date published: 2023-10-25T09:34:32.882984+00:00
- - user: None
- - tags: []
-
-## The Latest Technology Product Reviews, News, Tips, and Deals | PCMag
- - [https://www.pcmag.com](https://www.pcmag.com)
- - date published: 2023-10-25T09:34:47.167027+00:00
- - user: None
- - tags: []
-
-## The Starman's Realm
- - [https://thestarman.pcministry.com](https://thestarman.pcministry.com)
- - date published: 2023-10-25T16:31:49.593366+00:00
- - user: None
- - tags: []
-
-## PCWorld
- - [https://www.pcworld.com](https://www.pcworld.com)
- - date published: 2023-10-25T09:34:49.726201+00:00
- - user: None
- - tags: []
 

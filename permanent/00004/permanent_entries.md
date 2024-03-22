@@ -1,3 +1,51 @@
+## Abdur-Rahmaan Janhangeer
+ - [https://www.compileralchemy.com](https://www.compileralchemy.com)
+ - date published: 2023-10-25T13:32:19.285480+00:00
+ - user: None
+ - tags: []
+
+## Complete Music Update: the music business explained
+ - [https://completemusicupdate.com](https://completemusicupdate.com)
+ - date published: 2023-10-25T10:17:15.256759+00:00
+ - user: None
+ - tags: []
+
+## Complete Python
+ - [https://www.completepython.com](https://www.completepython.com)
+ - date published: 2024-01-23T22:27:01.354667+00:00
+ - user: None
+ - tags: []
+
+## Compliance Week | News, Events & Thought Leadership for the Chief Compliance Officer
+ - [https://www.complianceweek.com](https://www.complianceweek.com)
+ - date published: 2023-10-25T13:32:26.382565+00:00
+ - user: None
+ - tags: []
+
+## AOL is part of the Yahoo family of brands
+ - [https://www.compuserve.com](https://www.compuserve.com)
+ - date published: 2023-10-25T13:32:28.259728+00:00
+ - user: None
+ - tags: []
+
+## Computational Audiology Computational Audiology - Computational Audiology
+ - [https://computationalaudiology.com](https://computationalaudiology.com)
+ - date published: 2023-10-25T13:32:34.981402+00:00
+ - user: None
+ - tags: []
+
+## 504 Gateway Time-out
+ - [https://computerengineeringforbabies.com](https://computerengineeringforbabies.com)
+ - date published: 2024-01-18T00:14:10.718483+00:00
+ - user: None
+ - tags: []
+
+## Computer, Enhance! | Casey Muratori | Substack
+ - [https://www.computerenhance.com](https://www.computerenhance.com)
+ - date published: 2023-10-25T13:32:39.542030+00:00
+ - user: None
+ - tags: []
+
 ## Computer Weekly | Information Technology (IT) News, UK IT Jobs, Industry News
  - [https://www.computerweekly.com](https://www.computerweekly.com)
  - date published: 2023-10-25T13:32:49.374619+00:00
@@ -1955,17 +2003,17 @@
  - user: None
  - tags: []
 
-## None
- - [http://danluu.com](http://danluu.com)
- - date published: 1979-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
 ## https://danluu.com
  - [https://danluu.com](https://danluu.com)
  - date published: 2023-12-07T19:41:48.559063+00:00
  - user: None
  - tags: ['personal']
+
+## None
+ - [http://danluu.com](http://danluu.com)
+ - date published: 1979-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Dannarchy
  - [https://dannarchy.com](https://dannarchy.com)
@@ -3479,15 +3527,15 @@
  - user: None
  - tags: []
 
-## introducing mazzle - a pipelines as code tool
- - [http://devops-pipeline.com](http://devops-pipeline.com)
- - date published: 2024-02-29T14:58:14.068438+00:00
- - user: None
- - tags: []
-
 ## Mazzle – A Pipelines as Code Tool
  - [https://devops-pipeline.com](https://devops-pipeline.com)
  - date published: 2023-12-31T11:15:08+00:00
+ - user: None
+ - tags: []
+
+## introducing mazzle - a pipelines as code tool
+ - [http://devops-pipeline.com](http://devops-pipeline.com)
+ - date published: 2024-02-29T14:58:14.068438+00:00
  - user: None
  - tags: []
 
@@ -4114,6 +4162,12 @@
  - date published: 2024-01-09T02:35:08.068719+00:00
  - user: None
  - tags: []
+
+## None
+ - [https://djangochat.com](https://djangochat.com)
+ - date published: 2024-03-21T02:14:15.939205+00:00
+ - user: None
+ - tags: ['django', 'podcast']
 
 ## Django
  - [https://docs.djangoproject.com](https://docs.djangoproject.com)
@@ -5945,58 +5999,4 @@
  - date published: 2023-12-13T15:44:07.450174+00:00
  - user: None
  - tags: ['wordpress']
-
-## ELEGOO: Best Consumer Level 3D Printers, Materials and STEM Products
- - [https://www.elegoo.com](https://www.elegoo.com)
- - date published: 2023-11-27T16:35:15+00:00
- - user: rumpel
- - tags: ['3d printing']
-
-## Diary Of A Mad Chaos - The Largest Online Diary In The World
- - [https://www.eleninovski.com](https://www.eleninovski.com)
- - date published: 2023-11-02T11:03:35.042983+00:00
- - user: None
- - tags: ['amiga', 'personal', 'blog']
-
-## Elevator Saga - the elevator programming game
- - [https://play.elevatorsaga.com](https://play.elevatorsaga.com)
- - date published: 2023-10-25T14:05:22.236086+00:00
- - user: None
- - tags: []
-
-## Articles and programs by Elias Naur
- - [https://eliasnaur.com](https://eliasnaur.com)
- - date published: 2024-01-15T22:36:32.858874+00:00
- - user: None
- - tags: []
-
-## Elicit Blog
- - [https://blog.elicit.com](https://blog.elicit.com)
- - date published: 2023-12-20T05:52:58.477716+00:00
- - user: None
- - tags: []
-
-## Eli Dourado | Substack
- - [https://www.elidourado.com](https://www.elidourado.com)
- - date published: 2023-10-25T14:05:24.284348+00:00
- - user: None
- - tags: []
-
-## Eli Grey
- - [https://eligrey.com](https://eligrey.com)
- - date published: 2024-01-09T08:02:37.232012+00:00
- - user: None
- - tags: []
-
-## https://elihorne.com
- - [https://elihorne.com](https://elihorne.com)
- - date published: 2017-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Welcome - EliminateHQ
- - [https://eliminatehq.com](https://eliminatehq.com)
- - date published: 2024-02-29T22:04:20+00:00
- - user: rumpel
- - tags: ['music artist', 'youtuber']
 

@@ -1,3 +1,75 @@
+## 403
+ - [https://www.paypalobjects.com](https://www.paypalobjects.com)
+ - date published: 2023-10-25T16:31:48.214530+00:00
+ - user: None
+ - tags: []
+
+## PayPal Status Page
+ - [https://www.paypal-status.com](https://www.paypal-status.com)
+ - date published: 2023-10-25T08:26:54.739488+00:00
+ - user: None
+ - tags: []
+
+## Paul Kafasis
+ - [https://pbones.com](https://pbones.com)
+ - date published: 2023-12-23T07:30:37.057666+00:00
+ - user: None
+ - tags: ['personal']
+
+## PC Builder AI
+ - [https://www.pcbuilderai.com](https://www.pcbuilderai.com)
+ - date published: 2023-10-25T16:31:48.907547+00:00
+ - user: None
+ - tags: []
+
+## PC Gamer
+ - [https://www.pcgamer.com](https://www.pcgamer.com)
+ - date published: 2023-10-25T10:49:45.933777+00:00
+ - user: None
+ - tags: ['video game news']
+
+## PCGamesN | PC gaming news, reviews, and guides
+ - [https://www.pcgamesn.com](https://www.pcgamesn.com)
+ - date published: 2023-10-25T10:49:52.311261+00:00
+ - user: None
+ - tags: ['game news']
+
+## Intro: P.C. Maffey
+ - [https://pcmaffey.com](https://pcmaffey.com)
+ - date published: 2023-10-25T08:47:24.013987+00:00
+ - user: None
+ - tags: ['personal']
+
+## PCMag UK
+ - [http://uk.pcmag.com](http://uk.pcmag.com)
+ - date published: 2024-02-26T09:45:15.403718+00:00
+ - user: None
+ - tags: []
+
+## PCMag.com - Technology Product Reviews, News, Prices & Tips
+ - [https://uk.pcmag.com](https://uk.pcmag.com)
+ - date published: 2023-10-25T09:34:32.882984+00:00
+ - user: None
+ - tags: []
+
+## The Latest Technology Product Reviews, News, Tips, and Deals | PCMag
+ - [https://www.pcmag.com](https://www.pcmag.com)
+ - date published: 2023-10-25T09:34:47.167027+00:00
+ - user: None
+ - tags: []
+
+## The Starman's Realm
+ - [https://thestarman.pcministry.com](https://thestarman.pcministry.com)
+ - date published: 2023-10-25T16:31:49.593366+00:00
+ - user: None
+ - tags: []
+
+## PCWorld
+ - [https://www.pcworld.com](https://www.pcworld.com)
+ - date published: 2023-10-25T09:34:49.726201+00:00
+ - user: None
+ - tags: []
+
 ## PDF Differ — Compare the differences between two pdfs
  - [https://pdfdiffer.com](https://pdfdiffer.com)
  - date published: 2023-10-25T16:31:51.020705+00:00
@@ -1345,6 +1417,12 @@
  - user: None
  - tags: []
 
+## Battle Crush - NCSOFT
+ - [https://battlecrush.plaync.com](https://battlecrush.plaync.com)
+ - date published: 2024-03-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Show HN: Spindle, a cross between Wordle and a Rubik's Cube made in PHP
  - [https://playspindle.com](https://playspindle.com)
  - date published: 2023-12-31T02:20:44+00:00
@@ -1688,13 +1766,13 @@
  - tags: []
 
 ## Considerations on Codecrafting
- - [https://blog.polybdenum.com](https://blog.polybdenum.com)
+ - [http://blog.polybdenum.com](http://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Considerations on Codecrafting
- - [http://blog.polybdenum.com](http://blog.polybdenum.com)
+ - [https://blog.polybdenum.com](https://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
@@ -1886,14 +1964,14 @@
  - tags: []
 
 ## PostHog - The open source Product OS
- - [http://posthog.com](http://posthog.com)
- - date published: 2024-02-26T09:54:45.800568+00:00
+ - [https://posthog.com](https://posthog.com)
+ - date published: 2023-10-25T16:38:22.584209+00:00
  - user: None
  - tags: []
 
 ## PostHog - The open source Product OS
- - [https://posthog.com](https://posthog.com)
- - date published: 2023-10-25T16:38:22.584209+00:00
+ - [http://posthog.com](http://posthog.com)
+ - date published: 2024-02-26T09:54:45.800568+00:00
  - user: None
  - tags: []
 
@@ -2778,6 +2856,12 @@
  - date published: 2024-03-19T11:09:20+00:00
  - user: rumpel
  - tags: ['online tool']
+
+## Pubtexto
+ - [https://www.pubtexto.com](https://www.pubtexto.com)
+ - date published: 2024-03-21T07:58:20.775181+00:00
+ - user: None
+ - tags: []
 
 ## PUFFBUNNY STUDIO
  - [https://www.puffbunnystudio.com](https://www.puffbunnystudio.com)
@@ -5371,16 +5455,16 @@ More!
  - tags: []
 
 ## Ken Shirriff's blog
- - [http://www.righto.com](http://www.righto.com)
- - date published: 2024-02-25T00:44:48.796985+00:00
- - user: None
- - tags: []
-
-## Ken Shirriff's blog
  - [https://www.righto.com](https://www.righto.com)
  - date published: 2023-10-25T16:51:33.313104+00:00
  - user: None
  - tags: ['blog', 'personal']
+
+## Ken Shirriff's blog
+ - [http://www.righto.com](http://www.righto.com)
+ - date published: 2024-02-25T00:44:48.796985+00:00
+ - user: None
+ - tags: []
 
 ## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
  - [https://www.rigzone.com](https://www.rigzone.com)
@@ -5921,88 +6005,4 @@ More!
  - date published: 2023-12-24T18:53:19.977744+00:00
  - user: None
  - tags: ['music']
-
-## Rock Paper Shotgun
- - [https://www.rockpapershotgun.com](https://www.rockpapershotgun.com)
- - date published: 2023-10-25T10:50:04+00:00
- - user: None
- - tags: ['video game news']
-
-## RockStar energy drink
- - [https://www.rockstarenergy.com](https://www.rockstarenergy.com)
- - date published: 2024-02-23T17:47:03+00:00
- - user: rumpel
- - tags: []
-
-## Rockstar Games
- - [https://www.rockstargames.com](https://www.rockstargames.com)
- - date published: 2023-10-25T11:28:32.034616+00:00
- - user: None
- - tags: ['red dead redemption', 'grand theft auto', 'company']
-
-## Rocksteady | Creators of the Arkham franchise
- - [https://rocksteadyltd.com](https://rocksteadyltd.com)
- - date published: 2023-11-27T12:52:26+00:00
- - user: rumpel
- - tags: ['batman', 'video game developer']
-
-## Rocky Bergen
- - [https://rockybergen.com](https://rockybergen.com)
- - date published: 2023-10-25T16:53:25.983733+00:00
- - user: None
- - tags: []
-
-## Rocky Bergen
- - [http://rockybergen.com](http://rockybergen.com)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Inbound Marketing for Engineering & Software Services - RocLogic
- - [https://roclogicmarketing.com](https://roclogicmarketing.com)
- - date published: 2023-12-22T22:29:30.216990+00:00
- - user: None
- - tags: ['personal']
-
-## RODAKpress - niepoprawny politycznie magazyn internetowy Ruchu Rodaków - mieszkańców świata
- - [http://www.rodaknet.com](http://www.rodaknet.com)
- - date published: 2023-10-25T16:53:30.195626+00:00
- - user: None
- - tags: []
-
-## Rodney Brooks – Robots, AI, and other stuff
- - [https://rodneybrooks.com](https://rodneybrooks.com)
- - date published: 2023-10-25T16:53:31.841027+00:00
- - user: None
- - tags: []
-
-## https://www.rodrigofranco.com
- - [https://www.rodrigofranco.com](https://www.rodrigofranco.com)
- - date published: 2024-01-12T21:01:46.147308+00:00
- - user: None
- - tags: []
-
-## Home - Rodrigo Tassinari
- - [https://rodrigotassinari.com](https://rodrigotassinari.com)
- - date published: 2023-11-29T18:20:49.678962+00:00
- - user: None
- - tags: ['personal']
-
-## Jason Rodriguez
- - [https://rodriguezcommaj.com](https://rodriguezcommaj.com)
- - date published: 2023-10-25T08:47:49.289045+00:00
- - user: None
- - tags: ['personal']
-
-## Roel van der Ven
- - [https://roelvanderven.com](https://roelvanderven.com)
- - date published: 2024-01-11T02:12:26.108964+00:00
- - user: None
- - tags: []
-
-## Rogan Murley
- - [https://roganmurley.com](https://roganmurley.com)
- - date published: 2024-01-05T15:17:03.373517+00:00
- - user: None
- - tags: []
 
