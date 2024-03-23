@@ -1,3 +1,45 @@
+## That grumpy BSD guy
+ - [https://bsdly.blogspot.com](https://bsdly.blogspot.com)
+ - date published: 2023-10-25T09:06:20.001075+00:00
+ - user: None
+ - tags: ['personal']
+
+## Making a C64/C65 compatible computer
+ - [https://c65gs.blogspot.com](https://c65gs.blogspot.com)
+ - date published: 2023-10-25T09:06:24.335016+00:00
+ - user: None
+ - tags: ['personal']
+
+## Plants, Flowers, Oils and whimsy
+ - [https://carriescharf.blogspot.com](https://carriescharf.blogspot.com)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Cererean Scratchpad
+ - [https://cerereanscratchpad.blogspot.com](https://cerereanscratchpad.blogspot.com)
+ - date published: 2023-10-25T13:05:07.172479+00:00
+ - user: None
+ - tags: []
+
+## Chez Robert Giron
+ - [https://chezrobertgiron.blogspot.com](https://chezrobertgiron.blogspot.com)
+ - date published: 2024-02-08T18:16:53.876372+00:00
+ - user: None
+ - tags: []
+
+## My Sculpture Blog
+ - [https://chrisbathgate.blogspot.com](https://chrisbathgate.blogspot.com)
+ - date published: 2024-03-13T15:24:19.127608+00:00
+ - user: None
+ - tags: []
+
+## ClubOrlov
+ - [https://cluborlov.blogspot.com](https://cluborlov.blogspot.com)
+ - date published: 2024-02-24T18:23:30.664125+00:00
+ - user: None
+ - tags: []
+
 ## Coding And Computers
  - [https://coding-and-computers.blogspot.com](https://coding-and-computers.blogspot.com)
  - date published: 2023-10-25T09:06:35.597530+00:00
@@ -1326,6 +1368,12 @@
  - user: None
  - tags: []
 
+## Boom - Supersonic Passenger Airplanes
+ - [https://boomsupersonic.com](https://boomsupersonic.com)
+ - date published: 2024-03-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## The Tudors
  - [https://maxcdn.bootstrapcdn.com](https://maxcdn.bootstrapcdn.com)
  - date published: 2023-12-12T09:13:07.298880+00:00
@@ -1656,6 +1704,12 @@
  - user: None
  - tags: []
 
+## Home - Brave New Europe
+ - [https://braveneweurope.com](https://braveneweurope.com)
+ - date published: 2024-03-22T20:49:50.276037+00:00
+ - user: None
+ - tags: ['globalists', 'organisation']
+
 ## Brave New Geek – Introspections of a software engineer
  - [https://bravenewgeek.com](https://bravenewgeek.com)
  - date published: 2023-10-25T13:11:55.311751+00:00
@@ -1797,6 +1851,12 @@
 ## Home - Brian Hertzog
  - [https://www.brianhertzog.com](https://www.brianhertzog.com)
  - date published: 2023-12-24T18:30:50.349253+00:00
+ - user: None
+ - tags: ['personal']
+
+## Start Here | Brian DeVries
+ - [https://brianjdevries.com](https://brianjdevries.com)
+ - date published: 2024-03-22T23:04:08.624357+00:00
  - user: None
  - tags: ['personal']
 
@@ -3085,14 +3145,14 @@
  - tags: ['site building']
 
 ## None
- - [https://www.caribpress.com](https://www.caribpress.com)
- - date published: 2024-01-09T02:31:43.727437+00:00
+ - [http://www.caribpress.com](http://www.caribpress.com)
+ - date published: 2024-02-25T15:38:05.095360+00:00
  - user: None
  - tags: []
 
 ## None
- - [http://www.caribpress.com](http://www.caribpress.com)
- - date published: 2024-02-25T15:38:05.095360+00:00
+ - [https://www.caribpress.com](https://www.caribpress.com)
+ - date published: 2024-01-09T02:31:43.727437+00:00
  - user: None
  - tags: []
 
@@ -5017,14 +5077,14 @@
  - tags: []
 
 ## Cliffle
- - [http://cliffle.com](http://cliffle.com)
- - date published: 2024-02-25T18:23:52.604762+00:00
+ - [https://cliffle.com](https://cliffle.com)
+ - date published: 2023-10-25T13:26:33.249479+00:00
  - user: None
  - tags: []
 
 ## Cliffle
- - [https://cliffle.com](https://cliffle.com)
- - date published: 2023-10-25T13:26:33.249479+00:00
+ - [http://cliffle.com](http://cliffle.com)
+ - date published: 2024-02-25T18:23:52.604762+00:00
  - user: None
  - tags: []
 
@@ -5399,14 +5459,14 @@
  - tags: []
 
 ## Blog · Codeanywhere
- - [http://blog.codeanywhere.com](http://blog.codeanywhere.com)
- - date published: 2024-01-11T00:00:00+00:00
+ - [https://blog.codeanywhere.com](https://blog.codeanywhere.com)
+ - date published: 2023-10-25T13:27:59.137947+00:00
  - user: None
  - tags: []
 
 ## Blog · Codeanywhere
- - [https://blog.codeanywhere.com](https://blog.codeanywhere.com)
- - date published: 2023-10-25T13:27:59.137947+00:00
+ - [http://blog.codeanywhere.com](http://blog.codeanywhere.com)
+ - date published: 2024-01-11T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5948,66 +6008,6 @@
 ## Free, Fully Customizable Apps, Widgets & Plugins | Common Ninja
  - [https://cdn.commoninja.com](https://cdn.commoninja.com)
  - date published: 2023-12-11T16:56:48.147087+00:00
- - user: None
- - tags: []
-
-## CommonsWare
- - [https://commonsware.com](https://commonsware.com)
- - date published: 2023-11-18T17:28:00.877085+00:00
- - user: None
- - tags: []
-
-## Commsrisk | The information exchange for communication risk
- - [https://commsrisk.com](https://commsrisk.com)
- - date published: 2023-10-25T13:31:48.140145+00:00
- - user: None
- - tags: []
-
-## Telecom News - CommsUpdate :   5 Jan 2024
- - [https://www.commsupdate.com](https://www.commsupdate.com)
- - date published: 2024-01-05T20:54:36.121943+00:00
- - user: None
- - tags: []
-
-## Compact Mag
- - [https://compactmag.com](https://compactmag.com)
- - date published: 2023-10-25T13:32:08.062307+00:00
- - user: None
- - tags: []
-
-## Companies ranked by Market Cap - CompaniesMarketCap.com
- - [https://companiesmarketcap.com](https://companiesmarketcap.com)
- - date published: 2023-10-25T13:32:11.154630+00:00
- - user: None
- - tags: []
-
-## Compaq
- - [https://www.compaq.com](https://www.compaq.com)
- - date published: 2023-10-25T13:32:11.836021+00:00
- - user: None
- - tags: []
-
-## Compare Mobile Phone Deals & Contracts - CompareDial
- - [https://www.comparedial.com](https://www.comparedial.com)
- - date published: 2023-10-25T13:32:13.613388+00:00
- - user: None
- - tags: []
-
-## Comparitech
- - [https://www.comparitech.com](https://www.comparitech.com)
- - date published: 2024-02-29T00:00:00+00:00
- - user: None
- - tags: []
-
-## Compart - Customer Communication Management Company, Software Vendor, CCM Provider - Compart
- - [https://www.compart.com](https://www.compart.com)
- - date published: 2023-10-25T13:32:16.206710+00:00
- - user: None
- - tags: []
-
-## Compelling Science Fiction Newsletter
- - [https://compellingsciencefiction.com](https://compellingsciencefiction.com)
- - date published: 2023-10-25T13:32:16.715575+00:00
  - user: None
  - tags: []
 

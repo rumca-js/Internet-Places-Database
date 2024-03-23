@@ -1,3 +1,207 @@
+## SaaS Consulting, Software Consulting | Software Platform Consulting
+ - [https://www.softwareplatform.net](https://www.softwareplatform.net)
+ - date published: 2023-10-25T20:37:48.300137+00:00
+ - user: None
+ - tags: []
+
+## /dev/random > /solo/brain > /huh?
+ - [http://blog.lukasz.soluch.net](http://blog.lukasz.soluch.net)
+ - date published: 1999-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Solo's Page
+ - [https://lukasz.soluch.net](https://lukasz.soluch.net)
+ - date published: 2023-11-29T15:44:05.476820+00:00
+ - user: None
+ - tags: ['personal']
+
+## A Realistic Sword and Sorcery Tabletop RPG | Song of Swords
+ - [https://www.songofswords.net](https://www.songofswords.net)
+ - date published: 2023-10-27T12:49:50.560043+00:00
+ - user: None
+ - tags: []
+
+## Sonic Pi - The Live Coding Music Synth for Everyone
+ - [https://sonic-pi.net](https://sonic-pi.net)
+ - date published: 2023-10-25T20:37:49.779630+00:00
+ - user: None
+ - tags: []
+
+## Sony Corporation - Home
+ - [https://www.sony.net](https://www.sony.net)
+ - date published: 2023-10-25T11:29:02.084856+00:00
+ - user: None
+ - tags: []
+
+## Sorcerer's Place - Baldur's Gate 3 FAQ, RPG News, Walkthrough, Guide, Mods, Hacks, Cheats, Icewind Dale, Neverwinter Nights, Dragon Age, Wizardry
+ - [https://sorcerers.net](https://sorcerers.net)
+ - date published: 1999-10-25T11:18:08+00:00
+ - user: rumpel
+ - tags: ['dungeons and dragons', "baldur's gate", 'video game news']
+
+## ArcEm - The Acorn Archimedes Emulator
+ - [https://arcem.sourceforge.net](https://arcem.sourceforge.net)
+ - date published: 2023-10-25T20:37:50.814944+00:00
+ - user: None
+ - tags: []
+
+## AROS Research Operating System
+ - [https://aros.sourceforge.net](https://aros.sourceforge.net)
+ - date published: 2023-11-02T09:53:42.231278+00:00
+ - user: None
+ - tags: ['amiga', 'operating system']
+
+## Justin Bieber Linux
+ - [https://biebian.sourceforge.net](https://biebian.sourceforge.net)
+ - date published: 2023-12-22T19:25:55+00:00
+ - user: rumpel
+ - tags: ['operating system']
+
+## CvsGui
+ - [https://cvsgui.sourceforge.net](https://cvsgui.sourceforge.net)
+ - date published: 2024-03-04T12:04:48+00:00
+ - user: rumpel
+ - tags: []
+
+## Gambas - Gambas Almost Means Basic
+ - [https://gambas.sourceforge.net](https://gambas.sourceforge.net)
+ - date published: 2023-10-25T20:37:51.440690+00:00
+ - user: None
+ - tags: []
+
+## Hannah Montana Linux
+ - [https://hannahmontana.sourceforge.net](https://hannahmontana.sourceforge.net)
+ - date published: 2023-12-22T14:14:11+00:00
+ - user: None
+ - tags: []
+
+## Judy Arrays Web Page
+ - [https://judy.sourceforge.net](https://judy.sourceforge.net)
+ - date published: 2023-10-25T08:31:18.433251+00:00
+ - user: None
+ - tags: []
+
+## JXL
+ - [https://jxl.sourceforge.net](https://jxl.sourceforge.net)
+ - date published: 2024-02-08T22:50:52.385713+00:00
+ - user: None
+ - tags: []
+
+## Luke Stackwalker home page
+ - [https://lukestackwalker.sourceforge.net](https://lukestackwalker.sourceforge.net)
+ - date published: 2024-01-09T13:20:31+00:00
+ - user: rumpel
+ - tags: ['code profiler']
+
+## Sodipodi
+ - [https://sodipodi.sourceforge.net](https://sodipodi.sourceforge.net)
+ - date published: 2024-01-09T03:36:16.772128+00:00
+ - user: None
+ - tags: []
+
+## Compare, Download & Develop Open Source & Business Software - SourceForge
+ - [http://sourceforge.net](http://sourceforge.net)
+ - date published: 2024-02-26T13:07:23.973035+00:00
+ - user: None
+ - tags: []
+
+## Compare, Download & Develop Open Source & Business Software - SourceForge
+ - [https://sourceforge.net](https://sourceforge.net)
+ - date published: 2023-10-25T08:41:02.286459+00:00
+ - user: rumpel
+ - tags: ['software platform', 'open source']
+
+## Thinking Forth
+ - [https://thinking-forth.sourceforge.net](https://thinking-forth.sourceforge.net)
+ - date published: 2023-10-25T20:37:52.312115+00:00
+ - user: None
+ - tags: []
+
+## Yorick is an interpreted programming language for scientific simulations
+ - [https://yorick.sourceforge.net](https://yorick.sourceforge.net)
+ - date published: 2023-11-03T21:00:01+00:00
+ - user: None
+ - tags: []
+
+## southeastmarketing.net
+ - [http://southeastmarketing.net](http://southeastmarketing.net)
+ - date published: 2024-02-23T06:57:28.805621+00:00
+ - user: None
+ - tags: []
+
+## https://sovinform.net
+ - [https://sovinform.net](https://sovinform.net)
+ - date published: 2023-10-25T20:37:53.833050+00:00
+ - user: None
+ - tags: []
+
+## Space: 1999 Catacombs- Guides, Scripts, Analysis
+ - [https://catacombs.space1999.net](https://catacombs.space1999.net)
+ - date published: 2023-10-31T22:37:27.873348+00:00
+ - user: None
+ - tags: []
+
+## Space Rogue
+ - [https://www.spacerogue.net](https://www.spacerogue.net)
+ - date published: 2023-10-25T20:37:55.002608+00:00
+ - user: None
+ - tags: []
+
+## renegat0x0 site
+ - [https://a.spolecznosci.net](https://a.spolecznosci.net)
+ - date published: 2024-01-09T03:36:23.568106+00:00
+ - user: None
+ - tags: []
+
+## Pieter Spronck
+ - [https://www.spronck.net](https://www.spronck.net)
+ - date published: 2023-10-25T08:54:07.792417+00:00
+ - user: None
+ - tags: ['personal']
+
+## intro
+ - [https://srobb.net](https://srobb.net)
+ - date published: 2023-10-25T20:37:57.343748+00:00
+ - user: None
+ - tags: []
+
+## SSHGuard
+ - [https://www.sshguard.net](https://www.sshguard.net)
+ - date published: 2023-10-25T20:37:58.024063+00:00
+ - user: None
+ - tags: []
+
+## Stachu.NET
+ - [https://stachu.net](https://stachu.net)
+ - date published: 2024-03-12T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Status
+ - [https://www.stackstatus.net](https://www.stackstatus.net)
+ - date published: 2023-10-25T20:37:58.860480+00:00
+ - user: None
+ - tags: []
+
+## Home
+ - [https://stacybias.net](https://stacybias.net)
+ - date published: 2024-02-13T18:10:25.621491+00:00
+ - user: None
+ - tags: ['personal']
+
+## Starcraft Resources, Gadgets, Videos, Stores and more at StarcraftWire.net | Live in the Starcraft World
+ - [https://www.starcraftwire.net](https://www.starcraftwire.net)
+ - date published: 2023-10-25T11:51:20.910250+00:00
+ - user: None
+ - tags: []
+
+## Stardew Valley
+ - [https://www.stardewvalley.net](https://www.stardewvalley.net)
+ - date published: 2024-03-20T00:42:55.285503+00:00
+ - user: None
+ - tags: ['video game']
+
 ## None
  - [https://www.staredit.net](https://www.staredit.net)
  - date published: 2024-01-09T02:22:53.342424+00:00
@@ -707,14 +911,14 @@
  - tags: ['personal']
 
 ## Stefan Hajnoczi
- - [https://blog.vmsplice.net](https://blog.vmsplice.net)
- - date published: 2024-01-03T01:08:14.621014+00:00
+ - [http://blog.vmsplice.net](http://blog.vmsplice.net)
+ - date published: 2024-01-25T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Stefan Hajnoczi
- - [http://blog.vmsplice.net](http://blog.vmsplice.net)
- - date published: 2024-01-25T00:00:00+00:00
+ - [https://blog.vmsplice.net](https://blog.vmsplice.net)
+ - date published: 2024-01-03T01:08:14.621014+00:00
  - user: None
  - tags: []
 
@@ -907,6 +1111,12 @@
 ## Game of Thrones news, gossip, videos, photos and more
  - [https://winteriscoming.net](https://winteriscoming.net)
  - date published: 2023-10-25T14:35:47.772859+00:00
+ - user: None
+ - tags: []
+
+## Show HN: magick.css – Minimalist CSS for Wizards
+ - [https://css.winterveil.net](https://css.winterveil.net)
+ - date published: 2024-03-22T18:43:12+00:00
  - user: None
  - tags: []
 
@@ -3282,14 +3492,14 @@ marginalia.nu
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3696,16 +3906,16 @@ marginalia.nu
  - tags: []
 
 ## AlxQ
- - [https://alxq.org](https://alxq.org)
- - date published: 2024-02-15T22:12:28.937827+00:00
- - user: None
- - tags: ['demoscene']
-
-## AlxQ
  - [http://alxq.org](http://alxq.org)
  - date published: 2024-02-11T13:39:19.641138+00:00
  - user: None
  - tags: []
+
+## AlxQ
+ - [https://alxq.org](https://alxq.org)
+ - date published: 2024-02-15T22:12:28.937827+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Alys Stephens Center - Home
  - [https://www.alysstephens.org](https://www.alysstephens.org)
@@ -4289,17 +4499,17 @@ marginalia.nu
  - user: None
  - tags: []
 
-## Internet Archive: Secret service
- - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
- - date published: 2023-10-27T14:37:50+00:00
- - user: rumpel
- - tags: ['retro', 'magazine']
-
 ## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
  - [https://archive.org](https://archive.org)
  - date published: 2023-10-25T09:29:04.093943+00:00
  - user: None
  - tags: ['internet archive']
+
+## Internet Archive: Secret service
+ - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
+ - date published: 2023-10-27T14:37:50+00:00
+ - user: rumpel
+ - tags: ['retro', 'magazine']
 
 ## Internet Archive Blogs | A blog from the team at archive.org
  - [https://blog.archive.org](https://blog.archive.org)
@@ -4406,14 +4616,14 @@ marginalia.nu
  - tags: []
 
 ## Archiveteam
- - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
- - date published: 2023-11-25T06:19:37.367056+00:00
+ - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Archiveteam
- - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
+ - date published: 2023-11-25T06:19:37.367056+00:00
  - user: None
  - tags: []
 
@@ -5790,222 +6000,4 @@ marginalia.nu
  - date published: 2023-10-25T21:06:46.268573+00:00
  - user: None
  - tags: []
-
-## The CentOS Project
- - [https://www.centos.org](https://www.centos.org)
- - date published: 2023-11-06T10:09:56.671715+00:00
- - user: None
- - tags: ['operating system', 'linux']
-
-## CenturyLife.Org
- - [https://www.centurylife.org](https://www.centurylife.org)
- - date published: 2023-12-17T22:22:58.924278+00:00
- - user: None
- - tags: []
-
-## Center for European Policy Analysis (CEPA) - CEPA
- - [https://cepa.org](https://cepa.org)
- - date published: 2023-10-25T21:06:48.710710+00:00
- - user: None
- - tags: []
-
-## Home | CEPR
- - [https://cepr.org](https://cepr.org)
- - date published: 2023-10-25T21:06:56.328532+00:00
- - user: None
- - tags: []
-
-## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [https://blog.cerowrt.org](https://blog.cerowrt.org)
- - date published: 2023-10-25T21:06:57.314728+00:00
- - user: None
- - tags: []
-
-## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
- - [http://blog.cerowrt.org](http://blog.cerowrt.org)
- - date published: 2024-02-25T15:50:51.524978+00:00
- - user: None
- - tags: []
-
-## CERT Vulnerability Notes Database
- - [https://kb.cert.org](https://kb.cert.org)
- - date published: 2023-10-25T21:06:59.207138+00:00
- - user: None
- - tags: []
-
-## CEUR-WS.org - CEUR Workshop Proceedings (free, open-access publishing, computer science/information systems)
- - [https://ceur-ws.org](https://ceur-ws.org)
- - date published: 2023-12-11T00:38:50.835707+00:00
- - user: None
- - tags: []
-
-## C-Fam
- - [https://c-fam.org](https://c-fam.org)
- - date published: 2023-10-25T21:04:54.162943+00:00
- - user: None
- - tags: []
-
-## Council on Foreign Relations
- - [https://www.cfr.org](https://www.cfr.org)
- - date published: 2023-10-25T21:07:05.491330+00:00
- - user: None
- - tags: ['new world order']
-
-## https://www.cghjournal.org
- - [https://www.cghjournal.org](https://www.cghjournal.org)
- - date published: 2023-11-19T19:55:05.210367+00:00
- - user: None
- - tags: []
-
-## Chad Lines
- - [https://www.chadl.org](https://www.chadl.org)
- - date published: 2023-12-01T10:47:07.586649+00:00
- - user: None
- - tags: ['personal']
-
-## Chalkbeat
- - [https://www.chalkbeat.org](https://www.chalkbeat.org)
- - date published: 2024-02-24T09:59:30.690080+00:00
- - user: None
- - tags: []
-
-## Welcome to Chandoo.org - Learn Excel, Charting Online
- - [https://chandoo.org](https://chandoo.org)
- - date published: 2023-11-29T15:15:17.820653+00:00
- - user: None
- - tags: ['personal']
-
-## The world’s platform for change
- - [https://www.change.org](https://www.change.org)
- - date published: 2024-03-04T14:15:12.606152+00:00
- - user: None
- - tags: []
-
-## Chapel: Productive Parallel Programming
- - [https://chapel-lang.org](https://chapel-lang.org)
- - date published: 2023-10-25T21:07:07.375203+00:00
- - user: None
- - tags: []
-
-## Cierpliwości...
- - [https://chargie.org](https://chargie.org)
- - date published: 2024-03-03T11:37:08.340977+00:00
- - user: None
- - tags: []
-
-## Charity Ratings | America's Most Independent, Assertive Charity Watchdog | CharityWatch
- - [https://www.charitywatch.org](https://www.charitywatch.org)
- - date published: 2024-02-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Charts.css
- - [https://chartscss.org](https://chartscss.org)
- - date published: 2023-10-25T21:07:09.548781+00:00
- - user: None
- - tags: []
-
-## The Cheapskate's Guide to Computers and the Internet
- - [https://cheapskatesguide.org](https://cheapskatesguide.org)
- - date published: 2023-10-25T21:07:11.276610+00:00
- - user: None
- - tags: []
-
-## Check My Ads Institute | Adtech Watchdog
- - [https://checkmyads.org](https://checkmyads.org)
- - date published: 2023-10-25T21:07:12.324867+00:00
- - user: None
- - tags: []
-
-## Children's Health Defense • Help Children’s Health Defense and RFK, Jr. end the epidemic of poor health plaguing our children.
- - [https://childrenshealthdefense.org](https://childrenshealthdefense.org)
- - date published: 2023-10-25T21:07:23.108077+00:00
- - user: None
- - tags: []
-
-## Chimera Linux
- - [https://chimera-linux.org](https://chimera-linux.org)
- - date published: 2023-12-16T20:45:35+00:00
- - user: None
- - tags: []
-
-## ChimeraOS
- - [https://chimeraos.org](https://chimeraos.org)
- - date published: 2023-10-25T08:34:38.580113+00:00
- - user: None
- - tags: []
-
-## The Greater China Journal  – The Greater China Journal
- - [https://china-journal.org](https://china-journal.org)
- - date published: 2023-10-25T21:07:26.320813+00:00
- - user: None
- - tags: []
-
-## ChipMusic.org
- - [https://chipmusic.org](https://chipmusic.org)
- - date published: 2023-10-28T18:53:32.192644+00:00
- - user: None
- - tags: ['chiptune']
-
-## Chicago Public Library
- - [https://www.chipublib.org](https://www.chipublib.org)
- - date published: 2023-12-03T17:58:38.708217+00:00
- - user: None
- - tags: []
-
-## Chocolate Doom
- - [https://www.chocolate-doom.org](https://www.chocolate-doom.org)
- - date published: 2023-10-25T21:07:27.565962+00:00
- - user: None
- - tags: []
-
-## Saving Rural Hospitals - The Crisis in Rural Health Care
- - [https://ruralhospitals.chqpr.org](https://ruralhospitals.chqpr.org)
- - date published: 2023-10-25T21:07:30.408857+00:00
- - user: None
- - tags: []
-
-## Welcome
- - [https://chrisbrooks.org](https://chrisbrooks.org)
- - date published: 2024-01-15T22:21:28.701192+00:00
- - user: None
- - tags: []
-
-## Home | Christ Church bangkok
- - [https://www.christchurchbangkok.org](https://www.christchurchbangkok.org)
- - date published: 2024-02-08T22:16:29.744287+00:00
- - user: None
- - tags: []
-
-## Christian History Institute
- - [https://christianhistoryinstitute.org](https://christianhistoryinstitute.org)
- - date published: 2023-11-27T12:24:53+00:00
- - user: rumpel
- - tags: ['christian']
-
-## Chromium Blog
- - [https://blog.chromium.org](https://blog.chromium.org)
- - date published: 2023-10-25T21:07:36.663177+00:00
- - user: None
- - tags: []
-
-## Monorail - 
- 
- 
- 
- 
- 
- 
- 
- Monorail
- - [https://bugs.chromium.org](https://bugs.chromium.org)
- - date published: 2023-10-25T21:07:37.503432+00:00
- - user: None
- - tags: []
-
-## ChromeDriver - WebDriver for Chrome
- - [https://chromedriver.chromium.org](https://chromedriver.chromium.org)
- - date published: 2024-01-17T07:29:45+00:00
- - user: rumpel
- - tags: ['webdriver', 'chrome']
 

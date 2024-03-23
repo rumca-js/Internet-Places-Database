@@ -1,3 +1,93 @@
+## Paul Onteri
+ - [https://paulonteri.com](https://paulonteri.com)
+ - date published: 2023-12-12T07:04:24.427551+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paul Pedrazzi
+ - [https://paulpedrazzi.com](https://paulpedrazzi.com)
+ - date published: 2023-12-22T17:48:50.877726+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paul Plowman
+ - [https://paulplowman.com](https://paulplowman.com)
+ - date published: 2023-10-25T16:31:26.762919+00:00
+ - user: None
+ - tags: []
+
+## Official Website | Paul Riddick
+ - [https://paulriddick.com](https://paulriddick.com)
+ - date published: 2024-01-04T08:12:08.288915+00:00
+ - user: None
+ - tags: []
+
+## Paul Robert Lloyd
+ - [https://paulrobertlloyd.com](https://paulrobertlloyd.com)
+ - date published: 2023-10-25T16:31:27.499225+00:00
+ - user: None
+ - tags: []
+
+## Paul's Down-Home Page | If you're reading it, it's for you
+ - [https://paulrobichaux.com](https://paulrobichaux.com)
+ - date published: 2023-12-15T11:15:24.587650+00:00
+ - user: None
+ - tags: ['personal']
+
+## Technology, Design and Photography — PaulStamatiou.com
+ - [https://paulstamatiou.com](https://paulstamatiou.com)
+ - date published: 2023-10-25T09:26:02.596314+00:00
+ - user: None
+ - tags: ['personal']
+
+## Paul Sufka M.D.
+ - [https://paulsufka.com](https://paulsufka.com)
+ - date published: 2023-12-03T15:55:12.196062+00:00
+ - user: None
+ - tags: ['personal']
+
+## Pauls Valley
+ - [https://www.paulsvalley.com](https://www.paulsvalley.com)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Pavel Panchekha
+ - [https://pavpanchekha.com](https://pavpanchekha.com)
+ - date published: 2023-10-25T16:31:28.802817+00:00
+ - user: None
+ - tags: []
+
+## Rails, PostgreSQL Performance Audit and Tuning Consultant for Hire
+ - [https://pawelurbanek.com](https://pawelurbanek.com)
+ - date published: 2023-10-25T16:31:35.547056+00:00
+ - user: None
+ - tags: []
+
+## P.O.D. | The Official Website
+ - [https://payableondeath.com](https://payableondeath.com)
+ - date published: 2023-10-30T15:39:18.619441+00:00
+ - user: None
+ - tags: ['music band']
+
+## Paychex: Payroll & HR Solutions
+ - [https://www.paychex.com](https://www.paychex.com)
+ - date published: 2023-10-25T16:31:40.359186+00:00
+ - user: None
+ - tags: []
+
+## Payload - We cover the business and policy of space.
+ - [https://payloadspace.com](https://payloadspace.com)
+ - date published: 2023-10-25T16:31:46.185011+00:00
+ - user: None
+ - tags: []
+
+## E-płatności, wysyłaj pieniądze i akceptuj płatności | PayPal PL
+ - [https://www.paypal.com](https://www.paypal.com)
+ - date published: 2023-10-25T08:26:52.063948+00:00
+ - user: None
+ - tags: ['banking']
+
 ## 403
  - [https://www.paypalobjects.com](https://www.paypalobjects.com)
  - date published: 2023-10-25T16:31:48.214530+00:00
@@ -281,14 +371,14 @@
  - tags: ['personal']
 
 ## Perfection Kills
- - [https://perfectionkills.com](https://perfectionkills.com)
- - date published: 2024-01-09T02:46:05.195684+00:00
+ - [http://perfectionkills.com](http://perfectionkills.com)
+ - date published: 2015-11-04T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Perfection Kills
- - [http://perfectionkills.com](http://perfectionkills.com)
- - date published: 2015-11-04T00:00:00+00:00
+ - [https://perfectionkills.com](https://perfectionkills.com)
+ - date published: 2024-01-09T02:46:05.195684+00:00
  - user: None
  - tags: []
 
@@ -607,6 +697,12 @@
 ## Pete Warden's blog
  - [https://petewarden.com](https://petewarden.com)
  - date published: 2023-10-25T16:33:30.171466+00:00
+ - user: None
+ - tags: []
+
+## Programmable Open Source Robot Dog & Cat, Robotics Kits | Petoi
+ - [https://www.petoi.com](https://www.petoi.com)
+ - date published: 2024-03-09T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -1766,13 +1862,13 @@
  - tags: []
 
 ## Considerations on Codecrafting
- - [http://blog.polybdenum.com](http://blog.polybdenum.com)
+ - [https://blog.polybdenum.com](https://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Considerations on Codecrafting
- - [https://blog.polybdenum.com](https://blog.polybdenum.com)
+ - [http://blog.polybdenum.com](http://blog.polybdenum.com)
  - date published: 2024-01-17T00:00:00+00:00
  - user: None
  - tags: []
@@ -2771,7 +2867,7 @@
  - [https://www.psx-place.com](https://www.psx-place.com)
  - date published: 2023-10-25T09:34:56.045667+00:00
  - user: None
- - tags: []
+ - tags: ['hardware hacking', 'playstation portable', 'reverse engineering']
 
 ## OSF
  - [https://psyarxiv.com](https://psyarxiv.com)
@@ -2960,14 +3056,14 @@
  - tags: []
 
 ## Pushbullet Blog
- - [https://blog.pushbullet.com](https://blog.pushbullet.com)
- - date published: 2023-10-25T16:42:28.991402+00:00
+ - [http://blog.pushbullet.com](http://blog.pushbullet.com)
+ - date published: 2022-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Pushbullet Blog
- - [http://blog.pushbullet.com](http://blog.pushbullet.com)
- - date published: 2022-01-01T00:00:00+00:00
+ - [https://blog.pushbullet.com](https://blog.pushbullet.com)
+ - date published: 2023-10-25T16:42:28.991402+00:00
  - user: None
  - tags: []
 
@@ -3678,14 +3774,14 @@
  - tags: ['personal']
 
 ## Reginald Braithwaite
- - [https://raganwald.com](https://raganwald.com)
- - date published: 2023-10-25T16:45:15.488174+00:00
+ - [http://raganwald.com](http://raganwald.com)
+ - date published: 2016-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Reginald Braithwaite
- - [http://raganwald.com](http://raganwald.com)
- - date published: 2016-01-01T00:00:00+00:00
+ - [https://raganwald.com](https://raganwald.com)
+ - date published: 2023-10-25T16:45:15.488174+00:00
  - user: None
  - tags: []
 
@@ -3979,16 +4075,16 @@ More!
  - tags: []
 
 ## Ravenfeast
- - [https://www.ravenfeast.com](https://www.ravenfeast.com)
- - date published: 2024-03-01T09:41:52+00:00
- - user: rumpel
- - tags: ['tabletop games', 'wargames']
-
-## Ravenfeast
  - [http://www.ravenfeast.com](http://www.ravenfeast.com)
  - date published: 2024-03-01T18:35:27.406553+00:00
  - user: None
  - tags: []
+
+## Ravenfeast
+ - [https://www.ravenfeast.com](https://www.ravenfeast.com)
+ - date published: 2024-03-01T09:41:52+00:00
+ - user: rumpel
+ - tags: ['tabletop games', 'wargames']
 
 ## https://www.ravensoft.com
  - [https://www.ravensoft.com](https://www.ravensoft.com)
@@ -4380,6 +4476,12 @@ More!
  - user: None
  - tags: []
 
+## reddit
+ - [https://new.reddit.com](https://new.reddit.com)
+ - date published: 2024-03-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## reddit: the front page of the internet
  - [https://old.reddit.com](https://old.reddit.com)
  - date published: 2023-10-24T20:16:40.762854+00:00
@@ -4405,14 +4507,14 @@ More!
  - tags: []
 
 ## reddit
- - [https://www.reddit.com](https://www.reddit.com)
- - date published: 2023-10-24T20:16:46.235665+00:00
+ - [http://www.reddit.com](http://www.reddit.com)
+ - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
 
 ## reddit
- - [http://www.reddit.com](http://www.reddit.com)
- - date published: 2024-02-20T00:00:00+00:00
+ - [https://www.reddit.com](https://www.reddit.com)
+ - date published: 2023-10-24T20:16:46.235665+00:00
  - user: None
  - tags: []
 
@@ -4459,14 +4561,14 @@ More!
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [https://www.reddit-stream.com](https://www.reddit-stream.com)
- - date published: 2023-11-01T21:08:19.834690+00:00
+ - [http://www.reddit-stream.com](http://www.reddit-stream.com)
+ - date published: 2023-12-23T19:30:18.252561+00:00
  - user: None
  - tags: []
 
 ## reddit-stream - a better way to view live reddit threads
- - [http://www.reddit-stream.com](http://www.reddit-stream.com)
- - date published: 2023-12-23T19:30:18.252561+00:00
+ - [https://www.reddit-stream.com](https://www.reddit-stream.com)
+ - date published: 2023-11-01T21:08:19.834690+00:00
  - user: None
  - tags: []
 
@@ -5455,16 +5557,16 @@ More!
  - tags: []
 
 ## Ken Shirriff's blog
- - [https://www.righto.com](https://www.righto.com)
- - date published: 2023-10-25T16:51:33.313104+00:00
- - user: None
- - tags: ['blog', 'personal']
-
-## Ken Shirriff's blog
  - [http://www.righto.com](http://www.righto.com)
  - date published: 2024-02-25T00:44:48.796985+00:00
  - user: None
  - tags: []
+
+## Ken Shirriff's blog
+ - [https://www.righto.com](https://www.righto.com)
+ - date published: 2023-10-25T16:51:33.313104+00:00
+ - user: None
+ - tags: ['blog', 'personal']
 
 ## Oil & Gas Jobs and News.  Rigzone Empowers Professionals in Oil and Gas | Rigzone
  - [https://www.rigzone.com](https://www.rigzone.com)
@@ -5903,106 +6005,4 @@ More!
  - date published: 2023-10-25T16:53:01.002506+00:00
  - user: None
  - tags: []
-
-## Roblox
- - [https://roblox.com](https://roblox.com)
- - date published: 2023-10-25T11:09:56.980219+00:00
- - user: None
- - tags: ['game']
-
-## Robo News From RoboDaily.Com
- - [https://www.robodaily.com](https://www.robodaily.com)
- - date published: 2023-10-25T16:53:03.982109+00:00
- - user: None
- - tags: []
-
-## Roboflow Blog
- - [https://blog.roboflow.com](https://blog.roboflow.com)
- - date published: 2023-10-25T16:53:06.727936+00:00
- - user: None
- - tags: []
-
-## Roboflow: Give your software the power to see objects in images and video
- - [https://roboflow.com](https://roboflow.com)
- - date published: 2023-10-25T16:53:10.075984+00:00
- - user: None
- - tags: []
-
-## Welcome to Robotics 24/7
- - [https://www.robotics247.com](https://www.robotics247.com)
- - date published: 2024-02-07T00:00:00+00:00
- - user: None
- - tags: []
-
-## Robotics & Automation News
- - [https://roboticsandautomationnews.com](https://roboticsandautomationnews.com)
- - date published: 2023-10-28T20:26:19.183824+00:00
- - user: None
- - tags: ['science news', 'tech news']
-
-## Robotistan | Elektronik Malzeme Marketi Online Satış
- - [https://www.robotistan.com](https://www.robotistan.com)
- - date published: 2023-10-28T20:23:27.625647+00:00
- - user: None
- - tags: []
-
-## Robots In Plain English
- - [https://robotsinplainenglish.com](https://robotsinplainenglish.com)
- - date published: 2023-10-25T16:53:16.564590+00:00
- - user: None
- - tags: []
-
-## Rob Tatman
- - [https://www.robtatman.com](https://www.robtatman.com)
- - date published: 2024-02-08T05:45:03.430818+00:00
- - user: None
- - tags: ['personal']
-
-## Rob Weidner | Low-Code Systems and Automation Specialist
- - [https://www.robweidner.com](https://www.robweidner.com)
- - date published: 2024-01-07T11:03:26.562479+00:00
- - user: None
- - tags: []
-
-## Rob Zombie | The Official Rob Zombie Website
- - [https://www.robzombie.com](https://www.robzombie.com)
- - date published: 2023-11-13T10:44:05.077165+00:00
- - user: None
- - tags: ['music band']
-
-## Roche - Doing now what patients need next
- - [https://www.roche.com](https://www.roche.com)
- - date published: 2023-10-25T11:28:31.400112+00:00
- - user: None
- - tags: []
-
-## Rock and Null
- - [https://www.rockandnull.com](https://www.rockandnull.com)
- - date published: 2023-10-25T09:35:02.949216+00:00
- - user: None
- - tags: []
-
-## https://www.rockefellercenter.com
- - [https://www.rockefellercenter.com](https://www.rockefellercenter.com)
- - date published: 2024-02-09T07:42:27+00:00
- - user: rumpel
- - tags: ['tourism']
-
-## Rocket 9 Labs
- - [https://rocket9labs.com](https://rocket9labs.com)
- - date published: 2023-10-25T09:26:03.860837+00:00
- - user: None
- - tags: ['personal']
-
-## Rocket Money - Take control of your money
- - [https://rocketmoney.com](https://rocketmoney.com)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Rock Informer - Rock Music News, Reviews, Videos
- - [https://rockinformer.com](https://rockinformer.com)
- - date published: 2023-12-24T18:53:19.977744+00:00
- - user: None
- - tags: ['music']
 

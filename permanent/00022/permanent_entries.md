@@ -1,3 +1,221 @@
+## The CentOS Project
+ - [https://www.centos.org](https://www.centos.org)
+ - date published: 2023-11-06T10:09:56.671715+00:00
+ - user: None
+ - tags: ['operating system', 'linux']
+
+## CenturyLife.Org
+ - [https://www.centurylife.org](https://www.centurylife.org)
+ - date published: 2023-12-17T22:22:58.924278+00:00
+ - user: None
+ - tags: []
+
+## Center for European Policy Analysis (CEPA) - CEPA
+ - [https://cepa.org](https://cepa.org)
+ - date published: 2023-10-25T21:06:48.710710+00:00
+ - user: None
+ - tags: []
+
+## Home | CEPR
+ - [https://cepr.org](https://cepr.org)
+ - date published: 2023-10-25T21:06:56.328532+00:00
+ - user: None
+ - tags: []
+
+## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
+ - [http://blog.cerowrt.org](http://blog.cerowrt.org)
+ - date published: 2024-02-25T15:50:51.524978+00:00
+ - user: None
+ - tags: []
+
+## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
+ - [https://blog.cerowrt.org](https://blog.cerowrt.org)
+ - date published: 2023-10-25T21:06:57.314728+00:00
+ - user: None
+ - tags: []
+
+## CERT Vulnerability Notes Database
+ - [https://kb.cert.org](https://kb.cert.org)
+ - date published: 2023-10-25T21:06:59.207138+00:00
+ - user: None
+ - tags: []
+
+## CEUR-WS.org - CEUR Workshop Proceedings (free, open-access publishing, computer science/information systems)
+ - [https://ceur-ws.org](https://ceur-ws.org)
+ - date published: 2023-12-11T00:38:50.835707+00:00
+ - user: None
+ - tags: []
+
+## C-Fam
+ - [https://c-fam.org](https://c-fam.org)
+ - date published: 2023-10-25T21:04:54.162943+00:00
+ - user: None
+ - tags: []
+
+## Council on Foreign Relations
+ - [https://www.cfr.org](https://www.cfr.org)
+ - date published: 2023-10-25T21:07:05.491330+00:00
+ - user: None
+ - tags: ['new world order']
+
+## https://www.cghjournal.org
+ - [https://www.cghjournal.org](https://www.cghjournal.org)
+ - date published: 2023-11-19T19:55:05.210367+00:00
+ - user: None
+ - tags: []
+
+## Chad Lines
+ - [https://www.chadl.org](https://www.chadl.org)
+ - date published: 2023-12-01T10:47:07.586649+00:00
+ - user: None
+ - tags: ['personal']
+
+## Chalkbeat
+ - [https://www.chalkbeat.org](https://www.chalkbeat.org)
+ - date published: 2024-02-24T09:59:30.690080+00:00
+ - user: None
+ - tags: []
+
+## Welcome to Chandoo.org - Learn Excel, Charting Online
+ - [https://chandoo.org](https://chandoo.org)
+ - date published: 2023-11-29T15:15:17.820653+00:00
+ - user: None
+ - tags: ['personal']
+
+## The world’s platform for change
+ - [https://www.change.org](https://www.change.org)
+ - date published: 2024-03-04T14:15:12.606152+00:00
+ - user: None
+ - tags: []
+
+## Chapel: Productive Parallel Programming
+ - [https://chapel-lang.org](https://chapel-lang.org)
+ - date published: 2023-10-25T21:07:07.375203+00:00
+ - user: None
+ - tags: []
+
+## Cierpliwości...
+ - [https://chargie.org](https://chargie.org)
+ - date published: 2024-03-03T11:37:08.340977+00:00
+ - user: None
+ - tags: []
+
+## Charity Ratings | America's Most Independent, Assertive Charity Watchdog | CharityWatch
+ - [https://www.charitywatch.org](https://www.charitywatch.org)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Charts.css
+ - [https://chartscss.org](https://chartscss.org)
+ - date published: 2023-10-25T21:07:09.548781+00:00
+ - user: None
+ - tags: []
+
+## The Cheapskate's Guide to Computers and the Internet
+ - [https://cheapskatesguide.org](https://cheapskatesguide.org)
+ - date published: 2023-10-25T21:07:11.276610+00:00
+ - user: None
+ - tags: []
+
+## Check My Ads Institute | Adtech Watchdog
+ - [https://checkmyads.org](https://checkmyads.org)
+ - date published: 2023-10-25T21:07:12.324867+00:00
+ - user: None
+ - tags: []
+
+## Children's Health Defense • Help Children’s Health Defense and RFK, Jr. end the epidemic of poor health plaguing our children.
+ - [https://childrenshealthdefense.org](https://childrenshealthdefense.org)
+ - date published: 2023-10-25T21:07:23.108077+00:00
+ - user: None
+ - tags: []
+
+## Chimera Linux
+ - [https://chimera-linux.org](https://chimera-linux.org)
+ - date published: 2023-12-16T20:45:35+00:00
+ - user: None
+ - tags: []
+
+## ChimeraOS
+ - [https://chimeraos.org](https://chimeraos.org)
+ - date published: 2023-10-25T08:34:38.580113+00:00
+ - user: None
+ - tags: []
+
+## The Greater China Journal  – The Greater China Journal
+ - [https://china-journal.org](https://china-journal.org)
+ - date published: 2023-10-25T21:07:26.320813+00:00
+ - user: None
+ - tags: []
+
+## ChipMusic.org
+ - [https://chipmusic.org](https://chipmusic.org)
+ - date published: 2023-10-28T18:53:32.192644+00:00
+ - user: None
+ - tags: ['chiptune']
+
+## Chicago Public Library
+ - [https://www.chipublib.org](https://www.chipublib.org)
+ - date published: 2023-12-03T17:58:38.708217+00:00
+ - user: None
+ - tags: []
+
+## Chocolate Doom
+ - [https://www.chocolate-doom.org](https://www.chocolate-doom.org)
+ - date published: 2023-10-25T21:07:27.565962+00:00
+ - user: None
+ - tags: []
+
+## Saving Rural Hospitals - The Crisis in Rural Health Care
+ - [https://ruralhospitals.chqpr.org](https://ruralhospitals.chqpr.org)
+ - date published: 2023-10-25T21:07:30.408857+00:00
+ - user: None
+ - tags: []
+
+## Welcome
+ - [https://chrisbrooks.org](https://chrisbrooks.org)
+ - date published: 2024-01-15T22:21:28.701192+00:00
+ - user: None
+ - tags: []
+
+## Home | Christ Church bangkok
+ - [https://www.christchurchbangkok.org](https://www.christchurchbangkok.org)
+ - date published: 2024-02-08T22:16:29.744287+00:00
+ - user: None
+ - tags: []
+
+## Christian History Institute
+ - [https://christianhistoryinstitute.org](https://christianhistoryinstitute.org)
+ - date published: 2023-11-27T12:24:53+00:00
+ - user: rumpel
+ - tags: ['christian']
+
+## Chromium Blog
+ - [https://blog.chromium.org](https://blog.chromium.org)
+ - date published: 2023-10-25T21:07:36.663177+00:00
+ - user: None
+ - tags: []
+
+## Monorail - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Monorail
+ - [https://bugs.chromium.org](https://bugs.chromium.org)
+ - date published: 2023-10-25T21:07:37.503432+00:00
+ - user: None
+ - tags: []
+
+## ChromeDriver - WebDriver for Chrome
+ - [https://chromedriver.chromium.org](https://chromedriver.chromium.org)
+ - date published: 2024-01-17T07:29:45+00:00
+ - user: rumpel
+ - tags: ['webdriver', 'chrome']
+
 ## Chromium projects
  - [https://www.chromium.org](https://www.chromium.org)
  - date published: 2024-02-22T15:21:48+00:00
@@ -845,16 +1063,16 @@
  - tags: []
 
 ## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
- - [https://cvsgui.org](https://cvsgui.org)
- - date published: 2024-03-04T12:06:02+00:00
- - user: rumpel
- - tags: ['control version system', 'program', 'open source']
-
-## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
  - [http://cvsgui.org](http://cvsgui.org)
  - date published: 2024-03-05T00:16:31.622060+00:00
  - user: None
  - tags: []
+
+## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
+ - [https://cvsgui.org](https://cvsgui.org)
+ - date published: 2024-03-04T12:06:02+00:00
+ - user: rumpel
+ - tags: ['control version system', 'program', 'open source']
 
 ## California Water Environment Association | Champions of Wastewater
  - [https://www.cwea.org](https://www.cwea.org)
@@ -3315,7 +3533,7 @@
  - [https://www.gamebrew.org](https://www.gamebrew.org)
  - date published: 2023-11-25T04:19:34.708741+00:00
  - user: None
- - tags: []
+ - tags: ['video game homebrew', 'reverse engineering']
 
 ## GameHacking.org | Home
  - [https://gamehacking.org](https://gamehacking.org)
@@ -3753,14 +3971,14 @@
  - tags: []
 
 ## GNOME Release Notes
- - [http://release.gnome.org](http://release.gnome.org)
- - date published: 2024-03-21T07:44:19.473641+00:00
+ - [https://release.gnome.org](https://release.gnome.org)
+ - date published: 2024-03-20T18:08:17.213656+00:00
  - user: None
  - tags: []
 
 ## GNOME Release Notes
- - [https://release.gnome.org](https://release.gnome.org)
- - date published: 2024-03-20T18:08:17.213656+00:00
+ - [http://release.gnome.org](http://release.gnome.org)
+ - date published: 2024-03-21T07:44:19.473641+00:00
  - user: None
  - tags: []
 
@@ -4339,7 +4557,7 @@
  - [https://hnrss.org](https://hnrss.org)
  - date published: 2023-10-25T21:28:42.854542+00:00
  - user: None
- - tags: []
+ - tags: ['hacking news', 'tech news']
 
 ## Honor Flight Nevada
  - [https://www.honorflightnv.org](https://www.honorflightnv.org)
@@ -4624,14 +4842,14 @@
  - tags: []
 
 ## IEEE Spectrum
- - [http://spectrum.ieee.org](http://spectrum.ieee.org)
- - date published: 2024-02-25T20:49:03.401404+00:00
+ - [https://spectrum.ieee.org](https://spectrum.ieee.org)
+ - date published: 2023-10-25T09:37:30.327947+00:00
  - user: None
  - tags: []
 
 ## IEEE Spectrum
- - [https://spectrum.ieee.org](https://spectrum.ieee.org)
- - date published: 2023-10-25T09:37:30.327947+00:00
+ - [http://spectrum.ieee.org](http://spectrum.ieee.org)
+ - date published: 2024-02-25T20:49:03.401404+00:00
  - user: None
  - tags: []
 
@@ -4870,16 +5088,16 @@
  - tags: []
 
 ## Draw Freely | Inkscape
- - [http://www.inkscape.org](http://www.inkscape.org)
- - date published: 2024-02-26T09:27:07.298333+00:00
- - user: None
- - tags: []
-
-## Draw Freely | Inkscape
  - [https://www.inkscape.org](https://www.inkscape.org)
  - date published: 2023-12-12T09:13:16+00:00
  - user: None
  - tags: ['vector graphics']
+
+## Draw Freely | Inkscape
+ - [http://www.inkscape.org](http://www.inkscape.org)
+ - date published: 2024-02-26T09:27:07.298333+00:00
+ - user: None
+ - tags: []
 
 ## Ink/Stitch: An open-source machine embroidery design platform based on Inkscape
  - [https://inkstitch.org](https://inkstitch.org)
@@ -5142,6 +5360,12 @@
 ## jabber.org - the original XMPP instant messaging service
  - [https://www.jabber.org](https://www.jabber.org)
  - date published: 2023-10-25T21:33:15.148967+00:00
+ - user: None
+ - tags: []
+
+## Cierpliwości...
+ - [https://www.jacc.org](https://www.jacc.org)
+ - date published: 2024-03-22T12:51:41.257207+00:00
  - user: None
  - tags: []
 
@@ -5789,220 +6013,4 @@ Hosted by Panix.com.
  - date published: 2023-01-01T00:00:00+00:00
  - user: None
  - tags: []
-
-## A kernel-based root solution for Android | KernelSU
- - [https://kernelsu.org](https://kernelsu.org)
- - date published: 2023-10-25T21:36:36.612083+00:00
- - user: None
- - tags: []
-
-## kevinspencer.org
- - [https://kevinspencer.org](https://kevinspencer.org)
- - date published: 2024-02-06T09:06:31.790460+00:00
- - user: None
- - tags: []
-
-## WordPress › Error
- - [http://blog.kevtris.org](http://blog.kevtris.org)
- - date published: 2023-10-25T21:36:37.992822+00:00
- - user: None
- - tags: []
-
-## KEXP 90.3 FM - Where the Music Matters
- - [https://kexp.org](https://kexp.org)
- - date published: 2024-01-22T12:40:00+00:00
- - user: rumpel
- - tags: ['radio', 'music']
-
-## KEXP 90.3 FM - Where the Music Matters
- - [http://kexp.org](http://kexp.org)
- - date published: 2024-02-22T16:55:15.353701+00:00
- - user: None
- - tags: []
-
-## Key to Harmony Online Al-Anon Meeting
- - [https://www.keytoharmony.org](https://www.keytoharmony.org)
- - date published: 2024-02-08T18:02:29.783200+00:00
- - user: None
- - tags: []
-
-## KFF Health News
- - [https://kffhealthnews.org](https://kffhealthnews.org)
- - date published: 2023-12-03T18:38:29.362939+00:00
- - user: None
- - tags: []
-
-## Права людини в Україні — сайт Харківської правозахисної групи
- - [https://khpg.org](https://khpg.org)
- - date published: 2023-12-19T08:14:20.221086+00:00
- - user: None
- - tags: []
-
-## The Khronos Group Inc
- - [https://www.khronos.org](https://www.khronos.org)
- - date published: 2023-10-25T21:36:40.765055+00:00
- - user: None
- - tags: []
-
-## KIANMENG.ORG
- - [https://www.kianmeng.org](https://www.kianmeng.org)
- - date published: 2024-01-27T17:53:19.855192+00:00
- - user: None
- - tags: []
-
-## Documentation | KiCad
- - [https://docs.kicad.org](https://docs.kicad.org)
- - date published: 2023-10-25T21:36:41.762036+00:00
- - user: None
- - tags: []
-
-## KiCad EDA - Schematic Capture & PCB Design Software
- - [https://www.kicad.org](https://www.kicad.org)
- - date published: 2023-10-25T21:36:43.199325+00:00
- - user: None
- - tags: []
-
-## Detexify LaTeX handwritten symbol recognition
- - [https://detexify.kirelabs.org](https://detexify.kirelabs.org)
- - date published: 2023-11-15T01:02:24.623426+00:00
- - user: None
- - tags: []
-
-## Welcome to Kiwix Server
- - [https://library.kiwix.org](https://library.kiwix.org)
- - date published: 2023-10-25T21:36:43.855326+00:00
- - user: None
- - tags: []
-
-## Kevin Kelly – Over the long term, the future is decided by optimists
- - [https://kk.org](https://kk.org)
- - date published: 2023-10-25T21:36:46.122026+00:00
- - user: None
- - tags: []
-
-## WebGPU GPT Model Demo
- - [https://www.kmeans.org](https://www.kmeans.org)
- - date published: 2023-10-25T21:36:46.471227+00:00
- - user: None
- - tags: []
-
-## Mark J. Nelson
- - [https://www.kmjn.org](https://www.kmjn.org)
- - date published: 2023-10-25T21:36:47.730721+00:00
- - user: None
- - tags: []
-
-## KMUW - Homepage | KMUW
- - [https://www.kmuw.org](https://www.kmuw.org)
- - date published: 2023-11-09T13:45:32.889287+00:00
- - user: None
- - tags: []
-
-## | Knight First Amendment Institute
- - [https://knightcolumbia.org](https://knightcolumbia.org)
- - date published: 2023-10-25T21:36:54.362080+00:00
- - user: None
- - tags: []
-
-## Knight Foundation
- - [https://knightfoundation.org](https://knightfoundation.org)
- - date published: 2023-10-25T21:37:00.753387+00:00
- - user: None
- - tags: []
-
-## KNKX Public Radio | Jazz, Blues & NPR News | KNKX Public Radio
- - [https://www.knkx.org](https://www.knkx.org)
- - date published: 2023-10-25T21:37:06.340326+00:00
- - user: None
- - tags: []
-
-## Knowable Magazine
- - [https://knowablemagazine.org](https://knowablemagazine.org)
- - date published: 2023-10-25T21:37:11.035991+00:00
- - user: None
- - tags: []
-
-## Knowing Machines
- - [https://knowingmachines.org](https://knowingmachines.org)
- - date published: 2023-10-30T22:57:52.177182+00:00
- - user: None
- - tags: []
-
-## The Gorilla Foundation – Conservation Through Communication
- - [https://www.koko.org](https://www.koko.org)
- - date published: 2024-02-24T18:06:10.787734+00:00
- - user: None
- - tags: []
-
-## Home Page of Marat Fayzullin
- - [https://fms.komkon.org](https://fms.komkon.org)
- - date published: 2023-10-25T21:37:12.156811+00:00
- - user: None
- - tags: []
-
-## Konilo: A personal computing system in Forth
- - [http://konilo.org](http://konilo.org)
- - date published: 2024-03-02T06:25:29+00:00
- - user: None
- - tags: []
-
-## Origami by Michał Kosmulski
- - [https://origami.kosmulski.org](https://origami.kosmulski.org)
- - date published: 2023-10-25T21:37:13.563028+00:00
- - user: None
- - tags: []
-
-## Kotlin Programming Language
- - [https://kotlinlang.org](https://kotlinlang.org)
- - date published: 2023-12-11T12:12:45+00:00
- - user: rumpel
- - tags: ['programming language', 'kotlin']
-
-## kottke.org feeds
- - [http://feeds.kottke.org](http://feeds.kottke.org)
- - date published: 2024-02-26T14:57:12.364327+00:00
- - user: None
- - tags: []
-
-## kottke.org - home of fine hypertext products
- - [https://kottke.org](https://kottke.org)
- - date published: 2023-10-25T09:24:05.372537+00:00
- - user: None
- - tags: ['personal']
-
-## KPBS Homepage | KPBS Public Media
- - [https://www.kpbs.org](https://www.kpbs.org)
- - date published: 2023-10-25T21:37:17.991746+00:00
- - user: None
- - tags: []
-
-## KQED | News, Radio, Podcasts, TV | Public Media for Northern California
- - [https://www.kqed.org](https://www.kqed.org)
- - date published: 2023-10-25T21:37:32.208784+00:00
- - user: None
- - tags: []
-
-## KRCL | Home
- - [https://krcl.org](https://krcl.org)
- - date published: 2024-02-24T18:10:58.378179+00:00
- - user: None
- - tags: []
-
-## Krita Fund | Digital Painting. Creative Freedom.
- - [https://fund.krita.org](https://fund.krita.org)
- - date published: 2023-10-25T21:37:38.421533+00:00
- - user: None
- - tags: []
-
-## Krita
- - [https://krita.org](https://krita.org)
- - date published: 2023-10-25T08:33:48.431626+00:00
- - user: None
- - tags: ['open source', 'program']
-
-## Krusader - Twin panel file management for your desktop
- - [https://krusader.org](https://krusader.org)
- - date published: 2023-10-30T13:59:36.700036+00:00
- - user: None
- - tags: ['krusader', 'open source', 'program']
 

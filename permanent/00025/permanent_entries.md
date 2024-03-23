@@ -1,3 +1,237 @@
+## Media Markt - sklep internetowy RTV, AGD, elektronika
+ - [https://mediamarkt.pl](https://mediamarkt.pl)
+ - date published: 2023-10-24T20:17:37.051421+00:00
+ - user: None
+ - tags: ['consumer electronic']
+
+## Zdrowie w Twoich rękach - Medonet.pl
+ - [https://www.medonet.pl](https://www.medonet.pl)
+ - date published: 2023-10-25T22:28:48.204917+00:00
+ - user: None
+ - tags: []
+
+## Memy.pl - Zbiór najlepszych memów & generator memów
+ - [https://memy.pl](https://memy.pl)
+ - date published: 2023-10-25T14:21:28.640120+00:00
+ - user: None
+ - tags: []
+
+## Closer to Code - Blog about coding in various languages, security, and my other IT adventures.
+ - [https://mensfeld.pl](https://mensfeld.pl)
+ - date published: 2023-10-25T22:28:52.063079+00:00
+ - user: None
+ - tags: []
+
+## MetalNews.pl - Portal muzyczny dla fanów metalu i rocka
+ - [https://www.metalnews.pl](https://www.metalnews.pl)
+ - date published: 2023-10-29T15:28:56.379324+00:00
+ - user: None
+ - tags: ['music news']
+
+## MiastoDzieci.pl – atrakcje dla dzieci, wydarzenia, imprezy rodzinne
+ - [https://miastodzieci.pl](https://miastodzieci.pl)
+ - date published: 2024-01-13T08:39:30+00:00
+ - user: rumpel
+ - tags: ['children', 'kids']
+
+## Gry komputerowe, gry konsolowe, gry na komórkę, gry online i sprzęt komputerowy || MiastoGier.pl - wirtualna stolica gier
+ - [https://www.miastogier.pl](https://www.miastogier.pl)
+ - date published: 2023-11-13T11:58:36.214881+00:00
+ - user: None
+ - tags: ['games', 'game news']
+
+## Fundacja Internet. Czas działać!
+ - [https://www.midline.pl](https://www.midline.pl)
+ - date published: 2023-10-25T22:28:53.829582+00:00
+ - user: None
+ - tags: []
+
+## Jacek Migdal Web Presence
+ - [https://jacek.migdal.pl](https://jacek.migdal.pl)
+ - date published: 2023-10-25T22:28:55.417897+00:00
+ - user: None
+ - tags: []
+
+## Homepage - Piotr Migdał
+ - [https://p.migdal.pl](https://p.migdal.pl)
+ - date published: 2023-10-25T09:24:21.804918+00:00
+ - user: None
+ - tags: ['personal']
+
+## Misyjne.pl - Portal chrześcijański dla ludzi z misją.
+ - [https://misyjne.pl](https://misyjne.pl)
+ - date published: 2023-10-25T10:13:22.284811+00:00
+ - user: None
+ - tags: ['christian', 'catholic']
+
+## Galeria Autorska Andrzeja Mleczki
+ - [https://mleczko.pl](https://mleczko.pl)
+ - date published: 2024-02-04T13:16:20+00:00
+ - user: rumpel
+ - tags: ['comics strips', 'cartoons']
+
+## :: modules.pl :: modules.pl
+ - [https://www.modules.pl](https://www.modules.pl)
+ - date published: 2024-02-15T22:15:22.643958+00:00
+ - user: rumpel
+ - tags: ['demoscene']
+
+## Money.pl - portal finansowy
+ - [https://www.money.pl](https://www.money.pl)
+ - date published: 2023-10-25T10:31:43.454780+00:00
+ - user: None
+ - tags: []
+
+## MorphOS.pl - Polska strona użytkowników MorphOS-a
+ - [https://morphos.pl](https://morphos.pl)
+ - date published: 2023-12-11T16:54:14.115677+00:00
+ - user: None
+ - tags: []
+
+## Medycyna Praktyczna
+ - [https://www.mp.pl](https://www.mp.pl)
+ - date published: 2023-12-11T09:38:44+00:00
+ - user: rumpel
+ - tags: ['healthcare']
+
+## Grupa MTP - lider branży spotkań w Polsce
+ - [https://www.mtp.pl](https://www.mtp.pl)
+ - date published: 2023-11-02T08:31:38.392932+00:00
+ - user: None
+ - tags: []
+
+## muno.pl
+ - [https://muno.pl](https://muno.pl)
+ - date published: 2023-11-13T12:33:03.253162+00:00
+ - user: None
+ - tags: ['music news']
+
+## Budowa domu, instalacje, wnętrza, fachowe porady - murator.pl
+ - [https://muratordom.pl](https://muratordom.pl)
+ - date published: 2023-10-25T10:45:29+00:00
+ - user: rumpel
+ - tags: ['home articles']
+
+## Czasopisma humanistyczne
+ - [https://bazhum.muzhp.pl](https://bazhum.muzhp.pl)
+ - date published: 2023-12-05T15:24:31+00:00
+ - user: rumpel
+ - tags: ['humanism']
+
+## Muzeum Historii Polski w Warszawie
+ - [https://muzhp.pl](https://muzhp.pl)
+ - date published: 2023-12-05T15:27:28+00:00
+ - user: rumpel
+ - tags: ['history', 'warsow', 'museum', 'poland']
+
+## MyCompanyPolska.pl - Strefa Ludzi Przedsiębiorczych
+ - [https://mycompanypolska.pl](https://mycompanypolska.pl)
+ - date published: 2023-10-25T22:29:04.592214+00:00
+ - user: None
+ - tags: []
+
+## Myslovitz – Oficjalna strona zespołu – ROCK HOUSE ENTERTAINMENT
+ - [https://www.myslovitz.pl](https://www.myslovitz.pl)
+ - date published: 2023-10-29T15:28:35.756499+00:00
+ - user: None
+ - tags: ['music band']
+
+## 💥Najlepsze komiksy
+ - [https://najlepszekomiksy.pl](https://najlepszekomiksy.pl)
+ - date published: 2023-12-11T12:58:56+00:00
+ - user: rumpel
+ - tags: ['comics']
+
+## NapiProjekt - program pobierający napisy do filmów.
+ - [https://www.napiprojekt.pl](https://www.napiprojekt.pl)
+ - date published: 2024-02-23T16:45:40+00:00
+ - user: rumpel
+ - tags: ['subtitles']
+
+## Napisy24.pl - wprost od tłumaczy
+ - [https://napisy24.pl](https://napisy24.pl)
+ - date published: 2024-02-23T16:46:35+00:00
+ - user: rumpel
+ - tags: ['subtitles']
+
+## NASK
+ - [https://www.nask.pl](https://www.nask.pl)
+ - date published: 2023-12-06T12:01:57+00:00
+ - user: rumpel
+ - tags: ['naukowa i akademicka sieć komputerowa', 'cybersecurity', 'organization']
+
+## Nasza Polska internetowy magazyn informacyjny
+ - [https://naszapolska.pl](https://naszapolska.pl)
+ - date published: 2024-01-09T03:44:25.873154+00:00
+ - user: None
+ - tags: []
+
+## Cierpliwości...
+ - [https://jastrzebiezdroj.naszemiasto.pl](https://jastrzebiezdroj.naszemiasto.pl)
+ - date published: 2024-02-24T01:43:11.947311+00:00
+ - user: None
+ - tags: []
+
+## naTemat.pl - informacje i opinie, którymi żyją Polacy
+ - [https://natemat.pl](https://natemat.pl)
+ - date published: 2023-11-06T22:10:38.945631+00:00
+ - user: None
+ - tags: []
+
+## National Geographic – przyroda, fotografia, nauka, ludzie, podróże, świat
+ - [https://www.national-geographic.pl](https://www.national-geographic.pl)
+ - date published: 2024-02-05T19:23:30.522432+00:00
+ - user: rumpel
+ - tags: ['science', 'nature']
+
+## Nauka o klimacie | naukaoklimacie.pl
+ - [https://naukaoklimacie.pl](https://naukaoklimacie.pl)
+ - date published: 2023-10-25T22:29:07.910756+00:00
+ - user: None
+ - tags: []
+
+## NEONET - Sklep internetowy z RTV, AGD i elektroniką
+ - [https://www.neonet.pl](https://www.neonet.pl)
+ - date published: 2023-10-24T20:17:38.296034+00:00
+ - user: None
+ - tags: []
+
+## NewsBook | Wiadomości z Polski i ze Świata
+ - [https://newsbook.pl](https://newsbook.pl)
+ - date published: 2023-10-25T22:29:12.332774+00:00
+ - user: None
+ - tags: []
+
+## NewsNaDziś - Codzienna dawka wiadomości z kraju i ze świata
+ - [https://newsnadzis.pl](https://newsnadzis.pl)
+ - date published: 2023-12-20T12:11:48.184858+00:00
+ - user: None
+ - tags: []
+
+## Newsweek - Aktualne wiadomości z Polski i ze świata
+ - [https://www.newsweek.pl](https://www.newsweek.pl)
+ - date published: 2024-01-29T01:12:22.041542+00:00
+ - user: None
+ - tags: []
+
+## Nexto.pl - ebooki, audiobooki, eprasa i książki papierowe
+ - [https://www.nexto.pl](https://www.nexto.pl)
+ - date published: 2023-10-24T20:18:46.717386+00:00
+ - user: None
+ - tags: []
+
+## Warszawa
+ - [https://warszawa.ngo.pl](https://warszawa.ngo.pl)
+ - date published: 2024-02-08T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## -- Niebezpiecznik.pl --
+ - [https://niebezpiecznik.pl](https://niebezpiecznik.pl)
+ - date published: 2023-10-25T09:38:10.310234+00:00
+ - user: None
+ - tags: ['cybersecurity news', 'tech news', 'cybersecurity']
+
 ## Niedziela.pl - Wiarygodna strona internetu
  - [https://www.niedziela.pl](https://www.niedziela.pl)
  - date published: 2023-10-25T22:29:17.230520+00:00
@@ -381,14 +615,14 @@
  - tags: []
 
 ## SCENA.ppa.pl
- - [https://scena.ppa.pl](https://scena.ppa.pl)
- - date published: 2023-12-11T17:37:50.808401+00:00
+ - [http://scena.ppa.pl](http://scena.ppa.pl)
+ - date published: 2024-02-26T12:48:30.023284+00:00
  - user: None
  - tags: []
 
 ## SCENA.ppa.pl
- - [http://scena.ppa.pl](http://scena.ppa.pl)
- - date published: 2024-02-26T12:48:30.023284+00:00
+ - [https://scena.ppa.pl](https://scena.ppa.pl)
+ - date published: 2023-12-11T17:37:50.808401+00:00
  - user: None
  - tags: []
 
@@ -471,14 +705,14 @@
  - tags: ['unabomber', 'ted kaczynski']
 
 ## Przeczywistość
- - [https://przeczywistosc.pl](https://przeczywistosc.pl)
- - date published: 2024-01-09T03:44:47.407291+00:00
+ - [http://przeczywistosc.pl](http://przeczywistosc.pl)
+ - date published: 2099-12-31T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Przeczywistość
- - [http://przeczywistosc.pl](http://przeczywistosc.pl)
- - date published: 2099-12-31T00:00:00+00:00
+ - [https://przeczywistosc.pl](https://przeczywistosc.pl)
+ - date published: 2024-01-09T03:44:47.407291+00:00
  - user: None
  - tags: []
 
@@ -2228,17 +2462,17 @@
  - user: None
  - tags: []
 
-## NOTHING
- - [https://keygen-fm.ru](https://keygen-fm.ru)
- - date published: 2024-01-09T03:45:02.388166+00:00
- - user: None
- - tags: []
-
 ## KEYGEN FM
  - [http://keygen-fm.ru](http://keygen-fm.ru)
  - date published: 2024-02-11T14:38:25.773321+00:00
  - user: None
  - tags: ['chiptune', 'keygen', 'demoscene', 'radio']
+
+## NOTHING
+ - [https://keygen-fm.ru](https://keygen-fm.ru)
+ - date published: 2024-01-09T03:45:02.388166+00:00
+ - user: None
+ - tags: []
 
 ## kiwifarms.ru
  - [https://kiwifarms.ru](https://kiwifarms.ru)
@@ -2296,16 +2530,16 @@
  - tags: []
 
 ## Radiominor.ru - на волне хорошей музыки
- - [https://radiominor.ru](https://radiominor.ru)
- - date published: 2024-02-15T22:13:56.565784+00:00
- - user: None
- - tags: ['demoscene']
-
-## Radiominor.ru - на волне хорошей музыки
  - [http://radiominor.ru](http://radiominor.ru)
  - date published: 2024-02-15T02:01:34.442306+00:00
  - user: None
  - tags: []
+
+## Radiominor.ru - на волне хорошей музыки
+ - [https://radiominor.ru](https://radiominor.ru)
+ - date published: 2024-02-15T22:13:56.565784+00:00
+ - user: None
+ - tags: ['demoscene']
 
 ## Рамблер/картинки
  - [https://images.rambler.ru](https://images.rambler.ru)
@@ -4814,15 +5048,15 @@ conflicts of interest and restore Community Trust.
  - user: None
  - tags: []
 
-## pdx.su
- - [http://pdx.su](http://pdx.su)
- - date published: 2024-01-19T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Jeff Sandberg's Blog
  - [https://pdx.su](https://pdx.su)
  - date published: 2023-10-25T22:43:21.559860+00:00
+ - user: None
+ - tags: []
+
+## pdx.su
+ - [http://pdx.su](http://pdx.su)
+ - date published: 2024-01-19T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5290,6 +5524,12 @@ conflicts of interest and restore Community Trust.
  - user: None
  - tags: ['personal']
 
+## Show HN: Esco – Your Excel AI Agent
+ - [https://analytics.saydata.tech](https://analytics.saydata.tech)
+ - date published: 2024-03-22T06:56:34+00:00
+ - user: None
+ - tags: []
+
 ## Silent Flyer – A Birdlike Drone
  - [https://www.silentflyer.tech](https://www.silentflyer.tech)
  - date published: 2023-12-30T21:04:49+00:00
@@ -5621,16 +5861,16 @@ conflicts of interest and restore Community Trust.
  - tags: ['link service']
 
 ## Smart Links for Music Marketing, Podcasts and Artist Promotion | Linkfire
- - [http://ncs.lnk.to](http://ncs.lnk.to)
- - date published: 2024-02-24T10:08:44.600615+00:00
- - user: None
- - tags: ['link service']
-
-## Smart Links for Music Marketing, Podcasts and Artist Promotion | Linkfire
  - [https://ncs.lnk.to](https://ncs.lnk.to)
  - date published: 2024-01-21T19:04:24.660711+00:00
  - user: None
  - tags: []
+
+## Smart Links for Music Marketing, Podcasts and Artist Promotion | Linkfire
+ - [http://ncs.lnk.to](http://ncs.lnk.to)
+ - date published: 2024-02-24T10:08:44.600615+00:00
+ - user: None
+ - tags: ['link service']
 
 ## Smart Links for Music Marketing, Podcasts and Artist Promotion | Linkfire
  - [https://perfecthavoc.lnk.to](https://perfecthavoc.lnk.to)
@@ -5769,246 +6009,6 @@ Introduction
 ## MadeByMe
  - [https://madebyme.today](https://madebyme.today)
  - date published: 2024-01-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## Current Mood? | How are you feeling today?
- - [https://mymood.today](https://mymood.today)
- - date published: 2023-10-25T22:46:33.039028+00:00
- - user: None
- - tags: []
-
-## The Nexus Of Privacy
- - [https://privacy.thenexus.today](https://privacy.thenexus.today)
- - date published: 2023-10-25T22:46:37.019688+00:00
- - user: None
- - tags: []
-
-## What PWA Can Do Today
- - [https://whatpwacando.today](https://whatpwacando.today)
- - date published: 2024-01-08T15:10:19.003993+00:00
- - user: None
- - tags: []
-
-## What Web Can Do Today
- - [https://whatwebcando.today](https://whatwebcando.today)
- - date published: 2024-02-04T19:13:18.612782+00:00
- - user: None
- - tags: []
-
-## BGP.Tools
- - [https://bgp.tools](https://bgp.tools)
- - date published: 2023-10-25T22:46:38.621507+00:00
- - user: None
- - tags: []
-
-## Chatwith
- - [https://chatwith.tools](https://chatwith.tools)
- - date published: 2023-10-25T22:46:45.221058+00:00
- - user: None
- - tags: []
-
-## https://joel.tools
- - [https://joel.tools](https://joel.tools)
- - date published: 2024-01-09T03:48:09.171953+00:00
- - user: None
- - tags: []
-
-## Streamlit
- - [https://letterboxd.tools](https://letterboxd.tools)
- - date published: 2024-01-09T13:34:16+00:00
- - user: rumpel
- - tags: ['personal', 'movies', 'hobby']
-
-## offsec.tools - A vast collection of security tools
- - [https://offsec.tools](https://offsec.tools)
- - date published: 2023-10-25T22:46:52.530092+00:00
- - user: None
- - tags: []
-
-## seri.tools
- - [https://seri.tools](https://seri.tools)
- - date published: 2023-12-29T23:13:07.019219+00:00
- - user: None
- - tags: []
-
-## scientific.place | Less Boring Science
- - [https://students.tools](https://students.tools)
- - date published: 2023-10-25T22:46:55.076112+00:00
- - user: None
- - tags: []
-
-## Substrate
- - [https://blog.substrate.tools](https://blog.substrate.tools)
- - date published: 2024-02-15T22:32:52.018521+00:00
- - user: None
- - tags: []
-
-## Substrate improves your security, reliability and compliance on AWS.
- - [https://substrate.tools](https://substrate.tools)
- - date published: 2023-10-25T22:46:59.441732+00:00
- - user: None
- - tags: []
-
-## MejorHogar is coming soon
- - [https://mejorhogar.top](https://mejorhogar.top)
- - date published: 2024-02-25T18:36:23.082163+00:00
- - user: None
- - tags: []
-
-## Merveilles
- - [https://merveilles.town](https://merveilles.town)
- - date published: 2023-10-25T22:47:01.728750+00:00
- - user: None
- - tags: []
-
-## OSM Town | Mapstodon for OpenStreetMap
- - [https://en.osm.town](https://en.osm.town)
- - date published: 2023-10-24T20:14:44.610496+00:00
- - user: None
- - tags: ['mastodon']
-
-## taylor.town
- - [https://taylor.town](https://taylor.town)
- - date published: 2023-10-25T22:47:07.379073+00:00
- - user: None
- - tags: []
-
-## tilde.town
- - [https://tilde.town](https://tilde.town)
- - date published: 2023-12-18T01:35:46.854272+00:00
- - user: None
- - tags: ['personal']
-
-## Val Town Blog
- - [https://blog.val.town](https://blog.val.town)
- - date published: 2023-10-25T09:24:56.115382+00:00
- - user: None
- - tags: ['personal']
-
-## Val Town
- - [https://www.val.town](https://www.val.town)
- - date published: 2023-10-25T11:29:19.487818+00:00
- - user: None
- - tags: []
-
-## compute.toys
- - [https://compute.toys](https://compute.toys)
- - date published: 2023-10-25T22:47:11.996030+00:00
- - user: None
- - tags: []
-
-## DNS Toys
- - [https://www.dns.toys](https://www.dns.toys)
- - date published: 2024-01-07T07:29:21+00:00
- - user: None
- - tags: []
-
-## Anadolu Ajansı
- - [https://www.aa.com.tr](https://www.aa.com.tr)
- - date published: 2024-01-09T03:48:11.009403+00:00
- - user: None
- - tags: []
-
-## Turhost hosting altyapısında barınmaktadır.
- - [https://www.kervansarayhotels.com.tr](https://www.kervansarayhotels.com.tr)
- - date published: 2024-02-08T16:58:06.971470+00:00
- - user: None
- - tags: []
-
-## ANASAYFA | PARS SAVUNMA & HAVACILIK
- - [https://www.parssavunma.com.tr](https://www.parssavunma.com.tr)
- - date published: 2024-02-06T11:07:26+00:00
- - user: rumpel
- - tags: []
-
-## Beykoz Üniversitesi
- - [https://www.beykoz.edu.tr](https://www.beykoz.edu.tr)
- - date published: 2024-02-08T22:53:11.399835+00:00
- - user: None
- - tags: []
-
-## Eskişehir Teknik Üniversitesi - İdari ve Mali İşler Daire Başkanlığı
- - [https://imdb.eskisehir.edu.tr](https://imdb.eskisehir.edu.tr)
- - date published: 2024-02-08T16:29:27.635155+00:00
- - user: None
- - tags: []
-
-## Kalite Koordinatörlüğü
- - [https://kalite.isparta.edu.tr](https://kalite.isparta.edu.tr)
- - date published: 2024-02-08T16:47:44.515639+00:00
- - user: None
- - tags: []
-
-## MATEMATİK VE FEN BİLİMLERİ EĞİTİMİ BÖLÜMÜ
- - [https://mse.metu.edu.tr](https://mse.metu.edu.tr)
- - date published: 2024-02-08T21:48:53.202116+00:00
- - user: None
- - tags: []
-
-## Doç.Dr. Damla KÜÇÜK
- - [https://dkucuk.sakarya.edu.tr](https://dkucuk.sakarya.edu.tr)
- - date published: 2024-02-08T16:57:51.601420+00:00
- - user: None
- - tags: []
-
-## Sakarya Üniversitesi | Kütüphane ve Dokümantasyon Dairesi Başkanlığı
- - [https://kutuphane.sakarya.edu.tr](https://kutuphane.sakarya.edu.tr)
- - date published: 2024-02-08T16:27:45.731706+00:00
- - user: None
- - tags: []
-
-## YABANCI DÄ°LLER YĂśKSEKOKULU - Anasayfa
- - [https://ydyo.sivas.edu.tr](https://ydyo.sivas.edu.tr)
- - date published: 2022-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Çocuk Sağlığı ve Hastalıkları Dergisi
- - [https://www.cshd.org.tr](https://www.cshd.org.tr)
- - date published: 1999-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Container Training
- - [https://container.training](https://container.training)
- - date published: 2023-10-25T22:47:15.680138+00:00
- - user: None
- - tags: []
-
-## Hoku | The best trip planner to organize travel with friends
- - [https://hoku.travel](https://hoku.travel)
- - date published: 2023-10-25T22:47:19.285427+00:00
- - user: None
- - tags: []
-
-## Paducah Convention & Visitors Bureau | Paducah
- - [https://www.paducah.travel](https://www.paducah.travel)
- - date published: 2024-02-08T22:17:47.446693+00:00
- - user: None
- - tags: []
-
-## Dust - Secure AI assistant with your company's knowledge
- - [https://dust.tt](https://dust.tt)
- - date published: 2023-10-25T22:47:21.135871+00:00
- - user: None
- - tags: []
-
-## Texts Joins Automattic
- - [https://ma.tt](https://ma.tt)
- - date published: 2023-10-25T08:56:15.066408+00:00
- - user: None
- - tags: ['personal']
-
-## Amu TV
- - [https://amu.tv](https://amu.tv)
- - date published: 2024-01-07T13:24:26.361279+00:00
- - user: None
- - tags: []
-
-## Behind The Screens
- - [https://behind-the-screens.tv](https://behind-the-screens.tv)
- - date published: 2024-01-06T22:32:29.269877+00:00
  - user: None
  - tags: []
 
