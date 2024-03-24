@@ -1,3 +1,27 @@
+## Tim Gadanidis - Home
+ - [https://gadanidis.ca](https://gadanidis.ca)
+ - date published: 2023-10-25T08:42:54.581662+00:00
+ - user: None
+ - tags: ['personal']
+
+## National Gallery of Canada
+ - [https://www.gallery.ca](https://www.gallery.ca)
+ - date published: 2023-11-13T13:45:23.318113+00:00
+ - user: None
+ - tags: ['museum']
+
+## Global News | Breaking, Latest News and Video for Canada
+ - [https://globalnews.ca](https://globalnews.ca)
+ - date published: 2023-10-25T10:36:35.873873+00:00
+ - user: None
+ - tags: []
+
+## Home - Global ResearchGlobal Research - Centre for Research on Globalization
+ - [https://www.globalresearch.ca](https://www.globalresearch.ca)
+ - date published: 2023-10-25T12:05:13.017051+00:00
+ - user: None
+ - tags: []
+
 ## renegat0x0 site
  - [https://adservice.google.ca](https://adservice.google.ca)
  - date published: 2024-01-09T02:27:16.799302+00:00
@@ -4488,7 +4512,7 @@
  - user: rumpel
  - tags: ['rss']
 
-## Show HN: AboutIdeasNow – search /about, /ideas, /now pages of 7k+ personal sites
+## About Ideas Now | Search 1000s of personal sites
  - [https://aboutideasnow.com](https://aboutideasnow.com)
  - date published: 2024-02-26T14:39:40+00:00
  - user: None
@@ -5486,6 +5510,12 @@
  - user: None
  - tags: []
 
+## Aircraft Interiors International | interior design | cabin development news
+ - [https://www.aircraftinteriorsinternational.com](https://www.aircraftinteriorsinternational.com)
+ - date published: 2024-03-23T19:14:15.117416+00:00
+ - user: None
+ - tags: ['aviation news']
+
 ## Airdeets
  - [https://www.airdeets.com](https://www.airdeets.com)
  - date published: 2023-10-25T12:36:10.718667+00:00
@@ -5971,34 +6001,4 @@
  - date published: 2023-10-25T12:38:01.183324+00:00
  - user: None
  - tags: []
-
-## Alex Hyett | Software Developer | YouTuber | Writer
- - [https://www.alexhyett.com](https://www.alexhyett.com)
- - date published: 2023-10-25T12:38:02.282023+00:00
- - user: None
- - tags: []
-
-## Sorta Insightful
- - [https://www.alexirpan.com](https://www.alexirpan.com)
- - date published: 2024-01-12T16:07:48.804677+00:00
- - user: None
- - tags: []
-
-## Alex Panagis | Entrepreneur, SaaS Operator & Investor
- - [https://alexjpanagis.com](https://alexjpanagis.com)
- - date published: 2024-01-13T18:26:31.067280+00:00
- - user: None
- - tags: []
-
-## Alex Kutas blog
- - [https://alexkutas.com](https://alexkutas.com)
- - date published: 2024-02-13T00:00:00+00:00
- - user: None
- - tags: []
-
-## Alex Meub
- - [https://alexmeub.com](https://alexmeub.com)
- - date published: 2023-10-25T09:04:24.113928+00:00
- - user: None
- - tags: ['personal']
 

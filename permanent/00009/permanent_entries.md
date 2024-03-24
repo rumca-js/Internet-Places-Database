@@ -1,3 +1,99 @@
+## Homepage - Modern Farmer
+ - [https://modernfarmer.com](https://modernfarmer.com)
+ - date published: 2023-10-25T10:50:56.136058+00:00
+ - user: None
+ - tags: []
+
+## Modern Font Stacks
+ - [https://modernfontstacks.com](https://modernfontstacks.com)
+ - date published: 2023-10-25T16:05:50.332208+00:00
+ - user: None
+ - tags: []
+
+## Modern for Hacker News
+ - [https://www.modernhn.com](https://www.modernhn.com)
+ - date published: 2023-10-25T16:05:51.568528+00:00
+ - user: None
+ - tags: []
+
+## Modernizr: the feature detection library for HTML5/CSS3
+ - [https://modernizr.com](https://modernizr.com)
+ - date published: 2024-01-09T02:44:07.641831+00:00
+ - user: None
+ - tags: []
+
+## Modernizr: the feature detection library for HTML5/CSS3
+ - [http://modernizr.com](http://modernizr.com)
+ - date published: 2024-02-26T09:38:41.875406+00:00
+ - user: None
+ - tags: []
+
+## Modern SQL: A lot has changed since SQL-92
+ - [https://modern-sql.com](https://modern-sql.com)
+ - date published: 2023-10-25T16:05:37.782237+00:00
+ - user: None
+ - tags: []
+
+## Money Movement APIs | Modern Treasury | ACH, RTP, Wires and more payment methods
+ - [https://www.moderntreasury.com](https://www.moderntreasury.com)
+ - date published: 2023-10-25T16:05:53.474763+00:00
+ - user: None
+ - tags: []
+
+## modplug
+ - [https://www.modplug.com](https://www.modplug.com)
+ - date published: 2024-02-04T12:24:38+00:00
+ - user: rumpel
+ - tags: ['modplug tracker']
+
+## Modrinth
+ - [https://modrinth.com](https://modrinth.com)
+ - date published: 2023-10-25T11:16:51.066359+00:00
+ - user: None
+ - tags: []
+
+## Modular Docs
+ - [https://docs.modular.com](https://docs.modular.com)
+ - date published: 2023-10-25T16:05:54.312316+00:00
+ - user: None
+ - tags: []
+
+## Modular: AI development starts here
+ - [https://www.modular.com](https://www.modular.com)
+ - date published: 2023-10-25T16:05:56.151309+00:00
+ - user: None
+ - tags: []
+
+## ModulAware.com: Modula-2 and Oberon-2 Compiler for HP OpenVMS
+ - [https://www.modulaware.com](https://www.modulaware.com)
+ - date published: 1998-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## mohavedailynews.com
+ - [https://mohavedailynews.com](https://mohavedailynews.com)
+ - date published: 2024-01-09T02:44:10.029862+00:00
+ - user: None
+ - tags: []
+
+## Mohit Pawar.com – Passion Comes First !
+ - [https://mohitpawar.com](https://mohitpawar.com)
+ - date published: 2023-12-31T16:48:04.617160+00:00
+ - user: None
+ - tags: []
+
+## The Official Moist Global Store
+ - [https://moistglobal.com](https://moistglobal.com)
+ - date published: 2024-02-08T21:38:46.046805+00:00
+ - user: None
+ - tags: []
+
+## Mojeek
+ - [https://www.mojeek.com](https://www.mojeek.com)
+ - date published: 2023-10-25T09:07:25.783266+00:00
+ - user: None
+ - tags: ['search engine']
+
 ## Momekh.com - home of disciplined creativity - Momekh.com
  - [https://momekh.com](https://momekh.com)
  - date published: 2023-12-03T15:55:30.572760+00:00
@@ -2249,14 +2345,14 @@
  - tags: []
 
 ## NewssMex
- - [http://www.newssmex.com](http://www.newssmex.com)
- - date published: 2024-02-27T12:33:40.005835+00:00
+ - [https://www.newssmex.com](https://www.newssmex.com)
+ - date published: 2024-02-27T12:34:22.767672+00:00
  - user: None
  - tags: []
 
 ## NewssMex
- - [https://www.newssmex.com](https://www.newssmex.com)
- - date published: 2024-02-27T12:34:22.767672+00:00
+ - [http://www.newssmex.com](http://www.newssmex.com)
+ - date published: 2024-02-27T12:33:40.005835+00:00
  - user: None
  - tags: []
 
@@ -2565,6 +2661,12 @@
  - date published: 2023-10-25T16:19:06.491677+00:00
  - user: None
  - tags: []
+
+## Nicola Iarocci
+ - [https://nicolaiarocci.com](https://nicolaiarocci.com)
+ - date published: 2024-03-18T00:00:00+00:00
+ - user: rumpel
+ - tags: ['personal']
 
 ## nicola rushton - Product Designer
  - [https://nicolarushton.com](https://nicolarushton.com)
@@ -3258,13 +3360,13 @@
  - tags: []
 
 ## Peter Norvig
- - [https://www.norvig.com](https://www.norvig.com)
+ - [http://www.norvig.com](http://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Peter Norvig
- - [http://www.norvig.com](http://www.norvig.com)
+ - [https://www.norvig.com](https://www.norvig.com)
  - date published: 2012-01-01T00:00:00+00:00
  - user: None
  - tags: []
@@ -3582,6 +3684,12 @@ Answering Machine Greetings!
 ## Nuno Donato – "receive with simplicity everything that happens to you" ~ Rashi
  - [https://www.nunodonato.com](https://www.nunodonato.com)
  - date published: 2023-10-25T16:23:16.851212+00:00
+ - user: None
+ - tags: []
+
+## NURA Community | Long COVID and ME/CFS Support
+ - [https://www.nura-community.com](https://www.nura-community.com)
+ - date published: 2024-03-23T18:19:21.999015+00:00
  - user: None
  - tags: []
 
@@ -5128,6 +5236,12 @@ Answering Machine Greetings!
  - user: None
  - tags: []
 
+## Home
+ - [https://run.outsideonline.com](https://run.outsideonline.com)
+ - date published: 2024-03-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## VELO - Competitive Cycling News, Race Results and Bike Reviews
  - [https://velo.outsideonline.com](https://velo.outsideonline.com)
  - date published: 2023-11-02T15:51:17.506295+00:00
@@ -5704,6 +5818,12 @@ Answering Machine Greetings!
  - user: None
  - tags: ['role playing games', 'vampire masquarade']
 
+## Paradox Interactive Forums
+ - [https://forum.paradoxplaza.com](https://forum.paradoxplaza.com)
+ - date published: 2024-03-22T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Growing Products — weekly essays for founders and startup teams
  - [https://growing-products.paralect.com](https://growing-products.paralect.com)
  - date published: 2023-10-25T16:30:41.101886+00:00
@@ -5883,124 +6003,4 @@ Answering Machine Greetings!
  - date published: 2024-02-20T00:00:00+00:00
  - user: None
  - tags: []
-
-## Max  FitzGerald  | Patreon
- - [https://www.patreon.com/Turnip28](https://www.patreon.com/Turnip28)
- - date published: 2023-10-27T15:07:52+00:00
- - user: rumpel
- - tags: ['turnip28', 'tabletop games']
-
-## Home — Patreon
- - [https://www.patreon.com](https://www.patreon.com)
- - date published: 2023-10-25T11:34:19.134811+00:00
- - user: None
- - tags: ['crowdfunding']
-
-## Home · Patrick Collison
- - [https://patrickcollison.com](https://patrickcollison.com)
- - date published: 2023-10-25T08:47:23.257678+00:00
- - user: None
- - tags: ['personal']
-
-## Patrick Conway
- - [https://patrickconway.com](https://patrickconway.com)
- - date published: 2023-11-29T16:18:59.190945+00:00
- - user: None
- - tags: ['personal']
-
-## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
- - [https://www.patrickkeefe.com](https://www.patrickkeefe.com)
- - date published: 2023-12-21T08:24:19.074982+00:00
- - user: None
- - tags: ['personal']
-
-## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
- - [http://www.patrickkeefe.com](http://www.patrickkeefe.com)
- - date published: 2023-12-23T07:30:12.092026+00:00
- - user: None
- - tags: ['personal']
-
-## Patrick Yandell
- - [https://patrickyandell.com](https://patrickyandell.com)
- - date published: 2023-11-29T14:24:18.301040+00:00
- - user: None
- - tags: ['personal']
-
-## Home
- - [https://www.paudal.com](https://www.paudal.com)
- - date published: 2023-12-22T12:44:01.911776+00:00
- - user: None
- - tags: []
-
-## Stone Oakvalley's Amiga Music Collection (SOAMC=) - www.paula8364.com - Download MP3/FLAC files of AMIGA recordings
- - [https://www.paula8364.com](https://www.paula8364.com)
- - date published: 2024-02-15T22:31:28.371188+00:00
- - user: None
- - tags: ['demoscene']
-
-## Networks and Value by Paul Bohm | Substack
- - [https://blog.paulbohm.com](https://blog.paulbohm.com)
- - date published: 2024-01-09T01:38:20.790691+00:00
- - user: None
- - tags: []
-
-## https://tools.paulcalvano.com
- - [https://tools.paulcalvano.com](https://tools.paulcalvano.com)
- - date published: 2024-01-09T02:45:45.126988+00:00
- - user: None
- - tags: []
-
-## Paul Chato | Hello denizens of the internet.
- - [https://www.paulchato.com](https://www.paulchato.com)
- - date published: 2024-02-01T15:37:03+00:00
- - user: rumpel
- - tags: ['youtuber', 'personal']
-
-## Paul Gazzillo
- - [https://paulgazzillo.com](https://paulgazzillo.com)
- - date published: 2024-03-09T12:30:14.689571+00:00
- - user: None
- - tags: ['personal']
-
-## Paul Graham
- - [https://paulgraham.com](https://paulgraham.com)
- - date published: 2024-01-09T02:45:46.595965+00:00
- - user: None
- - tags: []
-
-## Paul Graham
- - [https://www.paulgraham.com](https://www.paulgraham.com)
- - date published: 2024-01-09T02:45:47.953966+00:00
- - user: None
- - tags: []
-
-## Paul Graham AI
- - [https://www.paulgrahamai.com](https://www.paulgrahamai.com)
- - date published: 2023-10-25T16:31:25.983543+00:00
- - user: None
- - tags: []
-
-## | Paul Halme |
- - [https://paulhalme.com](https://paulhalme.com)
- - date published: 2023-12-24T02:30:12.909224+00:00
- - user: None
- - tags: ['personal']
-
-## Paulina
- - [https://paulinasaez.com](https://paulinasaez.com)
- - date published: 2024-01-10T22:40:44.953068+00:00
- - user: None
- - tags: []
-
-## Paul Irish
- - [https://www.paulirish.com](https://www.paulirish.com)
- - date published: 2023-10-25T09:26:01.615259+00:00
- - user: None
- - tags: ['personal']
-
-## Paulo Matsui
- - [https://www.paulomatsui.com](https://www.paulomatsui.com)
- - date published: 2023-12-19T03:01:56.181563+00:00
- - user: None
- - tags: ['personal']
 

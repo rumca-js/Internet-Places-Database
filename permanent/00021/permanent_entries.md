@@ -1,3 +1,225 @@
+## Human Verification
+ - [https://imadakin1.seesaa.net](https://imadakin1.seesaa.net)
+ - date published: 2024-02-08T17:50:35.696687+00:00
+ - user: None
+ - tags: []
+
+## Senko Rašić
+ - [https://blog.senko.net](https://blog.senko.net)
+ - date published: 2023-10-25T20:37:05.334158+00:00
+ - user: None
+ - tags: []
+
+## Sensebridge - making the invisible visible
+ - [https://sensebridge.net](https://sensebridge.net)
+ - date published: 2023-10-25T20:37:12.716842+00:00
+ - user: None
+ - tags: []
+
+## Software Engineering Radio
+ - [https://www.se-radio.net](https://www.se-radio.net)
+ - date published: 2023-10-25T20:36:59.929374+00:00
+ - user: None
+ - tags: []
+
+## ServiceStack - ServiceStack
+ - [https://servicestack.net](https://servicestack.net)
+ - date published: 2023-10-25T20:37:15.489114+00:00
+ - user: None
+ - tags: []
+
+## website
+ - [https://sethops1.net](https://sethops1.net)
+ - date published: 2023-10-25T20:37:16.230243+00:00
+ - user: None
+ - tags: []
+
+## Syonyk's Project Blog
+ - [https://www.sevarg.net](https://www.sevarg.net)
+ - date published: 2023-10-25T20:37:17.657263+00:00
+ - user: None
+ - tags: []
+
+## Seximal is objectively the best way to represent numbers
+ - [https://www.seximal.net](https://www.seximal.net)
+ - date published: 2023-12-17T00:40:28+00:00
+ - user: None
+ - tags: []
+
+## Street Fighter Galleries
+ - [https://sfgalleries.net](https://sfgalleries.net)
+ - date published: 2023-11-01T08:44:05.828730+00:00
+ - user: None
+ - tags: []
+
+## Florian Obser
+ - [https://sha256.net](https://sha256.net)
+ - date published: 2023-10-25T20:37:18.441779+00:00
+ - user: None
+ - tags: []
+
+## Shareaholic
+ - [https://cdn.shareaholic.net](https://cdn.shareaholic.net)
+ - date published: 2023-12-11T16:52:12.963709+00:00
+ - user: None
+ - tags: []
+
+## Script
+ - [https://sharpscript.net](https://sharpscript.net)
+ - date published: 2023-10-25T20:37:20.303154+00:00
+ - user: None
+ - tags: []
+
+## Shellcheck finds bugs in your shell scripts
+ - [https://www.shellcheck.net](https://www.shellcheck.net)
+ - date published: 2023-11-23T19:16:08+00:00
+ - user: None
+ - tags: []
+
+## https://shelterprotocol.net
+ - [https://shelterprotocol.net](https://shelterprotocol.net)
+ - date published: 2024-01-09T03:36:12.371637+00:00
+ - user: None
+ - tags: []
+
+## Shiftall Inc.
+ - [https://en.shiftall.net](https://en.shiftall.net)
+ - date published: 2023-12-20T20:34:36+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
+
+## Sia
+ - [https://www.siamusic.net](https://www.siamusic.net)
+ - date published: 2023-11-13T09:53:58.683069+00:00
+ - user: None
+ - tags: ['music band']
+
+## Silent Lunch, The David Zweig Newsletter | Substack
+ - [https://www.silentlunch.net](https://www.silentlunch.net)
+ - date published: 2023-10-25T20:37:30.571541+00:00
+ - user: None
+ - tags: []
+
+## Simia
+ - [https://simia.net](https://simia.net)
+ - date published: 2024-01-09T03:36:14.548312+00:00
+ - user: None
+ - tags: []
+
+## Simon Duff – Big Data Specialist
+ - [https://simonduff.net](https://simonduff.net)
+ - date published: 2023-12-02T10:26:37.230407+00:00
+ - user: None
+ - tags: ['personal']
+
+## Simon Ong | Architect – Architect. Filipino. Awesome.
+ - [https://simonong.net](https://simonong.net)
+ - date published: 2023-12-03T23:31:04.542735+00:00
+ - user: None
+ - tags: ['personal']
+
+## Mastodon
+ - [https://fedi.simonwillison.net](https://fedi.simonwillison.net)
+ - date published: 2024-03-08T22:47:20.591022+00:00
+ - user: None
+ - tags: ['mastodon']
+
+## Simon Willison’s Weblog
+ - [https://simonwillison.net](https://simonwillison.net)
+ - date published: 2023-10-25T08:41:17.781731+00:00
+ - user: None
+ - tags: ['personal']
+
+## Simon Willison: TIL
+ - [https://til.simonwillison.net](https://til.simonwillison.net)
+ - date published: 2023-10-25T09:23:30.769942+00:00
+ - user: None
+ - tags: ['personal']
+
+## Simson Garfinkel
+ - [https://simson.net](https://simson.net)
+ - date published: 2023-10-25T08:54:01.938085+00:00
+ - user: None
+ - tags: ['personal']
+
+## Home | Skalpel
+ - [https://skalpel.net](https://skalpel.net)
+ - date published: 2023-11-13T10:24:37.435322+00:00
+ - user: None
+ - tags: ['music band']
+
+## Slashgeek
+ - [https://www.slashgeek.net](https://www.slashgeek.net)
+ - date published: 2023-12-21T03:32:58.982506+00:00
+ - user: None
+ - tags: ['personal']
+
+## The Guide to Sleeping in Airports
+ - [https://www.sleepinginairports.net](https://www.sleepinginairports.net)
+ - date published: 2023-10-25T20:37:34.501064+00:00
+ - user: None
+ - tags: []
+
+## Share & Discover Presentations | SlideShare
+ - [https://www.slideshare.net](https://www.slideshare.net)
+ - date published: 2023-10-25T20:37:36.482051+00:00
+ - user: None
+ - tags: []
+
+## The Harbinger Online
+ - [https://smeharbinger.net](https://smeharbinger.net)
+ - date published: 2024-01-13T17:01:24.422838+00:00
+ - user: None
+ - tags: []
+
+## Snack Stack | Doug Mack / Snack Stack | Substack
+ - [https://www.snackstack.net](https://www.snackstack.net)
+ - date published: 2023-10-25T20:37:39.514628+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://snapdrop.net](https://snapdrop.net)
+ - date published: 2024-02-17T19:05:28+00:00
+ - user: rumpel
+ - tags: ['file sharing']
+
+## Sniffnet — comfortably monitor your Internet traffic 🕵️‍♂️
+ - [https://www.sniffnet.net](https://www.sniffnet.net)
+ - date published: 2023-10-25T20:37:40.707759+00:00
+ - user: None
+ - tags: []
+
+## Downworthy: A browser plugin to turn hyperbolic viral headlines into what they really mean
+ - [http://downworthy.snipe.net](http://downworthy.snipe.net)
+ - date published: 2024-01-28T23:58:22.701427+00:00
+ - user: None
+ - tags: []
+
+## Matthias Monroy
+ - [https://digit.so36.net](https://digit.so36.net)
+ - date published: 2023-10-25T08:54:06.996729+00:00
+ - user: None
+ - tags: ['personal']
+
+## Matthias Monroy
+ - [http://digit.so36.net](http://digit.so36.net)
+ - date published: 2024-02-25T19:37:06.416405+00:00
+ - user: None
+ - tags: []
+
+## SoByte
+ - [https://www.sobyte.net](https://www.sobyte.net)
+ - date published: 2023-10-25T20:37:41.884513+00:00
+ - user: None
+ - tags: []
+
+## Softimpact | website design in Lebanon, software, web development company, e-marking Lebanon
+ - [https://www.softimpact.net](https://www.softimpact.net)
+ - date published: 2023-12-11T15:36:19.722727+00:00
+ - user: None
+ - tags: []
+
 ## SaaS Consulting, Software Consulting | Software Platform Consulting
  - [https://www.softwareplatform.net](https://www.softwareplatform.net)
  - date published: 2023-10-25T20:37:48.300137+00:00
@@ -101,16 +323,16 @@
  - tags: []
 
 ## Compare, Download & Develop Open Source & Business Software - SourceForge
- - [http://sourceforge.net](http://sourceforge.net)
- - date published: 2024-02-26T13:07:23.973035+00:00
- - user: None
- - tags: []
-
-## Compare, Download & Develop Open Source & Business Software - SourceForge
  - [https://sourceforge.net](https://sourceforge.net)
  - date published: 2023-10-25T08:41:02.286459+00:00
  - user: rumpel
  - tags: ['software platform', 'open source']
+
+## Compare, Download & Develop Open Source & Business Software - SourceForge
+ - [http://sourceforge.net](http://sourceforge.net)
+ - date published: 2024-02-26T13:07:23.973035+00:00
+ - user: None
+ - tags: []
 
 ## Thinking Forth
  - [https://thinking-forth.sourceforge.net](https://thinking-forth.sourceforge.net)
@@ -911,14 +1133,14 @@
  - tags: ['personal']
 
 ## Stefan Hajnoczi
- - [http://blog.vmsplice.net](http://blog.vmsplice.net)
- - date published: 2024-01-25T00:00:00+00:00
+ - [https://blog.vmsplice.net](https://blog.vmsplice.net)
+ - date published: 2024-01-03T01:08:14.621014+00:00
  - user: None
  - tags: []
 
 ## Stefan Hajnoczi
- - [https://blog.vmsplice.net](https://blog.vmsplice.net)
- - date published: 2024-01-03T01:08:14.621014+00:00
+ - [http://blog.vmsplice.net](http://blog.vmsplice.net)
+ - date published: 2024-01-25T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3492,14 +3714,14 @@ marginalia.nu
  - tags: []
 
 ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date published: 2023-10-25T20:54:01.176781+00:00
+ - [http://cacm.acm.org](http://cacm.acm.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Communications of the ACM
- - [http://cacm.acm.org](http://cacm.acm.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date published: 2023-10-25T20:54:01.176781+00:00
  - user: None
  - tags: []
 
@@ -4499,17 +4721,17 @@ marginalia.nu
  - user: None
  - tags: []
 
-## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
- - [https://archive.org](https://archive.org)
- - date published: 2023-10-25T09:29:04.093943+00:00
- - user: None
- - tags: ['internet archive']
-
 ## Internet Archive: Secret service
  - [https://archive.org/details/secretservicemagazine](https://archive.org/details/secretservicemagazine)
  - date published: 2023-10-27T14:37:50+00:00
  - user: rumpel
  - tags: ['retro', 'magazine']
+
+## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
+ - [https://archive.org](https://archive.org)
+ - date published: 2023-10-25T09:29:04.093943+00:00
+ - user: None
+ - tags: ['internet archive']
 
 ## Internet Archive Blogs | A blog from the team at archive.org
  - [https://blog.archive.org](https://blog.archive.org)
@@ -4616,14 +4838,14 @@ marginalia.nu
  - tags: []
 
 ## Archiveteam
- - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
- - date published: 2024-02-22T00:00:00+00:00
+ - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
+ - date published: 2023-11-25T06:19:37.367056+00:00
  - user: None
  - tags: []
 
 ## Archiveteam
- - [https://wiki.archiveteam.org](https://wiki.archiveteam.org)
- - date published: 2023-11-25T06:19:37.367056+00:00
+ - [http://wiki.archiveteam.org](http://wiki.archiveteam.org)
+ - date published: 2024-02-22T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5776,228 +5998,6 @@ marginalia.nu
 ## CalMatters - California Politics, Policy, and Political News
  - [https://calmatters.org](https://calmatters.org)
  - date published: 2023-10-25T21:05:28.336887+00:00
- - user: None
- - tags: []
-
-## Cambridge Dictionary | English Dictionary, Translations & Thesaurus
- - [https://dictionary.cambridge.org](https://dictionary.cambridge.org)
- - date published: 2023-10-25T09:28:53.881071+00:00
- - user: None
- - tags: []
-
-## Home | Cambridge University Press & Assessment
- - [https://www.cambridge.org](https://www.cambridge.org)
- - date published: 2023-10-25T11:20:49.686300+00:00
- - user: None
- - tags: []
-
-## Campaign against Climate Change |
- - [https://www.campaigncc.org](https://www.campaigncc.org)
- - date published: 2023-10-25T21:05:30.647817+00:00
- - user: None
- - tags: []
-
-## Campaign For Nature
- - [https://www.campaignfornature.org](https://www.campaignfornature.org)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Campus Reform the #1 Source for College News
- - [https://www.campusreform.org](https://www.campusreform.org)
- - date published: 2023-10-25T21:05:35.423675+00:00
- - user: None
- - tags: []
-
-## Home - Cancer Research UK - Cancer News
- - [https://news.cancerresearchuk.org](https://news.cancerresearchuk.org)
- - date published: 2024-03-14T00:00:00+00:00
- - user: None
- - tags: []
-
-## https://canonical.org
- - [https://canonical.org](https://canonical.org)
- - date published: 2024-01-09T02:23:09.369067+00:00
- - user: None
- - tags: []
-
-## Capital Research Center
- - [https://capitalresearch.org](https://capitalresearch.org)
- - date published: 2023-10-25T21:05:39.115851+00:00
- - user: None
- - tags: []
-
-## Cap'n Proto: Introduction
- - [https://capnproto.org](https://capnproto.org)
- - date published: 2023-10-25T21:05:41.035442+00:00
- - user: None
- - tags: []
-
-## Home - Carbon Brief
- - [https://www.carbonbrief.org](https://www.carbonbrief.org)
- - date published: 2023-11-27T12:24:38.485428+00:00
- - user: None
- - tags: ['climate change news']
-
-## CARE - Fighting Global Poverty and World Hunger
- - [https://www.care.org](https://www.care.org)
- - date published: 2023-11-22T01:14:20.947848+00:00
- - user: None
- - tags: []
-
-## Charlie Arehart Server Troubleshooting Tuning Configuration Support
- - [https://www.carehart.org](https://www.carehart.org)
- - date published: 2023-10-25T21:05:43.266786+00:00
- - user: None
- - tags: []
-
-## The Carter Center | Waging Peace, Fighting Disease & Building Hope
- - [https://www.cartercenter.org](https://www.cartercenter.org)
- - date published: 2023-10-25T21:05:47.773483+00:00
- - user: None
- - tags: []
-
-## Joe Casabona - Podcast Coach
- - [https://casabona.org](https://casabona.org)
- - date published: 2024-01-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## Trusted Casino & Sportsbook Guide for 25 Years - Casino.org
- - [https://www.casino.org](https://www.casino.org)
- - date published: 2023-10-25T21:05:55.534104+00:00
- - user: None
- - tags: []
-
-## The Cassandra Dispatch
- - [https://cassandradispatch.org](https://cassandradispatch.org)
- - date published: 2023-10-25T21:05:57.295512+00:00
- - user: None
- - tags: []
-
-## Castopod by Ad Aures | Your Free & Open-source Podcast Host
- - [https://castopod.org](https://castopod.org)
- - date published: 2023-10-25T21:06:03.752582+00:00
- - user: None
- - tags: []
-
-## Cataclysm: Dark Days Ahead
- - [https://cataclysmdda.org](https://cataclysmdda.org)
- - date published: 2023-10-25T21:06:06.264019+00:00
- - user: None
- - tags: []
-
-## catb.org site page
- - [https://catb.org](https://catb.org)
- - date published: 2024-01-09T03:38:33.676764+00:00
- - user: None
- - tags: []
-
-## catb.org site page
- - [https://www.catb.org](https://www.catb.org)
- - date published: 2024-01-09T01:37:45.347428+00:00
- - user: None
- - tags: []
-
-## Home - CatholicVote org
- - [https://catholicvote.org](https://catholicvote.org)
- - date published: 2023-10-25T21:06:11.167042+00:00
- - user: None
- - tags: []
-
-## https://www.cato.org
- - [https://www.cato.org](https://www.cato.org)
- - date published: 2023-11-27T12:23:04+00:00
- - user: rumpel
- - tags: []
-
-## Cato Unbound
- - [https://www.cato-unbound.org](https://www.cato-unbound.org)
- - date published: 2000-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## Document archive
- - [https://doc.cat-v.org](https://doc.cat-v.org)
- - date published: 2023-10-25T21:06:05.415579+00:00
- - user: None
- - tags: []
-
-## cblgh — alexander cobleigh / cblgh.org
- - [https://cblgh.org](https://cblgh.org)
- - date published: 2023-12-10T09:32:39.053237+00:00
- - user: None
- - tags: ['personal']
-
-## Homepage | Center on Budget and Policy Priorities
- - [https://www.cbpp.org](https://www.cbpp.org)
- - date published: 2023-10-25T21:06:23.147057+00:00
- - user: None
- - tags: []
-
-## Catholic Community Foundation of Minnesota
- - [https://www.ccf-mn.org](https://www.ccf-mn.org)
- - date published: 2024-01-25T00:00:00+00:00
- - user: None
- - tags: []
-
-## None
- - [https://www.c-data.org](https://www.c-data.org)
- - date published: 2023-12-27T18:12:07.727727+00:00
- - user: None
- - tags: ['personal']
-
-## C'Dent - A Portable Module Programming Language
- - [https://cdent.org](https://cdent.org)
- - date published: 2024-01-09T03:38:34.492434+00:00
- - user: None
- - tags: []
-
-## cdixon | home
- - [https://cdixon.org](https://cdixon.org)
- - date published: 2023-10-25T21:06:24.893004+00:00
- - user: None
- - tags: []
-
-## Cédric Bonhomme's website
- - [https://www.cedricbonhomme.org](https://www.cedricbonhomme.org)
- - date published: 2023-11-29T14:22:40.544756+00:00
- - user: None
- - tags: ['personal']
-
-## Celebratio Mathematica
- - [https://celebratio.org](https://celebratio.org)
- - date published: 2023-10-25T21:06:28.716375+00:00
- - user: None
- - tags: []
-
-## Centauri Dreams – Imagining and Planning Interstellar Exploration
- - [https://www.centauri-dreams.org](https://www.centauri-dreams.org)
- - date published: 2023-10-25T21:06:41.664630+00:00
- - user: None
- - tags: []
-
-## Center for Building in North America
- - [https://www.centerforbuilding.org](https://www.centerforbuilding.org)
- - date published: 2008-01-01T00:00:00+00:00
- - user: None
- - tags: []
-
-## USC Center for Health Journalism
- - [https://centerforhealthjournalism.org](https://centerforhealthjournalism.org)
- - date published: 2024-02-19T00:00:00+00:00
- - user: None
- - tags: []
-
-## Johns Hopkins Center for Health Security
- - [https://www.centerforhealthsecurity.org](https://www.centerforhealthsecurity.org)
- - date published: 2023-10-25T21:06:44.275121+00:00
- - user: None
- - tags: []
-
-## lists.centos.org Mailing Lists
- - [https://lists.centos.org](https://lists.centos.org)
- - date published: 2023-10-25T21:06:46.268573+00:00
  - user: None
  - tags: []
 

@@ -1,3 +1,225 @@
+## Cambridge Dictionary | English Dictionary, Translations & Thesaurus
+ - [https://dictionary.cambridge.org](https://dictionary.cambridge.org)
+ - date published: 2023-10-25T09:28:53.881071+00:00
+ - user: None
+ - tags: []
+
+## Home | Cambridge University Press & Assessment
+ - [https://www.cambridge.org](https://www.cambridge.org)
+ - date published: 2023-10-25T11:20:49.686300+00:00
+ - user: None
+ - tags: []
+
+## Campaign against Climate Change |
+ - [https://www.campaigncc.org](https://www.campaigncc.org)
+ - date published: 2023-10-25T21:05:30.647817+00:00
+ - user: None
+ - tags: []
+
+## Campaign For Nature
+ - [https://www.campaignfornature.org](https://www.campaignfornature.org)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Campus Reform the #1 Source for College News
+ - [https://www.campusreform.org](https://www.campusreform.org)
+ - date published: 2023-10-25T21:05:35.423675+00:00
+ - user: None
+ - tags: []
+
+## Home - Cancer Research UK - Cancer News
+ - [https://news.cancerresearchuk.org](https://news.cancerresearchuk.org)
+ - date published: 2024-03-14T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## https://canonical.org
+ - [https://canonical.org](https://canonical.org)
+ - date published: 2024-01-09T02:23:09.369067+00:00
+ - user: None
+ - tags: []
+
+## Capital Research Center
+ - [https://capitalresearch.org](https://capitalresearch.org)
+ - date published: 2023-10-25T21:05:39.115851+00:00
+ - user: None
+ - tags: []
+
+## Cap'n Proto: Introduction
+ - [https://capnproto.org](https://capnproto.org)
+ - date published: 2023-10-25T21:05:41.035442+00:00
+ - user: None
+ - tags: []
+
+## Home - Carbon Brief
+ - [https://www.carbonbrief.org](https://www.carbonbrief.org)
+ - date published: 2023-11-27T12:24:38.485428+00:00
+ - user: None
+ - tags: ['climate change news']
+
+## CARE - Fighting Global Poverty and World Hunger
+ - [https://www.care.org](https://www.care.org)
+ - date published: 2023-11-22T01:14:20.947848+00:00
+ - user: None
+ - tags: []
+
+## Charlie Arehart Server Troubleshooting Tuning Configuration Support
+ - [https://www.carehart.org](https://www.carehart.org)
+ - date published: 2023-10-25T21:05:43.266786+00:00
+ - user: None
+ - tags: []
+
+## The Carter Center | Waging Peace, Fighting Disease & Building Hope
+ - [https://www.cartercenter.org](https://www.cartercenter.org)
+ - date published: 2023-10-25T21:05:47.773483+00:00
+ - user: None
+ - tags: []
+
+## Joe Casabona - Podcast Coach
+ - [https://casabona.org](https://casabona.org)
+ - date published: 2024-01-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Trusted Casino & Sportsbook Guide for 25 Years - Casino.org
+ - [https://www.casino.org](https://www.casino.org)
+ - date published: 2023-10-25T21:05:55.534104+00:00
+ - user: None
+ - tags: []
+
+## The Cassandra Dispatch
+ - [https://cassandradispatch.org](https://cassandradispatch.org)
+ - date published: 2023-10-25T21:05:57.295512+00:00
+ - user: None
+ - tags: []
+
+## Castopod by Ad Aures | Your Free & Open-source Podcast Host
+ - [https://castopod.org](https://castopod.org)
+ - date published: 2023-10-25T21:06:03.752582+00:00
+ - user: None
+ - tags: []
+
+## Cataclysm: Dark Days Ahead
+ - [https://cataclysmdda.org](https://cataclysmdda.org)
+ - date published: 2023-10-25T21:06:06.264019+00:00
+ - user: None
+ - tags: []
+
+## catb.org site page
+ - [https://catb.org](https://catb.org)
+ - date published: 2024-01-09T03:38:33.676764+00:00
+ - user: None
+ - tags: []
+
+## catb.org site page
+ - [https://www.catb.org](https://www.catb.org)
+ - date published: 2024-01-09T01:37:45.347428+00:00
+ - user: None
+ - tags: []
+
+## Home - CatholicVote org
+ - [https://catholicvote.org](https://catholicvote.org)
+ - date published: 2023-10-25T21:06:11.167042+00:00
+ - user: None
+ - tags: []
+
+## https://www.cato.org
+ - [https://www.cato.org](https://www.cato.org)
+ - date published: 2023-11-27T12:23:04+00:00
+ - user: rumpel
+ - tags: []
+
+## Cato Unbound
+ - [https://www.cato-unbound.org](https://www.cato-unbound.org)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Document archive
+ - [https://doc.cat-v.org](https://doc.cat-v.org)
+ - date published: 2023-10-25T21:06:05.415579+00:00
+ - user: None
+ - tags: []
+
+## cblgh — alexander cobleigh / cblgh.org
+ - [https://cblgh.org](https://cblgh.org)
+ - date published: 2023-12-10T09:32:39.053237+00:00
+ - user: None
+ - tags: ['personal']
+
+## Homepage | Center on Budget and Policy Priorities
+ - [https://www.cbpp.org](https://www.cbpp.org)
+ - date published: 2023-10-25T21:06:23.147057+00:00
+ - user: None
+ - tags: []
+
+## Catholic Community Foundation of Minnesota
+ - [https://www.ccf-mn.org](https://www.ccf-mn.org)
+ - date published: 2024-01-25T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## None
+ - [https://www.c-data.org](https://www.c-data.org)
+ - date published: 2023-12-27T18:12:07.727727+00:00
+ - user: None
+ - tags: ['personal']
+
+## C'Dent - A Portable Module Programming Language
+ - [https://cdent.org](https://cdent.org)
+ - date published: 2024-01-09T03:38:34.492434+00:00
+ - user: None
+ - tags: []
+
+## cdixon | home
+ - [https://cdixon.org](https://cdixon.org)
+ - date published: 2023-10-25T21:06:24.893004+00:00
+ - user: None
+ - tags: []
+
+## Cédric Bonhomme's website
+ - [https://www.cedricbonhomme.org](https://www.cedricbonhomme.org)
+ - date published: 2023-11-29T14:22:40.544756+00:00
+ - user: None
+ - tags: ['personal']
+
+## Celebratio Mathematica
+ - [https://celebratio.org](https://celebratio.org)
+ - date published: 2023-10-25T21:06:28.716375+00:00
+ - user: None
+ - tags: []
+
+## Centauri Dreams – Imagining and Planning Interstellar Exploration
+ - [https://www.centauri-dreams.org](https://www.centauri-dreams.org)
+ - date published: 2023-10-25T21:06:41.664630+00:00
+ - user: None
+ - tags: []
+
+## Center for Building in North America
+ - [https://www.centerforbuilding.org](https://www.centerforbuilding.org)
+ - date published: 2008-01-01T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## USC Center for Health Journalism
+ - [https://centerforhealthjournalism.org](https://centerforhealthjournalism.org)
+ - date published: 2024-02-19T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Johns Hopkins Center for Health Security
+ - [https://www.centerforhealthsecurity.org](https://www.centerforhealthsecurity.org)
+ - date published: 2023-10-25T21:06:44.275121+00:00
+ - user: None
+ - tags: []
+
+## lists.centos.org Mailing Lists
+ - [https://lists.centos.org](https://lists.centos.org)
+ - date published: 2023-10-25T21:06:46.268573+00:00
+ - user: None
+ - tags: []
+
 ## The CentOS Project
  - [https://www.centos.org](https://www.centos.org)
  - date published: 2023-11-06T10:09:56.671715+00:00
@@ -1063,16 +1285,16 @@
  - tags: []
 
 ## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
- - [http://cvsgui.org](http://cvsgui.org)
- - date published: 2024-03-05T00:16:31.622060+00:00
- - user: None
- - tags: []
-
-## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
  - [https://cvsgui.org](https://cvsgui.org)
  - date published: 2024-03-04T12:06:02+00:00
  - user: rumpel
  - tags: ['control version system', 'program', 'open source']
+
+## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
+ - [http://cvsgui.org](http://cvsgui.org)
+ - date published: 2024-03-05T00:16:31.622060+00:00
+ - user: None
+ - tags: []
 
 ## California Water Environment Association | Champions of Wastewater
  - [https://www.cwea.org](https://www.cwea.org)
@@ -1706,14 +1928,14 @@
  - tags: []
 
 ## Resolve a DOI Name
- - [https://dx.doi.org](https://dx.doi.org)
- - date published: 2023-12-03T01:17:58.110575+00:00
+ - [http://dx.doi.org](http://dx.doi.org)
+ - date published: 2024-02-27T01:04:33.113692+00:00
  - user: None
  - tags: []
 
 ## Resolve a DOI Name
- - [http://dx.doi.org](http://dx.doi.org)
- - date published: 2024-02-27T01:04:33.113692+00:00
+ - [https://dx.doi.org](https://dx.doi.org)
+ - date published: 2023-12-03T01:17:58.110575+00:00
  - user: None
  - tags: []
 
@@ -1913,7 +2135,7 @@
  - [https://dune3d.org](https://dune3d.org)
  - date published: 2023-11-01T08:44:19.648377+00:00
  - user: None
- - tags: []
+ - tags: ['program', 'cad']
 
 ## dungeoncrawlers.org - Keep calm and crawl dungeons.
  - [https://www.dungeoncrawlers.org](https://www.dungeoncrawlers.org)
@@ -2665,6 +2887,12 @@
  - user: None
  - tags: []
 
+## Fancyclopedia 3 - Fancyclopedia 3
+ - [https://fancyclopedia.org](https://fancyclopedia.org)
+ - date published: 2000-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
 ## Fanlore
  - [https://fanlore.org](https://fanlore.org)
  - date published: 2023-10-25T13:58:14.775906+00:00
@@ -3190,6 +3418,12 @@
 ## FreeBSD Git repositories
  - [https://cgit.freebsd.org](https://cgit.freebsd.org)
  - date published: 2023-10-25T21:22:28.105203+00:00
+ - user: None
+ - tags: []
+
+## FreeBSD Documentation Archive
+ - [https://docs-archive.freebsd.org](https://docs-archive.freebsd.org)
+ - date published: 1999-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3874,6 +4108,12 @@
  - user: None
  - tags: []
 
+## Investigations and advocacy for climate justice & civic freedoms | Global Witness
+ - [https://www.globalwitness.org](https://www.globalwitness.org)
+ - date published: 2024-02-21T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Home | GLOBSEC - A Global Think Tank: Ideas Shaping the World
  - [https://www.globsec.org](https://www.globsec.org)
  - date published: 2023-10-25T21:25:21.123333+00:00
@@ -3911,16 +4151,16 @@
  - tags: ['gnome']
 
 ## GNOME Blogs – A blogging community for GNOME contributors
- - [https://blogs.gnome.org](https://blogs.gnome.org)
- - date published: 2023-10-25T21:25:31.296886+00:00
- - user: None
- - tags: ['blogs']
-
-## GNOME Blogs – A blogging community for GNOME contributors
  - [http://blogs.gnome.org](http://blogs.gnome.org)
  - date published: 2024-03-20T00:00:00+00:00
  - user: None
  - tags: []
+
+## GNOME Blogs – A blogging community for GNOME contributors
+ - [https://blogs.gnome.org](https://blogs.gnome.org)
+ - date published: 2023-10-25T21:25:31.296886+00:00
+ - user: None
+ - tags: ['blogs']
 
 ## GNOME Circle
  - [https://circle.gnome.org](https://circle.gnome.org)
@@ -4842,14 +5082,14 @@
  - tags: []
 
 ## IEEE Spectrum
- - [https://spectrum.ieee.org](https://spectrum.ieee.org)
- - date published: 2023-10-25T09:37:30.327947+00:00
+ - [http://spectrum.ieee.org](http://spectrum.ieee.org)
+ - date published: 2024-02-25T20:49:03.401404+00:00
  - user: None
  - tags: []
 
 ## IEEE Spectrum
- - [http://spectrum.ieee.org](http://spectrum.ieee.org)
- - date published: 2024-02-25T20:49:03.401404+00:00
+ - [https://spectrum.ieee.org](https://spectrum.ieee.org)
+ - date published: 2023-10-25T09:37:30.327947+00:00
  - user: None
  - tags: []
 
@@ -5363,10 +5603,10 @@
  - user: None
  - tags: []
 
-## Cierpliwości...
+## Journals of the American College of Cardiology
  - [https://www.jacc.org](https://www.jacc.org)
- - date published: 2024-03-22T12:51:41.257207+00:00
- - user: None
+ - date published: 2024-03-22T12:51:41+00:00
+ - user: rumpel
  - tags: []
 
 ## https://www.jacionline.org
@@ -5769,248 +6009,6 @@ Welcome
 ## https://jumblejournal.org
  - [https://jumblejournal.org](https://jumblejournal.org)
  - date published: 2024-01-09T03:41:09.606051+00:00
- - user: None
- - tags: []
-
-## Stop irreversible damage to the Amazon
- - [https://www.junglekeepers.org](https://www.junglekeepers.org)
- - date published: 2023-10-25T21:35:45.246371+00:00
- - user: None
- - tags: []
-
-## Jupyter Blog
- - [https://blog.jupyter.org](https://blog.jupyter.org)
- - date published: 2023-10-25T08:31:26.996270+00:00
- - user: None
- - tags: []
-
-## Just Security - A Forum on Law, Rights, and U.S. National Security
- - [https://www.justsecurity.org](https://www.justsecurity.org)
- - date published: 2023-10-25T21:35:52.137435+00:00
- - user: None
- - tags: []
-
-## None
- - [https://cdn.jwz.org](https://cdn.jwz.org)
- - date published: 2024-02-26T14:57:02.948004+00:00
- - user: None
- - tags: []
-
-## jwz.org
- - [https://www.jwz.org](https://www.jwz.org)
- - date published: 2022-01-01T00:00:00+00:00
- - user: None
- - tags: ['interesting', 'personal', 'blog']
-
-## Jyotirgamya
- - [https://jyotirgamya.org](https://jyotirgamya.org)
- - date published: 2024-03-08T16:31:42.318651+00:00
- - user: None
- - tags: []
-
-## Kakoune - Official site
- - [https://kakoune.org](https://kakoune.org)
- - date published: 2023-10-25T21:35:52.995500+00:00
- - user: None
- - tags: []
-
-## سوبر مُجيب | سؤال وجواب
- - [https://kal-el.org](https://kal-el.org)
- - date published: 2024-02-08T16:32:04.706189+00:00
- - user: None
- - tags: []
-
-## Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution
- - [https://www.kali.org](https://www.kali.org)
- - date published: 2023-10-27T16:38:43.999429+00:00
- - user: None
- - tags: ['operating system']
-
-## Kalpataru
- - [https://kalpatarurudra.org](https://kalpatarurudra.org)
- - date published: 2023-11-02T03:25:41.929209+00:00
- - user: None
- - tags: []
-
-## Kamby Language
- - [https://kamby.org](https://kamby.org)
- - date published: 2023-10-25T21:35:58.399472+00:00
- - user: None
- - tags: []
-
-## Kanban Project Management Software - Kanboard
- - [https://kanboard.org](https://kanboard.org)
- - date published: 2023-10-25T21:35:59.351365+00:00
- - user: None
- - tags: []
-
-## KanColl: The Kansas Collection Welcome Page
- - [https://www.kancoll.org](https://www.kancoll.org)
- - date published: 2023-11-15T17:44:31.559724+00:00
- - user: None
- - tags: ['personal']
-
-## Kart
- - [https://kartproject.org](https://kartproject.org)
- - date published: 2024-01-09T03:41:10.946630+00:00
- - user: None
- - tags: []
-
-## KaTeX – The fastest math typesetting library for the web
- - [https://katex.org](https://katex.org)
- - date published: 2023-10-25T21:36:00.014489+00:00
- - user: None
- - tags: []
-
-## KAXE - Homepage | KAXE
- - [https://www.kaxe.org](https://www.kaxe.org)
- - date published: 2024-03-01T07:05:48.774297+00:00
- - user: None
- - tags: []
-
-## KCUR | KCUR - Kansas City news and NPR
- - [https://www.kcur.org](https://www.kcur.org)
- - date published: 2023-11-04T18:28:47.889014+00:00
- - user: None
- - tags: []
-
-## KDE Bugtracking System Main Page
- - [https://bugs.kde.org](https://bugs.kde.org)
- - date published: 2024-02-01T21:35:21.710668+00:00
- - user: None
- - tags: []
-
-## KDE Community Wiki
- - [https://community.kde.org](https://community.kde.org)
- - date published: 2024-03-12T21:03:10.494551+00:00
- - user: None
- - tags: []
-
-## KDE Discuss - KDE Community
- - [https://discuss.kde.org](https://discuss.kde.org)
- - date published: 2023-10-25T21:36:01.965434+00:00
- - user: None
- - tags: []
-
-## KDE Eco
- - [https://eco.kde.org](https://eco.kde.org)
- - date published: 2023-10-25T21:36:03.672195+00:00
- - user: None
- - tags: []
-
-## Explore groups · GitLab
- - [https://invent.kde.org](https://invent.kde.org)
- - date published: 2023-10-25T21:36:04.476762+00:00
- - user: None
- - tags: []
-
-## Home - KDE Community
- - [https://kde.org](https://kde.org)
- - date published: 2023-10-25T21:36:06.463462+00:00
- - user: None
- - tags: ['kde', 'open source', 'linux desktop environment', 'linux']
-
-## KDE Mailing Lists - KDE Community
- - [https://mail.kde.org](https://mail.kde.org)
- - date published: 2023-10-25T21:36:08.509574+00:00
- - user: None
- - tags: []
-
-## Browse  Latest | https://store.kde.org/browse/
- - [https://store.kde.org](https://store.kde.org)
- - date published: 2023-11-05T10:28:13.360219+00:00
- - user: None
- - tags: []
-
-## Kdenlive - Video Editing Freedom
- - [https://kdenlive.org](https://kdenlive.org)
- - date published: 2024-03-09T00:00:00+00:00
- - user: None
- - tags: ['open source']
-
-## KeePassXC Password Manager
- - [https://keepassxc.org](https://keepassxc.org)
- - date published: 2023-10-25T21:36:09.258338+00:00
- - user: None
- - tags: ['password manager', 'open source']
-
-## Knowledge Ecology International - Attending and mending the knowledge ecosystem
- - [https://www.keionline.org](https://www.keionline.org)
- - date published: 2023-10-25T21:36:12.622310+00:00
- - user: None
- - tags: []
-
-## Kelake
- - [https://kelake.org](https://kelake.org)
- - date published: 2024-02-02T00:00:00+00:00
- - user: None
- - tags: []
-
-## KFF - Home Page
- - [https://kellerfamilyfoundation.org](https://kellerfamilyfoundation.org)
- - date published: 2024-02-08T16:20:58.418318+00:00
- - user: None
- - tags: []
-
-## KERA - Homepage | KERA News
- - [https://www.keranews.org](https://www.keranews.org)
- - date published: 2023-11-20T11:24:52.643626+00:00
- - user: None
- - tags: []
-
-## K5Wiki
- - [https://k5wiki.kerberos.org](https://k5wiki.kerberos.org)
- - date published: 2024-02-08T16:52:03.370831+00:00
- - user: None
- - tags: []
-
-## Open-Source Kermit Project -
-Free, Portable, Scriptable, Transport-Independent Communications Software.
-Hosted by Panix.com.
- - [https://www.kermitproject.org](https://www.kermitproject.org)
- - date published: 2023-10-25T21:36:15.806979+00:00
- - user: None
- - tags: []
-
-## Kernel.org Bugzilla Main Page
- - [https://bugzilla.kernel.org](https://bugzilla.kernel.org)
- - date published: 2023-10-25T21:36:18.126215+00:00
- - user: None
- - tags: []
-
-## Kernel.org git repositories
- - [https://git.kernel.org](https://git.kernel.org)
- - date published: 2023-10-25T21:36:22.264353+00:00
- - user: None
- - tags: []
-
-## The Linux Kernel Archives
- - [https://kernel.org](https://kernel.org)
- - date published: 2023-11-06T10:02:37.263414+00:00
- - user: None
- - tags: ['linux']
-
-## public-inbox listing
- - [https://lore.kernel.org](https://lore.kernel.org)
- - date published: 2023-10-25T21:36:24.705702+00:00
- - user: None
- - tags: []
-
-## mirrors.kernel.org
- - [https://mirrors.edge.kernel.org](https://mirrors.edge.kernel.org)
- - date published: 2023-10-25T21:36:25.751314+00:00
- - user: None
- - tags: []
-
-## people.kernel.org Reader
- - [https://people.kernel.org](https://people.kernel.org)
- - date published: 2023-10-25T21:36:30.389450+00:00
- - user: None
- - tags: []
-
-## Home
- - [https://kernel-recipes.org](https://kernel-recipes.org)
- - date published: 2023-01-01T00:00:00+00:00
  - user: None
  - tags: []
 

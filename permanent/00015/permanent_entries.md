@@ -1,3 +1,153 @@
+## Yelp
+ - [https://yelp.com](https://yelp.com)
+ - date published: 2024-05-24T00:00:00+00:00
+ - user: rumpel
+ - tags: ['ranking']
+
+## None
+ - [https://blog.yenniejun.com](https://blog.yenniejun.com)
+ - date published: 2024-01-09T02:55:29.774770+00:00
+ - user: None
+ - tags: []
+
+## YKM's Corner on the Web
+ - [https://yeokhengmeng.com](https://yeokhengmeng.com)
+ - date published: 2023-10-25T18:22:37.585912+00:00
+ - user: None
+ - tags: []
+
+## Yet Another Blog
+ - [https://www.yet-another-blog.com](https://www.yet-another-blog.com)
+ - date published: 2023-10-25T18:22:39.053631+00:00
+ - user: None
+ - tags: []
+
+## Yinson Lee
+ - [https://yinsonlee.com](https://yinsonlee.com)
+ - date published: 2023-12-30T15:37:35.027510+00:00
+ - user: None
+ - tags: ['personal']
+
+## Yisheng's blog – software engineering, poetry and short stories
+ - [https://yishenggong.com](https://yishenggong.com)
+ - date published: 2023-10-25T18:22:43.268814+00:00
+ - user: None
+ - tags: []
+
+## Kami Community - Official Kami Community. Ask questions, get answers and connect with your fellow Kami users.
+ - [https://forum.yitechnology.com](https://forum.yitechnology.com)
+ - date published: 2023-10-25T18:22:47.588798+00:00
+ - user: None
+ - tags: []
+
+## Yannic Kilcher
+ - [https://www.ykilcher.com](https://www.ykilcher.com)
+ - date published: 2023-10-25T18:22:48.702538+00:00
+ - user: None
+ - tags: []
+
+## Ylvis – Official website
+ - [https://www.ylvis.com](https://www.ylvis.com)
+ - date published: 2023-11-13T09:57:49.851972+00:00
+ - user: None
+ - tags: ['music band']
+
+## Y.M.Cinema - News and Insights on Digital Cinema
+ - [https://ymcinema.com](https://ymcinema.com)
+ - date published: 2023-10-25T18:22:54.121601+00:00
+ - user: None
+ - tags: []
+
+## ynetnews - Homepage
+ - [https://www.ynetnews.com](https://www.ynetnews.com)
+ - date published: 2023-10-25T11:48:08.047931+00:00
+ - user: None
+ - tags: ['israel', 'news', 'jewish']
+
+## SEO for everyone
+ - [https://yoast.com](https://yoast.com)
+ - date published: 2023-12-11T16:10:14.247260+00:00
+ - user: None
+ - tags: []
+
+## YoboWargames – Hex based wargames
+ - [https://www.yobowargames.com](https://www.yobowargames.com)
+ - date published: 2023-10-25T18:23:01.907368+00:00
+ - user: None
+ - tags: []
+
+## Y o h a n c a
+ - [https://yohanca.com](https://yohanca.com)
+ - date published: 2024-01-30T14:39:29.778540+00:00
+ - user: None
+ - tags: []
+
+## Yorick Peterse
+ - [https://yorickpeterse.com](https://yorickpeterse.com)
+ - date published: 2023-10-25T18:23:03.114867+00:00
+ - user: None
+ - tags: []
+
+## Yossi Kreinin
+ - [https://yosefk.com](https://yosefk.com)
+ - date published: 2023-10-25T18:23:05.096406+00:00
+ - user: None
+ - tags: ['personal']
+
+## Yoshua Wuyts — Blog
+ - [https://blog.yoshuawuyts.com](https://blog.yoshuawuyts.com)
+ - date published: 2023-10-25T18:23:07.449278+00:00
+ - user: None
+ - tags: []
+
+## YoLink Products - Longest Range, By Far!
+ - [https://yosmart.com](https://yosmart.com)
+ - date published: 2024-03-03T11:33:54.365943+00:00
+ - user: None
+ - tags: []
+
+## The AI Search Engine You Control | AI Chat & Apps
+ - [https://you.com](https://you.com)
+ - date published: 2023-10-25T18:23:08.879353+00:00
+ - user: None
+ - tags: []
+
+## You Are Not Your Mother – Learning to Parent Differently
+ - [https://youarenotyourmother.com](https://youarenotyourmother.com)
+ - date published: 2024-02-04T03:30:31.061896+00:00
+ - user: None
+ - tags: []
+
+## Improve Your English Pronunciation
+ - [https://youglish.com](https://youglish.com)
+ - date published: 2024-01-09T02:55:40.353729+00:00
+ - user: None
+ - tags: []
+
+## YouGov | What the world thinks
+ - [https://today.yougov.com](https://today.yougov.com)
+ - date published: 2023-12-10T17:50:02.757757+00:00
+ - user: None
+ - tags: []
+
+## YouMagine – YouMagine - Where makers collaborate on 3D designs 🚀
+ - [https://www.youmagine.com](https://www.youmagine.com)
+ - date published: 2023-10-27T10:31:57.935885+00:00
+ - user: None
+ - tags: ['3d printing', 'assets models']
+
+## You Might Not Need JavaScript
+ - [https://youmightnotneedjs.com](https://youmightnotneedjs.com)
+ - date published: 2024-01-09T02:55:41.534989+00:00
+ - user: None
+ - tags: []
+
+## YOURBARNABAS.COM
+ - [https://yourbarnabas.com](https://yourbarnabas.com)
+ - date published: 2024-01-06T08:54:10.485569+00:00
+ - user: None
+ - tags: []
+
 ## 首发清资源站点域名收藏 - 全集免费在线观看--seahee影视网
  - [http://www.yourebetterthanbrunch.com](http://www.yourebetterthanbrunch.com)
  - date published: 2023-11-29T14:18:45.093281+00:00
@@ -70,59 +220,11 @@
  - user: None
  - tags: []
 
-## YouTube
- - [http://www.youtube.com](http://www.youtube.com)
- - date published: 2024-03-06T00:00:00+00:00
- - user: None
- - tags: []
-
-## Luetin09 YouTube Channel
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ)
- - date published: 2023-11-08T09:33:03+00:00
- - user: rumpel
- - tags: ['wargames', 'tabletop games', 'warhammer']
-
-## Squidmar Miniatures
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g)
- - date published: 2023-11-08T09:58:45+00:00
- - user: rumpel
- - tags: ['warhammer', 'wargames', 'miniatures']
-
 ## Jeff Geerling YouTube Channel
  - [https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg)
  - date published: 2023-11-03T10:34:47+00:00
  - user: rumpel
  - tags: ['youtuber', 'single-board', 'raspberry']
-
-## Tabletop Minions
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ)
- - date published: 2023-11-08T09:59:26+00:00
- - user: rumpel
- - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
-
-## Miniac
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g)
- - date published: 2023-11-08T10:01:11+00:00
- - user: rumpel
- - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
-
-## NewRetroWave YouTube Channel
- - [https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g](https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g)
- - date published: 2023-11-13T09:23:17+00:00
- - user: rumpel
- - tags: ['synthwave', 'new retro wave']
-
-## YouTube Channel hipoonios
- - [https://www.youtube.com/@hipoonios](https://www.youtube.com/@hipoonios)
- - date published: 2023-11-02T10:41:50+00:00
- - user: rumpel
- - tags: ['amiga']
-
-## LukHash YouTube Channel
- - [https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw](https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw)
- - date published: 2023-11-03T14:42:18+00:00
- - user: rumpel
- - tags: []
 
 ## Eta Prime YouTube Channel
  - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
@@ -130,11 +232,11 @@
  - user: rumpel
  - tags: ['youtuber', 'single-board', 'raspberry']
 
-## YouTube
- - [https://www.youtube.com](https://www.youtube.com)
- - date published: 2023-10-24T20:05:58.291792+00:00
- - user: None
- - tags: ['google', 'gatekeeper', 'video streaming']
+## YouTube Channel hipoonios
+ - [https://www.youtube.com/@hipoonios](https://www.youtube.com/@hipoonios)
+ - date published: 2023-11-02T10:41:50+00:00
+ - user: rumpel
+ - tags: ['amiga']
 
 ## Louis Rossmann YouTube Channel
  - [https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w](https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w)
@@ -142,15 +244,63 @@
  - user: rumpel
  - tags: ['right to repair']
 
+## Miniac
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCrTkWZb_-iNPzknoQeVkH1g)
+ - date published: 2023-11-08T10:01:11+00:00
+ - user: rumpel
+ - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
+
+## Luetin09 YouTube Channel
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ)
+ - date published: 2023-11-08T09:33:03+00:00
+ - user: rumpel
+ - tags: ['wargames', 'tabletop games', 'warhammer']
+
+## NewRetroWave YouTube Channel
+ - [https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g](https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g)
+ - date published: 2023-11-13T09:23:17+00:00
+ - user: rumpel
+ - tags: ['synthwave', 'new retro wave']
+
 ## YouTube
- - [https://youtube.com](https://youtube.com)
- - date published: 2023-11-14T01:45:17.978988+00:00
+ - [http://www.youtube.com](http://www.youtube.com)
+ - date published: 2024-03-06T00:00:00+00:00
  - user: None
  - tags: []
+
+## Tabletop Minions
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ)
+ - date published: 2023-11-08T09:59:26+00:00
+ - user: rumpel
+ - tags: ['warhammer', 'wargames', 'tabletop games', 'miniatures']
+
+## Squidmar Miniatures
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g](https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g)
+ - date published: 2023-11-08T09:58:45+00:00
+ - user: rumpel
+ - tags: ['warhammer', 'wargames', 'miniatures']
+
+## LukHash YouTube Channel
+ - [https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw](https://www.youtube.com/channel/UCPOeoWonGJfK6wM3S8hZ0Tw)
+ - date published: 2023-11-03T14:42:18+00:00
+ - user: rumpel
+ - tags: []
+
+## YouTube
+ - [https://www.youtube.com](https://www.youtube.com)
+ - date published: 2023-10-24T20:05:58.291792+00:00
+ - user: None
+ - tags: ['google', 'gatekeeper', 'video streaming']
 
 ## YouTube
  - [http://youtube.com](http://youtube.com)
  - date published: 2024-03-06T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## YouTube
+ - [https://youtube.com](https://youtube.com)
+ - date published: 2023-11-14T01:45:17.978988+00:00
  - user: None
  - tags: []
 
@@ -714,14 +864,14 @@
  - tags: ['wtf']
 
 ## None
- - [https://abcnews.go.comhttps](https://abcnews.go.comhttps)
- - date published: 2024-02-02T08:24:31.883332+00:00
+ - [abcnews.go.comhttps](abcnews.go.comhttps)
+ - date published: 2024-01-09T02:55:46.479176+00:00
  - user: None
  - tags: []
 
 ## None
- - [abcnews.go.comhttps](abcnews.go.comhttps)
- - date published: 2024-01-09T02:55:46.479176+00:00
+ - [https://abcnews.go.comhttps](https://abcnews.go.comhttps)
+ - date published: 2024-02-02T08:24:31.883332+00:00
  - user: None
  - tags: []
 
@@ -774,14 +924,14 @@
  - tags: []
 
 ## Writing by Bob Doto
- - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
- - date published: 2024-02-26T14:37:32.413264+00:00
+ - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
+ - date published: 2024-01-09T02:55:47.919867+00:00
  - user: None
  - tags: []
 
 ## Writing by Bob Doto
- - [https://writing.bobdoto.computer](https://writing.bobdoto.computer)
- - date published: 2024-01-09T02:55:47.919867+00:00
+ - [http://writing.bobdoto.computer](http://writing.bobdoto.computer)
+ - date published: 2024-02-26T14:37:32.413264+00:00
  - user: None
  - tags: []
 
@@ -1103,6 +1253,12 @@
  - user: None
  - tags: []
 
+## Historie jízdního kola nejen pro sběratele a milovníky historických kol - ŠTĚRBA-BIKE.cz
+ - [https://www.sterba-bike.cz](https://www.sterba-bike.cz)
+ - date published: 2024-03-23T19:27:00+00:00
+ - user: rumpel
+ - tags: ['bike', 'bike news']
+
 ## Kamil Tomšík
  - [https://tomsik.cz](https://tomsik.cz)
  - date published: 2023-12-09T18:59:39.029990+00:00
@@ -1218,14 +1374,14 @@
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
- - [http://amiga-news.de](http://amiga-news.de)
- - date published: 2024-02-26T14:42:58.001349+00:00
+ - [https://amiga-news.de](https://amiga-news.de)
+ - date published: 2023-10-25T11:01:48.109047+00:00
  - user: None
  - tags: []
 
 ## amiga-news.de - Amiga-News auf den Punkt gebracht
- - [https://amiga-news.de](https://amiga-news.de)
- - date published: 2023-10-25T11:01:48.109047+00:00
+ - [http://amiga-news.de](http://amiga-news.de)
+ - date published: 2024-02-26T14:42:58.001349+00:00
  - user: None
  - tags: []
 
@@ -1491,13 +1647,13 @@ home
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [http://www.classic-videogames.de](http://www.classic-videogames.de)
+ - [https://www.classic-videogames.de](https://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
 
 ## CLASSIC VIDEOGAMES
- - [https://www.classic-videogames.de](https://www.classic-videogames.de)
+ - [http://www.classic-videogames.de](http://www.classic-videogames.de)
  - date published: 2024-02-02T00:00:00+00:00
  - user: None
  - tags: []
@@ -2150,6 +2306,12 @@ Heinsohn
 ## Visual Computing and Artificial Intelligence
  - [https://vcai.mpi-inf.mpg.de](https://vcai.mpi-inf.mpg.de)
  - date published: 2023-10-25T18:32:16.725149+00:00
+ - user: None
+ - tags: []
+
+## Max Planck Institute for Evolutionary Biology
+ - [http://web.evolbio.mpg.de](http://web.evolbio.mpg.de)
+ - date published: 2024-03-23T05:54:24.155625+00:00
  - user: None
  - tags: []
 
@@ -5117,7 +5279,7 @@ Heinsohn
  - [https://ctcctv.pages.dev](https://ctcctv.pages.dev)
  - date published: 2024-03-13T14:42:55+00:00
  - user: None
- - tags: []
+ - tags: ['california cctv']
 
 ## Indeed Job Scam
  - [https://indeedjobscam.pages.dev](https://indeedjobscam.pages.dev)
@@ -5668,14 +5830,14 @@ Heinsohn
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date published: 2023-10-25T18:42:09.401241+00:00
+ - [http://socket.dev](http://socket.dev)
+ - date published: 2024-02-24T00:00:00+00:00
  - user: None
  - tags: []
 
 ## Socket - Secure your supply chain. Ship with confidence.
- - [http://socket.dev](http://socket.dev)
- - date published: 2024-02-24T00:00:00+00:00
+ - [https://socket.dev](https://socket.dev)
+ - date published: 2023-10-25T18:42:09.401241+00:00
  - user: None
  - tags: []
 
@@ -5846,166 +6008,4 @@ Heinsohn
  - date published: 2023-10-25T18:42:57.493336+00:00
  - user: None
  - tags: []
-
-## Thomas SIMON
- - [https://thomassimon.dev](https://thomassimon.dev)
- - date published: 2023-10-25T08:49:00.185996+00:00
- - user: None
- - tags: ['personal']
-
-## https://thorp.dev
- - [https://thorp.dev](https://thorp.dev)
- - date published: 2023-12-18T22:40:03.169679+00:00
- - user: None
- - tags: ['personal']
-
-## thunderseethe's devlog
- - [https://thunderseethe.dev](https://thunderseethe.dev)
- - date published: 2023-10-25T08:58:54.572602+00:00
- - user: None
- - tags: ['personal']
-
-## Show HN: Timelock.dev – Send a secret into the future using timelock encryption
- - [https://timelock.dev](https://timelock.dev)
- - date published: 2024-03-10T18:46:19+00:00
- - user: None
- - tags: []
-
-## Tailwind CSS 11-color Palette Generator and API
- - [https://www.tints.dev](https://www.tints.dev)
- - date published: 2024-02-02T14:48:44.570871+00:00
- - user: None
- - tags: []
-
-## Toji.dev | Brandon Jones - Graphics and XR on the web
- - [https://toji.dev](https://toji.dev)
- - date published: 2023-10-25T18:42:59.243389+00:00
- - user: None
- - tags: []
-
-## Harrison Totty
- - [https://harrison.totty.dev](https://harrison.totty.dev)
- - date published: 2023-10-25T08:58:55.261635+00:00
- - user: None
- - tags: ['personal']
-
-## Trigger.dev | The open source background jobs framework
- - [https://trigger.dev](https://trigger.dev)
- - date published: 2023-10-25T08:34:42.404388+00:00
- - user: None
- - tags: []
-
-## trycatch.dev
- - [https://trycatch.dev](https://trycatch.dev)
- - date published: 2023-10-25T09:26:21.531803+00:00
- - user: None
- - tags: ['personal']
-
-## TSDocs.dev: type docs for any javascript library
- - [https://tsdocs.dev](https://tsdocs.dev)
- - date published: 2023-12-19T16:34:15+00:00
- - user: None
- - tags: []
-
-## Typehero: All you need to become a TypeScript menace
- - [https://typehero.dev](https://typehero.dev)
- - date published: 2023-12-04T03:53:55+00:00
- - user: None
- - tags: []
-
-## Tyrel Souza's Website
- - [https://tyrel.dev](https://tyrel.dev)
- - date published: 2024-01-14T08:12:19.493787+00:00
- - user: None
- - tags: []
-
-## Ujjwal Goel
- - [https://ujjwal.dev](https://ujjwal.dev)
- - date published: 2023-10-25T08:49:01.473893+00:00
- - user: None
- - tags: ['personal']
-
-## Unlighthouse - Site-wide Google Lighthouse · Unlighthouse
- - [https://unlighthouse.dev](https://unlighthouse.dev)
- - date published: 2023-10-25T18:43:02.237015+00:00
- - user: None
- - tags: []
-
-## Unovis
- - [https://unovis.dev](https://unovis.dev)
- - date published: 2023-10-25T18:43:05.156320+00:00
- - user: None
- - tags: []
-
-## Unravelled Development
- - [https://www.unravelled.dev](https://www.unravelled.dev)
- - date published: 2023-10-25T18:43:07.018711+00:00
- - user: None
- - tags: []
-
-## Unzip.dev - Developer trends newsletter
- - [https://unzip.dev](https://unzip.dev)
- - date published: 2023-10-25T18:43:08.774440+00:00
- - user: None
- - tags: []
-
-## Uptrace
- - [https://app.uptrace.dev](https://app.uptrace.dev)
- - date published: 2023-10-25T18:43:14.827578+00:00
- - user: None
- - tags: []
-
-## Find Hacker News candidates and jobs powered by ChatGPT
- - [https://hnjobs.u-turn.dev](https://hnjobs.u-turn.dev)
- - date published: 2023-11-01T15:43:46.245419+00:00
- - user: None
- - tags: []
-
-## V8 JavaScript engine
- - [https://v8.dev](https://v8.dev)
- - date published: 2023-10-25T18:43:16.107391+00:00
- - user: None
- - tags: []
-
-## The Vale programming language
- - [https://vale.dev](https://vale.dev)
- - date published: 2023-12-29T05:00:00+00:00
- - user: None
- - tags: []
-
-## Hylo | The Hylo Programming Language
- - [https://www.val-lang.dev](https://www.val-lang.dev)
- - date published: 2023-10-25T18:43:18.033836+00:00
- - user: None
- - tags: []
-
-## Zowie van Dillen
- - [https://z.vandillen.dev](https://z.vandillen.dev)
- - date published: 2023-10-25T18:43:19.713621+00:00
- - user: None
- - tags: []
-
-## Vector
- - [https://vector.dev](https://vector.dev)
- - date published: 2024-02-08T12:21:52.860550+00:00
- - user: None
- - tags: []
-
-## https://verdagon.dev
- - [https://verdagon.dev](https://verdagon.dev)
- - date published: 2024-01-09T02:57:36.072519+00:00
- - user: None
- - tags: []
-
-## Verifiable Credentials
- - [https://verifiablecredentials.dev](https://verifiablecredentials.dev)
- - date published: 2023-10-25T18:43:28.655087+00:00
- - user: None
- - tags: []
-
-## victoria.dev
- - [https://victoria.dev](https://victoria.dev)
- - date published: 2023-10-25T09:26:22.317356+00:00
- - user: None
- - tags: ['personal']
 

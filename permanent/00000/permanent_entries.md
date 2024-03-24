@@ -8,7 +8,7 @@
  - [https://pack.ac](https://pack.ac)
  - date published: 2024-03-22T20:49:42.626365+00:00
  - user: None
- - tags: []
+ - tags: ['archive program', 'program', 'open source']
 
 ## About · Game Hacking Academy
  - [https://gamehacking.academy](https://gamehacking.academy)
@@ -1612,6 +1612,12 @@
  - user: None
  - tags: []
 
+## Unify (YC W23) Is Hiring
+ - [https://apply.unify.ai](https://apply.unify.ai)
+ - date published: 2024-03-23T17:00:05+00:00
+ - user: None
+ - tags: []
+
 ## AI News & Robotics News - Unite.AI
  - [https://www.unite.ai](https://www.unite.ai)
  - date published: 2023-10-25T11:00:48.637068+00:00
@@ -2248,6 +2254,12 @@
  - user: None
  - tags: []
 
+## Scale & Ship Faster with a Composable Web Architecture | Netlify
+ - [https://netlify.app](https://netlify.app)
+ - date published: 2024-03-23T07:29:16+00:00
+ - user: rumpel
+ - tags: ['online service']
+
 ## Introduction to Modern Statistics (2nd Ed)
  - [https://openintro-ims2.netlify.app](https://openintro-ims2.netlify.app)
  - date published: 2023-10-25T11:47:41.166682+00:00
@@ -2511,6 +2523,12 @@
  - date published: 2024-02-21T17:56:13.597364+00:00
  - user: None
  - tags: []
+
+## Soupault: A static website management tool
+ - [https://soupault.app](https://soupault.app)
+ - date published: 2024-03-23T02:19:13+00:00
+ - user: None
+ - tags: ['static website']
 
 ## Spectrolite
  - [https://spectrolite.app](https://spectrolite.app)
@@ -4396,6 +4414,12 @@
  - user: None
  - tags: []
 
+## БТА
+ - [https://www.bta.bg](https://www.bta.bg)
+ - date published: 2024-03-23T20:19:13.028549+00:00
+ - user: None
+ - tags: []
+
 ## Borislav Stanimirov
  - [https://ibob.bg](https://ibob.bg)
  - date published: 2023-10-25T09:01:22.391586+00:00
@@ -5974,28 +5998,4 @@
  - date published: 2023-10-25T09:02:17.770370+00:00
  - user: None
  - tags: ['personal']
-
-## Tim Gadanidis - Home
- - [https://gadanidis.ca](https://gadanidis.ca)
- - date published: 2023-10-25T08:42:54.581662+00:00
- - user: None
- - tags: ['personal']
-
-## National Gallery of Canada
- - [https://www.gallery.ca](https://www.gallery.ca)
- - date published: 2023-11-13T13:45:23.318113+00:00
- - user: None
- - tags: ['museum']
-
-## Global News | Breaking, Latest News and Video for Canada
- - [https://globalnews.ca](https://globalnews.ca)
- - date published: 2023-10-25T10:36:35.873873+00:00
- - user: None
- - tags: []
-
-## Home - Global ResearchGlobal Research - Centre for Research on Globalization
- - [https://www.globalresearch.ca](https://www.globalresearch.ca)
- - date published: 2023-10-25T12:05:13.017051+00:00
- - user: None
- - tags: []
 

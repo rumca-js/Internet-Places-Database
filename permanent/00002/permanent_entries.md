@@ -1,3 +1,33 @@
+## Alex Hyett | Software Developer | YouTuber | Writer
+ - [https://www.alexhyett.com](https://www.alexhyett.com)
+ - date published: 2023-10-25T12:38:02.282023+00:00
+ - user: None
+ - tags: []
+
+## Sorta Insightful
+ - [https://www.alexirpan.com](https://www.alexirpan.com)
+ - date published: 2024-01-12T16:07:48.804677+00:00
+ - user: None
+ - tags: []
+
+## Alex Panagis | Entrepreneur, SaaS Operator & Investor
+ - [https://alexjpanagis.com](https://alexjpanagis.com)
+ - date published: 2024-01-13T18:26:31.067280+00:00
+ - user: None
+ - tags: []
+
+## Alex Kutas blog
+ - [https://alexkutas.com](https://alexkutas.com)
+ - date published: 2024-02-13T00:00:00+00:00
+ - user: None
+ - tags: []
+
+## Alex Meub
+ - [https://alexmeub.com](https://alexmeub.com)
+ - date published: 2023-10-25T09:04:24.113928+00:00
+ - user: None
+ - tags: ['personal']
+
 ## Alex Molas
  - [https://www.alexmolas.com](https://www.alexmolas.com)
  - date published: 2023-10-25T09:04:24.675550+00:00
@@ -755,14 +785,14 @@
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
- - date published: 2018-01-01T00:00:00+00:00
+ - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
+ - date published: 2024-01-09T02:29:24.245847+00:00
  - user: None
  - tags: []
 
 ## Jobs in AMIGA INFORMATICS, AMIGA INFORMATICS
- - [https://careers.amigainformatics.com](https://careers.amigainformatics.com)
- - date published: 2024-01-09T02:29:24.245847+00:00
+ - [http://careers.amigainformatics.com](http://careers.amigainformatics.com)
+ - date published: 2018-01-01T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -3145,6 +3175,12 @@
 ## Audioboom
  - [https://audioboom.com](https://audioboom.com)
  - date published: 2023-10-25T12:48:19.825674+00:00
+ - user: None
+ - tags: []
+
+## Home Theater Reviews, HDTV, HDMI Receivers
+ - [https://www.audioholics.com](https://www.audioholics.com)
+ - date published: 2024-03-21T00:00:00+00:00
  - user: None
  - tags: []
 
@@ -5961,40 +5997,4 @@
  - date published: 2023-10-25T09:06:01.627020+00:00
  - user: None
  - tags: ['personal']
-
-## BeeLine
- - [https://beelineblogger.blogspot.com](https://beelineblogger.blogspot.com)
- - date published: 2023-10-25T09:06:07.861952+00:00
- - user: None
- - tags: ['personal']
-
-## Bike With Joe
- - [https://bikewithjoe.blogspot.com](https://bikewithjoe.blogspot.com)
- - date published: 2024-02-09T22:19:11.889344+00:00
- - user: None
- - tags: ['personal']
-
-## Follow me down the optimization rabbit hole
- - [https://bitbanksoftware.blogspot.com](https://bitbanksoftware.blogspot.com)
- - date published: 2023-10-25T09:06:09.966506+00:00
- - user: None
- - tags: ['personal']
-
-## Bits, Math and Performance(?)
- - [https://bitmath.blogspot.com](https://bitmath.blogspot.com)
- - date published: 2023-10-25T09:06:12.474139+00:00
- - user: None
- - tags: ['personal']
-
-## The Brassic Gamer
- - [https://brassicgamer.blogspot.com](https://brassicgamer.blogspot.com)
- - date published: 2023-10-25T09:06:15.283500+00:00
- - user: None
- - tags: ['personal']
-
-## PowerOfBabel
- - [https://brer-powerofbabel.blogspot.com](https://brer-powerofbabel.blogspot.com)
- - date published: 2023-11-28T07:48:07+00:00
- - user: None
- - tags: ['personal', 'blog']
 
